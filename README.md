@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 08:50:18**
+As of **2024-11-21 05:50:14**
 
 ## Newspaper Stats
 
-*Scraped **56,049** Articles*
+*Scraped **56,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,260 +17,20 @@ economynextcom | 3,397
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,272
-adaderanalk | 6,765
-tamilmirrorlk | 7,947
+adaderanalk | 6,764
+tamilmirrorlk | 7,943
 virakesarilk | 9,099
-adaderanasinhalalk | 9,686
+adaderanasinhalalk | 9,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,045 (100.0%) of 56,049 articles have been extended.
+56,027 (100.0%) of 56,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### විද්‍යුත් තිර භාවිතය හේතුවෙන් ළමුන් අතර අක්ෂි දෝෂ ඉහළ යාමේ ප්‍රවණතාවක්
-
-*2024-11-21 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203588) · `si`
-
-විද්‍යුත් තිර භාවිතය හේතුවෙන් ළමුන් අතර අක්ෂි දෝෂ ඉහළ යාමේ ප්‍රවණතාවක් පවතින බව කොළඹ රිජිවේ ආර්යා ළමා රෝහලේ ළමා අක්ෂි රෝග පිළිබඳ විශේෂඥ වෛද්‍ය අනූෂා තැන්නෙකුඹුර මහත්මිය පවසයි.
-
-ඇය පෙන්වා දෙන්නේ මේ හේතුවෙන් අවිදුර දුෂ්ටිකත්වය හෙවත් දුර පෙනීමේ දෝෂය ඉහළ යාමේ ප්‍රවණතාවක් පවතින බවය.
-
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍යවරිය මේ බව පැවසුවාය.
-
-"දැනට ලෝකයේ 30%ක පමණ ප්‍රවණතාවයක් මෙම අවිදුර දුෂ්ටිකත්වය තියෙනවා. ඉදිරි 2050 වන විට මෙය 50%ක් දක්වා වැඩි වෙයි කියන එක ඇස්තමේන්තු කරලා තියෙන්නේ. ඒකට ප්‍රධානම හේතුවක් විදිහට අපි සළකන්නේ ඩිජිටල් තිර භාවිතය සහ ඒ තුළින් ඇතිවන එළිමහන් ක්‍රියාකාරකම් අඩුවීම කියන ප්‍රධානම කාරණාවන් දෙක."
-
-◼️
-
-[Data](articles/de7f4ea0.json)
-
----
-
-### இன்று 100 மில்லிமீற்றருக்கும் அதிகமான மழை
-
-*2024-11-21 08:12:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லிமீற்றருக்கும்-அதிகமான-மழை/175-347531) · `ta`
-
-வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்களில் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடுமென வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
-
-மாலை அல்லது இரவு வேளையில் நாட்டின் ஏனைய பகுதிகளில் பல இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
-
-மேல், சபரகமுவ மற்றும் தென் மாகாணங்களில் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/eb323a1a.json)
-
----
-
-### 10 ஆவது பாராளுமன்றம் இன்று கூடுகிறது
-
-*2024-11-21 08:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றம்-இன்று-கூடுகிறது/175-347530) · `ta`
-
-இன்றைய தினம் சபாநாயகர் தெரிவு செய்யப்படவுள்ளதுடன் ஜனாதிபதி அனுரகுமார திசாநாயக்க அரசாங்கத்தின் கொள்கை பிரகடனத்தை முன்வைக்கவுள்ளார்.
-
-இதன்படி இன்று முற்பகல் 11.30 அளவில் ஜனாதிபதி அரசாங்கத்தின் கொள்கை பிரகடனத்தை முன்வைக்கவுள்ளதாக பாராளுமன்ற தொடர்பாடல் திணைக்களம் தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/413d129a.json)
-
----
-
-### IMF Representatives Special Meeting - Discussions
-
-*2024-11-21 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203587) · `si`
-
-IMF reps meet Energy Ministry & Ceylon Electricity Board today. Discuss electricity tariff revision procedures. IMF views will inform new proposal. To be submitted to Public Utilities Commission soon. PUC previously approved 6.6% fare reduction. CEB to draft new resolution.
-
-🟩
-
-The International Monetary Fund representatives are to meet with Energy Ministry and Ceylon Electricity Board.
-
-The discussion is scheduled to be held this morning (21) morning.
-
-The electricity tariff revision and discussions are to be discussed with the procedure of the relevant institutions.
-
-After obtaining the views of the International Monetary Fund representatives, the proposal to revise the electricity tariff is expected to be prepared.
-
-Accordingly, in the next few days, the relevant proposal is to be handed over to the Public Utilities Commission.
-
-On October 24, a proposal for the revision of the electricity tariff was handed over to the Public Utilities Commission on October 24.
-
-The Public Utilities Commission also informed the reduction of the electricity fares by 6.6 percent as a whole.
-
-The Public Utilities Commission has informed the Ceylon Electricity Board to formulate a new resolution and submit a new proposal.
-
-◼️
-
-[Data](articles/0c3bba23.json)
-
-[Extended Data](ext_articles/0c3bba23.ext.json)
-
----
-
-### 10 kilos of ice and 60 kilo of Horoin arrested
-
-*2024-11-21 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203585) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Matara police arrest 10 suspects with 160kg ice & 60kg heroin. Investigation ongoing."
-
-🟩
-
-Ten persons were arrested with 160 kg of ice and 60 kilograms of horoscly.
-
-The suspects have been arrested by the Matara Division Criminal Investigation Bureau in Matara.
-
-◼️
-
-[Data](articles/8156bfaa.json)
-
-[Extended Data](ext_articles/8156bfaa.ext.json)
-
----
-
-### Heavy showers above 100 mm likely in several provinces
-
-*2024-11-21 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103647/heavy-showers-above-100-mm-likely-in-several-provinces) · `en`
-
-A low-pressure area is likely to form over southeast Bay of Bengal around 23 November and thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent two days, says the Met. Department.
-
-The system may intensify further and move near the Eastern coast of Sri Lanka. The general public is requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regard, it said.
-
-The Meteorology Department further said showers or thundershowers will occur at times in the Northern, North central and Eastern provinces today.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning.
-
-...
-
-[Data](articles/fdd6ee54.json)
-
-[Extended Data](ext_articles/fdd6ee54.ext.json)
-
----
-
-### Deputy Ministers Affidle to this evening - Speaker Ranwala?
-
-*2024-11-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203584) · `si`
-
-MP Asoka Ranwala to become Speaker of New Parliament. First committee of 10th Parliament opens today. Deputy Ministers to be sworn in later at Presidential Secretariat. Approximately 27 deputy ministerial portfolios to be allocated.
-
-🟩
-
-The National Tower Speed ​​has decided to appoint MP Asoka Ranwala as Speaker of the New Parliament.
-
-The first committee of the 10th Parliament is scheduled to open today (21).
-
-The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
-
-Deputy Ministers of the New Government will be sworn in after the completion of the affairs of Parliament.
-
-Deputy Ministers are to be sworn in at the Presidential Secretariat and nearly 27 deputy ministerial portfolios are to be awarded.
-
-◼️
-
-[Data](articles/540ae20f.json)
-
-[Extended Data](ext_articles/540ae20f.ext.json)
-
----
-
-### The first congregation in Parliament begins today
-
-*2024-11-21 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203583) · `si`
-
-First Parliament session begins today. Key events include Speaker election, Deputy Speaker appointment, oath-taking ceremony, and presidential address. No orders for MPs on first day; temporary suspension at end of session.
-
-🟩
-
-The first committee of the 10th Parliament is scheduled to open today (21).
-
-The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
-
-The Deputy Speaker and Deputy Speaker and Deputy Committee Chairman will appoint the official pledge or oath, providing the official pledge or oath after the Speaker's elections.
-
-There is no order for MPs on the first day and MPs are entitled to sit on a disabled seat.
-
-The Parliament will be temporarily suspended at the end of these basic work and President Anura Kumara Dissanayake has been presented to the Parliament of President Anura Kumara Dissanayake to the Parliament.
-
-On the advice of the president, a charming ceremony will be held as a charm and Jayamaangala stanzards, three armed forces, and the armble, salutives and charging.
-
-Accordingly, by 11:00 am, all the invitees will be seated and the Speaker is to be recognized at 11.10 am.
-
-Subsequently accepted the Prime Minister and the President arrives only.
-
-...
-
-[Data](articles/f9e8377c.json)
-
-[Extended Data](ext_articles/f9e8377c.ext.json)
-
----
-
-### Dickwella shooting - Man dies
-
-*2024-11-21 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203582) · `si`
-
-Dickwella shooting: 48-year-old man killed by motorcycle gunman in Walasgala area. Police investigation ongoing.
-
-🟩
-
-Police say that the Veterinary Office near the Veterinary Office in the Walasgala area has been shot at 5.30 am today.
-
-A person who was traveling with a motorcycle was shot dead, and the man had died in that location.
-
-The victim was a 48-year-old resident of the Walasgala area.
-
-The information is yet to be revealed as to who shot.
-
-◼️
-
-[Data](articles/ccf31461.json)
-
-[Extended Data](ext_articles/ccf31461.ext.json)
-
----
-
-### Showers over 100mm, Sabaragamuwa and South
-
-*2024-11-21 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203580) · `si`
-
-Heavy rainfall warnings issued for Western, Sabaragamuwa, and Southern provinces. Low-pressure system developing off southeast coast. Thunderstorms possible nationwide, especially evenings/nights. Public advised to take precautions against lightning and strong winds.
-
-🟩
-
-There may be Heavy experiences over 100 mm in the Western, Sabaragamuwa and Southern provinces.
-
-Meanwhile, the Department of Meteorology announces that a low-pressure zone of the Southeast Bay Bay Bay Bay Bay Bay Bay of Bay Bay Bay of Bay Bay Bay of Bay Bay.
-
-The system is expected to grow to the eastern coast of the island.
-
-Meanwhile, there may be showers or thundershowers at times in the North, North-central and eastern provinces.
-
-Thundershowers during the evening or night during the evening or night in the rest of the island.
-
-Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces can last a morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/741831be.json)
-
-[Extended Data](ext_articles/741831be.ext.json)
-
----
 
 ### AKD and JVP-NPP’s mega-mandate: Re-founding the nation
 
@@ -552,64 +312,6 @@ The Ambassador noted that the Chinese government had already provided the techni
 
 ---
 
-### Accident in Mullaitivu: 2 youths killed
-
-*2024-11-21 01:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவில்-கோர-விபத்து-2-இளைஞர்கள்-பலி/175-347529) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-"2 youths killed, 1 injured in motorcycle collision in Mullaitivu. Accident occurred on Wednesday evening near Mallavi-Vanniwilangulam area. Chandran Vidusan (20) and Vijayakumar Vidarshan (20) died."
-
-🟩
-
-Two youths were killed and another injured in an accident occurred on Wednesday evening in Mallavi - Vanniwilangulam area in Mullaitivu.
-
-The accident occurred as a motorcycle from Mankulam to Mallavi and a motorcycle traveling from Mallavi to Mangulam collided head -on.
-
-Chandran Vidusan (age 20) from Vannivilangulam area and Vijayakumar Vidarshan (20 years old) from Mankulam - New Colony area have died.. (A)
-
-◼️
-
-[Data](articles/3b547b6b.json)
-
-[Extended Data](ext_articles/3b547b6b.ext.json)
-
----
-
-### 12 Indian fishermen released with conditions
-
-*2024-11-21 01:22:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-12-பேர்-நிபந்தனைகளுடன்-விடுதலை/175-347528) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-12 Indian fishermen arrested for fishing near Sri Lanka's border. Released on bail with conditions: 10-year ban on fishing in Pedro Sea. Case filed for attacking Navy during arrest. Remanded until Nov 27.
-
-🟩
-
-The Point Pedro Magistrate has ordered the release of 12 Indian fishermen who were arrested on charges of fishing on the border with the border.
-
-In the early hours of November 12, the Sri Lankan navy arrested 12 Indian fishermen on charges of fishing in the Pedro seas and handed over to the Aquatic Resources Department after the investigation.
-
-Magistrate Krisanthan Ponnuthurai had ordered that they be kept in detention until yesterday when they were produced in the Point Pedro Court that day.
-
-The 12 fishermen were produced before the Point Pedro Magistrate on Monday morning.
-
-Accordingly, the magistrate has ordered the postponement of both the owner and the boat owner and the sailboat for postponing it for 10 years and postponing it for 10 years.
-
-Meanwhile, the Point Pedro Police have registered a case against the fishermen in connection with the attack on the Navy during the arrest.
-
-...
-
-[Data](articles/79451579.json)
-
-[Extended Data](ext_articles/79451579.ext.json)
-
----
-
 ### Imran's Saka Court
 
 *2024-11-21 01:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிப்பானை-இம்ரானின்-சகா-நீதிமன்றத்தில்-முன்னிலை/175-347527) · `ta`
@@ -680,8 +382,6 @@ Elevating its digital presence to new heights, National Development Bank PLC (ND
 
 [Data](articles/8db3b254.json)
 
-[Extended Data](ext_articles/8db3b254.ext.json)
-
 ---
 
 ### 2024-11-20 (Wednesday)
@@ -702,8 +402,6 @@ The full text of the SLBA congratulatory message: “Please accept our heartfelt
 
 [Data](articles/41014478.json)
 
-[Extended Data](ext_articles/41014478.ext.json)
-
 ---
 
 ### Sri Lanka’s current nutrition challenges: How can they be addressed?
@@ -719,8 +417,6 @@ The nutritional landscape can significantly improve through shifts in tobacco an
 ...
 
 [Data](articles/cb685a32.json)
-
-[Extended Data](ext_articles/cb685a32.ext.json)
 
 ---
 
@@ -951,8 +647,6 @@ Turnover stood at Rs 2.7 billion with four crossings. Those crossings were repor
 ...
 
 [Data](articles/40701709.json)
-
-[Extended Data](ext_articles/40701709.ext.json)
 
 ---
 
@@ -2437,5 +2131,295 @@ Ajwad thanked the Secretary General for the sentiments and “recalled Sri Lanka
 [Data](articles/d42dac8e.json)
 
 [Extended Data](ext_articles/d42dac8e.ext.json)
+
+---
+
+### Bail to Harin
+
+*2024-11-20 14:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினுக்கு-பிணை/175-347500) · `ta`
+
+Harin Fernando, former minister, arrested for election violation, released on bail of 1 million rupees.
+
+🟩
+
+Former minister Harin Fernando, who was arrested in connection with the election violation during the general election held on November 14, has been released on bail.
+
+He was ordered to be released on two physical bail worth Rs 500,000 each.
+
+◼️
+
+[Data](articles/a7deed48.json)
+
+[Extended Data](ext_articles/a7deed48.ext.json)
+
+---
+
+### Here is the judicial decision for Harin Fernando
+
+*2024-11-20 14:12:13* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-හරීන්-ප්‍රනාන්දුට-අධිකරණ-දුන්-තීන්දුව-මෙන්න/11-413168) · `si`
+
+Harin Fernando, former MP, granted bail by Badulla Magistrate's Court on 20th.
+
+🟩
+
+Former Parliamentarian Harin Fernando has released on bail.
+
+The event was produced before the Badulla Magistrate's Court today (20th).
+
+◼️
+
+[Data](articles/b9a8fa8f.json)
+
+[Extended Data](ext_articles/b9a8fa8f.ext.json)
+
+---
+
+### Vice Chancellor of Ruhuna is stable
+
+*2024-11-20 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203561) · `si`
+
+Ruhuna University Vice Chancellor denies charges, rejects resignation calls. Non-academic staff and students on strike. Government talks ongoing, but Sathyagraha continues.
+
+🟩
+
+Vice Chancellor of the University of Ruhunu says that he will reject all charges against him, says Senior Professor of Ruhunu.
+
+He pointed out that even though he requested to resign and resigned, he has not prepared to resign.
+
+The University, non-academic staff and students have launched a strike since yesterday (19).
+
+A special discussion was held at the Prime Minister Amarasuriya and the University Tra University Union Joint Committee on the issue.
+
+However, the Joint Communication Committee states that it will continue to implement a Sathyagraha as it is not solved.
+
+"Today, Ada Derana Vice Chancellor of the University of Ruhuna.
+
+...
+
+[Data](articles/fbb4277a.json)
+
+[Extended Data](ext_articles/fbb4277a.ext.json)
+
+---
+
+### Former Minister Harin Fernando granted bail
+
+*2024-11-20 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103634/former-minister-harin-fernando-granted-bail-) · `en`
+
+Former Minister Harin Fernando, who was arrested this morning (20), has been released on bail, after being produced before the Badulla Magistrate’s Court.
+
+Accordingly, he has been ordered released on two surety bail of Rs. 500,000 each, Ada Derana reporter said.
+
+Fernando was arrested by the Badulla Police on allegations of election law violations, after he arrived at Badulla Police to provide a statement regarding the alleged incident this morning (20).
+
+Fernando had been asked to appear before Badulla Police this morning (20) in order to provide a statement regarding an incident with the police during election campaigning carried out in Badulla on 11 November 2024.
+
+Recently, a heated situation had arisen between the police and the former minister who was with a group of his supporters as they walking in the Badulla town wearing t-shirts with ‘number 10’, which was Fernando’s preference number in the 2024 General Election.
+
+...
+
+[Data](articles/0623da6c.json)
+
+[Extended Data](ext_articles/0623da6c.ext.json)
+
+---
+
+### Harin bailed
+
+*2024-11-20 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203560) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Harin Fernando released on bail after arrest for violating election laws. He faced six charges related to parliamentary election violations. Bail amount set by Badulla Magistrate.
+
+🟩
+
+Former Minister Harin Fernando was released on bail.
+
+The Badulla Magistrate has been released on two bail of Rs.
+
+Harin Fernando was arrested by the Badulla Police this morning to violate election laws.
+
+He had six charges against the parliamentary election and six charges against him.
+
+◼️
+
+[Data](articles/ad359d4a.json)
+
+[Extended Data](ext_articles/ad359d4a.ext.json)
+
+---
+
+### Student killed in earthquake
+
+*2024-11-20 13:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்மேடு-விழுந்ததில்-மாணவன்-பலி/76-347497) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Schoolgirl dies as mudslide collapses house during earthquake. 16-year-old Senara Dilshan perished in Kallawatta, Teldeniya. Investigations reveal soil pressure caused wall collapse.
+
+🟩
+
+A schoolgirl has died after a mudslide collapsed on a house in the Kallawatta area under the Teldeniya Police Division, Medamahanuwara Vatuliyatta Grama Niladhari Division.. 16 -year -old TM. A student named Senara Dilshan has died.
+
+Investigations have revealed that the house of a schoolgirl had died between the soil and the walls of the house.
+
+◼️
+
+[Data](articles/d22bd42d.json)
+
+[Extended Data](ext_articles/d22bd42d.ext.json)
+
+---
+
+### Husband
+
+*2024-11-20 13:28:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மனைவியை-எரித்து-கொன்றார்-சந்தேக-கணவன்/94-347496) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Husband pours kerosene on wife suspected of infidelity. Wife dies from burns. Husband hospitalized with minor injuries. Neighbors intervene, hospitalizing both.
+
+🟩
+
+Puttalam police say that the husband and the mother of two children have poured kerosene on the body of the mother of two children after the wife was suspicious of someone else.
+
+The mother of two children who suffered severe burns died on Tuesday (19) after being admitted to the Chilaw General Hospital, police said.
+
+Jamaldeen Fatima Sapuna, the mother of two 28 -year -old children from Thiladia, Puttalam, has died.
+
+It is reported that the husband who went off when the wife was burning, had been admitted to the Puttalam Hospital for minor burns.
+
+It is reported that the mother of two children, who set fire to her husband's body, has been admitted to the Puttalam Base Hospital immediately after the neighbors burned her body.
+
+◼️
+
+[Data](articles/a317e4fa.json)
+
+[Extended Data](ext_articles/a317e4fa.ext.json)
+
+---
+
+### School student dies after falling back onto a house
+
+*2024-11-20 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203559) · `si`
+
+School girl (16) dies after house collapse in Medamahanuwara. Teldeniya Police reports accident occurred early morning. Met Department forecasts showers and thundershowers across island today, with potential heavy rainfall in Western and Sabaragamuwa provinces.
+
+🟩
+
+A schoolgirl has died in accidents that a mound was collapsing on a house in Medamahanuwara, Weathiyagoda.
+
+The Teldeniya Police said that the accident had occurred early this morning.
+
+The school student who was sleeping in the accident was trapped among the walls of the soil and the house while he died after admission to the hospital.
+
+The deceased has been identified as a schoolgirl, a 16 year old residential in Weathiyaadiyadda.
+
+Meanwhile, the Met Department forecasts showers and thundershowers will occur at several places in the island today.
+
+Thundershowers will develop at several places in the North and East, and there will be showers at night or night.
+
+Some places in the Western and Sabaragamuwa Province and in the Galle and Matara districts have the potential of more than 75 millimeters.
+
+◼️
+
+[Data](articles/091f1238.json)
+
+[Extended Data](ext_articles/091f1238.ext.json)
+
+---
+
+### All members of the compass call for JVP to the main headquarters
+
+*2024-11-20 13:23:51* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-සියලු-මන්ත්‍රීවරුන්-ජවිපේ-ප්‍රධාන-මූලස්ථානයට-කැඳවයි/11-413167) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+JVP summons all elected MPs to its HQ today. Members of Parliament called to discuss key issues. Compass calls for joint action.
+
+🟩
+
+All elected MPs representing the national folk electorate have been summoned to the Head Office of the JVP today (20).
+
+Members of Parliament have been called to discuss in Parliament.
+
+◼️
+
+[Data](articles/ee62dbac.json)
+
+[Extended Data](ext_articles/ee62dbac.ext.json)
+
+---
+
+### Ex-MP Sri Ranga to give statement to CID on Sujeewa’s vehicle
+
+*2024-11-20 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103633/ex-mp-sri-ranga-to-give-statement-to-cid-on-sujeewas-vehicle) · `en`
+
+Former Member of Parliament J. Sri Ranga has arrived at the Criminal Investigations Department (CID) this morning in order to provide a statement.
+
+The former MP is to provide a statement in relation to former MP Sujeewa Senasinghe’s luxury vehicle, worth around Rs. 100 million, which is suspected to have been illegally assembled.
+
+On November 11, the Fort Magistrate’s Court had ordered the CID to take former MP Sujeewa Senasinghe’s vehicle into custody and produce it to the Government Analyst’s Department and obtain a report.
+
+◼️
+
+[Data](articles/e2a017e0.json)
+
+[Extended Data](ext_articles/e2a017e0.ext.json)
+
+---
+
+### NPP MPs taken to Parliament complex, guided through practices and procedures
+
+*2024-11-20 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103632/npp-mps-taken-to-parliament-complex-guided-through-practices-and-procedures) · `en`
+
+The National People’s Power (NPP) has convened its newly-elected Members of Parliament (MPs) at the party headquarters in Pelawatte today (20) for an orientation session ahead of their parliamentary duties.
+
+During the session, the MPs have been briefed on the party’s upcoming activities and strategic goals. Following this, they were taken to the Parliament complex for a comprehensive introduction to its functioning and procedural mechanisms.
+
+The initiative aims to equip the freshly elected MPs with the necessary knowledge to navigate parliamentary proceedings effectively and to ensure their readiness to represent the government in the legislature.
+
+In the General Election held on November 14, the NPP achieved a remarkable victory, securing 141 seats directly through voting process and an additional 18 seats through the national list, making it a dominant political force in the country.
+
+A majority of the NPP MPs have been elected to the parliament for the first time.
+
+...
+
+[Data](articles/3abf1cde.json)
+
+[Extended Data](ext_articles/3abf1cde.ext.json)
+
+---
+
+### Will the pill be arrested?
+
+*2024-11-20 13:09:34* · [`adalk`](https://www.ada.lk/breaking_news/පිල්ලයානුත්-අත්අඩංගුවට-ගනියිද--/11-413166) · `si`
+
+Pillayan arrives at CID to give statement about Channel 4's Easter attack coverage. Claims informed earlier but couldn't attend due to elections. Maintains innocence regarding Passover attack involvement.
+
+🟩
+
+Former Minister Sivanesathurai Chandrakanthan, or Pillayan, arrived at the CID today (20).
+
+It is to give a statement regarding the issues of the Channel 4 of the Passover attacks on the Sunday terrorist attack.
+
+He said he had informed him to appear before the CID on the 12th, but he added that he was unable to attend the last election.
+
+He said he was fully supported by all the senses involved in the Passover attack and he was not guilty and returned to the Criminal Investigations.
+
+◼️
+
+[Data](articles/89a68b02.json)
+
+[Extended Data](ext_articles/89a68b02.ext.json)
 
 ---

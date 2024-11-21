@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 15:42:02**
+As of **2024-11-21 16:41:13**
 
 ## Newspaper Stats
 
-*Scraped **56,148** Articles*
+*Scraped **56,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,405 @@ islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,286
-adaderanalk | 6,787
-tamilmirrorlk | 7,970
-virakesarilk | 9,117
-adaderanasinhalalk | 9,695
+adalk | 5,290
+adaderanalk | 6,790
+tamilmirrorlk | 7,977
+virakesarilk | 9,122
+adaderanasinhalalk | 9,697
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,146 (100.0%) of 56,148 articles have been extended.
+56,155 (100.0%) of 56,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### නියොජ්‍ය අමාත්‍යවරු 29ක් දිවුරුම් දෙති
+
+*2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
+
+ජාතික ජන බලවේගය රජයේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) ජනාධිපති
+
+01 මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා - ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+
+02 නාමල් කරුණාරත්න මහතා -  කෘෂිකර්ම සහ පශු සම්පත් නියෝජ්‍ය අමාත්‍ය
+
+03 වසන්ත පියතිස්ස මහතා - ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ නියෝජ්‍ය අමාත්‍ය
+
+05 ආර්. එම්. ජයවර්ධන මහතා - වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+
+06 ගමගෙදර දිසානායක මහතා - බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය
+
+08 රත්න ගමගේ මහතා - ධීවර ජලජ සහ සාගර සම්පත් නියෝජ්‍ය අමාත්‍ය
+
+11 අරුන් හේමචන්ද්‍රා මහතා  - විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය
+
+16 චතුරංග අබේසිංහ මහතා - කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+
+17 ඉංජිනේරු ජනිත් රුවන් කොඩිතුවක්කු මහතා - වරාය සහ සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය
+
+18 වෛද්‍ය නාමල් සුදර්ශන මහතා  - කාන්තා සහ ළමා කටයුතු නියෝජ්‍ය අමාත්‍ය
+
+19 රුවන් සෙනරත් මහතා - පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය
+
+...
+
+[Data](articles/073ff21c.json)
+
+---
+
+### வடை சாப்பிட்ட நபர் மரணம்
+
+*2024-11-21 16:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடை-சாப்பிட்ட-நபர்-மரணம்/175-347575) · `ta`
+
+வடை சாப்பிட்டுக் கொண்டிருக்கும் போது, ஏற்பட்ட இருமல்  காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் ஒருவர் உயிரிழந்த சம்பவம்  அத்துருகிரிய பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+தனது குடும்பத்தினருடன் உணவு உட்கொண்டிருந்த நிலையில் குறித்த நபர் வடை சாப்பிட்டுள்ளதுடன், இதன்போது திடீரென  இருமலுடன் ஒவ்வாமை ஏற்பட்டுள்ளது.
+
+பின்னர்  சிகிச்சைக்காக  வைத்தியசாலைக்கு  கொண்டு செல்லப்பட்ட நிலையில் அவர் உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+உயிரிழந்த நபரின் சடலம் பிரேதப் பரிசோதனைக்காக ஹோமாகம வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாகவும், இது தொடர்பான மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும்  பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/646a0f76.json)
+
+---
+
+### உக்ரைன் மீது ரஸ்யா கண்டங்களிற்கிடையிலான ஏவுகணை தாக்குதல்
+
+*2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199338) · `ta`
+
+◼️
+
+[Data](articles/2d2d1f2c.json)
+
+---
+
+### தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம்..!
+
+*2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199328) · `ta`
+
+இன்று வியாழக்கிழமை (21) இலங்கைத் தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம் நாடாளுமன்ற நூலகத்தில் நடைபெற்றது. இதன் போது தமிழரசுக் கட்சியின் அனைத்து நாடாளுமன்ற உறுப்பினர்களும் கலந்து கொண்டார்கள்.
+
+◼️
+
+[Data](articles/cda39b1d.json)
+
+---
+
+### 29 Deputy Ministers sworn in
+
+*2024-11-21 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103673/29-deputy-ministers-sworn-in) · `en`
+
+The Deputy Ministers of the new government have been sworn in this evening (21) at the Presidential Secretariat in Colombo.
+
+Accordingly, a total of 29 Deputy Ministers were sworn in before President Anura Kumara Dissanayake today.
+
+◼️
+
+[Data](articles/cf51f1e7.json)
+
+---
+
+### கருப்பையில் இருந்து பாரிய கட்டி நீக்கம்
+
+*2024-11-21 16:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருப்பையில்-இருந்து-பாரிய-கட்டி-நீக்கம்/175-347574) · `ta`
+
+பெண்ணொருவரின் கருப்பையில் இருந்து 10 கிலோ எடையுள்ள கட்டியை அகற்றும் சத்திரசிகிச்சை ஒன்று கதிர்காமம் பிரதேசத்தில் இருந்து பதிவாகியுள்ளது.
+
+கதிர்காமத்தில் வசிக்கும் 40 வயதுடைய பெண் ஒருவர் உணவு மற்றும் சுவாசிப்பதில் சிரமம் காரணமாக மருத்துவ ஆலோசனையை நாடியதையடுத்து சத்திர சிகிச்சைக்கு முடிவு எடுக்கப்பட்டது.
+
+சத்திரசிகிச்சையை தொடர்ந்து குறித்த பெண்  நலமுடன் இருப்பதாக மகப்பேறு வைத்திய நிபுணர் டாக்டர் சமந்தா சமரவிக்ரம தெரிவித்துள்ளார்.
+
+கருப்பையில் உள்ள உயிரணுக்களின் அசாதாரண வளர்ச்சி நீர்க்கட்டிகளை உருவாக்குவதற்கு வழிவகுக்கிறது, மேலும் வயிற்று அசௌகரியம் போன்ற அறிகுறிகளை புறக்கணிப்பது நோயாளியின் உயிருக்கு ஆபத்தானது என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/76218f62.json)
+
+---
+
+### නියෝජ්‍ය අමාත්‍යවරු 29ක් දිවුරුම් දෙති
+
+*2024-11-21 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203601) · `si`
+
+නව ආණ්ඩුවේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) දිවුරුම් දෙනු ලැබීය.
+
+◼️
+
+[Data](articles/6f0c1e1d.json)
+
+---
+
+### පාසල් නිවාඩුව හෙටින් පසු ඇරඹෙයි
+
+*2024-11-21 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203600) · `si`
+
+2024 වර්ෂයේ තෙවන පාසල් වාරයේ පළමු අදියර 2024. 11. 22 වන සිකුරාදා දිනෙන් අවසන් වන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනයක් නිකුත් දැනුම්දෙයි.
+
+ඒ, රජයේ පාසල්වල සහ රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් සඳහා ය.
+
+මුස්ලිම් පාසල්වල තෙවන පාසල් වාරයේ පළමු අදියර නිමා වන්නේ 2024. 12.13 වන සිකුරාදා දින වන අතර එම දිනට පසුදා සිට එම පාසල් නිවාඩුව ආරම්භ වෙයි.
+
+සියලුම පාසල්වල තෙවන වාරයේ දෙවන අදියර ආරම්භ කරමින් පාසල් නැවත ආරම්භ වන්නේ 2025 වර්ෂයේ ජනවාරි මස 02 වන බ්‍රහස්පතින්දා (2025.01.02) දිනයේ දී ය.
+
+◼️
+
+[Data](articles/114a3373.json)
+
+---
+
+### 9 girls infected with food allergies
+
+*2024-11-21 16:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உணவு-ஒவ்வாமையால்-9-சிறுமிகள்-பாதிப்பு/76-347572) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+9 girls from a women's detention center in Sri Lanka hospitalized for food allergies after eating tapioca with rice. Ages 15-17. Police investigating.
+
+🟩
+
+Nine girls from the women's detention center in Haragama, which belongs to the Talathuoya police division, have been admitted to the Kandy National Hospital due to food allergies.
+
+The girls have been admitted to the hospital on Wednesday (20) and Thursdays (21) due to allergies caused by eating tapioca with rice.
+
+Talathu Oya police said they were 15-17 years old and are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/a9af99e2.json)
+
+[Extended Data](ext_articles/a9af99e2.ext.json)
+
+---
+
+### 2024 තෙවන පාසල් වාරයේ පළමු අදියර හෙටින් අවසන්
+
+*2024-11-21 16:01:32* · [`adalk`](https://www.ada.lk/breaking_news/2024-තෙවන-පාසල්-වාරයේ-පළමු-අදියර-හෙටින්-අවසන්/11-413203) · `si`
+
+2024 වර්ෂයේ රජයේ පාසල්වල සහ රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් ස ඳහා තෙවන පාසල් වාරයේ පළමු අදියර 2024. 11. 22 වන සිකුරාදා දිනෙන් අවසන් වන අතර ඒ අනුව හෙට දිනයෙන් පසු පාසල් නිවාඩු කාලය ආරම්භ වේ.
+
+මුස්ලිම් පාසල්වල තෙවන පාසල් වාරයේ පළමු අදියර නිමා වන්නේ 2024. 12.13 වන සිකුරාදා දින වන අතර එම දිනට පසු දා සිට එම පාසල් නිවාඩුව ආරම්භ වේ.
+
+සියලු ම පාසල්වල තෙවන වාරයේ දෙවන අදියර ආරම්භ කරමින් පාසල් නැවත ආරම්භ වන්නේ 2025 වර්ෂයේ ජනවාරි මස 02 වන බ්‍රහස්පතින්දා (2025.01.02) දිනයේ දී ය.
+
+◼️
+
+[Data](articles/03ed9332.json)
+
+---
+
+### சிங்கள பௌத்த தேசத்தின் ஒற்றையாட்சிச்கான திசை காட்டியே தவிர தமிழர் தேசத்திற்கான திசைகாட்டி அல்ல - அருட்தந்தை மா.சத்திவேல்
+
+*2024-11-21 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199331) · `ta`
+
+தற்போது வெற்றிக் களிப்பில் இருக்கும் திசைகாட்டி சிங்கள பௌத்த தேசத்தின் ஒற்றை ஆட்சிச்கான திசை காட்டியே தவிர தமிழர் தேசத்திற்கான திசை காட்டி அல்ல. எமக்கான தீர்வு இவர்கள் காலத்தில் கிட்டப்போவதில்லை என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+
+சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் இன்று வியாழக்கிழமை (21) வெளியிட்டுள்ள ஊடக அறிக்கையிலே இவ்வாறு தெரிவித்துள்ளார்.
+
+வடக்கு கிழக்கு இணைந்த தமிழர் தாயகம், அதன் தேசியம், சுயநிர்ணய உரிமை,சமஸ்டி தீர்வு எனும் தமிழர் அரசியல் மையக்கருத்தியலை 2009ம் ஆண்டுக்குப் பின்னரும் சயனைட் குப்பி போல் நெஞ்சில் /மனதில் சுமந்த அரசியல் வாழ்வை தமதாக்கிக் கொண்டோருக்கு தேர்தல் முடிவுகள் முள்ளிவாய்க்கால் வலியை கொடுத்துள்ளது.
+
+...
+
+[Data](articles/219639dc.json)
+
+---
+
+### The victory of the national people's power is an earthquake in Sri Lankan politics - Erichcolheim
+
+*2024-11-21 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199326) · `ta`
+
+Sri Lanka's National People's Power victory described as "earthquake" in politics by former Norwegian diplomat Erichcolheim. The election marks a significant shift, with voters rejecting corruption and traditional elites. Tamil support for the party signals potential for improved ethnic relations.
+
+🟩
+
+Former Norwegian Peace Ambassador to Sri Lanka, Erichcolheim, has described the shocking electoral success of the National People's Power led by Anuragumaratisanayake as an earthquake in Sri Lanka's politics.
+
+The former diplomat said that the national people's power in the areas where Tamils ​​live in the country- (especially in the North), Sri Lanka is a strong call for a new beginning of ethnic relations in Sri Lanka.
+
+Erichcolheim, who has worked closely with Sri Lankan political leaders, said that the inner self of the nationality power is certainly corrupt and that the eradication of corruption is the biggest task.
+
+Ericksolheim, who is currently working as a green activist, has made a peaceful effort in support of the West, which is due to a historic agreement between the Sri Lankan government and the Liberation Tigers of Tamil Eelam (LTTE) in early 2002.
+
+...
+
+[Data](articles/30738d31.json)
+
+[Extended Data](ext_articles/30738d31.ext.json)
+
+---
+
+### சகல உறுப்பினர்களின் உரிமைகளை பாதுகாப்பேன் : கடமைகளை நேர்மையாக நிறைவேற்றுவேன் - சபாநாயகர்
+
+*2024-11-21 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199330) · `ta`
+
+நாட்டின் மேன்மை பொருந்திய தாபனமான பாராளுமன்றத்தின் கௌரவம் மற்றும் சுயாதீனத்தை இயலுமான வகையில் பாதுகாப்பதுடன், அனைத்து உறுப்பினர்களினதும் உரிமைகளை பாதுகாத்து  மிகவும் பொறுப்பு மிக்க சபாநாயகர் பதவியின்  கடமைகளை  நேர்மையான முறையில்  நிறைவேற்றுவேன் என சபாநாயகர்  அசோக  ரன்வல  சபைக்கு  உறுதியளித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (21) நடைபெற்ற முதலாவது கன்னி அமர்வின் போது சபாநாயகராக தெரிவு செய்யப்பட்டமைக்கு நன்றி தெரிவித்து சபைக்கு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மேன்மை பொருந்திய பாராளுமன்றத்தின் சபாநாயகராக என்னை நியமித்தமைக்கு உளப்பூர்வமாக நன்றியையும், கௌரவத்தையும் தெரிவித்துக் கொள்கிறேன். எனக்கு வாழ்த்து தெரிவித்த அரசியல் கட்சித் தலைவர்களின் வாழ்த்து  செய்திகளையும் ஏற்றுக் கொள்வதுடன், நன்றி தெரிவித்துக் கொள்கிறேன்.
+
+பாராளுமன்றத்தின் ஆளும் மற்றும் எதிர்ப்பினர் என்மீது கொண்டுள்ள நம்பிக்கைக்கு நன்றி தெரிவித்துக் கொள்கிறேன்.
+
+...
+
+[Data](articles/bd99c81a.json)
+
+---
+
+### தேசியப் பட்டியல் விவகாரத்தை பிரச்சினைக்குரியதாக கருதவில்லை - எதிர்க்கட்சி தலைவர் சஜித்
+
+*2024-11-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199323) · `ta`
+
+தேசிய பட்டியல் விவகாரத்தை பிரச்சினைக்குரியதாக நாம் கருதவில்லை. புரிந்துணர்வுடன் இது குறித்த தீர்மானங்கள் எடுக்கப்படும். தோல்வியடைந்தவர்களுக்கு தேசிய பட்டியல் ஆசனத்தை வழங்க முடியாது என நான் கூறவில்லை என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி தலைமையகத்தில் புதன்கிழமை கட்சி உறுப்பினர்களுடன் இடம்பெற்ற விசேட சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+யதார்த்தத்தை உணர்ந்து அடுத்த கட்ட நடவடிக்கைகளை முன்னெடுத்துச் செல்வோம். அதேபோன்ற கட்சியின் வீழ்ச்சிக்கான குறைபாடுகளையும் அறிந்து அவற்றை திருத்திக் கொள்வதற்கான நடவடிக்கையும் முன்னெடுக்கப்படும். புதிய பயணமொன்றை விரைவில் ஆரம்பிப்போம்.
+
+அடைந்துள்ள தோல்வி மற்றும் பின்னடைவை ஒரு படிப்பினையாக எடுத்துக் கொண்டுள்ளோம். தேசிய பட்டியல் விவகாரத்தை பிரச்சினைக்குரியதாக நாம் கருதவில்லை. புரிந்துணர்வுடன் இது குறித்த தீர்மானங்கள் எடுக்கப்படும். கடந்த பொதுத்தேர்தலில் ஐக்கிய தேசிய கட்சியின் தேசிய பட்டியல் உறுப்பினர் ஒருவரை தெரிவு செய்வதற்கு 11 மாதங்கள் சென்றன.
+
+...
+
+[Data](articles/01f0c96e.json)
+
+---
+
+### First phase of third school term ends tomorrow
+
+*2024-11-21 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103671/first-phase-of-third-school-term-ends-tomorrow) · `en`
+
+The first phase of the third term for the year 2024 of Sinhala and Tamil medium government and government-approved schools will end tomorrow (22), according to the Ministry of Education.
+
+However, for Muslim schools, the first phase of the third term will end on December 13, with term holidays starting from following day.
+
+The second phase of the third school term for the academic year 2024 is scheduled to commence on January 2, 2025 (Thursday).
+
+◼️
+
+[Data](articles/306a35bd.json)
+
+---
+
+### Vijayadasa confirmed the politics
+
+*2024-11-21 15:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-ஓய்வை-உறுதிப்படுத்தினார்-விஜயதாச/175-347569) · `ta`
+
+Dr. Vijayadasa Rajapakse retires from politics, rejects return to Parliament, citing corruption concerns.
+
+🟩
+
+Former Minister Dr. Vijayadasa Rajapakse has announced that he will retire from politics and will not contest the upcoming elections.
+
+He made this statement while responding to questions raised by journalists about his political future after worship at the Dalada House in Kandy.
+
+When asked if there was the possibility of coming back to Parliament, Dr. Rajapakse firmly rejected it.
+
+He said he did not want to be part of the story referred to as corrupt in parliament.
+
+◼️
+
+[Data](articles/a564c845.json)
+
+[Extended Data](ext_articles/a564c845.ext.json)
+
+---
+
+### Tomorrow is the first installment holiday
+
+*2024-11-21 15:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-தவணை-விடுமுறை/175-347568) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+First installment holiday: Sinhala/Tamil schools end Dec 6, 2024; Muslim schools end Dec 13, 2024. Second phase resumes Jan 0, 2025.
+
+🟩
+
+By 2024, the Ministry of Education has announced that the first phase of the third school installment for Sinhala and Tamil schools in state schools and state -approved private schools will end on Friday, 2024.
+
+Meanwhile, the first phase of the third school installment in Muslim schools will end on Friday, December 13, 2024 and will begin school holidays after that date.
+
+The Ministry of Education has announced that the second phase of the third term in all schools will resume January 0, 2025.
+
+◼️
+
+[Data](articles/44242470.json)
+
+[Extended Data](ext_articles/44242470.ext.json)
+
+---
+
+### "This issue is only a few people"
+
+*2024-11-21 15:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-விடயம்-ஒரு-சிலருக்கு-மாத்திரமே-பிரச்சினை/175-347567) · `ta`
+
+Ravi Karunanayake joins 10th Sri Lankan Parliament, denies controversy impact on party.
+
+🟩
+
+Former Minister Ravi Karunanayake participated in the inaugural session of the 10th Parliament of Sri Lanka today as the National List of the New Democratic Front (NDF).
+
+Commenting on the visit to Parliament, Karunanayake said his appointment was legal through the national list of the New Democratic Front.
+
+Parliamentarian Karunanayake added that the issue is only a few people and that the entire parties have no problem.
+
+He pointed out that he would pay his attention to the rebuilding of the UNP (UNP) and guiding it as a strong political force.
+
+Commenting on the controversy over his appointment to Parliament, Parliamentarian Ravi Karunanayake said the party could not be affected for the benefit of a few.
+
+◼️
+
+[Data](articles/6f8ed6a4.json)
+
+[Extended Data](ext_articles/6f8ed6a4.ext.json)
+
+---
+
+### Sri Lanka’s inflation drops to -0.7% in October
+
+*2024-11-21 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103670/sri-lankas-inflation-drops-to-07-in-october) · `en`
+
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to -0.7% in October 2024 from -0.2% in September 2024, according to the latest data released by  the Department of Census and Statistics.
+
+Meanwhile, food inflation also decreased to -0.16% in October, down from 0.5% in September 2024.
+
+The NCPI for all items for the month of September 2024 is 203.6 and it records a decrease of -0.5 in index points compared to September 2024.
+
+The month-on-month change was contributed by a decrease in food items of 0.16% and in non-food items of 0.35%, respectively.
+
+◼️
+
+[Data](articles/688fef60.json)
+
+---
+
+### Postponement of Parliament until December 3
+
+*2024-11-21 15:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பர்-3-வரை-பாராளுமன்றம்-ஒத்திவைப்பு/175-347566) · `ta`
+
+Sri Lanka's Parliament adjourned until Dec 3. President Anura Kumara Dissanayake issued policy report during 10th Parliament session.
+
+🟩
+
+President Anura Kumara Dissanayake has adjourned the Parliament of Sri Lanka until 9:30 am on December 3.
+
+The postponement was followed by the president's issuance of the government's policy report during the 10th Parliament of Parliament today.
+
+◼️
+
+[Data](articles/0f0dc109.json)
+
+[Extended Data](ext_articles/0f0dc109.ext.json)
+
+---
 
 ### Former UK Deputy Prime Minister John Prescott dies at age 86
 
@@ -52,29 +436,7 @@ An amateur boxer in his youth, Prescott was a pugnacious politician who memorabl
 
 [Data](articles/b51514a2.json)
 
----
-
-### The victory of the national people's power is an earthquake in Sri Lankan politics - Erichcolheim
-
-*2024-11-21 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199326) · `ta`
-
-Sri Lanka's National People's Power victory described as "earthquake" in politics by former Norwegian diplomat Erichcolheim. The election marks a significant shift, with voters rejecting corruption and traditional elites. Tamil support for the party signals potential for improved ethnic relations.
-
-🟩
-
-Former Norwegian Peace Ambassador to Sri Lanka, Erichcolheim, has described the shocking electoral success of the National People's Power led by Anuragumaratisanayake as an earthquake in Sri Lanka's politics.
-
-The former diplomat said that the national people's power in the areas where Tamils ​​live in the country- (especially in the North), Sri Lanka is a strong call for a new beginning of ethnic relations in Sri Lanka.
-
-Erichcolheim, who has worked closely with Sri Lankan political leaders, said that the inner self of the nationality power is certainly corrupt and that the eradication of corruption is the biggest task.
-
-Ericksolheim, who is currently working as a green activist, has made a peaceful effort in support of the West, which is due to a historic agreement between the Sri Lankan government and the Liberation Tigers of Tamil Eelam (LTTE) in early 2002.
-
-...
-
-[Data](articles/30738d31.json)
-
-[Extended Data](ext_articles/30738d31.ext.json)
+[Extended Data](ext_articles/b51514a2.ext.json)
 
 ---
 
@@ -158,6 +520,36 @@ Police investigations have uncovered that the arrested suspects are close associ
 
 ---
 
+### Two brothers lose to two motorbikes
+
+*2024-11-21 14:05:52* · [`adalk`](https://www.ada.lk/breaking_news/යතුරුපැදි-දෙකක්-ගැටී-සොයුරන්-දෙදෙනෙකුට-දිවි-අහිමි-වෙයි/11-413200) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Two brothers died, one injured in motorcycle crash near Mullaitivu. Police believe high speed caused accident during heavy rain."
+
+🟩
+
+Two youths were killed and another injured in two motorbikes in the Mullaittivu Mabaram Walankulam area yesterday (20).
+
+Two brothers have traveled to a motorcycle towards Mankulam to Mankulam to Mankulam to Mankulam to Mankulam and Mallavi to Mankulam.
+
+The other deceased has been identified as both of the brothers from the accident and were admitted to the Killinochchi Hospital for further treatment.
+
+The victim was a 23 year old, two-year-old two-year-old brother and Jeyakumar Viduson, who was in the same family.
+
+The police suspect that the accident had occurred due to the unable to control the speed of motorbikes due to heavy period.
+
+◼️
+
+[Data](articles/24bba8d0.json)
+
+[Extended Data](ext_articles/24bba8d0.ext.json)
+
+---
+
 ### Sri Lanka plans fast growth in tourism, IT, ocean, mineral sectors: President
 
 *2024-11-21 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-fast-growth-in-tourism-it-ocean-mineral-sectors-president-189185/) · `en`
@@ -179,6 +571,36 @@ Currently Sri Lanka earns around 1.2 billion dollars from the IT industry, Dissa
 [Data](articles/d4380a6b.json)
 
 [Extended Data](ext_articles/d4380a6b.ext.json)
+
+---
+
+### Two arrested with Chamara's ice
+
+*2024-11-21 13:56:30* · [`adalk`](https://www.ada.lk/breaking_news/මහවත්තේ-චාමරගේ-අයිස්-සමග-දෙදෙනෙක්-අල්ලයි/11-413199) · `si`
+
+Two arrested for drug trafficking in Sri Lanka. Police seized 300k cash, 3 phones, and 2m Ice drugs. Suspects linked to Dubai operations. Handed over to Narcotics Bureau for further investigation.
+
+🟩
+
+A total of Rs.
+
+Police seized three hundred thousand and three mobile phones with drug trafficking.
+
+The arrested were two persons living in Kadawatha and Maligawatta areas (29 and 39).
+
+Special Task Force Special Meeting Unit (Special) Special Meeting Unit II of the Matara Minister of Police has also held two raids in the Kadawatha and Dompe areas.
+
+Two million Ice drug, 536 kg of Ice Drugs, two hundred thousand persons earned with a car and three mobile phones.
+
+The two arrested for arrests have been revealed that two major disciples conducted a strong drug trafficking in Dubai in Dubai.
+
+The suspects have been handed over to the Narcotics Bureau to investigate further investigations.
+
+◼️
+
+[Data](articles/5f350666.json)
+
+[Extended Data](ext_articles/5f350666.ext.json)
 
 ---
 
@@ -345,6 +767,8 @@ The President acknowledged the delay in the third review, initially scheduled fo
 ...
 
 [Data](articles/dafa529f.json)
+
+[Extended Data](ext_articles/dafa529f.ext.json)
 
 ---
 
@@ -1937,537 +2361,5 @@ In equities, the All Share Price Index opened up 0.04 points, at 13,113. The mor
 [Data](articles/3d9a499f.json)
 
 [Extended Data](ext_articles/3d9a499f.ext.json)
-
----
-
-### New government's first parliamentary session - live telecast
-
-*2024-11-21 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203589) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"New government's inaugural parliamentary session airs live today (21). Key events expected: PM address, cabinet introductions, legislative agenda unveiling."
-
-🟩
-
-The first Parliamentary Session is scheduled to begin today (21).
-
-◼️
-
-[Data](articles/0a3e9f31.json)
-
-[Extended Data](ext_articles/0a3e9f31.ext.json)
-
----
-
-### IMF team to meet Energy Ministry and CEB officials today
-
-*2024-11-21 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103652/imf-team-to-meet-energy-ministry-and-ceb-officials-today) · `en`
-
-The representatives of the International Monetary Fund (IMF), currently on a visit to Sri Lanka, are scheduled to meet with officials from the Ministry of Energy and the Ceylon Electricity Board (CEB) for a discussion.
-
-The Secretary of the Ministry of Power and Energy, K.T.M. Udayanga Hemapala, stated that the discussions will be held this morning (21).
-
-The discussions are expected to focus on the revision of electricity tariffs and the procedures of the relevant institutions.
-
-The Secretary of the Ministry stated that they expect to prepare the proposal for the electricity tariff revision after obtaining the opinions of the representatives of the IMF as well.
-
-Accordingly, the related proposal is expected to be submitted to the Public Utilities Commission of Sri Lanka (PUCSL) in the coming days.
-
-On October 24, the CEB had submitted a proposal to the PUCSL regarding the electricity tariff revision.
-
-...
-
-[Data](articles/92ac1617.json)
-
-[Extended Data](ext_articles/92ac1617.ext.json)
-
----
-
-### There is no indirect age on visiting the North - Chinese Ambassador
-
-*2024-11-21 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199284) · `ta`
-
-Chinese Ambassador denies indirect motives for northern visits, emphasizes economic cooperation and assistance.
-
-🟩
-
-“Many people are skeptical that we are coming to the north. But we have no indirect event to come to the North, ”said Chinese Ambassador to Sri Lanka, Key Sen Hong, who came to Jaffna.
-
-A meeting with intellectuals and business community in the Jaffna peninsula was held yesterday (19) night at a private hostel in Jaffna.. Chinese Ambassador Key Sen Hong said this while addressing the meeting.
-
-“The presidential election alone has created a favorable situation in the North after the general election, there is an improvement. This is a welcome improvement.
-
-China has provided various assistance to Sri Lanka in the past. Similarly, assistance will be provided in the future.
-
-I have visited Jaffna several times. In Jaffna, we have provided housing for housing and fishing nets for fishermen.
-
-A Chinese company had the idea of ​​creating power projects on three islands in Jaffna. The government was also granted recognition. But then this was canceled. For us, this is a bad precedent.
-
-...
-
-[Data](articles/58132434.json)
-
-[Extended Data](ext_articles/58132434.ext.json)
-
----
-
-### Shooting in Matara;One killed
-
-*2024-11-21 08:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199283) · `ta`
-
-Matara: One killed in Dikwella shooting. 48-year-old driver shot dead on motorcycle. Police investigating motive, suspecting T-56 rifle use. No arrests made yet.
-
-🟩
-
-One person was killed in a shooting incident in Dikwella, Valaskala in Matara district, police said.
-
-The shooting incident took place at 5.30 am today near the Veterinary Medical Office on Toramure Road in Valaskala.
-
-A man on his motorbike was shot dead and died on the spot.
-
-The deceased is a 48 -year -old driver in Valaskala.
-
-Police said no information has been revealed on the reason for the shooting and the reason for the shooting.
-
-Police are investigating whether the victim is being prosecuted for allegedly threatening a man in the area for allegedly using the name of the gang leader who is currently engaged in organized crimes abroad.
-
-Police suspect the T-56 rifle may have been used to shoot.
-
-◼️
-
-[Data](articles/c751c5d9.json)
-
-[Extended Data](ext_articles/c751c5d9.ext.json)
-
----
-
-### Dr. Asoka Ranwala: Trade union leader arrived in the Speaker's chair
-
-*2024-11-21 08:46:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2n3kp92p7o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dr. Asoka Ranwala, a trade union leader, became Speaker of Sri Lanka's 10th Parliament. He's a JVP executive known for his political activism, particularly in petroleum trade unions. His career includes stints in local governance and academia.
-
-🟩
-
-Dr. Asoka Sapumal Ranwala, as the Speaker of Tenth Parliament, was elected today (November 21).
-
-The first congregation of the new Parliament was ceremonially commenced and the Speaker was first elected after the meeting.
-
-Prime Minister Dr. Haraini Amarasuriya was proposed for the post of Speaker, Minister Vijitha Herath firm.
-
-Accordingly, the unanimous proposals were elected as the 22nd of the Parliament of the Parliament of Sri Lanka.
-
-Ranwala, an executive of the National JVP and JVP, has been contested in the Gampaha District with 109,332 preferential votes in the Gampaha district.
-
-As a youth, he started his political journey, as a member of the JVP.
-
-Dr. Ranwala was led by his political affairs while the Biyagama seat.
-
-He once represented the Biyagama Pradeshiya Sabha while the JVP was a Member of the Western Provincial Council twice.
-
-He has served in the Sapugaskanda crude oil in the Ceylon Petroleum Corporation.
-
-...
-
-[Data](articles/0336df50.json)
-
-[Extended Data](ext_articles/0336df50.ext.json)
-
----
-
-### Deputy Ministers to be sworn in today; Ranwala tipped to be Speaker?
-
-*2024-11-21 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103651/deputy-ministers-to-be-sworn-in-today-ranwala-tipped-to-be-speaker) · `en`
-
-The National People’s Power (NPP) has reportedly decided to appoint MP Ashoka Ranwala, a long-time stalwart of the JVP, as the Speaker of the new Parliament.
-
-The first session of the 10th Parliament is set to commence today (Nov. 21) at 10.00 a.m., with the electing of the new Speaker being the first task in the agenda.
-
-Meanwhile, it is reported that the Deputy Ministers of the new government are expected to be sworn in at the Presidential Secretariat in Colombo this evening (21), following the conclusion of parliamentary proceedings.
-
-Nearly 27 deputy ministers are expected to be appointed during the swearing-in ceremony.
-
-◼️
-
-[Data](articles/16c0b452.json)
-
-[Extended Data](ext_articles/16c0b452.ext.json)
-
----
-
-### A trend of rising eye bugs among children due to electronic screen
-
-*2024-11-21 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203588) · `si`
-
-Rising eye problems in children linked to increased screen time and decreased outdoor activities. Experts warn of potential 50% increase globally by 2050.
-
-🟩
-
-According to electronic curtains, there is a trend between children in the Colombo Lady Apostagama, Colombo Lady Apolement.
-
-She points out that the wickedness of the vision is a trend of rising the wicked.
-
-Addressing a media brief in the Health Promotion Bureau, the doctor said.
-
-"There is an over 30% trend the world in the world today. It is estimated to increase up to 50% by the next 2050. The main reason for that is the main reason that the use of digital screens and the decrease in outdoor activities. "
-
-◼️
-
-[Data](articles/de7f4ea0.json)
-
-[Extended Data](ext_articles/de7f4ea0.ext.json)
-
----
-
-### More than 100 millimeters of rain today
-
-*2024-11-21 08:12:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லிமீற்றருக்கும்-அதிகமான-மழை/175-347531) · `ta`
-
-Heavy rain warning: 100+ mm forecasted in Western, Sabaragamuwa, Southern Provinces. Thunderstorms expected in Northern, North Central, Eastern regions. Evening/night showers predicted nationwide.
-
-🟩
-
-The Department of Meteorology has stated that rain or thunderstorms will occur in the Northern, North Central and Eastern Provinces from time to time.
-
-Showers or thunderstorms are expected in many parts of the country in the evening or night.
-
-The Department of Meteorology said in a statement that more than 100 millimeters of heavy rainfall is expected in some places in the Western, Sabaragamuwa and Southern Provinces.. (A)
-
-◼️
-
-[Data](articles/eb323a1a.json)
-
-[Extended Data](ext_articles/eb323a1a.ext.json)
-
----
-
-### The 10th Parliament meets today
-
-*2024-11-21 08:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றம்-இன்று-கூடுகிறது/175-347530) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-10th Parliament convenes today. Speaker election & President Anuragumara Dissanayake presents Gov't Policy Declaration at 11:30 AM.
-
-🟩
-
-The Speaker will be elected today and President Anuragumara Dissanayake will present the Government's Policy Declaration.
-
-According to the Department of Parliamentary Communication, the Presidential Government will present the policy declaration at 11.30 am today.. (A)
-
-◼️
-
-[Data](articles/413d129a.json)
-
-[Extended Data](ext_articles/413d129a.ext.json)
-
----
-
-### The 10th Parliament meets today
-
-*2024-11-21 08:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/10-ஆவது-பாராளுமன்றம்-இன்று-கூடுகிறது/150-347530) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"10th Parliament convenes today. Speaker election & President presents Policy Declaration at 11:30 AM."
-
-🟩
-
-The Speaker will be elected today and President Anuragumara Dissanayake will present the Government's Policy Declaration.
-
-According to the Department of Parliamentary Communication, the Presidential Government will present the policy declaration at 11.30 am today.. (A)
-
-◼️
-
-[Data](articles/f8347c80.json)
-
-[Extended Data](ext_articles/f8347c80.ext.json)
-
----
-
-### Inaugural meeting of 10th Parliament today; President to deliver policy statement
-
-*2024-11-21 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103650/inaugural-meeting-of-10th-parliament-today-president-to-deliver-policy-statement) · `en`
-
-The ceremonial opening of the first session of the Tenth Parliament is scheduled for today (21), during which President Anura Kumara Dissanayake will present the Government’s Policy Statement.
-
-A rehearsal for the event was held yesterday (20) at the Parliament premises.
-
-Following the sounding of the quorum Bell at 9:55 a.m. today, Parliament will convene at 10:00 a.m. After the placing the mace in the chamber, the Secretary-General of Parliament will present the Extraordinary Gazette Notifications issued by the President, setting the date and time for the session, as the first Order of Business.
-
-The Speaker will then be elected as per the provisions of Article 64(1) of the Constitution and Parliamentary Standing Orders 4, 5, and 6. Subsequently, the Speaker will take the oath or affirmation, followed by Members of Parliament taking their oaths or affirmations, and thereafter, the Deputy Speaker and Deputy Chairperson of Committees will be elected.
-
-...
-
-[Data](articles/2e009144.json)
-
-[Extended Data](ext_articles/2e009144.ext.json)
-
----
-
-### IMF Representatives Special Meeting - Discussions
-
-*2024-11-21 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203587) · `si`
-
-IMF reps meet Energy Ministry & Ceylon Electricity Board today. Discuss electricity tariff revision procedures. IMF views will inform new proposal. To be submitted to Public Utilities Commission soon. PUC previously approved 6.6% fare reduction. CEB to draft new resolution.
-
-🟩
-
-The International Monetary Fund representatives are to meet with Energy Ministry and Ceylon Electricity Board.
-
-The discussion is scheduled to be held this morning (21) morning.
-
-The electricity tariff revision and discussions are to be discussed with the procedure of the relevant institutions.
-
-After obtaining the views of the International Monetary Fund representatives, the proposal to revise the electricity tariff is expected to be prepared.
-
-Accordingly, in the next few days, the relevant proposal is to be handed over to the Public Utilities Commission.
-
-On October 24, a proposal for the revision of the electricity tariff was handed over to the Public Utilities Commission on October 24.
-
-The Public Utilities Commission also informed the reduction of the electricity fares by 6.6 percent as a whole.
-
-The Public Utilities Commission has informed the Ceylon Electricity Board to formulate a new resolution and submit a new proposal.
-
-◼️
-
-[Data](articles/0c3bba23.json)
-
-[Extended Data](ext_articles/0c3bba23.ext.json)
-
----
-
-### Ten arrested with 160kg ‘Ice’ and 60kg heroin in drug bust
-
-*2024-11-21 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103649/ten-arrested-with-160kg-ice-and-60kg-heroin-in-drug-bust) · `en`
-
-Ten persons have been arrested along with 160 kg of ‘ICE’ narcotics (crystal methamphetamine) and 60 kg of heroin in Gandara, Matara by the Matara Divisional Crimes Detective Bureau (DCDB).
-
-The Police Spokesman DIG Nihal Thalduwa said the drugs were seized at the Gandara fisheries harbour and that the Matara Divisional Crimes Detective Bureau is conducting further investigations regarding the incident.
-
-Meanwhile, in a separate incident, three individuals were apprehended at the Central Mail Exchange in Colombo when they arrived to collect parcels containing 10.27 kg of Kush cannabis sent from Thailand via airmail.
-
-The arrests were made during a joint operation by the Police Narcotics Bureau (PNB) and Sri Lanka Customs. The suspects are residents of Padukka, Homagama, and Kalutara.
-
-The two parcels containing the Kush cannabis sent from Thailand have been taken into police custody.
-
-◼️
-
-[Data](articles/85032206.json)
-
-[Extended Data](ext_articles/85032206.ext.json)
-
----
-
-### 10 kilos of ice and 60 kilo of Horoin arrested
-
-*2024-11-21 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203585) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Matara police arrest 10 suspects with 160kg ice & 60kg heroin. Investigation ongoing."
-
-🟩
-
-Ten persons were arrested with 160 kg of ice and 60 kilograms of horoscly.
-
-The suspects have been arrested by the Matara Division Criminal Investigation Bureau in Matara.
-
-◼️
-
-[Data](articles/8156bfaa.json)
-
-[Extended Data](ext_articles/8156bfaa.ext.json)
-
----
-
-### One person killed in shooting at Dikwella
-
-*2024-11-21 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103648/one-person-killed-in-shooting-at-dikwella) · `en`
-
-A person has been reported dead following a shooting incident at Walasgala in Dikwella, police said.
-
-The shooting had taken place near the Veterinary Office on Doramure Road in the Walasgala area at around 5.30 a.m. this morning (21).
-
-A person riding a motorcycle had been targeted int he shooting while he had died on the spot.
-
-The victim is a 48-year-old resident of Walasgala who had been employed as a driver.
-
-Police said that no information regarding the shooters or the motive behind the shooting have been uncovered yet.
-
-However, as their is an ongoing court case against the victim for extortion from an individual in the area by using the name of organised criminal gang leader currently hiding overseas, police are investigating whether there is a connection between the shooting and the extortion incident.
-
-Police suspect that a T-56 assault rifle had been used to carry out the shooting.
-
-Dikwella Police is conducting further investigations to arrest the suspects.
-
-◼️
-
-[Data](articles/7f91a3cc.json)
-
-[Extended Data](ext_articles/7f91a3cc.ext.json)
-
----
-
-### Heavy showers above 100 mm likely in several provinces
-
-*2024-11-21 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103647/heavy-showers-above-100-mm-likely-in-several-provinces) · `en`
-
-A low-pressure area is likely to form over southeast Bay of Bengal around 23 November and thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent two days, says the Met. Department.
-
-The system may intensify further and move near the Eastern coast of Sri Lanka. The general public is requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regard, it said.
-
-The Meteorology Department further said showers or thundershowers will occur at times in the Northern, North central and Eastern provinces today.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning.
-
-...
-
-[Data](articles/fdd6ee54.json)
-
-[Extended Data](ext_articles/fdd6ee54.ext.json)
-
----
-
-### Adani charged in US over renewable energy bribery amid Sri Lanka troubles
-
-*2024-11-21 07:19:00* · [`economynextcom`](https://economynext.com/adani-charged-in-us-over-renewable-energy-bribery-amid-sri-lanka-troubles-189007/) · `en`
-
-ECONOMYNEXT – India’s Adani group has been charged alleging 250 million dollars in bribes to get solar energy contracts from Indian authorities and misleading investors when capital was raised from American investors, the US Securities Exchange and media reports said.
-
-Chairman Gautam Adani, two executives of Adani Green Energy Limited, his nephew Sagar Adani and Vneet Jaain are charged with misleading U S and international investors about their company’s compliance with antibribery and anticorruption practices, CNBC, a US business news channel reported.
-
-Sri Lankan activists have also taken a project by Adani Green Energy in Mannar area to court, after it won a wind power deal from the island’s government without competitive tender at allegedly far higher prices than other projects with competitive tender.
-
-In Sri Lanka and some other countries renewable firms also evade competitive bidding through a so-called ‘feed in tariffs’ which critics say are produced by lobbying for various costs.
-
-...
-
-[Data](articles/cc12761e.json)
-
-[Extended Data](ext_articles/cc12761e.ext.json)
-
----
-
-### Sri Lanka plans to boost exports to $36bn over 5-years
-
-*2024-11-21 07:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-boost-exports-to-36bn-over-5-years-189023/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to boost exports of goods and service to around 36 billion US dollars over the next five years, newly appointed Chairman of the island’s Export Development Board, Mangala Wijesinghe said.
-
-Good exports will be boosted to 25 billion dollars from the current 12 billion dollars, he said.
-
-Services would be boosted to around 11.5 billion dollars from the current 3 billion dollars.
-
-As part of efforts to boost services a marine related investment forum would be held on November 26, he said.
-
-Sri Lanka expects to draw foreign direct investments into exports with political and economic stability, he said.
-
-Transparency would also be ensured through digitalization, he said. (Colombo/Nov21/2024)
-
-◼️
-
-[Data](articles/7399ab3e.json)
-
-[Extended Data](ext_articles/7399ab3e.ext.json)
-
----
-
-### Deputy Ministers Affidle to this evening - Speaker Ranwala?
-
-*2024-11-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203584) · `si`
-
-MP Asoka Ranwala to become Speaker of New Parliament. First committee of 10th Parliament opens today. Deputy Ministers to be sworn in later at Presidential Secretariat. Approximately 27 deputy ministerial portfolios to be allocated.
-
-🟩
-
-The National Tower Speed ​​has decided to appoint MP Asoka Ranwala as Speaker of the New Parliament.
-
-The first committee of the 10th Parliament is scheduled to open today (21).
-
-The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
-
-Deputy Ministers of the New Government will be sworn in after the completion of the affairs of Parliament.
-
-Deputy Ministers are to be sworn in at the Presidential Secretariat and nearly 27 deputy ministerial portfolios are to be awarded.
-
-◼️
-
-[Data](articles/540ae20f.json)
-
-[Extended Data](ext_articles/540ae20f.ext.json)
-
----
-
-### The first congregation in Parliament begins today
-
-*2024-11-21 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203583) · `si`
-
-First Parliament session begins today. Key events include Speaker election, Deputy Speaker appointment, oath-taking ceremony, and presidential address. No orders for MPs on first day; temporary suspension at end of session.
-
-🟩
-
-The first committee of the 10th Parliament is scheduled to open today (21).
-
-The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
-
-The Deputy Speaker and Deputy Speaker and Deputy Committee Chairman will appoint the official pledge or oath, providing the official pledge or oath after the Speaker's elections.
-
-There is no order for MPs on the first day and MPs are entitled to sit on a disabled seat.
-
-The Parliament will be temporarily suspended at the end of these basic work and President Anura Kumara Dissanayake has been presented to the Parliament of President Anura Kumara Dissanayake to the Parliament.
-
-On the advice of the president, a charming ceremony will be held as a charm and Jayamaangala stanzards, three armed forces, and the armble, salutives and charging.
-
-Accordingly, by 11:00 am, all the invitees will be seated and the Speaker is to be recognized at 11.10 am.
-
-Subsequently accepted the Prime Minister and the President arrives only.
-
-...
-
-[Data](articles/f9e8377c.json)
-
-[Extended Data](ext_articles/f9e8377c.ext.json)
-
----
-
-### Dickwella shooting - Man dies
-
-*2024-11-21 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203582) · `si`
-
-Dickwella shooting: 48-year-old man killed by motorcycle gunman in Walasgala area. Police investigation ongoing.
-
-🟩
-
-Police say that the Veterinary Office near the Veterinary Office in the Walasgala area has been shot at 5.30 am today.
-
-A person who was traveling with a motorcycle was shot dead, and the man had died in that location.
-
-The victim was a 48-year-old resident of the Walasgala area.
-
-The information is yet to be revealed as to who shot.
-
-◼️
-
-[Data](articles/ccf31461.json)
-
-[Extended Data](ext_articles/ccf31461.ext.json)
 
 ---

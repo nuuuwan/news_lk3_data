@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 05:00:49**
+As of **2024-11-22 05:25:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,249 (100.0%) of 56,250 articles have been extended.
+56,250 (100.0%) of 56,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -278,17 +278,31 @@ If one tracks back at Brand AKD and Brand NPP strategy it is marketing at its be
 
 ---
 
-### 10 ஆவது பாராளுமன்றத்தில் 175 புது முக எம்.பி.க்கள்
+### 175 new faculty MPs in the 10th Parliament
 
 *2024-11-22 01:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றத்தில்-175-புது-முக-எம்-பி-க்கள்/175-347601) · `ta`
 
-இலங்கையின் 10 ஆவது பாராளுமன்றத்தின் சபாநாயகர், பிரதி சபாநாயகர், பாராளுமன்றக்குழுக்களின் பிரதித்தலைவர் ஆகியோர் புது முகங்களாகவே தெரிவு செய்யப்பட்டுள்ள நிலையில் இந்த பாராளுமன்றத்தில் 175 வரையிலான எம்.பி.க்கள் புது முகங்களாகவே உள்ளனர்.
+Here's a summary of 200 characters:
 
-10 ஆவது பாராளுமன்றத்தின் முதலாவது அமர்வு நேற்று வியாழக்கிழமை காலை 10 மணிக்கு ஆரம்பமானது. அரச தரப்பு பக்கத்தில் அமைச்சர்கள் முன்வரிசை ஆசனத்தில் அமர்ந்திருந்த நிலையில் எதிர்கட்சிதரப்பில் சிரேஸ்ட  எம்.பி.க்கள் அனைத்தும் புது முகங்களினால் நிரம்பியிருந்தது.
+
+
+New faces in 10th Sri Lankan Parliament: 175 faculty MPs, Speaker, Deputy Speaker, and Deputy Chairman elected. First session begins with ministerial and opposition seats filled with newcomers. Controversy arises over opposition leader seat, with MP refusing to vacate despite tradition. Notable figures include Sajith Premadasa, Namal Rajapaksa, Ravi Karunanayake, and Rohitha Abeygunawardena.
+
+🟩
+
+The Speaker of the 10th Parliament of Sri Lanka, the Deputy Speaker and the Deputy Chairman of the Parliamentary Committees have been elected as the new faces.
+
+The first session of the 10th Parliament began yesterday at 10 am. On the state side, the ministers were sitting on the front seat and all the senior MPs in the opposition were filled with new faces.
+
+The Jaffna District Independent Committee MP MP before the meeting of the Opposition Leader on the Opposition Leader. E. Arcuna was sitting on. Although it was said to be the seat of the opposition leader, Archana refused to arise from it, but when he said that no one can sit in any seat today, the parliamentary assistant made it clear that there are no other MPs sitting on the seat of the Opposition Leader.. He refused to arise and sat on the seat.
+
+Also, Archana MP was in the House and lived on his cell phone and filmed the swear documents on the cell phone.
 
 ...
 
 [Data](articles/d2e289c3.json)
+
+[Extended Data](ext_articles/d2e289c3.ext.json)
 
 ---
 

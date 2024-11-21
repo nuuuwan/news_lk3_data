@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 05:11:05**
+As of **2024-11-21 05:50:14**
 
 ## Newspaper Stats
 
-*Scraped **56,027** Articles*
+*Scraped **56,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 574
 bbccomsinhala | 579
-islandlk | 3,347
+islandlk | 3,357
 economynextcom | 3,397
 dailyftlk | 3,844
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,027 (100.0%) of 56,027 articles have been extended.
+56,027 (100.0%) of 56,037 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -372,7 +372,53 @@ According to the 5th Sub -section of the agreement, a member of the new Democrat
 
 ---
 
+### NDB Bank reaches new heights with YouTube Silver Creator Award recognition
+
+*2024-11-21 00:15:00* · [`islandlk`](http://island.lk/ndb-bank-reaches-new-heights-with-youtube-silver-creator-award-recognition/) · `en`
+
+Elevating its digital presence to new heights, National Development Bank PLC (NDB) has been recognised with the YouTube Silver Creator Award, marking an unprecedented achievement as the first Sri Lankan bank to this milestone, highlighting NDB’s dedication to leveraging digital platforms to connect with its audience and also demonstrating the bank’s effort in fostering a digitally engaged community.
+
+...
+
+[Data](articles/8db3b254.json)
+
+---
+
 ### 2024-11-20 (Wednesday)
+
+### Sri Lanka Banks’ Association reiterates support to new government
+
+*2024-11-20 23:57:00* · [`islandlk`](http://island.lk/sri-lanka-banks-association-reiterates-support-to-new-government/) · `en`
+
+The Sri Lanka Banks’ Association (SLBA) has congratulated President Anura Kumara Dissanayake on his party’s resounding victory at the Parliamentary election and pledged its support to the new government in the challenging journey ahead.
+
+The Association, which represents all licenced banks in Sri Lanka, also noted that its recent interactions with the Presidential Secretariat has given it confidence in the President’s inclusive approach to problem solving.
+
+The full text of the SLBA congratulatory message: “Please accept our heartfelt congratulations on your party’s resounding victory in the recent Parliamentary election.
+
+‘’The people of Sri Lanka have placed their trust in you and your team, and we are confident that you will lead the nation towards prosperity with transparency and accountability.
+
+...
+
+[Data](articles/41014478.json)
+
+---
+
+### Sri Lanka’s current nutrition challenges: How can they be addressed?
+
+*2024-11-20 23:56:00* · [`islandlk`](http://island.lk/sri-lankas-current-nutrition-challenges-how-can-they-be-addressed/) · `en`
+
+Dr Pulasthi Amarasinghe is a Research Fellow at IPS with research interests in labour, health, and development economics. He is also interested in fiscal policy and social welfare programmes and their effects on household and individual behaviour. His recent work focuses on migration, social protection, and discrimination in low-income nations using various econometric tools. Dr Amarasinghe holds a BA in Economics and Mathematics from the University of Maryland, an MSc in Economics from Iowa State University, and a PhD in Economics from the University of North Carolina Chapel Hill.
+
+Sri Lanka is reaching a critical point as a result of poor access to affordable, nutritious food. Nutritional security has taken a backseat to simply meeting basic calorie requirements.
+
+The nutritional landscape can significantly improve through shifts in tobacco and alcohol expenditure to food without solely relying on major macroeconomic transformations.
+
+...
+
+[Data](articles/cb685a32.json)
+
+---
 
 ### Struggle in front of the Mannar District General Hospital;Promise by Writing - Abandoned Struggle
 
@@ -583,6 +629,24 @@ He also said that China is ready to take a step forward with all parties to buil
 [Data](articles/1a0ce0e2.json)
 
 [Extended Data](ext_articles/1a0ce0e2.ext.json)
+
+---
+
+### Share investors jittery over IMF’s evaluation of government
+
+*2024-11-20 21:40:00* · [`islandlk`](http://island.lk/share-investors-jittery-over-imfs-evaluation-of-government/) · `en`
+
+Stock exchange activities were marginally up yesterday due to corporate earnings being quite satisfactory. However, investors are continuing to worry over the IMF’s evaluation of the newly elected government.
+
+The market indicated a bullish trend over the last few weeks but now profit- takings are notable due to confusion in some sections over IMF recommendations, market analysts said.
+
+Amid those developments both indices moved upwards marginally. The All Share Price Index went up by 8.17 points, while S and P SL20 rose by 3.9 points.
+
+Turnover stood at Rs 2.7 billion with four crossings. Those crossings were reported in JKH where 15.2 million shares crossed to the tune of Rs 312 million; its shares traded at Rs 20.50, Sampath Bank 500,000 shares crossed for Rs 47.5 million; its shares traded at Rs 95, HNB 187,000 shares crossed to the tune of Rs 43 million; its shares traded at Rs 230 and NDB 337,000 shares crossed for Rs 28 million; its shares were priced at Rs 83.
+
+...
+
+[Data](articles/40701709.json)
 
 ---
 
@@ -2357,105 +2421,5 @@ He said he was fully supported by all the senses involved in the Passover attack
 [Data](articles/89a68b02.json)
 
 [Extended Data](ext_articles/89a68b02.ext.json)
-
----
-
-### Sri Lanka’s new government committed to work with India: FM
-
-*2024-11-20 12:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-government-committed-to-work-with-india-fm-188869/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign minister Vijitha Herath said the new National People’s Power government is committed to working with India to strengthen bilateral ties.
-
-“I also wish to reiterate our commitment to work with India to further strengthen our civilizational links & the excellent bilateral cooperation for the mutual benefit of our peoples,” Herath said on social platform X.
-
-He was responding to India’s External Affairs Minister S Jaishankar’s congratulatory message.
-
-“Look forward to working together to further strengthen our historic bonds of friendship and deepen our wide – ranging partnership for mutual benefit,” Jaishankar said on X after Herath was re-appointed as foreign minister this week.
-
-Herath’s party the Janatha Vimukthi Peramuna, part of the NPP coalition, has been extremely critical of Indian investments in the island in the past, and behind protests that led to many projects being abandoned.
-
-...
-
-[Data](articles/0d8f8fb6.json)
-
-[Extended Data](ext_articles/0d8f8fb6.ext.json)
-
----
-
-### Mother who died at Mannar Hospital
-
-*2024-11-20 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199222) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Young mother Venuja (28) dies at Mannar Hospital during delivery. Bodies sent to Jaffna for autopsy amid protests. Police intervene to maintain order.
-
-🟩
-
-The bodies of the young mother and Sey, who died at the Mannar General Hospital on Tuesday (19), have been sent to the Jaffna Teaching Hospital for further autopsy.
-
-Jagan Raja Siri, known as Venuja, a 28 -year -old mother of Mannar Pattittam, has been married for 10 years and has been admitted to the Mannar District General Hospital for delivery yesterday.
-
-In the meantime, hundreds of civilians, including relatives and parents, were protesting at the hospital, where there was a tension in the hospital.
-
-Following this, the police arrived at the scene and brought the situation under control and ordered the death of the death of the mother and Sein of the Mannar Magistrate to be sent to the Jaffna Teaching Hospital for further investigations and further investigations.
-
-◼️
-
-[Data](articles/e68c4324.json)
-
-[Extended Data](ext_articles/e68c4324.ext.json)
-
----
-
-### Famous Indian film actor Mohanlal in Sri Lanka
-
-*2024-11-20 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199214) · `ta`
-
-Mohanlal arrives in Sri Lanka for film shoot. Stars alongside Mammootty after 16 years. Directed by Mahesh Narayanan. Shooting underway. Temporary title 'Megastar 429'.
-
-🟩
-
-Famous Indian film actor Mohanlal arrived in Sri Lanka yesterday (19).
-
-A multi -star starring Mohan Lal, Mammootty, Bahad Basil and some other leading actors in Malayalam cinema. The film is directed by Mahesh Narayanan Malik fame.
-
-Mammootty and Mohan Lal will join the film after 16 years. The last time she co-starred in the film 20-20.
-
-Mammootty is said to have allocated 100 days and Mohanlal 30 days for the film. It is said that Mammootty and Mohanlal are going to take place in the film.
-
-In this case, the shooting of the film is currently being launched in Sri Lanka. The photo of Mammootty, Mohanlal and Kunjaka Bopan in the shooting spot goes viral. It is reported that the film is temporarily titled 'Megastar 429'.
-
-◼️
-
-[Data](articles/c001b3b0.json)
-
-[Extended Data](ext_articles/c001b3b0.ext.json)
-
----
-
-### Mahinda Siriwardena started the duties as the Secretary to the Ministry of Finance
-
-*2024-11-20 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199216) · `ta`
-
-Mahinda Siriwardena resumes as Finance Ministry Secretary. He contributed to IMF loans and debt restructuring. Holds economics degree from University of Wanderbild and master's in economic development. Participated in international training programs in macroeconomic management, currency policy, and public finance. Deputy secretaries and department heads attended the event.
-
-🟩
-
-Mahinda Siriwardena, who was appointed as the Secretary to the Ministry of Finance, Planning and Economic Development, again began his duties on Wednesday (20).
-
-He has made a great contribution to the IMF's extended loan facility and the success of the debt restructuring process in the country.
-
-He holds the Economics Degree in Economics at the University of Wanderbild, USA, Masters Diploma in Economic Development. Mr.. Siriwardena is a senior officer, he has participated in several international training programs in the fields of Macro Economic Management, Large Economic Force, Currency Policy, Central Bank, Public Finance Management, Public Debt Management and Financial Programming and Policy.
-
-Deputy Secretaries of the Treasury and Heads of Departments under the Ministry of Finance and other top officials were present at the event.
-
-◼️
-
-[Data](articles/c0612b3c.json)
-
-[Extended Data](ext_articles/c0612b3c.ext.json)
 
 ---

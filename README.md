@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 18:22:55**
+As of **2024-11-21 18:38:43**
 
 ## Newspaper Stats
 
-*Scraped **56,180** Articles*
+*Scraped **56,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,291
-adaderanalk | 6,790
+adaderanalk | 6,791
 tamilmirrorlk | 7,981
 virakesarilk | 9,126
 adaderanasinhalalk | 9,698
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,177 (100.0%) of 56,180 articles have been extended.
+56,177 (100.0%) of 56,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
+
+*2024-11-21 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103674/icc-issues-arrest-warrants-for-israels-netanyahu-gallant-and-hamas-leader) · `en`
+
+Judges at the International Criminal Court (ICC) have issued arrest warrants for Israel’s prime minister and former defence minister, as well as Hamas’s military commander.
+
+A statement said a pre-trial chamber had rejected Israel’s challenges to the court’s jurisdiction and issued warrants for Benjamin Netanyahu and Yoav Gallant.
+
+A warrant was also issued for Mohammed Deif, although the Israeli military has said he was killed in an air strike in Gaza in July.
+
+It found there were “reasonable grounds” that the three men bore “criminal responsibility” for alleged war crimes and crimes against humanity during the war between Israel and Hamas. Both Israel and Hamas have rejected the allegations.
+
+◼️
+
+[Data](articles/b979cd40.json)
+
+---
 
 ### Two people were injured as the package opened
 
@@ -2499,25 +2517,5 @@ Welcoming the new Speaker, representatives of political parties including PM Har
 [Data](articles/92ea157a.json)
 
 [Extended Data](ext_articles/92ea157a.ext.json)
-
----
-
-### Asoka Ranwala speaker of Sri Lanka’s tenth parliament, Rizvie Salih deputy
-
-*2024-11-21 10:08:00* · [`economynextcom`](https://economynext.com/asoka-ranwala-speaker-of-sri-lankas-tenth-parliament-rizvie-salih-deputy-189087/) · `en`
-
-ECONOMYNEXT – Asoka Sapumal Ranwala was appointed as Speaker of Sri Lanka’s tenth parliament, when it convened for the first time on Thursday. Dr Mohamed Rizvie Salih was appointed as Deputy Speaker.
-
-Ranwala’s name was proposed by Prime Minister Harini Amarasuriya. It was seconded by Foreign Minister Vijitha Herath.
-
-Salih’s name was proposed by Health and Media Minister Nalinda Jayatissa, and seconded by Women and Children’s Affairs Minister Savithri Paulraj.
-
-Ranwala was elected from the Gampaha District, while Salih was elected from the Colombo District, for the National People’s Power party.
-
-◼️
-
-[Data](articles/ff1bf32c.json)
-
-[Extended Data](ext_articles/ff1bf32c.ext.json)
 
 ---

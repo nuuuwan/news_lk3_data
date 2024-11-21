@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 09:18:03**
+As of **2024-11-21 10:14:55**
 
 ## Newspaper Stats
 
-*Scraped **56,057** Articles*
+*Scraped **56,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,34 +13,300 @@ dbsjeyarajcom | 433
 colombotelegraphcom | 574
 bbccomsinhala | 580
 islandlk | 3,357
-economynextcom | 3,397
+economynextcom | 3,401
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,275
-adaderanalk | 6,768
-tamilmirrorlk | 7,947
-virakesarilk | 9,099
-adaderanasinhalalk | 9,687
+adalk | 5,276
+adaderanalk | 6,770
+tamilmirrorlk | 7,951
+virakesarilk | 9,103
+adaderanasinhalalk | 9,689
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,051 (100.0%) of 56,057 articles have been extended.
+56,063 (100.0%) of 56,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
 
-### නව රජයේ පළමු පාර්ලිමේන්තු සැසි වාරය - සජීව විකාශය
+### කථානායක ධුරය අශෝක රංවලට
+
+*2024-11-21 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203591) · `si`
+
+නව පාර්ලිමේන්තුවේ කථානායකවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී අශෝක රංවල මහතා තේරී පත්වුණි.
+
+◼️
+
+[Data](articles/aad8de98.json)
+
+---
+
+### 10 ஆவது பாராளுமன்றத்தின் கன்னி அமர்வு ஆரம்பம் - நேரலை...
+
+*2024-11-21 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199288) · `ta`
+
+அணிவகுப்பு ஏதுமில்லாமல் மிகவும் எளிமையான முறையில் ஆரம்பமாகிய பாராளுமன்றித்தின் முதலாவது கூட்டத்தொடரின் கன்னி அமர்வில் ஜனாதிபதி அநுரகுமார திஸாநாயக்க தனது அரசாங்கத்தின் கொள்கைப் பிரகடனத்தை சபையில் முன்வைப்பார்.
+
+◼️
+
+[Data](articles/b98c8eba.json)
+
+---
+
+### Virgin session of the first session of the 10th Parliament today
+
+*2024-11-21 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199285) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"10th Parliament's 1st session begins today. President Anura Kumara Dissanayake presents policy at 10 AM. No ceremony, just a simple session."
+
+🟩
+
+The virgin session of the first session of the tenth parliament will be held on Thursday (21).
+
+President Anura Kumara Dissanayake will present his government's policy declaration at the Virgin session of the first session of the parliamentary session of the parliament, which is simple without any parade.
+
+The virgin session of the first session of the 10th Parliament will be launched at 10 am today.
+
+◼️
+
+[Data](articles/f1abeb3c.json)
+
+[Extended Data](ext_articles/f1abeb3c.ext.json)
+
+---
+
+### යුක්රේනය බ්‍රිතාන්‍ය යේ නිෂ්පාදිත දිගුදුර මිසයිල රුසියාවට එල්ල කරයි
+
+*2024-11-21 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203590) · `si`
+
+බ්‍රිතාන්‍ය විසින් සපයන ලද "ස්ට්‍රෝම් ෂැඩොව්" දිගු දුර මිසයිල ප්‍රථම වරට රුසියාවට එල්ල කළ බව යුක්‍රේනය පවසයි.
+
+රුසියානු භූගත අණදෙන නිලධාරී මධ්‍යස්ථානයක් ඉලක්ක කරගනිමින් මෙම මිසයිල එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මොස්කව් විසින් උතුරු කොරියානු හමුදා දේශ සීමාවේ හමුදා ස්ථානගත කිරීමට ප්‍රතිචාර වශයෙන් බ්‍රිතාන්‍ය විසින් දිගු දුර මිසයිල භාවිතය සදහා යුක්‍රේනය වෙත අවසර ලබා දී ඇති බව සදහන් වේ.
+
+◼️
+
+[Data](articles/490bbdc4.json)
+
+---
+
+### Chinese Ambassador to Sri Lanka says confused over Jaffna University’s non-cooperation
+
+*2024-11-21 09:37:00* · [`economynextcom`](https://economynext.com/chinese-ambassador-to-sri-lanka-says-confused-over-jaffna-universitys-non-cooperation-189065/) · `en`
+
+ECONOMYNEXT – Chinese Ambassador to Sri Lanka Qi Zhenhong said he is confused over non-cooperation by Sri Lanka’s Northern Jaffna University on education cooperation between the two countries despite active participation from Beijing.
+
+As part of education cooperation, China has been in the process of establishing mutual agreements between Sri Lanka’s local state universities and Chinese counterparts, citing to provide more opportunities to Sri Lankans.
+
+However, the University of Jaffna in the former war zone in the Northern Province of the island nation close to South Indian Tamil Nadu state has been not actively cooperating with the process, the Chinese Ambassador said.
+
+“We don’t know why they are not cooperating to improve the partnership cooperation,” Zhenhong told reporters on Tuesday when he responded to questions raised by journalists at Jaffna Press Club.
+
+...
+
+[Data](articles/654135e4.json)
+
+[Extended Data](ext_articles/654135e4.ext.json)
+
+---
+
+### Ranwala elected as the new Speaker?
+
+*2024-11-21 09:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சபாநாயகராக-ரன்வல-தெரிவு/175-347533) · `ta`
+
+Asoka Ranwala elected Speaker; National People's Power party chooses him; 1st session 10am today; Deputy Minister swearing-in ceremony afternoon.
+
+🟩
+
+It is reported that the National People's Power has decided to appoint Parliamentarian Asoka Ranwala as Speaker of the new Parliament.
+
+The first session of the tenth Parliament is scheduled to begin today (21st) at 10 am.
+
+It is noteworthy that after the end of parliamentary proceedings, the swearing -in ceremony for the deputy ministers of the new government will be held this afternoon.R
+
+◼️
+
+[Data](articles/5e2e3aa4.json)
+
+[Extended Data](ext_articles/5e2e3aa4.ext.json)
+
+---
+
+### Death in one of the shootings
+
+*2024-11-21 09:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-347532) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Shooting in Dickwella: 48-year-old motorcyclist killed near Veterinary Doctors Office. Incident occurred on 21st. Victim died instantly.
+
+🟩
+
+One person was killed in a shooting incident this morning (21) near the Veterinary Doctors Office in Dickwella - Valaskala.
+
+A 48 -year -old man from Valaskala, who was traveling on a motorcycle, was shot dead and died on the spot.
+
+◼️
+
+[Data](articles/4ec2dd71.json)
+
+[Extended Data](ext_articles/4ec2dd71.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 291.05/15 to dollar, bonds stable
+
+*2024-11-21 09:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-291-05-15-to-dollar-bonds-stable-189066/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 291.05/15 to the US dollar on Thursday from 290.95/291.10 to the US dollar on Wednesday dealers said, while bond yields were stable.
+
+A bond maturing on 15.12.2026 was quoted at 10.20/25 percent, down from 10.10/20 percent.
+
+A bond maturing on 15.12.2027 was quoted at 10.80/90 percent, down from 10.75/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.05/10 percent, down from 11.00/10 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.35/45 percent, down from 11.25/40 percent.
+
+In equities, the All Share Price Index opened up 0.04 points, at 13,113. The more liquid S&P SL20 opened 0.09 points, at 3,919.
+
+◼️
+
+[Data](articles/3d9a499f.json)
+
+[Extended Data](ext_articles/3d9a499f.ext.json)
+
+---
+
+### New government's first parliamentary session - live telecast
 
 *2024-11-21 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203589) · `si`
 
-නව රජයේ පළමු පාර්ලිමේන්තු සැසිවාරය අද (21) තව ස්වල්ප මොහොතකින් ආරම්භ වීමට නියමිතව තිබේ.
+Here's a summary of 200 characters:
+
+
+
+"New government's inaugural parliamentary session airs live today (21). Key events expected: PM address, cabinet introductions, legislative agenda unveiling."
+
+🟩
+
+The first Parliamentary Session is scheduled to begin today (21).
 
 ◼️
 
 [Data](articles/0a3e9f31.json)
+
+[Extended Data](ext_articles/0a3e9f31.ext.json)
+
+---
+
+### IMF team to meet Energy Ministry and CEB officials today
+
+*2024-11-21 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103652/imf-team-to-meet-energy-ministry-and-ceb-officials-today) · `en`
+
+The representatives of the International Monetary Fund (IMF), currently on a visit to Sri Lanka, are scheduled to meet with officials from the Ministry of Energy and the Ceylon Electricity Board (CEB) for a discussion.
+
+The Secretary of the Ministry of Power and Energy, K.T.M. Udayanga Hemapala, stated that the discussions will be held this morning (21).
+
+The discussions are expected to focus on the revision of electricity tariffs and the procedures of the relevant institutions.
+
+The Secretary of the Ministry stated that they expect to prepare the proposal for the electricity tariff revision after obtaining the opinions of the representatives of the IMF as well.
+
+Accordingly, the related proposal is expected to be submitted to the Public Utilities Commission of Sri Lanka (PUCSL) in the coming days.
+
+On October 24, the CEB had submitted a proposal to the PUCSL regarding the electricity tariff revision.
+
+...
+
+[Data](articles/92ac1617.json)
+
+[Extended Data](ext_articles/92ac1617.ext.json)
+
+---
+
+### There is no indirect age on visiting the North - Chinese Ambassador
+
+*2024-11-21 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199284) · `ta`
+
+Chinese Ambassador denies indirect motives for northern visits, emphasizes economic cooperation and assistance.
+
+🟩
+
+“Many people are skeptical that we are coming to the north. But we have no indirect event to come to the North, ”said Chinese Ambassador to Sri Lanka, Key Sen Hong, who came to Jaffna.
+
+A meeting with intellectuals and business community in the Jaffna peninsula was held yesterday (19) night at a private hostel in Jaffna.. Chinese Ambassador Key Sen Hong said this while addressing the meeting.
+
+“The presidential election alone has created a favorable situation in the North after the general election, there is an improvement. This is a welcome improvement.
+
+China has provided various assistance to Sri Lanka in the past. Similarly, assistance will be provided in the future.
+
+I have visited Jaffna several times. In Jaffna, we have provided housing for housing and fishing nets for fishermen.
+
+A Chinese company had the idea of ​​creating power projects on three islands in Jaffna. The government was also granted recognition. But then this was canceled. For us, this is a bad precedent.
+
+...
+
+[Data](articles/58132434.json)
+
+[Extended Data](ext_articles/58132434.ext.json)
+
+---
+
+### Shooting in Matara;One killed
+
+*2024-11-21 08:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199283) · `ta`
+
+Matara: One killed in Dikwella shooting. 48-year-old driver shot dead on motorcycle. Police investigating motive, suspecting T-56 rifle use. No arrests made yet.
+
+🟩
+
+One person was killed in a shooting incident in Dikwella, Valaskala in Matara district, police said.
+
+The shooting incident took place at 5.30 am today near the Veterinary Medical Office on Toramure Road in Valaskala.
+
+A man on his motorbike was shot dead and died on the spot.
+
+The deceased is a 48 -year -old driver in Valaskala.
+
+Police said no information has been revealed on the reason for the shooting and the reason for the shooting.
+
+Police are investigating whether the victim is being prosecuted for allegedly threatening a man in the area for allegedly using the name of the gang leader who is currently engaged in organized crimes abroad.
+
+Police suspect the T-56 rifle may have been used to shoot.
+
+◼️
+
+[Data](articles/c751c5d9.json)
+
+[Extended Data](ext_articles/c751c5d9.ext.json)
+
+---
+
+### Deputy Ministers to be sworn in today; Ranwala tipped to be Speaker?
+
+*2024-11-21 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103651/deputy-ministers-to-be-sworn-in-today-ranwala-tipped-to-be-speaker) · `en`
+
+The National People’s Power (NPP) has reportedly decided to appoint MP Ashoka Ranwala, a long-time stalwart of the JVP, as the Speaker of the new Parliament.
+
+The first session of the 10th Parliament is set to commence today (Nov. 21) at 10.00 a.m., with the electing of the new Speaker being the first task in the agenda.
+
+Meanwhile, it is reported that the Deputy Ministers of the new government are expected to be sworn in at the Presidential Secretariat in Colombo this evening (21), following the conclusion of parliamentary proceedings.
+
+Nearly 27 deputy ministers are expected to be appointed during the swearing-in ceremony.
+
+◼️
+
+[Data](articles/16c0b452.json)
 
 ---
 
@@ -111,6 +377,20 @@ According to the Department of Parliamentary Communication, the Presidential Gov
 [Data](articles/413d129a.json)
 
 [Extended Data](ext_articles/413d129a.ext.json)
+
+---
+
+### 10 ஆவது பாராளுமன்றம் இன்று கூடுகிறது
+
+*2024-11-21 08:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/10-ஆவது-பாராளுமன்றம்-இன்று-கூடுகிறது/150-347530) · `ta`
+
+இன்றைய தினம் சபாநாயகர் தெரிவு செய்யப்படவுள்ளதுடன் ஜனாதிபதி அனுரகுமார திசாநாயக்க அரசாங்கத்தின் கொள்கை பிரகடனத்தை முன்வைக்கவுள்ளார்.
+
+இதன்படி இன்று முற்பகல் 11.30 அளவில் ஜனாதிபதி அரசாங்கத்தின் கொள்கை பிரகடனத்தை முன்வைக்கவுள்ளதாக பாராளுமன்ற தொடர்பாடல் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/f8347c80.json)
 
 ---
 
@@ -236,6 +516,8 @@ Dikwella Police is conducting further investigations to arrest the suspects.
 
 [Data](articles/7f91a3cc.json)
 
+[Extended Data](ext_articles/7f91a3cc.ext.json)
+
 ---
 
 ### Heavy showers above 100 mm likely in several provinces
@@ -259,6 +541,46 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa, Centra
 [Data](articles/fdd6ee54.json)
 
 [Extended Data](ext_articles/fdd6ee54.ext.json)
+
+---
+
+### Adani charged in US over renewable energy bribery amid Sri Lanka troubles
+
+*2024-11-21 07:19:00* · [`economynextcom`](https://economynext.com/adani-charged-in-us-over-renewable-energy-bribery-amid-sri-lanka-troubles-189007/) · `en`
+
+ECONOMYNEXT – India’s Adani group has been charged alleging 250 million dollars in bribes to get solar energy contracts from Indian authorities and misleading investors when capital was raised from American investors, the US Securities Exchange and media reports said.
+
+Chairman Gautam Adani, two executives of Adani Green Energy Limited, his nephew Sagar Adani and Vneet Jaain are charged with misleading U S and international investors about their company’s compliance with antibribery and anticorruption practices, CNBC, a US business news channel reported.
+
+Sri Lankan activists have also taken a project by Adani Green Energy in Mannar area to court, after it won a wind power deal from the island’s government without competitive tender at allegedly far higher prices than other projects with competitive tender.
+
+In Sri Lanka and some other countries renewable firms also evade competitive bidding through a so-called ‘feed in tariffs’ which critics say are produced by lobbying for various costs.
+
+...
+
+[Data](articles/cc12761e.json)
+
+---
+
+### Sri Lanka plans to boost exports to $36bn over 5-years
+
+*2024-11-21 07:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-boost-exports-to-36bn-over-5-years-189023/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to boost exports of goods and service to around 36 billion US dollars over the next five years, newly appointed Chairman of the island’s Export Development Board, Mangala Wijesinghe said.
+
+Good exports will be boosted to 25 billion dollars from the current 12 billion dollars, he said.
+
+Services would be boosted to around 11.5 billion dollars from the current 3 billion dollars.
+
+As part of efforts to boost services a marine related investment forum would be held on November 26, he said.
+
+Sri Lanka expects to draw foreign direct investments into exports with political and economic stability, he said.
+
+Transparency would also be ensured through digitalization, he said. (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/7399ab3e.json)
 
 ---
 
@@ -624,29 +946,43 @@ Attracting over 12,000 visitors from over 100 countries, this year’s edition s
 
 ---
 
-### පාර්ලිමේන්තුව ඉදිකළ භූමිය, ඉදිකිරීම් කළ හැටි සහ එහි ව්‍යුහය පිටුපස කතාව
+### The story of the land built, how to build Parliament, and its structure
 
 *2024-11-21 01:37:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7481wg0vjzo) · `si`
 
-පාර්ලිමේන්තුව ඉදිකළ භූමිය, ඉදිකිරීම් කළ හැටි සහ එහි ව්‍යුහය පිටුපස කතාව
+Here's a summary of the text in approximately 200 characters:
 
-ශ්‍රී ලංකාවේ පාලනය විධායකය, ව්‍යවස්ථාදායකය සහ අධිකරණය යන කුලුනු තුන මත රඳා පවතී.
 
-සමානුපාතික ඡන්ද ක්‍රමය හඳුන්වා දීමෙන් පසු පැවැත්වෙන 10 වන මහ මැතිවරණය මෙවර පැවැත්විණි.
 
-මහ මැතිවරණයකින් සිදු කෙරෙන්නේ පාර්ලිමේන්තුව සඳහා සභිකයින් 225 දෙනෙකු තෝරා පත් කර ගැනීමේ ක්‍රියාවලිය යි.
+Sri Lanka's Parliament history & structure: From monarchy to colonial rule, legislative changes, new building in Sri Jayewardenepura Kotte, designed by Geoffrey Bawa, opened 1982. 225-member assembly, 232-seat chamber, Mace symbol of authority.
 
-මේ, ශ්‍රී ලංකාවේ පාර්ලිමේන්තුව පිළිබඳ ඉතිහාසය සහ එහි ව්‍යුහය පිළිබඳ පැහැදිලි කිරීමකි.
+🟩
 
-බටහිර යටත් විජිතවාදීන්‌ගේ පැමිණීමට ‌පෙර, ශ්‍රී ලංකා‌වේ පැවතියේ රාජාණ්ඩු ක්‍රමයකි.
+The story of the land built, how to build Parliament, and its structure
 
-පසුව පෘතුගීසි, ලන්‌දේසි සහ බ්‍රිතාන්‍ය යටත් විජිත යට‌තේ පරිපාලනමය ‌වෙනස්කම් හඳුන්වා ‌දෙන ලදී.
+The executive, legislature and the judiciary depends on the control of the Sri Lankan administration.
 
-1815 දී උඩරට රාජධානිය ද බ්‍රිතාන්‍ය පාලනයට යටත් වූ අතර, කෝල්බෲක් - කැමරන් ‌කොමිස‌මේ නිර්‌දේශවලට අනුකූලව, 1833 දී ශ්‍රීමත් ‌රොබට් ‌හෝර්ටන් නමැති ආණ්ඩුකාරවරයා විසින් විධායක සභාව සහ ව්‍යවස්ථාදායක සභාව නම් වූ යටත් විජිත පාලනය පැවති ශ්‍රී ලංකා‌වේ ප්‍රථම ව්‍යවස්ථාදායක මණ්ඩල ‌දෙක පිහිටුවන ලදී.
+The 10th General Election of the proportional voting system was held this year.
+
+The general election is done by selecting 225 members for Parliament.
+
+This is an explanation of the history and its structure of Sri Lanka.
+
+Prior to the arrival of the western colonialism, Sri Lanka was a monarchy.
+
+Later, the Portuguese introduced administrative changes under the Dutch and British colonies.
+
+In 1815, the Kandyan Kingdom surrendered to Britain and the Recommendation of the Camroran of Cameron Commission, in 1833 Sri Lanka's first two legislative council.
+
+මුලින් ම, විධායක සභාව සහ ව්‍යවස්ථාදායක සභාව රැස්වීම් පැවැත්වූ‌යේ දැනට වි‌දේශ කටයුතු අමාත්‍යාංශය පිහිටා ඇති දර්ශනීය ගෝර්ඩ්න් උද්‍යානය ඉදිරිපස පිහිටි ගොඩනැගිල්‌ලේ ය.
+
+On January 29, 1930, 1930, was opened by the Governor of Sir Herbert Stanley.
 
 ...
 
 [Data](articles/1207fa10.json)
+
+[Extended Data](ext_articles/1207fa10.ext.json)
 
 ---
 
@@ -1362,25 +1698,31 @@ It also stated that the dates have been decided for several examinations, includ
 
 ---
 
-### රෝල්ස් 2 ක්, ප්ලේන්ටි 2 ක් හා දුම්වැටි 2 ක් නිසා අත්අඩංගුවට ගත් පොලිස් නිලධාරීන් දෙදෙනා
+### Two police officers arrested for 2 rolls, 2 placets and 2 cigarettes
 
 *2024-11-20 19:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රෝල්ස්-2-ක්--ප්ලේන්ටි-2-ක්-හා-දුම්වැටි-2-ක්-නිසා-අත්අඩංගුවට-ගත්-පොලිස්-නිලධාරීන්-දෙදෙනා/11-413186) · `si`
 
-ජීප් රථ රියදුරෙකුගෙන් බලහත්කාරයෙන් රුපියල් 600 ක් වටිනා රෝල්ස් 2 ක් ප්ලේන්ටි 2 ක් හා දුම්වැටි 2 ක් ලබාගත් පොලිස්  නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට ගත් බව අධිවේගී මාර්ග සංචාරක පොලිස්  කොට්ඨාසය  කියයි
+Two police officers arrested for theft and drug possession. They allegedly stole two rolls, two packets, and two cigarettes while on duty. The incident occurred on the expressway near Matara. The officers will face legal proceedings.
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අධිවේගී මාර්ග සංචාරක පොලිස් කොට්ඨාසයට අනුයුක්තව කඩවත අන්තර් හුවමාරු ඒකකයේ  පොලිස් සැරයන්වරයකු සහ කොස්තාපල්වරයෙකි
+🟩
 
-සැකකාර නිලධාරීන් දෙදෙනා ඉකුත් (17) වෙනි  දින  අධිවේගී මාර්ගයේ මාතර දෙස සිට පැමිණ කඩවත පිටවීමේ දොරටුවේ දහවල් 2 සිට රාත්‍රී 10 දක්වා රාජකාරී යොදවා සිටියදී තිරිංග පහන් අක්‍රියාව පැමිණි බොලරෝ වර්ගයේ ජීප් රථයක් නවතා රථවාහන නඩුවක් ලබාගෙන ඇතැයි පොලිසිය සඳහන් කරයි
+Express tourism police say that two rolls worth Rs.
 
-අනතුරුව එම රියදුරුගෙන්  බලහත්කාරයෙන් රෝල්ස් ප්ලේන්ටි සහ දුම් වැටි  ලබාගෙන ඇතැයි පොලිසිය කියයි
+The expressways have been attached to the Expressway Tourism Police Division
 
-ඒ සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගත් බව උසස් පොලිස් නිලධාරියෙක් කීය
+Two suspects have come to Matara and deployed the expressway from Matara to the 17th and 10 pm.
 
-අත්අඩංගුවට ගත් සැකකාර පොලිස් නිලධාරීන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය
+The police say that the driver has been forcibly acquired roles placery and smoking
+
+According to a complaint, the two suspects were arrested
+
+The arrested policemen are to be produced before courts
 
 ◼️
 
 [Data](articles/fa834f64.json)
+
+[Extended Data](ext_articles/fa834f64.ext.json)
 
 ---
 
@@ -1485,6 +1827,22 @@ He added that a family belonging to a family in the J/91 Grama Niladhari Divisio
 [Data](articles/590b7751.json)
 
 [Extended Data](ext_articles/590b7751.ext.json)
+
+---
+
+### සෞඛ්‍යයේ ඇඟිලි සටහන් යන්ත්‍ර 213 භාවිතයට නොගෙනම නිශ්ක්‍රීය වෙලා
+
+*2024-11-20 19:08:49* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයේ-ඇඟිලි-සටහන්-යන්ත්‍ර-213-භාවිතයට-නොගෙනම-නිශ්ක්‍රීය-වෙලා/11-413183) · `si`
+
+සෞඛ්‍ය අමාත්‍යංශයට අයත් රෝහල් සහ ආයතන සඳහා රුපියල් මිලියන  31.08  මුදලක් වැය කරමින්  ස්ථාපිත කර තිබූ  සේවකයන්ගේ  සේවය වාර්තා කිරීම සඳහා  තිබූ ඇඟිලි සලකුණු යන්ත්‍ර 213 ක් භාවිතයට නොගෙන නිෂ්ක්‍රීය ව තිබූ බව  ජාතික නිගමන කාර්යාලය මගින් නොවැම්බර් මස 16 වන දින නිකුත් කොට  ඇති නවතම විගණන වාර්තාවකින් අනාවරණය වේ.
+
+සෞඛ්‍ය අමාත්‍යංශයේ ලේකම්වරයා  විසින් නිකුත් කර ඇති  ලිපියකට අනුව සෞඛ්‍ය කාර්ය මණ්ඩලයේ පැමිණීම සහ පිට වී සනාථ කර  හැකි පරිදි ඇඟිලි සකුණු යන්ත්‍ර  2017 වර්ෂයේ  ජූලි මස  01 වන දින  ක්‍රියාත්මක නොකරන්නේ නම් වර්තමාන වැටුපට අනුව අතිකාල දීමනා නොගෙවීමට වග බලා ගත යුතු බවට දන්වා සිටිමි.
+
+2023 වර්ෂයේ ජනවාරි මස සිට සෞඛ්‍ය කාර්ය මණ්ඩල සඳහා අතිකාල හා නිවාඩු දින වැටුප් වෙනුවෙන් රුපියල් මිලියන තිස් අට දහස් දෙසීය තිස් හයයි සත අසූ තුනක මුදලක් 38,236,83 ක මුදලක් ගෙවා තිබුණි. අතිකාල හා නිවාඩු දින වැටුප් වෙනුවෙන් වැය කොට තිබූ මුලු මුදල වැටුප් පිරිවැයෙන් 72% ක් බවද එම විගණන වාර්තාවේ සඳහන් වේ.
+
+...
+
+[Data](articles/0d33618e.json)
 
 ---
 
@@ -2027,399 +2385,5 @@ He added that although the statistics showed a rice surplus, there is no rice in
 [Data](articles/8786a4fd.json)
 
 [Extended Data](ext_articles/8786a4fd.ext.json)
-
----
-
-### Approval to import 70,000 Metricton
-
-*2024-11-20 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203567) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Government approves importing 70,000 MT of rice to address brief rice shortage. Rice will be sourced through CWE Corporation. Cabinet approval granted for the import.
-
-🟩
-
-The government has decided to import 70,000 MT of rice as a solution to the shortage of brief rice.
-
-The Minister of Trade, Commerce, Food Safety and Co-operative Development, Wasantha Samarasinghe said that the rice was imported through the CWE Corporation.
-
-The Minister said that the necessary cabinet was approved.
-
-◼️
-
-[Data](articles/114a7cd4.json)
-
-[Extended Data](ext_articles/114a7cd4.ext.json)
-
----
-
-### Petition filed against ex-President Ranil and others over liquor licenses
-
-*2024-11-20 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103641/petition-filed-against-ex-president-ranil-and-others-over-liquor-licenses) · `en`
-
-A Fundamental Rights (FR) petition has been filed with the Supreme Court seeking an order that the fundamental human rights have been violated through the decision by the respondents including former President Ranil Wickremesinghe to issue liquor licenses in violation of the Excise Act after the 2024 Presidential Election was announced.
-
-The petition was filed by Chamara Sampath Abeysekara and N. Ravichandran, two liquor retail businessmen in Kandy, naming 39 individuals including former President and former Minister of Finance Ranil Wickremesinghe, former Commissioner General of Excise M.J. Gunasiri, Finance Ministry Secretary, Minister Wasantha Samarasinghe and the Chairman of the Bribery Commission, as respondents in the plaint.
-
-The petitioners allege that the respondents have issued a number of liquor licenses in violation of the Excise Act, within the period from July 26 to September 21, 2024, during which the Presidential Election had been announced.
-
-...
-
-[Data](articles/356a5fba.json)
-
-[Extended Data](ext_articles/356a5fba.ext.json)
-
----
-
-### Independent committee to refer to Ravi Karunanayake from National list
-
-*2024-11-20 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203566) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"UNP conducts probe on Ravi Karunanayake for national list seat. Report due in 3 weeks, then to UNP Working Committee."
-
-🟩
-
-The party has decided to conduct an independent investigation into the name of Ravi Karunanayake to send Ravi Karunanayake to the Election Commission for the election commission for a post of the National Listing of the New Democratic Front.
-
-They had stated that the belief in the alliance (UPFA) had revealed that Mr. Ravi Karunananayake was released from the National List.
-
-The discussion has been decided to conduct an independent investigation for the incident.
-
-This investigation report was to be handed over to UNP leader Ranil Wickremesinghe within 3 weeks.
-
-Thereafter, the report was made to the UNP Working Committee.
-
-◼️
-
-[Data](articles/5ab9544c.json)
-
-[Extended Data](ext_articles/5ab9544c.ext.json)
-
----
-
-### Pilleyan leaves CID after recording 5-hour statement
-
-*2024-11-20 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103640/pilleyan-leaves-cid-after-recording-5-hour-statement) · `en`
-
-Former State Minister Sivanesathurai Chandrakanthan alias Pilleyan has left the Criminal Investigation Department (CID), a short while ago, after providing a statement for around 5 hours.
-
-Pilleyan arrived at the CID this morning (20) to provide a statement pertaining to an investigation regarding the controversial documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
-
-On November 12, the former Chief Minister of the Eastern Province had been summoned to the Criminal Investigations Department (CID) in order to record a statement related to the allegations in the documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
-
-However, Pilleyan did not arrive at the CID on the scheduled date instead requested a new date to provide his statement through his attorneys.
-
-...
-
-[Data](articles/a06ba297.json)
-
-[Extended Data](ext_articles/a06ba297.ext.json)
-
----
-
-### Appeals Court upholds death sentence on ‘Julampitiye Amare’
-
-*2024-11-20 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103639/appeals-court-upholds-death-sentence-on-julampitiye-amare-) · `en`
-
-The Court of Appeal has upheld the death sentence given to Geeganagamage Amarasiri alias ‘Julampitiye Amare’ who was accused of shooting and killing of two persons at a JVP rally in June 2012.
-
-This verdict was issued when an appeal filed by the accused through his attorneys, seeking an order to acquit and release him, was taken up before the two-member Appeals Court judge bench comprising Justices P. Kumaran and Sampath Abeykoon today (20).
-
-On November 7, 2019, the Tangalle High Court sentenced ‘Julampitiye Amare’ to death over the Katuwana shooting incident in 2012 which killed two, while causing injuries to another person.
-
-However, through his appeal, Geeganagamage Amarasiri alias ‘Julampitiye Amare’ had claimed that during the trial, the High Court judge did not take the evidence submitted by the defence into consideration.
-
-Accordingly, the accused had requested the Appeals Court to acquit him from the relevant charges.
-
-...
-
-[Data](articles/fda7fd78.json)
-
-[Extended Data](ext_articles/fda7fd78.ext.json)
-
----
-
-### Rehearsal ...
-
-*2024-11-20 16:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திகை/175-347504) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"President Anura Kumara Dissanayake welcomed today. First day of 10th Parliament tomorrow at 10 AM."
-
-🟩
-
-The rehearsal to welcome President Anura Kumara Dissanayake was viewed today (20) as the first day of the tenth parliament begins tomorrow (21) at 10 am
-
-◼️
-
-[Data](articles/eac86598.json)
-
-[Extended Data](ext_articles/eac86598.ext.json)
-
----
-
-### Dedicated to an educational free education
-
-*2024-11-20 16:27:33* · [`adalk`](https://www.ada.lk/breaking_news/පීඩාකාරී-බවින්-තොර-අධ්‍යාපනයක්-වෙනුවෙන්-කැප-වෙනවා/11-413174) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Education reform focus: Free education, reliable future resources. Prime Minister emphasizes systematic approach, child-friendly environment. New policies prioritize quality education. Ministry officials assume duties to implement changes.
-
-🟩
-
-Isurupaya, 'Isurupaaya' to operate the present student resources to the future reliability of the future reliability, the Ministry of Education, Higher Education and Vocational Education.Dr. Harini Amarasuriya says the Prime Minister Dr. Harini Amarasuriya.
-
-Speaking further the Prime Minister said that he was humble and well-known to be deliberately assigned to issue a portfolio of education.. The Minister said that the new government policies have been given high priority and school education should be implemented in accordance with a proper systematic pattern and schedule.
-
-She added an environment where children can enjoy happy and need to be resolved in the education sector, she added and the unstandoned support of the education sector is necessary for it.
-
-K. As the Secretary of the Ministry of Education, Higher Education and Vocational Education. M. G. S N. Mr. Karuwewa assumed duties as 'Isurupaya' at the Ministry premises.
-
-◼️
-
-[Data](articles/111d7379.json)
-
-[Extended Data](ext_articles/111d7379.ext.json)
-
----
-
-### Minister of Public Servants Bimal
-
-*2024-11-20 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203565) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Bimal Ratnayake urges public servants to work for national programs. He emphasizes unity between private and public sectors in ports. He vows to combat corruption and improve ministry performance.
-
-🟩
-
-Minister of Transport, Ports and Civil Aviation Minister Bimal Ratnayake says that public workers should work in the event to strengthen the national program.
-
-He further stated that the Ministry of Ports today (20th), he added.
-
-"All we have to work from this moment to work for everyone who has not voted for us. There is no upstairs politics from here. The Ports Private Sector and the Public Sector should go to a process. "
-
-"Officers now easy to work. We give you the opportunity to work as one. We hope that too. Give it. Those who cannot give it. As public servants,. You too have the right.. You can stay. You can also go ... We have a bigger perceiph ... In the country. People expect us. "
-
-Minister Bim Rathnayake said that the laws are compulsory in the last ministries under their ministries.
-
-"Simply put,. There was no good arrival. I understand.. The result of all other ministries attempts can be given to the country only if we do our. Otherwise, there is no way to get water. "
-
-...
-
-[Data](articles/4231ecdf.json)
-
-[Extended Data](ext_articles/4231ecdf.ext.json)
-
----
-
-### Dedicated to an oppressive education - Prime Minister
-
-*2024-11-20 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203564) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Prime Minister Dr. Haraini Amarasuriya commits to an "oppressive" education system, emphasizing student credibility and civilization. She prioritizes new government policies for successful implementation in schools, focusing on creating a happy learning environment with the support of all stakeholders.
-
-🟩
-
-Prime Minister Dr. Haraini Amarasuriya said that he is committed to an oppressive education that has been able to create suitability of the student credibility civilization.
-
-She made this statement at the new government education, Higher Education and Vocational Education in Isurupaya today (20).
-
-Speaking further the Prime Minister said that he was humble in connection with the issue of a portfolio of a subject such as a subject.
-
-She said that he was aware of the richness of the subject.
-
-The new government policies have been given high priority and school education should be successfully implemented according to a proper systematic pattern and schedule.
-
-The Prime Minister pointed out that the children should create a happy environment with happiness.
-
-However, she added that it is essential to the unstandoned support of all of them.
-
-...
-
-[Data](articles/507ca316.json)
-
-[Extended Data](ext_articles/507ca316.ext.json)
-
----
-
-### Minister Vijitha Herath's focus on E-8 visa issue
-
-*2024-11-20 16:13:14* · [`adalk`](https://www.ada.lk/breaking_news/E-8--වීසා-ගැටලුව-සම්බන්ධයෙන්-අමාත්‍ය-විජිත-හේරත්ගේ-අවධානය/11-413173) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Vijitha Herath addresses E-8 visa issues for South Korean workers. She met with top officials to review legal aspects of the E-8 visa system. Bureau Chairman Kiole Wickremesinghe and General Manager D.D.P. Senanayake attended the meeting.
-
-🟩
-
-Due to the approved procedure for the E8 visa for the right jobs of the South Korea, there is attention to the inconvenience of workers waiting under the E8 visa.
-
-The Minister was held this morning (11.20), a special discussion with the Bureau's top officials of the Bureau.
-
-The Minister decided to look into the legal status and to look into the relevant legal status under the E8 visas system under the E8 visa scheme of South Korea.
-
-Bureau Chairman Kiole Wickremesinghe, General Manager D.d.P. Senanayake, including Senanayake, participated in the event.
-
-◼️
-
-[Data](articles/dceb89cd.json)
-
-[Extended Data](ext_articles/dceb89cd.ext.json)
-
----
-
-### Everything is ready to open the Parliamentary Session with
-
-*2024-11-20 16:08:20* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-සභාවාරය-උත්සවකාරයෙන්-විවෘත-කිරීම-සඳහා-සියල්ල-සූදානම්/11-413172) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Parliament opens tomorrow at 10 AM. Rehearsal held today. President presents government policy at 11:30 AM. First session of Third Parliament commences."
-
-🟩
-
-President to present government policy statement tomorrow at 11:30 am
-
-The first congregation of the Third Parliament is to be opened tomorrow (21). The rehearsal was held today (2024.11.20) at the premises of Parliament.
-
-Parliament will meet at 10.00 am tomorrow after the Condition of the Mace is placed in the Chamber at 9.55 am.Submits the House.
-
-The Speaker is the official pledge, providing the official pledge or oath, the Speaker and oaths, the Speaker, as well as the Appointment of the Constitution of Article 64 (1) of the Constitution of the Constitution and the Constitution of the Constitution.Deputy Committee Chairman will be elected. The first day there is no seating order for the MPs, and MPs receive the opportunity to sit on the pretext.
-
-President Anura Kumara Dissanayake is to be temporarily suspended at the end of these basic activities and is scheduled to be presented to the House of Chairman to Parliament at 11.30 am in accordance with the Constitution.
-
-The Hon.
-
-...
-
-[Data](articles/5a784610.json)
-
-[Extended Data](ext_articles/5a784610.ext.json)
-
----
-
-### Saveekara Award for evaluation of Media field service
-
-*2024-11-20 15:50:27* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-ක්ෂේත්‍රයේ-සේවය-ඇගයීමට-පිරිනම-ස්වර්ණසිංහ-සම්මානය-අද-පුවත්පතේ-රාහුල්-සමන්තට/11-413171) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Rahul Samantahi wins Saveekara Award for media field service and Sarnasinghe National Award for excellent media sector work. He received awards at National Awards ceremony in Colombo, organized by Green Generation Organization to honor industry contributions and societal impact.
-
-🟩
-
-Sarnasinghe National Award for evaluating the excellent service in the media sector, Rahul Samantahi has been held in the newspaper today.
-
-He received the award at the National Awards ceremony of the National Awards and the Excellence in the Messenal and the Message of the Mendent of the Bandaranaike Memorial and Entertainment of Opposition and Highlights at the Bandaranaike International Conference Hall of Colombo.. The awards of this awards presence by the Green Generation Organization is to honor the excellent victories and contribution to the industries and society.
-
-◼️
-
-[Data](articles/5e2221c9.json)
-
-[Extended Data](ext_articles/5e2221c9.ext.json)
-
----
-
-### පැවැති කැබිනට් මණ්ඩලයේ හතරක් රහස් පොලීසියට කැඳවයි
-
-*2024-11-20 15:44:18* · [`adalk`](https://www.ada.lk/breaking_news/පැවැති-කැබිනට්-මණ්ඩලයේ-හතරක්-රහස්-පොලීසියට-කැඳවයි/11-413170) · `si`
-
-ඖෂධ හිඟයක් මවාපාමින් ඉන්දීය ණය යෝජනා ක්‍රමය යටතේ ඖෂධ වර්ග 182ක් ගෙන්වීම සඳහා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රකාවට අනුමැතිය දීම සම්බන්ධයෙන් ප්‍රකාශ ගැනීමට එම කැබිනට් මණ්ඩලය නියෝජනය කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍යවරුන් 18 දෙනාගෙන් සිව්දෙනෙකු අද (21) රහස් පොලිසියට කැඳවා ඇත.
-
-හිටපු සෞඛ්‍ය අමාත්‍යවරයා 2022 සැප්තැම්බර් 26 වැනිදා කැබිනට් මණ්ඩලයට ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවේ, රටට අවශ්‍ය ඖෂධ මොනවාද? යන්න පිළිබඳව හෝ සඳහන් කර නොතිබියදී ඇත්ත වශයෙන්ම ඖෂධ හිඟයක් පැවතියේද? යන්න පිළිබඳවව හෝ සොයා බැලීමකින් තොරව කැබිනට් මණ්ඩලය කැබිනට් පත්‍රිකාවට අවසරය දුන්නේ කෙසේද? යන්න පිළිබඳ එම කැබිනට් මණ්ඩලයේ සාමාජිකයින්ගෙන් ප්‍රශ්න කර ප්‍රකාශ සටහන් කරගත යුතු බව කියමින් නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනවිය කළ ඉල්ලීමක් පිළිගනිමින් මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනි අබේවික්‍රම වීරසිංහ මහත්මිය රහස් පොලිසියට දුන් අවසරයකට අනුව හිටපු අමාත්‍යවරුන් සිව්දෙනා රහස් පොලිසියට කැඳවා ඇත.
-
-...
-
-[Data](articles/264849c9.json)
-
----
-
-### Plantation workers demand to stop member money charged on behalf of the trade unions
-
-*2024-11-20 15:37:20* · [`adalk`](https://www.ada.lk/breaking_news/වෘත්තිය-සමිති-වෙනුවෙන්-අයකරන-සාමාජික-මුදල-නතර-කරන්නැයි-වතු-කම්කරුවෝ-ඉල්ලති/11-413169) · `si`
-
-Plantation workers protest against union membership fees. They demand an end to deductions from December 2024. Workers request authorities to refrain from interfering in union elections. Many struggle to join unions due to application delays. They also seek detailed social reports on monthly basis.
-
-🟩
-
-The Conductor of the Estate Professional Currency, a monthly money for the trade unions from the estate workers, has been asked to do not charge from December 2024.
-
-Estate workers have requested the estate control authority to take no wishes in the plantation occupational leaders during the general election..
-
-Several estate workers recruited as members as members of the estate vocational unions every six months, and a large number of estate workers have not been able to obtain applications for the first six months of the first period of 2025.
-
-Plantation workers further stated that it is a detailed report on the social curriculum of the plantation workers monthly.
-
-◼️
-
-[Data](articles/b1d3e20c.json)
-
-[Extended Data](ext_articles/b1d3e20c.ext.json)
-
----
-
-### Shipowner appeals for Sri Lanka to review case against ‘X-Press Pearl’ Master - report
-
-*2024-11-20 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103638/shipowner-appeals-for-sri-lanka-to-review-case-against-x-press-pearl-master-report) · `en`
-
-X-Press Feeders has hit out at the “bureaucratic and legal hurdles” that have caused severe delays in the case of the X-Press Pearl, a boxship that caught fire in 2021 causing one of Sri Lanka’s worst-ever environmental disasters. The master of the ship has not been able to leave the Asian island for the past 1,280 days.
-
-Splash reported late last month the new Sri Lankan government will reopen investigations into the X-Press Pearl disaster and seek multi-billion dollar payouts from insurers.
-
-X-Press Feeders pointed out in a statement sent to Splash today that the company has already paid out nearly $160m, and the company is keen to get the case concluded and see one of its staff released.
-
-...
-
-[Data](articles/9fc861cd.json)
-
-[Extended Data](ext_articles/9fc861cd.ext.json)
-
----
-
-### Chinese envoy welcomes Sri Lanka new leader’s first foreign visit to India
-
-*2024-11-20 15:37:00* · [`economynextcom`](https://economynext.com/chinese-envoy-welcomes-sri-lanka-new-leaders-first-foreign-visit-to-india-188904/) · `en`
-
-ECONOMYNEXT – Chinese Ambassador to Sri Lanka Qi Zhenhong has welcomed news of the island nation’s president’s first foreign visit to India and said such a move will be beneficial for Sri Lankans.
-
-Ambassador Zhenhong is in Jaffna on a visit to see the situation in the Northern Province which is close to South India’s Tamil Nadu State.
-
-Foreign Minister Vijitha Herath has said President Anura Kumara Dissanayake will go to New Delhi on an official visit next month and later he will visit China.
-
-“Yesterday, I learned from the news that a minister has said that President Dissanayake will make his first official visit to India in the middle of December. We are very glad to see this new development because India and Sri Lanka are close neighbours,” Zhenhong told reporters when he had a media briefing on Tuesday (19) at Jaffna Press Club.
-
-“And when the two countries build relations and economic cooperation, they can deliver more benefits to the people of the country.”
-
-...
-
-[Data](articles/c5a81ec7.json)
-
-[Extended Data](ext_articles/c5a81ec7.ext.json)
 
 ---

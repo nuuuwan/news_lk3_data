@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 01:25:50**
+As of **2024-11-22 01:41:56**
 
 ## Newspaper Stats
 
-*Scraped **56,229** Articles*
+*Scraped **56,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,413
-dailyftlk | 3,846
+dailyftlk | 3,849
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
@@ -26,11 +26,55 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,229 (100.0%) of 56,229 articles have been extended.
+56,229 (100.0%) of 56,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### Sri Lanka’s SMEs: Debt-trapped dilemma
+
+*2024-11-22 01:22:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-SMEs-Debt-trapped-dilemma/4-769525) · `en`
+
+A substantial portion of Sri Lankan SMEs, approximately 70%, are currently insolvent or teetering on the brink of bankruptcy
+
+A cornerstone of successful debt recovery lies in preserving the business’s operational viability rather than resorting to liquidation. Many debt restructuring solutions fall short by neglecting the critical aspect of cash flow matching, which is fundamental to servicing debt obligations. By strategically realigning assets based on their utilisation, it is possible to strike a balance between debt recovery and cash generation, fostering a more sustainable recovery process
+
+...
+
+[Data](articles/8fe0311f.json)
+
+---
+
+### Pathway for economic development of Sri Lanka
+
+*2024-11-22 01:11:29* · [`dailyftlk`](https://www.ft.lk/columns/Pathway-for-economic-development-of-Sri-Lanka/4-769524) · `en`
+
+It appears that FDIs most probably have deliberately avoided investing in SL mainly due to the poor political instability prevailing in the country from about 1956
+
+The path to prosperity of Sri Lanka starts from political stability to enable it to attract mainly FDI as it lacks the capital, skills, technologies and the required international market access to start an export-led strategy of economic development to achieve higher growth and reduce poverty. In this strategy it is important to emphasise on promoting especially the productivity (of the private sector, (which has been described as the ‘the engine of growth’) apart from upgrading the macroeconomic stability of the country and the international market access
+
+...
+
+[Data](articles/3b274533.json)
+
+---
+
+### End of Tamil nationalism? Not according to the numbers
+
+*2024-11-22 00:55:12* · [`dailyftlk`](https://www.ft.lk/opinion/End-of-Tamil-nationalism-Not-according-to-the-numbers/14-769523) · `en`
+
+An analysis of Sri Lankan election data highlights a collapse of many Government affiliated parties and reveals why Tamil nationalism might be growing – not shrinking
+
+The 2024 Sri Lankan Parliamentary election concluded last week, in which the ruling National People’s Power (NPP) gained a record majority and made headway into the Tamil homeland. There were notable casualties for senior Tamil nationalist politicians and for the first time ever a southern political party managed to gain a majority in all but one district in the north-east. Commentators have since speculated whether the result spells the beginning of the end for Tamil nationalist politics.
+
+Instead, the figures highlight a range of factors, including the fall of other southern Opposition political parties, leftist coalitions and paramilitary groups that allowed the NPP to siphon votes and grow their base amongst those who had already previously voted for pro-state forces.
+
+...
+
+[Data](articles/1a242b79.json)
+
+---
 
 ### Model election amendments should be made
 
@@ -2491,87 +2535,5 @@ The airplane was 178 passengers and six others as aviation staff at 11.30 pm on 
 [Data](articles/72deef18.json)
 
 [Extended Data](ext_articles/72deef18.ext.json)
-
----
-
-### “The law should be to stop family violence”
-
-*2024-11-21 12:50:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்ப-வன்முறைகளை-நிறுத்த-சட்டம்-வேண்டும்/175-347559) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Stop family violence: High rates in Sri Lanka. Call for stricter laws. Affects children psychologically. Need emergency helpline."
-
-🟩
-
-Family violence against women in Sri Lanka is very high.Husband, father -in -law and mother -in -law. In some homes, women are persecuted by women. International Media Council Chairman Dunston Mani has called for Women and Child Affairs Minister Saroja Ballraj to implement strict laws to stop family violence for the benefit of children in families.
-
-In the ongoing parliamentary general election, the current government, which has come to power with the greatest support of all parts of the country, should take immediate steps to stop the violence against women in women's families.. This is because the violence in families affects the children growing up in the family environment. Not only affects them psychologically. Tenston Mani also requested immediate action to be taken.
-
-...
-
-[Data](articles/6400a9dc.json)
-
-[Extended Data](ext_articles/6400a9dc.ext.json)
-
----
-
-### Parliamentary session adjourned until December 3rd!
-
-*2024-11-21 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199312) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Parliament adjourned until Dec 3. New Speaker Ashoka Sabumal elected. Deputy Speaker Mohamed Rizi chosen. Hemali Weerasekera named Deputy Chairman. Bimal Ratnayake appointed Chief Minister. President proposed policy declaration before adjournment.
-
-🟩
-
-The president adjourned the parliamentary session for the next session until December 3, after the president presented the policy declaration of the government.
-
-The virgin session of the first session of the tenth parliament began today (21) at 10 am.
-
-The Secretary General of Parliament announced the gazette notification published by the President in the tenth parliamentary session.
-
-Subsequently, the Speaker of the 10th Parliament, Ashoka Sabumal Ranwala, has been unanimously elected as the Speaker of Parliament.
-
-Prime Minister Harini Amarasuriya proposed his name for the post of Speaker. Minister Vijitha Herath proposed it. The name of any other member is not proposed. Subsequently, he was unanimously elected to the post of Speaker.
-
-Minister Nalinda Jayadissa proposed the name of Mohamed Rizi for the post of Deputy Speaker. Minister Saroja Bolraj proposed it. He has been unanimously elected when the names of other candidates have not been proposed.
-
-...
-
-[Data](articles/decfeec4.json)
-
-[Extended Data](ext_articles/decfeec4.ext.json)
-
----
-
-### The Virgin Session of the 10th Parliament
-
-*2024-11-21 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199288) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"President Anura Kumara Dissanayake to present policy declaration at 10th Parliament's first session. No inaugural parade."
-
-
-
-This summary captures the main points in 200 characters, focusing on the key elements: the event, who will present, and the notable absence of a parade.
-
-🟩
-
-President Anura Kumara Dissanayake will present his government's policy declaration at the Virgin session of the first session of the parliament, which began with no parade.
-
-◼️
-
-[Data](articles/b98c8eba.json)
-
-[Extended Data](ext_articles/b98c8eba.ext.json)
 
 ---

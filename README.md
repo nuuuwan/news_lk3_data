@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 23:42:06**
+As of **2024-11-22 00:41:38**
 
 ## Newspaper Stats
 
-*Scraped **56,223** Articles*
+*Scraped **56,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,96 @@ dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
 tamilmirrorlk | 7,985
-virakesarilk | 9,142
+virakesarilk | 9,145
 adaderanasinhalalk | 9,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,215 (100.0%) of 56,223 articles have been extended.
+56,225 (100.0%) of 56,226 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-22 (Friday)
+
+### Prasanna Ranatunga, Ramesh Pathrana and Roshan Ranasinghe appeared at the CIT
+
+*2024-11-22 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199370) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+3 former ministers appear CID re: substandard drug import scandal. CID to summon 18 ministers over Cabinet decision. Massive corruption alleged in Health & Sports ministries.
+
+🟩
+
+Former Ministers Prasanna Ranatunga, Ramesh Pathrana and Roshan Ranasinghe appeared at the Criminal Investigation Department on Thursday morning to make a statement on the incident of importing substandard drugs and distributing them to state hospitals.
+
+The Criminal Investigation Department said that the Criminal Investigation Department (CID) will receive a statement to 18 ministers, including former President Ranil Wickremesinghe and former Prime Minister Dinesh Gunawardena, in connection with the Cabinet's appointment of former Health Minister Keheliya Rambukwella to import substandard drugs.
+
+They were invited to the Criminal Investigation Department today. We came and gave them the necessary information. Like the Ministry of Health, there has been massive corruption scandals in the Ministry of Sports.
+
+◼️
+
+[Data](articles/94ac0711.json)
+
+[Extended Data](ext_articles/94ac0711.ext.json)
+
+---
+
+### The Porter - Kavaskar series also becomes a resolution Test Championships;The first Test is the beginning of today
+
+*2024-11-22 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199369) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+India vs Australia Porter-Kavaskar Test series begins tomorrow. India aims to win for the third time, while Australia seeks to regain the series on home soil. Jasprit Bumrah leads India after Rohit Sharma's absence due to family reasons. Both teams eye World Test Championship qualification.
+
+🟩
+
+The Porter -Kavaskar Test cricket series between India and Australia, which has the highly anticipated five -pronged match by cricket fans, begins tomorrow (22) with the first Test match at the Perth Stadium.
+
+The series is believed to be the most exciting, as these two teams, which are in the top two in the Test Championships, will play with the aim of qualifying for the World Cup final.
+
+India, which won the last two Porter -Kavaskar series in Australia between the two teams, will try to win the series for the third time.. At the same time, Australia is set to end the series on its own soil and re -capture the series.
+
+Rohit Sharma has announced to the Indian Cricket Control Board that he should have a few days to help his wife as his wife has given birth to a second child.
+
+As a result, the team's vice president Jasprit Bumrah has been given the chief responsibility in the first Test.
+
+...
+
+[Data](articles/fb1cc130.json)
+
+[Extended Data](ext_articles/fb1cc130.ext.json)
+
+---
+
+### Inaugurating the first session of the tenth parliament, the full speech made by the President
+
+*2024-11-22 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199368) · `ta`
+
+N
+
+🟩
+
+Today is a special day in our Parliament. The authority was handed over to both groups. Our side has empowered the last presidential election. It is important in the history of Sri Lanka.Most MPs have been selected in our country's electoral system. All the provinces and people have contributed to it as the North and East.
+
+Political parties have been formed on the basis of provinces, nationalism and religions for so long. So the separation, doubt and racism were strengthened between people. When racism is strengthened on one side, racism will be strengthened against it. Racism will not be in the same place. We have seen the history of it in our country, politics and society. But we thank all the people who believe in us.
+
+There are people who believe in other parties without trusting us. That is democracy. It is not democratic to create people's activities surrounding a single party.
+
+...
+
+[Data](articles/79d87df1.json)
+
+[Extended Data](ext_articles/79d87df1.ext.json)
+
+---
 
 ### 2024-11-21 (Thursday)
 
@@ -284,37 +364,53 @@ Some of the students who are studying, and the incorrect ways of going to the wr
 
 ---
 
-### யாழ்ப்பாண வெள்ள அனர்த்த நிலவரம் - அரசாங்க அதிபரின் அவசர அறிவிப்பு!
+### Emergency announcement of Jaffna flood disaster
 
 *2024-11-21 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199365) · `ta`
 
-தற்போது யாழ்ப்பாண மாவட்டத்தில் பெய்துவரும் கடும் மழை காரணமாக 610 குடும்பங்களைச் சேர்ந்த 2,294 பேர் பாதிக்கப்பட்டுள்ளதுடன், 20 வீடுகள் சேதமடைந்துள்ளன.
+Jaffna flood disaster: 2,294 affected, 20 homes damaged. Government aid focuses on identifying vulnerable areas and providing food to shelter residents.
 
-மேலும், பாதிக்கப்படக்கூடிய இடங்களை அடையாளப்படுத்தி முன்னாயத்த நடவடிக்கைகளை எடுக்குமாறும், அனர்த்த ஆபத்து காரணமாக வதிவிடங்களை விட்டு வெளியேறி தற்காலிக தங்குமிடங்களில் தங்கியிருப்போருக்கு சமைத்த உணவு வழங்குமாறும் பிரதேச செயலாளர்களுக்கு அரசாங்க அதிபர் அவர்களால் அறிவுறுத்தல்கள் வழங்கப்பட்டுள்ளது.
+🟩
+
+At present, 2,294 people from 610 families have been affected and 20 houses have been damaged due to heavy rains in the Jaffna district.
+
+In addition, the Government Agent has been instructed by the Divisional Secretaries to take forward measures to identify vulnerable areas and to leave the residences due to disaster and provide food to those who stay in temporary shelters.
 
 ◼️
 
 [Data](articles/ba907858.json)
 
+[Extended Data](ext_articles/ba907858.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் மழை வெள்ளத்தால் 610 குடும்பங்கள் பாதிப்பு!
+### 610 families affected by rain floods in Jaffna
 
 *2024-11-21 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199364) · `ta`
 
-யாழ்ப்பாணத்தில் தொடர்ச்சியாக பெய்து வரும் அடை மழை காரணமாக ஏற்பட்ட வெள்ளப்பெருக்கு மற்றும் ஏனைய அனர்த்தங்களால் 610 குடும்பங்களை சேர்ந்த 2294 பேர் பாதிக்கப்பட்டுள்ளதுடன் 20 வீடுகளும் பகுதியளவில் சேதமடைந்துள்ளதாக யாழ்ப்பாண மாவட்ட அனைத்து முக அமைத்துவ பிரிவின் பிரதிபலிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+Heavy rains cause flooding in Jaffna, affecting 2294 people across 610 families. 20 houses partially damaged.
 
-சாவகச்சேரி பிரதேச செயலர் பிரிவில் வெள்ள அனர்த்தத்தினால் இதுவரை 34 குடும்பங்களைச் சேர்ந்த 108 பேர் பாதிக்கப்பட்டுள்ளதுடன் ஏழு வீடுகளும் பகுதியளவில் சேதம் அடைந்துள்ளன.
+🟩
 
-ஊர்காவல்துறை பிரதேச செயலர் பிரிவில் 111 குடும்பங்களை சேர்ந்த 475 பேர் பாதிக்கப்பட்டுள்ளதுடன் இரண்டு வீடுகளும் பகுதியளவில் சேதமடைந்துள்ளன.
+2294 people from 610 families have been affected by the floods and other disasters due to continuous heavy rains in Jaffna, and 20 houses have been partially damaged, said TN Suriyarajah, a reflection of the Jaffna district.
 
-பருத்தித்துறை பிரதேச செயலர் பிரிவில் 10 குடும்பங்களை சேர்ந்த 35 பேர் பாதிக்கப்பட்டுள்ளதுடன் எட்டு வீடுகளும் பகுதி அளவில் சேதமடைந்துள்ளன.
+The flood disaster in the Chavakachcheri Divisional Secretariat has been affected by the floods and seven houses have been partially damaged.
 
-நல்லூர் பிரதேச செயலர் பிரிவில் வெள்ள அனர்த்தம் மற்றும் இடி மின்னல் தாக்கத்தால் 5 குடும்பங்களைச் சேர்ந்த 14பேர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதி அளவில் சேதமடைந்துள்ளது.
+In the Kayts Divisional Secretariat Division, 475 people from 111 families have been affected and two houses have been partially damaged.
+
+In the Point Pedro Divisional Secretariat Division, 35 people from 10 families have been affected and eight houses have been damaged.
+
+In the Nallur Divisional Secretariat Division, 14 people from 5 families have been affected by flood disaster and thunderstorms.
+
+21 people from seven families have been affected by the Tellippalai Divisional Secretariat.
+
+In the Sanganai Divisional Secretariat Division, 641 people from 174 families have been affected by the floods.
 
 ...
 
 [Data](articles/ebbfea71.json)
+
+[Extended Data](ext_articles/ebbfea71.ext.json)
 
 ---
 
@@ -922,6 +1018,8 @@ Dr. Namal Sudarshana – Deputy Minister of Women and Child Affairs
 
 [Data](articles/7f56d923.json)
 
+[Extended Data](ext_articles/7f56d923.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down as profit taking continues
@@ -946,6 +1044,8 @@ Top turnover generators were DFCC Bank (up at 86.20), JKH, Citizend Development 
 
 [Data](articles/5a6280d6.json)
 
+[Extended Data](ext_articles/5a6280d6.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes flat at 290.95/291.05 to dollar, bonds steady
@@ -961,6 +1061,8 @@ A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov21/
 ◼️
 
 [Data](articles/bcbe6638.json)
+
+[Extended Data](ext_articles/bcbe6638.ext.json)
 
 ---
 
@@ -1628,6 +1730,8 @@ Dissanayaka in his policy statement during the inaugural session of the new parl
 
 [Data](articles/d8eea20f.json)
 
+[Extended Data](ext_articles/d8eea20f.ext.json)
+
 ---
 
 ### Postponement of Parliament until December 3
@@ -1669,6 +1773,8 @@ Sri Lanka President Anura Dissanayake said he expected to wrap up ISB restructur
 ...
 
 [Data](articles/399161c1.json)
+
+[Extended Data](ext_articles/399161c1.ext.json)
 
 ---
 
@@ -2461,87 +2567,5 @@ The Parliament was adjourned after the President concluded delivering the govern
 [Data](articles/8456f995.json)
 
 [Extended Data](ext_articles/8456f995.ext.json)
-
----
-
-### President's Policy Declaration Speech at the Virgin session of the first session of the 10th Parliament
-
-*2024-11-21 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199307) · `ta`
-
-Here's a summary of the speech in approximately 200 characters:
-
-
-
-"President declares end to communalism, promises fair investigations, economic recovery with IMF, and closer parliamentary ties with people."
-
-🟩
-
-The President is currently speaking at the Virgin session of the first session of the 10th Parliament.
-
-All ethnic people have confidence in us and have given power. I thank everyone.
-
-The President said that all those who supported and did not support the election were considered Sri Lankan citizens.
-
-The president said that there is no longer a place for communalism and religion in this country.
-
-The Parliament hated by the people is not worth the rule of the people. The president said that the Parliament criticized by the people cannot be allowed to appear.
-
-The President said that the Parliament should work closely with the people and that the parliament should get the people's examination.
-
-President Anura Kumara Dissanayake said that everyone, including the President, should submit to the law of the country.
-
-The President said that the controversial crimes in the country will be properly investigated and justified to the victims.
-
-...
-
-[Data](articles/0f3221c7.json)
-
-[Extended Data](ext_articles/0f3221c7.ext.json)
-
----
-
-### No room for racial politics and religious extremism hereafter – President
-
-*2024-11-21 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103662/no-room-for-racial-politics-and-religious-extremism-hereafter-president-) · `en`
-
-President Anura Kumara Dissanayake declared that will be no room for racial politics of religious extremism hereafter in the country.
-
-He made these comments while delivering the Government’s Policy Statement during the inaugural session of the 10th Parliament on Thursday (21).
-
-The President said that all the people who voted for the NPP and those who didn’t are citizens of the country and that fulfilling the needs and expectations of all these citizens is the responsibility of the government.
-
-“Therefore, our government and I are duty-bound and committed to fulfill the needs of the people,” he said.
-
-The President further vowed that both he and the government will not allow the relationship with the country’s people to be affected and said that they are bound and committed to continue this governance.
-
-He stated that a major opportunity has now emerged to build national unity in the country, which has been an aspiration of the people for a long time.
-
-...
-
-[Data](articles/001e41a6.json)
-
-[Extended Data](ext_articles/001e41a6.ext.json)
-
----
-
-### Salary Increase: Aswezma Increase
-
-*2024-11-21 12:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பு-அஸ்வெஸ்ம-அதிகரிப்பு/175-347557) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Civil servant salary increase announced. President Anuragumara Dissanayake stated that Aswezma allowance will also be raised in the upcoming budget.
-
-🟩
-
-In the next budget, the salaries of civil servants will be increased. President Anuragumara Dissanayake said during his speech that the Aswezma allowance would also be increased.
-
-◼️
-
-[Data](articles/53b2cf7f.json)
-
-[Extended Data](ext_articles/53b2cf7f.ext.json)
 
 ---

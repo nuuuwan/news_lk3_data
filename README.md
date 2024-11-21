@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 03:00:20**
+As of **2024-11-22 03:11:22**
 
 ## Newspaper Stats
 
-*Scraped **56,236** Articles*
+*Scraped **56,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,413
-dailyftlk | 3,852
+dailyftlk | 3,854
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
@@ -26,11 +26,43 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,235 (100.0%) of 56,236 articles have been extended.
+56,236 (100.0%) of 56,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### Sri Lanka: One of the best ethical and sustainable sourcing destinations
+
+*2024-11-22 03:01:22* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-One-of-the-best-ethical-and-sustainable-sourcing-destinations/34-769549) · `en`
+
+Sri Lanka Embassy in Brussels participated at the European Parliament “Fair Trade Breakfast-2024”, on 13 November 2024, highlighting Sri Lanka as one of the best ethical and sustainable sourcing destinations in the world.
+
+The event was organised by the “Fair Trade Advocacy” Office in Belgium and hosted by the European Parliament’s “Fair Trade Working Group” and its Chair Bernd Lange, a member of the European Parliament. The Embassy, with the support of the Sri Lanka Export Development Board (EDB) participated this event, as a special guest. A cross section of Fair Trade products manufactured by a number of Sri Lankan Fair Trade certified companies were showcased at this event, including tea, spices, coconut-based products and toys.
+
+...
+
+[Data](articles/a3fb954b.json)
+
+---
+
+### nVentures celebrates first exit as Singapore-based Kast Finance acquires Sri Lanka’s Kaiju Labs
+
+*2024-11-22 02:58:14* · [`dailyftlk`](https://www.ft.lk/business/nVentures-celebrates-first-exit-as-Singapore-based-Kast-Finance-acquires-Sri-Lanka-s-Kaiju-Labs/34-769548) · `en`
+
+nVentures partners Imal Kalutotage and Chalinda Abeykoon with Kaiju Labs Co-Founders Sameera Nilapul and Chameera Wijebandara
+
+Prominent early-stage venture capital firm, nVentures, has announced the successful exit of its portfolio company, Kaiju Labs, which was acquired by Kast Finance.
+
+The transaction delivered a 2X multiple on invested capital (MOIC) for nVentures, coupled with a 48.6% internal rate of return (IRR).
+
+nVentures was the first investor in Kaiju Labs, which has emerged as a leader in wallet-as-a-service solutions, making pioneering strides in the Web3 sector. Its acquisition by Kast Finance marks a key milestone in its evolution and clearly demonstrates nVentures’ foresight when choosing to back Kaiju Labs. Kast Finance plans to integrate Kaiju Labs’ advanced technology into its expanding suite of financial solutions, paving the way for new innovations in the Web3 space industry.
+
+...
+
+[Data](articles/1562f9a7.json)
+
+---
 
 ### Brand AKD defies marketing theory to win
 
@@ -1964,6 +1996,8 @@ Today is an exceptionally significant day in the history of our Parliament. For 
 
 [Data](articles/9cd5c793.json)
 
+[Extended Data](ext_articles/9cd5c793.ext.json)
+
 ---
 
 ### Ranil does not know about sending Ravi's name
@@ -2445,55 +2479,5 @@ The President acknowledged the delay in the third review, initially scheduled fo
 [Data](articles/dafa529f.json)
 
 [Extended Data](ext_articles/dafa529f.ext.json)
-
----
-
-### Notice to the workers of Kuwait and foreigners
-
-*2024-11-21 13:14:46* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-ශ්‍රමිකයන්ට-හා-විදේශිකයන්ට-දැනුම්-දීමක්/11-413197) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Kuwait Ministry extends fingerprint deadline to Dec 31. Sri Lankan workers can choose online locations like Hawally, Jahra, Ahmadi. Government banks exempt from fingerprinting requirement.
-
-🟩
-
-The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide the fingerprints of the Kuwait state and the fingerprints of their livestock.
-
-The date on which was due to end in September has been extended to December 31 again to December. The Sri Lanka Bureau of Foreign Employment requests the Finger Farmers of the Kuwait's Sri Lankan workers at the Interior Ministry.
-
-Accordingly, the Biometric. It also allows to choose an approximate place to give fingerprints in online mechanism. Accordingly, Hawaali (Hawaally) Farwaniya, Ahmade Mubarak Mubarak Mubarak, Mubarak Al Kabir (JAHRA), is located at the security directors of the security directors.
-
-In addition, people in the Department of Investigation Department can be done in the Department of Investigation for the provision of finger viewers in Ali Saba Al Salim, Umm Al-Nema and Jerro.
-
-...
-
-[Data](articles/1e058f92.json)
-
-[Extended Data](ext_articles/1e058f92.ext.json)
-
----
-
-### Sri Lanka will have state share in energy, banking: President
-
-*2024-11-21 13:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-have-state-share-in-energy-banking-president-189200/) · `en`
-
-ECONOMYNEXT- Sri Lanka will have a state share in energy, banking sector to direct the sectors and co-operatives will be developed to drive retail market, President Anura Dissanayake said.
-
-“We think the state should be represented especially in the energy sector, is a very sensitive area to the economy,” President Dissanayake said in his inaugural address to parliament Thursday.
-
-“Small changes in the energy sector gives deadly illnesses to the economy.”
-
-“But we also think the state sector should represent part of the financial sector,” he said. “Therefore we think some areas of the economy should be directed as an arm of the government.”
-
-“The co-operative sector will be re-developed as a strong contender in the market.” (Colombo/Nov21/2024)
-
-◼️
-
-[Data](articles/4bf89585.json)
-
-[Extended Data](ext_articles/4bf89585.ext.json)
 
 ---

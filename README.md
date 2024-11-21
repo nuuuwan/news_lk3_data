@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 16:00:51**
+As of **2024-11-21 15:42:02**
 
 ## Newspaper Stats
 
-*Scraped **56,153** Articles*
+*Scraped **56,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,287
+adalk | 5,286
 adaderanalk | 6,787
-tamilmirrorlk | 7,974
+tamilmirrorlk | 7,970
 virakesarilk | 9,117
 adaderanasinhalalk | 9,695
 
@@ -26,79 +26,11 @@ adaderanasinhalalk | 9,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,146 (100.0%) of 56,153 articles have been extended.
+56,146 (100.0%) of 56,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### அரசியல் ஓய்வை உறுதிப்படுத்தினார் விஜயதாச
-
-*2024-11-21 15:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-ஓய்வை-உறுதிப்படுத்தினார்-விஜயதாச/175-347569) · `ta`
-
-முன்னாள் அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷ, அரசியலில் இருந்து ஓய்வு பெறுவதாகவும் எதிர்வரும் தேர்தல்களில் போட்டியிடப் போவதில்லை எனவும் அறிவித்துள்ளார்.
-
-கண்டி தலதா மாளிகையில் வழிபாடுகளில் ஈடுபட்ட பின், தனது அரசியல் எதிர்காலம் குறித்து ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அவர் இதனைத் தெரிவித்துள்ளார்.
-
-மீண்டும் பாராளுமன்றத்திற்கு வருவதற்கான சாத்தியக்கூறுகள் உள்ளதா என்று கேட்டபோது, ​​கலாநிதி ராஜபக்ஷ அதை உறுதியாக நிராகரித்தார்.
-
-பாராளுமன்றத்தில் உள்ள 225 உறுப்பினர்களும் ஊழல்வாதிகள் என்று குறிப்பிடப்பட்ட கதையின் ஒரு பகுதியாக இருக்க தனக்கு விருப்பமில்லை என்று அவர் கூறினார்.
-
-◼️
-
-[Data](articles/a564c845.json)
-
----
-
-### நாளை முதல் தவணை விடுமுறை
-
-*2024-11-21 15:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-தவணை-விடுமுறை/175-347568) · `ta`
-
-2024 ஆம் ஆண்டில், அரச பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளில் உள்ள சிங்கள மற்றும் தமிழ் பாடசாலைகளுக்கான மூன்றாம் பாடசாலை தவணையின் முதல் கட்டம் 2024 நவம்பர் 22 ஆம் திகதி வெள்ளிக்கிழமையுடன் முடிவடையும் என கல்வியமைச்சு அறிவித்துள்ளது.
-
-இதேவேளை, முஸ்லிம் பாடசாலைகளில் மூன்றாம் பாடசாலை தவணையின் முதல் கட்டம்   2024 டிசெம்பர் 13ஆம் திகதி வெள்ளிக்கிழமையுடன் முடிவடையும் மற்றும் அன்றைய திகதிக்குப் பிறகு பாடசாலை விடுமுறைகள் தொடங்கும்.
-
-அனைத்துப் பாடசாலைகளிலும் மூன்றாம் தவணையின் இரண்டாம் கட்டம் 2025  ஜனவரி 02 மீண்டும் தொடங்கும் என்றும் கல்வியமைச்சு அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/44242470.json)
-
----
-
-### ”இந்த விடயம் ஒரு சிலருக்கு மாத்திரமே பிரச்சினை”
-
-*2024-11-21 15:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-விடயம்-ஒரு-சிலருக்கு-மாத்திரமே-பிரச்சினை/175-347567) · `ta`
-
-புதிய ஜனநாயக முன்னணியின் (NDF) தேசிய பட்டியல் நியமனமாக இலங்கையின் 10வது பாராளுமன்றத்தின் ஆரம்ப அமர்வில் முன்னாள் அமைச்சர் ரவி கருணாநாயக்க இன்று கலந்து கொண்டார்.
-
-பாராளுமன்றத்திற்கு வருகை தந்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த கருணாநாயக்க, புதிய ஜனநாயக முன்னணியின் தேசிய பட்டியல் ஊடாக தனது நியமனம் சட்டபூர்வமானது என தெரிவித்தார்.
-
-இந்த விடயம் ஒரு சிலருக்கு மாத்திரமே பிரச்சினை என்றும் முழு கட்சியினருக்கும் அது பற்றிய பிரச்சினை இல்லை என்றும் பாராளுமன்ற உறுப்பினர் கருணாநாயக்க மேலும் தெரிவித்தார்.
-
-ஐக்கிய தேசியக் கட்சியை (ஐ.தே.க.) மீளக் கட்டியெழுப்புவதுடன், பலமான அரசியல் சக்தியாக அதனை சரியான பாதையில் வழிநடத்துவதிலேயே தனது கவனத்தை செலுத்துவதாக அவர் சுட்டிக்காட்டியுள்ளார்.
-
-தாம் பாராளுமன்றத்திற்கு நியமிக்கப்பட்டமை தொடர்பில் எழுந்துள்ள சர்ச்சை தொடர்பில் கருத்து தெரிவித்த பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க, ஒரு சிலரின் நலனுக்காக கட்சி பாதிக்கப்பட அனுமதிக்க முடியாது எனவும் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/6f8ed6a4.json)
-
----
-
-### டிசம்பர் 3 வரை பாராளுமன்றம் ஒத்திவைப்பு
-
-*2024-11-21 15:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பர்-3-வரை-பாராளுமன்றம்-ஒத்திவைப்பு/175-347566) · `ta`
-
-ஜனாதிபதி அனுரகுமார திஸாநாயக்க இலங்கை பாராளுமன்றத்தை டிசம்பர் மாதம் 3ஆம் திகதி காலை 9:30 மணி வரை ஒத்திவைத்துள்ளார்.
-
-இன்று முற்பகல் 10வது பாராளுமன்றத்தின் ஆரம்ப அமர்வின் போது அரசாங்கத்தின் கொள்கை அறிக்கையை ஜனாதிபதி வழங்கியதை தொடர்ந்து இந்த ஒத்திவைப்பு இடம்பெற்றது.
-
-◼️
-
-[Data](articles/0f0dc109.json)
-
----
 
 ### Former UK Deputy Prime Minister John Prescott dies at age 86
 
@@ -247,26 +179,6 @@ Currently Sri Lanka earns around 1.2 billion dollars from the IT industry, Dissa
 [Data](articles/d4380a6b.json)
 
 [Extended Data](ext_articles/d4380a6b.ext.json)
-
----
-
-### මහවත්තේ චාමරගේ අයිස් සමග දෙදෙනෙක් අල්ලයි
-
-*2024-11-21 13:56:30* · [`adalk`](https://www.ada.lk/breaking_news/මහවත්තේ-චාමරගේ-අයිස්-සමග-දෙදෙනෙක්-අල්ලයි/11-413199) · `si`
-
-සංවිධානාත්මක අපරාධකරුවකු හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන මහවත්තේ චාමර නැමැත්තාට අයත් රුපියල් මිලියන එකොළහක් පමණ වටිනා අයිස් මත් ද්‍රව්‍ය තොගයක් සමග දෙදෙනෙකු අත්ඩගුවට ගත් බව විශේෂ කාර්ය බළකාය පවසයි.
-
-ඒ සමග මත්ද්‍රව්‍ය ජාවාරමින් උපයා ගත් බවට සක කෙරෙන එක්කෝටි දස ලක්ෂයක මුදලක් මෝටර් රථයක් හා ජංගම දුරකථන 03 ක්  පොලිස් භාරයට ගෙන තිබේ.
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කඩවත සහ මාලිගාවත්ත ප්‍රදේශවල පදිංචි (29 සහ 39) වයස ඇති දෙදෙනෙකු බව පොලීසිය කියයි.
-
-විශේෂ කාර්ය බලකාය විශේෂ මේහෙයුම් ඒකකය II හි පොලිස් සැරයන් මාතර ආරච්චි මහතා ඇතුළු නිලධාරී කණ්ඩායක්  කඩවත හා දොම්පේ ප්‍රදේශවල වැටලීම් දෙකක් සිදුකර තිබුණි.
-
-එහිදී අයිස් මත්ද්‍රව්‍ය කිලෝ 03 ග්‍රෑම් 536,මත්ද්‍රව්‍ය ජාවාරමින් උපයාගන්නා ලද එක්කෝටි දස ලක්ෂයක මුදලක්, කාර් රථයක් හා ජංගම දුරකථන 03 සමග පුද්ගලයින් දෙදෙනෙකු මෙහිදී පොලිස් භාරයට ගෙන තිබේ.
-
-...
-
-[Data](articles/5f350666.json)
 
 ---
 
@@ -2431,5 +2343,131 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa, Centra
 [Data](articles/fdd6ee54.json)
 
 [Extended Data](ext_articles/fdd6ee54.ext.json)
+
+---
+
+### Adani charged in US over renewable energy bribery amid Sri Lanka troubles
+
+*2024-11-21 07:19:00* · [`economynextcom`](https://economynext.com/adani-charged-in-us-over-renewable-energy-bribery-amid-sri-lanka-troubles-189007/) · `en`
+
+ECONOMYNEXT – India’s Adani group has been charged alleging 250 million dollars in bribes to get solar energy contracts from Indian authorities and misleading investors when capital was raised from American investors, the US Securities Exchange and media reports said.
+
+Chairman Gautam Adani, two executives of Adani Green Energy Limited, his nephew Sagar Adani and Vneet Jaain are charged with misleading U S and international investors about their company’s compliance with antibribery and anticorruption practices, CNBC, a US business news channel reported.
+
+Sri Lankan activists have also taken a project by Adani Green Energy in Mannar area to court, after it won a wind power deal from the island’s government without competitive tender at allegedly far higher prices than other projects with competitive tender.
+
+In Sri Lanka and some other countries renewable firms also evade competitive bidding through a so-called ‘feed in tariffs’ which critics say are produced by lobbying for various costs.
+
+...
+
+[Data](articles/cc12761e.json)
+
+[Extended Data](ext_articles/cc12761e.ext.json)
+
+---
+
+### Sri Lanka plans to boost exports to $36bn over 5-years
+
+*2024-11-21 07:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-boost-exports-to-36bn-over-5-years-189023/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to boost exports of goods and service to around 36 billion US dollars over the next five years, newly appointed Chairman of the island’s Export Development Board, Mangala Wijesinghe said.
+
+Good exports will be boosted to 25 billion dollars from the current 12 billion dollars, he said.
+
+Services would be boosted to around 11.5 billion dollars from the current 3 billion dollars.
+
+As part of efforts to boost services a marine related investment forum would be held on November 26, he said.
+
+Sri Lanka expects to draw foreign direct investments into exports with political and economic stability, he said.
+
+Transparency would also be ensured through digitalization, he said. (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/7399ab3e.json)
+
+[Extended Data](ext_articles/7399ab3e.ext.json)
+
+---
+
+### Deputy Ministers Affidle to this evening - Speaker Ranwala?
+
+*2024-11-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203584) · `si`
+
+MP Asoka Ranwala to become Speaker of New Parliament. First committee of 10th Parliament opens today. Deputy Ministers to be sworn in later at Presidential Secretariat. Approximately 27 deputy ministerial portfolios to be allocated.
+
+🟩
+
+The National Tower Speed ​​has decided to appoint MP Asoka Ranwala as Speaker of the New Parliament.
+
+The first committee of the 10th Parliament is scheduled to open today (21).
+
+The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
+
+Deputy Ministers of the New Government will be sworn in after the completion of the affairs of Parliament.
+
+Deputy Ministers are to be sworn in at the Presidential Secretariat and nearly 27 deputy ministerial portfolios are to be awarded.
+
+◼️
+
+[Data](articles/540ae20f.json)
+
+[Extended Data](ext_articles/540ae20f.ext.json)
+
+---
+
+### The first congregation in Parliament begins today
+
+*2024-11-21 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203583) · `si`
+
+First Parliament session begins today. Key events include Speaker election, Deputy Speaker appointment, oath-taking ceremony, and presidential address. No orders for MPs on first day; temporary suspension at end of session.
+
+🟩
+
+The first committee of the 10th Parliament is scheduled to open today (21).
+
+The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
+
+The Deputy Speaker and Deputy Speaker and Deputy Committee Chairman will appoint the official pledge or oath, providing the official pledge or oath after the Speaker's elections.
+
+There is no order for MPs on the first day and MPs are entitled to sit on a disabled seat.
+
+The Parliament will be temporarily suspended at the end of these basic work and President Anura Kumara Dissanayake has been presented to the Parliament of President Anura Kumara Dissanayake to the Parliament.
+
+On the advice of the president, a charming ceremony will be held as a charm and Jayamaangala stanzards, three armed forces, and the armble, salutives and charging.
+
+Accordingly, by 11:00 am, all the invitees will be seated and the Speaker is to be recognized at 11.10 am.
+
+Subsequently accepted the Prime Minister and the President arrives only.
+
+...
+
+[Data](articles/f9e8377c.json)
+
+[Extended Data](ext_articles/f9e8377c.ext.json)
+
+---
+
+### Dickwella shooting - Man dies
+
+*2024-11-21 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203582) · `si`
+
+Dickwella shooting: 48-year-old man killed by motorcycle gunman in Walasgala area. Police investigation ongoing.
+
+🟩
+
+Police say that the Veterinary Office near the Veterinary Office in the Walasgala area has been shot at 5.30 am today.
+
+A person who was traveling with a motorcycle was shot dead, and the man had died in that location.
+
+The victim was a 48-year-old resident of the Walasgala area.
+
+The information is yet to be revealed as to who shot.
+
+◼️
+
+[Data](articles/ccf31461.json)
+
+[Extended Data](ext_articles/ccf31461.ext.json)
 
 ---

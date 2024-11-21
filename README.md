@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 19:07:19**
+As of **2024-11-21 19:18:07**
 
 ## Newspaper Stats
 
-*Scraped **56,182** Articles*
+*Scraped **56,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,292
+adalk | 5,293
 adaderanalk | 6,791
 tamilmirrorlk | 7,981
 virakesarilk | 9,126
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,182 (100.0%) of 56,182 articles have been extended.
+56,182 (100.0%) of 56,183 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1201,6 +1201,20 @@ The President acknowledged the delay in the third review, initially scheduled fo
 [Data](articles/dafa529f.json)
 
 [Extended Data](ext_articles/dafa529f.ext.json)
+
+---
+
+### කුවේටයේ ශ්‍රමිකයන්ට හා විදේශිකයන්ට දැනුම් දීමක්
+
+*2024-11-21 13:14:46* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-ශ්‍රමිකයන්ට-හා-විදේශිකයන්ට-දැනුම්-දීමක්/11-413197) · `si`
+
+කුවේට් රාජ්‍යයේ සේවය කරන ශ්‍රමිකයින්ට හා විදේශකයින්ට සිය ජීවමිතික (Biometric) ඇඟිලි සලකණු ලබා දෙන ලෙස එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් විශේෂ නිවේදනයක් මගින් දැනුම් දී තිබෙන අතර, එලෙස ඇඟිලි සලකුණු ලබා දිය හැකි අවසාන දිනය  2024 දෙසැම්බර් 31 දිනයෙන්  අවසන් වන බව සඳහන් කර තිබේ.
+
+පසුගිය සැප්තැම්බර් මස අවසන් වීමට  නියමිතව තිබූ මෙම දිනය යළි දෙසැම්බර් 31 වෙනිදා දක්වා දීර්ඝ කර තිබේ. කුවේට් රාජ්‍යයේ සේවය කරන සියලුම ශ්‍රී ලාංකික ශ්‍රමිකයින් ඇඟිලි සලකණු එරට අභ්‍යන්තර අමාත්‍යංශය විසින් නිවේදනය කර ඇති ස්ථානවලදී ලබාදෙන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ඉල්ලා සිටියි.
+
+...
+
+[Data](articles/1e058f92.json)
 
 ---
 
@@ -2529,31 +2543,5 @@ After the General Secretary of the Parliament Mrs. Kushani Rohanadheera read the
 [Data](articles/5d8f850a.json)
 
 [Extended Data](ext_articles/5d8f850a.ext.json)
-
----
-
-### New Speaker Ashoka Ranwala
-
-*2024-11-21 10:14:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சபாநாயகர்-அசோக-ரன்வல/175-347535) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Asoka Ranwala elected Speaker 10th Parliament without referendum. Proposed by PM Harin Amarasuriya & Minister Vijitha Herath. Sworn in at Akkarasanam after silence from others.
-
-🟩
-
-Parliamentarian Asoka Ranwala was elected as Speaker of the 10th Parliament without a referendum. Prime Minister Harin Amarasuriya proposed his name. Minister Vijitha Herath proposed.
-
-The Secretary -General of Parliament asked if anyone else proposed the name of the Speaker's post. However, a few minutes remained silent.
-
-Subsequently, both Dr. Harin Amarasuriya Minister Vijitha Herath took the new Speaker Ashoka Ranwala to the Akkarasanam.. Thereafter, he was sworn in. Later, the new Speaker Asoka Ranwala and other members will be sworn in.
-
-◼️
-
-[Data](articles/ebc2e181.json)
-
-[Extended Data](ext_articles/ebc2e181.ext.json)
 
 ---

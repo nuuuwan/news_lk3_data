@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 16:41:13**
+As of **2024-11-21 16:59:29**
 
 ## Newspaper Stats
 
@@ -36,29 +36,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
 
-ජාතික ජන බලවේගය රජයේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) ජනාධිපති
+ජාතික ජන බලවේගය රජයේ නියෝජ්‍ය අමාත්‍යවරු ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) ජනාධිපති
 
-01 මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා - ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+නාමල් කරුණාරත්න මහතා -  කෘෂිකර්ම සහ පශු සම්පත් නියෝජ්‍ය අමාත්‍ය
 
-02 නාමල් කරුණාරත්න මහතා -  කෘෂිකර්ම සහ පශු සම්පත් නියෝජ්‍ය අමාත්‍ය
+වසන්ත පියතිස්ස මහතා - ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ නියෝජ්‍ය අමාත්‍ය
 
-03 වසන්ත පියතිස්ස මහතා - ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ නියෝජ්‍ය අමාත්‍ය
+ආර්. එම්. ජයවර්ධන මහතා - වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන නියෝජ්‍ය අමාත්‍ය
 
-05 ආර්. එම්. ජයවර්ධන මහතා - වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+ගමගෙදර දිසානායක මහතා - බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය
 
-06 ගමගෙදර දිසානායක මහතා - බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය
+අරුන් හේමචන්ද්‍රා මහතා  - විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය
 
-08 රත්න ගමගේ මහතා - ධීවර ජලජ සහ සාගර සම්පත් නියෝජ්‍ය අමාත්‍ය
+චතුරංග අබේසිංහ මහතා - කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන නියෝජ්‍ය අමාත්‍ය
 
-11 අරුන් හේමචන්ද්‍රා මහතා  - විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය
+ඉංජිනේරු ජනිත් රුවන් කොඩිතුවක්කු මහතා - වරාය සහ සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය
 
-16 චතුරංග අබේසිංහ මහතා - කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+වෛද්‍ය නාමල් සුදර්ශන මහතා  - කාන්තා සහ ළමා කටයුතු නියෝජ්‍ය අමාත්‍ය
 
-17 ඉංජිනේරු ජනිත් රුවන් කොඩිතුවක්කු මහතා - වරාය සහ සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය
+රුවන් සෙනරත් මහතා - පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය
 
-18 වෛද්‍ය නාමල් සුදර්ශන මහතා  - කාන්තා සහ ළමා කටයුතු නියෝජ්‍ය අමාත්‍ය
+වෛද්‍ය ප්‍රසන්න කුමාර ගුණසේන මහතා - ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය
 
-19 රුවන් සෙනරත් මහතා - පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය
+වෛද්‍ය හංසක විජේමුණි මහතා  - සෞඛ්‍ය සහ ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය
+
+සුන්දරලිංගම් ප්‍රදීප් මහතා - වැවිලි සහ ප්‍රජා යටිතල පහසුකම් නියෝජ්‍ය අමාත්‍ය
 
 ...
 
@@ -114,7 +116,25 @@ The Deputy Ministers of the new government have been sworn in this evening (21) 
 
 Accordingly, a total of 29 Deputy Ministers were sworn in before President Anura Kumara Dissanayake today.
 
-◼️
+1. Prof. Anil Jayantha Fernando – Deputy Minister of Economic Development
+
+2. Namal Karunaratne – Deputy Minister of Agriculture and Livestock
+
+3. Wasantha Jayatissa - Deputy Minister of Rural Development, Social Security and Community Empowerment
+
+5. R.M. Jayawardene - Deputy Minister of Trade, Commerce, Food Security and Co-operative Development
+
+6. Gamagedara Dissanayake - Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
+
+8. Rathna Gamage - Deputy Minister of Fisheries, Aquatic and Ocean Resources
+
+11. Arun Hemachandra – Deputy Minister of Foreign Affairs and Foreign Employment
+
+16. Chathuranga Abeysinghe - Deputy Minister of Industries and Entrepreneurship Development
+
+17. Janith Ruwan Kodithuwakku - Deputy Minister of Ports and Civil Aviation
+
+...
 
 [Data](articles/cf51f1e7.json)
 

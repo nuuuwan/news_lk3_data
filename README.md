@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 18:22:55**
+As of **2024-11-21 18:53:12**
 
 ## Newspaper Stats
 
-*Scraped **56,180** Articles*
+*Scraped **56,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,291
-adaderanalk | 6,790
+adalk | 5,292
+adaderanalk | 6,791
 tamilmirrorlk | 7,981
 virakesarilk | 9,126
 adaderanasinhalalk | 9,698
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,177 (100.0%) of 56,180 articles have been extended.
+56,181 (100.0%) of 56,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
+
+*2024-11-21 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103674/icc-issues-arrest-warrants-for-israels-netanyahu-gallant-and-hamas-leader) · `en`
+
+Judges at the International Criminal Court (ICC) have issued arrest warrants for Israel’s prime minister and former defence minister, as well as Hamas’s military commander.
+
+A statement said a pre-trial chamber had rejected Israel’s challenges to the court’s jurisdiction and issued warrants for Benjamin Netanyahu and Yoav Gallant.
+
+A warrant was also issued for Mohammed Deif, although the Israeli military has said he was killed in an air strike in Gaza in July.
+
+It found there were “reasonable grounds” that the three men bore “criminal responsibility” for alleged war crimes and crimes against humanity during the war between Israel and Hamas. Both Israel and Hamas have rejected the allegations.
+
+◼️
+
+[Data](articles/b979cd40.json)
+
+[Extended Data](ext_articles/b979cd40.ext.json)
+
+---
 
 ### Two people were injured as the package opened
 
@@ -206,17 +226,27 @@ At the Presidential Secretariat, 29 Deputy Ministers were appointed by President
 
 ---
 
-### 29 பிரதி அமைச்சர்கள் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் சத்தியப் பிரமாணம்
+### 29 Deputy Ministers in the presence of President Anura Kumara Dissanayake
 
 *2024-11-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199340) · `ta`
 
-29 பிரதி அமைச்சர்கள் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் சற்றுமுன்னர் சத்தியபிரமாணப் செய்து கொண்டனர்.
+Here's a summary of 200 characters:
 
-ஜனாதிபதி செயலகத்தில் இன்று வியாழக்கிழமை (21)  இடம்பெற்ற நிகழ்வில் பதவிப்பிரமாணம் செய்து கொண்ட பிரதி அமைச்சர்கள் விபரம் பின்வருமாறு,
+
+
+29 Deputy Ministers sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat on 21st day of month.
+
+🟩
+
+29 Deputy Ministers were sworn in in the presence of President Anura Kumara Dissanayake.
+
+The Deputy Ministers who were sworn in at the Presidential Secretariat today (21)
 
 ◼️
 
 [Data](articles/9d66405c.json)
+
+[Extended Data](ext_articles/9d66405c.ext.json)
 
 ---
 
@@ -762,6 +792,22 @@ The postponement was followed by the president's issuance of the government's po
 
 ---
 
+### රවීගේ නම යැවීම ගැන රනිල් දන්නේ නෑ
+
+*2024-11-21 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රවීගේ-නම-යැවීම-ගැන-රනිල්-දන්නේ-නෑ/11-413202) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රීධූරයක් සදහා රවී කරුණානායක මහතාගේ නම මැතිවරණ කොමිසමට යැව්වේ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාටද දැනුම් දීමෙන් පසුව බවට කෙරෙන ප්‍රකාශ සම්පුර්ණයෙන්ම අසත්‍යය බව එක්සත් ජාතික පක්ෂ සභාපති වජිර අබේවර්ධන මහතා නිවේදනයක් නිකුත් කරමින් පවසයි්‍
+
+ජාතික ලැයිස්තු මන්ත්‍රී ධූරය සදහා රවී කරුණානායක මහතාගේ නම මැතිවරණ කොමිසම වෙත යවන බවට කිසිදු පූර්ව දැනුම්දීමක් රනිල් වික්‍රමසිංහ මහතාට කර නොතිබුණ බවත් එසේම මහ මැතිවරණයෙන් ලැබෙන ජාතික ලැයිස්තු මන්ත්‍රීධූරවලින් එකක් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නම් කරන අපේක්ෂයෙකුට දීමට එකගතාවයට පැමිණ තිබූ බවට කෙරෙන ප්‍රකාශද පදනම් විරහිත බවත් ඔහු නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+මහ මැතිවරණයෙන් පසුව නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට ලැබුනු මන්ත්‍රී ධූර සම්බන්ධයෙන් තීරණයක් ගැනීම සඳහා හිටපු විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පක්ෂ නායකයින්ගේ විශේෂ සාකච්ඡාවක් නොවැම්බර් මස 16 වැනි දින පැවැත්විණි.
+
+...
+
+[Data](articles/70695ea4.json)
+
+---
+
 ### Former UK Deputy Prime Minister John Prescott dies at age 86
 
 *2024-11-21 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103668/former-uk-deputy-prime-minister-john-prescott-dies-at-age-86) · `en`
@@ -844,19 +890,31 @@ Speaker Ashoka Rangwella, the honor of the Parliament, will defend the honor and
 
 ---
 
-### ගෝඨාගේ ගැසට් අවලංගු නොකර සහල් ගැටලුව ලිහන්න බැරිලු
+### Barrowed the rice problem without cancellation of Gota's gazette
 
 *2024-11-21 14:23:27* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-ගැසට්-අවලංගු-නොකර-සහල්-ගැටලුව-ලිහන්න-බැරිලු/11-413201) · `si`
 
-වෙළඳපොළේ හාල් හිඟයක් නිර්මාණය වී තිබෙන්නේ ගෝඨාභය රාජපක්ෂ මහතා පැනවූ ගැසට් නිවේදනයන් අවලංගු නොකර, එම ගැසට් නිවේදන වත්මන් රජයත් ක්‍රියාත්මක කිරීම නිසා බව, එක්සත් සහල් නිෂ්පාදකයන්ගේ සංගමයේ සභාපති මුදිත් පෙරේරා මහතා සඳහන් කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-වෙළඳපොළේ පවතින සහල් හිඟය මග හැරවීමට ඉන්දියාවෙන් සහල් මෙට්‍රික් ටොන් 65,000 ක් අපනයනය කිරීම උත්තරයක් නොවන බවත්, වසර දෙකහමාරකට පෙරාතුව ගෝඨාභය රාජපක්‍ෂ මහතා සහල් සම්බන්ධයෙන් පැනවූ ගැසට් නිවේදන අහෝසිකර  පරණ ගැසට් නිවේදන යාවත්කාලීන කර සහල් හිඟයක් මවා පාන මහා පරිමාණ සහල් ව්‍යාපාරිකයන්ට නව නීති පනවන ලෙසත් පෙරේරා මහතා කීවේය.
 
-පොළොන්නරුව ඕනෑගම ප්‍රදේශයේදී 20 වෙනිදා පෙරවරුවේ මාධ්‍ය සාකච්ඡාවක් කැඳවමින් එක්සත් සහල් නිෂ්පාදකයන්ගේ සංගමයේ සභාපති මුදිත් පෙරේරා මහතා ඒ බව කීවේය.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදිත් පෙරේරා මහතා මෙසේද පැවසීය.
+
+Rice shortage due to government gazette without cancellation. Exporting rice not solution. President urged to set new rice prices based on past Yala season data. Imported rice arrival in November 2021 led to price increase. Local rice production from Polonnaruwa, Dambulla, Marandagahamula sent to market. Requested government intervention, not private sector involvement. Imported rice should go to supermarkets or cooperatives, not large mills. Gotabhaya Rajapaksa cautioned against favoring rice businessmen.
+
+🟩
+
+A shortage of rice in the market is due to the current government implementing the gazette notifications without cancellation of Gotabhaya Rajapaksa, the current government is due to the current government.
+
+Perera said that the export of rice is not an answer to the exporting of rice out of rice, abolishing rice, for two and a half years before the shortage of rice in the market..
+
+President of the United Kingdom Manufacturers Association (UN)
+
+"The president has a price from the past Yala season and requests the president to enact new rice prices based on prices. If that happens, the shortage of rice and prices will be reduced. It is myth if the rice can control the price of rice, control the shortage of rice, which can control the rice deficit.
 
 ...
 
 [Data](articles/04cef149.json)
+
+[Extended Data](ext_articles/04cef149.ext.json)
 
 ---
 
@@ -1642,19 +1700,25 @@ Meanwhile, the civil society has appealed to the Ambassador to the journalists f
 
 ---
 
-### “சட்டத்துக்கு மேல் யாருமில்லை” (முழு உரையும் இணைப்பு)
+### “There is no one above the law” (the entire text link)
 
 *2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சட்டத்துக்கு-மேல்-யாருமில்லை-முழு-உரையும்-இணைப்பு/150-347554) · `ta`
 
-அக்கிராசனத்தில் இருந்து நாட்டு மக்களுக்கு உரையாற்றிகொண்டிருக்கும் ஜனாதிபதி அனுரகுமார திசாநாயக்க, சட்டத்துக்கு மேல் யாரும் இல்லை, நான், உட்பட அனைவரும் சட்டத்துக்கு ​கீழ்படிந்தவர்கள். அத்துடன், கடந்தகாலங்களில் இடம்பெற்ற  மிகவும் கொடூரமான சம்பவங்கள் தொடர்பில், விசாரணைகள் முன்னெடுக்கப்பட்டு, சட்டத்தின் முன், நிறுத்தப்படுவார்கள்.
+N
 
-பத்தாவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடரை (2024-11-21) ஆரம்பித்து வைத்து ஜனாதிபதி அநுரகுமார திசாநாயக்க ஆற்றிய உரை.
+🟩
 
-இன்று எமது பாராளுமன்றத்தில் சிறப்புக்குரிய நாள். அதிகாரம் இரு குழுக்களுக்கு கைமாறிய வண்ணம் இருந்தது. கடந்த ஜனாதிபதி தேர்தலில் எமது தரப்புக்கு அதிகாரம் கிடைத்துள்ளது. இலங்கை வரலாற்றில் அது முக்கியமானது.  எமது நாட்டின் தேர்தல் முறையில் அதிகளவான எம்.பிக்கள் தெரிவு செய்யப்பட்டுள்ளனர். வடக்கு கிழக்கு மலையகம் தெற்கு என அனைத்து மாகாணங்களும் மக்களும் அதற்கு பங்களிப்பு செய்துள்ளன.
+அக்கிராசனத்தில் இருந்து நாட்டு மக்களுக்கு உரையாற்றிகொண்டிருக்கும் ஜனாதிபதி அனுரகுமார திசாநாயக்க, சட்டத்துக்கு மேல் யாரும் இல்லை, நான், உட்பட அனைவரும் சட்டத்துக்கு ​கீழ்படிந்தவர்கள். In addition, investigations will be carried out in the case of the most horrific incidents in the past and stopped before the law.
+
+President Anura Kumara Dissanayake delivered the first session of the Tenth Parliament (2024-11-21).
+
+Today is a special day in our Parliament. The authority was handed over to both groups. Our side has empowered the last presidential election. இலங்கை வரலாற்றில் அது முக்கியமானது.  எமது நாட்டின் தேர்தல் முறையில் அதிகளவான எம்.பிக்கள் தெரிவு செய்யப்பட்டுள்ளனர். All the provinces and people have contributed to it as the North and East.
 
 ...
 
 [Data](articles/10aef9e9.json)
+
+[Extended Data](ext_articles/10aef9e9.ext.json)
 
 ---
 
@@ -2479,45 +2543,5 @@ Subsequently, both Dr. Harin Amarasuriya Minister Vijitha Herath took the new Sp
 [Data](articles/ebc2e181.json)
 
 [Extended Data](ext_articles/ebc2e181.ext.json)
-
----
-
-### Asoka Ranwala appointed new Speaker of Parliament
-
-*2024-11-21 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103655/asoka-ranwala-appointed-new-speaker-of-parliament) · `en`
-
-National People’s Power (NPP) Gampaha District Member of Parliament Asoka Sapumal Ranwala has been unanimously appointed as the new Speaker of Parliament.
-
-He was nominated by Prime Minister Harini Amarasuriya at the commencement of the inaugural session of the tenth Parliament.
-
-The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
-
-Welcoming the new Speaker, representatives of political parties including PM Harini Amarasuriya, Samagi Jaba Balawegaya (SJB) leader Sajith Premadasa, Sri Lanka Muslim Congress (SLMC) leader Rauf hakeem extended their best wishes to him.
-
-◼️
-
-[Data](articles/92ea157a.json)
-
-[Extended Data](ext_articles/92ea157a.ext.json)
-
----
-
-### Asoka Ranwala speaker of Sri Lanka’s tenth parliament, Rizvie Salih deputy
-
-*2024-11-21 10:08:00* · [`economynextcom`](https://economynext.com/asoka-ranwala-speaker-of-sri-lankas-tenth-parliament-rizvie-salih-deputy-189087/) · `en`
-
-ECONOMYNEXT – Asoka Sapumal Ranwala was appointed as Speaker of Sri Lanka’s tenth parliament, when it convened for the first time on Thursday. Dr Mohamed Rizvie Salih was appointed as Deputy Speaker.
-
-Ranwala’s name was proposed by Prime Minister Harini Amarasuriya. It was seconded by Foreign Minister Vijitha Herath.
-
-Salih’s name was proposed by Health and Media Minister Nalinda Jayatissa, and seconded by Women and Children’s Affairs Minister Savithri Paulraj.
-
-Ranwala was elected from the Gampaha District, while Salih was elected from the Colombo District, for the National People’s Power party.
-
-◼️
-
-[Data](articles/ff1bf32c.json)
-
-[Extended Data](ext_articles/ff1bf32c.ext.json)
 
 ---

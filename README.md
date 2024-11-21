@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 17:25:23**
+As of **2024-11-21 16:41:13**
 
 ## Newspaper Stats
 
-*Scraped **56,172** Articles*
+*Scraped **56,169** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 574
-bbccomsinhala | 583
+bbccomsinhala | 582
 islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,290
 adaderanalk | 6,790
-tamilmirrorlk | 7,979
+tamilmirrorlk | 7,977
 virakesarilk | 9,122
 adaderanasinhalalk | 9,697
 
@@ -26,187 +26,83 @@ adaderanasinhalalk | 9,697
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,164 (100.0%) of 56,172 articles have been extended.
+56,155 (100.0%) of 56,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
 
-### Appointment of 29 Deputy Ministers
-
-*2024-11-21 16:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-பிரதியமைச்சர்கள்-நியமனம்/175-347577) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Kumara Dissanayake appoints 29 Deputy Ministers. Key roles: Rural Development, Commerce, Religious Affairs, Fishing Resources, Ports, Women & Child Affairs, Transport, Public Security."
-
-🟩
-
-At the Presidential Secretariat, 29 Deputy Ministers were appointed by President Anura Kumara Dissanayake on Thursday evening.
-
-3 Vasantha Piyadissa Rural Development, Social Security and Social Empowerment Deputy Minister
-
-௫. Rm. Deputy Minister of Commerce, Business and Food Safety
-
-௬. Deputy Minister of Religious and Cultural Affairs
-
-௮. Ratna Kamage Deputy Minister of fishing, hydraulic and ocean resources
-
-17 Engineer. Deputy Minister of Ports and Civil Airlines
-
-18 Dr.. Deputy Minister of Women and Child Affairs
-
-௨௦ Dur. Prasanna Kumara Gunasena Deputy Minister of Transport and Highways
-
-26 Attorney Sunil Vadakala Deputy Minister of Public Security and Parliamentary Affairs
-
-◼️
-
-[Data](articles/9829e076.json)
-
-[Extended Data](ext_articles/9829e076.ext.json)
-
----
-
-### Touglas
-
-*2024-11-21 16:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸூக்கு-பிடியாணை/175-347576) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Minister Douglas Devananda failed to appear in court due to illness. He faces fraud charges over alleged defraudation of 10 million rupees. A warrant was issued for his testimony, with the next hearing set for January 23.
-
-🟩
-
-Colombo Additional Magistrate Basan Amarasena on Thursday (21) ordered the former Minister Douglas Devananda, who was not present in court to testify in a case.
-
-According to Douglas Devananda's complaint, Subramanian Manoharan, a businessman from Wellawatte, has issued a complaint that he (Douglas Devananda) has not appeared in court.. The case has been filed by the undercover police.
-
-Douglas Devananda said he would not appear in court because he was sick.
-
-Douglas Devananda had lodged a complaint against him for allegedly defrauding ten million rupees each by learn that there was no money in the account on July 9, 2016 or that day.
-
-Attorney -at -law Sampath Hewapatrana, appearing on behalf of the accused, told the court that Devananda, the first witness of the case, was given the last date for testimony.
-
-The magistrate, considering the two sides, issued a warrant for the witness and adjourned the hearing to January 23.
-
-◼️
-
-[Data](articles/d8a66ad9.json)
-
-[Extended Data](ext_articles/d8a66ad9.ext.json)
-
----
-
-### 29 delegates sworn in
+### නියොජ්‍ය අමාත්‍යවරු 29ක් දිවුරුම් දෙති
 
 *2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
 
-29 officials sworn in as Deputy Ministers. Key appointments: Agriculture, Rural Development, Trade, Buddha Sasana, Foreign Affairs, Industry, Ports, Women & Child Affairs, Provincial Councils, Transport, Health, Plantations, Public Defense, Education, Lands & Irrigation. Presidential Secretary also sworn in.
+ජාතික ජන බලවේගය රජයේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) ජනාධිපති
 
-🟩
+01 මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා - ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය
 
-Deputy Ministers Deputy Ministers President Anura Kumara Dissanayake today (21)
+02 නාමල් කරුණාරත්න මහතා -  කෘෂිකර්ම සහ පශු සම්පත් නියෝජ්‍ය අමාත්‍ය
 
-Namal Karunaratne - Deputy Minister of Agriculture and Livestock
+03 වසන්ත පියතිස්ස මහතා - ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ නියෝජ්‍ය අමාත්‍ය
 
-Wasantha Piyatissa - Deputy Minister of Rural Development, Social Security and Community Improvement
+05 ආර්. එම්. ජයවර්ධන මහතා - වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන නියෝජ්‍ය අමාත්‍ය
 
-R. M. Deputy Minister of Trade, Commerce, Food Safety and Co-operative Development
+06 ගමගෙදර දිසානායක මහතා - බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය
 
-Dissanayake, Gamagedara Dissanayake Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
+08 රත්න ගමගේ මහතා - ධීවර ජලජ සහ සාගර සම්පත් නියෝජ්‍ය අමාත්‍ය
 
-Aravarandra - Deputy Minister of Foreign Affairs
+11 අරුන් හේමචන්ද්‍රා මහතා  - විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය
 
-Chaturanga Abeysinghe - Deputy Minister of Industry and Entrepreneurship Development
+16 චතුරංග අබේසිංහ මහතා - කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන නියෝජ්‍ය අමාත්‍ය
 
-Engineering Janith Kodituwakku - Deputy Minister of Ports and Civil Aviation
+17 ඉංජිනේරු ජනිත් රුවන් කොඩිතුවක්කු මහතා - වරාය සහ සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය
 
-Dr. Namal Sudarshana - Deputy Minister of Women and Child Affairs
+18 වෛද්‍ය නාමල් සුදර්ශන මහතා  - කාන්තා සහ ළමා කටයුතු නියෝජ්‍ය අමාත්‍ය
 
-Ruwan Senarath - Deputy Minister of Provincial Councils and Local Government
-
-Dr. Prasanna Kumara Gunasena - Deputy Minister of Transport and Highways
-
-Dr. Hanshana Wijemun - Deputy Minister of Health and Mass Media
-
-Sandaaringam Pradeep - Deputy Minister of Plantation and Community Infrastructure
+19 රුවන් සෙනරත් මහතා - පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය
 
 ...
 
 [Data](articles/073ff21c.json)
 
-[Extended Data](ext_articles/073ff21c.ext.json)
-
 ---
 
-### The person who ate the dawn to death
+### வடை சாப்பிட்ட நபர் மரணம்
 
 *2024-11-21 16:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடை-சாப்பிட்ட-நபர்-மரணம்/175-347575) · `ta`
 
-A man in Athurugiriya died after eating something harmful. He had a severe cough and was hospitalized. The cause of death is under investigation.
+வடை சாப்பிட்டுக் கொண்டிருக்கும் போது, ஏற்பட்ட இருமல்  காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் ஒருவர் உயிரிழந்த சம்பவம்  அத்துருகிரிய பிரதேசத்தில் இடம்பெற்றுள்ளது.
 
-🟩
+தனது குடும்பத்தினருடன் உணவு உட்கொண்டிருந்த நிலையில் குறித்த நபர் வடை சாப்பிட்டுள்ளதுடன், இதன்போது திடீரென  இருமலுடன் ஒவ்வாமை ஏற்பட்டுள்ளது.
 
-The incident took place in the Athurugiriya area where a person who was admitted to the hospital due to coughing caused by a dummy was eaten.
+பின்னர்  சிகிச்சைக்காக  வைத்தியசாலைக்கு  கொண்டு செல்லப்பட்ட நிலையில் அவர் உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
 
-The person who had been eating with his family had eaten a vandalist and had a sudden coughing allergy.
-
-Doctors said he died after being taken to the hospital for treatment.
-
-The body of the deceased has been kept at the Homagama Hospital for autopsy and further investigations are underway, police said.
+உயிரிழந்த நபரின் சடலம் பிரேதப் பரிசோதனைக்காக ஹோமாகம வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாகவும், இது தொடர்பான மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும்  பொலிஸார் குறிப்பிட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/646a0f76.json)
 
-[Extended Data](ext_articles/646a0f76.ext.json)
-
 ---
 
-### Russia's continental missile attack on Ukraine
+### உக்ரைன் மீது ரஸ்யா கண்டங்களிற்கிடையிலான ஏவுகணை தாக்குதல்
 
 *2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199338) · `ta`
-
-Here's a summary of Russia's continental missile attack on Ukraine in approximately 200 characters:
-
-
-
-"Russia launched a wave of ballistic missiles from its mainland into Ukraine, targeting military facilities and civilian areas. The attack caused widespread destruction and casualties. Ukraine's air defense systems intercepted some missiles, but many reached their targets. The strike marked a significant escalation in Russia's ongoing conflict with Ukraine."
-
-🟩
 
 ◼️
 
 [Data](articles/2d2d1f2c.json)
 
-[Extended Data](ext_articles/2d2d1f2c.ext.json)
-
 ---
 
-### First Parliamentary Committee Meeting of Tamil State Party
+### தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம்..!
 
 *2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199328) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-First TNA parliamentary committee meeting held at Parliament Library on Thursday. All TNA MPs attended.
-
-🟩
-
-The first parliamentary committee meeting of the Sri Lankan Tamil state party was held at the Parliament Library on Thursday (21). All the MPs of the TNA were present.
+இன்று வியாழக்கிழமை (21) இலங்கைத் தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம் நாடாளுமன்ற நூலகத்தில் நடைபெற்றது. இதன் போது தமிழரசுக் கட்சியின் அனைத்து நாடாளுமன்ற உறுப்பினர்களும் கலந்து கொண்டார்கள்.
 
 ◼️
 
 [Data](articles/cda39b1d.json)
-
-[Extended Data](ext_articles/cda39b1d.ext.json)
 
 ---
 
@@ -214,81 +110,43 @@ The first parliamentary committee meeting of the Sri Lankan Tamil state party wa
 
 *2024-11-21 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103673/29-deputy-ministers-sworn-in) · `en`
 
-The Deputy Ministers of the new National People’s Power (NPP) government have been sworn in this evening (21) at the Presidential Secretariat in Colombo.
+The Deputy Ministers of the new government have been sworn in this evening (21) at the Presidential Secretariat in Colombo.
 
 Accordingly, a total of 29 Deputy Ministers were sworn in before President Anura Kumara Dissanayake today.
 
-The Secretary to the President Dr. Nandika Sanath Kumanayake was also present at the event.
-
-1. Prof. Anil Jayantha Fernando - Deputy Minister of Economic Development
-
-2. Mr. Namal Karunarathne - Deputy Minister of Agriculture and Livestock
-
-3. Mr. Wasantha Piyathissa - Deputy Minister of Rural Development, Social Security and Community Empowerment
-
-4. Mr. Nalin Hewage - Deputy Minister of Vocational Education
-
-5. Mr. R.M. Jayawardena - Deputy Minister of Trade, Commerce and Food Security
-
-6. Mr. Gamagedara Dissanayake - Deputy Minister of Buddhasasana, Religious and Cultural Affairs
-
-8. Mr. Rathna Gamage - Deputy Minister of Deputy Minister of Fisheries, Aquatic and Ocean Resources
-
-...
+◼️
 
 [Data](articles/cf51f1e7.json)
 
-[Extended Data](ext_articles/cf51f1e7.ext.json)
-
 ---
 
-### Erection
+### கருப்பையில் இருந்து பாரிய கட்டி நீக்கம்
 
 *2024-11-21 16:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருப்பையில்-இருந்து-பாரிய-கட்டி-நீக்கம்/175-347574) · `ta`
 
-Here's a summary in 200 characters:
+பெண்ணொருவரின் கருப்பையில் இருந்து 10 கிலோ எடையுள்ள கட்டியை அகற்றும் சத்திரசிகிச்சை ஒன்று கதிர்காமம் பிரதேசத்தில் இருந்து பதிவாகியுள்ளது.
 
+கதிர்காமத்தில் வசிக்கும் 40 வயதுடைய பெண் ஒருவர் உணவு மற்றும் சுவாசிப்பதில் சிரமம் காரணமாக மருத்துவ ஆலோசனையை நாடியதையடுத்து சத்திர சிகிச்சைக்கு முடிவு எடுக்கப்பட்டது.
 
+சத்திரசிகிச்சையை தொடர்ந்து குறித்த பெண்  நலமுடன் இருப்பதாக மகப்பேறு வைத்திய நிபுணர் டாக்டர் சமந்தா சமரவிக்ரம தெரிவித்துள்ளார்.
 
-Massive 10kg womb removal surgery performed on 40-year-old woman in Kadirgama. Gynecologist reports patient healthy post-op. Uterine cysts dangerous if ignored.
-
-🟩
-
-A surgery that weighs 10 kg from a woman's womb has been reported from Kadirgamam area.
-
-A 40 -year -old woman living in Kadirgama has decided to seek medical advice due to difficulty in breathing and breathing.
-
-Dr. Samantha Samarawickrama, a gynecologist, said that the woman is in good health following the surgery.
-
-The abnormal growth of cells in the uterus leads to the formation of cysts, and ignoring symptoms such as abdominal discomfort is dangerous to the patient's life.
+கருப்பையில் உள்ள உயிரணுக்களின் அசாதாரண வளர்ச்சி நீர்க்கட்டிகளை உருவாக்குவதற்கு வழிவகுக்கிறது, மேலும் வயிற்று அசௌகரியம் போன்ற அறிகுறிகளை புறக்கணிப்பது நோயாளியின் உயிருக்கு ஆபத்தானது என்று அவர் கூறினார்.
 
 ◼️
 
 [Data](articles/76218f62.json)
 
-[Extended Data](ext_articles/76218f62.ext.json)
-
 ---
 
-### 29 Deputy Ministers sworn in
+### නියෝජ්‍ය අමාත්‍යවරු 29ක් දිවුරුම් දෙති
 
 *2024-11-21 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203601) · `si`
 
-Here's a summary of 200 characters:
-
-
-
-29 Deputy Ministers took oath under President Anura Kumara Dissanayake on 21st day.
-
-🟩
-
-29 Deputy Ministers of the New Government sworn in as President Anura Kumara Dissanayake today (21).
+නව ආණ්ඩුවේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) දිවුරුම් දෙනු ලැබීය.
 
 ◼️
 
 [Data](articles/6f0c1e1d.json)
-
-[Extended Data](ext_articles/6f0c1e1d.ext.json)
 
 ---
 
@@ -1626,26 +1484,6 @@ He also emphasized that there is no room for any religious extremism.
 
 ---
 
-### නව රජයේ පළමු කැබිනට් හමුවේදී ම සහල් ආනයනයට තීරණය කළේ ඇයි?
-
-*2024-11-21 11:32:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyrx80l83go) · `si`
-
-නව රජයේ පළමු කැබිනට් හමුවේදී ඉන්දියාවෙන් සහල් තොගයක් ආනයනය කීරිමට තීරණය කෙරිණි.
-
-රට තුළ ඇති විය හැකි සහල් හිඟයට විසඳුමක් ලෙස නාඩු සහල් මෙට්‍රික්ටොන් 70,000ක් ආනයනය කිරීමට තීරණය කළ බව වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ පැවසීය.
-
-සහල් පාලන මිල : 'සිල්ලර මුදලාලිලාට දඩ ගැහුවට ලොකු මෝල් හිමියන්ට දඩ ගහන්න නීතියක් නෑ'
-
-“මේ සහල් හිඟය ඇති කිරිම පිටුපස තියෙන්නේ මිල ඉහළ යැවීම හරහා අමතර ලාභ ඉපයීමේ උපාය සහ උපක්‍රම නම්, තවදුරටත් පාරිභෝගිකයා පීඩාවට පත් කිරීම සඳහා එවැනි උපක්‍රම යෙදවීමට ඉඩ දීලා රජයට බලාගෙන ඉන්න බැහැ,” යනුවෙන් සහල් ආනයනය කිරීමට ගත් තීරණය සම්බන්ධයෙන් අමාත්‍ය වසන්ත සමරසිංහ රජයේ ප්‍රවෘත්ති දෙපාර්තුමේන්තුවේ නොවැම්බර් 20 වන දා පැවැත්වූ මාධ්‍ය හමුවේදී පැවසීය.
-
-සතොස සහ රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව හරහා මෙරටට ගෙන්වනු ලබන ස්වර්ණ නාඩු සහල් දෙසැම්බර් 15 වන දා සිට රුපියල් 220ක මිලකට සතොස, සමූපකාර සහ සුපිරි වෙළෙඳසල් වැනි අලෙවි සල් හරහා මහ ජනතාව වෙත නිකුත් කරන බව අමාත්‍යවරයා පැවසීය.
-
-...
-
-[Data](articles/38b30ca0.json)
-
----
-
 ### President Dissanayake delivers govt’s policy statement
 
 *2024-11-21 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103660/president-dissanayake-delivers-govts-policy-statement) · `en`
@@ -2453,5 +2291,75 @@ It is noteworthy that after the end of parliamentary proceedings, the swearing -
 [Data](articles/5e2e3aa4.json)
 
 [Extended Data](ext_articles/5e2e3aa4.ext.json)
+
+---
+
+### Ranwala as the new Speaker?
+
+*2024-11-21 09:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சபாநாயகராக-ரன்வல/175-347533) · `ta`
+
+Asoka Ranwala likely to become new Speaker. First session of 10th Parliament starts today at 10 AM. Swearing-in ceremony for deputy ministers to follow after parliamentary proceedings.
+
+🟩
+
+It is reported that the National People's Power has decided to appoint Parliamentarian Asoka Ranwala as Speaker of the new Parliament.
+
+The first session of the Tenth Parliament is scheduled to begin today (21st) at 10 am.
+
+It is noteworthy that after the end of parliamentary proceedings, the swearing -in ceremony for the deputy ministers of the new government will be held this afternoon.R
+
+◼️
+
+[Data](articles/9d5c8997.json)
+
+[Extended Data](ext_articles/9d5c8997.ext.json)
+
+---
+
+### Death in one of the shootings
+
+*2024-11-21 09:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-347532) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Shooting in Dickwella: 48-year-old motorcyclist killed near Veterinary Doctors Office. Incident occurred on 21st. Victim died instantly.
+
+🟩
+
+One person was killed in a shooting incident this morning (21) near the Veterinary Doctors Office in Dickwella - Valaskala.
+
+A 48 -year -old man from Valaskala, who was traveling on a motorcycle, was shot dead and died on the spot.
+
+◼️
+
+[Data](articles/4ec2dd71.json)
+
+[Extended Data](ext_articles/4ec2dd71.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 291.05/15 to dollar, bonds stable
+
+*2024-11-21 09:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-291-05-15-to-dollar-bonds-stable-189066/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 291.05/15 to the US dollar on Thursday from 290.95/291.10 to the US dollar on Wednesday dealers said, while bond yields were stable.
+
+A bond maturing on 15.12.2026 was quoted at 10.20/25 percent, down from 10.10/20 percent.
+
+A bond maturing on 15.12.2027 was quoted at 10.80/90 percent, down from 10.75/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.05/10 percent, down from 11.00/10 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.35/45 percent, down from 11.25/40 percent.
+
+In equities, the All Share Price Index opened up 0.04 points, at 13,113. The more liquid S&P SL20 opened 0.09 points, at 3,919.
+
+◼️
+
+[Data](articles/3d9a499f.json)
+
+[Extended Data](ext_articles/3d9a499f.ext.json)
 
 ---

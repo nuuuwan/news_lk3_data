@@ -1,42 +1,290 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 13:42:39**
+As of **2024-11-21 15:25:43**
 
 ## Newspaper Stats
 
-*Scraped **56,130** Articles*
+*Scraped **56,146** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 574
-bbccomsinhala | 581
+bbccomsinhala | 582
 islandlk | 3,357
-economynextcom | 3,401
+economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,284
-adaderanalk | 6,783
-tamilmirrorlk | 7,969
-virakesarilk | 9,114
-adaderanasinhalalk | 9,694
+adalk | 5,286
+adaderanalk | 6,785
+tamilmirrorlk | 7,970
+virakesarilk | 9,117
+adaderanasinhalalk | 9,695
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,120 (100.0%) of 56,130 articles have been extended.
+56,145 (100.0%) of 56,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
 
-### Sri Lanka likely to sign IMF staff-level agreement on Dec. 23
+### The victory of the national people's power is an earthquake in Sri Lankan politics - Erichcolheim
+
+*2024-11-21 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199326) · `ta`
+
+Sri Lanka's National People's Power victory described as "earthquake" in politics by former Norwegian diplomat Erichcolheim. The election marks a significant shift, with voters rejecting corruption and traditional elites. Tamil support for the party signals potential for improved ethnic relations.
+
+🟩
+
+Former Norwegian Peace Ambassador to Sri Lanka, Erichcolheim, has described the shocking electoral success of the National People's Power led by Anuragumaratisanayake as an earthquake in Sri Lanka's politics.
+
+The former diplomat said that the national people's power in the areas where Tamils ​​live in the country- (especially in the North), Sri Lanka is a strong call for a new beginning of ethnic relations in Sri Lanka.
+
+Erichcolheim, who has worked closely with Sri Lankan political leaders, said that the inner self of the nationality power is certainly corrupt and that the eradication of corruption is the biggest task.
+
+Ericksolheim, who is currently working as a green activist, has made a peaceful effort in support of the West, which is due to a historic agreement between the Sri Lankan government and the Liberation Tigers of Tamil Eelam (LTTE) in early 2002.
+
+...
+
+[Data](articles/30738d31.json)
+
+[Extended Data](ext_articles/30738d31.ext.json)
+
+---
+
+### Rahman - Saira Division and Mohini Dev are not involved
+
+*2024-11-21 14:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ரஹ்மான்-சாய்ரா-பிரிவுக்கும்-மோஹினி-தேவுக்கும்-தொடர்பு-இல்லை/54-347563) · `ta`
+
+AR Rahman divorces Saira Banu after 29 years; Mohini De separates from husband
+
+🟩
+
+Composer AR Rahman - Saira Banu has answered their 29 -year wedding life by divorce. The announcement was made last Tuesday.
+
+In the meantime, AR Rahman's band of the famous Base Guitarist Mohini De December her husband Mark Hartsuch. This was published on the social network by contacting AR Rahman's divorce. In this context, Saira lawyer Vandana Shah has explained this to the private media company.
+
+“There is no connection to this and it. Rahman and Saira, who took their divorce decision self. The decision taken by the thought of deeply. It is not mild. This is a mutual divorce. So no decision on financial sharing has yet been reached, ”said lawyer Vandana.
+
+Music composer AR Rahman made his debut as composer by Mani Ratnam's 1992 film 'Roja'. He is celebrated as Oscar Man and composes music in various languages ​​such as Tamil, Telugu, Hindi and English.
+
+...
+
+[Data](articles/bd17f496.json)
+
+[Extended Data](ext_articles/bd17f496.ext.json)
+
+---
+
+### Ashoka Rangwella selected as the new Speaker
+
+*2024-11-21 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199292) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+National People's Power MP Asoka Rangwella unanimously chosen as new Speaker. Congratulated by Sajith Premadasa & Rauf Hakeem. Promises to defend Parliament's honor, unity beyond politics.
+
+🟩
+
+The National People's Power Member Asoka Rangwella has been unanimously appointed as the new Speaker.
+
+As the virgin session of the first session of the tenth parliament commenced, the Secretary General of Parliament announced the gazette notification made by the President in the Tenth Parliament session.
+
+In this case, the National People's Power Member Asoka Rangwala was appointed as the Speaker of the House.
+
+Following this, United People's Power President Sajith Premadasa congratulated the new Speaker.
+
+Later, Sri Lanka Muslim Congress President Rauf Hakeem congratulated the new Speaker.
+
+Welcome to a newly elected member of Parliament as Speaker. He said, "I bow down to the people."
+
+Speaker Ashoka Rangwella, the honor of the Parliament, will defend the honor and independence of Parliament. I will protect the rights of all members. He said that all beyond politics should unite and fulfill the aspirations of the people.
+
+◼️
+
+[Data](articles/b8abcefa.json)
+
+[Extended Data](ext_articles/b8abcefa.ext.json)
+
+---
+
+### Two arrested with over 3.5 kg of ‘Ice’ and Rs. 11M in cash
+
+*2024-11-21 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103667/two-arrested-with-over-35-kg-of-ice-and-rs-11m-in-cash-) · `en`
+
+The Police Special Task Force (STF) has arrested two suspects along with over 3.5 kg of ‘ICE’ drugs (crystal methamphetamine) and Rs. 11 million in cash during two separate raids conducted at Gonahena in Kadawatha and Dekatana in Dodampe.
+
+The arrests have been made during operations carried out last night (20) by officers of the Special Operations Command of the Police Special Task Force (STF).
+
+During the time of the arrest, suspects were in possession of approximately 3 kg and 536 g of ‘ICE’ (crystal methamphetamine), Rs. 11 million in cash suspected to have been earned from drug trafficking, three mobile phones and a car.
+
+The arrested suspects, aged 29 and 39, who are residents of Maligawatte and Kadawatha areas, have been handed over to the Police Narcotics Bureau (PNB).
+
+Police investigations have uncovered that the arrested suspects are close associates of a major notorious underworld criminal figure and large-scale drug trafficker who is currently hiding in Dubai.
+
+...
+
+[Data](articles/afb3622a.json)
+
+[Extended Data](ext_articles/afb3622a.ext.json)
+
+---
+
+### Sri Lanka plans fast growth in tourism, IT, ocean, mineral sectors: President
+
+*2024-11-21 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-fast-growth-in-tourism-it-ocean-mineral-sectors-president-189185/) · `en`
+
+ECONOMYNEXT – Sri Lanka can achieve fast growth by boosting tourism, information technology, and making better use of its ocean and mineral resources, President Anura Dissanayake said.
+
+Sri Lanka will continue with an International Monetary Fund program to stabilize the financial sector but has strategies for the broader economy, he said making a policy statement in parliament.
+
+“The tourism sector is the quickest strategy to increase revenue of our goods and services. We have prepared a tourism industry policy to attract 4 billion tourists, and grow the industry to 8 billion dollars in 3-4 years.”
+
+He said globally the IT industry was one of the fastest developing markets.
+
+“We need experienced professionals high in IT literacy. There are around 85,000 now. We intend to grow this to 200,000.”
+
+Currently Sri Lanka earns around 1.2 billion dollars from the IT industry, Dissanayake said.
+
+...
+
+[Data](articles/d4380a6b.json)
+
+[Extended Data](ext_articles/d4380a6b.ext.json)
+
+---
+
+### Two suspects arrested with ice drugs
+
+*2024-11-21 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203598) · `si`
+
+Two suspects arrested with ice drugs in Kahanhena and Dompe areas. Police seized mobile phones, car, and Rs. 300k. Suspects linked to Dubai drug dealer. Handed over to Narcotics Bureau.
+
+🟩
+
+Two suspects have been arrested by the police with an ice drugs.
+
+The suspects were arrested by a team of Police Special Operations Unit yesterday (20) at the Gonahena area in Kahanhena and the two area in the Dompe Police Division.
+
+The suspects were taken into custody three hundred thousand mobile phones and a car in possession of the suspects and a sum of Rs.
+
+Investigations have revealed that the suspects have been close to a powerful drug dealer in Dubai.
+
+The suspects have been handed over to the Police Narcotics Bureau.
+
+◼️
+
+[Data](articles/80b9c555.json)
+
+[Extended Data](ext_articles/80b9c555.ext.json)
+
+---
+
+### Two persons arrested with ice drugs in two different areas!
+
+*2024-11-21 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199319) · `ta`
+
+Two arrests made in separate areas for ice drug trafficking. Suspects aged 29 and 39 from Kadawatha and Maligawatte. Police seized 33 kg 536 grams of ice and a car. Investigation ongoing, suspects linked to Dubai-based trafficker.
+
+🟩
+
+Two suspects have been arrested on Wednesday (20) with money, car and mobile phones earned by ice drugs and drug trafficking in the area under the Kadawatha and Dompe police division.
+
+The suspects have been arrested in connection with information received by the Special Task Force.
+
+The arrested suspects are 29 and 39 years old from Kadawatha and Maligawatte.
+
+The police have seized 33 kg 536 grams of Ice, drug trafficking from the suspects, and a car of Rs.
+
+Police investigations have revealed that the suspects were close relatives of a famous drug trafficker in Dubai.
+
+Further investigations are being carried out by the Police Drug Prevention Unit.
+
+◼️
+
+[Data](articles/fe8864d9.json)
+
+[Extended Data](ext_articles/fe8864d9.ext.json)
+
+---
+
+### The wade was killed
+
+*2024-11-21 13:37:58* · [`adalk`](https://www.ada.lk/breaking_news/වඩයෙන්-ආපු-මරුවා/11-413198) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Man dies after collapsing. Identified as Anura Sampath Amarasekera. Admitted to hospital for treatment. Cause unclear. Police investigate. Post-mortem ordered.
+
+🟩
+
+A man was identified as a person who was admitted to the Orumale District Hospital for treatment due to an eating of a collapse.
+
+The deceased has been identified as Amarasekera's Anura Sampath Amarasekera, a private company named Amarasekera's Anura Sampath Amarasekara, Amarasekera, Amarasekera.
+
+One of the times is a coughing coughing, one of the time is eating a light diet, which is a lecturer in the University of Kelaniya. Thereafter, the first aid was made to stop the corner.
+
+Later, the board was taken to the Dissan District Hospital for treatment, but the doctors had said that he died. Talangama Emergency Insurance Inspection Inspection Insurance Insurance Inspection Peace Prelatha Abeywardena ordered the police to take the site to the post mortem.
+
+◼️
+
+[Data](articles/854cd54f.json)
+
+[Extended Data](ext_articles/854cd54f.ext.json)
+
+---
+
+### Interim Vote on Account in December, 2025 Budget in February – President
+
+*2024-11-21 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103666/interim-vote-on-account-in-december-2025-budget-in-february-president-) · `en`
+
+Delivering the government’s policy statement in Parliament, President Anura Kumara Dissanayake today revealed key economic strategies aimed at driving development and fostering growth in Sri Lanka.
+
+He announced that the 2025 Budget will be presented to Parliament in February 2025, with an interim Vote on Account scheduled in the beginning of December 2024.
+
+A significant focus of the President’s address was on measures to expand the Information Technology (IT) sector, which he identified as a cornerstone of the country’s economic transformation.
+
+Highlighting the sector’s potential, he stated that the current IT workforce of 85,000 will be expanded to 200,000 within five years. This initiative, the President noted, is aimed at boosting IT-related export revenue from the current USD 1.5 billion to USD 5 billion annually.
+
+“We are prioritizing education and language development to achieve this target. This will be a significant leap for the country’s economy,” the President emphasized.
+
+...
+
+[Data](articles/81ae9232.json)
+
+[Extended Data](ext_articles/81ae9232.ext.json)
+
+---
+
+### இந்திய இழுவைப் படகுகளின் அத்துமீறல்கள் ; முல்லைத்தீவிலிருந்து ஜனாதிபதிக்கு அனுப்பப்பட்ட கையெழுத்து மடல்
+
+*2024-11-21 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199317) · `ta`
+
+இலங்கை கடல் எல்லைக்குள் இந்திய இழுவைப் படகுகளின் அத்துமீறல்களை உடனடியாக நிறுத்த கோரி கையெழுத்திடப்பட்ட தபாலட்டைகள் இன்று வியாழக்கிழமை (21) ஜனாதிபதிக்கு முல்லைத்தீவு மக்களால் அனுப்பி வைக்கப்பட்டுள்ளது.
+
+கார்த்திகை 21 சர்வதேச மீனவர் தினமாகிய இன்று சூழலியல் மற்றும் சமூக அபிவிருத்திக்கான நிறுவனத்தின் (ECDO) ஏற்பாட்டில் இந்திய இழுவைப் படகுகளை இலங்கை கடற்பரப்பிற்குள் வரவிடாது தடுப்பதற்குரிய நடவடிக்கைகளை உடனடியாக எடுக்குமாறு கோரிய தபாலட்டைகள் முல்லைத்தீவு மக்கள், முல்லைத்தீவு மீனவர்களினால் ஜனாதிபதிக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+இன்றைய மீனவர் தினத்தில் இலங்கை முழுவதுமாக விஷேடமாக முல்லைத்தீவு மாவட்டம் இந்திய மீனவர்களுடைய இழுவை படகுகளினுடைய அத்துமீறல்களும், முல்லைத்தீவு கடற்பரப்பில் காணப்படுகின்ற கடற் திரவியங்கள் அனைத்தும் இந்திய இழுவை படகுகள் மூலமாக அபகரித்து செல்லுகின்ற துர்ப்பாக்கிய நிலை இச்சூழலில் அதிகமாக காணப்படுகின்றது.
+
+...
+
+[Data](articles/4b50045d.json)
+
+---
+
+### Sri Lanka likely to sign IMF staff-level agreement on Nov. 23
 
 *2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-dec-23) · `en`
 
-President Anura Kumara Dissanayake has expressed confidence that the staff-level agreement on the third review of the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) arraignment for Sri Lanka could be finalized and signed by December 23.
+President Anura Kumara Dissanayake has expressed confidence that the staff-level agreement on the third review of the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) arrangement for Sri Lanka could be finalized and signed by November 23.
 
 Highlighting the critical role of economic stability, the President underscored the importance of adhering to existing agreements.
 
@@ -47,6 +295,30 @@ The President acknowledged the delay in the third review, initially scheduled fo
 ...
 
 [Data](articles/2fb436d1.json)
+
+[Extended Data](ext_articles/2fb436d1.ext.json)
+
+---
+
+### Sri Lanka will have state share in energy, banking: President
+
+*2024-11-21 13:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-have-state-share-in-energy-banking-president-189200/) · `en`
+
+ECONOMYNEXT- Sri Lanka will have a state share in energy, banking sector to direct the sectors and co-operatives will be developed to drive retail market, President Anura Dissanayake said.
+
+“We think the state should be represented especially in the energy sector, is a very sensitive area to the economy,” President Dissanayake said in his inaugural address to parliament Thursday.
+
+“Small changes in the energy sector gives deadly illnesses to the economy.”
+
+“But we also think the state sector should represent part of the financial sector,” he said. “Therefore we think some areas of the economy should be directed as an arm of the government.”
+
+“The co-operative sector will be re-developed as a strong contender in the market.” (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/4bf89585.json)
+
+[Extended Data](ext_articles/4bf89585.ext.json)
 
 ---
 
@@ -69,6 +341,32 @@ MPs can sit anywhere in the new session. However, Arjuna Ramanathan replied that
 [Data](articles/8f70c990.json)
 
 [Extended Data](ext_articles/8f70c990.ext.json)
+
+---
+
+### Israeli workers reduce air ticket fees
+
+*2024-11-21 13:09:23* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-යන-ශ්‍රමිකයින්ගෙන්-අයකල-ගුවන්-ටිකට්පත්-ගාස්තු-අඩුකරයි/11-413196) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Israeli workers see significant air ticket fee reductions due to new purchasing methods implemented by Sri Lanka's Foreign Employment Agency. Direct ticket purchases and e-tender system lead to lower fares, benefiting migrant workers.
+
+🟩
+
+Sri Lanka Foreign Employment Agency Chairman Ananda Lal Hettiarachchi, Chairman of Sri Lanka Foreign Employment Agency (SLBFE), Chairman of the Sri Lanka Bureau of Foreign Employment AgencyOn the steps taken, the price of the airline could be reduced in a large amount of air ticket.
+
+The Chairman of the Sri Lanka Bureau of Foreign Employment and Sri Lanka Foreign Employment Bureau, Kosala Wickremasinghe and Sri Lanka Foreign Employment Agency of Sri Lanka Ananda Lal Hettiarachchi said:
+
+"Air Ticketing of the Foreign Employment Agency has been priced through the Foreign Employment Agency through Foreign Employment Agency through the Foreign Employment Agency Institute through Foreign Employment Agency through Foreign Employment Agency.. Tell the Chairman to 'Tell the Chairman' program, I got many personal complaints. Purchasing of air tickets in the past period was carried out by the tender mechanism.
+
+...
+
+[Data](articles/7540b7a2.json)
+
+[Extended Data](ext_articles/7540b7a2.ext.json)
 
 ---
 
@@ -111,6 +409,8 @@ Addressing the public sector’s critical role, President Dissanayake underlined
 ...
 
 [Data](articles/1d5260b4.json)
+
+[Extended Data](ext_articles/1d5260b4.ext.json)
 
 ---
 
@@ -248,6 +548,8 @@ The Parliament was adjourned after the President concluded delivering the govern
 
 [Data](articles/8456f995.json)
 
+[Extended Data](ext_articles/8456f995.ext.json)
+
 ---
 
 ### President's Policy Declaration Speech at the Virgin session of the first session of the 10th Parliament
@@ -305,6 +607,8 @@ He stated that a major opportunity has now emerged to build national unity in th
 ...
 
 [Data](articles/001e41a6.json)
+
+[Extended Data](ext_articles/001e41a6.ext.json)
 
 ---
 
@@ -393,6 +697,34 @@ Following this, the Mannar Magistrate ordered the bodies of the two men to be se
 [Data](articles/27c10606.json)
 
 [Extended Data](ext_articles/27c10606.ext.json)
+
+---
+
+### Sri Lanka expects IMF staff level agreement by Nov 23: President
+
+*2024-11-21 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-imf-staff-level-agreement-by-nov-23-president-189143/) · `en`
+
+ECONOMYNEXT – Sri Lanka hopes to sign a staff level agreement with the International Monetary Fund by November 23, Sri Lanka’s President Anura Dissanayake said.
+
+“We hope to reach a staff level agreement with the IMF team in the island by November 23,” President Dissanayake said addressing the inaugural convening of Sri Lanka’s tenth parliament on Thursday.
+
+Sri Lanka will work within the parameters of the IMF plan, the president said. “The economy has to be managed with extreme care [siyumva].”
+
+A budget will be presented to parliament in February and passed by mid-March 2025, he said.
+
+An IMF program usually requires a budget in line with its parameters.
+
+The economy cannot bear many shocks and it has to be carefully handled, he said.
+
+Sri Lanka hoped to conclude sovereign bond restructuring by December.
+
+There no point in debating whether a better deal could be reached, and it would have taken more time, President Dissanayake said.
+
+...
+
+[Data](articles/4bf32d0a.json)
+
+[Extended Data](ext_articles/4bf32d0a.ext.json)
 
 ---
 
@@ -816,6 +1148,46 @@ On November 12, the Maligakanda Magistrate’s Court had ordered to record state
 
 ---
 
+### Arrested, assaulted in 2018; Sri Lanka Parliament Speaker six years later
+
+*2024-11-21 11:18:00* · [`economynextcom`](https://economynext.com/arrested-assaulted-in-2018-sri-lanka-parliament-speaker-six-years-later-189123/) · `en`
+
+ECONOMYNEXT – Ashoka Ranwala was unanimously elected as the Speaker of the 10th Sri Lanka Parliament after his party, the ruling National People’s Power (NPP) recorded a landslide victory in the parliamentary poll last week.
+
+A chemical engineer by profession with a PhD degree, Ranwala has been in the Marxist Janatha Vimukthi Peramuna (JVP), which is the key coalition partner of the NPP led by President Anura Dissanayake, since his youth.
+
+He has served as the convener of the Trade Union Collective for Conservation of Fuel Resources and led protests against the state-owned Ceylon Petroleum Corporation (CPC) losing its monopoly to state-owned Indian Oil Corporation (IOC) in the past.
+
+He graduated from the University of Moratuwa as a chemical engineer and was employed at the island nation’s only Iran-built CPC’s Sapugaskanda Refinery.
+
+He represented the JVP in the Biyagama local government body once and Western Provincial Council twice as an elected member.
+
+...
+
+[Data](articles/184926c1.json)
+
+[Extended Data](ext_articles/184926c1.ext.json)
+
+---
+
+### UAE’s Soho Hospitality to run Above Eleven restaurant at Sri Lanka’s Galadari Hotel
+
+*2024-11-21 11:15:00* · [`economynextcom`](https://economynext.com/uaes-soho-hospitality-to-run-above-eleven-restaurant-at-sri-lankas-galadari-hotel-189073/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Galadari Hotel has entered into an agreement with Dubai UAE restaurant operator Soho Hospitality Corporate Service Provider – FZCO to manage its Above Eleven restaurant, the company said.
+
+Soho Hospitality Corporate Service Provider – FZCO will develop, manage and operate the Above Eleven restaurant at Galadari Hotel, Colombo 1, Galadari said in a stock exchange filing.
+
+The restaurant is expected to open in the latter part of 2025. (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/1212b891.json)
+
+[Extended Data](ext_articles/1212b891.ext.json)
+
+---
+
 ### Special unit to damaged crop damage from Rile People and Animals
 
 *2024-11-21 11:11:38* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්-ඇතුළු-සතුන්ගෙන්-බෝග-වලට-සිදුවන-හානි-පාලයට-විශේෂ-ඒකකයක්/11-413190) · `si`
@@ -952,21 +1324,27 @@ He was procrastinated to procrastinate the Parliament to officially launch the P
 
 ---
 
-### மாத்தறையில் பெருந்தொகை போதைப்பொருட்களுடன் 10 பேர் கைது!
+### 10 people arrested with large numbers of drugs in Matara
 
 *2024-11-21 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199289) · `ta`
 
-மாத்தறை, கந்தர பிரதேசத்தில்  ஐஸ் போதைப்பொருள் மற்றும் ஹெரோயின் போதைப்பொருளுடன் 10 சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளரும் பிரதி பொலிஸ் மா அதிபருமான நிஹால் தல்துவ தெரிவித்தார்.
+10 arrests made in Matara drug bust: 160kg ice, 60kg heroin seized. Further investigation ongoing.
 
-மாத்தறை பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கையின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-சந்தேக நபர்களிடமிருந்து 160 கிலோ கிராம் ஐஸ் போதைப்பொருளும் 60 கிலோ கிராம் ஹெரோயின் போதைப்பொருளும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Dalduwa said that 10 suspects have been arrested with ice drugs and heroin in Matara, Matara.
 
-இது தொடர்பான மேலதிக விசாரணைகளை மாத்தறை பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்டு வருவதாக அவர் மேலும் தெரிவித்துள்ளார்.
+The suspects have been arrested during a raid carried out by the Matara Police Criminal Investigation Division.
+
+The police have seized 160 kg of ice and 60 kg of heroin from the suspects.
+
+He added that further investigations are being carried out by the Matara Police Criminal Investigation Division.
 
 ◼️
 
 [Data](articles/5632973f.json)
+
+[Extended Data](ext_articles/5632973f.ext.json)
 
 ---
 
@@ -1054,6 +1432,8 @@ Following this announcement, proceedings were adjourned until 11:30 a.m., when t
 
 [Data](articles/35898f13.json)
 
+[Extended Data](ext_articles/35898f13.ext.json)
+
 ---
 
 ### MP Rizvie Salih elected Deputy Speaker of Parliament
@@ -1076,15 +1456,27 @@ The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. th
 
 [Data](articles/53439f2b.json)
 
+[Extended Data](ext_articles/53439f2b.ext.json)
+
 ---
 
-### பாராளுமன்ற குழுக்களின் பிரதித் தலைவராக ஹேமாலி வீரசேகர நியமனம்
+### Hemali Weerasekera appointed Deputy Chairman of Parliamentary Committees
 
 *2024-11-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199295) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Hemali Weerasekera named Deputy Chairman of Parliamentary Committees. This appointment underscores her growing influence in Sri Lankan politics."
+
+🟩
 
 ◼️
 
 [Data](articles/b2510870.json)
+
+[Extended Data](ext_articles/b2510870.ext.json)
 
 ---
 
@@ -1130,43 +1522,35 @@ Speaker Dr. Asoka Ranwala announced in the House that Sajith Premadasa has been 
 
 ---
 
-### රමේෂ් - රොෂාන් - ප්‍රසන්න CIDයට එයි - හරීන් අද නොයයි
+### Ramesh - Roshan - Pleasant CID comes under this - Harin is not going today
 
 *2024-11-21 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203592) · `si`
 
-හිටපු අමාත්‍යවරුන් වන රමේෂ් පතිරණ, රොෂාන් රණසිංහ, ප්‍රසන්න රණතුංග අද (21) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ තිබේ.
+Here's a summary in 200 characters:
 
-ඒ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා යොමුකළ කැබිනට් පත්‍රිකාවට අනුමැතිය දීම සම්බන්ධයෙන් ප්‍රකාශ ලබාගැනීමට ය.
 
-හිටපු අමාත්‍ය හරීන් ප්‍රනාන්දු හෙට (22) දිනයේ CIDය හමුවේ පෙනී සිටින බවට දැනුම්දී ඇත.
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීම සඳහා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය දීම සම්බන්ධයනේ එවකට කැබිනට් මණ්ඩලය නියෝජනය කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍යවරුන් 18 දෙනෙකුගෙන් ප්‍රකාශ ලබාගන්නා බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉකුත් 11 වනදා මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+Former ministers visit CID; Harin summoned tomorrow; 18 ministers questioned about vaccine purchases; investigations ongoing regarding cabinet approvals and drug shortages.
+
+🟩
+
+Former ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga arrived at the CID this morning.
+
+Former Health Minister Keheliya Rambukwella has approved the cabinet paper, which has been approved by former Health Minister Keheliya Rambukwella.
+
+Former minister Harin Fernando has been told by the CID tomorrow (22).
+
+The Criminal Investigations Department (CID) was informed of 18 ministers who were speaking to the Cabinet of Minister Keheliya Rambukwella to purchase standard antibody injections.
+
+The Deputy Solicitor General Lakhahagama said that 182 other members of the Cabinet of Health Cabinet has been submitted to the Cabinet of Health on September 26, 202 to the Cabinet of Health Cabinet.
+
+The Deputy Solicitor General of the Government Solicitor General of the Government Solicitor General that the cabinet should not be actually any of the drug deficit, regardless of the drug shortages.
 
 ...
 
 [Data](articles/51f8e004.json)
 
----
-
-### புதிய சபாநாயகராக அசோக ரங்வெல தெரிவு
-
-*2024-11-21 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199292) · `ta`
-
-புதிய சபாநாயகராக தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அசோக ரங்வெல வாக்கெடுப்பின்றி ஏகமனதாக நியமிக்கப்பட்டுள்ளார்.
-
-பத்தாவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடரின்  கன்னி அமர்வு வைபவரீதியாக  ஆரம்பமான நிலையில்,  பத்தாவது பாராளுமன்ற கூட்டத்தொடர் தொடர்பில் ஜனாதிபதி பிரசுரித்த வர்த்தமானி அறிவித்தலை பாராளுமன்ற செயலாளர் நாயகம் சபைக்கு அறிவித்தார்.
-
-இந்நிலையில், தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அசோக ரங்வெல சபாநாயகராக  வாக்கெடுப்பின்றி நியமிக்கப்பட்டார்.
-
-இதையடுத்து, புதிய சபாநாயகருக்கு ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச வாழ்த்து தெரிவித்தார்.
-
-பின்னர், புதிய சபாநாயகருக்கு ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம் வாழ்த்து தெரிவித்தார்.
-
-புதிதாக  பாராளுமன்றத்துக்கு தெரிவு செய்யப்பட்ட உறுப்பினர் ஒருவரை சபாநாயகராக நியமித்துள்ளதை வரவேற்கிறேன். மக்களாணைக்கு தலை வணங்குகிறேன் என்றார்.
-
-...
-
-[Data](articles/b8abcefa.json)
+[Extended Data](ext_articles/51f8e004.ext.json)
 
 ---
 
@@ -1233,6 +1617,26 @@ Welcoming the new Speaker, representatives of political parties including PM Har
 [Data](articles/92ea157a.json)
 
 [Extended Data](ext_articles/92ea157a.ext.json)
+
+---
+
+### Asoka Ranwala speaker of Sri Lanka’s tenth parliament, Rizvie Salih deputy
+
+*2024-11-21 10:08:00* · [`economynextcom`](https://economynext.com/asoka-ranwala-speaker-of-sri-lankas-tenth-parliament-rizvie-salih-deputy-189087/) · `en`
+
+ECONOMYNEXT – Asoka Sapumal Ranwala was appointed as Speaker of Sri Lanka’s tenth parliament, when it convened for the first time on Thursday. Dr Mohamed Rizvie Salih was appointed as Deputy Speaker.
+
+Ranwala’s name was proposed by Prime Minister Harini Amarasuriya. It was seconded by Foreign Minister Vijitha Herath.
+
+Salih’s name was proposed by Health and Media Minister Nalinda Jayatissa, and seconded by Women and Children’s Affairs Minister Savithri Paulraj.
+
+Ranwala was elected from the Gampaha District, while Salih was elected from the Colombo District, for the National People’s Power party.
+
+◼️
+
+[Data](articles/ff1bf32c.json)
+
+[Extended Data](ext_articles/ff1bf32c.ext.json)
 
 ---
 
@@ -1589,6 +1993,44 @@ Police suspect the T-56 rifle may have been used to shoot.
 [Data](articles/c751c5d9.json)
 
 [Extended Data](ext_articles/c751c5d9.ext.json)
+
+---
+
+### Dr. Asoka Ranwala: Trade union leader arrived in the Speaker's chair
+
+*2024-11-21 08:46:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2n3kp92p7o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dr. Asoka Ranwala, a trade union leader, became Speaker of Sri Lanka's 10th Parliament. He's a JVP executive known for his political activism, particularly in petroleum trade unions. His career includes stints in local governance and academia.
+
+🟩
+
+Dr. Asoka Sapumal Ranwala, as the Speaker of Tenth Parliament, was elected today (November 21).
+
+The first congregation of the new Parliament was ceremonially commenced and the Speaker was first elected after the meeting.
+
+Prime Minister Dr. Haraini Amarasuriya was proposed for the post of Speaker, Minister Vijitha Herath firm.
+
+Accordingly, the unanimous proposals were elected as the 22nd of the Parliament of the Parliament of Sri Lanka.
+
+Ranwala, an executive of the National JVP and JVP, has been contested in the Gampaha District with 109,332 preferential votes in the Gampaha district.
+
+As a youth, he started his political journey, as a member of the JVP.
+
+Dr. Ranwala was led by his political affairs while the Biyagama seat.
+
+He once represented the Biyagama Pradeshiya Sabha while the JVP was a Member of the Western Provincial Council twice.
+
+He has served in the Sapugaskanda crude oil in the Ceylon Petroleum Corporation.
+
+...
+
+[Data](articles/0336df50.json)
+
+[Extended Data](ext_articles/0336df50.ext.json)
 
 ---
 
@@ -2043,351 +2485,5 @@ Deshabandu Tennakoon: 'New IGP is not a suitable or constitutional decision'
 [Data](articles/585bb286.json)
 
 [Extended Data](ext_articles/585bb286.ext.json)
-
----
-
-### AKD and JVP-NPP’s mega-mandate: Re-founding the nation
-
-*2024-11-21 02:48:11* · [`dailyftlk`](https://www.ft.lk/columns/AKD-and-JVP-NPP-s-mega-mandate-Re-founding-the-nation/4-769507) · `en`
-
-There were two classic works on Sri Lanka after 1956. “Ceylon: Dilemmas of a New Nation” (Princeton 1960) by Howard Wriggins (he acknowledges with thanks the input of Mervyn de Silva--aged 30 at the time) and “The Emerging Elite: A Study of Political Leadership in Ceylon” by Marshall Singer (MIT, 1964).
-
-Political theory holds that the ‘circulation of elites’ is imperative for the health of the body politic and society. The composition of the President Anura Dissanayake’s new JVP-NPP Cabinet, as that of the new Parliament, signals that a new elite has emerged and acceded to power and rulership. It faces the old dilemmas.
-
-Over a decade, Sri Lanka’s politics has displayed extreme electoral volatility manifested in swings of increasing amplitude. These began with 2015 when the voters swung against the Rajapaksa regime and elected the liberal-reformist Yahapalanaya (‘Good Governance’) government of Maithripala Sirisena as President and Ranil Wickremesinghe as PM.
-
-...
-
-[Data](articles/54311e91.json)
-
-[Extended Data](ext_articles/54311e91.ext.json)
-
----
-
-### New chapter for Sri Lanka: Call for responsible governance
-
-*2024-11-21 02:41:36* · [`dailyftlk`](https://www.ft.lk/columns/New-chapter-for-Sri-Lanka-Call-for-responsible-governance/4-769506) · `en`
-
-With the recent General election victory of the National People’s Power (NPP), Sri Lanka has entered a new chapter in its history. This moment of transition offers a unique opportunity to address the deep-rooted issues that have plagued our governance, economy, and social fabric. The people of Sri Lanka have spoken decisively, expressing their desire for change, transparency, and a fresh approach to leadership.
-
-This article seeks to advise the new administration on critical priorities, highlighting the mistakes of the past and proposing pathways to ensure long-term prosperity, public satisfaction, and fiscal responsibility.
-
-Over the years, successive governments have been criticised for systemic corruption, policy inconsistency, and economic mismanagement. From large-scale scandals like the Central Bank Bond Scam and the Avant Garde Maritime Scandal to misjudged projects like the Mattala Rajapaksa International Airport and many more, public trust in leadership has eroded significantly.
-
-...
-
-[Data](articles/062ea10e.json)
-
-[Extended Data](ext_articles/062ea10e.ext.json)
-
----
-
-### UAE Ambassador and COYLE to strengthen bilateral opportunities in trade, technology, and tourism
-
-*2024-11-21 02:25:00* · [`dailyftlk`](https://www.ft.lk/business/UAE-Ambassador-and-COYLE-to-strengthen-bilateral-opportunities-in-trade-technology-and-tourism/34-769495) · `en`
-
-At a roundtable discussion organised by the Chamber of Young Lankan Entrepreneurs (COYLE) recently, Ambassador of the United Arab Emirates (UAE) to Sri Lanka Khaled Nasser Al Ameri highlighted the importance of deepening bilateral ties between UAE and Sri Lanka, as well as exploring new opportunities for Sri Lankan entrepreneurs in the UAE in driving technology, digitisation, trade and tourism.
-
-Delivering the keynote at the Cinnamon Lakeside Colombo on 12 November, Ambassador Al Ameri highlighted key opportunities for COYLE members to leverage the UAE’s competitive advantages. He cited Sri Lanka’s $ 110 million in 2022 tea shipments to the UAE, emphasising his country’s special status as a re-export hub that provides tax breaks and cutting-edge blending and packaging facilities.
-
-...
-
-[Data](articles/c40770f1.json)
-
-[Extended Data](ext_articles/c40770f1.ext.json)
-
----
-
-### CA Sri Lanka hosts SAFA Best Presented Annual Report Awards 2023
-
-*2024-11-21 02:19:48* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-hosts-SAFA-Best-Presented-Annual-Report-Awards-2023/34-769491) · `en`
-
-Chief Guest Central Bank of Sri Lanka Governor Dr. P. Nandalal Weerasinghe lighting the oil lamp in the presence of CA Sri Lanka SAFA President Heshana Kuruppu
-
-A Sri Lankan company being recognised for their exceptional annual reporting at the SAFA BPA Awards 2023
-
-The South Asian Federation of Accountants (SAFA) celebrated the region’s finest achievements in financial reporting at the 2023 Best Presented Annual Report Awards (BPA Awards) hosted by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) in Colombo on 11 November.
-
-This year’s theme, ‘Honouring Excellence,’ captured the essence of the awards, celebrating the highest standards in annual reporting across diverse industries and recognising achievements in integrated reporting and corporate governance in South Asia. It also reflected the core values championed by professional accountants — clarity, transparency, and integrity.
-
-...
-
-[Data](articles/780e623c.json)
-
-[Extended Data](ext_articles/780e623c.ext.json)
-
----
-
-### Rubber Traders’ congratulates NPP; new Plantation and Community Infrastructure Minister
-
-*2024-11-21 02:16:43* · [`dailyftlk`](https://www.ft.lk/business/Rubber-Traders-congratulates-NPP-new-Plantation-and-Community-Infrastructure-Minister/34-769490) · `en`
-
-The Colombo Rubber Traders’ Association (CRTA) this week extended its heartfelt congratulations to the National People’s Power (NPP) on their recent victory and welcomed Samantha Vidyarathna as the newly appointed Minister of Plantation and Community Infrastructure.
-
-CRTA Chairman Harin de Silva in a statement, expressed his confidence in the Minister’s ability to steer the plantation sector toward a prosperous future.
-
-“The CRTA is committed to supporting the Government’s initiatives under Minister Vidyarathna’s leadership to address the challenges faced by the natural rubber industry. Together, we aim to enhance sustainability, improve livelihoods, and strengthen Sri Lanka’s position in the global market,” de Silva said.
-
-...
-
-[Data](articles/62864d3f.json)
-
-[Extended Data](ext_articles/62864d3f.ext.json)
-
----
-
-### Dr. Chamara Bandara appointed to Nawaloka Hospitals Board
-
-*2024-11-21 02:16:27* · [`dailyftlk`](https://www.ft.lk/business/Dr-Chamara-Bandara-appointed-to-Nawaloka-Hospitals-Board/34-769489) · `en`
-
-Nawaloka Hospitals PLC has announced the appointment of Dr. Chamara Bandara as an Independent Non-Executive Director of its Board.
-
-Dr. Bandara is the holder of a PhD in Business Management from the Management and Science University, Malaysia and a Master of Business Administration from the University of Southern Queensland, Australia. He is the founder of SCB Corporate (Accounting Globally), Corporate Doctors Ltd., and Berry Technology Ltd. Before founding the above, he gained experience across various industries including building construction and engineering, hospitality, and garments.
-
-Dr. Bandara is the current Vice President of AAT Sri Lanka and serves as an independent director of Kapruka Holdings PLC. He was the former Country Representative of Faster Capital Global Incubator and a former Council Member of the Rajarata University of Sri Lanka.
-
-...
-
-[Data](articles/b4f5cd3d.json)
-
-[Extended Data](ext_articles/b4f5cd3d.ext.json)
-
----
-
-### Discussion on the renovation of the newly set up fishing air
-
-*2024-11-21 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199280) · `ta`
-
-Renovation plans for fishing air facilities discussed. Government officials met to improve existing structures and newly established ones. Permits and fund allocation were addressed. Key stakeholders from various departments attended the meeting.
-
-🟩
-
-Discussion on the Reconstruction of Fisheries Air. District Government Agent and District Secretary Marudalingam Pradeepan held the office of the Government Agent of Government Agent on Wednesday (20).
-
-Discussions were also discussed on the improvements of the newly set up fishing air and the existing fishing air revision.
-
-The Government Agent also issued instructions on the availability of appropriate permits and the best use of funds.
-
-District Additional Government Agent (Land). Srimohanan, Tellippalai Divisional Secretary, Assistant Director of Fisheries Department, Coastal Protection Department Engineer, District Deputy Planning Director, Tellippalai and Changanai Deputy Planning Directors, UNDP Company Representatives and Department Officers were also present.
-
-◼️
-
-[Data](articles/fc26637e.json)
-
-[Extended Data](ext_articles/fc26637e.ext.json)
-
----
-
-### Sri Lankan winners shine at 14th Top50 Global Awards 2024
-
-*2024-11-21 02:08:16* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-winners-shine-at-14th-Top50-Global-Awards-2024/34-769483) · `en`
-
-The Top50 Professional and Career Women Global Awards 2024, organised by Women in Management (WIM), took centre stage in Kuala Lumpur, Malaysia, on 7 November, celebrating the extraordinary achievements of women leaders from 23 countries.
-
-This landmark event recognised the contributions of women across industries, showcasing the impact of their work on both society and the global economy.
-
-As a Sri Lankan-born initiative, the Top50 Awards has grown into a global brand over the past 14 years, with this year’s event marking the launch of its first global edition in Malaysia. The awards drew 298 nominations from 29 countries, highlighting the widespread trust and recognition the Top50 brand enjoys.
-
-...
-
-[Data](articles/f2dc20a7.json)
-
-[Extended Data](ext_articles/f2dc20a7.ext.json)
-
----
-
-### Women’s Chamber of Industry and Commerce congratulates NPP Govt.
-
-*2024-11-21 02:06:28* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-congratulates-NPP-Govt/34-769482) · `en`
-
-The Women’s Chamber of Industry and Commerce (WCIC) yesterday extended its heartfelt congratulations to the newly elected Government of Sri Lanka.
-
-“The success achieved in the 10th Parliament is a truly momentous milestone.
-
-We are particularly delighted to witness the largest representation of women in Parliament in Sri Lanka’s history. This achievement is not only a victory for women but also a testament to the progress of democracy and inclusivity in our nation,” WCIC said in a statement. “The unique perspectives and invaluable experiences women bring to governance will undoubtedly enrich policymaking and contribute to addressing the diverse needs and aspirations of our country,” it added.
-
-WCIC said as an organisation dedicated to empowering women in business, entrepreneurship, and leadership, it eagerly looks forward to collaborating with the Government to foster a more inclusive, equitable, and prosperous environment for women across all sectors.
-
-...
-
-[Data](articles/7a8696b8.json)
-
-[Extended Data](ext_articles/7a8696b8.ext.json)
-
----
-
-### Ranil appoints committee  to probe Ravi K.’s controversial National List appointment
-
-*2024-11-21 02:05:47* · [`dailyftlk`](https://www.ft.lk/news/Ranil-appoints-committee-to-probe-Ravi-K-s-controversial-National-List-appointment/56-769481) · `en`
-
-A four-member committee has been appointed to investigate the appointment of United National Party (UNP) Assistant Leader Ravi Karunanayake to one of the two National List slots allocated to the National Democratic Front (NDF).
-
-The committee, composed of Counsels Kumar Dunusinghe, Indika Weragoda, Yasas de Silva, and Prof. Vithanage, has been instructed to submit its findings within three weeks to NDF and UNP leader Ranil Wickremesinghe.
-
-The controversy arose after the NDF, which secured three Parliamentary seats and two National List slots following the 2024 Parliamentary Election, prematurely submitted Karunanayake’s name to the Election Commission of Sri Lanka to fill one of the National List seats. This move bypassed a collective decision-making process involving all alliance partners, sparking dissent.
-
-...
-
-[Data](articles/68e1892e.json)
-
-[Extended Data](ext_articles/68e1892e.ext.json)
-
----
-
-### Prof. Anil Jayantha Fernando assumes duties as Minister of Labour
-
-*2024-11-21 02:04:05* · [`dailyftlk`](https://www.ft.lk/news/Prof-Anil-Jayantha-Fernando-assumes-duties-as-Minister-of-Labour/56-769480) · `en`
-
-Prof. Anil Jayantha Fernando officially assumed his responsibilities as the new Minister of Labour yesterday at the Ministry premises.
-
-Addressing Ministry staff during an introductory meeting, he emphasised his commitment to align his work and decisions with the political vision and electoral manifesto of the Government led by the National People’s Power (NPP).
-
-Minister Prof. Fernando assured staff members that while the Ministry operates under the NPP’s mandate, they are free to hold their own political views and beliefs.
-
-“You are not required to agree with the ideology of the NPP,” he said, “but the focus must remain on working towards the goals outlined in the electoral mandate entrusted to us.”
-
-He highlighted the critical role of the Ministry in addressing labour-related matters and emphasised the interconnected nature of Ministry staff and workers. “Ministry staff and workers are fundamentally the same; both are integral parts of the labour force we serve and represent,” he said.
-
-...
-
-[Data](articles/8ce2e265.json)
-
-[Extended Data](ext_articles/8ce2e265.ext.json)
-
----
-
-### Orientation program for new MPs next week
-
-*2024-11-21 02:03:14* · [`dailyftlk`](https://www.ft.lk/news/Orientation-program-for-new-MPs-next-week/56-769479) · `en`
-
-An orientation program for newly elected Members of Parliament will be held in Committee Room No. 01 of Parliament on 25, 26, and 27 November from 9:30 a.m. to 4:30 p.m.
-
-This program has been organised this time as well, as it is traditionally done at the beginning of a new Parliament.
-
-The Prime Minister, the Speaker, the Deputy Speaker, the Deputy Chairperson of Committees, the Chief Government Whip, Members of Parliament, the Secretary General of Parliament, the Deputy Secretary General, the Assistant Secretary General, and officials are scheduled to participate in this event.
-
-During this three-day program, necessary arrangements have been made to educate Members of Parliament with regard to the role and responsibilities of a Member of Parliament, Parliamentary Privileges, Legislative Process in Parliament, Parliamentary Committee System, Standing Orders of Parliament, and the provisions of the Constitution.
-
-...
-
-[Data](articles/83e7ae2b.json)
-
-[Extended Data](ext_articles/83e7ae2b.ext.json)
-
----
-
-### Two Lankan companies at Paperworld and Gifts and Lifestyle Middle East 2024
-
-*2024-11-21 01:49:51* · [`dailyftlk`](https://www.ft.lk/business/Two-Lankan-companies-at-Paperworld-and-Gifts-and-Lifestyle-Middle-East-2024/34-769470) · `en`
-
-Two Sri Lankan companies participated at the Paperworld and Gifts and Lifestyle Middle East 2024 which concluded recently at the Dubai World Trade Centre.
-
-Among the diverse exhibitors, Atlas Axillia and Javana Graphics, a leading brand from Sri Lanka, made a notable presence at Paperworld Middle East, representing Sri Lanka’s growing strength in the international paper, stationery, and lifestyle markets. The company’s participation highlighted its commitment to expanding its international presence and fostering business partnerships in the region.
-
-The event marked another successful year for the co-located events.
-
-Attracting over 12,000 visitors from over 100 countries, this year’s edition showcased the global reach and importance of the region’s premier trade fair for paper, stationery, gifting, and lifestyle products.
-
-...
-
-[Data](articles/575b28a0.json)
-
-[Extended Data](ext_articles/575b28a0.ext.json)
-
----
-
-### The story of the land built, how to build Parliament, and its structure
-
-*2024-11-21 01:37:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7481wg0vjzo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's Parliament history & structure: From monarchy to colonial rule, legislative changes, new building in Sri Jayewardenepura Kotte, designed by Geoffrey Bawa, opened 1982. 225-member assembly, 232-seat chamber, Mace symbol of authority.
-
-🟩
-
-The story of the land built, how to build Parliament, and its structure
-
-The executive, legislature and the judiciary depends on the control of the Sri Lankan administration.
-
-The 10th General Election of the proportional voting system was held this year.
-
-The general election is done by selecting 225 members for Parliament.
-
-This is an explanation of the history and its structure of Sri Lanka.
-
-Prior to the arrival of the western colonialism, Sri Lanka was a monarchy.
-
-Later, the Portuguese introduced administrative changes under the Dutch and British colonies.
-
-In 1815, the Kandyan Kingdom surrendered to Britain and the Recommendation of the Camroran of Cameron Commission, in 1833 Sri Lanka's first two legislative council.
-
-මුලින් ම, විධායක සභාව සහ ව්‍යවස්ථාදායක සභාව රැස්වීම් පැවැත්වූ‌යේ දැනට වි‌දේශ කටයුතු අමාත්‍යාංශය පිහිටා ඇති දර්ශනීය ගෝර්ඩ්න් උද්‍යානය ඉදිරිපස පිහිටි ගොඩනැගිල්‌ලේ ය.
-
-On January 29, 1930, 1930, was opened by the Governor of Sir Herbert Stanley.
-
-...
-
-[Data](articles/1207fa10.json)
-
-[Extended Data](ext_articles/1207fa10.ext.json)
-
----
-
-### Governor of the Eastern Province Prof. Jayantha Lal Ratnasekara and Ambassador of the Chinese People's Republic Kei Senhong
-
-*2024-11-21 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199279) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Eastern Province Governor Jayantha Lal Ratnasekara met Chinese Ambassador Kei Senhong in Trincomalee. They discussed cooperation between Sri Lanka's Eastern Province and China's Yunnan Province. The Chinese government offered technical assistance and support. Both sides agreed to strengthen ties and share knowledge in various sectors.
-
-🟩
-
-The discussion between the Governor of the Eastern Province, Professor Jayantha Lal Ratnasekara and the Ambassador to the Republic of China, Ki Zhenhong, took place on Wednesday (20) at the Governor's Office in Trincomalee.
-
-On the 18th, Kei Jenhong visited the Eastern Province and accepted the invitation of the Governor at the Chinese embassy in Colombo.
-
-The Chinese Ambassador said that he was confident that the new government, including the Eastern Province, and the Governor of the Eastern Province, including Hon. President Anura Kumara Dissanayake, would work hard.
-
-He added that the Chinese government is ready to support it.
-
-The Ambassador noted that the Chinese government had already provided the technical assistance of the Chinese factory in the Ampara Hinger Factory in the Eastern Province.He also said that the Knowledge will be shared in various sectors between China's Yunnan Province and the Eastern Province of Sri Lanka.
-
-...
-
-[Data](articles/43395248.json)
-
-[Extended Data](ext_articles/43395248.ext.json)
-
----
-
-### Accident in Mullaitivu: 2 youths killed
-
-*2024-11-21 01:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவில்-கோர-விபத்து-2-இளைஞர்கள்-பலி/175-347529) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-"2 youths killed, 1 injured in motorcycle collision in Mullaitivu. Accident occurred on Wednesday evening near Mallavi-Vanniwilangulam area. Chandran Vidusan (20) and Vijayakumar Vidarshan (20) died."
-
-🟩
-
-Two youths were killed and another injured in an accident occurred on Wednesday evening in Mallavi - Vanniwilangulam area in Mullaitivu.
-
-The accident occurred as a motorcycle from Mankulam to Mallavi and a motorcycle traveling from Mallavi to Mangulam collided head -on.
-
-Chandran Vidusan (age 20) from Vannivilangulam area and Vijayakumar Vidarshan (20 years old) from Mankulam - New Colony area have died.. (A)
-
-◼️
-
-[Data](articles/3b547b6b.json)
-
-[Extended Data](ext_articles/3b547b6b.ext.json)
 
 ---

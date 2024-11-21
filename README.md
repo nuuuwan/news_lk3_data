@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 07:29:55**
+As of **2024-11-21 05:50:14**
 
 ## Newspaper Stats
 
-*Scraped **56,044** Articles*
+*Scraped **56,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,126 +17,20 @@ economynextcom | 3,397
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,272
-adaderanalk | 6,765
-tamilmirrorlk | 7,945
+adaderanalk | 6,764
+tamilmirrorlk | 7,943
 virakesarilk | 9,099
-adaderanasinhalalk | 9,683
+adaderanasinhalalk | 9,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,033 (100.0%) of 56,044 articles have been extended.
+56,027 (100.0%) of 56,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### Heavy showers above 100 mm likely in several provinces
-
-*2024-11-21 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103647/heavy-showers-above-100-mm-likely-in-several-provinces) · `en`
-
-A low-pressure area is likely to form over southeast Bay of Bengal around 23 November and thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent two days, says the Met. Department.
-
-The system may intensify further and move near the Eastern coast of Sri Lanka. The general public is requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regard, it said.
-
-The Meteorology Department further said showers or thundershowers will occur at times in the Northern, North central and Eastern provinces today.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning.
-
-...
-
-[Data](articles/fdd6ee54.json)
-
----
-
-### නියෝජ්‍ය අමාත්‍යවරු දිවුරුම්දීම අද හවස - කථානායක රංවල ?
-
-*2024-11-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203584) · `si`
-
-නව පාර්ලිමේන්තුවේ කථානායකවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී අශෝක රංවල මහතා පත්කිරීමට ජාතික ජනබල වේගය තීරණය කර තිබේ.
-
-10 වන පාර්ලිමේන්තුවේ පළමු සභාවාරය උත්සවාකාරයෙන් අද (21) විවෘත කිරීමට නියමිතව ඇත.
-
-අද පෙරවරු 10ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර පළමුව කතානායකවරයා තෝරා පත් කරගැනීමට නියමිතය.
-
-පාර්ලිමේන්තුවේ කටයුතු අවසන් වීමෙන් අනතුරුව අද පස්වරුවේ නව රජයේ නියෝජ්‍ය අමාත්‍යවරුන් දිවුරුම්දීමට නියමිතය.
-
-ජනාධිපති ලේකම් කාර්යාලයේ දී නියෝජ්‍ය අමාත්‍යවරු දිවුරුම්දීමට නියමිත අතර නියෝජ්‍ය අමාත්‍ය ධුර 27කට ආසන්න සංඛ්‍යාවක් මෙහිදි පිරිනැමීමට නියමිත බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/540ae20f.json)
-
----
-
-### 10 වැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය අද ඇරඹෙයි
-
-*2024-11-21 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203583) · `si`
-
-10 වන පාර්ලිමේන්තුවේ පළමු සභාවාරය උත්සවාකාරයෙන් අද (21) විවෘත කිරීමට නියමිතව තිබේ.
-
-අද පෙරවරු 10ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර පළමුව කතානායකවරයා තෝරා පත් කරගැනීමට නියමිතය.
-
-කතානායකවරයා තෝරා පත් කරගැනීමෙන් අනතුරුව කතානායක නිල ප්‍රතිඥාව හෝ දිවුරුම ලබාදීම, මන්ත්‍රීවරුන් විසින් නිල ප්‍රතිඥාව හෝ දිවුරුම ලබාදීම, නියෝජ්‍ය කතානායක හා නියෝජ්‍ය කාරක සභා සභාපති තෝරා පත් කරගැනීම සිදුකරනු ඇත.
-
-පළමු දිනයේ දී මන්ත්‍රීවරුන් සදහා අසුන් පැනවීමේ පිළිවෙලක් නොමැති අතර තමන්ට රිසි අසුනක අසුන් ගැනීමේ අවස්ථාව මන්ත්‍රීවරුන්ට හිමි වේ.
-
-මෙම මුලික කටයුතු අවසානයේ පාර්ලිමේන්තුව තාවකාලිකව අත්හිටුවීම සිදුවන අතර පෙරවරු 11.30ට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් සභාවේ මුලසුනේ සිට ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
-
-ජනාධිපතිවරයාගේ උපදෙස් මත 10 වන පාර්ලිමේන්තුවේ මංගල සභා රැස්වීම චාම් උත්සවයක් ලෙස පැවැත්වීමට නියමිත අතර ජයමංගල ගාථා, ත්‍රිවිධ හමුදා උත්තමාචාර, ආචාර වෙඩි මුර සහ රථ පෙළපාලී මෙවර නොපැවැත්වෙන බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සදහන් කළේය.
-
-...
-
-[Data](articles/f9e8377c.json)
-
----
-
-### දික්වැල්ලේ වෙඩිතැබීමක් - අයෙක් මරුට
-
-*2024-11-21 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203582) · `si`
-
-දික්වැල්ල, වලස්ගල ප්‍රදේශයේ පශු වෛද්‍ය කාර්යාලය ආසන්නයේ අද (21) අලුයම 5.30ට පමණ වෙඩිතැබීමක් සිදුව ඇතැයි පොලීසිය පවසයි.
-
-යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකුට වෙඩි ප්‍රහාරය එල්ල වී ඇති අතර, එම පුද්ගලයා එම ස්ථානයේම මියගොස් ඇත.
-
-එලෙස මියගොස් ඇත්තේ අවුරුදු 48ක් වූ වලස්ගල ප්‍රදේශයේ පදිංචිකරුවෙක් බව පොලීසිය පැවසීය.
-
-වෙඩිතැබීම කවුරුන් විසින් සිදුකළේ ද යන්න පිළිබඳව මෙතෙක් තොරතුරු අනාවරණය වී නොමැත.
-
-◼️
-
-[Data](articles/ccf31461.json)
-
----
-
-### බස්නාහිරට, සබරගමුවට සහ දකුණට මි.මී 100 ඉක්මවූ වැසි
-
-*2024-11-21 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203580) · `si`
-
-බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී 100 ඉක්මවූ තද වැසි ඇති විය හැකිය.
-
-මේ අතර නොවැම්බර් 23 වැනිදා පමණ වනවිට ගිනිකොණදිග බෙංගාල බොක්ක මුහුද ආශ්‍රිතව අඩු පීඩන කලාපයක් නිර්මාණය විය හැකි අතර ඉන් අනතුරුව එළඹෙන දින 2 තුළදී එය නිරිත දිග බෙංගාල බොක්ක ආශ්‍රිතව පීඩන අවපාතයක් දක්වා වර්ධනය විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-එම පද්ධතිය තවදුරටත් වර්ධනය වෙමින් දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව ගමන් කරනු ඇතැයි බලාපොරොත්තු වේ.
-
-මේ අතර, උතුරු උතුරු-මැද සහ නැගෙනහිර පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති විය හැකිය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/741831be.json)
-
----
 
 ### AKD and JVP-NPP’s mega-mandate: Re-founding the nation
 
@@ -418,50 +312,6 @@ The Ambassador noted that the Chinese government had already provided the techni
 
 ---
 
-### Accident in Mullaitivu: 2 youths killed
-
-*2024-11-21 01:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவில்-கோர-விபத்து-2-இளைஞர்கள்-பலி/175-347529) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-"2 youths killed, 1 injured in motorcycle collision in Mullaitivu. Accident occurred on Wednesday evening near Mallavi-Vanniwilangulam area. Chandran Vidusan (20) and Vijayakumar Vidarshan (20) died."
-
-🟩
-
-Two youths were killed and another injured in an accident occurred on Wednesday evening in Mallavi - Vanniwilangulam area in Mullaitivu.
-
-The accident occurred as a motorcycle from Mankulam to Mallavi and a motorcycle traveling from Mallavi to Mangulam collided head -on.
-
-Chandran Vidusan (age 20) from Vannivilangulam area and Vijayakumar Vidarshan (20 years old) from Mankulam - New Colony area have died.. (A)
-
-◼️
-
-[Data](articles/3b547b6b.json)
-
-[Extended Data](ext_articles/3b547b6b.ext.json)
-
----
-
-### இந்திய மீனவர்கள் 12 பேர் நிபந்தனைகளுடன் விடுதலை
-
-*2024-11-21 01:22:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-12-பேர்-நிபந்தனைகளுடன்-விடுதலை/175-347528) · `ta`
-
-பருத்தித்துறை கடற்பரப்பில் எல்லை தாண்டி எல்லை தாண்டி மீன்பிடித்த குற்றச்சாட்டில் கைதாகிய 12 இந்திய மீனவர்களையும், நிபந்தனைகளுடன் விடுதலை செய்து பருத்தித்துறை நீதவான் உத்தரவிட்டுள்ளதுடன், கடற்படையினர் மீது தாக்குதல் நடத்திய வழக்கில் விளக்கமறியலை நீடித்தும் உத்தரவு பிறப்பித்துள்ளார்.
-
-கடந்த நவம்பர் 12 ஆம் திகதி அதிகாலை பருத்தித்துறை கடற்பரப்பில் வைத்து எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 12 இந்திய மீனவர்களை இலங்கை கடற்படையினர் கைது செய்து விசாரணையின் பின்னர் நீரியல்வளத்துறை அதிகாரிகளிடம் ஒப்படைத்தனர்.
-
-இதனையடுத்து அன்றைய தினமே அவர்கள் பருத்தித்துறை நீதிமன்றில் முற்படுத்தப்பட்ட போது நேற்றைய தினம் வரை விளக்கமறியலில் வைக்குமாறு நீதவான் கிருசாந்தன் பொன்னுத்துரை உத்தரவிட்டிருந்தார்.
-
-இதையடுத்து குறித்த 12 மீனவர்களும் நேற்று திங்கட்கிழமை காலை பருத்தித்துறை நீதவான் முன்னிலையில் முற்படுத்தப்பட்டிருந்தனர்.
-
-...
-
-[Data](articles/79451579.json)
-
----
-
 ### Imran's Saka Court
 
 *2024-11-21 01:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிப்பானை-இம்ரானின்-சகா-நீதிமன்றத்தில்-முன்னிலை/175-347527) · `ta`
@@ -532,8 +382,6 @@ Elevating its digital presence to new heights, National Development Bank PLC (ND
 
 [Data](articles/8db3b254.json)
 
-[Extended Data](ext_articles/8db3b254.ext.json)
-
 ---
 
 ### 2024-11-20 (Wednesday)
@@ -554,8 +402,6 @@ The full text of the SLBA congratulatory message: “Please accept our heartfelt
 
 [Data](articles/41014478.json)
 
-[Extended Data](ext_articles/41014478.ext.json)
-
 ---
 
 ### Sri Lanka’s current nutrition challenges: How can they be addressed?
@@ -571,8 +417,6 @@ The nutritional landscape can significantly improve through shifts in tobacco an
 ...
 
 [Data](articles/cb685a32.json)
-
-[Extended Data](ext_articles/cb685a32.ext.json)
 
 ---
 
@@ -803,8 +647,6 @@ Turnover stood at Rs 2.7 billion with four crossings. Those crossings were repor
 ...
 
 [Data](articles/40701709.json)
-
-[Extended Data](ext_articles/40701709.ext.json)
 
 ---
 
@@ -2407,5 +2249,177 @@ He had six charges against the parliamentary election and six charges against hi
 [Data](articles/ad359d4a.json)
 
 [Extended Data](ext_articles/ad359d4a.ext.json)
+
+---
+
+### Student killed in earthquake
+
+*2024-11-20 13:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்மேடு-விழுந்ததில்-மாணவன்-பலி/76-347497) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Schoolgirl dies as mudslide collapses house during earthquake. 16-year-old Senara Dilshan perished in Kallawatta, Teldeniya. Investigations reveal soil pressure caused wall collapse.
+
+🟩
+
+A schoolgirl has died after a mudslide collapsed on a house in the Kallawatta area under the Teldeniya Police Division, Medamahanuwara Vatuliyatta Grama Niladhari Division.. 16 -year -old TM. A student named Senara Dilshan has died.
+
+Investigations have revealed that the house of a schoolgirl had died between the soil and the walls of the house.
+
+◼️
+
+[Data](articles/d22bd42d.json)
+
+[Extended Data](ext_articles/d22bd42d.ext.json)
+
+---
+
+### Husband
+
+*2024-11-20 13:28:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மனைவியை-எரித்து-கொன்றார்-சந்தேக-கணவன்/94-347496) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Husband pours kerosene on wife suspected of infidelity. Wife dies from burns. Husband hospitalized with minor injuries. Neighbors intervene, hospitalizing both.
+
+🟩
+
+Puttalam police say that the husband and the mother of two children have poured kerosene on the body of the mother of two children after the wife was suspicious of someone else.
+
+The mother of two children who suffered severe burns died on Tuesday (19) after being admitted to the Chilaw General Hospital, police said.
+
+Jamaldeen Fatima Sapuna, the mother of two 28 -year -old children from Thiladia, Puttalam, has died.
+
+It is reported that the husband who went off when the wife was burning, had been admitted to the Puttalam Hospital for minor burns.
+
+It is reported that the mother of two children, who set fire to her husband's body, has been admitted to the Puttalam Base Hospital immediately after the neighbors burned her body.
+
+◼️
+
+[Data](articles/a317e4fa.json)
+
+[Extended Data](ext_articles/a317e4fa.ext.json)
+
+---
+
+### School student dies after falling back onto a house
+
+*2024-11-20 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203559) · `si`
+
+School girl (16) dies after house collapse in Medamahanuwara. Teldeniya Police reports accident occurred early morning. Met Department forecasts showers and thundershowers across island today, with potential heavy rainfall in Western and Sabaragamuwa provinces.
+
+🟩
+
+A schoolgirl has died in accidents that a mound was collapsing on a house in Medamahanuwara, Weathiyagoda.
+
+The Teldeniya Police said that the accident had occurred early this morning.
+
+The school student who was sleeping in the accident was trapped among the walls of the soil and the house while he died after admission to the hospital.
+
+The deceased has been identified as a schoolgirl, a 16 year old residential in Weathiyaadiyadda.
+
+Meanwhile, the Met Department forecasts showers and thundershowers will occur at several places in the island today.
+
+Thundershowers will develop at several places in the North and East, and there will be showers at night or night.
+
+Some places in the Western and Sabaragamuwa Province and in the Galle and Matara districts have the potential of more than 75 millimeters.
+
+◼️
+
+[Data](articles/091f1238.json)
+
+[Extended Data](ext_articles/091f1238.ext.json)
+
+---
+
+### All members of the compass call for JVP to the main headquarters
+
+*2024-11-20 13:23:51* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-සියලු-මන්ත්‍රීවරුන්-ජවිපේ-ප්‍රධාන-මූලස්ථානයට-කැඳවයි/11-413167) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+JVP summons all elected MPs to its HQ today. Members of Parliament called to discuss key issues. Compass calls for joint action.
+
+🟩
+
+All elected MPs representing the national folk electorate have been summoned to the Head Office of the JVP today (20).
+
+Members of Parliament have been called to discuss in Parliament.
+
+◼️
+
+[Data](articles/ee62dbac.json)
+
+[Extended Data](ext_articles/ee62dbac.ext.json)
+
+---
+
+### Ex-MP Sri Ranga to give statement to CID on Sujeewa’s vehicle
+
+*2024-11-20 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103633/ex-mp-sri-ranga-to-give-statement-to-cid-on-sujeewas-vehicle) · `en`
+
+Former Member of Parliament J. Sri Ranga has arrived at the Criminal Investigations Department (CID) this morning in order to provide a statement.
+
+The former MP is to provide a statement in relation to former MP Sujeewa Senasinghe’s luxury vehicle, worth around Rs. 100 million, which is suspected to have been illegally assembled.
+
+On November 11, the Fort Magistrate’s Court had ordered the CID to take former MP Sujeewa Senasinghe’s vehicle into custody and produce it to the Government Analyst’s Department and obtain a report.
+
+◼️
+
+[Data](articles/e2a017e0.json)
+
+[Extended Data](ext_articles/e2a017e0.ext.json)
+
+---
+
+### NPP MPs taken to Parliament complex, guided through practices and procedures
+
+*2024-11-20 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103632/npp-mps-taken-to-parliament-complex-guided-through-practices-and-procedures) · `en`
+
+The National People’s Power (NPP) has convened its newly-elected Members of Parliament (MPs) at the party headquarters in Pelawatte today (20) for an orientation session ahead of their parliamentary duties.
+
+During the session, the MPs have been briefed on the party’s upcoming activities and strategic goals. Following this, they were taken to the Parliament complex for a comprehensive introduction to its functioning and procedural mechanisms.
+
+The initiative aims to equip the freshly elected MPs with the necessary knowledge to navigate parliamentary proceedings effectively and to ensure their readiness to represent the government in the legislature.
+
+In the General Election held on November 14, the NPP achieved a remarkable victory, securing 141 seats directly through voting process and an additional 18 seats through the national list, making it a dominant political force in the country.
+
+A majority of the NPP MPs have been elected to the parliament for the first time.
+
+...
+
+[Data](articles/3abf1cde.json)
+
+[Extended Data](ext_articles/3abf1cde.ext.json)
+
+---
+
+### Will the pill be arrested?
+
+*2024-11-20 13:09:34* · [`adalk`](https://www.ada.lk/breaking_news/පිල්ලයානුත්-අත්අඩංගුවට-ගනියිද--/11-413166) · `si`
+
+Pillayan arrives at CID to give statement about Channel 4's Easter attack coverage. Claims informed earlier but couldn't attend due to elections. Maintains innocence regarding Passover attack involvement.
+
+🟩
+
+Former Minister Sivanesathurai Chandrakanthan, or Pillayan, arrived at the CID today (20).
+
+It is to give a statement regarding the issues of the Channel 4 of the Passover attacks on the Sunday terrorist attack.
+
+He said he had informed him to appear before the CID on the 12th, but he added that he was unable to attend the last election.
+
+He said he was fully supported by all the senses involved in the Passover attack and he was not guilty and returned to the Criminal Investigations.
+
+◼️
+
+[Data](articles/89a68b02.json)
+
+[Extended Data](ext_articles/89a68b02.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 16:15:38**
+As of **2024-11-21 15:42:02**
 
 ## Newspaper Stats
 
-*Scraped **56,155** Articles*
+*Scraped **56,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,288
+adalk | 5,286
 adaderanalk | 6,787
-tamilmirrorlk | 7,975
+tamilmirrorlk | 7,970
 virakesarilk | 9,117
 adaderanasinhalalk | 9,695
 
@@ -26,123 +26,11 @@ adaderanasinhalalk | 9,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,151 (100.0%) of 56,155 articles have been extended.
+56,146 (100.0%) of 56,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### உணவு ஒவ்வாமையால் 9 சிறுமிகள் பாதிப்பு
-
-*2024-11-21 16:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உணவு-ஒவ்வாமையால்-9-சிறுமிகள்-பாதிப்பு/76-347572) · `ta`
-
-தலத்துஓயா பொலிஸ் பிரிவிற்குட்பட்ட ஹரகமவில் உள்ள பெண்கள் தடுப்பு முகாமில் இருந்த 09 சிறுமிகள் உணவு ஒவ்வாமை காரணமாக கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-சோறுடன் மரவள்ளிக்கிழங்கைச் சாப்பிட்டதால் ஏற்பட்ட ஒவ்வாமை காரணமாக சிறுமிகள் புதன் (20), வியாழக்கிழமைகளில் (21) வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-சுகயீனமுற்ற சிறுமிகள் 15-17 வயதுடையவர்கள் என தெரிவித்த தலத்துஓயா பொலிஸார், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/a9af99e2.json)
-
----
-
-### Vijayadasa confirmed the politics
-
-*2024-11-21 15:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-ஓய்வை-உறுதிப்படுத்தினார்-விஜயதாச/175-347569) · `ta`
-
-Dr. Vijayadasa Rajapakse retires from politics, rejects return to Parliament, citing corruption concerns.
-
-🟩
-
-Former Minister Dr. Vijayadasa Rajapakse has announced that he will retire from politics and will not contest the upcoming elections.
-
-He made this statement while responding to questions raised by journalists about his political future after worship at the Dalada House in Kandy.
-
-When asked if there was the possibility of coming back to Parliament, Dr. Rajapakse firmly rejected it.
-
-He said he did not want to be part of the story referred to as corrupt in parliament.
-
-◼️
-
-[Data](articles/a564c845.json)
-
-[Extended Data](ext_articles/a564c845.ext.json)
-
----
-
-### Tomorrow is the first installment holiday
-
-*2024-11-21 15:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-தவணை-விடுமுறை/175-347568) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-First installment holiday: Sinhala/Tamil schools end Dec 6, 2024; Muslim schools end Dec 13, 2024. Second phase resumes Jan 0, 2025.
-
-🟩
-
-By 2024, the Ministry of Education has announced that the first phase of the third school installment for Sinhala and Tamil schools in state schools and state -approved private schools will end on Friday, 2024.
-
-Meanwhile, the first phase of the third school installment in Muslim schools will end on Friday, December 13, 2024 and will begin school holidays after that date.
-
-The Ministry of Education has announced that the second phase of the third term in all schools will resume January 0, 2025.
-
-◼️
-
-[Data](articles/44242470.json)
-
-[Extended Data](ext_articles/44242470.ext.json)
-
----
-
-### "This issue is only a few people"
-
-*2024-11-21 15:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-விடயம்-ஒரு-சிலருக்கு-மாத்திரமே-பிரச்சினை/175-347567) · `ta`
-
-Ravi Karunanayake joins 10th Sri Lankan Parliament, denies controversy impact on party.
-
-🟩
-
-Former Minister Ravi Karunanayake participated in the inaugural session of the 10th Parliament of Sri Lanka today as the National List of the New Democratic Front (NDF).
-
-Commenting on the visit to Parliament, Karunanayake said his appointment was legal through the national list of the New Democratic Front.
-
-Parliamentarian Karunanayake added that the issue is only a few people and that the entire parties have no problem.
-
-He pointed out that he would pay his attention to the rebuilding of the UNP (UNP) and guiding it as a strong political force.
-
-Commenting on the controversy over his appointment to Parliament, Parliamentarian Ravi Karunanayake said the party could not be affected for the benefit of a few.
-
-◼️
-
-[Data](articles/6f8ed6a4.json)
-
-[Extended Data](ext_articles/6f8ed6a4.ext.json)
-
----
-
-### Postponement of Parliament until December 3
-
-*2024-11-21 15:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பர்-3-வரை-பாராளுமன்றம்-ஒத்திவைப்பு/175-347566) · `ta`
-
-Sri Lanka's Parliament adjourned until Dec 3. President Anura Kumara Dissanayake issued policy report during 10th Parliament session.
-
-🟩
-
-President Anura Kumara Dissanayake has adjourned the Parliament of Sri Lanka until 9:30 am on December 3.
-
-The postponement was followed by the president's issuance of the government's policy report during the 10th Parliament of Parliament today.
-
-◼️
-
-[Data](articles/0f0dc109.json)
-
-[Extended Data](ext_articles/0f0dc109.ext.json)
-
----
 
 ### Former UK Deputy Prime Minister John Prescott dies at age 86
 
@@ -163,8 +51,6 @@ An amateur boxer in his youth, Prescott was a pugnacious politician who memorabl
 ...
 
 [Data](articles/b51514a2.json)
-
-[Extended Data](ext_articles/b51514a2.ext.json)
 
 ---
 
@@ -272,26 +158,6 @@ Police investigations have uncovered that the arrested suspects are close associ
 
 ---
 
-### යතුරුපැදි දෙකක් ගැටී සොයුරන් දෙදෙනෙකුට දිවි අහිමි වෙයි
-
-*2024-11-21 14:05:52* · [`adalk`](https://www.ada.lk/breaking_news/යතුරුපැදි-දෙකක්-ගැටී-සොයුරන්-දෙදෙනෙකුට-දිවි-අහිමි-වෙයි/11-413200) · `si`
-
-මුලතිව් මන්කුලම් වේලාන්කුලම් ප්‍රදේශයේදී ඊයේ (20) සවස යතුරුපැදි දෙකක් අනතුරට ලක්වීමෙන් එහි ගමන්ගත් තරුණයින් දෙදෙනෙකු මිය ගොස් තවත් අයෙකු බරපතල තුවාල ලබා ඇතැයි මාන්කුලම් පොලීසිය පැවසීය.
-
-මුලතිව් මාන්කුලම් සිට මල්ලාවි දෙසට යතුරුපැදියකින් සොයුරන් දෙදෙනෙකු ගමන්කොට ඇති අතර මල්ලාවි සිට මාන්කුලම් දෙසට තවත් තරුණයෙකු යතුරුපැදියක් ධවනය කිරීමේදී යතුරුපැදි දෙක මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇතැයි පොලීසිය පැවසීය.
-
-අනතුරින් මාන්කුලම් සිට ගමන්කල සොයාරන් දෙදෙනාම අනතුර සිදුවූ ස්ථානයේම මිය ගොස් ඇති අතර මල්ලාවි සිට පැමිණි අනෙක් තරුණයා බරපතල තුවාල ලබා මන්කුලම් රෝහලට ඇතුලත් කිරීමෙන් පසුව වැඩිදුර ප්‍රතිකාර සඳහා කිලිනොච්චිය මහරෝහලට මාරුකොට යවා ඇත.
-
-අනතුරින් මිය ගොස් ඇත්තේ මාන්කුලම් ප්‍රදේශයේ පදිංචි එකම පවුලේ සොයුරන් දෙදෙනෙකු වූ අවුරුදු 20 ක් වයසැති විජයකුමර් විදුසන් සහ ජෙයකුමර් විදුසන් නැමති 23 හැවිරිදි දෙදෙනෙකි.
-
-අධික වෙගය හේතුවෙන් යතුරුපැදිවල වේගය පාලනය කරගැනීමට නොහැකි වීම හේතුවෙන් මෙම අනතුර සිදුව ඇතැයි පොලීසිය සැකපල කරන අතර මාන්කුලාම් පොලීසිය වැඩිදුර පරික්ෂණ සිදුකරයි.
-
-◼️
-
-[Data](articles/24bba8d0.json)
-
----
-
 ### Sri Lanka plans fast growth in tourism, IT, ocean, mineral sectors: President
 
 *2024-11-21 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-fast-growth-in-tourism-it-ocean-mineral-sectors-president-189185/) · `en`
@@ -313,26 +179,6 @@ Currently Sri Lanka earns around 1.2 billion dollars from the IT industry, Dissa
 [Data](articles/d4380a6b.json)
 
 [Extended Data](ext_articles/d4380a6b.ext.json)
-
----
-
-### මහවත්තේ චාමරගේ අයිස් සමග දෙදෙනෙක් අල්ලයි
-
-*2024-11-21 13:56:30* · [`adalk`](https://www.ada.lk/breaking_news/මහවත්තේ-චාමරගේ-අයිස්-සමග-දෙදෙනෙක්-අල්ලයි/11-413199) · `si`
-
-සංවිධානාත්මක අපරාධකරුවකු හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන මහවත්තේ චාමර නැමැත්තාට අයත් රුපියල් මිලියන එකොළහක් පමණ වටිනා අයිස් මත් ද්‍රව්‍ය තොගයක් සමග දෙදෙනෙකු අත්ඩගුවට ගත් බව විශේෂ කාර්ය බළකාය පවසයි.
-
-ඒ සමග මත්ද්‍රව්‍ය ජාවාරමින් උපයා ගත් බවට සක කෙරෙන එක්කෝටි දස ලක්ෂයක මුදලක් මෝටර් රථයක් හා ජංගම දුරකථන 03 ක්  පොලිස් භාරයට ගෙන තිබේ.
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කඩවත සහ මාලිගාවත්ත ප්‍රදේශවල පදිංචි (29 සහ 39) වයස ඇති දෙදෙනෙකු බව පොලීසිය කියයි.
-
-විශේෂ කාර්ය බලකාය විශේෂ මේහෙයුම් ඒකකය II හි පොලිස් සැරයන් මාතර ආරච්චි මහතා ඇතුළු නිලධාරී කණ්ඩායක්  කඩවත හා දොම්පේ ප්‍රදේශවල වැටලීම් දෙකක් සිදුකර තිබුණි.
-
-එහිදී අයිස් මත්ද්‍රව්‍ය කිලෝ 03 ග්‍රෑම් 536,මත්ද්‍රව්‍ය ජාවාරමින් උපයාගන්නා ලද එක්කෝටි දස ලක්ෂයක මුදලක්, කාර් රථයක් හා ජංගම දුරකථන 03 සමග පුද්ගලයින් දෙදෙනෙකු මෙහිදී පොලිස් භාරයට ගෙන තිබේ.
-
-...
-
-[Data](articles/5f350666.json)
 
 ---
 
@@ -2445,5 +2291,183 @@ The suspects have been arrested by the Matara Division Criminal Investigation Bu
 [Data](articles/8156bfaa.json)
 
 [Extended Data](ext_articles/8156bfaa.ext.json)
+
+---
+
+### One person killed in shooting at Dikwella
+
+*2024-11-21 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103648/one-person-killed-in-shooting-at-dikwella) · `en`
+
+A person has been reported dead following a shooting incident at Walasgala in Dikwella, police said.
+
+The shooting had taken place near the Veterinary Office on Doramure Road in the Walasgala area at around 5.30 a.m. this morning (21).
+
+A person riding a motorcycle had been targeted int he shooting while he had died on the spot.
+
+The victim is a 48-year-old resident of Walasgala who had been employed as a driver.
+
+Police said that no information regarding the shooters or the motive behind the shooting have been uncovered yet.
+
+However, as their is an ongoing court case against the victim for extortion from an individual in the area by using the name of organised criminal gang leader currently hiding overseas, police are investigating whether there is a connection between the shooting and the extortion incident.
+
+Police suspect that a T-56 assault rifle had been used to carry out the shooting.
+
+Dikwella Police is conducting further investigations to arrest the suspects.
+
+◼️
+
+[Data](articles/7f91a3cc.json)
+
+[Extended Data](ext_articles/7f91a3cc.ext.json)
+
+---
+
+### Heavy showers above 100 mm likely in several provinces
+
+*2024-11-21 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103647/heavy-showers-above-100-mm-likely-in-several-provinces) · `en`
+
+A low-pressure area is likely to form over southeast Bay of Bengal around 23 November and thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent two days, says the Met. Department.
+
+The system may intensify further and move near the Eastern coast of Sri Lanka. The general public is requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regard, it said.
+
+The Meteorology Department further said showers or thundershowers will occur at times in the Northern, North central and Eastern provinces today.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning.
+
+...
+
+[Data](articles/fdd6ee54.json)
+
+[Extended Data](ext_articles/fdd6ee54.ext.json)
+
+---
+
+### Adani charged in US over renewable energy bribery amid Sri Lanka troubles
+
+*2024-11-21 07:19:00* · [`economynextcom`](https://economynext.com/adani-charged-in-us-over-renewable-energy-bribery-amid-sri-lanka-troubles-189007/) · `en`
+
+ECONOMYNEXT – India’s Adani group has been charged alleging 250 million dollars in bribes to get solar energy contracts from Indian authorities and misleading investors when capital was raised from American investors, the US Securities Exchange and media reports said.
+
+Chairman Gautam Adani, two executives of Adani Green Energy Limited, his nephew Sagar Adani and Vneet Jaain are charged with misleading U S and international investors about their company’s compliance with antibribery and anticorruption practices, CNBC, a US business news channel reported.
+
+Sri Lankan activists have also taken a project by Adani Green Energy in Mannar area to court, after it won a wind power deal from the island’s government without competitive tender at allegedly far higher prices than other projects with competitive tender.
+
+In Sri Lanka and some other countries renewable firms also evade competitive bidding through a so-called ‘feed in tariffs’ which critics say are produced by lobbying for various costs.
+
+...
+
+[Data](articles/cc12761e.json)
+
+[Extended Data](ext_articles/cc12761e.ext.json)
+
+---
+
+### Sri Lanka plans to boost exports to $36bn over 5-years
+
+*2024-11-21 07:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-boost-exports-to-36bn-over-5-years-189023/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to boost exports of goods and service to around 36 billion US dollars over the next five years, newly appointed Chairman of the island’s Export Development Board, Mangala Wijesinghe said.
+
+Good exports will be boosted to 25 billion dollars from the current 12 billion dollars, he said.
+
+Services would be boosted to around 11.5 billion dollars from the current 3 billion dollars.
+
+As part of efforts to boost services a marine related investment forum would be held on November 26, he said.
+
+Sri Lanka expects to draw foreign direct investments into exports with political and economic stability, he said.
+
+Transparency would also be ensured through digitalization, he said. (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/7399ab3e.json)
+
+[Extended Data](ext_articles/7399ab3e.ext.json)
+
+---
+
+### Deputy Ministers Affidle to this evening - Speaker Ranwala?
+
+*2024-11-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203584) · `si`
+
+MP Asoka Ranwala to become Speaker of New Parliament. First committee of 10th Parliament opens today. Deputy Ministers to be sworn in later at Presidential Secretariat. Approximately 27 deputy ministerial portfolios to be allocated.
+
+🟩
+
+The National Tower Speed ​​has decided to appoint MP Asoka Ranwala as Speaker of the New Parliament.
+
+The first committee of the 10th Parliament is scheduled to open today (21).
+
+The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
+
+Deputy Ministers of the New Government will be sworn in after the completion of the affairs of Parliament.
+
+Deputy Ministers are to be sworn in at the Presidential Secretariat and nearly 27 deputy ministerial portfolios are to be awarded.
+
+◼️
+
+[Data](articles/540ae20f.json)
+
+[Extended Data](ext_articles/540ae20f.ext.json)
+
+---
+
+### The first congregation in Parliament begins today
+
+*2024-11-21 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203583) · `si`
+
+First Parliament session begins today. Key events include Speaker election, Deputy Speaker appointment, oath-taking ceremony, and presidential address. No orders for MPs on first day; temporary suspension at end of session.
+
+🟩
+
+The first committee of the 10th Parliament is scheduled to open today (21).
+
+The Parliament will be appointed to the meeting at 10 am this morning and the Speaker is to be elected.
+
+The Deputy Speaker and Deputy Speaker and Deputy Committee Chairman will appoint the official pledge or oath, providing the official pledge or oath after the Speaker's elections.
+
+There is no order for MPs on the first day and MPs are entitled to sit on a disabled seat.
+
+The Parliament will be temporarily suspended at the end of these basic work and President Anura Kumara Dissanayake has been presented to the Parliament of President Anura Kumara Dissanayake to the Parliament.
+
+On the advice of the president, a charming ceremony will be held as a charm and Jayamaangala stanzards, three armed forces, and the armble, salutives and charging.
+
+Accordingly, by 11:00 am, all the invitees will be seated and the Speaker is to be recognized at 11.10 am.
+
+Subsequently accepted the Prime Minister and the President arrives only.
+
+...
+
+[Data](articles/f9e8377c.json)
+
+[Extended Data](ext_articles/f9e8377c.ext.json)
+
+---
+
+### Dickwella shooting - Man dies
+
+*2024-11-21 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203582) · `si`
+
+Dickwella shooting: 48-year-old man killed by motorcycle gunman in Walasgala area. Police investigation ongoing.
+
+🟩
+
+Police say that the Veterinary Office near the Veterinary Office in the Walasgala area has been shot at 5.30 am today.
+
+A person who was traveling with a motorcycle was shot dead, and the man had died in that location.
+
+The victim was a 48-year-old resident of the Walasgala area.
+
+The information is yet to be revealed as to who shot.
+
+◼️
+
+[Data](articles/ccf31461.json)
+
+[Extended Data](ext_articles/ccf31461.ext.json)
 
 ---

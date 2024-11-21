@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 22:01:29**
+As of **2024-11-21 22:41:31**
 
 ## Newspaper Stats
 
-*Scraped **56,205** Articles*
+*Scraped **56,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,296
-adaderanalk | 6,794
-tamilmirrorlk | 7,983
+adaderanalk | 6,795
+tamilmirrorlk | 7,984
 virakesarilk | 9,134
 adaderanasinhalalk | 9,702
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 9,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,204 (100.0%) of 56,205 articles have been extended.
+56,206 (100.0%) of 56,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### Jetstar Asia commences direct flights to Sri Lanka
+
+*2024-11-21 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103678/jetstar-asia-commences-direct-flights-to-sri-lanka-) · `en`
+
+Singapore-based low-cost airline Jetstar Asia (3K) celebrated the launch of its direct flights between Singapore and Colombo today, as the Singapore carrier becomes the only low-cost airline to operate the route.
+
+Departing from Singapore’s Changi Airport, the inaugural flight Flight 3K333 touched down in Colombo this morning (21) heralding the start of more affordable and convenient options for travellers wanting to explore Sri Lanka’s vibrant and captivating capital.
+
+With five return flights each week, operated by their fleet of Airbus A320s, the new route offers travellers a choice of morning or evening departures, providing convenient options for those connecting through Singapore, according to Jetstar.
+
+...
+
+[Data](articles/20e2b3bd.json)
+
+---
+
+### UNP denies Ravi's stories
+
+*2024-11-21 21:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-கதைகளை-மறுக்கிறது-ஐ-தே-க/175-347584) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+UNP denies claims of election agreement with NDF for national list seat. Meeting on Nov 16 decided candidates, but Karunanayake wasn't recommended. Missing pages in agreement cause controversy. NDF has no right to present national list candidates.
+
+🟩
+
+The United National Party (UNP) today denied its claims that the new Democratic Front (NDF) gas candidate, which was used to contest the general election this time, had an election agreement to give the national list.
+
+United National Party (UNP) Chairman Wajira Abeywardena issued a statement saying that a meeting was held on November 16 under the leadership of former President Ranil Wickremesinghe, headed by former President Ranil Wickremesinghe to decide the candidates for the winning national list seats.
+
+At the meeting, it was decided to convene again on November 19 and decided to take a final decision.
+
+A copy of the election agreement with the new Democratic Front was to be submitted.
+
+On November 18, when NDF Secretary Shyamala Perera met Mr Wickremesinghe, Mr. Karunanayake emphasized the need to recommend the post.. Still, Mr.. Wickremesinghe refused to recommend him.
+
+...
+
+[Data](articles/455faa82.json)
+
+[Extended Data](ext_articles/455faa82.ext.json)
+
+---
 
 ### Muthu Raja: Thai vets consider trimming tusks of elephant repatriated from Sri Lanka
 
@@ -700,23 +746,35 @@ The magistrate, considering the two sides, issued a warrant for the witness and 
 
 ---
 
-### ව්‍යාජ හිසකෙස් වර්ණ ගණ්වනයන් වෙළඳපොලේ
+### False hair colors in the market
 
 *2024-11-21 16:37:54* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-හිසකෙස්-වර්ණ-ගණ්වනයන්-වෙළඳපොලේ/11-413205) · `si`
 
-හිසකෙස් වර්ණ ගන්වන ව්‍යාජ නිෂ්පාදන අලෙවි කරන බවට තොරතුරු ලැබී තිබෙන හෙයින් මේ සම්බන්ධව  විමසිලිමත් වන ලෙස පාරිභෝගික කටයුතු අධිකාරිය ජනතාවගෙන් ඉල්ලා  සිටියි.
+Here's a summary in 200 characters:
 
-මෙ වැනි නිෂ්පාදන  පිළිබඳ තොරතුරු වෙතොත් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ කෙටි දුරකථන අංකය  වන 1977 වෙත දැනුම්දෙන ලෙසත්  ඉල්ලා සිටියි.
 
-ප්‍රසිද්ධ වෙළෙඳ නාමයක් ව්‍යාජ ලෙස යොදා ගනිමින් සැකසූ හිසකෙස් කළු කරන ආලේපන වෙළෙඳපොළෙහි අලෙවි කළ ව්‍යාපාරික ස්ථාන වැටලීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය කටයුතු කරන කරන බවද  සඳහන් කරයි.
 
-මේ අනුව නිවැරදි හිසකෙස් කළු කරන ආලේපනයෙන් අකාරයට සකස් කර අලෙවි කළ පිටකොටුව පැරණි නගරශාලා ගොඩනැගිල්ලෙහි සහ පීපල්ස් පාර්ක්හි වෙළෙඳුන් තිදෙනෙකුට මේ වන විටද නීතිය ක්‍රියාත්මක කර තිබෙන බව අධිකාරිය පෙන්වා දෙයි.
+Consumer Affairs Authority warns public about false hair colors. Raided businesses selling mislabeled hair dye. Three traders fined for incorrect packaging weights.
 
-වැරදි හිසකෙස් කළු කරන ආලේපන අකාරයට මේවා සකස් තිබූ බවත්  නිවැරදි ඇසුරුමක  අනු  බර 21g ක් වන බවත්  ව්‍යාජ නිෂ්පාදනයෙහි‍ අනු ඇසුරුමක බර 10g ක් වු බවත් සඳහන් කරයි.
+🟩
 
-...
+The Consumer Affairs Authority requests the public to be carefully known as the hair is being sold.
+
+The information about such products is also requested to be informed to report to the 1977 Consumer Affairs Authority.
+
+The Consumer Affairs Authority is working on the raid of businesses who were prepared in the hair-black coating market.
+
+According to the Authority, three traders of Pettah and Pettah has already been implemented at the Old Tathoket and Pettah of Pettah and Pettah has been implemented in the Old Tests and Park in People's Park.
+
+It is said that the misconduct black coatings were adjusted to the same, and that the accuracy of the correct pack was 21G and the weight of a sub-production of fake production was 10G.
+
+The offense has been admitted to the three traders after legal action against the Maligakanda Magistrate's Court. Subsequently a fine and a fine of those packaging and a large number of those persons arrested.
+
+◼️
 
 [Data](articles/6f70cfb9.json)
+
+[Extended Data](ext_articles/6f70cfb9.ext.json)
 
 ---
 
@@ -2543,49 +2601,5 @@ MP Namal Karunaratne said that this is a program to "fuel the rice mill owners',
 [Data](articles/38b30ca0.json)
 
 [Extended Data](ext_articles/38b30ca0.ext.json)
-
----
-
-### President Dissanayake delivers govt’s policy statement
-
-*2024-11-21 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103660/president-dissanayake-delivers-govts-policy-statement) · `en`
-
-President Anura Kumara Dissanayake, who arrived in the Parliament a short while ago, commenced delivering the government’s policy statement to the House after the first session of the Tenth Parliament was inaugurated this morning (21).
-
-The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning with the participation of the newly-elected legislators.
-
-Following the initial formalities including the election of the Speaker and the Deputy Speaker, Parliament was temporarily suspended until 11.30 a.m.
-
-President Anura Kumara Dissanayake presided over the Speaker’s Chair and presented the Government’s Policy Statement in accordance with Articles 32(4) and 33 of the Constitution.
-
-...
-
-[Data](articles/1ec14d8a.json)
-
-[Extended Data](ext_articles/1ec14d8a.ext.json)
-
----
-
-### The President has arrived
-
-*2024-11-21 11:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வந்தடைந்தார்/175-347547) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake arrives at Parliament. Greeted by Speaker & PM. No military parade, honors, or national anthem played. Simple ceremony marks his visit.
-
-🟩
-
-President Anura Kumara Dissanayake arrived in Parliament shortly. He was taken by Speaker Dr. Asoka Ranwala and Prime Minister Dr. Aruni Amarasuriya. In a very simple way, the president's visit took place this time.
-
-It is noteworthy that this is not the case, including the parade of the forces, the resolution of the honor, and the Mangala anthem.
-
-◼️
-
-[Data](articles/c2242cad.json)
-
-[Extended Data](ext_articles/c2242cad.ext.json)
 
 ---

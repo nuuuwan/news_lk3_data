@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 11:00:07**
+As of **2024-11-21 11:13:34**
 
 ## Newspaper Stats
 
-*Scraped **56,081** Articles*
+*Scraped **56,088** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 574
-bbccomsinhala | 580
+bbccomsinhala | 581
 islandlk | 3,357
 economynextcom | 3,401
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,276
+adalk | 5,278
 adaderanalk | 6,774
-tamilmirrorlk | 7,954
+tamilmirrorlk | 7,958
 virakesarilk | 9,103
 adaderanasinhalalk | 9,689
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 9,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,079 (100.0%) of 56,081 articles have been extended.
+56,079 (100.0%) of 56,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### 10 වැනි පාර්ලිමේන්තුවේ කථානායක ආචාර්ය අශෝක රන්වල
+
+*2024-11-21 10:48:49* · [`adalk`](https://www.ada.lk/breaking_news/10-වැනි-පාර්ලිමේන්තුවේ-කථානායක-ආචාර්ය-අශෝක-රන්වල/11-413188) · `si`
+
+නව පාර්ලිමේන්තුවේ කථානායකවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය අශෝක රංවල මහතා තේරී පත්වුණි.
+
+අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය විසින් අශෝක රංවල මහතාගේ නම යෝජනා කළ අතර, අමාත්‍ය විජිත හේරත් මහතා එය ස්ථීර කළේය.
+
+අශෝක රංවල මහතා 2024 මහ මැතිවරණයේදී ජාතික ජන බලවේගයෙන් ගම්පහ දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තු වරම් ලැබීය.
+
+නියෝජ්‍ය කථානායක ධුරය සඳහා පාර්ලිමේන්තු මන්ත්‍රී මොහොමඩ් රිස්වි සාලි මහතා මහතා පත්කෙරුණි.
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා විසින් ඒ මහතාගේ නම යෝජනා කළ අතර, එය කාන්තා හා ළමා කටයුතු අමාත්‍ය සරෝජා සාවිත්‍රි පෝල්රාජ් මහත්මිය විසින් ස්ථීර කළාය.
+
+නියෝජ්‍ය කාරක සභා සභාපති ධුරය සඳහා පාර්ලිමේන්තු මන්ත්‍රී හේමාලි වීරසේකර මහත්මිය පත්වුණි.
+
+◼️
+
+[Data](articles/bb9d84d4.json)
+
+---
+
+### பாராளுமன்றம் தற்காலிகமாக ஒத்திவைக்கப்பட்டது
+
+*2024-11-21 10:46:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-தற்காலிகமாக-ஒத்திவைக்கப்பட்டது/175-347542) · `ta`
+
+பத்தாவது பாராளுமன்றத்தில் முக்கிய தெரிவுகள் இடம்பெற்றதன் பின்னர், ஜனாதிபதியின் கொள்கை விளக்க உரைக்காக, பாராளுமன்றம் ஒரு மணிநேரத்துக்கு தற்காலிகமாக ஒத்திவைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f064cadc.json)
+
+---
+
+### பாராளுமன்ற குழுக்களின் பிரதித் தவிசாளர் தெரிவு
+
+*2024-11-21 10:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-குழுக்களின்-பிரதித்-தவிசாளர்-தெரிவு/175-347541) · `ta`
+
+◼️
+
+[Data](articles/b7f22d0f.json)
+
+---
+
+### பிரதி சபாநாயகராக முஹம்மத் ரிஸ்வி சாலி
+
+*2024-11-21 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதி-சபாநாயகராக-முஹம்மத்-ரிஸ்வி-சாலி/175-347538) · `ta`
+
+பத்தாவது பாராளுமன்றத்தின் பிரதி சபாநாயகராக வைத்தியகலாநிதி மொஹொமட் ரிஸ்வி சாலி தெரிவு செய்யப்பட்டுள்ளார்.
+
+அமைச்சர் நளிந்த ஜெயதிஸ்ஸ அவரின் பெயரை முன்மொழிய அமைச்சர் சரோஜா போல்ராஜ் அதனை வழிமொழிந்தார்.
+
+◼️
+
+[Data](articles/af908586.json)
+
+---
+
+### எதிர்க்கட்சித் தலைவர் சஜித்
+
+*2024-11-21 10:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவர்-சஜித்/175-347537) · `ta`
+
+பத்தாவது பாராளுமன்றத்தின் எதிர்க்கட்சித் தலைவராக சஜித் பிரேமதாச நியமிக்கப்பட்டுள்ளார் என்று சபாநாயகர்  கலாநிதி அசோக ரன்வல சபையில் அறிவித்தார்.
+
+◼️
+
+[Data](articles/774f355a.json)
+
+---
 
 ### New Members of Parliament sworn-in
 
@@ -82,7 +152,7 @@ Subsequently, both Dr. Harin Amarasuriya Minister Vijitha Herath took the new Sp
 
 *2024-11-21 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103655/asoka-ranwala-appointed-new-speaker-of-parliament) · `en`
 
-National People’s Power (NPP) Gampaha District Member of Parliament Member of Parliament Asoka Sapumal Ranwala has been unanimously appointed as the new Speaker of Parliament.
+National People’s Power (NPP) Gampaha District Member of Parliament Asoka Sapumal Ranwala has been unanimously appointed as the new Speaker of Parliament.
 
 He was nominated by Prime Minister Harini Amarasuriya at the commencement of the inaugural session of the tenth Parliament.
 
@@ -885,6 +955,26 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/741831be.json)
 
 [Extended Data](ext_articles/741831be.ext.json)
+
+---
+
+### දින 28කදී පොලිස් නිලධාරීන් 15ක් අත්අඩංගුවට ගෙන ඇත්තේ ඇයි?
+
+*2024-11-21 04:19:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy4ldxdqyxo) · `si`
+
+මහජන ආරක්ෂාව සහ සාමය සුරක්ෂිත කිරීම සම්බන්ධයෙන් වැදගත් ම රාජකාරියක් පැවරී ඇත්තේ පොලීසිය වෙත ය.
+
+ශ්‍රී ලංකාවේ පොලිස් ආඥා පනත අනුව, රටේ වෙසෙන මහ ජනතාව, ඔවුන්ගේ දේපළ ආරක්ෂා කර දීම වෙනුවෙන් 'සියලු ම අපරාධ, වැරදි, පොදු හිරිහැර වැළැක්වීම, සාමය ආරක්ෂා කිරීම' ආදී යුතුකම් සහ වගකීම් පැවරී ඇත්තේ පොලිසියට ය.
+
+එවැනි වගකීමක් පැවරී ඇති පොලිස් නිලධාරීන් බොහෝ විට මහ ජනතාවගේ ගෞරවයට පාත්‍ර වනවා මෙන් ම විවේචනවලට ලක්වන අවස්ථා ද දැකිය හැකි ය.
+
+පොලිස් දෙපාර්තමේන්තුවේ ඇතැම් නිලධාරීන් බලය අයුතු ලෙස පාවිච්චි කරන බවට මහ ජනතාවගෙන් චෝදනා එල්ල වූ අවස්ථා රැසක් තිබේ. විවිධ අවස්ථාවලදී තමන්ට මුහුණ දීමට සිදුවූ එවැනි සිදුවීම් සම්බන්ධයෙන් සිවිල් වැසියන් මානව හිමිකම් කොමිෂන් සභාව හමුවේ පැමිණිලි කළ අවස්ථා විරල නොවේ.
+
+එමෙන් ම, ඇතැම් පොලිස් නිලධාරීන් සැකකරුවන්ගෙන් ප්‍රශ්න කිරීමේදී ඔවුන්ගේ අනන්‍යතාව හෙළි වන ආකාරයෙන් කටයුතු කිරීම සම්බන්ධයෙන් ද පොලිස් නිලධාරීන්ට එරෙහිව චෝදනා එල්ල විය.
+
+...
+
+[Data](articles/585bb286.json)
 
 ---
 
@@ -2022,6 +2112,22 @@ He added that a family belonging to a family in the J/91 Grama Niladhari Divisio
 
 ---
 
+### කැබිනට් මණ්ඩලය අධීක්ෂණය කර ජනපතිට වාර්තා කිරීමට අධීක්ෂණ මණ්ඩලයක්
+
+*2024-11-20 19:13:07* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-අධීක්ෂණය-කර-ජනපතිට-වාර්තා-කිරීමට-අධීක්ෂණ-මණ්ඩලයක්/11-413184) · `si`
+
+කැබිනට් මණ්ඩලයේ කටයුතු අධීක්ෂණය කිරීම වෙනුවෙන් අධීක්ෂණ මණ්ඩලයක් පත් කිරීමට නියමිතය. එම අධීක්ෂණ මණ්ඩලය සඳහා සුදුසුකම් හා අත්දැකීම් ඇති අය පත් කිරීමට නියමිත බව ද වාර්තා විය.
+
+ඒ අනුව කැබිනට් මණ්ඩලයේ කටයුතු අධීක්ෂණය කර එම කටයුතුවල ප්‍රගතිය ජනාධිපතිවරයාට වාර්තා කිරීම මෙම අධීක්ෂණ මණ්ඩලවලට පැවරෙන වගකීම වේ. නව අමාත්‍ය මණ්ඩලයට ද කටයුතු කළ යුතු ආකාරය පිළිබඳව මාර්ගෝපදේශ ලබාදී ඇති අතර, ඒ අනුව කටයුතු කරන්නේ දැයි යන්න පිළිබඳවත්, එක් එක් අමාත්‍යාංශවල කාර්ය හා ප්‍රගතිය මෙම අධීක්ෂණ මණ්ඩලය ඔස්සේ සමාලෝචනය කිරීමට නියමිත බවත් වාර්තා වේ.
+
+අමාත්‍යවරුන් තම කාර්ය හා ඉලක්ක නිසියාකාරව සපුරා ගැනීමට අසමත් වුවහොත් ඒ සඳහා ද අදාළ පියවර ගන්නා බව ජනාධිපතිවරයා විසින් අමාත්‍ය මණ්ඩලයට දැනුම් දී ඇතැයි වාර්තා වේ. මේ අතර සියලුම අමාත්‍යාංශ සඳහා ක්‍රියාකාරී කමිටු පත් කිරීමට නියමිත බවද වැඩිදුරටත් වාර්තා විය.
+
+◼️
+
+[Data](articles/7e8d5d47.json)
+
+---
+
 ### Health Notes have been discroomed by 213
 
 *2024-11-20 19:08:49* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයේ-ඇඟිලි-සටහන්-යන්ත්‍ර-213-භාවිතයට-නොගෙනම-නිශ්ක්‍රීය-වෙලා/11-413183) · `si`
@@ -2259,187 +2365,5 @@ After this purpose, the Deputy Speaker is appointed and the Deputy Chairman of t
 [Data](articles/e20373ff.json)
 
 [Extended Data](ext_articles/e20373ff.ext.json)
-
----
-
-### Complete the collection of details
-
-*2024-11-20 18:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபர-சேகரிப்பு-அலுவல்கள்-நிறைவு/175-347507) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Newly elected MPs attended the 10th Parliament's inaugural session. Over 200 MPs participated, receiving essential documents and undergoing ID photography and fingerprinting for electronic voting. A digital submission system was introduced via the Parliamentary website to streamline processes.
-
-🟩
-
-The success of the newly elected MPs for the initial session of the tenth parliament held at the Parliament Building yesterday (19) and today (20).
-
-More than 200 MPs, including MPs, participated in this initiative. During the event, all MPs were provided with useful essential information and documents. Operations were carried out, including photography for MPs' identity cards and fingerprints for the electronic voting system.
-
-In addition, the online system was introduced via the Parliamentary website to prepare for the inaugural session of the first session of the tenth parliament.. This has made MPs digitally submit the necessary information and has ease these processes.
-
-◼️
-
-[Data](articles/77435a51.json)
-
-[Extended Data](ext_articles/77435a51.ext.json)
-
----
-
-### Julampiti Amare, who killed two JVP activists, confirms the death penalty
-
-*2024-11-20 18:07:45* · [`adalk`](https://www.ada.lk/breaking_news/ජවිපේ-ක්‍රියාකාරීන්-දෙදෙනෙක්-ඝාතනය-කළ-ජුලම්පිටිය-අමරේට-දුන්-මරණ-දණ්ඩනය-තහවුරු-කරයි/11-413180) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Tangalle High Court approves death penalty for Julampitiye Amare, convicted of killing 2 JVP activists in 2012. Appeal rejected by Court of Appeal judges Kumaran Ratnam and Sampath Abeykoon.
-
-🟩
-
-The death penalty of the Tangalle High Court today (20) was approved by the Tangalle High Court today.
-
-The appeal was approved by the Court of Appeal Judge by the Court of Appeal, notion that the Tangalle High Court Judge was not intended to intervene after examining the decisions.
-
-Court of Appeal Court Judges. The appeal was heard before Kumaran Ratnam and Sampath Abeykoon.
-
-The Tangalle High Court dismissed the order he was sentenced to death and released. The Attorney General has been named as respondent in this appeal, who had filed Amarasiri or Julampitiye Amare.
-
-The Attorney General had filed a case before the Tangalle High Court against the allegations of two persons, killing two people in the Katuwana area in Hambantota on 15th June 2012.
-
-After a long trial, the Tangalle High Court judge was sentenced to death for the accused.
-
-◼️
-
-[Data](articles/18d1b9c4.json)
-
-[Extended Data](ext_articles/18d1b9c4.ext.json)
-
----
-
-### Ranil to contest India tomorrow
-
-*2024-11-20 18:03:20* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-හෙට-ඉන්දියාවට/11-413179) · `si`
-
-Ranil Wickremesinghe leaves for India on 21st, to deliver lecture at Indoe Sri Lanka Institute of Higher Education at 6 pm.
-
-🟩
-
-Former President Ranil Wickremesinghe is due to leave for India on the 21st (21st).
-
-Ranil Wickremesinghe is also scheduled to hold a lecture at Indoe Sri Lanka Institute of Higher Education at Indoe (Indoe) at Indoe.
-
-The lecture will be held at 6 pm under the participation of the Institute of Higher Education as well as the parents.
-
-◼️
-
-[Data](articles/6692b663.json)
-
-[Extended Data](ext_articles/6692b663.ext.json)
-
----
-
-### Court of Appeal confirms the death penalty imposed in Julampitiye Amare
-
-*2024-11-20 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203569) · `si`
-
-Court of Appeal confirms death penalty for Julampitiye Amare. Justice P. Kumaran Ratnam agrees. Death sentence imposed for JVP meeting in 2012. Defendant appeals but Court dismisses evidence presented.
-
-🟩
-
-GGGs by Tangalle High Court. The December Appeal of the death sentence imposed on Amarasiri (Julampitiye Amare was imposed today.
-
-Justice P. කුමාරන් රත්නම් මහතාගේ එකඟත්වය ඇතිව අභියාචනාධිකරණ විනිසුරු සම්පත් අබේකෝන් මහතා විසින් මෙම තීන්දුව ලබා දුනි.
-
-He was convicted of a meeting of the JVP at the Queen of the JVP in 2012.
-
-තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා ජුලම්පිටිය අමරේ සිය නීතිඥවරුන් මාර්ගයෙන් අභියාචනාධිකරණයට ඇපෑලක් ඉදිරිපත් කර තිබූ අතර එම ඇපෑල තුළින් විත්තිකරු ප්‍රකාශ කළේ මහාධිකරණ නඩු විභාගයේදී විත්ති පාර්ශ්වය විසින් ඉදිරිපත් කළ සාක්ෂි විනිසුරුවරයා විසින් සැලකිල්ලට නොගත් බවය.
-
-The Court of Appeal of the Court of Appeal was inspected by the High Court of Parliament.
-
-According to the Court of Appeal, the Court of Appeal had stated that the defendant confirms the death sentence imposed.
-
-◼️
-
-[Data](articles/3493c63d.json)
-
-[Extended Data](ext_articles/3493c63d.ext.json)
-
----
-
-### Investigating Ravi's appointment
-
-*2024-11-20 17:45:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-நியமனம்-குறித்து-விசாரணை/175-347506) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Committee formed to probe Ravi Karunanayake's appointment. Four members tasked with independent inquiry. Decision made at meeting led by ex-President Ranil Wickremesinghe.
-
-🟩
-
-A four -member committee has been appointed to conduct independent inquiries into the appointment of Ravi Karunanayake as the National List of the New Democratic Front.
-
-The decision was taken during a meeting chaired by former President Ranil Wickremesinghe today.
-
-◼️
-
-[Data](articles/b2212da3.json)
-
-[Extended Data](ext_articles/b2212da3.ext.json)
-
----
-
-### Committee to find out on the receipt of Ravi
-
-*2024-11-20 17:42:59* · [`adalk`](https://www.ada.lk/breaking_news/රවී-මන්ත්‍රීධුරය-ලබා-ගැනීම-ගැන-හොයන්න-කමිටුවක්/11-413177) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Committee formed to investigate Ravi Karunanayake for new Democratic Front. Members: Kumar Danicasin, Indika Weragoda, Yasas De Silva. Report due within 3 weeks to UNP Leader Ranil Wickremesinghe.
-
-🟩
-
-The party has decided to conduct an independent investigation into the name of Ravi Karunanayake to send the name of Ravi Karunanayake to the Elections Commission for the new Democratic Front.
-
-Attorney-at-Law Kumar Danicasin, Attorney-at-Law Indika Weragoda, Committees Secretary - Mr. Yasas De Silva appointed to this committee. The committee report should be handed over to UNP Leader Ranil Wickremesinghe within three weeks.
-
-◼️
-
-[Data](articles/26586548.json)
-
-[Extended Data](ext_articles/26586548.ext.json)
-
----
-
-### Sri Lanka to import 70,000 tonnes of rice to address shortage: Minister
-
-*2024-11-20 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-70000-tonnes-of-rice-to-address-shortage-minister-188960/) · `en`
-
-ECONOMYNEXT – Sri Lanka will import 70,000 metric tonnes of rice to address a shortfall in the market, Minister of Trade, Commerce, Food Security and Cooperative Development Wasantha Samarasinghe said.
-
-“Even though there was a surplus rice production in the country this year, when you go to the market there is no rice,” Samarasinghe told reporters.
-
-“The best decision we can take in this situation is to import rice to meet the demand.”
-
-The rice will be imported by two state agencies, Sathosa and the State Trading Corporation Samarasinghe said.
-
-Sri Lanka ran out short of parboiled rice (nadu) amid price controls which kept it at the same price as red rice, discouraging growing the variety according to demand, analysts say.
-
-RELATED Sri Lanka price controllers investigate rice mill stocks amid Rs65 food tax
-
-In Sri Lanka import duties are 65 rupees a kilo or about 200 dollars a tonne, compared to around 530 dollars a tonne for similar varieties of rice.
-
-◼️
-
-[Data](articles/f9fa58d7.json)
-
-[Extended Data](ext_articles/f9fa58d7.ext.json)
 
 ---

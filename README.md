@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 23:25:41**
+As of **2024-11-21 23:42:06**
 
 ## Newspaper Stats
 
-*Scraped **56,217** Articles*
+*Scraped **56,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 433
 colombotelegraphcom | 575
 bbccomsinhala | 584
 islandlk | 3,357
-economynextcom | 3,407
+economynextcom | 3,413
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,296
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,215 (100.0%) of 56,217 articles have been extended.
+56,215 (100.0%) of 56,223 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -892,6 +892,78 @@ The song is written by songwriter Ilango Krishnan, the playback singer Tipu has 
 
 ---
 
+### Sri Lanka President appoints 29 deputy ministers
+
+*2024-11-21 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-29-deputy-ministers-189264/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed 29 deputy minister from his ruling National People’s Power (NPP) .
+
+Anil Jayantha Fernando is Deputy Minister of Economic Development and Harshana Sooriyapperuma is Deputy Minister of Finance and Planning.
+
+Prof. Anil Jayantha Fernando – Deputy Minister of Economic Development
+
+Wasantha Piyathissa – Deputy Minister of Rural Development, Social Security and Community Empowerment
+
+R.M. Jayawardena – Deputy Minister of Trade, Commerce and Food Security
+
+Gamagedara Dissanayake – Deputy Minister of Buddhasasana, Religious and Cultural Affairs
+
+Rathna Gamage – Deputy Minister of Deputy Minister of Fisheries, Aquatic and Ocean Resources
+
+Arun Kemachandra – Deputy Minister of Foreign Affairs and Foreign Employment
+
+Chathuranga Abeysinghe – Deputy Minister of Industries and Entrepreneurship Development
+
+Eng. Janith Ruwan Kodithuwakku – Deputy Minister of Ports and Civil Aviation
+
+Dr. Namal Sudarshana – Deputy Minister of Women and Child Affairs
+
+...
+
+[Data](articles/7f56d923.json)
+
+---
+
+### Sri Lanka stocks close down as profit taking continues
+
+*2024-11-21 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-as-profit-taking-continues-189270/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader ASPI closed down 1.00 percent, or 131.45 points, at 12,982; while the more liquid S&P SL20 Index closed down 1.49 percent, or 58.36 points, at 3,860.
+
+Turnover was 7 billion. Most of this came from banks (Rs4.5bn).
+
+“There was interest in the banking sector. Investors who had bought stocks at extreme low prices were engaged in profit taking,” market participants said.
+
+Top negative contributors to the ASPI were John Keells Holdings (down at 20.00), Commercial Bank (down at 120.50), Sampath Bank (down at 93.70), Browns Investments (down at 6.10) and LOLC Holdings (down at 448.00).
+
+Top turnover generators were DFCC Bank (up at 86.20), JKH, Citizend Development Business Finance (up at 233.00), Sampath Bank and Commercial Bank.
+
+“Large quantities of bluechips stocks also changed hands, possibly due to some bargain hunting.”
+
+...
+
+[Data](articles/5a6280d6.json)
+
+---
+
+### Sri Lanka rupee closes flat at 290.95/291.05 to dollar, bonds steady
+
+*2024-11-21 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-290-95-291-05-to-dollar-bonds-steady-189266/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 290.95/291.05 to the US dollar on Thursday from 290.95/291.10 to the US dollar on Wednesday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed at 10.15/25 percent, from 10.10/20 percent.
+
+A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/bcbe6638.json)
+
+---
+
 ### Appointment of 29 Deputy Ministers
 
 *2024-11-21 16:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-பிரதியமைச்சர்கள்-நியமனம்/175-347577) · `ta`
@@ -1538,6 +1610,26 @@ The month-on-month change was contributed by a decrease in food items of 0.16% a
 
 ---
 
+### Sri Lanka President vows to prevent racism, communal slogans in politics
+
+*2024-11-21 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-vows-to-prevent-racism-communal-slogans-in-politics-189257/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Marxist-leaned President Anura Kumara Dissanayake promised to prevent politicians using racism as well as communal and religious slogans to capture state power in future.
+
+Dissanayake’s National People’s Power swept the parliament election held last week to record a landslide win with 159 seats in the 225-member parliament.
+
+For the first time in Sri Lankan history, a political party was backed by all Sinhala, Tamil, Muslim, and Catholic communities during the election with the majority of them backing the NPP.
+
+The NPP won 21 out of 22 electoral districts and 150 out of 160 electorates, the official election results showed. A Marxists party led coalition has won national elections for the first time in Sri Lanka’s history.
+
+Dissanayaka in his policy statement during the inaugural session of the new parliament said when racism becomes a theme of a political camp; the definite consequence is counter racism from opposition political camps.
+
+...
+
+[Data](articles/d8eea20f.json)
+
+---
+
 ### Postponement of Parliament until December 3
 
 *2024-11-21 15:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பர்-3-வரை-பாராளுமன்றம்-ஒத்திவைப்பு/175-347566) · `ta`
@@ -1555,6 +1647,28 @@ The postponement was followed by the president's issuance of the government's po
 [Data](articles/0f0dc109.json)
 
 [Extended Data](ext_articles/0f0dc109.ext.json)
+
+---
+
+### Sri Lanka bank financial profiles to improve after ISB restructure: Fitch
+
+*2024-11-21 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-financial-profiles-to-improve-after-isb-restructure-fitch-189250/) · `en`
+
+ECONOMYNEXT – The financial profiles of Sri Lanka’s banks will improve after a successful sovereign debt restructure proposed for local bondholders, Fitch Ratings said with the operating environment also linked to that of the sovereign.
+
+Sri Lanka President Anura Dissanayake said he expected to wrap up ISB restructure by December and sign remaining bilateral debt restructure agreements soon.
+
+“Sri Lanka is close to completing its foreign-currency debt restructuring,” Fitch said.
+
+“A successful outcome, in line with the proposed framework for local bondholders, would be likely to significantly reduce the challenges faced by banks, improving their financial profiles.
+
+“Pressures on foreign- and local-currency funding and liquidity have eased considerably due to better external sector flows and the banks’ efforts to preserve liquidity.
+
+“We expect banks to regain access to foreign-currency wholesale funding, following the restoration of the sovereign’s creditworthiness.”
+
+...
+
+[Data](articles/399161c1.json)
 
 ---
 
@@ -1647,6 +1761,26 @@ Music composer AR Rahman made his debut as composer by Mani Ratnam's 1992 film '
 [Data](articles/bd17f496.json)
 
 [Extended Data](ext_articles/bd17f496.ext.json)
+
+---
+
+### Sri Lanka to expand SME according to state plan: President
+
+*2024-11-21 14:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-sme-according-to-state-plan-president-189244/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s small and medium enterprises will be expanded according to the requirement of a plan developed by the state, President Anura Dissanayake said.
+
+There were some indigenous and native product in Sri Lanka which had to be further developed and taken outside.
+
+“The small and medium enterprises is not a sector that works according to its own wants and according to its own decisions,” President Dissanayake said delivering a statement to the parliament.
+
+“We have to gain a new expansion of the SME sector according to the wants of the State, the requirement of the government. We have made the plans.”
+
+There were greater details in the NPP manifesto and the newly appointed ministers are studying the areas under their purview, he said. (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/3ae30208.json)
 
 ---
 
@@ -2409,179 +2543,5 @@ In the next budget, the salaries of civil servants will be increased. President 
 [Data](articles/53b2cf7f.json)
 
 [Extended Data](ext_articles/53b2cf7f.ext.json)
-
----
-
-### There should be a vice versa in citizens
-
-*2024-11-21 12:17:15* · [`adalk`](https://www.ada.lk/breaking_news/පුරවැසියන්-තුළත්-යපහත්-පරිවර්තයක්-ඇතිවිය-යුතුයි/11-413194) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake outlines economic strategy: IMF support, fair distribution, IT growth, tourism boost, disabled care, baby nutrition programs.
-
-🟩
-
-President Anura Kumara Dissanayake said he should not afford large shocks and strict restrictions on all the maturity of the economy.
-
-The President made it for the President that the International Monetary Fund (IMF) would have come to Sri Lanka when the General Elections was held in the Policics of the International Monetary Fund.
-
-He said that according to the President, the economy will be further confirmed by the presidential election.
-
-He added that the new economic strategy should be entered into the new economic strategy to cover the crisis in the economic remains.
-
-Accordingly, there should be rapid and expansion of goods and services and that the other province and other provinces should produce fast and expansion of goods and services.
-
-The President said that the people should be partners in the economy and they would benefit from it.
-
-The President said that the economy would not stimulate the economy and the economy should be a fair share of the economy.
-
-...
-
-[Data](articles/0b50cf7b.json)
-
-[Extended Data](ext_articles/0b50cf7b.ext.json)
-
----
-
-### Rishad's letter regarding the death of mother and Chey
-
-*2024-11-21 12:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-சேய்-உயிரிழந்தமை-தொடர்பாக-ரிஷாட்-கடிதம்/175-347556) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rishad Bathiudeen requests inquiry into mother's death at Mannar Hospital. Death sparks public doubt & investigation. Hospital faces scrutiny after similar incident involving Sindhuja.
-
-🟩
-
-All Ceylon People's Congress President Rishad Bathiudeen, who has been elected to Parliament from the Vanni district, has asked Health Minister Nalinda Jayadissa to be asked to carry out public inquiries into the death of her mother and Chee at the Mannar General Hospital.
-
-The young mother, who died on Tuesday (19), sent the letter to the death of Chey.
-
-In this case, her relatives have pointed out to those who are on duty and have been allowed into the ordinary maternity unit regarding some of the abuse, including the mother breathing.
-
-The mother is in a very difficult situation. Again, her relatives have been accused of not considering the doctors and nurses in this regard and that the mother's death may have occurred.
-
-It is suspected that the death may have been due to all the facilities at the Mannar Hospital.
-
-Following this, the Mannar Magistrate ordered the bodies of the two men to be sent to the Jaffna Teaching Hospital for examination and further investigations.
-
-...
-
-[Data](articles/27c10606.json)
-
-[Extended Data](ext_articles/27c10606.ext.json)
-
----
-
-### Sri Lanka expects IMF staff level agreement by Nov 23: President
-
-*2024-11-21 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-imf-staff-level-agreement-by-nov-23-president-189143/) · `en`
-
-ECONOMYNEXT – Sri Lanka hopes to sign a staff level agreement with the International Monetary Fund by November 23, Sri Lanka’s President Anura Dissanayake said.
-
-“We hope to reach a staff level agreement with the IMF team in the island by November 23,” President Dissanayake said addressing the inaugural convening of Sri Lanka’s tenth parliament on Thursday.
-
-Sri Lanka will work within the parameters of the IMF plan, the president said. “The economy has to be managed with extreme care [siyumva].”
-
-A budget will be presented to parliament in February and passed by mid-March 2025, he said.
-
-An IMF program usually requires a budget in line with its parameters.
-
-The economy cannot bear many shocks and it has to be carefully handled, he said.
-
-Sri Lanka hoped to conclude sovereign bond restructuring by December.
-
-There no point in debating whether a better deal could be reached, and it would have taken more time, President Dissanayake said.
-
-...
-
-[Data](articles/4bf32d0a.json)
-
-[Extended Data](ext_articles/4bf32d0a.ext.json)
-
----
-
-### Increase in visual impairment among children with electronic screen use!
-
-*2024-11-21 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199299) · `ta`
-
-Electronic screen use linked to rising child visual impairments. Eye specialist warns of potential long-term effects on young vision health.
-
-🟩
-
-Anusha Southkumbura, an eye specialist at the Colombo Children's Hospital, said that the use of electronic screen use is increasing among children.
-
-The doctor pointed out that there is a shortage of short views or long -vision impacts among the boys.
-
-The doctor said this while attending a media briefing held at the Health Development Bureau.
-
-◼️
-
-[Data](articles/ed0233e3.json)
-
-[Extended Data](ext_articles/ed0233e3.ext.json)
-
----
-
-### Law enforces all murders that led to controversy
-
-*2024-11-21 11:52:54* · [`adalk`](https://www.ada.lk/breaking_news/ආන්දෝලනයට-තුඩු-දුන්-සියලු-ඝාතන-වලට-නීතිය-ක්‍රියාත්මක-කරනවා/11-413193) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan President addresses Parliament, emphasizing law enforcement for controversial murders. He highlights public service dissatisfaction and calls for efficient governance. The President stresses the importance of rule of law and accountability.
-
-🟩
-
-He added that he saw the decline in 24 years and the assistance of all to restore parliament.
-
-He added that Parliament will continue to open an open center to the public.
-
-He made this statement by delivering the policy statement of the new Parliament.
-
-This is the first time that the highest number of public servants in the history of Sri Lanka was voted for an idol.
-
-He added that there is no obvious picture of the public service and that there is no satisfaction in the public servant.
-
-He added that public servants have shown the consent of the policies that have presented to the national folk service.
-
-He said politicians and an efficient public service needed a country turning a country. He also said that he had consented to public servants for this purpose.
-
-He said that everyone would create a doubtful country without fear and protecting the law.
-
-...
-
-[Data](articles/08492dd7.json)
-
-[Extended Data](ext_articles/08492dd7.ext.json)
-
----
-
-### Chinese Ambassador visited Batticaloa;To ensure new technical exercises to East Journalists
-
-*2024-11-21 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199306) · `ta`
-
-Chinese Ambassador visits Batticaloa, discusses development projects. Promises technical training for Eastern Province journalists. Announces aid: 1.5 billion for Sri Lanka, vaccine support, scholarships, food assistance, education funding. Hands over homes in Kaluwangeeni area.
-
-🟩
-
-A special meeting between the Chinese Ambassador Kiu Senhong and the Civil community of the Batticaloa district was held on Wednesday (20) at a tourist hotel in Batticaloa.
-
-The development projects of the Batticaloa district and a variety of issues were discussed during this period.. The delegation, led by the leader of the Batticaloa District Civil Society Organization, S. Mamangarajah, has also presented plans to the Chinese Ambassador to the Chinese Ambassador, including the main production sectors of the district, such as fishing, agriculture, livestock and tourism.
-
-Meanwhile, the civil society has appealed to the Ambassador to the journalists from the Eastern Province to provide a new technical training in China.. Responding to this, the ambassador promised that this was a very welcome answer.
-
-...
-
-[Data](articles/e4aab60c.json)
-
-[Extended Data](ext_articles/e4aab60c.ext.json)
 
 ---

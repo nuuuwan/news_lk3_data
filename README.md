@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 06:47:19**
+As of **2024-11-21 05:50:14**
 
 ## Newspaper Stats
 
-*Scraped **56,038** Articles*
+*Scraped **56,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,272
 adaderanalk | 6,764
-tamilmirrorlk | 7,944
+tamilmirrorlk | 7,943
 virakesarilk | 9,099
 adaderanasinhalalk | 9,679
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,030 (100.0%) of 56,038 articles have been extended.
+56,027 (100.0%) of 56,037 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -312,22 +312,6 @@ The Ambassador noted that the Chinese government had already provided the techni
 
 ---
 
-### முல்லைத்தீவில் கோர விபத்து: 2 இளைஞர்கள் பலி
-
-*2024-11-21 01:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவில்-கோர-விபத்து-2-இளைஞர்கள்-பலி/175-347529) · `ta`
-
-முல்லைத்தீவு, மல்லாவி - வன்னிவிளாங்குளம் பகுதியில் நேற்று புதன்கிழமை மாலை இடம்பெற்ற விபத்தில் 2 இளைஞர்கள் உயிரிழந்துள்ளதுடன் மற்றுமொருவர் படுகாயமடைந்துள்ளார்.
-
-மாங்குளத்திலிருந்து மல்லாவி நோக்கி வந்த மோட்டார் சைக்கிளும் மல்லாவி பகுதியிலிருந்து மாங்குளம் நோக்கிச் சென்று கொண்டிருந்த மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதிக்கொண்டதாலேயே இந்த  விபத்து இடம்பெற்றுள்ளது.
-
-இதன்போது வன்னிவிளாங்குளம் பகுதியைச் சேர்ந்த சந்திரன் விதுசன் (வயது 20), மாங்குளம் - புதிய கொலணி பகுதியைச் சேர்ந்த விஜயகுமார் விதுர்சன் (வயது 20) ஆகிய இளைஞர்களே உயிரிழந்துள்ளனர். (a)
-
-◼️
-
-[Data](articles/3b547b6b.json)
-
----
-
 ### Imran's Saka Court
 
 *2024-11-21 01:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிப்பானை-இம்ரானின்-சகா-நீதிமன்றத்தில்-முன்னிலை/175-347527) · `ta`
@@ -398,8 +382,6 @@ Elevating its digital presence to new heights, National Development Bank PLC (ND
 
 [Data](articles/8db3b254.json)
 
-[Extended Data](ext_articles/8db3b254.ext.json)
-
 ---
 
 ### 2024-11-20 (Wednesday)
@@ -420,8 +402,6 @@ The full text of the SLBA congratulatory message: “Please accept our heartfelt
 
 [Data](articles/41014478.json)
 
-[Extended Data](ext_articles/41014478.ext.json)
-
 ---
 
 ### Sri Lanka’s current nutrition challenges: How can they be addressed?
@@ -437,8 +417,6 @@ The nutritional landscape can significantly improve through shifts in tobacco an
 ...
 
 [Data](articles/cb685a32.json)
-
-[Extended Data](ext_articles/cb685a32.ext.json)
 
 ---
 
@@ -2419,5 +2397,29 @@ A majority of the NPP MPs have been elected to the parliament for the first time
 [Data](articles/3abf1cde.json)
 
 [Extended Data](ext_articles/3abf1cde.ext.json)
+
+---
+
+### Will the pill be arrested?
+
+*2024-11-20 13:09:34* · [`adalk`](https://www.ada.lk/breaking_news/පිල්ලයානුත්-අත්අඩංගුවට-ගනියිද--/11-413166) · `si`
+
+Pillayan arrives at CID to give statement about Channel 4's Easter attack coverage. Claims informed earlier but couldn't attend due to elections. Maintains innocence regarding Passover attack involvement.
+
+🟩
+
+Former Minister Sivanesathurai Chandrakanthan, or Pillayan, arrived at the CID today (20).
+
+It is to give a statement regarding the issues of the Channel 4 of the Passover attacks on the Sunday terrorist attack.
+
+He said he had informed him to appear before the CID on the 12th, but he added that he was unable to attend the last election.
+
+He said he was fully supported by all the senses involved in the Passover attack and he was not guilty and returned to the Criminal Investigations.
+
+◼️
+
+[Data](articles/89a68b02.json)
+
+[Extended Data](ext_articles/89a68b02.ext.json)
 
 ---

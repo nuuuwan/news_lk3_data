@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 12:01:33**
+As of **2024-11-21 11:42:40**
 
 ## Newspaper Stats
 
-*Scraped **56,099** Articles*
+*Scraped **56,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,357
 economynextcom | 3,401
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,281
+adalk | 5,280
 adaderanalk | 6,777
-tamilmirrorlk | 7,963
+tamilmirrorlk | 7,959
 virakesarilk | 9,103
 adaderanasinhalalk | 9,689
 
@@ -26,83 +26,11 @@ adaderanasinhalalk | 9,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,090 (100.0%) of 56,099 articles have been extended.
+56,090 (100.0%) of 56,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### “சட்டத்துக்கு மேல் யாருமில்லை”
-
-*2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்துக்கு-மேல்-யாருமில்லை/175-347554) · `ta`
-
-அக்கிராசனத்தில் இருந்து நாட்டு மக்களுக்கு உரையாற்றிகொண்டிருக்கும் ஜனாதிபதி அனுரகுமார திசாநாயக்க, சட்டத்துக்கு மேல் யாரும் இல்லை, நான், உட்பட அனைவரும் சட்டத்துக்கு ​கீழ்படிந்தவர்கள். அத்துடன், கடந்தகாலங்களில் இடம்பெற்ற  மிகவும் கொடூரமான சம்பவங்கள் தொடர்பில், விசாரணைகள் முன்னெடுக்கப்பட்டு, சட்டத்தின் முன், நிறுத்தப்படுவார்கள்.
-
-◼️
-
-[Data](articles/bcfb039f.json)
-
----
-
-### மூவர் CIDயில் முன்னிலை
-
-*2024-11-21 11:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூவர்-CIDயில்-முன்னிலை/175-347552) · `ta`
-
-முன்னாள் அமைச்சர்களான ரமேஷ் பத்திரன, ரொஷான் ரணசிங்க, பிரசன்ன ரணதுங்க ஆகியோர் வியாழக்கிழமை (21) காலை குற்றப் புலனாய்வு திணைக்களத்திற்கு வருகைதந்துள்ளனர்.
-
-தரமற்ற நோய் எதிர்ப்பு மருந்துகளை கொள்வனவு செய்வது தொடர்பில் முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்லவினால் தாக்கல் செய்யப்பட்ட அமைச்சரவை பத்திரத்தின் அங்கீகாரம் தொடர்பில் வாக்குமூலம் பெற்றுக்கொள்வதற்காகவே இவர்கள் குற்றப் புலனாய்வு திணைக்களத்திற்கு அழைக்கப்பட்டுள்ளனர்.
-
-முன்னாள் அமைச்சர் ஹரின் பெர்னாண்டோ வெள்ளிக்கிழமை (22) குற்றப் புலனாய்வுப் பிரிவினரிடம் ஆஜராகவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-இதற்கமைய, முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல சபையில் முன்வைத்த அமைச்சரவைப் பத்திரத்தின் அங்கீகாரம் தொடர்பில் அப்போது அமைச்சரவையை பிரதிநிதித்துவப்படுத்திய முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான 18 அமைச்சர்களிடம் வாக்குமூலம் பெறவுள்ளதாக குற்றப் புலனாய்வுத் திணைக்களம் கடந்த 11ஆம் திகதி மாளிகாகந்த நீதவான் நீதிமன்றில் அறிவித்திருந்தமை குறிப்பிடத்தக்கது.
-
-...
-
-[Data](articles/6a511bad.json)
-
----
-
-### “இனவாதத்துக்கு இடமளியேன்”
-
-*2024-11-21 11:40:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனவாதத்துக்கு-இடமளியேன்/175-347551) · `ta`
-
-இனவாதத்துக்கோ, மதவாதத்துக்கோ, அதன் ஊடாக அரசியல் செய்வதற்கோ இனிமேல், எந்தவொரு சந்தர்ப்பத்திலும் இடமளிக்க​மாட்டேன், என்று ஜனாதிபதி அனுரகுமார திசாநாயக்க, அக்கிராசனத்தில் இருந்து நாட்டு மக்களுக்கு உரையாற்றும் போதே கூறினார்.
-
-◼️
-
-[Data](articles/46511e65.json)
-
----
-
-### ஜனாதிபதி வந்தடைந்தார்
-
-*2024-11-21 11:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வந்தடைந்தார்/175-347547) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்க, பாராளுமன்றத்துக்கு சற்றுமுன்னர் வந்தடைந்தார். அவரை, சபாநாயகர் கலாநிதி அசோக ரன்வல, பிரதமர் கலாநிதி அருணி அமரசூரிய ஆகியோர் அழைத்துச் சென்றனர். மிகவும் எளிமையான முறையில், ஜனாதிபதியின் வருகை இம்முறை இடம்பெற்றது.
-
-படைகளின் அணிவகுப்பு, மரியாதை வேட்டுக்களைத் தீர்த்தல், மங்கள கீதமிசைத்தல் உள்ளிட்டவை எவையும் இம்முறை இடம்பெறவில்லை என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/c2242cad.json)
-
----
-
-### හිටපු ජනපති ඉන්දියාවට
-
-*2024-11-21 11:25:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-ඉන්දියාවට/11-413191) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 11/21 දින උදෑසන ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය .
-
-එතුමා සමග ඔහුගේ බිරිඳ මෛත්‍රී වික්‍රමසිංහ , සාගල රත්නායක සහ තවත් ඔවුන්ගේ සහායකවරයෙකු මෙම සංචාරය සදහා පිටත්ව ගිය බැව් ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා වැඩිදුරටත් පැවසීය .
-
-ඔවුන් 11/21 දින උදෑසන  08.19  ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 282 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගොස් තිබුණි .
-
-◼️
-
-[Data](articles/b96f273b.json)
-
----
 
 ### Substandard drugs scandal: Ex-ministers Ramesh, Roshan, Prasanna arrive at CID
 
@@ -1258,11 +1186,11 @@ Over a decade, Sri Lanka’s politics has displayed extreme electoral volatility
 
 *2024-11-21 02:41:36* · [`dailyftlk`](https://www.ft.lk/columns/New-chapter-for-Sri-Lanka-Call-for-responsible-governance/4-769506) · `en`
 
+President Anura Kumara Dissanayake and the NPP now have the mandate to rewrite Sri Lanka’s story
+
 With the recent General election victory of the National People’s Power (NPP), Sri Lanka has entered a new chapter in its history. This moment of transition offers a unique opportunity to address the deep-rooted issues that have plagued our governance, economy, and social fabric. The people of Sri Lanka have spoken decisively, expressing their desire for change, transparency, and a fresh approach to leadership.
 
 This article seeks to advise the new administration on critical priorities, highlighting the mistakes of the past and proposing pathways to ensure long-term prosperity, public satisfaction, and fiscal responsibility.
-
-Over the years, successive governments have been criticised for systemic corruption, policy inconsistency, and economic mismanagement. From large-scale scandals like the Central Bank Bond Scam and the Avant Garde Maritime Scandal to misjudged projects like the Mattala Rajapaksa International Airport and many more, public trust in leadership has eroded significantly.
 
 ...
 
@@ -2341,5 +2269,123 @@ Hundreds of people have been killed and between 100,000 and 130,000 others have 
 [Data](articles/dbf55cdd.json)
 
 [Extended Data](ext_articles/dbf55cdd.ext.json)
+
+---
+
+### 50 people belonging to 15 families due to heavy rains in Jaffna
+
+*2024-11-20 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199269) · `ta`
+
+Heavy rains in Jaffna affect 50 people from 15 families, damaging homes and infrastructure.
+
+🟩
+
+Deputy Director of the Jaffna District Disaster Management Division, TN Suriyarajah, said that 50 people from 15 families in Jaffna have been affected by the ongoing heavy rains.
+
+Two family members of the J/315 Grama Sevakar Division, which belongs to the Chavakachcheri Divisional Secretariat, and two members of a family in the J/328 Grama Sevaka Division. Two houses have been damaged.
+
+In addition, 8 people from two families have been affected and a house has been partially damaged in the J/56 Grama Niladhari Division of the Kayts Divisional Secretariat Division.
+
+Six people from three families belonging to the Point Pedro Divisional Secretariat have been affected and two houses have been damaged. In the J/403 Grama Niladhari Division, 29 people from 7 families have been affected and 6 houses have been damaged.
+
+He added that a family belonging to a family in the J/91 Grama Niladhari Division, which belongs to the Nallur Divisional Secretariat Division, has been damaged by a house.
+
+◼️
+
+[Data](articles/590b7751.json)
+
+[Extended Data](ext_articles/590b7751.ext.json)
+
+---
+
+### Supervision of the Cabinet and report to the President
+
+*2024-11-20 19:13:07* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-අධීක්ෂණය-කර-ජනපතිට-වාර්තා-කිරීමට-අධීක්ෂණ-මණ්ඩලයක්/11-413184) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Board of Supervisors oversees Cabinet activities, reports to President. Experienced members appointed. President monitors progress, informs Cabinet of expectations. Action committees formed in Ministries.
+
+🟩
+
+A Board of Supervisory Board is to be appointed to oversee the activities of the Cabinet. It was also reported that the Board of Supervisors will be appointed and experienced.
+
+Accordingly, the president of the Supervisors is responsible for the overseeing the activities of the Cabinet and reporting the progress of the activities.. It is reported that the guidelines have been given to the new Cabinet and the task and progress of each ministries.
+
+It is reported that the President has informed the Cabinet of Ministers that if the ministers fail to meet their tasks and goals.Meanwhile, action committees are to be appointed to all Ministries.
+
+◼️
+
+[Data](articles/7e8d5d47.json)
+
+[Extended Data](ext_articles/7e8d5d47.ext.json)
+
+---
+
+### Health Notes have been discroomed by 213
+
+*2024-11-20 19:08:49* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයේ-ඇඟිලි-සටහන්-යන්ත්‍ර-213-භාවිතයට-නොගෙනම-නිශ්ක්‍රීය-වෙලා/11-413183) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Audit reveals 21.3 million unreported to Health Ministry. Overtime payments questioned. Trade unions protest implementation of new instructions.
+
+🟩
+
+The latest audit report released on November 16, the National Conclusion Report issued by the National Conclusion Machines were not used to report 21.3 million to the Ministry of Health..
+
+According to a letter issued by the Secretary of the Ministry of Health, the health staff's arrival and exit to the arrival of the interior SC, the current salary should be made sure that overtime should not be paid according to the current salary.
+
+38,236,83 million was paid for 38,236,83 million for the health staff from January 2023 to health staff.. The audit report states that the total amount spent on overtime and holidays is 72% of the salary expenditure.
+
+The main number of Health Ministry's main number of instructions is issued to the Audit of the Public Administration Circular Service, but to implement the Ministry of Health to implement it due to trade union protestsIt is not possible to run.
+
+◼️
+
+[Data](articles/0d33618e.json)
+
+[Extended Data](ext_articles/0d33618e.ext.json)
+
+---
+
+### Namal's mission to remove military camp in the north
+
+*2024-11-20 19:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-இராணுவ-முகாம்-அகற்றப்பட்டதற்கு-நாமல்-விசனம்/175-347511) · `ta`
+
+Namal Rajapaksa opposes removal of military camps in North, citing national security concerns. He urges consultation with security forces to balance land rebuilding with maintaining national safety.
+
+🟩
+
+The National Coordinator of the Sri Lanka PA (SLPP), Namal Rajapaksa, has expressed concern over the recent removal of a military camp in the Northern Province and planning to remove more camps in the coming months.
+
+Although it is not a problem for the people to rebuild the land, he urged his X site to consult with the security forces in consultation with the security forces to prevent the compromise in national security.
+
+Rajapakse said, "Sri Lanka has fought against 30 years of terrorism, and today all communities are sacrificing thousands of lives and enjoying freedom," Rajapakse said.
+
+He added that it is very important to maintain national security, regardless of the geographical location, whether in the north or south.
+
+◼️
+
+[Data](articles/6ce687e7.json)
+
+[Extended Data](ext_articles/6ce687e7.ext.json)
+
+---
+
+### Digital Nomads & The New Travel Economy: How Remote Work Is Changing Tourism
+
+*2024-11-20 19:06:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/digital-nomads-the-new-travel-economy-how-remote-work-is-changing-tourism/) · `en`
+
+The rise of remote work has fundamentally transformed the traditional workplace, and with it, the tourism industry. This shift has given birth to a new class of travellers: digital nomads. Digital nomads – professionals who work remotely while traveling – have redefined the concept of work-life balance, blending work with exploration in new and exotic locations. Their lifestyle has reshaped local economies, tourism infrastructures, and even social dynamics in many destinations worldwide. This article explores the rise of digital nomads, their impact on the travel economy, and the challenges and opportunities they present for the tourism industry.
+
+...
+
+[Data](articles/c5ead881.json)
+
+[Extended Data](ext_articles/c5ead881.ext.json)
 
 ---

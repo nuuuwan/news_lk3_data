@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 19:18:07**
+As of **2024-11-21 20:26:17**
 
 ## Newspaper Stats
 
-*Scraped **56,183** Articles*
+*Scraped **56,189** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
-colombotelegraphcom | 574
-bbccomsinhala | 583
+colombotelegraphcom | 575
+bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,293
-adaderanalk | 6,791
-tamilmirrorlk | 7,981
+adalk | 5,294
+adaderanalk | 6,793
+tamilmirrorlk | 7,982
 virakesarilk | 9,126
 adaderanasinhalalk | 9,698
 
@@ -26,11 +26,89 @@ adaderanasinhalalk | 9,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,182 (100.0%) of 56,183 articles have been extended.
+56,188 (100.0%) of 56,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### Arrest warrant issued against former Minister Douglas Devananda
+
+*2024-11-21 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103676/arrest-warrant-issued-against-former-minister-douglas-devananda) · `en`
+
+The Colombo Magistrate’s Court today (21) issued an arrest warrant against former Minister Douglas Devananda after he failed to appear before the court to testify in an ongoing case.
+
+The case pertaining to a complaint lodged by Devananda with the Criminal Investigation Department (CID) in 2016, accusing Wellawatta-based businessman Subramaniam Manoharan of issuing two fraudulent cheques, each valued at Rs. 10 million, was taken up before the court today.
+
+Despite being summoned to testify in court today, former Minister Devananda was absent. While his attorney claimed he was unwell, no medical documentation was submitted to substantiate the claim, Ada Derana reporter said.
+
+Given the lack of credible justification for his absence, the Magistrate ordered the issuance of warrants to arrest and produce Devananda in court.
+
+◼️
+
+[Data](articles/bd4369c7.json)
+
+[Extended Data](ext_articles/bd4369c7.ext.json)
+
+---
+
+### MS Naleem was selected on the national list
+
+*2024-11-21 19:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்-பட்டியலில்-தெரிவானார்-எம்-எஸ்-நளீம்/175-347579) · `ta`
+
+Here's a 200-character summary:
+
+
+
+MS Naleem chosen for national list by Sri Lanka Muslim Congress. Former Eravur Municipal Council Chairman elected as National List Member of Parliament.
+
+🟩
+
+The Sri Lanka Muslim Congress (SLMC) has elected MS Naleem, former Chairman of the Eravur Municipal Council as its National List Member of Parliament.
+
+◼️
+
+[Data](articles/9b2f465a.json)
+
+[Extended Data](ext_articles/9b2f465a.ext.json)
+
+---
+
+### An Opposition Leader Same MP was not a Member of Parliament
+
+*2024-11-21 19:09:49* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂ-නායක-අසුනේ-වාඩිවුණ-මන්ත්‍රී-ජාජබ-මන්ත්‍රීවරයෙක්-නෙමෙයි/11-413209) · `si`
+
+Opposition Leader not in Parliament: Chief denies claim. Statement clarifies MP replaced by 17 independents from Jaffna. Debunks media reports of involvement in national issues.
+
+🟩
+
+The Chief of Government Whistter said that the Opposition Leader was not a member of the National Power in Parliament at the beginning of Parliament.
+
+The announcement states that the MP has been competed by the 17 Independent groups from the Jaffna district.
+
+The statement further states that some media reports that the MP is involved in the national country is false.
+
+◼️
+
+[Data](articles/910e5342.json)
+
+[Extended Data](ext_articles/910e5342.ext.json)
+
+---
+
+### M.S. Naleem nominated as SLMC National List MP
+
+*2024-11-21 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103675/ms-naleem-nominated-as-slmc-national-list-mp) · `en`
+
+The Sri Lanka Muslim Congress (SLMC) has named the former Chairman of Eravur Urban Council, M.S. Naleem, as its National List MP.
+
+◼️
+
+[Data](articles/76057496.json)
+
+[Extended Data](ext_articles/76057496.ext.json)
+
+---
 
 ### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
 
@@ -844,6 +922,20 @@ An amateur boxer in his youth, Prescott was a pugnacious politician who memorabl
 
 ---
 
+### Full Speech: President Anura Kumara Dissanayake’s Policy Statement
+
+*2024-11-21 14:44:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/full-speech-president-anura-kumara-dissanayakes-policy-statement/) · `en`
+
+The Full Speech Delivered by President Anura Kumara Dissanayake at the Inauguration of the First Session of the Tenth Parliament (21.11.2024)
+
+Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
+
+...
+
+[Data](articles/10836e5c.json)
+
+---
+
 ### Rahman - Saira Division and Mohini Dev are not involved
 
 *2024-11-21 14:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ரஹ்மான்-சாய்ரா-பிரிவுக்கும்-மோஹினி-தேவுக்கும்-தொடர்பு-இல்லை/54-347563) · `ta`
@@ -1164,6 +1256,38 @@ Fishermen from the Mullaitivu district go to sea and spend their lives with a hu
 
 ---
 
+### Bribery case in US in Sri Lanka
+
+*2024-11-21 13:22:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dylx29gvo) · `si`
+
+Here's a summary of the bribery case in 200 characters:
+
+
+
+US bribery case against Indian businessman Gautam Rajapakse accused of $250M fraud. Charges filed in New York alleging he bribed officials for renewable energy contracts. Case involves $3B loans and bonds.
+
+🟩
+
+Bribery case in US in Sri Lanka
+
+The US has been accused of fraud in America against the Indian militant Gautam Printer, and he has not been able to plan and uncovered US $ 250 million.
+
+Wednesday (Nov. 21) Criminal charges filed in New York, 62-year-old assailants, a richest man in New York, was the latest attack. His business empire is harvested from ports and airports to renewable energy.
+
+Attorneys on the indictment, lawyers have accused the super-rich and other senior senior executives that the Indian officials have agreed to provide more than 20 billion US $ 2 billion to get contracts to his renewable energy company.
+
+Although I asked to respond, the Ahani did not immediately respond.
+
+The US Group has operated from 2023 and announced a report accused by a top company by a top company.. The allegations led to the value of the stock market, refusing Gautam Rajapakse.
+
+...
+
+[Data](articles/8f41031f.json)
+
+[Extended Data](ext_articles/8f41031f.ext.json)
+
+---
+
 ### Sri Lanka likely to sign IMF staff-level agreement on Nov. 23
 
 *2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-dec-23) · `en`
@@ -1204,17 +1328,31 @@ The President acknowledged the delay in the third review, initially scheduled fo
 
 ---
 
-### කුවේටයේ ශ්‍රමිකයන්ට හා විදේශිකයන්ට දැනුම් දීමක්
+### Notice to the workers of Kuwait and foreigners
 
 *2024-11-21 13:14:46* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-ශ්‍රමිකයන්ට-හා-විදේශිකයන්ට-දැනුම්-දීමක්/11-413197) · `si`
 
-කුවේට් රාජ්‍යයේ සේවය කරන ශ්‍රමිකයින්ට හා විදේශකයින්ට සිය ජීවමිතික (Biometric) ඇඟිලි සලකණු ලබා දෙන ලෙස එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් විශේෂ නිවේදනයක් මගින් දැනුම් දී තිබෙන අතර, එලෙස ඇඟිලි සලකුණු ලබා දිය හැකි අවසාන දිනය  2024 දෙසැම්බර් 31 දිනයෙන්  අවසන් වන බව සඳහන් කර තිබේ.
+Here's a summary in 200 characters:
 
-පසුගිය සැප්තැම්බර් මස අවසන් වීමට  නියමිතව තිබූ මෙම දිනය යළි දෙසැම්බර් 31 වෙනිදා දක්වා දීර්ඝ කර තිබේ. කුවේට් රාජ්‍යයේ සේවය කරන සියලුම ශ්‍රී ලාංකික ශ්‍රමිකයින් ඇඟිලි සලකණු එරට අභ්‍යන්තර අමාත්‍යංශය විසින් නිවේදනය කර ඇති ස්ථානවලදී ලබාදෙන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ඉල්ලා සිටියි.
+
+
+Kuwait Ministry extends fingerprint deadline to Dec 31. Sri Lankan workers can choose online locations like Hawally, Jahra, Ahmadi. Government banks exempt from fingerprinting requirement.
+
+🟩
+
+The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide the fingerprints of the Kuwait state and the fingerprints of their livestock.
+
+The date on which was due to end in September has been extended to December 31 again to December. The Sri Lanka Bureau of Foreign Employment requests the Finger Farmers of the Kuwait's Sri Lankan workers at the Interior Ministry.
+
+Accordingly, the Biometric. It also allows to choose an approximate place to give fingerprints in online mechanism. Accordingly, Hawaali (Hawaally) Farwaniya, Ahmade Mubarak Mubarak Mubarak, Mubarak Al Kabir (JAHRA), is located at the security directors of the security directors.
+
+In addition, people in the Department of Investigation Department can be done in the Department of Investigation for the provision of finger viewers in Ali Saba Al Salim, Umm Al-Nema and Jerro.
 
 ...
 
 [Data](articles/1e058f92.json)
+
+[Extended Data](ext_articles/1e058f92.ext.json)
 
 ---
 
@@ -2405,143 +2543,5 @@ Following this announcement, proceedings were adjourned until 11:30 a.m., when t
 [Data](articles/35898f13.json)
 
 [Extended Data](ext_articles/35898f13.ext.json)
-
----
-
-### MP Rizvie Salih elected Deputy Speaker of Parliament
-
-*2024-11-21 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103657/mp-rizvie-salih-elected-deputy-speaker-of-parliament) · `en`
-
-The National People’s Power (NPP) Colombo District Member of Parliament, Dr. Rizvie Salih has been unanimously elected as the new Deputy Speaker of Parliament.
-
-He was nominated by Minister of Health and Media Nalinda Jayatissa, while the proposal was seconded by Minister of Women and Child Affairs Saroja Paulraj.
-
-Dr. Rizvie Salih, who contested the 2024 General Election from the Colombo District representing the NPP, secured the 12th highest votes in the district having polled 73,018 preference votes.
-
-Meanwhile, Gampaha District NPP MP Hemali Weeraseekara was elected as the Deputy Chairperson of Committees.
-
-Weeraseekara secured her seat in the Parliament as she polled 66,737 votes in the Gampaha District in the 2024 General Election.
-
-The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
-
-...
-
-[Data](articles/53439f2b.json)
-
-[Extended Data](ext_articles/53439f2b.ext.json)
-
----
-
-### Hemali Weerasekera appointed Deputy Chairman of Parliamentary Committees
-
-*2024-11-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199295) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Hemali Weerasekera named Deputy Chairman of Parliamentary Committees. This appointment underscores her growing influence in Sri Lankan politics."
-
-🟩
-
-◼️
-
-[Data](articles/b2510870.json)
-
-[Extended Data](ext_articles/b2510870.ext.json)
-
----
-
-### Muhammad Rizvi Sally as Deputy Speaker
-
-*2024-11-21 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதி-சபாநாயகராக-முஹம்மத்-ரிஸ்வி-சாலி/175-347538) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Muhammad Rizvi Sally elected Deputy Speaker Tenth Parliament. Minister Nalinda Jayadissa proposed nomination.
-
-🟩
-
-Mohamed Rizvi Sally has been elected as the Deputy Speaker of the Tenth Parliament.
-
-Minister Nalinda Jayadissa proposed his name and proposed it.
-
-◼️
-
-[Data](articles/af908586.json)
-
-[Extended Data](ext_articles/af908586.ext.json)
-
----
-
-### Opposition Leader Sajith
-
-*2024-11-21 10:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவர்-சஜித்/175-347537) · `ta`
-
-Sajith Premadasa named Opposition Leader in Sri Lanka's 10th Parliament. Speaker Dr. Asoka Ranwala made announcement in House.
-
-🟩
-
-Speaker Dr. Asoka Ranwala announced in the House that Sajith Premadasa has been appointed as the Opposition Leader of the Tenth Parliament.
-
-◼️
-
-[Data](articles/774f355a.json)
-
-[Extended Data](ext_articles/774f355a.ext.json)
-
----
-
-### Ramesh - Roshan - Pleasant CID comes under this - Harin is not going today
-
-*2024-11-21 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203592) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Former ministers visit CID; Harin summoned tomorrow; 18 ministers questioned about vaccine purchases; investigations ongoing regarding cabinet approvals and drug shortages.
-
-🟩
-
-Former ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga arrived at the CID this morning.
-
-Former Health Minister Keheliya Rambukwella has approved the cabinet paper, which has been approved by former Health Minister Keheliya Rambukwella.
-
-Former minister Harin Fernando has been told by the CID tomorrow (22).
-
-The Criminal Investigations Department (CID) was informed of 18 ministers who were speaking to the Cabinet of Minister Keheliya Rambukwella to purchase standard antibody injections.
-
-The Deputy Solicitor General Lakhahagama said that 182 other members of the Cabinet of Health Cabinet has been submitted to the Cabinet of Health on September 26, 202 to the Cabinet of Health Cabinet.
-
-The Deputy Solicitor General of the Government Solicitor General of the Government Solicitor General that the cabinet should not be actually any of the drug deficit, regardless of the drug shortages.
-
-...
-
-[Data](articles/51f8e004.json)
-
-[Extended Data](ext_articles/51f8e004.ext.json)
-
----
-
-### New Members of Parliament sworn-in
-
-*2024-11-21 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103656/new-members-of-parliament-sworn-in) · `en`
-
-The newly elected Members of Parliament were sworn in following the election of the Speaker during the inaugural session of the new Parliament this morning.
-
-The MPs of the tenth Parliament took oath before the new Speaker Asoka Ranwala in the chambers.
-
-The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
-
-After the General Secretary of the Parliament Mrs. Kushani Rohanadheera read the gazette notification issued by the President with regard to the inaugural session of the 10th Parliament, National People’s Power (NPP) Gampaha District MP Asoka Sapumal Ranwala was unanimously elected as the new Speaker of Parliament.
-
-◼️
-
-[Data](articles/5d8f850a.json)
-
-[Extended Data](ext_articles/5d8f850a.ext.json)
 
 ---

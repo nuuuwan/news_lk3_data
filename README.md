@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 03:25:50**
+As of **2024-11-22 02:41:26**
 
 ## Newspaper Stats
 
-*Scraped **56,244** Articles*
+*Scraped **56,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,145 +14,23 @@ colombotelegraphcom | 575
 bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,413
-dailyftlk | 3,855
+dailyftlk | 3,852
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
-tamilmirrorlk | 7,987
-virakesarilk | 9,149
+tamilmirrorlk | 7,986
+virakesarilk | 9,145
 adaderanasinhalalk | 9,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,238 (100.0%) of 56,244 articles have been extended.
+56,235 (100.0%) of 56,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
-
-### காலியில் 500 கோடி பெறுமதியான போதைப்பொருள் சிக்கியது
-
-*2024-11-22 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199374) · `ta`
-
-500 கோடி ரூபாவுக்கும் அதிகளவான பெறுமதி கொண்ட 200 கிலோ கிராம் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருள் மாத்தறை குற்றப் புலனாய்வுப் பிரிவினரால் காலி மாபலகம பிரதேசத்தில் வைத்து கைப்பற்றப்பட்டுள்ளது.
-
-கடந்த 18ஆம் திகதி மாத்தறை, கந்தர நுன்னவெல்ல பகுதிக்கு படகு மூலம் போதைப்பொருள் கொண்டு வரப்பட்டுள்ளதாக மாத்தறை குற்றப் புலனாய்வுப் பிரிவினருக்குத் தகவல் கிடைத்தது.
-
-இதன்படி, விசாரணைகளை முன்னெடுத்த பொலிஸார், மாபலகம பிரதேசத்தில் உள்ள வீடொன்றுக்கு வேன் ஒன்றில் போதைப்பொருள் கொண்டு வரப்பட்ட விடயத்தை அறிந்துள்ளனர்.
-
-இதன்போது 200 கிலோவுக்கும் அதிகமான ஐஸ் போதைப்பொருள் மற்றும் 70 கிலோகிராம் ஹெராயின் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளது.
-
-இவற்றின் பெறுமதி 500 கோடி ரூபாய்க்கு அதிகளவாக இருக்கலாம் என பொலிஸார் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/f51219ad.json)
-
----
-
-### FAAMA successfully concludes 17th Annual General Meeting
-
-*2024-11-22 03:08:15* · [`dailyftlk`](https://www.ft.lk/business/FAAMA-successfully-concludes-17th-Annual-General-Meeting/34-769550) · `en`
-
-Top row, from left: ExCo Members Shehan Olegarasam, Jonah Goh, Sanjaya Weerasinghe, Husni Salieh, Chamila Bakmeewewa, Beauno Fernando, Harin Gabriel
-
-Botton row, from left: Vice Chair 1 Niroshan Samarasinghe, Secretary Shahid Sangani, Chairman Samal Dissanaike, Treasurer Suranga Gallage, Vice Chair 2 Vasu Wijegoonawardena
-
-The Fabric and Apparel Accessory Manufacturer’s Association (FAAMA), a subsidiary association of the Joint Apparel Association Forum of Sri Lanka (JAAF), hosted its 17th Annual General Meeting (AGM) 2024, at Jetwing Colombo Seven on 29 October 2024. The event was attended by Chief Guest, US Embassy in Sri Lanka Deputy Chief of Mission Doug Sonnek, and Guest of Honour JAAF Sri Lanka Chairman Saif Jafferjee.
-
-...
-
-[Data](articles/b9090e9a.json)
-
----
-
-### Sri Lanka: One of the best ethical and sustainable sourcing destinations
-
-*2024-11-22 03:01:22* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-One-of-the-best-ethical-and-sustainable-sourcing-destinations/34-769549) · `en`
-
-Sri Lanka Embassy in Brussels participated at the European Parliament “Fair Trade Breakfast-2024”, on 13 November 2024, highlighting Sri Lanka as one of the best ethical and sustainable sourcing destinations in the world.
-
-The event was organised by the “Fair Trade Advocacy” Office in Belgium and hosted by the European Parliament’s “Fair Trade Working Group” and its Chair Bernd Lange, a member of the European Parliament. The Embassy, with the support of the Sri Lanka Export Development Board (EDB) participated this event, as a special guest. A cross section of Fair Trade products manufactured by a number of Sri Lankan Fair Trade certified companies were showcased at this event, including tea, spices, coconut-based products and toys.
-
-...
-
-[Data](articles/a3fb954b.json)
-
-[Extended Data](ext_articles/a3fb954b.ext.json)
-
----
-
-### nVentures celebrates first exit as Singapore-based Kast Finance acquires Sri Lanka’s Kaiju Labs
-
-*2024-11-22 02:58:14* · [`dailyftlk`](https://www.ft.lk/business/nVentures-celebrates-first-exit-as-Singapore-based-Kast-Finance-acquires-Sri-Lanka-s-Kaiju-Labs/34-769548) · `en`
-
-nVentures partners Imal Kalutotage and Chalinda Abeykoon with Kaiju Labs Co-Founders Sameera Nilapul and Chameera Wijebandara
-
-Prominent early-stage venture capital firm, nVentures, has announced the successful exit of its portfolio company, Kaiju Labs, which was acquired by Kast Finance.
-
-The transaction delivered a 2X multiple on invested capital (MOIC) for nVentures, coupled with a 48.6% internal rate of return (IRR).
-
-nVentures was the first investor in Kaiju Labs, which has emerged as a leader in wallet-as-a-service solutions, making pioneering strides in the Web3 sector. Its acquisition by Kast Finance marks a key milestone in its evolution and clearly demonstrates nVentures’ foresight when choosing to back Kaiju Labs. Kast Finance plans to integrate Kaiju Labs’ advanced technology into its expanding suite of financial solutions, paving the way for new innovations in the Web3 space industry.
-
-...
-
-[Data](articles/1562f9a7.json)
-
-[Extended Data](ext_articles/1562f9a7.ext.json)
-
----
-
-### ஒற்றுமையின்மையாலேயே வடக்கில் பின்னடைவுகள் ஏற்பட்டுள்ளன - சந்தோஷ் ஜா
-
-*2024-11-22 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199373) · `ta`
-
-நடைபெற்று நிறைவடைந்த பாராளுமன்றத் தேர்தலில் தமிழ்த் தரப்புக்களுக்கு இடையில் ஒற்றுமையின்மை காணப்படாமையின் காரணமாகவே வடக்கில் பிரதிநிதித்தவ ரிதியான பின்னடைவுகள் ஏற்பட்டுள்ள என்று இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா இலங்கைத் தமிழரசுக்கட்சியின் வடக்கு,கிழக்கு பாராளுமன்ற உறுப்பினர்களிடத்தில் சுட்டிக்காட்டியுள்ளார்.
-
-இலங்கைக்கான இந்திய உயர்ஸ்தானிர் சந்தோஷ்யாவுக்கும், இலங்கைத் தமிழரசுக்கட்சியின் வடக்கு,கிழக்கு பாராளுமன்ற உறுப்பினர்களுக்கும் இடையிலான சந்திப்பு வியாழக்கிழமை (21) கொழும்பில் நடைபெற்றது. இந்தச் சந்திப்பின்போதே இந்திய உயர்ஸ்தானிகர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/02ae9b7c.json)
-
----
-
-### மாவீரர் தினத்தால் ஒத்திவைக்கப்பட்ட பாராளுமன்ற அலுவல்கள் கூட்டம்; சிறிதரனிடம் மன்னிப்புக்கோரிய அமைச்சர் பிமல்
-
-*2024-11-22 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199372) · `ta`
-
-பத்தாவது பாராளுமன்றத்தின் கன்னி அமர்வு வியாழக்கிழமை (21) நடைபெற்றிருந்த நிலையில் இதன்போது, முதலில் சபாநாயகர், பிரதி சபாநாயகர், குழுக்களின் பிரதித் தலைவர் தெரிவுகள் இடம்பெற்றிருந்தன.
-
-இதனையடுத்து, புதிதாக தெரிவு செய்யப்பட்ட சபாநாயகர் அஷோக்க ரன்வெலவுக்கு எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச வாழ்த்துக்களைத் தெரிவித்திருந்தார். அவரைத்தொடர்ந்து மு.கா.தலைவர் ரவூப் ஹக்கீம் வாழ்த்துக்களைத் தெரிவு செய்திருந்தார்.
-
-அவர்களைத்தொடர்ந்து சிவஞானம் சிறிதரன், நாமல் ராஜபக்ஷ உள்ளிட்டவர்கள் வாழ்த்துக்களைத் தெரிவிப்பதற்காக தமது ஆசனங்களில் இருந்து எழுந்தபோதும், நேரமின்மை காரணமாக வாழ்த்துரைகள் மட்டப்படுத்தப்பட்டன.
-
-இதனை அவதானித்த சபை முதல்வர் அமைச்சர் பிமல்ரத்நாயக்க, கட்சித்தலைவர்கள் கூட்டத்திற்காக பிரதிநிதிகள் ஒன்றுகூடிய வேளையில் சிறிதரனிடத்தில் மன்னிப்புக்கோரியதோடு எதிர்காலத்தில் இவ்விதமான நடைபெறாது என்றும் கூறியுள்ளார்.
-
-...
-
-[Data](articles/8a2cabdb.json)
-
----
-
-### தமிழரசின் பாராளுமன்றக்குழு கூடி புதிய பதவிகளை நியமித்தது
-
-*2024-11-22 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199371) · `ta`
-
-இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்றக் குழுக்கூட்டம் வியாழக்கிழமை (21) பாராளுமன்ற வளாகத்தில் பாராளுமன்றக் குழுவின் தலைவரும், யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன் தலைமையில் நடைபெற்றது.
-
-அந்தவகையில், பாராளுமன்றக்குழுவின் செயலாளராக திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் குகதாசன் தெரிவு செய்யப்பட்டுள்ளதோடு, ஊடகப்பேச்சாளராக மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஞானமுத்து சிறினேசன் தெரிவாகியுள்ளதோடு, கொரடாவாக தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினரான வைத்தியர்.சத்தியலிங்கம் தெரிவு செய்யப்பட்டுள்ளனர்.
-
-அத்துடன், நீண்ட இடைவெளிக்குப் பின்னர் தமிழரசுக்கட்சியின் பாராளுமன்றக் குழுக்கூட்டம் நடைபெற்றிருந்த நிலையில் தொடர்ச்சியாக பாராளுமன்றக்குழுக் கூட்டத்தினை கிரமமாக நடத்துவதென ஏகோபித்து தீர்மானிக்கப்பட்டுள்ளது.
-
-அதேநேரம், தமிழ் மக்கள் முகங்கொடுக்கும் பல்வேறு விடயங்கள் சம்பந்தமாக ஆவணத்திரட்டொன்றை தாயாரிப்பதெனவும் இந்தக் கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/7485d260.json)
-
----
 
 ### Brand AKD defies marketing theory to win
 
@@ -233,22 +111,6 @@ The path to prosperity of Sri Lanka starts from political stability to enable it
 [Data](articles/3b274533.json)
 
 [Extended Data](ext_articles/3b274533.ext.json)
-
----
-
-### ’ஹிருணிக்காவுக்கு தேசிய பட்டியல் கொடுக்க முயற்சிக்கிறோம்’
-
-*2024-11-22 01:10:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-தேசிய-பட்டியல்-கொடுக்க-முயற்சிக்கிறோம்/175-347599) · `ta`
-
-ஐக்கிய மக்கள் சக்திக்காக கடுமையாக உழைத்த எரான் விக்கிரமரத்ன,  ஹிருணிக்கா பிரேமசந்திர ஆகியோர்  குறைந்த எண்ணிக்கையிலான வாக்குகளினாலேயே தோல்வியடைந்தார்கள். எனவே இவர்களுக்கு தேசிய பட்டியல் ஆசனத்தை பெற்றுக்கொடுக்க முயற்சிக்கிறோம் என அக்கட்சியின் கொழும்பு மாவட்ட எம்.பி.யான  ஹர்ஷ டி  சில்வா தெரிவித்தார்.
-
-பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை இடம்பெற்ற ஜனாதிபதியின்  கொள்கை பிரகடன உரைக்குப்   பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும்போதே இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில்,
-
-ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினர் பிரச்  சினைக்கு   வெகுவிரைவில் தீர்வு காண வேண்டும் என்ற  நிலைப்பாட்டில் உறுதியாக உள்ளேன்.  கட்சிக்காக கடுமையாக உழைத்த எரான் விக்கிரமரத்ன,  ஹிருணிக்கா பிரேமசந்திர ஆகியோர்  குறைந்த எண்ணிக்கையிலான வாக்குகளினாலேயே தோல்வியடைந்தார்கள். இவர்களுக்கு தேசிய பட்டியல் ஆசனத்தை பெற்றுக்கொடுக்க முயற்சிக்கிறோம்.
-
-...
-
-[Data](articles/676ebf7b.json)
 
 ---
 
@@ -2102,8 +1964,6 @@ Today is an exceptionally significant day in the history of our Parliament. For 
 
 [Data](articles/9cd5c793.json)
 
-[Extended Data](ext_articles/9cd5c793.ext.json)
-
 ---
 
 ### Ranil does not know about sending Ravi's name
@@ -2439,5 +2299,201 @@ Further investigations are being carried out by the Police Drug Prevention Unit.
 [Data](articles/fe8864d9.json)
 
 [Extended Data](ext_articles/fe8864d9.ext.json)
+
+---
+
+### The wade was killed
+
+*2024-11-21 13:37:58* · [`adalk`](https://www.ada.lk/breaking_news/වඩයෙන්-ආපු-මරුවා/11-413198) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Man dies after collapsing. Identified as Anura Sampath Amarasekera. Admitted to hospital for treatment. Cause unclear. Police investigate. Post-mortem ordered.
+
+🟩
+
+A man was identified as a person who was admitted to the Orumale District Hospital for treatment due to an eating of a collapse.
+
+The deceased has been identified as Amarasekera's Anura Sampath Amarasekera, a private company named Amarasekera's Anura Sampath Amarasekara, Amarasekera, Amarasekera.
+
+One of the times is a coughing coughing, one of the time is eating a light diet, which is a lecturer in the University of Kelaniya. Thereafter, the first aid was made to stop the corner.
+
+Later, the board was taken to the Dissan District Hospital for treatment, but the doctors had said that he died. Talangama Emergency Insurance Inspection Inspection Insurance Insurance Inspection Peace Prelatha Abeywardena ordered the police to take the site to the post mortem.
+
+◼️
+
+[Data](articles/854cd54f.json)
+
+[Extended Data](ext_articles/854cd54f.ext.json)
+
+---
+
+### Interim Vote on Account in December, 2025 Budget in February – President
+
+*2024-11-21 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103666/interim-vote-on-account-in-december-2025-budget-in-february-president-) · `en`
+
+Delivering the government’s policy statement in Parliament, President Anura Kumara Dissanayake today revealed key economic strategies aimed at driving development and fostering growth in Sri Lanka.
+
+He announced that the 2025 Budget will be presented to Parliament in February 2025, with an interim Vote on Account scheduled in the beginning of December 2024.
+
+A significant focus of the President’s address was on measures to expand the Information Technology (IT) sector, which he identified as a cornerstone of the country’s economic transformation.
+
+Highlighting the sector’s potential, he stated that the current IT workforce of 85,000 will be expanded to 200,000 within five years. This initiative, the President noted, is aimed at boosting IT-related export revenue from the current USD 1.5 billion to USD 5 billion annually.
+
+“We are prioritizing education and language development to achieve this target. This will be a significant leap for the country’s economy,” the President emphasized.
+
+...
+
+[Data](articles/81ae9232.json)
+
+[Extended Data](ext_articles/81ae9232.ext.json)
+
+---
+
+### The transgressions of Indian drag boats;Signature Fleet sent to President from Mullaitivu
+
+*2024-11-21 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199317) · `ta`
+
+Indian trawlers violate Sri Lankan waters. Mullaitivu fishermen protest, demand action. Over 500 signatures sent to President seeking protection.
+
+🟩
+
+Mullaitivu people have been sent to the President on Thursday (21) today (21st).
+
+The Mullaitivu people have been sent to the President by the Mullaitivu fishermen, who have demanded immediate measures to prevent Indian trawlers from entering the Sri Lankan waters under the Ecology and Social Development Institute (ECDO), which is the 21 International Fishermen's Day.
+
+On the occasion of the fishermen's day, the Mullaitivu district of Mullaitivu district, the transgressors of the Indian fishermen's drag boats and all the seas found in the Mullaitivu seas, are increasingly in this context.
+
+Fishermen from the Mullaitivu district go to sea and spend their lives with a huge loss.. More than 500 postpartments from the Mullaitivu district have been sent to the President of the Mullaitivu district today to send the names of the people of Mullaitivu and the Mullaitivu fishermen to the President of Sri Lanka, Anuragumara Dissanayake, who has created a massive image that is a change in Sri Lanka.
+
+...
+
+[Data](articles/4b50045d.json)
+
+[Extended Data](ext_articles/4b50045d.ext.json)
+
+---
+
+### Bribery case in US in Sri Lanka
+
+*2024-11-21 13:22:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dylx29gvo) · `si`
+
+Here's a summary of the bribery case in 200 characters:
+
+
+
+US bribery case against Indian businessman Gautam Rajapakse accused of $250M fraud. Charges filed in New York alleging he bribed officials for renewable energy contracts. Case involves $3B loans and bonds.
+
+🟩
+
+Bribery case in US in Sri Lanka
+
+The US has been accused of fraud in America against the Indian militant Gautam Printer, and he has not been able to plan and uncovered US $ 250 million.
+
+Wednesday (Nov. 21) Criminal charges filed in New York, 62-year-old assailants, a richest man in New York, was the latest attack. His business empire is harvested from ports and airports to renewable energy.
+
+Attorneys on the indictment, lawyers have accused the super-rich and other senior senior executives that the Indian officials have agreed to provide more than 20 billion US $ 2 billion to get contracts to his renewable energy company.
+
+Although I asked to respond, the Ahani did not immediately respond.
+
+The US Group has operated from 2023 and announced a report accused by a top company by a top company.. The allegations led to the value of the stock market, refusing Gautam Rajapakse.
+
+...
+
+[Data](articles/8f41031f.json)
+
+[Extended Data](ext_articles/8f41031f.ext.json)
+
+---
+
+### Sri Lanka likely to sign IMF staff-level agreement on Nov. 23
+
+*2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-dec-23) · `en`
+
+President Anura Kumara Dissanayake has expressed confidence that the staff-level agreement on the third review of the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) arrangement for Sri Lanka could be finalized and signed by November 23.
+
+Highlighting the critical role of economic stability, the President underscored the importance of adhering to existing agreements.
+
+“We inherited a country already bound by an agreement with the IMF when we assumed office. Breaking away from this agreement is not an option if we aim to progress,” he stated, reiterating the government’s commitment to managing the economy within the framework of the agreed parameters of the IMF.
+
+The President acknowledged the delay in the third review, initially scheduled for September, attributing it to the recent elections. However, he noted that the IMF delegation resumed discussions immediately after the 2024 General Election.
+
+...
+
+[Data](articles/2fb436d1.json)
+
+[Extended Data](ext_articles/2fb436d1.ext.json)
+
+---
+
+### Sri Lanka likely to sign IMF staff-level agreement on Nov. 23
+
+*2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-nov-23) · `en`
+
+President Anura Kumara Dissanayake has expressed confidence that the staff-level agreement on the third review of the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) arrangement for Sri Lanka could be finalized and signed by November 23.
+
+Highlighting the critical role of economic stability, the President underscored the importance of adhering to existing agreements.
+
+“We inherited a country already bound by an agreement with the IMF when we assumed office. Breaking away from this agreement is not an option if we aim to progress,” he stated, reiterating the government’s commitment to managing the economy within the framework of the agreed parameters of the IMF.
+
+The President acknowledged the delay in the third review, initially scheduled for September, attributing it to the recent elections. However, he noted that the IMF delegation resumed discussions immediately after the 2024 General Election.
+
+...
+
+[Data](articles/dafa529f.json)
+
+[Extended Data](ext_articles/dafa529f.ext.json)
+
+---
+
+### Notice to the workers of Kuwait and foreigners
+
+*2024-11-21 13:14:46* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-ශ්‍රමිකයන්ට-හා-විදේශිකයන්ට-දැනුම්-දීමක්/11-413197) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Kuwait Ministry extends fingerprint deadline to Dec 31. Sri Lankan workers can choose online locations like Hawally, Jahra, Ahmadi. Government banks exempt from fingerprinting requirement.
+
+🟩
+
+The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide the fingerprints of the Kuwait state and the fingerprints of their livestock.
+
+The date on which was due to end in September has been extended to December 31 again to December. The Sri Lanka Bureau of Foreign Employment requests the Finger Farmers of the Kuwait's Sri Lankan workers at the Interior Ministry.
+
+Accordingly, the Biometric. It also allows to choose an approximate place to give fingerprints in online mechanism. Accordingly, Hawaali (Hawaally) Farwaniya, Ahmade Mubarak Mubarak Mubarak, Mubarak Al Kabir (JAHRA), is located at the security directors of the security directors.
+
+In addition, people in the Department of Investigation Department can be done in the Department of Investigation for the provision of finger viewers in Ali Saba Al Salim, Umm Al-Nema and Jerro.
+
+...
+
+[Data](articles/1e058f92.json)
+
+[Extended Data](ext_articles/1e058f92.ext.json)
+
+---
+
+### Sri Lanka will have state share in energy, banking: President
+
+*2024-11-21 13:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-have-state-share-in-energy-banking-president-189200/) · `en`
+
+ECONOMYNEXT- Sri Lanka will have a state share in energy, banking sector to direct the sectors and co-operatives will be developed to drive retail market, President Anura Dissanayake said.
+
+“We think the state should be represented especially in the energy sector, is a very sensitive area to the economy,” President Dissanayake said in his inaugural address to parliament Thursday.
+
+“Small changes in the energy sector gives deadly illnesses to the economy.”
+
+“But we also think the state sector should represent part of the financial sector,” he said. “Therefore we think some areas of the economy should be directed as an arm of the government.”
+
+“The co-operative sector will be re-developed as a strong contender in the market.” (Colombo/Nov21/2024)
+
+◼️
+
+[Data](articles/4bf89585.json)
+
+[Extended Data](ext_articles/4bf89585.ext.json)
 
 ---

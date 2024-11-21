@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 21:42:47**
+As of **2024-11-21 22:01:29**
 
 ## Newspaper Stats
 
-*Scraped **56,204** Articles*
+*Scraped **56,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,295
+adalk | 5,296
 adaderanalk | 6,794
 tamilmirrorlk | 7,983
 virakesarilk | 9,134
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,203 (100.0%) of 56,204 articles have been extended.
+56,204 (100.0%) of 56,205 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Warangkana also said that Plai Sak Surin’s injury on its front left leg, which
 ...
 
 [Data](articles/346fc436.json)
+
+[Extended Data](ext_articles/346fc436.ext.json)
 
 ---
 
@@ -695,6 +697,26 @@ The magistrate, considering the two sides, issued a warrant for the witness and 
 [Data](articles/d8a66ad9.json)
 
 [Extended Data](ext_articles/d8a66ad9.ext.json)
+
+---
+
+### ව්‍යාජ හිසකෙස් වර්ණ ගණ්වනයන් වෙළඳපොලේ
+
+*2024-11-21 16:37:54* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-හිසකෙස්-වර්ණ-ගණ්වනයන්-වෙළඳපොලේ/11-413205) · `si`
+
+හිසකෙස් වර්ණ ගන්වන ව්‍යාජ නිෂ්පාදන අලෙවි කරන බවට තොරතුරු ලැබී තිබෙන හෙයින් මේ සම්බන්ධව  විමසිලිමත් වන ලෙස පාරිභෝගික කටයුතු අධිකාරිය ජනතාවගෙන් ඉල්ලා  සිටියි.
+
+මෙ වැනි නිෂ්පාදන  පිළිබඳ තොරතුරු වෙතොත් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ කෙටි දුරකථන අංකය  වන 1977 වෙත දැනුම්දෙන ලෙසත්  ඉල්ලා සිටියි.
+
+ප්‍රසිද්ධ වෙළෙඳ නාමයක් ව්‍යාජ ලෙස යොදා ගනිමින් සැකසූ හිසකෙස් කළු කරන ආලේපන වෙළෙඳපොළෙහි අලෙවි කළ ව්‍යාපාරික ස්ථාන වැටලීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය කටයුතු කරන කරන බවද  සඳහන් කරයි.
+
+මේ අනුව නිවැරදි හිසකෙස් කළු කරන ආලේපනයෙන් අකාරයට සකස් කර අලෙවි කළ පිටකොටුව පැරණි නගරශාලා ගොඩනැගිල්ලෙහි සහ පීපල්ස් පාර්ක්හි වෙළෙඳුන් තිදෙනෙකුට මේ වන විටද නීතිය ක්‍රියාත්මක කර තිබෙන බව අධිකාරිය පෙන්වා දෙයි.
+
+වැරදි හිසකෙස් කළු කරන ආලේපන අකාරයට මේවා සකස් තිබූ බවත්  නිවැරදි ඇසුරුමක  අනු  බර 21g ක් වන බවත්  ව්‍යාජ නිෂ්පාදනයෙහි‍ අනු ඇසුරුමක බර 10g ක් වු බවත් සඳහන් කරයි.
+
+...
+
+[Data](articles/6f70cfb9.json)
 
 ---
 
@@ -2565,31 +2587,5 @@ It is noteworthy that this is not the case, including the parade of the forces, 
 [Data](articles/c2242cad.json)
 
 [Extended Data](ext_articles/c2242cad.ext.json)
-
----
-
-### Former President to India
-
-*2024-11-21 11:25:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-ඉන්දියාවට/11-413191) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Sri Lankan President Ranil Wickremesinghe departed from Colombo's Katunayake Airport on November 21st. He was accompanied by his wife Maithree Wickramasinghe, Sagala Ratnayake, and other aides. They boarded an Air Lanka flight (registration number 4R-AUN) bound for New Delhi at 8:19 AM local time.
-
-🟩
-
-Former President Ranil Wickremesinghe, Mr. Wickremesinghe, the officer in charge of the airport was leaving for New Delhi in the morning of 11/21.
-
-The airport work officer in charge of the airport work officer added that his wife Maithree Wickremasinghe, Sagala Ratnayake and other assistants have left for the visit.
-
-They were 28.19 am on January 08.19 am on 08.19 am. The 282 aircraft left the Katunayake airport.
-
-◼️
-
-[Data](articles/b96f273b.json)
-
-[Extended Data](ext_articles/b96f273b.ext.json)
 
 ---

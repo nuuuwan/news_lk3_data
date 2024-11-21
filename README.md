@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 11:42:40**
+As of **2024-11-21 13:11:48**
 
 ## Newspaper Stats
 
-*Scraped **56,094** Articles*
+*Scraped **56,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,619 @@ islandlk | 3,357
 economynextcom | 3,401
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,280
-adaderanalk | 6,777
-tamilmirrorlk | 7,959
-virakesarilk | 9,103
-adaderanasinhalalk | 9,689
+adalk | 5,283
+adaderanalk | 6,779
+tamilmirrorlk | 7,968
+virakesarilk | 9,114
+adaderanasinhalalk | 9,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,090 (100.0%) of 56,094 articles have been extended.
+56,112 (100.0%) of 56,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### “குடும்ப வன்முறைகளை நிறுத்த சட்டம் வேண்டும்”
+
+*2024-11-21 12:50:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்ப-வன்முறைகளை-நிறுத்த-சட்டம்-வேண்டும்/175-347559) · `ta`
+
+இலங்கையில் பெண்கள் மீதான குடும்ப வன்முறை  மிக அதிகளவில் காணப்படுகின்றது.  கணவன், மாமனார், மாமியார்  என வீட்டில் உள்ளவர்களால் பெண்கள் அதிகளவில் குடும்ப வன்முறைக்கு உள்ளாகின்றனர். சில வீடுகளில் பெண்கள் பெண்களாலேயே துன்புறுத்தப்படுகின்றனர். குடும்பங்களில் உள்ள சிறார்களின் நலன் கருதி குடும்ப வன்முறையை நிறுத்துவதற்கேற்ற  வகையிலான கடுமையான சட்டங்கள் அமுலாக்கப்பட வேண்டும் என்று பெண்கள் மற்றும் சிறுவர்  விவகார அமைச்சர் சரோஜா போல்ராஜுடம் சர்வதேச ஊடகப் பேரவைத் தலைவர் டன்ஸ்டன் மணி கோரிக்கை  விடுத்துள்ளார்
+
+நடந்து முடிந்த பாராளுமன்றப் பொதுத் தேர்தலில் நாட்டின் அனைத்துப் பகுதி மக்களினதும் அமோக ஆதரவுடன் ஆட்சிக்கு வந்துள்ள தற்போதைய அரசு குடும்பங்களில் பெண்கள் மீது மேற்கொள்ளப்படும் வன்முறைகளை நிறுதுத்துவதற்கு உடனடி நடவடிக் கைகளை மேற்கொள்ள வேண்டும். ஏனெனில் குடும்பங்களில் இடம்பெறும் வன்முறைகள் அக்குடும்பச் சூழலில் வளரும் சிறார்களை பெருமளவில் பாதிக்கின்றது. மட்டுமன்றி அவர்களை உளரீதியாகவும் பாதிக்கின்றது. எனவே இது  குறித்து உடனடி நடவடிக்கை எடுக்கப்பட வேண்டும் எனவும் டன்ஸ்டன் மணி கோரியுள்ளார்.
+
+...
+
+[Data](articles/6400a9dc.json)
+
+---
+
+### Parliamentary session adjourned until December 3rd!
+
+*2024-11-21 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199312) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Parliament adjourned until Dec 3. New Speaker Ashoka Sabumal elected. Deputy Speaker Mohamed Rizi chosen. Hemali Weerasekera named Deputy Chairman. Bimal Ratnayake appointed Chief Minister. President proposed policy declaration before adjournment.
+
+🟩
+
+The president adjourned the parliamentary session for the next session until December 3, after the president presented the policy declaration of the government.
+
+The virgin session of the first session of the tenth parliament began today (21) at 10 am.
+
+The Secretary General of Parliament announced the gazette notification published by the President in the tenth parliamentary session.
+
+Subsequently, the Speaker of the 10th Parliament, Ashoka Sabumal Ranwala, has been unanimously elected as the Speaker of Parliament.
+
+Prime Minister Harini Amarasuriya proposed his name for the post of Speaker. Minister Vijitha Herath proposed it. The name of any other member is not proposed. Subsequently, he was unanimously elected to the post of Speaker.
+
+Minister Nalinda Jayadissa proposed the name of Mohamed Rizi for the post of Deputy Speaker. Minister Saroja Bolraj proposed it. He has been unanimously elected when the names of other candidates have not been proposed.
+
+...
+
+[Data](articles/decfeec4.json)
+
+[Extended Data](ext_articles/decfeec4.ext.json)
+
+---
+
+### The Virgin Session of the 10th Parliament
+
+*2024-11-21 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199288) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"President Anura Kumara Dissanayake to present policy declaration at 10th Parliament's first session. No inaugural parade."
+
+
+
+This summary captures the main points in 200 characters, focusing on the key elements: the event, who will present, and the notable absence of a parade.
+
+🟩
+
+President Anura Kumara Dissanayake will present his government's policy declaration at the Virgin session of the first session of the parliament, which began with no parade.
+
+◼️
+
+[Data](articles/b98c8eba.json)
+
+[Extended Data](ext_articles/b98c8eba.ext.json)
+
+---
+
+### கணக்கு அறிக்கைக்கு பின்னர், பட்ஜெட்
+
+*2024-11-21 12:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணக்கு-அறிக்கைக்கு-பின்னர்-பட்ஜெட்/175-347558) · `ta`
+
+இந்த மூன்று மாதங்களுக்கு தேவையான நிதியை ஒதுக்கிக்கொள்வதற்கு, இந்த ஆண்டு டிசெம்பரில் கணக்கு அறிக்கை சமர்ப்பிக்கப்படும். வரவு-செலவுத்திட்டம் மார்ச் மாதம் தாக்கல் செய்யப்படும் என்று  ஜனாதிபதி அனுரகுமார திசாநாயக்க, தனது அக்கிராசன உரையின் போது குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/d687b485.json)
+
+---
+
+### President receives a meeting of the IMF agreement
+
+*2024-11-21 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203596) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake announces IMF agreement signing on 23rd.
+
+🟩
+
+President Anura Kumara Dissanayake says the staff level agreement of the Third Review of the International Monetary Fund is scheduled to be signed on the 23rd.
+
+◼️
+
+[Data](articles/b9904f68.json)
+
+[Extended Data](ext_articles/b9904f68.ext.json)
+
+---
+
+### President's Policy Declaration Speech at the Virgin session of the first session of the 10th Parliament
+
+*2024-11-21 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199307) · `ta`
+
+Here's a summary of the speech in approximately 200 characters:
+
+
+
+"President declares end to communalism, promises fair investigations, economic recovery with IMF, and closer parliamentary ties with people."
+
+🟩
+
+The President is currently speaking at the Virgin session of the first session of the 10th Parliament.
+
+All ethnic people have confidence in us and have given power. I thank everyone.
+
+The President said that all those who supported and did not support the election were considered Sri Lankan citizens.
+
+The president said that there is no longer a place for communalism and religion in this country.
+
+The Parliament hated by the people is not worth the rule of the people. The president said that the Parliament criticized by the people cannot be allowed to appear.
+
+The President said that the Parliament should work closely with the people and that the parliament should get the people's examination.
+
+President Anura Kumara Dissanayake said that everyone, including the President, should submit to the law of the country.
+
+The President said that the controversial crimes in the country will be properly investigated and justified to the victims.
+
+...
+
+[Data](articles/0f3221c7.json)
+
+[Extended Data](ext_articles/0f3221c7.ext.json)
+
+---
+
+### Salary Increase: Aswezma Increase
+
+*2024-11-21 12:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பு-அஸ்வெஸ்ம-அதிகரிப்பு/175-347557) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Civil servant salary increase announced. President Anuragumara Dissanayake stated that Aswezma allowance will also be raised in the upcoming budget.
+
+🟩
+
+In the next budget, the salaries of civil servants will be increased. President Anuragumara Dissanayake said during his speech that the Aswezma allowance would also be increased.
+
+◼️
+
+[Data](articles/53b2cf7f.json)
+
+[Extended Data](ext_articles/53b2cf7f.ext.json)
+
+---
+
+### Rishad's letter regarding the death of mother and Chey
+
+*2024-11-21 12:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-சேய்-உயிரிழந்தமை-தொடர்பாக-ரிஷாட்-கடிதம்/175-347556) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rishad Bathiudeen requests inquiry into mother's death at Mannar Hospital. Death sparks public doubt & investigation. Hospital faces scrutiny after similar incident involving Sindhuja.
+
+🟩
+
+All Ceylon People's Congress President Rishad Bathiudeen, who has been elected to Parliament from the Vanni district, has asked Health Minister Nalinda Jayadissa to be asked to carry out public inquiries into the death of her mother and Chee at the Mannar General Hospital.
+
+The young mother, who died on Tuesday (19), sent the letter to the death of Chey.
+
+In this case, her relatives have pointed out to those who are on duty and have been allowed into the ordinary maternity unit regarding some of the abuse, including the mother breathing.
+
+The mother is in a very difficult situation. Again, her relatives have been accused of not considering the doctors and nurses in this regard and that the mother's death may have occurred.
+
+It is suspected that the death may have been due to all the facilities at the Mannar Hospital.
+
+Following this, the Mannar Magistrate ordered the bodies of the two men to be sent to the Jaffna Teaching Hospital for examination and further investigations.
+
+...
+
+[Data](articles/27c10606.json)
+
+[Extended Data](ext_articles/27c10606.ext.json)
+
+---
+
+### Increase in visual impairment among children with electronic screen use!
+
+*2024-11-21 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199299) · `ta`
+
+Electronic screen use linked to rising child visual impairments. Eye specialist warns of potential long-term effects on young vision health.
+
+🟩
+
+Anusha Southkumbura, an eye specialist at the Colombo Children's Hospital, said that the use of electronic screen use is increasing among children.
+
+The doctor pointed out that there is a shortage of short views or long -vision impacts among the boys.
+
+The doctor said this while attending a media briefing held at the Health Development Bureau.
+
+◼️
+
+[Data](articles/ed0233e3.json)
+
+[Extended Data](ext_articles/ed0233e3.ext.json)
+
+---
+
+### Law enforces all murders that led to controversy
+
+*2024-11-21 11:52:54* · [`adalk`](https://www.ada.lk/breaking_news/ආන්දෝලනයට-තුඩු-දුන්-සියලු-ඝාතන-වලට-නීතිය-ක්‍රියාත්මක-කරනවා/11-413193) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan President addresses Parliament, emphasizing law enforcement for controversial murders. He highlights public service dissatisfaction and calls for efficient governance. The President stresses the importance of rule of law and accountability.
+
+🟩
+
+He added that he saw the decline in 24 years and the assistance of all to restore parliament.
+
+He added that Parliament will continue to open an open center to the public.
+
+He made this statement by delivering the policy statement of the new Parliament.
+
+This is the first time that the highest number of public servants in the history of Sri Lanka was voted for an idol.
+
+He added that there is no obvious picture of the public service and that there is no satisfaction in the public servant.
+
+He added that public servants have shown the consent of the policies that have presented to the national folk service.
+
+He said politicians and an efficient public service needed a country turning a country. He also said that he had consented to public servants for this purpose.
+
+He said that everyone would create a doubtful country without fear and protecting the law.
+
+...
+
+[Data](articles/08492dd7.json)
+
+[Extended Data](ext_articles/08492dd7.ext.json)
+
+---
+
+### Chinese Ambassador visited Batticaloa;To ensure new technical exercises to East Journalists
+
+*2024-11-21 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199306) · `ta`
+
+Chinese Ambassador visits Batticaloa, discusses development projects. Promises technical training for Eastern Province journalists. Announces aid: 1.5 billion for Sri Lanka, vaccine support, scholarships, food assistance, education funding. Hands over homes in Kaluwangeeni area.
+
+🟩
+
+A special meeting between the Chinese Ambassador Kiu Senhong and the Civil community of the Batticaloa district was held on Wednesday (20) at a tourist hotel in Batticaloa.
+
+The development projects of the Batticaloa district and a variety of issues were discussed during this period.. The delegation, led by the leader of the Batticaloa District Civil Society Organization, S. Mamangarajah, has also presented plans to the Chinese Ambassador to the Chinese Ambassador, including the main production sectors of the district, such as fishing, agriculture, livestock and tourism.
+
+Meanwhile, the civil society has appealed to the Ambassador to the journalists from the Eastern Province to provide a new technical training in China.. Responding to this, the ambassador promised that this was a very welcome answer.
+
+...
+
+[Data](articles/e4aab60c.json)
+
+[Extended Data](ext_articles/e4aab60c.ext.json)
+
+---
+
+### “There is no one above the law”
+
+*2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சட்டத்துக்கு-மேல்-யாருமில்லை/150-347554) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anuragumara Dissanayake emphasizes equality under the law. He vows to investigate past atrocities and ensure justice prevails."
+
+🟩
+
+President Anuragumara Dissanayake, who is addressing the people from the country, is no one above the law.. In addition, investigations will be carried out in the case of the most horrific incidents in the past and stopped before the law.
+
+◼️
+
+[Data](articles/62974a1b.json)
+
+[Extended Data](ext_articles/62974a1b.ext.json)
+
+---
+
+### “There is no one above the law”
+
+*2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்துக்கு-மேல்-யாருமில்லை/175-347554) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"No one is above the law" - President Anuragumara Dissanayake addresses citizens. Investigations will be conducted into past horrific incidents and perpetrators held accountable legally.
+
+🟩
+
+President Anuragumara Dissanayake, who is addressing the people from the country, is no one above the law.. In addition, investigations will be carried out in the case of the most horrific incidents in the past and stopped before the law.
+
+◼️
+
+[Data](articles/bcfb039f.json)
+
+[Extended Data](ext_articles/bcfb039f.ext.json)
+
+---
+
+### Ukraine fires UK-supplied Storm Shadow missiles into Russia for first time
+
+*2024-11-21 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103661/ukraine-fires-uk-supplied-storm-shadow-missiles-into-russia-for-first-time) · `en`
+
+Ukraine fired a volley of British Storm Shadow cruise missiles into Russia on Wednesday, the latest new Western weapon it has been permitted to use on Russian targets a day after it fired U.S. ATACMS missiles.
+
+The strikes were widely reported by Russian war correspondents on Telegram and confirmed by an official on condition of anonymity. A spokesperson for Ukraine’s General Staff said he had no information.
+
+Moscow has said the use of Western weapons to strike Russian territory far from the border would be a major escalation in the conflict. Kyiv says it needs the capability to defend itself by hitting Russian rear bases used to support Moscow’s invasion, which entered its 1,000th day this week.
+
+Accounts of Russian war correspondents on Telegram posted video they said included the sound of the missiles striking Kursk region, which borders northeastern Ukraine.
+
+...
+
+[Data](articles/a37be8be.json)
+
+[Extended Data](ext_articles/a37be8be.ext.json)
+
+---
+
+### Influence in trio CID
+
+*2024-11-21 11:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூவர்-CIDயில்-முன்னிலை/175-347552) · `ta`
+
+Former ministers summoned CID over substandard vaccine deal
+
+🟩
+
+Former ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga visited the Criminal Investigation Department on Thursday morning.
+
+They have been summoned to the Criminal Investigation Department (CID) to obtain a confession on the approval of the Cabinet paper filed by former Health Minister Keheliya Rambukwella on the purchase of substandard immunization.
+
+Former Minister Harin Fernando is expected to appear before the Criminal Investigation Department on Friday (22).
+
+Accordingly, the Criminal Investigation Department said that the Criminal Investigation Department (CID) had announced that he would have a confession to the 18 ministers headed by former President Ranil Wickremesinghe, who represented the Cabinet regarding the approval of the Cabinet paper presented in the House of Health, Keheliya Rambukwella.
+
+...
+
+[Data](articles/6a511bad.json)
+
+[Extended Data](ext_articles/6a511bad.ext.json)
+
+---
+
+### Doctors who removed 10 kg of tumor from the woman's uterus - the incident in Hambantota
+
+*2024-11-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199302) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Hambantota doctors remove 10kg tumor from woman's uterus. Team led by Dr. Samantha Samarawickrama succeeds in operation.
+
+🟩
+
+Doctors of the Hambantota hospital have successfully removed a 10kg weighing tumor from a female's womb.
+
+A team of doctors including postpartum specialist Samantha Samarawickrama has achieved this feat.
+
+◼️
+
+[Data](articles/dffc9cdf.json)
+
+[Extended Data](ext_articles/dffc9cdf.ext.json)
+
+---
+
+### There is no room for racist and religious extremist slogans
+
+*2024-11-21 11:40:53* · [`adalk`](https://www.ada.lk/breaking_news/ජාතිවාදී-හා-ආගමික-අන්තවාදී-සටන්-පාඨ-වලට-ආයේ-ඉඩ-නෑ/11-413192) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake emphasizes multi-party democracy, rejects racist/religious extremism slogans, and calls for fulfilling public expectations in his policy statement.
+
+🟩
+
+President Anura Kumara Dissanayake said that a single party administration would not expect a single party administration and the multi party democracy is accepted.
+
+The President said that the vision of the people and the people who did not donted and the people were obliged.
+
+He made this statement by delivering the policy statement of the new Parliament.
+
+He added that the people had fulfilled their share and that they are now fulfilling the public for the government.
+
+He added that the people are obliged to fulfill the expectations of the people and the provincial division will not allow nationality control in the country.
+
+He said that a manner or religious extremism would not be able to return.
+
+◼️
+
+[Data](articles/f47b1c27.json)
+
+[Extended Data](ext_articles/f47b1c27.ext.json)
+
+---
+
+### "I am a racist"
+
+*2024-11-21 11:40:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனவாதத்துக்கு-இடமளியேன்/175-347551) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake vows not to tolerate racism, religious discrimination, or political bias."
+
+🟩
+
+President Anura Kumara Dissanayake said that he would no longer be accommodated for racism, religious or politics through it, "he said.
+
+◼️
+
+[Data](articles/46511e65.json)
+
+[Extended Data](ext_articles/46511e65.ext.json)
+
+---
+
+### President presents the policy statement of the government
+
+*2024-11-21 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203595) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake addresses Parliament, outlining government policies. Emphasizes democracy, public service reform, religious tolerance, and rule of law. Promises justice for victims of recent controversies.
+
+🟩
+
+President Anura Kumara Dissanayake is presented by the government's policy in Parliament.
+
+The first congregation of the 10th Parliament commenced today (21st) and a speech was suspended temporarily.
+
+The President then took 11.30 am to the parliamentary session and the President is presenting the government's policy statement.
+
+The President also said that all people were thankful for the belief that all the people had faith in the government, including him.
+
+The President said that as democratic country, a single party in Sri Lanka would never expect the country rule.
+
+As such, the President said that the needs of all citizens are obliged to fulfill.
+
+The president said that the President has taken the responsibility of the people and that the president of the election campaign has been concluded as the president.
+
+He also emphasized that there is no room for any religious extremism.
+
+"But I assure you that no one will build racial, religious, slogans to recover political power in our country ..."
+
+...
+
+[Data](articles/490898fa.json)
+
+[Extended Data](ext_articles/490898fa.ext.json)
+
+---
+
+### President Dissanayake delivers govt’s policy statement
+
+*2024-11-21 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103660/president-dissanayake-delivers-govts-policy-statement) · `en`
+
+President Anura Kumara Dissanayake, who arrived in the Parliament a short while ago, commenced delivering the government’s policy statement to the House after the first session of the Tenth Parliament was inaugurated this morning (21).
+
+The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning with the participation of the newly-elected legislators.
+
+Following the initial formalities including the election of the Speaker and the Deputy Speaker, Parliament was temporarily suspended until 11.30 a.m.
+
+President Anura Kumara Dissanayake presided over the Speaker’s Chair and presented the Government’s Policy Statement in accordance with Articles 32(4) and 33 of the Constitution.
+
+...
+
+[Data](articles/1ec14d8a.json)
+
+[Extended Data](ext_articles/1ec14d8a.ext.json)
+
+---
+
+### The President has arrived
+
+*2024-11-21 11:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வந்தடைந்தார்/175-347547) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake arrives at Parliament. Greeted by Speaker & PM. No military parade, honors, or national anthem played. Simple ceremony marks his visit.
+
+🟩
+
+President Anura Kumara Dissanayake arrived in Parliament shortly. He was taken by Speaker Dr. Asoka Ranwala and Prime Minister Dr. Aruni Amarasuriya. In a very simple way, the president's visit took place this time.
+
+It is noteworthy that this is not the case, including the parade of the forces, the resolution of the honor, and the Mangala anthem.
+
+◼️
+
+[Data](articles/c2242cad.json)
+
+[Extended Data](ext_articles/c2242cad.ext.json)
+
+---
+
+### Former President to India
+
+*2024-11-21 11:25:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-ඉන්දියාවට/11-413191) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former Sri Lankan President Ranil Wickremesinghe departed from Colombo's Katunayake Airport on November 21st. He was accompanied by his wife Maithree Wickramasinghe, Sagala Ratnayake, and other aides. They boarded an Air Lanka flight (registration number 4R-AUN) bound for New Delhi at 8:19 AM local time.
+
+🟩
+
+Former President Ranil Wickremesinghe, Mr. Wickremesinghe, the officer in charge of the airport was leaving for New Delhi in the morning of 11/21.
+
+The airport work officer in charge of the airport work officer added that his wife Maithree Wickremasinghe, Sagala Ratnayake and other assistants have left for the visit.
+
+They were 28.19 am on January 08.19 am on 08.19 am. The 282 aircraft left the Katunayake airport.
+
+◼️
+
+[Data](articles/b96f273b.json)
+
+[Extended Data](ext_articles/b96f273b.ext.json)
+
+---
+
+### President Parliament to address Policy Declaration - Live!
+
+*2024-11-21 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199305) · `ta`
+
+Pres. Anura Kumara Dissanayake visits Parliament for policy declaration. Disregarded protocol. Speaker & Secy. Gen. escort him. Parliament in disrepair. Jayamangala Geetam visited.
+
+🟩
+
+In this context, President Anura Kumara Dissanayake visited Parliament without the class and respect of the President, as the President's Policy Declaration was to be held at 11.30 am today.
+
+Speaker Ashoka Rangwella and Parliamentary Secretary General from the main gate of Parliament paid homage to the President and took him to the Hall.
+
+As President Anura Kumara Dissanayake visited the Parliament to deliver the policy declaration, the president visited the parliament in a state of disrepair and the Jayamangala Geetam.
+
+◼️
+
+[Data](articles/9dd7cba1.json)
+
+[Extended Data](ext_articles/9dd7cba1.ext.json)
+
+---
+
+### President arrives in Parliament
+
+*2024-11-21 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203594) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+President Anura Kumara Dissanayake arrives at Parliament. Speaker to be temporarily suspended. Policy statement to be presented at 11:30 AM. President enters from parking area.
+
+🟩
+
+President Anura Kumara Dissanayake has arrived at the parliamentary complex.
+
+The Speaker is scheduled to be temporarily suspended and presented by President Anura Kumara Dissanayake to the Parliament of the House at 11.30 am and presented the policy statement to the Parliament.
+
+The President is currently coming to the parliamentary coalition from the parking room.
+
+◼️
+
+[Data](articles/8628445d.json)
+
+[Extended Data](ext_articles/8628445d.ext.json)
+
+---
 
 ### Substandard drugs scandal: Ex-ministers Ramesh, Roshan, Prasanna arrive at CID
 
@@ -45,6 +643,8 @@ On November 12, the Maligakanda Magistrate’s Court had ordered to record state
 ...
 
 [Data](articles/32976d3a.json)
+
+[Extended Data](ext_articles/32976d3a.ext.json)
 
 ---
 
@@ -61,6 +661,22 @@ On November 12, the Maligakanda Magistrate’s Court had ordered to record state
 ◼️
 
 [Data](articles/a03f8683.json)
+
+---
+
+### பலத்த பாதுகாப்புடன் பருத்தித்துறை நீதிமன்றுக்கு அழைத்துச் செல்லப்பட்ட கஞ்சிப்பானை இம்ரானின் சகா
+
+*2024-11-21 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199297) · `ta`
+
+பாதாள உலகத் தலைவர் கஞ்சிப்பானை இம்ரானின் முன்னாள் சகா என கூறப்படும் தமிழ் இளைஞர் ஒருவர்,  நேற்று புதன்கிழமை (20) பருத்தித்துறை நீதிமன்றில் பலத்த பாதுகாப்புடன் முற்படுத்தப்பட்டார்.
+
+கடந்த மே மாதம் 30 ஆம் திகதி ஹெரோயின் போதைப்பொருளுடன் கைதுசெய்யப்பட்ட இந்த சந்தேகநபர், மே 31 ஆம் திகதி பருத்தித்துறை நீதிமன்றில் முற்படுத்தப்பட்டதையடுத்து அவரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டிருந்தது.
+
+வடமராட்சியை சேர்ந்த இந்த சந்தேகநபர், தான் பாதாள உலகக் குழுவின் தலைவன் கஞ்சிப்பானை இம்ரானின் முன்னாள் சகா எனவும், அவருடன் ஏற்பட்ட கருத்து முரண்பாடு காரணமாக பிரிந்து பூக்குடி கண்ணா என்பவருடன் இணைந்து செயற்பட்டு வந்ததாகவும், கஞ்சிப்பானை இம்ரானின் தந்தை மீது தாக்குதல் நடத்திவிட்டு, யாழ்ப்பாணத்தில் தலைமறைவாகி இருந்ததாகவும் யாழ். சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த காலத்தில் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/08def2fa.json)
 
 ---
 
@@ -90,6 +706,24 @@ In the short term, we will find the places where wrongdoing. According to the co
 
 ---
 
+### ட்ரம்ப் இருக்கும்போதே காலநிலை கூட்டணி   வெற்றி பெறுவதற்கான நான்கு காரணங்கள்
+
+*2024-11-21 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199298) · `ta`
+
+புள்ளிவிபரங்கள் மிகத் தெளிவாக உள்ளன: தற்போது வரையில் அமெரிக்க கரியமில உமிழ்வுகள் சீனாவை விட 8 மடங்கும், இந்தியாவைவிட 25மடங்கும், அதிகமாகக் காணப்படுவதோடு சிறிய தீவுகள் மற்றும் வளர்ச்சியடைந்து வரும் நாடுகளுடன் அல்லது ஆபிரிக்காவுடன் ஒப்பிடும்போது வேறுபாடு மேலும் அதிகமாக உள்ளது.
+
+ஆகவே பரந்து விரிந்துள்ள பூமியை காப்பாற்றுவதற்கும், காலநிலை மாற்றத்தால் பாதிக்கப்பட்டவர்களையும் பாதுகாக்கும் நடவடிக்கைகளுக்கான பொறுப்பை வேறு தரப்பினரிடத்தில் அமெரிக்கா ஒப்படைக்க வேண்டும்.
+
+வெப்பமான நிலைமை 1200ஆம் ஆண்டிலிருந்து கணிக்கப்படுகின்ற நிலையில் இந்தவாரம் ஐக்கிய நாடுகள் காலநிலை மாநாட்டுப் பேச்சுவார்த்தைக்காக அஜர்பைஜானின் பாகுவில், ஒன்று கூடியுள்ளன. இதில் உலகமே பங்கேற்கின்றமை விசேடமாகும்.
+
+உலகின் மிகவும் வளர்ந்த மாநிலங்களில் ஒன்றான ஸ்பெயினில் 200க்கும் மேற்பட்ட உயிர்களைப் பறித்த வெள்ள அனர்த்தம் நிகழ்ந்து ஒரு வாரத்திற்குப் பிறகு மேற்படி சர்வதேச சந்திப்பு நடைபெறுகிறது.
+
+...
+
+[Data](articles/247949b7.json)
+
+---
+
 ### Parliament. Adjourn until 11.30
 
 *2024-11-21 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-පෙ-ව--11-30-තෙක්-කල්-තැබෙයි/11-413189) · `si`
@@ -109,6 +743,24 @@ He was procrastinated to procrastinate the Parliament to officially launch the P
 [Data](articles/4862d290.json)
 
 [Extended Data](ext_articles/4862d290.ext.json)
+
+---
+
+### மாத்தறையில் பெருந்தொகை போதைப்பொருட்களுடன் 10 பேர் கைது!
+
+*2024-11-21 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199289) · `ta`
+
+மாத்தறை, கந்தர பிரதேசத்தில்  ஐஸ் போதைப்பொருள் மற்றும் ஹெரோயின் போதைப்பொருளுடன் 10 சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளரும் பிரதி பொலிஸ் மா அதிபருமான நிஹால் தல்துவ தெரிவித்தார்.
+
+மாத்தறை பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கையின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்களிடமிருந்து 160 கிலோ கிராம் ஐஸ் போதைப்பொருளும் 60 கிலோ கிராம் ஹெரோயின் போதைப்பொருளும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+இது தொடர்பான மேலதிக விசாரணைகளை மாத்தறை பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்டு வருவதாக அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/5632973f.json)
 
 ---
 
@@ -220,6 +872,16 @@ The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. th
 
 ---
 
+### பாராளுமன்ற குழுக்களின் பிரதித் தலைவராக ஹேமாலி வீரசேகர நியமனம்
+
+*2024-11-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199295) · `ta`
+
+◼️
+
+[Data](articles/b2510870.json)
+
+---
+
 ### Muhammad Rizvi Sally as Deputy Speaker
 
 *2024-11-21 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதி-சபாநாயகராக-முஹம்மத்-ரிஸ்வி-சாலி/175-347538) · `ta`
@@ -259,6 +921,46 @@ Speaker Dr. Asoka Ranwala announced in the House that Sajith Premadasa has been 
 [Data](articles/774f355a.json)
 
 [Extended Data](ext_articles/774f355a.ext.json)
+
+---
+
+### රමේෂ් - රොෂාන් - ප්‍රසන්න CIDයට එයි - හරීන් අද නොයයි
+
+*2024-11-21 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203592) · `si`
+
+හිටපු අමාත්‍යවරුන් වන රමේෂ් පතිරණ, රොෂාන් රණසිංහ, ප්‍රසන්න රණතුංග අද (21) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ තිබේ.
+
+ඒ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා යොමුකළ කැබිනට් පත්‍රිකාවට අනුමැතිය දීම සම්බන්ධයෙන් ප්‍රකාශ ලබාගැනීමට ය.
+
+හිටපු අමාත්‍ය හරීන් ප්‍රනාන්දු හෙට (22) දිනයේ CIDය හමුවේ පෙනී සිටින බවට දැනුම්දී ඇත.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීම සඳහා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය දීම සම්බන්ධයනේ එවකට කැබිනට් මණ්ඩලය නියෝජනය කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍යවරුන් 18 දෙනෙකුගෙන් ප්‍රකාශ ලබාගන්නා බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉකුත් 11 වනදා මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+
+...
+
+[Data](articles/51f8e004.json)
+
+---
+
+### புதிய சபாநாயகராக அசோக ரங்வெல தெரிவு
+
+*2024-11-21 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199292) · `ta`
+
+புதிய சபாநாயகராக தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அசோக ரங்வெல வாக்கெடுப்பின்றி ஏகமனதாக நியமிக்கப்பட்டுள்ளார்.
+
+பத்தாவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடரின்  கன்னி அமர்வு வைபவரீதியாக  ஆரம்பமான நிலையில்,  பத்தாவது பாராளுமன்ற கூட்டத்தொடர் தொடர்பில் ஜனாதிபதி பிரசுரித்த வர்த்தமானி அறிவித்தலை பாராளுமன்ற செயலாளர் நாயகம் சபைக்கு அறிவித்தார்.
+
+இந்நிலையில், தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அசோக ரங்வெல சபாநாயகராக  வாக்கெடுப்பின்றி நியமிக்கப்பட்டார்.
+
+இதையடுத்து, புதிய சபாநாயகருக்கு ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச வாழ்த்து தெரிவித்தார்.
+
+பின்னர், புதிய சபாநாயகருக்கு ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம் வாழ்த்து தெரிவித்தார்.
+
+புதிதாக  பாராளுமன்றத்துக்கு தெரிவு செய்யப்பட்ட உறுப்பினர் ஒருவரை சபாநாயகராக நியமித்துள்ளதை வரவேற்கிறேன். மக்களாணைக்கு தலை வணங்குகிறேன் என்றார்.
+
+...
+
+[Data](articles/b8abcefa.json)
 
 ---
 
@@ -347,32 +1049,6 @@ Parliamentarian Ashoka Ranwala was elected as the Speaker of the New Parliament.
 [Data](articles/aad8de98.json)
 
 [Extended Data](ext_articles/aad8de98.ext.json)
-
----
-
-### The Virgin Session of the 10th Parliament
-
-*2024-11-21 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199288) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"President Anura Kumara Dissanayake to present policy declaration at 10th Parliament's first session. No inaugural parade."
-
-
-
-This summary captures the main points in 200 characters, focusing on the key elements: the event, who will present, and the notable absence of a parade.
-
-🟩
-
-President Anura Kumara Dissanayake will present his government's policy declaration at the Virgin session of the first session of the parliament, which began with no parade.
-
-◼️
-
-[Data](articles/b98c8eba.json)
-
-[Extended Data](ext_articles/b98c8eba.ext.json)
 
 ---
 
@@ -1186,11 +1862,11 @@ Over a decade, Sri Lanka’s politics has displayed extreme electoral volatility
 
 *2024-11-21 02:41:36* · [`dailyftlk`](https://www.ft.lk/columns/New-chapter-for-Sri-Lanka-Call-for-responsible-governance/4-769506) · `en`
 
-President Anura Kumara Dissanayake and the NPP now have the mandate to rewrite Sri Lanka’s story
-
 With the recent General election victory of the National People’s Power (NPP), Sri Lanka has entered a new chapter in its history. This moment of transition offers a unique opportunity to address the deep-rooted issues that have plagued our governance, economy, and social fabric. The people of Sri Lanka have spoken decisively, expressing their desire for change, transparency, and a fresh approach to leadership.
 
 This article seeks to advise the new administration on critical priorities, highlighting the mistakes of the past and proposing pathways to ensure long-term prosperity, public satisfaction, and fiscal responsibility.
+
+Over the years, successive governments have been criticised for systemic corruption, policy inconsistency, and economic mismanagement. From large-scale scandals like the Central Bank Bond Scam and the Avant Garde Maritime Scandal to misjudged projects like the Mattala Rajapaksa International Airport and many more, public trust in leadership has eroded significantly.
 
 ...
 
@@ -1685,707 +2361,5 @@ Following this, a group led by District Government Agent K. Kanageswaran, who ar
 [Data](articles/cd3d21ea.json)
 
 [Extended Data](ext_articles/cd3d21ea.ext.json)
-
----
-
-### We hope that the National People's Power will fulfill the responsibility of protecting the rights of the minority -Sri Lanka
-
-*2024-11-20 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199276) · `ta`
-
-National People's Power government protects minority rights: Sri Lanka. New chapter begins under President Anura Kumara Dissanayake. Focus on reconciliation, social welfare, and economic growth.
-
-🟩
-
-We expect a new chapter on the journey of the new government issued by the people. Speaker of the Sri Lankan Apostolic Army Susil Ranjith said that the National People's Power government led by President Anura Kumara Dissanayake would be responsible for protecting the rights of minorities in the country.
-
-He further stated at a press conference held in Colombo on Wednesday (20).
-
-The Sri Lankan Apostolic Archbishop National Council reaffirms the stability of reconciliation, social content and poverty alleviation amidst the new chapter of Sri Lanka. We hope that President Anura Kumara Dissanayake, who has formed a new government, will defend the rights of the minority people in the country.
-
-We hope that the government headed by President Anura Kumara Dissanayake will continue to maintain an honest Sri Lankan identity by ensuring the progress and development of the country and the people.
-
-...
-
-[Data](articles/dd2625cd.json)
-
-[Extended Data](ext_articles/dd2625cd.ext.json)
-
----
-
-### Sri Lanka plans confab to boost marine linked exports
-
-*2024-11-20 22:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-confab-to-boost-marine-linked-exports-188875/) · `en`
-
-ECONOMYNEXT – Sri Lanka is holding a conference showcasing the island’s maritime business potential with over 40 foreign participants in November as a part of efforts to boost exports, newly appointed chairman of the island’s Export Development board said.
-
-“We can market our county’s location to increase foreign currency inflows,” EDB Chairman Mangala Wijesinghe told reporters Wednesday.
-
-“Nearly 200 ships go through Sri Lanka everyday and we are hoping to provide off shore services and create jobs out of it,” Wijesinghe said.
-
-The forum called Voyage Sri Lanka 2024 will be held on November 26.
-
-Sri Lanka is keen to promote sustainable use of ocean resources, marine and aquaculture services and strengthen its boat and shipbuilding industries, he said.
-
-...
-
-[Data](articles/b20a7d83.json)
-
-[Extended Data](ext_articles/b20a7d83.ext.json)
-
----
-
-### Sri Lanka sells Rs145bn in treasury bills, 12-months also sold
-
-*2024-11-20 22:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs145bn-in-treasury-bills-12-months-also-sold-188946/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 145 billion rupees of bills sold, including one year bills, data from the debt office showed.
-
-The 3-month yield was down 5 basis points at 9.30 percent, with all offered 50 billion rupees of bills sold.
-
-The 6-month yield was down 4 basis points at 9.60 percent, with all offered 65 billion rupees of bills sold.
-
-The 12-month bills was down 10 basis points at 9.78 percent, with all offered and 30 billion rupees of bills sold.
-
-All three maturities were offered on tap after the the auction. (Colombo/Nov20/2024)
-
-◼️
-
-[Data](articles/306a2883.json)
-
-[Extended Data](ext_articles/306a2883.ext.json)
-
----
-
-### Special unit for violating animal damage priority
-
-*2024-11-20 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203579) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Ministry establishes special unit to combat animal damage. Coconut, fruit crops targeted. Multi-strategy approach planned. Involves agriculture, wildlife, research institutes, military, civil defense.
-
-🟩
-
-A special discussion has held a special discussion today regarding sustainable measures to control the coconut, fruits and other animal damage.
-
-It was Minister of Agriculture, Livestock, Land and Irrigation Minister KD. At the patronage of Mr. Lal Kantha was at the ministry.
-
-There, a special unit was established in the Ministry to control the harmful seventh expansion and prevent damaged animal crops using multiple strategies.
-
-Plan has been prepared to act on a program that can be implemented.
-
-The Ministry of Agriculture, Livestock, Lands and Irrigation, Department of Wildlife Conservation, Department of Agriculture, Department of Agriculture, Farmers' Research Institute, the Sri Lanka Army and Civil Defense Forces.
-
-◼️
-
-[Data](articles/0e107b00.json)
-
-[Extended Data](ext_articles/0e107b00.ext.json)
-
----
-
-### NPP sweep is ‘earthquake in Sri Lankan politics’ - Erik Solheim
-
-*2024-11-20 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103646/npp-sweep-is-earthquake-in-sri-lankan-politics-erik-solheim) · `en`
-
-The stunning electoral sweep of the National People’s Power (NPP) led by President Anura Kumara Dissanayake is “an earthquake in Sri Lankan politics”, says Erik Solheim, the former Norwegian peace facilitator in the island nation.
-
-The former diplomat also feels that the strong showing by the NPP in areas populated by Tamils, particularly in the north, marked “a very strong call for a new start in ethnic relations in Sri Lanka”.
-
-Solheim, who has interacted closely with many Sri Lankan leaders, however, warned that while the NPP’s inner core “is for sure non-corrupt, eradicating corruption is a huge task”.
-
-Solheim, now a committed green activist, piloted the Western-backed peace process which led to a historic pact between Colombo and the Liberation Tigers of Tamil Eelam (LTTE) in early 2002.
-
-...
-
-[Data](articles/d8febff8.json)
-
-[Extended Data](ext_articles/d8febff8.ext.json)
-
----
-
-### 2 crore in a house robbery
-
-*2024-11-20 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203578) · `si`
-
-Switzerland woman robbed in Batticaloa house. Gang flees with 2 crore. Robbers caught through bathroom window. Foreign currency, gold jewelry found. Police investigating.
-
-🟩
-
-A gang entered into a house was fled Rs.
-
-A woman from Switzerland in the Kattankudi area in Batticaloa has lived alone and has been severely attacked and robbed her.
-
-It has been revealed that the robbers have been arrested in the bathroom window in the bathroom.
-
-Later, a cupbraw was collapsed and there were foreign currency, gold jewelery and the money in the country.
-
-A 62-year-old woman who was alone in the house, and her daughter resides in Switzerland and has been retired from a Switzerland nurse and retired from a short time.
-
-Cartankudi police and criminal investigations officers join in investigations and are being conducted by official dogs.
-
-◼️
-
-[Data](articles/673ef190.json)
-
-[Extended Data](ext_articles/673ef190.ext.json)
-
----
-
-### The prosperity and stability of a world cannot be rich in the rich as poor as poor
-
-*2024-11-20 21:43:44* · [`adalk`](https://www.ada.lk/breaking_news/දුප්පතුන්-දුප්පත්-වනවිට-ධනවතුන්-පොහොසත්-වන-ලෝකයක-සමෘද්ධිය-සහ-ස්ථාවරත්වය-කළ-නොහැකියි/11-413187) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Chinese President Xi Jinping emphasized global economic balance at the G20 summit. He stated that world prosperity depends on both rich and poor nations thriving equally. Xi called for increased cooperation in trade, investment, and development to combat poverty and create a more equitable world.
-
-🟩
-
-Chinese President Shi Jinping said that the poor, as poor, could not produce the rich and rich in a world that is rich in the rich.
-
-He was speaking at a G20ma Summit held in Rio de Janeiro, Brazil on Monday (18).
-
-He also said that this year's Rio will be implemented under the theme of a "reasonable world and a sustainable planet building" and is focusing on building a common developing world.
-
-He said that the areas of trade, investment and development cooperation should be increased in the fields of trade, investment and development cooperation.
-
-Speaking further China, China, the President said, "Jagath of Food Security to eradicate poverty in developing countries with one routeThe continued support of China for cooperation described the support of China.
-
-He also said that China is ready to take a step forward with all parties to build a fair world with a fair world with a fair world and make a real development of common development.
-
-◼️
-
-[Data](articles/1a0ce0e2.json)
-
-[Extended Data](ext_articles/1a0ce0e2.ext.json)
-
----
-
-### Share investors jittery over IMF’s evaluation of government
-
-*2024-11-20 21:40:00* · [`islandlk`](http://island.lk/share-investors-jittery-over-imfs-evaluation-of-government/) · `en`
-
-Stock exchange activities were marginally up yesterday due to corporate earnings being quite satisfactory. However, investors are continuing to worry over the IMF’s evaluation of the newly elected government.
-
-The market indicated a bullish trend over the last few weeks but now profit- takings are notable due to confusion in some sections over IMF recommendations, market analysts said.
-
-Amid those developments both indices moved upwards marginally. The All Share Price Index went up by 8.17 points, while S and P SL20 rose by 3.9 points.
-
-Turnover stood at Rs 2.7 billion with four crossings. Those crossings were reported in JKH where 15.2 million shares crossed to the tune of Rs 312 million; its shares traded at Rs 20.50, Sampath Bank 500,000 shares crossed for Rs 47.5 million; its shares traded at Rs 95, HNB 187,000 shares crossed to the tune of Rs 43 million; its shares traded at Rs 230 and NDB 337,000 shares crossed for Rs 28 million; its shares were priced at Rs 83.
-
-...
-
-[Data](articles/40701709.json)
-
-[Extended Data](ext_articles/40701709.ext.json)
-
----
-
-### 10 kilograms of womb of a woman's uterus
-
-*2024-11-20 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203577) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Hambantota Hospital doctors successfully removed 10 kg of uterus tissue from a 40-year-old woman during surgery. Dr. Samantha Samarawickrama performed the operation, and the patient was discharged afterward.
-
-🟩
-
-Doctors of Hambantota Hospital have succeeded to remove a sufficient removal of 10 kilograms of wombs of a woman.
-
-Dr. Samantha Samarawickrama, who was conducting surgery, Dr. Samantha Samarawickrama said that the 40-year-old woman who was surgery was released.
-
-◼️
-
-[Data](articles/a5529288.json)
-
-[Extended Data](ext_articles/a5529288.ext.json)
-
----
-
-### Education will be given more priority;Prime minister
-
-*2024-11-20 21:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்விக்கு-அதிக-முன்னுரிமை-அளிக்கப்படும்-பிரதமர்/175-347525) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New PM Harini Amarasuriya vows to prioritize education, ensure stress-free learning for students. Aims to create citizens ready for Renaissance era. Promises to address education issues promptly.
-
-🟩
-
-New Prime Minister Harini Amarasuriya has said that he will be dedicated to upholding the credibility of students for stressless education that can create citizenship for the upcoming Renaissance era.
-
-He made this statement when he took over his ministry post at the Ministry of Education, Higher Education and Vocational Education of the New Government today.
-
-According to the policies of the new government, education should be given more priority and school education should be successfully implemented in a formal and time order.
-
-The Prime Minister also pointed out that the problems in the field of education should be resolved soon. Remble
-
-◼️
-
-[Data](articles/591bb602.json)
-
-[Extended Data](ext_articles/591bb602.ext.json)
-
----
-
-### The latest decision taken with the e-8 visa problem
-
-*2024-11-20 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203576) · `si`
-
-Sri Lanka's Minister discusses E-8 visa issue with South Korean authorities, focusing on legal aspects and potential solutions.
-
-🟩
-
-The attention of the workers, foreign employment and Tourism Vijitha Herath has attracted the inconvenience of workers who are waiting for the e-8 visa for the e-8 visa of South Korea.
-
-The Minister has held a special discussion with the Sri Lanka PLC in Battaramulla this morning (20).
-
-The Minister decided to look into the legal situation and take necessary action to look into the legal status under the E-8 visa system in South Korea.
-
-Bureau Chairman of the Bureau Chairman Kosseka Wickremasinghe, General Manager DD. Senanayake, including Senanayake, had also participated.
-
-◼️
-
-[Data](articles/79a1d574.json)
-
-[Extended Data](ext_articles/79a1d574.ext.json)
-
----
-
-### 2024 A/L exam to be held on Nov. 25 as scheduled
-
-*2024-11-20 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103645/2024-al-exam-to-be-held-on-nov-25-as-scheduled) · `en`
-
-The Ministry of Education, Higher Education, and Vocational Education has confirmed that the 2024 G.C.E. Advanced Level (A/L) examination will commence as planned on November 25, and continue until December 20, 2024.
-
-Despite requests from various parties to postpone the examination, the Ministry stated that all pre-preparations by the Department of Examinations have already been completed as per the decision made in March 2024.
-
-Issuing a statement, the Ministry emphasized that the examination schedule has been carefully coordinated with other exams, including the 2024 G.C.E. Ordinary Level (O/L) examination, and any changes to the A/L examination dates would disrupt the broader examination calendar.
-
-◼️
-
-[Data](articles/444763ef.json)
-
-[Extended Data](ext_articles/444763ef.ext.json)
-
----
-
-### Military ports are removed in the north - Namal
-
-*2024-11-20 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199275) · `ta`
-
-Namal Rajapaksa expresses concern over removal of military ports in the North. He advocates consulting security forces to maintain national security, citing Sri Lanka's 30-year fight against terrorism and the need for continued security across the country.
-
-🟩
-
-Namal Rajapaksa has issued a serious concern over the recent removal of the military port in the North and the plan to remove many camps.
-
-He said in a social media post, adding that handing over the land to the public is not generally a matter of fact, but he should consult with the security forces to ensure that the national security of the country is not affected.
-
-He said that Sri Lanka fought against terrorism for 30 years, and that all communities are enjoying freedom today, he said, adding that it is necessary to ensure security in any part of the North South.
-
-◼️
-
-[Data](articles/d49fcb19.json)
-
-[Extended Data](ext_articles/d49fcb19.ext.json)
-
----
-
-### Petition to give effective license unique
-
-*2024-11-20 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203574) · `si`
-
-Here's a summary of the petition in 200 characters:
-
-
-
-Petition filed in Supreme Court challenging liquor license issuance during presidential election. Alleges improper transparency, favoritism towards government supporters. Requests investigation by Bribery Commission and Excise Election Act review.
-
-🟩
-
-The respondents including Ranil Wickremesinghe have filed a fundamental rights petition in the Supreme Court asking for the excise-licensing of liquidity after the publication of the presidential election.
-
-Chamara Sampath Abeysekera, who is engaged in an alcohol vessel in Kandy, N.. This petition was presented by Ravichandran.
-
-Former Finance Minister Ranil Wickremesinghe, former Excise Commissioner General M. M.. J. Gunasiri, Secretary to the Ministry of Finance, Wasantha Samarasinghe and 39 members were named after the Chairman of the Bribery Commission.
-
-Petitioners say that the petitioners have filed the presidential election from July 26, the presidential election was held on the 26th of September, the respondents had issued a number of liquidal license to the provisions of the Excise Elections Act..
-
-Petitioners allege that these licenses have issued the licenses in the presidential election with a purpose and the provisions of the Excise of the Excise of Excise.
-
-...
-
-[Data](articles/2d1d34b6.json)
-
-[Extended Data](ext_articles/2d1d34b6.ext.json)
-
----
-
-### 12 million rupees for the livelihood of the people of the Northern people by the Chinese Ambassador
-
-*2024-11-20 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199274) · `ta`
-
-Chinese Ambassador hands over 12mn rupees check to support Northern Province development.
-
-🟩
-
-Chinese Ambassador to Sri Lanka Key Sen Hong today (20) handed over a check by the Northern Province Governor Nagalingam Vedanayagan to help the Chinese government's worth of Rs.
-
-Governor of the Northern Province, Nagalingam Vedanayagan, met with Chinese Ambassador to Sri Lanka on Wednesday morning (20). He then handed over the check.
-
-The Chinese Ambassador to Sri Lanka congratulated and congratulated Nagalingam Vedanayaka, who was appointed Governor of the Northern Province and promised his contribution to the development of the area.. The Chinese Ambassador noted that the change in the North was happy with the observation.
-
-The Governor of the Northern Province, welcoming the Chinese Ambassador to Sri Lanka, pointed out the need to carry out corruption and development work in the Northern Province.
-
-...
-
-[Data](articles/e15a6ffe.json)
-
-[Extended Data](ext_articles/e15a6ffe.ext.json)
-
----
-
-### Two youths killed in motorcycle accident. Hurt
-
-*2024-11-20 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199273) · `ta`
-
-Motorcycle crash kills 2 injures 1 in Mankulam. Police investigating.
-
-🟩
-
-Two youths were killed and one of them injured when a motorcycle collided with two heads of motorcycles in the Mankulam Velangulam area at around 5.30 pm on Wednesday.
-
-The accident occurred when a motorcycle traveling from Mullaitivu Mangulam area and a motorcycle from Mallavi to Mangulam crashed into the fifth mile stone area of ​​Mankulam Vanniwilangulam.. Two youths died in the incident and were admitted to the Kilinochchi Hospital after being injured.
-
-Two youths, Vijayakumar Vidusan (20 years old) and Jayakumar Vidusan (23 years old), who lives in Mangula area. Mariyadas Swamigirthi (31 years old) has been injured.
-
-Mankulam police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/29e64670.json)
-
-[Extended Data](ext_articles/29e64670.ext.json)
-
----
-
-### Is A/L Postponed?
-
-*2024-11-20 20:11:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-ஒத்திவைக்கப்படுகின்றதா/175-347524) · `ta`
-
-A/L exams not postponed. Ministry confirms start date: Nov 25, 2024. Preparations complete despite calls for delay.
-
-🟩
-
-The Ministry of Education said in a statement that the Education General Standards for 2024 will commence on November 25, as planned.
-
-Although various parties have made demands to postpone the exam, the Department of Examinations Department of Examinations has taken the resolution last March that all preparations for the GCE Advanced Level Examination have already been completed.. Remble
-
-◼️
-
-[Data](articles/b8976322.json)
-
-[Extended Data](ext_articles/b8976322.ext.json)
-
----
-
-### The death of a young mother who died in Mannar demands justice
-
-*2024-11-20 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199271) · `ta`
-
-Protest demands justice for mother's death in Mannar. March near hospital turns violent, police clash with crowd. Riot police deployed. District officials meet with bereaved family. Protesters continue fighting in rain.
-
-🟩
-
-A protest march took place at around 4.30 pm on Wednesday (20) in front of the Mannar General Hospital seeking justice for the death of a mother and infantry.
-
-There was a peaceful struggle, with various demands, such as justice for the mother's death, the arrest of the wrongdoers and the hospital administration.
-
-During the protest, various slogans were raised and the riots broke out as the protesters were trying to enter the hospital.
-
-This was followed by a conflict between the police and the people. As a result, the riot police were also coming.
-
-Following this, a group led by the District Government Agent who arrived at the scene had consulted with the parents of the deceased.
-
-The protesters continue to fight before the Mannar General Hospital in the pouring rain.
-
-◼️
-
-[Data](articles/130d1343.json)
-
-[Extended Data](ext_articles/130d1343.ext.json)
-
----
-
-### Sri Lanka’s Arugam Bay Challenge
-
-*2024-11-20 19:59:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-arugam-bay-challenge/) · `en`
-
-Tisaranee Gunasekara’s usually excellent writings are informed by a strong moral compass. In her recent examination of the Arugam Bay controversy (Daily FT, 6 Nov. 2024), however, that compass wobbles to the point of fracture.
-
-Some preliminaries. Her account of the often gruesome atrocities meted out by the Israeli IDF to civilians in Gaza, and now Lebanon, is both accurate and sobering. And in this context it’s also good to see that she highlights opposition to the Israeli war both from within Israel itself, the Jewish American community – and, as she could have added, global Jewry. Thus, opposition to the war is not the issue in focus here. Rather, the key questions raised by her article relate solidly to Sri Lanka-directed realities and concerns.
-
-...
-
-[Data](articles/177cde59.json)
-
-[Extended Data](ext_articles/177cde59.ext.json)
-
----
-
-### Education Public Standards
-
-*2024-11-20 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199270) · `ta`
-
-Sri Lanka: Education standards 2024 begin Nov 25. No exam postponement despite demands. GCE Advanced Level in March as planned. Other exams dates set. Postponing high-level exam may disrupt others.
-
-🟩
-
-The Ministry of Education said in a statement that the Education General Standards for 2024 will commence on November 25, as planned.
-
-Although various parties have made demands to postpone the exam, the Sri Lanka Examinations Department has decided to take all the preparations for the GCE Advanced Level examination in March.
-
-It also stated that the dates have been decided for several examinations, including the next GCE Ordinary Examination, and that if the high -level exam is postponed, the planning for other exams will become completely irregular.
-
-◼️
-
-[Data](articles/b4279b43.json)
-
-[Extended Data](ext_articles/b4279b43.ext.json)
-
----
-
-### Two police officers arrested for 2 rolls, 2 placets and 2 cigarettes
-
-*2024-11-20 19:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රෝල්ස්-2-ක්--ප්ලේන්ටි-2-ක්-හා-දුම්වැටි-2-ක්-නිසා-අත්අඩංගුවට-ගත්-පොලිස්-නිලධාරීන්-දෙදෙනා/11-413186) · `si`
-
-Two police officers arrested for theft and drug possession. They allegedly stole two rolls, two packets, and two cigarettes while on duty. The incident occurred on the expressway near Matara. The officers will face legal proceedings.
-
-🟩
-
-Express tourism police say that two rolls worth Rs.
-
-The expressways have been attached to the Expressway Tourism Police Division
-
-Two suspects have come to Matara and deployed the expressway from Matara to the 17th and 10 pm.
-
-The police say that the driver has been forcibly acquired roles placery and smoking
-
-According to a complaint, the two suspects were arrested
-
-The arrested policemen are to be produced before courts
-
-◼️
-
-[Data](articles/fa834f64.json)
-
-[Extended Data](ext_articles/fa834f64.ext.json)
-
----
-
-### Petition to the Supreme Court that former President violates fundamental rights
-
-*2024-11-20 19:20:04* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-මූලික-අයිතිවාසිකම්-කඩ-කළ-බවට-ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්/11-413185) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Petition filed against former President Wickremesinghe alleging violation of fundamental rights. Challenges liquor licenses issued by Excise Department, citing corruption and fraud. Requests Supreme Court intervention and investigation into alleged wrongdoings.
-
-🟩
-
-After announcing the presidential election, two soldiers of former Minister Ranil Wickremesinghe have filed fundamental rights petitions to the Supreme Court, including former Finance Minister Ranil Wickremesinghe to propose to violate the fundamentals of the people.
-
-After the presidential election was published, the fundamental rights petition filed these fundamental rights petition demanding the abolition of all licenses issued to the Excise Act.
-
-Chamara Sampath Abeykoon, Kandy, Kandy, Kandy. Former Finance Minister Ranil Wickremesinghe, Minister of Finance Mahinda Siriwardena, Minister of Finance and Corruption has been named as respondents, which have filed the Heerandran.
-
-The respondents have issued a number of licenses for alcohol hills, contrary to the political objectives, contrary to the law after Mr. Manjula Balasuriya.
-
-...
-
-[Data](articles/1c5750f5.json)
-
-[Extended Data](ext_articles/1c5750f5.ext.json)
-
----
-
-### Problem
-
-*2024-11-20 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203571) · `si`
-
-Elections Commission: National List MPs names pending; Gazette announcement expected. New Democratic Front and Sri Lanka Muslim Congress seats affected. Reconciliation party publishes list. Hirunika Premachandra qualifies for women's slot. Sharmila Perera appoints Ravi Karunanayake unanimously. SLMC names to be announced today.
-
-🟩
-
-The Elections Commission says that several members of the National List MPs have yet to send the names of the MPs this year.
-
-After the relevant party secretaries to the Election Commission, the gazette is to be announced.
-
-Accordingly, four national listings of the new democratic force have a section of the New Democratic Front as well as one seat of the Sri Lanka Muslim Congress.
-
-The reconciliation has owned five national lists in this year's parliamentary election and has already been published by the party General Secretary Ranjith Madduma Bandara for a national list.
-
-Former MP Hirunika Premachandra stated that he would qualify for a woman in a media briefing held today (20).
-
-Meanwhile, the Secretary of the party Sharmila Perera has decided to appoint the National List MP of the New Democratic Front on a unanimous decision of the party.
-
-...
-
-[Data](articles/14f399d5.json)
-
-[Extended Data](ext_articles/14f399d5.ext.json)
-
----
-
-### Virtually no aid has reached besieged north Gaza in 40 days, UN says
-
-*2024-11-20 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103644/virtually-no-aid-has-reached-besieged-north-gaza-in-40-days-un-says) · `en`
-
-Palestinians are “facing diminishing conditions for survival” in parts of northern Gaza under siege by Israeli forces because virtually no aid has been delivered in 40 days, the UN has warned.
-
-The UN said all its attempts to support the estimated 65,000 to 75,000 people in Beit Hanoun, Beit Lahia and Jabalia this month had been denied or impeded, forcing bakeries and kitchens to shut down.
-
-Earlier this month, a UN-backed assessment said there was a strong likelihood that famine was imminent in areas of northern Gaza.
-
-The Israeli military has said its six-week-long offensive targets regrouping Hamas fighters, and that it is facilitating civilian evacuations and supply deliveries to hospitals.
-
-Hundreds of people have been killed and between 100,000 and 130,000 others have been displaced to Gaza City, where the UN has said essential resources like shelter, water and healthcare are severely limited.
-
-...
-
-[Data](articles/dbf55cdd.json)
-
-[Extended Data](ext_articles/dbf55cdd.ext.json)
-
----
-
-### 50 people belonging to 15 families due to heavy rains in Jaffna
-
-*2024-11-20 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199269) · `ta`
-
-Heavy rains in Jaffna affect 50 people from 15 families, damaging homes and infrastructure.
-
-🟩
-
-Deputy Director of the Jaffna District Disaster Management Division, TN Suriyarajah, said that 50 people from 15 families in Jaffna have been affected by the ongoing heavy rains.
-
-Two family members of the J/315 Grama Sevakar Division, which belongs to the Chavakachcheri Divisional Secretariat, and two members of a family in the J/328 Grama Sevaka Division. Two houses have been damaged.
-
-In addition, 8 people from two families have been affected and a house has been partially damaged in the J/56 Grama Niladhari Division of the Kayts Divisional Secretariat Division.
-
-Six people from three families belonging to the Point Pedro Divisional Secretariat have been affected and two houses have been damaged. In the J/403 Grama Niladhari Division, 29 people from 7 families have been affected and 6 houses have been damaged.
-
-He added that a family belonging to a family in the J/91 Grama Niladhari Division, which belongs to the Nallur Divisional Secretariat Division, has been damaged by a house.
-
-◼️
-
-[Data](articles/590b7751.json)
-
-[Extended Data](ext_articles/590b7751.ext.json)
-
----
-
-### Supervision of the Cabinet and report to the President
-
-*2024-11-20 19:13:07* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-අධීක්ෂණය-කර-ජනපතිට-වාර්තා-කිරීමට-අධීක්ෂණ-මණ්ඩලයක්/11-413184) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Board of Supervisors oversees Cabinet activities, reports to President. Experienced members appointed. President monitors progress, informs Cabinet of expectations. Action committees formed in Ministries.
-
-🟩
-
-A Board of Supervisory Board is to be appointed to oversee the activities of the Cabinet. It was also reported that the Board of Supervisors will be appointed and experienced.
-
-Accordingly, the president of the Supervisors is responsible for the overseeing the activities of the Cabinet and reporting the progress of the activities.. It is reported that the guidelines have been given to the new Cabinet and the task and progress of each ministries.
-
-It is reported that the President has informed the Cabinet of Ministers that if the ministers fail to meet their tasks and goals.Meanwhile, action committees are to be appointed to all Ministries.
-
-◼️
-
-[Data](articles/7e8d5d47.json)
-
-[Extended Data](ext_articles/7e8d5d47.ext.json)
-
----
-
-### Health Notes have been discroomed by 213
-
-*2024-11-20 19:08:49* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයේ-ඇඟිලි-සටහන්-යන්ත්‍ර-213-භාවිතයට-නොගෙනම-නිශ්ක්‍රීය-වෙලා/11-413183) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Audit reveals 21.3 million unreported to Health Ministry. Overtime payments questioned. Trade unions protest implementation of new instructions.
-
-🟩
-
-The latest audit report released on November 16, the National Conclusion Report issued by the National Conclusion Machines were not used to report 21.3 million to the Ministry of Health..
-
-According to a letter issued by the Secretary of the Ministry of Health, the health staff's arrival and exit to the arrival of the interior SC, the current salary should be made sure that overtime should not be paid according to the current salary.
-
-38,236,83 million was paid for 38,236,83 million for the health staff from January 2023 to health staff.. The audit report states that the total amount spent on overtime and holidays is 72% of the salary expenditure.
-
-The main number of Health Ministry's main number of instructions is issued to the Audit of the Public Administration Circular Service, but to implement the Ministry of Health to implement it due to trade union protestsIt is not possible to run.
-
-◼️
-
-[Data](articles/0d33618e.json)
-
-[Extended Data](ext_articles/0d33618e.ext.json)
-
----
-
-### Namal's mission to remove military camp in the north
-
-*2024-11-20 19:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-இராணுவ-முகாம்-அகற்றப்பட்டதற்கு-நாமல்-விசனம்/175-347511) · `ta`
-
-Namal Rajapaksa opposes removal of military camps in North, citing national security concerns. He urges consultation with security forces to balance land rebuilding with maintaining national safety.
-
-🟩
-
-The National Coordinator of the Sri Lanka PA (SLPP), Namal Rajapaksa, has expressed concern over the recent removal of a military camp in the Northern Province and planning to remove more camps in the coming months.
-
-Although it is not a problem for the people to rebuild the land, he urged his X site to consult with the security forces in consultation with the security forces to prevent the compromise in national security.
-
-Rajapakse said, "Sri Lanka has fought against 30 years of terrorism, and today all communities are sacrificing thousands of lives and enjoying freedom," Rajapakse said.
-
-He added that it is very important to maintain national security, regardless of the geographical location, whether in the north or south.
-
-◼️
-
-[Data](articles/6ce687e7.json)
-
-[Extended Data](ext_articles/6ce687e7.ext.json)
-
----
-
-### Digital Nomads & The New Travel Economy: How Remote Work Is Changing Tourism
-
-*2024-11-20 19:06:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/digital-nomads-the-new-travel-economy-how-remote-work-is-changing-tourism/) · `en`
-
-The rise of remote work has fundamentally transformed the traditional workplace, and with it, the tourism industry. This shift has given birth to a new class of travellers: digital nomads. Digital nomads – professionals who work remotely while traveling – have redefined the concept of work-life balance, blending work with exploration in new and exotic locations. Their lifestyle has reshaped local economies, tourism infrastructures, and even social dynamics in many destinations worldwide. This article explores the rise of digital nomads, their impact on the travel economy, and the challenges and opportunities they present for the tourism industry.
-
-...
-
-[Data](articles/c5ead881.json)
-
-[Extended Data](ext_articles/c5ead881.ext.json)
 
 ---

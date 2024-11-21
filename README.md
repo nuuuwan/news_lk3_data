@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 00:41:38**
+As of **2024-11-22 00:58:32**
 
 ## Newspaper Stats
 
-*Scraped **56,226** Articles*
+*Scraped **56,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,413
-dailyftlk | 3,844
+dailyftlk | 3,846
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
@@ -26,11 +26,41 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,225 (100.0%) of 56,226 articles have been extended.
+56,226 (100.0%) of 56,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### Trade Union action demanding resignation and inquiries against Ruhuna University VC
+
+*2024-11-22 00:46:40* · [`dailyftlk`](https://www.ft.lk/opinion/Trade-Union-action-demanding-resignation-and-inquiries-against-Ruhuna-University-VC/14-769522) · `en`
+
+Prime Minister and Education and Higher Education Minister Dr. Harini Amarasuriya
+
+I am making a request from you as the Hon Minister of Education which I think is reasonable from my side. I would like all these groups to submit the new allegations against me and make these known to me before removing me from the post
+
+Following is a letter written by University of Ruhuna Vice Chancellor Prof. Sujeewa Amarasena to Prime Minister and Education and Higher Education Minister Dr. Harini Amarasuriya against trade union action demanding his resignation and inquiries against him.
+
+...
+
+[Data](articles/30d2efc6.json)
+
+---
+
+### Virus called brutal ragging
+
+*2024-11-22 00:41:43* · [`dailyftlk`](https://www.ft.lk/columns/Virus-called-brutal-ragging/4-769521) · `en`
+
+In a country which still prefers lackeys to competent men, we are bound to come across many more Hirushans either in ICUs or in coffins
+
+The University of Ruhuna seems to be very well quarantined. Under an extremely capable Consultant Paediatrician, it seems to have been saved from a killer virus which has invaded the entire Sri Lankan body of public universities causing occasional deaths, permanent injuries and life-long psychological scars. A virus called Brutal Ragging.
+
+...
+
+[Data](articles/4b48184e.json)
+
+---
 
 ### Prasanna Ranatunga, Ramesh Pathrana and Roshan Ranasinghe appeared at the CIT
 
@@ -1888,6 +1918,8 @@ There were greater details in the NPP manifesto and the newly appointed minister
 
 [Data](articles/3ae30208.json)
 
+[Extended Data](ext_articles/3ae30208.ext.json)
+
 ---
 
 ### Ashoka Rangwella selected as the new Speaker
@@ -2529,43 +2561,5 @@ The account report will be submitted in December this year to allocate the neces
 [Data](articles/d687b485.json)
 
 [Extended Data](ext_articles/d687b485.ext.json)
-
----
-
-### President receives a meeting of the IMF agreement
-
-*2024-11-21 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203596) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake announces IMF agreement signing on 23rd.
-
-🟩
-
-President Anura Kumara Dissanayake says the staff level agreement of the Third Review of the International Monetary Fund is scheduled to be signed on the 23rd.
-
-◼️
-
-[Data](articles/b9904f68.json)
-
-[Extended Data](ext_articles/b9904f68.ext.json)
-
----
-
-### Parliament adjourned until December 03
-
-*2024-11-21 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103663/parliament-adjourned-until-december-03) · `en`
-
-The Parliament of Sri Lanka has been adjourned until 09.30 a.m. on December 03, 2024 by the President Anura Kumara Dissanayake.
-
-The Parliament was adjourned after the President concluded delivering the government’s policy statement during the inaugural session of the 10th Parliament today.
-
-◼️
-
-[Data](articles/8456f995.json)
-
-[Extended Data](ext_articles/8456f995.ext.json)
 
 ---

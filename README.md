@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 19:41:56**
+As of **2024-11-21 19:18:07**
 
 ## Newspaper Stats
 
-*Scraped **56,187** Articles*
+*Scraped **56,183** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 574
-bbccomsinhala | 584
+bbccomsinhala | 583
 islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,293
-adaderanalk | 6,793
-tamilmirrorlk | 7,982
+adaderanalk | 6,791
+tamilmirrorlk | 7,981
 virakesarilk | 9,126
 adaderanasinhalalk | 9,698
 
@@ -26,63 +26,11 @@ adaderanasinhalalk | 9,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,184 (100.0%) of 56,187 articles have been extended.
+56,182 (100.0%) of 56,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### Arrest warrant issued against former Minister Douglas Devananda
-
-*2024-11-21 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103676/arrest-warrant-issued-against-former-minister-douglas-devananda) · `en`
-
-The Colombo Magistrate’s Court today (21) issued an arrest warrant against former Minister Douglas Devananda after he failed to appear before the court to testify in an ongoing case.
-
-The case pertaining to a complaint lodged by Devananda with the Criminal Investigation Department (CID) in 2016, accusing Wellawatta-based businessman Subramaniam Manoharan of issuing two fraudulent cheques, each valued at Rs. 10 million, was taken up before the court today.
-
-Despite being summoned to testify in court today, former Minister Devananda was absent. While his attorney claimed he was unwell, no medical documentation was submitted to substantiate the claim, Ada Derana reporter said.
-
-Given the lack of credible justification for his absence, the Magistrate ordered the issuance of warrants to arrest and produce Devananda in court.
-
-◼️
-
-[Data](articles/bd4369c7.json)
-
----
-
-### MS Naleem was selected on the national list
-
-*2024-11-21 19:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்-பட்டியலில்-தெரிவானார்-எம்-எஸ்-நளீம்/175-347579) · `ta`
-
-Here's a 200-character summary:
-
-
-
-MS Naleem chosen for national list by Sri Lanka Muslim Congress. Former Eravur Municipal Council Chairman elected as National List Member of Parliament.
-
-🟩
-
-The Sri Lanka Muslim Congress (SLMC) has elected MS Naleem, former Chairman of the Eravur Municipal Council as its National List Member of Parliament.
-
-◼️
-
-[Data](articles/9b2f465a.json)
-
-[Extended Data](ext_articles/9b2f465a.ext.json)
-
----
-
-### M.S. Naleem nominated as SLMC National List MP
-
-*2024-11-21 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103675/ms-naleem-nominated-as-slmc-national-list-mp) · `en`
-
-The Sri Lanka Muslim Congress (SLMC) has named the former Chairman of Eravur Urban Council, M.S. Naleem, as its National List MP.
-
-◼️
-
-[Data](articles/76057496.json)
-
----
 
 ### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
 
@@ -1216,26 +1164,6 @@ Fishermen from the Mullaitivu district go to sea and spend their lives with a hu
 
 ---
 
-### ශ්‍රී ලංකාවේත් ආයෝජනය කළ ගෞතම් අදානිට එරෙහිව ඇමෙරිකාවේදී අල්ලස් නඩුවක්
-
-*2024-11-21 13:22:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dylx29gvo) · `si`
-
-ශ්‍රී ලංකාවේත් ආයෝජනය කළ ගෞතම් අදානිට එරෙහිව ඇමෙරිකාවේදී අල්ලස් නඩුවක්
-
-ඉන්දීය බිලියනපතියෙකු වන ගෞතම් අදානිට එරෙහිව ඇමෙරිකාවේදී වංචාවක් සම්බන්ධයෙන් චෝදනා එල්ල වී ඇති අතර, ඔහු එරට මුදල් රැස් කිරීම සඳහා ඇමෙරිකානු ඩොලර් මිලියන 250ක අල්ලස් ක්‍රමයක් සැලසුම් කර එය අනාවරණය නොකළ බවට චෝදනා එල්ල වී ඇත.
-
-බදාදා (නොවැ: 21) නිව් යෝර්ක්හිදී ගොනු කරන ලද අපරාධ චෝදනා, ඉන්දියාවේ ධනවත් ම පුද්ගලයෙකු වන 62 හැවිරිදි අදානිට එල්ල වූ නවතම ප්‍රහාරය යි. ඔහුගේ ව්‍යාපාරික අධිරාජ්‍යය වරායන් සහ ගුවන් තොටුපළවල සිට පුනර්ජනනීය බලශක්තිය දක්වා විහිදී තිබේ.
-
-අධිචෝදනා පත්‍රයේ, මෙම සුපිරි ධනවතාට සහ සෙසු ජ්‍යෙෂ්ඨ විධායකයින්ට නීතිඥයින් චෝදනා කර ඇත්තේ, ඔහුගේ පුනර්ජනනීය බලශක්ති සමාගම සඳහා කොන්ත්‍රාත්තු ලබා ගැනීම වෙනුවෙන් ඉන්දියානු නිලධාරීන්ට වසර 20ක් පුරා ඇමෙරිකානු ඩොලර් බිලියන 2කට වඩා වැඩි මුදලක් ලබා දීමට එකඟත්වය පළ කර ඇති බවට ය.
-
-මේ සම්බන්ධයෙන් ප්‍රතිචාර දක්වන ලෙස ඉල්ලීම් කළ ද අදානි සමාගම ඊට ක්ෂණිකව ප්‍රතිචාර දැක්වූයේ නැත.
-
-...
-
-[Data](articles/8f41031f.json)
-
----
-
 ### Sri Lanka likely to sign IMF staff-level agreement on Nov. 23
 
 *2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-dec-23) · `en`
@@ -1276,31 +1204,17 @@ The President acknowledged the delay in the third review, initially scheduled fo
 
 ---
 
-### Notice to the workers of Kuwait and foreigners
+### කුවේටයේ ශ්‍රමිකයන්ට හා විදේශිකයන්ට දැනුම් දීමක්
 
 *2024-11-21 13:14:46* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-ශ්‍රමිකයන්ට-හා-විදේශිකයන්ට-දැනුම්-දීමක්/11-413197) · `si`
 
-Here's a summary in 200 characters:
+කුවේට් රාජ්‍යයේ සේවය කරන ශ්‍රමිකයින්ට හා විදේශකයින්ට සිය ජීවමිතික (Biometric) ඇඟිලි සලකණු ලබා දෙන ලෙස එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් විශේෂ නිවේදනයක් මගින් දැනුම් දී තිබෙන අතර, එලෙස ඇඟිලි සලකුණු ලබා දිය හැකි අවසාන දිනය  2024 දෙසැම්බර් 31 දිනයෙන්  අවසන් වන බව සඳහන් කර තිබේ.
 
-
-
-Kuwait Ministry extends fingerprint deadline to Dec 31. Sri Lankan workers can choose online locations like Hawally, Jahra, Ahmadi. Government banks exempt from fingerprinting requirement.
-
-🟩
-
-The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide the fingerprints of the Kuwait state and the fingerprints of their livestock.
-
-The date on which was due to end in September has been extended to December 31 again to December. The Sri Lanka Bureau of Foreign Employment requests the Finger Farmers of the Kuwait's Sri Lankan workers at the Interior Ministry.
-
-Accordingly, the Biometric. It also allows to choose an approximate place to give fingerprints in online mechanism. Accordingly, Hawaali (Hawaally) Farwaniya, Ahmade Mubarak Mubarak Mubarak, Mubarak Al Kabir (JAHRA), is located at the security directors of the security directors.
-
-In addition, people in the Department of Investigation Department can be done in the Department of Investigation for the provision of finger viewers in Ali Saba Al Salim, Umm Al-Nema and Jerro.
+පසුගිය සැප්තැම්බර් මස අවසන් වීමට  නියමිතව තිබූ මෙම දිනය යළි දෙසැම්බර් 31 වෙනිදා දක්වා දීර්ඝ කර තිබේ. කුවේට් රාජ්‍යයේ සේවය කරන සියලුම ශ්‍රී ලාංකික ශ්‍රමිකයින් ඇඟිලි සලකණු එරට අභ්‍යන්තර අමාත්‍යංශය විසින් නිවේදනය කර ඇති ස්ථානවලදී ලබාදෙන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ඉල්ලා සිටියි.
 
 ...
 
 [Data](articles/1e058f92.json)
-
-[Extended Data](ext_articles/1e058f92.ext.json)
 
 ---
 
@@ -2535,5 +2449,99 @@ Here's a 200-character summary:
 [Data](articles/b2510870.json)
 
 [Extended Data](ext_articles/b2510870.ext.json)
+
+---
+
+### Muhammad Rizvi Sally as Deputy Speaker
+
+*2024-11-21 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதி-சபாநாயகராக-முஹம்மத்-ரிஸ்வி-சாலி/175-347538) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Muhammad Rizvi Sally elected Deputy Speaker Tenth Parliament. Minister Nalinda Jayadissa proposed nomination.
+
+🟩
+
+Mohamed Rizvi Sally has been elected as the Deputy Speaker of the Tenth Parliament.
+
+Minister Nalinda Jayadissa proposed his name and proposed it.
+
+◼️
+
+[Data](articles/af908586.json)
+
+[Extended Data](ext_articles/af908586.ext.json)
+
+---
+
+### Opposition Leader Sajith
+
+*2024-11-21 10:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவர்-சஜித்/175-347537) · `ta`
+
+Sajith Premadasa named Opposition Leader in Sri Lanka's 10th Parliament. Speaker Dr. Asoka Ranwala made announcement in House.
+
+🟩
+
+Speaker Dr. Asoka Ranwala announced in the House that Sajith Premadasa has been appointed as the Opposition Leader of the Tenth Parliament.
+
+◼️
+
+[Data](articles/774f355a.json)
+
+[Extended Data](ext_articles/774f355a.ext.json)
+
+---
+
+### Ramesh - Roshan - Pleasant CID comes under this - Harin is not going today
+
+*2024-11-21 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203592) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Former ministers visit CID; Harin summoned tomorrow; 18 ministers questioned about vaccine purchases; investigations ongoing regarding cabinet approvals and drug shortages.
+
+🟩
+
+Former ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga arrived at the CID this morning.
+
+Former Health Minister Keheliya Rambukwella has approved the cabinet paper, which has been approved by former Health Minister Keheliya Rambukwella.
+
+Former minister Harin Fernando has been told by the CID tomorrow (22).
+
+The Criminal Investigations Department (CID) was informed of 18 ministers who were speaking to the Cabinet of Minister Keheliya Rambukwella to purchase standard antibody injections.
+
+The Deputy Solicitor General Lakhahagama said that 182 other members of the Cabinet of Health Cabinet has been submitted to the Cabinet of Health on September 26, 202 to the Cabinet of Health Cabinet.
+
+The Deputy Solicitor General of the Government Solicitor General of the Government Solicitor General that the cabinet should not be actually any of the drug deficit, regardless of the drug shortages.
+
+...
+
+[Data](articles/51f8e004.json)
+
+[Extended Data](ext_articles/51f8e004.ext.json)
+
+---
+
+### New Members of Parliament sworn-in
+
+*2024-11-21 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103656/new-members-of-parliament-sworn-in) · `en`
+
+The newly elected Members of Parliament were sworn in following the election of the Speaker during the inaugural session of the new Parliament this morning.
+
+The MPs of the tenth Parliament took oath before the new Speaker Asoka Ranwala in the chambers.
+
+The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
+
+After the General Secretary of the Parliament Mrs. Kushani Rohanadheera read the gazette notification issued by the President with regard to the inaugural session of the 10th Parliament, National People’s Power (NPP) Gampaha District MP Asoka Sapumal Ranwala was unanimously elected as the new Speaker of Parliament.
+
+◼️
+
+[Data](articles/5d8f850a.json)
+
+[Extended Data](ext_articles/5d8f850a.ext.json)
 
 ---

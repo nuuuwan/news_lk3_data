@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 00:41:38**
+As of **2024-11-22 01:25:50**
 
 ## Newspaper Stats
 
-*Scraped **56,226** Articles*
+*Scraped **56,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 575
 bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,413
-dailyftlk | 3,844
+dailyftlk | 3,846
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
-tamilmirrorlk | 7,985
+tamilmirrorlk | 7,986
 virakesarilk | 9,145
 adaderanasinhalalk | 9,703
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,225 (100.0%) of 56,226 articles have been extended.
+56,229 (100.0%) of 56,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### Model election amendments should be made
+
+*2024-11-22 00:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திருத்தங்களை-மேற்கொள்ள-வேண்டும்/175-347598) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Support proportional electoral system to empower small parties and minorities. Leader Rauf Hakeem calls for election amendments to maintain this system.
+
+🟩
+
+Once again we would like to recall that by continuing the proportional electoral system, all the smallest parties of this country have the opportunity for the minority people.. United People's Power MP and Sri Lanka Muslim Congress leader Rauf Hakeem said that we should make the necessary election amendments to continue.
+
+He said this while congratulating Dr. Asoka Sabumal Ranwala, who was appointed as the new Speaker of the 10th Parliament on Thursday in Parliament yesterday.
+
+You have been elected as a new Speaker, not a Member of Parliament before, in the changing political age. We bow down to the judgment of the people who voted to make this change.. This means that the Speaker of the People's Liberation Front (JVP), which you represent the Speaker, arrives in Parliament in 1994
+
+...
+
+[Data](articles/ee6452d2.json)
+
+[Extended Data](ext_articles/ee6452d2.ext.json)
+
+---
+
+### Trade Union action demanding resignation and inquiries against Ruhuna University VC
+
+*2024-11-22 00:46:40* · [`dailyftlk`](https://www.ft.lk/opinion/Trade-Union-action-demanding-resignation-and-inquiries-against-Ruhuna-University-VC/14-769522) · `en`
+
+Prime Minister and Education and Higher Education Minister Dr. Harini Amarasuriya
+
+I am making a request from you as the Hon Minister of Education which I think is reasonable from my side. I would like all these groups to submit the new allegations against me and make these known to me before removing me from the post
+
+Following is a letter written by University of Ruhuna Vice Chancellor Prof. Sujeewa Amarasena to Prime Minister and Education and Higher Education Minister Dr. Harini Amarasuriya against trade union action demanding his resignation and inquiries against him.
+
+...
+
+[Data](articles/30d2efc6.json)
+
+[Extended Data](ext_articles/30d2efc6.ext.json)
+
+---
+
+### Virus called brutal ragging
+
+*2024-11-22 00:41:43* · [`dailyftlk`](https://www.ft.lk/columns/Virus-called-brutal-ragging/4-769521) · `en`
+
+In a country which still prefers lackeys to competent men, we are bound to come across many more Hirushans either in ICUs or in coffins
+
+The University of Ruhuna seems to be very well quarantined. Under an extremely capable Consultant Paediatrician, it seems to have been saved from a killer virus which has invaded the entire Sri Lankan body of public universities causing occasional deaths, permanent injuries and life-long psychological scars. A virus called Brutal Ragging.
+
+...
+
+[Data](articles/4b48184e.json)
+
+[Extended Data](ext_articles/4b48184e.ext.json)
+
+---
 
 ### Prasanna Ranatunga, Ramesh Pathrana and Roshan Ranasinghe appeared at the CIT
 
@@ -1888,6 +1948,8 @@ There were greater details in the NPP manifesto and the newly appointed minister
 
 [Data](articles/3ae30208.json)
 
+[Extended Data](ext_articles/3ae30208.ext.json)
+
 ---
 
 ### Ashoka Rangwella selected as the new Speaker
@@ -2511,61 +2573,5 @@ President Anura Kumara Dissanayake will present his government's policy declarat
 [Data](articles/b98c8eba.json)
 
 [Extended Data](ext_articles/b98c8eba.ext.json)
-
----
-
-### After the accounting report, the budget
-
-*2024-11-21 12:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணக்கு-அறிக்கைக்கு-பின்னர்-பட்ஜெட்/175-347558) · `ta`
-
-Accounting report due Dec; budget submission moved from Dec to Mar. President allocates funds for Q1.
-
-🟩
-
-The account report will be submitted in December this year to allocate the necessary funds for these three months. President Anuragumara Dissanayake said during his speech that the budget would be filed in March.
-
-◼️
-
-[Data](articles/d687b485.json)
-
-[Extended Data](ext_articles/d687b485.ext.json)
-
----
-
-### President receives a meeting of the IMF agreement
-
-*2024-11-21 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203596) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake announces IMF agreement signing on 23rd.
-
-🟩
-
-President Anura Kumara Dissanayake says the staff level agreement of the Third Review of the International Monetary Fund is scheduled to be signed on the 23rd.
-
-◼️
-
-[Data](articles/b9904f68.json)
-
-[Extended Data](ext_articles/b9904f68.ext.json)
-
----
-
-### Parliament adjourned until December 03
-
-*2024-11-21 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103663/parliament-adjourned-until-december-03) · `en`
-
-The Parliament of Sri Lanka has been adjourned until 09.30 a.m. on December 03, 2024 by the President Anura Kumara Dissanayake.
-
-The Parliament was adjourned after the President concluded delivering the government’s policy statement during the inaugural session of the 10th Parliament today.
-
-◼️
-
-[Data](articles/8456f995.json)
-
-[Extended Data](ext_articles/8456f995.ext.json)
 
 ---

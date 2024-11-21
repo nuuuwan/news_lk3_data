@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 11:00:07**
+As of **2024-11-21 11:42:40**
 
 ## Newspaper Stats
 
-*Scraped **56,081** Articles*
+*Scraped **56,094** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 574
-bbccomsinhala | 580
+bbccomsinhala | 581
 islandlk | 3,357
 economynextcom | 3,401
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,276
-adaderanalk | 6,774
-tamilmirrorlk | 7,954
+adalk | 5,280
+adaderanalk | 6,777
+tamilmirrorlk | 7,959
 virakesarilk | 9,103
 adaderanasinhalalk | 9,689
 
@@ -26,11 +26,241 @@ adaderanasinhalalk | 9,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,079 (100.0%) of 56,081 articles have been extended.
+56,090 (100.0%) of 56,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### Substandard drugs scandal: Ex-ministers Ramesh, Roshan, Prasanna arrive at CID
+
+*2024-11-21 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103659/substandard-drugs-scandal-ex-ministers-ramesh-roshan-prasanna-arrive-at-cid-) · `en`
+
+Former Ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga have arrived at the Criminal Investigations Department (CID) this morning (21), in order to provide statements pertaining to the alleged importation of substandard human immunoglobulin vials.
+
+Meanwhile, former Minister Harin Fernando has reportedly informed that he will appear before the CID tomorrow (22) to record a statement regarding the matter.
+
+On November 12, the Maligakanda Magistrate’s Court had ordered to record statements from 18 then-Cabinet Ministers pertaining to the alleged importation of substandard human immunoglobulin vials.
+
+...
+
+[Data](articles/32976d3a.json)
+
+---
+
+### රිලවුන් ඇතුළු සතුන්ගෙන් බෝග වලට සිදුවන හානි පාලයට විශේෂ ඒකකයක්
+
+*2024-11-21 11:11:38* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්-ඇතුළු-සතුන්ගෙන්-බෝග-වලට-සිදුවන-හානි-පාලයට-විශේෂ-ඒකකයක්/11-413190) · `si`
+
+පොල් පළතුරු ඇතුළු ප්‍රධාන ආහාර බෝගවලට ඉතා විශාල හානියක් සිදුකරන රිලවුන් හා අනෙකුත් සත්ව හානි පාලනයට ගත හැකි තිරසාර ක්‍රියාමාර්ග සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කානත මහතාගේ ප්‍රධානත්වයෙන් එම අමාත්‍යාංශයේදී පවත්වා තිබේ.
+
+එහිදී බහුවිධ ක්‍ර මෝපායන් යොදාගෙන හානිකර සත්ව ගහණ ව්‍යාප්තිය පාලනයට හා බෝග වලට සිදුවන හානි වැළැක්වීම වෙනුවෙන් කටයුතු කිරීම සඳහා විශේෂ ඒකකයක් එම අමාත්‍යාංශයේ පිහිටුවන ලදී.
+
+එමෙන්ම මේ සඳහා ක්ෂණිකව ක්‍රියාත්මක කළ හැකි වැඩපිළිවෙළක් අනුව කටයුතු කිරීමටද සැලසුම් කර තිබේ.මෙම සාකච්ඡාව සඳහා කෘෂිකර්ම අමාත්‍යාංශය, වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව, කෘෂි කර්ම දෙපාර්තමේන්තුව, ගොවි කටයුතු පර්යේෂණ ආයතනය, යුද හමුදාව, සිවිල් ආරක්ෂක බලකාය ඇතුළු ආයතන 15ක් පමණ සම්බන්ධ වී තිබේ.
+
+◼️
+
+[Data](articles/a03f8683.json)
+
+---
+
+### “Support for Good”
+
+*2024-11-21 11:09:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லதற்கு-ஆதரவு/175-347545) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Opposition leader Sajith Premadasa addresses public concerns, vows to expose government shortcomings and implement people's mandate. He emphasizes unity, party growth, and prioritizing public wishes.
+
+🟩
+
+Understanding the sentiments of the people, we will take steps to solve the country's problems progressing the aspirations of the people. We will support our support for the implementation of the people's mandate to the government. Opposition leader Sajith Premadasa said that if there are any shortcomings in the government, it will be pointed out.
+
+Responding to questions raised by journalists at the United People's Power Headquarters on Thursday (21), Opposition Leader Sajith Premadasa said this.
+
+In the short term, we will find the places where wrongdoing. According to the conscience, the party, which started at 2020 in Peparavar, will go further forward. Sajith Premadasa added that the new journey will continue to save unity.
+
+...
+
+[Data](articles/f031c489.json)
+
+[Extended Data](ext_articles/f031c489.ext.json)
+
+---
+
+### Parliament. Adjourn until 11.30
+
+*2024-11-21 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-පෙ-ව--11-30-තෙක්-කල්-තැබෙයි/11-413189) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Parliament adjourned until 11:30 AM. Member delayed official start of session until later time.
+
+🟩
+
+He was procrastinated to procrastinate the Parliament to officially launch the Parliamentary Session until 11.30 am.
+
+◼️
+
+[Data](articles/4862d290.json)
+
+[Extended Data](ext_articles/4862d290.ext.json)
+
+---
+
+### Speaker of Parliament Dr. Asoka in gold in gold
+
+*2024-11-21 10:48:49* · [`adalk`](https://www.ada.lk/breaking_news/10-වැනි-පාර්ලිමේන්තුවේ-කථානායක-ආචාර්ය-අශෝක-රන්වල/11-413188) · `si`
+
+Dr. Asoka Ranwala elected Speaker of New Parliament. Proposed by PM Dr. Weli Amarasuriya. Received support from Gampaha district MPs. MP Mohamed Risvi Sally appointed Deputy Speaker. Health Minister Dr. Nalinda Jayatissa named Saroja Savitri Paulraj. MP Hemali Weerasekera chairs Deputy Committee.
+
+🟩
+
+Member of Parliament Dr. Asoka Ranwala was elected as the Speaker of the New Parliament.
+
+Prime Minister Dr. Weli Amarasuriya was proposed by Ashoka Ranwala, Minister Vijitha Herath.
+
+Mr. Asoka Ranwala received parliamentarians from the Gampaha District at the Gampaha District at the 2024 general election.
+
+MP Mohamed Risvi Sally was appointed as the Deputy Speaker.
+
+Health and Mass Media Media Dr. Nalinda Jayatissa proceeded to make his name by Saroja Saroja Saroja Savitri Paulraj.
+
+MP Hemali Weerasekera was appointed as the Chairman of the Deputy Committee.
+
+◼️
+
+[Data](articles/bb9d84d4.json)
+
+[Extended Data](ext_articles/bb9d84d4.ext.json)
+
+---
+
+### Parliament was temporarily adjourned
+
+*2024-11-21 10:46:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-தற்காலிகமாக-ஒத்திவைக்கப்பட்டது/175-347542) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Parliament temporarily adjourned for president's policy speech after main choices in 10th parliament session.
+
+🟩
+
+After the main choices in the tenth parliament, the Parliament has been temporarily adjourned for an hour for the president's policy speech.
+
+◼️
+
+[Data](articles/f064cadc.json)
+
+[Extended Data](ext_articles/f064cadc.ext.json)
+
+---
+
+### Deputy Chairman of Parliamentary Committees
+
+*2024-11-21 10:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-குழுக்களின்-பிரதித்-தவிசாளர்-தெரிவு/175-347541) · `ta`
+
+Here's a summary of "Deputy Chairman of Parliamentary Committees" in approximately 200 characters:
+
+
+
+The Deputy Chairman assists the Chairperson in managing parliamentary sessions. They oversee committee work, preside when needed, and help maintain order during debates. This role supports legislative processes and ensures smooth committee operations.
+
+🟩
+
+◼️
+
+[Data](articles/b7f22d0f.json)
+
+[Extended Data](ext_articles/b7f22d0f.ext.json)
+
+---
+
+### Sajith Premadasa named Opposition Leader of 10th Parliament
+
+*2024-11-21 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103658/sajith-premadasa-named-opposition-leader-of-10th-parliament) · `en`
+
+The Speaker of Parliament Asoka Ranwala announced today (21) that President Anura Kumara Dissanayke has officially recognised Samagi Jana Balawegaya (SJB) MP Sajith Premadasa as the Leader of the Opposition.
+
+The announcement was made during the inaugural session of the 10th Parliament, where the Speaker conveyed the President’s communications to the House.
+
+Following this announcement, proceedings were adjourned until 11:30 a.m., when the President is scheduled to deliver the government’s policy statement to the Parliament.
+
+◼️
+
+[Data](articles/35898f13.json)
+
+---
+
+### MP Rizvie Salih elected Deputy Speaker of Parliament
+
+*2024-11-21 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103657/mp-rizvie-salih-elected-deputy-speaker-of-parliament) · `en`
+
+The National People’s Power (NPP) Colombo District Member of Parliament, Dr. Rizvie Salih has been unanimously elected as the new Deputy Speaker of Parliament.
+
+He was nominated by Minister of Health and Media Nalinda Jayatissa, while the proposal was seconded by Minister of Women and Child Affairs Saroja Paulraj.
+
+Dr. Rizvie Salih, who contested the 2024 General Election from the Colombo District representing the NPP, secured the 12th highest votes in the district having polled 73,018 preference votes.
+
+Meanwhile, Gampaha District NPP MP Hemali Weeraseekara was elected as the Deputy Chairperson of Committees.
+
+Weeraseekara secured her seat in the Parliament as she polled 66,737 votes in the Gampaha District in the 2024 General Election.
+
+The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
+
+...
+
+[Data](articles/53439f2b.json)
+
+---
+
+### Muhammad Rizvi Sally as Deputy Speaker
+
+*2024-11-21 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதி-சபாநாயகராக-முஹம்மத்-ரிஸ்வி-சாலி/175-347538) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Muhammad Rizvi Sally elected Deputy Speaker Tenth Parliament. Minister Nalinda Jayadissa proposed nomination.
+
+🟩
+
+Mohamed Rizvi Sally has been elected as the Deputy Speaker of the Tenth Parliament.
+
+Minister Nalinda Jayadissa proposed his name and proposed it.
+
+◼️
+
+[Data](articles/af908586.json)
+
+[Extended Data](ext_articles/af908586.ext.json)
+
+---
+
+### Opposition Leader Sajith
+
+*2024-11-21 10:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவர்-சஜித்/175-347537) · `ta`
+
+Sajith Premadasa named Opposition Leader in Sri Lanka's 10th Parliament. Speaker Dr. Asoka Ranwala made announcement in House.
+
+🟩
+
+Speaker Dr. Asoka Ranwala announced in the House that Sajith Premadasa has been appointed as the Opposition Leader of the Tenth Parliament.
+
+◼️
+
+[Data](articles/774f355a.json)
+
+[Extended Data](ext_articles/774f355a.ext.json)
+
+---
 
 ### New Members of Parliament sworn-in
 
@@ -82,7 +312,7 @@ Subsequently, both Dr. Harin Amarasuriya Minister Vijitha Herath took the new Sp
 
 *2024-11-21 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103655/asoka-ranwala-appointed-new-speaker-of-parliament) · `en`
 
-National People’s Power (NPP) Gampaha District Member of Parliament Member of Parliament Asoka Sapumal Ranwala has been unanimously appointed as the new Speaker of Parliament.
+National People’s Power (NPP) Gampaha District Member of Parliament Asoka Sapumal Ranwala has been unanimously appointed as the new Speaker of Parliament.
 
 He was nominated by Prime Minister Harini Amarasuriya at the commencement of the inaugural session of the tenth Parliament.
 
@@ -188,21 +418,27 @@ On the first day, Members are free to sit in any seat, as no seating arrangement
 
 ---
 
-### ரணில் இன்று இந்தியா பயணம்
+### Ranil travels to India today
 
 *2024-11-21 09:56:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-இன்று-இந்தியா-பயணம்/175-347534) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க, இந்தியாவுக்கு இன்று (21) பயணமாகவுள்ளார்.
+Ranil Wickremesinghe visits India today, addresses speech in Indore tomorrow, returns home on 30th.
 
-இந்த விஜயத்தின் போது, இந்தியாவின் மத்திய பிரதேசத்தின் இந்தூரில் ஸ்ரீ சத்திய ஸ்ரீ விகாரையின் உயர்கல்வி நிறுவனத்தில் விசேட உரையாற்றவுள்ளார்.
+🟩
 
-ரணில் விக்கிரமசிங்கவின் விசேட உரை, வௌ்ளிக்கிழமை (22) மாலை 6 மணிக்கு இடம்பெறவுள்ளது.
+UNP leader and former president Ranil Wickremesinghe will visit India today (21).
 
-தனது விஜயத்தை முடித்துக்கொண்டு ரணில் விக்கிரமசிங்க, எதிர்வரும் 30ஆம் திகதியன்று நாடு திரும்புவார்.
+During the visit, he will address a special speech at the Higher Education Institute of Sri Sathya Vihara in Indore, Madhya Pradesh, India.
+
+Ranil Wickremesinghe's special speech will be held at 6 pm on Wednesday (22).
+
+After completing his visit, Ranil Wickremesinghe will return to the country on the 30th.
 
 ◼️
 
 [Data](articles/e20b951a.json)
+
+[Extended Data](ext_articles/e20b951a.ext.json)
 
 ---
 
@@ -300,19 +536,25 @@ It is noteworthy that after the end of parliamentary proceedings, the swearing -
 
 ---
 
-### புதிய சபாநாயகராக ரன்வல?
+### Ranwala as the new Speaker?
 
 *2024-11-21 09:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சபாநாயகராக-ரன்வல/175-347533) · `ta`
 
-புதிய பாராளுமன்றத்தின் சபாநாயகராக பாராளுமன்ற உறுப்பினர் அசோக ரன்வலவை நியமிக்க தேசிய மக்கள் சக்தி தீர்மானித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+Asoka Ranwala likely to become new Speaker. First session of 10th Parliament starts today at 10 AM. Swearing-in ceremony for deputy ministers to follow after parliamentary proceedings.
 
-பத்தாவது பாராளுமன்றத்தின் முதலாவது அமர்வு இன்று (21)  காலை 10 மணிக்கு ஆரம்பிக்கப்படவுள்ள நிலையில் முதலில் சபாநாயகர் தெரிவு செய்யப்படவுள்ளார்.
+🟩
 
-பாராளுமன்ற நடவடிக்கைகள் நிறைவடைந்ததன் பின்னர், இன்று பிற்பகல் புதிய அரசாங்கத்தின் பிரதி அமைச்சர்களுக்கான பதவிப்பிரமாண நிகழ்வு இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.  R
+It is reported that the National People's Power has decided to appoint Parliamentarian Asoka Ranwala as Speaker of the new Parliament.
+
+The first session of the Tenth Parliament is scheduled to begin today (21st) at 10 am.
+
+It is noteworthy that after the end of parliamentary proceedings, the swearing -in ceremony for the deputy ministers of the new government will be held this afternoon.R
 
 ◼️
 
 [Data](articles/9d5c8997.json)
+
+[Extended Data](ext_articles/9d5c8997.ext.json)
 
 ---
 
@@ -885,6 +1127,40 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/741831be.json)
 
 [Extended Data](ext_articles/741831be.ext.json)
+
+---
+
+### Why have 15 police officers arrested for 28 days?
+
+*2024-11-21 04:19:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy4ldxdqyxo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+15 police officers arrested for 28 days due to misconduct including assault, bribery, and violating election laws. New IGP vows stricter discipline. 298 officers suspended this year.
+
+🟩
+
+The police are entitled to the police that is important to protect public safety and peace.
+
+According to the Sri Lanka Police Ordinance, the masses living in the country are entrusted to the police, protecting peace and responsibilities to protect their property.
+
+Such a responsibility is often seen when the police officers are often respected and criticized.
+
+There are many opportunities against the masses that certain officers of the Police Department abuse power. When the civilians complained before the Human Rights Commission, the civilians complained before the Human Rights Commission regarding such incidents.
+
+Also, some police officers were accused of dealing with the suspects in order to reveal their identity.
+
+A video clip that the police manifested the shooting incident in Athurugiriya and another person was involved in the shooting incident.There was also a huge chat in the country.
+
+Deshabandu Tennakoon: 'New IGP is not a suitable or constitutional decision'
+
+...
+
+[Data](articles/585bb286.json)
+
+[Extended Data](ext_articles/585bb286.ext.json)
 
 ---
 
@@ -2022,6 +2298,32 @@ He added that a family belonging to a family in the J/91 Grama Niladhari Divisio
 
 ---
 
+### Supervision of the Cabinet and report to the President
+
+*2024-11-20 19:13:07* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-අධීක්ෂණය-කර-ජනපතිට-වාර්තා-කිරීමට-අධීක්ෂණ-මණ්ඩලයක්/11-413184) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Board of Supervisors oversees Cabinet activities, reports to President. Experienced members appointed. President monitors progress, informs Cabinet of expectations. Action committees formed in Ministries.
+
+🟩
+
+A Board of Supervisory Board is to be appointed to oversee the activities of the Cabinet. It was also reported that the Board of Supervisors will be appointed and experienced.
+
+Accordingly, the president of the Supervisors is responsible for the overseeing the activities of the Cabinet and reporting the progress of the activities.. It is reported that the guidelines have been given to the new Cabinet and the task and progress of each ministries.
+
+It is reported that the President has informed the Cabinet of Ministers that if the ministers fail to meet their tasks and goals.Meanwhile, action committees are to be appointed to all Ministries.
+
+◼️
+
+[Data](articles/7e8d5d47.json)
+
+[Extended Data](ext_articles/7e8d5d47.ext.json)
+
+---
+
 ### Health Notes have been discroomed by 213
 
 *2024-11-20 19:08:49* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයේ-ඇඟිලි-සටහන්-යන්ත්‍ර-213-භාවිතයට-නොගෙනම-නිශ්ක්‍රීය-වෙලා/11-413183) · `si`
@@ -2085,361 +2387,5 @@ The rise of remote work has fundamentally transformed the traditional workplace,
 [Data](articles/c5ead881.json)
 
 [Extended Data](ext_articles/c5ead881.ext.json)
-
----
-
-### Allow to import the country's rice
-
-*2024-11-20 18:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டு-அரிசியை-இறக்குமதி-செய்ய-அனுமதி/175-347510) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Government imports 70,000 metric tonnes of rice to combat local shortage. Rice will be sourced via Sathosa CWE and Sri Lanka State Trade Corporation.
-
-🟩
-
-The government has decided to import 70,000 metric tonnes of rice to address the shortage of rice in the local market.
-
-Commerce Minister Wasantha Samarasinghe said rice would be imported through the Sathosa Co -operative Wholesale Organization (CWE) and the Sri Lanka State Trade (General) Corporation.
-
-◼️
-
-[Data](articles/4ad96adf.json)
-
-[Extended Data](ext_articles/4ad96adf.ext.json)
-
----
-
-### As the A / L examination was planned
-
-*2024-11-20 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203570) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-2024 GCE A/L exam scheduled March 25-20, 2012. Ministry says all preparations complete despite party requests. Exam cannot be postponed now due to readiness.
-
-🟩
-
-2024 GCE Advanced Level. The Ministry of Education, the Ministry of Education, the Ministry of Education, the Ministry of Education and Vocational Education said.
-
-The statement states that although various party demands have been submitted to adjust the examination, the Department of Examinations has already completed all the pre-examination of the GCE A / L examination.
-
-According to the date of the examination, the date on which the A / L examination will be fully disorganized.
-
-2024 GCE Advanced Level. (A / L) Examination is scheduled to be held from 2524 to 2024 to 20.2012.
-
-Requests from various parties will be presented to the post of examination and the Ministry of Education, Higher Education and Vocational Education is on the basis of these requests.
-
-...
-
-[Data](articles/b2bf194b.json)
-
-[Extended Data](ext_articles/b2bf194b.ext.json)
-
----
-
-### Members of the ruling party attending bus to parliament
-
-*2024-11-20 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199268) · `ta`
-
-Ruling party MPs attend special bus to Parliament. Over 50 members register. Meeting chaired by JVP GS & PM. Advised on parliamentary procedures. Emphasis on maintaining public trust.
-
-🟩
-
-More than 50 MPs of the ruling party, the National People's Power, registered information on a special bus to Parliament on Wednesday (20).
-
-Members of Parliament, who were elected to Parliament on behalf of the National People's Power, were summoned to the office of the People's Liberation Front on Wednesday (20).
-
-The special meeting was attended by Dilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP) and Prime Minister Harini Amarasuriya.
-
-The Prime Minister congratulates members who elected to Parliament on behalf of the National People's Power. The party's general secretary congratulated.
-
-Members of Parliament have been advised regarding the system of taking place in Parliament. People have made a regime change amidst massive expectations. Dilvin Silva, general secretary of the People's Liberation Front, has advised not to act in any way to disrupt the confidence of the people and to hate the people.
-
-...
-
-[Data](articles/291a2954.json)
-
-[Extended Data](ext_articles/291a2954.ext.json)
-
----
-
-### There is no propaganda of the substance
-
-*2024-11-20 18:40:58* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-විභාගය-කල්-දැමීමක්-නෑ/11-413182) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-2024 GCE A/L exam schedule: March 25-20, 2012. Exam details announced. Preparations complete. Will proceed as planned unless circumstances change.
-
-🟩
-
-2024 GCE Advanced Level. (A / L) Examination is scheduled to be held from 2524 to 2024 to 20.2012.
-
-Requests from various parties will be presented to the post of examination and the Ministry of Education, Higher Education and Vocational Education is on the basis of these requests.
-
-2024 GCE Advanced Level. (A / L) Examination has been published in a press release issued by the Department of Examinations from 2024 to 20.03.2013, and 01.03.03.2013, the Department of Examinations was published in 01.03.2013.All pre-preparations of the examination including the establishment of the centers have completed everything.
-
-Further, this examination is held, the upcoming 2024 GCE Advanced Level. If the examination will be detected, if the examination will be delayed, the examination program will be completed again if the examination will be postponed.
-
-...
-
-[Data](articles/b84aab0d.json)
-
-[Extended Data](ext_articles/b84aab0d.ext.json)
-
----
-
-### The President has canceled some methods
-
-*2024-11-20 18:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-முறைகளை-ரத்து-செய்தார்-ஜனாதிபதி/175-347508) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Parliament's 10th session begins Nov 21 at 9:55 AM. President cancels inaugural events like military parade. Opening ceremony includes Speaker election, oath-taking, and President's policy speech. Special guests attend.
-
-🟩
-
-The rehearsal to formally launch the first session of the tenth parliament to be held tomorrow (November 21) was held at the Parliamentary Complex today.
-
-According to the Parliamentary Report, the 10th Parliament begins at 9:55 am tomorrow at 10:00 am.
-
-After placing the scepter in the House, the Secretary -General of Parliament will present the notifications issued by the President to determine the date and time of the session, deciding the date and time for the session.
-
-The Speaker will then be elected under the rules of the Constitution 64 (1) and the Standing Standing Orders 4, 5 and 6.
-
-Later, the Speaker will take the oath or pledge, the Speaker's promotion or determination, the promotion or guarantee of the Members of Parliament, the voting of the Deputy Speaker and the Deputy Chairman of the Committees.
-
-It is special to say that the seat of MPs will not be made on the first day.
-
-...
-
-[Data](articles/19584e93.json)
-
-[Extended Data](ext_articles/19584e93.ext.json)
-
----
-
-### Parliament gathers today - first work
-
-*2024-11-20 18:20:13* · [`adalk`](https://www.ada.lk/breaking_news/10-වැනි-පාර්ලිමේන්තුව-අද-රැස්වෙයි---මුලින්ම-කරන-වැඩේ/11-413181) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"10th Parliament meets today. First order: elect Speaker through nomination and secret vote. New Speaker sworn in, followed by oath-taking of new MPs. President Anura Kumara Dissanayake presents policy statement at 11:30 AM."
-
-🟩
-
-The 10th Parliament is scheduled to meet at 10 am today (21). Accordingly, a Speaker is to be appointed as the first duties today.
-
-Accordingly, a MP should stand and propose a name and then a member should stand up and confirm the proposal.
-
-If more than one nominations come forward, a secret vote will be held to appoint the Speaker.
-
-Subsequently, MP and confirming the proposal and confirming the proposal are conducted in the bridge of the Speaker by taking into brutade the new Speaker.
-
-The new Speaker will be sworn in and after his swearing in, new MPs are to be sworn in before the Speaker.
-
-Then, the new Speaker can submit the party opposition greeting and allows him to congratulate him to concentrate and speak to him by the Secretary General of Parliament.
-
-After this purpose, the Deputy Speaker is appointed and the Deputy Chairman of the Deputy Committee will be appointed later.
-
-...
-
-[Data](articles/e20373ff.json)
-
-[Extended Data](ext_articles/e20373ff.ext.json)
-
----
-
-### Complete the collection of details
-
-*2024-11-20 18:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபர-சேகரிப்பு-அலுவல்கள்-நிறைவு/175-347507) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Newly elected MPs attended the 10th Parliament's inaugural session. Over 200 MPs participated, receiving essential documents and undergoing ID photography and fingerprinting for electronic voting. A digital submission system was introduced via the Parliamentary website to streamline processes.
-
-🟩
-
-The success of the newly elected MPs for the initial session of the tenth parliament held at the Parliament Building yesterday (19) and today (20).
-
-More than 200 MPs, including MPs, participated in this initiative. During the event, all MPs were provided with useful essential information and documents. Operations were carried out, including photography for MPs' identity cards and fingerprints for the electronic voting system.
-
-In addition, the online system was introduced via the Parliamentary website to prepare for the inaugural session of the first session of the tenth parliament.. This has made MPs digitally submit the necessary information and has ease these processes.
-
-◼️
-
-[Data](articles/77435a51.json)
-
-[Extended Data](ext_articles/77435a51.ext.json)
-
----
-
-### Julampiti Amare, who killed two JVP activists, confirms the death penalty
-
-*2024-11-20 18:07:45* · [`adalk`](https://www.ada.lk/breaking_news/ජවිපේ-ක්‍රියාකාරීන්-දෙදෙනෙක්-ඝාතනය-කළ-ජුලම්පිටිය-අමරේට-දුන්-මරණ-දණ්ඩනය-තහවුරු-කරයි/11-413180) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Tangalle High Court approves death penalty for Julampitiye Amare, convicted of killing 2 JVP activists in 2012. Appeal rejected by Court of Appeal judges Kumaran Ratnam and Sampath Abeykoon.
-
-🟩
-
-The death penalty of the Tangalle High Court today (20) was approved by the Tangalle High Court today.
-
-The appeal was approved by the Court of Appeal Judge by the Court of Appeal, notion that the Tangalle High Court Judge was not intended to intervene after examining the decisions.
-
-Court of Appeal Court Judges. The appeal was heard before Kumaran Ratnam and Sampath Abeykoon.
-
-The Tangalle High Court dismissed the order he was sentenced to death and released. The Attorney General has been named as respondent in this appeal, who had filed Amarasiri or Julampitiye Amare.
-
-The Attorney General had filed a case before the Tangalle High Court against the allegations of two persons, killing two people in the Katuwana area in Hambantota on 15th June 2012.
-
-After a long trial, the Tangalle High Court judge was sentenced to death for the accused.
-
-◼️
-
-[Data](articles/18d1b9c4.json)
-
-[Extended Data](ext_articles/18d1b9c4.ext.json)
-
----
-
-### Ranil to contest India tomorrow
-
-*2024-11-20 18:03:20* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-හෙට-ඉන්දියාවට/11-413179) · `si`
-
-Ranil Wickremesinghe leaves for India on 21st, to deliver lecture at Indoe Sri Lanka Institute of Higher Education at 6 pm.
-
-🟩
-
-Former President Ranil Wickremesinghe is due to leave for India on the 21st (21st).
-
-Ranil Wickremesinghe is also scheduled to hold a lecture at Indoe Sri Lanka Institute of Higher Education at Indoe (Indoe) at Indoe.
-
-The lecture will be held at 6 pm under the participation of the Institute of Higher Education as well as the parents.
-
-◼️
-
-[Data](articles/6692b663.json)
-
-[Extended Data](ext_articles/6692b663.ext.json)
-
----
-
-### Court of Appeal confirms the death penalty imposed in Julampitiye Amare
-
-*2024-11-20 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203569) · `si`
-
-Court of Appeal confirms death penalty for Julampitiye Amare. Justice P. Kumaran Ratnam agrees. Death sentence imposed for JVP meeting in 2012. Defendant appeals but Court dismisses evidence presented.
-
-🟩
-
-GGGs by Tangalle High Court. The December Appeal of the death sentence imposed on Amarasiri (Julampitiye Amare was imposed today.
-
-Justice P. කුමාරන් රත්නම් මහතාගේ එකඟත්වය ඇතිව අභියාචනාධිකරණ විනිසුරු සම්පත් අබේකෝන් මහතා විසින් මෙම තීන්දුව ලබා දුනි.
-
-He was convicted of a meeting of the JVP at the Queen of the JVP in 2012.
-
-තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා ජුලම්පිටිය අමරේ සිය නීතිඥවරුන් මාර්ගයෙන් අභියාචනාධිකරණයට ඇපෑලක් ඉදිරිපත් කර තිබූ අතර එම ඇපෑල තුළින් විත්තිකරු ප්‍රකාශ කළේ මහාධිකරණ නඩු විභාගයේදී විත්ති පාර්ශ්වය විසින් ඉදිරිපත් කළ සාක්ෂි විනිසුරුවරයා විසින් සැලකිල්ලට නොගත් බවය.
-
-The Court of Appeal of the Court of Appeal was inspected by the High Court of Parliament.
-
-According to the Court of Appeal, the Court of Appeal had stated that the defendant confirms the death sentence imposed.
-
-◼️
-
-[Data](articles/3493c63d.json)
-
-[Extended Data](ext_articles/3493c63d.ext.json)
-
----
-
-### Investigating Ravi's appointment
-
-*2024-11-20 17:45:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-நியமனம்-குறித்து-விசாரணை/175-347506) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Committee formed to probe Ravi Karunanayake's appointment. Four members tasked with independent inquiry. Decision made at meeting led by ex-President Ranil Wickremesinghe.
-
-🟩
-
-A four -member committee has been appointed to conduct independent inquiries into the appointment of Ravi Karunanayake as the National List of the New Democratic Front.
-
-The decision was taken during a meeting chaired by former President Ranil Wickremesinghe today.
-
-◼️
-
-[Data](articles/b2212da3.json)
-
-[Extended Data](ext_articles/b2212da3.ext.json)
-
----
-
-### Committee to find out on the receipt of Ravi
-
-*2024-11-20 17:42:59* · [`adalk`](https://www.ada.lk/breaking_news/රවී-මන්ත්‍රීධුරය-ලබා-ගැනීම-ගැන-හොයන්න-කමිටුවක්/11-413177) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Committee formed to investigate Ravi Karunanayake for new Democratic Front. Members: Kumar Danicasin, Indika Weragoda, Yasas De Silva. Report due within 3 weeks to UNP Leader Ranil Wickremesinghe.
-
-🟩
-
-The party has decided to conduct an independent investigation into the name of Ravi Karunanayake to send the name of Ravi Karunanayake to the Elections Commission for the new Democratic Front.
-
-Attorney-at-Law Kumar Danicasin, Attorney-at-Law Indika Weragoda, Committees Secretary - Mr. Yasas De Silva appointed to this committee. The committee report should be handed over to UNP Leader Ranil Wickremesinghe within three weeks.
-
-◼️
-
-[Data](articles/26586548.json)
-
-[Extended Data](ext_articles/26586548.ext.json)
-
----
-
-### Sri Lanka to import 70,000 tonnes of rice to address shortage: Minister
-
-*2024-11-20 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-70000-tonnes-of-rice-to-address-shortage-minister-188960/) · `en`
-
-ECONOMYNEXT – Sri Lanka will import 70,000 metric tonnes of rice to address a shortfall in the market, Minister of Trade, Commerce, Food Security and Cooperative Development Wasantha Samarasinghe said.
-
-“Even though there was a surplus rice production in the country this year, when you go to the market there is no rice,” Samarasinghe told reporters.
-
-“The best decision we can take in this situation is to import rice to meet the demand.”
-
-The rice will be imported by two state agencies, Sathosa and the State Trading Corporation Samarasinghe said.
-
-Sri Lanka ran out short of parboiled rice (nadu) amid price controls which kept it at the same price as red rice, discouraging growing the variety according to demand, analysts say.
-
-RELATED Sri Lanka price controllers investigate rice mill stocks amid Rs65 food tax
-
-In Sri Lanka import duties are 65 rupees a kilo or about 200 dollars a tonne, compared to around 530 dollars a tonne for similar varieties of rice.
-
-◼️
-
-[Data](articles/f9fa58d7.json)
-
-[Extended Data](ext_articles/f9fa58d7.ext.json)
 
 ---

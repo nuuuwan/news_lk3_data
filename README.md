@@ -1,108 +1,362 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 16:41:13**
+As of **2024-11-21 18:22:55**
 
 ## Newspaper Stats
 
-*Scraped **56,169** Articles*
+*Scraped **56,180** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 574
-bbccomsinhala | 582
+bbccomsinhala | 583
 islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,290
+adalk | 5,291
 adaderanalk | 6,790
-tamilmirrorlk | 7,977
-virakesarilk | 9,122
-adaderanasinhalalk | 9,697
+tamilmirrorlk | 7,981
+virakesarilk | 9,126
+adaderanasinhalalk | 9,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,155 (100.0%) of 56,169 articles have been extended.
+56,177 (100.0%) of 56,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
 
-### නියොජ්‍ය අමාත්‍යවරු 29ක් දිවුරුම් දෙති
+### Two people were injured as the package opened
+
+*2024-11-21 17:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதியை-திறந்ததால்-இருவர்-படுகாயம்/175-347578) · `ta`
+
+Two fishermen injured when package exploded while fishing in Saudi seas. Package suspected to be dynamite. Admitted to Mannar District General Hospital and transferred to Jaffna General Hospital for further treatment.
+
+🟩
+
+Two fishermen who were fishing in the Saudbar seas belonging to the Mannar Police Division were admitted to the Mannar District General Hospital on Thursday (21) when the package exploded when the package exploded.
+
+S. Ramesh (age - 37) and A from Mannar Panangattu Kotu area. Aruganathan (age - 37) has been revealed.
+
+They have been admitted to the Mannar District General Hospital for treatment and taken to the Jaffna General Hospital for further treatment.
+
+The injured have voted at the hospital that the package exploded when they checked the packet that was floating in the sea.
+
+However, some fishermen who are fishing in the Mannar area have been suspected that the explosion may have occurred when the two fishermen were using a dynamite explosion as they were fishing.
+
+◼️
+
+[Data](articles/c81a0498.json)
+
+[Extended Data](ext_articles/c81a0498.ext.json)
+
+---
+
+### Actor Param's 'Once Aban A Time in Madras' released in December
+
+*2024-11-21 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199348) · `ta`
+
+"Once Upon a Time in Madras" film directed by Prasad Murugan, starring Bharat, Shaun, Rajaji, Anjali Nair. Music and trailer released, expected December debut.
+
+🟩
+
+The film crew with a special photo of 'Ons Aban A Time in Madras' will be released in December.
+
+Directed by director Prasad Murugan, 'Ons Aban A Time in Madras', Bharat, Shaun, Rajaji, Abirami, Anjali Nair, Pavithra Lakshmi, Kannika, 'Thalaivasal' Vijay, Golden, PGS, Kalki and Syed.
+
+The film, which has been recorded by Kalidas and Kannan. The film is ready in the Hyper Link style thriller Janer. B.. Anand has produced.
+
+The film is expected to be released in December as the music and preview of the film has been released.. The film crew said that the release date will be officially released soon.
+
+◼️
+
+[Data](articles/320010a2.json)
+
+[Extended Data](ext_articles/320010a2.ext.json)
+
+---
+
+### Inflation is reduced
+
+*2024-11-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203602) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Inflation drops: Oct '24 sees -10.7% overall, up from Sep's -2.3%. Food prices rise slightly from 0.5% to 1.3%. Non-food inflation decreases."
+
+🟩
+
+The Department of Census and Statistics announced that the inflation was reported to-10.7% for October 2024 in September 2024.
+
+The feeding of food recorded as 0.5% in September increased to 1.3% in October 2024.
+
+In September 2024, the non-foodstream point inflation has reduced to -2.3% in October 2024.
+
+◼️
+
+[Data](articles/5333f198.json)
+
+[Extended Data](ext_articles/5333f198.ext.json)
+
+---
+
+### Actor Thambi Ramaiah composed the music of 'Raja Kili'
+
+*2024-11-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199347) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Actor Thambi Ramaiah composed music for 'Raja Kili'. Music launch held in Chennai featuring Samudrakani, Mubasir, Praveen. Directed by Umapati Ramaiah, produced by Suresh Kamakshi. Mix of Tamil films Vinodhaya Siddham and Rakhakannir.
+
+🟩
+
+The music release of the film 'Raja Gili', which plays the role of the Digital Yuga Super Star Supper Star, for the character of the South Indian film industry, was held in Chennai.
+
+Samudrakani, Thambi Ramaiah, Mubasir, Praveen, Vijay Kumaran, Subha Swetha, Andal Priyadarshini. The film is composed by Thambi Ramaiah and produced by producer Suresh Kamakshi on behalf of V House Productions.
+
+The film's music launch was held in Chennai on the 13th of December.. Producer Satya Jyoti DG Thiagarajan - Action King 'Arjun participated in the event.
+
+Speaking at the event, composer and actor Umapati Ramaiah said, “After starring in the film Vinodhaya Siddham, he was confident that the story of the film could be written.After writing this story, I decided that I could run.
+
+After that, producer Suresh Kamakshi gave him the story that Umapati could be introduced as director. He has worked hard and created the film. Many people who are at the peak of fame are in the indescribable suffering today.
+
+...
+
+[Data](articles/3121ec5f.json)
+
+[Extended Data](ext_articles/3121ec5f.ext.json)
+
+---
+
+### Samudrakani plays' Mr.. Video release of the movie 'gem'
+
+*2024-11-21 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199346) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Samudrakani's "Mr. Manikam" releases. Directed by Nanda Periyasamy, featuring Nasser, Ananya. Music by Vishal Chandrasekhar. First song "Kaivisu Pommaka" out, sung by Tipu. Co-produced by GP Rekha Ravikumar and Raja Senthil.
+
+🟩
+
+The song 'Pommaka' and the song 'Bommaka', which is featured in the film 'Mr. Manikam', starring the hero of the story of the director and actor Samudrakani.
+
+Directed by director Nanda Periyasamy, 'Thiru Manikam', Nasser Samudrakani, Director Imam Bharathiraja, Ananya, Nasser, Chinni Jayant, Vadivarasi, Karunakaran, Sriman, Sulil Kumar, Reshma, Gracei and many others.
+
+M.. Vishal Chandrasekhar has composed the film, which has been recorded by Sukumar. The film was co -produced by producer GP Rekha Ravikumar - Sinda Gopalakrishna Reddy and Raja Senthil on behalf of GBRK Cinemas.
+
+The first song in the film has been released and the song 'Kaivisu Pommaka ..' which was featured in the film has been released.
+
+The song is written by songwriter Ilango Krishnan, the playback singer Tipu has sung the song.
+
+◼️
+
+[Data](articles/912238df.json)
+
+[Extended Data](ext_articles/912238df.ext.json)
+
+---
+
+### Appointment of 29 Deputy Ministers
+
+*2024-11-21 16:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-பிரதியமைச்சர்கள்-நியமனம்/175-347577) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"President Anura Kumara Dissanayake appoints 29 Deputy Ministers. Key roles: Rural Development, Commerce, Religious Affairs, Fishing Resources, Ports, Women & Child Affairs, Transport, Public Security."
+
+🟩
+
+At the Presidential Secretariat, 29 Deputy Ministers were appointed by President Anura Kumara Dissanayake on Thursday evening.
+
+3 Vasantha Piyadissa Rural Development, Social Security and Social Empowerment Deputy Minister
+
+௫. Rm. Deputy Minister of Commerce, Business and Food Safety
+
+௬. Deputy Minister of Religious and Cultural Affairs
+
+௮. Ratna Kamage Deputy Minister of fishing, hydraulic and ocean resources
+
+17 Engineer. Deputy Minister of Ports and Civil Airlines
+
+18 Dr.. Deputy Minister of Women and Child Affairs
+
+௨௦ Dur. Prasanna Kumara Gunasena Deputy Minister of Transport and Highways
+
+26 Attorney Sunil Vadakala Deputy Minister of Public Security and Parliamentary Affairs
+
+◼️
+
+[Data](articles/9829e076.json)
+
+[Extended Data](ext_articles/9829e076.ext.json)
+
+---
+
+### 29 பிரதி அமைச்சர்கள் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் சத்தியப் பிரமாணம்
+
+*2024-11-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199340) · `ta`
+
+29 பிரதி அமைச்சர்கள் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் சற்றுமுன்னர் சத்தியபிரமாணப் செய்து கொண்டனர்.
+
+ஜனாதிபதி செயலகத்தில் இன்று வியாழக்கிழமை (21)  இடம்பெற்ற நிகழ்வில் பதவிப்பிரமாணம் செய்து கொண்ட பிரதி அமைச்சர்கள் விபரம் பின்வருமாறு,
+
+◼️
+
+[Data](articles/9d66405c.json)
+
+---
+
+### Touglas
+
+*2024-11-21 16:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸூக்கு-பிடியாணை/175-347576) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former Minister Douglas Devananda failed to appear in court due to illness. He faces fraud charges over alleged defraudation of 10 million rupees. A warrant was issued for his testimony, with the next hearing set for January 23.
+
+🟩
+
+Colombo Additional Magistrate Basan Amarasena on Thursday (21) ordered the former Minister Douglas Devananda, who was not present in court to testify in a case.
+
+According to Douglas Devananda's complaint, Subramanian Manoharan, a businessman from Wellawatte, has issued a complaint that he (Douglas Devananda) has not appeared in court.. The case has been filed by the undercover police.
+
+Douglas Devananda said he would not appear in court because he was sick.
+
+Douglas Devananda had lodged a complaint against him for allegedly defrauding ten million rupees each by learn that there was no money in the account on July 9, 2016 or that day.
+
+Attorney -at -law Sampath Hewapatrana, appearing on behalf of the accused, told the court that Devananda, the first witness of the case, was given the last date for testimony.
+
+The magistrate, considering the two sides, issued a warrant for the witness and adjourned the hearing to January 23.
+
+◼️
+
+[Data](articles/d8a66ad9.json)
+
+[Extended Data](ext_articles/d8a66ad9.ext.json)
+
+---
+
+### 29 delegates sworn in
 
 *2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
 
-ජාතික ජන බලවේගය රජයේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) ජනාධිපති
+29 officials sworn in as Deputy Ministers. Key appointments: Agriculture, Rural Development, Trade, Buddha Sasana, Foreign Affairs, Industry, Ports, Women & Child Affairs, Provincial Councils, Transport, Health, Plantations, Public Defense, Education, Lands & Irrigation. Presidential Secretary also sworn in.
 
-01 මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා - ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+🟩
 
-02 නාමල් කරුණාරත්න මහතා -  කෘෂිකර්ම සහ පශු සම්පත් නියෝජ්‍ය අමාත්‍ය
+Deputy Ministers Deputy Ministers President Anura Kumara Dissanayake today (21)
 
-03 වසන්ත පියතිස්ස මහතා - ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ නියෝජ්‍ය අමාත්‍ය
+Namal Karunaratne - Deputy Minister of Agriculture and Livestock
 
-05 ආර්. එම්. ජයවර්ධන මහතා - වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+Wasantha Piyatissa - Deputy Minister of Rural Development, Social Security and Community Improvement
 
-06 ගමගෙදර දිසානායක මහතා - බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය
+R. M. Deputy Minister of Trade, Commerce, Food Safety and Co-operative Development
 
-08 රත්න ගමගේ මහතා - ධීවර ජලජ සහ සාගර සම්පත් නියෝජ්‍ය අමාත්‍ය
+Dissanayake, Gamagedara Dissanayake Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
 
-11 අරුන් හේමචන්ද්‍රා මහතා  - විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය
+Aravarandra - Deputy Minister of Foreign Affairs
 
-16 චතුරංග අබේසිංහ මහතා - කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+Chaturanga Abeysinghe - Deputy Minister of Industry and Entrepreneurship Development
 
-17 ඉංජිනේරු ජනිත් රුවන් කොඩිතුවක්කු මහතා - වරාය සහ සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය
+Engineering Janith Kodituwakku - Deputy Minister of Ports and Civil Aviation
 
-18 වෛද්‍ය නාමල් සුදර්ශන මහතා  - කාන්තා සහ ළමා කටයුතු නියෝජ්‍ය අමාත්‍ය
+Dr. Namal Sudarshana - Deputy Minister of Women and Child Affairs
 
-19 රුවන් සෙනරත් මහතා - පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය
+Ruwan Senarath - Deputy Minister of Provincial Councils and Local Government
+
+Dr. Prasanna Kumara Gunasena - Deputy Minister of Transport and Highways
+
+Dr. Hanshana Wijemun - Deputy Minister of Health and Mass Media
+
+Sandaaringam Pradeep - Deputy Minister of Plantation and Community Infrastructure
 
 ...
 
 [Data](articles/073ff21c.json)
 
+[Extended Data](ext_articles/073ff21c.ext.json)
+
 ---
 
-### வடை சாப்பிட்ட நபர் மரணம்
+### The person who ate the dawn to death
 
 *2024-11-21 16:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடை-சாப்பிட்ட-நபர்-மரணம்/175-347575) · `ta`
 
-வடை சாப்பிட்டுக் கொண்டிருக்கும் போது, ஏற்பட்ட இருமல்  காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் ஒருவர் உயிரிழந்த சம்பவம்  அத்துருகிரிய பிரதேசத்தில் இடம்பெற்றுள்ளது.
+A man in Athurugiriya died after eating something harmful. He had a severe cough and was hospitalized. The cause of death is under investigation.
 
-தனது குடும்பத்தினருடன் உணவு உட்கொண்டிருந்த நிலையில் குறித்த நபர் வடை சாப்பிட்டுள்ளதுடன், இதன்போது திடீரென  இருமலுடன் ஒவ்வாமை ஏற்பட்டுள்ளது.
+🟩
 
-பின்னர்  சிகிச்சைக்காக  வைத்தியசாலைக்கு  கொண்டு செல்லப்பட்ட நிலையில் அவர் உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+The incident took place in the Athurugiriya area where a person who was admitted to the hospital due to coughing caused by a dummy was eaten.
 
-உயிரிழந்த நபரின் சடலம் பிரேதப் பரிசோதனைக்காக ஹோமாகம வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாகவும், இது தொடர்பான மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும்  பொலிஸார் குறிப்பிட்டுள்ளனர்.
+The person who had been eating with his family had eaten a vandalist and had a sudden coughing allergy.
+
+Doctors said he died after being taken to the hospital for treatment.
+
+The body of the deceased has been kept at the Homagama Hospital for autopsy and further investigations are underway, police said.
 
 ◼️
 
 [Data](articles/646a0f76.json)
 
+[Extended Data](ext_articles/646a0f76.ext.json)
+
 ---
 
-### உக்ரைன் மீது ரஸ்யா கண்டங்களிற்கிடையிலான ஏவுகணை தாக்குதல்
+### Russia's continental missile attack on Ukraine
 
 *2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199338) · `ta`
+
+Here's a summary of Russia's continental missile attack on Ukraine in approximately 200 characters:
+
+
+
+"Russia launched a wave of ballistic missiles from its mainland into Ukraine, targeting military facilities and civilian areas. The attack caused widespread destruction and casualties. Ukraine's air defense systems intercepted some missiles, but many reached their targets. The strike marked a significant escalation in Russia's ongoing conflict with Ukraine."
+
+🟩
 
 ◼️
 
 [Data](articles/2d2d1f2c.json)
 
+[Extended Data](ext_articles/2d2d1f2c.ext.json)
+
 ---
 
-### தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம்..!
+### First Parliamentary Committee Meeting of Tamil State Party
 
 *2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199328) · `ta`
 
-இன்று வியாழக்கிழமை (21) இலங்கைத் தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம் நாடாளுமன்ற நூலகத்தில் நடைபெற்றது. இதன் போது தமிழரசுக் கட்சியின் அனைத்து நாடாளுமன்ற உறுப்பினர்களும் கலந்து கொண்டார்கள்.
+Here's a summary of 200 characters:
+
+
+
+First TNA parliamentary committee meeting held at Parliament Library on Thursday. All TNA MPs attended.
+
+🟩
+
+The first parliamentary committee meeting of the Sri Lankan Tamil state party was held at the Parliament Library on Thursday (21). All the MPs of the TNA were present.
 
 ◼️
 
 [Data](articles/cda39b1d.json)
+
+[Extended Data](ext_articles/cda39b1d.ext.json)
 
 ---
 
@@ -110,61 +364,105 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-21 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103673/29-deputy-ministers-sworn-in) · `en`
 
-The Deputy Ministers of the new government have been sworn in this evening (21) at the Presidential Secretariat in Colombo.
+The Deputy Ministers of the new National People’s Power (NPP) government have been sworn in this evening (21) at the Presidential Secretariat in Colombo.
 
 Accordingly, a total of 29 Deputy Ministers were sworn in before President Anura Kumara Dissanayake today.
 
-◼️
+The Secretary to the President Dr. Nandika Sanath Kumanayake was also present at the event.
+
+1. Prof. Anil Jayantha Fernando - Deputy Minister of Economic Development
+
+2. Mr. Namal Karunarathne - Deputy Minister of Agriculture and Livestock
+
+3. Mr. Wasantha Piyathissa - Deputy Minister of Rural Development, Social Security and Community Empowerment
+
+4. Mr. Nalin Hewage - Deputy Minister of Vocational Education
+
+5. Mr. R.M. Jayawardena - Deputy Minister of Trade, Commerce and Food Security
+
+6. Mr. Gamagedara Dissanayake - Deputy Minister of Buddhasasana, Religious and Cultural Affairs
+
+8. Mr. Rathna Gamage - Deputy Minister of Deputy Minister of Fisheries, Aquatic and Ocean Resources
+
+...
 
 [Data](articles/cf51f1e7.json)
 
+[Extended Data](ext_articles/cf51f1e7.ext.json)
+
 ---
 
-### கருப்பையில் இருந்து பாரிய கட்டி நீக்கம்
+### Erection
 
 *2024-11-21 16:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருப்பையில்-இருந்து-பாரிய-கட்டி-நீக்கம்/175-347574) · `ta`
 
-பெண்ணொருவரின் கருப்பையில் இருந்து 10 கிலோ எடையுள்ள கட்டியை அகற்றும் சத்திரசிகிச்சை ஒன்று கதிர்காமம் பிரதேசத்தில் இருந்து பதிவாகியுள்ளது.
+Here's a summary in 200 characters:
 
-கதிர்காமத்தில் வசிக்கும் 40 வயதுடைய பெண் ஒருவர் உணவு மற்றும் சுவாசிப்பதில் சிரமம் காரணமாக மருத்துவ ஆலோசனையை நாடியதையடுத்து சத்திர சிகிச்சைக்கு முடிவு எடுக்கப்பட்டது.
 
-சத்திரசிகிச்சையை தொடர்ந்து குறித்த பெண்  நலமுடன் இருப்பதாக மகப்பேறு வைத்திய நிபுணர் டாக்டர் சமந்தா சமரவிக்ரம தெரிவித்துள்ளார்.
 
-கருப்பையில் உள்ள உயிரணுக்களின் அசாதாரண வளர்ச்சி நீர்க்கட்டிகளை உருவாக்குவதற்கு வழிவகுக்கிறது, மேலும் வயிற்று அசௌகரியம் போன்ற அறிகுறிகளை புறக்கணிப்பது நோயாளியின் உயிருக்கு ஆபத்தானது என்று அவர் கூறினார்.
+Massive 10kg womb removal surgery performed on 40-year-old woman in Kadirgama. Gynecologist reports patient healthy post-op. Uterine cysts dangerous if ignored.
+
+🟩
+
+A surgery that weighs 10 kg from a woman's womb has been reported from Kadirgamam area.
+
+A 40 -year -old woman living in Kadirgama has decided to seek medical advice due to difficulty in breathing and breathing.
+
+Dr. Samantha Samarawickrama, a gynecologist, said that the woman is in good health following the surgery.
+
+The abnormal growth of cells in the uterus leads to the formation of cysts, and ignoring symptoms such as abdominal discomfort is dangerous to the patient's life.
 
 ◼️
 
 [Data](articles/76218f62.json)
 
+[Extended Data](ext_articles/76218f62.ext.json)
+
 ---
 
-### නියෝජ්‍ය අමාත්‍යවරු 29ක් දිවුරුම් දෙති
+### 29 Deputy Ministers sworn in
 
 *2024-11-21 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203601) · `si`
 
-නව ආණ්ඩුවේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) දිවුරුම් දෙනු ලැබීය.
+Here's a summary of 200 characters:
+
+
+
+29 Deputy Ministers took oath under President Anura Kumara Dissanayake on 21st day.
+
+🟩
+
+29 Deputy Ministers of the New Government sworn in as President Anura Kumara Dissanayake today (21).
 
 ◼️
 
 [Data](articles/6f0c1e1d.json)
 
+[Extended Data](ext_articles/6f0c1e1d.ext.json)
+
 ---
 
-### පාසල් නිවාඩුව හෙටින් පසු ඇරඹෙයි
+### School holiday begins tomorrow
 
 *2024-11-21 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203600) · `si`
 
-2024 වර්ෂයේ තෙවන පාසල් වාරයේ පළමු අදියර 2024. 11. 22 වන සිකුරාදා දිනෙන් අවසන් වන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනයක් නිකුත් දැනුම්දෙයි.
+School holidays start tomorrow for Sinhala/Tamil and Muslim schools. Third term ends on 22nd. Muslim schools finish on 13th. All schools resume on Jan 2, 2025.
 
-ඒ, රජයේ පාසල්වල සහ රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් සඳහා ය.
+🟩
 
-මුස්ලිම් පාසල්වල තෙවන පාසල් වාරයේ පළමු අදියර නිමා වන්නේ 2024. 12.13 වන සිකුරාදා දින වන අතර එම දිනට පසුදා සිට එම පාසල් නිවාඩුව ආරම්භ වෙයි.
+The first stage of the third term of 2024 was 2024. 11. The Ministry of Education has issued an announcement that the end of the 22nd is announced.
 
-සියලුම පාසල්වල තෙවන වාරයේ දෙවන අදියර ආරම්භ කරමින් පාසල් නැවත ආරම්භ වන්නේ 2025 වර්ෂයේ ජනවාරි මස 02 වන බ්‍රහස්පතින්දා (2025.01.02) දිනයේ දී ය.
+It is for Sinhala and Tamil schools in government schools and government approved private schools.
+
+The first phase of the third term of the third term of the Muslim schools concludes 2024. On Friday, 12.13 and the school holiday begins next day.
+
+The second phase of the third term in all schools will be resumed on Thursday, January 2, 2025 (025.01.2012).
 
 ◼️
 
 [Data](articles/114a3373.json)
+
+[Extended Data](ext_articles/114a3373.ext.json)
 
 ---
 
@@ -194,35 +492,61 @@ Talathu Oya police said they were 15-17 years old and are conducting further inv
 
 ---
 
-### 2024 තෙවන පාසල් වාරයේ පළමු අදියර හෙටින් අවසන්
+### 2024 The first phase of the third term is over tomorrow
 
 *2024-11-21 16:01:32* · [`adalk`](https://www.ada.lk/breaking_news/2024-තෙවන-පාසල්-වාරයේ-පළමු-අදියර-හෙටින්-අවසන්/11-413203) · `si`
 
-2024 වර්ෂයේ රජයේ පාසල්වල සහ රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් ස ඳහා තෙවන පාසල් වාරයේ පළමු අදියර 2024. 11. 22 වන සිකුරාදා දිනෙන් අවසන් වන අතර ඒ අනුව හෙට දිනයෙන් පසු පාසල් නිවාඩු කාලය ආරම්භ වේ.
+Here's a summary of the text in approximately 200 characters:
 
-මුස්ලිම් පාසල්වල තෙවන පාසල් වාරයේ පළමු අදියර නිමා වන්නේ 2024. 12.13 වන සිකුරාදා දින වන අතර එම දිනට පසු දා සිට එම පාසල් නිවාඩුව ආරම්භ වේ.
 
-සියලු ම පාසල්වල තෙවන වාරයේ දෙවන අදියර ආරම්භ කරමින් පාසල් නැවත ආරම්භ වන්නේ 2025 වර්ෂයේ ජනවාරි මස 02 වන බ්‍රහස්පතින්දා (2025.01.02) දිනයේ දී ය.
+
+School term updates for 2024:
+
+- Government schools: Phase 3 ends Fri 22nd, holiday starts Sat
+
+- Muslim schools: Phase 3 concludes Fri 12th, holiday begins Sat
+
+- All schools: Phase 2 resumes Thu Jan 2, 2025
+
+🟩
+
+Third schools at government schools and government approved private schools in government schools and government approved private schools. 11. Ends on Friday 22nd and the school holiday begins after tomorrow.
+
+The first phase of the third term of the third term of the Muslim schools concludes 2024. On Friday, 12.13 and the school holiday begins after the day.
+
+The school will restart the second phase of the third term in all schools on Thursday, January 2, 2025 (09.
 
 ◼️
 
 [Data](articles/03ed9332.json)
 
+[Extended Data](ext_articles/03ed9332.ext.json)
+
 ---
 
-### சிங்கள பௌத்த தேசத்தின் ஒற்றையாட்சிச்கான திசை காட்டியே தவிர தமிழர் தேசத்திற்கான திசைகாட்டி அல்ல - அருட்தந்தை மா.சத்திவேல்
+### The Sinhala Buddhist nation is the direction of the unity of the Tamil nation - not the compass for the Tamil nation - the blessings
 
 *2024-11-21 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199331) · `ta`
 
-தற்போது வெற்றிக் களிப்பில் இருக்கும் திசைகாட்டி சிங்கள பௌத்த தேசத்தின் ஒற்றை ஆட்சிச்கான திசை காட்டியே தவிர தமிழர் தேசத்திற்கான திசை காட்டி அல்ல. எமக்கான தீர்வு இவர்கள் காலத்தில் கிட்டப்போவதில்லை என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் இன்று வியாழக்கிழமை (21) வெளியிட்டுள்ள ஊடக அறிக்கையிலே இவ்வாறு தெரிவித்துள்ளார்.
 
-வடக்கு கிழக்கு இணைந்த தமிழர் தாயகம், அதன் தேசியம், சுயநிர்ணய உரிமை,சமஸ்டி தீர்வு எனும் தமிழர் அரசியல் மையக்கருத்தியலை 2009ம் ஆண்டுக்குப் பின்னரும் சயனைட் குப்பி போல் நெஞ்சில் /மனதில் சுமந்த அரசியல் வாழ்வை தமதாக்கிக் கொண்டோருக்கு தேர்தல் முடிவுகள் முள்ளிவாய்க்கால் வலியை கொடுத்துள்ளது.
+
+Sinhala Buddhist nation leads Tamil unity, not compass. Activists warn against Mullivaikal-like outcome. Tamil nationalism faces challenges in Sri Lanka's political landscape.
+
+🟩
+
+The compass, which is currently in success, is the direction of the single rule of the Sinhala Buddhist nation and not the direction of the Tamil nation.. "We are not going to be the solution in time," said Aruttandanda Ma Sathivel, an activist for social justice and a national organization to release political prisoners.
+
+He was speaking in a media statement issued today (21), an activist for social justice and the National Organization of the National Organization for the release of political prisoners.
+
+Mullivaikkal has given the election results to those who have taken the political and minded political life of the Tamil Nadu Tamil Nadu, its nationality, self -determination and Samasti solution, after 2009.
 
 ...
 
 [Data](articles/219639dc.json)
+
+[Extended Data](ext_articles/219639dc.ext.json)
 
 ---
 
@@ -250,39 +574,57 @@ Ericksolheim, who is currently working as a green activist, has made a peaceful 
 
 ---
 
-### சகல உறுப்பினர்களின் உரிமைகளை பாதுகாப்பேன் : கடமைகளை நேர்மையாக நிறைவேற்றுவேன் - சபாநாயகர்
+### I will protect the rights of all members: I will honest the duties - Speaker
 
 *2024-11-21 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199330) · `ta`
 
-நாட்டின் மேன்மை பொருந்திய தாபனமான பாராளுமன்றத்தின் கௌரவம் மற்றும் சுயாதீனத்தை இயலுமான வகையில் பாதுகாப்பதுடன், அனைத்து உறுப்பினர்களினதும் உரிமைகளை பாதுகாத்து  மிகவும் பொறுப்பு மிக்க சபாநாயகர் பதவியின்  கடமைகளை  நேர்மையான முறையில்  நிறைவேற்றுவேன் என சபாநாயகர்  அசோக  ரன்வல  சபைக்கு  உறுதியளித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (21) நடைபெற்ற முதலாவது கன்னி அமர்வின் போது சபாநாயகராக தெரிவு செய்யப்பட்டமைக்கு நன்றி தெரிவித்து சபைக்கு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-மேன்மை பொருந்திய பாராளுமன்றத்தின் சபாநாயகராக என்னை நியமித்தமைக்கு உளப்பூர்வமாக நன்றியையும், கௌரவத்தையும் தெரிவித்துக் கொள்கிறேன். எனக்கு வாழ்த்து தெரிவித்த அரசியல் கட்சித் தலைவர்களின் வாழ்த்து  செய்திகளையும் ஏற்றுக் கொள்வதுடன், நன்றி தெரிவித்துக் கொள்கிறேன்.
 
-பாராளுமன்றத்தின் ஆளும் மற்றும் எதிர்ப்பினர் என்மீது கொண்டுள்ள நம்பிக்கைக்கு நன்றி தெரிவித்துக் கொள்கிறேன்.
+Speaker Ashoka Ranwala vows to protect parliament's rights & independence, fulfill duties responsibly. He thanks members for election & promises cooperation in legislative activities.
+
+🟩
+
+Speaker Ashoka Ranwala assured the House that he would protect the rights and independence of the country's superior parliament and defend the rights of all members and fulfill the duties of the most responsible Speaker.
+
+Speaking to the House, he thanked the House for the election of the Speaker during the first virgin session held in Parliament on Thursday (21).
+
+I would like to express my sincere gratitude and honor for the appointment of me as Speaker of Parliament. I also thank you for accepting the message of the political party leaders who congratulated me.
+
+I thank you for the confidence of the ruling and opponents of Parliament.
+
+I promise to protect the dignity and independence of the country's superior parliament and protect the rights of all members and take the responsibility of the most responsible Speaker.
 
 ...
 
 [Data](articles/bd99c81a.json)
 
+[Extended Data](ext_articles/bd99c81a.ext.json)
+
 ---
 
-### தேசியப் பட்டியல் விவகாரத்தை பிரச்சினைக்குரியதாக கருதவில்லை - எதிர்க்கட்சி தலைவர் சஜித்
+### The National List issue does not regard the issue - Opposition Leader Sajith
 
 *2024-11-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199323) · `ta`
 
-தேசிய பட்டியல் விவகாரத்தை பிரச்சினைக்குரியதாக நாம் கருதவில்லை. புரிந்துணர்வுடன் இது குறித்த தீர்மானங்கள் எடுக்கப்படும். தோல்வியடைந்தவர்களுக்கு தேசிய பட்டியல் ஆசனத்தை வழங்க முடியாது என நான் கூறவில்லை என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa: National List issue not a problem. Decisions made democratically. Prioritize public needs over opportunistic politics.
 
-ஐக்கிய மக்கள் சக்தி தலைமையகத்தில் புதன்கிழமை கட்சி உறுப்பினர்களுடன் இடம்பெற்ற விசேட சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-யதார்த்தத்தை உணர்ந்து அடுத்த கட்ட நடவடிக்கைகளை முன்னெடுத்துச் செல்வோம். அதேபோன்ற கட்சியின் வீழ்ச்சிக்கான குறைபாடுகளையும் அறிந்து அவற்றை திருத்திக் கொள்வதற்கான நடவடிக்கையும் முன்னெடுக்கப்படும். புதிய பயணமொன்றை விரைவில் ஆரம்பிப்போம்.
+We do not consider the National List issue as a problem. The decisions will be taken with the understanding. Opposition leader Sajith Premadasa said that I am not saying that the national list seat cannot be given to the failed.
 
-அடைந்துள்ள தோல்வி மற்றும் பின்னடைவை ஒரு படிப்பினையாக எடுத்துக் கொண்டுள்ளோம். தேசிய பட்டியல் விவகாரத்தை பிரச்சினைக்குரியதாக நாம் கருதவில்லை. புரிந்துணர்வுடன் இது குறித்த தீர்மானங்கள் எடுக்கப்படும். கடந்த பொதுத்தேர்தலில் ஐக்கிய தேசிய கட்சியின் தேசிய பட்டியல் உறுப்பினர் ஒருவரை தெரிவு செய்வதற்கு 11 மாதங்கள் சென்றன.
+He further stated that he was speaking to the media after a special meeting with party members at the United People's Power Headquarters on Wednesday.
+
+We will realize the reality and take the next step. A similar party will take steps to correct the fall of the party and to correct them. We will start a new journey soon.
+
+We have taken a lesson of failure and setbacks as a lesson. We do not consider the National List issue as a problem. The decisions will be taken with the understanding. In the last general election, it took 11 months to elect a member of the United National Party (UNP).
 
 ...
 
 [Data](articles/01f0c96e.json)
+
+[Extended Data](ext_articles/01f0c96e.ext.json)
 
 ---
 
@@ -299,6 +641,8 @@ The second phase of the third school term for the academic year 2024 is schedule
 ◼️
 
 [Data](articles/306a35bd.json)
+
+[Extended Data](ext_articles/306a35bd.ext.json)
 
 ---
 
@@ -393,6 +737,8 @@ The month-on-month change was contributed by a decrease in food items of 0.16% a
 ◼️
 
 [Data](articles/688fef60.json)
+
+[Extended Data](ext_articles/688fef60.ext.json)
 
 ---
 
@@ -495,6 +841,22 @@ Speaker Ashoka Rangwella, the honor of the Parliament, will defend the honor and
 [Data](articles/b8abcefa.json)
 
 [Extended Data](ext_articles/b8abcefa.ext.json)
+
+---
+
+### ගෝඨාගේ ගැසට් අවලංගු නොකර සහල් ගැටලුව ලිහන්න බැරිලු
+
+*2024-11-21 14:23:27* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-ගැසට්-අවලංගු-නොකර-සහල්-ගැටලුව-ලිහන්න-බැරිලු/11-413201) · `si`
+
+වෙළඳපොළේ හාල් හිඟයක් නිර්මාණය වී තිබෙන්නේ ගෝඨාභය රාජපක්ෂ මහතා පැනවූ ගැසට් නිවේදනයන් අවලංගු නොකර, එම ගැසට් නිවේදන වත්මන් රජයත් ක්‍රියාත්මක කිරීම නිසා බව, එක්සත් සහල් නිෂ්පාදකයන්ගේ සංගමයේ සභාපති මුදිත් පෙරේරා මහතා සඳහන් කළේය.
+
+වෙළඳපොළේ පවතින සහල් හිඟය මග හැරවීමට ඉන්දියාවෙන් සහල් මෙට්‍රික් ටොන් 65,000 ක් අපනයනය කිරීම උත්තරයක් නොවන බවත්, වසර දෙකහමාරකට පෙරාතුව ගෝඨාභය රාජපක්‍ෂ මහතා සහල් සම්බන්ධයෙන් පැනවූ ගැසට් නිවේදන අහෝසිකර  පරණ ගැසට් නිවේදන යාවත්කාලීන කර සහල් හිඟයක් මවා පාන මහා පරිමාණ සහල් ව්‍යාපාරිකයන්ට නව නීති පනවන ලෙසත් පෙරේරා මහතා කීවේය.
+
+පොළොන්නරුව ඕනෑගම ප්‍රදේශයේදී 20 වෙනිදා පෙරවරුවේ මාධ්‍ය සාකච්ඡාවක් කැඳවමින් එක්සත් සහල් නිෂ්පාදකයන්ගේ සංගමයේ සභාපති මුදිත් පෙරේරා මහතා ඒ බව කීවේය.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදිත් පෙරේරා මහතා මෙසේද පැවසීය.
+
+...
+
+[Data](articles/04cef149.json)
 
 ---
 
@@ -1280,6 +1642,22 @@ Meanwhile, the civil society has appealed to the Ambassador to the journalists f
 
 ---
 
+### “சட்டத்துக்கு மேல் யாருமில்லை” (முழு உரையும் இணைப்பு)
+
+*2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சட்டத்துக்கு-மேல்-யாருமில்லை-முழு-உரையும்-இணைப்பு/150-347554) · `ta`
+
+அக்கிராசனத்தில் இருந்து நாட்டு மக்களுக்கு உரையாற்றிகொண்டிருக்கும் ஜனாதிபதி அனுரகுமார திசாநாயக்க, சட்டத்துக்கு மேல் யாரும் இல்லை, நான், உட்பட அனைவரும் சட்டத்துக்கு ​கீழ்படிந்தவர்கள். அத்துடன், கடந்தகாலங்களில் இடம்பெற்ற  மிகவும் கொடூரமான சம்பவங்கள் தொடர்பில், விசாரணைகள் முன்னெடுக்கப்பட்டு, சட்டத்தின் முன், நிறுத்தப்படுவார்கள்.
+
+பத்தாவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடரை (2024-11-21) ஆரம்பித்து வைத்து ஜனாதிபதி அநுரகுமார திசாநாயக்க ஆற்றிய உரை.
+
+இன்று எமது பாராளுமன்றத்தில் சிறப்புக்குரிய நாள். அதிகாரம் இரு குழுக்களுக்கு கைமாறிய வண்ணம் இருந்தது. கடந்த ஜனாதிபதி தேர்தலில் எமது தரப்புக்கு அதிகாரம் கிடைத்துள்ளது. இலங்கை வரலாற்றில் அது முக்கியமானது.  எமது நாட்டின் தேர்தல் முறையில் அதிகளவான எம்.பிக்கள் தெரிவு செய்யப்பட்டுள்ளனர். வடக்கு கிழக்கு மலையகம் தெற்கு என அனைத்து மாகாணங்களும் மக்களும் அதற்கு பங்களிப்பு செய்துள்ளன.
+
+...
+
+[Data](articles/10aef9e9.json)
+
+---
+
 ### “There is no one above the law”
 
 *2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சட்டத்துக்கு-மேல்-யாருமில்லை/150-347554) · `ta`
@@ -1481,6 +1859,38 @@ He also emphasized that there is no room for any religious extremism.
 [Data](articles/490898fa.json)
 
 [Extended Data](ext_articles/490898fa.ext.json)
+
+---
+
+### Why did the new government decide the importation of rice at the first Cabinet?
+
+*2024-11-21 11:32:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyrx80l83go) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New government decides to import rice from India to address national shortage. Minister Wasantha Samarasinghe announces 70,000 metric tons import plan. Opposition criticizes move, citing potential profiteering. President intervenes, urging fair pricing and increased local production.
+
+🟩
+
+At the first Cabinet of the new government, he decided to import rice from India.
+
+The Minister of Trade, Commercial, Food Safety and Co-operative Development, Wasantha Samarasinghe said that 70,000 metrics as a solution to the shortage of rice shortage in the country said Wasantha Samarasinghe.
+
+Price Control Price: 'No law to climb the fines fines fines fines
+
+"Behind the deficit of this rice is the strategies and tactics to make extra profits through the price hike, Minister Wasantha Samarasinghe is not waiting for the decision to import the rice.He said at a press conference held on November 20.
+
+The Golden Nadu Rice, which imports the country through the Circular Corporation, will be released to the public through a price of Rs. 15 to Rs.
+
+MP Namal Karunaratne said that this is a program to "fuel the rice mill owners', opposing rice abroad.
+
+...
+
+[Data](articles/38b30ca0.json)
+
+[Extended Data](ext_articles/38b30ca0.ext.json)
 
 ---
 
@@ -2109,257 +2519,5 @@ Ranwala was elected from the Gampaha District, while Salih was elected from the 
 [Data](articles/ff1bf32c.json)
 
 [Extended Data](ext_articles/ff1bf32c.ext.json)
-
----
-
-### Speaker's post to Asoka Ran Rang
-
-*2024-11-21 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203591) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Parliamentarian Ashoka Ranwala elected Speaker New Parliament.
-
-🟩
-
-Parliamentarian Ashoka Ranwala was elected as the Speaker of the New Parliament.
-
-◼️
-
-[Data](articles/aad8de98.json)
-
-[Extended Data](ext_articles/aad8de98.ext.json)
-
----
-
-### Billionaire Gautam Adani of India’s Adani Group charged in US with bribery; bond deal pulled
-
-*2024-11-21 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103654/billionaire-gautam-adani-of-indias-adani-group-charged-in-us-with-bribery-bond-deal-pulled) · `en`
-
-Gautam Adani, the billionaire chair of Indian conglomerate Adani Group and one of the world’s richest people, has been indicted in New York over his role in a $265 million bribery scheme, according to U.S. prosecutors.
-
-Authorities said Adani and seven other defendants, including his nephew Sagar Adani, agreed to pay the bribes to Indian government officials to obtain contracts expected to yield $2 billion of profit over 20 years, and develop India’s largest solar power plant project.
-
-A judge has issued arrest warrants for Gautam Adani and Sagar Adani and prosecutors plan to hand those warrants to foreign law enforcement, court records show.
-
-Adani Green Energy cancelled plans on Thursday to raise $600 million in U.S. dollar-denominated bonds, according to four sources with direct knowledge of the matter. The bond had been priced but was pulled following the news.
-
-...
-
-[Data](articles/bc1b44a3.json)
-
-[Extended Data](ext_articles/bc1b44a3.ext.json)
-
----
-
-### Watch Live: Inaugural session of 10th Parliament commences
-
-*2024-11-21 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103653/watch-live-inaugural-session-of-10th-parliament-commences) · `en`
-
-The ceremonial opening of the First Session of the Tenth Parliament commenced a short while ago.
-
-During the inaugural session, President Anura Kumara Dissanayake will present the Government’s Policy Statement.
-
-Following the sounding of the quorum Bell at 9:55 a.m., Parliament convened at 10:00 a.m. The Secretary-General of Parliament presented the Extraordinary Gazette Notifications issued by the President, setting the date and time for the session, as the first order of business.
-
-The Speaker will then be elected according to Article 64(1) of the Constitution and Parliamentary Standing Orders. Afterward, Members will take their oaths, followed by the election of the Deputy Speaker and Deputy Chairperson of Committees.
-
-On the first day, Members are free to sit in any seat, as no seating arrangements are pre-assigned.
-
-...
-
-[Data](articles/20692e40.json)
-
-[Extended Data](ext_articles/20692e40.ext.json)
-
----
-
-### Ranil travels to India today
-
-*2024-11-21 09:56:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-இன்று-இந்தியா-பயணம்/175-347534) · `ta`
-
-Ranil Wickremesinghe visits India today, addresses speech in Indore tomorrow, returns home on 30th.
-
-🟩
-
-UNP leader and former president Ranil Wickremesinghe will visit India today (21).
-
-During the visit, he will address a special speech at the Higher Education Institute of Sri Sathya Vihara in Indore, Madhya Pradesh, India.
-
-Ranil Wickremesinghe's special speech will be held at 6 pm on Wednesday (22).
-
-After completing his visit, Ranil Wickremesinghe will return to the country on the 30th.
-
-◼️
-
-[Data](articles/e20b951a.json)
-
-[Extended Data](ext_articles/e20b951a.ext.json)
-
----
-
-### Virgin session of the first session of the 10th Parliament today
-
-*2024-11-21 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199285) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"10th Parliament's 1st session begins today. President Anura Kumara Dissanayake presents policy at 10 AM. No ceremony, just a simple session."
-
-🟩
-
-The virgin session of the first session of the tenth parliament will be held on Thursday (21).
-
-President Anura Kumara Dissanayake will present his government's policy declaration at the Virgin session of the first session of the parliamentary session of the parliament, which is simple without any parade.
-
-The virgin session of the first session of the 10th Parliament will be launched at 10 am today.
-
-◼️
-
-[Data](articles/f1abeb3c.json)
-
-[Extended Data](ext_articles/f1abeb3c.ext.json)
-
----
-
-### Ukraine leads British manufactured missiles to Russia
-
-*2024-11-21 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203590) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ukraine uses British-made "Storm Shadow" missiles against Russia. First launch reported. Targets alleged Russian underground command center. Deployment follows North Korean border concerns.
-
-🟩
-
-Ukraine says the British "Strome Shadows" was first launched to Russia.
-
-Foreign media reports that the missiles have been launched targeting a Russian underground command center.
-
-It is said that the British has allowed Ukraine for long-distance missiles in response to the North Korean army border.
-
-◼️
-
-[Data](articles/490bbdc4.json)
-
-[Extended Data](ext_articles/490bbdc4.ext.json)
-
----
-
-### Chinese Ambassador to Sri Lanka says confused over Jaffna University’s non-cooperation
-
-*2024-11-21 09:37:00* · [`economynextcom`](https://economynext.com/chinese-ambassador-to-sri-lanka-says-confused-over-jaffna-universitys-non-cooperation-189065/) · `en`
-
-ECONOMYNEXT – Chinese Ambassador to Sri Lanka Qi Zhenhong said he is confused over non-cooperation by Sri Lanka’s Northern Jaffna University on education cooperation between the two countries despite active participation from Beijing.
-
-As part of education cooperation, China has been in the process of establishing mutual agreements between Sri Lanka’s local state universities and Chinese counterparts, citing to provide more opportunities to Sri Lankans.
-
-However, the University of Jaffna in the former war zone in the Northern Province of the island nation close to South Indian Tamil Nadu state has been not actively cooperating with the process, the Chinese Ambassador said.
-
-“We don’t know why they are not cooperating to improve the partnership cooperation,” Zhenhong told reporters on Tuesday when he responded to questions raised by journalists at Jaffna Press Club.
-
-...
-
-[Data](articles/654135e4.json)
-
-[Extended Data](ext_articles/654135e4.ext.json)
-
----
-
-### Ranwala elected as the new Speaker?
-
-*2024-11-21 09:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சபாநாயகராக-ரன்வல-தெரிவு/175-347533) · `ta`
-
-Asoka Ranwala elected Speaker; National People's Power party chooses him; 1st session 10am today; Deputy Minister swearing-in ceremony afternoon.
-
-🟩
-
-It is reported that the National People's Power has decided to appoint Parliamentarian Asoka Ranwala as Speaker of the new Parliament.
-
-The first session of the tenth Parliament is scheduled to begin today (21st) at 10 am.
-
-It is noteworthy that after the end of parliamentary proceedings, the swearing -in ceremony for the deputy ministers of the new government will be held this afternoon.R
-
-◼️
-
-[Data](articles/5e2e3aa4.json)
-
-[Extended Data](ext_articles/5e2e3aa4.ext.json)
-
----
-
-### Ranwala as the new Speaker?
-
-*2024-11-21 09:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சபாநாயகராக-ரன்வல/175-347533) · `ta`
-
-Asoka Ranwala likely to become new Speaker. First session of 10th Parliament starts today at 10 AM. Swearing-in ceremony for deputy ministers to follow after parliamentary proceedings.
-
-🟩
-
-It is reported that the National People's Power has decided to appoint Parliamentarian Asoka Ranwala as Speaker of the new Parliament.
-
-The first session of the Tenth Parliament is scheduled to begin today (21st) at 10 am.
-
-It is noteworthy that after the end of parliamentary proceedings, the swearing -in ceremony for the deputy ministers of the new government will be held this afternoon.R
-
-◼️
-
-[Data](articles/9d5c8997.json)
-
-[Extended Data](ext_articles/9d5c8997.ext.json)
-
----
-
-### Death in one of the shootings
-
-*2024-11-21 09:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-347532) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Shooting in Dickwella: 48-year-old motorcyclist killed near Veterinary Doctors Office. Incident occurred on 21st. Victim died instantly.
-
-🟩
-
-One person was killed in a shooting incident this morning (21) near the Veterinary Doctors Office in Dickwella - Valaskala.
-
-A 48 -year -old man from Valaskala, who was traveling on a motorcycle, was shot dead and died on the spot.
-
-◼️
-
-[Data](articles/4ec2dd71.json)
-
-[Extended Data](ext_articles/4ec2dd71.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 291.05/15 to dollar, bonds stable
-
-*2024-11-21 09:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-291-05-15-to-dollar-bonds-stable-189066/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 291.05/15 to the US dollar on Thursday from 290.95/291.10 to the US dollar on Wednesday dealers said, while bond yields were stable.
-
-A bond maturing on 15.12.2026 was quoted at 10.20/25 percent, down from 10.10/20 percent.
-
-A bond maturing on 15.12.2027 was quoted at 10.80/90 percent, down from 10.75/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.05/10 percent, down from 11.00/10 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.35/45 percent, down from 11.25/40 percent.
-
-In equities, the All Share Price Index opened up 0.04 points, at 13,113. The more liquid S&P SL20 opened 0.09 points, at 3,919.
-
-◼️
-
-[Data](articles/3d9a499f.json)
-
-[Extended Data](ext_articles/3d9a499f.ext.json)
 
 ---

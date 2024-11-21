@@ -1,36 +1,422 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 19:18:07**
+As of **2024-11-21 21:25:40**
 
 ## Newspaper Stats
 
-*Scraped **56,183** Articles*
+*Scraped **56,203** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
-colombotelegraphcom | 574
-bbccomsinhala | 583
+colombotelegraphcom | 575
+bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,293
-adaderanalk | 6,791
-tamilmirrorlk | 7,981
-virakesarilk | 9,126
-adaderanasinhalalk | 9,698
+adalk | 5,295
+adaderanalk | 6,793
+tamilmirrorlk | 7,983
+virakesarilk | 9,134
+adaderanasinhalalk | 9,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,182 (100.0%) of 56,183 articles have been extended.
+56,200 (100.0%) of 56,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### Dambulla Economic Center Confusion
+
+*2024-11-21 20:34:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்புள்ளை-பொருளாதார-மத்திய-நிலையத்தில்-குழப்பம்/175-347580) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dambulla Economic Center dispute: Traders vs. Trade Association over new transport project and fruit sales system. Merchants object to new rules, leading to shop closures and traffic issues. Trade Association president cites need for order but faces resistance from vendors.
+
+🟩
+
+There has been a heated argument between the members of the Dambulla Economic Center and the traders who are selling mangoes to the Dambulla Economic Center.
+
+This is due to the fact that the new transport project has been implemented within the Dambulla Economic Center and the new system has been introduced in the sale of vegetables and fruits.
+
+In addition, the Economic Center's Trade Association has decided to collect fines from shop owners who boycott this system and temporarily close the shops.
+
+However, if it was decided to temporarily close the shops, there was a stir as the merchants who came to sell mangoes in the morning were dismantled.
+
+Merchants who sell mango are not selling mangoes in lorries and on the floor near the shops, as there is no place to sell the mangoes.
+
+The President of the Trade Association C, C. C. C.. S. Siriwardena said.
+
+The decision has been taken due to traffic congestion at the Economic Center due to the sale of mango.
+
+...
+
+[Data](articles/d164e478.json)
+
+[Extended Data](ext_articles/d164e478.ext.json)
+
+---
+
+### Action to arrest those who damaged public property in Mannar
+
+*2024-11-21 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199363) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Police arresting individuals damaging property near Mannar General Hospital. Actions include targeting those who broke windows, threw stones, and vandalized tires. Police also reviewing hospital CCTV footage to identify participants in the unrest.
+
+🟩
+
+The police are taking steps to arrest the people who have been silent in front of the Mannar District General Hospital on Wednesday evening to demand justice for the death of a young mother who died at the Mannar General Hospital.
+
+In particular, steps are being taken to arrest those who have entered the hospital and damaged the glasses, the police throwing stones, and the tires, and the tires.
+
+Steps are being taken to arrest the hospital CCTV camera and the videos taken during the struggle and diverted the peaceful struggle through it.
+
+◼️
+
+[Data](articles/cf1da696.json)
+
+[Extended Data](ext_articles/cf1da696.ext.json)
+
+---
+
+### Sri Lanka Tamil National Alliance (TNA)
+
+*2024-11-21 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199362) · `ta`
+
+Sri Lanka Tamil National Alliance (TNA) faces criticism for anti-people activities. Despite challenges, TNA gained more seats in 2020 elections. They cooperate with government decisions and plan to negotiate solutions for Tamil issues.
+
+🟩
+
+From the TNA, a few were involved in anti -people activities. The people of the Northern and Eastern Provinces have made our party difficult, Sri Lanka Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said.
+
+He was speaking to the media after a speech of the government's policy announcement in Parliament on Thursday (21).
+
+The TNA is not currently. The Sri Lankan Tamil party is the main party. Tamil political parties have also been inconvenienced.
+
+From the TNA, a few were involved in anti -people activities. The people of the North and Eastern Province have made our party difficult.
+
+If the election decisions were made, the Sri Lanka Tamil National Party won six seats in the 2020 general election. This time has risen to eight. So the people of the North and East are always with us.
+
+...
+
+[Data](articles/6feb5831.json)
+
+[Extended Data](ext_articles/6feb5831.ext.json)
+
+---
+
+### Recent history is the largest drug raid in recent history
+
+*2024-11-21 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203607) · `si`
+
+Large-scale drug bust: 200+ kg ice, 70+ kg heroin seized. 10 arrests made across Matara, Mt. Lavinia, Ratmalana. Origin unclear; investigation ongoing. Acting IGP calls it record-breaking operation.
+
+🟩
+
+More than 200 kilometers of heroin and ice crores worth over Rs.
+
+10 suspects have been arrested by the police.
+
+The Matara Division Criminal Investigation Bureau had received a large haul of drugs by a boat from Gandara Nonvinkele.
+
+Accordingly, the drug has been detected in a van to a house in the Mapalagama area in Galle.
+
+The suspects were then arrested in the Matara, Mount Lavinia and Ratmalana.
+
+There were more than 200 kilograms of ice cast and over 70 kilograms of heroin.
+
+The stock of drug has been sent from Pakistan to Sri Lanka and has not yet revealed that who sent them to the country.
+
+The acting IGP Priyantha Weerasuriya also visited the Senior Superintendent of Police from Matara today (21st).
+
+The acting IGP said that this was the highest number of drugs found in the land of recent history.
+
+...
+
+[Data](articles/47bcf645.json)
+
+[Extended Data](ext_articles/47bcf645.ext.json)
+
+---
+
+### The government will take action on the Sri Lankan Indian fishermen issue -Minister Ramalingam Chandrasekaran
+
+*2024-11-21 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199360) · `ta`
+
+Sri Lankan Indian fishermen issue: Government action promised by Minister Ramalingam Chandrasekaran to protect local fishermen and address tensions. Meeting with Indian High Commission planned to discuss details.
+
+🟩
+
+Fisheries Minister Ramalingam Chandrasekaran said the National People's Power Government would take appropriate action to address the issue of Sri Lankan Indian fishermen.
+
+He was speaking to the media after the President's policy speech held in Parliament on Thursday (21).
+
+The Sri Lankan Indian fishermen's issue is a major tension so that our fishermen face the impact. The government will take firm action to protect our country fishermen. We are never going to take all the necessary measures.
+
+I will meet the Indian High Commission very soon. I expect to discuss this issue in detail with him.
+
+Earlier, he said there would be talks with all the Northern fishermen and all the sectors.
+
+◼️
+
+[Data](articles/c3f32e12.json)
+
+[Extended Data](ext_articles/c3f32e12.ext.json)
+
+---
+
+### Former Minister Douglas Devananda
+
+*2024-11-21 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199359) · `ta`
+
+Colombo Magistrate's Court issues warrant for former Minister Douglas Devananda's arrest. Case filed in 2016 over missing Rs 20m checks. Devananda absent, lawyer claims illness without proof.
+
+🟩
+
+The Colombo Magistrate's Court on Thursday (21) issued a court order to arrest former minister Douglas Devananda, who was not present in court.
+
+The case was filed against former Douglas Devananda Criminal Investigation Department (CID) in 2016 regarding the incident of two checks worth Rs 10 million each.
+
+When the case was taken up for hearing on Thursday (21), Douglas Devananda did not appear in court to testify.
+
+Although his lawyer said he was sick, no medical certificates were submitted.
+
+◼️
+
+[Data](articles/14aaafef.json)
+
+[Extended Data](ext_articles/14aaafef.ext.json)
+
+---
+
+### Arrest warrant issued against former Minister Douglas Devananda
+
+*2024-11-21 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103676/arrest-warrant-issued-against-former-minister-douglas-devananda) · `en`
+
+The Colombo Magistrate’s Court today (21) issued an arrest warrant against former Minister Douglas Devananda after he failed to appear before the court to testify in an ongoing case.
+
+The case pertaining to a complaint lodged by Devananda with the Criminal Investigation Department (CID) in 2016, accusing Wellawatta-based businessman Subramaniam Manoharan of issuing two fraudulent cheques, each valued at Rs. 10 million, was taken up before the court today.
+
+Despite being summoned to testify in court today, former Minister Devananda was absent. While his attorney claimed he was unwell, no medical documentation was submitted to substantiate the claim, Ada Derana reporter said.
+
+Given the lack of credible justification for his absence, the Magistrate ordered the issuance of warrants to arrest and produce Devananda in court.
+
+◼️
+
+[Data](articles/bd4369c7.json)
+
+[Extended Data](ext_articles/bd4369c7.ext.json)
+
+---
+
+### MS Naleem was selected on the national list
+
+*2024-11-21 19:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்-பட்டியலில்-தெரிவானார்-எம்-எஸ்-நளீம்/175-347579) · `ta`
+
+Here's a 200-character summary:
+
+
+
+MS Naleem chosen for national list by Sri Lanka Muslim Congress. Former Eravur Municipal Council Chairman elected as National List Member of Parliament.
+
+🟩
+
+The Sri Lanka Muslim Congress (SLMC) has elected MS Naleem, former Chairman of the Eravur Municipal Council as its National List Member of Parliament.
+
+◼️
+
+[Data](articles/9b2f465a.json)
+
+[Extended Data](ext_articles/9b2f465a.ext.json)
+
+---
+
+### An Opposition Leader Same MP was not a Member of Parliament
+
+*2024-11-21 19:09:49* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂ-නායක-අසුනේ-වාඩිවුණ-මන්ත්‍රී-ජාජබ-මන්ත්‍රීවරයෙක්-නෙමෙයි/11-413209) · `si`
+
+Opposition Leader not in Parliament: Chief denies claim. Statement clarifies MP replaced by 17 independents from Jaffna. Debunks media reports of involvement in national issues.
+
+🟩
+
+The Chief of Government Whistter said that the Opposition Leader was not a member of the National Power in Parliament at the beginning of Parliament.
+
+The announcement states that the MP has been competed by the 17 Independent groups from the Jaffna district.
+
+The statement further states that some media reports that the MP is involved in the national country is false.
+
+◼️
+
+[Data](articles/910e5342.json)
+
+[Extended Data](ext_articles/910e5342.ext.json)
+
+---
+
+### M.S. Naleem nominated as SLMC National List MP
+
+*2024-11-21 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103675/ms-naleem-nominated-as-slmc-national-list-mp) · `en`
+
+The Sri Lanka Muslim Congress (SLMC) has named the former Chairman of Eravur Urban Council, M.S. Naleem, as its National List MP.
+
+◼️
+
+[Data](articles/76057496.json)
+
+[Extended Data](ext_articles/76057496.ext.json)
+
+---
+
+### Warrant issued for former Minister Douglas Devananda
+
+*2024-11-21 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203606) · `si`
+
+Colombo Magistrate's Court issues warrant for former Minister Douglas Devananda. Case filed by Criminal Investigation Department against Subramanium. Witness fails to appear, lawyer cites illness. Magistrate orders arrest and detention.
+
+🟩
+
+The Colombo Magistrate's Court today (21) has issued warrants today (21).
+
+The case was filed against the man named Subramanium, a resident of the Wellawatte, a complaint from the Criminal Investigation Department.
+
+When the case was taken up today, the Witness Douglas Devananda has not appeared in court to testify.
+
+His lawyer had informed that he was in illustration, but medical certificates that confirm that.
+
+Accordingly, the magistrate has issued a warrant for Douglas Devananda to be arrested and submit.
+
+◼️
+
+[Data](articles/7417b79f.json)
+
+[Extended Data](ext_articles/7417b79f.ext.json)
+
+---
+
+### Man dies after repairing bridge
+
+*2024-11-21 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203605) · `si`
+
+A man died while repairing a bridge across Gin River Road in Galle. Police reported he died instantly due to the bridge's collapse. Recovery efforts are ongoing by Nagoda Police and residents.
+
+🟩
+
+The bridge was killed today (21st), a man who had been repairing a iron bridge across the Gin River road in Galle.
+
+Police said he had died on the spot due to the station of the bridge.
+
+Nagoda Police and residents of the Nagoda are working together to recover the bodies.
+
+◼️
+
+[Data](articles/855c520d.json)
+
+[Extended Data](ext_articles/855c520d.ext.json)
+
+---
+
+### Eravur Muhammad Sally Naleem as National List of Muslim Congress
+
+*2024-11-21 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199358) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Eravur Muhammad Sally Naleem appointed National List Sri Lanka Muslim Congress. Secretary-General wrote letter National Elections Commission.
+
+🟩
+
+Eravur Muhammad Sali Naleem has been appointed as a member of the National List of the Sri Lanka Muslim Congress.
+
+Secretary -General of the Sri Lanka Muslim Congress has sent a letter to the National Elections Commission.
+
+◼️
+
+[Data](articles/c904d646.json)
+
+[Extended Data](ext_articles/c904d646.ext.json)
+
+---
+
+### Israeli Prime Minister and former Defense Minister
+
+*2024-11-21 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199357) · `ta`
+
+Israeli PM, ICC judges, former Defense Minister, Hamas military commander arrested.
+
+🟩
+
+The judges of the International Criminal Court, the Israeli prime minister, the former Defense Minister of Israel and the military commander of Hamas have been arrested for arrest.
+
+◼️
+
+[Data](articles/45a46fa6.json)
+
+[Extended Data](ext_articles/45a46fa6.ext.json)
+
+---
+
+### Hot Sight Transfer at Dambulla Economic Center
+
+*2024-11-21 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203604) · `si`
+
+Dambulla Economic Center: Traffic plan sparks heated exchange between vendors and authorities over mango marketing restrictions. Police intervention required. Trade union imposes fines, affecting shop operations.
+
+🟩
+
+A warm words that come to the Sales of the Dambulla Economic Center has a heated exchanges today (21).
+
+This has arisen with the implementation of a new traffic plan within the Dambulla Economic Center and introducing a new system of vegetables and fruits.
+
+The Economic Center Trade Union has decided to charge a fine of the trade association with a fines and temporarily cover the shops.
+
+However, the decision to cover up shops temporarily in the morning, the merchants who had come to marken the morning mango were severely tense.
+
+As a result, the police too had to intervene to control the situation.
+
+The vendors in order to marke the mango, they were not a place to marke the malfunction of the stores, as they were in lorries and the ground.
+
+Economic Center Trade of Trade. S. Mr. Siriwardena said that the marketing of mangoes is difficult to buy vegetables as well as vegetables.
+
+He said that this decision was taken due to the marketing system due to the marketing system.
+
+...
+
+[Data](articles/a4428832.json)
+
+[Extended Data](ext_articles/a4428832.ext.json)
+
+---
+
+### புதிய சபாநாயகருக்கு ரவூப் ஹக்கீம் வாழ்த்து
+
+*2024-11-21 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199344) · `ta`
+
+10ஆவது பாராளுமன்றத்தின் புதிய சபாநாயகராக தெரிவு செய்யப்பட்டிருக்கும் நீங்கள் விவாதங்களின்போது ஆளும் எதிர்க்கட்சி உறுப்பினர்கள் அனைவருக்கும்  சமமான வாய்ப்பை வழங்கி அனைத்த உறுப்பினர்களின் உரிமைகளை பாதுகாக்க நடவடிக்கை எடுப்பீர்கள் என நம்புக்கிறோம் என ஐக்கிய மக்கள் சக்தியின் கண்டி மாவட்ட உறுப்பினரும் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவருமான ரவூப் ஹக்கீம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை 10 ஆவது பாராளுமன்றத்தின் புதிய சபாநாயகராக நியமிக்கப்பட்ட கலாநிதி அசோக சபுமல் ரன்வலவுக்கு வாழ்த்து தெரிவித்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மாற்றமிக்க அரசியல் யுகத்தில் அந்த மாற்றத்தை நிலைப்படுத்தி, இதற்கு முன்னர் பாராளுமன்ற உறுப்பினராக இல்லாமல் புதிய சபாநாயகராக தெரிவு செய்யப்பட்டுள்ளீர்கள். இந்த மாற்றத்தை மேற்கொள்ள வாக்களித்த மக்களின் தீர்ப்புக்கு நாங்கள் தலை சாய்க்கிறோம்.
+
+...
+
+[Data](articles/445c6c3c.json)
+
+---
 
 ### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
 
@@ -658,6 +1044,24 @@ We have taken a lesson of failure and setbacks as a lesson. We do not consider t
 
 ---
 
+### மருந்து மோசடி குறித்த விசாரணைகளுக்கு முழுமையாக ஒத்துழைப்பேன் - முன்னாள் சுகாதார அமைச்சர் ரமேஸ் பத்திரண
+
+*2024-11-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199325) · `ta`
+
+சுகாதார அமைச்சில் கடந்த காலங்களில் இடம்பெற்றதாகக் கூறப்படும் மருந்து கொள்வனவு மோசடிகள் தொடர்பில் முன்னெடுக்கப்படும் எந்தவொரு விசாரணைக்கும் முழுமையான ஒத்துழைப்பினை வழங்க நான் தயார் என முன்னாள் சுகாதார அமைச்சர் ரமேஸ் பத்திரண தெரிவித்தார்.
+
+மருந்து மோசடிகள் தொடர்பில் வாக்குமூலமளிப்பதற்காக வியாழக்கிழமை (21) குற்றப்புலனாய்வு திணைக்களத்துக்கு வருகை தந்த போது ஊடகவியலாளர்களின் கேள்விகளுக்கு பதிலளிக்கும் போதே அவர் இதனைத் தெரிவித்தார்.
+
+கடந்த காலங்களில் இடம்பெற்றதாகக் கூறப்படும் மருந்து கொள்வனவு மோசடிகள் தொடர்பில் முன்னெடுக்கப்படும் எந்தவொரு விசாரணைக்கும் முழுமையான ஒத்துழைப்பினை வழங்க நான் தயாராக இருக்கின்றேன். அமைச்சரவை தீர்மானங்கள் வெ வ்வேறு அதிகாரிகளின் ஆலோசனைகளுக்கமைய நிதி அமைச்சின் அங்கீகாரத்துடனேயே எடுக்கப்படுகின்றன.
+
+எனவே இவை தொடர்பில் எடுக்கப்பட்ட தீர்மானங்களில் எமது தரப்பில் பிரச்சினைகள் இல்லை. எவ்வாறிருப்பினும் நீதிமன்றத்தில் இது குறித்த வழக்கு விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதால் அவற்றுக்கு ஒத்துழைப்பதற்கும் நாம் தயாராக இருக்கின்றோம்.
+
+...
+
+[Data](articles/431ecc11.json)
+
+---
+
 ### First phase of third school term ends tomorrow
 
 *2024-11-21 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103671/first-phase-of-third-school-term-ends-tomorrow) · `en`
@@ -841,6 +1245,22 @@ An amateur boxer in his youth, Prescott was a pugnacious politician who memorabl
 [Data](articles/b51514a2.json)
 
 [Extended Data](ext_articles/b51514a2.ext.json)
+
+---
+
+### Full Speech: President Anura Kumara Dissanayake’s Policy Statement
+
+*2024-11-21 14:44:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/full-speech-president-anura-kumara-dissanayakes-policy-statement/) · `en`
+
+The Full Speech Delivered by President Anura Kumara Dissanayake at the Inauguration of the First Session of the Tenth Parliament (21.11.2024)
+
+Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
+
+...
+
+[Data](articles/10836e5c.json)
+
+[Extended Data](ext_articles/10836e5c.ext.json)
 
 ---
 
@@ -1164,6 +1584,38 @@ Fishermen from the Mullaitivu district go to sea and spend their lives with a hu
 
 ---
 
+### Bribery case in US in Sri Lanka
+
+*2024-11-21 13:22:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dylx29gvo) · `si`
+
+Here's a summary of the bribery case in 200 characters:
+
+
+
+US bribery case against Indian businessman Gautam Rajapakse accused of $250M fraud. Charges filed in New York alleging he bribed officials for renewable energy contracts. Case involves $3B loans and bonds.
+
+🟩
+
+Bribery case in US in Sri Lanka
+
+The US has been accused of fraud in America against the Indian militant Gautam Printer, and he has not been able to plan and uncovered US $ 250 million.
+
+Wednesday (Nov. 21) Criminal charges filed in New York, 62-year-old assailants, a richest man in New York, was the latest attack. His business empire is harvested from ports and airports to renewable energy.
+
+Attorneys on the indictment, lawyers have accused the super-rich and other senior senior executives that the Indian officials have agreed to provide more than 20 billion US $ 2 billion to get contracts to his renewable energy company.
+
+Although I asked to respond, the Ahani did not immediately respond.
+
+The US Group has operated from 2023 and announced a report accused by a top company by a top company.. The allegations led to the value of the stock market, refusing Gautam Rajapakse.
+
+...
+
+[Data](articles/8f41031f.json)
+
+[Extended Data](ext_articles/8f41031f.ext.json)
+
+---
+
 ### Sri Lanka likely to sign IMF staff-level agreement on Nov. 23
 
 *2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-dec-23) · `en`
@@ -1204,17 +1656,31 @@ The President acknowledged the delay in the third review, initially scheduled fo
 
 ---
 
-### කුවේටයේ ශ්‍රමිකයන්ට හා විදේශිකයන්ට දැනුම් දීමක්
+### Notice to the workers of Kuwait and foreigners
 
 *2024-11-21 13:14:46* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-ශ්‍රමිකයන්ට-හා-විදේශිකයන්ට-දැනුම්-දීමක්/11-413197) · `si`
 
-කුවේට් රාජ්‍යයේ සේවය කරන ශ්‍රමිකයින්ට හා විදේශකයින්ට සිය ජීවමිතික (Biometric) ඇඟිලි සලකණු ලබා දෙන ලෙස එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් විශේෂ නිවේදනයක් මගින් දැනුම් දී තිබෙන අතර, එලෙස ඇඟිලි සලකුණු ලබා දිය හැකි අවසාන දිනය  2024 දෙසැම්බර් 31 දිනයෙන්  අවසන් වන බව සඳහන් කර තිබේ.
+Here's a summary in 200 characters:
 
-පසුගිය සැප්තැම්බර් මස අවසන් වීමට  නියමිතව තිබූ මෙම දිනය යළි දෙසැම්බර් 31 වෙනිදා දක්වා දීර්ඝ කර තිබේ. කුවේට් රාජ්‍යයේ සේවය කරන සියලුම ශ්‍රී ලාංකික ශ්‍රමිකයින් ඇඟිලි සලකණු එරට අභ්‍යන්තර අමාත්‍යංශය විසින් නිවේදනය කර ඇති ස්ථානවලදී ලබාදෙන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය ඉල්ලා සිටියි.
+
+
+Kuwait Ministry extends fingerprint deadline to Dec 31. Sri Lankan workers can choose online locations like Hawally, Jahra, Ahmadi. Government banks exempt from fingerprinting requirement.
+
+🟩
+
+The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide the fingerprints of the Kuwait state and the fingerprints of their livestock.
+
+The date on which was due to end in September has been extended to December 31 again to December. The Sri Lanka Bureau of Foreign Employment requests the Finger Farmers of the Kuwait's Sri Lankan workers at the Interior Ministry.
+
+Accordingly, the Biometric. It also allows to choose an approximate place to give fingerprints in online mechanism. Accordingly, Hawaali (Hawaally) Farwaniya, Ahmade Mubarak Mubarak Mubarak, Mubarak Al Kabir (JAHRA), is located at the security directors of the security directors.
+
+In addition, people in the Department of Investigation Department can be done in the Department of Investigation for the provision of finger viewers in Ali Saba Al Salim, Umm Al-Nema and Jerro.
 
 ...
 
 [Data](articles/1e058f92.json)
+
+[Extended Data](ext_articles/1e058f92.ext.json)
 
 ---
 
@@ -1329,6 +1795,28 @@ Addressing the public sector’s critical role, President Dissanayake underlined
 [Data](articles/1d5260b4.json)
 
 [Extended Data](ext_articles/1d5260b4.ext.json)
+
+---
+
+### සිංගප්පූරුව හා ලංකාව අතර නව ගුවන් ගමනක්
+
+*2024-11-21 12:53:29* · [`adalk`](https://www.ada.lk/breaking_news/සිංගප්පූරුව-හා-ලංකාව-අතර-නව-ගුවන්-ගමනක්/11-413195) · `si`
+
+ශ්‍රී ලංකාව සහ සිංගප්පූරුව අතර කාල සටහනකට අනුව ධාවනය වන අඩු වියදම් ගුවන් සේවාවක් 11/21 දින උදෑසන සිට ආරම්භ කරමින් ජෙට් ස්ටාර් ගුවන් සේවයේ පළමු ගුවන් යානය කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+ඒ අනුව උදෑසන 10.15 ට සිංගප්පූරුවේ සිට ජෙට් ස්ටාර් ගුවන් සේවයේ 3 කේ 333 දරන ගුවන් යානය කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ගුවන් ගමන සදහා එයාර් බස් ඒ.- 320 වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර , එයින් ගුවන් මගීන් 179 ක් සහ කාර්යය මණ්ඩලය ලෙස 06 දෙනෙකු ද පැමිණ සිටියහ .
+
+ගුවන් යානය ජල ආචාර පවත්වා ගුවන් තොටුපොළ වෙත පිළිගනු ලැබූ අතර ගුවන් තොටුපොළ තුළ දී උඩරට නර්තන ශිල්පීන් පිරිසක් විසින් සිය නර්තන දක්ෂතා දක්වමින් පිළිගැනීමට කටයුතු කර තිබුණි .
+
+ගුවන් යානය සතියකට දින 05 ක් එනම් සදුදා , බදාදා සහ සෙනසුරාදා දින වල රාත්‍රී 10.30 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන මෙම ගුවන් යානා යළි එදින මධ්‍යම රාත්‍රී 11.30 ට සිංගප්පූරුව බලා පිටත්ව යාමට නියමිතය.
+
+එමෙන්ම බ්‍රහස්පතින්දා සහ ඉරිදා දින වල උදෑසන 10.30 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන මෙම ගුවන් යානා යළි එදිනම දහවල් 11.30 ට සිංගප්පූරුව බලා පිටත්ව යාමට නියමිතය.
+
+...
+
+[Data](articles/72deef18.json)
 
 ---
 
@@ -2073,475 +2561,5 @@ As President Anura Kumara Dissanayake visited the Parliament to deliver the poli
 [Data](articles/9dd7cba1.json)
 
 [Extended Data](ext_articles/9dd7cba1.ext.json)
-
----
-
-### President arrives in Parliament
-
-*2024-11-21 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203594) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-President Anura Kumara Dissanayake arrives at Parliament. Speaker to be temporarily suspended. Policy statement to be presented at 11:30 AM. President enters from parking area.
-
-🟩
-
-President Anura Kumara Dissanayake has arrived at the parliamentary complex.
-
-The Speaker is scheduled to be temporarily suspended and presented by President Anura Kumara Dissanayake to the Parliament of the House at 11.30 am and presented the policy statement to the Parliament.
-
-The President is currently coming to the parliamentary coalition from the parking room.
-
-◼️
-
-[Data](articles/8628445d.json)
-
-[Extended Data](ext_articles/8628445d.ext.json)
-
----
-
-### Substandard drugs scandal: Ex-ministers Ramesh, Roshan, Prasanna arrive at CID
-
-*2024-11-21 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103659/substandard-drugs-scandal-ex-ministers-ramesh-roshan-prasanna-arrive-at-cid-) · `en`
-
-Former Ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga have arrived at the Criminal Investigations Department (CID) this morning (21), in order to provide statements pertaining to the alleged importation of substandard human immunoglobulin vials.
-
-Meanwhile, former Minister Harin Fernando has reportedly informed that he will appear before the CID tomorrow (22) to record a statement regarding the matter.
-
-On November 12, the Maligakanda Magistrate’s Court had ordered to record statements from 18 then-Cabinet Ministers pertaining to the alleged importation of substandard human immunoglobulin vials.
-
-...
-
-[Data](articles/32976d3a.json)
-
-[Extended Data](ext_articles/32976d3a.ext.json)
-
----
-
-### Arrested, assaulted in 2018; Sri Lanka Parliament Speaker six years later
-
-*2024-11-21 11:18:00* · [`economynextcom`](https://economynext.com/arrested-assaulted-in-2018-sri-lanka-parliament-speaker-six-years-later-189123/) · `en`
-
-ECONOMYNEXT – Ashoka Ranwala was unanimously elected as the Speaker of the 10th Sri Lanka Parliament after his party, the ruling National People’s Power (NPP) recorded a landslide victory in the parliamentary poll last week.
-
-A chemical engineer by profession with a PhD degree, Ranwala has been in the Marxist Janatha Vimukthi Peramuna (JVP), which is the key coalition partner of the NPP led by President Anura Dissanayake, since his youth.
-
-He has served as the convener of the Trade Union Collective for Conservation of Fuel Resources and led protests against the state-owned Ceylon Petroleum Corporation (CPC) losing its monopoly to state-owned Indian Oil Corporation (IOC) in the past.
-
-He graduated from the University of Moratuwa as a chemical engineer and was employed at the island nation’s only Iran-built CPC’s Sapugaskanda Refinery.
-
-He represented the JVP in the Biyagama local government body once and Western Provincial Council twice as an elected member.
-
-...
-
-[Data](articles/184926c1.json)
-
-[Extended Data](ext_articles/184926c1.ext.json)
-
----
-
-### UAE’s Soho Hospitality to run Above Eleven restaurant at Sri Lanka’s Galadari Hotel
-
-*2024-11-21 11:15:00* · [`economynextcom`](https://economynext.com/uaes-soho-hospitality-to-run-above-eleven-restaurant-at-sri-lankas-galadari-hotel-189073/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Galadari Hotel has entered into an agreement with Dubai UAE restaurant operator Soho Hospitality Corporate Service Provider – FZCO to manage its Above Eleven restaurant, the company said.
-
-Soho Hospitality Corporate Service Provider – FZCO will develop, manage and operate the Above Eleven restaurant at Galadari Hotel, Colombo 1, Galadari said in a stock exchange filing.
-
-The restaurant is expected to open in the latter part of 2025. (Colombo/Nov21/2024)
-
-◼️
-
-[Data](articles/1212b891.json)
-
-[Extended Data](ext_articles/1212b891.ext.json)
-
----
-
-### Special unit to damaged crop damage from Rile People and Animals
-
-*2024-11-21 11:11:38* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්-ඇතුළු-සතුන්ගෙන්-බෝග-වලට-සිදුවන-හානි-පාලයට-විශේෂ-ඒකකයක්/11-413190) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Special unit formed to mitigate crop damage from pests & animals. Focuses on sustainable methods for major crops like coconuts. Chaired by Lalkanatha under Ministry. Aims to combat influential mold threats and implement prompt action programs.
-
-🟩
-
-Special discussion on sustainable measures to control the main crops including coconut fruits. Lalkanatha was chaired by the Ministry.
-
-A special unit was established in the Ministry to take influence of influential animal molds and to prevent damage to the crop damage.
-
-It is also planned to act on a program that is promptly implemented.
-
-◼️
-
-[Data](articles/a03f8683.json)
-
-[Extended Data](ext_articles/a03f8683.ext.json)
-
----
-
-### Imran's colleague was taken to the Pedro Court with strong security
-
-*2024-11-21 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199297) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil youth arrested heroin Point Pedro Court strong security Imran colleague Kanjapan underworld conflict remanded December 4
-
-🟩
-
-A Tamil youth, who is said to be a former colleague of the underworld, Kanjapan, was arrested in a strong security court on Wednesday (20).
-
-The suspect, who was arrested with heroin on May 30, was ordered to be interrogated by the Point Pedro Court on May 31.
-
-The suspect from Vadamarachchi was the former Chairman of the underworld, Kanjapan, who was a former companion of Imran, and that he had partnered with Pukkudi Kanna, who had been involved in the conflict with his opinion, and that Kanjan was attacked by Imran's father and fled in Jaffna in Jaffna.. He told the police during his detainees in the prison.
-
-In addition, the suspect said that his life was in danger behind the western incidents, with the strong security of the Special Task Force and the police on Wednesday.
-
-Subsequently, it was brought under special security, including the Point Pedro Court Complex.. Also, all those who went into the court premises were allowed to undergo physical examination.
-
-...
-
-[Data](articles/08def2fa.json)
-
-[Extended Data](ext_articles/08def2fa.ext.json)
-
----
-
-### “Support for Good”
-
-*2024-11-21 11:09:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லதற்கு-ஆதரவு/175-347545) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Opposition leader Sajith Premadasa addresses public concerns, vows to expose government shortcomings and implement people's mandate. He emphasizes unity, party growth, and prioritizing public wishes.
-
-🟩
-
-Understanding the sentiments of the people, we will take steps to solve the country's problems progressing the aspirations of the people. We will support our support for the implementation of the people's mandate to the government. Opposition leader Sajith Premadasa said that if there are any shortcomings in the government, it will be pointed out.
-
-Responding to questions raised by journalists at the United People's Power Headquarters on Thursday (21), Opposition Leader Sajith Premadasa said this.
-
-In the short term, we will find the places where wrongdoing. According to the conscience, the party, which started at 2020 in Peparavar, will go further forward. Sajith Premadasa added that the new journey will continue to save unity.
-
-...
-
-[Data](articles/f031c489.json)
-
-[Extended Data](ext_articles/f031c489.ext.json)
-
----
-
-### Four reasons for winning the climate coalition while Trump is present
-
-*2024-11-21 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199298) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Climate coalition victory reasons despite Trump: US carbon emissions high; China leads renewable energy; American businesses support climate action; Democrats focus on people's needs; US election results distract from global issues.
-
-🟩
-
-Statistics are very clear: up to now, US carbon dioxide is more than 8 times more than China, 25 times more than India, with small islands and growing countries or more than compared to Africa.
-
-Therefore, the US must hand over the responsibility of protecting the widespread earth and protecting the victims of climate change.
-
-Ajarbaijan's Baghu has assembled for the United Nations Climate Conference talks this week as the warmer situation has been predicted from 1200 years.. It is special that the world participates in this.
-
-The international meeting is being held a week after the flood disaster in Spain, one of the most developed states in the world, in Spain.
-
-Amazon and California, Greece and Turkey have been affected by wildfire in the past years. Floods in Pakistan and China have caused great damage.
-
-52 degrees Celsius in North India last summer. There were very few people there to have access to refrigerators.
-
-...
-
-[Data](articles/247949b7.json)
-
-[Extended Data](ext_articles/247949b7.ext.json)
-
----
-
-### Parliament. Adjourn until 11.30
-
-*2024-11-21 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-පෙ-ව--11-30-තෙක්-කල්-තැබෙයි/11-413189) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Parliament adjourned until 11:30 AM. Member delayed official start of session until later time.
-
-🟩
-
-He was procrastinated to procrastinate the Parliament to officially launch the Parliamentary Session until 11.30 am.
-
-◼️
-
-[Data](articles/4862d290.json)
-
-[Extended Data](ext_articles/4862d290.ext.json)
-
----
-
-### 10 people arrested with large numbers of drugs in Matara
-
-*2024-11-21 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199289) · `ta`
-
-10 arrests made in Matara drug bust: 160kg ice, 60kg heroin seized. Further investigation ongoing.
-
-🟩
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Dalduwa said that 10 suspects have been arrested with ice drugs and heroin in Matara, Matara.
-
-The suspects have been arrested during a raid carried out by the Matara Police Criminal Investigation Division.
-
-The police have seized 160 kg of ice and 60 kg of heroin from the suspects.
-
-He added that further investigations are being carried out by the Matara Police Criminal Investigation Division.
-
-◼️
-
-[Data](articles/5632973f.json)
-
-[Extended Data](ext_articles/5632973f.ext.json)
-
----
-
-### Speaker of Parliament Dr. Asoka in gold in gold
-
-*2024-11-21 10:48:49* · [`adalk`](https://www.ada.lk/breaking_news/10-වැනි-පාර්ලිමේන්තුවේ-කථානායක-ආචාර්ය-අශෝක-රන්වල/11-413188) · `si`
-
-Dr. Asoka Ranwala elected Speaker of New Parliament. Proposed by PM Dr. Weli Amarasuriya. Received support from Gampaha district MPs. MP Mohamed Risvi Sally appointed Deputy Speaker. Health Minister Dr. Nalinda Jayatissa named Saroja Savitri Paulraj. MP Hemali Weerasekera chairs Deputy Committee.
-
-🟩
-
-Member of Parliament Dr. Asoka Ranwala was elected as the Speaker of the New Parliament.
-
-Prime Minister Dr. Weli Amarasuriya was proposed by Ashoka Ranwala, Minister Vijitha Herath.
-
-Mr. Asoka Ranwala received parliamentarians from the Gampaha District at the Gampaha District at the 2024 general election.
-
-MP Mohamed Risvi Sally was appointed as the Deputy Speaker.
-
-Health and Mass Media Media Dr. Nalinda Jayatissa proceeded to make his name by Saroja Saroja Saroja Savitri Paulraj.
-
-MP Hemali Weerasekera was appointed as the Chairman of the Deputy Committee.
-
-◼️
-
-[Data](articles/bb9d84d4.json)
-
-[Extended Data](ext_articles/bb9d84d4.ext.json)
-
----
-
-### Parliament was temporarily adjourned
-
-*2024-11-21 10:46:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-தற்காலிகமாக-ஒத்திவைக்கப்பட்டது/175-347542) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Parliament temporarily adjourned for president's policy speech after main choices in 10th parliament session.
-
-🟩
-
-After the main choices in the tenth parliament, the Parliament has been temporarily adjourned for an hour for the president's policy speech.
-
-◼️
-
-[Data](articles/f064cadc.json)
-
-[Extended Data](ext_articles/f064cadc.ext.json)
-
----
-
-### Deputy Chairman of Parliamentary Committees
-
-*2024-11-21 10:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-குழுக்களின்-பிரதித்-தவிசாளர்-தெரிவு/175-347541) · `ta`
-
-Here's a summary of "Deputy Chairman of Parliamentary Committees" in approximately 200 characters:
-
-
-
-The Deputy Chairman assists the Chairperson in managing parliamentary sessions. They oversee committee work, preside when needed, and help maintain order during debates. This role supports legislative processes and ensures smooth committee operations.
-
-🟩
-
-◼️
-
-[Data](articles/b7f22d0f.json)
-
-[Extended Data](ext_articles/b7f22d0f.ext.json)
-
----
-
-### Sajith Premadasa named Opposition Leader of 10th Parliament
-
-*2024-11-21 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103658/sajith-premadasa-named-opposition-leader-of-10th-parliament) · `en`
-
-The Speaker of Parliament Asoka Ranwala announced today (21) that President Anura Kumara Dissanayke has officially recognised Samagi Jana Balawegaya (SJB) MP Sajith Premadasa as the Leader of the Opposition.
-
-The announcement was made during the inaugural session of the 10th Parliament, where the Speaker conveyed the President’s communications to the House.
-
-Following this announcement, proceedings were adjourned until 11:30 a.m., when the President is scheduled to deliver the government’s policy statement to the Parliament.
-
-◼️
-
-[Data](articles/35898f13.json)
-
-[Extended Data](ext_articles/35898f13.ext.json)
-
----
-
-### MP Rizvie Salih elected Deputy Speaker of Parliament
-
-*2024-11-21 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103657/mp-rizvie-salih-elected-deputy-speaker-of-parliament) · `en`
-
-The National People’s Power (NPP) Colombo District Member of Parliament, Dr. Rizvie Salih has been unanimously elected as the new Deputy Speaker of Parliament.
-
-He was nominated by Minister of Health and Media Nalinda Jayatissa, while the proposal was seconded by Minister of Women and Child Affairs Saroja Paulraj.
-
-Dr. Rizvie Salih, who contested the 2024 General Election from the Colombo District representing the NPP, secured the 12th highest votes in the district having polled 73,018 preference votes.
-
-Meanwhile, Gampaha District NPP MP Hemali Weeraseekara was elected as the Deputy Chairperson of Committees.
-
-Weeraseekara secured her seat in the Parliament as she polled 66,737 votes in the Gampaha District in the 2024 General Election.
-
-The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
-
-...
-
-[Data](articles/53439f2b.json)
-
-[Extended Data](ext_articles/53439f2b.ext.json)
-
----
-
-### Hemali Weerasekera appointed Deputy Chairman of Parliamentary Committees
-
-*2024-11-21 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199295) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Hemali Weerasekera named Deputy Chairman of Parliamentary Committees. This appointment underscores her growing influence in Sri Lankan politics."
-
-🟩
-
-◼️
-
-[Data](articles/b2510870.json)
-
-[Extended Data](ext_articles/b2510870.ext.json)
-
----
-
-### Muhammad Rizvi Sally as Deputy Speaker
-
-*2024-11-21 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதி-சபாநாயகராக-முஹம்மத்-ரிஸ்வி-சாலி/175-347538) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Muhammad Rizvi Sally elected Deputy Speaker Tenth Parliament. Minister Nalinda Jayadissa proposed nomination.
-
-🟩
-
-Mohamed Rizvi Sally has been elected as the Deputy Speaker of the Tenth Parliament.
-
-Minister Nalinda Jayadissa proposed his name and proposed it.
-
-◼️
-
-[Data](articles/af908586.json)
-
-[Extended Data](ext_articles/af908586.ext.json)
-
----
-
-### Opposition Leader Sajith
-
-*2024-11-21 10:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவர்-சஜித்/175-347537) · `ta`
-
-Sajith Premadasa named Opposition Leader in Sri Lanka's 10th Parliament. Speaker Dr. Asoka Ranwala made announcement in House.
-
-🟩
-
-Speaker Dr. Asoka Ranwala announced in the House that Sajith Premadasa has been appointed as the Opposition Leader of the Tenth Parliament.
-
-◼️
-
-[Data](articles/774f355a.json)
-
-[Extended Data](ext_articles/774f355a.ext.json)
-
----
-
-### Ramesh - Roshan - Pleasant CID comes under this - Harin is not going today
-
-*2024-11-21 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203592) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Former ministers visit CID; Harin summoned tomorrow; 18 ministers questioned about vaccine purchases; investigations ongoing regarding cabinet approvals and drug shortages.
-
-🟩
-
-Former ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga arrived at the CID this morning.
-
-Former Health Minister Keheliya Rambukwella has approved the cabinet paper, which has been approved by former Health Minister Keheliya Rambukwella.
-
-Former minister Harin Fernando has been told by the CID tomorrow (22).
-
-The Criminal Investigations Department (CID) was informed of 18 ministers who were speaking to the Cabinet of Minister Keheliya Rambukwella to purchase standard antibody injections.
-
-The Deputy Solicitor General Lakhahagama said that 182 other members of the Cabinet of Health Cabinet has been submitted to the Cabinet of Health on September 26, 202 to the Cabinet of Health Cabinet.
-
-The Deputy Solicitor General of the Government Solicitor General of the Government Solicitor General that the cabinet should not be actually any of the drug deficit, regardless of the drug shortages.
-
-...
-
-[Data](articles/51f8e004.json)
-
-[Extended Data](ext_articles/51f8e004.ext.json)
-
----
-
-### New Members of Parliament sworn-in
-
-*2024-11-21 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103656/new-members-of-parliament-sworn-in) · `en`
-
-The newly elected Members of Parliament were sworn in following the election of the Speaker during the inaugural session of the new Parliament this morning.
-
-The MPs of the tenth Parliament took oath before the new Speaker Asoka Ranwala in the chambers.
-
-The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
-
-After the General Secretary of the Parliament Mrs. Kushani Rohanadheera read the gazette notification issued by the President with regard to the inaugural session of the 10th Parliament, National People’s Power (NPP) Gampaha District MP Asoka Sapumal Ranwala was unanimously elected as the new Speaker of Parliament.
-
-◼️
-
-[Data](articles/5d8f850a.json)
-
-[Extended Data](ext_articles/5d8f850a.ext.json)
 
 ---

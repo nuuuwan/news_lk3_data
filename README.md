@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 00:28:03**
+As of **2024-11-23 00:16:20**
 
 ## Newspaper Stats
 
-*Scraped **56,395** Articles*
+*Scraped **56,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 586
 islandlk | 3,367
 economynextcom | 3,427
-dailyftlk | 3,864
+dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
@@ -26,55 +26,11 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,392 (100.0%) of 56,395 articles have been extended.
+56,392 (100.0%) of 56,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
-
-### No Muslim in Cabinet: Does that matter?
-
-*2024-11-22 23:34:56* · [`dailyftlk`](https://www.ft.lk/columns/No-Muslim-in-Cabinet-Does-that-matter/4-769567) · `en`
-
-In this new era should the absence of a Muslim or Tamil in the Cabinet matter at all?
-
-Yet, one or two Muslim ministers in the Cabinet carries economic value in the international arena. When the Sirimavo Government in the 1970s faced a foreign exchange crisis the Muslim minister Badi was sent to the Middle East to canvas for more foreign aid from the Arab world and he succeeded to a certain extent. Similarly, when JR’s open economy faced an oil crisis his Muslim Foreign Minister Hameed was dispatched to Libya and Ghaddafi did not send his visitor empty handed. Thus, given the seriousness of the economic challenges facing the NPP Government, at least one talented Muslim minister in the Cabinet would be an invaluable asset to tackle them. Let common sense prevail and the damage caused rectified by the President
-
-...
-
-[Data](articles/8c3048d5.json)
-
----
-
-### A Tamil’s take on  Sri Lanka’s historic 2024 Parliamentary elections
-
-*2024-11-22 23:32:44* · [`dailyftlk`](https://www.ft.lk/columns/A-Tamil-s-take-on-Sri-Lanka-s-historic-2024-Parliamentary-elections/4-769566) · `en`
-
-The 2024 Parliamentary elections symbolise a pivotal moment of transition for Sri Lanka – Pic by Shehan Gunasekara
-
-I have always been deeply interested in Sri Lanka’s socio-political landscape and its complex history for three main reasons. First, as an ethnic Tamil minority who endured the brutalities of war during childhood, this subject holds personal significance. Second, my father, the late Sundaram Divakalala—a renowned Tamil civil servant—dedicated his life to public service, inspiring my interest in governance and justice. Finally, my professional experience at CMG Capital Maharaja Group, Sri Lanka’s largest private conglomerate and media powerhouse, under the leadership of its late Chairman, Late Kili Rajamahendran, further deepened my understanding of the nation’s challenges and potential.
-
-...
-
-[Data](articles/04955121.json)
-
----
-
-### To include or not to include a Muslim Minister
-
-*2024-11-22 23:30:05* · [`dailyftlk`](https://www.ft.lk/opinion/To-include-or-not-to-include-a-Muslim-Minister/14-769565) · `en`
-
-The absence of a Muslim member among the 21 members that comprise the Cabinet remains unanswerable
-
-The recently elected NPP Government appointed its Cabinet of Ministers this Monday, 21 November. A large proportion of the members are new faces but appear an intelligent and able lot. A notable feature is the absence of a Muslim Minister. The active roles played by the Muslim community at large both at the Presidential as well as the General election in favour of the NPP was duly acknowledged and accepted by the NPP and the President. While anxiety must be pouring through and amongst almost all the new faces in the Parliament, a feeling of anger is pouring through among the Muslim community. Both feelings are quite natural.
-
-The absence of a Muslim member among the 21 members that comprise the Cabinet remains
-
-...
-
-[Data](articles/e6f4e2d5.json)
-
----
 
 ### A 14 -year -old student in Ponnalai makes a bad decision
 
@@ -2571,5 +2527,91 @@ However, the former Minister of former Minister of Parliament was not appearing 
 [Data](articles/b3b0a3b2.json)
 
 [Extended Data](ext_articles/b3b0a3b2.ext.json)
+
+---
+
+### The budget party attempts to join opposition MPs
+
+*2024-11-22 09:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-எம்-பிக்களை-இணைத்துக்கொள்ள-மொட்டு-கட்சி-முயற்சி/175-347612) · `ta`
+
+Sri Lanka PA budget party joins opposition MPs, forcing 3 to leave. Discussions underway to re-link separators and include opposition representatives.
+
+🟩
+
+It is reported that discussions will be launched to represent the Sri Lanka PA and then re -linking the separators.
+
+Accordingly, the three MPs who are currently elected to Parliament from the Sri Lanka PA have been forced to quit the party and discuss the acting of parliamentary members from other parties.
+
+It has also been reported that the party is focusing on the inclusion of MPs representing the opposition.An
+
+◼️
+
+[Data](articles/31d2ab0c.json)
+
+[Extended Data](ext_articles/31d2ab0c.ext.json)
+
+---
+
+### IPL set for three stages
+
+*2024-11-22 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203618) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+IPL 2025: 3 stages, Mar 14-May 25. 2026: Mar 15-May end. 2027: Mar 14-May 30. Matches increased from 74 to 94 in 2027.
+
+🟩
+
+The most attractive Franchisis League, the world's most exciting Frances, the Indian Premier League cricket tournament has been announced, including the 2025 tournamental periods.
+
+This is the first time IPL has been made public for a period of three stages.
+
+Accordingly, the stage of the coming phase will commence on March 14, and its final will be held on May 25.
+
+The 2026 tournament will commence on March 15 and the 2027 Competition has decided to hold the 2027 Competition from 14 March to May 30.
+
+However, the number of the two-stage competitions has been increased over this year.
+
+Accordingly, 2025 and 2026 have increased to 84 competitions.
+
+In 2027, the number increased to 94 mats.
+
+However, this year was 74 matches.
+
+◼️
+
+[Data](articles/c30d87e3.json)
+
+[Extended Data](ext_articles/c30d87e3.ext.json)
+
+---
+
+### International Court of Justice
+
+*2024-11-22 09:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நெதன்யாகுவுக்கு-எதிராக-பிடியாணை-பிறப்பித்த-சர்வதேச-நீதிமன்றம்/50-347610) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+ICC issues war crimes order vs Netanyahu over Israel-Hamas conflict. Over 1300 deaths, hostages taken. ICC rejects Israel's explanations. Former Defense Minister Yo Galant also targeted.
+
+🟩
+
+The International Criminal Court yesterday issued a war order against Israeli Prime Minister Benjamin Netanyahu.
+
+On October 7, 2023, Israel Hamas launched a missile attack. More than 1300 people died in this. In addition, some of the Israeli, including the Israeli, were taken as hostage. Israel has been severely retaliated with Gaza, as only a few people have been released on hostage. Attack on Gaza stretches on Hamas support systems. Hizbullahs in Lebanon are being attacked by Iran -backed cleric forces in Syria. 44,000 people, including women and children in Gaza alone. Lebanon has crossed 3,500.
+
+In this backdrop, the International Criminal Court yesterday issued an order against Israeli Prime Minister Benjamin Netanyahu.
+
+War complaints against Israel have been filed in the Criminal Court. It is in this case that Israeli Prime Minister Benjamin Netanyahu has been ordered to arrest the International Criminal Court.
+
+...
+
+[Data](articles/6614d846.json)
+
+[Extended Data](ext_articles/6614d846.ext.json)
 
 ---

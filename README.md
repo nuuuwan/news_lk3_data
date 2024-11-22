@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 05:25:51**
+As of **2024-11-22 05:50:43**
 
 ## Newspaper Stats
 
-*Scraped **56,250** Articles*
+*Scraped **56,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 434
 colombotelegraphcom | 575
 bbccomsinhala | 584
-islandlk | 3,357
+islandlk | 3,367
 economynextcom | 3,413
 dailyftlk | 3,859
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,250 (100.0%) of 56,250 articles have been extended.
+56,250 (100.0%) of 56,260 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -262,6 +262,46 @@ At the same time, it is also decided at this meeting that a documentary is being
 
 ---
 
+### SriLankan Airlines wins prestigious 2025 APEX Best Entertainment Award in Central/Southern Asia
+
+*2024-11-22 02:18:00* · [`islandlk`](http://island.lk/srilankan-airlines-wins-prestigious-2025-apex-best-entertainment-award-in-central-southern-asia/) · `en`
+
+SriLankan Airlines has won the prestigious 2025 APEX Best Entertainment Award in Central/Southern Asia at the FTE APEX Asia Expo, held on 20 November 2024 in Singapore. The APEX Awards are entirely based on certified passenger feedback, with over a million flights across 600 airlines rated on experience metrics such as seat comfort, cabin service, entertainment, and meals for the 2025 awards. SriLankan Airlines additionally retained its status as a ‘Four Star Major Airline’ in the 2025 APEX Official Airline Ratings™ for the eighth consecutive year.
+
+...
+
+[Data](articles/14316988.json)
+
+---
+
+### AIA Sri Lanka sweeps three awards at International Business Magazine Awards 2024
+
+*2024-11-22 02:18:00* · [`islandlk`](http://island.lk/aia-sri-lanka-sweeps-three-awards-at-international-business-magazine-awards-2024/) · `en`
+
+AIA Sri Lanka, Sri Lanka’s most loved insurer in the corporate brands category, is proud to announce a remarkable achievement, having secured three esteemed awards in recognition of its commitment to customer wellbeing and social responsibility. These accolades solidify AIA’s position as a frontrunner in the Sri Lankan insurance industry, constantly innovating to provide exceptional products and services while positively impacting the lives of Sri Lankans.
+
+Best Insurance Campaign 2024 for the AIA Health Passport Launch: This innovative campaign garnered recognition for its effectiveness in promoting the AIA Health Passport, a comprehensive health insurance cover that empowers individuals to prioritize their health.
+
+...
+
+[Data](articles/265b504d.json)
+
+---
+
+### UN Global Compact Network Sri Lanka and UNDP Sri Lanka support corporates towards decarbonisation efforts
+
+*2024-11-22 02:14:00* · [`islandlk`](http://island.lk/un-global-compact-network-sri-lanka-and-undp-sri-lanka-support-corporates-towards-decarbonisation-efforts/) · `en`
+
+United Nations Global Compact Network Sri Lanka in collaboration with the United Nations Development Programme (UNDP) Sri Lanka hosted a progressive preliminary workshop, on the Science-Based Targets initiative (SBTi) recently with the exclusive attendance of 48 participating companies from Network Sri Lanka.
+
+Senior representatives from UN Global Compact Network Sri Lanka’s participant companies, specializing in corporate sustainability and environmental engineering, attended the workshop. Dr. Buddika Hapuarachchi, Team Lead of the Climate and Environment Team at UNDP Sri Lanka, opened the session.
+
+...
+
+[Data](articles/348840be.json)
+
+---
+
 ### Brand AKD defies marketing theory to win
 
 *2024-11-22 01:55:49* · [`dailyftlk`](https://www.ft.lk/columns/Brand-AKD-defies-marketing-theory-to-win/4-769529) · `en`
@@ -303,6 +343,48 @@ Also, Archana MP was in the House and lived on his cell phone and filmed the swe
 [Data](articles/d2e289c3.json)
 
 [Extended Data](ext_articles/d2e289c3.ext.json)
+
+---
+
+### Assetline Finance offers best-in-town financing for brand-new BAIC X55
+
+*2024-11-22 01:44:00* · [`islandlk`](http://island.lk/assetline-finance-offers-best-in-town-financing-for-brand-new-baic-x55/) · `en`
+
+Assetline Finance Limited, a leading financial services provider, is excited to offer flexible and customized financing solutions for Sri Lankan customers interested in purchasing the newly launched BAIC X55. The financing options are designed to make vehicle ownership seamless, with competitive interest rates and flexible repayment plans customized to suit the financial needs of each customer.
+
+The BAIC X55, introduced and marketed in Sri Lanka by David Pieris Automobiles (Pvt) Ltd a Company within the David Pieris Group of Companies, marks a significant step in local value addition. The vehicle is designed to offer advanced technology, exceptional comfort, and superior performance, promising to elevate the driving experience for discerning Sri Lankan motorists.
+
+...
+
+[Data](articles/68751051.json)
+
+---
+
+### Hemsons International unveils a bold new brand identity
+
+*2024-11-22 01:44:00* · [`islandlk`](http://island.lk/hemsons-international-unveils-a-bold-new-brand-identity/) · `en`
+
+Hemsons International is announces the launch of its newly refreshed brand identity. This significant change represents the company’s evolution and continued commitment to innovation, reliability, and excellence. The updated branding reflects a strategic shift to position Hemsons for future growth and adaptation in a fast-paced, ever-changing industry.
+
+With a history spanning 75 years,Hemsons has always been at the forefront of delivering high-quality laboratory & medical solutions. The rebrand underscores the company’s dedication to leading the market while staying true to the core values that have guided it through decades of success.
+
+“Our new brand identity is a reflection of our forward-thinking approach,” said Amir Esufally, Managing Director. “While our look is changing, our commitment to quality, reliability, and exceptional service remains steadfast. This evolution is about embracing progress and meeting our customers’ needs more effectively than ever.”
+
+...
+
+[Data](articles/6f25c632.json)
+
+---
+
+### HUTCH conducts coastal clean-up in celebration of World Sustainability Day
+
+*2024-11-22 01:44:00* · [`islandlk`](http://island.lk/hutch-conducts-coastal-clean-up-in-celebration-of-world-sustainability-day/) · `en`
+
+Hutch actively supports sustainable practices and is dedicated to protecting Sri Lanka’s natural eco system. This commitment was demonstrated through its recent Coastal Clean-Up 2024 at Wellawatte Beach, held in recognition of World Sustainability Day. The initiative, which took place on 19th of October 2024 at Wellawatte Beach, saw dedicated participation from HUTCH employees, embodying the company’s long-term vision of promoting sustainable practices and protecting the environment. The initiative is part of a series of broader initiatives aimed at driving environmental awareness and encouraging community engagement, while addressing key sustainability challenges facing Sri Lanka.
+
+...
+
+[Data](articles/8391ba0b.json)
 
 ---
 
@@ -2307,153 +2389,5 @@ The Democratic Front will be held at the discussion on the above discussion on t
 [Data](articles/70695ea4.json)
 
 [Extended Data](ext_articles/70695ea4.ext.json)
-
----
-
-### Former UK Deputy Prime Minister John Prescott dies at age 86
-
-*2024-11-21 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103668/former-uk-deputy-prime-minister-john-prescott-dies-at-age-86) · `en`
-
-British politician John Prescott, a former merchant seaman who rose to the post of deputy prime minister, has died at age 86.
-
-Prescott’s family announced his death on Thursday. They said the politician, who had been suffering from Alzheimer’s disease, died peacefully in a care home on Wednesday with his loved ones around him.
-
-The family said Prescott had “spent his life trying to improve the lives of others, fighting for social justice and protecting the environment.”
-
-For a decade, Prescott brought grit, humor and working-class authenticity to the government of the young, polished Tony Blair, who became prime minister in 1997.
-
-“He was one of the most talented people I ever encountered in politics, one of the most committed and loyal, and definitely the most unusual,” Blair said.
-
-An amateur boxer in his youth, Prescott was a pugnacious politician who memorably punched a man who threw an egg at him during the 2001 general election.
-
-...
-
-[Data](articles/b51514a2.json)
-
-[Extended Data](ext_articles/b51514a2.ext.json)
-
----
-
-### Full Speech: President Anura Kumara Dissanayake’s Policy Statement
-
-*2024-11-21 14:44:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/full-speech-president-anura-kumara-dissanayakes-policy-statement/) · `en`
-
-The Full Speech Delivered by President Anura Kumara Dissanayake at the Inauguration of the First Session of the Tenth Parliament (21.11.2024)
-
-Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
-
-...
-
-[Data](articles/10836e5c.json)
-
-[Extended Data](ext_articles/10836e5c.ext.json)
-
----
-
-### Rahman - Saira Division and Mohini Dev are not involved
-
-*2024-11-21 14:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ரஹ்மான்-சாய்ரா-பிரிவுக்கும்-மோஹினி-தேவுக்கும்-தொடர்பு-இல்லை/54-347563) · `ta`
-
-AR Rahman divorces Saira Banu after 29 years; Mohini De separates from husband
-
-🟩
-
-Composer AR Rahman - Saira Banu has answered their 29 -year wedding life by divorce. The announcement was made last Tuesday.
-
-In the meantime, AR Rahman's band of the famous Base Guitarist Mohini De December her husband Mark Hartsuch. This was published on the social network by contacting AR Rahman's divorce. In this context, Saira lawyer Vandana Shah has explained this to the private media company.
-
-“There is no connection to this and it. Rahman and Saira, who took their divorce decision self. The decision taken by the thought of deeply. It is not mild. This is a mutual divorce. So no decision on financial sharing has yet been reached, ”said lawyer Vandana.
-
-Music composer AR Rahman made his debut as composer by Mani Ratnam's 1992 film 'Roja'. He is celebrated as Oscar Man and composes music in various languages ​​such as Tamil, Telugu, Hindi and English.
-
-...
-
-[Data](articles/bd17f496.json)
-
-[Extended Data](ext_articles/bd17f496.ext.json)
-
----
-
-### Sri Lanka to expand SME according to state plan: President
-
-*2024-11-21 14:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-sme-according-to-state-plan-president-189244/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s small and medium enterprises will be expanded according to the requirement of a plan developed by the state, President Anura Dissanayake said.
-
-There were some indigenous and native product in Sri Lanka which had to be further developed and taken outside.
-
-“The small and medium enterprises is not a sector that works according to its own wants and according to its own decisions,” President Dissanayake said delivering a statement to the parliament.
-
-“We have to gain a new expansion of the SME sector according to the wants of the State, the requirement of the government. We have made the plans.”
-
-There were greater details in the NPP manifesto and the newly appointed ministers are studying the areas under their purview, he said. (Colombo/Nov21/2024)
-
-◼️
-
-[Data](articles/3ae30208.json)
-
-[Extended Data](ext_articles/3ae30208.ext.json)
-
----
-
-### Ashoka Rangwella selected as the new Speaker
-
-*2024-11-21 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199292) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National People's Power MP Asoka Rangwella unanimously chosen as new Speaker. Congratulated by Sajith Premadasa & Rauf Hakeem. Promises to defend Parliament's honor, unity beyond politics.
-
-🟩
-
-The National People's Power Member Asoka Rangwella has been unanimously appointed as the new Speaker.
-
-As the virgin session of the first session of the tenth parliament commenced, the Secretary General of Parliament announced the gazette notification made by the President in the Tenth Parliament session.
-
-In this case, the National People's Power Member Asoka Rangwala was appointed as the Speaker of the House.
-
-Following this, United People's Power President Sajith Premadasa congratulated the new Speaker.
-
-Later, Sri Lanka Muslim Congress President Rauf Hakeem congratulated the new Speaker.
-
-Welcome to a newly elected member of Parliament as Speaker. He said, "I bow down to the people."
-
-Speaker Ashoka Rangwella, the honor of the Parliament, will defend the honor and independence of Parliament. I will protect the rights of all members. He said that all beyond politics should unite and fulfill the aspirations of the people.
-
-◼️
-
-[Data](articles/b8abcefa.json)
-
-[Extended Data](ext_articles/b8abcefa.ext.json)
-
----
-
-### Barrowed the rice problem without cancellation of Gota's gazette
-
-*2024-11-21 14:23:27* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-ගැසට්-අවලංගු-නොකර-සහල්-ගැටලුව-ලිහන්න-බැරිලු/11-413201) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rice shortage due to government gazette without cancellation. Exporting rice not solution. President urged to set new rice prices based on past Yala season data. Imported rice arrival in November 2021 led to price increase. Local rice production from Polonnaruwa, Dambulla, Marandagahamula sent to market. Requested government intervention, not private sector involvement. Imported rice should go to supermarkets or cooperatives, not large mills. Gotabhaya Rajapaksa cautioned against favoring rice businessmen.
-
-🟩
-
-A shortage of rice in the market is due to the current government implementing the gazette notifications without cancellation of Gotabhaya Rajapaksa, the current government is due to the current government.
-
-Perera said that the export of rice is not an answer to the exporting of rice out of rice, abolishing rice, for two and a half years before the shortage of rice in the market..
-
-President of the United Kingdom Manufacturers Association (UN)
-
-"The president has a price from the past Yala season and requests the president to enact new rice prices based on prices. If that happens, the shortage of rice and prices will be reduced. It is myth if the rice can control the price of rice, control the shortage of rice, which can control the rice deficit.
-
-...
-
-[Data](articles/04cef149.json)
-
-[Extended Data](ext_articles/04cef149.ext.json)
 
 ---

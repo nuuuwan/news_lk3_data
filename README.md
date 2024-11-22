@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 14:42:08**
+As of **2024-11-22 15:00:59**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 9,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,320 (100.0%) of 56,322 articles have been extended.
+56,322 (100.0%) of 56,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### ජාත්‍යන්තර වෙ‍ළෙඳ නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ කොමිසමට ශ්‍රී ලංකාව තේරී පත්වෙයි
+### Sri Lanka is elected to the United Nations Commission on international trade law
 
 *2024-11-22 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203625) · `si`
 
-ජාත්‍යන්තර වෙළෙඳ නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ කොමිසමට තෝරා පත් කරගනු ලැබූ සාමාජිකයින් 31දෙනා අතරට ශ්‍රී ලංකාවද තොරා පත්කරගෙන තිබේ.
+Sri Lanka elected UN Commission on International Trade Law. Won 177 votes, second highest in Asia Pacific group. Will serve 6 years starting Jan 2025. Established 1966, focuses on removing trade barriers and developing international trade law.
 
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලය විසින් 2024 නොවැම්බර් 20 වනදා මෙම තෝරා පත්කර ගෙන තිබුණි.
+🟩
 
-ආසියා පැසිෆික් කණ්ඩායමෙන් ආසනයක් සඳහා තරඟ කළ ශ්‍රී ලංකාව, ඡන්ද 177ක් ලබාගැනීමට සමත් විය.
+Sri Lanka has been appointed to the 31 members elected to the United Nations Commission on International Trade Law.
 
-මෙම ඡන්ද සංඛ්‍යාව, කණ්ඩායම තුළ දෙවැනි වැඩිම ඡන්ද සංඛ්‍යාව වූ අතර තේරී පත්වූ සාමාජිකයන් 31 දෙනා අතරින් සමස්තයක් ලෙස දෙවැනි වැඩිම ඡන්ද සංඛ්‍යාව විය.
+The United Nations General Assembly had been elected on November 20, 2024.
 
-ජාත්‍යන්තර වෙ‍ළෙඳ නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ කොමිසමට ආසියා පැසිෆික් සමූහයෙන් තේරී පත්වූ අනෙකුත් සාමාජික රටවල් වන්නේ මැලේසියාව, පිලිපීනය, සිංගප්පූරුව, වියට්නාමය, චීනය, ජපානය සහ කොරියානු ජනරජයයි.
+Sri Lanka, who contested for a seat from the Asia Pacific, won 177 votes.
 
-ශ්‍රී ලංකාව 2025 ජනවාරි මාසයේ සිට වසර හයක කාලයක් මෙහි සේවය කරනු ඇත.
+The number of votes was the second highest number of votes in the group and the 31st votes were the second highest number of votes.
 
-1966 වසරේදී පිහිටුවන ලද සහ වියානා අගනුවර මූලස්ථානය පිහිටා ඇති ජාත්‍යන්තර වෙ‍ළෙඳ නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ කොමිසම, ජාත්‍යන්තර වෙළෙඳ ක්ෂේත්‍රයේ මූලික නීතිමය ආයතනය වෙයි.
+The United Nations Commission on International Trade Law is the other member countries of the Asia Pacific, the Philippines, Singapore, Vietnapore, China, China, Japan and Korea.
 
-වෙ‍ළෙඳාමට ඇති බාධා ඉවත් කිරීම සහ වෙ‍ළෙඳ නීති සුසංගත කිරීම මෙම කොමිසමේ විෂය පථයට ඇතුළත් ය.
+Sri Lanka will serve six years from January 2025.
+
+Established in 1966 and the United Nations Commission on International Trade Law is the basic legal company in the international trade industry.
+
+Removal of obstacles and trade laws is included in the scope of the Commission.
 
 ◼️
 
 [Data](articles/88fb033e.json)
+
+[Extended Data](ext_articles/88fb033e.ext.json)
 
 ---
 
@@ -143,6 +149,8 @@ On November 12, the Maligakanda Magistrate’s Court had ordered to record state
 ...
 
 [Data](articles/6f5ca7e3.json)
+
+[Extended Data](ext_articles/6f5ca7e3.ext.json)
 
 ---
 

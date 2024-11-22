@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 23:26:51**
+As of **2024-11-23 00:02:40**
 
 ## Newspaper Stats
 
-*Scraped **56,386** Articles*
+*Scraped **56,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 435
 colombotelegraphcom | 575
 bbccomsinhala | 586
 islandlk | 3,367
-economynextcom | 3,421
+economynextcom | 3,427
 dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,304
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,386 (100.0%) of 56,386 articles have been extended.
+56,388 (100.0%) of 56,392 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -436,6 +436,28 @@ He pointed out that there are histories that have been evaluated in the past act
 
 ---
 
+### Sri Lanka says IMF review mission talks ‘successful’
+
+*2024-11-22 19:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-imf-review-mission-talks-successful-189506/) · `en`
+
+ECONOMYNEXT – Sri Lanka has wrapped up talks with a visiting International Monetary Fund mission, ‘successfully’ the president’s media office said without giving details.
+
+President Anura Dissanayake said Monday that he was expecting a staff level agreement for the next phase of the program to be reached at the conclusion of the talks this week.
+
+Sri Lanka government delegation, headed by Deputy Minister of Economic Development, Anil Jayantha Fernando at the final meeting with the IMF delegation headed by Senior Mission Chief Peter Breuer at the Presidential Secretariat.
+
+Related Sri Lanka expects IMF staff level agreement by Nov 23: President
+
+Sri Lanka is also aiming to complete external debt restructuring by December. (Colombo/Nov22/2023)
+
+◼️
+
+[Data](articles/345ec11b.json)
+
+[Extended Data](ext_articles/345ec11b.ext.json)
+
+---
+
 ### The administration issued a report on the state -of -the -art state of the Mannar District General Hospital
 
 *2024-11-22 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199445) · `ta`
@@ -463,6 +485,28 @@ Another mother who was giving birth to more than 50 people entered the delivery 
 [Data](articles/06f9de92.json)
 
 [Extended Data](ext_articles/06f9de92.ext.json)
+
+---
+
+### Chinese envoy says Tamils in Indian backyard made “correct decision” at Sri Lanka polls
+
+*2024-11-22 19:32:00* · [`economynextcom`](https://economynext.com/chinese-envoy-says-tamils-in-indian-backyard-made-correct-decision-at-sri-lanka-polls-189505/) · `en`
+
+ECONOMYNEXT – Chinese Ambassador to Sri Lanka Qi Zhenhong during his visit to the island nation’s Northern Province, which is close to India, said ethnic minority Tamils have made ‘a correct decision’ in helping ruling Marxists-leaned National People’s Power (NPP) to win the last week general elections.
+
+Sri Lanka’s North is the closest Sri Lankan landmass to the South Indian state of Tamil Nadu and Northern Tamils have been more close to India due to Hinduism religion, Tamil language, and the culture.
+
+Historically, Northern Tamils have voted for their own ethnic minority leaders, but they mainly voted for the ruling party this time.
+
+Though the NPP got lower votes, they won five out of 12 in Northern Province, giving an unprecedented win for a main political party that was also backed by ethnic majority Sinhalese.
+
+“I believe that the Tamil community has made a correct decision,” Zhenhong told reporters on November 19.
+
+...
+
+[Data](articles/f1c7f7e5.json)
+
+[Extended Data](ext_articles/f1c7f7e5.ext.json)
 
 ---
 
@@ -964,6 +1008,24 @@ The Ambassador who praised the government's new policy of creating a country fre
 
 ---
 
+### Sri Lanka rupee closes weaker at 291.00/10 to dollar, bonds steady
+
+*2024-11-22 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-00-10-to-dollar-bonds-steady-189486/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.00/10 to the US dollar on Friday from 290.95/291.05 to the US dollar on Thursday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed at 10.20/25 percent, up from 10.15/25 percent.
+
+A bond maturing on 15.03.2028 closed at 11.05/15 percent, down from 11.10/20 percent.
+
+A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov22/2024)
+
+◼️
+
+[Data](articles/33d27f00.json)
+
+---
+
 ### Parliamentarian Archtuna complaint against Ramanathan
 
 *2024-11-22 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203631) · `si`
@@ -1263,6 +1325,30 @@ Parliamentary Snacks will not be closed. But although the government takes care 
 [Data](articles/16acd908.json)
 
 [Extended Data](ext_articles/16acd908.ext.json)
+
+---
+
+### Sri Lanka stocks close up, driven by banks
+
+*2024-11-22 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-banks-189468/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 0.56 percent, or 72.17 points, at 13,054; while the more liquid S&P SL20 Index closed up 0.27 percent, or 10.31 points, at 3,871.
+
+Turnover was 1.9 billion. Most of this came from banks (Rs736mn).
+
+Market participants said investors who had purchased banking stocks when they were low were involved in some profit taking after the stocks appreciated on reports of the ISB deal.
+
+Sri Lanka President Anura Dissanayake said on Thursday he expected to wrap up ISB restructure by December and sign remaining bilateral debt restructure agreements soon.
+
+The financial profiles of Sri Lanka’s banks will improve after a successful sovereign debt restructure proposed for local bondholders, Fitch Ratings has said.
+
+Sampath Bank closed up at 94.10, Hatton National Bank closed flat 229.00, National Development Bank closed up at 82.90, and DFCC closed down at 86.10.
+
+...
+
+[Data](articles/e6a049fb.json)
 
 ---
 
@@ -1671,6 +1757,44 @@ A holder of numerous patents, Professor Udugamasooriya’s decision to transitio
 [Data](articles/f61a56be.json)
 
 [Extended Data](ext_articles/f61a56be.ext.json)
+
+---
+
+### Sri Lanka’s Dipped Products buys Thailand-based rubber glove factory
+
+*2024-11-22 14:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-buys-thailand-based-rubber-glove-factory-189451/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Dipped Products Plc said it had acquired 100 percent of the equity of Hi Care Thai Gloves Company Ltd in Thailand for 11 million US dollars.
+
+“This strategic acquisition aligns with the Company’s objectives to expand its global footprint in the rubber glove manufacturing industry and strengthen its presence in international markets,” Dipped Products said in a stock exchange filing.
+
+“The transaction will be completed upon the purchase consideration of Thai Baht 370 Million (approximately USD 11 Million) being released for the aforesaid acquisition, and will be made by Dipped Products (Thailand) Limited, a wholly-owned subsidiary of the Company.”
+
+Dipped Products already has a factory in the East Asian nation.
+
+The acquisition was carried out by Dipped Products (Thailand) Ltd after a due diligence study.
+
+In May, Dipped Products Plc opened a marketing office in Mumbai, India as part of efforts to strengthen its presence in the country.
+
+◼️
+
+[Data](articles/87fa8e12.json)
+
+---
+
+### Singapore’s Jetstar Asia launches direct flights to Colombo
+
+*2024-11-22 14:25:00* · [`economynextcom`](https://economynext.com/singapores-jetstar-asia-launches-direct-flights-to-colombo-189452/) · `en`
+
+ECONOMYNEXT – Singapore carrier Jetstar Asia commenced scheduled flight operations between Sri Lanka and Singapore on Thursday (21) with five return flights each week, operated by their fleet of Airbus A320s, the local by Airport and Aviation Services said.
+
+The inaugural flight arrived at the island nation’s Bandaranaike International Airport (BIA) with 179 passengers. The inaugural flight was ceremonially welcomed with a water salute by Airport and Aviation Services (Sri Lanka) (Private) Limited.
+
+“The launch of Jetstar Asia’s scheduled flights between Singapore and Sri Lanka is a significant boost for our tourism sector’s ongoing growth,” Harsha Abeywickrema, Chairman of Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) and a retired Air Force chief said.
+
+...
+
+[Data](articles/6cf6d917.json)
 
 ---
 
@@ -2481,149 +2605,5 @@ War complaints against Israel have been filed in the Criminal Court. It is in th
 [Data](articles/6614d846.json)
 
 [Extended Data](ext_articles/6614d846.ext.json)
-
----
-
-### Outlooks of Adani firms affiliated to Sri Lanka projects cut to negative by S&P
-
-*2024-11-22 09:45:00* · [`economynextcom`](https://economynext.com/outlooks-of-adani-firms-affiliated-to-sri-lanka-projects-cut-to-negative-by-sp-189375/) · `en`
-
-ECONOMYNEXT – The outlook of several Adani companies which are affiliates or parents of project companies in Sri Lanka have been cut to negative by S&P Global Ratings, after corruption and fraud charges were filed in the US against the group.
-
-The outlook of the BBB- rating of Adani Ports and Special Economic Zone Ltd, which is linked to a terminal project at Colombo port was cut to negative.
-
-Adani Green Energy Limited (AGEL), which is promoting a controversial wind power project in Sri Lanka’s Mannar area was not rated by S&P but the outlook of its financing SPV, Adani Green Energy Ltd Restricted Group 2, was cut to negative.
-
-US prosecutors filed charges against the Adani group and several senior executives alleging they bribed Indian officials to get solar power deals. Adani has denied the allegations.
-
-“The allegations could renew questions over the group’s governance practices and damage its reputation,” S & P said.
-
-...
-
-[Data](articles/e9f68ff9.json)
-
-[Extended Data](ext_articles/e9f68ff9.ext.json)
-
----
-
-### Strike at University of Ruhuna continues for fourth day
-
-*2024-11-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103683/strike-at-university-of-ruhuna-continues-for-fourth-day) · `en`
-
-The strike action launched by all academic and non-academic staff trade unions, along with student unions affiliated with the University of Ruhuna, demanding the immediate removal of the Vice Chancellor, entered its fourth consecutive day today (Nov. 22).
-
-All academic and non-academic trade unions affiliated with the University of Ruhuna had announced a continuous strike commencing from November 19, demanding the immediate removal of the university’s Vice Chancellor.
-
-However, the University Trade Union Joint Committee (UTUJC), the Federation of University Teachers’ Trade Union Alliance, and the students’ representatives of that university held a discussion with Prime Minister Harini Amarasuriya recently regarding the issue.
-
-...
-
-[Data](articles/f8d62ed0.json)
-
-[Extended Data](ext_articles/f8d62ed0.ext.json)
-
----
-
-### Electricity in Sevanagala area
-
-*2024-11-22 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199378) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man electrocuted in Sevanagala's Kirivewa area. 45-year-old from Weliyara died while working at home. Police investigating cause of death.
-
-🟩
-
-A man who was hit by electricity was killed in the Kirivewa area of ​​the Sevanagala police division on Thursday (21), police said.
-
-The deceased is a 45 -year -old from Weliyara, Sevanagala, police said.
-
-Police investigations have revealed that the electricity was hit while working at home.
-
-◼️
-
-[Data](articles/2b8cae38.json)
-
-[Extended Data](ext_articles/2b8cae38.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.90/95 to dollar, bonds steady
-
-*2024-11-22 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-90-95-to-dollar-bonds-steady-189376/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 290.90/95 to the US dollar on Friday from 290.95/291.05 to the US dollar on Thursday dealers said, while bond yields were stable.
-
-A bond maturing on 15.12.2026 was quoted at 10.10/25 percent, from 10.15/25 percent.
-
-A bond maturing on 15.12.2027 was quoted at 10.85/95 percent, up from 10.80/90 percent.
-
-A bond maturing on 01.05.2028 was quoted at 11.12/20 percent.
-
-In equities, the All Share Price Index opened down 0.34 points, dropping below the 13,000 mark to 12,981. The more liquid S&P SL20 opened down 0.08 percent, or 3.05 points, at 3,857.
-
-◼️
-
-[Data](articles/1366d67b.json)
-
-[Extended Data](ext_articles/1366d67b.ext.json)
-
----
-
-### Ranil does not know Ravi's name
-
-*2024-11-22 09:32:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-பெயர்-அனுப்பப்பட்டது-ரணிலுக்கு-தெரியாது/175-347609) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil denies Ravi's name sent to Election Commission for National List. Vajira Abeywardena states no notice given to Ranil about Ravi's nomination. Meeting on 16th discussed filling National List seat, but decision made on 19th.
-
-🟩
-
-"It is false news that Ravi Karunanayake's name has been sent to the Election Commission for the National List of the New Democratic Front, has said that it was false to say that it was false.
-
-Vajira Abeywardena has said that former President Ranil Wickremesinghe has not been given any notice regarding Ravi Karunanayake's name to the Election Commission for the post of National List Member of Parliament.
-
-He pointed out that the alleged concept that the National List seat was complied with to the candidate presented by the new Democratic Front was baseless.
-
-Abeywardena added that it was decided at a meeting of party leaders held on the 16th under the leadership of Ranil Wickremesinghe to discuss a discussion held on November 19 on the filling of the National List Member of Parliament.. That
-
-◼️
-
-[Data](articles/9c9275ab.json)
-
-[Extended Data](ext_articles/9c9275ab.ext.json)
-
----
-
-### Two arrested with ice drug
-
-*2024-11-22 09:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஐஸ்-போதைப்-பொருளுடன்-இருவர்-கைது/73-347608) · `ta`
-
-Two arrests made in Kalmunai STF operation. Suspects found with ice drugs totaling 1840mg. Investigation ongoing.
-
-🟩
-
-Kalmunai Special Task Force (STF) has arrested two suspects who have long been working on ice drugs.
-
-Two suspects were arrested with ice drugs during a raid on the Kalmunai Special Task Force on Thursday night (21).
-
-A 26 -year -old man in Kalmunaikudi 9th Section 9th Division was arrested with 970mg of ice and 20 -year -old suspect from Green Field in Kalmunaikudi, 870 mg.
-
-The Kalmunai Special Task Force (STF) is conducting further investigations, who handed over the two suspects to the Kalmunai Police Station.
-
-The arrest was carried out by the Inspector General of Police, RACS Ratnayake, the Superintendent of Police in charge of the Kalmunai Special Task Force.
-
-It is also worth noting that ice drugs have been recovering in the area for the past few days.. Remble
-
-◼️
-
-[Data](articles/68befd87.json)
-
-[Extended Data](ext_articles/68befd87.ext.json)
 
 ---

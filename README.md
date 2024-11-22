@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 01:42:41**
+As of **2024-11-23 02:41:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,402 (100.0%) of 56,411 articles have been extended.
+56,411 (100.0%) of 56,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,6 +186,8 @@ The program in Colombo was facilitated by the Sri Lanka Pakistan Business Counci
 
 [Data](articles/dde4ba6b.json)
 
+[Extended Data](ext_articles/dde4ba6b.ext.json)
+
 ---
 
 ### Lankan envoy introduces Port City Colombo to Saudi Investment Ministry
@@ -199,6 +201,8 @@ Ambassador Ameer Ajwad elaborated on investment opportunities readily available 
 ...
 
 [Data](articles/1494a8d8.json)
+
+[Extended Data](ext_articles/1494a8d8.ext.json)
 
 ---
 
@@ -214,6 +218,8 @@ The showroom, which displays a range of Ceylon Tea products and functions as an 
 
 [Data](articles/395bb2c3.json)
 
+[Extended Data](ext_articles/395bb2c3.ext.json)
+
 ---
 
 ### AMW and New Holland Tractors celebrate 10-year partnership with free inspection campaign
@@ -225,6 +231,8 @@ Associated Motorways Ltd., a leader in Sri Lanka automotive industry celebrates 
 ...
 
 [Data](articles/4bdc35b3.json)
+
+[Extended Data](ext_articles/4bdc35b3.ext.json)
 
 ---
 
@@ -240,6 +248,8 @@ Abans Environmental Services Ltd. (AES), the leader in janitorial and related se
 
 [Data](articles/ccf835a5.json)
 
+[Extended Data](ext_articles/ccf835a5.ext.json)
+
 ---
 
 ### Dr. P. A. Kiriwandeniya observes the progress of ‘Sanasa Forward’ (Sanasa Idiriya) projects in Hambantota
@@ -251,6 +261,8 @@ Sanasa Founder and the Chancellor of Wayamba University of Sri Lanka Vishwa Pras
 ...
 
 [Data](articles/267845ee.json)
+
+[Extended Data](ext_articles/267845ee.ext.json)
 
 ---
 
@@ -300,6 +312,8 @@ I have always been deeply interested in Sri Lanka’s socio-political landscape 
 
 [Data](articles/04955121.json)
 
+[Extended Data](ext_articles/04955121.ext.json)
+
 ---
 
 ### To include or not to include a Muslim Minister
@@ -316,6 +330,8 @@ The absence of a Muslim member among the 21 members that comprise the Cabinet re
 
 [Data](articles/e6f4e2d5.json)
 
+[Extended Data](ext_articles/e6f4e2d5.ext.json)
+
 ---
 
 ### President seeks support of all to achieve successful new era
@@ -331,6 +347,8 @@ Today is an exceptionally significant day in the history of our Parliament. For 
 ...
 
 [Data](articles/2c5d63d4.json)
+
+[Extended Data](ext_articles/2c5d63d4.ext.json)
 
 ---
 

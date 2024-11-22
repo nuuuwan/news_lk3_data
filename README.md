@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 22:16:06**
+As of **2024-11-22 21:41:59**
 
 ## Newspaper Stats
 
-*Scraped **56,373** Articles*
+*Scraped **56,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,73 +18,19 @@ dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,813
-tamilmirrorlk | 8,014
+tamilmirrorlk | 8,013
 virakesarilk | 9,168
-adaderanasinhalalk | 9,733
+adaderanasinhalalk | 9,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,371 (100.0%) of 56,373 articles have been extended.
+56,367 (100.0%) of 56,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
-
-### Home for low -income families
-
-*2024-11-22 21:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-வருமானம்-பெறும்-குடும்பங்களுக்கு-வீடு/175-347628) · `ta`
-
-Chinese Ambassador Qi Zhenhong and Sri Lankan Minister Anura Karunathileka sign agreement for 1888 homes for low-income families and 108 for senior artists in Peliyagoda, Dematagoda, Moratuwa, Maharagama, and Kottawa.
-
-🟩
-
-A plan to construct 1888 houses for low -income families and 108 houses for senior artists has been signed today (22).
-
-It was carried out by Chinese Ambassador to Sri Lanka Qi Zhenhong and Urban Development Minister Dr. Anura Karunathileka.
-
-These houses are to be built in Peliyagoda, Dematagoda, Moratuwa and Maharagama areas.
-
-It is also reported that a housing scheme for senior artists in Kottawa area. Remble
-
-◼️
-
-[Data](articles/b568dc00.json)
-
-[Extended Data](ext_articles/b568dc00.ext.json)
-
----
-
-### 3-day workshop for new MPs
-
-*2024-11-22 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203641) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"3-day workshop for new MPs: Nov 25-27, 9:30 AM-4:30 PM. Topics: MP roles, privileges, committees, voting systems, anti-corruption laws. Key speakers: Prime Minister, Deputy Leaders, Deputy Speakers. Practical sessions included."
-
-🟩
-
-Awareness workshop will be held on behalf of the elected to the Third Parliament at 25, 26 and 27.
-
-Accordingly, a workshop for MPs who were elected to the Third Parliament on November 25, 26 and 27 at November 25, 26 and 27. From 9.30 pm. The Committee will be held at the Parliament room No. 01 to 4.30.
-
-The workshop is also organized this workshop as a tradition of a new Parliament.
-
-Prime Minister Dr. Harain Amarasuriya, Deputy Leader Dr. Mohammed Risvi Ranhamada, Deputy Speaker, Deputy Leader of the Government Chairman Dr. Nalinda, Deputy Speaker of ParliamentJayatissa, Deputy Secretary-General of Parliament and the Assistant Secretary and the Assistant Secretary and the Assistant Secretary and the Assistant Secretary (Assistant Secretary) are participating.
-
-At this Thandi Workshop, the role of the Member of Parliament, Parliamentary Privileges, Parliamentary Privileges, Parliamentary Committees and Parliamentary Committees
-
-...
-
-[Data](articles/e825db2b.json)
-
-[Extended Data](ext_articles/e825db2b.ext.json)
-
----
 
 ### We cannot move forward without restoring public’s trust in public service - President
 
@@ -101,8 +47,6 @@ President Dissanayake stated that the new government is dedicated to promoting g
 ...
 
 [Data](articles/218d2298.json)
-
-[Extended Data](ext_articles/218d2298.ext.json)
 
 ---
 
@@ -147,86 +91,6 @@ The Government of Japan, who praised the government's new policy of creating a c
 [Data](articles/19e85ab8.json)
 
 [Extended Data](ext_articles/19e85ab8.ext.json)
-
----
-
-### President has obligated to state employees
-
-*2024-11-22 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203640) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake addresses state employees, emphasizing accountability & public service. He vows to address economic challenges & corruption, promising a positive future if expectations aren't met.
-
-🟩
-
-President Anura Kumara Dissanayake said that if the present government fails to fulfill the expectations of the people in the last majority, he should diverge the public to create a positive future.
-
-President Anura Kumara Dissanayake said this as the Minister of Finance and Economic Development Minister to assume duties today (22) at the ministries.
-
-The President was warmly welcomed by the staff.
-
-The contribution made by the Ministry of Finance to rescue the country in the face of the past economic collapse, the President also said that everyone would expect to achieve the support of all.
-
-Speaking further, President Anura Kumara Dissanayake said he had a history of a prehisperity of public officials in politics, but today the contribution made by the good measures of state officials from today.
-
-The President emphasized that if there is any injustice or misbehavior in performing duties, the President has stressed.
-
-...
-
-[Data](articles/3be86861.json)
-
-[Extended Data](ext_articles/3be86861.ext.json)
-
----
-
-### පැරිස් ඇතුළු නගර රැසකට අධික හිමපතනයක්
-
-*2024-11-22 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203638) · `si`
-
-ශීත සෘතුවත් සමඟ මේ වන විට ප්‍රංශයේ හිම පතනය වීම ආරම්භ වී තිබේ.
-
-ඒ හේතුවෙන් ප්‍රංශයේ දකුණු සහ නැගෙනහිර ප්‍රදේශ ඇතුළු ප්‍රදේශ රැසකට තැඹිලි අනතුරු ඇඟවීම් නිකුත් කිරීමට එරට බලධාරීන් කටයුතු කර තිබේ.
-
-කෙසේ නමුත් මේ වන විටත් ලොව උතුරු අර්ධගෝලයේ රටවල් රැසක හිම පතනය වීම ආරම්භ වී තිබේ.
-
-ඒ අනුව ප්‍රංශයෙන් ද මේ වනවිට වාර්තා වන්නේ හිම පතනය සහිත අධික ශිත කාලගුණයක්.
-
-හිම පතනය හේතුවෙන් ප්‍රංශයේ වීථි සහ පදිකවේදිකා හිමෙන් වැසී ගොස් ඇති අයුරු විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-ඉන් පැරිස් අගනුවර ඇතුළු නගර රැසක ගමනාගමනයට බාධා එල්ල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-එමෙන්ම ශීතාධික කාලගුණය හමුවේ බටහිර දිග ප්‍රංශයේ නිවාස ලක්ෂය ඉක්මවූ ප්‍රමාණයකට විදුලි ඇණහීටීමටක ද මුහුණදීමට සිදුව තිබේ.
-
-විදුලි සැපයීම යථාවත් කිරීමට සේවකයින් දහසක් පමණ යොදවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-ප්‍රංශ කාලගුණ අංශ පුරෝකතනය කරන්නේ හිම පතනය ඉදිරියේ දී තවත් තීව්‍ර විය හැකි බවය.
-
-ඒ අනුව දැනටමත් උතුරු බ්‍රිට්නි සහ නෝමැන්ඩි ප්‍රදේශවලට මෙන්ම ප්‍රංශයේ දකුණු සහ නැගෙනහිර පෙදෙස්වලට තැඹිලි අනතුරු අඟවීම් නිකුත් කිරීමට පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/92c168df.json)
-
----
-
-### නීතිපති මහර සිරකරු ඝාතන නඩුගොනුව වසාදැමීම පුදුම සහගතයි -වැලිසර මහෙස්ත්‍රාත්
-
-*2024-11-22 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203639) · `si`
-
-2020 වසරේ මහර බන්ධනාගාරය තුළ රැඳවියන් 11 දෙනෙකු ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් සැකකරුවන් අත්අඩංගුවට ගැනීමට ප්‍රමාණවත් සාක්ෂි තිබියදී නීතිපතිවරයා නඩුගොනුව වසා දැමීම පුදුමය දනවන්නක් බව වැලිසර මහේස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදාන මහතා අද (22) ප්‍රකාශ කළේය.
-
-එහිදී අගතියට පත් පාර්ශ්වය වෙනුවෙන් කරුණු දැක්වූ නීතිඥයින් කියා සිටියේ, ජනතාව පිළිගත යුත්තේ අධිකරණ නියෝගද ? නැතිනම් නීතිපති මතයද යන්න මෙම සිදුවීමේදී ප්‍රශ්නගත වී ඇති බවයි.
-
-කොවිඩ් වැළඳී ඇත්දැයි තහවුරු කර ගැනීමට පීසීආර් පරීක්ෂණයක් ඉල්ලා 2020 නොවැම්බර් 29 වෙනිදා මහර උද්ඝෝණයක් කළ මහර බන්ධනාගාරයේ රැඳවියන්ට පොලිස් විශේෂ කාර්ය බළකාය සිදුකළ වෙඩි තැබීමේදී රැඳවියන් 11 දෙනකු ජීවිතක්ෂයට පත්වුණි.
-
-එම රැඳවියන් 11 දෙනාම මියගොස් තිබූණේ හිස, බඩ, පපුව ආදී ප්‍රදේශවලට සිදුවූ වෙඩි වැදීමෙන් ඇතිවූ තුවාල හේතුවෙන් බවට වැලිසර මහෙස්ත්‍රාත් අධිකරණයේදී අනාවරණ වූ අතර, එහිදී මහෙස්ත්‍රත් තුසිත ධම්මික උඩුවවිදාන මහතා පැවසුවේ, එය අපරාධයක් බවයි.
-
-...
-
-[Data](articles/a4246bce.json)
 
 ---
 
@@ -2559,5 +2423,145 @@ Meanwhile, the Sri Lanka Muslim Congress is former chairman of the Eravur Munici
 [Data](articles/4409fa19.json)
 
 [Extended Data](ext_articles/4409fa19.ext.json)
+
+---
+
+### Bus kills electrocution
+
+*2024-11-22 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203613) · `si`
+
+A 45-year-old man from Sevanagala died after being electrocuted while cutting something at home. Police are investigating the incident.
+
+🟩
+
+Police say that a person has died in a criminal accident in Kiriwewa yesterday (21), police said.
+
+The victim is a 45 year old resident of Sevanagala area.
+
+Investigations have revealed that he was electrified while he was cutting at a householdal.
+
+However, Sevanagala police are conducting further investigations.
+
+◼️
+
+[Data](articles/4266fbf4.json)
+
+[Extended Data](ext_articles/4266fbf4.ext.json)
+
+---
+
+### Here are the sides that have exceeded 100 ml miters today
+
+*2024-11-22 07:33:49* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මිටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-413210) · `si`
+
+S1:0
+
+🟩
+
+The Department of Meteorology says that at the Bay of Bay Bay Bay Bay Bay Bay of Bay of Bay of Bay of Bay of Bay of Baying.
+
+The Department urges the public as the Meteorological Department of Meteorology, which will continue to travel to the eastern coast of the island.
+
+The Department of Meteorology says that showers have occurred in the Northern, North-central provinces today and in the Matale district.Thundershowers will develop at several places in the evening of the rest of the island.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම හා දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැකි විය බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+◼️
+
+[Data](articles/84500458.json)
+
+[Extended Data](ext_articles/84500458.ext.json)
+
+---
+
+### Special notice to candidates sit to the A / L examination
+
+*2024-11-22 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203612) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Disaster Management Center & Exams Dept. join forces for 2124 A/L exams. Low Bay of Bengal pressure forecasted. Emergency response plan activated. Guidelines issued for exam-related challenges. Disaster Hotline: 117 or 0113 668 020. Exam Coordination Number: 1911. GCE 2024 starts Nov 25."
+
+🟩
+
+The Disaster Management Center and the Examinations Department has implemented a joint program.
+
+The 2124 A / L examination is to overcome the disasters that can be caused by the time period.
+
+The Department of Meteorology had foretold the low rate of the Bay of Bay of Bengal during the next week.
+
+This step has been taken to create a good environment to cope with the examination and create a good environment to face the examination successfully with avoiding disasters.
+
+The Disaster Major General Udaya Herath was headed by the Department of Examinations at the Disaster Management Center with the participation of the Department of Examinations.
+
+The joint plan is to strengthen the enclosing coordination of emergency response to the officers who are following the exam period.
+
+Accordingly, the necessary guidelines have already been issued to manage the obstacles that can be managed by the Examination of the Examination, including the Armed Forces, including the police, and the police.
+
+...
+
+[Data](articles/ed6e53eb.json)
+
+[Extended Data](ext_articles/ed6e53eb.ext.json)
+
+---
+
+### Rock robbery arrested
+
+*2024-11-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203611) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Rock robbery arrest: 24-year-old from Badowita detained in Mount Lavinia raid. Suspect linked to Dehiwala incidents involving property damage and furniture theft. Sword recovered."
+
+🟩
+
+The Mt. Mt. Mt.
+
+The arrest was made during a raid on the Mount Lavinia Bureau of Mount Lavinia, Mount Lavinia, Mount Lavinia.
+
+The suspect is a 24 year old resident of Badowita, police said.
+
+The man is a suspect in the Dehiwala Police Division, including the death of a house in the Dehiwala Police Division, and caring for furniture in the Dehiwala Police Division.
+
+The police also recovered a sword used for the above crimes.
+
+◼️
+
+[Data](articles/f6396487.json)
+
+[Extended Data](ext_articles/f6396487.ext.json)
+
+---
+
+### An announcement of the weather
+
+*2024-11-22 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203610) · `si`
+
+Weather alert: Showers/thundershowers forecasted for northern, central regions. Heavy rain possible in western, southern areas. Strong winds predicted. Lightning risk. Low-pressure system developing in southwest. Stay tuned for updates.
+
+🟩
+
+The Department of Meteorology says that showers or thundershowers will occur in the North, North-Central and Eastern provinces today (22).
+
+Thundershowers will develop at several places in the evening, in the evening or night in the rest of the island.
+
+Heavy rains can occur at times in the Western, Sabaragamuwa, Central and Southern provinces, in the North, North-Central and North Western Provinces and in the Matale District.. Strong winds can occur in about 30-40.
+
+Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces may have been methavior in the morning.
+
+The Department also requests the public to take necessary measures to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
+
+Meanwhile, the Department of Meteorology has been informed that a low-pressure zone of the southwestern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying.
+
+...
+
+[Data](articles/f42a9343.json)
+
+[Extended Data](ext_articles/f42a9343.ext.json)
 
 ---

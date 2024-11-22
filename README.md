@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 05:50:43**
+As of **2024-11-22 06:47:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,250 (100.0%) of 56,260 articles have been extended.
+56,254 (100.0%) of 56,260 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -272,6 +272,8 @@ SriLankan Airlines has won the prestigious 2025 APEX Best Entertainment Award in
 
 [Data](articles/14316988.json)
 
+[Extended Data](ext_articles/14316988.ext.json)
+
 ---
 
 ### AIA Sri Lanka sweeps three awards at International Business Magazine Awards 2024
@@ -286,6 +288,8 @@ Best Insurance Campaign 2024 for the AIA Health Passport Launch: This innovat
 
 [Data](articles/265b504d.json)
 
+[Extended Data](ext_articles/265b504d.ext.json)
+
 ---
 
 ### UN Global Compact Network Sri Lanka and UNDP Sri Lanka support corporates towards decarbonisation efforts
@@ -299,6 +303,8 @@ Senior representatives from UN Global Compact Network Sri Lanka’s participant 
 ...
 
 [Data](articles/348840be.json)
+
+[Extended Data](ext_articles/348840be.ext.json)
 
 ---
 
@@ -357,6 +363,8 @@ The BAIC X55, introduced and marketed in Sri Lanka by David Pieris Automobiles (
 ...
 
 [Data](articles/68751051.json)
+
+[Extended Data](ext_articles/68751051.ext.json)
 
 ---
 

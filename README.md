@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 13:12:20**
+As of **2024-11-22 13:25:44**
 
 ## Newspaper Stats
 
-*Scraped **56,311** Articles*
+*Scraped **56,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,299
 adaderanalk | 6,803
 tamilmirrorlk | 7,999
-virakesarilk | 9,154
+virakesarilk | 9,157
 adaderanasinhalalk | 9,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,310 (100.0%) of 56,311 articles have been extended.
+56,311 (100.0%) of 56,314 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,28 @@ The Colombo Stock Exchange has approved the listing in principle.
 ◼️
 
 [Data](articles/a3e8db97.json)
+
+[Extended Data](ext_articles/a3e8db97.ext.json)
+
+---
+
+### இரு வெவ்வேறு பகுதிகளில் ஹெரோயினுடன் இருவர் கைது !
+
+*2024-11-22 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199396) · `ta`
+
+அத்துருகிரிய மற்றும் பேலியகொடை ஆகிய பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதிகளில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கைகளில் ஹெரோயின் போதைப்பொருளுடன் பெண் உட்பட இருவர் நேற்று வியாழக்கிழமை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அதன்படி, அத்துருகிரிய பொலிஸ் பிரிவுக்கு உட்பட்ட ஹபரகட பகுதியில் ஹெரோயின் போதைப்பொருளுடன் பெண் ஒருவர் அத்துருகிரிய பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட பெண்ணிடம் இருந்து 08 கிராம் 100 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+இதேவேளை, பேலியகொடை பொலிஸ் பிரிவுக்கு உட்பட்ட தரமடுவத்த பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் பேலியகொடை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 05 கிராம் 400 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d49dbfc8.json)
 
 ---
 
@@ -98,6 +120,24 @@ LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issu
 
 ---
 
+### இலங்கைக்கு நேரடி விமான சேவையை ஆரம்பித்தது Jetstar Asia !
+
+*2024-11-22 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199394) · `ta`
+
+இலங்கைக்கும் சிங்கபூருக்கும் இடையிலான நேரடி புதிய விமான சேவை வியாழக்கிழமை (21) ஆரம்பிக்கப்பட்டது.
+
+இந்த விமான சேவையை சிங்கப்பூரை தளமாகக் கொண்ட குறைந்த கட்டண Jetstar Asia விமான நிறுவனம் ஆரம்பித்துள்ளது.
+
+அதன்படி, சிங்கப்பூரின் சாங்கி விமான நிலையத்திலிருந்து புதிய விமான சேவையின் முதல் விமானமான Jetstar Asia  விமான நிறுவனத்திற்கு சொந்தமான 3K333 என்ற விமானம் வியாழக்கிழமை காலை இலங்கையை வந்தடைந்தது.
+
+ஒவ்வொரு வாரமும்  காலை அல்லது மாலையில் சிங்கப்பூரிலிருந்து இலங்கை வருவதற்கு ஏர்பஸ் A320 என்ற 5 விமானங்கள் இயக்கப்படும்.  சிங்கப்பூர் வழியாக இணைபவர்களுக்கு தேவையான தெரிவுகளையும் வழங்குகிறது என Jetstar தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5f425912.json)
+
+---
+
 ### Sri Lanka revealed as most popular solo travel destination for 2025
 
 *2024-11-22 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103686/sri-lanka-revealed-as-most-popular-solo-travel-destination-for-2025) · `en`
@@ -115,6 +155,30 @@ The appeal is clear, says Flash Pack: “Sri Lanka packs in all the punch of Ind
 [Data](articles/0415f62f.json)
 
 [Extended Data](ext_articles/0415f62f.ext.json)
+
+---
+
+### “தமிழர்களிற்கு ஆதரவாகயிருப்பது குறித்து பெருமிதமடைகின்றோம்" ;  தமிழீழ தேசிய கொடி நினைவுநாளில் கனடா அரசியல்வாதி
+
+*2024-11-22 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199391) · `ta`
+
+தமிழ் சமூகத்திற்கு ஆதரவாகயிருப்பது குறித்து பெருமிதம் கொள்வதாக கனடா ஒன்டாரியோவின் உத்தியோகபூர்வ எதிர்கட்சியின் மரிட்ஸ்டைல்ஸ் தெரிவித்துள்ளார்.
+
+தமிழ்ஈழ தேசிய கொடி தினத்தை குறிக்கும் நிகழ்வு குறித்து விடுத்துள்ள செய்தியில் இதனை தெரிவித்துள்ள அவர் மேலும் குறிப்பிட்டுள்ளதாவது.
+
+இன்று தமிழீழ தேசிய கொடிதினத்தில் ,ஒன்டாரியோவிலும் உலகின் ஏனைய பகுதிகளிலும் நாங்கள் தமிழ் சமூகத்தின் வரலாற்றையும் கலாச்சாரத்தையும் கௌரவிக்கின்றோம் என அவர் தெரிவித்துள்ளார்.
+
+இன்றைய நாள் தமிழனப்படுகொலை மற்றும் முள்ளிவாய்க்கால் படுகொலை உட்பட தமிழ் மக்கள் பல தசாப்தங்களை அனுபவித்த வன்முறைகளை நினைவுகூரும் நாளாகும்.
+
+இந்த அட்டுழியங்கள்  நினைத்துப்பாக்கமுடியாத வலியை துயரத்தை ஏற்படுத்தின அதேவேளை இது தமிழ் சமூகத்தின் உறுதிப்பாட்டையும்,வலிமையையும் வெளிப்படுத்தியுள்ளது.
+
+தமிழ் சமூகம் நீதிமற்றும் மனித உரிமைகளிற்கான போராட்டத்திற்கான உத்வேகத்தை அளிக்கின்ற ஒரு சமூகம்.
+
+புதிய ஜனநாயக கட்சியினராகிய நாங்கள் தமிழ் சமூகத்திற்கு ஆதரவாகயிருப்பது குறித்து பெருமிதம் கொள்கின்றோம்,
+
+...
+
+[Data](articles/789a8564.json)
 
 ---
 
@@ -322,7 +386,7 @@ They pointed out that Anura Kumara Dissanayake, who won the presidential electio
 
 ### Fire at an apartment in Wellampitiya
 
-*2024-11-22 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199384) · `ta`
+*2024-11-22 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199384) · `ta`
 
 Here's a summary of the text in approximately 200 characters:
 
@@ -2279,89 +2343,5 @@ If the election decisions were made, the Sri Lanka Tamil National Party won six 
 [Data](articles/6feb5831.json)
 
 [Extended Data](ext_articles/6feb5831.ext.json)
-
----
-
-### Recent history is the largest drug raid in recent history
-
-*2024-11-21 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203607) · `si`
-
-Large-scale drug bust: 200+ kg ice, 70+ kg heroin seized. 10 arrests made across Matara, Mt. Lavinia, Ratmalana. Origin unclear; investigation ongoing. Acting IGP calls it record-breaking operation.
-
-🟩
-
-More than 200 kilometers of heroin and ice crores worth over Rs.
-
-10 suspects have been arrested by the police.
-
-The Matara Division Criminal Investigation Bureau had received a large haul of drugs by a boat from Gandara Nonvinkele.
-
-Accordingly, the drug has been detected in a van to a house in the Mapalagama area in Galle.
-
-The suspects were then arrested in the Matara, Mount Lavinia and Ratmalana.
-
-There were more than 200 kilograms of ice cast and over 70 kilograms of heroin.
-
-The stock of drug has been sent from Pakistan to Sri Lanka and has not yet revealed that who sent them to the country.
-
-The acting IGP Priyantha Weerasuriya also visited the Senior Superintendent of Police from Matara today (21st).
-
-The acting IGP said that this was the highest number of drugs found in the land of recent history.
-
-...
-
-[Data](articles/47bcf645.json)
-
-[Extended Data](ext_articles/47bcf645.ext.json)
-
----
-
-### The government will take action on the Sri Lankan Indian fishermen issue -Minister Ramalingam Chandrasekaran
-
-*2024-11-21 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199360) · `ta`
-
-Sri Lankan Indian fishermen issue: Government action promised by Minister Ramalingam Chandrasekaran to protect local fishermen and address tensions. Meeting with Indian High Commission planned to discuss details.
-
-🟩
-
-Fisheries Minister Ramalingam Chandrasekaran said the National People's Power Government would take appropriate action to address the issue of Sri Lankan Indian fishermen.
-
-He was speaking to the media after the President's policy speech held in Parliament on Thursday (21).
-
-The Sri Lankan Indian fishermen's issue is a major tension so that our fishermen face the impact. The government will take firm action to protect our country fishermen. We are never going to take all the necessary measures.
-
-I will meet the Indian High Commission very soon. I expect to discuss this issue in detail with him.
-
-Earlier, he said there would be talks with all the Northern fishermen and all the sectors.
-
-◼️
-
-[Data](articles/c3f32e12.json)
-
-[Extended Data](ext_articles/c3f32e12.ext.json)
-
----
-
-### Former Minister Douglas Devananda
-
-*2024-11-21 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199359) · `ta`
-
-Colombo Magistrate's Court issues warrant for former Minister Douglas Devananda's arrest. Case filed in 2016 over missing Rs 20m checks. Devananda absent, lawyer claims illness without proof.
-
-🟩
-
-The Colombo Magistrate's Court on Thursday (21) issued a court order to arrest former minister Douglas Devananda, who was not present in court.
-
-The case was filed against former Douglas Devananda Criminal Investigation Department (CID) in 2016 regarding the incident of two checks worth Rs 10 million each.
-
-When the case was taken up for hearing on Thursday (21), Douglas Devananda did not appear in court to testify.
-
-Although his lawyer said he was sick, no medical certificates were submitted.
-
-◼️
-
-[Data](articles/14aaafef.json)
-
-[Extended Data](ext_articles/14aaafef.ext.json)
 
 ---

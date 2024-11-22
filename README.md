@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 07:30:07**
+As of **2024-11-22 05:50:43**
 
 ## Newspaper Stats
 
-*Scraped **56,262** Articles*
+*Scraped **56,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,17 @@ adalk | 5,296
 adaderanalk | 6,795
 tamilmirrorlk | 7,989
 virakesarilk | 9,149
-adaderanasinhalalk | 9,705
+adaderanasinhalalk | 9,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,257 (100.0%) of 56,262 articles have been extended.
+56,250 (100.0%) of 56,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
-
-### නිවසක් කොල්ලකෑ සැකකරුවෙක් අත්අඩංගුවට
-
-*2024-11-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203611) · `si`
-
-ගෙවල් බිඳ දේපොළ සොරකමකට අවශ්‍ය කර සිටි සැකකරුවෙකු අයිස් මත්ද්‍රව්‍ය සමග ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් ඊයේ (21)  අත්අඩංගුවට ගෙන තිබේ.
-
-අපරාධ නිවාරණ රාජකාරියේ යෙදීසිටි ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමක් ගල්කිස්ස, බඩෝවිට පාලම අසල සිදුකළ වැටලීමකදී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
-
-සැකකරු වයස අවුරුදු 29ක් වන බඩෝවිට ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, ඔහු අත්අඩංගුවට පත්වන විට අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 12යි මිලිග්‍රෑම් 150ක්ද සිය සන්තකයේ තබාගෙන සිටි බව පොලීසිය පවසයි.
-
-මෙම පුද්ගලයා නොවැම්බර් මස 10 වනදින දෙහිවල පොලිස් වසමේ නිවසක් බිඳ විදුලි උපකරණ ඇතුළු ගෘහ භාණ්ඩවලට අනර්ථය සිදුකිරීම හා රුපියල් ලක්ෂ 12කට අධික වටිනාකමින් යුතු රන් භාණ්ඩ හා ජංගම දුරකථන 04ක් සොරකම් කිරීමක් සම්බන්ධයෙන් අවශ්‍යව සිටි සැකකරුවෙකුද වේ.
-
-අදාළ සැකකරු ඉහත අපරාධ සඳහා යොදාගත් කඩුවක් ද පොලීසිය විසින් සොයා ගෙන ඇත.
-
-◼️
-
-[Data](articles/f6396487.json)
-
----
-
-### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
-
-*2024-11-22 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203610) · `si`
-
-උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් අද (22) විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-විශේෂයෙන් දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැකි අතර, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. 30-40 අතර පමණ තරමක තද සුළං ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එමෙන්ම බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
-
-...
-
-[Data](articles/f42a9343.json)
-
----
 
 ### NPP victory boosts female representation in Parliament to 9%
 
@@ -312,8 +272,6 @@ SriLankan Airlines has won the prestigious 2025 APEX Best Entertainment Award in
 
 [Data](articles/14316988.json)
 
-[Extended Data](ext_articles/14316988.ext.json)
-
 ---
 
 ### AIA Sri Lanka sweeps three awards at International Business Magazine Awards 2024
@@ -328,8 +286,6 @@ Best Insurance Campaign 2024 for the AIA Health Passport Launch: This innovat
 
 [Data](articles/265b504d.json)
 
-[Extended Data](ext_articles/265b504d.ext.json)
-
 ---
 
 ### UN Global Compact Network Sri Lanka and UNDP Sri Lanka support corporates towards decarbonisation efforts
@@ -343,8 +299,6 @@ Senior representatives from UN Global Compact Network Sri Lanka’s participant 
 ...
 
 [Data](articles/348840be.json)
-
-[Extended Data](ext_articles/348840be.ext.json)
 
 ---
 
@@ -404,8 +358,6 @@ The BAIC X55, introduced and marketed in Sri Lanka by David Pieris Automobiles (
 
 [Data](articles/68751051.json)
 
-[Extended Data](ext_articles/68751051.ext.json)
-
 ---
 
 ### Hemsons International unveils a bold new brand identity
@@ -422,8 +374,6 @@ With a history spanning 75 years,Hemsons has always been at the forefront of del
 
 [Data](articles/6f25c632.json)
 
-[Extended Data](ext_articles/6f25c632.ext.json)
-
 ---
 
 ### HUTCH conducts coastal clean-up in celebration of World Sustainability Day
@@ -435,8 +385,6 @@ Hutch actively supports sustainable practices and is dedicated to protecting Sri
 ...
 
 [Data](articles/8391ba0b.json)
-
-[Extended Data](ext_articles/8391ba0b.ext.json)
 
 ---
 
@@ -2397,5 +2345,49 @@ Sri Lanka President Anura Dissanayake said he expected to wrap up ISB restructur
 [Data](articles/399161c1.json)
 
 [Extended Data](ext_articles/399161c1.ext.json)
+
+---
+
+### “Today, all communities across all provinces have trusted us and granted us this power. It is with profound gratitude that I extend my deepest respect and thanks to the people who trusted us.”-President Anura Kumara Dissanayake
+
+*2024-11-21 15:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85104) · `en`
+
+(Full  Text of Address  Delivered by President Anura Kumara Dissanayake on 21 November 2024 at the Inauguration of the First Session of the Tenth Parliament)
+
+Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
+
+...
+
+[Data](articles/9cd5c793.json)
+
+[Extended Data](ext_articles/9cd5c793.ext.json)
+
+---
+
+### Ranil does not know about sending Ravi's name
+
+*2024-11-21 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රවීගේ-නම-යැවීම-ගැන-රනිල්-දන්නේ-නෑ/11-413202) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former President Ranil Wickremesinghe denies sending Ravi Karunanayake's name to the Election Commission for a National List seat. UNP Chairman Vajira Abeywardena claims this statement is false. The New Democratic Front submitted Karunanayake's name despite an agreement not to do so after the 2024 election. This action is considered a breach of the Memorandum of Understanding between the UNP and New Democratic Front.
+
+🟩
+
+UNP chairman Vajira Abeywardena issued a statement that the statement of former President Ranil Wickremesinghe was completely false to a national listing of the new Democratic Front.
+
+He issued no baseless statements that Ravi Karunanayake's name had been sent to the Elections Commission for the election of the National List.The announcement states.
+
+A special discussion of former executive President Ranil Wickremesinghe was held on November 16, headed by former Executive President Ranil Wickremesinghe.
+
+The Democratic Front will be held at the discussion on the above discussion on the conclusion of the national listing seat.
+
+...
+
+[Data](articles/70695ea4.json)
+
+[Extended Data](ext_articles/70695ea4.ext.json)
 
 ---

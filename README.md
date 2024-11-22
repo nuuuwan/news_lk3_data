@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 13:25:44**
+As of **2024-11-22 13:42:27**
 
 ## Newspaper Stats
 
-*Scraped **56,314** Articles*
+*Scraped **56,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,299
-adaderanalk | 6,803
+adaderanalk | 6,805
 tamilmirrorlk | 7,999
 virakesarilk | 9,157
 adaderanasinhalalk | 9,715
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,311 (100.0%) of 56,314 articles have been extended.
+56,311 (100.0%) of 56,316 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ The Colombo Stock Exchange has approved the listing in principle.
 [Data](articles/a3e8db97.json)
 
 [Extended Data](ext_articles/a3e8db97.ext.json)
+
+---
+
+### Sri Lanka elected to UN Commission on International Trade Law
+
+*2024-11-22 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103688/sri-lanka-elected-to-un-commission-on-international-trade-law) · `en`
+
+Sri Lanka’s Foreign Ministry announced that Sri Lanka was among thirty-one (31) members elected to the United Nations Commission on International Trade Law (UNCITRAL) by the UN General Assembly on 20 November 2024.
+
+In a statement, the Ministry of Foreign Affairs emphasized that, Sri Lanka contested for a seat from the Asia Pacific Group, and secured 177 votes. This was the second highest number of votes within the group, and second highest overall among the thirty-one members elected.
+
+Other member states elected from the Asia Pacific Group to the UNCITRAL are Malaysia, The Philippines, Singapore, Viet Nam, China, Japan and Republic of Korea.
+
+Sri Lanka will serve a six (6) year term, commencing in January 2025, the statement said.
+
+UNCITRAL, established in 1966 and headquartered in Vienna, is the core legal body in the field of international trade. Its mandate includes removing obstacles to trade and harmonising trade laws, it added.
+
+...
+
+[Data](articles/21228d28.json)
 
 ---
 
@@ -99,6 +119,22 @@ The Cabinet asked if Harin Fernando was responsible for this periodically.
 [Data](articles/8c7898e4.json)
 
 [Extended Data](ext_articles/8c7898e4.ext.json)
+
+---
+
+### Reducing sovereign stresses will support Sri Lankan banks’ credit profiles - Fitch
+
+*2024-11-22 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103687/reducing-sovereign-stresses-will-support-sri-lankan-banks-credit-profiles-fitch) · `en`
+
+Sri Lankan banks’ operating environment (OE) assessment and overall credit profiles will be supported by any improvement in the sovereign’s credit profile (Long-Term Foreign-Currency IDR: RD, Long-Term Local-Currency IDR: CCC-) following a completed debt restructuring, says Fitch Ratings.
+
+“This is due to the strong link between sovereign financial health and banks’ operating conditions. We believe this would be positive for the National Ratings of Fitch-rated large Sri Lankan banks – albeit based on their creditworthiness relative to other Sri Lankan issuers,” the rating agency said.
+
+Sri Lankan banks’ current OE score of ‘ccc-’/stable is linked closely to the sovereign’s local-currency credit profile, given their predominant exposure to the domestic economy and government securities (local-currency treasury instruments: 33.4% of assets and foreign currency instruments: 3.4% at end-1H24) and lending to the broader public sector.
+
+...
+
+[Data](articles/cea7bf51.json)
 
 ---
 
@@ -2291,57 +2327,5 @@ The decision has been taken due to traffic congestion at the Economic Center due
 [Data](articles/d164e478.json)
 
 [Extended Data](ext_articles/d164e478.ext.json)
-
----
-
-### Action to arrest those who damaged public property in Mannar
-
-*2024-11-21 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199363) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Police arresting individuals damaging property near Mannar General Hospital. Actions include targeting those who broke windows, threw stones, and vandalized tires. Police also reviewing hospital CCTV footage to identify participants in the unrest.
-
-🟩
-
-The police are taking steps to arrest the people who have been silent in front of the Mannar District General Hospital on Wednesday evening to demand justice for the death of a young mother who died at the Mannar General Hospital.
-
-In particular, steps are being taken to arrest those who have entered the hospital and damaged the glasses, the police throwing stones, and the tires, and the tires.
-
-Steps are being taken to arrest the hospital CCTV camera and the videos taken during the struggle and diverted the peaceful struggle through it.
-
-◼️
-
-[Data](articles/cf1da696.json)
-
-[Extended Data](ext_articles/cf1da696.ext.json)
-
----
-
-### Sri Lanka Tamil National Alliance (TNA)
-
-*2024-11-21 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199362) · `ta`
-
-Sri Lanka Tamil National Alliance (TNA) faces criticism for anti-people activities. Despite challenges, TNA gained more seats in 2020 elections. They cooperate with government decisions and plan to negotiate solutions for Tamil issues.
-
-🟩
-
-From the TNA, a few were involved in anti -people activities. The people of the Northern and Eastern Provinces have made our party difficult, Sri Lanka Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said.
-
-He was speaking to the media after a speech of the government's policy announcement in Parliament on Thursday (21).
-
-The TNA is not currently. The Sri Lankan Tamil party is the main party. Tamil political parties have also been inconvenienced.
-
-From the TNA, a few were involved in anti -people activities. The people of the North and Eastern Province have made our party difficult.
-
-If the election decisions were made, the Sri Lanka Tamil National Party won six seats in the 2020 general election. This time has risen to eight. So the people of the North and East are always with us.
-
-...
-
-[Data](articles/6feb5831.json)
-
-[Extended Data](ext_articles/6feb5831.ext.json)
 
 ---

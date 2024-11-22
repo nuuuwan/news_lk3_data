@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 09:19:30**
+As of **2024-11-22 09:05:15**
 
 ## Newspaper Stats
 
-*Scraped **56,273** Articles*
+*Scraped **56,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,367
 economynextcom | 3,413
 dailyftlk | 3,859
 dailymirrorlk | 4,733
-adalk | 5,298
+adalk | 5,297
 adaderanalk | 6,795
-tamilmirrorlk | 7,992
+tamilmirrorlk | 7,991
 virakesarilk | 9,149
 adaderanasinhalalk | 9,709
 
@@ -26,29 +26,11 @@ adaderanasinhalalk | 9,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,270 (100.0%) of 56,273 articles have been extended.
+56,270 (100.0%) of 56,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
-
-### AI மூலம் நிர்வாண புகைப்படங்கள்; மாணவிகளுக்கு எச்சரிக்கை
-
-*2024-11-22 09:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-மூலம்-நிர்வாண-புகைப்படங்கள்-மாணவிகளுக்கு-எச்சரிக்கை/175-347605) · `ta`
-
-இலங்கையில் பாடசாலை மாணவிகளின் புகைப்படங்களை ஏ.ஐ தொழில்நுட்பத்தை பயன்படுத்தி நிர்வாண புகைப்படங்களாக வடிவமைத்து மாணவிகளை அச்சுறுத்தி மோசடியில் ஈடுபடும் சம்பவங்கள் அதிகரித்துள்ளது.
-
-எனவே மாணவிகள் எச்சரிக்கையாக இருக்குமாறு  கணினி அவசர நடவடிக்கை பிரிவின் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல தெரிவித்தார்.
-
-கடந்த சில நாட்களாக இந்த மோசடி கும்பல் சமூக ஊடகங்களில் காணப்படும் பாடசாலை மாணவிகளின் புகைப்படங்களை  ஏ.ஐ தொழில்நுட்பத்தை பயன்படுத்தி நிர்வாண புகைப்படங்களாக மாற்றி, உரிய மாணவிகளிடம் அந்த புகைப்படங்களைப் பகிர்ந்து சமூக ஊடகங்களில் பதிவிடுவதாக அவர்களை அச்சுறுத்தி பல்வேறு தேவைகளைப் பூர்த்தி செய்கின்றனர்.
-
-இவ்வாறு பாதிக்கப்பட்ட மாணவிகள் இந்த மோசடி கும்பலுக்கு அஞ்சி தங்களது நிர்வாண புகைப்படங்களை அனுப்பி மோசடி கும்பலின் ஆலோசனைகளைப் பின்பற்றுகின்றனர். எனவே இச் சம்பங்கள் கடந்த சில நாட்களாக அதிகரித்துள்ளதாகவும் இதில் உயர்தர மாணவிகளே அதிகளவில் பாதிக்கப்பட்டுள்ளனர்.  எனவே இவ்வாறான மோசடி கும்பலிடம் மாணவிகள் எச்சரிக்கையாக இருக்கவேண்டும்  என அவர் தெரிவித்தார்.  R
-
-◼️
-
-[Data](articles/0d09d89c.json)
-
----
 
 ### The first holiday for schools today
 
@@ -1948,22 +1930,6 @@ A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov21/
 
 ---
 
-### උද්ධමනය තවදුරටත් සෘණ වෙයි
-
-*2024-11-21 16:53:05* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-සෘණ-වෙයි/11-413206) · `si`
-
-2024 සැප්තැම්බර් මාසයේදී -0.2%ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය ඔක්තෝබර් මාසය සඳහා -0.7%ක් දක්වා අඩු වී තිබේ.
-
-සැප්තැම්බර් මාසයේදී 0.5%ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය ඔක්තෝබර් මාසයේදී 1.3%ක් දක්වා වැඩි වී ඇත.
-
-එමෙන්ම සැප්තැම්බර් මාසයේදී -0.7%ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය ඔක්තෝබර් මාසයේදී -2.3%ක් දක්වා අඩු වී ඇත.
-
-◼️
-
-[Data](articles/0c271b71.json)
-
----
-
 ### Appointment of 29 Deputy Ministers
 
 *2024-11-21 16:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-பிரதியமைச்சர்கள்-நியமனம்/175-347577) · `ta`
@@ -2439,5 +2405,59 @@ I promise to protect the dignity and independence of the country's superior parl
 [Data](articles/bd99c81a.json)
 
 [Extended Data](ext_articles/bd99c81a.ext.json)
+
+---
+
+### The National List issue does not regard the issue - Opposition Leader Sajith
+
+*2024-11-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199323) · `ta`
+
+Sajith Premadasa: National List issue not a problem. Decisions made democratically. Prioritize public needs over opportunistic politics.
+
+🟩
+
+We do not consider the National List issue as a problem. The decisions will be taken with the understanding. Opposition leader Sajith Premadasa said that I am not saying that the national list seat cannot be given to the failed.
+
+He further stated that he was speaking to the media after a special meeting with party members at the United People's Power Headquarters on Wednesday.
+
+We will realize the reality and take the next step. A similar party will take steps to correct the fall of the party and to correct them. We will start a new journey soon.
+
+We have taken a lesson of failure and setbacks as a lesson. We do not consider the National List issue as a problem. The decisions will be taken with the understanding. In the last general election, it took 11 months to elect a member of the United National Party (UNP).
+
+...
+
+[Data](articles/01f0c96e.json)
+
+[Extended Data](ext_articles/01f0c96e.ext.json)
+
+---
+
+### I will cooperate fully with investigations into drug fraud - former Health Minister Ramesa Pathirana
+
+*2024-11-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199325) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Former Health Minister Ramesa Pathirana pledges full cooperation with investigations into pharmaceutical procurement scams. He visited CID to confess and expressed readiness to assist legal proceedings.
+
+🟩
+
+Former Health Minister Ramesa Pathirana said that I am ready to give full cooperation to any investigation into the pharmaceutical procurement scams in the Ministry of Health.
+
+He was responding to journalists' questions when he visited the Criminal Investigation Department on Thursday (21) to confess on drug scams.
+
+I am ready to give full cooperation to any investigation into the pharmaceutical procurement scams that have been held in the past. Cabinet decisions are taken with the approval of the Ministry of Finance on the advice of various officials.
+
+So in the resolutions taken in this regard there are no problems on our side. However, we are also ready to cooperate because the case is being carried out in court.
+
+It is clear that the drug problem has occurred during the production. Investigations are being carried out in their connection. I am here to cooperate with them. I congratulate the new Minister of Health.
+
+◼️
+
+[Data](articles/431ecc11.json)
+
+[Extended Data](ext_articles/431ecc11.ext.json)
 
 ---

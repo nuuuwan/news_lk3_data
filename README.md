@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 00:02:40**
+As of **2024-11-23 00:16:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,388 (100.0%) of 56,392 articles have been extended.
+56,392 (100.0%) of 56,392 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1024,6 +1024,8 @@ A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov22/
 
 [Data](articles/33d27f00.json)
 
+[Extended Data](ext_articles/33d27f00.ext.json)
+
 ---
 
 ### Parliamentarian Archtuna complaint against Ramanathan
@@ -1349,6 +1351,8 @@ Sampath Bank closed up at 94.10, Hatton National Bank closed flat 229.00, Nation
 ...
 
 [Data](articles/e6a049fb.json)
+
+[Extended Data](ext_articles/e6a049fb.ext.json)
 
 ---
 
@@ -1780,6 +1784,8 @@ In May, Dipped Products Plc opened a marketing office in Mumbai, India as part o
 
 [Data](articles/87fa8e12.json)
 
+[Extended Data](ext_articles/87fa8e12.ext.json)
+
 ---
 
 ### Singapore’s Jetstar Asia launches direct flights to Colombo
@@ -1795,6 +1801,8 @@ The inaugural flight arrived at the island nation’s Bandaranaike International
 ...
 
 [Data](articles/6cf6d917.json)
+
+[Extended Data](ext_articles/6cf6d917.ext.json)
 
 ---
 

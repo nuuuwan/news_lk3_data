@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 11:13:54**
+As of **2024-11-22 13:12:20**
 
 ## Newspaper Stats
 
-*Scraped **56,295** Articles*
+*Scraped **56,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,74 +13,336 @@ dbsjeyarajcom | 435
 colombotelegraphcom | 575
 bbccomsinhala | 586
 islandlk | 3,367
-economynextcom | 3,413
-dailyftlk | 3,860
+economynextcom | 3,421
+dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,298
-adaderanalk | 6,800
+adalk | 5,299
+adaderanalk | 6,803
 tamilmirrorlk | 7,999
 virakesarilk | 9,154
-adaderanasinhalalk | 9,712
+adaderanasinhalalk | 9,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,287 (100.0%) of 56,295 articles have been extended.
+56,310 (100.0%) of 56,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### நாகொடையில் பாலம் இடிந்து விழுந்ததில் ஒருவர் பலி
+### Sri Lanka’s National Development Bank to raise upto Rs5bn in debenture issue
+
+*2024-11-22 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-national-development-bank-to-raise-upto-rs5bn-in-debenture-issue-189442/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National Development Bank Plc is planning to raise up to 5 billion rupees in a debenture issue, the bank said.
+
+The bank will issue 50 million BASEL III compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion at 100 rupees each.
+
+The Colombo Stock Exchange has approved the listing in principle.
+
+◼️
+
+[Data](articles/a3e8db97.json)
+
+---
+
+### Harin CID
+
+*2024-11-22 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203622) · `si`
+
+Here's a summary in approximately 200 characters:
+
+
+
+Harin Fernando denies Cabinet responsibility for administrative purchase incident. He claims 60+ Cabinet meetings and 70+ proposals reviewed. Secretaries present, Finance Ministry recommends. Never seen in Sri Lanka's history. Respectful of judiciary, seeking truth.
+
+🟩
+
+Former Minister Harin Fernando says he does not believe that the Cabinet is responsible for the administrative purchase incident.
+
+He was speaking at a statement to the CID regarding the incident today (22).
+
+The Criminal Investigation Department informed the court on the 11 th of the end of the Cabinet of Former Health Minister Keheliya Rambukwella for approval of the Cabinet paper.
+
+Investigations have been made to appear before the Criminal Investigation Division of the Criminal Investigation Department to preside to statements to the CID regarding the approval of the Criminal Investigation Division regarding the permission of the Cabinet. 01.
+
+Harin Fernando returned to the CID and Harin Fernando arrived today, and Harin Fernando arrived today.
+
+The Cabinet asked if Harin Fernando was responsible for this periodically.
+
+...
+
+[Data](articles/8c7898e4.json)
+
+[Extended Data](ext_articles/8c7898e4.ext.json)
+
+---
+
+### Sri Lanka’s LOLC Holdings divests shares in DFCC Bank for Rs3.5bn
+
+*2024-11-22 12:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-lolc-holdings-divests-shares-in-dfcc-bank-for-rs3-5bn-189432/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s LOLC Holdings said it divested 9.73 percent of its ordinary voting shares held in DFCC Bank through its sub-subsidiary LOLC Investment Holdings Three (Private) Limited for 3.5 billion rupees.
+
+A total 42.1 million shares were sold at 85.00 rupees each, the company said in a stock exchange filing.
+
+LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issue in 2022.
+
+◼️
+
+[Data](articles/93f5fdd6.json)
+
+[Extended Data](ext_articles/93f5fdd6.ext.json)
+
+---
+
+### Sri Lanka revealed as most popular solo travel destination for 2025
+
+*2024-11-22 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103686/sri-lanka-revealed-as-most-popular-solo-travel-destination-for-2025) · `en`
+
+Solo travellers are getting older and are increasingly drawn to Asian destinations – with Sri Lanka securing the most popular spot for 2025, says new data from Flash Pack.
+
+Flash Pack’s latest trends report reveals Sri Lanka has claimed the top spot for solo travel in 2025, advancing from fourth place in 2024.
+
+The appeal is clear, says Flash Pack: “Sri Lanka packs in all the punch of India – only on a smaller, more accessible scale, and delivered at a much slower pace.” The company highlights diverse experiences from “incense-swirled cities, buzzing with tuk tuks” to “misty highlands steeped in tea plantations” and dramatic coastlines.
+
+“But where Sri Lanka really comes into its own,” the company adds, “is its easy-going balance of beaches, spoiling hotels and restorative, delicately spiced food.”
+
+...
+
+[Data](articles/0415f62f.json)
+
+[Extended Data](ext_articles/0415f62f.ext.json)
+
+---
+
+### Sri Lanka elected to UN Commission on International Trade Law
+
+*2024-11-22 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-elected-to-un-commission-on-international-trade-law-189425/) · `en`
+
+ECONOMYNEXT – Sri Lanka has been elected to the United Nations Commission on International Trade Law (UNCITRAL) to serve a 6-year term starting January 2025, the Ministry of Foreign Affairs said in a statement.
+
+The island nation contested for a seat from the Asia Pacific Group and secured 177 votes.
+
+Among the 31 member states elected from the Asia Pacific Group to the UNCITRAL are Malaysia, The Philippines, Singapore, Viet Nam, China, Japan and Republic of Korea.
+
+“Sri Lanka’s legislation for the facilitation of trade and investment such as the Sri Lanka Arbitration Act and the Electronic Transaction Act have benefitted from model laws by UNCITRAL,” the ministry said.
+
+UNCITRAL, established in 1966 and Headquartered in Vienna, is the core legal body in the field of international trade. Its mandate includes removing obstacles to trade and harmonising trade laws.  (Colombo/Nov22/2024)
+
+◼️
+
+[Data](articles/6310fe93.json)
+
+[Extended Data](ext_articles/6310fe93.ext.json)
+
+---
+
+### Lohan's wife further remanded
+
+*2024-11-22 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203621) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Rashi Prabha Ratwatte, wife of Lohan Ratwatte, remanded again. Ordered by Nugegoda Magistrate's Court on Dec 2. Arrested over illegal assembly involving a car. Court rejected bail request on Nov 18. Former state minister also remanded until Dec 2.
+
+🟩
+
+Rashi Prabh Ratwatte, wife who has been remanded and remanded.
+
+The order has been issued after submitting the Nugegoda Magistrate's Court today (22).
+
+Rashi Prabha Ratwatte and Lohan Ratwatte has been arrested in connection with an incidental assembled car.
+
+The Nugegoda Magistrate's Court on the 18th of this month, the court refused.
+
+The former state minister was ordered to be remanded until December 2nd and his wife to be remanded.
+
+◼️
+
+[Data](articles/ae76dd20.json)
+
+[Extended Data](ext_articles/ae76dd20.ext.json)
+
+---
+
+### Lohan Ratwatte’s wife further remanded
+
+*2024-11-22 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103685/lohan-ratwattes-wife-further-remanded) · `en`
+
+Former Minister Lohan Ratwatte’s wife Shashi Prabha Ratwatte has been further remanded until December 02 after she was produced before the Nugegoda Magistrate’s Court today (22).
+
+On November 18, Former Minister Lohan Ratwatte was further remanded until December 2, while his wife had been further remanded until November 22 after they were produced before the Nugegoda Magistrate’s Court.
+
+They were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, had previously been remanded in custody until November 18 by the Nugegoda Magistrate’s Court.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/f228d90a.json)
+
+[Extended Data](ext_articles/f228d90a.ext.json)
+
+---
+
+### Pilleyan arrives at CID again to record statement
+
+*2024-11-22 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103684/pilleyan-arrives-at-cid-again-to-record-statement-) · `en`
+
+Former state minister Sivanesathurai Chandrakanthan alias Pilleyan has arrived at the Criminal Investigation Department (CID) once again this morning (22) to provide a statement.
+
+Statements are being recorded from him in connection with investigations related to the controversial documentary aired by the British television network Channel 4 concerning the 2019 Easter Sunday terror attacks in Sri Lanka.
+
+Pilleyan previously appeared before the CID on November 20, where he had stated his preference to provide the statement in Tamil. He was subsequently instructed to return today after arrangements were made for language translation.
+
+On 06 September 2023, Channel 4 aired a controversial documentary containing startling accusations relating to the bombings on Easter Sunday (April 21) in 2019 which targeted several Catholic churches and luxury hotels in Sri Lanka. The carnage claimed the lives of more than 260 people and left hundreds of others wounded.
+
+...
+
+[Data](articles/be4fa7cb.json)
+
+[Extended Data](ext_articles/be4fa7cb.ext.json)
+
+---
+
+### Sri Lanka tea production down 8-pct in October 2024, exports up
+
+*2024-11-22 11:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-8-pct-in-october-2024-exports-up-189407/) · `en`
+
+ECONOMYEXT – Sri Lanka’s tea production fell 8 percent to 21.15 million kilograms in October, data showed, while exports were up 14 percent to 20 million kilograms.
+
+In the 10 months to October production was 217.65 up 0.5 percent to 216.49 million, Ceylon Tea Brokers said citing Sri Lanka Tea Board data.
+
+Exports were up 1.7 percent in the 10 months to 203 million kilograms.
+
+Export earnings in October 2024 were 126 million up 32.6 percent from 95 million in 2023.
+
+Earnings in the first 10 months were 1.1 billion dollars, against 1 billion last year.
+
+In October 2024 low growns were 12.4 million, down from 13.8 million in October 2023.
+
+In October bulk tea was up at 8.8 million, from 7.6 million last year.
+
+◼️
+
+[Data](articles/26d37907.json)
+
+[Extended Data](ext_articles/26d37907.ext.json)
+
+---
+
+### Excavations launched near the highway in search of treasures
+
+*2024-11-22 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203620) · `si`
+
+Treasure hunt near Veyangoda highway: Excavation ordered by court, several arrests made, no treasure found by Archeology Dept., STF investigation ongoing.
+
+🟩
+
+The excavation of a treasure under the ground near the central expressway in Veyangoda, Veyangoda commenced its treasure.
+
+These activities are carried out following a court order given by the Attanagalla Magistrate's Court.
+
+Several years have been dug by treasure hunters in several years.
+
+Several people have been arrested by the security sector in several occasions.
+
+The Veyangoda Police say that there is also a monk among those arrested.
+
+It has been revealed that there was no treasure in the investigation carried out by the Department of Archeology.
+
+However, an investigation made by the STF revealed that there was something inside the earth.
+
+According to the Attanagalla Magistrate's Court, the Department of Archeology, Mining and Geology Bureau, the supervision of the officials and the public with the participation of the public.
+
+◼️
+
+[Data](articles/7628c81e.json)
+
+[Extended Data](ext_articles/7628c81e.ext.json)
+
+---
+
+### One person killed when a bridge collapsed in Nagoda
 
 *2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199381) · `ta`
 
-காலி, நாகொடை பத்தேகம பிரதேசத்தில் கிங் கங்கையின் குறுக்கே உள்ள இரும்புப் பாலம் நேற்று வியாழக்கிழமை (21) திடீரென இடிந்து விழுந்ததில் ஒருவர் உயிரிழந்துள்ளதாக நாகொடை பொலிஸார் தெரிவித்தனர்.
+Bridge collapses in Nagoda, one person killed. Incident occurred on Thursday during maintenance work. Victim trapped under debris. Police investigation ongoing.
 
-உயிரிழந்தவர் நேற்றைய தினம் இரும்புப் பாலத்தில் திருத்தப்பணிகளில் ஈடுபட்டிருந்தபோது இப்பாலம் திடீரென இடிந்து விழுந்துள்ளது.
+🟩
 
-இதன்போது பாலத்தில் திருத்தப்பணிகளில் ஈடுபட்டிருந்தவர் பாலத்துக்கு அடியில் சிக்கி சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was killed when a sudden collapse of the iron bridge across the King Ganga in Galle, Nagoda, Nagoda, collapsed on Thursday (21), Nagoda police said.
+
+The bridge suddenly collapsed when the deceased was engaged in correction at the Iron Bridge yesterday.
+
+The man who was involved in the bridge was trapped under the bridge, police said.
 
 ◼️
 
 [Data](articles/7142b7f7.json)
 
+[Extended Data](ext_articles/7142b7f7.ext.json)
+
 ---
 
-### அமெரிக்காவின் குற்றச்சாட்டுகளை தொடர்ந்து அதானி குழுமத்தின் திட்டங்கள் குறித்து இலங்கை எச்சரிக்கையாக இருக்கவேண்டும் - நிபுணர்கள்
+### Sri Lanka should be cautious about the plans of Adani Group following US allegations - experts
 
 *2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199386) · `ta`
 
-இலங்கை அதானிகுழுமத்தின் வலுசக்தி திட்டங்கள் குறித்து எச்சரிக்கையுடன் இருக்கவேண்டும் என நிபுணர்கள் தெரிவித்துள்ளனர்.
+Sri Lanka urged caution over Adani Group plans amid US lawsuit allegations. Experts warn of potential corruption risks, citing past scandals like Airbus fraud and Pandora Papers revelations. Social media calls for investigation into Adani's projects, aligning with anti-corruption promises made by newly elected officials.
 
-அதானி குழுமத்தின் தலைவர் கௌதம் அதானி உட்பட ஏழு பேருக்கு எதிராக அமெரிக்கா மோசடி குற்றச்சாட்டுகளை சுமத்தி பிடியாணை பிறப்பித்துள்ளது.
+🟩
 
-இலங்கையில் நிகழ்ந்த ஊழல்கள் குறித்த விபரங்கள் வேறு நியாயாதிக்கங்களி;ல் அம்பலமாவதை பார்த்திருக்கின்றோம் என கொழும்பை தளமாக கொண்ட வெரிட்டே ரிசேர்ச்சின் நிறைவேற்று பணிப்பாளர் நிசான் டி மெல் தெரிவித்துள்ளார்.
+Experts have said that Sri Lanka should be cautious about the strength of power.
 
-சிலவருடங்களிற்கு முன்னர் பிரிட்டனில் இடம்பெற்ற விசாரணையின்போது எயர்பஸ் நிறுவனத்திடமிருந்து ஸ்ரீலங்கன் எயர்லைன்சிற்கான எயர்பஸ் கொள்வனவில் மோசடிகள் ஊழல்கள் இடம்பெற்றதாக குற்றச்சாட்டு வெளியானதை அவர் சுட்டிக்காட்டியுள்ளார்.
+The US has issued a lawsuit against seven people, including Adani Group Chairman Gautam Adani.
 
-பண்டோரா பேப்பரில் உள்ளுர் அரசியல்வாதிகள்,வர்த்தகர்களின் பெயர்கள் வெளியானதை சுட்டிக்காட்டியுள்ள அவர் நிசான் டிமெல் ஊழல் உடன்படிக்கைகளில் இருந்து நாங்கள் பாதுகாக்கப்படுவதை உறுதி செய்வதற்காக  ஊழலிற்கு எதிரான தனது நடவடிக்கைகளை இலங்கை இரட்டிப்பாக்குவது அவசியம் என தெரிவித்துள்ளார்.
+"We have seen the details of the corruption in Sri Lanka," said Nissan de Mel, the Colombo -based Veritte Research, said.
+
+He pointed out that a few years ago, he was accused of fraudulent scams at the Airbus purchase for SriLankan Airlines from Airbus.
+
+Pointing out the release of local politicians and traders on Pandora Paper, he said that Sri Lanka should double his actions against corruption to ensure that we are protected from the Nissan Demel scam.
+
+Many people have commented on social media that the Anura Kumaratisanayake government should conduct a serious investigation into the Adani Group's strength plans in Sri Lanka after the release of the Adani Group's bribery scandal.
+
+They pointed out that Anura Kumara Dissanayake, who won the presidential election in September, also promised to eradicate corruption.
 
 ...
 
 [Data](articles/9de9a917.json)
 
+[Extended Data](ext_articles/9de9a917.ext.json)
+
 ---
 
-### வெல்லம்பிட்டியில் அடுக்குமாடி குடியிருப்பில் தீ விபத்து
+### Fire at an apartment in Wellampitiya
 
 *2024-11-22 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199384) · `ta`
 
-வெல்லம்பிட்டிய, சாலமுல்ல வீடமைப்புத் திட்டத்தில் உள்ள அடுக்குமாடி குடியிருப்பில் இன்று வெள்ளிக்கிழமை (22) காலை தீ விபத்து ஏற்பட்டுள்ளதாக வெல்லம்பிட்டிய பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-இந்த தீ விபத்துக்கு விரைவில் தீர்வு பெற்று தர வேண்டும் என வலியுறுத்தி அப்பகுதி மக்கள்  குடியிருப்பு அருகே போராட்டத்தில் ஈடுப்பட்டனர். இதன்போது, தற்போதைய அரசாங்கத்திற்கு சிரமங்களை ஏற்படுத்துவதற்காக வேண்டுமென்றே தீ வைக்கப்பட்டுள்ளதாகவும் பொதுமக்களில் சிலர் தெரிவித்துள்ளனர்.
 
-தீ கட்டுப்பாட்டுக்குள்  கொண்டுவரப்பட்டதுடன், எவருக்கும் காயம் ஏற்படவில்லை. தீ விபத்துக்கான காரணம் இதுவரை கண்டறியப்படவில்லை.
+
+"Fire breaks out at Wellampitiya apartment. Residents protest for quick resolution. Government accused of causing difficulties. Fire contained, no injuries reported. Cause unknown."
+
+🟩
+
+Wellampitiya police said that a fire broke out this morning (22) morning at an apartment in the Salamulla Housing Project in Wellampitiya.
+
+The people of the area were protesting near the residence, demanding that the fire be resolved soon. In the meantime, some of the public have said that the current government has been deliberate to cause difficulties.
+
+Was brought under control and no one was hurt. The cause of the fire has not yet been identified.
 
 ◼️
 
 [Data](articles/8e7515e7.json)
+
+[Extended Data](ext_articles/8e7515e7.ext.json)
 
 ---
 
@@ -104,43 +366,61 @@ As a result, there will be a delay in railway services operating in the morning,
 
 ---
 
-### முத்துராஜா யானையின் தந்தங்களை வெட்ட தாய்லாந்து கால்நடை வைத்தியர்கள் தீர்மானம்
+### Thailand veterinarian resolution to cut Muthuraja elephant's ivory
 
 *2024-11-22 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199379) · `ta`
 
-இலங்கையில் இருந்து தாய்லாந்துக்கு கொண்டு செல்லப்பட்ட 29 வயதுடைய முத்துராஜா என்ற பிளாய் சக் சுரின் யானையின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்காக அதன் தந்தங்களை வெட்டுவதற்கு கால்நடை வைத்தியர்கள் தீர்மானித்துள்ளனர்.
+Thai vet team considers removing Muthuraja elephant's ivory to ease mobility issues. The 29-year-old pachyderm, relocated from Sri Lanka, struggles lifting its head due to the heavy tusk. Experts weigh options, but require permissions from various organizations before proceeding.
 
-இந்த யானை தற்போது தாய்லாந்து நாட்டின் லாம்பாங் நகரத்தில் உள்ள தாய் யானைகள் பாதுகாப்பு மையத்தில் உள்ளது.
+🟩
 
-மலைப்பாங்கான பகுதிகளில் செல்லும்போது தந்தங்கள் தரையில் சிக்கி இழுக்கப்படுவதைத் தடுக்க அதன் தலையை தூக்கவேண்டியுள்ளதால் முத்துராஜா பெரும் சிரமங்களை எதிர்கொண்டு வருகிறது.
+Veterinary doctors have decided to cut off their ivory to improve the quality of life of Muthuraja, 29 -year -old Muthuraja, who was taken to Thailand from Sri Lanka.
 
-யானையின் தந்தங்களின் எடையைக் குறைப்பது தொடர்பில் நிபுணர்களிடம் கலந்துரையாடல் நடைபெற்று வருகிறது. எனினும், எந்தவொரு தீர்மானத்தையும் முன்னெடுக்க பல அமைப்புகளின் கருத்துக்கள் மற்றும் அனுமதி தேவைப்படும்.
+The elephant is currently at the Mother Elephant Safety Center in Lampang, Thailand.
 
-ப்ளாய் சாக் சுரின் யானையின் முன் இடதுகாலில் காயம் இருப்பதால் நடமாடுவதில் சிக்கல் ஏற்பட்டுள்ளது. தொடர்ந்து சிகிச்சை அளிக்கப்படுவதால் உடல் நலம் முன்னேற்றம் அடைந்து வருகிறது என தெரிவித்துள்ளார்.
+Muthuraja is facing great difficulties as it has to lift its head to prevent the ivory from being trapped on the ground.
 
-2001ஆம் ஆண்டு தாய்லாந்து நாட்டினால் இலங்கைக்கு பரிசாக வழங்கப்பட்ட யானைகளில் முத்துராஜாவும் ஒன்றாகும்.
+Discussions are underway with experts regarding the weight of the elephant's ivory. However, the opinions and permission of many organizations will be required to carry out any resolution.
+
+Blai Sock Surrun Elephant has trouble walking due to injury in front of the front leg. He said that the continued treatment is making improvement.
+
+Muthuraja was one of the elephants gifted to Sri Lanka by 2001.
 
 ◼️
 
 [Data](articles/1bd71f78.json)
 
+[Extended Data](ext_articles/1bd71f78.ext.json)
+
 ---
 
-### පිල්ලෙයාන් අදත් CIDයට එයි
+### Pilleyan is still under CID
 
 *2024-11-22 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203619) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන් අද (22) දිනයේත් ප්‍රකාශයක් ලබාදීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ ඇත.
+Pilleyan CID appearance Easter attack investigation Channel 4 claims
 
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් බ්‍රිතාන්‍යයේ චැනල් 4 නාලිකාව විකාශය කළ වැඩසටහනක සඳහන් වූ කරුණු සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව එලෙස ඔහුගෙන් ප්‍රකාශ සටහන් කරගනු ඇත.
+🟩
 
-පෙරේදා (20) දිනයේත් ඔහු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනීසිටි අතර එහිදී සිවනේසතුරෙයි චන්ද්‍රකාන්තන් පවසා ඇත්තේ දමිළ භාෂාවෙත් සිය ප්‍රකාශය ලබාදීමට අවශ්‍ය බවය. ඊට අදාළ භාෂා පරිවර්තන කටයුතු සූදානම් කිරීමෙන් පසු අද දිනයේ ඔහුට පැමිණෙන ලෙස දැනුමී තිබේ.
+Former State Minister Sivanesathurai Chandrakanthan, or Pilleyan has arrived at the CID today (22).
 
-විනාඩි 50කට ආසන්න කාලයක් විකාශය කෙරුණු අදාළ වීඩියෝවේ සම්මුඛ සාකච්ඡා සඳහා එක්වෙමින් තොරතුරු ඉදිරිපත් කර තිබුණේ හිටපු රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන්ගේ කණ්ඩායමේ මාධ්‍ය ප්‍රකාශක ලෙස කටයුතු කළ ස්විට්සර්ලන්තයේ රැඳී සිටින අසාද් මවුලානා නැමැත්තෙකි.
+He will record statements in relation to the investigations into the facts mentioned in the British Channel 4 of the British Channel 4 regarding the Easter attack.
+
+Sivanesathurai Chandrakantan has said that he had stated to the Criminal Investigation Department on Monday (20).. After making the translation translation work, he has knowledgeable today.
+
+An Assad Moulana, who was the party's press stories in Sivanesathurai Chandrakanthan, or Pillayan's team, was a partner in Siva Owners.
+
+The Ministry of Defense has received a complaint to the Ministry of Defense, which has been revealed in the contents of the video.
+
+Former Minister of State Sivanesathurai Chandrakanthan, or Pilleyan, has been called on the CID.
+
+However, the former Minister of former Minister of Parliament was not appearing before the CID.
 
 ...
 
 [Data](articles/b3b0a3b2.json)
+
+[Extended Data](ext_articles/b3b0a3b2.ext.json)
 
 ---
 
@@ -166,29 +446,39 @@ It has also been reported that the party is focusing on the inclusion of MPs rep
 
 ---
 
-### IPL අදියර තුනක් සඳහා දින නියම වෙයි
+### IPL set for three stages
 
 *2024-11-22 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203618) · `si`
 
-ලොව වඩාත් ආකර්ෂණීයම ෆ්‍රැන්චයිස් ක්‍රිකට් ලීගය ලෙසින් සැලකෙන ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ 2025 අදියර ඇතුළුව ඉදිරි තරගාවලි තුනක් පැවැත්වෙන කාලසීමාවන් නිවේදනය කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මෙලෙස IPL අදියර තුනක තරග පැවැත්වෙන කාලසීමාවක් ප්‍රසිද්ධියට පත්කළ පළමු අවස්ථාව මෙය වෙයි.
 
-ඒ අනුව එළැඹෙන 2025 අදියර මාර්තු 14 වනදා ආරම්භ වන අතර, එහි අවසන් මහා තරගය මැයි 25 වනදා පැවැත්වීමට කටයුතු යොදා ඇත.
 
-එමෙන්ම 2026 තරගවාරය මාර්තු 15 වනදා ආරම්භ වී මැයි 31 දක්වා පැවැත්වෙන අතර, 2027 තරගවාරය මාර්තු 14 සිට මැයි 30 දක්වා පැවැත්වීමට ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය තීරණය කර තිබේ.
+IPL 2025: 3 stages, Mar 14-May 25. 2026: Mar 15-May end. 2027: Mar 14-May 30. Matches increased from 74 to 94 in 2027.
 
-කෙසේ නමුත් මෙම වසරේ පැවැත් වූ තරග සංඛ්‍යාවට වඩා එළැඹෙන අදියර දෙකේ තරග සංඛ්‍යාව වැඩිකර ඇත.
+🟩
 
-ඒ අනුව 2025 හා 2026 අදියරයන්හි තරග සංඛ්‍යාව 84ක් දක්වා වැඩිකර තිබේ.
+The most attractive Franchisis League, the world's most exciting Frances, the Indian Premier League cricket tournament has been announced, including the 2025 tournamental periods.
 
-එමෙන්ම 2027 වසරේදී එම සංඛ්‍යාව තවත් වැඩිකර තරග 94ක් දක්වා ඉහළ දමා ඇත.
+This is the first time IPL has been made public for a period of three stages.
 
-කෙසේ නමුත් මෙම වසරේදී පැවැත්වූ තරගාවලියට ඇතුළත් වූයේ තරග 74කි.
+Accordingly, the stage of the coming phase will commence on March 14, and its final will be held on May 25.
+
+The 2026 tournament will commence on March 15 and the 2027 Competition has decided to hold the 2027 Competition from 14 March to May 30.
+
+However, the number of the two-stage competitions has been increased over this year.
+
+Accordingly, 2025 and 2026 have increased to 84 competitions.
+
+In 2027, the number increased to 94 mats.
+
+However, this year was 74 matches.
 
 ◼️
 
 [Data](articles/c30d87e3.json)
+
+[Extended Data](ext_articles/c30d87e3.ext.json)
 
 ---
 
@@ -220,6 +510,28 @@ War complaints against Israel have been filed in the Criminal Court. It is in th
 
 ---
 
+### Outlooks of Adani firms affiliated to Sri Lanka projects cut to negative by S&P
+
+*2024-11-22 09:45:00* · [`economynextcom`](https://economynext.com/outlooks-of-adani-firms-affiliated-to-sri-lanka-projects-cut-to-negative-by-sp-189375/) · `en`
+
+ECONOMYNEXT – The outlook of several Adani companies which are affiliates or parents of project companies in Sri Lanka have been cut to negative by S&P Global Ratings, after corruption and fraud charges were filed in the US against the group.
+
+The outlook of the BBB- rating of Adani Ports and Special Economic Zone Ltd, which is linked to a terminal project at Colombo port was cut to negative.
+
+Adani Green Energy Limited (AGEL), which is promoting a controversial wind power project in Sri Lanka’s Mannar area was not rated by S&P but the outlook of its financing SPV, Adani Green Energy Ltd Restricted Group 2, was cut to negative.
+
+US prosecutors filed charges against the Adani group and several senior executives alleging they bribed Indian officials to get solar power deals. Adani has denied the allegations.
+
+“The allegations could renew questions over the group’s governance practices and damage its reputation,” S & P said.
+
+...
+
+[Data](articles/e9f68ff9.json)
+
+[Extended Data](ext_articles/e9f68ff9.ext.json)
+
+---
+
 ### Strike at University of Ruhuna continues for fourth day
 
 *2024-11-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103683/strike-at-university-of-ruhuna-continues-for-fourth-day) · `en`
@@ -238,19 +550,51 @@ However, the University Trade Union Joint Committee (UTUJC), the Federation of U
 
 ---
 
-### செவனகல பகுதியில் மின்சாரம் தாக்கி நபரொருவர் உயிரிழப்பு!
+### Electricity in Sevanagala area
 
 *2024-11-22 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199378) · `ta`
 
-செவனகல பொலிஸ் பிரிவுக்குட்பட்ட கிரிவெவ பகுதியில் நேற்று வியாழக்கிழமை (21) மின்சாரம் தாக்கி விபத்துக்குள்ளான ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-உயிரிழந்தவர் வெலியார, செவனகல பகுதியைச்  சேர்ந்த 45 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
 
-வீட்டில் வேலை செய்து கொண்டிருந்த போது மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக பொலிஸார் விசாரணையில் தெரியவந்துள்ளது.
+
+Man electrocuted in Sevanagala's Kirivewa area. 45-year-old from Weliyara died while working at home. Police investigating cause of death.
+
+🟩
+
+A man who was hit by electricity was killed in the Kirivewa area of ​​the Sevanagala police division on Thursday (21), police said.
+
+The deceased is a 45 -year -old from Weliyara, Sevanagala, police said.
+
+Police investigations have revealed that the electricity was hit while working at home.
 
 ◼️
 
 [Data](articles/2b8cae38.json)
+
+[Extended Data](ext_articles/2b8cae38.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.90/95 to dollar, bonds steady
+
+*2024-11-22 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-90-95-to-dollar-bonds-steady-189376/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 290.90/95 to the US dollar on Friday from 290.95/291.05 to the US dollar on Thursday dealers said, while bond yields were stable.
+
+A bond maturing on 15.12.2026 was quoted at 10.10/25 percent, from 10.15/25 percent.
+
+A bond maturing on 15.12.2027 was quoted at 10.85/95 percent, up from 10.80/90 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.12/20 percent.
+
+In equities, the All Share Price Index opened down 0.34 points, dropping below the 13,000 mark to 12,981. The more liquid S&P SL20 opened down 0.08 percent, or 3.05 points, at 3,857.
+
+◼️
+
+[Data](articles/1366d67b.json)
+
+[Extended Data](ext_articles/1366d67b.ext.json)
 
 ---
 
@@ -418,19 +762,47 @@ Meanwhile, the Sri Lanka Muslim Congress (SLMC) yesterday announced M.S. Naleem,
 
 ---
 
-### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+### Sri Lanka bondholders in final round of negotiations: report
+
+*2024-11-22 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-in-final-round-of-negotiations-report-189370/) · `en`
+
+ECONOMYNEXT – Representatives of Sri Lanka’s sovereign bondholders have restricted themselves from trading indicating that they are in the final round of talks with the government to wrap up a bond restructure, a media report said.
+
+There was no immediate comment from either party, Bloomberg Newsires, a financial news service, said.
+
+Sri Lanka is expecting to conclude an exchange of new bonds to defaulted bonds in December, after two years of negotiations, President Anura Dissanayake told parliament on November 21.
+
+Sri Lanka has finalized a deal according to the International Monetary Fund’s, debt sustainability analysis for market access countries, where investors are seeking a higher paying if the country does better than projected.
+
+Under the framework agreement some plain vanilla bonds have been set aside where the coupons could fall on reaching some chosen governance indicators, which could be linked to fiscal performance (such as a revenue target) and/or corruption measures.
+
+...
+
+[Data](articles/565c7a19.json)
+
+[Extended Data](ext_articles/565c7a19.ext.json)
+
+---
+
+### Railway delay on the coastal route
 
 *2024-11-22 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203616) · `si`
 
-අද (22) උදෑසන දුම්රියක් කාර්මික දෝෂයකට ලක්වීම හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක් ඇතිවී තිබේ.
+Coastal route railway delay: Train from Galle to Mount Lavinia halted near Boossa due to technical issue. Other morning trains affected.
 
-ගාල්ලේ සිට ගල්කිස්ස දක්වා ධාවනය වෙමින් තිබූ දුම්රියක් බූස්ස දුම්රිය ස්ථානය ආසන්නයේදී එලෙස කාර්මික දෝෂයකට ලක්වී ඇත.
+🟩
 
-මේ හේතුවෙන් අද උදෑසන ධාවනය වන අනෙකුත් දුම්රියන් ද ප්‍රමාද විය හැකිය.
+The railway train was delayed due to a train today (22).
+
+A train traveling from Galle to Mount Lavinia has been subjected to a technical fault near the Boossa Railway Station.
+
+Due to this, other trains who are running this morning can be late.
 
 ◼️
 
 [Data](articles/504ee801.json)
+
+[Extended Data](ext_articles/504ee801.ext.json)
 
 ---
 
@@ -602,6 +974,30 @@ However, Sevanagala police are conducting further investigations.
 
 ---
 
+### Here are the sides that have exceeded 100 ml miters today
+
+*2024-11-22 07:33:49* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මිටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-413210) · `si`
+
+S1:0
+
+🟩
+
+The Department of Meteorology says that at the Bay of Bay Bay Bay Bay Bay Bay of Bay of Bay of Bay of Bay of Bay of Baying.
+
+The Department urges the public as the Meteorological Department of Meteorology, which will continue to travel to the eastern coast of the island.
+
+The Department of Meteorology says that showers have occurred in the Northern, North-central provinces today and in the Matale district.Thundershowers will develop at several places in the evening of the rest of the island.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම හා දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැකි විය බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+◼️
+
+[Data](articles/84500458.json)
+
+[Extended Data](ext_articles/84500458.ext.json)
+
+---
+
 ### Special notice to candidates sit to the A / L examination
 
 *2024-11-22 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203612) · `si`
@@ -691,6 +1087,28 @@ Meanwhile, the Department of Meteorology has been informed that a low-pressure z
 [Data](articles/f42a9343.json)
 
 [Extended Data](ext_articles/f42a9343.ext.json)
+
+---
+
+### Adani Kenya deals cancelled after US bribery charges
+
+*2024-11-22 06:33:00* · [`economynextcom`](https://economynext.com/adani-kenya-deals-cancelled-after-us-bribery-charges-189325/) · `en`
+
+ECONOMYNEXT – Kenya President William Ruto had cancelled by public announcement, two deals with India’s Adani group after bribery charges were filed in America linked to renewable energy contract in the South Asian nation which was part-financed by US investors, reports said.
+
+The Kenya Electricity Transmission Company Limited (KETRACO) and Adani Energy Solutions Limited had signed a 95.7 billion dollar Kenyan Schilling deal to operate and maintain lines and grid substations for 30 years.
+
+Adani group was also due to build a transmission line in Sri Lanka in a little-known deal linked to its controversial wind power plant.
+
+RElATED India’s Adani to build Sri Lanka transmission line with wind plants
+
+Activists had already gone to court against the plant in Sri Lanka which was awarded without tender. Sri Lanka’s new administration said soon after coming to power that the deal would be ‘reviewed’.
+
+...
+
+[Data](articles/d4a99c4c.json)
+
+[Extended Data](ext_articles/d4a99c4c.ext.json)
 
 ---
 
@@ -997,6 +1415,20 @@ Senior representatives from UN Global Compact Network Sri Lanka’s participant 
 [Data](articles/348840be.json)
 
 [Extended Data](ext_articles/348840be.ext.json)
+
+---
+
+### Virtusa: Engineering with purpose for better tomorrow
+
+*2024-11-22 02:12:10* · [`dailyftlk`](https://www.ft.lk/business/Virtusa-Engineering-with-purpose-for-better-tomorrow/34-769532) · `en`
+
+Sustainability is an ongoing journey, where every modest action contributes to a larger collective impact. Combined efforts have the potential to drive meaningful change. The pressing challenges of climate change, biodiversity loss, and the strain on planetary resources underscore the urgency to not only rethink, but also accelerate actions. This calls for enterprise leaders to adopt a deliberate approach in shaping a vision for the future—leveraging opportunities presented by emerging technologies like generative AI while embedding sustainable practices at the core of strategies.
+
+...
+
+[Data](articles/857440ec.json)
+
+[Extended Data](ext_articles/857440ec.ext.json)
 
 ---
 
@@ -1931,389 +2363,5 @@ Although his lawyer said he was sick, no medical certificates were submitted.
 [Data](articles/14aaafef.json)
 
 [Extended Data](ext_articles/14aaafef.ext.json)
-
----
-
-### Arrest warrant issued against former Minister Douglas Devananda
-
-*2024-11-21 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103676/arrest-warrant-issued-against-former-minister-douglas-devananda) · `en`
-
-The Colombo Magistrate’s Court today (21) issued an arrest warrant against former Minister Douglas Devananda after he failed to appear before the court to testify in an ongoing case.
-
-The case pertaining to a complaint lodged by Devananda with the Criminal Investigation Department (CID) in 2016, accusing Wellawatta-based businessman Subramaniam Manoharan of issuing two fraudulent cheques, each valued at Rs. 10 million, was taken up before the court today.
-
-Despite being summoned to testify in court today, former Minister Devananda was absent. While his attorney claimed he was unwell, no medical documentation was submitted to substantiate the claim, Ada Derana reporter said.
-
-Given the lack of credible justification for his absence, the Magistrate ordered the issuance of warrants to arrest and produce Devananda in court.
-
-◼️
-
-[Data](articles/bd4369c7.json)
-
-[Extended Data](ext_articles/bd4369c7.ext.json)
-
----
-
-### MS Naleem was selected on the national list
-
-*2024-11-21 19:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்-பட்டியலில்-தெரிவானார்-எம்-எஸ்-நளீம்/175-347579) · `ta`
-
-Here's a 200-character summary:
-
-
-
-MS Naleem chosen for national list by Sri Lanka Muslim Congress. Former Eravur Municipal Council Chairman elected as National List Member of Parliament.
-
-🟩
-
-The Sri Lanka Muslim Congress (SLMC) has elected MS Naleem, former Chairman of the Eravur Municipal Council as its National List Member of Parliament.
-
-◼️
-
-[Data](articles/9b2f465a.json)
-
-[Extended Data](ext_articles/9b2f465a.ext.json)
-
----
-
-### An Opposition Leader Same MP was not a Member of Parliament
-
-*2024-11-21 19:09:49* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂ-නායක-අසුනේ-වාඩිවුණ-මන්ත්‍රී-ජාජබ-මන්ත්‍රීවරයෙක්-නෙමෙයි/11-413209) · `si`
-
-Opposition Leader not in Parliament: Chief denies claim. Statement clarifies MP replaced by 17 independents from Jaffna. Debunks media reports of involvement in national issues.
-
-🟩
-
-The Chief of Government Whistter said that the Opposition Leader was not a member of the National Power in Parliament at the beginning of Parliament.
-
-The announcement states that the MP has been competed by the 17 Independent groups from the Jaffna district.
-
-The statement further states that some media reports that the MP is involved in the national country is false.
-
-◼️
-
-[Data](articles/910e5342.json)
-
-[Extended Data](ext_articles/910e5342.ext.json)
-
----
-
-### M.S. Naleem nominated as SLMC National List MP
-
-*2024-11-21 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103675/ms-naleem-nominated-as-slmc-national-list-mp) · `en`
-
-The Sri Lanka Muslim Congress (SLMC) has named the former Chairman of Eravur Urban Council, M.S. Naleem, as its National List MP.
-
-◼️
-
-[Data](articles/76057496.json)
-
-[Extended Data](ext_articles/76057496.ext.json)
-
----
-
-### Warrant issued for former Minister Douglas Devananda
-
-*2024-11-21 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203606) · `si`
-
-Colombo Magistrate's Court issues warrant for former Minister Douglas Devananda. Case filed by Criminal Investigation Department against Subramanium. Witness fails to appear, lawyer cites illness. Magistrate orders arrest and detention.
-
-🟩
-
-The Colombo Magistrate's Court today (21) has issued warrants today (21).
-
-The case was filed against the man named Subramanium, a resident of the Wellawatte, a complaint from the Criminal Investigation Department.
-
-When the case was taken up today, the Witness Douglas Devananda has not appeared in court to testify.
-
-His lawyer had informed that he was in illustration, but medical certificates that confirm that.
-
-Accordingly, the magistrate has issued a warrant for Douglas Devananda to be arrested and submit.
-
-◼️
-
-[Data](articles/7417b79f.json)
-
-[Extended Data](ext_articles/7417b79f.ext.json)
-
----
-
-### Man dies after repairing bridge
-
-*2024-11-21 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203605) · `si`
-
-A man died while repairing a bridge across Gin River Road in Galle. Police reported he died instantly due to the bridge's collapse. Recovery efforts are ongoing by Nagoda Police and residents.
-
-🟩
-
-The bridge was killed today (21st), a man who had been repairing a iron bridge across the Gin River road in Galle.
-
-Police said he had died on the spot due to the station of the bridge.
-
-Nagoda Police and residents of the Nagoda are working together to recover the bodies.
-
-◼️
-
-[Data](articles/855c520d.json)
-
-[Extended Data](ext_articles/855c520d.ext.json)
-
----
-
-### Eravur Muhammad Sally Naleem as National List of Muslim Congress
-
-*2024-11-21 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199358) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Eravur Muhammad Sally Naleem appointed National List Sri Lanka Muslim Congress. Secretary-General wrote letter National Elections Commission.
-
-🟩
-
-Eravur Muhammad Sali Naleem has been appointed as a member of the National List of the Sri Lanka Muslim Congress.
-
-Secretary -General of the Sri Lanka Muslim Congress has sent a letter to the National Elections Commission.
-
-◼️
-
-[Data](articles/c904d646.json)
-
-[Extended Data](ext_articles/c904d646.ext.json)
-
----
-
-### Israeli Prime Minister and former Defense Minister
-
-*2024-11-21 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199357) · `ta`
-
-Israeli PM, ICC judges, former Defense Minister, Hamas military commander arrested.
-
-🟩
-
-The judges of the International Criminal Court, the Israeli prime minister, the former Defense Minister of Israel and the military commander of Hamas have been arrested for arrest.
-
-◼️
-
-[Data](articles/45a46fa6.json)
-
-[Extended Data](ext_articles/45a46fa6.ext.json)
-
----
-
-### Hot Sight Transfer at Dambulla Economic Center
-
-*2024-11-21 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203604) · `si`
-
-Dambulla Economic Center: Traffic plan sparks heated exchange between vendors and authorities over mango marketing restrictions. Police intervention required. Trade union imposes fines, affecting shop operations.
-
-🟩
-
-A warm words that come to the Sales of the Dambulla Economic Center has a heated exchanges today (21).
-
-This has arisen with the implementation of a new traffic plan within the Dambulla Economic Center and introducing a new system of vegetables and fruits.
-
-The Economic Center Trade Union has decided to charge a fine of the trade association with a fines and temporarily cover the shops.
-
-However, the decision to cover up shops temporarily in the morning, the merchants who had come to marken the morning mango were severely tense.
-
-As a result, the police too had to intervene to control the situation.
-
-The vendors in order to marke the mango, they were not a place to marke the malfunction of the stores, as they were in lorries and the ground.
-
-Economic Center Trade of Trade. S. Mr. Siriwardena said that the marketing of mangoes is difficult to buy vegetables as well as vegetables.
-
-He said that this decision was taken due to the marketing system due to the marketing system.
-
-...
-
-[Data](articles/a4428832.json)
-
-[Extended Data](ext_articles/a4428832.ext.json)
-
----
-
-### Rauf Hakeem congratulates the new Speaker
-
-*2024-11-21 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199344) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rauf Hakeem congratulates new Speaker Asoka Sabumal. He emphasizes equal opportunities for all MPs, referencing JVP's 1994 entry. Hakeem highlights the importance of proportional representation for small parties and minority groups.
-
-🟩
-
-Rauf Hakeem, a member of the United People's Power and Sri Lanka Muslim Congress (Kandy) district member and leader of the Sri Lanka Muslim Congress, said that you will be able to take action to protect the rights of all members by giving all the equal opportunity to all the ruling opposition members during the debate.
-
-Dr. Asoka Sabumal, who was appointed as the new Speaker of the 10th Parliament on Thursday, congratulated Ranwala on Thursday.
-
-You have been elected as a new Speaker, not a Member of Parliament before, in the changing political age. We are heading the verdict of the people who voted for this change.
-
-As well as to remind you of a subject in this place. That is, the Speaker of the People's Liberation Front (JVP), which you represent, is the first time in 1994 to come to Parliament.
-
-...
-
-[Data](articles/445c6c3c.json)
-
-[Extended Data](ext_articles/445c6c3c.ext.json)
-
----
-
-### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
-
-*2024-11-21 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103674/icc-issues-arrest-warrants-for-israels-netanyahu-gallant-and-hamas-leader) · `en`
-
-Judges at the International Criminal Court (ICC) have issued arrest warrants for Israel’s prime minister and former defence minister, as well as Hamas’s military commander.
-
-A statement said a pre-trial chamber had rejected Israel’s challenges to the court’s jurisdiction and issued warrants for Benjamin Netanyahu and Yoav Gallant.
-
-A warrant was also issued for Mohammed Deif, although the Israeli military has said he was killed in an air strike in Gaza in July.
-
-It found there were “reasonable grounds” that the three men bore “criminal responsibility” for alleged war crimes and crimes against humanity during the war between Israel and Hamas. Both Israel and Hamas have rejected the allegations.
-
-◼️
-
-[Data](articles/b979cd40.json)
-
-[Extended Data](ext_articles/b979cd40.ext.json)
-
----
-
-### Two people were injured as the package opened
-
-*2024-11-21 17:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதியை-திறந்ததால்-இருவர்-படுகாயம்/175-347578) · `ta`
-
-Two fishermen injured when package exploded while fishing in Saudi seas. Package suspected to be dynamite. Admitted to Mannar District General Hospital and transferred to Jaffna General Hospital for further treatment.
-
-🟩
-
-Two fishermen who were fishing in the Saudbar seas belonging to the Mannar Police Division were admitted to the Mannar District General Hospital on Thursday (21) when the package exploded when the package exploded.
-
-S. Ramesh (age - 37) and A from Mannar Panangattu Kotu area. Aruganathan (age - 37) has been revealed.
-
-They have been admitted to the Mannar District General Hospital for treatment and taken to the Jaffna General Hospital for further treatment.
-
-The injured have voted at the hospital that the package exploded when they checked the packet that was floating in the sea.
-
-However, some fishermen who are fishing in the Mannar area have been suspected that the explosion may have occurred when the two fishermen were using a dynamite explosion as they were fishing.
-
-◼️
-
-[Data](articles/c81a0498.json)
-
-[Extended Data](ext_articles/c81a0498.ext.json)
-
----
-
-### Actor Param's 'Once Aban A Time in Madras' released in December
-
-*2024-11-21 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199348) · `ta`
-
-"Once Upon a Time in Madras" film directed by Prasad Murugan, starring Bharat, Shaun, Rajaji, Anjali Nair. Music and trailer released, expected December debut.
-
-🟩
-
-The film crew with a special photo of 'Ons Aban A Time in Madras' will be released in December.
-
-Directed by director Prasad Murugan, 'Ons Aban A Time in Madras', Bharat, Shaun, Rajaji, Abirami, Anjali Nair, Pavithra Lakshmi, Kannika, 'Thalaivasal' Vijay, Golden, PGS, Kalki and Syed.
-
-The film, which has been recorded by Kalidas and Kannan. The film is ready in the Hyper Link style thriller Janer. B.. Anand has produced.
-
-The film is expected to be released in December as the music and preview of the film has been released.. The film crew said that the release date will be officially released soon.
-
-◼️
-
-[Data](articles/320010a2.json)
-
-[Extended Data](ext_articles/320010a2.ext.json)
-
----
-
-### Inflation is reduced
-
-*2024-11-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203602) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Inflation drops: Oct '24 sees -10.7% overall, up from Sep's -2.3%. Food prices rise slightly from 0.5% to 1.3%. Non-food inflation decreases."
-
-🟩
-
-The Department of Census and Statistics announced that the inflation was reported to-10.7% for October 2024 in September 2024.
-
-The feeding of food recorded as 0.5% in September increased to 1.3% in October 2024.
-
-In September 2024, the non-foodstream point inflation has reduced to -2.3% in October 2024.
-
-◼️
-
-[Data](articles/5333f198.json)
-
-[Extended Data](ext_articles/5333f198.ext.json)
-
----
-
-### Douglas Devananda arrested
-
-*2024-11-21 17:13:49* · [`adalk`](https://www.ada.lk/breaking_news/ඩග්ලස්-දේවානන්දා-අත්අඩංගුවට-ගන්න-නියෝග/11-413207) · `si`
-
-Douglas Devananda arrested; court summons him as key witness in fraud case. Magistrate issues warrant after defendant fails to provide medical excuse. Case involves alleged cheating of businessman in 2016.
-
-🟩
-
-Epid to appear in court to give evidence in a case. Colombo Additional Magistrate Amarasene issued a warrant at the Leader Minister Douglas Devananda to the Court of Justice to the court.
-
-The magistrate issued a warrant for the notice of the court in the case of Rs.
-
-The CID has filed suicide against the businessman of the Wellawatte resident of the Wellawatte residents that the account has been cheated on two July 9, 2016.
-
-Duglas Devani, the chief witness of the case was not known in the case when the case was summoned.
-
-Did the Magistrate called the court submit a medical report on his illness?The lawyer asked the lawyer, and it would not submit a medical report.
-
-Attorney-at-Law Sampath Hewapathirana, appearing on behalf of the accused, was given last days to appear in court, but he pointed out that he was not presented in court today.
-
-After considering the facts of both sides, the Magistrate issued warrant for the witness in the case was held on January 23.
-
-◼️
-
-[Data](articles/2c80817e.json)
-
-[Extended Data](ext_articles/2c80817e.ext.json)
-
----
-
-### Actor Thambi Ramaiah composed the music of 'Raja Kili'
-
-*2024-11-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199347) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Actor Thambi Ramaiah composed music for 'Raja Kili'. Music launch held in Chennai featuring Samudrakani, Mubasir, Praveen. Directed by Umapati Ramaiah, produced by Suresh Kamakshi. Mix of Tamil films Vinodhaya Siddham and Rakhakannir.
-
-🟩
-
-The music release of the film 'Raja Gili', which plays the role of the Digital Yuga Super Star Supper Star, for the character of the South Indian film industry, was held in Chennai.
-
-Samudrakani, Thambi Ramaiah, Mubasir, Praveen, Vijay Kumaran, Subha Swetha, Andal Priyadarshini. The film is composed by Thambi Ramaiah and produced by producer Suresh Kamakshi on behalf of V House Productions.
-
-The film's music launch was held in Chennai on the 13th of December.. Producer Satya Jyoti DG Thiagarajan - Action King 'Arjun participated in the event.
-
-Speaking at the event, composer and actor Umapati Ramaiah said, “After starring in the film Vinodhaya Siddham, he was confident that the story of the film could be written.After writing this story, I decided that I could run.
-
-After that, producer Suresh Kamakshi gave him the story that Umapati could be introduced as director. He has worked hard and created the film. Many people who are at the peak of fame are in the indescribable suffering today.
-
-...
-
-[Data](articles/3121ec5f.json)
-
-[Extended Data](ext_articles/3121ec5f.ext.json)
 
 ---

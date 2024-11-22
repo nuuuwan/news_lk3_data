@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 03:42:19**
+As of **2024-11-23 04:00:17**
 
 ## Newspaper Stats
 
@@ -26,41 +26,63 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,411 (100.0%) of 56,414 articles have been extended.
+56,414 (100.0%) of 56,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### 17 வயதின்கீழ் இலங்கை கிரிக்கெட் குழாத்தில் பருத்தித்துறை ஹாட்லி வீரர் ஆகாஷ்; அணித் தலைவர் ஆனந்த வீரர் கித்ம
+### Akash player in the Sri Lankan cricket team under the age of 17;Team captain Ananda player Kithma
 
 *2024-11-23 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199461) · `ta`
 
-17 வயதுக்குட்பட்ட இலங்கை அணிக்கும் பங்களாதேஷ் அணிக்கும் இடையில் நடைபெறவுள்ள 3 ஒரநாள் மற்றும் இரண்டு 4 நாள் கிரிக்கெட் போட்டிகளுக்கான இலங்கை குழாத்தை ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் வெள்ளிக்கிழமை வெளியிட்டது.
+Here's a summary of the text in approximately 200 characters:
 
-இந்த குழாத்தில் பருத்தித்துறை ஹாட்லி கல்லூரி வீரர் விக்னேஸ்வரன் ஆகாஷ் இடம்பெறுகின்றமை சிறப்பம்சமாகும்.
 
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நடத்தப்பட்ட 17 வயதுக்குட்பட்ட பிராந்திய (மாகாணம்) அணிகளுக்கு இடையிலான போட்டியில் பிரகாசித்ததன் அடிப்படையிலேயே ஆகாஷுக்கு இடம் வழங்கப்பட்டுள்ளது.
 
-17 வயதுக்குட்பட்ட இலங்கை அணியின் தலைவராக கொழும்பு ஆனந்த கல்லூரி வீரர் கித்ம வித்தானபத்திரன நியமிக்கப்பட்டுள்ளார்.
+Sri Lanka Cricket announced its U-17 team for matches vs Bangladesh. Key players: Akash Vigneswaran from Hadley College & Kithma Vithanapatra (captain) from Ananda College. Matches start Dec 24, end Dec 8.
 
-உப தலைவர் பதவி மருதானை புனித சூசையப்பர் கல்லூரி வீரர் செனுஜ வெகுங்கொடவுக்கு வழங்கப்பட்டுள்ளது.
+🟩
 
-இரண்டு அணிகளுக்கும் இடையிலான இந்த கிரிக்கெட் தொடர் ஞாயிற்றுக்கிழமை 24ம் திகதி ஆரம்பமாகிறது. கடைசிப் போட்டி டிசம்பர் 8ஆம் திகதி நடைபெறும்.
+Sri Lanka Cricket on Friday released the Sri Lankan cricket team for the 3 -day and two 4 -day cricket match between the Sri Lankan team and Bangladesh.
 
-...
+The highlight of the group is Vigneswaran Akash, a player of Hadley College, Point Pedro.
+
+Akash has been given a place on the basis of shining in a match between the under -17 regional (province) teams conducted by Sri Lanka Cricket.
+
+Colombo Ananda College player Kithma Vithanapatra has been appointed as the captain of the Sri Lankan team under the age of 17.
+
+Vice President Maradana has been handed over to St. Susayapar College player Senuja.
+
+The cricket series between the two teams begins on Sunday 24th. The last match will be held on the 8th of December.
+
+Kithma Vithanapatrana (Chairman), Jason Fernando, Joshua Sebastian, Rehan Peiris, Jenindu Ranasinghe, Senthi Daneth Gorgeous
+
+◼️
 
 [Data](articles/8f53eade.json)
 
+[Extended Data](ext_articles/8f53eade.ext.json)
+
 ---
 
-### மக்களின் எதிர்பார்ப்புக்களை நிறைவேற்ற அரசியல் தலைமைத்துவம் வழங்குவதைத் தவிர வேறெந்த நோக்கமும் கிடையாது - ஜனாதிபதி
+### There is no intention other than to provide political leadership to meet the expectations of the people - the president
 
 *2024-11-23 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199460) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+President Anura Kumara Dissanayake emphasizes meeting public expectations through political leadership. He highlights the importance of public trust in public service for improvement. The defense portfolio transfer aims to enhance governance efficiency. Key officials from various branches attended the event, signaling unity in national development efforts.
+
+🟩
 
 ...
 
 [Data](articles/a99d3a55.json)
+
+[Extended Data](ext_articles/a99d3a55.ext.json)
 
 ---
 
@@ -90,19 +112,27 @@ Akio Isomada, who congratulated the Japanese government for a new policy of crea
 
 ---
 
-### சீன அரசாங்கத்தின் 1996 வீட்டுத் திட்டத்தின் இணை ஒப்பந்தம் கைச்சாத்தானது
+### Chinese government's 1996 Housing Plan Signs Signed
 
 *2024-11-23 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199459) · `ta`
 
-குறைந்த வருமானம் பெறும் குடும்பங்களின் வாழ்க்கை நிலைமையை மேம்படுத்தும் நோக்கில் சீன அரசாங்கத்தின் 552 மில்லியன் சீன யுவான் நிதியுதவியின் கீழ் 1,888 வீடுகள் மற்றும் 108 மூத்த கலைஞர்களுக்கான வீடுகள் ஆகிய வீட்டுத்திட்டத்தின் இணை ஒப்பந்தம் கைச்சாத்திடும் நிகழ்வு வெள்ளிக்கிழமை (22) பத்தரமுல்ல, செத்சிறிபாயவில் அமைந்துள்ள நகர அபிவிருத்தி, நிர்மாணத்துறை  மற்றும் வீடமைப்பு அமைச்சில் இடம்பெற்றது.
+Chinese government signs 1996 Housing Plan for 1,888 homes and 108 artist units. Aim: improve living conditions for low-income families. Projects in Peliyagoda, Dematagoda, Moratuwa, Maharagama, Kottawa. Construction begins, completion in 3 years.
 
-இந்த ஒப்பந்தத்தில் கைச்சாத்திடும் நிகழ்வில் நகர அபிவிருத்தி, நிர்மாணத்துறை மற்றும் வீடமைப்பு அமைச்சர் கலாநிதி அனுர கருணாதிலக மற்றும் சீனாவுக்கான இலங்கைத் தூதுவர் கிவு சென்ஹோன்ங் ( Qi Zhenhong) ஆகியோர் பங்கேற்றனர்.
+🟩
 
-இந்நிகழ்வில் சீனத் தூதரகத்தின் பொருளாதார மற்றும் வர்த்தக விவகாரங்களுக்குப் பொறுப்பான ஆலோசகர்  டாங் யாண்டி (Tang Yandi) மற்றும் சீனத் தூதரகத்தின் மூத்த அதிகாரிகள் உட்பட திட்டக் கட்டிடக்கலை வடிவமைப்பு ஆலோசகர்களுடன் இணைந்து கொண்டனர்.
+The Ministry of Urban Development, Construction and Housing was held on Friday (22) to sign the Housing Agreement of 1,888 houses and 108 senior artists under the aim of enhancing the living situation of low -income families.
+
+Minister of Urban Development, Construction and Housing, Dr. Anura Karunathilaka and Sri Lankan Ambassador to China, Qi Zhenhong participated in the signing event.
+
+The event joined the project architectural design consultants, including the Tang Yandi, the Chinese embassy, ​​Tang Yandi and senior officials of the Chinese embassy.
+
+Deputy Minister of Housing. B.. Sarath, Secretary to the Ministry Ranjith Aryaratne, Chairman of the Urban Development Authority. B.. Kumudulal and top officials of the Ministry were also present at the event.
 
 ...
 
 [Data](articles/52955b9b.json)
+
+[Extended Data](ext_articles/52955b9b.ext.json)
 
 ---
 

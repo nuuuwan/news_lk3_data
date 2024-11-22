@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 00:16:20**
+As of **2024-11-23 00:58:31**
 
 ## Newspaper Stats
 
-*Scraped **56,392** Articles*
+*Scraped **56,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 586
 islandlk | 3,367
 economynextcom | 3,427
-dailyftlk | 3,861
+dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
@@ -26,11 +26,273 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,392 (100.0%) of 56,392 articles have been extended.
+56,394 (100.0%) of 56,410 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-11-23 (Saturday)
+
+### SJB calls for Presidential apology on JVP’s role in undermining rule of law
+
+*2024-11-23 00:52:26* · [`dailyftlk`](https://www.ft.lk/news/SJB-calls-for-Presidential-apology-on-JVP-s-role-in-undermining-rule-of-law/56-769587) · `en`
+
+Criticises President’s policy statement accusing him of failing to acknowledge JVP’s historical role in damaging SL’s legal system
+
+Claims JVP-led insurgency in 1988–89 created climate of fear, necessitating unprecedented security measures for MPs and Ministers
+
+Accuses JVP of promoting racial discord since 1971 and opposing Provincial Council system aimed at devolving power
+
+The Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara yesterday called on President Anura Kumara Dissanayake to issue an apology for the alleged actions of the Janatha Vimukthi Peramuna (JVP) in the past, which he claims undermined Sri Lanka’s rule of law.
+
+Addressing a press conference, Madduma Bandara criticised the President’s recent policy statement in Parliament, where he pledged to uphold the rule of law. The SJB General Secretary argued that the President missed an opportunity to acknowledge and apologise for the JVP’s historical role in damaging the country’s legal framework.
+
+...
+
+[Data](articles/9f59d3af.json)
+
+---
+
+### Pillayan provides statement to CID on Easter Sunday attack claims
+
+*2024-11-23 00:51:28* · [`dailyftlk`](https://www.ft.lk/news/Pillayan-provides-statement-to-CID-on-Easter-Sunday-attack-claims/56-769586) · `en`
+
+Former State Minister Sivanesathurai Chandrakanthan, commonly known as Pillayan, visited the Criminal Investigation Department (CID) yesterday to provide a statement regarding ongoing investigations into claims made in a Channel 4 documentary related to the 2019 Easter Sunday terrorist attacks. This marks his second appearance before the CID in connection with the case.
+
+Pillayan, who had first appeared on 20 November, provided a five-hour statement but had requested to give his statement in Tamil as well. As a result, the CID arranged for translation services, and he was asked to return to complete the process on 22 November.
+
+...
+
+[Data](articles/2fb3ea9e.json)
+
+---
+
+### Japanese Ambassador calls on President’s Secretary
+
+*2024-11-23 00:50:18* · [`dailyftlk`](https://www.ft.lk/news/Japanese-Ambassador-calls-on-President-s-Secretary/56-769585) · `en`
+
+The Japanese Ambassador to Sri Lanka Akio Isomata paid a courtesy call on Secretary to the President Dr. Nandika Sanath Kumanayake yesterday.
+
+The President’s Media Division said the Japanese Ambassador extended his best wishes to the new Government led by President Anura Kumara Dissanayake and expressed Japan’s commitment to continuing the bilateral relations between the two nations in a productive and sustainable manner.
+
+Ambassador Isomata commended the new Government’s policies aimed at creating a nation free of corruption and malpractice while advancing economic progress. He also reaffirmed Japan’s readiness to provide maximum support to Sri Lanka’s new administration and President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/81fcb674.json)
+
+---
+
+### President Anura Kumara Dissanayake on Thursday appointed 29 Deputy Ministers
+
+*2024-11-23 00:48:53* · [`dailyftlk`](https://www.ft.lk/news/President-Anura-Kumara-Dissanayake-on-Thursday-appointed-29-Deputy-Ministers/56-769584) · `en`
+
+...
+
+[Data](articles/8687114a.json)
+
+---
+
+### HSBC and A-PAD Sri Lanka spearhead recovery mission for education in flood-affected districts
+
+*2024-11-23 00:48:07* · [`dailyftlk`](https://www.ft.lk/news/HSBC-and-A-PAD-Sri-Lanka-spearhead-recovery-mission-for-education-in-flood-affected-districts/56-769583) · `en`
+
+HSBC Sri Lanka Head of Sustainability Dilini Fernando, distributing educational supplies
+
+Building resilience during natural disasters is vital to continue education of school children affected by disasters, and demonstration of corporate commitment is key to overcome the stress that comes with it. HSBC and A-PAD Sri Lanka launched ‘Reviving Education,’ an initiative that is vital to ensure continuity of education for children affected by recent floods.
+
+...
+
+[Data](articles/d74ed32f.json)
+
+---
+
+### Book launch and discussion on South Asian labour migration issues and concerns
+
+*2024-11-23 00:46:42* · [`dailyftlk`](https://www.ft.lk/news/Book-launch-and-discussion-on-South-Asian-labour-migration-issues-and-concerns/56-769582) · `en`
+
+The book “Labour Migrants from South Asia: Issues and Concerns” was officially launched on 12 November at the Hilton Colombo with Sumith Nakandala, with former Secretary of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) gracing as the Chief Guest and Western Provincial Council Chief Secretary Dammika K. Wijesinghe attended as the Guest of Honour of the event.
+
+The book compiles insights and policy recommendations from a pivotal regional seminar on labour migration issues in South Asia earlier this year.
+
+...
+
+[Data](articles/236f453e.json)
+
+---
+
+### SLFUW organises special event to commemorate International Children’s and World Elders’ Day
+
+*2024-11-23 00:45:33* · [`dailyftlk`](https://www.ft.lk/news/SLFUW-organises-special-event-to-commemorate-International-Children-s-and-World-Elders-Day/56-769581) · `en`
+
+The Sri Lanka Federation of University Women (SLFUW) hosted a special event at its headquarters on 26 October to commemorate International Children’s Day and World Elders’ Day. It was a well-attended ‘Family Get-together’ for the members and their families of SLFUW, a fun-filled day, with beautiful dance performances, songs and music, games, and gifts inclusive of breakfast and lunch as well.
+
+As explained by the President of SLFUW Colonel Dr. Udula Krishnaratne, a special highlight of the event was handing off cash and donations to the Visually Impaired Women Federation and visually impaired children to support their futures.
+
+...
+
+[Data](articles/230c7c67.json)
+
+---
+
+### Consulate General in Karachi facilitates visit of Pakistan business delegation to Sri Lanka
+
+*2024-11-23 00:44:02* · [`dailyftlk`](https://www.ft.lk/business/Consulate-General-in-Karachi-facilitates-visit-of-Pakistan-business-delegation-to-Sri-Lanka/34-769580) · `en`
+
+The Pakistan-Sri Lanka Business Forum (PSLBF), in collaboration with the Sri Lanka Consulate General in Karachi, organised the visit of a Pakistan business delegation to Sri Lanka from 28 to 31 October. The visit of the 18-member delegation, representing 15 companies from export, import, and investment sectors was aimed at strengthening business relations between the private sectors of both countries.
+
+The program in Colombo was facilitated by the Sri Lanka Pakistan Business Council (SLPBC), which hosted a Pakistan Business Forum on 29 October at Hilton Colombo Residencies. During the forum, key strategies to promote bilateral trade and investments were discussed, including leveraging free trade agreements and streamlining trade processes.
+
+...
+
+[Data](articles/dde4ba6b.json)
+
+---
+
+### Lankan envoy introduces Port City Colombo to Saudi Investment Ministry
+
+*2024-11-23 00:42:52* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-introduces-Port-City-Colombo-to-Saudi-Investment-Ministry/34-769579) · `en`
+
+Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad met with the Deputy Minister of Investment for International Relations of Saudi Arabia and Deputy CEO of the Saudi Investment Promotion Authority (SIPA), Sara Al-Sayed and briefed her on the investment opportunities available in the Port City Colombo.
+
+Ambassador Ameer Ajwad elaborated on investment opportunities readily available in Sri Lanka in sectors such as agriculture, aquaculture, tourism, ICT, pharmaceutical sector and invited Saudi investors to explore such expanding lucrative investment opportunities for win-win benefits for both countries.
+
+...
+
+[Data](articles/1494a8d8.json)
+
+---
+
+### First Ceylon Tea showroom opens in Riyadh
+
+*2024-11-23 00:42:14* · [`dailyftlk`](https://www.ft.lk/business/First-Ceylon-Tea-showroom-opens-in-Riyadh/34-769578) · `en`
+
+A showroom of Al Wazzah Tea, the first ever exclusive pure Ceylon Tea brand in Saudi Arabia was inaugurated by Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad, in the heart of Riyadh on 18 November.
+
+The showroom, which displays a range of Ceylon Tea products and functions as an outlet, addresses a long-standing demand for a dedicated facility for pure Ceylon Tea in the Kingdom of Saudi Arabia. Ambassador Ameer Ajwad referred to this facility as a “significant milestone of the Ceylon Tea industry in KSA”.
+
+...
+
+[Data](articles/395bb2c3.json)
+
+---
+
+### AMW and New Holland Tractors celebrate 10-year partnership with free inspection campaign
+
+*2024-11-23 00:41:08* · [`dailyftlk`](https://www.ft.lk/business/AMW-and-New-Holland-Tractors-celebrate-10-year-partnership-with-free-inspection-campaign/34-769577) · `en`
+
+Associated Motorways Ltd., a leader in Sri Lanka automotive industry celebrates ten successful years of partnership with New Holland Tractors as its sole distributor in Sri Lanka. Since the inception of the partnership, AMW has been deeply committed to supporting the agricultural sector by providing reliable equipment and unparalleled service to farmers across Sri Lanka. In celebration of the partnership, and in lieu of the current ‘MAHA’ season, AMW conducted a series of free inspections for loyal customers around the country.
+
+...
+
+[Data](articles/4bdc35b3.json)
+
+---
+
+### Abans Environmental Services secures prime spot in Sri Lanka’s premier business directory for 2024/25
+
+*2024-11-23 00:40:36* · [`dailyftlk`](https://www.ft.lk/business/Abans-Environmental-Services-secures-prime-spot-in-Sri-Lanka-s-premier-business-directory-for-2024-25/34-769576) · `en`
+
+SLT-Services Chief Officer – Digital Services Upul Manchanayake (second from left) presents the latest Rainbow Pages Business Directory to Abans Environmental Services Managing Director Phiroze Pestonjee (third from right) at the contract signing ceremony, joined by Abans Head of Branding and Communications Vipula Gunaratne and SLT-Services representatives
+
+Abans Environmental Services Ltd. (AES), the leader in janitorial and related services in Sri Lanka, has strengthened its position as a key advertiser in the upcoming release of Rainbow Pages, the National Business Directory 2024/25, presented by the SLT-Mobitel Group. As one of the top clients of the National Business Directory, Abans Environmental Services Ltd recognises the value and potential of this comprehensive marketing platform.
+
+...
+
+[Data](articles/ccf835a5.json)
+
+---
+
+### Dr. P. A. Kiriwandeniya observes the progress of ‘Sanasa Forward’ (Sanasa Idiriya) projects in Hambantota
+
+*2024-11-23 00:39:55* · [`dailyftlk`](https://www.ft.lk/business/Dr-P-A-Kiriwandeniya-observes-the-progress-of-Sanasa-Forward-Sanasa-Idiriya-projects-in-Hambantota/34-769575) · `en`
+
+Sanasa Founder and the Chancellor of Wayamba University of Sri Lanka Vishwa Prasadini, Dr. P. A. Kiriwandeniya recently observed the projects launched in Hambantota under ‘Sanasa Forward’ program. This program seeks to uplift communities across Sri Lanka through production-based economic concepts over the next five years. Launched one and half years ago, the Sanasa Forward initiative is being rolled out nationwide to empower 5,000 villages under 1,250 selected Sanasa societies.
+
+...
+
+[Data](articles/267845ee.json)
+
+---
+
+### New Govt. focuses on Easter bombings 2019 investigation
+
+*2024-11-23 00:29:32* · [`dailyftlk`](https://www.ft.lk/columns/New-Govt-focuses-on-Easter-bombings-2019-investigation/4-769574) · `en`
+
+There is renewed expectation that the new Government will approach an investigation into the Easter bombings with a real commitment towards unearthing the truth
+
+Easter 2025 will mark the sixth anniversary of the Easter tragedy. A new President, a new Parliament with the enviable record of being the only single party to ever gain a two-thirds majority in Parliament have all the necessary implements to ensure that a full and impartial investigation is carried out. All members of this new administration also have the distinction of not having been involved in any shape or form in the events that led to this tragedy. This tragedy has left a permanent black mark on Sri Lanka’s ability to sustain meaningful compliance of international treaties and honour in full the UN charter on the right to life
+
+...
+
+[Data](articles/9e731c5e.json)
+
+[Extended Data](ext_articles/9e731c5e.ext.json)
+
+---
+
 ### 2024-11-22 (Friday)
+
+### No Muslim in Cabinet: Does that matter?
+
+*2024-11-22 23:34:56* · [`dailyftlk`](https://www.ft.lk/columns/No-Muslim-in-Cabinet-Does-that-matter/4-769567) · `en`
+
+In this new era should the absence of a Muslim or Tamil in the Cabinet matter at all?
+
+Yet, one or two Muslim ministers in the Cabinet carries economic value in the international arena. When the Sirimavo Government in the 1970s faced a foreign exchange crisis the Muslim minister Badi was sent to the Middle East to canvas for more foreign aid from the Arab world and he succeeded to a certain extent. Similarly, when JR’s open economy faced an oil crisis his Muslim Foreign Minister Hameed was dispatched to Libya and Ghaddafi did not send his visitor empty handed. Thus, given the seriousness of the economic challenges facing the NPP Government, at least one talented Muslim minister in the Cabinet would be an invaluable asset to tackle them. Let common sense prevail and the damage caused rectified by the President
+
+...
+
+[Data](articles/8c3048d5.json)
+
+[Extended Data](ext_articles/8c3048d5.ext.json)
+
+---
+
+### A Tamil’s take on  Sri Lanka’s historic 2024 Parliamentary elections
+
+*2024-11-22 23:32:44* · [`dailyftlk`](https://www.ft.lk/columns/A-Tamil-s-take-on-Sri-Lanka-s-historic-2024-Parliamentary-elections/4-769566) · `en`
+
+The 2024 Parliamentary elections symbolise a pivotal moment of transition for Sri Lanka – Pic by Shehan Gunasekara
+
+I have always been deeply interested in Sri Lanka’s socio-political landscape and its complex history for three main reasons. First, as an ethnic Tamil minority who endured the brutalities of war during childhood, this subject holds personal significance. Second, my father, the late Sundaram Divakalala—a renowned Tamil civil servant—dedicated his life to public service, inspiring my interest in governance and justice. Finally, my professional experience at CMG Capital Maharaja Group, Sri Lanka’s largest private conglomerate and media powerhouse, under the leadership of its late Chairman, Late Kili Rajamahendran, further deepened my understanding of the nation’s challenges and potential.
+
+...
+
+[Data](articles/04955121.json)
+
+---
+
+### To include or not to include a Muslim Minister
+
+*2024-11-22 23:30:05* · [`dailyftlk`](https://www.ft.lk/opinion/To-include-or-not-to-include-a-Muslim-Minister/14-769565) · `en`
+
+The absence of a Muslim member among the 21 members that comprise the Cabinet remains unanswerable
+
+The recently elected NPP Government appointed its Cabinet of Ministers this Monday, 21 November. A large proportion of the members are new faces but appear an intelligent and able lot. A notable feature is the absence of a Muslim Minister. The active roles played by the Muslim community at large both at the Presidential as well as the General election in favour of the NPP was duly acknowledged and accepted by the NPP and the President. While anxiety must be pouring through and amongst almost all the new faces in the Parliament, a feeling of anger is pouring through among the Muslim community. Both feelings are quite natural.
+
+The absence of a Muslim member among the 21 members that comprise the Cabinet remains
+
+...
+
+[Data](articles/e6f4e2d5.json)
+
+---
+
+### President seeks support of all to achieve successful new era
+
+*2024-11-22 23:27:34* · [`dailyftlk`](https://www.ft.lk/opinion/President-seeks-support-of-all-to-achieve-successful-new-era/14-769564) · `en`
+
+President Anura Kumara Dissanayake on Thursday urged Parliamentarians and all ethnicities to rally behind a shared mission of driving the nation’s economic and social transformation. He made this clarion during his policy statement at the inaugural session of the 10th Parliament.
+
+Following is the full text of President Dissanayake’s policy statement which explains his vision, and lists the country’s challenges and opportunities.
+
+Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
+
+...
+
+[Data](articles/2c5d63d4.json)
+
+---
 
 ### A 14 -year -old student in Ponnalai makes a bad decision
 
@@ -2139,479 +2401,5 @@ Airbus A320 will be operated from Singapore to Singapore every morning or evenin
 [Data](articles/5f425912.json)
 
 [Extended Data](ext_articles/5f425912.ext.json)
-
----
-
-### A canura businessman says the rice problem says
-
-*2024-11-22 12:09:11* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ගැටලුවට-අපුර-ව්‍යාපාරිකයෙක්-විසඳුමක්-කියයි/11-413211) · `si`
-
-Sri Lankan businessman proposes rice production at Dambulla Economic Center to address national shortage.
-
-🟩
-
-Currently, the rice and fruiting is a short-term solution to the rice crisis in Sri Lanka as a short-term and fruiting solution to the Dambulla Economic Center, a businessman in the Dambulla Economic Center, Anuradhapura.M.S.Bandara said to the government.
-
-The proposal of the proposals have been resigned to the Minister of Agriculture to the current government as a reasonable businessman who produces their own rice, rather than selling the paddy farmers in the past ten years.He said this proposal was decided to submit this proposal.
-
-He pointed out that the Dambulla Economic Center is not only vegetable fruits in all parts of the country and the potatoes produced in foreign countries
-
-He pointed out that there are about eight and a half acres of land in front of the Dambulla Economic Center.
-
-He proposed that the government plans to the Department of Agriculture to the Department of Agriculture to the Department of Agriculture in every area of ​​the country will not be paid for this purpose.
-
-...
-
-[Data](articles/1de91041.json)
-
-[Extended Data](ext_articles/1de91041.ext.json)
-
----
-
-### Sri Lanka revealed as most popular solo travel destination for 2025
-
-*2024-11-22 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103686/sri-lanka-revealed-as-most-popular-solo-travel-destination-for-2025) · `en`
-
-Solo travellers are getting older and are increasingly drawn to Asian destinations – with Sri Lanka securing the most popular spot for 2025, says new data from Flash Pack.
-
-Flash Pack’s latest trends report reveals Sri Lanka has claimed the top spot for solo travel in 2025, advancing from fourth place in 2024.
-
-The appeal is clear, says Flash Pack: “Sri Lanka packs in all the punch of India – only on a smaller, more accessible scale, and delivered at a much slower pace.” The company highlights diverse experiences from “incense-swirled cities, buzzing with tuk tuks” to “misty highlands steeped in tea plantations” and dramatic coastlines.
-
-“But where Sri Lanka really comes into its own,” the company adds, “is its easy-going balance of beaches, spoiling hotels and restorative, delicately spiced food.”
-
-...
-
-[Data](articles/0415f62f.json)
-
-[Extended Data](ext_articles/0415f62f.ext.json)
-
----
-
-### “தமிழர்களிற்கு ஆதரவாகயிருப்பது குறித்து பெருமிதமடைகின்றோம்" ;  தமிழீழ தேசிய கொடி நினைவுநாளில் கனடா அரசியல்வாதி
-
-*2024-11-22 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199391) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil Eelam flag event honors Tamil community history & culture. Commemorates past violence but highlights community resilience. New Democratic Party supports Tamil community, praising its cultural enrichment to Ontario. Event recalls sacrifices, recommitting to peace and justice.
-
-🟩
-
-Maritstiles of the official opposition of Ontario, Canada, said he was proud of his support for the Tamil community.
-
-தமிழ்ஈழ தேசிய கொடி தினத்தை குறிக்கும் நிகழ்வு குறித்து விடுத்துள்ள செய்தியில் இதனை தெரிவித்துள்ள அவர் மேலும் குறிப்பிட்டுள்ளதாவது.
-
-In the Tamil Eelam flag today, we honor the history and culture of the Tamil community in Ontario and the rest of the world.
-
-Today is a day to commemorate the violence that the Tamil people have suffered decades, including the Tamil massacre and the Mullivaikkal massacre.
-
-While these embodies have caused unimaginable pain, it has revealed the stability and strength of the Tamil community.
-
-The Tamil community is a society that provides inspiration for the struggle for justice and human rights.
-
-புதிய ஜனநாயக கட்சியினராகிய நாங்கள் தமிழ் சமூகத்திற்கு ஆதரவாகயிருப்பது குறித்து பெருமிதம் கொள்கின்றோம்,
-
-Your culture enrichs the redemption and contributions of our province, Ontario and makes us the best place for all of us.
-
-...
-
-[Data](articles/789a8564.json)
-
-[Extended Data](ext_articles/789a8564.ext.json)
-
----
-
-### Sri Lanka elected to UN Commission on International Trade Law
-
-*2024-11-22 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-elected-to-un-commission-on-international-trade-law-189425/) · `en`
-
-ECONOMYNEXT – Sri Lanka has been elected to the United Nations Commission on International Trade Law (UNCITRAL) to serve a 6-year term starting January 2025, the Ministry of Foreign Affairs said in a statement.
-
-The island nation contested for a seat from the Asia Pacific Group and secured 177 votes.
-
-Among the 31 member states elected from the Asia Pacific Group to the UNCITRAL are Malaysia, The Philippines, Singapore, Viet Nam, China, Japan and Republic of Korea.
-
-“Sri Lanka’s legislation for the facilitation of trade and investment such as the Sri Lanka Arbitration Act and the Electronic Transaction Act have benefitted from model laws by UNCITRAL,” the ministry said.
-
-UNCITRAL, established in 1966 and Headquartered in Vienna, is the core legal body in the field of international trade. Its mandate includes removing obstacles to trade and harmonising trade laws.  (Colombo/Nov22/2024)
-
-◼️
-
-[Data](articles/6310fe93.json)
-
-[Extended Data](ext_articles/6310fe93.ext.json)
-
----
-
-### Lohan's wife further remanded
-
-*2024-11-22 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203621) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Rashi Prabha Ratwatte, wife of Lohan Ratwatte, remanded again. Ordered by Nugegoda Magistrate's Court on Dec 2. Arrested over illegal assembly involving a car. Court rejected bail request on Nov 18. Former state minister also remanded until Dec 2.
-
-🟩
-
-Rashi Prabh Ratwatte, wife who has been remanded and remanded.
-
-The order has been issued after submitting the Nugegoda Magistrate's Court today (22).
-
-Rashi Prabha Ratwatte and Lohan Ratwatte has been arrested in connection with an incidental assembled car.
-
-The Nugegoda Magistrate's Court on the 18th of this month, the court refused.
-
-The former state minister was ordered to be remanded until December 2nd and his wife to be remanded.
-
-◼️
-
-[Data](articles/ae76dd20.json)
-
-[Extended Data](ext_articles/ae76dd20.ext.json)
-
----
-
-### Lohan Ratwatte’s wife further remanded
-
-*2024-11-22 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103685/lohan-ratwattes-wife-further-remanded) · `en`
-
-Former Minister Lohan Ratwatte’s wife Shashi Prabha Ratwatte has been further remanded until December 02 after she was produced before the Nugegoda Magistrate’s Court today (22).
-
-On November 18, Former Minister Lohan Ratwatte was further remanded until December 2, while his wife had been further remanded until November 22 after they were produced before the Nugegoda Magistrate’s Court.
-
-They were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, had previously been remanded in custody until November 18 by the Nugegoda Magistrate’s Court.
-
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
-
-...
-
-[Data](articles/f228d90a.json)
-
-[Extended Data](ext_articles/f228d90a.ext.json)
-
----
-
-### Pilleyan arrives at CID again to record statement
-
-*2024-11-22 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103684/pilleyan-arrives-at-cid-again-to-record-statement-) · `en`
-
-Former state minister Sivanesathurai Chandrakanthan alias Pilleyan has arrived at the Criminal Investigation Department (CID) once again this morning (22) to provide a statement.
-
-Statements are being recorded from him in connection with investigations related to the controversial documentary aired by the British television network Channel 4 concerning the 2019 Easter Sunday terror attacks in Sri Lanka.
-
-Pilleyan previously appeared before the CID on November 20, where he had stated his preference to provide the statement in Tamil. He was subsequently instructed to return today after arrangements were made for language translation.
-
-On 06 September 2023, Channel 4 aired a controversial documentary containing startling accusations relating to the bombings on Easter Sunday (April 21) in 2019 which targeted several Catholic churches and luxury hotels in Sri Lanka. The carnage claimed the lives of more than 260 people and left hundreds of others wounded.
-
-...
-
-[Data](articles/be4fa7cb.json)
-
-[Extended Data](ext_articles/be4fa7cb.ext.json)
-
----
-
-### Sri Lanka tea production down 8-pct in October 2024, exports up
-
-*2024-11-22 11:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-8-pct-in-october-2024-exports-up-189407/) · `en`
-
-ECONOMYEXT – Sri Lanka’s tea production fell 8 percent to 21.15 million kilograms in October, data showed, while exports were up 14 percent to 20 million kilograms.
-
-In the 10 months to October production was 217.65 up 0.5 percent to 216.49 million, Ceylon Tea Brokers said citing Sri Lanka Tea Board data.
-
-Exports were up 1.7 percent in the 10 months to 203 million kilograms.
-
-Export earnings in October 2024 were 126 million up 32.6 percent from 95 million in 2023.
-
-Earnings in the first 10 months were 1.1 billion dollars, against 1 billion last year.
-
-In October 2024 low growns were 12.4 million, down from 13.8 million in October 2023.
-
-In October bulk tea was up at 8.8 million, from 7.6 million last year.
-
-◼️
-
-[Data](articles/26d37907.json)
-
-[Extended Data](ext_articles/26d37907.ext.json)
-
----
-
-### Excavations launched near the highway in search of treasures
-
-*2024-11-22 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203620) · `si`
-
-Treasure hunt near Veyangoda highway: Excavation ordered by court, several arrests made, no treasure found by Archeology Dept., STF investigation ongoing.
-
-🟩
-
-The excavation of a treasure under the ground near the central expressway in Veyangoda, Veyangoda commenced its treasure.
-
-These activities are carried out following a court order given by the Attanagalla Magistrate's Court.
-
-Several years have been dug by treasure hunters in several years.
-
-Several people have been arrested by the security sector in several occasions.
-
-The Veyangoda Police say that there is also a monk among those arrested.
-
-It has been revealed that there was no treasure in the investigation carried out by the Department of Archeology.
-
-However, an investigation made by the STF revealed that there was something inside the earth.
-
-According to the Attanagalla Magistrate's Court, the Department of Archeology, Mining and Geology Bureau, the supervision of the officials and the public with the participation of the public.
-
-◼️
-
-[Data](articles/7628c81e.json)
-
-[Extended Data](ext_articles/7628c81e.ext.json)
-
----
-
-### One person killed when a bridge collapsed in Nagoda
-
-*2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199381) · `ta`
-
-Bridge collapses in Nagoda, one person killed. Incident occurred on Thursday during maintenance work. Victim trapped under debris. Police investigation ongoing.
-
-🟩
-
-One person was killed when a sudden collapse of the iron bridge across the King Ganga in Galle, Nagoda, Nagoda, collapsed on Thursday (21), Nagoda police said.
-
-The bridge suddenly collapsed when the deceased was engaged in correction at the Iron Bridge yesterday.
-
-The man who was involved in the bridge was trapped under the bridge, police said.
-
-◼️
-
-[Data](articles/7142b7f7.json)
-
-[Extended Data](ext_articles/7142b7f7.ext.json)
-
----
-
-### Sri Lanka should be cautious about the plans of Adani Group following US allegations - experts
-
-*2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199386) · `ta`
-
-Sri Lanka urged caution over Adani Group plans amid US lawsuit allegations. Experts warn of potential corruption risks, citing past scandals like Airbus fraud and Pandora Papers revelations. Social media calls for investigation into Adani's projects, aligning with anti-corruption promises made by newly elected officials.
-
-🟩
-
-Experts have said that Sri Lanka should be cautious about the strength of power.
-
-The US has issued a lawsuit against seven people, including Adani Group Chairman Gautam Adani.
-
-"We have seen the details of the corruption in Sri Lanka," said Nissan de Mel, the Colombo -based Veritte Research, said.
-
-He pointed out that a few years ago, he was accused of fraudulent scams at the Airbus purchase for SriLankan Airlines from Airbus.
-
-Pointing out the release of local politicians and traders on Pandora Paper, he said that Sri Lanka should double his actions against corruption to ensure that we are protected from the Nissan Demel scam.
-
-Many people have commented on social media that the Anura Kumaratisanayake government should conduct a serious investigation into the Adani Group's strength plans in Sri Lanka after the release of the Adani Group's bribery scandal.
-
-They pointed out that Anura Kumara Dissanayake, who won the presidential election in September, also promised to eradicate corruption.
-
-...
-
-[Data](articles/9de9a917.json)
-
-[Extended Data](ext_articles/9de9a917.ext.json)
-
----
-
-### Fire at an apartment in Wellampitiya
-
-*2024-11-22 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199384) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Fire breaks out at Wellampitiya apartment. Residents protest for quick resolution. Government accused of causing difficulties. Fire contained, no injuries reported. Cause unknown."
-
-🟩
-
-Wellampitiya police said that a fire broke out this morning (22) morning at an apartment in the Salamulla Housing Project in Wellampitiya.
-
-The people of the area were protesting near the residence, demanding that the fire be resolved soon. In the meantime, some of the public have said that the current government has been deliberate to cause difficulties.
-
-Was brought under control and no one was hurt. The cause of the fire has not yet been identified.
-
-◼️
-
-[Data](articles/8e7515e7.json)
-
-[Extended Data](ext_articles/8e7515e7.ext.json)
-
----
-
-### Delay in train services
-
-*2024-11-22 10:23:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகளில்-தாமதம்/175-347613) · `ta`
-
-Coastal train service delayed due to technical failure near Pusa Railway Station. Morning railway services affected.
-
-🟩
-
-The coastal train service has been delayed due to a technical failure of a train traveling from Kalkissa to Kalkissa near the Pusa Railway Station.
-
-As a result, there will be a delay in railway services operating in the morning, the Railways said. Remble
-
-◼️
-
-[Data](articles/595b5bb5.json)
-
-[Extended Data](ext_articles/595b5bb5.ext.json)
-
----
-
-### Thailand veterinarian resolution to cut Muthuraja elephant's ivory
-
-*2024-11-22 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199379) · `ta`
-
-Thai vet team considers removing Muthuraja elephant's ivory to ease mobility issues. The 29-year-old pachyderm, relocated from Sri Lanka, struggles lifting its head due to the heavy tusk. Experts weigh options, but require permissions from various organizations before proceeding.
-
-🟩
-
-Veterinary doctors have decided to cut off their ivory to improve the quality of life of Muthuraja, 29 -year -old Muthuraja, who was taken to Thailand from Sri Lanka.
-
-The elephant is currently at the Mother Elephant Safety Center in Lampang, Thailand.
-
-Muthuraja is facing great difficulties as it has to lift its head to prevent the ivory from being trapped on the ground.
-
-Discussions are underway with experts regarding the weight of the elephant's ivory. However, the opinions and permission of many organizations will be required to carry out any resolution.
-
-Blai Sock Surrun Elephant has trouble walking due to injury in front of the front leg. He said that the continued treatment is making improvement.
-
-Muthuraja was one of the elephants gifted to Sri Lanka by 2001.
-
-◼️
-
-[Data](articles/1bd71f78.json)
-
-[Extended Data](ext_articles/1bd71f78.ext.json)
-
----
-
-### Pilleyan is still under CID
-
-*2024-11-22 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203619) · `si`
-
-Pilleyan CID appearance Easter attack investigation Channel 4 claims
-
-🟩
-
-Former State Minister Sivanesathurai Chandrakanthan, or Pilleyan has arrived at the CID today (22).
-
-He will record statements in relation to the investigations into the facts mentioned in the British Channel 4 of the British Channel 4 regarding the Easter attack.
-
-Sivanesathurai Chandrakantan has said that he had stated to the Criminal Investigation Department on Monday (20).. After making the translation translation work, he has knowledgeable today.
-
-An Assad Moulana, who was the party's press stories in Sivanesathurai Chandrakanthan, or Pillayan's team, was a partner in Siva Owners.
-
-The Ministry of Defense has received a complaint to the Ministry of Defense, which has been revealed in the contents of the video.
-
-Former Minister of State Sivanesathurai Chandrakanthan, or Pilleyan, has been called on the CID.
-
-However, the former Minister of former Minister of Parliament was not appearing before the CID.
-
-...
-
-[Data](articles/b3b0a3b2.json)
-
-[Extended Data](ext_articles/b3b0a3b2.ext.json)
-
----
-
-### The budget party attempts to join opposition MPs
-
-*2024-11-22 09:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-எம்-பிக்களை-இணைத்துக்கொள்ள-மொட்டு-கட்சி-முயற்சி/175-347612) · `ta`
-
-Sri Lanka PA budget party joins opposition MPs, forcing 3 to leave. Discussions underway to re-link separators and include opposition representatives.
-
-🟩
-
-It is reported that discussions will be launched to represent the Sri Lanka PA and then re -linking the separators.
-
-Accordingly, the three MPs who are currently elected to Parliament from the Sri Lanka PA have been forced to quit the party and discuss the acting of parliamentary members from other parties.
-
-It has also been reported that the party is focusing on the inclusion of MPs representing the opposition.An
-
-◼️
-
-[Data](articles/31d2ab0c.json)
-
-[Extended Data](ext_articles/31d2ab0c.ext.json)
-
----
-
-### IPL set for three stages
-
-*2024-11-22 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203618) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-IPL 2025: 3 stages, Mar 14-May 25. 2026: Mar 15-May end. 2027: Mar 14-May 30. Matches increased from 74 to 94 in 2027.
-
-🟩
-
-The most attractive Franchisis League, the world's most exciting Frances, the Indian Premier League cricket tournament has been announced, including the 2025 tournamental periods.
-
-This is the first time IPL has been made public for a period of three stages.
-
-Accordingly, the stage of the coming phase will commence on March 14, and its final will be held on May 25.
-
-The 2026 tournament will commence on March 15 and the 2027 Competition has decided to hold the 2027 Competition from 14 March to May 30.
-
-However, the number of the two-stage competitions has been increased over this year.
-
-Accordingly, 2025 and 2026 have increased to 84 competitions.
-
-In 2027, the number increased to 94 mats.
-
-However, this year was 74 matches.
-
-◼️
-
-[Data](articles/c30d87e3.json)
-
-[Extended Data](ext_articles/c30d87e3.ext.json)
-
----
-
-### International Court of Justice
-
-*2024-11-22 09:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நெதன்யாகுவுக்கு-எதிராக-பிடியாணை-பிறப்பித்த-சர்வதேச-நீதிமன்றம்/50-347610) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-ICC issues war crimes order vs Netanyahu over Israel-Hamas conflict. Over 1300 deaths, hostages taken. ICC rejects Israel's explanations. Former Defense Minister Yo Galant also targeted.
-
-🟩
-
-The International Criminal Court yesterday issued a war order against Israeli Prime Minister Benjamin Netanyahu.
-
-On October 7, 2023, Israel Hamas launched a missile attack. More than 1300 people died in this. In addition, some of the Israeli, including the Israeli, were taken as hostage. Israel has been severely retaliated with Gaza, as only a few people have been released on hostage. Attack on Gaza stretches on Hamas support systems. Hizbullahs in Lebanon are being attacked by Iran -backed cleric forces in Syria. 44,000 people, including women and children in Gaza alone. Lebanon has crossed 3,500.
-
-In this backdrop, the International Criminal Court yesterday issued an order against Israeli Prime Minister Benjamin Netanyahu.
-
-War complaints against Israel have been filed in the Criminal Court. It is in this case that Israeli Prime Minister Benjamin Netanyahu has been ordered to arrest the International Criminal Court.
-
-...
-
-[Data](articles/6614d846.json)
-
-[Extended Data](ext_articles/6614d846.ext.json)
 
 ---

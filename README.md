@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 09:42:06**
+As of **2024-11-22 10:01:10**
 
 ## Newspaper Stats
 
-*Scraped **56,281** Articles*
+*Scraped **56,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,859
 dailymirrorlk | 4,733
 adalk | 5,298
 adaderanalk | 6,799
-tamilmirrorlk | 7,996
+tamilmirrorlk | 7,997
 virakesarilk | 9,149
 adaderanasinhalalk | 9,709
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,274 (100.0%) of 56,281 articles have been extended.
+56,274 (100.0%) of 56,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### நெதன்யாகுவுக்கு எதிராக பிடியாணை பிறப்பித்த சர்வதேச நீதிமன்றம்
+
+*2024-11-22 09:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நெதன்யாகுவுக்கு-எதிராக-பிடியாணை-பிறப்பித்த-சர்வதேச-நீதிமன்றம்/50-347610) · `ta`
+
+இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகுவுக்கு எதிராக சர்வதேச குற்றவியல் நீதிமன்றம், நேற்று (21), பிடியாணை உத்தரவு பிறப்பித்துள்ளது.
+
+2023ஆம் ஆண்டு, ஒக்டோபர் 7ஆம் திகதியன்று, இஸ்ரேல் ஹமாஸ் கிளிர்ச்சியாளர்கள் மீது ஏவுகணைத் தாக்குதல் நடத்தினர். இதில் இஸ்ரேலியர் 1300க்கும் மேற்பட்டோர் உயிரிழந்தனர். அத்துடன், இஸ்ரேலியர்கள் உள்பட சிலர் பிணைக் கைதிகளாகப் பிடித்துச் செல்லப்பட்டனர். பிணைக் கைதிகளில் சொற்பமானவர்களே இதுவரை விடுவிக்கப்பட்டுள்ள நிலையில், காசா மீது இஸ்ரேல் கடுமையான பதிலடி கொடுத்து வருகிறது. காசா மீதான தாக்குதல், ஹமாஸ் ஆதரவு அமைப்புகள் மீது நீண்டுள்ளது. லெபனானில் ஹிஸ்புல்லாக்கள், சிரியாவில் ஈரான் ஆதரவு கிளர்சிப் படைகள் மீது தாக்குதல் நடத்தப்பட்டு வருகிறது. காசாவில் மட்டும் பெண்கள், குழந்தைகள் உள்பட 44,000 பேர் உயிரிழந்துள்ளனர். லெபனான் உயிர்ழப்புகள் 3,500ஐ கடந்துள்ளது.
+
+இந்நிலையில், இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகுவுக்கு எதிராக சர்வதேச குற்றவியல் நீதிமன்றம் நேற்று (21) பிடியாணை உத்தரவை பிறப்பித்துள்ளது.
+
+...
+
+[Data](articles/6614d846.json)
+
+---
 
 ### ’ரவியின் பெயர் அனுப்பப்பட்டது ரணிலுக்கு தெரியாது’
 
@@ -2359,37 +2375,5 @@ The first parliamentary committee meeting of the Sri Lankan Tamil state party wa
 [Data](articles/cda39b1d.json)
 
 [Extended Data](ext_articles/cda39b1d.ext.json)
-
----
-
-### 29 Deputy Ministers sworn in
-
-*2024-11-21 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103673/29-deputy-ministers-sworn-in) · `en`
-
-The Deputy Ministers of the new National People’s Power (NPP) government have been sworn in this evening (21) at the Presidential Secretariat in Colombo.
-
-Accordingly, a total of 29 Deputy Ministers were sworn in before President Anura Kumara Dissanayake today.
-
-The Secretary to the President Dr. Nandika Sanath Kumanayake was also present at the event.
-
-1. Prof. Anil Jayantha Fernando - Deputy Minister of Economic Development
-
-2. Mr. Namal Karunarathne - Deputy Minister of Agriculture and Livestock
-
-3. Mr. Wasantha Piyathissa - Deputy Minister of Rural Development, Social Security and Community Empowerment
-
-4. Mr. Nalin Hewage - Deputy Minister of Vocational Education
-
-5. Mr. R.M. Jayawardena - Deputy Minister of Trade, Commerce and Food Security
-
-6. Mr. Gamagedara Dissanayake - Deputy Minister of Buddhasasana, Religious and Cultural Affairs
-
-8. Mr. Rathna Gamage - Deputy Minister of Deputy Minister of Fisheries, Aquatic and Ocean Resources
-
-...
-
-[Data](articles/cf51f1e7.json)
-
-[Extended Data](ext_articles/cf51f1e7.ext.json)
 
 ---

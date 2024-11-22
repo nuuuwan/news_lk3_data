@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 11:00:09**
+As of **2024-11-22 10:26:43**
 
 ## Newspaper Stats
 
-*Scraped **56,287** Articles*
+*Scraped **56,283** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 435
 colombotelegraphcom | 575
-bbccomsinhala | 586
+bbccomsinhala | 585
 islandlk | 3,367
 economynextcom | 3,413
-dailyftlk | 3,860
+dailyftlk | 3,859
 dailymirrorlk | 4,733
 adalk | 5,298
-adaderanalk | 6,800
-tamilmirrorlk | 7,999
+adaderanalk | 6,799
+tamilmirrorlk | 7,998
 virakesarilk | 9,149
 adaderanasinhalalk | 9,709
 
@@ -26,25 +26,11 @@ adaderanasinhalalk | 9,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,285 (100.0%) of 56,287 articles have been extended.
+56,283 (100.0%) of 56,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
-
-### ரயில் சேவைகளில் தாமதம்
-
-*2024-11-22 10:23:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகளில்-தாமதம்/175-347613) · `ta`
-
-பூசா ரயில் நிலையத்திற்கு அருகில் காலியில் இருந்து கல்கிஸ்ஸை நோக்கி பயணித்துக் கொண்டிருந்த புகையிரதத்தில் ஏற்பட்ட தொழில்நுட்பக் கோளாறு காரணமாக கடலோர ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளது.
-
-இதனால், காலை நேரத்தில் இயக்கப்படும் ரயில் சேவைகளில் தாமதம் ஏற்படும் என ரயில்வே தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/595b5bb5.json)
-
----
 
 ### The budget party attempts to join opposition MPs
 
@@ -93,24 +79,6 @@ War complaints against Israel have been filed in the Criminal Court. It is in th
 [Data](articles/6614d846.json)
 
 [Extended Data](ext_articles/6614d846.ext.json)
-
----
-
-### Strike at University of Ruhuna continues for fourth day
-
-*2024-11-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103683/strike-at-university-of-ruhuna-continues-for-fourth-day) · `en`
-
-The strike action launched by all academic and non-academic staff trade unions, along with student unions affiliated with the University of Ruhuna, demanding the immediate removal of the Vice Chancellor, entered its fourth consecutive day today (Nov. 22).
-
-All academic and non-academic trade unions affiliated with the University of Ruhuna had announced a continuous strike commencing from November 19, demanding the immediate removal of the university’s Vice Chancellor.
-
-However, the University Trade Union Joint Committee (UTUJC), the Federation of University Teachers’ Trade Union Alliance, and the students’ representatives of that university held a discussion with Prime Minister Harini Amarasuriya recently regarding the issue.
-
-...
-
-[Data](articles/f8d62ed0.json)
-
-[Extended Data](ext_articles/f8d62ed0.ext.json)
 
 ---
 
@@ -535,26 +503,6 @@ Meanwhile, the Department of Meteorology has been informed that a low-pressure z
 [Data](articles/f42a9343.json)
 
 [Extended Data](ext_articles/f42a9343.ext.json)
-
----
-
-### දකුණු කොරියාවෙන් ලැබුණු E8 වීසා කෝටාව ශ්‍රී ලංකාවට අහිමි වෙයි ද?
-
-*2024-11-22 04:25:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7mpenm3y8o) · `si`
-
-දකුණු කොරියාවෙන් ලැබුණු E8 වීසා කෝටාව ශ්‍රී ලංකාවට අහිමි වෙයි ද?
-
-දකුණු කොරියාවේ රැකියා වීසා ලැබී ඇති ශ්‍රී ලාංකිකයන් 100 දෙනෙකුට වැඩි පිරිසකට එම රැකියා සඳහා පිටත්ව යාමට රජයේ අනුමැතිය නොලැබීම හේතුවෙන් එම රැකියා අවස්ථා අහිමි වීමේ අවදානමක් මතු වී තිබේ.
-
-E8 කාණ්ඩය හෙවත් සෘතුමය රැකියා සඳහා දකුණු කොරියාවෙන් ලැබී ඇති රැකියා කෝටාව යටතේ වීසා ලබා සිටින ශ්‍රී ලාංකිකයින් 107 දෙනෙක් විදේශ සේවා නියුක්ති කාර්යංශයේ අනුමැතිය ලැබෙන තුරු බලා සිටිති.
-
-එහෙත් එම කාර්යංශය පවසන්නේ, දකුණ කොරියාව සමග ඇති කරගෙන ඇති ගිවිසුම නීතියට අනුකූලව සිදුකර නොමැති බැවින් රැකියා සඳහා පිටත් වීමට අවසර ලබා දිය නොහැකි බව ය.
-
-මාස කිහිපයකට පෙර ශ්‍රී ලාංකිකයන්ට දකුණු කොරියාවේ රැකියා සඳහා වීසා ලැබී තිබූ අතර ඔවුන් පවසන්නේ, නොවැම්බර් 26 වන දා වන විට දකුණු කොරියාවට යාමට නොහැකි වුවහොත් වීසා අවලංගු වී එම රැකියා අහිමි වන බව ය.
-
-...
-
-[Data](articles/649e0ed6.json)
 
 ---
 
@@ -1097,24 +1045,6 @@ Instead, the figures highlight a range of factors, including the fall of other s
 [Data](articles/1a242b79.json)
 
 [Extended Data](ext_articles/1a242b79.ext.json)
-
----
-
-### End of Tamil nationalism? Not according to the numbers
-
-*2024-11-22 00:55:12* · [`dailyftlk`](https://www.ft.lk/columns/End-of-Tamil-nationalism-Not-according-to-the-numbers/4-769523) · `en`
-
-An analysis of Sri Lankan election data highlights a collapse of many Government affiliated parties and reveals why Tamil nationalism might be growing – not shrinking
-
-The 2024 Sri Lankan Parliamentary election concluded last week, in which the ruling National People’s Power (NPP) gained a record majority and made headway into the Tamil homeland. There were notable casualties for senior Tamil nationalist politicians and for the first time ever a southern political party managed to gain a majority in all but one district in the north-east. Commentators have since speculated whether the result spells the beginning of the end for Tamil nationalist politics.
-
-Instead, the figures highlight a range of factors, including the fall of other southern Opposition political parties, leftist coalitions and paramilitary groups that allowed the NPP to siphon votes and grow their base amongst those who had already previously voted for pro-state forces.
-
-...
-
-[Data](articles/48cb569f.json)
-
-[Extended Data](ext_articles/48cb569f.ext.json)
 
 ---
 
@@ -2365,5 +2295,135 @@ Here's a summary of Russia's continental missile attack on Ukraine in approximat
 [Data](articles/2d2d1f2c.json)
 
 [Extended Data](ext_articles/2d2d1f2c.ext.json)
+
+---
+
+### Touglas
+
+*2024-11-21 16:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸூக்கு-பிடியாணை/175-347576) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former Minister Douglas Devananda failed to appear in court due to illness. He faces fraud charges over alleged defraudation of 10 million rupees. A warrant was issued for his testimony, with the next hearing set for January 23.
+
+🟩
+
+Colombo Additional Magistrate Basan Amarasena on Thursday (21) ordered the former Minister Douglas Devananda, who was not present in court to testify in a case.
+
+According to Douglas Devananda's complaint, Subramanian Manoharan, a businessman from Wellawatte, has issued a complaint that he (Douglas Devananda) has not appeared in court.. The case has been filed by the undercover police.
+
+Douglas Devananda said he would not appear in court because he was sick.
+
+Douglas Devananda had lodged a complaint against him for allegedly defrauding ten million rupees each by learn that there was no money in the account on July 9, 2016 or that day.
+
+Attorney -at -law Sampath Hewapatrana, appearing on behalf of the accused, told the court that Devananda, the first witness of the case, was given the last date for testimony.
+
+The magistrate, considering the two sides, issued a warrant for the witness and adjourned the hearing to January 23.
+
+◼️
+
+[Data](articles/d8a66ad9.json)
+
+[Extended Data](ext_articles/d8a66ad9.ext.json)
+
+---
+
+### False hair colors in the market
+
+*2024-11-21 16:37:54* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-හිසකෙස්-වර්ණ-ගණ්වනයන්-වෙළඳපොලේ/11-413205) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Consumer Affairs Authority warns public about false hair colors. Raided businesses selling mislabeled hair dye. Three traders fined for incorrect packaging weights.
+
+🟩
+
+The Consumer Affairs Authority requests the public to be carefully known as the hair is being sold.
+
+The information about such products is also requested to be informed to report to the 1977 Consumer Affairs Authority.
+
+The Consumer Affairs Authority is working on the raid of businesses who were prepared in the hair-black coating market.
+
+According to the Authority, three traders of Pettah and Pettah has already been implemented at the Old Tathoket and Pettah of Pettah and Pettah has been implemented in the Old Tests and Park in People's Park.
+
+It is said that the misconduct black coatings were adjusted to the same, and that the accuracy of the correct pack was 21G and the weight of a sub-production of fake production was 10G.
+
+The offense has been admitted to the three traders after legal action against the Maligakanda Magistrate's Court. Subsequently a fine and a fine of those packaging and a large number of those persons arrested.
+
+◼️
+
+[Data](articles/6f70cfb9.json)
+
+[Extended Data](ext_articles/6f70cfb9.ext.json)
+
+---
+
+### 29 delegates sworn in
+
+*2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
+
+29 officials sworn in as Deputy Ministers. Key appointments: Agriculture, Rural Development, Trade, Buddha Sasana, Foreign Affairs, Industry, Ports, Women & Child Affairs, Provincial Councils, Transport, Health, Plantations, Public Defense, Education, Lands & Irrigation. Presidential Secretary also sworn in.
+
+🟩
+
+Deputy Ministers Deputy Ministers President Anura Kumara Dissanayake today (21)
+
+Namal Karunaratne - Deputy Minister of Agriculture and Livestock
+
+Wasantha Piyatissa - Deputy Minister of Rural Development, Social Security and Community Improvement
+
+R. M. Deputy Minister of Trade, Commerce, Food Safety and Co-operative Development
+
+Dissanayake, Gamagedara Dissanayake Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
+
+Aravarandra - Deputy Minister of Foreign Affairs
+
+Chaturanga Abeysinghe - Deputy Minister of Industry and Entrepreneurship Development
+
+Engineering Janith Kodituwakku - Deputy Minister of Ports and Civil Aviation
+
+Dr. Namal Sudarshana - Deputy Minister of Women and Child Affairs
+
+Ruwan Senarath - Deputy Minister of Provincial Councils and Local Government
+
+Dr. Prasanna Kumara Gunasena - Deputy Minister of Transport and Highways
+
+Dr. Hanshana Wijemun - Deputy Minister of Health and Mass Media
+
+Sandaaringam Pradeep - Deputy Minister of Plantation and Community Infrastructure
+
+...
+
+[Data](articles/073ff21c.json)
+
+[Extended Data](ext_articles/073ff21c.ext.json)
+
+---
+
+### The person who ate the dawn to death
+
+*2024-11-21 16:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடை-சாப்பிட்ட-நபர்-மரணம்/175-347575) · `ta`
+
+A man in Athurugiriya died after eating something harmful. He had a severe cough and was hospitalized. The cause of death is under investigation.
+
+🟩
+
+The incident took place in the Athurugiriya area where a person who was admitted to the hospital due to coughing caused by a dummy was eaten.
+
+The person who had been eating with his family had eaten a vandalist and had a sudden coughing allergy.
+
+Doctors said he died after being taken to the hospital for treatment.
+
+The body of the deceased has been kept at the Homagama Hospital for autopsy and further investigations are underway, police said.
+
+◼️
+
+[Data](articles/646a0f76.json)
+
+[Extended Data](ext_articles/646a0f76.ext.json)
 
 ---

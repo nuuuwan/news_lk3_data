@@ -1,36 +1,252 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 05:50:43**
+As of **2024-11-22 09:05:15**
 
 ## Newspaper Stats
 
-*Scraped **56,260** Articles*
+*Scraped **56,271** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 434
+dbsjeyarajcom | 435
 colombotelegraphcom | 575
-bbccomsinhala | 584
+bbccomsinhala | 585
 islandlk | 3,367
 economynextcom | 3,413
 dailyftlk | 3,859
 dailymirrorlk | 4,733
-adalk | 5,296
+adalk | 5,297
 adaderanalk | 6,795
-tamilmirrorlk | 7,989
+tamilmirrorlk | 7,991
 virakesarilk | 9,149
-adaderanasinhalalk | 9,703
+adaderanasinhalalk | 9,709
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,250 (100.0%) of 56,260 articles have been extended.
+56,270 (100.0%) of 56,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### The first holiday for schools today
+
+*2024-11-22 08:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-இன்று-முதல்-விடுமுறை/175-347604) · `ta`
+
+Schools' first holiday today marks end of third term's first phase. Tamil, Sinhala state-sponsored schools get break. Muslim schools finish on Dec 13. Second phase begins Jan 2.
+
+🟩
+
+The first phase of the third term for schools in 2024 is completed today.
+
+Accordingly, all Tamil and Sinhala schools operating under the state and state sponsorship will be given holidays from today.
+
+In addition, the first phase of the third term of Muslim schools will be completed by the 13th of December.
+
+Accordingly, the second phase of the third term of all schools will be commenced on January 2, the Ministry of Education said.. (A)
+
+◼️
+
+[Data](articles/7d6fbfc7.json)
+
+[Extended Data](ext_articles/7d6fbfc7.ext.json)
+
+---
+
+### Strike on Ruhunu University
+
+*2024-11-22 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203615) · `si`
+
+Ruhuna University strike enters 4th day. Non-academic staff demand removal of Vice Chancellor. University unions met PM. Vice Chancellor refuses to step down. Inter University Academic team joins protest.
+
+🟩
+
+The strike commenced at Ruhuna University today (22) will operate on the fourth day today.
+
+The non-academic staff began the program to take action to remove the Vice Chancellor of the University of Ruhuna.
+
+However, the University Trade Union Joint Committee, University Teachers Union Alliance and the University of the University Teachers' Union Alliance and the University of the University was held with a discussion with Prime Minister Harini Amarasuriya recently.
+
+Dhammika Chairperson of the University Conservation Committee will not give up the Vice Chancellor of the University. Mr. Priyantha said.
+
+Meanwhile, the Inter University Academic team also agitated to remove the Vice Chancellor of the Ruhuna University.
+
+◼️
+
+[Data](articles/ecacf5e1.json)
+
+[Extended Data](ext_articles/ecacf5e1.ext.json)
+
+---
+
+### The lowest windmill zone tomorrow
+
+*2024-11-22 08:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-குறைந்த-காற்றழுத்த-தாழ்வு-மண்டலம்/175-347603) · `ta`
+
+Lowest windmill zone forecast: Southeastern Bengal Sea low-lying area expected tomorrow. Possible strengthening over southwestern Bengal Virgin seas in next two days. Moving towards Sri Lanka's east coast. Public advised to follow meteorological department's instructions.
+
+🟩
+
+The Department of Meteorology has said that in the southeastern Bengal Sea, low -lying low -lying zone may be formed tomorrow.
+
+Over the next two days, it is possible to strengthen over the southwestern Bengal Virgin seas.
+
+It is possible to strengthen and move towards the east coast of Sri Lanka.
+
+The public has been instructed to act on the forefront and suggestions issued by the Department of Meteorology on this issue.. (A)
+
+◼️
+
+[Data](articles/620497e8.json)
+
+[Extended Data](ext_articles/620497e8.ext.json)
+
+---
+
+### Commemoration on National List MP
+
+*2024-11-22 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203614) · `si`
+
+National List MP nominations decision today. Party owns 5 slots, 1 already filled. Remaining 4 to be decided. Election Commission involved. Sri Lanka Muslim Congress appoints former Eravur Municipal Council chairman.
+
+🟩
+
+The final decision on persons who are nominated for the remaining National List MPs in the pro-national list is scheduled to be taken up today (22).
+
+According to a senior spokesperson of the party said that the decision will be met today.
+
+The party owned 5 national listings for the party, and the Secretary-General Ranjith Madduma Bandara has already been sworn in as one of them.
+
+Accordingly, if the remaining national lists are referred to the 4th seats, the spokesperson further stated that the Elections Commission will be referred to today.
+
+Meanwhile, the Sri Lanka Muslim Congress is former chairman of the Eravur Municipal Council for the national list of his party. S. The board has been appointed.
+
+◼️
+
+[Data](articles/4409fa19.json)
+
+[Extended Data](ext_articles/4409fa19.ext.json)
+
+---
+
+### Bus kills electrocution
+
+*2024-11-22 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203613) · `si`
+
+A 45-year-old man from Sevanagala died after being electrocuted while cutting something at home. Police are investigating the incident.
+
+🟩
+
+Police say that a person has died in a criminal accident in Kiriwewa yesterday (21), police said.
+
+The victim is a 45 year old resident of Sevanagala area.
+
+Investigations have revealed that he was electrified while he was cutting at a householdal.
+
+However, Sevanagala police are conducting further investigations.
+
+◼️
+
+[Data](articles/4266fbf4.json)
+
+[Extended Data](ext_articles/4266fbf4.ext.json)
+
+---
+
+### Special notice to candidates sit to the A / L examination
+
+*2024-11-22 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203612) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Disaster Management Center & Exams Dept. join forces for 2124 A/L exams. Low Bay of Bengal pressure forecasted. Emergency response plan activated. Guidelines issued for exam-related challenges. Disaster Hotline: 117 or 0113 668 020. Exam Coordination Number: 1911. GCE 2024 starts Nov 25."
+
+🟩
+
+The Disaster Management Center and the Examinations Department has implemented a joint program.
+
+The 2124 A / L examination is to overcome the disasters that can be caused by the time period.
+
+The Department of Meteorology had foretold the low rate of the Bay of Bay of Bengal during the next week.
+
+This step has been taken to create a good environment to cope with the examination and create a good environment to face the examination successfully with avoiding disasters.
+
+The Disaster Major General Udaya Herath was headed by the Department of Examinations at the Disaster Management Center with the participation of the Department of Examinations.
+
+The joint plan is to strengthen the enclosing coordination of emergency response to the officers who are following the exam period.
+
+Accordingly, the necessary guidelines have already been issued to manage the obstacles that can be managed by the Examination of the Examination, including the Armed Forces, including the police, and the police.
+
+...
+
+[Data](articles/ed6e53eb.json)
+
+[Extended Data](ext_articles/ed6e53eb.ext.json)
+
+---
+
+### Rock robbery arrested
+
+*2024-11-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203611) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Rock robbery arrest: 24-year-old from Badowita detained in Mount Lavinia raid. Suspect linked to Dehiwala incidents involving property damage and furniture theft. Sword recovered."
+
+🟩
+
+The Mt. Mt. Mt.
+
+The arrest was made during a raid on the Mount Lavinia Bureau of Mount Lavinia, Mount Lavinia, Mount Lavinia.
+
+The suspect is a 24 year old resident of Badowita, police said.
+
+The man is a suspect in the Dehiwala Police Division, including the death of a house in the Dehiwala Police Division, and caring for furniture in the Dehiwala Police Division.
+
+The police also recovered a sword used for the above crimes.
+
+◼️
+
+[Data](articles/f6396487.json)
+
+[Extended Data](ext_articles/f6396487.ext.json)
+
+---
+
+### An announcement of the weather
+
+*2024-11-22 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203610) · `si`
+
+Weather alert: Showers/thundershowers forecasted for northern, central regions. Heavy rain possible in western, southern areas. Strong winds predicted. Lightning risk. Low-pressure system developing in southwest. Stay tuned for updates.
+
+🟩
+
+The Department of Meteorology says that showers or thundershowers will occur in the North, North-Central and Eastern provinces today (22).
+
+Thundershowers will develop at several places in the evening, in the evening or night in the rest of the island.
+
+Heavy rains can occur at times in the Western, Sabaragamuwa, Central and Southern provinces, in the North, North-Central and North Western Provinces and in the Matale District.. Strong winds can occur in about 30-40.
+
+Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces may have been methavior in the morning.
+
+The Department also requests the public to take necessary measures to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
+
+Meanwhile, the Department of Meteorology has been informed that a low-pressure zone of the southwestern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying.
+
+...
+
+[Data](articles/f42a9343.json)
+
+[Extended Data](ext_articles/f42a9343.ext.json)
+
+---
 
 ### NPP victory boosts female representation in Parliament to 9%
 
@@ -272,6 +488,8 @@ SriLankan Airlines has won the prestigious 2025 APEX Best Entertainment Award in
 
 [Data](articles/14316988.json)
 
+[Extended Data](ext_articles/14316988.ext.json)
+
 ---
 
 ### AIA Sri Lanka sweeps three awards at International Business Magazine Awards 2024
@@ -286,6 +504,8 @@ Best Insurance Campaign 2024 for the AIA Health Passport Launch: This innovat
 
 [Data](articles/265b504d.json)
 
+[Extended Data](ext_articles/265b504d.ext.json)
+
 ---
 
 ### UN Global Compact Network Sri Lanka and UNDP Sri Lanka support corporates towards decarbonisation efforts
@@ -299,6 +519,42 @@ Senior representatives from UN Global Compact Network Sri Lanka’s participant 
 ...
 
 [Data](articles/348840be.json)
+
+[Extended Data](ext_articles/348840be.ext.json)
+
+---
+
+### Vadamarachchi: What are the differences in the North for military camps?
+
+*2024-11-22 02:07:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn42p0nydz8o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+N
+
+🟩
+
+The road in the Northern Province after the Presidential Election and General Election, the road to the Achchuveli Headquarters, Jaffna, Jaffna was the opening of the people.
+
+It is the first procedure taken to provide relief to the people of the North.
+
+Residents have been convented by the opening of the road from Palali to Atchuveli who had closed about 35 years.
+
+The people have been able to travel more than five kilometers around the Jaffna Defense Forces Headquarters, which have now been able to conclude the two kilometers.
+
+Similarly, the present government returns a military base in the Pathrowentane area in Pasturu, Jaffna, and the Army is preparing to provide the campstown to the first settlers.
+
+Army Spokesperson Major General Fanger General Rasikar General Rasika General Rasika General Rasika General Rasikar General.
+
+The Army roadblock was also dismissed recently in the Elephant Pass area and has no obstacles in the Northern Province today.
+
+...
+
+[Data](articles/e4d1181c.json)
+
+[Extended Data](ext_articles/e4d1181c.ext.json)
 
 ---
 
@@ -358,6 +614,8 @@ The BAIC X55, introduced and marketed in Sri Lanka by David Pieris Automobiles (
 
 [Data](articles/68751051.json)
 
+[Extended Data](ext_articles/68751051.ext.json)
+
 ---
 
 ### Hemsons International unveils a bold new brand identity
@@ -374,6 +632,8 @@ With a history spanning 75 years,Hemsons has always been at the forefront of del
 
 [Data](articles/6f25c632.json)
 
+[Extended Data](ext_articles/6f25c632.ext.json)
+
 ---
 
 ### HUTCH conducts coastal clean-up in celebration of World Sustainability Day
@@ -385,6 +645,8 @@ Hutch actively supports sustainable practices and is dedicated to protecting Sri
 ...
 
 [Data](articles/8391ba0b.json)
+
+[Extended Data](ext_articles/8391ba0b.ext.json)
 
 ---
 
@@ -667,6 +929,22 @@ There are people who believe in other parties without trusting us. That is democ
 ---
 
 ### 2024-11-21 (Thursday)
+
+### 3 சதவீதத்தில் இருந்து 42 சதவீதமாக பதினான்கு மடங்கு பாய்ச்சலில் அநுர குமார திசாநாயக்க எவ்வாறு ஜனாதிபதி பதவியை வென்றெடுத்தார்?
+
+*2024-11-21 23:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85111) · `en`
+
+அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் – 6
+
+ஜனதா விமுக்தி பெரமுனவினதும் ( ஜே.வி.பி.) தேசிய மக்கள் சக்தியினதும் தலைவர் அநுரா குமார திசாநாயக்க 2019 நவம்பர் ஜனாதிபதி தேர்தலில் திசைகாட்டி சின்னத்தில் போட்டியிட்டார். வெறுமனே 418, 553 ( 3.16 சதவீதம் ) வாக்குகளைப் பெற்று மிகவும் அவர்  பின்தங்கிய ஒரு மூன்றாவது இடத்துக்கு வந்தார். மோசமான தோல்வியைக் கண்டு அவர் துவண்டு போகவில்லை. தனது படிமத்தை புதுப்பித்துக்கொண்டு தனது கட்சியின் அரசியல் அணுகுமுறையை முற்றிலும் வேறுபட்டதாக மாற்றிக்கொண்டார்.
+
+அதன் மூலமாக ஜே.வி.பி. தலைமையிலான தேசிய மககள் சக்தியில் அவரால் மெச்சத்தக்க ஒரு மறுமலர்ச்சியை ஏற்படுத்தக்கூடியதாக இருந்தது. 2024 செப்டெம்பர் 21 ஜனாதிபதி தேர்தலில் அநுரா குமார திசாநாயக்க முதலாவதாக வந்தார். அரசியல் ரீதியில் அது ஒரு பிரமாண்டமான பாய்ச்சல். அவர் முதலாவது சுற்று வாக்கு எண்ணிக்கையில் 5, 634, 915 ( 42.31 சதவீதம் )  வாக்குகளையும் இரண்டாவது சுற்று எண்ணிக்கையில் 5, 740, 179 ( 55.89 சதவீதம் ) வாக்குகளையும் பெற்றார். அது உண்மையில் பிரபல்யமான ஒரு  வெற்றியேயாகும்.
+
+...
+
+[Data](articles/81bf3fe3.json)
+
+---
 
 ### Group to solve the damage caused by animals
 
@@ -1484,6 +1762,36 @@ In September 2024, the non-foodstream point inflation has reduced to -2.3% in Oc
 
 ---
 
+### Douglas Devananda arrested
+
+*2024-11-21 17:13:49* · [`adalk`](https://www.ada.lk/breaking_news/ඩග්ලස්-දේවානන්දා-අත්අඩංගුවට-ගන්න-නියෝග/11-413207) · `si`
+
+Douglas Devananda arrested; court summons him as key witness in fraud case. Magistrate issues warrant after defendant fails to provide medical excuse. Case involves alleged cheating of businessman in 2016.
+
+🟩
+
+Epid to appear in court to give evidence in a case. Colombo Additional Magistrate Amarasene issued a warrant at the Leader Minister Douglas Devananda to the Court of Justice to the court.
+
+The magistrate issued a warrant for the notice of the court in the case of Rs.
+
+The CID has filed suicide against the businessman of the Wellawatte resident of the Wellawatte residents that the account has been cheated on two July 9, 2016.
+
+Duglas Devani, the chief witness of the case was not known in the case when the case was summoned.
+
+Did the Magistrate called the court submit a medical report on his illness?The lawyer asked the lawyer, and it would not submit a medical report.
+
+Attorney-at-Law Sampath Hewapathirana, appearing on behalf of the accused, was given last days to appear in court, but he pointed out that he was not presented in court today.
+
+After considering the facts of both sides, the Magistrate issued warrant for the witness in the case was held on January 23.
+
+◼️
+
+[Data](articles/2c80817e.json)
+
+[Extended Data](ext_articles/2c80817e.ext.json)
+
+---
+
 ### Actor Thambi Ramaiah composed the music of 'Raja Kili'
 
 *2024-11-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199347) · `ta`
@@ -2151,243 +2459,5 @@ It is clear that the drug problem has occurred during the production. Investigat
 [Data](articles/431ecc11.json)
 
 [Extended Data](ext_articles/431ecc11.ext.json)
-
----
-
-### First phase of third school term ends tomorrow
-
-*2024-11-21 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103671/first-phase-of-third-school-term-ends-tomorrow) · `en`
-
-The first phase of the third term for the year 2024 of Sinhala and Tamil medium government and government-approved schools will end tomorrow (22), according to the Ministry of Education.
-
-However, for Muslim schools, the first phase of the third term will end on December 13, with term holidays starting from following day.
-
-The second phase of the third school term for the academic year 2024 is scheduled to commence on January 2, 2025 (Thursday).
-
-◼️
-
-[Data](articles/306a35bd.json)
-
-[Extended Data](ext_articles/306a35bd.ext.json)
-
----
-
-### Vijayadasa confirmed the politics
-
-*2024-11-21 15:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-ஓய்வை-உறுதிப்படுத்தினார்-விஜயதாச/175-347569) · `ta`
-
-Dr. Vijayadasa Rajapakse retires from politics, rejects return to Parliament, citing corruption concerns.
-
-🟩
-
-Former Minister Dr. Vijayadasa Rajapakse has announced that he will retire from politics and will not contest the upcoming elections.
-
-He made this statement while responding to questions raised by journalists about his political future after worship at the Dalada House in Kandy.
-
-When asked if there was the possibility of coming back to Parliament, Dr. Rajapakse firmly rejected it.
-
-He said he did not want to be part of the story referred to as corrupt in parliament.
-
-◼️
-
-[Data](articles/a564c845.json)
-
-[Extended Data](ext_articles/a564c845.ext.json)
-
----
-
-### Tomorrow is the first installment holiday
-
-*2024-11-21 15:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-தவணை-விடுமுறை/175-347568) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-First installment holiday: Sinhala/Tamil schools end Dec 6, 2024; Muslim schools end Dec 13, 2024. Second phase resumes Jan 0, 2025.
-
-🟩
-
-By 2024, the Ministry of Education has announced that the first phase of the third school installment for Sinhala and Tamil schools in state schools and state -approved private schools will end on Friday, 2024.
-
-Meanwhile, the first phase of the third school installment in Muslim schools will end on Friday, December 13, 2024 and will begin school holidays after that date.
-
-The Ministry of Education has announced that the second phase of the third term in all schools will resume January 0, 2025.
-
-◼️
-
-[Data](articles/44242470.json)
-
-[Extended Data](ext_articles/44242470.ext.json)
-
----
-
-### "This issue is only a few people"
-
-*2024-11-21 15:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-விடயம்-ஒரு-சிலருக்கு-மாத்திரமே-பிரச்சினை/175-347567) · `ta`
-
-Ravi Karunanayake joins 10th Sri Lankan Parliament, denies controversy impact on party.
-
-🟩
-
-Former Minister Ravi Karunanayake participated in the inaugural session of the 10th Parliament of Sri Lanka today as the National List of the New Democratic Front (NDF).
-
-Commenting on the visit to Parliament, Karunanayake said his appointment was legal through the national list of the New Democratic Front.
-
-Parliamentarian Karunanayake added that the issue is only a few people and that the entire parties have no problem.
-
-He pointed out that he would pay his attention to the rebuilding of the UNP (UNP) and guiding it as a strong political force.
-
-Commenting on the controversy over his appointment to Parliament, Parliamentarian Ravi Karunanayake said the party could not be affected for the benefit of a few.
-
-◼️
-
-[Data](articles/6f8ed6a4.json)
-
-[Extended Data](ext_articles/6f8ed6a4.ext.json)
-
----
-
-### Sri Lanka’s inflation drops to -0.7% in October
-
-*2024-11-21 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103670/sri-lankas-inflation-drops-to-07-in-october) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to -0.7% in October 2024 from -0.2% in September 2024, according to the latest data released by  the Department of Census and Statistics.
-
-Meanwhile, food inflation also decreased to -0.16% in October, down from 0.5% in September 2024.
-
-The NCPI for all items for the month of September 2024 is 203.6 and it records a decrease of -0.5 in index points compared to September 2024.
-
-The month-on-month change was contributed by a decrease in food items of 0.16% and in non-food items of 0.35%, respectively.
-
-◼️
-
-[Data](articles/688fef60.json)
-
-[Extended Data](ext_articles/688fef60.ext.json)
-
----
-
-### Sri Lanka President vows to prevent racism, communal slogans in politics
-
-*2024-11-21 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-vows-to-prevent-racism-communal-slogans-in-politics-189257/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Marxist-leaned President Anura Kumara Dissanayake promised to prevent politicians using racism as well as communal and religious slogans to capture state power in future.
-
-Dissanayake’s National People’s Power swept the parliament election held last week to record a landslide win with 159 seats in the 225-member parliament.
-
-For the first time in Sri Lankan history, a political party was backed by all Sinhala, Tamil, Muslim, and Catholic communities during the election with the majority of them backing the NPP.
-
-The NPP won 21 out of 22 electoral districts and 150 out of 160 electorates, the official election results showed. A Marxists party led coalition has won national elections for the first time in Sri Lanka’s history.
-
-Dissanayaka in his policy statement during the inaugural session of the new parliament said when racism becomes a theme of a political camp; the definite consequence is counter racism from opposition political camps.
-
-...
-
-[Data](articles/d8eea20f.json)
-
-[Extended Data](ext_articles/d8eea20f.ext.json)
-
----
-
-### Postponement of Parliament until December 3
-
-*2024-11-21 15:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பர்-3-வரை-பாராளுமன்றம்-ஒத்திவைப்பு/175-347566) · `ta`
-
-Sri Lanka's Parliament adjourned until Dec 3. President Anura Kumara Dissanayake issued policy report during 10th Parliament session.
-
-🟩
-
-President Anura Kumara Dissanayake has adjourned the Parliament of Sri Lanka until 9:30 am on December 3.
-
-The postponement was followed by the president's issuance of the government's policy report during the 10th Parliament of Parliament today.
-
-◼️
-
-[Data](articles/0f0dc109.json)
-
-[Extended Data](ext_articles/0f0dc109.ext.json)
-
----
-
-### Anura “Alai”(Wave) Engulfs  the Tamil Nationalist Stronghold of  Jaffna. JVP/NPP Comes First in Jaffna with Three of Six Seats
-
-*2024-11-21 15:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85098) · `en`
-
-The National  People’s Power(NPP) known in Sinhala as Jathika Jana Balawegaya(JJB) and Theseeya Makkal Sakthi(TMS) in Tamil has recorded a historic victory in the  Parliamentary elections held on 14 November 2024. The NPP  is a coalition of 21 political entities and trade unions of which the Janatha Vimukthi Peramuna(JVP) is the chief constituent. The NPP  polled 6,863,86 (61.6%) votes to win 159 seats in the 225 member Parliament. Of these 141 are directly elected MPs on a district basis while 18 will be  appointed as  MPs from the  national list.
-
-...
-
-[Data](articles/f1b58dc6.json)
-
-[Extended Data](ext_articles/f1b58dc6.ext.json)
-
----
-
-### Sri Lanka bank financial profiles to improve after ISB restructure: Fitch
-
-*2024-11-21 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-financial-profiles-to-improve-after-isb-restructure-fitch-189250/) · `en`
-
-ECONOMYNEXT – The financial profiles of Sri Lanka’s banks will improve after a successful sovereign debt restructure proposed for local bondholders, Fitch Ratings said with the operating environment also linked to that of the sovereign.
-
-Sri Lanka President Anura Dissanayake said he expected to wrap up ISB restructure by December and sign remaining bilateral debt restructure agreements soon.
-
-“Sri Lanka is close to completing its foreign-currency debt restructuring,” Fitch said.
-
-“A successful outcome, in line with the proposed framework for local bondholders, would be likely to significantly reduce the challenges faced by banks, improving their financial profiles.
-
-“Pressures on foreign- and local-currency funding and liquidity have eased considerably due to better external sector flows and the banks’ efforts to preserve liquidity.
-
-“We expect banks to regain access to foreign-currency wholesale funding, following the restoration of the sovereign’s creditworthiness.”
-
-...
-
-[Data](articles/399161c1.json)
-
-[Extended Data](ext_articles/399161c1.ext.json)
-
----
-
-### “Today, all communities across all provinces have trusted us and granted us this power. It is with profound gratitude that I extend my deepest respect and thanks to the people who trusted us.”-President Anura Kumara Dissanayake
-
-*2024-11-21 15:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85104) · `en`
-
-(Full  Text of Address  Delivered by President Anura Kumara Dissanayake on 21 November 2024 at the Inauguration of the First Session of the Tenth Parliament)
-
-Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
-
-...
-
-[Data](articles/9cd5c793.json)
-
-[Extended Data](ext_articles/9cd5c793.ext.json)
-
----
-
-### Ranil does not know about sending Ravi's name
-
-*2024-11-21 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රවීගේ-නම-යැවීම-ගැන-රනිල්-දන්නේ-නෑ/11-413202) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Ranil Wickremesinghe denies sending Ravi Karunanayake's name to the Election Commission for a National List seat. UNP Chairman Vajira Abeywardena claims this statement is false. The New Democratic Front submitted Karunanayake's name despite an agreement not to do so after the 2024 election. This action is considered a breach of the Memorandum of Understanding between the UNP and New Democratic Front.
-
-🟩
-
-UNP chairman Vajira Abeywardena issued a statement that the statement of former President Ranil Wickremesinghe was completely false to a national listing of the new Democratic Front.
-
-He issued no baseless statements that Ravi Karunanayake's name had been sent to the Elections Commission for the election of the National List.The announcement states.
-
-A special discussion of former executive President Ranil Wickremesinghe was held on November 16, headed by former Executive President Ranil Wickremesinghe.
-
-The Democratic Front will be held at the discussion on the above discussion on the conclusion of the national listing seat.
-
-...
-
-[Data](articles/70695ea4.json)
-
-[Extended Data](ext_articles/70695ea4.ext.json)
 
 ---

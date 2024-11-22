@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 20:01:01**
+As of **2024-11-22 20:41:42**
 
 ## Newspaper Stats
 
-*Scraped **56,364** Articles*
+*Scraped **56,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,302
+adalk | 5,303
 adaderanalk | 6,812
 tamilmirrorlk | 8,012
 virakesarilk | 9,168
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,364 (100.0%) of 56,364 articles have been extended.
+56,364 (100.0%) of 56,365 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,20 @@ Another mother who was giving birth to more than 50 people entered the delivery 
 [Data](articles/06f9de92.json)
 
 [Extended Data](ext_articles/06f9de92.ext.json)
+
+---
+
+### අස්වැසුම ගැන නව රජය තිරණයක් ගනියි
+
+*2024-11-22 18:14:35* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ගැන-නව-රජය-තිරණයක්-ගනියි/11-413214) · `si`
+
+අස්වැසුම සුබසාධක ප්‍රතිලාභ වැඩසටහන සඳහා අයදුම්පත් ඉදිරිපත් කිරිම වෙනුවෙන අතිරේක කාලයක් ලබාදිමට රජය තිරණය කර තිබේ.
+
+ඒසේම අස්වැසුම වැඩසටහනේ පළමු අදියරෙය්දි අගතියට පත් පාර්ශව වෙනුවෙන් දුක් ගැනවිලි ඉදිරිපත් කිරිමටද රජය අවස්ථාව ලබා දි තිබේ.
+
+◼️
+
+[Data](articles/40eb00b1.json)
 
 ---
 
@@ -2549,25 +2563,5 @@ The number could potentially rise if other political parties, such as the Samagi
 [Data](articles/d79b9fb5.json)
 
 [Extended Data](ext_articles/d79b9fb5.ext.json)
-
----
-
-### Ravi K defends NDF National List appointment
-
-*2024-11-22 03:33:43* · [`dailyftlk`](https://www.ft.lk/news/Ravi-K-defends-NDF-National-List-appointment/56-769553) · `en`
-
-MP Ravi Karunanayake yesterday attended the inaugural session of the 10th Parliament as the National List appointment of the New Democratic Front (NDF).
-
-Speaking to the media, he affirmed that his appointment via the NDF’s National List was legal, insisting that he was rightfully nominated by the party.
-
-“It is just two members who are making a big fuss over my nomination, not the entire party,” he claimed, commenting on the controversy surrounding his nomination as the NDF National List candidate.
-
-MP Karunanayake argued that as a senior member of the United National Party (UNP) he has sacrificed a lot and underwent many challenges for the betterment of the party. “We cannot sacrifice our party for the benefit of mere 2-3% of people. Those who know, know,” he said.  Karunanayake said once the agreements that were agreed by the parties are released to the public domain, it will answer many of these questions.
-
-...
-
-[Data](articles/ee310614.json)
-
-[Extended Data](ext_articles/ee310614.ext.json)
 
 ---

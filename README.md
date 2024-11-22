@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 12:01:38**
+As of **2024-11-22 11:13:54**
 
 ## Newspaper Stats
 
-*Scraped **56,301** Articles*
+*Scraped **56,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 435
 colombotelegraphcom | 575
 bbccomsinhala | 586
 islandlk | 3,367
-economynextcom | 3,418
+economynextcom | 3,413
 dailyftlk | 3,860
 dailymirrorlk | 4,733
 adalk | 5,298
-adaderanalk | 6,801
+adaderanalk | 6,800
 tamilmirrorlk | 7,999
 virakesarilk | 9,154
 adaderanasinhalalk | 9,712
@@ -26,133 +26,61 @@ adaderanasinhalalk | 9,712
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,296 (100.0%) of 56,301 articles have been extended.
+56,287 (100.0%) of 56,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### Pilleyan arrives at CID again to record statement
-
-*2024-11-22 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103684/pilleyan-arrives-at-cid-again-to-record-statement-) · `en`
-
-Former state minister Sivanesathurai Chandrakanthan alias Pilleyan has arrived at the Criminal Investigation Department (CID) once again this morning (22) to provide a statement.
-
-Statements are being recorded from him in connection with investigations related to the controversial documentary aired by the British television network Channel 4 concerning the 2019 Easter Sunday terror attacks in Sri Lanka.
-
-Pilleyan previously appeared before the CID on November 20, where he had stated his preference to provide the statement in Tamil. He was subsequently instructed to return today after arrangements were made for language translation.
-
-On 06 September 2023, Channel 4 aired a controversial documentary containing startling accusations relating to the bombings on Easter Sunday (April 21) in 2019 which targeted several Catholic churches and luxury hotels in Sri Lanka. The carnage claimed the lives of more than 260 people and left hundreds of others wounded.
-
-...
-
-[Data](articles/be4fa7cb.json)
-
-[Extended Data](ext_articles/be4fa7cb.ext.json)
-
----
-
-### Sri Lanka tea production down 8-pct in October 2024, exports up
-
-*2024-11-22 11:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-8-pct-in-october-2024-exports-up-189407/) · `en`
-
-ECONOMYEXT – Sri Lanka’s tea production fell 8 percent to 21.15 million kilograms in October, data showed, while exports were up 14 percent to 20 million kilograms.
-
-In the 10 months to October production was 217.65 up 0.5 percent to 216.49 million, Ceylon Tea Brokers said citing Sri Lanka Tea Board data.
-
-Exports were up 1.7 percent in the 10 months to 203 million kilograms.
-
-Export earnings in October 2024 were 126 million up 32.6 percent from 95 million in 2023.
-
-Earnings in the first 10 months were 1.1 billion dollars, against 1 billion last year.
-
-In October 2024 low growns were 12.4 million, down from 13.8 million in October 2023.
-
-In October bulk tea was up at 8.8 million, from 7.6 million last year.
-
-◼️
-
-[Data](articles/26d37907.json)
-
-[Extended Data](ext_articles/26d37907.ext.json)
-
----
-
-### One person killed when a bridge collapsed in Nagoda
+### நாகொடையில் பாலம் இடிந்து விழுந்ததில் ஒருவர் பலி
 
 *2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199381) · `ta`
 
-Bridge collapses in Nagoda, one person killed. Incident occurred on Thursday during maintenance work. Victim trapped under debris. Police investigation ongoing.
+காலி, நாகொடை பத்தேகம பிரதேசத்தில் கிங் கங்கையின் குறுக்கே உள்ள இரும்புப் பாலம் நேற்று வியாழக்கிழமை (21) திடீரென இடிந்து விழுந்ததில் ஒருவர் உயிரிழந்துள்ளதாக நாகொடை பொலிஸார் தெரிவித்தனர்.
 
-🟩
+உயிரிழந்தவர் நேற்றைய தினம் இரும்புப் பாலத்தில் திருத்தப்பணிகளில் ஈடுபட்டிருந்தபோது இப்பாலம் திடீரென இடிந்து விழுந்துள்ளது.
 
-One person was killed when a sudden collapse of the iron bridge across the King Ganga in Galle, Nagoda, Nagoda, collapsed on Thursday (21), Nagoda police said.
-
-The bridge suddenly collapsed when the deceased was engaged in correction at the Iron Bridge yesterday.
-
-The man who was involved in the bridge was trapped under the bridge, police said.
+இதன்போது பாலத்தில் திருத்தப்பணிகளில் ஈடுபட்டிருந்தவர் பாலத்துக்கு அடியில் சிக்கி சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/7142b7f7.json)
 
-[Extended Data](ext_articles/7142b7f7.ext.json)
-
 ---
 
-### Sri Lanka should be cautious about the plans of Adani Group following US allegations - experts
+### அமெரிக்காவின் குற்றச்சாட்டுகளை தொடர்ந்து அதானி குழுமத்தின் திட்டங்கள் குறித்து இலங்கை எச்சரிக்கையாக இருக்கவேண்டும் - நிபுணர்கள்
 
 *2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199386) · `ta`
 
-Sri Lanka urged caution over Adani Group plans amid US lawsuit allegations. Experts warn of potential corruption risks, citing past scandals like Airbus fraud and Pandora Papers revelations. Social media calls for investigation into Adani's projects, aligning with anti-corruption promises made by newly elected officials.
+இலங்கை அதானிகுழுமத்தின் வலுசக்தி திட்டங்கள் குறித்து எச்சரிக்கையுடன் இருக்கவேண்டும் என நிபுணர்கள் தெரிவித்துள்ளனர்.
 
-🟩
+அதானி குழுமத்தின் தலைவர் கௌதம் அதானி உட்பட ஏழு பேருக்கு எதிராக அமெரிக்கா மோசடி குற்றச்சாட்டுகளை சுமத்தி பிடியாணை பிறப்பித்துள்ளது.
 
-Experts have said that Sri Lanka should be cautious about the strength of power.
+இலங்கையில் நிகழ்ந்த ஊழல்கள் குறித்த விபரங்கள் வேறு நியாயாதிக்கங்களி;ல் அம்பலமாவதை பார்த்திருக்கின்றோம் என கொழும்பை தளமாக கொண்ட வெரிட்டே ரிசேர்ச்சின் நிறைவேற்று பணிப்பாளர் நிசான் டி மெல் தெரிவித்துள்ளார்.
 
-The US has issued a lawsuit against seven people, including Adani Group Chairman Gautam Adani.
+சிலவருடங்களிற்கு முன்னர் பிரிட்டனில் இடம்பெற்ற விசாரணையின்போது எயர்பஸ் நிறுவனத்திடமிருந்து ஸ்ரீலங்கன் எயர்லைன்சிற்கான எயர்பஸ் கொள்வனவில் மோசடிகள் ஊழல்கள் இடம்பெற்றதாக குற்றச்சாட்டு வெளியானதை அவர் சுட்டிக்காட்டியுள்ளார்.
 
-"We have seen the details of the corruption in Sri Lanka," said Nissan de Mel, the Colombo -based Veritte Research, said.
-
-He pointed out that a few years ago, he was accused of fraudulent scams at the Airbus purchase for SriLankan Airlines from Airbus.
-
-Pointing out the release of local politicians and traders on Pandora Paper, he said that Sri Lanka should double his actions against corruption to ensure that we are protected from the Nissan Demel scam.
-
-Many people have commented on social media that the Anura Kumaratisanayake government should conduct a serious investigation into the Adani Group's strength plans in Sri Lanka after the release of the Adani Group's bribery scandal.
-
-They pointed out that Anura Kumara Dissanayake, who won the presidential election in September, also promised to eradicate corruption.
+பண்டோரா பேப்பரில் உள்ளுர் அரசியல்வாதிகள்,வர்த்தகர்களின் பெயர்கள் வெளியானதை சுட்டிக்காட்டியுள்ள அவர் நிசான் டிமெல் ஊழல் உடன்படிக்கைகளில் இருந்து நாங்கள் பாதுகாக்கப்படுவதை உறுதி செய்வதற்காக  ஊழலிற்கு எதிரான தனது நடவடிக்கைகளை இலங்கை இரட்டிப்பாக்குவது அவசியம் என தெரிவித்துள்ளார்.
 
 ...
 
 [Data](articles/9de9a917.json)
 
-[Extended Data](ext_articles/9de9a917.ext.json)
-
 ---
 
-### Fire at an apartment in Wellampitiya
+### வெல்லம்பிட்டியில் அடுக்குமாடி குடியிருப்பில் தீ விபத்து
 
 *2024-11-22 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199384) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+வெல்லம்பிட்டிய, சாலமுல்ல வீடமைப்புத் திட்டத்தில் உள்ள அடுக்குமாடி குடியிருப்பில் இன்று வெள்ளிக்கிழமை (22) காலை தீ விபத்து ஏற்பட்டுள்ளதாக வெல்லம்பிட்டிய பொலிஸார் தெரிவித்துள்ளனர்.
 
+இந்த தீ விபத்துக்கு விரைவில் தீர்வு பெற்று தர வேண்டும் என வலியுறுத்தி அப்பகுதி மக்கள்  குடியிருப்பு அருகே போராட்டத்தில் ஈடுப்பட்டனர். இதன்போது, தற்போதைய அரசாங்கத்திற்கு சிரமங்களை ஏற்படுத்துவதற்காக வேண்டுமென்றே தீ வைக்கப்பட்டுள்ளதாகவும் பொதுமக்களில் சிலர் தெரிவித்துள்ளனர்.
 
-
-"Fire breaks out at Wellampitiya apartment. Residents protest for quick resolution. Government accused of causing difficulties. Fire contained, no injuries reported. Cause unknown."
-
-🟩
-
-Wellampitiya police said that a fire broke out this morning (22) morning at an apartment in the Salamulla Housing Project in Wellampitiya.
-
-The people of the area were protesting near the residence, demanding that the fire be resolved soon. In the meantime, some of the public have said that the current government has been deliberate to cause difficulties.
-
-Was brought under control and no one was hurt. The cause of the fire has not yet been identified.
+தீ கட்டுப்பாட்டுக்குள்  கொண்டுவரப்பட்டதுடன், எவருக்கும் காயம் ஏற்படவில்லை. தீ விபத்துக்கான காரணம் இதுவரை கண்டறியப்படவில்லை.
 
 ◼️
 
 [Data](articles/8e7515e7.json)
-
-[Extended Data](ext_articles/8e7515e7.ext.json)
 
 ---
 
@@ -176,61 +104,43 @@ As a result, there will be a delay in railway services operating in the morning,
 
 ---
 
-### Thailand veterinarian resolution to cut Muthuraja elephant's ivory
+### முத்துராஜா யானையின் தந்தங்களை வெட்ட தாய்லாந்து கால்நடை வைத்தியர்கள் தீர்மானம்
 
 *2024-11-22 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199379) · `ta`
 
-Thai vet team considers removing Muthuraja elephant's ivory to ease mobility issues. The 29-year-old pachyderm, relocated from Sri Lanka, struggles lifting its head due to the heavy tusk. Experts weigh options, but require permissions from various organizations before proceeding.
+இலங்கையில் இருந்து தாய்லாந்துக்கு கொண்டு செல்லப்பட்ட 29 வயதுடைய முத்துராஜா என்ற பிளாய் சக் சுரின் யானையின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்காக அதன் தந்தங்களை வெட்டுவதற்கு கால்நடை வைத்தியர்கள் தீர்மானித்துள்ளனர்.
 
-🟩
+இந்த யானை தற்போது தாய்லாந்து நாட்டின் லாம்பாங் நகரத்தில் உள்ள தாய் யானைகள் பாதுகாப்பு மையத்தில் உள்ளது.
 
-Veterinary doctors have decided to cut off their ivory to improve the quality of life of Muthuraja, 29 -year -old Muthuraja, who was taken to Thailand from Sri Lanka.
+மலைப்பாங்கான பகுதிகளில் செல்லும்போது தந்தங்கள் தரையில் சிக்கி இழுக்கப்படுவதைத் தடுக்க அதன் தலையை தூக்கவேண்டியுள்ளதால் முத்துராஜா பெரும் சிரமங்களை எதிர்கொண்டு வருகிறது.
 
-The elephant is currently at the Mother Elephant Safety Center in Lampang, Thailand.
+யானையின் தந்தங்களின் எடையைக் குறைப்பது தொடர்பில் நிபுணர்களிடம் கலந்துரையாடல் நடைபெற்று வருகிறது. எனினும், எந்தவொரு தீர்மானத்தையும் முன்னெடுக்க பல அமைப்புகளின் கருத்துக்கள் மற்றும் அனுமதி தேவைப்படும்.
 
-Muthuraja is facing great difficulties as it has to lift its head to prevent the ivory from being trapped on the ground.
+ப்ளாய் சாக் சுரின் யானையின் முன் இடதுகாலில் காயம் இருப்பதால் நடமாடுவதில் சிக்கல் ஏற்பட்டுள்ளது. தொடர்ந்து சிகிச்சை அளிக்கப்படுவதால் உடல் நலம் முன்னேற்றம் அடைந்து வருகிறது என தெரிவித்துள்ளார்.
 
-Discussions are underway with experts regarding the weight of the elephant's ivory. However, the opinions and permission of many organizations will be required to carry out any resolution.
-
-Blai Sock Surrun Elephant has trouble walking due to injury in front of the front leg. He said that the continued treatment is making improvement.
-
-Muthuraja was one of the elephants gifted to Sri Lanka by 2001.
+2001ஆம் ஆண்டு தாய்லாந்து நாட்டினால் இலங்கைக்கு பரிசாக வழங்கப்பட்ட யானைகளில் முத்துராஜாவும் ஒன்றாகும்.
 
 ◼️
 
 [Data](articles/1bd71f78.json)
 
-[Extended Data](ext_articles/1bd71f78.ext.json)
-
 ---
 
-### Pilleyan is still under CID
+### පිල්ලෙයාන් අදත් CIDයට එයි
 
 *2024-11-22 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203619) · `si`
 
-Pilleyan CID appearance Easter attack investigation Channel 4 claims
+හිටපු රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන් අද (22) දිනයේත් ප්‍රකාශයක් ලබාදීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ ඇත.
 
-🟩
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් බ්‍රිතාන්‍යයේ චැනල් 4 නාලිකාව විකාශය කළ වැඩසටහනක සඳහන් වූ කරුණු සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව එලෙස ඔහුගෙන් ප්‍රකාශ සටහන් කරගනු ඇත.
 
-Former State Minister Sivanesathurai Chandrakanthan, or Pilleyan has arrived at the CID today (22).
+පෙරේදා (20) දිනයේත් ඔහු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනීසිටි අතර එහිදී සිවනේසතුරෙයි චන්ද්‍රකාන්තන් පවසා ඇත්තේ දමිළ භාෂාවෙත් සිය ප්‍රකාශය ලබාදීමට අවශ්‍ය බවය. ඊට අදාළ භාෂා පරිවර්තන කටයුතු සූදානම් කිරීමෙන් පසු අද දිනයේ ඔහුට පැමිණෙන ලෙස දැනුමී තිබේ.
 
-He will record statements in relation to the investigations into the facts mentioned in the British Channel 4 of the British Channel 4 regarding the Easter attack.
-
-Sivanesathurai Chandrakantan has said that he had stated to the Criminal Investigation Department on Monday (20).. After making the translation translation work, he has knowledgeable today.
-
-An Assad Moulana, who was the party's press stories in Sivanesathurai Chandrakanthan, or Pillayan's team, was a partner in Siva Owners.
-
-The Ministry of Defense has received a complaint to the Ministry of Defense, which has been revealed in the contents of the video.
-
-Former Minister of State Sivanesathurai Chandrakanthan, or Pilleyan, has been called on the CID.
-
-However, the former Minister of former Minister of Parliament was not appearing before the CID.
+විනාඩි 50කට ආසන්න කාලයක් විකාශය කෙරුණු අදාළ වීඩියෝවේ සම්මුඛ සාකච්ඡා සඳහා එක්වෙමින් තොරතුරු ඉදිරිපත් කර තිබුණේ හිටපු රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන්ගේ කණ්ඩායමේ මාධ්‍ය ප්‍රකාශක ලෙස කටයුතු කළ ස්විට්සර්ලන්තයේ රැඳී සිටින අසාද් මවුලානා නැමැත්තෙකි.
 
 ...
 
 [Data](articles/b3b0a3b2.json)
-
-[Extended Data](ext_articles/b3b0a3b2.ext.json)
 
 ---
 
@@ -256,39 +166,29 @@ It has also been reported that the party is focusing on the inclusion of MPs rep
 
 ---
 
-### IPL set for three stages
+### IPL අදියර තුනක් සඳහා දින නියම වෙයි
 
 *2024-11-22 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203618) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+ලොව වඩාත් ආකර්ෂණීයම ෆ්‍රැන්චයිස් ක්‍රිකට් ලීගය ලෙසින් සැලකෙන ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ 2025 අදියර ඇතුළුව ඉදිරි තරගාවලි තුනක් පැවැත්වෙන කාලසීමාවන් නිවේදනය කර තිබේ.
 
+මෙලෙස IPL අදියර තුනක තරග පැවැත්වෙන කාලසීමාවක් ප්‍රසිද්ධියට පත්කළ පළමු අවස්ථාව මෙය වෙයි.
 
+ඒ අනුව එළැඹෙන 2025 අදියර මාර්තු 14 වනදා ආරම්භ වන අතර, එහි අවසන් මහා තරගය මැයි 25 වනදා පැවැත්වීමට කටයුතු යොදා ඇත.
 
-IPL 2025: 3 stages, Mar 14-May 25. 2026: Mar 15-May end. 2027: Mar 14-May 30. Matches increased from 74 to 94 in 2027.
+එමෙන්ම 2026 තරගවාරය මාර්තු 15 වනදා ආරම්භ වී මැයි 31 දක්වා පැවැත්වෙන අතර, 2027 තරගවාරය මාර්තු 14 සිට මැයි 30 දක්වා පැවැත්වීමට ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය තීරණය කර තිබේ.
 
-🟩
+කෙසේ නමුත් මෙම වසරේ පැවැත් වූ තරග සංඛ්‍යාවට වඩා එළැඹෙන අදියර දෙකේ තරග සංඛ්‍යාව වැඩිකර ඇත.
 
-The most attractive Franchisis League, the world's most exciting Frances, the Indian Premier League cricket tournament has been announced, including the 2025 tournamental periods.
+ඒ අනුව 2025 හා 2026 අදියරයන්හි තරග සංඛ්‍යාව 84ක් දක්වා වැඩිකර තිබේ.
 
-This is the first time IPL has been made public for a period of three stages.
+එමෙන්ම 2027 වසරේදී එම සංඛ්‍යාව තවත් වැඩිකර තරග 94ක් දක්වා ඉහළ දමා ඇත.
 
-Accordingly, the stage of the coming phase will commence on March 14, and its final will be held on May 25.
-
-The 2026 tournament will commence on March 15 and the 2027 Competition has decided to hold the 2027 Competition from 14 March to May 30.
-
-However, the number of the two-stage competitions has been increased over this year.
-
-Accordingly, 2025 and 2026 have increased to 84 competitions.
-
-In 2027, the number increased to 94 mats.
-
-However, this year was 74 matches.
+කෙසේ නමුත් මෙම වසරේදී පැවැත්වූ තරගාවලියට ඇතුළත් වූයේ තරග 74කි.
 
 ◼️
 
 [Data](articles/c30d87e3.json)
-
-[Extended Data](ext_articles/c30d87e3.ext.json)
 
 ---
 
@@ -317,28 +217,6 @@ War complaints against Israel have been filed in the Criminal Court. It is in th
 [Data](articles/6614d846.json)
 
 [Extended Data](ext_articles/6614d846.ext.json)
-
----
-
-### Outlooks of Adani firms affiliated to Sri Lanka projects cut to negative by S&P
-
-*2024-11-22 09:45:00* · [`economynextcom`](https://economynext.com/outlooks-of-adani-firms-affiliated-to-sri-lanka-projects-cut-to-negative-by-sp-189375/) · `en`
-
-ECONOMYNEXT – The outlook of several Adani companies which are affiliates or parents of project companies in Sri Lanka have been cut to negative by S&P Global Ratings, after corruption and fraud charges were filed in the US against the group.
-
-The outlook of the BBB- rating of Adani Ports and Special Economic Zone Ltd, which is linked to a terminal project at Colombo port was cut to negative.
-
-Adani Green Energy Limited (AGEL), which is promoting a controversial wind power project in Sri Lanka’s Mannar area was not rated by S&P but the outlook of its financing SPV, Adani Green Energy Ltd Restricted Group 2, was cut to negative.
-
-US prosecutors filed charges against the Adani group and several senior executives alleging they bribed Indian officials to get solar power deals. Adani has denied the allegations.
-
-“The allegations could renew questions over the group’s governance practices and damage its reputation,” S & P said.
-
-...
-
-[Data](articles/e9f68ff9.json)
-
-[Extended Data](ext_articles/e9f68ff9.ext.json)
 
 ---
 
@@ -373,26 +251,6 @@ However, the University Trade Union Joint Committee (UTUJC), the Federation of U
 ◼️
 
 [Data](articles/2b8cae38.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.90/95 to dollar, bonds steady
-
-*2024-11-22 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-90-95-to-dollar-bonds-steady-189376/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 290.90/95 to the US dollar on Friday from 290.95/291.05 to the US dollar on Thursday dealers said, while bond yields were stable.
-
-A bond maturing on 15.12.2026 was quoted at 10.10/25 percent, from 10.15/25 percent.
-
-A bond maturing on 15.12.2027 was quoted at 10.85/95 percent, up from 10.80/90 percent.
-
-A bond maturing on 01.05.2028 was quoted at 11.12/20 percent.
-
-In equities, the All Share Price Index opened down 0.34 points, dropping below the 13,000 mark to 12,981. The more liquid S&P SL20 opened down 0.08 percent, or 3.05 points, at 3,857.
-
-◼️
-
-[Data](articles/1366d67b.json)
 
 ---
 
@@ -557,26 +415,6 @@ Meanwhile, the Sri Lanka Muslim Congress (SLMC) yesterday announced M.S. Naleem,
 [Data](articles/5a8592ce.json)
 
 [Extended Data](ext_articles/5a8592ce.ext.json)
-
----
-
-### Sri Lanka bondholders in final round of negotiations: report
-
-*2024-11-22 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-in-final-round-of-negotiations-report-189370/) · `en`
-
-ECONOMYNEXT – Representatives of Sri Lanka’s sovereign bondholders have restricted themselves from trading indicating that they are in the final round of talks with the government to wrap up a bond restructure, a media report said.
-
-There was no immediate comment from either party, Bloomberg Newsires, a financial news service, said.
-
-Sri Lanka is expecting to conclude an exchange of new bonds to defaulted bonds in December, after two years of negotiations, President Anura Dissanayake told parliament on November 21.
-
-Sri Lanka has finalized a deal according to the International Monetary Fund’s, debt sustainability analysis for market access countries, where investors are seeking a higher paying if the country does better than projected.
-
-Under the framework agreement some plain vanilla bonds have been set aside where the coupons could fall on reaching some chosen governance indicators, which could be linked to fiscal performance (such as a revenue target) and/or corruption measures.
-
-...
-
-[Data](articles/565c7a19.json)
 
 ---
 
@@ -853,26 +691,6 @@ Meanwhile, the Department of Meteorology has been informed that a low-pressure z
 [Data](articles/f42a9343.json)
 
 [Extended Data](ext_articles/f42a9343.ext.json)
-
----
-
-### Adani Kenya deals cancelled after US bribery charges
-
-*2024-11-22 06:33:00* · [`economynextcom`](https://economynext.com/adani-kenya-deals-cancelled-after-us-bribery-charges-189325/) · `en`
-
-ECONOMYNEXT – Kenya President William Ruto had cancelled by public announcement, two deals with India’s Adani group after bribery charges were filed in America linked to renewable energy contract in the South Asian nation which was part-financed by US investors, reports said.
-
-The Kenya Electricity Transmission Company Limited (KETRACO) and Adani Energy Solutions Limited had signed a 95.7 billion dollar Kenyan Schilling deal to operate and maintain lines and grid substations for 30 years.
-
-Adani group was also due to build a transmission line in Sri Lanka in a little-known deal linked to its controversial wind power plant.
-
-RElATED India’s Adani to build Sri Lanka transmission line with wind plants
-
-Activists had already gone to court against the plant in Sri Lanka which was awarded without tender. Sri Lanka’s new administration said soon after coming to power that the deal would be ‘reviewed’.
-
-...
-
-[Data](articles/d4a99c4c.json)
 
 ---
 
@@ -2341,5 +2159,161 @@ As well as to remind you of a subject in this place. That is, the Speaker of the
 [Data](articles/445c6c3c.json)
 
 [Extended Data](ext_articles/445c6c3c.ext.json)
+
+---
+
+### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
+
+*2024-11-21 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103674/icc-issues-arrest-warrants-for-israels-netanyahu-gallant-and-hamas-leader) · `en`
+
+Judges at the International Criminal Court (ICC) have issued arrest warrants for Israel’s prime minister and former defence minister, as well as Hamas’s military commander.
+
+A statement said a pre-trial chamber had rejected Israel’s challenges to the court’s jurisdiction and issued warrants for Benjamin Netanyahu and Yoav Gallant.
+
+A warrant was also issued for Mohammed Deif, although the Israeli military has said he was killed in an air strike in Gaza in July.
+
+It found there were “reasonable grounds” that the three men bore “criminal responsibility” for alleged war crimes and crimes against humanity during the war between Israel and Hamas. Both Israel and Hamas have rejected the allegations.
+
+◼️
+
+[Data](articles/b979cd40.json)
+
+[Extended Data](ext_articles/b979cd40.ext.json)
+
+---
+
+### Two people were injured as the package opened
+
+*2024-11-21 17:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதியை-திறந்ததால்-இருவர்-படுகாயம்/175-347578) · `ta`
+
+Two fishermen injured when package exploded while fishing in Saudi seas. Package suspected to be dynamite. Admitted to Mannar District General Hospital and transferred to Jaffna General Hospital for further treatment.
+
+🟩
+
+Two fishermen who were fishing in the Saudbar seas belonging to the Mannar Police Division were admitted to the Mannar District General Hospital on Thursday (21) when the package exploded when the package exploded.
+
+S. Ramesh (age - 37) and A from Mannar Panangattu Kotu area. Aruganathan (age - 37) has been revealed.
+
+They have been admitted to the Mannar District General Hospital for treatment and taken to the Jaffna General Hospital for further treatment.
+
+The injured have voted at the hospital that the package exploded when they checked the packet that was floating in the sea.
+
+However, some fishermen who are fishing in the Mannar area have been suspected that the explosion may have occurred when the two fishermen were using a dynamite explosion as they were fishing.
+
+◼️
+
+[Data](articles/c81a0498.json)
+
+[Extended Data](ext_articles/c81a0498.ext.json)
+
+---
+
+### Actor Param's 'Once Aban A Time in Madras' released in December
+
+*2024-11-21 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199348) · `ta`
+
+"Once Upon a Time in Madras" film directed by Prasad Murugan, starring Bharat, Shaun, Rajaji, Anjali Nair. Music and trailer released, expected December debut.
+
+🟩
+
+The film crew with a special photo of 'Ons Aban A Time in Madras' will be released in December.
+
+Directed by director Prasad Murugan, 'Ons Aban A Time in Madras', Bharat, Shaun, Rajaji, Abirami, Anjali Nair, Pavithra Lakshmi, Kannika, 'Thalaivasal' Vijay, Golden, PGS, Kalki and Syed.
+
+The film, which has been recorded by Kalidas and Kannan. The film is ready in the Hyper Link style thriller Janer. B.. Anand has produced.
+
+The film is expected to be released in December as the music and preview of the film has been released.. The film crew said that the release date will be officially released soon.
+
+◼️
+
+[Data](articles/320010a2.json)
+
+[Extended Data](ext_articles/320010a2.ext.json)
+
+---
+
+### Inflation is reduced
+
+*2024-11-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203602) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Inflation drops: Oct '24 sees -10.7% overall, up from Sep's -2.3%. Food prices rise slightly from 0.5% to 1.3%. Non-food inflation decreases."
+
+🟩
+
+The Department of Census and Statistics announced that the inflation was reported to-10.7% for October 2024 in September 2024.
+
+The feeding of food recorded as 0.5% in September increased to 1.3% in October 2024.
+
+In September 2024, the non-foodstream point inflation has reduced to -2.3% in October 2024.
+
+◼️
+
+[Data](articles/5333f198.json)
+
+[Extended Data](ext_articles/5333f198.ext.json)
+
+---
+
+### Douglas Devananda arrested
+
+*2024-11-21 17:13:49* · [`adalk`](https://www.ada.lk/breaking_news/ඩග්ලස්-දේවානන්දා-අත්අඩංගුවට-ගන්න-නියෝග/11-413207) · `si`
+
+Douglas Devananda arrested; court summons him as key witness in fraud case. Magistrate issues warrant after defendant fails to provide medical excuse. Case involves alleged cheating of businessman in 2016.
+
+🟩
+
+Epid to appear in court to give evidence in a case. Colombo Additional Magistrate Amarasene issued a warrant at the Leader Minister Douglas Devananda to the Court of Justice to the court.
+
+The magistrate issued a warrant for the notice of the court in the case of Rs.
+
+The CID has filed suicide against the businessman of the Wellawatte resident of the Wellawatte residents that the account has been cheated on two July 9, 2016.
+
+Duglas Devani, the chief witness of the case was not known in the case when the case was summoned.
+
+Did the Magistrate called the court submit a medical report on his illness?The lawyer asked the lawyer, and it would not submit a medical report.
+
+Attorney-at-Law Sampath Hewapathirana, appearing on behalf of the accused, was given last days to appear in court, but he pointed out that he was not presented in court today.
+
+After considering the facts of both sides, the Magistrate issued warrant for the witness in the case was held on January 23.
+
+◼️
+
+[Data](articles/2c80817e.json)
+
+[Extended Data](ext_articles/2c80817e.ext.json)
+
+---
+
+### Actor Thambi Ramaiah composed the music of 'Raja Kili'
+
+*2024-11-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199347) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Actor Thambi Ramaiah composed music for 'Raja Kili'. Music launch held in Chennai featuring Samudrakani, Mubasir, Praveen. Directed by Umapati Ramaiah, produced by Suresh Kamakshi. Mix of Tamil films Vinodhaya Siddham and Rakhakannir.
+
+🟩
+
+The music release of the film 'Raja Gili', which plays the role of the Digital Yuga Super Star Supper Star, for the character of the South Indian film industry, was held in Chennai.
+
+Samudrakani, Thambi Ramaiah, Mubasir, Praveen, Vijay Kumaran, Subha Swetha, Andal Priyadarshini. The film is composed by Thambi Ramaiah and produced by producer Suresh Kamakshi on behalf of V House Productions.
+
+The film's music launch was held in Chennai on the 13th of December.. Producer Satya Jyoti DG Thiagarajan - Action King 'Arjun participated in the event.
+
+Speaking at the event, composer and actor Umapati Ramaiah said, “After starring in the film Vinodhaya Siddham, he was confident that the story of the film could be written.After writing this story, I decided that I could run.
+
+After that, producer Suresh Kamakshi gave him the story that Umapati could be introduced as director. He has worked hard and created the film. Many people who are at the peak of fame are in the indescribable suffering today.
+
+...
+
+[Data](articles/3121ec5f.json)
+
+[Extended Data](ext_articles/3121ec5f.ext.json)
 
 ---

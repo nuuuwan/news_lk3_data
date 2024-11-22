@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 15:12:51**
+As of **2024-11-22 15:25:45**
 
 ## Newspaper Stats
 
-*Scraped **56,322** Articles*
+*Scraped **56,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,299
+adalk | 5,300
 adaderanalk | 6,806
 tamilmirrorlk | 8,001
 virakesarilk | 9,157
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,322 (100.0%) of 56,322 articles have been extended.
+56,322 (100.0%) of 56,323 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -339,6 +339,20 @@ Airbus A320 will be operated from Singapore to Singapore every morning or evenin
 [Data](articles/5f425912.json)
 
 [Extended Data](ext_articles/5f425912.ext.json)
+
+---
+
+### සහල් ගැටලුවට අපුර ව්‍යාපාරිකයෙක් විසඳුමක් කියයි
+
+*2024-11-22 12:09:11* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ගැටලුවට-අපුර-ව්‍යාපාරිකයෙක්-විසඳුමක්-කියයි/11-413211) · `si`
+
+ලංකාවේ පවතින සහල් අර්බුදයට කෙටිකාලීන මෙන්ම දිගුකාලීන විසඳුමක් ලෙස වී අලෙවි කරන ගොවින් සහල් අලෙවි කරන පිරිස බවට පත් කරමින් දඹුල්ල ආර්ථික මධ්‍යස්ථානය කේන්ද්‍රකරගෙන සහල් සහ පලතුරු ආර්ථික මධ්‍යස්ථානයක් කඩිනමින් ස්ථාපිත කිරීම සිදුකළහොත් රටේ සහල් අර්බුදයට මෙන්ම පලතුරු අලෙවියට විසඳුම්  ලැබෙන බව දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ ව්‍යාපාරිකයෙකු වන අනුරාධපුර ටී .එම් .එස් .බණ්ඩාර  මහතා රජයට  යෝජනාවක්ගෙන එමින් පැවසීය.
+
+තමන් වසර දහයකට  ඉහතදී සිට පැවැති රජයන් කිහිපයකටම වී ගොවියා වී විකුණනවා වෙනුවට ඔවුන්ගේම සහල් නිෂ්පාදනය කොට වෙළඳපොළට රැගෙන එන ක්‍රමවේදය  යෝජනා කළ ද ඒම යෝජනා සියල්ල පැවති රජයන් ඉවත දැමූ බවත් තමන් රටට ආදරය කරන සාධාරණ ව්‍යාපාරිකයකුන් ලෙස  වර්තමාන  ජනාධිපතිවරයාට කෘෂිකර්ම අමාත්‍යවරයාට වෙළඳ අමාත්‍යවරයාට අනුරාධපුර ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු හැටියට මෙම යෝජනාව ඉදිරිපත් කිරීමට තීරණය කළ බව හෙතෙම සඳහන් කළේය.
+
+...
+
+[Data](articles/1de91041.json)
 
 ---
 
@@ -2327,29 +2341,5 @@ Director Shakti Chidambaram said, “The present caste films of Tamil cinema and
 [Data](articles/2d7b0338.json)
 
 [Extended Data](ext_articles/2d7b0338.ext.json)
-
----
-
-### Actor Joju George's movie 'Weli' will be welcomed in Tamil ..!?
-
-*2024-11-21 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199352) · `ta`
-
-Joju George's Malayalam film "Mudam" releases in Tamil on 22nd. Directorial debut praised by critics. Kamal Haasan promotes film in Chennai. Tamil fans await movie's reception.
-
-🟩
-
-The film 'Mudam' directed by Joju George, the leading star actor in the Malayalam film industry, which made his debut for Tamil fans through the film 'Jagame Tandram', will be released in Tamil from the 22nd of this month.
-
-Actor Joju George's directorial debut with Joju George, Abaya Hiranmaya, Jagar Surya, Ranjith Velayudham, Junice, Abhinaya, Seema, Santini Sridharan.. Vishnu Vijay and Sam c. S.. Actor Joju George has produced the film 'Thriller Janer' on behalf of Papu Pappu.
-
-The film, released in Malayalam last month, was a huge success with fans. Following this, the film is currently being released in Tamil. Sri Gokulam Movies Company in Tamil. The event to promote the film was held in Chennai. The film crew participated in the event.
-
-Meanwhile, Kamal Haasan is starring in Thax Life. It is noteworthy that Kamal Haasan praised the film crew, who was acting in the film 'Payana'.
-
-...
-
-[Data](articles/449da429.json)
-
-[Extended Data](ext_articles/449da429.ext.json)
 
 ---

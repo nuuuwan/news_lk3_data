@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 20:41:42**
+As of **2024-11-22 21:00:42**
 
 ## Newspaper Stats
 
-*Scraped **56,365** Articles*
+*Scraped **56,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,303
 adaderanalk | 6,812
-tamilmirrorlk | 8,012
+tamilmirrorlk | 8,013
 virakesarilk | 9,168
 adaderanasinhalalk | 9,729
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,364 (100.0%) of 56,365 articles have been extended.
+56,365 (100.0%) of 56,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### IMF பிரதிநிதிகளை சந்தித்தார் எதிர்க்கட்சித் தலைவர்
+
+*2024-11-22 20:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-பிரதிநிதிகளை-சந்தித்தார்-எதிர்க்கட்சித்-தலைவர்/175-347627) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கும், சர்வதேச நாணய நிதியத்தின் (IMF) பிரதிநிதிகள் குழுவிற்கும் இடையிலான விசேட சந்திப்பொன்று இன்று (22) கொழும்பில் இடம்பெற்றது.
+
+இச்சந்திப்பில், சர்வதேச நாணய நிதியத்தை பிரதிநிதித்துவப்படுத்தி அதன் உயர் மட்டக் குழுவின் பிரதானி பீட்டர் ப்ரூவர், துணைப் பிரதானி திருபதி Katsiaryna Svirydzenka, வதிவிடப் பிரதிநிதி திருமதி மார்த்தா வோல்டெமிகல் மற்றும் வதிவிட பொருளாதார நிபுணர் மானவி அபேவிக்ரம ஆகியோர் பங்கேற்றிருந்தனர்.
+
+இலங்கை தற்போது எதிர்நோக்கி வரும் வங்குரோத்து நிலையிலிருந்து விடுபடுவதற்கான வழிமுறைகள் தொடர்பில் இங்கு இரு தரப்பினருக்கும் இடையில் நீண்ட கருத்துப் பரிமாற்றம் இடம்பெற்றது. R
+
+◼️
+
+[Data](articles/3bb6c016.json)
+
+---
 
 ### Japan commends new government’s anti-corruption policies
 
@@ -160,17 +176,27 @@ Another mother who was giving birth to more than 50 people entered the delivery 
 
 ---
 
-### අස්වැසුම ගැන නව රජය තිරණයක් ගනියි
+### The new government takes a decision about the relief
 
 *2024-11-22 18:14:35* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ගැන-නව-රජය-තිරණයක්-ගනියි/11-413214) · `si`
 
-අස්වැසුම සුබසාධක ප්‍රතිලාභ වැඩසටහන සඳහා අයදුම්පත් ඉදිරිපත් කිරිම වෙනුවෙන අතිරේක කාලයක් ලබාදිමට රජය තිරණය කර තිබේ.
+Here's a summary of 200 characters:
 
-ඒසේම අස්වැසුම වැඩසටහනේ පළමු අදියරෙය්දි අගතියට පත් පාර්ශව වෙනුවෙන් දුක් ගැනවිලි ඉදිරිපත් කිරිමටද රජය අවස්ථාව ලබා දි තිබේ.
+
+
+New government decides: Extend revenue welfare benefits deadline. Allow farmers to file complaints in first phase of revenue development program.
+
+🟩
+
+The government has decided to provide additional time for the revenue welfare benefit program.
+
+The government has also given the opportunity to submit grievances for agricultural parties in the first phase of the revenue development.
 
 ◼️
 
 [Data](articles/40eb00b1.json)
+
+[Extended Data](ext_articles/40eb00b1.ext.json)
 
 ---
 
@@ -2543,25 +2569,5 @@ In the Visa group, Korea should be employed for 8 months and must come to Sri La
 [Data](articles/649e0ed6.json)
 
 [Extended Data](ext_articles/649e0ed6.ext.json)
-
----
-
-### NPP victory boosts female representation in Parliament to 9%
-
-*2024-11-22 03:36:09* · [`dailyftlk`](https://www.ft.lk/news/NPP-victory-boosts-female-representation-in-Parliament-to-9/56-769554) · `en`
-
-In a landmark achievement, Sri Lanka has seen a 75% increase in female representation in Parliament following the recent election, with a total of 22 women now set to serve as Members of Parliament.
-
-This number is just over 9% out of the total MP representation in Parliament, up from the previous 6%. The previous Parliament had just 12 female MPs, but this election has ushered in 21 newly elected female candidates.
-
-Additionally, the National People’s Power (NPP) has appointed Attorney-at-Law Lakmali Hemachandra to one of its 18 National List seats, further boosting the figure to 22.
-
-The number could potentially rise if other political parties, such as the Samagi Jana Balawegaya (SJB), decide to allocate one of their National List positions to a female candidate, further enhancing gender representation in the legislature.
-
-...
-
-[Data](articles/d79b9fb5.json)
-
-[Extended Data](ext_articles/d79b9fb5.ext.json)
 
 ---

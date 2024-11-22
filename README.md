@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 21:13:02**
+As of **2024-11-22 21:25:45**
 
 ## Newspaper Stats
 
-*Scraped **56,366** Articles*
+*Scraped **56,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,303
+adalk | 5,304
 adaderanalk | 6,812
 tamilmirrorlk | 8,013
 virakesarilk | 9,168
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,365 (100.0%) of 56,366 articles have been extended.
+56,365 (100.0%) of 56,367 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3bb6c016.json)
+
+---
+
+### ජපානයෙන් ලංකාවට සහතිකයක්
+
+*2024-11-22 20:28:52* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-සහතිකයක්/11-413215) · `si`
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ජපාන තානාපති අකියෝ ඉසොමාටා (Akio ISOMATA) මහතා අතර හමුවක් අද (22) පස්වරුවේ ජනාධිපති ලේකම් කාර්යාලයේදී සිදු විය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රමුඛ නව රජයට සුබ පැතුම් එක් කළ ජපාන මහ කොමසාරිස්වරයා, දෙරට අතර පවතින ද්විපාර්ශ්වික සබඳතා තවදුරටත් ඵලදායී ලෙස අඛණ්ඩව ඉදිරියට ගෙන යාමට අපේක්ෂා කරන බව ද සඳහන් කළේය.
+
+නාස්තිය සහ වංචා දූෂණයෙන් තොර රටක් බිහි කිරීමේ සහ ආර්ථිකමය වශයෙන් රට ඉදිරියට ගෙන යෑමේ රජයේ නව ප්‍රතිපත්තිය පිළිබඳව ජපාන රජයේ ප්‍රශංසාව පළ කළ අකියෝ ඉසොමාටා මහතා ශ්‍රී ලංකා නව රජයට සහ ජනාධිපති අනුර කුමාර දිසානායක මහතාට ලබාදිය හැකි උපරිම සහාය ලබාදෙන බවද වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/19e85ab8.json)
 
 ---
 
@@ -2539,35 +2555,5 @@ Activists had already gone to court against the plant in Sri Lanka which was awa
 [Data](articles/d4a99c4c.json)
 
 [Extended Data](ext_articles/d4a99c4c.ext.json)
-
----
-
-### Will Sri Lanka lose E8 visa quota from South Korea?
-
-*2024-11-22 04:25:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7mpenm3y8o) · `si`
-
-Sri Lanka may lose E8 visa quota from South Korea due to legal issues with employment agreements. Over 100 Sri Lankans face losing their jobs after failing to travel to South Korea within the required timeframe. The Ministry of Foreign Employment claims the correct procedures were not followed when signing the agreement.
-
-🟩
-
-Will Sri Lanka lose E8 visa quota from South Korea?
-
-More than 100 Sri Lankans who have received employment visa in South Korea have risen to lose their approval to their jobs.
-
-There are 107 Sri Lankans who have received visa under the job quota received from South Korea, or seasonal jobs.
-
-However, the workshop is said that the covenant with Korea has not been carried out in accordance with the law.
-
-A few months ago, Sri Lankans had received a visa for the jobs of South Korea, saying that if they were unable to go to South Korea, they would lose their jobs.
-
-"Visa Cashals for three months to receive visa. The Visa Mountain 40s before, the Visa Mountains and Visa gave them visas again. Even two or three days will be castly, "Sahauma Ruwan Kumara told Ruwan Kumara Ruwanchagoda to Sinhala.
-
-In the Visa group, Korea should be employed for 8 months and must come to Sri Lanka in the rest of the months. The group received jobs that 8 months to three months, Ruwan said.
-
-...
-
-[Data](articles/649e0ed6.json)
-
-[Extended Data](ext_articles/649e0ed6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 09:42:06**
+As of **2024-11-22 10:15:12**
 
 ## Newspaper Stats
 
-*Scraped **56,281** Articles*
+*Scraped **56,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,859
 dailymirrorlk | 4,733
 adalk | 5,298
 adaderanalk | 6,799
-tamilmirrorlk | 7,996
+tamilmirrorlk | 7,998
 virakesarilk | 9,149
 adaderanasinhalalk | 9,709
 
@@ -26,61 +26,135 @@ adaderanasinhalalk | 9,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,274 (100.0%) of 56,281 articles have been extended.
+56,282 (100.0%) of 56,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### ’ரவியின் பெயர் அனுப்பப்பட்டது ரணிலுக்கு தெரியாது’
+### எதிர்க்கட்சி எம்.பிக்களை இணைத்துக்கொள்ள மொட்டு கட்சி முயற்சி
+
+*2024-11-22 09:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-எம்-பிக்களை-இணைத்துக்கொள்ள-மொட்டு-கட்சி-முயற்சி/175-347612) · `ta`
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தி பின்னர் பிரிந்து சென்ற பிரிவினரை மீண்டும் இணைப்பதற்கான கலந்துரையாடல்கள் ஆரம்பிக்கப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இதன்படி, ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இருந்து தற்போது பாராளுமன்றத்திற்கு தெரிவாகியுள்ள மூன்று பாராளுமன்ற உறுப்பினர்களும் அக்கட்சியில் இருந்து விலகி ஏனைய கட்சிகளில் இருந்து பாராளுமன்றத்திற்கு தெரிவான  பாராளுமன்ற உறுப்பினர்களும், பாராளுமன்றத்தில் ஒரே குழுவாக செயற்படுவது தொடர்பில் கலந்துரையாடியுள்ளனர்.
+
+மேலும் எதிர்க்கட்சியை பிரதிநிதித்துவப்படுத்தும் எம்.பி.க்களை இந்தக் குழுவில் சேர்ப்பது குறித்து, மொட்டு கட்சி கவனம் செலுத்தி வருவதாக மேலும் தெரிவிக்கப்பட்டுள்ளது.  AN
+
+◼️
+
+[Data](articles/31d2ab0c.json)
+
+---
+
+### International Court of Justice
+
+*2024-11-22 09:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நெதன்யாகுவுக்கு-எதிராக-பிடியாணை-பிறப்பித்த-சர்வதேச-நீதிமன்றம்/50-347610) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+ICC issues war crimes order vs Netanyahu over Israel-Hamas conflict. Over 1300 deaths, hostages taken. ICC rejects Israel's explanations. Former Defense Minister Yo Galant also targeted.
+
+🟩
+
+The International Criminal Court yesterday issued a war order against Israeli Prime Minister Benjamin Netanyahu.
+
+On October 7, 2023, Israel Hamas launched a missile attack. More than 1300 people died in this. In addition, some of the Israeli, including the Israeli, were taken as hostage. Israel has been severely retaliated with Gaza, as only a few people have been released on hostage. Attack on Gaza stretches on Hamas support systems. Hizbullahs in Lebanon are being attacked by Iran -backed cleric forces in Syria. 44,000 people, including women and children in Gaza alone. Lebanon has crossed 3,500.
+
+In this backdrop, the International Criminal Court yesterday issued an order against Israeli Prime Minister Benjamin Netanyahu.
+
+War complaints against Israel have been filed in the Criminal Court. It is in this case that Israeli Prime Minister Benjamin Netanyahu has been ordered to arrest the International Criminal Court.
+
+...
+
+[Data](articles/6614d846.json)
+
+[Extended Data](ext_articles/6614d846.ext.json)
+
+---
+
+### Ranil does not know Ravi's name
 
 *2024-11-22 09:32:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-பெயர்-அனுப்பப்பட்டது-ரணிலுக்கு-தெரியாது/175-347609) · `ta`
 
-“புதிய ஜனநாயக முன்னணியின் தேசியப் பட்டியல் உறுப்பினர் பதவிக்காக ரவி கருணாநாயக்கவின் பெயர் தேர்தல்கள் ஆணைக்குழுவுக்கு அனுப்பப்பட்டதாக முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் அறிவிக்கப்பட்டதன் பின்னரே தெரிவித்ததாக கூறப்படுவது பொய்யான செய்தி” என, ஐக்கிய தேசியக் கட்சியின் தலைவர் வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினர் பதவிக்கு ரவி கருணாநாயக்கவின் பெயரை தேர்தல்கள் ஆணைக்குழுவுக்கு அனுப்புவது தொடர்பில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எவ்வித முன்னறிவிப்பும் வழங்கப்படவில்லை என வஜிர அபேவர்தன தெரிவித்துள்ளார்.
 
-புதிய ஜனநாயக முன்னணியால் முன்னிறுத்தப்படும் வேட்பாளருக்கு தேசிய பட்டியல் ஆசனம் ஒன்றை வழங்குவதற்கு இணக்கம் காணப்பட்டதாக கூறப்படும் கருத்தும் அடிப்படையற்றது என, அவர் சுட்டிக்காட்டியுள்ளார்.
 
-...
+Ranil denies Ravi's name sent to Election Commission for National List. Vajira Abeywardena states no notice given to Ranil about Ravi's nomination. Meeting on 16th discussed filling National List seat, but decision made on 19th.
+
+🟩
+
+"It is false news that Ravi Karunanayake's name has been sent to the Election Commission for the National List of the New Democratic Front, has said that it was false to say that it was false.
+
+Vajira Abeywardena has said that former President Ranil Wickremesinghe has not been given any notice regarding Ravi Karunanayake's name to the Election Commission for the post of National List Member of Parliament.
+
+He pointed out that the alleged concept that the National List seat was complied with to the candidate presented by the new Democratic Front was baseless.
+
+Abeywardena added that it was decided at a meeting of party leaders held on the 16th under the leadership of Ranil Wickremesinghe to discuss a discussion held on November 19 on the filling of the National List Member of Parliament.. That
+
+◼️
 
 [Data](articles/9c9275ab.json)
 
+[Extended Data](ext_articles/9c9275ab.ext.json)
+
 ---
 
-### ஐஸ் போதைப் பொருளுடன் இருவர் கைது
+### Two arrested with ice drug
 
 *2024-11-22 09:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஐஸ்-போதைப்-பொருளுடன்-இருவர்-கைது/73-347608) · `ta`
 
-ஐஸ் போதைப் பொருட்களை நீண்ட காலமாக  சிறுபொதி செய்து வியாபாரம் செய்து வந்த இரண்டு சந்தேகநபர்களை  கல்முனை விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+Two arrests made in Kalmunai STF operation. Suspects found with ice drugs totaling 1840mg. Investigation ongoing.
 
-வியாழக்கிழமை (21 ) இரவு  கல்முனை விசேட அதிரடிப்படையினருக்கு  கிடைக்கப்பெற்ற இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட  சோதனை நடவடிக்கையின் போது சந்தேகத்திற்கிடமாக நடமாடிய இருவர்  ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்டனர்.
+🟩
 
-இதன் போது கல்முனைக்குடி 9ஆம் பிரிவு மதிரிஸா வீதியில்  வசிக்கும் 26 வயதுடைய நபர் 970 மில்லி கிராம் ஐஸ் போதைப் பொருளுடனும் கல்முனைக்குடி 2 ஆம் பிரிவு  கிறீன் பீல்ட் பகுதியைச் சேர்ந்த 20 வயதுடைய சந்தேக நபர்  870 மில்லி கிராம்   போதைப் பொருளுடனும் கைதாகினர்.
+Kalmunai Special Task Force (STF) has arrested two suspects who have long been working on ice drugs.
 
-கைதான 2  சந்தேகநபர்களையும்   கல்முனை பொலிஸ் நிலையத்தில் ஒப்படைத்த கல்முனை விசேட அதிரடிப்படையினர் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+Two suspects were arrested with ice drugs during a raid on the Kalmunai Special Task Force on Thursday night (21).
 
-மேலும்  இந்த கைது நடவடிக்கையானது கல்முனை விசேட அதிரடிப்படை முகாம் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஆர்.ஏ.டி.சி.எஸ்.ரத்நாயக்கவின் பணிப்புரைக்கமைய  முன்னெடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+A 26 -year -old man in Kalmunaikudi 9th Section 9th Division was arrested with 970mg of ice and 20 -year -old suspect from Green Field in Kalmunaikudi, 870 mg.
 
-...
+The Kalmunai Special Task Force (STF) is conducting further investigations, who handed over the two suspects to the Kalmunai Police Station.
+
+The arrest was carried out by the Inspector General of Police, RACS Ratnayake, the Superintendent of Police in charge of the Kalmunai Special Task Force.
+
+It is also worth noting that ice drugs have been recovering in the area for the past few days.. Remble
+
+◼️
 
 [Data](articles/68befd87.json)
 
+[Extended Data](ext_articles/68befd87.ext.json)
+
 ---
 
-### எம்.பி.க்களுக்கு இனி சொகுசு வாகனங்கள் இல்லை
+### MPs no longer have luxury vehicles
 
 *2024-11-22 09:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-க்களுக்கு-இனி-சொகுசு-வாகனங்கள்-இல்லை/175-347607) · `ta`
 
-அனைத்து பாராளுமன்ற உறுப்பினர்களுக்கும் எரிபொருள் சிக்கன வாகனக்கள் வழங்கப்படும் என, பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சு தெரிவித்துள்ளது.
+Here's a 200-character summary:
 
-பதவிக்காலம் முடியும் வரை அந்த வாகனத்தை பயன்படுத்தி மக்கள் சேவையை, உறுப்பினர்கள் மேற்கொள்ள முடியும் என, அமைச்சர் ஆனந்த விஜேபால குறிப்பிட்டுள்ளார்.
 
-மக்களின் வரிப்பணம் விரயமாவதை குறைக்கும் வகையில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும், அமைச்சர் தெரிவித்தார்.AN
+
+MPs lose luxury cars; austerity vehicles given. Parliamentarians can use them till office end. Aim: Reduce taxpayer burden.
+
+🟩
+
+Fuel austerity vehicles will be provided to all parliamentarians, the Ministry of Public Safety and Parliamentary Affairs said.
+
+Minister Ananda Wijebala said that members of the people can use the vehicle until the end of office.
+
+The action has been taken to reduce the people's taxpayer, the minister said.
 
 ◼️
 
 [Data](articles/a07b8c31.json)
+
+[Extended Data](ext_articles/a07b8c31.ext.json)
 
 ---
 
@@ -117,6 +191,8 @@ The Railway Department has advised that morning train operations may also be aff
 ◼️
 
 [Data](articles/11c8d859.json)
+
+[Extended Data](ext_articles/11c8d859.ext.json)
 
 ---
 
@@ -160,6 +236,8 @@ Meanwhile, the Sri Lanka Muslim Congress (SLMC) yesterday announced M.S. Naleem,
 
 [Data](articles/5a8592ce.json)
 
+[Extended Data](ext_articles/5a8592ce.ext.json)
+
 ---
 
 ### Special notice issued for A/L examination candidates
@@ -177,6 +255,8 @@ Under the patronage of the Director General of the DMC, Major General (Retired) 
 ...
 
 [Data](articles/08cb41cd.json)
+
+[Extended Data](ext_articles/08cb41cd.ext.json)
 
 ---
 
@@ -199,6 +279,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times over Northern, 
 ...
 
 [Data](articles/37eda504.json)
+
+[Extended Data](ext_articles/37eda504.ext.json)
 
 ---
 
@@ -2337,59 +2419,5 @@ The body of the deceased has been kept at the Homagama Hospital for autopsy and 
 [Data](articles/646a0f76.json)
 
 [Extended Data](ext_articles/646a0f76.ext.json)
-
----
-
-### First Parliamentary Committee Meeting of Tamil State Party
-
-*2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199328) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-First TNA parliamentary committee meeting held at Parliament Library on Thursday. All TNA MPs attended.
-
-🟩
-
-The first parliamentary committee meeting of the Sri Lankan Tamil state party was held at the Parliament Library on Thursday (21). All the MPs of the TNA were present.
-
-◼️
-
-[Data](articles/cda39b1d.json)
-
-[Extended Data](ext_articles/cda39b1d.ext.json)
-
----
-
-### 29 Deputy Ministers sworn in
-
-*2024-11-21 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103673/29-deputy-ministers-sworn-in) · `en`
-
-The Deputy Ministers of the new National People’s Power (NPP) government have been sworn in this evening (21) at the Presidential Secretariat in Colombo.
-
-Accordingly, a total of 29 Deputy Ministers were sworn in before President Anura Kumara Dissanayake today.
-
-The Secretary to the President Dr. Nandika Sanath Kumanayake was also present at the event.
-
-1. Prof. Anil Jayantha Fernando - Deputy Minister of Economic Development
-
-2. Mr. Namal Karunarathne - Deputy Minister of Agriculture and Livestock
-
-3. Mr. Wasantha Piyathissa - Deputy Minister of Rural Development, Social Security and Community Empowerment
-
-4. Mr. Nalin Hewage - Deputy Minister of Vocational Education
-
-5. Mr. R.M. Jayawardena - Deputy Minister of Trade, Commerce and Food Security
-
-6. Mr. Gamagedara Dissanayake - Deputy Minister of Buddhasasana, Religious and Cultural Affairs
-
-8. Mr. Rathna Gamage - Deputy Minister of Deputy Minister of Fisheries, Aquatic and Ocean Resources
-
-...
-
-[Data](articles/cf51f1e7.json)
-
-[Extended Data](ext_articles/cf51f1e7.ext.json)
 
 ---

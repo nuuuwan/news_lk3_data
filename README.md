@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 05:12:42**
+As of **2024-11-23 05:25:58**
 
 ## Newspaper Stats
 
-*Scraped **56,415** Articles*
+*Scraped **56,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
-tamilmirrorlk | 8,015
+tamilmirrorlk | 8,016
 virakesarilk | 9,182
 adaderanasinhalalk | 9,733
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,415 (100.0%) of 56,415 articles have been extended.
+56,415 (100.0%) of 56,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### ஐ.எம்.எப். மூன்றாவது மீளாய்வு கலந்துரையாடல் வெற்றி
+
+*2024-11-23 01:29:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-மூன்றாவது-மீளாய்வு-கலந்துரையாடல்-வெற்றி/175-347642) · `ta`
+
+சர்வதேச நாணய நிதியத்துடன் நடத்தப்பட்ட மூன்றாவது மீளாய்வு கலந்துரையாடல் நேற்று (22) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+இதில் சர்வதேச நாணய நிதியத்தின் சார்பில் சிரேஷ்ட தூதுக்குழு பிரதானி பீட்டர் ப்ரூவர் உள்ளிட்ட பிரதிநிதிகள் கலந்துகொண்டிருந்ததுடன் இலங்கை அரசாங்கம் சார்பில் பொருளாதார அபிவிருத்தி பிரதியமைச்சர் அனில் ஜயந்த பெர்னாண்டோ உள்ளிட்ட குழுவினரும் கலந்துகொண்டனர்.
+
+இதன்படி, சர்வதேச நாணய நிதியத்திற்கும் இலங்கை அரசாங்கத்திற்கும் இடையில் இடம்பெற்ற மூன்றாவது மீளாய்வு தொடர்பான கலந்துரையாடல் வெற்றிகரமாக நிறைவடைந்துள்ளது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/03efdeea.json)
+
+---
 
 ### Akash player in the Sri Lankan cricket team under the age of 17;Team captain Ananda player Kithma
 
@@ -2415,35 +2431,5 @@ UNCITRAL, established in 1966 and headquartered in Vienna, is the core legal bod
 [Data](articles/21228d28.json)
 
 [Extended Data](ext_articles/21228d28.ext.json)
-
----
-
-### Two persons arrested with heroin in two different areas!
-
-*2024-11-22 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199396) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"2 arrests: Woman (Athurugiriya) & man (Peliyagoda) caught with heroin. Athurugiriya: 8g seized. Peliyagoda: 14g seized."
-
-🟩
-
-Two persons, including a woman with heroin, were arrested on Thursday, police said that the surrounding area under the police division of Athurugiriya and Peliyagoda was arrested on Thursday.
-
-Accordingly, a woman has been arrested by the Athurugiriya police with heroin drugs in Habaragada, which belongs to the Athurugiriya police division.
-
-The police have seized 08 grams of heroin from the arrested woman.
-
-Meanwhile, a suspect has been arrested by the Peliyagoda police with heroin drugs in the Taramaduwatta area, which belongs to the Peliyagoda Police Division.
-
-Fourteen grams of heroin has been seized by the police from the arrested suspect.
-
-◼️
-
-[Data](articles/d49dbfc8.json)
-
-[Extended Data](ext_articles/d49dbfc8.ext.json)
 
 ---

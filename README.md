@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 19:42:20**
+As of **2024-11-22 20:01:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,362 (100.0%) of 56,364 articles have been extended.
+56,364 (100.0%) of 56,364 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ He also reaffirmed Japan’s readiness to provide maximum support to Sri Lanka�
 
 [Data](articles/6256d336.json)
 
+[Extended Data](ext_articles/6256d336.ext.json)
+
 ---
 
 ### Sri Lanka says discussions with IMF on third review concluded successfully
@@ -65,6 +67,8 @@ Accordingly, the discussions between the IMF and the Government of Sri Lanka per
 ◼️
 
 [Data](articles/c96729bb.json)
+
+[Extended Data](ext_articles/c96729bb.ext.json)
 
 ---
 

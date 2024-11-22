@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 17:25:50**
+As of **2024-11-22 17:44:11**
 
 ## Newspaper Stats
 
-*Scraped **56,342** Articles*
+*Scraped **56,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,301
-adaderanalk | 6,808
+adaderanalk | 6,809
 tamilmirrorlk | 8,010
 virakesarilk | 9,160
 adaderanasinhalalk | 9,722
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,342 (100.0%) of 56,342 articles have been extended.
+56,343 (100.0%) of 56,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### MP Dilith Jayaweera calls on Malwathu Mahanayake Thero
+
+*2024-11-22 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103692/mp-dilith-jayaweera-calls-on-malwathu-mahanayake-thero) · `en`
+
+‘Sarvajana Balaya’ Member of Parliament, Dilith Jayaweera, has emphasized the need to change the prevailing parliamentary system of the opposition opposing all initiatives of the government and to establish a knowledgeable tradition within the legislative framework.
+
+He made these observations during a meeting with the Chief Prelate of the Malwatta Chapter of the Siam Nikaya, Most Venerable Thibbatuwawe Sri Siddhartha Sumangala Thero.
+
+Jayaweera worshipped at the Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) during a visit to Kandy today (22), where he also received blessings from the Maha Sangha.
+
+He was accompanied on the visit by the Chairman of ‘Sarvajana Balaya,’ Roshan Ranasinghe, National Organizer Dilum Amunugama, and several others.
+
+They subsequently visited the Malwathu Maha Viharaya, where they paid their respects to the Chief Prelate of the Malwatta Chapter, Most Venerable Thibbatuwawe Sri Siddhartha Sumangala Nayaka Thero, and received his blessings.
+
+...
+
+[Data](articles/0b3640b5.json)
+
+[Extended Data](ext_articles/0b3640b5.ext.json)
+
+---
 
 ### Another accusation against Adani;Problem with Jegan Mohan?
 
@@ -2387,31 +2409,5 @@ The National Peace Council (NPC) extends its congratulations to President Anura 
 [Data](articles/cb7d0bc1.json)
 
 [Extended Data](ext_articles/cb7d0bc1.ext.json)
-
----
-
-### The government is acting against the people's decree
-
-*2024-11-22 01:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-ஆணைக்கு-எதிரான-செயல்படும்-அரசாங்கம்/175-347600) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Government contradicts election promises on IMF deal. Opposition leader criticizes current administration for ignoring public mandate and pursuing previous policies.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the current government's claim that the current government is carrying out the International Monetary Fund Agreement, which is under pressing the people of the last government.
-
-He said this while speaking to the media after the President's Policy Declaration held in Parliament yesterday.
-
-Some of the issues put forward on the election platforms show the contradiction compared to the issues put forward in Parliament today. We were shocked when we listened to the issues put forward on bilateral loans and bail bonds in compliance with the International Monetary Fund.. The current rulers have announced on the election platform that the new agreement is reached by changing the agreement that has already been made. But the government is currently working away from it. This is a serious matter.
-
-...
-
-[Data](articles/a119284b.json)
-
-[Extended Data](ext_articles/a119284b.ext.json)
 
 ---

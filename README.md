@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 21:13:02**
+As of **2024-11-22 21:41:59**
 
 ## Newspaper Stats
 
-*Scraped **56,366** Articles*
+*Scraped **56,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,303
-adaderanalk | 6,812
+adalk | 5,304
+adaderanalk | 6,813
 tamilmirrorlk | 8,013
 virakesarilk | 9,168
 adaderanasinhalalk | 9,729
@@ -26,25 +26,71 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,365 (100.0%) of 56,366 articles have been extended.
+56,367 (100.0%) of 56,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### IMF பிரதிநிதிகளை சந்தித்தார் எதிர்க்கட்சித் தலைவர்
+### We cannot move forward without restoring public’s trust in public service - President
+
+*2024-11-22 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103696/we-cannot-move-forward-without-restoring-publics-trust-in-public-service-president-) · `en`
+
+President Anura Kumara Dissanayake called upon all public officials to unite with a common purpose and work together to transform the motherland into a better nation.
+
+He made this statement today (22) during his visit to the Ministry of Defence at the Defence Headquarters premises in Akuregoda, where he assumed duties as the new Defence Minister, the President’s Media Division (PMD) said.
+
+Following the reception, the President held a meeting with the commanders of the tri-forces and senior officials of the Ministry of Defence, where they discussed ongoing and future initiatives of the Ministry, the PMD added.
+
+President Dissanayake stated that the new government is dedicated to promoting good governance and seeks the support of everyone for the nation’s development program.
+
+...
+
+[Data](articles/218d2298.json)
+
+---
+
+### The Leader of the opposition has met IMF delegates
 
 *2024-11-22 20:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-பிரதிநிதிகளை-சந்தித்தார்-எதிர்க்கட்சித்-தலைவர்/175-347627) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கும், சர்வதேச நாணய நிதியத்தின் (IMF) பிரதிநிதிகள் குழுவிற்கும் இடையிலான விசேட சந்திப்பொன்று இன்று (22) கொழும்பில் இடம்பெற்றது.
+Opposition leader meets IMF team in Colombo. Discussion focused on Sri Lanka's financial crisis resolution strategies.
 
-இச்சந்திப்பில், சர்வதேச நாணய நிதியத்தை பிரதிநிதித்துவப்படுத்தி அதன் உயர் மட்டக் குழுவின் பிரதானி பீட்டர் ப்ரூவர், துணைப் பிரதானி திருபதி Katsiaryna Svirydzenka, வதிவிடப் பிரதிநிதி திருமதி மார்த்தா வோல்டெமிகல் மற்றும் வதிவிட பொருளாதார நிபுணர் மானவி அபேவிக்ரம ஆகியோர் பங்கேற்றிருந்தனர்.
+🟩
 
-இலங்கை தற்போது எதிர்நோக்கி வரும் வங்குரோத்து நிலையிலிருந்து விடுபடுவதற்கான வழிமுறைகள் தொடர்பில் இங்கு இரு தரப்பினருக்கும் இடையில் நீண்ட கருத்துப் பரிமாற்றம் இடம்பெற்றது. R
+A special meeting was held in Colombo today (22) between Opposition Leader Sajith Premadasa and the International Monetary Fund (IMF) delegation.
+
+Representing the International Monetary Fund and its high -level committee chief Peter Bruver, deputy chief Katsiaryna svirydzenka, resident representative Mrs. Martha Woldemical and Resident Economist Manavi Abeywickrama were also present.
+
+A long exchange between the two sides has taken place regarding the steps to free from the bankruptcy that is currently facing Sri Lanka. Remble
 
 ◼️
 
 [Data](articles/3bb6c016.json)
+
+[Extended Data](ext_articles/3bb6c016.ext.json)
+
+---
+
+### Sri Lanka certified in Japan
+
+*2024-11-22 20:28:52* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-සහතිකයක්/11-413215) · `si`
+
+Sri Lanka-Japan ties strengthen as Presidential Secretary meets Japanese Ambassador. Both nations commit to fostering bilateral relations and supporting each other's policies.
+
+🟩
+
+Presidential Secretary Dr. Nandika Sanath Sanath and Japanese Ambassador Akassomata (AKIO ISOMATA) took place at the Presidential Secretariat this afternoon.
+
+The High Commissioner for the new government led by President Anura Kumara Dissanayake, the High Commissioner of Japan is expected to continue continuously forwarding bilateral relations between the two countries.
+
+The Government of Japan, who praised the government's new policy of creating a country without a country's new policy and the country's new policy of promotion of waste and corruption, the Government of Sri Lanka will be given the best support of the Sri Lanka Government and President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/19e85ab8.json)
+
+[Extended Data](ext_articles/19e85ab8.ext.json)
 
 ---
 
@@ -2517,57 +2563,5 @@ Meanwhile, the Department of Meteorology has been informed that a low-pressure z
 [Data](articles/f42a9343.json)
 
 [Extended Data](ext_articles/f42a9343.ext.json)
-
----
-
-### Adani Kenya deals cancelled after US bribery charges
-
-*2024-11-22 06:33:00* · [`economynextcom`](https://economynext.com/adani-kenya-deals-cancelled-after-us-bribery-charges-189325/) · `en`
-
-ECONOMYNEXT – Kenya President William Ruto had cancelled by public announcement, two deals with India’s Adani group after bribery charges were filed in America linked to renewable energy contract in the South Asian nation which was part-financed by US investors, reports said.
-
-The Kenya Electricity Transmission Company Limited (KETRACO) and Adani Energy Solutions Limited had signed a 95.7 billion dollar Kenyan Schilling deal to operate and maintain lines and grid substations for 30 years.
-
-Adani group was also due to build a transmission line in Sri Lanka in a little-known deal linked to its controversial wind power plant.
-
-RElATED India’s Adani to build Sri Lanka transmission line with wind plants
-
-Activists had already gone to court against the plant in Sri Lanka which was awarded without tender. Sri Lanka’s new administration said soon after coming to power that the deal would be ‘reviewed’.
-
-...
-
-[Data](articles/d4a99c4c.json)
-
-[Extended Data](ext_articles/d4a99c4c.ext.json)
-
----
-
-### Will Sri Lanka lose E8 visa quota from South Korea?
-
-*2024-11-22 04:25:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7mpenm3y8o) · `si`
-
-Sri Lanka may lose E8 visa quota from South Korea due to legal issues with employment agreements. Over 100 Sri Lankans face losing their jobs after failing to travel to South Korea within the required timeframe. The Ministry of Foreign Employment claims the correct procedures were not followed when signing the agreement.
-
-🟩
-
-Will Sri Lanka lose E8 visa quota from South Korea?
-
-More than 100 Sri Lankans who have received employment visa in South Korea have risen to lose their approval to their jobs.
-
-There are 107 Sri Lankans who have received visa under the job quota received from South Korea, or seasonal jobs.
-
-However, the workshop is said that the covenant with Korea has not been carried out in accordance with the law.
-
-A few months ago, Sri Lankans had received a visa for the jobs of South Korea, saying that if they were unable to go to South Korea, they would lose their jobs.
-
-"Visa Cashals for three months to receive visa. The Visa Mountain 40s before, the Visa Mountains and Visa gave them visas again. Even two or three days will be castly, "Sahauma Ruwan Kumara told Ruwan Kumara Ruwanchagoda to Sinhala.
-
-In the Visa group, Korea should be employed for 8 months and must come to Sri Lanka in the rest of the months. The group received jobs that 8 months to three months, Ruwan said.
-
-...
-
-[Data](articles/649e0ed6.json)
-
-[Extended Data](ext_articles/649e0ed6.ext.json)
 
 ---

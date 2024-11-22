@@ -1,36 +1,152 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 05:50:43**
+As of **2024-11-22 08:06:57**
 
 ## Newspaper Stats
 
-*Scraped **56,260** Articles*
+*Scraped **56,267** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 434
 colombotelegraphcom | 575
-bbccomsinhala | 584
+bbccomsinhala | 585
 islandlk | 3,367
 economynextcom | 3,413
 dailyftlk | 3,859
 dailymirrorlk | 4,733
-adalk | 5,296
+adalk | 5,297
 adaderanalk | 6,795
 tamilmirrorlk | 7,989
 virakesarilk | 9,149
-adaderanasinhalalk | 9,703
+adaderanasinhalalk | 9,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,250 (100.0%) of 56,260 articles have been extended.
+56,261 (100.0%) of 56,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### ජාතික ලැයිස්තු මන්ත්‍රී ධුර ගැන සජබ අවසන් තීරණය අද
+
+*2024-11-22 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203614) · `si`
+
+සමගි ජන බලවේගයේ ඉතිරි ජාතික ලැයිස්තු මන්ත්‍රී ධුර සඳහා නම් කරන පුද්ගලයින් සම්බන්ධයෙන් වන අවසන් තීරණය අද (22) දිනයේ ගැනීමට නියමිතව තිබේ.
+
+ඒ අනුව අද දිනයේ රැස්වී අදාළ තීරණය ගැනීමට නියමිත බව එම පක්ෂයේ ජ්‍යෙෂ්ඨ ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+සමගි ජන බලවේගය පක්ෂය සඳහා ජාතික ලැයිස්තු මන්ත්‍රී ධුර 5ක් හිමිවු අතර මේ වනවිටත් ඉන් එක් මන්ත්‍රී ධුරයක් සඳහා එහි මහලේකම් රංජිත් මද්දුම බණ්ඩාර මහතා දිවුරුම්දී තිබේ.
+
+ඒ අනුව ඉතිරි ජාතික ලැයිස්තු මන්ත්‍රී ධුර 4 සඳහා වන නම් අද දිනයේ මැතිවරණ කොමිෂන් සභාව වෙත යොමු කරන බව එම ප්‍රකාශකයා වැඩිදුරටත් පැවසීය.
+
+මේ අතර, ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය සිය පක්ෂයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා එරාවූර් නගර සභාවේ හිටපු සභාපති එම්. එස්. නලීම් මහතාව පත් කර තිබේ.
+
+◼️
+
+[Data](articles/4409fa19.json)
+
+---
+
+### විදුලිසැර වැදී අයෙක් මරුට
+
+*2024-11-22 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203613) · `si`
+
+සෙවනගල පොලිස් වසමේ කිරිවැව ප්‍රදේශයේදී ඊයේ (21) දහවල් කාලයේ විදුලිසැර වැදීමකින් සිදු වූ අනතුරකින් පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+මරණකරු වයස අවුරුදු 45ක් වූ වැලිආර, සෙවනගල ප්‍රදේශයේ පදිංචිකරුවෙකු බව සඳහන්.
+
+ඔහු නිවසක බ්ලොක්ගල් කපමින් සිටියදී විදුලිසැර වැදී ඇති බවට දැනට සිදුකරන ලද විමර්ශනවලදී අනාවරණය වී ඇත.
+
+කෙසේ නමුත් මරණය සම්බන්ධයෙන් සෙවනගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/4266fbf4.json)
+
+---
+
+### උසස් පෙළ විභාගයට පෙනීසිටින අපේක්ෂකයින්ට විශේෂ දැනුම්දීමක්
+
+*2024-11-22 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203612) · `si`
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය සහ විභාග දෙපාර්තමේන්තුව ඒකාබද්ධ වැඩසටහනක් ක්‍රියාත්මක කර තිබේ.
+
+ඒ, 2024 උසස් පෙළ විභාගය පවත්වනු ලබන කාලසීමාව තුළ ඇතිවිය හැකි ආපදා තත්ත්වයන් මගහරවා ගනිමින් බාධාවකින් තොරව විභාගය පවත්වාගෙන යෑම සඳහා ය.
+
+ඉදිරි සතිය තුළ බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිත අඩුපීඩන තත්ත්වයක් වර්ධන විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් පුරෝකථනය කර තිබුණි.
+
+ඒ හේතුවෙන් ඇතිවිය හැකි ආපදා තත්ත්වයන් මගහරවා ගනිමින් විභාග කාලසීමාව තුළදී ආපදා හේතුවෙන් සිසුන්ට මුහුණදීමට සිදුවිය හැකි බාධා මග හරවාගනිමින් සාර්ථකව විභාගයට මුහුණදීමට අවශ්‍ය යහපත් පරිසරයක් නිර්මාණය කිරීමට මෙම පියවර ගෙන ඇත.
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂ ජනරාල් විශ්‍රාමික මේජර් ජෙනරාල් උදය හේරත් මහතාගේ ප්‍රධානත්වයෙන් විභාග දෙපාර්තමේන්තුව සහ අනෙකුත් ආයතනවල නිලධාරීන්ගේ සහභාගිත්වයෙන් ජාතික මට්ටමේ සිට දිස්ත්‍රික් මට්ටම දක්වා සියලු අංශ දැනුවත් කිරීමේ වැඩසටහනක් පසුගියදා ආපදා කළමනාකරණ මධ්‍යස්ථානයේදී පවත්වා තිබුණි.
+
+...
+
+[Data](articles/ed6e53eb.json)
+
+---
+
+### Rock robbery arrested
+
+*2024-11-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203611) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Rock robbery arrest: 24-year-old from Badowita detained in Mount Lavinia raid. Suspect linked to Dehiwala incidents involving property damage and furniture theft. Sword recovered."
+
+🟩
+
+The Mt. Mt. Mt.
+
+The arrest was made during a raid on the Mount Lavinia Bureau of Mount Lavinia, Mount Lavinia, Mount Lavinia.
+
+The suspect is a 24 year old resident of Badowita, police said.
+
+The man is a suspect in the Dehiwala Police Division, including the death of a house in the Dehiwala Police Division, and caring for furniture in the Dehiwala Police Division.
+
+The police also recovered a sword used for the above crimes.
+
+◼️
+
+[Data](articles/f6396487.json)
+
+[Extended Data](ext_articles/f6396487.ext.json)
+
+---
+
+### An announcement of the weather
+
+*2024-11-22 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203610) · `si`
+
+Weather alert: Showers/thundershowers forecasted for northern, central regions. Heavy rain possible in western, southern areas. Strong winds predicted. Lightning risk. Low-pressure system developing in southwest. Stay tuned for updates.
+
+🟩
+
+The Department of Meteorology says that showers or thundershowers will occur in the North, North-Central and Eastern provinces today (22).
+
+Thundershowers will develop at several places in the evening, in the evening or night in the rest of the island.
+
+Heavy rains can occur at times in the Western, Sabaragamuwa, Central and Southern provinces, in the North, North-Central and North Western Provinces and in the Matale District.. Strong winds can occur in about 30-40.
+
+Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces may have been methavior in the morning.
+
+The Department also requests the public to take necessary measures to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
+
+Meanwhile, the Department of Meteorology has been informed that a low-pressure zone of the southwestern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying.
+
+...
+
+[Data](articles/f42a9343.json)
+
+[Extended Data](ext_articles/f42a9343.ext.json)
+
+---
 
 ### NPP victory boosts female representation in Parliament to 9%
 
@@ -272,6 +388,8 @@ SriLankan Airlines has won the prestigious 2025 APEX Best Entertainment Award in
 
 [Data](articles/14316988.json)
 
+[Extended Data](ext_articles/14316988.ext.json)
+
 ---
 
 ### AIA Sri Lanka sweeps three awards at International Business Magazine Awards 2024
@@ -286,6 +404,8 @@ Best Insurance Campaign 2024 for the AIA Health Passport Launch: This innovat
 
 [Data](articles/265b504d.json)
 
+[Extended Data](ext_articles/265b504d.ext.json)
+
 ---
 
 ### UN Global Compact Network Sri Lanka and UNDP Sri Lanka support corporates towards decarbonisation efforts
@@ -299,6 +419,28 @@ Senior representatives from UN Global Compact Network Sri Lanka’s participant 
 ...
 
 [Data](articles/348840be.json)
+
+[Extended Data](ext_articles/348840be.ext.json)
+
+---
+
+### වඩමාරච්චි: උතුරේ හමුදා කඳවුරුවල සිදුවන වෙනස්කම් මොනවා ද?
+
+*2024-11-22 02:07:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn42p0nydz8o) · `si`
+
+2024 ජනාධිපතිවරණයෙන් සහ  මහ මැතිවරණයෙන්  අනතුරුව උතුරු පළාතේ ආරක්ෂාව සම්බන්ධයෙන් වන විශේෂ සිදුවීමක් වූයේ, වසර ගණනාවක් යාපනය වඩමාරච්චි ජනතාව බලාපොරොත්තු වු යාපනය, ආරක්ෂක සේනා මූලස්ථානය හරහා අච්චුවේලි දක්වා වැටී ඇති මාර්ගය ජනතාවගේ ගමනාගමන කටයුතු වෙනුවෙන් විවෘත කිරීම ය.
+
+එය ජාතික ජන බලවේගය රජය උතුරේ  ජනතාවට සහනයක් සැලසීම සඳහා ගනු ලැබූ පළමු ක්‍රියාමාර්ගය ලෙස දැක්විය හැකිය.
+
+වසර 35 ක පමණ කාලයක් වසා දමා තිබු පලාලි සිට අච්චුවේලි දක්වා වන මාර්ගය විවෘත කිරීම මගින් ප්‍රදේශවාසීන්ට මහත් සහනයක් ලැබී තිබේ.
+
+මාර්ගය වසා තිබීම හේතුවෙන් කිලෝමීටර් පහකට වැඩි දුරක් යාපනය ආරක්ෂක සේනා මූලස්ථාන කඳවුර වටා ගමන් කිරීමට ජනතාවට සිදුවු අතර එය කිලෝමීටර් දෙකක් වැනි කෙටි දුරකින් නිමා කර ගැනීමට ජනතාවට දැන් හැකියාව ලැබී ඇත.
+
+එලෙසම වර්තමාන ආණ්ඩුව පාර්ලිමේන්තු මැතිවරණය ජයගැනීමෙන් අනතුරුව යාපනය පේදුරුතුඩුව කට්කෝවලන් ප්‍රදේශයේ අක්කර අටක පමණ භූමි ප්‍රදේශයක පිහිටි හමුදා කඳවුරක් ඉවත් කොට අදාළ කඳවුරු භූමිය මුල් පදිංචිකරුවන් වෙත ලබාදීමට යුද හමුදාව මේවන විට සුදානම් වෙමින් සිටියි.
+
+...
+
+[Data](articles/e4d1181c.json)
 
 ---
 
@@ -358,6 +500,8 @@ The BAIC X55, introduced and marketed in Sri Lanka by David Pieris Automobiles (
 
 [Data](articles/68751051.json)
 
+[Extended Data](ext_articles/68751051.ext.json)
+
 ---
 
 ### Hemsons International unveils a bold new brand identity
@@ -374,6 +518,8 @@ With a history spanning 75 years,Hemsons has always been at the forefront of del
 
 [Data](articles/6f25c632.json)
 
+[Extended Data](ext_articles/6f25c632.ext.json)
+
 ---
 
 ### HUTCH conducts coastal clean-up in celebration of World Sustainability Day
@@ -385,6 +531,8 @@ Hutch actively supports sustainable practices and is dedicated to protecting Sri
 ...
 
 [Data](articles/8391ba0b.json)
+
+[Extended Data](ext_articles/8391ba0b.ext.json)
 
 ---
 
@@ -1484,6 +1632,24 @@ In September 2024, the non-foodstream point inflation has reduced to -2.3% in Oc
 
 ---
 
+### ඩග්ලස් දේවානන්දා අත්අඩංගුවට ගන්න නියෝග
+
+*2024-11-21 17:13:49* · [`adalk`](https://www.ada.lk/breaking_news/ඩග්ලස්-දේවානන්දා-අත්අඩංගුවට-ගන්න-නියෝග/11-413207) · `si`
+
+නඩුවක සාක්කි දීමට අධිකරණයේ පෙනී නොසිටි ඊ.පි.ඩි.පි. නායක හිටපු අමාත්‍ය ඩග්ලස් දේවානන්ද මහතා වහාම අත්අඩංගුවට ගෙනන අධිකරණයටට ඉදිරිපත් කරන ලෙස නියම කරමින් කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා ඊයේ (21) වරෙන්තු නිකුත් කළේය.
+
+අගරු චෙක්පතක් දී රුපියල් කෝටි දෙකක වංචාවක් කළ බවට ඩග්ලස් දේවානන්ද මහතා වැල්ලවත්තේ පදිංචි ව්‍යාපාරිකයකුට එරෙහිව පවරා ඇති නඩුවක සාක්කිදී සඳහා අධිකරණයේ පෙනී නොසිටීම හේතූවෙන් මහේස්ත්‍රාත්වයා මෙලෙස වරෙන්තු නිකුත් කළේය.
+
+2016 ජූලි 9 වැනිදා හෝ ඊට ආසන්න දිනයක ගිණුමේ මුදල් නොමැති බව දනිමින්ම රුපියල් මිලියන දහය බැගින් වූ අගරු චෙක්පත් දෙකක් දී වංචා කළ බවට වැල්ලවත්තේ පදිංචි සුභමනියන් මනෝහරන් නමැති ව්‍යාපාරිකයාට එරෙහිව රහස් පොලිසියය විසින් නඩු පවරා තිබිණී.
+
+මෙම නඩුව විභාග කිරරීම සඳහා කැඳවනු ලැබු අවස්ථාවේ නඩුවේ ප්‍රධාන සාක්කිකරු වු ඩග්ලස් දේවානන්ද මහතා අධිකරණයේ පෙන්ී නොසිටි අතර ඔහු වෙනුවෙන් පෙනී සිටි නිතීඥවරයා කරුණු දක්වමින් සාක්ෂිකරු අසනීපයෙන් පසුවන බැවින් අද දින අධිකරණයේ පෙනී නොසිටින බව දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/2c80817e.json)
+
+---
+
 ### Actor Thambi Ramaiah composed the music of 'Raja Kili'
 
 *2024-11-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199347) · `ta`
@@ -2245,149 +2411,5 @@ Commenting on the controversy over his appointment to Parliament, Parliamentaria
 [Data](articles/6f8ed6a4.json)
 
 [Extended Data](ext_articles/6f8ed6a4.ext.json)
-
----
-
-### Sri Lanka’s inflation drops to -0.7% in October
-
-*2024-11-21 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103670/sri-lankas-inflation-drops-to-07-in-october) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to -0.7% in October 2024 from -0.2% in September 2024, according to the latest data released by  the Department of Census and Statistics.
-
-Meanwhile, food inflation also decreased to -0.16% in October, down from 0.5% in September 2024.
-
-The NCPI for all items for the month of September 2024 is 203.6 and it records a decrease of -0.5 in index points compared to September 2024.
-
-The month-on-month change was contributed by a decrease in food items of 0.16% and in non-food items of 0.35%, respectively.
-
-◼️
-
-[Data](articles/688fef60.json)
-
-[Extended Data](ext_articles/688fef60.ext.json)
-
----
-
-### Sri Lanka President vows to prevent racism, communal slogans in politics
-
-*2024-11-21 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-vows-to-prevent-racism-communal-slogans-in-politics-189257/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Marxist-leaned President Anura Kumara Dissanayake promised to prevent politicians using racism as well as communal and religious slogans to capture state power in future.
-
-Dissanayake’s National People’s Power swept the parliament election held last week to record a landslide win with 159 seats in the 225-member parliament.
-
-For the first time in Sri Lankan history, a political party was backed by all Sinhala, Tamil, Muslim, and Catholic communities during the election with the majority of them backing the NPP.
-
-The NPP won 21 out of 22 electoral districts and 150 out of 160 electorates, the official election results showed. A Marxists party led coalition has won national elections for the first time in Sri Lanka’s history.
-
-Dissanayaka in his policy statement during the inaugural session of the new parliament said when racism becomes a theme of a political camp; the definite consequence is counter racism from opposition political camps.
-
-...
-
-[Data](articles/d8eea20f.json)
-
-[Extended Data](ext_articles/d8eea20f.ext.json)
-
----
-
-### Postponement of Parliament until December 3
-
-*2024-11-21 15:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பர்-3-வரை-பாராளுமன்றம்-ஒத்திவைப்பு/175-347566) · `ta`
-
-Sri Lanka's Parliament adjourned until Dec 3. President Anura Kumara Dissanayake issued policy report during 10th Parliament session.
-
-🟩
-
-President Anura Kumara Dissanayake has adjourned the Parliament of Sri Lanka until 9:30 am on December 3.
-
-The postponement was followed by the president's issuance of the government's policy report during the 10th Parliament of Parliament today.
-
-◼️
-
-[Data](articles/0f0dc109.json)
-
-[Extended Data](ext_articles/0f0dc109.ext.json)
-
----
-
-### Anura “Alai”(Wave) Engulfs  the Tamil Nationalist Stronghold of  Jaffna. JVP/NPP Comes First in Jaffna with Three of Six Seats
-
-*2024-11-21 15:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85098) · `en`
-
-The National  People’s Power(NPP) known in Sinhala as Jathika Jana Balawegaya(JJB) and Theseeya Makkal Sakthi(TMS) in Tamil has recorded a historic victory in the  Parliamentary elections held on 14 November 2024. The NPP  is a coalition of 21 political entities and trade unions of which the Janatha Vimukthi Peramuna(JVP) is the chief constituent. The NPP  polled 6,863,86 (61.6%) votes to win 159 seats in the 225 member Parliament. Of these 141 are directly elected MPs on a district basis while 18 will be  appointed as  MPs from the  national list.
-
-...
-
-[Data](articles/f1b58dc6.json)
-
-[Extended Data](ext_articles/f1b58dc6.ext.json)
-
----
-
-### Sri Lanka bank financial profiles to improve after ISB restructure: Fitch
-
-*2024-11-21 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-financial-profiles-to-improve-after-isb-restructure-fitch-189250/) · `en`
-
-ECONOMYNEXT – The financial profiles of Sri Lanka’s banks will improve after a successful sovereign debt restructure proposed for local bondholders, Fitch Ratings said with the operating environment also linked to that of the sovereign.
-
-Sri Lanka President Anura Dissanayake said he expected to wrap up ISB restructure by December and sign remaining bilateral debt restructure agreements soon.
-
-“Sri Lanka is close to completing its foreign-currency debt restructuring,” Fitch said.
-
-“A successful outcome, in line with the proposed framework for local bondholders, would be likely to significantly reduce the challenges faced by banks, improving their financial profiles.
-
-“Pressures on foreign- and local-currency funding and liquidity have eased considerably due to better external sector flows and the banks’ efforts to preserve liquidity.
-
-“We expect banks to regain access to foreign-currency wholesale funding, following the restoration of the sovereign’s creditworthiness.”
-
-...
-
-[Data](articles/399161c1.json)
-
-[Extended Data](ext_articles/399161c1.ext.json)
-
----
-
-### “Today, all communities across all provinces have trusted us and granted us this power. It is with profound gratitude that I extend my deepest respect and thanks to the people who trusted us.”-President Anura Kumara Dissanayake
-
-*2024-11-21 15:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85104) · `en`
-
-(Full  Text of Address  Delivered by President Anura Kumara Dissanayake on 21 November 2024 at the Inauguration of the First Session of the Tenth Parliament)
-
-Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
-
-...
-
-[Data](articles/9cd5c793.json)
-
-[Extended Data](ext_articles/9cd5c793.ext.json)
-
----
-
-### Ranil does not know about sending Ravi's name
-
-*2024-11-21 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රවීගේ-නම-යැවීම-ගැන-රනිල්-දන්නේ-නෑ/11-413202) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Ranil Wickremesinghe denies sending Ravi Karunanayake's name to the Election Commission for a National List seat. UNP Chairman Vajira Abeywardena claims this statement is false. The New Democratic Front submitted Karunanayake's name despite an agreement not to do so after the 2024 election. This action is considered a breach of the Memorandum of Understanding between the UNP and New Democratic Front.
-
-🟩
-
-UNP chairman Vajira Abeywardena issued a statement that the statement of former President Ranil Wickremesinghe was completely false to a national listing of the new Democratic Front.
-
-He issued no baseless statements that Ravi Karunanayake's name had been sent to the Elections Commission for the election of the National List.The announcement states.
-
-A special discussion of former executive President Ranil Wickremesinghe was held on November 16, headed by former Executive President Ranil Wickremesinghe.
-
-The Democratic Front will be held at the discussion on the above discussion on the conclusion of the national listing seat.
-
-...
-
-[Data](articles/70695ea4.json)
-
-[Extended Data](ext_articles/70695ea4.ext.json)
 
 ---

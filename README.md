@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 18:02:40**
+As of **2024-11-22 18:38:17**
 
 ## Newspaper Stats
 
-*Scraped **56,353** Articles*
+*Scraped **56,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,301
-adaderanalk | 6,809
-tamilmirrorlk | 8,010
+adalk | 5,302
+adaderanalk | 6,810
+tamilmirrorlk | 8,012
 virakesarilk | 9,165
 adaderanasinhalalk | 9,727
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 9,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,343 (100.0%) of 56,353 articles have been extended.
+56,344 (100.0%) of 56,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### Hospital Administration Report on Mannar Emergency
+
+*2024-11-22 18:04:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-அவசர-நிலை-குறித்து-வைத்தியசாலை-நிர்வாகம்-அறிக்கை/72-347626) · `ta`
+
+Here's a summary of the report in approximately 200 characters:
+
+
+
+Mannar Hospital faces crisis after tragic events. Demonstrations disrupt services, threatening patient safety. Medical staff intimidated, equipment damaged. Political interference hampers proper care. Investigation promised to address root causes.
+
+🟩
+
+Mannar Hospital Director, Drugs, Doctors, Assistant Medical Officers, Nurses, Nurses, Health Officers, Health Staff, Patients, Technical Assistants and Technical AssistantsHave issued one.
+
+A loss is unbearable in any way. Despite the causes, the loss can hurt everyone's mind.
+
+A healthy community must support that lost family and help them to recover from it and take action if any errors have been proven.. Have the right to fight everyone in a democratic country. But any struggle must be quiet, constructive and persecuted others.
+
+Mother and Chey Death held at Mannar District General Hospital. It is their right to struggle to make it complete.
+
+The uncomfortable incident in the name of a demonstration around the hospital when the hospital staff was shocked by that tragedy, has led to the following worrisome conditions.
+
+Another mother who had been giving birth to more than 50 people entered the delivery room and dismantled the privacy and his service.
+
+...
+
+[Data](articles/a0416350.json)
+
+[Extended Data](ext_articles/a0416350.ext.json)
+
+---
+
+### Complaint filed with CID against MP Archchuna Ramanathan
+
+*2024-11-22 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103693/complaint-filed-with-cid-against-mp-archchuna-ramanathan) · `en`
+
+A group of civil society activists today lodged a complaint with the Criminal Investigation Department (CID) against newly elected Jaffna District Independent MP Dr. Archchuna Ramanathan.
+
+The complaint was filed by the civil society activists requesting the CID to investigate certain controversial comments made by the parliamentarian in a video posted on the social media platform Facebook.
+
+A video of the independent MP went viral on social media yesterday (21) which showed him seated in the seat reserved for the Leader of the Opposition in the House and refusing to move despite repeated requests by the parliamentary staff, during the inaugural session of the 10th Parliament.
+
+The MP’s behavior and comments were the subject of intense discussion even on social media platforms.
+
+Dr. Ramanathan was elected to Parliament representing Jaffna District Independent Group No. 17 from the Jaffna District.
+
+◼️
+
+[Data](articles/e6f0dc0f.json)
+
+---
+
+### இருக்கை சண்டை ; அர்ச்சுனாவுக்கு எதிராக CID-யில் முறைப்பாடு
+
+*2024-11-22 17:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருக்கை-சண்டை-அர்ச்சுனாவுக்கு-எதிராக-CID-யில்-முறைப்பாடு/175-347625) · `ta`
+
+புதிய பாராளுமன்ற உறுப்பினராக பதவிப் பிரமாணம் செய்து கொண்ட ராமநாதன் அர்ச்சுனாவுக்கு எதிராக சிவில் செயற்பாட்டாளர்கள் குழுவொன்று குற்றப் புலனாய்வு திணைக்களத்தில் முறைப்பாடு ஒன்றை சமர்ப்பித்துள்ளனர்.
+
+பாராளுமன்ற உறுப்பினர்களின் சிரேஷ்டத்துவத்திற்கு ஏற்ப ஆசனங்கள் ஒதுக்கப்படாததால், நேற்று (21) பாராளுமன்ற உறுப்பினர்களுக்கு எந்த ஆசனத்திலும் அமர வாய்ப்பு வழங்கப்பட்டது.
+
+இதன்போது யாழ்.மாவட்ட சுயேட்சை பாராளுமன்ற உறுப்பினர் வைத்தியர் இராமநாதன் அர்ச்சுனா சபையில் எதிர்க்கட்சித் தலைவருக்கு வழங்கப்பட்ட ஆசனத்தில் அமர்ந்தார்.
+
+பாராளுமன்ற ஊழியர் ஒருவர் வந்து எம்.பி.யிடம் இது பாரம்பரியமாக எதிர்க்கட்சித் தலைவருக்கு ஒதுக்கப்பட்ட ஆசனம் என்று தெரிவித்தபோதும் அவர் ஆசனத்தை விட்டு வெளியேற மறுத்துவிட்டார்.
+
+மேலும் சுயேட்சை எம்.பி அங்கு நடந்துகொண்ட விதம் சமூக ஊடகங்களில் கூட பெரிதும் விவாதிக்கப்பட்ட நிலையில், அவருக்கு எதிராக குற்றப் புலனாய்வு திணைக்களத்தில் முறைப்பாடு பதிவுசெய்யப்பட்டுள்ளது.. R
+
+◼️
+
+[Data](articles/303b4972.json)
+
+---
 
 ### வடகிழக்குக்கு அதிகாரமளிப்பதை எதிர்த்த ஜே.வி.பி. 53 ஆண்டுகளின் பின் கொள்கையை மாற்றிக் கொண்டமை மகிழ்ச்சியளிக்கிறது - ஐக்கிய மக்கள் சக்தி
 
@@ -175,6 +247,26 @@ They subsequently visited the Malwathu Maha Viharaya, where they paid their resp
 ...
 
 [Data](articles/a2b61269.json)
+
+---
+
+### ඇමෙරිකාවේ රාජ්‍ය සේවයෙන් ඉවත්ව ලංකාවේ ගරු සේවකයකට එන මහාචාර්යවරයා
+
+*2024-11-22 16:34:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-රාජ්‍ය-සේවයෙන්-ඉවත්ව-ලංකාවේ-ගරු-සේවකයකට-එන-මහාචාර්යවරයා/11-413213) · `si`
+
+අමෙරිකා එක්සත් ජනපදයේ හූස්ටන් විශ්වවිද්‍යාලයේ සහ එම්. ඩී. ඇන්ඩර්සන් පිළිකා පර්යේෂණ ආයතනයේ මහාචාර්ය ගෝමික උඩුගමසූරිය මහතා විද්‍යාව හා තාක්ෂණය සම්බන්ධව ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක ලෙස පත්කළ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+මේ සඳහා වන පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් අද (22) ජනාධිපති කාර්යාලයේ දී ඔහු වෙත පිළිගන්වනු ලැබීය.
+
+කොළඹ ඩී. එස්. සේනානායක විද්‍යාලයේ ආදි සිසුවකු වන ගෝමික උඩුගමසූරිය මහතා කොළඹ විශ්වවිද්‍යාලයේ රසායන විද්‍යාව පිළිබඳ විශේෂවේදී උපාධිධරයෙකි.
+
+එමෙන්ම අමෙරිකාවේ මිචිගන් වේන් ස්ටේට් යුනිවර්සිටි වෙතින් ආචාර්ය උපාධියද, ටෙක්සාස් සවුත් වෙස්ටර්න් මෙඩිකල් සෙන්ටර් වෙතින් පශ්චාද් ආචාර්ය උපාධිය ද හිමි කර ගෙන ඇත.
+
+ගෝමික උඩුගමසූරිය මහතා පේටන්ට් බලපත්‍ර රැසකට උරුමකම් කියන අතර, ඔහු අමෙරිකාවේ රාජ්‍ය සේවයෙන් ඉවත්ව ගරු සේවයක් ලෙස ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක තනතුරට එක්ව තිබේ.
+
+◼️
+
+[Data](articles/db2aee79.json)
 
 ---
 
@@ -2315,89 +2407,5 @@ Indian High Commissioner Santosh Ja first congratulated the members who were ele
 [Data](articles/02ae9b7c.json)
 
 [Extended Data](ext_articles/02ae9b7c.ext.json)
-
----
-
-### Parliamentary Affairs Meeting adjourned by Heroes Day;Minister of apology Bimal
-
-*2024-11-22 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199372) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Tenth Parliament inaugural session: Speaker, Deputy Speaker, Committee Chair elected. Apology made for missed congratulations. Heroes Day meeting adjourned. Committee on Parliamentary Affairs to meet on 28th.
-
-🟩
-
-The Virgin session of the Tenth Parliament was held on Thursday (21), with the first choices of the Speaker, Deputy Speaker and the Deputy Chairman of the Committees.
-
-Subsequently, Opposition Leader Sajith Premadasa congratulated the newly elected Speaker Ashoka Ranvel.. Following him, MK leader Rauf Hakeem had chosen the greetings.
-
-Following them, Sivagnanam Sridharan and Namal Rajapaksa were greeted from their seats to congratulate them, but the greetings were dumped due to lack of time.
-
-The Chief Minister of the House, Minister Bimalratnayake, said that the party's leaders gathered for a meeting of the party leaders and apologized to Sridharan and that this would not happen in the future.
-
-At the first meeting of the first party leaders, the discussion was discussed on the date of the decision to hold a meeting on parliamentary affairs to prepare the agenda for the first parliamentary session to commence in December.
-
-...
-
-[Data](articles/8a2cabdb.json)
-
-[Extended Data](ext_articles/8a2cabdb.ext.json)
-
----
-
-### The Tamil Nadu Parliamentary Committee convened and appointed new positions
-
-*2024-11-22 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199371) · `ta`
-
-Tamil Nadu Parliamentary Committee appoints new roles. Sri Lanka TNA holds meeting, elects Kukadasan as Secretary and Gnanamuthu as Media Spokesman. Decides to create documentary on Tamil issues. Meeting ends after long hiatus.
-
-🟩
-
-The Parliamentary Committee of the Sri Lanka Tamil National Alliance (TNA) was held on Thursday (21) at the Parliamentary Complex under the patronage of Sivagnanam Sridharan, chairman of the Parliamentary Committee and a Member of Parliament of Jaffna.
-
-In the meantime, Trincomalee District Parliamentarian Kukadasan has been elected as the secretary of the Parliamentary Committee and Batticaloa District Parliamentarian Gnanamuthu Sirinesan has been elected as a media spokesman and the National List MP
-
-In addition, it is unanimous that the TNA parliamentary committee has been held after a long hiatus.
-
-At the same time, it is also decided at this meeting that a documentary is being made on a variety of issues faced by the Tamil people.
-
-◼️
-
-[Data](articles/7485d260.json)
-
-[Extended Data](ext_articles/7485d260.ext.json)
-
----
-
-### SriLankan Airlines wins prestigious 2025 APEX Best Entertainment Award in Central/Southern Asia
-
-*2024-11-22 02:18:00* · [`islandlk`](http://island.lk/srilankan-airlines-wins-prestigious-2025-apex-best-entertainment-award-in-central-southern-asia/) · `en`
-
-SriLankan Airlines has won the prestigious 2025 APEX Best Entertainment Award in Central/Southern Asia at the FTE APEX Asia Expo, held on 20 November 2024 in Singapore. The APEX Awards are entirely based on certified passenger feedback, with over a million flights across 600 airlines rated on experience metrics such as seat comfort, cabin service, entertainment, and meals for the 2025 awards. SriLankan Airlines additionally retained its status as a ‘Four Star Major Airline’ in the 2025 APEX Official Airline Ratings™ for the eighth consecutive year.
-
-...
-
-[Data](articles/14316988.json)
-
-[Extended Data](ext_articles/14316988.ext.json)
-
----
-
-### AIA Sri Lanka sweeps three awards at International Business Magazine Awards 2024
-
-*2024-11-22 02:18:00* · [`islandlk`](http://island.lk/aia-sri-lanka-sweeps-three-awards-at-international-business-magazine-awards-2024/) · `en`
-
-AIA Sri Lanka, Sri Lanka’s most loved insurer in the corporate brands category, is proud to announce a remarkable achievement, having secured three esteemed awards in recognition of its commitment to customer wellbeing and social responsibility. These accolades solidify AIA’s position as a frontrunner in the Sri Lankan insurance industry, constantly innovating to provide exceptional products and services while positively impacting the lives of Sri Lankans.
-
-Best Insurance Campaign 2024 for the AIA Health Passport Launch: This innovative campaign garnered recognition for its effectiveness in promoting the AIA Health Passport, a comprehensive health insurance cover that empowers individuals to prioritize their health.
-
-...
-
-[Data](articles/265b504d.json)
-
-[Extended Data](ext_articles/265b504d.ext.json)
 
 ---

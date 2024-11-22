@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 14:15:32**
+As of **2024-11-22 13:42:27**
 
 ## Newspaper Stats
 
-*Scraped **56,320** Articles*
+*Scraped **56,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,85 +18,19 @@ dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,299
 adaderanalk | 6,805
-tamilmirrorlk | 8,001
+tamilmirrorlk | 7,999
 virakesarilk | 9,157
-adaderanasinhalalk | 9,717
+adaderanasinhalalk | 9,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,316 (100.0%) of 56,320 articles have been extended.
+56,311 (100.0%) of 56,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
-
-### டெங்கு நோயாளர்கள் அதிகரிக்கும் அபாயம்
-
-*2024-11-22 14:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிக்கும்-அபாயம்/175-347615) · `ta`
-
-தற்போது நிலவும் மழையுடனான காலநிலை காரணமாக, எதிர்காலத்தில் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிக்கலாம் என, சுகாதார அமைச்சு தெரிவித்துள்ளது.
-
-இவ்வாறானதொரு நிலை ஏற்படாதவாறு சுற்றுப்புற சூழலை சுத்தமாக வைத்திருக்க மக்கள் செயற்பட வேண்டுமென, தேசிய டெங்கு கட்டுப்பாட்டு பிரிவின் சமூக சுகாதார வைத்திய நிபுணர் டொக்டர் அனோஜா தீரசிங்க தெரிவித்தார்.
-
-மேலும், உயர்தரப் பரீட்சைகள் நடைபெறும் நிலையங்களுக்கு அருகில் விசேட டெங்கு ஒழிப்பு வேலைத்திட்டங்களை நடைமுறைப்படுத்துமாறு, பாடசாலை அதிகாரிகளுக்கு பணிப்புரை வழங்கப்பட்டுள்ளதாகவும், அவர் தெரிவித்தார். AN
-
-◼️
-
-[Data](articles/7c3abe49.json)
-
----
-
-### அரிசி நெருக்கடிக்கு தீர்வு முன்மொழிவு
-
-*2024-11-22 14:03:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-நெருக்கடிக்கு-தீர்வு-முன்மொழிவு/175-347614) · `ta`
-
-தம்புள்ளை பொருளாதார மத்திய நிலையத்தில், அரிசி விற்பனை நிலையம் ஒன்றை நிறுவுமாறு, அரசாங்கத்திடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
-
-அவ்வாறு செய்தால், நாட்டில் நிலவும் அரிசி நெருக்கடிக்கு குறுகிய கால மற்றும் நீண்டகால தீர்வு கிடைக்கும் என, தம்புள்ளை பொருளாதார மத்திய நிலையத்தின் வர்த்தகர்  டி.எம்.எஸ்.பண்டார தெரிவித்தார்.AN
-
-◼️
-
-[Data](articles/69fb1867.json)
-
----
-
-### මල්වතු මහානායක හිමි ඉදිරියේ දිලිත් දුන් පොරොන්දුව
-
-*2024-11-22 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203624) · `si`
-
-හැමදේටම විරුද්ධවෙන ක්‍රමය වෙනස් කර ප්‍රබුද්ධ සම්ප්‍රදායක් පාර්ලිමේන්තුව තුළ ඇති කළයුතු බව සර්වජන බලයේ පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පවසයි.
-
-මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමි බැහැදුටු අවස්ථාවේදී දිලිත් ජයවීර මහතා මේ බව පැවසීය.
-
-සර්වජන බලයේ පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා අද (22) මහනුවරට පැමිණ දළදා සමිඳුන් වැඳපුදාගෙන මහා සංඝරත්නයේ ආශිර්වාද ලබාගත්තේය.
-
-එම අවස්ථාවට සර්වජන බලයේ සභාපති රොෂාන් රණසිංහ, ජාතික සංවිධායක දිලුම් අමුණුගම යන මහත්වරුන් ඇතුළු පිරිසක් ද එක්විය.
-
-අනතුරුව දිලිත් ජයවීර මහතා ප්‍රමුඛ පිරිස මල්වතු මහාවිහාරයට ගොස් මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල මහනාහිමියන් බැහැදැක ආශිර්වාද ලබාගත්තේය.
-
-...
-
-[Data](articles/141fc059.json)
-
----
-
-### ලක්සඳ නිවාස සංකීර්ණයේ ගින්නෙන් දැඩි හානි
-
-*2024-11-22 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203623) · `si`
-
-කොළොන්නාව ලක්සඳ මහල් නිවාස සංකීර්ණයේ ඊයේ (21) රාත්‍රියේ ඇතිවූ ගින්නකින් නිවාස සංකීර්ණයට විදුලිය සැපයෙන ප්‍රධාන විදුලි පද්ධතිය සම්පූර්ණයෙන්ම විනාශ වී ඇත.
-
-එමෙන්ම ගින්නෙන් ඇති වූ විස දුම ආග්‍රාහණය වීමෙන් කුඩා දරුවන් දෙදෙනෙකු ඇතුළු 06 දෙනෙකු ද රෝහල්ගත කර තිබේ.
-
-මේ අතර නිවාස සංකීර්ණයේ ජල සහ විදුලි සැපයුම් අද (22) උදෑසන වනවිටත් යථා තත්ත්වයට පත් කිරීමට බලධාරින් අපොහොසත්වීමට විරෝධය පළකරමින් එහි නිවැසියන් විරෝධතාවයකද නිරත විය.
-
-◼️
-
-[Data](articles/ae913316.json)
-
----
 
 ### Sri Lanka’s National Development Bank to raise upto Rs5bn in debenture issue
 
@@ -134,37 +68,25 @@ UNCITRAL, established in 1966 and headquartered in Vienna, is the core legal bod
 
 [Data](articles/21228d28.json)
 
-[Extended Data](ext_articles/21228d28.ext.json)
-
 ---
 
-### Two persons arrested with heroin in two different areas!
+### இரு வெவ்வேறு பகுதிகளில் ஹெரோயினுடன் இருவர் கைது !
 
 *2024-11-22 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199396) · `ta`
 
-Here's a summary of 200 characters:
+அத்துருகிரிய மற்றும் பேலியகொடை ஆகிய பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதிகளில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கைகளில் ஹெரோயின் போதைப்பொருளுடன் பெண் உட்பட இருவர் நேற்று வியாழக்கிழமை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
+அதன்படி, அத்துருகிரிய பொலிஸ் பிரிவுக்கு உட்பட்ட ஹபரகட பகுதியில் ஹெரோயின் போதைப்பொருளுடன் பெண் ஒருவர் அத்துருகிரிய பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
 
+கைது செய்யப்பட்ட பெண்ணிடம் இருந்து 08 கிராம் 100 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
 
-"2 arrests: Woman (Athurugiriya) & man (Peliyagoda) caught with heroin. Athurugiriya: 8g seized. Peliyagoda: 14g seized."
+இதேவேளை, பேலியகொடை பொலிஸ் பிரிவுக்கு உட்பட்ட தரமடுவத்த பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் பேலியகொடை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
 
-🟩
-
-Two persons, including a woman with heroin, were arrested on Thursday, police said that the surrounding area under the police division of Athurugiriya and Peliyagoda was arrested on Thursday.
-
-Accordingly, a woman has been arrested by the Athurugiriya police with heroin drugs in Habaragada, which belongs to the Athurugiriya police division.
-
-The police have seized 08 grams of heroin from the arrested woman.
-
-Meanwhile, a suspect has been arrested by the Peliyagoda police with heroin drugs in the Taramaduwatta area, which belongs to the Peliyagoda Police Division.
-
-Fourteen grams of heroin has been seized by the police from the arrested suspect.
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 05 கிராம் 400 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/d49dbfc8.json)
-
-[Extended Data](ext_articles/d49dbfc8.ext.json)
 
 ---
 
@@ -214,8 +136,6 @@ Sri Lankan banks’ current OE score of ‘ccc-’/stable is linked closely to t
 
 [Data](articles/cea7bf51.json)
 
-[Extended Data](ext_articles/cea7bf51.ext.json)
-
 ---
 
 ### Sri Lanka’s LOLC Holdings divests shares in DFCC Bank for Rs3.5bn
@@ -240,23 +160,17 @@ LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issu
 
 *2024-11-22 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199394) · `ta`
 
-Jetstar Asia launches direct flights from Singapore to Sri Lanka. New low-cost carrier offers daily Airbus A320 services between Changi Airport and Sri Lankan destinations.
+இலங்கைக்கும் சிங்கபூருக்கும் இடையிலான நேரடி புதிய விமான சேவை வியாழக்கிழமை (21) ஆரம்பிக்கப்பட்டது.
 
-🟩
+இந்த விமான சேவையை சிங்கப்பூரை தளமாகக் கொண்ட குறைந்த கட்டண Jetstar Asia விமான நிறுவனம் ஆரம்பித்துள்ளது.
 
-The new airline service between Sri Lanka and Singapore was launched on Thursday (21).
+அதன்படி, சிங்கப்பூரின் சாங்கி விமான நிலையத்திலிருந்து புதிய விமான சேவையின் முதல் விமானமான Jetstar Asia  விமான நிறுவனத்திற்கு சொந்தமான 3K333 என்ற விமானம் வியாழக்கிழமை காலை இலங்கையை வந்தடைந்தது.
 
-The airline has launched a low -cost Jetstar Asia Airlines in Singapore.
-
-Accordingly, Jetstar Asia, the first airline of the new airline from Singapore's Changi Airport, arrived in Sri Lanka on Thursday morning.
-
-Airbus A320 will be operated from Singapore to Singapore every morning or evening.Jetstar also said that it also provides necessary choices for those who are affiliated via Singapore.
+ஒவ்வொரு வாரமும்  காலை அல்லது மாலையில் சிங்கப்பூரிலிருந்து இலங்கை வருவதற்கு ஏர்பஸ் A320 என்ற 5 விமானங்கள் இயக்கப்படும்.  சிங்கப்பூர் வழியாக இணைபவர்களுக்கு தேவையான தெரிவுகளையும் வழங்குகிறது என Jetstar தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/5f425912.json)
-
-[Extended Data](ext_articles/5f425912.ext.json)
 
 ---
 
@@ -284,35 +198,23 @@ The appeal is clear, says Flash Pack: “Sri Lanka packs in all the punch of Ind
 
 *2024-11-22 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199391) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil Eelam flag event honors Tamil community history & culture. Commemorates past violence but highlights community resilience. New Democratic Party supports Tamil community, praising its cultural enrichment to Ontario. Event recalls sacrifices, recommitting to peace and justice.
-
-🟩
-
-Maritstiles of the official opposition of Ontario, Canada, said he was proud of his support for the Tamil community.
+தமிழ் சமூகத்திற்கு ஆதரவாகயிருப்பது குறித்து பெருமிதம் கொள்வதாக கனடா ஒன்டாரியோவின் உத்தியோகபூர்வ எதிர்கட்சியின் மரிட்ஸ்டைல்ஸ் தெரிவித்துள்ளார்.
 
 தமிழ்ஈழ தேசிய கொடி தினத்தை குறிக்கும் நிகழ்வு குறித்து விடுத்துள்ள செய்தியில் இதனை தெரிவித்துள்ள அவர் மேலும் குறிப்பிட்டுள்ளதாவது.
 
-In the Tamil Eelam flag today, we honor the history and culture of the Tamil community in Ontario and the rest of the world.
+இன்று தமிழீழ தேசிய கொடிதினத்தில் ,ஒன்டாரியோவிலும் உலகின் ஏனைய பகுதிகளிலும் நாங்கள் தமிழ் சமூகத்தின் வரலாற்றையும் கலாச்சாரத்தையும் கௌரவிக்கின்றோம் என அவர் தெரிவித்துள்ளார்.
 
-Today is a day to commemorate the violence that the Tamil people have suffered decades, including the Tamil massacre and the Mullivaikkal massacre.
+இன்றைய நாள் தமிழனப்படுகொலை மற்றும் முள்ளிவாய்க்கால் படுகொலை உட்பட தமிழ் மக்கள் பல தசாப்தங்களை அனுபவித்த வன்முறைகளை நினைவுகூரும் நாளாகும்.
 
-While these embodies have caused unimaginable pain, it has revealed the stability and strength of the Tamil community.
+இந்த அட்டுழியங்கள்  நினைத்துப்பாக்கமுடியாத வலியை துயரத்தை ஏற்படுத்தின அதேவேளை இது தமிழ் சமூகத்தின் உறுதிப்பாட்டையும்,வலிமையையும் வெளிப்படுத்தியுள்ளது.
 
-The Tamil community is a society that provides inspiration for the struggle for justice and human rights.
+தமிழ் சமூகம் நீதிமற்றும் மனித உரிமைகளிற்கான போராட்டத்திற்கான உத்வேகத்தை அளிக்கின்ற ஒரு சமூகம்.
 
 புதிய ஜனநாயக கட்சியினராகிய நாங்கள் தமிழ் சமூகத்திற்கு ஆதரவாகயிருப்பது குறித்து பெருமிதம் கொள்கின்றோம்,
-
-Your culture enrichs the redemption and contributions of our province, Ontario and makes us the best place for all of us.
 
 ...
 
 [Data](articles/789a8564.json)
-
-[Extended Data](ext_articles/789a8564.ext.json)
 
 ---
 
@@ -2321,5 +2223,109 @@ Some of the students who are studying, and the incorrect ways of going to the wr
 [Data](articles/d55500b8.json)
 
 [Extended Data](ext_articles/d55500b8.ext.json)
+
+---
+
+### Emergency announcement of Jaffna flood disaster
+
+*2024-11-21 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199365) · `ta`
+
+Jaffna flood disaster: 2,294 affected, 20 homes damaged. Government aid focuses on identifying vulnerable areas and providing food to shelter residents.
+
+🟩
+
+At present, 2,294 people from 610 families have been affected and 20 houses have been damaged due to heavy rains in the Jaffna district.
+
+In addition, the Government Agent has been instructed by the Divisional Secretaries to take forward measures to identify vulnerable areas and to leave the residences due to disaster and provide food to those who stay in temporary shelters.
+
+◼️
+
+[Data](articles/ba907858.json)
+
+[Extended Data](ext_articles/ba907858.ext.json)
+
+---
+
+### 610 families affected by rain floods in Jaffna
+
+*2024-11-21 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199364) · `ta`
+
+Heavy rains cause flooding in Jaffna, affecting 2294 people across 610 families. 20 houses partially damaged.
+
+🟩
+
+2294 people from 610 families have been affected by the floods and other disasters due to continuous heavy rains in Jaffna, and 20 houses have been partially damaged, said TN Suriyarajah, a reflection of the Jaffna district.
+
+The flood disaster in the Chavakachcheri Divisional Secretariat has been affected by the floods and seven houses have been partially damaged.
+
+In the Kayts Divisional Secretariat Division, 475 people from 111 families have been affected and two houses have been partially damaged.
+
+In the Point Pedro Divisional Secretariat Division, 35 people from 10 families have been affected and eight houses have been damaged.
+
+In the Nallur Divisional Secretariat Division, 14 people from 5 families have been affected by flood disaster and thunderstorms.
+
+21 people from seven families have been affected by the Tellippalai Divisional Secretariat.
+
+In the Sanganai Divisional Secretariat Division, 641 people from 174 families have been affected by the floods.
+
+...
+
+[Data](articles/ebbfea71.json)
+
+[Extended Data](ext_articles/ebbfea71.ext.json)
+
+---
+
+### Muthu Raja: Thai vets consider trimming tusks of elephant repatriated from Sri Lanka
+
+*2024-11-21 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103677/muthu-raja-thai-vets-consider-trimming-tusks-of-elephant-repatriated-from-sri-lanka) · `en`
+
+Veterinarians at the Thai Elephant Conservation Centre in Lampang are planning to trim the tusks of Plai Sak Surin (Muthu Raja), the 29-year-old elephant that was brought back to Thailand from Sri Lanka, to help improve his quality of life.
+
+The decision came after the elephant’s long and heavy tusks began affecting its daily activities, forcing it to lift its head to prevent them from dragging on the ground, especially when navigating hills or avoiding obstacles.
+
+Veterinarian Warangkana Langkapin said on Thursday (Nov 21) that the team has been talking to experts about the possibility of reducing the weight of the tusks, though any decision will require discussions and approval from several agencies.
+
+Warangkana also said that Plai Sak Surin’s injury on its front left leg, which made movement difficult, was improving with ongoing physical therapy.
+
+...
+
+[Data](articles/346fc436.json)
+
+[Extended Data](ext_articles/346fc436.ext.json)
+
+---
+
+### Dambulla Economic Center Confusion
+
+*2024-11-21 20:34:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்புள்ளை-பொருளாதார-மத்திய-நிலையத்தில்-குழப்பம்/175-347580) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dambulla Economic Center dispute: Traders vs. Trade Association over new transport project and fruit sales system. Merchants object to new rules, leading to shop closures and traffic issues. Trade Association president cites need for order but faces resistance from vendors.
+
+🟩
+
+There has been a heated argument between the members of the Dambulla Economic Center and the traders who are selling mangoes to the Dambulla Economic Center.
+
+This is due to the fact that the new transport project has been implemented within the Dambulla Economic Center and the new system has been introduced in the sale of vegetables and fruits.
+
+In addition, the Economic Center's Trade Association has decided to collect fines from shop owners who boycott this system and temporarily close the shops.
+
+However, if it was decided to temporarily close the shops, there was a stir as the merchants who came to sell mangoes in the morning were dismantled.
+
+Merchants who sell mango are not selling mangoes in lorries and on the floor near the shops, as there is no place to sell the mangoes.
+
+The President of the Trade Association C, C. C. C.. S. Siriwardena said.
+
+The decision has been taken due to traffic congestion at the Economic Center due to the sale of mango.
+
+...
+
+[Data](articles/d164e478.json)
+
+[Extended Data](ext_articles/d164e478.ext.json)
 
 ---

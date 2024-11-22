@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 18:52:13**
+As of **2024-11-22 19:05:46**
 
 ## Newspaper Stats
 
@@ -26,61 +26,97 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,347 (100.0%) of 56,362 articles have been extended.
+56,355 (100.0%) of 56,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### IMF තුන්වන සමාලෝචනය ගැන රජයෙන් ප්‍රකාශයක්
+### Government statement on the third review of the IMF
 
 *2024-11-22 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203636) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකම හා සම්බන්ධ වැඩසටහනේ ප්‍රගතිය සමාලෝචනය සම්බන්ධයෙන් පැවති සාකච්ඡා සාර්ථකව නිමාවූ බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කරයි.
+Here's a summary in 200 characters:
 
-ඒ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ ධූත මණ්ඩල ප්‍රධානී පීටර් බෘවර් ඇතුළු නියෝජිත කණ්ඩායම සහභාගී වූ අතර රජය නියෝජනය කරමින් ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා ඇතුළු කණ්ඩායම සහභාගී විය.
+
+
+Presidential Media Unit announces successful completion of IMF program review. Deputy Minister Anil Jayantha Fernando represented Sri Lanka in talks led by Peter Brve.
+
+🟩
+
+The Presidential Media Unit announces that the talks on reviewing the progress of the program of the International Monetary Fund will successfully complete the review of the progress of the program.
+
+The International Monetary Fund Memoranda Memoranda, Peter Brve, attended the delegation, representing the Deputy Minister of Economic Development Anil Jayantha Fernando.
 
 ◼️
 
 [Data](articles/8d011942.json)
 
+[Extended Data](ext_articles/8d011942.ext.json)
+
 ---
 
-### ජනපති ආරක්ෂක අමාත්‍යාංශයේ වැඩ භාරගනී
+### President assumes duties
 
 *2024-11-22 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203635) · `si`
 
-එක අරමුණකින් වැඩ කර අප මාතෘභූමිය මීට වඩා හොඳ රාජ්‍යයක් බවට පත් කිරීමට එක්වෙමු යැයි සියලු රාජ්‍ය සේවකයන්ට තමා ආරාධනා කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ, ආරක්ෂක අමාත්‍ය ධූරයේ වැඩ භාරගැනීමේ අවස්ථාවට අද (22) පෙරවරුවේ අකුරේගොඩ ආරක්ෂක සේනා මූලස්ථානයේ පිහිටි ආරක්ෂක අමාත්‍යාංශයේ දී එක් වෙමිනි.
 
-ආරක්ෂක අමාත්‍යාංශය වෙත පැමිණි ජනාධිපතිවරයා එහි කාර්ය මණ්ඩලය විසින් ඉතා ගෞරවයෙන් පිළිගනු ලැබීය.
 
-අනතුරුව ආරක්ෂක අමාත්‍යාංශයේ වත්මන් ක්‍රියාකාරිත්වය සහ ඉදිරි කටයුතු පිළිබඳව ජනාධිපතිවරයා ත්‍රිවිධ හමුදාපතිවරුන් සහ ආරක්ෂක අමාත්‍යාංශයේ ප්‍රධානීන් සමඟ සාකච්ඡාවකට ද එක් විය.
+Newly elected President Anura Kumara Dissanayake addresses defense officials, promising unity and improved governance. He emphasizes public servant importance in national development and economic growth.
 
-යහපත් ආණ්ඩුකරණයක් වෙනුවෙන් නව රජය කැපවී සිටින බවත්, රට ගොඩනැගීමේ වැඩපිළිවෙළට සියලුදෙනාගේ සහාය අපේක්ෂා කරන බවත් ජනාධිපතිවරයා පැවසීය.
+🟩
 
-ව්‍යවස්ථා නීතිවල කුමන අණපනත් පැවතියත් එසේම ප්‍රබල වන්නේ ජනතාවගේ බලය බවද මෙහිදී අවධාරණය කළ ජනාධිපතිවරයා, පසුගිය ජනාධිපතිවරණයේ දී සහ මහ මැතිවරණයේදී ලබාදුන් ජනවරමේ සංයුතිය සහ හැඩතල දෙස බැලූ විට ඔවුන්ගේ එම අපේක්ෂාවන් පිළිඹිඹු කෙරෙන බවද පැවසීය.
+President Anura Kumara Dissanayake said he would invite all public servants to work with one purpose and to make our motherland a better state.
+
+The President made this statement participating in the Defense Ministry in Akuregoda Security Forces Headquarters at the Commander Headquarters in Akuregoda.
+
+The President who arrived at the Ministry of Defense and received honor by the staff.
+
+Thereafter, the President also discussed a discussion with the Armed Forces Commanders and the Chiefs of the Defense Ministry.
+
+The President said the new government is committed to a good governance and hopes to support the country.
+
+The President said that the power of the constitutional laws was also the power of the people and the composition and shapes of the general election.
+
+The President added that the public service was given nearly 80% of the past in recent history, the President added that this change was a wish.
 
 ...
 
 [Data](articles/e1febbb2.json)
 
+[Extended Data](ext_articles/e1febbb2.ext.json)
+
 ---
 
-### மன்னார் மாவட்ட பொது வைத்தியசாலையில் திட்டமிட்டு தோற்றுவிக்கப்பட்ட அவசர நிலை குறித்து நிர்வாகம் வெளியிட்ட அறிக்கை
+### The administration issued a report on the state -of -the -art state of the Mannar District General Hospital
 
 *2024-11-22 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199445) · `ta`
 
-'துயரங்களுக்கு வன்முறைகள் பதிலாகாது' மன்னார் மாவட்ட பொது வைத்தியசாலையில் திட்டமிட்டு தோற்றுவிக்கப்பட்ட அவசர நிலை குறித்து மன்னார் வைத்தியசாலை பணிப்பாளர், வைத்திய நிபுணர்கள், வைத்தியர்கள், துணை மருத்துவ உத்தியோகத்தர்கள், தாதிய உத்தியோகத்தர்கள் குடும்ப நல உத்தியோகத்தர்கள், சுகாதார ஊழியர்கள், நோயளர் காவு வண்டி சாரதிகள், தொழில்நுட்ப உதவியாளர்கள் இணைந்து வெள்ளிக்கிழமை (22) அறிக்கை ஒன்றை விடுத்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-ஒரு இழப்பென்பது எந்தவிதத்திலும் தாங்க முடியாதது. காரண காரியங்கள் இருந்தாலும் அந்த இழப்பு எல்லோர் மனதையும் புண்படுத்தக் கூடியது.
 
-ஒரு ஆரோக்கியமான சமூகம் அந்த இழப்பிற்குரிய குடும்பத்துக்கு ஆதரவாக இருந்து அவர்கள் அதிலிருந்து மீண்டு வரவும், ஏதும் பிழைகள் நிரூபிக்கப்பட்டு இருந்தால் அதற்குரிய நடவடிக்கைகளை முன் னெடுப்பதற்கும் உதவ வேண்டும். ஜனநாயக நாட்டில் அனைவருக்கும் போராடும் உரிமை உண்டு. ஆனால் எந்த போராட்டமும் அமைதியானதாகவும் ஆக்கபூர்வமானதாகவும் ஏனையவர்களை துன்புறுத்துவதாகவும் இருக்க வேண்டும்.
+
+Mannar District General Hospital report highlights disruptions due to protests. Medical staff faced threats, patients' care compromised. Emergency services impacted, including deliveries and surgeries. Staff security concerns raised. Investigation into Thai Chey's death underway.
+
+🟩
+
+Mannar Hospital Director, Medical Experts, Assistant Medical Officers, Nurses Family Welfare Officers, Health Officers, Patients, Technical Assistants and Technical AssistantsHave been released.
+
+A loss is unbearable in any way. Despite the causes, the loss can hurt everyone's mind.
+
+A healthy society must support the lost family and help them to recover from it and take action if any errors have been proven.. Have the right to fight everyone in a democratic country. But any struggle must be quiet, constructive and persecuted others.
+
+Mother and Chey Death held at Mannar District General Hospital. It is their right to fight people to make it full breath. The uncomfortable incident in the name of a demonstration around the hospital staff, which was in shock, has left the following worrisome conditions.
+
+Another mother who was giving birth to more than 50 people entered the delivery room and his service was disrupted.
 
 ...
 
 [Data](articles/06f9de92.json)
+
+[Extended Data](ext_articles/06f9de92.ext.json)
 
 ---
 
@@ -230,93 +266,143 @@ Yet we do not see new programs to the current president. Former President Ranil 
 
 ---
 
-### සජිත් නැවත වරක් IMF නියෝජිතයින් හමුවෙයි
+### Sajith meets IMF representatives again
 
 *2024-11-22 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203634) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) නියෝජිතයන් පිරිසක් අතර සුවිශේෂී හමුවක් (22) කොළඹ දී සිදුවිය.
+Sajith Premadasa met IMF reps in Colombo. Discussed overcoming Sri Lanka's financial crisis. Aimed for a populist agreement between IMF and government. Attended with Dr. Harsha De Silva and Prof. Prasanna Perera.
 
-මේ අවස්ථාවට ජාත්‍යන්තර මූල්‍ය අරමුදල නියෝජනය කරමින් IMF ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මහතා, නියෝජ්‍ය දූත මණ්ඩල ප්‍රධානී Katsiaryna Svirydzenka මහත්මිය, නේවාසික නියෝජිත මාර්තා වොල්ඩෙමිකල් මහත්මිය සහ දේශීය ආර්ථික විශේෂඥවරියක් වන මානවී අබේවික්‍රම මහත්මිය ද එක්වූහ.
+🟩
 
-එහි දී වර්තමානයේ ශ්‍රී ලංකා මුහුණ දී ඇති බංකොලොත්භාවයෙන් මිදීමට පවතින ක්‍රමවේද සම්බන්ධයෙන් දෙපාර්ශවය අතර දීර්ඝ වශයෙන් අදහස් හුවමාරු විය. එහි දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කියාසි⁣ටියේ, වර්තමානය වන විට ජනවරමකින් බිහි වූ රජයක් සහ ජනාධිපතිවරයකු සිටින බැවින් හිටපු රජය අත්සන් කළ IMF ගිවිසුම වෙනස් කර ජනතාවාදී ගිවිසුමකට යාමට ජාත්‍යන්තර මූල්‍ය අරමුදලේ අවධානය යොමුවිය යුතු බවය.
+Opposition Leader Sajith Premadasa and a group of representatives of the International Monetary Fund (IMF representative) occurred in Colombo.
 
-...
+He was also joineding the International Monetary Fund (IMF Senior Mission) representing the IMF Senior Mission, Deputy Mission Mahati Mrs. Mar.
+
+At present the two sides exchanged the ideas at length between the ways to overcome the techniques of Sri Lanka's bankruptcy.. The Opposition Leader Sajith Premadasa has been aimed at the meeting, the International Monetary Fund should go to a populist agreement with a government and a president.
+
+Dr. Harsha De Silva, Opposition Leader Sajith Premadasa, with the Opposition Leader of the Opposition today, was held with the EPF representatives., S. M. As well as Senior Professor Prasanna Perera, Senior Professor of Sri Jayewardenepura University, joined the UN Senior Professor Prasanna Perera of Sri Jayawardenapura University.
+
+◼️
 
 [Data](articles/f7ef8dda.json)
 
+[Extended Data](ext_articles/f7ef8dda.ext.json)
+
 ---
 
-### අතරමැදියන්ට ගසාකන්න ඉඩතියන්නේ නෑ - ලාල්කාන්ත
+### Lalkantha will not be allowed to exploit intermediaries - Lal Kanthe
 
 *2024-11-22 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203633) · `si`
 
-නාඩු සහල්මෙට්‍රික් ටොන් 70,000ක් ආනයනය කිරීමට තීරණය කළේ වෙළෙඳපොළේ පවතින සහල් හිඟය ට පිළියමක් වශයෙන් බව කෘෂිකර්ම අමාත්‍ය කේ ඩී ලාල්කාන්ත මහතා පවසයි.
+Here's a summary of 200 characters:
 
-ඒ සම්බන්ධයෙන් වන කැබිනට් යෝජනාව එළැඹෙන කැබිනට් හමුවට ඉදිරිපත් කරන බව ඔහු පැවසීය.
 
-කෘෂිකර්ම අමාත්‍යංශයේ දී පැවති මාධ්‍ය සාකච්ඡාවකදී ඔහු ඒ බව පැවසීය.
 
-...
+"Lal Kanthe: No intermediaries allowed. 70,000 tonnes of Nadu rice to address market shortage. Cabinet proposal imminent. Overseas imports from India planned. Protecting farmers, addressing market deficits. Festival season supply ensured."
+
+🟩
+
+70,000 tonnes of Nadu is determined to be remedied to the shortage of rice in the market.
+
+The cabinet proposals will be produced before the Cabinet.
+
+He was speaking at a press conference held at the Ministry of Agriculture.
+
+"There's a lack of nadge in the market. There are also a problem with price. When looked on the product, there should be riders to need. But the market has not come to the market. So we will definitely bring rice from overseas. Bringing from India. We present a joint cabinet papper in this regard. Nobody will be a problem. We will solve the problem. The intermediary will not let us exploit. We don't have a problem with large-scale mill owners. But if there is a deficit in the market, but if the production has come, they should have. So we will definitely think the necessary steps to be the farmer. Definitely festival season does not have any shortage. We have no eternal answers. "
+
+◼️
 
 [Data](articles/7ae017a8.json)
 
+[Extended Data](ext_articles/7ae017a8.ext.json)
+
 ---
 
-### නව ජනපතිට උපරිම සහාය දෙන බව ජපන් තානාපති කියයි
+### Japanese Ambassador says that the new president will support the new president
 
 *2024-11-22 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203632) · `si`
 
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ජපාන තානාපති අකියෝ ඉසොමාටා මහතා අතර හමුවක් අද (22) පස්වරුවේ ජනාධිපති ලේකම් කාර්යාලයේදී සිදුව තිබේ.
+Here's a summary in 200 characters:
 
-ජනාධිපති මාධ්‍ය අංශය පැවසුවේ ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රමුඛ නව රජයට සුබ පැතුම් එක් කළ ජපාන මහ කොමසාරිස්වරයා, දෙරට අතර පවතින ද්විපාර්ශ්වික සබඳතා තවදුරටත් ඵලදායී ලෙස අඛණ්ඩව ඉදිරියට ගෙන යාමට ද අපේක්ෂා කරන බවය.
 
-නාස්තිය සහ වංචා දූෂණයෙන් තොර රටක් බිහි කිරීමේ සහ ආර්ථිකමය වශයෙන් රට ඉදිරියට ගෙන යෑමේ රජයේ නව ප්‍රතිපත්තිය පිළිබඳව ජපාන රජයේ ප්‍රශංසාව පළ කළ තානාපතිවරයා ශ්‍රී ලංකා නව රජයට සහ ජනාධිපති අනුර කුමාර දිසානායක මහතාට ලබාදිය හැකි උපරිම සහාය ලබාදෙන බවද සඳහන් කර තිබේ.
+
+Japanese Ambassador supports new Sri Lankan president. Meeting between Presidential Secretary and Ambassador discussed bilateral ties. Japan pledges maximum support for Sri Lanka's anti-corruption efforts.
+
+🟩
+
+Presidential Secretary Dr. Nandika Sanath Sanath and Japanese Ambassador Akassador Akured Sanath has held a meeting between Ako Isomata at the Presidential Secretariat.
+
+The High Commissioner for the new government with President Anura Kumara Dissanayake, the High Commissioner of Japan is expected to continue the bilateral ties between the two countries.
+
+The Ambassador who praised the government's new policy of creating a country free of waste and corruption, the Ambassador of the Government of Japan will provide the maximum support to the Sri Lanka New Government and President Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/f6d54560.json)
 
+[Extended Data](ext_articles/f6d54560.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රී අර්චුනා රාමනාදන්ට එරෙහිව පැමිණිල්ලක්
+### Parliamentarian Archtuna complaint against Ramanathan
 
 *2024-11-22 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203631) · `si`
 
-නව පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස දිවුරුම් දුන් අර්චුනා රාමනාදන්ට එරෙහිව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සිවිල් ක්‍රියාකාරීන් පිරිසක් විසින් පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහු විසින් ෆේස්බුක් සමාජ මාධ්‍ය ජාලය ඔස්සේ සිදුකර ඇති ප්‍රකාශයක් සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා සිවිල් ක්‍රියාකාරිකයින් විසින් මෙම පැමිණිල්ල ඉදිරිපත් කර ඇත.
 
-මන්ත්‍රීවරුන්ගේ ජ්‍යෙෂ්ඨත්වයට අනුව අසුන් වෙන් කර නොතිබූ බැවින් ඊයේ (21) දිනයේ මන්ත්‍රීවරුන්ට ඕනෑම අසුනක අසුන්ගැනීමට අවස්ථාව සලසා දී තිබූ අතර එහිදී යාපනය දිස්ත්‍රික්  ස්වාධීන මන්ත්‍රී වෛද්‍ය අර්චුනා රාමනාදන් මැතිසබයේ විපක්ෂ නායකට පිරිනැමෙන අසුනේ වාඩිවී සිටියේය.
 
-පාර්ලිමේන්තු කාර්ය මණ්ඩල නිලධාරියෙකු පැමිණ එය සම්ප්‍රදායානුකූලව විපක්ෂනායකවරයා හට වෙන්කර ඇති ආසනය බව මන්ත්‍රීවරයාට දැනුම් දුන්නද ඔහු එම අසුනින් ඉවත්වීම ප්‍රතික්ෂේප කළ අතර එහිදී ස්වාධීන මන්ත්‍රීවරයා කටයුතු කළ ආකාරය සමාජ මාධ්‍යන්හි පවා දැඩි කතාබහට ලක්විය.
+Civilian activists filed a complaint against newly elected MP Archunanathan with CID regarding his behavior in Parliament. He allegedly refused to vacate his seat despite being told by staff, sparking controversy among other MPs.
 
-ඔහු යාපනය දිස්ත්‍රික්කයෙන් ස්වාධීන කණ්ඩායම අංක 17 නියෝජනය කරමින් පාර්ලිමේන්තුවට තේරී පත්විය.
+🟩
+
+A complaint has lodged a complaint with civilian activists against the Criminal Investigation Department against the Criminal Investigation Department against Archunathan who was sworn in as a new Member of Parliament.
+
+The complaint has been lodged by civil activists to investigate a statement made by Facebook social media network.
+
+Since the MPs were not reserved according to seniority of the MPs, the members of the Jaffna district have been sitting at any seat yesterday (21).
+
+Although a parliamentary staff was official and told the MP, he refused to leave the seat and had been conversing the independent MP.
+
+He was elected to Parliament representing the 17 Independent group from Jaffna district.
 
 ◼️
 
 [Data](articles/3b2ffb79.json)
 
+[Extended Data](ext_articles/3b2ffb79.ext.json)
+
 ---
 
-### வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறி பண மோசடியில் ஈடுபட்ட பெண்ணுக்கு 35 ஆண்டுகள் சிறைத்தண்டனை
+### Woman sentenced to 35 years in prison for allegedly sending abroad
 
 *2024-11-22 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199421) · `ta`
 
-வெளிநாடுகளுக்கு அனுப்பிவைப்பதாக கூறி கோடிக்கணக்கான பணத்தினை மோசடியில் ஈடுப்பட்ட  பெண்ணுக்கு 35 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+Here's a summary in 200 characters:
 
-யாழ்ப்பாணத்தைச் சேர்ந்த பெண்ணொருவர் வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக இளையோரிடம் பணத்தினை பெற்று மோசடி செய்து வந்தமை  தொடர்பில் மாவட்ட குற்றத்தடுப்பு பிரிவினருக்கு கிடைக்கப்பெற்ற முறைப்பாடுகளின் அடிப்படையில் பெண்ணை கைது செய்து விசாரணைகளை முன்னெடுத்தனர்.
 
-விசாரணைகளில், சுமார் 4 கோடி ரூபாய்க்கும் அதிகமான பணத்தினை மோசடியாக பெற்றமை, பண மோசடியில் ஈடுபட்டமை, அனுமதியின்றி வெளிநாட்டு வேலைவாய்ப்பு முகவராக அடையாளப்படுத்தி மோசடியில் ஈடுபட்டமை உள்ளிட்டவை தெரியவந்துள்ளது.
 
-பண கொடுக்கல் வாங்கல்கள் அனைத்தும் பெண்ணின் சொந்த கணக்கு இலக்கம் ஊடாகவே மேற்கொள்ளப்பட்டுள்ளது.
+Woman gets 35-year sentence for alleged fraud & money laundering. Defrauded over 4 crore rupees posing as foreign employment agent. All transactions via her personal account. Case heard in Additional Magistrate's Court.
 
-இவற்றின் ஆதாரங்களுடன் பெண்ணை யாழ். மேலதிக நீதவான் நீதிமன்றில் முற்படுத்திய நிலையில் வழக்கு விசாரணைகள் நடைபெற்றுவந்தன.
+🟩
 
-இந்நிலையில், நேற்றையதினம் நடைபெற்ற விசாரணைகளில் பெண் குற்றவாளியாக அடையாளம் காணப்பட்டு, 35 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+A woman who was allegedly defrauding millions of money for allegedly sending it abroad has been sentenced to 35 years in prison.
+
+A woman from Jaffna has been arrested and investigated on the basis of complaints received by the District Crime Branch for allegedly defrauding the youth.
+
+Investigations have revealed that more than 4 crores of rupees were fraudulent, money laundering, identifying as a foreign employment agent without permission.
+
+All the money transactions are carried out through the woman's own account number.
+
+The woman with the sources of these. The case was held as the Additional Magistrate's Court was produced.
+
+In this case, the woman was identified as a culprit and sentenced to 35 years in prison.
 
 ◼️
 
 [Data](articles/dc8750bc.json)
+
+[Extended Data](ext_articles/dc8750bc.ext.json)
 
 ---
 

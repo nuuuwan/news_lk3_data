@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 16:41:29**
+As of **2024-11-22 17:25:50**
 
 ## Newspaper Stats
 
-*Scraped **56,341** Articles*
+*Scraped **56,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,300
+adalk | 5,301
 adaderanalk | 6,808
 tamilmirrorlk | 8,010
 virakesarilk | 9,160
@@ -26,45 +26,67 @@ adaderanasinhalalk | 9,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,338 (100.0%) of 56,341 articles have been extended.
+56,342 (100.0%) of 56,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### அதானி மீது மற்றுமொரு குற்றச்சாட்டு; ஜெகன் மோகனுக்கும் சிக்கல்?
+### Another accusation against Adani;Problem with Jegan Mohan?
 
 *2024-11-22 16:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதானி-மீது-மற்றுமொரு-குற்றச்சாட்டு-ஜெகன்-மோகனுக்கும்-சிக்கல்/175-347624) · `ta`
 
-இந்திய சூரிய ஒளி மின்சார நிறுவனத்தின் (Solar Energy Corporation of India) ஒப்பந்தத்தில் கையெழுத்திட அப்போதைய ஆந்திர முதல்வர் ஜெகன் மோகனுக்கு இலஞ்சம் கொடுக்க அதானி உறுதி அளித்தகாக, அமெரிக்க பாதுகாப்பு மற்றும் பரிவர்த்தனை ஆணையம் தெரிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-கடந்த 2021ஆம் ஆண்டு, ஓகஸ்ட்டில் ஜெகனைச் சந்தித்த அதானி, இந்த உறுதியினை அளித்தார் எனத் தெரிவிக்கப்பட்டுள்ளது.
 
-இந்திய தொழிலதிபர் கௌதம் அதானி, தங்கள் நாட்டு முதலீட்டாளர்களை ஏமாற்றியதாகவும், இந்திய அதிகாரிகளுக்கு லஞ்சம் கொடுத்ததாகவும் உள்ளிட்ட பல்வேறு குற்றச்சாட்டுக்களை, அமெரிக்க பாதுகாப்பு மற்றும் பரிவர்த்தனை ஆணையம் அடுக்கியிருந்தது.
 
-அந்த வரிசையில், பெயர் குறிப்பிடப்படாத வெளிநாட்டு அதிகாரி ஒருவர் ஆந்திர அரசு அதிகாரிக்கு ரூ.1750 கோடி (இந்திய பெறுமதி) இலஞ்சம் கொடுக்க முன்வந்தார் என்று குறிப்பிடப்பட்டுள்ளது.
+Accusations against Adani: Bribery claims involving Andhra Pradesh CM Jagan Mohan over solar energy deal. US SEC alleges fraud and bribery. Adani denies allegations, threatens legal action.
 
-இந்தச் சந்திப்புக்கு பின்பே அப்போதைய ஆந்திர அரசு இந்திய சூரிய மின்சார நிறுவனத்திடம் இருந்து 7 ஜிகாவாட் மின்சாரம் வாங்க ஒப்புக்கொண்டது என்றும் இது வேறு எந்த மாநிலமும் வாங்காத அதிக அளவாகும் என்றும் தகவல் வெளியாகியுள்ளது.
+🟩
+
+Adani has promised to bribe the then Andhra Pradesh Chief Minister Jagan Mohan to sign the solar Energy Corporation of India.
+
+Adani, who met Jagan in August 2021, was reportedly giving this commitment.
+
+The US Security and Transaction Commission has put various allegations, including Indian businessman Gautam Adani, who has defrauded their investors and bribed Indian authorities.
+
+In that line, an unnamed foreign official has been told that the Andhra Pradesh government has offered bribes to bribe Rs 1750 crore (Indian value).
+
+It is reported that the Andhra Pradesh government agreed to buy 7 Gigawat of electricity from the Indian solar power company after the meeting.
+
+“The Indian Solar Power Company signed an agreement with Adani Group and Azur Power to supply 12 Gigawat solar power at a specific price of 2020. However, no one has come forward to buy solar electricity from SECI due to high prices.
 
 ...
 
 [Data](articles/3f046de7.json)
 
+[Extended Data](ext_articles/3f046de7.ext.json)
+
 ---
 
-### ’பாராளுமன்ற சிற்றுண்டிச்சாலை மூடப்படாது’
+### Parliamentary Snack Road
 
 *2024-11-22 16:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-சிற்றுண்டிச்சாலை-மூடப்படாது/175-347623) · `ta`
 
-பாராளுமன்ற சிற்றுண்டிச்சாலை எக்காரணம் கொண்டும் மூடப்பட மாட்டாது என்று, சமகி ஜன பலவேகய பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-தற்போதைய ஆட்சியில், பாராளுமன்ற உணவகம் மூடப்படவுள்ளதாக வெளியான தகவல் தொடர்பில் வினவிய போதே, அவர் இவ்வாறு கூறினார்.
 
-பாராளுமன்ற சிற்றுண்டிச்சாலை  மூடப்பட மாட்டாது. ஆனால் அந்த வசதியை யாரும் துஷ்பிரயோகம் செய்யாமல் இருப்பதை அரசாங்கம் கவனித்துக்கொள்ளும் என்றாலும்,  ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.AN
+
+Parliamentary Snack Road: MP Harsha de Silva ensures snacks won't close. He criticizes misuse, urging responsible use of the facility under current governance.
+
+🟩
+
+Harsha de Silva, Member of Parliament, said that the parliamentary snack will not be closed for any reason.
+
+In the current regime, he said this while questioning the release of the parliamentary restaurant.
+
+Parliamentary Snacks will not be closed. But although the government takes care of that no one is abusing the facility, Harsha de Silva said.
 
 ◼️
 
 [Data](articles/16acd908.json)
+
+[Extended Data](ext_articles/16acd908.ext.json)
 
 ---
 
@@ -137,6 +159,8 @@ This financial aid is provided to a total of 511,086 eligible individuals under 
 ◼️
 
 [Data](articles/08f65626.json)
+
+[Extended Data](ext_articles/08f65626.ext.json)
 
 ---
 
@@ -339,6 +363,32 @@ Subsequently, when the complainant stopped the bus in Aluthgama, a group of peop
 [Data](articles/4cce8fe6.json)
 
 [Extended Data](ext_articles/4cce8fe6.ext.json)
+
+---
+
+### Another landslide in Badulla
+
+*2024-11-22 15:06:53* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-තවත්-නාය-යාමක්/11-413212) · `si`
+
+Landslide hits homes in Badulla district. Seven family members ordered to evacuate. Houses damaged, walls destroyed. Disaster Management Center informed residents. National Building Research Organization to inspect area.
+
+🟩
+
+The Badulla District Secretary Pundala Sri Palrat Abeywardena says that seven members of two families residing in the houses in the Badulla Wellabinddedawa Watta Division has been instructed to leave the houses.
+
+The houses in the Badulla Wellbinddawa, Badulla has been subjected to the landslide and destroyed the walls of the houses, he said.
+
+Badulla District Secretary Pundayek Abeywardena stated that the school secretary of the Badulla Wellabedda Estate belonging to the Badulla Wellabindddawatta.
+
+However, the Disaster Management Center (DMC) has informed the people of estate houses in the Badulla area.
+
+Badulla District Secretary Pundala Sri Palhat Abeywardena said that the National Building Research Organization of the National Building Research Organization said that the National Building Research Organization (NBT) is scheduled to be inspected.. (I j)
+
+◼️
+
+[Data](articles/511ee2ea.json)
+
+[Extended Data](ext_articles/511ee2ea.ext.json)
 
 ---
 
@@ -2363,21 +2413,5 @@ Some of the issues put forward on the election platforms show the contradiction 
 [Data](articles/a119284b.json)
 
 [Extended Data](ext_articles/a119284b.ext.json)
-
----
-
-### Sri Lanka’s SMEs: Debt-trapped dilemma
-
-*2024-11-22 01:22:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-SMEs-Debt-trapped-dilemma/4-769525) · `en`
-
-A substantial portion of Sri Lankan SMEs, approximately 70%, are currently insolvent or teetering on the brink of bankruptcy
-
-A cornerstone of successful debt recovery lies in preserving the business’s operational viability rather than resorting to liquidation. Many debt restructuring solutions fall short by neglecting the critical aspect of cash flow matching, which is fundamental to servicing debt obligations. By strategically realigning assets based on their utilisation, it is possible to strike a balance between debt recovery and cash generation, fostering a more sustainable recovery process
-
-...
-
-[Data](articles/8fe0311f.json)
-
-[Extended Data](ext_articles/8fe0311f.ext.json)
 
 ---

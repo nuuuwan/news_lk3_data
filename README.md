@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 01:25:56**
+As of **2024-11-23 01:11:48**
 
 ## Newspaper Stats
 
-*Scraped **56,411** Articles*
+*Scraped **56,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
-tamilmirrorlk | 8,015
+tamilmirrorlk | 8,014
 virakesarilk | 9,179
 adaderanasinhalalk | 9,733
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,396 (100.0%) of 56,411 articles have been extended.
+56,396 (100.0%) of 56,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
-
-### ஜப்பான் தூதுவருடன் ஜனாதிபதி செயலாளர் சந்திப்பு
-
-*2024-11-23 01:17:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவருடன்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-347641) · `ta`
-
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவுக்கும் ஜப்பானிய தூதுவர் அகியோ இசோமடாவுக்கும் இடையிலான சந்திப்பொன்று நேற்று பிற்பகல் ஜனாதிபதி செயலகத்தில் இடம்பெற்றது.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான புதிய அரசாங்கத்திற்கு வாழ்த்துத் தெரிவித்த ஜப்பானிய உயர்ஸ்தானிகர், இரு நாடுகளுக்கும் இடையிலான இருதரப்பு உறவுகளை திறம்பட தொடர்ந்தும் முன்னெடுக்க எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
-
-வீண் விரயம், ஊழல், மோசடியற்ற நாட்டை உருவாக்கி நாட்டை பொருளாதார ரீதியில் முன்னோக்கிக் கொண்டு செல்லும் புதிய கொள்கைக்கு ஜப்பான் அரசாங்கத்தின் பாராட்டுக்களை தெரிவித்த அகியோ இசோமடா, இலங்கையின் புதிய அரசாங்கத்திற்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் சிறந்த ஆதரவை வழங்குவதாகவும் தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/ffc79367.json)
-
----
 
 ### SJB calls for Presidential apology on JVP’s role in undermining rule of law
 
@@ -2397,5 +2381,29 @@ LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issu
 [Data](articles/93f5fdd6.json)
 
 [Extended Data](ext_articles/93f5fdd6.ext.json)
+
+---
+
+### இலங்கைக்கு நேரடி விமான சேவையை ஆரம்பித்தது Jetstar Asia !
+
+*2024-11-22 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199394) · `ta`
+
+Jetstar Asia launches direct flights from Singapore to Sri Lanka. New low-cost carrier offers daily Airbus A320 services between Changi Airport and Sri Lankan destinations.
+
+🟩
+
+The new airline service between Sri Lanka and Singapore was launched on Thursday (21).
+
+The airline has launched a low -cost Jetstar Asia Airlines in Singapore.
+
+Accordingly, Jetstar Asia, the first airline of the new airline from Singapore's Changi Airport, arrived in Sri Lanka on Thursday morning.
+
+Airbus A320 will be operated from Singapore to Singapore every morning or evening.Jetstar also said that it also provides necessary choices for those who are affiliated via Singapore.
+
+◼️
+
+[Data](articles/5f425912.json)
+
+[Extended Data](ext_articles/5f425912.ext.json)
 
 ---

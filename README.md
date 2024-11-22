@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 03:00:16**
+As of **2024-11-23 03:11:17**
 
 ## Newspaper Stats
 
-*Scraped **56,411** Articles*
+*Scraped **56,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
 tamilmirrorlk | 8,015
-virakesarilk | 9,179
+virakesarilk | 9,182
 adaderanasinhalalk | 9,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,411 (100.0%) of 56,411 articles have been extended.
+56,411 (100.0%) of 56,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### 17 வயதின்கீழ் இலங்கை கிரிக்கெட் குழாத்தில் பருத்தித்துறை ஹாட்லி வீரர் ஆகாஷ்; அணித் தலைவர் ஆனந்த வீரர் கித்ம
+
+*2024-11-23 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199461) · `ta`
+
+17 வயதுக்குட்பட்ட இலங்கை அணிக்கும் பங்களாதேஷ் அணிக்கும் இடையில் நடைபெறவுள்ள 3 ஒரநாள் மற்றும் இரண்டு 4 நாள் கிரிக்கெட் போட்டிகளுக்கான இலங்கை குழாத்தை ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் வெள்ளிக்கிழமை வெளியிட்டது.
+
+இந்த குழாத்தில் பருத்தித்துறை ஹாட்லி கல்லூரி வீரர் விக்னேஸ்வரன் ஆகாஷ் இடம்பெறுகின்றமை சிறப்பம்சமாகும்.
+
+ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நடத்தப்பட்ட 17 வயதுக்குட்பட்ட பிராந்திய (மாகாணம்) அணிகளுக்கு இடையிலான போட்டியில் பிரகாசித்ததன் அடிப்படையிலேயே ஆகாஷுக்கு இடம் வழங்கப்பட்டுள்ளது.
+
+17 வயதுக்குட்பட்ட இலங்கை அணியின் தலைவராக கொழும்பு ஆனந்த கல்லூரி வீரர் கித்ம வித்தானபத்திரன நியமிக்கப்பட்டுள்ளார்.
+
+உப தலைவர் பதவி மருதானை புனித சூசையப்பர் கல்லூரி வீரர் செனுஜ வெகுங்கொடவுக்கு வழங்கப்பட்டுள்ளது.
+
+இரண்டு அணிகளுக்கும் இடையிலான இந்த கிரிக்கெட் தொடர் ஞாயிற்றுக்கிழமை 24ம் திகதி ஆரம்பமாகிறது. கடைசிப் போட்டி டிசம்பர் 8ஆம் திகதி நடைபெறும்.
+
+...
+
+[Data](articles/8f53eade.json)
+
+---
+
+### மக்களின் எதிர்பார்ப்புக்களை நிறைவேற்ற அரசியல் தலைமைத்துவம் வழங்குவதைத் தவிர வேறெந்த நோக்கமும் கிடையாது - ஜனாதிபதி
+
+*2024-11-23 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199460) · `ta`
+
+...
+
+[Data](articles/a99d3a55.json)
+
+---
 
 ### President's Secretary meets Japan Ambassador
 
@@ -55,6 +87,22 @@ Akio Isomada, who congratulated the Japanese government for a new policy of crea
 [Data](articles/ffc79367.json)
 
 [Extended Data](ext_articles/ffc79367.ext.json)
+
+---
+
+### சீன அரசாங்கத்தின் 1996 வீட்டுத் திட்டத்தின் இணை ஒப்பந்தம் கைச்சாத்தானது
+
+*2024-11-23 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199459) · `ta`
+
+குறைந்த வருமானம் பெறும் குடும்பங்களின் வாழ்க்கை நிலைமையை மேம்படுத்தும் நோக்கில் சீன அரசாங்கத்தின் 552 மில்லியன் சீன யுவான் நிதியுதவியின் கீழ் 1,888 வீடுகள் மற்றும் 108 மூத்த கலைஞர்களுக்கான வீடுகள் ஆகிய வீட்டுத்திட்டத்தின் இணை ஒப்பந்தம் கைச்சாத்திடும் நிகழ்வு வெள்ளிக்கிழமை (22) பத்தரமுல்ல, செத்சிறிபாயவில் அமைந்துள்ள நகர அபிவிருத்தி, நிர்மாணத்துறை  மற்றும் வீடமைப்பு அமைச்சில் இடம்பெற்றது.
+
+இந்த ஒப்பந்தத்தில் கைச்சாத்திடும் நிகழ்வில் நகர அபிவிருத்தி, நிர்மாணத்துறை மற்றும் வீடமைப்பு அமைச்சர் கலாநிதி அனுர கருணாதிலக மற்றும் சீனாவுக்கான இலங்கைத் தூதுவர் கிவு சென்ஹோன்ங் ( Qi Zhenhong) ஆகியோர் பங்கேற்றனர்.
+
+இந்நிகழ்வில் சீனத் தூதரகத்தின் பொருளாதார மற்றும் வர்த்தக விவகாரங்களுக்குப் பொறுப்பான ஆலோசகர்  டாங் யாண்டி (Tang Yandi) மற்றும் சீனத் தூதரகத்தின் மூத்த அதிகாரிகள் உட்பட திட்டக் கட்டிடக்கலை வடிவமைப்பு ஆலோசகர்களுடன் இணைந்து கொண்டனர்.
+
+...
+
+[Data](articles/52955b9b.json)
 
 ---
 
@@ -2367,73 +2415,5 @@ Fourteen grams of heroin has been seized by the police from the arrested suspect
 [Data](articles/d49dbfc8.json)
 
 [Extended Data](ext_articles/d49dbfc8.ext.json)
-
----
-
-### Harin CID
-
-*2024-11-22 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203622) · `si`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Harin Fernando denies Cabinet responsibility for administrative purchase incident. He claims 60+ Cabinet meetings and 70+ proposals reviewed. Secretaries present, Finance Ministry recommends. Never seen in Sri Lanka's history. Respectful of judiciary, seeking truth.
-
-🟩
-
-Former Minister Harin Fernando says he does not believe that the Cabinet is responsible for the administrative purchase incident.
-
-He was speaking at a statement to the CID regarding the incident today (22).
-
-The Criminal Investigation Department informed the court on the 11 th of the end of the Cabinet of Former Health Minister Keheliya Rambukwella for approval of the Cabinet paper.
-
-Investigations have been made to appear before the Criminal Investigation Division of the Criminal Investigation Department to preside to statements to the CID regarding the approval of the Criminal Investigation Division regarding the permission of the Cabinet. 01.
-
-Harin Fernando returned to the CID and Harin Fernando arrived today, and Harin Fernando arrived today.
-
-The Cabinet asked if Harin Fernando was responsible for this periodically.
-
-...
-
-[Data](articles/8c7898e4.json)
-
-[Extended Data](ext_articles/8c7898e4.ext.json)
-
----
-
-### Reducing sovereign stresses will support Sri Lankan banks’ credit profiles - Fitch
-
-*2024-11-22 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103687/reducing-sovereign-stresses-will-support-sri-lankan-banks-credit-profiles-fitch) · `en`
-
-Sri Lankan banks’ operating environment (OE) assessment and overall credit profiles will be supported by any improvement in the sovereign’s credit profile (Long-Term Foreign-Currency IDR: RD, Long-Term Local-Currency IDR: CCC-) following a completed debt restructuring, says Fitch Ratings.
-
-“This is due to the strong link between sovereign financial health and banks’ operating conditions. We believe this would be positive for the National Ratings of Fitch-rated large Sri Lankan banks – albeit based on their creditworthiness relative to other Sri Lankan issuers,” the rating agency said.
-
-Sri Lankan banks’ current OE score of ‘ccc-’/stable is linked closely to the sovereign’s local-currency credit profile, given their predominant exposure to the domestic economy and government securities (local-currency treasury instruments: 33.4% of assets and foreign currency instruments: 3.4% at end-1H24) and lending to the broader public sector.
-
-...
-
-[Data](articles/cea7bf51.json)
-
-[Extended Data](ext_articles/cea7bf51.ext.json)
-
----
-
-### Sri Lanka’s LOLC Holdings divests shares in DFCC Bank for Rs3.5bn
-
-*2024-11-22 12:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-lolc-holdings-divests-shares-in-dfcc-bank-for-rs3-5bn-189432/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s LOLC Holdings said it divested 9.73 percent of its ordinary voting shares held in DFCC Bank through its sub-subsidiary LOLC Investment Holdings Three (Private) Limited for 3.5 billion rupees.
-
-A total 42.1 million shares were sold at 85.00 rupees each, the company said in a stock exchange filing.
-
-LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issue in 2022.
-
-◼️
-
-[Data](articles/93f5fdd6.json)
-
-[Extended Data](ext_articles/93f5fdd6.ext.json)
 
 ---

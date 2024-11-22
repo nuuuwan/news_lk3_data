@@ -1,36 +1,148 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 10:26:43**
+As of **2024-11-22 11:13:54**
 
 ## Newspaper Stats
 
-*Scraped **56,283** Articles*
+*Scraped **56,295** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 435
 colombotelegraphcom | 575
-bbccomsinhala | 585
+bbccomsinhala | 586
 islandlk | 3,367
 economynextcom | 3,413
-dailyftlk | 3,859
+dailyftlk | 3,860
 dailymirrorlk | 4,733
 adalk | 5,298
-adaderanalk | 6,799
-tamilmirrorlk | 7,998
-virakesarilk | 9,149
-adaderanasinhalalk | 9,709
+adaderanalk | 6,800
+tamilmirrorlk | 7,999
+virakesarilk | 9,154
+adaderanasinhalalk | 9,712
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,283 (100.0%) of 56,283 articles have been extended.
+56,287 (100.0%) of 56,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### நாகொடையில் பாலம் இடிந்து விழுந்ததில் ஒருவர் பலி
+
+*2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199381) · `ta`
+
+காலி, நாகொடை பத்தேகம பிரதேசத்தில் கிங் கங்கையின் குறுக்கே உள்ள இரும்புப் பாலம் நேற்று வியாழக்கிழமை (21) திடீரென இடிந்து விழுந்ததில் ஒருவர் உயிரிழந்துள்ளதாக நாகொடை பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் நேற்றைய தினம் இரும்புப் பாலத்தில் திருத்தப்பணிகளில் ஈடுபட்டிருந்தபோது இப்பாலம் திடீரென இடிந்து விழுந்துள்ளது.
+
+இதன்போது பாலத்தில் திருத்தப்பணிகளில் ஈடுபட்டிருந்தவர் பாலத்துக்கு அடியில் சிக்கி சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7142b7f7.json)
+
+---
+
+### அமெரிக்காவின் குற்றச்சாட்டுகளை தொடர்ந்து அதானி குழுமத்தின் திட்டங்கள் குறித்து இலங்கை எச்சரிக்கையாக இருக்கவேண்டும் - நிபுணர்கள்
+
+*2024-11-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199386) · `ta`
+
+இலங்கை அதானிகுழுமத்தின் வலுசக்தி திட்டங்கள் குறித்து எச்சரிக்கையுடன் இருக்கவேண்டும் என நிபுணர்கள் தெரிவித்துள்ளனர்.
+
+அதானி குழுமத்தின் தலைவர் கௌதம் அதானி உட்பட ஏழு பேருக்கு எதிராக அமெரிக்கா மோசடி குற்றச்சாட்டுகளை சுமத்தி பிடியாணை பிறப்பித்துள்ளது.
+
+இலங்கையில் நிகழ்ந்த ஊழல்கள் குறித்த விபரங்கள் வேறு நியாயாதிக்கங்களி;ல் அம்பலமாவதை பார்த்திருக்கின்றோம் என கொழும்பை தளமாக கொண்ட வெரிட்டே ரிசேர்ச்சின் நிறைவேற்று பணிப்பாளர் நிசான் டி மெல் தெரிவித்துள்ளார்.
+
+சிலவருடங்களிற்கு முன்னர் பிரிட்டனில் இடம்பெற்ற விசாரணையின்போது எயர்பஸ் நிறுவனத்திடமிருந்து ஸ்ரீலங்கன் எயர்லைன்சிற்கான எயர்பஸ் கொள்வனவில் மோசடிகள் ஊழல்கள் இடம்பெற்றதாக குற்றச்சாட்டு வெளியானதை அவர் சுட்டிக்காட்டியுள்ளார்.
+
+பண்டோரா பேப்பரில் உள்ளுர் அரசியல்வாதிகள்,வர்த்தகர்களின் பெயர்கள் வெளியானதை சுட்டிக்காட்டியுள்ள அவர் நிசான் டிமெல் ஊழல் உடன்படிக்கைகளில் இருந்து நாங்கள் பாதுகாக்கப்படுவதை உறுதி செய்வதற்காக  ஊழலிற்கு எதிரான தனது நடவடிக்கைகளை இலங்கை இரட்டிப்பாக்குவது அவசியம் என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9de9a917.json)
+
+---
+
+### வெல்லம்பிட்டியில் அடுக்குமாடி குடியிருப்பில் தீ விபத்து
+
+*2024-11-22 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199384) · `ta`
+
+வெல்லம்பிட்டிய, சாலமுல்ல வீடமைப்புத் திட்டத்தில் உள்ள அடுக்குமாடி குடியிருப்பில் இன்று வெள்ளிக்கிழமை (22) காலை தீ விபத்து ஏற்பட்டுள்ளதாக வெல்லம்பிட்டிய பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த தீ விபத்துக்கு விரைவில் தீர்வு பெற்று தர வேண்டும் என வலியுறுத்தி அப்பகுதி மக்கள்  குடியிருப்பு அருகே போராட்டத்தில் ஈடுப்பட்டனர். இதன்போது, தற்போதைய அரசாங்கத்திற்கு சிரமங்களை ஏற்படுத்துவதற்காக வேண்டுமென்றே தீ வைக்கப்பட்டுள்ளதாகவும் பொதுமக்களில் சிலர் தெரிவித்துள்ளனர்.
+
+தீ கட்டுப்பாட்டுக்குள்  கொண்டுவரப்பட்டதுடன், எவருக்கும் காயம் ஏற்படவில்லை. தீ விபத்துக்கான காரணம் இதுவரை கண்டறியப்படவில்லை.
+
+◼️
+
+[Data](articles/8e7515e7.json)
+
+---
+
+### Delay in train services
+
+*2024-11-22 10:23:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகளில்-தாமதம்/175-347613) · `ta`
+
+Coastal train service delayed due to technical failure near Pusa Railway Station. Morning railway services affected.
+
+🟩
+
+The coastal train service has been delayed due to a technical failure of a train traveling from Kalkissa to Kalkissa near the Pusa Railway Station.
+
+As a result, there will be a delay in railway services operating in the morning, the Railways said. Remble
+
+◼️
+
+[Data](articles/595b5bb5.json)
+
+[Extended Data](ext_articles/595b5bb5.ext.json)
+
+---
+
+### முத்துராஜா யானையின் தந்தங்களை வெட்ட தாய்லாந்து கால்நடை வைத்தியர்கள் தீர்மானம்
+
+*2024-11-22 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199379) · `ta`
+
+இலங்கையில் இருந்து தாய்லாந்துக்கு கொண்டு செல்லப்பட்ட 29 வயதுடைய முத்துராஜா என்ற பிளாய் சக் சுரின் யானையின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்காக அதன் தந்தங்களை வெட்டுவதற்கு கால்நடை வைத்தியர்கள் தீர்மானித்துள்ளனர்.
+
+இந்த யானை தற்போது தாய்லாந்து நாட்டின் லாம்பாங் நகரத்தில் உள்ள தாய் யானைகள் பாதுகாப்பு மையத்தில் உள்ளது.
+
+மலைப்பாங்கான பகுதிகளில் செல்லும்போது தந்தங்கள் தரையில் சிக்கி இழுக்கப்படுவதைத் தடுக்க அதன் தலையை தூக்கவேண்டியுள்ளதால் முத்துராஜா பெரும் சிரமங்களை எதிர்கொண்டு வருகிறது.
+
+யானையின் தந்தங்களின் எடையைக் குறைப்பது தொடர்பில் நிபுணர்களிடம் கலந்துரையாடல் நடைபெற்று வருகிறது. எனினும், எந்தவொரு தீர்மானத்தையும் முன்னெடுக்க பல அமைப்புகளின் கருத்துக்கள் மற்றும் அனுமதி தேவைப்படும்.
+
+ப்ளாய் சாக் சுரின் யானையின் முன் இடதுகாலில் காயம் இருப்பதால் நடமாடுவதில் சிக்கல் ஏற்பட்டுள்ளது. தொடர்ந்து சிகிச்சை அளிக்கப்படுவதால் உடல் நலம் முன்னேற்றம் அடைந்து வருகிறது என தெரிவித்துள்ளார்.
+
+2001ஆம் ஆண்டு தாய்லாந்து நாட்டினால் இலங்கைக்கு பரிசாக வழங்கப்பட்ட யானைகளில் முத்துராஜாவும் ஒன்றாகும்.
+
+◼️
+
+[Data](articles/1bd71f78.json)
+
+---
+
+### පිල්ලෙයාන් අදත් CIDයට එයි
+
+*2024-11-22 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203619) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන් අද (22) දිනයේත් ප්‍රකාශයක් ලබාදීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ ඇත.
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් බ්‍රිතාන්‍යයේ චැනල් 4 නාලිකාව විකාශය කළ වැඩසටහනක සඳහන් වූ කරුණු සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව එලෙස ඔහුගෙන් ප්‍රකාශ සටහන් කරගනු ඇත.
+
+පෙරේදා (20) දිනයේත් ඔහු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනීසිටි අතර එහිදී සිවනේසතුරෙයි චන්ද්‍රකාන්තන් පවසා ඇත්තේ දමිළ භාෂාවෙත් සිය ප්‍රකාශය ලබාදීමට අවශ්‍ය බවය. ඊට අදාළ භාෂා පරිවර්තන කටයුතු සූදානම් කිරීමෙන් පසු අද දිනයේ ඔහුට පැමිණෙන ලෙස දැනුමී තිබේ.
+
+විනාඩි 50කට ආසන්න කාලයක් විකාශය කෙරුණු අදාළ වීඩියෝවේ සම්මුඛ සාකච්ඡා සඳහා එක්වෙමින් තොරතුරු ඉදිරිපත් කර තිබුණේ හිටපු රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන්ගේ කණ්ඩායමේ මාධ්‍ය ප්‍රකාශක ලෙස කටයුතු කළ ස්විට්සර්ලන්තයේ රැඳී සිටින අසාද් මවුලානා නැමැත්තෙකි.
+
+...
+
+[Data](articles/b3b0a3b2.json)
+
+---
 
 ### The budget party attempts to join opposition MPs
 
@@ -51,6 +163,32 @@ It has also been reported that the party is focusing on the inclusion of MPs rep
 [Data](articles/31d2ab0c.json)
 
 [Extended Data](ext_articles/31d2ab0c.ext.json)
+
+---
+
+### IPL අදියර තුනක් සඳහා දින නියම වෙයි
+
+*2024-11-22 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203618) · `si`
+
+ලොව වඩාත් ආකර්ෂණීයම ෆ්‍රැන්චයිස් ක්‍රිකට් ලීගය ලෙසින් සැලකෙන ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ 2025 අදියර ඇතුළුව ඉදිරි තරගාවලි තුනක් පැවැත්වෙන කාලසීමාවන් නිවේදනය කර තිබේ.
+
+මෙලෙස IPL අදියර තුනක තරග පැවැත්වෙන කාලසීමාවක් ප්‍රසිද්ධියට පත්කළ පළමු අවස්ථාව මෙය වෙයි.
+
+ඒ අනුව එළැඹෙන 2025 අදියර මාර්තු 14 වනදා ආරම්භ වන අතර, එහි අවසන් මහා තරගය මැයි 25 වනදා පැවැත්වීමට කටයුතු යොදා ඇත.
+
+එමෙන්ම 2026 තරගවාරය මාර්තු 15 වනදා ආරම්භ වී මැයි 31 දක්වා පැවැත්වෙන අතර, 2027 තරගවාරය මාර්තු 14 සිට මැයි 30 දක්වා පැවැත්වීමට ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය තීරණය කර තිබේ.
+
+කෙසේ නමුත් මෙම වසරේ පැවැත් වූ තරග සංඛ්‍යාවට වඩා එළැඹෙන අදියර දෙකේ තරග සංඛ්‍යාව වැඩිකර ඇත.
+
+ඒ අනුව 2025 හා 2026 අදියරයන්හි තරග සංඛ්‍යාව 84ක් දක්වා වැඩිකර තිබේ.
+
+එමෙන්ම 2027 වසරේදී එම සංඛ්‍යාව තවත් වැඩිකර තරග 94ක් දක්වා ඉහළ දමා ඇත.
+
+කෙසේ නමුත් මෙම වසරේදී පැවැත්වූ තරගාවලියට ඇතුළත් වූයේ තරග 74කි.
+
+◼️
+
+[Data](articles/c30d87e3.json)
 
 ---
 
@@ -79,6 +217,40 @@ War complaints against Israel have been filed in the Criminal Court. It is in th
 [Data](articles/6614d846.json)
 
 [Extended Data](ext_articles/6614d846.ext.json)
+
+---
+
+### Strike at University of Ruhuna continues for fourth day
+
+*2024-11-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103683/strike-at-university-of-ruhuna-continues-for-fourth-day) · `en`
+
+The strike action launched by all academic and non-academic staff trade unions, along with student unions affiliated with the University of Ruhuna, demanding the immediate removal of the Vice Chancellor, entered its fourth consecutive day today (Nov. 22).
+
+All academic and non-academic trade unions affiliated with the University of Ruhuna had announced a continuous strike commencing from November 19, demanding the immediate removal of the university’s Vice Chancellor.
+
+However, the University Trade Union Joint Committee (UTUJC), the Federation of University Teachers’ Trade Union Alliance, and the students’ representatives of that university held a discussion with Prime Minister Harini Amarasuriya recently regarding the issue.
+
+...
+
+[Data](articles/f8d62ed0.json)
+
+[Extended Data](ext_articles/f8d62ed0.ext.json)
+
+---
+
+### செவனகல பகுதியில் மின்சாரம் தாக்கி நபரொருவர் உயிரிழப்பு!
+
+*2024-11-22 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199378) · `ta`
+
+செவனகல பொலிஸ் பிரிவுக்குட்பட்ட கிரிவெவ பகுதியில் நேற்று வியாழக்கிழமை (21) மின்சாரம் தாக்கி விபத்துக்குள்ளான ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் வெலியார, செவனகல பகுதியைச்  சேர்ந்த 45 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+
+வீட்டில் வேலை செய்து கொண்டிருந்த போது மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக பொலிஸார் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/2b8cae38.json)
 
 ---
 
@@ -243,6 +415,22 @@ Meanwhile, the Sri Lanka Muslim Congress (SLMC) yesterday announced M.S. Naleem,
 [Data](articles/5a8592ce.json)
 
 [Extended Data](ext_articles/5a8592ce.ext.json)
+
+---
+
+### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+
+*2024-11-22 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203616) · `si`
+
+අද (22) උදෑසන දුම්රියක් කාර්මික දෝෂයකට ලක්වීම හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක් ඇතිවී තිබේ.
+
+ගාල්ලේ සිට ගල්කිස්ස දක්වා ධාවනය වෙමින් තිබූ දුම්රියක් බූස්ස දුම්රිය ස්ථානය ආසන්නයේදී එලෙස කාර්මික දෝෂයකට ලක්වී ඇත.
+
+මේ හේතුවෙන් අද උදෑසන ධාවනය වන අනෙකුත් දුම්රියන් ද ප්‍රමාද විය හැකිය.
+
+◼️
+
+[Data](articles/504ee801.json)
 
 ---
 
@@ -503,6 +691,36 @@ Meanwhile, the Department of Meteorology has been informed that a low-pressure z
 [Data](articles/f42a9343.json)
 
 [Extended Data](ext_articles/f42a9343.ext.json)
+
+---
+
+### Will Sri Lanka lose E8 visa quota from South Korea?
+
+*2024-11-22 04:25:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7mpenm3y8o) · `si`
+
+Sri Lanka may lose E8 visa quota from South Korea due to legal issues with employment agreements. Over 100 Sri Lankans face losing their jobs after failing to travel to South Korea within the required timeframe. The Ministry of Foreign Employment claims the correct procedures were not followed when signing the agreement.
+
+🟩
+
+Will Sri Lanka lose E8 visa quota from South Korea?
+
+More than 100 Sri Lankans who have received employment visa in South Korea have risen to lose their approval to their jobs.
+
+There are 107 Sri Lankans who have received visa under the job quota received from South Korea, or seasonal jobs.
+
+However, the workshop is said that the covenant with Korea has not been carried out in accordance with the law.
+
+A few months ago, Sri Lankans had received a visa for the jobs of South Korea, saying that if they were unable to go to South Korea, they would lose their jobs.
+
+"Visa Cashals for three months to receive visa. The Visa Mountain 40s before, the Visa Mountains and Visa gave them visas again. Even two or three days will be castly, "Sahauma Ruwan Kumara told Ruwan Kumara Ruwanchagoda to Sinhala.
+
+In the Visa group, Korea should be employed for 8 months and must come to Sri Lanka in the rest of the months. The group received jobs that 8 months to three months, Ruwan said.
+
+...
+
+[Data](articles/649e0ed6.json)
+
+[Extended Data](ext_articles/649e0ed6.ext.json)
 
 ---
 
@@ -1045,6 +1263,24 @@ Instead, the figures highlight a range of factors, including the fall of other s
 [Data](articles/1a242b79.json)
 
 [Extended Data](ext_articles/1a242b79.ext.json)
+
+---
+
+### End of Tamil nationalism? Not according to the numbers
+
+*2024-11-22 00:55:12* · [`dailyftlk`](https://www.ft.lk/columns/End-of-Tamil-nationalism-Not-according-to-the-numbers/4-769523) · `en`
+
+An analysis of Sri Lankan election data highlights a collapse of many Government affiliated parties and reveals why Tamil nationalism might be growing – not shrinking
+
+The 2024 Sri Lankan Parliamentary election concluded last week, in which the ruling National People’s Power (NPP) gained a record majority and made headway into the Tamil homeland. There were notable casualties for senior Tamil nationalist politicians and for the first time ever a southern political party managed to gain a majority in all but one district in the north-east. Commentators have since speculated whether the result spells the beginning of the end for Tamil nationalist politics.
+
+Instead, the figures highlight a range of factors, including the fall of other southern Opposition political parties, leftist coalitions and paramilitary groups that allowed the NPP to siphon votes and grow their base amongst those who had already previously voted for pro-state forces.
+
+...
+
+[Data](articles/48cb569f.json)
+
+[Extended Data](ext_articles/48cb569f.ext.json)
 
 ---
 
@@ -2079,351 +2315,5 @@ After that, producer Suresh Kamakshi gave him the story that Umapati could be in
 [Data](articles/3121ec5f.json)
 
 [Extended Data](ext_articles/3121ec5f.ext.json)
-
----
-
-### Samudrakani plays' Mr.. Video release of the movie 'gem'
-
-*2024-11-21 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199346) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Samudrakani's "Mr. Manikam" releases. Directed by Nanda Periyasamy, featuring Nasser, Ananya. Music by Vishal Chandrasekhar. First song "Kaivisu Pommaka" out, sung by Tipu. Co-produced by GP Rekha Ravikumar and Raja Senthil.
-
-🟩
-
-The song 'Pommaka' and the song 'Bommaka', which is featured in the film 'Mr. Manikam', starring the hero of the story of the director and actor Samudrakani.
-
-Directed by director Nanda Periyasamy, 'Thiru Manikam', Nasser Samudrakani, Director Imam Bharathiraja, Ananya, Nasser, Chinni Jayant, Vadivarasi, Karunakaran, Sriman, Sulil Kumar, Reshma, Gracei and many others.
-
-M.. Vishal Chandrasekhar has composed the film, which has been recorded by Sukumar. The film was co -produced by producer GP Rekha Ravikumar - Sinda Gopalakrishna Reddy and Raja Senthil on behalf of GBRK Cinemas.
-
-The first song in the film has been released and the song 'Kaivisu Pommaka ..' which was featured in the film has been released.
-
-The song is written by songwriter Ilango Krishnan, the playback singer Tipu has sung the song.
-
-◼️
-
-[Data](articles/912238df.json)
-
-[Extended Data](ext_articles/912238df.ext.json)
-
----
-
-### Sri Lanka President appoints 29 deputy ministers
-
-*2024-11-21 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-29-deputy-ministers-189264/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed 29 deputy minister from his ruling National People’s Power (NPP) .
-
-Anil Jayantha Fernando is Deputy Minister of Economic Development and Harshana Sooriyapperuma is Deputy Minister of Finance and Planning.
-
-Prof. Anil Jayantha Fernando – Deputy Minister of Economic Development
-
-Wasantha Piyathissa – Deputy Minister of Rural Development, Social Security and Community Empowerment
-
-R.M. Jayawardena – Deputy Minister of Trade, Commerce and Food Security
-
-Gamagedara Dissanayake – Deputy Minister of Buddhasasana, Religious and Cultural Affairs
-
-Rathna Gamage – Deputy Minister of Deputy Minister of Fisheries, Aquatic and Ocean Resources
-
-Arun Kemachandra – Deputy Minister of Foreign Affairs and Foreign Employment
-
-Chathuranga Abeysinghe – Deputy Minister of Industries and Entrepreneurship Development
-
-Eng. Janith Ruwan Kodithuwakku – Deputy Minister of Ports and Civil Aviation
-
-Dr. Namal Sudarshana – Deputy Minister of Women and Child Affairs
-
-...
-
-[Data](articles/7f56d923.json)
-
-[Extended Data](ext_articles/7f56d923.ext.json)
-
----
-
-### Sri Lanka stocks close down as profit taking continues
-
-*2024-11-21 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-as-profit-taking-continues-189270/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader ASPI closed down 1.00 percent, or 131.45 points, at 12,982; while the more liquid S&P SL20 Index closed down 1.49 percent, or 58.36 points, at 3,860.
-
-Turnover was 7 billion. Most of this came from banks (Rs4.5bn).
-
-“There was interest in the banking sector. Investors who had bought stocks at extreme low prices were engaged in profit taking,” market participants said.
-
-Top negative contributors to the ASPI were John Keells Holdings (down at 20.00), Commercial Bank (down at 120.50), Sampath Bank (down at 93.70), Browns Investments (down at 6.10) and LOLC Holdings (down at 448.00).
-
-Top turnover generators were DFCC Bank (up at 86.20), JKH, Citizend Development Business Finance (up at 233.00), Sampath Bank and Commercial Bank.
-
-“Large quantities of bluechips stocks also changed hands, possibly due to some bargain hunting.”
-
-...
-
-[Data](articles/5a6280d6.json)
-
-[Extended Data](ext_articles/5a6280d6.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 290.95/291.05 to dollar, bonds steady
-
-*2024-11-21 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-290-95-291-05-to-dollar-bonds-steady-189266/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 290.95/291.05 to the US dollar on Thursday from 290.95/291.10 to the US dollar on Wednesday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 10.15/25 percent, from 10.10/20 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov21/2024)
-
-◼️
-
-[Data](articles/bcbe6638.json)
-
-[Extended Data](ext_articles/bcbe6638.ext.json)
-
----
-
-### Inflation is no longer negative
-
-*2024-11-21 16:53:05* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-සෘණ-වෙයි/11-413206) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Inflation turns positive: -0.7% in Sept '24; Food inflation rises from 0.5% to 1.3%; Non-food deflation decreases from -2.3% to 0%."
-
-🟩
-
-In September 2024, the country's inflation has been reduced to -0.7% for October month.
-
-The feeding of food recorded as 0.5% in September, the point inflation increased to 1.3% in October.
-
-In September, the non-food non-food nor of food in September has reduced to -2.3% in October.
-
-◼️
-
-[Data](articles/0c271b71.json)
-
-[Extended Data](ext_articles/0c271b71.ext.json)
-
----
-
-### Appointment of 29 Deputy Ministers
-
-*2024-11-21 16:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-பிரதியமைச்சர்கள்-நியமனம்/175-347577) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Kumara Dissanayake appoints 29 Deputy Ministers. Key roles: Rural Development, Commerce, Religious Affairs, Fishing Resources, Ports, Women & Child Affairs, Transport, Public Security."
-
-🟩
-
-At the Presidential Secretariat, 29 Deputy Ministers were appointed by President Anura Kumara Dissanayake on Thursday evening.
-
-3 Vasantha Piyadissa Rural Development, Social Security and Social Empowerment Deputy Minister
-
-௫. Rm. Deputy Minister of Commerce, Business and Food Safety
-
-௬. Deputy Minister of Religious and Cultural Affairs
-
-௮. Ratna Kamage Deputy Minister of fishing, hydraulic and ocean resources
-
-17 Engineer. Deputy Minister of Ports and Civil Airlines
-
-18 Dr.. Deputy Minister of Women and Child Affairs
-
-௨௦ Dur. Prasanna Kumara Gunasena Deputy Minister of Transport and Highways
-
-26 Attorney Sunil Vadakala Deputy Minister of Public Security and Parliamentary Affairs
-
-◼️
-
-[Data](articles/9829e076.json)
-
-[Extended Data](ext_articles/9829e076.ext.json)
-
----
-
-### 29 Deputy Ministers in the presence of President Anura Kumara Dissanayake
-
-*2024-11-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199340) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-29 Deputy Ministers sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat on 21st day of month.
-
-🟩
-
-29 Deputy Ministers were sworn in in the presence of President Anura Kumara Dissanayake.
-
-The Deputy Ministers who were sworn in at the Presidential Secretariat today (21)
-
-◼️
-
-[Data](articles/9d66405c.json)
-
-[Extended Data](ext_articles/9d66405c.ext.json)
-
----
-
-### Russia's continental missile attack on Ukraine
-
-*2024-11-21 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199338) · `ta`
-
-Here's a summary of Russia's continental missile attack on Ukraine in approximately 200 characters:
-
-
-
-"Russia launched a wave of ballistic missiles from its mainland into Ukraine, targeting military facilities and civilian areas. The attack caused widespread destruction and casualties. Ukraine's air defense systems intercepted some missiles, but many reached their targets. The strike marked a significant escalation in Russia's ongoing conflict with Ukraine."
-
-🟩
-
-◼️
-
-[Data](articles/2d2d1f2c.json)
-
-[Extended Data](ext_articles/2d2d1f2c.ext.json)
-
----
-
-### Touglas
-
-*2024-11-21 16:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸூக்கு-பிடியாணை/175-347576) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Minister Douglas Devananda failed to appear in court due to illness. He faces fraud charges over alleged defraudation of 10 million rupees. A warrant was issued for his testimony, with the next hearing set for January 23.
-
-🟩
-
-Colombo Additional Magistrate Basan Amarasena on Thursday (21) ordered the former Minister Douglas Devananda, who was not present in court to testify in a case.
-
-According to Douglas Devananda's complaint, Subramanian Manoharan, a businessman from Wellawatte, has issued a complaint that he (Douglas Devananda) has not appeared in court.. The case has been filed by the undercover police.
-
-Douglas Devananda said he would not appear in court because he was sick.
-
-Douglas Devananda had lodged a complaint against him for allegedly defrauding ten million rupees each by learn that there was no money in the account on July 9, 2016 or that day.
-
-Attorney -at -law Sampath Hewapatrana, appearing on behalf of the accused, told the court that Devananda, the first witness of the case, was given the last date for testimony.
-
-The magistrate, considering the two sides, issued a warrant for the witness and adjourned the hearing to January 23.
-
-◼️
-
-[Data](articles/d8a66ad9.json)
-
-[Extended Data](ext_articles/d8a66ad9.ext.json)
-
----
-
-### False hair colors in the market
-
-*2024-11-21 16:37:54* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-හිසකෙස්-වර්ණ-ගණ්වනයන්-වෙළඳපොලේ/11-413205) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Consumer Affairs Authority warns public about false hair colors. Raided businesses selling mislabeled hair dye. Three traders fined for incorrect packaging weights.
-
-🟩
-
-The Consumer Affairs Authority requests the public to be carefully known as the hair is being sold.
-
-The information about such products is also requested to be informed to report to the 1977 Consumer Affairs Authority.
-
-The Consumer Affairs Authority is working on the raid of businesses who were prepared in the hair-black coating market.
-
-According to the Authority, three traders of Pettah and Pettah has already been implemented at the Old Tathoket and Pettah of Pettah and Pettah has been implemented in the Old Tests and Park in People's Park.
-
-It is said that the misconduct black coatings were adjusted to the same, and that the accuracy of the correct pack was 21G and the weight of a sub-production of fake production was 10G.
-
-The offense has been admitted to the three traders after legal action against the Maligakanda Magistrate's Court. Subsequently a fine and a fine of those packaging and a large number of those persons arrested.
-
-◼️
-
-[Data](articles/6f70cfb9.json)
-
-[Extended Data](ext_articles/6f70cfb9.ext.json)
-
----
-
-### 29 delegates sworn in
-
-*2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
-
-29 officials sworn in as Deputy Ministers. Key appointments: Agriculture, Rural Development, Trade, Buddha Sasana, Foreign Affairs, Industry, Ports, Women & Child Affairs, Provincial Councils, Transport, Health, Plantations, Public Defense, Education, Lands & Irrigation. Presidential Secretary also sworn in.
-
-🟩
-
-Deputy Ministers Deputy Ministers President Anura Kumara Dissanayake today (21)
-
-Namal Karunaratne - Deputy Minister of Agriculture and Livestock
-
-Wasantha Piyatissa - Deputy Minister of Rural Development, Social Security and Community Improvement
-
-R. M. Deputy Minister of Trade, Commerce, Food Safety and Co-operative Development
-
-Dissanayake, Gamagedara Dissanayake Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
-
-Aravarandra - Deputy Minister of Foreign Affairs
-
-Chaturanga Abeysinghe - Deputy Minister of Industry and Entrepreneurship Development
-
-Engineering Janith Kodituwakku - Deputy Minister of Ports and Civil Aviation
-
-Dr. Namal Sudarshana - Deputy Minister of Women and Child Affairs
-
-Ruwan Senarath - Deputy Minister of Provincial Councils and Local Government
-
-Dr. Prasanna Kumara Gunasena - Deputy Minister of Transport and Highways
-
-Dr. Hanshana Wijemun - Deputy Minister of Health and Mass Media
-
-Sandaaringam Pradeep - Deputy Minister of Plantation and Community Infrastructure
-
-...
-
-[Data](articles/073ff21c.json)
-
-[Extended Data](ext_articles/073ff21c.ext.json)
-
----
-
-### The person who ate the dawn to death
-
-*2024-11-21 16:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடை-சாப்பிட்ட-நபர்-மரணம்/175-347575) · `ta`
-
-A man in Athurugiriya died after eating something harmful. He had a severe cough and was hospitalized. The cause of death is under investigation.
-
-🟩
-
-The incident took place in the Athurugiriya area where a person who was admitted to the hospital due to coughing caused by a dummy was eaten.
-
-The person who had been eating with his family had eaten a vandalist and had a sudden coughing allergy.
-
-Doctors said he died after being taken to the hospital for treatment.
-
-The body of the deceased has been kept at the Homagama Hospital for autopsy and further investigations are underway, police said.
-
-◼️
-
-[Data](articles/646a0f76.json)
-
-[Extended Data](ext_articles/646a0f76.ext.json)
 
 ---

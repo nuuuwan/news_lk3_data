@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 01:11:48**
+As of **2024-11-23 01:42:41**
 
 ## Newspaper Stats
 
-*Scraped **56,410** Articles*
+*Scraped **56,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
-tamilmirrorlk | 8,014
+tamilmirrorlk | 8,015
 virakesarilk | 9,179
 adaderanasinhalalk | 9,733
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,396 (100.0%) of 56,410 articles have been extended.
+56,402 (100.0%) of 56,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### President's Secretary meets Japan Ambassador
+
+*2024-11-23 01:17:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவருடன்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-347641) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Presidential Secretary Dr. Nandika Sanath Kumanayake met Japanese Ambassador Akio Isomada at the Presidential Secretariat. The ambassador congratulated Sri Lanka's new government and expressed desire to strengthen bilateral relations between the two countries.
+
+🟩
+
+A meeting between President's Secretary Dr. Nandika Sanath Kumanayake and Japanese Ambassador Akio Isomada took place at the Presidential Secretariat yesterday afternoon.
+
+The Japanese High Commissioner congratulated the new government headed by President Anura Kumara Dissanayake and said he expects to continue to carry out bilateral relations between the two countries effectively.
+
+Akio Isomada, who congratulated the Japanese government for a new policy of creating a country and making a new policy of creating a country and making the country a new policy, "he said that he would support the new government of Sri Lanka and President Anura Kumara Dissanayake.. (A)
+
+◼️
+
+[Data](articles/ffc79367.json)
+
+[Extended Data](ext_articles/ffc79367.ext.json)
+
+---
 
 ### SJB calls for Presidential apology on JVP’s role in undermining rule of law
 
@@ -84,6 +110,8 @@ Ambassador Isomata commended the new Government’s policies aimed at creating a
 
 [Data](articles/81fcb674.json)
 
+[Extended Data](ext_articles/81fcb674.ext.json)
+
 ---
 
 ### President Anura Kumara Dissanayake on Thursday appointed 29 Deputy Ministers
@@ -93,6 +121,8 @@ Ambassador Isomata commended the new Government’s policies aimed at creating a
 ...
 
 [Data](articles/8687114a.json)
+
+[Extended Data](ext_articles/8687114a.ext.json)
 
 ---
 
@@ -108,6 +138,8 @@ Building resilience during natural disasters is vital to continue education of s
 
 [Data](articles/d74ed32f.json)
 
+[Extended Data](ext_articles/d74ed32f.ext.json)
+
 ---
 
 ### Book launch and discussion on South Asian labour migration issues and concerns
@@ -122,6 +154,8 @@ The book compiles insights and policy recommendations from a pivotal regional se
 
 [Data](articles/236f453e.json)
 
+[Extended Data](ext_articles/236f453e.ext.json)
+
 ---
 
 ### SLFUW organises special event to commemorate International Children’s and World Elders’ Day
@@ -135,6 +169,8 @@ As explained by the President of SLFUW Colonel Dr. Udula Krishnaratne, a special
 ...
 
 [Data](articles/230c7c67.json)
+
+[Extended Data](ext_articles/230c7c67.ext.json)
 
 ---
 
@@ -2381,29 +2417,5 @@ LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issu
 [Data](articles/93f5fdd6.json)
 
 [Extended Data](ext_articles/93f5fdd6.ext.json)
-
----
-
-### இலங்கைக்கு நேரடி விமான சேவையை ஆரம்பித்தது Jetstar Asia !
-
-*2024-11-22 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199394) · `ta`
-
-Jetstar Asia launches direct flights from Singapore to Sri Lanka. New low-cost carrier offers daily Airbus A320 services between Changi Airport and Sri Lankan destinations.
-
-🟩
-
-The new airline service between Sri Lanka and Singapore was launched on Thursday (21).
-
-The airline has launched a low -cost Jetstar Asia Airlines in Singapore.
-
-Accordingly, Jetstar Asia, the first airline of the new airline from Singapore's Changi Airport, arrived in Sri Lanka on Thursday morning.
-
-Airbus A320 will be operated from Singapore to Singapore every morning or evening.Jetstar also said that it also provides necessary choices for those who are affiliated via Singapore.
-
-◼️
-
-[Data](articles/5f425912.json)
-
-[Extended Data](ext_articles/5f425912.ext.json)
 
 ---

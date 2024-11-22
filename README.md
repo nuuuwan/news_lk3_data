@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 21:41:59**
+As of **2024-11-22 22:41:34**
 
 ## Newspaper Stats
 
-*Scraped **56,368** Articles*
+*Scraped **56,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,142 @@ economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,304
-adaderanalk | 6,813
-tamilmirrorlk | 8,013
-virakesarilk | 9,168
-adaderanasinhalalk | 9,729
+adaderanalk | 6,815
+tamilmirrorlk | 8,014
+virakesarilk | 9,178
+adaderanasinhalalk | 9,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,367 (100.0%) of 56,368 articles have been extended.
+56,376 (100.0%) of 56,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### “World War 3 has begun,” says Ukraine’s ex-military commander amid Russia conflict
+
+*2024-11-22 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103698/world-war-3-has-begun-says-ukraines-ex-military-commander-amid-russia-conflict) · `en`
+
+Valery Zaluzhny, former military Commander-in-Chief of Ukraine, believes World War III is underway, adding the direct involvement of Russian allies in the conflict indicates the same.
+
+“I absolutely believe that in 2024 we can believe that the Third World War has begun,” Mr Zaluzhny said during a speech at the Ukrainska Pravda’s UP100 award ceremony.
+
+Now serving as Ukraine’s envoy to the United Kingdom, Mr Zaluzhny pointed to the direct involvement of Russia’s autocratic allies as a significant factor in the war’s global expansion.
+
+“Soldiers from North Korea are standing in front of Ukraine. Let’s be honest. Already in Ukraine, the Iranian ‘Shahedis’ are killing civilians absolutely openly, without any shame,” he continued, stressing North Korean troops and Chinese weapons were now actively contributing to the war.
+
+...
+
+[Data](articles/ede89068.json)
+
+---
+
+### Home for low -income families
+
+*2024-11-22 21:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-வருமானம்-பெறும்-குடும்பங்களுக்கு-வீடு/175-347628) · `ta`
+
+Chinese Ambassador Qi Zhenhong and Sri Lankan Minister Anura Karunathileka sign agreement for 1888 homes for low-income families and 108 for senior artists in Peliyagoda, Dematagoda, Moratuwa, Maharagama, and Kottawa.
+
+🟩
+
+A plan to construct 1888 houses for low -income families and 108 houses for senior artists has been signed today (22).
+
+It was carried out by Chinese Ambassador to Sri Lanka Qi Zhenhong and Urban Development Minister Dr. Anura Karunathileka.
+
+These houses are to be built in Peliyagoda, Dematagoda, Moratuwa and Maharagama areas.
+
+It is also reported that a housing scheme for senior artists in Kottawa area. Remble
+
+◼️
+
+[Data](articles/b568dc00.json)
+
+[Extended Data](ext_articles/b568dc00.ext.json)
+
+---
+
+### SriLankan Airlines honored with 2025 APEX Best Entertainment Award
+
+*2024-11-22 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103697/srilankan-airlines-honored-with-2025-apex-best-entertainment-award) · `en`
+
+SriLankan Airlines has been honored with the highly coveted 2025 APEX Best Entertainment Award for the Central/Southern Asia region.
+
+This recognition was announced at the FTE APEX Asia Expo, hosted in Singapore on November 20, 2024. The APEX Awards, renowned for being driven exclusively by certified passenger feedback, evaluated over one million flights from 600 airlines, focusing on key aspects such as seat comfort, cabin service, in-flight entertainment, and meal quality.
+
+Additionally, SriLankan Airlines has proudly upheld its position as a ‘Four Star Major Airline’ in the 2025 APEX Official Airline Ratings for an impressive eighth consecutive year.
+
+Maria Sathasivam, Manager Product Development of SriLankan Airlines, commented on the award, stating,
+
+...
+
+[Data](articles/0d5d52b9.json)
+
+---
+
+### This is not the government that deceives the promises - Member of Parliament Jagadeeswaran
+
+*2024-11-22 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199456) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+MP Jagadeeswaran: Our govt won't deceive like others. Pres'll act on Tamil grievances. We'll deliver on election promises, including addressing Tamil issues. Cooperation needed for prosperity.
+
+🟩
+
+Unlike other governments who have deceived the promises, the president will implement the disgust of the Tamil people in action, said Wannimavatta MP M. Jegadeeswaran.
+
+He was speaking to the media on Friday (22) in Vavuniya.
+
+76 years later you have set up a government of corrupt honest. We thank all the people who confirmed our success. The service for our people begins from today. We will be in the presence of all people and gaining equal opportunities and rights.
+
+Likewise, the country should cooperate with us to make a prosperous and beautiful life. All the programs that we are doing in the future will be unique.
+
+We will work forward to fulfill the issues stated in our election manifesto. The President has already made it clear that the disappearance and the problems of the Tamils.
+
+Gradually it will take place. Unlike other governments who have deceived the promises, our president will implement in action.. We will also cooperate with it.
+
+◼️
+
+[Data](articles/796ab1ef.json)
+
+[Extended Data](ext_articles/796ab1ef.ext.json)
+
+---
+
+### 3-day workshop for new MPs
+
+*2024-11-22 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203641) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"3-day workshop for new MPs: Nov 25-27, 9:30 AM-4:30 PM. Topics: MP roles, privileges, committees, voting systems, anti-corruption laws. Key speakers: Prime Minister, Deputy Leaders, Deputy Speakers. Practical sessions included."
+
+🟩
+
+Awareness workshop will be held on behalf of the elected to the Third Parliament at 25, 26 and 27.
+
+Accordingly, a workshop for MPs who were elected to the Third Parliament on November 25, 26 and 27 at November 25, 26 and 27. From 9.30 pm. The Committee will be held at the Parliament room No. 01 to 4.30.
+
+The workshop is also organized this workshop as a tradition of a new Parliament.
+
+Prime Minister Dr. Harain Amarasuriya, Deputy Leader Dr. Mohammed Risvi Ranhamada, Deputy Speaker, Deputy Leader of the Government Chairman Dr. Nalinda, Deputy Speaker of ParliamentJayatissa, Deputy Secretary-General of Parliament and the Assistant Secretary and the Assistant Secretary and the Assistant Secretary and the Assistant Secretary (Assistant Secretary) are participating.
+
+At this Thandi Workshop, the role of the Member of Parliament, Parliamentary Privileges, Parliamentary Privileges, Parliamentary Committees and Parliamentary Committees
+
+...
+
+[Data](articles/e825db2b.json)
+
+[Extended Data](ext_articles/e825db2b.ext.json)
+
+---
 
 ### We cannot move forward without restoring public’s trust in public service - President
 
@@ -47,6 +169,8 @@ President Dissanayake stated that the new government is dedicated to promoting g
 ...
 
 [Data](articles/218d2298.json)
+
+[Extended Data](ext_articles/218d2298.ext.json)
 
 ---
 
@@ -94,6 +218,212 @@ The Government of Japan, who praised the government's new policy of creating a c
 
 ---
 
+### India, Aussie. Capital rows are a little bit of fast bowlers;17 wickets on the first day
+
+*2024-11-22 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199454) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+India vs Australia Test: Fast bowlers dominate first day. India batsmen struggle, losing all wickets for 150 runs. Rishabh Pant and Nitish Kumar save India with 78-run partnership. Australia replies with 67/7. Jasprit Bumrah takes 4/17 for India.
+
+🟩
+
+India and Australia were unable to face fast bowling in the first portter -Kavaskar Test match between the world's first Test teams at the Perth Stadium.
+
+On Friday (22), the opening day of the match, 17 wickets were taken and they all owned the fast bowlers.
+
+The first day of the match, which played as leaders, was dominated by the fast bowlers.
+
+India decided to bat first and lost all wickets in 49.4 overs and curled up for 150 runs.
+
+Yaswvi Jaiswal (0), Davatat (0), Senior Anupavasali Virat Kohli (5), KL. Rahul (26), Dhruv Jurel (11) and Washington Sundar (4) in the central line were 73 runs.
+
+However, both Rishabh Bond and Nitish Kumar Reddy were very relaxed and saved India from the fall.
+
+Rishabh Bond scored 37 runs and Nitish Kumar Reddy scored 41 runs.
+
+The two were the first of the 48 runs that they both shared in the 7th wicket.
+
+...
+
+[Data](articles/6091b634.json)
+
+[Extended Data](ext_articles/6091b634.ext.json)
+
+---
+
+### Three persons arrested for leakage in Urumpirai area in Jaffna
+
+*2024-11-22 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199453) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"3 arrested in Jaffna's Urumpirai for leakage. Suspects held 8.5L fluid. Handed to Kopay police. Court proceedings ongoing."
+
+🟩
+
+Three persons have been arrested on Friday (22) on the basis of confidential information received by the Jaffna District Police Intelligence Unit under the Jaffna District Senior Superintendent of Police Lussian Surya Bandara.
+
+Three suspects have been arrested in the Urumpirai South Selvapuram area with 8 1/2 liters of leakage.
+
+The three suspects have been handed over to the Kopay police station and the Kopay police are taking steps to appear in court.
+
+◼️
+
+[Data](articles/8700eb55.json)
+
+[Extended Data](ext_articles/8700eb55.ext.json)
+
+---
+
+### President has obligated to state employees
+
+*2024-11-22 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203640) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake addresses state employees, emphasizing accountability & public service. He vows to address economic challenges & corruption, promising a positive future if expectations aren't met.
+
+🟩
+
+President Anura Kumara Dissanayake said that if the present government fails to fulfill the expectations of the people in the last majority, he should diverge the public to create a positive future.
+
+President Anura Kumara Dissanayake said this as the Minister of Finance and Economic Development Minister to assume duties today (22) at the ministries.
+
+The President was warmly welcomed by the staff.
+
+The contribution made by the Ministry of Finance to rescue the country in the face of the past economic collapse, the President also said that everyone would expect to achieve the support of all.
+
+Speaking further, President Anura Kumara Dissanayake said he had a history of a prehisperity of public officials in politics, but today the contribution made by the good measures of state officials from today.
+
+The President emphasized that if there is any injustice or misbehavior in performing duties, the President has stressed.
+
+...
+
+[Data](articles/3be86861.json)
+
+[Extended Data](ext_articles/3be86861.ext.json)
+
+---
+
+### There is over a number of cities including Paris
+
+*2024-11-22 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203638) · `si`
+
+France faces winter challenges: Frost hits Paris, orange alerts issued in southern and eastern regions. Snowfall disrupts traffic, covers streets and fields. Electricity restoration efforts underway. Weather forecasts predict intensifying snow conditions.
+
+🟩
+
+With the winter, the frost has begun in France.
+
+As a result, the authorities of the South and East of France have issued orange alarms have been issued to a number of areas including France.
+
+However, the snow has already begun in a number of countries in the world.
+
+Accordingly, France has also been reported from the France.
+
+Due to the snowpread, France's streets and paddy fields have been covered with snow.
+
+The traffic in many cities including the capital of Paris has been disrupted.
+
+In the face of the Buddhal, the western stalls have also faced a stock of households.
+
+Foreign media reports that about a thousand employees have been deployed to restore electricity supply.
+
+The French weather forecasts forecast that the snow can be intensified.
+
+Steps have already been taken to release orange warning to the North Britney, and Normandy areas as well as in the South and East of France.
+
+◼️
+
+[Data](articles/92c168df.json)
+
+[Extended Data](ext_articles/92c168df.ext.json)
+
+---
+
+### It is amazing to cover up the Assassination of the Assassination of Mahara prisoner
+
+*2024-11-22 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203639) · `si`
+
+Summarized: 11 inmates killed in Mahara Prison. Attorney General orders arrests. Lawyers dispute court orders. Case reopened after CID investigation.
+
+🟩
+
+Welisara Magistrate Dhammika Uddasana today (22) stated that the Attorney General said that the Attorney General was close to the suspects to be arrested in the 2020 inmates regarding the killing of 11 inmates.
+
+Lawyers who commissioned the aggrieved party said the people should accept court orders?Otherwise, the Attorney General has been questioned.
+
+At least 11 inmates were killed in a shooting of the Police Station, a police stake in Mahara Prison inmates.
+
+At the Welisara Magistrate's Court revealed that 11 detainees were killed by the death of the head, stomach and chest.
+
+The court ordered the immediate arrest of the suspects immediately.
+
+On September 26, the Criminal Investigation Department (CID) on September 26, the Criminal Investigation Department (CID) presented to the Welisara Magistrate's Court to close the case.
+
+However, the case had been repeated today to report the steps taken by the Attorney General's Department to the premises by the Attorney General's Department.
+
+...
+
+[Data](articles/a4246bce.json)
+
+[Extended Data](ext_articles/a4246bce.ext.json)
+
+---
+
+### மக்களின் எதிர்பார்ப்புகளை நிறைவேற்றும் அரசாங்கத்தை உருவாக்க அரச ஊழியர்கள் அர்ப்பணிக்க வேண்டும் - நிதி மற்றும் பொருளாதார அபிவிருத்தி அமைச்சராக பதவியேற்ற ஜனாதிபதி தெரிவிப்பு
+
+*2024-11-22 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199452) · `ta`
+
+மக்கள் ஆணைக்கும் பொது மக்கள் கொண்டிருக்கும் எதிர்பார்ப்புக்களை தற்போதைய அரசாங்கம் நிறைவேற்றத் தவறினால் நம்பிக்கையான எதிர்கால தொடர்பில் மக்கள் காணும் கனவுகளும் பொய்யாகிவிடும் என்றும், மக்களின் எதிர்பார்ப்புகளை நிறைவேற்றும் அரசாங்கத்தை உருவாக்க அரச ஊழியர்கள் தம்மை அர்ப்பணிக்க வேண்டுமெனவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க, நிதி மற்றும் பொருளாதார அபிவிருத்தி அமைச்சராக வெள்ளிக்கிழமை (22) பதவியேற்றதன் பின்னர் அமைச்சின் பணிக்குழாம் முன்னிலையில் ஆற்றிய உரையிலேயே இதனைத் தெரிவித்தார்.
+
+கடந்த காலத்தில் பொருளாதார வீழ்ச்சிக்கு முகங்கொடுத்து நாட்டைக் காப்பாற்றுவதற்கு நிதியமைச்சின் அதிகாரிகள் வழங்கிய பங்களிப்பை நன்றியுடன் பாராட்டிய ஜனாதிபதி, எதிர்கால இலக்குகளை அடைவதற்கு அனைவரினதும் ஆதரவை எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/f5da8525.json)
+
+---
+
+### The administration issued a report on the state -of -the -art state of the Mannar District General Hospital
+
+*2024-11-22 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199445) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Mannar District General Hospital report highlights disruptions due to protests. Medical staff faced threats, patients' care compromised. Emergency services impacted, including deliveries and surgeries. Staff security concerns raised. Investigation into Thai Chey's death underway.
+
+🟩
+
+Mannar Hospital Director, Medical Experts, Assistant Medical Officers, Nurses Family Welfare Officers, Health Officers, Patients, Technical Assistants and Technical AssistantsHave been released.
+
+A loss is unbearable in any way. Despite the causes, the loss can hurt everyone's mind.
+
+A healthy society must support the lost family and help them to recover from it and take action if any errors have been proven.. Have the right to fight everyone in a democratic country. But any struggle must be quiet, constructive and persecuted others.
+
+Mother and Chey Death held at Mannar District General Hospital. It is their right to fight people to make it full breath. The uncomfortable incident in the name of a demonstration around the hospital staff, which was in shock, has left the following worrisome conditions.
+
+Another mother who was giving birth to more than 50 people entered the delivery room and his service was disrupted.
+
+...
+
+[Data](articles/06f9de92.json)
+
+[Extended Data](ext_articles/06f9de92.ext.json)
+
+---
+
 ### Japan commends new government’s anti-corruption policies
 
 *2024-11-22 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103695/japan-commends-new-governments-anti-corruption-policies) · `en`
@@ -111,6 +441,60 @@ He also reaffirmed Japan’s readiness to provide maximum support to Sri Lanka�
 [Data](articles/6256d336.json)
 
 [Extended Data](ext_articles/6256d336.ext.json)
+
+---
+
+### சர்வதேச நாணய நிதியத்துடனான மூன்றாவது மீளாய்வுக் கலந்துரையாடல் வெற்றிகரமாக நிறைவு
+
+*2024-11-22 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199449) · `ta`
+
+சர்வதேச நாணய நிதியத்துடன் நடத்தப்பட்ட மூன்றாவது மீளாய்வு கலந்துரையாடல் வெள்ளிக்கிழமை (22) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+இதில் சர்வதேச நாணய நிதியத்தின் சார்பில் சிரேஷ்ட தூதுக்குழு பிரதானி பீட்டர் ப்ரூவர் உள்ளிட்ட பிரதிநிதிகள் கலந்துகொண்டிருந்ததுடன் இலங்கை அரசாங்கம் சார்பில் பொருளாதார அபிவிருத்தி பிரதியமைச்சர் அனில் ஜயந்த பெர்னாண்டோ உள்ளிட்ட குழுவினரும் கலந்துகொண்டனர்.
+
+இதன்படி, சர்வதேச நாணய நிதியத்திற்கும் இலங்கை அரசாங்கத்திற்கும் இடையில் இடம்பெற்ற மூன்றாவது மீளாய்வு தொடர்பான கலந்துரையாடல் வெற்றிகரமாக நிறைவடைந்தது.
+
+◼️
+
+[Data](articles/5dc86d46.json)
+
+---
+
+### ஒரே நோக்கத்துடன் உழைத்து, தாய்நாட்டை சிறந்த நாடாக மாற்ற அர்ப்பணிப்போம் - அரச ஊழியர்களுக்கு ஜனாதிபதி அழைப்பு
+
+*2024-11-22 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199448) · `ta`
+
+தாய்நாட்டை சிறந்த நாடாக மாற்றுவதற்கு ஒன்றிணைந்து செயற்படுமாறு அனைத்து அரச ஊழியர்களுக்கும் அழைப்பு விடுப்பதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+அக்குரேகொட பாதுகாப்பு படைத் தலைமையக வளாகத்தில் அமைந்துள்ள பாதுகாப்பு அமைச்சில் பாதுகாப்பு அமைச்சராக வெள்ளிக்கிழமை (22) முற்பகல்  கடமைகளைப் பொறுப்பேற்ற போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+பாதுகாப்பு அமைச்சுக்கு வருகை தந்த ஜனாதிபதிக்கு அங்கிருந்த ஊழியர்களினால் மகத்தான வரவேற்பு அளிக்கப்பட்டது.
+
+அதனைத் தொடர்ந்து பாதுகாப்பு அமைச்சின் தற்போதைய செயற்பாடுகள் மற்றும் எதிர்கால செயற்பாடுகள் தொடர்பில்  முப்படைகளின் தளபதிகள் மற்றும் பாதுகாப்பு அமைச்சின் பிரதானிகளுடன்  ஜனாதிபதி கலந்துரையாடினார்.
+
+சிறந்த ஆட்சியை உருவாக்குவதற்காக புதிய அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாகவும், நாட்டை கட்டியெழுப்பும் வேலைத்திட்டத்தில் அனைவரினதும் ஆதரவை எதிர்பார்ப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+...
+
+[Data](articles/e2bcc915.json)
+
+---
+
+### எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச உள்ளிட்ட தரப்பினர் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளை மீண்டும் சந்தித்தனர்
+
+*2024-11-22 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199447) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கும், சர்வதேச நாணய நிதியத்தின் (IMF) பிரதிநிதிகள் குழுவிற்கும் இடையிலான விசேட சந்திப்பொன்று வெள்ளிக்கிழமை (22) கொழும்பில் இடம்பெற்றது.
+
+இச்சந்திப்பில், சர்வதேச நாணய நிதியத்தை பிரதிநிதித்துவப்படுத்தி அதன் உயர் மட்டக் குழுவின் பிரதானி பீட்டர் ப்ரூவர், துணைப் பிரதானி திருபதி Katsiaryna Svirydzenka, வதிவிடப் பிரதிநிதி திருமதி மார்த்தா வோல்டெமிகல் மற்றும் வதிவிட பொருளாதார நிபுணர் மானவி அபேவிக்ரம ஆகியோர் பங்கேற்றிருந்தனர்.
+
+இலங்கை தற்போது எதிர்நோக்கி வரும் வங்குரோத்து நிலையிலிருந்து விடுபடுவதற்கான வழிமுறைகள் தொடர்பில் இங்கு இரு தரப்பினருக்கும் இடையில் நீண்ட கருத்துப் பரிமாற்றம் இடம்பெற்றது.
+
+தற்போது மக்கள் ஆணையால் தெரிவு செய்யப்பட்ட அரசாங்கமும் ஜனாதிபதியும் இருப்பதால், முன்னாள் அரசாங்கம் கையெழுத்திட்ட IMF ஒப்பந்தத்தை மாற்றியமைத்து, மக்கள் சார் உடன்பாட்டை எட்டுவதற்கு சர்வதேச நாணய நிதியம் கவனம் செலுத்த வேண்டும் என்று இதன்போது எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/7e9aef44.json)
 
 ---
 
@@ -189,36 +573,6 @@ The President added that the public service was given nearly 80% of the past in 
 [Data](articles/e1febbb2.json)
 
 [Extended Data](ext_articles/e1febbb2.ext.json)
-
----
-
-### The administration issued a report on the state -of -the -art state of the Mannar District General Hospital
-
-*2024-11-22 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199445) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mannar District General Hospital report highlights disruptions due to protests. Medical staff faced threats, patients' care compromised. Emergency services impacted, including deliveries and surgeries. Staff security concerns raised. Investigation into Thai Chey's death underway.
-
-🟩
-
-Mannar Hospital Director, Medical Experts, Assistant Medical Officers, Nurses Family Welfare Officers, Health Officers, Patients, Technical Assistants and Technical AssistantsHave been released.
-
-A loss is unbearable in any way. Despite the causes, the loss can hurt everyone's mind.
-
-A healthy society must support the lost family and help them to recover from it and take action if any errors have been proven.. Have the right to fight everyone in a democratic country. But any struggle must be quiet, constructive and persecuted others.
-
-Mother and Chey Death held at Mannar District General Hospital. It is their right to fight people to make it full breath. The uncomfortable incident in the name of a demonstration around the hospital staff, which was in shock, has left the following worrisome conditions.
-
-Another mother who was giving birth to more than 50 people entered the delivery room and his service was disrupted.
-
-...
-
-[Data](articles/06f9de92.json)
-
-[Extended Data](ext_articles/06f9de92.ext.json)
 
 ---
 
@@ -381,6 +735,40 @@ Also, the manner in which the independent MP was there was heavily discussed on 
 [Data](articles/303b4972.json)
 
 [Extended Data](ext_articles/303b4972.ext.json)
+
+---
+
+### புலம்பெயர் தமிழ் அமைப்புக்களின் நோக்கங்களுக்கமைய ஜனாதிபதி செயற்படக்கூடாது    - ஜயந்த சமரவீர
+
+*2024-11-22 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199434) · `ta`
+
+வடக்கு மக்கள் இனவாதம், பிரிவினைவாதத்தை முடிவுக்கு கொண்டு வந்து தேசிய மக்கள் சக்திக்கு ஆதரவளித்துள்ளார்கள். பிரிவினைவாதத்தை போசிக்கும் புலம்பெயர் தமிழ் அமைப்புக்களின் நோக்கங்களுக்கமைய ஜனாதிபதி அநுரகுமார திசாநாயக்க செயற்பட கூடாது என தேசிய சுதந்திர முன்னணியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜயந்த சமரவீர தெரிவித்தார்.
+
+தேசிய சுதந்திர முன்னணியின் காரியாலயத்தில் வெள்ளிக்கிழமை (22) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது கொள்கை பிரகடனத்தில் இந்த நாட்டில் இனி இனவாதத்துக்கும், மதவாதத்துக்கும் இடமில்லை என்று குறிப்பிட்டுள்ளார். ஜனாதிபதி அண்மைகாலமாக இவ்வாறு குறிப்பிடுவதை அவதானிக்க முடிகிறது.
+
+தேசிய மக்கள் சக்திக்கு கிடைத்துள்ள ஆணை அமோகமானது.  வடக்கு மக்கள் இனவாதம், பிரிவினைவாதத்தை முடிவுக்கு கொண்டு வந்துள்ளார்கள்.  பிரிவினைவாதத்தை முன்னிலைப்படுத்தி செயற்பட்ட எம்.ஏ. சுமந்திரனையும் தோற்கடித்துள்ளார்கள். இருப்பினும் ஏனைய பிரிவினைவாதிகள் பாராளுமன்றத்துக்கு தெரிவாகியுள்ளனர்.
+
+...
+
+[Data](articles/49546a02.json)
+
+---
+
+### ஊழல், மோசடிகளிலும் நான் ஈடுபடவில்லை : ஒருபோதும் ஓடி ஒளிய மாட்டேன் : ஹரின் பெர்னாண்டோ
+
+*2024-11-22 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199432) · `ta`
+
+பாரதூரமான சவாலை எதிர்கொண்ட போது நாம் நாட்டை கைவிட்டு தப்பியோடவில்லை. அதேபோன்று இவ்வாறான சவால்களைக் கண்டும் ஓடப்போவதுமில்லை. இதுவரையில் எவ்வித ஊழல், மோசடிகளிலும் நான் ஈடுபடவில்லை என்பதால் எவ்வித அச்சமும் இல்லை என முன்னாள் அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்தார்.
+
+வெள்ளிக்கிழமை (22) குற்றப்புலனாய்வுப்பிரிவில் முன்னிலையான போது ஊடகங்களுக்கு கருத்து வெளியிடுகையில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+கடந்த அரசாங்கத்தில் இடம்பெற்ற மருந்து பிரச்சினைக்கு முழு அமைச்சரவையும் பொறுப்பு கூற வேண்டியேற்படும் என்று நான் நம்பவில்லை. அமைச்சரவையில் நாளொன்றுக்கு சுமார் 70 பத்திரங்கள் வரை சமர்ப்பிக்கப்படும். அமைச்சுக்களின் செயலாளர்களாலேயே அவை தயாரிக்கப்பட்டு முன்வைக்கப்படும். விடயத்துக்கு பொறுப்பான அமைச்சர் அதனை சமர்ப்பித்த பின்னர் நிதி அமைச்சு அதற்கான பரிந்துரைகளை வழங்கும்.
+
+...
+
+[Data](articles/34d01d8b.json)
 
 ---
 
@@ -655,6 +1043,22 @@ It is reported that the Andhra Pradesh government agreed to buy 7 Gigawat of ele
 [Data](articles/3f046de7.json)
 
 [Extended Data](ext_articles/3f046de7.ext.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல்களுக்கும் எனக்கும் தொடர்பில்லை - சிவநேசதுரை சந்திரகாந்தன்
+
+*2024-11-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199425) · `ta`
+
+நல்லாட்சி அரசாங்கத்தை மக்கள் 2018ஆம் ஆண்டிலேயே புறக்கணித்துவிட்டனர். அதனாலேயே அவ்வாண்டு இடம்பெற்ற உள்ளுராட்சிமன்றத் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன வெற்றி பெற்றது. எனவே கோட்டாபய ராஜபக்ஷவை ஆட்சியில் அமர்த்துவதற்காக உயிர்த்த ஞாயிறு தாக்குதல்கள் மேற்கொள்ளப்பட்டதாகவும், நான் சிறைச்சாலையிலிருந்து கொண்டு சதித்திட்டம் தீட்டியதாகவும் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் அடிப்படையற்றவை என முன்னாள் இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+
+வெள்ளிக்கிழமை (22)  குற்றப்புலனாய்வு திணைக்களத்தில் வாக்குமூலமளிப்பதற்காக முன்னிலையானபோது ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+செனல் 4 வெளியிட்ட காணொளி தொடர்பில் அருட் தந்தையொருவரால் அளிக்கப்பட்ட முறைப்பாட்டுக்கமையவே சீ.ஐ.டி.யில் முன்னிலையாகுமாறு எனக்கு அறிவிக்கப்பட்டுள்ளது. முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவை ஆட்சியில் அமர்த்துவதற்காகவே உயிர்த்த ஞாயிறு தாக்குதல்கள் மேற்கொள்ளப்பட்டதாக அஸாத் மௌலானா குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/00d2d237.json)
 
 ---
 
@@ -2153,415 +2557,5 @@ The action has been taken to reduce the people's taxpayer, the minister said.
 [Data](articles/a07b8c31.json)
 
 [Extended Data](ext_articles/a07b8c31.ext.json)
-
----
-
-### Resolution to review educational reform programs
-
-*2024-11-22 09:16:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-சீர்திருத்த-திட்டங்களை-மதிப்பாய்வு-செய்ய-தீர்மானம்/175-347606) · `ta`
-
-Education Ministry reviews past reforms, seeks new proposals from NIE and other groups. New plan aligns with current government policies.
-
-🟩
-
-The Ministry of Education, Higher Education and Vocational Education has decided to review programs on educational reforms implemented in the last five years.
-
-Secretary of the Ministry Nalaka Kaluwewa said that various proposals on educational reforms have been put forward by several groups and institutions such as the National Institute of Education (NIE).
-
-After reviewing these proposals and programs, the new education reform proposal will be presented in accordance with the current government's policy, the secretary said.
-
-◼️
-
-[Data](articles/9415c358.json)
-
-[Extended Data](ext_articles/9415c358.ext.json)
-
----
-
-### Train delays on coastal line due to break down
-
-*2024-11-22 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103682/train-delays-on-coastal-line-due-to-break-down-) · `en`
-
-Train services on the coastal line are expected to experience delays this morning (22) due to a train traveling from Galle to Mount Lavinia breaking down near the Boossa railway station.
-
-The Railway Department has advised that morning train operations may also be affected as a result of the incident.
-
-◼️
-
-[Data](articles/11c8d859.json)
-
-[Extended Data](ext_articles/11c8d859.ext.json)
-
----
-
-### Naked photos by AI;Alert to students
-
-*2024-11-22 09:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-மூலம்-நிர்வாண-புகைப்படங்கள்-மாணவிகளுக்கு-எச்சரிக்கை/175-347605) · `ta`
-
-AI-generated naked photos scam targeting Sri Lankan students: authorities warn of increasing incidents and advise caution.
-
-🟩
-
-Increasing incidents of scams have been used by AI technology to designed photos of schoolchildren in Sri Lanka as naked photos.
-
-Senior Information Safety Engineer of the Computer Emergency Division, Saruka Tamunubola, said that the students are cautious.
-
-Over the past few days, this fraudulent gang has been using photos of schoolchildren on social media using AI technology and threatening them with the need to share them with the appropriate students and post them on social media.
-
-Thus the affected students are afraid of the fraudulent gang and send their naked photos and follow the advice of the fraudulent gang. Therefore, these incidents have increased over the past few days and the high -quality students have been affected.Therefore, the students should be cautious to the gang of scams, he said.R
-
-◼️
-
-[Data](articles/0d09d89c.json)
-
-[Extended Data](ext_articles/0d09d89c.ext.json)
-
----
-
-### SJB to finalize remaining National List MP nominees today
-
-*2024-11-22 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103681/sjb-to-finalize-remaining-national-list-mp-nominees-today) · `en`
-
-The Samagi Jana Balawegaya (SJB) is set to finalize its nominees for the remaining National List Member of Parliament (MP) positions today (22), according to a senior party spokesperson.
-
-The SJB, having secured five national list MP seats, has already appointed its General Secretary, Ranjith Madduma Bandara, as an MP through the National List.
-
-The party is expected to forward the names of the nominees for the remaining four seats to the Election Commission later today.
-
-Meanwhile, the Sri Lanka Muslim Congress (SLMC) yesterday announced M.S. Naleem, the former Chairman of the Eravur Urban Council, as its National List MP.
-
-◼️
-
-[Data](articles/5a8592ce.json)
-
-[Extended Data](ext_articles/5a8592ce.ext.json)
-
----
-
-### Sri Lanka bondholders in final round of negotiations: report
-
-*2024-11-22 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-in-final-round-of-negotiations-report-189370/) · `en`
-
-ECONOMYNEXT – Representatives of Sri Lanka’s sovereign bondholders have restricted themselves from trading indicating that they are in the final round of talks with the government to wrap up a bond restructure, a media report said.
-
-There was no immediate comment from either party, Bloomberg Newsires, a financial news service, said.
-
-Sri Lanka is expecting to conclude an exchange of new bonds to defaulted bonds in December, after two years of negotiations, President Anura Dissanayake told parliament on November 21.
-
-Sri Lanka has finalized a deal according to the International Monetary Fund’s, debt sustainability analysis for market access countries, where investors are seeking a higher paying if the country does better than projected.
-
-Under the framework agreement some plain vanilla bonds have been set aside where the coupons could fall on reaching some chosen governance indicators, which could be linked to fiscal performance (such as a revenue target) and/or corruption measures.
-
-...
-
-[Data](articles/565c7a19.json)
-
-[Extended Data](ext_articles/565c7a19.ext.json)
-
----
-
-### Railway delay on the coastal route
-
-*2024-11-22 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203616) · `si`
-
-Coastal route railway delay: Train from Galle to Mount Lavinia halted near Boossa due to technical issue. Other morning trains affected.
-
-🟩
-
-The railway train was delayed due to a train today (22).
-
-A train traveling from Galle to Mount Lavinia has been subjected to a technical fault near the Boossa Railway Station.
-
-Due to this, other trains who are running this morning can be late.
-
-◼️
-
-[Data](articles/504ee801.json)
-
-[Extended Data](ext_articles/504ee801.ext.json)
-
----
-
-### Special notice issued for A/L examination candidates
-
-*2024-11-22 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103680/special-notice-issued-for-al-examination-candidates) · `en`
-
-The Disaster Management Center (DMC) and the Department of Examinations have collaboratively implemented a comprehensive programme to avoid potential disaster situations and ensure the uninterrupted conducting of the 2024 G.C.E. Advanced Level (A/L) examination.
-
-This initiative has been launched in light of predictions by the Department of Meteorology regarding the possibility of a low-pressure system developing over the Bay of Bengal in the coming week.
-
-The programme aims to create an optimal environment for students to face the examination without disruptions caused by adverse weather or other disasters.
-
-Under the patronage of the Director General of the DMC, Major General (Retired) Udaya Herath, an awareness programme was recently conducted at the DMC premises. This session included participation from officials of the Department of Examinations and other relevant institutions, extending from the national to the district level.
-
-...
-
-[Data](articles/08cb41cd.json)
-
-[Extended Data](ext_articles/08cb41cd.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-11-22 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103679/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says a low pressure area is likely to form over southeast Bay of Bengal around November 23.
-
-Thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent 2 days. The system may intensify further and move near the Eastern coast of Sri Lanka.
-
-The General public is requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regards, it added.
-
-Showers or thundershowers will occur at times in the Northern, North-central and Eastern provinces and in Matale district.  Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, says the Met. Department.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provincesand in Matale district.
-
-...
-
-[Data](articles/37eda504.json)
-
-[Extended Data](ext_articles/37eda504.ext.json)
-
----
-
-### The first holiday for schools today
-
-*2024-11-22 08:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-இன்று-முதல்-விடுமுறை/175-347604) · `ta`
-
-Schools' first holiday today marks end of third term's first phase. Tamil, Sinhala state-sponsored schools get break. Muslim schools finish on Dec 13. Second phase begins Jan 2.
-
-🟩
-
-The first phase of the third term for schools in 2024 is completed today.
-
-Accordingly, all Tamil and Sinhala schools operating under the state and state sponsorship will be given holidays from today.
-
-In addition, the first phase of the third term of Muslim schools will be completed by the 13th of December.
-
-Accordingly, the second phase of the third term of all schools will be commenced on January 2, the Ministry of Education said.. (A)
-
-◼️
-
-[Data](articles/7d6fbfc7.json)
-
-[Extended Data](ext_articles/7d6fbfc7.ext.json)
-
----
-
-### Strike on Ruhunu University
-
-*2024-11-22 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203615) · `si`
-
-Ruhuna University strike enters 4th day. Non-academic staff demand removal of Vice Chancellor. University unions met PM. Vice Chancellor refuses to step down. Inter University Academic team joins protest.
-
-🟩
-
-The strike commenced at Ruhuna University today (22) will operate on the fourth day today.
-
-The non-academic staff began the program to take action to remove the Vice Chancellor of the University of Ruhuna.
-
-However, the University Trade Union Joint Committee, University Teachers Union Alliance and the University of the University Teachers' Union Alliance and the University of the University was held with a discussion with Prime Minister Harini Amarasuriya recently.
-
-Dhammika Chairperson of the University Conservation Committee will not give up the Vice Chancellor of the University. Mr. Priyantha said.
-
-Meanwhile, the Inter University Academic team also agitated to remove the Vice Chancellor of the Ruhuna University.
-
-◼️
-
-[Data](articles/ecacf5e1.json)
-
-[Extended Data](ext_articles/ecacf5e1.ext.json)
-
----
-
-### The lowest windmill zone tomorrow
-
-*2024-11-22 08:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-குறைந்த-காற்றழுத்த-தாழ்வு-மண்டலம்/175-347603) · `ta`
-
-Lowest windmill zone forecast: Southeastern Bengal Sea low-lying area expected tomorrow. Possible strengthening over southwestern Bengal Virgin seas in next two days. Moving towards Sri Lanka's east coast. Public advised to follow meteorological department's instructions.
-
-🟩
-
-The Department of Meteorology has said that in the southeastern Bengal Sea, low -lying low -lying zone may be formed tomorrow.
-
-Over the next two days, it is possible to strengthen over the southwestern Bengal Virgin seas.
-
-It is possible to strengthen and move towards the east coast of Sri Lanka.
-
-The public has been instructed to act on the forefront and suggestions issued by the Department of Meteorology on this issue.. (A)
-
-◼️
-
-[Data](articles/620497e8.json)
-
-[Extended Data](ext_articles/620497e8.ext.json)
-
----
-
-### Commemoration on National List MP
-
-*2024-11-22 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203614) · `si`
-
-National List MP nominations decision today. Party owns 5 slots, 1 already filled. Remaining 4 to be decided. Election Commission involved. Sri Lanka Muslim Congress appoints former Eravur Municipal Council chairman.
-
-🟩
-
-The final decision on persons who are nominated for the remaining National List MPs in the pro-national list is scheduled to be taken up today (22).
-
-According to a senior spokesperson of the party said that the decision will be met today.
-
-The party owned 5 national listings for the party, and the Secretary-General Ranjith Madduma Bandara has already been sworn in as one of them.
-
-Accordingly, if the remaining national lists are referred to the 4th seats, the spokesperson further stated that the Elections Commission will be referred to today.
-
-Meanwhile, the Sri Lanka Muslim Congress is former chairman of the Eravur Municipal Council for the national list of his party. S. The board has been appointed.
-
-◼️
-
-[Data](articles/4409fa19.json)
-
-[Extended Data](ext_articles/4409fa19.ext.json)
-
----
-
-### Bus kills electrocution
-
-*2024-11-22 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203613) · `si`
-
-A 45-year-old man from Sevanagala died after being electrocuted while cutting something at home. Police are investigating the incident.
-
-🟩
-
-Police say that a person has died in a criminal accident in Kiriwewa yesterday (21), police said.
-
-The victim is a 45 year old resident of Sevanagala area.
-
-Investigations have revealed that he was electrified while he was cutting at a householdal.
-
-However, Sevanagala police are conducting further investigations.
-
-◼️
-
-[Data](articles/4266fbf4.json)
-
-[Extended Data](ext_articles/4266fbf4.ext.json)
-
----
-
-### Here are the sides that have exceeded 100 ml miters today
-
-*2024-11-22 07:33:49* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මිටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-413210) · `si`
-
-S1:0
-
-🟩
-
-The Department of Meteorology says that at the Bay of Bay Bay Bay Bay Bay Bay of Bay of Bay of Bay of Bay of Bay of Baying.
-
-The Department urges the public as the Meteorological Department of Meteorology, which will continue to travel to the eastern coast of the island.
-
-The Department of Meteorology says that showers have occurred in the Northern, North-central provinces today and in the Matale district.Thundershowers will develop at several places in the evening of the rest of the island.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම හා දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැකි විය බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
-
-◼️
-
-[Data](articles/84500458.json)
-
-[Extended Data](ext_articles/84500458.ext.json)
-
----
-
-### Special notice to candidates sit to the A / L examination
-
-*2024-11-22 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203612) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Disaster Management Center & Exams Dept. join forces for 2124 A/L exams. Low Bay of Bengal pressure forecasted. Emergency response plan activated. Guidelines issued for exam-related challenges. Disaster Hotline: 117 or 0113 668 020. Exam Coordination Number: 1911. GCE 2024 starts Nov 25."
-
-🟩
-
-The Disaster Management Center and the Examinations Department has implemented a joint program.
-
-The 2124 A / L examination is to overcome the disasters that can be caused by the time period.
-
-The Department of Meteorology had foretold the low rate of the Bay of Bay of Bengal during the next week.
-
-This step has been taken to create a good environment to cope with the examination and create a good environment to face the examination successfully with avoiding disasters.
-
-The Disaster Major General Udaya Herath was headed by the Department of Examinations at the Disaster Management Center with the participation of the Department of Examinations.
-
-The joint plan is to strengthen the enclosing coordination of emergency response to the officers who are following the exam period.
-
-Accordingly, the necessary guidelines have already been issued to manage the obstacles that can be managed by the Examination of the Examination, including the Armed Forces, including the police, and the police.
-
-...
-
-[Data](articles/ed6e53eb.json)
-
-[Extended Data](ext_articles/ed6e53eb.ext.json)
-
----
-
-### Rock robbery arrested
-
-*2024-11-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203611) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Rock robbery arrest: 24-year-old from Badowita detained in Mount Lavinia raid. Suspect linked to Dehiwala incidents involving property damage and furniture theft. Sword recovered."
-
-🟩
-
-The Mt. Mt. Mt.
-
-The arrest was made during a raid on the Mount Lavinia Bureau of Mount Lavinia, Mount Lavinia, Mount Lavinia.
-
-The suspect is a 24 year old resident of Badowita, police said.
-
-The man is a suspect in the Dehiwala Police Division, including the death of a house in the Dehiwala Police Division, and caring for furniture in the Dehiwala Police Division.
-
-The police also recovered a sword used for the above crimes.
-
-◼️
-
-[Data](articles/f6396487.json)
-
-[Extended Data](ext_articles/f6396487.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-11-22 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203610) · `si`
-
-Weather alert: Showers/thundershowers forecasted for northern, central regions. Heavy rain possible in western, southern areas. Strong winds predicted. Lightning risk. Low-pressure system developing in southwest. Stay tuned for updates.
-
-🟩
-
-The Department of Meteorology says that showers or thundershowers will occur in the North, North-Central and Eastern provinces today (22).
-
-Thundershowers will develop at several places in the evening, in the evening or night in the rest of the island.
-
-Heavy rains can occur at times in the Western, Sabaragamuwa, Central and Southern provinces, in the North, North-Central and North Western Provinces and in the Matale District.. Strong winds can occur in about 30-40.
-
-Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces may have been methavior in the morning.
-
-The Department also requests the public to take necessary measures to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
-
-Meanwhile, the Department of Meteorology has been informed that a low-pressure zone of the southwestern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying.
-
-...
-
-[Data](articles/f42a9343.json)
-
-[Extended Data](ext_articles/f42a9343.ext.json)
 
 ---

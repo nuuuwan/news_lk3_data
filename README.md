@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 15:12:51**
+As of **2024-11-22 15:42:14**
 
 ## Newspaper Stats
 
-*Scraped **56,322** Articles*
+*Scraped **56,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,299
-adaderanalk | 6,806
-tamilmirrorlk | 8,001
+adalk | 5,300
+adaderanalk | 6,807
+tamilmirrorlk | 8,003
 virakesarilk | 9,157
 adaderanasinhalalk | 9,718
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 9,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,322 (100.0%) of 56,322 articles have been extended.
+56,323 (100.0%) of 56,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### வருட இறுதிக்குள் மின் கட்டணத்தில் திருத்தம்?
+
+*2024-11-22 15:31:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருட-இறுதிக்குள்-மின்-கட்டணத்தில்-திருத்தம்/175-347617) · `ta`
+
+மின்சார கட்டண திருத்தம் தொடர்பான அறிக்கையினை இலங்கை மின்சார சபை இன்றுவரை சமர்ப்பிக்காத நிலையில், மின்சார கட்டணத் திருத்தம் தொடர்பான இறுதித் தீர்மானத்தை இந்த வருடம் அறிவிக்க முடியாது என அந்த ஆணைக்குழு குறிப்பிட்டுள்ளது.
+
+இலங்கை மின்சார சபையினால் அறிக்கை சமர்ப்பிக்கப்பட்டதன் பின்னர், அதனுடன் தொடர்புடைய நடவடிக்கைகளுக்காக 4 அல்லது 5 வாரங்கள் செலவிடப்படும் என பொதுப் பயன்பாட்டு ஆணைக்குழு தெரிவித்துள்ளது.
+
+முன்னதாக, மின்சாரக் கட்டணத்தைக் குறைப்பது தொடர்பான புதிய முன்மொழிவுகளை இந்த வாரம் பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பிக்க முடியும் என இலங்கை மின்சார சபை தெரிவித்திருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/643c24f4.json)
+
+---
+
+### A/L மாணவர்களுக்கு விசேட அறிவித்தல்
+
+*2024-11-22 15:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்கு-விசேட-அறிவித்தல்/175-347616) · `ta`
+
+2024 ஆம் ஆண்டு உயர்தரப் பரீட்சை காலத்தில் ஏற்படக்கூடிய அனர்த்தங்களைத் தவிர்ப்பதற்காகவும், பரீட்சையை இடையூறு இன்றி நடத்துவதற்காகவும் அனர்த்த முகாமைத்துவ மத்திய நிலையம் மற்றும் பரீட்சை திணைக்களமும் இணைந்து விஷேட வேலைத்திட்டம் ஒன்றை நடைமுறைப்படுத்தியுள்ளன.
+
+வங்கக் கடலில் வரும் வாரத்தில் குறைந்த காற்றழுத்த தாழ்வு நிலை உருவாகலாம் என வளிமண்டலவியல் திணைக்களம் கணித்துள்ளது.
+
+எனவே பரீட்சை காலத்தில் ஏற்படக்கூடிய அனர்த்த சூழ்நிலைகளை தவிர்த்து மாணவர்கள் பரீட்சையை வெற்றிகரமாக எதிர்கொள்ளும் வகையில் நல்ல சூழலை உருவாக்குவதற்காக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+மாணவர்கள் பரீட்சைக்குத் தோற்றுவதைத் தடுக்கும் வகையில் ஏதேனும் அனர்த்தம் ஏற்பட்டால், சம்பந்தப்பட்ட நிலையத்தை அடைவதற்கான உதவிகளைப் பெறுவதற்கு சில தொலைபேசி இலக்கங்களும் அறிமுகப்படுத்தப்பட்டுள்ளன.
+
+இதன்படி, அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் அவசர இலக்கமான 117 அல்லது விசேட ஒருங்கிணைந்த அவசர செயற்பாட்டு அறை இலக்கங்களான 0113 668 020 / 0113 668 100 அல்லது 0113 668 013 / 0113 668 010 மற்றும்076 3 117 117 ஆகிய இலக்கங்களுக்கு அழைக்க முடியும்.
+
+...
+
+[Data](articles/d8bb1219.json)
+
+---
+
+### Prof. Udugamasooriya appointed President’s Senior Advisor on Science and Technology
+
+*2024-11-22 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103690/prof-udugamasooriya-appointed-presidents-senior-advisor-on-science-and-technology) · `en`
+
+Professor Gomika Udugamasooriya has been appointed as the Senior Advisor to the President on Science and Technology, the President’s Media Division (PMD) said.
+
+Prof. Udugamasooriya, who is affiliated with the University of Houston and the MD Anderson Cancer Research Center in the United States, received his appointment letter today (22) at the Presidential Secretariat from the Secretary to the President Dr. Nandaka Sanath Kumanayake.
+
+An alumnus of D.S. Senanayake College in Colombo, Prof. Udugamasooriya holds a specialized degree in Chemistry from the University of Colombo. He earned his Ph.D. from Wayne State University in Michigan, USA, and completed postdoctoral research at the University of Texas Southwestern Medical Center.
+
+A holder of numerous patents, Professor Udugamasooriya’s decision to transition from his role in U.S. public service to take up the honorary position of Senior Advisor on Science and Technology is a notable development, the PMD statement said.
+
+...
+
+[Data](articles/f61a56be.json)
+
+---
 
 ### Sri Lanka is elected to the United Nations Commission on international trade law
 
@@ -339,6 +393,32 @@ Airbus A320 will be operated from Singapore to Singapore every morning or evenin
 [Data](articles/5f425912.json)
 
 [Extended Data](ext_articles/5f425912.ext.json)
+
+---
+
+### A canura businessman says the rice problem says
+
+*2024-11-22 12:09:11* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ගැටලුවට-අපුර-ව්‍යාපාරිකයෙක්-විසඳුමක්-කියයි/11-413211) · `si`
+
+Sri Lankan businessman proposes rice production at Dambulla Economic Center to address national shortage.
+
+🟩
+
+Currently, the rice and fruiting is a short-term solution to the rice crisis in Sri Lanka as a short-term and fruiting solution to the Dambulla Economic Center, a businessman in the Dambulla Economic Center, Anuradhapura.M.S.Bandara said to the government.
+
+The proposal of the proposals have been resigned to the Minister of Agriculture to the current government as a reasonable businessman who produces their own rice, rather than selling the paddy farmers in the past ten years.He said this proposal was decided to submit this proposal.
+
+He pointed out that the Dambulla Economic Center is not only vegetable fruits in all parts of the country and the potatoes produced in foreign countries
+
+He pointed out that there are about eight and a half acres of land in front of the Dambulla Economic Center.
+
+He proposed that the government plans to the Department of Agriculture to the Department of Agriculture to the Department of Agriculture in every area of ​​the country will not be paid for this purpose.
+
+...
+
+[Data](articles/1de91041.json)
+
+[Extended Data](ext_articles/1de91041.ext.json)
 
 ---
 
@@ -2243,113 +2323,5 @@ However, a group of AM was able to cross the 9.3-ball target of the Bangla Taige
 [Data](articles/0c90ed52.json)
 
 [Extended Data](ext_articles/0c90ed52.ext.json)
-
----
-
-### UNP denies Ravi's stories
-
-*2024-11-21 21:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-கதைகளை-மறுக்கிறது-ஐ-தே-க/175-347584) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-UNP denies claims of election agreement with NDF for national list seat. Meeting on Nov 16 decided candidates, but Karunanayake wasn't recommended. Missing pages in agreement cause controversy. NDF has no right to present national list candidates.
-
-🟩
-
-The United National Party (UNP) today denied its claims that the new Democratic Front (NDF) gas candidate, which was used to contest the general election this time, had an election agreement to give the national list.
-
-United National Party (UNP) Chairman Wajira Abeywardena issued a statement saying that a meeting was held on November 16 under the leadership of former President Ranil Wickremesinghe, headed by former President Ranil Wickremesinghe to decide the candidates for the winning national list seats.
-
-At the meeting, it was decided to convene again on November 19 and decided to take a final decision.
-
-A copy of the election agreement with the new Democratic Front was to be submitted.
-
-On November 18, when NDF Secretary Shyamala Perera met Mr Wickremesinghe, Mr. Karunanayake emphasized the need to recommend the post.. Still, Mr.. Wickremesinghe refused to recommend him.
-
-...
-
-[Data](articles/455faa82.json)
-
-[Extended Data](ext_articles/455faa82.ext.json)
-
----
-
-### We hope that the Speaker will act without prejudice - Opposition Leader Sajith
-
-*2024-11-21 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199334) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Opposition Leader Sajith hopes Speaker acts impartially & transparently. Congratulates Speaker on protecting parliamentary rights & passing legal orders.
-
-🟩
-
-"We hope that the Speaker will act without prejudice and transparency."
-
-We congratulate you to the Speaker of the Speaker.It is your responsibility to protect the democratic rights of all parliamentarians and 225 members to perform their role in their services for the public service.
-
-Similarly, we congratulate the new Speaker's responsibility and responsibility to be able to pass the legally strategic orders in accordance with the legislative orders.
-
-◼️
-
-[Data](articles/af34b3b7.json)
-
-[Extended Data](ext_articles/af34b3b7.ext.json)
-
----
-
-### 'Jolly O O Gymkana' starring Prabhu Deva's body
-
-*2024-11-21 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199349) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Jolly O O Gymkhana": Prabhu Deva stars as a corpse in this comedy film directed by Shakti Chidambaram. The movie features Madonna Sebastian, Abirami, Yogi Babu, and others. It's set to release on the 22nd, produced by Trans India Media Entertainment.
-
-🟩
-
-The film crew has said that he has played a brilliant body in the film 'Jolly O Gymkhana' starring Prabhu Deva, director and leading star actor.
-
-Prabhu Deva, Madonna Sebastian, Abirami, Yogi Babu, Robot Shankar, directed by director Shakti Chidambaram and will be released from the 22nd of this month.. Ashwin Vinayagamoorthy has composed the film, which has been recorded by Ganesh Chandra.. The film was produced by Producer Rajendran Raja and Neela on behalf of Trans India Media Entertainment Private Limited.
-
-The press conference was held in Chennai to promote the film. The film crew participated.
-
-Director Shakti Chidambaram said, “The present caste films of Tamil cinema and the most violent films are released.. At this moment I described Prabhu Deva's full -length comedy story that focuses on the lifeless corpse. Upon hearing the story, he agreed to act as a corpse.
-
-...
-
-[Data](articles/2d7b0338.json)
-
-[Extended Data](ext_articles/2d7b0338.ext.json)
-
----
-
-### Actor Joju George's movie 'Weli' will be welcomed in Tamil ..!?
-
-*2024-11-21 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199352) · `ta`
-
-Joju George's Malayalam film "Mudam" releases in Tamil on 22nd. Directorial debut praised by critics. Kamal Haasan promotes film in Chennai. Tamil fans await movie's reception.
-
-🟩
-
-The film 'Mudam' directed by Joju George, the leading star actor in the Malayalam film industry, which made his debut for Tamil fans through the film 'Jagame Tandram', will be released in Tamil from the 22nd of this month.
-
-Actor Joju George's directorial debut with Joju George, Abaya Hiranmaya, Jagar Surya, Ranjith Velayudham, Junice, Abhinaya, Seema, Santini Sridharan.. Vishnu Vijay and Sam c. S.. Actor Joju George has produced the film 'Thriller Janer' on behalf of Papu Pappu.
-
-The film, released in Malayalam last month, was a huge success with fans. Following this, the film is currently being released in Tamil. Sri Gokulam Movies Company in Tamil. The event to promote the film was held in Chennai. The film crew participated in the event.
-
-Meanwhile, Kamal Haasan is starring in Thax Life. It is noteworthy that Kamal Haasan praised the film crew, who was acting in the film 'Payana'.
-
-...
-
-[Data](articles/449da429.json)
-
-[Extended Data](ext_articles/449da429.ext.json)
 
 ---

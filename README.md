@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 16:59:15**
+As of **2024-11-22 16:41:29**
 
 ## Newspaper Stats
 
-*Scraped **56,342** Articles*
+*Scraped **56,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,367
 economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
-adalk | 5,301
+adalk | 5,300
 adaderanalk | 6,808
 tamilmirrorlk | 8,010
 virakesarilk | 9,160
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,338 (100.0%) of 56,342 articles have been extended.
+56,338 (100.0%) of 56,341 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -339,24 +339,6 @@ Subsequently, when the complainant stopped the bus in Aluthgama, a group of peop
 [Data](articles/4cce8fe6.json)
 
 [Extended Data](ext_articles/4cce8fe6.ext.json)
-
----
-
-### බදුල්ලේ තවත් නාය යාමක්
-
-*2024-11-22 15:06:53* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-තවත්-නාය-යාමක්/11-413212) · `si`
-
-බදුල්ල තෙල්බැද්ද වත්ත පහල කොටසේ  වතු නිවාස පෙලක් නාය යාමේ අවධානමක් හේතුවෙන් එම නිවාස වල පදිංචි පවුල් 2ක සාමාජිකයන් හත්දෙනෙකුට අද  (22) නිවාස වලින් ඉවත් වන ලෙසට උපදෙස් දුන් බව බදුල්ල දිස්ත්‍රික් ලේකම් පණ්ඩුක ශ්‍රී ප්‍රභාත් අබේවර්ධන මහතා පවසයි .
-
-පවතින අධික වර්ෂාවත් සමඟ බදුල්ල තෙල්බැද්ද වත්ත පහල කොටසේ වතු නිවාස මෙසේ නාය යාමට ලක් වී ඇති අතර එම නිවාස වල බිත්ති ගෙමිදුල ඉරිතලා පුපුරා ගොස්  තාප්පයක් ද කඩාගෙන ගොස් විනාශ වී ඇතැයි හෙතෙම කීය .
-
-නිවාස වලින් ඉවත් වීමට උපදෙස්  දුන් පවුල් සදහා බදුල්ල තෙල්බැද්ද වත්ත පහල කොටසේ තෙල්බැද්ද වත්ත ට අයත්  වතු නිළනිවසක දැනට තාවකාලිකව නතර වීමට පහසුකම් සලසා දුන් බවද බදුල්ල දිස්ත්‍රික් ලේකම් පණ්ඩුක ශ්‍රී ප්‍රභාත් අබේවර්ධන මහතා සදහන් කළේය .
-
-කෙසේ වෙතත් දැනට බදුල්ල ප්‍රදේශයේ පවතින අධික වර්ෂාවත් සමඟ ඒ අවට ප්‍රදේශයේ වතු නිවාස වල ජනතාවට ද දැඩි විමසිල්ලෙන් අවධානයෙන් කල්පනාකාරීව ආරක්ෂිතව සිටින්නැයි ආපදා කළමනාකරණ මධ්‍යස්ථානය දැනුම් දී සිටි .
-
-...
-
-[Data](articles/511ee2ea.json)
 
 ---
 
@@ -2381,5 +2363,21 @@ Some of the issues put forward on the election platforms show the contradiction 
 [Data](articles/a119284b.json)
 
 [Extended Data](ext_articles/a119284b.ext.json)
+
+---
+
+### Sri Lanka’s SMEs: Debt-trapped dilemma
+
+*2024-11-22 01:22:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-SMEs-Debt-trapped-dilemma/4-769525) · `en`
+
+A substantial portion of Sri Lankan SMEs, approximately 70%, are currently insolvent or teetering on the brink of bankruptcy
+
+A cornerstone of successful debt recovery lies in preserving the business’s operational viability rather than resorting to liquidation. Many debt restructuring solutions fall short by neglecting the critical aspect of cash flow matching, which is fundamental to servicing debt obligations. By strategically realigning assets based on their utilisation, it is possible to strike a balance between debt recovery and cash generation, fostering a more sustainable recovery process
+
+...
+
+[Data](articles/8fe0311f.json)
+
+[Extended Data](ext_articles/8fe0311f.ext.json)
 
 ---

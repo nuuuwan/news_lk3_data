@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 10:41:45**
+As of **2024-11-22 10:26:43**
 
 ## Newspaper Stats
 
-*Scraped **56,285** Articles*
+*Scraped **56,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ colombotelegraphcom | 575
 bbccomsinhala | 585
 islandlk | 3,367
 economynextcom | 3,413
-dailyftlk | 3,860
+dailyftlk | 3,859
 dailymirrorlk | 4,733
 adalk | 5,298
-adaderanalk | 6,800
+adaderanalk | 6,799
 tamilmirrorlk | 7,998
 virakesarilk | 9,149
 adaderanasinhalalk | 9,709
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,283 (100.0%) of 56,285 articles have been extended.
+56,283 (100.0%) of 56,283 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,22 +79,6 @@ War complaints against Israel have been filed in the Criminal Court. It is in th
 [Data](articles/6614d846.json)
 
 [Extended Data](ext_articles/6614d846.ext.json)
-
----
-
-### Strike at University of Ruhuna continues for fourth day
-
-*2024-11-22 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103683/strike-at-university-of-ruhuna-continues-for-fourth-day) · `en`
-
-The strike action launched by all academic and non-academic staff trade unions, along with student unions affiliated with the University of Ruhuna, demanding the immediate removal of the Vice Chancellor, entered its fourth consecutive day today (Nov. 22).
-
-All academic and non-academic trade unions affiliated with the University of Ruhuna had announced a continuous strike commencing from November 19, demanding the immediate removal of the university’s Vice Chancellor.
-
-However, the University Trade Union Joint Committee (UTUJC), the Federation of University Teachers’ Trade Union Alliance, and the students’ representatives of that university held a discussion with Prime Minister Harini Amarasuriya recently regarding the issue.
-
-...
-
-[Data](articles/f8d62ed0.json)
 
 ---
 
@@ -1061,22 +1045,6 @@ Instead, the figures highlight a range of factors, including the fall of other s
 [Data](articles/1a242b79.json)
 
 [Extended Data](ext_articles/1a242b79.ext.json)
-
----
-
-### End of Tamil nationalism? Not according to the numbers
-
-*2024-11-22 00:55:12* · [`dailyftlk`](https://www.ft.lk/columns/End-of-Tamil-nationalism-Not-according-to-the-numbers/4-769523) · `en`
-
-An analysis of Sri Lankan election data highlights a collapse of many Government affiliated parties and reveals why Tamil nationalism might be growing – not shrinking
-
-The 2024 Sri Lankan Parliamentary election concluded last week, in which the ruling National People’s Power (NPP) gained a record majority and made headway into the Tamil homeland. There were notable casualties for senior Tamil nationalist politicians and for the first time ever a southern political party managed to gain a majority in all but one district in the north-east. Commentators have since speculated whether the result spells the beginning of the end for Tamil nationalist politics.
-
-Instead, the figures highlight a range of factors, including the fall of other southern Opposition political parties, leftist coalitions and paramilitary groups that allowed the NPP to siphon votes and grow their base amongst those who had already previously voted for pro-state forces.
-
-...
-
-[Data](articles/48cb569f.json)
 
 ---
 
@@ -2391,5 +2359,71 @@ The offense has been admitted to the three traders after legal action against th
 [Data](articles/6f70cfb9.json)
 
 [Extended Data](ext_articles/6f70cfb9.ext.json)
+
+---
+
+### 29 delegates sworn in
+
+*2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
+
+29 officials sworn in as Deputy Ministers. Key appointments: Agriculture, Rural Development, Trade, Buddha Sasana, Foreign Affairs, Industry, Ports, Women & Child Affairs, Provincial Councils, Transport, Health, Plantations, Public Defense, Education, Lands & Irrigation. Presidential Secretary also sworn in.
+
+🟩
+
+Deputy Ministers Deputy Ministers President Anura Kumara Dissanayake today (21)
+
+Namal Karunaratne - Deputy Minister of Agriculture and Livestock
+
+Wasantha Piyatissa - Deputy Minister of Rural Development, Social Security and Community Improvement
+
+R. M. Deputy Minister of Trade, Commerce, Food Safety and Co-operative Development
+
+Dissanayake, Gamagedara Dissanayake Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
+
+Aravarandra - Deputy Minister of Foreign Affairs
+
+Chaturanga Abeysinghe - Deputy Minister of Industry and Entrepreneurship Development
+
+Engineering Janith Kodituwakku - Deputy Minister of Ports and Civil Aviation
+
+Dr. Namal Sudarshana - Deputy Minister of Women and Child Affairs
+
+Ruwan Senarath - Deputy Minister of Provincial Councils and Local Government
+
+Dr. Prasanna Kumara Gunasena - Deputy Minister of Transport and Highways
+
+Dr. Hanshana Wijemun - Deputy Minister of Health and Mass Media
+
+Sandaaringam Pradeep - Deputy Minister of Plantation and Community Infrastructure
+
+...
+
+[Data](articles/073ff21c.json)
+
+[Extended Data](ext_articles/073ff21c.ext.json)
+
+---
+
+### The person who ate the dawn to death
+
+*2024-11-21 16:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடை-சாப்பிட்ட-நபர்-மரணம்/175-347575) · `ta`
+
+A man in Athurugiriya died after eating something harmful. He had a severe cough and was hospitalized. The cause of death is under investigation.
+
+🟩
+
+The incident took place in the Athurugiriya area where a person who was admitted to the hospital due to coughing caused by a dummy was eaten.
+
+The person who had been eating with his family had eaten a vandalist and had a sudden coughing allergy.
+
+Doctors said he died after being taken to the hospital for treatment.
+
+The body of the deceased has been kept at the Homagama Hospital for autopsy and further investigations are underway, police said.
+
+◼️
+
+[Data](articles/646a0f76.json)
+
+[Extended Data](ext_articles/646a0f76.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 09:05:15**
+As of **2024-11-22 09:42:06**
 
 ## Newspaper Stats
 
-*Scraped **56,271** Articles*
+*Scraped **56,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,367
 economynextcom | 3,413
 dailyftlk | 3,859
 dailymirrorlk | 4,733
-adalk | 5,297
-adaderanalk | 6,795
-tamilmirrorlk | 7,991
+adalk | 5,298
+adaderanalk | 6,799
+tamilmirrorlk | 7,996
 virakesarilk | 9,149
 adaderanasinhalalk | 9,709
 
@@ -26,11 +26,181 @@ adaderanasinhalalk | 9,709
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,270 (100.0%) of 56,271 articles have been extended.
+56,274 (100.0%) of 56,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### ’ரவியின் பெயர் அனுப்பப்பட்டது ரணிலுக்கு தெரியாது’
+
+*2024-11-22 09:32:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-பெயர்-அனுப்பப்பட்டது-ரணிலுக்கு-தெரியாது/175-347609) · `ta`
+
+“புதிய ஜனநாயக முன்னணியின் தேசியப் பட்டியல் உறுப்பினர் பதவிக்காக ரவி கருணாநாயக்கவின் பெயர் தேர்தல்கள் ஆணைக்குழுவுக்கு அனுப்பப்பட்டதாக முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் அறிவிக்கப்பட்டதன் பின்னரே தெரிவித்ததாக கூறப்படுவது பொய்யான செய்தி” என, ஐக்கிய தேசியக் கட்சியின் தலைவர் வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+
+தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினர் பதவிக்கு ரவி கருணாநாயக்கவின் பெயரை தேர்தல்கள் ஆணைக்குழுவுக்கு அனுப்புவது தொடர்பில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எவ்வித முன்னறிவிப்பும் வழங்கப்படவில்லை என வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+
+புதிய ஜனநாயக முன்னணியால் முன்னிறுத்தப்படும் வேட்பாளருக்கு தேசிய பட்டியல் ஆசனம் ஒன்றை வழங்குவதற்கு இணக்கம் காணப்பட்டதாக கூறப்படும் கருத்தும் அடிப்படையற்றது என, அவர் சுட்டிக்காட்டியுள்ளார்.
+
+...
+
+[Data](articles/9c9275ab.json)
+
+---
+
+### ஐஸ் போதைப் பொருளுடன் இருவர் கைது
+
+*2024-11-22 09:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஐஸ்-போதைப்-பொருளுடன்-இருவர்-கைது/73-347608) · `ta`
+
+ஐஸ் போதைப் பொருட்களை நீண்ட காலமாக  சிறுபொதி செய்து வியாபாரம் செய்து வந்த இரண்டு சந்தேகநபர்களை  கல்முனை விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+
+வியாழக்கிழமை (21 ) இரவு  கல்முனை விசேட அதிரடிப்படையினருக்கு  கிடைக்கப்பெற்ற இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட  சோதனை நடவடிக்கையின் போது சந்தேகத்திற்கிடமாக நடமாடிய இருவர்  ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்டனர்.
+
+இதன் போது கல்முனைக்குடி 9ஆம் பிரிவு மதிரிஸா வீதியில்  வசிக்கும் 26 வயதுடைய நபர் 970 மில்லி கிராம் ஐஸ் போதைப் பொருளுடனும் கல்முனைக்குடி 2 ஆம் பிரிவு  கிறீன் பீல்ட் பகுதியைச் சேர்ந்த 20 வயதுடைய சந்தேக நபர்  870 மில்லி கிராம்   போதைப் பொருளுடனும் கைதாகினர்.
+
+கைதான 2  சந்தேகநபர்களையும்   கல்முனை பொலிஸ் நிலையத்தில் ஒப்படைத்த கல்முனை விசேட அதிரடிப்படையினர் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+மேலும்  இந்த கைது நடவடிக்கையானது கல்முனை விசேட அதிரடிப்படை முகாம் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஆர்.ஏ.டி.சி.எஸ்.ரத்நாயக்கவின் பணிப்புரைக்கமைய  முன்னெடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/68befd87.json)
+
+---
+
+### எம்.பி.க்களுக்கு இனி சொகுசு வாகனங்கள் இல்லை
+
+*2024-11-22 09:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-க்களுக்கு-இனி-சொகுசு-வாகனங்கள்-இல்லை/175-347607) · `ta`
+
+அனைத்து பாராளுமன்ற உறுப்பினர்களுக்கும் எரிபொருள் சிக்கன வாகனக்கள் வழங்கப்படும் என, பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சு தெரிவித்துள்ளது.
+
+பதவிக்காலம் முடியும் வரை அந்த வாகனத்தை பயன்படுத்தி மக்கள் சேவையை, உறுப்பினர்கள் மேற்கொள்ள முடியும் என, அமைச்சர் ஆனந்த விஜேபால குறிப்பிட்டுள்ளார்.
+
+மக்களின் வரிப்பணம் விரயமாவதை குறைக்கும் வகையில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும், அமைச்சர் தெரிவித்தார்.AN
+
+◼️
+
+[Data](articles/a07b8c31.json)
+
+---
+
+### Resolution to review educational reform programs
+
+*2024-11-22 09:16:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-சீர்திருத்த-திட்டங்களை-மதிப்பாய்வு-செய்ய-தீர்மானம்/175-347606) · `ta`
+
+Education Ministry reviews past reforms, seeks new proposals from NIE and other groups. New plan aligns with current government policies.
+
+🟩
+
+The Ministry of Education, Higher Education and Vocational Education has decided to review programs on educational reforms implemented in the last five years.
+
+Secretary of the Ministry Nalaka Kaluwewa said that various proposals on educational reforms have been put forward by several groups and institutions such as the National Institute of Education (NIE).
+
+After reviewing these proposals and programs, the new education reform proposal will be presented in accordance with the current government's policy, the secretary said.
+
+◼️
+
+[Data](articles/9415c358.json)
+
+[Extended Data](ext_articles/9415c358.ext.json)
+
+---
+
+### Train delays on coastal line due to break down
+
+*2024-11-22 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103682/train-delays-on-coastal-line-due-to-break-down-) · `en`
+
+Train services on the coastal line are expected to experience delays this morning (22) due to a train traveling from Galle to Mount Lavinia breaking down near the Boossa railway station.
+
+The Railway Department has advised that morning train operations may also be affected as a result of the incident.
+
+◼️
+
+[Data](articles/11c8d859.json)
+
+---
+
+### Naked photos by AI;Alert to students
+
+*2024-11-22 09:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-மூலம்-நிர்வாண-புகைப்படங்கள்-மாணவிகளுக்கு-எச்சரிக்கை/175-347605) · `ta`
+
+AI-generated naked photos scam targeting Sri Lankan students: authorities warn of increasing incidents and advise caution.
+
+🟩
+
+Increasing incidents of scams have been used by AI technology to designed photos of schoolchildren in Sri Lanka as naked photos.
+
+Senior Information Safety Engineer of the Computer Emergency Division, Saruka Tamunubola, said that the students are cautious.
+
+Over the past few days, this fraudulent gang has been using photos of schoolchildren on social media using AI technology and threatening them with the need to share them with the appropriate students and post them on social media.
+
+Thus the affected students are afraid of the fraudulent gang and send their naked photos and follow the advice of the fraudulent gang. Therefore, these incidents have increased over the past few days and the high -quality students have been affected.Therefore, the students should be cautious to the gang of scams, he said.R
+
+◼️
+
+[Data](articles/0d09d89c.json)
+
+[Extended Data](ext_articles/0d09d89c.ext.json)
+
+---
+
+### SJB to finalize remaining National List MP nominees today
+
+*2024-11-22 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103681/sjb-to-finalize-remaining-national-list-mp-nominees-today) · `en`
+
+The Samagi Jana Balawegaya (SJB) is set to finalize its nominees for the remaining National List Member of Parliament (MP) positions today (22), according to a senior party spokesperson.
+
+The SJB, having secured five national list MP seats, has already appointed its General Secretary, Ranjith Madduma Bandara, as an MP through the National List.
+
+The party is expected to forward the names of the nominees for the remaining four seats to the Election Commission later today.
+
+Meanwhile, the Sri Lanka Muslim Congress (SLMC) yesterday announced M.S. Naleem, the former Chairman of the Eravur Urban Council, as its National List MP.
+
+◼️
+
+[Data](articles/5a8592ce.json)
+
+---
+
+### Special notice issued for A/L examination candidates
+
+*2024-11-22 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103680/special-notice-issued-for-al-examination-candidates) · `en`
+
+The Disaster Management Center (DMC) and the Department of Examinations have collaboratively implemented a comprehensive programme to avoid potential disaster situations and ensure the uninterrupted conducting of the 2024 G.C.E. Advanced Level (A/L) examination.
+
+This initiative has been launched in light of predictions by the Department of Meteorology regarding the possibility of a low-pressure system developing over the Bay of Bengal in the coming week.
+
+The programme aims to create an optimal environment for students to face the examination without disruptions caused by adverse weather or other disasters.
+
+Under the patronage of the Director General of the DMC, Major General (Retired) Udaya Herath, an awareness programme was recently conducted at the DMC premises. This session included participation from officials of the Department of Examinations and other relevant institutions, extending from the national to the district level.
+
+...
+
+[Data](articles/08cb41cd.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-11-22 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103679/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says a low pressure area is likely to form over southeast Bay of Bengal around November 23.
+
+Thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent 2 days. The system may intensify further and move near the Eastern coast of Sri Lanka.
+
+The General public is requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regards, it added.
+
+Showers or thundershowers will occur at times in the Northern, North-central and Eastern provinces and in Matale district.  Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, says the Met. Department.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provincesand in Matale district.
+
+...
+
+[Data](articles/37eda504.json)
+
+---
 
 ### The first holiday for schools today
 
@@ -943,6 +1113,8 @@ There are people who believe in other parties without trusting us. That is democ
 ...
 
 [Data](articles/81bf3fe3.json)
+
+[Extended Data](ext_articles/81bf3fe3.ext.json)
 
 ---
 
@@ -1930,6 +2102,32 @@ A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov21/
 
 ---
 
+### Inflation is no longer negative
+
+*2024-11-21 16:53:05* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-සෘණ-වෙයි/11-413206) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Inflation turns positive: -0.7% in Sept '24; Food inflation rises from 0.5% to 1.3%; Non-food deflation decreases from -2.3% to 0%."
+
+🟩
+
+In September 2024, the country's inflation has been reduced to -0.7% for October month.
+
+The feeding of food recorded as 0.5% in September, the point inflation increased to 1.3% in October.
+
+In September, the non-food non-food nor of food in September has reduced to -2.3% in October.
+
+◼️
+
+[Data](articles/0c271b71.json)
+
+[Extended Data](ext_articles/0c271b71.ext.json)
+
+---
+
 ### Appointment of 29 Deputy Ministers
 
 *2024-11-21 16:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-பிரதியமைச்சர்கள்-நியமனம்/175-347577) · `ta`
@@ -2193,271 +2391,5 @@ The Secretary to the President Dr. Nandika Sanath Kumanayake was also present at
 [Data](articles/cf51f1e7.json)
 
 [Extended Data](ext_articles/cf51f1e7.ext.json)
-
----
-
-### Erection
-
-*2024-11-21 16:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருப்பையில்-இருந்து-பாரிய-கட்டி-நீக்கம்/175-347574) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Massive 10kg womb removal surgery performed on 40-year-old woman in Kadirgama. Gynecologist reports patient healthy post-op. Uterine cysts dangerous if ignored.
-
-🟩
-
-A surgery that weighs 10 kg from a woman's womb has been reported from Kadirgamam area.
-
-A 40 -year -old woman living in Kadirgama has decided to seek medical advice due to difficulty in breathing and breathing.
-
-Dr. Samantha Samarawickrama, a gynecologist, said that the woman is in good health following the surgery.
-
-The abnormal growth of cells in the uterus leads to the formation of cysts, and ignoring symptoms such as abdominal discomfort is dangerous to the patient's life.
-
-◼️
-
-[Data](articles/76218f62.json)
-
-[Extended Data](ext_articles/76218f62.ext.json)
-
----
-
-### 29 Deputy Ministers sworn in
-
-*2024-11-21 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203601) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-29 Deputy Ministers took oath under President Anura Kumara Dissanayake on 21st day.
-
-🟩
-
-29 Deputy Ministers of the New Government sworn in as President Anura Kumara Dissanayake today (21).
-
-◼️
-
-[Data](articles/6f0c1e1d.json)
-
-[Extended Data](ext_articles/6f0c1e1d.ext.json)
-
----
-
-### School holiday begins tomorrow
-
-*2024-11-21 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203600) · `si`
-
-School holidays start tomorrow for Sinhala/Tamil and Muslim schools. Third term ends on 22nd. Muslim schools finish on 13th. All schools resume on Jan 2, 2025.
-
-🟩
-
-The first stage of the third term of 2024 was 2024. 11. The Ministry of Education has issued an announcement that the end of the 22nd is announced.
-
-It is for Sinhala and Tamil schools in government schools and government approved private schools.
-
-The first phase of the third term of the third term of the Muslim schools concludes 2024. On Friday, 12.13 and the school holiday begins next day.
-
-The second phase of the third term in all schools will be resumed on Thursday, January 2, 2025 (025.01.2012).
-
-◼️
-
-[Data](articles/114a3373.json)
-
-[Extended Data](ext_articles/114a3373.ext.json)
-
----
-
-### 9 girls infected with food allergies
-
-*2024-11-21 16:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உணவு-ஒவ்வாமையால்-9-சிறுமிகள்-பாதிப்பு/76-347572) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-9 girls from a women's detention center in Sri Lanka hospitalized for food allergies after eating tapioca with rice. Ages 15-17. Police investigating.
-
-🟩
-
-Nine girls from the women's detention center in Haragama, which belongs to the Talathuoya police division, have been admitted to the Kandy National Hospital due to food allergies.
-
-The girls have been admitted to the hospital on Wednesday (20) and Thursdays (21) due to allergies caused by eating tapioca with rice.
-
-Talathu Oya police said they were 15-17 years old and are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/a9af99e2.json)
-
-[Extended Data](ext_articles/a9af99e2.ext.json)
-
----
-
-### 2024 The first phase of the third term is over tomorrow
-
-*2024-11-21 16:01:32* · [`adalk`](https://www.ada.lk/breaking_news/2024-තෙවන-පාසල්-වාරයේ-පළමු-අදියර-හෙටින්-අවසන්/11-413203) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-School term updates for 2024:
-
-- Government schools: Phase 3 ends Fri 22nd, holiday starts Sat
-
-- Muslim schools: Phase 3 concludes Fri 12th, holiday begins Sat
-
-- All schools: Phase 2 resumes Thu Jan 2, 2025
-
-🟩
-
-Third schools at government schools and government approved private schools in government schools and government approved private schools. 11. Ends on Friday 22nd and the school holiday begins after tomorrow.
-
-The first phase of the third term of the third term of the Muslim schools concludes 2024. On Friday, 12.13 and the school holiday begins after the day.
-
-The school will restart the second phase of the third term in all schools on Thursday, January 2, 2025 (09.
-
-◼️
-
-[Data](articles/03ed9332.json)
-
-[Extended Data](ext_articles/03ed9332.ext.json)
-
----
-
-### The Sinhala Buddhist nation is the direction of the unity of the Tamil nation - not the compass for the Tamil nation - the blessings
-
-*2024-11-21 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199331) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sinhala Buddhist nation leads Tamil unity, not compass. Activists warn against Mullivaikal-like outcome. Tamil nationalism faces challenges in Sri Lanka's political landscape.
-
-🟩
-
-The compass, which is currently in success, is the direction of the single rule of the Sinhala Buddhist nation and not the direction of the Tamil nation.. "We are not going to be the solution in time," said Aruttandanda Ma Sathivel, an activist for social justice and a national organization to release political prisoners.
-
-He was speaking in a media statement issued today (21), an activist for social justice and the National Organization of the National Organization for the release of political prisoners.
-
-Mullivaikkal has given the election results to those who have taken the political and minded political life of the Tamil Nadu Tamil Nadu, its nationality, self -determination and Samasti solution, after 2009.
-
-...
-
-[Data](articles/219639dc.json)
-
-[Extended Data](ext_articles/219639dc.ext.json)
-
----
-
-### The victory of the national people's power is an earthquake in Sri Lankan politics - Erichcolheim
-
-*2024-11-21 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199326) · `ta`
-
-Sri Lanka's National People's Power victory described as "earthquake" in politics by former Norwegian diplomat Erichcolheim. The election marks a significant shift, with voters rejecting corruption and traditional elites. Tamil support for the party signals potential for improved ethnic relations.
-
-🟩
-
-Former Norwegian Peace Ambassador to Sri Lanka, Erichcolheim, has described the shocking electoral success of the National People's Power led by Anuragumaratisanayake as an earthquake in Sri Lanka's politics.
-
-The former diplomat said that the national people's power in the areas where Tamils ​​live in the country- (especially in the North), Sri Lanka is a strong call for a new beginning of ethnic relations in Sri Lanka.
-
-Erichcolheim, who has worked closely with Sri Lankan political leaders, said that the inner self of the nationality power is certainly corrupt and that the eradication of corruption is the biggest task.
-
-Ericksolheim, who is currently working as a green activist, has made a peaceful effort in support of the West, which is due to a historic agreement between the Sri Lankan government and the Liberation Tigers of Tamil Eelam (LTTE) in early 2002.
-
-...
-
-[Data](articles/30738d31.json)
-
-[Extended Data](ext_articles/30738d31.ext.json)
-
----
-
-### I will protect the rights of all members: I will honest the duties - Speaker
-
-*2024-11-21 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199330) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Ashoka Ranwala vows to protect parliament's rights & independence, fulfill duties responsibly. He thanks members for election & promises cooperation in legislative activities.
-
-🟩
-
-Speaker Ashoka Ranwala assured the House that he would protect the rights and independence of the country's superior parliament and defend the rights of all members and fulfill the duties of the most responsible Speaker.
-
-Speaking to the House, he thanked the House for the election of the Speaker during the first virgin session held in Parliament on Thursday (21).
-
-I would like to express my sincere gratitude and honor for the appointment of me as Speaker of Parliament. I also thank you for accepting the message of the political party leaders who congratulated me.
-
-I thank you for the confidence of the ruling and opponents of Parliament.
-
-I promise to protect the dignity and independence of the country's superior parliament and protect the rights of all members and take the responsibility of the most responsible Speaker.
-
-...
-
-[Data](articles/bd99c81a.json)
-
-[Extended Data](ext_articles/bd99c81a.ext.json)
-
----
-
-### The National List issue does not regard the issue - Opposition Leader Sajith
-
-*2024-11-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199323) · `ta`
-
-Sajith Premadasa: National List issue not a problem. Decisions made democratically. Prioritize public needs over opportunistic politics.
-
-🟩
-
-We do not consider the National List issue as a problem. The decisions will be taken with the understanding. Opposition leader Sajith Premadasa said that I am not saying that the national list seat cannot be given to the failed.
-
-He further stated that he was speaking to the media after a special meeting with party members at the United People's Power Headquarters on Wednesday.
-
-We will realize the reality and take the next step. A similar party will take steps to correct the fall of the party and to correct them. We will start a new journey soon.
-
-We have taken a lesson of failure and setbacks as a lesson. We do not consider the National List issue as a problem. The decisions will be taken with the understanding. In the last general election, it took 11 months to elect a member of the United National Party (UNP).
-
-...
-
-[Data](articles/01f0c96e.json)
-
-[Extended Data](ext_articles/01f0c96e.ext.json)
-
----
-
-### I will cooperate fully with investigations into drug fraud - former Health Minister Ramesa Pathirana
-
-*2024-11-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199325) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Health Minister Ramesa Pathirana pledges full cooperation with investigations into pharmaceutical procurement scams. He visited CID to confess and expressed readiness to assist legal proceedings.
-
-🟩
-
-Former Health Minister Ramesa Pathirana said that I am ready to give full cooperation to any investigation into the pharmaceutical procurement scams in the Ministry of Health.
-
-He was responding to journalists' questions when he visited the Criminal Investigation Department on Thursday (21) to confess on drug scams.
-
-I am ready to give full cooperation to any investigation into the pharmaceutical procurement scams that have been held in the past. Cabinet decisions are taken with the approval of the Ministry of Finance on the advice of various officials.
-
-So in the resolutions taken in this regard there are no problems on our side. However, we are also ready to cooperate because the case is being carried out in court.
-
-It is clear that the drug problem has occurred during the production. Investigations are being carried out in their connection. I am here to cooperate with them. I congratulate the new Minister of Health.
-
-◼️
-
-[Data](articles/431ecc11.json)
-
-[Extended Data](ext_articles/431ecc11.ext.json)
 
 ---

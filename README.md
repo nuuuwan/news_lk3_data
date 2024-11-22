@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 19:16:13**
+As of **2024-11-22 19:25:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,355 (100.0%) of 56,362 articles have been extended.
+56,358 (100.0%) of 56,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,19 +152,27 @@ Another mother who had been giving birth to more than 50 people entered the deli
 
 ---
 
-### சர்வதேச அபிவிருத்திக்கான ஐக்கிய நாடுகளின் வேலைத்திட்டத்தின் கீழ் தேசிய ஒருங்கிணைப்பு அதிகாரிகளுக்கு  தொழிநுட்ப உபகரணங்கள் கையளிப்பு
+### Technical equipment handing to National Coordinating Officers under the United Nations Program for International Development
 
 *2024-11-22 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199438) · `ta`
 
-தேசிய ஐக்கியம் மத நல்லிணக்கத்தை மேம்படுத்தும் செயற்பாட்டை பலம்மிக்கதாக மேற்கொள்ளும் நோக்கில் தேசிய ஒருங்கிணைப்பு அதிகாரிகளுக்கு  தொலைத்தொடர்பு மற்றும் தொழிநுட்ப உபகரணங்களை பகிர்ந்தளிக்கும் நிகழ்வு நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்கார மற்றும் இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலிஜங் ஆகியோரின் தலைமையில் இராஜகிரியவில் அமைந்துள்ள தேசிய ஒருமைப்பாட்டு பிரிவு காரியாலயத்தில் வெள்ளிக்கிழமை (22) இடம்பெற்றது.
+UNDP distributes tech gear to NCOs for religious harmony in Sri Lanka. Event at National Integration Unit, led by Justice Minister & US Ambassador. 61 computers handed out. Equipment aims to boost national unity and interfaith dialogue.
 
-இந்த நிகழ்வுக்கு நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சின் வழிநடத்தலுக்கு அமைய சர்வதேச அபிவிருத்திக்கான ஐக்கிய நாடுகளின் முகவர் நிறுவனத்தின் ‘ஸ்கோ’ வேலைத்திட்டம் இதற்காக அனுசரணை வழங்கியுள்ளது.
+🟩
 
-இதன்போது 61 கணனிகள் உள்ளிட்ட தொலை தொடர்புகள் மற்றும் தொழிநுட்ப உபகரணங்கள் பகிர்ந்தளிக்கப்பட்டதுடன் கணனி உபகரணங்கள் பகிர்ந்தளிப்பதற்கு தேவையான ஆவணங்கள் பரிமாற்றிக்கொள்ளும் நிகழ்வும் இடம்பெற்றது.
+The event was held at the National Integration Unit of Rajagiriya on Friday (22), headed by Justice and National Integration Minister Harshana Nanayakkara and US Ambassador to Sri Lanka, Julijang, to distribute telecommunications and technical equipment to the National Coordinating Officers to promote the development of religious harmony.
+
+The event has been sponsored by the United Nations Agency for International Development in accordance with the Ministry of Justice and the National Integration Ministry.
+
+During this time, telecommunications and technical equipment, including 61 computers, were distributed and the exchange of documents needed for distribution of computer equipment.
+
+I would like to thank all, including the US Ambassador, for the cooperation of the cooperation given to ensure that the activities of national integrity and religious harmony in Sri Lanka are committed.
 
 ...
 
 [Data](articles/f5f3cf39.json)
+
+[Extended Data](ext_articles/f5f3cf39.ext.json)
 
 ---
 
@@ -190,21 +198,33 @@ Dr. Ramanathan was elected to Parliament representing Jaffna District Independen
 
 ---
 
-### பராரி - திரைப்பட விமர்சனம்
+### Barari - Film Review
 
 *2024-11-22 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199436) · `ta`
 
-நடிகர்கள் : ஹரிசங்கர், சங்கீதா கல்யாண் , புகழ் மகேந்திரன், சுகுமார் சண்முகம்,  குரு ராஜேந்திரன், பிரேம்நாத் மற்றும் பலர்.
+Here's a summary of the Barari film review in approximately 200 characters:
 
-எழுத்தாளரும், இயக்குநருமான ராஜு முருகனின் பங்களிப்பு- இப்படத்தின் முன்னோட்டத்தில் இடம் பெற்ற உரையாடல்கள்- என பல்வேறு அம்சங்களினால்  ரசிகர்களிடத்தில் படத்தைப் பற்றிய ஆர்வம் அதிகரித்தது. பார்வையாளர்களின் ஆர்வத்தை பராரி பூர்த்தி செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-உலகம் முழுவதும் தமிழர்களாலும், இந்து மதத்தினராலும் அக்னி தலம் என்று போற்றப்படும் திருவண்ணாமலை எனும் புனித நகருக்கு அருகே உள்ள ராஜாபாளையம் எனும் கிராமத்தில் சாதிய பாகுபாடுகளால் மக்கள் பிரிக்கப்பட்டிருக்கிறார்கள்.
 
-இவர்கள் தங்களுடைய வாழ்வாதாரத்திற்காக அண்டை மாநிலத்திற்கு புலம்பெயர்கிறார்கள். அங்கு மொழிவாரி பாகுபாடு உண்டாகிறது. அதனால் அவர்களுடைய வாழ்க்கை எவ்வாறு பாதிக்கப்படுகிறது? அதிலிருந்து அவர்கள் மீண்டார்களா? இல்லையா? என்பதுதான் இப்படத்தின் கதை.
+"Barari" film review: Caste discrimination, migration, and hate politics set against Tamil Nadu backdrop. Director Raju Murugan explores themes of oppression and recovery through character-driven storytelling. Strong performances from lead actors, but plot twists confuse viewers. Cinematic elements receive mixed reviews. Overall impact falls short of expectations.
+
+🟩
+
+Actors: Harishankar, Sangeetha Kalyan, fame Mahendran, Sukumar Shanmugam, Guru Rajendran, Premnath and others.
+
+The contribution of writer and director Raju Murugan- the conversations featured in the preview of the film, increased the interest of the film in the fans.. Did Parari complete the interest of the audience?Or not?We will continue to see.
+
+In the village of Rajapalayam, near the holy city of Thiruvannamalai, known as the Agni Talam by Tamils ​​and Hindu people all over the world, people are divided by caste discrimination.
+
+They migrate to the neighboring state for their livelihood. There is linguistic discrimination. So how does their lives affect?Did they recover from it?Or not?The story of the film.
+
+The story of the film is now a focus of hate politics, which are currently spreading among the people across India. They also describe how the bureaucracy and the dominant castes divide the people.
 
 ...
 
 [Data](articles/3d46b043.json)
+
+[Extended Data](ext_articles/3d46b043.ext.json)
 
 ---
 
@@ -428,21 +448,29 @@ They subsequently visited the Malwathu Maha Viharaya, where they paid their resp
 
 ---
 
-### பண்டிகை காலத்தில் உணவு பொருட்களுக்கு தட்டுப்பாடு ஏற்படாது 70 ஆயிரம் மெற்றிக் தொன் அரிசி இறக்குமதி - விவசாயத்துறை அமைச்சு
+### Importing 70 Thousand Thon of Rice - Ministry of Agriculture
 
 *2024-11-22 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199426) · `ta`
 
-இந்தியாவில் இருந்து முதல் கட்டமாக 70 ஆயிரம் மெற்றிக் தொன் அரிசி இறக்குமதிக்கான கூட்டு அமைச்சரவை பத்திரத்தை எதிர்வரும் வாரம் அமைச்சரவையில் சமர்ப்பிப்போம். பண்டிகை காலத்தில் அத்தியாவசிய பொருட்களுக்கு தட்டுப்பாடு ஏற்படாது என விவசாயம், கால்நடை, நீர்பாசனம் மற்றும் காணி அமைச்சர் கே.டி.லால் காந்த தெரிவித்தார்.
+India to import 70k metric tons of rice to address shortage. Decision made to ensure availability during festive season. Import process to begin after Cabinet approval. Measures to stabilize rice prices and prevent intermediary exploitation. Relief for farmers continues uninterrupted.
 
-விவசாயத்துறை அமைச்சின் காரியாலயத்தில் வெள்ளிக்கிழமை (22)  நடைபெற்ற ஊடகவியலாளர்  சந்திப்பின் போது மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அத்தியாவசிய உணவு பொருட்களின் விலை குறித்து உரிய நடவடிக்கை எடுக்கப்படும். சந்தையில் நாடு வகை அரிசிக்கு நிலவும் தட்டுப்பாடு மற்றும் விலை குறித்து விசேட கவனம் செலுத்தப்பட்டுள்ளது.
+The first phase from India will submit the Joint Cabinet paper for the importation of 70 thousand metric tonnes of rice to the Cabinet next week. Agriculture, Livestock, Irrigation and Land Minister KD Lal Kanta said that there will be no shortage of essential commodities during the festive season.
 
-அரிசி தட்டுப்பாட்டுக்கு குறுகிய கால தீர்வாக இந்தியாவில் இருந்து முதற்கட்டமாக 70 ஆயிரம் மெற்றிக் தொன் அரிசியை இறக்குமதி செய்ய தீர்மானிக்கப்பட்டுள்ளது. இதற்கான கூட்டு அமைச்சு பத்திரத்தை எதிர்வரும் அமைச்சரவை கூட்டத்தில் சமர்ப்பிப்போம்.
+He said this during a media briefing held at the Ministry of Agriculture on Friday (22).
+
+Appropriate action will be taken on the price of essential food items. Special attention has been paid to the shortage and prices of country rice in the market.
+
+It has been decided to import 70 thousand metric tons of rice from India for the first time as a short -term solution to rice shortage. We will submit the Joint Ministry bond at the upcoming Cabinet meeting.
+
+National farmers and consumers are not affected by importing rice. Cannot accommodate the improper activities of the intermediaries. Appropriate measures will be taken to improve the agriculture sector at the national level.
 
 ...
 
 [Data](articles/a2b61269.json)
+
+[Extended Data](ext_articles/a2b61269.ext.json)
 
 ---
 

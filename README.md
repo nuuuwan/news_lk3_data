@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 14:27:52**
+As of **2024-11-22 14:42:08**
 
 ## Newspaper Stats
 
-*Scraped **56,321** Articles*
+*Scraped **56,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,299
-adaderanalk | 6,805
+adaderanalk | 6,806
 tamilmirrorlk | 8,001
 virakesarilk | 9,157
 adaderanasinhalalk | 9,718
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,320 (100.0%) of 56,321 articles have been extended.
+56,320 (100.0%) of 56,322 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -127,6 +127,22 @@ Dilith Jayaweera was then a group of led by Dilith Jayaweera and visited Sri Sum
 [Data](articles/141fc059.json)
 
 [Extended Data](ext_articles/141fc059.ext.json)
+
+---
+
+### Substandard drugs scandal: Harin arrives at CID to record statement
+
+*2024-11-22 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103689/substandard-drugs-scandal-harin-arrives-at-cid-to-record-statement) · `en`
+
+Former Minister Harin Fernando has stated that he does not believe the then-Cabinet of Ministers is responsible for the incident involving the procurement of substandard human immunoglobulin vials.
+
+He made these remarks today (22) while speaking to reporters as he arrived to provide a statement to the Criminal Investigation Department (CID) regarding the relevant incident.
+
+On November 12, the Maligakanda Magistrate’s Court had ordered to record statements from 18 then-Cabinet Ministers pertaining to the alleged importation of substandard human immunoglobulin vials.
+
+...
+
+[Data](articles/6f5ca7e3.json)
 
 ---
 
@@ -2327,29 +2343,5 @@ Meanwhile, Kamal Haasan is starring in Thax Life. It is noteworthy that Kamal Ha
 [Data](articles/449da429.json)
 
 [Extended Data](ext_articles/449da429.ext.json)
-
----
-
-### I will take steps to meet the expectations of the people - Deputy Speaker Rizvi Sally
-
-*2024-11-21 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199341) · `ta`
-
-Deputy Speaker Rizvi Sally vows to meet public expectations, fulfill promises made during election campaign. He emphasizes protecting people's trust and delivering positive change in Parliament. Despite lack of prior experience, he commits to learning quickly and serving responsibly alongside newly elected Speaker Asoka Sabumal Ranwala.
-
-🟩
-
-People have voted for us with massive anticipation. Deputy Speaker Rizvi Sally said that he would try to fulfill the obligations to protect the people's confidence.
-
-The first session of the 10th Parliament was launched on Thursday in a formal practice and said this in the media after the president's policy speech.
-
-I am glad that I was elected to the post of Deputy Speaker. However, for the first time in Parliament, I have no experience to hold this post as he has been elected this time.. However, in a short time, I am confident that the Deputy Speaker's duty will be aware of the responsibilities and the best of this responsibility.
-
-People have voted for us to look for a better change in this parliament. So I will take steps to fulfill my responsibilities in Parliament so that the people's confidence will not distort.
-
-...
-
-[Data](articles/68bfdd96.json)
-
-[Extended Data](ext_articles/68bfdd96.ext.json)
 
 ---

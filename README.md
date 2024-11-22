@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 19:16:13**
+As of **2024-11-22 19:42:20**
 
 ## Newspaper Stats
 
-*Scraped **56,362** Articles*
+*Scraped **56,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,302
-adaderanalk | 6,810
+adaderanalk | 6,812
 tamilmirrorlk | 8,012
 virakesarilk | 9,168
 adaderanasinhalalk | 9,729
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,355 (100.0%) of 56,362 articles have been extended.
+56,362 (100.0%) of 56,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### Japan commends new government’s anti-corruption policies
+
+*2024-11-22 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103695/japan-commends-new-governments-anti-corruption-policies) · `en`
+
+A meeting took place this afternoon (22) at the Presidential Secretariat in Colombo between the Secretary to the President Dr. Nandika Sanath Kumanayake and the Japanese Ambassador to Sri Lanka, Akio Isomata.
+
+The Japanese Ambassador extended his best wishes to the new government led by President Anura Kumara Dissanayake and expressed Japan’s commitment to continuing the bilateral relations between the two nations in a productive and sustainable manner, the PMD reported.
+
+Ambassador Isomata commended the new government’s policies aimed at creating a nation free of corruption and malpractice while advancing economic progress.
+
+He also reaffirmed Japan’s readiness to provide maximum support to Sri Lanka’s new administration and President Anura Kumara Dissanayake, the statement said.
+
+◼️
+
+[Data](articles/6256d336.json)
+
+---
+
+### Sri Lanka says discussions with IMF on third review concluded successfully
+
+*2024-11-22 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103694/sri-lanka-says-discussions-with-imf-on-third-review-concluded-successfully) · `en`
+
+The Government of Sri Lanka says that discussions related to the third review under the Extended Fund Facility of the International Monetary Fund (IMF) program were successfully concluded today (22).
+
+The meeting, held at the Presidential Secretariat, was attended by a delegation representing the IMF, led by Senior Mission Chief Peter Breuer, the President’s Media Division (PMD) said.
+
+Representing the Sri Lankan government, the delegation was headed by Deputy Minister of Economic Development, Professor Anil Jayantha Fernando.
+
+Accordingly, the discussions between the IMF and the Government of Sri Lanka pertaining to the third review were successfully concluded, the statement said.
+
+◼️
+
+[Data](articles/c96729bb.json)
+
+---
 
 ### Government statement on the third review of the IMF
 
@@ -152,19 +188,27 @@ Another mother who had been giving birth to more than 50 people entered the deli
 
 ---
 
-### சர்வதேச அபிவிருத்திக்கான ஐக்கிய நாடுகளின் வேலைத்திட்டத்தின் கீழ் தேசிய ஒருங்கிணைப்பு அதிகாரிகளுக்கு  தொழிநுட்ப உபகரணங்கள் கையளிப்பு
+### Technical equipment handing to National Coordinating Officers under the United Nations Program for International Development
 
 *2024-11-22 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199438) · `ta`
 
-தேசிய ஐக்கியம் மத நல்லிணக்கத்தை மேம்படுத்தும் செயற்பாட்டை பலம்மிக்கதாக மேற்கொள்ளும் நோக்கில் தேசிய ஒருங்கிணைப்பு அதிகாரிகளுக்கு  தொலைத்தொடர்பு மற்றும் தொழிநுட்ப உபகரணங்களை பகிர்ந்தளிக்கும் நிகழ்வு நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்கார மற்றும் இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலிஜங் ஆகியோரின் தலைமையில் இராஜகிரியவில் அமைந்துள்ள தேசிய ஒருமைப்பாட்டு பிரிவு காரியாலயத்தில் வெள்ளிக்கிழமை (22) இடம்பெற்றது.
+UNDP distributes tech gear to NCOs for religious harmony in Sri Lanka. Event at National Integration Unit, led by Justice Minister & US Ambassador. 61 computers handed out. Equipment aims to boost national unity and interfaith dialogue.
 
-இந்த நிகழ்வுக்கு நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சின் வழிநடத்தலுக்கு அமைய சர்வதேச அபிவிருத்திக்கான ஐக்கிய நாடுகளின் முகவர் நிறுவனத்தின் ‘ஸ்கோ’ வேலைத்திட்டம் இதற்காக அனுசரணை வழங்கியுள்ளது.
+🟩
 
-இதன்போது 61 கணனிகள் உள்ளிட்ட தொலை தொடர்புகள் மற்றும் தொழிநுட்ப உபகரணங்கள் பகிர்ந்தளிக்கப்பட்டதுடன் கணனி உபகரணங்கள் பகிர்ந்தளிப்பதற்கு தேவையான ஆவணங்கள் பரிமாற்றிக்கொள்ளும் நிகழ்வும் இடம்பெற்றது.
+The event was held at the National Integration Unit of Rajagiriya on Friday (22), headed by Justice and National Integration Minister Harshana Nanayakkara and US Ambassador to Sri Lanka, Julijang, to distribute telecommunications and technical equipment to the National Coordinating Officers to promote the development of religious harmony.
+
+The event has been sponsored by the United Nations Agency for International Development in accordance with the Ministry of Justice and the National Integration Ministry.
+
+During this time, telecommunications and technical equipment, including 61 computers, were distributed and the exchange of documents needed for distribution of computer equipment.
+
+I would like to thank all, including the US Ambassador, for the cooperation of the cooperation given to ensure that the activities of national integrity and religious harmony in Sri Lanka are committed.
 
 ...
 
 [Data](articles/f5f3cf39.json)
+
+[Extended Data](ext_articles/f5f3cf39.ext.json)
 
 ---
 
@@ -190,21 +234,33 @@ Dr. Ramanathan was elected to Parliament representing Jaffna District Independen
 
 ---
 
-### பராரி - திரைப்பட விமர்சனம்
+### Barari - Film Review
 
 *2024-11-22 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199436) · `ta`
 
-நடிகர்கள் : ஹரிசங்கர், சங்கீதா கல்யாண் , புகழ் மகேந்திரன், சுகுமார் சண்முகம்,  குரு ராஜேந்திரன், பிரேம்நாத் மற்றும் பலர்.
+Here's a summary of the Barari film review in approximately 200 characters:
 
-எழுத்தாளரும், இயக்குநருமான ராஜு முருகனின் பங்களிப்பு- இப்படத்தின் முன்னோட்டத்தில் இடம் பெற்ற உரையாடல்கள்- என பல்வேறு அம்சங்களினால்  ரசிகர்களிடத்தில் படத்தைப் பற்றிய ஆர்வம் அதிகரித்தது. பார்வையாளர்களின் ஆர்வத்தை பராரி பூர்த்தி செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-உலகம் முழுவதும் தமிழர்களாலும், இந்து மதத்தினராலும் அக்னி தலம் என்று போற்றப்படும் திருவண்ணாமலை எனும் புனித நகருக்கு அருகே உள்ள ராஜாபாளையம் எனும் கிராமத்தில் சாதிய பாகுபாடுகளால் மக்கள் பிரிக்கப்பட்டிருக்கிறார்கள்.
 
-இவர்கள் தங்களுடைய வாழ்வாதாரத்திற்காக அண்டை மாநிலத்திற்கு புலம்பெயர்கிறார்கள். அங்கு மொழிவாரி பாகுபாடு உண்டாகிறது. அதனால் அவர்களுடைய வாழ்க்கை எவ்வாறு பாதிக்கப்படுகிறது? அதிலிருந்து அவர்கள் மீண்டார்களா? இல்லையா? என்பதுதான் இப்படத்தின் கதை.
+"Barari" film review: Caste discrimination, migration, and hate politics set against Tamil Nadu backdrop. Director Raju Murugan explores themes of oppression and recovery through character-driven storytelling. Strong performances from lead actors, but plot twists confuse viewers. Cinematic elements receive mixed reviews. Overall impact falls short of expectations.
+
+🟩
+
+Actors: Harishankar, Sangeetha Kalyan, fame Mahendran, Sukumar Shanmugam, Guru Rajendran, Premnath and others.
+
+The contribution of writer and director Raju Murugan- the conversations featured in the preview of the film, increased the interest of the film in the fans.. Did Parari complete the interest of the audience?Or not?We will continue to see.
+
+In the village of Rajapalayam, near the holy city of Thiruvannamalai, known as the Agni Talam by Tamils ​​and Hindu people all over the world, people are divided by caste discrimination.
+
+They migrate to the neighboring state for their livelihood. There is linguistic discrimination. So how does their lives affect?Did they recover from it?Or not?The story of the film.
+
+The story of the film is now a focus of hate politics, which are currently spreading among the people across India. They also describe how the bureaucracy and the dominant castes divide the people.
 
 ...
 
 [Data](articles/3d46b043.json)
+
+[Extended Data](ext_articles/3d46b043.ext.json)
 
 ---
 
@@ -428,41 +484,55 @@ They subsequently visited the Malwathu Maha Viharaya, where they paid their resp
 
 ---
 
-### பண்டிகை காலத்தில் உணவு பொருட்களுக்கு தட்டுப்பாடு ஏற்படாது 70 ஆயிரம் மெற்றிக் தொன் அரிசி இறக்குமதி - விவசாயத்துறை அமைச்சு
+### Importing 70 Thousand Thon of Rice - Ministry of Agriculture
 
 *2024-11-22 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199426) · `ta`
 
-இந்தியாவில் இருந்து முதல் கட்டமாக 70 ஆயிரம் மெற்றிக் தொன் அரிசி இறக்குமதிக்கான கூட்டு அமைச்சரவை பத்திரத்தை எதிர்வரும் வாரம் அமைச்சரவையில் சமர்ப்பிப்போம். பண்டிகை காலத்தில் அத்தியாவசிய பொருட்களுக்கு தட்டுப்பாடு ஏற்படாது என விவசாயம், கால்நடை, நீர்பாசனம் மற்றும் காணி அமைச்சர் கே.டி.லால் காந்த தெரிவித்தார்.
+India to import 70k metric tons of rice to address shortage. Decision made to ensure availability during festive season. Import process to begin after Cabinet approval. Measures to stabilize rice prices and prevent intermediary exploitation. Relief for farmers continues uninterrupted.
 
-விவசாயத்துறை அமைச்சின் காரியாலயத்தில் வெள்ளிக்கிழமை (22)  நடைபெற்ற ஊடகவியலாளர்  சந்திப்பின் போது மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அத்தியாவசிய உணவு பொருட்களின் விலை குறித்து உரிய நடவடிக்கை எடுக்கப்படும். சந்தையில் நாடு வகை அரிசிக்கு நிலவும் தட்டுப்பாடு மற்றும் விலை குறித்து விசேட கவனம் செலுத்தப்பட்டுள்ளது.
+The first phase from India will submit the Joint Cabinet paper for the importation of 70 thousand metric tonnes of rice to the Cabinet next week. Agriculture, Livestock, Irrigation and Land Minister KD Lal Kanta said that there will be no shortage of essential commodities during the festive season.
 
-அரிசி தட்டுப்பாட்டுக்கு குறுகிய கால தீர்வாக இந்தியாவில் இருந்து முதற்கட்டமாக 70 ஆயிரம் மெற்றிக் தொன் அரிசியை இறக்குமதி செய்ய தீர்மானிக்கப்பட்டுள்ளது. இதற்கான கூட்டு அமைச்சு பத்திரத்தை எதிர்வரும் அமைச்சரவை கூட்டத்தில் சமர்ப்பிப்போம்.
+He said this during a media briefing held at the Ministry of Agriculture on Friday (22).
+
+Appropriate action will be taken on the price of essential food items. Special attention has been paid to the shortage and prices of country rice in the market.
+
+It has been decided to import 70 thousand metric tons of rice from India for the first time as a short -term solution to rice shortage. We will submit the Joint Ministry bond at the upcoming Cabinet meeting.
+
+National farmers and consumers are not affected by importing rice. Cannot accommodate the improper activities of the intermediaries. Appropriate measures will be taken to improve the agriculture sector at the national level.
 
 ...
 
 [Data](articles/a2b61269.json)
 
+[Extended Data](ext_articles/a2b61269.ext.json)
+
 ---
 
-### ඇමෙරිකාවේ රාජ්‍ය සේවයෙන් ඉවත්ව ලංකාවේ ගරු සේවකයකට එන මහාචාර්යවරයා
+### Professor of Sri Lanka to leave the US Public Service
 
 *2024-11-22 16:34:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-රාජ්‍ය-සේවයෙන්-ඉවත්ව-ලංකාවේ-ගරු-සේවකයකට-එන-මහාචාර්යවරයා/11-413213) · `si`
 
-අමෙරිකා එක්සත් ජනපදයේ හූස්ටන් විශ්වවිද්‍යාලයේ සහ එම්. ඩී. ඇන්ඩර්සන් පිළිකා පර්යේෂණ ආයතනයේ මහාචාර්ය ගෝමික උඩුගමසූරිය මහතා විද්‍යාව හා තාක්ෂණය සම්බන්ධව ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක ලෙස පත්කළ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+Sri Lankan professor leaves US public service. Appointed as Senior Advisor to Science and Technology at Houston University's Anderson Cancer Research Institute. Received presidential appointment letter. Graduated from University of Colombo, holds PhD from Michigan State University. Awarded honorary position in US.
 
-මේ සඳහා වන පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් අද (22) ජනාධිපති කාර්යාලයේ දී ඔහු වෙත පිළිගන්වනු ලැබීය.
+🟩
 
-කොළඹ ඩී. එස්. සේනානායක විද්‍යාලයේ ආදි සිසුවකු වන ගෝමික උඩුගමසූරිය මහතා කොළඹ විශ්වවිද්‍යාලයේ රසායන විද්‍යාව පිළිබඳ විශේෂවේදී උපාධිධරයෙකි.
+Houston University and M. D. Professor Global Udugasuriya was appointed as Senior Advisor to Science and Technology in the Anderson Cancer Research Institute.
 
-එමෙන්ම අමෙරිකාවේ මිචිගන් වේන් ස්ටේට් යුනිවර්සිටි වෙතින් ආචාර්ය උපාධියද, ටෙක්සාස් සවුත් වෙස්ටර්න් මෙඩිකල් සෙන්ටර් වෙතින් පශ්චාද් ආචාර්ය උපාධිය ද හිමි කර ගෙන ඇත.
+The appointment letter for this is presented to the Presidential Secretary to the Presidential Secretariat today (22) by President's Secretary to the President.
 
-ගෝමික උඩුගමසූරිය මහතා පේටන්ට් බලපත්‍ර රැසකට උරුමකම් කියන අතර, ඔහු අමෙරිකාවේ රාජ්‍ය සේවයෙන් ඉවත්ව ගරු සේවයක් ලෙස ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක තනතුරට එක්ව තිබේ.
+Colombo D. S. Global Udugasuriya, an alumni of Senanayake College, is a graduate of chemistry at the University of Colombo.
+
+It also won the PhD of the Michigan Wayne Staten Staten Staten Staters, Texas and Western Medical Center.
+
+Global Udugasuriya, hearing a patent, and he joined the position of Senior President as a honor of the US.
 
 ◼️
 
 [Data](articles/db2aee79.json)
+
+[Extended Data](ext_articles/db2aee79.ext.json)
 
 ---
 
@@ -498,59 +568,87 @@ It is reported that the Andhra Pradesh government agreed to buy 7 Gigawat of ele
 
 ---
 
-### නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ වැඩ අරඹයි
+### Deputy Minister Mahinda Jayasinghe launches work
 
 *2024-11-22 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203630) · `si`
 
-කම්කරු නියෝජ්‍ය අමාත්‍යවරයා ලෙස දිවුරුම් දුන් මහින්ද ජයසිංහ මහතා අද (22) එම අමාත්‍යාංශයේදී රාජකාරි ආරම්භ කළේය.
+Deputy Minister Mahinda Jayasinghe launched his duties at the Ministry of Labor. He emphasized collaboration between ministries and commitment to improving national life. Regarding trade unions, he stated they often have political motivations rather than purely representing workers' interests.
 
-මේ අවස්ථාවට අමාත්‍ය මහචාර්ය අනිල් ජයන්ත මහතා ඇතුළු පිරිසක් එක්ව සිටියහ.
+🟩
 
-"මේ රටේ පොදුජනතාව අපෙන් අපේක්ෂා කරපු පෝසත් රටක්, ලස්සන ජීවිතයක් ඒ ක්‍රියාවලියට අනුගත වෙමින්, කම්කරු අමාත්‍යාංශය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු සහෝදරයා සමග එකතුවෙලා අමාත්‍යාංශ කාර්ය මණ්ඩලය සමග අත්වැල් බැඳගෙන ඒ වගේම මේ රටේ වෘත්තීය සමිති සමග ඉතා සුහදව එකතුවෙලා අවබෝධයෙන් කටයුතු කරමින් මේ රටේ වැඩකරන ජනතාවට වඩාත් හොඳ රටක් ගොඩනගන්න අවශ්‍ය කරන පියවර ගන්න අපි සුදානම්. අපි ඒ දේශපාලනයේ නියැලෙමින් ඉන්නේම කිසිදු පෞද්ගලික ලාභ ප්‍රයෝජනයකට නෙමෙයි. අපේ අරමුණ බවට පත්වෙලා තියෙන්නේ සියලු ජනතාවට වඩාත් හොඳ ජීවිතයක් ළඟාකර දීම."
+Mahinda Jayasinghe took oaths as the Deputy Minister of Labor at the Ministry today (22).
 
-ප්‍රශ්නය -  මහින්ද ජයසිංහ කියන යුගයක් තිබුණා වෘත්තීය සමිති එක්ක බැලුවහම...මීට පස්සේ එහෙම යුගයක් ඇති නොවෙයි ද ?
+Minister Professor Anil Jayantha and several others were present at the occasion.
 
-...
+"The work of the Ministry of Worksha Anil Jayantha has joined hands with the Ministry of Prof. Anil Jayantha, with Comrade the Ministry of Labor Anil Jayantha, with the Comrade of the Ministry of Labor Anil Jayantha, with Comrade the Ministry of Labor Anil Jayantha joins with the Ministry of Prof. Anil Jayantha.We are ready to take steps to build a good country. We are not doing any personal profitability in that politics. Our goal has become a better life to all people. "
+
+Q. There was an era of Mahinda Jayasinghe when viewing the trade unions ... and doesn't there be the case?
+
+"Not required. Many trade union leaders represent this government. We think the trade unions are dealing with the government and deals with other underlying political goals. "
+
+◼️
 
 [Data](articles/8b643a78.json)
 
+[Extended Data](ext_articles/8b643a78.ext.json)
+
 ---
 
-### வவுனியா பொலிஸாரின் அவசர வேண்டுகோள்
+### Emergency request by Vavuniya Police
 
 *2024-11-22 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199422) · `ta`
 
-வவுனியா உட்பட வடமாகாணத்தினுள் இவர்களை கண்டால் உடனடியாக அறியத்தருமாறு பொலிஸார் வேண்டுகோள் விடுத்துள்ளனர்.
+Here's a summary in approximately 200 characters:
 
-கடந்த சில நாட்களுக்கு முன் மினுவாங்கொடை பகுதியில் 7 கோடி பெறுமதியான பணம் கொள்ளை அடிக்கப்பட்டிருந்தது.
 
-இந்த கொள்ளை சம்பவத்துடன் சீதுவ பகுதியைச் சேர்ந்த பிரேசுமனி துஷார இந்திக்க சொய்சா மற்றும் உடுகம்பொல பகுதியைச் சேர்ந்த டபிள்யூ.ஏ.டி சமன் ரணசிங்க ஆகிய இருவரும் தொடர்புடையவர்கள் என அடையாளர் காணப்பட்டுள்ளார்கள்.
 
-குறித்த இருவரும் தற்சமயம் வவுனியா மற்றும் வடமாகண பிரதேசங்களில் நடமாடிவருவதாக கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் பொலிஸார் பொதுமக்களின் ஆதரவை வேண்டி நிற்கின்றனர்.
+Vavuniya Police seek public help: 7 crore theft in Minuwangoda; suspects Brazumani Dushara (Seeduwa) & WAT Saman Ranasinghe (Udugampola). Contact Senior Police Inspector, Vavuniya District Crime Unit: 0718596422 or 0716360020.
 
-குறித்த நபர்களை பொதுமக்கள் யாரும் அடையாளம் கண்டால் வவுனியா மாவட்ட குற்றத்தடுப்பு பிரிவின் பொறுப்பதிகாரியான சிரேஷ்ட பொலிஸ் பரிசோதகர் அழகியவண்ணவின் தொலைபேசி இலக்கமான 0718596422 ஊடாக அல்லது 0716360020 (சிந்தக்க) ஆகிய தொடர்பு இலக்கங்களுக்கு தொடர்பு கொண்டு அறியத்தருமாறு பொதுமக்களிடம் பொலிஸார் வேண்டுகோள் விடுத்துள்ளனர்.
+🟩
+
+Police have requested that they be found in the Northern Province, including Vavuniya.
+
+A few days ago, 7 crore worth of money was robbed in the Minuwangoda area.
+
+Brazumani Dushara from Seeduwa area and WAT Saman Ranasinghe from Udugampola area are associated with the robbery.
+
+Based on the confidential information available in the Vavuniya and Northern Province, the police are seeking public support.
+
+If any of the public identified, the police have requested the public to contact the Senior Police Inspector of the Vavuniya District Crime Unit, the telephone number 0718596422, the telephone number 0718596422 or the 0716360020 (Sindhaka).
 
 ◼️
 
 [Data](articles/a5459cfb.json)
 
+[Extended Data](ext_articles/a5459cfb.ext.json)
+
 ---
 
-### யாழில் பெண்ணொருவரிடம் பாலியல் கப்பம் கோரிய இரு பொலிஸ் உத்தியோகஸ்தர்கள் கைது
+### Two police officers arrested for sex
 
 *2024-11-22 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199424) · `ta`
 
-யாழ்ப்பாணத்தைச் சேர்ந்த பெண்ணொருவர் தனது காதலனுடன் நெருக்கமாக இருக்கும் புகைப்படங்கள் மற்றும் காணொளிகளை காட்டி மிரட்டி பாலியல் கப்பம் மற்றும் 12 இலட்ச ரூபாய் கப்பம் கோரிய இரு பொலிஸ் உத்தியோகஸ்தர்கள் நேற்றைய தினம் வியாழக்கிழமை (22)  கைது செய்யப்பட்டுள்ளனர்.
+Two police officers arrested for threatening woman in Jaffna. They obtained intimate photos/videos and intimidated her. Case under investigation, to be presented in court.
 
-பலாலி பொலிஸ் நிலையத்தில் கடமையாற்றும் இரு பொலிஸ் உத்தியோகஸ்தர்களுக்கு , சுன்னாகம் பொலிஸ் பிரிவில் வசிக்கும் பெண்ணொருவர் தனது காதலனுடன் இருக்கும் படங்கள் மற்றும் காணொளிகள் கிடைக்கப்பெற்றுள்ளன.
+🟩
 
-படங்களை வைத்து பெண்ணை அடையாளம் கண்டு கொண்ட இரு பொலிஸ் உத்தியோகஸ்தர்களும் அவரது வீட்டுக்கு சென்று தாம் கொழும்பில் இருந்து வந்துள்ள பொலிஸ் விசேட பிரிவினர் என அறிமுகப்படுத்திக்கொண்டு , பெண்ணிடம் விசாரணைகளை மேற்கொண்டு அவரது தொலைபேசி இலக்கங்களை பெற்று சென்றுள்ளனர்.
+Two police officers have been arrested on Thursday (22) for allegedly threatening a woman from Jaffna to intimidate a photo and videos of her boyfriend.
 
-பின்னர் விசாரணைகளின் அடிப்படையில் , சட்ட நடவடிக்கை எடுக்க உள்ளதாகவும் , அவற்றை தவிர்ப்பதாயின் , 12 இலட்ச ரூபாய் பணம் தர வேண்டும் என்பதுடன் , தாம் இருவரும் அழைக்கும் இடத்திற்கு வர வேண்டும் என பெண்ணை தொலைபேசி ஊடாக மிரட்டியுள்ளனர்.
+Two police officers working at the Palali Police Station have received pictures and videos of a woman living in the Chunnakam police division.
 
-...
+Two police officers who identified the woman with pictures went to her home and introduced them as a special unit from Colombo, investigating the woman and obtaining her telephone numbers.
+
+Later, on the basis of inquiries, they have to take legal action and they have to pay Rs.
+
+After the victim lodged a complaint at the Chunnakam police station, the Sunnaka police, who were carrying out investigations, have arrested two police officers who are on duty at the Palali police station.
+
+Sunnakka police have said that the two men will be taken to the Mallakam Magistrate's Court after investigations.
+
+◼️
 
 [Data](articles/0862297d.json)
+
+[Extended Data](ext_articles/0862297d.ext.json)
 
 ---
 
@@ -2467,35 +2565,5 @@ MP Karunanayake argued that as a senior member of the United National Party (UNP
 [Data](articles/ee310614.json)
 
 [Extended Data](ext_articles/ee310614.ext.json)
-
----
-
-### ICC issues arrest warrants for Benjamin Netanyahu and Yoav Gallant
-
-*2024-11-22 03:30:20* · [`dailyftlk`](https://www.ft.lk/news/ICC-issues-arrest-warrants-for-Benjamin-Netanyahu-and-Yoav-Gallant/56-769552) · `en`
-
-The Pre-Trial Chamber I of the International Criminal Court, yesterday in its composition for the Situation in the State of Palestine,  unanimously issued two decisions rejecting challenges by the State of Israel (‘Israel’) brought under articles 18 and 19 of the Rome Statute (the ‘Statute’). It also issued warrants of arrest for Benjamin Netanyahu and Yoav Gallant.
-
-...
-
-[Data](articles/994b6831.json)
-
-[Extended Data](ext_articles/994b6831.ext.json)
-
----
-
-### President adjourns Parliament till 3 December
-
-*2024-11-22 03:29:24* · [`dailyftlk`](https://www.ft.lk/news/President-adjourns-Parliament-till-3-December/56-769551) · `en`
-
-President Anura Kumara Dissanayake yesterday adjourned the Parliament till 9:30 a.m. on 3 December, following the delivery of the Government’s policy statement during the inaugural session of the 10th Parliament.
-
-The policy statement outlined the administration’s vision and priorities for the new Parliamentary term, marking the beginning of a pivotal legislative period for Sri Lanka. The adjournment allows lawmakers to prepare for the upcoming sessions, where the Government’s agenda will be discussed and debated.
-
-◼️
-
-[Data](articles/dee17a6e.json)
-
-[Extended Data](ext_articles/dee17a6e.ext.json)
 
 ---

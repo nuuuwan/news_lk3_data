@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 15:42:14**
+As of **2024-11-22 16:41:29**
 
 ## Newspaper Stats
 
-*Scraped **56,326** Articles*
+*Scraped **56,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,414 @@ economynextcom | 3,421
 dailyftlk | 3,861
 dailymirrorlk | 4,733
 adalk | 5,300
-adaderanalk | 6,807
-tamilmirrorlk | 8,003
-virakesarilk | 9,157
-adaderanasinhalalk | 9,718
+adaderanalk | 6,808
+tamilmirrorlk | 8,010
+virakesarilk | 9,160
+adaderanasinhalalk | 9,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,323 (100.0%) of 56,326 articles have been extended.
+56,338 (100.0%) of 56,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
 
-### வருட இறுதிக்குள் மின் கட்டணத்தில் திருத்தம்?
+### அதானி மீது மற்றுமொரு குற்றச்சாட்டு; ஜெகன் மோகனுக்கும் சிக்கல்?
+
+*2024-11-22 16:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதானி-மீது-மற்றுமொரு-குற்றச்சாட்டு-ஜெகன்-மோகனுக்கும்-சிக்கல்/175-347624) · `ta`
+
+இந்திய சூரிய ஒளி மின்சார நிறுவனத்தின் (Solar Energy Corporation of India) ஒப்பந்தத்தில் கையெழுத்திட அப்போதைய ஆந்திர முதல்வர் ஜெகன் மோகனுக்கு இலஞ்சம் கொடுக்க அதானி உறுதி அளித்தகாக, அமெரிக்க பாதுகாப்பு மற்றும் பரிவர்த்தனை ஆணையம் தெரிவித்துள்ளது.
+
+கடந்த 2021ஆம் ஆண்டு, ஓகஸ்ட்டில் ஜெகனைச் சந்தித்த அதானி, இந்த உறுதியினை அளித்தார் எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்திய தொழிலதிபர் கௌதம் அதானி, தங்கள் நாட்டு முதலீட்டாளர்களை ஏமாற்றியதாகவும், இந்திய அதிகாரிகளுக்கு லஞ்சம் கொடுத்ததாகவும் உள்ளிட்ட பல்வேறு குற்றச்சாட்டுக்களை, அமெரிக்க பாதுகாப்பு மற்றும் பரிவர்த்தனை ஆணையம் அடுக்கியிருந்தது.
+
+அந்த வரிசையில், பெயர் குறிப்பிடப்படாத வெளிநாட்டு அதிகாரி ஒருவர் ஆந்திர அரசு அதிகாரிக்கு ரூ.1750 கோடி (இந்திய பெறுமதி) இலஞ்சம் கொடுக்க முன்வந்தார் என்று குறிப்பிடப்பட்டுள்ளது.
+
+இந்தச் சந்திப்புக்கு பின்பே அப்போதைய ஆந்திர அரசு இந்திய சூரிய மின்சார நிறுவனத்திடம் இருந்து 7 ஜிகாவாட் மின்சாரம் வாங்க ஒப்புக்கொண்டது என்றும் இது வேறு எந்த மாநிலமும் வாங்காத அதிக அளவாகும் என்றும் தகவல் வெளியாகியுள்ளது.
+
+...
+
+[Data](articles/3f046de7.json)
+
+---
+
+### ’பாராளுமன்ற சிற்றுண்டிச்சாலை மூடப்படாது’
+
+*2024-11-22 16:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-சிற்றுண்டிச்சாலை-மூடப்படாது/175-347623) · `ta`
+
+பாராளுமன்ற சிற்றுண்டிச்சாலை எக்காரணம் கொண்டும் மூடப்பட மாட்டாது என்று, சமகி ஜன பலவேகய பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.
+
+தற்போதைய ஆட்சியில், பாராளுமன்ற உணவகம் மூடப்படவுள்ளதாக வெளியான தகவல் தொடர்பில் வினவிய போதே, அவர் இவ்வாறு கூறினார்.
+
+பாராளுமன்ற சிற்றுண்டிச்சாலை  மூடப்பட மாட்டாது. ஆனால் அந்த வசதியை யாரும் துஷ்பிரயோகம் செய்யாமல் இருப்பதை அரசாங்கம் கவனித்துக்கொள்ளும் என்றாலும்,  ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.AN
+
+◼️
+
+[Data](articles/16acd908.json)
+
+---
+
+### Prime Minister Haruni and a group of people who filed the petition
+
+*2024-11-22 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203629) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Supreme Court summons case against police over 2023 protest. Prime Minister Harini Amarasuriya petitions against police officers. Three-judge bench orders lawyers to appear January. Petitioners claim peaceful protest dispersed unjustly.
+
+🟩
+
+The Supreme Court today (22) fixed the Supreme Court today to summon the fundamental rights petition filed by the Prime Minister Harini Amarasuriya.
+
+The petition was filed against a group of police officers, including a group of police officers, accusing the parliamentary protest in Polmboe in the last year.
+
+The petition was called before the three-member Supreme Court Bench comprising Yasantha Kodagoda, Aethantha Fernando, Yasantha Kodagoda, Aethantha Fernando.
+
+Does the President's Counsel Saliya Peiris appearing on behalf of the petitioner Saliya Peiris be held in court and if the case with arrests were carried out in the courts.He also said that he could decide on the facts.
+
+Deputy Solicitor General, Madhawa Tennakoon, appearing on behalf of the Attorney General was instructed by respondents.
+
+Accordingly, the three-judge panel of judges ordered the lawyers on the occasion to be summoned again on January.
+
+...
+
+[Data](articles/7f3075d8.json)
+
+[Extended Data](ext_articles/7f3075d8.ext.json)
+
+---
+
+### Tension at UNP headquarters
+
+*2024-11-22 16:03:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-தலைமையகத்தில்-பதற்றம்/175-347622) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+UNP supporters arrive at Sirikotha to submit a document on party revival. Tensions rise as some accuse National Democratic Front Secretary Ravi Karunanayake of attacking his own parliamentary appointment via national list.
+
+🟩
+
+It is reported that when a group of supporters of the United National Party (UNP) arrived at Sirikotha to hand over a document on reviving the party.
+
+When the National Democratic Front secretary Ravi Karunanayake exits, some people who came there accused the document that he had attacked Ravi Karunanayake's parliamentary appointment through the national list.
+
+◼️
+
+[Data](articles/12f3b7c5.json)
+
+[Extended Data](ext_articles/12f3b7c5.ext.json)
+
+---
+
+### ‘Aswesuma’: Nov. allowance for elders credited to bank accounts
+
+*2024-11-22 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103691/-aswesuma-nov-allowance-for-elders-credited-to-bank-accounts) · `en`
+
+The government announced that the Rs. 3,000 allowance designated for elderly individuals aged over 70, enrolled in the “Aswesuma” welfare benefit program, has been credited to their respective bank accounts.
+
+According to a statement issued by the Government Information Department, the funds have been disbursed for the month of November, and beneficiaries may withdraw the amount from their accounts starting today (22).
+
+This financial aid is provided to a total of 511,086 eligible individuals under the relief scheme while a total sum of Rs. 1,533,258,000 has been allocated for distribution this month to ensure the support reaches the intended recipients.
+
+◼️
+
+[Data](articles/08f65626.json)
+
+---
+
+### Suddenly burning luxury jeep
+
+*2024-11-22 15:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-தீப்பிடித்து-எரிந்த-சொகுசு-ஜீப்/175-347621) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Luxury Jeep Fire: A high-end vehicle was intentionally burned on the Borella-Kaduwela main road early today. The incident occurred near the intersection of these two prominent areas. Police are investigating the cause and potential suspects.
+
+🟩
+
+A luxury jeep was set on fire this morning at the Borella - Kaduwela main road.
+
+◼️
+
+[Data](articles/0800d804.json)
+
+[Extended Data](ext_articles/0800d804.ext.json)
+
+---
+
+### Explanation for Lohan's wife
+
+*2024-11-22 15:46:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவிக்கு-விளக்கமறியல்/175-347620) · `ta`
+
+Lohan Ratwatta's wife interrogated over luxury car misuse. Extended detention till Dec 2. Vehicle found at her home. Arrested Nov 4.
+
+🟩
+
+The wife of former diplomatic minister Lohan Ratwatta, who has been interrogated in connection with the illegal use of a luxury car, has been extended.
+
+Accordingly, the Nugegoda Magistrate today (22) issued an order to keep him back until December 2.
+
+The unregistered luxury vehicle was recovered from the house of Lohan Ratwatta's wife in Mirihana area.
+
+On the basis of this, Lohan Ratwatta's wife was arrested in the presence of Nugegoda Magistrate Ruwini Jayawardena on November 4 in the presence of her lawyer.. Remble
+
+◼️
+
+[Data](articles/6cb5cfc3.json)
+
+[Extended Data](ext_articles/6cb5cfc3.ext.json)
+
+---
+
+### Special test
+
+*2024-11-22 15:46:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகை-காலத்தையொட்டி-விசேட-சோதனை/175-347619) · `ta`
+
+Consumer Affairs Authority launches nationwide investigation during festive season. Special Task Force appointed to monitor price displays. Investigation continues until January 15th. Customers can report issues via emergency hotline 1977.
+
+🟩
+
+The Consumer Affairs Authority (CAA) has said that special rounds and investigations have been launched across the country, targeting the festive season.
+
+A spokesperson of the council said that more Special Task Force has been appointed for the current rounds.
+
+He said the tests would continue till the 15th of January and that the authorities had been directed to carry out special observations in displaying the prices of goods and services.
+
+The Consumer Authority said that customers can notify the Consumer Affairs Authority by inviting customers to the emergency telephone number 1977 regarding the problems of the festive season.
+
+◼️
+
+[Data](articles/c5aed696.json)
+
+[Extended Data](ext_articles/c5aed696.ext.json)
+
+---
+
+### There is no room for ethnic and religious differences in the country - the Governor of the Eastern Province
+
+*2024-11-22 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199418) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Eastern Province Governor Jayantalal Ratnasekara emphasizes unity, stating there's no room for ethnic/religious differences. He encourages cooperation to build the province, highlighting his work in Tamil areas.
+
+🟩
+
+There is no longer a place for ethnic and religious differences in the country. Eastern Province Governor Professor Jayantalal Ratnasekara said that all the Muslims and Muslims have voted in unison in the ongoing parliamentary general election.
+
+He was speaking at an event in Batticaloa on Friday.
+
+I want to speak in Tamil in Tamil areas. We lived with Tamils ​​35 years ago in Tirumala. தற்போது மாகாண ஆளுநர் அலுவலகத்தில் அதிகமான நேரங்களில் தமிழில்தான் கடமைகளை முன்னெடுத்து வருகின்றேன்.
+
+In a speech in the presidential parliament yesterday (21), it was reported that there is no longer a religious difference in the country and that we are all Sri Lankans and that Tamils, Muslims and all have voted in unity in the ongoing parliamentary general election.
+
+Sri Lanka is the only country for all of us. So I pray for the cooperation of all to build the Eastern Province. I pray for support from all people in their province. He mentioned.
+
+◼️
+
+[Data](articles/70306eae.json)
+
+[Extended Data](ext_articles/70306eae.ext.json)
+
+---
+
+### Risk of landslide: 2 families evacuating
+
+*2024-11-22 15:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்சரிவு-அபாயம்-2-குடும்பங்கள்-வெளியேற்றம்/76-347618) · `ta`
+
+Landslide risk forces 7 people from 2 families to evacuate in Badulla district due to heavy rainfall damaging plantation houses.
+
+🟩
+
+Badulla District Secretary Panduga Sri Prabhat Abeywardena said that seven people from 2 families living in the houses were advised to leave their homes today (22).
+
+Due to heavy rains, the plantation houses in the lower part of the Badulla - Telpeta estate have been affected by landslides.
+
+The walls of those houses have cracks and exploded and the wall has been demolished.
+
+◼️
+
+[Data](articles/e2000208.json)
+
+[Extended Data](ext_articles/e2000208.ext.json)
+
+---
+
+### Correction on electricity bills by the end of the year?
 
 *2024-11-22 15:31:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருட-இறுதிக்குள்-மின்-கட்டணத்தில்-திருத்தம்/175-347617) · `ta`
 
-மின்சார கட்டண திருத்தம் தொடர்பான அறிக்கையினை இலங்கை மின்சார சபை இன்றுவரை சமர்ப்பிக்காத நிலையில், மின்சார கட்டணத் திருத்தம் தொடர்பான இறுதித் தீர்மானத்தை இந்த வருடம் அறிவிக்க முடியாது என அந்த ஆணைக்குழு குறிப்பிட்டுள்ளது.
+Here's a summary in 200 characters:
 
-இலங்கை மின்சார சபையினால் அறிக்கை சமர்ப்பிக்கப்பட்டதன் பின்னர், அதனுடன் தொடர்புடைய நடவடிக்கைகளுக்காக 4 அல்லது 5 வாரங்கள் செலவிடப்படும் என பொதுப் பயன்பாட்டு ஆணைக்குழு தெரிவித்துள்ளது.
 
-முன்னதாக, மின்சாரக் கட்டணத்தைக் குறைப்பது தொடர்பான புதிய முன்மொழிவுகளை இந்த வாரம் பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பிக்க முடியும் என இலங்கை மின்சார சபை தெரிவித்திருந்தமை குறிப்பிடத்தக்கது. R
+
+Electricity bill correction delayed: CEB hasn't submitted report yet. PUC says review takes 4-5 weeks after submission. New tariff reduction proposals expected soon.
+
+🟩
+
+The Commission has stated that the final resolution on the electricity tariff amendment cannot be announced this year as the Ceylon Electricity Board has not submitted the report on the Electricity Targery Correction.
+
+The Public Utilities Commission said that after submitting the report by the Ceylon Electricity Board, 4 or 5 weeks will be spent on relevant activities.
+
+Earlier, the Ceylon Electricity Board (CEB) said that new proposals on the reduction of electricity tariffs could be submitted to the Public Applications Commission this week.. Remble
 
 ◼️
 
 [Data](articles/643c24f4.json)
 
+[Extended Data](ext_articles/643c24f4.ext.json)
+
 ---
 
-### A/L மாணவர்களுக்கு விசேட அறிவித்தல்
+### Special Notification for A/L Students
 
 *2024-11-22 15:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்கு-விசேட-அறிவித்தல்/175-347616) · `ta`
 
-2024 ஆம் ஆண்டு உயர்தரப் பரீட்சை காலத்தில் ஏற்படக்கூடிய அனர்த்தங்களைத் தவிர்ப்பதற்காகவும், பரீட்சையை இடையூறு இன்றி நடத்துவதற்காகவும் அனர்த்த முகாமைத்துவ மத்திய நிலையம் மற்றும் பரீட்சை திணைக்களமும் இணைந்து விஷேட வேலைத்திட்டம் ஒன்றை நடைமுறைப்படுத்தியுள்ளன.
+Here's a summary of the notification in approximately 200 characters:
 
-வங்கக் கடலில் வரும் வாரத்தில் குறைந்த காற்றழுத்த தாழ்வு நிலை உருவாகலாம் என வளிமண்டலவியல் திணைக்களம் கணித்துள்ளது.
 
-எனவே பரீட்சை காலத்தில் ஏற்படக்கூடிய அனர்த்த சூழ்நிலைகளை தவிர்த்து மாணவர்கள் பரீட்சையை வெற்றிகரமாக எதிர்கொள்ளும் வகையில் நல்ல சூழலை உருவாக்குவதற்காக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
 
-மாணவர்கள் பரீட்சைக்குத் தோற்றுவதைத் தடுக்கும் வகையில் ஏதேனும் அனர்த்தம் ஏற்பட்டால், சம்பந்தப்பட்ட நிலையத்தை அடைவதற்கான உதவிகளைப் பெறுவதற்கு சில தொலைபேசி இலக்கங்களும் அறிமுகப்படுத்தப்பட்டுள்ளன.
+"Special program for A/L students: Disaster Management Center & Exam Dept. prepare for potential cyclones in Bay of Bengal. Emergency hotlines: 117, 0113 668 020/100/013/010, 076 3 117 117. Contact 1911 for immediate coordination."
 
-இதன்படி, அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் அவசர இலக்கமான 117 அல்லது விசேட ஒருங்கிணைந்த அவசர செயற்பாட்டு அறை இலக்கங்களான 0113 668 020 / 0113 668 100 அல்லது 0113 668 013 / 0113 668 010 மற்றும்076 3 117 117 ஆகிய இலக்கங்களுக்கு அழைக்க முடியும்.
+🟩
+
+The Disaster Management Center and the Department of Examination have implemented a special program in order to avoid disasters and disruption of the examination during the 2024 GCE Advanced Level Examination.
+
+The Department of Meteorology predicts that low winds may develop in the coming week of the Bay of Bengal.
+
+Therefore, this action has been taken to create a good environment to ensure that students can successfully face the exam, except for the disaster situations that may occur during the exam period.
+
+In the event of any disaster to prevent students from appearing for the exam, some telephone numbers have been introduced to get help to reach the concerned station.
+
+Accordingly, the Emergency Center of the Disaster Management Center, 117 or Special Integrated Emergency Operations Rooms, 0113 668 020/ 0113 668 100 or 0113 668 013/0113 668 010 and 076 3 117 117.
 
 ...
 
 [Data](articles/d8bb1219.json)
+
+[Extended Data](ext_articles/d8bb1219.ext.json)
+
+---
+
+### மாத்தறையில் பஸ் சாரதி மீது தாக்குதல் !
+
+*2024-11-22 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199413) · `ta`
+
+Matara: Bus driver attacked, phone stolen in Aluthgama incident under investigation.
+
+🟩
+
+Aluthgama police have launched an investigation into the attack on a private bus and bus driver in Matara.
+
+Investigations have been launched based on a complaint lodged at the 51 -year -old bus driver in the Tevinuwara area in Matara.
+
+The complainant is engaged in an argument with another bus driver while traveling from Colombo to Matara.
+
+Subsequently, when the complainant stopped the bus in Aluthgama, a group of people who went to the three -wheeler attacked the driver of the bus and the driver of the bus, stole the driver's mobile phone and escaped.
+
+◼️
+
+[Data](articles/4cce8fe6.json)
+
+[Extended Data](ext_articles/4cce8fe6.ext.json)
+
+---
+
+### Special announcement to all Sri Lankans working in Kuwait
+
+*2024-11-22 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203628) · `si`
+
+Here's a summary of the announcement in approximately 200 characters:
+
+
+
+Sri Lankan workers in Kuwait: Deadline for fingerprints is Dec 31, 2024. Use Sahel software or MATTA for fingerprinting. Choose nearest location. Security directors in specific areas. Government and banks must comply.
+
+🟩
+
+The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide their livestock to workers and foreigners working in Kuwait.
+
+The deadline that can be given to the fingerprints will end on December 31, 2024.
+
+The Sri Lanka Bureau of Sri Lanka (SLBFE) has issued an announcement and all Sri Lankan workers working in Kuwait is given to the internal ministry in the internal ministry.
+
+As a result, the time is available to be reserved for the use of "Sahel" software belonging to Kuwait, or to give fingerprinting through the "MATTA".
+
+It is also given the opportunity to choose a close place to give fingerprints.
+
+According to the Foreign Employment Bureau, he has placed it in the security directors of Havali, Farwania, Ahama, Ahamad, Mubar, JHra.
+
+In addition, the announcement states that the people of Ali Sabbala Al Salim, Um Al-Nemaan and Jahara areas.
+
+...
+
+[Data](articles/6e85caef.json)
+
+[Extended Data](ext_articles/6e85caef.ext.json)
+
+---
+
+### Yall. Those who cut the calf in Kayts
+
+*2024-11-22 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199410) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Calf theft in Kayts, Jaffna: Thieves cut calf, flee after locals intervene. Police recover motorcycle & 200kg beef. Incident sparks community concern about rising cattle thefts.
+
+🟩
+
+They have fled when they tried to catch the people who cut a calf of meat in the Kayts area of ​​Jaffna.
+
+A motorcycle and about 200 kg of beef have been rescued by the townspeople and handed over to the police
+
+In the Kayts, Suruvil area, on Friday (22), the high -quality cab was smuggled into the greenery, cutting it in the abdomen, throwing the calf out in the stomach, and cutting the meat into pieces, and the people who were cutting the cow, and the carriage were folded.They have abandoned the meat and fled.
+
+Following the announcement of the Kayts police in connection with the incident, the police have launched investigations and have taken the motorcycle and meat to the police station.
+
+The incident of kidnapping and cutting down a calf of a calf of a calf today has caused anxiety among the townspeople and demanded immediate action to control if the illegal action of cutting cows in the islands is increased.
+
+◼️
+
+[Data](articles/3e3fcfc6.json)
+
+[Extended Data](ext_articles/3e3fcfc6.ext.json)
+
+---
+
+### November Adult Offer to the Bank Account
+
+*2024-11-22 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203627) · `si`
+
+Government deposits Rs. 3,000 in bank accounts. 511,086 individuals receive allowances totaling Rs. 1,533,258,000. Funds available for withdrawal on November 22.
+
+🟩
+
+The government has announced that the government has obtained Rs. 3,000.
+
+The government has banked the money regarding the month of November and the government has issued a statement that the money could be obtained from the Banking Account today (22).
+
+The allowance is paid to 511,086 persons under the Quality Scheme and Rs. 1,533,258,000 has been allocated for this month.
+
+◼️
+
+[Data](articles/257424f0.json)
+
+[Extended Data](ext_articles/257424f0.ext.json)
 
 ---
 
@@ -83,6 +443,34 @@ A holder of numerous patents, Professor Udugamasooriya’s decision to transitio
 ...
 
 [Data](articles/f61a56be.json)
+
+[Extended Data](ext_articles/f61a56be.ext.json)
+
+---
+
+### Siddhartha Uddaha Udugasuriya is a Senior senior adviser
+
+*2024-11-22 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203626) · `si`
+
+Siddhartha Uddaha Udugasuriya: Senior Adviser at Houston University & MD Professor. Appointed as Senior Advisor to Science & Technology at Anderson Cancer Research Institute. Graduated in Chemistry from University of Colombo. Holds PhD from Michigan State University. Awarded honorary position as Senior President in the US.
+
+🟩
+
+Houston University and M. D. Professor Global Udugasuriya was appointed as Senior Advisor to Science and Technology in the Anderson Cancer Research Institute.
+
+The appointment letter for this is presented to the Presidential Secretary to the Presidential Secretariat today (22) by President's Secretary to the President.
+
+Colombo D. S. Global Udugasuriya, an alumni of Senanayake College, is a graduate of chemistry at the University of Colombo.
+
+It also won the PhD of the Michigan Wayne Staten Staten Staten Staters, Texas and Western Medical Center.
+
+Global Udugasuriya, hearing a patent, and he joined the position of Senior President as a honor of the US.
+
+◼️
+
+[Data](articles/f7d57e12.json)
+
+[Extended Data](ext_articles/f7d57e12.ext.json)
 
 ---
 
@@ -1991,337 +2379,5 @@ A cornerstone of successful debt recovery lies in preserving the business’s op
 [Data](articles/8fe0311f.json)
 
 [Extended Data](ext_articles/8fe0311f.ext.json)
-
----
-
-### Pathway for economic development of Sri Lanka
-
-*2024-11-22 01:11:29* · [`dailyftlk`](https://www.ft.lk/columns/Pathway-for-economic-development-of-Sri-Lanka/4-769524) · `en`
-
-It appears that FDIs most probably have deliberately avoided investing in SL mainly due to the poor political instability prevailing in the country from about 1956
-
-The path to prosperity of Sri Lanka starts from political stability to enable it to attract mainly FDI as it lacks the capital, skills, technologies and the required international market access to start an export-led strategy of economic development to achieve higher growth and reduce poverty. In this strategy it is important to emphasise on promoting especially the productivity (of the private sector, (which has been described as the ‘the engine of growth’) apart from upgrading the macroeconomic stability of the country and the international market access
-
-...
-
-[Data](articles/3b274533.json)
-
-[Extended Data](ext_articles/3b274533.ext.json)
-
----
-
-### We are trying to give the national list to Hirunika
-
-*2024-11-22 01:10:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-தேசிய-பட்டியல்-கொடுக்க-முயற்சிக்கிறோம்/175-347599) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-United People's Power candidates Eran Wickremaratne and Hirunika Premachandra narrowly lost local elections. Party leader seeks national list seats for them. President's speech focused on IMF projects but lacked clear foreign policy stance.
-
-🟩
-
-Eran Wickremaratne and Hirunika Premachandra, who worked hard for the United People's Power, lost by a small number of votes. "We are trying to get them a national list," said Harsha de Silva, Colombo district MP.
-
-He said this while speaking to the media after the President's Policy Declaration held in Parliament yesterday.
-
-I am firmly in the position that the National List of the United People's Power should be resolved quickly.Eran Wickremaratne and Hirunika Premachandra, who worked hard for the party, lost by a small number of votes. We are trying to get them a national list seat.
-
-The president's speech has been mentioned many things. The President noted that the project with the Monetary Fund continues to be carried out. This is what we have been saying from the beginning.
-
-The president does not clearly mention his policy declaration on foreign policy. So this is a bit of a matter of observation. He said the government should reveal what kind of foreign policy it is.
-
-◼️
-
-[Data](articles/676ebf7b.json)
-
-[Extended Data](ext_articles/676ebf7b.ext.json)
-
----
-
-### End of Tamil nationalism? Not according to the numbers
-
-*2024-11-22 00:55:12* · [`dailyftlk`](https://www.ft.lk/opinion/End-of-Tamil-nationalism-Not-according-to-the-numbers/14-769523) · `en`
-
-An analysis of Sri Lankan election data highlights a collapse of many Government affiliated parties and reveals why Tamil nationalism might be growing – not shrinking
-
-The 2024 Sri Lankan Parliamentary election concluded last week, in which the ruling National People’s Power (NPP) gained a record majority and made headway into the Tamil homeland. There were notable casualties for senior Tamil nationalist politicians and for the first time ever a southern political party managed to gain a majority in all but one district in the north-east. Commentators have since speculated whether the result spells the beginning of the end for Tamil nationalist politics.
-
-Instead, the figures highlight a range of factors, including the fall of other southern Opposition political parties, leftist coalitions and paramilitary groups that allowed the NPP to siphon votes and grow their base amongst those who had already previously voted for pro-state forces.
-
-...
-
-[Data](articles/1a242b79.json)
-
-[Extended Data](ext_articles/1a242b79.ext.json)
-
----
-
-### End of Tamil nationalism? Not according to the numbers
-
-*2024-11-22 00:55:12* · [`dailyftlk`](https://www.ft.lk/columns/End-of-Tamil-nationalism-Not-according-to-the-numbers/4-769523) · `en`
-
-An analysis of Sri Lankan election data highlights a collapse of many Government affiliated parties and reveals why Tamil nationalism might be growing – not shrinking
-
-The 2024 Sri Lankan Parliamentary election concluded last week, in which the ruling National People’s Power (NPP) gained a record majority and made headway into the Tamil homeland. There were notable casualties for senior Tamil nationalist politicians and for the first time ever a southern political party managed to gain a majority in all but one district in the north-east. Commentators have since speculated whether the result spells the beginning of the end for Tamil nationalist politics.
-
-Instead, the figures highlight a range of factors, including the fall of other southern Opposition political parties, leftist coalitions and paramilitary groups that allowed the NPP to siphon votes and grow their base amongst those who had already previously voted for pro-state forces.
-
-...
-
-[Data](articles/48cb569f.json)
-
-[Extended Data](ext_articles/48cb569f.ext.json)
-
----
-
-### Model election amendments should be made
-
-*2024-11-22 00:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திருத்தங்களை-மேற்கொள்ள-வேண்டும்/175-347598) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Support proportional electoral system to empower small parties and minorities. Leader Rauf Hakeem calls for election amendments to maintain this system.
-
-🟩
-
-Once again we would like to recall that by continuing the proportional electoral system, all the smallest parties of this country have the opportunity for the minority people.. United People's Power MP and Sri Lanka Muslim Congress leader Rauf Hakeem said that we should make the necessary election amendments to continue.
-
-He said this while congratulating Dr. Asoka Sabumal Ranwala, who was appointed as the new Speaker of the 10th Parliament on Thursday in Parliament yesterday.
-
-You have been elected as a new Speaker, not a Member of Parliament before, in the changing political age. We bow down to the judgment of the people who voted to make this change.. This means that the Speaker of the People's Liberation Front (JVP), which you represent the Speaker, arrives in Parliament in 1994
-
-...
-
-[Data](articles/ee6452d2.json)
-
-[Extended Data](ext_articles/ee6452d2.ext.json)
-
----
-
-### Trade Union action demanding resignation and inquiries against Ruhuna University VC
-
-*2024-11-22 00:46:40* · [`dailyftlk`](https://www.ft.lk/opinion/Trade-Union-action-demanding-resignation-and-inquiries-against-Ruhuna-University-VC/14-769522) · `en`
-
-Prime Minister and Education and Higher Education Minister Dr. Harini Amarasuriya
-
-I am making a request from you as the Hon Minister of Education which I think is reasonable from my side. I would like all these groups to submit the new allegations against me and make these known to me before removing me from the post
-
-Following is a letter written by University of Ruhuna Vice Chancellor Prof. Sujeewa Amarasena to Prime Minister and Education and Higher Education Minister Dr. Harini Amarasuriya against trade union action demanding his resignation and inquiries against him.
-
-...
-
-[Data](articles/30d2efc6.json)
-
-[Extended Data](ext_articles/30d2efc6.ext.json)
-
----
-
-### Virus called brutal ragging
-
-*2024-11-22 00:41:43* · [`dailyftlk`](https://www.ft.lk/columns/Virus-called-brutal-ragging/4-769521) · `en`
-
-In a country which still prefers lackeys to competent men, we are bound to come across many more Hirushans either in ICUs or in coffins
-
-The University of Ruhuna seems to be very well quarantined. Under an extremely capable Consultant Paediatrician, it seems to have been saved from a killer virus which has invaded the entire Sri Lankan body of public universities causing occasional deaths, permanent injuries and life-long psychological scars. A virus called Brutal Ragging.
-
-...
-
-[Data](articles/4b48184e.json)
-
-[Extended Data](ext_articles/4b48184e.ext.json)
-
----
-
-### Prasanna Ranatunga, Ramesh Pathrana and Roshan Ranasinghe appeared at the CIT
-
-*2024-11-22 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199370) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-3 former ministers appear CID re: substandard drug import scandal. CID to summon 18 ministers over Cabinet decision. Massive corruption alleged in Health & Sports ministries.
-
-🟩
-
-Former Ministers Prasanna Ranatunga, Ramesh Pathrana and Roshan Ranasinghe appeared at the Criminal Investigation Department on Thursday morning to make a statement on the incident of importing substandard drugs and distributing them to state hospitals.
-
-The Criminal Investigation Department said that the Criminal Investigation Department (CID) will receive a statement to 18 ministers, including former President Ranil Wickremesinghe and former Prime Minister Dinesh Gunawardena, in connection with the Cabinet's appointment of former Health Minister Keheliya Rambukwella to import substandard drugs.
-
-They were invited to the Criminal Investigation Department today. We came and gave them the necessary information. Like the Ministry of Health, there has been massive corruption scandals in the Ministry of Sports.
-
-◼️
-
-[Data](articles/94ac0711.json)
-
-[Extended Data](ext_articles/94ac0711.ext.json)
-
----
-
-### The Porter - Kavaskar series also becomes a resolution Test Championships;The first Test is the beginning of today
-
-*2024-11-22 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199369) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-India vs Australia Porter-Kavaskar Test series begins tomorrow. India aims to win for the third time, while Australia seeks to regain the series on home soil. Jasprit Bumrah leads India after Rohit Sharma's absence due to family reasons. Both teams eye World Test Championship qualification.
-
-🟩
-
-The Porter -Kavaskar Test cricket series between India and Australia, which has the highly anticipated five -pronged match by cricket fans, begins tomorrow (22) with the first Test match at the Perth Stadium.
-
-The series is believed to be the most exciting, as these two teams, which are in the top two in the Test Championships, will play with the aim of qualifying for the World Cup final.
-
-India, which won the last two Porter -Kavaskar series in Australia between the two teams, will try to win the series for the third time.. At the same time, Australia is set to end the series on its own soil and re -capture the series.
-
-Rohit Sharma has announced to the Indian Cricket Control Board that he should have a few days to help his wife as his wife has given birth to a second child.
-
-As a result, the team's vice president Jasprit Bumrah has been given the chief responsibility in the first Test.
-
-...
-
-[Data](articles/fb1cc130.json)
-
-[Extended Data](ext_articles/fb1cc130.ext.json)
-
----
-
-### Inaugurating the first session of the tenth parliament, the full speech made by the President
-
-*2024-11-22 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199368) · `ta`
-
-N
-
-🟩
-
-Today is a special day in our Parliament. The authority was handed over to both groups. Our side has empowered the last presidential election. It is important in the history of Sri Lanka.Most MPs have been selected in our country's electoral system. All the provinces and people have contributed to it as the North and East.
-
-Political parties have been formed on the basis of provinces, nationalism and religions for so long. So the separation, doubt and racism were strengthened between people. When racism is strengthened on one side, racism will be strengthened against it. Racism will not be in the same place. We have seen the history of it in our country, politics and society. But we thank all the people who believe in us.
-
-There are people who believe in other parties without trusting us. That is democracy. It is not democratic to create people's activities surrounding a single party.
-
-...
-
-[Data](articles/79d87df1.json)
-
-[Extended Data](ext_articles/79d87df1.ext.json)
-
----
-
-### 2024-11-21 (Thursday)
-
-### 3 சதவீதத்தில் இருந்து 42 சதவீதமாக பதினான்கு மடங்கு பாய்ச்சலில் அநுர குமார திசாநாயக்க எவ்வாறு ஜனாதிபதி பதவியை வென்றெடுத்தார்?
-
-*2024-11-21 23:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85111) · `en`
-
-அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் – 6
-
-ஜனதா விமுக்தி பெரமுனவினதும் ( ஜே.வி.பி.) தேசிய மக்கள் சக்தியினதும் தலைவர் அநுரா குமார திசாநாயக்க 2019 நவம்பர் ஜனாதிபதி தேர்தலில் திசைகாட்டி சின்னத்தில் போட்டியிட்டார். வெறுமனே 418, 553 ( 3.16 சதவீதம் ) வாக்குகளைப் பெற்று மிகவும் அவர்  பின்தங்கிய ஒரு மூன்றாவது இடத்துக்கு வந்தார். மோசமான தோல்வியைக் கண்டு அவர் துவண்டு போகவில்லை. தனது படிமத்தை புதுப்பித்துக்கொண்டு தனது கட்சியின் அரசியல் அணுகுமுறையை முற்றிலும் வேறுபட்டதாக மாற்றிக்கொண்டார்.
-
-அதன் மூலமாக ஜே.வி.பி. தலைமையிலான தேசிய மககள் சக்தியில் அவரால் மெச்சத்தக்க ஒரு மறுமலர்ச்சியை ஏற்படுத்தக்கூடியதாக இருந்தது. 2024 செப்டெம்பர் 21 ஜனாதிபதி தேர்தலில் அநுரா குமார திசாநாயக்க முதலாவதாக வந்தார். அரசியல் ரீதியில் அது ஒரு பிரமாண்டமான பாய்ச்சல். அவர் முதலாவது சுற்று வாக்கு எண்ணிக்கையில் 5, 634, 915 ( 42.31 சதவீதம் )  வாக்குகளையும் இரண்டாவது சுற்று எண்ணிக்கையில் 5, 740, 179 ( 55.89 சதவீதம் ) வாக்குகளையும் பெற்றார். அது உண்மையில் பிரபல்யமான ஒரு  வெற்றியேயாகும்.
-
-...
-
-[Data](articles/81bf3fe3.json)
-
-[Extended Data](ext_articles/81bf3fe3.ext.json)
-
----
-
-### Group to solve the damage caused by animals
-
-*2024-11-21 22:49:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலங்குகளால்-ஏற்படும்-சேதத்திற்கு-தீர்வு-காண-குழு/175-347597) · `ta`
-
-Ministry of Agriculture leads group to address animal damage. Strategies discussed for long-term solutions against monkeys and pests harming coconut and fruit crops. Representatives from 15 organizations participate, including wildlife conservation, agriculture departments, research institute, military, and civil defense.
-
-🟩
-
-The Ministry of Agriculture, Livestock, Lands and Irrigation. This effort aims to implement a number of strategies for stable control.
-
-Discussion focused on identifying permanent solutions to control monkeys and other animals that cause major damage to major crops such as coconuts and fruits.
-
-Representatives of about 15 companies, including the Ministry of Agriculture, Livestock, Lands and Irrigation, Department of Wildlife Conservation, Department of Agriculture, Agricultural Research Institute, Sri Lanka Army and Civil Defense Force participated.
-
-◼️
-
-[Data](articles/bd9f2060.json)
-
-[Extended Data](ext_articles/bd9f2060.ext.json)
-
----
-
-### Jetstar Asia commences direct flights to Sri Lanka
-
-*2024-11-21 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103678/jetstar-asia-commences-direct-flights-to-sri-lanka-) · `en`
-
-Singapore-based low-cost airline Jetstar Asia (3K) celebrated the launch of its direct flights between Singapore and Colombo today, as the Singapore carrier becomes the only low-cost airline to operate the route.
-
-Departing from Singapore’s Changi Airport, the inaugural flight Flight 3K333 touched down in Colombo this morning (21) heralding the start of more affordable and convenient options for travellers wanting to explore Sri Lanka’s vibrant and captivating capital.
-
-With five return flights each week, operated by their fleet of Airbus A320s, the new route offers travellers a choice of morning or evening departures, providing convenient options for those connecting through Singapore, according to Jetstar.
-
-...
-
-[Data](articles/20e2b3bd.json)
-
-[Extended Data](ext_articles/20e2b3bd.ext.json)
-
----
-
-### Tamil Nadu's Parliamentary Committee
-
-*2024-11-21 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199367) · `ta`
-
-Tamil Nadu Parl't Committee meets Indian HC over TNA future & India's role in Sri Lankan politics.
-
-🟩
-
-The meeting between the parliamentary committee of the Sri Lanka Tamil State Party and the Indian High Commissioner to Sri Lanka Santosh Jaw was held on Thursday (21) at the Indian High Commission in Colombo.
-
-During the meeting between the Tamil Nadu Parliamentary Committee and the Indian High Commission, led by Member of Parliament Sivagnanam Sreedharan, a number of issues were discussed, including the future of the TNA and the role of India in such political moves.
-
-◼️
-
-[Data](articles/08f845f8.json)
-
-[Extended Data](ext_articles/08f845f8.ext.json)
-
----
-
-### The superior innings of Venas is wasted
-
-*2024-11-21 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203608) · `si`
-
-Bangla Tigers vs Bang Shakers T-10 match summary: Tigers scored 106 runs in 10 overs, with Views contributing significantly with 43 runs including 6 sixes and 4 fours. AM team chased down the target of 9.3 balls.
-
-🟩
-
-The Bangla Taigers played to the Bang Shakers team to defeat the second match against the Second match against the Second match against the Second match against the Second match against the Second Competition of the Abuvi T-10 team.
-
-Batting first Bangla Taigers scored 106 runs in the 10 overs.
-
-It was significant that only 49 runs after the first 7 overs were collected in this innings.
-
-Views played by a meritious
-
-The first 16 balls with visits were only scored.
-
-However, he was able to collect 43 runs.
-
-Views included 6 huge six and four fours.
-
-However, a group of AM was able to cross the 9.3-ball target of the Bangla Taigers.
-
-◼️
-
-[Data](articles/0c90ed52.json)
-
-[Extended Data](ext_articles/0c90ed52.ext.json)
 
 ---

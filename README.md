@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 20:41:25**
+As of **2024-11-23 20:00:52**
 
 ## Newspaper Stats
 
-*Scraped **56,490** Articles*
+*Scraped **56,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,307
-adaderanalk | 6,828
-tamilmirrorlk | 8,032
+adaderanalk | 6,827
+tamilmirrorlk | 8,031
 virakesarilk | 9,193
 adaderanasinhalalk | 9,751
 
@@ -26,51 +26,11 @@ adaderanasinhalalk | 9,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,488 (100.0%) of 56,490 articles have been extended.
+56,488 (100.0%) of 56,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
-
-### வீடுகளை ஒப்படைக்காத முன்னாள் எம்.பிக்கள்
-
-*2024-11-23 20:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடுகளை-ஒப்படைக்காத-முன்னாள்-எம்-பிக்கள்/175-347658) · `ta`
-
-முன்னாள் எம்.பிக்கள் சுமார் 30 பேர் தங்களுடைய உத்தியோகபூர்வ வாசஸ்தலங்களை மீள ஒப்படைக்கவில்லை என்று தெரிவிக்கப்பட்டுள்ளது.
-
-சில முன்னாள் பாராளுமன்ற உறுப்பினர்கள் தங்களது உத்தியோகபூர்வ வாசஸ்தலங்களில் இருந்து உடமைகளை அகற்றி வருவதாக பாராளுமன்ற வட்டாரங்கள் குறிப்பிட்டுள்ளன.
-
-புதிய பாராளுமன்ற உறுப்பினர்களுக்கு வாசஸ்தலங்களை வழங்க வேண்டியுள்ளதாக தெரிவித்து, முன்னாள் பாராளுமன்ற உறுப்பினர்களுக்கு குறித்த வீடுகளை மீள ஒப்படைக்குமாறு அறிவிக்கப்பட்டது.
-
-அதன்படி நேற்று (22) முன்னாள் பாராளுமன்ற உறுப்பினர்கள் 7 பேர் தங்களுடைய வாசஸ்தலங்களை விட்டு வெளியேறியுள்ளனர்.
-
-இதேவேளை, குறித்த வீடுகளை ஒப்படைக்காவிடின், நீர் மற்றும் மின்சாரம் துண்டிக்கப்படும் என பாராளுமன்றத்தின் செயலாளர் நாயகம் குஷானி ரோஹணதீர அண்மையில் பாராளுமன்ற உறுப்பினர்களுக்கு எழுத்து மூலம் அறிவித்திருந்தார்.
-
-இதேவேளை, மாதிவெல பிரதேசத்தில் அமைந்துள்ள பாராளுமன்ற உறுப்பினர் வீடமைப்புத் தொகுதியில் இருந்து வீடுகளை பெற்றுத் தருமாறு சுமார் 35 பாராளுமன்ற உறுப்பினர்கள் கோரிக்கை விடுத்துள்ளனர்.
-
-...
-
-[Data](articles/da44a326.json)
-
----
-
-### Sri Lanka ‘should be vigilant’ about Adani power deal following US indictment, say experts
-
-*2024-11-23 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103711/sri-lanka-should-be-vigilant-about-adani-power-deal-following-us-indictment-say-experts) · `en`
-
-Sri Lanka should be vigilant about the Adani power project in the island, experts said, after Federal prosecutors in New York indicted Group Chairman Gautam Adani and seven others on multiple counts of fraud.
-
-Sri Lanka has often seen cases of significant corruption in the country being exposed in other jurisdictions, according to Nishan De Mel, Executive Director of Verité Research, a Colombo-based think tank.
-
-He referred to the allegations of bribery in Sri Lankan Airlines’ purchase of aircraft from Airbus, which surfaced in a United Kingdom-based investigation a few years ago, and to the Pandora Papers that threw up names of local politicians and businessmen.
-
-“It is very important for Sri Lanka to redouble its efforts against corruption, to ensure that we are protected from corrupt deals,” he told The Hindu.
-
-...
-
-[Data](articles/903b8fcd.json)
-
----
 
 ### A/L is prohibited to use the phone during the examination
 
@@ -2375,5 +2335,63 @@ A long exchange between the two sides has taken place regarding the steps to fre
 [Data](articles/3bb6c016.json)
 
 [Extended Data](ext_articles/3bb6c016.ext.json)
+
+---
+
+### Sri Lanka certified in Japan
+
+*2024-11-22 20:28:52* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-සහතිකයක්/11-413215) · `si`
+
+Sri Lanka-Japan ties strengthen as Presidential Secretary meets Japanese Ambassador. Both nations commit to fostering bilateral relations and supporting each other's policies.
+
+🟩
+
+Presidential Secretary Dr. Nandika Sanath Sanath and Japanese Ambassador Akassomata (AKIO ISOMATA) took place at the Presidential Secretariat this afternoon.
+
+The High Commissioner for the new government led by President Anura Kumara Dissanayake, the High Commissioner of Japan is expected to continue continuously forwarding bilateral relations between the two countries.
+
+The Government of Japan, who praised the government's new policy of creating a country without a country's new policy and the country's new policy of promotion of waste and corruption, the Government of Sri Lanka will be given the best support of the Sri Lanka Government and President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/19e85ab8.json)
+
+[Extended Data](ext_articles/19e85ab8.ext.json)
+
+---
+
+### India, Aussie. Capital rows are a little bit of fast bowlers;17 wickets on the first day
+
+*2024-11-22 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199454) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+India vs Australia Test: Fast bowlers dominate first day. India batsmen struggle, losing all wickets for 150 runs. Rishabh Pant and Nitish Kumar save India with 78-run partnership. Australia replies with 67/7. Jasprit Bumrah takes 4/17 for India.
+
+🟩
+
+India and Australia were unable to face fast bowling in the first portter -Kavaskar Test match between the world's first Test teams at the Perth Stadium.
+
+On Friday (22), the opening day of the match, 17 wickets were taken and they all owned the fast bowlers.
+
+The first day of the match, which played as leaders, was dominated by the fast bowlers.
+
+India decided to bat first and lost all wickets in 49.4 overs and curled up for 150 runs.
+
+Yaswvi Jaiswal (0), Davatat (0), Senior Anupavasali Virat Kohli (5), KL. Rahul (26), Dhruv Jurel (11) and Washington Sundar (4) in the central line were 73 runs.
+
+However, both Rishabh Bond and Nitish Kumar Reddy were very relaxed and saved India from the fall.
+
+Rishabh Bond scored 37 runs and Nitish Kumar Reddy scored 41 runs.
+
+The two were the first of the 48 runs that they both shared in the 7th wicket.
+
+...
+
+[Data](articles/6091b634.json)
+
+[Extended Data](ext_articles/6091b634.ext.json)
 
 ---

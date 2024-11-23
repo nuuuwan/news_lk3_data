@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 05:25:58**
+As of **2024-11-23 05:50:07**
 
 ## Newspaper Stats
 
-*Scraped **56,416** Articles*
+*Scraped **56,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 586
-islandlk | 3,367
+islandlk | 3,375
 economynextcom | 3,427
 dailyftlk | 3,879
 dailymirrorlk | 4,733
@@ -26,25 +26,103 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,415 (100.0%) of 56,416 articles have been extended.
+56,416 (100.0%) of 56,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### ஐ.எம்.எப். மூன்றாவது மீளாய்வு கலந்துரையாடல் வெற்றி
+### People’s Bank achieves multiple feats in digital marketing sphere
+
+*2024-11-23 02:01:00* · [`islandlk`](http://island.lk/peoples-bank-achieves-multiple-feats-in-digital-marketing-sphere/) · `en`
+
+People’s Bank has again demonstrated its leadership in digital banking and marketing, becoming the first Sri Lankan bank to exceed 100,000 subscribers in both Youtube and Tiktok platforms. Accordingly, the bank received the prestigious YouTube Silver Button recently.
+
+These achievements underscore the bank’s commitment to leverage social media to connect with and educate the public while promoting its financial products and services.
+
+Recognized for its impactful digital content, People’s Bank has used platforms like YouTube, Facebook, Instagram and TikTok to address critical social issues such as women empowerment, gender equality, and preservation of cultural values, with some videos garnering over 2.5 million views.
+
+People’s Bank has already stamped its leadership in digital marketing arena in Sri Lanka by surpassing 3 million customer registrations on its digital platforms.
+
+...
+
+[Data](articles/20a1b039.json)
+
+---
+
+### Bank stocks spur following expectations on positive credit profile of the sector
+
+*2024-11-23 02:01:00* · [`islandlk`](http://island.lk/bank-stocks-spur-following-expectations-on-positive-credit-profile-of-the-sector/) · `en`
+
+LOLC Holdings has said it divested 9.73 percent of its ordinary voting shares held in DFCC Bank through its sub-subsidiary LOLC Investment Holdings Three (Private) Limited for Rs 3.5 billion.
+
+A total 42.1 million shares were sold at Rs 85.00 each, the company has reported to CSE that LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issue in 2022.LOLC Holdings stock was trading flat at 448.00. DFCC Bank stock was trading flat at 86.20
+
+Amid those developments the banking sector counters indicated acute buying interest following the Fitch Ratings announcement that they have confidence in the Sri Lankan banking sector. This has created some impetus to the market yesterday.
+
+...
+
+[Data](articles/296985cb.json)
+
+---
+
+### FAAMA successfully concludes 17th Annual General Meeting
+
+*2024-11-23 02:01:00* · [`islandlk`](http://island.lk/faama-successfully-concludes-17th-annual-general-meeting/) · `en`
+
+Association working with govt to implement favourable policies for apparel industry
+
+The Fabric and Apparel Accessory Manufacturer’s Association (FAAMA), a subsidiary association of the Joint Apparel Association Forum of Sri Lanka (JAAF), hosted its 17th Annual General Meeting (AGM) 2024, at Jetwing Colombo Seven on the 29th of the October 2024.
+
+The event was attended by chief guest, Doug Sonnek, the Deputy Chief of Mission, U.S. Embassy in Sri Lanka, and guest of honour Saif Jafferjee, Chairman of the JAAF Sri Lanka.
+
+The AGM also was attended by representatives of JAAF member associations including Yohan Lawrence, JAAF SL Secretary General, and other distinguished guests such as Renuka M. Weerakoon, Director General of the Board of Investment (BOI) of Sri Lanka and P.B Hemantha Jayasinghe, Director General of Central Environmental Authority (CEA).
+
+Hilton Sri Lanka unveils festive experiences across its Iconic destinations
+
+...
+
+[Data](articles/6cf89b71.json)
+
+---
+
+### Hilton Sri Lanka unveils festive experiences across its Iconic destinations
+
+*2024-11-23 01:55:00* · [`islandlk`](http://island.lk/hilton-sri-lanka-unveils-festive-experiences-across-its-iconic-destinations/) · `en`
+
+Hilton Sri Lanka is set to welcome the holiday season with a vibrant array of festive experiences across its esteemed properties. This year, the festivities are carefully crafted to evoke the warmth of home, where traditions are celebrated and new memories are created. Spanning multiple hotels—from the bustling city of Colombo to the serene landscapes of Yala and Weerawila—Hilton Sri Lanka’s holiday offerings promise unique celebrations infused with local flavor and global flair.
+
+Hilton Colombo began the festive season in style with a Christmas tree lighting ceremony on 13 November 2024.
+
+Hilton Colombo Residences introduces ‘Hilton Holidays,’ a series of festive experiences designed for families and business gatherings alike. From 1 – 29 December 2024.
+
+DoubleTree by Hilton Weerawila Rajwarna Resort invites families to create unforgettable memories with a schedule packed with holiday activities for all ages.
+
+...
+
+[Data](articles/500e8656.json)
+
+---
+
+### IMF. Winning the Third Review Discussion
 
 *2024-11-23 01:29:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-மூன்றாவது-மீளாய்வு-கலந்துரையாடல்-வெற்றி/175-347642) · `ta`
 
-சர்வதேச நாணய நிதியத்துடன் நடத்தப்பட்ட மூன்றாவது மீளாய்வு கலந்துரையாடல் நேற்று (22) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+Sri Lanka completes IMF third review discussion successfully. Government representatives met with IMF officials, led by Senior Delegation Peter Bruver. Economic Development Deputy Minister Anil Jayantha Fernando attended on behalf of the government.
 
-இதில் சர்வதேச நாணய நிதியத்தின் சார்பில் சிரேஷ்ட தூதுக்குழு பிரதானி பீட்டர் ப்ரூவர் உள்ளிட்ட பிரதிநிதிகள் கலந்துகொண்டிருந்ததுடன் இலங்கை அரசாங்கம் சார்பில் பொருளாதார அபிவிருத்தி பிரதியமைச்சர் அனில் ஜயந்த பெர்னாண்டோ உள்ளிட்ட குழுவினரும் கலந்துகொண்டனர்.
+🟩
 
-இதன்படி, சர்வதேச நாணய நிதியத்திற்கும் இலங்கை அரசாங்கத்திற்கும் இடையில் இடம்பெற்ற மூன்றாவது மீளாய்வு தொடர்பான கலந்துரையாடல் வெற்றிகரமாக நிறைவடைந்துள்ளது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+The third review discussion with the International Monetary Fund was held yesterday (22) at the Presidential Office.
+
+Representatives including Senior delegation Peter Bruver, Principal of the International Monetary Fund, were present on behalf of the Government of Sri Lanka, including Economic Development Deputy Minister Anil Jayantha Fernando.
+
+Accordingly, the third review discussion between the International Monetary Fund and the Government of Sri Lanka has been successfully completed, the Presidential Media Division said that it was successful.. (A)
 
 ◼️
 
 [Data](articles/03efdeea.json)
+
+[Extended Data](ext_articles/03efdeea.ext.json)
 
 ---
 
@@ -2347,89 +2425,5 @@ Dilith Jayaweera was then a group of led by Dilith Jayaweera and visited Sri Sum
 [Data](articles/141fc059.json)
 
 [Extended Data](ext_articles/141fc059.ext.json)
-
----
-
-### Substandard drugs scandal: Harin arrives at CID to record statement
-
-*2024-11-22 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103689/substandard-drugs-scandal-harin-arrives-at-cid-to-record-statement) · `en`
-
-Former Minister Harin Fernando has stated that he does not believe the then-Cabinet of Ministers is responsible for the incident involving the procurement of substandard human immunoglobulin vials.
-
-He made these remarks today (22) while speaking to reporters as he arrived to provide a statement to the Criminal Investigation Department (CID) regarding the relevant incident.
-
-On November 12, the Maligakanda Magistrate’s Court had ordered to record statements from 18 then-Cabinet Ministers pertaining to the alleged importation of substandard human immunoglobulin vials.
-
-...
-
-[Data](articles/6f5ca7e3.json)
-
-[Extended Data](ext_articles/6f5ca7e3.ext.json)
-
----
-
-### Lakdasy harm fire at fire
-
-*2024-11-22 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203623) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Fire destroys main electricity system in Kolonnawa housing complex. Six children injured, hospitalized. Residents protest over lack of compensation.
-
-🟩
-
-The main electricity system of the housing was completely destroyed by a fire at a fire at a fire at night in Kolonnawa last night.
-
-Six children, including two children, have also been hospitalized after the fire.
-
-Meanwhile, the housing complex in the housing complex continued to protest against the failing to recover today (22).
-
-◼️
-
-[Data](articles/ae913316.json)
-
-[Extended Data](ext_articles/ae913316.ext.json)
-
----
-
-### Sri Lanka’s National Development Bank to raise upto Rs5bn in debenture issue
-
-*2024-11-22 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-national-development-bank-to-raise-upto-rs5bn-in-debenture-issue-189442/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National Development Bank Plc is planning to raise up to 5 billion rupees in a debenture issue, the bank said.
-
-The bank will issue 50 million BASEL III compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion at 100 rupees each.
-
-The Colombo Stock Exchange has approved the listing in principle.
-
-◼️
-
-[Data](articles/a3e8db97.json)
-
-[Extended Data](ext_articles/a3e8db97.ext.json)
-
----
-
-### Sri Lanka elected to UN Commission on International Trade Law
-
-*2024-11-22 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103688/sri-lanka-elected-to-un-commission-on-international-trade-law) · `en`
-
-Sri Lanka’s Foreign Ministry announced that Sri Lanka was among thirty-one (31) members elected to the United Nations Commission on International Trade Law (UNCITRAL) by the UN General Assembly on 20 November 2024.
-
-In a statement, the Ministry of Foreign Affairs emphasized that, Sri Lanka contested for a seat from the Asia Pacific Group, and secured 177 votes. This was the second highest number of votes within the group, and second highest overall among the thirty-one members elected.
-
-Other member states elected from the Asia Pacific Group to the UNCITRAL are Malaysia, The Philippines, Singapore, Viet Nam, China, Japan and Republic of Korea.
-
-Sri Lanka will serve a six (6) year term, commencing in January 2025, the statement said.
-
-UNCITRAL, established in 1966 and headquartered in Vienna, is the core legal body in the field of international trade. Its mandate includes removing obstacles to trade and harmonising trade laws, it added.
-
-...
-
-[Data](articles/21228d28.json)
-
-[Extended Data](ext_articles/21228d28.ext.json)
 
 ---

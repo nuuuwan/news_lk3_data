@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 00:41:14**
+As of **2024-11-24 01:11:47**
 
 ## Newspaper Stats
 
-*Scraped **56,503** Articles*
+*Scraped **56,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,308
 adaderanalk | 6,830
 tamilmirrorlk | 8,033
-virakesarilk | 9,195
+virakesarilk | 9,197
 adaderanasinhalalk | 9,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,503 (100.0%) of 56,503 articles have been extended.
+56,505 (100.0%) of 56,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -184,6 +184,32 @@ Similarly, Tamil is already in place. Tamil Nadu is the state of mind that prote
 
 ---
 
+### The Currency Fund targets the budget for 2025;$ 333 million will be released only after the approval of the Board of Directors
+
+*2024-11-23 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199515) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka receives $2.9B IMF loan; $330M initial payment made. Third phase focuses on 2025 budget compliance. $333M release pending Board approval. Economic indicators show 4% annual growth, 0.8% inflation. Restructuring efforts ongoing.
+
+🟩
+
+In the wake of the third phase of the expanded financial facility project for Sri Lanka, the International Monetary Fund, which has reached the government level compliance with the government, is based on the most important factors, including the implementation of the Budget and Expensation of 2025, in accordance with the objectives of the Finance Facility Program.They said.
+
+On March 20, 2023, the Board of Directors of the Monetary Fund approved the proposal to issue a $ 2.9 billion loan to Sri Lanka under the Extended Fund of the International Monetary Fund following the extreme economic crisis of the country in 2022.
+
+Accordingly, Sri Lanka has been given $ 330 million for the first time. Following the first and second review of its extension, the second and third debt fund was released to the country.
+
+...
+
+[Data](articles/dba80ece.json)
+
+[Extended Data](ext_articles/dba80ece.ext.json)
+
+---
+
 ### IMF says about the import of vehicles
 
 *2024-11-23 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203665) · `si`
@@ -325,6 +351,36 @@ The Commissioner General of Examinations Amit Jayasundara said that the Assistan
 [Data](articles/279b18f7.json)
 
 [Extended Data](ext_articles/279b18f7.ext.json)
+
+---
+
+### It is best to hold provincial council elections - Vijitha Herath
+
+*2024-11-23 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199486) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Vijitha Herath: Hold provincial council elections in Q1 2024. Negotiate with parties to address legal issues. Accept High Court ruling. Support proportional electoral system. Resolve parliamentary crisis to expedite elections.
+
+🟩
+
+We will negotiate with all political parties to solve the legal problem in the provincial council electoral system. Minister of External Affairs, Foreign Employment and Tourism Development Vijitha Herath said that we are looking forward to holding local government elections within the first quarter of next year.
+
+We fully accept the verdict of the High Court to hold the local government elections soon. It would be appropriate to hold the local government elections for the cancellation of nominations demanded for the local government elections.
+
+We intend to hold the local government elections in the first quarter of the next year. Elections should be held in a timely manner according to the Constitution.
+
+Problems in the Provincial Council Election Act have affected the conduct of provincial council election. The boundary report has not been passed in Parliament.
+
+It is best to hold the provincial council election under the proportional electoral system.
+
+...
+
+[Data](articles/3e2de469.json)
+
+[Extended Data](ext_articles/3e2de469.ext.json)
 
 ---
 
@@ -2437,35 +2493,5 @@ Abans Environmental Services Ltd. (AES), the leader in janitorial and related se
 [Data](articles/ccf835a5.json)
 
 [Extended Data](ext_articles/ccf835a5.ext.json)
-
----
-
-### Dr. P. A. Kiriwandeniya observes the progress of ‘Sanasa Forward’ (Sanasa Idiriya) projects in Hambantota
-
-*2024-11-23 00:39:55* · [`dailyftlk`](https://www.ft.lk/business/Dr-P-A-Kiriwandeniya-observes-the-progress-of-Sanasa-Forward-Sanasa-Idiriya-projects-in-Hambantota/34-769575) · `en`
-
-Sanasa Founder and the Chancellor of Wayamba University of Sri Lanka Vishwa Prasadini, Dr. P. A. Kiriwandeniya recently observed the projects launched in Hambantota under ‘Sanasa Forward’ program. This program seeks to uplift communities across Sri Lanka through production-based economic concepts over the next five years. Launched one and half years ago, the Sanasa Forward initiative is being rolled out nationwide to empower 5,000 villages under 1,250 selected Sanasa societies.
-
-...
-
-[Data](articles/267845ee.json)
-
-[Extended Data](ext_articles/267845ee.ext.json)
-
----
-
-### New Govt. focuses on Easter bombings 2019 investigation
-
-*2024-11-23 00:29:32* · [`dailyftlk`](https://www.ft.lk/columns/New-Govt-focuses-on-Easter-bombings-2019-investigation/4-769574) · `en`
-
-There is renewed expectation that the new Government will approach an investigation into the Easter bombings with a real commitment towards unearthing the truth
-
-Easter 2025 will mark the sixth anniversary of the Easter tragedy. A new President, a new Parliament with the enviable record of being the only single party to ever gain a two-thirds majority in Parliament have all the necessary implements to ensure that a full and impartial investigation is carried out. All members of this new administration also have the distinction of not having been involved in any shape or form in the events that led to this tragedy. This tragedy has left a permanent black mark on Sri Lanka’s ability to sustain meaningful compliance of international treaties and honour in full the UN charter on the right to life
-
-...
-
-[Data](articles/9e731c5e.json)
-
-[Extended Data](ext_articles/9e731c5e.ext.json)
 
 ---

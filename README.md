@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 11:25:23**
+As of **2024-11-23 11:42:09**
 
 ## Newspaper Stats
 
-*Scraped **56,444** Articles*
+*Scraped **56,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
-adaderanalk | 6,819
-tamilmirrorlk | 8,025
+adaderanalk | 6,820
+tamilmirrorlk | 8,026
 virakesarilk | 9,182
-adaderanasinhalalk | 9,738
+adaderanasinhalalk | 9,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,444 (100.0%) of 56,444 articles have been extended.
+56,444 (100.0%) of 56,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### IMF තුන්වන සමාලෝචනයේදී ශ්‍රී ලංකාව ගැන ගත් තීරණ
+
+*2024-11-23 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203648) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල මගින් ශ්‍රී ලංකාවට ලබාදුන් විස්තීර්ණ ණය පහසුකම සම්බන්ධයෙන් වැඩසටහනේ 3 වෙනි සමාලෝචනයට එහි නියෝජිතයින් සහ ශ්‍රී ලංකා බලධාරීන් කාර්යමණ්ඩල මට්ටමේ එකඟතාවයකට එළඹි බව ජාත්‍යන්තර මූල්‍ය අරමුදල අද (23) නිවේදනය කළේය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ කළමනාකාරීත්වය සහ එහි විධායක මණ්ඩලය ඒ සඳහා අනුමැතිය ලබාදීමෙන් පසු ශ්‍රී ලංකාවට ඩොලර් මිලියන 333ක් පමණ ලබාගැනීමට අවස්ථාව හිමිවෙයි.
+
+ප්‍රතිපත්ති දිගටම පවත්වාගෙන යෑමට නව රජය මගින් පෙන්නුම් කර ඇති කැපවීම එම වැඩසටහනේ අරමුණු ඉටු කරගැනීම සඳහා වැදගත් බවද එම නිවේදනයේ සඳහන් ය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස සඳහා පීටර් බෘෘවර් මහතා නායකත්වය දුන් අතර ඔවුන් මෙරට නොවැම්බර් 17 වනදා සිට රැඳී සිටියේය.
+
+2023 මාර්තු 20 වනදා ජාත්‍යන්තර මූල්‍ය අරමුදල මගින් ඩොලර් බිලියන 2.9ක් වූ විස්තීර්ණ ණය පහසුකම ශ්‍රී ලංකාව සඳහා අනුමත කරන ලදි. එය මාස 48ක් පුරා ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/0c4bda98.json)
+
+---
+
+### IMF තුන්වන සමාලෝචනය පිළිබඳ ප්‍රවෘත්ති සාකච්ඡාව
+
+*2024-11-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203647) · `si`
+
+◼️
+
+[Data](articles/69380233.json)
+
+---
+
+### Two brothers killed as Jeep plunges into Bujgamuwa Oya
+
+*2024-11-23 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103703/two-brothers-killed-as-jeep-plunges-into-bulgamuwa-oya-) · `en`
+
+Two individuals were killed in an accident when a jeep traveling from Kuliyapitiya to Hettipola veered off the road and plunged into the Bujgamuwa Oya near the Kamburapola Bridge on the Kuliyapitiya-Hettipola road this morning (23).
+
+With assistance from a crane, the submerged jeep was recovered, and it was confirmed that the two occupants, who had been trapped inside, succumbed to their injuries upon admission to the Kuliyapitiya Base Hospital.
+
+The deceased, aged 25 and 27, have been identified as brothers from the Kurunegala area.
+
+Preliminary investigations reveal that the accident occurred at a winding section of the road, where the vehicle apparently lost control and fell into the stream.
+
+The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, and further investigations into the incident are being conducted by the Kuliyapitiya Police.
+
+◼️
+
+[Data](articles/d20ad045.json)
+
+---
+
+### 2025 ஆரம்பத்தில் உள்ளூராட்சி தேர்தலை நடத்த திட்டம்
+
+*2024-11-23 10:54:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆரம்பத்தில்-உள்ளூராட்சி-தேர்தலை-நடத்த-திட்டம்/175-347652) · `ta`
+
+உள்ளுராட்சி மன்ற தேர்தலை, அடுத்த வருட ஆரம்பத்தில் நடத்த திட்டமிடப்பட்டுள்ளதாக, அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.AN
+
+◼️
+
+[Data](articles/217fd6b0.json)
+
+---
 
 ### Assassin
 
@@ -2347,105 +2409,5 @@ Parliamentary Snacks will not be closed. But although the government takes care 
 [Data](articles/16acd908.json)
 
 [Extended Data](ext_articles/16acd908.ext.json)
-
----
-
-### Sri Lanka stocks close up, driven by banks
-
-*2024-11-22 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-banks-189468/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader ASPI closed up 0.56 percent, or 72.17 points, at 13,054; while the more liquid S&P SL20 Index closed up 0.27 percent, or 10.31 points, at 3,871.
-
-Turnover was 1.9 billion. Most of this came from banks (Rs736mn).
-
-Market participants said investors who had purchased banking stocks when they were low were involved in some profit taking after the stocks appreciated on reports of the ISB deal.
-
-Sri Lanka President Anura Dissanayake said on Thursday he expected to wrap up ISB restructure by December and sign remaining bilateral debt restructure agreements soon.
-
-The financial profiles of Sri Lanka’s banks will improve after a successful sovereign debt restructure proposed for local bondholders, Fitch Ratings has said.
-
-Sampath Bank closed up at 94.10, Hatton National Bank closed flat 229.00, National Development Bank closed up at 82.90, and DFCC closed down at 86.10.
-
-...
-
-[Data](articles/e6a049fb.json)
-
-[Extended Data](ext_articles/e6a049fb.ext.json)
-
----
-
-### Prime Minister Haruni and a group of people who filed the petition
-
-*2024-11-22 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203629) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Supreme Court summons case against police over 2023 protest. Prime Minister Harini Amarasuriya petitions against police officers. Three-judge bench orders lawyers to appear January. Petitioners claim peaceful protest dispersed unjustly.
-
-🟩
-
-The Supreme Court today (22) fixed the Supreme Court today to summon the fundamental rights petition filed by the Prime Minister Harini Amarasuriya.
-
-The petition was filed against a group of police officers, including a group of police officers, accusing the parliamentary protest in Polmboe in the last year.
-
-The petition was called before the three-member Supreme Court Bench comprising Yasantha Kodagoda, Aethantha Fernando, Yasantha Kodagoda, Aethantha Fernando.
-
-Does the President's Counsel Saliya Peiris appearing on behalf of the petitioner Saliya Peiris be held in court and if the case with arrests were carried out in the courts.He also said that he could decide on the facts.
-
-Deputy Solicitor General, Madhawa Tennakoon, appearing on behalf of the Attorney General was instructed by respondents.
-
-Accordingly, the three-judge panel of judges ordered the lawyers on the occasion to be summoned again on January.
-
-...
-
-[Data](articles/7f3075d8.json)
-
-[Extended Data](ext_articles/7f3075d8.ext.json)
-
----
-
-### Tension at UNP headquarters
-
-*2024-11-22 16:03:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-தலைமையகத்தில்-பதற்றம்/175-347622) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-UNP supporters arrive at Sirikotha to submit a document on party revival. Tensions rise as some accuse National Democratic Front Secretary Ravi Karunanayake of attacking his own parliamentary appointment via national list.
-
-🟩
-
-It is reported that when a group of supporters of the United National Party (UNP) arrived at Sirikotha to hand over a document on reviving the party.
-
-When the National Democratic Front secretary Ravi Karunanayake exits, some people who came there accused the document that he had attacked Ravi Karunanayake's parliamentary appointment through the national list.
-
-◼️
-
-[Data](articles/12f3b7c5.json)
-
-[Extended Data](ext_articles/12f3b7c5.ext.json)
-
----
-
-### ‘Aswesuma’: Nov. allowance for elders credited to bank accounts
-
-*2024-11-22 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103691/-aswesuma-nov-allowance-for-elders-credited-to-bank-accounts) · `en`
-
-The government announced that the Rs. 3,000 allowance designated for elderly individuals aged over 70, enrolled in the “Aswesuma” welfare benefit program, has been credited to their respective bank accounts.
-
-According to a statement issued by the Government Information Department, the funds have been disbursed for the month of November, and beneficiaries may withdraw the amount from their accounts starting today (22).
-
-This financial aid is provided to a total of 511,086 eligible individuals under the relief scheme while a total sum of Rs. 1,533,258,000 has been allocated for distribution this month to ensure the support reaches the intended recipients.
-
-◼️
-
-[Data](articles/08f65626.json)
-
-[Extended Data](ext_articles/08f65626.ext.json)
 
 ---

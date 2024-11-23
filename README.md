@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 13:26:41**
+As of **2024-11-23 14:14:47**
 
 ## Newspaper Stats
 
-*Scraped **56,454** Articles*
+*Scraped **56,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,823
 tamilmirrorlk | 8,027
-virakesarilk | 9,182
+virakesarilk | 9,183
 adaderanasinhalalk | 9,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,453 (100.0%) of 56,454 articles have been extended.
+56,455 (100.0%) of 56,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### Western Provincial Governor visited the Colombo and Kakaidivu coastal area
+
+*2024-11-23 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199465) · `ta`
+
+Western Provincial Governor visits Colombo-Kakaidivu coast. Promises to clean up beaches, attract tourists, and establish nighttime businesses. Warns against littering, threatens legal action against offenders.
+
+🟩
+
+Western Province Governor Hanzee Yusuf said legal action would be taken against those who throw garbage in Colombo to make tourists the best place to attract tourists and set up night -time stores.
+
+Provincial Governor Hanis Yusuf visited the area on Friday (22) at 3 pm on the Kakaidivu coastal area of ​​Colombo.
+
+Western Provincial Governor Hanis Yusuf said this while addressing the discussion after the supervisory visit.
+
+"Clean Srilanka," Clean Srilanka, in accordance with the plan of President Anurakumara Dissanayake, we will implement the Kakkaidivu coastal area in a short period of development.
+
+We will take steps to make this area the best place to attract tourists and set up a night -run stores.
+
+I welcome a large number of people enjoying the coast of Kakkativu. The children's park located in the area is full of debris.
+
+He said that focusing on this and instructed to the concerned companies.
+
+...
+
+[Data](articles/91400991.json)
+
+[Extended Data](ext_articles/91400991.ext.json)
+
+---
 
 ### LG Election scheduled for early next year - Vijitha Herath
 
@@ -596,25 +626,37 @@ However, it was temporarily suspended yesterday with the meeting with a massive 
 
 ---
 
-### IMF: නව ආණ්ඩුව සමග පැමිණි එකඟතා මොනවා ද?
+### IMF: What are the agreements with the new government?
 
 *2024-11-23 07:39:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm27g1q6l5eo) · `si`
 
-ශ්‍රී ලංකාවේ විස්තීරණ ණය අරමුදල් පහසුකම (EFF)  යටතේ තුන්වන සමාලෝචනය අවසන් කිරීම සඳහා ආර්ථික ප්‍රතිපත්ති පිළිබඳ කාර්ය මණ්ඩල මට්ටමේ ගිවිසුමකට එළැඹි බව ජාත්‍යන්තර මූල්‍ය අරමුදල අද (නොවැම්බර් 23 වන දා) අනාවරණය කළේය.
+Sri Lanka IMF agreement summary: New government commits to loan program, increasing confidence in policy implementation and reform continuity. Total loan amount is $3 billion, with the next installment of $333 million expected. This will boost the overall value of the CPA to $1.3 billion.
 
-මෙම සමාලෝචනය IMF කළමනාකාරිත්වය සහ IMF විධායක මණ්ඩලය විසින් විසින් අනුමත කිරීමෙන් පසු, ශ්‍රී ලංකාවට ඇමෙරිකානු ඩොලර් මිලියන 333 ක පමණ වන මීළඟ ණය වාරිකය හිමිවනු ඇත.
+🟩
 
-2023 මාර්තු 20 වැනිදා අනුමත වූ සිව් වසරක මෙම ණය අරමුදල් පහසුකම යටතේ ශ්‍රී ලංකාවට හිමිවන සමස්ත ණය මුදල ඇමෙරිකානු ඩොලර් බිලියන 3කි.
+The International Monetary Fund also revealed that the Third Current Facility (EFF) in Sri Lanka's third review.
 
-නව ණය වාරිකය ලැබීමත් සමග ම ජාත්‍යන්තර මුල්‍ය අරමුදල  ශ්‍රී ලංකාවට ලබා දී ඇති ණය වාරිකවල සමස්ථ වටිනාකම ඇමෙරිකානු ඩොලර් බිලියන 1.3 දක්වා ඉහළ යනු ඇත.
+After approving this review, Sri Lanka will receive the next loan installment of US $ 333 million after the IMF management and the IMF Executive Board.
 
-කොළඹදී මාධ්‍ය හමුවකට එක්වෙමින්, ජාත්‍යන්තර මුල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ ධූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මේබව අනාවරණය කළේය.
+The total loan to Sri Lanka is US $ 3 billion under this loan fund facility approved on March 20, 2023.
 
-ණය වැඩසටහනේ අරමුණු සඳහා නව රජයේ කැපවීම විශ්වාසය වැඩි කර ඇති අතර ප්‍රතිපත්ති ක්‍රියාත්මක කිරීමේ අඛණ්ඩතාව සහතික කරන බව ජාත්‍යන්තර මුල්‍ය අරමුදල පැවසීය.
+With the benefit of the new loan installment, the entire value of the CPA to Sri Lanka will increase to 1.3 billion US $ 1.3 billion.
+
+He was speaking at a media briefing in Colombo, Senior Board of the International Monetary Fund.
+
+The new government commitment to the objectives of the loan program has increased the confidence and ensures policy implementation continuity.
+
+Continuous implementation of the reform continuous implementation of the reconstruction of the achievements available in the loan program.
+
+Why are 6-year-old girls menstrual and why do they look older?
+
+Will Sri Lanka lose E8 visa quota from South Korea?
 
 ...
 
 [Data](articles/5369eb16.json)
+
+[Extended Data](ext_articles/5369eb16.ext.json)
 
 ---
 
@@ -2373,31 +2415,5 @@ National farmers and consumers are not affected by importing rice. Cannot accomm
 [Data](articles/a2b61269.json)
 
 [Extended Data](ext_articles/a2b61269.ext.json)
-
----
-
-### Professor of Sri Lanka to leave the US Public Service
-
-*2024-11-22 16:34:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-රාජ්‍ය-සේවයෙන්-ඉවත්ව-ලංකාවේ-ගරු-සේවකයකට-එන-මහාචාර්යවරයා/11-413213) · `si`
-
-Sri Lankan professor leaves US public service. Appointed as Senior Advisor to Science and Technology at Houston University's Anderson Cancer Research Institute. Received presidential appointment letter. Graduated from University of Colombo, holds PhD from Michigan State University. Awarded honorary position in US.
-
-🟩
-
-Houston University and M. D. Professor Global Udugasuriya was appointed as Senior Advisor to Science and Technology in the Anderson Cancer Research Institute.
-
-The appointment letter for this is presented to the Presidential Secretary to the Presidential Secretariat today (22) by President's Secretary to the President.
-
-Colombo D. S. Global Udugasuriya, an alumni of Senanayake College, is a graduate of chemistry at the University of Colombo.
-
-It also won the PhD of the Michigan Wayne Staten Staten Staten Staters, Texas and Western Medical Center.
-
-Global Udugasuriya, hearing a patent, and he joined the position of Senior President as a honor of the US.
-
-◼️
-
-[Data](articles/db2aee79.json)
-
-[Extended Data](ext_articles/db2aee79.ext.json)
 
 ---

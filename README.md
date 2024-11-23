@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 08:49:09**
+As of **2024-11-23 09:02:18**
 
 ## Newspaper Stats
 
-*Scraped **56,429** Articles*
+*Scraped **56,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 586
-islandlk | 3,375
+islandlk | 3,376
 economynextcom | 3,427
 dailyftlk | 3,879
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,428 (100.0%) of 56,429 articles have been extended.
+56,429 (100.0%) of 56,430 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 ◼️
 
 [Data](articles/ed72a461.json)
+
+[Extended Data](ext_articles/ed72a461.ext.json)
 
 ---
 
@@ -127,6 +129,22 @@ The President thanked the Finance Ministry officials to defend the country in th
 [Data](articles/1d93722e.json)
 
 [Extended Data](ext_articles/1d93722e.ext.json)
+
+---
+
+### NTB introduces Sri Lanka’s first debit card with innovative notch design for visually impaired
+
+*2024-11-23 02:02:00* · [`islandlk`](http://island.lk/ntb-introduces-sri-lankas-first-debit-card-with-innovative-notch-design-for-visually-impaired/) · `en`
+
+Nations Trust Bank (NTB) has become the first in Sri Lanka to introduce the Touch Card, an initiative implemented by Mastercard.
+
+The Touch Card is specially designed to aid visually impaired and partially sighted cardholders. This innovative card enhances the bank’s range of debit cards and underscores its commitment to enhancing customer experiences that are on par with global standards.
+
+The Mastercard Touch Card features a distinct rounded notch, which enables the visually impaired Cardholders to easily distinguish it from any other card. It has been developed in collaboration with a global card manufacturer and was reviewed rigorously by notable organisations such as VISIONS in the United States of America, and the Royal National Institute of Blind People (RNIB) in the United Kingdom.
+
+...
+
+[Data](articles/a4b763bd.json)
 
 ---
 
@@ -2413,23 +2431,5 @@ In May, Dipped Products Plc opened a marketing office in Mumbai, India as part o
 [Data](articles/87fa8e12.json)
 
 [Extended Data](ext_articles/87fa8e12.ext.json)
-
----
-
-### Singapore’s Jetstar Asia launches direct flights to Colombo
-
-*2024-11-22 14:25:00* · [`economynextcom`](https://economynext.com/singapores-jetstar-asia-launches-direct-flights-to-colombo-189452/) · `en`
-
-ECONOMYNEXT – Singapore carrier Jetstar Asia commenced scheduled flight operations between Sri Lanka and Singapore on Thursday (21) with five return flights each week, operated by their fleet of Airbus A320s, the local by Airport and Aviation Services said.
-
-The inaugural flight arrived at the island nation’s Bandaranaike International Airport (BIA) with 179 passengers. The inaugural flight was ceremonially welcomed with a water salute by Airport and Aviation Services (Sri Lanka) (Private) Limited.
-
-“The launch of Jetstar Asia’s scheduled flights between Singapore and Sri Lanka is a significant boost for our tourism sector’s ongoing growth,” Harsha Abeywickrema, Chairman of Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) and a retired Air Force chief said.
-
-...
-
-[Data](articles/6cf6d917.json)
-
-[Extended Data](ext_articles/6cf6d917.ext.json)
 
 ---

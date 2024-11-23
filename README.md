@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 08:27:03**
+As of **2024-11-23 08:49:09**
 
 ## Newspaper Stats
 
-*Scraped **56,428** Articles*
+*Scraped **56,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,427
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
-adaderanalk | 6,815
+adaderanalk | 6,816
 tamilmirrorlk | 8,020
 virakesarilk | 9,182
 adaderanasinhalalk | 9,733
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,428 (100.0%) of 56,428 articles have been extended.
+56,428 (100.0%) of 56,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### Heavy showers expected in parts of the island
+
+*2024-11-23 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103699/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in the Northern, North-central and Eastern provinces.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, it added.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ed72a461.json)
+
+---
 
 ### To the attention of A/L examiners
 
@@ -2411,31 +2431,5 @@ The inaugural flight arrived at the island nation’s Bandaranaike International
 [Data](articles/6cf6d917.json)
 
 [Extended Data](ext_articles/6cf6d917.ext.json)
-
----
-
-### Siddhartha Uddaha Udugasuriya is a Senior senior adviser
-
-*2024-11-22 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203626) · `si`
-
-Siddhartha Uddaha Udugasuriya: Senior Adviser at Houston University & MD Professor. Appointed as Senior Advisor to Science & Technology at Anderson Cancer Research Institute. Graduated in Chemistry from University of Colombo. Holds PhD from Michigan State University. Awarded honorary position as Senior President in the US.
-
-🟩
-
-Houston University and M. D. Professor Global Udugasuriya was appointed as Senior Advisor to Science and Technology in the Anderson Cancer Research Institute.
-
-The appointment letter for this is presented to the Presidential Secretary to the Presidential Secretariat today (22) by President's Secretary to the President.
-
-Colombo D. S. Global Udugasuriya, an alumni of Senanayake College, is a graduate of chemistry at the University of Colombo.
-
-It also won the PhD of the Michigan Wayne Staten Staten Staten Staters, Texas and Western Medical Center.
-
-Global Udugasuriya, hearing a patent, and he joined the position of Senior President as a honor of the US.
-
-◼️
-
-[Data](articles/f7d57e12.json)
-
-[Extended Data](ext_articles/f7d57e12.ext.json)
 
 ---

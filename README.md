@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 13:00:34**
+As of **2024-11-23 13:26:41**
 
 ## Newspaper Stats
 
-*Scraped **56,453** Articles*
+*Scraped **56,454** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
-bbccomsinhala | 586
+bbccomsinhala | 587
 islandlk | 3,376
 economynextcom | 3,428
 dailyftlk | 3,879
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,741
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,452 (100.0%) of 56,453 articles have been extended.
+56,453 (100.0%) of 56,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -183,6 +183,8 @@ The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, a
 ◼️
 
 [Data](articles/0f6ac6d4.json)
+
+[Extended Data](ext_articles/0f6ac6d4.ext.json)
 
 ---
 
@@ -591,6 +593,28 @@ However, it was temporarily suspended yesterday with the meeting with a massive 
 [Data](articles/24f32510.json)
 
 [Extended Data](ext_articles/24f32510.ext.json)
+
+---
+
+### IMF: නව ආණ්ඩුව සමග පැමිණි එකඟතා මොනවා ද?
+
+*2024-11-23 07:39:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm27g1q6l5eo) · `si`
+
+ශ්‍රී ලංකාවේ විස්තීරණ ණය අරමුදල් පහසුකම (EFF)  යටතේ තුන්වන සමාලෝචනය අවසන් කිරීම සඳහා ආර්ථික ප්‍රතිපත්ති පිළිබඳ කාර්ය මණ්ඩල මට්ටමේ ගිවිසුමකට එළැඹි බව ජාත්‍යන්තර මූල්‍ය අරමුදල අද (නොවැම්බර් 23 වන දා) අනාවරණය කළේය.
+
+මෙම සමාලෝචනය IMF කළමනාකාරිත්වය සහ IMF විධායක මණ්ඩලය විසින් විසින් අනුමත කිරීමෙන් පසු, ශ්‍රී ලංකාවට ඇමෙරිකානු ඩොලර් මිලියන 333 ක පමණ වන මීළඟ ණය වාරිකය හිමිවනු ඇත.
+
+2023 මාර්තු 20 වැනිදා අනුමත වූ සිව් වසරක මෙම ණය අරමුදල් පහසුකම යටතේ ශ්‍රී ලංකාවට හිමිවන සමස්ත ණය මුදල ඇමෙරිකානු ඩොලර් බිලියන 3කි.
+
+නව ණය වාරිකය ලැබීමත් සමග ම ජාත්‍යන්තර මුල්‍ය අරමුදල  ශ්‍රී ලංකාවට ලබා දී ඇති ණය වාරිකවල සමස්ථ වටිනාකම ඇමෙරිකානු ඩොලර් බිලියන 1.3 දක්වා ඉහළ යනු ඇත.
+
+කොළඹදී මාධ්‍ය හමුවකට එක්වෙමින්, ජාත්‍යන්තර මුල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ ධූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මේබව අනාවරණය කළේය.
+
+ණය වැඩසටහනේ අරමුණු සඳහා නව රජයේ කැපවීම විශ්වාසය වැඩි කර ඇති අතර ප්‍රතිපත්ති ක්‍රියාත්මක කිරීමේ අඛණ්ඩතාව සහතික කරන බව ජාත්‍යන්තර මුල්‍ය අරමුදල පැවසීය.
+
+...
+
+[Data](articles/5369eb16.json)
 
 ---
 
@@ -2375,37 +2399,5 @@ Global Udugasuriya, hearing a patent, and he joined the position of Senior Presi
 [Data](articles/db2aee79.json)
 
 [Extended Data](ext_articles/db2aee79.ext.json)
-
----
-
-### Another accusation against Adani;Problem with Jegan Mohan?
-
-*2024-11-22 16:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதானி-மீது-மற்றுமொரு-குற்றச்சாட்டு-ஜெகன்-மோகனுக்கும்-சிக்கல்/175-347624) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Accusations against Adani: Bribery claims involving Andhra Pradesh CM Jagan Mohan over solar energy deal. US SEC alleges fraud and bribery. Adani denies allegations, threatens legal action.
-
-🟩
-
-Adani has promised to bribe the then Andhra Pradesh Chief Minister Jagan Mohan to sign the solar Energy Corporation of India.
-
-Adani, who met Jagan in August 2021, was reportedly giving this commitment.
-
-The US Security and Transaction Commission has put various allegations, including Indian businessman Gautam Adani, who has defrauded their investors and bribed Indian authorities.
-
-In that line, an unnamed foreign official has been told that the Andhra Pradesh government has offered bribes to bribe Rs 1750 crore (Indian value).
-
-It is reported that the Andhra Pradesh government agreed to buy 7 Gigawat of electricity from the Indian solar power company after the meeting.
-
-“The Indian Solar Power Company signed an agreement with Adani Group and Azur Power to supply 12 Gigawat solar power at a specific price of 2020. However, no one has come forward to buy solar electricity from SECI due to high prices.
-
-...
-
-[Data](articles/3f046de7.json)
-
-[Extended Data](ext_articles/3f046de7.ext.json)
 
 ---

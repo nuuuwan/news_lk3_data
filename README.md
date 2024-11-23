@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 21:11:26**
+As of **2024-11-23 21:25:41**
 
 ## Newspaper Stats
 
-*Scraped **56,490** Articles*
+*Scraped **56,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
 islandlk | 3,378
-economynextcom | 3,428
+economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,307
+adalk | 5,308
 adaderanalk | 6,828
 tamilmirrorlk | 8,032
 virakesarilk | 9,193
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,490 (100.0%) of 56,490 articles have been extended.
+56,490 (100.0%) of 56,493 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,6 +110,26 @@ The Commissioner General of Examinations Amit Jayasundara said that the Assistan
 
 ---
 
+### Sri Lanka in pioneering state treasure hunt
+
+*2024-11-23 19:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-pioneering-state-treasure-hunt-189542/) · `en`
+
+ECONOMYNEXT – Several Sri Lanka state agencies are engaged in a treasure hunt and have dug themselves into a hole 30 feet deep in three days, following in the footsteps of a monk and several others who tried the same tactic earlier, a media report said.
+
+Sri Lanka’s Hiru television channel reported that several state agencies are digging deep using heavy earthmoving equipment looking for a buried Treasure in what is believed to be the first state venture of the sort.
+
+The state treasure hunt is taking place in Veyangoda, adjacent to an ancient temple, in the reservation of an expressway which is under construction.
+
+Sri Lanka’s Road Development Authority assisted by the police Special Task Force is hunting treasure. Security officers who used metal detectors have found metal underground.
+
+Hiru TV quoted a senior archaeology officer as saying that they had informed court that no evidence of any Treasure was found by them after initial reports of people looking for buried riches.
+
+...
+
+[Data](articles/d2e48fc0.json)
+
+---
+
 ### ‘Red’ warning issued as low-pressure area to intensify and move towards Sri Lanka’s Northern coast
 
 *2024-11-23 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103710/red-warning-issued-as-low-pressure-area-to-intensify-and-move-towards-sri-lankas-northern-coast) · `en`
@@ -127,6 +147,22 @@ The deep and shallow sea areas off the coasts extending from Mannar to Hambantot
 [Data](articles/227c3c20.json)
 
 [Extended Data](ext_articles/227c3c20.ext.json)
+
+---
+
+### IMF කාර්ය මණ්ඩල එකඟතාවයට පැමිණෙයි
+
+*2024-11-23 18:32:58* · [`adalk`](https://www.ada.lk/breaking_news/IMF-කාර්ය-මණ්ඩල-එකඟතාවයට-පැමිණෙයි/11-413219) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල හා ශ්‍රී ලංකාව අතර ක්‍රියාත්මක ඩොලර් බිලියන 3ක විස්තීර්ණ ණය වැඩසටහන යටතේ තුන්වැනි සමාලෝචනය සම්බන්ධයෙන් සම්බන්ධයෙන් කාර්යමණ්ඩල එකඟතාවකට පැමිණි බව මූල්‍ය අරමුදලේ ශ්‍රී ලංකා දූත මණ්ඩල ප්‍රධානී පීටර් බෘෘවර් මහතා අද (23දා) කොළඹදි පැවැති මාධ්‍ය හමුවක්දි ප්‍රකාශ කළේය.
+
+මේ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතිය හිමිවීමෙන් පසු ශ්‍රී ලංකාවට සිව්වැනි වාරිකය ලෙස ඩොලර් මිලියන 333ක මුදලක් මුදා හැරෙනු ඇත.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමග පැවති තුන්වන සමාලෝචනයට අදාළ සාකච්ඡා ඊයේ (22) ජනාධිපති කාර්යාලයේදී පැවති අතර ඊට ජාත්‍යන්තර මූල්‍ය අරමුදල නියෝජනය කරමින් එහි ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘෘවර් මහතා ඇතුළු නියෝජිත කණ්ඩායම සහ  ශ්‍රී ලංකා රජය නියෝජනය කරමින් ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා ඇතුළු කණ්ඩායම සහභාගි වුණි.
+
+...
+
+[Data](articles/4efa1fa7.json)
 
 ---
 
@@ -1037,6 +1073,26 @@ Here's a summary of the news discussion on the third review of the IMF in approx
 [Data](articles/69380233.json)
 
 [Extended Data](ext_articles/69380233.ext.json)
+
+---
+
+### Sri Lanka reaches staff level agreement with the IMF
+
+*2024-11-23 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaches-staff-level-agreement-with-the-imf-189535/) · `en`
+
+ECONOMYNEXT – Sri Lanka has reached a staff level agreement for take forward a program with the Internal Monetary Fund, Senior Mission Chief Peter Breuer said.
+
+The IMF’s board will formally approve the review based on several prior action including a budget for 2025.
+
+“Sri Lanka’s recent Agreement in Principle with bondholders is an important milestone putting Sri Lanka’s debt on a path towards sustainability,” the statement said.
+
+“The critical next steps are to complete the commercial debt restructuring, finalize bilateral agreements with official creditors along the lines of the accord with the Official Creditor Committee and implement the terms of the other agreements.”
+
+Colombo, Sri Lanka – November 23, 2024: An International Monetary Fund (MF) team led by Peter Breuer, Senior Mission Chief for Sri Lanka, visited Colombo from November 17 to 23, 2024. After constructive discussions in Colombo, Mr. Breuer and Deputy Mission Chief Ms. Katsiaryna Svirydzenka issued the following statement:
+
+...
+
+[Data](articles/920eaeb1.json)
 
 ---
 
@@ -2327,69 +2383,5 @@ At this Thandi Workshop, the role of the Member of Parliament, Parliamentary Pri
 [Data](articles/e825db2b.json)
 
 [Extended Data](ext_articles/e825db2b.ext.json)
-
----
-
-### Discussion for the third review of the International Monetary Fund is successfully completed
-
-*2024-11-22 21:20:28* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-මූල්‍ය-අරමුදලේ-තුන්වන-සමාලෝචනයට-අදාළ-සාකච්ඡාව-සාර්ථකව-අවසන්/11-413216) · `si`
-
-Sri Lanka completes third IMF review meeting successfully. Government officials and IMF representatives discussed economic development strategies.
-
-🟩
-
-The discussion was held today at the Presidential Secretariat today (22) regarding the third reviews held with the International Monetary Fund.
-
-Senior Missions Head of Senior Missions, Senior Mission, Senior Mission, and the delegation of Economic Development Prof. Anil Jayantha Fernando was also present at the Government of Sri Lanka.
-
-The discussion has successfully completed the third review between the International Monetary Fund and the Government of Sri Lanka.
-
-◼️
-
-[Data](articles/de9fff4b.json)
-
-[Extended Data](ext_articles/de9fff4b.ext.json)
-
----
-
-### We cannot move forward without restoring public’s trust in public service - President
-
-*2024-11-22 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103696/we-cannot-move-forward-without-restoring-publics-trust-in-public-service-president-) · `en`
-
-President Anura Kumara Dissanayake called upon all public officials to unite with a common purpose and work together to transform the motherland into a better nation.
-
-He made this statement today (22) during his visit to the Ministry of Defence at the Defence Headquarters premises in Akuregoda, where he assumed duties as the new Defence Minister, the President’s Media Division (PMD) said.
-
-Following the reception, the President held a meeting with the commanders of the tri-forces and senior officials of the Ministry of Defence, where they discussed ongoing and future initiatives of the Ministry, the PMD added.
-
-President Dissanayake stated that the new government is dedicated to promoting good governance and seeks the support of everyone for the nation’s development program.
-
-...
-
-[Data](articles/218d2298.json)
-
-[Extended Data](ext_articles/218d2298.ext.json)
-
----
-
-### The Leader of the opposition has met IMF delegates
-
-*2024-11-22 20:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-பிரதிநிதிகளை-சந்தித்தார்-எதிர்க்கட்சித்-தலைவர்/175-347627) · `ta`
-
-Opposition leader meets IMF team in Colombo. Discussion focused on Sri Lanka's financial crisis resolution strategies.
-
-🟩
-
-A special meeting was held in Colombo today (22) between Opposition Leader Sajith Premadasa and the International Monetary Fund (IMF) delegation.
-
-Representing the International Monetary Fund and its high -level committee chief Peter Bruver, deputy chief Katsiaryna svirydzenka, resident representative Mrs. Martha Woldemical and Resident Economist Manavi Abeywickrama were also present.
-
-A long exchange between the two sides has taken place regarding the steps to free from the bankruptcy that is currently facing Sri Lanka. Remble
-
-◼️
-
-[Data](articles/3bb6c016.json)
-
-[Extended Data](ext_articles/3bb6c016.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 09:42:04**
+As of **2024-11-23 10:01:55**
 
 ## Newspaper Stats
 
-*Scraped **56,438** Articles*
+*Scraped **56,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,818
-tamilmirrorlk | 8,021
+tamilmirrorlk | 8,022
 virakesarilk | 9,182
 adaderanasinhalalk | 9,737
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,436 (100.0%) of 56,438 articles have been extended.
+56,436 (100.0%) of 56,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### வெயாங்கொடையில் புதையல்?
+
+*2024-11-23 09:42:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெயாங்கொடையில்-புதையல்/175-347648) · `ta`
+
+வெயாங்கொடை, வதுரவ பிரதேசத்தில் உள்ள சதுப்பு நிலப்பகுதியில் நீதிமன்ற உத்தரவின் பேரில் ஆரம்பிக்கப்பட்ட புதையல் தேடும் பணிகள் இன்றைய தினமும் (23) முன்னெடுக்கப்படவுள்ளது.
+
+அத்தனகல்ல நீதவான் வழங்கிய உத்தரவுக்கமைய, பொலிஸ் விசேட அதிரடிப்படையினர் மேற்கொண்ட ஸ்கேன் பரிசோதனையின் போது பூமிக்குள் ஏதோ ஒன்று இருப்பது அவதானிக்கப்பட்டுள்ளது.
+
+இது தொடர்பில் நீதிமன்றத்தில் சமர்ப்பணங்களை முன்வைத்த பின்னர் அத்தனகல்ல நீதவான் நீதிமன்றம், பொதுமக்கள் முன்னிலையில் குறித்த இடத்தில் அகழ்வு பணிகளை மேற்கொள்ளுமாறு வெயாங்கொடை பொலிஸாருக்கு உத்தரவிட்டிருந்தது.
+
+அகழ்வாராய்ச்சிக்கு இரண்டு நாள் கால அவகாசம் வழங்கப்பட்ட நிலையில், அதன்படி நேற்றும், முந்தினநாளும் அங்கு அகழ்வுப் பணிகள் மேற்கொள்ளப்பட்டன.
+
+எனினும் நேற்று பிற்பகல் வரையிலும் அதனை நிறைவு செய்ய முடியாத நிலையில், பாரிய கல் ஒன்று கிடைத்ததையடுத்து நேற்றைய அகழ்வுப் பணிகள் தற்காலிகமாக நிறுத்தப்பட்டன. R
+
+◼️
+
+[Data](articles/eeb7458c.json)
+
+---
 
 ### President calls on state employees to fulfill people’s aspirations
 
@@ -2415,31 +2435,5 @@ The walls of those houses have cracks and exploded and the wall has been demolis
 [Data](articles/e2000208.json)
 
 [Extended Data](ext_articles/e2000208.ext.json)
-
----
-
-### Correction on electricity bills by the end of the year?
-
-*2024-11-22 15:31:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருட-இறுதிக்குள்-மின்-கட்டணத்தில்-திருத்தம்/175-347617) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Electricity bill correction delayed: CEB hasn't submitted report yet. PUC says review takes 4-5 weeks after submission. New tariff reduction proposals expected soon.
-
-🟩
-
-The Commission has stated that the final resolution on the electricity tariff amendment cannot be announced this year as the Ceylon Electricity Board has not submitted the report on the Electricity Targery Correction.
-
-The Public Utilities Commission said that after submitting the report by the Ceylon Electricity Board, 4 or 5 weeks will be spent on relevant activities.
-
-Earlier, the Ceylon Electricity Board (CEB) said that new proposals on the reduction of electricity tariffs could be submitted to the Public Applications Commission this week.. Remble
-
-◼️
-
-[Data](articles/643c24f4.json)
-
-[Extended Data](ext_articles/643c24f4.ext.json)
 
 ---

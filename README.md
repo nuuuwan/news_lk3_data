@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 17:11:44**
+As of **2024-11-23 18:03:08**
 
 ## Newspaper Stats
 
-*Scraped **56,470** Articles*
+*Scraped **56,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
-islandlk | 3,377
+islandlk | 3,378
 economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,306
-adaderanalk | 6,825
-tamilmirrorlk | 8,029
+adaderanalk | 6,826
+tamilmirrorlk | 8,030
 virakesarilk | 9,185
 adaderanasinhalalk | 9,747
 
@@ -26,67 +26,147 @@ adaderanasinhalalk | 9,747
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,467 (100.0%) of 56,470 articles have been extended.
+56,473 (100.0%) of 56,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### සිලින්ඩරේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් නිදහස් පක්ෂයත් ඉල්ලයි
+### Baba Bengal's prediction for 2025
+
+*2024-11-23 17:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாபா-வங்காவின்-2025ஆம்-ஆண்டுக்கான-கணிப்பு/50-347656) · `ta`
+
+Here's a 200-character summary of Baba Bengal's prediction for 2025:
+
+
+
+Baba Bengal predicts zodiacs will have lucky year in 2025, gaining financial success & opportunities. Saturn boosts creativity, enabling bold plans. Mithuna zodiacs get unexpected business openings. Confidence is key for best results.
+
+🟩
+
+Baba Benga's none of the prediction has not yet been wrong. Baba's blind person from Banga Bulgaria has made many predictions.
+
+From 9/11 to the death of Diana, Corona predicted everything until the spread of Corona virus infection. Baba Benga predicts what kind of zodiac will get in 2025.
+
+2025 was a landmark for these zodiacs. Will return their luck this year. Financial opportunities and success. They will have a wonderful opportunity to be the best. According to Baba Bengal, this zodiac will receive the blessing of the universe.
+
+2025 was an important year for these zodiacs. Saturn's influence will increase their creativity. Will carry out brave plans. This year they will reach new heights.
+
+2025 will be the year of financial stability for these zodiacs. Will benefit for their hard work. They have the right opportunities for investing. This year
+
+...
+
+[Data](articles/28153311.json)
+
+[Extended Data](ext_articles/28153311.ext.json)
+
+---
+
+### Sri Lanka’s new govt committed to stick within IMF ‘guardrails’ - Peter Breuer
+
+*2024-11-23 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103709/sri-lankas-new-govt-committed-to-stick-within-imf-guardrails-peter-breuer) · `en`
+
+Sri Lanka’s new government has agreed to press ahead with a IMF bailout programme that involves tough austerity and economic reforms, the international lender announced on Saturday (Nov 23).
+
+The International Monetary Fund said it reached an agreement with President Anura Kumara Dissanayake’s administration to continue with the four-year loan negotiated by his predecessor last year.
+
+“The authorities have committed to stay within the guardrails of the programme,” IMF team leader Peter Breuer told reporters at the end of talks with the new government.
+
+“Sustaining the reform momentum is critical to safeguarding the hard-won gains of the programme, and putting the economy on a path towards lasting recovery and stable and inclusive growth,” Breuer added.
+
+Sri Lanka went to the IMF for a rescue package after the country defaulted on its US$46 billion external debt in April 2022 during an unprecedented economic meltdown.
+
+...
+
+[Data](articles/ffde8d42.json)
+
+[Extended Data](ext_articles/ffde8d42.ext.json)
+
+---
+
+### Independence party asks for national list of cylinder
 
 *2024-11-23 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203656) · `si`
 
-පසුගිය මහ මැතිවරණයේදී නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට ලැබී ඇති ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකෙන් එක් මන්ත්‍රී ධුරයක් ශ්‍රී ලංකා නිදහස් පක්ෂයට ලබා දෙන ලෙස එම පක්ෂය ඉල්ලීමක් කර තිබේ.
+Here's a summary of 200 characters:
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති නිමල් සිරිපාල ද සිල්වා මහතා පැවසුවේ සිය පක්ෂය නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ සමග සන්ධාන ගතවී තරග කළ බැවින් ජාතික ලැයිස්තුවෙන් හිමිවී ඇති මන්ත්‍රීධුරය සම්බන්ධව එම පෙරමුණ සමග සාකච්ඡා කළ බවයි.
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ මතුව ඇති ජාතික ලැයිස්තු අර්බුදය සාකච්ඡා කිරීම සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂ මධ්‍යම කාරක සභාව ඊයේ (22) පස්වරුවේ පක්ෂ මූලස්ථානයේදී රැස්ව වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවසීය.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයට හිමිවිය යුතු ජාතික ලැයිස්තු මන්ත්‍රීධුරය පක්ෂයට ලබා දිය යුතුය යන ස්ථාවරයට පක්ෂයේ මධ්‍යම කාරක සභාව සහ දේශපාලන මණ්ඩලය රැස්වී තීන්දුවක් ගත් බවද එහිදී  ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+"Independence party requests SLFP seat from New Democratic Front. SLFP leader Nimal Siripala de Silva discusses National List crisis."
+
+🟩
+
+The party has requested the Sri Lanka Freedom Party to provide one seat to the Sri Lanka Freedom Party (SLFP) in the New Democratic Front last general election.
+
+Sri Lanka Freedom Party (SLFP) Nimal Siripala de Silva said that the front of the national list was held with the new Democratic Front.
+
+He was speaking at the party headquarters to discuss the National List crisis in the New Democratic Front after the meeting held at the party headquarters yesterday.
+
+He further stated that the party's central committee and the Political Council of the party should have decided to give the Sri Lanka Freedom Party to the party.
 
 ◼️
 
 [Data](articles/4ebdc9e0.json)
 
+[Extended Data](ext_articles/4ebdc9e0.ext.json)
+
 ---
 
-### பதுளை விபத்தில் மற்றுமொரு மாணவனும் உயிரிழப்பு
+### Another student dies in Badulla accident
 
 *2024-11-23 16:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பதுளை-விபத்தில்-மற்றுமொரு-மாணவனும்-உயிரிழப்பு/72-347655) · `ta`
 
-கடந்த முதலாம் திகதி கொழும்பிலிருந்து பதுளைக்கு களப்பயிற்சிக்காகச் சென்ற வேளையில்  போது, பேருந்து விபத்துக்குள்ளானதில் காயமடைந்திருந்த பல்கலைக்கழக மாணவர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Student dies after 23 days from bus accident injuries. Death occurs without proper medical care. Incident raises concerns about emergency services and patient treatment.
 
-சேர் ஜோன் கொத்தலாவல பாதுகாப்புப் பல்கலைக்கழகத்தில் பயிலும்,  யாழ்ப்பாணம் கந்தர்மடம் பகுதியைச் சேர்ந்த, கைலைநாதன் சிந்துஜன் என்பவரே 23 நாட்களின் பின் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+🟩
 
-இந்த விபத்தில் முன்னதாக நான்கு பேர் உயிரிழந்திருந்தனர். இதையடுத்து குறித்த விபத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை ஐந்தாக அதிகரித்துள்ளது.
+A university student who was injured in a bus accident has died without treatment.
 
-பேருந்தில் சென்ற சாரதி உட்பட 36 பேர் காயமடைந்திருந்தனர். காயமடைந்தவர்கள் பதுளை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டனர். அவர்களில் படுகாயமடைந்திருந்த 6 பேர் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டிருந்தனர்.
+Kailanathan Sindhujan, a resident of Kandarmadam, Jaffna, who is studying at Sir John Kotalawala Security University, died after 23 days.
 
-படுகாயமடைந்திருந்த சிந்துஜன் கடந்த வாரம் இரத்மலானையில் அமைந்துள்ள பாதுகாப்பு பல்கலைக்கழக வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டார்.
+Four people were killed in the accident earlier. The number of casualties in the accident has increased to five.
 
-...
+36 people, including driver on the bus, were injured. The injured were admitted to the Badulla Hospital for treatment. Six of them were admitted to the Intensive Care Unit.
+
+The injured Sindhujan was transferred to the Intensive Care Unit of the Security University Hospital in Ratmalana last week.
+
+The hospital administration has announced that he died without treatment at around 5:30 am today.R
+
+◼️
 
 [Data](articles/ec890b17.json)
 
+[Extended Data](ext_articles/ec890b17.ext.json)
+
 ---
 
-### IMF எடுத்துள்ள முக்கிய தீர்மானம்
+### IMF is the main resolution
 
 *2024-11-23 16:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-எடுத்துள்ள-முக்கிய-தீர்மானம்/175-347654) · `ta`
 
-சர்வதேச நாணய நிதியத்தினால் இலங்கைக்கு வழங்கப்படும் நீடிக்கப்பட்ட கடன் வசதி தொடர்பான வேலைத்திட்டத்தின் 3ஆவது மீளாய்வில் அதன் பிரதிநிதிகளும் இலங்கை அதிகாரிகளும் ஊழியர் மட்ட உடன்பாட்டை எட்டியுள்ளதாக சர்வதேச நாணய நிதியம் இன்று (23) அறிவித்துள்ளது.
+Here's a 200-character summary:
 
-சர்வதேச நாணய நிதியத்தின் முகாமைத்துவமும் அதன் நிறைவேற்று சபையும் இதனை அங்கீகரித்ததன் பின்னர் இலங்கைக்கு சுமார் 333 மில்லியன் டொலர்களை பெற்றுக்கொள்ள வாய்ப்பு கிடைக்கும்.
 
-கொள்கைகளை தொடர்ச்சியாக பராமரிக்க புதிய அரசாங்கம் காட்டும் அர்ப்பணிப்பு, திட்டத்தின் நோக்கங்களை அடைய முக்கியமானது என்றும் அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
 
-சர்வதேச நாணய நிதியத்தின் தூதுக்குழுவிற்கு பீட்டர் ப்ரூவர் தலைமை தாங்கிய நிலையில், அவர்கள் நவம்பர் 17 முதல் இந்த நாட்டில் தங்கியிருந்தனர்.
+IMF: Sri Lanka reaches staff-level agreement for $333M. New government commits to maintaining policies. Loan approved March 20, 2023.
 
-2023 மார்ச் 20 ஆம் திகதி, இலங்கைக்கான $2.9 பில்லியன் கடன் வசதியை சர்வதேச நாணய நிதியம் அங்கீகரித்திருந்தது. இது 48 மாதங்களில் செயற்படுத்தப்படும். R
+🟩
+
+The International Monetary Fund today (23) announced that its representatives and Sri Lankan officials have reached an employee level agreement in the 3rd review of the extended credit facility for Sri Lanka by the IMF.
+
+After recognizing the management of the International Monetary Fund and its Executive Council, Sri Lanka will have a chance to get about $ 333 million.
+
+The report also stated that the new government's commitment to maintain policies is important to achieve the objectives of the project.
+
+Peter Brouver was headed by the International Monetary Fund's delegation, and they have been staying in the country since November 17.
+
+On March 20, 2023, the International Monetary Fund recognized the $ 2.9 billion loan for Sri Lanka. It will be implemented in 48 months. Remble
 
 ◼️
 
 [Data](articles/2932028e.json)
+
+[Extended Data](ext_articles/2932028e.ext.json)
 
 ---
 
@@ -2317,61 +2397,5 @@ The President added that the public service was given nearly 80% of the past in 
 [Data](articles/e1febbb2.json)
 
 [Extended Data](ext_articles/e1febbb2.ext.json)
-
----
-
-### The new government takes a decision about the relief
-
-*2024-11-22 18:14:35* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ගැන-නව-රජය-තිරණයක්-ගනියි/11-413214) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-New government decides: Extend revenue welfare benefits deadline. Allow farmers to file complaints in first phase of revenue development program.
-
-🟩
-
-The government has decided to provide additional time for the revenue welfare benefit program.
-
-The government has also given the opportunity to submit grievances for agricultural parties in the first phase of the revenue development.
-
-◼️
-
-[Data](articles/40eb00b1.json)
-
-[Extended Data](ext_articles/40eb00b1.ext.json)
-
----
-
-### Hospital Administration Report on Mannar Emergency
-
-*2024-11-22 18:04:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-அவசர-நிலை-குறித்து-வைத்தியசாலை-நிர்வாகம்-அறிக்கை/72-347626) · `ta`
-
-Here's a summary of the report in approximately 200 characters:
-
-
-
-Mannar Hospital faces crisis after tragic events. Demonstrations disrupt services, threatening patient safety. Medical staff intimidated, equipment damaged. Political interference hampers proper care. Investigation promised to address root causes.
-
-🟩
-
-Mannar Hospital Director, Drugs, Doctors, Assistant Medical Officers, Nurses, Nurses, Health Officers, Health Staff, Patients, Technical Assistants and Technical AssistantsHave issued one.
-
-A loss is unbearable in any way. Despite the causes, the loss can hurt everyone's mind.
-
-A healthy community must support that lost family and help them to recover from it and take action if any errors have been proven.. Have the right to fight everyone in a democratic country. But any struggle must be quiet, constructive and persecuted others.
-
-Mother and Chey Death held at Mannar District General Hospital. It is their right to struggle to make it complete.
-
-The uncomfortable incident in the name of a demonstration around the hospital when the hospital staff was shocked by that tragedy, has led to the following worrisome conditions.
-
-Another mother who had been giving birth to more than 50 people entered the delivery room and dismantled the privacy and his service.
-
-...
-
-[Data](articles/a0416350.json)
-
-[Extended Data](ext_articles/a0416350.ext.json)
 
 ---

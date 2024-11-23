@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 12:01:23**
+As of **2024-11-23 11:42:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,445 (100.0%) of 56,448 articles have been extended.
+56,444 (100.0%) of 56,448 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,21 +82,15 @@ The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, a
 
 ---
 
-### Plan to hold local elections in early 2025
+### 2025 ஆரம்பத்தில் உள்ளூராட்சி தேர்தலை நடத்த திட்டம்
 
 *2024-11-23 10:54:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆரம்பத்தில்-உள்ளூராட்சி-தேர்தலை-நடத்த-திட்டம்/175-347652) · `ta`
 
-Local elections planned for early 2025, according to Minister Vijitha Herath.
-
-🟩
-
-Minister Vijitha Herath said that the local government elections are scheduled to be held early next year.
+உள்ளுராட்சி மன்ற தேர்தலை, அடுத்த வருட ஆரம்பத்தில் நடத்த திட்டமிடப்பட்டுள்ளதாக, அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.AN
 
 ◼️
 
 [Data](articles/217fd6b0.json)
-
-[Extended Data](ext_articles/217fd6b0.ext.json)
 
 ---
 

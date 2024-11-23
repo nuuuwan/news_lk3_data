@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 14:27:07**
+As of **2024-11-23 14:41:36**
 
 ## Newspaper Stats
 
-*Scraped **56,457** Articles*
+*Scraped **56,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,376
 economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,304
-adaderanalk | 6,823
+adalk | 5,305
+adaderanalk | 6,825
 tamilmirrorlk | 8,027
 virakesarilk | 9,183
 adaderanasinhalalk | 9,743
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,455 (100.0%) of 56,457 articles have been extended.
+56,455 (100.0%) of 56,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### Heavy showers of 150 mm expected in several provinces
+
+*2024-11-23 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103707/heavy-showers-of-150-mm-expected-in-several-provinces) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at times in the Northern, North-central, Eastern and Uva provinces and in Hambantota District.
+
+Showers or thundershowers will occur at several places elsewhere on the island during the evening or night.
+
+Heavy showers of about 150 mm are likely at some places in Northern, North-central, Eastern and Uva provinces, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e27f23e6.json)
+
+---
+
+### KDU bus accident: Death toll rises to 3 as another student dies
+
+*2024-11-23 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103706/kdu-bus-accident-death-toll-rises-to-3-as-another-student-dies) · `en`
+
+Another student has reportedly succumbed to injuries sustained in the fatal bus accident that occurred on November 01 in Badulla, increasing the death toll to three.
+
+The 24 year-old victim, Kayilanathan Sinthujan, was a resident of Kantharmadam, Jaffna and has passed away today (23) while receiving treatment at the University Hospital KDU (UHKDU).
+
+A former student of Jaffna Hindu College, he had sat for the G.C.E. Advanced Level (A/L) examination under the stream of Physical Science (Maths).
+
+The incident on November 01 had claimed the lives of two individuals and injured 39 others when a bus carrying over 40 passengers toppled on Dunhinda Road in Badulla.
+
+Among the deceased were two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU). The students had been traveling on a field trip when the bus hit a curb and overturned.
+
+...
+
+[Data](articles/80bddd65.json)
+
+---
 
 ### KDU බස් අනතුරෙන් තුවාල ලැබු තවත් සිසුවෙක් මරුට
 
@@ -1504,6 +1542,22 @@ At this Thandi Workshop, the role of the Member of Parliament, Parliamentary Pri
 
 ---
 
+### ජාත්‍යන්තර මූල්‍ය අරමුදලේ තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව සාර්ථකව අවසන්
+
+*2024-11-22 21:20:28* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-මූල්‍ය-අරමුදලේ-තුන්වන-සමාලෝචනයට-අදාළ-සාකච්ඡාව-සාර්ථකව-අවසන්/11-413216) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ පැවති තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව අද (22) ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+මේ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල වෙනුවෙන් ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මහතා ඇතුළු නියෝජිත කණ්ඩායම සහභාගි වූ අතර ශ්‍රී ලංකා රජය නියෝජනය කරමින් ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා ඇතුළු කණ්ඩායම සහභාගී විය.
+
+ඒ අනුව ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකා රජය අතර පැවති තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව සාර්ථකව අවසන් වී ඇත.
+
+◼️
+
+[Data](articles/de9fff4b.json)
+
+---
+
 ### We cannot move forward without restoring public’s trust in public service - President
 
 *2024-11-22 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103696/we-cannot-move-forward-without-restoring-publics-trust-in-public-service-president-) · `en`
@@ -2325,87 +2379,5 @@ The Ambassador who praised the government's new policy of creating a country fre
 [Data](articles/f6d54560.json)
 
 [Extended Data](ext_articles/f6d54560.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 291.00/10 to dollar, bonds steady
-
-*2024-11-22 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-00-10-to-dollar-bonds-steady-189486/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.00/10 to the US dollar on Friday from 290.95/291.05 to the US dollar on Thursday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 10.20/25 percent, up from 10.15/25 percent.
-
-A bond maturing on 15.03.2028 closed at 11.05/15 percent, down from 11.10/20 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov22/2024)
-
-◼️
-
-[Data](articles/33d27f00.json)
-
-[Extended Data](ext_articles/33d27f00.ext.json)
-
----
-
-### Parliamentarian Archtuna complaint against Ramanathan
-
-*2024-11-22 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203631) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Civilian activists filed a complaint against newly elected MP Archunanathan with CID regarding his behavior in Parliament. He allegedly refused to vacate his seat despite being told by staff, sparking controversy among other MPs.
-
-🟩
-
-A complaint has lodged a complaint with civilian activists against the Criminal Investigation Department against the Criminal Investigation Department against Archunathan who was sworn in as a new Member of Parliament.
-
-The complaint has been lodged by civil activists to investigate a statement made by Facebook social media network.
-
-Since the MPs were not reserved according to seniority of the MPs, the members of the Jaffna district have been sitting at any seat yesterday (21).
-
-Although a parliamentary staff was official and told the MP, he refused to leave the seat and had been conversing the independent MP.
-
-He was elected to Parliament representing the 17 Independent group from Jaffna district.
-
-◼️
-
-[Data](articles/3b2ffb79.json)
-
-[Extended Data](ext_articles/3b2ffb79.ext.json)
-
----
-
-### Woman sentenced to 35 years in prison for allegedly sending abroad
-
-*2024-11-22 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199421) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Woman gets 35-year sentence for alleged fraud & money laundering. Defrauded over 4 crore rupees posing as foreign employment agent. All transactions via her personal account. Case heard in Additional Magistrate's Court.
-
-🟩
-
-A woman who was allegedly defrauding millions of money for allegedly sending it abroad has been sentenced to 35 years in prison.
-
-A woman from Jaffna has been arrested and investigated on the basis of complaints received by the District Crime Branch for allegedly defrauding the youth.
-
-Investigations have revealed that more than 4 crores of rupees were fraudulent, money laundering, identifying as a foreign employment agent without permission.
-
-All the money transactions are carried out through the woman's own account number.
-
-The woman with the sources of these. The case was held as the Additional Magistrate's Court was produced.
-
-In this case, the woman was identified as a culprit and sentenced to 35 years in prison.
-
-◼️
-
-[Data](articles/dc8750bc.json)
-
-[Extended Data](ext_articles/dc8750bc.ext.json)
 
 ---

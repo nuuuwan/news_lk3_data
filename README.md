@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 15:41:54**
+As of **2024-11-23 16:01:08**
 
 ## Newspaper Stats
 
-*Scraped **56,462** Articles*
+*Scraped **56,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 5,306
 adaderanalk | 6,825
 tamilmirrorlk | 8,027
 virakesarilk | 9,183
-adaderanasinhalalk | 9,743
+adaderanasinhalalk | 9,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,462 (100.0%) of 56,462 articles have been extended.
+56,462 (100.0%) of 56,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### අස්වැසුමට අයදුම් නොකළ පිරිසට අතිරේක සහන කාලයක්
+
+*2024-11-23 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203653) · `si`
+
+අස්වැසුම සුබ සාධක ප්‍රතිලාභ වැඩසටහනට මෙතෙක් අයදුම් කිරීමට නොහැකිවූ පුද්ගලයින් සඳහා අතිරේක සහන කාලයක් ලබා දීමට සුබසාධක ප්‍රතිලාභ මණ්ඩලය තීරණය කර තිබේ.
+
+එහි සභාපති ජයන්ත විජේරත්න මහතා පැවසුවේ නොවැම්බර් 25 වනදා සිට දෙසැම්බර් මස 02වැනිදා දක්වා අස්වැසුම ප්‍රතිලාභ වැඩසටහනට අයදුම්කිරීමට අවස්ථාව ලබා දී ඇති බවය.
+
+ඒ සඳහා වන අයදුම්පත්‍රය ප්‍රාදේශීය ලේකම් කාර්යාල මගින් ලබා ගත හැකි වෙයි.
+
+එමෙන්ම අස්වැසුම ප්‍රතිලාභී යෝජනා ක්‍රමයේ පළමු වටයේ ප්‍රතිලාභීන් තෝරා ගැනීමේදී අගතියට පත් පුද්ගලයින්ට දුක්ගැනිවිලි ඉදිරිපත් කිරීම සඳහා ද දෙසැම්බර් මස 15 වන දින දක්වා අවස්ථාව ලබා දී ඇති බවද ඔහු පැවසීය.
+
+මේ අතර සුබසාධක ප්‍රතිලාභ මණ්ඩලය පෙන්වා දී ඇත්තේ අස්වැසුම යෝජනා ක්‍රමයේ පළමු අදියර යටතේ පවුල් ලක්ෂ 17ක් සඳහා දීමනා ගෙවීම සිදුකරන අතර ප්‍රතිලාභ අපේක්ෂාවෙන් එහි දෙවන අදියර සඳහා අයදුම්පත් හාර ලක්ෂ 55,000ක් ලැබී ඇති බවය.
+
+◼️
+
+[Data](articles/a2d56b2a.json)
+
+---
 
 ### Expecting support to all the victories towards
 
@@ -2377,29 +2397,5 @@ Yet we do not see new programs to the current president. Former President Ranil 
 [Data](articles/9211eaf9.json)
 
 [Extended Data](ext_articles/9211eaf9.ext.json)
-
----
-
-### Sajith meets IMF representatives again
-
-*2024-11-22 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203634) · `si`
-
-Sajith Premadasa met IMF reps in Colombo. Discussed overcoming Sri Lanka's financial crisis. Aimed for a populist agreement between IMF and government. Attended with Dr. Harsha De Silva and Prof. Prasanna Perera.
-
-🟩
-
-Opposition Leader Sajith Premadasa and a group of representatives of the International Monetary Fund (IMF representative) occurred in Colombo.
-
-He was also joineding the International Monetary Fund (IMF Senior Mission) representing the IMF Senior Mission, Deputy Mission Mahati Mrs. Mar.
-
-At present the two sides exchanged the ideas at length between the ways to overcome the techniques of Sri Lanka's bankruptcy.. The Opposition Leader Sajith Premadasa has been aimed at the meeting, the International Monetary Fund should go to a populist agreement with a government and a president.
-
-Dr. Harsha De Silva, Opposition Leader Sajith Premadasa, with the Opposition Leader of the Opposition today, was held with the EPF representatives., S. M. As well as Senior Professor Prasanna Perera, Senior Professor of Sri Jayewardenepura University, joined the UN Senior Professor Prasanna Perera of Sri Jayawardenapura University.
-
-◼️
-
-[Data](articles/f7ef8dda.json)
-
-[Extended Data](ext_articles/f7ef8dda.ext.json)
 
 ---

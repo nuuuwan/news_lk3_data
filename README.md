@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 01:11:47**
+As of **2024-11-24 01:26:32**
 
 ## Newspaper Stats
 
-*Scraped **56,505** Articles*
+*Scraped **56,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,308
 adaderanalk | 6,830
-tamilmirrorlk | 8,033
+tamilmirrorlk | 8,034
 virakesarilk | 9,197
 adaderanasinhalalk | 9,756
 
@@ -26,9 +26,29 @@ adaderanasinhalalk | 9,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,505 (100.0%) of 56,505 articles have been extended.
+56,505 (100.0%) of 56,506 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-24 (Sunday)
+
+### ’கட்சிக்குள் நெருக்கடி இல்லை’
+
+*2024-11-24 01:12:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சிக்குள்-நெருக்கடி-இல்லை/175-347672) · `ta`
+
+தேசியப்பட்டியல் நியமனம் தொடர்பில் கட்சிக்குள் எந்தவித நெருக்கடியும் இல்லை என ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+கொழும்பில் ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போது இதனைத் தெரிவித்த அவர், தேசிய பட்டியல் நியமனம் தொடர்பில் விரைவில் அறிவிக்கப்படும் எனவும் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+நாட்டை கட்டியெழுப்புவதில் அவர்கள் அனைவருக்கும் பெரும் பொறுப்பு இருக்க வேண்டும். இந்த பட்டியலில் மிகவும் அனுபவம் வாய்ந்தவர்கள் உள்ளனர்.
+
+வீழ்ச்சி கண்டுள்ள நாட்டையும் 220 லட்சம் மக்களையும் மீட்டெடுப்பதே எனது எண்ணப்பாடாக இருக்கிறது என்றார். (a)
+
+◼️
+
+[Data](articles/6692cee3.json)
+
+---
 
 ### 2024-11-23 (Saturday)
 
@@ -2477,21 +2497,5 @@ Associated Motorways Ltd., a leader in Sri Lanka automotive industry celebrates 
 [Data](articles/4bdc35b3.json)
 
 [Extended Data](ext_articles/4bdc35b3.ext.json)
-
----
-
-### Abans Environmental Services secures prime spot in Sri Lanka’s premier business directory for 2024/25
-
-*2024-11-23 00:40:36* · [`dailyftlk`](https://www.ft.lk/business/Abans-Environmental-Services-secures-prime-spot-in-Sri-Lanka-s-premier-business-directory-for-2024-25/34-769576) · `en`
-
-SLT-Services Chief Officer – Digital Services Upul Manchanayake (second from left) presents the latest Rainbow Pages Business Directory to Abans Environmental Services Managing Director Phiroze Pestonjee (third from right) at the contract signing ceremony, joined by Abans Head of Branding and Communications Vipula Gunaratne and SLT-Services representatives
-
-Abans Environmental Services Ltd. (AES), the leader in janitorial and related services in Sri Lanka, has strengthened its position as a key advertiser in the upcoming release of Rainbow Pages, the National Business Directory 2024/25, presented by the SLT-Mobitel Group. As one of the top clients of the National Business Directory, Abans Environmental Services Ltd recognises the value and potential of this comprehensive marketing platform.
-
-...
-
-[Data](articles/ccf835a5.json)
-
-[Extended Data](ext_articles/ccf835a5.ext.json)
 
 ---

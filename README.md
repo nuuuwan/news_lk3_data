@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 08:05:53**
+As of **2024-11-23 08:27:03**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,426 (100.0%) of 56,428 articles have been extended.
+56,428 (100.0%) of 56,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### A/L பரீட்சார்த்திகளின் கவனத்துக்கு
+### To the attention of A/L examiners
 
 *2024-11-23 07:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-347646) · `ta`
 
-எதிர்வரும் க.பொ.த உயர்தரப் பரீட்சை நடைபெறவுள்ள அனைத்து பரீட்சை நிலையங்களிலும், நுளம்பு ஒழிப்பு வேலைத்திட்டங்களை நடைமுறைப்படுத்துமாறு, தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு பணித்துள்ளது.
+National Dengue Control Unit implements eradication programs at GCE Advanced Level Examination centers. Social adviser advises examiners to bring fluids/creams. Disaster Management Center provides guidelines to prevent disruptions. Exam starts Nov 25, ends Dec 20 at 2,312 centers.
 
-மேலும்,  பரீட்சை நிலையங்களுக்கு, நுளம்பு விரட்டி திரவம் அல்லது கிரீம்களை கொண்டு வருமாறு பரீட்சார்த்திகளுக்கு, சமூக ஆலோசகர் லஹிரு கொடித்துவக்கு அறிவுறுத்தியுள்ளார்.
+🟩
 
-மேலும், பேரிடர்களின் காரணமாக பரீட்சைக்கு இடையூறுகள் ஏற்படாதவாறு பேரிடர் மேலாண்மை மையம் உரிய அதிகாரிகளுக்கு வழிகாட்டுதல்களை வழங்கியுள்ளது.
+The National Dengue Control Unit has been appointed to implement the eradication programs of all the examination centers where the upcoming GCE Advanced Level Examination is to be held.
 
-க.பொ.த உயர்தரப் பரீட்சை நவம்பர் 25ஆம் திகதி ஆரம்பமாகி டிசம்பர் 20ஆம் திகதி வரை 2,312 பரீட்சை நிலையங்களில் இடம்பெறவுள்ளது.AN
+In addition, the social adviser Lahiru Kodith has advised the examiners to bring the fluid or creams to the examination stations.
+
+In addition, the Disaster Management Center has provided guidelines to the relevant authorities so as not to cause disruption to the exam due to disaster.
+
+The GCE Advanced Level Examination will commence on November 25 and will be held at 2,312 examination centers till December 20.
 
 ◼️
 
 [Data](articles/46ed5343.json)
 
+[Extended Data](ext_articles/46ed5343.ext.json)
+
 ---
 
-### கீழ்நிலை பொலிஸாரின் பிரச்சினைகளை தீர்க்க திட்டம்
+### Plan to solve the problems of the subordinate police
 
 *2024-11-23 07:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீழ்நிலை-பொலிஸாரின்-பிரச்சினைகளை-தீர்க்க-திட்டம்/175-347645) · `ta`
 
-கீழ்நிலை பொலிஸ் அதிகாரிகள் எதிர்கொள்ளும் சவால்களை எதிர்கொள்வதற்கு,  பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் அமைச்சு அவசர வேலைத்திட்டமொன்றை ஆரம்பிக்க திட்டமிட்டுள்ளது.
+Here's a summary in 200 characters:
 
-உப பொலிஸ் பரிசோதகர் பதவிக்கு கீழான அதிகாரிகள் அதிக கடமைப் பணிகள், தொலைதூரப் பிரதேசங்களில் பணியமர்த்தல், முறையான பதவி உயர்வு நடைமுறைகள் இல்லாமை, முறையற்ற இடமாற்ற முறை உள்ளிட்ட பல்வேறு பிரச்சினைகளை எதிர்நோக்கி வருவதாக, பொது பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்துள்ளார்.
 
-இப்பிரச்சினைகளை திறம்பட தீர்க்கும் நோக்கில், கட்டமைக்கப்பட்ட அமைப்பை ஏற்படுத்துவதற்கு உயர் பொலிஸ் அதிகாரிகளுடன் கலந்துரையாடல் நடத்தப்படும் என அமைச்சர் உறுதியளித்தார்.
 
-பொலிஸ் திணைக்களத்தின் கௌரவம் மற்றும் நிபுணத்துவத்தை நிலைநிறுத்துவதற்கு ஏற்ற பணிச்சூழலை உருவாக்குவதற்கான தனது அர்ப்பணிப்பை அமைச்சர் விஜேபால வலியுறுத்தினார்.AN
+"Ministry plans emergency program for subordinate police. Issues: heavy workload, remote postings, poor promotions, improper transfers. Minister vows consultation to establish structured system, uphold police honor and expertise."
+
+🟩
+
+The Ministry of Public Security and Parliamentary Affairs is planning to launch an emergency program to address the challenges faced by subordinate police officials.
+
+Minister of Public Security and Parliamentary Affairs, Ananda Wijepala said that the authorities under the post of Sub Inspector General of Police (SEP) are facing various issues, including high obligation, hiring in distant areas, lack of proper promotion procedures and improper relocation.
+
+The Minister promised to hold a consultation with top police officers to establish a structured system in order to resolve these issues effectively.
+
+Minister Wijepala urged his commitment to create a workplace to uphold the honor and expertise of the Police Department.
 
 ◼️
 
 [Data](articles/284d6855.json)
+
+[Extended Data](ext_articles/284d6855.ext.json)
 
 ---
 

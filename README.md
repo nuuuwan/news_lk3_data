@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 09:02:18**
+As of **2024-11-23 09:17:43**
 
 ## Newspaper Stats
 
-*Scraped **56,430** Articles*
+*Scraped **56,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,68 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 586
 islandlk | 3,376
-economynextcom | 3,427
+economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,816
-tamilmirrorlk | 8,020
+tamilmirrorlk | 8,021
 virakesarilk | 9,182
-adaderanasinhalalk | 9,733
+adaderanasinhalalk | 9,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,429 (100.0%) of 56,430 articles have been extended.
+56,430 (100.0%) of 56,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### உடனடியாக என்னை இடமாற்றம் செய்யவும் ; மன்னார் வைத்தியர் ஆசாத்
+
+*2024-11-23 09:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உடனடியாக-என்னை-இடமாற்றம்-செய்யவும்-மன்னார்-வைத்தியர்-ஆசாத்/72-347647) · `ta`
+
+எனது  உயிரை பாதுகாக்க வடக்கில் இருந்து உடனடியாக   இடமாற்றம் செய்ய கோரி  மன்னார் மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளர் வைத்தியர்  ஆசாத் எம்.ஹனிபா  மத்திய சுகாதார அமைச்சின் செயலாளரிடம் உருக்கமான கோரிக்கை யை விடுத்துள்ளார்.
+
+இவ்விடயம் தொடர்பாக மத்திய சுகாதார அமைச்சின் செயலாளருக்கு நேற்று (22) அவசர கடிதம் ஒன்றை அனுப்பி வைத்துள்ளார்.
+
+மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு  வைத்திய அத்தியட்சகராக   நான் நியமிக்கப் பட்டதில் இருந்து பல சுகாதார தர மேம்பாடுகள் மற்றும் நோயாளிகளின் பாதுகாப்பு நடவடிக்கைகளை செயல் படுத்துவதன் மூலம் சுகாதார சேவைகளை மேம்படுத்த என்னை அர்ப்பணித்து வந்துள்ளேன்.
+
+எனினும் கடந்த 19 ஆம் திகதி (19)  மன்னார் மாவட்ட பொது வைத்தியசாலையில் துரதிர்ஷ்டவசமான கரு மகப்பேறு மரணம் நிகழ்ந்துள்ளது.
+
+குறித்த தாய் மற்றும் சிசுவின்  மரணம் தொடர்பாக உரிய நடவடிக்கையை முன்னெடுத்து வந்தேன்.
+
+எனினும் மகப்பேற்று விடுதியில்  புகுந்த கும்பல் பிரசவ அறைக்குள் நுழைந்து மருத்துவமனையின் சொத்துக்களை சேதப்படுத்தியது.
+
+...
+
+[Data](articles/f65a8faa.json)
+
+---
+
+### තරුණයෙකුට දිවි අහිමි කළ අනියම් පෙම
+
+*2024-11-23 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203645) · `si`
+
+කොස්ලන්ද පොලිස් වසමේ හාමුදුරුකන්ද ප්‍රදේශයේ ඊයේ (22) පුද්ගලයෙකු ඝාතනය කර තිබූ බව පොලීසිය පවසයි.
+
+මේ සම්බන්ධයෙන් විමර්ශන සිදුකිරීමේදී තණමල්විල ප්‍රදේශයේ පුද්ගලයෙකු මේ මස 18 වන දින සිට අතුරුදහන්ව ඇති බවට තණමල්විල පොලීසියට පැමිණිල්ලක් ලැබී තිබී ඇත.
+
+ඒ අනුව සිදුකරනු ලැබූ විමර්ශනයේදී එලෙස අතුරුදහන්ව ඇත්තේ ඝාතනයට ලක් වූ පුද්ගලයා බවත්, ඔහු තවත් පුද්ගලයෙකු සමග හාමුදුරුකන්ද ප්‍රදේශයට ගොස් ඇති බවටත් කරුණු අනාවරණය කරගැනීමට පොලීසියට හැකිව ඇත.
+
+ඒ ඔස්සේ විමර්ශන ඇරඹූ පොලීසිය, අතුරුදහන් වූ පුද්ගලයා සමග ගිය බව කියන වයස අවුරුදු 45ක් වන බලහරුව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+ඔහුගෙන් සිදුකරන ලද ප්‍රශ්න කිරීමේදී හෙළිවී ඇත්තේ, ඔහු විසින් අතුරුදහන් වූ පුද්ගලයාගේ ගෙල කපා ඝාතනය කර හිස කොටස වල දැමූ බවයි.
+
+මරණකරු සහ සැකකරු ඌව කුඩාඔය ප්‍රදේශයේ පදිංචි කාන්තාවක් සමග අනියම් සම්බන්ධතාවයක් පවත්වා ඇති අතර, ඔවුන් අතර ඇතිවූ ආරවුලක් මත මරණකරුව ඉහත ප්‍රදේශයට කැඳවාගෙන ගොස් ඝාතනය කර ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/c76d405e.json)
+
+---
 
 ### Heavy showers expected in parts of the island
 
@@ -106,6 +150,88 @@ Minister Wijepala urged his commitment to create a workplace to uphold the honor
 
 ---
 
+### රටම බලාසිටින නිධානය සොයා අදත් කැණීම්
+
+*2024-11-23 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203644) · `si`
+
+වේයන්ගොඩ, වදුරව ප්‍රදේශයේ වගුරු සහිත භූමියක් ආශ්‍රිතව අධිකරණ නියෝගයක් මත නිධානයක් සොයා ආරම්භ කළ කැණීම් කටයුතු අද (23) දිනයේත් සිදු කිරීමට නියමිතව තිබේ.
+
+ඉදිකරමින් පවතින මධ්‍යම අධිවේගී මාර්ගය ආසන්නයේ පිහිටි ස්ථානයක මෙම කැණීම් කටයුතු ආරම්භ වූ අතර, අද තෙවන දිනටත් එම කටයුතු සිදු කිරීමට නියමිත බව වේයන්ගොඩ පොලීසිය පැවසීය.
+
+එම ස්ථානයේ නිධානයක් සොයා පසුගිය කාලයේ සිට විවිධ පුද්ගලයින් නීතිවිරෝධීව කැණීම් කටයුතු සිදු කර තිබූ අතර, එහිදී අත්අඩංගුවට ගත් බොහෝ පිරිසක් රක්ෂිත බන්ධනාගාර ගතව සිටින බව සඳහන්ය.
+
+මෙම තත්ත්වය තුළ අත්තනගල්ල මහේස්ත්‍රාත්වරයා විසින් ලබාදුන් නියෝග පරිදි  පොලිස් විශේෂ කාර්ය බලකාය විසින් සිදුකළ ස්කෑන් පරීක්ෂණවලදී පොළොව අභ්‍යන්තරයේ යම් දෙයක් ඇති බවට නිරීක්ෂණය විය.
+
+ඒ පිළිබදව අධිකරණයට කරුණු වාර්තා කිරීමෙන් පසු අත්නගල්ල මහේස්ත්‍රාත් අධිකරණය, වේයන්ගොඩ පොලීසියට නියෝග කර තිබුණේ මහජනතාව ඉදිරියේ එම ස්ථානයේ කැණීම් සිදු කරන ලෙසය.
+
+එම කැණීම් සඳහා දින දෙකක කාලයක් ලබා දී තිබූ අතර, ඒ අනුව ඊයේ සහ පෙරේදා දිනවල එහි කැණීම් සිදු කළේය.
+
+...
+
+[Data](articles/24f32510.json)
+
+---
+
+### Sri Lanka to set up tourism commission: Minister Herath
+
+*2024-11-23 07:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-set-up-tourism-commission-minister-herath-189520/) · `en`
+
+ECONOMYNEXT – Sri Lanka will combine existing agencies and set up a Tourism Commission for the sector, the Indian Ocean island’s Foreign and Tourism Minister said.
+
+“We plan to combine the agencies within the Tourism Ministry and appoint a Commission,” Minister Herath told reporters in Kandy.
+
+“Through a merger of agencies we target to revive the sector.”
+
+Unlike other export sectors, which takes time to revive, tourism is an area where quick wins can be scored, he said.
+
+The National People’s Power had a plan for the sector he said. Work will begin next year. (Colombo/Nov22/2024)
+
+◼️
+
+[Data](articles/bbc487bf.json)
+
+---
+
+### IMF තුන්වන සමාලෝචනයේ නිල ප්‍රකාශය අද
+
+*2024-11-23 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203643) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ තෙවන සමාලෝචනය සම්බන්ධයෙන් එම අරමුදලේ නියෝජිතයින් අද (23) පෙරවරුවේ නිල වශයෙන් කරුණු දැක්වීමට නියමිතව ඇත.
+
+තෙවන සමාලෝචනය අවසන් කිරීම සඳහා ආර්ථික ප්‍රතිපත්ති පිළිබඳව කාර්යමණ්ඩල මට්ටමේ එකඟතාවයකට පැමිණීම සම්බන්ධයෙන් මෙහිදී දැනුම්දීමට නියමිතව තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකා රජය අතර තුන්වන සමාලෝචනයට අදාළ සාකච්ඡා ජනාධිපති කාර්යාලයේදී පසුගියදා පැවැත්වීය.
+
+එම සාකච්ඡාවට ජාත්‍යන්තර මූල්‍ය අරමුදල වෙනුවෙන් ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් හා ශ්‍රී ලංකා රජය නියෝජනය කරමින් ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා ඇතුළු කණ්ඩායමක් සහභාගී විය.
+
+දෙපාර්ශ්වය අතර සාකච්ඡාව සාර්ථකව අවසන් වූ බව ජනාධිපති මාධ්‍ය අංශය පසුගියදා තහවුරු කළේය.
+
+◼️
+
+[Data](articles/cfccf4cb.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට මි.මී. 100ට වැඩි තද වැසි
+
+*2024-11-23 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203642) · `si`
+
+අද (23) උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද ඔවුන් ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/e1b1a9da.json)
+
+---
+
 ### To create a government that meets expectations
 
 *2024-11-23 02:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்பார்ப்புகளை-நிறைவேற்றும்-அரசை-உருவாக்க-வேண்டும்/175-347644) · `ta`
@@ -145,6 +271,8 @@ The Mastercard Touch Card features a distinct rounded notch, which enables the v
 ...
 
 [Data](articles/a4b763bd.json)
+
+[Extended Data](ext_articles/a4b763bd.ext.json)
 
 ---
 
@@ -2275,161 +2403,5 @@ Subsequently, when the complainant stopped the bus in Aluthgama, a group of peop
 [Data](articles/4cce8fe6.json)
 
 [Extended Data](ext_articles/4cce8fe6.ext.json)
-
----
-
-### Another landslide in Badulla
-
-*2024-11-22 15:06:53* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-තවත්-නාය-යාමක්/11-413212) · `si`
-
-Landslide hits homes in Badulla district. Seven family members ordered to evacuate. Houses damaged, walls destroyed. Disaster Management Center informed residents. National Building Research Organization to inspect area.
-
-🟩
-
-The Badulla District Secretary Pundala Sri Palrat Abeywardena says that seven members of two families residing in the houses in the Badulla Wellabinddedawa Watta Division has been instructed to leave the houses.
-
-The houses in the Badulla Wellbinddawa, Badulla has been subjected to the landslide and destroyed the walls of the houses, he said.
-
-Badulla District Secretary Pundayek Abeywardena stated that the school secretary of the Badulla Wellabedda Estate belonging to the Badulla Wellabindddawatta.
-
-However, the Disaster Management Center (DMC) has informed the people of estate houses in the Badulla area.
-
-Badulla District Secretary Pundala Sri Palhat Abeywardena said that the National Building Research Organization of the National Building Research Organization said that the National Building Research Organization (NBT) is scheduled to be inspected.. (I j)
-
-◼️
-
-[Data](articles/511ee2ea.json)
-
-[Extended Data](ext_articles/511ee2ea.ext.json)
-
----
-
-### Special announcement to all Sri Lankans working in Kuwait
-
-*2024-11-22 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203628) · `si`
-
-Here's a summary of the announcement in approximately 200 characters:
-
-
-
-Sri Lankan workers in Kuwait: Deadline for fingerprints is Dec 31, 2024. Use Sahel software or MATTA for fingerprinting. Choose nearest location. Security directors in specific areas. Government and banks must comply.
-
-🟩
-
-The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide their livestock to workers and foreigners working in Kuwait.
-
-The deadline that can be given to the fingerprints will end on December 31, 2024.
-
-The Sri Lanka Bureau of Sri Lanka (SLBFE) has issued an announcement and all Sri Lankan workers working in Kuwait is given to the internal ministry in the internal ministry.
-
-As a result, the time is available to be reserved for the use of "Sahel" software belonging to Kuwait, or to give fingerprinting through the "MATTA".
-
-It is also given the opportunity to choose a close place to give fingerprints.
-
-According to the Foreign Employment Bureau, he has placed it in the security directors of Havali, Farwania, Ahama, Ahamad, Mubar, JHra.
-
-In addition, the announcement states that the people of Ali Sabbala Al Salim, Um Al-Nemaan and Jahara areas.
-
-...
-
-[Data](articles/6e85caef.json)
-
-[Extended Data](ext_articles/6e85caef.ext.json)
-
----
-
-### Yall. Those who cut the calf in Kayts
-
-*2024-11-22 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199410) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Calf theft in Kayts, Jaffna: Thieves cut calf, flee after locals intervene. Police recover motorcycle & 200kg beef. Incident sparks community concern about rising cattle thefts.
-
-🟩
-
-They have fled when they tried to catch the people who cut a calf of meat in the Kayts area of ​​Jaffna.
-
-A motorcycle and about 200 kg of beef have been rescued by the townspeople and handed over to the police
-
-In the Kayts, Suruvil area, on Friday (22), the high -quality cab was smuggled into the greenery, cutting it in the abdomen, throwing the calf out in the stomach, and cutting the meat into pieces, and the people who were cutting the cow, and the carriage were folded.They have abandoned the meat and fled.
-
-Following the announcement of the Kayts police in connection with the incident, the police have launched investigations and have taken the motorcycle and meat to the police station.
-
-The incident of kidnapping and cutting down a calf of a calf of a calf today has caused anxiety among the townspeople and demanded immediate action to control if the illegal action of cutting cows in the islands is increased.
-
-◼️
-
-[Data](articles/3e3fcfc6.json)
-
-[Extended Data](ext_articles/3e3fcfc6.ext.json)
-
----
-
-### November Adult Offer to the Bank Account
-
-*2024-11-22 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203627) · `si`
-
-Government deposits Rs. 3,000 in bank accounts. 511,086 individuals receive allowances totaling Rs. 1,533,258,000. Funds available for withdrawal on November 22.
-
-🟩
-
-The government has announced that the government has obtained Rs. 3,000.
-
-The government has banked the money regarding the month of November and the government has issued a statement that the money could be obtained from the Banking Account today (22).
-
-The allowance is paid to 511,086 persons under the Quality Scheme and Rs. 1,533,258,000 has been allocated for this month.
-
-◼️
-
-[Data](articles/257424f0.json)
-
-[Extended Data](ext_articles/257424f0.ext.json)
-
----
-
-### Prof. Udugamasooriya appointed President’s Senior Advisor on Science and Technology
-
-*2024-11-22 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103690/prof-udugamasooriya-appointed-presidents-senior-advisor-on-science-and-technology) · `en`
-
-Professor Gomika Udugamasooriya has been appointed as the Senior Advisor to the President on Science and Technology, the President’s Media Division (PMD) said.
-
-Prof. Udugamasooriya, who is affiliated with the University of Houston and the MD Anderson Cancer Research Center in the United States, received his appointment letter today (22) at the Presidential Secretariat from the Secretary to the President Dr. Nandaka Sanath Kumanayake.
-
-An alumnus of D.S. Senanayake College in Colombo, Prof. Udugamasooriya holds a specialized degree in Chemistry from the University of Colombo. He earned his Ph.D. from Wayne State University in Michigan, USA, and completed postdoctoral research at the University of Texas Southwestern Medical Center.
-
-A holder of numerous patents, Professor Udugamasooriya’s decision to transition from his role in U.S. public service to take up the honorary position of Senior Advisor on Science and Technology is a notable development, the PMD statement said.
-
-...
-
-[Data](articles/f61a56be.json)
-
-[Extended Data](ext_articles/f61a56be.ext.json)
-
----
-
-### Sri Lanka’s Dipped Products buys Thailand-based rubber glove factory
-
-*2024-11-22 14:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-buys-thailand-based-rubber-glove-factory-189451/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Dipped Products Plc said it had acquired 100 percent of the equity of Hi Care Thai Gloves Company Ltd in Thailand for 11 million US dollars.
-
-“This strategic acquisition aligns with the Company’s objectives to expand its global footprint in the rubber glove manufacturing industry and strengthen its presence in international markets,” Dipped Products said in a stock exchange filing.
-
-“The transaction will be completed upon the purchase consideration of Thai Baht 370 Million (approximately USD 11 Million) being released for the aforesaid acquisition, and will be made by Dipped Products (Thailand) Limited, a wholly-owned subsidiary of the Company.”
-
-Dipped Products already has a factory in the East Asian nation.
-
-The acquisition was carried out by Dipped Products (Thailand) Ltd after a due diligence study.
-
-In May, Dipped Products Plc opened a marketing office in Mumbai, India as part of efforts to strengthen its presence in the country.
-
-◼️
-
-[Data](articles/87fa8e12.json)
-
-[Extended Data](ext_articles/87fa8e12.ext.json)
 
 ---

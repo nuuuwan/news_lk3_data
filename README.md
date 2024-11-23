@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 10:15:10**
+As of **2024-11-23 10:42:26**
 
 ## Newspaper Stats
 
-*Scraped **56,439** Articles*
+*Scraped **56,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
-adaderanalk | 6,818
-tamilmirrorlk | 8,022
+adaderanalk | 6,819
+tamilmirrorlk | 8,023
 virakesarilk | 9,182
 adaderanasinhalalk | 9,737
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 9,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,439 (100.0%) of 56,439 articles have been extended.
+56,439 (100.0%) of 56,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### துப்பாக்கிசூட்டில் 42 பேர் பலி
+
+*2024-11-23 10:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/துப்பாக்கிசூட்டில்-42-பேர்-பலி/50-347649) · `ta`
+
+பாகிஸ்தானில், நேற்று (22), நடந்த துப்பாக்கி சூடு சம்பவத்தில், 42 பேர் உயிரிழந்தனர்.
+
+பாகிஸ்தானின் கைபர் பகுதுவா மாகாணத்தை சேர்ந்த சிலர் நேற்று கார், பஸ்சில் பிரசினர் நகரில் இருந்து பெஷாவர் நகருக்கு சென்றுகொண்டிருந்தனர்.
+
+குரம் என்ற பகுதியில் சென்றுகொண்டிருந்த போது பஸ், காரை மற்றொரு காரில் வந்த கும்பல் இடைமறித்தது. மேலும், அந்த கும்பல் வைத்திருந்த துப்பாக்கிகளை கொண்டு சரமாரியாக தாக்குதல் நடத்தியது.
+
+இந்த  தாக்குதலில் 42 பேர் உயிரிழந்தனர். மேலும், சிலர் காயமடைந்தனர். தகவலறிந்து விரைந்து வந்த பொலிஸார் காயமடைந்தவர்களை மீட்டு அருகில் உள்ள வைத்தியசாலையில் அனுமதித்தனர்.
+
+◼️
+
+[Data](articles/149d691a.json)
+
+---
+
+### 6 tourists died in Laos after apparently drinking methanol
+
+*2024-11-23 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103702/6-tourists-died-in-laos-after-apparently-drinking-methanol) · `en`
+
+Two Australian teenagers and a British woman died from suspected methanol poisoning after drinking tainted alcohol in Laos. An American man and two Danes also died, though their exact causes of death have not been released.
+
+A New Zealander also has been sickened. The U.S. State Department issued a warning to travelers to be “alert to the potential risk of methanol poisoning.” But what is methanol, and how do you avoid it?
+
+There are three main types of alcohol: ethanol, methanol and isopropyl. Ethanol is what is found in consumer spirits and is the only one intended for consumption. Isopropanol is the main ingredient in rubbing alcohol and hand sanitizers. Methanol, commonly called wood alcohol because it is the byproduct of wood distillation, is frequently used as fuel and in products such as antifreeze and solvents.
+
+...
+
+[Data](articles/cf8c1486.json)
+
+---
 
 ### Treasure in Wayangoda?
 
@@ -2393,57 +2427,5 @@ The Consumer Authority said that customers can notify the Consumer Affairs Autho
 [Data](articles/c5aed696.json)
 
 [Extended Data](ext_articles/c5aed696.ext.json)
-
----
-
-### There is no room for ethnic and religious differences in the country - the Governor of the Eastern Province
-
-*2024-11-22 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199418) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Eastern Province Governor Jayantalal Ratnasekara emphasizes unity, stating there's no room for ethnic/religious differences. He encourages cooperation to build the province, highlighting his work in Tamil areas.
-
-🟩
-
-There is no longer a place for ethnic and religious differences in the country. Eastern Province Governor Professor Jayantalal Ratnasekara said that all the Muslims and Muslims have voted in unison in the ongoing parliamentary general election.
-
-He was speaking at an event in Batticaloa on Friday.
-
-I want to speak in Tamil in Tamil areas. We lived with Tamils ​​35 years ago in Tirumala. தற்போது மாகாண ஆளுநர் அலுவலகத்தில் அதிகமான நேரங்களில் தமிழில்தான் கடமைகளை முன்னெடுத்து வருகின்றேன்.
-
-In a speech in the presidential parliament yesterday (21), it was reported that there is no longer a religious difference in the country and that we are all Sri Lankans and that Tamils, Muslims and all have voted in unity in the ongoing parliamentary general election.
-
-Sri Lanka is the only country for all of us. So I pray for the cooperation of all to build the Eastern Province. I pray for support from all people in their province. He mentioned.
-
-◼️
-
-[Data](articles/70306eae.json)
-
-[Extended Data](ext_articles/70306eae.ext.json)
-
----
-
-### Risk of landslide: 2 families evacuating
-
-*2024-11-22 15:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்சரிவு-அபாயம்-2-குடும்பங்கள்-வெளியேற்றம்/76-347618) · `ta`
-
-Landslide risk forces 7 people from 2 families to evacuate in Badulla district due to heavy rainfall damaging plantation houses.
-
-🟩
-
-Badulla District Secretary Panduga Sri Prabhat Abeywardena said that seven people from 2 families living in the houses were advised to leave their homes today (22).
-
-Due to heavy rains, the plantation houses in the lower part of the Badulla - Telpeta estate have been affected by landslides.
-
-The walls of those houses have cracks and exploded and the wall has been demolished.
-
-◼️
-
-[Data](articles/e2000208.json)
-
-[Extended Data](ext_articles/e2000208.ext.json)
 
 ---

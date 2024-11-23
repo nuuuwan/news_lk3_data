@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 12:26:44**
+As of **2024-11-23 12:42:14**
 
 ## Newspaper Stats
 
-*Scraped **56,450** Articles*
+*Scraped **56,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
-adaderanalk | 6,820
+adaderanalk | 6,823
 tamilmirrorlk | 8,027
 virakesarilk | 9,182
 adaderanasinhalalk | 9,741
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,741
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,449 (100.0%) of 56,450 articles have been extended.
+56,449 (100.0%) of 56,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### LG Election scheduled for early next year - Vijitha Herath
+
+*2024-11-23 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103705/lg-election-scheduled-for-early-next-year-vijitha-herath) · `en`
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath, has announced that it has been decided to conduct the Local Government Elections at the beginning of next year.
+
+He made this statement while speaking to the media today (23) in Kandy.
+
+“The Supreme Court has issued a ruling to hold the local government elections as soon as possible. However, the necessary provisions were not allocated to conduct these elections this year.”
+
+“Therefore, the local government elections will take place at the beginning of next year. We are prepared to hold the elections for the Pradeshiya Sabhas and Urban Councils,” he stated.
+
+◼️
+
+[Data](articles/bd8bcbdd.json)
+
+---
 
 ### குறைகிறது எம்.பி.க்களின் சிறப்புரிமைகள்
 
@@ -98,6 +116,22 @@ On March 20, 2023, the International Monetary Fund approved $ 2.9 billion for Sr
 
 ---
 
+### IMF reaches staff-level agreement on third review of Sri Lanka’s EFF
+
+*2024-11-23 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103704/imf-reaches-staff-level-agreement-on-third-review-of-sri-lankas-eff) · `en`
+
+IMF staff and the Sri Lankan authorities have reached staff-level agreement on economic policies to conclude the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF).
+
+Once the review is approved by IMF Management and completed by the IMF Executive Board, Sri Lanka will have access to about US$333 million in financing, a statement said.
+
+The new government’s commitment to the program objectives has enhanced confidence and ensures policy continuity, it said, adding that sustaining the reform momentum is critical to safeguarding the hard-won gains under the program thus far and putting the economy on a path towards durable recovery and stable and inclusive growth.
+
+...
+
+[Data](articles/20379177.json)
+
+---
+
 ### News discussion on the third review of the IMF
 
 *2024-11-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203647) · `si`
@@ -115,6 +149,26 @@ Here's a summary of the news discussion on the third review of the IMF in approx
 [Data](articles/69380233.json)
 
 [Extended Data](ext_articles/69380233.ext.json)
+
+---
+
+### Two brothers killed as Jeep plunges into Bujgamuwa Oya
+
+*2024-11-23 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103703/two-brothers-killed-as-jeep-plunges-into-bujgamuwa-oya-) · `en`
+
+Two individuals were killed in an accident when a jeep traveling from Kuliyapitiya to Hettipola veered off the road and plunged into the Bujgamuwa Oya near the Kamburapola Bridge on the Kuliyapitiya-Hettipola road this morning (23).
+
+With assistance from a crane, the submerged jeep was recovered, and it was confirmed that the two occupants, who had been trapped inside, succumbed to their injuries upon admission to the Kuliyapitiya Base Hospital.
+
+The deceased, aged 25 and 27, have been identified as brothers from the Kurunegala area.
+
+Preliminary investigations reveal that the accident occurred at a winding section of the road, where the vehicle apparently lost control and fell into the stream.
+
+The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, and further investigations into the incident are being conducted by the Kuliyapitiya Police.
+
+◼️
+
+[Data](articles/0f6ac6d4.json)
 
 ---
 
@@ -2339,85 +2393,5 @@ It is reported that the Andhra Pradesh government agreed to buy 7 Gigawat of ele
 [Data](articles/3f046de7.json)
 
 [Extended Data](ext_articles/3f046de7.ext.json)
-
----
-
-### I am not related to the life of life - Sivanesathurai Chandrakanthan
-
-*2024-11-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199425) · `ta`
-
-Sivanesathurai Chandrakanthan denies involvement in 2019 Easter bombings, claims political opponents used attacks to influence 2018 election results.
-
-🟩
-
-People ignored the government of goodwill in 2018. That is why the Sri Lanka PA won the local government elections that year. Former Minister of State Sivanesathurai Chandrakanthan said that the allegations that were made by the Gotabhaya Rajapaksa were carried out on Sunday attacks and that I had conspired from the prison.
-
-He further stated that he was speaking to the media when he appeared in the Criminal Investigation Department (CID) on Friday (22).
-
-I have been informed to appear before the CIT by the complaint lodged by a father in connection with the video released by Channel 4.. Azad Maulana noted that the survival Sunday attacks have been carried out to reign former President Gotabhaya Rajapakse.
-
-In fact, the Sri Lanka PA won the Local Government Elections in 2018 after the Good Governance Government took over in 2015. But the lifeblood Sunday attacks were carried out in 2019. The government of goodwill has ignored the government of 2018.
-
-...
-
-[Data](articles/00d2d237.json)
-
-[Extended Data](ext_articles/00d2d237.ext.json)
-
----
-
-### Deputy Minister Mahinda Jayasinghe launches work
-
-*2024-11-22 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203630) · `si`
-
-Deputy Minister Mahinda Jayasinghe launched his duties at the Ministry of Labor. He emphasized collaboration between ministries and commitment to improving national life. Regarding trade unions, he stated they often have political motivations rather than purely representing workers' interests.
-
-🟩
-
-Mahinda Jayasinghe took oaths as the Deputy Minister of Labor at the Ministry today (22).
-
-Minister Professor Anil Jayantha and several others were present at the occasion.
-
-"The work of the Ministry of Worksha Anil Jayantha has joined hands with the Ministry of Prof. Anil Jayantha, with Comrade the Ministry of Labor Anil Jayantha, with the Comrade of the Ministry of Labor Anil Jayantha, with Comrade the Ministry of Labor Anil Jayantha joins with the Ministry of Prof. Anil Jayantha.We are ready to take steps to build a good country. We are not doing any personal profitability in that politics. Our goal has become a better life to all people. "
-
-Q. There was an era of Mahinda Jayasinghe when viewing the trade unions ... and doesn't there be the case?
-
-"Not required. Many trade union leaders represent this government. We think the trade unions are dealing with the government and deals with other underlying political goals. "
-
-◼️
-
-[Data](articles/8b643a78.json)
-
-[Extended Data](ext_articles/8b643a78.ext.json)
-
----
-
-### Emergency request by Vavuniya Police
-
-*2024-11-22 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199422) · `ta`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Vavuniya Police seek public help: 7 crore theft in Minuwangoda; suspects Brazumani Dushara (Seeduwa) & WAT Saman Ranasinghe (Udugampola). Contact Senior Police Inspector, Vavuniya District Crime Unit: 0718596422 or 0716360020.
-
-🟩
-
-Police have requested that they be found in the Northern Province, including Vavuniya.
-
-A few days ago, 7 crore worth of money was robbed in the Minuwangoda area.
-
-Brazumani Dushara from Seeduwa area and WAT Saman Ranasinghe from Udugampola area are associated with the robbery.
-
-Based on the confidential information available in the Vavuniya and Northern Province, the police are seeking public support.
-
-If any of the public identified, the police have requested the public to contact the Senior Police Inspector of the Vavuniya District Crime Unit, the telephone number 0718596422, the telephone number 0718596422 or the 0716360020 (Sindhaka).
-
-◼️
-
-[Data](articles/a5459cfb.json)
-
-[Extended Data](ext_articles/a5459cfb.ext.json)
 
 ---

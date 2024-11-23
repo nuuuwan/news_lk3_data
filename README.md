@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 16:25:44**
+As of **2024-11-23 16:41:59**
 
 ## Newspaper Stats
 
-*Scraped **56,463** Articles*
+*Scraped **56,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ dailymirrorlk | 4,733
 adalk | 5,306
 adaderanalk | 6,825
 tamilmirrorlk | 8,027
-virakesarilk | 9,183
-adaderanasinhalalk | 9,744
+virakesarilk | 9,185
+adaderanasinhalalk | 9,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,463 (100.0%) of 56,463 articles have been extended.
+56,463 (100.0%) of 56,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### භික්ෂූන්ගේ අගෝචර චර්යා රටාවන් සම්බන්ධව අස්ගිරි පාර්ශ්වය රජයෙන් කළ ඉල්ලීම
+
+*2024-11-23 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203655) · `si`
+
+භික්ෂූන් වහන්සේලාගේ අගෝචර චර්යා රටාවන් වළක්වා ගැනීම සඳහා මහානායක ස්වාමීන් වහන්සේලාට බලය ලැබෙන පරිදි සියලු නිකායන්වල වගන්ති සංශෝධනය කිරීමේ කටයුතු කඩිනම් කරන ලෙස අස්ගිරි පාර්ශ්වය රජයෙන් ඉල්ලා තිබේ.
+
+මල්වතු සහ අස්ගිරි මහානාහිමිවරුන් බැහැ දැකීම සඳහා නව රජයේ කැබිනට් අමාත්‍යවරුන් වන විජිත හේරත් සහ කේ.ඩී ලාල්කාන්ත යන මහත්වරුන් පැමිණි අවස්ථාවේදී එම පාර්ශ්වයේ පූජ්‍ය මැදගම ශ්‍රී ධම්මානන්ද හිමි මෙම ඉල්ලීම සිදුකරනු ලැබීය.
+
+"විහාර දේවාලගම් පනතේ 41 සහ 42 වගන්තියට සංශෝධන වගයක් ඉදිරිපත් කරලා තියෙනවා. ඉතිං අපි අවසාන වශයෙන් අපේ මහානායක හාමුදුරුවරු අත්සන් කරලා ඉදිරිපත් කළා. අපි බලාපොරොත්තු වෙන්නේ කථිකාවතක් අවශ්‍ය වෙන්නේ නෑ මේ තුළින් මේ කාරණය කරගන්න. භික්ෂුන් වහන්සේලාගේ අගෝචර චර්යා රටාවන් වළක්වාගන්න අපේ මහානායක හාමුදුරුවන්ට බලය ලැබෙන විදියට සියලු නිකායවල ඒ විදිහේ වගන්ති සංශෝධනයක් තමයි ඇතුළත් කරලා තියෙන්නේ. ඒක ඉක්මන් කරගත්තොත් හොඳයි."
+
+◼️
+
+[Data](articles/31e27fe4.json)
+
+---
+
+### රුපියල් කෝටි හතේ කොල්ලයේ ප්‍රධාන සැකකරුවන් යාපනයේ සැඟවෙයි
+
+*2024-11-23 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203654) · `si`
+
+මිනුවන්ගොඩ ප්‍රදේශයේදී රුපියල් කෝටි හතහමාරක මුදලක් කොල්ලකෑමේ සිද්ධියේ ප්‍රධාන සැකකරුවන් දෙදෙනා යාපනය ප්‍රදේශයේ සැඟව සිටින බව පොලීසිය පවසයි.
+
+ආරක්ෂිතව මුදල් ප්‍රවාහනය කරන පෞද්ගලික ආයතනයක රියදුරෙකු මිනුවන්ගොඩ පෞද්ගලික බැංකුවක් වෙත මුදල් රැගෙන යන අතරතුර රුපියල් කෝටි 7කට අධික මුදලක් රැගෙන පළාගොස් තිබුණේ ඉකුත් නොවැම්බර් 18 වනදාය.
+
+එම මුදලින් රුපියල් කෝටි 3කට අධික මුදලක් පසුව පොලීසිය සොයාගත් අතර සැකකරුවකු ද එහිදී අත්අඩංගුවට ගනු ලැබීය.
+
+ඒ අනුව සැකකරුවන් දෙදෙනාගේ අනන්‍යතාව තහවුරු කරගත් පොලීසිය ඔවුන් සම්බන්ධයෙන් තොරතුරු ලබාදෙන ලෙස මහජනතාවගෙන් ඉල්ලීමක්  කර තිබුණි.
+
+ඒ අතරතුරදී සැකකරුවන් යාපනය ප්‍රදේශයේ සැඟව සිටින බවට ගම්පහ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයට තොරතුරක් ලැබී තිබේ.
+
+මේ සැකකරුවන් දෙදෙනා යාපනය ප්‍රදේශයේ සිටින අයුරු දැක්වෙන CCTV දර්ශන පෙළක් ද මාධ්‍ය වෙත මුදා හැර තිබුණි.
+
+පොලීසිය සැකකරන්නේ සැකකරුවන් යාපනයේ සිට මුහුදු මාර්ගයෙන් ඉන්දියාවට පළායෑමට උත්සාහ දරා ඇති බවට සැකකරන බවය.
+
+◼️
+
+[Data](articles/24b66190.json)
+
+---
+
+### கண்டியில் சட்டவிரோதமாக புதையல் தோண்டிய ஒருவர் கைது
+
+*2024-11-23 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199482) · `ta`
+
+கண்டி, பொக்காவல பொலிஸ் பிரிவுக்கு உட்பட்ட நாவின்னாபிட்டிய பிரதேசத்தில் சட்டவிரோதமாக புதையல் தோண்டிய சந்தேக நபர்  ஒருவர் நேற்று வெள்ளிக்கிழமை (22) கைது செய்யப்ட்டுள்ளதாக பொக்காவல பொலிஸார் தெரிவித்தனர்.
+
+பொக்காவல பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கண்டி, பூஜாபிட்டிய பிரதேசத்தைச் சேர்ந்த 56 வயதுடையவர் ஆவார்.
+
+◼️
+
+[Data](articles/f7dc3a80.json)
+
+---
 
 ### An additional concession to those who did not apply to the relief
 
@@ -55,6 +111,20 @@ Meanwhile, the Welfare Benefit Board (Welfare Benefit) has been given the allowa
 [Data](articles/a2d56b2a.json)
 
 [Extended Data](ext_articles/a2d56b2a.ext.json)
+
+---
+
+### உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் கைது!
+
+*2024-11-23 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199483) · `ta`
+
+குருணாகல், கிரியுல்ல பொலிஸ் பிரிவுக்குட்பட்ட எலகம்மில்லவ பிரதேசத்தில் உள்நாட்டுத் துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (22) கைது செய்யப்பட்டுள்ளதாக கிரியுல்ல பொலிஸார் தெரிவித்தனர்.
+
+கிரியுல்ல பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/47f06ddb.json)
 
 ---
 
@@ -2293,115 +2363,5 @@ The story of the film is now a focus of hate politics, which are currently sprea
 [Data](articles/3d46b043.json)
 
 [Extended Data](ext_articles/3d46b043.ext.json)
-
----
-
-### Seat fight;Complaint on CID against Archana
-
-*2024-11-22 17:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருக்கை-சண்டை-அர்ச்சுனாவுக்கு-எதிராக-CID-யில்-முறைப்பாடு/175-347625) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Independent MP Ramanathan occupies opposition leader's seat, sparking controversy. Civil activists file CID complaint against Archana over alleged misconduct during seating arrangement in parliament.
-
-🟩
-
-A group of civil activists have lodged a complaint with the Criminal Investigation Department against Ramanathan Archana, who was sworn in as a new MP.
-
-Since the seats were not allocated according to the seniority of the MPs, the MPs were given the opportunity to sit in any seat yesterday (21).
-
-At this time, Jaffna Independent Member of Parliament Ramanathan Ramanathan sat in the seat given to the opposition leader in the Archana Sabha.
-
-A parliamentary employee came and told the MP that this was a traditional opposition leader's seat, but he refused to leave the seat.
-
-Also, the manner in which the independent MP was there was heavily discussed on social media, and a complaint has been lodged with the Criminal Investigation Department.. Remble
-
-◼️
-
-[Data](articles/303b4972.json)
-
-[Extended Data](ext_articles/303b4972.ext.json)
-
----
-
-### The President should not act according to the purposes of the diaspora Tamil organizations - Jayantha Samaraweera
-
-*2024-11-22 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199434) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential candidate Anura Kumara Dissanayake urged not to act on diaspora Tamil organizations' separatist agendas. He emphasized addressing Northern Sri Lanka's core issues while prioritizing national unity.
-
-🟩
-
-The Northern people have ended racism and separatism and supported the national people's power. Former Parliamentarian of the National Freedom Front Jayantha Samaraweera said that President Anura Kumara Dissanayake should not act on the purposes of the diaspora Tamil organizations that bosom separatism.
-
-He made this statement during a media briefing held at the National Freedom Front office on Friday (22).
-
-President Anura Kumara Dissanayake has declared that in this country there is no longer a place of communalism and religion in this country.. The president has been observed in the recent past.
-
-The mandate for the national people's power is great.The Northern people have ended racism and separatism.MA, who has acted to highlight separatism. Sumanthiran has also defeated. However, other separatists have been elected to parliament.
-
-...
-
-[Data](articles/49546a02.json)
-
-[Extended Data](ext_articles/49546a02.ext.json)
-
----
-
-### I am not involved in corruption and frauds: never run away from: Harin Fernando
-
-*2024-11-22 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199432) · `ta`
-
-Harin Fernando denies involvement in corruption, fraud; claims no fear due to clean record.
-
-🟩
-
-We did not flee the country when we faced a serious challenge. Similarly, these challenges are not overlooked. Former minister Harin Fernando said there was no fear because I was not involved in any corruption and fraud.
-
-Speaking to the media at the Criminal Investigation Division on Friday (22), he further stated that he said.
-
-I do not believe that the entire Cabinet will be responsible for the drug issue in the last government. Up to 70 bonds per day in the Cabinet will be submitted. They are prepared and presented by the Secretaries of Ministries. The Ministry of Finance will give the recommendations after submitting it.
-
-However, we will respect the court order and give us information we know. I do not know the matters of other ministries beyond the matters of ministries found under my responsibility. However, the current president -led government has received the best people's mandate. At the same time we are learning the best lesson.
-
-...
-
-[Data](articles/34d01d8b.json)
-
-[Extended Data](ext_articles/34d01d8b.ext.json)
-
----
-
-### The JVP opposes the northeast. It is a pleasure to change the policy after 53 years - the United People's Power
-
-*2024-11-22 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199433) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-JVP changes stance after 53 years, opposing communal politics. Criticizes current government for slow action, questioning import decisions and delayed budget submission.
-
-🟩
-
-The Janatha Vimukthi Peramuna (JVP), which claims that communal politics will no longer be allowed to do so, issued opposition to the North and East to give power through the provincial council system in 1971.. However, the general secretary of the United People's Power, Ranjith Mathuma Bandara, said that it was a pleasure to change their policies after 53 years and that there was no room for communal politics.
-
-He further stated at a press conference held at the United People's Power Office in Colombo yesterday.
-
-The JVP must also be responsible for the bankruptcy of the country. Currently changing robberies and traveling in a different direction. However, it is a pleasure to change their policies after many years.
-
-Yet we do not see new programs to the current president. Former President Ranil Wickremesinghe's programs are being carried out. He is currently asking for 6 months for the previously stated in 24 hours. Is that okay?
-
-...
-
-[Data](articles/9211eaf9.json)
-
-[Extended Data](ext_articles/9211eaf9.ext.json)
 
 ---

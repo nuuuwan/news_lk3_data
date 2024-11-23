@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 05:50:07**
+As of **2024-11-23 08:05:53**
 
 ## Newspaper Stats
 
-*Scraped **56,424** Articles*
+*Scraped **56,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
-tamilmirrorlk | 8,016
+tamilmirrorlk | 8,020
 virakesarilk | 9,182
 adaderanasinhalalk | 9,733
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,416 (100.0%) of 56,424 articles have been extended.
+56,426 (100.0%) of 56,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### A/L பரீட்சார்த்திகளின் கவனத்துக்கு
+
+*2024-11-23 07:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-347646) · `ta`
+
+எதிர்வரும் க.பொ.த உயர்தரப் பரீட்சை நடைபெறவுள்ள அனைத்து பரீட்சை நிலையங்களிலும், நுளம்பு ஒழிப்பு வேலைத்திட்டங்களை நடைமுறைப்படுத்துமாறு, தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு பணித்துள்ளது.
+
+மேலும்,  பரீட்சை நிலையங்களுக்கு, நுளம்பு விரட்டி திரவம் அல்லது கிரீம்களை கொண்டு வருமாறு பரீட்சார்த்திகளுக்கு, சமூக ஆலோசகர் லஹிரு கொடித்துவக்கு அறிவுறுத்தியுள்ளார்.
+
+மேலும், பேரிடர்களின் காரணமாக பரீட்சைக்கு இடையூறுகள் ஏற்படாதவாறு பேரிடர் மேலாண்மை மையம் உரிய அதிகாரிகளுக்கு வழிகாட்டுதல்களை வழங்கியுள்ளது.
+
+க.பொ.த உயர்தரப் பரீட்சை நவம்பர் 25ஆம் திகதி ஆரம்பமாகி டிசம்பர் 20ஆம் திகதி வரை 2,312 பரீட்சை நிலையங்களில் இடம்பெறவுள்ளது.AN
+
+◼️
+
+[Data](articles/46ed5343.json)
+
+---
+
+### கீழ்நிலை பொலிஸாரின் பிரச்சினைகளை தீர்க்க திட்டம்
+
+*2024-11-23 07:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீழ்நிலை-பொலிஸாரின்-பிரச்சினைகளை-தீர்க்க-திட்டம்/175-347645) · `ta`
+
+கீழ்நிலை பொலிஸ் அதிகாரிகள் எதிர்கொள்ளும் சவால்களை எதிர்கொள்வதற்கு,  பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் அமைச்சு அவசர வேலைத்திட்டமொன்றை ஆரம்பிக்க திட்டமிட்டுள்ளது.
+
+உப பொலிஸ் பரிசோதகர் பதவிக்கு கீழான அதிகாரிகள் அதிக கடமைப் பணிகள், தொலைதூரப் பிரதேசங்களில் பணியமர்த்தல், முறையான பதவி உயர்வு நடைமுறைகள் இல்லாமை, முறையற்ற இடமாற்ற முறை உள்ளிட்ட பல்வேறு பிரச்சினைகளை எதிர்நோக்கி வருவதாக, பொது பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்துள்ளார்.
+
+இப்பிரச்சினைகளை திறம்பட தீர்க்கும் நோக்கில், கட்டமைக்கப்பட்ட அமைப்பை ஏற்படுத்துவதற்கு உயர் பொலிஸ் அதிகாரிகளுடன் கலந்துரையாடல் நடத்தப்படும் என அமைச்சர் உறுதியளித்தார்.
+
+பொலிஸ் திணைக்களத்தின் கௌரவம் மற்றும் நிபுணத்துவத்தை நிலைநிறுத்துவதற்கு ஏற்ற பணிச்சூழலை உருவாக்குவதற்கான தனது அர்ப்பணிப்பை அமைச்சர் விஜேபால வலியுறுத்தினார்.AN
+
+◼️
+
+[Data](articles/284d6855.json)
+
+---
+
+### To create a government that meets expectations
+
+*2024-11-23 02:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்பார்ப்புகளை-நிறைவேற்றும்-அரசை-உருவாக்க-வேண்டும்/175-347644) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake: Government must meet public expectations. Public servants should dedicate themselves to fulfilling people's dreams. He thanked Finance Ministry officials for past defense efforts and seeks public support for future goals.
+
+🟩
+
+President Anura Kumara Dissanayake said that if the present government fails to meet the expectations of the people's mandate and the public, the dreams of the people will be false and that public servants should dedicate themselves to the government to fulfill the expectations of the people.
+
+President Anura Kumara Dissanayake made this statement in his speech in the presence of the Ministry's Working Commission after taking office as Minister of Finance and Economic Development yesterday.
+
+The President thanked the Finance Ministry officials to defend the country in the past, and he said that he was expecting the support of all people to achieve future goals.. (A)
+
+◼️
+
+[Data](articles/1d93722e.json)
+
+[Extended Data](ext_articles/1d93722e.ext.json)
+
+---
 
 ### People’s Bank achieves multiple feats in digital marketing sphere
 
@@ -48,6 +110,8 @@ People’s Bank has already stamped its leadership in digital marketing arena in
 
 [Data](articles/20a1b039.json)
 
+[Extended Data](ext_articles/20a1b039.ext.json)
+
 ---
 
 ### Bank stocks spur following expectations on positive credit profile of the sector
@@ -63,6 +127,8 @@ Amid those developments the banking sector counters indicated acute buying inter
 ...
 
 [Data](articles/296985cb.json)
+
+[Extended Data](ext_articles/296985cb.ext.json)
 
 ---
 
@@ -84,6 +150,8 @@ Hilton Sri Lanka unveils festive experiences across its Iconic destinations
 
 [Data](articles/6cf89b71.json)
 
+[Extended Data](ext_articles/6cf89b71.ext.json)
+
 ---
 
 ### Hilton Sri Lanka unveils festive experiences across its Iconic destinations
@@ -101,6 +169,38 @@ DoubleTree by Hilton Weerawila Rajwarna Resort invites families to create unforg
 ...
 
 [Data](articles/500e8656.json)
+
+[Extended Data](ext_articles/500e8656.ext.json)
+
+---
+
+### Dedicated to make the motherland the best country
+
+*2024-11-23 01:42:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்நாட்டை-சிறந்த-நாடாக-மாற்ற-அர்ப்பணிப்போம்/175-347643) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Pres. Anurakumara Dissanayake urges civil servants to unite in improving the nation. He addressed Defense Ministry staff, discussing ongoing & future initiatives. The new gov't aims to create the best regime, seeking everyone's support for national development.
+
+🟩
+
+President Anurakumara Dissanayake said that all civil servants are invited to work together to make the homeland a better country.
+
+The President made this statement when he took over the duties of the Defense Ministry at the Defense Ministry located at the Akuregoda Security Forces Headquarters yesterday (22).
+
+The President who visited the Ministry of Defense was given a great welcome by the staff.
+
+Subsequently, the President discussed the current activities and future activities of the Ministry of Defense with the commanders of the Armed Forces and the Protection Ministry.
+
+The President said that the new government is dedicated to the creation of the best regime and is expecting the support of everyone in the plan to build the country.. (A)
+
+◼️
+
+[Data](articles/680b7afd.json)
+
+[Extended Data](ext_articles/680b7afd.ext.json)
 
 ---
 
@@ -2321,109 +2421,5 @@ Global Udugasuriya, hearing a patent, and he joined the position of Senior Presi
 [Data](articles/f7d57e12.json)
 
 [Extended Data](ext_articles/f7d57e12.ext.json)
-
----
-
-### Sri Lanka is elected to the United Nations Commission on international trade law
-
-*2024-11-22 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203625) · `si`
-
-Sri Lanka elected UN Commission on International Trade Law. Won 177 votes, second highest in Asia Pacific group. Will serve 6 years starting Jan 2025. Established 1966, focuses on removing trade barriers and developing international trade law.
-
-🟩
-
-Sri Lanka has been appointed to the 31 members elected to the United Nations Commission on International Trade Law.
-
-The United Nations General Assembly had been elected on November 20, 2024.
-
-Sri Lanka, who contested for a seat from the Asia Pacific, won 177 votes.
-
-The number of votes was the second highest number of votes in the group and the 31st votes were the second highest number of votes.
-
-The United Nations Commission on International Trade Law is the other member countries of the Asia Pacific, the Philippines, Singapore, Vietnapore, China, China, Japan and Korea.
-
-Sri Lanka will serve six years from January 2025.
-
-Established in 1966 and the United Nations Commission on International Trade Law is the basic legal company in the international trade industry.
-
-Removal of obstacles and trade laws is included in the scope of the Commission.
-
-◼️
-
-[Data](articles/88fb033e.json)
-
-[Extended Data](ext_articles/88fb033e.ext.json)
-
----
-
-### டெங்கு நோயாளர்கள் அதிகரிக்கும் அபாயம்
-
-*2024-11-22 14:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிக்கும்-அபாயம்/175-347615) · `ta`
-
-Dengue cases expected to rise due to rain. Ministry advises maintaining cleanliness and implementing special eradication programs near high-risk areas.
-
-🟩
-
-Due to the prevailing rainy weather, the number of dengue patients in the future is likely to increase, the Ministry of Health said.
-
-Dr. Anoja Therasinghe, a community health professional at the National Dengue Control Division, said that people should act to keep the environmental environment clean so as not to this situation.
-
-மேலும், உயர்தரப் பரீட்சைகள் நடைபெறும் நிலையங்களுக்கு அருகில் விசேட டெங்கு ஒழிப்பு வேலைத்திட்டங்களை நடைமுறைப்படுத்துமாறு, பாடசாலை அதிகாரிகளுக்கு பணிப்புரை வழங்கப்பட்டுள்ளதாகவும், அவர் தெரிவித்தார். That
-
-◼️
-
-[Data](articles/7c3abe49.json)
-
-[Extended Data](ext_articles/7c3abe49.ext.json)
-
----
-
-### அரிசி நெருக்கடிக்கு தீர்வு முன்மொழிவு
-
-*2024-11-22 14:03:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-நெருக்கடிக்கு-தீர்வு-முன்மொழிவு/175-347614) · `ta`
-
-S:0
-
-🟩
-
-The government has been asked to establish a rice outlet at the Dambulla Economic Center.
-
-அவ்வாறு செய்தால், நாட்டில் நிலவும் அரிசி நெருக்கடிக்கு குறுகிய கால மற்றும் நீண்டகால தீர்வு கிடைக்கும் என, தம்புள்ளை பொருளாதார மத்திய நிலையத்தின் வர்த்தகர்  டி.எம்.எஸ்.பண்டார தெரிவித்தார்.AN
-
-◼️
-
-[Data](articles/69fb1867.json)
-
-[Extended Data](ext_articles/69fb1867.ext.json)
-
----
-
-### Dilith promise before the Malwathu Mahanayake Thera
-
-*2024-11-22 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203624) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dilith Jayaweera addresses Malwathu Mahanayake Thera, urging Parliament members to preserve tradition and oppose changes. He emphasizes nationalism's importance for national progress.
-
-🟩
-
-Members of the Unmangered Tradition should be made in Parliament that should be made in Parliament and to change the opposition to everything.
-
-Mr. Dilith Jayaweera made this observation at the defenses of the Malwathu faction of the Malwathu Chapter Sri Sumangala Thera.
-
-Dilith Jayaweera, the universal authority, was bowled out to Kandy and obtaining the blessings of the Maha Sangha.
-
-Roshan Ranasinghe, the President of the Alrangege Roshan Ranasinghe, and the National Organizer Dilum Amunugama were also present.
-
-Dilith Jayaweera was then a group of led by Dilith Jayaweera and visited Sri Sumangala Mahanayakes of the Malwathu Party.
-
-...
-
-[Data](articles/141fc059.json)
-
-[Extended Data](ext_articles/141fc059.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 09:02:18**
+As of **2024-11-23 09:42:04**
 
 ## Newspaper Stats
 
-*Scraped **56,430** Articles*
+*Scraped **56,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,134 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 586
 islandlk | 3,376
-economynextcom | 3,427
+economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
-adaderanalk | 6,816
-tamilmirrorlk | 8,020
+adaderanalk | 6,818
+tamilmirrorlk | 8,021
 virakesarilk | 9,182
-adaderanasinhalalk | 9,733
+adaderanasinhalalk | 9,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,429 (100.0%) of 56,430 articles have been extended.
+56,436 (100.0%) of 56,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### President calls on state employees to fulfill people’s aspirations
+
+*2024-11-23 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103701/president-calls-on-state-employees-to-fulfill-peoples-aspirations) · `en`
+
+President Anura Kumara Dissanayake stated that if the current government fails to meet the expectations set by the people in the recent mandate, it could lead to citizens losing hope in envisioning a prosperous future.
+
+He emphasized that government officials must dedicate themselves to building a government that fulfils the aspirations of the people, the President’s Media Division (PMD) said.
+
+President Anura Kumara Dissanayake made these remarks while addressing the staff of the Ministry of Finance, Planning and Economic Development today (22), after officially assuming duties as its Minister.
+
+Upon his arrival at the Ministry, the President was warmly welcomed by the staff , the PMD added.
+
+...
+
+[Data](articles/f6d04ee2.json)
+
+---
+
+### Replace me immediately;Mannar Doctor Azad
+
+*2024-11-23 09:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உடனடியாக-என்னை-இடமாற்றம்-செய்யவும்-மன்னார்-வைத்தியர்-ஆசாத்/72-347647) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Dr. Azad faces threats after baby's death at Mannar Hospital. Protesters demand his removal. He seeks protection, requesting relocation due to unsafe work environment."
+
+🟩
+
+Dr. Azad M. Haniba, Director of the Mannar District General Hospital, has issued a furious request to the Secretary of the Union Health Ministry demanding the immediate relocation of my life.
+
+He sent an emergency letter to the Secretary of the Union Health Ministry yesterday (22).
+
+Since I was appointed as the Superintendent of the Mannar District General Hospital, I have dedicated myself to improve health services by implementing many health quality improvements and safety measures.
+
+However, the unfortunate embryo died at the Mannar District General Hospital on the 19th of this month.
+
+I have taken appropriate action on the death of the mother and the infant.
+
+However, the gang entered the maternity hotel and damaged the property of the hospital.
+
+When I went there, I sought the help of police officers to discuss the situation and control the attendance meeting.
+
+However they tried to attack me personally. They shouted me saying me was the killer. Some of them tried to attack me.
+
+...
+
+[Data](articles/f65a8faa.json)
+
+[Extended Data](ext_articles/f65a8faa.ext.json)
+
+---
+
+### IMF to issue official statement on third EFF review today
+
+*2024-11-23 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103700/imf-to-issue-official-statement-on-third-eff-review-today-) · `en`
+
+Representatives of the International Monetary Fund (IMF) are scheduled to issue an official statement this morning (23) regarding the third review under the Extended Fund Facility (EFF).
+
+The announcement is expected to include details of a Staff-Level Agreement on economic policies related to concluding the third review.
+
+The Government of Sri Lanka confirmed that discussions on the third review under the IMF’s Extended Fund Facility program were successfully concluded yesterday (22).
+
+The meeting, held at the Presidential Secretariat, was attended by a delegation representing the IMF, led by Senior Mission Chief Peter Breuer, the President’s Media Division (PMD) said.
+
+Representing the Sri Lankan government, the delegation was headed by Deputy Minister of Economic Development, Professor Anil Jayantha Fernando.
+
+Accordingly, the discussions between the IMF and the Government of Sri Lanka pertaining to the third review were successfully concluded, the statement said.
+
+◼️
+
+[Data](articles/3a13640c.json)
+
+---
+
+### The casual number that lost a young man
+
+*2024-11-23 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203645) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Murder case: Man killed over casual affair. Victim, 45, found dead in Hammudukanda. Suspect, also 45, arrested. Dispute over woman led to murder in Uva Kuda Oya.
+
+🟩
+
+Police said that a person had been murdered yesterday (22), police said.
+
+The Thanamalwila Police had received a complaint that a person had been disappeared from the 18th of this month.
+
+Accordingly, the investigation was murdered and he had gone to the Hammudukanda area with another person.
+
+A person who was agedated in Balahagama, a 45 year old, has been arrested by the police who started investigating.
+
+From his interrogation revealed that he was cut off and killed by his head and killed the neck of the missing man.
+
+The victim and the suspect have had a casual relationship with a woman from a resident of Uva Kudoya, and the investigation has been revealed to be taken to the above area on a dispute between them.
+
+Police have arrested the suspect in the Uva Kuda Oya area regarding the murder.
+
+◼️
+
+[Data](articles/c76d405e.json)
+
+[Extended Data](ext_articles/c76d405e.ext.json)
+
+---
 
 ### Heavy showers expected in parts of the island
 
@@ -106,6 +216,114 @@ Minister Wijepala urged his commitment to create a workplace to uphold the honor
 
 ---
 
+### Excavation today in search of the treasure of the country
+
+*2024-11-23 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203644) · `si`
+
+Veyangoda excavation update: STF scan reveals hidden earth interior. Court orders police excavation near Central Expressway. Two-day operation suspended due to massive stone encounter.
+
+🟩
+
+Excavation on a court order is scheduled to be conducted on a jurisdiction in Veyangoda, Veyangoda today (23).
+
+The excavation was planning near the Central Expressway which is constructed and this is due to be carried out on the third day.
+
+The number of people have been excavating various persons from the recent past, and many arrested have been remanded.
+
+The scan made by the Special Task Force (STF) was observed that the SEP scan was carried out in the interior of the earth.
+
+After reporting the judiciary, the Atmunagala Magistrate's Court ordered the Veyangoda Police to carry out the excavation before the public.
+
+The excavations had been given two days for two days, accordingly excavated on yesterday and yesterday.
+
+However, it was temporarily suspended yesterday with the meeting with a massive stone.
+
+◼️
+
+[Data](articles/24f32510.json)
+
+[Extended Data](ext_articles/24f32510.ext.json)
+
+---
+
+### Sri Lanka to set up tourism commission: Minister Herath
+
+*2024-11-23 07:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-set-up-tourism-commission-minister-herath-189520/) · `en`
+
+ECONOMYNEXT – Sri Lanka will combine existing agencies and set up a Tourism Commission for the sector, the Indian Ocean island’s Foreign and Tourism Minister said.
+
+“We plan to combine the agencies within the Tourism Ministry and appoint a Commission,” Minister Herath told reporters in Kandy.
+
+“Through a merger of agencies we target to revive the sector.”
+
+Unlike other export sectors, which takes time to revive, tourism is an area where quick wins can be scored, he said.
+
+The National People’s Power had a plan for the sector he said. Work will begin next year. (Colombo/Nov22/2024)
+
+◼️
+
+[Data](articles/bbc487bf.json)
+
+[Extended Data](ext_articles/bbc487bf.ext.json)
+
+---
+
+### The official statement of the IMF Third Review Today
+
+*2024-11-23 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203643) · `si`
+
+Here's a summary of the IMF Third Review statement in approximately 200 characters:
+
+
+
+"IMF representatives will conduct the third review today. They aim to reach a staff-level agreement on economic policies. Discussions were held between the IMF and Sri Lankan government at the Presidential Secretariat. The meeting was reportedly successful."
+
+🟩
+
+The representatives of the fund are to be officially on the third review of the International Monetary Fund this morning.
+
+It is expected to be notified to attend staff level agreement on economic policies to end the third review.
+
+The International Monetary Fund and the Government of Sri Lanka held the discussion at the Presidential Secretariat recently.
+
+He was speaking at the Head of Senior Mission Senior Mission Senior Mission, Senior Mission (IMF) for the IMF and the Government of Sri Lanka.
+
+The Presidential Media Unit reaffered that the discussion was successfully completed.
+
+◼️
+
+[Data](articles/cfccf4cb.json)
+
+[Extended Data](ext_articles/cfccf4cb.ext.json)
+
+---
+
+### MM in several areas. Heavy rains over 100
+
+*2024-11-23 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203642) · `si`
+
+Heavy rains forecasted across Sri Lanka. Thunderstorms expected in northern regions. Strong winds possible. Public advised to prepare for potential damage.
+
+🟩
+
+Showers or thundershowers will occur at times in the Northern, North-Central and Eastern provinces today.
+
+Thundershowers during the evening or night during the evening or night in the rest of the island.
+
+Mm in Western, Sabaragamuwa, Central and Southern provinces. Heavy rains may occur at more than 100.
+
+In some places in the Western, Sabaragamuwa, Central, Uva and Southern provinces, the Department said.
+
+They also urge the public to take necessary steps to reduce the temporary strong winds and the damages caused by thunderstorms.
+
+◼️
+
+[Data](articles/e1b1a9da.json)
+
+[Extended Data](ext_articles/e1b1a9da.ext.json)
+
+---
+
 ### To create a government that meets expectations
 
 *2024-11-23 02:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்பார்ப்புகளை-நிறைவேற்றும்-அரசை-உருவாக்க-வேண்டும்/175-347644) · `ta`
@@ -145,6 +363,8 @@ The Mastercard Touch Card features a distinct rounded notch, which enables the v
 ...
 
 [Data](articles/a4b763bd.json)
+
+[Extended Data](ext_articles/a4b763bd.ext.json)
 
 ---
 
@@ -2221,215 +2441,5 @@ Earlier, the Ceylon Electricity Board (CEB) said that new proposals on the reduc
 [Data](articles/643c24f4.json)
 
 [Extended Data](ext_articles/643c24f4.ext.json)
-
----
-
-### Special Notification for A/L Students
-
-*2024-11-22 15:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்கு-விசேட-அறிவித்தல்/175-347616) · `ta`
-
-Here's a summary of the notification in approximately 200 characters:
-
-
-
-"Special program for A/L students: Disaster Management Center & Exam Dept. prepare for potential cyclones in Bay of Bengal. Emergency hotlines: 117, 0113 668 020/100/013/010, 076 3 117 117. Contact 1911 for immediate coordination."
-
-🟩
-
-The Disaster Management Center and the Department of Examination have implemented a special program in order to avoid disasters and disruption of the examination during the 2024 GCE Advanced Level Examination.
-
-The Department of Meteorology predicts that low winds may develop in the coming week of the Bay of Bengal.
-
-Therefore, this action has been taken to create a good environment to ensure that students can successfully face the exam, except for the disaster situations that may occur during the exam period.
-
-In the event of any disaster to prevent students from appearing for the exam, some telephone numbers have been introduced to get help to reach the concerned station.
-
-Accordingly, the Emergency Center of the Disaster Management Center, 117 or Special Integrated Emergency Operations Rooms, 0113 668 020/ 0113 668 100 or 0113 668 013/0113 668 010 and 076 3 117 117.
-
-...
-
-[Data](articles/d8bb1219.json)
-
-[Extended Data](ext_articles/d8bb1219.ext.json)
-
----
-
-### மாத்தறையில் பஸ் சாரதி மீது தாக்குதல் !
-
-*2024-11-22 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199413) · `ta`
-
-Matara: Bus driver attacked, phone stolen in Aluthgama incident under investigation.
-
-🟩
-
-Aluthgama police have launched an investigation into the attack on a private bus and bus driver in Matara.
-
-Investigations have been launched based on a complaint lodged at the 51 -year -old bus driver in the Tevinuwara area in Matara.
-
-The complainant is engaged in an argument with another bus driver while traveling from Colombo to Matara.
-
-Subsequently, when the complainant stopped the bus in Aluthgama, a group of people who went to the three -wheeler attacked the driver of the bus and the driver of the bus, stole the driver's mobile phone and escaped.
-
-◼️
-
-[Data](articles/4cce8fe6.json)
-
-[Extended Data](ext_articles/4cce8fe6.ext.json)
-
----
-
-### Another landslide in Badulla
-
-*2024-11-22 15:06:53* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-තවත්-නාය-යාමක්/11-413212) · `si`
-
-Landslide hits homes in Badulla district. Seven family members ordered to evacuate. Houses damaged, walls destroyed. Disaster Management Center informed residents. National Building Research Organization to inspect area.
-
-🟩
-
-The Badulla District Secretary Pundala Sri Palrat Abeywardena says that seven members of two families residing in the houses in the Badulla Wellabinddedawa Watta Division has been instructed to leave the houses.
-
-The houses in the Badulla Wellbinddawa, Badulla has been subjected to the landslide and destroyed the walls of the houses, he said.
-
-Badulla District Secretary Pundayek Abeywardena stated that the school secretary of the Badulla Wellabedda Estate belonging to the Badulla Wellabindddawatta.
-
-However, the Disaster Management Center (DMC) has informed the people of estate houses in the Badulla area.
-
-Badulla District Secretary Pundala Sri Palhat Abeywardena said that the National Building Research Organization of the National Building Research Organization said that the National Building Research Organization (NBT) is scheduled to be inspected.. (I j)
-
-◼️
-
-[Data](articles/511ee2ea.json)
-
-[Extended Data](ext_articles/511ee2ea.ext.json)
-
----
-
-### Special announcement to all Sri Lankans working in Kuwait
-
-*2024-11-22 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203628) · `si`
-
-Here's a summary of the announcement in approximately 200 characters:
-
-
-
-Sri Lankan workers in Kuwait: Deadline for fingerprints is Dec 31, 2024. Use Sahel software or MATTA for fingerprinting. Choose nearest location. Security directors in specific areas. Government and banks must comply.
-
-🟩
-
-The Ministry of Internal Affairs has been informed by the Ministry of Internal Affairs to provide their livestock to workers and foreigners working in Kuwait.
-
-The deadline that can be given to the fingerprints will end on December 31, 2024.
-
-The Sri Lanka Bureau of Sri Lanka (SLBFE) has issued an announcement and all Sri Lankan workers working in Kuwait is given to the internal ministry in the internal ministry.
-
-As a result, the time is available to be reserved for the use of "Sahel" software belonging to Kuwait, or to give fingerprinting through the "MATTA".
-
-It is also given the opportunity to choose a close place to give fingerprints.
-
-According to the Foreign Employment Bureau, he has placed it in the security directors of Havali, Farwania, Ahama, Ahamad, Mubar, JHra.
-
-In addition, the announcement states that the people of Ali Sabbala Al Salim, Um Al-Nemaan and Jahara areas.
-
-...
-
-[Data](articles/6e85caef.json)
-
-[Extended Data](ext_articles/6e85caef.ext.json)
-
----
-
-### Yall. Those who cut the calf in Kayts
-
-*2024-11-22 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199410) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Calf theft in Kayts, Jaffna: Thieves cut calf, flee after locals intervene. Police recover motorcycle & 200kg beef. Incident sparks community concern about rising cattle thefts.
-
-🟩
-
-They have fled when they tried to catch the people who cut a calf of meat in the Kayts area of ​​Jaffna.
-
-A motorcycle and about 200 kg of beef have been rescued by the townspeople and handed over to the police
-
-In the Kayts, Suruvil area, on Friday (22), the high -quality cab was smuggled into the greenery, cutting it in the abdomen, throwing the calf out in the stomach, and cutting the meat into pieces, and the people who were cutting the cow, and the carriage were folded.They have abandoned the meat and fled.
-
-Following the announcement of the Kayts police in connection with the incident, the police have launched investigations and have taken the motorcycle and meat to the police station.
-
-The incident of kidnapping and cutting down a calf of a calf of a calf today has caused anxiety among the townspeople and demanded immediate action to control if the illegal action of cutting cows in the islands is increased.
-
-◼️
-
-[Data](articles/3e3fcfc6.json)
-
-[Extended Data](ext_articles/3e3fcfc6.ext.json)
-
----
-
-### November Adult Offer to the Bank Account
-
-*2024-11-22 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203627) · `si`
-
-Government deposits Rs. 3,000 in bank accounts. 511,086 individuals receive allowances totaling Rs. 1,533,258,000. Funds available for withdrawal on November 22.
-
-🟩
-
-The government has announced that the government has obtained Rs. 3,000.
-
-The government has banked the money regarding the month of November and the government has issued a statement that the money could be obtained from the Banking Account today (22).
-
-The allowance is paid to 511,086 persons under the Quality Scheme and Rs. 1,533,258,000 has been allocated for this month.
-
-◼️
-
-[Data](articles/257424f0.json)
-
-[Extended Data](ext_articles/257424f0.ext.json)
-
----
-
-### Prof. Udugamasooriya appointed President’s Senior Advisor on Science and Technology
-
-*2024-11-22 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103690/prof-udugamasooriya-appointed-presidents-senior-advisor-on-science-and-technology) · `en`
-
-Professor Gomika Udugamasooriya has been appointed as the Senior Advisor to the President on Science and Technology, the President’s Media Division (PMD) said.
-
-Prof. Udugamasooriya, who is affiliated with the University of Houston and the MD Anderson Cancer Research Center in the United States, received his appointment letter today (22) at the Presidential Secretariat from the Secretary to the President Dr. Nandaka Sanath Kumanayake.
-
-An alumnus of D.S. Senanayake College in Colombo, Prof. Udugamasooriya holds a specialized degree in Chemistry from the University of Colombo. He earned his Ph.D. from Wayne State University in Michigan, USA, and completed postdoctoral research at the University of Texas Southwestern Medical Center.
-
-A holder of numerous patents, Professor Udugamasooriya’s decision to transition from his role in U.S. public service to take up the honorary position of Senior Advisor on Science and Technology is a notable development, the PMD statement said.
-
-...
-
-[Data](articles/f61a56be.json)
-
-[Extended Data](ext_articles/f61a56be.ext.json)
-
----
-
-### Sri Lanka’s Dipped Products buys Thailand-based rubber glove factory
-
-*2024-11-22 14:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-buys-thailand-based-rubber-glove-factory-189451/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Dipped Products Plc said it had acquired 100 percent of the equity of Hi Care Thai Gloves Company Ltd in Thailand for 11 million US dollars.
-
-“This strategic acquisition aligns with the Company’s objectives to expand its global footprint in the rubber glove manufacturing industry and strengthen its presence in international markets,” Dipped Products said in a stock exchange filing.
-
-“The transaction will be completed upon the purchase consideration of Thai Baht 370 Million (approximately USD 11 Million) being released for the aforesaid acquisition, and will be made by Dipped Products (Thailand) Limited, a wholly-owned subsidiary of the Company.”
-
-Dipped Products already has a factory in the East Asian nation.
-
-The acquisition was carried out by Dipped Products (Thailand) Ltd after a due diligence study.
-
-In May, Dipped Products Plc opened a marketing office in Mumbai, India as part of efforts to strengthen its presence in the country.
-
-◼️
-
-[Data](articles/87fa8e12.json)
-
-[Extended Data](ext_articles/87fa8e12.ext.json)
 
 ---

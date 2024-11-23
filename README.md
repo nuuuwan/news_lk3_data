@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 14:27:07**
+As of **2024-11-23 15:00:48**
 
 ## Newspaper Stats
 
-*Scraped **56,457** Articles*
+*Scraped **56,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
-islandlk | 3,376
+islandlk | 3,377
 economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,304
-adaderanalk | 6,823
+adalk | 5,306
+adaderanalk | 6,825
 tamilmirrorlk | 8,027
 virakesarilk | 9,183
 adaderanasinhalalk | 9,743
@@ -26,49 +26,125 @@ adaderanasinhalalk | 9,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,455 (100.0%) of 56,457 articles have been extended.
+56,459 (100.0%) of 56,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### KDU බස් අනතුරෙන් තුවාල ලැබු තවත් සිසුවෙක් මරුට
+### ඉදිරියට ඇති ජයග්‍රහණ කරා යාමේ දී සියලු දෙනාගේ සහාය අපේක්ෂා කරනවා
+
+*2024-11-23 14:37:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියට-ඇති-ජයග්‍රහණ-කරා-යාමේ-දී-සියලු-දෙනාගේ-සහාය-අපේක්ෂා-කරනවා/11-413218) · `si`
+
+පසුගිය ජනවරම තුළ ජනතාව තැබු අපේක්ෂාවන් ඉටු කිරීමට වත්මන් රජය අපොහොසත් වුවහොත් ජනතාව සුබවාදී අනාගතයක් පිළිබඳ සිහින දැකීම ද අතහරින බවත්, ජනතා අපේක්ෂා ඉටු වන රාජ්‍යයක් නිර්මාණය කිරීමට රාජ්‍ය නිලධාරීන් කැපවිය යුතු බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කර සිටියේ මුදල් ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යවරයා ලෙස ඊයේ (22) එම ආමාත්‍යාංශයේ දී වැඩ භාර ගැනීමෙන් අනතුරුව එහි කාර්යමණ්ඩලය අමතමිනි.
+
+අමාත්‍යාංශය වෙත පැමිණි ජනාධිපතිවරයා කාර්ය මණ්ඩලය විසින් උණුසුම් ලෙස පිළිගනු ලැබීය.
+
+පසුගිය ආර්ථික කඩා වැටීම හමුවේ රට මුදා ගැනීමට මුදල් අමාත්‍යාංශයේ නිලධාරින් ලබා දුන් දායකත්වය මෙහිදී කෘතවේදීව අගය කළ ජනාධිපතිවරයා මින් ඉදිරියට ඇති ජයග්‍රහණ කරා යාමේ දී සියලු දෙනාගේ සහාය අපේක්ෂා කරන බව ද සඳහන් කළේය.
+
+...
+
+[Data](articles/9ab8085c.json)
+
+---
+
+### Heavy showers of 150 mm expected in several provinces
+
+*2024-11-23 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103707/heavy-showers-of-150-mm-expected-in-several-provinces) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at times in the Northern, North-central, Eastern and Uva provinces and in Hambantota District.
+
+Showers or thundershowers will occur at several places elsewhere on the island during the evening or night.
+
+Heavy showers of about 150 mm are likely at some places in Northern, North-central, Eastern and Uva provinces, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e27f23e6.json)
+
+[Extended Data](ext_articles/e27f23e6.ext.json)
+
+---
+
+### KDU bus accident: Death toll rises to 3 as another student dies
+
+*2024-11-23 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103706/kdu-bus-accident-death-toll-rises-to-3-as-another-student-dies) · `en`
+
+Another student has reportedly succumbed to injuries sustained in the fatal bus accident that occurred on November 01 in Badulla, increasing the death toll to three.
+
+The 24 year-old victim, Kayilanathan Sinthujan, was a resident of Kantharmadam, Jaffna and has passed away today (23) while receiving treatment at the University Hospital KDU (UHKDU).
+
+A former student of Jaffna Hindu College, he had sat for the G.C.E. Advanced Level (A/L) examination under the stream of Physical Science (Maths).
+
+The incident on November 01 had claimed the lives of two individuals and injured 39 others when a bus carrying over 40 passengers toppled on Dunhinda Road in Badulla.
+
+Among the deceased were two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU). The students had been traveling on a field trip when the bus hit a curb and overturned.
+
+...
+
+[Data](articles/80bddd65.json)
+
+[Extended Data](ext_articles/80bddd65.ext.json)
+
+---
+
+### Another student killed in KDU bus accident
 
 *2024-11-23 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203651) · `si`
 
-ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ සිසු සිසුවියන් රැගත් බස් රථයක් පෙරළීමෙන් ඉකුත්දා සිදුවූ අනතුරෙන් තුවාල ලබා රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටි තවත් සිසුවෙක් අද (23) මියගොස් තිබේ.
+Student killed in KDU bus crash near Badulla. 24-year-old from Kandamadam, Jaffna, studying at Hindu Vidyalaya. Bus carried 41 students from Kotelawala Defense University.
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 24ක් වූ කයිලනාදන් සිංදුජන් නම් යාපනය කන්දමඩම් ප්‍රදේශයේ පදිංචි සිසුවෙකි.
+🟩
 
-ඔහු යාපනය හිංදු විද්‍යාලයේ ගණින අංශයෙන් උසස් පෙළ හදාරා ඇති සිසුවෙකි.
+Another student who was admitted to hospital with injuries was injured in the accident and injured in the accident.
 
-කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ දක්ෂිණ මණ්ඩපයේ සිසු සිසුවියන් 41 දෙනෙකු රැගත් මෙම බස් රථය බදුල්ල - දුන්හිඳ ප්‍රදේශයේදී නොවැම්බර් මස 01වනදා අනතුරට ලක්විය.
+The victim was a 24 year old resident of Kandamadam, Jaffna.
+
+He is a student of the Advanced Level of Hindu Vidyalaya, Jaffna.
+
+The bus, which was carrying 41 students from the Southern Defense University of Kotelawala, was crashed in the Badulla-Dunguwara.
 
 ◼️
 
 [Data](articles/1b34fca5.json)
 
+[Extended Data](ext_articles/1b34fca5.ext.json)
+
 ---
 
-### රටවිරුවන්ට ලැබෙන වාහන බලපත්‍ර රැසක් අවභාවිත කරලා
+### Unique vehicle permits for the country
 
 *2024-11-23 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203650) · `si`
 
-විදෙස්ගත ශ්‍රමිකයින් සඳහා විද්‍යුත් වාහන ගෙන්වීමට ලබාදී තිබූ බලපත්‍ර දහසකට අධික සංඛ්‍යාවක් පසුගිය කාලයේදී අවභාවිත වී ඇති බව ජාතික විගණන කාර්යාලය පවසයි.
+National Audit office reports over 1000 electrical vehicle permits issued improperly. Auditor General states many qualified foreign workers denied licenses. Malpractices identified in license issuance process. Report submitted to Parliament for further action.
 
-විගණකාධිපති ඩබ්ලිව් .පී .සී. වික්‍රමරත්න මහතා ප්‍රකාශ කළේ, ඒ සම්බන්ධයෙන් වූ වාර්තාවක් මේ වනවිටත් පාර්ලිමේන්තුවට භාර දී ඇති බවය.
+🟩
 
-විදෙස්ගත ශ්‍රමිකයින් විසින් එවනු ලබන ප්‍රේෂණ හරහා මෙරට ආර්ථිකයට හිමිවන දායකත්වය අතිමහත් ය.
+The National Audit office says that more than a thousand permits have been issued to import electrical vehicles for foreign workers have been reduced.
 
-ඒ අනුව එම සේවාව අගය කරනුවස් ඔවුන් වෙනුවෙන් විද්‍යුත් වාහන ගෙන්වීම සඳහා බලපත්‍ර නිකුත් කිරීමේ ක්‍රමවේදයක් පසුගිය රජය සමයේදී ආරම්භ කළේය.
+Auditor General W.P.C. Mr. Wickremaratne stated that a report has already been handed over to Parliament.
 
-ඒ අනුව සුදුසුකම් ලබන විගමනික ශ්‍රමිකයින් සඳහා අමෙරිකානු ඩොලර් 25,000ක උපරිමයකට යටත්ව රෝද දෙකකින් යුත් විද්‍යුත් වාහනයක්ද, අමෙරිකානු ඩොලර් 65,000ක උපරිමයකට යටත්ව රෝද 4කින් යුත් පූර්ණ විද්‍යුත් වාහනයක්ද ආනයනය කිරීමටද බලපත්‍ර ලබා දී තිබුණි.
+The contribution to the country's economy through remittances sent by foreign workers is immense.
 
-කෙසේ වෙතත් මෙතෙක් නිකුත් කර ඇති එවැනි බලපත්‍ර 1,000කට අධික සංඛ්‍යාවක් අවභාවිත වී ඇති බව ජාතික විගණන කාර්යාලය සිදුකළ විශේෂ විගණනයකදී අනාවරණ වී තිබේ.
+Accordingly, the services rendered a license system for the payment of electrical vehicles for them.
+
+Accordingly, a maximum of two-wheeled electrical vehicle is licensed to a maximum of $ 25,000 for migrant workers.
+
+However, a special audit has been revealed that over 1,000 such persons have been released so far.
+
+A large number of foreign workers qualified to obtain these licenses in this context have not been licensed. P. C. Wickremaratne says.
+
+The National Audit office points out that there have been many other malpractices in the program of issuing such licenses.
 
 ...
 
 [Data](articles/05a4e445.json)
+
+[Extended Data](ext_articles/05a4e445.ext.json)
 
 ---
 
@@ -902,6 +978,26 @@ DoubleTree by Hilton Weerawila Rajwarna Resort invites families to create unforg
 
 ---
 
+### Jetstar Asia takes off to Colombo
+
+*2024-11-23 01:55:00* · [`islandlk`](http://island.lk/jetstar-asia-takes-off-to-colombo/) · `en`
+
+Jetstar Asia (3K) celebrated the launch of its direct flights between Singapore and Colombo today, as the Singapore carrier becomes the only low-cost airline to operate the route.
+
+Flight 3K333, departed from Singapore’s Changi Airport this morning, heralding the start of more affordable and convenient options for travellers wanting to explore Sri Lanka’s vibrant and captivating capital.
+
+With five return flights each week, operated by their fleet of Airbus A320s, the new route offers travellers a choice of morning or evening departures, providing convenient options for those connecting through Singapore.
+
+Over 90,000 low fare seats will be available each year, giving Singaporeans and travellers from across the region another exciting travel destination while bringing thousands of tourists and business travellers to the Lion City.
+
+Jetstar Asia CEO, John Simeone, said Sri Lanka was an exciting addition to Jetstar Asia’s network.
+
+...
+
+[Data](articles/beae2367.json)
+
+---
+
 ### Dedicated to make the motherland the best country
 
 *2024-11-23 01:42:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்நாட்டை-சிறந்த-நாடாக-மாற்ற-அர்ப்பணிப்போம்/175-347643) · `ta`
@@ -1501,6 +1597,22 @@ At this Thandi Workshop, the role of the Member of Parliament, Parliamentary Pri
 [Data](articles/e825db2b.json)
 
 [Extended Data](ext_articles/e825db2b.ext.json)
+
+---
+
+### ජාත්‍යන්තර මූල්‍ය අරමුදලේ තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව සාර්ථකව අවසන්
+
+*2024-11-22 21:20:28* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-මූල්‍ය-අරමුදලේ-තුන්වන-සමාලෝචනයට-අදාළ-සාකච්ඡාව-සාර්ථකව-අවසන්/11-413216) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ පැවති තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව අද (22) ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+මේ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල වෙනුවෙන් ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මහතා ඇතුළු නියෝජිත කණ්ඩායම සහභාගි වූ අතර ශ්‍රී ලංකා රජය නියෝජනය කරමින් ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා ඇතුළු කණ්ඩායම සහභාගී විය.
+
+ඒ අනුව ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකා රජය අතර පැවති තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව සාර්ථකව අවසන් වී ඇත.
+
+◼️
+
+[Data](articles/de9fff4b.json)
 
 ---
 
@@ -2271,141 +2383,5 @@ Dr. Harsha De Silva, Opposition Leader Sajith Premadasa, with the Opposition Lea
 [Data](articles/f7ef8dda.json)
 
 [Extended Data](ext_articles/f7ef8dda.ext.json)
-
----
-
-### Lalkantha will not be allowed to exploit intermediaries - Lal Kanthe
-
-*2024-11-22 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203633) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Lal Kanthe: No intermediaries allowed. 70,000 tonnes of Nadu rice to address market shortage. Cabinet proposal imminent. Overseas imports from India planned. Protecting farmers, addressing market deficits. Festival season supply ensured."
-
-🟩
-
-70,000 tonnes of Nadu is determined to be remedied to the shortage of rice in the market.
-
-The cabinet proposals will be produced before the Cabinet.
-
-He was speaking at a press conference held at the Ministry of Agriculture.
-
-"There's a lack of nadge in the market. There are also a problem with price. When looked on the product, there should be riders to need. But the market has not come to the market. So we will definitely bring rice from overseas. Bringing from India. We present a joint cabinet papper in this regard. Nobody will be a problem. We will solve the problem. The intermediary will not let us exploit. We don't have a problem with large-scale mill owners. But if there is a deficit in the market, but if the production has come, they should have. So we will definitely think the necessary steps to be the farmer. Definitely festival season does not have any shortage. We have no eternal answers. "
-
-◼️
-
-[Data](articles/7ae017a8.json)
-
-[Extended Data](ext_articles/7ae017a8.ext.json)
-
----
-
-### Japanese Ambassador says that the new president will support the new president
-
-*2024-11-22 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203632) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Japanese Ambassador supports new Sri Lankan president. Meeting between Presidential Secretary and Ambassador discussed bilateral ties. Japan pledges maximum support for Sri Lanka's anti-corruption efforts.
-
-🟩
-
-Presidential Secretary Dr. Nandika Sanath Sanath and Japanese Ambassador Akassador Akured Sanath has held a meeting between Ako Isomata at the Presidential Secretariat.
-
-The High Commissioner for the new government with President Anura Kumara Dissanayake, the High Commissioner of Japan is expected to continue the bilateral ties between the two countries.
-
-The Ambassador who praised the government's new policy of creating a country free of waste and corruption, the Ambassador of the Government of Japan will provide the maximum support to the Sri Lanka New Government and President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/f6d54560.json)
-
-[Extended Data](ext_articles/f6d54560.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 291.00/10 to dollar, bonds steady
-
-*2024-11-22 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-00-10-to-dollar-bonds-steady-189486/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.00/10 to the US dollar on Friday from 290.95/291.05 to the US dollar on Thursday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 10.20/25 percent, up from 10.15/25 percent.
-
-A bond maturing on 15.03.2028 closed at 11.05/15 percent, down from 11.10/20 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.25/40 percent. (Colombo/Nov22/2024)
-
-◼️
-
-[Data](articles/33d27f00.json)
-
-[Extended Data](ext_articles/33d27f00.ext.json)
-
----
-
-### Parliamentarian Archtuna complaint against Ramanathan
-
-*2024-11-22 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203631) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Civilian activists filed a complaint against newly elected MP Archunanathan with CID regarding his behavior in Parliament. He allegedly refused to vacate his seat despite being told by staff, sparking controversy among other MPs.
-
-🟩
-
-A complaint has lodged a complaint with civilian activists against the Criminal Investigation Department against the Criminal Investigation Department against Archunathan who was sworn in as a new Member of Parliament.
-
-The complaint has been lodged by civil activists to investigate a statement made by Facebook social media network.
-
-Since the MPs were not reserved according to seniority of the MPs, the members of the Jaffna district have been sitting at any seat yesterday (21).
-
-Although a parliamentary staff was official and told the MP, he refused to leave the seat and had been conversing the independent MP.
-
-He was elected to Parliament representing the 17 Independent group from Jaffna district.
-
-◼️
-
-[Data](articles/3b2ffb79.json)
-
-[Extended Data](ext_articles/3b2ffb79.ext.json)
-
----
-
-### Woman sentenced to 35 years in prison for allegedly sending abroad
-
-*2024-11-22 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199421) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Woman gets 35-year sentence for alleged fraud & money laundering. Defrauded over 4 crore rupees posing as foreign employment agent. All transactions via her personal account. Case heard in Additional Magistrate's Court.
-
-🟩
-
-A woman who was allegedly defrauding millions of money for allegedly sending it abroad has been sentenced to 35 years in prison.
-
-A woman from Jaffna has been arrested and investigated on the basis of complaints received by the District Crime Branch for allegedly defrauding the youth.
-
-Investigations have revealed that more than 4 crores of rupees were fraudulent, money laundering, identifying as a foreign employment agent without permission.
-
-All the money transactions are carried out through the woman's own account number.
-
-The woman with the sources of these. The case was held as the Additional Magistrate's Court was produced.
-
-In this case, the woman was identified as a culprit and sentenced to 35 years in prison.
-
-◼️
-
-[Data](articles/dc8750bc.json)
-
-[Extended Data](ext_articles/dc8750bc.ext.json)
 
 ---

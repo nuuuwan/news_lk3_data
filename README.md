@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 00:58:12**
+As of **2024-11-24 00:41:14**
 
 ## Newspaper Stats
 
-*Scraped **56,505** Articles*
+*Scraped **56,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,308
 adaderanalk | 6,830
 tamilmirrorlk | 8,033
-virakesarilk | 9,197
+virakesarilk | 9,195
 adaderanasinhalalk | 9,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,503 (100.0%) of 56,505 articles have been extended.
+56,503 (100.0%) of 56,503 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -184,20 +184,6 @@ Similarly, Tamil is already in place. Tamil Nadu is the state of mind that prote
 
 ---
 
-### 2025 ஆம் ஆண்டுக்கான வரவு, செலவுத்திட்டத்தைக் குறிவைக்கிறது நாணய நிதியம் ; பணிப்பாளர் சபையின் ஒப்புதலின் பின்னரே 333 மில்லியன் டொலர் நிதி விடுவிக்கப்படுமாம்
-
-*2024-11-23 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199515) · `ta`
-
-இலங்கைக்கான விரிவாக்கப்பட்ட நிதி வசதிச் செயற்திட்டம் தொடர்பான மூன்றாம் கட்ட மீளாய்வை அடுத்து, அரசாங்கத்துடன் உத்தியோகத்தர் மட்ட இணக்கப்பாட்டை எட்டியிருக்கும் சர்வதேச நாணய நிதிய அதிகாரிகள், இந் நிதி வசதிச் செயற்திட்டத்தின் நோக்கங்களுக்கு அமைவாக 2025 ஆம் ஆண்டுக்கான வரவு, செலவுத்திட்டம் சமர்ப்பிக்கப்படல், கடன்மறுசீரமைப்பில் முன்னேற்றம் எட்டப்படல் உள்ளிட்ட மிக முக்கிய காரணிகளை அடிப்படையாககக் கொண்டே இந்த இணக்கப்பாட்டுக்கு தமது பணிப்பாளர் சபை ஒப்புதல் அளிக்கும் எனத் தெரிவித்துள்ளனர்.
-
-2022 ஆம் ஆண்டு நாடு முகங்கொடுக்க நேர்ந்த தீவிர பொருளாதார நெருக்கடியை அடுத்து, சர்வதேச நாணய நிதியத்தின் விரிவாக்கப்பட்ட நிதி வசதிச்செயற்திட்டத்தின் கீழ் 2.9 பில்லியன் டொலர் கடனை இலங்கைக்கு வழங்குவதற்கான முன்மொழிவுக்கு 2023 ஆம் ஆண்டு மார்ச் 20 ஆம் திகதி நாணய நிதியத்தின் பணிப்பாளர் சபை ஒப்புதல் அளித்தது.
-
-...
-
-[Data](articles/dba80ece.json)
-
----
-
 ### IMF says about the import of vehicles
 
 *2024-11-23 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203665) · `si`
@@ -339,24 +325,6 @@ The Commissioner General of Examinations Amit Jayasundara said that the Assistan
 [Data](articles/279b18f7.json)
 
 [Extended Data](ext_articles/279b18f7.ext.json)
-
----
-
-### விகிதாசார தேர்தல் முறைமைக்கமைய மாகாண சபை தேர்தலை நடத்துவது சிறந்தது - விஜித ஹேரத்
-
-*2024-11-23 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199486) · `ta`
-
-மாகாண சபைத் தேர்தல் முறைமையில் காணப்படும் சட்ட சிக்கலுக்கு தீர்வு காண அனைத்து அரசியல் கட்சிகளுடன் பேச்சுவார்த்தையில் ஈடுபடுவோம். அடுத்த ஆண்டு முதல் காலாண்டுக்குள் உள்ளூராட்சி மன்றத் தேர்தல் நடத்த எதிர்பார்த்துள்ளோம் என வெளிவிவகாரம், வெளிநாட்டு வேலைவாய்ப்புக்கள் மற்றும் சுற்றுலாத்துறை அபிவிருத்தி அமைச்சர் விஜித ஹேரத் தெரிவித்தார்.
-
-உள்ளூராட்சி மன்றத் தேர்தலை வெகுவிரைவில் நடத்துமாறு உயர்நீதிமன்றம் வழங்கியுள்ள தீர்ப்பினை முழுமையாக ஏற்றுக் கொள்கிறோம். உள்ளூராட்சி மன்றத் தேர்தலுக்காக கோரப்பட்ட வேட்புமனுக்களை இரத்து செய்து புதிதாக வேட்புமனுக்களை கோரி உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவது பொருத்தமானதாக இருக்கும்.
-
-உள்ளூராட்சி மன்றத் தேர்தலை எதிர்வரும் ஆண்டு முதல் காலாண்டில் நடத்த உத்தேசித்துள்ளோம். அரசியலமைப்பின் பிரகாரம் தேர்தல்கள் உரிய காலத்தில் நடத்தப்பட வேண்டும்.
-
-மாகாண சபைத் தேர்தல் சட்டத்தில் காணப்படும் சிக்கல்களினால் மாகாண சபைத் தேர்தலை நடத்துவதில் பாதிப்பு ஏற்பட்டுள்ளது. எல்லை நிர்ணய அறிக்கை பாராளுமன்றத்தில் நிறைவேற்றப்படவில்லை.
-
-...
-
-[Data](articles/3e2de469.json)
 
 ---
 
@@ -2469,5 +2437,35 @@ Abans Environmental Services Ltd. (AES), the leader in janitorial and related se
 [Data](articles/ccf835a5.json)
 
 [Extended Data](ext_articles/ccf835a5.ext.json)
+
+---
+
+### Dr. P. A. Kiriwandeniya observes the progress of ‘Sanasa Forward’ (Sanasa Idiriya) projects in Hambantota
+
+*2024-11-23 00:39:55* · [`dailyftlk`](https://www.ft.lk/business/Dr-P-A-Kiriwandeniya-observes-the-progress-of-Sanasa-Forward-Sanasa-Idiriya-projects-in-Hambantota/34-769575) · `en`
+
+Sanasa Founder and the Chancellor of Wayamba University of Sri Lanka Vishwa Prasadini, Dr. P. A. Kiriwandeniya recently observed the projects launched in Hambantota under ‘Sanasa Forward’ program. This program seeks to uplift communities across Sri Lanka through production-based economic concepts over the next five years. Launched one and half years ago, the Sanasa Forward initiative is being rolled out nationwide to empower 5,000 villages under 1,250 selected Sanasa societies.
+
+...
+
+[Data](articles/267845ee.json)
+
+[Extended Data](ext_articles/267845ee.ext.json)
+
+---
+
+### New Govt. focuses on Easter bombings 2019 investigation
+
+*2024-11-23 00:29:32* · [`dailyftlk`](https://www.ft.lk/columns/New-Govt-focuses-on-Easter-bombings-2019-investigation/4-769574) · `en`
+
+There is renewed expectation that the new Government will approach an investigation into the Easter bombings with a real commitment towards unearthing the truth
+
+Easter 2025 will mark the sixth anniversary of the Easter tragedy. A new President, a new Parliament with the enviable record of being the only single party to ever gain a two-thirds majority in Parliament have all the necessary implements to ensure that a full and impartial investigation is carried out. All members of this new administration also have the distinction of not having been involved in any shape or form in the events that led to this tragedy. This tragedy has left a permanent black mark on Sri Lanka’s ability to sustain meaningful compliance of international treaties and honour in full the UN charter on the right to life
+
+...
+
+[Data](articles/9e731c5e.json)
+
+[Extended Data](ext_articles/9e731c5e.ext.json)
 
 ---

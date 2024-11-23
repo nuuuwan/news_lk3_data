@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 10:01:55**
+As of **2024-11-23 10:15:10**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 9,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,436 (100.0%) of 56,439 articles have been extended.
+56,439 (100.0%) of 56,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### வெயாங்கொடையில் புதையல்?
+### Treasure in Wayangoda?
 
 *2024-11-23 09:42:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெயாங்கொடையில்-புதையல்/175-347648) · `ta`
 
-வெயாங்கொடை, வதுரவ பிரதேசத்தில் உள்ள சதுப்பு நிலப்பகுதியில் நீதிமன்ற உத்தரவின் பேரில் ஆரம்பிக்கப்பட்ட புதையல் தேடும் பணிகள் இன்றைய தினமும் (23) முன்னெடுக்கப்படவுள்ளது.
+Wayangoda treasure search update: Police excavation work resumes today under court order. Previous efforts were suspended due to finding a large stone.
 
-அத்தனகல்ல நீதவான் வழங்கிய உத்தரவுக்கமைய, பொலிஸ் விசேட அதிரடிப்படையினர் மேற்கொண்ட ஸ்கேன் பரிசோதனையின் போது பூமிக்குள் ஏதோ ஒன்று இருப்பது அவதானிக்கப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பில் நீதிமன்றத்தில் சமர்ப்பணங்களை முன்வைத்த பின்னர் அத்தனகல்ல நீதவான் நீதிமன்றம், பொதுமக்கள் முன்னிலையில் குறித்த இடத்தில் அகழ்வு பணிகளை மேற்கொள்ளுமாறு வெயாங்கொடை பொலிஸாருக்கு உத்தரவிட்டிருந்தது.
+Work on the treasure searches launched on a court order in the swamps in the Wayankoda area, which is to be carried out today (23).
 
-அகழ்வாராய்ச்சிக்கு இரண்டு நாள் கால அவகாசம் வழங்கப்பட்ட நிலையில், அதன்படி நேற்றும், முந்தினநாளும் அங்கு அகழ்வுப் பணிகள் மேற்கொள்ளப்பட்டன.
+According to an order issued by the Magistrate of Athanagalla, a scan conducted by the Police Special Task Force was observed.
 
-எனினும் நேற்று பிற்பகல் வரையிலும் அதனை நிறைவு செய்ய முடியாத நிலையில், பாரிய கல் ஒன்று கிடைத்ததையடுத்து நேற்றைய அகழ்வுப் பணிகள் தற்காலிகமாக நிறுத்தப்பட்டன. R
+After submitting the submissions to the court, the Athanagalla Magistrate's Court has ordered the Wayankoda police to carry out excavation work in the presence of the public.
+
+Excavation work was carried out yesterday and the previous day, with two days of excavation.
+
+However, as it was unable to complete until yesterday afternoon, the excavation work was suspended after a massive stone was found.. Remble
 
 ◼️
 
 [Data](articles/eeb7458c.json)
+
+[Extended Data](ext_articles/eeb7458c.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ Upon his arrival at the Ministry, the President was warmly welcomed by the staff
 ...
 
 [Data](articles/f6d04ee2.json)
+
+[Extended Data](ext_articles/f6d04ee2.ext.json)
 
 ---
 
@@ -125,6 +133,8 @@ Accordingly, the discussions between the IMF and the Government of Sri Lanka per
 ◼️
 
 [Data](articles/3a13640c.json)
+
+[Extended Data](ext_articles/3a13640c.ext.json)
 
 ---
 

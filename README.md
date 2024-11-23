@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 06:46:58**
+As of **2024-11-23 05:50:07**
 
 ## Newspaper Stats
 
-*Scraped **56,425** Articles*
+*Scraped **56,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,815
-tamilmirrorlk | 8,017
+tamilmirrorlk | 8,016
 virakesarilk | 9,182
 adaderanasinhalalk | 9,733
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,420 (100.0%) of 56,425 articles have been extended.
+56,416 (100.0%) of 56,424 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,8 +48,6 @@ People’s Bank has already stamped its leadership in digital marketing arena in
 
 [Data](articles/20a1b039.json)
 
-[Extended Data](ext_articles/20a1b039.ext.json)
-
 ---
 
 ### Bank stocks spur following expectations on positive credit profile of the sector
@@ -65,8 +63,6 @@ Amid those developments the banking sector counters indicated acute buying inter
 ...
 
 [Data](articles/296985cb.json)
-
-[Extended Data](ext_articles/296985cb.ext.json)
 
 ---
 
@@ -88,8 +84,6 @@ Hilton Sri Lanka unveils festive experiences across its Iconic destinations
 
 [Data](articles/6cf89b71.json)
 
-[Extended Data](ext_articles/6cf89b71.ext.json)
-
 ---
 
 ### Hilton Sri Lanka unveils festive experiences across its Iconic destinations
@@ -107,28 +101,6 @@ DoubleTree by Hilton Weerawila Rajwarna Resort invites families to create unforg
 ...
 
 [Data](articles/500e8656.json)
-
-[Extended Data](ext_articles/500e8656.ext.json)
-
----
-
-### ’தாய்நாட்டை சிறந்த நாடாக மாற்ற அர்ப்பணிப்போம்’
-
-*2024-11-23 01:42:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்நாட்டை-சிறந்த-நாடாக-மாற்ற-அர்ப்பணிப்போம்/175-347643) · `ta`
-
-தாய்நாட்டை சிறந்த நாடாக மாற்றுவதற்கு ஒன்றிணைந்து செயற்படுமாறு அனைத்து அரச ஊழியர்களுக்கும் அழைப்பு விடுக்கின்றேன் என்று ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
-
-அக்குரேகொட பாதுகாப்பு படைத் தலைமையக வளாகத்தில் அமைந்துள்ள பாதுகாப்பு அமைச்சில் பாதுகாப்பு அமைச்சராக நேற்று (22) முற்பகல் கடமைகளைப் பொறுப்பேற்ற போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
-
-பாதுகாப்பு அமைச்சுக்கு வருகை தந்த ஜனாதிபதிக்கு அங்கிருந்த ஊழியர்களினால் மகத்தான வரவேற்பு அளிக்கப்பட்டது.
-
-அதனைத் தொடர்ந்து பாதுகாப்பு அமைச்சின் தற்போதைய செயற்பாடுகள் மற்றும் எதிர்கால செயற்பாடுகள் தொடர்பில்  முப்படைகளின் தளபதிகள் மற்றும் பாதுகாப்பு அமைச்சின் பிரதானிகளுடன் ஜனாதிபதி கலந்துரையாடினார்.
-
-சிறந்த ஆட்சியை உருவாக்குவதற்காக புதிய அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாகவும், நாட்டை கட்டியெழுப்பும் வேலைத்திட்டத்தில் அனைவரினதும் ஆதரவை எதிர்பார்ப்பதாகவும் ஜனாதிபதி தெரிவித்தார். (a)
-
-◼️
-
-[Data](articles/680b7afd.json)
 
 ---
 
@@ -2423,5 +2395,35 @@ The government has been asked to establish a rice outlet at the Dambulla Economi
 [Data](articles/69fb1867.json)
 
 [Extended Data](ext_articles/69fb1867.ext.json)
+
+---
+
+### Dilith promise before the Malwathu Mahanayake Thera
+
+*2024-11-22 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203624) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Dilith Jayaweera addresses Malwathu Mahanayake Thera, urging Parliament members to preserve tradition and oppose changes. He emphasizes nationalism's importance for national progress.
+
+🟩
+
+Members of the Unmangered Tradition should be made in Parliament that should be made in Parliament and to change the opposition to everything.
+
+Mr. Dilith Jayaweera made this observation at the defenses of the Malwathu faction of the Malwathu Chapter Sri Sumangala Thera.
+
+Dilith Jayaweera, the universal authority, was bowled out to Kandy and obtaining the blessings of the Maha Sangha.
+
+Roshan Ranasinghe, the President of the Alrangege Roshan Ranasinghe, and the National Organizer Dilum Amunugama were also present.
+
+Dilith Jayaweera was then a group of led by Dilith Jayaweera and visited Sri Sumangala Mahanayakes of the Malwathu Party.
+
+...
+
+[Data](articles/141fc059.json)
+
+[Extended Data](ext_articles/141fc059.ext.json)
 
 ---

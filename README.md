@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 15:00:48**
+As of **2024-11-23 15:11:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,459 (100.0%) of 56,462 articles have been extended.
+56,460 (100.0%) of 56,462 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1600,19 +1600,25 @@ At this Thandi Workshop, the role of the Member of Parliament, Parliamentary Pri
 
 ---
 
-### ජාත්‍යන්තර මූල්‍ය අරමුදලේ තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව සාර්ථකව අවසන්
+### Discussion for the third review of the International Monetary Fund is successfully completed
 
 *2024-11-22 21:20:28* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-මූල්‍ය-අරමුදලේ-තුන්වන-සමාලෝචනයට-අදාළ-සාකච්ඡාව-සාර්ථකව-අවසන්/11-413216) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ පැවති තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව අද (22) ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+Sri Lanka completes third IMF review meeting successfully. Government officials and IMF representatives discussed economic development strategies.
 
-මේ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල වෙනුවෙන් ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මහතා ඇතුළු නියෝජිත කණ්ඩායම සහභාගි වූ අතර ශ්‍රී ලංකා රජය නියෝජනය කරමින් ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා ඇතුළු කණ්ඩායම සහභාගී විය.
+🟩
 
-ඒ අනුව ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකා රජය අතර පැවති තුන්වන සමාලෝචනයට අදාළ සාකච්ඡාව සාර්ථකව අවසන් වී ඇත.
+The discussion was held today at the Presidential Secretariat today (22) regarding the third reviews held with the International Monetary Fund.
+
+Senior Missions Head of Senior Missions, Senior Mission, Senior Mission, and the delegation of Economic Development Prof. Anil Jayantha Fernando was also present at the Government of Sri Lanka.
+
+The discussion has successfully completed the third review between the International Monetary Fund and the Government of Sri Lanka.
 
 ◼️
 
 [Data](articles/de9fff4b.json)
+
+[Extended Data](ext_articles/de9fff4b.ext.json)
 
 ---
 

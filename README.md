@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 18:22:20**
+As of **2024-11-23 18:48:06**
 
 ## Newspaper Stats
 
-*Scraped **56,473** Articles*
+*Scraped **56,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,279 @@ islandlk | 3,378
 economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,306
+adalk | 5,307
 adaderanalk | 6,826
 tamilmirrorlk | 8,030
-virakesarilk | 9,185
-adaderanasinhalalk | 9,747
+virakesarilk | 9,193
+adaderanasinhalalk | 9,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,473 (100.0%) of 56,473 articles have been extended.
+56,479 (100.0%) of 56,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### Hast condition near the Foreign Employment Bureau
+
+*2024-11-23 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203661) · `si`
+
+Protest near Foreign Employment Bureau: Warm situation over Korean E8 visa issue. Protesters attempted sidewalk construction for continuous assembly. Police intervention led to removal of intermediaries.
+
+🟩
+
+There was a warm situation during a protest this afternoon in front of the Battaramulla Foreign Employment Battaramulla.
+
+Those who were agitated by those aggrieved parties asking the Korean E8 visa.
+
+The protesters were attempted to conduct a temporary construction of the sidewalk in front of the Bureau to make the protest into a continuous assembly.
+
+The situation was caused by the police and the arrangement was taken to remove the intermediaries.
+
+◼️
+
+[Data](articles/afb5d788.json)
+
+[Extended Data](ext_articles/afb5d788.ext.json)
+
+---
+
+### Zebra - Film Review
+
+*2024-11-23 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199501) · `ta`
+
+Here's a summary of the Zebra film review in approximately 200 characters:
+
+
+
+"Zebra", a survival thriller starring Satya Dev, explores bank fraud through twists and turns. Director's visual storytelling keeps audiences engaged. Strong performances from lead actors, including Sathyaraj in an unexpected role. Cinematography and background music enhance the thrilling plot, raising awareness about bank security.
+
+🟩
+
+Product: Old Town Pictures & Padmaja Films India Pvt Limited
+
+Actors: Satya Dev, Dali Tananjaya, Sathyaraj, Priya Bhavani Shankar, Sunil Verma, Satya, Jennifer Pikanido and many others.
+
+Ban Indian works have been increasingly from Telugu film industry and attracting Indian fanfare. The film 'Zebra' has been released, starring the leading star actors of the South Indian film industry.
+
+Is the film, which is a Survival Thriller Janer, attracted Ban Indian -level fans as usual?Or not?We will continue to see.
+
+Surya (Satyadev), the hero of the story, works as an employee in a private bank. Her girlfriend Priya Bhavani Shankar also works in the same bank. During the work, he credits 4 lakhs of rupees in Indian value for a customer's bank account.
+
+Where is the customer's money?Surya knowingly makes a mistake to save her girlfriend. That mistake makes him get into the biggest problem. Can he get out of it?Or not?The story of the film.
+
+...
+
+[Data](articles/6287eefe.json)
+
+[Extended Data](ext_articles/6287eefe.ext.json)
+
+---
+
+### Anura Kumara should implement the visionary document that Modi and Modi signed - Ranil in India
+
+*2024-11-23 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199509) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Ranil Wickremesinghe urges Anura Kumara to implement the India-Sri Lanka agreement signed with Modi. He emphasizes its visionary nature and importance for implementation.
+
+🟩
+
+Former President Ranil Wickremesinghe has said that President Anura Kumara Dissanayake should implement the document that India and Sri Lanka have signed last year.
+
+Ranil Wickremesinghe, who is visiting India, commented to PDI.
+
+Ranil Wickremesinghe said that I and Prime Minister Modi have signed a visionary document, "I think we should implement this and implement this."
+
+◼️
+
+[Data](articles/72fba7d6.json)
+
+[Extended Data](ext_articles/72fba7d6.ext.json)
+
+---
+
+### Nominating Sally Nalim
+
+*2024-11-23 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203660) · `si`
+
+Sally Nalim nominated for National List MP by Sri Lanka Muslim Congress. Party won 87,038 votes, securing 2 seats. Former Eravur Municipal Council chair. Gazette notification issued by Election Commission.
+
+🟩
+
+Muhammudu Salley has issued a gazette notification for the National List MP of the Sri Lanka Muslim Congress.
+
+The gazette notification has been issued by the Elections Commission.
+
+The Sri Lanka Muslim Congress, who was produced before the past general election, obtained 87,038 votes and took 2 seats.
+
+Accordingly, the party was appointed as one national list seat and the party had decided to name him for the post.
+
+He was also the former chairman of Eravur Municipal Council.
+
+◼️
+
+[Data](articles/3922b027.json)
+
+[Extended Data](ext_articles/3922b027.ext.json)
+
+---
+
+### One arrested with heroin drug
+
+*2024-11-23 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199507) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Heroin arrest: 45-year-old man caught in Kallawatta, Ja-Ela. Police seized 5g of heroin during raid. Further investigation ongoing.
+
+🟩
+
+A suspect has been arrested yesterday (22) with heroin drugs in Kallawatta area belonging to the Ja -Ela police division, Jha -Ella police said.
+
+The suspect has been arrested during a raid carried out on confidential information received by the Ja -Ela police.
+
+The arrested suspect is a 45 -year -old from Jha -Ela, Ekala.
+
+From the suspect, 05 grams of 200 ml of heroin has been seized by the police.
+
+Further investigations are being carried out by the Ja -Ela police.
+
+◼️
+
+[Data](articles/79e68374.json)
+
+[Extended Data](ext_articles/79e68374.ext.json)
+
+---
+
+### Jallio Gimkana - Film Review
+
+*2024-11-23 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199500) · `ta`
+
+Here's a summary of the film review in approximately 200 characters:
+
+
+
+"Jalio Gimkana" stars Prabhu Deva and Madonna Sebastian. Comedy-drama about four women planning to steal money from a dead man's account. Mixed reviews - some funny moments, others fall flat. Prabhu Deva shines as a lawyer, but overall laughs are inconsistent. Good for fans of commercial cinema seeking entertainment.
+
+🟩
+
+Actors: Prabhu Deva, Madonna Sebastian, Abirami,. G. Mahendran, M. S.. Bhaskar, Yogi Babu, Madhusudan Rao, John Vijay, Yashika Anand, Redin Kingsley, Robot Shankar, Suresh Emperor and many others
+
+'Jalio Gimkana', which is being produced in her performance, has been released as her recent films starring 'Dance Storm' Prabhu Deva starrer. Did the film make the audience laughing at the film mansion?Or not?We will continue to see.
+
+A woman named Bhavani (Madonna Sebastian) describes her story for a Christian priest Martin Luther King (Yogi Babu) to meet her hand.. He begins with the story of the film. He runs a small restaurant in a village in South Tamil Nadu. G. Mahendran. He has four granddaughter: Madonna Sebastian and Abirami.
+
+His restaurant is given a food preparation task for a political party's convention. The political party disappoints without paying the fee. This caused a clash in the argument with the political party volunteers. G. Mahendran is attacked.
+
+...
+
+[Data](articles/a1b5757f.json)
+
+[Extended Data](ext_articles/a1b5757f.ext.json)
+
+---
+
+### ஜெயம் ரவி நடிக்கும் 'காதலிக்க நேரமில்லை' படத்தின் முதல் பாடல் வெளியீடு
+
+*2024-11-23 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199498) · `ta`
+
+ஜெயம் ரவி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'காதலிக்க நேரமில்லை' எனும் படத்தில் இடம்பெற்ற 'என்னை இழுக்குதடி..' எனத் தொடங்கும் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது. இந்த காணொளியில் 'ஒஸ்கர் நாயகன்' ஏ.ஆர். ரஹ்மான் மற்றும் பாடகி தீ இணைந்து தோன்றுவதால் ரசிகர்களின் கவனத்தை கவர்ந்திருக்கிறது.
+
+இயக்குநர் கிருத்திகா உதயநிதி இயக்கத்தில் உருவாகி வரும் 'காதலிக்க நேரமில்லை' எனும் திரைப்படத்தில் ஜெயம் ரவி, நித்யா மேனன், யோகி பாபு, வினய் ராய், டிஜே பானு, ஜான் கொக்கன், லால், லட்சுமி ராமகிருஷ்ணன், வினோதினி, ரோஹன் சிங் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கேவ்மிக் ஆரே ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ரெட் ஜெயன்ட் மூவிஸ் நிறுவனம் தயாரித்திருக்கிறது.
+
+இப்படத்தின் அனைத்துப் பணிகளும் நிறைவடைந்து இறுதி கட்டத்தை எட்டி இருக்கும் நிலையில் இப்படத்தில் இடம்பெற்ற 'என்னை இழுக்குதடி..' எனத் தொடங்கும் முதல் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/423f70d4.json)
+
+---
+
+### ஆர். ஜே. பாலாஜி நடிக்கும் 'சொர்க்கவாசல்' படத்தின் முன்னோட்டம் வெளியீடு
+
+*2024-11-23 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199499) · `ta`
+
+நடிகரும், இயக்குநருமான ஆர். ஜே. பாலாஜி அழுத்தமான வேடத்தில் நடித்திருக்கும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை முன்னணி இயக்குநரான லோகேஷ் கனகராஜ் மற்றும் முன்னணி இசையமைப்பாளரான அனிரூத் ஆகியோர் இணைந்து வெளியிட்டனர்.
+
+அறிமுக இயக்குநர் சித்தார்த் விஸ்வநாத் இயக்கத்தில் உருவாகி, எதிர்வரும் 29 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தில் ஆர். ஜே. பாலாஜி, செல்வ ராகவன், நட்டி என்கிற நட்ராஜ், கருணாஸ், சானியா ஐயப்பன், ஹக்கீம் ஷா, பாலாஜி சக்திவேல், அந்தோணி தாசன், ரவி ராகவேந்திரா, சாமுவேல் ராபின்சன், எழுத்தாளர் ஷோபா சக்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+சர்வைவல் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்வைப் ரைட் ஸ்டுடியோஸ் நிறுவனம் தயாரித்திருக்கிறது. இந்த திரைப்படத்தை உலகம் முழுவதும் ட்ரீம் வாரியர் பிக்சர்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் எஸ். ஆர். பிரபு வழங்குகிறார்.
+
+...
+
+[Data](articles/78d2bbcc.json)
+
+---
+
+### தலங்கமவில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2024-11-23 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199505) · `ta`
+
+தலங்கம பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபரொருவர் நேற்று வெள்ளிக்கிழமை (22) கைது செய்யப்பட்டுள்ளதாக தலங்கம பொலிஸார் தெரிவித்தனர்.
+
+தலங்கம பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தலாஹேன பிரதேசத்தைச் சேர்ந்த 39 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடம் இருந்து 10 கிராம் 400 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/42bc3596.json)
+
+---
+
+### මිලිමීටර් 150කට වඩා වැඩි ඉතා තද වැස්සක්
+
+*2024-11-23 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203659) · `si`
+
+දිවයින වටා මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+අද (23) පස්වරු 04:00ට නිකුත් කරන ලද එම නිවේදයන හෙට (24) පස්වරු 04:00 දක්වා පැය 24 කාලයක් වලංගුවන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ගිනිකොනදිග බෙංගාල බොක්ක මුහුද ආශ්‍රිතව මේ වන විට අඩුපීඩන කලාපයක් නිර්මාණය වී තිබේ.
+
+එය තවදුරටත් වර්ධනය වෙමින් බටහිරට බරව වයඹ දෙසට ගමන්කර නොවැම්බර් මස 25වන දින වනවිට නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිතව පීඩන අවපාතයක් දක්වා වර්ධනය වීමේ හැකියාවක් පවතී.
+
+එම පද්ධතිය තවදුරටත් වර්ධනය වෙමින් දිවයිනේ උතුරු වෙරළ දෙසට ගමන් කරනු ඇතැයි බලාපොරොත්තු වෙයි.
+
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයිනේ නැගෙනහිර සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 150කට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/4844dc40.json)
+
+---
+
+### රොබෝවරුන් 12ක් පැහැරගත් රොබෝ පැංචා
+
+*2024-11-23 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203658) · `si`
+
+චීනයේ කෘතිම බුද්ධි තාක්ෂණයෙන් නිෂ්පාදිත එර්බායි නම් රොබෝවරයෙක් ප්‍රදර්ශනාගාරයකින් රොබෝවරුන් 12 දෙනෙකු පැහැරගෙන යාමේ පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විදෙස් වාර්තා පෙන්වා දී ඇත්තේ එර්බායි තමන්ට වඩා විශාල රෝබෝ යන්ත්‍ර සමග මානවරූපී සංවාදයක් ආරම්භ කර ඇති අතර ඔහු එහිදී මෙම රොබෝවරුන්ගේ සේවා කාලය පිළිබඳව ඔවුන්ගෙන් විමසා තිබූ බවය.
+
+එම රොබෝ යන්ත්‍ර සිය සේවා කාලය පිළිබදව අප්‍රසාදය පළ කිරීමත් සමග, වැඩපල අතහැර තමන් සමග යාමට එර්බායි එම රොබෝවරුන් එකඟ කරවාගෙන තිබුණි.
+
+ප්‍රදර්ශනාගාරයේ  CCTV කැමරාවල පටිගත වූ, එම සිදුවීමට අදාළ දර්ශන මේ වනවිට X සමාජ මාධ්‍යයේ අවධානයක් දිනා ගනිමින් තිබේ.
+
+◼️
+
+[Data](articles/b24780a5.json)
+
+---
 
 ### Baba Bengal's prediction for 2025
 
@@ -222,6 +480,22 @@ Police suspect that the suspects have tried to flee to India from sea to India.
 
 ---
 
+### க.பொ.த. உயர்தர பரீட்சை திங்கள் ஆரம்பம் !
+
+*2024-11-23 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199485) · `ta`
+
+கல்விப் பொதுத் தராதர உயர்தர பரீட்சை திங்கட்கிழமை (25) ஆரம்பமாகவுள்ள நிலையில் அதற்கான சகல ஏற்பாடுகளும் பூர்த்தியடைந்துள்ளதாக பரீட்சை திணைக்களம் தெரிவித்துள்ளது. திங்கள் ஆரம்பமாகும் பரீட்சை டிசம்பர் 20 ஆம் திகதி வரை இடம்பெறவுள்ளது.
+
+உயர்தர பரீட்சையை ஒத்தி வைக்குமாறு  பல்வேறு தரப்பினரிடமிருந்து கோரிக்கைகள் முன்வைக்கப்பட்டு வருகின்றன. எவ்வாறாயினும், வினாத்தாள்கள் அச்சிடுதல், பிராந்திய சேகரிப்பு மையங்களை நிறுவுதல், பரீட்சை மையங்களை அமைத்தல் உள்ளிட்ட அனைத்து ஏற்பாடுகளும் ஏற்கனவே நிறைவடைந்துள்ளன.
+
+உயர்தரப் பரீட்சை அட்டவணை கடந்த மார்ச் மாதம் 1 ஆம் திகதி உத்தியோகபூர்வமாக அறிவிக்கப்பட்டுள்ளது. மாணவர்கள் மற்றும் பாடசாலைகளுக்கு பரீட்சைக்கு தயார்படுத்துவதற்கு போதுமான நேரம் வழங்கப்பட்டுள்ளது. இந்த கட்டத்தில் ஒரு மாற்றம், தேசிய தேர்வு நாட்காட்டியில் குறிப்பிடத்தக்க இடையூறுகளை ஏற்படுத்தும். குறிப்பாக சாதாரண தர பரீட்சையில் தாக்கத்தை ஏற்படுத்தும்.
+
+...
+
+[Data](articles/27d097fe.json)
+
+---
+
 ### A man arrested for illegally excavating treasure in Kandy
 
 *2024-11-23 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199482) · `ta`
@@ -319,6 +593,22 @@ The assertion of the officers of the Ministry of Finance to liberate the country
 [Data](articles/9ab8085c.json)
 
 [Extended Data](ext_articles/9ab8085c.ext.json)
+
+---
+
+### සෞඛ්‍ය ඇමති මහනුවර රෝහලේ නිරික්ෂණයකට ගියේ නෑ
+
+*2024-11-23 14:27:23* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-ඇමති-මහනුවර-රෝහලේ-නිරික්ෂණයකට-ගියේ-නෑ/11-413217) · `si`
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මහනුවර රජයේ රෝහලක නිරීක්ෂණ චාරිකාවක නිරත වූ බවත් එහිදී යම් යම් පරීක්ෂා කිරීම් සහ අඩුපාඩු පෙන්වා දුන් බවත් සඳහන් කරමින් මාධ්‍ය ඔස්සේ ප්‍රවෘත්තියක් හුවමාරු වන බව නිරීක්ෂණය වී ඇතැයි සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+එම සාවද්‍ය ප්‍රවෘත්තියේ සදහන් පරිදි සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා එම ධූරයට පත්වූ පසු මේ දක්වා මහනුවර හෝ දිවයිනේ වෙනත් කිසිදු ප්‍රදේශයක රෝහල් නිරීක්ෂණයකට සහභාගි වී නොමැති බව අවධාරණයෙන් සදහන් කරන බව සෞඛ්‍ය අමාත්‍යාංශය කියයි.
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා ඊයේ පෙරවරු 9.00 සිට රාත්‍රී 8.00 පමණ දක්වා කොළඹ 10 පිහිටි සෞඛ්‍ය අමාත්‍යාංශයේ රුදී සිටි අතර  එ් මහතාට පරිශ්‍රයෙන් බහැරව යාමට අවස්ථාවක් නොතිබුණ බවද එම නිවේදනයේ දැක්වෙයි.
+
+...
+
+[Data](articles/2f400c6e.json)
 
 ---
 
@@ -2051,351 +2341,5 @@ The President emphasized that if there is any injustice or misbehavior in perfor
 [Data](articles/3be86861.json)
 
 [Extended Data](ext_articles/3be86861.ext.json)
-
----
-
-### There is over a number of cities including Paris
-
-*2024-11-22 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203638) · `si`
-
-France faces winter challenges: Frost hits Paris, orange alerts issued in southern and eastern regions. Snowfall disrupts traffic, covers streets and fields. Electricity restoration efforts underway. Weather forecasts predict intensifying snow conditions.
-
-🟩
-
-With the winter, the frost has begun in France.
-
-As a result, the authorities of the South and East of France have issued orange alarms have been issued to a number of areas including France.
-
-However, the snow has already begun in a number of countries in the world.
-
-Accordingly, France has also been reported from the France.
-
-Due to the snowpread, France's streets and paddy fields have been covered with snow.
-
-The traffic in many cities including the capital of Paris has been disrupted.
-
-In the face of the Buddhal, the western stalls have also faced a stock of households.
-
-Foreign media reports that about a thousand employees have been deployed to restore electricity supply.
-
-The French weather forecasts forecast that the snow can be intensified.
-
-Steps have already been taken to release orange warning to the North Britney, and Normandy areas as well as in the South and East of France.
-
-◼️
-
-[Data](articles/92c168df.json)
-
-[Extended Data](ext_articles/92c168df.ext.json)
-
----
-
-### It is amazing to cover up the Assassination of the Assassination of Mahara prisoner
-
-*2024-11-22 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203639) · `si`
-
-Summarized: 11 inmates killed in Mahara Prison. Attorney General orders arrests. Lawyers dispute court orders. Case reopened after CID investigation.
-
-🟩
-
-Welisara Magistrate Dhammika Uddasana today (22) stated that the Attorney General said that the Attorney General was close to the suspects to be arrested in the 2020 inmates regarding the killing of 11 inmates.
-
-Lawyers who commissioned the aggrieved party said the people should accept court orders?Otherwise, the Attorney General has been questioned.
-
-At least 11 inmates were killed in a shooting of the Police Station, a police stake in Mahara Prison inmates.
-
-At the Welisara Magistrate's Court revealed that 11 detainees were killed by the death of the head, stomach and chest.
-
-The court ordered the immediate arrest of the suspects immediately.
-
-On September 26, the Criminal Investigation Department (CID) on September 26, the Criminal Investigation Department (CID) presented to the Welisara Magistrate's Court to close the case.
-
-However, the case had been repeated today to report the steps taken by the Attorney General's Department to the premises by the Attorney General's Department.
-
-...
-
-[Data](articles/a4246bce.json)
-
-[Extended Data](ext_articles/a4246bce.ext.json)
-
----
-
-### Public servants must dedicate to create a government that meets the expectations of the people
-
-*2024-11-22 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199452) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Public servants must strive to create a government meeting people's expectations. President Anura Kumara Dissanayake emphasizes dedication and unity among officials to fulfill mandates and improve public perception.
-
-🟩
-
-President Anurakumara Dissanayake said that if the present government fails to meet the expectations of the people's mandate and the public, the dreams of the people will be false and that public servants should dedicate themselves to the government to fulfill the expectations of the people.
-
-President Anura Kumara Dissanayake made this statement in a speech in the presence of the Ministry's Services Commission on Friday (22) as the Minister of Finance and Economic Development.
-
-The President thanked the Finance Ministry officials to defend the country in the past, and he said that he was expecting the support of everyone to achieve future goals.
-
-He pointed out that there are histories that have been evaluated in the past activities of public servants during political changes, but in the future, the task of public servants will be evaluated by them.. The President also promised that public servants would be present for any injustice or mistakes in fulfilling their duties.
-
-...
-
-[Data](articles/f5da8525.json)
-
-[Extended Data](ext_articles/f5da8525.ext.json)
-
----
-
-### Sri Lanka says IMF review mission talks ‘successful’
-
-*2024-11-22 19:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-imf-review-mission-talks-successful-189506/) · `en`
-
-ECONOMYNEXT – Sri Lanka has wrapped up talks with a visiting International Monetary Fund mission, ‘successfully’ the president’s media office said without giving details.
-
-President Anura Dissanayake said Monday that he was expecting a staff level agreement for the next phase of the program to be reached at the conclusion of the talks this week.
-
-Sri Lanka government delegation, headed by Deputy Minister of Economic Development, Anil Jayantha Fernando at the final meeting with the IMF delegation headed by Senior Mission Chief Peter Breuer at the Presidential Secretariat.
-
-Related Sri Lanka expects IMF staff level agreement by Nov 23: President
-
-Sri Lanka is also aiming to complete external debt restructuring by December. (Colombo/Nov22/2023)
-
-◼️
-
-[Data](articles/345ec11b.json)
-
-[Extended Data](ext_articles/345ec11b.ext.json)
-
----
-
-### The administration issued a report on the state -of -the -art state of the Mannar District General Hospital
-
-*2024-11-22 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199445) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mannar District General Hospital report highlights disruptions due to protests. Medical staff faced threats, patients' care compromised. Emergency services impacted, including deliveries and surgeries. Staff security concerns raised. Investigation into Thai Chey's death underway.
-
-🟩
-
-Mannar Hospital Director, Medical Experts, Assistant Medical Officers, Nurses Family Welfare Officers, Health Officers, Patients, Technical Assistants and Technical AssistantsHave been released.
-
-A loss is unbearable in any way. Despite the causes, the loss can hurt everyone's mind.
-
-A healthy society must support the lost family and help them to recover from it and take action if any errors have been proven.. Have the right to fight everyone in a democratic country. But any struggle must be quiet, constructive and persecuted others.
-
-Mother and Chey Death held at Mannar District General Hospital. It is their right to fight people to make it full breath. The uncomfortable incident in the name of a demonstration around the hospital staff, which was in shock, has left the following worrisome conditions.
-
-Another mother who was giving birth to more than 50 people entered the delivery room and his service was disrupted.
-
-...
-
-[Data](articles/06f9de92.json)
-
-[Extended Data](ext_articles/06f9de92.ext.json)
-
----
-
-### Chinese envoy says Tamils in Indian backyard made “correct decision” at Sri Lanka polls
-
-*2024-11-22 19:32:00* · [`economynextcom`](https://economynext.com/chinese-envoy-says-tamils-in-indian-backyard-made-correct-decision-at-sri-lanka-polls-189505/) · `en`
-
-ECONOMYNEXT – Chinese Ambassador to Sri Lanka Qi Zhenhong during his visit to the island nation’s Northern Province, which is close to India, said ethnic minority Tamils have made ‘a correct decision’ in helping ruling Marxists-leaned National People’s Power (NPP) to win the last week general elections.
-
-Sri Lanka’s North is the closest Sri Lankan landmass to the South Indian state of Tamil Nadu and Northern Tamils have been more close to India due to Hinduism religion, Tamil language, and the culture.
-
-Historically, Northern Tamils have voted for their own ethnic minority leaders, but they mainly voted for the ruling party this time.
-
-Though the NPP got lower votes, they won five out of 12 in Northern Province, giving an unprecedented win for a main political party that was also backed by ethnic majority Sinhalese.
-
-“I believe that the Tamil community has made a correct decision,” Zhenhong told reporters on November 19.
-
-...
-
-[Data](articles/f1c7f7e5.json)
-
-[Extended Data](ext_articles/f1c7f7e5.ext.json)
-
----
-
-### Japan commends new government’s anti-corruption policies
-
-*2024-11-22 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103695/japan-commends-new-governments-anti-corruption-policies) · `en`
-
-A meeting took place this afternoon (22) at the Presidential Secretariat in Colombo between the Secretary to the President Dr. Nandika Sanath Kumanayake and the Japanese Ambassador to Sri Lanka, Akio Isomata.
-
-The Japanese Ambassador extended his best wishes to the new government led by President Anura Kumara Dissanayake and expressed Japan’s commitment to continuing the bilateral relations between the two nations in a productive and sustainable manner, the PMD reported.
-
-Ambassador Isomata commended the new government’s policies aimed at creating a nation free of corruption and malpractice while advancing economic progress.
-
-He also reaffirmed Japan’s readiness to provide maximum support to Sri Lanka’s new administration and President Anura Kumara Dissanayake, the statement said.
-
-◼️
-
-[Data](articles/6256d336.json)
-
-[Extended Data](ext_articles/6256d336.ext.json)
-
----
-
-### The third review discussion with the IMF has successfully completed
-
-*2024-11-22 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199449) · `ta`
-
-S3:0
-
-🟩
-
-The third review discussion with the International Monetary Fund took place on Friday (22) at the Presidential Office.
-
-Representatives including Senior delegation Peter Bruver, Principal of the International Monetary Fund, were present on behalf of the Government of Sri Lanka, including Economic Development Deputy Minister Anil Jayantha Fernando.
-
-Accordingly, a third review discussion between the International Monetary Fund and the Government of Sri Lanka was successfully concluded.
-
-◼️
-
-[Data](articles/5dc86d46.json)
-
-[Extended Data](ext_articles/5dc86d46.ext.json)
-
----
-
-### We will work with the same purpose and dedicate the homeland to the best country - the President's invitation to civil servants
-
-*2024-11-22 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199448) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake invites civil servants to unite & improve the country. He emphasizes public trust in governance & state services' role in national development during his Defense Ministry visit.
-
-🟩
-
-President Anura Kumara Dissanayake said that all public servants would be invited to work together to make the country a better country.
-
-The President made this statement when he took over the duties of the Defense Ministry at the Defense Ministry located at the Akuregoda Security Forces Headquarters on Friday (22).
-
-The President who visited the Ministry of Defense was given a great welcome by the staff.
-
-Subsequently, the President discussed the current activities and future activities of the Ministry of Defense with the Commander of the Armed Forces and the Ministry of Defense.
-
-The President said that the new government is dedicated to creating a better government and is expecting the support of everyone in the building of the country.
-
-The president stressed that the authority of the people is strong in the constitution and the law, which reflects their expectations when they look at the structure and forms of the last presidential election and general elections.
-
-...
-
-[Data](articles/e2bcc915.json)
-
-[Extended Data](ext_articles/e2bcc915.ext.json)
-
----
-
-### Opposition Leader Sajith Premadasa and other parties met with representatives of the International Monetary Fund again
-
-*2024-11-22 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199447) · `ta`
-
-Sajith Premadasa meets IMF reps in Colombo. Discusses relieving Sri Lanka's bankruptcy. Focuses on changing previous IMF agreement to align with People's Mandate.
-
-🟩
-
-A special meeting was held in Colombo on Friday (22) between Opposition Leader Sajith Premadasa and the International Monetary Fund (IMF) delegation.
-
-Representing the International Monetary Fund and its high -level committee chief Peter Bruver, deputy chief Katsiaryna svirydzenka, resident representative Mrs. Martha Woldemical and Resident Economist Manavi Abeywickrama were also present.
-
-A long exchange between the two sides has taken place regarding the steps to relieve the bankruptcy of Sri Lanka.
-
-Opposition Leader Sajith Premadasa pointed out that the International Monetary Fund should focus on reaching the People's Agreement by changing the IMF agreement signed by the former government, as the government and the president now elected by the people's mandate.
-
-Earlier, when he was the leader of the opposition, many members of the United People's Economic Council, including Sajith Premadasa, held face -to -face talks on several occasions with the IMF representatives.
-
-...
-
-[Data](articles/7e9aef44.json)
-
-[Extended Data](ext_articles/7e9aef44.ext.json)
-
----
-
-### Sri Lanka says discussions with IMF on third review concluded successfully
-
-*2024-11-22 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103694/sri-lanka-says-discussions-with-imf-on-third-review-concluded-successfully) · `en`
-
-The Government of Sri Lanka says that discussions related to the third review under the Extended Fund Facility of the International Monetary Fund (IMF) program were successfully concluded today (22).
-
-The meeting, held at the Presidential Secretariat, was attended by a delegation representing the IMF, led by Senior Mission Chief Peter Breuer, the President’s Media Division (PMD) said.
-
-Representing the Sri Lankan government, the delegation was headed by Deputy Minister of Economic Development, Professor Anil Jayantha Fernando.
-
-Accordingly, the discussions between the IMF and the Government of Sri Lanka pertaining to the third review were successfully concluded, the statement said.
-
-◼️
-
-[Data](articles/c96729bb.json)
-
-[Extended Data](ext_articles/c96729bb.ext.json)
-
----
-
-### Government statement on the third review of the IMF
-
-*2024-11-22 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203636) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Presidential Media Unit announces successful completion of IMF program review. Deputy Minister Anil Jayantha Fernando represented Sri Lanka in talks led by Peter Brve.
-
-🟩
-
-The Presidential Media Unit announces that the talks on reviewing the progress of the program of the International Monetary Fund will successfully complete the review of the progress of the program.
-
-The International Monetary Fund Memoranda Memoranda, Peter Brve, attended the delegation, representing the Deputy Minister of Economic Development Anil Jayantha Fernando.
-
-◼️
-
-[Data](articles/8d011942.json)
-
-[Extended Data](ext_articles/8d011942.ext.json)
-
----
-
-### President assumes duties
-
-*2024-11-22 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203635) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Newly elected President Anura Kumara Dissanayake addresses defense officials, promising unity and improved governance. He emphasizes public servant importance in national development and economic growth.
-
-🟩
-
-President Anura Kumara Dissanayake said he would invite all public servants to work with one purpose and to make our motherland a better state.
-
-The President made this statement participating in the Defense Ministry in Akuregoda Security Forces Headquarters at the Commander Headquarters in Akuregoda.
-
-The President who arrived at the Ministry of Defense and received honor by the staff.
-
-Thereafter, the President also discussed a discussion with the Armed Forces Commanders and the Chiefs of the Defense Ministry.
-
-The President said the new government is committed to a good governance and hopes to support the country.
-
-The President said that the power of the constitutional laws was also the power of the people and the composition and shapes of the general election.
-
-The President added that the public service was given nearly 80% of the past in recent history, the President added that this change was a wish.
-
-...
-
-[Data](articles/e1febbb2.json)
-
-[Extended Data](ext_articles/e1febbb2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 14:14:47**
+As of **2024-11-23 14:27:07**
 
 ## Newspaper Stats
 
-*Scraped **56,455** Articles*
+*Scraped **56,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adalk | 5,304
 adaderanalk | 6,823
 tamilmirrorlk | 8,027
 virakesarilk | 9,183
-adaderanasinhalalk | 9,741
+adaderanasinhalalk | 9,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,455 (100.0%) of 56,455 articles have been extended.
+56,455 (100.0%) of 56,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### KDU බස් අනතුරෙන් තුවාල ලැබු තවත් සිසුවෙක් මරුට
+
+*2024-11-23 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203651) · `si`
+
+ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ සිසු සිසුවියන් රැගත් බස් රථයක් පෙරළීමෙන් ඉකුත්දා සිදුවූ අනතුරෙන් තුවාල ලබා රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටි තවත් සිසුවෙක් අද (23) මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ අවුරුදු 24ක් වූ කයිලනාදන් සිංදුජන් නම් යාපනය කන්දමඩම් ප්‍රදේශයේ පදිංචි සිසුවෙකි.
+
+ඔහු යාපනය හිංදු විද්‍යාලයේ ගණින අංශයෙන් උසස් පෙළ හදාරා ඇති සිසුවෙකි.
+
+කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ දක්ෂිණ මණ්ඩපයේ සිසු සිසුවියන් 41 දෙනෙකු රැගත් මෙම බස් රථය බදුල්ල - දුන්හිඳ ප්‍රදේශයේදී නොවැම්බර් මස 01වනදා අනතුරට ලක්විය.
+
+◼️
+
+[Data](articles/1b34fca5.json)
+
+---
+
+### රටවිරුවන්ට ලැබෙන වාහන බලපත්‍ර රැසක් අවභාවිත කරලා
+
+*2024-11-23 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203650) · `si`
+
+විදෙස්ගත ශ්‍රමිකයින් සඳහා විද්‍යුත් වාහන ගෙන්වීමට ලබාදී තිබූ බලපත්‍ර දහසකට අධික සංඛ්‍යාවක් පසුගිය කාලයේදී අවභාවිත වී ඇති බව ජාතික විගණන කාර්යාලය පවසයි.
+
+විගණකාධිපති ඩබ්ලිව් .පී .සී. වික්‍රමරත්න මහතා ප්‍රකාශ කළේ, ඒ සම්බන්ධයෙන් වූ වාර්තාවක් මේ වනවිටත් පාර්ලිමේන්තුවට භාර දී ඇති බවය.
+
+විදෙස්ගත ශ්‍රමිකයින් විසින් එවනු ලබන ප්‍රේෂණ හරහා මෙරට ආර්ථිකයට හිමිවන දායකත්වය අතිමහත් ය.
+
+ඒ අනුව එම සේවාව අගය කරනුවස් ඔවුන් වෙනුවෙන් විද්‍යුත් වාහන ගෙන්වීම සඳහා බලපත්‍ර නිකුත් කිරීමේ ක්‍රමවේදයක් පසුගිය රජය සමයේදී ආරම්භ කළේය.
+
+ඒ අනුව සුදුසුකම් ලබන විගමනික ශ්‍රමිකයින් සඳහා අමෙරිකානු ඩොලර් 25,000ක උපරිමයකට යටත්ව රෝද දෙකකින් යුත් විද්‍යුත් වාහනයක්ද, අමෙරිකානු ඩොලර් 65,000ක උපරිමයකට යටත්ව රෝද 4කින් යුත් පූර්ණ විද්‍යුත් වාහනයක්ද ආනයනය කිරීමටද බලපත්‍ර ලබා දී තිබුණි.
+
+කෙසේ වෙතත් මෙතෙක් නිකුත් කර ඇති එවැනි බලපත්‍ර 1,000කට අධික සංඛ්‍යාවක් අවභාවිත වී ඇති බව ජාතික විගණන කාර්යාලය සිදුකළ විශේෂ විගණනයකදී අනාවරණ වී තිබේ.
+
+...
+
+[Data](articles/05a4e445.json)
+
+---
 
 ### Western Provincial Governor visited the Colombo and Kakaidivu coastal area
 
@@ -2367,53 +2407,5 @@ In this case, the woman was identified as a culprit and sentenced to 35 years in
 [Data](articles/dc8750bc.json)
 
 [Extended Data](ext_articles/dc8750bc.ext.json)
-
----
-
-### MP Dilith Jayaweera calls on Malwathu Mahanayake Thero
-
-*2024-11-22 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103692/mp-dilith-jayaweera-calls-on-malwathu-mahanayake-thero) · `en`
-
-‘Sarvajana Balaya’ Member of Parliament, Dilith Jayaweera, has emphasized the need to change the prevailing parliamentary system of the opposition opposing all initiatives of the government and to establish a knowledgeable tradition within the legislative framework.
-
-He made these observations during a meeting with the Chief Prelate of the Malwatta Chapter of the Siam Nikaya, Most Venerable Thibbatuwawe Sri Siddhartha Sumangala Thero.
-
-Jayaweera worshipped at the Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) during a visit to Kandy today (22), where he also received blessings from the Maha Sangha.
-
-He was accompanied on the visit by the Chairman of ‘Sarvajana Balaya,’ Roshan Ranasinghe, National Organizer Dilum Amunugama, and several others.
-
-They subsequently visited the Malwathu Maha Viharaya, where they paid their respects to the Chief Prelate of the Malwatta Chapter, Most Venerable Thibbatuwawe Sri Siddhartha Sumangala Nayaka Thero, and received his blessings.
-
-...
-
-[Data](articles/0b3640b5.json)
-
-[Extended Data](ext_articles/0b3640b5.ext.json)
-
----
-
-### Importing 70 Thousand Thon of Rice - Ministry of Agriculture
-
-*2024-11-22 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199426) · `ta`
-
-India to import 70k metric tons of rice to address shortage. Decision made to ensure availability during festive season. Import process to begin after Cabinet approval. Measures to stabilize rice prices and prevent intermediary exploitation. Relief for farmers continues uninterrupted.
-
-🟩
-
-The first phase from India will submit the Joint Cabinet paper for the importation of 70 thousand metric tonnes of rice to the Cabinet next week. Agriculture, Livestock, Irrigation and Land Minister KD Lal Kanta said that there will be no shortage of essential commodities during the festive season.
-
-He said this during a media briefing held at the Ministry of Agriculture on Friday (22).
-
-Appropriate action will be taken on the price of essential food items. Special attention has been paid to the shortage and prices of country rice in the market.
-
-It has been decided to import 70 thousand metric tons of rice from India for the first time as a short -term solution to rice shortage. We will submit the Joint Ministry bond at the upcoming Cabinet meeting.
-
-National farmers and consumers are not affected by importing rice. Cannot accommodate the improper activities of the intermediaries. Appropriate measures will be taken to improve the agriculture sector at the national level.
-
-...
-
-[Data](articles/a2b61269.json)
-
-[Extended Data](ext_articles/a2b61269.ext.json)
 
 ---

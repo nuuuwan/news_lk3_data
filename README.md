@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 11:42:09**
+As of **2024-11-23 12:26:44**
 
 ## Newspaper Stats
 
-*Scraped **56,448** Articles*
+*Scraped **56,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,47 +18,103 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,820
-tamilmirrorlk | 8,026
+tamilmirrorlk | 8,027
 virakesarilk | 9,182
-adaderanasinhalalk | 9,740
+adaderanasinhalalk | 9,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,444 (100.0%) of 56,448 articles have been extended.
+56,449 (100.0%) of 56,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### IMF තුන්වන සමාලෝචනයේදී ශ්‍රී ලංකාව ගැන ගත් තීරණ
+### குறைகிறது எம்.பி.க்களின் சிறப்புரிமைகள்
+
+*2024-11-23 12:04:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/குறைகிறது-எம்-பி-க்களின்-சிறப்புரிமைகள்/150-347653) · `ta`
+
+பாராளுமன்ற உறுப்பினர்கள் அனுபவித்து வந்த சில சலுகைகள் குறைக்கப்பட்டுள்ளதாக, பாராளுமன்ற வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதற்கமைய, பாராளுமன்ற உறுப்பினர்களின் பாதுகாப்புக்காக இதுவரை கலமும் கைத்துப்பாக்கி வழங்கப்பட்டு வந்த நிலையில், அந்த வசதியை நீக்குவது தொடர்பில், கவனம் செலுத்தப்பட்டுள்ளது.
+
+இதற்கு மேலதிகமாக ஒவ்வொரு பாராளுமன்ற உறுப்பினருக்கும் இரண்டு பொலிஸ் உத்தியோகத்தர்களின் பாதுகாப்பு வழங்கப்படவுள்ளதுடன், இதுவும் பெருமளவில் நீக்கப்படும் என தெரிவிக்கப்படுகிறது.
+
+மேலும், பாராளுமன்ற உறுப்பினர்களுக்கு இதுவரையில் வழங்கப்பட்டு வந்த வரியில்லா வாகன அனுமதிப்பத்திரமும் நீக்கப்படவுள்ளதாகவும் தெரியவருகிறது.AN
+
+◼️
+
+[Data](articles/9a2e4688.json)
+
+---
+
+### Local government election at the beginning of next year
+
+*2024-11-23 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203649) · `si`
+
+Local government elections scheduled early next year: Supreme Court ruling no funds allocated this year but preparations underway for Pradeshiya Sabha Urban Council election.
+
+🟩
+
+Foreign Affairs and Tourism Vijitha Herath said that the local government elections have been conducted in early next year.
+
+Speaking to the media this was in response to the media this morning (23) in the Kandy area.
+
+"The Supreme Court has ruled that the local government elections are soon. No funds have been allocated this year. But the total government election in the early days next year.. That is, we are ready to hold the Pradeshiya Sabha Urban Council election. "
+
+◼️
+
+[Data](articles/901a4fd9.json)
+
+[Extended Data](ext_articles/901a4fd9.ext.json)
+
+---
+
+### Decisions taken about Sri Lanka in the third review of the IMF
 
 *2024-11-23 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203648) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල මගින් ශ්‍රී ලංකාවට ලබාදුන් විස්තීර්ණ ණය පහසුකම සම්බන්ධයෙන් වැඩසටහනේ 3 වෙනි සමාලෝචනයට එහි නියෝජිතයින් සහ ශ්‍රී ලංකා බලධාරීන් කාර්යමණ්ඩල මට්ටමේ එකඟතාවයකට එළඹි බව ජාත්‍යන්තර මූල්‍ය අරමුදල අද (23) නිවේදනය කළේය.
+Sri Lanka IMF review: New $333m loan approved; $2.9b over 4 years; Government commits to maintaining policies.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ කළමනාකාරීත්වය සහ එහි විධායක මණ්ඩලය ඒ සඳහා අනුමැතිය ලබාදීමෙන් පසු ශ්‍රී ලංකාවට ඩොලර් මිලියන 333ක් පමණ ලබාගැනීමට අවස්ථාව හිමිවෙයි.
+🟩
 
-ප්‍රතිපත්ති දිගටම පවත්වාගෙන යෑමට නව රජය මගින් පෙන්නුම් කර ඇති කැපවීම එම වැඩසටහනේ අරමුණු ඉටු කරගැනීම සඳහා වැදගත් බවද එම නිවේදනයේ සඳහන් ය.
+The International Monetary Fund announced that the Sri Lankan authorities have agreed to review the program 3 on the amendment of the program regarding the comprehensive loan facility to be given to Sri Lanka by the International Monetary Fund.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස සඳහා පීටර් බෘෘවර් මහතා නායකත්වය දුන් අතර ඔවුන් මෙරට නොවැම්බර් 17 වනදා සිට රැඳී සිටියේය.
+After the management of the International Monetary Fund and the Executive Board approved it will receive about $ 333 million.
 
-2023 මාර්තු 20 වනදා ජාත්‍යන්තර මූල්‍ය අරමුදල මගින් ඩොලර් බිලියන 2.9ක් වූ විස්තීර්ණ ණය පහසුකම ශ්‍රී ලංකාව සඳහා අනුමත කරන ලදි. එය මාස 48ක් පුරා ක්‍රියාත්මකය.
+The statement states that the commitment of the new government to maintain policies is important in order to achieve the objectives of the program.
+
+Peter Bruce was led by the International Monetary Fund delegation, and they stayed from November 17.
+
+On March 20, 2023, the International Monetary Fund approved $ 2.9 billion for Sri Lanka. It is in 48 months.
 
 ◼️
 
 [Data](articles/0c4bda98.json)
 
+[Extended Data](ext_articles/0c4bda98.ext.json)
+
 ---
 
-### IMF තුන්වන සමාලෝචනය පිළිබඳ ප්‍රවෘත්ති සාකච්ඡාව
+### News discussion on the third review of the IMF
 
 *2024-11-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203647) · `si`
+
+Here's a summary of the news discussion on the third review of the IMF in approximately 200 characters:
+
+
+
+"IMF faces criticism over third review. Economists warn of potential economic instability due to strict austerity measures. Developing countries express concerns about inequality and lack of support for growth initiatives."
+
+🟩
 
 ◼️
 
 [Data](articles/69380233.json)
+
+[Extended Data](ext_articles/69380233.ext.json)
 
 ---
 
@@ -80,17 +136,25 @@ The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, a
 
 [Data](articles/d20ad045.json)
 
+[Extended Data](ext_articles/d20ad045.ext.json)
+
 ---
 
-### 2025 ஆரம்பத்தில் உள்ளூராட்சி தேர்தலை நடத்த திட்டம்
+### Plan to hold local elections in early 2025
 
 *2024-11-23 10:54:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆரம்பத்தில்-உள்ளூராட்சி-தேர்தலை-நடத்த-திட்டம்/175-347652) · `ta`
 
-உள்ளுராட்சி மன்ற தேர்தலை, அடுத்த வருட ஆரம்பத்தில் நடத்த திட்டமிடப்பட்டுள்ளதாக, அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.AN
+Local elections planned for early 2025, according to Minister Vijitha Herath.
+
+🟩
+
+Minister Vijitha Herath said that the local government elections are scheduled to be held early next year.
 
 ◼️
 
 [Data](articles/217fd6b0.json)
+
+[Extended Data](ext_articles/217fd6b0.ext.json)
 
 ---
 
@@ -252,7 +316,7 @@ President Anura Kumara Dissanayake stated that if the current government fails t
 
 He emphasized that government officials must dedicate themselves to building a government that fulfils the aspirations of the people, the President’s Media Division (PMD) said.
 
-President Anura Kumara Dissanayake made these remarks while addressing the staff of the Ministry of Finance, Planning and Economic Development today (22), after officially assuming duties as its Minister.
+President Anura Kumara Dissanayake made these remarks while addressing the staff of the Ministry of Finance, Planning and Economic Development yesterday (22), after officially assuming duties as its Minister.
 
 Upon his arrival at the Ministry, the President was warmly welcomed by the staff , the PMD added.
 
@@ -2355,59 +2419,5 @@ If any of the public identified, the police have requested the public to contact
 [Data](articles/a5459cfb.json)
 
 [Extended Data](ext_articles/a5459cfb.ext.json)
-
----
-
-### Two police officers arrested for sex
-
-*2024-11-22 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199424) · `ta`
-
-Two police officers arrested for threatening woman in Jaffna. They obtained intimate photos/videos and intimidated her. Case under investigation, to be presented in court.
-
-🟩
-
-Two police officers have been arrested on Thursday (22) for allegedly threatening a woman from Jaffna to intimidate a photo and videos of her boyfriend.
-
-Two police officers working at the Palali Police Station have received pictures and videos of a woman living in the Chunnakam police division.
-
-Two police officers who identified the woman with pictures went to her home and introduced them as a special unit from Colombo, investigating the woman and obtaining her telephone numbers.
-
-Later, on the basis of inquiries, they have to take legal action and they have to pay Rs.
-
-After the victim lodged a complaint at the Chunnakam police station, the Sunnaka police, who were carrying out investigations, have arrested two police officers who are on duty at the Palali police station.
-
-Sunnakka police have said that the two men will be taken to the Mallakam Magistrate's Court after investigations.
-
-◼️
-
-[Data](articles/0862297d.json)
-
-[Extended Data](ext_articles/0862297d.ext.json)
-
----
-
-### Parliamentary Snack Road
-
-*2024-11-22 16:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-சிற்றுண்டிச்சாலை-மூடப்படாது/175-347623) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Parliamentary Snack Road: MP Harsha de Silva ensures snacks won't close. He criticizes misuse, urging responsible use of the facility under current governance.
-
-🟩
-
-Harsha de Silva, Member of Parliament, said that the parliamentary snack will not be closed for any reason.
-
-In the current regime, he said this while questioning the release of the parliamentary restaurant.
-
-Parliamentary Snacks will not be closed. But although the government takes care of that no one is abusing the facility, Harsha de Silva said.
-
-◼️
-
-[Data](articles/16acd908.json)
-
-[Extended Data](ext_articles/16acd908.ext.json)
 
 ---

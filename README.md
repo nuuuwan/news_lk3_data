@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 22:26:35**
+As of **2024-11-23 22:59:54**
 
 ## Newspaper Stats
 
-*Scraped **56,499** Articles*
+*Scraped **56,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,308
-adaderanalk | 6,828
+adaderanalk | 6,830
 tamilmirrorlk | 8,032
-virakesarilk | 9,194
+virakesarilk | 9,195
 adaderanasinhalalk | 9,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,499 (100.0%) of 56,499 articles have been extended.
+56,502 (100.0%) of 56,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### President Dissanayake should fully implement vision document with India: Ranil Wickremesinghe
+
+*2024-11-23 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103713/president-dissanayake-should-fully-implement-vision-document-with-india-ranil-wickremesinghe) · `en`
+
+Former Sri Lankan President Ranil Wickremesinghe said his successor Anura Kumara Dissanayake should fully implement the “vision document” adopted with India last year.
+
+President Dissanayake, elected to the top office in September this year, is scheduled to visit India in mid-December.
+
+During his India trip in July 2023, then-President Wickremesinghe had signed a vision document with Prime Minister Narendra Modi, outlining areas of cooperation between the two countries, especially economic partnership.
+
+“In the vision document signed by me and Prime Minister of India Narendra Modi, we have set out the areas of bilateral cooperation between the two countries. I am of the opinion he (Dissanayake) should move forward and we should implement this vision document in its entirety,” he told PTI.
+
+...
+
+[Data](articles/39b384f5.json)
+
+[Extended Data](ext_articles/39b384f5.ext.json)
+
+---
 
 ### Meeting between Vijitha and Muslims
 
@@ -64,6 +84,32 @@ It's not. There you don't have to be a Muslim. The Ampara MP did not come to us 
 
 ---
 
+### Nearly 30 former MPs are yet to vacate their official residences
+
+*2024-11-23 21:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103712/nearly-30-former-mps-are-yet-to-vacate-their-official-residences) · `en`
+
+It has been reported that nearly 30 former Members of Parliament (MPs) are yet to hand over their official residences.
+
+Parliamentary sources have stated that certain former MPs are presently in the process of removing their belonging from the houses.
+
+Former parliamentarians had been informed to vacate their official residences, as they need to be handed over to new MPs.
+
+Accordingly, it is reported that seven former Members of Parliament had vacated their official residences yesterday (22).
+
+Meanwhile, the Secretary General of Parliament Kushani Rohanadeera had recently informed the ex-MPs in writing that if they do not vacate their respective houses, the water and electricity supplied to those houses will be disconnected.
+
+However, a parliamentary spokesperson stated that the houses are currently being renovated to provide official residences to new MPs.
+
+It is also stated that the new MPs will be given official residences in the Madiwela Housing Complex on December 03.
+
+...
+
+[Data](articles/263808c1.json)
+
+[Extended Data](ext_articles/263808c1.ext.json)
+
+---
+
 ### Chinese and Indian diplomats who meet the Foreign Secretary!
 
 *2024-11-23 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199490) · `ta`
@@ -83,6 +129,34 @@ At the same time, the Chinese Ambassador congratulated the Foreign Secretary at 
 [Data](articles/10ebe6ee.json)
 
 [Extended Data](ext_articles/10ebe6ee.ext.json)
+
+---
+
+### Tamils ​​have not abandoned Tamil Nadu;Election results as a result of the split of Tamil -backed politicians - CV Vigneswaran
+
+*2024-11-23 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199513) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Tamil Nadu not destroyed: TNA leader CV Vigneswaran says Tamil nationalism alive despite election results. Tamil Eelam protected, Tamil Nadu state of mind. Government wins but Tamil nationalism support unchanged."
+
+🟩
+
+According to the recent parliamentary election results, Tamil Nadu and Tamil Nadu have not been destroyed. Instead, the leader of the Tamil National Alliance (TNA) and former Member of Parliament, CV Vigneswaran, said that those who supported the Tamil nationalism have split up and have succeeded in the government.
+
+One of the months of the month - the answer in the 'Tamil Nationalism is extinct?The election results confirm that? 'CV Vigneswaran has stated in the answer to the question raised.
+
+Prabhakaran asked if he could not get Tamil Eelam. He does not need to get Tamil Eelam. It's already. We are fighting to protect it, 'he replied.
+
+Similarly, Tamil is already in place. Tamil Nadu is the state of mind that protects it. It is not perishable. After the election, you have seen that military barriers have been removed in many of the streets of Tamil Nadu.
+
+...
+
+[Data](articles/69f6783b.json)
+
+[Extended Data](ext_articles/69f6783b.ext.json)
 
 ---
 
@@ -2387,57 +2461,5 @@ Yet, one or two Muslim ministers in the Cabinet carries economic value in the in
 [Data](articles/8c3048d5.json)
 
 [Extended Data](ext_articles/8c3048d5.ext.json)
-
----
-
-### A Tamil’s take on  Sri Lanka’s historic 2024 Parliamentary elections
-
-*2024-11-22 23:32:44* · [`dailyftlk`](https://www.ft.lk/columns/A-Tamil-s-take-on-Sri-Lanka-s-historic-2024-Parliamentary-elections/4-769566) · `en`
-
-The 2024 Parliamentary elections symbolise a pivotal moment of transition for Sri Lanka – Pic by Shehan Gunasekara
-
-I have always been deeply interested in Sri Lanka’s socio-political landscape and its complex history for three main reasons. First, as an ethnic Tamil minority who endured the brutalities of war during childhood, this subject holds personal significance. Second, my father, the late Sundaram Divakalala—a renowned Tamil civil servant—dedicated his life to public service, inspiring my interest in governance and justice. Finally, my professional experience at CMG Capital Maharaja Group, Sri Lanka’s largest private conglomerate and media powerhouse, under the leadership of its late Chairman, Late Kili Rajamahendran, further deepened my understanding of the nation’s challenges and potential.
-
-...
-
-[Data](articles/04955121.json)
-
-[Extended Data](ext_articles/04955121.ext.json)
-
----
-
-### To include or not to include a Muslim Minister
-
-*2024-11-22 23:30:05* · [`dailyftlk`](https://www.ft.lk/opinion/To-include-or-not-to-include-a-Muslim-Minister/14-769565) · `en`
-
-The absence of a Muslim member among the 21 members that comprise the Cabinet remains unanswerable
-
-The recently elected NPP Government appointed its Cabinet of Ministers this Monday, 21 November. A large proportion of the members are new faces but appear an intelligent and able lot. A notable feature is the absence of a Muslim Minister. The active roles played by the Muslim community at large both at the Presidential as well as the General election in favour of the NPP was duly acknowledged and accepted by the NPP and the President. While anxiety must be pouring through and amongst almost all the new faces in the Parliament, a feeling of anger is pouring through among the Muslim community. Both feelings are quite natural.
-
-The absence of a Muslim member among the 21 members that comprise the Cabinet remains
-
-...
-
-[Data](articles/e6f4e2d5.json)
-
-[Extended Data](ext_articles/e6f4e2d5.ext.json)
-
----
-
-### President seeks support of all to achieve successful new era
-
-*2024-11-22 23:27:34* · [`dailyftlk`](https://www.ft.lk/opinion/President-seeks-support-of-all-to-achieve-successful-new-era/14-769564) · `en`
-
-President Anura Kumara Dissanayake on Thursday urged Parliamentarians and all ethnicities to rally behind a shared mission of driving the nation’s economic and social transformation. He made this clarion during his policy statement at the inaugural session of the 10th Parliament.
-
-Following is the full text of President Dissanayake’s policy statement which explains his vision, and lists the country’s challenges and opportunities.
-
-Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
-
-...
-
-[Data](articles/2c5d63d4.json)
-
-[Extended Data](ext_articles/2c5d63d4.ext.json)
 
 ---

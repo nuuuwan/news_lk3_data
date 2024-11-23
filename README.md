@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 10:42:26**
+As of **2024-11-23 11:13:04**
 
 ## Newspaper Stats
 
-*Scraped **56,441** Articles*
+*Scraped **56,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,123 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,304
 adaderanalk | 6,819
-tamilmirrorlk | 8,023
+tamilmirrorlk | 8,025
 virakesarilk | 9,182
-adaderanasinhalalk | 9,737
+adaderanasinhalalk | 9,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,439 (100.0%) of 56,441 articles have been extended.
+56,444 (100.0%) of 56,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### துப்பாக்கிசூட்டில் 42 பேர் பலி
+### Assassin
+
+*2024-11-23 10:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழுத்தறுத்து-ஒருவர்-கொலை/175-347651) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+A 36-year-old man from Tanamalwila-Arambekhema was murdered. He went missing on the 18th. Police found his head and torso. A 44-year-old woman was arrested in connection with the crime.
+
+🟩
+
+The 36 -year -old man who lives in the Tanamalwila - Arambekhema area has been murdered, police said.
+
+Police said that the murdered man had been reported missing since the 18th.
+
+It was later revealed that the man had gone to Hamuduruganda area with another 45 -year -old man.
+
+He has confessed that the suspect had been arrested by the police and buried his head in the neck of the missing man.
+
+Accordingly, police have found the head and trunk of the murdered man and arrested a 44 -year -old woman in connection with the incident.. Those
+
+◼️
+
+[Data](articles/5b3a2129.json)
+
+[Extended Data](ext_articles/5b3a2129.ext.json)
+
+---
+
+### If you go to Britain, Netanyahu is a prisoner?
+
+*2024-11-23 10:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரித்தானியாவுக்கு-சென்றால்-நெதன்யாகு-கைதாவார்/50-347650) · `ta`
+
+Netanyahu faces arrest in Britain and other European countries due to ICC warrants. UK confirms compliance with international law regarding potential detention. Multiple nations state readiness to enforce ICC rulings against Israeli PM.
+
+🟩
+
+Israeli Prime Minister Netanyahu said he could be arrested if he came to the UK, the government said.
+
+“Israeli Prime Minister Netanyahu cannot comment on whether the UK police will detain him if he comes here.
+
+“But the UK will always comply with its legal obligations of domestic law and actually being set up by international law. We will fulfill our duties under the law. ”
+
+The UK has indirectly stated that Netanyahu will be arrested if he arrives in the UK.
+
+Similarly, countries including Canada, Ireland, Italy, the Netherlands, Spain, Norway, Sweden, Belgium and Turkey have stated that they are going to comply with the International Criminal Court against Israeli Prime Minister Benjamin Netanyahu.
+
+◼️
+
+[Data](articles/de76fdb2.json)
+
+[Extended Data](ext_articles/de76fdb2.ext.json)
+
+---
+
+### 42 killed in gunfire
 
 *2024-11-23 10:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/துப்பாக்கிசூட்டில்-42-பேர்-பலி/50-347649) · `ta`
 
-பாகிஸ்தானில், நேற்று (22), நடந்த துப்பாக்கி சூடு சம்பவத்தில், 42 பேர் உயிரிழந்தனர்.
+Gunfire kills 42 in Pakistan: Attack on bus & car near Kurram; police rescue injured.
 
-பாகிஸ்தானின் கைபர் பகுதுவா மாகாணத்தை சேர்ந்த சிலர் நேற்று கார், பஸ்சில் பிரசினர் நகரில் இருந்து பெஷாவர் நகருக்கு சென்றுகொண்டிருந்தனர்.
+🟩
 
-குரம் என்ற பகுதியில் சென்றுகொண்டிருந்த போது பஸ், காரை மற்றொரு காரில் வந்த கும்பல் இடைமறித்தது. மேலும், அந்த கும்பல் வைத்திருந்த துப்பாக்கிகளை கொண்டு சரமாரியாக தாக்குதல் நடத்தியது.
+In Pakistan, 42 people were killed in the shooting incident yesterday (22).
 
-இந்த  தாக்குதலில் 42 பேர் உயிரிழந்தனர். மேலும், சிலர் காயமடைந்தனர். தகவலறிந்து விரைந்து வந்த பொலிஸார் காயமடைந்தவர்களை மீட்டு அருகில் உள்ள வைத்தியசாலையில் அனுமதித்தனர்.
+Some people from Pakistan's Khyber area were traveling from Peshawar to Peshawar yesterday by car and bus.
+
+The bus and the car in another car interrupted while traveling in Kuram. Also, the gang attacked the guns.
+
+42 people were killed in the attack. Also, some people were injured. Police rushed to the scene and rescued the injured and admitted to a nearby hospital.
 
 ◼️
 
 [Data](articles/149d691a.json)
+
+[Extended Data](ext_articles/149d691a.ext.json)
+
+---
+
+### Bodgamuwa jeeps to be rolled back to Buddha
+
+*2024-11-23 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203646) · `si`
+
+Jeep rollover kills brothers near Kuliyapitiya. Vehicle fell off bridge during transport. Bodies at hospital morgue. Police investigating.
+
+🟩
+
+Police said that the jeep that was traveling from Kambola Bridge on the Kuliyapitiya and Hettipola road today (23), police said.
+
+With the help of a crane, the jeep had taken the jeep, which had two stuck in trapped in the Kuliyapitiya Hospital.
+
+The deceased are residents of Kurunegala, 25 and 27 years, and they have revealed that they were brothers.
+
+The location was a winded place, which has been revealed according to the investigations carried out by the vehicle that has fallen to the road.
+
+The bodies are placed at the Kuliyapitiya hospital morgue and the Kuliyapitiya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/d257046f.json)
+
+[Extended Data](ext_articles/d257046f.ext.json)
 
 ---
 
@@ -63,6 +151,8 @@ There are three main types of alcohol: ethanol, methanol and isopropyl. Ethanol 
 ...
 
 [Data](articles/cf8c1486.json)
+
+[Extended Data](ext_articles/cf8c1486.ext.json)
 
 ---
 
@@ -2357,75 +2447,5 @@ This financial aid is provided to a total of 511,086 eligible individuals under 
 [Data](articles/08f65626.json)
 
 [Extended Data](ext_articles/08f65626.ext.json)
-
----
-
-### Suddenly burning luxury jeep
-
-*2024-11-22 15:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-தீப்பிடித்து-எரிந்த-சொகுசு-ஜீப்/175-347621) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Luxury Jeep Fire: A high-end vehicle was intentionally burned on the Borella-Kaduwela main road early today. The incident occurred near the intersection of these two prominent areas. Police are investigating the cause and potential suspects.
-
-🟩
-
-A luxury jeep was set on fire this morning at the Borella - Kaduwela main road.
-
-◼️
-
-[Data](articles/0800d804.json)
-
-[Extended Data](ext_articles/0800d804.ext.json)
-
----
-
-### Explanation for Lohan's wife
-
-*2024-11-22 15:46:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவிக்கு-விளக்கமறியல்/175-347620) · `ta`
-
-Lohan Ratwatta's wife interrogated over luxury car misuse. Extended detention till Dec 2. Vehicle found at her home. Arrested Nov 4.
-
-🟩
-
-The wife of former diplomatic minister Lohan Ratwatta, who has been interrogated in connection with the illegal use of a luxury car, has been extended.
-
-Accordingly, the Nugegoda Magistrate today (22) issued an order to keep him back until December 2.
-
-The unregistered luxury vehicle was recovered from the house of Lohan Ratwatta's wife in Mirihana area.
-
-On the basis of this, Lohan Ratwatta's wife was arrested in the presence of Nugegoda Magistrate Ruwini Jayawardena on November 4 in the presence of her lawyer.. Remble
-
-◼️
-
-[Data](articles/6cb5cfc3.json)
-
-[Extended Data](ext_articles/6cb5cfc3.ext.json)
-
----
-
-### Special test
-
-*2024-11-22 15:46:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகை-காலத்தையொட்டி-விசேட-சோதனை/175-347619) · `ta`
-
-Consumer Affairs Authority launches nationwide investigation during festive season. Special Task Force appointed to monitor price displays. Investigation continues until January 15th. Customers can report issues via emergency hotline 1977.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that special rounds and investigations have been launched across the country, targeting the festive season.
-
-A spokesperson of the council said that more Special Task Force has been appointed for the current rounds.
-
-He said the tests would continue till the 15th of January and that the authorities had been directed to carry out special observations in displaying the prices of goods and services.
-
-The Consumer Authority said that customers can notify the Consumer Affairs Authority by inviting customers to the emergency telephone number 1977 regarding the problems of the festive season.
-
-◼️
-
-[Data](articles/c5aed696.json)
-
-[Extended Data](ext_articles/c5aed696.ext.json)
 
 ---

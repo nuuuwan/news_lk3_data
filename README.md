@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 21:41:42**
+As of **2024-11-23 21:11:26**
 
 ## Newspaper Stats
 
-*Scraped **56,498** Articles*
+*Scraped **56,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,60 +13,24 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
 islandlk | 3,378
-economynextcom | 3,430
+economynextcom | 3,428
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,308
+adalk | 5,307
 adaderanalk | 6,828
 tamilmirrorlk | 8,032
-virakesarilk | 9,194
-adaderanasinhalalk | 9,755
+virakesarilk | 9,193
+adaderanasinhalalk | 9,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,493 (100.0%) of 56,498 articles have been extended.
+56,490 (100.0%) of 56,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
-
-### வெளிவிவகார செயலாளரை சந்தித்த சீன, இந்திய இராஜதந்திரிகள் !
-
-*2024-11-23 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199490) · `ta`
-
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா மற்றும் சீனத் தூதுவர் கீ சென் ஹொங் ஆகியோர் வெளியுறவுச் செயலாளர் ரணராஜாவை சந்தித்து கலந்துரையாடியுள்ளனர். அவரது நியமனத்துக்கு வாழ்த்துக்களை தெரிவித்துள்ள அவர்கள் இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவது குறித்தும் கலந்துரையாடியுள்ளனர்.
-
-இந்திய உயர்ஸ்தானிகர் தனது சந்திப்பின் போது வெளிவிவகார செயலாளர் அருணி ரணராஜாவின் புதிய பொறுப்புக்கு வாழ்த்துக்களை தெரிவிப்பதாகவும், பரந்தளவிலான இருதரப்பு விவகாரங்கள் குறித்தும் பன்முகக் கூட்டாண்மையை மேலும் வலுப்படுத்துவதற்கான உறுதிப்பாட்டையும் மீண்டும் உறுதிப்படுத்துவதாகவும் குறிப்பிட்டுள்ளார்.
-
-இதேவேளை சீன தூதுவர் தனது சந்திப்பில் வெளிவிவகாரச் செயலாளருக்கு வாழ்த்தியுள்ளதோடு, இருதரப்பு உறவுகளின் வளர்ச்சியை மேம்படுத்துதல், இரு நாடுகளுக்கு இடையே நடைமுறை ஒத்துழைப்பை ஆழமாக்குதல் மற்றும் பொதுவான அக்கறையுள்ள பிரச்சினைகள் குறித்தும் இரு தரப்பும் ஆழமான கருத்துக்கள் பரிமாற்றிக் கொள்ளப்பட்டுள்ளன.
-
-...
-
-[Data](articles/10ebe6ee.json)
-
----
-
-### වාහන ආනයනය සම්බන්ධව IMF මතය කියයි
-
-*2024-11-23 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203665) · `si`
-
-වාහන ආනයනය කිරීමේ රට තුළ පවතින සංචිත පිළිබඳව අවධානය යොමු කළ යුතු බව ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකා දූත මණ්ඩල ප්‍රධානී පීටර් බෘෘවර් මහතා පවසයි.
-
-අද (23) කොළඹ, ශ්‍රී ලංකා මහ බැංකු මූලස්ථානයේ පැවති මාධ්‍ය හමුවකදී අදහස් දක්වමින් ඔහු මේ බව පැවසීය.
-
-එහිදී ඔහු පැවසුවේ වාහන ආනයනය සඳහා පැවති සීමාවන් ඉවත් කිරීමේදී එය මූල්‍ය ප්‍රතිපත්තියට බලපෑමක් ඇති කරනු ඇති බවය.
-
-ප්‍රශ්නය - 2025 වසරේ පෙබරවාරි වනවිට වාහන ආනයන සීමාවන් ලිහිල් කරන බව පසුගිය රජය ප්‍රකාශ කළා. නව රජය ඒ අනුව කටයුතු කළහොත් එය IMF නිර්දේශවලට අනුකූල වෙනවා ද?
-
-"මෝටර් වාහන සඳහා පනවා ඇති ආනයන සීමාවන් ඉවත් කිරීමේ තීරණය මූල්‍ය ප්‍රතිපත්තියට බලපෑමක් ඇති කරන බව පැහැදිලියි. ඒ පිළිබඳ අප මෙවර ඇගයීමේදි මෙන්ම මීට පෙර ඇගයීමේදි ද සාකච්ඡා කළා. වාහන ආනයන සීමාවන් ඉවත්කිරීම රජයේ ආදායම් ඉහළ නංවන මූලාශ්‍රයක්ද වනවා. එමගින් රාජ්‍ය ආදායම් ඉහළ නැංවීමේ අවස්ථාවක් උදාවුවත් රටේ සංචිත පිළිබඳ අවධානය යොමුකර පරික්ෂාකාරීව එය කළමනාකරණය කළ යුතුයි."
-
-◼️
-
-[Data](articles/4e37aaac.json)
-
----
 
 ### Former MPs who do not hand over the houses
 
@@ -124,30 +88,6 @@ He referred to the allegations of bribery in Sri Lankan Airlines’ purchase of 
 
 ---
 
-### කෝටි හතේ කොල්ලකරුවන්ගේ තවත් තොරතුරු රැසක් හෙළිවෙයි
-
-*2024-11-23 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203664) · `si`
-
-මිනුවන්ගොඩ ප්‍රදේශයේදී රුපියල් කෝටි හතහමාරක මුදලක් කොල්ලකෑමේ සිද්ධියේ ප්‍රධාන සැකකරුවන් දෙදෙනා ඉන්දියාවට පළායෑමට උත්සාහ දරා ඇති බවට පොලීසිය අනාවරණය කරගෙන තිබේ.
-
-එමෙන්ම ඔවුන්ට ආධාර අනුබල දුන් තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
-
-ආරක්ෂිතව මුදල් ප්‍රවාහනය කරන පෞද්ගලික ආයතනයක රියදුරෙක් මිනුවන්ගොඩ පෞද්ගලික බැංකුවක් වෙත මුදල් රැගෙන යන අතරතුර රුපියල් කෝටි හතහමාරක මුදලක් රැගෙන පළාගොස් තිබුණේ ඉකුත් නොවැම්බර් 18 වැනිදාය.
-
-ඒ පිළිබඳව ගම්පහ කොට්ඨාස මර්දන විමර්ශන ඒකකය වැදගත් තොරතුරු රැසක් මේ වනවිට අනාවරණය කරගෙන තිබේ.
-
-එහි ප්‍රධාන සැකකරු වන 37 හැවිරිදි තුෂාර ඉන්දික සොයිසා කටානේ පදිංචිකරුවකුවන අතර අනෙක් සැකකරු 40 හැවිරිදි උඩුගම්පල පදිංචි සමන් රණසිංහ නම් අයෙකි.
-
-සැකකරුවන් දෙදෙනා කොල්ලය සිදුකර මුදල් රැගෙන යන අතරතුරදී ඉන් රුපියල් කෝටි තුනහමාරක පමණ මුදලක් තවත් අයෙකුට ලබාදී තිබූ අතර ඔහුව පොලීසිය මගින් අත්අඩංගුවට ගත්තේ අදාළ මුදල්ද සමගිනි.
-
-ඔවුන් දෙදෙනා කොල්ලය සිදුකර කුරුණෑගල සම්භාහන මධ්‍යස්ථානයකට ගොස් ඇති බව පොලීසිය අනාවරණය කරගෙන තිබේ.
-
-...
-
-[Data](articles/9dba5110.json)
-
----
-
 ### A/L is prohibited to use the phone during the examination
 
 *2024-11-23 19:23:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சையின்-போது-தொலைபேசி-பயன்படுத்த-தடை/175-347657) · `ta`
@@ -170,74 +110,6 @@ The Commissioner General of Examinations Amit Jayasundara said that the Assistan
 
 ---
 
-### Sri Lanka in pioneering state treasure hunt
-
-*2024-11-23 19:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-pioneering-state-treasure-hunt-189542/) · `en`
-
-ECONOMYNEXT – Several Sri Lanka state agencies are engaged in a treasure hunt and have dug themselves into a hole 30 feet deep in three days, following in the footsteps of a monk and several others who tried the same tactic earlier, a media report said.
-
-Sri Lanka’s Hiru television channel reported that several state agencies are digging deep using heavy earthmoving equipment looking for a buried Treasure in what is believed to be the first state venture of the sort.
-
-The state treasure hunt is taking place in Veyangoda, adjacent to an ancient temple, in the reservation of an expressway which is under construction.
-
-Sri Lanka’s Road Development Authority assisted by the police Special Task Force is hunting treasure. Security officers who used metal detectors have found metal underground.
-
-Hiru TV quoted a senior archaeology officer as saying that they had informed court that no evidence of any Treasure was found by them after initial reports of people looking for buried riches.
-
-...
-
-[Data](articles/d2e48fc0.json)
-
-[Extended Data](ext_articles/d2e48fc0.ext.json)
-
----
-
-### හිටපු මන්ත්‍රීවරු 30කට ආසන්න පිරිසක් තවමත් මන්ත්‍රී නිවාසවල
-
-*2024-11-23 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203663) · `si`
-
-හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් 30කට ආසන්න පිරිසක් තවදුරටත් නිල නිවාස භාරදී නොමැති බව වාර්තා වී තිබේ.
-
-පාර්ලිමේන්තු ආරංචි මාර්ග සඳහන් කර ඇත්තේ ඇතැම් හිටපු මන්ත්‍රීවරුන් සිය නිවාසවල භාණ්ඩ ඉවත් කර ගනිමින් සිටින බවය.
-
-නවක මන්ත්‍රීවරුන්ට නිල නිවාස ලබා දීමට අවශ්‍ය බව දන්වමින් පාර්ලිමේන්තුවේ හිටපු මන්ත්‍රීවරුන්ට එම නිවාසවලින් ඉවත් වන ලෙස දැනුම් දී තිබුණි.
-
-ඒ අනුව ඊයේ (22) දිනයේදීත් මන්ත්‍රීවරුන් හත්දෙනෙකු නිල නිවාසවලින් ඉවත් ව ගොස් තිබේ.
-
-මේ අතර  අදාළ නිවාසවලින් ඉවත් නොවුනහොත් එම නිවාසවලට ලබා දෙන ජලය සහ විදුලිය විසන්ධි කරන බවට පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණධීර මහත්මිය පසුගියදා එම මන්ත්‍රීවරුන්ට ලිඛිතව දැනුම්දී තිබුණි.
-
-කෙසේ වෙතත් නවක මන්ත්‍රීවරුන්ට නිල නිවාස ලබාදීම සඳහා මේ වන විට එම නිවාස අලුත්වැඩියා කටයුතු සිදු කරන බවද පාර්ලිමේන්තු ප්‍රකාශකයෙකු සඳහන් කලේය.
-
-නවක මන්ත්‍රීවරුන්ට මාදිවෙල පිහිටි නිවාස සංකීර්ණයේ නිවාස ලබාදීම දෙසැම්බර් 03වනදා සිදු කරන බවද සදහන් වේ.
-
-මේ අතර මාදිවෙල පිහිටි මන්ත්‍රී නිවාස සංකීර්ණයෙන් නිවාස ලබා ගැනීම සදහා මන්ත්‍රීවරුන් 35දෙනෙකු පමණ මේවන විට ඉල්ලීම් කර තිබේ.
-
-...
-
-[Data](articles/8f4ae72b.json)
-
----
-
-### වේයන්ගොඩ නිධානය සොයා කළ කැණීම් අවසන්
-
-*2024-11-23 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203662) · `si`
-
-අධිකරණ නියෝගයකට අනුව වේයන්ගොඩ, වඳුරව ප්‍රදේශයේ වගුරු සහිත භූමියක ඇති බව කියන නිධානය සොයා පුරා දින 3ක් සිදුකළ කැණීම් කටයුතු අද පස්වරු 4ට අවසන් කෙරුණි.
-
-රාජ්‍ය ආයතන රැසක් එක්ව සිදුකළ එම කටයුත්තේදී කිසිදු නිධානයක් හෝ පුරාවිද්‍යාත්මක වටිනාකමක් සහිත කිසිවක් හමුවී නොමැත.
-
-වේයන්ගොඩ, වඳුරව ප්‍රදේශය හරහා ඉදිකෙරෙන මධ්‍යම අධිවේගී මාර්ගය ආසන්නයේ නිධානයක් ඇතැයි පැතිරෙන කටකතා හමුවේ පසුගිය සමයේ විවිධ පුද්ගලයින් නීතිවිරෝධීව මෙහි කැණීම් කටයුතු සිදුකර තිබුණි.
-
-කෙසේ වෙතත් අවස්ථා රැසකදී පොලිස් අත්අඩංගුවට ගැණුනු පිරිස රක්ෂිත බන්ධනාගාරගත කෙරුණත් නැවත නැවතත් එම ස්ථානයේ නිධානය සොයා හෑරීම් සිදුවීම හේතුවෙන් ඉදිකෙරෙමින් පවතින මධ්‍යම අධිවේගී මාර්ගයේ පාදම කොටසට අවදානම් තත්ත්වයක් මතුවුණි.
-
-ඒ බව වේයන්ගොඩ පොලීසිය, අත්තනගල්ල මහෙස්ත්‍රාත් අධිකරණයට වාර්තා කිරීමෙන් පසු අත්තනගල්ල මහෙස්ත්‍රාත්වරයා නියෝග කළේ එම ස්ථානයේ නිධානයක් තිබේදැයි පොලිස් විශේෂ කාර්ය බළකායට සොයාබලන ලෙසය.
-
-...
-
-[Data](articles/81331401.json)
-
----
-
 ### ‘Red’ warning issued as low-pressure area to intensify and move towards Sri Lanka’s Northern coast
 
 *2024-11-23 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103710/red-warning-issued-as-low-pressure-area-to-intensify-and-move-towards-sri-lankas-northern-coast) · `en`
@@ -255,36 +127,6 @@ The deep and shallow sea areas off the coasts extending from Mannar to Hambantot
 [Data](articles/227c3c20.json)
 
 [Extended Data](ext_articles/227c3c20.ext.json)
-
----
-
-### IMF Staff Agreement
-
-*2024-11-23 18:32:58* · [`adalk`](https://www.ada.lk/breaking_news/IMF-කාර්ය-මණ්ඩල-එකඟතාවයට-පැමිණෙයි/11-413219) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-IMF: Sri Lanka completes third review, meets 2025 budget targets. Fourth tranche of $333 million released, exceeding $1.3 billion under debt program.
-
-🟩
-
-Sri Lanka Mission Head of the Monetary Fund, Peter Bruce (23) stated that he has stated in a third review between the International Monetary Fund and Sri Lanka.
-
-The International Monetary Fund Executive Board of Monetary Fund will be released to Sri Lanka as the fourth premium for Sri Lanka.
-
-Discussions on the third review of the International Monetary FundThe team was present.
-
-"Third assessment should complete a number of pre-action to hold the approval of the IMF management and Executive Board of Directors. The 2025 Budget proposal is one such action to comply with the targets of the IMF program.
-
-Sri Lanka releases US $ 333 million as the fourth premium after the IMF Executive Board of Directors. Accordingly, Sri Lanka has exceeded $ 1.3 billion under the comprehensive debt program. "
-
-◼️
-
-[Data](articles/4efa1fa7.json)
-
-[Extended Data](ext_articles/4efa1fa7.ext.json)
 
 ---
 
@@ -1195,28 +1037,6 @@ Here's a summary of the news discussion on the third review of the IMF in approx
 [Data](articles/69380233.json)
 
 [Extended Data](ext_articles/69380233.ext.json)
-
----
-
-### Sri Lanka reaches staff level agreement with the IMF
-
-*2024-11-23 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaches-staff-level-agreement-with-the-imf-189535/) · `en`
-
-ECONOMYNEXT – Sri Lanka has reached a staff level agreement for take forward a program with the Internal Monetary Fund, Senior Mission Chief Peter Breuer said.
-
-The IMF’s board will formally approve the review based on several prior action including a budget for 2025.
-
-“Sri Lanka’s recent Agreement in Principle with bondholders is an important milestone putting Sri Lanka’s debt on a path towards sustainability,” the statement said.
-
-“The critical next steps are to complete the commercial debt restructuring, finalize bilateral agreements with official creditors along the lines of the accord with the Official Creditor Committee and implement the terms of the other agreements.”
-
-Colombo, Sri Lanka – November 23, 2024: An International Monetary Fund (MF) team led by Peter Breuer, Senior Mission Chief for Sri Lanka, visited Colombo from November 17 to 23, 2024. After constructive discussions in Colombo, Mr. Breuer and Deputy Mission Chief Ms. Katsiaryna Svirydzenka issued the following statement:
-
-...
-
-[Data](articles/920eaeb1.json)
-
-[Extended Data](ext_articles/920eaeb1.ext.json)
 
 ---
 
@@ -2381,5 +2201,195 @@ When there is no one in the house, he lifted and survived. A sudden death invest
 [Data](articles/be439d06.json)
 
 [Extended Data](ext_articles/be439d06.ext.json)
+
+---
+
+### “World War 3 has begun,” says Ukraine’s ex-military commander amid Russia conflict
+
+*2024-11-22 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103698/world-war-3-has-begun-says-ukraines-ex-military-commander-amid-russia-conflict) · `en`
+
+Valery Zaluzhny, former military Commander-in-Chief of Ukraine, believes World War III is underway, adding the direct involvement of Russian allies in the conflict indicates the same.
+
+“I absolutely believe that in 2024 we can believe that the Third World War has begun,” Mr Zaluzhny said during a speech at the Ukrainska Pravda’s UP100 award ceremony.
+
+Now serving as Ukraine’s envoy to the United Kingdom, Mr Zaluzhny pointed to the direct involvement of Russia’s autocratic allies as a significant factor in the war’s global expansion.
+
+“Soldiers from North Korea are standing in front of Ukraine. Let’s be honest. Already in Ukraine, the Iranian ‘Shahedis’ are killing civilians absolutely openly, without any shame,” he continued, stressing North Korean troops and Chinese weapons were now actively contributing to the war.
+
+...
+
+[Data](articles/ede89068.json)
+
+[Extended Data](ext_articles/ede89068.ext.json)
+
+---
+
+### Home for low -income families
+
+*2024-11-22 21:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-வருமானம்-பெறும்-குடும்பங்களுக்கு-வீடு/175-347628) · `ta`
+
+Chinese Ambassador Qi Zhenhong and Sri Lankan Minister Anura Karunathileka sign agreement for 1888 homes for low-income families and 108 for senior artists in Peliyagoda, Dematagoda, Moratuwa, Maharagama, and Kottawa.
+
+🟩
+
+A plan to construct 1888 houses for low -income families and 108 houses for senior artists has been signed today (22).
+
+It was carried out by Chinese Ambassador to Sri Lanka Qi Zhenhong and Urban Development Minister Dr. Anura Karunathileka.
+
+These houses are to be built in Peliyagoda, Dematagoda, Moratuwa and Maharagama areas.
+
+It is also reported that a housing scheme for senior artists in Kottawa area. Remble
+
+◼️
+
+[Data](articles/b568dc00.json)
+
+[Extended Data](ext_articles/b568dc00.ext.json)
+
+---
+
+### SriLankan Airlines honored with 2025 APEX Best Entertainment Award
+
+*2024-11-22 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103697/srilankan-airlines-honored-with-2025-apex-best-entertainment-award) · `en`
+
+SriLankan Airlines has been honored with the highly coveted 2025 APEX Best Entertainment Award for the Central/Southern Asia region.
+
+This recognition was announced at the FTE APEX Asia Expo, hosted in Singapore on November 20, 2024. The APEX Awards, renowned for being driven exclusively by certified passenger feedback, evaluated over one million flights from 600 airlines, focusing on key aspects such as seat comfort, cabin service, in-flight entertainment, and meal quality.
+
+Additionally, SriLankan Airlines has proudly upheld its position as a ‘Four Star Major Airline’ in the 2025 APEX Official Airline Ratings for an impressive eighth consecutive year.
+
+Maria Sathasivam, Manager Product Development of SriLankan Airlines, commented on the award, stating,
+
+...
+
+[Data](articles/0d5d52b9.json)
+
+[Extended Data](ext_articles/0d5d52b9.ext.json)
+
+---
+
+### This is not the government that deceives the promises - Member of Parliament Jagadeeswaran
+
+*2024-11-22 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199456) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+MP Jagadeeswaran: Our govt won't deceive like others. Pres'll act on Tamil grievances. We'll deliver on election promises, including addressing Tamil issues. Cooperation needed for prosperity.
+
+🟩
+
+Unlike other governments who have deceived the promises, the president will implement the disgust of the Tamil people in action, said Wannimavatta MP M. Jegadeeswaran.
+
+He was speaking to the media on Friday (22) in Vavuniya.
+
+76 years later you have set up a government of corrupt honest. We thank all the people who confirmed our success. The service for our people begins from today. We will be in the presence of all people and gaining equal opportunities and rights.
+
+Likewise, the country should cooperate with us to make a prosperous and beautiful life. All the programs that we are doing in the future will be unique.
+
+We will work forward to fulfill the issues stated in our election manifesto. The President has already made it clear that the disappearance and the problems of the Tamils.
+
+Gradually it will take place. Unlike other governments who have deceived the promises, our president will implement in action.. We will also cooperate with it.
+
+◼️
+
+[Data](articles/796ab1ef.json)
+
+[Extended Data](ext_articles/796ab1ef.ext.json)
+
+---
+
+### 3-day workshop for new MPs
+
+*2024-11-22 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203641) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"3-day workshop for new MPs: Nov 25-27, 9:30 AM-4:30 PM. Topics: MP roles, privileges, committees, voting systems, anti-corruption laws. Key speakers: Prime Minister, Deputy Leaders, Deputy Speakers. Practical sessions included."
+
+🟩
+
+Awareness workshop will be held on behalf of the elected to the Third Parliament at 25, 26 and 27.
+
+Accordingly, a workshop for MPs who were elected to the Third Parliament on November 25, 26 and 27 at November 25, 26 and 27. From 9.30 pm. The Committee will be held at the Parliament room No. 01 to 4.30.
+
+The workshop is also organized this workshop as a tradition of a new Parliament.
+
+Prime Minister Dr. Harain Amarasuriya, Deputy Leader Dr. Mohammed Risvi Ranhamada, Deputy Speaker, Deputy Leader of the Government Chairman Dr. Nalinda, Deputy Speaker of ParliamentJayatissa, Deputy Secretary-General of Parliament and the Assistant Secretary and the Assistant Secretary and the Assistant Secretary and the Assistant Secretary (Assistant Secretary) are participating.
+
+At this Thandi Workshop, the role of the Member of Parliament, Parliamentary Privileges, Parliamentary Privileges, Parliamentary Committees and Parliamentary Committees
+
+...
+
+[Data](articles/e825db2b.json)
+
+[Extended Data](ext_articles/e825db2b.ext.json)
+
+---
+
+### Discussion for the third review of the International Monetary Fund is successfully completed
+
+*2024-11-22 21:20:28* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-මූල්‍ය-අරමුදලේ-තුන්වන-සමාලෝචනයට-අදාළ-සාකච්ඡාව-සාර්ථකව-අවසන්/11-413216) · `si`
+
+Sri Lanka completes third IMF review meeting successfully. Government officials and IMF representatives discussed economic development strategies.
+
+🟩
+
+The discussion was held today at the Presidential Secretariat today (22) regarding the third reviews held with the International Monetary Fund.
+
+Senior Missions Head of Senior Missions, Senior Mission, Senior Mission, and the delegation of Economic Development Prof. Anil Jayantha Fernando was also present at the Government of Sri Lanka.
+
+The discussion has successfully completed the third review between the International Monetary Fund and the Government of Sri Lanka.
+
+◼️
+
+[Data](articles/de9fff4b.json)
+
+[Extended Data](ext_articles/de9fff4b.ext.json)
+
+---
+
+### We cannot move forward without restoring public’s trust in public service - President
+
+*2024-11-22 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103696/we-cannot-move-forward-without-restoring-publics-trust-in-public-service-president-) · `en`
+
+President Anura Kumara Dissanayake called upon all public officials to unite with a common purpose and work together to transform the motherland into a better nation.
+
+He made this statement today (22) during his visit to the Ministry of Defence at the Defence Headquarters premises in Akuregoda, where he assumed duties as the new Defence Minister, the President’s Media Division (PMD) said.
+
+Following the reception, the President held a meeting with the commanders of the tri-forces and senior officials of the Ministry of Defence, where they discussed ongoing and future initiatives of the Ministry, the PMD added.
+
+President Dissanayake stated that the new government is dedicated to promoting good governance and seeks the support of everyone for the nation’s development program.
+
+...
+
+[Data](articles/218d2298.json)
+
+[Extended Data](ext_articles/218d2298.ext.json)
+
+---
+
+### The Leader of the opposition has met IMF delegates
+
+*2024-11-22 20:56:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-பிரதிநிதிகளை-சந்தித்தார்-எதிர்க்கட்சித்-தலைவர்/175-347627) · `ta`
+
+Opposition leader meets IMF team in Colombo. Discussion focused on Sri Lanka's financial crisis resolution strategies.
+
+🟩
+
+A special meeting was held in Colombo today (22) between Opposition Leader Sajith Premadasa and the International Monetary Fund (IMF) delegation.
+
+Representing the International Monetary Fund and its high -level committee chief Peter Bruver, deputy chief Katsiaryna svirydzenka, resident representative Mrs. Martha Woldemical and Resident Economist Manavi Abeywickrama were also present.
+
+A long exchange between the two sides has taken place regarding the steps to free from the bankruptcy that is currently facing Sri Lanka. Remble
+
+◼️
+
+[Data](articles/3bb6c016.json)
+
+[Extended Data](ext_articles/3bb6c016.ext.json)
 
 ---

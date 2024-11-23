@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 13:10:47**
+As of **2024-11-23 13:00:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,741
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,453 (100.0%) of 56,453 articles have been extended.
+56,452 (100.0%) of 56,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -183,8 +183,6 @@ The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, a
 ◼️
 
 [Data](articles/0f6ac6d4.json)
-
-[Extended Data](ext_articles/0f6ac6d4.ext.json)
 
 ---
 

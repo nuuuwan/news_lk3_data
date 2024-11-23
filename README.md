@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 22:59:54**
+As of **2024-11-23 23:11:20**
 
 ## Newspaper Stats
 
-*Scraped **56,502** Articles*
+*Scraped **56,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,308
 adaderanalk | 6,830
-tamilmirrorlk | 8,032
+tamilmirrorlk | 8,033
 virakesarilk | 9,195
 adaderanasinhalalk | 9,756
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,502 (100.0%) of 56,502 articles have been extended.
+56,502 (100.0%) of 56,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
+
+### வாகன இறக்குமதி குறித்து IMF கூறுவது என்ன?
+
+*2024-11-23 23:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-IMF-கூறுவது-என்ன/175-347671) · `ta`
+
+வாகனங்களை இறக்குமதி செய்வதற்கு நாட்டில் உள்ள கையிருப்பு குறித்து அவதானம் செலுத்தப்பட வேண்டும் என சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான பிரதிநிதிகள் குழுவின் பிரதானி பீட்டர் ப்ரூவர் தெரிவித்தார்.
+
+கொழும்பில் உள்ள இலங்கை மத்திய வங்கியின் தலைமையகத்தில் இன்று (23) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+வாகன இறக்குமதி மீதான கட்டுப்பாடுகளை நீக்குவது நிதிக் கொள்கையில் தாக்கத்தை ஏற்படுத்தும் என்றும் அவர் குறிப்பிட்டார்.
+
+இந்த மதிப்பீட்டிலும் முந்தைய மதிப்பீடுகளிலும் நாங்கள் அதைப் பற்றி விவாதித்தோம். வாகன இறக்குமதி கட்டுப்பாடுகளை நீக்குவது அரசின் வருவாயை அதிகரிப்பதற்கான ஆதாரமாகவும் உள்ளது. அரசாங்கத்தின் வருவாயை அதிகரிக்க வாய்ப்பு இருந்தாலும், நாட்டின் கையிருப்பில் கவனம் செலுத்தி அவதானமாக நிர்வகிக்க வேண்டும் என்றார். R
+
+◼️
+
+[Data](articles/79046a85.json)
+
+---
 
 ### President Dissanayake should fully implement vision document with India: Ranil Wickremesinghe
 
@@ -2443,23 +2461,5 @@ Easter 2025 will mark the sixth anniversary of the Easter tragedy. A new Preside
 [Data](articles/9e731c5e.json)
 
 [Extended Data](ext_articles/9e731c5e.ext.json)
-
----
-
-### 2024-11-22 (Friday)
-
-### No Muslim in Cabinet: Does that matter?
-
-*2024-11-22 23:34:56* · [`dailyftlk`](https://www.ft.lk/columns/No-Muslim-in-Cabinet-Does-that-matter/4-769567) · `en`
-
-In this new era should the absence of a Muslim or Tamil in the Cabinet matter at all?
-
-Yet, one or two Muslim ministers in the Cabinet carries economic value in the international arena. When the Sirimavo Government in the 1970s faced a foreign exchange crisis the Muslim minister Badi was sent to the Middle East to canvas for more foreign aid from the Arab world and he succeeded to a certain extent. Similarly, when JR’s open economy faced an oil crisis his Muslim Foreign Minister Hameed was dispatched to Libya and Ghaddafi did not send his visitor empty handed. Thus, given the seriousness of the economic challenges facing the NPP Government, at least one talented Muslim minister in the Cabinet would be an invaluable asset to tackle them. Let common sense prevail and the damage caused rectified by the President
-
-...
-
-[Data](articles/8c3048d5.json)
-
-[Extended Data](ext_articles/8c3048d5.ext.json)
 
 ---

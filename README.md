@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-23 16:14:55**
+As of **2024-11-23 16:25:44**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 9,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,462 (100.0%) of 56,463 articles have been extended.
+56,463 (100.0%) of 56,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-23 (Saturday)
 
-### අස්වැසුමට අයදුම් නොකළ පිරිසට අතිරේක සහන කාලයක්
+### An additional concession to those who did not apply to the relief
 
 *2024-11-23 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203653) · `si`
 
-අස්වැසුම සුබ සාධක ප්‍රතිලාභ වැඩසටහනට මෙතෙක් අයදුම් කිරීමට නොහැකිවූ පුද්ගලයින් සඳහා අතිරේක සහන කාලයක් ලබා දීමට සුබසාධක ප්‍රතිලාභ මණ්ඩලය තීරණය කර තිබේ.
+Additional concessions for those who missed welfare benefit application deadline. Revenue reward program available Nov 25-Dec 2 through Divisional Secretariats. First round beneficiaries received allowances for first phase. Second phase allowances distributed.
 
-එහි සභාපති ජයන්ත විජේරත්න මහතා පැවසුවේ නොවැම්බර් 25 වනදා සිට දෙසැම්බර් මස 02වැනිදා දක්වා අස්වැසුම ප්‍රතිලාභ වැඩසටහනට අයදුම්කිරීමට අවස්ථාව ලබා දී ඇති බවය.
+🟩
 
-ඒ සඳහා වන අයදුම්පත්‍රය ප්‍රාදේශීය ලේකම් කාර්යාල මගින් ලබා ගත හැකි වෙයි.
+Welfare Board has decided to provide additional concessions for persons who were unable to apply to the welfare benefit program so far.
 
-එමෙන්ම අස්වැසුම ප්‍රතිලාභී යෝජනා ක්‍රමයේ පළමු වටයේ ප්‍රතිලාභීන් තෝරා ගැනීමේදී අගතියට පත් පුද්ගලයින්ට දුක්ගැනිවිලි ඉදිරිපත් කිරීම සඳහා ද දෙසැම්බර් මස 15 වන දින දක්වා අවස්ථාව ලබා දී ඇති බවද ඔහු පැවසීය.
+The Chairman of the Jayantha Wijeratne said that the revenue reward program has been given to the revenue program from November 25 to December 2.
 
-මේ අතර සුබසාධක ප්‍රතිලාභ මණ්ඩලය පෙන්වා දී ඇත්තේ අස්වැසුම යෝජනා ක්‍රමයේ පළමු අදියර යටතේ පවුල් ලක්ෂ 17ක් සඳහා දීමනා ගෙවීම සිදුකරන අතර ප්‍රතිලාභ අපේක්ෂාවෙන් එහි දෙවන අදියර සඳහා අයදුම්පත් හාර ලක්ෂ 55,000ක් ලැබී ඇති බවය.
+Application Form is available through Divisional Secretariats.
+
+He also said that the first round beneficiaries of the revenue beneficiary scheme has been given to suffering from the first round of beneficiaries.
+
+Meanwhile, the Welfare Benefit Board (Welfare Benefit) has been given the allowances for the first phase of the revenue scheme and the first phase of the second phase has been received for the second phase.
 
 ◼️
 
 [Data](articles/a2d56b2a.json)
+
+[Extended Data](ext_articles/a2d56b2a.ext.json)
 
 ---
 

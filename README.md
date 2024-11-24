@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 01:11:01**
+As of **2024-11-25 00:41:39**
 
 ## Newspaper Stats
 
-*Scraped **56,657** Articles*
+*Scraped **56,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 587
 islandlk | 3,395
 economynextcom | 3,433
-dailyftlk | 3,881
+dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,328
 adaderanalk | 6,850
@@ -26,37 +26,9 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,655 (100.0%) of 56,657 articles have been extended.
+56,652 (100.0%) of 56,655 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-25 (Monday)
-
-### ABC of AKD’s plans to handle the ‘Economy Stupid’
-
-*2024-11-25 00:56:06* · [`dailyftlk`](https://www.ft.lk/columns/ABC-of-AKD-s-plans-to-handle-the-Economy-Stupid/4-769614) · `en`
-
-In the Parliamentary election campaign, RW asked the voters not to send inexperienced people to Parliament and reiterated that only his team has the necessary experience. The results of both the Presidential and Parliamentary elections showed that RW had failed to convince the voters on this point, like the economy stupid slogan of the Clinton campaign. AKD, in his President’s address, disproved his critics. However, after the Presidential and Parliamentary elections, it is the economy stupid that is going to loom over Sri Lanka making it AKD’s biggest challenge
-
-...
-
-[Data](articles/67923067.json)
-
----
-
-### Testing AKD’s guts
-
-*2024-11-25 00:47:08* · [`dailyftlk`](https://www.ft.lk/columns/Testing-AKD-s-guts/4-769613) · `en`
-
-Give him a chance to accomplish his mandate. If he fails the country will end up in misery
-
-In both statements, PAKD diagnosed the historical Sri Lankan political landscape, fuelled by mistrust and division, and highlighted those affected groups on language, religion, culture, etc., and the isolation of such groups, whose equal rights, and identities were pruned in these processes. Now the regional electorate has placed confidence in PAKD and NPP, it is natural for the President to directly speak to the affected promising democratic governance and actions to massage their wounded hearts
-
-...
-
-[Data](articles/ecf52ae7.json)
-
----
 
 ### 2024-11-24 (Sunday)
 
@@ -290,31 +262,21 @@ The all-rounder has been a vital cog in Sri Lanka’s line-up.
 
 ---
 
-### A / L examination tomorrow
+### උසස් පෙළ විභාගය හෙට
 
 *2024-11-24 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203692) · `si`
 
-Here's a summary of 200 characters:
+2024 අ.පො.ස. උසස් පෙළ විභාගය හෙට (25) ආරම්භ වන අතර, මෙය විභාග මධ්‍යස්ථාන 2,312කදී පැවැත්වීමට නියමිතව ඇත.
 
+විභාග දෙපාර්තමේන්තුව පවසන්නේ ප්‍රවේශ පත්‍රයේ ඇති අපේක්ෂකයාගේ අත්සන, සුදුසුකම් ලත් පුද්ගලයෙකුගෙන් තහවුරු කරගෙන, වලංගු අනන්‍යතා පත්‍රයක් සහිතව විභාග මධ්‍යස්ථානයට පැමිණිය යුතු බවය.
 
+උසස් පෙළ විභාගය සඳහා මෙවර අපේක්ෂකයන් 333,185ක් සුදුසුකම් ලබා සිටින අතර ඉන් 253,390 දෙනෙක් පාසල් අයදුම්කරුවන් වේ. සෙසු 79,795 දෙනා පෞද්ගලික අපේක්ෂකයන්ය.
 
-"A/L exam tomorrow: 25 centers, 333,185 candidates. School: 253,390; Private: 79,795. Valid ID required. Ends Dec 20."
-
-🟩
-
-2024 GCE Advanced Level. The A / L examination begins tomorrow (25), and this will be held at 2,312 examination centers.
-
-The Examination Department states that the signature of the candidate on the ticket should be confirmed by a qualified person and approach the examination center with a valid identity card.
-
-333,185 candidates have qualified for the A / L examination, of which 253,390 are school applicants. The other 79,795 are private candidates.
-
-The 22nd Level Examination for the 22 days is due to end on December 20.
+දින 22ක් පුරා පැවැත්වෙන උසස් පෙළ විභාගය දෙසැම්බර් 20 වනදා අවසන් වීමට නියමිතය.
 
 ◼️
 
 [Data](articles/7c96eab4.json)
-
-[Extended Data](ext_articles/7c96eab4.ext.json)
 
 ---
 
@@ -724,31 +686,21 @@ All three countries, the United States, Britain and Australia, have announced th
 
 ---
 
-### Poppy Celebration held by President
+### ජනපති ප්‍රධානත්වයෙන් පැවැත් වූ පොපි මල් සැමරුම
 
 *2024-11-24 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203690) · `si`
 
-Here's a summary of 200 characters:
+සන්නද්ධ හමුදා අනුස්මරණ දින උත්සවය සහ පොපි මල් සැමරුම සේනාධිනායක, ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (24) පැවැත්විණි.
 
+පළමු ලෝක යුද සංග්‍රාමයේ සිට වර්තමානය දක්වා මාතෘභුමියේ සුරක්ෂිතතාව වෙනුවෙන් දිවිපිදූ රණවිරුවන් අනුස්මරණය හා ඔවුන්ට ගෞරවය පුද කිරීම සඳහා ශ්‍රී ලංකා සේවා මුක්ත භට සංගමය, සන්නද්ධ සේවා සමග එක්ව වාර්ෂිකව මෙම උත්සවය සංවිධාන කරයි.
 
+ජනාධිපතිවරයා උත්සවයට පිළිගනු ලැබුවේ, ශ්‍රී ලංකා සේවා මුක්ත භට සංගමයේ මහලේකම් විශ්‍රාමික ලුතිතන් කර්නල් අජිත් සියඹලාපිටිය මහතා විසින්ය.
 
-"President Anura Kumara Dissanayake hosted Armed Forces Memorial Day and Poppy Flower Celebrations. The event honors national security achievements from World War I. The President was recognized by the General Secretary of the Sri Lanka Service."
-
-🟩
-
-The Armed Forces Memorial Day Celebrations and Popi Flower Celebrations were held today (24) under the patronage of Senadinayake, President Anura Kumara Dissanayake.
-
-The Sri Lanka Service, External Affairs Union Association organizes this event annually to commemorate and honor the nationalism safety to the country from the first world war.
-
-The President was recognized by the General Secretary of the Sri Lanka Service, Sri Lanka Service, Lieutenant Khambalapitiya.
-
-Deputy Minister of Defense Retirement Major General Aruna Jayasekara and Defense Secretary Retirement of Defense Secretary Timber (
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජෙනරාල් අරුණ ජයසේකර, ආරක්ෂක ලේකම් විශ්‍රාමික එයාර් සම්පත් තුයියකොන්තා ඇතුළු පිරිසක් ද මීට එක්වූහ.
 
 ◼️
 
 [Data](articles/08d084cc.json)
-
-[Extended Data](ext_articles/08d084cc.ext.json)
 
 ---
 
@@ -774,33 +726,21 @@ The November 2024 Parliamentary Elections, which have been the most important 'f
 
 ---
 
-### Current subject is a leading subject - Aharany Amarasuriya
+### අධ්‍යාපනය වත්මන් රජයේ ප්‍රමුඛ විෂයක් - අග්‍රාමාත්‍ය හරිනි අමරසූරිය
 
 *2024-11-24 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203689) · `si`
 
-Here's a summary of 200 characters:
+වෘත්තීය අධ්‍යාපනය, ආර්ථිකයට සෘජුවම දායක වන විෂයක් බැවින් පාසල් අධ්‍යාපනයේ සිට උසස් අධ්‍යාපනය දක්වා පැහැදිලි අනාගතයකට යා හැකි ගෞරවනීය තෝරාගැනීමක් විය යුතු බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
 
+අග්‍රාමාත්‍යවරිය මේ බව පැවසුවේ නව රජයේ වෘත්තීය අධ්‍යාපන නියෝජ්‍ය අමාත්‍යධූරයට පත්කෙරුණු නලින් හේවගේ මහතා නාරාහේන්පිට පිහිටි නිපුණතා පියසේදී සිය රාජකාරි නිල වශයෙන් ආරම්භ කිරීමේ අවස්ථාවට එක් වෙමිනි.
 
+"අධ්‍යාපනය වත්මන් රජයේ ප්‍රමුඛ විෂයයක්. අධ්‍යාපන, උසස් අධයාපන, වෘත්තීය අධ්‍යාපන මේ විෂයයන් තුන එකට යා යුතු කොටස් තුනක්.   විශේෂයෙන් වෘත්තීය අධ්‍යාපනය පිළිබඳව අපේ රජය විශේෂ අවධානයක් යොමු කරනවා".
 
-Dr. Welini Amarasuriya emphasizes integrating professional and advanced education. He advocates for vocational training as a primary choice from school to university level, highlighting its economic importance and need for policy confidence.
+"අපේ රටේ සම්ප්‍රදායිකව වෘත්තීය අධ්‍යාපනය දෙස බලන්නේ අනිත් දේවල් කරන්න බැරි, ඉතුරු වෙන ළමයින්ට යන්න තියන තැනක් ලෙසයි. ඒ ආකල්පය අනිවාර්යයෙන් වෙනස් විය යුතුයි. වෘත්තීය අධ්‍යාපනය විශේෂයෙන් ආර්ථිකයට සෘජුවම දායක වන විෂයයක්. පාසල් අධ්‍යාපනයේ සිට උසස් අධ්‍යාපනය දක්වා පැහැදිලි අනාගතයකට යා හැකි ගෞරවනීය තෝරාගැනීමක් විය යුතුයි".
 
-🟩
-
-Prime Minister Dr. Welini Amarasuriya says that professional education should be a direct choice for higher education from schooling to higher education.
-
-The Prime Minister was speaking at the official appointment of the new government's Vocational Education Official Government.
-
-"Education is a leading subject. Three parts of the education, advanced education, vocational education to join together.   විශේෂයෙන් වෘත්තීය අධ්‍යාපනය පිළිබඳව අපේ රජය විශේෂ අවධානයක් යොමු කරනවා".
-
-"In our country traditionally viewed professional education as a place to do other things to go, remaining children. That attitude must vary from. Vocational education is especially subject to economy. "From schooling to higher education, you have to be a honorable choice".
-
-"The people have been confident in our policies. Corporate Structural changes to implement these plans is to be done ".
-
-◼️
+...
 
 [Data](articles/c878b3e6.json)
-
-[Extended Data](ext_articles/c878b3e6.ext.json)
 
 ---
 
@@ -2527,5 +2467,49 @@ After the police rescued the man and provided the basic first aid, he was admitt
 [Data](articles/c6e6b3d7.json)
 
 [Extended Data](ext_articles/c6e6b3d7.ext.json)
+
+---
+
+### Minor flood situation as Nilwala River water level rises
+
+*2024-11-24 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103721/minor-flood-situation-as-nilwala-river-water-level-rises) · `en`
+
+The water level of the Nilwala River has risen to a minor flood level due to prevailing rainy weather conditions, according to the Department of Irrigation.
+
+Officials reported that the water level of the Nilwala River in the Thalagahagoda area has surpassed the minor flood threshold.
+
+However, in the Panadugama area, where water levels had earlier been rising, the situation is showing signs of improvement as floodwaters are receding, the Irrigation Department said.
+
+Meanwhile, the Meteorological Department has issued an advisory on the likelihood of widespread rainfall across the island, attributed to a low-pressure area forming in the Bay of Bengal.
+
+Authorities urge residents in low-lying areas near the Nilwala River to remain vigilant and take necessary precautions as weather conditions may continue to evolve.
+
+◼️
+
+[Data](articles/629d4cb1.json)
+
+[Extended Data](ext_articles/629d4cb1.ext.json)
+
+---
+
+### CAA to launch special raids during festive season
+
+*2024-11-24 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103720/caa-to-launch-special-raids-during-festive-season) · `en`
+
+The Consumer Affairs Authority (CAA) has announced a series of special raids starting December 15 to safeguard consumers during the upcoming festive season.
+
+According to CAA Director Asela Bandara, a comprehensive inspection program will be implemented nationwide, focusing on major wholesale outlets, warehouses, and retail shops to prevent the circulation of expired products.
+
+The raids will also extend to outlets selling clothing, electronics, and other essential goods, ensuring compliance with consumer protection standards.
+
+Mobile vendors and stores hosting large seasonal sales will come under close scrutiny to curb unfair trade practices and maintain product quality, he added.
+
+Consumers who encounter issues such as expired goods, misleading promotions, or substandard products are encouraged to report their complaints via the CAA”s dedicated hotline at 1977.
+
+◼️
+
+[Data](articles/f4d56b62.json)
+
+[Extended Data](ext_articles/f4d56b62.ext.json)
 
 ---

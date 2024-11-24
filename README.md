@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 20:41:23**
+As of **2024-11-24 21:12:12**
 
 ## Newspaper Stats
 
-*Scraped **56,623** Articles*
+*Scraped **56,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,315 @@ islandlk | 3,395
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,326
+adalk | 5,327
 adaderanalk | 6,848
-tamilmirrorlk | 8,048
-virakesarilk | 9,225
-adaderanasinhalalk | 9,777
+tamilmirrorlk | 8,049
+virakesarilk | 9,237
+adaderanasinhalalk | 9,778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,623 (100.0%) of 56,623 articles have been extended.
+56,629 (100.0%) of 56,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### Mahesh inspects Rajasthan
+
+*2024-11-24 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203691) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Mahesh inspects Rajasthan: Sri Lankan player Mah Mesh visits Indian Royals auction in IPL.
+
+🟩
+
+Sri Lankan players' Mah Mesh inspects Indian Ruayals at the Auction in the Indian Premier League.
+
+◼️
+
+[Data](articles/96603d17.json)
+
+[Extended Data](ext_articles/96603d17.ext.json)
+
+---
+
+### Rishabh Bond for the first phase of 2025 IPL players
+
+*2024-11-24 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199585) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rishabh Pant auctioned for over 25 crore in IPL 2025 mega auction. Shreyas Iyer sold to Punjab Kings for 26.75 crore. Other notable buys include KL Rahul, Mohammed Siraj, Mitchell Starc, Kagiso Rabada, Liam Livingstone, David Miller.
+
+🟩
+
+Indian wicketkeeper Rishabh Bond was bought by Lucknow Super Jeanteus for the first phase of the 18th Indian Premier League chapter to be held in 2025.
+
+Mega auction for 574 players started at 3.30 pm yesterday at Saudi Arabia's Jeddah. The auction was held last night and will continue today.
+
+The owners and management team of 10 teams playing in the IPL cricket match are participating in the auction. The basic auction price of 81 players has been fixed at Rs 2 crore.
+
+12 players were bought by teams at the first phase of the amazing auctions for the wondering players who were held from 3.30 pm to 5.30 pm on Sunday.
+
+Both Indian players Rishabh Pant and Shreyas Iyer were auctioned off for over Rs 25 crore.
+
+The difference between the two of them was 25 lakh rupees.
+
+Next to him, Punjab Kings, who bought Shreyas Iyer at the second highest price of Rs 26 crore 75 lakh rupees, joined Indian left -handed fast bowler Arshdeep Singh and spinner Yuswendra Sahal for Rs 18 crore.
+
+...
+
+[Data](articles/64199e3d.json)
+
+[Extended Data](ext_articles/64199e3d.ext.json)
+
+---
+
+### Rishabh Bond for the first phase of 2025 IPL players
+
+*2024-11-24 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199586) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Lucknow Super Giants buy Rishabh Pant for ₹25 crore in IPL 2025 mega auction. Other notable buys: Shreyas Iyer (₹26.75 crore), KL Rahul (₹14 crore), Mohammed Siraj (₹12.25 crore). Auction continues with 10 teams vying for top players.
+
+🟩
+
+Indian wicketkeeper Rishabh Bond was bought by Lucknow Super Jeanteus for the first phase of the 18th Indian Premier League chapter to be held in 2025.
+
+Mega auction for 574 players started at 3.30 pm yesterday at Saudi Arabia's Jeddah. The auction was held last night and will continue today.
+
+The owners and management team of 10 teams playing in the IPL cricket match are participating in the auction. The basic auction price of 81 players has been fixed at Rs 2 crore.
+
+12 players were bought by teams at the first phase of the amazing auctions for the wondering players who were held from 3.30 pm to 5.30 pm on Sunday.
+
+Both Indian players Rishabh Pant and Shreyas Iyer were auctioned off for over Rs 25 crore.
+
+The difference between the two of them was 25 lakh rupees.
+
+Next to him, Punjab Kings, who bought Shreyas Iyer at the second highest price of Rs 26 crore 75 lakh rupees, joined Indian left -handed fast bowler Arshdeep Singh and spinner Yuswendra Sahal for Rs 18 crore.
+
+...
+
+[Data](articles/e445c013.json)
+
+[Extended Data](ext_articles/e445c013.ext.json)
+
+---
+
+### 2 இராணுவத்தினர் உட்பட 11 பேர் கைது
+
+*2024-11-24 20:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-இராணுவத்தினர்-உட்பட-11-பேர்-கைது/175-347702) · `ta`
+
+வெலிகந்த, நாமல்கம பிரதேசத்தில் தொல்பொருள் அகழ்வு முயற்சி அல்லது குற்றச் செயலில் ஈடுபட்டதாக சந்தேகத்தின் பேரில் இராணுவத்தினர் இருவர் உட்பட 11 பேர் மூன்று மோட்டார் வாகனங்கள் மற்றும் ஒரு கெப் வண்டியுடன் கைது செய்யப்பட்டதாக வெலிகந்த பொலிஸார் தெரிவிக்கின்றனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களில் பதுளையைச் சேர்ந்த ஒருவர் போலி அடையாள அட்டை, இராணுவ சீருடைகள் மற்றும் பிரிகேடியர் அணிந்திருந்த ஆடை போன்றவற்றை வைத்திருந்தமை கண்டுபிடிக்கப்பட்டுள்ளது. மற்றைய இரு இராணுவத்தினரும் திருகோணமலை ஹென்றிக் கோட்டையில் தடுத்து வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+எஞ்சிய எட்டு சந்தேக நபர்களும் யக்கல, பாதுக்க, கலேவெல, மில்லவ மற்றும் தங்காலை ஆகிய பகுதிகளைச் சேர்ந்தவர்கள் என வெலிகந்த பொலிஸாரினால் மேற்கொள்ளப்பட்ட தொடர் விசாரணைகளின் மூலம் தெரியவந்துள்ளது.
+
+பொல்ஹெங்கொடை இராணுவ முகாமில் இருந்து வெலிகந்த பொலிஸார் மற்றும் இராணுவ பொலிஸார் இணைந்து மேற்கொண்ட நடவடிக்கையின் போதே, முகாமின் அதிகாரிகள் வழங்கிய இரகசிய தகவலையடுத்து இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/c155c47d.json)
+
+---
+
+### Rishabh Bond for the first phase of 2025 IPL players
+
+*2024-11-24 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199584) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rishabh Pant auctioned for ₹25+ crore, Shreyas Iyer for ₹26.75 crore. Other notable buys: KL Rahul (₹14 crore), Mohammed Siraj (₹12.25 crore), Mitchell Starc (₹11.75 crore). Lucknow Super Giants acquired Rishabh Bond. Auction continues in Jeddah.
+
+🟩
+
+Indian wicketkeeper Rishabh Bond was bought by Lucknow Super Jeanteus for the first phase of the 18th Indian Premier League chapter to be held in 2025.
+
+Mega auction for 574 players started at 3.30 pm yesterday at Saudi Arabia's Jeddah. The auction was held last night and will continue today.
+
+The owners and management team of 10 teams playing in the IPL cricket match are participating in the auction. The basic auction price of 81 players has been fixed at Rs 2 crore.
+
+12 players were bought by teams at the first phase of the amazing auctions for the wondering players who were held from 3.30 pm to 5.30 pm on Sunday.
+
+Both Indian players Rishabh Pant and Shreyas Iyer were auctioned off for over Rs 25 crore.
+
+The difference between the two of them was 25 lakh rupees.
+
+Next to him, Punjab Kings, who bought Shreyas Iyer at the second highest price of Rs 26 crore 75 lakh rupees, joined Indian left -handed fast bowler Arshdeep Singh and spinner Yuswendra Sahal for Rs 18 crore.
+
+...
+
+[Data](articles/a14fde68.json)
+
+[Extended Data](ext_articles/a14fde68.ext.json)
+
+---
+
+### 22 women for parliament for the first time in history
+
+*2024-11-24 20:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199560) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Historic milestone: 22 women elected to parliament. TNA party fields 44 female candidates nationwide. 1324 females run, 80 win seats, breaking barriers in political representation.
+
+🟩
+
+The Janasheetha Peramuna Party (TNA) has fielded 44 female candidates across the country and this time 1,324 female candidates and 80 women were given the opportunity to be given the opportunity.
+
+◼️
+
+[Data](articles/cae440e6.json)
+
+[Extended Data](ext_articles/cae440e6.ext.json)
+
+---
+
+### One arrested with heroin drugs in Moratuwa
+
+*2024-11-24 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199568) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Man, 30, arrested in Moratuwa with 210g heroin. Police action based on confidential tip. Incident occurred Saturday.
+
+🟩
+
+A man was arrested by police on Saturday (23) with heroin in Koralavella area belonging to the Moratuwa police division.
+
+He was arrested during a roundup of confidential information received by the Moratuwa police station.
+
+The arrested suspect is a 30 -year -old from Koralavella.
+
+From the suspect, 210 grams of heroin has been seized by the police.
+
+◼️
+
+[Data](articles/3bab71d0.json)
+
+[Extended Data](ext_articles/3bab71d0.ext.json)
+
+---
+
+### பேலியகொடயில் ஹெரோயின் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2024-11-24 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199569) · `ta`
+
+பேலியகொட பொலிஸ் பிரிவுக்குட்பட்ட  போரனுகொடுவத்த பிரதேசத்தில் , ஹெரோயின் போதைப்பொருளுடன் ஒருவர் நேற்று சனிக்கிழமை (23) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பேலியகொட பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் ,  கொழும்பு 14 பகுதியைச் சேர்ந்த 25 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடம் இருந்து, 05 கிராம் 700 கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a716b2c6.json)
+
+---
+
+### 90 இலட்சம் ரூபா பெறுமதியான வெளிநாட்டு சிகரெட்டுக்களுடன் ஒருவர் கைது !
+
+*2024-11-24 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199572) · `ta`
+
+வெளிநாட்டில் தயாரிக்கப்பட்ட சிகரெட்டுகளை சட்டவிரோதமான முறையில் இலங்கைக்குக் கொண்டு வந்து கட்டுநாயக்க விமான நிலையத்திலிருந்து வெளியே எடுத்துச் செல்ல முயன்ற  பயணி ஒருவர் விமான நிலைய  பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகள் குழுவினரால் இன்று ஞாயிற்றுக்கிழமை (24) கைது செய்யப்பட்டுள்ளார்.
+
+இவர் இன்று 12.10 மணியளவில்  துபாயிலிருந்து   கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்டவரின்  பயணப்பொதியில் இருந்து  39,980 "மென்செஸ்டர்" ரக சிகரெட்டுகள் மற்றும் 20,000 "பிளாட்டினம்" ரக சிகரெட்டுகள்  பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+கைதுசெய்யப்பட்ட நபர் பொலிஸ் பிணையில் விடுவிக்கப்பட்டுள்ளதுடன், வெளிநாட்டு உற்பத்தி சிகரெட்டுக்களை சட்டவிரோதமாக இறக்குமதி செய்தமை, வைத்திருந்தமை மற்றும் கடத்தல் ஆகிய குற்றச்சாட்டின் பேரில் எதிர்வரும் 27 ஆம் திகதி நீர்கொழும்பு நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளார்.
+
+◼️
+
+[Data](articles/0bcfd4ea.json)
+
+---
+
+### யாழ் தீவகத்தில் மாவீரர் நினைவேந்தல் !
+
+*2024-11-24 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199575) · `ta`
+
+யாழ் தீவகம் வங்களா வடிச் சந்தியில் அமைந்துள்ள நினைவுத் தூவியில் தீவகம் நினைவேந்தல் குழுவின் ஏற்பாட்டில்  மாவீரர்கள் இன்று ஞாயிற்றுக்கிழமை (24)  காலை நினைவேந்தப்பட்டனர்.
+
+மாவீரர் வாரத்தின் நான்காம் நாளாகிய இன்று(24) யாழ் தீவகம் வங்களாவடி சந்தையில் அமைந்துள்ள நினைவுத் தூவியில் மாவீரர்கள் நினைவு கூறப்பட்டனர்
+
+நிகழ்வில் மாவீரர்கள் நினைவாக பொதுச் சுடர் ஏற்றப்பட்டு அகவணக்கம் செலுத்தப்பட்டு மலர் வணக்கம் செலுத்தப்பட்டது.
+
+இந் நிகழ்வில் மாவிரர்களின் பெற்றோர்கள் உறவினர்கள் வேலணை பகுதி வர்த்தகர்கள் பொது மக்கள் எனப்பலரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/350caec5.json)
+
+---
+
+### அரசின் நீண்டகால நிதி மற்றும் பொருளாதார நோக்கங்கள் !
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199579) · `ta`
+
+வாகன இறக்குமதி கொள்கைகள் மற்றும் மற்ற நிதிச் சீர்திருத்தங்களை சரியான முறையில் நடைமுறைப்படுத்த அரசாங்கம் பொறுப்புள்ள மற்றும் திறமையான செயற்றிறன் கொண்டதாக இருக்க வேண்டும். பொதுமக்கள் மற்றும் வணிகத்துறைகளின் தேவைகளை எதிர்பார்க்கும் வகையில் திட்டங்களை உருவாக்கி அதனை விளக்குவதன் மூலம் பொருளாதார மாற்றங்களைச் சரியாகக் கொண்டு செல்ல முடியும்.
+
+◼️
+
+[Data](articles/7e3837b6.json)
+
+---
+
+### வட,கிழக்கை நோக்கிச் சீனாவும் சீனாவை நோக்கித் தமிழர்களும்
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199577) · `ta`
+
+'வடக்கு, கிழக்கு தமிழர்கள் மத்தியில் உருவெடுத்துள்ள பொருளாதாரத்தினை மையப்படுத்திய புதிய சிந்தனைகளும் எதிர்பார்ப்புக்களும் இந்தியாவின் பிடிகள் தளர்ந்து சீனா திடமாக தடம்பதிக்க வழிசமைக்கலாம்'
+
+◼️
+
+[Data](articles/c481e94a.json)
+
+---
+
+### இந்திய ‘மிகையொலி’ இராஜதந்திரம்
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199581) · `ta`
+
+அமெரிக்கா, பிரித்தானியா, அவுஸ்திரேலியா ஆகிய மூன்ற நாடுகளும் இணைந்து தமது கூட்டுத்திறன் ஊடாக தாக்குதலுக்கும் பாதுகாப்பிற்கும் தகுந்தால்போல மிகையொலி தொழில்நுட்பத்தை வலுவாகுவதிலும் வளர்ச்சி அடைய செய்வதிலும் தொடர்ச்சியான சோதனைகளில் ஈடுபடவுள்ளதாக அறிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/e468277e.json)
+
+---
+
+### பாராளுமன்ற தேர்தலில் தமிழ் மக்கள் வாக்களித்த முறையை விளங்கிக்கொள்தல்
+
+*2024-11-24 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199583) · `ta`
+
+2024 நவம்பர்  பாராளுமன்ற தேர்தல் கண்டிருக்கும் வரலாற்று முக்கியத்துவம் வாய்ந்த பல 'முதலாவதுகளில்"  கூடுதலான அளவுக்கு  கவனத்தை ஈர்த்திருப்பவை  தேசிய மக்கள் சக்தி சாதித்த இரு சாதனைகளேயாகும். தேசிய மக்கள் சக்தியின்  பிரமாண்டமான வெற்றி இலங்கையில் விகிதாசாரப் பிரதிநிதித்துவ தேர்தல் முறை அறிமுகப்படுத்தப்பட்ட பிறகு தனியொரு கட்சி அல்லது கூட்டணி பாாளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையை பெற்ற முதலாவது சந்தர்ப்பத்தை குறித்து நிற்கிறது...
+
+◼️
+
+[Data](articles/aa1120a7.json)
+
+---
 
 ### Heavy showers above 150 mm expected in Eastern Province
 
@@ -733,6 +1027,30 @@ The Department of Meteorology has been instructed to take necessary steps to red
 [Data](articles/e225a185.json)
 
 [Extended Data](ext_articles/e225a185.ext.json)
+
+---
+
+### සජබ ජාතික ලැයිස්තු මන්ත්‍රීධුර ගැන අර්බුදයක් නෑ
+
+*2024-11-24 17:09:09* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ජාතික-ලැයිස්තු-මන්ත්‍රීධුර-ගැන-අර්බුදයක්-නෑ/11-413239) · `si`
+
+සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර පත් කිරීම සම්බන්ධයෙන් කිසිදු අර්බුදයක් නොමැති බවත්, එය නිසි කලට, නිසි ක්‍රමවේදයක් අනුව සිදු කරන බවත් සමගි ජන බලවේගයේ නායක, විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+කොළඹ විපක්ෂනායක කාර්යාලයේදී මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්න වලට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා ප්‍රශ්න වලට මෙලෙස පිළිතුරු ලබා දුන්නේය.
+
+ප්‍රශ්නය – දැන් මොකක්ද ජාතික ලැයිස්තු මන්ත්‍රී ධුර ගැන කරන්නේ ?
+
+පිළිතුර – නිසි කලට, නිසි ලෙසට, නිසි ආකාරයට සිදුවෙයි. අපි ඒක දැනුම් දෙන්නම්.
+
+පිළිතුර – අපි ඒවා දැනුම් දෙන්නේ ක්‍රමවේදයකට. ව්‍යවස්ථානුකූලව. ඒ දැනුම්දීමේ ක්‍රමවේදය අපි එලෙස ක්‍රියාත්මක කරනවා. ඒ අනුව අපි මැතිවරණ කොමිෂන් සභාවට අපි දැනුම් දෙනවා.
+
+ප්‍රශ්නය – සුජීව සේනසිංහ මහත්මයා ඇවිත් ගියා අපි දැක්කා. එතුමා අවේ ඔබතුමාගෙන් ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් ඉල්ලන්නද?
+
+...
+
+[Data](articles/a2c11873.json)
 
 ---
 
@@ -2105,379 +2423,5 @@ The suspect had arrived at a plane from Dubai and 59980 cigarettes were found.
 [Data](articles/173fe626.json)
 
 [Extended Data](ext_articles/173fe626.ext.json)
-
----
-
-### Protesters still near the Foreign Employment Bureau
-
-*2024-11-24 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203672) · `si`
-
-Protesters near Foreign Employment Bureau over E8 visa issues. Demonstrators accuse bureau despite receiving Korean visas. Police unrest reported during pavement construction attempt. Formal investigation launched, but protesters remain at scene.
-
-🟩
-
-According to the E8, the number of prospect of departuring work in Korea was still staying at the same location.
-
-Under the E8, a group of people in front of the Foreign Employment Bureau was in front of the Foreign Employment Bureau yesterday (23).
-
-Although he has received visas for Korea, he accused the Foreign Employment Bureau.
-
-The protesters tried to carry out a temporary construction of the pavement near the Foreign Employment Bureau and had a unrest among police officers and the demonstrators.
-
-Upon inquiry by a High Officer of the Foreign Employment Bureau, a senior official of the Foreign Employment Bureau stated that the registration of the people have been questioned under the E8 visas scheduled.
-
-The official said that a formal investigation has been launched in this regard.
-
-However, our correspondent stated that the protesters remained in that place by morning.
-
-◼️
-
-[Data](articles/152d7eed.json)
-
-[Extended Data](ext_articles/152d7eed.ext.json)
-
----
-
-### The power of the people is the powerful even though they have
-
-*2024-11-24 09:14:07* · [`adalk`](https://www.ada.lk/breaking_news/කුමන-අණපනත්-තිබුණත්-ප්‍රබල-වන්නේ-ජනතාවගේ-බලයයි/11-413222) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Power of people crucial for national progress. Public service vital (80% historical significance). Government focuses on meeting people's expectations. New administration commits to good governance, supporting country development.
-
-🟩
-
-Work on one purpose and devoted our motherland to a better state
-
-Could not proceed without confirming the trust of public service
-
-Nearly 80% of the past history gave public service because the public service was also the wish
-
-The government has no goal outside the political leadership except to provide the political leadership to meet people's expectations
-
-President Anura Kumara Dissanayake said he would invite all public servants to work with one purpose and make it a better state.
-
-The President was speaking at the Ministry of Defense, Akuregoda Security Forces Headquarters to assume duties as the Defense Minister.
-
-The President who arrived at the Ministry of Defense and received honor by the staff.
-
-Thereafter, the President also discussed a discussion with the Armed Forces Commanders and the Chiefs of the Defense Ministry.
-
-The President said the new government is committed to a good governance and hopes to support the country.
-
-...
-
-[Data](articles/928ab381.json)
-
-[Extended Data](ext_articles/928ab381.ext.json)
-
----
-
-### Twenty killed in clashes in Lebanon
-
-*2024-11-24 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203671) · `si`
-
-20 killed in Lebanon airstrikes; Israel claims targeting Hezbollah leaders; building collapse reported; ongoing search for victims.
-
-🟩
-
-Twenty people were killed in airstrike at Berott in Lebanon.
-
-Foreign media reports that the air strike has been launched targeting the heads of hebbulle militants.
-
-Israel said that no warning was taken before the attack and that no warning was not carried out and was targeting a senior Hezbollah leader.
-
-The Lebanon National News Agency has reported that the building collapsed in the collapsed building is being taken to search for bodies.
-
-◼️
-
-[Data](articles/f0952b0a.json)
-
-[Extended Data](ext_articles/f0952b0a.ext.json)
-
----
-
-### Bid to smuggle ganja to Sri Lanka from Andhra Pradesh foiled; 3 held
-
-*2024-11-24 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103715/bid-to-smuggle-ganja-to-sri-lanka-from-andhra-pradesh-foiled-3-held) · `en`
-
-Thanjavur Police on Friday arrested three persons for an attempt to smuggle ganja to Sri Lanka from Andhra Pradesh via Thanjavur in India. Three FRP boats that were used for transporting the contraband and 330 kg of ganja were seized.
-
-Sources said the Thanjavur SP Ashish Rawat received information that a huge quantity of ganja was being smuggled in a lorry from Andhra Pradesh to Sethubavachatram in Thanjavur to be transported to Sri Lanka.
-
-The SP immediately formed a special team and ordered a vehicle inspection. A special team headed by Sub Inspector Devid was camping in Sethubavachatram. The police during a patrol on Friday early hours found a lorry parked suspiciously and three persons loading bundles into a car from the lorry.
-
-The police team surrounded the trio and searched the lorry. They found bundles of ganja weighing 330 kg.
-
-...
-
-[Data](articles/e5f2bef1.json)
-
-[Extended Data](ext_articles/e5f2bef1.ext.json)
-
----
-
-### Sri Lanka wins World Carrom Championship without a national coach for 14 years
-
-*2024-11-24 09:02:11* · [`adalk`](https://www.ada.lk/sports/අවුරුදු-14ක්-තිස්සේ--ජාතික-පුහුණුකරුවෙකුත්-නොමැතිව-ලෝක-කැරම්-ශූරතාවලියේ-අනුශූරතාව-ලංකාවට/9-413221) · `si`
-
-Sri Lanka wins World Carrom Championship without national coach since 2010. Teams triumph in US, players return home to Katunayake Airport celebration.
-
-🟩
-
-Sri Lanka Carrom men and women's teams won the Katunayake Airport on the night in the 6th World Carrom Championship in the US.
-
-In addition, Shides Hilly and Anashan and Aashani and Tharushi Garramingika won bronze medals in the tournament.
-
-The tournament was held in California in California, US Saint Francisco.
-
-The number of players at Shanhai in Shane Easton Airlines, China, arrived at the Katunayake Airport on the 231 airport.
-
-The Sri Lankan Carrom team has not had a national coach since 2010 and the Sri Lanka Carrom team has been confronted with great difficulties.
-
-Their relative friends were present at the Katunayake Airport, Sri Lanka Carrom Federation, the Sri Lanka Carrom Federation and a group of Sri Lanka Air Force and Navy personnel to accept the group of women.
-
-◼️
-
-[Data](articles/f0dcb886.json)
-
-[Extended Data](ext_articles/f0dcb886.ext.json)
-
----
-
-### IPL athletes auction today
-
-*2024-11-24 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203670) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-IPL athlete auction today: 574 players selected, 366 Indian, 208 foreign. 10 teams to play 204 players, including 70 foreigners. 29 Sri Lankans registered, all selected. Auction in Jeddah tomorrow.
-
-🟩
-
-Attorney's auction at the Indian Premier League cricket tournament will be held in Jeddah tomorrow (25) and tomorrow.
-
-This is the second chance of an IP player auction outside of India, and the player auction will commence today at 3.30 pm today.
-
-The 2025 IPL cricket tournament will be held from March 14 to May 25th.
-
-IPL organizers recently announced the final list of player lists on the relevant player auction.
-
-The 2025 players registered 1574 players for the athletic auction, however, only 574 players have been selected for athletes auction.
-
-Of these, 366 players are Indian players and the remaining 208 are foreign players.
-
-10 teams to play 204 players to play at the Indian Premier League this year, of which 70 are foreign players.
-
-Although 29 players from Sri Lanka registered for this year, 29 players have been selected to admit the auction.
-
-Sri Lankan athletic Warshana and Mahine inspects Sri Lankan athletes at the auction.
-
-◼️
-
-[Data](articles/4144b35d.json)
-
-[Extended Data](ext_articles/4144b35d.ext.json)
-
----
-
-### Heavy showers above 150 mm likely in several provinces
-
-*2024-11-24 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103714/heavy-showers-above-150-mm-likely-in-several-provinces) · `en`
-
-The Meteorology Department says a low-pressure area has formed over southeast Bay of Bengal and is likely to move west north-westwards and intensify into a depression over southwest Bay of Bengal on 25 November.
-
-The system may intensify further and move towards the Northern coast of Sri Lanka.
-
-Cloudy skies are expected over most parts of the island due to the influence of the aforementioned system, it said.
-
-Showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Very heavy showers above 150 mm are likely at some places in Eastern and Uva provinces and in Hambantota district.
-
-Heavy showers above 100mm are likely at some places in North-central province.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and Eastern provinces and in Hambantota district.
-
-...
-
-[Data](articles/db1e8ff3.json)
-
-[Extended Data](ext_articles/db1e8ff3.ext.json)
-
----
-
-### 497 Indian fishermen arrested this year
-
-*2024-11-24 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203669) · `si`
-
-497 Indian fishermen arrested this year for violating Sri Lankan waters. Navy spokesperson claims maximum safety measures taken.
-
-🟩
-
-497 Indian fishermen have been arrested as a result of violating the sales of the Sri Lankan in this year.
-
-Navy Spokesperson Capithan Gayan Wickremasturiya stated. The Indian fishermen have been arrested in 66 fishing boats.
-
-He also said that the Navy has contributed to the maximum contribution to the safety of fishermen.
-
-◼️
-
-[Data](articles/38757546.json)
-
-[Extended Data](ext_articles/38757546.ext.json)
-
----
-
-### The Need to submit an electronic tax return and its challenges
-
-*2024-11-24 07:46:00* · [`islandlk`](http://island.lk/the-need-to-submit-an-electronic-tax-return-and-its-challenges/) · `en`
-
-The Inland Revenue Department (IRD) has decided that compliant taxpayers who submit their Return of Income for 2023-24 (01 April 2023 to 31 March 2024) can only do so electronically by submitting an e-return.
-
-Whilst it is undoubtedly a step in the right direction, no consideration has been given to the fact that such a move should be made in a phased manner. In typically cavalier fashion, the department’s mandarins want to go from zero to a hundred, forgetting that many individual taxpayers have no experience submitting tax returns, let alone e-returns. I assume many new taxpayers who have not previously submitted tax returns annually have been inducted into the tax net.
-
-...
-
-[Data](articles/3a6a3815.json)
-
-[Extended Data](ext_articles/3a6a3815.ext.json)
-
----
-
-### Return to Normalcy: After Rajapaksa Kakistocracy and Supercilious Ranilocracy
-
-*2024-11-24 07:46:00* · [`islandlk`](http://island.lk/return-to-normalcy-after-rajapaksa-kakistocracy-and-supercilious-ranilocracy/) · `en`
-
-A word first used in 17th century England is gaining new currency in 21st century America. Kakistocracy, a Greek derivative per usual, means government administered by the worst group of citizens – in qualification, competence, experience and scruples. Kakistocracy is in full display in the US with the election of Donald Trump as president for a second term. America is returning to chaos not heeding Kamala Harris’s warning against going back.
-
-In Sri Lanka, Rajapaksas epitomized Kakistocracy for nearly two decades before it imploded under Gotabaya Rajapaksa. After them came Ranil Wickremesinghe to clean up the economic mess left behind by the Rajapaksas. To his credit, Mr. Wickremesinghe did clean up the economic mess. But he also created a political mess, characteristically and superciliously
-
-...
-
-[Data](articles/c3d394a2.json)
-
-[Extended Data](ext_articles/c3d394a2.ext.json)
-
----
-
-### IMF to closely discuss upcoming budget with Sri Lanka
-
-*2024-11-24 07:41:00* · [`economynextcom`](https://economynext.com/imf-to-closely-discuss-upcoming-budget-with-sri-lanka-189556/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund will have close discussions with Sri Lanka on the budget for 2025, Senior Mission Chief Peter Breuer said after striking a staff level agreement on the next phase of the program.
-
-The IMF program’s fiscal quantitative targets on revenues, primary balance are based on the budget measures and legal reforms are also usually announced in the budget.
-
-Sri Lanka’s budget, usually presented in November was delayed due to the Presidential and Parliamentary elections.
-
-“We will be interested in convincing ourselves that this budget is in line with the program objectives,” Breuer said. “So we will be having a very close discussion with the authorities on that.
-
-Sri Lanka’s new administration has said it wants to raise the threshold on income tax, exempt some foods from value added tax and raise subsidies for people hit by the high prices from currency collapse (flexible exchange rate).
-
-...
-
-[Data](articles/7d39a064.json)
-
-[Extended Data](ext_articles/7d39a064.ext.json)
-
----
-
-### President Anura is today's birthday
-
-*2024-11-24 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203668) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake celebrates his 56th birthday today (24). Born on November 24, 1968, he graduated in Science from University of Kelaniya in 1995. Elected as Member of Parliament in 2000 and became JVP leader in 2014. He was elected President of Sri Lanka on September 21, 2021.
-
-🟩
-
-President Anura Kumara Dissanayake is today (24).
-
-Anura Kumara Dissanayake, who was born on November 24, 1968, was now 56 years ago.
-
-He appeared in the GCE Advanced Level Examination at Thambuttegama Central College, Thambuththegama Central College, Thambuththegama Central College, Thambuththegama Central College.
-
-Anura Kumara Dissanayake, who was admitted to the Vidyalaya of University of Kelaniya in 1992, has graduated in Science in 1995.
-
-He contributed to the massive popular protests throughout the country against the Indo-Lanka Accord celebrated in 1987 in 1987.
-
-Anura Kumara Dissanayake has won the post of National Organizer of the Socialist Students Union in 1997 after the massive state repression was undergoing repression.
-
-In 1997, he was elected to the Central Committee of the JVP in 1998 he included in the Political Bureau of the JVP.
-
-The JVP candidate for the 1999 provincial council candidate was to contest for the Central Provincial Council.
-
-...
-
-[Data](articles/d062ce03.json)
-
-[Extended Data](ext_articles/d062ce03.ext.json)
-
----
-
-### Heavy rains still
-
-*2024-11-24 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203667) · `si`
-
-Heavy rains forecasted for Hambantota, Uva provinces. Showers expected in Northern, North-Central provinces too. Department warns of thunderstorms and lightning.
-
-🟩
-
-The Department of Meteorology says that there will be several showers or thundershowers in the Hambantota district and at times in the Hambantota district and the Uva provinces.
-
-The department states that there will be showers at several places in the evening or night in the evening of the island.
-
-Heavy showers in some places in the Northern, North-Central and Uva provinces.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/071baf1a.json)
-
-[Extended Data](ext_articles/071baf1a.ext.json)
-
----
-
-### Softlogic Life sweeps board at SLIM Digis 2024 becoming most awarded brand along with coveted Grand Prix
-
-*2024-11-24 04:41:00* · [`islandlk`](http://island.lk/softlogic-life-sweeps-board-at-slim-digis-2024-becoming-most-awarded-brand-along-with-coveted-grand-prix/) · `en`
-
-Further cementing its position as the most innovative insurer that is close to the heartbeat of the nation, Sri Lanka’s second largest life insurer Softlogic Life Insurance PLC took home nine awards at the SLIM Digis 2.4 Awards held on Oct 29, including the top most award of the night “The Grand Prix, a company news release said.
-
-This top award which was won by Softlogic Life created a first for the insurance industry, which was to recognize the creativity, innovation and impact of its trailblazing and innovative ‘Legends’ Campaign. Additionally, the company won four Golds, three Silvers and a Bronze for ‘Dengeez’, Legends’ and ‘Sri Lanka’s Inspiring Crowd sourced Christmas Tree of Hope’ campaigns.
-
-...
-
-[Data](articles/6d26167d.json)
-
-[Extended Data](ext_articles/6d26167d.ext.json)
-
----
-
-### Sri Lanka Cancer Society and AIA Insurance renew partnership
-
-*2024-11-24 04:40:00* · [`islandlk`](http://island.lk/sri-lanka-cancer-society-and-aia-insurance-renew-partnership/) · `en`
-
-The Sri Lanka Cancer Society (SLCS) is a dedicated non-profit organization committed to fight cancer. The primary mission of the Sri Lanka Cancer Society is to provide care and support to cancer patients in need, while also raising awareness about the disease. This mission is grounded on the belief that all cancer patients deserve the highest standard of care, irrespective of their social, cultural, or economic circumstances, a news release from the Society said.
-
-“The Sri Lanka Cancer Society (SLCS) extends its gratitude to its partner, AIA Insurance, for its continued commitment to supporting underprivileged cancer patients by renewing its partnership for the sixth consecutive year. The Memorandum of Understanding was signed between AIA CEO Chathuri Munaweera and SLCS Chairperson Anoja Karunaratne on  October 7, 2024,” it said.
-
-...
-
-[Data](articles/1eb5db7b.json)
-
-[Extended Data](ext_articles/1eb5db7b.ext.json)
 
 ---

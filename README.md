@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 13:41:56**
+As of **2024-11-24 14:00:56**
 
 ## Newspaper Stats
 
-*Scraped **56,559** Articles*
+*Scraped **56,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,394
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,315
+adalk | 5,316
 adaderanalk | 6,841
 tamilmirrorlk | 8,044
 virakesarilk | 9,198
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,556 (100.0%) of 56,559 articles have been extended.
+56,556 (100.0%) of 56,560 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -195,6 +195,24 @@ According to the information received by the police, the police have gone to the
 [Data](articles/92ff84e6.json)
 
 [Extended Data](ext_articles/92ff84e6.ext.json)
+
+---
+
+### අඩි 50ක් යට ගල් හාරා නිධන් තැන්පත් කිරිමේ තාක්ෂණයක් එදත් අදත් නෑ
+
+*2024-11-24 12:06:25* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-50ක්-යට-ගල්-හාරා-නිධන්-තැන්පත්-කිරිමේ-තාක්ෂණයක්-එදත්-අදත්-නෑ/11-413226) · `si`
+
+වෙහෙර විහාර සඳහා මිනිසුන් පුජා කරන දේ ධාතු ගර්භ වෙහෙර විහාර වල තිබෙන්නට හෝ නොතිබෙන්නට හැකි බවත් භු විද්‍යාව සම්බන්දව වසර 40 ගනනක පලපුරුද්ද අනුව අඩි 40 ක් 50 යට ගල් හාරා නිදන් තැන්පත් කිරිමේ හෝ ගල් උණු කර දැමිමක් හෝ ගල් ඇලවීමේ තාක්ෂණයක් එදත් අදත් නැති බව පේරාදෙණිය විශ්ව විද්‍යාලයේ භු ගර්භ විද්‍යාව පිළිබද සම්මාණිත මහාචාර්‍ය අතුල සේනාරත්න මහතා පවසයි.
+
+මේ සම්බන්ධව රාජ්‍ය අනුග්‍රහය ලබාදිමද අවශ්‍යතාවයක් නොමැති දෙයක් බවද මහාචාර්‍යවරයා පැවසිය.
+
+මහාචාර්‍ය අතුල සේනාරත්න මහතා මේ බව පැවසුයේ වේයන්ගොඩ වඳුරව ප්‍රදේශයේ අධිවේගී මාර්ග රක්ෂිතයේ නිධන් වස්තු ඇතැයි පැවසෙන ස්ථානයේ නිධන් වස්තු ඇතිදැයි කළ විමසිමකදිය.
+
+පුරා විද්‍යා ගවේශනයන් සඳහා භු විද්‍යාඥයිනගේ  අවධානය යොමුවන්නේ පුරා විද්‍යාඥයින්ගෙන් යම් ඉල්ලිමක් ලැබුණොත් පමනක් බවත් යම්කිසි අවශ්‍යතාවයක් මත ආරධානවක් ලැබුණොත් පමණක් ඒ සදහා භු විද්‍යාඥයින් සහයෝගය ලබාදෙන බවද අතුල සේනාරත්න මහතා පැවසිය.
+
+...
+
+[Data](articles/04ab66c6.json)
 
 ---
 
@@ -2469,37 +2487,5 @@ The bus, which was carrying 41 students from the Southern Defense University of 
 [Data](articles/1b34fca5.json)
 
 [Extended Data](ext_articles/1b34fca5.ext.json)
-
----
-
-### Unique vehicle permits for the country
-
-*2024-11-23 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203650) · `si`
-
-National Audit office reports over 1000 electrical vehicle permits issued improperly. Auditor General states many qualified foreign workers denied licenses. Malpractices identified in license issuance process. Report submitted to Parliament for further action.
-
-🟩
-
-The National Audit office says that more than a thousand permits have been issued to import electrical vehicles for foreign workers have been reduced.
-
-Auditor General W.P.C. Mr. Wickremaratne stated that a report has already been handed over to Parliament.
-
-The contribution to the country's economy through remittances sent by foreign workers is immense.
-
-Accordingly, the services rendered a license system for the payment of electrical vehicles for them.
-
-Accordingly, a maximum of two-wheeled electrical vehicle is licensed to a maximum of $ 25,000 for migrant workers.
-
-However, a special audit has been revealed that over 1,000 such persons have been released so far.
-
-A large number of foreign workers qualified to obtain these licenses in this context have not been licensed. P. C. Wickremaratne says.
-
-The National Audit office points out that there have been many other malpractices in the program of issuing such licenses.
-
-...
-
-[Data](articles/05a4e445.json)
-
-[Extended Data](ext_articles/05a4e445.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 17:42:37**
+As of **2024-11-24 18:03:14**
 
 ## Newspaper Stats
 
-*Scraped **56,592** Articles*
+*Scraped **56,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
-islandlk | 3,394
+islandlk | 3,395
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,323
 adaderanalk | 6,846
-tamilmirrorlk | 8,047
+tamilmirrorlk | 8,048
 virakesarilk | 9,204
 adaderanasinhalalk | 9,774
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,586 (100.0%) of 56,592 articles have been extended.
+56,586 (100.0%) of 56,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### திமிங்கல வாந்தியுடன் இருவர் கைது
+
+*2024-11-24 17:39:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திமிங்கல-வாந்தியுடன்-இருவர்-கைது/175-347689) · `ta`
+
+ரூபாய் 8 மில்லியன் பெறுமதிமிக்க திமிங்கல வாந்தியை சட்டவிரோதமாக வைத்திருந்த இரண்டு நபர்கள் பொலிஸ் சுற்றிவளைப்பின் போது அநுராதபுரத்தில் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்களிடம் இருந்து ஒரு கிலோகிராம் அம்பர்கிரிஸ் கண்டுபிடிக்கப்பட்டதுடன், இது திமிங்கலங்களிலிருந்து பெறப்பட்ட மிகவும் அரிதான மற்றும் விலையுயர்ந்த பொருளாகும்.
+
+தங்காலை பிரதேசத்தில் வசிக்கும் 36 வயதுடைய நபரும், கொக்காவெவ, கலென்பிந்துனுவெவ பிரதேசத்தில் வசிக்கும் 24 வயதுடைய ஒருவருமே கடத்தலுக்கு பயன்படுத்தப்பட்ட மோட்டார் சைக்கிளுடன் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/9d391a7a.json)
+
+---
 
 ### தேசிய பிரச்சினைக்கு தீர்வுகாண அரசாங்கத்துக்கு நிபந்தனையற்ற ஆதரவு வழங்க தயார் - ராஜித்த சேனாரத்ன
 
@@ -1602,6 +1618,36 @@ He also said that the Navy has contributed to the maximum contribution to the sa
 
 ---
 
+### The Need to submit an electronic tax return and its challenges
+
+*2024-11-24 07:46:00* · [`islandlk`](http://island.lk/the-need-to-submit-an-electronic-tax-return-and-its-challenges/) · `en`
+
+The Inland Revenue Department (IRD) has decided that compliant taxpayers who submit their Return of Income for 2023-24 (01 April 2023 to 31 March 2024) can only do so electronically by submitting an e-return.
+
+Whilst it is undoubtedly a step in the right direction, no consideration has been given to the fact that such a move should be made in a phased manner. In typically cavalier fashion, the department’s mandarins want to go from zero to a hundred, forgetting that many individual taxpayers have no experience submitting tax returns, let alone e-returns. I assume many new taxpayers who have not previously submitted tax returns annually have been inducted into the tax net.
+
+...
+
+[Data](articles/3a6a3815.json)
+
+[Extended Data](ext_articles/3a6a3815.ext.json)
+
+---
+
+### Return to Normalcy: After Rajapaksa Kakistocracy and Supercilious Ranilocracy
+
+*2024-11-24 07:46:00* · [`islandlk`](http://island.lk/return-to-normalcy-after-rajapaksa-kakistocracy-and-supercilious-ranilocracy/) · `en`
+
+A word first used in 17th century England is gaining new currency in 21st century America. Kakistocracy, a Greek derivative per usual, means government administered by the worst group of citizens – in qualification, competence, experience and scruples. Kakistocracy is in full display in the US with the election of Donald Trump as president for a second term. America is returning to chaos not heeding Kamala Harris’s warning against going back.
+
+In Sri Lanka, Rajapaksas epitomized Kakistocracy for nearly two decades before it imploded under Gotabaya Rajapaksa. After them came Ranil Wickremesinghe to clean up the economic mess left behind by the Rajapaksas. To his credit, Mr. Wickremesinghe did clean up the economic mess. But he also created a political mess, characteristically and superciliously
+
+...
+
+[Data](articles/c3d394a2.json)
+
+---
+
 ### IMF to closely discuss upcoming budget with Sri Lanka
 
 *2024-11-24 07:41:00* · [`economynextcom`](https://economynext.com/imf-to-closely-discuss-upcoming-budget-with-sri-lanka-189556/) · `en`
@@ -1681,22 +1727,6 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/071baf1a.json)
 
 [Extended Data](ext_articles/071baf1a.ext.json)
-
----
-
-### The Need to submit an electronic tax return and its challenges
-
-*2024-11-24 04:42:00* · [`islandlk`](http://island.lk/the-need-to-submit-an-electronic-tax-return-and-its-challenges/) · `en`
-
-The Inland Revenue Department (IRD) has decided that compliant taxpayers who submit their Return of Income for 2023-24 (01 April 2023 to 31 March 2024) can only do so electronically by submitting an e-return.
-
-Whilst it is undoubtedly a step in the right direction, no consideration has been given to the fact that such a move should be made in a phased manner. In typically cavalier fashion, the department’s mandarins want to go from zero to a hundred, forgetting that many individual taxpayers have no experience submitting tax returns, let alone e-returns. I assume many new taxpayers who have not previously submitted tax returns annually have been inducted into the tax net.
-
-...
-
-[Data](articles/3a6a3815.json)
-
-[Extended Data](ext_articles/3a6a3815.ext.json)
 
 ---
 
@@ -2383,57 +2413,5 @@ The investigation was recovered by examining many CCTV footage and the police ha
 [Data](articles/9dba5110.json)
 
 [Extended Data](ext_articles/9dba5110.ext.json)
-
----
-
-### A/L is prohibited to use the phone during the examination
-
-*2024-11-23 19:23:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சையின்-போது-தொலைபேசி-பயன்படுத்த-தடை/175-347657) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"A/L students banned from using phones during exams. Commissioner General Amit Jayasundara prohibits Assistant Principals/Staff from mobile use during GCE Advanced Level Examination."
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundara said that the Assistant Principals or Staff were not allowed to use mobile phones during the GCE Advanced Level Examination.
-
-◼️
-
-[Data](articles/279b18f7.json)
-
-[Extended Data](ext_articles/279b18f7.ext.json)
-
----
-
-### It is best to hold provincial council elections - Vijitha Herath
-
-*2024-11-23 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199486) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Vijitha Herath: Hold provincial council elections in Q1 2024. Negotiate with parties to address legal issues. Accept High Court ruling. Support proportional electoral system. Resolve parliamentary crisis to expedite elections.
-
-🟩
-
-We will negotiate with all political parties to solve the legal problem in the provincial council electoral system. Minister of External Affairs, Foreign Employment and Tourism Development Vijitha Herath said that we are looking forward to holding local government elections within the first quarter of next year.
-
-We fully accept the verdict of the High Court to hold the local government elections soon. It would be appropriate to hold the local government elections for the cancellation of nominations demanded for the local government elections.
-
-We intend to hold the local government elections in the first quarter of the next year. Elections should be held in a timely manner according to the Constitution.
-
-Problems in the Provincial Council Election Act have affected the conduct of provincial council election. The boundary report has not been passed in Parliament.
-
-It is best to hold the provincial council election under the proportional electoral system.
-
-...
-
-[Data](articles/3e2de469.json)
-
-[Extended Data](ext_articles/3e2de469.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 17:12:51**
+As of **2024-11-24 17:26:33**
 
 ## Newspaper Stats
 
-*Scraped **56,585** Articles*
+*Scraped **56,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,394
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,322
+adalk | 5,323
 adaderanalk | 6,844
 tamilmirrorlk | 8,047
 virakesarilk | 9,203
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,585 (100.0%) of 56,585 articles have been extended.
+56,585 (100.0%) of 56,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### අයියර්ගේ වාර්තාව විනාඩි කිහිපයකින් පාන්ට් බිඳ දමයි
+
+*2024-11-24 16:52:42* · [`adalk`](https://www.ada.lk/sports/අයියර්ගේ-වාර්තාව-විනාඩි-කිහිපයකින්-පාන්ට්-බිඳ-දමයි/9-413237) · `si`
+
+ඉන්දීය ප්‍රිමියර් ලීග ක්‍රීඩක වෙන්දේසියේදී මේ දක්වා ක්‍රීඩකයෙක් අලෙවි වූ ඉහළම වටිනාකම බවට රිෂාබ් පාන්ට් බවට පත්විය. ඒ ඔහුව ඉන්දීය රුපියල් කෝටි 27ක මිලකට ලක්නව් සුපර් ජයන්ට් කණ්ඩායම මිලදී ගැනීමත් සමගිනි.
+
+ඔහුට පෙර එනම් විනාඩි කිහිපයට පෙර ෂෙර්යාස් අයියර් ඉන්දිය රුපියල් කෝටි 26.75 ට පංජාබ් කණ්ඩායම මිලදී ගත් අතර එය එතෙක් මෙතෙක් අයි.පී.එල්. ක්‍රීඩක වෙන්දේසියකදී ක්‍රීඩකයෙක් අලෙවි වූ ඉහළම වටිනාකම විය.
+
+◼️
+
+[Data](articles/ec12102e.json)
+
+---
 
 ### A IPL report from Iier
 
@@ -2469,37 +2483,5 @@ The situation was caused by the police and the arrangement was taken to remove t
 [Data](articles/afb5d788.json)
 
 [Extended Data](ext_articles/afb5d788.ext.json)
-
----
-
-### Zebra - Film Review
-
-*2024-11-23 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199501) · `ta`
-
-Here's a summary of the Zebra film review in approximately 200 characters:
-
-
-
-"Zebra", a survival thriller starring Satya Dev, explores bank fraud through twists and turns. Director's visual storytelling keeps audiences engaged. Strong performances from lead actors, including Sathyaraj in an unexpected role. Cinematography and background music enhance the thrilling plot, raising awareness about bank security.
-
-🟩
-
-Product: Old Town Pictures & Padmaja Films India Pvt Limited
-
-Actors: Satya Dev, Dali Tananjaya, Sathyaraj, Priya Bhavani Shankar, Sunil Verma, Satya, Jennifer Pikanido and many others.
-
-Ban Indian works have been increasingly from Telugu film industry and attracting Indian fanfare. The film 'Zebra' has been released, starring the leading star actors of the South Indian film industry.
-
-Is the film, which is a Survival Thriller Janer, attracted Ban Indian -level fans as usual?Or not?We will continue to see.
-
-Surya (Satyadev), the hero of the story, works as an employee in a private bank. Her girlfriend Priya Bhavani Shankar also works in the same bank. During the work, he credits 4 lakhs of rupees in Indian value for a customer's bank account.
-
-Where is the customer's money?Surya knowingly makes a mistake to save her girlfriend. That mistake makes him get into the biggest problem. Can he get out of it?Or not?The story of the film.
-
-...
-
-[Data](articles/6287eefe.json)
-
-[Extended Data](ext_articles/6287eefe.ext.json)
 
 ---

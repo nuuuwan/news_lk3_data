@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 19:41:35**
+As of **2024-11-24 18:48:55**
 
 ## Newspaper Stats
 
-*Scraped **56,623** Articles*
+*Scraped **56,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,521 +16,199 @@ islandlk | 3,395
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,326
-adaderanalk | 6,848
+adalk | 5,324
+adaderanalk | 6,846
 tamilmirrorlk | 8,048
-virakesarilk | 9,225
+virakesarilk | 9,216
 adaderanasinhalalk | 9,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,616 (100.0%) of 56,623 articles have been extended.
+56,594 (100.0%) of 56,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
 
-### Heavy showers above 150 mm expected in Eastern Province
-
-*2024-11-24 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103732/heavy-showers-above-150-mm-expected-in-eastern-province-) · `en`
-
-The Department of Meteorology states that the low pressure area over the southeast Bay of Bengal is likely to intensify into a depression over the southwest Bay of Bengal by November 25.
-
-The system is expected to further develop and move closer to the Eastern coast of the island, the department said in its latest weather forecast for the next 36 hours.
-
-Meanwhile, the Met. Department added that cloudy skies are expected over most parts of the island due to the influence of this system.
-
-Showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district. Showers or thundershowers will occur at several places elsewhere of the island during the evening or night, it added.
-
-...
-
-[Data](articles/7042c15c.json)
-
----
-
-### Honor the parents of the heroes at the Sampur Cultural Hall in Trincomalee
-
-*2024-11-24 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199582) · `ta`
-
-Event honors parents of 350 heroes in Trincomalee. Organized by Sampur-Alangulam Hero Day Memorial Committee. Parents received coconut saplings and lunch. Attended by local parliamentarian and public.
-
-🟩
-
-The event was held on Sunday (24) at the Sampur Cultural Hall.. It was organized by the Sampur - Alangulam Hero Day Memorial Committee.
-
-At the beginning of the event, the parents of the heroes were brought to the floral sprinkler ceremony hall and honored. This was followed by a silent tribute to the parents of the heroes.
-
-The parents of 350 heroes from the Trincomalee district were given coconut saplings. Their families were also provided with lunch.
-
-The event was attended by Trincomalee District Parliamentarian Shanmugam Kukadasan, the parents of the heroes and the public.
-
-◼️
-
-[Data](articles/a537eebe.json)
-
-[Extended Data](ext_articles/a537eebe.ext.json)
-
----
-
-### Crisis in the north of the new Fisheries Minister
-
-*2024-11-24 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199564) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Indian fishermen in northern Sri Lanka use prohibited fishing gear. They enter Vadapula seas, violating national borders. This is India's responsibility, not the central or state government's.
-
-🟩
-
-Indian fishermen in the north of Sri Lanka and Indian waters are important to fishing and using prohibited drag folds. Fishermen coming into the Vadapula seas in violation of the border of the country. These are the responsibility of the Government of India, not the central government and the state government.
-
-◼️
-
-[Data](articles/a4ee870c.json)
-
-[Extended Data](ext_articles/a4ee870c.ext.json)
-
----
-
-### New government boycotts minorities!
-
-*2024-11-24 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199563) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New government excludes minorities from cabinet, sparking concerns about equality and representation. President vows equal treatment despite controversial appointments. Left-wing critics argue against divisive cabinet composition.
-
-🟩
-
-A cabinet that does not include Muslims has been set up as a challenging issue for nationality and equality. Whatever the president claims to see all the races and territories with equality, it has become a cabinet formed to wedge the left -wing ideas.
-
-◼️
-
-[Data](articles/e72aa485.json)
-
-[Extended Data](ext_articles/e72aa485.ext.json)
-
----
-
-### Fisheries Faculty in Mannar
-
-*2024-11-24 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199561) · `ta`
-
-A new Fisheries Faculty is set to launch in Mannar under the University of Vavuniya. This comes as a disappointment, as an open university branch already operates in Mannar without a full-fledged faculty establishment.
-
-🟩
-
-Reports have surfaced that a Fisheries Faculty in Mannar District will be launched under the University of Vavuniya. It is a tragic news that although a branch of an open university in Mannar is operating, it has not yet been launched in Mannar district in Mannar district.
-
-◼️
-
-[Data](articles/1fbebaf9.json)
-
-[Extended Data](ext_articles/1fbebaf9.ext.json)
-
----
-
-### Sri Lanka's seabed cannot be fun when it is looted - Minister Ramalingam Chandrasekhar Special
-
-*2024-11-24 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199558) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's seabed looting condemned by Minister Ramalingam Chandrasekhar. China offers school uniforms for 2025. National People's Power Government ensures no country's sovereignty threatens Sri Lanka's.
-
-🟩
-
-China offers uniforms of school students for 2025. Such cooperation is necessary for Sri Lanka. The National People's Power Government is providing a guarantee that the sovereignty of any country will not contribute to the sovereignty of Sri Lanka.
-
-◼️
-
-[Data](articles/7ec7b695.json)
-
-[Extended Data](ext_articles/7ec7b695.ext.json)
-
----
-
-### Yall. Hartley's Mindan holds the record for taking five wickets in his debut match
-
-*2024-11-24 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199580) · `ta`
-
-Hartley's Mindan sets record with 5 wickets in debut match. Jaffna Hardley College player Akash takes 5 wickets for 27 runs, contributes 141 runs for Bangladesh team.
-
-🟩
-
-Jaffna Hardley College player Akash has taken five wickets for 27 runs and contributed to the Bangladesh team in 141 runs.
-
-◼️
-
-[Data](articles/b2c2c564.json)
-
-[Extended Data](ext_articles/b2c2c564.ext.json)
-
----
-
-### Deceit
-
-*2024-11-24 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199555) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National victory brings challenges: Government may struggle if Tamil issues remain unsolved and unresolved.
-
-🟩
-
-With the victory of the national people's power in the North, the government will start to suffer at an early stage if there is no problems for Tamils, no solutions and no powers.
-
-◼️
-
-[Data](articles/bbc5ffb0.json)
-
-[Extended Data](ext_articles/bbc5ffb0.ext.json)
-
----
-
-### Indian High Commissioner's answer to the question of Tamil
-
-*2024-11-24 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199557) · `ta`
-
-India's High Commissioner stated that India was not informed about the implementation of Sri Lanka's 13th Amendment. The President's policy speech lacked solutions to the ethnic issue during the Parliament inauguration.
-
-🟩
-
-At the inauguration of Parliament, President Anura Kumara Dissanayake's policy speech did not include any solution to the ethnic problem, ”said India that India had not been informed about the implementation of the 13th Amendment.
-
-◼️
-
-[Data](articles/bce52b55.json)
-
-[Extended Data](ext_articles/bce52b55.ext.json)
-
----
-
-### The setback for Tamil nationalism is not initiated
-
-*2024-11-24 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199553) · `ta`
-
-Tamil nationalism faces setbacks due to unresolved issues: political solutions, ethnic cleansing, occupation, normalcy, and daily struggles. Anura government ineffective in addressing these problems.
-
-🟩
-
-The Tamil people face the fundamental issue of political solution, the issue of ethnic cleansing, the occupation issue, the normalcy issue, the daily issue, and the daily issue.. The Anura government is not going to solve any of these.
-
-◼️
-
-[Data](articles/0158794f.json)
-
-[Extended Data](ext_articles/0158794f.ext.json)
-
----
-
-### Senior Prof. S.K. Rathnayake appointed to oversee Ruhuna Uni. administration
-
-*2024-11-24 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103731/senior-prof-sk-rathnayake-appointed-to-oversee-ruhuna-uni-administration) · `en`
-
-An extraordinary Gazette notification has been issued appointing Senior Prof. R.M.U.S.K. Rathnayake to be the competent authority for the purpose of exercising, performing and discharging in lieu of Vice Chancellor of the University of Ruhuna.
-
-The Gazette notification, issued by Prime Minister Harini Amarasuriya by virtue of the powers vested in her as the Minister of Education, Higher Education and Vocational Education, mentioned that the appointment was made on being satisfied that the administration of the University of Ruhuna have been seriously dislocated and that the authorities of the said university have failed to restore normal conditions.
-
-Accordingly, the appointment will come into effect from 25 November 2024, as per the Gazette notification.
-
-...
-
-[Data](articles/e60e3500.json)
-
----
-
-### Three arrests with ice and heroin drugs in Kalkisa
+### கல்கிசையில் ஐஸ், ஹெரோயின் போதைப்பொருள்களுடன் மூவர் கைது!
 
 *2024-11-24 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199550) · `ta`
 
-Here's a summary of 200 characters:
+கல்கிசை பொலிஸ் பிரிவுக்குட்பட்ட ரஷ்டம்வத்த மற்றும் பெலக்கடே சந்தி பகுதிகளில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருளுடன் மூவர் நேற்று சனிக்கிழமை (23) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
 
+கல்கிசை பொலிஸ் நிலைய அதிகாரிகள் குழுவுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட 03 சுற்றிவளைப்புக்களின்போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
 
+ரஷ்டம்வத்த, கம்புருபிடிய பிரதேசங்களைச் சேர்ந்த 23, 30 வயதுடைய இரு ஆண்களும்  கல்கிசை பிரதேசத்தைச் சேர்ந்த 30 வயதுடைய பெண்ணும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
 
-"3 arrests made in Kalkisa: 2 men & 1 woman caught with ice & heroin. Police conducted 3 raids based on Mount Lavinia intel. Seized 10g ice, 100ml heroin."
-
-🟩
-
-Three persons have been arrested by the police on Saturday (23) with ice and heroin drugs in Rashtamwatta and Belakade junction, which belongs to the Malkisai Police Division.
-
-They have been arrested during the three rounds of raids carried out on the basis of information received by a group of Mount Lavinia Police Station.
-
-Two men aged 23 and 30, from Rashtamwatta and Kamburuputiya areas, and a 30 -year -old woman from Malkisai area have been arrested by police.
-
-The arrested suspects were seized by the police by 10 gm 200 milligrams of ice, 05 g 100 ml of heroin and 10 g of 200 milligrams of ice.
+கைது செய்யப்பட்ட சந்தேக நபர்களிடமிருந்து 10 கிராம் 200 மில்லிகிராம் ஐஸ், 05 கிராம் 100 மில்லி கிராம் ஹெரோயின் மற்றும் 10 கிராம் 200 மில்லிகிராம் ஐஸ் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
 
 ◼️
 
 [Data](articles/fafaa52d.json)
 
-[Extended Data](ext_articles/fafaa52d.ext.json)
-
 ---
 
-### A competent authorrol for University of Ruhuna
+### රුහුණු විශ්වවිද්‍යාලයට නිසි බලධාරියෙකු පත් කෙරේ
 
 *2024-11-24 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203688) · `si`
 
-Here's a summary in approximately 200 characters:
+රුහුණු විශ්වවිද්‍යාලයේ පරිපාලන කටයුතු අධීක්ෂණය කිරීම සඳහා එම විශ්වවිද්‍යාලයේ උපකුලපති වෙනුවට නිසි බලධාරියා ලෙස ජ්‍යෙෂ්ඨ මහාචාර්ය ආර්. එම්. යූ. එස්. කේ. රත්නායක මහතා පත් කර තිබේ.
 
+අධ්‍යාපන අමාත්‍ය, අග්‍රමාත්‍ය හරිනි අමරසූරිය අති විශේෂ ගැසට් පත්‍රයක් අද (24) නිකුත් කරමින් මෙම පත්කිරීම සිදුකර ඇත.
 
+1978 අංක 16 දරන විශ්වවිද්‍යාල පනතේ 20(4(ආ) වන වගන්තිය යටතේ පැවරී ඇති බලතල ප්‍රකාරව මෙය නිකුත්කර ඇත.
 
-University of Ruhuna: Senior Professor Ratnayake appointed as Religion Ruler. Gazette cites confusion in administration. Non-academic staff strike against Vice Chancellor. Students support strike.
+රුහුණු විශ්වවිද්‍යාලයේ පරිපාලන කටයුතු බරපතල ලෙස අවුල් වී ඇති බවට සහ එය සාමාන්‍ය තත්ත්වයට නැවත පත් කිරීමට එම ආයතනයේ බලධාරීන් අපොහොසත් වී ඇති බව එහි සඳහන් වේ.
 
-🟩
-
-Senior Professor Religion Ruler to oversee the administrative matters of the University of Ruhuna. M. U. S. K. Mr. Ratnayake has been appointed.
-
-අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රමාත්‍ය හරිනි අමරසූරිය අති විශේෂ ගැසට් පත්‍රයක් අද (24) නිකුත් කරමින් මෙම පත්කිරීම සිදුකර ඇත.
-
-The appointment has been made in accordance with the powers vested with the powers vested with the powers vested in the university Act No. 16 of 1978.
-
-The Gazette said that the administrations of the University of Ruhuna had been seriously confused and re-restore it to normalize it.
-
-The non-academic staff has launched a strike in force to take action to remove the Vice Chancellor of the University of Ruhuna to remove him from the post.
-
-It was also reported that university students were also supported for the strike.
+ඒ අනුව පනත යටතේ හෝ ඒ යටතේ සාදන ලද නියමයක්, නියමාවලියක්, ප්‍රඥප්තියක්, අතුරු ව්‍යවස්ථාවක්, නියෝගයක් හෝ රීතියක් යටතේ විශ්වවිද්‍යාලයේ උපකුලපති වෙත පිළිවෙලින් පිරිනමන ලද කාර්ය හෝ කර්තව්‍ය ක්‍රියාත්මක කිරීම සඳහා රුහුණ විශ්වවිද්‍යාලයේ උපකුලපති වෙනුවට නිසි බලධරයා වශයෙන් ජ්‍යෙෂ්ඨ මහාචාර්ය ආර්. එම්. යූ. එස්. කේ. රත්නායක මහතා හෙට (25) සිට බල පැවැත්වෙන පරිදි පත් කර තිබේ.
 
 ◼️
 
 [Data](articles/613d48f7.json)
 
-[Extended Data](ext_articles/613d48f7.ext.json)
-
 ---
 
-### Special notice for students sit for the Matara A / L examination
+### මාතර උසස් පෙළ විභාගයට පෙනී සිටින සිසුන්ට විශේෂ දැනුම්දීමක්
 
 *2024-11-24 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203687) · `si`
 
-Matara AL exam: Disaster unit prepares boats, tractors for transport. No major flooding expected. Contact 244 134 for help if needed.
+හදිසි ආපදා තත්ත්වයක් ඇතිවුවහොත් හෙට (25) දිනයේ උසස් පෙළ විභාගයට පෙනී සිටින සිසුන්ට විභාග මධ්‍යස්ථාන වෙත ගමන් කිරීමට ඊට අවශ්‍ය පියවර ගෙන තිබෙන බව මාතර දිස්ත්‍රික් ආපදා කළමනාකරණ සම්බන්ධිකරණ ඒකකය පවසයි.
 
-🟩
+එම ඒකකයේ සහකාර අධ්‍යක්ෂ ලුතිතන් කර්නල් කැළුම් කුඩාගමගේ මහතා පැවසුවේ, හෙට දිනයේ ද ගංවතුර තත්ත්වය පැවතුණහොත් උසස් පෙළ විභාහගයට පෙනී සිටින දරුවන්ට සිය විභාග මධ්‍යස්ථාන වෙත ගමන් කිරීම සඳහා අවශ්‍ය නාවික හමුදා බෝට්ටු, ට්‍රැක්ටර් හා යුද හමුදා යුනිබෆර් රථ මෙන්ම ප්‍රාදේශීය ලේකම් කාර්යාල හා ප්‍රාදේශීය සභා සතුව පවතින බෝට්ටු හා ට්‍රැක්ටර් රථද අවශ්‍ය පරදි යෙදවීමට සුදානම් කොට ඇති බවය.
 
-The Matara District Disaster Management Coordinating Unit, the Matara District Disaster Management Coordinating Unit has taken steps to travel to the examination centers.
+එමෙන්ම,  කිසියම් ආපදා තත්ත්වයක් හමුවේ විභාගය සඳහා ගමන් කිරීමට ගැටලුවක් පවතින්නේ නම් පැය 24 පුරා ක්‍රියාත්මක 0412 234 134 දුරකථන අංකයට දුරකථන ඇමතුමක් ලබා දී අවශ්‍ය සහාය ලබා ගැනීමට කටයුතු කරන ලෙසටද ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
 
-Assistant Director of the Unit, Lieutenant Colonel Kelum Kelugamage, the floods will be held tomorrow due to the children who appear to go to the A / L examination centers.The boat and tractor vehicles have also been prepared to be deployed.
+කෙසේ නමුත ඊයේ (23) රාත්‍රියේ සිට අද (24) පස්වරු 4.00 දක්වා කාලය තුළ මාතර දිස්ත්‍රික්කයේ කිසිදු ප්‍රදේශයකට සැලකිය යුතු වර්ෂාපතනයක් ලැබී නොමැති බව වාර්තා වේ.
 
-He also said that if there is a problem to travel to the exam before a disaster, he added and the 244 134-hour operation will be telephoned and obtain necessary assistance.
-
-However, no significant rainfall in the Matara district has received significant rainfall today (24) at 4.00 pm.
-
-According to the Matara Disaster Management Unit, the Matara Disaster Management Unit (DMC) said.
-
-◼️
+...
 
 [Data](articles/749c9f6b.json)
 
-[Extended Data](ext_articles/749c9f6b.ext.json)
-
 ---
 
-### New weapon against Tamils!
+### தமிழருக்கு எதிராக புதிய ஆயுதம்!
 
 *2024-11-24 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199541) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New weapon against Tamils! National power aims to expand control in North and East. Not addressing people's aspirations or meeting fair expectations.
-
-🟩
-
-“As far as the national popular power is concerned, it is intended to spread its powers across the North and East- not ready to solve the aspirations of the people or meet fair expectations.”
+“தேசிய மக்கள் சக்தியை பொறுத்தவரையில் தனது அதிகாரங்களை  வடக்கு, கிழக்கு எங்கும் பரப்ப நினைக்கிறதே தவிர- மக்களின் அபிலா ஷைகளை தீர்க்கவோ, நியாயமான எதிர்பார்ப்புகளை நிறைவேற்றவோ தயாராக இல்லை”
 
 ◼️
 
 [Data](articles/7ab2ce25.json)
 
-[Extended Data](ext_articles/7ab2ce25.ext.json)
-
 ---
 
-### A man arrested with ice and heroin in Kelaniya
+### களனியில் ஐஸ், ஹெரோயினுடன் ஒருவர் கைது!
 
 *2024-11-24 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199540) · `ta`
 
-Arrest made in Kelaniya: 516g ice, 10g heroin seized. Suspect apprehended based on tip-off.
+களனி பொலிஸ் பிரிவுக்குட்பட்ட பதலஹேனவத்த பிரதேசத்தில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (23) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
 
-🟩
+களனி பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
 
-A suspect has been arrested by police on Saturday (23) with ice and heroin in the Patalahenawatta area belonging to the Kelani Police Division.
-
-He was arrested on the basis of confidential information received by a group of police officers of the Kelaniya Police Station.
-
-516 grams of ice and 10 grams of heroin were seized from the suspect.
+சந்தேக நபரிடமிருந்து 516 கிராம் ஐஸ் போதைப்பொருள் மற்றும் 10 கிராம் ஹெரோயின் பொலிஸாரால் கைப்பற்றப்பட்டது.
 
 ◼️
 
 [Data](articles/4df73c3e.json)
 
-[Extended Data](ext_articles/4df73c3e.ext.json)
-
 ---
 
-### Who was responsible for the fall of the CWC?
+### இ.தொ.கா.வின் வீழ்ச்சிக்கு காரணம் யார்?
 
 *2024-11-24 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199537) · `ta`
 
-CWC fell due to contesting elephant symbol against presidential election results. Party supporters believe two seats could've been won if they'd contested with cock symbol instead.
-
-🟩
-
-The CWC decided to contest the elephant symbol for the Sinhala votes, despite the presidential election results, which all the Sinhalese voters of the district were on the side of the national people's power.. Most of the party's supporters are of the opinion that sometimes the two seats may have been won if the cock has competed.
+மாவட்டத்தின் சிங்கள வாக்காளர்கள் அனைவருமே தேசிய மக்கள் சக்தியின் பக்கம் இருப்பதை ஜனாதிபதித் தேர்தல் முடிவுகள் உணர்த்தியும், சிங்கள வாக்குகளுக்காக யானை சின்னத்தில் போட்டியிட இ.தொ.கா முடிவு செய்தது. சில நேரங்களில் சேவல் சின்னத்தில் போட்டியிட்டிருந்தால் இரண்டு ஆசனங்களை வென்றிருக்கலாம் என்பது கட்சியின் பெரும்பாலான ஆதரவாளர்களின் கருத்தாக இருக்கின்றது.
 
 ◼️
 
 [Data](articles/3f504797.json)
 
-[Extended Data](ext_articles/3f504797.ext.json)
-
 ---
 
-### Initiative
+### தண்ணிமுறிப்பு குளத்தினை பாதுகாக்கும் நடவடிக்கைகள் முன்னெடுப்பு
 
 *2024-11-24 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199574) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dam protection efforts underway in Mullaitivu district. Water level reaches 14.6 feet.
-
-🟩
-
-In the Mullaitivu district, the preceding arrangements are being made to protect the dam.It is noteworthy that the water level is now up to 14.6 feet.
+முல்லைத்தீவு மாவட்டத்திலுள்ள தண்ணிமுறிப்பு குளத்தின் அணைக்கட்டு உடைப்பெடுக்காத வகையில் அதனைப் பாதுகாக்கும் முன்னாயத்த ஏற்பாடுகள் இடம்பெற்று வருகின்றது.தண்ணிமுறிப்பு குளத்தின் அணைக்கட்டு உள் பக்கமாக சில இடங்களில்  அரிப்பு ஏற்பட்டுள்ளதையடுத்து அணைக்கட்டு, குளத்தைப் பாதுகாப்பதற்காகத் தற்காலிகமாக மண்மூடைகள் போடப்பட்டு, பாதுகாப்பு வேலி அமைக்கும் வேலைத்திட்டத்தை நீர்ப்பாசனத் திணைக்களத்தினர் இராணுவத்தினரோடு இணைந்து பாதுகாக்கும் நடவடிக்கையினை முன்னெடுத்து வருகின்றனர்.தண்ணிமுறிப்பு குளமானது 21 அடி வரை நீரைச் சேமிக்கக் கூடியதாக இருக்கின்ற நிலையில் தற்போது 14.6" அடி  வரை  நீர் மட்டம் உயர்ந்த நிலையில் காணப்படுகின்றமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/207f4d38.json)
 
-[Extended Data](ext_articles/207f4d38.ext.json)
-
 ---
 
-### More than 150 millimeters of heavy rainfall in many provinces - the Department of Meteorology
+### பல மாகாணங்களில் 150 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் - வளிமண்டலவியல் திணைக்களம்
 
 *2024-11-24 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199573) · `ta`
 
-Heavy rainfall warning: 150+ mm expected in multiple provinces. Eastern Province, Northern, Central, Uva, Hambantota districts at risk. Landslide danger in Galle, Matara, Kegalle, Badulla, Nuwara Eliya, Ratnapura districts.
+பல மாகாணங்களில் 150 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
 
-🟩
+கிழக்கு மாகாணத்தின் சில இடங்களில் 150 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என மேலும் தெரிவிக்கப்பட்டுள்ளது.
 
-The Department of Meteorology has said that more than 150 millimeters of heavy rainfall is expected in many provinces.
+வடக்கு, மத்திய வடக்கு, மத்திய மற்றும் ஊவா மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்தின் சில இடங்களிலும் 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
 
-Heavy rains are likely to occur in some parts of the Eastern Province.
-
-The Department of Meteorology has said that more than 100 millimeters of heavy rainfall is expected in the Northern, Central, Central and Uva provinces and some parts of the Hambantota district.
-
-The National Building Research Institute said that this risk of landslides has been extended to the districts of Galle, Matara, Kegalle, Badulla, Nuwara Eliya and Ratnapura.
+காலி, மாத்தறை, கேகாலை, பதுளை, நுவரெலியா மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களுக்கு இந்த மண்சரிவு அபாயம் நீடிக்கப்பட்டுள்ளதாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/b6cd96b2.json)
 
-[Extended Data](ext_articles/b6cd96b2.ext.json)
-
 ---
 
-### Says US in America
+### අදානිට අමෙරිකාවෙන් සිතාසි
 
 *2024-11-24 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203686) · `si`
 
-US SEC accuses India's Adani Group of bribery. Adani Green's CEO faces charges related to renewable energy projects. Indian officials and international investors demand answers. US orders defendants to appear in New York court within 21 days.
+ඉන්දීය සුප්‍රකට ව්‍යාපාරික ගෞතම් අදානිට එල්ලවී ඇති අල්ලස් චෝදනාවලට අදාළව අමෙරිකාවේ සුරැකුම්පත් සහ විනිමය කොමිසම සිතාසි නිකුත් කර තිබේ.
 
-🟩
+එමෙන්ම ඔහුගේ බෑණනුවන් වන 'Adani Green'හි විධායක අධ්‍යක්ෂ සාගර් අදානිට ද එම චෝදනා සම්බන්ධයෙන් සිතාසි නිකුත් කර ඇත.
 
-The United States Securities and Exchange Commission has issued a sum of bribery accusations against India's famous business.
+ඒ පුනර්ජනනීය බලශක්ති ව්‍යාපෘති තම සමාගම වෙත ලබාගැනීමේ අරමුණින් ඉන්දීය නිලධාරීන් වෙත අල්ලස් ලබාදී ඇති බවටත්, අමෙරිකානු ආයෝජකයින් ඇතුළු ජාත්‍යන්තර ආයෝජකයින් මුලාකර ඇති බවටත් යන චෝදනාවලට අදාළව ය.
 
-And the Executive Director of Adani Green, "Adni Green ', has also issued the executive director of Adneracy' ADANI GREEN '.
-
-These renewable energy projects have been accepted by the Indian officials and the allegations of international investors and international investors have been demanded.
-
-Accordingly, the United States has ordered them to report to a New York court in the 21 days.
+ඒ අනුව දින 21 තුළ නිව්යෝර්ක් හි අධිකරණයක් වෙත වාර්තා කරන ලෙසට අමෙරිකාව ඔවුන්ට නියෝග කර ඇත.
 
 ◼️
 
 [Data](articles/d87cbc10.json)
 
-[Extended Data](ext_articles/d87cbc10.ext.json)
-
 ---
 
-### Will the Port government deal with?
+### ‘எல்’ போர்ட் அரசு சமாளிக்குமா?
 
 *2024-11-24 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199536) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"JVP's 159 elected MPs shocked by parliament building situation. The party expresses surprise over the current state of the legislative assembly."
-
-🟩
-
-"As for the JVP, 159 of the 159 MPs who were elected from the party are surprised by the parliamentary building."
+“ஜே.வி.பி.யை பொறுத்தவரையில் அந்த கட்சியில் இருந்து தெரிவு செய்யப்பட்ட 159 பாராளுமன்ற உறுப்பினர்களில் 150 பேர் பாராளுமன்ற கட்டடத்தை அண்ணாந்து பார்த்து வியக்கின்ற நிலையில் இருப்பவர்கள்”
 
 ◼️
 
 [Data](articles/96dcde7c.json)
 
-[Extended Data](ext_articles/96dcde7c.ext.json)
-
 ---
 
-### War of Ukraine!
+### உக்கிரமாகும் உக்ரேன் போர்!
 
 *2024-11-24 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199530) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
-
-
-
-N
-
-🟩
-
-There is no stressful evidence that there is no pressure on the North Korean soldiers in Russia or that they are participating in the anti -Ukraine operations.. It is not a new issue for the United States to impose on his enemies. The world has seen it in the case of Sadan Hasain.
+ரஷ்யாவில் வட கொரியப் படையினர் உள்ளனர் என்பதற்கோ அவர்கள் உக்ரேனுக்கு எதிரான படை நடவடிக்கைகளில் பங்கு பெறுகிறார்கள் என்பதற்கோ இதுவரை எந்தவொரு அழுத்தமான ஆதாரமும் இல்லாத நிலையில் அந்தக் குற்றச்சாட்டுக்கு என்ன வலுவுள்ளது என்பது புரியவில்லை. தனது இலக்கை அடைய ஆதாரமில்லாத குற்றச்சாட்டுகளை தனது எதிரிகள் மீது சுமத்துவது அமெரிக்காவைப் பொறுத்தவரை புதிய விடயமல்ல. சதான் ஹசைன் விடயத்திலேயே உலகம் அதனைப் பார்த்துவிட்டது.
 
 ◼️
 
 [Data](articles/4532c43e.json)
 
-[Extended Data](ext_articles/4532c43e.ext.json)
-
 ---
 
-### The expectation of the Muslim community on the government
+### அநுர அரசாங்கத்தின் மீதான முஸ்லிம் சமூகத்தின் எதிர்பார்ப்பு
 
 *2024-11-24 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/199528) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-Muslims expect the government to represent their community fairly in Cabinet appointments. This ensures diversity and brings diplomatic advantages, enhancing the government's image and credibility.
-
-🟩
-
-It is best to reflect the tooth of the cabinet in the same way that the multitude of this country is expressed in parliamentary representations. Appointing a Muslim in a cabinet is not just a recognition of Muslims. It will bring many diplomatic benefits to the government. It can also make a better appearance.
+இந்த நாட்டின் பல்லினத் தன்மை எவ்வாறு பாராளுமன்ற பிரதிநிதித்துவங்களில் வெளிப்படுத்தப்பட்டுள்ளதோ அதுபோலவே அமைச்சரவையிலும் பல்லினத்தன்மை பிரதிபலிப்பதே சிறந்ததாகும். முஸ்லிம் ஒருவரை அமைச்சரவையில் நியமிப்பது முஸ்லிம்களுக்கு கொடுக்கின்ற அங்கீகாரம் மட்டுமல்ல. அது அரசாங்கத்திற்கே பல இராஜதந்திர நன்மைகளை கொண்டு வரும். சிறந்ததொரு தோற்றப்பாட்டையும் ஏற்படுத்தும்.
 
 ◼️
 
 [Data](articles/e5e3a5f7.json)
-
-[Extended Data](ext_articles/e5e3a5f7.ext.json)
 
 ---
 
@@ -746,26 +424,6 @@ Before him, Sheryas Iire bought the Paranb team for Rs.. A player was the highes
 
 ---
 
-### මන්ත්‍රීවරුන්ගේ වරප්‍රසාද හා වරදාන ඉදිරියේදී නැතිවෙනවා
-
-*2024-11-24 16:38:29* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීවරුන්ගේ-වරප්‍රසාද-හා-වරදාන-ඉදිරියේදී-නැතිවෙනවා/11-413236) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට ලැබෙන වරප්‍රසාද වරදාන ඉදිරියේදී නොලැබී යන විට මාලිමාවෙන් හැර වෙනත් පක්ෂයකින් ඉදිරි මැතිවරණ සඳහා ඉදිරිපත් නොවනු ඇති බවත් මේ රජයේ පාලන කාලය හමාර වන විට එවැනි තත්ත්වයක් උද්ගත වනු ඇති බව කෘෂිකර්ම වාරිමාර්ග හා පශු සම්පත් අමාත්‍ය කේ.ඩී. ලාල් කාන්ත මහතා පවසයි.
-
-ඒ මහතා ඒ බව අවධාරණය කර සිටියේ මහනුවරදී මාධ්‍ය හමුවේ අදහස් දක්වමිනි. එහිදී ඒ මහතා වැඩිදුරටත් මෙසේ පැවසීය.
-
-එවැනි තත්ත්වයක් උඩ ඉදිරියේදී පක්ෂ විසුරුවා හැරීම වැනිතීරණ ගත හැකි බවත්පාර්ලිමේන්තු මැතිවරණ සඳහා ඉදිරිපත්වීමට පුද්ගලයන් නොමැති වූ විට එවැනි තත්ත්වයක් උද්ගත විය හැකි බවද අමාත්‍යවරයා පවසයි.
-
-මෙවර මැතිවරණය එන විට කොටසක් තරග නොකරම විසිර ගිය බවත්නියමාකාරයට වැඩක් සිදු වන විටසමහර ආයතන පක්ෂ හා ව්‍යුහයන්රටට අවශ්‍යනැතිවී යන බවද පැවසිය.
-
-වෘත්තිය සමිති වල හඬට සංවේදීව ඇහුම්කන්දීගැටලු නිරාකරණය කිරීමට රජයමැදිහත් වන විට වෘත්තීය සමිතිවල අවශ්‍යතාවයහීන වී යන බවදඅමාත්‍යවරයා පැවසීය.
-
-...
-
-[Data](articles/8570012e.json)
-
----
-
 ### A History of Sriyas Iire at the IPL Auction
 
 *2024-11-24 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203683) · `si`
@@ -815,24 +473,6 @@ He was submitted to the athletes this year under a basic bid of the Indian rupee
 [Data](articles/23e31a61.json)
 
 [Extended Data](ext_articles/23e31a61.ext.json)
-
----
-
-### ලංකාව හරහා කැනඩාවට යන්න ගිය ඉන්දියානුවන්ට වැඩ වරදියි
-
-*2024-11-24 16:04:59* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-හරහා-කැනඩාවට-යන්න-ගිය-ඉන්දියානුවන්ට-වැඩ-වරදියි/11-413233) · `si`
-
-ජාත්‍යන්තර පොලිසියේ අස්ථාන ගත වූ ලේඛනයෙහි සදහන් ගමන් බලපත්‍රයක් උපයෝගී කර ගෙන ශ්‍රී ලංකාව හරහා කැනඩාවට පළා යාමට තැත් කළ ඉන්දීය ජාතික තරුණියක ඇතුළු තවත් දෙදෙනෙකු 11/23 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන ආපසු  පිටුවහල් කිරීම පියවර ගෙන තිබේ.
-
-ඇය 24 හැවිරිදි ගුජරාට් ප්‍රාන්තයේ , අහමදාබාද් නුවර පදිංචිකාරිනියකි.ඇය 11/23 දින පස්වරු 03.00 ට ඉන්දියාවේ මුම්බායි නුවර සිට , ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 231 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
-
-ඉන්පසු ඇය ශ්‍රී ලංකාවට ඇතුළු වීම සදහා වීසා බලපත්‍රය ලබා ගෙන ඇයගේ ඉන්දීය ගමන් බලපත්‍රය ඇතුළු අනෙකුත් ලියකියවිලි නිශ්කාශනය සදහා ආගමන කවුළුව වෙත භාර දීමට පියවර ගෙන තිබුණි.
-
-එහිදී ඇයගේ ඉන්දීය ජාතික ගමන් බලපත්‍රය , ජාත්‍යන්තර පොලිසියේ අස්ථාන ගත වූ සහ සොරකම් කරන ලද දත්ත ලේඛනයෙහි සදහන්ව ඇති බව අනාවරණය විය .
-
-...
-
-[Data](articles/63585c5f.json)
 
 ---
 
@@ -2308,8 +1948,6 @@ In Sri Lanka, Rajapaksas epitomized Kakistocracy for nearly two decades before i
 
 [Data](articles/c3d394a2.json)
 
-[Extended Data](ext_articles/c3d394a2.ext.json)
-
 ---
 
 ### IMF to closely discuss upcoming budget with Sri Lanka
@@ -2423,5 +2061,229 @@ The Sri Lanka Cancer Society (SLCS) is a dedicated non-profit organization commi
 [Data](articles/1eb5db7b.json)
 
 [Extended Data](ext_articles/1eb5db7b.ext.json)
+
+---
+
+### EMBRACE THE SPIRIT OF KINDESS WITH THE PEOPLE’S MARKET!
+
+*2024-11-24 04:38:00* · [`islandlk`](http://island.lk/embrace-the-spirit-of-kindess-with-the-peoples-market/) · `en`
+
+Get ready to embrace the festive season with a unique shopping experience that supports local entrepreneurs – The People’s Market!
+
+Taking place on Saturday November 30, this year’s market promises a festive extravaganza with a wide range of products; from traditional spices to artisanal crafts, delicious food to sustainable fashion. Each item tells a story of passion, hard work and the pursuit of dreams. By shopping at The People’s Market, you’re not just making a purchase; you’re investing in the future of communities, an MJF news release said last week.
+
+“We’ve been artisans for over 20 years, but when we lost our business, the People’s Market was a platform where we could try something new” says Melanie, co owner of Taste-it, Homemade Goodies. Today she and her husband are running a thriving culinary venture that is a popular attraction at the People’s Market.
+
+...
+
+[Data](articles/462b5e03.json)
+
+[Extended Data](ext_articles/462b5e03.ext.json)
+
+---
+
+### Suwa Diviya ‘Live Well Health Fair’ brings health and wellness to Colombo
+
+*2024-11-24 04:37:00* · [`islandlk`](http://island.lk/suwa-diviya-live-well-health-fair-brings-health-and-wellness-to-colombo/) · `en`
+
+Suwa Diviya, a non-profit initiative dedicated to combating the rising incidence of diabetes, last week announced the ‘Live Well Health Fair’—the first event of its kind in Sri Lanka. The fair will take place on Saturday (30) at the Arcade Independence Square, Colombo 07, from 10:00 am to 6:00 pm.
+
+The event primarily targets the public, including children, the youth, and senior citizens alike, and aims to raise awareness of the crucial need to lead a healthy lifestyle void of non-communicable diseases detrimental to health and well-being, a news release said.
+
+“The health initiative, a brainchild of Suwa Diviya is based on the strong belief that health education and awareness are quintessential elements that need to be integrated with modern lifestyles,” it said.
+
+...
+
+[Data](articles/602508e6.json)
+
+[Extended Data](ext_articles/602508e6.ext.json)
+
+---
+
+### My Final Chapter in Sri Lanka
+
+*2024-11-24 04:34:00* · [`islandlk`](http://island.lk/my-final-chapter-in-sri-lanka/) · `en`
+
+In 1994, I had the privilege of working at the Galle Face Hotel (GFH) as the Consultant to its Chairman, Cyril Gardiner. Over time, our professional relationship evolved into a warm camaraderie. Cyril had a sharp sense of humour. On one occasion, while discussing the maintenance challenges faced by historic seaside hotels like Mount Lavinia Hotel (MLH) and GFH, he quipped, “Chandana, GFH is only 130 years old!”
+
+Cyril was a master of public relations, capable of crafting newsworthy stories and engaging with leading international journalists. He turned what might seem like eccentric behaviour into captivating narratives for the media. His knack for creating publicity was not accidental but meticulously orchestrated, a lesson I was fortunate to learn first-hand.
+
+...
+
+[Data](articles/68791ac2.json)
+
+[Extended Data](ext_articles/68791ac2.ext.json)
+
+---
+
+### ComBank and Hayleys Solar donate solar power system to VT centre, temple in Tissamaharama
+
+*2024-11-24 04:30:00* · [`islandlk`](http://island.lk/combank-and-hayleys-solar-donate-solar-power-system-to-vt-centre-temple-in-tissamaharama/) · `en`
+
+The Commercial Bank of Ceylon and Hayleys Solar recently donated a photovoltaic solar panel power supply system for the use of the Sri Kavantissa Vocational Training Centre in Tissamaharama and the Tissamaharama Raja Maha Vihara.
+
+The 40kW on-grid solar power system benefits the students receiving vocational training at the centre as well as devotees from all around the island that visit the temple, and helps the two institutions to reduce their electricity costs.
+
+The donation by the two companies flows from a strategic collaboration between Commercial Bank and Hayleys Solar to provide concessionary terms under the Bank’s ‘Diribala Green Development Loan’ scheme for businesses to purchase solar power systems from Hayleys Solar with a number of exclusive benefits.
+
+...
+
+[Data](articles/123e8d1c.json)
+
+[Extended Data](ext_articles/123e8d1c.ext.json)
+
+---
+
+### New Anthoney’s Group signs pledge to combat Antimicrobial Resistance during World AMR Awareness Week
+
+*2024-11-24 04:27:00* · [`islandlk`](http://island.lk/new-anthoneys-group-signs-pledge-to-combat-antimicrobial-resistance-during-world-amr-awareness-week/) · `en`
+
+Reassuring its commitment toward a healthier nation and advocating for an antibiotic-free poultry industry in Sri Lanka, New Anthoney’s Group, has signed an official pledge in view of World Antimicrobial Resistance Awareness Week (WAAW) held from 18-24 November.
+
+The event took place at the group’s Hanwella-based HQ on 19 November, with the participation of some of its key customers, partners, health-sector professionals, the board and staffs. The group’s managing director Mr. Emil Stanley gave an opening speech, followed by an insightful series of presentations, including Dr. Kishani Dinapala as key resource person representing WHO Sri Lanka, on the importance of AMR.
+
+This comes as part of a series of WAAW-focused activities by New Anthoney’s Group, aiming to inspire collective action against AMR and promote the “One Health” approach, which integrates human, animal, and environmental health practices.
+
+...
+
+[Data](articles/023561d7.json)
+
+[Extended Data](ext_articles/023561d7.ext.json)
+
+---
+
+### Dilip Fonseka of Ceylon Pharma College wins ‘Revolutionary Thinker’ Award
+
+*2024-11-24 04:25:00* · [`islandlk`](http://island.lk/dilip-fonseka-of-ceylon-pharma-college-wins-revolutionary-thinker-award/) · `en`
+
+Dilip Fonseka, the founder of Ceylon Pharma College, received the “Revolutionary Thinker in Pharmacy and Education” award at Asia’s Icon Awards for his groundbreaking contributions to pharmaceutical education. Established in 2020, the college has grown from 10 to over 3,000 students in four years. It offers comprehensive courses like the Advanced and Certificate Courses in Pharmacy Practice, catering to aspiring pharmacists, healthcare professionals, and those planning to work abroad. The college features a Digital Pharmacy portal for practical learning and offers flexible online and in-person study options. Ceylon Pharma College has previously won several prestigious awards for its educational excellence.
+
+Softlogic Life sweeps board at SLIM Digis 2024 becoming most awarded brand along with coveted Grand Prix
+
+ComBank and Hayleys Solar donate solar power system to VT centre, temple in Tissamaharama
+
+...
+
+[Data](articles/564b4664.json)
+
+[Extended Data](ext_articles/564b4664.ext.json)
+
+---
+
+### Women in Politics – Local and two from UK, US
+
+*2024-11-24 04:13:00* · [`islandlk`](http://island.lk/women-in-politics-local-and-two-from-uk-us/) · `en`
+
+The 2024 Parliamentary elections have broken records and earned first evers for more than one reason. One very encouraging fact is that women’s representation has increased to over 10%. This trend, we are certain, will continue. 21 women MPs have been elected and 19 are from the NPP including Ambiga Selvam from Badulla who comes from the tea plantation worker sector. That is such good news. Two are from the SJB: Chamindrani, daughter of Lakshman Kiriella and Rohini Kaviratne, re-elected from Matale. Three more are expected from the NPP national list. This against only 13 women MPs in the previous government.
+
+Much though they deserve writing about, I move overseas, since these women in Parliament will be known to all via local media and of course conversation, even gossip.
+
+...
+
+[Data](articles/8c2fd577.json)
+
+[Extended Data](ext_articles/8c2fd577.ext.json)
+
+---
+
+### Kathmandu 1987 and Islamabad 1988
+
+*2024-11-24 03:58:00* · [`islandlk`](http://island.lk/kathmandu-1987-and-islamabad-1988/) · `en`
+
+At the Third SAARC Summit Meeting in Nepal on November 2-4, 1987, 1 had called for going “full sail ahead” with the King of Nepal in the host’s chair. I said:
+
+“As we all know, regionalism in South Asia has had a late beginning. One of the remarkable developments since the Second World War has been the spread of regionalism, manifested in the setting up of regional organizations which have to cover most of the globe. The fact that SAARC came to be formed so late has been explained by the disparities and imbalances within our region. Nevertheless, there is at the same time, an underlying homogeneity among South Asian countries, on which we hope to build an enduring regionalism for the common benefit of all of us.
+
+...
+
+[Data](articles/33039b22.json)
+
+[Extended Data](ext_articles/33039b22.ext.json)
+
+---
+
+### The NPP’s ascent and the Opposition’s descent in Sri Lanka
+
+*2024-11-24 03:56:00* · [`islandlk`](http://island.lk/the-npps-ascent-and-the-oppositions-descent-in-sri-lanka/) · `en`
+
+At parliamentary elections in Sri Lanka last week, the centre-left National People’s Power (NPP) checked all lists and squared all circles, winning not just traditional seats but also polling divisions populated by minority communities.
+
+Speaking to the media on Friday, November 15, hours after general election results were announced in Sri Lanka, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP), the dominant member in the National People’s Power (NPP) alliance that governs the country, acknowledged that his party would commit to “developing the country, eradicating corruption, and enhancing democracy with accountability.”
+
+Silva’s remarks came in the backdrop of one of the biggest electoral landslides in the island’s political history: the NPP, reduced to three seats at the 2020 general election, gained a two-thirds majority, obtaining 159 seats and 61 percent of the vote, last week.
+
+...
+
+[Data](articles/2edb5ec6.json)
+
+[Extended Data](ext_articles/2edb5ec6.ext.json)
+
+---
+
+### Netanyahu welcomes Trump’s re-election to second term
+
+*2024-11-24 03:54:00* · [`islandlk`](http://island.lk/netanyahu-welcomes-trumps-re-election-to-second-term/) · `en`
+
+Trump’s new Ambassador to Israel: “There’s really no such thing as a Palestinian”
+
+The re-election of Donald Trump to a second term of the presidency of the United States has changed the ideological trajectory of the future of the United States. At least for the foreseeable future.But it has sealed the fate of the Palestinian people in the Gaza Strip and the West Bank. Permanently.
+
+To even consider the validity of the above statement, one must look into the constitutional, conventional and practical qualifications for the Presidency of the United States. Constitutionally, the President must be at least 35 years of age, be a natural born citizen and must have lived in the United States for at least 14 years.
+
+...
+
+[Data](articles/28b393ff.json)
+
+[Extended Data](ext_articles/28b393ff.ext.json)
+
+---
+
+### The Dawn of a New Era
+
+*2024-11-24 03:44:00* · [`islandlk`](http://island.lk/the-dawn-of-a-new-era/) · `en`
+
+About 20 years ago, I used the same title, in a writing dealing with Mahinda Rajapaksa’s triumphant ascent to power, published in an issue of the Sunday Island. In that I expressed my deep apprehensions of a Rajapaksa dispensation. As the years unfolded, the grim realities of years of misrule, with the younger Rajapaksa outdoing the elder brother in criminality, corruption and incompetence, exceeded the worst fears of my imagination. In between, not to be forgotten, there was also the crushingly disappointing “yahapalanya” farce, perpetrated by the Sirisena-Wickremesinghe collaboration.
+
+...
+
+[Data](articles/660f2a21.json)
+
+[Extended Data](ext_articles/660f2a21.ext.json)
+
+---
+
+### The Jenolan Caves of New South Wales
+
+*2024-11-24 03:44:00* · [`islandlk`](http://island.lk/the-jenolan-caves-of-new-south-wales/) · `en`
+
+(The largest, most spectacular and most famous tourist caves in Australia)
+
+Of the several groups of limestone caves in the Blue Mountains of New South Wales in Australia the most famous are the Jenolan Caves. These are well-managed and open to the public while three other known groups of caves are not sufficiently developed to allow visitors.
+
+The Jenolan caves, some 175 kilometres to the west of Sydney, got their name from the aboriginal name ‘Genowlan’ for a mountain in the district and are said to have been accidently discovered by Charles Whalam in 1838 when he was on the trail of an escaped convict turned highway robber.
+
+...
+
+[Data](articles/98027d34.json)
+
+[Extended Data](ext_articles/98027d34.ext.json)
+
+---
+
+### Happily, ever after?
+
+*2024-11-24 03:37:00* · [`islandlk`](http://island.lk/happily-ever-after/) · `en`
+
+2024 election season marked final act of the ‘Our Saviour II’ drama which premiered in November 2019. The NPP/JVP’s unprecedented victories would not have happened without Gotabaya Rajapaksa’s unprecedented presidential record, turning a lower-middle income country to a bankrupt one in less than three years.
+
+On July 5, 2022, a 60-year-old man died in a petrol queue in Borella. And the Gota-go-gama protesters gave Gotabaya Rajapaksa three days to resign from the presidency.
+
+On July 8, thousands of university students marched to the Galle Face Green in a massive procession, resisting barrages of tear gas and water cannon. People lined the streets cheering them on. “We are suffering a lot,” one woman cried. “These children should be protected by the gods. We are trying to correct a wrong we did… We are coming tomorrow.”
+
+...
+
+[Data](articles/12d688f2.json)
+
+[Extended Data](ext_articles/12d688f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 11:12:54**
+As of **2024-11-24 11:42:13**
 
 ## Newspaper Stats
 
-*Scraped **56,541** Articles*
+*Scraped **56,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
 islandlk | 3,393
-economynextcom | 3,430
+economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,311
-adaderanalk | 6,834
-tamilmirrorlk | 8,039
+adalk | 5,312
+adaderanalk | 6,836
+tamilmirrorlk | 8,041
 virakesarilk | 9,198
 adaderanasinhalalk | 9,763
 
@@ -26,11 +26,89 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,541 (100.0%) of 56,541 articles have been extended.
+56,542 (100.0%) of 56,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### இவர்களைக் கண்டால் உடன் அறிவிக்கவும்
+
+*2024-11-24 11:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களைக்-கண்டால்-உடன்-அறிவிக்கவும்/175-347682) · `ta`
+
+நவம்பர் 18 அன்று மினுவாங்கொடையில் பணமாற்று நிறுவனமொன்றுக்கு சொந்தமான வேனிலிருந்தவர்களை மிரட்டி சுமார் 75 மில்லியன் ரூபாவை அபகரித்து சென்ற இரண்டு சந்தேக நபர்களை கைது செய்ய பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+
+கொள்ளையிட்ட பணத்துடன் தப்பிச் சென்றுள்ள சந்தேகநபர்களை கைது செய்ய கம்பஹா குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை முன்னெடுத்திருந்தனர்.
+
+கட்டான மற்றும் உடுகம்பொல பிரதேசங்களைச் சேர்ந்த முறையே 37 மற்றும் 40 வயதுடைய இரு சந்தேக நபர்களை பொலிஸார் தேடி வருகின்றனர்.
+
+சந்தேக நபர்களின் இருப்பிடம் தொடர்பில் தகவல் தெரிந்தவர்கள் பொலிஸாரை 071 – 8591608 அல்லது 071 – 8591610 என்ற தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொள்ளுமாறு கோரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1ada2db9.json)
+
+---
+
+### The agreement must be fully implemented
+
+*2024-11-24 11:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்படிக்கையை-அநுர-முழுமையாக-நடைமுறைப்படுத்த-வேண்டும்/175-347681) · `ta`
+
+Ranil Wickremesinghe urges full implementation of India-Sri Lanka visionary document signed in 2023, emphasizing economic cooperation and mutual benefits.
+
+🟩
+
+Former Sri Lankan President Ranil Wickremesinghe has said that Anura Kumara Dissanayake, who was sworn in after him, said that the visionary document accepted last year with India should be fully implemented.
+
+During his visit to India in July 2023, the then President Wickremesinghe signed with Prime Minister Narendra Modi in a visionary document that emphasizes the mutual cooperation between the two countries, especially the economic partnership.
+
+“I and Indian Prime Minister Narendra Modi have mentioned areas of bilateral cooperation between the two countries.. I think he (Dissanayake) should go ahead and we should fully implement this visionary document, ”he said.
+
+Wickremesinghe, who attended an event at Sri Satya Sai Vidya Vihar School in Indore, responded when Dissanayake went to New Delhi next month when he met Prime Minister Modi and other Indian leaders.
+
+...
+
+[Data](articles/730f3e24.json)
+
+[Extended Data](ext_articles/730f3e24.ext.json)
+
+---
+
+### President Dissanayake celebrates 56th birthday today
+
+*2024-11-24 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103719/president-dissanayake-celebrates-56th-birthday-today) · `en`
+
+President Anura Kumara Dissanayake, the 9th Executive President of Sri Lanka, celebrates his 56th birthday today, November 24.
+
+Born in 1968, President Dissanayake has made significant contributions to Sri Lankan politics over a career spanning several decades.
+
+President Dissanayake began his education at Thambuttegama Primary School and later entered Thambuttegama Central College, excelling in Mathematics stream at the Advanced Level Examination. In 1992, he entered the Faculty of Science at the University of Kelaniya, earning a Bachelor of Science degree in 1995.
+
+His political journey started during his university years, becoming an activist with the Socialist Students’ Union in 1987. He played a prominent role in the nationwide protests against the Indo-Lanka Accord the same year.
+
+...
+
+[Data](articles/344658dc.json)
+
+---
+
+### Developing nations blast $300 billion COP29 climate deal as insufficient
+
+*2024-11-24 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103718/developing-nations-blast-300-billion-cop29-climate-deal-as-insufficient) · `en`
+
+Countries at the COP29 summit in Baku adopted a $300 billion a year global finance target on Sunday to help poorer nations cope with impacts of climate change, a deal its intended recipients criticised as woefully insufficient.
+
+The agreement, clinched in overtime at the two-week conference in Azerbaijan’s capital, was meant to provide momentum for international efforts to curb global warming in a year destined to be the hottest on record.
+
+Some delegates gave the deal a standing ovation in the COP29 plenary hall. Others lambasted wealthy nations for not doing more and criticised the Azerbaijan host for hurriedly gavelling through the contentious plan.
+
+“I regret to say that this document is nothing more than an optical illusion,” Indian delegation representative Chandni Raina told the closing session of the summit, minutes after the deal was gavelled in. “This, in our opinion, will not address the enormity of the challenge we all face. Therefore, we oppose the adoption of this document.”
+
+...
+
+[Data](articles/026eb8e9.json)
+
+---
 
 ### 497 Indian fishermen arrested in 2024
 
@@ -123,6 +201,24 @@ A total of 59,980 sticks of foreign cigarettes, illegally smuggled into the coun
 [Data](articles/62c09227.json)
 
 [Extended Data](ext_articles/62c09227.ext.json)
+
+---
+
+### අර්තාපල් වෙනුවට එළවළු වගා කිරිමෙන් උඩරට එළවළු මිල පහළට
+
+*2024-11-24 09:51:25* · [`adalk`](https://www.ada.lk/picture_story/අර්තාපල්-වෙනුවට-එළවළු-වගා-කිරිමෙන්-උඩරට-එළවළු-මිල-පහළට/10-413223) · `si`
+
+කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට මේ දින වල විශාල වශයෙන් එළවළු තොග ලැබීම හේතුවෙන් බොහෝ එළවළු වර්ග වල මිල පහත වැටී ඇතැයි කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙලෙදුන් පවසයි.
+
+උඩරට එළවළු වර්ග රට පුරා බෙදා හරින ප්‍රධානතම ආර්ථීක මධ්‍යස්ථානය වන කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යෂ්ථානයට එළවළු තොග මිලදී ගැනීම සදහා දෛනිකව දිවයිනේ විවිධ ප්‍රදේශවලින් වෙළෙදුන් පැමිනේ.
+
+පැවති වර්ෂා සහිත කාලගුණ තත්වය හේතුවෙන් හා අර්තාපල් වගාව සදහා විශාල වියදමක් දැරීමට සිදුවීම හේතුවෙන් අර්තාපල් වගා නොකර එළවළු වර්ග වගා කිරීමට ගොවින් පෙළඹීමත් හේතුවෙන් මෙලෙස එළවළු තොග විශාල වශයෙන් කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට ලැබෙන බව වෙලෙදුන් පවසයි.
+
+මේ වන විට කැරට් , ගෝවා , ලීක්ස් ආදී එළවළු වර්ග විකුණා ගැනීමට පවා නොහැකි තත්වයක් උදා වී ඇති බවත් බොහොමයක් එළවළු වර්ග වල මිල පහත වැටී ඇති බවත් වෙලෙදුන් පවසති. ගොවීන් කියා සිටින්නේ මෙලෙස මිල පහත වැටීම තමන්ට දරා ගැනීමට නොහැකි බවත් වත්මන් රජය විසින් ගොවියා රැක ගැනීම සදහා නව වැඩපිළිවෙලක් ක්‍රියාත්මක කරාවි යැයි තමන් අපේක්ෂාවෙන් සිටින බවයි .
+
+◼️
+
+[Data](articles/220bacae.json)
 
 ---
 
@@ -391,6 +487,26 @@ He also said that the Navy has contributed to the maximum contribution to the sa
 [Data](articles/38757546.json)
 
 [Extended Data](ext_articles/38757546.ext.json)
+
+---
+
+### IMF to closely discuss upcoming budget with Sri Lanka
+
+*2024-11-24 07:41:00* · [`economynextcom`](https://economynext.com/imf-to-closely-discuss-upcoming-budget-with-sri-lanka-189556/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund will have close discussions with Sri Lanka on the budget for 2025, Senior Mission Chief Peter Breuer said after striking a staff level agreement on the next phase of the program.
+
+The IMF program’s fiscal quantitative targets on revenues, primary balance are based on the budget measures and legal reforms are also usually announced in the budget.
+
+Sri Lanka’s budget, usually presented in November was delayed due to the Presidential and Parliamentary elections.
+
+“We will be interested in convincing ourselves that this budget is in line with the program objectives,” Breuer said. “So we will be having a very close discussion with the authorities on that.
+
+Sri Lanka’s new administration has said it wants to raise the threshold on income tax, exempt some foods from value added tax and raise subsidies for people hit by the high prices from currency collapse (flexible exchange rate).
+
+...
+
+[Data](articles/7d39a064.json)
 
 ---
 
@@ -2353,145 +2469,5 @@ Accordingly, police have found the head and trunk of the murdered man and arrest
 [Data](articles/5b3a2129.json)
 
 [Extended Data](ext_articles/5b3a2129.ext.json)
-
----
-
-### If you go to Britain, Netanyahu is a prisoner?
-
-*2024-11-23 10:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரித்தானியாவுக்கு-சென்றால்-நெதன்யாகு-கைதாவார்/50-347650) · `ta`
-
-Netanyahu faces arrest in Britain and other European countries due to ICC warrants. UK confirms compliance with international law regarding potential detention. Multiple nations state readiness to enforce ICC rulings against Israeli PM.
-
-🟩
-
-Israeli Prime Minister Netanyahu said he could be arrested if he came to the UK, the government said.
-
-“Israeli Prime Minister Netanyahu cannot comment on whether the UK police will detain him if he comes here.
-
-“But the UK will always comply with its legal obligations of domestic law and actually being set up by international law. We will fulfill our duties under the law. ”
-
-The UK has indirectly stated that Netanyahu will be arrested if he arrives in the UK.
-
-Similarly, countries including Canada, Ireland, Italy, the Netherlands, Spain, Norway, Sweden, Belgium and Turkey have stated that they are going to comply with the International Criminal Court against Israeli Prime Minister Benjamin Netanyahu.
-
-◼️
-
-[Data](articles/de76fdb2.json)
-
-[Extended Data](ext_articles/de76fdb2.ext.json)
-
----
-
-### 42 killed in gunfire
-
-*2024-11-23 10:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/துப்பாக்கிசூட்டில்-42-பேர்-பலி/50-347649) · `ta`
-
-Gunfire kills 42 in Pakistan: Attack on bus & car near Kurram; police rescue injured.
-
-🟩
-
-In Pakistan, 42 people were killed in the shooting incident yesterday (22).
-
-Some people from Pakistan's Khyber area were traveling from Peshawar to Peshawar yesterday by car and bus.
-
-The bus and the car in another car interrupted while traveling in Kuram. Also, the gang attacked the guns.
-
-42 people were killed in the attack. Also, some people were injured. Police rushed to the scene and rescued the injured and admitted to a nearby hospital.
-
-◼️
-
-[Data](articles/149d691a.json)
-
-[Extended Data](ext_articles/149d691a.ext.json)
-
----
-
-### Bodgamuwa jeeps to be rolled back to Buddha
-
-*2024-11-23 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203646) · `si`
-
-Jeep rollover kills brothers near Kuliyapitiya. Vehicle fell off bridge during transport. Bodies at hospital morgue. Police investigating.
-
-🟩
-
-Police said that the jeep that was traveling from Kambola Bridge on the Kuliyapitiya and Hettipola road today (23), police said.
-
-With the help of a crane, the jeep had taken the jeep, which had two stuck in trapped in the Kuliyapitiya Hospital.
-
-The deceased are residents of Kurunegala, 25 and 27 years, and they have revealed that they were brothers.
-
-The location was a winded place, which has been revealed according to the investigations carried out by the vehicle that has fallen to the road.
-
-The bodies are placed at the Kuliyapitiya hospital morgue and the Kuliyapitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/d257046f.json)
-
-[Extended Data](ext_articles/d257046f.ext.json)
-
----
-
-### 6 tourists died in Laos after apparently drinking methanol
-
-*2024-11-23 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103702/6-tourists-died-in-laos-after-apparently-drinking-methanol) · `en`
-
-Two Australian teenagers and a British woman died from suspected methanol poisoning after drinking tainted alcohol in Laos. An American man and two Danes also died, though their exact causes of death have not been released.
-
-A New Zealander also has been sickened. The U.S. State Department issued a warning to travelers to be “alert to the potential risk of methanol poisoning.” But what is methanol, and how do you avoid it?
-
-There are three main types of alcohol: ethanol, methanol and isopropyl. Ethanol is what is found in consumer spirits and is the only one intended for consumption. Isopropanol is the main ingredient in rubbing alcohol and hand sanitizers. Methanol, commonly called wood alcohol because it is the byproduct of wood distillation, is frequently used as fuel and in products such as antifreeze and solvents.
-
-...
-
-[Data](articles/cf8c1486.json)
-
-[Extended Data](ext_articles/cf8c1486.ext.json)
-
----
-
-### Treasure in Wayangoda?
-
-*2024-11-23 09:42:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெயாங்கொடையில்-புதையல்/175-347648) · `ta`
-
-Wayangoda treasure search update: Police excavation work resumes today under court order. Previous efforts were suspended due to finding a large stone.
-
-🟩
-
-Work on the treasure searches launched on a court order in the swamps in the Wayankoda area, which is to be carried out today (23).
-
-According to an order issued by the Magistrate of Athanagalla, a scan conducted by the Police Special Task Force was observed.
-
-After submitting the submissions to the court, the Athanagalla Magistrate's Court has ordered the Wayankoda police to carry out excavation work in the presence of the public.
-
-Excavation work was carried out yesterday and the previous day, with two days of excavation.
-
-However, as it was unable to complete until yesterday afternoon, the excavation work was suspended after a massive stone was found.. Remble
-
-◼️
-
-[Data](articles/eeb7458c.json)
-
-[Extended Data](ext_articles/eeb7458c.ext.json)
-
----
-
-### President calls on state employees to fulfill people’s aspirations
-
-*2024-11-23 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103701/president-calls-on-state-employees-to-fulfill-peoples-aspirations) · `en`
-
-President Anura Kumara Dissanayake stated that if the current government fails to meet the expectations set by the people in the recent mandate, it could lead to citizens losing hope in envisioning a prosperous future.
-
-He emphasized that government officials must dedicate themselves to building a government that fulfils the aspirations of the people, the President’s Media Division (PMD) said.
-
-President Anura Kumara Dissanayake made these remarks while addressing the staff of the Ministry of Finance, Planning and Economic Development yesterday (22), after officially assuming duties as its Minister.
-
-Upon his arrival at the Ministry, the President was warmly welcomed by the staff , the PMD added.
-
-...
-
-[Data](articles/f6d04ee2.json)
-
-[Extended Data](ext_articles/f6d04ee2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 02:41:26**
+As of **2024-11-25 02:11:50**
 
 ## Newspaper Stats
 
-*Scraped **56,663** Articles*
+*Scraped **56,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 587
 islandlk | 3,395
 economynextcom | 3,433
-dailyftlk | 3,887
+dailyftlk | 3,883
 dailymirrorlk | 4,733
 adalk | 5,328
 adaderanalk | 6,850
@@ -26,71 +26,11 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,659 (100.0%) of 56,663 articles have been extended.
+56,659 (100.0%) of 56,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### Sri Lanka discusses investment cooperation with Bangladesh Investment Development Authority
-
-*2024-11-25 02:32:34* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-discusses-investment-cooperation-with-Bangladesh-Investment-Development-Authority/34-769644) · `en`
-
-BIDA Chairman Ashik Chowdhury (left) with High Commissioner of Sri Lanka to Bangladesh Dharmapala Weerakkody
-
-High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody accompanied by Counsellor / Commerce of the Embassy, Srimali Jayarathne held a productive meeting with the newly appointed Executive Chairman of the Bangladesh Investment Development Authority (BIDA) Ashik Chowdhury. The discussions were held on 14 November at the BIDA office in Dhaka.
-
-...
-
-[Data](articles/6856eff9.json)
-
----
-
-### Walton Hi-Tech and Monik Trading join forces to bring innovative home appliances to Sri Lanka
-
-*2024-11-25 02:30:09* · [`dailyftlk`](https://www.ft.lk/business/Walton-Hi-Tech-and-Monik-Trading-join-forces-to-bring-innovative-home-appliances-to-Sri-Lanka/34-769643) · `en`
-
-In a strategic move poised to transform Sri Lanka’s home appliance market, Walton Hi-Tech Industries, a leading global innovator in consumer electronics, has joined forces with Monik Trading Ltd., to bring innovative home appliances to Sri Lanka. The announcement was made during an event attended by prominent representatives from both companies and distinguished guests.
-
-Special attendees included Commercial Micro Credit Ltd., Assistant General Manager Samitha Priyadarshana, Monik Trading Ltd., Managing Director Wasala Maduwantha Ariyapala, Assistant General Manager Kasun Mahanama, Walton Additional Managing Director and CFO Ziaul Alam, Vice President of the Global Business Division Abdur Rouf.Deputy Company Secretary Enamul Haq, Monik CFO M. N. H. Nashwaq and High Commissioner of Bangladesh to Sri Lanka Andalib Elias.
-
-...
-
-[Data](articles/8b9ab8b0.json)
-
----
-
-### Sri Lanka-Canada Business Council visits Canada
-
-*2024-11-25 02:25:47* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Canada-Business-Council-visits-Canada/34-769642) · `en`
-
-The High Commission of Sri Lanka in Ottawa and the Consulate General of Sri Lanka in Toronto facilitated a visit of a delegation from the Sri Lanka-Canada Business Council (SLCBC) of the Ceylon Chamber of Commerce headed by its President Priyantha Chandrasekara. The recent visit which covered Toronto, Ottawa, Montreal and Vancouver took place from 14 to 22 October.
-
-The nine-member delegation had constructive engagements with members of Canadian business chambers and entities, relevant government officials and academic institutions on strengthening bilateral trade and economic cooperation, attracting investment opportunities and capacity building programs.
-
-The visit provided an ideal platform for participants to explore opportunities in sectors such as education, smart agriculture, IT, tourism, and infrastructure, with a specific focus on Colombo Port City and the Kankesanthurai Industrial Processing Zone.
-
-...
-
-[Data](articles/4ec21a40.json)
-
----
-
-### High Commission of Sri Lanka in the Maldives launches Sri Lanka Business Council
-
-*2024-11-25 02:25:08* · [`dailyftlk`](https://www.ft.lk/business/High-Commission-of-Sri-Lanka-in-the-Maldives-launchesSri-Lanka-Business-Council/34-769641) · `en`
-
-The Sri Lanka Business Council of the Maldives (SLBCM) was officially launched on 12 November, at Hotel Jen Malé.
-
-This initiative, conceptualised and spearheaded by High Commissioner of Sri Lanka to the Maldives Ranga Goonawardena, marks a major step forward in fostering stronger economic collaboration and unlocking new opportunities between Sri Lanka and the Maldives. The event was attended by Ministers, High Commissioners, Ambassadors, prominent Sri Lankan and Maldivian business leaders, Government officials, and other dignitaries.
-
-The Council is affiliated with the High Commission of Sri Lanka in the Maldives, underscoring its role as a key facilitator in strengthening trade, investment, and business relationships between the two countries.
-
-...
-
-[Data](articles/bf50d90b.json)
-
----
 
 ### Arugam Bay; hidden currents
 
@@ -2455,5 +2395,125 @@ According to the information received by the police, the police have gone to the
 [Data](articles/8f9bdb58.json)
 
 [Extended Data](ext_articles/8f9bdb58.ext.json)
+
+---
+
+### Headache
+
+*2024-11-24 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகாத-உறவால்-தலை-துண்டிப்பு/175-347683) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Murder case: Bandarawela magistrate orders interrogation until Dec 5. Suspect killed girlfriend Roshan Timuthu over abuse claims. Body parts found; autopsy conducted.
+
+🟩
+
+Bandarawela Magistrate Balinda Manoj Weerasinghe has ordered the suspect and his counterfeit girl to be interrogated till December 05, in connection with the murder of Roshan Timuthu
+
+The suspect and the murdered, the widow living in the Suriyagoda area of ​​Tanamalwila - Hambagamuwa, has been in an abusive relationship with a woman.
+
+A 46 -year -old suspect from Balauwa area has been harassed by his counterfeit man, alleging that the suspect was allegedly harassing his counterfeiter and took him to the Aluthwela Hamuduruganda forest area.
+
+This is how he took him into the forest and cut off his head. He buried the disconnected head elsewhere and threw it near the other part of the body (Kavanta).
+
+In the meantime, his mother has lodged a complaint with the police that his son Roshan Timuthu disappeared.
+
+According to the information received by the police, the police have gone to the suspect's house and the information has been revealed.. Investigations conducted by him revealed the murder.
+
+...
+
+[Data](articles/92ff84e6.json)
+
+[Extended Data](ext_articles/92ff84e6.ext.json)
+
+---
+
+### Vietnam embassy meets BOI, biz chamber to strengthen economic links
+
+*2024-11-24 12:15:00* · [`economynextcom`](https://economynext.com/vietnam-embassy-meets-boi-biz-chamber-to-strengthen-economic-links-189582/) · `en`
+
+ECONOMYNEXT  – Vietnam’s embassy in Sri Lanka has met the Board of Investment, Sri Lanka – Greater Mekong Business Council of the Ceylon Chamber of Commerce, to promote links between investors of the two countries, a statement said.
+
+“In a bid to bolster economic diplomacy, the Embassy of Viet Nam in Sri Lanka has been actively engaging with key Sri Lankan agencies and business leaders,” the statement said.
+
+“The Embassy’s proactive efforts aim to unearth the vast potential in the Viet Nam market for Sri Lankan investors and businessmen.
+
+“By promoting trade and investment, countries can leverage each other’s strengths, creating a win-win scenario that fuels economic development.
+
+Economic diplomacy is a policy intensively promoted by the Vietnamese Government and has played an increasingly important role in Viet Nam’s socio-economic development, the embassy said.
+
+Vietnam has achieved high growth and expanded markets using free trade agreements with key trade partners.
+
+...
+
+[Data](articles/497e84fc.json)
+
+[Extended Data](ext_articles/497e84fc.ext.json)
+
+---
+
+### Constable killed in dealers in Ratnapura Police
+
+*2024-11-24 12:12:55* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොලීසියේ-වාහන-රථ-ගාලේදි-ඇඳ-වැටුණ-කොස්තාපල්-මරුට/11-413227) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Constable killed in Ratnapura Police incident. Officer, 59, died after sudden illness. Served at various police stations before retiring in April. Post-mortem scheduled for today. Burial at KazBovawatta General Cemetery in Gampaha.
+
+🟩
+
+A police officer was also killed when a police officer was hospitalized at the Ratnapura police.
+
+The deceased has been identified as 59 years of sub-service constable at the Ratnapura Police, the police said.
+
+The officer has worked at several police stations including Kantale Kuruwita as a sub-service constable and served at the Ratnapura Police last time.. Police said that he had been retired in April.
+
+The service ended on the 23rd after the 22nd night
+
+Police said that after a sudden dumps in the Ratnapura Police, he was also killed when he was rushed to the Ratnapura Teaching Hospital.
+
+Acting Day, Acting Magistrate Vijaya Tennakoon, was carried out by Acting Magistrate Vijaya Tennakoon, Ratnapura.The post mortem is to be conducted today 24 pm on the evening.
+
+The relatives of the deceased are being carried out at the KazBovawatta General Cemetery in Gampaha.
+
+◼️
+
+[Data](articles/c69344e1.json)
+
+[Extended Data](ext_articles/c69344e1.ext.json)
+
+---
+
+### Not even today, a technique of stolen under 50 feet
+
+*2024-11-24 12:06:25* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-50ක්-යට-ගල්-හාරා-නිධන්-තැන්පත්-කිරිමේ-තාක්ෂණයක්-එදත්-අදත්-නෑ/11-413226) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+University of Peradeniya lacks advanced treasure hunting tech. Prof. Athula Senaratne criticizes state support. Focuses on geological exploration over archaeological methods. Treasure hunters rely on natural instincts rather than technology.
+
+🟩
+
+University of Peradeniya has not yet been able to hold the treasure or treasure hunting or stone cashing technology to be treasure or treasure or stone.Professor Athula Senaratne says the selected Professor Athula Senaratne regarding the Colombo College.
+
+The professor said that the state patronage was also no need to provide the state-sponsored.
+
+Professor Athula Senaratne was said to have been in the area where there were treasure treasures in the Veyangoda area.
+
+Athula Senaratne said that the geologists focus on arrogant exploration of throughout the throughout the archaeologists only if it is only a necessary option.
+
+The professor said that this is a good eye on the soil, saying that they are naturally welded by their treasure hunting.
+
+◼️
+
+[Data](articles/04ab66c6.json)
+
+[Extended Data](ext_articles/04ab66c6.ext.json)
 
 ---

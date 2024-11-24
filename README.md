@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 05:25:40**
+As of **2024-11-24 05:52:01**
 
 ## Newspaper Stats
 
-*Scraped **56,506** Articles*
+*Scraped **56,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
-islandlk | 3,378
+islandlk | 3,392
 economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
@@ -26,11 +26,219 @@ adaderanasinhalalk | 9,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,506 (100.0%) of 56,506 articles have been extended.
+56,506 (100.0%) of 56,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### The Need to submit an electronic tax return and its challenges
+
+*2024-11-24 04:42:00* · [`islandlk`](http://island.lk/the-need-to-submit-an-electronic-tax-return-and-its-challenges/) · `en`
+
+The Inland Revenue Department (IRD) has decided that compliant taxpayers who submit their Return of Income for 2023-24 (01 April 2023 to 31 March 2024) can only do so electronically by submitting an e-return.
+
+Whilst it is undoubtedly a step in the right direction, no consideration has been given to the fact that such a move should be made in a phased manner. In typically cavalier fashion, the department’s mandarins want to go from zero to a hundred, forgetting that many individual taxpayers have no experience submitting tax returns, let alone e-returns. I assume many new taxpayers who have not previously submitted tax returns annually have been inducted into the tax net.
+
+...
+
+[Data](articles/3a6a3815.json)
+
+---
+
+### Softlogic Life sweeps board at SLIM Digis 2024 becoming most awarded brand along with coveted Grand Prix
+
+*2024-11-24 04:41:00* · [`islandlk`](http://island.lk/softlogic-life-sweeps-board-at-slim-digis-2024-becoming-most-awarded-brand-along-with-coveted-grand-prix/) · `en`
+
+Further cementing its position as the most innovative insurer that is close to the heartbeat of the nation, Sri Lanka’s second largest life insurer Softlogic Life Insurance PLC took home nine awards at the SLIM Digis 2.4 Awards held on Oct 29, including the top most award of the night “The Grand Prix, a company news release said.
+
+This top award which was won by Softlogic Life created a first for the insurance industry, which was to recognize the creativity, innovation and impact of its trailblazing and innovative ‘Legends’ Campaign. Additionally, the company won four Golds, three Silvers and a Bronze for ‘Dengeez’, Legends’ and ‘Sri Lanka’s Inspiring Crowd sourced Christmas Tree of Hope’ campaigns.
+
+...
+
+[Data](articles/6d26167d.json)
+
+---
+
+### Sri Lanka Cancer Society and AIA Insurance renew partnership
+
+*2024-11-24 04:40:00* · [`islandlk`](http://island.lk/sri-lanka-cancer-society-and-aia-insurance-renew-partnership/) · `en`
+
+The Sri Lanka Cancer Society (SLCS) is a dedicated non-profit organization committed to fight cancer. The primary mission of the Sri Lanka Cancer Society is to provide care and support to cancer patients in need, while also raising awareness about the disease. This mission is grounded on the belief that all cancer patients deserve the highest standard of care, irrespective of their social, cultural, or economic circumstances, a news release from the Society said.
+
+“The Sri Lanka Cancer Society (SLCS) extends its gratitude to its partner, AIA Insurance, for its continued commitment to supporting underprivileged cancer patients by renewing its partnership for the sixth consecutive year. The Memorandum of Understanding was signed between AIA CEO Chathuri Munaweera and SLCS Chairperson Anoja Karunaratne on  October 7, 2024,” it said.
+
+...
+
+[Data](articles/1eb5db7b.json)
+
+---
+
+### EMBRACE THE SPIRIT OF KINDESS WITH THE PEOPLE’S MARKET!
+
+*2024-11-24 04:38:00* · [`islandlk`](http://island.lk/embrace-the-spirit-of-kindess-with-the-peoples-market/) · `en`
+
+Get ready to embrace the festive season with a unique shopping experience that supports local entrepreneurs – The People’s Market!
+
+Taking place on Saturday November 30, this year’s market promises a festive extravaganza with a wide range of products; from traditional spices to artisanal crafts, delicious food to sustainable fashion. Each item tells a story of passion, hard work and the pursuit of dreams. By shopping at The People’s Market, you’re not just making a purchase; you’re investing in the future of communities, an MJF news release said last week.
+
+“We’ve been artisans for over 20 years, but when we lost our business, the People’s Market was a platform where we could try something new” says Melanie, co owner of Taste-it, Homemade Goodies. Today she and her husband are running a thriving culinary venture that is a popular attraction at the People’s Market.
+
+...
+
+[Data](articles/462b5e03.json)
+
+---
+
+### Suwa Diviya ‘Live Well Health Fair’ brings health and wellness to Colombo
+
+*2024-11-24 04:37:00* · [`islandlk`](http://island.lk/suwa-diviya-live-well-health-fair-brings-health-and-wellness-to-colombo/) · `en`
+
+Suwa Diviya, a non-profit initiative dedicated to combating the rising incidence of diabetes, last week announced the ‘Live Well Health Fair’—the first event of its kind in Sri Lanka. The fair will take place on Saturday (30) at the Arcade Independence Square, Colombo 07, from 10:00 am to 6:00 pm.
+
+The event primarily targets the public, including children, the youth, and senior citizens alike, and aims to raise awareness of the crucial need to lead a healthy lifestyle void of non-communicable diseases detrimental to health and well-being, a news release said.
+
+“The health initiative, a brainchild of Suwa Diviya is based on the strong belief that health education and awareness are quintessential elements that need to be integrated with modern lifestyles,” it said.
+
+...
+
+[Data](articles/602508e6.json)
+
+---
+
+### My Final Chapter in Sri Lanka
+
+*2024-11-24 04:34:00* · [`islandlk`](http://island.lk/my-final-chapter-in-sri-lanka/) · `en`
+
+In 1994, I had the privilege of working at the Galle Face Hotel (GFH) as the Consultant to its Chairman, Cyril Gardiner. Over time, our professional relationship evolved into a warm camaraderie. Cyril had a sharp sense of humour. On one occasion, while discussing the maintenance challenges faced by historic seaside hotels like Mount Lavinia Hotel (MLH) and GFH, he quipped, “Chandana, GFH is only 130 years old!”
+
+Cyril was a master of public relations, capable of crafting newsworthy stories and engaging with leading international journalists. He turned what might seem like eccentric behaviour into captivating narratives for the media. His knack for creating publicity was not accidental but meticulously orchestrated, a lesson I was fortunate to learn first-hand.
+
+...
+
+[Data](articles/68791ac2.json)
+
+---
+
+### ComBank and Hayleys Solar donate solar power system to VT centre, temple in Tissamaharama
+
+*2024-11-24 04:30:00* · [`islandlk`](http://island.lk/combank-and-hayleys-solar-donate-solar-power-system-to-vt-centre-temple-in-tissamaharama/) · `en`
+
+The Commercial Bank of Ceylon and Hayleys Solar recently donated a photovoltaic solar panel power supply system for the use of the Sri Kavantissa Vocational Training Centre in Tissamaharama and the Tissamaharama Raja Maha Vihara.
+
+The 40kW on-grid solar power system benefits the students receiving vocational training at the centre as well as devotees from all around the island that visit the temple, and helps the two institutions to reduce their electricity costs.
+
+The donation by the two companies flows from a strategic collaboration between Commercial Bank and Hayleys Solar to provide concessionary terms under the Bank’s ‘Diribala Green Development Loan’ scheme for businesses to purchase solar power systems from Hayleys Solar with a number of exclusive benefits.
+
+...
+
+[Data](articles/123e8d1c.json)
+
+---
+
+### New Anthoney’s Group signs pledge to combat Antimicrobial Resistance during World AMR Awareness Week
+
+*2024-11-24 04:27:00* · [`islandlk`](http://island.lk/new-anthoneys-group-signs-pledge-to-combat-antimicrobial-resistance-during-world-amr-awareness-week/) · `en`
+
+Reassuring its commitment toward a healthier nation and advocating for an antibiotic-free poultry industry in Sri Lanka, New Anthoney’s Group, has signed an official pledge in view of World Antimicrobial Resistance Awareness Week (WAAW) held from 18-24 November.
+
+The event took place at the group’s Hanwella-based HQ on 19 November, with the participation of some of its key customers, partners, health-sector professionals, the board and staffs. The group’s managing director Mr. Emil Stanley gave an opening speech, followed by an insightful series of presentations, including Dr. Kishani Dinapala as key resource person representing WHO Sri Lanka, on the importance of AMR.
+
+This comes as part of a series of WAAW-focused activities by New Anthoney’s Group, aiming to inspire collective action against AMR and promote the “One Health” approach, which integrates human, animal, and environmental health practices.
+
+...
+
+[Data](articles/023561d7.json)
+
+---
+
+### Dilip Fonseka of Ceylon Pharma College wins ‘Revolutionary Thinker’ Award
+
+*2024-11-24 04:25:00* · [`islandlk`](http://island.lk/dilip-fonseka-of-ceylon-pharma-college-wins-revolutionary-thinker-award/) · `en`
+
+Dilip Fonseka, the founder of Ceylon Pharma College, received the “Revolutionary Thinker in Pharmacy and Education” award at Asia’s Icon Awards for his groundbreaking contributions to pharmaceutical education. Established in 2020, the college has grown from 10 to over 3,000 students in four years. It offers comprehensive courses like the Advanced and Certificate Courses in Pharmacy Practice, catering to aspiring pharmacists, healthcare professionals, and those planning to work abroad. The college features a Digital Pharmacy portal for practical learning and offers flexible online and in-person study options. Ceylon Pharma College has previously won several prestigious awards for its educational excellence.
+
+Softlogic Life sweeps board at SLIM Digis 2024 becoming most awarded brand along with coveted Grand Prix
+
+ComBank and Hayleys Solar donate solar power system to VT centre, temple in Tissamaharama
+
+...
+
+[Data](articles/564b4664.json)
+
+---
+
+### Women in Politics – Local and two from UK, US
+
+*2024-11-24 04:13:00* · [`islandlk`](http://island.lk/women-in-politics-local-and-two-from-uk-us/) · `en`
+
+The 2024 Parliamentary elections have broken records and earned first evers for more than one reason. One very encouraging fact is that women’s representation has increased to over 10%. This trend, we are certain, will continue. 21 women MPs have been elected and 19 are from the NPP including Ambiga Selvam from Badulla who comes from the tea plantation worker sector. That is such good news. Two are from the SJB: Chamindrani, daughter of Lakshman Kiriella and Rohini Kaviratne, re-elected from Matale. Three more are expected from the NPP national list. This against only 13 women MPs in the previous government.
+
+Much though they deserve writing about, I move overseas, since these women in Parliament will be known to all via local media and of course conversation, even gossip.
+
+...
+
+[Data](articles/8c2fd577.json)
+
+---
+
+### Kathmandu 1987 and Islamabad 1988
+
+*2024-11-24 03:58:00* · [`islandlk`](http://island.lk/kathmandu-1987-and-islamabad-1988/) · `en`
+
+At the Third SAARC Summit Meeting in Nepal on November 2-4, 1987, 1 had called for going “full sail ahead” with the King of Nepal in the host’s chair. I said:
+
+“As we all know, regionalism in South Asia has had a late beginning. One of the remarkable developments since the Second World War has been the spread of regionalism, manifested in the setting up of regional organizations which have to cover most of the globe. The fact that SAARC came to be formed so late has been explained by the disparities and imbalances within our region. Nevertheless, there is at the same time, an underlying homogeneity among South Asian countries, on which we hope to build an enduring regionalism for the common benefit of all of us.
+
+...
+
+[Data](articles/33039b22.json)
+
+---
+
+### Netanyahu welcomes Trump’s re-election to second term
+
+*2024-11-24 03:54:00* · [`islandlk`](http://island.lk/netanyahu-welcomes-trumps-re-election-to-second-term/) · `en`
+
+Trump’s new Ambassador to Israel: “There’s really no such thing as a Palestinian”
+
+The re-election of Donald Trump to a second term of the presidency of the United States has changed the ideological trajectory of the future of the United States. At least for the foreseeable future.But it has sealed the fate of the Palestinian people in the Gaza Strip and the West Bank. Permanently.
+
+To even consider the validity of the above statement, one must look into the constitutional, conventional and practical qualifications for the Presidency of the United States. Constitutionally, the President must be at least 35 years of age, be a natural born citizen and must have lived in the United States for at least 14 years.
+
+...
+
+[Data](articles/28b393ff.json)
+
+---
+
+### The Dawn of a New Era
+
+*2024-11-24 03:44:00* · [`islandlk`](http://island.lk/the-dawn-of-a-new-era/) · `en`
+
+About 20 years ago, I used the same title, in a writing dealing with Mahinda Rajapaksa’s triumphant ascent to power, published in an issue of the Sunday Island. In that I expressed my deep apprehensions of a Rajapaksa dispensation. As the years unfolded, the grim realities of years of misrule, with the younger Rajapaksa outdoing the elder brother in criminality, corruption and incompetence, exceeded the worst fears of my imagination. In between, not to be forgotten, there was also the crushingly disappointing “yahapalanya” farce, perpetrated by the Sirisena-Wickremesinghe collaboration.
+
+...
+
+[Data](articles/660f2a21.json)
+
+---
+
+### Happily, ever after?
+
+*2024-11-24 03:37:00* · [`islandlk`](http://island.lk/happily-ever-after/) · `en`
+
+2024 election season marked final act of the ‘Our Saviour II’ drama which premiered in November 2019. The NPP/JVP’s unprecedented victories would not have happened without Gotabaya Rajapaksa’s unprecedented presidential record, turning a lower-middle income country to a bankrupt one in less than three years.
+
+On July 5, 2022, a 60-year-old man died in a petrol queue in Borella. And the Gota-go-gama protesters gave Gotabaya Rajapaksa three days to resign from the presidency.
+
+On July 8, thousands of university students marched to the Galle Face Green in a massive procession, resisting barrages of tear gas and water cannon. People lined the streets cheering them on. “We are suffering a lot,” one woman cried. “These children should be protected by the gods. We are trying to correct a wrong we did… We are coming tomorrow.”
+
+...
+
+[Data](articles/12d688f2.json)
+
+---
 
 ### No crisis within the party party
 
@@ -2259,253 +2467,5 @@ Kithma Vithanapatrana (Chairman), Jason Fernando, Joshua Sebastian, Rehan Peiris
 [Data](articles/8f53eade.json)
 
 [Extended Data](ext_articles/8f53eade.ext.json)
-
----
-
-### There is no intention other than to provide political leadership to meet the expectations of the people - the president
-
-*2024-11-23 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199460) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake emphasizes meeting public expectations through political leadership. He highlights the importance of public trust in public service for improvement. The defense portfolio transfer aims to enhance governance efficiency. Key officials from various branches attended the event, signaling unity in national development efforts.
-
-🟩
-
-...
-
-[Data](articles/a99d3a55.json)
-
-[Extended Data](ext_articles/a99d3a55.ext.json)
-
----
-
-### President's Secretary meets Japan Ambassador
-
-*2024-11-23 01:17:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவருடன்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-347641) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Presidential Secretary Dr. Nandika Sanath Kumanayake met Japanese Ambassador Akio Isomada at the Presidential Secretariat. The ambassador congratulated Sri Lanka's new government and expressed desire to strengthen bilateral relations between the two countries.
-
-🟩
-
-A meeting between President's Secretary Dr. Nandika Sanath Kumanayake and Japanese Ambassador Akio Isomada took place at the Presidential Secretariat yesterday afternoon.
-
-The Japanese High Commissioner congratulated the new government headed by President Anura Kumara Dissanayake and said he expects to continue to carry out bilateral relations between the two countries effectively.
-
-Akio Isomada, who congratulated the Japanese government for a new policy of creating a country and making a new policy of creating a country and making the country a new policy, "he said that he would support the new government of Sri Lanka and President Anura Kumara Dissanayake.. (A)
-
-◼️
-
-[Data](articles/ffc79367.json)
-
-[Extended Data](ext_articles/ffc79367.ext.json)
-
----
-
-### Chinese government's 1996 Housing Plan Signs Signed
-
-*2024-11-23 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199459) · `ta`
-
-Chinese government signs 1996 Housing Plan for 1,888 homes and 108 artist units. Aim: improve living conditions for low-income families. Projects in Peliyagoda, Dematagoda, Moratuwa, Maharagama, Kottawa. Construction begins, completion in 3 years.
-
-🟩
-
-The Ministry of Urban Development, Construction and Housing was held on Friday (22) to sign the Housing Agreement of 1,888 houses and 108 senior artists under the aim of enhancing the living situation of low -income families.
-
-Minister of Urban Development, Construction and Housing, Dr. Anura Karunathilaka and Sri Lankan Ambassador to China, Qi Zhenhong participated in the signing event.
-
-The event joined the project architectural design consultants, including the Tang Yandi, the Chinese embassy, ​​Tang Yandi and senior officials of the Chinese embassy.
-
-Deputy Minister of Housing. B.. Sarath, Secretary to the Ministry Ranjith Aryaratne, Chairman of the Urban Development Authority. B.. Kumudulal and top officials of the Ministry were also present at the event.
-
-...
-
-[Data](articles/52955b9b.json)
-
-[Extended Data](ext_articles/52955b9b.ext.json)
-
----
-
-### SJB calls for Presidential apology on JVP’s role in undermining rule of law
-
-*2024-11-23 00:52:26* · [`dailyftlk`](https://www.ft.lk/news/SJB-calls-for-Presidential-apology-on-JVP-s-role-in-undermining-rule-of-law/56-769587) · `en`
-
-Criticises President’s policy statement accusing him of failing to acknowledge JVP’s historical role in damaging SL’s legal system
-
-Claims JVP-led insurgency in 1988–89 created climate of fear, necessitating unprecedented security measures for MPs and Ministers
-
-Accuses JVP of promoting racial discord since 1971 and opposing Provincial Council system aimed at devolving power
-
-The Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara yesterday called on President Anura Kumara Dissanayake to issue an apology for the alleged actions of the Janatha Vimukthi Peramuna (JVP) in the past, which he claims undermined Sri Lanka’s rule of law.
-
-Addressing a press conference, Madduma Bandara criticised the President’s recent policy statement in Parliament, where he pledged to uphold the rule of law. The SJB General Secretary argued that the President missed an opportunity to acknowledge and apologise for the JVP’s historical role in damaging the country’s legal framework.
-
-...
-
-[Data](articles/9f59d3af.json)
-
-[Extended Data](ext_articles/9f59d3af.ext.json)
-
----
-
-### Pillayan provides statement to CID on Easter Sunday attack claims
-
-*2024-11-23 00:51:28* · [`dailyftlk`](https://www.ft.lk/news/Pillayan-provides-statement-to-CID-on-Easter-Sunday-attack-claims/56-769586) · `en`
-
-Former State Minister Sivanesathurai Chandrakanthan, commonly known as Pillayan, visited the Criminal Investigation Department (CID) yesterday to provide a statement regarding ongoing investigations into claims made in a Channel 4 documentary related to the 2019 Easter Sunday terrorist attacks. This marks his second appearance before the CID in connection with the case.
-
-Pillayan, who had first appeared on 20 November, provided a five-hour statement but had requested to give his statement in Tamil as well. As a result, the CID arranged for translation services, and he was asked to return to complete the process on 22 November.
-
-...
-
-[Data](articles/2fb3ea9e.json)
-
-[Extended Data](ext_articles/2fb3ea9e.ext.json)
-
----
-
-### Japanese Ambassador calls on President’s Secretary
-
-*2024-11-23 00:50:18* · [`dailyftlk`](https://www.ft.lk/news/Japanese-Ambassador-calls-on-President-s-Secretary/56-769585) · `en`
-
-The Japanese Ambassador to Sri Lanka Akio Isomata paid a courtesy call on Secretary to the President Dr. Nandika Sanath Kumanayake yesterday.
-
-The President’s Media Division said the Japanese Ambassador extended his best wishes to the new Government led by President Anura Kumara Dissanayake and expressed Japan’s commitment to continuing the bilateral relations between the two nations in a productive and sustainable manner.
-
-Ambassador Isomata commended the new Government’s policies aimed at creating a nation free of corruption and malpractice while advancing economic progress. He also reaffirmed Japan’s readiness to provide maximum support to Sri Lanka’s new administration and President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/81fcb674.json)
-
-[Extended Data](ext_articles/81fcb674.ext.json)
-
----
-
-### President Anura Kumara Dissanayake on Thursday appointed 29 Deputy Ministers
-
-*2024-11-23 00:48:53* · [`dailyftlk`](https://www.ft.lk/news/President-Anura-Kumara-Dissanayake-on-Thursday-appointed-29-Deputy-Ministers/56-769584) · `en`
-
-...
-
-[Data](articles/8687114a.json)
-
-[Extended Data](ext_articles/8687114a.ext.json)
-
----
-
-### HSBC and A-PAD Sri Lanka spearhead recovery mission for education in flood-affected districts
-
-*2024-11-23 00:48:07* · [`dailyftlk`](https://www.ft.lk/news/HSBC-and-A-PAD-Sri-Lanka-spearhead-recovery-mission-for-education-in-flood-affected-districts/56-769583) · `en`
-
-HSBC Sri Lanka Head of Sustainability Dilini Fernando, distributing educational supplies
-
-Building resilience during natural disasters is vital to continue education of school children affected by disasters, and demonstration of corporate commitment is key to overcome the stress that comes with it. HSBC and A-PAD Sri Lanka launched ‘Reviving Education,’ an initiative that is vital to ensure continuity of education for children affected by recent floods.
-
-...
-
-[Data](articles/d74ed32f.json)
-
-[Extended Data](ext_articles/d74ed32f.ext.json)
-
----
-
-### Book launch and discussion on South Asian labour migration issues and concerns
-
-*2024-11-23 00:46:42* · [`dailyftlk`](https://www.ft.lk/news/Book-launch-and-discussion-on-South-Asian-labour-migration-issues-and-concerns/56-769582) · `en`
-
-The book “Labour Migrants from South Asia: Issues and Concerns” was officially launched on 12 November at the Hilton Colombo with Sumith Nakandala, with former Secretary of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) gracing as the Chief Guest and Western Provincial Council Chief Secretary Dammika K. Wijesinghe attended as the Guest of Honour of the event.
-
-The book compiles insights and policy recommendations from a pivotal regional seminar on labour migration issues in South Asia earlier this year.
-
-...
-
-[Data](articles/236f453e.json)
-
-[Extended Data](ext_articles/236f453e.ext.json)
-
----
-
-### SLFUW organises special event to commemorate International Children’s and World Elders’ Day
-
-*2024-11-23 00:45:33* · [`dailyftlk`](https://www.ft.lk/news/SLFUW-organises-special-event-to-commemorate-International-Children-s-and-World-Elders-Day/56-769581) · `en`
-
-The Sri Lanka Federation of University Women (SLFUW) hosted a special event at its headquarters on 26 October to commemorate International Children’s Day and World Elders’ Day. It was a well-attended ‘Family Get-together’ for the members and their families of SLFUW, a fun-filled day, with beautiful dance performances, songs and music, games, and gifts inclusive of breakfast and lunch as well.
-
-As explained by the President of SLFUW Colonel Dr. Udula Krishnaratne, a special highlight of the event was handing off cash and donations to the Visually Impaired Women Federation and visually impaired children to support their futures.
-
-...
-
-[Data](articles/230c7c67.json)
-
-[Extended Data](ext_articles/230c7c67.ext.json)
-
----
-
-### Consulate General in Karachi facilitates visit of Pakistan business delegation to Sri Lanka
-
-*2024-11-23 00:44:02* · [`dailyftlk`](https://www.ft.lk/business/Consulate-General-in-Karachi-facilitates-visit-of-Pakistan-business-delegation-to-Sri-Lanka/34-769580) · `en`
-
-The Pakistan-Sri Lanka Business Forum (PSLBF), in collaboration with the Sri Lanka Consulate General in Karachi, organised the visit of a Pakistan business delegation to Sri Lanka from 28 to 31 October. The visit of the 18-member delegation, representing 15 companies from export, import, and investment sectors was aimed at strengthening business relations between the private sectors of both countries.
-
-The program in Colombo was facilitated by the Sri Lanka Pakistan Business Council (SLPBC), which hosted a Pakistan Business Forum on 29 October at Hilton Colombo Residencies. During the forum, key strategies to promote bilateral trade and investments were discussed, including leveraging free trade agreements and streamlining trade processes.
-
-...
-
-[Data](articles/dde4ba6b.json)
-
-[Extended Data](ext_articles/dde4ba6b.ext.json)
-
----
-
-### Lankan envoy introduces Port City Colombo to Saudi Investment Ministry
-
-*2024-11-23 00:42:52* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-introduces-Port-City-Colombo-to-Saudi-Investment-Ministry/34-769579) · `en`
-
-Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad met with the Deputy Minister of Investment for International Relations of Saudi Arabia and Deputy CEO of the Saudi Investment Promotion Authority (SIPA), Sara Al-Sayed and briefed her on the investment opportunities available in the Port City Colombo.
-
-Ambassador Ameer Ajwad elaborated on investment opportunities readily available in Sri Lanka in sectors such as agriculture, aquaculture, tourism, ICT, pharmaceutical sector and invited Saudi investors to explore such expanding lucrative investment opportunities for win-win benefits for both countries.
-
-...
-
-[Data](articles/1494a8d8.json)
-
-[Extended Data](ext_articles/1494a8d8.ext.json)
-
----
-
-### First Ceylon Tea showroom opens in Riyadh
-
-*2024-11-23 00:42:14* · [`dailyftlk`](https://www.ft.lk/business/First-Ceylon-Tea-showroom-opens-in-Riyadh/34-769578) · `en`
-
-A showroom of Al Wazzah Tea, the first ever exclusive pure Ceylon Tea brand in Saudi Arabia was inaugurated by Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad, in the heart of Riyadh on 18 November.
-
-The showroom, which displays a range of Ceylon Tea products and functions as an outlet, addresses a long-standing demand for a dedicated facility for pure Ceylon Tea in the Kingdom of Saudi Arabia. Ambassador Ameer Ajwad referred to this facility as a “significant milestone of the Ceylon Tea industry in KSA”.
-
-...
-
-[Data](articles/395bb2c3.json)
-
-[Extended Data](ext_articles/395bb2c3.ext.json)
-
----
-
-### AMW and New Holland Tractors celebrate 10-year partnership with free inspection campaign
-
-*2024-11-23 00:41:08* · [`dailyftlk`](https://www.ft.lk/business/AMW-and-New-Holland-Tractors-celebrate-10-year-partnership-with-free-inspection-campaign/34-769577) · `en`
-
-Associated Motorways Ltd., a leader in Sri Lanka automotive industry celebrates ten successful years of partnership with New Holland Tractors as its sole distributor in Sri Lanka. Since the inception of the partnership, AMW has been deeply committed to supporting the agricultural sector by providing reliable equipment and unparalleled service to farmers across Sri Lanka. In celebration of the partnership, and in lieu of the current ‘MAHA’ season, AMW conducted a series of free inspections for loyal customers around the country.
-
-...
-
-[Data](articles/4bdc35b3.json)
-
-[Extended Data](ext_articles/4bdc35b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 14:00:56**
+As of **2024-11-24 14:41:26**
 
 ## Newspaper Stats
 
-*Scraped **56,560** Articles*
+*Scraped **56,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,316
-adaderanalk | 6,841
-tamilmirrorlk | 8,044
+adaderanalk | 6,842
+tamilmirrorlk | 8,045
 virakesarilk | 9,198
 adaderanasinhalalk | 9,763
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,556 (100.0%) of 56,560 articles have been extended.
+56,561 (100.0%) of 56,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### Flood hazard alert to certain areas
+
+*2024-11-24 14:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளுக்கு-வெள்ள-அபாய-எச்சரிக்கை/175-347685) · `ta`
+
+Flood warning issued for areas including Malwathu, Kala Oya, and Mahawali Ganga from Nov 25-28 due to improved Bay of Bengal conditions. Residents advised to evacuate. Heavy rainfall expected in Eastern, Northern, and Central provinces.
+
+🟩
+
+The Department of Irrigation has issued a flood warning in several areas from November 2524 to November 28, due to its current improvement in the Bay of Bengal and its next improvement in the next few days.
+
+Flooding can cause hazardous conditions in low -lying and river beds such as Malwathu, Kala Oya, Kanakarayanaru, Parangi River, Maa Oya, Yan Oya, Mahawali Ganga, Madhuru Oya, Kal Oya, Heta Oya, Mindeniyaru and Vila Oya Bashes.
+
+Residents and passengers in these areas are advised to be attracted from November 25 to November 28.
+
+Meanwhile, the Meteorological Department said that by November 25, the low winds in the southeastern Bengal are likely to strengthen the southwestern Gulf.
+
+It has been reported that more than 150 millimeters in the Eastern Province are expected to be more than 150 millimeters, and more than 100 millimeters in the North, North Central, Central and Uva Provinces and Hambantota districts are expected.
+
+◼️
+
+[Data](articles/a64741e0.json)
+
+[Extended Data](ext_articles/a64741e0.ext.json)
+
+---
+
+### Far right eye breakthrough in Romania presidential vote
+
+*2024-11-24 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103725/far-right-eye-breakthrough-in-romania-presidential-vote) · `en`
+
+Romanians were voting Sunday in the first round of a presidential election amid a surge in inflation and fears over the war in neighbouring Ukraine that could favour far-right leader George Simion.
+
+The vote kicks off two weeks of elections in the poor NATO member country, including a parliamentary vote and a December 8 presidential run-off.
+
+Social democrat Prime Minister Marcel Ciolacu is leading a field of 13 hopefuls in the polls, with about 25 percent, followed by AUR leader Simion on 15 to 19 percent.
+
+Simion is targeting people like Rodica, a 69-year-old who was among the first to vote in Bucharest’s chilly sunshine. The pensioner, who would not give a family name, was afraid of the Ukraine war and wanted “better living conditions and peace”.
+
+The stakes are high in the race to replace President Klaus Iohannis, a liberal and staunch Ukraine ally, who has held the largely ceremonial post since 2014.
+
+...
+
+[Data](articles/7e72c9c8.json)
+
+---
 
 ### CEB employees demand bonuses by December
 
@@ -45,6 +91,8 @@ The union further criticized the management for its lack of action over the past
 ◼️
 
 [Data](articles/de41e085.json)
+
+[Extended Data](ext_articles/de41e085.ext.json)
 
 ---
 
@@ -64,6 +112,8 @@ Even if the CEB submits the revised proposals on December 6, the PUCSL clarified
 
 [Data](articles/79e258fe.json)
 
+[Extended Data](ext_articles/79e258fe.ext.json)
+
 ---
 
 ### Sri Lanka, Australia woo Indian tourists with new initiatives
@@ -79,6 +129,8 @@ Launching the trail officially over the weekend in Delhi, the Sri Lankan high co
 ...
 
 [Data](articles/3bc9b96e.json)
+
+[Extended Data](ext_articles/3bc9b96e.ext.json)
 
 ---
 
@@ -198,21 +250,33 @@ According to the information received by the police, the police have gone to the
 
 ---
 
-### අඩි 50ක් යට ගල් හාරා නිධන් තැන්පත් කිරිමේ තාක්ෂණයක් එදත් අදත් නෑ
+### Not even today, a technique of stolen under 50 feet
 
 *2024-11-24 12:06:25* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-50ක්-යට-ගල්-හාරා-නිධන්-තැන්පත්-කිරිමේ-තාක්ෂණයක්-එදත්-අදත්-නෑ/11-413226) · `si`
 
-වෙහෙර විහාර සඳහා මිනිසුන් පුජා කරන දේ ධාතු ගර්භ වෙහෙර විහාර වල තිබෙන්නට හෝ නොතිබෙන්නට හැකි බවත් භු විද්‍යාව සම්බන්දව වසර 40 ගනනක පලපුරුද්ද අනුව අඩි 40 ක් 50 යට ගල් හාරා නිදන් තැන්පත් කිරිමේ හෝ ගල් උණු කර දැමිමක් හෝ ගල් ඇලවීමේ තාක්ෂණයක් එදත් අදත් නැති බව පේරාදෙණිය විශ්ව විද්‍යාලයේ භු ගර්භ විද්‍යාව පිළිබද සම්මාණිත මහාචාර්‍ය අතුල සේනාරත්න මහතා පවසයි.
+Here's a summary in 200 characters:
 
-මේ සම්බන්ධව රාජ්‍ය අනුග්‍රහය ලබාදිමද අවශ්‍යතාවයක් නොමැති දෙයක් බවද මහාචාර්‍යවරයා පැවසිය.
 
-මහාචාර්‍ය අතුල සේනාරත්න මහතා මේ බව පැවසුයේ වේයන්ගොඩ වඳුරව ප්‍රදේශයේ අධිවේගී මාර්ග රක්ෂිතයේ නිධන් වස්තු ඇතැයි පැවසෙන ස්ථානයේ නිධන් වස්තු ඇතිදැයි කළ විමසිමකදිය.
 
-පුරා විද්‍යා ගවේශනයන් සඳහා භු විද්‍යාඥයිනගේ  අවධානය යොමුවන්නේ පුරා විද්‍යාඥයින්ගෙන් යම් ඉල්ලිමක් ලැබුණොත් පමනක් බවත් යම්කිසි අවශ්‍යතාවයක් මත ආරධානවක් ලැබුණොත් පමණක් ඒ සදහා භු විද්‍යාඥයින් සහයෝගය ලබාදෙන බවද අතුල සේනාරත්න මහතා පැවසිය.
+University of Peradeniya lacks advanced treasure hunting tech. Prof. Athula Senaratne criticizes state support. Focuses on geological exploration over archaeological methods. Treasure hunters rely on natural instincts rather than technology.
 
-...
+🟩
+
+University of Peradeniya has not yet been able to hold the treasure or treasure hunting or stone cashing technology to be treasure or treasure or stone.Professor Athula Senaratne says the selected Professor Athula Senaratne regarding the Colombo College.
+
+The professor said that the state patronage was also no need to provide the state-sponsored.
+
+Professor Athula Senaratne was said to have been in the area where there were treasure treasures in the Veyangoda area.
+
+Athula Senaratne said that the geologists focus on arrogant exploration of throughout the throughout the archaeologists only if it is only a necessary option.
+
+The professor said that this is a good eye on the soil, saying that they are naturally welded by their treasure hunting.
+
+◼️
 
 [Data](articles/04ab66c6.json)
+
+[Extended Data](ext_articles/04ab66c6.ext.json)
 
 ---
 
@@ -2441,51 +2505,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/e27f23e6.json)
 
 [Extended Data](ext_articles/e27f23e6.ext.json)
-
----
-
-### KDU bus accident: Death toll rises to 3 as another student dies
-
-*2024-11-23 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103706/kdu-bus-accident-death-toll-rises-to-3-as-another-student-dies) · `en`
-
-Another student has reportedly succumbed to injuries sustained in the fatal bus accident that occurred on November 01 in Badulla, increasing the death toll to three.
-
-The 24 year-old victim, Kayilanathan Sinthujan, was a resident of Kantharmadam, Jaffna and has passed away today (23) while receiving treatment at the University Hospital KDU (UHKDU).
-
-A former student of Jaffna Hindu College, he had sat for the G.C.E. Advanced Level (A/L) examination under the stream of Physical Science (Maths).
-
-The incident on November 01 had claimed the lives of two individuals and injured 39 others when a bus carrying over 40 passengers toppled on Dunhinda Road in Badulla.
-
-Among the deceased were two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU). The students had been traveling on a field trip when the bus hit a curb and overturned.
-
-...
-
-[Data](articles/80bddd65.json)
-
-[Extended Data](ext_articles/80bddd65.ext.json)
-
----
-
-### Another student killed in KDU bus accident
-
-*2024-11-23 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203651) · `si`
-
-Student killed in KDU bus crash near Badulla. 24-year-old from Kandamadam, Jaffna, studying at Hindu Vidyalaya. Bus carried 41 students from Kotelawala Defense University.
-
-🟩
-
-Another student who was admitted to hospital with injuries was injured in the accident and injured in the accident.
-
-The victim was a 24 year old resident of Kandamadam, Jaffna.
-
-He is a student of the Advanced Level of Hindu Vidyalaya, Jaffna.
-
-The bus, which was carrying 41 students from the Southern Defense University of Kotelawala, was crashed in the Badulla-Dunguwara.
-
-◼️
-
-[Data](articles/1b34fca5.json)
-
-[Extended Data](ext_articles/1b34fca5.ext.json)
 
 ---

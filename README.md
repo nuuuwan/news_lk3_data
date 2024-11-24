@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 04:13:03**
+As of **2024-11-25 04:01:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,677 (100.0%) of 56,680 articles have been extended.
+56,673 (100.0%) of 56,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -346,8 +346,6 @@ Alles was the Managing Director/CEO of Hatton National Bank PLC and counts over 
 
 [Data](articles/3a6a2c87.json)
 
-[Extended Data](ext_articles/3a6a2c87.ext.json)
-
 ---
 
 ### FCCISL congratulates NPP; pledges support for economic and governance reforms
@@ -363,8 +361,6 @@ In a statement, FCCISL acknowledged that the formation of the new Government, fe
 ...
 
 [Data](articles/ac25c016.json)
-
-[Extended Data](ext_articles/ac25c016.ext.json)
 
 ---
 
@@ -414,8 +410,6 @@ The visit provided an ideal platform for participants to explore opportunities i
 
 [Data](articles/4ec21a40.json)
 
-[Extended Data](ext_articles/4ec21a40.ext.json)
-
 ---
 
 ### High Commission of Sri Lanka in the Maldives launches Sri Lanka Business Council
@@ -431,8 +425,6 @@ The Council is affiliated with the High Commission of Sri Lanka in the Maldives,
 ...
 
 [Data](articles/bf50d90b.json)
-
-[Extended Data](ext_articles/bf50d90b.ext.json)
 
 ---
 

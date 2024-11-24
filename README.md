@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 18:03:14**
+As of **2024-11-24 18:22:19**
 
 ## Newspaper Stats
 
-*Scraped **56,594** Articles*
+*Scraped **56,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,395
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,323
+adalk | 5,324
 adaderanalk | 6,846
 tamilmirrorlk | 8,048
 virakesarilk | 9,204
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,586 (100.0%) of 56,594 articles have been extended.
+56,586 (100.0%) of 56,595 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,24 @@ A search operation is underway to locate the two missing persons who are feared 
 [Data](articles/992e28e9.json)
 
 [Extended Data](ext_articles/992e28e9.ext.json)
+
+---
+
+### දැන් වැඩ කර පෙන්වන්න
+
+*2024-11-24 15:50:34* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-වැඩ-කර-පෙන්වන්න/11-413232) · `si`
+
+ජාතික ජන බල වේගයේ ජයග්‍රහණයට උතුරේ ජනතාව දායක වී තිබෙන්නේ විශාල බලාපොරොත්තු සමුදායක් සමඟ බවත්මීට පෙර කිසිදු පක්ෂයකට එම ජනතාවගේ විශ්වාසය දිනා ගැනීමට නොහැකි වූ බවත්මල්වතු පාර්ශවයේ  මහනායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මහා නා හිමියෝ පවසයි.
+
+මහා නා හිමියන් ඒ බව අවධාරණය කර සිටියේ විදේශ කටයුතුවිදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් සහකෘෂිකර්ම පශුසම්පත්ඉඩම් සහ වාරි මාර්ගඅමාත්‍යකේ.ඩී. ලාල් කාන්ත යන මහත්වරුන්මල්වතු මහා විහාරයට පැමිණ උන්වහන්සේ බැහැදුටු අවස්ථාවේදීය.
+
+පසුගිය කාලයේ සිදු වූ දේවල් හොඳින් අවබෝධ කරගෙනයි ජනතාව ජාතික ජන බලවේගයට මෙවැනිවාර්තාගත ජයග්‍රහණයක් ලබා දී තිබෙන්නේ. දැන් ඔබලාට තිබෙන්නේවැඩ කර පෙන්වීමයි.
+
+මැතිවරණ දිස්ත්‍රික්ක 22න් 21කම ජයග්‍රහණය ඔබලට ලබා දී තිබෙනවා.ජනතාව විශාල බලාපොරොත්තු කන්දරාවක් සමඟයි ඔබලාට එවැනි ජයග්‍රහණයක් ලබා දීතිබෙන්නේ.ඒවා ඉටුකිරීමේ වගකීමදැන් ඔබලාට තිබෙනවා. ඒ සඳහා ඔබ සියලු දෙනා කැපවිය යුතුයි.
+
+...
+
+[Data](articles/59ad95cf.json)
 
 ---
 
@@ -2377,41 +2395,5 @@ He referred to the allegations of bribery in Sri Lankan Airlines’ purchase of 
 [Data](articles/903b8fcd.json)
 
 [Extended Data](ext_articles/903b8fcd.ext.json)
-
----
-
-### Seven 6 million reveals
-
-*2024-11-23 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203664) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police reveal details on 2 robbers: suspects fled with 3.5Bn, used taxis, called from Kurunegala, returned to Jaffna. Driver & assistant arrested. Police suspect Indian involvement, taking precautions.
-
-🟩
-
-The police have revealed that the two main suspects of robbing the robbery of the robbery of the robbery have tried to flee the two main suspects of robbing Rs.
-
-Two other suspects have been arrested for assisting them.
-
-The driver of a privately transporting private company was carrying money to a private bank while carrying money to a private bank of Minuwangoda.
-
-The Gampaha Divisional Investigation Unit has revealed several important information on this.
-
-The main suspect, a 37-year-old Tushara Indika Zoysa is a resident of Katatana, another 40 year old Udugampala.
-
-While the two suspects were carried out by the loot, he had given about three and a half billion rupees with money.
-
-The police have revealed that the two had taken place and went to a censorship center in Kurunegala.
-
-The investigation was recovered by examining many CCTV footage and the police had gone to the place and the two had gone from there to Nagadeepa from there.
-
-...
-
-[Data](articles/9dba5110.json)
-
-[Extended Data](ext_articles/9dba5110.ext.json)
 
 ---

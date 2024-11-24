@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 12:41:32**
+As of **2024-11-24 13:26:56**
 
 ## Newspaper Stats
 
-*Scraped **56,552** Articles*
+*Scraped **56,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,394
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,313
+adalk | 5,315
 adaderanalk | 6,838
-tamilmirrorlk | 8,042
+tamilmirrorlk | 8,044
 virakesarilk | 9,198
 adaderanasinhalalk | 9,763
 
@@ -26,29 +26,153 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,548 (100.0%) of 56,552 articles have been extended.
+56,556 (100.0%) of 56,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
 
-### தகாத உறவால் தலை துண்டிப்பு
+### IPL. Player auction today
+
+*2024-11-24 12:44:53* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්--ක්‍රීඩක-වෙන්දේසිය-අද/9-413228) · `si`
+
+IPL player auction 2025: 29 Sri Lankan players participate; event starts today at 3:30 PM.
+
+🟩
+
+IPL. The Auction for the 2025 tournament will be held today (24) and tomorrow (25th).
+
+Accordingly, the players' auction will start at 3.30 pm today.
+
+29 players in Sri Lanka have been signed up for the athletic auction this year.
+
+◼️
+
+[Data](articles/3e3c5534.json)
+
+[Extended Data](ext_articles/3e3c5534.ext.json)
+
+---
+
+### Shit attack on the converted crew
+
+*2024-11-24 12:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதமாற்றிய-குழுவினர்-மீது-மலம்-வீசி-தாக்குதல்/175-347684) · `ta`
+
+Attack on converted crew: Religious deception leads to violence. Women claimed divine healing, sparking conflict. Protesters demand conversion to Buddhism. Police intervene, investigation ongoing.
+
+🟩
+
+The incident in which a ruling group was attacked under the guise of religious worship to cure diseases.
+
+A woman from Varagama Pathagala, Siyambalanduwa, has said that the sick women in her home are worshiped by the deity and that they are further healed.
+
+In addition, a woman from Kandy has married a resident of Varagama area and is being worshiped at her home in Varagama.
+
+The rectal attack was carried out on the bus when a group of patients who had been service were sent to the Weligampitiya Prayer Center for further treatment.
+
+The police then intervened at the request of the people who were traveling on the bus and sent them back to the Ja Ela area.
+
+About 200 residents of the Siambalanduwa Sasanarshaka Council, Buddha Rajamaha Viharathi Panamaye Ratanasara, and many others staged a protest near the school.
+
+They fought the people of the area to implement a plan to convert Christianity to Christianity.
+
+...
+
+[Data](articles/1b6efe2a.json)
+
+[Extended Data](ext_articles/1b6efe2a.ext.json)
+
+---
+
+### Headache
+
+*2024-11-24 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தகாத-உறவால்-தலை-துண்டிப்பு/76-347683) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Murder case: Bandarawela magistrate orders interrogation of suspect & "counterfeit" girlfriend over Roshan Timuthu's death. Suspect allegedly killed victim in Aluthwela forest, burying head separately. Police investigation led to discovery of body parts at Diyatalawa hospital.
+
+🟩
+
+Bandarawela Magistrate Balinda Manoj Weerasinghe has ordered the suspect and his counterfeit girl to be interrogated till December 05, in connection with the murder of Roshan Timuthu
+
+The suspect and the murdered, the widow living in the Suriyagoda area of ​​Tanamalwila - Hambagamuwa, has been in an abusive relationship with a woman.
+
+A 46 -year -old suspect from Balauwa area has been harassed by his counterfeit man, alleging that the suspect was allegedly harassing his counterfeiter and took him to the Aluthwela Hamuduruganda forest area.
+
+This is how he took him into the forest and cut off his head. He buried the disconnected head elsewhere and threw it near the other part of the body (Kavanta).
+
+In the meantime, his mother has lodged a complaint with the police that his son Roshan Timuthu disappeared.
+
+According to the information received by the police, the police have gone to the suspect's house and the information has been revealed.. Investigations conducted by him revealed the murder.
+
+...
+
+[Data](articles/8f9bdb58.json)
+
+[Extended Data](ext_articles/8f9bdb58.ext.json)
+
+---
+
+### Headache
 
 *2024-11-24 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகாத-உறவால்-தலை-துண்டிப்பு/175-347683) · `ta`
 
-தனமல்வில பொலிஸ் பிரிவிற்குட்பட்ட அரம்பேகெம பகுதியைச் சேர்ந்த ரொஷான் திமுத்து (35) என்பவரை கொலை செய்த சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட சந்தேகநபர் மற்றும் அவரது கள்ளக்காதலி எதிர்வரும் டிசம்பர் மாதம் (05) வரை விளக்கமறியலில் வைக்குமாறு பண்டாரவளை பதில் நீதவான் பாலிந்த மனோஜ் வீரசிங்க உத்தரவிட்டுள்ளார்
+Here's a summary of the text in approximately 200 characters:
 
-சந்தேக நபர் மற்றும் கொலை செய்யப்பட்டவரும், தனமல்வில - ஹம்பேகமுவ, சூரியகொட பிரதேசத்தில் வசிக்கும் விதவை பெண் ஒருவருடன் தகாத  உறவில் இருந்துள்ளனர்.
 
-பலஹருவ பிரதேசத்தைச் சேர்ந்த 46 வயதுடைய சந்தேக நபர்,  தனது கள்ளகாதலிக்கு அடிக்கடி தொந்தரவு கொடுத்து வந்தநபரை கூறிய ஆயுதத்தால் சந்தேக நபர் கூறி அவரை மோட்டார் சைக்கிளில் ஏற்றிக்கொண்டு அலுத்வெல ஹமுதுருகந்த காட்டுப் பகுதிக்கு அழைத்துச் சென்றுள்ளார்.
 
-இவ்வாறே காட்டுக்குள் அழைத்துச்சென்று, தலையை துண்டித்துள்ளார். அவ்வாறு துண்டிக்கப்பட்ட தலையை வேறு இடத்தில் புதைத்து, உடலின் மற்ற பகுதி (கவந்தா) கால்வாய் அருகே வீசியுள்ளார்.
+Murder case: Bandarawela magistrate orders interrogation until Dec 5. Suspect killed girlfriend Roshan Timuthu over abuse claims. Body parts found; autopsy conducted.
 
-இந்தநிலையில், தனது மகன் ரொஷான் திமுத்து காணாமல் போனதாக பொலிஸாரிடம் அவரது தாய் கடந்த 18ஆம் திகதி முறைப்பாடு அளித்துள்ளார்.
+🟩
+
+Bandarawela Magistrate Balinda Manoj Weerasinghe has ordered the suspect and his counterfeit girl to be interrogated till December 05, in connection with the murder of Roshan Timuthu
+
+The suspect and the murdered, the widow living in the Suriyagoda area of ​​Tanamalwila - Hambagamuwa, has been in an abusive relationship with a woman.
+
+A 46 -year -old suspect from Balauwa area has been harassed by his counterfeit man, alleging that the suspect was allegedly harassing his counterfeiter and took him to the Aluthwela Hamuduruganda forest area.
+
+This is how he took him into the forest and cut off his head. He buried the disconnected head elsewhere and threw it near the other part of the body (Kavanta).
+
+In the meantime, his mother has lodged a complaint with the police that his son Roshan Timuthu disappeared.
+
+According to the information received by the police, the police have gone to the suspect's house and the information has been revealed.. Investigations conducted by him revealed the murder.
 
 ...
 
 [Data](articles/92ff84e6.json)
+
+[Extended Data](ext_articles/92ff84e6.ext.json)
+
+---
+
+### Defender driver intentionally crashed into a beggar
+
+*2024-11-24 12:00:18* · [`adalk`](https://www.ada.lk/breaking_news/යාචකයෙක්-හිතාමතාම-යටකළ-ඩිෆෙන්ඩර්-රියදුරු-අල්ලයි/11-413225) · `si`
+
+Driver crashes jeep into sleeping beggar. 47-year-old suspect from Nugegoda. Incident occurred near Maharagama. Victim seriously injured. Police investigating.
+
+🟩
+
+Maharagama Police said that a person who was sleeping in front of a Deposal jeep on a nearby home junt, Maharagama.
+
+The suspect was a 47 year old resident of Nugegoda, Nugegoda.
+
+Investigations have revealed that the shop was closed back in front of the sleeping man who had been laid back to the recipient of the person who had been laid in front of the sleeping person around 9.40 pm.
+
+The driver of a car had tried to stop it and tried to stop it and took the jeep back and the driver of the jeep had come to Colombo and the police had received the registration number of the jeep.
+
+The victim has been seriously injured in the area of ​​the person who was sleeping in the accident.
+
+The Defenders were disseminated by a CD, which was installed near the accident.
+
+◼️
+
+[Data](articles/467bc693.json)
+
+[Extended Data](ext_articles/467bc693.ext.json)
 
 ---
 
@@ -70,6 +194,8 @@ Authorities urge residents in low-lying areas near the Nilwala River to remain v
 
 [Data](articles/629d4cb1.json)
 
+[Extended Data](ext_articles/629d4cb1.ext.json)
+
 ---
 
 ### CAA to launch special raids during festive season
@@ -89,6 +215,8 @@ Consumers who encounter issues such as expired goods, misleading promotions, or 
 ◼️
 
 [Data](articles/f4d56b62.json)
+
+[Extended Data](ext_articles/f4d56b62.ext.json)
 
 ---
 
@@ -933,6 +1061,8 @@ The Jenolan caves, some 175 kilometres to the west of Sydney, got their name fro
 ...
 
 [Data](articles/98027d34.json)
+
+[Extended Data](ext_articles/98027d34.ext.json)
 
 ---
 
@@ -2399,91 +2529,5 @@ It is also reported that the tax -free vehicle license has been deleted to MPs.
 [Data](articles/9a2e4688.json)
 
 [Extended Data](ext_articles/9a2e4688.ext.json)
-
----
-
-### Local government election at the beginning of next year
-
-*2024-11-23 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203649) · `si`
-
-Local government elections scheduled early next year: Supreme Court ruling no funds allocated this year but preparations underway for Pradeshiya Sabha Urban Council election.
-
-🟩
-
-Foreign Affairs and Tourism Vijitha Herath said that the local government elections have been conducted in early next year.
-
-Speaking to the media this was in response to the media this morning (23) in the Kandy area.
-
-"The Supreme Court has ruled that the local government elections are soon. No funds have been allocated this year. But the total government election in the early days next year.. That is, we are ready to hold the Pradeshiya Sabha Urban Council election. "
-
-◼️
-
-[Data](articles/901a4fd9.json)
-
-[Extended Data](ext_articles/901a4fd9.ext.json)
-
----
-
-### Decisions taken about Sri Lanka in the third review of the IMF
-
-*2024-11-23 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203648) · `si`
-
-Sri Lanka IMF review: New $333m loan approved; $2.9b over 4 years; Government commits to maintaining policies.
-
-🟩
-
-The International Monetary Fund announced that the Sri Lankan authorities have agreed to review the program 3 on the amendment of the program regarding the comprehensive loan facility to be given to Sri Lanka by the International Monetary Fund.
-
-After the management of the International Monetary Fund and the Executive Board approved it will receive about $ 333 million.
-
-The statement states that the commitment of the new government to maintain policies is important in order to achieve the objectives of the program.
-
-Peter Bruce was led by the International Monetary Fund delegation, and they stayed from November 17.
-
-On March 20, 2023, the International Monetary Fund approved $ 2.9 billion for Sri Lanka. It is in 48 months.
-
-◼️
-
-[Data](articles/0c4bda98.json)
-
-[Extended Data](ext_articles/0c4bda98.ext.json)
-
----
-
-### IMF reaches staff-level agreement on third review of Sri Lanka’s EFF
-
-*2024-11-23 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103704/imf-reaches-staff-level-agreement-on-third-review-of-sri-lankas-eff) · `en`
-
-IMF staff and the Sri Lankan authorities have reached staff-level agreement on economic policies to conclude the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF).
-
-Once the review is approved by IMF Management and completed by the IMF Executive Board, Sri Lanka will have access to about US$333 million in financing, a statement said.
-
-The new government’s commitment to the program objectives has enhanced confidence and ensures policy continuity, it said, adding that sustaining the reform momentum is critical to safeguarding the hard-won gains under the program thus far and putting the economy on a path towards durable recovery and stable and inclusive growth.
-
-...
-
-[Data](articles/20379177.json)
-
-[Extended Data](ext_articles/20379177.ext.json)
-
----
-
-### News discussion on the third review of the IMF
-
-*2024-11-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203647) · `si`
-
-Here's a summary of the news discussion on the third review of the IMF in approximately 200 characters:
-
-
-
-"IMF faces criticism over third review. Economists warn of potential economic instability due to strict austerity measures. Developing countries express concerns about inequality and lack of support for growth initiatives."
-
-🟩
-
-◼️
-
-[Data](articles/69380233.json)
-
-[Extended Data](ext_articles/69380233.ext.json)
 
 ---

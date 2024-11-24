@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 09:29:59**
+As of **2024-11-24 09:18:36**
 
 ## Newspaper Stats
 
-*Scraped **56,529** Articles*
+*Scraped **56,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,393
 economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,310
+adalk | 5,309
 adaderanalk | 6,830
 tamilmirrorlk | 8,037
 virakesarilk | 9,197
@@ -26,29 +26,11 @@ adaderanasinhalalk | 9,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,521 (100.0%) of 56,529 articles have been extended.
+56,520 (100.0%) of 56,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
-
-### අවුරුදු 14ක් තිස්සේ  ජාතික පුහුණුකරුවෙකුත් නොමැතිව ලෝක කැරම් ශූරතාවලියේ අනුශූරතාව ලංකාවට
-
-*2024-11-24 09:02:11* · [`adalk`](https://www.ada.lk/sports/අවුරුදු-14ක්-තිස්සේ--ජාතික-පුහුණුකරුවෙකුත්-නොමැතිව-ලෝක-කැරම්-ශූරතාවලියේ-අනුශූරතාව-ලංකාවට/9-413221) · `si`
-
-ඇමෙරිකාවේ පැවති 06 වන ලෝක කැරම් ශූරතා තරගාවලියේ දී අනුශූරතාව දිනා ගෙන රිදී පදක්කම් දිනා ගත් ශ්‍රී ලංකා කැරම් පිරිමි සහ කාන්තා කණ්ඩායම් දෙක 11/23 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
-
-මීට අමතරව ශ්‍රී ලංකා කැරම් කණ්ඩායමේ ෂයිඩ් හිල්මි සහ අනාස් අහමඩ් මෙන්ම හිරුෂි මල්ෂානි සහ තරුෂි හිමහංසිකා මෙම තරගාවලියේ දී කාන්තා සහ පිරිමි යුගළ තරග වලදී තුන් වන ස්ථානය හිමි කර  ගෙන ලෝකඩ පදක්කම් දිනා ගැනීමට සමත් වී තිබුණි .
-
-මෙම තරගාවලිය ඇමෙරිකාවේ සෙන්ට් ප්‍රැන්සිස්කෝ ප්‍රාන්තයේ කැලිෆෝනියාවේ දී ඉකුත් 11/10 ත් 11/18 දින දක්වා ලෝකයේ රටවල් 18 ක ක්‍රීඩක ක්‍රීඩිකාවන්ගේ සහභාගීත්වයෙන් පවත්වා තිබුණි.
-
-මෙම ක්‍රීඩක ක්‍රීඩිකාවන් පිරිස 11/23 දින රාත්‍රී 06.25 ට චීනයේ ෂැංහයි නුවර සිට චයිනා ඊස්ටන් ගුවන් සේවයේ එම්.යූ.- 231 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-...
-
-[Data](articles/f0dcb886.json)
-
----
 
 ### 497 Indian fishermen arrested this year
 
@@ -331,8 +313,6 @@ Silva’s remarks came in the backdrop of one of the biggest electoral landslide
 ...
 
 [Data](articles/2edb5ec6.json)
-
-[Extended Data](ext_articles/2edb5ec6.ext.json)
 
 ---
 
@@ -2465,5 +2445,23 @@ The President thanked the Finance Ministry officials to defend the country in th
 [Data](articles/1d93722e.json)
 
 [Extended Data](ext_articles/1d93722e.ext.json)
+
+---
+
+### NTB introduces Sri Lanka’s first debit card with innovative notch design for visually impaired
+
+*2024-11-23 02:02:00* · [`islandlk`](http://island.lk/ntb-introduces-sri-lankas-first-debit-card-with-innovative-notch-design-for-visually-impaired/) · `en`
+
+Nations Trust Bank (NTB) has become the first in Sri Lanka to introduce the Touch Card, an initiative implemented by Mastercard.
+
+The Touch Card is specially designed to aid visually impaired and partially sighted cardholders. This innovative card enhances the bank’s range of debit cards and underscores its commitment to enhancing customer experiences that are on par with global standards.
+
+The Mastercard Touch Card features a distinct rounded notch, which enables the visually impaired Cardholders to easily distinguish it from any other card. It has been developed in collaboration with a global card manufacturer and was reviewed rigorously by notable organisations such as VISIONS in the United States of America, and the Royal National Institute of Blind People (RNIB) in the United Kingdom.
+
+...
+
+[Data](articles/a4b763bd.json)
+
+[Extended Data](ext_articles/a4b763bd.ext.json)
 
 ---

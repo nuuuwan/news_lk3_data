@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 10:41:46**
+As of **2024-11-24 11:12:54**
 
 ## Newspaper Stats
 
-*Scraped **56,540** Articles*
+*Scraped **56,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,393
 economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,310
+adalk | 5,311
 adaderanalk | 6,834
 tamilmirrorlk | 8,039
 virakesarilk | 9,198
@@ -26,25 +26,35 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,536 (100.0%) of 56,540 articles have been extended.
+56,541 (100.0%) of 56,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
 
-### 2024இல் இதுவரை 497 இந்திய மீனவர்கள் கைது!
+### 497 Indian fishermen arrested in 2024
 
 *2024-11-24 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199521) · `ta`
 
-இந்த ஆண்டில் எல்லை மீறி இலங்கை கடற்பரப்பினுள் பிரவேசித்து மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 497 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதாக கடற்படை தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-அத்துடன், 66 மீன்பிடி படகுகளில் வந்த இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதாக கடற்படை பேச்சாளர் கயான் விக்ரமசூரிய தெரிவித்துள்ளார்.
 
-கடற்றொழிலாளர்களின் பாதுகாப்பை உறுதிப்படுத்துவதுடன், இந்நாட்டு மீனவர்களின் கடற்றொழில் சார்ந்த பிரச்சினைகள், குறைபாடுகளை தீர்ப்பதற்கும் கடற்படை அதிகபட்ச பங்களிப்பை வழங்கும் என்றும் அவர் மேலும் தெரிவித்தார்.
+
+497 Indian fishermen arrested in Sri Lankan waters in 2024. Navy spokesperson Gayan Wickramasuriya confirms arrests in 66 fishing boats. Navy vows to ensure fishermen's safety and address issues.
+
+🟩
+
+497 Indian fishermen have been arrested on charges of fishing in the Sri Lankan waters this year, the Navy said.
+
+Navy spokesman Gayan Wickramasuriya said that Indian fishermen have been arrested in 66 fishing boats.
+
+He added that the Navy would make a maximum contribution to the fishermen's safety and the fishermen's fishermen's fishermen and shortcomings.
 
 ◼️
 
 [Data](articles/a52c1bd3.json)
+
+[Extended Data](ext_articles/a52c1bd3.ext.json)
 
 ---
 
@@ -112,6 +122,8 @@ A total of 59,980 sticks of foreign cigarettes, illegally smuggled into the coun
 
 [Data](articles/62c09227.json)
 
+[Extended Data](ext_articles/62c09227.ext.json)
+
 ---
 
 ### 497 Indian fishermen arrested by Sri Lanka Navy so far this year
@@ -127,6 +139,8 @@ Captain Wickramasuriya further emphasized that the Sri Lanka Navy is committed t
 ◼️
 
 [Data](articles/1b45218f.json)
+
+[Extended Data](ext_articles/1b45218f.ext.json)
 
 ---
 
@@ -179,6 +193,44 @@ However, our correspondent stated that the protesters remained in that place by 
 [Data](articles/152d7eed.json)
 
 [Extended Data](ext_articles/152d7eed.ext.json)
+
+---
+
+### The power of the people is the powerful even though they have
+
+*2024-11-24 09:14:07* · [`adalk`](https://www.ada.lk/breaking_news/කුමන-අණපනත්-තිබුණත්-ප්‍රබල-වන්නේ-ජනතාවගේ-බලයයි/11-413222) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Power of people crucial for national progress. Public service vital (80% historical significance). Government focuses on meeting people's expectations. New administration commits to good governance, supporting country development.
+
+🟩
+
+Work on one purpose and devoted our motherland to a better state
+
+Could not proceed without confirming the trust of public service
+
+Nearly 80% of the past history gave public service because the public service was also the wish
+
+The government has no goal outside the political leadership except to provide the political leadership to meet people's expectations
+
+President Anura Kumara Dissanayake said he would invite all public servants to work with one purpose and make it a better state.
+
+The President was speaking at the Ministry of Defense, Akuregoda Security Forces Headquarters to assume duties as the Defense Minister.
+
+The President who arrived at the Ministry of Defense and received honor by the staff.
+
+Thereafter, the President also discussed a discussion with the Armed Forces Commanders and the Chiefs of the Defense Ministry.
+
+The President said the new government is committed to a good governance and hopes to support the country.
+
+...
+
+[Data](articles/928ab381.json)
+
+[Extended Data](ext_articles/928ab381.ext.json)
 
 ---
 
@@ -254,27 +306,41 @@ Their relative friends were present at the Katunayake Airport, Sri Lanka Carrom 
 
 ---
 
-### IPL ක්‍රීඩක වෙන්දේසිය අද
+### IPL athletes auction today
 
 *2024-11-24 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203670) · `si`
 
-ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය අද (24) සහ හෙට (25) සෞදි අරාබියේ ජෙඩා නුවරදී පැවැත්වෙයි.
+Here's a summary in 200 characters:
 
-IPL ක්‍රීඩක වෙන්දේසියක් ඉන්දියාවෙන් පිටතදී පැවැත්වෙන දෙවන අවස්ථාව මෙය වන අතර ක්‍රීඩක වෙන්දේසිය මෙරට වේලාවෙන් අද පස්වරු 3.30ට ආරම්භ වීමට නියමිතය.
 
-2025 IPL ක්‍රිකට් තරගාවලිය ලබන මාර්තු මස 14 වැනිදා සිට මැයි 25 වැනිදා දක්වා පැවැත්වීමට නියමිතය.
 
-ඊට අදාළ ක්‍රීඩක වෙන්දේසියට ඇතුළත් කෙරෙන අවසන් ක්‍රීඩක ලැයිස්තුව IPL තරග සංවිධායකයින් ඉකුත්දා නිවේදනය කළේය.
+IPL athlete auction today: 574 players selected, 366 Indian, 208 foreign. 10 teams to play 204 players, including 70 foreigners. 29 Sri Lankans registered, all selected. Auction in Jeddah tomorrow.
 
-2025 ක්‍රීඩක වෙන්දේසිය වෙනුවෙන් ක්‍රීඩකයන් 1574ක් ලියාපදිංචිව සිටි අතර කෙසේ වෙතත් ක්‍රීඩක වෙන්දේසිය වෙනුවෙන් තෝරාගෙන ඇත්තේ ක්‍රීඩකයන් 574 දෙනෙක් පමණි.
+🟩
 
-ඉන් ක්‍රීඩකයින් 366 දෙනෙකු ඉන්දීය ක්‍රීඩකයින් වන අතර ඉතිරි 208 දෙනා විදෙස් ක්‍රීඩකයින්ය.
+Attorney's auction at the Indian Premier League cricket tournament will be held in Jeddah tomorrow (25) and tomorrow.
 
-කණ්ඩායම් 10ක් විසින් වෙන්දේසියේදී ක්‍රීඩකයන් 204 දෙනෙකු මෙවර ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියට ක්‍රීඩා කිරීම වෙනුවෙන් තෝරා ගැනීමට නියමිත අතර ඉන් 70 දෙනෙකු විදෙස් ක්‍රීඩකයින්ය.
+This is the second chance of an IP player auction outside of India, and the player auction will commence today at 3.30 pm today.
 
-...
+The 2025 IPL cricket tournament will be held from March 14 to May 25th.
+
+IPL organizers recently announced the final list of player lists on the relevant player auction.
+
+The 2025 players registered 1574 players for the athletic auction, however, only 574 players have been selected for athletes auction.
+
+Of these, 366 players are Indian players and the remaining 208 are foreign players.
+
+10 teams to play 204 players to play at the Indian Premier League this year, of which 70 are foreign players.
+
+Although 29 players from Sri Lanka registered for this year, 29 players have been selected to admit the auction.
+
+Sri Lankan athletic Warshana and Mahine inspects Sri Lankan athletes at the auction.
+
+◼️
 
 [Data](articles/4144b35d.json)
+
+[Extended Data](ext_articles/4144b35d.ext.json)
 
 ---
 
@@ -2427,41 +2493,5 @@ Upon his arrival at the Ministry, the President was warmly welcomed by the staff
 [Data](articles/f6d04ee2.json)
 
 [Extended Data](ext_articles/f6d04ee2.ext.json)
-
----
-
-### Replace me immediately;Mannar Doctor Azad
-
-*2024-11-23 09:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உடனடியாக-என்னை-இடமாற்றம்-செய்யவும்-மன்னார்-வைத்தியர்-ஆசாத்/72-347647) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Dr. Azad faces threats after baby's death at Mannar Hospital. Protesters demand his removal. He seeks protection, requesting relocation due to unsafe work environment."
-
-🟩
-
-Dr. Azad M. Haniba, Director of the Mannar District General Hospital, has issued a furious request to the Secretary of the Union Health Ministry demanding the immediate relocation of my life.
-
-He sent an emergency letter to the Secretary of the Union Health Ministry yesterday (22).
-
-Since I was appointed as the Superintendent of the Mannar District General Hospital, I have dedicated myself to improve health services by implementing many health quality improvements and safety measures.
-
-However, the unfortunate embryo died at the Mannar District General Hospital on the 19th of this month.
-
-I have taken appropriate action on the death of the mother and the infant.
-
-However, the gang entered the maternity hotel and damaged the property of the hospital.
-
-When I went there, I sought the help of police officers to discuss the situation and control the attendance meeting.
-
-However they tried to attack me personally. They shouted me saying me was the killer. Some of them tried to attack me.
-
-...
-
-[Data](articles/f65a8faa.json)
-
-[Extended Data](ext_articles/f65a8faa.ext.json)
 
 ---

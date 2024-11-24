@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 21:42:46**
+As of **2024-11-24 22:01:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,637 (100.0%) of 56,639 articles have been extended.
+56,639 (100.0%) of 56,639 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1014,17 +1014,25 @@ The Blood River flowed in the country by the Revolution that launched the Janath
 
 ---
 
-### බිලියන ගණනක මත්ද්‍රව්‍ය සමග ලංකාවේ බහුදින ධීවර යාත්‍රාවක් මාලදිවයිනේදී අල්ලයි
+### Sri Lanka's multi-day fishing vessel in Sri Lanka seized from Maldives
 
 *2024-11-24 17:29:30* · [`adalk`](https://www.ada.lk/breaking_news/බිලියන-ගණනක-මත්ද්‍රව්‍ය-සමග-ලංකාවේ-බහුදින-ධීවර-යාත්‍රාවක්-මාලදිවයිනේදී-අල්ලයි/11-413241) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව සහ මාලදිවයින් වෙරළ ආරක්‍ෂක බළකාය අතර සාර්ථක බුද්ධි තොරතුරු වුවමාරු කර ගැනීමක ප්‍රථිපලයක් ලෙස, අයිස් මත්ද්‍රව්‍ය (Crystal Methamphetamine) ක්‍රිලෝ ග්‍රෑම් 344 ක පමණ තොගයක් සහ කොකේන් මත්ද්‍රව්‍ය ක්‍රිලෝ ග්‍රෑම් 124 ක පමණ තොගයක් රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක් සමඟ සැකකරුවන් පස් දෙනෙකු (05) 2024 නොවැම්බර් මස 23 වන දින, මාලදිවයින් වෙරළ ආරක්‍ෂක බළකාය මඟින් අත්අඩංගුවට ගැනීමට සමත්වී ඇත.
+Sri Lanka Navy seizes multi-day fishing vessel off Maldives coast. Arrests made, drugs found. Cooperation between navies ongoing.
 
-මාලදියින් අනන්‍ය ආර්ථික කළාපය වෙත “අශේන් පුතා” ලියාපදිංචි අංක IMUL-A-0924-MTR දරණ ශ්‍රී ලංකාවට අයත් බහුදින ධීවර යාත්‍රාව ඇතුලුවී ඇති බවත්, එම යාත්‍රාව   යම් දෝෂයක් හෝ ආපදාවක් හේතුවෙන් එම මුහුදු ප්‍රදේශයට ඇතුලුවි ඇත්ද යන්න සනාත කරන ලෙසත්, මාලදිවයින් වෙරළ ආරක්‍ෂක බළකායේ සමුද්‍රිය සෙවීම් හා මුදාගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානය මඟින්, නාවික හමුදා මුලස්ථානයේ පිහිටි කොළඹ සමුද්‍රිය සේවිම් හා මුදාගැනිම් සම්බන්ධිකරණ මධ්‍යස්ථානය වෙත 2024 නොවැම්බර් මස 23 වන දින අළුයම දැනුම් දීමක් සිදු කෙරිණි.
+🟩
+
+As a result of a successful intelligence security force, a resulted in the Sri Lanka Navy and the Maldivian Beach Security Forces, five crystal methamphemphemphetamine crystalized crics (344 grams of cocaine) and a multi-day fishing vessel in Sri Lanka (124 grams)05. November 23 ,,34, was arrested by the Maldives Coast Guard.
+
+The Maldivian Coast Guard, "Ashen Son" has entered the multi-day fishing vessel in the traded.The Coordinating Center of the Maritime Seware and Rescue Coordination Center, the Coordinating Center of the Navy Headquarters was held on November 23.
+
+Accordingly, the Navy, who is immediately implemented to be informed, inspected information about the vessel. According to the Navy's intelligence, "Ashen 'registration number IMUL-Na-0924-MTR, the Navy Vice Admiral Priyantha Perera expedited the intellectual information expeditiouslyThe Navy was exchanged with the Coast Guard.
 
 ...
 
 [Data](articles/26424ea7.json)
+
+[Extended Data](ext_articles/26424ea7.ext.json)
 
 ---
 
@@ -1106,27 +1114,39 @@ The Department of Meteorology has been instructed to take necessary steps to red
 
 ---
 
-### සජබ ජාතික ලැයිස්තු මන්ත්‍රීධුර ගැන අර්බුදයක් නෑ
+### Negative seat on national list
 
 *2024-11-24 17:09:09* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ජාතික-ලැයිස්තු-මන්ත්‍රීධුර-ගැන-අර්බුදයක්-නෑ/11-413239) · `si`
 
-සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර පත් කිරීම සම්බන්ධයෙන් කිසිදු අර්බුදයක් නොමැති බවත්, එය නිසි කලට, නිසි ක්‍රමවේදයක් අනුව සිදු කරන බවත් සමගි ජන බලවේගයේ නායක, විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Here's a summary of 200 characters:
 
-කොළඹ විපක්ෂනායක කාර්යාලයේදී මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්න වලට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා ප්‍රශ්න වලට මෙලෙස පිළිතුරු ලබා දුන්නේය.
 
-ප්‍රශ්නය – දැන් මොකක්ද ජාතික ලැයිස්තු මන්ත්‍රී ධුර ගැන කරන්නේ ?
+Opposition Leader Sajith Premadasa denies crisis over national list appointments. He says they're working on it and will inform the Election Commission. Refuses to comment on Sujeewa Senasinghe's potential inclusion, stating they're prioritizing those responsible for building the country.
 
-පිළිතුර – නිසි කලට, නිසි ලෙසට, නිසි ආකාරයට සිදුවෙයි. අපි ඒක දැනුම් දෙන්නම්.
+🟩
 
-පිළිතුර – අපි ඒවා දැනුම් දෙන්නේ ක්‍රමවේදයකට. ව්‍යවස්ථානුකූලව. ඒ දැනුම්දීමේ ක්‍රමවේදය අපි එලෙස ක්‍රියාත්මක කරනවා. ඒ අනුව අපි මැතිවරණ කොමිෂන් සභාවට අපි දැනුම් දෙනවා.
+Leader of the Opposition Leader Sajith Premadasa said that there is no crisis on the appointment of the national listings of the people of the people of the people.
 
-ප්‍රශ්නය – සුජීව සේනසිංහ මහත්මයා ඇවිත් ගියා අපි දැක්කා. එතුමා අවේ ඔබතුමාගෙන් ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් ඉල්ලන්නද?
+He was responding to the questions posed by journalists at the Colombo Opposition Office.
 
-...
+The Opposition Leader Sajith Premadasa answered questions.
+
+Q: What is the national list MPs now?
+
+A. At time, properly occur properly, properly. We'll let that happen.
+
+A. We will inform them in a way. Stativated. We implement that notification methodology. We will inform the Elections Commission.
+
+Q. We saw Sujeewa Senasinghe. Will he ask you a national list MP?
+
+A. There is no problem to solve. We're working on time on time. If we talked about all the people on the background list are high. My will, those who should have their responsibilities in the building of building the country. Therefore, these lists are a very different division.
+
+◼️
 
 [Data](articles/a2c11873.json)
+
+[Extended Data](ext_articles/a2c11873.ext.json)
 
 ---
 

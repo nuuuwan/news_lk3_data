@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 08:55:09**
+As of **2024-11-24 07:31:29**
 
 ## Newspaper Stats
 
-*Scraped **56,527** Articles*
+*Scraped **56,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,83 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
-islandlk | 3,393
+islandlk | 3,392
 economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,308
 adaderanalk | 6,830
-tamilmirrorlk | 8,037
+tamilmirrorlk | 8,034
 virakesarilk | 9,197
-adaderanasinhalalk | 9,759
+adaderanasinhalalk | 9,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,517 (100.0%) of 56,527 articles have been extended.
+56,508 (100.0%) of 56,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
-
-### 497 Indian fishermen arrested this year
-
-*2024-11-24 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203669) · `si`
-
-497 Indian fishermen arrested this year for violating Sri Lankan waters. Navy spokesperson claims maximum safety measures taken.
-
-🟩
-
-497 Indian fishermen have been arrested as a result of violating the sales of the Sri Lankan in this year.
-
-Navy Spokesperson Capithan Gayan Wickremasturiya stated. The Indian fishermen have been arrested in 66 fishing boats.
-
-He also said that the Navy has contributed to the maximum contribution to the safety of fishermen.
-
-◼️
-
-[Data](articles/38757546.json)
-
-[Extended Data](ext_articles/38757546.ext.json)
-
----
-
-### President Anura is today's birthday
-
-*2024-11-24 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203668) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake celebrates his 56th birthday today (24). Born on November 24, 1968, he graduated in Science from University of Kelaniya in 1995. Elected as Member of Parliament in 2000 and became JVP leader in 2014. He was elected President of Sri Lanka on September 21, 2021.
-
-🟩
-
-President Anura Kumara Dissanayake is today (24).
-
-Anura Kumara Dissanayake, who was born on November 24, 1968, was now 56 years ago.
-
-He appeared in the GCE Advanced Level Examination at Thambuttegama Central College, Thambuththegama Central College, Thambuththegama Central College, Thambuththegama Central College.
-
-Anura Kumara Dissanayake, who was admitted to the Vidyalaya of University of Kelaniya in 1992, has graduated in Science in 1995.
-
-He contributed to the massive popular protests throughout the country against the Indo-Lanka Accord celebrated in 1987 in 1987.
-
-Anura Kumara Dissanayake has won the post of National Organizer of the Socialist Students Union in 1997 after the massive state repression was undergoing repression.
-
-In 1997, he was elected to the Central Committee of the JVP in 1998 he included in the Political Bureau of the JVP.
-
-The JVP candidate for the 1999 provincial council candidate was to contest for the Central Provincial Council.
-
-...
-
-[Data](articles/d062ce03.json)
-
-[Extended Data](ext_articles/d062ce03.ext.json)
-
----
 
 ### Heavy rains still
 
@@ -142,8 +84,6 @@ This top award which was won by Softlogic Life created a first for the insurance
 
 [Data](articles/6d26167d.json)
 
-[Extended Data](ext_articles/6d26167d.ext.json)
-
 ---
 
 ### Sri Lanka Cancer Society and AIA Insurance renew partnership
@@ -157,8 +97,6 @@ The Sri Lanka Cancer Society (SLCS) is a dedicated non-profit organization commi
 ...
 
 [Data](articles/1eb5db7b.json)
-
-[Extended Data](ext_articles/1eb5db7b.ext.json)
 
 ---
 
@@ -176,8 +114,6 @@ Taking place on Saturday November 30, this year’s market promises a festive ex
 
 [Data](articles/462b5e03.json)
 
-[Extended Data](ext_articles/462b5e03.ext.json)
-
 ---
 
 ### Suwa Diviya ‘Live Well Health Fair’ brings health and wellness to Colombo
@@ -194,8 +130,6 @@ The event primarily targets the public, including children, the youth, and senio
 
 [Data](articles/602508e6.json)
 
-[Extended Data](ext_articles/602508e6.ext.json)
-
 ---
 
 ### My Final Chapter in Sri Lanka
@@ -209,8 +143,6 @@ Cyril was a master of public relations, capable of crafting newsworthy stories a
 ...
 
 [Data](articles/68791ac2.json)
-
-[Extended Data](ext_articles/68791ac2.ext.json)
 
 ---
 
@@ -228,8 +160,6 @@ The donation by the two companies flows from a strategic collaboration between C
 
 [Data](articles/123e8d1c.json)
 
-[Extended Data](ext_articles/123e8d1c.ext.json)
-
 ---
 
 ### New Anthoney’s Group signs pledge to combat Antimicrobial Resistance during World AMR Awareness Week
@@ -245,8 +175,6 @@ This comes as part of a series of WAAW-focused activities by New Anthoney’s Gr
 ...
 
 [Data](articles/023561d7.json)
-
-[Extended Data](ext_articles/023561d7.ext.json)
 
 ---
 
@@ -294,22 +222,6 @@ At the Third SAARC Summit Meeting in Nepal on November 2-4, 1987, 1 had called f
 
 ---
 
-### The NPP’s ascent and the Opposition’s descent in Sri Lanka
-
-*2024-11-24 03:56:00* · [`islandlk`](http://island.lk/the-npps-ascent-and-the-oppositions-descent-in-sri-lanka/) · `en`
-
-At parliamentary elections in Sri Lanka last week, the centre-left National People’s Power (NPP) checked all lists and squared all circles, winning not just traditional seats but also polling divisions populated by minority communities.
-
-Speaking to the media on Friday, November 15, hours after general election results were announced in Sri Lanka, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP), the dominant member in the National People’s Power (NPP) alliance that governs the country, acknowledged that his party would commit to “developing the country, eradicating corruption, and enhancing democracy with accountability.”
-
-Silva’s remarks came in the backdrop of one of the biggest electoral landslides in the island’s political history: the NPP, reduced to three seats at the 2020 general election, gained a two-thirds majority, obtaining 159 seats and 61 percent of the vote, last week.
-
-...
-
-[Data](articles/2edb5ec6.json)
-
----
-
 ### Netanyahu welcomes Trump’s re-election to second term
 
 *2024-11-24 03:54:00* · [`islandlk`](http://island.lk/netanyahu-welcomes-trumps-re-election-to-second-term/) · `en`
@@ -351,54 +263,6 @@ On July 8, thousands of university students marched to the Galle Face Green in a
 ...
 
 [Data](articles/12d688f2.json)
-
----
-
-### சுற்றுலாப் பயணிகள் வருகை அதிகரிப்பு
-
-*2024-11-24 01:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகள்-வருகை-அதிகரிப்பு/175-347676) · `ta`
-
-இந்த மாதத்தின் முதல் 20  நாள்களில் 120,961 சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
-
-இந்தியாவிலிருந்தே அதிகளவான சுற்றுலாப் பயணிகள் நாட்டுக்கு வந்துள்ளனர். அந்த எண்ணிக்கை 26,717 ஆகும்.
-
-அதன்படி, இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் நாட்டுக்கு வருகைதந்துள்ள சுற்றுலாப் பயணிகளின் மொத்த எண்ணிக்கை 17 லட்சத்து 41 ஆயிரத்து 676 ஆகும்.
-
-இந்தநிலையில், கடந்த வருடம் இலங்கை வருகை தந்த சுற்றுலாப் பயணிகளின் மொத்த எண்ணிக்கை 14 லட்சத்து 87 ஆயிரத்து 303 என சுற்றுலா அபிவிருத்தி அதிகாரசபை தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/31693b4a.json)
-
----
-
-### வங்காள விரிகுடாவில் குறைந்த காற்றழுத்த தாழ்வு
-
-*2024-11-24 01:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்காள-விரிகுடாவில்-குறைந்த-காற்றழுத்த-தாழ்வு/175-347674) · `ta`
-
-அது மேற்கு, வடமேற்கு திசையில் நகர்ந்து நாளை தென்மேற்கு வங்காள விரிகுடாவில் காற்றழுத்த தாழ்வு மண்டலமாக வலுப்பெற வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-இது மேலும் வலுவடைந்து இலங்கையின் வடக்கு கரையோரத்தை நோக்கி நகரக்கூடும் என எதிர்வு கூறியுள்ள அந்த திணைக்களம், நாட்டினுள்ளும் நாட்டைச் சூழவுள்ள கடற்பரப்புகளுக்கும் ‘சிவப்பு’ வானிலை எச்சரிக்கையை விடுத்துள்ளது.
-
-இதன் காரணமாகக் கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில பகுதிகளில் 150 மில்லிமீற்றருக்கும் அதிகமான கடுமையான மழை வீழ்ச்சி பதிவாகக்கூடும் என எதிர்வு கூறப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/55174264.json)
-
----
-
-### லெபனானில் வான் தாக்குதல்: 11 பேர் பலி
-
-*2024-11-24 01:17:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-வான்-தாக்குதல்-11-பேர்-பலி/50-347673) · `ta`
-
-லெபனானின் தலைநகரான பெய்ரூட்டின் மத்திய பகுதியில் இஸ்ரேலினால் நேற்று நடத்தப்பட்ட வான்வழித் தாக்குதலில் 11 பேர் கொல்லப்பட்டுள்ளனர்.
-
-பெய்ரூட்டில் உள்ள 8 மாடிக் கட்டிடம் தாக்கப்பட்டதில் அந்த கட்டடம் முற்றாக சேதமடைந்துள்ளது. (a)
-
-◼️
-
-[Data](articles/8592fa34.json)
 
 ---
 
@@ -2461,5 +2325,139 @@ People’s Bank has already stamped its leadership in digital marketing arena in
 [Data](articles/20a1b039.json)
 
 [Extended Data](ext_articles/20a1b039.ext.json)
+
+---
+
+### Bank stocks spur following expectations on positive credit profile of the sector
+
+*2024-11-23 02:01:00* · [`islandlk`](http://island.lk/bank-stocks-spur-following-expectations-on-positive-credit-profile-of-the-sector/) · `en`
+
+LOLC Holdings has said it divested 9.73 percent of its ordinary voting shares held in DFCC Bank through its sub-subsidiary LOLC Investment Holdings Three (Private) Limited for Rs 3.5 billion.
+
+A total 42.1 million shares were sold at Rs 85.00 each, the company has reported to CSE that LOLC Holdings acquired a 9.99 percent stake in DFCC Bank through its rights issue in 2022.LOLC Holdings stock was trading flat at 448.00. DFCC Bank stock was trading flat at 86.20
+
+Amid those developments the banking sector counters indicated acute buying interest following the Fitch Ratings announcement that they have confidence in the Sri Lankan banking sector. This has created some impetus to the market yesterday.
+
+...
+
+[Data](articles/296985cb.json)
+
+[Extended Data](ext_articles/296985cb.ext.json)
+
+---
+
+### FAAMA successfully concludes 17th Annual General Meeting
+
+*2024-11-23 02:01:00* · [`islandlk`](http://island.lk/faama-successfully-concludes-17th-annual-general-meeting/) · `en`
+
+Association working with govt to implement favourable policies for apparel industry
+
+The Fabric and Apparel Accessory Manufacturer’s Association (FAAMA), a subsidiary association of the Joint Apparel Association Forum of Sri Lanka (JAAF), hosted its 17th Annual General Meeting (AGM) 2024, at Jetwing Colombo Seven on the 29th of the October 2024.
+
+The event was attended by chief guest, Doug Sonnek, the Deputy Chief of Mission, U.S. Embassy in Sri Lanka, and guest of honour Saif Jafferjee, Chairman of the JAAF Sri Lanka.
+
+The AGM also was attended by representatives of JAAF member associations including Yohan Lawrence, JAAF SL Secretary General, and other distinguished guests such as Renuka M. Weerakoon, Director General of the Board of Investment (BOI) of Sri Lanka and P.B Hemantha Jayasinghe, Director General of Central Environmental Authority (CEA).
+
+Hilton Sri Lanka unveils festive experiences across its Iconic destinations
+
+...
+
+[Data](articles/6cf89b71.json)
+
+[Extended Data](ext_articles/6cf89b71.ext.json)
+
+---
+
+### Hilton Sri Lanka unveils festive experiences across its Iconic destinations
+
+*2024-11-23 01:55:00* · [`islandlk`](http://island.lk/hilton-sri-lanka-unveils-festive-experiences-across-its-iconic-destinations/) · `en`
+
+Hilton Sri Lanka is set to welcome the holiday season with a vibrant array of festive experiences across its esteemed properties. This year, the festivities are carefully crafted to evoke the warmth of home, where traditions are celebrated and new memories are created. Spanning multiple hotels—from the bustling city of Colombo to the serene landscapes of Yala and Weerawila—Hilton Sri Lanka’s holiday offerings promise unique celebrations infused with local flavor and global flair.
+
+Hilton Colombo began the festive season in style with a Christmas tree lighting ceremony on 13 November 2024.
+
+Hilton Colombo Residences introduces ‘Hilton Holidays,’ a series of festive experiences designed for families and business gatherings alike. From 1 – 29 December 2024.
+
+DoubleTree by Hilton Weerawila Rajwarna Resort invites families to create unforgettable memories with a schedule packed with holiday activities for all ages.
+
+...
+
+[Data](articles/500e8656.json)
+
+[Extended Data](ext_articles/500e8656.ext.json)
+
+---
+
+### Jetstar Asia takes off to Colombo
+
+*2024-11-23 01:55:00* · [`islandlk`](http://island.lk/jetstar-asia-takes-off-to-colombo/) · `en`
+
+Jetstar Asia (3K) celebrated the launch of its direct flights between Singapore and Colombo today, as the Singapore carrier becomes the only low-cost airline to operate the route.
+
+Flight 3K333, departed from Singapore’s Changi Airport this morning, heralding the start of more affordable and convenient options for travellers wanting to explore Sri Lanka’s vibrant and captivating capital.
+
+With five return flights each week, operated by their fleet of Airbus A320s, the new route offers travellers a choice of morning or evening departures, providing convenient options for those connecting through Singapore.
+
+Over 90,000 low fare seats will be available each year, giving Singaporeans and travellers from across the region another exciting travel destination while bringing thousands of tourists and business travellers to the Lion City.
+
+Jetstar Asia CEO, John Simeone, said Sri Lanka was an exciting addition to Jetstar Asia’s network.
+
+...
+
+[Data](articles/beae2367.json)
+
+[Extended Data](ext_articles/beae2367.ext.json)
+
+---
+
+### Dedicated to make the motherland the best country
+
+*2024-11-23 01:42:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்நாட்டை-சிறந்த-நாடாக-மாற்ற-அர்ப்பணிப்போம்/175-347643) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Pres. Anurakumara Dissanayake urges civil servants to unite in improving the nation. He addressed Defense Ministry staff, discussing ongoing & future initiatives. The new gov't aims to create the best regime, seeking everyone's support for national development.
+
+🟩
+
+President Anurakumara Dissanayake said that all civil servants are invited to work together to make the homeland a better country.
+
+The President made this statement when he took over the duties of the Defense Ministry at the Defense Ministry located at the Akuregoda Security Forces Headquarters yesterday (22).
+
+The President who visited the Ministry of Defense was given a great welcome by the staff.
+
+Subsequently, the President discussed the current activities and future activities of the Ministry of Defense with the commanders of the Armed Forces and the Protection Ministry.
+
+The President said that the new government is dedicated to the creation of the best regime and is expecting the support of everyone in the plan to build the country.. (A)
+
+◼️
+
+[Data](articles/680b7afd.json)
+
+[Extended Data](ext_articles/680b7afd.ext.json)
+
+---
+
+### IMF. Winning the Third Review Discussion
+
+*2024-11-23 01:29:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-மூன்றாவது-மீளாய்வு-கலந்துரையாடல்-வெற்றி/175-347642) · `ta`
+
+Sri Lanka completes IMF third review discussion successfully. Government representatives met with IMF officials, led by Senior Delegation Peter Bruver. Economic Development Deputy Minister Anil Jayantha Fernando attended on behalf of the government.
+
+🟩
+
+The third review discussion with the International Monetary Fund was held yesterday (22) at the Presidential Office.
+
+Representatives including Senior delegation Peter Bruver, Principal of the International Monetary Fund, were present on behalf of the Government of Sri Lanka, including Economic Development Deputy Minister Anil Jayantha Fernando.
+
+Accordingly, the third review discussion between the International Monetary Fund and the Government of Sri Lanka has been successfully completed, the Presidential Media Division said that it was successful.. (A)
+
+◼️
+
+[Data](articles/03efdeea.json)
+
+[Extended Data](ext_articles/03efdeea.ext.json)
 
 ---

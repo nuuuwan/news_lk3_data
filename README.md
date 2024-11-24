@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 03:25:54**
+As of **2024-11-25 02:11:50**
 
 ## Newspaper Stats
 
-*Scraped **56,677** Articles*
+*Scraped **56,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 575
 bbccomsinhala | 587
 islandlk | 3,395
 economynextcom | 3,433
-dailyftlk | 3,901
+dailyftlk | 3,883
 dailymirrorlk | 4,733
 adalk | 5,328
 adaderanalk | 6,850
@@ -26,341 +26,11 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,667 (100.0%) of 56,677 articles have been extended.
+56,659 (100.0%) of 56,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### President says State employees must dedicate to building nation that fulfils people’s aspirations
-
-*2024-11-25 03:05:47* · [`dailyftlk`](https://www.ft.lk/news/President-says-State-employees-must-dedicate-to-building-nation-that-fulfils-people-s-aspirations/56-769662) · `en`
-
-President Anura Kumara Dissanayake on Friday stated that if the current Government fails to meet the expectations set by the people in the recent mandate, it could lead to citizens losing hope in envisioning a prosperous future.
-
-He emphasised that Government officials must dedicate themselves to building a Government that fulfils the aspirations of the people.
-
-President Dissanayake made these remarks while addressing the staff of the Ministry of Finance, Planning and Economic Development, after officially assuming duties as its Minister.
-
-Upon his arrival at the Ministry, the President was warmly welcomed by the staff.
-
-He expressed heartfelt appreciation for the contributions made by the Ministry’s officials in navigating the country through the recent economic crisis. The President also emphasised the importance of continued collective effort, stating that everyone’s support would be essential in achieving future successes.
-
-...
-
-[Data](articles/7abd688c.json)
-
----
-
-### Two top cops to be questioned over Dr. Shafi arrest
-
-*2024-11-25 03:03:19* · [`dailyftlk`](https://www.ft.lk/news/Two-top-cops-to-be-questioned-over-Dr-Shafi-arrest/56-769661) · `en`
-
-Police are set to record statements from two senior officers as part of an investigation into allegations of misconduct during the 2019 arrest of the Kurunegala Teaching Hospital Senior House Officer in the Gynecology and Obstetrics Unit, Dr. Shafi Shihabdeen.
-
-Dr. Shihabdeen, who was cleared of all charges this year, lodged a formal complaint with the Ministry of Public Security in early November, urging an investigation into the circumstances of his arrest and prosecution. He has claimed the accusations against him were fabricated as part of a deliberate conspiracy involving forged documents aimed at inciting communal tensions.
-
-Following the complaint, Acting Inspector General of Police Priyantha Weerasooriya ordered an inquiry into the matter. As part of the probe, statements will now be recorded from North Western Province Senior DIG Kithsiri Jayalath and Kandy Division DIG Mahinda Dissanayake.
-
-...
-
-[Data](articles/7616c476.json)
-
----
-
-### Maldivian Coast Guard seizes Lankan fishing trawler carrying illegal drugs
-
-*2024-11-25 03:02:42* · [`dailyftlk`](https://www.ft.lk/news/Maldivian-Coast-Guard-seizes-Lankan-fishing-trawler-carrying-illegal-drugs/56-769660) · `en`
-
-Following a successful intelligence-sharing operation between the Sri Lanka Navy and the Maldivian Coast Guard, a Sri Lankan fishing trawler carrying about 344 kg of crystal methamphetamine and about 124 kg of cocaine was seized by Maldivian Coast Guard on 23 November 2024. The operation also led to the apprehension of five suspects in connection to the incident.
-
-The Maritime Rescue Coordination Centre (MRCC) Colombo, established at the Navy Headquarters, was alerted in the early hours of 23 November by the Maldivian Coast Guard’s MRCC regarding the Sri Lankan multi-day fishing trawler Ashen Putha (Reg. No. IMUL–A–0924–MTR). The trawler had reportedly entered the Maldivian Exclusive Economic Zone, prompting Maldivian authorities to request verification on whether the trawler was experiencing mechanical issues or distress.
-
-...
-
-[Data](articles/4ede97c7.json)
-
-[Extended Data](ext_articles/4ede97c7.ext.json)
-
----
-
-### Tourism Minister draws inspiration from ABBA music at Arrival from Sweden concert
-
-*2024-11-25 02:50:56* · [`dailyftlk`](https://www.ft.lk/business/Tourism-Minister-draws-inspiration-from-ABBA-music-at-Arrival-from-Sweden-concert/34-769655) · `en`
-
-Vijitha Herath recognises tourism as key driver of economic growth
-
-Expresses confidence in achieving better future for all Sri Lankans
-
-Mt. Lavinia Hotel COO Anura asserts pride in event’s success
-
-Tourism Minister Vijitha Herath delivered a hopeful message on Saturday while attending the live performance of ‘Arrival from Sweden: The Music of ABBA’, an internationally renowned tribute band.
-
-The event, which drew around 2,500 vibrant enthusiasts, was filled with music, nostalgia and entertainment, as the Minister shared admiration for the iconic band and one of his favourite songs, ‘I have a dream’.
-
-Referring to the song’s lyrics, Minister Herath expressed his optimism for Sri Lanka’s future.
-
-...
-
-[Data](articles/2f34f280.json)
-
-[Extended Data](ext_articles/2f34f280.ext.json)
-
----
-
-### Tourist arrivals surge in first 20 days of November
-
-*2024-11-25 02:48:44* · [`dailyftlk`](https://www.ft.lk/business/Tourist-arrivals-surge-in-first-20-days-of-November/34-769654) · `en`
-
-Sri Lanka’s tourism industry continues to thrive, with 120,961 tourist arrivals recorded in the first 20 days of November, marking a 17% year-on-year (YoY) increase compared to the same period a year ago.
-
-This brings the year-to-date (YTD) total to over 1.74 million visitors positioning the country to achieve its annual target of two million arrivals by the year end.
-
-Average daily arrivals in November have risen to 6,048 tourists per day – a 17% jump from the 5,170 daily average registered in the first 20 days of October 2024.
-
-However, to meet the monthly target of 198,069 arrivals, Sri Lanka must attract an average of 7,711 tourists daily for the remainder of the month.
-
-India remains the largest source market contributing 26,717 tourists in the first 20 days of November. Russia follows with 20,157 visitors, while Germany with 9,444, UK with 7,715 and Australia with 4,762 visitors round out the top five.
-
-...
-
-[Data](articles/55c609f7.json)
-
-[Extended Data](ext_articles/55c609f7.ext.json)
-
----
-
-### Funding earmarked for SMEs goes abegging
-
-*2024-11-25 02:45:40* · [`dailyftlk`](https://www.ft.lk/business/Funding-earmarked-for-SMEs-goes-abegging/34-769653) · `en`
-
-Industries and Entrepreneurship Development Minister Sunil Handunnetti reveals only Rs. 71 m disbursed from Rs. 1 b business loan fund
-
-Says existing support agencies meant to assist entrepreneurs have benefited only select few
-
-Criticises poor state of SOEs such as National Paper Company Ltd., Salusala, Laksala
-
-Emphasises making Ministry and agencies more accessible and transparent to public
-
-Announces plans to launch awareness programs about services offered by ministries
-
-Industries and Entrepreneurship Development Minister Sunil Handunnetti has criticised the mismanagement of funds and State-owned enterprises under his ministry, pledging to reform the system to better serve the public.
-
-...
-
-[Data](articles/5c3175bc.json)
-
-[Extended Data](ext_articles/5c3175bc.ext.json)
-
----
-
-### Govt. considers extended relief for SMEs amid financial woes
-
-*2024-11-25 02:44:57* · [`dailyftlk`](https://www.ft.lk/business/Govt-considers-extended-relief-for-SMEs-amid-financial-woes/34-769652) · `en`
-
-Decides to compile report on loans obtained by SMEs to design targeted relief measures, address loan obligations and enhance SME resilience
-
-A high-level meeting chaired by Senior Additional Secretary to the President on Finance and Economic Affairs G.N.R.D. Aponsu underscored the Government’s commitment to supporting Small and Medium Enterprises (SMEs) facing financial difficulties.
-
-The meeting held at the Presidential Secretariat brought together officials from the Finance Ministry, Central Bank, and Sri Lanka Banks’ Association (Guarantee) Ltd., reflecting the urgency of addressing the economic challenges confronting SMEs.
-
-At the forefront of discussions was the temporary suspension of the debt recovery process under the Parate law, which has provided critical relief for SMEs. However, this suspension is set to expire on 15 December, raising concerns over the future of struggling businesses.
-
-...
-
-[Data](articles/850bee89.json)
-
-[Extended Data](ext_articles/850bee89.ext.json)
-
----
-
-### MSME-Govt. talks on Parate law postponed amid MP training program
-
-*2024-11-25 02:44:25* · [`dailyftlk`](https://www.ft.lk/business/MSME-Govt-talks-on-Parate-law-postponed-amid-MP-training-program/34-769651) · `en`
-
-The Ceylon Federation of Micro, Small and Medium Enterprises (MSMEs) yesterday said that its much awaited meeting with the Government to address concerns about the enforcement of the Parate law has been postponed to Thursday.
-
-The delay is due to a three-day training program for new Members of Parliament currently underway, the Daily FT learns.
-
-The Parate law, which allows banks to seize collateral without a Court order in the event of loan defaults, is temporarily suspended for SMEs, but this suspension is set to expire on 15 December.
-
-The Federation expressed optimism that the Government will consider their appeal favourably, citing the ongoing dialogue with senior officials and economic advisers.
-
-The Federation members had already participated in two rounds of discussions with key figures from the Government’s Economic Council, including Prof. Anil Jayantha Fernando, Dr. Harshana Suriyapperuma, and Chathuranga Aveysinghe.
-
-...
-
-[Data](articles/3efafed9.json)
-
-[Extended Data](ext_articles/3efafed9.ext.json)
-
----
-
-### SLPA targets Rs. 85 b  revenue in 2024 as operations expand
-
-*2024-11-25 02:43:54* · [`dailyftlk`](https://www.ft.lk/business/SLPA-targets-Rs-85-b-revenue-in-2024-as-operations-expand/34-769650) · `en`
-
-Harbour Master Capt. Nirmal Silva highlights positive trends in port activity, efficiency as key drivers
-
-Projects Rs. 19 b PAT for 2024, noting dollar-denominated earnings likely to vary due to currency volatility
-
-Says SLPA registered growth in operational metrics with domestic volume rising by 23.6%, transhipment volume by 15.5%, and total volume by 17.7%
-
-Sri Lanka Ports Authority (SLPA) announced that it is on track to achieve a revenue milestone of Rs. 85 billion by the end of 2024, up from Rs. 83.7 billion in 2023, driven by significant operational growth across its services, a top official said.
-
-SLPA’s Harbour Master Capt. Nirmal Silva expressed optimism about the target, citing positive trends in port activity and efficiency gains.
-
-“We are seeing a significant upwards trend in operations and we hope the target can be achieved,” he told the Daily FT.
-
-...
-
-[Data](articles/aa5eb565.json)
-
----
-
-### Sri Lanka seeks enhanced trade ties with India, calls for quota reforms
-
-*2024-11-25 02:40:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-seeks-enhanced-trade-ties-with-India-calls-for-quota-reforms/34-769649) · `en`
-
-The Export Development Board (EDB) is pushing for strengthened trade relations with India, its third-largest export destination, as key issues around market access and trade quotas take centre stage.
-
-The request was made when Indian High Commission First Secretary and Head of the Economic and Commercial Wing Devika Lal called on EDB Chairman Mangala Wijesinghe to discuss ways to enhance bilateral trade.
-
-Wijesinghe highlighted the importance of leveraging India’s expertise to scale industries and align with global supply chains.
-
-“India is uniquely positioned to assist Sri Lanka in navigating new manufacturing trends and creating opportunities for our businesses within regional and global networks,” he said.
-
-Noting that Sri Lanka’s apparel industry, a cornerstone of its export economy, he said it faces an 8-million-piece quota restriction when exporting to India.
-
-...
-
-[Data](articles/4c89332b.json)
-
----
-
-### Agripreneurs’ Forum ready to collaborate with new Govt. for economic revival and food security
-
-*2024-11-25 02:39:13* · [`dailyftlk`](https://www.ft.lk/business/Agripreneurs-Forum-ready-to-collaborate-with-new-Govt-for-economic-revival-and-food-security/34-769648) · `en`
-
-The Sri Lanka Agripreneurs’ Forum (SLAF) last week congratulated the newly elected Government and Parliament, expressing optimism for a transformative era in Sri Lanka’s agricultural and economic landscape.
-
-“SLAF firmly believes that the new Government, with its visionary leadership, has the potential to bring about the comprehensive changes needed to uplift the agriculture sector. This leadership offers a unique opportunity to address systemic challenges while fostering innovation, sustainability, and economic inclusivity, ensuring that all stakeholders benefit from a reinvigorated and modernised framework,” SLAF said in a statement. It also said the following: This juncture presents an extraordinary opportunity to strengthen the national framework for agribusinesses, fostering an inclusive climate that supports innovation, sustainability, and growth in the agriculture sector.
-
-...
-
-[Data](articles/22e947c1.json)
-
----
-
-### Construction industry congratulates new Government
-
-*2024-11-25 02:38:41* · [`dailyftlk`](https://www.ft.lk/business/Construction-industry-congratulates-new-Government/34-769647) · `en`
-
-The Ceylon Institute of Builders (CIOB) has issued a statement on behalf of the construction industry in Sri Lanka, expressing its congratulations to the newly established President, Prime Minister and other Cabinet members, who have won an overwhelming majority in the Parliamentary elections.
-
-In the statement, Ceylon Institute of Builders President Dr. Rohan Karunaratne further stated: The construction industry is one of the largest industries in Sri Lanka. It employs 1 million direct employees and 1.6 million indirect employees. The construction industry has a turnover of nearly 1 trillion rupees and has contributed 9.6% to the GDP in the past. If the Government supports exports from this industry sector, it could earn about 2 billion dollars in foreign exchange.
-
-...
-
-[Data](articles/6414094b.json)
-
----
-
-### Jonathan Alles joins Haycarb, Singer Boards
-
-*2024-11-25 02:37:04* · [`dailyftlk`](https://www.ft.lk/business/Jonathan-Alles-joins-Haycarb-Singer-Boards/34-769646) · `en`
-
-Ex-career banker Jonathan Alles has been appointed to the Boards of Haycarb PLC and Singer (Sri Lanka) PLC as an Independent Non-Executive Director.
-
-He currently serves as an Independent Non-Executive Director of Hayleys PLC, and serves on the Boards of United Motors Lanka PLC, Ceylon Beverage Holdings PLC and Lion Brewery Ceylon PLC.
-
-Alles was the Managing Director/CEO of Hatton National Bank PLC and counts over 37 years of banking experience, having served several international banks including the National Bank of Abu-Dhabi, Saudi British Bank-Riyadh, British Bank of the Middle-East and HSBC, Dubai and Colombo, before taking on the reins at HNB. He was a Director of the Sri Lanka Banks Association (SLBA) and its Chairman from 2014 to 2016. He served as Chairman of the Asian Bankers Association for three years from 2018 onwards, was a member of its Board of Directors and also served as the Chairman of its Advisory Committee.
-
-...
-
-[Data](articles/3a6a2c87.json)
-
----
-
-### FCCISL congratulates NPP; pledges support for economic and governance reforms
-
-*2024-11-25 02:34:38* · [`dailyftlk`](https://www.ft.lk/business/FCCISL-congratulates-NPP-pledges-support-for-economic-and-governance-reforms/34-769645) · `en`
-
-The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) has extended its congratulations to President Anura Kumara Dissanayake, newly appointed Prime Minister Dr. Harini Amarasuriya, and the members of the Cabinet on their recent appointments.
-
-In a statement, FCCISL acknowledged that the formation of the new Government, featuring a streamlined Cabinet of just 21 key portfolios, signals a commitment to efficiency and reform, marking the start of a transformative era for Sri Lanka.
-
-“This structure reflects a commitment to efficiency and streamlined administration. As the representatives of the nation’s vibrant business community, we are encouraged by the promises made by the National People’s Power (NPP) to foster good governance, transparency, and accountability,” it added.
-
-...
-
-[Data](articles/ac25c016.json)
-
----
-
-### Sri Lanka discusses investment cooperation with Bangladesh Investment Development Authority
-
-*2024-11-25 02:32:34* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-discusses-investment-cooperation-with-Bangladesh-Investment-Development-Authority/34-769644) · `en`
-
-BIDA Chairman Ashik Chowdhury (left) with High Commissioner of Sri Lanka to Bangladesh Dharmapala Weerakkody
-
-High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody accompanied by Counsellor / Commerce of the Embassy, Srimali Jayarathne held a productive meeting with the newly appointed Executive Chairman of the Bangladesh Investment Development Authority (BIDA) Ashik Chowdhury. The discussions were held on 14 November at the BIDA office in Dhaka.
-
-...
-
-[Data](articles/6856eff9.json)
-
-[Extended Data](ext_articles/6856eff9.ext.json)
-
----
-
-### Walton Hi-Tech and Monik Trading join forces to bring innovative home appliances to Sri Lanka
-
-*2024-11-25 02:30:09* · [`dailyftlk`](https://www.ft.lk/business/Walton-Hi-Tech-and-Monik-Trading-join-forces-to-bring-innovative-home-appliances-to-Sri-Lanka/34-769643) · `en`
-
-In a strategic move poised to transform Sri Lanka’s home appliance market, Walton Hi-Tech Industries, a leading global innovator in consumer electronics, has joined forces with Monik Trading Ltd., to bring innovative home appliances to Sri Lanka. The announcement was made during an event attended by prominent representatives from both companies and distinguished guests.
-
-Special attendees included Commercial Micro Credit Ltd., Assistant General Manager Samitha Priyadarshana, Monik Trading Ltd., Managing Director Wasala Maduwantha Ariyapala, Assistant General Manager Kasun Mahanama, Walton Additional Managing Director and CFO Ziaul Alam, Vice President of the Global Business Division Abdur Rouf.Deputy Company Secretary Enamul Haq, Monik CFO M. N. H. Nashwaq and High Commissioner of Bangladesh to Sri Lanka Andalib Elias.
-
-...
-
-[Data](articles/8b9ab8b0.json)
-
-[Extended Data](ext_articles/8b9ab8b0.ext.json)
-
----
-
-### Sri Lanka-Canada Business Council visits Canada
-
-*2024-11-25 02:25:47* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Canada-Business-Council-visits-Canada/34-769642) · `en`
-
-The High Commission of Sri Lanka in Ottawa and the Consulate General of Sri Lanka in Toronto facilitated a visit of a delegation from the Sri Lanka-Canada Business Council (SLCBC) of the Ceylon Chamber of Commerce headed by its President Priyantha Chandrasekara. The recent visit which covered Toronto, Ottawa, Montreal and Vancouver took place from 14 to 22 October.
-
-The nine-member delegation had constructive engagements with members of Canadian business chambers and entities, relevant government officials and academic institutions on strengthening bilateral trade and economic cooperation, attracting investment opportunities and capacity building programs.
-
-The visit provided an ideal platform for participants to explore opportunities in sectors such as education, smart agriculture, IT, tourism, and infrastructure, with a specific focus on Colombo Port City and the Kankesanthurai Industrial Processing Zone.
-
-...
-
-[Data](articles/4ec21a40.json)
-
----
-
-### High Commission of Sri Lanka in the Maldives launches Sri Lanka Business Council
-
-*2024-11-25 02:25:08* · [`dailyftlk`](https://www.ft.lk/business/High-Commission-of-Sri-Lanka-in-the-Maldives-launchesSri-Lanka-Business-Council/34-769641) · `en`
-
-The Sri Lanka Business Council of the Maldives (SLBCM) was officially launched on 12 November, at Hotel Jen Malé.
-
-This initiative, conceptualised and spearheaded by High Commissioner of Sri Lanka to the Maldives Ranga Goonawardena, marks a major step forward in fostering stronger economic collaboration and unlocking new opportunities between Sri Lanka and the Maldives. The event was attended by Ministers, High Commissioners, Ambassadors, prominent Sri Lankan and Maldivian business leaders, Government officials, and other dignitaries.
-
-The Council is affiliated with the High Commission of Sri Lanka in the Maldives, underscoring its role as a key facilitator in strengthening trade, investment, and business relationships between the two countries.
-
-...
-
-[Data](articles/bf50d90b.json)
-
----
 
 ### Arugam Bay; hidden currents
 
@@ -2381,5 +2051,469 @@ The Commissioner General of Examinations Amitha Jayasundara said that the examin
 [Data](articles/1814229f.json)
 
 [Extended Data](ext_articles/1814229f.ext.json)
+
+---
+
+### Flood hazard alert to certain areas
+
+*2024-11-24 14:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளுக்கு-வெள்ள-அபாய-எச்சரிக்கை/175-347685) · `ta`
+
+Flood warning issued for areas including Malwathu, Kala Oya, and Mahawali Ganga from Nov 25-28 due to improved Bay of Bengal conditions. Residents advised to evacuate. Heavy rainfall expected in Eastern, Northern, and Central provinces.
+
+🟩
+
+The Department of Irrigation has issued a flood warning in several areas from November 2524 to November 28, due to its current improvement in the Bay of Bengal and its next improvement in the next few days.
+
+Flooding can cause hazardous conditions in low -lying and river beds such as Malwathu, Kala Oya, Kanakarayanaru, Parangi River, Maa Oya, Yan Oya, Mahawali Ganga, Madhuru Oya, Kal Oya, Heta Oya, Mindeniyaru and Vila Oya Bashes.
+
+Residents and passengers in these areas are advised to be attracted from November 25 to November 28.
+
+Meanwhile, the Meteorological Department said that by November 25, the low winds in the southeastern Bengal are likely to strengthen the southwestern Gulf.
+
+It has been reported that more than 150 millimeters in the Eastern Province are expected to be more than 150 millimeters, and more than 100 millimeters in the North, North Central, Central and Uva Provinces and Hambantota districts are expected.
+
+◼️
+
+[Data](articles/a64741e0.json)
+
+[Extended Data](ext_articles/a64741e0.ext.json)
+
+---
+
+### Is the Muslim minister's demand racist?
+
+*2024-11-24 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199546) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+The question of whether a Muslim minister's demand is racist stems from historical context. In Sri Lanka's political history, there were no Muslim ministers. The current situation involves Muslim MPs elected under the National People's Power. Some argue they may be unsuitable for the new regime. However, questioning their suitability isn't inherently racist, as it's based on performance rather than religion.
+
+🟩
+
+In the past, there are no Muslim ministers to tear down so we see those who call it the Muslim Minister. President Anura Kumara Dissanayake asked the people to vote for newcomers, saying that all those who have been in the past have not managed the country properly.. If so, are Muslim MPs elected on behalf of the National People's Power, but are they inappropriate for new regime change?If they are inappropriate, it is not the crime of Muslims to contest them as candidates.
+
+◼️
+
+[Data](articles/13a20cd9.json)
+
+[Extended Data](ext_articles/13a20cd9.ext.json)
+
+---
+
+### Police arrested a person who stole motorbike in several areas
+
+*2024-11-24 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203679) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Kahathuduwa police arrested a 53-year-old man for stealing motorbikes in several areas. Three bikes valued over Rs. were seized along with stolen mobile phones. The suspect was interrogated about mortgaging motorcycles and causing casualties.
+
+🟩
+
+Kahathuduwa police have arrested a person who stole motorbikes in several areas.
+
+Police said three motorbikes worth over Rs.
+
+Police have also found three stolen mobile phones from the suspect.
+
+In the face of interrogation, the suspect had been mortgaged at Rs.
+
+Accordingly, the police have taken steps to be taken into custody motorbikes.
+
+The suspect was used to prepare the motorcycle mortgaged and the casualties.
+
+The suspect is a 53-year-old resident of Batuwita.
+
+◼️
+
+[Data](articles/0a540b8f.json)
+
+[Extended Data](ext_articles/0a540b8f.ext.json)
+
+---
+
+### Sridharan opposite Sumanthiran
+
+*2024-11-24 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199544) · `ta`
+
+Sridharan criticizes Sumanthiran's candidates: They claim support but failed to select voters loyal to the party.
+
+🟩
+
+“Sumanthiran's candidates have highlighted that they should support him, but they did not choose those who could vote for the party.”
+
+◼️
+
+[Data](articles/92976d91.json)
+
+[Extended Data](ext_articles/92976d91.ext.json)
+
+---
+
+### Far right eye breakthrough in Romania presidential vote
+
+*2024-11-24 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103725/far-right-eye-breakthrough-in-romania-presidential-vote) · `en`
+
+Romanians were voting Sunday in the first round of a presidential election amid a surge in inflation and fears over the war in neighbouring Ukraine that could favour far-right leader George Simion.
+
+The vote kicks off two weeks of elections in the poor NATO member country, including a parliamentary vote and a December 8 presidential run-off.
+
+Social democrat Prime Minister Marcel Ciolacu is leading a field of 13 hopefuls in the polls, with about 25 percent, followed by AUR leader Simion on 15 to 19 percent.
+
+Simion is targeting people like Rodica, a 69-year-old who was among the first to vote in Bucharest’s chilly sunshine. The pensioner, who would not give a family name, was afraid of the Ukraine war and wanted “better living conditions and peace”.
+
+The stakes are high in the race to replace President Klaus Iohannis, a liberal and staunch Ukraine ally, who has held the largely ceremonial post since 2014.
+
+...
+
+[Data](articles/7e72c9c8.json)
+
+[Extended Data](ext_articles/7e72c9c8.ext.json)
+
+---
+
+### A schoolgirl jumps into Victoria reservoir
+
+*2024-11-24 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203678) · `si`
+
+Schoolgirl, 17, jumps into Victoria Reservoir with friend. One survives, one drowns. Police investigation ongoing.
+
+🟩
+
+The police stated that the student had jumped into the reservoir yesterday (23) with another friend.
+
+One of the two drowned students have survived and the body of the other student disappeared last evening.
+
+The deceased has been identified as a schoolgirl in 17 year old resident of the Peduyayana area
+
+The deceased is that the reservoir has jumps into the reservoir.
+
+The surviving student is currently receiving treatment at the Teldeniya Hospital.
+
+According to the police, she has revealed that the residents have committed suicide due to the reluctance of the victims of the victim.
+
+◼️
+
+[Data](articles/16ff9d25.json)
+
+[Extended Data](ext_articles/16ff9d25.ext.json)
+
+---
+
+### CEB employees demand bonuses by December
+
+*2024-11-24 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103724/ceb-employees-demand-bonuses-by-december) · `en`
+
+The Ceylon Electricity Board Workers’ Union has called on the CEB management to distribute bonuses to employees, citing the board’s profitability.
+
+The union’s General Secretary Ranjan Jayalal stated that a formal letter has been sent to the CEB Chairman, urging action to ensure bonuses are paid before December 10. The letter emphasized that while employees were denied bonuses in recent years due to reported losses, the board’s current profitability warrants sharing the financial benefits with its workforce.
+
+The union further criticized the management for its lack of action over the past two years regarding employee bonuses, despite claims of financial improvement.
+
+◼️
+
+[Data](articles/de41e085.json)
+
+[Extended Data](ext_articles/de41e085.ext.json)
+
+---
+
+### No electricity tariff revisions this year: PUCSL
+
+*2024-11-24 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103723/no-electricity-tariff-revisions-this-year-pucsl-) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) states that there will be no revision of electricity tariffs for 2024, citing delays in the submission of necessary proposals by the Ceylon Electricity Board (CEB).
+
+The PUCSL Corporate Communications Director, Jayanath Herath pointed out that the CEB submitted an initial set of tariff revision proposals at the end of September. However, the PUCSL deemed the proposed reductions insufficient and requested a revised submission by November 8.
+
+Despite the initial deadline, the CEB sought multiple extensions, most recently requesting an additional two weeks after failing to meet the extended deadline of November 22. Consequently, the PUCSL has planned to grant an extension until December 6.
+
+Even if the CEB submits the revised proposals on December 6, the PUCSL clarified that it would take six to eight weeks to review and finalize the tariff adjustments. As a result, any potential revisions to electricity tariffs will be postponed to 2025.
+
+◼️
+
+[Data](articles/79e258fe.json)
+
+[Extended Data](ext_articles/79e258fe.ext.json)
+
+---
+
+### Sri Lanka, Australia woo Indian tourists with new initiatives
+
+*2024-11-24 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103722/sri-lanka-australia-woo-indian-tourists-with-new-initiatives) · `en`
+
+Aiming to cash on growing outbound Indian tourists, Sri Lanka and Australia have launched new initiatives to cash in on this. Sri Lankan Airlines has launched a unique package for Indian tourists- the “Ramayana Trail” that includes 50 significant locations in the country which is associated with the Hindu epic.
+
+These include Seeta Amman Temple, where Mata Sita is said to have prayed during her captivity, to Rumassala hill, where a piece of the Himalayas is believed to have landed, dropped by Hanuman.
+
+Launching the trail officially over the weekend in Delhi, the Sri Lankan high commissioner said, “The Ramayan is not merely a story, it is a tapestry encapsulating culture, spirituality, and heritage. It has been a source of inspiration, guidance, fostering a connection between India & Sri Lanka...Sri Lankan Airlines is not only offering the opportunity to discover significant locations”
+
+...
+
+[Data](articles/3bc9b96e.json)
+
+[Extended Data](ext_articles/3bc9b96e.ext.json)
+
+---
+
+### Television tariff amendment is not done this year
+
+*2024-11-24 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203677) · `si`
+
+Electricity tariff revision postponed. CEB failed to submit proposals on time. Public Utilities Commission extends deadline. Revision expected next year.
+
+🟩
+
+The Public Utilities Commission says that an aviation revision will not be held this year.
+
+When contacted, the Director of Corporate Communication, Jayanath Herath said that the delay in the company's submission of proposals had been delayed by the CEB.
+
+විදුලි ගාස්තු සංශෝධනයට අදාළ යෝජනා ලංකා විදුලි බල මණ්ඩලය විසින් පසුගිය සැප්තැම්බර් මස අග මහජන උපයෝගීතා කොමිසම වෙත ඉදිරිපත් කරනු ලැබීය.
+
+However, the Public Utilities Commission had informed the Ceylon Electricity Board to amend and submit these proposals as the reduction of the electricity tariffs were not sufficient.
+
+The Commission had informed the Ceylon Electricity Board to preserve the proposals before November 08 but the CEB was requested to provide the proposal to November 22.
+
+However, the Ceylon Electricity Board (CEB) has not submitted the proposals and they had requested the Public Utilities Commission to provide for another two weeks.
+
+...
+
+[Data](articles/b0ea3a5b.json)
+
+[Extended Data](ext_articles/b0ea3a5b.ext.json)
+
+---
+
+### IPL. Player auction today
+
+*2024-11-24 12:44:53* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්--ක්‍රීඩක-වෙන්දේසිය-අද/9-413228) · `si`
+
+IPL player auction 2025: 29 Sri Lankan players participate; event starts today at 3:30 PM.
+
+🟩
+
+IPL. The Auction for the 2025 tournament will be held today (24) and tomorrow (25th).
+
+Accordingly, the players' auction will start at 3.30 pm today.
+
+29 players in Sri Lanka have been signed up for the athletic auction this year.
+
+◼️
+
+[Data](articles/3e3c5534.json)
+
+[Extended Data](ext_articles/3e3c5534.ext.json)
+
+---
+
+### Shit attack on the converted crew
+
+*2024-11-24 12:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதமாற்றிய-குழுவினர்-மீது-மலம்-வீசி-தாக்குதல்/175-347684) · `ta`
+
+Attack on converted crew: Religious deception leads to violence. Women claimed divine healing, sparking conflict. Protesters demand conversion to Buddhism. Police intervene, investigation ongoing.
+
+🟩
+
+The incident in which a ruling group was attacked under the guise of religious worship to cure diseases.
+
+A woman from Varagama Pathagala, Siyambalanduwa, has said that the sick women in her home are worshiped by the deity and that they are further healed.
+
+In addition, a woman from Kandy has married a resident of Varagama area and is being worshiped at her home in Varagama.
+
+The rectal attack was carried out on the bus when a group of patients who had been service were sent to the Weligampitiya Prayer Center for further treatment.
+
+The police then intervened at the request of the people who were traveling on the bus and sent them back to the Ja Ela area.
+
+About 200 residents of the Siambalanduwa Sasanarshaka Council, Buddha Rajamaha Viharathi Panamaye Ratanasara, and many others staged a protest near the school.
+
+They fought the people of the area to implement a plan to convert Christianity to Christianity.
+
+...
+
+[Data](articles/1b6efe2a.json)
+
+[Extended Data](ext_articles/1b6efe2a.ext.json)
+
+---
+
+### One arrested with heroin in Borelle
+
+*2024-11-24 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199534) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Arrest made in Borella: Police seize heroin, jewelry, watches, perfumes, liquor from suspect during raid on Saturday.
+
+🟩
+
+A suspect was arrested by police on Saturday (23) with heroin drugs in Maning Town, Borella Police Division.
+
+He was arrested while a team of officers in charge of the Borella police station was conducting raids.
+
+Based on further inquiries into the suspect, the suspect has seized 03 gold chains, 07 pairs of earrings, gold bangles, gold rings, medals, 07 watches, 09 perfume bottles and foreign liquor bottles.
+
+◼️
+
+[Data](articles/dd23d3c5.json)
+
+[Extended Data](ext_articles/dd23d3c5.ext.json)
+
+---
+
+### Headache
+
+*2024-11-24 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தகாத-உறவால்-தலை-துண்டிப்பு/76-347683) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Murder case: Bandarawela magistrate orders interrogation of suspect & "counterfeit" girlfriend over Roshan Timuthu's death. Suspect allegedly killed victim in Aluthwela forest, burying head separately. Police investigation led to discovery of body parts at Diyatalawa hospital.
+
+🟩
+
+Bandarawela Magistrate Balinda Manoj Weerasinghe has ordered the suspect and his counterfeit girl to be interrogated till December 05, in connection with the murder of Roshan Timuthu
+
+The suspect and the murdered, the widow living in the Suriyagoda area of ​​Tanamalwila - Hambagamuwa, has been in an abusive relationship with a woman.
+
+A 46 -year -old suspect from Balauwa area has been harassed by his counterfeit man, alleging that the suspect was allegedly harassing his counterfeiter and took him to the Aluthwela Hamuduruganda forest area.
+
+This is how he took him into the forest and cut off his head. He buried the disconnected head elsewhere and threw it near the other part of the body (Kavanta).
+
+In the meantime, his mother has lodged a complaint with the police that his son Roshan Timuthu disappeared.
+
+According to the information received by the police, the police have gone to the suspect's house and the information has been revealed.. Investigations conducted by him revealed the murder.
+
+...
+
+[Data](articles/8f9bdb58.json)
+
+[Extended Data](ext_articles/8f9bdb58.ext.json)
+
+---
+
+### Headache
+
+*2024-11-24 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகாத-உறவால்-தலை-துண்டிப்பு/175-347683) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Murder case: Bandarawela magistrate orders interrogation until Dec 5. Suspect killed girlfriend Roshan Timuthu over abuse claims. Body parts found; autopsy conducted.
+
+🟩
+
+Bandarawela Magistrate Balinda Manoj Weerasinghe has ordered the suspect and his counterfeit girl to be interrogated till December 05, in connection with the murder of Roshan Timuthu
+
+The suspect and the murdered, the widow living in the Suriyagoda area of ​​Tanamalwila - Hambagamuwa, has been in an abusive relationship with a woman.
+
+A 46 -year -old suspect from Balauwa area has been harassed by his counterfeit man, alleging that the suspect was allegedly harassing his counterfeiter and took him to the Aluthwela Hamuduruganda forest area.
+
+This is how he took him into the forest and cut off his head. He buried the disconnected head elsewhere and threw it near the other part of the body (Kavanta).
+
+In the meantime, his mother has lodged a complaint with the police that his son Roshan Timuthu disappeared.
+
+According to the information received by the police, the police have gone to the suspect's house and the information has been revealed.. Investigations conducted by him revealed the murder.
+
+...
+
+[Data](articles/92ff84e6.json)
+
+[Extended Data](ext_articles/92ff84e6.ext.json)
+
+---
+
+### Vietnam embassy meets BOI, biz chamber to strengthen economic links
+
+*2024-11-24 12:15:00* · [`economynextcom`](https://economynext.com/vietnam-embassy-meets-boi-biz-chamber-to-strengthen-economic-links-189582/) · `en`
+
+ECONOMYNEXT  – Vietnam’s embassy in Sri Lanka has met the Board of Investment, Sri Lanka – Greater Mekong Business Council of the Ceylon Chamber of Commerce, to promote links between investors of the two countries, a statement said.
+
+“In a bid to bolster economic diplomacy, the Embassy of Viet Nam in Sri Lanka has been actively engaging with key Sri Lankan agencies and business leaders,” the statement said.
+
+“The Embassy’s proactive efforts aim to unearth the vast potential in the Viet Nam market for Sri Lankan investors and businessmen.
+
+“By promoting trade and investment, countries can leverage each other’s strengths, creating a win-win scenario that fuels economic development.
+
+Economic diplomacy is a policy intensively promoted by the Vietnamese Government and has played an increasingly important role in Viet Nam’s socio-economic development, the embassy said.
+
+Vietnam has achieved high growth and expanded markets using free trade agreements with key trade partners.
+
+...
+
+[Data](articles/497e84fc.json)
+
+[Extended Data](ext_articles/497e84fc.ext.json)
+
+---
+
+### Constable killed in dealers in Ratnapura Police
+
+*2024-11-24 12:12:55* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොලීසියේ-වාහන-රථ-ගාලේදි-ඇඳ-වැටුණ-කොස්තාපල්-මරුට/11-413227) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Constable killed in Ratnapura Police incident. Officer, 59, died after sudden illness. Served at various police stations before retiring in April. Post-mortem scheduled for today. Burial at KazBovawatta General Cemetery in Gampaha.
+
+🟩
+
+A police officer was also killed when a police officer was hospitalized at the Ratnapura police.
+
+The deceased has been identified as 59 years of sub-service constable at the Ratnapura Police, the police said.
+
+The officer has worked at several police stations including Kantale Kuruwita as a sub-service constable and served at the Ratnapura Police last time.. Police said that he had been retired in April.
+
+The service ended on the 23rd after the 22nd night
+
+Police said that after a sudden dumps in the Ratnapura Police, he was also killed when he was rushed to the Ratnapura Teaching Hospital.
+
+Acting Day, Acting Magistrate Vijaya Tennakoon, was carried out by Acting Magistrate Vijaya Tennakoon, Ratnapura.The post mortem is to be conducted today 24 pm on the evening.
+
+The relatives of the deceased are being carried out at the KazBovawatta General Cemetery in Gampaha.
+
+◼️
+
+[Data](articles/c69344e1.json)
+
+[Extended Data](ext_articles/c69344e1.ext.json)
+
+---
+
+### Not even today, a technique of stolen under 50 feet
+
+*2024-11-24 12:06:25* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-50ක්-යට-ගල්-හාරා-නිධන්-තැන්පත්-කිරිමේ-තාක්ෂණයක්-එදත්-අදත්-නෑ/11-413226) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+University of Peradeniya lacks advanced treasure hunting tech. Prof. Athula Senaratne criticizes state support. Focuses on geological exploration over archaeological methods. Treasure hunters rely on natural instincts rather than technology.
+
+🟩
+
+University of Peradeniya has not yet been able to hold the treasure or treasure hunting or stone cashing technology to be treasure or treasure or stone.Professor Athula Senaratne says the selected Professor Athula Senaratne regarding the Colombo College.
+
+The professor said that the state patronage was also no need to provide the state-sponsored.
+
+Professor Athula Senaratne was said to have been in the area where there were treasure treasures in the Veyangoda area.
+
+Athula Senaratne said that the geologists focus on arrogant exploration of throughout the throughout the archaeologists only if it is only a necessary option.
+
+The professor said that this is a good eye on the soil, saying that they are naturally welded by their treasure hunting.
+
+◼️
+
+[Data](articles/04ab66c6.json)
+
+[Extended Data](ext_articles/04ab66c6.ext.json)
 
 ---

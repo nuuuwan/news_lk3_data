@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 16:25:44**
+As of **2024-11-24 16:41:15**
 
 ## Newspaper Stats
 
-*Scraped **56,580** Articles*
+*Scraped **56,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,112 @@ economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,319
-adaderanalk | 6,843
+adaderanalk | 6,844
 tamilmirrorlk | 8,047
 virakesarilk | 9,203
-adaderanasinhalalk | 9,770
+adaderanasinhalalk | 9,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,578 (100.0%) of 56,580 articles have been extended.
+56,580 (100.0%) of 56,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
 
-### ஆயுதப்படையின் நினைவாக பொப்பி மலர் தினம்
+### Two missing, 5 rescued after boat accident at lagoon in Negombo
+
+*2024-11-24 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103727/two-missing-5-rescued-after-boat-accident-at-lagoon-in-negombo) · `en`
+
+A 50-year-old man and his 20-year-old daughter are reported missing while five others have been rescued following a tragic boating accident in the Munnakkarai Lagoon in Negombo, police said.
+
+The Police Media Division stated that the incident occurred when a paddle boat collided with a larger vessel on the lagoon this afternoon (24), and capsized while carrying seven individuals, including a Catholic priest who had recently returned from overseas.
+
+Nearby boat crews had managed to rescue five people, including the priest, but the father and daughter remain missing. Two others, who sustained critical injuries, were rushed to Negombo General Hospital for treatment.
+
+According to police, the group consisted of three men and four women, all fishermen and family members from Munnakkarai.
+
+A search operation is underway to locate the two missing persons who are feared to have drowned.
+
+◼️
+
+[Data](articles/992e28e9.json)
+
+---
+
+### මීගමුව කළපුවට බිලි වූ පියා සහ දියණිය
+
+*2024-11-24 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203682) · `si`
+
+මීගමුව මුන්නක්කරෙයි කළපු ප්‍රදේශයේ දී ඔරුවක් බෝට්ටුවක ගැටී සිදු වූ අනතුරකින් දෙදෙනෙක් දියේ ගිලී අතුරුදන් වී තිබේ.
+
+පුද්ගලයින් 7 දෙනෙනෙකු දියේ ගිලී ඇති අතර එයින් 5 දෙනෙකු දිවි බේරාගෙන ඇත.
+
+මෙලෙස දියේ ගිලී අතුරුදන් ව ඇත්තේ 50 හැවිරිදි පියා සහ 20 හැවිරිදි දියණිය බව පොලීසිය පවසයි.
+
+දිවි බේරාගත් 5 දෙනාගෙන් දෙදෙනෙකු රෝහල්ගතව ප්‍රතිකාර ලබා ගන්නා අතර අනෙක් තිදෙනා ප්‍රතිකාර ගෙන රෝහලෙන් පිටවගොස් තිබේ.
+
+◼️
+
+[Data](articles/3a34d38d.json)
+
+---
+
+### Poppy Flower Day to commemorate the Armed Forces
 
 *2024-11-24 15:44:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஆயுதப்படையின்-நினைவாக-பொப்பி-மலர்-தினம்/46-347688) · `ta`
 
-ஆயுதப்படையின் நினைவு தின நிகழ்வு முப்படைகளின் தளபதி ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில், கொழும்பு விகாரமஹாதேவி பூங்காவில் அமைந்துள்ள இராணுவ வீரர்களின் நினைவுத்தூபிக்கு அருகில் திங்கட்கிழமை (24) முற்பகல் நடைபெற்றது.
+Here's a summary of 200 characters:
 
-முதலாம் உலகப் போரிலிருந்து இன்று வரை தாய்நாட்டின் பாதுகாப்புக்காக உயிர் தியாகம் செய்த சிப்பாய்களை நினைவுகூரும் முகமாக இலங்கை இராணுவ சேவையிலிருந்து ஓய்வுபெற்றோர் சங்கத்தினால் இராணுவத்தினர் ஒத்துழைப்புடன் வருடாந்தம் இந்நிகழ்வு ஏற்பாடு செய்யப்படுகிறது.
 
-நிகழ்விடத்துக்கு வருகை தந்த ஜனாதிபதி அநுர குமார திசாநாயக்கவை இலங்கை இராணுவ சேவையிலிருந்து ஓய்வுபெற்றோர் சங்கத்தின் பொதுச் செயலாளர் லெப்டினன் கேணல் (ஓய்வு) அஜித் சியம்பலாபிட்டிய வரவேற்றார்.
 
-இதன்போது சர்வமத வழிபாடுகளின் பின்னர் உயிர் தியாகம் செய்த வீரர்களை நினைவுகூரும் வகையில் இரண்டு நிமிட மௌன அஞ்சலி செலுத்தப்பட்டதுடன், இலங்கை இராணுவ சேவையிலிருந்து ஓய்வுபெற்றோர் சங்கத்தின் பிரதிநிதிகள் இராணுவ நினைவுத்தூபிக்கு மலர் அஞ்சலி செலுத்தினர்.
+Armed Forces Memorial Day observed at Vikaramahadevi Park. President Anura Kumara Dissanayake led ceremony honoring fallen soldiers from WWI to present. Two-minute silence, floral tributes paid. Attended by officials, ambassadors, army personnel, and families of surviving soldiers.
+
+🟩
+
+The Memorial Day of the Armed Forces was held on Monday (24) near the Soldiers' memorial at the Vikaramahadevi Park in Colombo, chaired by President of the Armed Forces President Anura Kumara Dissanayake.
+
+The event is being organized annually by the Sri Lanka Army Service to commemorate the soldiers who sacrificed their lives for the protection of the motherland from World War I to the present day.
+
+President Anura Kumara Dissanayake was welcomed by President Anura Kumara Dissanayake, General Secretary of the Retired Association of Sri Lanka, Lieutenant Colonel (Retired) Ajith Siyambalapitiya.
+
+A two -minute silent tribute was paid to commemorate the soldiers who sacrificed their lives after the Sarvadam rituals and representatives of the Sri Lanka Army Service paid a floral tribute to the military monument.
 
 ...
 
 [Data](articles/64f35095.json)
 
+[Extended Data](ext_articles/64f35095.ext.json)
+
 ---
 
-### ஆயுதப்படையின் நினைவாக பொப்பி மலர் தினம்
+### Poppy Flower Day to commemorate the Armed Forces
 
 *2024-11-24 15:44:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதப்படையின்-நினைவாக-பொப்பி-மலர்-தினம்/175-347688) · `ta`
 
-ஆயுதப்படையின் நினைவு தின நிகழ்வு முப்படைகளின் தளபதி ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில், கொழும்பு விகாரமஹாதேவி பூங்காவில் அமைந்துள்ள இராணுவ வீரர்களின் நினைவுத்தூபிக்கு அருகில் திங்கட்கிழமை (24) முற்பகல் நடைபெற்றது.
+Here's a summary of the text in approximately 200 characters:
 
-முதலாம் உலகப் போரிலிருந்து இன்று வரை தாய்நாட்டின் பாதுகாப்புக்காக உயிர் தியாகம் செய்த சிப்பாய்களை நினைவுகூரும் முகமாக இலங்கை இராணுவ சேவையிலிருந்து ஓய்வுபெற்றோர் சங்கத்தினால் இராணுவத்தினர் ஒத்துழைப்புடன் வருடாந்தம் இந்நிகழ்வு ஏற்பாடு செய்யப்படுகிறது.
 
-நிகழ்விடத்துக்கு வருகை தந்த ஜனாதிபதி அநுர குமார திசாநாயக்கவை இலங்கை இராணுவ சேவையிலிருந்து ஓய்வுபெற்றோர் சங்கத்தின் பொதுச் செயலாளர் லெப்டினன் கேணல் (ஓய்வு) அஜித் சியம்பலாபிட்டிய வரவேற்றார்.
 
-இதன்போது சர்வமத வழிபாடுகளின் பின்னர் உயிர் தியாகம் செய்த வீரர்களை நினைவுகூரும் வகையில் இரண்டு நிமிட மௌன அஞ்சலி செலுத்தப்பட்டதுடன், இலங்கை இராணுவ சேவையிலிருந்து ஓய்வுபெற்றோர் சங்கத்தின் பிரதிநிதிகள் இராணுவ நினைவுத்தூபிக்கு மலர் அஞ்சலி செலுத்தினர்.
+Armed Forces Memorial Day observed at Vikaramahadevi Park. President Anura Kumara Dissanayake led tributes to fallen soldiers. Annual event honors sacrifices since WWI. Military officials, diplomats, and families attended.
+
+🟩
+
+The Memorial Day of the Armed Forces was held on Monday (24) near the Soldiers' memorial at the Vikaramahadevi Park in Colombo, chaired by President of the Armed Forces President Anura Kumara Dissanayake.
+
+The event is being organized annually by the Sri Lanka Army Service to commemorate the soldiers who sacrificed their lives for the protection of the motherland from World War I to the present day.
+
+President Anura Kumara Dissanayake was welcomed by President Anura Kumara Dissanayake, General Secretary of the Retired Association of Sri Lanka, Lieutenant Colonel (Retired) Ajith Siyambalapitiya.
+
+A two -minute silent tribute was paid to commemorate the soldiers who sacrificed their lives after the Sarvadam rituals and representatives of the Sri Lanka Army Service paid a floral tribute to the military monument.
 
 ...
 
 [Data](articles/9818ca3e.json)
+
+[Extended Data](ext_articles/9818ca3e.ext.json)
 
 ---
 
@@ -2429,63 +2487,5 @@ Further investigations are being carried out by the Ja -Ela police.
 [Data](articles/79e68374.json)
 
 [Extended Data](ext_articles/79e68374.ext.json)
-
----
-
-### Jallio Gimkana - Film Review
-
-*2024-11-23 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199500) · `ta`
-
-Here's a summary of the film review in approximately 200 characters:
-
-
-
-"Jalio Gimkana" stars Prabhu Deva and Madonna Sebastian. Comedy-drama about four women planning to steal money from a dead man's account. Mixed reviews - some funny moments, others fall flat. Prabhu Deva shines as a lawyer, but overall laughs are inconsistent. Good for fans of commercial cinema seeking entertainment.
-
-🟩
-
-Actors: Prabhu Deva, Madonna Sebastian, Abirami,. G. Mahendran, M. S.. Bhaskar, Yogi Babu, Madhusudan Rao, John Vijay, Yashika Anand, Redin Kingsley, Robot Shankar, Suresh Emperor and many others
-
-'Jalio Gimkana', which is being produced in her performance, has been released as her recent films starring 'Dance Storm' Prabhu Deva starrer. Did the film make the audience laughing at the film mansion?Or not?We will continue to see.
-
-A woman named Bhavani (Madonna Sebastian) describes her story for a Christian priest Martin Luther King (Yogi Babu) to meet her hand.. He begins with the story of the film. He runs a small restaurant in a village in South Tamil Nadu. G. Mahendran. He has four granddaughter: Madonna Sebastian and Abirami.
-
-His restaurant is given a food preparation task for a political party's convention. The political party disappoints without paying the fee. This caused a clash in the argument with the political party volunteers. G. Mahendran is attacked.
-
-...
-
-[Data](articles/a1b5757f.json)
-
-[Extended Data](ext_articles/a1b5757f.ext.json)
-
----
-
-### Jayam Ravi's first song release
-
-*2024-11-23 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199498) · `ta`
-
-Here's a summary of Jayam Ravi's first song release in 200 characters:
-
-
-
-Jayam Ravi stars in "Kadikaikkam" with Nithya Menon. First song "Namika Time" released, featuring AR. Rahman and singer Fire. Directed by Krithika Udayanidhi, produced by Red Giant Movies.
-
-🟩
-
-Jaime Ravi is the hero of the story and the song 'Namika Time', which is played in the film 'Kadikaikkam'. 'Oscar Man' in this video. Rahman and the singer's fire appear to have attracted the attention of the fans.
-
-Directed by director Krithika Udayanidhi, Jaime Ravi, Nithya Menon, Yogi Babu, Vinay Roy, DJ Banu, John Kokan, Lal, Lakshmi Ramakrishnan, Vinodini, Rohan Singh.
-
-The film, which has been cinematographed by Cavemic Are, 'Music Storm'. R. Rahman has composed the music. The film was produced by Red Giant Movies.
-
-With all the work of the film to be completed and the final stage is reached, the first song and the song for the song 'Ennu Pukkutti ..' has been released.
-
-This song is written by songwriter Vivek, composer and singer AR. Rahman and the singer Fire have sung together.AR. Rahman and the singer Fire have been accompanied by fans.
-
-◼️
-
-[Data](articles/423f70d4.json)
-
-[Extended Data](ext_articles/423f70d4.ext.json)
 
 ---

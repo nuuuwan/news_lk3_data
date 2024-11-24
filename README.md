@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 22:41:31**
+As of **2024-11-24 23:12:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,643 (100.0%) of 56,645 articles have been extended.
+56,645 (100.0%) of 56,645 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,6 +124,8 @@ The all-rounder has been a vital cog in Sri Lanka’s line-up.
 
 [Data](articles/3f069c71.json)
 
+[Extended Data](ext_articles/3f069c71.ext.json)
+
 ---
 
 ### Measures in place to ensure safe travel for A/L students amid adverse weather
@@ -141,6 +143,8 @@ In case of any travel disruptions due to adverse weather conditions, students ar
 ...
 
 [Data](articles/7d9f3b62.json)
+
+[Extended Data](ext_articles/7d9f3b62.ext.json)
 
 ---
 

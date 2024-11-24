@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 11:12:54**
+As of **2024-11-24 11:25:29**
 
 ## Newspaper Stats
 
-*Scraped **56,541** Articles*
+*Scraped **56,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,311
 adaderanalk | 6,834
-tamilmirrorlk | 8,039
+tamilmirrorlk | 8,040
 virakesarilk | 9,198
 adaderanasinhalalk | 9,763
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,541 (100.0%) of 56,541 articles have been extended.
+56,541 (100.0%) of 56,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### உடன்படிக்கையை அநுர முழுமையாக நடைமுறைப்படுத்த வேண்டும்
+
+*2024-11-24 11:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்படிக்கையை-அநுர-முழுமையாக-நடைமுறைப்படுத்த-வேண்டும்/175-347681) · `ta`
+
+கடந்த ஆண்டு இந்தியாவுடன் ஏற்றுக் கொள்ளப்பட்ட தொலைநோக்கு ஆவணத்தை தனக்குப் பின் பதவியேற்ற அனுரகுமார திசாநாயக்க முழுமையாக நடைமுறைப்படுத்த வேண்டும் என்று இலங்கையின் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+ஜூலை 2023 இல் தனது இந்தியப் பயணத்தின் போது, ​​அப்போதைய ஜனாதிபதி விக்ரமசிங்க, இரு நாடுகளுக்கும் இடையேயான பரஸ்பர ஒத்துழைப்பின் பகுதிகள், குறிப்பாக பொருளாதாரக் கூட்டாண்மை வலியுறுத்தும் தொலைநோக்கு ஆவணத்தில் பிரதமர் நரேந்திர மோடியுடன் கையெழுத்திட்டார்.
+
+“நானும் இந்தியப் பிரதமர் நரேந்திர மோடியும் கையெழுத்திட்ட ஆவணத்தில், இரு நாடுகளுக்கும் இடையிலான இருதரப்பு ஒத்துழைப்பின் பகுதிகளை நாங்கள் குறிப்பிட்டுள்ளோம். அதை அவர் (திஸாநாயக்க) முன்னோக்கிச் செல்ல வேண்டும் என்றும், இந்த தொலைநோக்கு ஆவணத்தை நாம் முழுமையாக நடைமுறைப்படுத்த வேண்டும் என்றும் நான் கருதுகிறேன், ”என்று அவர் PTI (இந்திய செய்தி நிறுவனம்) இடம் கூறினார்.
+
+...
+
+[Data](articles/730f3e24.json)
+
+---
 
 ### 497 Indian fishermen arrested in 2024
 
@@ -2473,25 +2489,5 @@ However, as it was unable to complete until yesterday afternoon, the excavation 
 [Data](articles/eeb7458c.json)
 
 [Extended Data](ext_articles/eeb7458c.ext.json)
-
----
-
-### President calls on state employees to fulfill people’s aspirations
-
-*2024-11-23 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103701/president-calls-on-state-employees-to-fulfill-peoples-aspirations) · `en`
-
-President Anura Kumara Dissanayake stated that if the current government fails to meet the expectations set by the people in the recent mandate, it could lead to citizens losing hope in envisioning a prosperous future.
-
-He emphasized that government officials must dedicate themselves to building a government that fulfils the aspirations of the people, the President’s Media Division (PMD) said.
-
-President Anura Kumara Dissanayake made these remarks while addressing the staff of the Ministry of Finance, Planning and Economic Development yesterday (22), after officially assuming duties as its Minister.
-
-Upon his arrival at the Ministry, the President was warmly welcomed by the staff , the PMD added.
-
-...
-
-[Data](articles/f6d04ee2.json)
-
-[Extended Data](ext_articles/f6d04ee2.ext.json)
 
 ---

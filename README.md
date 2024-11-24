@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 09:18:36**
+As of **2024-11-24 10:41:46**
 
 ## Newspaper Stats
 
-*Scraped **56,528** Articles*
+*Scraped **56,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,295 @@ islandlk | 3,393
 economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,309
-adaderanalk | 6,830
-tamilmirrorlk | 8,037
-virakesarilk | 9,197
-adaderanasinhalalk | 9,759
+adalk | 5,310
+adaderanalk | 6,834
+tamilmirrorlk | 8,039
+virakesarilk | 9,198
+adaderanasinhalalk | 9,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,520 (100.0%) of 56,528 articles have been extended.
+56,536 (100.0%) of 56,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### 2024இல் இதுவரை 497 இந்திய மீனவர்கள் கைது!
+
+*2024-11-24 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199521) · `ta`
+
+இந்த ஆண்டில் எல்லை மீறி இலங்கை கடற்பரப்பினுள் பிரவேசித்து மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 497 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதாக கடற்படை தெரிவித்துள்ளது.
+
+அத்துடன், 66 மீன்பிடி படகுகளில் வந்த இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளதாக கடற்படை பேச்சாளர் கயான் விக்ரமசூரிய தெரிவித்துள்ளார்.
+
+கடற்றொழிலாளர்களின் பாதுகாப்பை உறுதிப்படுத்துவதுடன், இந்நாட்டு மீனவர்களின் கடற்றொழில் சார்ந்த பிரச்சினைகள், குறைபாடுகளை தீர்ப்பதற்கும் கடற்படை அதிகபட்ச பங்களிப்பை வழங்கும் என்றும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a52c1bd3.json)
+
+---
+
+### Egg prices increase: Consumer charge
+
+*2024-11-24 10:17:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-அதிகரிப்பு-நுகர்வோர்-குற்றச்சாட்டு/175-347678) · `ta`
+
+Egg prices rise from 35-38 to 40-45 rupees. Farmers sell at 30-31 rupees. Consumers blame merchants for higher costs.
+
+🟩
+
+They point out that the egg, which was reduced to 35-38 rupees in the past, has increased to 40-45.
+
+Total price to market from an egg farm is sold for 30,31 rupees. Consumers have said that some merchants raise the price of eggs and sell it at higher prices.
+
+◼️
+
+[Data](articles/995cd9df.json)
+
+[Extended Data](ext_articles/995cd9df.ext.json)
+
+---
+
+### Lafs gas shortage
+
+*2024-11-24 10:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-எரிவாயு-தட்டுப்பாடு/175-347677) · `ta`
+
+Laufs gas shortage: Pres orders 3000mt supply priority. Gazette notifies 7500mt LP gas needed. Laugfs Gas allows domestic sale till Feb 21.
+
+🟩
+
+With the shortage of Lafs gas across the country, the president has been asked to ensure that 3,000 metric tonnes of gas is being supplied on the basis of priority on the basis of priority.
+
+The order has been issued to Laughfs Gas, one of the major companies that provide cooking gas.
+
+In this regard, President Anura Kumara Dissanayake, who has issued a gazette notification, urged the cooking gas supplier to have a minimum of 7,500 metric tonnes of LP gas.
+
+It is necessary to distribute LP gas to the domestic market without shortage.
+
+In the meantime, Laugfs Gas PLC has to allow domestic sale for the next three months.
+
+It has been announced that it will take effect from Friday to February 21 next year.
+
+◼️
+
+[Data](articles/7f993eba.json)
+
+[Extended Data](ext_articles/7f993eba.ext.json)
+
+---
+
+### Passenger arrested with smuggled cigarettes at BIA
+
+*2024-11-24 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103717/passenger-arrested-with-smuggled-cigarettes-at-bia) · `en`
+
+A person who was in possession of a large stock of cigarettes illegally smuggled into the country has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
+
+Officers of the Police Narcotics Bureau (PNB) unit at the BIA have arrested the suspected passenger who had arrived in Sri Lanka from Dubai.
+
+The arrested suspect has been identified as a 25-year-old resident of Kottawa, according to police.
+
+A total of 59,980 sticks of foreign cigarettes, illegally smuggled into the country, were seized from him while the Police Narcotics Bureau is conducting further investigation into the incident.
+
+◼️
+
+[Data](articles/62c09227.json)
+
+---
+
+### 497 Indian fishermen arrested by Sri Lanka Navy so far this year
+
+*2024-11-24 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103716/497-indian-fishermen-arrested-by-sri-lanka-navy-so-far-this-year) · `en`
+
+The Sri Lanka Navy says that a total of 497 Indian fishermen have been arrested for violating the country’s maritime boundaries so far this year.
+
+Accordingly, the Navy Spokesperson, Captain Gayan Wickramasuriya, stated that Indian fishermen who were onboard 66 fishing trawlers have been arrested in this manner.
+
+Captain Wickramasuriya further emphasized that the Sri Lanka Navy is committed to ensuring the local fishermen’s safety and resolving the ongoing fishing issues affecting them.
+
+◼️
+
+[Data](articles/1b45218f.json)
+
+---
+
+### Youth arrested with foreign cigarettes
+
+*2024-11-24 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203673) · `si`
+
+Youth arrested with foreign cigarettes: Suspect caught at airport with 59,980 cigarettes smuggled from Dubai.
+
+🟩
+
+Suspect arrested with cigarettes brought to Sri Lanka
+
+The suspect was arrested by the officers of the Airport Unit of the Police Narcotics Bureau.
+
+The suspect had arrived at a plane from Dubai and 59980 cigarettes were found.
+
+◼️
+
+[Data](articles/173fe626.json)
+
+[Extended Data](ext_articles/173fe626.ext.json)
+
+---
+
+### Protesters still near the Foreign Employment Bureau
+
+*2024-11-24 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203672) · `si`
+
+Protesters near Foreign Employment Bureau over E8 visa issues. Demonstrators accuse bureau despite receiving Korean visas. Police unrest reported during pavement construction attempt. Formal investigation launched, but protesters remain at scene.
+
+🟩
+
+According to the E8, the number of prospect of departuring work in Korea was still staying at the same location.
+
+Under the E8, a group of people in front of the Foreign Employment Bureau was in front of the Foreign Employment Bureau yesterday (23).
+
+Although he has received visas for Korea, he accused the Foreign Employment Bureau.
+
+The protesters tried to carry out a temporary construction of the pavement near the Foreign Employment Bureau and had a unrest among police officers and the demonstrators.
+
+Upon inquiry by a High Officer of the Foreign Employment Bureau, a senior official of the Foreign Employment Bureau stated that the registration of the people have been questioned under the E8 visas scheduled.
+
+The official said that a formal investigation has been launched in this regard.
+
+However, our correspondent stated that the protesters remained in that place by morning.
+
+◼️
+
+[Data](articles/152d7eed.json)
+
+[Extended Data](ext_articles/152d7eed.ext.json)
+
+---
+
+### Twenty killed in clashes in Lebanon
+
+*2024-11-24 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203671) · `si`
+
+20 killed in Lebanon airstrikes; Israel claims targeting Hezbollah leaders; building collapse reported; ongoing search for victims.
+
+🟩
+
+Twenty people were killed in airstrike at Berott in Lebanon.
+
+Foreign media reports that the air strike has been launched targeting the heads of hebbulle militants.
+
+Israel said that no warning was taken before the attack and that no warning was not carried out and was targeting a senior Hezbollah leader.
+
+The Lebanon National News Agency has reported that the building collapsed in the collapsed building is being taken to search for bodies.
+
+◼️
+
+[Data](articles/f0952b0a.json)
+
+[Extended Data](ext_articles/f0952b0a.ext.json)
+
+---
+
+### Bid to smuggle ganja to Sri Lanka from Andhra Pradesh foiled; 3 held
+
+*2024-11-24 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103715/bid-to-smuggle-ganja-to-sri-lanka-from-andhra-pradesh-foiled-3-held) · `en`
+
+Thanjavur Police on Friday arrested three persons for an attempt to smuggle ganja to Sri Lanka from Andhra Pradesh via Thanjavur in India. Three FRP boats that were used for transporting the contraband and 330 kg of ganja were seized.
+
+Sources said the Thanjavur SP Ashish Rawat received information that a huge quantity of ganja was being smuggled in a lorry from Andhra Pradesh to Sethubavachatram in Thanjavur to be transported to Sri Lanka.
+
+The SP immediately formed a special team and ordered a vehicle inspection. A special team headed by Sub Inspector Devid was camping in Sethubavachatram. The police during a patrol on Friday early hours found a lorry parked suspiciously and three persons loading bundles into a car from the lorry.
+
+The police team surrounded the trio and searched the lorry. They found bundles of ganja weighing 330 kg.
+
+...
+
+[Data](articles/e5f2bef1.json)
+
+[Extended Data](ext_articles/e5f2bef1.ext.json)
+
+---
+
+### Sri Lanka wins World Carrom Championship without a national coach for 14 years
+
+*2024-11-24 09:02:11* · [`adalk`](https://www.ada.lk/sports/අවුරුදු-14ක්-තිස්සේ--ජාතික-පුහුණුකරුවෙකුත්-නොමැතිව-ලෝක-කැරම්-ශූරතාවලියේ-අනුශූරතාව-ලංකාවට/9-413221) · `si`
+
+Sri Lanka wins World Carrom Championship without national coach since 2010. Teams triumph in US, players return home to Katunayake Airport celebration.
+
+🟩
+
+Sri Lanka Carrom men and women's teams won the Katunayake Airport on the night in the 6th World Carrom Championship in the US.
+
+In addition, Shides Hilly and Anashan and Aashani and Tharushi Garramingika won bronze medals in the tournament.
+
+The tournament was held in California in California, US Saint Francisco.
+
+The number of players at Shanhai in Shane Easton Airlines, China, arrived at the Katunayake Airport on the 231 airport.
+
+The Sri Lankan Carrom team has not had a national coach since 2010 and the Sri Lanka Carrom team has been confronted with great difficulties.
+
+Their relative friends were present at the Katunayake Airport, Sri Lanka Carrom Federation, the Sri Lanka Carrom Federation and a group of Sri Lanka Air Force and Navy personnel to accept the group of women.
+
+◼️
+
+[Data](articles/f0dcb886.json)
+
+[Extended Data](ext_articles/f0dcb886.ext.json)
+
+---
+
+### IPL ක්‍රීඩක වෙන්දේසිය අද
+
+*2024-11-24 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203670) · `si`
+
+ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය අද (24) සහ හෙට (25) සෞදි අරාබියේ ජෙඩා නුවරදී පැවැත්වෙයි.
+
+IPL ක්‍රීඩක වෙන්දේසියක් ඉන්දියාවෙන් පිටතදී පැවැත්වෙන දෙවන අවස්ථාව මෙය වන අතර ක්‍රීඩක වෙන්දේසිය මෙරට වේලාවෙන් අද පස්වරු 3.30ට ආරම්භ වීමට නියමිතය.
+
+2025 IPL ක්‍රිකට් තරගාවලිය ලබන මාර්තු මස 14 වැනිදා සිට මැයි 25 වැනිදා දක්වා පැවැත්වීමට නියමිතය.
+
+ඊට අදාළ ක්‍රීඩක වෙන්දේසියට ඇතුළත් කෙරෙන අවසන් ක්‍රීඩක ලැයිස්තුව IPL තරග සංවිධායකයින් ඉකුත්දා නිවේදනය කළේය.
+
+2025 ක්‍රීඩක වෙන්දේසිය වෙනුවෙන් ක්‍රීඩකයන් 1574ක් ලියාපදිංචිව සිටි අතර කෙසේ වෙතත් ක්‍රීඩක වෙන්දේසිය වෙනුවෙන් තෝරාගෙන ඇත්තේ ක්‍රීඩකයන් 574 දෙනෙක් පමණි.
+
+ඉන් ක්‍රීඩකයින් 366 දෙනෙකු ඉන්දීය ක්‍රීඩකයින් වන අතර ඉතිරි 208 දෙනා විදෙස් ක්‍රීඩකයින්ය.
+
+කණ්ඩායම් 10ක් විසින් වෙන්දේසියේදී ක්‍රීඩකයන් 204 දෙනෙකු මෙවර ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියට ක්‍රීඩා කිරීම වෙනුවෙන් තෝරා ගැනීමට නියමිත අතර ඉන් 70 දෙනෙකු විදෙස් ක්‍රීඩකයින්ය.
+
+...
+
+[Data](articles/4144b35d.json)
+
+---
+
+### Heavy showers above 150 mm likely in several provinces
+
+*2024-11-24 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103714/heavy-showers-above-150-mm-likely-in-several-provinces) · `en`
+
+The Meteorology Department says a low-pressure area has formed over southeast Bay of Bengal and is likely to move west north-westwards and intensify into a depression over southwest Bay of Bengal on 25 November.
+
+The system may intensify further and move towards the Northern coast of Sri Lanka.
+
+Cloudy skies are expected over most parts of the island due to the influence of the aforementioned system, it said.
+
+Showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Very heavy showers above 150 mm are likely at some places in Eastern and Uva provinces and in Hambantota district.
+
+Heavy showers above 100mm are likely at some places in North-central province.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and Eastern provinces and in Hambantota district.
+
+...
+
+[Data](articles/db1e8ff3.json)
+
+[Extended Data](ext_articles/db1e8ff3.ext.json)
+
+---
 
 ### 497 Indian fishermen arrested this year
 
@@ -314,6 +588,8 @@ Silva’s remarks came in the backdrop of one of the biggest electoral landslide
 
 [Data](articles/2edb5ec6.json)
 
+[Extended Data](ext_articles/2edb5ec6.ext.json)
+
 ---
 
 ### Netanyahu welcomes Trump’s re-election to second term
@@ -330,6 +606,8 @@ To even consider the validity of the above statement, one must look into the con
 
 [Data](articles/28b393ff.json)
 
+[Extended Data](ext_articles/28b393ff.ext.json)
+
 ---
 
 ### The Dawn of a New Era
@@ -341,6 +619,8 @@ About 20 years ago, I used the same title, in a writing dealing with Mahinda Raj
 ...
 
 [Data](articles/660f2a21.json)
+
+[Extended Data](ext_articles/660f2a21.ext.json)
 
 ---
 
@@ -358,53 +638,81 @@ On July 8, thousands of university students marched to the Galle Face Green in a
 
 [Data](articles/12d688f2.json)
 
+[Extended Data](ext_articles/12d688f2.ext.json)
+
 ---
 
-### சுற்றுலாப் பயணிகள் வருகை அதிகரிப்பு
+### Increase in attendance of tourists
 
 *2024-11-24 01:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகள்-வருகை-அதிகரிப்பு/175-347676) · `ta`
 
-இந்த மாதத்தின் முதல் 20  நாள்களில் 120,961 சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+Tourist arrivals surge: 120k visitors in 20 days, 27k from India. Total this year: 1.74 million. Last year: 1.48 million.
 
-இந்தியாவிலிருந்தே அதிகளவான சுற்றுலாப் பயணிகள் நாட்டுக்கு வந்துள்ளனர். அந்த எண்ணிக்கை 26,717 ஆகும்.
+🟩
 
-அதன்படி, இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் நாட்டுக்கு வருகைதந்துள்ள சுற்றுலாப் பயணிகளின் மொத்த எண்ணிக்கை 17 லட்சத்து 41 ஆயிரத்து 676 ஆகும்.
+In the first 20 days of this month, 120,961 tourists have visited the country, the Tourism Development Authority said.
 
-இந்தநிலையில், கடந்த வருடம் இலங்கை வருகை தந்த சுற்றுலாப் பயணிகளின் மொத்த எண்ணிக்கை 14 லட்சத்து 87 ஆயிரத்து 303 என சுற்றுலா அபிவிருத்தி அதிகாரசபை தெரிவித்துள்ளது. (a)
+Most tourists from India have come to the country. That number is 26,717.
+
+Accordingly, the total number of tourists visiting the country so far this year is 17 lakhs 41 thousand 676.
+
+The total number of tourists visiting Sri Lanka last year is 14 lakhs 87 thousand 303, according to the Tourism Development Authority.. (A)
 
 ◼️
 
 [Data](articles/31693b4a.json)
 
+[Extended Data](ext_articles/31693b4a.ext.json)
+
 ---
 
-### வங்காள விரிகுடாவில் குறைந்த காற்றழுத்த தாழ்வு
+### Low -lying low -lying in the Bay of Bengal
 
 *2024-11-24 01:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்காள-விரிகுடாவில்-குறைந்த-காற்றழுத்த-தாழ்வு/175-347674) · `ta`
 
-அது மேற்கு, வடமேற்கு திசையில் நகர்ந்து நாளை தென்மேற்கு வங்காள விரிகுடாவில் காற்றழுத்த தாழ்வு மண்டலமாக வலுப்பெற வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இது மேலும் வலுவடைந்து இலங்கையின் வடக்கு கரையோரத்தை நோக்கி நகரக்கூடும் என எதிர்வு கூறியுள்ள அந்த திணைக்களம், நாட்டினுள்ளும் நாட்டைச் சூழவுள்ள கடற்பரப்புகளுக்கும் ‘சிவப்பு’ வானிலை எச்சரிக்கையை விடுத்துள்ளது.
 
-இதன் காரணமாகக் கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில பகுதிகளில் 150 மில்லிமீற்றருக்கும் அதிகமான கடுமையான மழை வீழ்ச்சி பதிவாகக்கூடும் என எதிர்வு கூறப்பட்டுள்ளது. (a)
+
+"Bay of Bengal cyclone forecast: Western/northwestern movement expected. Strengthening predicted in southwestern Bengal bay. Red weather warning issued for coastal areas. Heavy rainfall (>150mm) possible in Eastern/Uva provinces."
+
+🟩
+
+The Department of Meteorology has said that it is likely to move in the western and northwestern direction and strengthen the southwestern Bengal bay as a windmill.
+
+The Department has issued a red weather weather warning to the seas around the country and the nation.
+
+As a result, more than 150 millimeters of heavy rainfall in some parts of the Eastern and Uva provinces may be reported.. (A)
 
 ◼️
 
 [Data](articles/55174264.json)
 
+[Extended Data](ext_articles/55174264.ext.json)
+
 ---
 
-### லெபனானில் வான் தாக்குதல்: 11 பேர் பலி
+### Air attack in Lebanon: 11 killed
 
 *2024-11-24 01:17:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-வான்-தாக்குதல்-11-பேர்-பலி/50-347673) · `ta`
 
-லெபனானின் தலைநகரான பெய்ரூட்டின் மத்திய பகுதியில் இஸ்ரேலினால் நேற்று நடத்தப்பட்ட வான்வழித் தாக்குதலில் 11 பேர் கொல்லப்பட்டுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-பெய்ரூட்டில் உள்ள 8 மாடிக் கட்டிடம் தாக்கப்பட்டதில் அந்த கட்டடம் முற்றாக சேதமடைந்துள்ளது. (a)
+
+
+Israel's air strike in Beirut, Lebanon, resulted in 11 deaths. An 8-story building was severely damaged. The attack occurred in the central part of the capital city.
+
+🟩
+
+11 people have been killed in yesterday's air strike by Israel in the central part of Beirut, the capital of Lebanon.
+
+The building was completely damaged when the 8 -storey building in Beirut was attacked. (A)
 
 ◼️
 
 [Data](articles/8592fa34.json)
+
+[Extended Data](ext_articles/8592fa34.ext.json)
 
 ---
 
@@ -590,19 +898,29 @@ Similarly, Tamil is already in place. Tamil Nadu is the state of mind that prote
 
 ---
 
-### පළාත් පාලන මැතිවරණය කඩිනමින්
+### Local government election expedited
 
 *2024-11-23 21:06:48* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-කඩිනමින්/11-413220) · `si`
 
-පළාත් පාලන මැතිවරණය ලබන වසරේ මුල පැවැත්විමට කටයුතු කරන බව අමාත්‍ය විජේදාස රාජපක්ෂ මහතා පැවැසිය.
+Here's a summary of 200 characters:
 
-එම මැතිවරණය පැවැත්වීම සඳහා මේ වසරේ මුදල් වෙන්කර නොමැති බවත් ඔහු පැවැසිය.
 
-මැතිවරණය ඉක්මනින් පවත්වන ලෙස ශ්‍රේෂ්ඨාධිකරණ නියෝගයක් පවතින බවද අමාත්‍යවරයා වැඩිදුරටත් පැවැසීය.
+
+Local gov't election set for early 2024: Minister Wijedasa Rajapakse. No funds allocated this year. Supreme Court orders swift conduct.
+
+🟩
+
+Minister Wijedasa Rajapakse said that the local government elections will be held in the beginning of next year.
+
+He also said that the money has not been allocated this year to hold the election.
+
+The Minister further stated that there is a Supreme Court order to be quickly held soon.
 
 ◼️
 
 [Data](articles/68052faf.json)
+
+[Extended Data](ext_articles/68052faf.ext.json)
 
 ---
 
@@ -2145,323 +2463,5 @@ However they tried to attack me personally. They shouted me saying me was the ki
 [Data](articles/f65a8faa.json)
 
 [Extended Data](ext_articles/f65a8faa.ext.json)
-
----
-
-### IMF to issue official statement on third EFF review today
-
-*2024-11-23 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103700/imf-to-issue-official-statement-on-third-eff-review-today-) · `en`
-
-Representatives of the International Monetary Fund (IMF) are scheduled to issue an official statement this morning (23) regarding the third review under the Extended Fund Facility (EFF).
-
-The announcement is expected to include details of a Staff-Level Agreement on economic policies related to concluding the third review.
-
-The Government of Sri Lanka confirmed that discussions on the third review under the IMF’s Extended Fund Facility program were successfully concluded yesterday (22).
-
-The meeting, held at the Presidential Secretariat, was attended by a delegation representing the IMF, led by Senior Mission Chief Peter Breuer, the President’s Media Division (PMD) said.
-
-Representing the Sri Lankan government, the delegation was headed by Deputy Minister of Economic Development, Professor Anil Jayantha Fernando.
-
-Accordingly, the discussions between the IMF and the Government of Sri Lanka pertaining to the third review were successfully concluded, the statement said.
-
-◼️
-
-[Data](articles/3a13640c.json)
-
-[Extended Data](ext_articles/3a13640c.ext.json)
-
----
-
-### The casual number that lost a young man
-
-*2024-11-23 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203645) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Murder case: Man killed over casual affair. Victim, 45, found dead in Hammudukanda. Suspect, also 45, arrested. Dispute over woman led to murder in Uva Kuda Oya.
-
-🟩
-
-Police said that a person had been murdered yesterday (22), police said.
-
-The Thanamalwila Police had received a complaint that a person had been disappeared from the 18th of this month.
-
-Accordingly, the investigation was murdered and he had gone to the Hammudukanda area with another person.
-
-A person who was agedated in Balahagama, a 45 year old, has been arrested by the police who started investigating.
-
-From his interrogation revealed that he was cut off and killed by his head and killed the neck of the missing man.
-
-The victim and the suspect have had a casual relationship with a woman from a resident of Uva Kudoya, and the investigation has been revealed to be taken to the above area on a dispute between them.
-
-Police have arrested the suspect in the Uva Kuda Oya area regarding the murder.
-
-◼️
-
-[Data](articles/c76d405e.json)
-
-[Extended Data](ext_articles/c76d405e.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-11-23 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103699/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in the Northern, North-central and Eastern provinces.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ed72a461.json)
-
-[Extended Data](ext_articles/ed72a461.ext.json)
-
----
-
-### To the attention of A/L examiners
-
-*2024-11-23 07:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-347646) · `ta`
-
-National Dengue Control Unit implements eradication programs at GCE Advanced Level Examination centers. Social adviser advises examiners to bring fluids/creams. Disaster Management Center provides guidelines to prevent disruptions. Exam starts Nov 25, ends Dec 20 at 2,312 centers.
-
-🟩
-
-The National Dengue Control Unit has been appointed to implement the eradication programs of all the examination centers where the upcoming GCE Advanced Level Examination is to be held.
-
-In addition, the social adviser Lahiru Kodith has advised the examiners to bring the fluid or creams to the examination stations.
-
-In addition, the Disaster Management Center has provided guidelines to the relevant authorities so as not to cause disruption to the exam due to disaster.
-
-The GCE Advanced Level Examination will commence on November 25 and will be held at 2,312 examination centers till December 20.
-
-◼️
-
-[Data](articles/46ed5343.json)
-
-[Extended Data](ext_articles/46ed5343.ext.json)
-
----
-
-### Plan to solve the problems of the subordinate police
-
-*2024-11-23 07:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீழ்நிலை-பொலிஸாரின்-பிரச்சினைகளை-தீர்க்க-திட்டம்/175-347645) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Ministry plans emergency program for subordinate police. Issues: heavy workload, remote postings, poor promotions, improper transfers. Minister vows consultation to establish structured system, uphold police honor and expertise."
-
-🟩
-
-The Ministry of Public Security and Parliamentary Affairs is planning to launch an emergency program to address the challenges faced by subordinate police officials.
-
-Minister of Public Security and Parliamentary Affairs, Ananda Wijepala said that the authorities under the post of Sub Inspector General of Police (SEP) are facing various issues, including high obligation, hiring in distant areas, lack of proper promotion procedures and improper relocation.
-
-The Minister promised to hold a consultation with top police officers to establish a structured system in order to resolve these issues effectively.
-
-Minister Wijepala urged his commitment to create a workplace to uphold the honor and expertise of the Police Department.
-
-◼️
-
-[Data](articles/284d6855.json)
-
-[Extended Data](ext_articles/284d6855.ext.json)
-
----
-
-### Excavation today in search of the treasure of the country
-
-*2024-11-23 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203644) · `si`
-
-Veyangoda excavation update: STF scan reveals hidden earth interior. Court orders police excavation near Central Expressway. Two-day operation suspended due to massive stone encounter.
-
-🟩
-
-Excavation on a court order is scheduled to be conducted on a jurisdiction in Veyangoda, Veyangoda today (23).
-
-The excavation was planning near the Central Expressway which is constructed and this is due to be carried out on the third day.
-
-The number of people have been excavating various persons from the recent past, and many arrested have been remanded.
-
-The scan made by the Special Task Force (STF) was observed that the SEP scan was carried out in the interior of the earth.
-
-After reporting the judiciary, the Atmunagala Magistrate's Court ordered the Veyangoda Police to carry out the excavation before the public.
-
-The excavations had been given two days for two days, accordingly excavated on yesterday and yesterday.
-
-However, it was temporarily suspended yesterday with the meeting with a massive stone.
-
-◼️
-
-[Data](articles/24f32510.json)
-
-[Extended Data](ext_articles/24f32510.ext.json)
-
----
-
-### IMF: What are the agreements with the new government?
-
-*2024-11-23 07:39:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm27g1q6l5eo) · `si`
-
-Sri Lanka IMF agreement summary: New government commits to loan program, increasing confidence in policy implementation and reform continuity. Total loan amount is $3 billion, with the next installment of $333 million expected. This will boost the overall value of the CPA to $1.3 billion.
-
-🟩
-
-The International Monetary Fund also revealed that the Third Current Facility (EFF) in Sri Lanka's third review.
-
-After approving this review, Sri Lanka will receive the next loan installment of US $ 333 million after the IMF management and the IMF Executive Board.
-
-The total loan to Sri Lanka is US $ 3 billion under this loan fund facility approved on March 20, 2023.
-
-With the benefit of the new loan installment, the entire value of the CPA to Sri Lanka will increase to 1.3 billion US $ 1.3 billion.
-
-He was speaking at a media briefing in Colombo, Senior Board of the International Monetary Fund.
-
-The new government commitment to the objectives of the loan program has increased the confidence and ensures policy implementation continuity.
-
-Continuous implementation of the reform continuous implementation of the reconstruction of the achievements available in the loan program.
-
-Why are 6-year-old girls menstrual and why do they look older?
-
-Will Sri Lanka lose E8 visa quota from South Korea?
-
-...
-
-[Data](articles/5369eb16.json)
-
-[Extended Data](ext_articles/5369eb16.ext.json)
-
----
-
-### Sri Lanka to set up tourism commission: Minister Herath
-
-*2024-11-23 07:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-set-up-tourism-commission-minister-herath-189520/) · `en`
-
-ECONOMYNEXT – Sri Lanka will combine existing agencies and set up a Tourism Commission for the sector, the Indian Ocean island’s Foreign and Tourism Minister said.
-
-“We plan to combine the agencies within the Tourism Ministry and appoint a Commission,” Minister Herath told reporters in Kandy.
-
-“Through a merger of agencies we target to revive the sector.”
-
-Unlike other export sectors, which takes time to revive, tourism is an area where quick wins can be scored, he said.
-
-The National People’s Power had a plan for the sector he said. Work will begin next year. (Colombo/Nov22/2024)
-
-◼️
-
-[Data](articles/bbc487bf.json)
-
-[Extended Data](ext_articles/bbc487bf.ext.json)
-
----
-
-### The official statement of the IMF Third Review Today
-
-*2024-11-23 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203643) · `si`
-
-Here's a summary of the IMF Third Review statement in approximately 200 characters:
-
-
-
-"IMF representatives will conduct the third review today. They aim to reach a staff-level agreement on economic policies. Discussions were held between the IMF and Sri Lankan government at the Presidential Secretariat. The meeting was reportedly successful."
-
-🟩
-
-The representatives of the fund are to be officially on the third review of the International Monetary Fund this morning.
-
-It is expected to be notified to attend staff level agreement on economic policies to end the third review.
-
-The International Monetary Fund and the Government of Sri Lanka held the discussion at the Presidential Secretariat recently.
-
-He was speaking at the Head of Senior Mission Senior Mission Senior Mission, Senior Mission (IMF) for the IMF and the Government of Sri Lanka.
-
-The Presidential Media Unit reaffered that the discussion was successfully completed.
-
-◼️
-
-[Data](articles/cfccf4cb.json)
-
-[Extended Data](ext_articles/cfccf4cb.ext.json)
-
----
-
-### MM in several areas. Heavy rains over 100
-
-*2024-11-23 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203642) · `si`
-
-Heavy rains forecasted across Sri Lanka. Thunderstorms expected in northern regions. Strong winds possible. Public advised to prepare for potential damage.
-
-🟩
-
-Showers or thundershowers will occur at times in the Northern, North-Central and Eastern provinces today.
-
-Thundershowers during the evening or night during the evening or night in the rest of the island.
-
-Mm in Western, Sabaragamuwa, Central and Southern provinces. Heavy rains may occur at more than 100.
-
-In some places in the Western, Sabaragamuwa, Central, Uva and Southern provinces, the Department said.
-
-They also urge the public to take necessary steps to reduce the temporary strong winds and the damages caused by thunderstorms.
-
-◼️
-
-[Data](articles/e1b1a9da.json)
-
-[Extended Data](ext_articles/e1b1a9da.ext.json)
-
----
-
-### To create a government that meets expectations
-
-*2024-11-23 02:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்பார்ப்புகளை-நிறைவேற்றும்-அரசை-உருவாக்க-வேண்டும்/175-347644) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake: Government must meet public expectations. Public servants should dedicate themselves to fulfilling people's dreams. He thanked Finance Ministry officials for past defense efforts and seeks public support for future goals.
-
-🟩
-
-President Anura Kumara Dissanayake said that if the present government fails to meet the expectations of the people's mandate and the public, the dreams of the people will be false and that public servants should dedicate themselves to the government to fulfill the expectations of the people.
-
-President Anura Kumara Dissanayake made this statement in his speech in the presence of the Ministry's Working Commission after taking office as Minister of Finance and Economic Development yesterday.
-
-The President thanked the Finance Ministry officials to defend the country in the past, and he said that he was expecting the support of all people to achieve future goals.. (A)
-
-◼️
-
-[Data](articles/1d93722e.json)
-
-[Extended Data](ext_articles/1d93722e.ext.json)
-
----
-
-### NTB introduces Sri Lanka’s first debit card with innovative notch design for visually impaired
-
-*2024-11-23 02:02:00* · [`islandlk`](http://island.lk/ntb-introduces-sri-lankas-first-debit-card-with-innovative-notch-design-for-visually-impaired/) · `en`
-
-Nations Trust Bank (NTB) has become the first in Sri Lanka to introduce the Touch Card, an initiative implemented by Mastercard.
-
-The Touch Card is specially designed to aid visually impaired and partially sighted cardholders. This innovative card enhances the bank’s range of debit cards and underscores its commitment to enhancing customer experiences that are on par with global standards.
-
-The Mastercard Touch Card features a distinct rounded notch, which enables the visually impaired Cardholders to easily distinguish it from any other card. It has been developed in collaboration with a global card manufacturer and was reviewed rigorously by notable organisations such as VISIONS in the United States of America, and the Royal National Institute of Blind People (RNIB) in the United Kingdom.
-
-...
-
-[Data](articles/a4b763bd.json)
-
-[Extended Data](ext_articles/a4b763bd.ext.json)
 
 ---

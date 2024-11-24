@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 13:26:56**
+As of **2024-11-24 13:41:56**
 
 ## Newspaper Stats
 
-*Scraped **56,556** Articles*
+*Scraped **56,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,315
-adaderanalk | 6,838
+adaderanalk | 6,841
 tamilmirrorlk | 8,044
 virakesarilk | 9,198
 adaderanasinhalalk | 9,763
@@ -26,11 +26,61 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,556 (100.0%) of 56,556 articles have been extended.
+56,556 (100.0%) of 56,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### CEB employees demand bonuses by December
+
+*2024-11-24 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103724/ceb-employees-demand-bonuses-by-december) · `en`
+
+The Ceylon Electricity Board Workers’ Union has called on the CEB management to distribute bonuses to employees, citing the board’s profitability.
+
+The union’s General Secretary Ranjan Jayalal stated that a formal letter has been sent to the CEB Chairman, urging action to ensure bonuses are paid before December 10. The letter emphasized that while employees were denied bonuses in recent years due to reported losses, the board’s current profitability warrants sharing the financial benefits with its workforce.
+
+The union further criticized the management for its lack of action over the past two years regarding employee bonuses, despite claims of financial improvement.
+
+◼️
+
+[Data](articles/de41e085.json)
+
+---
+
+### No electricity tariff revisions this year: PUCSL
+
+*2024-11-24 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103723/no-electricity-tariff-revisions-this-year-pucsl-) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) states that there will be no revision of electricity tariffs for 2024, citing delays in the submission of necessary proposals by the Ceylon Electricity Board (CEB).
+
+The PUCSL Corporate Communications Director, Jayanath Herath pointed out that the CEB submitted an initial set of tariff revision proposals at the end of September. However, the PUCSL deemed the proposed reductions insufficient and requested a revised submission by November 8.
+
+Despite the initial deadline, the CEB sought multiple extensions, most recently requesting an additional two weeks after failing to meet the extended deadline of November 22. Consequently, the PUCSL has planned to grant an extension until December 6.
+
+Even if the CEB submits the revised proposals on December 6, the PUCSL clarified that it would take six to eight weeks to review and finalize the tariff adjustments. As a result, any potential revisions to electricity tariffs will be postponed to 2025.
+
+◼️
+
+[Data](articles/79e258fe.json)
+
+---
+
+### Sri Lanka, Australia woo Indian tourists with new initiatives
+
+*2024-11-24 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103722/sri-lanka-australia-woo-indian-tourists-with-new-initiatives) · `en`
+
+Aiming to cash on growing outbound Indian tourists, Sri Lanka and Australia have launched new initiatives to cash in on this. Sri Lankan Airlines has launched a unique package for Indian tourists- the “Ramayana Trail” that includes 50 significant locations in the country which is associated with the Hindu epic.
+
+These include Seeta Amman Temple, where Mata Sita is said to have prayed during her captivity, to Rumassala hill, where a piece of the Himalayas is believed to have landed, dropped by Hanuman.
+
+Launching the trail officially over the weekend in Delhi, the Sri Lankan high commissioner said, “The Ramayan is not merely a story, it is a tapestry encapsulating culture, spirituality, and heritage. It has been a source of inspiration, guidance, fostering a connection between India & Sri Lanka...Sri Lankan Airlines is not only offering the opportunity to discover significant locations”
+
+...
+
+[Data](articles/3bc9b96e.json)
+
+---
 
 ### IPL. Player auction today
 
@@ -2451,83 +2501,5 @@ The National Audit office points out that there have been many other malpractice
 [Data](articles/05a4e445.json)
 
 [Extended Data](ext_articles/05a4e445.ext.json)
-
----
-
-### Western Provincial Governor visited the Colombo and Kakaidivu coastal area
-
-*2024-11-23 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199465) · `ta`
-
-Western Provincial Governor visits Colombo-Kakaidivu coast. Promises to clean up beaches, attract tourists, and establish nighttime businesses. Warns against littering, threatens legal action against offenders.
-
-🟩
-
-Western Province Governor Hanzee Yusuf said legal action would be taken against those who throw garbage in Colombo to make tourists the best place to attract tourists and set up night -time stores.
-
-Provincial Governor Hanis Yusuf visited the area on Friday (22) at 3 pm on the Kakaidivu coastal area of ​​Colombo.
-
-Western Provincial Governor Hanis Yusuf said this while addressing the discussion after the supervisory visit.
-
-"Clean Srilanka," Clean Srilanka, in accordance with the plan of President Anurakumara Dissanayake, we will implement the Kakkaidivu coastal area in a short period of development.
-
-We will take steps to make this area the best place to attract tourists and set up a night -run stores.
-
-I welcome a large number of people enjoying the coast of Kakkativu. The children's park located in the area is full of debris.
-
-He said that focusing on this and instructed to the concerned companies.
-
-...
-
-[Data](articles/91400991.json)
-
-[Extended Data](ext_articles/91400991.ext.json)
-
----
-
-### LG Election scheduled for early next year - Vijitha Herath
-
-*2024-11-23 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103705/lg-election-scheduled-for-early-next-year-vijitha-herath) · `en`
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath, has announced that it has been decided to conduct the Local Government Elections at the beginning of next year.
-
-He made this statement while speaking to the media today (23) in Kandy.
-
-“The Supreme Court has issued a ruling to hold the local government elections as soon as possible. However, the necessary provisions were not allocated to conduct these elections this year.”
-
-“Therefore, the local government elections will take place at the beginning of next year. We are prepared to hold the elections for the Pradeshiya Sabhas and Urban Councils,” he stated.
-
-◼️
-
-[Data](articles/bd8bcbdd.json)
-
-[Extended Data](ext_articles/bd8bcbdd.ext.json)
-
----
-
-### Privacy of MPs
-
-*2024-11-23 12:04:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/குறைகிறது-எம்-பி-க்களின்-சிறப்புரிமைகள்/150-347653) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-MPs' privacy concessions reduced: handgun facility removed, 2 police officers per MP, tax-free vehicle licenses abolished.
-
-🟩
-
-Some of the concessions enjoyed by MPs have been reduced, according to parliamentary sources.
-
-Accordingly, focus on the removal of the facility has been provided as the cell has been provided with handguns for the safety of MPs.
-
-In addition, each MP will be given the protection of two police officers and it will be greatly removed.
-
-It is also reported that the tax -free vehicle license has been deleted to MPs.
-
-◼️
-
-[Data](articles/9a2e4688.json)
-
-[Extended Data](ext_articles/9a2e4688.ext.json)
 
 ---

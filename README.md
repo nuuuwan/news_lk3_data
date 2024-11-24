@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 14:26:09**
+As of **2024-11-24 14:00:56**
 
 ## Newspaper Stats
 
-*Scraped **56,561** Articles*
+*Scraped **56,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,316
 adaderanalk | 6,841
-tamilmirrorlk | 8,045
+tamilmirrorlk | 8,044
 virakesarilk | 9,198
 adaderanasinhalalk | 9,763
 
@@ -26,29 +26,11 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,560 (100.0%) of 56,561 articles have been extended.
+56,556 (100.0%) of 56,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
-
-### சில பகுதிகளுக்கு வெள்ள அபாய எச்சரிக்கை
-
-*2024-11-24 14:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளுக்கு-வெள்ள-அபாய-எச்சரிக்கை/175-347685) · `ta`
-
-வங்காள விரிகுடாவில் தற்போது ஏற்பட்டுள்ள குறைந்த காற்றழுத்த தாழ்வு நிலை மற்றும் அடுத்த சில நாட்களில் ஏற்படக்கூடிய அதன் அடுத்தகட்ட முன்னேற்றம் காரணமாக 2024 நவம்பர் 25 முதல் நவம்பர் 28 வரை பல பகுதிகளில் வெள்ள அபாய எச்சரிக்கையை நீர்ப்பாசனத் திணைக்களம் வெளியிட்டுள்ளது.
-
-மல்வத்து, கலா ஓயா, கனகராயனாறு, பறங்கி ஆறு, மா ஓயா, யான் ஓயா, மஹாவலி கங்கை, மாதுரு ஓயா, கல் ஓயா, ஹெடா ஓயா, முந்தேனியாறு மற்றும் விலா ஓயா படுகைகள், போன்ற தாழ்வான மற்றும் ஆற்றுப் படுக்கைகளில் வெள்ளப்பெருக்கு அபாய நிலைமைகள் ஏற்படக் கூடும் என திணைக்களம் தெரிவித்துள்ளது.
-
-இந்த பகுதிகளில் வசிப்பவர்கள் மற்றும் பயணிகள் நவம்பர் 25 முதல் நவம்பர் 28 வரை அவதானத்துடன் இருக்குமாறு அறிவுறுத்தப்படுகிறார்கள்.
-
-இதனிடையே, நவம்பர் 25க்குள் தென்கிழக்கு வங்கக்கடலில் குறைந்த காற்றழுத்த தாழ்வு நிலை வலுவடைந்து, தென்மேற்கு வளைகுடாவில் காற்றழுத்த தாழ்வு மண்டலமாக வலுப்பெற வாய்ப்புள்ளதாக வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/a64741e0.json)
-
----
 
 ### CEB employees demand bonuses by December
 
@@ -63,8 +45,6 @@ The union further criticized the management for its lack of action over the past
 ◼️
 
 [Data](articles/de41e085.json)
-
-[Extended Data](ext_articles/de41e085.ext.json)
 
 ---
 
@@ -84,8 +64,6 @@ Even if the CEB submits the revised proposals on December 6, the PUCSL clarified
 
 [Data](articles/79e258fe.json)
 
-[Extended Data](ext_articles/79e258fe.ext.json)
-
 ---
 
 ### Sri Lanka, Australia woo Indian tourists with new initiatives
@@ -101,8 +79,6 @@ Launching the trail officially over the weekend in Delhi, the Sri Lankan high co
 ...
 
 [Data](articles/3bc9b96e.json)
-
-[Extended Data](ext_articles/3bc9b96e.ext.json)
 
 ---
 
@@ -222,33 +198,21 @@ According to the information received by the police, the police have gone to the
 
 ---
 
-### Not even today, a technique of stolen under 50 feet
+### අඩි 50ක් යට ගල් හාරා නිධන් තැන්පත් කිරිමේ තාක්ෂණයක් එදත් අදත් නෑ
 
 *2024-11-24 12:06:25* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-50ක්-යට-ගල්-හාරා-නිධන්-තැන්පත්-කිරිමේ-තාක්ෂණයක්-එදත්-අදත්-නෑ/11-413226) · `si`
 
-Here's a summary in 200 characters:
+වෙහෙර විහාර සඳහා මිනිසුන් පුජා කරන දේ ධාතු ගර්භ වෙහෙර විහාර වල තිබෙන්නට හෝ නොතිබෙන්නට හැකි බවත් භු විද්‍යාව සම්බන්දව වසර 40 ගනනක පලපුරුද්ද අනුව අඩි 40 ක් 50 යට ගල් හාරා නිදන් තැන්පත් කිරිමේ හෝ ගල් උණු කර දැමිමක් හෝ ගල් ඇලවීමේ තාක්ෂණයක් එදත් අදත් නැති බව පේරාදෙණිය විශ්ව විද්‍යාලයේ භු ගර්භ විද්‍යාව පිළිබද සම්මාණිත මහාචාර්‍ය අතුල සේනාරත්න මහතා පවසයි.
 
+මේ සම්බන්ධව රාජ්‍ය අනුග්‍රහය ලබාදිමද අවශ්‍යතාවයක් නොමැති දෙයක් බවද මහාචාර්‍යවරයා පැවසිය.
 
+මහාචාර්‍ය අතුල සේනාරත්න මහතා මේ බව පැවසුයේ වේයන්ගොඩ වඳුරව ප්‍රදේශයේ අධිවේගී මාර්ග රක්ෂිතයේ නිධන් වස්තු ඇතැයි පැවසෙන ස්ථානයේ නිධන් වස්තු ඇතිදැයි කළ විමසිමකදිය.
 
-University of Peradeniya lacks advanced treasure hunting tech. Prof. Athula Senaratne criticizes state support. Focuses on geological exploration over archaeological methods. Treasure hunters rely on natural instincts rather than technology.
+පුරා විද්‍යා ගවේශනයන් සඳහා භු විද්‍යාඥයිනගේ  අවධානය යොමුවන්නේ පුරා විද්‍යාඥයින්ගෙන් යම් ඉල්ලිමක් ලැබුණොත් පමනක් බවත් යම්කිසි අවශ්‍යතාවයක් මත ආරධානවක් ලැබුණොත් පමණක් ඒ සදහා භු විද්‍යාඥයින් සහයෝගය ලබාදෙන බවද අතුල සේනාරත්න මහතා පැවසිය.
 
-🟩
-
-University of Peradeniya has not yet been able to hold the treasure or treasure hunting or stone cashing technology to be treasure or treasure or stone.Professor Athula Senaratne says the selected Professor Athula Senaratne regarding the Colombo College.
-
-The professor said that the state patronage was also no need to provide the state-sponsored.
-
-Professor Athula Senaratne was said to have been in the area where there were treasure treasures in the Veyangoda area.
-
-Athula Senaratne said that the geologists focus on arrogant exploration of throughout the throughout the archaeologists only if it is only a necessary option.
-
-The professor said that this is a good eye on the soil, saying that they are naturally welded by their treasure hunting.
-
-◼️
+...
 
 [Data](articles/04ab66c6.json)
-
-[Extended Data](ext_articles/04ab66c6.ext.json)
 
 ---
 
@@ -2499,5 +2463,29 @@ Among the deceased were two female students of the Southern Campus of the Genera
 [Data](articles/80bddd65.json)
 
 [Extended Data](ext_articles/80bddd65.ext.json)
+
+---
+
+### Another student killed in KDU bus accident
+
+*2024-11-23 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203651) · `si`
+
+Student killed in KDU bus crash near Badulla. 24-year-old from Kandamadam, Jaffna, studying at Hindu Vidyalaya. Bus carried 41 students from Kotelawala Defense University.
+
+🟩
+
+Another student who was admitted to hospital with injuries was injured in the accident and injured in the accident.
+
+The victim was a 24 year old resident of Kandamadam, Jaffna.
+
+He is a student of the Advanced Level of Hindu Vidyalaya, Jaffna.
+
+The bus, which was carrying 41 students from the Southern Defense University of Kotelawala, was crashed in the Badulla-Dunguwara.
+
+◼️
+
+[Data](articles/1b34fca5.json)
+
+[Extended Data](ext_articles/1b34fca5.ext.json)
 
 ---

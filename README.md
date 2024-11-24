@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 23:41:54**
+As of **2024-11-25 00:27:11**
 
 ## Newspaper Stats
 
-*Scraped **56,647** Articles*
+*Scraped **56,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,101 @@ dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,328
 adaderanalk | 6,850
-tamilmirrorlk | 8,049
+tamilmirrorlk | 8,050
 virakesarilk | 9,241
-adaderanasinhalalk | 9,778
+adaderanasinhalalk | 9,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,645 (100.0%) of 56,647 articles have been extended.
+56,652 (100.0%) of 56,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### There is no electricity tariff correction within this year
+
+*2024-11-24 23:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடத்திற்குள்-மின்-கட்டண-திருத்தம்-இல்லை/175-347704) · `ta`
+
+Electricity tariff correction delayed until next year due to CEB's request for additional time to finalize recommendations. Public Utilities Commission estimates at least 6 weeks needed for amendment process.
+
+🟩
+
+The Public Utilities Commission said that the Electricity Tax Correction will not be made within this year due to the delay in making recommendations on the Ceylon Electricity Tax Correction.
+
+The Ceylon Electricity Board (CEB) had submitted a recommendation to the Public Utilities Commission last September.
+
+The Ceylon Electricity Board (CEB) has requested more time to submit the recommendations, the Sri Lanka Public Use Commission said.
+
+Therefore, in this context, the Public Utilities Commission official said that at least 6 weeks to make the electricity tariff amendment would be required for at least 6 weeks and that the power supply was not possible within this year.. (A)
+
+◼️
+
+[Data](articles/42efa0a7.json)
+
+[Extended Data](ext_articles/42efa0a7.ext.json)
+
+---
+
+### New acting secretary to Ministry of Health
+
+*2024-11-24 23:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203696) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ms. Wathsala Priyadarshani, former acting secretary, appointed Additional Secretary at Ministry of Health. Replaces Dr. Palitha Mahipala.
+
+🟩
+
+Ms. Wathsala Priyadarshani, who was the acting secretary of the Ministry of Health, has been appointed as the Additional Secretary to the Ministry.
+
+Specialist medical Palitha Mahipala was so far.
+
+◼️
+
+[Data](articles/5199719f.json)
+
+[Extended Data](ext_articles/5199719f.ext.json)
+
+---
+
+### Landslide warnings continue to be
+
+*2024-11-24 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203695) · `si`
+
+Landslide warnings issued for Badulla, Galle, Kegalle, Nuwara Eliya, Ratnapura. Heavy rainfall reported in Ampara (178.1mm). Nilwala River flooding in Matara. Roads affected: Akuressa-Pitabaddara, Lawbath Lake Skilpita, Colombo Oya Weligama Kanunkara. Low-lying areas flooded in Northern Province. Reservoir sluice gates closed in North Central Province. Colombo-Lankapuvath road affected by Hamilton Canal flooding.
+
+🟩
+
+In the island, there will be more raining to many areas from several days.
+
+The National Building Research Organization has informed Badulla, Galle, Kegalle, Nuwara Eliya and Ratnapura districts.
+
+The highest rainfall was reported from the Akkaraipattu in the Ampara district, with 178.1 millimeters.
+
+The Nilwala River in Matara is being flowers with heavy rains in high catchment areas.
+
+The people of the people of several villages have been interrupted by drinking the Akuressa - Pitabaddara road.
+
+The FUT of the Lawbath Lake Akuressa has been flooded from the Skilpita road from bloating.
+
+Weligama Kanunkara main road has been flooded by the overflowing of the Colombo Oya.
+
+There are also low-inferior lands in the water, in a heavy environment in the Northern Province.
+
+Meanwhile, sluice gates of several major reservoirs have been convented with heavy rains in the North Central Province.
+
+...
+
+[Data](articles/fe6ac00f.json)
+
+[Extended Data](ext_articles/fe6ac00f.ext.json)
+
+---
 
 ### New Legislature to take action against fake allegations
 
@@ -55,6 +137,28 @@ Rajapakse, including former President Mahinda Rajapakse, has been accused of sho
 [Data](articles/04e5c7f8.json)
 
 [Extended Data](ext_articles/04e5c7f8.ext.json)
+
+---
+
+### Sri Lanka Electricity Working Association
+
+*2024-11-24 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203694) · `si`
+
+Sri Lanka Electricity Workers' Association: CEB Chairman requests employee bonuses by Dec 10. General Secretary Ranjan Jayalal confirms no bonuses were given in previous administration.
+
+🟩
+
+The Ceylon Electricity Board (CEB) Chairman of the CEB has requested the Chairman of the Ceylon Electricity Board (CEB) to be taken to provide the employee bonus before December 10.
+
+The General Secretary of the Association Ranjan Jayalal has been sent to a letter.
+
+He further stated that the former administration was not given a bonus for two years since the former management.
+
+◼️
+
+[Data](articles/3952b7a1.json)
+
+[Extended Data](ext_articles/3952b7a1.ext.json)
 
 ---
 
@@ -96,6 +200,36 @@ In his 8th over, Akash lost the next ball of the balls and lost the two players 
 
 ---
 
+### Sri Lankans stranded due to E8 visas in South Korea
+
+*2024-11-24 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203693) · `si`
+
+Sri Lankan workers stranded in South Korea due to E8 visas without job agreements. Protesters demand resolution from Foreign Employment Bureau. Government claims informal visa process used by private agencies.
+
+🟩
+
+The Chairman of the Foreign Employment Bureau Kiosala Wickremasinghe today (24) revealed that the E8 visas had been maintained without a job agreement without a job agreement.
+
+In response to the Sathyagraha, who is looking to go to South Korea under the Visa Methodology.
+
+Under the E8, a group of people who promote the arrival of work in South Korea have been protesting in front of the Foreign Employment Bureau in front of the Foreign Employment Bureau.
+
+They were not responding to the protests yesterday (23) and protest against the protest yesterday.
+
+Although the group was ready to construct a temporary tent, the police were interrupted.
+
+Later, the people engaged in Sathyagrah landed at the place.
+
+We inquired from the President of the Sri Lanka Bureau of Foreign Employment Bureau Kiola Wickremasinghe.
+
+...
+
+[Data](articles/1166844a.json)
+
+[Extended Data](ext_articles/1166844a.ext.json)
+
+---
+
 ### IPL 2025: Wanindu Hasaranga, Maheesh Theekshana bought by RR
 
 *2024-11-24 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103734/ipl-2025-wanindu-hasaranga-maheesh-theekshana-bought-by-rr) · `en`
@@ -125,6 +259,24 @@ The all-rounder has been a vital cog in Sri Lanka’s line-up.
 [Data](articles/3f069c71.json)
 
 [Extended Data](ext_articles/3f069c71.ext.json)
+
+---
+
+### උසස් පෙළ විභාගය හෙට
+
+*2024-11-24 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203692) · `si`
+
+2024 අ.පො.ස. උසස් පෙළ විභාගය හෙට (25) ආරම්භ වන අතර, මෙය විභාග මධ්‍යස්ථාන 2,312කදී පැවැත්වීමට නියමිතව ඇත.
+
+විභාග දෙපාර්තමේන්තුව පවසන්නේ ප්‍රවේශ පත්‍රයේ ඇති අපේක්ෂකයාගේ අත්සන, සුදුසුකම් ලත් පුද්ගලයෙකුගෙන් තහවුරු කරගෙන, වලංගු අනන්‍යතා පත්‍රයක් සහිතව විභාග මධ්‍යස්ථානයට පැමිණිය යුතු බවය.
+
+උසස් පෙළ විභාගය සඳහා මෙවර අපේක්ෂකයන් 333,185ක් සුදුසුකම් ලබා සිටින අතර ඉන් 253,390 දෙනෙක් පාසල් අයදුම්කරුවන් වේ. සෙසු 79,795 දෙනා පෞද්ගලික අපේක්ෂකයන්ය.
+
+දින 22ක් පුරා පැවැත්වෙන උසස් පෙළ විභාගය දෙසැම්බර් 20 වනදා අවසන් වීමට නියමිතය.
+
+◼️
+
+[Data](articles/7c96eab4.json)
 
 ---
 
@@ -534,6 +686,24 @@ All three countries, the United States, Britain and Australia, have announced th
 
 ---
 
+### ජනපති ප්‍රධානත්වයෙන් පැවැත් වූ පොපි මල් සැමරුම
+
+*2024-11-24 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203690) · `si`
+
+සන්නද්ධ හමුදා අනුස්මරණ දින උත්සවය සහ පොපි මල් සැමරුම සේනාධිනායක, ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (24) පැවැත්විණි.
+
+පළමු ලෝක යුද සංග්‍රාමයේ සිට වර්තමානය දක්වා මාතෘභුමියේ සුරක්ෂිතතාව වෙනුවෙන් දිවිපිදූ රණවිරුවන් අනුස්මරණය හා ඔවුන්ට ගෞරවය පුද කිරීම සඳහා ශ්‍රී ලංකා සේවා මුක්ත භට සංගමය, සන්නද්ධ සේවා සමග එක්ව වාර්ෂිකව මෙම උත්සවය සංවිධාන කරයි.
+
+ජනාධිපතිවරයා උත්සවයට පිළිගනු ලැබුවේ, ශ්‍රී ලංකා සේවා මුක්ත භට සංගමයේ මහලේකම් විශ්‍රාමික ලුතිතන් කර්නල් අජිත් සියඹලාපිටිය මහතා විසින්ය.
+
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජෙනරාල් අරුණ ජයසේකර, ආරක්ෂක ලේකම් විශ්‍රාමික එයාර් සම්පත් තුයියකොන්තා ඇතුළු පිරිසක් ද මීට එක්වූහ.
+
+◼️
+
+[Data](articles/08d084cc.json)
+
+---
+
 ### Interpretation
 
 *2024-11-24 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199583) · `ta`
@@ -553,6 +723,24 @@ The November 2024 Parliamentary Elections, which have been the most important 'f
 [Data](articles/aa1120a7.json)
 
 [Extended Data](ext_articles/aa1120a7.ext.json)
+
+---
+
+### අධ්‍යාපනය වත්මන් රජයේ ප්‍රමුඛ විෂයක් - අග්‍රාමාත්‍ය හරිනි අමරසූරිය
+
+*2024-11-24 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203689) · `si`
+
+වෘත්තීය අධ්‍යාපනය, ආර්ථිකයට සෘජුවම දායක වන විෂයක් බැවින් පාසල් අධ්‍යාපනයේ සිට උසස් අධ්‍යාපනය දක්වා පැහැදිලි අනාගතයකට යා හැකි ගෞරවනීය තෝරාගැනීමක් විය යුතු බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+
+අග්‍රාමාත්‍යවරිය මේ බව පැවසුවේ නව රජයේ වෘත්තීය අධ්‍යාපන නියෝජ්‍ය අමාත්‍යධූරයට පත්කෙරුණු නලින් හේවගේ මහතා නාරාහේන්පිට පිහිටි නිපුණතා පියසේදී සිය රාජකාරි නිල වශයෙන් ආරම්භ කිරීමේ අවස්ථාවට එක් වෙමිනි.
+
+"අධ්‍යාපනය වත්මන් රජයේ ප්‍රමුඛ විෂයයක්. අධ්‍යාපන, උසස් අධයාපන, වෘත්තීය අධ්‍යාපන මේ විෂයයන් තුන එකට යා යුතු කොටස් තුනක්.   විශේෂයෙන් වෘත්තීය අධ්‍යාපනය පිළිබඳව අපේ රජය විශේෂ අවධානයක් යොමු කරනවා".
+
+"අපේ රටේ සම්ප්‍රදායිකව වෘත්තීය අධ්‍යාපනය දෙස බලන්නේ අනිත් දේවල් කරන්න බැරි, ඉතුරු වෙන ළමයින්ට යන්න තියන තැනක් ලෙසයි. ඒ ආකල්පය අනිවාර්යයෙන් වෙනස් විය යුතුයි. වෘත්තීය අධ්‍යාපනය විශේෂයෙන් ආර්ථිකයට සෘජුවම දායක වන විෂයයක්. පාසල් අධ්‍යාපනයේ සිට උසස් අධ්‍යාපනය දක්වා පැහැදිලි අනාගතයකට යා හැකි ගෞරවනීය තෝරාගැනීමක් විය යුතුයි".
+
+...
+
+[Data](articles/c878b3e6.json)
 
 ---
 
@@ -797,6 +985,8 @@ The current account deficit of the budget (total revenues less current spending)
 ...
 
 [Data](articles/cc8a91c4.json)
+
+[Extended Data](ext_articles/cc8a91c4.ext.json)
 
 ---
 
@@ -2160,6 +2350,8 @@ Vietnam has achieved high growth and expanded markets using free trade agreement
 
 [Data](articles/497e84fc.json)
 
+[Extended Data](ext_articles/497e84fc.ext.json)
+
 ---
 
 ### Constable killed in dealers in Ratnapura Police
@@ -2319,209 +2511,5 @@ Consumers who encounter issues such as expired goods, misleading promotions, or 
 [Data](articles/f4d56b62.json)
 
 [Extended Data](ext_articles/f4d56b62.ext.json)
-
----
-
-### Three -wheeler accident in Kalutara;One killed
-
-*2024-11-24 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/199532) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Kalutara: One-wheeler crash kills passenger. Driver dies from injuries. Incident occurred on Kanda Temple Rd."
-
-🟩
-
-One person was killed when a three -wheeler lost a speed of control at Kanda Temple Road, which belongs to the Kalutara North Police Division.
-
-The three -wheeler driver has died after being admitted to Nagoda Hospital after being seriously injured.
-
-◼️
-
-[Data](articles/9eab2448.json)
-
-[Extended Data](ext_articles/9eab2448.ext.json)
-
----
-
-### Water level in Nilwala River top floods
-
-*2024-11-24 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203676) · `si`
-
-Nilwala River water level rises, causing small flood. Irrigation Department reports exceedance at Talagahagoda. Minor flood level decreases in Panadagoda. Meteorological Department attributes to low-pressure zone in Bay of Bengal.
-
-🟩
-
-Due to the prevailing weather conditions, the water level of the Nilwala River has risen to a small flood.
-
-The Irrigation Department said that the water level of the Nilwala River has exceeded the smaller floods from Talagahagoda.
-
-However, the growing minor flood level in the Panadagoda area is now down.
-
-Meanwhile, the Meteorological Department is reportedly due to the low-pressure zone in the Bay of Bay of Bay of Bengal.
-
-◼️
-
-[Data](articles/f6565c49.json)
-
-[Extended Data](ext_articles/f6565c49.ext.json)
-
----
-
-### Notify with them if they find them
-
-*2024-11-24 11:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களைக்-கண்டால்-உடன்-அறிவிக்கவும்/175-347682) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Police seek public help to arrest 2 suspects threatening 75mn LKR. Suspects aged 37 & 40 from Katana/Udugampola. Inform police on 071-8591608/071-8591610.
-
-🟩
-
-On November 18, the police sought the help of the public to arrest two suspects who threatened about 75 million rupees, intimidating the van -owned van in Minuwangoda.
-
-The Gampaha Criminal Investigation Department was conducting investigations to arrest the suspects who fled with money.
-
-Police are searching for two suspects aged 37 and 40, respectively from Katana and Udugampola areas.
-
-Those who are informed about the location of the suspects have been asked to contact the police on 071 - 8591608 or 071 - 8591610.
-
-◼️
-
-[Data](articles/1ada2db9.json)
-
-[Extended Data](ext_articles/1ada2db9.ext.json)
-
----
-
-### Bus driver that accidentally crashed a woman at the pavement
-
-*2024-11-24 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203675) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Bus driver crashes 67-year-old woman in Maharagama. Driver arrested, remanded until 6th. Accident caused by reckless driving."
-
-🟩
-
-A woman moved through a predecessor to a pavement in the Old Road, Maharagama has been admitted to a private bus.
-
-The hospital was a 67 year old resident of Boralesgamuwa.
-
-The woman is boarding the pedestrian shift on the road to his home in the Pamunuwa area.
-
-The accident was the cause of the bus driver's unrespective driving.
-
-The driver of the bus has been arrested in connection with the accident and produced before the Nugegoda Magistrate.
-
-The bus driver was ordered to be remanded till the 6th.
-
-◼️
-
-[Data](articles/7666e4f7.json)
-
-[Extended Data](ext_articles/7666e4f7.ext.json)
-
----
-
-### The agreement must be fully implemented
-
-*2024-11-24 11:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்படிக்கையை-அநுர-முழுமையாக-நடைமுறைப்படுத்த-வேண்டும்/175-347681) · `ta`
-
-Ranil Wickremesinghe urges full implementation of India-Sri Lanka visionary document signed in 2023, emphasizing economic cooperation and mutual benefits.
-
-🟩
-
-Former Sri Lankan President Ranil Wickremesinghe has said that Anura Kumara Dissanayake, who was sworn in after him, said that the visionary document accepted last year with India should be fully implemented.
-
-During his visit to India in July 2023, the then President Wickremesinghe signed with Prime Minister Narendra Modi in a visionary document that emphasizes the mutual cooperation between the two countries, especially the economic partnership.
-
-“I and Indian Prime Minister Narendra Modi have mentioned areas of bilateral cooperation between the two countries.. I think he (Dissanayake) should go ahead and we should fully implement this visionary document, ”he said.
-
-Wickremesinghe, who attended an event at Sri Satya Sai Vidya Vihar School in Indore, responded when Dissanayake went to New Delhi next month when he met Prime Minister Modi and other Indian leaders.
-
-...
-
-[Data](articles/730f3e24.json)
-
-[Extended Data](ext_articles/730f3e24.ext.json)
-
----
-
-### Special raids across the country targeting the festive season
-
-*2024-11-24 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203674) · `si`
-
-Consumer Affairs Authority conducts nationwide raids targeting festive season essentials and price gouging.
-
-🟩
-
-The Consumer Affairs Authority has implemented raids and investigations throughout the country since the 15th of the festive season.
-
-The Authority Consumer Affairs and Information Director Asela Bandara said that a special program has been prepared for this purpose.
-
-Accordingly, the raids are being implemented, as a result of the ceremony and changes in the festive season, and these raids are being carried out.
-
-He said that the raids are to be made in the event, not only essential goods, but also for more demand during the festive season.
-
-He further stated that if the public can be provided with regard to the publication of 1977, he added.
-
-◼️
-
-[Data](articles/261f8952.json)
-
-[Extended Data](ext_articles/261f8952.ext.json)
-
----
-
-### President Dissanayake celebrates 56th birthday today
-
-*2024-11-24 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103719/president-dissanayake-celebrates-56th-birthday-today) · `en`
-
-President Anura Kumara Dissanayake, the 9th Executive President of Sri Lanka, celebrates his 56th birthday today, November 24.
-
-Born in 1968, President Dissanayake has made significant contributions to Sri Lankan politics over a career spanning several decades.
-
-President Dissanayake began his education at Thambuttegama Primary School and later entered Thambuttegama Central College, excelling in Mathematics stream at the Advanced Level Examination. In 1992, he entered the Faculty of Science at the University of Kelaniya, earning a Bachelor of Science degree in 1995.
-
-His political journey started during his university years, becoming an activist with the Socialist Students’ Union in 1987. He played a prominent role in the nationwide protests against the Indo-Lanka Accord the same year.
-
-...
-
-[Data](articles/344658dc.json)
-
-[Extended Data](ext_articles/344658dc.ext.json)
-
----
-
-### 497 Indian fishermen arrested in 2024
-
-*2024-11-24 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199521) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-497 Indian fishermen arrested in Sri Lankan waters in 2024. Navy spokesperson Gayan Wickramasuriya confirms arrests in 66 fishing boats. Navy vows to ensure fishermen's safety and address issues.
-
-🟩
-
-497 Indian fishermen have been arrested on charges of fishing in the Sri Lankan waters this year, the Navy said.
-
-Navy spokesman Gayan Wickramasuriya said that Indian fishermen have been arrested in 66 fishing boats.
-
-He added that the Navy would make a maximum contribution to the fishermen's safety and the fishermen's fishermen's fishermen and shortcomings.
-
-◼️
-
-[Data](articles/a52c1bd3.json)
-
-[Extended Data](ext_articles/a52c1bd3.ext.json)
 
 ---

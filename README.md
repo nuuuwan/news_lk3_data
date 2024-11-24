@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 10:01:03**
+As of **2024-11-24 09:18:36**
 
 ## Newspaper Stats
 
-*Scraped **56,531** Articles*
+*Scraped **56,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,393
 economynextcom | 3,430
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,310
-adaderanalk | 6,832
+adalk | 5,309
+adaderanalk | 6,830
 tamilmirrorlk | 8,037
 virakesarilk | 9,197
 adaderanasinhalalk | 9,759
@@ -26,87 +26,11 @@ adaderanasinhalalk | 9,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,526 (100.0%) of 56,531 articles have been extended.
+56,520 (100.0%) of 56,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
-
-### Bid to smuggle ganja to Sri Lanka from Andhra Pradesh foiled; 3 held
-
-*2024-11-24 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103715/bid-to-smuggle-ganja-to-sri-lanka-from-andhra-pradesh-foiled-3-held) · `en`
-
-Thanjavur Police on Friday arrested three persons for an attempt to smuggle ganja to Sri Lanka from Andhra Pradesh via Thanjavur in India. Three FRP boats that were used for transporting the contraband and 330 kg of ganja were seized.
-
-Sources said the Thanjavur SP Ashish Rawat received information that a huge quantity of ganja was being smuggled in a lorry from Andhra Pradesh to Sethubavachatram in Thanjavur to be transported to Sri Lanka.
-
-The SP immediately formed a special team and ordered a vehicle inspection. A special team headed by Sub Inspector Devid was camping in Sethubavachatram. The police during a patrol on Friday early hours found a lorry parked suspiciously and three persons loading bundles into a car from the lorry.
-
-The police team surrounded the trio and searched the lorry. They found bundles of ganja weighing 330 kg.
-
-...
-
-[Data](articles/e5f2bef1.json)
-
-[Extended Data](ext_articles/e5f2bef1.ext.json)
-
----
-
-### Sri Lanka wins World Carrom Championship without a national coach for 14 years
-
-*2024-11-24 09:02:11* · [`adalk`](https://www.ada.lk/sports/අවුරුදු-14ක්-තිස්සේ--ජාතික-පුහුණුකරුවෙකුත්-නොමැතිව-ලෝක-කැරම්-ශූරතාවලියේ-අනුශූරතාව-ලංකාවට/9-413221) · `si`
-
-Sri Lanka wins World Carrom Championship without national coach since 2010. Teams triumph in US, players return home to Katunayake Airport celebration.
-
-🟩
-
-Sri Lanka Carrom men and women's teams won the Katunayake Airport on the night in the 6th World Carrom Championship in the US.
-
-In addition, Shides Hilly and Anashan and Aashani and Tharushi Garramingika won bronze medals in the tournament.
-
-The tournament was held in California in California, US Saint Francisco.
-
-The number of players at Shanhai in Shane Easton Airlines, China, arrived at the Katunayake Airport on the 231 airport.
-
-The Sri Lankan Carrom team has not had a national coach since 2010 and the Sri Lanka Carrom team has been confronted with great difficulties.
-
-Their relative friends were present at the Katunayake Airport, Sri Lanka Carrom Federation, the Sri Lanka Carrom Federation and a group of Sri Lanka Air Force and Navy personnel to accept the group of women.
-
-◼️
-
-[Data](articles/f0dcb886.json)
-
-[Extended Data](ext_articles/f0dcb886.ext.json)
-
----
-
-### Heavy showers above 150 mm likely in several provinces
-
-*2024-11-24 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103714/heavy-showers-above-150-mm-likely-in-several-provinces) · `en`
-
-The Meteorology Department says a low-pressure area has formed over southeast Bay of Bengal and is likely to move west north-westwards and intensify into a depression over southwest Bay of Bengal on 25 November.
-
-The system may intensify further and move towards the Northern coast of Sri Lanka.
-
-Cloudy skies are expected over most parts of the island due to the influence of the aforementioned system, it said.
-
-Showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Very heavy showers above 150 mm are likely at some places in Eastern and Uva provinces and in Hambantota district.
-
-Heavy showers above 100mm are likely at some places in North-central province.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and Eastern provinces and in Hambantota district.
-
-...
-
-[Data](articles/db1e8ff3.json)
-
-[Extended Data](ext_articles/db1e8ff3.ext.json)
-
----
 
 ### 497 Indian fishermen arrested this year
 
@@ -390,8 +314,6 @@ Silva’s remarks came in the backdrop of one of the biggest electoral landslide
 
 [Data](articles/2edb5ec6.json)
 
-[Extended Data](ext_articles/2edb5ec6.ext.json)
-
 ---
 
 ### Netanyahu welcomes Trump’s re-election to second term
@@ -408,8 +330,6 @@ To even consider the validity of the above statement, one must look into the con
 
 [Data](articles/28b393ff.json)
 
-[Extended Data](ext_articles/28b393ff.ext.json)
-
 ---
 
 ### The Dawn of a New Era
@@ -421,8 +341,6 @@ About 20 years ago, I used the same title, in a writing dealing with Mahinda Raj
 ...
 
 [Data](articles/660f2a21.json)
-
-[Extended Data](ext_articles/660f2a21.ext.json)
 
 ---
 
@@ -2475,5 +2393,75 @@ The Presidential Media Unit reaffered that the discussion was successfully compl
 [Data](articles/cfccf4cb.json)
 
 [Extended Data](ext_articles/cfccf4cb.ext.json)
+
+---
+
+### MM in several areas. Heavy rains over 100
+
+*2024-11-23 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203642) · `si`
+
+Heavy rains forecasted across Sri Lanka. Thunderstorms expected in northern regions. Strong winds possible. Public advised to prepare for potential damage.
+
+🟩
+
+Showers or thundershowers will occur at times in the Northern, North-Central and Eastern provinces today.
+
+Thundershowers during the evening or night during the evening or night in the rest of the island.
+
+Mm in Western, Sabaragamuwa, Central and Southern provinces. Heavy rains may occur at more than 100.
+
+In some places in the Western, Sabaragamuwa, Central, Uva and Southern provinces, the Department said.
+
+They also urge the public to take necessary steps to reduce the temporary strong winds and the damages caused by thunderstorms.
+
+◼️
+
+[Data](articles/e1b1a9da.json)
+
+[Extended Data](ext_articles/e1b1a9da.ext.json)
+
+---
+
+### To create a government that meets expectations
+
+*2024-11-23 02:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்பார்ப்புகளை-நிறைவேற்றும்-அரசை-உருவாக்க-வேண்டும்/175-347644) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake: Government must meet public expectations. Public servants should dedicate themselves to fulfilling people's dreams. He thanked Finance Ministry officials for past defense efforts and seeks public support for future goals.
+
+🟩
+
+President Anura Kumara Dissanayake said that if the present government fails to meet the expectations of the people's mandate and the public, the dreams of the people will be false and that public servants should dedicate themselves to the government to fulfill the expectations of the people.
+
+President Anura Kumara Dissanayake made this statement in his speech in the presence of the Ministry's Working Commission after taking office as Minister of Finance and Economic Development yesterday.
+
+The President thanked the Finance Ministry officials to defend the country in the past, and he said that he was expecting the support of all people to achieve future goals.. (A)
+
+◼️
+
+[Data](articles/1d93722e.json)
+
+[Extended Data](ext_articles/1d93722e.ext.json)
+
+---
+
+### NTB introduces Sri Lanka’s first debit card with innovative notch design for visually impaired
+
+*2024-11-23 02:02:00* · [`islandlk`](http://island.lk/ntb-introduces-sri-lankas-first-debit-card-with-innovative-notch-design-for-visually-impaired/) · `en`
+
+Nations Trust Bank (NTB) has become the first in Sri Lanka to introduce the Touch Card, an initiative implemented by Mastercard.
+
+The Touch Card is specially designed to aid visually impaired and partially sighted cardholders. This innovative card enhances the bank’s range of debit cards and underscores its commitment to enhancing customer experiences that are on par with global standards.
+
+The Mastercard Touch Card features a distinct rounded notch, which enables the visually impaired Cardholders to easily distinguish it from any other card. It has been developed in collaboration with a global card manufacturer and was reviewed rigorously by notable organisations such as VISIONS in the United States of America, and the Royal National Institute of Blind People (RNIB) in the United Kingdom.
+
+...
+
+[Data](articles/a4b763bd.json)
+
+[Extended Data](ext_articles/a4b763bd.ext.json)
 
 ---

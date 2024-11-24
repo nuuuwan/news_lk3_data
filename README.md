@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 14:00:56**
+As of **2024-11-24 15:11:09**
 
 ## Newspaper Stats
 
-*Scraped **56,560** Articles*
+*Scraped **56,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,171 @@ islandlk | 3,394
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,316
-adaderanalk | 6,841
-tamilmirrorlk | 8,044
-virakesarilk | 9,198
-adaderanasinhalalk | 9,763
+adalk | 5,317
+adaderanalk | 6,842
+tamilmirrorlk | 8,045
+virakesarilk | 9,203
+adaderanasinhalalk | 9,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,556 (100.0%) of 56,560 articles have been extended.
+56,567 (100.0%) of 56,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### Flood hazard alert to certain areas
+
+*2024-11-24 14:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளுக்கு-வெள்ள-அபாய-எச்சரிக்கை/175-347685) · `ta`
+
+Flood warning issued for areas including Malwathu, Kala Oya, and Mahawali Ganga from Nov 25-28 due to improved Bay of Bengal conditions. Residents advised to evacuate. Heavy rainfall expected in Eastern, Northern, and Central provinces.
+
+🟩
+
+The Department of Irrigation has issued a flood warning in several areas from November 2524 to November 28, due to its current improvement in the Bay of Bengal and its next improvement in the next few days.
+
+Flooding can cause hazardous conditions in low -lying and river beds such as Malwathu, Kala Oya, Kanakarayanaru, Parangi River, Maa Oya, Yan Oya, Mahawali Ganga, Madhuru Oya, Kal Oya, Heta Oya, Mindeniyaru and Vila Oya Bashes.
+
+Residents and passengers in these areas are advised to be attracted from November 25 to November 28.
+
+Meanwhile, the Meteorological Department said that by November 25, the low winds in the southeastern Bengal are likely to strengthen the southwestern Gulf.
+
+It has been reported that more than 150 millimeters in the Eastern Province are expected to be more than 150 millimeters, and more than 100 millimeters in the North, North Central, Central and Uva Provinces and Hambantota districts are expected.
+
+◼️
+
+[Data](articles/a64741e0.json)
+
+[Extended Data](ext_articles/a64741e0.ext.json)
+
+---
+
+### Is the Muslim minister's demand racist?
+
+*2024-11-24 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199546) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+The question of whether a Muslim minister's demand is racist stems from historical context. In Sri Lanka's political history, there were no Muslim ministers. The current situation involves Muslim MPs elected under the National People's Power. Some argue they may be unsuitable for the new regime. However, questioning their suitability isn't inherently racist, as it's based on performance rather than religion.
+
+🟩
+
+In the past, there are no Muslim ministers to tear down so we see those who call it the Muslim Minister. President Anura Kumara Dissanayake asked the people to vote for newcomers, saying that all those who have been in the past have not managed the country properly.. If so, are Muslim MPs elected on behalf of the National People's Power, but are they inappropriate for new regime change?If they are inappropriate, it is not the crime of Muslims to contest them as candidates.
+
+◼️
+
+[Data](articles/13a20cd9.json)
+
+[Extended Data](ext_articles/13a20cd9.ext.json)
+
+---
+
+### Police arrested a person who stole motorbike in several areas
+
+*2024-11-24 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203679) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Kahathuduwa police arrested a 53-year-old man for stealing motorbikes in several areas. Three bikes valued over Rs. were seized along with stolen mobile phones. The suspect was interrogated about mortgaging motorcycles and causing casualties.
+
+🟩
+
+Kahathuduwa police have arrested a person who stole motorbikes in several areas.
+
+Police said three motorbikes worth over Rs.
+
+Police have also found three stolen mobile phones from the suspect.
+
+In the face of interrogation, the suspect had been mortgaged at Rs.
+
+Accordingly, the police have taken steps to be taken into custody motorbikes.
+
+The suspect was used to prepare the motorcycle mortgaged and the casualties.
+
+The suspect is a 53-year-old resident of Batuwita.
+
+◼️
+
+[Data](articles/0a540b8f.json)
+
+[Extended Data](ext_articles/0a540b8f.ext.json)
+
+---
+
+### Sridharan opposite Sumanthiran
+
+*2024-11-24 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199544) · `ta`
+
+Sridharan criticizes Sumanthiran's candidates: They claim support but failed to select voters loyal to the party.
+
+🟩
+
+“Sumanthiran's candidates have highlighted that they should support him, but they did not choose those who could vote for the party.”
+
+◼️
+
+[Data](articles/92976d91.json)
+
+[Extended Data](ext_articles/92976d91.ext.json)
+
+---
+
+### Far right eye breakthrough in Romania presidential vote
+
+*2024-11-24 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103725/far-right-eye-breakthrough-in-romania-presidential-vote) · `en`
+
+Romanians were voting Sunday in the first round of a presidential election amid a surge in inflation and fears over the war in neighbouring Ukraine that could favour far-right leader George Simion.
+
+The vote kicks off two weeks of elections in the poor NATO member country, including a parliamentary vote and a December 8 presidential run-off.
+
+Social democrat Prime Minister Marcel Ciolacu is leading a field of 13 hopefuls in the polls, with about 25 percent, followed by AUR leader Simion on 15 to 19 percent.
+
+Simion is targeting people like Rodica, a 69-year-old who was among the first to vote in Bucharest’s chilly sunshine. The pensioner, who would not give a family name, was afraid of the Ukraine war and wanted “better living conditions and peace”.
+
+The stakes are high in the race to replace President Klaus Iohannis, a liberal and staunch Ukraine ally, who has held the largely ceremonial post since 2014.
+
+...
+
+[Data](articles/7e72c9c8.json)
+
+[Extended Data](ext_articles/7e72c9c8.ext.json)
+
+---
+
+### A schoolgirl jumps into Victoria reservoir
+
+*2024-11-24 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203678) · `si`
+
+Schoolgirl, 17, jumps into Victoria Reservoir with friend. One survives, one drowns. Police investigation ongoing.
+
+🟩
+
+The police stated that the student had jumped into the reservoir yesterday (23) with another friend.
+
+One of the two drowned students have survived and the body of the other student disappeared last evening.
+
+The deceased has been identified as a schoolgirl in 17 year old resident of the Peduyayana area
+
+The deceased is that the reservoir has jumps into the reservoir.
+
+The surviving student is currently receiving treatment at the Teldeniya Hospital.
+
+According to the police, she has revealed that the residents have committed suicide due to the reluctance of the victims of the victim.
+
+◼️
+
+[Data](articles/16ff9d25.json)
+
+[Extended Data](ext_articles/16ff9d25.ext.json)
+
+---
 
 ### CEB employees demand bonuses by December
 
@@ -45,6 +195,8 @@ The union further criticized the management for its lack of action over the past
 ◼️
 
 [Data](articles/de41e085.json)
+
+[Extended Data](ext_articles/de41e085.ext.json)
 
 ---
 
@@ -64,6 +216,8 @@ Even if the CEB submits the revised proposals on December 6, the PUCSL clarified
 
 [Data](articles/79e258fe.json)
 
+[Extended Data](ext_articles/79e258fe.ext.json)
+
 ---
 
 ### Sri Lanka, Australia woo Indian tourists with new initiatives
@@ -79,6 +233,36 @@ Launching the trail officially over the weekend in Delhi, the Sri Lankan high co
 ...
 
 [Data](articles/3bc9b96e.json)
+
+[Extended Data](ext_articles/3bc9b96e.ext.json)
+
+---
+
+### Television tariff amendment is not done this year
+
+*2024-11-24 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203677) · `si`
+
+Electricity tariff revision postponed. CEB failed to submit proposals on time. Public Utilities Commission extends deadline. Revision expected next year.
+
+🟩
+
+The Public Utilities Commission says that an aviation revision will not be held this year.
+
+When contacted, the Director of Corporate Communication, Jayanath Herath said that the delay in the company's submission of proposals had been delayed by the CEB.
+
+විදුලි ගාස්තු සංශෝධනයට අදාළ යෝජනා ලංකා විදුලි බල මණ්ඩලය විසින් පසුගිය සැප්තැම්බර් මස අග මහජන උපයෝගීතා කොමිසම වෙත ඉදිරිපත් කරනු ලැබීය.
+
+However, the Public Utilities Commission had informed the Ceylon Electricity Board to amend and submit these proposals as the reduction of the electricity tariffs were not sufficient.
+
+The Commission had informed the Ceylon Electricity Board to preserve the proposals before November 08 but the CEB was requested to provide the proposal to November 22.
+
+However, the Ceylon Electricity Board (CEB) has not submitted the proposals and they had requested the Public Utilities Commission to provide for another two weeks.
+
+...
+
+[Data](articles/b0ea3a5b.json)
+
+[Extended Data](ext_articles/b0ea3a5b.ext.json)
 
 ---
 
@@ -131,6 +315,22 @@ They fought the people of the area to implement a plan to convert Christianity t
 [Data](articles/1b6efe2a.json)
 
 [Extended Data](ext_articles/1b6efe2a.ext.json)
+
+---
+
+### பொரளையில் ஹெரோயினுடன் ஒருவர் கைது!
+
+*2024-11-24 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199534) · `ta`
+
+பொரளை பொலிஸ் பிரிவுக்குட்பட்ட மனிங் டவுன் பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (23) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பொரளை பொலிஸ் நிலைய பொறுப்பதிகாரிகளின் குழுவொன்று சோதனை நடவடிக்கையில் ஈடுபட்டிருந்தபோதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடம் மேற்கொண்ட மேலதிக விசாரணைகளின் அடிப்படையில், சந்தேக நபர் பொரளை பகுதியில் உள்ள வீடொன்றை உடைத்து திருடிய 03 தங்க சங்கிலிகள், 07 ஜோடி காதணிகள், தங்க வளையல், தங்க மோதிரங்கள், பதக்கங்கள், 07 கைக்கடிகாரங்கள், 09 வாசனை திரவிய போத்தல்கள் மற்றும் வெளிநாட்டு மதுபான போத்தல்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/dd23d3c5.json)
 
 ---
 
@@ -198,21 +398,55 @@ According to the information received by the police, the police have gone to the
 
 ---
 
-### අඩි 50ක් යට ගල් හාරා නිධන් තැන්පත් කිරිමේ තාක්ෂණයක් එදත් අදත් නෑ
+### රත්නපුර පොලීසියේ වාහන රථ ගාලේදි ඇඳ වැටුණ කොස්තාපල් මරුට
 
-*2024-11-24 12:06:25* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-50ක්-යට-ගල්-හාරා-නිධන්-තැන්පත්-කිරිමේ-තාක්ෂණයක්-එදත්-අදත්-නෑ/11-413226) · `si`
+*2024-11-24 12:12:55* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොලීසියේ-වාහන-රථ-ගාලේදි-ඇඳ-වැටුණ-කොස්තාපල්-මරුට/11-413227) · `si`
 
-වෙහෙර විහාර සඳහා මිනිසුන් පුජා කරන දේ ධාතු ගර්භ වෙහෙර විහාර වල තිබෙන්නට හෝ නොතිබෙන්නට හැකි බවත් භු විද්‍යාව සම්බන්දව වසර 40 ගනනක පලපුරුද්ද අනුව අඩි 40 ක් 50 යට ගල් හාරා නිදන් තැන්පත් කිරිමේ හෝ ගල් උණු කර දැමිමක් හෝ ගල් ඇලවීමේ තාක්ෂණයක් එදත් අදත් නැති බව පේරාදෙණිය විශ්ව විද්‍යාලයේ භු ගර්භ විද්‍යාව පිළිබද සම්මාණිත මහාචාර්‍ය අතුල සේනාරත්න මහතා පවසයි.
+රත්නපුර පොලිසිය තුල පිහිටි වාහන ගාල් කරන ස්ථානය තුල පොලිස් නිළධාරියෙකු වැටි රෝහල් ගත කරන විටත් මියගොස් ඇතිබව රත්නපුර පොලිසිය පවසයි.
 
-මේ සම්බන්ධව රාජ්‍ය අනුග්‍රහය ලබාදිමද අවශ්‍යතාවයක් නොමැති දෙයක් බවද මහාචාර්‍යවරයා පැවසිය.
+මෙසේ මියගොස් ඇත්තේ රත්නපුර පොලිසියේ උප සේවා කොස්තාපල් වරයෙකු වන අවුරුදු 59 ක් වන අනුරාධපුර ඉසුරුපුර විජේමාවතේ පදිංචි අවිවාහක අයෙක් බවද පොලිසිය පවසයි.
 
-මහාචාර්‍ය අතුල සේනාරත්න මහතා මේ බව පැවසුයේ වේයන්ගොඩ වඳුරව ප්‍රදේශයේ අධිවේගී මාර්ග රක්ෂිතයේ නිධන් වස්තු ඇතැයි පැවසෙන ස්ථානයේ නිධන් වස්තු ඇතිදැයි කළ විමසිමකදිය.
+මෙම නිළධාරියා උප සේවා කොස්තාපල්වරයෙකු ලෙස කන්තලේ කුරුවිට ඇතුළු පොලිස් ස්ථාන රැසක සේවය කර ඇති අතර අවසන් වරට රත්නපුර පොලිසියේ සේවය කර ඇති බවත් ලබන වසරේ. අප්‍රේල් මස විශ්‍රාම යාමට සිටි බවද පොලිසිය පවසයි.
 
-පුරා විද්‍යා ගවේශනයන් සඳහා භු විද්‍යාඥයිනගේ  අවධානය යොමුවන්නේ පුරා විද්‍යාඥයින්ගෙන් යම් ඉල්ලිමක් ලැබුණොත් පමනක් බවත් යම්කිසි අවශ්‍යතාවයක් මත ආරධානවක් ලැබුණොත් පමණක් ඒ සදහා භු විද්‍යාඥයින් සහයෝගය ලබාදෙන බවද අතුල සේනාරත්න මහතා පැවසිය.
+22 වන දින රාත්‍රි සේවයෙන් පසුව  23වන දින පෙරවරුවේ සේවය අවසන් වි ඇත
+
+මෙදින සවස රත්නපුර පොලිසියේ ඇතුලත සිටියදි රථ ගාලේදි හදිසියේ වැටිමෙන් අනතුරුව  රත්නපුර ශික්ෂණ රෝහලට ඇතුලත් කරන විටත් මියගොස් සිටි බව පොලිසිය පවසයි.
+
+23 වන දින සවස රත්නපුර වැඩ බලන මහේස්ත්‍රාත් විජය තෙන්නකොන් මහතා විසින් වැටි සිටි ස්ථානය සහ රෝහලේදි මහේස්ත්‍රාත් පරික්ෂණය සිදු කෙරිණ.  අද 24 දහවල් රත්නපුර රෝහලේදි පශ්චාත් මරණ පරික්ෂණය සිදු කිරිමට නියමිතය.
 
 ...
 
+[Data](articles/c69344e1.json)
+
+---
+
+### Not even today, a technique of stolen under 50 feet
+
+*2024-11-24 12:06:25* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-50ක්-යට-ගල්-හාරා-නිධන්-තැන්පත්-කිරිමේ-තාක්ෂණයක්-එදත්-අදත්-නෑ/11-413226) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+University of Peradeniya lacks advanced treasure hunting tech. Prof. Athula Senaratne criticizes state support. Focuses on geological exploration over archaeological methods. Treasure hunters rely on natural instincts rather than technology.
+
+🟩
+
+University of Peradeniya has not yet been able to hold the treasure or treasure hunting or stone cashing technology to be treasure or treasure or stone.Professor Athula Senaratne says the selected Professor Athula Senaratne regarding the Colombo College.
+
+The professor said that the state patronage was also no need to provide the state-sponsored.
+
+Professor Athula Senaratne was said to have been in the area where there were treasure treasures in the Veyangoda area.
+
+Athula Senaratne said that the geologists focus on arrogant exploration of throughout the throughout the archaeologists only if it is only a necessary option.
+
+The professor said that this is a good eye on the soil, saying that they are naturally welded by their treasure hunting.
+
+◼️
+
 [Data](articles/04ab66c6.json)
+
+[Extended Data](ext_articles/04ab66c6.ext.json)
 
 ---
 
@@ -241,6 +475,20 @@ The Defenders were disseminated by a CD, which was installed near the accident.
 [Data](articles/467bc693.json)
 
 [Extended Data](ext_articles/467bc693.ext.json)
+
+---
+
+### கடல் நீரில் அடித்துச் செல்லப்பட்டவர் மீட்பு!
+
+*2024-11-24 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199531) · `ta`
+
+பாணந்துறை, வலான பிரதேசத்தைச் சேர்ந்த 32 வயதுடைய நபரே கடல் நீரில் அடித்துச் செல்லப்பட்டு மீட்கப்பட்டுள்ளார்.
+
+பொலிஸார் அந்த நபரை மீட்டு, அடிப்படை முதலுதவிகளை வழங்கிய பின்னர், அவரை மேலதிக சிகிச்சைக்காக பாணந்துறை வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+
+◼️
+
+[Data](articles/c6e6b3d7.json)
 
 ---
 
@@ -288,6 +536,38 @@ Consumers who encounter issues such as expired goods, misleading promotions, or 
 
 ---
 
+### களுத்துறையில் முச்சக்கரவண்டி விபத்து; ஒருவர் பலி
+
+*2024-11-24 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/199532) · `ta`
+
+களுத்துறை வடக்கு பொலிஸ் பிரிவுக்குட்பட்ட கந்த கோவில் வீதியில், முச்சக்கரவண்டியொன்று வேகக்கட்டுப்பாட்டை இழந்து தொலைபேசி கம்பத்தில் மோதியதில் ஒருவர் உயிரிழந்துள்ளார்.
+
+விபத்தில் முச்சக்கரவண்டி சாரதி பலத்த காயங்களுக்குள்ளாகி நாகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/9eab2448.json)
+
+---
+
+### නිල්වලා ගඟේ ජල මට්ටම සුළු ගංවතුර තත්ත්වයක් දක්වා ඉහළට
+
+*2024-11-24 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203676) · `si`
+
+පවතින වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් නිල්වලා ගඟේ ජල මට්ටම සුළු ගංවතුර තත්ත්වයක් දක්වා ඉහළ ගොස් තිබේ.
+
+වාරිමාර්ග දෙපාර්තමේන්තුව පැවසුවේ නිල්වලා ගඟේ ජල මට්ටම තලගහගොඩ ප්‍රදේශයෙන් සුළු ගංවතුර මට්ටම ඉක්මවා ගොස් ඇති බවය.
+
+කෙසේවෙතත් පානදුගම ප්‍රදේශයේ වර්ධනය වෙමින් තිබූ සුළු ගංවතුර මට්ටම මේ වන විට පහළ යමින් පවතින බව ද වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මේ අතර බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිතව නිර්මාණය වී ඇති අඩු පීඩන කලාපය හේතුවෙන් දිවයිනේ බොහෝ ප්‍රදේශවලට වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/f6565c49.json)
+
+---
+
 ### Notify with them if they find them
 
 *2024-11-24 11:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களைக்-கண்டால்-உடன்-அறிவிக்கவும்/175-347682) · `ta`
@@ -316,6 +596,28 @@ Those who are informed about the location of the suspects have been asked to con
 
 ---
 
+### පදික මාරුවේදී කාන්තාවක් අනතුරට පත් කළ බස් රියදුරු
+
+*2024-11-24 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203675) · `si`
+
+මහරගම පරණ පාරේ පදික මාරුවක් මතින් මාර්ගය හරහා මාරු වෙමින් සිටි කාන්තාවක් පෞද්ගලික බස් රථයකකට යටවීමෙන් බරපතළ තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+මෙලෙස රෝහල් ගත කර ඇත්තේ බොරලැස්ගමුව ප්‍රදේශයේ පදිංචි 67 හැවිරිදි කාන්තාවකි.
+
+අදාළ කාන්තාව පමුණුව ප්‍රදේශයෙන් රෙදිපිළි මිලදී ගෙන බොරලැස්ගමුව ප්‍රදේශයේ පිහිටි සිය නිවස වෙත යාම සඳහා මාර්ගයේ තිබූ පදික මාරුව හරහා ගමන් කරමින් සිටියදී මෙම අනතුරට මුහුණ දී තිබේ.
+
+බස් රථ රියදුරුගේ අපරික්ෂාකාරී රිය ධාවනය මෙම අනතුරට හේතුව වූ බව පොලීසිය පවසයි.
+
+අනතුර සම්බන්ධව බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කර තිබේ.
+
+එහිදි බස් රථ රියදුරු එළැඹෙන 06 වැනි දින දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/7666e4f7.json)
+
+---
+
 ### The agreement must be fully implemented
 
 *2024-11-24 11:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்படிக்கையை-அநுர-முழுமையாக-நடைமுறைப்படுத்த-வேண்டும்/175-347681) · `ta`
@@ -340,6 +642,26 @@ Wickremesinghe, who attended an event at Sri Satya Sai Vidya Vihar School in Ind
 
 ---
 
+### උත්සව සමය ඉලක්ක කර දිවයින පුරා විශේෂ වැටලීම්
+
+*2024-11-24 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203674) · `si`
+
+උත්සව සමය වෙනුවෙන් එළැඹෙන 15 වැනිදා සිට දිවයින පුරා වැටලීම් සහ විමර්ශන ක්‍රියාත්මක කිරීමට පාරිභෝගික සේවා අධිකාරිය පියවර ගෙන තිබේ.
+
+එම අධිකාරියේ පාරිභෝගික කටයුතු හා තොරතුරු අධ්‍යක්ෂ අසේල බණ්ඩාර මහතා පැවසුවේ ඒ සඳහා විශේෂ වැඩපිළිවෙළක් මේ වන විට සකස් කර ඇති බවය.
+
+ඒ අනුව උත්සව සමයේදී කල් ඉකුත් වූ සහ තොරතුරු වෙනස් කරමින් නොයෙකුත් භාණ්ඩ වෙළඳපොළ වෙත පැමිණීමේ ඉඩකට වැඩි බැවින් ඒ පිළිබඳ විශේෂ අවධානයක් යොමුකරමින් මෙම වැටලීම් ක්‍රියාත්මක බවද ඔහු පැවසීය.
+
+විශේෂයෙන් අත්‍යවශ්‍ය භාණ්ඩ පමණක් නොව රෙදි පිලි, විදුලි උපකරණ සහ අනෙකුත් භාණ්ඩද උත්සව සමයේදී වැඩි ඉල්ලුමක් සහිත ව අලෙවි වන බැවින් ඒ සම්බන්ධවද වැටලීම් සිදු කිරීමට නියමිත බවද ඔහු පැවසීය.
+
+මේ සම්බන්ධව මහජනතාවට පැමිණිලි ඇත්නම් 1977 දරන දුරකථන අංකය වෙත තොරතුරු ලබා දිය හැකි බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/261f8952.json)
+
+---
+
 ### President Dissanayake celebrates 56th birthday today
 
 *2024-11-24 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103719/president-dissanayake-celebrates-56th-birthday-today) · `en`
@@ -357,6 +679,32 @@ His political journey started during his university years, becoming an activist 
 [Data](articles/344658dc.json)
 
 [Extended Data](ext_articles/344658dc.ext.json)
+
+---
+
+### 497 Indian fishermen arrested in 2024
+
+*2024-11-24 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199521) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+497 Indian fishermen arrested in Sri Lankan waters in 2024. Navy spokesperson Gayan Wickramasuriya confirms arrests in 66 fishing boats. Navy vows to ensure fishermen's safety and address issues.
+
+🟩
+
+497 Indian fishermen have been arrested on charges of fishing in the Sri Lankan waters this year, the Navy said.
+
+Navy spokesman Gayan Wickramasuriya said that Indian fishermen have been arrested in 66 fishing boats.
+
+He added that the Navy would make a maximum contribution to the fishermen's safety and the fishermen's fishermen's fishermen and shortcomings.
+
+◼️
+
+[Data](articles/a52c1bd3.json)
+
+[Extended Data](ext_articles/a52c1bd3.ext.json)
 
 ---
 
@@ -405,32 +753,6 @@ Some delegates gave the deal a standing ovation in the COP29 plenary hall. Other
 [Data](articles/026eb8e9.json)
 
 [Extended Data](ext_articles/026eb8e9.ext.json)
-
----
-
-### 497 Indian fishermen arrested in 2024
-
-*2024-11-24 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199521) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-497 Indian fishermen arrested in Sri Lankan waters in 2024. Navy spokesperson Gayan Wickramasuriya confirms arrests in 66 fishing boats. Navy vows to ensure fishermen's safety and address issues.
-
-🟩
-
-497 Indian fishermen have been arrested on charges of fishing in the Sri Lankan waters this year, the Navy said.
-
-Navy spokesman Gayan Wickramasuriya said that Indian fishermen have been arrested in 66 fishing boats.
-
-He added that the Navy would make a maximum contribution to the fishermen's safety and the fishermen's fishermen's fishermen and shortcomings.
-
-◼️
-
-[Data](articles/a52c1bd3.json)
-
-[Extended Data](ext_articles/a52c1bd3.ext.json)
 
 ---
 
@@ -2125,367 +2447,5 @@ Sri Lanka went to the IMF for a rescue package after the country defaulted on it
 [Data](articles/ffde8d42.json)
 
 [Extended Data](ext_articles/ffde8d42.ext.json)
-
----
-
-### Independence party asks for national list of cylinder
-
-*2024-11-23 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203656) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Independence party requests SLFP seat from New Democratic Front. SLFP leader Nimal Siripala de Silva discusses National List crisis."
-
-🟩
-
-The party has requested the Sri Lanka Freedom Party to provide one seat to the Sri Lanka Freedom Party (SLFP) in the New Democratic Front last general election.
-
-Sri Lanka Freedom Party (SLFP) Nimal Siripala de Silva said that the front of the national list was held with the new Democratic Front.
-
-He was speaking at the party headquarters to discuss the National List crisis in the New Democratic Front after the meeting held at the party headquarters yesterday.
-
-He further stated that the party's central committee and the Political Council of the party should have decided to give the Sri Lanka Freedom Party to the party.
-
-◼️
-
-[Data](articles/4ebdc9e0.json)
-
-[Extended Data](ext_articles/4ebdc9e0.ext.json)
-
----
-
-### Another student dies in Badulla accident
-
-*2024-11-23 16:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பதுளை-விபத்தில்-மற்றுமொரு-மாணவனும்-உயிரிழப்பு/72-347655) · `ta`
-
-Student dies after 23 days from bus accident injuries. Death occurs without proper medical care. Incident raises concerns about emergency services and patient treatment.
-
-🟩
-
-A university student who was injured in a bus accident has died without treatment.
-
-Kailanathan Sindhujan, a resident of Kandarmadam, Jaffna, who is studying at Sir John Kotalawala Security University, died after 23 days.
-
-Four people were killed in the accident earlier. The number of casualties in the accident has increased to five.
-
-36 people, including driver on the bus, were injured. The injured were admitted to the Badulla Hospital for treatment. Six of them were admitted to the Intensive Care Unit.
-
-The injured Sindhujan was transferred to the Intensive Care Unit of the Security University Hospital in Ratmalana last week.
-
-The hospital administration has announced that he died without treatment at around 5:30 am today.R
-
-◼️
-
-[Data](articles/ec890b17.json)
-
-[Extended Data](ext_articles/ec890b17.ext.json)
-
----
-
-### IMF is the main resolution
-
-*2024-11-23 16:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-எடுத்துள்ள-முக்கிய-தீர்மானம்/175-347654) · `ta`
-
-Here's a 200-character summary:
-
-
-
-IMF: Sri Lanka reaches staff-level agreement for $333M. New government commits to maintaining policies. Loan approved March 20, 2023.
-
-🟩
-
-The International Monetary Fund today (23) announced that its representatives and Sri Lankan officials have reached an employee level agreement in the 3rd review of the extended credit facility for Sri Lanka by the IMF.
-
-After recognizing the management of the International Monetary Fund and its Executive Council, Sri Lanka will have a chance to get about $ 333 million.
-
-The report also stated that the new government's commitment to maintain policies is important to achieve the objectives of the project.
-
-Peter Brouver was headed by the International Monetary Fund's delegation, and they have been staying in the country since November 17.
-
-On March 20, 2023, the International Monetary Fund recognized the $ 2.9 billion loan for Sri Lanka. It will be implemented in 48 months. Remble
-
-◼️
-
-[Data](articles/2932028e.json)
-
-[Extended Data](ext_articles/2932028e.ext.json)
-
----
-
-### Asgiri's request involving the Archioracic patterns of Buddhist behaviors
-
-*2024-11-23 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203655) · `si`
-
-Asgiri party requests expedited approval of religious clauses. Amendments made to Vihara Devalagam Act sections 41 & 42. Hopeful signing of Mahanayaka Thero without controversy, avoiding controversial monk behaviors.
-
-🟩
-
-The Asgiri party has asked the government to expedite the clauses of all denominations, as the Mahanayaka patterns are powerful to the Mahanayaka patterns.
-
-The request was made by the Community Medagama Sri Dhammananda and KD Lal Kanthe when he arrived at the Malwatte and Asgiriya Chamber.
-
-The amendments have been made to Section 41 and 42 of the Vihara Devalagam Act. So we have finally signed our Mahanayaka Thero. We hope that this does not require a speech through this. Avoid the Archiorous behaviorals of the monks. It's good to rush it. "
-
-◼️
-
-[Data](articles/31e27fe4.json)
-
-[Extended Data](ext_articles/31e27fe4.ext.json)
-
----
-
-### Main suspects of robbery hides in Jaffna
-
-*2024-11-23 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203654) · `si`
-
-Two robbery suspects hiding in Jaffna. Police seeking public help to identify them. Suspects may try to escape to India via sea.
-
-🟩
-
-The two main suspects of the robbery of robbery in the Minuwangoda area are hiding in Jaffna.
-
-The driver of a secure cash-transporting private company had fled the Bandaranawala area on November 18.
-
-The police were recovered after more than Rs. 3 billion.
-
-Accordingly, the identity of the two suspects had requested the public to provide information on them.
-
-In the meantime, the suspects are hiding in Jaffna.
-
-The two suspects were also released to the media: The two suspects were also released to the media.
-
-Police suspect that the suspects have tried to flee to India from sea to India.
-
-◼️
-
-[Data](articles/24b66190.json)
-
-[Extended Data](ext_articles/24b66190.ext.json)
-
----
-
-### GCE.. High Quality Examination Monday Beginning!
-
-*2024-11-23 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199485) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-GCE A/L exams start Monday, Dec 25. Postponement requests denied due to completed arrangements. Exam schedule announced Mar 1, allowing prep time. Changing now would disrupt national selection & normal grading. Ministry confirms exams will proceed as planned.
-
-🟩
-
-The Department of Examinations said that all arrangements have been completed as the GCE A / L examination begins on Monday (25).. The exam will begin on Monday and will be held until December 20th.
-
-Requests are being made from various parties to postpone the GCE Advanced Level Examination. However, all arrangements have already been completed, including the printing of questionnaires, the establishment of regional collection centers and the setting up of exam centers.
-
-The GCE Advanced Level Examination Schedule was officially announced on the 1st of March. Give enough time to prepare for students and schools. A change at this point will cause significant obstacles in the national selection calendar. Especially the impact on the normal grade exam.
-
-...
-
-[Data](articles/27d097fe.json)
-
-[Extended Data](ext_articles/27d097fe.ext.json)
-
----
-
-### A man arrested for illegally excavating treasure in Kandy
-
-*2024-11-23 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199482) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Man, 56, arrested for illegal treasure excavation in Kandy's Navinapitiya area. Pokawala police conducted raid based on tip-off.
-
-🟩
-
-Pokawala police said that a suspect who illegally excavated treasure in the Navinapitiya area, which belongs to the Pokawala Police Division, Kandy, was arrested yesterday (22).
-
-The suspect has been arrested during a raid carried out on confidential information received by the Pokawala police.
-
-The suspect was 56 years old from Poojapitiya, Kandy.
-
-◼️
-
-[Data](articles/f7dc3a80.json)
-
-[Extended Data](ext_articles/f7dc3a80.ext.json)
-
----
-
-### An additional concession to those who did not apply to the relief
-
-*2024-11-23 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203653) · `si`
-
-Additional concessions for those who missed welfare benefit application deadline. Revenue reward program available Nov 25-Dec 2 through Divisional Secretariats. First round beneficiaries received allowances for first phase. Second phase allowances distributed.
-
-🟩
-
-Welfare Board has decided to provide additional concessions for persons who were unable to apply to the welfare benefit program so far.
-
-The Chairman of the Jayantha Wijeratne said that the revenue reward program has been given to the revenue program from November 25 to December 2.
-
-Application Form is available through Divisional Secretariats.
-
-He also said that the first round beneficiaries of the revenue beneficiary scheme has been given to suffering from the first round of beneficiaries.
-
-Meanwhile, the Welfare Benefit Board (Welfare Benefit) has been given the allowances for the first phase of the revenue scheme and the first phase of the second phase has been received for the second phase.
-
-◼️
-
-[Data](articles/a2d56b2a.json)
-
-[Extended Data](ext_articles/a2d56b2a.ext.json)
-
----
-
-### Arrested with domestic rifle
-
-*2024-11-23 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199483) · `ta`
-
-Domestic rifle arrest: Suspect caught in Elagamillava, Kurunegala. Police acted on confidential tip.
-
-🟩
-
-A suspect with domestic gun in Elagamillava area belonging to the Kiruulla police division in Kurunegala has been arrested yesterday (22), Kirulla police said.
-
-The suspect has been arrested on the basis of confidential information received by the Girulla police.
-
-◼️
-
-[Data](articles/47f06ddb.json)
-
-[Extended Data](ext_articles/47f06ddb.ext.json)
-
----
-
-### Expecting support to all the victories towards
-
-*2024-11-23 14:37:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියට-ඇති-ජයග්‍රහණ-කරා-යාමේ-දී-සියලු-දෙනාගේ-සහාය-අපේක්ෂා-කරනවා/11-413218) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake addresses ministry staff, praising economic achievements and urging dedication to public service. He warns of consequences if expectations aren't met, emphasizing the importance of fair governance and addressing income inequality.
-
-🟩
-
-President Anura Kumara Dissanayake said that if the present government fails to fulfill the expectations of the people in the last majority, he would delederate a positive future and the public officers should be dedicated to the fulfillment of the people.
-
-President Anura Kumara Dissanayake made this statement addressing the staff following the ministry as the Minister of Planning and Economic Development Minister yesterday (22).
-
-The President was warmly welcomed by the staff.
-
-The assertion of the officers of the Ministry of Finance to liberate the country in the face of the past economic collapse, he said that the President was grateful to the achievement of all those who were gratefully appreciated to achieve the achievements.
-
-...
-
-[Data](articles/9ab8085c.json)
-
-[Extended Data](ext_articles/9ab8085c.ext.json)
-
----
-
-### Health Minister did not go to the Kandy Hospital
-
-*2024-11-23 14:27:23* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-ඇමති-මහනුවර-රෝහලේ-නිරික්ෂණයකට-ගියේ-නෑ/11-413217) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Health Minister Dr. Nalinda Jayatissa toured Kandy Hospital, denying rumors of absence. Ministry clarifies he worked 9am-8pm in Colombo. False news about his participation in Kandy events is discouraged to prevent embarrassment in healthcare sector.
-
-🟩
-
-Health and Mass Media Media Dr. Nalinda Jayatissa commenced a tour of the Kandy Government Hospital and said that news was exchanged from the media.
-
-The Ministry of Health says that the Health and Mass Media Media Dr. Nalinda Jayatissa has not participated in any parts of Kandy or island.
-
-Health and Mass Media Dr. Nalinda Jayatissa was ruded at the Health Ministry in Colombo 10 am from 9.00 am to 8 pm.
-
-Minister of Health and Mass Media Medical Dr. Nalinda Jayatissa concluded at lengthy plans to uplift the procurement of seven major trade unions and the officials of the Ministry of Healthcare and the officials of the Ministry of Health Services.A trial was carried out.
-
-The Hon.
-
-Such false news positions is kindly urged that the health sector officials and institutions are not embarrassed and propaganda through social media.
-
-◼️
-
-[Data](articles/2f400c6e.json)
-
-[Extended Data](ext_articles/2f400c6e.ext.json)
-
----
-
-### Heavy showers of 150 mm expected in several provinces
-
-*2024-11-23 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103707/heavy-showers-of-150-mm-expected-in-several-provinces) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur at times in the Northern, North-central, Eastern and Uva provinces and in Hambantota District.
-
-Showers or thundershowers will occur at several places elsewhere on the island during the evening or night.
-
-Heavy showers of about 150 mm are likely at some places in Northern, North-central, Eastern and Uva provinces, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e27f23e6.json)
-
-[Extended Data](ext_articles/e27f23e6.ext.json)
-
----
-
-### KDU bus accident: Death toll rises to 3 as another student dies
-
-*2024-11-23 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103706/kdu-bus-accident-death-toll-rises-to-3-as-another-student-dies) · `en`
-
-Another student has reportedly succumbed to injuries sustained in the fatal bus accident that occurred on November 01 in Badulla, increasing the death toll to three.
-
-The 24 year-old victim, Kayilanathan Sinthujan, was a resident of Kantharmadam, Jaffna and has passed away today (23) while receiving treatment at the University Hospital KDU (UHKDU).
-
-A former student of Jaffna Hindu College, he had sat for the G.C.E. Advanced Level (A/L) examination under the stream of Physical Science (Maths).
-
-The incident on November 01 had claimed the lives of two individuals and injured 39 others when a bus carrying over 40 passengers toppled on Dunhinda Road in Badulla.
-
-Among the deceased were two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU). The students had been traveling on a field trip when the bus hit a curb and overturned.
-
-...
-
-[Data](articles/80bddd65.json)
-
-[Extended Data](ext_articles/80bddd65.ext.json)
-
----
-
-### Another student killed in KDU bus accident
-
-*2024-11-23 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203651) · `si`
-
-Student killed in KDU bus crash near Badulla. 24-year-old from Kandamadam, Jaffna, studying at Hindu Vidyalaya. Bus carried 41 students from Kotelawala Defense University.
-
-🟩
-
-Another student who was admitted to hospital with injuries was injured in the accident and injured in the accident.
-
-The victim was a 24 year old resident of Kandamadam, Jaffna.
-
-He is a student of the Advanced Level of Hindu Vidyalaya, Jaffna.
-
-The bus, which was carrying 41 students from the Southern Defense University of Kotelawala, was crashed in the Badulla-Dunguwara.
-
-◼️
-
-[Data](articles/1b34fca5.json)
-
-[Extended Data](ext_articles/1b34fca5.ext.json)
 
 ---

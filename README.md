@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 11:42:13**
+As of **2024-11-24 12:41:32**
 
 ## Newspaper Stats
 
-*Scraped **56,547** Articles*
+*Scraped **56,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
-islandlk | 3,393
+islandlk | 3,394
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,312
-adaderanalk | 6,836
-tamilmirrorlk | 8,041
+adalk | 5,313
+adaderanalk | 6,838
+tamilmirrorlk | 8,042
 virakesarilk | 9,198
 adaderanasinhalalk | 9,763
 
@@ -26,27 +26,97 @@ adaderanasinhalalk | 9,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,542 (100.0%) of 56,547 articles have been extended.
+56,548 (100.0%) of 56,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
 
-### இவர்களைக் கண்டால் உடன் அறிவிக்கவும்
+### தகாத உறவால் தலை துண்டிப்பு
+
+*2024-11-24 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகாத-உறவால்-தலை-துண்டிப்பு/175-347683) · `ta`
+
+தனமல்வில பொலிஸ் பிரிவிற்குட்பட்ட அரம்பேகெம பகுதியைச் சேர்ந்த ரொஷான் திமுத்து (35) என்பவரை கொலை செய்த சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட சந்தேகநபர் மற்றும் அவரது கள்ளக்காதலி எதிர்வரும் டிசம்பர் மாதம் (05) வரை விளக்கமறியலில் வைக்குமாறு பண்டாரவளை பதில் நீதவான் பாலிந்த மனோஜ் வீரசிங்க உத்தரவிட்டுள்ளார்
+
+சந்தேக நபர் மற்றும் கொலை செய்யப்பட்டவரும், தனமல்வில - ஹம்பேகமுவ, சூரியகொட பிரதேசத்தில் வசிக்கும் விதவை பெண் ஒருவருடன் தகாத  உறவில் இருந்துள்ளனர்.
+
+பலஹருவ பிரதேசத்தைச் சேர்ந்த 46 வயதுடைய சந்தேக நபர்,  தனது கள்ளகாதலிக்கு அடிக்கடி தொந்தரவு கொடுத்து வந்தநபரை கூறிய ஆயுதத்தால் சந்தேக நபர் கூறி அவரை மோட்டார் சைக்கிளில் ஏற்றிக்கொண்டு அலுத்வெல ஹமுதுருகந்த காட்டுப் பகுதிக்கு அழைத்துச் சென்றுள்ளார்.
+
+இவ்வாறே காட்டுக்குள் அழைத்துச்சென்று, தலையை துண்டித்துள்ளார். அவ்வாறு துண்டிக்கப்பட்ட தலையை வேறு இடத்தில் புதைத்து, உடலின் மற்ற பகுதி (கவந்தா) கால்வாய் அருகே வீசியுள்ளார்.
+
+இந்தநிலையில், தனது மகன் ரொஷான் திமுத்து காணாமல் போனதாக பொலிஸாரிடம் அவரது தாய் கடந்த 18ஆம் திகதி முறைப்பாடு அளித்துள்ளார்.
+
+...
+
+[Data](articles/92ff84e6.json)
+
+---
+
+### Minor flood situation as Nilwala River water level rises
+
+*2024-11-24 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103721/minor-flood-situation-as-nilwala-river-water-level-rises) · `en`
+
+The water level of the Nilwala River has risen to a minor flood level due to prevailing rainy weather conditions, according to the Department of Irrigation.
+
+Officials reported that the water level of the Nilwala River in the Thalagahagoda area has surpassed the minor flood threshold.
+
+However, in the Panadugama area, where water levels had earlier been rising, the situation is showing signs of improvement as floodwaters are receding, the Irrigation Department said.
+
+Meanwhile, the Meteorological Department has issued an advisory on the likelihood of widespread rainfall across the island, attributed to a low-pressure area forming in the Bay of Bengal.
+
+Authorities urge residents in low-lying areas near the Nilwala River to remain vigilant and take necessary precautions as weather conditions may continue to evolve.
+
+◼️
+
+[Data](articles/629d4cb1.json)
+
+---
+
+### CAA to launch special raids during festive season
+
+*2024-11-24 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103720/caa-to-launch-special-raids-during-festive-season) · `en`
+
+The Consumer Affairs Authority (CAA) has announced a series of special raids starting December 15 to safeguard consumers during the upcoming festive season.
+
+According to CAA Director Asela Bandara, a comprehensive inspection program will be implemented nationwide, focusing on major wholesale outlets, warehouses, and retail shops to prevent the circulation of expired products.
+
+The raids will also extend to outlets selling clothing, electronics, and other essential goods, ensuring compliance with consumer protection standards.
+
+Mobile vendors and stores hosting large seasonal sales will come under close scrutiny to curb unfair trade practices and maintain product quality, he added.
+
+Consumers who encounter issues such as expired goods, misleading promotions, or substandard products are encouraged to report their complaints via the CAA”s dedicated hotline at 1977.
+
+◼️
+
+[Data](articles/f4d56b62.json)
+
+---
+
+### Notify with them if they find them
 
 *2024-11-24 11:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களைக்-கண்டால்-உடன்-அறிவிக்கவும்/175-347682) · `ta`
 
-நவம்பர் 18 அன்று மினுவாங்கொடையில் பணமாற்று நிறுவனமொன்றுக்கு சொந்தமான வேனிலிருந்தவர்களை மிரட்டி சுமார் 75 மில்லியன் ரூபாவை அபகரித்து சென்ற இரண்டு சந்தேக நபர்களை கைது செய்ய பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+Here's a summary of 200 characters:
 
-கொள்ளையிட்ட பணத்துடன் தப்பிச் சென்றுள்ள சந்தேகநபர்களை கைது செய்ய கம்பஹா குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை முன்னெடுத்திருந்தனர்.
 
-கட்டான மற்றும் உடுகம்பொல பிரதேசங்களைச் சேர்ந்த முறையே 37 மற்றும் 40 வயதுடைய இரு சந்தேக நபர்களை பொலிஸார் தேடி வருகின்றனர்.
 
-சந்தேக நபர்களின் இருப்பிடம் தொடர்பில் தகவல் தெரிந்தவர்கள் பொலிஸாரை 071 – 8591608 அல்லது 071 – 8591610 என்ற தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொள்ளுமாறு கோரப்பட்டுள்ளது.
+Police seek public help to arrest 2 suspects threatening 75mn LKR. Suspects aged 37 & 40 from Katana/Udugampola. Inform police on 071-8591608/071-8591610.
+
+🟩
+
+On November 18, the police sought the help of the public to arrest two suspects who threatened about 75 million rupees, intimidating the van -owned van in Minuwangoda.
+
+The Gampaha Criminal Investigation Department was conducting investigations to arrest the suspects who fled with money.
+
+Police are searching for two suspects aged 37 and 40, respectively from Katana and Udugampola areas.
+
+Those who are informed about the location of the suspects have been asked to contact the police on 071 - 8591608 or 071 - 8591610.
 
 ◼️
 
 [Data](articles/1ada2db9.json)
+
+[Extended Data](ext_articles/1ada2db9.ext.json)
 
 ---
 
@@ -90,6 +160,36 @@ His political journey started during his university years, becoming an activist 
 
 [Data](articles/344658dc.json)
 
+[Extended Data](ext_articles/344658dc.ext.json)
+
+---
+
+### Dambulla is a change in the new government
+
+*2024-11-24 10:33:59* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-සහායට-දඹුල්ල-ආර්ථිකේ-වෙනසක්/11-413224) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dambulla Economic Center Trade Union implements vegetable storage system to reduce farmer delays and expedite distribution. Trade Union President Siriwardena explains charges and emphasizes benefits to members and the public.
+
+🟩
+
+Dambulla Economic Center Trade Union has decided to package the storage of vegetables at the Dambulla Economic Center.
+
+To reduce the delays of farmers and vegetables in the Economic Center that provides large vegetables in the islands of the islands, and reduce the delays of farmers and vegetables to the public to support the public expeditiously to facilitate the farmers and facilitate the farmers.Economic Center Trade Union says these decisions made
+
+Dambulla Economic Center Trade Association. A. Main Secretary of the Siriwardena Economic Center Trade Union Idaji. Mr. Wijenenda convened a special media briefing on 23 days a special media briefing.
+
+The economic centers of the Economic Centers of Economic Centers in a sum of Rs.The Chairman Siriwardena said that Zoo would not be charged from any other person and it was charged only from the members owned by their trade union.
+
+...
+
+[Data](articles/5a05efb5.json)
+
+[Extended Data](ext_articles/5a05efb5.ext.json)
+
 ---
 
 ### Developing nations blast $300 billion COP29 climate deal as insufficient
@@ -107,6 +207,8 @@ Some delegates gave the deal a standing ovation in the COP29 plenary hall. Other
 ...
 
 [Data](articles/026eb8e9.json)
+
+[Extended Data](ext_articles/026eb8e9.ext.json)
 
 ---
 
@@ -204,21 +306,31 @@ A total of 59,980 sticks of foreign cigarettes, illegally smuggled into the coun
 
 ---
 
-### අර්තාපල් වෙනුවට එළවළු වගා කිරිමෙන් උඩරට එළවළු මිල පහළට
+### Upcountry vegetable prices down by cultivating vegetables instead of potatoes
 
 *2024-11-24 09:51:25* · [`adalk`](https://www.ada.lk/picture_story/අර්තාපල්-වෙනුවට-එළවළු-වගා-කිරිමෙන්-උඩරට-එළවළු-මිල-පහළට/10-413223) · `si`
 
-කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට මේ දින වල විශාල වශයෙන් එළවළු තොග ලැබීම හේතුවෙන් බොහෝ එළවළු වර්ග වල මිල පහත වැටී ඇතැයි කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙලෙදුන් පවසයි.
+Here's a summary in 200 characters:
 
-උඩරට එළවළු වර්ග රට පුරා බෙදා හරින ප්‍රධානතම ආර්ථීක මධ්‍යස්ථානය වන කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යෂ්ථානයට එළවළු තොග මිලදී ගැනීම සදහා දෛනිකව දිවයිනේ විවිධ ප්‍රදේශවලින් වෙළෙදුන් පැමිනේ.
 
-පැවති වර්ෂා සහිත කාලගුණ තත්වය හේතුවෙන් හා අර්තාපල් වගාව සදහා විශාල වියදමක් දැරීමට සිදුවීම හේතුවෙන් අර්තාපල් වගා නොකර එළවළු වර්ග වගා කිරීමට ගොවින් පෙළඹීමත් හේතුවෙන් මෙලෙස එළවළු තොග විශාල වශයෙන් කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට ලැබෙන බව වෙලෙදුන් පවසයි.
 
-මේ වන විට කැරට් , ගෝවා , ලීක්ස් ආදී එළවළු වර්ග විකුණා ගැනීමට පවා නොහැකි තත්වයක් උදා වී ඇති බවත් බොහොමයක් එළවළු වර්ග වල මිල පහත වැටී ඇති බවත් වෙලෙදුන් පවසති. ගොවීන් කියා සිටින්නේ මෙලෙස මිල පහත වැටීම තමන්ට දරා ගැනීමට නොහැකි බවත් වත්මන් රජය විසින් ගොවියා රැක ගැනීම සදහා නව වැඩපිළිවෙලක් ක්‍රියාත්මක කරාවි යැයි තමන් අපේක්ෂාවෙන් සිටින බවයි .
+Vegetable prices drop as farmers shift from potato cultivation due to favorable weather. Keppetipola market sees increased vegetable supply. Government plans new program to support farmers.
+
+🟩
+
+Keppetipola has said that many vegetables have fallen in large amounts of vegetables on these days to the Keppetipola Due to the stock of vegetables these days.
+
+The main economic center distributed all over the country, Keppetipola, which is the major economic center distributing all over the country, pays vegetables from different parts of the island daily.
+
+Due to the current rational weather conditions and the farmal causes of potatoes, the farmers have been able to cultivate vegetables to cultivate vegetables.
+
+The prices of many vegetables have come to sell vegetables such as carrots, cabbage, leeks.. Farmers claim that they cannot afford this and the present government will have a new program to ensure a new program to protect the farmer.
 
 ◼️
 
 [Data](articles/220bacae.json)
+
+[Extended Data](ext_articles/220bacae.ext.json)
 
 ---
 
@@ -507,6 +619,8 @@ Sri Lanka’s new administration has said it wants to raise the threshold on inc
 ...
 
 [Data](articles/7d39a064.json)
+
+[Extended Data](ext_articles/7d39a064.ext.json)
 
 ---
 
@@ -803,6 +917,22 @@ About 20 years ago, I used the same title, in a writing dealing with Mahinda Raj
 [Data](articles/660f2a21.json)
 
 [Extended Data](ext_articles/660f2a21.ext.json)
+
+---
+
+### The Jenolan Caves of New South Wales
+
+*2024-11-24 03:44:00* · [`islandlk`](http://island.lk/the-jenolan-caves-of-new-south-wales/) · `en`
+
+(The largest, most spectacular and most famous tourist caves in Australia)
+
+Of the several groups of limestone caves in the Blue Mountains of New South Wales in Australia the most famous are the Jenolan Caves. These are well-managed and open to the public while three other known groups of caves are not sufficiently developed to allow visitors.
+
+The Jenolan caves, some 175 kilometres to the west of Sydney, got their name from the aboriginal name ‘Genowlan’ for a mountain in the district and are said to have been accidently discovered by Charles Whalam in 1838 when he was on the trail of an escaped convict turned highway robber.
+
+...
+
+[Data](articles/98027d34.json)
 
 ---
 
@@ -2355,119 +2485,5 @@ Here's a summary of the news discussion on the third review of the IMF in approx
 [Data](articles/69380233.json)
 
 [Extended Data](ext_articles/69380233.ext.json)
-
----
-
-### Sri Lanka reaches staff level agreement with the IMF
-
-*2024-11-23 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaches-staff-level-agreement-with-the-imf-189535/) · `en`
-
-ECONOMYNEXT – Sri Lanka has reached a staff level agreement for take forward a program with the Internal Monetary Fund, Senior Mission Chief Peter Breuer said.
-
-The IMF’s board will formally approve the review based on several prior action including a budget for 2025.
-
-“Sri Lanka’s recent Agreement in Principle with bondholders is an important milestone putting Sri Lanka’s debt on a path towards sustainability,” the statement said.
-
-“The critical next steps are to complete the commercial debt restructuring, finalize bilateral agreements with official creditors along the lines of the accord with the Official Creditor Committee and implement the terms of the other agreements.”
-
-Colombo, Sri Lanka – November 23, 2024: An International Monetary Fund (MF) team led by Peter Breuer, Senior Mission Chief for Sri Lanka, visited Colombo from November 17 to 23, 2024. After constructive discussions in Colombo, Mr. Breuer and Deputy Mission Chief Ms. Katsiaryna Svirydzenka issued the following statement:
-
-...
-
-[Data](articles/920eaeb1.json)
-
-[Extended Data](ext_articles/920eaeb1.ext.json)
-
----
-
-### Two brothers killed as Jeep plunges into Bujgamuwa Oya
-
-*2024-11-23 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103703/two-brothers-killed-as-jeep-plunges-into-bujgamuwa-oya-) · `en`
-
-Two individuals were killed in an accident when a jeep traveling from Kuliyapitiya to Hettipola veered off the road and plunged into the Bujgamuwa Oya near the Kamburapola Bridge on the Kuliyapitiya-Hettipola road this morning (23).
-
-With assistance from a crane, the submerged jeep was recovered, and it was confirmed that the two occupants, who had been trapped inside, succumbed to their injuries upon admission to the Kuliyapitiya Base Hospital.
-
-The deceased, aged 25 and 27, have been identified as brothers from the Kurunegala area.
-
-Preliminary investigations reveal that the accident occurred at a winding section of the road, where the vehicle apparently lost control and fell into the stream.
-
-The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, and further investigations into the incident are being conducted by the Kuliyapitiya Police.
-
-◼️
-
-[Data](articles/0f6ac6d4.json)
-
-[Extended Data](ext_articles/0f6ac6d4.ext.json)
-
----
-
-### Two brothers killed as Jeep plunges into Bujgamuwa Oya
-
-*2024-11-23 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103703/two-brothers-killed-as-jeep-plunges-into-bulgamuwa-oya-) · `en`
-
-Two individuals were killed in an accident when a jeep traveling from Kuliyapitiya to Hettipola veered off the road and plunged into the Bujgamuwa Oya near the Kamburapola Bridge on the Kuliyapitiya-Hettipola road this morning (23).
-
-With assistance from a crane, the submerged jeep was recovered, and it was confirmed that the two occupants, who had been trapped inside, succumbed to their injuries upon admission to the Kuliyapitiya Base Hospital.
-
-The deceased, aged 25 and 27, have been identified as brothers from the Kurunegala area.
-
-Preliminary investigations reveal that the accident occurred at a winding section of the road, where the vehicle apparently lost control and fell into the stream.
-
-The bodies have been placed in the mortuary of the Kuliyapitiya Base Hospital, and further investigations into the incident are being conducted by the Kuliyapitiya Police.
-
-◼️
-
-[Data](articles/d20ad045.json)
-
-[Extended Data](ext_articles/d20ad045.ext.json)
-
----
-
-### Plan to hold local elections in early 2025
-
-*2024-11-23 10:54:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆரம்பத்தில்-உள்ளூராட்சி-தேர்தலை-நடத்த-திட்டம்/175-347652) · `ta`
-
-Local elections planned for early 2025, according to Minister Vijitha Herath.
-
-🟩
-
-Minister Vijitha Herath said that the local government elections are scheduled to be held early next year.
-
-◼️
-
-[Data](articles/217fd6b0.json)
-
-[Extended Data](ext_articles/217fd6b0.ext.json)
-
----
-
-### Assassin
-
-*2024-11-23 10:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழுத்தறுத்து-ஒருவர்-கொலை/175-347651) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A 36-year-old man from Tanamalwila-Arambekhema was murdered. He went missing on the 18th. Police found his head and torso. A 44-year-old woman was arrested in connection with the crime.
-
-🟩
-
-The 36 -year -old man who lives in the Tanamalwila - Arambekhema area has been murdered, police said.
-
-Police said that the murdered man had been reported missing since the 18th.
-
-It was later revealed that the man had gone to Hamuduruganda area with another 45 -year -old man.
-
-He has confessed that the suspect had been arrested by the police and buried his head in the neck of the missing man.
-
-Accordingly, police have found the head and trunk of the murdered man and arrested a 44 -year -old woman in connection with the incident.. Those
-
-◼️
-
-[Data](articles/5b3a2129.json)
-
-[Extended Data](ext_articles/5b3a2129.ext.json)
 
 ---

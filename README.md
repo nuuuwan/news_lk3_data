@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 16:41:15**
+As of **2024-11-24 17:12:51**
 
 ## Newspaper Stats
 
-*Scraped **56,582** Articles*
+*Scraped **56,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,394
 economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
-adalk | 5,319
+adalk | 5,322
 adaderanalk | 6,844
 tamilmirrorlk | 8,047
 virakesarilk | 9,203
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,580 (100.0%) of 56,582 articles have been extended.
+56,585 (100.0%) of 56,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### A IPL report from Iier
+
+*2024-11-24 16:27:36* · [`adalk`](https://www.ada.lk/sports/අයියර්ගෙන්-IPL-වාර්තාවක්/9-413235) · `si`
+
+Here's a summary of the IPL report in 200 characters:
+
+
+
+Indian player sold at highest price in IPL auction. Purchased by Kings XI Punjab for ₹X. Basic bid of ₹Y. Earlier, most expensive player bought by KKR for ₹Z.
+
+🟩
+
+The Indian player was among the largest prices sold at the Indian Premier League Cricket Tournament.
+
+He was purchased by the Kings Electronic Parjab for Rs.
+
+He was submitted to the athletes this year under a basic bid of the Indian rupees. Earlier in a large price player at an Indian League auction was to buy Australian Midkata Knight Riders at a price of Rs.
+
+◼️
+
+[Data](articles/23e31a61.json)
+
+[Extended Data](ext_articles/23e31a61.ext.json)
+
+---
 
 ### Two missing, 5 rescued after boat accident at lagoon in Negombo
 
@@ -50,23 +76,31 @@ A search operation is underway to locate the two missing persons who are feared 
 
 [Data](articles/992e28e9.json)
 
+[Extended Data](ext_articles/992e28e9.ext.json)
+
 ---
 
-### මීගමුව කළපුවට බිලි වූ පියා සහ දියණිය
+### Father who was killed in Negombo laugas
 
 *2024-11-24 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203682) · `si`
 
-මීගමුව මුන්නක්කරෙයි කළපු ප්‍රදේශයේ දී ඔරුවක් බෝට්ටුවක ගැටී සිදු වූ අනතුරකින් දෙදෙනෙක් දියේ ගිලී අතුරුදන් වී තිබේ.
+Accident in Negombo: Father killed, daughter missing. Two boats collided, 7 drowned, 5 survived.
 
-පුද්ගලයින් 7 දෙනෙනෙකු දියේ ගිලී ඇති අතර එයින් 5 දෙනෙකු දිවි බේරාගෙන ඇත.
+🟩
 
-මෙලෙස දියේ ගිලී අතුරුදන් ව ඇත්තේ 50 හැවිරිදි පියා සහ 20 හැවිරිදි දියණිය බව පොලීසිය පවසයි.
+Two boats have been disappeared in the accident that boat had been hit by a boat in Negombo.
 
-දිවි බේරාගත් 5 දෙනාගෙන් දෙදෙනෙකු රෝහල්ගතව ප්‍රතිකාර ලබා ගන්නා අතර අනෙක් තිදෙනා ප්‍රතිකාර ගෙන රෝහලෙන් පිටවගොස් තිබේ.
+Seven persons have drown and 5 of them have survived.
+
+The 50-year-old father and daughter have disappeared, police said.
+
+Two persons survived and the other have been treated in treatment and the other had left the hospital.
 
 ◼️
 
 [Data](articles/3a34d38d.json)
+
+[Extended Data](ext_articles/3a34d38d.ext.json)
 
 ---
 
@@ -123,6 +157,68 @@ A two -minute silent tribute was paid to commemorate the soldiers who sacrificed
 [Data](articles/9818ca3e.json)
 
 [Extended Data](ext_articles/9818ca3e.ext.json)
+
+---
+
+### Friendship father disappears and five children
+
+*2024-11-24 15:39:29* · [`adalk`](https://www.ada.lk/breaking_news/මිගමුව-කලපුවේ-ධීවර-යාත්‍රාවක්-පෙරළි-පියා-දියණීය-අතුරුදහන්--පස්-දෙනෙක්-බේරා-ගැනෙයි/11-413231) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Father and daughter disappear while fishing. Small boat capsizes in lagoon. Three men, four women survive. Father and daughter presumed dead. Search operation launched in Negombo.
+
+🟩
+
+A small fishing vessel that was traveling on the lagoon 24 days, a father and a daughter had rescued and another rescued was rescued.
+
+The lagoon is disappeared that Ranil Fernando, a resident of the Migamuwa, said a daughter to be a resident of Manigamuwa.
+
+Family Members with the father and daughter with the lagoon, the Family Members of the Family Members (Family Members) Siriwardena have dropped the lagoon near the lagoon near Siriwardena.
+
+The same family membership members of the vessel had traveled and three men and four women were traveling.
+
+Although the crash was crashed with the crash, the father and her daughter's lineges are missing.
+
+Two others who were traveling in the vessel in critical liquor have been admitted to the Neguma Group.
+
+The accident had occurred when the fishermen and his relatives from the Munkukaathu have been reported from a well-known small vessel called the Shrian Boat.
+
+...
+
+[Data](articles/89112e87.json)
+
+[Extended Data](ext_articles/89112e87.ext.json)
+
+---
+
+### The northern paths are coming to the North
+
+*2024-11-24 15:28:02* · [`adalk`](https://www.ada.lk/picture_story/උතුරේ-කිඹුල්ලු-මාර්ගවලට-එයි/10-413230) · `si`
+
+Floods hit northern Sri Lanka, affecting 15,470 people. Heavy rains cause damage in Jaffna, Mannar, Kilinochchi, and Mullaitivu districts. Disaster Management Center reports 9,025 affected in Jaffna. Wildlife officials take measures to mitigate impact. Relief efforts underway for affected areas.
+
+🟩
+
+District in charge of 15,470 persons belonging to 4162 families have been affected by the floods due to the floods caused by heavy rains.
+
+According to floods, the Northern Province has been influenced by the Jaffna, Mannar, Kilinochchi and Mullaitivu districts.
+
+The Disaster Management Center states that 9025 persons belonging to 84 families belonging to 84 families belonging to 1905 families in the Jaffna District have also been tributed in the Jaffna District.
+
+Meanwhile, after the floods in the Jaffna district, the celebrations and wildlife officials have taken measured to cash them and informed the people to be considered.
+
+Due to the flooding, which has been flooded for nearly a week, there will be a result of floods and the future is likely to increase.
+
+Meanwhile, steps have been taken to facilitate the affected areas to facilitate the affected people.
+
+◼️
+
+[Data](articles/d06639be.json)
+
+[Extended Data](ext_articles/d06639be.ext.json)
 
 ---
 
@@ -2405,87 +2501,5 @@ Where is the customer's money?Surya knowingly makes a mistake to save her girlfr
 [Data](articles/6287eefe.json)
 
 [Extended Data](ext_articles/6287eefe.ext.json)
-
----
-
-### Anura Kumara should implement the visionary document that Modi and Modi signed - Ranil in India
-
-*2024-11-23 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199509) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil Wickremesinghe urges Anura Kumara to implement the India-Sri Lanka agreement signed with Modi. He emphasizes its visionary nature and importance for implementation.
-
-🟩
-
-Former President Ranil Wickremesinghe has said that President Anura Kumara Dissanayake should implement the document that India and Sri Lanka have signed last year.
-
-Ranil Wickremesinghe, who is visiting India, commented to PDI.
-
-Ranil Wickremesinghe said that I and Prime Minister Modi have signed a visionary document, "I think we should implement this and implement this."
-
-◼️
-
-[Data](articles/72fba7d6.json)
-
-[Extended Data](ext_articles/72fba7d6.ext.json)
-
----
-
-### Nominating Sally Nalim
-
-*2024-11-23 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203660) · `si`
-
-Sally Nalim nominated for National List MP by Sri Lanka Muslim Congress. Party won 87,038 votes, securing 2 seats. Former Eravur Municipal Council chair. Gazette notification issued by Election Commission.
-
-🟩
-
-Muhammudu Salley has issued a gazette notification for the National List MP of the Sri Lanka Muslim Congress.
-
-The gazette notification has been issued by the Elections Commission.
-
-The Sri Lanka Muslim Congress, who was produced before the past general election, obtained 87,038 votes and took 2 seats.
-
-Accordingly, the party was appointed as one national list seat and the party had decided to name him for the post.
-
-He was also the former chairman of Eravur Municipal Council.
-
-◼️
-
-[Data](articles/3922b027.json)
-
-[Extended Data](ext_articles/3922b027.ext.json)
-
----
-
-### One arrested with heroin drug
-
-*2024-11-23 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199507) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Heroin arrest: 45-year-old man caught in Kallawatta, Ja-Ela. Police seized 5g of heroin during raid. Further investigation ongoing.
-
-🟩
-
-A suspect has been arrested yesterday (22) with heroin drugs in Kallawatta area belonging to the Ja -Ela police division, Jha -Ella police said.
-
-The suspect has been arrested during a raid carried out on confidential information received by the Ja -Ela police.
-
-The arrested suspect is a 45 -year -old from Jha -Ela, Ekala.
-
-From the suspect, 05 grams of 200 ml of heroin has been seized by the police.
-
-Further investigations are being carried out by the Ja -Ela police.
-
-◼️
-
-[Data](articles/79e68374.json)
-
-[Extended Data](ext_articles/79e68374.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 22:01:08**
+As of **2024-11-24 22:41:31**
 
 ## Newspaper Stats
 
-*Scraped **56,639** Articles*
+*Scraped **56,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,184 @@ economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,328
-adaderanalk | 6,848
+adaderanalk | 6,850
 tamilmirrorlk | 8,049
-virakesarilk | 9,237
+virakesarilk | 9,241
 adaderanasinhalalk | 9,778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,639 (100.0%) of 56,639 articles have been extended.
+56,643 (100.0%) of 56,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### New Legislature to take action against fake allegations
+
+*2024-11-24 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/199590) · `ta`
+
+Sri Lanka PA proposes legal action against fake political allegations
+
+🟩
+
+I will present the individual proposal to take legal action on fake allegations put forward in the political arena.. The National Organizer of the Sri Lanka Peoples Alliance (PA), Namal Rajapaksa, said that false allegations against M were one of the reasons for the current coup.
+
+He was speaking at a meeting of the organizer of the PA, which was held on Sunday (24) in the Maharaka area.
+
+There is a situation where anyone wants to refer to the election victory in the political arena.. Everyone forgets the allegations made after the end of the election.
+
+In the past, there have been many allegations that Rajapaksas have 18 Lambokini vehicles and have been funded by Uganda in Uganda.. During the presidential election, the National People's Power Member later stated that the Rajapaksas had been funded in Uganda.
+
+Rajapakse, including former President Mahinda Rajapakse, has been accused of short political success.
+
+...
+
+[Data](articles/04e5c7f8.json)
+
+[Extended Data](ext_articles/04e5c7f8.ext.json)
+
+---
+
+### Bangladesh. The player Akash;5 wickets pile in the virgin venture, four directly
+
+*2024-11-24 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199589) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's Akash Wigneswaran takes 5 wickets vs Bangladesh U17s in debut match. He dismisses top 2 batsmen in 3rd over & 2 more in 8th over. Bangladesh all out for 141 in 33.5 overs. Sri Lanka replies with 23/5 in 5.3 overs.
+
+🟩
+
+Point Pedro Hadley player Wigneswaran Akash recorded 5 wickets in a junior ODI match against Bangladesh under the age of 17 on Sunday (24) at the Galle International Cricket Stadium.
+
+At the first time he played in the junior international competition, Akash, who bowled the most efficiently, bolted the four players of the opponent directly and took the other in his bowling.
+
+He took 27 runs in 7.5 overs and took 5 wickets.
+
+Under the age of 17, Bangladesh lost all wickets in 33.5 overs and scored 141 runs.
+
+Bangladesh scored 76 runs without a wicket in the 19th over.
+
+The initial players Mohammed Ritoi Hossain did not lose 40 runs and Abdullah al -Muhi 31 runs.
+
+Wigneswaran Akash, who was throwing his 3rd over, was the one who loses the wickets of the two starters directly and gave the Sri Lankan team the inauguration.
+
+In his 5th over, Bangladesh captain Barhan caste took his bowling and lost Akash.
+
+In his 8th over, Akash lost the next ball of the balls and lost the two players directly.
+
+...
+
+[Data](articles/b676b214.json)
+
+[Extended Data](ext_articles/b676b214.ext.json)
+
+---
+
+### IPL 2025: Wanindu Hasaranga, Maheesh Theekshana bought by RR
+
+*2024-11-24 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103734/ipl-2025-wanindu-hasaranga-maheesh-theekshana-bought-by-rr) · `en`
+
+Sri Lanka’s Wanindu Hasaranga and Maheesh Theekshana have been sold to Rajasthan Royals (RR) in the 2025 Indian Premier League (IPL) mega auction.
+
+Hasaranga, the dashing leg-spinner, has fetched a sum of ₹5.25 crore at the event in Jeddah, Saudi Arabia.
+
+The wrist-spinner has emerged as a match-winner for the Lankans in limited-overs cricket.
+
+Hasaranga was ruled out of the 2024 IPL season. As mentioned, he was a part of the Sunrisers Hyderabad squad.
+
+He had fetched a sum of ₹1.5 crore from SRH at the 2024 IPL auction.
+
+Hasaranga was released by Royal Challengers Bengaluru (RCB) after the 2023 season.
+
+Hasaranga was RCB’s highest wicket-taker in IPL 2022 as he finished with 26 wickets at 16.54.
+
+Hasaranga owns 287 wickets from 200 T20 matches at an average of 16.65. The tally includes an economy rate of 6.90 (9 four-fers and 3 fifers).
+
+He also owns 2,314 runs with the bat at a strike rate of 145.16. He has also scored nine half-centuries.
+
+The all-rounder has been a vital cog in Sri Lanka’s line-up.
+
+...
+
+[Data](articles/3f069c71.json)
+
+---
+
+### Measures in place to ensure safe travel for A/L students amid adverse weather
+
+*2024-11-24 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103733/measures-in-place-to-ensure-safe-travel-for-al-students-amid-adverse-weather) · `en`
+
+The Matara District Disaster Management Coordination Unit has confirmed that all necessary steps are being taken to ensure students sitting for the G.C.E. Advanced Level examination tomorrow (25) can safely reach their respective examination centers, even in the event of an emergency situation.
+
+Assistant Director of the unit, Lieutenant Colonel Kelum Kudagamage, stated that in the event the flood situation persists, the Sri Lanka Navy, alongside the Army, will be ready to deploy boats, unibuffer vehicles, and tractors.
+
+Additionally, boats and tractors available at the Divisional Secretariats and Pradeshiya Sabhas will be utilized to transport students to their exam locations if required.
+
+In case of any travel disruptions due to adverse weather conditions, students are advised to call the emergency hotline which is operational round the clock at 0412 234 134 for assistance.
+
+...
+
+[Data](articles/7d9f3b62.json)
+
+---
+
+### Open two astronauts of the barber reservoir
+
+*2024-11-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199588) · `ta`
+
+Heavy rains flood Vavuniya, opening barber shops near reservoirs. Water surrounds 82.84 acres, blocking traffic due to dam collapse. Authorities work to address issue.
+
+🟩
+
+Due to heavy rains in the Vavuniya district, two skilled shops have been opened by one foot.
+
+Due to heavy rains in Vavuniya since Sunday 24th, Vavuniya has been rich in many ponds. As the water level of the water reservoir has increased, the sky has opened.
+
+Meanwhile, 82.84 acres of land under the field is surrounded by water and traffic through the area has been blocked due to the collapse of the Madathuvilangulam Dam located in Palamottai, Omanthai.
+
+The Kamakara Organization and the Department of Agrarian Development are taking steps to revise this.
+
+◼️
+
+[Data](articles/7d96483c.json)
+
+[Extended Data](ext_articles/7d96483c.ext.json)
+
+---
+
+### Ranil Wickremesinghe can be held hostage - Rajitha Senaratne
+
+*2024-11-24 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199587) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rajitha Senaratne accuses Ranil Wickremesinghe of appointing a committee to investigate Ravi Karunanayake's appointment to the National List seat. Wickremesinghe denies knowledge of the affair, contradicting Karunanayake's claim. The New Democratic Front is considering candidates for the remaining National List seat, with Kanjana Wijesekera being a top choice. The SLFP has also requested a National List member, causing a delay in the final decision.
+
+🟩
+
+Ranil Wickremesinghe could not know the affair sent to Ravi Karunanayake's name to the National List. Former parliamentarian Rajitha Senaratne said that Ranil Wickremesinghe has appointed a committee to investigate her action.
+
+He was speaking at a press conference held at the new Democratic Front office in Colombo on Sunday (24).
+
+Two National List seats were available to the new Democratic Front in the parliamentary election. Ravi Karunanayake has taken one of them. None of the leading party members know about the affair he received. Ravi Karunanayake has said that Ranil Wickremesinghe had informed Wickremesinghe in advance regarding the matter.. If Ranil Wickremesinghe is aware of this, why should the committee be set up to investigate his action.
+
+Ranil Wickremesinghe was the ongoing opposition to the issue. No one in the party is holding Ranil Wickremesinghe as a hostage. So can no one can hold him hostage. But Ranil Wickremesinghe can hold the hostage.
+
+...
+
+[Data](articles/f12134b7.json)
+
+[Extended Data](ext_articles/f12134b7.ext.json)
+
+---
 
 ### Mahesh inspects Rajasthan
 
@@ -2359,143 +2523,5 @@ Some delegates gave the deal a standing ovation in the COP29 plenary hall. Other
 [Data](articles/026eb8e9.json)
 
 [Extended Data](ext_articles/026eb8e9.ext.json)
-
----
-
-### Egg prices increase: Consumer charge
-
-*2024-11-24 10:17:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-அதிகரிப்பு-நுகர்வோர்-குற்றச்சாட்டு/175-347678) · `ta`
-
-Egg prices rise from 35-38 to 40-45 rupees. Farmers sell at 30-31 rupees. Consumers blame merchants for higher costs.
-
-🟩
-
-They point out that the egg, which was reduced to 35-38 rupees in the past, has increased to 40-45.
-
-Total price to market from an egg farm is sold for 30,31 rupees. Consumers have said that some merchants raise the price of eggs and sell it at higher prices.
-
-◼️
-
-[Data](articles/995cd9df.json)
-
-[Extended Data](ext_articles/995cd9df.ext.json)
-
----
-
-### Lafs gas shortage
-
-*2024-11-24 10:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-எரிவாயு-தட்டுப்பாடு/175-347677) · `ta`
-
-Laufs gas shortage: Pres orders 3000mt supply priority. Gazette notifies 7500mt LP gas needed. Laugfs Gas allows domestic sale till Feb 21.
-
-🟩
-
-With the shortage of Lafs gas across the country, the president has been asked to ensure that 3,000 metric tonnes of gas is being supplied on the basis of priority on the basis of priority.
-
-The order has been issued to Laughfs Gas, one of the major companies that provide cooking gas.
-
-In this regard, President Anura Kumara Dissanayake, who has issued a gazette notification, urged the cooking gas supplier to have a minimum of 7,500 metric tonnes of LP gas.
-
-It is necessary to distribute LP gas to the domestic market without shortage.
-
-In the meantime, Laugfs Gas PLC has to allow domestic sale for the next three months.
-
-It has been announced that it will take effect from Friday to February 21 next year.
-
-◼️
-
-[Data](articles/7f993eba.json)
-
-[Extended Data](ext_articles/7f993eba.ext.json)
-
----
-
-### Passenger arrested with smuggled cigarettes at BIA
-
-*2024-11-24 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103717/passenger-arrested-with-smuggled-cigarettes-at-bia) · `en`
-
-A person who was in possession of a large stock of cigarettes illegally smuggled into the country has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
-
-Officers of the Police Narcotics Bureau (PNB) unit at the BIA have arrested the suspected passenger who had arrived in Sri Lanka from Dubai.
-
-The arrested suspect has been identified as a 25-year-old resident of Kottawa, according to police.
-
-A total of 59,980 sticks of foreign cigarettes, illegally smuggled into the country, were seized from him while the Police Narcotics Bureau is conducting further investigation into the incident.
-
-◼️
-
-[Data](articles/62c09227.json)
-
-[Extended Data](ext_articles/62c09227.ext.json)
-
----
-
-### Upcountry vegetable prices down by cultivating vegetables instead of potatoes
-
-*2024-11-24 09:51:25* · [`adalk`](https://www.ada.lk/picture_story/අර්තාපල්-වෙනුවට-එළවළු-වගා-කිරිමෙන්-උඩරට-එළවළු-මිල-පහළට/10-413223) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Vegetable prices drop as farmers shift from potato cultivation due to favorable weather. Keppetipola market sees increased vegetable supply. Government plans new program to support farmers.
-
-🟩
-
-Keppetipola has said that many vegetables have fallen in large amounts of vegetables on these days to the Keppetipola Due to the stock of vegetables these days.
-
-The main economic center distributed all over the country, Keppetipola, which is the major economic center distributing all over the country, pays vegetables from different parts of the island daily.
-
-Due to the current rational weather conditions and the farmal causes of potatoes, the farmers have been able to cultivate vegetables to cultivate vegetables.
-
-The prices of many vegetables have come to sell vegetables such as carrots, cabbage, leeks.. Farmers claim that they cannot afford this and the present government will have a new program to ensure a new program to protect the farmer.
-
-◼️
-
-[Data](articles/220bacae.json)
-
-[Extended Data](ext_articles/220bacae.ext.json)
-
----
-
-### Upcountry vegetable prices down by cultivating vegetables instead of potatoes
-
-*2024-11-24 09:51:25* · [`adalk`](https://www.ada.lk/uncategorized/අර්තාපල්-වෙනුවට-එළවළු-වගා-කිරිමෙන්-උඩරට-එළවළු-මිල-පහළට/1-413223) · `si`
-
-Vegetable prices drop due to potato shortage. Keppetipola market sees increased veggie supply. Farmers switch crops amid favorable weather. Government plans new support program for farmers.
-
-🟩
-
-Keppetipola has said that many vegetables have fallen in large amounts of vegetables on these days to the Keppetipola Due to the stock of vegetables these days.
-
-The main economic center distributed all over the country, Keppetipola, which is the major economic center distributing all over the country, pays vegetables from different parts of the island daily.
-
-Due to the current rational weather conditions and the farmal causes of potatoes, the farmers have been able to cultivate vegetables to cultivate vegetables.
-
-The prices of many vegetables have come to sell vegetables such as carrots, cabbage, leeks.. Farmers claim that they cannot afford this and the present government will have a new program to ensure a new program to protect the farmer.
-
-◼️
-
-[Data](articles/b9dd8e5d.json)
-
-[Extended Data](ext_articles/b9dd8e5d.ext.json)
-
----
-
-### 497 Indian fishermen arrested by Sri Lanka Navy so far this year
-
-*2024-11-24 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103716/497-indian-fishermen-arrested-by-sri-lanka-navy-so-far-this-year) · `en`
-
-The Sri Lanka Navy says that a total of 497 Indian fishermen have been arrested for violating the country’s maritime boundaries so far this year.
-
-Accordingly, the Navy Spokesperson, Captain Gayan Wickramasuriya, stated that Indian fishermen who were onboard 66 fishing trawlers have been arrested in this manner.
-
-Captain Wickramasuriya further emphasized that the Sri Lanka Navy is committed to ensuring the local fishermen’s safety and resolving the ongoing fishing issues affecting them.
-
-◼️
-
-[Data](articles/1b45218f.json)
-
-[Extended Data](ext_articles/1b45218f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 23:27:31**
+As of **2024-11-24 23:41:54**
 
 ## Newspaper Stats
 
-*Scraped **56,645** Articles*
+*Scraped **56,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
 islandlk | 3,395
-economynextcom | 3,431
+economynextcom | 3,433
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,328
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,645 (100.0%) of 56,645 articles have been extended.
+56,645 (100.0%) of 56,647 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -775,6 +775,28 @@ Accordingly, the appointment will come into effect from 25 November 2024, as per
 [Data](articles/e60e3500.json)
 
 [Extended Data](ext_articles/e60e3500.ext.json)
+
+---
+
+### Sri Lanka budget deficit down 40-pct to September, taxes up 39-pct
+
+*2024-11-24 18:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-40-pct-to-september-taxes-up-39-pct-189603/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax revenue were up 39 percent to 2,918.3 billion rupees in the nine months to September 2024 from a year ago, while the budget deficit was down 40 percent, official data show.
+
+Tax revenues were going in line with a 40 percent projection in the budget, though collections can be lumpy and unevenly distributed across months.
+
+Non-tax revenues were up 30 percent to 229.7 billion rupees.
+
+Current spending rose only 3 percent, amid expenditure restraint and also a flat interest bill, both made possible by the stability and confidence coming from deflationary monetary policy and currency appreciation.
+
+Total revenues were around 9.3 percent of GDP for the nine months, up from 7.6 percent last year. Sri Lanka is targeting at least 13 percent of GDP revenues this year.
+
+The current account deficit of the budget (total revenues less current spending) which is in deficit in Sri Lanka, fell 58 percent to 516.3 billion rupees, which is around 1.6 percent of projected GDP.
+
+...
+
+[Data](articles/cc8a91c4.json)
 
 ---
 
@@ -2118,6 +2140,28 @@ According to the information received by the police, the police have gone to the
 
 ---
 
+### Vietnam embassy meets BOI, biz chamber to strengthen economic links
+
+*2024-11-24 12:15:00* · [`economynextcom`](https://economynext.com/vietnam-embassy-meets-boi-biz-chamber-to-strengthen-economic-links-189582/) · `en`
+
+ECONOMYNEXT  – Vietnam’s embassy in Sri Lanka has met the Board of Investment, Sri Lanka – Greater Mekong Business Council of the Ceylon Chamber of Commerce, to promote links between investors of the two countries, a statement said.
+
+“In a bid to bolster economic diplomacy, the Embassy of Viet Nam in Sri Lanka has been actively engaging with key Sri Lankan agencies and business leaders,” the statement said.
+
+“The Embassy’s proactive efforts aim to unearth the vast potential in the Viet Nam market for Sri Lankan investors and businessmen.
+
+“By promoting trade and investment, countries can leverage each other’s strengths, creating a win-win scenario that fuels economic development.
+
+Economic diplomacy is a policy intensively promoted by the Vietnamese Government and has played an increasingly important role in Viet Nam’s socio-economic development, the embassy said.
+
+Vietnam has achieved high growth and expanded markets using free trade agreements with key trade partners.
+
+...
+
+[Data](articles/497e84fc.json)
+
+---
+
 ### Constable killed in dealers in Ratnapura Police
 
 *2024-11-24 12:12:55* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොලීසියේ-වාහන-රථ-ගාලේදි-ඇඳ-වැටුණ-කොස්තාපල්-මරුට/11-413227) · `si`
@@ -2479,53 +2523,5 @@ He added that the Navy would make a maximum contribution to the fishermen's safe
 [Data](articles/a52c1bd3.json)
 
 [Extended Data](ext_articles/a52c1bd3.ext.json)
-
----
-
-### Dambulla is a change in the new government
-
-*2024-11-24 10:33:59* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-සහායට-දඹුල්ල-ආර්ථිකේ-වෙනසක්/11-413224) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dambulla Economic Center Trade Union implements vegetable storage system to reduce farmer delays and expedite distribution. Trade Union President Siriwardena explains charges and emphasizes benefits to members and the public.
-
-🟩
-
-Dambulla Economic Center Trade Union has decided to package the storage of vegetables at the Dambulla Economic Center.
-
-To reduce the delays of farmers and vegetables in the Economic Center that provides large vegetables in the islands of the islands, and reduce the delays of farmers and vegetables to the public to support the public expeditiously to facilitate the farmers and facilitate the farmers.Economic Center Trade Union says these decisions made
-
-Dambulla Economic Center Trade Association. A. Main Secretary of the Siriwardena Economic Center Trade Union Idaji. Mr. Wijenenda convened a special media briefing on 23 days a special media briefing.
-
-The economic centers of the Economic Centers of Economic Centers in a sum of Rs.The Chairman Siriwardena said that Zoo would not be charged from any other person and it was charged only from the members owned by their trade union.
-
-...
-
-[Data](articles/5a05efb5.json)
-
-[Extended Data](ext_articles/5a05efb5.ext.json)
-
----
-
-### Developing nations blast $300 billion COP29 climate deal as insufficient
-
-*2024-11-24 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103718/developing-nations-blast-300-billion-cop29-climate-deal-as-insufficient) · `en`
-
-Countries at the COP29 summit in Baku adopted a $300 billion a year global finance target on Sunday to help poorer nations cope with impacts of climate change, a deal its intended recipients criticised as woefully insufficient.
-
-The agreement, clinched in overtime at the two-week conference in Azerbaijan’s capital, was meant to provide momentum for international efforts to curb global warming in a year destined to be the hottest on record.
-
-Some delegates gave the deal a standing ovation in the COP29 plenary hall. Others lambasted wealthy nations for not doing more and criticised the Azerbaijan host for hurriedly gavelling through the contentious plan.
-
-“I regret to say that this document is nothing more than an optical illusion,” Indian delegation representative Chandni Raina told the closing session of the summit, minutes after the deal was gavelled in. “This, in our opinion, will not address the enormity of the challenge we all face. Therefore, we oppose the adoption of this document.”
-
-...
-
-[Data](articles/026eb8e9.json)
-
-[Extended Data](ext_articles/026eb8e9.ext.json)
 
 ---

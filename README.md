@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 05:52:01**
+As of **2024-11-24 06:48:20**
 
 ## Newspaper Stats
 
-*Scraped **56,520** Articles*
+*Scraped **56,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 5,308
 adaderanalk | 6,830
 tamilmirrorlk | 8,034
 virakesarilk | 9,197
-adaderanasinhalalk | 9,756
+adaderanasinhalalk | 9,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,506 (100.0%) of 56,520 articles have been extended.
+56,508 (100.0%) of 56,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
+
+### Heavy rains still
+
+*2024-11-24 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203667) · `si`
+
+Heavy rains forecasted for Hambantota, Uva provinces. Showers expected in Northern, North-Central provinces too. Department warns of thunderstorms and lightning.
+
+🟩
+
+The Department of Meteorology says that there will be several showers or thundershowers in the Hambantota district and at times in the Hambantota district and the Uva provinces.
+
+The department states that there will be showers at several places in the evening or night in the evening of the island.
+
+Heavy showers in some places in the Northern, North-Central and Uva provinces.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/071baf1a.json)
+
+[Extended Data](ext_articles/071baf1a.ext.json)
+
+---
 
 ### The Need to submit an electronic tax return and its challenges
 
@@ -43,6 +67,8 @@ Whilst it is undoubtedly a step in the right direction, no consideration has bee
 ...
 
 [Data](articles/3a6a3815.json)
+
+[Extended Data](ext_articles/3a6a3815.ext.json)
 
 ---
 
@@ -2433,39 +2459,5 @@ Accordingly, the third review discussion between the International Monetary Fund
 [Data](articles/03efdeea.json)
 
 [Extended Data](ext_articles/03efdeea.ext.json)
-
----
-
-### Akash player in the Sri Lankan cricket team under the age of 17;Team captain Ananda player Kithma
-
-*2024-11-23 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199461) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka Cricket announced its U-17 team for matches vs Bangladesh. Key players: Akash Vigneswaran from Hadley College & Kithma Vithanapatra (captain) from Ananda College. Matches start Dec 24, end Dec 8.
-
-🟩
-
-Sri Lanka Cricket on Friday released the Sri Lankan cricket team for the 3 -day and two 4 -day cricket match between the Sri Lankan team and Bangladesh.
-
-The highlight of the group is Vigneswaran Akash, a player of Hadley College, Point Pedro.
-
-Akash has been given a place on the basis of shining in a match between the under -17 regional (province) teams conducted by Sri Lanka Cricket.
-
-Colombo Ananda College player Kithma Vithanapatra has been appointed as the captain of the Sri Lankan team under the age of 17.
-
-Vice President Maradana has been handed over to St. Susayapar College player Senuja.
-
-The cricket series between the two teams begins on Sunday 24th. The last match will be held on the 8th of December.
-
-Kithma Vithanapatrana (Chairman), Jason Fernando, Joshua Sebastian, Rehan Peiris, Jenindu Ranasinghe, Senthi Daneth Gorgeous
-
-◼️
-
-[Data](articles/8f53eade.json)
-
-[Extended Data](ext_articles/8f53eade.ext.json)
 
 ---

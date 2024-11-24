@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-24 17:26:33**
+As of **2024-11-24 17:42:37**
 
 ## Newspaper Stats
 
-*Scraped **56,586** Articles*
+*Scraped **56,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,150 @@ economynextcom | 3,431
 dailyftlk | 3,879
 dailymirrorlk | 4,733
 adalk | 5,323
-adaderanalk | 6,844
+adaderanalk | 6,846
 tamilmirrorlk | 8,047
-virakesarilk | 9,203
-adaderanasinhalalk | 9,771
+virakesarilk | 9,204
+adaderanasinhalalk | 9,774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,585 (100.0%) of 56,586 articles have been extended.
+56,586 (100.0%) of 56,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-24 (Sunday)
 
-### අයියර්ගේ වාර්තාව විනාඩි කිහිපයකින් පාන්ට් බිඳ දමයි
+### தேசிய பிரச்சினைக்கு தீர்வுகாண அரசாங்கத்துக்கு நிபந்தனையற்ற ஆதரவு வழங்க தயார் - ராஜித்த சேனாரத்ன
+
+*2024-11-24 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199571) · `ta`
+
+தமிழ் முஸ்லிம் மக்களின் உரிமைகளை வழங்கி நாட்டின் தேசியப்பிரச்சினைக்கு தீர்வுகாண அரசாங்கம் செல்லும் பயணத்துக்கு நிபந்தனையற்ற ஆதரவு வழங்க தயாராக இருக்கிறோம். இனவாதத்துக்கு இடமளிக்கப்போவதில்லை என்ற கொள்கையை மக்கள் விடுதலை முன்னணி ஆரம்பகாலத்தில் எடுத்திருந்தால் நாட்டில் இரத்த ஆறு ஓடி இருக்காது என முன்னாள் பாராளுமன்ற உறுப்பினர் ராஜித்த சேனாரத்ன தெரிவித்தார்.
+
+கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணி அலுவலகத்தில் ஞாயிற்றுக்கிழமை (24) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க தனது கொள்கை விளக்க உரையில், இனவாதத்தால் இரத்த ஆறு ஓடிய வரலாறுகொண்ட இந்த நாட்டில் , மீண்டும் அந்த நிலைக்கு இடமளிக்கப்போவதில்லை என தெரிவித்திருந்தார். ஜனாதிபதியின் இந்த கூற்றை வரவேற்கிறேன். நாட்டின் அபிவிருத்திக்கு தேசியப்பிச்சினைக்கு தீர்வு முக்கியமாகும்.
+
+...
+
+[Data](articles/c5ae4fb4.json)
+
+---
+
+### මත්ද්‍රව්‍ය සමග ධීවර යාත්‍රාවක් මාලදිවයිනේදී අත්අඩංගුවට
+
+*2024-11-24 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203685) · `si`
+
+අයිස් මත්ද්‍රව්‍ය කි.ග්‍රෑ. 344ක පමණ තොගයක් සහ කොකේන් මත්ද්‍රව්‍ය කි.ග්‍රෑ. 124ක පමණ තොගයක් රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක් සමග සැකකරුවන් 5 දෙනෙකු මාලදිවයින් වෙරළ ආරක්‍ෂක බළකාය මඟින් අත්අඩංගුවට ගෙන ඇති බව නාවික හමුදාව පවසයි.
+
+ශ්‍රී ලංකා නාවික හමුදාව සහ මාලදිවයින් වෙරළ ආරක්‍ෂක බළකාය එක්ව සිදුකරනු ලැබූ සාර්ථක බුද්ධි තොරතුරු හුවමාරු කර ගැනීමක ප්‍රතිඵලයක් ලෙස මෙම අත්අඩංගුවට ගැනීම ඊයේ (23) සිදුකර ඇත.
+
+◼️
+
+[Data](articles/f98129ba.json)
+
+---
+
+### Sri Lankan trawler seized in Maldivian waters with 344kg ‘Ice’ and 124kg cocaine
+
+*2024-11-24 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103729/sri-lankan-trawler-seized-in-maldivian-waters-with-344kg-ice-and-124kg-cocaine) · `en`
+
+Following a successful intelligence-sharing operation between the Sri Lanka Navy and the Maldivian Coast Guard, a Sri Lankan fishing trawler carrying about 344 kg of crystal methamphetamine (‘Ice’ drugs) and about 124 kg of cocaine has been seized by Maldivian Coast Guard.
+
+The operation also led to the apprehension of 05 suspects in connection to the incident on Saturday (23), Sri Lanka Navy said in a statement.
+
+The Maritime Rescue Coordination Centre (MRCC) Colombo, established at the Navy Headquarters, was alerted in the early hours of 23 November by the Maldivian Coast Guard’s MRCC regarding the Sri Lankan multi-day fishing trawler ‘Ashen Putha’.
+
+The trawler had reportedly entered the Maldivian Exclusive Economic Zone, prompting Maldivian authorities to request verification on whether the trawler was experiencing mechanical issues or distress, according to Sri Lanka Navy.
+
+...
+
+[Data](articles/1a19cc5c.json)
+
+---
+
+### නැගෙනහිර පළාතේ ස්ථාන කිහිපයකට මි.මී. 150 ට වැඩි තද වැසි
+
+*2024-11-24 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203684) · `si`
+
+ගිනිකොණදිග බෙංගාල බොක්ක මුහුද ආශ්‍රිතව පවතින අඩුපීඩන කලාපය හෙට (25) දිනය වනවිට නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිතව පීඩන අවපාතයක් දක්වා වර්ධනය වීමේ හැකියාවක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම පද්ධතිය තවදුරටත් වර්ධනය වෙමින් දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව ගමන් කරනු ඇති බව බලාපොරොත්තු වේ.
+
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පැවතිය හැකි බව දැනුම් දී තිබේ.
+
+උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+නැගෙනහිර පළාතේ ඇතැම් ස්ථානවලට මි.මී.150 ට වැඩි ඉතා තද වැසි ඇතිවිය හැක.
+
+උතුරු, උතුරු-මැද, මධ්‍යම සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැක.
+
+උතුරු, උතුරුමැද සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+...
+
+[Data](articles/e225a185.json)
+
+---
+
+### SEC issues summons for Gautam Adani, nephew on bribery allegations
+
+*2024-11-24 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103728/sec-issues-summons-for-gautam-adani-nephew-on-bribery-allegations) · `en`
+
+The U.S. Securities and Exchange Commission has issued a summons to Indian billionaire Gautam Adani, indicted on U.S. bribery allegations related to a bombshell federal indictment against him, a court filing showed.
+
+The SEC is suing the head of the Adani Group and his nephew Sagar Adani, alleging they engaged in hundreds of millions of dollars in bribes to help an Adani company while “falsely touting the company’s compliance with antibribery principles and laws in connection with a $750 million bond offering.”
+
+The summons requires an answer within 21 days, according to the filing dated Wednesday in federal court in the Eastern District of New York. The SEC suit seeks unspecified monetary penalties and restrictions on the Adanis from serving as officers of listed companies.
+
+Adani Group representatives did not immediately respond to a Reuters request for comment on Sunday.
+
+...
+
+[Data](articles/51526a43.json)
+
+---
+
+### Iier's report breaks down a few minutes
 
 *2024-11-24 16:52:42* · [`adalk`](https://www.ada.lk/sports/අයියර්ගේ-වාර්තාව-විනාඩි-කිහිපයකින්-පාන්ට්-බිඳ-දමයි/9-413237) · `si`
 
-ඉන්දීය ප්‍රිමියර් ලීග ක්‍රීඩක වෙන්දේසියේදී මේ දක්වා ක්‍රීඩකයෙක් අලෙවි වූ ඉහළම වටිනාකම බවට රිෂාබ් පාන්ට් බවට පත්විය. ඒ ඔහුව ඉන්දීය රුපියල් කෝටි 27ක මිලකට ලක්නව් සුපර් ජයන්ට් කණ්ඩායම මිලදී ගැනීමත් සමගිනි.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහුට පෙර එනම් විනාඩි කිහිපයට පෙර ෂෙර්යාස් අයියර් ඉන්දිය රුපියල් කෝටි 26.75 ට පංජාබ් කණ්ඩායම මිලදී ගත් අතර එය එතෙක් මෙතෙක් අයි.පී.එල්. ක්‍රීඩක වෙන්දේසියකදී ක්‍රීඩකයෙක් අලෙවි වූ ඉහළම වටිනාකම විය.
+
+
+Rishab tops IPL auction with Rs. purchase by Super Gantle. Sheryas Iire buys Paranb team earlier. Player auction sees record sale.
+
+🟩
+
+Rishab became the highest value sold at the Indian Premier League Auction. He was purchased by the Super Gantle Team at a cost of Rs.
+
+Before him, Sheryas Iire bought the Paranb team for Rs.. A player was the highest value sold at a player auction.
 
 ◼️
 
 [Data](articles/ec12102e.json)
+
+[Extended Data](ext_articles/ec12102e.ext.json)
+
+---
+
+### IPL වෙන්දේසියේදී ශ්‍රෙයාස් අයියර්ට ඉතිහාසගත මිලක්
+
+*2024-11-24 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203683) · `si`
+
+අද (24) ආරම්භ වූ 2025 ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියට අදාළ ක්‍රීඩක වෙන්දේසියේදී ඉන්දීය ක්‍රීඩක ශ්‍රෙයාස් අයියර් ඉන්දීය රුපියල් කෝටි 26.75ක මුදලකට අලෙවි විය.
+
+මෙය අයි.පී.එල්. ඉතිහාසයේ ක්‍රීඩකයෙකු අලෙවි වූ ඉහළම මිල ලෙස වාර්තා අතරට එක්විය.
+
+මීට පෙර ඉහළම මිලකට අලෙවි වූ ක්‍රීඩකයා මිචෙල් ස්ටාක් වන අතර, ඔහු 2024 අදියරට අදාළ වෙන්දේසියේදී ඉන්දීය රුපියල්  කෝටි 24.75කට අලෙවි විය.
+
+◼️
+
+[Data](articles/facb5dae.json)
 
 ---
 
@@ -2317,171 +2435,5 @@ It is best to hold the provincial council election under the proportional electo
 [Data](articles/3e2de469.json)
 
 [Extended Data](ext_articles/3e2de469.ext.json)
-
----
-
-### Sri Lanka in pioneering state treasure hunt
-
-*2024-11-23 19:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-pioneering-state-treasure-hunt-189542/) · `en`
-
-ECONOMYNEXT – Several Sri Lanka state agencies are engaged in a treasure hunt and have dug themselves into a hole 30 feet deep in three days, following in the footsteps of a monk and several others who tried the same tactic earlier, a media report said.
-
-Sri Lanka’s Hiru television channel reported that several state agencies are digging deep using heavy earthmoving equipment looking for a buried Treasure in what is believed to be the first state venture of the sort.
-
-The state treasure hunt is taking place in Veyangoda, adjacent to an ancient temple, in the reservation of an expressway which is under construction.
-
-Sri Lanka’s Road Development Authority assisted by the police Special Task Force is hunting treasure. Security officers who used metal detectors have found metal underground.
-
-Hiru TV quoted a senior archaeology officer as saying that they had informed court that no evidence of any Treasure was found by them after initial reports of people looking for buried riches.
-
-...
-
-[Data](articles/d2e48fc0.json)
-
-[Extended Data](ext_articles/d2e48fc0.ext.json)
-
----
-
-### Nearly 30 former MPs still in MPs
-
-*2024-11-23 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203663) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"About 30 former MPs still occupying quarters. Some removed by new MPs. Renovation planned. 35 MPs requested Madiwela housing. Application process ongoing."
-
-🟩
-
-It has been reported that nearly 30 MPs have no longer handed over to quarters.
-
-These include Parliament sources said that some former MPs were withdrawn from their homes.
-
-Former MPs in Parliament had asked to remove the houses by informing new MPs to provide quarters.
-
-Accordingly, seven members have left quarters yesterday (22).
-
-Meanwhile, the Secretary General of Parliament Kushani Rohanahandera had recently informed the MPs in writing that the water and electricity supplies to the houses.
-
-However, a parliamentarian said that the renovation work of the houses will be repaired to provide quarters to new MPs.
-
-It is also stated that the housing scheme in Madiwela will be held on December 3.
-
-Meanwhile, about 35 MPs have already requested houses from the Madiwela MP's housing complex.
-
-Parliament has been notified by the Parliament to submit applications for MPs who need it.
-
-Home MPs can make demands for more than 40 miles [40 km) to the Parliamentary Complex.
-
-◼️
-
-[Data](articles/8f4ae72b.json)
-
-[Extended Data](ext_articles/8f4ae72b.ext.json)
-
----
-
-### Excavations found found in Veyangoda treasure
-
-*2024-11-23 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203662) · `si`
-
-Veyangoda excavation update: No treasure found; large stone discovered; operations suspended; next dig date pending court approval.
-
-🟩
-
-Excavations carried out in the west area of ​​the Wandurawa area in Veyangoda have been completed at 4 pm today.
-
-There is no treasure or archaeological value in that work with many government institutions.
-
-In the face of rumors that there was a treasure in the Central Highway, Veyangoda, has been excavated in the recent past.
-
-However, the suspects were remanded at a number of times and remanded, but the base of the central highway, which is being constructed and the treasure of the place has been constructed due to the digging treasure.
-
-The Attanagalla Magistrate ordered the Police Special Task Force as a treasure of the station.
-
-Accordingly, the officers of the Department of Archeology, Geological Department, Road Development Authority and the General Assembly of Government Institutions have been launched on the occasion.
-
-In the first day, the excavations were unable to find anything from excavations and found a large stone in yesterday's digit.
-
-...
-
-[Data](articles/81331401.json)
-
-[Extended Data](ext_articles/81331401.ext.json)
-
----
-
-### ‘Red’ warning issued as low-pressure area to intensify and move towards Sri Lanka’s Northern coast
-
-*2024-11-23 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103710/red-warning-issued-as-low-pressure-area-to-intensify-and-move-towards-sri-lankas-northern-coast) · `en`
-
-The Meteorology Department says a low-pressure area has formed over southeast Bay of Bengal and it is likely to move west northwestwards and intensify into a depression over southwest Bay of Bengal on 25 November.
-
-The system may intensify further and move towards the Northern coast of Sri Lanka, the department said issuing ‘Red’ weather warning for the land and the sea areas around the island.
-
-Very heavy showers above 150 mm are likely at some places in Eastern and Uva provinces due to the influence of the aforementioned system, it said.
-
-The deep and shallow sea areas off the coasts extending from Mannar to Hambantota via Kankasanthurai, Trincomalee, Batticaloa and Pottuvil will be very rough to high as the wind speed can be increased up to 60-70 kmph at times. Very heavy showers or thundershowers are likely in these areas.
-
-...
-
-[Data](articles/227c3c20.json)
-
-[Extended Data](ext_articles/227c3c20.ext.json)
-
----
-
-### IMF Staff Agreement
-
-*2024-11-23 18:32:58* · [`adalk`](https://www.ada.lk/breaking_news/IMF-කාර්ය-මණ්ඩල-එකඟතාවයට-පැමිණෙයි/11-413219) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-IMF: Sri Lanka completes third review, meets 2025 budget targets. Fourth tranche of $333 million released, exceeding $1.3 billion under debt program.
-
-🟩
-
-Sri Lanka Mission Head of the Monetary Fund, Peter Bruce (23) stated that he has stated in a third review between the International Monetary Fund and Sri Lanka.
-
-The International Monetary Fund Executive Board of Monetary Fund will be released to Sri Lanka as the fourth premium for Sri Lanka.
-
-Discussions on the third review of the International Monetary FundThe team was present.
-
-"Third assessment should complete a number of pre-action to hold the approval of the IMF management and Executive Board of Directors. The 2025 Budget proposal is one such action to comply with the targets of the IMF program.
-
-Sri Lanka releases US $ 333 million as the fourth premium after the IMF Executive Board of Directors. Accordingly, Sri Lanka has exceeded $ 1.3 billion under the comprehensive debt program. "
-
-◼️
-
-[Data](articles/4efa1fa7.json)
-
-[Extended Data](ext_articles/4efa1fa7.ext.json)
-
----
-
-### Hast condition near the Foreign Employment Bureau
-
-*2024-11-23 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203661) · `si`
-
-Protest near Foreign Employment Bureau: Warm situation over Korean E8 visa issue. Protesters attempted sidewalk construction for continuous assembly. Police intervention led to removal of intermediaries.
-
-🟩
-
-There was a warm situation during a protest this afternoon in front of the Battaramulla Foreign Employment Battaramulla.
-
-Those who were agitated by those aggrieved parties asking the Korean E8 visa.
-
-The protesters were attempted to conduct a temporary construction of the sidewalk in front of the Bureau to make the protest into a continuous assembly.
-
-The situation was caused by the police and the arrangement was taken to remove the intermediaries.
-
-◼️
-
-[Data](articles/afb5d788.json)
-
-[Extended Data](ext_articles/afb5d788.ext.json)
 
 ---

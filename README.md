@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 04:01:50**
+As of **2024-11-25 04:25:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,673 (100.0%) of 56,680 articles have been extended.
+56,680 (100.0%) of 56,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,25 +88,33 @@ The Maritime Rescue Coordination Centre (MRCC) Colombo, established at the Navy 
 
 ---
 
-### மன்னார் - தலைமன்னார் பிரதான வீதியில் உள்ள விலுப்பட்டான் குடியிருப்பு கிராம மக்கள் வீதியை மறித்து போராட்டம்; வெள்ள நீரை வெளியேற்ற கோரிக்கை
+### Vilappattan residents on the Mannar -Thalamannar main roadRequest to discharge floodwaters
 
 *2024-11-25 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199593) · `ta`
 
-மன்னார் பிரதேச செயலாளர் பிரிவில் உள்ள துள்ளுக்குடியிறுப்பு கிராம அலுவலர் பிரிவிற்குட்பட்ட பாவிலுப்பட்டான் குடியிருப்பு கிராம மக்கள் தமது கிராமத்தில் தேங்கியுள்ள வெள்ள நீரை வெளியேற்றக் கோரி ஞாயிற்றுக்கிழமை (24) மதியம் போராட்டம் ஒன்றை முன்னெடுத்தனர்.
+Paviluppattan villagers protest floodwaters Mannar-Thalamannar road demand discharge action taken
 
-குறித்த கிராம மக்கள் தமது கிராமத்தில் தேங்கியுள்ள வெள்ள நீரை வெளியேற்றக் கோரி மன்னார்-தலைமன்னார் பிரதான வீதியை மறித்து போராட்டத்தில் ஈடுபட்டனர்.
+🟩
 
-மேலும் குறித்த கிராமத்திற்குச் செல்லும் பாதைக்கு அமைக்க நீர் வெளியேறிச் செல்லும் மதகை (போக்) அவ்விடத்தில் கொண்டு வரப்பட்டு 4 வருடங்களாகிய நிலையில் அவற்றை உரிய முறையில் செப்பனிடவில்லை.
+The villagers of the Paviluppattan residents of the Mannar Divisional Secretariat Division, which belongs to the Tulukkudiyaru Grama Niladhari Division, staged a protest on Sunday (24) demanding the discharge of flood water in their village.
 
-குறித்த நடவடிக்கையை முன்னெடுத்தால் வெள்ள நீர் தமது கிராமத்தில் தேங்காது எனவும்,குறித்த நடவடிக்கையை உடன் ஆரம்பிக்க வேண்டும் என்ற கோரிக்கையை முன் வைத்தனர்.
+The villagers went on a protest over the Mannar-Talaimannar main road demanding the discharge of flood water in their village.
 
-மேலும் வெள்ள நீரை தமது கிராமத்தில் இருந்து வெளியேற்ற அதிகாரிகள் யாரும் முன் வரவில்லை என அந்த மக்கள் விசனம் தெரிவித்துள்ளனர்.
+Moreover, the water flowing (Pok) was brought in to the road to the village, and it was not properly relaxed.
 
-எனினும் தலை மன்னார் பொலிஸார் மற்றும் கிராம அலுவலர் குறித்த பகுதிக்கு வருகை தந்து மக்களுடன் கலந்துரையாடினர்.
+They demanded that the flood water would not stagnate in their village if the action was carried out.
+
+The people have expressed their concern that no officials have come forward to discharge the flood water from their village.
+
+However, the Mannar police and the Grama Niladhari visited the area and discussed with the people.
+
+The police and the Grama Niladhari told the people that the issue was brought to the notice of the relevant authorities.
 
 ...
 
 [Data](articles/908a4222.json)
+
+[Extended Data](ext_articles/908a4222.ext.json)
 
 ---
 
@@ -180,21 +188,29 @@ Industries and Entrepreneurship Development Minister Sunil Handunnetti has criti
 
 ---
 
-### தேசிய மற்றும் சர்வதேச கடன்கள் அரசாங்கத்துக்கு பாரிய சவால்; பொருளாதார மீட்சிக்கான திட்டங்கள் வெளிப்படைத்தன்மையாக இருத்தல் வேண்டும் - பாட்டலி சம்பிக்க ரணவக்க
+### National and international debts are a massive challenge to the government;Plans for economic recovery should be transparent - Batali Champika Ranawaka
 
 *2024-11-25 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199592) · `ta`
 
-தேசிய மற்றும் சர்வதேச கடன்கள் அரசாங்கத்துக்கு பாரிய சவாலாகும். பொருளாதார மீட்சிக்கான நடவடிக்கைகளை அரசாங்கம் வெளிப்படைத்தன்மையுடன் முன்னெடுக்க வேண்டும். நாட்டின் நிதி நிலைமை குறித்து மக்களுக்கு உண்மையை குறிப்பிட வேண்டும். பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதற்கு  நாட்டு மக்களின் ஒத்துழைப்பு அத்தியாவசியமானது என ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+National & intl debts pose significant challenge to govt. Economic recovery plans must be transparent. Cooperation from citizens crucial to address economic crisis. Bilateral debt: $28B in 2022. IMF support: $11M. Unpaid loans & interests: $8B. Govt. follows previous administration's economic policies unchanged. Transparency key to addressing financial reality.
 
-கொழும்பில் ஞாயிற்றுக்கிழமை (24) இடம்பெற்ற நூல் வெளியீட்டு நிகழ்வில் கலந்துக் கொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-2022 ஆம் ஆண்டு காலப்பகுதியில் இருதரப்பு கடன் 28 பில்லியன் டொலராக காணப்பட்டது. உலக வங்கி, சர்வதேச நாணய நிதியம் உட்பட சர்வதேச நிதி நிறுவனங்களிடமிருந்து 11 மில்லியன் டொலர் பல்தரப்பு கடன்கள் பெற்றுக் கொள்ளப்பட்டுள்ளது.
+National and international debts are a massive challenge to the government. The government should carry out transparency actions for economic recovery. To mention the truth of the country's financial situation. United Republican Front leader Patali Champika Ranawaka said that the cooperation of the country is essential to solve the economic crisis.
 
-நடைமுறை பொருளாதார சவால்கள் மற்றும் சர்வதேச நாணய நிதியத்தின் ஒப்பந்தத்தை தொடர்ந்து முன்னெடுத்துச் செல்வதுடன், வாக்குறுதி வழங்கியதை போன்று நலன்புரி நடவடிக்கைகளை முன்னெடுப்பது அரசாங்கத்துக்கு சவால்மிக்கது.
+He was speaking at a publication ceremony held in Colombo on Sunday (24).
+
+Bilateral debt was seen as $ 28 billion in the year 2022. $ 11 million has been received from international financial institutions, including the World Bank and the International Monetary Fund.
+
+Practical economic challenges and continuing the agreement of the International Monetary Fund and carrying out welfare activities as promised are challenging the government.
+
+It was officially announced that the Sri Lankan bankruptcy was on April 08, 2022. Unpaid loans and its interest rates have now increased to $ 8 billion.
 
 ...
 
 [Data](articles/8c83aa36.json)
+
+[Extended Data](ext_articles/8c83aa36.ext.json)
 
 ---
 
@@ -302,17 +318,25 @@ The Sri Lanka Agripreneurs’ Forum (SLAF) last week congratulated the newly ele
 
 ---
 
-### குவைத்தில் பணிபுரியும் இலங்கையர்கள் தங்கள் விரல் அடையாளத்தை டிசம்பர் 31க்கு முன்னர் பெற்றுக்கொடுக்கவும் ; வெளிநாட்டு வேலைவாய்ப்பு பணியகம் அறிவிப்பு
+### Give Sri Lankans working in Kuwait before December 31;Foreign Employment Bureau Notification
 
 *2024-11-25 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199591) · `ta`
 
-குவைத் நாட்டில் பணிபுரியும் தொழிலாளர்கள் மற்றும் வெளிநாட்டவர்கள் தங்களின் விரல் அடையாளத்தை எதிர்வரும் டிசம்பர் 31ஆம் திகதிக்கு முன்னர் வழங்குமாறு அந்நாட்டு உள்நாட்டலுவல்கள் அமைச்சு அறிவித்துள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியம் அறிவித்துள்ளது.
+Sri Lanka: Kuwait workers must get fingerprints by Dec 31. No state/banking services for those without. Fingerprinting available at security offices or via Sahel/Kuwait Meta Mode apps.
 
-இதற்கான இறுதி திகதி கடந்த செப்டம்பர் மாதத்துடன் நிறைவடைய இருந்த நிலையில் மீண்டும் டிசம்பர் 31ஆம் திகதிவரை நீடிக்கப்பட்டுள்ளது. குவைத் நாட்டில் பணி புரியும் அனைத்து இலங்கை தொழிலாளர்களும் அந்நாட்டு உள்நாட்டலுவல்கள் அமைச்சினால் அறிவித்திருக்கும் இடங்களில் தங்களின் விரல் அடையாளத்தை பெற்றுக்கொடுக்குமாறு வெளிநாட்டு வேலைவாய்ப்பு பணியகம் கேட்டுக்கொள்கிறது.
+🟩
+
+The Ministry of Home Affairs has announced that workers and foreigners working in Kuwait will be given their fingerprint before December 31, the Sri Lankan Foreign Employment Service has announced.
+
+The final date for this is due to ended in September and again till December 31st.. The Foreign Employment Bureau is urging all Sri Lankan workers working in Kuwait to obtain their fingerprints in places announced by the Ministry of Home Affairs.
+
+Accordingly, the time to provide finger identification can be excluded using the Sahel telephone software belonging to the Kuwait country or through the electronic system called Meta Mode. Similarly, the opportunity is given to select an appropriate place to obtain finger identification in the e -mail system. Accordingly, the security director's offices located in Hawali, Parwania, Ahmed, Mubarak al -Kabir and Jahra have been set up.
 
 ...
 
 [Data](articles/6b3fdbc0.json)
+
+[Extended Data](ext_articles/6b3fdbc0.ext.json)
 
 ---
 
@@ -346,6 +370,8 @@ Alles was the Managing Director/CEO of Hatton National Bank PLC and counts over 
 
 [Data](articles/3a6a2c87.json)
 
+[Extended Data](ext_articles/3a6a2c87.ext.json)
+
 ---
 
 ### FCCISL congratulates NPP; pledges support for economic and governance reforms
@@ -361,6 +387,8 @@ In a statement, FCCISL acknowledged that the formation of the new Government, fe
 ...
 
 [Data](articles/ac25c016.json)
+
+[Extended Data](ext_articles/ac25c016.ext.json)
 
 ---
 
@@ -410,6 +438,8 @@ The visit provided an ideal platform for participants to explore opportunities i
 
 [Data](articles/4ec21a40.json)
 
+[Extended Data](ext_articles/4ec21a40.ext.json)
+
 ---
 
 ### High Commission of Sri Lanka in the Maldives launches Sri Lanka Business Council
@@ -425,6 +455,8 @@ The Council is affiliated with the High Commission of Sri Lanka in the Maldives,
 ...
 
 [Data](articles/bf50d90b.json)
+
+[Extended Data](ext_articles/bf50d90b.ext.json)
 
 ---
 

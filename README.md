@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 15:01:01**
+As of **2024-11-25 15:13:25**
 
 ## Newspaper Stats
 
-*Scraped **56,769** Articles*
+*Scraped **56,773** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 436
-colombotelegraphcom | 575
+colombotelegraphcom | 576
 bbccomsinhala | 589
 islandlk | 3,406
 economynextcom | 3,440
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,339
+adalk | 5,340
 adaderanalk | 6,864
-tamilmirrorlk | 8,070
+tamilmirrorlk | 8,072
 virakesarilk | 9,254
 adaderanasinhalalk | 9,799
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,761 (100.0%) of 56,769 articles have been extended.
+56,761 (100.0%) of 56,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### தனிப்பட்ட பாதுகாப்பு கோருகிறார் அர்ச்சுனா
+
+*2024-11-25 14:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிப்பட்ட-பாதுகாப்பு-கோருகிறார்-அர்ச்சுனா/175-347735) · `ta`
+
+இலங்கையின் 10வது பாராளுமன்றத்தின் ஆரம்ப அமர்வின் போது தனது செயற்பாடுகள் காரணமாக தனக்கு ஏற்பட்ட பின்னடைவை அடுத்து புதிதாக தெரிவு செய்யப்பட்ட யாழ் மாவட்ட பாராளுமன்ற உறுப்பினர் வைத்தியர் அர்ச்சுனா இராமநாதன் தனிப்பட்ட பாதுகாப்பை கோரியுள்ளார்.
+
+கடந்த வாரம் பாராளுமன்றத்தின் முதல் அமர்வின் போது, ​​பாராளுமன்ற உறுப்பினர் பாரம்பரியமாக எதிர்க்கட்சித் தலைவருக்கு ஒதுக்கப்பட்ட ஆசனத்தில் அமர்ந்து கொண்டு நகர மறுத்துவிட்டார், அதே நேரத்தில் அவர் இனவாத அறிக்கைகளை வெளியிட்டதாக கூறப்படுகிறது.
+
+பாராளுமன்ற வளாகத்தில் இன்று இடம்பெற்ற புதிதாக தெரிவு செய்யப்பட்ட பாராளுமன்ற உறுப்பினர்களுக்கான வழிகாட்டல் நிகழ்வில் கலந்து கொண்ட பாராளுமன்ற உறுப்பினர் அர்ச்சுனா இராமநாதன் இந்த சம்பவத்தினால் தாம் கடும் அச்சுறுத்தல்களை எதிர்நோக்கியுள்ளதாக சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/c3f661a6.json)
+
+---
 
 ### Philippine VP publicly threatens to have the President assassinated
 
@@ -93,6 +109,26 @@ Due to this, the traffic police and the youth of the area together removed the t
 ...
 
 [Data](articles/b00702da.json)
+
+---
+
+### கூகுள் மெப்பை பயன்படுத்தி கார் விபத்து: மூவர் பலி
+
+*2024-11-25 14:10:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மெப்பை-பயன்படுத்தி-கார்-விபத்து-மூவர்-பலி/175-347730) · `ta`
+
+கூகுள் வழிகாட்டல் வரைபடத்தை பயன்படுத்தி பயணித்த கார் விபத்துக்குள்ளான சம்பவமொன்று, உத்தபிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+உத்தரபிரதேச மாநிலம், பரேலியில் இருந்து படாவுன் மாவட்டத்தில் உள்ள டேடாகஞ்ச் நோக்கி கார் ஒன்று சென்றுகொண்டிருந்தது. காரில் சகோதரர்கள் உட்பட 3 பேர் பயணித்தனர்.
+
+கூகுள் மேப் உதவியுடன் கார் சென்றுகொண்டிருந்த போது,, அப்பகுதியில் வெள்ளத்தில் இடிந்து கேட்பாரற்று கிடந்த மேம்பாலத்தின் சென்ற கார், 50 அடியில் இருந்து கீழே ஓடும் ஆற்றில் விழுந்து விபத்துக்குள்ளானது.
+
+கூகுள் மேப்பை நம்பி சென்றதால், இந்த விபத்து நடந்ததாக உயிரிழந்தவர்களின் உறவினர்கள் தெரிவித்தனர்.
+
+அத்துடன், பாலம் முழுமையடையாமல் கிடப்பதால், வரும் வாகனங்களை எச்சரிக்கும் வகையில் அப்பகுதியில் தடுப்புகள் ஏதும் இல்லை என துறை அதிகாரிகள் மீது குற்றம்சாட்டினர்.
+
+◼️
+
+[Data](articles/ffb00061.json)
 
 ---
 
@@ -687,6 +723,22 @@ In addition, the Commission to Investigate the Bribery or Corruption of Corrupti
 [Data](articles/0084f777.json)
 
 [Extended Data](ext_articles/0084f777.ext.json)
+
+---
+
+### රු. මි. 125, 000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් 27  දා
+
+*2024-11-25 11:30:07* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--125--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-27--දා/11-413251) · `si`
+
+රුපියල් මිලියන  එක්ලක්ෂ විසිපන් දහසක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් නොවැම්බර් 27 දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 45,000  ක  භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 45, 000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 35,000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව කියයි.
+
+වෙන්දේසිය සඳහා ලංසු භාර ගැනීම නොවැම්බර් 27 දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි. මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම නොවැම්බර් 29 දා සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/9dc0de43.json)
 
 ---
 
@@ -2239,61 +2291,5 @@ The Sri Lanka Agripreneurs’ Forum (SLAF) last week congratulated the newly ele
 [Data](articles/22e947c1.json)
 
 [Extended Data](ext_articles/22e947c1.ext.json)
-
----
-
-### Give Sri Lankans working in Kuwait before December 31;Foreign Employment Bureau Notification
-
-*2024-11-25 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199591) · `ta`
-
-Sri Lanka: Kuwait workers must get fingerprints by Dec 31. No state/banking services for those without. Fingerprinting available at security offices or via Sahel/Kuwait Meta Mode apps.
-
-🟩
-
-The Ministry of Home Affairs has announced that workers and foreigners working in Kuwait will be given their fingerprint before December 31, the Sri Lankan Foreign Employment Service has announced.
-
-The final date for this is due to ended in September and again till December 31st.. The Foreign Employment Bureau is urging all Sri Lankan workers working in Kuwait to obtain their fingerprints in places announced by the Ministry of Home Affairs.
-
-Accordingly, the time to provide finger identification can be excluded using the Sahel telephone software belonging to the Kuwait country or through the electronic system called Meta Mode. Similarly, the opportunity is given to select an appropriate place to obtain finger identification in the e -mail system. Accordingly, the security director's offices located in Hawali, Parwania, Ahmed, Mubarak al -Kabir and Jahra have been set up.
-
-...
-
-[Data](articles/6b3fdbc0.json)
-
-[Extended Data](ext_articles/6b3fdbc0.ext.json)
-
----
-
-### Construction industry congratulates new Government
-
-*2024-11-25 02:38:41* · [`dailyftlk`](https://www.ft.lk/business/Construction-industry-congratulates-new-Government/34-769647) · `en`
-
-The Ceylon Institute of Builders (CIOB) has issued a statement on behalf of the construction industry in Sri Lanka, expressing its congratulations to the newly established President, Prime Minister and other Cabinet members, who have won an overwhelming majority in the Parliamentary elections.
-
-In the statement, Ceylon Institute of Builders President Dr. Rohan Karunaratne further stated: The construction industry is one of the largest industries in Sri Lanka. It employs 1 million direct employees and 1.6 million indirect employees. The construction industry has a turnover of nearly 1 trillion rupees and has contributed 9.6% to the GDP in the past. If the Government supports exports from this industry sector, it could earn about 2 billion dollars in foreign exchange.
-
-...
-
-[Data](articles/6414094b.json)
-
-[Extended Data](ext_articles/6414094b.ext.json)
-
----
-
-### Nawaloka Medicare marks 10th anniversary
-
-*2024-11-25 02:38:00* · [`islandlk`](http://island.lk/nawaloka-medicare-marks-10th-anniversary/) · `en`
-
-Nawaloka Medicare (Pvt.) Ltd. recently celebrated its 10th anniversary at its state-of-the-art, seven-story facility in the heart of Negombo. Since the inauguration of its Centre in 2014, Nawaloka Medicare Negombo has consistently set a benchmark for excellence in healthcare, remaining steadfast in its commitment to providing top-tier medical services and bringing hope to countless individuals across the community.
-
-The facility boasts a wide range of services, including a 75-bed in-patient capacity and a newly expanded wing, which increases hospital space to accommodate fully equipped consultation rooms and a dedicated Maternal and Baby Centre.
-
-Chairman of Nawaloka Medicare (Pvt.) Ltd, Harshith Dharmadasa said, ” Over the past decade, we have successfully conducted 5,000 deliveries and over 20,000 surgeries, delivering exceptional care to thousands of patients. With consultations offered across more than 500 specialties, our hospital remains a trusted healthcare provider.”
-
-...
-
-[Data](articles/5cf0e3c7.json)
-
-[Extended Data](ext_articles/5cf0e3c7.ext.json)
 
 ---

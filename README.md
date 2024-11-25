@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 22:17:12**
+As of **2024-11-25 23:00:12**
 
 ## Newspaper Stats
 
-*Scraped **56,852** Articles*
+*Scraped **56,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,406
 economynextcom | 3,445
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,353
-adaderanalk | 6,874
+adalk | 5,354
+adaderanalk | 6,876
 tamilmirrorlk | 8,089
 virakesarilk | 9,269
 adaderanasinhalalk | 9,815
@@ -26,11 +26,45 @@ adaderanasinhalalk | 9,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,851 (100.0%) of 56,852 articles have been extended.
+56,853 (100.0%) of 56,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
+
+*2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and shallow sea areas around the island today (25) as a low pressure area intensifies over South-East Bay of Bengal.
+
+The low pressure area over the southwest Bay of Bengal intensified into a depression over the central-southwest Bay of Bengal by this morning.
+
+The system was located about 530 km southeast of Trincomalee at around 11.30 a.m. today. It is likely to move closer to the East coast of the island and intensify into a deep depression during next 24 hours, the advisory said.
+
+Very heavy showers above 150 mm are likely at some places in Northern province and Trincomalee District while heavy showers above 100 mm are likely at some places in Northern, North-central, Central and Uva provinces and in Batticaloa, Ampara district due to the influence of the aforementioned system.
+
+...
+
+[Data](articles/ea71be76.json)
+
+---
+
+### President urges grassroots solutions and law enforcement for disaster management
+
+*2024-11-25 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103761/president-urges-grassroots-solutions-and-law-enforcement-for-disaster-management) · `en`
+
+President Anura Kumara Dissanayake has emphasized that simply reinforcing institutional frameworks is insufficient for effective disaster management. The President stressed the need to establish mechanisms to deliver practical solutions at the grassroots level, the President’s Media Division (PMD) stated in a statement.
+
+Speaking at the swearing-in ceremony of Deputy Defence Minister Aruna Jayasekara today (25), President Dissanayake highlighted the importance of empowering local government institutions to prevent disasters in vulnerable areas and develop innovative solutions, the PMD said.
+
+The President noted that the country’s disaster management laws were formulated after considerable study and that it is the responsibility of officials to implement them effectively. He assured his unwavering support for any official who upholds their duties with integrity and called on Government officials to propose enhancements to the legal framework if needed.
+
+...
+
+[Data](articles/d364e202.json)
+
+---
 
 ### Youth missing in Bandaragama
 
@@ -790,6 +824,36 @@ Director Nelson and Producer Tanu participated in a special event at the Galle H
 
 ---
 
+### Siripa is please fined Rs 160000 to 4 Malkadu
+
+*2024-11-25 17:43:53* · [`adalk`](https://www.ada.lk/breaking_news/සිරිපා-කරුණාකර-පැලෑටිවලින්-මල්කැඩූ-4ට-රු-160000ක්-දඩ/11-413263) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Four individuals fined Rs 160,000 for entering a butterfly reserve. Charges filed under Fauna and Flora Ordinance. Magistrate imposed Rs 400,000 per charge, totaling Rs 60,000 for each defendant.
+
+🟩
+
+Ratnapura Additional Magistrate Beyoani Vedrikoo departed to a fine of Rs.
+
+The fine was fined by SD of Pitadenuwa. Hirzasha Lakshan Chandrasekara, KM. Piyumi Maheshika, Kitugala, Kituna, Naragalwala, Naragalla, Naragallawala. Hasitha Nayanjith Dayananda and K.n.n.n.n.Chel were on the four.
+
+Two charges were filed against the four charges under the Fauna and Flora Ordinance. The four charges were made by entering the butterfly nature reserve of the butterfly nature reserve on the 7th of September 7, 2024 and in the role of the butterfly nature reserve.Are filed.
+
+The flowers who were broken from the butterfly nature reserve have been published in the face. The Head Office of the Department of Wildlife Conservation was lodged by the Office of the Samanala nature reserve in the Sri Lanka Natural Reserve.
+
+The defendants were arrested by their facial account accounts. The suspects welcomed the blame in court.
+
+...
+
+[Data](articles/db7aaeda.json)
+
+[Extended Data](ext_articles/db7aaeda.ext.json)
+
+---
+
 ### Criminal Investigation Department is being used by the government for political revenge - Sujeeva Senasinghe
 
 *2024-11-25 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199649) · `ta`
@@ -868,19 +932,31 @@ In her address, Prime Minister Dr. Harini Amarasuriya congratulated the newly el
 
 ---
 
-### කුවේටයේ සිටි ලාංකික සිරකරුවන් 32ක් ලංකාවට පිටුවහල් කරයි
+### 32 Sri Lankan prisoners in Kuwait deported to Sri Lanka
 
 *2024-11-25 17:23:16* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-සිටි-ලාංකික-සිරකරුවන්-32ක්-ලංකාවට-පිටුවහල්-කරයි/11-413262) · `si`
 
-කුවේට් රාජ්‍යය සහ ශ්‍රී ලංකාව අතර 2007 වසරේ අත්සන් තබා ඇති සිරකරුවන් හුවමාරු කිරීමේ ගිවිසුම යටතේ , එරට මධ්‍යම බන්ධනාගාරයේ මත්ද්‍රව්‍ය චෝදනාවලට සිර දඩුවම් විදිමින් සිටින ශ්‍රී ලාංකික සිරකරුවන් 104 දෙනෙකු අතරින් 32 දෙනෙකු , ඉතිහාසයේ පළමු වතාවට , කුවේට් රාජ්‍යයේ සිට විශේෂ ගුවන් යානකින් කටුනායක ගුවන් තොටුපොළ වෙත 11/25 දින පස්වරුවේ පැමිණ තිබුණි .
+Here's a summary of the text in approximately 200 characters:
 
-මෙම ශ්‍රී ලාංකිකයන්  කුවේට් රාජ්‍යය තුළ භයානක ඝනයේ මත්ද්‍රව්‍ය පාවිච්චි කිරීම , වෙළෙඳාම් සහ ජාවාරම් කිරීම සහ ප්‍රවාහනය කිරීම යන චෝදනා යටතේ එරට ආරක්ෂක අංශ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන , අධිකරණයට ඉදිරිපත් කර , වැරදිකරුවන් වූ පිරිසකි
 
-මොවුන් අතරින් කොටසක් ශ්‍රී ලංකාවට එවීම සදහා ඉකුත් මාර්තු මාසයේ සිට කුවේට් රාජ්‍යයේ  ශ්‍රී ලංකා තානාපති කාන්දීපන් බාලසුබ්‍රමනියම් මහතා ප්‍රයත්න දරා තිබූණි .
+
+32 Sri Lankan prisoners deported from Kuwait to Sri Lanka. Arrested for drug trafficking. Sent back under diplomatic efforts. Arrived at Katunayake airport. Transferred to Welikada Prison.
+
+🟩
+
+32 of Sri Lankan prisoners in the country's central prisoners at the Central Prison of the Kuwait State and Sri Lanka, 32 Sri Lankan prisoners to the Katunayake airport from Kuwait from Kuwait.The next afternoon had come.
+
+These Sri Lankans have been arrested by the security forces of the security forces, traffickers, tracketing and transportation and transportation of the narcotics of the kingdom of the kingdom of the kingdom of the narcotics, marketing and trading and transportation.
+
+Sri Lanka's Ambassador to Kuwait from Kuwait from March to be sent to Sri Lanka.
+
+Later, after the internal relations with the Sri Lankan Ambassador to the King of Kuwait and the Interior Reconciliation of the Sri Lankan Ambassador with the Interior Ambassador to the Sri Lankan Ambassador, the largest cit of these Sri Lankans to send the people to Sri Lanka to the Kuwait Air Force.Had been able to get free.
 
 ...
 
 [Data](articles/fdef482a.json)
+
+[Extended Data](ext_articles/fdef482a.ext.json)
 
 ---
 
@@ -2459,69 +2535,5 @@ The Chairman of the Sri Lanka Foreign Employment Bureau (SLFEB) Kosala Wickramas
 [Data](articles/db9ffa9a.json)
 
 [Extended Data](ext_articles/db9ffa9a.ext.json)
-
----
-
-### ADB approves $200 million loan to advance power system expansion in Sri Lanka
-
-*2024-11-25 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103747/adb-approves-200-million-loan-to-advance-power-system-expansion-in-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) has approved a $200 million loan to upgrade Sri Lanka’s power sector infrastructure, enhancing the reliability of transmission and distribution networks and facilitating greater integration of renewable energy.
-
-“Driving power sector reforms, combined with targeted infrastructure interventions, is essential to facilitate competitive renewable energy development and reduce power generation costs,” said ADB Country Director for Sri Lanka Takafumi Kadono. “By expanding and modernizing infrastructure and incorporating digitalization solutions, this project will support the government’s goal of increased integration of renewable energy in the electricity mix, reduce power interruptions, and minimize transmission and distribution losses.”
-
-...
-
-[Data](articles/4aa2fd13.json)
-
-[Extended Data](ext_articles/4aa2fd13.ext.json)
-
----
-
-### Jonathan Alles appointed to Sri Lanka’s Singer board
-
-*2024-11-25 12:45:00* · [`economynextcom`](https://economynext.com/jonathan-alles-appointed-to-sri-lankas-singer-board-189664/) · `en`
-
-ECONOMYNEXT – Antonio Jonathan Alles has been appointed to the board of Singer Plc, the company said in a stock exchange filing.
-
-Alles was appointed as an independent non-executive director, member of the audit committee, related party transaction committee, nominations and governance committee and remuneration committee, effective November 22.
-
-He was previously the managing director and chief executive officer of Hatton National Bank Plc and director and chairman of Sri Lanka Banks Association (SLBA) from 2014 to 2016.
-
-He was also the chairman of the Asian Bank’s Association in 2018.
-
-Alles has been in the banking industry for 37 years and currently serves on the boards of four other companies.
-
-Jonathan Alles: building a future-ready financial services conglomerate on hnb’s 133-year legacy
-
-◼️
-
-[Data](articles/5b50f280.json)
-
-[Extended Data](ext_articles/5b50f280.ext.json)
-
----
-
-### Bail for Sujeeva's luxury vehicle
-
-*2024-11-25 12:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜீவவின்-சொகுசு-வாகனத்திற்கு-பிணை/175-347727) · `ta`
-
-Sujeewa Senasinghe's luxury vehicle case: Bail set at 100 million rupees after court order. Vehicle seized for analysis due to suspicion of illegal importation. Former MP must submit report to government analyst within 48 hours.
-
-🟩
-
-The controversial luxury vehicle of former parliamentarian Sujeewa Senasinghe, who was placed in custody. 100 million has been released on bail.
-
-About around Rs.. It was suspected that the luxury vehicle worth 100 million was illegally organized by former MP Sujeewa Senasinghe.
-
-On November 08, Senasinghe was appointed to submit a report to the government analyst, following suspicions about the status of the vehicle.
-
-On November 11, the Fort Magistrate's Court ordered the Criminal Investigation Division to take the former MP's vehicle in the custody of the State Analyst's Department.
-
-◼️
-
-[Data](articles/eb05a21c.json)
-
-[Extended Data](ext_articles/eb05a21c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 11:00:32**
+As of **2024-11-25 10:42:02**
 
 ## Newspaper Stats
 
-*Scraped **56,723** Articles*
+*Scraped **56,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 588
 islandlk | 3,405
-economynextcom | 3,436
+economynextcom | 3,433
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,335
-adaderanalk | 6,855
-tamilmirrorlk | 8,061
+adalk | 5,334
+adaderanalk | 6,853
+tamilmirrorlk | 8,057
 virakesarilk | 9,244
 adaderanasinhalalk | 9,791
 
@@ -26,155 +26,11 @@ adaderanasinhalalk | 9,791
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,713 (100.0%) of 56,723 articles have been extended.
+56,712 (100.0%) of 56,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### பலமான தொழிற்சங்கமாக மீண்டெழுவோம்
-
-*2024-11-25 10:54:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலமான-தொழிற்சங்கமாக-மீண்டெழுவோம்/76-347718) · `ta`
-
-ஐந்து வருடங்களின் பின்னர் பல மாற்றங்களுடன் பலமான தொழிற்சங்கமாக மீண்டெழுந்து வெற்றிக்கொள்வோம் என இ.தொ.கா பொதுச்செயலாளரும், நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
-
-நுவரெலியா, நானுஓயா மற்றும் புஸ்ஸலாவ ஆகிய காரியாலயங்களுக்கு உட்பட்ட இ.தொ.காவின் மாவட்டத் தலைவர், தலைவி மற்றும் தோட்டக்கமிட்டி தலைவர், தலைவிமார்களுடனான ஜீவன் தலைமையில் நேற்று (24) இடம்பெற்றது.
-
-நடந்து முடிந்த 2024 பாராளுமன்ற பொதுத் தேர்தலில் இ.தொ.கா விற்கு வாக்களித்த அனைத்து ஆதரவாளர்களுக்கும் கட்சியின் பொதுச் செயலாளர் என்ற வகையில் நான் எனது நன்றிகளை தெரிவித்துக்கொள்வதாக தெரிவித்துள்ளார்.
-
-அதேபோல், எதிர்வரும் காலங்களில் இ.தொ.கா வின் வளர்சிக்காக நாம் அனைவரும் ஒன்றிணைந்து எவ்வாறு செயற்படுவது அதன் மூலமாக எவ்வாறான வெற்றியினை பெற்றுக்கொள்வது என்று விரிவாக கலந்துரையாடப்பட்டது. R
-
-◼️
-
-[Data](articles/c27d01f5.json)
-
----
-
-### ”உரிமை அரசியல் பற்றியே அதிகம் பேசியுள்ளேன்”
-
-*2024-11-25 10:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிமை-அரசியல்-பற்றியே-அதிகம்-பேசியுள்ளேன்/175-347717) · `ta`
-
-சமூக உரிமை மற்றும் சமூக நீதியை மையப்படுத்தியதாகவே எனது நாடாளுமன்ற அரசியல் பயணம் அமைந்தது. தற்போது நாடாளுமன்ற உறுப்பினராக அல்லாவிட்டாலும் மேற்படி இலக்கை நோக்கிய அரசியல் பயணம் தொடரும் என்று கண்டி மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் வேலுகுமார் தெரிவித்துள்ளார்.
-
-" 2015 ஆம் ஆண்டு எனது நாடாளுமன்ற அரசியல் பயணம் ஆரம்பமானது. இரு தடவைகள் கண்டி மாவட்டத்தில் தமிழ்ப் பாராளுமன்ற பிரதிநிதித்துவத்தை தக்கவைப்பதற்கு தலைமைத்துவம் வழங்கினேன்.
-
-சமூக நீதி மற்றும் சமூக உரிமைகளை மையப்படுத்தியதாகவே எனது நடவடிக்கைகள் அமைந்தன. பாராளுமன்றத்திலும் உரிமை அரசியல் பற்றியே அதிகம் பேசி உள்ளேன்.
-
-அதேவழியில் எனது பயணம் தொடரும். அந்த பயணத்தை மேற்கொள்வதற்கு, இலக்கை அடைவதற்கு பாராளுமன்ற உறுப்பினராக இல்லாவிட்டாலும் துணிந்து செயற்படுவேன்.
-
-கண்டி மாவட்டத்துக்குரிய தமிழ்ப் பிரதிநிதித்துவத்தை இல்லாது செய்வதில் சில அரசியல் முகவர்களே முன்னின்று செயற்பட்டனர். தோட்டங்களுக்கு சென்று, வாக்குகளைக்கூட விலைபேசினர். பணபலத்தைக் காட்டினார்கள். வதந்திகளை பரப்பினார்கள்.
-
-...
-
-[Data](articles/f6e5ba75.json)
-
----
-
-### அர்ச்சுனாவுடன் கலந்துரையாட  சபாநாயகர் தீர்மானம்
-
-*2024-11-25 10:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுடன்-கலந்துரையாட-சபாநாயகர்-தீர்மானம்/175-347716) · `ta`
-
-புதிய பாராளுமன்ற உறுப்பினர் கலாநிதி அர்ச்சுனா இராமநாதனுடன் கலந்துரையாடவுள்ளதாக சபாநாயகர் அசோக ரன்வல தெரிவித்துள்ளார்.
-
-நேற்று (24) பிற்பகல் கண்டிக்கு விஜயம் செய்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே சபாநாயகர் இதனை தெரிவித்தார்.
-
-பாராளுமன்றத்தின் முதலாவது அமர்வில் எதிர்க்கட்சித் தலைவர் ஆசனத்தில் அர்ச்சுனா இராமநாதன் அமர்ந்து கருத்து வெளியிட்டமையினால் அவர் தொடர்பில் பரபரப்பாக பேசப்பட்டு வருகின்றது.
-
-இந்த நிலையில், இது தொடர்பில் பாராளுமன்ற உறுப்பினருடன் கலந்துரையாடி மேலதிக நடவடிக்கை எடுப்பதாக சபாநாயகர் குறிப்பிட்டுள்ளார். R
-
-◼️
-
-[Data](articles/b01bb65c.json)
-
----
-
-### බස් රථ දෙකක් එකිනෙක ගැටීමෙන් සිදු වූ අනතුර
-
-*2024-11-25 10:45:11* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථ-දෙකක්-එකිනෙක-ගැටීමෙන්-සිදු-වූ-අනතුර/11-413249) · `si`
-
-වටවල ප්‍රදේශයේදී අද (25දා) ලංගම බස්රථයක් සහ පෞද්ගලික බස් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
-
-◼️
-
-[Data](articles/4e5f7941.json)
-
----
-
-### Sri Lanka new gov performance can only be evaluated during 5th IMF review: former minister
-
-*2024-11-25 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-gov-performance-can-only-be-evaluated-during-5th-imf-review-former-minister-189645/) · `en`
-
-ECONOMYNEXT – The true performance of the new National People’s Power administration can only be evaluated during the fifth International Monetary Fund review, former State Finance Minister Shehan Semasinghe has said.
-
-“The true performance of the new administration can only be evaluated during the 5th review, which will exclusively cover their period in office. (Jan to Jun 2025),” Semasinghe said on social platform X.
-
-“Even the fourth review will largely reflect the achievements of our government. It is essential that the new administration continues to follow the EFF programme, despite their past opposition, to ensure sustained economic progress.”
-
-The former state minister said he was pleased that the staff-level agreement has been reached between the IMF and Sri Lankan authorities, marking the successful completion of the third review of the Extended Fund Facility (EFF) programme.
-
-...
-
-[Data](articles/8cff964f.json)
-
----
-
-### Speaker responds to MP Archchuna Ramanathan’s controversial conduct
-
-*2024-11-25 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103739/speaker-responds-to-mp-archchuna-ramanathans-controversial-conduct) · `en`
-
-The Speaker of Parliament Ashoka Ranwala has stated that he intends to discuss with Member of Parliament (MP) Dr. Archchuna Ramanathan regarding his recent controversial conduct.
-
-A video of the independent MP went viral on social media on November 21, which showed him seated in the seat reserved for the Leader of the Opposition in the House and refusing to move despite repeated requests by the parliamentary staff, during the inaugural session of the 10th Parliament.
-
-The MP’s behavior and certain controversial comments he had made on videos posted on social media were the subject of intense discussion even on social media platforms.
-
-The Speaker indicated that he plans to address this matter directly with the MP and will determine the necessary actions following their discussion.
-
-He made these remarks while speaking to the media following his visit to Kandy last afternoon (24).
-
-...
-
-[Data](articles/9dced54a.json)
-
----
-
-### Revamp of Sri Lanka’s IMF programme is within its “guard rails”
-
-*2024-11-25 09:44:00* · [`economynextcom`](https://economynext.com/revamp-of-sri-lankas-imf-programme-is-within-its-guard-rails-189612/) · `en`
-
-ECONOMYNEXT – Any review in Sri Lanka’s International Monetary Fund (IMF) programme could be under the guard rails of the bailout deal, the global lender’s Senior Mission Chief Peter Breuer said at the end of a view mission,  amid expectations over renegotiation of the agreement under new government.
-
-President Anura Kumara Dissanayake’s National People’s Power (NPP) wanted to renegotiate some aspects of the IMF deal signed under the previous government.
-
-The adjustments to the programme include both direct and indirect tax reductions and more concessions to the public, NPP members have said in public.
-
-On Saturday, the IMF said it had reached staff-level agreement with Sri Lankan authorities on economic policies to conclude the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF).
-
-...
-
-[Data](articles/ef16913c.json)
-
----
-
-### Sri Lanka rupee opens broadly flat at 291.00/05 to dollar, bonds steady
-
-*2024-11-25 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-flat-at-291-00-05-to-dollar-bonds-steady-189618/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 291.00/05 to the US dollar on Monday from 291.00/10 to the US dollar on Friday dealers said, while bond yields were stable.
-
-A bond maturing on 15.09.2027 was quoted at 10.80/85 percent, up from 10.75/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.05/15 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.35/45 percent, up from 11.25/40 percent.
-
-In equities, the All Share Price Index opened up 0.12 percent or 15.06 points, at 13,069. The more liquid S&P SL20 opened up 0.26 percent, or 10.00 points, at 3,881.
-
-◼️
-
-[Data](articles/7d3ba187.json)
-
----
 
 ### Thandi Workshop begins today
 
@@ -199,26 +55,6 @@ A similar workshops will be organized for MPs at the end of every parliamentaria
 [Data](articles/004e6a04.json)
 
 [Extended Data](ext_articles/004e6a04.ext.json)
-
----
-
-### Police announcement on traffic restrictions on Badulla-Bibile Road
-
-*2024-11-25 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103738/police-announcement-on-traffic-restrictions-on-badulla-bibile-road) · `en`
-
-Sri Lanka police have issued a announcement regarding the restriction of vehicular movement in the stretch of road between the 143rd and 144th kilometer posts on the Badulla-Bibile Road in the Passara police division.
-
-The road will remain open for traffic from 6:30 a.m. to 6:00 p.m. today (25), and will be closed from 6:00 p.m. to 6:00 a.m. tomorrow (26).
-
-Traffic restrictions were initially imposed on November 18, 2024, following an earthslip in the area.
-
-The site was inspected by the Executive Engineer of the National Building Research Organisation (NBRO) and the Road Development Authority (RDA) yesterday (24).
-
-Police further stated that the opening hours of the road may vary depending on weather conditions. Officers from the Passara Police Station have been deployed to manage security and traffic at the site.
-
-◼️
-
-[Data](articles/5c257b8b.json)
 
 ---
 
@@ -247,26 +83,6 @@ Two of the five survivors are being treated at the hospital. The other three hav
 [Data](articles/0110e72e.json)
 
 [Extended Data](ext_articles/0110e72e.ext.json)
-
----
-
-### வட்டவளை விபத்தில் இருவருக்கு காயம்
-
-*2024-11-25 09:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வட்டவளை-விபத்தில்-இருவருக்கு-காயம்/76-347711) · `ta`
-
-ஹட்டன் - கொழும்பு பிரதான வீதியில் வட்டவளை, கரோலினா தோட்ட பகுதியில் இன்று காலை 6.40 மணியளவில் இடம்பெற்ற விபத்தில் நால்வர் படுகாயமடைந்துள்ளனர்.
-
-இதன்போது, அதிவேகமாக பயணித்த தனியார் பஸ் ஒன்று, எதிர்திசையில் வந்த இ.போ.ச பஸ்ஸுடன் மோதியதில் தனியார் பஸ்ஸின் பின் பகுதி இரண்டாக உடைந்துள்ளதாக வட்டவளை பொலிஸார் தெரிவித்தனர்.
-
-ஹட்டன் இ.போ.ச டிப்போவிற்கு சொந்தமான, கினிகத்தேனையிலிருந்து ஹட்டன் நோக்கிச் சென்ற பஸ்ஸும், ஹட்டனிலிருந்து கண்டி நோக்கிச் சென்ற தனியார் பஸ்ஸூம்  மோதி  இவ்விபத்து ஏற்பட்டுள்ளது.
-
-விபத்தில் காயமடைந்த நால்வரின் நிலைமை கவலைக்கிடமாக இல்லை எனவும், நிலவும் மோசமான வானிலையுடன் ஹட்டன் கொழும்பு பிரதான வீதி மற்றும் ஏனைய சில வீதிகள் வழுக்கும் தன்மையுடன் இருப்பதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-இந்த விபத்தில் தனியார் பஸ்ஸுக்கு பலத்த சேதம் ஏற்பட்டுள்ளதுடன், விபத்து தொடர்பில் வட்டவளை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
-
-◼️
-
-[Data](articles/02939dd3.json)
 
 ---
 
@@ -808,7 +624,7 @@ Vijitha Herath recognises tourism as key driver of economic growth
 
 Expresses confidence in achieving better future for all Sri Lankans
 
-Mt. Lavinia Hotel COO Anura Dewapura asserts pride in event’s success
+Mt. Lavinia Hotel COO Anura asserts pride in event’s success
 
 Tourism Minister Vijitha Herath delivered a hopeful message on Saturday while attending the live performance of ‘Arrival from Sweden: The Music of ABBA’, an internationally renowned tribute band.
 
@@ -2269,5 +2085,241 @@ The Tamil people face the fundamental issue of political solution, the issue of 
 [Data](articles/0158794f.json)
 
 [Extended Data](ext_articles/0158794f.ext.json)
+
+---
+
+### Senior Prof. S.K. Rathnayake appointed to oversee Ruhuna Uni. administration
+
+*2024-11-24 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103731/senior-prof-sk-rathnayake-appointed-to-oversee-ruhuna-uni-administration) · `en`
+
+An extraordinary Gazette notification has been issued appointing Senior Prof. R.M.U.S.K. Rathnayake to be the competent authority for the purpose of exercising, performing and discharging in lieu of Vice Chancellor of the University of Ruhuna.
+
+The Gazette notification, issued by Prime Minister Harini Amarasuriya by virtue of the powers vested in her as the Minister of Education, Higher Education and Vocational Education, mentioned that the appointment was made on being satisfied that the administration of the University of Ruhuna have been seriously dislocated and that the authorities of the said university have failed to restore normal conditions.
+
+Accordingly, the appointment will come into effect from 25 November 2024, as per the Gazette notification.
+
+...
+
+[Data](articles/e60e3500.json)
+
+[Extended Data](ext_articles/e60e3500.ext.json)
+
+---
+
+### Sri Lanka budget deficit down 40-pct to September, taxes up 39-pct
+
+*2024-11-24 18:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-40-pct-to-september-taxes-up-39-pct-189603/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax revenue was up 39 percent to 2,918.3 billion rupees in the nine months to September 2024 from a year ago, while the budget deficit was down 40 percent, official data show.
+
+Tax revenues were going in line with a 40 percent projection in the budget, though collections can be lumpy and unevenly distributed across months.
+
+Non-tax revenues were up 30 percent to 229.7 billion rupees.
+
+Current spending rose only 3 percent, amid expenditure restraint and also a flat interest bill, both made possible by the stability and confidence coming from deflationary monetary policy and currency appreciation.
+
+Total revenues were around 9.3 percent of GDP for the nine months, up from 7.6 percent last year. Sri Lanka is targeting at least 13 percent of GDP revenues this year.
+
+The current account deficit of the budget (total revenues less current spending) which is in deficit in Sri Lanka, fell 58 percent to 516.3 billion rupees, which is around 1.6 percent of projected GDP.
+
+...
+
+[Data](articles/cc8a91c4.json)
+
+[Extended Data](ext_articles/cc8a91c4.ext.json)
+
+---
+
+### Three arrests with ice and heroin drugs in Kalkisa
+
+*2024-11-24 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199550) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"3 arrests made in Kalkisa: 2 men & 1 woman caught with ice & heroin. Police conducted 3 raids based on Mount Lavinia intel. Seized 10g ice, 100ml heroin."
+
+🟩
+
+Three persons have been arrested by the police on Saturday (23) with ice and heroin drugs in Rashtamwatta and Belakade junction, which belongs to the Malkisai Police Division.
+
+They have been arrested during the three rounds of raids carried out on the basis of information received by a group of Mount Lavinia Police Station.
+
+Two men aged 23 and 30, from Rashtamwatta and Kamburuputiya areas, and a 30 -year -old woman from Malkisai area have been arrested by police.
+
+The arrested suspects were seized by the police by 10 gm 200 milligrams of ice, 05 g 100 ml of heroin and 10 g of 200 milligrams of ice.
+
+◼️
+
+[Data](articles/fafaa52d.json)
+
+[Extended Data](ext_articles/fafaa52d.ext.json)
+
+---
+
+### A competent authorrol for University of Ruhuna
+
+*2024-11-24 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203688) · `si`
+
+Here's a summary in approximately 200 characters:
+
+
+
+University of Ruhuna: Senior Professor Ratnayake appointed as Religion Ruler. Gazette cites confusion in administration. Non-academic staff strike against Vice Chancellor. Students support strike.
+
+🟩
+
+Senior Professor Religion Ruler to oversee the administrative matters of the University of Ruhuna. M. U. S. K. Mr. Ratnayake has been appointed.
+
+අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රමාත්‍ය හරිනි අමරසූරිය අති විශේෂ ගැසට් පත්‍රයක් අද (24) නිකුත් කරමින් මෙම පත්කිරීම සිදුකර ඇත.
+
+The appointment has been made in accordance with the powers vested with the powers vested with the powers vested in the university Act No. 16 of 1978.
+
+The Gazette said that the administrations of the University of Ruhuna had been seriously confused and re-restore it to normalize it.
+
+The non-academic staff has launched a strike in force to take action to remove the Vice Chancellor of the University of Ruhuna to remove him from the post.
+
+It was also reported that university students were also supported for the strike.
+
+◼️
+
+[Data](articles/613d48f7.json)
+
+[Extended Data](ext_articles/613d48f7.ext.json)
+
+---
+
+### Special notice for students sit for the Matara A / L examination
+
+*2024-11-24 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203687) · `si`
+
+Matara AL exam: Disaster unit prepares boats, tractors for transport. No major flooding expected. Contact 244 134 for help if needed.
+
+🟩
+
+The Matara District Disaster Management Coordinating Unit, the Matara District Disaster Management Coordinating Unit has taken steps to travel to the examination centers.
+
+Assistant Director of the Unit, Lieutenant Colonel Kelum Kelugamage, the floods will be held tomorrow due to the children who appear to go to the A / L examination centers.The boat and tractor vehicles have also been prepared to be deployed.
+
+He also said that if there is a problem to travel to the exam before a disaster, he added and the 244 134-hour operation will be telephoned and obtain necessary assistance.
+
+However, no significant rainfall in the Matara district has received significant rainfall today (24) at 4.00 pm.
+
+According to the Matara Disaster Management Unit, the Matara Disaster Management Unit (DMC) said.
+
+◼️
+
+[Data](articles/749c9f6b.json)
+
+[Extended Data](ext_articles/749c9f6b.ext.json)
+
+---
+
+### New weapon against Tamils!
+
+*2024-11-24 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199541) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New weapon against Tamils! National power aims to expand control in North and East. Not addressing people's aspirations or meeting fair expectations.
+
+🟩
+
+“As far as the national popular power is concerned, it is intended to spread its powers across the North and East- not ready to solve the aspirations of the people or meet fair expectations.”
+
+◼️
+
+[Data](articles/7ab2ce25.json)
+
+[Extended Data](ext_articles/7ab2ce25.ext.json)
+
+---
+
+### A man arrested with ice and heroin in Kelaniya
+
+*2024-11-24 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199540) · `ta`
+
+Arrest made in Kelaniya: 516g ice, 10g heroin seized. Suspect apprehended based on tip-off.
+
+🟩
+
+A suspect has been arrested by police on Saturday (23) with ice and heroin in the Patalahenawatta area belonging to the Kelani Police Division.
+
+He was arrested on the basis of confidential information received by a group of police officers of the Kelaniya Police Station.
+
+516 grams of ice and 10 grams of heroin were seized from the suspect.
+
+◼️
+
+[Data](articles/4df73c3e.json)
+
+[Extended Data](ext_articles/4df73c3e.ext.json)
+
+---
+
+### Who was responsible for the fall of the CWC?
+
+*2024-11-24 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199537) · `ta`
+
+CWC fell due to contesting elephant symbol against presidential election results. Party supporters believe two seats could've been won if they'd contested with cock symbol instead.
+
+🟩
+
+The CWC decided to contest the elephant symbol for the Sinhala votes, despite the presidential election results, which all the Sinhalese voters of the district were on the side of the national people's power.. Most of the party's supporters are of the opinion that sometimes the two seats may have been won if the cock has competed.
+
+◼️
+
+[Data](articles/3f504797.json)
+
+[Extended Data](ext_articles/3f504797.ext.json)
+
+---
+
+### Initiative
+
+*2024-11-24 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199574) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dam protection efforts underway in Mullaitivu district. Water level reaches 14.6 feet.
+
+🟩
+
+In the Mullaitivu district, the preceding arrangements are being made to protect the dam.It is noteworthy that the water level is now up to 14.6 feet.
+
+◼️
+
+[Data](articles/207f4d38.json)
+
+[Extended Data](ext_articles/207f4d38.ext.json)
+
+---
+
+### More than 150 millimeters of heavy rainfall in many provinces - the Department of Meteorology
+
+*2024-11-24 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199573) · `ta`
+
+Heavy rainfall warning: 150+ mm expected in multiple provinces. Eastern Province, Northern, Central, Uva, Hambantota districts at risk. Landslide danger in Galle, Matara, Kegalle, Badulla, Nuwara Eliya, Ratnapura districts.
+
+🟩
+
+The Department of Meteorology has said that more than 150 millimeters of heavy rainfall is expected in many provinces.
+
+Heavy rains are likely to occur in some parts of the Eastern Province.
+
+The Department of Meteorology has said that more than 100 millimeters of heavy rainfall is expected in the Northern, Central, Central and Uva provinces and some parts of the Hambantota district.
+
+The National Building Research Institute said that this risk of landslides has been extended to the districts of Galle, Matara, Kegalle, Badulla, Nuwara Eliya and Ratnapura.
+
+◼️
+
+[Data](articles/b6cd96b2.json)
+
+[Extended Data](ext_articles/b6cd96b2.ext.json)
 
 ---

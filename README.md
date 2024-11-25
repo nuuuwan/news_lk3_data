@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 22:17:12**
+As of **2024-11-26 00:01:41**
 
 ## Newspaper Stats
 
-*Scraped **56,852** Articles*
+*Scraped **56,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,210 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 577
 bbccomsinhala | 591
 islandlk | 3,406
-economynextcom | 3,445
+economynextcom | 3,448
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,353
-adaderanalk | 6,874
+adalk | 5,354
+adaderanalk | 6,876
 tamilmirrorlk | 8,089
-virakesarilk | 9,269
-adaderanasinhalalk | 9,815
+virakesarilk | 9,272
+adaderanasinhalalk | 9,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,851 (100.0%) of 56,852 articles have been extended.
+56,863 (100.0%) of 56,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### Chinese delegation and President meets
+
+*2024-11-25 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203732) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Chinese delegation meets Sri Lankan President Anura Kumara Dissanayake. China offers cooperation on development initiatives, including investment, technology transfer, digitization, and rural economy support. President thanks for continued assistance.
+
+🟩
+
+The Member of the Member of the Member of the Communist Party Central Committee of the Communist Party won the China delegation at the President's Office today (25) at the Presidential Secretariat.
+
+The victory of Anura Kumara Dissanayake in the last presidential election and his congratulations were made in the general election and the victory of his party at the general election.
+
+The Deputy Minister's leader also stated that China was ready to work close cooperation with Sri Lanka under the leadership of President Anura Kumara Dissanayake.
+
+The focus on development prospects in China and Sri Lanka and discussed the importance of a mutually advantageous long-term cooperation program between the two countries.
+
+The delegation also informed Sri Lanka that China is willing to support Sri Lanka for various development initiatives, including investment promotion, technology transfer, digitization and rural economy.
+
+...
+
+[Data](articles/fb4b6a97.json)
+
+[Extended Data](ext_articles/fb4b6a97.ext.json)
+
+---
+
+### Field lands drowned in Thambalakamam by heavy rains
+
+*2024-11-25 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199682) · `ta`
+
+Heavy rains flood fields in Thambalakamam, affecting crops and displacing families. Emergency shelters set up at local school. Disaster management teams deployed to assist affected residents.
+
+🟩
+
+Due to the inclement weather, many acres of fields in the Thambalakamam Divisional Secretariat have been affected by water.
+
+Farmers say that due to heavy rains, the fields of the Thambalakamam Kovili area have been submerged.
+
+Due to the continuous rainfall, the low -lying areas of the Thambalakamam Divisional Secretariat have been flooded, especially in the Grama Niladhari Divisions of Mullipothana, Meera Nagar and Palataru Grama Niladhari Divisions.Taken.
+
+Some families of Patinipura in the Grama Sevakar area of ​​Palampottar have been housed in a nearby school. All arrangements have been made by the Divisional Secretariat and other activities have been taken through the Disaster Management Center.
+
+It is noteworthy that the Disaster Management Development Officer is also on duty in accordance with the guidance of the Divisional Secretary.
+
+◼️
+
+[Data](articles/6e1c5602.json)
+
+[Extended Data](ext_articles/6e1c5602.ext.json)
+
+---
+
+### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
+
+*2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and shallow sea areas around the island today (25) as a low pressure area intensifies over South-East Bay of Bengal.
+
+The low pressure area over the southwest Bay of Bengal intensified into a depression over the central-southwest Bay of Bengal by this morning.
+
+The system was located about 530 km southeast of Trincomalee at around 11.30 a.m. today. It is likely to move closer to the East coast of the island and intensify into a deep depression during next 24 hours, the advisory said.
+
+Very heavy showers above 150 mm are likely at some places in Northern province and Trincomalee District while heavy showers above 100 mm are likely at some places in Northern, North-central, Central and Uva provinces and in Batticaloa, Ampara district due to the influence of the aforementioned system.
+
+...
+
+[Data](articles/ea71be76.json)
+
+[Extended Data](ext_articles/ea71be76.ext.json)
+
+---
+
+### Satyagraha struggle that continues in front of the Foreign Employment Bureau
+
+*2024-11-25 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199662) · `ta`
+
+Sri Lanka: Protesters demand E8 visa for South Korea jobs. Foreign Employment Bureau denies opportunities. Government intervention sought.
+
+🟩
+
+Some people who are looking forward to working for South Korea for South Korea on the E8 visa have been fighting in front of the Sri Lanka Foreign Employment Bureau in Battaramla, saying they have not had the opportunity to go to Korea due to the attention of the authorities.
+
+Minister Vijitha Herath met with some of the protesters last Friday. In the meantime, the E8 Visa said that action would be taken to take the necessary measures to legalize South Korea.
+
+However, the foreign employment work is hiding the opportunities for South Korea, so they are struggling to prolong the time as they have to go to work.
+
+But it is illegal to send to business on E8 visa. The President of the Sri Lanka Foreign Employment Bureau said it could not be allowed. As well as the console is not likely to get a visa without knowing. The Chairman of the Bureau said that there is no truth in reporting that we have got a career opportunity for South Korea.
+
+...
+
+[Data](articles/eacefb51.json)
+
+[Extended Data](ext_articles/eacefb51.ext.json)
+
+---
+
+### The landslide warning imposed on 6 districts is further extended for the next 24 hours
+
+*2024-11-25 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199672) · `ta`
+
+Landslide warnings extended: 6 districts (Badulla, Galle, Kegalle, Matara, Nuwara Eliya, Ratnapura) for 24 hours. Meteorology department issues alert for Northern Province and Trincomalee District for 36 hours.
+
+🟩
+
+The landslide risk notice issued to the six districts of Badulla, Galle, Kegalle, Matara, Nuwara Eliya and Ratnapura has been extended for a further 24 hours.
+
+Meanwhile, the Department of Meteorology made a statement in the Northern Province and Trincomalee District in the next 36 hours in the next 36 hours.
+
+◼️
+
+[Data](articles/161b81f3.json)
+
+[Extended Data](ext_articles/161b81f3.ext.json)
+
+---
+
+### Holidays for all Muslim schools in the Eastern Province on the 26th and 27th
+
+*2024-11-25 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199681) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Holidays: All Muslim schools in Eastern Province closed on 26th & 27th. Classes resume on Saturday."
+
+🟩
+
+All Muslim schools in the Eastern Province have been granted holidays tomorrow and tomorrow and 27th.
+
+The answer is that the school will be held on Saturdays, he added.
+
+◼️
+
+[Data](articles/33ae0e70.json)
+
+[Extended Data](ext_articles/33ae0e70.ext.json)
+
+---
+
+### Landslid warns to several other areas
+
+*2024-11-25 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203731) · `si`
+
+National Building Research Organization issues landslide warnings for Badulla and Matale districts starting 9 PM tomorrow. Areas affected include Haldummulla, Ella, Halani, Hagahala, Hawulla, Ambanganga Koralaya, Aratota, Ukuwela, Wilgamuwa, and Naula.
+
+🟩
+
+The National Building Research Organization has taken steps to issue a pre-landson of landslides for several areas.
+
+The organization said that the warning announcement operates from 9.00 pm from 9.00 pm tomorrow (25).
+
+Badulla District - Haldummulla, ⁠hella, ⁠ (⁠halani, ⁠hagahala, ⁠hawulla, ⁠hawulla,
+
+Matale District - Ambanganga Koralaya, ⁠aratota, Ukuwela, Wilgamuwa, Naula, Naula, Matale
+
+◼️
+
+[Data](articles/bfe299a5.json)
+
+[Extended Data](ext_articles/bfe299a5.ext.json)
+
+---
+
+### President urges grassroots solutions and law enforcement for disaster management
+
+*2024-11-25 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103761/president-urges-grassroots-solutions-and-law-enforcement-for-disaster-management) · `en`
+
+President Anura Kumara Dissanayake has emphasized that simply reinforcing institutional frameworks is insufficient for effective disaster management. The President stressed the need to establish mechanisms to deliver practical solutions at the grassroots level, the President’s Media Division (PMD) stated in a statement.
+
+Speaking at the swearing-in ceremony of Deputy Defence Minister Aruna Jayasekara today (25), President Dissanayake highlighted the importance of empowering local government institutions to prevent disasters in vulnerable areas and develop innovative solutions, the PMD said.
+
+The President noted that the country’s disaster management laws were formulated after considerable study and that it is the responsibility of officials to implement them effectively. He assured his unwavering support for any official who upholds their duties with integrity and called on Government officials to propose enhancements to the legal framework if needed.
+
+...
+
+[Data](articles/d364e202.json)
+
+[Extended Data](ext_articles/d364e202.ext.json)
+
+---
 
 ### Youth missing in Bandaragama
 
@@ -61,30 +247,6 @@ The police were conducting search operations in the policemen.
 [Data](articles/15558661.json)
 
 [Extended Data](ext_articles/15558661.ext.json)
-
----
-
-### Holidays for all Muslim schools in the Eastern Province on the 26th and 27th
-
-*2024-11-25 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199681) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Holidays: All Muslim schools in Eastern Province closed on 26th & 27th. Classes resume on Saturday."
-
-🟩
-
-All Muslim schools in the Eastern Province have been granted holidays tomorrow and tomorrow and 27th.
-
-The answer is that the school will be held on Saturdays, he added.
-
-◼️
-
-[Data](articles/33ae0e70.json)
-
-[Extended Data](ext_articles/33ae0e70.ext.json)
 
 ---
 
@@ -610,6 +772,30 @@ During the session, Parliamentarian Sajith Premadasa shared the experiences of w
 
 ---
 
+### Sri Lanka’s Alliance Finance to list Rs1bn green bond issue
+
+*2024-11-25 18:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-alliance-finance-to-list-rs1bn-green-bond-issue-189831/) · `en`
+
+CONOMYNEXT – Sri Lanka’s Alliance Finance Company Plc plans to issue redeemable green bonds to raise 1 billion rupees, the company said.
+
+A maximum of ten million bonds will be issued at one hundred rupees each.
+
+The listed, rated, guaranteed, senior redeemable, bonds will have a three year term.
+
+“The interest rates will be decided closer to the finalization of the issue based on the prevailing market rates at the time,” the bank said in a stock exchange filing.
+
+The issue has received central bank approval; Colombo Stock Exchange approval is pending.
+
+Alliance Finance stock closed down at 127.00 on Monday. (Colombo/Nov25/2024)
+
+◼️
+
+[Data](articles/25d6a275.json)
+
+[Extended Data](ext_articles/25d6a275.ext.json)
+
+---
+
 ### Warrant to Douglas Devananda recalled
 
 *2024-11-25 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203725) · `si`
@@ -760,6 +946,28 @@ The former minister, who knows this is a fraudulent check, is still being invest
 
 ---
 
+### Foreigners buy Sri Lanka’s govt securities for 10th straight week on net basis
+
+*2024-11-25 17:54:00* · [`economynextcom`](https://economynext.com/foreigners-buy-sri-lankas-govt-securities-for-10th-straight-week-on-net-basis-189832/) · `en`
+
+ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the 10th straight week ended on November 21, the Central Bank data showed.
+
+Analysts said investors speculate a rate cut by the central bank during this week’s Monetary Policy Review meeting scheduled for late on Tuesday. The latest monetary policy rates will be announced on Wednesday (27).
+
+They said some investors have been buying to make some profits due to appreciation of the rupee currency and fall in market interest rates.
+
+Sri Lanka witnessed 702 million rupees ($2,38 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on November 21, extending the total inflows into treasury bonds and bills to 16.2 billion rupees (($55 mln) in the 10 straight weeks, the official data showed.
+
+The value of government securities held by foreign investors was at 55,545 million rupees by November 21.
+
+...
+
+[Data](articles/acd75d8e.json)
+
+[Extended Data](ext_articles/acd75d8e.ext.json)
+
+---
+
 ### Allu Arjun starrer 'Pushpa 2'
 
 *2024-11-25 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199667) · `ta`
@@ -787,6 +995,36 @@ Director Nelson and Producer Tanu participated in a special event at the Galle H
 [Data](articles/a0c59917.json)
 
 [Extended Data](ext_articles/a0c59917.ext.json)
+
+---
+
+### Siripa is please fined Rs 160000 to 4 Malkadu
+
+*2024-11-25 17:43:53* · [`adalk`](https://www.ada.lk/breaking_news/සිරිපා-කරුණාකර-පැලෑටිවලින්-මල්කැඩූ-4ට-රු-160000ක්-දඩ/11-413263) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Four individuals fined Rs 160,000 for entering a butterfly reserve. Charges filed under Fauna and Flora Ordinance. Magistrate imposed Rs 400,000 per charge, totaling Rs 60,000 for each defendant.
+
+🟩
+
+Ratnapura Additional Magistrate Beyoani Vedrikoo departed to a fine of Rs.
+
+The fine was fined by SD of Pitadenuwa. Hirzasha Lakshan Chandrasekara, KM. Piyumi Maheshika, Kitugala, Kituna, Naragalwala, Naragalla, Naragallawala. Hasitha Nayanjith Dayananda and K.n.n.n.n.Chel were on the four.
+
+Two charges were filed against the four charges under the Fauna and Flora Ordinance. The four charges were made by entering the butterfly nature reserve of the butterfly nature reserve on the 7th of September 7, 2024 and in the role of the butterfly nature reserve.Are filed.
+
+The flowers who were broken from the butterfly nature reserve have been published in the face. The Head Office of the Department of Wildlife Conservation was lodged by the Office of the Samanala nature reserve in the Sri Lanka Natural Reserve.
+
+The defendants were arrested by their facial account accounts. The suspects welcomed the blame in court.
+
+...
+
+[Data](articles/db7aaeda.json)
+
+[Extended Data](ext_articles/db7aaeda.ext.json)
 
 ---
 
@@ -848,6 +1086,26 @@ He said that the disaster management legal systems have been prepared and that i
 
 ---
 
+### Sri Lanka PM calls for shift in societal attitudes on vocational education
+
+*2024-11-25 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-pm-calls-for-shift-in-societal-attitudes-on-vocational-education-189724/) · `en`
+
+ECONOMYNEXT – Prime Minister Harini Amarasuriya has called for a shift in societal attitudes on vocational education as it is a pathway to economic growth.
+
+“Vocational education must no longer be viewed as a secondary option but as a prestigious pathway to a bright future and economic growth,” Amarasuriya was quoted as saying in a government statement.
+
+“Vocational education should be a respected choice, offering a clear pathway from school to higher education while contributing directly to the economy.”
+
+She was speaking during the official commencement of duties by Deputy Minister of Vocational Education Nalin Hewage. (Colombo/Nov25/2024)
+
+◼️
+
+[Data](articles/ccc6cf86.json)
+
+[Extended Data](ext_articles/ccc6cf86.ext.json)
+
+---
+
 ### PM emphasizes importance of restoring parliamentary supremacy
 
 *2024-11-25 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103757/pm-emphasizes-importance-of-restoring-parliamentary-supremacy) · `en`
@@ -868,19 +1126,31 @@ In her address, Prime Minister Dr. Harini Amarasuriya congratulated the newly el
 
 ---
 
-### කුවේටයේ සිටි ලාංකික සිරකරුවන් 32ක් ලංකාවට පිටුවහල් කරයි
+### 32 Sri Lankan prisoners in Kuwait deported to Sri Lanka
 
 *2024-11-25 17:23:16* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-සිටි-ලාංකික-සිරකරුවන්-32ක්-ලංකාවට-පිටුවහල්-කරයි/11-413262) · `si`
 
-කුවේට් රාජ්‍යය සහ ශ්‍රී ලංකාව අතර 2007 වසරේ අත්සන් තබා ඇති සිරකරුවන් හුවමාරු කිරීමේ ගිවිසුම යටතේ , එරට මධ්‍යම බන්ධනාගාරයේ මත්ද්‍රව්‍ය චෝදනාවලට සිර දඩුවම් විදිමින් සිටින ශ්‍රී ලාංකික සිරකරුවන් 104 දෙනෙකු අතරින් 32 දෙනෙකු , ඉතිහාසයේ පළමු වතාවට , කුවේට් රාජ්‍යයේ සිට විශේෂ ගුවන් යානකින් කටුනායක ගුවන් තොටුපොළ වෙත 11/25 දින පස්වරුවේ පැමිණ තිබුණි .
+Here's a summary of the text in approximately 200 characters:
 
-මෙම ශ්‍රී ලාංකිකයන්  කුවේට් රාජ්‍යය තුළ භයානක ඝනයේ මත්ද්‍රව්‍ය පාවිච්චි කිරීම , වෙළෙඳාම් සහ ජාවාරම් කිරීම සහ ප්‍රවාහනය කිරීම යන චෝදනා යටතේ එරට ආරක්ෂක අංශ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන , අධිකරණයට ඉදිරිපත් කර , වැරදිකරුවන් වූ පිරිසකි
 
-මොවුන් අතරින් කොටසක් ශ්‍රී ලංකාවට එවීම සදහා ඉකුත් මාර්තු මාසයේ සිට කුවේට් රාජ්‍යයේ  ශ්‍රී ලංකා තානාපති කාන්දීපන් බාලසුබ්‍රමනියම් මහතා ප්‍රයත්න දරා තිබූණි .
+
+32 Sri Lankan prisoners deported from Kuwait to Sri Lanka. Arrested for drug trafficking. Sent back under diplomatic efforts. Arrived at Katunayake airport. Transferred to Welikada Prison.
+
+🟩
+
+32 of Sri Lankan prisoners in the country's central prisoners at the Central Prison of the Kuwait State and Sri Lanka, 32 Sri Lankan prisoners to the Katunayake airport from Kuwait from Kuwait.The next afternoon had come.
+
+These Sri Lankans have been arrested by the security forces of the security forces, traffickers, tracketing and transportation and transportation of the narcotics of the kingdom of the kingdom of the kingdom of the narcotics, marketing and trading and transportation.
+
+Sri Lanka's Ambassador to Kuwait from Kuwait from March to be sent to Sri Lanka.
+
+Later, after the internal relations with the Sri Lankan Ambassador to the King of Kuwait and the Interior Reconciliation of the Sri Lankan Ambassador with the Interior Ambassador to the Sri Lankan Ambassador, the largest cit of these Sri Lankans to send the people to Sri Lanka to the Kuwait Air Force.Had been able to get free.
 
 ...
 
 [Data](articles/fdef482a.json)
+
+[Extended Data](ext_articles/fdef482a.ext.json)
 
 ---
 
@@ -2281,247 +2551,5 @@ To even consider the validity of the above statement, one must look into the con
 [Data](articles/28b393ff.json)
 
 [Extended Data](ext_articles/28b393ff.ext.json)
-
----
-
-### Return to Normalcy: After Rajapaksa Kakistocracy and Supercilious Ranilocracy
-
-*2024-11-25 13:42:00* · [`islandlk`](http://island.lk/return-to-normalcy-after-rajapaksa-kakistocracy-and-supercilious-ranilocracy/) · `en`
-
-A word first used in 17th century England is gaining new currency in 21st century America. Kakistocracy, a Greek derivative per usual, means government administered by the worst group of citizens – in qualification, competence, experience and scruples. Kakistocracy is in full display in the US with the election of Donald Trump as president for a second term. America is returning to chaos not heeding Kamala Harris’s warning against going back.
-
-In Sri Lanka, Rajapaksas epitomized Kakistocracy for nearly two decades before it imploded under Gotabaya Rajapaksa. After them came Ranil Wickremesinghe to clean up the economic mess left behind by the Rajapaksas. To his credit, Mr. Wickremesinghe did clean up the economic mess. But he also created a political mess, characteristically and superciliously
-
-...
-
-[Data](articles/c3d394a2.json)
-
-[Extended Data](ext_articles/c3d394a2.ext.json)
-
----
-
-### The student who jumped with the girlfriend because the parents refused
-
-*2024-11-25 13:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெற்றோர்-மறுத்ததால்-தோழியுடன்-குதித்த-மாணவி/76-347729) · `ta`
-
-A 17-year-old girl from Kandy's Teldeniya area died jumping into Victoria Reservoir with her boyfriend. She drowned; he survived. Police say it was due to depression over parental disapproval of their relationship.
-
-🟩
-
-The incident took place on Saturday afternoon (23) after a schoolgirl jumped into the Victoria reservoir.
-
-The death of a 17 -year -old schoolgirl from the Teldeniya area in Kandy has died.
-
-The student has tried to jump into the Victoria reservoir with her girlfriend and the other student has disappeared in the water as the girlfriend has been saved and brought to shore.
-
-Subsequently, the body of the missing school student has been found by the police. The rescued girlfriend has been admitted to the Teldeniya Hospital for treatment.
-
-Police investigations revealed that the student's life was lost because of the depression of the student's refusal to the student's romantic relationship.
-
-◼️
-
-[Data](articles/269a21e4.json)
-
-[Extended Data](ext_articles/269a21e4.ext.json)
-
----
-
-### The Prime Minister’s visits to Geneva and Mexico City and balancing Indo-Lanka ties
-
-*2024-11-25 13:40:00* · [`islandlk`](http://island.lk/the-prime-ministers-visits-to-geneva-and-mexico-city-and-balancing-indo-lanka-ties/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-In June 1975, the Prime Minister was honoured by the international community with two important assgnments. The first was by the International Labour Organization (ILO), where she was invited to make the keynote address to the new ILO sessions opening in Geneva. The second was by the United Nations where she was invited to make the keynote address at the First UN International Conference on Women to be held in Mexico City, Mexico. She was also due to address The Group of 77 in Geneva.
-
-Manel Abeysekera of the Foreign Ministry and I, accompanied the Prime Minister. We had three major speeches to work on. We already had drafts ready, which were the result of much work and many refinements. But we had decided to finalize them in Geneva after two of our ablest diplomats, Susantha de Alwis and Karen Breckenridge perused them. Gamani Corea was to go through the Group of 77 speech in particular.
-
-...
-
-[Data](articles/55947d5e.json)
-
-[Extended Data](ext_articles/55947d5e.ext.json)
-
----
-
-### The Dawn of a New Era
-
-*2024-11-25 13:36:00* · [`islandlk`](http://island.lk/the-dawn-of-a-new-era/) · `en`
-
-About 20 years ago, I used the same title, in a writing dealing with Mahinda Rajapaksa’s triumphant ascent to power, published in an issue of the Sunday Island. In that I expressed my deep apprehensions of a Rajapaksa dispensation. As the years unfolded, the grim realities of years of misrule, with the younger Rajapaksa outdoing the elder brother in criminality, corruption and incompetence, exceeded the worst fears of my imagination. In between, not to be forgotten, there was also the crushingly disappointing “yahapalanya” farce, perpetrated by the Sirisena-Wickremesinghe collaboration.
-
-...
-
-[Data](articles/660f2a21.json)
-
-[Extended Data](ext_articles/660f2a21.ext.json)
-
----
-
-### Controversy as the houses have been left without handing over
-
-*2024-11-25 13:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடுகளை-ஒப்படைக்காமல்-வெளியேறியதால்-சர்ச்சை/175-347728) · `ta`
-
-Sri Lankan controversy: 80 former MPs returned homes, 20 still pending. Officials warn non-returners face water/electricity cutoff. Deadline set for December 3, 2024.
-
-🟩
-
-Since five former MPs have left Sri Lanka, they have failed to hand over their official government resources in the Madiwala Housing constituency for MPs.
-
-As a result, the parliamentary officials responsible for the Housing of Parliament are facing the problems, the Sri Lankan newspaper said.
-
-It is reported that 80 former MPs have handed over their official homes so far and only twenty former MPs have not returned the houses so far.
-
-Parliamentary officials have once again reminded the former MPs who have not yet handed over the houses.
-
-It was reported that seven former MPs had handed over their official residences in the Madiwala housing constituency last Saturday.
-
-It has been announced by parliamentary officials that if the former MPs do not return their homes immediately, they will be cut off drinking water and electricity.
-
-Official residences at the Madiwale Housing Complex will be handed over to new MPs on December 3, 2024.
-
-◼️
-
-[Data](articles/d8e3ce36.json)
-
-[Extended Data](ext_articles/d8e3ce36.ext.json)
-
----
-
-### ADB approves $200mn Sri Lanka loan for battery storage, grid upgrade
-
-*2024-11-25 13:28:00* · [`economynextcom`](https://economynext.com/adb-approves-200mn-sri-lanka-loan-for-battery-storage-grid-upgrade-189761/) · `en`
-
-ECONOMYNEXT – Manila-based Asian Development Bank said it had approved a 200 million dollar loan to upgrade Sri Lanka’s power grid to accommodate more renewable energy and build a battery storage system.
-
-The loans will be contingent on reforms on cost recovery and competitive renewable energy, the ADB said.
-
-“Driving power sector reforms, combined with targeted infrastructure interventions, is essential to facilitate competitive renewable energy development and reduce power generation costs,” ADB Country Director for Sri Lanka Takafumi Kadono said in the statment.
-
-“By expanding and modernizing infrastructure and incorporating digitalization solutions, this project will support the government’s goal of increased integration of renewable energy in the electricity mix, reduce power interruptions, and minimize transmission and distribution losses.
-
-Ceylon Electricity Board will get 150 million dollars and Lanka Electric Company 50 million dollars.
-
-◼️
-
-[Data](articles/d665a9ec.json)
-
-[Extended Data](ext_articles/d665a9ec.ext.json)
-
----
-
-### If you kill me, I have promised to kill the president - the Vice President of the Philippines
-
-*2024-11-25 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199627) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Philippine Vice President Sara Duterte threatens retaliation if killed, citing presidential order. Security Council investigates threat. Political alliance between Sara Duterte and President Marcos strained over drug war policy.
-
-🟩
-
-The Vice President of the Philippines, Sara Dutterte, has said that President Berdinent Marcos has appointed a person to kill him after killing him.
-
-Commenting on the intensification of the conflict between the two major political families of Southeast Asia, the vice -president said that if I kill me, the Philippine president has appointed a murderer to kill his wife and Speaker.
-
-I have spoken to someone, and if I am murdered, the President of the Philippines has asked him to kill his wife and Speaker, this is not fun.
-
-"I have been asked not to stop until they kill them," he said.
-
-The Vice President of the Philippines said that we are dragged to hell by a man who does not know how to act as a president.
-
-Meanwhile, an official said the Security Council would investigate the threat.
-
-The official said that all threats against the president will be investigated, which is a matter of national security.
-
-...
-
-[Data](articles/ca89d275.json)
-
-[Extended Data](ext_articles/ca89d275.ext.json)
-
----
-
-### Unable to provide immediate solution to ‘E-8 visa’ issue – SLBFE chairman
-
-*2024-11-25 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103748/unable-to-provide-immediate-solution-to-e-8-visa-issue-slbfe-chairman) · `en`
-
-A group of individuals holding South Korean E-8 visas is engaged in a continuous protest in front of the Sri Lanka Foreign Employment Bureau (SLFEB) in Battaramulla, demanding solutions to their issues.
-
-The E-8 visa, issued for short-term employment in South Korea’s agricultural sector, is valid for six months. Protesters claimed that their visas are set to expire tomorrow (26) and insisted they would not abandon the agitation until authorities provide a definitive solution.
-
-The Chairman of the Sri Lanka Foreign Employment Bureau (SLFEB) Kosala Wickramasinghe, speaking on Ada Derana’s current affairs programme ‘Big Focus’, acknowledged the issue but stated that an immediate solution could not be provided. He emphasized that illegal visa schemes had contributed to the problem and warned against falling prey to fraudulent groups.
-
-...
-
-[Data](articles/db9ffa9a.json)
-
-[Extended Data](ext_articles/db9ffa9a.ext.json)
-
----
-
-### ADB approves $200 million loan to advance power system expansion in Sri Lanka
-
-*2024-11-25 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103747/adb-approves-200-million-loan-to-advance-power-system-expansion-in-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) has approved a $200 million loan to upgrade Sri Lanka’s power sector infrastructure, enhancing the reliability of transmission and distribution networks and facilitating greater integration of renewable energy.
-
-“Driving power sector reforms, combined with targeted infrastructure interventions, is essential to facilitate competitive renewable energy development and reduce power generation costs,” said ADB Country Director for Sri Lanka Takafumi Kadono. “By expanding and modernizing infrastructure and incorporating digitalization solutions, this project will support the government’s goal of increased integration of renewable energy in the electricity mix, reduce power interruptions, and minimize transmission and distribution losses.”
-
-...
-
-[Data](articles/4aa2fd13.json)
-
-[Extended Data](ext_articles/4aa2fd13.ext.json)
-
----
-
-### Jonathan Alles appointed to Sri Lanka’s Singer board
-
-*2024-11-25 12:45:00* · [`economynextcom`](https://economynext.com/jonathan-alles-appointed-to-sri-lankas-singer-board-189664/) · `en`
-
-ECONOMYNEXT – Antonio Jonathan Alles has been appointed to the board of Singer Plc, the company said in a stock exchange filing.
-
-Alles was appointed as an independent non-executive director, member of the audit committee, related party transaction committee, nominations and governance committee and remuneration committee, effective November 22.
-
-He was previously the managing director and chief executive officer of Hatton National Bank Plc and director and chairman of Sri Lanka Banks Association (SLBA) from 2014 to 2016.
-
-He was also the chairman of the Asian Bank’s Association in 2018.
-
-Alles has been in the banking industry for 37 years and currently serves on the boards of four other companies.
-
-Jonathan Alles: building a future-ready financial services conglomerate on hnb’s 133-year legacy
-
-◼️
-
-[Data](articles/5b50f280.json)
-
-[Extended Data](ext_articles/5b50f280.ext.json)
-
----
-
-### Bail for Sujeeva's luxury vehicle
-
-*2024-11-25 12:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜீவவின்-சொகுசு-வாகனத்திற்கு-பிணை/175-347727) · `ta`
-
-Sujeewa Senasinghe's luxury vehicle case: Bail set at 100 million rupees after court order. Vehicle seized for analysis due to suspicion of illegal importation. Former MP must submit report to government analyst within 48 hours.
-
-🟩
-
-The controversial luxury vehicle of former parliamentarian Sujeewa Senasinghe, who was placed in custody. 100 million has been released on bail.
-
-About around Rs.. It was suspected that the luxury vehicle worth 100 million was illegally organized by former MP Sujeewa Senasinghe.
-
-On November 08, Senasinghe was appointed to submit a report to the government analyst, following suspicions about the status of the vehicle.
-
-On November 11, the Fort Magistrate's Court ordered the Criminal Investigation Division to take the former MP's vehicle in the custody of the State Analyst's Department.
-
-◼️
-
-[Data](articles/eb05a21c.json)
-
-[Extended Data](ext_articles/eb05a21c.ext.json)
 
 ---

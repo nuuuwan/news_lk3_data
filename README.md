@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 09:08:32**
+As of **2024-11-25 09:22:58**
 
 ## Newspaper Stats
 
-*Scraped **56,703** Articles*
+*Scraped **56,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,31 @@ dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,331
 adaderanalk | 6,851
-tamilmirrorlk | 8,054
+tamilmirrorlk | 8,055
 virakesarilk | 9,244
-adaderanasinhalalk | 9,789
+adaderanasinhalalk | 9,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,702 (100.0%) of 56,703 articles have been extended.
+56,702 (100.0%) of 56,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### ஹரீஸ் இடைநிறுத்தம்
+
+*2024-11-25 09:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரீஸ்-இடைநிறுத்தம்/175-347710) · `ta`
+
+ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸின்  உறுப்பினர் பதவியிலிருந்து , முன்னாள் எம்.பி ஹரீஸ் இடைநிறுத்தம்
+
+◼️
+
+[Data](articles/a2cec773.json)
+
+---
 
 ### What is the current state of the windmill?
 
@@ -63,6 +75,20 @@ In some places in the Eastern Province, more than 150 millimeters of heavy rainf
 [Data](articles/1acbeac5.json)
 
 [Extended Data](ext_articles/1acbeac5.ext.json)
+
+---
+
+### බිහිසුණු බස් අනතුරක්
+
+*2024-11-25 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203703) · `si`
+
+අද (25) උදෑසන වටවල ප්‍රදේශයේ දී පෞද්ගලික බස් රථයක් සහ ලංගම බස් රථයක් එකිනෙක ගැටී අනතුරක් සිදුව තිබේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ අනතුරින් සිව්දෙනෙකුට තුවාල සිදු වී ඇති බවයි.
+
+◼️
+
+[Data](articles/d572e79a.json)
 
 ---
 
@@ -1918,7 +1944,7 @@ Accordingly, the appointment will come into effect from 25 November 2024, as per
 
 *2024-11-24 18:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-40-pct-to-september-taxes-up-39-pct-189603/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s tax revenue were up 39 percent to 2,918.3 billion rupees in the nine months to September 2024 from a year ago, while the budget deficit was down 40 percent, official data show.
+ECONOMYNEXT – Sri Lanka’s tax revenue was up 39 percent to 2,918.3 billion rupees in the nine months to September 2024 from a year ago, while the budget deficit was down 40 percent, official data show.
 
 Tax revenues were going in line with a 40 percent projection in the budget, though collections can be lumpy and unevenly distributed across months.
 
@@ -2269,53 +2295,5 @@ The International Criminal Court has said that Israeli Prime Minister Benjamin N
 [Data](articles/0be9b223.json)
 
 [Extended Data](ext_articles/0be9b223.ext.json)
-
----
-
-### Is the closure of the camps?
-
-*2024-11-24 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199545) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Namal Rajapaksa suggests closing refugee camps after consulting security forces to avoid issues with releasing public land.
-
-🟩
-
-Namal Rajapaksa has posted on the Rajapaksa X site that such decisions should be taken in consultation with the security forces so that it is not a problem to re -release the public land.
-
-◼️
-
-[Data](articles/77f7fa38.json)
-
-[Extended Data](ext_articles/77f7fa38.ext.json)
-
----
-
-### Two arrested with whale vomit
-
-*2024-11-24 17:39:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திமிங்கல-வாந்தியுடன்-இருவர்-கைது/175-347689) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"2 arrested in Anuradhapura for possessing whale vomit worth Rs 8m. Police found 1kg of ambergris, a rare & valuable whale-derived material. Suspects: 36yo from Tangalle & 24yo from Kalepindunuwewa."
-
-🟩
-
-Two persons who illegally kept the whale vomit worth Rs 8 million have been arrested in Anuradhapura during a police raid.
-
-A kilogram of ambergiris was discovered from the suspects and this is the most rare and expensive material derived from the whales.
-
-A 36 -year -old man from Tangalle and a 24 -year -old man living in Kalepindunuwewa, Kokawewa, have been arrested with a motorcycle used for smuggling.
-
-◼️
-
-[Data](articles/9d391a7a.json)
-
-[Extended Data](ext_articles/9d391a7a.ext.json)
 
 ---

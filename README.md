@@ -1,36 +1,306 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 06:47:36**
+As of **2024-11-25 09:08:32**
 
 ## Newspaper Stats
 
-*Scraped **56,689** Articles*
+*Scraped **56,703** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
-bbccomsinhala | 587
-islandlk | 3,404
+bbccomsinhala | 588
+islandlk | 3,405
 economynextcom | 3,433
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,328
-adaderanalk | 6,850
-tamilmirrorlk | 8,050
+adalk | 5,331
+adaderanalk | 6,851
+tamilmirrorlk | 8,054
 virakesarilk | 9,244
-adaderanasinhalalk | 9,785
+adaderanasinhalalk | 9,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,683 (100.0%) of 56,689 articles have been extended.
+56,702 (100.0%) of 56,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### What is the current state of the windmill?
+
+*2024-11-25 08:45:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றழுத்த-தாழ்வு-மண்டலத்தின்-தற்போதைய-நிலை-என்ன/175-347709) · `ta`
+
+Windmill status: Southeast 500km from Batticaloa. Expected to intensify, move along east coast. Heavy cloud cover, showers/thunderstorms forecasted for northern, eastern regions. Potential for over 150mm rainfall in some areas. Strong winds predicted. Public advised to take precautions against lightning and gusts.
+
+🟩
+
+At around 02.30 am this morning, the windmill is located in the southeast about 500 km from Batticaloa.
+
+The Department of Meteorology has announced that the low -lying low -lying area in the southwestern Bengal Sea is likely to be a windmill in the Central South Bengal Sea this morning.
+
+At around 02.30 am, the organization is located in the southeast about 500 km from Batticaloa.
+
+It is believed that the system will continue to grow and travel near the east coast of the country.
+
+Due to the impact of this organization, the sky may be heavy with clouds in many parts of the country.
+
+Showers or thunderstorms will occur in the North, North Central, Eastern, Central and Uva provinces and Hambantota district.
+
+Widespread rain or thunderstorm in the other parts of the country in the evening or night. .
+
+Showers or thunderstorms can occur in the morning in the upper and northwestern coast.
+
+In some places in the Eastern Province, more than 150 millimeters of heavy rainfall. .
+
+...
+
+[Data](articles/1acbeac5.json)
+
+[Extended Data](ext_articles/1acbeac5.ext.json)
+
+---
+
+### Heavy showers above 150 mm expected in parts of the island
+
+*2024-11-25 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103735/heavy-showers-above-150-mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the low pressure area over the southwest Bay of Bengal is likely to intensify into a depression over the central-southwest Bay of Bengal by today morning.
+
+The system is located about 500 km southeast of Batticaloa at around 0230 this morning.The system is expected to further develop and move closer to the east coast of the island.
+
+Cloudy skies are expected over most parts of the island due to the influence of this system, it added.
+
+Meanwhile, showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Showers or thundershowers may occur over the coastal areas of Western and North-western provinces during the morning too, according to the department.
+
+...
+
+[Data](articles/717a73ae.json)
+
+[Extended Data](ext_articles/717a73ae.ext.json)
+
+---
+
+### Speaker's decision on doctor MP
+
+*2024-11-25 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203702) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Speaker Ashoka Ranwala discussed MP Dr. Archuvan Ramanathan's role as an MP.
+
+🟩
+
+Speaker Ashoka Ranwala said that MP Dr. Archuvun Ramanathan about the role of MP Dr. Archtuna.
+
+◼️
+
+[Data](articles/c7fe0510.json)
+
+[Extended Data](ext_articles/c7fe0510.ext.json)
+
+---
+
+### The GCE Advanced Level Examination
+
+*2024-11-25 07:42:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தரப்-பரீட்சை-இன்று-ஆரம்பம்/175-347707) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+GCE A/L Exam 2024 starts today at 8:30 AM. Commissioner advises examiners to bring IDs. Held at 2,312 centers till 20th March. 333,185 candidates sitting for the exam.
+
+🟩
+
+The GCE Advanced Level Examination for 2024 will commence today.
+
+As the exams begin at 8.30 am, the Commissioner General of Examinations Amit Jayasundera has advised the examiners to go to the examination stations with a valid ID.
+
+The exam will be held at 2,312 exam centers until the 20th of next month.
+
+333,185 will be lost to the GCE Advanced Level Examination this time. (A)
+
+◼️
+
+[Data](articles/2d9682e8.json)
+
+[Extended Data](ext_articles/2d9682e8.ext.json)
+
+---
+
+### Police notice on driving road in Badulla - Bibile on road
+
+*2024-11-25 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203701) · `si`
+
+Badulla-Bibile road closure: Police limit traffic 143km-144km. Open 6:30AM-6:00PM today, 6:00PM-6:00PM tomorrow. Landslide since 1824.11.11. Weather permitting.
+
+🟩
+
+The police have issued a statement to limit vehicle traffic at 143 and 144 kilometers in Badulla - Bibile road.
+
+The road will be opened from 6.30 am to 6.00 pm today (25) to 6 pm and the police will be closed from 6.00 pm tomorrow.
+
+The mountain range has been parked from 1824.11.111 due to the landslide above the road.
+
+The place has been inspected by the Executive Engineer of the National Building Research Institute and the Road Development Authority of the National Building Research Institute and the Road Development Authority.
+
+Speaking further the time when the road is opened in terms of existing weather conditions has further stated that the road can be reported.
+
+◼️
+
+[Data](articles/9e8b0c97.json)
+
+[Extended Data](ext_articles/9e8b0c97.ext.json)
+
+---
+
+### To Mahish and Thunny Rajasthan team
+
+*2024-11-25 07:28:38* · [`adalk`](https://www.ada.lk/sports/මහීෂ්-හා-වනිඳු-රාජස්තාන්-කණ්ඩායමට/9-413246) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lanka's 2025 IPL teams: 2 players & Royal Challengers Bangalore. Rajasthan Royals outbid Mumbai Indians for 2 crore.
+
+🟩
+
+The 2025 teams of Sri Lanka, two Sri Lankan players, and the Royal Royals of Wannu Hasaranga were bought at the Indian Premier League.
+
+Faning For Auction for Auction Rs. 2 crore. Although Mumbai Indians were offered to lands, the Rajasthan Royals won the country.
+
+The Rajasthan Royals team was passed at the auction of Rs.He also offers the Mumbai Indians, but the Royal Royals team won the end.
+
+◼️
+
+[Data](articles/05d78d61.json)
+
+[Extended Data](ext_articles/05d78d61.ext.json)
+
+---
+
+### A / L examination from today - A request to come before 8 am
+
+*2024-11-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203699) · `si`
+
+GCE A/L exam starts today, runs till Dec 20. Begin at 8:30 AM. Bring valid ID (National ID, passport, or driver's license). Complete candidate certification before arriving at the exam center.
+
+🟩
+
+The GCE Advanced Level Examination begins today (25).
+
+Accordingly, the examination will be held from 22 days from today to December 20.
+
+Meanwhile, the examination will begin at 8.30 am and the Commissioner General of Examinations Amit Jayasundara will inform the first time and to go to the examination centers.
+
+"You should take the examination center a valid identity sheet. The National Identity Card or a valid foreign passport or driver's license will be accepted by the Department of Registration of Persons. Unlike these three types of identity cards, nothing else cannot be used as an identity sheet. But the Department of Registration of Persons issues a temporary sheet is a temporary sheet as a valid identity card. No other document will be accepted. "
+
+The Commissioner General of Examinations also stated that it is necessary to verify the Candidate's Signature Qualified Person's Significantly.
+
+...
+
+[Data](articles/259580b7.json)
+
+[Extended Data](ext_articles/259580b7.ext.json)
+
+---
+
+### Strongness that is strong today
+
+*2024-11-25 06:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வலுவடையும்-தாழமுக்கம்/175-347706) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Bay of Bengal lowland strengthening today. Heavy rainfall (150mm) forecasted in Eastern Province. Wind speeds 60-70km/h expected in coastal areas from Mannar to Kankesanthurai."
+
+🟩
+
+The Department of Meteorology has predicted that the lowlands in the southeastern seas of the Bay of Bengal will be strengthened today and moving towards the northern seas of the country.
+
+The Department has predicted heavy rainfall of up to 150 millimeters in some areas of the Eastern Province of the country.
+
+It has been predicted that the seas from Mannar to Kankesanthurai, Thirukkonamalai, Batticaloa and Pottuvil will be blowing at speeds of 60 to 70 km / h.. (A)
+
+◼️
+
+[Data](articles/318f078b.json)
+
+[Extended Data](ext_articles/318f078b.ext.json)
+
+---
+
+### Flood hazard warning in Britain
+
+*2024-11-25 06:42:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரித்தானியாவில்-வெள்ள-அபாய-எச்சரிக்கை/50-347705) · `ta`
+
+Bert Storm floods Britain: Homes affected, 400 warnings issued, heavy rain in Scotland/Wales, southeast England, Northern Ireland. Transport disruptions possible due to strong winds.
+
+🟩
+
+Homes and roads have been flooded in various parts of the country as the Bert Storm hit Britain.
+
+In the meantime, the international media reports that 400 places across Britain have been issued a flood warning.
+
+In addition, there is a predicament of heavy rainfall in the western parts of Scotland and Wales, southeastern British and northern Ireland.
+
+The country's Meteorological Department has warned that there is a possibility of disruption to transport services in various areas due to strong winds.(a)
+
+◼️
+
+[Data](articles/41f99ab9.json)
+
+[Extended Data](ext_articles/41f99ab9.ext.json)
+
+---
+
+### Heavy rains exceeding 100mm
+
+*2024-11-25 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203697) · `si`
+
+Heavy rains exceed 100mm in Bay of Bengal. System moves eastward, affecting eastern coast. Showers/thundershowers expected in Hambantota, Central, Uva provinces. Heavy rainfall possible in Eastern Province. Strong winds and lightning warned.
+
+🟩
+
+The Dropion in the Bay of Bay of Bay Bay Sea
+
+At about 2.30 this morning, the system was in Batticaloa this morning. About 500 people are located on the southeast.
+
+The system is expected to grow to the eastern coast of the island.
+
+Due to the impact of this system, there may be a cloud with clouds in many parts of the country.
+
+Showers or thundershowers will occur at the Hambantota district and the Central and Uva provinces, the North, North-Central, Central and Uva provinces.
+
+Showers in the evening or night during the evening or night in the rest of the island. Showers or thundershowers will occur at several places in the Western and Wayamba coastal areas.
+
+Heavy rains can be ranked at some of 15 mm in the Eastern Province.
+
+Heavy showers in Hambantota, Central and Uva provinces can also occur at some places in Hambantota and Uva provinces.
+
+Hambantota, North Central and Eastern provinces are located in Hambantota in Hambantota and around the Hambantota district.
+
+...
+
+[Data](articles/1bf3a847.json)
+
+[Extended Data](ext_articles/1bf3a847.ext.json)
+
+---
 
 ### President says State employees must dedicate to building nation that fulfils people’s aspirations
 
@@ -316,6 +586,8 @@ This recognition highlights SriLankan Airlines’ investment in technology and a
 
 [Data](articles/2e8c8869.json)
 
+[Extended Data](ext_articles/2e8c8869.ext.json)
+
 ---
 
 ### SLPA targets Rs. 85 b  revenue in 2024 as operations expand
@@ -354,6 +626,24 @@ Launched in 2010, the SLMP was implemented through a multi-stakeholder collabora
 
 [Data](articles/181ebcec.json)
 
+[Extended Data](ext_articles/181ebcec.ext.json)
+
+---
+
+### Melwa empowers Sri Lanka’s construction sector with skills-building workshops
+
+*2024-11-25 02:41:00* · [`islandlk`](http://island.lk/melwa-empowers-sri-lankas-construction-sector-with-skills-building-workshops/) · `en`
+
+Melwa, Sri Lanka’s leading steel wire manufacturer, organised a workshop on the construction industry for Technical Officers (TOs) in the Anuradhapura District. This workshop took place on 7 November at the Mango Hotel in Anuradhapura, with nearly 100 TOs in attendance.
+
+Additionally, Melwa held a special training programme for welders on 9 November at Muthu Villa Hotel in Walasmulla. The programme aimed to enhance the professional skills of welders in the construction industry and provide them the nationally recognised National Vocational Qualification (NVQ) Level 03 certification. Nearly 200 welders participated in this programme, organised with full support from Melwa Company.
+
+...
+
+[Data](articles/107c7a46.json)
+
+[Extended Data](ext_articles/107c7a46.ext.json)
+
 ---
 
 ### Sri Lanka seeks enhanced trade ties with India, calls for quota reforms
@@ -387,6 +677,8 @@ The International Institute of Health Sciences (IIHS) has officially launched th
 ...
 
 [Data](articles/0c784244.json)
+
+[Extended Data](ext_articles/0c784244.ext.json)
 
 ---
 
@@ -457,6 +749,8 @@ Chairman of Nawaloka Medicare (Pvt.) Ltd, Harshith Dharmadasa said, ” Over the
 ...
 
 [Data](articles/5cf0e3c7.json)
+
+[Extended Data](ext_articles/5cf0e3c7.ext.json)
 
 ---
 
@@ -561,6 +855,28 @@ The Council is affiliated with the High Commission of Sri Lanka in the Maldives,
 [Data](articles/bf50d90b.json)
 
 [Extended Data](ext_articles/bf50d90b.ext.json)
+
+---
+
+### විශ්‍රාමික ජනපතිවරුන්ගේ සහ මන්ත්‍රීවරුන්ගේ වරප්‍රසාද කප්පාදු කරන්නේ කෙසේ ද?
+
+*2024-11-25 01:53:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyd9w09xe4o) · `si`
+
+විශ්‍රාමික ජනාධිපතිවරුන්ට සහ පාර්ලිමේන්තුවේ මැති ඇමතිවරුන්ට පිරිනමන වරප්‍රසාද කප්පාදු කළ යුතු බවට වර්තමානයේ සමාජය තුළ මතයක් නිර්මාණය වී තිබේ.
+
+විශ්‍රාමික ජනාධිපතිවරුන්ට සහ පාර්ලිමේන්තු මැති ඇමතිවරුන්ට හිමි වන වරප්‍රසාද තමන් බලයට පත්වීමෙන් පසුව කප්පාදු කිරීමට පියවර ගන්නා බවට ජාතික ජන බලවේගය ඉකුත් ජනාධිපතිවරණය සමයේ ජනතාවට ප්‍රතිඥාවක් දී තිබිණි.
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක ජනාධිපතිවරයා වශයෙන් තේරී පත්වීමෙන් පසුව එම වරප්‍රසාද කප්පාදු කිරීමට අදාළ යෝජනාව අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කළේ ය.
+
+ඒ අනුව, මෙම වරප්‍රසාද කප්පාදු කිරීම සඳහා ගත යුතු නීතිමය ක්‍රියාමාර්ග තීන්දු කිරීම සඳහා ජනාධිපති අනුර කුමාර දිසානායකගේ නායකත්වයෙන් යුත් අමාත්‍ය මණ්ඩලය විසින් කමිටුවක් ද පත්කරනු ලැබී ය.
+
+විශ්‍රාමික ජනාධිපතිවරුන්ට, ඇමතිවරුන්ට සහ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට ලබා දී තිබෙන වරප්‍රසාද කප්පාදු කළ හැක්කේ කෙසේ ද?
+
+ඒ පිළිබඳව පවතින නීතිමය තත්ත්වයන් මොනවා ද යන්න මෙම ලිපිය මගින් සාකච්ඡා කෙරේ.
+
+...
+
+[Data](articles/718fee95.json)
 
 ---
 
@@ -1816,6 +2132,34 @@ The National Building Research Institute said that this risk of landslides has b
 
 ---
 
+### Flood rises to 12 water sources
+
+*2024-11-24 18:06:04* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මූලාශ්‍ර-12කට-ලබන-28දා-දක්වා-ගංවතුර-අවදානම්/11-413244) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Flood warnings issued for 12 water sources: Malwathu Oya, Kala Oya, Ganga River, Maunduriya, Madugeya, Handiyan Oya, Harssa Oya. Low-pressure system over Bay of Bengal expected to intensify, affecting North Central and Eastern provinces."
+
+🟩
+
+The Irrigation Department requests the Irrigation Department to focus on 12 floods in 12 water sources due to the future.
+
+The end of the 28th of this month is issued and the people who travel through the people and the people traveling through the floods in the floods, the department states.
+
+The warning has been made for water sources in Malwathu Oya, Kala Oya, Kala Oya, Ganga River, Maunduriya, Madugeya, Handiyan Oya, Harssa Oya.
+
+The Department of Meteorology states that the growing low pressure zone of the Bay of Bengal has grown to the next few days, the Department of Meteorology states that the North Central and Eastern provinces have been increased by the North, North Central and Eastern provinces.
+
+◼️
+
+[Data](articles/e1731432.json)
+
+[Extended Data](ext_articles/e1731432.ext.json)
+
+---
+
 ### Says US in America
 
 *2024-11-24 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203686) · `si`
@@ -1973,347 +2317,5 @@ A 36 -year -old man from Tangalle and a 24 -year -old man living in Kalepindunuw
 [Data](articles/9d391a7a.json)
 
 [Extended Data](ext_articles/9d391a7a.ext.json)
-
----
-
-### Riyadh Summit that exposed Arab dictators
-
-*2024-11-24 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199525) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Riyadh Summit exposed Arab dictators. Middle East rebellion led to weak states. Legal governments control citizens through authority. Israel's treatment of Palestinians contradicts this principle.
-
-🟩
-
-People's rebellion erupted a decade ago in the Middle East region. As a result, weak states remain. போட்டி நியாயத்தன்மையுடன் உருவாகும் சட்டபூர்வ அரசுகள் மூலம் மட்டுமே தங்கள் சொந்த குடிமக்கள் மீது அதிகாரத்தைப் பயன்படுத்த முடியும். On the contrary, it cannot be done because Israel is conducting Palestinians.
-
-◼️
-
-[Data](articles/4cc4ba5f.json)
-
-[Extended Data](ext_articles/4cc4ba5f.ext.json)
-
----
-
-### Ready to provide unconditional support to the government to solve the national issue - Rajitha Senaratne
-
-*2024-11-24 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199571) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former MP Rajitha Senaratne offers unconditional support to the government to address national issues, particularly Tamil and Muslim rights. He criticizes JVP's past racist policies, linking them to civil war. Senaratne urges President Anura Kumara Dissanayake to focus on intelligent decision-making rather than populist politics.
-
-🟩
-
-We are ready to provide unconditional support for the government's journey to resolve the country's national problem by providing the rights of the Tamil Muslim people. Former parliamentarian Rajitha Senaratne said that if the Janatha Vimukthi Peramuna (JVP) had taken the policy of not going to be racist, there would be no blood flow in the country.
-
-He was speaking at a press conference held at the new Democratic Front office in Colombo on Sunday (24).
-
-President Anura Kumara Dissanayake said in his policy speech that in this country, which had been a blood flowed by racism, he would not be able to re -allow it.. Welcome to this claim of the president. The solution to the country's development is the solution to the nationalization.
-
-The Blood River flowed in the country by the Revolution that launched the Janatha Vimukthi Peramuna in 1980. If they had adopted the stand against racism, the country would not have flowed the blood river. There will be no separatist war in the North.
-
-...
-
-[Data](articles/c5ae4fb4.json)
-
-[Extended Data](ext_articles/c5ae4fb4.ext.json)
-
----
-
-### Sri Lanka's multi-day fishing vessel in Sri Lanka seized from Maldives
-
-*2024-11-24 17:29:30* · [`adalk`](https://www.ada.lk/breaking_news/බිලියන-ගණනක-මත්ද්‍රව්‍ය-සමග-ලංකාවේ-බහුදින-ධීවර-යාත්‍රාවක්-මාලදිවයිනේදී-අල්ලයි/11-413241) · `si`
-
-Sri Lanka Navy seizes multi-day fishing vessel off Maldives coast. Arrests made, drugs found. Cooperation between navies ongoing.
-
-🟩
-
-As a result of a successful intelligence security force, a resulted in the Sri Lanka Navy and the Maldivian Beach Security Forces, five crystal methamphemphemphetamine crystalized crics (344 grams of cocaine) and a multi-day fishing vessel in Sri Lanka (124 grams)05. November 23 ,,34, was arrested by the Maldives Coast Guard.
-
-The Maldivian Coast Guard, "Ashen Son" has entered the multi-day fishing vessel in the traded.The Coordinating Center of the Maritime Seware and Rescue Coordination Center, the Coordinating Center of the Navy Headquarters was held on November 23.
-
-Accordingly, the Navy, who is immediately implemented to be informed, inspected information about the vessel. According to the Navy's intelligence, "Ashen 'registration number IMUL-Na-0924-MTR, the Navy Vice Admiral Priyantha Perera expedited the intellectual information expeditiouslyThe Navy was exchanged with the Coast Guard.
-
-...
-
-[Data](articles/26424ea7.json)
-
-[Extended Data](ext_articles/26424ea7.ext.json)
-
----
-
-### Fishing vessel with drugs arrested in Maldives
-
-*2024-11-24 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203685) · `si`
-
-Maldives fishing vessel arrested with 344kg ice & cocaine. 5 suspects detained. Multi-day vessel carried 124 people. Arrest made by Maldivian Coast Guard with assistance from Sri Lanka Navy and Beach Security Forces.
-
-🟩
-
-Ice drugs kg. A consignment of 344 and cocaine drugs. Five suspects have been arrested by the Maldivian Coast Guard with a multi-day vessel carrying over 124 people.
-
-The arrest was carried out yesterday (23) as a result of the Sri Lanka Navy and the Maldivian Beach Security Forces.
-
-◼️
-
-[Data](articles/f98129ba.json)
-
-[Extended Data](ext_articles/f98129ba.ext.json)
-
----
-
-### Sri Lankan trawler seized in Maldivian waters with 344kg ‘Ice’ and 124kg cocaine
-
-*2024-11-24 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103729/sri-lankan-trawler-seized-in-maldivian-waters-with-344kg-ice-and-124kg-cocaine) · `en`
-
-Following a successful intelligence-sharing operation between the Sri Lanka Navy and the Maldivian Coast Guard, a Sri Lankan fishing trawler carrying about 344 kg of crystal methamphetamine (‘Ice’ drugs) and about 124 kg of cocaine has been seized by Maldivian Coast Guard.
-
-The operation also led to the apprehension of 05 suspects in connection to the incident on Saturday (23), Sri Lanka Navy said in a statement.
-
-The Maritime Rescue Coordination Centre (MRCC) Colombo, established at the Navy Headquarters, was alerted in the early hours of 23 November by the Maldivian Coast Guard’s MRCC regarding the Sri Lankan multi-day fishing trawler ‘Ashen Putha’.
-
-The trawler had reportedly entered the Maldivian Exclusive Economic Zone, prompting Maldivian authorities to request verification on whether the trawler was experiencing mechanical issues or distress, according to Sri Lanka Navy.
-
-...
-
-[Data](articles/1a19cc5c.json)
-
-[Extended Data](ext_articles/1a19cc5c.ext.json)
-
----
-
-### In the Eastern Province, mm. Heavy rains over 150
-
-*2024-11-24 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203684) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Heavy rainfall warning: Eastern Province >150mm, Hambantota/Uva >100mm. Thunderstorms across Sri Lanka. Strong winds (30-40mph) expected. Lightning and wind damage precautions advised.
-
-🟩
-
-The Dropion of the Disease Bay Bay Bay Bay Bayingala Bay Bay Bay Baying of Bay of Baying Kandala
-
-It is hoped that the system will continue to go to the eastern coast of the island.
-
-Due to the influence of this system, in many parts of the island, the sky can be burdened with clouds.
-
-Showers or thundershowers will occur at the Hambantota district and the Central and Uva provinces, the North, North-Central, Central and Uva provinces.
-
-Thundershowers during the evening or night during the evening or night in the rest of the island.
-
-Heavy rains can be ranked at some of 15 mm in the Eastern Province.
-
-Heavy showers in the Hambantota district and the Uva provinces can also occur at more than 100 mm.
-
-From time in Hambantota, North Central and Eastern Provinces. (30-40) can cause strong winds.
-
-The Department of Meteorology has been instructed to take necessary steps to reduce the damages caused by temporary strong winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/e225a185.json)
-
-[Extended Data](ext_articles/e225a185.ext.json)
-
----
-
-### Negative seat on national list
-
-*2024-11-24 17:09:09* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ජාතික-ලැයිස්තු-මන්ත්‍රීධුර-ගැන-අර්බුදයක්-නෑ/11-413239) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Opposition Leader Sajith Premadasa denies crisis over national list appointments. He says they're working on it and will inform the Election Commission. Refuses to comment on Sujeewa Senasinghe's potential inclusion, stating they're prioritizing those responsible for building the country.
-
-🟩
-
-Leader of the Opposition Leader Sajith Premadasa said that there is no crisis on the appointment of the national listings of the people of the people of the people.
-
-He was responding to the questions posed by journalists at the Colombo Opposition Office.
-
-The Opposition Leader Sajith Premadasa answered questions.
-
-Q: What is the national list MPs now?
-
-A. At time, properly occur properly, properly. We'll let that happen.
-
-A. We will inform them in a way. Stativated. We implement that notification methodology. We will inform the Elections Commission.
-
-Q. We saw Sujeewa Senasinghe. Will he ask you a national list MP?
-
-A. There is no problem to solve. We're working on time on time. If we talked about all the people on the background list are high. My will, those who should have their responsibilities in the building of building the country. Therefore, these lists are a very different division.
-
-◼️
-
-[Data](articles/a2c11873.json)
-
-[Extended Data](ext_articles/a2c11873.ext.json)
-
----
-
-### SEC issues summons for Gautam Adani, nephew on bribery allegations
-
-*2024-11-24 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103728/sec-issues-summons-for-gautam-adani-nephew-on-bribery-allegations) · `en`
-
-The U.S. Securities and Exchange Commission has issued a summons to Indian billionaire Gautam Adani, indicted on U.S. bribery allegations related to a bombshell federal indictment against him, a court filing showed.
-
-The SEC is suing the head of the Adani Group and his nephew Sagar Adani, alleging they engaged in hundreds of millions of dollars in bribes to help an Adani company while “falsely touting the company’s compliance with antibribery principles and laws in connection with a $750 million bond offering.”
-
-The summons requires an answer within 21 days, according to the filing dated Wednesday in federal court in the Eastern District of New York. The SEC suit seeks unspecified monetary penalties and restrictions on the Adanis from serving as officers of listed companies.
-
-Adani Group representatives did not immediately respond to a Reuters request for comment on Sunday.
-
-...
-
-[Data](articles/51526a43.json)
-
-[Extended Data](ext_articles/51526a43.ext.json)
-
----
-
-### Iier's report breaks down a few minutes
-
-*2024-11-24 16:52:42* · [`adalk`](https://www.ada.lk/sports/අයියර්ගේ-වාර්තාව-විනාඩි-කිහිපයකින්-පාන්ට්-බිඳ-දමයි/9-413237) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rishab tops IPL auction with Rs. purchase by Super Gantle. Sheryas Iire buys Paranb team earlier. Player auction sees record sale.
-
-🟩
-
-Rishab became the highest value sold at the Indian Premier League Auction. He was purchased by the Super Gantle Team at a cost of Rs.
-
-Before him, Sheryas Iire bought the Paranb team for Rs.. A player was the highest value sold at a player auction.
-
-◼️
-
-[Data](articles/ec12102e.json)
-
-[Extended Data](ext_articles/ec12102e.ext.json)
-
----
-
-### Members' privileges and bodies will be lost in the future
-
-*2024-11-24 16:38:29* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීවරුන්ගේ-වරප්‍රසාද-හා-වරදාන-ඉදිරියේදී-නැතිවෙනවා/11-413236) · `si`
-
-S:0
-
-🟩
-
-Minister of Agriculture Irrigation and Livestock Minister KD, that if the privileges of the MPs will not come forward in the future, it will not be offered to forward.. Says Lal Kantha.
-
-He was emphasized this, comment on the media in Kandy. There he added:
-
-According to the Minister, it is possible that the dissolution of the parties can be seen to contest the dissolution of the parties in the future.
-
-It is said that the parties and structures of the party and structures are necessary for the partnerships that have been dispersed without contest this year.
-
-The main source of the trade unions is the need for the trade unions when they are condemned by the voice of the vocational societies.
-
-He added that when the questions were taken up in advance, the statement made by MP Arachchi said that some things would not arise.
-
-◼️
-
-[Data](articles/8570012e.json)
-
-[Extended Data](ext_articles/8570012e.ext.json)
-
----
-
-### A History of Sriyas Iire at the IPL Auction
-
-*2024-11-24 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203683) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-IPL 2025 auction: Mitchell Starc becomes history's most expensive player sold to India for ₹Rs. [amount] in 2024.
-
-🟩
-
-The 2025 Indian League cricket tournament commenced today at auction player auction at the player auction.
-
-This is the IPL. A player in history was among the highest price sold.
-
-Mitchell St. The player is Mitchell St. 2024, he sold India at auction at Rs.
-
-◼️
-
-[Data](articles/facb5dae.json)
-
-[Extended Data](ext_articles/facb5dae.ext.json)
-
----
-
-### A IPL report from Iier
-
-*2024-11-24 16:27:36* · [`adalk`](https://www.ada.lk/sports/අයියර්ගෙන්-IPL-වාර්තාවක්/9-413235) · `si`
-
-Here's a summary of the IPL report in 200 characters:
-
-
-
-Indian player sold at highest price in IPL auction. Purchased by Kings XI Punjab for ₹X. Basic bid of ₹Y. Earlier, most expensive player bought by KKR for ₹Z.
-
-🟩
-
-The Indian player was among the largest prices sold at the Indian Premier League Cricket Tournament.
-
-He was purchased by the Kings Electronic Parjab for Rs.
-
-He was submitted to the athletes this year under a basic bid of the Indian rupees. Earlier in a large price player at an Indian League auction was to buy Australian Midkata Knight Riders at a price of Rs.
-
-◼️
-
-[Data](articles/23e31a61.json)
-
-[Extended Data](ext_articles/23e31a61.ext.json)
-
----
-
-### Indians who went to Canada through Sri Lanka
-
-*2024-11-24 16:04:59* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-හරහා-කැනඩාවට-යන්න-ගිය-ඉන්දියානුවන්ට-වැඩ-වරදියි/11-413233) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Indian girls arrested in Sri Lanka for attempting to reach Canada via fake passport. One was 24 from Gujarat, Mumbai. Passport found to be stolen. Further investigation ongoing.
-
-🟩
-
-Two Indian girl, including an Indian girl, was arrested by a Indian girl, who was attempting to flee to Canada across Sri Lanka through a passport in the unstable document.
-
-She was 24-year-old resident of Gujarat, Ahmedabad, a resident of Mumbai, India, India, India, India's 231.
-
-She then obtained the visa to enter Sri Lanka and handed over to the immigration window, including her passport and other documents.
-
-It was revealed that her Indian national passport was mentioned in the unstable and stolen data document.
-
-Later, she was sent to the main immigration officer with these documents, and he was inquired from the Colombo Criminal Investigation Department, the National Central Bureau of the National Central Bureau.
-
-The Indian national girl, the Indian national girl, has been forwarded to the Borderness of the Department of Immigration and Emigration.It has been revealed that missing is missing.
-
-...
-
-[Data](articles/63585c5f.json)
-
-[Extended Data](ext_articles/63585c5f.ext.json)
 
 ---

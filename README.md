@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 14:28:25**
+As of **2024-11-25 14:16:10**
 
 ## Newspaper Stats
 
-*Scraped **56,761** Articles*
+*Scraped **56,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 589
-islandlk | 3,406
+islandlk | 3,405
 economynextcom | 3,440
 dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,339
 adaderanalk | 6,862
-tamilmirrorlk | 8,070
+tamilmirrorlk | 8,069
 virakesarilk | 9,252
 adaderanasinhalalk | 9,795
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,759 (100.0%) of 56,761 articles have been extended.
+56,759 (100.0%) of 56,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### வேருடன் சாய்ந்த மரம், வாகனமும் சேதம்
-
-*2024-11-25 14:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேருடன்-சாய்ந்த-மரம்-வாகனமும்-சேதம்/175-347734) · `ta`
-
-தற்போது நிலவி வரும் சீரற்ற காலநிலை காரணமாக தர்மபுரம் சுண்டிக்குளம் பகுதியில் மரம் ஒன்று வேருடன் சாய்தத்தில் வாகனம் ஒன்று சேதமடைந்துள்ளது.
-
-வைக்கப்பட்டிருந்த வாகனத்தின் மீது   மரம் வேருடன் சாய்ந்ததில்  வாகனம் பகுதியளவில் சேதமடைந்துள்ளது மின் இணைப்புக்களும் பாதிக்கப்பட்டுள்ளன.
-
-இதன் காரணமாக சிறிது நேரம் போக்குவரத்து தடை பட்டது   போக்குவரத்து பொலிஸார் மற்றும் அப்பகுதி இளைஞர்கள் இணைந்து  குறித்த மரத்தை அகற்றி நிலைமையை வழமைக்கு கொண்டுவந்தனர்.
-
-◼️
-
-[Data](articles/eab33b2e.json)
-
----
 
 ### Kathmandu 1987 and Islamabad 1988
 
@@ -139,36 +123,6 @@ Police investigations revealed that the student's life was lost because of the d
 [Data](articles/269a21e4.json)
 
 [Extended Data](ext_articles/269a21e4.ext.json)
-
----
-
-### The Prime Minister’s visits to Geneva and Mexico City and balancing Indo-Lanka ties
-
-*2024-11-25 13:40:00* · [`islandlk`](http://island.lk/the-prime-ministers-visits-to-geneva-and-mexico-city-and-balancing-indo-lanka-ties/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-In June 1975, the Prime Minister was honoured by the international community with two important assgnments. The first was by the International Labour Organization (ILO), where she was invited to make the keynote address to the new ILO sessions opening in Geneva. The second was by the United Nations where she was invited to make the keynote address at the First UN International Conference on Women to be held in Mexico City, Mexico. She was also due to address The Group of 77 in Geneva.
-
-Manel Abeysekera of the Foreign Ministry and I, accompanied the Prime Minister. We had three major speeches to work on. We already had drafts ready, which were the result of much work and many refinements. But we had decided to finalize them in Geneva after two of our ablest diplomats, Susantha de Alwis and Karen Breckenridge perused them. Gamani Corea was to go through the Group of 77 speech in particular.
-
-...
-
-[Data](articles/55947d5e.json)
-
----
-
-### The Dawn of a New Era
-
-*2024-11-25 13:36:00* · [`islandlk`](http://island.lk/the-dawn-of-a-new-era/) · `en`
-
-About 20 years ago, I used the same title, in a writing dealing with Mahinda Rajapaksa’s triumphant ascent to power, published in an issue of the Sunday Island. In that I expressed my deep apprehensions of a Rajapaksa dispensation. As the years unfolded, the grim realities of years of misrule, with the younger Rajapaksa outdoing the elder brother in criminality, corruption and incompetence, exceeded the worst fears of my imagination. In between, not to be forgotten, there was also the crushingly disappointing “yahapalanya” farce, perpetrated by the Sirisena-Wickremesinghe collaboration.
-
-...
-
-[Data](articles/660f2a21.json)
-
-[Extended Data](ext_articles/660f2a21.ext.json)
 
 ---
 
@@ -2291,5 +2245,51 @@ A likely answer links two possibilities. Some of these tourists are here to stay
 [Data](articles/de96dcbe.json)
 
 [Extended Data](ext_articles/de96dcbe.ext.json)
+
+---
+
+### Israel and US stand isolated following increasing EU and Western support for ICC’s decision
+
+*2024-11-25 01:04:29* · [`dailyftlk`](https://www.ft.lk/columns/Israel-and-US-stand-isolated-following-increasing-EU-and-Western-support-for-ICC-s-decision/4-769616) · `en`
+
+Israel and its powerful backer the United States stand noticeably isolated in the global arena following 21 November’s arrest warrants issued unanimously by the International Criminal Court (ICC) on Israeli Prime Minister Benjamin Netanyahu and former Israeli Defence Minister Yoav Gallant, with increasing numbers of European powers declaring that the World Court’s decision ‘should be respected and implemented’.
+
+Apart from the European Union (EU), Britain, Canada, France, Portugal, Netherlands, Spain, Italy, Cyprus, Ireland, Finland, Czech Republic, Slovenia made public statements signalling that Netanyahu and Gallant will risk arrest if any of them entered their territories. Nearly 124 countries which have signed the Rome Statute establishing the United Nations (UN) mandated ICC are obliged to execute the warrant in their territories. The US, Israel and Sri Lanka are amongst countries which are not signatories to the Rome Statute so far.
+
+...
+
+[Data](articles/517af09b.json)
+
+[Extended Data](ext_articles/517af09b.ext.json)
+
+---
+
+### ABC of AKD’s plans to handle the ‘Economy Stupid’
+
+*2024-11-25 00:56:06* · [`dailyftlk`](https://www.ft.lk/columns/ABC-of-AKD-s-plans-to-handle-the-Economy-Stupid/4-769614) · `en`
+
+In the Parliamentary election campaign, RW asked the voters not to send inexperienced people to Parliament and reiterated that only his team has the necessary experience. The results of both the Presidential and Parliamentary elections showed that RW had failed to convince the voters on this point, like the economy stupid slogan of the Clinton campaign. AKD, in his President’s address, disproved his critics. However, after the Presidential and Parliamentary elections, it is the economy stupid that is going to loom over Sri Lanka making it AKD’s biggest challenge
+
+...
+
+[Data](articles/67923067.json)
+
+[Extended Data](ext_articles/67923067.ext.json)
+
+---
+
+### Testing AKD’s guts
+
+*2024-11-25 00:47:08* · [`dailyftlk`](https://www.ft.lk/columns/Testing-AKD-s-guts/4-769613) · `en`
+
+Give him a chance to accomplish his mandate. If he fails the country will end up in misery
+
+In both statements, PAKD diagnosed the historical Sri Lankan political landscape, fuelled by mistrust and division, and highlighted those affected groups on language, religion, culture, etc., and the isolation of such groups, whose equal rights, and identities were pruned in these processes. Now the regional electorate has placed confidence in PAKD and NPP, it is natural for the President to directly speak to the affected promising democratic governance and actions to massage their wounded hearts
+
+...
+
+[Data](articles/ecf52ae7.json)
+
+[Extended Data](ext_articles/ecf52ae7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 00:58:56**
+As of **2024-11-26 00:41:22**
 
 ## Newspaper Stats
 
-*Scraped **56,866** Articles*
+*Scraped **56,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 577
 bbccomsinhala | 591
 islandlk | 3,406
 economynextcom | 3,448
-dailyftlk | 3,904
+dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,354
 adaderanalk | 6,876
@@ -26,61 +26,9 @@ adaderanasinhalalk | 9,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,863 (100.0%) of 56,866 articles have been extended.
+56,863 (100.0%) of 56,863 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-26 (Tuesday)
-
-### FINAP’s journey: From local innovation  to global recognition
-
-*2024-11-26 00:50:53* · [`dailyftlk`](https://www.ft.lk/business/FINAP-s-journey-From-local-innovation-to-global-recognition/34-769672) · `en`
-
-FINAP Founder and CEO Dr. Kutila Pinto recently participated at the 40th ASOCIO Summit in Tokyo. At the summit, FINAP was awarded the prestigious ‘Outstanding Tech Organisation’ title—a recognition that marks the company’s transformation from a promising Sri Lankan start-up to a rising global leader in financial technology.
-
-In this interview Dr. Pinto shared insights about FINAP’s remarkable journey, the values driving the organisation, and its vision for the future. Below is an in-depth discussion on how FINAP is redefining financial technology and empowering communities both locally and internationally.
-
-A: This recognition is a monumental milestone for FINAP. It reflects the hard work of our team, the relevance of our solutions, and our commitment to empowering communities through innovative financial technology. Being acknowledged on such a global platform reaffirms that our mission and values resonate beyond Sri Lanka and inspire us to push further boundaries.
-
-...
-
-[Data](articles/2c68c008.json)
-
----
-
-### Driving fintech forward: Cargills Bank partners SITS for seamless banking solutions
-
-*2024-11-26 00:45:13* · [`dailyftlk`](https://www.ft.lk/business/Driving-fintech-forward-Cargills-Bank-partners-SITS-for-seamless-banking-solutions/34-769671) · `en`
-
-Standing (from left): QA Engineer Runeth Thamuditha, Assistant Manager – Card Payment Buddhika Kumara, Assistant Vice President Sameera Priyadarshana, Senior Vice President Tushara Feldano, Manager – Card Business and Merchant Acquiring Nalaka Wijenayake, Executive – Card Business and Merchant Acquiring Dulan Rajapaksha
-
-Seated (from left): Assistant Manager – Public Relations Olindi Kiriella, Head of Card Services Kaushi Fernando, and Executive – Card Business Kashmini Hettiarachchi
-
-Cargills Bank, established in 2014, has quickly made a name for itself in Sri Lanka’s banking sector with a focus on innovation and customer excellence. To improve access to financial services, Cargills Bank has teamed up with Sampath IT Solutions Ltd. (SITS) to manage its network of Point-of-Sale (POS) systems across the country.
-
-...
-
-[Data](articles/be8ce26d.json)
-
----
-
-### Epic Lanka joins premier  Asian banks and fintechs  at World Financial Innovation Series in Indonesia
-
-*2024-11-26 00:43:02* · [`dailyftlk`](https://www.ft.lk/business/Epic-Lanka-joins-premier-Asian-banks-and-fintechs-at-World-Financial-Innovation-Series-in-Indonesia/34-769670) · `en`
-
-Epic Lanka team at the World Financial Innovation Series in Jakarta, Indonesia
-
-Epic Lanka, recently attended the World Financial Innovation Series – Indonesia’s foremost financial sector event in Jakarta, Indonesia.
-
-The event comprising over 1,000 participants provided Epic a platform to demonstrate its comprehensive suite of fintech solutions, including advanced card payment systems, authentication technologies, payment security measures, business process automation, and dynamic workflow solutions.
-
-The World Financial Innovation Series (WFIS) Indonesia is an annual financial sector event that powers a meeting of FSI leaders, financial experts, technology moguls and government regulators to discuss and analyse the prevailing state of developments concerning the country’s financial realm.
-
-...
-
-[Data](articles/0dd6fc3a.json)
-
----
 
 ### 2024-11-25 (Monday)
 
@@ -2549,5 +2497,59 @@ At the Third SAARC Summit Meeting in Nepal on November 2-4, 1987, 1 had called f
 [Data](articles/33039b22.json)
 
 [Extended Data](ext_articles/33039b22.ext.json)
+
+---
+
+### The NPP’s ascent and the Opposition’s descent in Sri Lanka
+
+*2024-11-25 13:44:00* · [`islandlk`](http://island.lk/the-npps-ascent-and-the-oppositions-descent-in-sri-lanka/) · `en`
+
+At parliamentary elections in Sri Lanka last week, the centre-left National People’s Power (NPP) checked all lists and squared all circles, winning not just traditional seats but also polling divisions populated by minority communities.
+
+Speaking to the media on Friday, November 15, hours after general election results were announced in Sri Lanka, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP), the dominant member in the National People’s Power (NPP) alliance that governs the country, acknowledged that his party would commit to “developing the country, eradicating corruption, and enhancing democracy with accountability.”
+
+Silva’s remarks came in the backdrop of one of the biggest electoral landslides in the island’s political history: the NPP, reduced to three seats at the 2020 general election, gained a two-thirds majority, obtaining 159 seats and 61 percent of the vote, last week.
+
+...
+
+[Data](articles/2edb5ec6.json)
+
+[Extended Data](ext_articles/2edb5ec6.ext.json)
+
+---
+
+### $ 200 million from ADB
+
+*2024-11-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203711) · `si`
+
+ADB approves $200m loan for Sri Lanka infrastructure upgrade
+
+🟩
+
+ADB has approved a loan of US $ 200 million to improve the infrastructure facilities in Sri Lanka.
+
+◼️
+
+[Data](articles/d7dddaf3.json)
+
+[Extended Data](ext_articles/d7dddaf3.ext.json)
+
+---
+
+### Netanyahu welcomes Trump’s re-election to second term
+
+*2024-11-25 13:43:00* · [`islandlk`](http://island.lk/netanyahu-welcomes-trumps-re-election-to-second-term/) · `en`
+
+Trump’s new Ambassador to Israel: “There’s really no such thing as a Palestinian”
+
+The re-election of Donald Trump to a second term of the presidency of the United States has changed the ideological trajectory of the future of the United States. At least for the foreseeable future.But it has sealed the fate of the Palestinian people in the Gaza Strip and the West Bank. Permanently.
+
+To even consider the validity of the above statement, one must look into the constitutional, conventional and practical qualifications for the Presidency of the United States. Constitutionally, the President must be at least 35 years of age, be a natural born citizen and must have lived in the United States for at least 14 years.
+
+...
+
+[Data](articles/28b393ff.json)
+
+[Extended Data](ext_articles/28b393ff.ext.json)
 
 ---

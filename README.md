@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 01:25:45**
+As of **2024-11-26 00:41:22**
 
 ## Newspaper Stats
 
-*Scraped **56,871** Articles*
+*Scraped **56,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 577
 bbccomsinhala | 591
 islandlk | 3,406
 economynextcom | 3,448
-dailyftlk | 3,907
+dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,354
 adaderanalk | 6,876
-tamilmirrorlk | 8,091
+tamilmirrorlk | 8,089
 virakesarilk | 9,272
 adaderanasinhalalk | 9,817
 
@@ -26,153 +26,9 @@ adaderanasinhalalk | 9,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,867 (100.0%) of 56,871 articles have been extended.
+56,863 (100.0%) of 56,863 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-26 (Tuesday)
-
-### Pragmatic ethical President
-
-*2024-11-26 01:17:45* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatic-ethical-President/4-769676) · `en`
-
-President of the Republic Anura Kumara Dissanayake spoke without notes in his first policy statement in Parliament. His unhesitating delivery in punctilious order was simultaneously translated into both English and Tamil.
-
-I rely on the English translation of the speech for the purpose of this brief commentary. He described it as a “monumental moment in the history of Sri Lanka’s Parliament.”
-
-Indeed, it will be remembered as a watershed moment, a turning point of our politics if only he succeeds in resolving his twin dilemmas – ensuring ethical governance, adopting pragmatic economics to break free from a “Sovereign Debt Trap.”
-
-...
-
-[Data](articles/47f173a5.json)
-
----
-
-### சீனக் கம்யூனிஸ்ட் கட்சி குழுவினர் ஜனாதிபதியுடன் சந்திப்பு
-
-*2024-11-26 01:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனக்-கம்யூனிஸ்ட்-கட்சி-குழுவினர்-ஜனாதிபதியுடன்-சந்திப்பு/175-347776) · `ta`
-
-சீனக் கம்யூனிஸ்ட் கட்சி மத்திய குழுவின் சர்வதேச திணைக்கள உப அமைச்சர் சன் ஹையன் தலைமையிலான சீனத் தூதுக்குழு நேற்று (25) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவைச் சந்தித்தது.
-
-கடந்த ஜனாதிபதித் தேர்தலில் அநுரகுமார திசாநாயக்க பெற்ற வெற்றிக்கும், பொதுத் தேர்தலில் அவரது கட்சிக்குக் கிடைத்த அமோக வெற்றிக்கும் வாழ்த்துத் தெரிவித்த சீன உப அமைச்சர், இந்த வெற்றிகளின் பின்னர் இலங்கையில் ஏற்பட்டுள்ள  பரிமாற்றங்களுக்கும் பாராட்டுத் தெரிவித்தார்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் தலைமையில் இலங்கையுடன் நெருக்கமான ஒத்துழைப்புடன் செயற்பட சீனா தயாராக இருப்பதாகவும் உப அமைச்சர் தலைமையிலான குழுவினர் ஜனாதிபதியிடம் தெரிவித்தனர்.
-
-சீனா மற்றும் இலங்கை ஆகிய இரு நாடுகளின் அபிவிருத்தி வாய்ப்புகள் குறித்து இங்கு கவனம் செலுத்தப்பட்டதுடன் இரு நாடுகளுக்கும் இடையில் பரஸ்பர நன்மை பயக்கும் நீண்ட கால ஒத்துழைப்பு வேலைத்திட்டத்தை ஏற்படுத்துவதன் முக்கியத்துவம் குறித்தும் கலந்துரையாடப்பட்டது. (a)
-
-◼️
-
-[Data](articles/26c720bc.json)
-
----
-
-### Honouring the unsung: Real beginnings of the ‘renaissance’
-
-*2024-11-26 01:11:31* · [`dailyftlk`](https://www.ft.lk/opinion/Honouring-the-unsung-Real-beginnings-of-the-renaissance/14-769675) · `en`
-
-It is to this farming community that the country owes a debt of gratitude today. They laid the real groundwork for the Aragalaya movement
-
-As early as the 1890s, psychology research has been done on crowd behaviour. Gustave Le Bon (1841) who was a French social psychologist pioneered research on group behaviour, especially crowd behaviour. People with compatible needs and interests come together (convergence theory), purposefully and united, to have their views represented. Classical theories treat crowds as pathological (contagion theory). Crowds are seen as mobs, mobs that act irrationally.
-
-...
-
-[Data](articles/109cb1a9.json)
-
----
-
-### E.. Abduction attack on the bus
-
-*2024-11-26 01:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-போ-ச-பஸ்-மீது-கல்வீச்சு-தாக்குதல்/175-347775) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Transport Board bus attacked near Jaffna. Departed Point Pedro at 6:15 pm yesterday, heading to Vadamarachchi East Mamunai area.
-
-🟩
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) has been attacked from Point Pedro, Jaffna.
-
-The bus, which departed from Point Pedro yesterday (24) at 6.15 pm, went to the Vadamarachchi East Mamunai area.
-
-◼️
-
-[Data](articles/1324ff35.json)
-
-[Extended Data](ext_articles/1324ff35.ext.json)
-
----
-
-### Need of the hour, Muslim Cabinet Minister or Rule of Law: Muslim perspective
-
-*2024-11-26 01:04:09* · [`dailyftlk`](https://www.ft.lk/columns/Need-of-the-hour-Muslim-Cabinet-Minister-or-Rule-of-Law-Muslim-perspective/4-769674) · `en`
-
-The question many intellectuals now pose is whether this tradition of symbolic inclusion has ever translated into meaningful gains for the Muslim community
-
-The sweeping victory of the National People’s Power (NPP) in Sri Lanka’s recent elections marked a resounding call for change, as voters across the nation—from north to south and east to west—rejected corrupt political elitism in favour of a new, principled political culture. The scale of this victory, surpassing all predictions, demonstrated the people’s overwhelming desire for a transformation in governance, as clearly reflected in the election results, particularly the postal votes.
-
-...
-
-[Data](articles/65e62bcf.json)
-
----
-
-### FINAP’s journey: From local innovation  to global recognition
-
-*2024-11-26 00:50:53* · [`dailyftlk`](https://www.ft.lk/business/FINAP-s-journey-From-local-innovation-to-global-recognition/34-769672) · `en`
-
-FINAP Founder and CEO Dr. Kutila Pinto recently participated at the 40th ASOCIO Summit in Tokyo. At the summit, FINAP was awarded the prestigious ‘Outstanding Tech Organisation’ title—a recognition that marks the company’s transformation from a promising Sri Lankan start-up to a rising global leader in financial technology.
-
-In this interview Dr. Pinto shared insights about FINAP’s remarkable journey, the values driving the organisation, and its vision for the future. Below is an in-depth discussion on how FINAP is redefining financial technology and empowering communities both locally and internationally.
-
-A: This recognition is a monumental milestone for FINAP. It reflects the hard work of our team, the relevance of our solutions, and our commitment to empowering communities through innovative financial technology. Being acknowledged on such a global platform reaffirms that our mission and values resonate beyond Sri Lanka and inspire us to push further boundaries.
-
-...
-
-[Data](articles/2c68c008.json)
-
-[Extended Data](ext_articles/2c68c008.ext.json)
-
----
-
-### Driving fintech forward: Cargills Bank partners SITS for seamless banking solutions
-
-*2024-11-26 00:45:13* · [`dailyftlk`](https://www.ft.lk/business/Driving-fintech-forward-Cargills-Bank-partners-SITS-for-seamless-banking-solutions/34-769671) · `en`
-
-Standing (from left): QA Engineer Runeth Thamuditha, Assistant Manager – Card Payment Buddhika Kumara, Assistant Vice President Sameera Priyadarshana, Senior Vice President Tushara Feldano, Manager – Card Business and Merchant Acquiring Nalaka Wijenayake, Executive – Card Business and Merchant Acquiring Dulan Rajapaksha
-
-Seated (from left): Assistant Manager – Public Relations Olindi Kiriella, Head of Card Services Kaushi Fernando, and Executive – Card Business Kashmini Hettiarachchi
-
-Cargills Bank, established in 2014, has quickly made a name for itself in Sri Lanka’s banking sector with a focus on innovation and customer excellence. To improve access to financial services, Cargills Bank has teamed up with Sampath IT Solutions Ltd. (SITS) to manage its network of Point-of-Sale (POS) systems across the country.
-
-...
-
-[Data](articles/be8ce26d.json)
-
-[Extended Data](ext_articles/be8ce26d.ext.json)
-
----
-
-### Epic Lanka joins premier  Asian banks and fintechs  at World Financial Innovation Series in Indonesia
-
-*2024-11-26 00:43:02* · [`dailyftlk`](https://www.ft.lk/business/Epic-Lanka-joins-premier-Asian-banks-and-fintechs-at-World-Financial-Innovation-Series-in-Indonesia/34-769670) · `en`
-
-Epic Lanka team at the World Financial Innovation Series in Jakarta, Indonesia
-
-Epic Lanka, recently attended the World Financial Innovation Series – Indonesia’s foremost financial sector event in Jakarta, Indonesia.
-
-The event comprising over 1,000 participants provided Epic a platform to demonstrate its comprehensive suite of fintech solutions, including advanced card payment systems, authentication technologies, payment security measures, business process automation, and dynamic workflow solutions.
-
-The World Financial Innovation Series (WFIS) Indonesia is an annual financial sector event that powers a meeting of FSI leaders, financial experts, technology moguls and government regulators to discuss and analyse the prevailing state of developments concerning the country’s financial realm.
-
-...
-
-[Data](articles/0dd6fc3a.json)
-
-[Extended Data](ext_articles/0dd6fc3a.ext.json)
-
----
 
 ### 2024-11-25 (Monday)
 
@@ -2505,5 +2361,195 @@ India to take the first place in the World Test Championship page with this vict
 [Data](articles/243deb80.json)
 
 [Extended Data](ext_articles/243deb80.ext.json)
+
+---
+
+### Adani’s Colombo Port project under scrutiny as US Agency conducts due diligence
+
+*2024-11-25 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103749/adanis-colombo-port-project-under-scrutiny-as-us-agency-conducts-due-diligence) · `en`
+
+United States international development finance corporation, which is partially funding the Colombo port terminal in Sri Lanka, is employing due diligence on the project after the allegations against the Adani Group chairman by the US Department of Justice came to light. The US agency mentioned that it hasn’t concluded a final agreement on the loan worth $500 million to the conglomerate yet, according to a Bloomberg report. The project is partly owned by the Adani Group.
+
+“We continue to conduct due diligence to ensure that all aspects of the project meet our rigorous standards before any loan disbursements are made,” the US agency official told Bloomberg in a statement. “The project has not reached financial close or signed a loan agreement,” the agency added.
+
+...
+
+[Data](articles/bc407343.json)
+
+[Extended Data](ext_articles/bc407343.ext.json)
+
+---
+
+### Is the former minister's manuscript accused of a human trafficking?
+
+*2024-11-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203713) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Labor Minister Manusha Nanayakkara denies human trafficking accusations regarding the E8 visa system. He claims the system was meant to create jobs but faced implementation issues. The Foreign Employment Bureau states short-term seasonal jobs cannot be legally sent to South Korea under E8 visas.
+
+🟩
+
+Former Labor and Foreign Employment Minister Manusha Nanayakkara is suspected that the E8 has been suspected to misuse its profits using the E8 system.
+
+Kiosala Wickremasinghe said this morning connected to Ada Derana Figus "program today.
+
+He also said that the intervention of former Minister intervention is also questioned as a human racket.
+
+"We think this government has accepted a recognized minister why pushed to a human racket. There is a great deal of blossoms that we have made the minister a miracle. Currently, we are not factors. We are gathering information. There are groups. There is legal systems that can be taken legally. Only one party. Not only this e8, the question here. There are a lot of questions. "
+
+The intervention of a former minister has held a press conference this morning, said he had operated the E8 visas without a job agreement without an employment agreement.
+
+...
+
+[Data](articles/4bad3565.json)
+
+[Extended Data](ext_articles/4bad3565.ext.json)
+
+---
+
+### Why were many votes rejected at the general election?
+
+*2024-11-25 13:53:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1mlv3vy51ro) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+High rejection rates in Sri Lanka's 2024 general election due to complex voting system, low literacy, and lack of awareness in certain districts.
+
+🟩
+
+As a central American country, El Salvador, the population was approximately Rs. 6.4 lakhs. It is approximately equal number of rejected votes in Sri Lanka. At the general election, 5.65% of the total votes were rejected. It marks the third highest rate of polls since 1989. The highest rejected votes reported at the 2010 general election.
+
+In the 2024 presidential election, the voter turnout, which was reportedly more publicized than the general election, showed a low trend and 2.2%.
+
+The 1978 Constitution, the 1978 constitution introduced the election system by changing the simple majority system to proportional representation. According to Democratic Reforms and Electoral Resources (IRS Executive Director), Manjula Gananayake, the proportional representation is complicated to voting for many. Votes also take effort to remember the names of political parties and independent groups, not only score and not only scores.
+
+...
+
+[Data](articles/d5d7aeb4.json)
+
+[Extended Data](ext_articles/d5d7aeb4.ext.json)
+
+---
+
+### Affect the West Terminal Project at the Colombo Port?
+
+*2024-11-25 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203712) · `si`
+
+Colombo Port West Terminal project impacted by:
+
+
+
+1. Re-evaluation by American International Monetary Corporation
+
+2. Allegations against Gautam Company founder
+
+3. Indian business accused of bribery in US court
+
+4. Record drop in Ahani Company dollar bond value
+
+5. $27.9 billion market loss in two weeks
+
+6. $265 million bribery allegations against Indian officials over 20 years
+
+
+
+Total characters: 200
+
+🟩
+
+The American International Monetary Corporation has said that it is re-evaluated on the development of the Colombo Harbor to develop the Colombo Harbor Terminal for the development of the Colombo Port.
+
+The American Attorney General's Department is an impact on the allegations of the allegations of Gautam Company and the founder Gautam Company and the Founda.
+
+The famous business of India was released by an American court in the United States.
+
+They were given bribery and the accusations to make profits.
+
+With this, the value of the dollar bonds of the Ahani Company has fallen in record.
+
+Accordingly, the market value lost in two quarts of the week is US $ 27.9 billion.
+
+The allegation of US $ 265 million bribes to Indian government officials to receive massive projects in the past 20 years have been allegations to the Indian government officials to make US $ 2 billion profit.
+
+◼️
+
+[Data](articles/dd16a54b.json)
+
+[Extended Data](ext_articles/dd16a54b.ext.json)
+
+---
+
+### Kathmandu 1987 and Islamabad 1988
+
+*2024-11-25 13:46:00* · [`islandlk`](http://island.lk/kathmandu-1987-and-islamabad-1988/) · `en`
+
+At the Third SAARC Summit Meeting in Nepal on November 2-4, 1987, 1 had called for going “full sail ahead” with the King of Nepal in the host’s chair. I said:
+
+“As we all know, regionalism in South Asia has had a late beginning. One of the remarkable developments since the Second World War has been the spread of regionalism, manifested in the setting up of regional organizations which have to cover most of the globe. The fact that SAARC came to be formed so late has been explained by the disparities and imbalances within our region. Nevertheless, there is at the same time, an underlying homogeneity among South Asian countries, on which we hope to build an enduring regionalism for the common benefit of all of us.
+
+...
+
+[Data](articles/33039b22.json)
+
+[Extended Data](ext_articles/33039b22.ext.json)
+
+---
+
+### The NPP’s ascent and the Opposition’s descent in Sri Lanka
+
+*2024-11-25 13:44:00* · [`islandlk`](http://island.lk/the-npps-ascent-and-the-oppositions-descent-in-sri-lanka/) · `en`
+
+At parliamentary elections in Sri Lanka last week, the centre-left National People’s Power (NPP) checked all lists and squared all circles, winning not just traditional seats but also polling divisions populated by minority communities.
+
+Speaking to the media on Friday, November 15, hours after general election results were announced in Sri Lanka, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP), the dominant member in the National People’s Power (NPP) alliance that governs the country, acknowledged that his party would commit to “developing the country, eradicating corruption, and enhancing democracy with accountability.”
+
+Silva’s remarks came in the backdrop of one of the biggest electoral landslides in the island’s political history: the NPP, reduced to three seats at the 2020 general election, gained a two-thirds majority, obtaining 159 seats and 61 percent of the vote, last week.
+
+...
+
+[Data](articles/2edb5ec6.json)
+
+[Extended Data](ext_articles/2edb5ec6.ext.json)
+
+---
+
+### $ 200 million from ADB
+
+*2024-11-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203711) · `si`
+
+ADB approves $200m loan for Sri Lanka infrastructure upgrade
+
+🟩
+
+ADB has approved a loan of US $ 200 million to improve the infrastructure facilities in Sri Lanka.
+
+◼️
+
+[Data](articles/d7dddaf3.json)
+
+[Extended Data](ext_articles/d7dddaf3.ext.json)
+
+---
+
+### Netanyahu welcomes Trump’s re-election to second term
+
+*2024-11-25 13:43:00* · [`islandlk`](http://island.lk/netanyahu-welcomes-trumps-re-election-to-second-term/) · `en`
+
+Trump’s new Ambassador to Israel: “There’s really no such thing as a Palestinian”
+
+The re-election of Donald Trump to a second term of the presidency of the United States has changed the ideological trajectory of the future of the United States. At least for the foreseeable future.But it has sealed the fate of the Palestinian people in the Gaza Strip and the West Bank. Permanently.
+
+To even consider the validity of the above statement, one must look into the constitutional, conventional and practical qualifications for the Presidency of the United States. Constitutionally, the President must be at least 35 years of age, be a natural born citizen and must have lived in the United States for at least 14 years.
+
+...
+
+[Data](articles/28b393ff.json)
+
+[Extended Data](ext_articles/28b393ff.ext.json)
 
 ---

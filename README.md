@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 03:11:56**
+As of **2024-11-26 00:41:22**
 
 ## Newspaper Stats
 
-*Scraped **56,882** Articles*
+*Scraped **56,863** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 436
-colombotelegraphcom | 578
+colombotelegraphcom | 577
 bbccomsinhala | 591
 islandlk | 3,406
 economynextcom | 3,448
-dailyftlk | 3,917
+dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,354
 adaderanalk | 6,876
-tamilmirrorlk | 8,091
+tamilmirrorlk | 8,089
 virakesarilk | 9,272
 adaderanasinhalalk | 9,817
 
@@ -26,335 +26,9 @@ adaderanasinhalalk | 9,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,876 (100.0%) of 56,882 articles have been extended.
+56,863 (100.0%) of 56,863 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-26 (Tuesday)
-
-### SLFEB Chief warns against private agencies exploiting South Korea’s E-8 visa scheme
-
-*2024-11-26 02:42:06* · [`dailyftlk`](https://www.ft.lk/news/SLFEB-Chief-warns-against-private-agencies-exploiting-South-Korea-s-E-8-visa-scheme/56-769707) · `en`
-
-SLFEB Chairperson Kosala Wickramasinghe labels attempts by private agencies to send workers to South Korea under E-8 visa as form of human trafficking
-
-Says CID informed, internal SLFEB probe underway to identify those involved in illegal visa operations
-
-Questions involvement of former Foreign Employment Minister in unauthorised E-8 visa agreement
-
-Says immediate solution for those affected not possible and calls for patience as SLFEB works to resolve issue
-
-Sri Lanka Foreign Employment Bureau (SLFEB) Chairperson Kosala Wickramasinghe has labelled private agencies attempting to send workers to South Korea under the E-8 visa system a human trafficking scheme.
-
-Addressing the media yesterday, Wickramasinghe said the Criminal Investigation Department (CID) has been informed, and an internal probe is also underway to look into the issue.
-
-...
-
-[Data](articles/24d25f1c.json)
-
----
-
-### Former Labour and Foreign Employment Minister defends E-8 visa program
-
-*2024-11-26 02:40:21* · [`dailyftlk`](https://www.ft.lk/news/Former-Labour-and-Foreign-Employment-Minister-defends-E-8-visa-program/56-769706) · `en`
-
-Former Labour and Foreign Employment Minister Manusha Nanayakkara yesterday responded to allegations and defended his efforts to establish the E-8 visa program.
-
-He emphasised that it was intended to create employment opportunities for Sri Lankans. “I personally went and requested these people to provide us with this E-8 visa category. Accordingly, they made arrangements to provide this E-8 visa category to Sri Lanka as well,” he explained. Nanayakkara’s response comes following accusations raised by the Sri Lanka Bureau of Foreign Employment (SLBFE) yesterday.
-
-He attributed delays in implementing the program to internal disruptions at the SLBFE, particularly in the weeks leading up to elections. “Due to the behaviour and actions of certain officers of the Bureau, it was finally not implemented. It can be implemented even now. If implemented, it is an opportunity to obtain thousands of new jobs,” he said.
-
-...
-
-[Data](articles/70990c18.json)
-
----
-
-### President appoints two new Ministry Secretaries
-
-*2024-11-26 02:38:30* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-two-new-Ministry-Secretaries/56-769705) · `en`
-
-President Anura Kumara Dissanayake yesterday appointed two new Ministry Secretaries. The letters of appointment were handed over yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake. Accordingly, President’s Counsel Ayesha Jinasena was appointed as the Justice and National Integration Ministry Secretary, while Malarmathi Gangadharan was appointed as the Rural Development, Social Security and Community Empowerment Ministry Secretary.
-
-◼️
-
-[Data](articles/861f7680.json)
-
----
-
-### New MP Dr. Archchuna  apologises for parliamentary seating fiasco
-
-*2024-11-26 02:35:39* · [`dailyftlk`](https://www.ft.lk/news/New-MP-Dr-Archchuna-apologises-for-parliamentary-seating-fiasco/56-769704) · `en`
-
-Newly elected Jaffna district independent MP Dr. Ramanathan Archchuna has issued a public apology after occupying the seat traditionally reserved for the Leader of the Opposition during the ceremonial opening of the first session of the 10th Parliament.
-
-The incident unfolded when the MP refused to vacate the Leader of the Opposition’s seat despite repeated requests from parliamentary staff. As a result, Opposition Leader Sajith Premadasa was compelled to sit at the corner of the front row.
-
-...
-
-[Data](articles/b831caea.json)
-
----
-
-### Sujeewa Senasinghe’s luxury SUV released on Rs. 100 m bond
-
-*2024-11-26 02:33:41* · [`dailyftlk`](https://www.ft.lk/news/Sujeewa-Senasinghe-s-luxury-SUV-released-on-Rs-100-m-bond/56-769703) · `en`
-
-Fort Magistrate Thanuja Lakmali yesterday directed the Criminal Investigation Department (CID) to release a luxury V8 SUV belonging to former MP Sujeewa Senasinghe, currently under CID custody, back to its owner.
-
-The Magistrate observed that the SUV had been lawfully imported into Sri Lanka, adhering to all required procedures, and issued the release order accordingly.
-
-During the hearing, the CID reported that the SUV was initially brought into the country as a duty-free vehicle by former MP J. Sri Ranga, who had used it until it was involved in an accident in Settikulam. Following the incident, the vehicle was sold to its current owner, Sujeewa Senasinghe.
-
-The CID, however, raised concerns about discrepancies in the MT6 form related to the vehicle’s ownership transfer, claiming that the signature on the form might not match that of the former owner. They said that further investigations into the matter were ongoing.
-
-...
-
-[Data](articles/3a546da7.json)
-
----
-
-### ICCSL hosts webinar on Temporary Import for Export Processing
-
-*2024-11-26 02:32:01* · [`dailyftlk`](https://www.ft.lk/business/ICCSL-hosts-webinar-on-Temporary-Import-for-Export-Processing/34-769702) · `en`
-
-Temporary Import for Export Processing (TIEP) allows Sri Lankan exporters to temporarily import goods without paying customs duties, as long as the goods are re-exported after processing or manufacturing.
-
-This system lowers production costs, facilitates better cash flow, and enhances the global competitiveness of Sri Lankan products.
-
-The recent webinar organised by the International Chamber of Commerce Sri Lanka (ICCSL) provided valuable insights into the TIEP system, a crucial provision aimed at enhancing Sri Lanka’s export competitiveness.
-
-...
-
-[Data](articles/6421d036.json)
-
-[Extended Data](ext_articles/6421d036.ext.json)
-
----
-
-### Foreign investors explore opportunities at Trincomalee and Hambantota Ports
-
-*2024-11-26 02:17:32* · [`dailyftlk`](https://www.ft.lk/business/Foreign-investors-explore-opportunities-at-Trincomalee-and-Hambantota-Ports/34-769697) · `en`
-
-As part of the Voyage Sri Lanka 2024 initiative, a group of 20 potential foreign investors from countries including India, Saudi Arabia, Maldives, France, Japan, Thailand, the United States, and Cambodia visited the Trincomalee and Hambantota Ports on 24 and 25 November. The visits aimed to showcase Sri Lanka’s potential as a hub for maritime investments and its growing blue economy.
-
-The delegation explored the opportunities across various sectors, such as, marine development, shipbuilding, vessel maintenance, engineering services, bunkering, and related offshore services. Investors also explored prospects for establishing joint ventures with existing local businesses or initiating new enterprises.
-
-...
-
-[Data](articles/07853f20.json)
-
-[Extended Data](ext_articles/07853f20.ext.json)
-
----
-
-### Southern Gujarat Chamber of Commerce and Industry visits SL
-
-*2024-11-26 02:15:01* · [`dailyftlk`](https://www.ft.lk/business/Southern-Gujarat-Chamber-of-Commerce-and-Industry-visits-SL/34-769696) · `en`
-
-The Southern Gujarat Chamber of Commerce and Industry (SGCCI) is leading a 10-member delegation to Sri Lanka from 24 to 29 November 2024. Representing diverse sectors, the delegation’s visit aims to foster deeper economic and trade relations between India and Sri Lanka. In addition to Colombo, the delegation will also travel to Kandy and Nuwara Eliya.
-
-The delegation is participating in “Voyage Sri Lanka”, an event organised by the Sri Lanka Export Development Board (EDB), which seeks to promote trade and investment opportunities in the maritime sector. Apart from meeting with the EDB and the Sri Lanka Tourism Promotion Bureau (SLTPB), the delegation will interact with key Sri Lankan chambers, including The Ceylon Chamber of Commerce and the Indo Lanka Chamber of Commerce and Industries (ILCCI). Meetings with prominent corporate entities, such as the Capital Maharaja Group, and other stakeholders are also planned.
-
-...
-
-[Data](articles/07c0567a.json)
-
-[Extended Data](ext_articles/07c0567a.ext.json)
-
----
-
-### PickMe’s partnership with Moratuwa University to boost logistics sector
-
-*2024-11-26 02:13:49* · [`dailyftlk`](https://www.ft.lk/business/PickMe-s-partnership-with-Moratuwa-University-to-boost-logistics-sector/34-769695) · `en`
-
-MoU signed by UoM Vice Chancellor Prof. N.D. Gunawardena (left) and PickMe Founder and CEO Jiffry Zulfer
-
-PickMe, Sri Lanka’s leading digital mobility solutions company, recently entered into a strategic partnership with the University of Moratuwa (UoM) to strengthen human resource development and operational excellence in driving innovation in the logistics sector.
-
-The Memorandum of Understanding (MoU) was signed by PickMe CEO Jiffry Zulfer and UoM Vice Chancellor Prof. N.D. Gunawardena.
-
-As part of the collaboration, PickMe will offer Management Trainee placements to 10-15 graduates each year from UoM’s BSc (Hons.) in Transport and Logistics Management and BSc (Hons.) in Transport Management and Logistics Engineering programs. Additionally, 10 undergraduates from these programs will gain hands-on experience through internship opportunities at PickMe every year.
-
-...
-
-[Data](articles/c264d56e.json)
-
-[Extended Data](ext_articles/c264d56e.ext.json)
-
----
-
-### Remembering my father, Eric Cooray
-
-*2024-11-26 01:27:25* · [`dailyftlk`](https://www.ft.lk/columns/Remembering-my-father-Eric-Cooray/4-769677) · `en`
-
-My father would want to be remembered for his unwavering faith, calm demeanour, and boundless kindness. He taught me to face adversity with grace, to be generous and kind, and to live a life of integrity. Though he is no longer with us, his legacy lives on in the values he instilled in all of us
-
-This will be my first Christmas without my father, Eric Cooray, who passed away three months ago. Life has felt strange since that inevitable moment, one I always dreaded, while never anticipating just how difficult his loss would be to accept.
-
-Almost every day starts and ends with thoughts of my father, from fond memories of my childhood to imagining how proud he would be of his beloved grandchildren. Throughout my life, he inspired me in countless ways. Even now, I draw so much strength from memories of him that it still feels like he is guiding me from the heavens, giving me the strength to keep moving forward.
-
-...
-
-[Data](articles/685c5e18.json)
-
-[Extended Data](ext_articles/685c5e18.ext.json)
-
----
-
-### Pragmatic ethical President
-
-*2024-11-26 01:17:45* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatic-ethical-President/4-769676) · `en`
-
-President of the Republic Anura Kumara Dissanayake spoke without notes in his first policy statement in Parliament. His unhesitating delivery in punctilious order was simultaneously translated into both English and Tamil.
-
-I rely on the English translation of the speech for the purpose of this brief commentary. He described it as a “monumental moment in the history of Sri Lanka’s Parliament.”
-
-Indeed, it will be remembered as a watershed moment, a turning point of our politics if only he succeeds in resolving his twin dilemmas – ensuring ethical governance, adopting pragmatic economics to break free from a “Sovereign Debt Trap.”
-
-...
-
-[Data](articles/47f173a5.json)
-
-[Extended Data](ext_articles/47f173a5.ext.json)
-
----
-
-### Chinese Communist Party group meets president
-
-*2024-11-26 01:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனக்-கம்யூனிஸ்ட்-கட்சி-குழுவினர்-ஜனாதிபதியுடன்-சந்திப்பு/175-347776) · `ta`
-
-Chinese Communist Party delegation met Sri Lankan president. They congratulated Anura Kumara Dissanayake's election win and expressed readiness to collaborate under his leadership. Discussion focused on bilateral development opportunities and mutually beneficial programs between China and Sri Lanka.
-
-🟩
-
-The Chinese delegation headed by the Central Committee of the Central Committee of the Central Committee of the Central Committee of the Chinese Committee met with the Chinese delegation headed by Sun Haiyan yesterday (25) at the Presidential Office.
-
-The Chinese Deputy Minister congratulated the victory of Anura Kumara Dissanayake in the last presidential election and the victory of his party in the general election and congratulated the exchanges in Sri Lanka after these victories.
-
-The deputy minister -led delegation told the president that China is ready to work closely with Sri Lanka under the leadership of President Anura Kumara Dissanayake.
-
-The focus was on the development opportunities of the two countries, China and Sri Lanka, and the significance of a mutual beneficial program between the two countries was discussed.. (A)
-
-◼️
-
-[Data](articles/26c720bc.json)
-
-[Extended Data](ext_articles/26c720bc.ext.json)
-
----
-
-### Honouring the unsung: Real beginnings of the ‘renaissance’
-
-*2024-11-26 01:11:31* · [`dailyftlk`](https://www.ft.lk/opinion/Honouring-the-unsung-Real-beginnings-of-the-renaissance/14-769675) · `en`
-
-It is to this farming community that the country owes a debt of gratitude today. They laid the real groundwork for the Aragalaya movement
-
-As early as the 1890s, psychology research has been done on crowd behaviour. Gustave Le Bon (1841) who was a French social psychologist pioneered research on group behaviour, especially crowd behaviour. People with compatible needs and interests come together (convergence theory), purposefully and united, to have their views represented. Classical theories treat crowds as pathological (contagion theory). Crowds are seen as mobs, mobs that act irrationally.
-
-...
-
-[Data](articles/109cb1a9.json)
-
-[Extended Data](ext_articles/109cb1a9.ext.json)
-
----
-
-### E.. Abduction attack on the bus
-
-*2024-11-26 01:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-போ-ச-பஸ்-மீது-கல்வீச்சு-தாக்குதல்/175-347775) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Transport Board bus attacked near Jaffna. Departed Point Pedro at 6:15 pm yesterday, heading to Vadamarachchi East Mamunai area.
-
-🟩
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) has been attacked from Point Pedro, Jaffna.
-
-The bus, which departed from Point Pedro yesterday (24) at 6.15 pm, went to the Vadamarachchi East Mamunai area.
-
-◼️
-
-[Data](articles/1324ff35.json)
-
-[Extended Data](ext_articles/1324ff35.ext.json)
-
----
-
-### Need of the hour, Muslim Cabinet Minister or Rule of Law: Muslim perspective
-
-*2024-11-26 01:04:09* · [`dailyftlk`](https://www.ft.lk/columns/Need-of-the-hour-Muslim-Cabinet-Minister-or-Rule-of-Law-Muslim-perspective/4-769674) · `en`
-
-The question many intellectuals now pose is whether this tradition of symbolic inclusion has ever translated into meaningful gains for the Muslim community
-
-The sweeping victory of the National People’s Power (NPP) in Sri Lanka’s recent elections marked a resounding call for change, as voters across the nation—from north to south and east to west—rejected corrupt political elitism in favour of a new, principled political culture. The scale of this victory, surpassing all predictions, demonstrated the people’s overwhelming desire for a transformation in governance, as clearly reflected in the election results, particularly the postal votes.
-
-...
-
-[Data](articles/65e62bcf.json)
-
-[Extended Data](ext_articles/65e62bcf.ext.json)
-
----
-
-### FINAP’s journey: From local innovation  to global recognition
-
-*2024-11-26 00:50:53* · [`dailyftlk`](https://www.ft.lk/business/FINAP-s-journey-From-local-innovation-to-global-recognition/34-769672) · `en`
-
-FINAP Founder and CEO Dr. Kutila Pinto recently participated at the 40th ASOCIO Summit in Tokyo. At the summit, FINAP was awarded the prestigious ‘Outstanding Tech Organisation’ title—a recognition that marks the company’s transformation from a promising Sri Lankan start-up to a rising global leader in financial technology.
-
-In this interview Dr. Pinto shared insights about FINAP’s remarkable journey, the values driving the organisation, and its vision for the future. Below is an in-depth discussion on how FINAP is redefining financial technology and empowering communities both locally and internationally.
-
-A: This recognition is a monumental milestone for FINAP. It reflects the hard work of our team, the relevance of our solutions, and our commitment to empowering communities through innovative financial technology. Being acknowledged on such a global platform reaffirms that our mission and values resonate beyond Sri Lanka and inspire us to push further boundaries.
-
-...
-
-[Data](articles/2c68c008.json)
-
-[Extended Data](ext_articles/2c68c008.ext.json)
-
----
-
-### Driving fintech forward: Cargills Bank partners SITS for seamless banking solutions
-
-*2024-11-26 00:45:13* · [`dailyftlk`](https://www.ft.lk/business/Driving-fintech-forward-Cargills-Bank-partners-SITS-for-seamless-banking-solutions/34-769671) · `en`
-
-Standing (from left): QA Engineer Runeth Thamuditha, Assistant Manager – Card Payment Buddhika Kumara, Assistant Vice President Sameera Priyadarshana, Senior Vice President Tushara Feldano, Manager – Card Business and Merchant Acquiring Nalaka Wijenayake, Executive – Card Business and Merchant Acquiring Dulan Rajapaksha
-
-Seated (from left): Assistant Manager – Public Relations Olindi Kiriella, Head of Card Services Kaushi Fernando, and Executive – Card Business Kashmini Hettiarachchi
-
-Cargills Bank, established in 2014, has quickly made a name for itself in Sri Lanka’s banking sector with a focus on innovation and customer excellence. To improve access to financial services, Cargills Bank has teamed up with Sampath IT Solutions Ltd. (SITS) to manage its network of Point-of-Sale (POS) systems across the country.
-
-...
-
-[Data](articles/be8ce26d.json)
-
-[Extended Data](ext_articles/be8ce26d.ext.json)
-
----
-
-### Epic Lanka joins premier  Asian banks and fintechs  at World Financial Innovation Series in Indonesia
-
-*2024-11-26 00:43:02* · [`dailyftlk`](https://www.ft.lk/business/Epic-Lanka-joins-premier-Asian-banks-and-fintechs-at-World-Financial-Innovation-Series-in-Indonesia/34-769670) · `en`
-
-Epic Lanka team at the World Financial Innovation Series in Jakarta, Indonesia
-
-Epic Lanka, recently attended the World Financial Innovation Series – Indonesia’s foremost financial sector event in Jakarta, Indonesia.
-
-The event comprising over 1,000 participants provided Epic a platform to demonstrate its comprehensive suite of fintech solutions, including advanced card payment systems, authentication technologies, payment security measures, business process automation, and dynamic workflow solutions.
-
-The World Financial Innovation Series (WFIS) Indonesia is an annual financial sector event that powers a meeting of FSI leaders, financial experts, technology moguls and government regulators to discuss and analyse the prevailing state of developments concerning the country’s financial realm.
-
-...
-
-[Data](articles/0dd6fc3a.json)
-
-[Extended Data](ext_articles/0dd6fc3a.ext.json)
-
----
 
 ### 2024-11-25 (Monday)
 
@@ -541,24 +215,6 @@ The President noted that the country’s disaster management laws were formulate
 [Data](articles/d364e202.json)
 
 [Extended Data](ext_articles/d364e202.ext.json)
-
----
-
-### Mixing Up The Governance With Politics: A Challenge To The NPP Government
-
-*2024-11-25 21:28:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mixing-up-the-governance-with-politics-a-challenge-to-the-npp-government/) · `en`
-
-“Power tends to corrupt, and absolute power corrupts absolutely“~ Lord Acton (1887)
-
-NPP (National People’s Power) clinches a historic landslide victory, redefining the political landscape in 2024 Parliamentary elections by securing 159 seats out of the 225 seats parliament (1) and getting a record breaking by obtaining 61.56% of the total votes [2]. However, the inexperience in governance and nepotism seems to have started affecting the progress of the new government and the mandate given by the people to eliminate corruption.
-
-As traditional practice was, the secretary to the president used to be selected from reputed senior SLAS officers with experience in administration of government ministries and with sound knowledge in government regulations and governance.
-
-He /she is responsible for mentoring and guiding other secretaries in all other ministries and providing timely advice to the HE President on critical issues.
-
-...
-
-[Data](articles/a515bc7f.json)
 
 ---
 
@@ -2425,5 +2081,475 @@ Australia lost all the wickets in the second innings towards the winning target 
 [Data](articles/aa035ea0.json)
 
 [Extended Data](ext_articles/aa035ea0.ext.json)
+
+---
+
+### Two new secretaries appointed to ministries
+
+*2024-11-25 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103752/two-new-secretaries-appointed-to-ministries) · `en`
+
+President Anura Kumara Dissanayake has appointed two new secretaries to ministries, the President’s Media Division (PMD) stated in a statement.
+
+The letters of appointment were handed over today (25) at the Presidential Secretariat by the Secretary to the President Dr. Nandika Sanath Kumanayake, the PMD said.
+
+Accordingly, President’s Counsel Ayesha Jinasena has been appointed as the Secretary to the Ministry of Justice and National Integration.
+
+Meanwhile, Ms. Malarmathi Gangadharan has been appointed as the Secretary to the Ministry of Rural Development, Social Security, and Community Empowerment, the statement added.
+
+◼️
+
+[Data](articles/4b6039c5.json)
+
+[Extended Data](ext_articles/4b6039c5.ext.json)
+
+---
+
+### Archana is demanding personal safety
+
+*2024-11-25 14:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிப்பட்ட-பாதுகாப்பு-கோருகிறார்-அர்ச்சுனா/175-347735) · `ta`
+
+Sri Lanka MP Archana Ramanathan seeks protection after controversial remarks. Threats received due to actions in parliament. Deputy Secretary advises written request to Ministry of Public Security for security arrangements.
+
+🟩
+
+Newly elected Jaffna District Parliamentarian Dr. Archana Ramanathan has sought personal protection following his setback due to his actions during the initial session of the 10th Parliament of Sri Lanka.
+
+During the first session of parliament last week, the Member of Parliament traditionally refused to move on a seat reserved for the opposition leader, while he was reportedly making communal statements.
+
+Parliamentarian Archana Ramanathan, who attended the guidance for the newly elected MPs held at the Parliamentary Complex today, pointed out that he was facing severe threats by the incident.
+
+“I could not walk on the street because of the incident in the parliamentary seat. The media took a 45-50 minute interview. They questioned if I had eaten and I replied yes. Then they questioned whether I was a part of the LTTE and replied that I am not. But they have avoided my answer to the second question and I have been unable to walk on the street. ”
+
+...
+
+[Data](articles/c3f661a6.json)
+
+[Extended Data](ext_articles/c3f661a6.ext.json)
+
+---
+
+### New secretaries appointed to two ministries
+
+*2024-11-25 14:48:33* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකකට-නව-ලේකම්වරු-පත්-කෙරේ/11-413252) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake appoints two new secretaries:
+
+1. Aeresha Jinasena (Justice & National Integration)
+
+2. (Rural Development Social Security & Community Stativation)
+
+🟩
+
+President Anura Kumara Dissanayake has appointed two new secretaries for two ministries.
+
+Accordingly, President's Counsel Aeresha Jinasena has been appointed as the Secretary to the Ministry of Justice and National Integration as the Secretary to the Ministry of Rural Development Social Security and Community Stativation.
+
+◼️
+
+[Data](articles/6cacfe77.json)
+
+[Extended Data](ext_articles/6cacfe77.ext.json)
+
+---
+
+### Ex-Minister Manusha Nanayakkara responds to accusations over ‘E-8 visa’ issue
+
+*2024-11-25 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103751/ex-minister-manusha-nanayakkara-responds-to-accusations-over-e-8-visa-issue) · `en`
+
+Allegations of illegal financial gains connected to the contentious ‘E8 visa’ scheme have been directed at former Minister of Labour and Foreign Employment, Manusha Nanayakkara.
+
+Kosala Wickramasinghe, Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), levelled these accusations during Ada Derana’s current affairs programme “Big Focus,” earlier today (25).
+
+Addressing the issue, Wickramasinghe claimed, “It is problematic why a recognized minister of the government gets involved in a scheme that amounted to human trafficking. There is a lot of suspicion. We can suspect that the minister made illegal profits. We do not have evidence at the moment. We are collecting information.”
+
+He further stated, “There are teams and legal mechanisms in place. This is not just about the E8 visa issue—there are many other issues under investigation.”
+
+...
+
+[Data](articles/4ad1aa6c.json)
+
+[Extended Data](ext_articles/4ad1aa6c.ext.json)
+
+---
+
+### New secretaries appointed to two ministries
+
+*2024-11-25 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203716) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+President Anura Kumara Dissanayake appoints two new Secretaries. Aeesha Jinasena (Justice & National Integration) and Malarmathi Gangaron (Rural Development, Social Security, Community Stabilization).
+
+🟩
+
+President Anura Kumara Dissanayake has appointed two new Secretaries for two of the Ministries.
+
+Articles of the Appointment of the Appointment
+
+Accordingly, President's Counsel Aeesha Jinasena has been appointed as the Secretary to the Ministry of Justice and National Integration.
+
+Ms. Malarmathi Gangaron has been appointed as the Secretary to the Ministry of Rural Development Social Security and Community Stativation.
+
+◼️
+
+[Data](articles/053a9ffb.json)
+
+[Extended Data](ext_articles/053a9ffb.ext.json)
+
+---
+
+### Harshana reveals about the preparation of the animation
+
+*2024-11-25 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203715) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Harshana discusses animation preparation. Ranil Wickremesinghe absent from Sri Lanka. Rajakaruna invites right-wing forces for reconciliation. He requests Wickremesinghe and USNP/USNI unity for joint programs.
+
+🟩
+
+If Ranil Wickremesinghe is ready to give Sajith Premadasa to Sajith Premadasa, he said.
+
+"Mr. Ranil Wickremesinghe's not in Sri Lanka.
+
+Addressing a media briefing in Colombo, Rajakaruna said that all the right-wing forces would be invited to join hands with the reconciliation.
+
+"We believe Ranil Wickremesinghe and we believe that these skillful politics should join us all. We request Ranil Wickremesinghe and all the USNP, all USNIs and all of the United States, we must work to come to the same program. Ejizala, we should gather the USNPS groups and go a journey in the future. "
+
+◼️
+
+[Data](articles/c7fc8be3.json)
+
+[Extended Data](ext_articles/c7fc8be3.ext.json)
+
+---
+
+### Philippine VP publicly threatens to have the President assassinated
+
+*2024-11-25 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103750/philippine-vp-publicly-threatens-to-have-the-president-assassinated) · `en`
+
+Philippine Vice President Sara Duterte said Saturday she has contracted an assassin to kill the president, his wife and the House of Representatives speaker if she herself is killed, in a brazen public threat that she warned was not a joke.
+
+Executive Secretary Lucas Bersamin referred the “active threat” against President Ferdinand Marcos Jr. to an elite presidential guards force “for immediate proper action.” It was not immediately clear what actions would be taken against the vice president.
+
+The Presidential Security Command boosted Marcos’ security and said it considered the vice president’s threat, which was “made so brazenly in public,” a national security issue.
+
+The presidential security force said it was “coordinating with law enforcement agencies to detect, deter, and defend against any and all threats to the president and the first family.”
+
+...
+
+[Data](articles/006f2fb5.json)
+
+[Extended Data](ext_articles/006f2fb5.ext.json)
+
+---
+
+### Tree, vehicle damage to the root
+
+*2024-11-25 14:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேருடன்-சாய்ந்த-மரம்-வாகனமும்-சேதம்/175-347734) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Inclement weather damages tree in Dharmapuram Chundikulam. Tree leans onto vehicle, causing partial damage. Traffic police and local youth collaborate to remove tree, restoring order.
+
+🟩
+
+Due to the inclement weather, a tree has been damaged in the Dharmapuram Chundikulam area.
+
+The vehicle was partially damaged when the tree was leaning with the root of the vehicle.
+
+Due to this, the traffic police and the youth of the area together removed the tree and brought the situation to normal.
+
+◼️
+
+[Data](articles/eab33b2e.json)
+
+[Extended Data](ext_articles/eab33b2e.ext.json)
+
+---
+
+### Vattuvagal Bridge in floods: Marines, police on security duty!
+
+*2024-11-25 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199628) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Vattuvagal Bridge floods: Police & navy on duty. Mullaitivu rains raise sea levels. Parts damaged. RDA identifies banks. Built in 1950s, 440m long. Damaged in 2004 tsunami & 2009 war. Still in use despite damage."
+
+🟩
+
+Police and navy personnel are on duty at both the bridge due to the fact that the bridge is unknown and flooded.
+
+Mullaitivu district is continuously raining.This has increased the water level of the Nandi Sea and the water level has risen in the Vadduvagal Bridge.
+
+Many parts of the bridge are broken, damaged and found in a dangerous position. As a result, passengers are in a state of disrepair to face this dangerous situation.
+
+Meanwhile, the Road Development Authority is currently in the process of identifying the two banks of the bridge.
+
+The Vattuvagal Bridge, which is said to have been built in the 1950s, is almost 440 meters long.
+
+The Vattuvagal Bridge has been severely damaged by the 2004 tsunami disaster and the war in 2009.However, the Vadduvagal Bridge has been used by the public to this day.
+
+◼️
+
+[Data](articles/b00702da.json)
+
+[Extended Data](ext_articles/b00702da.ext.json)
+
+---
+
+### Car accident using Google Map: trio kills
+
+*2024-11-25 14:10:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மெப்பை-பயன்படுத்தி-கார்-விபத்து-மூவர்-பலி/175-347730) · `ta`
+
+Google Maps leads car into flooded river, killing three in Uttar Pradesh. Accident blamed on GPS guidance and lack of warning signs.
+
+🟩
+
+A car accident using the Google Guidance Map has taken place in Uttar Pradesh.
+
+A car was traveling from Bareilly in Uttar Pradesh to Dadaganch in Badown district. Three people, including brothers in the car, were traveling.
+
+While the car was traveling with the help of Google Map, the car that was flooded in the area crashed into a river that was running down 50 feet.
+
+Relatives of the victims said that the accident occurred because of the Google Map.
+
+In addition, department officials have complained that there are no barricades in the area to warn the vehicles of the bridge due to incomplete.
+
+◼️
+
+[Data](articles/ffb00061.json)
+
+[Extended Data](ext_articles/ffb00061.ext.json)
+
+---
+
+### India beat India
+
+*2024-11-25 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203714) · `si`
+
+India vs Australia: India wins first Test in Perth by 295 runs. India scores 487/6 in second innings, Australia 238 chasing 534. India leads World Test Championship table after victory.
+
+🟩
+
+The Sri Lanka Touristdy team won the first Test in Perth by 295 runs among India and Australia
+
+Chasing a target of 534 runs for the winning, the Australian group, the fourth day of the match, were all out for 238 runs.
+
+The Indian team scored 150 runs in their first innings and the Australian team bowled out 104 runs for the first innings.
+
+India scored 487 runs for the loss of 6 wickets for the loss of 6 wickets in their second innings.
+
+Accordingly, Indian team has come forward in the five-match tournament.
+
+India to take the first place in the World Test Championship page with this victory.
+
+◼️
+
+[Data](articles/243deb80.json)
+
+[Extended Data](ext_articles/243deb80.ext.json)
+
+---
+
+### Adani’s Colombo Port project under scrutiny as US Agency conducts due diligence
+
+*2024-11-25 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103749/adanis-colombo-port-project-under-scrutiny-as-us-agency-conducts-due-diligence) · `en`
+
+United States international development finance corporation, which is partially funding the Colombo port terminal in Sri Lanka, is employing due diligence on the project after the allegations against the Adani Group chairman by the US Department of Justice came to light. The US agency mentioned that it hasn’t concluded a final agreement on the loan worth $500 million to the conglomerate yet, according to a Bloomberg report. The project is partly owned by the Adani Group.
+
+“We continue to conduct due diligence to ensure that all aspects of the project meet our rigorous standards before any loan disbursements are made,” the US agency official told Bloomberg in a statement. “The project has not reached financial close or signed a loan agreement,” the agency added.
+
+...
+
+[Data](articles/bc407343.json)
+
+[Extended Data](ext_articles/bc407343.ext.json)
+
+---
+
+### Is the former minister's manuscript accused of a human trafficking?
+
+*2024-11-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203713) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Labor Minister Manusha Nanayakkara denies human trafficking accusations regarding the E8 visa system. He claims the system was meant to create jobs but faced implementation issues. The Foreign Employment Bureau states short-term seasonal jobs cannot be legally sent to South Korea under E8 visas.
+
+🟩
+
+Former Labor and Foreign Employment Minister Manusha Nanayakkara is suspected that the E8 has been suspected to misuse its profits using the E8 system.
+
+Kiosala Wickremasinghe said this morning connected to Ada Derana Figus "program today.
+
+He also said that the intervention of former Minister intervention is also questioned as a human racket.
+
+"We think this government has accepted a recognized minister why pushed to a human racket. There is a great deal of blossoms that we have made the minister a miracle. Currently, we are not factors. We are gathering information. There are groups. There is legal systems that can be taken legally. Only one party. Not only this e8, the question here. There are a lot of questions. "
+
+The intervention of a former minister has held a press conference this morning, said he had operated the E8 visas without a job agreement without an employment agreement.
+
+...
+
+[Data](articles/4bad3565.json)
+
+[Extended Data](ext_articles/4bad3565.ext.json)
+
+---
+
+### Why were many votes rejected at the general election?
+
+*2024-11-25 13:53:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1mlv3vy51ro) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+High rejection rates in Sri Lanka's 2024 general election due to complex voting system, low literacy, and lack of awareness in certain districts.
+
+🟩
+
+As a central American country, El Salvador, the population was approximately Rs. 6.4 lakhs. It is approximately equal number of rejected votes in Sri Lanka. At the general election, 5.65% of the total votes were rejected. It marks the third highest rate of polls since 1989. The highest rejected votes reported at the 2010 general election.
+
+In the 2024 presidential election, the voter turnout, which was reportedly more publicized than the general election, showed a low trend and 2.2%.
+
+The 1978 Constitution, the 1978 constitution introduced the election system by changing the simple majority system to proportional representation. According to Democratic Reforms and Electoral Resources (IRS Executive Director), Manjula Gananayake, the proportional representation is complicated to voting for many. Votes also take effort to remember the names of political parties and independent groups, not only score and not only scores.
+
+...
+
+[Data](articles/d5d7aeb4.json)
+
+[Extended Data](ext_articles/d5d7aeb4.ext.json)
+
+---
+
+### Affect the West Terminal Project at the Colombo Port?
+
+*2024-11-25 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203712) · `si`
+
+Colombo Port West Terminal project impacted by:
+
+
+
+1. Re-evaluation by American International Monetary Corporation
+
+2. Allegations against Gautam Company founder
+
+3. Indian business accused of bribery in US court
+
+4. Record drop in Ahani Company dollar bond value
+
+5. $27.9 billion market loss in two weeks
+
+6. $265 million bribery allegations against Indian officials over 20 years
+
+
+
+Total characters: 200
+
+🟩
+
+The American International Monetary Corporation has said that it is re-evaluated on the development of the Colombo Harbor to develop the Colombo Harbor Terminal for the development of the Colombo Port.
+
+The American Attorney General's Department is an impact on the allegations of the allegations of Gautam Company and the founder Gautam Company and the Founda.
+
+The famous business of India was released by an American court in the United States.
+
+They were given bribery and the accusations to make profits.
+
+With this, the value of the dollar bonds of the Ahani Company has fallen in record.
+
+Accordingly, the market value lost in two quarts of the week is US $ 27.9 billion.
+
+The allegation of US $ 265 million bribes to Indian government officials to receive massive projects in the past 20 years have been allegations to the Indian government officials to make US $ 2 billion profit.
+
+◼️
+
+[Data](articles/dd16a54b.json)
+
+[Extended Data](ext_articles/dd16a54b.ext.json)
+
+---
+
+### Kathmandu 1987 and Islamabad 1988
+
+*2024-11-25 13:46:00* · [`islandlk`](http://island.lk/kathmandu-1987-and-islamabad-1988/) · `en`
+
+At the Third SAARC Summit Meeting in Nepal on November 2-4, 1987, 1 had called for going “full sail ahead” with the King of Nepal in the host’s chair. I said:
+
+“As we all know, regionalism in South Asia has had a late beginning. One of the remarkable developments since the Second World War has been the spread of regionalism, manifested in the setting up of regional organizations which have to cover most of the globe. The fact that SAARC came to be formed so late has been explained by the disparities and imbalances within our region. Nevertheless, there is at the same time, an underlying homogeneity among South Asian countries, on which we hope to build an enduring regionalism for the common benefit of all of us.
+
+...
+
+[Data](articles/33039b22.json)
+
+[Extended Data](ext_articles/33039b22.ext.json)
+
+---
+
+### The NPP’s ascent and the Opposition’s descent in Sri Lanka
+
+*2024-11-25 13:44:00* · [`islandlk`](http://island.lk/the-npps-ascent-and-the-oppositions-descent-in-sri-lanka/) · `en`
+
+At parliamentary elections in Sri Lanka last week, the centre-left National People’s Power (NPP) checked all lists and squared all circles, winning not just traditional seats but also polling divisions populated by minority communities.
+
+Speaking to the media on Friday, November 15, hours after general election results were announced in Sri Lanka, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP), the dominant member in the National People’s Power (NPP) alliance that governs the country, acknowledged that his party would commit to “developing the country, eradicating corruption, and enhancing democracy with accountability.”
+
+Silva’s remarks came in the backdrop of one of the biggest electoral landslides in the island’s political history: the NPP, reduced to three seats at the 2020 general election, gained a two-thirds majority, obtaining 159 seats and 61 percent of the vote, last week.
+
+...
+
+[Data](articles/2edb5ec6.json)
+
+[Extended Data](ext_articles/2edb5ec6.ext.json)
+
+---
+
+### $ 200 million from ADB
+
+*2024-11-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203711) · `si`
+
+ADB approves $200m loan for Sri Lanka infrastructure upgrade
+
+🟩
+
+ADB has approved a loan of US $ 200 million to improve the infrastructure facilities in Sri Lanka.
+
+◼️
+
+[Data](articles/d7dddaf3.json)
+
+[Extended Data](ext_articles/d7dddaf3.ext.json)
+
+---
+
+### Netanyahu welcomes Trump’s re-election to second term
+
+*2024-11-25 13:43:00* · [`islandlk`](http://island.lk/netanyahu-welcomes-trumps-re-election-to-second-term/) · `en`
+
+Trump’s new Ambassador to Israel: “There’s really no such thing as a Palestinian”
+
+The re-election of Donald Trump to a second term of the presidency of the United States has changed the ideological trajectory of the future of the United States. At least for the foreseeable future.But it has sealed the fate of the Palestinian people in the Gaza Strip and the West Bank. Permanently.
+
+To even consider the validity of the above statement, one must look into the constitutional, conventional and practical qualifications for the Presidency of the United States. Constitutionally, the President must be at least 35 years of age, be a natural born citizen and must have lived in the United States for at least 14 years.
+
+...
+
+[Data](articles/28b393ff.json)
+
+[Extended Data](ext_articles/28b393ff.ext.json)
 
 ---

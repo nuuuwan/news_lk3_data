@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 05:25:47**
+As of **2024-11-25 05:50:46**
 
 ## Newspaper Stats
 
-*Scraped **56,680** Articles*
+*Scraped **56,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 587
-islandlk | 3,395
+islandlk | 3,404
 economynextcom | 3,433
 dailyftlk | 3,901
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,680 (100.0%) of 56,680 articles have been extended.
+56,680 (100.0%) of 56,689 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,48 @@ The Maritime Rescue Coordination Centre (MRCC) Colombo, established at the Navy 
 [Data](articles/4ede97c7.json)
 
 [Extended Data](ext_articles/4ede97c7.ext.json)
+
+---
+
+### WIM Gold Award for Sampath Bank MD
+
+*2024-11-25 02:59:00* · [`islandlk`](http://island.lk/wim-gold-award-for-sampath-bank-md/) · `en`
+
+Sampath Bank has announcds that its Managing Director, Ayodhya Iddawela Perera, has been awarded the Gold Award at the 14th Top50 Professional & Career Women Global Awards 2024, recognising her outstanding contributions to Sri Lanka’s finance and banking sector.
+
+Presented recently during the awards ceremony at the Sheraton Imperial Hotel in Kuala Lumpur, Malaysia, this accolade celebrates Mrs. Perera’s exemplary leadership and vision within the industry, marking a significant milestone in both her career and Sampath Bank’s journey.
+
+...
+
+[Data](articles/7cf46cb1.json)
+
+---
+
+### Sri Lanka reduces government budget deficit by Rs. 643 bn between Jan – Sep 2024
+
+*2024-11-25 02:59:00* · [`islandlk`](http://island.lk/sri-lanka-reduces-government-budget-deficit-by-rs-643-bn-between-jan-sep-2024/) · `en`
+
+During the year up to 22nd November 2024, the Sri Lanka rupee appreciated against the US dollar by 11.3 per cent, according to the Weekly Economic Indicators report issued by the Central Bank of Sri Lanka.During the period from January to September 2024, the overall budget deficit decreased to Rs. 970.0 bn compared to Rs. 1,613.6 bn recorded in the corresponding period of 2023, the report stated.
+
+On-year-on-year basis, National Consumer Price Index (NCPI) based headline inflation remained in the negative territory for the second consecutive month, recording a deflation of 0.7 per cent in October 2024 from 0.2 per cent deflation reported in September 2024.
+
+In October 2024, Purchasing Managers’ Indices indicated expansions in both Manufacturing and Services activities, on a month-on-month basis.
+
+...
+
+[Data](articles/8a81b230.json)
+
+---
+
+### Apeksha Hospital launches new website for worldwide donations, with greater transparency
+
+*2024-11-25 02:53:00* · [`islandlk`](http://island.lk/apeksha-hospital-launches-new-website-for-worldwide-donations-with-greater-transparency/) · `en`
+
+The National Cancer Institute of Sri Lanka (NCISL) recently launched its all-new website, www.helpapeksha.com in the presence of Dr.P.G.Mahipala-Secretary of Ministry of Health, Dr. Asela Gunawardena – Director General of Health Services of Ministry of Health, Shevan Goonetilleke-the Chief Executive Officer of MillenniumIT ESP, Channa de Silva-Chief Executive Officer of LankaPay (Pvt) Ltd, Ayodhya Iddawela-Managing Director at Sampath Bank PLC, Sri Lanka’s beloved musical duo Bathiya & Santhush as the Brand Ambassadors along with Umesh Gautam,-Chief Executive Officer / Managing Director of Lanka Ashok Leyland PLC, and the NCISL Hospital Director Dr. Aruna Dissanayaka along with his staff, and Binara Jayawardena with the committee members.
+
+...
+
+[Data](articles/71ca110a.json)
 
 ---
 
@@ -256,6 +298,20 @@ The Federation members had already participated in two rounds of discussions wit
 
 ---
 
+### SriLankan Airlines secures second consecutive ‘Emerging Cargo Airline’ Award at Arabian Cargo Awards
+
+*2024-11-25 02:44:00* · [`islandlk`](http://island.lk/srilankan-airlines-secures-second-consecutive-emerging-cargo-airline-award-at-arabian-cargo-awards/) · `en`
+
+SriLankan Airlines has secured the ‘Emerging Cargo Airline’ award for a second consecutive year at the Arabian Cargo Awards 2024, held on 11 November 2024 in Dubai. This achievement underlines the airline’s ongoing commitment to excellence in the air cargo sector, delivering reliable and efficient solutions globally. The Arabian Cargo Awards celebrates outstanding achievements in air freight, operational efficiency and innovation, with nominees evaluated by a panel of industry experts on criteria such as operational success, service quality and creativity.
+
+This recognition highlights SriLankan Airlines’ investment in technology and advanced air cargo solutions. Over the past year, the airline has prioritized optimizing cargo capacity by partnering with digital platforms to enhance accuracy and offer convenience, all while maintaining high service standards.
+
+...
+
+[Data](articles/2e8c8869.json)
+
+---
+
 ### SLPA targets Rs. 85 b  revenue in 2024 as operations expand
 
 *2024-11-25 02:43:54* · [`dailyftlk`](https://www.ft.lk/business/SLPA-targets-Rs-85-b-revenue-in-2024-as-operations-expand/34-769650) · `en`
@@ -280,6 +336,20 @@ SLPA’s Harbour Master Capt. Nirmal Silva expressed optimism about the target, 
 
 ---
 
+### Safe Labour Migration Programme handed over to Sri Lanka
+
+*2024-11-25 02:43:00* · [`islandlk`](http://island.lk/safe-labour-migration-programme-handed-over-to-sri-lanka/) · `en`
+
+The Embassy of Switzerland, in collaboration with the Government of Sri Lanka and the International Labour Organization (ILO), hosted the hand-over ceremony of the Safe Labour Migration Programme (SLMP) at Cinnamon Life, Colombo. This event marked the formal conclusion of a 14-year partnership that significantly advanced the safe and regular labour migration landscape in Sri Lanka.
+
+Launched in 2010, the SLMP was implemented through a multi-stakeholder collaboration, funded entirely by the Swiss Agency for Development and Cooperation (SDC) with an investment of CHF 16.65 million. The programme was implemented by the International Labour Organization (ILO), HELVETAS Swiss Intercooperation, the International Executive Service Corps (IESC), and several civil society organizations (CSOs), fostering a broad and inclusive approach to achieving its objectives.
+
+...
+
+[Data](articles/181ebcec.json)
+
+---
+
 ### Sri Lanka seeks enhanced trade ties with India, calls for quota reforms
 
 *2024-11-25 02:40:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-seeks-enhanced-trade-ties-with-India-calls-for-quota-reforms/34-769649) · `en`
@@ -299,6 +369,18 @@ Noting that Sri Lanka’s apparel industry, a cornerstone of its export economy,
 [Data](articles/4c89332b.json)
 
 [Extended Data](ext_articles/4c89332b.ext.json)
+
+---
+
+### IIHS launches young entrepreneurs’ hub
+
+*2024-11-25 02:40:00* · [`islandlk`](http://island.lk/iihs-launches-young-entrepreneurs-hub/) · `en`
+
+The International Institute of Health Sciences (IIHS) has officially launched the Young Entrepreneurs Hub. This dynamic platform is designed to empower young change-makers by fostering an environment where innovative ideas can thrive, and meaningful partnerships can be nurtured. With social entrepreneurship, community development, and environmental sustainability at its core, the hub seeks to create a new generation of visionary leaders equipped to tackle the challenges of tomorrow.
+
+...
+
+[Data](articles/0c784244.json)
 
 ---
 
@@ -353,6 +435,22 @@ In the statement, Ceylon Institute of Builders President Dr. Rohan Karunaratne f
 [Data](articles/6414094b.json)
 
 [Extended Data](ext_articles/6414094b.ext.json)
+
+---
+
+### Nawaloka Medicare marks 10th anniversary
+
+*2024-11-25 02:38:00* · [`islandlk`](http://island.lk/nawaloka-medicare-marks-10th-anniversary/) · `en`
+
+Nawaloka Medicare (Pvt.) Ltd. recently celebrated its 10th anniversary at its state-of-the-art, seven-story facility in the heart of Negombo. Since the inauguration of its Centre in 2014, Nawaloka Medicare Negombo has consistently set a benchmark for excellence in healthcare, remaining steadfast in its commitment to providing top-tier medical services and bringing hope to countless individuals across the community.
+
+The facility boasts a wide range of services, including a 75-bed in-patient capacity and a newly expanded wing, which increases hospital space to accommodate fully equipped consultation rooms and a dedicated Maternal and Baby Centre.
+
+Chairman of Nawaloka Medicare (Pvt.) Ltd, Harshith Dharmadasa said, ” Over the past decade, we have successfully conducted 5,000 deliveries and over 20,000 surgeries, delivering exceptional care to thousands of patients. With consultations offered across more than 500 specialties, our hospital remains a trusted healthcare provider.”
+
+...
+
+[Data](articles/5cf0e3c7.json)
 
 ---
 
@@ -2211,201 +2309,5 @@ The Indian national girl, the Indian national girl, has been forwarded to the Bo
 [Data](articles/63585c5f.json)
 
 [Extended Data](ext_articles/63585c5f.ext.json)
-
----
-
-### Two missing, 5 rescued after boat accident at lagoon in Negombo
-
-*2024-11-24 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103727/two-missing-5-rescued-after-boat-accident-at-lagoon-in-negombo) · `en`
-
-A 50-year-old man and his 20-year-old daughter are reported missing while five others have been rescued following a tragic boating accident in the Munnakkarai Lagoon in Negombo, police said.
-
-The Police Media Division stated that the incident occurred when a paddle boat collided with a larger vessel on the lagoon this afternoon (24), and capsized while carrying seven individuals, including a Catholic priest who had recently returned from overseas.
-
-Nearby boat crews had managed to rescue five people, including the priest, but the father and daughter remain missing. Two others, who sustained critical injuries, were rushed to Negombo General Hospital for treatment.
-
-According to police, the group consisted of three men and four women, all fishermen and family members from Munnakkarai.
-
-A search operation is underway to locate the two missing persons who are feared to have drowned.
-
-◼️
-
-[Data](articles/992e28e9.json)
-
-[Extended Data](ext_articles/992e28e9.ext.json)
-
----
-
-### Now work and show
-
-*2024-11-24 15:50:34* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-වැඩ-කර-පෙන්වන්න/11-413232) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Maha Siddhartha Sumangala Maha N'T praises President Mahinda as key to national victory. Minister Vijitha Herath highlights Buddhist support. Wild animal losses affect farmers. Religious leaders visit temples. Proposals aim to address monk behavior issues. Committees formed to extend solutions.
-
-🟩
-
-The Maha Siddhartha Sumangala Maha N'T is the Most Pre-President Mahindaayake, who has contributed to a major expectation of the victory of the national population speed, says the Mahanake Sumangala Maha N. Heraki.
-
-The Maha Nayro Thero emphasized the Foreign Action and Minister of Tourism Vijitha Herath and Irrigation Livestock. At the time he visited the Maha Viharaya, Lal Kantha.
-
-The people have given the people of the national power to the national propinity in understanding the past. Now you have to show.
-
-You have been achieved to win 21 of the 22 electoral districts.. All of you should commit to that.
-
-The farmer community has been severely impaired due to wild animal losses.
-
-Minister Vijitha Herath said that the blessings of the Malwathu Maha Naroth, including Malwathu Maha Naroth, and the people of this country have contributed significantly to the masses in the Maha Sangha for the victory of their national font.
-
-...
-
-[Data](articles/59ad95cf.json)
-
-[Extended Data](ext_articles/59ad95cf.ext.json)
-
----
-
-### Father who was killed in Negombo laugas
-
-*2024-11-24 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203682) · `si`
-
-Accident in Negombo: Father killed, daughter missing. Two boats collided, 7 drowned, 5 survived.
-
-🟩
-
-Two boats have been disappeared in the accident that boat had been hit by a boat in Negombo.
-
-Seven persons have drown and 5 of them have survived.
-
-The 50-year-old father and daughter have disappeared, police said.
-
-Two persons survived and the other have been treated in treatment and the other had left the hospital.
-
-◼️
-
-[Data](articles/3a34d38d.json)
-
-[Extended Data](ext_articles/3a34d38d.ext.json)
-
----
-
-### Poppy Flower Day to commemorate the Armed Forces
-
-*2024-11-24 15:44:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஆயுதப்படையின்-நினைவாக-பொப்பி-மலர்-தினம்/46-347688) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Armed Forces Memorial Day observed at Vikaramahadevi Park. President Anura Kumara Dissanayake led ceremony honoring fallen soldiers from WWI to present. Two-minute silence, floral tributes paid. Attended by officials, ambassadors, army personnel, and families of surviving soldiers.
-
-🟩
-
-The Memorial Day of the Armed Forces was held on Monday (24) near the Soldiers' memorial at the Vikaramahadevi Park in Colombo, chaired by President of the Armed Forces President Anura Kumara Dissanayake.
-
-The event is being organized annually by the Sri Lanka Army Service to commemorate the soldiers who sacrificed their lives for the protection of the motherland from World War I to the present day.
-
-President Anura Kumara Dissanayake was welcomed by President Anura Kumara Dissanayake, General Secretary of the Retired Association of Sri Lanka, Lieutenant Colonel (Retired) Ajith Siyambalapitiya.
-
-A two -minute silent tribute was paid to commemorate the soldiers who sacrificed their lives after the Sarvadam rituals and representatives of the Sri Lanka Army Service paid a floral tribute to the military monument.
-
-...
-
-[Data](articles/64f35095.json)
-
-[Extended Data](ext_articles/64f35095.ext.json)
-
----
-
-### Poppy Flower Day to commemorate the Armed Forces
-
-*2024-11-24 15:44:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதப்படையின்-நினைவாக-பொப்பி-மலர்-தினம்/175-347688) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Armed Forces Memorial Day observed at Vikaramahadevi Park. President Anura Kumara Dissanayake led tributes to fallen soldiers. Annual event honors sacrifices since WWI. Military officials, diplomats, and families attended.
-
-🟩
-
-The Memorial Day of the Armed Forces was held on Monday (24) near the Soldiers' memorial at the Vikaramahadevi Park in Colombo, chaired by President of the Armed Forces President Anura Kumara Dissanayake.
-
-The event is being organized annually by the Sri Lanka Army Service to commemorate the soldiers who sacrificed their lives for the protection of the motherland from World War I to the present day.
-
-President Anura Kumara Dissanayake was welcomed by President Anura Kumara Dissanayake, General Secretary of the Retired Association of Sri Lanka, Lieutenant Colonel (Retired) Ajith Siyambalapitiya.
-
-A two -minute silent tribute was paid to commemorate the soldiers who sacrificed their lives after the Sarvadam rituals and representatives of the Sri Lanka Army Service paid a floral tribute to the military monument.
-
-...
-
-[Data](articles/9818ca3e.json)
-
-[Extended Data](ext_articles/9818ca3e.ext.json)
-
----
-
-### Friendship father disappears and five children
-
-*2024-11-24 15:39:29* · [`adalk`](https://www.ada.lk/breaking_news/මිගමුව-කලපුවේ-ධීවර-යාත්‍රාවක්-පෙරළි-පියා-දියණීය-අතුරුදහන්--පස්-දෙනෙක්-බේරා-ගැනෙයි/11-413231) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Father and daughter disappear while fishing. Small boat capsizes in lagoon. Three men, four women survive. Father and daughter presumed dead. Search operation launched in Negombo.
-
-🟩
-
-A small fishing vessel that was traveling on the lagoon 24 days, a father and a daughter had rescued and another rescued was rescued.
-
-The lagoon is disappeared that Ranil Fernando, a resident of the Migamuwa, said a daughter to be a resident of Manigamuwa.
-
-Family Members with the father and daughter with the lagoon, the Family Members of the Family Members (Family Members) Siriwardena have dropped the lagoon near the lagoon near Siriwardena.
-
-The same family membership members of the vessel had traveled and three men and four women were traveling.
-
-Although the crash was crashed with the crash, the father and her daughter's lineges are missing.
-
-Two others who were traveling in the vessel in critical liquor have been admitted to the Neguma Group.
-
-The accident had occurred when the fishermen and his relatives from the Munkukaathu have been reported from a well-known small vessel called the Shrian Boat.
-
-...
-
-[Data](articles/89112e87.json)
-
-[Extended Data](ext_articles/89112e87.ext.json)
-
----
-
-### The northern paths are coming to the North
-
-*2024-11-24 15:28:02* · [`adalk`](https://www.ada.lk/picture_story/උතුරේ-කිඹුල්ලු-මාර්ගවලට-එයි/10-413230) · `si`
-
-Floods hit northern Sri Lanka, affecting 15,470 people. Heavy rains cause damage in Jaffna, Mannar, Kilinochchi, and Mullaitivu districts. Disaster Management Center reports 9,025 affected in Jaffna. Wildlife officials take measures to mitigate impact. Relief efforts underway for affected areas.
-
-🟩
-
-District in charge of 15,470 persons belonging to 4162 families have been affected by the floods due to the floods caused by heavy rains.
-
-According to floods, the Northern Province has been influenced by the Jaffna, Mannar, Kilinochchi and Mullaitivu districts.
-
-The Disaster Management Center states that 9025 persons belonging to 84 families belonging to 84 families belonging to 1905 families in the Jaffna District have also been tributed in the Jaffna District.
-
-Meanwhile, after the floods in the Jaffna district, the celebrations and wildlife officials have taken measured to cash them and informed the people to be considered.
-
-Due to the flooding, which has been flooded for nearly a week, there will be a result of floods and the future is likely to increase.
-
-Meanwhile, steps have been taken to facilitate the affected areas to facilitate the affected people.
-
-◼️
-
-[Data](articles/d06639be.json)
-
-[Extended Data](ext_articles/d06639be.ext.json)
 
 ---

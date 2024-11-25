@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 20:14:47**
+As of **2024-11-25 21:03:33**
 
 ## Newspaper Stats
 
-*Scraped **56,827** Articles*
+*Scraped **56,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,275 @@ islandlk | 3,406
 economynextcom | 3,445
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,350
-adaderanalk | 6,873
-tamilmirrorlk | 8,088
-virakesarilk | 9,256
-adaderanasinhalalk | 9,808
+adalk | 5,352
+adaderanalk | 6,874
+tamilmirrorlk | 8,089
+virakesarilk | 9,267
+adaderanasinhalalk | 9,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,827 (100.0%) of 56,827 articles have been extended.
+56,839 (100.0%) of 56,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### Should provide new solutions to prevent disasters
+
+*2024-11-25 20:39:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்தங்களை-தடுக்க-புதிய-தீர்வுகள்-வழங்க-வேண்டும்/175-347774) · `ta`
+
+Summarize text into 200 characters: "Strengthening disaster management structures alone is insufficient. New solutions must be implemented to prevent disasters in vulnerable areas. Local government agencies should focus on bringing innovative approaches to mitigate risks."
+
+🟩
+
+President Anura Kumara Dissanayake has said that strengthening the disaster management company's structures is not enough and efforts should be made to bring the solutions to the bottom level.
+
+He also said that new solutions should be provided to prevent disasters in areas where local government agencies strengthen and threaten.
+
+President Anura Kumara Dissanayake said in a statement issued by the President's Media Unit. Remble
+
+◼️
+
+[Data](articles/a37ca877.json)
+
+[Extended Data](ext_articles/a37ca877.ext.json)
+
+---
+
+### Former President Ranil Wickremesinghe visited India
+
+*2024-11-25 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199679) · `ta`
+
+Ranil Wickremesinghe visits India, attends ceremony at Sri Vidya Vihar Higher Education Institute in Indore. Accompanied by wife Professor Maithri Wickremesinghe.
+
+🟩
+
+He attended a special ceremony held at the Sri Vidya Vihar Higher Education Institute in Indore, Madhya Pradesh, India.
+
+He and his wife Professor Maithri Wickremasinghe attended the event.
+
+◼️
+
+[Data](articles/0fe48ccc.json)
+
+[Extended Data](ext_articles/0fe48ccc.ext.json)
+
+---
+
+### Heroes Day observance in Vavuniya
+
+*2024-11-25 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199678) · `ta`
+
+Heroes Day observed in Vavuniya: Militants Welfare Association and Tamil National Workers' Group honored heroes' parents. Event held on Monday (25).
+
+🟩
+
+The Vavuniya Kalmadu Second Form was held on Monday (25) and the Heroes Day was held and the parents of the heroes were honored.
+
+The event was organized by the Militants Welfare Association and the Tamil National Workers' Group.
+
+◼️
+
+[Data](articles/a50dd028.json)
+
+[Extended Data](ext_articles/a50dd028.ext.json)
+
+---
+
+### 32 Sri Lankan victims of human trafficking rescued in Myanmar
+
+*2024-11-25 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103760/32-sri-lankan-victims-of-human-trafficking-rescued-in-myanmar) · `en`
+
+Sri Lanka’s Foreign Ministry announced that thirty-two (32) Sri Lankan nationals who were victims of human trafficking and stranded in Myanmar have been rescued on Monday (25 November) following a successful, coordinated process.
+
+The rescued Sri Lankans had been lured into cybercrime operations and became victims of human trafficking, the ministry said.
+
+In a statement, the Ministry of Foreign Affairs emphasized that, the Government of Sri Lanka will coordinate with the International Organization for Migration (IOM) for their early repatriation to Sri Lanka.
+
+The Ministry of Foreign Affairs, Foreign Employment and Tourism and Sri Lanka’s Ambassadors in Thailand and Myanmar coordinated the process. Ven. Maligawila Assaji Thero, who represented the families of the trafficked Sri Lankans, also facilitated the process.
+
+...
+
+[Data](articles/f25b7c74.json)
+
+[Extended Data](ext_articles/f25b7c74.ext.json)
+
+---
+
+### Sri Lankans who were detained in Myanmar cyber cyber crime camps rescued
+
+*2024-11-25 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203728) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankans detained in Myanmar cyber crime camps rescued. 32 freed. Gov't coordinating with International Organization for Migration. Ministry of Foreign Affairs leading efforts with Thai and Myanmar Ambassadors.
+
+🟩
+
+32 Sri Lankans have been forcibly rescued in Myanmar Criminal camps.
+
+The Sri Lankan government is to coordinate with the International Organization for the Immigration for the Immigration of Sri Lanka to bring them quickly to Sri Lanka.
+
+The process is coordinated by the Ministry of Foreign Affairs, Foreign Employment and Tourism and Thailand and Myanmar's Ambassadors.
+
+◼️
+
+[Data](articles/2b2ee25b.json)
+
+[Extended Data](ext_articles/2b2ee25b.ext.json)
+
+---
+
+### A big price for Nuwan Thushara
+
+*2024-11-25 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203727) · `si`
+
+Nuwan Thushara sold to Royal Chanders Bangalore for ₹1.60 crore in IPL 2025 auction in Saudi Arabia.
+
+🟩
+
+The second day of athletes auction will be held on the 2025 Indian Premier League.
+
+Sri Lanka's super-bowler Nuwan Thushara Royal Chanders Banglearu team bought.
+
+Accordingly, Nuwan Thushara Indust was sold for Rs 1.60 crores.
+
+The auction will be held in Saudi Arabia this year, with regard to the coming Indian Premier League.
+
+◼️
+
+[Data](articles/165b9d56.json)
+
+[Extended Data](ext_articles/165b9d56.ext.json)
+
+---
+
+### 'Paraman'
+
+*2024-11-25 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199671) · `ta`
+
+"Paraman" film highlights Tamil Nadu farmers' struggles. Director J. Super Good Subramani focuses on agriculture importance. Cast includes Karupaya, Vaiyapuri, Hello Kandasamy. Music by Tamim Ansari, produced by Infinit Pictures. Release date: 29th this month.
+
+🟩
+
+The film 'Paraman', which plays the hero of the story of Tamil cinema, is the hero of the story of Tamil cinema- the film crew has said that the life and plight of the farmers of Tamil Nadu are brave.
+
+Director J. Super Good Subramani, Fruit in the movie 'Paraman' directed by Sabarish. Karupaya, Vaiyapuri, Hello Kandasamy, VJ Archana, Mustache Rajendran, Ashok Tamil, Satya, Jayachandran, Karthik Prabhu, Sanjay Madhu and many others have been cast.
+
+Tamim Ansari has composed the film, which has been recorded by CB Sadasivam. The film was on behalf of the director of Infinit Pictures. Produced by Sabarish.
+
+Speaking of the film, which was announced that it will be released in the world on the 29th of this month, the director said, “Agriculture is being destroyed.
+
+The film has been created to emphasize the importance of agriculture and the greatness of the agricultural industry. Super Good Subramani plays a farmer named Paraman. We expect the film to get people's support. ”
+
+...
+
+[Data](articles/471880df.json)
+
+[Extended Data](ext_articles/471880df.ext.json)
+
+---
+
+### A massive crash in the stock market at the beginning of the week
+
+*2024-11-25 19:15:15* · [`adalk`](https://www.ada.lk/breaking_news/සතිය-ආරම්භයේදීම-කොටස්-වෙළඳපොළේ-දැවැන්ත-කඩාවැටීමක්/11-413269) · `si`
+
+Stock market crashes early in the week. Indices fall sharply: Dow drops 187.62 points (1.44%), S&P declines 76.52 (1.98%). Massive sell-off causes significant losses across the board.
+
+🟩
+
+The stock market transactions today showed a massive collapse in the stock market.
+
+Accordingly, all stock price index fell by 187.62, 1.44 percent. The S & P Index also fell by 76.52 units, 1.98 percent.
+
+◼️
+
+[Data](articles/b59da803.json)
+
+[Extended Data](ext_articles/b59da803.ext.json)
+
+---
+
+### 'Thaye Thaye ..' sung by playback singer Chitra for 'Silent'
+
+*2024-11-25 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199666) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Thayye Thaye" by Chitra in "Silent" film. Directed by Ganesha Pandi, composed by Religious Murali. Features transgender character, attracting fans.
+
+🟩
+
+The song 'Thayye Thaye ..', which is featured in the film 'Silent' starring debutant Ganesha Pandi, has been released.. The song was sung by Chitra, the national award winner.
+
+Directed by debutant Ganesha Pandi, Ganesha Pandi, Aradhya, Murali Ram, Ramachandran Durairaj, Shanti Anand, Gayatri Rama, Swetha, Faisal, Namitha Marimuthu, Ram Suresh, Ghana Francis.
+
+D. The film, composed by religious Murali, has produced the producer Ram Prakash on behalf of SR Dream Studios.
+
+The film, which was announced on the 29th of this month, has been released in the film 'Thayye Mother Mother ..'
+
+The song is sung by the songwriter Religious Murali, the playback singer Chitra has sung. In the video of the song, the mother and the sexual umbilical cord relationship between a transgender man, who is considered to be a sex minority, have attracted a lot of fans.
+
+◼️
+
+[Data](articles/4ce8c627.json)
+
+[Extended Data](ext_articles/4ce8c627.ext.json)
+
+---
+
+### 'Paradise' in the prison's trial of the prisoners
+
+*2024-11-25 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199663) · `ta`
+
+"Parakavasal" film summary: Jail life drama starring Balaji, Selvaraghavan. Directed by Siddharth Viswanath, music by Christo Xavier. Co-produced by Swipe Right Studios and Think Studios. Premieres in Chennai on 29th. Director shares inspiration from real-life "trial prisoners".
+
+🟩
+
+Editor, actor and director r. J.. The film crew has said that the film 'Parakavasal', which plays the hero of the story of Balaji, speaks of the life of those who are confident in the jail for the judgment of the court.
+
+In the film 'Parakavasal' directed by Siddharth Viswanath. J.. Balaji, Selvaraghavan, Nati alias Nataraj, Karunas, Sania Iyappan, Balaji Sakthivel, Anthony Dasan, Ravi Raghavendra and many others.
+
+Christo Xavier has composed the film, which is being recorded by Prince Anderson. The film, which speaks of the prison prisoners, is co -produced by Swipe Right Studios and Think Studios.
+
+The film's preview launch event will be held in Chennai on the 29th of this month.. At this moment, director Lokesh Kanakaraj and composer Anirudh released the film's preview about the participation of special guests.
+
+...
+
+[Data](articles/384d6fe9.json)
+
+[Extended Data](ext_articles/384d6fe9.ext.json)
+
+---
+
+### Kandy district missing Tamil parliamentary representation
+
+*2024-11-25 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199659) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kandy district lost Tamil parliamentary seats due to low voter turnout (67%). Educators blame lack of public trust in Tamil candidates from major parties. Only 67% of 1,191,399 eligible voters participated in the election.
+
+🟩
+
+Educators point out that the main reason for the loss of Tamil parliamentary representation is the loss of popular confidence in the Tamil candidates who have fielded the major parties. 1,191,399 from 13 electorates in Kandy district were eligible to vote. However, only 67 percent of the votes were cast.
+
+◼️
+
+[Data](articles/15b1d16f.json)
+
+[Extended Data](ext_articles/15b1d16f.ext.json)
+
+---
 
 ### Emergency hotlines for A/L exam candidates to seek assistance during disaster situations
 
@@ -51,6 +305,58 @@ In case of emergencies, students or their guardians are urged to contact the DMC
 [Data](articles/6e4b4116.json)
 
 [Extended Data](ext_articles/6e4b4116.ext.json)
+
+---
+
+### 2,035 families affected by rain and floods in Jaffna - 7,416
+
+*2024-11-25 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199657) · `ta`
+
+Jaffna floods affect 7,416 people: 2,035 families impacted, 21 houses damaged.
+
+🟩
+
+7,416 people from 2,035 families have been affected by the floods and other disasters caused by continuous rains in Jaffna, said 21 houses have been partially damaged, said the Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah.
+
+The flood disaster in the Chavakachcheri Divisional Secretariat has affected 945 people from 288 families so far and 10 houses have been partially damaged.
+
+In the Kayts Divisional Secretariat Division, 901 people from 215 families have been affected and 2 houses have been partially damaged.
+
+In the Point Pedro Divisional Secretariat Division, 35 people from 10 families have been affected and 8 houses have been partially damaged.
+
+In the Nallur Divisional Secretariat Division, 93 people from 29 families have been affected by flood disaster and thunder and lightning.
+
+64 people from 21 families have been affected in the Tellippalai Divisional Secretariat Division.
+
+...
+
+[Data](articles/cee6fd7b.json)
+
+[Extended Data](ext_articles/cee6fd7b.ext.json)
+
+---
+
+### T20 ජාත්‍යන්තර තරගයකදී කණ්ඩායමක් ලකුණු 7කට දැවී යයි
+
+*2024-11-25 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203726) · `si`
+
+අයිවරි කෝස්ට් සහ නයිජීරියාව අතර ලේගොස් නුවරදී ඊයේ (24) පැවති 20යි 20 තරගයේදී අයිවරි කෝස්ට් කණ්ඩායමේ සියලුම පිතිකරුවන් ලකුණු 7කට දැවී ගියේය.
+
+එය දෙරටක් අතර පැවති පිරිමි T20 ජාත්‍යන්තර තරගයකදී කණ්ඩායමක් දැවී ගිය අඩුම ලකුණු ගණන ලෙස වාර්තා පොතට එක්විය.
+
+අයි සී සී T20 ලෝක කුසලාන අප්‍රිකානු උප කලාපීය සුදුසුකම් ලැබීමේ C කාණ්ඩයේ තරගයක් ලෙස දෙරට අතර තරගය පැවැත්වුණි.
+
+මෙම තරගයේදී අයිවරි කෝස්ට් කණ්ඩායමේ ඕඅටාරා මොහොමඩ් ලකුණු 4ක් රැස්කළ අතර පිතිකරුවන් පිළිවෙලින් රැස්කළේ 4, 0, 1, 0, 0, 1, 0, 1, 0, 0* සහ 0කි.
+
+මෙය T20 ජාත්‍යන්තර තරගයකදී කණ්ඩායමක් ලකුණු 10ට අඩුවෙන් රැස්කළ පළමු අවස්ථාව වෙයි.
+
+මීට පෙර 20යි 20 ජාත්‍යන්තර තරගයකදී අඩුම ලකුණු සංඛ්‍යාව වූ 10කට කණ්ඩායම් දෙකක් දැවී ගොස් තිබුණි.
+
+ඒ මොන්ගෝලියාව, සිංගප්පුරුවට එරෙහිව (2024.09.05) සහ Isle of Man, එරෙහිව ස්පාඤ්ඤය (2023.02.26) යන කණ්ඩායම් ය.
+
+◼️
+
+[Data](articles/a971fcf2.json)
 
 ---
 
@@ -75,6 +381,24 @@ He has released a live video and said his father was a former police officer of 
 [Data](articles/34124a16.json)
 
 [Extended Data](ext_articles/34124a16.ext.json)
+
+---
+
+### கிளிநொச்சியில் சீரற்ற காலநிலை காரணமாக 248 குடும்பங்கள் பாதிப்பு!
+
+*2024-11-25 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199676) · `ta`
+
+கிளிநொச்சி மாவட்டத்தில் பெய்துவரும் கனமழை காரணமாக 248 குடுப்பங்களைச் சேர்ந்த 717 பேர் பாதிக்கப்பட்டுள்ளனர். மேலும்,  நான்கு வீடுகள் பகுதியளவில் சேதமடைந்துள்ளன.
+
+கிளிநொச்சி மாவட்ட அனர்த்த முகாமைத்துவ பிரிவினால் பிற்பகல் 2.00மணிக்கு பெறப்பட்ட புள்ளிவிபரத் தகவல்களில் குறித்த விடயம் பதிவாகியுள்ளது.
+
+குறித்த பாதிப்புக்கள் தொடர்பாக தேசிய அனர்த்த நிவாரண சேவைகள் நிலையத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளன.
+
+மேலும், பிரமந்தனாறு குளம் வான்பாயத் தொடங்கியிருப்பதால் பிரமந்தனாறு குளத்தின் கீழ்ப்பகுதியில் வசிக்கும் மக்கள் அவதானமாக இருக்குமாறு மாவட்ட அனர்த்த முகாமைத்துவ ஒருங்கிணைப்பு பிரிவு கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/a456c298.json)
 
 ---
 
@@ -106,6 +430,26 @@ Navy and fishermen have been warned not to go to the seas around the country unt
 
 ---
 
+### மன்னார் நகர் பிரதேச செயலகப் பிரிவில் கனமழையால் 43 கிராமங்கள் பாதிப்பு; கட்டுப்படுத்த நடவடிக்கை முன்னெடுப்பு
+
+*2024-11-25 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199675) · `ta`
+
+மன்னார் நகர் பிரதேச செயலகப் பிரிவில் மட்டும் 43 கிராமங்களைச் சேர்ந்த 43623 பேர் கனமழை காரணமாக பாதிப்புகளுக்கு உள்ளாகியுள்ளனர். மன்னாரில் வெள்ளத்தை கட்டுப்படுத்துவதற்கான தீவிர நடவடிக்கை எடுக்கப்பட்டுள்ளதாக மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் இவ்வாறு தெரிவித்தார்.
+
+மன்னாரில் பெய்துவரும் கனமழை காரணமாக ஏற்பட்டு வரும் அனர்த்தங்களை கட்டுப்படுத்தும் நோக்குடன் திங்கள் கிழமை (25) மன்னார் மாவட்ட செயலகத்தில் அரசாங்க அதிபர் க.கனகேஸ்வரன் தலைமையில் அவசரக்கூட்டம் அனைத்து திணைக்கள அதிகாரிகளுடன் நடைபெற்றது.
+
+மன்னாரில் தொடர்ச்சியாக பெய்து வரும் கனமழை காரணமாக மன்னார் நகரம் மற்றும் நானாட்டான் பிரதேச செயலகப் பிரிவுகளில் பெரும்பாலான மக்கள் பாதிப்படைந்துள்ளனர்.
+
+மன்னார் நகரப் பிரதேசப் பிரிவில் 43 கிராமங்கள் வெள்ளத்தினால் பாதிப்படைந்துள்ளன. 12469 குடும்பங்களைச் சார்ந்த 43623 பேர் இந்த வெள்ளத்தினால் பாதிப்புகளுக்கு உள்ளாகியுள்ளனர்.
+
+இவ்வாறு நானாட்டான் பிரதேசப் பிரிவில் மூன்று கிராம அலுவலகப் பிரிவுகள் இந்த வெள்ளத்தினால் பாதிப்டைந்துள்ளன. இதில் 16 குடும்பங்களைச் சேர்ந்த 56 பேர் பாதிப்புகளுக்கு உள்ளாகியுள்ளனர்.
+
+...
+
+[Data](articles/18d9ddb2.json)
+
+---
+
 ### Sajith has passed two decades
 
 *2024-11-25 18:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தசாப்தங்களைக்-கடந்தார்-சஜித்/175-347758) · `ta`
@@ -127,6 +471,42 @@ During the session, Parliamentarian Sajith Premadasa shared the experiences of w
 [Data](articles/ffb97f24.json)
 
 [Extended Data](ext_articles/ffb97f24.ext.json)
+
+---
+
+### ඩග්ලස් දේවානන්ද ට එරෙහි වරෙන්තුව නැවත කැඳවයි
+
+*2024-11-25 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203725) · `si`
+
+නඩුවකට සාක්ෂිදීම සඳහා පෙනී නොසිටීම හේතුවෙන් අත්අඩංගුවට ගෙන ඉදිරිපත් කරන ලෙස දන්වා වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය ඩග්ලස් දේවානන්ද මහතා අද (25) සිය නීතිඥවරු මාර්ගයෙන් කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ පෙනී සිටියේය.
+
+ඉදිරිපත් වූ කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරයා ඩග්ලස් දේවානන්ද මහතාට එරෙහිව නිකුත් කළ වරෙන්තුව ආපසු කැඳවන ලෙස නියෝග කළේය.
+
+ඉන් අනතුරුව පෙර ඇප මත මුදා හැරුණු දේවානන්ද මහතාට මීළඟ නඩු දිනයේදී අධිකරණයේ පෙනී සිටින ලෙසත් නියෝග කෙරුණි.
+
+2016 වසරේදී රුපියල් මිලියන 10 බැගින් වූ අගරු චෙක්පත් දෙකක් ලබාදීමේ සිද්ධියක් සම්බන්ධයෙන් ඩග්ලස් දේවානන්ද මහතා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කරන ලද පැමිණිල්ලකට අනුව වැල්ලවත්ත ප්‍රදේශයේ පදිංචි ව්‍යාපාරිකයෙකු වන සුබ්‍රමණියම් මනෝහරන් නමැත්තාට එරෙහිව මෙම නඩුව ගොනු කර තිබේ.
+
+◼️
+
+[Data](articles/1bef426f.json)
+
+---
+
+### ආපදාවෙන් උසස් පෙළට ඇතිවන බාධා මගහැරවීමට විශේෂ වැඩපිළිවෙළක්
+
+*2024-11-25 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203724) · `si`
+
+උසස් පෙළ විභාගය පැවැත්වෙන කාල සීමාව තුළ ආපදා තත්ත්වයන් හේතුවෙන් ඇතිවිය හැකි බාධා මගහරවා ගනිමින් විභාගය පවත්වාගෙන යාම සඳහා ආපදා කළමනාකරණ මධ්‍යස්ථානය සහ විභාග දෙපාර්තමේන්තුව එක්ව විශේෂ ඒකාබද්ධ වැඩසටහනක් ක්‍රියාත්මක කර තිබේ.
+
+ඒ අනුව ආපදා කළමනාකරණ මධ්‍යස්ථානය විසින් ත්‍රිවිධ හමුදාව, පොලීසිය ඇතුළු ආපදා කළමනාකරණ ක්‍රියාවලිය හා සම්බන්ධ පාර්ශ්වකාර ආයතන වෙත අදාළ මාර්ගෝපදේශ මේ වන විට නිකුත් කිරීමටද කටයුතු කර තිබේ.
+
+එමෙන්ම යම්කිසි දරුවෙකුට මුහුණදිය හැකි බාධා මග හරවා ගැනීම සඳහා අවශ්‍ය සම්බන්ධීකරණය සිදු කිරීම සඳහා ආපදා කළමනාකරණ මධ්‍යස්ථානය විසින් විශේෂ සම්බන්ධීකරණ ඒකකයක් ද ස්ථාපිත කර තිබේ.
+
+ඒ අනුව යම් ආපදාවකදී විභාගයට බාධාකාරී තත්ත්වයක් ඇතිවන්නේ නම් ඒ සඳහා හදිසි ඇමතුම් අංක 117, ආපදා කළමනාකරණ මධ්‍යස්ථාන විශේෂ ඒකාබද්ධ හදිසි මෙහෙයුම් මැදිරි වන අංක 0113 668 020, 0113 668 100 / 0113 668 013 / 0113 668 010 සහ 076 3 117 117 යන දුරකථන අංක හෝ විභාග දෙපාර්තමේන්තුවේ හදිසි ඇමතුම් අංක 1911 යන දුරකථන අංක අමතන ලෙසද ඉල්ලීමක් කර තිබේ.
+
+...
+
+[Data](articles/ae91b2e8.json)
 
 ---
 
@@ -225,6 +605,38 @@ The former minister, who knows this is a fraudulent check, is still being invest
 [Data](articles/f7b6b763.json)
 
 [Extended Data](ext_articles/f7b6b763.ext.json)
+
+---
+
+### அல்லு அர்ஜுன் நடிக்கும் 'புஷ்பா 2' படத்தின் இரண்டாவது பாடல் வெளியீடு
+
+*2024-11-25 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199667) · `ta`
+
+'ஐகான் ஸ்டார்' அல்லு அர்ஜுன் நடிப்பில் உருவாகி இந்தியா முழுவதும் பெரும் எதிர்பார்ப்பில் இருக்கும் திரைப்படமான 'புஷ்பா 2 ' திரைப்படத்தில் இடம் பெற்ற 'கிஸ்க்..' எனும் இரண்டாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி இருக்கும் 'புஷ்பா 2 -தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, பகத் ஃபாஸில், ராவ் ரமேஷ், டாலி தனஞ்செயா, சுனில் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். குபா ப்ரோஸெக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார்.
+
+எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் நவீன் யெர்னேனி மற்றும் வை ரவி சங்கர் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/a0c59917.json)
+
+---
+
+### அரசியல் பழிவாங்கல்களுக்காக அரசாங்கத்தால் குற்றப்புலனாய்வு திணைக்களம் பயன்படுத்திக் கொள்ளப்படுகிறது -  சுஜீவ சேனசிங்க
+
+*2024-11-25 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199649) · `ta`
+
+அரசியல் பழிவாங்கல்களுக்காக அரசாங்கத்தால் குற்றப்புலனாய்வு திணைக்களம் பயன்படுத்திக் கொள்ளப்படுகிறது. இது நாட்டின் பாதுகாப்புக்கு பாதிப்பை ஏற்படுத்தும். எனக்கு இழைக்கப்பட்ட அநீதிக்கு எதிராக சட்ட நடவடிக்கை எடுப்பேன் என முன்னாள் பாராளுமன்ற உறுப்பினர் சுஜீவ சேனசிங்க தெரிவித்தார்.
+
+குற்றப் புலனாய்வுப் பிரிவினரால் பொறுப்பேற்கப்பட்ட அவரது சொகுசு கார் திங்கட்கிழமை (25) கோட்டை நீதிமன்றத்தின் உத்தரவுக்கமைய விடுவிக்கப்பட்டது. நீதிமன்ற வளாகத்தில் ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார்.
+
+ஜனாதிபதி உட்பட அரசாங்கம் எனக்கு இழைக்கப்பட்ட அநீதிக்கு பொறுப்பு கூற வேண்டும். பொலிஸார் செயற்பட விதம் தொடர்பில் என்னிடம் மன்னிப்பு கோர வேண்டும். தேர்தலுக்கு 10 நாட்கள் இருக்கும் போது இந்த செய்தியைப் பிரசித்தப்படுத்தினர். என்னை சிக்க வைப்பதற்காக குற்றப்புலனாய்வு திணைக்களம் மேற்கொண்ட முயற்சிக்கு 100 இலட்சமாவது செலவு ஏற்பட்டிருக்கும்.
+
+...
+
+[Data](articles/44db634a.json)
 
 ---
 
@@ -335,6 +747,22 @@ Meanwhile, the National Building Research Organization (NBRO) has issued the lan
 [Data](articles/62e5b66f.json)
 
 [Extended Data](ext_articles/62e5b66f.ext.json)
+
+---
+
+### විපක්ෂනායක පුටුවේ වාඩි වුණ අර්චුනා ප්‍රසිද්ධියේ සමාව ඉල්ලයි
+
+*2024-11-25 17:12:09* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂනායක-පුටුවේ-වාඩි-වුණ-අර්චුනා-ප්‍රසිද්ධියේ-සමාව-ඉල්ලයි/11-413261) · `si`
+
+10 වැනි පාර්ලිමේන්තුව සමාරම්භ කිරීම වෙනුවෙන් පැවැති උත්සවයේදී යාපනය දිස්ත්‍රික් ස්වාධීන මන්ත්‍ අර්ඡුනා රාමනාදන් මහතා එම සිද්ධිය සම්බන්ධයෙන් ප්‍රසිද්ධියේ සමාව ඉල්ලීමට කටයුතු කළේය.
+
+පාර්ලිමේන්තුවේ අද පැවැති වැඩසටහනකදී ඔහු මෙම සමාව ඉල්ලීම සිදු කළේය.
+
+" මම වැරදි දෙයක් කළා නම් මම ඒ පිළිබඳව ප්‍රසිද්ධියේ සමාව ඉල්ලනවා. මම ඒ ගැන සමාව ඉල්ලනවා. පුටුවක වාඩිවෙලා කළබලයක් ඇති කරන්න මට අවශ්‍ය වුණේ නෑ. ඒක අතපසුවීමක්. පාර්ලිමේන්තුවේ හැම මන්ත්‍රීවරයෙකුගෙන්ම ජනාධිපතිත් ඇතුළත්ව මම මේ ගැන සමාව ඉල්ලා සිටිනවා."
+
+◼️
+
+[Data](articles/cebae01c.json)
 
 ---
 
@@ -2005,537 +2433,5 @@ The former MP’s luxury vehicle, worth around Rs. 100 million, was suspected to
 [Data](articles/7eccb234.json)
 
 [Extended Data](ext_articles/7eccb234.ext.json)
-
----
-
-### E8 Visa Problem - A Notification for Protesters
-
-*2024-11-25 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203708) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka foreign employment agency responds to E-8 visa protesters. They deny protesters' claims, urging calm and adherence to legal processes. Agency emphasizes job promotion as main goal, not visa cancellation.
-
-🟩
-
-විදේශ සේවා කාර්යාංශය ඉදිරිපිට දකුණු කොරියාවේ රැකියා බලාපොරොත්තුවෙන් විරෝධතාවයේ යෙදී සිටින E-8 වීසා ලබාගත් පිරිසට මේ මොහොතේ පිළිතුරක් ලබාදිය නොහැකි බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා පවසයි.
-
-"Address At Ada Derana," he said that the issue was not protesting.
-
-"දැන් උත්තරයක් දෙන්න ඇත්තටම බෑ. Let us take future discussions quickly. එයාලගේ යෝජනාත් අපි එකතු කරන්නම්.
-
-Clearly, there will be no answer. It is not the way to solve the problem. අනීතික කණ්ඩායම්වලට ගත්ත සල්ලිවලට අපි ඉස්සරහදී නීතිමය ක්‍රියාමාර්ගවලට යනවා. සල්ලි ගත්ත අයට ඒ සල්ලි දෙන්න වෙනවා ඒ ළමයින්ට. Do not be caught by those groups. That's simply say that. We are guiding the talks to bring this to a law.
-
-අපිට මේක සලකා බලන්න පුළුවන්. මේක කිසිම අවස්ථාවක ආණ්ඩුව මේක නොසලකා හරිනවා කියලා ගන්න නරකයි. අපි දරුවන්ගේ ජීවිත එක්ක සෙල්ලම් කරන්නේ නෑ. We need to do not make money for the country's child's children by issuing non-law of law.. හරි මඟට අරන් රටේ මානව සම්පත දියුණු කරන්න පුළුවන් ක්‍රමයට සිදුකරන්න.
-
-...
-
-[Data](articles/8c5a9269.json)
-
-[Extended Data](ext_articles/8c5a9269.ext.json)
-
----
-
-### Appointment of qualified officer for Rukunu
-
-*2024-11-25 12:02:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருகுணுவுக்கு-தகுதிவாய்ந்த-அதிகாரி-நியமனம்/175-347724) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Prime Minister Harini Amarasuriya appoints USK Ratnayake as Ruhunu University VC, continuing university administration under Education Ministry."
-
-🟩
-
-Prime Minister Harini Amarasuriya as Minister of Education, Higher Education and Vocational Education, No. 16 (4) (b) of the University Act, No. 16 (b), has been followed by the Vice Chancellor of the University today to continue the administrative activities of the University of Ruhunu.The USK. Ratnayake has been appointed.
-
-◼️
-
-[Data](articles/0974f74e.json)
-
-[Extended Data](ext_articles/0974f74e.ext.json)
-
----
-
-### 'Anura Wave' surrounded by the Tamil Nationalist Fort
-
-*2024-11-25 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199603) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Anura Wave" Tamil Nationalist Fort criticized anti-Tamil party strong election performance Jaffna Tamil nationalist politics stronghold emergence separate party most votes analysis
-
-🟩
-
-Although it was criticized for the past of the national people's power and showed it as an anti -Tamil party, it showed its actions in the election well.. The national popular power has caused a stumbling block by emerging as a separate party with the most votes in Jaffna. Jaffna, the stronghold of Tamil nationalist politics, surrounded the Anura "wave". How did this happen?
-
-◼️
-
-[Data](articles/5cb86cbf.json)
-
-[Extended Data](ext_articles/5cb86cbf.ext.json)
-
----
-
-### More than 15 thousand people are affected by heavy rains
-
-*2024-11-25 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199616) · `ta`
-
-Heavy rains affect 15,622 people nationwide. Military and disaster teams evacuate affected areas. Low-lying lands flooded in Polonnaruwa district. Paddy fields submerged. Reservoir water levels rise; Parakrama Ocean exceeds 92,000 acres.
-
-🟩
-
-15,622 people have been affected by heavy rains in many parts of the country.
-
-As a result, the military and disaster management units have taken steps to take the affected people to safe places.
-
-Meanwhile, many low -lying lands have been flooded due to heavy rains in the Polonnaruwa district.
-
-It is reported that all the most seasoned paddy fields are found in flooded areas.
-
-Irrigation Engineer Anjana Kumara said that the water level of all reservoirs in Polonnaruwa has risen due to heavy rains and the water level of the Parakrama Ocean has now exceeded 92,000 acres.
-
-◼️
-
-[Data](articles/173b4e40.json)
-
-[Extended Data](ext_articles/173b4e40.ext.json)
-
----
-
-### Initiality for MPs
-
-*2024-11-25 11:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கான-செயலமர்வு-ஆரம்பம்/175-347723) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New MPs orientation Nov 25-27, 9:30pm-4:30pm. Workshop covers roles, privileges, legislative activities, committees, constitution arrangements. Includes bribery investigation commission and Parliament Affairs Division roles. Department leaders explain member contributions.
-
-🟩
-
-The Differential Meeting of the New Members selected for the Tenth Parliament will be held on November 25, 26, 26 and 27 from 9.30 pm to 4.30 pm.
-
-The Diverse Convention Workshop has been organized as a formal step in the beginning of the new Parliament.
-
-Monday 25th Monday. Prime Minister Harini Amarasuriya, Hon. Hon. Jayatissa,The Secretary General of Parliament, the Deputy Secretary General and the Assistant Secretary General will attend.
-
-During this three -day workshop, appropriate measures have been taken to raise awareness about the role of parliamentarians, parliamentary privileges, legislative activities of parliament, parliamentary committee system, parliamentary stances and arrangements of the constitution.
-
-In addition, the Commission to Investigate the Bribery or Corruption of Corruption Act and the role of the Parliamentary Affairs Division of the Parliamentary Affairs Division of the Ministry of Public Safety and the Parliamentary Affairs Ministry.
-
-...
-
-[Data](articles/0084f777.json)
-
-[Extended Data](ext_articles/0084f777.ext.json)
-
----
-
-### The bus holder a passenger in Katubedda at Katubedda: What should you do if the passenger rights violated?
-
-*2024-11-25 11:46:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy1z0v0k2do) · `si`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Passenger rights violation in Katubedda: Report to 1955 hotline or NTC website. Bus suspended if wrongdoing proven. Driver/assistant faces suspension/ticketing for assault. NTC investigates daily complaints.
-
-🟩
-
-The bus holder a passenger in Katubedda at Katubedda: What should you do if the passenger rights violated?
-
-A passenger from the Facebook was listed in the Piliyandala, Kottawa - Mount Lavinia.
-
-Katubedda junction while watching the bus with the driver and other other buses of the bus along with the buses of the bus along with the buses of the bus.The Kalo is. There I have attacked me unwurcing me. My head, along with attacks, and the wounded. "
-
-Skip Facebook Post, you agree to reach the content of 1facebook content? This article contains content provided by Facebook. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Facebook cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
-
-The passenger is currently receiving treatment at the Mount Lavinia Police Station.
-
-...
-
-[Data](articles/2aec2500.json)
-
-[Extended Data](ext_articles/2aec2500.ext.json)
-
----
-
-### Rs. Rs. 125,000 Treasury bill auction
-
-*2024-11-25 11:30:07* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--125--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-27--දා/11-413251) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Central Bank Sri Lanka: Nov 27 Treasury bill auction. 45 billion rupees in 45 million bills. Bids accepted same day. Minimum bid 1 rupee. Payment due Nov 29.
-
-🟩
-
-The Central Bank of Sri Lanka announced that a Treasury bill auction was held on November 27.
-
-45 million Treasury bills of Rs. 45,000 million, the Central Bank said that the Treasury bills of Rs.
-
-The Central Bank announces that the acceptance of the bids for the auction will be held on November 27, and the minimum amount for a bid is Rs.. The Treasury bill issue and payment is to be made on November 29.
-
-◼️
-
-[Data](articles/9dc0de43.json)
-
-[Extended Data](ext_articles/9dc0de43.ext.json)
-
----
-
-### Egg prices rise again!
-
-*2024-11-25 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199609) · `ta`
-
-Egg prices surge: 35 rupees now 38-40. Vegetable market sees mixed trends.
-
-🟩
-
-It is reported that the egg, which was sold for 35 rupees in the past, is currently being sold at different prices in the market.
-
-Accordingly, a small amount of eggs are sold for 38 rupees and normal eggs for 40 rupees.
-
-Meanwhile, traders and consumers have said that the prices of upland vegetables in the market have declined and the prices of low -lying vegetables have increased.
-
-◼️
-
-[Data](articles/ba17ce27.json)
-
-[Extended Data](ext_articles/ba17ce27.ext.json)
-
----
-
-### Do not hinder the children who write the exam - Request for Examination Commissioner
-
-*2024-11-25 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203707) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Exam Commissioner urges public not to interfere with students during exams. 333,185 candidates taking GCE Advanced Level Exam at 2,312 centers nationwide. Police assistance provided for transport issues. Public support requested until Dec 20. Contact 0112 785 922/0112 784 537 for exam-related inquiries.
-
-🟩
-
-The Commissioner of Examinations requests the public to not take any activity in the A / L days.
-
-The A / L examination commenced at 2,312 centers across the country at 8.30 am today and commented on the media.
-
-The Commissioner General of Examinations said that the police have been informed in this regard and this is more than law.
-
-"If these children have a problem, I urge them to help them solve it. We hope every child hold the exam under a good role of this examination. To provide all necessary facilities. I need the support of everyone. I urge you to give your support as soon as you. And don't do anything that is hindered by these. We have prepared the necessary program to discuss the police department. "
-
-333,185 candidates will appear on the GCE Advanced Level Examination.
-
-The Commissioner General of Examinations said that the first sheet of biology and economics of the evening this morning is the first sheet of biology and economics of the evening.
-
-...
-
-[Data](articles/67643335.json)
-
-[Extended Data](ext_articles/67643335.ext.json)
-
----
-
-### Election Commission gears up for LG polls
-
-*2024-11-25 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103743/election-commission-gears-up-for-lg-polls-) · `en`
-
-The Election Commission is scheduled to convene this Thursday at 10.00 a.m., marking its first meeting since the conclusion of the 2024 general election.
-
-A key focus of the meeting will be the upcoming Local Government (LG) Elections, with significant decisions expected regarding their timeline and preparation.
-
-Minister Vijitha Herath, speaking at an event in Kandy, recently confirmed that the LG Elections are planned for January next year.
-
-The Election Commission is reportedly committed to expediting the election process, following the court ruling emphasizing the urgency of holding the LG Polls at the earliest possible.
-
-However, it is reported that challenges remain as no funds have been allocated for the election thus far.
-
-A final decision on funding is expected after discussions, with the government anticipated to address this issue through the Interim Vote on Account scheduled for December.
-
-◼️
-
-[Data](articles/ad695819.json)
-
-[Extended Data](ext_articles/ad695819.ext.json)
-
----
-
-### Four people injured in a bus accident
-
-*2024-11-25 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199596) · `ta`
-
-4 injured in bus crash on Hatton-Colombo highway. Private bus hit by another vehicle while traveling from Hatton to Kandy on Monday morning.
-
-🟩
-
-Four passengers were injured in a bus accident on Monday morning (25) on the Hatton -Colombo main road, police said.
-
-The accident occurred when a private bus traveling from Hatton to Kandy was hit by a bus in the opposite direction.
-
-◼️
-
-[Data](articles/c75a7e1f.json)
-
-[Extended Data](ext_articles/c75a7e1f.ext.json)
-
----
-
-### Sri Lanka can cut floor rate, but targeting ‘dysfunctional’ market will lead to trouble
-
-*2024-11-25 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-cut-floor-rate-but-targeting-dysfunctional-market-will-lead-to-trouble-189613/) · `en`
-
-ECONOMYNEXT – Sri Lanka is just emerging from a default after large volumes of money were printed to target a narrow policy rate, in the pursuit of instant growth (potential output) and denying monetary stability to the people.
-
-From 2015 in particular Sri Lanka very narrowly targeted a policy rate despite being a reserve collecting central bank.
-
-Targeting a mid-corridor rate is the same as printing money to maintain a single policy rate. The label is different but the required inflationism is the same.
-
-The same consequences of targeting a mid-corridor rate in 2015 and especially 2018 when the budget deficit was brought down.
-
-If the call money rate is so dysfunctional as claimed in a recent defence of money printing through OMO, it should obviously not be used as the operating target for monetary policy at all.
-
-Since the end of the war the central bank has cut rates around 18 to 20 months after a currency crisis, just as private credit recovered and triggered a currency crisis.
-
-...
-
-[Data](articles/2fb6a339.json)
-
-[Extended Data](ext_articles/2fb6a339.ext.json)
-
----
-
-### Sri Lanka can cut floor rate, but targeting ‘dysfunctional’ market will lead to trouble
-
-*2024-11-25 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-suppress-call-rates-through-omo-if-market-is-so-dysfunctional-189613/) · `en`
-
-ECONOMYNEXT – Sri Lanka is just emerging from a default after large volumes of money were printed to target a narrow policy rate, in the pursuit of instant growth (potential output) and denying monetary stability to the people.
-
-From 2015 in particular Sri Lanka very narrowly targeted a policy rate despite being a reserve collecting central bank.
-
-Targeting a mid-corridor rate is the same as printing money to maintain a single policy rate. The label is different but the required inflationism is the same.
-
-The same consequences of targeting a mid-corridor rate in 2015 and especially 2018 when the budget deficit was brought down.
-
-If the call money rate is so dysfunctional as claimed in a recent defence of money printing through OMO, it should obviously not be used as the operating target for monetary policy at all.
-
-Since the end of the war the central bank has cut rates around 18 to 20 months after a currency crisis, just as private credit recovered and triggered a currency crisis.
-
-...
-
-[Data](articles/c2ad2789.json)
-
-[Extended Data](ext_articles/c2ad2789.ext.json)
-
----
-
-### Ceylon Chamber calls for member proposals for Budget 2025
-
-*2024-11-25 11:15:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-calls-for-member-proposals-for-budget-2025-189654/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has invited its members to submit proposals for Sri Lanka’s Budget 2025, to ‘tackle growth barriers and boost investment’.
-
-President Anura Dissanayake has said a budget would be tabled in March 2025.
-
-“The Ceylon Chamber of Commerce invites its Members to contribute their insights for inclusion in our formal submissions on the national Budget,” the trade body said on social media platform X.
-
-Chamber Chairman Duminda Hulangamuwa was appointed Senior Consultant of Economic Affairs and Finance to Dissanayake and sits in on the government’s meetings with International Monetary Fund representatives.
-
-Dissanayake has promised a reduction in taxes for the public when campaigning.
-
-The IMF bailout plan for the island nation has recommended that Sri Lanka must continue to increase tax revenue.
-
-The private sector trade body met the team from the IMF, led by Peter Mullins, In July to discuss Sri Lanka’s tax system. (Colombo/Nov25/2024)
-
-◼️
-
-[Data](articles/69291ee0.json)
-
-[Extended Data](ext_articles/69291ee0.ext.json)
-
----
-
-### Arrested to sell Valamburich Sangam for Rs.
-
-*2024-11-25 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199606) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrest made for selling rare Valamburi conch near Matara/Tihagoda. Suspect, 26, from Hungwella. Arrested by Central Anti-Corruption Unit on Sunday.
-
-🟩
-
-A suspect has been arrested on Sunday (24) for attempting to sell a rare Valamburi conch near the Matara and Tihagoda police division.
-
-The suspect has been arrested in connection with the information received by the Central Anti -Corruption Unit.
-
-The suspect was 26 years old from Hungwella.
-
-◼️
-
-[Data](articles/25123fde.json)
-
-[Extended Data](ext_articles/25123fde.ext.json)
-
----
-
-### Israeli has launched 250 rockets
-
-*2024-11-25 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199611) · `ta`
-
-Israel launches 250 rockets at Lebanon; Hezbollah retaliates; clashes intensify; attacks hit capital and north; ceasefire hopes rise; property damage reported.
-
-🟩
-
-The Israeli security forces have said that the Hesbullah organizations from Lebanon have launched more than 250 rice towards Israel.
-
-It is noteworthy that the hesbullah organization's heavy rocket attack after the clash between the Israeli Hellbullah organization in September was intensified.
-
-The Hesbullah organization's rockets have attacked the Israeli capital and the Northern Central Israel.
-
-The Hesbullah Organization has launched the attack in Israel's attack in Central Beirut.
-
-The attack took place when the Israeli media reported that the chances of a ceasefire between Israel and Hzbullah were on the rise.
-
-Israeli police have said that the scattering of rice in the Israeli capital has fallen and the Israeli police have said that a house has been burnt in a fire.
-
-◼️
-
-[Data](articles/2be1f1e1.json)
-
-[Extended Data](ext_articles/2be1f1e1.ext.json)
-
----
-
-### Massive hurricane that strikes Kalmunai?
-
-*2024-11-25 10:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனையை-தாக்கும்-பாரிய-சூறாவளி/175-347720) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Massive hurricane threatens Kalmunai. Deputy Director Riyas warns against rumors. Heavy rainfall possible. Take flood precautions.
-
-🟩
-
-Deputy Director of Ampara District Disaster Management Center. Riyas said.
-
-We are very responsible that the people will be immediately announced through the District Disaster Management Center in the event of a hurricane.
-
-Do not rely on rumors that the hurricane will develop and attack the Kalmunai at 2.00 am today.
-
-He added that everyone is being asked to take up the floods due to the possibility of heavy rainfall due to the low -lying of the Bay of Bengal.. Remble
-
-◼️
-
-[Data](articles/23b72d52.json)
-
-[Extended Data](ext_articles/23b72d52.ext.json)
-
----
-
-### The house of a former IGP is the thieves of thieves
-
-*2024-11-25 10:58:17* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පොලිස්පතිවරයෙකුගේ-මිණිබිරියගේ-නිවස-හොරු-බිඳියි/11-413250) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former IGP's house burgled; thief caught with 12,000 mg pills & liquor bottles. Police investigation reveals theft occurred through bathroom. Suspect, 46, from Alvitigala Mawatha, Narahenpita, has criminal history.
-
-🟩
-
-Former Inspector General of Inspector Ernst Perera's Manguarder Mannel's Minible, Borella police said.
-
-The suspect was in possession of 12,000 milligades in possession of the suspect at the time of his arrest.
-
-The suspect has been taken into custody by the suspects in questioning the jewelry, jewelry and foreign liquor bottles and foreign liquor bottles and foreign liquor bottles.
-
-Police investigations revealed that the house was taken to a relative to a relative of the water and stolen the house in the bathroom of the water.
-
-The suspect has been arrested following information that the suspect had stolen a bottle of alcohol.
-
-The suspect had previously been arrested for many crimes. The 46-year-old suspect is a resident of Alvitigala Mawatha, Narahenpita.
-
-◼️
-
-[Data](articles/8c624ba0.json)
-
-[Extended Data](ext_articles/8c624ba0.ext.json)
-
----
-
-### We will recover as a strong union
-
-*2024-11-25 10:54:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலமான-தொழிற்சங்கமாக-மீண்டெழுவோம்/76-347718) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"We will recover as a strong union after 5 years," says Jeevan Thondaman, CWC general secretary. He expresses gratitude to supporters and discusses future collaboration for CWC development.
-
-🟩
-
-CWC general secretary and Nuwara Eliya district parliamentarian Jeevan Thondaman said that after five years, we will recover as a strong union with many changes.
-
-Jeevan (24) was held yesterday (24) with the head of the CWC's district leader, head and horticulture chairman and headmaster of the Nuwara Eliya, Nanuoya and Pussalawa.
-
-As the general secretary of the party, I would like to express my gratitude to all the supporters who voted for the CWC in the ongoing 2024 parliamentary general election.
-
-Similarly, in the future, we were discussed in detail how we would all work together for the development of the CWC and what success would be achieved through it.. Remble
-
-◼️
-
-[Data](articles/c27d01f5.json)
-
-[Extended Data](ext_articles/c27d01f5.ext.json)
-
----
-
-### "I have spoken more about rights politics"
-
-*2024-11-25 10:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிமை-அரசியல்-பற்றியே-அதிகம்-பேசியுள்ளேன்/175-347717) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Parliamentary journey focused on social rights & justice. Led Tamil representation twice in Kandy district. Spoke extensively on rights politics. Continues political path despite not being MP. Aware of misleading agents spreading confusion among voters. People's trust remains strong. Voice for truth will persist.
-
-🟩
-
-My parliamentary political journey was the focus of social rights and social justice. Former Kandy district parliamentarian Velukumar said that even if it is not a Member of Parliament, the political journey towards the goal will continue.
-
-“My parliamentary political journey began in 2015. Two times, I gave leadership to retain Tamil parliamentary representation in the Kandy district.
-
-My actions were centered on social justice and social rights. I have spoken more about rights politics in Parliament.
-
-My journey will continue in the same way. To make that journey, I will not be a Member of Parliament to achieve the goal.
-
-Some political agents were leading the absence of Tamil representation of the Kandy district. Going to the gardens and even the votes. They showed the money. They spread rumors.
-
-This caused confusion among the people. Not many people go to vote. People are well aware of who those political agents are. They are currently missing.
-
-...
-
-[Data](articles/f6e5ba75.json)
-
-[Extended Data](ext_articles/f6e5ba75.ext.json)
 
 ---

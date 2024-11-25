@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 14:01:41**
+As of **2024-11-25 11:42:50**
 
 ## Newspaper Stats
 
-*Scraped **56,759** Articles*
+*Scraped **56,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,520 +13,24 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 589
 islandlk | 3,405
-economynextcom | 3,440
+economynextcom | 3,436
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,339
-adaderanalk | 6,862
-tamilmirrorlk | 8,069
-virakesarilk | 9,252
-adaderanasinhalalk | 9,795
+adalk | 5,336
+adaderanalk | 6,858
+tamilmirrorlk | 8,062
+virakesarilk | 9,244
+adaderanasinhalalk | 9,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,755 (100.0%) of 56,759 articles have been extended.
+56,725 (100.0%) of 56,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### Kathmandu 1987 and Islamabad 1988
-
-*2024-11-25 13:46:00* · [`islandlk`](http://island.lk/kathmandu-1987-and-islamabad-1988/) · `en`
-
-At the Third SAARC Summit Meeting in Nepal on November 2-4, 1987, 1 had called for going “full sail ahead” with the King of Nepal in the host’s chair. I said:
-
-“As we all know, regionalism in South Asia has had a late beginning. One of the remarkable developments since the Second World War has been the spread of regionalism, manifested in the setting up of regional organizations which have to cover most of the globe. The fact that SAARC came to be formed so late has been explained by the disparities and imbalances within our region. Nevertheless, there is at the same time, an underlying homogeneity among South Asian countries, on which we hope to build an enduring regionalism for the common benefit of all of us.
-
-...
-
-[Data](articles/33039b22.json)
-
-[Extended Data](ext_articles/33039b22.ext.json)
-
----
-
-### The NPP’s ascent and the Opposition’s descent in Sri Lanka
-
-*2024-11-25 13:44:00* · [`islandlk`](http://island.lk/the-npps-ascent-and-the-oppositions-descent-in-sri-lanka/) · `en`
-
-At parliamentary elections in Sri Lanka last week, the centre-left National People’s Power (NPP) checked all lists and squared all circles, winning not just traditional seats but also polling divisions populated by minority communities.
-
-Speaking to the media on Friday, November 15, hours after general election results were announced in Sri Lanka, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP), the dominant member in the National People’s Power (NPP) alliance that governs the country, acknowledged that his party would commit to “developing the country, eradicating corruption, and enhancing democracy with accountability.”
-
-Silva’s remarks came in the backdrop of one of the biggest electoral landslides in the island’s political history: the NPP, reduced to three seats at the 2020 general election, gained a two-thirds majority, obtaining 159 seats and 61 percent of the vote, last week.
-
-...
-
-[Data](articles/2edb5ec6.json)
-
-[Extended Data](ext_articles/2edb5ec6.ext.json)
-
----
-
-### Netanyahu welcomes Trump’s re-election to second term
-
-*2024-11-25 13:43:00* · [`islandlk`](http://island.lk/netanyahu-welcomes-trumps-re-election-to-second-term/) · `en`
-
-Trump’s new Ambassador to Israel: “There’s really no such thing as a Palestinian”
-
-The re-election of Donald Trump to a second term of the presidency of the United States has changed the ideological trajectory of the future of the United States. At least for the foreseeable future.But it has sealed the fate of the Palestinian people in the Gaza Strip and the West Bank. Permanently.
-
-To even consider the validity of the above statement, one must look into the constitutional, conventional and practical qualifications for the Presidency of the United States. Constitutionally, the President must be at least 35 years of age, be a natural born citizen and must have lived in the United States for at least 14 years.
-
-...
-
-[Data](articles/28b393ff.json)
-
-[Extended Data](ext_articles/28b393ff.ext.json)
-
----
-
-### Return to Normalcy: After Rajapaksa Kakistocracy and Supercilious Ranilocracy
-
-*2024-11-25 13:42:00* · [`islandlk`](http://island.lk/return-to-normalcy-after-rajapaksa-kakistocracy-and-supercilious-ranilocracy/) · `en`
-
-A word first used in 17th century England is gaining new currency in 21st century America. Kakistocracy, a Greek derivative per usual, means government administered by the worst group of citizens – in qualification, competence, experience and scruples. Kakistocracy is in full display in the US with the election of Donald Trump as president for a second term. America is returning to chaos not heeding Kamala Harris’s warning against going back.
-
-In Sri Lanka, Rajapaksas epitomized Kakistocracy for nearly two decades before it imploded under Gotabaya Rajapaksa. After them came Ranil Wickremesinghe to clean up the economic mess left behind by the Rajapaksas. To his credit, Mr. Wickremesinghe did clean up the economic mess. But he also created a political mess, characteristically and superciliously
-
-...
-
-[Data](articles/c3d394a2.json)
-
-[Extended Data](ext_articles/c3d394a2.ext.json)
-
----
-
-### பெற்றோர் மறுத்ததால் தோழியுடன் குதித்த மாணவி
-
-*2024-11-25 13:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெற்றோர்-மறுத்ததால்-தோழியுடன்-குதித்த-மாணவி/76-347729) · `ta`
-
-விக்டோரியா நீர்த்தேக்கத்தில் குதித்து பாடசாலை மாணவியொருவர் உயிரை மாய்த்துக்கொண்டுள்ள  சம்பவம் சனிக்கிழமை ( 23)  பிற்பகல் இடம்பெற்றுள்ளது.
-
-கண்டி தெல்தெனிய பிரதேசத்தைச் சேர்ந்த 17 வயதுடைய பாடசாலை மாணவி ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
-
-குறித்த மாணவி தனது தோழியுடன் விக்டோரியா நீர்த்தேக்கத்தில் குதித்து உயிரை மாய்த்துக்கொள்ள முயன்றுள்ளதுடன் தோழி காப்பாற்றப்பட்டு கரைக்குக் கொண்டுவரப்பட்ட நிலையில் மற்றைய மாணவி நீரில் காணாமல் போயுள்ளார்.
-
-இதனையடுத்து, காணாமல்போன பாடசாலை மாணவியின் சடலம் பொலிஸாரால் கண்டுபிடிக்கப்பட்டுள்ளது. காப்பாற்றப்பட்ட தோழி சிகிச்சைக்காக தெல்தெனிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-மாணவியின் காதல் உறவுக்குப் பெற்றோர் மறுப்பு தெரிவித்ததனால் மனதளவில் பாதிக்கப்பட்டிருந்ததாலேயே மாணவி உயிரை மாய்த்துக்கொண்டுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/269a21e4.json)
-
----
-
-### Controversy as the houses have been left without handing over
-
-*2024-11-25 13:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடுகளை-ஒப்படைக்காமல்-வெளியேறியதால்-சர்ச்சை/175-347728) · `ta`
-
-Sri Lankan controversy: 80 former MPs returned homes, 20 still pending. Officials warn non-returners face water/electricity cutoff. Deadline set for December 3, 2024.
-
-🟩
-
-Since five former MPs have left Sri Lanka, they have failed to hand over their official government resources in the Madiwala Housing constituency for MPs.
-
-As a result, the parliamentary officials responsible for the Housing of Parliament are facing the problems, the Sri Lankan newspaper said.
-
-It is reported that 80 former MPs have handed over their official homes so far and only twenty former MPs have not returned the houses so far.
-
-Parliamentary officials have once again reminded the former MPs who have not yet handed over the houses.
-
-It was reported that seven former MPs had handed over their official residences in the Madiwala housing constituency last Saturday.
-
-It has been announced by parliamentary officials that if the former MPs do not return their homes immediately, they will be cut off drinking water and electricity.
-
-Official residences at the Madiwale Housing Complex will be handed over to new MPs on December 3, 2024.
-
-◼️
-
-[Data](articles/d8e3ce36.json)
-
-[Extended Data](ext_articles/d8e3ce36.ext.json)
-
----
-
-### Unable to provide immediate solution to ‘E-8 visa’ issue – SLBFE chairman
-
-*2024-11-25 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103748/unable-to-provide-immediate-solution-to-e-8-visa-issue-slbfe-chairman) · `en`
-
-A group of individuals holding South Korean E-8 visas is engaged in a continuous protest in front of the Sri Lanka Foreign Employment Bureau (SLFEB) in Battaramulla, demanding solutions to their issues.
-
-The E-8 visa, issued for short-term employment in South Korea’s agricultural sector, is valid for six months. Protesters claimed that their visas are set to expire tomorrow (26) and insisted they would not abandon the agitation until authorities provide a definitive solution.
-
-The Chairman of the Sri Lanka Foreign Employment Bureau (SLFEB) Kosala Wickramasinghe, speaking on Ada Derana’s current affairs programme ‘Big Focus’, acknowledged the issue but stated that an immediate solution could not be provided. He emphasized that illegal visa schemes had contributed to the problem and warned against falling prey to fraudulent groups.
-
-...
-
-[Data](articles/db9ffa9a.json)
-
-[Extended Data](ext_articles/db9ffa9a.ext.json)
-
----
-
-### ADB approves $200 million loan to advance power system expansion in Sri Lanka
-
-*2024-11-25 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103747/adb-approves-200-million-loan-to-advance-power-system-expansion-in-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) has approved a $200 million loan to upgrade Sri Lanka’s power sector infrastructure, enhancing the reliability of transmission and distribution networks and facilitating greater integration of renewable energy.
-
-“Driving power sector reforms, combined with targeted infrastructure interventions, is essential to facilitate competitive renewable energy development and reduce power generation costs,” said ADB Country Director for Sri Lanka Takafumi Kadono. “By expanding and modernizing infrastructure and incorporating digitalization solutions, this project will support the government’s goal of increased integration of renewable energy in the electricity mix, reduce power interruptions, and minimize transmission and distribution losses.”
-
-...
-
-[Data](articles/4aa2fd13.json)
-
-[Extended Data](ext_articles/4aa2fd13.ext.json)
-
----
-
-### Jonathan Alles appointed to Sri Lanka’s Singer board
-
-*2024-11-25 12:45:00* · [`economynextcom`](https://economynext.com/jonathan-alles-appointed-to-sri-lankas-singer-board-189664/) · `en`
-
-ECONOMYNEXT – Antonio Jonathan Alles has been appointed to the board of Singer Plc, the company said in a stock exchange filing.
-
-Alles was appointed as an independent non-executive director, member of the audit committee, related party transaction committee, nominations and governance committee and remuneration committee, effective November 22.
-
-He was previously the managing director and chief executive officer of Hatton National Bank Plc and director and chairman of Sri Lanka Banks Association (SLBA) from 2014 to 2016.
-
-He was also the chairman of the Asian Bank’s Association in 2018.
-
-Alles has been in the banking industry for 37 years and currently serves on the boards of four other companies.
-
-Jonathan Alles: building a future-ready financial services conglomerate on hnb’s 133-year legacy
-
-◼️
-
-[Data](articles/5b50f280.json)
-
-[Extended Data](ext_articles/5b50f280.ext.json)
-
----
-
-### Bail for Sujeeva's luxury vehicle
-
-*2024-11-25 12:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜீவவின்-சொகுசு-வாகனத்திற்கு-பிணை/175-347727) · `ta`
-
-Sujeewa Senasinghe's luxury vehicle case: Bail set at 100 million rupees after court order. Vehicle seized for analysis due to suspicion of illegal importation. Former MP must submit report to government analyst within 48 hours.
-
-🟩
-
-The controversial luxury vehicle of former parliamentarian Sujeewa Senasinghe, who was placed in custody. 100 million has been released on bail.
-
-About around Rs.. It was suspected that the luxury vehicle worth 100 million was illegally organized by former MP Sujeewa Senasinghe.
-
-On November 08, Senasinghe was appointed to submit a report to the government analyst, following suspicions about the status of the vehicle.
-
-On November 11, the Fort Magistrate's Court ordered the Criminal Investigation Division to take the former MP's vehicle in the custody of the State Analyst's Department.
-
-◼️
-
-[Data](articles/eb05a21c.json)
-
-[Extended Data](ext_articles/eb05a21c.ext.json)
-
----
-
-### Public urged to avoid disturbances to students during A/L exams
-
-*2024-11-25 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103746/public-urged-to-avoid-disturbances-to-students-during-al-exams) · `en`
-
-The Commissioner General of Examinations, Amith Jayasundara has requested the public to refrain from engaging in activities that may disturb students during the G.C.E. Advanced Level (A/L) examination period.
-
-Speaking to the media today (25), Jayasundara emphasized that the A/L examination commenced at 8.30 a.m. today across 2,312 centers nationwide.
-
-He urged the public to act with consideration rather than solely following regulations.
-
-“We ask you to help resolve any issues students may encounter during this period. Our goal is to ensure the exam runs smoothly for every student and that all necessary facilities are provided. I kindly request everyone’s cooperation in this matter and urge that no actions are taken that could disturb the examination process. We have coordinated with the police to ensure the proper arrangements are in place,” he said.
-
-This year, a total of 333,185 candidates are sitting for the G.C.E. Advanced Level Examination.
-
-...
-
-[Data](articles/72bc183f.json)
-
----
-
-### Orders to release Sujeewa's pleasure
-
-*2024-11-25 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203710) · `si`
-
-Sujeewa Senasinghe released: Fort Magistrate Tanuja Lakmali orders former State Minister's freedom after detention.
-
-🟩
-
-Fort Magistrate Tanuja Lakmali ordered the release of former Minister of State Minister Sujeewa Senasinghe who was taken into custody.
-
-◼️
-
-[Data](articles/93964d0e.json)
-
-[Extended Data](ext_articles/93964d0e.ext.json)
-
----
-
-### Haris is the suspension from the MU
-
-*2024-11-25 12:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-விலிருந்து-ஹரீஸ்-இடை-நிறுத்தம்/175-347726) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-MU suspends member Haris. Party leader criticizes actions. Secretary General Nizam Kariyapper writes to Haris, asking for explanation. Suspension due to party criticism.
-
-🟩
-
-The party's secretary general Nizam Kariyapper has sent a letter to Haris and said that the move was taken because the party and the party leader criticized the party.
-
-Haris has been asked to explain it if there are reasons for this process.
-
-◼️
-
-[Data](articles/ffba708d.json)
-
-[Extended Data](ext_articles/ffba708d.ext.json)
-
----
-
-### Dileepan left out of EPDP
-
-*2024-11-25 12:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPDPயிலிருந்து-திலீபன்-வெளியேறினார்/175-347725) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Dileepan leaves EPDP after 11 years, citing personal reasons. Former Wanni MP and Vavuniya Executive Secretary joins TNA in 2020, wins parliamentary seat in 2024 elections.
-
-🟩
-
-Kulasingham Dileepan, a former Wanni MP and Vavuniya Executive Secretary of the Eelam Democratic Party, has announced today that he will leave from the party and all its responsibilities.
-
-My political journey, which initially started the Tamil National Alliance (TNA),
-
-Then, from 2013, I worked as the party's Vavuniya District Executive Secretary with the Eelam People's Democratic Party (EPDP).. In 2020, I was elected as a Member of Parliament.
-
-The current 2024 parliamentary elections were received and only considerable votes were received.
-
-I have traveled to the Eelam Democratic Party and served the people.  சில விடயங்கள் காரணமாக ஈழமக்கள் ஜனநாயகக் கட்சியில் இருந்து விலகுகிறேன்.  இது தொடர்பான கடிதத்தினை, ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகம் கெளரவ டக்ளஸ் தேவானந்தா அவர்களுக்கு பதிவுத் தபாலில் அனுப்பியுள்ளேன்.
-
-I have been told that the party or the party leadership has no reason to leave this party, my personal decision. Has been.
-
-◼️
-
-[Data](articles/fcb75a14.json)
-
-[Extended Data](ext_articles/fcb75a14.ext.json)
-
----
-
-### Court orders to release Sujeewa Senasinghe’s luxury vehicle
-
-*2024-11-25 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103745/court-orders-to-release-sujeewa-senasinghes-luxury-vehicle) · `en`
-
-The Fort Magistrate’s Court has ordered the release of former MP Sujeewa Senasinghe’s controversial luxury vehicle, which is now in court custody, on a bond of Rs. 100 million, Ada Derana reporter said.
-
-On November 11, the Fort Magistrate’s Court had ordered the CID to take former MP Sujeewa Senasinghe’s vehicle into custody and produce it to the Government Analyst’s Department and obtain a report.
-
-The former MP’s luxury vehicle, worth around Rs. 100 million, was suspected to have been illegally assembled.
-
-◼️
-
-[Data](articles/7eccb234.json)
-
-[Extended Data](ext_articles/7eccb234.ext.json)
-
----
-
-### E8 Visa Problem - A Notification for Protesters
-
-*2024-11-25 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203708) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka foreign employment agency responds to E-8 visa protesters. They deny protesters' claims, urging calm and adherence to legal processes. Agency emphasizes job promotion as main goal, not visa cancellation.
-
-🟩
-
-විදේශ සේවා කාර්යාංශය ඉදිරිපිට දකුණු කොරියාවේ රැකියා බලාපොරොත්තුවෙන් විරෝධතාවයේ යෙදී සිටින E-8 වීසා ලබාගත් පිරිසට මේ මොහොතේ පිළිතුරක් ලබාදිය නොහැකි බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා පවසයි.
-
-"Address At Ada Derana," he said that the issue was not protesting.
-
-"දැන් උත්තරයක් දෙන්න ඇත්තටම බෑ. Let us take future discussions quickly. එයාලගේ යෝජනාත් අපි එකතු කරන්නම්.
-
-Clearly, there will be no answer. It is not the way to solve the problem. අනීතික කණ්ඩායම්වලට ගත්ත සල්ලිවලට අපි ඉස්සරහදී නීතිමය ක්‍රියාමාර්ගවලට යනවා. සල්ලි ගත්ත අයට ඒ සල්ලි දෙන්න වෙනවා ඒ ළමයින්ට. Do not be caught by those groups. That's simply say that. We are guiding the talks to bring this to a law.
-
-අපිට මේක සලකා බලන්න පුළුවන්. මේක කිසිම අවස්ථාවක ආණ්ඩුව මේක නොසලකා හරිනවා කියලා ගන්න නරකයි. අපි දරුවන්ගේ ජීවිත එක්ක සෙල්ලම් කරන්නේ නෑ. We need to do not make money for the country's child's children by issuing non-law of law.. හරි මඟට අරන් රටේ මානව සම්පත දියුණු කරන්න පුළුවන් ක්‍රමයට සිදුකරන්න.
-
-...
-
-[Data](articles/8c5a9269.json)
-
-[Extended Data](ext_articles/8c5a9269.ext.json)
-
----
-
-### Appointment of qualified officer for Rukunu
-
-*2024-11-25 12:02:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருகுணுவுக்கு-தகுதிவாய்ந்த-அதிகாரி-நியமனம்/175-347724) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Prime Minister Harini Amarasuriya appoints USK Ratnayake as Ruhunu University VC, continuing university administration under Education Ministry."
-
-🟩
-
-Prime Minister Harini Amarasuriya as Minister of Education, Higher Education and Vocational Education, No. 16 (4) (b) of the University Act, No. 16 (b), has been followed by the Vice Chancellor of the University today to continue the administrative activities of the University of Ruhunu.The USK. Ratnayake has been appointed.
-
-◼️
-
-[Data](articles/0974f74e.json)
-
-[Extended Data](ext_articles/0974f74e.ext.json)
-
----
-
-### 'Anura Wave' surrounded by the Tamil Nationalist Fort
-
-*2024-11-25 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199603) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Anura Wave" Tamil Nationalist Fort criticized anti-Tamil party strong election performance Jaffna Tamil nationalist politics stronghold emergence separate party most votes analysis
-
-🟩
-
-Although it was criticized for the past of the national people's power and showed it as an anti -Tamil party, it showed its actions in the election well.. The national popular power has caused a stumbling block by emerging as a separate party with the most votes in Jaffna. Jaffna, the stronghold of Tamil nationalist politics, surrounded the Anura "wave". How did this happen?
-
-◼️
-
-[Data](articles/5cb86cbf.json)
-
-[Extended Data](ext_articles/5cb86cbf.ext.json)
-
----
-
-### More than 15 thousand people are affected by heavy rains
-
-*2024-11-25 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199616) · `ta`
-
-Heavy rains affect 15,622 people nationwide. Military and disaster teams evacuate affected areas. Low-lying lands flooded in Polonnaruwa district. Paddy fields submerged. Reservoir water levels rise; Parakrama Ocean exceeds 92,000 acres.
-
-🟩
-
-15,622 people have been affected by heavy rains in many parts of the country.
-
-As a result, the military and disaster management units have taken steps to take the affected people to safe places.
-
-Meanwhile, many low -lying lands have been flooded due to heavy rains in the Polonnaruwa district.
-
-It is reported that all the most seasoned paddy fields are found in flooded areas.
-
-Irrigation Engineer Anjana Kumara said that the water level of all reservoirs in Polonnaruwa has risen due to heavy rains and the water level of the Parakrama Ocean has now exceeded 92,000 acres.
-
-◼️
-
-[Data](articles/173b4e40.json)
-
-[Extended Data](ext_articles/173b4e40.ext.json)
-
----
-
-### Initiality for MPs
-
-*2024-11-25 11:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கான-செயலமர்வு-ஆரம்பம்/175-347723) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New MPs orientation Nov 25-27, 9:30pm-4:30pm. Workshop covers roles, privileges, legislative activities, committees, constitution arrangements. Includes bribery investigation commission and Parliament Affairs Division roles. Department leaders explain member contributions.
-
-🟩
-
-The Differential Meeting of the New Members selected for the Tenth Parliament will be held on November 25, 26, 26 and 27 from 9.30 pm to 4.30 pm.
-
-The Diverse Convention Workshop has been organized as a formal step in the beginning of the new Parliament.
-
-Monday 25th Monday. Prime Minister Harini Amarasuriya, Hon. Hon. Jayatissa,The Secretary General of Parliament, the Deputy Secretary General and the Assistant Secretary General will attend.
-
-During this three -day workshop, appropriate measures have been taken to raise awareness about the role of parliamentarians, parliamentary privileges, legislative activities of parliament, parliamentary committee system, parliamentary stances and arrangements of the constitution.
-
-In addition, the Commission to Investigate the Bribery or Corruption of Corruption Act and the role of the Parliamentary Affairs Division of the Parliamentary Affairs Division of the Ministry of Public Safety and the Parliamentary Affairs Ministry.
-
-...
-
-[Data](articles/0084f777.json)
-
-[Extended Data](ext_articles/0084f777.ext.json)
-
----
-
-### Egg prices rise again!
-
-*2024-11-25 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199609) · `ta`
-
-Egg prices surge: 35 rupees now 38-40. Vegetable market sees mixed trends.
-
-🟩
-
-It is reported that the egg, which was sold for 35 rupees in the past, is currently being sold at different prices in the market.
-
-Accordingly, a small amount of eggs are sold for 38 rupees and normal eggs for 40 rupees.
-
-Meanwhile, traders and consumers have said that the prices of upland vegetables in the market have declined and the prices of low -lying vegetables have increased.
-
-◼️
-
-[Data](articles/ba17ce27.json)
-
-[Extended Data](ext_articles/ba17ce27.ext.json)
-
----
-
-### Do not hinder the children who write the exam - Request for Examination Commissioner
-
-*2024-11-25 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203707) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Exam Commissioner urges public not to interfere with students during exams. 333,185 candidates taking GCE Advanced Level Exam at 2,312 centers nationwide. Police assistance provided for transport issues. Public support requested until Dec 20. Contact 0112 785 922/0112 784 537 for exam-related inquiries.
-
-🟩
-
-The Commissioner of Examinations requests the public to not take any activity in the A / L days.
-
-The A / L examination commenced at 2,312 centers across the country at 8.30 am today and commented on the media.
-
-The Commissioner General of Examinations said that the police have been informed in this regard and this is more than law.
-
-"If these children have a problem, I urge them to help them solve it. We hope every child hold the exam under a good role of this examination. To provide all necessary facilities. I need the support of everyone. I urge you to give your support as soon as you. And don't do anything that is hindered by these. We have prepared the necessary program to discuss the police department. "
-
-333,185 candidates will appear on the GCE Advanced Level Examination.
-
-The Commissioner General of Examinations said that the first sheet of biology and economics of the evening this morning is the first sheet of biology and economics of the evening.
-
-...
-
-[Data](articles/67643335.json)
-
-[Extended Data](ext_articles/67643335.ext.json)
-
----
 
 ### Election Commission gears up for LG polls
 
@@ -547,156 +51,6 @@ A final decision on funding is expected after discussions, with the government a
 ◼️
 
 [Data](articles/ad695819.json)
-
-[Extended Data](ext_articles/ad695819.ext.json)
-
----
-
-### Four people injured in a bus accident
-
-*2024-11-25 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199596) · `ta`
-
-4 injured in bus crash on Hatton-Colombo highway. Private bus hit by another vehicle while traveling from Hatton to Kandy on Monday morning.
-
-🟩
-
-Four passengers were injured in a bus accident on Monday morning (25) on the Hatton -Colombo main road, police said.
-
-The accident occurred when a private bus traveling from Hatton to Kandy was hit by a bus in the opposite direction.
-
-◼️
-
-[Data](articles/c75a7e1f.json)
-
-[Extended Data](ext_articles/c75a7e1f.ext.json)
-
----
-
-### Sri Lanka can cut floor rate, but targeting ‘dysfunctional’ market will lead to trouble
-
-*2024-11-25 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-cut-floor-rate-but-targeting-dysfunctional-market-will-lead-to-trouble-189613/) · `en`
-
-ECONOMYNEXT – Sri Lanka is just emerging from a default after large volumes of money were printed to target a narrow policy rate, in the pursuit of instant growth (potential output) and denying monetary stability to the people.
-
-From 2015 in particular Sri Lanka very narrowly targeted a policy rate despite being a reserve collecting central bank.
-
-Targeting a mid-corridor rate is the same as printing money to maintain a single policy rate. The label is different but the required inflationism is the same.
-
-The same consequences of targeting a mid-corridor rate in 2015 and especially 2018 when the budget deficit was brought down.
-
-If the call money rate is so dysfunctional as claimed in a recent defence of money printing through OMO, it should obviously not be used as the operating target for monetary policy at all.
-
-Since the end of the war the central bank has cut rates around 18 to 20 months after a currency crisis, just as private credit recovered and triggered a currency crisis.
-
-...
-
-[Data](articles/2fb6a339.json)
-
-[Extended Data](ext_articles/2fb6a339.ext.json)
-
----
-
-### Sri Lanka can cut floor rate, but targeting ‘dysfunctional’ market will lead to trouble
-
-*2024-11-25 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-suppress-call-rates-through-omo-if-market-is-so-dysfunctional-189613/) · `en`
-
-ECONOMYNEXT – Sri Lanka is just emerging from a default after large volumes of money were printed to target a narrow policy rate, in the pursuit of instant growth (potential output) and denying monetary stability to the people.
-
-From 2015 in particular Sri Lanka very narrowly targeted a policy rate despite being a reserve collecting central bank.
-
-Targeting a mid-corridor rate is the same as printing money to maintain a single policy rate. The label is different but the required inflationism is the same.
-
-The same consequences of targeting a mid-corridor rate in 2015 and especially 2018 when the budget deficit was brought down.
-
-If the call money rate is so dysfunctional as claimed in a recent defence of money printing through OMO, it should obviously not be used as the operating target for monetary policy at all.
-
-Since the end of the war the central bank has cut rates around 18 to 20 months after a currency crisis, just as private credit recovered and triggered a currency crisis.
-
-...
-
-[Data](articles/c2ad2789.json)
-
-[Extended Data](ext_articles/c2ad2789.ext.json)
-
----
-
-### Ceylon Chamber calls for member proposals for Budget 2025
-
-*2024-11-25 11:15:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-calls-for-member-proposals-for-budget-2025-189654/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has invited its members to submit proposals for Sri Lanka’s Budget 2025, to ‘tackle growth barriers and boost investment’.
-
-President Anura Dissanayake has said a budget would be tabled in March 2025.
-
-“The Ceylon Chamber of Commerce invites its Members to contribute their insights for inclusion in our formal submissions on the national Budget,” the trade body said on social media platform X.
-
-Chamber Chairman Duminda Hulangamuwa was appointed Senior Consultant of Economic Affairs and Finance to Dissanayake and sits in on the government’s meetings with International Monetary Fund representatives.
-
-Dissanayake has promised a reduction in taxes for the public when campaigning.
-
-The IMF bailout plan for the island nation has recommended that Sri Lanka must continue to increase tax revenue.
-
-The private sector trade body met the team from the IMF, led by Peter Mullins, In July to discuss Sri Lanka’s tax system. (Colombo/Nov25/2024)
-
-◼️
-
-[Data](articles/69291ee0.json)
-
-[Extended Data](ext_articles/69291ee0.ext.json)
-
----
-
-### Arrested to sell Valamburich Sangam for Rs.
-
-*2024-11-25 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199606) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrest made for selling rare Valamburi conch near Matara/Tihagoda. Suspect, 26, from Hungwella. Arrested by Central Anti-Corruption Unit on Sunday.
-
-🟩
-
-A suspect has been arrested on Sunday (24) for attempting to sell a rare Valamburi conch near the Matara and Tihagoda police division.
-
-The suspect has been arrested in connection with the information received by the Central Anti -Corruption Unit.
-
-The suspect was 26 years old from Hungwella.
-
-◼️
-
-[Data](articles/25123fde.json)
-
-[Extended Data](ext_articles/25123fde.ext.json)
-
----
-
-### Israeli has launched 250 rockets
-
-*2024-11-25 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199611) · `ta`
-
-Israel launches 250 rockets at Lebanon; Hezbollah retaliates; clashes intensify; attacks hit capital and north; ceasefire hopes rise; property damage reported.
-
-🟩
-
-The Israeli security forces have said that the Hesbullah organizations from Lebanon have launched more than 250 rice towards Israel.
-
-It is noteworthy that the hesbullah organization's heavy rocket attack after the clash between the Israeli Hellbullah organization in September was intensified.
-
-The Hesbullah organization's rockets have attacked the Israeli capital and the Northern Central Israel.
-
-The Hesbullah Organization has launched the attack in Israel's attack in Central Beirut.
-
-The attack took place when the Israeli media reported that the chances of a ceasefire between Israel and Hzbullah were on the rise.
-
-Israeli police have said that the scattering of rice in the Israeli capital has fallen and the Israeli police have said that a house has been burnt in a fire.
-
-◼️
-
-[Data](articles/2be1f1e1.json)
-
-[Extended Data](ext_articles/2be1f1e1.ext.json)
 
 ---
 
@@ -725,28 +79,6 @@ He added that everyone is being asked to take up the floods due to the possibili
 [Data](articles/23b72d52.json)
 
 [Extended Data](ext_articles/23b72d52.ext.json)
-
----
-
-### හිටපු පොලිස්පතිවරයෙකුගේ මිණිබිරියගේ නිවස හොරු බිඳියි
-
-*2024-11-25 10:58:17* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පොලිස්පතිවරයෙකුගේ-මිණිබිරියගේ-නිවස-හොරු-බිඳියි/11-413250) · `si`
-
-හිටපු පොලිස්පති අර්නස්ට් පෙරේරා මහතාගේ මිණිබිරියගේ  බොරැල්ල ඇල්විටිගල මාවතේ මැණින් ටවුන් මහල්නිවාස සංකීර්ණයේ නිවස  බිඳ රුපියල් ලක්ෂ 31 කට ආසන්න රන් ආභරණ ඇතුළු දේපළ සොරාගත් පුද්ගලයෙකු අත්අඩංගුවට ගත් බව බොරැල්ල පොලිසිය කියයි.
-
-අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරු සන්තකයේ තිබී  හොරයින් මත්කුඩු මිලිග්රැම්  12000 ක් පොලිස් භාරයට ගෙන ඇත.
-
-එම සැකකරුගෙන් ප්‍රශ්න කිරීමේදී සොරා ගත් රන් ආභරණ, සුදු රත්තරන් වලින් නිම වූ ආභරණ සහ විදේශීය මත්පැන් බෝතල්, අත් ඔරලෝසු ඇතුළු දේපල රැසක් පොලිස් භාරයට ගෙන ඇත.
-
-ඉකුත් 19 වෙනි දින  නිවැසියන් ඥාති නිවසකට ගොස් සිටියදී වතුර බටය දිගේ පලවන මහලට ඇතුළු වී නිවසේ නාන කාමරයේ සුළංකවුළුවෙන් නිවසට ඇතුළු වී දේපළ සොරාගෙන තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබිණි.
-
-සැකකරු සොරා ගත් මත්පැන් බෝතල්කීපයක් ලබා දී හොරයින් මත්කුඩු මිලදී ගෙන ඇති බවට  ලද තොරතුරකට අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.
-
-සැකකරු මීට පෙරද අපරාධ රැසකට අත්අඩංගුවට පත් වූ පුද්ගලයෙකි. අත්අඩංගුවට ගත් 46 හැවිරිදි  සැකකරු නාරහේන්පිට  ඇල්විටිගල මාවත  පදිංචිකරුවෙකි.සැකකරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/8c624ba0.json)
 
 ---
 
@@ -825,8 +157,6 @@ Additionally, he added that the program acts as a guarantor to the international
 ...
 
 [Data](articles/3eb54ac1.json)
-
-[Extended Data](ext_articles/3eb54ac1.ext.json)
 
 ---
 
@@ -914,38 +244,6 @@ The inaugural session of the 10th Parliament, consisting of members elected thro
 
 [Data](articles/b64ff26b.json)
 
-[Extended Data](ext_articles/b64ff26b.ext.json)
-
----
-
-### Aruchuna's controversial activities - what is the next step?The Speaker responded
-
-*2024-11-25 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199605) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Asoka Ranwala plans talks with MP Archana Ramanathan over controversial actions. He acknowledges public disapproval but emphasizes unity and national development.
-
-🟩
-
-Asoka Ranwala has said that he will hold talks with Parliamentarian Archana Ramanathan's recent controversial measures.
-
-The Speaker said, "I will hold a direct negotiation with the Member of Parliament," the Speaker said.
-
-The Speaker in Kandy said that we do not know the aspirations of the people he represented, but the Speaker said that the people do not support such activities in the current political environment.
-
-The Speaker said that whatever the North West East joins, they prefer unity and the development of this country.
-
-The Speaker said that we accept that the individual was involved in this act.
-
-◼️
-
-[Data](articles/9d0bf716.json)
-
-[Extended Data](ext_articles/9d0bf716.ext.json)
-
 ---
 
 ### Speaker responds to MP Archchuna Ramanathan’s controversial conduct
@@ -967,54 +265,6 @@ He made these remarks while speaking to the media following his visit to Kandy l
 [Data](articles/9dced54a.json)
 
 [Extended Data](ext_articles/9dced54a.ext.json)
-
----
-
-### US company re -examines Adani's Port Development Program in Sri Lanka
-
-*2024-11-25 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199602) · `ta`
-
-US company reviewing Adani's Sri Lanka port project due to allegations. $500m loan pending approval. Investigation ongoing before final decision.
-
-🟩
-
-The US company, which has offered $ 500 million to the Port Development Program supported by the Adani Group in Sri Lanka, has said that it is investigating the port development project following the allegations against Adani Group, including Gautam Adani.
-
-An official said that the United States International Development Fund Corporation has not yet taken over the loan to the Port Development Program to be launched in Sri Lanka.
-
-"We are continuing to investigate all the aspects of the Titt before lending," a US company official said, "We are continuing to take a final decision on the financial loan for the project."
-
-The United States International Development Fund Corporation has also announced that it will help the Adani Group in Sri Lanka's capital.
-
-◼️
-
-[Data](articles/b03cfe4d.json)
-
-[Extended Data](ext_articles/b03cfe4d.ext.json)
-
----
-
-### මහ මැතිවරණයෙන් පසු මැතිවරණ කොමිසම යළි වැඩ අරඹයි
-
-*2024-11-25 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203705) · `si`
-
-ඒ අනුව එළැඹෙන බ්‍රහස්පතින්දා උදෑසන 10ට මැතිවරණ කොමිසම රැස්වනු ඇත.
-
-මහ මැතිවරණය අවසන් වීමෙන් පසු මැතිවරණ කොමිෂන් සභාව රැස්වන පළමු අවස්ථාව ද මෙය වේ.
-
-විශේෂයෙන් මෙහිදී පළාත් පාලන ආයතන ඡන්ද විමසීම සම්බන්ධයෙන් තීරණයක් ගනු ඇති බව වාර්තා වේ.
-
-පළාත් පාලන ආයතන ඡන්ද විමසීම ලබන වසරේ ජනවාරි මාසයේ දී පැවැත්වීමට කටයුතු කරන බව අමාත්‍ය විජිත හේරත් මහතා පසුගිය දා මහනුවර ප්‍රදේශයේ පැවති උත්සවයකින් අනතුරුව සඳහන් කළේය.
-
-එමෙන්ම පළාත් පාලන ආයතන ඡන්ද විමසීම සම්බන්ධයෙන් අධිකරණය විසින් තීන්දුවක් ලබා දීම හේතුවෙන් මෙම මැතිවරණය කඩිනමින් පැවැත්වීම කෙරෙහි මැතිවරණ කොමිෂන් සභාවේ ද අවධානය යොමුව තිබේ.
-
-මැතිවරණය පැවැත්වීමට මේ දක්වාත් මුදල් වෙන් කර නොමැති අතර ඒ සම්බන්ධයෙන් ද සාකච්ඡා කර අවසන් තීරණයක් ගැනීමට නියමිතය.
-
-මේ සඳහා මුදල් වෙන්කිරීම ආණ්ඩුව විසින් දෙසැම්බර් මාසයේ දී ඉදිරිපත් කිරීමට නියමිත අතුරු සම්මත ගිණුම මඟින් සිදුකිරීමට නියමිත බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/b612ad15.json)
 
 ---
 
@@ -1083,30 +333,6 @@ A similar workshops will be organized for MPs at the end of every parliamentaria
 [Data](articles/004e6a04.json)
 
 [Extended Data](ext_articles/004e6a04.ext.json)
-
----
-
-### Kataragama invasants informit in Basnayake Nilame
-
-*2024-11-25 09:30:35* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-එන-බැතිමතුන්ට-බස්නායක-නිලමේගෙන්-දැනුම්-දිමක්/11-413248) · `si`
-
-Kataragama Basnayake Nilame Dhisnu Gunasekera calls for gem river due to reduced drumming from rains. Gemstock development increases in Kheelne. Devotees visit during school holidays. Beautiful gems observed during rain adaptation.
-
-🟩
-
-Dhisnu Gunasekera, Basnayake Nilame of the Ruhunu Maha Kataragama Devalaya, has called for the gem river, as the drumming of the Gem River has been reduced by the existing rains.
-
-According to Basnayake Nilame, the use of gemstock develops in Kheelne, which is now increasingly increasing due to the great rain.
-
-Devotees have come to the Kataragama city of Kataragama, taking the prevailing school holidays.
-
-Basnayake Nilame also adapted to the beautiful gems to watch the beautiful gems and the Water the Basnayake Nilame also adapted to rain.
-
-◼️
-
-[Data](articles/cc17606d.json)
-
-[Extended Data](ext_articles/cc17606d.ext.json)
 
 ---
 
@@ -2267,5 +1493,857 @@ In both statements, PAKD diagnosed the historical Sri Lankan political landscape
 [Data](articles/ecf52ae7.json)
 
 [Extended Data](ext_articles/ecf52ae7.ext.json)
+
+---
+
+### 2024-11-24 (Sunday)
+
+### There is no electricity tariff correction within this year
+
+*2024-11-24 23:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடத்திற்குள்-மின்-கட்டண-திருத்தம்-இல்லை/175-347704) · `ta`
+
+Electricity tariff correction delayed until next year due to CEB's request for additional time to finalize recommendations. Public Utilities Commission estimates at least 6 weeks needed for amendment process.
+
+🟩
+
+The Public Utilities Commission said that the Electricity Tax Correction will not be made within this year due to the delay in making recommendations on the Ceylon Electricity Tax Correction.
+
+The Ceylon Electricity Board (CEB) had submitted a recommendation to the Public Utilities Commission last September.
+
+The Ceylon Electricity Board (CEB) has requested more time to submit the recommendations, the Sri Lanka Public Use Commission said.
+
+Therefore, in this context, the Public Utilities Commission official said that at least 6 weeks to make the electricity tariff amendment would be required for at least 6 weeks and that the power supply was not possible within this year.. (A)
+
+◼️
+
+[Data](articles/42efa0a7.json)
+
+[Extended Data](ext_articles/42efa0a7.ext.json)
+
+---
+
+### New acting secretary to Ministry of Health
+
+*2024-11-24 23:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203696) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ms. Wathsala Priyadarshani, former acting secretary, appointed Additional Secretary at Ministry of Health. Replaces Dr. Palitha Mahipala.
+
+🟩
+
+Ms. Wathsala Priyadarshani, who was the acting secretary of the Ministry of Health, has been appointed as the Additional Secretary to the Ministry.
+
+Specialist medical Palitha Mahipala was so far.
+
+◼️
+
+[Data](articles/5199719f.json)
+
+[Extended Data](ext_articles/5199719f.ext.json)
+
+---
+
+### Landslide warnings continue to be
+
+*2024-11-24 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203695) · `si`
+
+Landslide warnings issued for Badulla, Galle, Kegalle, Nuwara Eliya, Ratnapura. Heavy rainfall reported in Ampara (178.1mm). Nilwala River flooding in Matara. Roads affected: Akuressa-Pitabaddara, Lawbath Lake Skilpita, Colombo Oya Weligama Kanunkara. Low-lying areas flooded in Northern Province. Reservoir sluice gates closed in North Central Province. Colombo-Lankapuvath road affected by Hamilton Canal flooding.
+
+🟩
+
+In the island, there will be more raining to many areas from several days.
+
+The National Building Research Organization has informed Badulla, Galle, Kegalle, Nuwara Eliya and Ratnapura districts.
+
+The highest rainfall was reported from the Akkaraipattu in the Ampara district, with 178.1 millimeters.
+
+The Nilwala River in Matara is being flowers with heavy rains in high catchment areas.
+
+The people of the people of several villages have been interrupted by drinking the Akuressa - Pitabaddara road.
+
+The FUT of the Lawbath Lake Akuressa has been flooded from the Skilpita road from bloating.
+
+Weligama Kanunkara main road has been flooded by the overflowing of the Colombo Oya.
+
+There are also low-inferior lands in the water, in a heavy environment in the Northern Province.
+
+Meanwhile, sluice gates of several major reservoirs have been convented with heavy rains in the North Central Province.
+
+...
+
+[Data](articles/fe6ac00f.json)
+
+[Extended Data](ext_articles/fe6ac00f.ext.json)
+
+---
+
+### New Legislature to take action against fake allegations
+
+*2024-11-24 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/199590) · `ta`
+
+Sri Lanka PA proposes legal action against fake political allegations
+
+🟩
+
+I will present the individual proposal to take legal action on fake allegations put forward in the political arena.. The National Organizer of the Sri Lanka Peoples Alliance (PA), Namal Rajapaksa, said that false allegations against M were one of the reasons for the current coup.
+
+He was speaking at a meeting of the organizer of the PA, which was held on Sunday (24) in the Maharaka area.
+
+There is a situation where anyone wants to refer to the election victory in the political arena.. Everyone forgets the allegations made after the end of the election.
+
+In the past, there have been many allegations that Rajapaksas have 18 Lambokini vehicles and have been funded by Uganda in Uganda.. During the presidential election, the National People's Power Member later stated that the Rajapaksas had been funded in Uganda.
+
+Rajapakse, including former President Mahinda Rajapakse, has been accused of short political success.
+
+...
+
+[Data](articles/04e5c7f8.json)
+
+[Extended Data](ext_articles/04e5c7f8.ext.json)
+
+---
+
+### Sri Lanka Electricity Working Association
+
+*2024-11-24 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203694) · `si`
+
+Sri Lanka Electricity Workers' Association: CEB Chairman requests employee bonuses by Dec 10. General Secretary Ranjan Jayalal confirms no bonuses were given in previous administration.
+
+🟩
+
+The Ceylon Electricity Board (CEB) Chairman of the CEB has requested the Chairman of the Ceylon Electricity Board (CEB) to be taken to provide the employee bonus before December 10.
+
+The General Secretary of the Association Ranjan Jayalal has been sent to a letter.
+
+He further stated that the former administration was not given a bonus for two years since the former management.
+
+◼️
+
+[Data](articles/3952b7a1.json)
+
+[Extended Data](ext_articles/3952b7a1.ext.json)
+
+---
+
+### Bangladesh. The player Akash;5 wickets pile in the virgin venture, four directly
+
+*2024-11-24 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199589) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's Akash Wigneswaran takes 5 wickets vs Bangladesh U17s in debut match. He dismisses top 2 batsmen in 3rd over & 2 more in 8th over. Bangladesh all out for 141 in 33.5 overs. Sri Lanka replies with 23/5 in 5.3 overs.
+
+🟩
+
+Point Pedro Hadley player Wigneswaran Akash recorded 5 wickets in a junior ODI match against Bangladesh under the age of 17 on Sunday (24) at the Galle International Cricket Stadium.
+
+At the first time he played in the junior international competition, Akash, who bowled the most efficiently, bolted the four players of the opponent directly and took the other in his bowling.
+
+He took 27 runs in 7.5 overs and took 5 wickets.
+
+Under the age of 17, Bangladesh lost all wickets in 33.5 overs and scored 141 runs.
+
+Bangladesh scored 76 runs without a wicket in the 19th over.
+
+The initial players Mohammed Ritoi Hossain did not lose 40 runs and Abdullah al -Muhi 31 runs.
+
+Wigneswaran Akash, who was throwing his 3rd over, was the one who loses the wickets of the two starters directly and gave the Sri Lankan team the inauguration.
+
+In his 5th over, Bangladesh captain Barhan caste took his bowling and lost Akash.
+
+In his 8th over, Akash lost the next ball of the balls and lost the two players directly.
+
+...
+
+[Data](articles/b676b214.json)
+
+[Extended Data](ext_articles/b676b214.ext.json)
+
+---
+
+### Sri Lankans stranded due to E8 visas in South Korea
+
+*2024-11-24 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203693) · `si`
+
+Sri Lankan workers stranded in South Korea due to E8 visas without job agreements. Protesters demand resolution from Foreign Employment Bureau. Government claims informal visa process used by private agencies.
+
+🟩
+
+The Chairman of the Foreign Employment Bureau Kiosala Wickremasinghe today (24) revealed that the E8 visas had been maintained without a job agreement without a job agreement.
+
+In response to the Sathyagraha, who is looking to go to South Korea under the Visa Methodology.
+
+Under the E8, a group of people who promote the arrival of work in South Korea have been protesting in front of the Foreign Employment Bureau in front of the Foreign Employment Bureau.
+
+They were not responding to the protests yesterday (23) and protest against the protest yesterday.
+
+Although the group was ready to construct a temporary tent, the police were interrupted.
+
+Later, the people engaged in Sathyagrah landed at the place.
+
+We inquired from the President of the Sri Lanka Bureau of Foreign Employment Bureau Kiola Wickremasinghe.
+
+...
+
+[Data](articles/1166844a.json)
+
+[Extended Data](ext_articles/1166844a.ext.json)
+
+---
+
+### IPL 2025: Wanindu Hasaranga, Maheesh Theekshana bought by RR
+
+*2024-11-24 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103734/ipl-2025-wanindu-hasaranga-maheesh-theekshana-bought-by-rr) · `en`
+
+Sri Lanka’s Wanindu Hasaranga and Maheesh Theekshana have been sold to Rajasthan Royals (RR) in the 2025 Indian Premier League (IPL) mega auction.
+
+Hasaranga, the dashing leg-spinner, has fetched a sum of ₹5.25 crore at the event in Jeddah, Saudi Arabia.
+
+The wrist-spinner has emerged as a match-winner for the Lankans in limited-overs cricket.
+
+Hasaranga was ruled out of the 2024 IPL season. As mentioned, he was a part of the Sunrisers Hyderabad squad.
+
+He had fetched a sum of ₹1.5 crore from SRH at the 2024 IPL auction.
+
+Hasaranga was released by Royal Challengers Bengaluru (RCB) after the 2023 season.
+
+Hasaranga was RCB’s highest wicket-taker in IPL 2022 as he finished with 26 wickets at 16.54.
+
+Hasaranga owns 287 wickets from 200 T20 matches at an average of 16.65. The tally includes an economy rate of 6.90 (9 four-fers and 3 fifers).
+
+He also owns 2,314 runs with the bat at a strike rate of 145.16. He has also scored nine half-centuries.
+
+The all-rounder has been a vital cog in Sri Lanka’s line-up.
+
+...
+
+[Data](articles/3f069c71.json)
+
+[Extended Data](ext_articles/3f069c71.ext.json)
+
+---
+
+### A / L examination tomorrow
+
+*2024-11-24 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203692) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"A/L exam tomorrow: 25 centers, 333,185 candidates. School: 253,390; Private: 79,795. Valid ID required. Ends Dec 20."
+
+🟩
+
+2024 GCE Advanced Level. The A / L examination begins tomorrow (25), and this will be held at 2,312 examination centers.
+
+The Examination Department states that the signature of the candidate on the ticket should be confirmed by a qualified person and approach the examination center with a valid identity card.
+
+333,185 candidates have qualified for the A / L examination, of which 253,390 are school applicants. The other 79,795 are private candidates.
+
+The 22nd Level Examination for the 22 days is due to end on December 20.
+
+◼️
+
+[Data](articles/7c96eab4.json)
+
+[Extended Data](ext_articles/7c96eab4.ext.json)
+
+---
+
+### Measures in place to ensure safe travel for A/L students amid adverse weather
+
+*2024-11-24 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103733/measures-in-place-to-ensure-safe-travel-for-al-students-amid-adverse-weather) · `en`
+
+The Matara District Disaster Management Coordination Unit has confirmed that all necessary steps are being taken to ensure students sitting for the G.C.E. Advanced Level examination tomorrow (25) can safely reach their respective examination centers, even in the event of an emergency situation.
+
+Assistant Director of the unit, Lieutenant Colonel Kelum Kudagamage, stated that in the event the flood situation persists, the Sri Lanka Navy, alongside the Army, will be ready to deploy boats, unibuffer vehicles, and tractors.
+
+Additionally, boats and tractors available at the Divisional Secretariats and Pradeshiya Sabhas will be utilized to transport students to their exam locations if required.
+
+In case of any travel disruptions due to adverse weather conditions, students are advised to call the emergency hotline which is operational round the clock at 0412 234 134 for assistance.
+
+...
+
+[Data](articles/7d9f3b62.json)
+
+[Extended Data](ext_articles/7d9f3b62.ext.json)
+
+---
+
+### Open two astronauts of the barber reservoir
+
+*2024-11-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199588) · `ta`
+
+Heavy rains flood Vavuniya, opening barber shops near reservoirs. Water surrounds 82.84 acres, blocking traffic due to dam collapse. Authorities work to address issue.
+
+🟩
+
+Due to heavy rains in the Vavuniya district, two skilled shops have been opened by one foot.
+
+Due to heavy rains in Vavuniya since Sunday 24th, Vavuniya has been rich in many ponds. As the water level of the water reservoir has increased, the sky has opened.
+
+Meanwhile, 82.84 acres of land under the field is surrounded by water and traffic through the area has been blocked due to the collapse of the Madathuvilangulam Dam located in Palamottai, Omanthai.
+
+The Kamakara Organization and the Department of Agrarian Development are taking steps to revise this.
+
+◼️
+
+[Data](articles/7d96483c.json)
+
+[Extended Data](ext_articles/7d96483c.ext.json)
+
+---
+
+### Ranil Wickremesinghe can be held hostage - Rajitha Senaratne
+
+*2024-11-24 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199587) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rajitha Senaratne accuses Ranil Wickremesinghe of appointing a committee to investigate Ravi Karunanayake's appointment to the National List seat. Wickremesinghe denies knowledge of the affair, contradicting Karunanayake's claim. The New Democratic Front is considering candidates for the remaining National List seat, with Kanjana Wijesekera being a top choice. The SLFP has also requested a National List member, causing a delay in the final decision.
+
+🟩
+
+Ranil Wickremesinghe could not know the affair sent to Ravi Karunanayake's name to the National List. Former parliamentarian Rajitha Senaratne said that Ranil Wickremesinghe has appointed a committee to investigate her action.
+
+He was speaking at a press conference held at the new Democratic Front office in Colombo on Sunday (24).
+
+Two National List seats were available to the new Democratic Front in the parliamentary election. Ravi Karunanayake has taken one of them. None of the leading party members know about the affair he received. Ravi Karunanayake has said that Ranil Wickremesinghe had informed Wickremesinghe in advance regarding the matter.. If Ranil Wickremesinghe is aware of this, why should the committee be set up to investigate his action.
+
+Ranil Wickremesinghe was the ongoing opposition to the issue. No one in the party is holding Ranil Wickremesinghe as a hostage. So can no one can hold him hostage. But Ranil Wickremesinghe can hold the hostage.
+
+...
+
+[Data](articles/f12134b7.json)
+
+[Extended Data](ext_articles/f12134b7.ext.json)
+
+---
+
+### Mahesh inspects Rajasthan
+
+*2024-11-24 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203691) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Mahesh inspects Rajasthan: Sri Lankan player Mah Mesh visits Indian Royals auction in IPL.
+
+🟩
+
+Sri Lankan players' Mah Mesh inspects Indian Ruayals at the Auction in the Indian Premier League.
+
+◼️
+
+[Data](articles/96603d17.json)
+
+[Extended Data](ext_articles/96603d17.ext.json)
+
+---
+
+### Rishabh Bond for the first phase of 2025 IPL players
+
+*2024-11-24 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199585) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rishabh Pant auctioned for over 25 crore in IPL 2025 mega auction. Shreyas Iyer sold to Punjab Kings for 26.75 crore. Other notable buys include KL Rahul, Mohammed Siraj, Mitchell Starc, Kagiso Rabada, Liam Livingstone, David Miller.
+
+🟩
+
+Indian wicketkeeper Rishabh Bond was bought by Lucknow Super Jeanteus for the first phase of the 18th Indian Premier League chapter to be held in 2025.
+
+Mega auction for 574 players started at 3.30 pm yesterday at Saudi Arabia's Jeddah. The auction was held last night and will continue today.
+
+The owners and management team of 10 teams playing in the IPL cricket match are participating in the auction. The basic auction price of 81 players has been fixed at Rs 2 crore.
+
+12 players were bought by teams at the first phase of the amazing auctions for the wondering players who were held from 3.30 pm to 5.30 pm on Sunday.
+
+Both Indian players Rishabh Pant and Shreyas Iyer were auctioned off for over Rs 25 crore.
+
+The difference between the two of them was 25 lakh rupees.
+
+Next to him, Punjab Kings, who bought Shreyas Iyer at the second highest price of Rs 26 crore 75 lakh rupees, joined Indian left -handed fast bowler Arshdeep Singh and spinner Yuswendra Sahal for Rs 18 crore.
+
+...
+
+[Data](articles/64199e3d.json)
+
+[Extended Data](ext_articles/64199e3d.ext.json)
+
+---
+
+### Rishabh Bond for the first phase of 2025 IPL players
+
+*2024-11-24 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199586) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Lucknow Super Giants buy Rishabh Pant for ₹25 crore in IPL 2025 mega auction. Other notable buys: Shreyas Iyer (₹26.75 crore), KL Rahul (₹14 crore), Mohammed Siraj (₹12.25 crore). Auction continues with 10 teams vying for top players.
+
+🟩
+
+Indian wicketkeeper Rishabh Bond was bought by Lucknow Super Jeanteus for the first phase of the 18th Indian Premier League chapter to be held in 2025.
+
+Mega auction for 574 players started at 3.30 pm yesterday at Saudi Arabia's Jeddah. The auction was held last night and will continue today.
+
+The owners and management team of 10 teams playing in the IPL cricket match are participating in the auction. The basic auction price of 81 players has been fixed at Rs 2 crore.
+
+12 players were bought by teams at the first phase of the amazing auctions for the wondering players who were held from 3.30 pm to 5.30 pm on Sunday.
+
+Both Indian players Rishabh Pant and Shreyas Iyer were auctioned off for over Rs 25 crore.
+
+The difference between the two of them was 25 lakh rupees.
+
+Next to him, Punjab Kings, who bought Shreyas Iyer at the second highest price of Rs 26 crore 75 lakh rupees, joined Indian left -handed fast bowler Arshdeep Singh and spinner Yuswendra Sahal for Rs 18 crore.
+
+...
+
+[Data](articles/e445c013.json)
+
+[Extended Data](ext_articles/e445c013.ext.json)
+
+---
+
+### 11 arrested, including 2 soldiers
+
+*2024-11-24 20:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-இராணுவத்தினர்-உட்பட-11-பேர்-கைது/175-347702) · `ta`
+
+11 arrests: 2 soldiers, 3 vehicles seized in Welikanda archaeological excavation probe. Suspects had fake IDs, military uniforms. Eight others from various locations. Investigation ongoing.
+
+🟩
+
+Welikanda police say that 11 people, including two soldiers, were arrested with three motor vehicles and a cab on suspicion of archaeological excavation or crime in Namalgama area in Welikanda.
+
+The arrested suspects found that a man from Badulla had fake ID cards, military uniforms and brigadier's clothing.. The other two soldiers have been detained at Henrik Fort in Trincomalee, police said.
+
+A series of investigations carried out by the Welikanda police have revealed that the remaining eight suspects were from Yakkala, Paduku, Galewela, Millawa and Tangalle.
+
+They have been arrested following a confidential information provided by the camp officials during a work carried out by Welikanda police and military police from the Polhengoda army camp.
+
+Investigations have revealed that the person who identified as a brigadier was not related to the military.
+
+◼️
+
+[Data](articles/c155c47d.json)
+
+[Extended Data](ext_articles/c155c47d.ext.json)
+
+---
+
+### Rishabh Bond for the first phase of 2025 IPL players
+
+*2024-11-24 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199584) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rishabh Pant auctioned for ₹25+ crore, Shreyas Iyer for ₹26.75 crore. Other notable buys: KL Rahul (₹14 crore), Mohammed Siraj (₹12.25 crore), Mitchell Starc (₹11.75 crore). Lucknow Super Giants acquired Rishabh Bond. Auction continues in Jeddah.
+
+🟩
+
+Indian wicketkeeper Rishabh Bond was bought by Lucknow Super Jeanteus for the first phase of the 18th Indian Premier League chapter to be held in 2025.
+
+Mega auction for 574 players started at 3.30 pm yesterday at Saudi Arabia's Jeddah. The auction was held last night and will continue today.
+
+The owners and management team of 10 teams playing in the IPL cricket match are participating in the auction. The basic auction price of 81 players has been fixed at Rs 2 crore.
+
+12 players were bought by teams at the first phase of the amazing auctions for the wondering players who were held from 3.30 pm to 5.30 pm on Sunday.
+
+Both Indian players Rishabh Pant and Shreyas Iyer were auctioned off for over Rs 25 crore.
+
+The difference between the two of them was 25 lakh rupees.
+
+Next to him, Punjab Kings, who bought Shreyas Iyer at the second highest price of Rs 26 crore 75 lakh rupees, joined Indian left -handed fast bowler Arshdeep Singh and spinner Yuswendra Sahal for Rs 18 crore.
+
+...
+
+[Data](articles/a14fde68.json)
+
+[Extended Data](ext_articles/a14fde68.ext.json)
+
+---
+
+### 22 women for parliament for the first time in history
+
+*2024-11-24 20:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199560) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Historic milestone: 22 women elected to parliament. TNA party fields 44 female candidates nationwide. 1324 females run, 80 win seats, breaking barriers in political representation.
+
+🟩
+
+The Janasheetha Peramuna Party (TNA) has fielded 44 female candidates across the country and this time 1,324 female candidates and 80 women were given the opportunity to be given the opportunity.
+
+◼️
+
+[Data](articles/cae440e6.json)
+
+[Extended Data](ext_articles/cae440e6.ext.json)
+
+---
+
+### One arrested with heroin drugs in Moratuwa
+
+*2024-11-24 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199568) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Man, 30, arrested in Moratuwa with 210g heroin. Police action based on confidential tip. Incident occurred Saturday.
+
+🟩
+
+A man was arrested by police on Saturday (23) with heroin in Koralavella area belonging to the Moratuwa police division.
+
+He was arrested during a roundup of confidential information received by the Moratuwa police station.
+
+The arrested suspect is a 30 -year -old from Koralavella.
+
+From the suspect, 210 grams of heroin has been seized by the police.
+
+◼️
+
+[Data](articles/3bab71d0.json)
+
+[Extended Data](ext_articles/3bab71d0.ext.json)
+
+---
+
+### One arrested with heroin drugs in Peliyagoda
+
+*2024-11-24 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199569) · `ta`
+
+Arrest made in Peliyagoda: 25-year-old caught with 5g of heroin. Police operation based on tip-off.
+
+🟩
+
+A man was arrested by police on Saturday (23) with heroin drugs in Barankoduwatta area belonging to the Peliyagoda police division.
+
+He was arrested during a roundup of confidential information received by the Peliyagoda police station.
+
+The suspect was 25 years old from Colombo 14.
+
+From the suspect, 05 grams of 700 grams of heroin has been seized by the police.
+
+◼️
+
+[Data](articles/a716b2c6.json)
+
+[Extended Data](ext_articles/a716b2c6.ext.json)
+
+---
+
+### One person arrested with foreign cigarettes worth Rs 90 lakh
+
+*2024-11-24 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199572) · `ta`
+
+Arrest made at Katunayake airport for smuggling foreign cigarettes valued at Rs 90 lakh. 39,980 Manchester and 20,000 Platinum cigarettes seized. Individual released on bail, to appear in court on 27th.
+
+🟩
+
+A passenger who was illegally brought to Sri Lanka to Sri Lanka and was taken out of the Katunayake airport was arrested by a group of officials of the Airport Police Narcotics Unit today (24).
+
+He has arrived at the Katunayake airport from Dubai at around 12.10 pm today, police said.
+
+39,980 "Manchester" cigarettes and 20,000 "platinum" cigarettes have been seized by the police.
+
+The arrested person has been released on police bail and is scheduled to be produced before the Negombo Magistrate's Court on the 27th of this month on charges of illegal importing and smuggling foreign production cigarettes.
+
+◼️
+
+[Data](articles/0bcfd4ea.json)
+
+[Extended Data](ext_articles/0bcfd4ea.ext.json)
+
+---
+
+### Heroes memorial in Jaffna
+
+*2024-11-24 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199575) · `ta`
+
+Heroes memorial in Jaffna: Knights organized by Diwakam Memorial Committee at Memorial Divine. Public flame lit, floral salute given. Parents, relatives, traders, public attended. Fourth day of Heroes Week.
+
+🟩
+
+The Knights were organized by the Diwakam Memorial Committee on Sunday morning at the Memorial Divine at the Jaffna Thevagam Wangala Junction.
+
+The fourth day of the week of Heroes Week is today (24)
+
+The public flame was loaded in memory of the heroes at the event and the floral salute was served.
+
+Parents, relatives, Velanai area traders and general public were also present at the event.
+
+◼️
+
+[Data](articles/350caec5.json)
+
+[Extended Data](ext_articles/350caec5.ext.json)
+
+---
+
+### Long -term financial and economic objectives of the state!
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199579) · `ta`
+
+State's long-term financial goals: Efficient governance for vehicle imports and economic reforms. Implementing public and business sector needs through clear planning.
+
+🟩
+
+The government must be responsible and efficient to implement vehicle import policies and other financial reforms properly. Economic changes can be properly transformed by creating and explaining plans to expect the needs of the public and business sector.
+
+◼️
+
+[Data](articles/7e3837b6.json)
+
+[Extended Data](ext_articles/7e3837b6.ext.json)
+
+---
+
+### China towards the North and East and the Tamils ​​towards China
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199577) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"New economic ideas among Northern and Eastern Tamils may attract Chinese influence, potentially leading to increased Chinese control in the region."
+
+🟩
+
+“The new ideas and expectations that focus on the economy that has evolved among the Tamils ​​of the North and East can lead to China's clutches and China can solidify '
+
+◼️
+
+[Data](articles/c481e94a.json)
+
+[Extended Data](ext_articles/c481e94a.ext.json)
+
+---
+
+### Indian Diplomacy
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199581) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+US, UK, and Australia announce joint tech development and defense initiatives. The alliance aims to enhance cybersecurity and counter threats collaboratively. This strategic partnership reflects growing global cooperation in addressing emerging technological challenges and security concerns.
+
+🟩
+
+All three countries, the United States, Britain and Australia, have announced that they will engage in a series of tests in strengthening and developing excessive technology, as well as for attacking and security through their joint skills.
+
+◼️
+
+[Data](articles/e468277e.json)
+
+[Extended Data](ext_articles/e468277e.ext.json)
+
+---
+
+### Poppy Celebration held by President
+
+*2024-11-24 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203690) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake hosted Armed Forces Memorial Day and Poppy Flower Celebrations. The event honors national security achievements from World War I. The President was recognized by the General Secretary of the Sri Lanka Service."
+
+🟩
+
+The Armed Forces Memorial Day Celebrations and Popi Flower Celebrations were held today (24) under the patronage of Senadinayake, President Anura Kumara Dissanayake.
+
+The Sri Lanka Service, External Affairs Union Association organizes this event annually to commemorate and honor the nationalism safety to the country from the first world war.
+
+The President was recognized by the General Secretary of the Sri Lanka Service, Sri Lanka Service, Lieutenant Khambalapitiya.
+
+Deputy Minister of Defense Retirement Major General Aruna Jayasekara and Defense Secretary Retirement of Defense Secretary Timber (
+
+◼️
+
+[Data](articles/08d084cc.json)
+
+[Extended Data](ext_articles/08d084cc.ext.json)
+
+---
+
+### Interpretation
+
+*2024-11-24 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199583) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+November 2024 parliamentary elections crucial for National People's Power. First chance to achieve two-thirds majority under proportional representation system in Sri Lanka. Significant historical event shaping political landscape.
+
+🟩
+
+The November 2024 Parliamentary Elections, which have been the most important 'first "of the historical significance of the National People's Power. The biggest victory of the national people's power stands on the first opportunity to gain a two -thirds majority in a single party or coalition parliament after the introduction of proportional representation electoral system in Sri Lanka ...
+
+◼️
+
+[Data](articles/aa1120a7.json)
+
+[Extended Data](ext_articles/aa1120a7.ext.json)
+
+---
+
+### Current subject is a leading subject - Aharany Amarasuriya
+
+*2024-11-24 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203689) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Dr. Welini Amarasuriya emphasizes integrating professional and advanced education. He advocates for vocational training as a primary choice from school to university level, highlighting its economic importance and need for policy confidence.
+
+🟩
+
+Prime Minister Dr. Welini Amarasuriya says that professional education should be a direct choice for higher education from schooling to higher education.
+
+The Prime Minister was speaking at the official appointment of the new government's Vocational Education Official Government.
+
+"Education is a leading subject. Three parts of the education, advanced education, vocational education to join together.   විශේෂයෙන් වෘත්තීය අධ්‍යාපනය පිළිබඳව අපේ රජය විශේෂ අවධානයක් යොමු කරනවා".
+
+"In our country traditionally viewed professional education as a place to do other things to go, remaining children. That attitude must vary from. Vocational education is especially subject to economy. "From schooling to higher education, you have to be a honorable choice".
+
+"The people have been confident in our policies. Corporate Structural changes to implement these plans is to be done ".
+
+◼️
+
+[Data](articles/c878b3e6.json)
+
+[Extended Data](ext_articles/c878b3e6.ext.json)
+
+---
+
+### Heavy showers above 150 mm expected in Eastern Province
+
+*2024-11-24 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103732/heavy-showers-above-150-mm-expected-in-eastern-province-) · `en`
+
+The Department of Meteorology states that the low pressure area over the southeast Bay of Bengal is likely to intensify into a depression over the southwest Bay of Bengal by November 25.
+
+The system is expected to further develop and move closer to the Eastern coast of the island, the department said in its latest weather forecast for the next 36 hours.
+
+Meanwhile, the Met. Department added that cloudy skies are expected over most parts of the island due to the influence of this system.
+
+Showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district. Showers or thundershowers will occur at several places elsewhere of the island during the evening or night, it added.
+
+...
+
+[Data](articles/7042c15c.json)
+
+[Extended Data](ext_articles/7042c15c.ext.json)
+
+---
+
+### Honor the parents of the heroes at the Sampur Cultural Hall in Trincomalee
+
+*2024-11-24 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199582) · `ta`
+
+Event honors parents of 350 heroes in Trincomalee. Organized by Sampur-Alangulam Hero Day Memorial Committee. Parents received coconut saplings and lunch. Attended by local parliamentarian and public.
+
+🟩
+
+The event was held on Sunday (24) at the Sampur Cultural Hall.. It was organized by the Sampur - Alangulam Hero Day Memorial Committee.
+
+At the beginning of the event, the parents of the heroes were brought to the floral sprinkler ceremony hall and honored. This was followed by a silent tribute to the parents of the heroes.
+
+The parents of 350 heroes from the Trincomalee district were given coconut saplings. Their families were also provided with lunch.
+
+The event was attended by Trincomalee District Parliamentarian Shanmugam Kukadasan, the parents of the heroes and the public.
+
+◼️
+
+[Data](articles/a537eebe.json)
+
+[Extended Data](ext_articles/a537eebe.ext.json)
+
+---
+
+### Crisis in the north of the new Fisheries Minister
+
+*2024-11-24 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199564) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Indian fishermen in northern Sri Lanka use prohibited fishing gear. They enter Vadapula seas, violating national borders. This is India's responsibility, not the central or state government's.
+
+🟩
+
+Indian fishermen in the north of Sri Lanka and Indian waters are important to fishing and using prohibited drag folds. Fishermen coming into the Vadapula seas in violation of the border of the country. These are the responsibility of the Government of India, not the central government and the state government.
+
+◼️
+
+[Data](articles/a4ee870c.json)
+
+[Extended Data](ext_articles/a4ee870c.ext.json)
+
+---
+
+### New government boycotts minorities!
+
+*2024-11-24 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199563) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New government excludes minorities from cabinet, sparking concerns about equality and representation. President vows equal treatment despite controversial appointments. Left-wing critics argue against divisive cabinet composition.
+
+🟩
+
+A cabinet that does not include Muslims has been set up as a challenging issue for nationality and equality. Whatever the president claims to see all the races and territories with equality, it has become a cabinet formed to wedge the left -wing ideas.
+
+◼️
+
+[Data](articles/e72aa485.json)
+
+[Extended Data](ext_articles/e72aa485.ext.json)
+
+---
+
+### Fisheries Faculty in Mannar
+
+*2024-11-24 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199561) · `ta`
+
+A new Fisheries Faculty is set to launch in Mannar under the University of Vavuniya. This comes as a disappointment, as an open university branch already operates in Mannar without a full-fledged faculty establishment.
+
+🟩
+
+Reports have surfaced that a Fisheries Faculty in Mannar District will be launched under the University of Vavuniya. It is a tragic news that although a branch of an open university in Mannar is operating, it has not yet been launched in Mannar district in Mannar district.
+
+◼️
+
+[Data](articles/1fbebaf9.json)
+
+[Extended Data](ext_articles/1fbebaf9.ext.json)
 
 ---

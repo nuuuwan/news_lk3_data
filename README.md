@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 11:42:50**
+As of **2024-11-25 12:01:52**
 
 ## Newspaper Stats
 
-*Scraped **56,729** Articles*
+*Scraped **56,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 589
 islandlk | 3,405
-economynextcom | 3,436
+economynextcom | 3,437
 dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,336
 adaderanalk | 6,858
-tamilmirrorlk | 8,062
+tamilmirrorlk | 8,063
 virakesarilk | 9,244
 adaderanasinhalalk | 9,791
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,791
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,725 (100.0%) of 56,729 articles have been extended.
+56,729 (100.0%) of 56,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### எம்.பிக்களுக்கான செயலமர்வு ஆரம்பம்
+
+*2024-11-25 11:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கான-செயலமர்வு-ஆரம்பம்/175-347723) · `ta`
+
+பத்தாவது பாராளுமன்றத்திற்குத் தெரிவுசெய்யப்பட்ட புதிய உறுப்பினர்களுக்கான திசைமுகப்படுத்தல் செயலமர்வு 2024 நவம்பர் மாதம் 25, 26 மற்றும் 27ஆம் திகதிகளில் மு.ப 9.30 மணி முதல் பி.ப 4.30 மணி வரை பாராளுமன்ற குழு அறை இலக்கம் 01ல் நடத்தப்படவுள்ளது.
+
+புதிய பாராளுமன்றத்தின் ஆரம்பத்தில் சம்பிரதாயபூர்வமாக முன்னெடுக்கப்படும் நடவடிக்கையாக இந்த திசைமுகப்படுத்தல் செயலமர்வு இம்முறையும் ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+இன்று 25 ஆம் திகதி திங்கட்கிழமை மு.ப. 9.30 மணிக்கு ஆரம்பமாகிய இந்த செயலமர்வின் அங்குரார்ப்பண நிகழ்வில் பிரதமர் கௌரவ கலாநிதி ஹரிணி அமரசூரிய, சபாநாயகர் கௌரவ கலாநிதி அசோக ரன்வல, பிரதி சபாநாயகர் கௌரவ வைத்தியகலாநிதி மொஹமட் ரிஸ்வி சாலி, குழுக்களின் பிரதித் தவிசாளர் கௌரவ ஹேமாலி வீரசேகர, சபை முதல்வர் அமைச்சர் கௌரவ பிமல் ரத்நாயக்க, ஆளும் கட்சியின் முதற்கோலாசான் அமைச்சர் கௌரவ வைத்தியகலாநிதி நளிந்த ஜயதிஸ்ஸ, பாராளுமன்ற செயலாளர் நாயகம், பிரதிச் செயலாளர் நாயகம் மற்றும் உதவிச் செயலாளர் நாயகம் உள்ளிட்டவர்கள் கலந்துகொள்ளவுள்ளனர்.
+
+...
+
+[Data](articles/0084f777.json)
+
+---
 
 ### Election Commission gears up for LG polls
 
@@ -51,6 +67,30 @@ A final decision on funding is expected after discussions, with the government a
 ◼️
 
 [Data](articles/ad695819.json)
+
+[Extended Data](ext_articles/ad695819.ext.json)
+
+---
+
+### Sri Lanka should not suppress call rates through OMO if market is so dysfunctional
+
+*2024-11-25 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-suppress-call-rates-through-omo-if-market-is-so-dysfunctional-189613/) · `en`
+
+ECONOMYNEXT – Sri Lanka is just emerging from a default after large volumes of money were printed to target a narrow policy rate, in the pursuit of instant growth (potential output) and denying monetary stability to the people.
+
+From 2015 in particular Sri Lanka very narrowly targeted a policy rate despite being a reserve collecting central bank.
+
+Targeting a mid-corridor rate is the same as printing money to maintain a single policy rate. The label is different but the required inflationism is the same.
+
+The same consequences of targeting a mid-corridor rate in 2015 and especially 2018 when the budget deficit was brought down.
+
+If the call money rate is so dysfunctional as claimed in a recent defence of money printing through OMO, it should obviously not be used as the operating target for monetary policy at all.
+
+Since the end of the war the central bank has cut rates around 18 to 20 months after a currency crisis, just as private credit recovered and triggered a currency crisis.
+
+...
+
+[Data](articles/c2ad2789.json)
 
 ---
 
@@ -158,6 +198,8 @@ Additionally, he added that the program acts as a guarantor to the international
 
 [Data](articles/3eb54ac1.json)
 
+[Extended Data](ext_articles/3eb54ac1.ext.json)
+
 ---
 
 ### Speaker's decision to discuss with Archana
@@ -243,6 +285,8 @@ The inaugural session of the 10th Parliament, consisting of members elected thro
 ◼️
 
 [Data](articles/b64ff26b.json)
+
+[Extended Data](ext_articles/b64ff26b.ext.json)
 
 ---
 
@@ -2305,45 +2349,5 @@ Indian fishermen in the north of Sri Lanka and Indian waters are important to fi
 [Data](articles/a4ee870c.json)
 
 [Extended Data](ext_articles/a4ee870c.ext.json)
-
----
-
-### New government boycotts minorities!
-
-*2024-11-24 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199563) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New government excludes minorities from cabinet, sparking concerns about equality and representation. President vows equal treatment despite controversial appointments. Left-wing critics argue against divisive cabinet composition.
-
-🟩
-
-A cabinet that does not include Muslims has been set up as a challenging issue for nationality and equality. Whatever the president claims to see all the races and territories with equality, it has become a cabinet formed to wedge the left -wing ideas.
-
-◼️
-
-[Data](articles/e72aa485.json)
-
-[Extended Data](ext_articles/e72aa485.ext.json)
-
----
-
-### Fisheries Faculty in Mannar
-
-*2024-11-24 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199561) · `ta`
-
-A new Fisheries Faculty is set to launch in Mannar under the University of Vavuniya. This comes as a disappointment, as an open university branch already operates in Mannar without a full-fledged faculty establishment.
-
-🟩
-
-Reports have surfaced that a Fisheries Faculty in Mannar District will be launched under the University of Vavuniya. It is a tragic news that although a branch of an open university in Mannar is operating, it has not yet been launched in Mannar district in Mannar district.
-
-◼️
-
-[Data](articles/1fbebaf9.json)
-
-[Extended Data](ext_articles/1fbebaf9.ext.json)
 
 ---

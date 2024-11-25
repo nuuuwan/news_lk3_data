@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 21:42:31**
+As of **2024-11-25 22:01:30**
 
 ## Newspaper Stats
 
-*Scraped **56,851** Articles*
+*Scraped **56,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,406
 economynextcom | 3,445
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,352
+adalk | 5,353
 adaderanalk | 6,874
 tamilmirrorlk | 8,089
 virakesarilk | 9,269
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,846 (100.0%) of 56,851 articles have been extended.
+56,847 (100.0%) of 56,852 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -834,6 +834,22 @@ In her address, Prime Minister Dr. Harini Amarasuriya congratulated the newly el
 
 ---
 
+### කුවේටයේ සිටි ලාංකික සිරකරුවන් 32ක් ලංකාවට පිටුවහල් කරයි
+
+*2024-11-25 17:23:16* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-සිටි-ලාංකික-සිරකරුවන්-32ක්-ලංකාවට-පිටුවහල්-කරයි/11-413262) · `si`
+
+කුවේට් රාජ්‍යය සහ ශ්‍රී ලංකාව අතර 2007 වසරේ අත්සන් තබා ඇති සිරකරුවන් හුවමාරු කිරීමේ ගිවිසුම යටතේ , එරට මධ්‍යම බන්ධනාගාරයේ මත්ද්‍රව්‍ය චෝදනාවලට සිර දඩුවම් විදිමින් සිටින ශ්‍රී ලාංකික සිරකරුවන් 104 දෙනෙකු අතරින් 32 දෙනෙකු , ඉතිහාසයේ පළමු වතාවට , කුවේට් රාජ්‍යයේ සිට විශේෂ ගුවන් යානකින් කටුනායක ගුවන් තොටුපොළ වෙත 11/25 දින පස්වරුවේ පැමිණ තිබුණි .
+
+මෙම ශ්‍රී ලාංකිකයන්  කුවේට් රාජ්‍යය තුළ භයානක ඝනයේ මත්ද්‍රව්‍ය පාවිච්චි කිරීම , වෙළෙඳාම් සහ ජාවාරම් කිරීම සහ ප්‍රවාහනය කිරීම යන චෝදනා යටතේ එරට ආරක්ෂක අංශ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන , අධිකරණයට ඉදිරිපත් කර , වැරදිකරුවන් වූ පිරිසකි
+
+මොවුන් අතරින් කොටසක් ශ්‍රී ලංකාවට එවීම සදහා ඉකුත් මාර්තු මාසයේ සිට කුවේට් රාජ්‍යයේ  ශ්‍රී ලංකා තානාපති කාන්දීපන් බාලසුබ්‍රමනියම් මහතා ප්‍රයත්න දරා තිබූණි .
+
+...
+
+[Data](articles/fdef482a.json)
+
+---
+
 ### Recovery as corpses from the Munakare pond
 
 *2024-11-25 17:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முனக்கரே-குளத்தில்-இருந்து-இருவரும்-சடலங்களாக-மீட்பு/175-347753) · `ta`
@@ -894,19 +910,29 @@ Meanwhile, the National Building Research Organization (NBRO) has issued the lan
 
 ---
 
-### විපක්ෂනායක පුටුවේ වාඩි වුණ අර්චුනා ප්‍රසිද්ධියේ සමාව ඉල්ලයි
+### Archuna, sitting in the Opposition Leader, apologizes
 
 *2024-11-25 17:12:09* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂනායක-පුටුවේ-වාඩි-වුණ-අර්චුනා-ප්‍රසිද්ධියේ-සමාව-ඉල්ලයි/11-413261) · `si`
 
-10 වැනි පාර්ලිමේන්තුව සමාරම්භ කිරීම වෙනුවෙන් පැවැති උත්සවයේදී යාපනය දිස්ත්‍රික් ස්වාධීන මන්ත්‍ අර්ඡුනා රාමනාදන් මහතා එම සිද්ධිය සම්බන්ධයෙන් ප්‍රසිද්ධියේ සමාව ඉල්ලීමට කටයුතු කළේය.
+Here's a summary of 200 characters:
 
-පාර්ලිමේන්තුවේ අද පැවැති වැඩසටහනකදී ඔහු මෙම සමාව ඉල්ලීම සිදු කළේය.
 
-" මම වැරදි දෙයක් කළා නම් මම ඒ පිළිබඳව ප්‍රසිද්ධියේ සමාව ඉල්ලනවා. මම ඒ ගැන සමාව ඉල්ලනවා. පුටුවක වාඩිවෙලා කළබලයක් ඇති කරන්න මට අවශ්‍ය වුණේ නෑ. ඒක අතපසුවීමක්. පාර්ලිමේන්තුවේ හැම මන්ත්‍රීවරයෙකුගෙන්ම ජනාධිපතිත් ඇතුළත්ව මම මේ ගැන සමාව ඉල්ලා සිටිනවා."
+
+Opposition Leader Archuna apologizes publicly at a parliamentary event. He acknowledges past mistakes and expresses regret for any unfairness. The apology extends to all members of Parliament and the President.
+
+🟩
+
+The Jaffna District Independent Evidence Independent is openly apologized at the function held in order to make the 10th parliament.
+
+He made this apology at a program in Parliament today.
+
+"If I did something wrong, I publicly apologize about it. I apologize for that. I didn't want to have a fair in a chair. It's a mistake. I apologize for this with all Parliament from a member of the president. "
 
 ◼️
 
 [Data](articles/cebae01c.json)
+
+[Extended Data](ext_articles/cebae01c.ext.json)
 
 ---
 
@@ -2463,27 +2489,5 @@ On November 11, the Fort Magistrate's Court ordered the Criminal Investigation D
 [Data](articles/eb05a21c.json)
 
 [Extended Data](ext_articles/eb05a21c.ext.json)
-
----
-
-### Public urged to avoid disturbances to students during A/L exams
-
-*2024-11-25 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103746/public-urged-to-avoid-disturbances-to-students-during-al-exams) · `en`
-
-The Commissioner General of Examinations, Amith Jayasundara has requested the public to refrain from engaging in activities that may disturb students during the G.C.E. Advanced Level (A/L) examination period.
-
-Speaking to the media today (25), Jayasundara emphasized that the A/L examination commenced at 8.30 a.m. today across 2,312 centers nationwide.
-
-He urged the public to act with consideration rather than solely following regulations.
-
-“We ask you to help resolve any issues students may encounter during this period. Our goal is to ensure the exam runs smoothly for every student and that all necessary facilities are provided. I kindly request everyone’s cooperation in this matter and urge that no actions are taken that could disturb the examination process. We have coordinated with the police to ensure the proper arrangements are in place,” he said.
-
-This year, a total of 333,185 candidates are sitting for the G.C.E. Advanced Level Examination.
-
-...
-
-[Data](articles/72bc183f.json)
-
-[Extended Data](ext_articles/72bc183f.ext.json)
 
 ---

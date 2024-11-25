@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 15:25:52**
+As of **2024-11-25 15:01:01**
 
 ## Newspaper Stats
 
-*Scraped **56,775** Articles*
+*Scraped **56,769** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 436
-colombotelegraphcom | 577
+colombotelegraphcom | 575
 bbccomsinhala | 589
 islandlk | 3,406
 economynextcom | 3,440
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,340
+adalk | 5,339
 adaderanalk | 6,864
-tamilmirrorlk | 8,073
+tamilmirrorlk | 8,070
 virakesarilk | 9,254
 adaderanasinhalalk | 9,799
 
@@ -26,53 +26,11 @@ adaderanasinhalalk | 9,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,766 (100.0%) of 56,775 articles have been extended.
+56,761 (100.0%) of 56,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### இசை நிகழ்ச்சி சர்ச்சை குறித்து விளக்கம்
-
-*2024-11-25 15:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இசை-நிகழ்ச்சி-சர்ச்சை-குறித்து-விளக்கம்/175-347736) · `ta`
-
-ABBA இசை நிகழ்ச்சியில் உயர்மட்ட தேசிய மக்கள் சக்தி உறுப்பினர்கள் பங்கேற்றதை விமர்சிக்கும் சமூக ஊடக அறிக்கைகளுக்கு பதிலளித்த மவுன்ட் லவீனியா ஹோட்டல், நிகழ்வுக்கு அவர்கள் விருந்தினர்களாக அழைக்கப்பட்டதாக தெளிவுபடுத்தியுள்ளது.
-
-பிரதமர் ஹரினி அமரசூரிய, வெளிவிவகார அமைச்சர் விஜித ஹேரத் மற்றும் டில்வின் சில்வா ஆகியோர் இந்த இசை நிகழ்ச்சியில் கலந்துகொள்வதற்காக ஆயிரக்கணக்கான வரி செலுத்துவோரின் பணத்தை செலவிட்டதாக சமூக ஊடகங்களில் வெளியான செய்திகள் சர்ச்சையைக் கிளப்பியுள்ளன.
-
-"சுற்றுலாத்துறை தொடர்பான நிகழ்வாக, கௌரவ பிரதமர் ஹரினி அமரசூரிய மற்றும் வெளிவிவகார அமைச்சர் விஜித ஹேரத் உட்பட பல முக்கியஸ்தர்களுக்கு சுற்றுலாத்துறைக்கு ஆதரவளிப்பதில் அவர்களின் பங்கை அங்கீகரிக்கும் வகையில் நாங்கள் அழைப்பு விடுத்துள்ளோம்." என ஒரு அறிக்கையில், ஹோட்டல் வலியுறுத்தியுள்ளது.
-
-சுற்றுலாவை மேம்படுத்துவதற்கும், உள்ளூர் மற்றும் சர்வதேச பயணிகளுக்கு இலங்கையின் ஈர்ப்பை மேம்படுத்துவதற்கும் அதன் நோக்கத்தின் ஒரு பகுதியாக ABBA ஷோவை நடத்துவதில் பெருமையடைவதாக ஹோட்டல் மேலும் தெரிவித்தது.
-
-◼️
-
-[Data](articles/fbb04d39.json)
-
----
-
-### Archana is demanding personal safety
-
-*2024-11-25 14:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிப்பட்ட-பாதுகாப்பு-கோருகிறார்-அர்ச்சுனா/175-347735) · `ta`
-
-Sri Lanka MP Archana Ramanathan seeks protection after controversial remarks. Threats received due to actions in parliament. Deputy Secretary advises written request to Ministry of Public Security for security arrangements.
-
-🟩
-
-Newly elected Jaffna District Parliamentarian Dr. Archana Ramanathan has sought personal protection following his setback due to his actions during the initial session of the 10th Parliament of Sri Lanka.
-
-During the first session of parliament last week, the Member of Parliament traditionally refused to move on a seat reserved for the opposition leader, while he was reportedly making communal statements.
-
-Parliamentarian Archana Ramanathan, who attended the guidance for the newly elected MPs held at the Parliamentary Complex today, pointed out that he was facing severe threats by the incident.
-
-“I could not walk on the street because of the incident in the parliamentary seat. The media took a 45-50 minute interview. They questioned if I had eaten and I replied yes. Then they questioned whether I was a part of the LTTE and replied that I am not. But they have avoided my answer to the second question and I have been unable to walk on the street. ”
-
-...
-
-[Data](articles/c3f661a6.json)
-
-[Extended Data](ext_articles/c3f661a6.ext.json)
-
----
 
 ### Philippine VP publicly threatens to have the President assassinated
 
@@ -89,8 +47,6 @@ The presidential security force said it was “coordinating with law enforcement
 ...
 
 [Data](articles/006f2fb5.json)
-
-[Extended Data](ext_articles/006f2fb5.ext.json)
 
 ---
 
@@ -120,89 +76,45 @@ Due to this, the traffic police and the youth of the area together removed the t
 
 ---
 
-### Vattuvagal Bridge in floods: Marines, police on security duty!
+### வெள்ளத்தில் மூழ்கிய வட்டுவாகல் பாலம் : கடற்படையினர், பொலிஸார் பாதுகாப்புக் கடமையில்!
 
 *2024-11-25 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199628) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+பாலம் வெளியே தெரியாதபடி, வெள்ளம் சூழ்ந்த நிலையில், அங்கு விபத்து ஏற்படக்கூடும் என்ற காரணத்தால் பாலத்தின் இருமருங்கிலும் பொலிஸார் மற்றும் கடற்படையினர் கடமையில் ஈடுபட்டுள்ளனர்.
 
+முல்லைத்தீவு மாவட்டத்தில் அதிக மழை தொடர்ச்சியாக பெய்துவருகிறது. இதனால் நந்திக்கடல் நீர் மட்டம் அதிகரித்துள்ளதுடன் வட்டுவாகல் பாலத்திலும் நீர்மட்டம் உயர்ந்துள்ளது.
 
+பாலத்தின் பல பகுதிகள் உடைந்து, சேதமடைந்து ஆபத்தான நிலையில் காணப்படுகின்றன. இதனால் இந்த ஆபத்தான சூழ்நிலையை எதிர்கொண்டு பயணிகள் அப்பாலத்தினூடாக செல்லவேண்டிய துர்பாக்கிய நிலையில் உள்ளனர்.
 
-"Vattuvagal Bridge floods: Police & navy on duty. Mullaitivu rains raise sea levels. Parts damaged. RDA identifies banks. Built in 1950s, 440m long. Damaged in 2004 tsunami & 2009 war. Still in use despite damage."
+இதேவேளை, வீதி அபிவிருத்தி அதிகாரசபையினர் பாலத்தின் இரு கரைகளையும் அடையாளப்படுத்தும் நடவடிக்கையில் தற்போது ஈடுபட்டு வருகின்றனர்.
 
-🟩
+1950ஆம் ஆண்டு காலப்பகுதியில் கட்டப்பட்டதாக கூறப்படும் வட்டுவாகல் பாலம் கிட்டதட்ட 440 மீற்றர் நீளம் கொண்டது.
 
-Police and navy personnel are on duty at both the bridge due to the fact that the bridge is unknown and flooded.
-
-Mullaitivu district is continuously raining.This has increased the water level of the Nandi Sea and the water level has risen in the Vadduvagal Bridge.
-
-Many parts of the bridge are broken, damaged and found in a dangerous position. As a result, passengers are in a state of disrepair to face this dangerous situation.
-
-Meanwhile, the Road Development Authority is currently in the process of identifying the two banks of the bridge.
-
-The Vattuvagal Bridge, which is said to have been built in the 1950s, is almost 440 meters long.
-
-The Vattuvagal Bridge has been severely damaged by the 2004 tsunami disaster and the war in 2009.However, the Vadduvagal Bridge has been used by the public to this day.
-
-◼️
+...
 
 [Data](articles/b00702da.json)
 
-[Extended Data](ext_articles/b00702da.ext.json)
-
 ---
 
-### Car accident using Google Map: trio kills
-
-*2024-11-25 14:10:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மெப்பை-பயன்படுத்தி-கார்-விபத்து-மூவர்-பலி/175-347730) · `ta`
-
-Google Maps leads car into flooded river, killing three in Uttar Pradesh. Accident blamed on GPS guidance and lack of warning signs.
-
-🟩
-
-A car accident using the Google Guidance Map has taken place in Uttar Pradesh.
-
-A car was traveling from Bareilly in Uttar Pradesh to Dadaganch in Badown district. Three people, including brothers in the car, were traveling.
-
-While the car was traveling with the help of Google Map, the car that was flooded in the area crashed into a river that was running down 50 feet.
-
-Relatives of the victims said that the accident occurred because of the Google Map.
-
-In addition, department officials have complained that there are no barricades in the area to warn the vehicles of the bridge due to incomplete.
-
-◼️
-
-[Data](articles/ffb00061.json)
-
-[Extended Data](ext_articles/ffb00061.ext.json)
-
----
-
-### India beat India
+### ඉන්දියාවට ලොකු ජයක්
 
 *2024-11-25 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203714) · `si`
 
-India vs Australia: India wins first Test in Perth by 295 runs. India scores 487/6 in second innings, Australia 238 chasing 534. India leads World Test Championship table after victory.
+ඉන්දියාව සහ ඔස්ට්‍රේලියාව අතර පර්ත් හි පැවති පළමු ටෙස්ට් තරගය ලකුණු 295කින් ජය ගැනීමට සංචාරක ඉන්දීය කණ්ඩායම අද (25) සමත් විය.
 
-🟩
+තරගය ජයග්‍රහණය සඳහා ලකුණු 534ක ඉලක්කයක් හඹා ගිය ඔස්ට්‍රේලියා කණ්ඩායම, තරගයේ සිව්වන දිනය වන අද ලකුණු 238කට සියලු දෙනා දැවී ගියේය.
 
-The Sri Lanka Touristdy team won the first Test in Perth by 295 runs among India and Australia
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය පළමු ඉනිමට ලකුණු 150ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස ඔස්ට්‍රේලියානු කණ්ඩායම සිය පළමු ඉනිම සඳහා ලකුණු 104කට දැවී ගියේය.
 
-Chasing a target of 534 runs for the winning, the Australian group, the fourth day of the match, were all out for 238 runs.
+ඉන්දීය කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 487ක් ලබාගත් අතර ඔස්ට්‍රේලියානු කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා ලකුණු 238කට දැවී ගියේය.
 
-The Indian team scored 150 runs in their first innings and the Australian team bowled out 104 runs for the first innings.
+ඒ අනුව තරග 5කින් සමන්විත තරගාවලියේ ඉදිරියට පැමිණීමට ඉන්දීය කණ්ඩායම සමත් විය.
 
-India scored 487 runs for the loss of 6 wickets for the loss of 6 wickets in their second innings.
-
-Accordingly, Indian team has come forward in the five-match tournament.
-
-India to take the first place in the World Test Championship page with this victory.
+මෙම ජයග්‍රහණය සමග ලෝක ටෙස්ට් ශූරතා ලකුණු සටහනේ පළමු ස්ථානය ගැනීමට ඉන්දියාව සමත්විය.
 
 ◼️
 
 [Data](articles/243deb80.json)
-
-[Extended Data](ext_articles/243deb80.ext.json)
 
 ---
 
@@ -775,22 +687,6 @@ In addition, the Commission to Investigate the Bribery or Corruption of Corrupti
 [Data](articles/0084f777.json)
 
 [Extended Data](ext_articles/0084f777.ext.json)
-
----
-
-### රු. මි. 125, 000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් 27  දා
-
-*2024-11-25 11:30:07* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--125--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-27--දා/11-413251) · `si`
-
-රුපියල් මිලියන  එක්ලක්ෂ විසිපන් දහසක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් නොවැම්බර් 27 දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
-
-දින 91 න් කල් පිරෙන රුපියල් මිලියන 45,000  ක  භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 45, 000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 35,000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව කියයි.
-
-වෙන්දේසිය සඳහා ලංසු භාර ගැනීම නොවැම්බර් 27 දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි. මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම නොවැම්බර් 29 දා සිදු කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/9dc0de43.json)
 
 ---
 
@@ -1393,18 +1289,6 @@ In equities, the All Share Price Index opened up 0.12 percent or 15.06 points, a
 [Data](articles/7d3ba187.json)
 
 [Extended Data](ext_articles/7d3ba187.ext.json)
-
----
-
-### ICC Warrants & Netanyahu’s Digitus Impudicus
-
-*2024-11-25 09:39:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/icc-warrants-netanyahus-digitus-impudicus/) · `en`
-
-After Israel’s genocidal rampage in Gaza since 7 October 2023, which killed so far nearly 44,000 “human animals” and “cockroaches” in the words of Benjamin Netanyahu and his former defence minister Yoav Gallant, and wounded around another 105,000 while turning that strip of land into an uninhabitable heap of brick and concrete rabble, Judges of the International Criminal Court have at last issued arrest warrants for these two war criminals and for the Hamas leader Mohammed Deif. Of the three wasn’t the last claimed to have been killed by IDF in an air strike in Gaza in July this year? Does that mean Deif is still alive according to ICC? Israel’s killings and destruction has now extended into Lebanon. According to one report, in both Gaza and Lebanon IDF has killed more than 17, 000 children and in Lebanon alone 400,000 children are displaced from their homes. In these two killing fields IDF has not spared even news reporters and aid workers.
-
-...
-
-[Data](articles/57932d0b.json)
 
 ---
 
@@ -2325,5 +2209,91 @@ Noting that Sri Lanka’s apparel industry, a cornerstone of its export economy,
 [Data](articles/4c89332b.json)
 
 [Extended Data](ext_articles/4c89332b.ext.json)
+
+---
+
+### IIHS launches young entrepreneurs’ hub
+
+*2024-11-25 02:40:00* · [`islandlk`](http://island.lk/iihs-launches-young-entrepreneurs-hub/) · `en`
+
+The International Institute of Health Sciences (IIHS) has officially launched the Young Entrepreneurs Hub. This dynamic platform is designed to empower young change-makers by fostering an environment where innovative ideas can thrive, and meaningful partnerships can be nurtured. With social entrepreneurship, community development, and environmental sustainability at its core, the hub seeks to create a new generation of visionary leaders equipped to tackle the challenges of tomorrow.
+
+...
+
+[Data](articles/0c784244.json)
+
+[Extended Data](ext_articles/0c784244.ext.json)
+
+---
+
+### Agripreneurs’ Forum ready to collaborate with new Govt. for economic revival and food security
+
+*2024-11-25 02:39:13* · [`dailyftlk`](https://www.ft.lk/business/Agripreneurs-Forum-ready-to-collaborate-with-new-Govt-for-economic-revival-and-food-security/34-769648) · `en`
+
+The Sri Lanka Agripreneurs’ Forum (SLAF) last week congratulated the newly elected Government and Parliament, expressing optimism for a transformative era in Sri Lanka’s agricultural and economic landscape.
+
+“SLAF firmly believes that the new Government, with its visionary leadership, has the potential to bring about the comprehensive changes needed to uplift the agriculture sector. This leadership offers a unique opportunity to address systemic challenges while fostering innovation, sustainability, and economic inclusivity, ensuring that all stakeholders benefit from a reinvigorated and modernised framework,” SLAF said in a statement. It also said the following: This juncture presents an extraordinary opportunity to strengthen the national framework for agribusinesses, fostering an inclusive climate that supports innovation, sustainability, and growth in the agriculture sector.
+
+...
+
+[Data](articles/22e947c1.json)
+
+[Extended Data](ext_articles/22e947c1.ext.json)
+
+---
+
+### Give Sri Lankans working in Kuwait before December 31;Foreign Employment Bureau Notification
+
+*2024-11-25 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199591) · `ta`
+
+Sri Lanka: Kuwait workers must get fingerprints by Dec 31. No state/banking services for those without. Fingerprinting available at security offices or via Sahel/Kuwait Meta Mode apps.
+
+🟩
+
+The Ministry of Home Affairs has announced that workers and foreigners working in Kuwait will be given their fingerprint before December 31, the Sri Lankan Foreign Employment Service has announced.
+
+The final date for this is due to ended in September and again till December 31st.. The Foreign Employment Bureau is urging all Sri Lankan workers working in Kuwait to obtain their fingerprints in places announced by the Ministry of Home Affairs.
+
+Accordingly, the time to provide finger identification can be excluded using the Sahel telephone software belonging to the Kuwait country or through the electronic system called Meta Mode. Similarly, the opportunity is given to select an appropriate place to obtain finger identification in the e -mail system. Accordingly, the security director's offices located in Hawali, Parwania, Ahmed, Mubarak al -Kabir and Jahra have been set up.
+
+...
+
+[Data](articles/6b3fdbc0.json)
+
+[Extended Data](ext_articles/6b3fdbc0.ext.json)
+
+---
+
+### Construction industry congratulates new Government
+
+*2024-11-25 02:38:41* · [`dailyftlk`](https://www.ft.lk/business/Construction-industry-congratulates-new-Government/34-769647) · `en`
+
+The Ceylon Institute of Builders (CIOB) has issued a statement on behalf of the construction industry in Sri Lanka, expressing its congratulations to the newly established President, Prime Minister and other Cabinet members, who have won an overwhelming majority in the Parliamentary elections.
+
+In the statement, Ceylon Institute of Builders President Dr. Rohan Karunaratne further stated: The construction industry is one of the largest industries in Sri Lanka. It employs 1 million direct employees and 1.6 million indirect employees. The construction industry has a turnover of nearly 1 trillion rupees and has contributed 9.6% to the GDP in the past. If the Government supports exports from this industry sector, it could earn about 2 billion dollars in foreign exchange.
+
+...
+
+[Data](articles/6414094b.json)
+
+[Extended Data](ext_articles/6414094b.ext.json)
+
+---
+
+### Nawaloka Medicare marks 10th anniversary
+
+*2024-11-25 02:38:00* · [`islandlk`](http://island.lk/nawaloka-medicare-marks-10th-anniversary/) · `en`
+
+Nawaloka Medicare (Pvt.) Ltd. recently celebrated its 10th anniversary at its state-of-the-art, seven-story facility in the heart of Negombo. Since the inauguration of its Centre in 2014, Nawaloka Medicare Negombo has consistently set a benchmark for excellence in healthcare, remaining steadfast in its commitment to providing top-tier medical services and bringing hope to countless individuals across the community.
+
+The facility boasts a wide range of services, including a 75-bed in-patient capacity and a newly expanded wing, which increases hospital space to accommodate fully equipped consultation rooms and a dedicated Maternal and Baby Centre.
+
+Chairman of Nawaloka Medicare (Pvt.) Ltd, Harshith Dharmadasa said, ” Over the past decade, we have successfully conducted 5,000 deliveries and over 20,000 surgeries, delivering exceptional care to thousands of patients. With consultations offered across more than 500 specialties, our hospital remains a trusted healthcare provider.”
+
+...
+
+[Data](articles/5cf0e3c7.json)
+
+[Extended Data](ext_articles/5cf0e3c7.ext.json)
 
 ---

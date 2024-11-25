@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 09:32:18**
+As of **2024-11-25 10:27:22**
 
 ## Newspaper Stats
 
-*Scraped **56,709** Articles*
+*Scraped **56,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 3,405
 economynextcom | 3,433
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,333
+adalk | 5,334
 adaderanalk | 6,853
-tamilmirrorlk | 8,055
+tamilmirrorlk | 8,057
 virakesarilk | 9,244
-adaderanasinhalalk | 9,790
+adaderanasinhalalk | 9,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,705 (100.0%) of 56,709 articles have been extended.
+56,712 (100.0%) of 56,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### Thandi Workshop begins today
+
+*2024-11-25 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203704) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Thandi Workshop starts today for 10th Parliament MPs. Focuses on parliamentary traditions. Similar sessions planned for future parliaments."
+
+🟩
+
+The workshop for MPs of the 10th Parliament commences today (25).
+
+Members of Parliament are to be made aware of the parliamentary traditions.
+
+A similar workshops will be organized for MPs at the end of every parliamentarian.
+
+◼️
+
+[Data](articles/004e6a04.json)
+
+[Extended Data](ext_articles/004e6a04.ext.json)
+
+---
+
+### Father and daughter drowned in Negombo
+
+*2024-11-25 09:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-களப்பில்-தந்தையும்-மகளும்-மூழ்கினர்/175-347712) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Negombo: Father (50) and daughter (20) drown in boat collision. 5 survive out of 7. 2 critically injured, 3 treated and discharged. Police investigation ongoing.
+
+🟩
+
+Two people have been drowned in a collision with a boat collision in the Negombo front pair.
+
+Five of them survived with 7 people drowned.
+
+A 50 -year -old father and a 20 -year -old daughter have been drowned, police said.
+
+Two of the five survivors are being treated at the hospital. The other three have been treated and left the hospital.
+
+◼️
+
+[Data](articles/0110e72e.json)
+
+[Extended Data](ext_articles/0110e72e.ext.json)
+
+---
+
+### Two injured in a circular accident
+
+*2024-11-25 09:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டவளை-விபத்தில்-இருவருக்கு-காயம்/175-347711) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"2 injured in bus crash near Hatton-Vattawala. Accident occurred at 6 AM while bus traveled from Attan to Kandil. Vehicle collision reported."
+
+🟩
+
+Two persons have been admitted to hospital in a bus accident in the Hatton - Vattawala area.
+
+The accident, which took place at 6 am this morning, was traveling from Attan to Kandil. The bus collided.
+
+◼️
+
+[Data](articles/f55c0580.json)
+
+[Extended Data](ext_articles/f55c0580.ext.json)
+
+---
 
 ### Haris pause
 
@@ -65,6 +143,8 @@ Four individuals sustained injuries in the accident, said Ada Derana reporter.
 ◼️
 
 [Data](articles/ed2ac54b.json)
+
+[Extended Data](ext_articles/ed2ac54b.ext.json)
 
 ---
 
@@ -118,6 +198,8 @@ The examination is set to commence at 8:30 a.m.  and the Commissioner General o
 
 [Data](articles/316af91c.json)
 
+[Extended Data](ext_articles/316af91c.ext.json)
+
 ---
 
 ### A horrible bus accident
@@ -164,21 +246,27 @@ Showers or thundershowers may occur over the coastal areas of Western and North-
 
 ---
 
-### බදුල්ල බිබිල මාර්ගයේ රථවාහන ගමනය සිමා කරයි
+### Roads will be launched in Badulla Bibile
 
 *2024-11-25 08:01:37* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-බිබිල-මාර්ගයේ-රථවාහන-ගමනය-සිමා-කරයි/11-413247) · `si`
 
-පස්සර පොලිස් වසමේ පේරාපදණිය - චෙංකලඩි මාර්ගය (බදුල්ල - බිබිල) මාර්ගයේ කිලෝමිටර් 143 හා 144 කණු අතර ප්‍ර දේශයේ මාර්ගයට පස් කඳු කඩා වැටීම හේතුවෙන් එම මාර්ගයේ රථවාහන ගමනය නවතා දමා තිබුණි.
+Badulla-Bibile roads opening soon. Traffic halted due to road collapse between km 143-144. NBRO engineers inspecting. Limited travel window 6:30 AM to 6 PM daily. Weather may alter schedule. Police monitoring situation.
 
-කෙසේ වෙතත් ඊයේ දින ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනයේ හා මාර්ග සංවර්ධන අධිකාරියේ විධායක ඉංජිනේරුවයා විසින් එම ස්ථානය පරික්ෂා කර ඇත.
+🟩
 
-ඒ අනුව අද දින උදෑසන 6 30 සිට සවස 6 00 දක්වා එම මාර්ගයේ රථ වාහන ගමනයට අවස්ථාව ලබාදි තිබේ. කෙසේ වෙතත් ඉන් අනතුරුව සවස 6.00 සිට පසුදින 6.00 දක්වා නැවතත් එම මාර්ගයේ රථවාහන ගමනය නතර කිරීමට නියමිතය.
+The traffic on the road was stopped due to the collapse of the road in the area between 143 and 144 kshed in the Passara Police Division.
 
-පවතින කාලගුණ තත්ත්වය අනුව රථවාහන ධාවනය කරන කාලසීමාවේ වෙනසක් සිදුවිය හැකි බවත් එම ස්ථානයේ ආරක්ෂාව සඳහා පොලීසිය රාජකාරියේ යොදවා ඇති බවත් පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයිත
+However, the executive engineer of the National Building Research Institute and the Road Development Authority (NBRO) has been inspected.
+
+Accordingly, up to 6 00 am today (6:30) and 6 00 psees have been given the opportunity to journey from 6:30 am today. However, the traffic is to be stopped again from 6.00 pm to 6.00 pm.
+
+The police spokesman's office said that the prevailing weather conditions could change the time period of the traffic and the police have been employed in duty to the site.
 
 ◼️
 
 [Data](articles/9f318870.json)
+
+[Extended Data](ext_articles/9f318870.ext.json)
 
 ---
 
@@ -2233,79 +2321,5 @@ The National Building Research Institute said that this risk of landslides has b
 [Data](articles/b6cd96b2.json)
 
 [Extended Data](ext_articles/b6cd96b2.ext.json)
-
----
-
-### Flood rises to 12 water sources
-
-*2024-11-24 18:06:04* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මූලාශ්‍ර-12කට-ලබන-28දා-දක්වා-ගංවතුර-අවදානම්/11-413244) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Flood warnings issued for 12 water sources: Malwathu Oya, Kala Oya, Ganga River, Maunduriya, Madugeya, Handiyan Oya, Harssa Oya. Low-pressure system over Bay of Bengal expected to intensify, affecting North Central and Eastern provinces."
-
-🟩
-
-The Irrigation Department requests the Irrigation Department to focus on 12 floods in 12 water sources due to the future.
-
-The end of the 28th of this month is issued and the people who travel through the people and the people traveling through the floods in the floods, the department states.
-
-The warning has been made for water sources in Malwathu Oya, Kala Oya, Kala Oya, Ganga River, Maunduriya, Madugeya, Handiyan Oya, Harssa Oya.
-
-The Department of Meteorology states that the growing low pressure zone of the Bay of Bengal has grown to the next few days, the Department of Meteorology states that the North Central and Eastern provinces have been increased by the North, North Central and Eastern provinces.
-
-◼️
-
-[Data](articles/e1731432.json)
-
-[Extended Data](ext_articles/e1731432.ext.json)
-
----
-
-### Says US in America
-
-*2024-11-24 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203686) · `si`
-
-US SEC accuses India's Adani Group of bribery. Adani Green's CEO faces charges related to renewable energy projects. Indian officials and international investors demand answers. US orders defendants to appear in New York court within 21 days.
-
-🟩
-
-The United States Securities and Exchange Commission has issued a sum of bribery accusations against India's famous business.
-
-And the Executive Director of Adani Green, "Adni Green ', has also issued the executive director of Adneracy' ADANI GREEN '.
-
-These renewable energy projects have been accepted by the Indian officials and the allegations of international investors and international investors have been demanded.
-
-Accordingly, the United States has ordered them to report to a New York court in the 21 days.
-
-◼️
-
-[Data](articles/d87cbc10.json)
-
-[Extended Data](ext_articles/d87cbc10.ext.json)
-
----
-
-### Will the Port government deal with?
-
-*2024-11-24 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199536) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"JVP's 159 elected MPs shocked by parliament building situation. The party expresses surprise over the current state of the legislative assembly."
-
-🟩
-
-"As for the JVP, 159 of the 159 MPs who were elected from the party are surprised by the parliamentary building."
-
-◼️
-
-[Data](articles/96dcde7c.json)
-
-[Extended Data](ext_articles/96dcde7c.ext.json)
 
 ---

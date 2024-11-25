@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 22:17:12**
+As of **2024-11-25 23:13:25**
 
 ## Newspaper Stats
 
-*Scraped **56,852** Articles*
+*Scraped **56,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,167 @@ islandlk | 3,406
 economynextcom | 3,445
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,353
-adaderanalk | 6,874
+adalk | 5,354
+adaderanalk | 6,876
 tamilmirrorlk | 8,089
-virakesarilk | 9,269
-adaderanasinhalalk | 9,815
+virakesarilk | 9,272
+adaderanasinhalalk | 9,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,851 (100.0%) of 56,852 articles have been extended.
+56,855 (100.0%) of 56,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### චීන දූත පිරිසක් සහ ජනපති අතර හමුවක්
+
+*2024-11-25 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203732) · `si`
+
+චීන කොමියුනිස්ට් පක්ෂයේ මධ්‍යම කාරක සභාවේ ජාත්‍යන්තර දෙපාර්තමේන්තුවේ උප ඇමති  සුන් හයියැන් මහත්මිය ප්‍රමුඛ චින දූත පිරිස අද (25) ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු විය.
+
+පසුගිය ජනාධිපතිවරණයේ දී අනුර කුමාර දිසානායක මහතා ලබා ගත් ජයග්‍රහණය සහ මහ මැතිවරණයේ දි ඔහුගේ පක්ෂය විසින් ලබා ගනු ලැබූ විශිෂ්ට ජයග්‍රහණය පිළිබඳව සිය සුබපැතුම් එක් කළ චීන උප අමාත්‍යවරිය එම ජයග්‍රහණවලින් පසුව ශ්‍රී ලංකාවේ සිදුව තිබෙන පරිවර්තනීය වෙනස්කම් ඇගයීමට ලක් කළාය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ නායකත්වය යටතේ ශ්‍රී ලංකාව සමඟ සමීප සහයෝගීතාවයකින් කටයුතු කිරීමට චිනය සූදානම් බව ද උප අමාත්‍යවරිය ප්‍රමුඛ නියෝජිත පිරිස මෙහිදී ජනාධිපතිවරයා හමුවේ ප්‍රකාශ කළහ.
+
+චීනයේ මෙන්ම ශ්‍රී ලංකාවේ ද සංවර්ධන අපේක්ෂාවන් පිළිබඳ මෙහිදී අවධානය යොමු කෙරුණු අතර අන්‍යෝන්‍ය වශයෙන් වාසිදායක වන දිගුකාලීන සහයෝගීතා වැඩපිළිවෙළක් දෙරට අතර ඇති කර ගැනීමේ වැදගත්කම පිළිබඳව ද සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/fb4b6a97.json)
+
+---
+
+### கனமழையால் தம்பலகாமத்தில் நீரில் மூழ்கிய வயல் நிலங்கள்
+
+*2024-11-25 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199682) · `ta`
+
+சீரற்ற காலநிலையின் காரணமாக தம்பலகாமம் பிரதேச செயலகப் பகுதியில் உள்ள பல ஏக்கர் வயல் நிலங்கள் நீரிழ் மூழ்கி நெற் செய்கை பாதிக்கப்பட்டுள்ளது.
+
+தொடர் கன மழை காரணமாக தம்பலகாமம் கோயிலடி பகுதியை அண்டிய வயல் நிலங்கள் நீரில் மூழ்கியுள்ளது இதனால் நெற் செய்கை முழுமையாக அழிவடைந்துள்ளதாகவும் விவசாயிகள் தெரிவிக்கின்றனர்.
+
+இது தவிர தொடர் அடை மழை காரணமாக தம்பலகாமம் பிரதேச செயலக பகுதியில் தாழ் நிலப் பகுதிகள் வெள்ளத்தில் மூழ்கியுள்ளன குறிப்பாக முள்ளிப்பொத்தானை, மீரா நகர், பாலம் போட்டாறு ஆகிய கிராம சேவகர் பிரிவுகளில் அதிகளவான நீர் தேங்கி நிற்பதனால் மக்களின் அன்றாட வாழ்க்கை பாதிக்கப்பட்டுள்ளது குறித்த பகுதிகளில் நீரை வெளியேற்ற தம்பலகாமம் பிரதேச செயலகம் மற்றும் பிரதேச சபை இணைந்து பெகோ இயந்திரத்தை கொண்டு நடவடிக்கை எடுக்கப்பட்டது.
+
+பாலம்போட்டாறு கிராம சேவகர் பகுதியில் உள்ள பத்தினிபுர மக்கள் சில குடும்பங்கள் அருகாமையில் உள்ள பாடசாலையில் தங்க வைக்கப்பட்டுள்ளனர் இவர்களுக்கான சகல ஏற்பாடுகளையும் பிரதேச செயலகம் மேற்கொண்டுள்ளதுடன் அனர்த்த முகாமைத்துவ மத்திய நிலையம் ஊடாக ஏனைய நடவடிக்கைகளும் மேற்கொள்ளப்பட்டுள்ளன.
+
+...
+
+[Data](articles/6e1c5602.json)
+
+---
+
+### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
+
+*2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and shallow sea areas around the island today (25) as a low pressure area intensifies over South-East Bay of Bengal.
+
+The low pressure area over the southwest Bay of Bengal intensified into a depression over the central-southwest Bay of Bengal by this morning.
+
+The system was located about 530 km southeast of Trincomalee at around 11.30 a.m. today. It is likely to move closer to the East coast of the island and intensify into a deep depression during next 24 hours, the advisory said.
+
+Very heavy showers above 150 mm are likely at some places in Northern province and Trincomalee District while heavy showers above 100 mm are likely at some places in Northern, North-central, Central and Uva provinces and in Batticaloa, Ampara district due to the influence of the aforementioned system.
+
+...
+
+[Data](articles/ea71be76.json)
+
+[Extended Data](ext_articles/ea71be76.ext.json)
+
+---
+
+### வெளிநாட்டு வேலைவாய்ப்பு பணியகத்துக்கு முன்னால் தொடரும் சத்தியாக்கிரகப் போராட்டம்
+
+*2024-11-25 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199662) · `ta`
+
+ஈ 8 விசாவில் தென் கொரியாவுக்கு தொழில் நிமித்தம் செல்வதற்கு எதிர்பார்த்துள்ள சிலர், அதிகாரிகளின் கவனயீனம் காரணமாக கொரியாவில் தொழிலுக்கு செல்ல இருந்த வாய்ப்பு இல்லாமல் போயுள்ளதாக தெரிவித்து, பத்தரமு்லலையில் அமைந்துள்ள இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்துக்கு முன்னால் சத்தியக்கரக போராட்டம் ஒன்றை மேற்கொண்டு வருகின்றனர்.
+
+கடந்த வெள்ளிக்கிழமை போராட்டத்தில் ஈடுபட்டவந்தவர்களில் சிலரை அமைச்சர் விஜித்த ஹேரத் சந்தித்து கலந்துரையாடி இருந்தார். இதன்போது ஈ8 விசாவில் தென்கொரியாவுக்கு தொழிலுக்கு செ்லவதை சட்ட ரீதியாக்குவதற்கு தேவையான நடவடிக்கைகளை விரைவாக மேற்கொள்ள நடவடிக்கை எடுப்பதாக தெரிவித்திருந்தார்.
+
+என்றாலும் தென்கொரியாவுக்கான தொழில் வாய்ப்புக்கள் கிடைக்கப்பெற்றுள்ளதை வெளிநாட்டு வேலைவாய்ப்பு பணியம் அதனை மறைத்து வருவதாகவும் இதனால் அவர்கள் தொழிலுக்கு செல்ல வேண்டிய காலம்  நிறைவடைய இன்னும் சில நாட்களே இருப்பதால், காலத்தை நீடித்து வழங்குமாறு தெரிவித்தும்  இவர்கள் போராட்த்தில் ஈடுபட்டு வருகின்றனர்.
+
+...
+
+[Data](articles/eacefb51.json)
+
+---
+
+### 6 மாவட்டங்களுக்கு விதிக்கப்பட்ட மண்சரிவு எச்சரிக்கை அடுத்த 24 மணித்தியாலங்களுக்கு மேலும் நீடிப்பு
+
+*2024-11-25 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199672) · `ta`
+
+பதுளை, காலி, கேகாலை, மாத்தறை, நுவரெலியா மற்றும் இரத்தினபுரி அந்த  06 மாவட்டங்களுக்கு  விடுக்கப்பட்ட மண்சரிவு அபாய அறிவிப்பு மேலும் 24 மணித்தியாலங்களுக்கு நீடிக்கப்பட்டுள்ளது.
+
+இதேவேளை, வளிமண்டலவியல் திணைக்களம் திங்கட்கிழமை (25) பிற்பகல் விடுத்துள்ள அறிவிப்பில், எதிர்வரும் 36 மணித்தியாலங்களில் வட மாகாணம் மற்றும் திருகோணமலை மாவட்டத்தின் சில இடங்களில் 150 மில்லி மீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/161b81f3.json)
+
+---
+
+### Holidays for all Muslim schools in the Eastern Province on the 26th and 27th
+
+*2024-11-25 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199681) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Holidays: All Muslim schools in Eastern Province closed on 26th & 27th. Classes resume on Saturday."
+
+🟩
+
+All Muslim schools in the Eastern Province have been granted holidays tomorrow and tomorrow and 27th.
+
+The answer is that the school will be held on Saturdays, he added.
+
+◼️
+
+[Data](articles/33ae0e70.json)
+
+[Extended Data](ext_articles/33ae0e70.ext.json)
+
+---
+
+### තවත් ප්‍රදේශ කිහිපයකට නාය යෑම් අනතුරු අඟවයි
+
+*2024-11-25 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203731) · `si`
+
+ප්‍රදේශ කිහිපයක් සඳහා නාය යෑමේ පූර්ව අනතුරු ඇඟවීමක් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+එම සංවිධානය පැවසුවේ මෙම අනතුරු ඇඟවීමේ නිවේදනට අද (25) පස්වරු 9.00 සිට හෙට පස්වරු 9.00 දක්වා ක්‍රියාත්මක බවය.
+
+බදුල්ල දිස්ත්‍රික්කය - හල්දුම්මුල්ල, ⁠ඇල්ල, ⁠පස්සර, ⁠හාලිඇල, ⁠මීගහකිවුල, ⁠බදුල්ල, ⁠ලුණුගල,
+
+මාතලේ දිස්ත්‍රික්කය - අඹන්ගග කෝරළය, ⁠රත්තොට, උකුවෙල, විල්ගමුව,ලග්ගල පල්ලේගම, නාඋල, මාතලේ
+
+◼️
+
+[Data](articles/bfe299a5.json)
+
+---
+
+### President urges grassroots solutions and law enforcement for disaster management
+
+*2024-11-25 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103761/president-urges-grassroots-solutions-and-law-enforcement-for-disaster-management) · `en`
+
+President Anura Kumara Dissanayake has emphasized that simply reinforcing institutional frameworks is insufficient for effective disaster management. The President stressed the need to establish mechanisms to deliver practical solutions at the grassroots level, the President’s Media Division (PMD) stated in a statement.
+
+Speaking at the swearing-in ceremony of Deputy Defence Minister Aruna Jayasekara today (25), President Dissanayake highlighted the importance of empowering local government institutions to prevent disasters in vulnerable areas and develop innovative solutions, the PMD said.
+
+The President noted that the country’s disaster management laws were formulated after considerable study and that it is the responsibility of officials to implement them effectively. He assured his unwavering support for any official who upholds their duties with integrity and called on Government officials to propose enhancements to the legal framework if needed.
+
+...
+
+[Data](articles/d364e202.json)
+
+[Extended Data](ext_articles/d364e202.ext.json)
+
+---
 
 ### Youth missing in Bandaragama
 
@@ -61,30 +207,6 @@ The police were conducting search operations in the policemen.
 [Data](articles/15558661.json)
 
 [Extended Data](ext_articles/15558661.ext.json)
-
----
-
-### Holidays for all Muslim schools in the Eastern Province on the 26th and 27th
-
-*2024-11-25 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199681) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Holidays: All Muslim schools in Eastern Province closed on 26th & 27th. Classes resume on Saturday."
-
-🟩
-
-All Muslim schools in the Eastern Province have been granted holidays tomorrow and tomorrow and 27th.
-
-The answer is that the school will be held on Saturdays, he added.
-
-◼️
-
-[Data](articles/33ae0e70.json)
-
-[Extended Data](ext_articles/33ae0e70.ext.json)
 
 ---
 
@@ -790,6 +912,36 @@ Director Nelson and Producer Tanu participated in a special event at the Galle H
 
 ---
 
+### Siripa is please fined Rs 160000 to 4 Malkadu
+
+*2024-11-25 17:43:53* · [`adalk`](https://www.ada.lk/breaking_news/සිරිපා-කරුණාකර-පැලෑටිවලින්-මල්කැඩූ-4ට-රු-160000ක්-දඩ/11-413263) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Four individuals fined Rs 160,000 for entering a butterfly reserve. Charges filed under Fauna and Flora Ordinance. Magistrate imposed Rs 400,000 per charge, totaling Rs 60,000 for each defendant.
+
+🟩
+
+Ratnapura Additional Magistrate Beyoani Vedrikoo departed to a fine of Rs.
+
+The fine was fined by SD of Pitadenuwa. Hirzasha Lakshan Chandrasekara, KM. Piyumi Maheshika, Kitugala, Kituna, Naragalwala, Naragalla, Naragallawala. Hasitha Nayanjith Dayananda and K.n.n.n.n.Chel were on the four.
+
+Two charges were filed against the four charges under the Fauna and Flora Ordinance. The four charges were made by entering the butterfly nature reserve of the butterfly nature reserve on the 7th of September 7, 2024 and in the role of the butterfly nature reserve.Are filed.
+
+The flowers who were broken from the butterfly nature reserve have been published in the face. The Head Office of the Department of Wildlife Conservation was lodged by the Office of the Samanala nature reserve in the Sri Lanka Natural Reserve.
+
+The defendants were arrested by their facial account accounts. The suspects welcomed the blame in court.
+
+...
+
+[Data](articles/db7aaeda.json)
+
+[Extended Data](ext_articles/db7aaeda.ext.json)
+
+---
+
 ### Criminal Investigation Department is being used by the government for political revenge - Sujeeva Senasinghe
 
 *2024-11-25 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199649) · `ta`
@@ -868,19 +1020,31 @@ In her address, Prime Minister Dr. Harini Amarasuriya congratulated the newly el
 
 ---
 
-### කුවේටයේ සිටි ලාංකික සිරකරුවන් 32ක් ලංකාවට පිටුවහල් කරයි
+### 32 Sri Lankan prisoners in Kuwait deported to Sri Lanka
 
 *2024-11-25 17:23:16* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-සිටි-ලාංකික-සිරකරුවන්-32ක්-ලංකාවට-පිටුවහල්-කරයි/11-413262) · `si`
 
-කුවේට් රාජ්‍යය සහ ශ්‍රී ලංකාව අතර 2007 වසරේ අත්සන් තබා ඇති සිරකරුවන් හුවමාරු කිරීමේ ගිවිසුම යටතේ , එරට මධ්‍යම බන්ධනාගාරයේ මත්ද්‍රව්‍ය චෝදනාවලට සිර දඩුවම් විදිමින් සිටින ශ්‍රී ලාංකික සිරකරුවන් 104 දෙනෙකු අතරින් 32 දෙනෙකු , ඉතිහාසයේ පළමු වතාවට , කුවේට් රාජ්‍යයේ සිට විශේෂ ගුවන් යානකින් කටුනායක ගුවන් තොටුපොළ වෙත 11/25 දින පස්වරුවේ පැමිණ තිබුණි .
+Here's a summary of the text in approximately 200 characters:
 
-මෙම ශ්‍රී ලාංකිකයන්  කුවේට් රාජ්‍යය තුළ භයානක ඝනයේ මත්ද්‍රව්‍ය පාවිච්චි කිරීම , වෙළෙඳාම් සහ ජාවාරම් කිරීම සහ ප්‍රවාහනය කිරීම යන චෝදනා යටතේ එරට ආරක්ෂක අංශ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන , අධිකරණයට ඉදිරිපත් කර , වැරදිකරුවන් වූ පිරිසකි
 
-මොවුන් අතරින් කොටසක් ශ්‍රී ලංකාවට එවීම සදහා ඉකුත් මාර්තු මාසයේ සිට කුවේට් රාජ්‍යයේ  ශ්‍රී ලංකා තානාපති කාන්දීපන් බාලසුබ්‍රමනියම් මහතා ප්‍රයත්න දරා තිබූණි .
+
+32 Sri Lankan prisoners deported from Kuwait to Sri Lanka. Arrested for drug trafficking. Sent back under diplomatic efforts. Arrived at Katunayake airport. Transferred to Welikada Prison.
+
+🟩
+
+32 of Sri Lankan prisoners in the country's central prisoners at the Central Prison of the Kuwait State and Sri Lanka, 32 Sri Lankan prisoners to the Katunayake airport from Kuwait from Kuwait.The next afternoon had come.
+
+These Sri Lankans have been arrested by the security forces of the security forces, traffickers, tracketing and transportation and transportation of the narcotics of the kingdom of the kingdom of the kingdom of the narcotics, marketing and trading and transportation.
+
+Sri Lanka's Ambassador to Kuwait from Kuwait from March to be sent to Sri Lanka.
+
+Later, after the internal relations with the Sri Lankan Ambassador to the King of Kuwait and the Interior Reconciliation of the Sri Lankan Ambassador with the Interior Ambassador to the Sri Lankan Ambassador, the largest cit of these Sri Lankans to send the people to Sri Lanka to the Kuwait Air Force.Had been able to get free.
 
 ...
 
 [Data](articles/fdef482a.json)
+
+[Extended Data](ext_articles/fdef482a.ext.json)
 
 ---
 
@@ -2341,187 +2505,5 @@ Manel Abeysekera of the Foreign Ministry and I, accompanied the Prime Minister. 
 [Data](articles/55947d5e.json)
 
 [Extended Data](ext_articles/55947d5e.ext.json)
-
----
-
-### The Dawn of a New Era
-
-*2024-11-25 13:36:00* · [`islandlk`](http://island.lk/the-dawn-of-a-new-era/) · `en`
-
-About 20 years ago, I used the same title, in a writing dealing with Mahinda Rajapaksa’s triumphant ascent to power, published in an issue of the Sunday Island. In that I expressed my deep apprehensions of a Rajapaksa dispensation. As the years unfolded, the grim realities of years of misrule, with the younger Rajapaksa outdoing the elder brother in criminality, corruption and incompetence, exceeded the worst fears of my imagination. In between, not to be forgotten, there was also the crushingly disappointing “yahapalanya” farce, perpetrated by the Sirisena-Wickremesinghe collaboration.
-
-...
-
-[Data](articles/660f2a21.json)
-
-[Extended Data](ext_articles/660f2a21.ext.json)
-
----
-
-### Controversy as the houses have been left without handing over
-
-*2024-11-25 13:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடுகளை-ஒப்படைக்காமல்-வெளியேறியதால்-சர்ச்சை/175-347728) · `ta`
-
-Sri Lankan controversy: 80 former MPs returned homes, 20 still pending. Officials warn non-returners face water/electricity cutoff. Deadline set for December 3, 2024.
-
-🟩
-
-Since five former MPs have left Sri Lanka, they have failed to hand over their official government resources in the Madiwala Housing constituency for MPs.
-
-As a result, the parliamentary officials responsible for the Housing of Parliament are facing the problems, the Sri Lankan newspaper said.
-
-It is reported that 80 former MPs have handed over their official homes so far and only twenty former MPs have not returned the houses so far.
-
-Parliamentary officials have once again reminded the former MPs who have not yet handed over the houses.
-
-It was reported that seven former MPs had handed over their official residences in the Madiwala housing constituency last Saturday.
-
-It has been announced by parliamentary officials that if the former MPs do not return their homes immediately, they will be cut off drinking water and electricity.
-
-Official residences at the Madiwale Housing Complex will be handed over to new MPs on December 3, 2024.
-
-◼️
-
-[Data](articles/d8e3ce36.json)
-
-[Extended Data](ext_articles/d8e3ce36.ext.json)
-
----
-
-### ADB approves $200mn Sri Lanka loan for battery storage, grid upgrade
-
-*2024-11-25 13:28:00* · [`economynextcom`](https://economynext.com/adb-approves-200mn-sri-lanka-loan-for-battery-storage-grid-upgrade-189761/) · `en`
-
-ECONOMYNEXT – Manila-based Asian Development Bank said it had approved a 200 million dollar loan to upgrade Sri Lanka’s power grid to accommodate more renewable energy and build a battery storage system.
-
-The loans will be contingent on reforms on cost recovery and competitive renewable energy, the ADB said.
-
-“Driving power sector reforms, combined with targeted infrastructure interventions, is essential to facilitate competitive renewable energy development and reduce power generation costs,” ADB Country Director for Sri Lanka Takafumi Kadono said in the statment.
-
-“By expanding and modernizing infrastructure and incorporating digitalization solutions, this project will support the government’s goal of increased integration of renewable energy in the electricity mix, reduce power interruptions, and minimize transmission and distribution losses.
-
-Ceylon Electricity Board will get 150 million dollars and Lanka Electric Company 50 million dollars.
-
-◼️
-
-[Data](articles/d665a9ec.json)
-
-[Extended Data](ext_articles/d665a9ec.ext.json)
-
----
-
-### If you kill me, I have promised to kill the president - the Vice President of the Philippines
-
-*2024-11-25 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199627) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Philippine Vice President Sara Duterte threatens retaliation if killed, citing presidential order. Security Council investigates threat. Political alliance between Sara Duterte and President Marcos strained over drug war policy.
-
-🟩
-
-The Vice President of the Philippines, Sara Dutterte, has said that President Berdinent Marcos has appointed a person to kill him after killing him.
-
-Commenting on the intensification of the conflict between the two major political families of Southeast Asia, the vice -president said that if I kill me, the Philippine president has appointed a murderer to kill his wife and Speaker.
-
-I have spoken to someone, and if I am murdered, the President of the Philippines has asked him to kill his wife and Speaker, this is not fun.
-
-"I have been asked not to stop until they kill them," he said.
-
-The Vice President of the Philippines said that we are dragged to hell by a man who does not know how to act as a president.
-
-Meanwhile, an official said the Security Council would investigate the threat.
-
-The official said that all threats against the president will be investigated, which is a matter of national security.
-
-...
-
-[Data](articles/ca89d275.json)
-
-[Extended Data](ext_articles/ca89d275.ext.json)
-
----
-
-### Unable to provide immediate solution to ‘E-8 visa’ issue – SLBFE chairman
-
-*2024-11-25 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103748/unable-to-provide-immediate-solution-to-e-8-visa-issue-slbfe-chairman) · `en`
-
-A group of individuals holding South Korean E-8 visas is engaged in a continuous protest in front of the Sri Lanka Foreign Employment Bureau (SLFEB) in Battaramulla, demanding solutions to their issues.
-
-The E-8 visa, issued for short-term employment in South Korea’s agricultural sector, is valid for six months. Protesters claimed that their visas are set to expire tomorrow (26) and insisted they would not abandon the agitation until authorities provide a definitive solution.
-
-The Chairman of the Sri Lanka Foreign Employment Bureau (SLFEB) Kosala Wickramasinghe, speaking on Ada Derana’s current affairs programme ‘Big Focus’, acknowledged the issue but stated that an immediate solution could not be provided. He emphasized that illegal visa schemes had contributed to the problem and warned against falling prey to fraudulent groups.
-
-...
-
-[Data](articles/db9ffa9a.json)
-
-[Extended Data](ext_articles/db9ffa9a.ext.json)
-
----
-
-### ADB approves $200 million loan to advance power system expansion in Sri Lanka
-
-*2024-11-25 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103747/adb-approves-200-million-loan-to-advance-power-system-expansion-in-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) has approved a $200 million loan to upgrade Sri Lanka’s power sector infrastructure, enhancing the reliability of transmission and distribution networks and facilitating greater integration of renewable energy.
-
-“Driving power sector reforms, combined with targeted infrastructure interventions, is essential to facilitate competitive renewable energy development and reduce power generation costs,” said ADB Country Director for Sri Lanka Takafumi Kadono. “By expanding and modernizing infrastructure and incorporating digitalization solutions, this project will support the government’s goal of increased integration of renewable energy in the electricity mix, reduce power interruptions, and minimize transmission and distribution losses.”
-
-...
-
-[Data](articles/4aa2fd13.json)
-
-[Extended Data](ext_articles/4aa2fd13.ext.json)
-
----
-
-### Jonathan Alles appointed to Sri Lanka’s Singer board
-
-*2024-11-25 12:45:00* · [`economynextcom`](https://economynext.com/jonathan-alles-appointed-to-sri-lankas-singer-board-189664/) · `en`
-
-ECONOMYNEXT – Antonio Jonathan Alles has been appointed to the board of Singer Plc, the company said in a stock exchange filing.
-
-Alles was appointed as an independent non-executive director, member of the audit committee, related party transaction committee, nominations and governance committee and remuneration committee, effective November 22.
-
-He was previously the managing director and chief executive officer of Hatton National Bank Plc and director and chairman of Sri Lanka Banks Association (SLBA) from 2014 to 2016.
-
-He was also the chairman of the Asian Bank’s Association in 2018.
-
-Alles has been in the banking industry for 37 years and currently serves on the boards of four other companies.
-
-Jonathan Alles: building a future-ready financial services conglomerate on hnb’s 133-year legacy
-
-◼️
-
-[Data](articles/5b50f280.json)
-
-[Extended Data](ext_articles/5b50f280.ext.json)
-
----
-
-### Bail for Sujeeva's luxury vehicle
-
-*2024-11-25 12:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜீவவின்-சொகுசு-வாகனத்திற்கு-பிணை/175-347727) · `ta`
-
-Sujeewa Senasinghe's luxury vehicle case: Bail set at 100 million rupees after court order. Vehicle seized for analysis due to suspicion of illegal importation. Former MP must submit report to government analyst within 48 hours.
-
-🟩
-
-The controversial luxury vehicle of former parliamentarian Sujeewa Senasinghe, who was placed in custody. 100 million has been released on bail.
-
-About around Rs.. It was suspected that the luxury vehicle worth 100 million was illegally organized by former MP Sujeewa Senasinghe.
-
-On November 08, Senasinghe was appointed to submit a report to the government analyst, following suspicions about the status of the vehicle.
-
-On November 11, the Fort Magistrate's Court ordered the Criminal Investigation Division to take the former MP's vehicle in the custody of the State Analyst's Department.
-
-◼️
-
-[Data](articles/eb05a21c.json)
-
-[Extended Data](ext_articles/eb05a21c.ext.json)
 
 ---

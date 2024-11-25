@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 12:29:00**
+As of **2024-11-25 11:42:50**
 
 ## Newspaper Stats
 
-*Scraped **56,744** Articles*
+*Scraped **56,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,182 +13,24 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 589
 islandlk | 3,405
-economynextcom | 3,438
+economynextcom | 3,436
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,337
+adalk | 5,336
 adaderanalk | 6,858
-tamilmirrorlk | 8,066
-virakesarilk | 9,252
+tamilmirrorlk | 8,062
+virakesarilk | 9,244
 adaderanasinhalalk | 9,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,733 (100.0%) of 56,744 articles have been extended.
+56,725 (100.0%) of 56,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### மு.கா.விலிருந்து ஹரீஸ் இடை நிறுத்தம்
-
-*2024-11-25 12:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-விலிருந்து-ஹரீஸ்-இடை-நிறுத்தம்/175-347726) · `ta`
-
-கட்சியின் செயலாளர் நாயகம் நிஸாம் காரியப்பர் இது தொடர்பான கடிதத்தை ஹரீஸுக்கு அனுப்பியுள்ளதுடன், கட்சியை, கட்சித்தலைவரை பொதுவெளியில் விமர்சித்த காரணத்தினால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவித்துள்ளார்.
-
-இந்த செயற்பாடு தொடர்பில் நியாயப்படுத்தும் காரணங்கள் இருப்பின் அதனை விளக்குமாறும் அந்த கடிதத்தில் ஹரீஸிடம் கோரப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/ffba708d.json)
-
----
-
-### EPDPயிலிருந்து திலீபன் வெளியேறினார்
-
-*2024-11-25 12:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPDPயிலிருந்து-திலீபன்-வெளியேறினார்/175-347725) · `ta`
-
-முன்னாள் வன்னிமாவட்ட பாராளுமன்ற உறுப்பினரும்  ஈழமக்கள் ஜனநாயகக் கட்சியின் வவுனியா நிர்வாக செயலாளருமான குலசிங்கம் திலீபன் கட்சியில் இருந்தும் அதன்அனைத்து பொறுப்புக்களில் இருந்தும் வெளியேறுவதாக இன்று அறிவித்துள்ளார்.
-
-ஆரம்பத்தில் தமிழ் தேசிய கூட்டமைப்பில் (தமிழரசுக் கட்சியில்) ஆரம்பித்த எனது அரசியல் பயணம்,
-
-பின்பு, 2013ம் ஆண்டிலிருந்து ஈழ மக்கள் ஜனநாயகக் கட்சி (ஈ.பி.டி.பி) உடன் இணைந்து கட்சியின் வவுனியா மாவட்ட நிர்வாகச் செயலாளராக பொறுப்பேற்று மக்கள் பணியாற்றினேன். மேலும், 2020இல் பாராளுமன்ற உறுப்பினராகவும் தெரிவாகினேன்.
-
-தற்போது நடைபெற்ற 2024 பாராளுமன்ற தேர்தலில் போட்டியிட்டு கணிசமான வாக்குகளே கிடைக்கப் பெற்றன.
-
-இதுவரை காலமும் ஈழமக்கள் ஜனநாயகக் கட்சியில் பயணித்து மக்கள் சேவையாற்றினேன்.  சில விடயங்கள் காரணமாக ஈழமக்கள் ஜனநாயகக் கட்சியில் இருந்து விலகுகிறேன்.  இது தொடர்பான கடிதத்தினை, ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகம் கெளரவ டக்ளஸ் தேவானந்தா அவர்களுக்கு பதிவுத் தபாலில் அனுப்பியுள்ளேன்.
-
-...
-
-[Data](articles/fcb75a14.json)
-
----
-
-### Ceylon Chamber calls for member proposals for Budget 2025
-
-*2024-11-25 12:15:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-calls-for-member-proposals-for-budget-2025-189654/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has invited its members to submit proposals for Sri Lanka’s Budget 2025, to ‘tackle growth barriers and boost investment’.
-
-President Anura Dissanayake has said a budget would be tabled in March 2025.
-
-“The Ceylon Chamber of Commerce invites its Members to contribute their insights for inclusion in our formal submissions on the national Budget,” the trade body said on social media platform X.
-
-Chamber Chairman Duminda Hulangamuwa was appointed Senior Consultant of Economic Affairs and Finance to Dissanayake and sits in on the government’s meetings with International Monetary Fund representatives.
-
-Dissanayake has promised a reduction in taxes for the public when campaigning.
-
-The IMF bailout plan for the island nation has recommended that Sri Lanka must continue to increase tax revenue.
-
-The private sector trade body met the team from the IMF, led by Peter Mullins, In July to discuss Sri Lanka’s tax system. (Colombo/Nov25/2024)
-
-◼️
-
-[Data](articles/69291ee0.json)
-
----
-
-### Appointment of qualified officer for Rukunu
-
-*2024-11-25 12:02:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருகுணுவுக்கு-தகுதிவாய்ந்த-அதிகாரி-நியமனம்/175-347724) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Prime Minister Harini Amarasuriya appoints USK Ratnayake as Ruhunu University VC, continuing university administration under Education Ministry."
-
-🟩
-
-Prime Minister Harini Amarasuriya as Minister of Education, Higher Education and Vocational Education, No. 16 (4) (b) of the University Act, No. 16 (b), has been followed by the Vice Chancellor of the University today to continue the administrative activities of the University of Ruhunu.The USK. Ratnayake has been appointed.
-
-◼️
-
-[Data](articles/0974f74e.json)
-
-[Extended Data](ext_articles/0974f74e.ext.json)
-
----
-
-### தமிழ்த் தேசியவாதக் கோட்டையை சூழ்ந்துகொண்ட 'அநுர அலை'
-
-*2024-11-25 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199603) · `ta`
-
-தேசிய மக்கள் சக்தியின் கடந்த காலத்தைப் பற்றி விமர்சனங்கள் செய்யப்பட்டு, அது தமிழருக்கு விரோதமான கட்சி என்று காட்சிப்படுத்தப்பட்ட போதிலும் கூட, அது தேர்தலில் நன்றாகவே அதன் செயற்பாட்டை வெளிக்காட்டியது. யாழ்ப்பாணத்தில் மிகவும் கூடுதலான வாக்குகளைப் பெற்ற தனியான ஒரு கட்சியாக மேலெழுந்ததன் மூலம் தேசிய மக்கள் சக்தி ஒரு தடுமாற்றத்தை ஏற்படுத்திவிட்டது. தமிழ்த்  தேசியவாத அரசியலின் கோட்டையான யாழ்ப்பாணத்தை அநுர "அலை" சூழ்ந்துகொண்டது. இது எவ்வாறு நடந்தது?
-
-◼️
-
-[Data](articles/5cb86cbf.json)
-
----
-
-### கடும் மழையினால் 15 ஆயிரத்துக்கும் மேற்பட்டோர் பாதிப்பு!
-
-*2024-11-25 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199616) · `ta`
-
-நாட்டில் பல பகுதிகளில் பெய்துவரும் கடும் மழை காரணமாக 15,622 பேர் பாதிக்கப்பட்டுள்ளனர்.
-
-இதனால், பாதிக்கப்பட்ட மக்களை பாதுகாப்பான இடங்களுக்கு அழைத்துச் செல்ல இராணுவம் மற்றும் அனர்த்த முகாமைத்துவ பிரிவுகள் நடவடிக்கை எடுத்துள்ளன.
-
-இதேவேளை, பொலன்னறுவை மாவட்டத்தில் பெய்து வரும் கடும் மழை காரணமாக பல தாழ்வான நிலங்கள் வெள்ளத்தில் மூழ்கியுள்ளதாக தெரியவந்துள்ளது.
-
-அதிக பருவத்தில் பயிரிடப்பட்ட நெற்பயிர்கள் அனைத்தும் வெள்ளத்தில் மூழ்கிய பகுதிகளில் காணப்படுவதாக தெரிவிக்கப்பட்டுள்ளது.
-
-கடும் மழை காரணமாக பொலன்னறுவையில் உள்ள அனைத்து நீர்த்தேக்கங்களின் நீர்மட்டம் உயர்ந்துள்ளதுடன், பராக்கிரம சமுத்திரத்தின் நீர்மட்டம் தற்போது 92,000 ஏக்கர் அடியை தாண்டியுள்ளதாக நீர்ப்பாசன பொறியியலாளர் அஞ்சன குமார தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/173b4e40.json)
-
----
-
-### Initiality for MPs
-
-*2024-11-25 11:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கான-செயலமர்வு-ஆரம்பம்/175-347723) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New MPs orientation Nov 25-27, 9:30pm-4:30pm. Workshop covers roles, privileges, legislative activities, committees, constitution arrangements. Includes bribery investigation commission and Parliament Affairs Division roles. Department leaders explain member contributions.
-
-🟩
-
-The Differential Meeting of the New Members selected for the Tenth Parliament will be held on November 25, 26, 26 and 27 from 9.30 pm to 4.30 pm.
-
-The Diverse Convention Workshop has been organized as a formal step in the beginning of the new Parliament.
-
-Monday 25th Monday. Prime Minister Harini Amarasuriya, Hon. Hon. Jayatissa,The Secretary General of Parliament, the Deputy Secretary General and the Assistant Secretary General will attend.
-
-During this three -day workshop, appropriate measures have been taken to raise awareness about the role of parliamentarians, parliamentary privileges, legislative activities of parliament, parliamentary committee system, parliamentary stances and arrangements of the constitution.
-
-In addition, the Commission to Investigate the Bribery or Corruption of Corruption Act and the role of the Parliamentary Affairs Division of the Parliamentary Affairs Division of the Ministry of Public Safety and the Parliamentary Affairs Ministry.
-
-...
-
-[Data](articles/0084f777.json)
-
-[Extended Data](ext_articles/0084f777.ext.json)
-
----
-
-### முட்டை விலை மீண்டும் உயர்வு!
-
-*2024-11-25 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199609) · `ta`
-
-கடந்த நாட்களில் 35 ரூபாவுக்கு விற்பனை செய்யப்பட்ட முட்டை தற்போது சந்தையில் வெவ்வேறு விலைகளில் விற்பனை செய்யப்படுவதாக தகவல் வெளியாகியுள்ளது.
-
-அதன்படி, சிறிய அளவிலான முட்டை 38 ரூபாய்க்கும், சாதாரண முட்டை 40 ரூபாய்க்கும் விற்பனை செய்யப்படுகிறது.
-
-இதேவேளை, சந்தையில் மலையக மரக்கறிகளின் விலைகள் குறைவடைந்துள்ளதாகவும், தாழ்நில மரக்கறிகளின் விலைகள் அதிகரித்துள்ளதாகவும் வர்த்தகர்கள் மற்றும் நுகர்வோர் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/ba17ce27.json)
-
----
 
 ### Election Commission gears up for LG polls
 
@@ -209,84 +51,6 @@ A final decision on funding is expected after discussions, with the government a
 ◼️
 
 [Data](articles/ad695819.json)
-
-[Extended Data](ext_articles/ad695819.ext.json)
-
----
-
-### வட்டவளை பஸ் விபத்தில் நால்வர் காயம்!
-
-*2024-11-25 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199596) · `ta`
-
-ஹட்டன் - கொழும்பு பிரதான வீதியில் வட்டவளை பகுதியில் இன்று திங்கட்கிழமை (25) காலை  இடம்பெற்ற பஸ் விபத்தில் நான்கு பயணிகள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-ஹட்டனிலிருந்து கண்டி நோக்கி அதிவேகமாக பயணித்த தனியார் பஸ் ஒன்று எதிர்திசையில் இ.போ.ச பஸ் மீது மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/c75a7e1f.json)
-
----
-
-### Sri Lanka can cut floor rate, but targeting ‘dysfunctional’ market will lead to trouble
-
-*2024-11-25 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-suppress-call-rates-through-omo-if-market-is-so-dysfunctional-189613/) · `en`
-
-ECONOMYNEXT – Sri Lanka is just emerging from a default after large volumes of money were printed to target a narrow policy rate, in the pursuit of instant growth (potential output) and denying monetary stability to the people.
-
-From 2015 in particular Sri Lanka very narrowly targeted a policy rate despite being a reserve collecting central bank.
-
-Targeting a mid-corridor rate is the same as printing money to maintain a single policy rate. The label is different but the required inflationism is the same.
-
-The same consequences of targeting a mid-corridor rate in 2015 and especially 2018 when the budget deficit was brought down.
-
-If the call money rate is so dysfunctional as claimed in a recent defence of money printing through OMO, it should obviously not be used as the operating target for monetary policy at all.
-
-Since the end of the war the central bank has cut rates around 18 to 20 months after a currency crisis, just as private credit recovered and triggered a currency crisis.
-
-...
-
-[Data](articles/c2ad2789.json)
-
-[Extended Data](ext_articles/c2ad2789.ext.json)
-
----
-
-### வலம்புரிச் சங்கை ஒரு கோடி ரூபாவுக்கு விற்பனை செய்ய முயன்றவர் கைது !
-
-*2024-11-25 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199606) · `ta`
-
-மாத்தறை, திஹகொட பொலிஸ் பிரிவுக்கு உட்பட்ட அபரெக்க அதிவேக வீதிக்கு அருகில் அரிய வகை வலம்புரி சங்கு ஒன்றை ஒரு கோடி ரூபாவுக்கு விற்பனை செய்ய முயன்ற சந்தேக நபரொருவர் நேற்று ஞாயிற்றுக்கிழமை (24) கைது செய்யப்பட்டுள்ளார்.
-
-மத்திய ஊழல் தடுப்பு பிரிவினருக்குக் கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் ஹங்வெல்ல பிரதேசத்தைச் சேர்ந்த 26 வயதுடையவர் ஆவார்.
-
-◼️
-
-[Data](articles/25123fde.json)
-
----
-
-### இஸ்ரேலை நோக்கி ஹெஸ்புல்லா அமைப்பினர் ரொக்கட் தாக்குதல் - 250 ரொக்கட்கள் ஏவப்பட்டதாக இஸ்ரேல் தெரிவிப்பு
-
-*2024-11-25 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199611) · `ta`
-
-லெபனானிலிருந்து ஹெஸ்புல்லா அமைப்பினர் 250க்கும் மேற்பட்ட ரொக்கட்களை இஸ்ரேலை நோக்கி ஏவியுள்ளனர் என இஸ்ரேலிய பாதுகாப்பு படையினர் தெரிவித்துள்ளனர்.
-
-செப்டம்பரில் இஸ்ரேல் ஹெல்புல்லா அமைப்பினருக்கு இடையிலான மோதல் தீவிரமடைந்த பின்னர் ஹெஸ்புல்லா அமைப்பினர் மேற்கொண்ட கடும் ரொக்கட் தாக்குதல் இதுவென்பது குறிப்பிடத்தக்கது.
-
-ஹெஸ்புல்லா அமைப்பின் ரொக்கட்கள் இஸ்ரேலிய தலைநகரையும்,வடக்கு மத்திய இஸ்ரேலையும் தாக்கியுள்ளன இதன் காரணமாக பலர் காயமடைந்துள்ளனர்.
-
-மத்திய பெய்ரூட்டில் இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 30 பேர் உயிரிழந்த நிலையிலேயே ஹெஸ்புல்லா அமைப்பு இந்த தாக்குதலை மேற்கொண்டுள்ளது.
-
-இஸ்ரேலிற்கும் ஹெஸ்புல்லா அமைப்பிற்கும் இடையிலான போர்நிறுத்தத்திற்கான வாய்ப்புகள் அதிகரித்துள்ளதாக இஸ்ரேலிய ஊடகங்கள் தெரிவித்திருந்த நிலையிலேயே இந்த தாக்குதல் இடம்பெற்றுள்ளது.
-
-இஸ்ரேலிய தலைநகரில் ரொக்கட்களின் சிதறல்கள் விழுந்து வெடித்துள்ளன என தெரிவித்துள்ள இஸ்ரேலிய பொலிஸார் குடியிருப்பு பகுதியை ரொக்கட்கள் தாக்கியதில் வீடொன்று தீப்பிடித்து எரிந்து அழிந்துள்ளது என  குறிப்பிட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/2be1f1e1.json)
 
 ---
 
@@ -394,8 +158,6 @@ Additionally, he added that the program acts as a guarantor to the international
 
 [Data](articles/3eb54ac1.json)
 
-[Extended Data](ext_articles/3eb54ac1.ext.json)
-
 ---
 
 ### Speaker's decision to discuss with Archana
@@ -482,26 +244,6 @@ The inaugural session of the 10th Parliament, consisting of members elected thro
 
 [Data](articles/b64ff26b.json)
 
-[Extended Data](ext_articles/b64ff26b.ext.json)
-
----
-
-### அருச்சுனாவின் சர்ச்சைக்குரிய செயற்பாடுகள் - அடுத்த கட்ட நடவடிக்கை என்ன? சபாநாயகர் பதில்
-
-*2024-11-25 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199605) · `ta`
-
-நாடாளுமன்ற உறுப்பினர் அர்ச்சுனா இராமநாதனின் சமீபத்தைய சர்ச்சைக்குரிய நடவடிக்கைகள் குறித்து அவருடன் பேச்சுவார்த்தைகளை மேற்கொள்ளவுள்ளதாக அசோக ரன்வல தெரிவித்துள்ளார்.
-
-நாடாளுமன்ற உறுப்பினருடன் நான் நேரடியாக பேச்சுவார்த்தைகளை மேற்கொள்ளவுள்ளேன் இந்த பேச்சுவார்த்தையின் பின்னர் எவ்வாறான நடவடிக்கைகளை எடுக்கவேண்டும் என்பதை தீர்மானிப்பேன் என சபாநாயகர் தெரிவித்துள்ளார்.
-
-அர்ச்சுனாவின் தனிப்பட் நோக்கங்கள்எங்களிற்கு தெரியாது,இருப்பினும் அவர் பிரதிநிதித்துவம் செய்யும் மக்களின் அபிலாசைகள் குறித்து சந்தேகமில்லை,என கண்டியில் தெரிவித்துள்ள சபாநாயகர் தற்போதைய அரசியல் சூழலில் இதுபோன்ற செயற்பாடுகளை மக்கள் ஆதரிக்கவில்லை என குறிப்பிட்டுள்ளார்.
-
-வடக்கு மேற்கு கிழக்கு எந்த பகுதியை சேர்ந்தாலும் அவர்கள் ஐக்கியத்தையும் இந்த நாட்டின் அபிவிருத்தியையும் விரும்புகின்றனர் என சபாநாயகர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/9d0bf716.json)
-
 ---
 
 ### Speaker responds to MP Archchuna Ramanathan’s controversial conduct
@@ -523,22 +265,6 @@ He made these remarks while speaking to the media following his visit to Kandy l
 [Data](articles/9dced54a.json)
 
 [Extended Data](ext_articles/9dced54a.ext.json)
-
----
-
-### இலங்கையில் அதானியின் துறைமுக அபிவிருத்தி திட்டத்திற்கு கடன்உதவி - மீள ஆராய்கின்றது அமெரிக்க நிறுவனம்
-
-*2024-11-25 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199602) · `ta`
-
-இலங்கையில் அதானி குழுமத்தின் ஆதரவுடனான துறைமுக அபிவிருத்தி திட்டத்திற்கு 500 மில்லியன் டொலர்களை வழங்க முன்வந்த அமெரிக்க நிறுவனம் கௌதம் அதானி உட்பட அதானி குழுமத்தினருக்கு  எதிரான குற்றச்சாட்டுகளை தொடர்ந்து துறைமுக அபிவிருத்தி திட்டம் குறித்து ஆராய்ந்துவருவதாக தெரிவித்துள்ளது.
-
-அமெரிக்காவின் சர்வதேச அபிவிருத்தி நிதி கூட்டுத்தாபனம் என்ற அமைப்பு இலங்கையில் முன்னெடுக்கப்படவுள்ள துறைமுக அபிவிருத்தி திட்டத்திற்கு கடன்வழங்குவது குறித்து இன்னமும் இறுதிமுடிவை எடுக்கவில்லை என அதிகாரியொருவர்தெரிவித்துள்ளார்.
-
-கடன் வழங்குவதற்கு முன்னர் திட்;டத்தின் அனைத்து அம்சங்களும் எங்களின் கடுமையான தராதரங்களை பின்பற்றப்படுவதை உறுதி செய்வதற்காக நாங்கள் தொடர்ந்தும் ஆராய்ந்துவருகின்றோம்,என தெரிவித்துள்ள அமெரிக்க நிறுவனத்தின் அதிகாரியொருவர் இந்த திட்டத்திற்கான நிதிகடன் தொடர்பில் இறுதி தீர்மானத்தை எடுக்கவி;ல்லை இறுதி உடன்படிக்கையில் கைச்சாத்திடவில்லை என அந்த அதிகாரி தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/b03cfe4d.json)
 
 ---
 
@@ -2299,5 +2025,325 @@ From the suspect, 210 grams of heroin has been seized by the police.
 [Data](articles/3bab71d0.json)
 
 [Extended Data](ext_articles/3bab71d0.ext.json)
+
+---
+
+### One arrested with heroin drugs in Peliyagoda
+
+*2024-11-24 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199569) · `ta`
+
+Arrest made in Peliyagoda: 25-year-old caught with 5g of heroin. Police operation based on tip-off.
+
+🟩
+
+A man was arrested by police on Saturday (23) with heroin drugs in Barankoduwatta area belonging to the Peliyagoda police division.
+
+He was arrested during a roundup of confidential information received by the Peliyagoda police station.
+
+The suspect was 25 years old from Colombo 14.
+
+From the suspect, 05 grams of 700 grams of heroin has been seized by the police.
+
+◼️
+
+[Data](articles/a716b2c6.json)
+
+[Extended Data](ext_articles/a716b2c6.ext.json)
+
+---
+
+### One person arrested with foreign cigarettes worth Rs 90 lakh
+
+*2024-11-24 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199572) · `ta`
+
+Arrest made at Katunayake airport for smuggling foreign cigarettes valued at Rs 90 lakh. 39,980 Manchester and 20,000 Platinum cigarettes seized. Individual released on bail, to appear in court on 27th.
+
+🟩
+
+A passenger who was illegally brought to Sri Lanka to Sri Lanka and was taken out of the Katunayake airport was arrested by a group of officials of the Airport Police Narcotics Unit today (24).
+
+He has arrived at the Katunayake airport from Dubai at around 12.10 pm today, police said.
+
+39,980 "Manchester" cigarettes and 20,000 "platinum" cigarettes have been seized by the police.
+
+The arrested person has been released on police bail and is scheduled to be produced before the Negombo Magistrate's Court on the 27th of this month on charges of illegal importing and smuggling foreign production cigarettes.
+
+◼️
+
+[Data](articles/0bcfd4ea.json)
+
+[Extended Data](ext_articles/0bcfd4ea.ext.json)
+
+---
+
+### Heroes memorial in Jaffna
+
+*2024-11-24 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199575) · `ta`
+
+Heroes memorial in Jaffna: Knights organized by Diwakam Memorial Committee at Memorial Divine. Public flame lit, floral salute given. Parents, relatives, traders, public attended. Fourth day of Heroes Week.
+
+🟩
+
+The Knights were organized by the Diwakam Memorial Committee on Sunday morning at the Memorial Divine at the Jaffna Thevagam Wangala Junction.
+
+The fourth day of the week of Heroes Week is today (24)
+
+The public flame was loaded in memory of the heroes at the event and the floral salute was served.
+
+Parents, relatives, Velanai area traders and general public were also present at the event.
+
+◼️
+
+[Data](articles/350caec5.json)
+
+[Extended Data](ext_articles/350caec5.ext.json)
+
+---
+
+### Long -term financial and economic objectives of the state!
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199579) · `ta`
+
+State's long-term financial goals: Efficient governance for vehicle imports and economic reforms. Implementing public and business sector needs through clear planning.
+
+🟩
+
+The government must be responsible and efficient to implement vehicle import policies and other financial reforms properly. Economic changes can be properly transformed by creating and explaining plans to expect the needs of the public and business sector.
+
+◼️
+
+[Data](articles/7e3837b6.json)
+
+[Extended Data](ext_articles/7e3837b6.ext.json)
+
+---
+
+### China towards the North and East and the Tamils ​​towards China
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199577) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"New economic ideas among Northern and Eastern Tamils may attract Chinese influence, potentially leading to increased Chinese control in the region."
+
+🟩
+
+“The new ideas and expectations that focus on the economy that has evolved among the Tamils ​​of the North and East can lead to China's clutches and China can solidify '
+
+◼️
+
+[Data](articles/c481e94a.json)
+
+[Extended Data](ext_articles/c481e94a.ext.json)
+
+---
+
+### Indian Diplomacy
+
+*2024-11-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199581) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+US, UK, and Australia announce joint tech development and defense initiatives. The alliance aims to enhance cybersecurity and counter threats collaboratively. This strategic partnership reflects growing global cooperation in addressing emerging technological challenges and security concerns.
+
+🟩
+
+All three countries, the United States, Britain and Australia, have announced that they will engage in a series of tests in strengthening and developing excessive technology, as well as for attacking and security through their joint skills.
+
+◼️
+
+[Data](articles/e468277e.json)
+
+[Extended Data](ext_articles/e468277e.ext.json)
+
+---
+
+### Poppy Celebration held by President
+
+*2024-11-24 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203690) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake hosted Armed Forces Memorial Day and Poppy Flower Celebrations. The event honors national security achievements from World War I. The President was recognized by the General Secretary of the Sri Lanka Service."
+
+🟩
+
+The Armed Forces Memorial Day Celebrations and Popi Flower Celebrations were held today (24) under the patronage of Senadinayake, President Anura Kumara Dissanayake.
+
+The Sri Lanka Service, External Affairs Union Association organizes this event annually to commemorate and honor the nationalism safety to the country from the first world war.
+
+The President was recognized by the General Secretary of the Sri Lanka Service, Sri Lanka Service, Lieutenant Khambalapitiya.
+
+Deputy Minister of Defense Retirement Major General Aruna Jayasekara and Defense Secretary Retirement of Defense Secretary Timber (
+
+◼️
+
+[Data](articles/08d084cc.json)
+
+[Extended Data](ext_articles/08d084cc.ext.json)
+
+---
+
+### Interpretation
+
+*2024-11-24 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199583) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+November 2024 parliamentary elections crucial for National People's Power. First chance to achieve two-thirds majority under proportional representation system in Sri Lanka. Significant historical event shaping political landscape.
+
+🟩
+
+The November 2024 Parliamentary Elections, which have been the most important 'first "of the historical significance of the National People's Power. The biggest victory of the national people's power stands on the first opportunity to gain a two -thirds majority in a single party or coalition parliament after the introduction of proportional representation electoral system in Sri Lanka ...
+
+◼️
+
+[Data](articles/aa1120a7.json)
+
+[Extended Data](ext_articles/aa1120a7.ext.json)
+
+---
+
+### Current subject is a leading subject - Aharany Amarasuriya
+
+*2024-11-24 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203689) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Dr. Welini Amarasuriya emphasizes integrating professional and advanced education. He advocates for vocational training as a primary choice from school to university level, highlighting its economic importance and need for policy confidence.
+
+🟩
+
+Prime Minister Dr. Welini Amarasuriya says that professional education should be a direct choice for higher education from schooling to higher education.
+
+The Prime Minister was speaking at the official appointment of the new government's Vocational Education Official Government.
+
+"Education is a leading subject. Three parts of the education, advanced education, vocational education to join together.   විශේෂයෙන් වෘත්තීය අධ්‍යාපනය පිළිබඳව අපේ රජය විශේෂ අවධානයක් යොමු කරනවා".
+
+"In our country traditionally viewed professional education as a place to do other things to go, remaining children. That attitude must vary from. Vocational education is especially subject to economy. "From schooling to higher education, you have to be a honorable choice".
+
+"The people have been confident in our policies. Corporate Structural changes to implement these plans is to be done ".
+
+◼️
+
+[Data](articles/c878b3e6.json)
+
+[Extended Data](ext_articles/c878b3e6.ext.json)
+
+---
+
+### Heavy showers above 150 mm expected in Eastern Province
+
+*2024-11-24 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103732/heavy-showers-above-150-mm-expected-in-eastern-province-) · `en`
+
+The Department of Meteorology states that the low pressure area over the southeast Bay of Bengal is likely to intensify into a depression over the southwest Bay of Bengal by November 25.
+
+The system is expected to further develop and move closer to the Eastern coast of the island, the department said in its latest weather forecast for the next 36 hours.
+
+Meanwhile, the Met. Department added that cloudy skies are expected over most parts of the island due to the influence of this system.
+
+Showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district. Showers or thundershowers will occur at several places elsewhere of the island during the evening or night, it added.
+
+...
+
+[Data](articles/7042c15c.json)
+
+[Extended Data](ext_articles/7042c15c.ext.json)
+
+---
+
+### Honor the parents of the heroes at the Sampur Cultural Hall in Trincomalee
+
+*2024-11-24 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199582) · `ta`
+
+Event honors parents of 350 heroes in Trincomalee. Organized by Sampur-Alangulam Hero Day Memorial Committee. Parents received coconut saplings and lunch. Attended by local parliamentarian and public.
+
+🟩
+
+The event was held on Sunday (24) at the Sampur Cultural Hall.. It was organized by the Sampur - Alangulam Hero Day Memorial Committee.
+
+At the beginning of the event, the parents of the heroes were brought to the floral sprinkler ceremony hall and honored. This was followed by a silent tribute to the parents of the heroes.
+
+The parents of 350 heroes from the Trincomalee district were given coconut saplings. Their families were also provided with lunch.
+
+The event was attended by Trincomalee District Parliamentarian Shanmugam Kukadasan, the parents of the heroes and the public.
+
+◼️
+
+[Data](articles/a537eebe.json)
+
+[Extended Data](ext_articles/a537eebe.ext.json)
+
+---
+
+### Crisis in the north of the new Fisheries Minister
+
+*2024-11-24 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199564) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Indian fishermen in northern Sri Lanka use prohibited fishing gear. They enter Vadapula seas, violating national borders. This is India's responsibility, not the central or state government's.
+
+🟩
+
+Indian fishermen in the north of Sri Lanka and Indian waters are important to fishing and using prohibited drag folds. Fishermen coming into the Vadapula seas in violation of the border of the country. These are the responsibility of the Government of India, not the central government and the state government.
+
+◼️
+
+[Data](articles/a4ee870c.json)
+
+[Extended Data](ext_articles/a4ee870c.ext.json)
+
+---
+
+### New government boycotts minorities!
+
+*2024-11-24 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199563) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New government excludes minorities from cabinet, sparking concerns about equality and representation. President vows equal treatment despite controversial appointments. Left-wing critics argue against divisive cabinet composition.
+
+🟩
+
+A cabinet that does not include Muslims has been set up as a challenging issue for nationality and equality. Whatever the president claims to see all the races and territories with equality, it has become a cabinet formed to wedge the left -wing ideas.
+
+◼️
+
+[Data](articles/e72aa485.json)
+
+[Extended Data](ext_articles/e72aa485.ext.json)
+
+---
+
+### Fisheries Faculty in Mannar
+
+*2024-11-24 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199561) · `ta`
+
+A new Fisheries Faculty is set to launch in Mannar under the University of Vavuniya. This comes as a disappointment, as an open university branch already operates in Mannar without a full-fledged faculty establishment.
+
+🟩
+
+Reports have surfaced that a Fisheries Faculty in Mannar District will be launched under the University of Vavuniya. It is a tragic news that although a branch of an open university in Mannar is operating, it has not yet been launched in Mannar district in Mannar district.
+
+◼️
+
+[Data](articles/1fbebaf9.json)
+
+[Extended Data](ext_articles/1fbebaf9.ext.json)
 
 ---

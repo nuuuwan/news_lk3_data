@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 05:50:46**
+As of **2024-11-25 06:47:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,680 (100.0%) of 56,689 articles have been extended.
+56,683 (100.0%) of 56,689 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,6 +100,8 @@ Presented recently during the awards ceremony at the Sheraton Imperial Hotel in 
 
 [Data](articles/7cf46cb1.json)
 
+[Extended Data](ext_articles/7cf46cb1.ext.json)
+
 ---
 
 ### Sri Lanka reduces government budget deficit by Rs. 643 bn between Jan – Sep 2024
@@ -116,6 +118,8 @@ In October 2024, Purchasing Managers’ Indices indicated expansions in both Man
 
 [Data](articles/8a81b230.json)
 
+[Extended Data](ext_articles/8a81b230.ext.json)
+
 ---
 
 ### Apeksha Hospital launches new website for worldwide donations, with greater transparency
@@ -127,6 +131,8 @@ The National Cancer Institute of Sri Lanka (NCISL) recently launched its all-new
 ...
 
 [Data](articles/71ca110a.json)
+
+[Extended Data](ext_articles/71ca110a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 17:00:02**
+As of **2024-11-25 17:25:48**
 
 ## Newspaper Stats
 
-*Scraped **56,794** Articles*
+*Scraped **56,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 577
 bbccomsinhala | 589
 islandlk | 3,406
-economynextcom | 3,440
+economynextcom | 3,445
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,343
+adalk | 5,345
 adaderanalk | 6,869
-tamilmirrorlk | 8,079
+tamilmirrorlk | 8,080
 virakesarilk | 9,255
 adaderanasinhalalk | 9,803
 
@@ -26,61 +26,219 @@ adaderanasinhalalk | 9,803
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,788 (100.0%) of 56,794 articles have been extended.
+56,795 (100.0%) of 56,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
 
-### புலமைப்பரிசில் பரீட்சை தொடர்பில் இறுதி முடிவு
+### Here is the decision taken at the IPL at the Auction of Viscan in Sri Lanka
+
+*2024-11-25 17:00:18* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාවේ-වියස්කාන්ත්-ගැන-අයි-පී-එල්-ක්‍රීඩක-වෙන්දේසියේදී-ගත්-තීරණය-මෙන්න/9-413260) · `si`
+
+N
+
+🟩
+
+Sri Lanka's 2625 athletes was presented today (25).
+
+◼️
+
+[Data](articles/1962667c.json)
+
+[Extended Data](ext_articles/1962667c.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 291.25/35 to dollar, bonds marginally up
+
+*2024-11-25 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-25-35-to-dollar-bonds-marginally-up-189800/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.25/35 to the US dollar on Monday from 291.00/10 to the US dollar on Friday dealers said, while bond yields were slightly up.
+
+A bond maturing on 15.09.2027 closed at 10.80/85 percent, up from 10.75/85 percent.
+
+A bond maturing on 15.03.2028 closed at 11.10/15 percent, up from 11.05/15 percent.
+
+A bond maturing on 15.09.2029 closed at 11.35/50 percent, up from 11.25/40 percent. (Colombo/Nov25/2024)
+
+◼️
+
+[Data](articles/b84ab4de.json)
+
+[Extended Data](ext_articles/b84ab4de.ext.json)
+
+---
+
+### Electricity tariff correction?Permit for time
+
+*2024-11-25 16:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-கால-அவகாசத்திற்கு-அனுமதி/175-347748) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Public Utilities Commission agrees Ceylon Electricity Board until Dec 2024 propose Electricity Tariff Amendment. Permit for amendment can be issued by Jan 17, 2025.
+
+🟩
+
+The Public Utilities Commission has agreed to give the Ceylon Electricity Board a period of December 2024 to issue proposals for the Electricity Targe Amendment.
+
+The Public Utilities Commission has informed the Ceylon Electricity Board that the permit for the proposed electricity tariff amendment can be issued by January 17, 2025.. Remble
+
+◼️
+
+[Data](articles/dca2e1ff.json)
+
+[Extended Data](ext_articles/dca2e1ff.ext.json)
+
+---
+
+### Final results in the scholarship examination
 
 *2024-11-25 16:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-இறுதி-முடிவு/175-347746) · `ta`
 
-புலமைப்பரிசில் பரீட்சை தொடர்பான அரசாங்கத்தின் நிலைப்பாட்டை எதிர்வரும் டிசம்பர் மாதம் 2ஆம் திகதி உயர் நீதிமன்றத்திற்கு அறிவிக்க தேவையான நடவடிக்கைகளை மேற்கொள்ளவுள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-பரீட்சை வினாத்தாளில் கேள்விகள் கசிந்தமை தொடர்பில் ஆராய்ந்த மூன்று குழுக்களின் பரிந்துரைகளின் அடிப்படையில் அரசாங்கத்தின் நிலைப்பாடு அமையும் என அமைச்சின் மூத்த அதிகாரி ஒருவர் தெரிவித்தார்.
 
-அந்த குழுக்களின் அறிக்கையைக் கருத்தில் கொண்டு, அரசாங்கத்தின் நிலைப்பாட்டை உயர் நீதிமன்றத்திற்கு தெரிவிப்பதற்கு தேவையான நடவடிக்கைகளை சட்டமா அதிபர் மேற்கொள்வார் என அமைச்சு மேலும் தெளிவுபடுத்தியுள்ளது. R
+
+Ministry of Education announces government stance on scholarship exam leak. Decision based on reports from three committees investigating leaked questions. Attorney General to inform High Court on December 2.
+
+🟩
+
+The Ministry of Education has announced that the government's position on the scholarship exam will take necessary steps to announce to the High Court on December 2.
+
+A senior official of the ministry said that the government's position will be based on the recommendations of the three committees who examined the leak questions in the exam question.
+
+Considering the report of those groups, the Ministry has made it clear that the Attorney General will take necessary steps to inform the High Court of the Government's position.. Remble
 
 ◼️
 
 [Data](articles/b3b0b1fa.json)
 
+[Extended Data](ext_articles/b3b0b1fa.ext.json)
+
 ---
 
-### உ/த பரீட்சைக்கு எதிராக மனு
+### Petition against the exam
 
 *2024-11-25 16:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சைக்கு-எதிராக-மனு/175-347745) · `ta`
 
-தற்போது நடைபெற்றுக்கொண்டிருக்கும் கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையை நடத்துவதைத் தடுக்கும் இடைக்கால உத்தரவை பிறப்பிக்கக் கோரி மாணவியொருவர் தாக்கல் செய்த அடிப்படை உரிமை மீறல் மனுவை, டிசெம்பர் 12ஆம் திகதி ஆராய்வதற்கு உயர் நீதிமன்றம் திங்கட்கிழமை (25) தீர்மானித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, முர்து பெர்னாண்டோ மற்றும் பிரியந்த பெர்ணாந்து ஆகியோர் அடங்கிய அமர்வு முன் இந்த மனு பரிசீலிக்கப்பட்டது.
 
-இந்த முறை கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சைக்கு தோற்றவுள்ள மாணவி ஹன்சனி அழககோன் தாக்கல் செய்த மனுவில் பரீட்சைகள் ஆணையாளர் நாயகம், கல்வி அமைச்சர் திருமதி ஹரிணி அமரசூரிய உள்ளிட்டோர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
 
-கல்விப் பொதுத் தராதர உயர்தரப் கல்விக்காலம், தொடர்பிலான  39/2023 சுற்றறிக்கையில் உயர்தரப் படிப்புக் காலம் 107 கல்வி நாட்களை நிறைவு செய்ய வேண்டும் எனத் தெளிவாகக் குறிப்பிடப்பட்டுள்ளதைச் சுட்டிக்காட்டிய மனுதாரரான மாணவி, இந்தக் கல்விக் காலத்துக்கு முன்னதாக உயர்தரப் பரீட்சையை நடத்துவதற்கான ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் அம்மனுவில் குறிப்பிட்டுள்ளார்.
+Supreme Court investigates petition against Education General Level Exam. Student Hansani Alagoon claims GCE O/L circular violates 107 academic days requirement. Chief Justices consider case against Commissioner General of Exams Harini Amarasuriya.
+
+🟩
+
+The Supreme Court on Monday (25) has decided to investigate the fundamental rights violation petition filed by a student demanding an interim order to prevent the ongoing Education General Level Examination.
+
+The petition was considered before a session of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
+
+This time, the Commissioner General of Examinations, Mrs. Harini Amarasuriya, has been referred to as defendants in the petition filed by Hansani Alagoon, a student who will appear for the GCE Advanced Level Examination.
+
+The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 Circular Recognition period, has clearly stated that the 107 academic days should be completed.
 
 ◼️
 
 [Data](articles/2ab90575.json)
 
+[Extended Data](ext_articles/2ab90575.ext.json)
+
 ---
 
-### குவைத்திலிருந்து 32 கைதிகள் நாடு திரும்பினர்
+### Sri Lanka stocks close down on month end selling
+
+*2024-11-25 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-on-month-end-selling-189783/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader ASPI closed down 1.44 percent, or 187.62 points, at 12,866; while the more liquid S&P SL20 Index closed down 1.98 percent, or 76.52 points, at 3,794.
+
+Turnover was 2.1 billion. Most of this came from banking (Rs598mn) and capital goods stocks (Rs499mn).
+
+“Market has been on a continuous stretch, so some profit taking is coming in,” market participants said. “There’s also the month end selling.”
+
+Top negative contributors to the ASPI were John Keells Hotels (down at 19.20), Hatton National Bank (down at 222.50), Sampath Bank (up at 92.00), Commercial Bank (down at 120.00), and Melstacorp (down at 107.50).
+
+“There is buying interest, but investors are waiting for better prices.”
+
+There was net foreign outflow of 142 million rupees. (Colombo/Nov25/2024)
+
+◼️
+
+[Data](articles/d78e7e65.json)
+
+[Extended Data](ext_articles/d78e7e65.ext.json)
+
+---
+
+### 32 inmates from Kuwait returned to the country
 
 *2024-11-25 16:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்திலிருந்து-32-கைதிகள்-நாடு-திரும்பினர்/175-347744) · `ta`
 
-போதைப்பொருள் குற்றச்சாட்டில் குவைட் மத்திய சிறைச்சாலையில். சிறைத்தண்டனை அனுபவித்து வரும் இலங்கை கைதிகள் 104 பேரில் 32 பேர், வரலாற்றில் முதல் தடவையாக குவைத்தில் இருந்து விசேட விமானம் மூலம் கட்டுநாயக்க விமான நிலையத்தை திங்கட்கிழமை (25) மதியம் வந்தடைந்தனர்.“
+Here's a summary of the text in approximately 200 characters:
 
-குவைத் அரசுக்கும் இலங்கைக்கும் இடையில்2007 ஆம் ஆண்டு செய்துகொள்ளப்பட்ட கைதிகள் பரிமாற்ற ஒப்பந்தத்தின் கீழ், அந்நாட்டின் அரசாங்கத்தால் இவர்கள், இலங்கைக்கு அனுப்பிவைக்கப்பட்டனர்.
 
-குவைத் நாட்டில், ஆபத்தான போதைப்பொருள் பாவனை, வர்த்தகம் மற்றும் கடத்தல் போன்ற குற்றங்களில் ஈடுபட்டதாக அந்நாட்டு பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டு நீதிமன்றில் முற்படுத்தப்பட்டு குற்றவாளிகளாகக் காணப்பட்ட இலங்கையர்கள் அடங்கிய ஒரு குழுவே நாட்டுக்கு அனுப்பிவைக்கப்பட்டுள்ளார்.
 
-குவைத் நாட்டிற்கான இலங்கைத் தூதுவர்  காண்டீபன் பாலசுப்ரமணியம், கைதிகள் சிலரை இலங்கைக்கு அனுப்ப கடந்த மார்ச் மாதம் முதல் முயற்சித்து வந்தார்.
+32 Sri Lankan inmates returned to Kuwait Central Prison on drug charges under 2007 Prisoners Transfer Agreement. They arrived at Katunayake airport on a special flight, accompanied by security officials and medical staff. The prisoners were taken to Welikada Prison.
+
+🟩
+
+At the Kuwait Central Prison on drug charges. Of the 104 Sri Lankan prisoners who are serving imprisonment, 32 people arrived at the Katunayake airport on Monday (25) by a special flight from Kuwait for the first time in history. ”
+
+They were sent to Sri Lanka by the government of the country under the 2007 Prisoners Transfer Agreement between Kuwait and Sri Lanka.
+
+In the Kuwait country, a group of Sri Lankans who were arrested and tried in court have been sent to the country for allegedly involved in dangerous drug use, trade and trafficking.
+
+Sri Lankan Ambassador to Kuwait, Kandiban Balasubramaniam, has been trying to send some prisoners to Sri Lanka since March.
+
+Later, they were brought to Kuwait with the close of the Kuwait and the Home Minister, using the close ties of the Sri Lankan ambassador, and they were brought to Kuwait's largest C-17 aircraft.
 
 ...
 
 [Data](articles/0f5d5dd3.json)
+
+[Extended Data](ext_articles/0f5d5dd3.ext.json)
+
+---
+
+### Sri Lanka gets CEB more time for new tariffs, but approval Jan 17: regulator
+
+*2024-11-25 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-ceb-more-time-for-new-tariffs-but-approval-jan-17-regulator-189776/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has been given more time to submit revised tariffs at their request but the earliest possible date that new prices could be approved is by January 17, the regulator has said.
+
+Sri Lanka’s Public Utilities Commission in a letter to the CEB has said the time to submit revised tariffs had been extended till December 06.
+
+Give the legal procedure set out in the Sri Lanka Electricity Act, the earliest possible date tariffs could be approved will be January 17, 2025, the regulator said.
+
+If the revised tariffs are not sent, the regulator could pass any ‘positive balance’ in the bulk supply transaction account to consumers. (Colombo/Nov26/2026)
+
+◼️
+
+[Data](articles/41c7bed0.json)
+
+---
+
+### US agency reviewing Adani Sri Lanka terminal funding: report
+
+*2024-11-25 16:14:00* · [`economynextcom`](https://economynext.com/us-agency-reviewing-adani-sri-lanka-terminal-funding-report-189779/) · `en`
+
+ECONOMYNEXT – US International Development Finance Corporation, a state agency that agreed to finance a port terminal promoted by India’s Adani group is conducting due diligence, a media report said, after bribery charges were filed against the group in America.
+
+“We continue to conduct due diligence to ensure that all aspects of the project meet our rigorous standards before any loan disbursements are made,” Bloomberg Newswires quoted a USIDC official as saying.
+
+“The project has not reached financial close or signed a loan agreement.”
+
+The US DFC said it would provide up to 553 million dollars for the terminal which is a joint venture with Sri Lanka’s John Keells group, in a move seen by some analysts a counter to China’s influence in the island.
+
+RELATED US DFC to lend US$553mn to JKH-Adani Sri Lanka terminal
+
+...
+
+[Data](articles/5e179cbc.json)
 
 ---
 
@@ -251,6 +409,22 @@ Therefore, the farmers are taking steps to prevent the soil.
 ◼️
 
 [Data](articles/a4b393ae.json)
+
+---
+
+### ඉඩමේ නිදන් සෙවූ නිවැසියා ඇතුළු පහක් අල්ලයි
+
+*2024-11-25 15:29:46* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩමේ-නිදන්-සෙවූ-නිවැසියා-ඇතුළු-පහක්-අල්ලයි/11-413254) · `si`
+
+වනාතවිල්ලුව රාල්මඩුව ප්‍රදේශයේ ඉඩමක නිදන් සොයා කැණීම් කල සැකකරුවන් පස් දෙනෙකු වනාතවිල්ලුව පොලිසිය විසින් අද (25දා) අළුයම අත්අඩංගුවට ගත් බව කියයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ රාල් මඩුව ඉඩමේ හිමිකරු හා නිදන් කැණිමට එක්වු වනාතවිල්ලුව, සේරක්කුලිය, ජා ඇල , හා පුත්තලම කරඹ ප්‍රදේශ වල පදිංචි අවුරුදු 19,26,40,56 වයස් සිමා වල පිරිසකි.
+
+වනාතවිල්ලුව පෙලිසියෙ නිළධාරීන්ට ලැබුන තොරතුරක් මත ස්ථානය වටලා මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/5ae66cd2.json)
 
 ---
 
@@ -929,6 +1103,26 @@ Official residences at the Madiwale Housing Complex will be handed over to new M
 [Data](articles/d8e3ce36.json)
 
 [Extended Data](ext_articles/d8e3ce36.ext.json)
+
+---
+
+### ADB approves $200mn Sri Lanka loan for battery storage, grid upgrade
+
+*2024-11-25 13:28:00* · [`economynextcom`](https://economynext.com/adb-approves-200mn-sri-lanka-loan-for-battery-storage-grid-upgrade-189761/) · `en`
+
+ECONOMYNEXT – Manila-based Asian Development Bank said it had approved a 200 million dollar loan to upgrade Sri Lanka’s power grid to accommodate more renewable energy and build a battery storage system.
+
+The loans will be contingent on reforms on cost recovery and competitive renewable energy, the ADB said.
+
+“Driving power sector reforms, combined with targeted infrastructure interventions, is essential to facilitate competitive renewable energy development and reduce power generation costs,” ADB Country Director for Sri Lanka Takafumi Kadono said in the statment.
+
+“By expanding and modernizing infrastructure and incorporating digitalization solutions, this project will support the government’s goal of increased integration of renewable energy in the electricity mix, reduce power interruptions, and minimize transmission and distribution losses.
+
+Ceylon Electricity Board will get 150 million dollars and Lanka Electric Company 50 million dollars.
+
+◼️
+
+[Data](articles/d665a9ec.json)
 
 ---
 
@@ -2241,217 +2435,5 @@ The police spokesman's office said that the prevailing weather conditions could 
 [Data](articles/9f318870.json)
 
 [Extended Data](ext_articles/9f318870.ext.json)
-
----
-
-### Speaker's decision on doctor MP
-
-*2024-11-25 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203702) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Ashoka Ranwala discussed MP Dr. Archuvan Ramanathan's role as an MP.
-
-🟩
-
-Speaker Ashoka Ranwala said that MP Dr. Archuvun Ramanathan about the role of MP Dr. Archtuna.
-
-◼️
-
-[Data](articles/c7fe0510.json)
-
-[Extended Data](ext_articles/c7fe0510.ext.json)
-
----
-
-### The GCE Advanced Level Examination
-
-*2024-11-25 07:42:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தரப்-பரீட்சை-இன்று-ஆரம்பம்/175-347707) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-GCE A/L Exam 2024 starts today at 8:30 AM. Commissioner advises examiners to bring IDs. Held at 2,312 centers till 20th March. 333,185 candidates sitting for the exam.
-
-🟩
-
-The GCE Advanced Level Examination for 2024 will commence today.
-
-As the exams begin at 8.30 am, the Commissioner General of Examinations Amit Jayasundera has advised the examiners to go to the examination stations with a valid ID.
-
-The exam will be held at 2,312 exam centers until the 20th of next month.
-
-333,185 will be lost to the GCE Advanced Level Examination this time. (A)
-
-◼️
-
-[Data](articles/2d9682e8.json)
-
-[Extended Data](ext_articles/2d9682e8.ext.json)
-
----
-
-### Police notice on driving road in Badulla - Bibile on road
-
-*2024-11-25 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203701) · `si`
-
-Badulla-Bibile road closure: Police limit traffic 143km-144km. Open 6:30AM-6:00PM today, 6:00PM-6:00PM tomorrow. Landslide since 1824.11.11. Weather permitting.
-
-🟩
-
-The police have issued a statement to limit vehicle traffic at 143 and 144 kilometers in Badulla - Bibile road.
-
-The road will be opened from 6.30 am to 6.00 pm today (25) to 6 pm and the police will be closed from 6.00 pm tomorrow.
-
-The mountain range has been parked from 1824.11.111 due to the landslide above the road.
-
-The place has been inspected by the Executive Engineer of the National Building Research Institute and the Road Development Authority of the National Building Research Institute and the Road Development Authority.
-
-Speaking further the time when the road is opened in terms of existing weather conditions has further stated that the road can be reported.
-
-◼️
-
-[Data](articles/9e8b0c97.json)
-
-[Extended Data](ext_articles/9e8b0c97.ext.json)
-
----
-
-### To Mahish and Thunny Rajasthan team
-
-*2024-11-25 07:28:38* · [`adalk`](https://www.ada.lk/sports/මහීෂ්-හා-වනිඳු-රාජස්තාන්-කණ්ඩායමට/9-413246) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lanka's 2025 IPL teams: 2 players & Royal Challengers Bangalore. Rajasthan Royals outbid Mumbai Indians for 2 crore.
-
-🟩
-
-The 2025 teams of Sri Lanka, two Sri Lankan players, and the Royal Royals of Wannu Hasaranga were bought at the Indian Premier League.
-
-Faning For Auction for Auction Rs. 2 crore. Although Mumbai Indians were offered to lands, the Rajasthan Royals won the country.
-
-The Rajasthan Royals team was passed at the auction of Rs.He also offers the Mumbai Indians, but the Royal Royals team won the end.
-
-◼️
-
-[Data](articles/05d78d61.json)
-
-[Extended Data](ext_articles/05d78d61.ext.json)
-
----
-
-### A / L examination from today - A request to come before 8 am
-
-*2024-11-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203699) · `si`
-
-GCE A/L exam starts today, runs till Dec 20. Begin at 8:30 AM. Bring valid ID (National ID, passport, or driver's license). Complete candidate certification before arriving at the exam center.
-
-🟩
-
-The GCE Advanced Level Examination begins today (25).
-
-Accordingly, the examination will be held from 22 days from today to December 20.
-
-Meanwhile, the examination will begin at 8.30 am and the Commissioner General of Examinations Amit Jayasundara will inform the first time and to go to the examination centers.
-
-"You should take the examination center a valid identity sheet. The National Identity Card or a valid foreign passport or driver's license will be accepted by the Department of Registration of Persons. Unlike these three types of identity cards, nothing else cannot be used as an identity sheet. But the Department of Registration of Persons issues a temporary sheet is a temporary sheet as a valid identity card. No other document will be accepted. "
-
-The Commissioner General of Examinations also stated that it is necessary to verify the Candidate's Signature Qualified Person's Significantly.
-
-...
-
-[Data](articles/259580b7.json)
-
-[Extended Data](ext_articles/259580b7.ext.json)
-
----
-
-### Strongness that is strong today
-
-*2024-11-25 06:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வலுவடையும்-தாழமுக்கம்/175-347706) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Bay of Bengal lowland strengthening today. Heavy rainfall (150mm) forecasted in Eastern Province. Wind speeds 60-70km/h expected in coastal areas from Mannar to Kankesanthurai."
-
-🟩
-
-The Department of Meteorology has predicted that the lowlands in the southeastern seas of the Bay of Bengal will be strengthened today and moving towards the northern seas of the country.
-
-The Department has predicted heavy rainfall of up to 150 millimeters in some areas of the Eastern Province of the country.
-
-It has been predicted that the seas from Mannar to Kankesanthurai, Thirukkonamalai, Batticaloa and Pottuvil will be blowing at speeds of 60 to 70 km / h.. (A)
-
-◼️
-
-[Data](articles/318f078b.json)
-
-[Extended Data](ext_articles/318f078b.ext.json)
-
----
-
-### Flood hazard warning in Britain
-
-*2024-11-25 06:42:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரித்தானியாவில்-வெள்ள-அபாய-எச்சரிக்கை/50-347705) · `ta`
-
-Bert Storm floods Britain: Homes affected, 400 warnings issued, heavy rain in Scotland/Wales, southeast England, Northern Ireland. Transport disruptions possible due to strong winds.
-
-🟩
-
-Homes and roads have been flooded in various parts of the country as the Bert Storm hit Britain.
-
-In the meantime, the international media reports that 400 places across Britain have been issued a flood warning.
-
-In addition, there is a predicament of heavy rainfall in the western parts of Scotland and Wales, southeastern British and northern Ireland.
-
-The country's Meteorological Department has warned that there is a possibility of disruption to transport services in various areas due to strong winds.(a)
-
-◼️
-
-[Data](articles/41f99ab9.json)
-
-[Extended Data](ext_articles/41f99ab9.ext.json)
-
----
-
-### Heavy rains exceeding 100mm
-
-*2024-11-25 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203697) · `si`
-
-Heavy rains exceed 100mm in Bay of Bengal. System moves eastward, affecting eastern coast. Showers/thundershowers expected in Hambantota, Central, Uva provinces. Heavy rainfall possible in Eastern Province. Strong winds and lightning warned.
-
-🟩
-
-The Dropion in the Bay of Bay of Bay Bay Sea
-
-At about 2.30 this morning, the system was in Batticaloa this morning. About 500 people are located on the southeast.
-
-The system is expected to grow to the eastern coast of the island.
-
-Due to the impact of this system, there may be a cloud with clouds in many parts of the country.
-
-Showers or thundershowers will occur at the Hambantota district and the Central and Uva provinces, the North, North-Central, Central and Uva provinces.
-
-Showers in the evening or night during the evening or night in the rest of the island. Showers or thundershowers will occur at several places in the Western and Wayamba coastal areas.
-
-Heavy rains can be ranked at some of 15 mm in the Eastern Province.
-
-Heavy showers in Hambantota, Central and Uva provinces can also occur at some places in Hambantota and Uva provinces.
-
-Hambantota, North Central and Eastern provinces are located in Hambantota in Hambantota and around the Hambantota district.
-
-...
-
-[Data](articles/1bf3a847.json)
-
-[Extended Data](ext_articles/1bf3a847.ext.json)
 
 ---

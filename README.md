@@ -1,380 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 16:27:32**
+As of **2024-11-25 15:01:01**
 
 ## Newspaper Stats
 
-*Scraped **56,788** Articles*
+*Scraped **56,769** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 436
-colombotelegraphcom | 577
+colombotelegraphcom | 575
 bbccomsinhala | 589
 islandlk | 3,406
 economynextcom | 3,440
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,342
-adaderanalk | 6,867
-tamilmirrorlk | 8,076
-virakesarilk | 9,255
-adaderanasinhalalk | 9,803
+adalk | 5,339
+adaderanalk | 6,864
+tamilmirrorlk | 8,070
+virakesarilk | 9,254
+adaderanasinhalalk | 9,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,782 (100.0%) of 56,788 articles have been extended.
+56,761 (100.0%) of 56,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### Vesakil abuse
-
-*2024-11-25 16:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாகில்-துஷ்பிரயோகம்-நபருக்கு-கடூழிய-சிறை/175-347741) · `ta`
-
-Colombo High Court Judge Nawaratne Marasinghe sentenced a 50-year-old man to 8 years for sexually abusing an 11-year-old girl. The judge found the defendant guilty after a lengthy trial and imposed additional penalties including a fine and compensation for the victim.
-
-🟩
-
-Colombo High Court Judge Nawaratne Marasinghe sentenced a 50 -year -old father to a 8 -year -old father of a 8 -year -old child for allegedly sexually abusing a 11 -year -old girl.
-
-The judge ruled that the 11 -year -old girl who came with his parents to see the Vesak period during the Vesak period, claimed that he had been taken into the tent of the postures and was undoubtedly proved that he had been sexually abused.
-
-One day in May 2015, the Attorney General accused the defendant of sexually abusing an 11 -year -old girl in Colombo.
-
-At the conclusion of a long hearing, the judge decided to prove the accusations against the accused undoubtedly and sentenced the accused to eight years in prison.. He also ordered the fine of 10 thousand rupees. He also ordered the victim to pay a compensation of Rs 2 lakh.
-
-The judge, who was sentenced to 18 months in prison for a further 18 months in prison, ordered the sentences to be exercised separately.
-
-◼️
-
-[Data](articles/5b24e933.json)
-
-[Extended Data](ext_articles/5b24e933.ext.json)
-
----
-
-### මන්ත්‍රී අර්චුනා ගැන කරන්න යනදේ කථානායක කියයි
-
-*2024-11-25 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203718) · `si`
-
-මෙවර පාර්ලිමේන්තුවට තේරී පත්වූ පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය අර්චුනා රාමනාදන් මන්ත්‍රීවරයාගේ ක්‍රියාකලාපය සම්බන්ධයෙන් ඉදිරියේදී ඔහු සමග සහ අනෙක් පාර්ලිමේන්තු මන්ත්‍රීවරු සමග සාකච්ඡා කරන බව කථානායක අශෝක රංවල මහතා පවසයි.
-
-මාධ්‍යවේදීයා - අර්චුනා කියන මන්ත්‍රීවරයාගෙන් අශෝභන සිද්ධියක් වෙනවා පාර්ලිමේන්තුවේ ?
-
-කථානායක ආචාර්ය අශෝක රංවල - "ඒ ක්‍රියාමාර්ගය වෙනකොට කථානායකවරයෙක් පත්කිරීමවත් නිමවෙලා නැහැ. ඒක නිසා එම කටයුතු සිදුවුණේ නිල භාවයකින් නෙමෙයි. ඒ ගැන අදහස් ප්‍රකාශ කරන්න නෛතිකව අපිට හැකියාවක් නැහැ. ඉදිරියේදී  ඒ මන්ත්‍රීවරයා සමග සහ අනෙක් මන්ත්‍රීවරුන් සමග මේ සම්බන්ධයෙන් සාකච්ඡා කරලා එහෙම විනය විරෝධී හෝ සදාචාර විරෝධී දෙයක් වෙලා තියෙනවා නම් අපි ඒ සම්බන්ධයෙන් සැලකිලිමත් වෙනවා."
-
-මාධ්‍යවේදීයා - දෙමළ ඊළාම් රාජ්‍යයේ  සිට කියලා ඔහු ඔහුගේ ප්‍රචාරය ආරම්භ කරන්නේ ?
-
-...
-
-[Data](articles/3a193c55.json)
-
----
-
-### “Don't go to the sea industry”
-
-*2024-11-25 15:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-தொழிலுக்குச்-செல்ல-வேண்டாம்/175-347739) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Don't go to sea: Mannar District faces flooding. Fishermen warned. 43 villages affected. 1248 displaced. Relief efforts underway."
-
-🟩
-
-Mannar District Government Agent K. Kanakeswaran has advised the fishermen not to go to the sea from the Mannar district and not to re -notice.
-
-The Mannar district is currently in a state of affairs due to low low -lying, and the officials of all departments in the district have been summoned on Monday (25) and how to face the low -lying situation.
-
-Most of the people in the Mannar and Nanatan Divisional Secretariat have been affected by heavy rains in the Mannar district.
-
-43 villages have been affected by the floods in the Mannar Divisional Secretariat Division.
-
-In the Nanattan Divisional Secretariat Division, 3 Grama Niladhari Divisions and 56 persons from 16 families have been affected.
-
-So far, 14 temporary stations have been set up in Mannar district and 1248 persons from 367 families have been housed. Steps have been taken to provide food.
-
-More than 16 JCP machines have been used in the Mannar and Nanatan Divisional Secretariat Divisions.
-
-...
-
-[Data](articles/08fda563.json)
-
-[Extended Data](ext_articles/08fda563.ext.json)
-
----
-
-### Ramayankulam is a risk of breaking
-
-*2024-11-25 15:47:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமயன்குளம்-உடைப்பெடுக்கும்-அபாயம்/175-347738) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ramayankulam pond (100+ acres) in Vavuniya faces risk due to heavy rainfall. Farmers are taking preventive measures as per Department of Communication Services instructions.
-
-🟩
-
-Farmers are taking steps to prevent the Ramayankulam pond in Chettikulam area in Vavuniya, according to the instructions of the Department of Communication Services.
-
-Ramayankulam with more than 100 acres of land is at risk of breaking due to heavy rainfall.
-
-Therefore, the farmers are taking steps to prevent the soil.
-
-◼️
-
-[Data](articles/6a890207.json)
-
-[Extended Data](ext_articles/6a890207.ext.json)
-
----
-
-### බාල වයස්කාර දරුවෙකු අපයෝජනය කළ අයෙකුට වසර 8ක සිර දඬුවම්
-
-*2024-11-25 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203717) · `si`
-
-බාල වයස්කාර දරුවෙකුට බරපතළ ලිංගික අපයෝජනයක් සිදු කිරීමේ චෝදනාවට වරදකරු කෙරුණු 50 හැවිරිදි එක් දරු පියෙකුට කොළඹ මහාධිකරණය බරපතළ වැඩ සහිතව වසර 08 ක සිර දඬුවම් නියම කළේය.
-
-ඊට අමතරව රුපියල් 10000/- ක දඩයක් ගෙවන ලෙසත් විත්තිකරුට නියෝග කළ විනිසුරුවරයා වින්දිත දරුවාට රුපියල් ලක්ෂ දෙකක  වන්දියක් ගෙවන ලෙසත් අද (25) නියෝග කළේය.
-
-සිය මව සහ සහෝදරිය සමඟ වෙසක් කලාපයට පැමිණ සිටි මෙම 11 හැවිරිදි දරුවාව වෙසක් කූඩුවක් සාදා දෙන බව පවසා සූක්ෂම ලෙස රවටා කුටියක් තුළට රැගෙන ගොස් විත්තිකරු විසින් මෙම අපරාධය සිදුකර ඇති බව නඩු විභාගයේ දී අනාවරණය විය.
-
-නඩු විභාගයේදී අධිකරණය හමුවේ පෙනී සිටි  වින්දිත දරුවාගෙන් විනිසුරුවරයා කළ ප්‍රශ්න කිරීමකදී ඔහු සඳහන් කර සිටියේ මෙම අපරාධය හේතුවෙන් තමන්ට දීර්ඝ කාලයක් පාසල් යාමට පවා නොහැකිවූ බවය.
-
-විනිසුරුවරයා එහිදී තීන්දුව ප්‍රකාශයට පත් කරමින් පැවසුවේ මෙම වරද සිදු කරන අවස්ථාවේදී විත්තිකරු එක්දරු පියකු වශයෙන් පසුවූ බවත් එවැනි තත්ත්වයක් යටතේ ඔහු විසින් සිදුකළ වරද සුළුවෙන් තැකිය නොහැකි බවය.
-
-ඒ අනුව දඬුවම් නියම කිරීමේදී එම කරුණු සැලකිල්ලට ගත යුතුව තිබෙන බවත් විනිසුරුවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/56c197d2.json)
-
----
-
-### Interpretation
-
-*2024-11-25 15:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இசை-நிகழ்ச்சி-சர்ச்சை-குறித்து-விளக்கம்/175-347736) · `ta`
-
-Mount Lavinia Hotel clarifies top officials' ABBA concert attendance, stating they were invited guests to support tourism industry.
-
-🟩
-
-Responding to social media reports criticizing the participation of top national People's Power members at the ABBA concert, Mount Lavinia Hotel has made it clear that they were invited to the event.
-
-Reports on social media have stirred controversy that Prime Minister Harini Amarasuriya, External Affairs Minister Vijitha Herath and Dilvin Silva had spent thousands of taxpayers money to attend the concert.
-
-"We have called on the role of tourism to support the tourism industry, including Harini Prime Minister Harini Amarasuriya and External Affairs Minister Vijitha Herath."In a statement, the hotel has insisted.
-
-The Hotel further stated that it is proud to have the ABBA Show as part of its purpose to improve tourism and improve Sri Lanka's attraction to local and international travelers.
-
-◼️
-
-[Data](articles/fbb04d39.json)
-
-[Extended Data](ext_articles/fbb04d39.ext.json)
-
----
-
-### Indian team won the leadership
-
-*2024-11-25 15:04:19* · [`adalk`](https://www.ada.lk/sports/නායකත්වයේ-වගකීම-ගත්-බුම්රා-ඉන්දීය-කණ්ඩායම-දිනවයි/9-413253) · `si`
-
-India wins cricket match against Australia by 295 runs. India scored 150 runs and then 487 runs, while Australia scored 534 runs.
-
-🟩
-
-Tourist India beat Australia by 295 runs
-
-Batting first, India scored 150 runs for the loss of all incense.
-
-The Indian team then decided to suspend 487 runs for the loss of 6 wickets while he was 487 runs.
-
-Accordingly, the Australian group scored a 534 runs in a large number of 238 runs.
-
-◼️
-
-[Data](articles/70c394a9.json)
-
-[Extended Data](ext_articles/70c394a9.ext.json)
-
----
-
-### SJB ready to join UNP?
-
-*2024-11-25 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103753/sjb-ready-to-join-unp-) · `en`
-
-Gampaha District Samagi Jana Balawegaya (SJB) MP Harshana Rajakaruna says that the SJB is ready to join together with the United National Party (UNP), if former President Ranil Wickremesinghe will allow Sajith Premadasa to take over the leadership.
-
-Addressing a media briefing held in Colombo, MP Rajakaruna expressed: “Mr. Ranil Wickremesinghe is not in the country right now. We expect to hold discussions when he is back in the country.”
-
-Furthermore, the Gampaha District MP called on all right-wing political forces to join with the SJB.
-
-“We believe that we, all the right-wing political groups including Mr. Ranil Wickremesinghe should join together. We request all members of the UNP including Mr. Ranil Wickremesinghe to join SJB, alleviate this divisions and move forward. We are on the stance that the SJB should move forward together with the UNP,” he added.
-
-◼️
-
-[Data](articles/920365a9.json)
-
-[Extended Data](ext_articles/920365a9.ext.json)
-
----
-
-### ஆஸி.க்கு எதிரான முதலாவது டெஸ்டில் 295 ஓட்டங்களால் இந்தியா மகத்தான வெற்றி !
-
-*2024-11-25 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199639) · `ta`
-
-பேர்த் கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்ற அவுஸ்திரேலியாவுக்கு எதிரான முதலாவது போர்டர் - காவஸ்கர் மற்றும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் கிரிக்கெட் போட்டியில் 295 ஓட்டங்களால் இந்தியா மகத்தான வெற்றி ஈட்டியது.
-
-இந்த வெற்றியுடன் 5 போட்டிகள் கொண்ட டெஸ்ட் தொடரில் இந்தியா 1 - 0 என்ற ஆட்டக் கணக்கில் முன்னிலை அடைந்துள்ளது.
-
-இரண்டாவது இன்னிங்ஸில் யஷஸ்வி ஜய்ஸ்வால், விராத் கோஹ்லி, கே.எல். ராகுல் ஆகியோர் துடுப்பாட்டத்தில் வெளிப்படுத்திய திறமை, ஜஸ்ப்ரிட் பும்ரா, மொஹம்மத் சிராஜ் ஆகியோரின் துல்லியமான பந்துவீச்சுகள் என்பன இந்தியாவை இலகுவாக வெற்றிபெறச் செய்தன.
-
-மேலும் ரோஹித் ஷர்மாவுக்குப் பதிலாக இப் போட்டியில் அணித் தலைமையைப் பொறுப்பேற்ற ஜஸ்ப்ரிட் பும்ரா, அணியை சிறப்பாக வழிநடத்தி வெற்றி அடையச் செய்தார்.
-
-நான்கு நாட்களில் நிறைவுபெற்ற இப் போட்டியில் இரண்டு அணிகளும் முதல் இன்னிங்ஸில் துடுப்பாட்டத்தில் பிரகாசிக்கத் தவறின.
-
-அவுஸ்ரேலியர்களின் வேகப்பந்துவீச்சுகளில் இந்தியா 150 ஓட்டங்களைப பெற்றதுடன் இந்தியர்களின் வேகப்பந்தவீச்சுகளில் அவுஸ்திரேலியா 104 ஓட்டங்களுக்கு சுருண்டது.
-
-...
-
-[Data](articles/aa035ea0.json)
-
----
-
-### Two new secretaries appointed to ministries
-
-*2024-11-25 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103752/two-new-secretaries-appointed-to-ministries) · `en`
-
-President Anura Kumara Dissanayake has appointed two new secretaries to ministries, the President’s Media Division (PMD) stated in a statement.
-
-The letters of appointment were handed over today (25) at the Presidential Secretariat by the Secretary to the President Dr. Nandika Sanath Kumanayake, the PMD said.
-
-Accordingly, President’s Counsel Ayesha Jinasena has been appointed as the Secretary to the Ministry of Justice and National Integration.
-
-Meanwhile, Ms. Malarmathi Gangadharan has been appointed as the Secretary to the Ministry of Rural Development, Social Security, and Community Empowerment, the statement added.
-
-◼️
-
-[Data](articles/4b6039c5.json)
-
-[Extended Data](ext_articles/4b6039c5.ext.json)
-
----
-
-### Archana is demanding personal safety
-
-*2024-11-25 14:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிப்பட்ட-பாதுகாப்பு-கோருகிறார்-அர்ச்சுனா/175-347735) · `ta`
-
-Sri Lanka MP Archana Ramanathan seeks protection after controversial remarks. Threats received due to actions in parliament. Deputy Secretary advises written request to Ministry of Public Security for security arrangements.
-
-🟩
-
-Newly elected Jaffna District Parliamentarian Dr. Archana Ramanathan has sought personal protection following his setback due to his actions during the initial session of the 10th Parliament of Sri Lanka.
-
-During the first session of parliament last week, the Member of Parliament traditionally refused to move on a seat reserved for the opposition leader, while he was reportedly making communal statements.
-
-Parliamentarian Archana Ramanathan, who attended the guidance for the newly elected MPs held at the Parliamentary Complex today, pointed out that he was facing severe threats by the incident.
-
-“I could not walk on the street because of the incident in the parliamentary seat. The media took a 45-50 minute interview. They questioned if I had eaten and I replied yes. Then they questioned whether I was a part of the LTTE and replied that I am not. But they have avoided my answer to the second question and I have been unable to walk on the street. ”
-
-...
-
-[Data](articles/c3f661a6.json)
-
-[Extended Data](ext_articles/c3f661a6.ext.json)
-
----
-
-### New secretaries appointed to two ministries
-
-*2024-11-25 14:48:33* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකකට-නව-ලේකම්වරු-පත්-කෙරේ/11-413252) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake appoints two new secretaries:
-
-1. Aeresha Jinasena (Justice & National Integration)
-
-2. (Rural Development Social Security & Community Stativation)
-
-🟩
-
-President Anura Kumara Dissanayake has appointed two new secretaries for two ministries.
-
-Accordingly, President's Counsel Aeresha Jinasena has been appointed as the Secretary to the Ministry of Justice and National Integration as the Secretary to the Ministry of Rural Development Social Security and Community Stativation.
-
-◼️
-
-[Data](articles/6cacfe77.json)
-
-[Extended Data](ext_articles/6cacfe77.ext.json)
-
----
-
-### Ex-Minister Manusha Nanayakkara responds to accusations over ‘E-8 visa’ issue
-
-*2024-11-25 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103751/ex-minister-manusha-nanayakkara-responds-to-accusations-over-e-8-visa-issue) · `en`
-
-Allegations of illegal financial gains connected to the contentious ‘E8 visa’ scheme have been directed at former Minister of Labour and Foreign Employment, Manusha Nanayakkara.
-
-Kosala Wickramasinghe, Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), levelled these accusations during Ada Derana’s current affairs programme “Big Focus,” earlier today (25).
-
-Addressing the issue, Wickramasinghe claimed, “It is problematic why a recognized minister of the government gets involved in a scheme that amounted to human trafficking. There is a lot of suspicion. We can suspect that the minister made illegal profits. We do not have evidence at the moment. We are collecting information.”
-
-He further stated, “There are teams and legal mechanisms in place. This is not just about the E8 visa issue—there are many other issues under investigation.”
-
-...
-
-[Data](articles/4ad1aa6c.json)
-
-[Extended Data](ext_articles/4ad1aa6c.ext.json)
-
----
-
-### අමාත්‍යාංශ දෙකකට නව ලේකම්වරු පත් කෙරේ
-
-*2024-11-25 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203716) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් අමාත්‍යාංශ දෙකක් සඳහා නව ලේකම්වරුන් දෙදෙනෙකු පත් කර තිබේ.
-
-ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති ලේකම් කාර්යාලයේදී අද (25) පිරිනැමිණි.‍
-
-ඒ අනුව අධිකරණ හා ජාතික ඒකාබද්ධතා  අමාත්‍යාංශයේ ලේකම්වරිය ලෙස ජනාධිපති නීතිඥ අයේෂා ජිනසේන මෙනවිය පත් කර තිබේ.
-
-ග්‍රාමීය සංවර්ධන සමාජ ආරක්ෂණ සහ ප්‍රජා සවි බල ගැන්වීමේ අමාත්‍යාංශයේ ලේකම්වරිය ලෙස මලර්මතී ගංගාධරන් මහත්මිය පත් කර ඇත.
-
-◼️
-
-[Data](articles/053a9ffb.json)
-
----
-
-### සජබයේ සූදානම ගැන හර්ෂණ හෙළිකරයි
-
-*2024-11-25 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203715) · `si`
-
-රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂයේ නායකත්වය සජිත් ප්‍රේමදාස මහතා ට ලබාදීමට සූදානම් නම් සමගි ජන බලවේගය නැවතත් සිරිකොතට ඒමට සූදානම් බව පාර්ලිමේන්තු මන්ත්‍රී හර්ෂණ රාජකරුණා මහතා පවසයි.
-
-"රනිල් වික්‍රමසිංහ මහතා ලංකාවේ නෑනේ..එතුමා ආවහම අපි සාකච්ඡා කරන්න බලාපොරොත්තු වෙනවා."
-
-කොළඹදී පැවති මාධ්‍ය හමුවක් අමතමින් රාජකරුණා මහතා පැවසුවේ සියලුම දක්ෂිණාංශික බලවේග සඳහා සමගි ජන බලවේගය සමග එක්වන ලෙස ආරාධනා කරන බවයි.
-
-"රනිල් වික්‍රමසිංහ මහතා ඇතුළු අපි විශ්වාස කරනවා මේ දක්ෂිණාන්ත දේශපාලනය කරන කණ්ඩායම් අපි ඔක්කොම එකතු වෙන්න ඕනේ. අපි ඉල්ලීමක් කරනවා රනිල් වික්‍රමසිංහ මහතා ඇතුළු යුඑන්පි යේ සියලුදෙනාමත් මේ සජබය සමග එකතු වෙලා මේ බෙදීම නැතිකරලා අපි ඉදිරියේදී එකම වැඩසටහනකට ඉදිරිපත් වෙන්න අපි කටයුතු කළ යුතුයි කියලා. සජබය, යුඑන්පි කණ්ඩායම් එකතු කරගෙන ඉදිරියේදී ගමනක් යා යුතුයි කියන මතයේ අපි ඉන්නවා."
-
-◼️
-
-[Data](articles/c7fc8be3.json)
-
----
 
 ### Philippine VP publicly threatens to have the President assassinated
 
@@ -391,8 +47,6 @@ The presidential security force said it was “coordinating with law enforcement
 ...
 
 [Data](articles/006f2fb5.json)
-
-[Extended Data](ext_articles/006f2fb5.ext.json)
 
 ---
 
@@ -422,89 +76,45 @@ Due to this, the traffic police and the youth of the area together removed the t
 
 ---
 
-### Vattuvagal Bridge in floods: Marines, police on security duty!
+### வெள்ளத்தில் மூழ்கிய வட்டுவாகல் பாலம் : கடற்படையினர், பொலிஸார் பாதுகாப்புக் கடமையில்!
 
 *2024-11-25 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199628) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+பாலம் வெளியே தெரியாதபடி, வெள்ளம் சூழ்ந்த நிலையில், அங்கு விபத்து ஏற்படக்கூடும் என்ற காரணத்தால் பாலத்தின் இருமருங்கிலும் பொலிஸார் மற்றும் கடற்படையினர் கடமையில் ஈடுபட்டுள்ளனர்.
 
+முல்லைத்தீவு மாவட்டத்தில் அதிக மழை தொடர்ச்சியாக பெய்துவருகிறது. இதனால் நந்திக்கடல் நீர் மட்டம் அதிகரித்துள்ளதுடன் வட்டுவாகல் பாலத்திலும் நீர்மட்டம் உயர்ந்துள்ளது.
 
+பாலத்தின் பல பகுதிகள் உடைந்து, சேதமடைந்து ஆபத்தான நிலையில் காணப்படுகின்றன. இதனால் இந்த ஆபத்தான சூழ்நிலையை எதிர்கொண்டு பயணிகள் அப்பாலத்தினூடாக செல்லவேண்டிய துர்பாக்கிய நிலையில் உள்ளனர்.
 
-"Vattuvagal Bridge floods: Police & navy on duty. Mullaitivu rains raise sea levels. Parts damaged. RDA identifies banks. Built in 1950s, 440m long. Damaged in 2004 tsunami & 2009 war. Still in use despite damage."
+இதேவேளை, வீதி அபிவிருத்தி அதிகாரசபையினர் பாலத்தின் இரு கரைகளையும் அடையாளப்படுத்தும் நடவடிக்கையில் தற்போது ஈடுபட்டு வருகின்றனர்.
 
-🟩
+1950ஆம் ஆண்டு காலப்பகுதியில் கட்டப்பட்டதாக கூறப்படும் வட்டுவாகல் பாலம் கிட்டதட்ட 440 மீற்றர் நீளம் கொண்டது.
 
-Police and navy personnel are on duty at both the bridge due to the fact that the bridge is unknown and flooded.
-
-Mullaitivu district is continuously raining.This has increased the water level of the Nandi Sea and the water level has risen in the Vadduvagal Bridge.
-
-Many parts of the bridge are broken, damaged and found in a dangerous position. As a result, passengers are in a state of disrepair to face this dangerous situation.
-
-Meanwhile, the Road Development Authority is currently in the process of identifying the two banks of the bridge.
-
-The Vattuvagal Bridge, which is said to have been built in the 1950s, is almost 440 meters long.
-
-The Vattuvagal Bridge has been severely damaged by the 2004 tsunami disaster and the war in 2009.However, the Vadduvagal Bridge has been used by the public to this day.
-
-◼️
+...
 
 [Data](articles/b00702da.json)
 
-[Extended Data](ext_articles/b00702da.ext.json)
-
 ---
 
-### Car accident using Google Map: trio kills
-
-*2024-11-25 14:10:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மெப்பை-பயன்படுத்தி-கார்-விபத்து-மூவர்-பலி/175-347730) · `ta`
-
-Google Maps leads car into flooded river, killing three in Uttar Pradesh. Accident blamed on GPS guidance and lack of warning signs.
-
-🟩
-
-A car accident using the Google Guidance Map has taken place in Uttar Pradesh.
-
-A car was traveling from Bareilly in Uttar Pradesh to Dadaganch in Badown district. Three people, including brothers in the car, were traveling.
-
-While the car was traveling with the help of Google Map, the car that was flooded in the area crashed into a river that was running down 50 feet.
-
-Relatives of the victims said that the accident occurred because of the Google Map.
-
-In addition, department officials have complained that there are no barricades in the area to warn the vehicles of the bridge due to incomplete.
-
-◼️
-
-[Data](articles/ffb00061.json)
-
-[Extended Data](ext_articles/ffb00061.ext.json)
-
----
-
-### India beat India
+### ඉන්දියාවට ලොකු ජයක්
 
 *2024-11-25 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203714) · `si`
 
-India vs Australia: India wins first Test in Perth by 295 runs. India scores 487/6 in second innings, Australia 238 chasing 534. India leads World Test Championship table after victory.
+ඉන්දියාව සහ ඔස්ට්‍රේලියාව අතර පර්ත් හි පැවති පළමු ටෙස්ට් තරගය ලකුණු 295කින් ජය ගැනීමට සංචාරක ඉන්දීය කණ්ඩායම අද (25) සමත් විය.
 
-🟩
+තරගය ජයග්‍රහණය සඳහා ලකුණු 534ක ඉලක්කයක් හඹා ගිය ඔස්ට්‍රේලියා කණ්ඩායම, තරගයේ සිව්වන දිනය වන අද ලකුණු 238කට සියලු දෙනා දැවී ගියේය.
 
-The Sri Lanka Touristdy team won the first Test in Perth by 295 runs among India and Australia
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය පළමු ඉනිමට ලකුණු 150ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස ඔස්ට්‍රේලියානු කණ්ඩායම සිය පළමු ඉනිම සඳහා ලකුණු 104කට දැවී ගියේය.
 
-Chasing a target of 534 runs for the winning, the Australian group, the fourth day of the match, were all out for 238 runs.
+ඉන්දීය කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 487ක් ලබාගත් අතර ඔස්ට්‍රේලියානු කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා ලකුණු 238කට දැවී ගියේය.
 
-The Indian team scored 150 runs in their first innings and the Australian team bowled out 104 runs for the first innings.
+ඒ අනුව තරග 5කින් සමන්විත තරගාවලියේ ඉදිරියට පැමිණීමට ඉන්දීය කණ්ඩායම සමත් විය.
 
-India scored 487 runs for the loss of 6 wickets for the loss of 6 wickets in their second innings.
-
-Accordingly, Indian team has come forward in the five-match tournament.
-
-India to take the first place in the World Test Championship page with this victory.
+මෙම ජයග්‍රහණය සමග ලෝක ටෙස්ට් ශූරතා ලකුණු සටහනේ පළමු ස්ථානය ගැනීමට ඉන්දියාව සමත්විය.
 
 ◼️
 
 [Data](articles/243deb80.json)
-
-[Extended Data](ext_articles/243deb80.ext.json)
 
 ---
 
@@ -520,85 +130,47 @@ United States international development finance corporation, which is partially 
 
 [Data](articles/bc407343.json)
 
-[Extended Data](ext_articles/bc407343.ext.json)
-
 ---
 
-### Is the former minister's manuscript accused of a human trafficking?
+### හිටපු ඇමති මනූෂ මිනිස් ජාවාරමකට සම්බන්ධ බවට චෝදනාවක් ?
 
 *2024-11-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203713) · `si`
 
-Here's a summary of 200 characters:
+හිටපු කම්කරු සහ විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා ප්‍රශ්න ගත E8 වීසා ක්‍රමය යොදා ගනිමින් අයථා ලෙස මුදල්‍යම ලෙස ලාභ උපයා ඇතැයි සැක සහිත බවය විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා පවසයි.
 
+අද (25) පෙරවරුවේ පැවති "අද දෙරණ Big Focus" වැඩසටහන හා සම්බන්ධ වෙමින් කෝශල වික්‍රමසිංහ මහතා මේ පැවසීය.
 
+එමෙන්ම ඔහු පැවසුවේ මිනිස් ජාවාරමක් ලෙස පවා හැදින්විය හැකි ක්‍රමවේදයකට හිටපු අමාත්‍යවරයා මැදිහත්වීම ප්‍රශ්න ගත කරුණක් බවය.
 
-Former Labor Minister Manusha Nanayakkara denies human trafficking accusations regarding the E8 visa system. He claims the system was meant to create jobs but faced implementation issues. The Foreign Employment Bureau states short-term seasonal jobs cannot be legally sent to South Korea under E8 visas.
-
-🟩
-
-Former Labor and Foreign Employment Minister Manusha Nanayakkara is suspected that the E8 has been suspected to misuse its profits using the E8 system.
-
-Kiosala Wickremasinghe said this morning connected to Ada Derana Figus "program today.
-
-He also said that the intervention of former Minister intervention is also questioned as a human racket.
-
-"We think this government has accepted a recognized minister why pushed to a human racket. There is a great deal of blossoms that we have made the minister a miracle. Currently, we are not factors. We are gathering information. There are groups. There is legal systems that can be taken legally. Only one party. Not only this e8, the question here. There are a lot of questions. "
-
-The intervention of a former minister has held a press conference this morning, said he had operated the E8 visas without a job agreement without an employment agreement.
+"අපි හිතනවා මිනිස් ජාවාරමක් දක්වා තල්ලු වෙච්ච ක්‍රමවේදයකට ඇයි මේ රජය පිළිගත් ඇමතිවරයෙක් තල්ලු වුණේ. විශාල සැකසංකාවක් මතුවෙලා තියෙනවා අපිට ඇමතිවරයා අයථා ලාභයක් ලැබුවා කියලා අපිට සැක කරන්න පුළුවන්. දැනට අපි ළඟ සාධක නෑ. තොරතුරු අපි එකතුකරමින් සිටිනවා. කණ්ඩායම් ඉන්නවා. නීත්‍යානූකූලව ගන්න පුළුවන් නීතිමය ක්‍රමවේද තියෙනවා. ඔය එක පාර්ශවයක් විතරයි. මේ E8 විතරක් නෙමෙයි මෙතන ප්‍රශ්නය. ප්‍රශ්න ගොඩක් තියෙනවා."
 
 ...
 
 [Data](articles/4bad3565.json)
 
-[Extended Data](ext_articles/4bad3565.ext.json)
-
 ---
 
-### Affect the West Terminal Project at the Colombo Port?
+### අදානිගේ කොළඹ වරායේ බටහිර පර්යන්ත ව්‍යපෘතියටත් බලපෑමක් ?
 
 *2024-11-25 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203712) · `si`
 
-Colombo Port West Terminal project impacted by:
+අදානි සමාගමේ හවුල්කාරිත්වය යටතේ ක්‍රියාත්මක කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය කිරීමේ ව්‍යාපෘතිය සඳහා තමන් ලබාදීමට අපේක්ෂා කළ අමෙරිකානු ඩොලර් මිලියන 553ක මුදල සම්බන්ධව යළි ඇගයීමක් සිදුකරන බව අමෙරිකානු ජාත්‍යන්තර මූල්‍ය සංස්ථාව පවසා තිබේ.
 
+ඒ අමෙරිකානු නීතිපති දෙපාර්තමේන්තුව අදානි සමාගමට සහ නිර්මාතෘ ගෞතම් අදානිට එල්ල වී ඇති චෝදනාවලින් ඊට යම් බලපෑමක් සිදුවේදැයි සලකා බැලීම සඳහාය.
 
+ඉන්දීය සුප්‍රකට ව්‍යාපාරික ගෞතම් අදානිට අමෙරිකානු අධිකරණයක් මඟින් සිතාසි නිකුත් කරනු ලැබුවේ පසුගියදාය.
 
-1. Re-evaluation by American International Monetary Corporation
+ඒ අල්ලස් ලබාදීම සහ වංචාසහගත ලෙස ලාභ උපයාගැනීම ඇතුළු චෝදනා යටතේය.
 
-2. Allegations against Gautam Company founder
+මේ සමග අදානි සමාගමේ ඩොලර් බැඳුම්කරවල වටිනාකම වාර්තාගත ලෙස පහත වැටී තිබේ.
 
-3. Indian business accused of bribery in US court
+ඒ අනුව ගතවූ සතියේ කාර්තු දෙකකදී සමාගමට අහිමිවී ඇති වෙළෙඳපොළ වටිනාකමේ අගය අමෙරිකානු ඩොලර් බිලියන 27.9ක් ලෙස සඳහන්ය.
 
-4. Record drop in Ahani Company dollar bond value
-
-5. $27.9 billion market loss in two weeks
-
-6. $265 million bribery allegations against Indian officials over 20 years
-
-
-
-Total characters: 200
-
-🟩
-
-The American International Monetary Corporation has said that it is re-evaluated on the development of the Colombo Harbor to develop the Colombo Harbor Terminal for the development of the Colombo Port.
-
-The American Attorney General's Department is an impact on the allegations of the allegations of Gautam Company and the founder Gautam Company and the Founda.
-
-The famous business of India was released by an American court in the United States.
-
-They were given bribery and the accusations to make profits.
-
-With this, the value of the dollar bonds of the Ahani Company has fallen in record.
-
-Accordingly, the market value lost in two quarts of the week is US $ 27.9 billion.
-
-The allegation of US $ 265 million bribes to Indian government officials to receive massive projects in the past 20 years have been allegations to the Indian government officials to make US $ 2 billion profit.
+ගෙවුණු වසර 20 තුළ දැවැන්ත ව්‍යාපෘති තම සමාගම වෙත ලබාගැනීමට ඉන්දීය රජයේ නිලධාරීන් වෙත අමෙරිකානු ඩොලර් මිලියන 265ක් අල්ලස් ලබාදීමත්, එම﻿ඟින් අමෙරිකානු ඩොලර් බිලියන 2ක ලාභයක් ඉපයීමත් අදානි සමාගමට එල්ල වන චෝදනාවයි.
 
 ◼️
 
 [Data](articles/dd16a54b.json)
-
-[Extended Data](ext_articles/dd16a54b.ext.json)
 
 ---
 
@@ -636,21 +208,15 @@ Silva’s remarks came in the backdrop of one of the biggest electoral landslide
 
 ---
 
-### $ 200 million from ADB
+### ආසියානු සංවර්ධන බැංකුවෙන් ඩොලර් මිලියන 200ක්
 
 *2024-11-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203711) · `si`
 
-ADB approves $200m loan for Sri Lanka infrastructure upgrade
-
-🟩
-
-ADB has approved a loan of US $ 200 million to improve the infrastructure facilities in Sri Lanka.
+ශ්‍රී ලංකාවේ විදුලිබල ක්ෂේත්‍රයේ යටිතල පහසුකම් දියුණු කිරීම සඳහා ආසියානු සංවර්ධන බැංකුව ඩොලර් මිලියන 200ක ණය මුදලක් අනුමත කර තිබේ.
 
 ◼️
 
 [Data](articles/d7dddaf3.json)
-
-[Extended Data](ext_articles/d7dddaf3.ext.json)
 
 ---
 
@@ -776,37 +342,25 @@ Official residences at the Madiwale Housing Complex will be handed over to new M
 
 ---
 
-### If you kill me, I have promised to kill the president - the Vice President of the Philippines
+### என்னை கொலை செய்தால் ஜனாதிபதியை கொலை செய்வதற்கு ஆட்களையமர்த்தியுள்ளேன்  - பிலிப்பைன்ஸ் துணை ஜனாதிபதி தெரிவிப்பு
 
 *2024-11-25 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199627) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+பிலிப்பைன்ஸ் துணை ஜனாதிபதி சரா டட்டெர்டே ஜனாதிபதி பேர்டினன்ட் மார்கோஸ் தன்னை கொலை செய்தால் அதன் பின்னர் அவரை கொலை செய்வதற்கு ஒருவரை நியமித்துள்ளதாக தெரிவித்துள்ளார்.
 
+தென்கிழக்காசியா நாட்டின் இரு முக்கிய அரசியல் குடும்பங்களிடையே மோதல் தீவிரமடைவதை வெளிப்படுத்தும் விதத்தில் கருத்து தெரிவித்துள்ள துணைஜனாதிபதி என்னை கொலை செய்தால் பிலிப்பைன்ஸ் ஜனாதிபதி அவரது மனைவி சபாநாயகர் ஆகியோரை கொலை செய்வதற்கு கொலைகாரன் ஒருவனை நியமித்துள்ளேன் என குறிப்பிட்டுள்ளார்.
 
+நான் ஒருவரிடம் பேசியுள்ளேன்,நான் கொலைசெய்யப்பட்டால், பிலிப்பைன்ஸ் ஜனாதிபதி அவரது மனைவி சபாநாயகர் ஆகியோரை கொலை செய்யுமாறு கேட்டுக்கொண்டுள்ளேன்,இது வேடிக்கையில்லை என அவர் குறிப்பிட்டுள்ளார்
 
-Philippine Vice President Sara Duterte threatens retaliation if killed, citing presidential order. Security Council investigates threat. Political alliance between Sara Duterte and President Marcos strained over drug war policy.
+அவர்களை கொலை செய்யும்வரை ஓயவேண்டாம் என நான் கேட்டுக்கொண்டுள்ளேன் எனவும் அவர் தெரிவித்துள்ளார்.
 
-🟩
+ஜனாதிபதியாக செயற்படுவது எப்படி என  தெரியாத ஒருவரால் பொய் சொல்பவரால் நாங்கள் நரகத்தை நோக்கி இழுத்துச்செல்லப்படுகின்றோம் என பிலிப்பைன்சின் துணை ஜனாதிபதி தெரிவித்துள்ளார்.
 
-The Vice President of the Philippines, Sara Dutterte, has said that President Berdinent Marcos has appointed a person to kill him after killing him.
-
-Commenting on the intensification of the conflict between the two major political families of Southeast Asia, the vice -president said that if I kill me, the Philippine president has appointed a murderer to kill his wife and Speaker.
-
-I have spoken to someone, and if I am murdered, the President of the Philippines has asked him to kill his wife and Speaker, this is not fun.
-
-"I have been asked not to stop until they kill them," he said.
-
-The Vice President of the Philippines said that we are dragged to hell by a man who does not know how to act as a president.
-
-Meanwhile, an official said the Security Council would investigate the threat.
-
-The official said that all threats against the president will be investigated, which is a matter of national security.
+இதேவேளை இந்த அச்சுறுத்தல்  குறித்து பாதுகாப்பு பேரவை ஆராயும் என அதிகாரியொருவர் தெரிவித்துள்ளார்.
 
 ...
 
 [Data](articles/ca89d275.json)
-
-[Extended Data](ext_articles/ca89d275.ext.json)
 
 ---
 
@@ -1133,32 +687,6 @@ In addition, the Commission to Investigate the Bribery or Corruption of Corrupti
 [Data](articles/0084f777.json)
 
 [Extended Data](ext_articles/0084f777.ext.json)
-
----
-
-### Rs. Rs. 125,000 Treasury bill auction
-
-*2024-11-25 11:30:07* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--125--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-27--දා/11-413251) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Central Bank Sri Lanka: Nov 27 Treasury bill auction. 45 billion rupees in 45 million bills. Bids accepted same day. Minimum bid 1 rupee. Payment due Nov 29.
-
-🟩
-
-The Central Bank of Sri Lanka announced that a Treasury bill auction was held on November 27.
-
-45 million Treasury bills of Rs. 45,000 million, the Central Bank said that the Treasury bills of Rs.
-
-The Central Bank announces that the acceptance of the bids for the auction will be held on November 27, and the minimum amount for a bid is Rs.. The Treasury bill issue and payment is to be made on November 29.
-
-◼️
-
-[Data](articles/9dc0de43.json)
-
-[Extended Data](ext_articles/9dc0de43.ext.json)
 
 ---
 
@@ -1761,20 +1289,6 @@ In equities, the All Share Price Index opened up 0.12 percent or 15.06 points, a
 [Data](articles/7d3ba187.json)
 
 [Extended Data](ext_articles/7d3ba187.ext.json)
-
----
-
-### ICC Warrants & Netanyahu’s Digitus Impudicus
-
-*2024-11-25 09:39:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/icc-warrants-netanyahus-digitus-impudicus/) · `en`
-
-After Israel’s genocidal rampage in Gaza since 7 October 2023, which killed so far nearly 44,000 “human animals” and “cockroaches” in the words of Benjamin Netanyahu and his former defence minister Yoav Gallant, and wounded around another 105,000 while turning that strip of land into an uninhabitable heap of brick and concrete rabble, Judges of the International Criminal Court have at last issued arrest warrants for these two war criminals and for the Hamas leader Mohammed Deif. Of the three wasn’t the last claimed to have been killed by IDF in an air strike in Gaza in July this year? Does that mean Deif is still alive according to ICC? Israel’s killings and destruction has now extended into Lebanon. According to one report, in both Gaza and Lebanon IDF has killed more than 17, 000 children and in Lebanon alone 400,000 children are displaced from their homes. In these two killing fields IDF has not spared even news reporters and aid workers.
-
-...
-
-[Data](articles/57932d0b.json)
-
-[Extended Data](ext_articles/57932d0b.ext.json)
 
 ---
 
@@ -2419,5 +1933,367 @@ In October 2024, Purchasing Managers’ Indices indicated expansions in both Man
 [Data](articles/8a81b230.json)
 
 [Extended Data](ext_articles/8a81b230.ext.json)
+
+---
+
+### Apeksha Hospital launches new website for worldwide donations, with greater transparency
+
+*2024-11-25 02:53:00* · [`islandlk`](http://island.lk/apeksha-hospital-launches-new-website-for-worldwide-donations-with-greater-transparency/) · `en`
+
+The National Cancer Institute of Sri Lanka (NCISL) recently launched its all-new website, www.helpapeksha.com in the presence of Dr.P.G.Mahipala-Secretary of Ministry of Health, Dr. Asela Gunawardena – Director General of Health Services of Ministry of Health, Shevan Goonetilleke-the Chief Executive Officer of MillenniumIT ESP, Channa de Silva-Chief Executive Officer of LankaPay (Pvt) Ltd, Ayodhya Iddawela-Managing Director at Sampath Bank PLC, Sri Lanka’s beloved musical duo Bathiya & Santhush as the Brand Ambassadors along with Umesh Gautam,-Chief Executive Officer / Managing Director of Lanka Ashok Leyland PLC, and the NCISL Hospital Director Dr. Aruna Dissanayaka along with his staff, and Binara Jayawardena with the committee members.
+
+...
+
+[Data](articles/71ca110a.json)
+
+[Extended Data](ext_articles/71ca110a.ext.json)
+
+---
+
+### Vilappattan residents on the Mannar -Thalamannar main roadRequest to discharge floodwaters
+
+*2024-11-25 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199593) · `ta`
+
+Paviluppattan villagers protest floodwaters Mannar-Thalamannar road demand discharge action taken
+
+🟩
+
+The villagers of the Paviluppattan residents of the Mannar Divisional Secretariat Division, which belongs to the Tulukkudiyaru Grama Niladhari Division, staged a protest on Sunday (24) demanding the discharge of flood water in their village.
+
+The villagers went on a protest over the Mannar-Talaimannar main road demanding the discharge of flood water in their village.
+
+Moreover, the water flowing (Pok) was brought in to the road to the village, and it was not properly relaxed.
+
+They demanded that the flood water would not stagnate in their village if the action was carried out.
+
+The people have expressed their concern that no officials have come forward to discharge the flood water from their village.
+
+However, the Mannar police and the Grama Niladhari visited the area and discussed with the people.
+
+The police and the Grama Niladhari told the people that the issue was brought to the notice of the relevant authorities.
+
+...
+
+[Data](articles/908a4222.json)
+
+[Extended Data](ext_articles/908a4222.ext.json)
+
+---
+
+### Tourism Minister draws inspiration from ABBA music at Arrival from Sweden concert
+
+*2024-11-25 02:50:56* · [`dailyftlk`](https://www.ft.lk/business/Tourism-Minister-draws-inspiration-from-ABBA-music-at-Arrival-from-Sweden-concert/34-769655) · `en`
+
+Vijitha Herath recognises tourism as key driver of economic growth
+
+Expresses confidence in achieving better future for all Sri Lankans
+
+Mt. Lavinia Hotel COO Anura Dewapura asserts pride in event’s success
+
+Tourism Minister Vijitha Herath delivered a hopeful message on Saturday while attending the live performance of ‘Arrival from Sweden: The Music of ABBA’, an internationally renowned tribute band.
+
+The event, which drew around 2,500 vibrant enthusiasts, was filled with music, nostalgia and entertainment, as the Minister shared admiration for the iconic band and one of his favourite songs, ‘I have a dream’.
+
+Referring to the song’s lyrics, Minister Herath expressed his optimism for Sri Lanka’s future.
+
+...
+
+[Data](articles/2f34f280.json)
+
+[Extended Data](ext_articles/2f34f280.ext.json)
+
+---
+
+### Tourist arrivals surge in first 20 days of November
+
+*2024-11-25 02:48:44* · [`dailyftlk`](https://www.ft.lk/business/Tourist-arrivals-surge-in-first-20-days-of-November/34-769654) · `en`
+
+Sri Lanka’s tourism industry continues to thrive, with 120,961 tourist arrivals recorded in the first 20 days of November, marking a 17% year-on-year (YoY) increase compared to the same period a year ago.
+
+This brings the year-to-date (YTD) total to over 1.74 million visitors positioning the country to achieve its annual target of two million arrivals by the year end.
+
+Average daily arrivals in November have risen to 6,048 tourists per day – a 17% jump from the 5,170 daily average registered in the first 20 days of October 2024.
+
+However, to meet the monthly target of 198,069 arrivals, Sri Lanka must attract an average of 7,711 tourists daily for the remainder of the month.
+
+India remains the largest source market contributing 26,717 tourists in the first 20 days of November. Russia follows with 20,157 visitors, while Germany with 9,444, UK with 7,715 and Australia with 4,762 visitors round out the top five.
+
+...
+
+[Data](articles/55c609f7.json)
+
+[Extended Data](ext_articles/55c609f7.ext.json)
+
+---
+
+### Funding earmarked for SMEs goes abegging
+
+*2024-11-25 02:45:40* · [`dailyftlk`](https://www.ft.lk/business/Funding-earmarked-for-SMEs-goes-abegging/34-769653) · `en`
+
+Industries and Entrepreneurship Development Minister Sunil Handunnetti reveals only Rs. 71 m disbursed from Rs. 1 b business loan fund
+
+Says existing support agencies meant to assist entrepreneurs have benefited only select few
+
+Criticises poor state of SOEs such as National Paper Company Ltd., Salusala, Laksala
+
+Emphasises making Ministry and agencies more accessible and transparent to public
+
+Announces plans to launch awareness programs about services offered by ministries
+
+Industries and Entrepreneurship Development Minister Sunil Handunnetti has criticised the mismanagement of funds and State-owned enterprises under his ministry, pledging to reform the system to better serve the public.
+
+...
+
+[Data](articles/5c3175bc.json)
+
+[Extended Data](ext_articles/5c3175bc.ext.json)
+
+---
+
+### National and international debts are a massive challenge to the government;Plans for economic recovery should be transparent - Batali Champika Ranawaka
+
+*2024-11-25 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199592) · `ta`
+
+National & intl debts pose significant challenge to govt. Economic recovery plans must be transparent. Cooperation from citizens crucial to address economic crisis. Bilateral debt: $28B in 2022. IMF support: $11M. Unpaid loans & interests: $8B. Govt. follows previous administration's economic policies unchanged. Transparency key to addressing financial reality.
+
+🟩
+
+National and international debts are a massive challenge to the government. The government should carry out transparency actions for economic recovery. To mention the truth of the country's financial situation. United Republican Front leader Patali Champika Ranawaka said that the cooperation of the country is essential to solve the economic crisis.
+
+He was speaking at a publication ceremony held in Colombo on Sunday (24).
+
+Bilateral debt was seen as $ 28 billion in the year 2022. $ 11 million has been received from international financial institutions, including the World Bank and the International Monetary Fund.
+
+Practical economic challenges and continuing the agreement of the International Monetary Fund and carrying out welfare activities as promised are challenging the government.
+
+It was officially announced that the Sri Lankan bankruptcy was on April 08, 2022. Unpaid loans and its interest rates have now increased to $ 8 billion.
+
+...
+
+[Data](articles/8c83aa36.json)
+
+[Extended Data](ext_articles/8c83aa36.ext.json)
+
+---
+
+### Govt. considers extended relief for SMEs amid financial woes
+
+*2024-11-25 02:44:57* · [`dailyftlk`](https://www.ft.lk/business/Govt-considers-extended-relief-for-SMEs-amid-financial-woes/34-769652) · `en`
+
+Decides to compile report on loans obtained by SMEs to design targeted relief measures, address loan obligations and enhance SME resilience
+
+A high-level meeting chaired by Senior Additional Secretary to the President on Finance and Economic Affairs G.N.R.D. Aponsu underscored the Government’s commitment to supporting Small and Medium Enterprises (SMEs) facing financial difficulties.
+
+The meeting held at the Presidential Secretariat brought together officials from the Finance Ministry, Central Bank, and Sri Lanka Banks’ Association (Guarantee) Ltd., reflecting the urgency of addressing the economic challenges confronting SMEs.
+
+At the forefront of discussions was the temporary suspension of the debt recovery process under the Parate law, which has provided critical relief for SMEs. However, this suspension is set to expire on 15 December, raising concerns over the future of struggling businesses.
+
+...
+
+[Data](articles/850bee89.json)
+
+[Extended Data](ext_articles/850bee89.ext.json)
+
+---
+
+### MSME-Govt. talks on Parate law postponed amid MP training program
+
+*2024-11-25 02:44:25* · [`dailyftlk`](https://www.ft.lk/business/MSME-Govt-talks-on-Parate-law-postponed-amid-MP-training-program/34-769651) · `en`
+
+The Ceylon Federation of Micro, Small and Medium Enterprises (MSMEs) yesterday said that its much awaited meeting with the Government to address concerns about the enforcement of the Parate law has been postponed to Thursday.
+
+The delay is due to a three-day training program for new Members of Parliament currently underway, the Daily FT learns.
+
+The Parate law, which allows banks to seize collateral without a Court order in the event of loan defaults, is temporarily suspended for SMEs, but this suspension is set to expire on 15 December.
+
+The Federation expressed optimism that the Government will consider their appeal favourably, citing the ongoing dialogue with senior officials and economic advisers.
+
+The Federation members had already participated in two rounds of discussions with key figures from the Government’s Economic Council, including Prof. Anil Jayantha Fernando, Dr. Harshana Suriyapperuma, and Chathuranga Aveysinghe.
+
+...
+
+[Data](articles/3efafed9.json)
+
+[Extended Data](ext_articles/3efafed9.ext.json)
+
+---
+
+### SriLankan Airlines secures second consecutive ‘Emerging Cargo Airline’ Award at Arabian Cargo Awards
+
+*2024-11-25 02:44:00* · [`islandlk`](http://island.lk/srilankan-airlines-secures-second-consecutive-emerging-cargo-airline-award-at-arabian-cargo-awards/) · `en`
+
+SriLankan Airlines has secured the ‘Emerging Cargo Airline’ award for a second consecutive year at the Arabian Cargo Awards 2024, held on 11 November 2024 in Dubai. This achievement underlines the airline’s ongoing commitment to excellence in the air cargo sector, delivering reliable and efficient solutions globally. The Arabian Cargo Awards celebrates outstanding achievements in air freight, operational efficiency and innovation, with nominees evaluated by a panel of industry experts on criteria such as operational success, service quality and creativity.
+
+This recognition highlights SriLankan Airlines’ investment in technology and advanced air cargo solutions. Over the past year, the airline has prioritized optimizing cargo capacity by partnering with digital platforms to enhance accuracy and offer convenience, all while maintaining high service standards.
+
+...
+
+[Data](articles/2e8c8869.json)
+
+[Extended Data](ext_articles/2e8c8869.ext.json)
+
+---
+
+### SLPA targets Rs. 85 b  revenue in 2024 as operations expand
+
+*2024-11-25 02:43:54* · [`dailyftlk`](https://www.ft.lk/business/SLPA-targets-Rs-85-b-revenue-in-2024-as-operations-expand/34-769650) · `en`
+
+Harbour Master Capt. Nirmal Silva highlights positive trends in port activity, efficiency as key drivers
+
+Projects Rs. 19 b PAT for 2024, noting dollar-denominated earnings likely to vary due to currency volatility
+
+Says SLPA registered growth in operational metrics with domestic volume rising by 23.6%, transhipment volume by 15.5%, and total volume by 17.7%
+
+Sri Lanka Ports Authority (SLPA) announced that it is on track to achieve a revenue milestone of Rs. 85 billion by the end of 2024, up from Rs. 83.7 billion in 2023, driven by significant operational growth across its services, a top official said.
+
+SLPA’s Harbour Master Capt. Nirmal Silva expressed optimism about the target, citing positive trends in port activity and efficiency gains.
+
+“We are seeing a significant upwards trend in operations and we hope the target can be achieved,” he told the Daily FT.
+
+...
+
+[Data](articles/aa5eb565.json)
+
+[Extended Data](ext_articles/aa5eb565.ext.json)
+
+---
+
+### Safe Labour Migration Programme handed over to Sri Lanka
+
+*2024-11-25 02:43:00* · [`islandlk`](http://island.lk/safe-labour-migration-programme-handed-over-to-sri-lanka/) · `en`
+
+The Embassy of Switzerland, in collaboration with the Government of Sri Lanka and the International Labour Organization (ILO), hosted the hand-over ceremony of the Safe Labour Migration Programme (SLMP) at Cinnamon Life, Colombo. This event marked the formal conclusion of a 14-year partnership that significantly advanced the safe and regular labour migration landscape in Sri Lanka.
+
+Launched in 2010, the SLMP was implemented through a multi-stakeholder collaboration, funded entirely by the Swiss Agency for Development and Cooperation (SDC) with an investment of CHF 16.65 million. The programme was implemented by the International Labour Organization (ILO), HELVETAS Swiss Intercooperation, the International Executive Service Corps (IESC), and several civil society organizations (CSOs), fostering a broad and inclusive approach to achieving its objectives.
+
+...
+
+[Data](articles/181ebcec.json)
+
+[Extended Data](ext_articles/181ebcec.ext.json)
+
+---
+
+### Melwa empowers Sri Lanka’s construction sector with skills-building workshops
+
+*2024-11-25 02:41:00* · [`islandlk`](http://island.lk/melwa-empowers-sri-lankas-construction-sector-with-skills-building-workshops/) · `en`
+
+Melwa, Sri Lanka’s leading steel wire manufacturer, organised a workshop on the construction industry for Technical Officers (TOs) in the Anuradhapura District. This workshop took place on 7 November at the Mango Hotel in Anuradhapura, with nearly 100 TOs in attendance.
+
+Additionally, Melwa held a special training programme for welders on 9 November at Muthu Villa Hotel in Walasmulla. The programme aimed to enhance the professional skills of welders in the construction industry and provide them the nationally recognised National Vocational Qualification (NVQ) Level 03 certification. Nearly 200 welders participated in this programme, organised with full support from Melwa Company.
+
+...
+
+[Data](articles/107c7a46.json)
+
+[Extended Data](ext_articles/107c7a46.ext.json)
+
+---
+
+### Sri Lanka seeks enhanced trade ties with India, calls for quota reforms
+
+*2024-11-25 02:40:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-seeks-enhanced-trade-ties-with-India-calls-for-quota-reforms/34-769649) · `en`
+
+The Export Development Board (EDB) is pushing for strengthened trade relations with India, its third-largest export destination, as key issues around market access and trade quotas take centre stage.
+
+The request was made when Indian High Commission First Secretary and Head of the Economic and Commercial Wing Devika Lal called on EDB Chairman Mangala Wijesinghe to discuss ways to enhance bilateral trade.
+
+Wijesinghe highlighted the importance of leveraging India’s expertise to scale industries and align with global supply chains.
+
+“India is uniquely positioned to assist Sri Lanka in navigating new manufacturing trends and creating opportunities for our businesses within regional and global networks,” he said.
+
+Noting that Sri Lanka’s apparel industry, a cornerstone of its export economy, he said it faces an 8-million-piece quota restriction when exporting to India.
+
+...
+
+[Data](articles/4c89332b.json)
+
+[Extended Data](ext_articles/4c89332b.ext.json)
+
+---
+
+### IIHS launches young entrepreneurs’ hub
+
+*2024-11-25 02:40:00* · [`islandlk`](http://island.lk/iihs-launches-young-entrepreneurs-hub/) · `en`
+
+The International Institute of Health Sciences (IIHS) has officially launched the Young Entrepreneurs Hub. This dynamic platform is designed to empower young change-makers by fostering an environment where innovative ideas can thrive, and meaningful partnerships can be nurtured. With social entrepreneurship, community development, and environmental sustainability at its core, the hub seeks to create a new generation of visionary leaders equipped to tackle the challenges of tomorrow.
+
+...
+
+[Data](articles/0c784244.json)
+
+[Extended Data](ext_articles/0c784244.ext.json)
+
+---
+
+### Agripreneurs’ Forum ready to collaborate with new Govt. for economic revival and food security
+
+*2024-11-25 02:39:13* · [`dailyftlk`](https://www.ft.lk/business/Agripreneurs-Forum-ready-to-collaborate-with-new-Govt-for-economic-revival-and-food-security/34-769648) · `en`
+
+The Sri Lanka Agripreneurs’ Forum (SLAF) last week congratulated the newly elected Government and Parliament, expressing optimism for a transformative era in Sri Lanka’s agricultural and economic landscape.
+
+“SLAF firmly believes that the new Government, with its visionary leadership, has the potential to bring about the comprehensive changes needed to uplift the agriculture sector. This leadership offers a unique opportunity to address systemic challenges while fostering innovation, sustainability, and economic inclusivity, ensuring that all stakeholders benefit from a reinvigorated and modernised framework,” SLAF said in a statement. It also said the following: This juncture presents an extraordinary opportunity to strengthen the national framework for agribusinesses, fostering an inclusive climate that supports innovation, sustainability, and growth in the agriculture sector.
+
+...
+
+[Data](articles/22e947c1.json)
+
+[Extended Data](ext_articles/22e947c1.ext.json)
+
+---
+
+### Give Sri Lankans working in Kuwait before December 31;Foreign Employment Bureau Notification
+
+*2024-11-25 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199591) · `ta`
+
+Sri Lanka: Kuwait workers must get fingerprints by Dec 31. No state/banking services for those without. Fingerprinting available at security offices or via Sahel/Kuwait Meta Mode apps.
+
+🟩
+
+The Ministry of Home Affairs has announced that workers and foreigners working in Kuwait will be given their fingerprint before December 31, the Sri Lankan Foreign Employment Service has announced.
+
+The final date for this is due to ended in September and again till December 31st.. The Foreign Employment Bureau is urging all Sri Lankan workers working in Kuwait to obtain their fingerprints in places announced by the Ministry of Home Affairs.
+
+Accordingly, the time to provide finger identification can be excluded using the Sahel telephone software belonging to the Kuwait country or through the electronic system called Meta Mode. Similarly, the opportunity is given to select an appropriate place to obtain finger identification in the e -mail system. Accordingly, the security director's offices located in Hawali, Parwania, Ahmed, Mubarak al -Kabir and Jahra have been set up.
+
+...
+
+[Data](articles/6b3fdbc0.json)
+
+[Extended Data](ext_articles/6b3fdbc0.ext.json)
+
+---
+
+### Construction industry congratulates new Government
+
+*2024-11-25 02:38:41* · [`dailyftlk`](https://www.ft.lk/business/Construction-industry-congratulates-new-Government/34-769647) · `en`
+
+The Ceylon Institute of Builders (CIOB) has issued a statement on behalf of the construction industry in Sri Lanka, expressing its congratulations to the newly established President, Prime Minister and other Cabinet members, who have won an overwhelming majority in the Parliamentary elections.
+
+In the statement, Ceylon Institute of Builders President Dr. Rohan Karunaratne further stated: The construction industry is one of the largest industries in Sri Lanka. It employs 1 million direct employees and 1.6 million indirect employees. The construction industry has a turnover of nearly 1 trillion rupees and has contributed 9.6% to the GDP in the past. If the Government supports exports from this industry sector, it could earn about 2 billion dollars in foreign exchange.
+
+...
+
+[Data](articles/6414094b.json)
+
+[Extended Data](ext_articles/6414094b.ext.json)
+
+---
+
+### Nawaloka Medicare marks 10th anniversary
+
+*2024-11-25 02:38:00* · [`islandlk`](http://island.lk/nawaloka-medicare-marks-10th-anniversary/) · `en`
+
+Nawaloka Medicare (Pvt.) Ltd. recently celebrated its 10th anniversary at its state-of-the-art, seven-story facility in the heart of Negombo. Since the inauguration of its Centre in 2014, Nawaloka Medicare Negombo has consistently set a benchmark for excellence in healthcare, remaining steadfast in its commitment to providing top-tier medical services and bringing hope to countless individuals across the community.
+
+The facility boasts a wide range of services, including a 75-bed in-patient capacity and a newly expanded wing, which increases hospital space to accommodate fully equipped consultation rooms and a dedicated Maternal and Baby Centre.
+
+Chairman of Nawaloka Medicare (Pvt.) Ltd, Harshith Dharmadasa said, ” Over the past decade, we have successfully conducted 5,000 deliveries and over 20,000 surgeries, delivering exceptional care to thousands of patients. With consultations offered across more than 500 specialties, our hospital remains a trusted healthcare provider.”
+
+...
+
+[Data](articles/5cf0e3c7.json)
+
+[Extended Data](ext_articles/5cf0e3c7.ext.json)
 
 ---

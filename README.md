@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 14:16:10**
+As of **2024-11-25 14:42:11**
 
 ## Newspaper Stats
 
-*Scraped **56,759** Articles*
+*Scraped **56,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,167 @@ newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 589
-islandlk | 3,405
+islandlk | 3,406
 economynextcom | 3,440
 dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,339
-adaderanalk | 6,862
-tamilmirrorlk | 8,069
-virakesarilk | 9,252
-adaderanasinhalalk | 9,795
+adaderanalk | 6,864
+tamilmirrorlk | 8,070
+virakesarilk | 9,254
+adaderanasinhalalk | 9,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,759 (100.0%) of 56,759 articles have been extended.
+56,761 (100.0%) of 56,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### Philippine VP publicly threatens to have the President assassinated
+
+*2024-11-25 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103750/philippine-vp-publicly-threatens-to-have-the-president-assassinated) · `en`
+
+Philippine Vice President Sara Duterte said Saturday she has contracted an assassin to kill the president, his wife and the House of Representatives speaker if she herself is killed, in a brazen public threat that she warned was not a joke.
+
+Executive Secretary Lucas Bersamin referred the “active threat” against President Ferdinand Marcos Jr. to an elite presidential guards force “for immediate proper action.” It was not immediately clear what actions would be taken against the vice president.
+
+The Presidential Security Command boosted Marcos’ security and said it considered the vice president’s threat, which was “made so brazenly in public,” a national security issue.
+
+The presidential security force said it was “coordinating with law enforcement agencies to detect, deter, and defend against any and all threats to the president and the first family.”
+
+...
+
+[Data](articles/006f2fb5.json)
+
+---
+
+### Tree, vehicle damage to the root
+
+*2024-11-25 14:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேருடன்-சாய்ந்த-மரம்-வாகனமும்-சேதம்/175-347734) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Inclement weather damages tree in Dharmapuram Chundikulam. Tree leans onto vehicle, causing partial damage. Traffic police and local youth collaborate to remove tree, restoring order.
+
+🟩
+
+Due to the inclement weather, a tree has been damaged in the Dharmapuram Chundikulam area.
+
+The vehicle was partially damaged when the tree was leaning with the root of the vehicle.
+
+Due to this, the traffic police and the youth of the area together removed the tree and brought the situation to normal.
+
+◼️
+
+[Data](articles/eab33b2e.json)
+
+[Extended Data](ext_articles/eab33b2e.ext.json)
+
+---
+
+### வெள்ளத்தில் மூழ்கிய வட்டுவாகல் பாலம் : கடற்படையினர், பொலிஸார் பாதுகாப்புக் கடமையில்!
+
+*2024-11-25 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199628) · `ta`
+
+பாலம் வெளியே தெரியாதபடி, வெள்ளம் சூழ்ந்த நிலையில், அங்கு விபத்து ஏற்படக்கூடும் என்ற காரணத்தால் பாலத்தின் இருமருங்கிலும் பொலிஸார் மற்றும் கடற்படையினர் கடமையில் ஈடுபட்டுள்ளனர்.
+
+முல்லைத்தீவு மாவட்டத்தில் அதிக மழை தொடர்ச்சியாக பெய்துவருகிறது. இதனால் நந்திக்கடல் நீர் மட்டம் அதிகரித்துள்ளதுடன் வட்டுவாகல் பாலத்திலும் நீர்மட்டம் உயர்ந்துள்ளது.
+
+பாலத்தின் பல பகுதிகள் உடைந்து, சேதமடைந்து ஆபத்தான நிலையில் காணப்படுகின்றன. இதனால் இந்த ஆபத்தான சூழ்நிலையை எதிர்கொண்டு பயணிகள் அப்பாலத்தினூடாக செல்லவேண்டிய துர்பாக்கிய நிலையில் உள்ளனர்.
+
+இதேவேளை, வீதி அபிவிருத்தி அதிகாரசபையினர் பாலத்தின் இரு கரைகளையும் அடையாளப்படுத்தும் நடவடிக்கையில் தற்போது ஈடுபட்டு வருகின்றனர்.
+
+1950ஆம் ஆண்டு காலப்பகுதியில் கட்டப்பட்டதாக கூறப்படும் வட்டுவாகல் பாலம் கிட்டதட்ட 440 மீற்றர் நீளம் கொண்டது.
+
+...
+
+[Data](articles/b00702da.json)
+
+---
+
+### ඉන්දියාවට ලොකු ජයක්
+
+*2024-11-25 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203714) · `si`
+
+ඉන්දියාව සහ ඔස්ට්‍රේලියාව අතර පර්ත් හි පැවති පළමු ටෙස්ට් තරගය ලකුණු 295කින් ජය ගැනීමට සංචාරක ඉන්දීය කණ්ඩායම අද (25) සමත් විය.
+
+තරගය ජයග්‍රහණය සඳහා ලකුණු 534ක ඉලක්කයක් හඹා ගිය ඔස්ට්‍රේලියා කණ්ඩායම, තරගයේ සිව්වන දිනය වන අද ලකුණු 238කට සියලු දෙනා දැවී ගියේය.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය පළමු ඉනිමට ලකුණු 150ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස ඔස්ට්‍රේලියානු කණ්ඩායම සිය පළමු ඉනිම සඳහා ලකුණු 104කට දැවී ගියේය.
+
+ඉන්දීය කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 487ක් ලබාගත් අතර ඔස්ට්‍රේලියානු කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා ලකුණු 238කට දැවී ගියේය.
+
+ඒ අනුව තරග 5කින් සමන්විත තරගාවලියේ ඉදිරියට පැමිණීමට ඉන්දීය කණ්ඩායම සමත් විය.
+
+මෙම ජයග්‍රහණය සමග ලෝක ටෙස්ට් ශූරතා ලකුණු සටහනේ පළමු ස්ථානය ගැනීමට ඉන්දියාව සමත්විය.
+
+◼️
+
+[Data](articles/243deb80.json)
+
+---
+
+### Adani’s Colombo Port project under scrutiny as US Agency conducts due diligence
+
+*2024-11-25 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103749/adanis-colombo-port-project-under-scrutiny-as-us-agency-conducts-due-diligence) · `en`
+
+United States international development finance corporation, which is partially funding the Colombo port terminal in Sri Lanka, is employing due diligence on the project after the allegations against the Adani Group chairman by the US Department of Justice came to light. The US agency mentioned that it hasn’t concluded a final agreement on the loan worth $500 million to the conglomerate yet, according to a Bloomberg report. The project is partly owned by the Adani Group.
+
+“We continue to conduct due diligence to ensure that all aspects of the project meet our rigorous standards before any loan disbursements are made,” the US agency official told Bloomberg in a statement. “The project has not reached financial close or signed a loan agreement,” the agency added.
+
+...
+
+[Data](articles/bc407343.json)
+
+---
+
+### හිටපු ඇමති මනූෂ මිනිස් ජාවාරමකට සම්බන්ධ බවට චෝදනාවක් ?
+
+*2024-11-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203713) · `si`
+
+හිටපු කම්කරු සහ විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා ප්‍රශ්න ගත E8 වීසා ක්‍රමය යොදා ගනිමින් අයථා ලෙස මුදල්‍යම ලෙස ලාභ උපයා ඇතැයි සැක සහිත බවය විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා පවසයි.
+
+අද (25) පෙරවරුවේ පැවති "අද දෙරණ Big Focus" වැඩසටහන හා සම්බන්ධ වෙමින් කෝශල වික්‍රමසිංහ මහතා මේ පැවසීය.
+
+එමෙන්ම ඔහු පැවසුවේ මිනිස් ජාවාරමක් ලෙස පවා හැදින්විය හැකි ක්‍රමවේදයකට හිටපු අමාත්‍යවරයා මැදිහත්වීම ප්‍රශ්න ගත කරුණක් බවය.
+
+"අපි හිතනවා මිනිස් ජාවාරමක් දක්වා තල්ලු වෙච්ච ක්‍රමවේදයකට ඇයි මේ රජය පිළිගත් ඇමතිවරයෙක් තල්ලු වුණේ. විශාල සැකසංකාවක් මතුවෙලා තියෙනවා අපිට ඇමතිවරයා අයථා ලාභයක් ලැබුවා කියලා අපිට සැක කරන්න පුළුවන්. දැනට අපි ළඟ සාධක නෑ. තොරතුරු අපි එකතුකරමින් සිටිනවා. කණ්ඩායම් ඉන්නවා. නීත්‍යානූකූලව ගන්න පුළුවන් නීතිමය ක්‍රමවේද තියෙනවා. ඔය එක පාර්ශවයක් විතරයි. මේ E8 විතරක් නෙමෙයි මෙතන ප්‍රශ්නය. ප්‍රශ්න ගොඩක් තියෙනවා."
+
+...
+
+[Data](articles/4bad3565.json)
+
+---
+
+### අදානිගේ කොළඹ වරායේ බටහිර පර්යන්ත ව්‍යපෘතියටත් බලපෑමක් ?
+
+*2024-11-25 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203712) · `si`
+
+අදානි සමාගමේ හවුල්කාරිත්වය යටතේ ක්‍රියාත්මක කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය කිරීමේ ව්‍යාපෘතිය සඳහා තමන් ලබාදීමට අපේක්ෂා කළ අමෙරිකානු ඩොලර් මිලියන 553ක මුදල සම්බන්ධව යළි ඇගයීමක් සිදුකරන බව අමෙරිකානු ජාත්‍යන්තර මූල්‍ය සංස්ථාව පවසා තිබේ.
+
+ඒ අමෙරිකානු නීතිපති දෙපාර්තමේන්තුව අදානි සමාගමට සහ නිර්මාතෘ ගෞතම් අදානිට එල්ල වී ඇති චෝදනාවලින් ඊට යම් බලපෑමක් සිදුවේදැයි සලකා බැලීම සඳහාය.
+
+ඉන්දීය සුප්‍රකට ව්‍යාපාරික ගෞතම් අදානිට අමෙරිකානු අධිකරණයක් මඟින් සිතාසි නිකුත් කරනු ලැබුවේ පසුගියදාය.
+
+ඒ අල්ලස් ලබාදීම සහ වංචාසහගත ලෙස ලාභ උපයාගැනීම ඇතුළු චෝදනා යටතේය.
+
+මේ සමග අදානි සමාගමේ ඩොලර් බැඳුම්කරවල වටිනාකම වාර්තාගත ලෙස පහත වැටී තිබේ.
+
+ඒ අනුව ගතවූ සතියේ කාර්තු දෙකකදී සමාගමට අහිමිවී ඇති වෙළෙඳපොළ වටිනාකමේ අගය අමෙරිකානු ඩොලර් බිලියන 27.9ක් ලෙස සඳහන්ය.
+
+ගෙවුණු වසර 20 තුළ දැවැන්ත ව්‍යාපෘති තම සමාගම වෙත ලබාගැනීමට ඉන්දීය රජයේ නිලධාරීන් වෙත අමෙරිකානු ඩොලර් මිලියන 265ක් අල්ලස් ලබාදීමත්, එම﻿ඟින් අමෙරිකානු ඩොලර් බිලියන 2ක ලාභයක් ඉපයීමත් අදානි සමාගමට එල්ල වන චෝදනාවයි.
+
+◼️
+
+[Data](articles/dd16a54b.json)
+
+---
 
 ### Kathmandu 1987 and Islamabad 1988
 
@@ -63,6 +205,18 @@ Silva’s remarks came in the backdrop of one of the biggest electoral landslide
 [Data](articles/2edb5ec6.json)
 
 [Extended Data](ext_articles/2edb5ec6.ext.json)
+
+---
+
+### ආසියානු සංවර්ධන බැංකුවෙන් ඩොලර් මිලියන 200ක්
+
+*2024-11-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203711) · `si`
+
+ශ්‍රී ලංකාවේ විදුලිබල ක්ෂේත්‍රයේ යටිතල පහසුකම් දියුණු කිරීම සඳහා ආසියානු සංවර්ධන බැංකුව ඩොලර් මිලියන 200ක ණය මුදලක් අනුමත කර තිබේ.
+
+◼️
+
+[Data](articles/d7dddaf3.json)
 
 ---
 
@@ -126,6 +280,38 @@ Police investigations revealed that the student's life was lost because of the d
 
 ---
 
+### The Prime Minister’s visits to Geneva and Mexico City and balancing Indo-Lanka ties
+
+*2024-11-25 13:40:00* · [`islandlk`](http://island.lk/the-prime-ministers-visits-to-geneva-and-mexico-city-and-balancing-indo-lanka-ties/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+In June 1975, the Prime Minister was honoured by the international community with two important assgnments. The first was by the International Labour Organization (ILO), where she was invited to make the keynote address to the new ILO sessions opening in Geneva. The second was by the United Nations where she was invited to make the keynote address at the First UN International Conference on Women to be held in Mexico City, Mexico. She was also due to address The Group of 77 in Geneva.
+
+Manel Abeysekera of the Foreign Ministry and I, accompanied the Prime Minister. We had three major speeches to work on. We already had drafts ready, which were the result of much work and many refinements. But we had decided to finalize them in Geneva after two of our ablest diplomats, Susantha de Alwis and Karen Breckenridge perused them. Gamani Corea was to go through the Group of 77 speech in particular.
+
+...
+
+[Data](articles/55947d5e.json)
+
+[Extended Data](ext_articles/55947d5e.ext.json)
+
+---
+
+### The Dawn of a New Era
+
+*2024-11-25 13:36:00* · [`islandlk`](http://island.lk/the-dawn-of-a-new-era/) · `en`
+
+About 20 years ago, I used the same title, in a writing dealing with Mahinda Rajapaksa’s triumphant ascent to power, published in an issue of the Sunday Island. In that I expressed my deep apprehensions of a Rajapaksa dispensation. As the years unfolded, the grim realities of years of misrule, with the younger Rajapaksa outdoing the elder brother in criminality, corruption and incompetence, exceeded the worst fears of my imagination. In between, not to be forgotten, there was also the crushingly disappointing “yahapalanya” farce, perpetrated by the Sirisena-Wickremesinghe collaboration.
+
+...
+
+[Data](articles/660f2a21.json)
+
+[Extended Data](ext_articles/660f2a21.ext.json)
+
+---
+
 ### Controversy as the houses have been left without handing over
 
 *2024-11-25 13:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடுகளை-ஒப்படைக்காமல்-வெளியேறியதால்-சர்ச்சை/175-347728) · `ta`
@@ -153,6 +339,28 @@ Official residences at the Madiwale Housing Complex will be handed over to new M
 [Data](articles/d8e3ce36.json)
 
 [Extended Data](ext_articles/d8e3ce36.ext.json)
+
+---
+
+### என்னை கொலை செய்தால் ஜனாதிபதியை கொலை செய்வதற்கு ஆட்களையமர்த்தியுள்ளேன்  - பிலிப்பைன்ஸ் துணை ஜனாதிபதி தெரிவிப்பு
+
+*2024-11-25 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199627) · `ta`
+
+பிலிப்பைன்ஸ் துணை ஜனாதிபதி சரா டட்டெர்டே ஜனாதிபதி பேர்டினன்ட் மார்கோஸ் தன்னை கொலை செய்தால் அதன் பின்னர் அவரை கொலை செய்வதற்கு ஒருவரை நியமித்துள்ளதாக தெரிவித்துள்ளார்.
+
+தென்கிழக்காசியா நாட்டின் இரு முக்கிய அரசியல் குடும்பங்களிடையே மோதல் தீவிரமடைவதை வெளிப்படுத்தும் விதத்தில் கருத்து தெரிவித்துள்ள துணைஜனாதிபதி என்னை கொலை செய்தால் பிலிப்பைன்ஸ் ஜனாதிபதி அவரது மனைவி சபாநாயகர் ஆகியோரை கொலை செய்வதற்கு கொலைகாரன் ஒருவனை நியமித்துள்ளேன் என குறிப்பிட்டுள்ளார்.
+
+நான் ஒருவரிடம் பேசியுள்ளேன்,நான் கொலைசெய்யப்பட்டால், பிலிப்பைன்ஸ் ஜனாதிபதி அவரது மனைவி சபாநாயகர் ஆகியோரை கொலை செய்யுமாறு கேட்டுக்கொண்டுள்ளேன்,இது வேடிக்கையில்லை என அவர் குறிப்பிட்டுள்ளார்
+
+அவர்களை கொலை செய்யும்வரை ஓயவேண்டாம் என நான் கேட்டுக்கொண்டுள்ளேன் எனவும் அவர் தெரிவித்துள்ளார்.
+
+ஜனாதிபதியாக செயற்படுவது எப்படி என  தெரியாத ஒருவரால் பொய் சொல்பவரால் நாங்கள் நரகத்தை நோக்கி இழுத்துச்செல்லப்படுகின்றோம் என பிலிப்பைன்சின் துணை ஜனாதிபதி தெரிவித்துள்ளார்.
+
+இதேவேளை இந்த அச்சுறுத்தல்  குறித்து பாதுகாப்பு பேரவை ஆராயும் என அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ca89d275.json)
 
 ---
 
@@ -2087,209 +2295,5 @@ Chairman of Nawaloka Medicare (Pvt.) Ltd, Harshith Dharmadasa said, ” Over the
 [Data](articles/5cf0e3c7.json)
 
 [Extended Data](ext_articles/5cf0e3c7.ext.json)
-
----
-
-### Jonathan Alles joins Haycarb, Singer Boards
-
-*2024-11-25 02:37:04* · [`dailyftlk`](https://www.ft.lk/business/Jonathan-Alles-joins-Haycarb-Singer-Boards/34-769646) · `en`
-
-Ex-career banker Jonathan Alles has been appointed to the Boards of Haycarb PLC and Singer (Sri Lanka) PLC as an Independent Non-Executive Director.
-
-He currently serves as an Independent Non-Executive Director of Hayleys PLC, and serves on the Boards of United Motors Lanka PLC, Ceylon Beverage Holdings PLC and Lion Brewery Ceylon PLC.
-
-Alles was the Managing Director/CEO of Hatton National Bank PLC and counts over 37 years of banking experience, having served several international banks including the National Bank of Abu-Dhabi, Saudi British Bank-Riyadh, British Bank of the Middle-East and HSBC, Dubai and Colombo, before taking on the reins at HNB. He was a Director of the Sri Lanka Banks Association (SLBA) and its Chairman from 2014 to 2016. He served as Chairman of the Asian Bankers Association for three years from 2018 onwards, was a member of its Board of Directors and also served as the Chairman of its Advisory Committee.
-
-...
-
-[Data](articles/3a6a2c87.json)
-
-[Extended Data](ext_articles/3a6a2c87.ext.json)
-
----
-
-### FCCISL congratulates NPP; pledges support for economic and governance reforms
-
-*2024-11-25 02:34:38* · [`dailyftlk`](https://www.ft.lk/business/FCCISL-congratulates-NPP-pledges-support-for-economic-and-governance-reforms/34-769645) · `en`
-
-The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) has extended its congratulations to President Anura Kumara Dissanayake, newly appointed Prime Minister Dr. Harini Amarasuriya, and the members of the Cabinet on their recent appointments.
-
-In a statement, FCCISL acknowledged that the formation of the new Government, featuring a streamlined Cabinet of just 21 key portfolios, signals a commitment to efficiency and reform, marking the start of a transformative era for Sri Lanka.
-
-“This structure reflects a commitment to efficiency and streamlined administration. As the representatives of the nation’s vibrant business community, we are encouraged by the promises made by the National People’s Power (NPP) to foster good governance, transparency, and accountability,” it added.
-
-...
-
-[Data](articles/ac25c016.json)
-
-[Extended Data](ext_articles/ac25c016.ext.json)
-
----
-
-### Sri Lanka discusses investment cooperation with Bangladesh Investment Development Authority
-
-*2024-11-25 02:32:34* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-discusses-investment-cooperation-with-Bangladesh-Investment-Development-Authority/34-769644) · `en`
-
-BIDA Chairman Ashik Chowdhury (left) with High Commissioner of Sri Lanka to Bangladesh Dharmapala Weerakkody
-
-High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody accompanied by Counsellor / Commerce of the Embassy, Srimali Jayarathne held a productive meeting with the newly appointed Executive Chairman of the Bangladesh Investment Development Authority (BIDA) Ashik Chowdhury. The discussions were held on 14 November at the BIDA office in Dhaka.
-
-...
-
-[Data](articles/6856eff9.json)
-
-[Extended Data](ext_articles/6856eff9.ext.json)
-
----
-
-### Walton Hi-Tech and Monik Trading join forces to bring innovative home appliances to Sri Lanka
-
-*2024-11-25 02:30:09* · [`dailyftlk`](https://www.ft.lk/business/Walton-Hi-Tech-and-Monik-Trading-join-forces-to-bring-innovative-home-appliances-to-Sri-Lanka/34-769643) · `en`
-
-In a strategic move poised to transform Sri Lanka’s home appliance market, Walton Hi-Tech Industries, a leading global innovator in consumer electronics, has joined forces with Monik Trading Ltd., to bring innovative home appliances to Sri Lanka. The announcement was made during an event attended by prominent representatives from both companies and distinguished guests.
-
-Special attendees included Commercial Micro Credit Ltd., Assistant General Manager Samitha Priyadarshana, Monik Trading Ltd., Managing Director Wasala Maduwantha Ariyapala, Assistant General Manager Kasun Mahanama, Walton Additional Managing Director and CFO Ziaul Alam, Vice President of the Global Business Division Abdur Rouf.Deputy Company Secretary Enamul Haq, Monik CFO M. N. H. Nashwaq and High Commissioner of Bangladesh to Sri Lanka Andalib Elias.
-
-...
-
-[Data](articles/8b9ab8b0.json)
-
-[Extended Data](ext_articles/8b9ab8b0.ext.json)
-
----
-
-### Sri Lanka-Canada Business Council visits Canada
-
-*2024-11-25 02:25:47* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Canada-Business-Council-visits-Canada/34-769642) · `en`
-
-The High Commission of Sri Lanka in Ottawa and the Consulate General of Sri Lanka in Toronto facilitated a visit of a delegation from the Sri Lanka-Canada Business Council (SLCBC) of the Ceylon Chamber of Commerce headed by its President Priyantha Chandrasekara. The recent visit which covered Toronto, Ottawa, Montreal and Vancouver took place from 14 to 22 October.
-
-The nine-member delegation had constructive engagements with members of Canadian business chambers and entities, relevant government officials and academic institutions on strengthening bilateral trade and economic cooperation, attracting investment opportunities and capacity building programs.
-
-The visit provided an ideal platform for participants to explore opportunities in sectors such as education, smart agriculture, IT, tourism, and infrastructure, with a specific focus on Colombo Port City and the Kankesanthurai Industrial Processing Zone.
-
-...
-
-[Data](articles/4ec21a40.json)
-
-[Extended Data](ext_articles/4ec21a40.ext.json)
-
----
-
-### High Commission of Sri Lanka in the Maldives launches Sri Lanka Business Council
-
-*2024-11-25 02:25:08* · [`dailyftlk`](https://www.ft.lk/business/High-Commission-of-Sri-Lanka-in-the-Maldives-launchesSri-Lanka-Business-Council/34-769641) · `en`
-
-The Sri Lanka Business Council of the Maldives (SLBCM) was officially launched on 12 November, at Hotel Jen Malé.
-
-This initiative, conceptualised and spearheaded by High Commissioner of Sri Lanka to the Maldives Ranga Goonawardena, marks a major step forward in fostering stronger economic collaboration and unlocking new opportunities between Sri Lanka and the Maldives. The event was attended by Ministers, High Commissioners, Ambassadors, prominent Sri Lankan and Maldivian business leaders, Government officials, and other dignitaries.
-
-The Council is affiliated with the High Commission of Sri Lanka in the Maldives, underscoring its role as a key facilitator in strengthening trade, investment, and business relationships between the two countries.
-
-...
-
-[Data](articles/bf50d90b.json)
-
-[Extended Data](ext_articles/bf50d90b.ext.json)
-
----
-
-### How to cut the privileges of retired President and Members?
-
-*2024-11-25 01:53:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyd9w09xe4o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Retired presidents and MPs in Sri Lanka enjoy privileged benefits. Legal actions aim to reduce these perks. The Privileges and Facilities Act No. 4 of 1986 governs ex-presidents' entitlements. Controversy surrounds security personnel, medical care, and other benefits. Amendments to relevant laws could limit privileges.
-
-🟩
-
-The presentation of privileges to retirement presidents and MPs in Parliament should be austerity.
-
-The National Folk Force had pledged to the public of the presidential election that the privileges of retired presidents and MPs after they were tortured.
-
-The proposal to the Cabinet submitted to the Cabinet of the Prime Minister Anura Kumara Dissanayake was elected to the President.
-
-Accordingly, the Cabinet of Ministers Anura Kumara Dissanayake was appointed to decide the legal action taken to cut these privileges.
-
-How can retirement presidents, ministers and MPs have slashed privileges?
-
-This article discusses what legal status of it is.
-
-The Attorney General's Department High Court Sogalaretter General and President's Counsel Priyantha Nana Navana stated that the privileges of retired presidents have been entitled to the Treaty Act No. 4 of 1986.
-
-...
-
-[Data](articles/718fee95.json)
-
-[Extended Data](ext_articles/718fee95.ext.json)
-
----
-
-### Arugam Bay; hidden currents
-
-*2024-11-25 01:05:05* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-hidden-currents/4-769617) · `en`
-
-There has been growing public concern over the recent weeks, about happenings in Arugam Bay (AB). This analysis adds to the discourse.
-
-Democratic states are obliged to protect all people within its borders, whether citizens or non-citizens. Non-citizens include tourists on short stays, subject to the law of the land they visit.
-
-Informed sources report that Jewish places of prayer have been set up for Israeli tourists in AB. Though few would object to people at prayer, this raises a concern. Why would tourists on short stays want this, when they can pray in their rooms?
-
-A likely answer links two possibilities. Some of these tourists are here to stay longer and have been permitted to do so. And, the authorities have turned a blind eye to the construction or designation of a Jewish place of prayer for Israelis. The stringent regulations governing the establishment of new places of prayer or worship for our own citizens, makes this favour even more puzzling.
-
-...
-
-[Data](articles/de96dcbe.json)
-
-[Extended Data](ext_articles/de96dcbe.ext.json)
-
----
-
-### Israel and US stand isolated following increasing EU and Western support for ICC’s decision
-
-*2024-11-25 01:04:29* · [`dailyftlk`](https://www.ft.lk/columns/Israel-and-US-stand-isolated-following-increasing-EU-and-Western-support-for-ICC-s-decision/4-769616) · `en`
-
-Israel and its powerful backer the United States stand noticeably isolated in the global arena following 21 November’s arrest warrants issued unanimously by the International Criminal Court (ICC) on Israeli Prime Minister Benjamin Netanyahu and former Israeli Defence Minister Yoav Gallant, with increasing numbers of European powers declaring that the World Court’s decision ‘should be respected and implemented’.
-
-Apart from the European Union (EU), Britain, Canada, France, Portugal, Netherlands, Spain, Italy, Cyprus, Ireland, Finland, Czech Republic, Slovenia made public statements signalling that Netanyahu and Gallant will risk arrest if any of them entered their territories. Nearly 124 countries which have signed the Rome Statute establishing the United Nations (UN) mandated ICC are obliged to execute the warrant in their territories. The US, Israel and Sri Lanka are amongst countries which are not signatories to the Rome Statute so far.
-
-...
-
-[Data](articles/517af09b.json)
-
-[Extended Data](ext_articles/517af09b.ext.json)
-
----
-
-### ABC of AKD’s plans to handle the ‘Economy Stupid’
-
-*2024-11-25 00:56:06* · [`dailyftlk`](https://www.ft.lk/columns/ABC-of-AKD-s-plans-to-handle-the-Economy-Stupid/4-769614) · `en`
-
-In the Parliamentary election campaign, RW asked the voters not to send inexperienced people to Parliament and reiterated that only his team has the necessary experience. The results of both the Presidential and Parliamentary elections showed that RW had failed to convince the voters on this point, like the economy stupid slogan of the Clinton campaign. AKD, in his President’s address, disproved his critics. However, after the Presidential and Parliamentary elections, it is the economy stupid that is going to loom over Sri Lanka making it AKD’s biggest challenge
-
-...
-
-[Data](articles/67923067.json)
-
-[Extended Data](ext_articles/67923067.ext.json)
-
----
-
-### Testing AKD’s guts
-
-*2024-11-25 00:47:08* · [`dailyftlk`](https://www.ft.lk/columns/Testing-AKD-s-guts/4-769613) · `en`
-
-Give him a chance to accomplish his mandate. If he fails the country will end up in misery
-
-In both statements, PAKD diagnosed the historical Sri Lankan political landscape, fuelled by mistrust and division, and highlighted those affected groups on language, religion, culture, etc., and the isolation of such groups, whose equal rights, and identities were pruned in these processes. Now the regional electorate has placed confidence in PAKD and NPP, it is natural for the President to directly speak to the affected promising democratic governance and actions to massage their wounded hearts
-
-...
-
-[Data](articles/ecf52ae7.json)
-
-[Extended Data](ext_articles/ecf52ae7.ext.json)
 
 ---

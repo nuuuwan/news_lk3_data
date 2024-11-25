@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 18:23:05**
+As of **2024-11-25 17:43:39**
 
 ## Newspaper Stats
 
-*Scraped **56,815** Articles*
+*Scraped **56,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,137 +16,21 @@ islandlk | 3,406
 economynextcom | 3,445
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,347
-adaderanalk | 6,871
-tamilmirrorlk | 8,083
-virakesarilk | 9,256
-adaderanasinhalalk | 9,808
+adalk | 5,345
+adaderanalk | 6,869
+tamilmirrorlk | 8,080
+virakesarilk | 9,255
+adaderanasinhalalk | 9,803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,805 (100.0%) of 56,815 articles have been extended.
+56,802 (100.0%) of 56,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
-
-### Irregular human activities are the cause of natural disasters: the president
-
-*2024-11-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199636) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Human activities cause natural disasters, says Sri Lanka's President. He urges strengthening grassroots solutions and proper law implementation to reduce disaster management costs."
-
-🟩
-
-Strengthening of Disaster Management Company structures is not enough, and efforts must be made to create instructions to bring solutions to the grassroots level. President Anura Kumara Dissanayake said that the cause of natural disasters is not implemented despite the regulations at the institutional level.
-
-President Anura Kumara Dissanayake made these comments while joining the swearing -in ceremony of Defense Minister Aruna Jayasekara today (25).
-
-President Anuragumara Dissanayake said that it is not only to strengthen the company structures in disaster management and that efforts should be made to bring solutions to the bottom level.
-
-He also pointed out that new solutions should be provided to prevent disasters in areas that are threatened and threatened.
-
-He said that the disaster management legal systems have been prepared and that it is the responsibility of the authorities to implement the laws.
-
-...
-
-[Data](articles/54d55135.json)
-
-[Extended Data](ext_articles/54d55135.ext.json)
-
----
-
-### PM emphasizes importance of restoring parliamentary supremacy
-
-*2024-11-25 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103757/pm-emphasizes-importance-of-restoring-parliamentary-supremacy) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that in order to restore the Parliament as a supreme institution, which has faced public scorn and disapproval in the past, the Parliamentarians must act with the awareness that they are the representatives of the people.
-
-The Prime Minister made these remarks during the inaugural session of the awareness workshop on parliamentary procedures for new members of the Tenth Parliament, held this morning (25).
-
-In her address, Prime Minister Dr. Harini Amarasuriya congratulated the newly elected members of Parliament, stating:
-
-“I extend my congratulations to all of you who have been elected to serve as members of the Tenth Parliament. This Parliament holds a historic and special significance. We must approach our duties with a profound understanding of the responsibilities this institution entails.
-
-...
-
-[Data](articles/0f06028f.json)
-
-[Extended Data](ext_articles/0f06028f.ext.json)
-
----
-
-### Recovery as corpses from the Munakare pond
-
-*2024-11-25 17:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முனக்கரே-குளத்தில்-இருந்து-இருவரும்-சடலங்களாக-மீட்பு/175-347753) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Bodies of father (50) and daughter found in Negombo pond after fishing boat accident. Father and daughter were traveling with relatives when boat capsized due to strong currents.
-
-🟩
-
-The bodies of the father and daughter who disappeared in a small fishing boat in the Negombo pond have been found at the Negombo Munakare Sirivartanpura pond on Monday (25), the Negombo Headquarters said.
-
-Ranil Fernando (age 50), the father of two children, was unfortunately overthrown, and her eldest daughter Nalusha Nethmi Fernando died, police said.
-
-Father and daughter, with seven relatives from abroad, have traveled in a small fishing boat known as shrimp.
-
-However, the neighbors who saw the boat collapsed and saved the Catholic father and the four of them in this small boat, but could not find the father and daughter as the current increased the current.. The two have been recovered on Monday (25).
-
-◼️
-
-[Data](articles/bca4ddc2.json)
-
-[Extended Data](ext_articles/bca4ddc2.ext.json)
-
----
-
-### කාලගුණයෙන් රතු නිවේදනයක්
-
-*2024-11-25 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203723) · `si`
-
-දිවයින වටාවන ගැඹුරු හා නොගැඹුරු මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් රතු නිවේදනයක් නිකුත් කර තිබේ.
-
-අද (25) පස්වරු 04:00ට නිකුත් කරන ලද එම නිවේදයන හෙට (26) පස්වරු 04:00 දක්වා පැය 24 කාලයක් වලංගුවන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-නිරිත දිග බෙංගාල බොක්ක මුහුද ආශ්‍රිතව පැවති අඩුපීඩන කලාපය අද (25) උදෑසන මධ්‍යම නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිතව පීඩන අවපාතයක් දක්වා වර්ධනය වී ඇත.
-
-එම පද්ධතිය අද පෙ.ව 1130 පමණ වනවිට ත්‍රිකුණාමලය කී.මී. 530ක් පමණ එපිටින් ගිණිකොන දෙසින් පිහිටා තිබේ.
-
-එය ඉදිරි පැය 24 තුළදී වයඹ දෙසට ගමන් කර ගැඹුරු පීඩන අවපාතයක් දක්වා වර්ධනය වෙමින් දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව ගමන් කරනු ඇතැයි බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-එම පද්ධතියේ බලපෑම හේතුවෙන් දිවයිනේ උතුරු පළාතේ සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී.150ට වැඩි ඉතා තද වැසි ඇතිවිය හැකියි.
-
-...
-
-[Data](articles/62e5b66f.json)
-
----
-
-### විපක්ෂනායක පුටුවේ වාඩි වූ අර්චුනා සමාව අයැදියි
-
-*2024-11-25 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203722) · `si`
-
-10 වැනි පාර්ලිමේන්තුවේ මංගල සභාවාරයේදී විපක්ෂ නායක අසුනේ වාඩි වූ යාපනය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අර්චුනා රාමනාදන් එම සිදුවීම සම්බන්ධව සමාව අයැද තිබේ.
-
-නවක පාර්ලිමේන්තු මන්ත්‍රීවරුන් වෙනුවෙන් අද (25) පාර්ලිමේන්තුවේ පැවැති දැනුවත් කිරීමේ වැඩමුළුවේදී ඔහු මෙලෙස සමාව ඉල්ලා සිටියේය.
-
-"මම ඇහුවා මම කොතනද වාඩි වෙන්න ඕන කියලා. එතකොට කිව්වා අනිත් පැත්තට ගිහින් වාඩි වෙන්න කිසි අවුලක් නෑ ඩොක්ටර් ඕන තැනක වාඩි වෙන්න පුළුවන් කියලා. එතකොට අපි ඉස්සරහට ගිහින් වාඩි වුණා. අපි කැම්පස් ගිහින් පුරුදුයි.. අපි අත උස්සලා පාර්ලිමේන්තුවට ආවේ නෑ. මම හිතුවා මට ඕන තැනක ගිහින් වාඩි වෙන්න පුළුවන් කියලා. එතකොට මට හතරදෙනෙක් ඇවිල්ලා කතා කළා. මට ඇවිල්ලා කිව්වේ මේක විපක්ෂනායකවරයා හැමදාම වාඩිවෙන පුටුව කියලා. එතකොට මම හිතුවා අනිත් පුටුවක වාඩි වෙන්න පුළුවන් කියලා. මට කිසි හේතුවක් නෑ  8 වැනි පුටුවේ ගිහින් වාඩි වෙන්න.
-
-...
-
-[Data](articles/ccbb9500.json)
-
----
 
 ### Here is the decision taken at the IPL at the Auction of Viscan in Sri Lanka
 
@@ -210,20 +94,6 @@ The Public Utilities Commission has informed the Ceylon Electricity Board that t
 
 ---
 
-### අගමැතිවරියගෙන් නවක මන්ත්‍රීවරුන්ට පණිවුඩයක්
-
-*2024-11-25 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203721) · `si`
-
-පසුගිය කාලයේ ජනතාවගේ පිළිකුලට සහ අප්‍රසාදයට පත් වූ පාර්ලිමේන්තුව යළිත් උත්තරීතර ආයතනයක් බවට පත් කරන්නට නම් සියලු මන්ත්‍රීවරුන් තමන් මහජන නියෝජිතයින් බව සිහි තබාගෙන වැඩ කළයුතු යැයි අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවාය.
-
-දහවන පාර්ලිමේන්තුවේ නවක මන්ත්‍රීවරුන් වෙනුවෙන් පාර්ලිමේන්තු ක්‍රියාවලිය පිළිබඳ දැනුවත් කිරීමේ වැඩමුළුවේ සමාරම්භක අවස්ථාවට එක්වෙමින් අද (25) පෙරවරුවේ පාර්ලිමේන්තුවේදී  අග්‍රාමාත්‍යවරිය ඒ බව සඳහන් කළාය.
-
-...
-
-[Data](articles/237b132b.json)
-
----
-
 ### Final results in the scholarship examination
 
 *2024-11-25 16:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-இறுதி-முடிவு/175-347746) · `ta`
@@ -278,58 +148,6 @@ The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 
 
 ---
 
-### உ/த பரீட்சைக்கு எதிராக மனு
-
-*2024-11-25 16:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உ-த-பரீட்சைக்கு-எதிராக-மனு/150-347745) · `ta`
-
-தற்போது நடைபெற்றுக்கொண்டிருக்கும் கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையை நடத்துவதைத் தடுக்கும் இடைக்கால உத்தரவை பிறப்பிக்கக் கோரி மாணவியொருவர் தாக்கல் செய்த அடிப்படை உரிமை மீறல் மனுவை, டிசெம்பர் 12ஆம் திகதி ஆராய்வதற்கு உயர் நீதிமன்றம் திங்கட்கிழமை (25) தீர்மானித்துள்ளது.
-
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, முர்து பெர்னாண்டோ மற்றும் பிரியந்த பெர்ணாந்து ஆகியோர் அடங்கிய அமர்வு முன் இந்த மனு பரிசீலிக்கப்பட்டது.
-
-இந்த முறை கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சைக்கு தோற்றவுள்ள மாணவி ஹன்சனி அழககோன் தாக்கல் செய்த மனுவில் பரீட்சைகள் ஆணையாளர் நாயகம், கல்வி அமைச்சர் திருமதி ஹரிணி அமரசூரிய உள்ளிட்டோர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
-
-கல்விப் பொதுத் தராதர உயர்தரப் கல்விக்காலம், தொடர்பிலான  39/2023 சுற்றறிக்கையில் உயர்தரப் படிப்புக் காலம் 107 கல்வி நாட்களை நிறைவு செய்ய வேண்டும் எனத் தெளிவாகக் குறிப்பிடப்பட்டுள்ளதைச் சுட்டிக்காட்டிய மனுதாரரான மாணவி, இந்தக் கல்விக் காலத்துக்கு முன்னதாக உயர்தரப் பரீட்சையை நடத்துவதற்கான ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் அம்மனுவில் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/43cfcf4f.json)
-
----
-
-### CEB granted extension to submit electricity tariff revision proposal
-
-*2024-11-25 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103756/ceb-granted-extension-to-submit-electricity-tariff-revision-proposal) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) has granted the Ceylon Electricity Board (CEB) an extension of two weeks for electricity tariff revision submission until December 6, 2024.
-
-In a letter to the CEB, the PUCSL further stated that accordingly, considering time taken for tariff approval process according to the Sri Lanka Electricity Act of 2009, approved Tariff Methodology and Tariff Review Procedure Rules, the earliest possible date for tariff approval will be January 17, 2025.
-
-The PUCSL also mentioned that in case of failure to submit tariff proposal by December 6, 2024, the Commission will be compelled to implement the tariff revision clause of the Bulk Supply Transaction operational guideline to pass the positive balance of Bulk Supply Transaction Account to consumers.
-
-On Sunday (24), the PUCSL stated that there will be no revision of electricity tariffs for 2024, citing delays in the submission of necessary proposals by the CEB.
-
-...
-
-[Data](articles/d70da15e.json)
-
----
-
-### විදුලි ගාස්තු සංශෝධනය ප්‍රමාද වෙයි
-
-*2024-11-25 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203720) · `si`
-
-විදුලි ගාස්තු සංශෝධනය සඳහා යෝජනා ලබාදීම සඳහා ලංකා විදුලිබල මණ්ඩලයට 2024 දෙසැම්බර් 06 වනදා තෙක් කාලය ලබාදීමට මහජන උපයෝගිතා කොමිසම එකඟ වී තිබේ.
-
-ලංකා විදුලිබල මණ්ඩලය කළ ඉල්ලීමක් අනුව එම එකඟතාවය ලබාදීමට තීරණය කළ බව මහජන උපයෝගිතා කොමිසම නිවේදනයක් නිකුත්කරමින් පැවසීය.
-
-එබැවින් යෝජිත විදුලි ගාස්තු සංශෝධනය සඳහා අනුමැතිය ලබාදීමට හැකිවන්නේ 2025 ජනවාරි 17 වනදා වනවිට බව මහජන උපයෝගිතා කොමිසම, ලංකා විදුලිබල මණ්ඩලයට දැනුම්දී තිබේ.
-
-◼️
-
-[Data](articles/5a29a52e.json)
-
----
-
 ### Sri Lanka stocks close down on month end selling
 
 *2024-11-25 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-on-month-end-selling-189783/) · `en`
@@ -353,26 +171,6 @@ There was net foreign outflow of 142 million rupees. (Colombo/Nov25/2024)
 [Data](articles/d78e7e65.json)
 
 [Extended Data](ext_articles/d78e7e65.ext.json)
-
----
-
-### උසස් පෙළ විභාගය පැවැත්වීම අත්හිටුවන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
-
-*2024-11-25 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203719) · `si`
-
-මෙවර අපොස උසස් පෙළ විභාගය පැවැත්වීම වැළැක්වීමේ අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් සලකා බැලීම සඳහා දෙසැම්බර් මස 12 වන දා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (25) නියම කළේය.
-
-මෙම පෙත්සම අද අගවිනිසුරු ජයන්ත ජයසූරිය,  මුර්දු ප්‍රනාන්දු සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-පෙත්සම කැඳවූ අවස්ථාවේදී වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජෙනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා පැවසුවේ මෙම විභාගය අද දින පෙරවරුවේ ආරම්භ වූ බවය.
-
-පෙත්සම්කාර පාර්ශවය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ටිරන්ත වළලියද්ද මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම සංශෝධනය කොට කරුණු තහවුරු කිරීම සඳහා දිනයක් ලබාදෙන ලෙස ඉල්ලා සිටියේය.
-
-එම අවස්ථාවේදී  වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල්වරයා සඳහන් කළේ ඉදිරියේදී ගොනු කිරීමට නියමිත සංශෝධිත පෙත්සමට විරෝධතා ඉදිරිපත් කිරීමේ අයිතිය තමන් රඳවා ගන්නා බවය.
-
-...
-
-[Data](articles/24494a6d.json)
 
 ---
 
@@ -445,28 +243,6 @@ RELATED US DFC to lend US$553mn to JKH-Adani Sri Lanka terminal
 [Data](articles/5e179cbc.json)
 
 [Extended Data](ext_articles/5e179cbc.ext.json)
-
----
-
-### வழிமுறைகளை உருவாக்க முயற்சிகள் வேண்டும்
-
-*2024-11-25 16:12:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழிமுறைகளை-உருவாக்க-முயற்சிகள்-வேண்டும்/175-347742) · `ta`
-
-அனர்த்த முகாமைத்துவத்தில் நிறுவன கட்டமைப்புகளை வலுப்படுத்துவது மட்டும் போதாது, தீர்வுகளை அடி மட்டத்திற்கு கொண்டு வர முயற்சிகள் மேற்கொள்ளப்பட வேண்டும் என ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
-
-உள்ளூராட்சி நிறுவனங்களை பலப்படுத்தி அச்சுறுத்தல் உள்ள பிரதேசங்களில் ஏற்படும் அனர்த்தங்களை தடுப்பதற்கு புதிய தீர்வுகள் வழங்க வேண்டுமெனவும் ஜனாதிபதி சுட்டிக் காட்டினார்.
-
-பாதுகாப்பு பிரதியமைச்சர் அருண ஜயசேகர பதவியேற்பு நிகழ்வில் இணைந்து கொண்டு கருத்து தெரிவிக்கும் போதே  இதனை  திங்கட்கிழமை (25) தெரிவித்தார்.
-
-ஆய்வுகள் மேற்கொள்ளப்பட்டே அனர்த்த முகாமைத்துவ சட்ட முறைமைகள் தயாரிக்கப்பட்டுள்ளதாகவும், அந்த சட்டங்களை உரிய முறையில் நடைமுறைப்படுத்துவது அதிகாரிகளின் பொறுப்பாகும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
-
-அவ்வாறு பணியாற்றும் எந்தவொரு அதிகாரிக்காகவும் முன்னிற்பேன் எனவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தியுள்ளார்.
-
-அனர்த்த முகாமைத்துவம் தொடர்பான சட்ட கட்டமைப்பை வலுப்படுத்துவதற்கான முன்மொழிவுகளை சமர்ப்பிக்குமாறும் அரச ஊழியர்களிடம் ஜனாதிபதி கோரிக்கை விடுத்தார்.
-
-...
-
-[Data](articles/8b943f25.json)
 
 ---
 
@@ -566,24 +342,6 @@ Speaker Dr. Ashoka Ranwala, he was invited, the Most Venerable The Malwathu fact
 
 ---
 
-### රාජ්‍ය ණය කළමනාකරණ පනත බලාත්මක කරමින් ජනපතිගෙන් අති විශේෂ ගැසට්ටුවක්
-
-*2024-11-25 15:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ණය-කළමනාකරණ-පනත-බලාත්මක-කරමින්-ජනපතිගෙන්-අති-විශේෂ-ගැසට්ටුවක්/11-413257) · `si`
-
-පාර්ලිමේන්තුවේදී සංශෝධන සහිතව   සම්මත කර ඉකුත් ජුනි 18 දිනෙන් සටහන් කර තිබූ පනතක් වූ  2024 අංක 33 දරණ  රාජ්‍ය ණය කළමනාකරණ පනත අද (25) සිට බලාත්මක කර තිබේ.
-
-මෙම පනත බලාත්මක කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නොවැම්බර් 21 දාතමින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කෙරිණි .
-
-මෙම පනත රාජ්‍ය ණය ගැනීම, නිකුත් කිරීම සහ ණය සේවාකරණය,ඇපකර නිකුත් කිරීම,උප ණය දීම,සැපයුම්කරුගේ ණය ගිවිසුම් සහ මූල්‍ය කල්බදු ගිවිසුම් ඇතිකර ගැනීම  ඇතුළුව රාජ්‍ය ණය කළමනාකරණය කිරීම සඳහා බලය ලබාදීම පිණිසද ඊට සම්බන්ධ හෝ අනුෂාංගික කාරණා සඳහා විධි විධාන සැලැස්වීමට අදාළ  පනතකි.
-
-මෙකී නව  පනතින් අමාත්‍ය මණ්ඩලය මගින් පත් කරනු ලබන  අධ්‍යක්ෂ ජනරාල්වරයෙකුගේ ප්‍රධානත්වයෙන් යුත්  රාජ්‍ය ණය කළමනාකරණ කාර්යාලයක්  සහ සාමාජිකයන් අට දෙනෙකුගෙන් යුත්  රාජ්‍ය ණය සම්බන්ධීකරණ කමිටුවක් පිහිටුවීමටද   නියමිතව ඇත.
-
-◼️
-
-[Data](articles/59059dc8.json)
-
----
-
 ### “Don't go to the sea industry”
 
 *2024-11-25 15:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-தொழிலுக்குச்-செல்ல-வேண்டாம்/175-347739) · `ta`
@@ -665,22 +423,6 @@ However, the train traveling from Colombo Fort to Badulla has been running at pr
 [Data](articles/a4b393ae.json)
 
 [Extended Data](ext_articles/a4b393ae.ext.json)
-
----
-
-### නීති විරෝධි E-8 වීසා නිසා නීත්‍යානුකූල E-9 රැකියා අනතුරේ
-
-*2024-11-25 15:39:06* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධි-E-8-වීසා-නිසා-නීත්‍යානුකූල-E-9-රැකියා-අනතුරේ/11-413255) · `si`
-
-පසුගිය රජයේ අමාත්‍යවරයෙකු නීතිවිරෝධි අයුරින් අත්සන් කරන ලද E-8 වීසා ගිවිසුම නිසා වසර 20ට අධික කාලයක් පුරා විශාල ශ්‍රි ලාංකික තරුණ පිරිසකට හිමිවූ E-9 වීසා කාණ්ඩයේ රැකියා අහිමිවීමේ අවධානමක් ඇති වී තිබෙන බවත්, නීතිවිරෝධි වීසා බලපත්‍ර නීත්‍යානුකූල කිරීමට කිසිඳු හැකියාවක් නොමැති බවත් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා සඳහන් කරයි.
-
-එසේම පසුගිය සමයේ තමන් විසින් හෙළිකල ගුවන් ටිකට්පත් වංචාවට සම්බන්ධවූ පිරිස් තමන් විසින් ආරම්භ කර ඇති වංචා දූෂණ පිළිබඳව විමර්ශනය කිරීමේ වැඩපිළිවෙල කඩාකප්පල් කිරීම සඳහා මෙවැනි අරගල සිදුකරන බවත් සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
-
-දකුණු කොරියානු E-8 වීසා කාණ්ඩයේ සෘතුමය රැකියා සඳහා පුද්ගලික පාර්ශවයන්ට මුදල් ලබාදුන් පිරිස් බත්තරමුල්ල ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ප්‍රධාන කාර්යාලය ඉදිරිපිට සිදුකරන උද්ඝෝෂණ සම්බන්ධයෙන් මාධ්‍ය වෙත අදහස් දක්වමින් සභාපතිවරයා මේ බව ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/47977b16.json)
 
 ---
 
@@ -2409,5 +2151,315 @@ After Israel’s genocidal rampage in Gaza since 7 October 2023, which killed so
 [Data](articles/57932d0b.json)
 
 [Extended Data](ext_articles/57932d0b.ext.json)
+
+---
+
+### Thandi Workshop begins today
+
+*2024-11-25 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203704) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Thandi Workshop starts today for 10th Parliament MPs. Focuses on parliamentary traditions. Similar sessions planned for future parliaments."
+
+🟩
+
+The workshop for MPs of the 10th Parliament commences today (25).
+
+Members of Parliament are to be made aware of the parliamentary traditions.
+
+A similar workshops will be organized for MPs at the end of every parliamentarian.
+
+◼️
+
+[Data](articles/004e6a04.json)
+
+[Extended Data](ext_articles/004e6a04.ext.json)
+
+---
+
+### Kataragama invasants informit in Basnayake Nilame
+
+*2024-11-25 09:30:35* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-එන-බැතිමතුන්ට-බස්නායක-නිලමේගෙන්-දැනුම්-දිමක්/11-413248) · `si`
+
+Kataragama Basnayake Nilame Dhisnu Gunasekera calls for gem river due to reduced drumming from rains. Gemstock development increases in Kheelne. Devotees visit during school holidays. Beautiful gems observed during rain adaptation.
+
+🟩
+
+Dhisnu Gunasekera, Basnayake Nilame of the Ruhunu Maha Kataragama Devalaya, has called for the gem river, as the drumming of the Gem River has been reduced by the existing rains.
+
+According to Basnayake Nilame, the use of gemstock develops in Kheelne, which is now increasingly increasing due to the great rain.
+
+Devotees have come to the Kataragama city of Kataragama, taking the prevailing school holidays.
+
+Basnayake Nilame also adapted to the beautiful gems to watch the beautiful gems and the Water the Basnayake Nilame also adapted to rain.
+
+◼️
+
+[Data](articles/cc17606d.json)
+
+[Extended Data](ext_articles/cc17606d.ext.json)
+
+---
+
+### Police announcement on traffic restrictions on Badulla-Bibile Road
+
+*2024-11-25 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103738/police-announcement-on-traffic-restrictions-on-badulla-bibile-road) · `en`
+
+Sri Lanka police have issued a announcement regarding the restriction of vehicular movement in the stretch of road between the 143rd and 144th kilometer posts on the Badulla-Bibile Road in the Passara police division.
+
+The road will remain open for traffic from 6:30 a.m. to 6:00 p.m. today (25), and will be closed from 6:00 p.m. to 6:00 a.m. tomorrow (26).
+
+Traffic restrictions were initially imposed on November 18, 2024, following an earthslip in the area.
+
+The site was inspected by the Executive Engineer of the National Building Research Organisation (NBRO) and the Road Development Authority (RDA) yesterday (24).
+
+Police further stated that the opening hours of the road may vary depending on weather conditions. Officers from the Passara Police Station have been deployed to manage security and traffic at the site.
+
+◼️
+
+[Data](articles/5c257b8b.json)
+
+[Extended Data](ext_articles/5c257b8b.ext.json)
+
+---
+
+### Father and daughter drowned in Negombo
+
+*2024-11-25 09:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்கொழும்பு-களப்பில்-தந்தையும்-மகளும்-மூழ்கினர்/175-347712) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Negombo: Father (50) and daughter (20) drown in boat collision. 5 survive out of 7. 2 critically injured, 3 treated and discharged. Police investigation ongoing.
+
+🟩
+
+Two people have been drowned in a collision with a boat collision in the Negombo front pair.
+
+Five of them survived with 7 people drowned.
+
+A 50 -year -old father and a 20 -year -old daughter have been drowned, police said.
+
+Two of the five survivors are being treated at the hospital. The other three have been treated and left the hospital.
+
+◼️
+
+[Data](articles/0110e72e.json)
+
+[Extended Data](ext_articles/0110e72e.ext.json)
+
+---
+
+### Two injured in a circular accident
+
+*2024-11-25 09:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வட்டவளை-விபத்தில்-இருவருக்கு-காயம்/76-347711) · `ta`
+
+Accident summary: Two injured as private bus collides with EBS bus on Hatton-Colombo road. Four people hurt, bus damaged. Police investigating slippery road conditions.
+
+🟩
+
+Four people were injured in an accident at 6.40 am this morning at the Carolina estate in Vattawala on the Hatton -Colombo main road.
+
+The Vattawala police said that a private bus that was traveling in the opposite direction collided with the EBS bus.
+
+The bus was traveling from Ginigathena to Hatton and a private bus from Hatton to Kandy.
+
+Police say the condition of the four injured in the accident is not worrisome and the Hatton Colombo main road and some other roads are slippery.
+
+Private buses were severely damaged in the accident and the Vattawala police are conducting further investigations into the accident.. Remble
+
+◼️
+
+[Data](articles/02939dd3.json)
+
+[Extended Data](ext_articles/02939dd3.ext.json)
+
+---
+
+### Two injured in a circular accident
+
+*2024-11-25 09:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டவளை-விபத்தில்-இருவருக்கு-காயம்/175-347711) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"2 injured in bus crash near Hatton-Vattawala. Accident occurred at 6 AM while bus traveled from Attan to Kandil. Vehicle collision reported."
+
+🟩
+
+Two persons have been admitted to hospital in a bus accident in the Hatton - Vattawala area.
+
+The accident, which took place at 6 am this morning, was traveling from Attan to Kandil. The bus collided.
+
+◼️
+
+[Data](articles/f55c0580.json)
+
+[Extended Data](ext_articles/f55c0580.ext.json)
+
+---
+
+### Haris pause
+
+*2024-11-25 09:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரீஸ்-இடைநிறுத்தம்/175-347710) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Haris, former MP, suspended from Sri Lanka Muslim Congress. Key points: Haris was a member of parliament; He has been removed from his position in the party; The suspension likely stems from controversial actions or statements made by Haris while in office."
+
+🟩
+
+Former MP Haris suspended from Sri Lanka Muslim Congress
+
+◼️
+
+[Data](articles/a2cec773.json)
+
+[Extended Data](ext_articles/a2cec773.ext.json)
+
+---
+
+### Four injured in Watawala bus collision
+
+*2024-11-25 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103737/four-injured-in-watawala-bus-collision) · `en`
+
+A private passenger bus has collided head-on with a Sri Lanka Transport Board (SLTB) bus this morning (25) in Watawala.
+
+Four individuals sustained injuries in the accident, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/ed2ac54b.json)
+
+[Extended Data](ext_articles/ed2ac54b.ext.json)
+
+---
+
+### What is the current state of the windmill?
+
+*2024-11-25 08:45:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றழுத்த-தாழ்வு-மண்டலத்தின்-தற்போதைய-நிலை-என்ன/175-347709) · `ta`
+
+Windmill status: Southeast 500km from Batticaloa. Expected to intensify, move along east coast. Heavy cloud cover, showers/thunderstorms forecasted for northern, eastern regions. Potential for over 150mm rainfall in some areas. Strong winds predicted. Public advised to take precautions against lightning and gusts.
+
+🟩
+
+At around 02.30 am this morning, the windmill is located in the southeast about 500 km from Batticaloa.
+
+The Department of Meteorology has announced that the low -lying low -lying area in the southwestern Bengal Sea is likely to be a windmill in the Central South Bengal Sea this morning.
+
+At around 02.30 am, the organization is located in the southeast about 500 km from Batticaloa.
+
+It is believed that the system will continue to grow and travel near the east coast of the country.
+
+Due to the impact of this organization, the sky may be heavy with clouds in many parts of the country.
+
+Showers or thunderstorms will occur in the North, North Central, Eastern, Central and Uva provinces and Hambantota district.
+
+Widespread rain or thunderstorm in the other parts of the country in the evening or night. .
+
+Showers or thunderstorms can occur in the morning in the upper and northwestern coast.
+
+In some places in the Eastern Province, more than 150 millimeters of heavy rainfall. .
+
+...
+
+[Data](articles/1acbeac5.json)
+
+[Extended Data](ext_articles/1acbeac5.ext.json)
+
+---
+
+### 2024 A/L examination begins today
+
+*2024-11-25 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103736/2024-al-examination-begins-today-) · `en`
+
+The 2024 G.C.E. Advanced Level (A/L) examination is scheduled to commence from today (25).
+
+The examination will be conducted over a period of 22 days, concluding on December 20. A total of 333,185 candidates are expected to sit for the examination this year.
+
+The examination is set to commence at 8:30 a.m.  and the Commissioner General of Examinations, Amith Jayasundara, has requested all candidates to report to their respective examination centers with a valid form of identification well in advance.
+
+“Candidates must bring a valid identity card to the examination center. For this purpose, a national identity card issued by the Department of Registration of Persons, a valid foreign passport, or a valid driver’s license will be accepted as proof of identity,” he stated.
+
+...
+
+[Data](articles/316af91c.json)
+
+[Extended Data](ext_articles/316af91c.ext.json)
+
+---
+
+### A horrible bus accident
+
+*2024-11-25 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203703) · `si`
+
+Horrible bus accident: Private & SLTB buses collided in Wathwala. Four injured.
+
+🟩
+
+A private bus and a SLTB bus collided in the Wathwala area this morning (25).
+
+The Ada Derana reporter said four persons were injured in the accident.
+
+◼️
+
+[Data](articles/d572e79a.json)
+
+[Extended Data](ext_articles/d572e79a.ext.json)
+
+---
+
+### Heavy showers above 150 mm expected in parts of the island
+
+*2024-11-25 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103735/heavy-showers-above-150-mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the low pressure area over the southwest Bay of Bengal is likely to intensify into a depression over the central-southwest Bay of Bengal by today morning.
+
+The system is located about 500 km southeast of Batticaloa at around 0230 this morning.The system is expected to further develop and move closer to the east coast of the island.
+
+Cloudy skies are expected over most parts of the island due to the influence of this system, it added.
+
+Meanwhile, showers or thundershowers will occur at times in the Northern, North-central, Eastern, Central and Uva provinces and in Hambantota district.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Showers or thundershowers may occur over the coastal areas of Western and North-western provinces during the morning too, according to the department.
+
+...
+
+[Data](articles/717a73ae.json)
+
+[Extended Data](ext_articles/717a73ae.ext.json)
+
+---
+
+### Roads will be launched in Badulla Bibile
+
+*2024-11-25 08:01:37* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-බිබිල-මාර්ගයේ-රථවාහන-ගමනය-සිමා-කරයි/11-413247) · `si`
+
+Badulla-Bibile roads opening soon. Traffic halted due to road collapse between km 143-144. NBRO engineers inspecting. Limited travel window 6:30 AM to 6 PM daily. Weather may alter schedule. Police monitoring situation.
+
+🟩
+
+The traffic on the road was stopped due to the collapse of the road in the area between 143 and 144 kshed in the Passara Police Division.
+
+However, the executive engineer of the National Building Research Institute and the Road Development Authority (NBRO) has been inspected.
+
+Accordingly, up to 6 00 am today (6:30) and 6 00 psees have been given the opportunity to journey from 6:30 am today. However, the traffic is to be stopped again from 6.00 pm to 6.00 pm.
+
+The police spokesman's office said that the prevailing weather conditions could change the time period of the traffic and the police have been employed in duty to the site.
+
+◼️
+
+[Data](articles/9f318870.json)
+
+[Extended Data](ext_articles/9f318870.ext.json)
 
 ---

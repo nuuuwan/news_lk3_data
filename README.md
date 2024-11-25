@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 11:42:50**
+As of **2024-11-25 12:17:31**
 
 ## Newspaper Stats
 
-*Scraped **56,729** Articles*
+*Scraped **56,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 436
 colombotelegraphcom | 575
 bbccomsinhala | 589
 islandlk | 3,405
-economynextcom | 3,436
+economynextcom | 3,437
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,336
+adalk | 5,337
 adaderanalk | 6,858
-tamilmirrorlk | 8,062
+tamilmirrorlk | 8,064
 virakesarilk | 9,244
 adaderanasinhalalk | 9,791
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,791
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,725 (100.0%) of 56,729 articles have been extended.
+56,731 (100.0%) of 56,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### ருகுணுவுக்கு தகுதிவாய்ந்த அதிகாரி நியமனம்
+
+*2024-11-25 12:02:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருகுணுவுக்கு-தகுதிவாய்ந்த-அதிகாரி-நியமனம்/175-347724) · `ta`
+
+பிரதமர் கலாநிதி ஹரிணி அமரசூரிய கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சராக 1978 ஆம் ஆண்டு 16 ஆம் இலக்க பல்கலைக்கழக சட்டத்தின் 20 (4) (ஆ) பிரிவின்படி வழங்கப்பட்டுள்ள அதிகாரங்களின் அடிப்படையில் ருஹுணு பல்கலைகழகத்தின் நிர்வாக நடவடிக்கைகளை தொடர்ந்து முன்னெடுப்பதற்கு 25.11.2024 இன்று  பல்கலைக்கழகத்தின் துணைவேந்தருக்குப் பதிலாக இன்று முதல் மூத்த பேராசிரியர் ஆர்.எம்.யு.எஸ்.கே. ரத்நாயக்க நியமிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0974f74e.json)
+
+---
+
+### Initiality for MPs
+
+*2024-11-25 11:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கான-செயலமர்வு-ஆரம்பம்/175-347723) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New MPs orientation Nov 25-27, 9:30pm-4:30pm. Workshop covers roles, privileges, legislative activities, committees, constitution arrangements. Includes bribery investigation commission and Parliament Affairs Division roles. Department leaders explain member contributions.
+
+🟩
+
+The Differential Meeting of the New Members selected for the Tenth Parliament will be held on November 25, 26, 26 and 27 from 9.30 pm to 4.30 pm.
+
+The Diverse Convention Workshop has been organized as a formal step in the beginning of the new Parliament.
+
+Monday 25th Monday. Prime Minister Harini Amarasuriya, Hon. Hon. Jayatissa,The Secretary General of Parliament, the Deputy Secretary General and the Assistant Secretary General will attend.
+
+During this three -day workshop, appropriate measures have been taken to raise awareness about the role of parliamentarians, parliamentary privileges, legislative activities of parliament, parliamentary committee system, parliamentary stances and arrangements of the constitution.
+
+In addition, the Commission to Investigate the Bribery or Corruption of Corruption Act and the role of the Parliamentary Affairs Division of the Parliamentary Affairs Division of the Ministry of Public Safety and the Parliamentary Affairs Ministry.
+
+...
+
+[Data](articles/0084f777.json)
+
+[Extended Data](ext_articles/0084f777.ext.json)
+
+---
 
 ### Election Commission gears up for LG polls
 
@@ -51,6 +93,32 @@ A final decision on funding is expected after discussions, with the government a
 ◼️
 
 [Data](articles/ad695819.json)
+
+[Extended Data](ext_articles/ad695819.ext.json)
+
+---
+
+### Sri Lanka should not suppress call rates through OMO if market is so dysfunctional
+
+*2024-11-25 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-suppress-call-rates-through-omo-if-market-is-so-dysfunctional-189613/) · `en`
+
+ECONOMYNEXT – Sri Lanka is just emerging from a default after large volumes of money were printed to target a narrow policy rate, in the pursuit of instant growth (potential output) and denying monetary stability to the people.
+
+From 2015 in particular Sri Lanka very narrowly targeted a policy rate despite being a reserve collecting central bank.
+
+Targeting a mid-corridor rate is the same as printing money to maintain a single policy rate. The label is different but the required inflationism is the same.
+
+The same consequences of targeting a mid-corridor rate in 2015 and especially 2018 when the budget deficit was brought down.
+
+If the call money rate is so dysfunctional as claimed in a recent defence of money printing through OMO, it should obviously not be used as the operating target for monetary policy at all.
+
+Since the end of the war the central bank has cut rates around 18 to 20 months after a currency crisis, just as private credit recovered and triggered a currency crisis.
+
+...
+
+[Data](articles/c2ad2789.json)
+
+[Extended Data](ext_articles/c2ad2789.ext.json)
 
 ---
 
@@ -158,6 +226,8 @@ Additionally, he added that the program acts as a guarantor to the international
 
 [Data](articles/3eb54ac1.json)
 
+[Extended Data](ext_articles/3eb54ac1.ext.json)
+
 ---
 
 ### Speaker's decision to discuss with Archana
@@ -243,6 +313,8 @@ The inaugural session of the 10th Parliament, consisting of members elected thro
 ◼️
 
 [Data](articles/b64ff26b.json)
+
+[Extended Data](ext_articles/b64ff26b.ext.json)
 
 ---
 
@@ -2283,67 +2355,5 @@ The event was attended by Trincomalee District Parliamentarian Shanmugam Kukadas
 [Data](articles/a537eebe.json)
 
 [Extended Data](ext_articles/a537eebe.ext.json)
-
----
-
-### Crisis in the north of the new Fisheries Minister
-
-*2024-11-24 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199564) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Indian fishermen in northern Sri Lanka use prohibited fishing gear. They enter Vadapula seas, violating national borders. This is India's responsibility, not the central or state government's.
-
-🟩
-
-Indian fishermen in the north of Sri Lanka and Indian waters are important to fishing and using prohibited drag folds. Fishermen coming into the Vadapula seas in violation of the border of the country. These are the responsibility of the Government of India, not the central government and the state government.
-
-◼️
-
-[Data](articles/a4ee870c.json)
-
-[Extended Data](ext_articles/a4ee870c.ext.json)
-
----
-
-### New government boycotts minorities!
-
-*2024-11-24 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199563) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New government excludes minorities from cabinet, sparking concerns about equality and representation. President vows equal treatment despite controversial appointments. Left-wing critics argue against divisive cabinet composition.
-
-🟩
-
-A cabinet that does not include Muslims has been set up as a challenging issue for nationality and equality. Whatever the president claims to see all the races and territories with equality, it has become a cabinet formed to wedge the left -wing ideas.
-
-◼️
-
-[Data](articles/e72aa485.json)
-
-[Extended Data](ext_articles/e72aa485.ext.json)
-
----
-
-### Fisheries Faculty in Mannar
-
-*2024-11-24 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199561) · `ta`
-
-A new Fisheries Faculty is set to launch in Mannar under the University of Vavuniya. This comes as a disappointment, as an open university branch already operates in Mannar without a full-fledged faculty establishment.
-
-🟩
-
-Reports have surfaced that a Fisheries Faculty in Mannar District will be launched under the University of Vavuniya. It is a tragic news that although a branch of an open university in Mannar is operating, it has not yet been launched in Mannar district in Mannar district.
-
-◼️
-
-[Data](articles/1fbebaf9.json)
-
-[Extended Data](ext_articles/1fbebaf9.ext.json)
 
 ---

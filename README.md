@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 06:47:36**
+As of **2024-11-25 07:30:24**
 
 ## Newspaper Stats
 
-*Scraped **56,689** Articles*
+*Scraped **56,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,901
 dailymirrorlk | 4,733
 adalk | 5,328
 adaderanalk | 6,850
-tamilmirrorlk | 8,050
+tamilmirrorlk | 8,052
 virakesarilk | 9,244
 adaderanasinhalalk | 9,785
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 9,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,683 (100.0%) of 56,689 articles have been extended.
+56,683 (100.0%) of 56,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### இன்று வலுவடையும் தாழமுக்கம்
+
+*2024-11-25 06:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வலுவடையும்-தாழமுக்கம்/175-347706) · `ta`
+
+வங்காள விரிகுடாவின் தென்கிழக்கு கடற்பிராந்தியத்தில் உருவாகியுள்ள தாழமுக்கமானது இன்று வலுவடைந்து நாட்டின் வடக்கு கடற்பிராந்தியம் நோக்கி நகரும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+இதனால் நாட்டின் கிழக்கு மாகாணத்தின் சில பிரதேசங்களில் 150 மில்லி மீற்றர் வரையிலான பலத்த மழை பெய்யுமென திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+மன்னார் முதல் காங்கேசன்துறை, திருகொணமலை, மட்டக்களப்பு, பொத்துவில் ஊடாக அம்பாந்தோட்டை வரையிலான கடற்பிராந்தியத்தில் மணித்தியாலத்திற்கு 60 முதல் 70 கிலோ மீற்றர் வேகத்தில் காற்று வீசக்கூடும் என எதிர்வுகூறப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/318f078b.json)
+
+---
+
+### பிரித்தானியாவில் வெள்ள அபாய எச்சரிக்கை
+
+*2024-11-25 06:42:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரித்தானியாவில்-வெள்ள-அபாய-எச்சரிக்கை/50-347705) · `ta`
+
+பெர்ட் புயல் பிரித்தானியாவை தாக்கியுள்ள நிலையில் பல்வேறு பகுதிகளில் வீடுகள் மற்றும் வீதிகள் வெள்ளத்தில் மூழ்கியுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+இந்தநிலையில், பிரித்தானியா முழுவதும் 400 இடங்களுக்கு வெள்ள அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+அத்துடன், ஸ்கொட்லாந்து, வேல்ஸின் மேற்கு பகுதிகள், தென்கிழக்கு பிரித்தானியா மற்றும் வடக்கு அயர்லாந்தில் பலத்த காற்றுடனான மழைவீpழ்ச்சி பதிவாகக் கூடுமென எதிர்வு கூறப்பட்டுள்ளது.
+
+பலத்த காற்று வீசுவதன் காரணமாக பல்வேறு பகுதிகளில் போக்குவரத்து சேவைகளுக்கு இடையூறு ஏற்படுவதற்கு வாய்ப்புள்ளதாக அந்த நாட்டு வானிலை ஆய்வு மையம் எச்சரிக்கை விடுத்துள்ளது.  (a)
+
+◼️
+
+[Data](articles/41f99ab9.json)
+
+---
 
 ### President says State employees must dedicate to building nation that fulfils people’s aspirations
 
@@ -2257,63 +2291,5 @@ Mitchell St. The player is Mitchell St. 2024, he sold India at auction at Rs.
 [Data](articles/facb5dae.json)
 
 [Extended Data](ext_articles/facb5dae.ext.json)
-
----
-
-### A IPL report from Iier
-
-*2024-11-24 16:27:36* · [`adalk`](https://www.ada.lk/sports/අයියර්ගෙන්-IPL-වාර්තාවක්/9-413235) · `si`
-
-Here's a summary of the IPL report in 200 characters:
-
-
-
-Indian player sold at highest price in IPL auction. Purchased by Kings XI Punjab for ₹X. Basic bid of ₹Y. Earlier, most expensive player bought by KKR for ₹Z.
-
-🟩
-
-The Indian player was among the largest prices sold at the Indian Premier League Cricket Tournament.
-
-He was purchased by the Kings Electronic Parjab for Rs.
-
-He was submitted to the athletes this year under a basic bid of the Indian rupees. Earlier in a large price player at an Indian League auction was to buy Australian Midkata Knight Riders at a price of Rs.
-
-◼️
-
-[Data](articles/23e31a61.json)
-
-[Extended Data](ext_articles/23e31a61.ext.json)
-
----
-
-### Indians who went to Canada through Sri Lanka
-
-*2024-11-24 16:04:59* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-හරහා-කැනඩාවට-යන්න-ගිය-ඉන්දියානුවන්ට-වැඩ-වරදියි/11-413233) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Indian girls arrested in Sri Lanka for attempting to reach Canada via fake passport. One was 24 from Gujarat, Mumbai. Passport found to be stolen. Further investigation ongoing.
-
-🟩
-
-Two Indian girl, including an Indian girl, was arrested by a Indian girl, who was attempting to flee to Canada across Sri Lanka through a passport in the unstable document.
-
-She was 24-year-old resident of Gujarat, Ahmedabad, a resident of Mumbai, India, India, India, India's 231.
-
-She then obtained the visa to enter Sri Lanka and handed over to the immigration window, including her passport and other documents.
-
-It was revealed that her Indian national passport was mentioned in the unstable and stolen data document.
-
-Later, she was sent to the main immigration officer with these documents, and he was inquired from the Colombo Criminal Investigation Department, the National Central Bureau of the National Central Bureau.
-
-The Indian national girl, the Indian national girl, has been forwarded to the Borderness of the Department of Immigration and Emigration.It has been revealed that missing is missing.
-
-...
-
-[Data](articles/63585c5f.json)
-
-[Extended Data](ext_articles/63585c5f.ext.json)
 
 ---

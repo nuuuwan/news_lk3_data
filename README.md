@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 19:02:25**
+As of **2024-11-25 19:42:43**
 
 ## Newspaper Stats
 
-*Scraped **56,822** Articles*
+*Scraped **56,826** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 436
 colombotelegraphcom | 577
-bbccomsinhala | 590
+bbccomsinhala | 591
 islandlk | 3,406
 economynextcom | 3,445
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,348
+adalk | 5,350
 adaderanalk | 6,872
-tamilmirrorlk | 8,087
+tamilmirrorlk | 8,088
 virakesarilk | 9,256
 adaderanasinhalalk | 9,808
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,817 (100.0%) of 56,822 articles have been extended.
+56,825 (100.0%) of 56,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
+
+### Archana paid tribute to Prabhakaran
+
+*2024-11-25 18:41:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனுக்கு-அஞ்சலி-செலுத்தினார்-அர்ச்சுனா/175-347760) · `ta`
+
+Archana Ramanathan, Jaffna MP, paid tribute to LTTE leader Velupillai Prabhakaran, calling him her god. She revealed her father was a Sri Lankan police officer who joined LTTE in 1987 after the 1983 riots. Archana claims Prabhakaran was against the Sinhalese government, not the people.
+
+🟩
+
+Jaffna District Independent MP Archana Ramanathan paid tribute to LTTE leader Velupillai Prabhakaran claiming Prabhakaran as his God.
+
+He has released a live video and said his father was a former police officer of the Sri Lankan government and he joined the LTTE in 1987.
+
+“My father is a police officer of the Sri Lankan government. He worked everywhere in the country. After the 1983 riots, he went to Jaffna and launched a liberation journey against the government as the racist attacks were carried out. ”
+
+“We are not racists. We are Sri Lankan Tamils. We recall the lives of the deaths this month. My God Prabhakaran has said that I am not against the Sinhalese people and is only against the Sinhalese government that killed us, ”MP Archana said.
+
+◼️
+
+[Data](articles/34124a16.json)
+
+[Extended Data](ext_articles/34124a16.ext.json)
+
+---
 
 ### Red alert to some provinces
 
@@ -114,17 +138,29 @@ He added that 162 of the 225 MPs were newly elected members and this significant
 
 ---
 
-### සුජීවගේ සුපිරි රිය මුදා හරියි
+### Sujeewa's Superway released
 
 *2024-11-25 18:11:02* · [`adalk`](https://www.ada.lk/breaking_news/සුජීවගේ-සුපිරි-රිය-මුදා-හරියි/11-413266) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවා තිබූ සමගි ජන බලවේගයේ ජාතික සංවිධායක සුජීව සේනසිංහ මහතාට අයත් නීති විරෝධීව එකලස් කළා යැයි කියන රුපියල් කෝටි 10 ක් වටිනා වී8 සුඛෝපභෝගී මෝටර් රථය රුපියල් මිලියන 100 ක් වටිනා බැඳුම්කරයක් මත මුදාහැරීමට කොටුව මහේස්ත්‍රාත් තනුජා ලක්මාලි මහත්මිය අද (25) නියෝග කළාය.
+Sujeewa Senasinghe's Superway case: Fort Magistrate orders release of vehicle, citing Government Analyst's report and parliamentary privileges.
 
-මෙම වී8 සුඛෝපභෝගී මෝටර් රථයට අදාළ රස පරීක්ෂක වාර්තාව අධිකරණයට ඉදිරිපත් කළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් ප්‍රශ්නගත මෝටර් රථයේ එන්ජිම පරික්ෂා කිරීමට අවශ්‍ය නම් එය ගලවා ඉදිරිපත් කරන ලෙස රජයේ රස පරීක්ෂවරයා දැනුම් දී ඇතැයිද ඒ හැර රස පරීක්‍ෂක වාර්තාවේ වෙනත් ගැටලු සහගත තත්වයක් නොමැති බවට කළ දැනුම් දීමක් සැළකිල්ලට ගත් මහෙස්ත්‍රාත්වරිය එලෙස නියම කළාය.
+🟩
+
+Fort Magistrate Tanuja Lakmali ordered the National Organizer of the Criminal Investigation Sujeewa Senasinghe.
+
+The Government Analyst's report of the Criminal Investigation Department (CID) The Government Analyst had informed the rescue of the Government Analyst if the officials of the Criminal Investigator of the Criminal Investigator.The Magistrate, who made the magazine ordered.
+
+The CID kept the questionable vehicle was imported to Sri Lanka in the year 2014, he was imported to Sri Lanka in 2010 and had been imported from the parliamentary privileges.He also stated that Senasinghe has bought the vehicle for 8 million.
+
+The CID officers informed that the investigation had been changed, including several parts, including the vehicle lamp.
+
+President's Counsel Maithree Gunaratne appearing on behalf of Mr. Sujeewa Senasinghe has not revealed the vehicle that this vehicle is not assembled by the Government Analyst's report, as the vehicle is not released on a bond.
 
 ...
 
 [Data](articles/bd29a31b.json)
+
+[Extended Data](ext_articles/bd29a31b.ext.json)
 
 ---
 
@@ -141,6 +177,8 @@ He elaborated: “I asked where I should sit, and they said there was no issue w
 ...
 
 [Data](articles/5faf508c.json)
+
+[Extended Data](ext_articles/5faf508c.ext.json)
 
 ---
 
@@ -321,6 +359,30 @@ Sri Lanka's 2625 athletes was presented today (25).
 [Data](articles/1962667c.json)
 
 [Extended Data](ext_articles/1962667c.ext.json)
+
+---
+
+### US $ 200 million loan from Sri Lanka
+
+*2024-11-25 16:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-සංවර්ධන-බැංකුවෙන්-ලංකාවට-ඩොලර්-මිලියන-200ක-ණයක්/11-413259) · `si`
+
+Asian Development Bank approves $200m loan for Sri Lanka's electricity sector infrastructure improvement. Funds to enhance financial sustainability, transmission networks, and promote renewable energy integration. Project aims to strengthen Ceylon Electricity Board and Lanka Electricity Company, focusing on digital solutions and women's empowerment in clean energy.
+
+🟩
+
+The Asian Development Bank (ADB) has approved a US $ 200 million loan to facilitate improving the infrastructure, transmission and distribution networks on the infrastructure of electricity sector in Sri Lanka.
+
+Increase financial sustainability, costing amendment fee, certifying the significant progress that Sri Lanka has been proceded to proceed with the amendment of competitive renewable energy and the approval of this project.
+
+Infrastructure Improvement is continuous on these reforms and improves their crucial role in renewable energy integration and improves the entire performance of the sector.
+
+The project will strengthen the Ceylon Electricity Board (CEB) and Lanka Electricity Company (LECO) establishment of corporate capacity - the only utilities responsible for the final consumers. This project will improve the digital solutions to combine and manage the renewable energy systems, adopt digital solutions and improve the capacity of solar installations in the roof.
+
+...
+
+[Data](articles/da4b62b6.json)
+
+[Extended Data](ext_articles/da4b62b6.ext.json)
 
 ---
 
@@ -678,6 +740,32 @@ The President added that the government spends too much for disaster management 
 
 ---
 
+### Many tanks in Moneragala district spill
+
+*2024-11-25 16:09:25* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-දිස්ත්‍රික්කයේ-වැව්-රැසක්-වාන්-දමයි/11-413258) · `si`
+
+Moneragala district: Moutakandiya reservoir spill affects 5,216 acres, including 1,863 acre-feet of paddy fields.
+
+🟩
+
+The Moutakandiya reservoir in the Moutalaya region, which is located in the Irrigation Zone, has come to the Moutukandiya reservoir in the Moneragala district.
+
+The Mutukandiya reservoir in the Siyambalanduwa Divisional Secretariat area is the largest tank in the reservoir of 24,569 acres.
+
+The tank has been spiled in January this year and is currently 5,216 acre and two acres of paddy lands.Is being laid.
+
+1,863 acre feet of paddy fields cultivated and 474 acres of paddy cultivated.
+
+In addition, the Handapanagalawewa, Malinpothawewa, Malinupothawewa, Malinuphathuwewa, Malinupothawewa, Malinphathwewa, Malinphathwewa and Handapanagalawewa.
+
+◼️
+
+[Data](articles/03962770.json)
+
+[Extended Data](ext_articles/03962770.ext.json)
+
+---
+
 ### Vesakil abuse
 
 *2024-11-25 16:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாகில்-துஷ்பிரயோகம்-நபருக்கு-கடூழிய-சிறை/175-347741) · `ta`
@@ -774,21 +862,31 @@ Speaker Dr. Ashoka Ranwala, he was invited, the Most Venerable The Malwathu fact
 
 ---
 
-### රාජ්‍ය ණය කළමනාකරණ පනත බලාත්මක කරමින් ජනපතිගෙන් අති විශේෂ ගැසට්ටුවක්
+### President gets an extraordinary from the President's Debt Management Act
 
 *2024-11-25 15:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ණය-කළමනාකරණ-පනත-බලාත්මක-කරමින්-ජනපතිගෙන්-අති-විශේෂ-ගැසට්ටුවක්/11-413257) · `si`
 
-පාර්ලිමේන්තුවේදී සංශෝධන සහිතව   සම්මත කර ඉකුත් ජුනි 18 දිනෙන් සටහන් කර තිබූ පනතක් වූ  2024 අංක 33 දරණ  රාජ්‍ය ණය කළමනාකරණ පනත අද (25) සිට බලාත්මක කර තිබේ.
+Here's a summary in 200 characters:
 
-මෙම පනත බලාත්මක කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නොවැම්බර් 21 දාතමින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කෙරිණි .
 
-මෙම පනත රාජ්‍ය ණය ගැනීම, නිකුත් කිරීම සහ ණය සේවාකරණය,ඇපකර නිකුත් කිරීම,උප ණය දීම,සැපයුම්කරුගේ ණය ගිවිසුම් සහ මූල්‍ය කල්බදු ගිවිසුම් ඇතිකර ගැනීම  ඇතුළුව රාජ්‍ය ණය කළමනාකරණය කිරීම සඳහා බලය ලබාදීම පිණිසද ඊට සම්බන්ධ හෝ අනුෂාංගික කාරණා සඳහා විධි විධාන සැලැස්වීමට අදාළ  පනතකි.
 
-මෙකී නව  පනතින් අමාත්‍ය මණ්ඩලය මගින් පත් කරනු ලබන  අධ්‍යක්ෂ ජනරාල්වරයෙකුගේ ප්‍රධානත්වයෙන් යුත්  රාජ්‍ය ණය කළමනාකරණ කාර්යාලයක්  සහ සාමාජිකයන් අට දෙනෙකුගෙන් යුත්  රාජ්‍ය ණය සම්බන්ධීකරණ කමිටුවක් පිහිටුවීමටද   නියමිතව ඇත.
+New Public Debt Management Act empowers president to manage national debt. Establishes office and coordinating committee. Affects public debt issuance, sub-lending, supplier loans, financial lender agreements. Effective January 1, 2023.
+
+🟩
+
+The Public Debt Management Act No. 33 of the Act Northern June 18, a bill recorded on June 18, has been empowered from January 1.3 (25).
+
+President Anura Kumara Dissanayake issued a special gazette notification on November 21.
+
+The bill is a bill relating to the implementation of public debt, including public debt, issuance of public debt, issue of public debt, sub-lending, supplier loans, supplier lending and financial lender and financial lender agreements.
+
+The new Act is also scheduled to establish a public debt management office and a public debt coordinating committee headed by the Director General of the Cabinet of Ministers.
 
 ◼️
 
 [Data](articles/59059dc8.json)
+
+[Extended Data](ext_articles/59059dc8.ext.json)
 
 ---
 
@@ -876,19 +974,33 @@ However, the train traveling from Colombo Fort to Badulla has been running at pr
 
 ---
 
-### නීති විරෝධි E-8 වීසා නිසා නීත්‍යානුකූල E-9 රැකියා අනතුරේ
+### Legal E-9 jobs in danger caused by an illegal E-8 visa
 
 *2024-11-25 15:39:06* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධි-E-8-වීසා-නිසා-නීත්‍යානුකූල-E-9-රැකියා-අනතුරේ/11-413255) · `si`
 
-පසුගිය රජයේ අමාත්‍යවරයෙකු නීතිවිරෝධි අයුරින් අත්සන් කරන ලද E-8 වීසා ගිවිසුම නිසා වසර 20ට අධික කාලයක් පුරා විශාල ශ්‍රි ලාංකික තරුණ පිරිසකට හිමිවූ E-9 වීසා කාණ්ඩයේ රැකියා අහිමිවීමේ අවධානමක් ඇති වී තිබෙන බවත්, නීතිවිරෝධි වීසා බලපත්‍ර නීත්‍යානුකූල කිරීමට කිසිඳු හැකියාවක් නොමැති බවත් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා සඳහන් කරයි.
+Here's a summary of the text in approximately 200 characters:
 
-එසේම පසුගිය සමයේ තමන් විසින් හෙළිකල ගුවන් ටිකට්පත් වංචාවට සම්බන්ධවූ පිරිස් තමන් විසින් ආරම්භ කර ඇති වංචා දූෂණ පිළිබඳව විමර්ශනය කිරීමේ වැඩපිළිවෙල කඩාකප්පල් කිරීම සඳහා මෙවැනි අරගල සිදුකරන බවත් සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
 
-දකුණු කොරියානු E-8 වීසා කාණ්ඩයේ සෘතුමය රැකියා සඳහා පුද්ගලික පාර්ශවයන්ට මුදල් ලබාදුන් පිරිස් බත්තරමුල්ල ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ප්‍රධාන කාර්යාලය ඉදිරිපිට සිදුකරන උද්ඝෝෂණ සම්බන්ධයෙන් මාධ්‍ය වෙත අදහස් දක්වමින් සභාපතිවරයා මේ බව ප්‍රකාශ කළේය.
+
+E-9 jobs endangered due to illegal E-8 visa scheme. Sri Lanka Employment Bureau warns against fraudulent recruitment practices. Legal E-9 visas for South Korea now at risk. Bureau investigates corruption claims related to unauthorized E-8 visas.
+
+🟩
+
+Sri Lanka Foreign AgendasPresident of the Employment Bureau of Employment Bureau Kiosala Wickremasinghe said.
+
+The Chairman also added that the struggles will be carried out to disrupt the investigation into the corruption he has executed in the past.
+
+Speaking to the media regarding the protests carried out in front of the Sri Lanka Bureau of Foreign Employment in the South Korean E-8 Visa seasonal personnel, the Chairman made this statement.
+
+"Some people highlight the e-8 struggle. But not really e-8 can't win. I mentioned several occasions on a few occasions that the e-8 is not a proper way to send people to foreign employment. The Foreign Employment Bureau has not been granted to a privately foreign employment to direct workers for the seasonal jobs of South Korea.
+
+According to the Bureau Act, if a man goes to foreign employment, the Bureau should be registered. The Bureau has been prepared to provide the Cabinet approval under the E-8 Visa Cabinet proposal.
 
 ...
 
 [Data](articles/47977b16.json)
+
+[Extended Data](ext_articles/47977b16.ext.json)
 
 ---
 
@@ -1371,6 +1483,20 @@ The intervention of a former minister has held a press conference this morning, 
 [Data](articles/4bad3565.json)
 
 [Extended Data](ext_articles/4bad3565.ext.json)
+
+---
+
+### මහ මැතිවරණයේදී ඡන්ද විශාල ගණනක් ප්‍රතික්ෂේප වූයේ ඇයි?
+
+*2024-11-25 13:53:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1mlv3vy51ro) · `si`
+
+මධ්‍යම ඇමෙරිකානු රටක් වන එල් සැල්වදෝරයේ 2024 වන විට ජනගහනය ආසන්න වශයෙන් ලක්ෂ 6.4ක් විය. එය ශ්‍රී ලංකාවේ ප්‍රතික්ෂේප වූ ඡන්ද සංඛ්‍යාවට ආසන්න වශයෙන් සමාන ගණනකි. ඉකුත් දා පැවති මහ මැතිවරණයේදී, මුළු ඡන්දවලින් 5.65%ක් ම ප්‍රතික්ෂේප වූ ඡන්ද විය. එය 1989 සිට ඡන්ද ප්‍රතික්ෂේප වූ තෙවන ඉහළ ම අනුපාතය සනිටුහන් කරයි. වැඩි ම ප්‍රතික්‍ෂේප වූ ඡන්ද සංඛ්‍යාව වාර්තා වූයේ, 2010 මහ මැතිවරණයේදී ය.
+
+සංසන්දනාත්මකව ගත් කල, මහ මැතිවරණයට වඩා වැඩි ප්‍රකාශිත ඡන්ද ප්‍රතිශතයක් වාර්තා වුණු 2024 ජනාධිපතිවරණයේදී, ඡන්ද ප්‍රතික්ෂේප වීමේ අඩු ප්‍රවණතාවක් පෙන්නුම් කළ අතර එය 2.2%ක පමණ අගයක පැවතියේ ය.
+
+...
+
+[Data](articles/d5d7aeb4.json)
 
 ---
 
@@ -1978,19 +2104,33 @@ In addition, the Commission to Investigate the Bribery or Corruption of Corrupti
 
 ---
 
-### කටුබැද්දේදී බස් හිමියෙකු මගියෙකුට පහරදීම: මගී අයිතිවාසිකම් කඩවුණොත් ඔබ කළ යුත්තේ කුමක් ද?
+### The bus holder a passenger in Katubedda at Katubedda: What should you do if the passenger rights violated?
 
 *2024-11-25 11:46:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy1z0v0k2do) · `si`
 
-කටුබැද්දේදී බස් හිමියෙකු මගියෙකුට පහරදීම: මගී අයිතිවාසිකම් කඩවුණොත් ඔබ කළ යුත්තේ කුමක් ද?
+Here's a summary of the key points in approximately 200 characters:
 
-කොට්ටාව - ගල්කිස්ස මාර්ග අංක 255 දරන බස් රථයක් පිළියන්දල නගරයේ අඩ පැයකට ආසන්න කාලයක් නවතා තැබීම හේතුවෙන් ඒ පිළිබඳව විමසා සිටි මගියෙකුට වූ සිද්ධියක් ඔහු විසින් සිය ෆේස්බුක් පිටුවෙහි සටහන් කර තිබිණි.
 
-“ගල්කිස්ස දක්වා ධාවනය කළ යුතු බස් රථය කටුබැද්ද හංදියෙන් නවතා සියලු මගීන් බස්වා බස් රථයේ කොන්දොස්තරගෙන් ප්‍රශ්න කළ මගීන් කවුරුන් දැයි සොයන්නට බස් රථයේ රියැදුරු, තවත් සහයකයෙක් සහ ඔහුගේ ම තවත් බසයක රියැදුරු සහ කොන්දොස්තර සමග සහයට තවත් පිරිසක් රැගෙන දෙනෝ දාහක් බලා සිටියදී කටුබැද්ද හන්දිය ඔවුහු දෙවනත් කළෝ ය. එහිදී මා වට කර ගත් පස් දෙනෙකුගෙන් යුත් පිරිසක් මට නොනවත්වා පහර දුන්හ. පහරදීම්වලින් මගේ හිසට, ගෙළ පෙදෙසට සහ අතට තුවාල සිදුවිය.”
+
+Passenger rights violation in Katubedda: Report to 1955 hotline or NTC website. Bus suspended if wrongdoing proven. Driver/assistant faces suspension/ticketing for assault. NTC investigates daily complaints.
+
+🟩
+
+The bus holder a passenger in Katubedda at Katubedda: What should you do if the passenger rights violated?
+
+A passenger from the Facebook was listed in the Piliyandala, Kottawa - Mount Lavinia.
+
+Katubedda junction while watching the bus with the driver and other other buses of the bus along with the buses of the bus along with the buses of the bus.The Kalo is. There I have attacked me unwurcing me. My head, along with attacks, and the wounded. "
+
+Skip Facebook Post, you agree to reach the content of 1facebook content? This article contains content provided by Facebook. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Facebook cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
+
+The passenger is currently receiving treatment at the Mount Lavinia Police Station.
 
 ...
 
 [Data](articles/2aec2500.json)
+
+[Extended Data](ext_articles/2aec2500.ext.json)
 
 ---
 
@@ -2383,93 +2523,5 @@ Additionally, he added that the program acts as a guarantor to the international
 [Data](articles/3eb54ac1.json)
 
 [Extended Data](ext_articles/3eb54ac1.ext.json)
-
----
-
-### Speaker's decision to discuss with Archana
-
-*2024-11-25 10:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுடன்-கலந்துரையாட-சபாநாயகர்-தீர்மானம்/175-347716) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Ashoka Ranwala announced that new MP Dr. Archana Ramanathan will discuss further actions. This came after her seating in the opposition leader's position in the first Parliament session. The Speaker made this statement during a media briefing after visiting Kandy.
-
-🟩
-
-Speaker Ashoka Ranwala has said that the new Member of Parliament, Dr. Archana Ramanathan, will discuss.
-
-The Speaker made this statement while addressing the media after his visit to Kandy yesterday afternoon.
-
-In the first session of Parliament, Archana Ramanathan seated in the opposition leader's seat and was widely talked about.
-
-At this juncture, the Speaker said that further action would be taken in consultation with the Member of Parliament.. Remble
-
-◼️
-
-[Data](articles/b01bb65c.json)
-
-[Extended Data](ext_articles/b01bb65c.ext.json)
-
----
-
-### The accident occurred by two buses
-
-*2024-11-25 10:45:11* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථ-දෙකක්-එකිනෙක-ගැටීමෙන්-සිදු-වූ-අනතුර/11-413249) · `si`
-
-Two buses collided: SLTB and private in Watawala today.
-
-🟩
-
-A SLTB bus and a private bus collided in the Watawala area today (25).
-
-◼️
-
-[Data](articles/4e5f7941.json)
-
-[Extended Data](ext_articles/4e5f7941.ext.json)
-
----
-
-### Sri Lanka new gov performance can only be evaluated during 5th IMF review: former minister
-
-*2024-11-25 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-gov-performance-can-only-be-evaluated-during-5th-imf-review-former-minister-189645/) · `en`
-
-ECONOMYNEXT – The true performance of the new National People’s Power administration can only be evaluated during the fifth International Monetary Fund review, former State Finance Minister Shehan Semasinghe has said.
-
-“The true performance of the new administration can only be evaluated during the 5th review, which will exclusively cover their period in office. (Jan to Jun 2025),” Semasinghe said on social platform X.
-
-“Even the fourth review will largely reflect the achievements of our government. It is essential that the new administration continues to follow the EFF programme, despite their past opposition, to ensure sustained economic progress.”
-
-The former state minister said he was pleased that the staff-level agreement has been reached between the IMF and Sri Lankan authorities, marking the successful completion of the third review of the Extended Fund Facility (EFF) programme.
-
-...
-
-[Data](articles/8cff964f.json)
-
-[Extended Data](ext_articles/8cff964f.ext.json)
-
----
-
-### Three-day workshop for MPs of 10th Parliament begins today
-
-*2024-11-25 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103740/three-day-workshop-for-mps-of-10th-parliament-begins-today) · `en`
-
-The three-day special workshop for members of the Tenth Parliament is set to commence today (25).
-
-The workshop will be conducted on November 25, 26, and 27, focusing on various topics, including parliamentary traditions, culture, and legislative affairs, aimed at familiarizing newly elected legislators with parliamentary procedures.
-
-A gazette notification addressing these matters was issued on November 16.
-
-Following each parliamentary election, such workshops are organized to educate the incoming members.
-
-The inaugural session of the 10th Parliament, consisting of members elected through the 2024 General Election, was convened on November 21.
-
-◼️
-
-[Data](articles/b64ff26b.json)
-
-[Extended Data](ext_articles/b64ff26b.ext.json)
 
 ---

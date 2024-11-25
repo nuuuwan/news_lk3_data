@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-25 09:22:58**
+As of **2024-11-25 09:32:18**
 
 ## Newspaper Stats
 
-*Scraped **56,705** Articles*
+*Scraped **56,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,405
 economynextcom | 3,433
 dailyftlk | 3,901
 dailymirrorlk | 4,733
-adalk | 5,331
-adaderanalk | 6,851
+adalk | 5,333
+adaderanalk | 6,853
 tamilmirrorlk | 8,055
 virakesarilk | 9,244
 adaderanasinhalalk | 9,790
@@ -26,21 +26,45 @@ adaderanasinhalalk | 9,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,702 (100.0%) of 56,705 articles have been extended.
+56,705 (100.0%) of 56,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-25 (Monday)
 
-### ஹரீஸ் இடைநிறுத்தம்
+### Haris pause
 
 *2024-11-25 09:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரீஸ்-இடைநிறுத்தம்/175-347710) · `ta`
 
-ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸின்  உறுப்பினர் பதவியிலிருந்து , முன்னாள் எம்.பி ஹரீஸ் இடைநிறுத்தம்
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Haris, former MP, suspended from Sri Lanka Muslim Congress. Key points: Haris was a member of parliament; He has been removed from his position in the party; The suspension likely stems from controversial actions or statements made by Haris while in office."
+
+🟩
+
+Former MP Haris suspended from Sri Lanka Muslim Congress
 
 ◼️
 
 [Data](articles/a2cec773.json)
+
+[Extended Data](ext_articles/a2cec773.ext.json)
+
+---
+
+### Four injured in Watawala bus collision
+
+*2024-11-25 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103737/four-injured-in-watawala-bus-collision) · `en`
+
+A private passenger bus has collided head-on with a Sri Lanka Transport Board (SLTB) bus this morning (25) in Watawala.
+
+Four individuals sustained injuries in the accident, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/ed2ac54b.json)
 
 ---
 
@@ -78,17 +102,41 @@ In some places in the Eastern Province, more than 150 millimeters of heavy rainf
 
 ---
 
-### බිහිසුණු බස් අනතුරක්
+### 2024 A/L examination begins today
+
+*2024-11-25 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103736/2024-al-examination-begins-today-) · `en`
+
+The 2024 G.C.E. Advanced Level (A/L) examination is scheduled to commence from today (25).
+
+The examination will be conducted over a period of 22 days, concluding on December 20. A total of 333,185 candidates are expected to sit for the examination this year.
+
+The examination is set to commence at 8:30 a.m.  and the Commissioner General of Examinations, Amith Jayasundara, has requested all candidates to report to their respective examination centers with a valid form of identification well in advance.
+
+“Candidates must bring a valid identity card to the examination center. For this purpose, a national identity card issued by the Department of Registration of Persons, a valid foreign passport, or a valid driver’s license will be accepted as proof of identity,” he stated.
+
+...
+
+[Data](articles/316af91c.json)
+
+---
+
+### A horrible bus accident
 
 *2024-11-25 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203703) · `si`
 
-අද (25) උදෑසන වටවල ප්‍රදේශයේ දී පෞද්ගලික බස් රථයක් සහ ලංගම බස් රථයක් එකිනෙක ගැටී අනතුරක් සිදුව තිබේ.
+Horrible bus accident: Private & SLTB buses collided in Wathwala. Four injured.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ අනතුරින් සිව්දෙනෙකුට තුවාල සිදු වී ඇති බවයි.
+🟩
+
+A private bus and a SLTB bus collided in the Wathwala area this morning (25).
+
+The Ada Derana reporter said four persons were injured in the accident.
 
 ◼️
 
 [Data](articles/d572e79a.json)
+
+[Extended Data](ext_articles/d572e79a.ext.json)
 
 ---
 
@@ -113,6 +161,24 @@ Showers or thundershowers may occur over the coastal areas of Western and North-
 [Data](articles/717a73ae.json)
 
 [Extended Data](ext_articles/717a73ae.ext.json)
+
+---
+
+### බදුල්ල බිබිල මාර්ගයේ රථවාහන ගමනය සිමා කරයි
+
+*2024-11-25 08:01:37* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-බිබිල-මාර්ගයේ-රථවාහන-ගමනය-සිමා-කරයි/11-413247) · `si`
+
+පස්සර පොලිස් වසමේ පේරාපදණිය - චෙංකලඩි මාර්ගය (බදුල්ල - බිබිල) මාර්ගයේ කිලෝමිටර් 143 හා 144 කණු අතර ප්‍ර දේශයේ මාර්ගයට පස් කඳු කඩා වැටීම හේතුවෙන් එම මාර්ගයේ රථවාහන ගමනය නවතා දමා තිබුණි.
+
+කෙසේ වෙතත් ඊයේ දින ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනයේ හා මාර්ග සංවර්ධන අධිකාරියේ විධායක ඉංජිනේරුවයා විසින් එම ස්ථානය පරික්ෂා කර ඇත.
+
+ඒ අනුව අද දින උදෑසන 6 30 සිට සවස 6 00 දක්වා එම මාර්ගයේ රථ වාහන ගමනයට අවස්ථාව ලබාදි තිබේ. කෙසේ වෙතත් ඉන් අනතුරුව සවස 6.00 සිට පසුදින 6.00 දක්වා නැවතත් එම මාර්ගයේ රථවාහන ගමනය නතර කිරීමට නියමිතය.
+
+පවතින කාලගුණ තත්ත්වය අනුව රථවාහන ධාවනය කරන කාලසීමාවේ වෙනසක් සිදුවිය හැකි බවත් එම ස්ථානයේ ආරක්ෂාව සඳහා පොලීසිය රාජකාරියේ යොදවා ඇති බවත් පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයිත
+
+◼️
+
+[Data](articles/9f318870.json)
 
 ---
 
@@ -884,25 +950,37 @@ The Council is affiliated with the High Commission of Sri Lanka in the Maldives,
 
 ---
 
-### විශ්‍රාමික ජනපතිවරුන්ගේ සහ මන්ත්‍රීවරුන්ගේ වරප්‍රසාද කප්පාදු කරන්නේ කෙසේ ද?
+### How to cut the privileges of retired President and Members?
 
 *2024-11-25 01:53:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyd9w09xe4o) · `si`
 
-විශ්‍රාමික ජනාධිපතිවරුන්ට සහ පාර්ලිමේන්තුවේ මැති ඇමතිවරුන්ට පිරිනමන වරප්‍රසාද කප්පාදු කළ යුතු බවට වර්තමානයේ සමාජය තුළ මතයක් නිර්මාණය වී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-විශ්‍රාමික ජනාධිපතිවරුන්ට සහ පාර්ලිමේන්තු මැති ඇමතිවරුන්ට හිමි වන වරප්‍රසාද තමන් බලයට පත්වීමෙන් පසුව කප්පාදු කිරීමට පියවර ගන්නා බවට ජාතික ජන බලවේගය ඉකුත් ජනාධිපතිවරණය සමයේ ජනතාවට ප්‍රතිඥාවක් දී තිබිණි.
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක ජනාධිපතිවරයා වශයෙන් තේරී පත්වීමෙන් පසුව එම වරප්‍රසාද කප්පාදු කිරීමට අදාළ යෝජනාව අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කළේ ය.
 
-ඒ අනුව, මෙම වරප්‍රසාද කප්පාදු කිරීම සඳහා ගත යුතු නීතිමය ක්‍රියාමාර්ග තීන්දු කිරීම සඳහා ජනාධිපති අනුර කුමාර දිසානායකගේ නායකත්වයෙන් යුත් අමාත්‍ය මණ්ඩලය විසින් කමිටුවක් ද පත්කරනු ලැබී ය.
+Retired presidents and MPs in Sri Lanka enjoy privileged benefits. Legal actions aim to reduce these perks. The Privileges and Facilities Act No. 4 of 1986 governs ex-presidents' entitlements. Controversy surrounds security personnel, medical care, and other benefits. Amendments to relevant laws could limit privileges.
 
-විශ්‍රාමික ජනාධිපතිවරුන්ට, ඇමතිවරුන්ට සහ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට ලබා දී තිබෙන වරප්‍රසාද කප්පාදු කළ හැක්කේ කෙසේ ද?
+🟩
 
-ඒ පිළිබඳව පවතින නීතිමය තත්ත්වයන් මොනවා ද යන්න මෙම ලිපිය මගින් සාකච්ඡා කෙරේ.
+The presentation of privileges to retirement presidents and MPs in Parliament should be austerity.
+
+The National Folk Force had pledged to the public of the presidential election that the privileges of retired presidents and MPs after they were tortured.
+
+The proposal to the Cabinet submitted to the Cabinet of the Prime Minister Anura Kumara Dissanayake was elected to the President.
+
+Accordingly, the Cabinet of Ministers Anura Kumara Dissanayake was appointed to decide the legal action taken to cut these privileges.
+
+How can retirement presidents, ministers and MPs have slashed privileges?
+
+This article discusses what legal status of it is.
+
+The Attorney General's Department High Court Sogalaretter General and President's Counsel Priyantha Nana Navana stated that the privileges of retired presidents have been entitled to the Treaty Act No. 4 of 1986.
 
 ...
 
 [Data](articles/718fee95.json)
+
+[Extended Data](ext_articles/718fee95.ext.json)
 
 ---
 
@@ -2229,71 +2307,5 @@ Here's a summary of the text in approximately 200 characters:
 [Data](articles/96dcde7c.json)
 
 [Extended Data](ext_articles/96dcde7c.ext.json)
-
----
-
-### War of Ukraine!
-
-*2024-11-24 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199530) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-N
-
-🟩
-
-There is no stressful evidence that there is no pressure on the North Korean soldiers in Russia or that they are participating in the anti -Ukraine operations.. It is not a new issue for the United States to impose on his enemies. The world has seen it in the case of Sadan Hasain.
-
-◼️
-
-[Data](articles/4532c43e.json)
-
-[Extended Data](ext_articles/4532c43e.ext.json)
-
----
-
-### The expectation of the Muslim community on the government
-
-*2024-11-24 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/199528) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Muslims expect the government to represent their community fairly in Cabinet appointments. This ensures diversity and brings diplomatic advantages, enhancing the government's image and credibility.
-
-🟩
-
-It is best to reflect the tooth of the cabinet in the same way that the multitude of this country is expressed in parliamentary representations. Appointing a Muslim in a cabinet is not just a recognition of Muslims. It will bring many diplomatic benefits to the government. It can also make a better appearance.
-
-◼️
-
-[Data](articles/e5e3a5f7.json)
-
-[Extended Data](ext_articles/e5e3a5f7.ext.json)
-
----
-
-### Stubborn against Netanyahu to press the West
-
-*2024-11-24 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199526) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-ICC accuses Netanyahu & former Defense Minister of war crimes, including intentional killings, starvation, harassment. Charges relate to alleged human rights violations in Israel/Palestine conflict.
-
-🟩
-
-The International Criminal Court has said that Israeli Prime Minister Benjamin Netanyahu and former Defense Minister Yo Kalland are responsible for being responsible for the use of hunger as a war, intentionally committed killings, harassment and other inhumane actions.
-
-◼️
-
-[Data](articles/0be9b223.json)
-
-[Extended Data](ext_articles/0be9b223.ext.json)
 
 ---

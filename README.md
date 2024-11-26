@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 11:13:45**
+As of **2024-11-26 09:21:33**
 
 ## Newspaper Stats
 
-*Scraped **56,925** Articles*
+*Scraped **56,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,198 +13,24 @@ dbsjeyarajcom | 438
 colombotelegraphcom | 578
 bbccomsinhala | 592
 islandlk | 3,421
-economynextcom | 3,449
+economynextcom | 3,448
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,358
-adaderanalk | 6,881
-tamilmirrorlk | 8,095
+adalk | 5,356
+adaderanalk | 6,878
+tamilmirrorlk | 8,093
 virakesarilk | 9,274
-adaderanasinhalalk | 9,826
+adaderanasinhalalk | 9,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,922 (100.0%) of 56,925 articles have been extended.
+56,901 (100.0%) of 56,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
-
-### நானுஓயா வரை மட்டுமே ரயில்கள் ஓடும்
-
-*2024-11-26 10:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-வரை-மட்டுமே-ரயில்கள்-ஓடும்/76-347786) · `ta`
-
-பதுளை வரை இயக்கப்படும் பயணிகள் ரயில்கள் நானுஓயா வரை மட்டுப்படுத்தப்பட்டுள்ளது என ரயில்வே கட்டுப்பாட்டறை அறிவித்துள்ளது. .
-
-நானுஓயாவிலிருந்து பதுளை வரையிலான புகையிரத தண்டவாளங்களில் பல இடங்களில் மண், பாறைகள், மரங்கள் வீழ்ந்துள்ளமையினால், கொழும்பு கோட்டையிலிருந்து பதுளை வரையில் பயணிக்கும் பயணிகள் புகையிரதங்கள் நானுஓயா வரை இயக்கப்படவுள்ளதாக ஹட்டன் புகையிரத நிலைய அதிகாரி ஒருவர் தெரிவித்தார்.
-
-நானுஓயா நிலையத்திற்கு இயக்கப்படும் புகையிரதங்கள் மீண்டும் திருப்பி கொழும்புக்கு இயக்கப்பட்டதாகவும், பதுளையில் இருந்து கொழும்பு கோட்டை வரை இயங்கும் எந்தவொரு பயணிகள் ரயிலும் செவ்வாய்க்கிழமை (26)  இயங்கவில்லை எனவும் அந்த அதிகாரி தெரிவித்தார்.
-
-◼️
-
-[Data](articles/102269c1.json)
-
----
-
-### A reputable red announcement from the weather
-
-*2024-11-26 10:49:38* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-අවවාදාත්මක-රතු-නිවේදනයක්/11-413271) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Red alert: Heavy rains forecasted in Northern, Eastern, Central, Uva provinces. Over 200mm expected. 100mm possible in North Central and Puttalam. 24-hour warning issued."
-
-🟩
-
-The Department of Meteorology says that the existing rain condition is continuing due to the recession near the island.
-
-Accordingly, in some parts of the Northern, Eastern, Central and Uva provinces. The announcement was released this morning that heavy rains can occur at more than 200.
-
-Heavy showers that some 100 millilitaries can be raised in some places in the North Central and Puttalam District.This announcement was issued this morning for a 24-hour period.
-
-◼️
-
-[Data](articles/bd4167dc.json)
-
-[Extended Data](ext_articles/bd4167dc.ext.json)
-
----
-
-### Subjects and functions of new govt’s ministries gazetted
-
-*2024-11-26 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103767/subjects-and-functions-of-new-govts-ministries-gazetted) · `en`
-
-A Gazette notification has been issued assigning duties, subjects and functions, departments, institutions, statutory boards and public corporations to each Ministry of the new government.
-
-The Gazette, issued by President Anura Kumara Dissanayake, has set out the subjects and functions and Departments, Statutory Institutions and Public Corporations that come under the purview of various Ministers of the new government.
-
-Subjects and functions of ministries by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/33add8c2.json)
-
-[Extended Data](ext_articles/33add8c2.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 291.00/15 to dollar, bonds down
-
-*2024-11-26 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-291-00-15-to-dollar-bonds-down-189859/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291.00/15 to the US dollar on Tuesday from 291.25/35 to the US dollar on Monday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2027 was quoted at 10.85/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.07/15 percent.
-
-A bond maturing on 15.10.2028 was quoted at 11.15/20 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.30/40 percent, down from 11.35/50 percent.
-
-In equities, the All Share Price Index opened up 0.11 percent or 14.74 points, at 12,881. The more liquid S&P SL20 opened up 0.56 percent, or 21.32 points, at 3,816.
-
-◼️
-
-[Data](articles/d899318f.json)
-
-[Extended Data](ext_articles/d899318f.ext.json)
-
----
-
-### Flood warnings issued for low-lying areas of Mahaweli River
-
-*2024-11-26 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103766/flood-warnings-issued-for-low-lying-areas-of-mahaweli-river) · `en`
-
-The Irrigation Department has issued a flood warning for several low-lying areas of Mahaweli River Basins, effective until 6.00 a.m. on November 28, 2024.
-
-It states that considerable rainfall has occurred in some Mahaweli catchment areas as of today (26).
-
-By analyzing the current rainfall situation and river water levels of Mahaweli River Basins, it is warned that there is a possibility of  a  flood situation in low-lying areas around  Mahaweli River situated in  Dimbulagala, Echchilampattai,  Hingurakgoda,  Kantalai,  Kinniya, Koralai Pattu  North, Lankapura, Medirigiriya, Muttur, Seruvila, Thamankaduwa, Thampalakamam and Welikanda D/S Divisions.
-
-Accordingly, residents in those areas and motorists driving through those areas are requested to pay attention in this regard.
-
-Disaster Management Authorities are requested to take adequate precautions in this regard.
-
-◼️
-
-[Data](articles/e3fa2879.json)
-
-[Extended Data](ext_articles/e3fa2879.ext.json)
-
----
-
-### Railway prohibition
-
-*2024-11-26 09:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவை-தடை/175-347779) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Railway closure: Mudslide collapses track between Badulla & Bandara. Multiple roadblocks in Badulla district due to severe weather conditions.
-
-🟩
-
-The ban has been reported due to the collapse of mudslides and stones in the railway line between Badulla and Bandara.
-
-Meanwhile, the Badulla District Disaster Management Center said that several roads have been blocked due to inclement weather.. Remble
-
-◼️
-
-[Data](articles/b240140f.json)
-
-[Extended Data](ext_articles/b240140f.ext.json)
-
----
-
-### Gazette Ministries and Functions
-
-*2024-11-26 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203742) · `si`
-
-Here's a summary of the Gazette Ministries and Functions in approximately 200 characters:
-
-
-
-New Cabinet roles revealed in official gazette. President Anura Kumara Dissanayake issues notification outlining subjects and functions of ministries.
-
-🟩
-
-The subjects and the functions of the new Cabinet have been announced by a gazette.
-
-President Anura Kumara Dissanayake has issued the gazette notification.
-
-◼️
-
-[Data](articles/6b689df1.json)
-
-[Extended Data](ext_articles/6b689df1.ext.json)
-
----
-
-### A/L candidates affected by bad weather allowed to sit for exams at nearest centres
-
-*2024-11-26 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103765/al-candidates-affected-by-bad-weather-allowed-to-sit-for-exams-at-nearest-centres) · `en`
-
-The Commissioner General of Examinations, Amith Jayasundara has announced that G.C.E. Advanced Level Examination candidates who are unable to reach their designated examination centres due to adverse weather conditions are permitted to sit for their exams at the nearest available centres.
-
-Candidates facing difficulties are encouraged to contact the Disaster Management Centre (DMC) via the hotline ‘117’ for assistance.
-
-Considering the prevailing circumstances, arrangements have been made through the DMC to provide the necessary facilities for students sitting for the Advanced Level examination.
-
-The Commissioner General of Examinations has also assured that examination centers have been instructed to offer appropriate accommodations for students facing delays in reaching their centers due to traffic disruptions caused by adverse weather conditions.
-
-◼️
-
-[Data](articles/e7b6e433.json)
-
-[Extended Data](ext_articles/e7b6e433.ext.json)
-
----
 
 ### Emergency notice for A/L students
 
@@ -256,14 +82,6 @@ Meanwhile. The public is advised to act with great care. Remble
 
 Train services on the up-country line have been disrupted due to mounds of earth and rocks falling onto the tracks between Badulla and Bandarawela, according to Sri Lanka Railways.
 
-Meanwhile, the District Disaster Management Coordination Unit of Badulla has reported that several roads in the Badulla District have been blocked due to severe weather conditions.
-
-According to the unit, these disruptions have been caused by landslides, mounds of earth and rocks collapsing, as well as fallen trees obstructing the roads.
-
-Among the affected routes are the Badulla-Bandarawela road near Uduwara Milk Factory, the Haputale-Beragala road, the Badulla-Passara road near the third milepost, the Spring Valley road via Kadhana in Badulla, the seventh-milepost on the Badulla-Passara main road, and the Bibila-Lunugala road near Arawakumbura, among others.
-
-Police have advised drivers to use alternative routes until these roads are cleared and safe for travel.
-
 ◼️
 
 [Data](articles/61d556ca.json)
@@ -291,60 +109,6 @@ Heavy showers above 100 mm are likely at several places elsewhere of the island,
 [Data](articles/cb610b71.json)
 
 [Extended Data](ext_articles/cb610b71.ext.json)
-
----
-
-### Upcountry train traffic interrupted
-
-*2024-11-26 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203741) · `si`
-
-Badulla-Bandarawela rail line disrupted due to landslide. Several roads blocked in Badulla district. Police advise using alternative routes.
-
-🟩
-
-The railway line between Badulla and Bandarawela has been interrupted between the Badulla-railway line.
-
-The railway between Badulla and Bandarawela have been disrupted due to the collapse of earth and stones.
-
-The Badulla District Disaster Management Unit (DMC) unit stated that several roads in the Badulla district have been blocked due to the bad weather conditions.
-
-The unit said that the roads were blocked due to landslides, five firms, trees and stone collapses.
-
-Accordingly, the Uriyagala road in the Bandarawela road on the Bandarawela road on Bandarawela road, the Sprinkwagala road in Badulla - Padaiya Road, Badulla and Badulla Road.
-
-The police urge the drivers to use the vicious routes due to these blocked roads.
-
-◼️
-
-[Data](articles/6a6c9e9e.json)
-
-[Extended Data](ext_articles/6a6c9e9e.ext.json)
-
----
-
-### Sudden notification to Advanced Level Students - Go to the nearest center if constraints
-
-*2024-11-26 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203740) · `si`
-
-Advanced Level students: Attend nearest exam center due to flooding. Exams department allows students to take exams at nearby locations. Transportation issues and inclement weather cause delays. Disaster Management Center facilitates exam process.
-
-🟩
-
-The Examinations Department will continue to march the students who are unable to travel to the A / L examination center that cannot be moved due to the inclement centers.
-
-Commissioner General of Examinations, Amitith Jayasundara said that the floods were constrained due to floods and allowed the students to sit the examination at the nearest examination center.
-
-The commissioner General of Examinations said that some roads have been subjected to transportation and a problem with the inclement weather island wide.
-
-Considering the present situation, action has been taken to facilitate students who sit the A / L examination through the Disaster Management Center.
-
-The Commissioner General of Examinations Amitha Jayasundara said that the delays have been given to the examination centers due to the obstacles due to disasters.
-
-◼️
-
-[Data](articles/28a5ac60.json)
-
-[Extended Data](ext_articles/28a5ac60.ext.json)
 
 ---
 
@@ -1008,8 +772,6 @@ She has represented Australian Blues three times and, on this occasion, goes as 
 
 [Data](articles/862e316b.json)
 
-[Extended Data](ext_articles/862e316b.ext.json)
-
 ---
 
 ### Fusion of Soul and Sound from Galle
@@ -1048,8 +810,6 @@ Delivering his inaugural policy statement to Parliament, President Anura Kumara 
 
 [Data](articles/1aa158d9.json)
 
-[Extended Data](ext_articles/1aa158d9.ext.json)
-
 ---
 
 ### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
@@ -1081,8 +841,6 @@ Surely, racism has caused enough damage to us to warrant its erasure from our mi
 ...
 
 [Data](articles/396a7363.json)
-
-[Extended Data](ext_articles/396a7363.ext.json)
 
 ---
 
@@ -1231,8 +989,6 @@ The Wurth Group relaunched its 2290th state-of-the-art Brand/Pickup shop in Maku
 ...
 
 [Data](articles/21324d36.json)
-
-[Extended Data](ext_articles/21324d36.ext.json)
 
 ---
 
@@ -1922,38 +1678,6 @@ Alliance Finance stock closed down at 127.00 on Monday. (Colombo/Nov25/2024)
 
 ---
 
-### Speaking to a trade union action
-
-*2024-11-25 18:18:04* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවක-පිරිසක්-වෘත්තීය-ක්‍රියාමාර්ගයකට-යන-බව-කියයි/11-413267) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Railway workers face injustices: unpaid overtime, low wages, and unfair treatment. Union demands better pay and working conditions. Ongoing dispute between management and staff over compensation and benefits.
-
-🟩
-
-The New Railway Service Coordination says that there is a strong injustice to the people who have recruited the staff of the Department of Railway Department's Department of Transport Departments.
-
-It is also pointed out that several cases of authorities have been asked to provide solutions to these employees.
-
-The number of issues are not provided with the issues this week, the number of people who are raised from the Polonnariya service have been resigned from service.
-
-Due to the existing vacancies, these personnel are employed on weekdays and overtime on Saturday.However, it is said that the overtime paid for 240 hours a month and have had to work in the ministry.
-
-However, other railways points out that one hundred sixty salary and payments from the multipurpose service, and the primary salary is one of the 40th anniversary of the basic salary.
-
-Therefore, the group is starred for the people and 240 hours of overtime cannot be removed and the overtime should be carried out.
-
-...
-
-[Data](articles/dc6809af.json)
-
-[Extended Data](ext_articles/dc6809af.ext.json)
-
----
-
 ### Warrant to Douglas Devananda recalled
 
 *2024-11-25 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203725) · `si`
@@ -2080,31 +1804,23 @@ He elaborated: “I asked where I should sit, and they said there was no issue w
 
 ---
 
-### Rice demands to increase price
+### සහල් පාලන මිල ඉහළ දමන්නැයි ඉල්ලයි
 
 *2024-11-25 18:05:05* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-පාලන-මිල-ඉහළ-දමන්නැයි-ඉල්ලයි/11-413265) · `si`
 
-UK rice producers demand price hike due to shortage. Small mills receive 65% daily requirement, large-scale 50%. Prices increased: white/red paddy Rs.230/kg, Samba Rs.240/kg, Marry Samba Rs.250/kg. Government aims to protect small-medium mill owners to prevent shortages.
+ගෙවිගිය මාස දෙකක කාලය තුලදි කුඩා හා මධ්‍ය පරිමාණ මොල් දෙසියකට ආසන්න ප්‍රමාණයක වි කෙටිම නවතා දමා තිබෙන බව එක්සත් සහල්  නිෂ්පාදකයින්ගේ සංගමය සදහන් කරයි.
 
-🟩
+වි මිල ඉහල යාමට සාපෙක්ෂව දැනට පවතින සහල් පාලන මිලට සහල් ලබා  දිමට නොහැකි නිසා ඇතැම් කුඩා හා මධ්‍ය පරිමාණ මොල් හිමියන් කර්මාන්තය සිදුකර යාම නවතා දමමින් තිබෙන බවද එම සංගමයේ  සභාපති මුදිත් පෙරේරා  මහතා  සදහන් කළේය.
 
-The United Kingdom Producer's Association states that the house has been stopped at nearly two hundred small and medium scale mulles within two months.
+මිට මාස දෙකකට පෙර කුඩා හා මධ්‍ය පරිමණ මොල් හිමියන් දෛනික සහල් අවශ්‍යතාවයෙන් සියයට හැට පහක (65%) පමණ ප්‍රමාණයක් ලබාදුන් බවත් මහ පරිමණ මොල් හිමියන් සියයට තිස් පහක (35%) ප්‍රමාණයක් ලබාදුන් බවද පැවසිය.
 
-The President of the Association MVP president of the Association MVP president said that the prices of rice is stopped to carry out rice.
+මේ වන විට මහ පරිමණ මොල් හිමියින් විසින්  දෛනික අවශ්‍යතාවයෙන් සියයට පනහක් (50‌) ලබා දෙන බවත් කුඩා  හා මධ්‍ය පරිමණ මොල් හිමියන් ඉතිරි සියයට පනහ(50%) ලබා දෙන බවද සදහන් කළේය.
 
-Two months ago, Small and Medium-volume Mollors were given about sixty-five percent (65%) of the daily rice requirement.
-
-The large-scale mulrows are currently given fifty (50) per cent of the daily requirement, and the remaining 50% (50%) will be given.
-
-It is said that small and medium scale mullone has increased the rice prices of rice that reduces the stock of rice released daily.
-
-The price of a kilogram of paddy was Rs.
+කුඩා හා මධ්‍ය පරිමාණ මොල් හිමියන් දෛනිකව වෙළද පොලට නිකුත් කරන සහල් තොග ප්‍රමාණය අඩුවන සෑම අවස්තාවකදිම සහල් මිල ඉහල ගොස් තිබෙන බවද පැවසිය.
 
 ...
 
 [Data](articles/55d10851.json)
-
-[Extended Data](ext_articles/55d10851.ext.json)
 
 ---
 
@@ -2162,39 +1878,27 @@ Director Nelson and Producer Tanu participated in a special event at the Galle H
 
 ---
 
-### Irregular human activity is the cause of natural disasters
+### අක්‍රමවත් මිනිස් ක්‍රියාකාරකම් ස්වභාවික ව්‍යසනවලට හේතුවයි
 
 *2024-11-25 17:52:30* · [`adalk`](https://www.ada.lk/breaking_news/අක්‍රමවත්-මිනිස්-ක්‍රියාකාරකම්-ස්වභාවික-ව්‍යසනවලට-හේතුවයි/11-413264) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+අක්‍රමවත් මිනිස් ක්‍රියාකාරකම් ස්වභාවික ව්‍යසනවලට හේතුවයි; ආයතන මට්ටමෙන් නීති තිබුණත් ඒවා ක්‍රියාත්මක කර නැහැ
 
+– ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයා වැඩ භාර ගැනීමේ අවස්ථාවට එක් වූ ජනපති නිලධාරීන් හමුවේ පවසයි
 
+ආපදා කළමනාකරණයේදී ආයතන ව්‍යුහ ශක්තිමත් කිරීම පමණක් ප්‍රමාණවත් නොවන බවත් බිම් මට්ටමට විසඳුම් ගෙන යාමේ යාන්ත්‍රණ ඇති කිරීමට කටයුතු කළ යුතු බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
 
-Human activities cause natural disasters despite laws. President Anura Kumara Dissanayake emphasizes strengthening disaster management structures and finding new solutions. He requests state employees to propose disaster management legal frameworks and reduce expenditure on disaster management.
+පළාත් පාලන ආයතන ශක්තිමත් කර අවදානම් ප්‍රදේශවල සිදුවන ආපදා වළක්වාලීම සඳහා නව විසඳුම් ලබා දීමට කටයුතු කළ යුතු බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
 
-🟩
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතා වැඩ භාර ගැනීමේ අවස්ථාවට අද (25) එක්වෙමිනි.
 
-Irregular human activity is the cause of natural disasters;They have not been implemented even if they have laws from institutional level
+ආපදා කළමනාකරණ නීති පද්ධතිය සකස් කර තිබෙන්නේ යම්කිසි අධ්‍යනයකින් පසුව බවත් එම නීති නිසි ආකාරයෙන් ක්‍රියාත්මක කිරීම නිලධාරින්ගේ වගකීමක් බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
 
-- President officials say the Deputy Minister of the Ministry of Defense
-
-President Anura Kumara Dissanayake said that it is not sufficient to strengthen the structures of the institution in disaster management and to ensure the mechanisms of the ground level.
-
-The President also pointed out that arrangements should be taken to provide new solutions to prevent the local authorities and prevent disasters.
-
-President Anura Kumara Dissanayake made these comments addressing the Deputy Minister Aruna Jayasekara to take over the work today (25).
-
-The President pointed out that the disaster management legal system was prepared after a study and implement the laws.
-
-President Anura Kumara Dissanayake emphasized that he appears on behalf of any official doing so.
-
-If the legal framework for disaster management, the President requested state employees to submit proposals.
+එසේ ක්‍රියා කරන ඕනෑම නිලධාරියෙක් වෙනුවෙන් තමා පෙනී සිටින බවද ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
 
 ...
 
 [Data](articles/a74bb035.json)
-
-[Extended Data](ext_articles/a74bb035.ext.json)
 
 ---
 
@@ -2379,5 +2083,283 @@ However, the neighbors who saw the boat collapsed and saved the Catholic father 
 [Data](articles/bca4ddc2.json)
 
 [Extended Data](ext_articles/bca4ddc2.ext.json)
+
+---
+
+### A red announcement from the weather
+
+*2024-11-25 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203723) · `si`
+
+Red weather alert issued for coastal areas and northern regions. Heavy rainfall expected in North-Central and Uva provinces. Landslide warnings issued for several districts. System to approach East Coast within 24 hours.
+
+🟩
+
+The Department of Meteorology has issued a red announcement by the Department of Meteorological and the Met Department for deep and shallow sea areas around the island.
+
+The additional 24 hours will be valid for 24 hours (26) at 04:00 pm today (25).
+
+The delay in the south-long Bay Bay Sea has grown to an oppression recession in the Bay of Bay Bay Sea.
+
+The same system is around 1130 am today at around 1130 am. About 530 are rightly on the southeast.
+
+The Department of Meteorology states that it is expected to travel close to the East Coast of the island in the next 24 hours and grow close to the island East.
+
+The influence of the system will also occur in the Northern Province of the island and the Trincomalee District and at least 15 mm.
+
+Heavy showers that will occur at least 100 mm in the North-Central and Uva provinces.
+
+Meanwhile, the National Building Research Organization (NBRO) has issued the landslide warning announcement for several districts.
+
+...
+
+[Data](articles/62e5b66f.json)
+
+[Extended Data](ext_articles/62e5b66f.ext.json)
+
+---
+
+### Archuna, sitting in the Opposition Leader, apologizes
+
+*2024-11-25 17:12:09* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂනායක-පුටුවේ-වාඩි-වුණ-අර්චුනා-ප්‍රසිද්ධියේ-සමාව-ඉල්ලයි/11-413261) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Opposition Leader Archuna apologizes publicly at a parliamentary event. He acknowledges past mistakes and expresses regret for any unfairness. The apology extends to all members of Parliament and the President.
+
+🟩
+
+The Jaffna District Independent Evidence Independent is openly apologized at the function held in order to make the 10th parliament.
+
+He made this apology at a program in Parliament today.
+
+"If I did something wrong, I publicly apologize about it. I apologize for that. I didn't want to have a fair in a chair. It's a mistake. I apologize for this with all Parliament from a member of the president. "
+
+◼️
+
+[Data](articles/cebae01c.json)
+
+[Extended Data](ext_articles/cebae01c.ext.json)
+
+---
+
+### Archichish for apologies sitting in the Opposition Leader
+
+*2024-11-25 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203722) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan MP Archchish apologizes for sitting in opposition leader's seat, citing misunderstanding about parliamentary protocol.
+
+🟩
+
+The Jaffna District Parliamentarian Archtuna Ramanathan, who was sitting in the opposition leader's seat, has been apologized in connection with the incident.
+
+He apologized at the Awareness Workshop in Parliament today (25) for the new Members of Parliament.
+
+"I asked if I wanted to sit down where. Then he went to the other side that you could sit on a place where doctor wanted. Then we went on and sat down. We're getting used to campus.. We did not approach the hand and came to Parliament. I thought I could go wherever I wanted and sit. Then I came and talked to me. I came and said that the Opposition Leader is everyday situ. Then I thought I could sit in a other chair. I have no reason to go in the 8th chair and sit down.
+
+I'm gonna put the tiger myself, I'm sitting by a tiger and sitting in the chair of opposition leader. We have not intentionally gone.. I don't have a nutre, I'm independent, I don't know where to sit and how you're going ...
+
+...
+
+[Data](articles/ccbb9500.json)
+
+[Extended Data](ext_articles/ccbb9500.ext.json)
+
+---
+
+### Here is the decision taken at the IPL at the Auction of Viscan in Sri Lanka
+
+*2024-11-25 17:00:18* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාවේ-වියස්කාන්ත්-ගැන-අයි-පී-එල්-ක්‍රීඩක-වෙන්දේසියේදී-ගත්-තීරණය-මෙන්න/9-413260) · `si`
+
+N
+
+🟩
+
+Sri Lanka's 2625 athletes was presented today (25).
+
+◼️
+
+[Data](articles/1962667c.json)
+
+[Extended Data](ext_articles/1962667c.ext.json)
+
+---
+
+### US $ 200 million loan from Sri Lanka
+
+*2024-11-25 16:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-සංවර්ධන-බැංකුවෙන්-ලංකාවට-ඩොලර්-මිලියන-200ක-ණයක්/11-413259) · `si`
+
+Asian Development Bank approves $200m loan for Sri Lanka's electricity sector infrastructure improvement. Funds to enhance financial sustainability, transmission networks, and promote renewable energy integration. Project aims to strengthen Ceylon Electricity Board and Lanka Electricity Company, focusing on digital solutions and women's empowerment in clean energy.
+
+🟩
+
+The Asian Development Bank (ADB) has approved a US $ 200 million loan to facilitate improving the infrastructure, transmission and distribution networks on the infrastructure of electricity sector in Sri Lanka.
+
+Increase financial sustainability, costing amendment fee, certifying the significant progress that Sri Lanka has been proceded to proceed with the amendment of competitive renewable energy and the approval of this project.
+
+Infrastructure Improvement is continuous on these reforms and improves their crucial role in renewable energy integration and improves the entire performance of the sector.
+
+The project will strengthen the Ceylon Electricity Board (CEB) and Lanka Electricity Company (LECO) establishment of corporate capacity - the only utilities responsible for the final consumers. This project will improve the digital solutions to combine and manage the renewable energy systems, adopt digital solutions and improve the capacity of solar installations in the roof.
+
+...
+
+[Data](articles/da4b62b6.json)
+
+[Extended Data](ext_articles/da4b62b6.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 291.25/35 to dollar, bonds marginally up
+
+*2024-11-25 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-25-35-to-dollar-bonds-marginally-up-189800/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.25/35 to the US dollar on Monday from 291.00/10 to the US dollar on Friday dealers said, while bond yields were slightly up.
+
+A bond maturing on 15.09.2027 closed at 10.80/85 percent, up from 10.75/85 percent.
+
+A bond maturing on 15.03.2028 closed at 11.10/15 percent, up from 11.05/15 percent.
+
+A bond maturing on 15.09.2029 closed at 11.35/50 percent, up from 11.25/40 percent. (Colombo/Nov25/2024)
+
+◼️
+
+[Data](articles/b84ab4de.json)
+
+[Extended Data](ext_articles/b84ab4de.ext.json)
+
+---
+
+### Electricity tariff correction?Permit for time
+
+*2024-11-25 16:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-கால-அவகாசத்திற்கு-அனுமதி/175-347748) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Public Utilities Commission agrees Ceylon Electricity Board until Dec 2024 propose Electricity Tariff Amendment. Permit for amendment can be issued by Jan 17, 2025.
+
+🟩
+
+The Public Utilities Commission has agreed to give the Ceylon Electricity Board a period of December 2024 to issue proposals for the Electricity Targe Amendment.
+
+The Public Utilities Commission has informed the Ceylon Electricity Board that the permit for the proposed electricity tariff amendment can be issued by January 17, 2025.. Remble
+
+◼️
+
+[Data](articles/dca2e1ff.json)
+
+[Extended Data](ext_articles/dca2e1ff.ext.json)
+
+---
+
+### Message to new MPs from the Prime Minister
+
+*2024-11-25 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203721) · `si`
+
+Here's a summary of the Prime Minister's message to new MPs in approximately 200 characters:
+
+
+
+Prime Minister Dr. Harini Amarasuriya addresses new MPs, emphasizing their role as public representatives. She highlights historical significance, including high female representation. She reminds them to prioritize protecting citizens' interests over personal gains, citing recent elections as evidence of public expectations.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya said that all MPs should be remembered that all MPs were to become a supremacy again in the recent past.
+
+The Prime Minister of Parliament was speaking at the inauguration of the Parliamentary Procedure Awareness Workshop for New Members of the Tenth Parliament today (25).
+
+...
+
+[Data](articles/237b132b.json)
+
+[Extended Data](ext_articles/237b132b.ext.json)
+
+---
+
+### Final results in the scholarship examination
+
+*2024-11-25 16:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-இறுதி-முடிவு/175-347746) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ministry of Education announces government stance on scholarship exam leak. Decision based on reports from three committees investigating leaked questions. Attorney General to inform High Court on December 2.
+
+🟩
+
+The Ministry of Education has announced that the government's position on the scholarship exam will take necessary steps to announce to the High Court on December 2.
+
+A senior official of the ministry said that the government's position will be based on the recommendations of the three committees who examined the leak questions in the exam question.
+
+Considering the report of those groups, the Ministry has made it clear that the Attorney General will take necessary steps to inform the High Court of the Government's position.. Remble
+
+◼️
+
+[Data](articles/b3b0b1fa.json)
+
+[Extended Data](ext_articles/b3b0b1fa.ext.json)
+
+---
+
+### Petition against the exam
+
+*2024-11-25 16:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சைக்கு-எதிராக-மனு/175-347745) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Supreme Court investigates petition against Education General Level Exam. Student Hansani Alagoon claims GCE O/L circular violates 107 academic days requirement. Chief Justices consider case against Commissioner General of Exams Harini Amarasuriya.
+
+🟩
+
+The Supreme Court on Monday (25) has decided to investigate the fundamental rights violation petition filed by a student demanding an interim order to prevent the ongoing Education General Level Examination.
+
+The petition was considered before a session of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
+
+This time, the Commissioner General of Examinations, Mrs. Harini Amarasuriya, has been referred to as defendants in the petition filed by Hansani Alagoon, a student who will appear for the GCE Advanced Level Examination.
+
+The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 Circular Recognition period, has clearly stated that the 107 academic days should be completed.
+
+◼️
+
+[Data](articles/2ab90575.json)
+
+[Extended Data](ext_articles/2ab90575.ext.json)
+
+---
+
+### Petition against the exam
+
+*2024-11-25 16:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உ-த-பரீட்சைக்கு-எதிராக-மனு/150-347745) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Supreme Court investigates petition against Education General Level Exam. Student Hansani Alagoon claims violation of fundamental rights. Challenges 39/2023 circular requiring 107 academic days completion.
+
+🟩
+
+The Supreme Court on Monday (25) has decided to investigate the fundamental rights violation petition filed by a student demanding an interim order to prevent the ongoing Education General Level Examination.
+
+The petition was considered before a session of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
+
+This time, the Commissioner General of Examinations, Mrs. Harini Amarasuriya, has been referred to as defendants in the petition filed by Hansani Alagoon, a student who will appear for the GCE Advanced Level Examination.
+
+The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 Circular Recognition period, has clearly stated that the 107 academic days should be completed.
+
+◼️
+
+[Data](articles/43cfcf4f.json)
+
+[Extended Data](ext_articles/43cfcf4f.ext.json)
 
 ---

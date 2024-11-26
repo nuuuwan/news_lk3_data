@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 11:42:59**
+As of **2024-11-26 12:17:19**
 
 ## Newspaper Stats
 
-*Scraped **56,945** Articles*
+*Scraped **56,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,421
 economynextcom | 3,449
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,360
+adalk | 5,361
 adaderanalk | 6,885
-tamilmirrorlk | 8,095
+tamilmirrorlk | 8,100
 virakesarilk | 9,280
 adaderanasinhalalk | 9,834
 
@@ -26,25 +26,169 @@ adaderanasinhalalk | 9,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,926 (100.0%) of 56,945 articles have been extended.
+56,930 (100.0%) of 56,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### ශ්‍රී ලංකාවේ ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය කිරීමට කැබිනට් අනුමැතිය
+### அர்ஜூன மகேந்திரனை நீதிமன்றத்தில் ஆஜராக உத்தரவு
+
+*2024-11-26 12:02:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன-மகேந்திரனை-நீதிமன்றத்தில்-ஆஜராக-உத்தரவு/175-347793) · `ta`
+
+மத்திய வங்கியின் முன்னாள் ஆளுநர் அர்ஜூன மகேந்திரனை 2025 பெப்ரவரி 25 ஆம் திகதி நீதிமன்றத்தில் ஆஜராகுமாறு கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+2015ஆம் ஆண்டு மத்திய வங்கியின் பிணைமுறி மோசடி தொடர்பான விசாரணைகள் வழக்கு தொடர்பிலான விசாரணைக்கு அமைய நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவினால் இந்த வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+
+முன்னாள் மத்திய வங்கி ஆளுநர் அர்ஜூன மகேந்திரன் பிணை முறி ஏலத்தில் தலையிட்டதாகவும், அவரது மருமகன் அர்ஜுன் அலோசியஸுக்குச் சொந்தமான பெர்பச்சுவல் ட்ரஷரீஸ் (Perpetual Treasuries) நிறுவனத்திற்கு பில்லியன் ரூபா கணக்கான இலாபம் ஈட்ட உதவுவதற்காக உள் தகவல்களை கசியவிட்டதாகவும் ஜனாதிபதி விசாரணை ஆணைக்குழு கண்டறிந்துள்ளது.
+
+விசாரணைகள் தொடர்பான விடயங்கள் கண்டறியப்பட்ட போதிலும், சிங்கப்பூர் குடியுரிமை பெற்ற மகேந்திரன், திருமணத்தில் கலந்துகொள்வதாகக் கூறி நாட்டை விட்டு வெளியேறிய பின்னர், நீதிமன்றங்களில் ஆஜராகத் தவறியதால், அது குறித்த சட்டப்பூர்வ செயல்முறையைத் தொடர முடியவில்லை.
+
+◼️
+
+[Data](articles/ec46ce1a.json)
+
+---
+
+### The cabinet is not racial, religious and caste
+
+*2024-11-26 11:54:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-இன-மத-சாதி-ரீதியில்-அமைக்கப்படவில்லை/175-347792) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Cabinet appointments based on merit, not race, religion or caste. Muslim representation through Governor appointment and national list MP. Focus on serving all Sri Lankans equally.
+
+🟩
+
+Responding to questions raised about the absence of Muslim representatives at recent Cabinet appointments, Cabinet spokesman and Media Minister Nalinda Jayatissa said that the Cabinet race, religion or caste had not been established.
+
+“We do not set a cabinet on the basis of race, religion or caste. We chose the most talented people in dealing with ministry powers, ”he said.
+
+He added that a Muslim businessman has been appointed as the Governor of the Western Province.. In addition, a Gampaha district parliamentarian was appointed by a national list to represent the Muslim community.
+
+Minister Jayatissa emphasized that we are focusing on serving the entire Sri Lankan nation, not specific species, religions or castes.
+
+He appealed to the Muslim community not to look at the current situation from the perspective of race or religion.
+
+...
+
+[Data](articles/3aca1f53.json)
+
+[Extended Data](ext_articles/3aca1f53.ext.json)
+
+---
+
+### “இன, மத, சாதி ரீதியான அமைச்சரவை அல்ல”
+
+*2024-11-26 11:54:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன-மத-சாதி-ரீதியான-அமைச்சரவை-அல்ல/175-347792) · `ta`
+
+அமைச்சரவை இனம், மதம் அல்லது சாதி அடிப்படையில் அமைக்கப்படவில்லை என அமைச்சரவைப் பேச்சாளரும் ஊடகத்துறை அமைச்சருமான நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+
+அண்மைய அமைச்சரவை நியமனங்களில் முஸ்லிம் பிரதிநிதிகள் இல்லாமை குறித்து எழுப்பப்பட்ட கேள்விகளுக்குப் பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+அரசாங்கத் தகவல் திணைக்களத்தில், செவ்வாய்க்கிழமை (26) நடைபெற்ற வாராந்த அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர்கள் சந்திப்பில், கலந்துகொண்ட ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே அமைச்சரவை பேச்சாளர் மேற்கண்டவாறு தெரிவித்தார்.
+
+"நாங்கள் இனம், மதம் அல்லது சாதி அடிப்படையில் அமைச்சரவையை அமைக்கவில்லை. அமைச்சு அதிகாரங்களை கையாள்வதில் மிகவும் திறமையான நபர்களை நாங்கள் தேர்ந்தெடுத்தோம்," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/4b896876.json)
+
+---
+
+### Archae
+
+*2024-11-26 11:42:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-பிடியாணை/175-347791) · `ta`
+
+Colombo Additional Magistrate Manjula Ratnayake orders warrant for MP Archana Ramanathan's failure to appear in court.
+
+🟩
+
+Yall. Colombo Additional Magistrate Manjula Ratnayake today (26) has ordered the issuance of District Independent Parliamentarian Dr. Archana Ramanathan.
+
+Archana Ramanathan MP has been issued a warrant for not appearing in court.
+
+◼️
+
+[Data](articles/ae7bc12d.json)
+
+[Extended Data](ext_articles/ae7bc12d.ext.json)
+
+---
+
+### Cabinet approval to restructure international sovereignties in Sri Lanka
 
 *2024-11-26 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203750) · `si`
 
-ශ්‍රී ලංකාවේ ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය සඳහා මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍ය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+Sri Lanka cabinet approves restructuring international sovereignty. Agreement reached with bilateral lenders on bond exchange by September 2024. Impact on economy discussed. New bonds to be submitted by 2032, aligned with IMF parameters.
 
-අද (25) පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක් වෙමින් කම්කරු සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා මේ බව පැවසීය.
+🟩
 
-ඒ අනුව 2024 සැප්තැම්බර් මාසයේදී ප්‍රතිපත්තිමය වශයෙන් ඇමරිකානු එක්සත් ජනපද ඩොලර් බිලියන 14.2ක පමණ ස්වෛරී ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ ජාත්‍යන්තර ආයෝජකයින්ගේ නියෝජිත කණ්ඩායමක් වන ස්වෛරීත්ව බැඳුම්කර හිමියන්, තත්ත්කාර්ය කණ්ඩායමක් සහ ශ්‍රී ලංකාවේ දේශීය බැඳුම්කර හිමියන්ගේ එකමුතුව සමග පවත්වන ලද සාකච්ඡාවකින් අනතුරුව මේ සම්බන්ධව එකඟතාවට පැමිණි බවද නියෝජ්‍ය අමාත්‍යවරයා එහිදී පැවසීය.
+Cabinet has approved a proposal made by Hon. President Anura Kumara Dissanayake, Minister of Finance, Planning and Economic Development to restructure international sovereignty in Sri Lanka.
+
+Deputy Minister of Labor and Economic Development Prof. Anil Jayantha Fernando, joining the Cabinet Decision informed today (25).
+
+Accordingly, in September 2024, the Deputy Minister of International Investors representatives of the International Investors Agent, a group of organized bonds, and the unity of the local bond owners of Sri Lanka and the unity of Sri Lanka's united discussions with the unity of Sri Lanka and the unity of Sri Lanka's united discussions were held.Said.
+
+"The negotiations with bilateral lenders had come to some agreement by June. However, it was delayed because of the complexity of sovereign bonds. In September, however, we were able to agree with bonds exchange.
 
 ...
 
 [Data](articles/b5588ca0.json)
+
+[Extended Data](ext_articles/b5588ca0.ext.json)
+
+---
+
+### A person with an electricity feker is killed
+
+*2024-11-26 11:33:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ස්ත්‍රික්කයකින්-පහරදි-පුද්ගලයෙක්-ඝාතනය-කරයි/11-413273) · `si`
+
+Person electrocuted while trying to store electrical items without permission. Police investigating. Suspect fled but will be caught.
+
+🟩
+
+Maharagama Police said that a person who had not allowed to shelter electrical appliances in Pannipitiya Owansa.
+
+The deceased has been identified as Dayasiri Dayasiri, a resident of Yanagama home, Dianesiri, a resident of Pannipiri, 752.
+
+A resident of a house in a house where a business was conducting an electrical supplementary place, a resident of a householder, has asked for allowing a country bag and demanded permission to the house shelter.
+
+However, the owner is unwilling to leave the place and asked for once again and again to accommodate it after again. Initial investigations have revealed that the two had been ingested between the two and later seriously injured the death of the deceased.
+
+The injured were later admitted to the Homagama Base Hospital after being admitted to the Homagama Base Hospital.
+
+Meanwhile, the Nugegoda Divisional Criminal Officers and the Magistrate have also commenced on location investigations.
+
+...
+
+[Data](articles/4a6d5135.json)
+
+[Extended Data](ext_articles/4a6d5135.ext.json)
+
+---
+
+### மாவீரர் தினத்தை அனுஷ்டிக்க அனுமதி
+
+*2024-11-26 11:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-தினத்தை-அனுஷ்டிக்க-அனுமதி/175-347789) · `ta`
+
+வடக்கில் உள்ள மக்கள் மாவீரர் நாளை அனுஷ்டிக்க அனுமதித்துள்ள போதிலும், தடை செய்யப்பட்ட அமைப்பான விடுதலைப் புலிகள் தொடர்பான இலச்சினைகள், சீருடைகள், படங்கள் போன்றவற்றை காட்சிப்படுத்துவதை தவிர்க்க வேண்டும் என பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்துள்ளார்.
+
+நாட்டின் உள்நாட்டுப் போரின் போது உயிரிழந்த தமது உறவுகளை நினைவு கூருவதை அரசாங்கம் தடுக்காது என அமைச்சர் தெரிவித்தார்.
+
+எவ்வாறாயினும், அத்தகைய நினைவேந்தல் சட்ட விதிமுறைகளுக்கு இணங்க வேண்டும் மற்றும் தடைசெய்யப்பட்ட பயங்கரவாத குழுவுடன் எந்த தொடர்பும் தவிர்க்கப்பட வேண்டும் என்று அவர் வலியுறுத்தினார்.
+
+"விடுதலைப் புலிகள் ஒரு நியமிக்கப்பட்ட பயங்கரவாத அமைப்பாகும், நவம்பர் 27 அன்று மாவீரர் நாளின் போது அவர்களின் அடையாளங்கள், சீருடைகள் அல்லது அவர்களின் உறுப்பினர்களின் படங்களை காட்சிப்படுத்த எந்த அனுமதியும் இல்லை," என்று அவர் கூறினார்.
+
+சில குழுக்கள் கடந்த கால நினைவு தினங்களை தமிழீழ விடுதலைப் புலிகளுக்கு ஆதரவளிக்கும் வகையில் மீள் விளக்கமளிக்க முற்பட்டதாகவும் அமைச்சர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/9a394cdd.json)
 
 ---
 
@@ -937,6 +1081,10 @@ He attributed delays in implementing the program to internal disruptions at the 
 ### President appoints two new Ministry Secretaries
 
 *2024-11-26 02:38:30* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-two-new-Ministry-Secretaries/56-769705) · `en`
+
+Malarmathi Gangadharan was appointed as Rural Development, Social Security and Community Empowerment Ministry Secretary
+
+President’s Counsel Ayesha Jinasena was appointed as Justice and National Integration Ministry Secretary
 
 President Anura Kumara Dissanayake yesterday appointed two new Ministry Secretaries. The letters of appointment were handed over yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake. Accordingly, President’s Counsel Ayesha Jinasena was appointed as the Justice and National Integration Ministry Secretary, while Malarmathi Gangadharan was appointed as the Rural Development, Social Security and Community Empowerment Ministry Secretary.
 
@@ -2051,161 +2199,5 @@ In case of emergencies, students or their guardians are urged to contact the DMC
 [Data](articles/6e4b4116.json)
 
 [Extended Data](ext_articles/6e4b4116.ext.json)
-
----
-
-### 2,035 families affected by rain and floods in Jaffna - 7,416
-
-*2024-11-25 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199657) · `ta`
-
-Jaffna floods affect 7,416 people: 2,035 families impacted, 21 houses damaged.
-
-🟩
-
-7,416 people from 2,035 families have been affected by the floods and other disasters caused by continuous rains in Jaffna, said 21 houses have been partially damaged, said the Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah.
-
-The flood disaster in the Chavakachcheri Divisional Secretariat has affected 945 people from 288 families so far and 10 houses have been partially damaged.
-
-In the Kayts Divisional Secretariat Division, 901 people from 215 families have been affected and 2 houses have been partially damaged.
-
-In the Point Pedro Divisional Secretariat Division, 35 people from 10 families have been affected and 8 houses have been partially damaged.
-
-In the Nallur Divisional Secretariat Division, 93 people from 29 families have been affected by flood disaster and thunder and lightning.
-
-64 people from 21 families have been affected in the Tellippalai Divisional Secretariat Division.
-
-...
-
-[Data](articles/cee6fd7b.json)
-
-[Extended Data](ext_articles/cee6fd7b.ext.json)
-
----
-
-### Foreigners buy Sri Lanka’s govt securities for 10th straight week on net basis
-
-*2024-11-25 18:54:00* · [`economynextcom`](https://economynext.com/foreigners-buy-sri-lankas-govt-securities-for-10th-straight-week-on-net-basis-189832/) · `en`
-
-ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the 10th straight week ended on November 21, the Central Bank data showed.
-
-Analysts said investors speculate a rate cut by the central bank during this week’s Monetary Policy Review meeting scheduled for late on Tuesday. The latest monetary policy rates will be announced on Wednesday (27).
-
-They said some investors have been buying to make some profits due to appreciation of the rupee currency and fall in market interest rates.
-
-Sri Lanka witnessed 702 million rupees ($2,38 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on November 21, extending the total inflows into treasury bonds and bills to 16.2 billion rupees (($55 mln) in the 10 straight weeks, the official data showed.
-
-The value of government securities held by foreign investors was at 55,545 million rupees by November 21.
-
-...
-
-[Data](articles/acd75d8e.json)
-
-[Extended Data](ext_articles/acd75d8e.ext.json)
-
----
-
-### A team of T20 international competition will be bowled out for 7 runs
-
-*2024-11-25 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203726) · `si`
-
-Ivory Coast bowled out for 7 runs in T20 match, lowest score in international cricket history.
-
-🟩
-
-All the batsmen of the Ivory Coast of the Ivory Coast of the 20th match in Laghoria yesterday (24) were bowled out for 7.
-
-It was a large number of students who were bowled out for a group of two countries.
-
-The ICC T20 World Cup match was played between the two countries as a category c category of the African Sub Regular Qualification C.
-
-In this contest, OT Aetara, the Ivory Coast, scored 4 runs and the batsmen scored 4, 0, 1, 0, 0, 0 * and 0.
-
-This will be the first time a T20 International rank has collected less than 10 points.
-
-Earlier, two teams were bowled out for a 20-year-old mark.
-
-It is a group of Mongolia, Singapore (2024.04.05) and Isle of Man, Spain (2023.03.26) against Manpole.
-
-◼️
-
-[Data](articles/a971fcf2.json)
-
-[Extended Data](ext_articles/a971fcf2.ext.json)
-
----
-
-### Archana paid tribute to Prabhakaran
-
-*2024-11-25 18:41:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனுக்கு-அஞ்சலி-செலுத்தினார்-அர்ச்சுனா/175-347760) · `ta`
-
-Archana Ramanathan, Jaffna MP, paid tribute to LTTE leader Velupillai Prabhakaran, calling him her god. She revealed her father was a Sri Lankan police officer who joined LTTE in 1987 after the 1983 riots. Archana claims Prabhakaran was against the Sinhalese government, not the people.
-
-🟩
-
-Jaffna District Independent MP Archana Ramanathan paid tribute to LTTE leader Velupillai Prabhakaran claiming Prabhakaran as his God.
-
-He has released a live video and said his father was a former police officer of the Sri Lankan government and he joined the LTTE in 1987.
-
-“My father is a police officer of the Sri Lankan government. He worked everywhere in the country. After the 1983 riots, he went to Jaffna and launched a liberation journey against the government as the racist attacks were carried out. ”
-
-“We are not racists. We are Sri Lankan Tamils. We recall the lives of the deaths this month. My God Prabhakaran has said that I am not against the Sinhalese people and is only against the Sinhalese government that killed us, ”MP Archana said.
-
-◼️
-
-[Data](articles/34124a16.json)
-
-[Extended Data](ext_articles/34124a16.ext.json)
-
----
-
-### 248 families affected due to inclement weather in Kilinochchi
-
-*2024-11-25 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199676) · `ta`
-
-Heavy rains hit Kilinochchi: 717 affected, 4 homes damaged. Statistics reported to National Disaster Relief Services Center. Residents near Brahmantanaru pond advised caution.
-
-🟩
-
-717 people from 248 people have been affected by heavy rains in Kilinochchi district. Also, four houses have been partially damaged.
-
-The subject of statistics received by the Kilinochchi District Disaster Management Division at 2.00 pm.
-
-The impacts have been sent to the National Disaster Relief Services Center.
-
-In addition, the District Disaster Management Coordination Division has requested that the residents of the Brahmantanaru pond have begun to look at the Brahmantanaru pond.
-
-◼️
-
-[Data](articles/a456c298.json)
-
-[Extended Data](ext_articles/a456c298.ext.json)
-
----
-
-### Red alert to some provinces
-
-*2024-11-25 18:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாகாணங்களுக்கு-சிவப்பு-எச்சரிக்கை/175-347759) · `ta`
-
-Heavy rains warning: Southeastern Bengal Bay low pressure system to hit Sri Lanka's east coast within 24 hours, affecting northern and eastern provinces. Navy and fishermen advised to stay away from seas. Public cautioned against outdoor activities from today to November 27.
-
-🟩
-
-The Department of Meteorology has warned that heavy rains will be experienced in several areas tomorrow at 04.00 pm due to low winds in the southeastern Bengal bay.
-
-The low-lying low-lying area in the southwestern Bengal Sea this morning is strengthened in the Central and Southwest Bengal Sea and turned into a windmill, about 530 km southeast of Trincomalee.. Contains position in.
-
-It is likely to strengthen the east coast of Sri Lanka over the next 24 hours as a deep winds.
-
-Accordingly, more than 150 millimeters of heavy rainfall can be experienced in some parts of the Northern Province and Trincomalee district.
-
-Due to the impact of the organization, more than 100 millimeters of heavy rains are expected in some places in the Northern, North Central, Central and Uva Provinces, Batticaloa and Ampara districts.
-
-Navy and fishermen have been warned not to go to the seas around the country until the re -announcement.
-
-...
-
-[Data](articles/31236431.json)
-
-[Extended Data](ext_articles/31236431.ext.json)
 
 ---

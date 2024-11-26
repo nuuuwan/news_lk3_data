@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 09:07:14**
+As of **2024-11-26 09:21:33**
 
 ## Newspaper Stats
 
-*Scraped **56,911** Articles*
+*Scraped **56,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 438
 colombotelegraphcom | 578
 bbccomsinhala | 592
-islandlk | 3,418
+islandlk | 3,421
 economynextcom | 3,448
 dailyftlk | 3,917
 dailymirrorlk | 4,733
@@ -26,37 +26,53 @@ adaderanasinhalalk | 9,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,894 (100.0%) of 56,911 articles have been extended.
+56,901 (100.0%) of 56,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### A/L மாணவர்களுக்கு அவசர அறிவிப்பு
+### Emergency notice for A/L students
 
 *2024-11-26 08:36:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்கு-அவசர-அறிவிப்பு/175-347778) · `ta`
 
-சீரற்ற காலநிலை காரணமாக உயர்தரப்பரீட்சை பரீட்சார்த்திகள் தத்தமது பரீட்சை நிலையங்களுக்குச் செல்ல முடியாத நிலைமை இருந்தால்  அருகில் உள்ள நிலையங்களில் பரீட்சைக்கு அமரலாம்.
+Here's a summary of 200 characters:
 
-ஏதேனும் சிரமங்கள் ஏற்பட்டால், உதவிக்கு  117 என்ற தொலைபேசி இலக்கத்துடன் தொடர்பு கொலெல்லாம் என பரீட்சைகள் ஆணையாளர் நாயகம் அறிவித்துள்ளார். R
+
+
+A/L exams postponed due to bad weather. Contact 117 for assistance.
+
+🟩
+
+Due to inclement weather, examiners can not go to their examination stations.
+
+In the event of any difficulties, the Commissioner General of Examinations has announced that the telephone number 117 will be related to help.. Remble
 
 ◼️
 
 [Data](articles/e77e3c69.json)
 
+[Extended Data](ext_articles/e77e3c69.ext.json)
+
 ---
 
-### அதிகளவான பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை
+### Warning of landslides to excessive areas
 
 *2024-11-26 08:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகளவான-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-347777) · `ta`
 
-நிலவும் மழையுடனான வானிலை காரணமாக பதுளை, காலி, களுத்துறை, கண்டி, கேகாலை, மாத்தளை, மாத்தறை, நுவரெலியா மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் அதிகளவான பிரதேச செயலகப் பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Landslide warnings issued in several districts due to heavy rain. Public advised to exercise caution.
 
-இதேவேளை மாதுரு ஓயா, ஹத்தா ஓயா மற்றும் மகாவலி ஆற்றின் நீர்மட்டம் வேகமாக உயர்ந்துள்ளது. பொதுமக்கள் மிகுந்த அவதானத்துடன் செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளது. R
+🟩
+
+Due to the prevailing rainfall, the landslide warning has been issued to a large number of Divisional Secretariats in Badulla, Galle, Kalutara, Kandy, Kegalle, Matale, Matara, Nuwara Eliya and Ratnapura districts.
+
+Meanwhile. The public is advised to act with great care. Remble
 
 ◼️
 
 [Data](articles/ec03c5fb.json)
+
+[Extended Data](ext_articles/ec03c5fb.ext.json)
 
 ---
 
@@ -69,6 +85,8 @@ Train services on the up-country line have been disrupted due to mounds of earth
 ◼️
 
 [Data](articles/61d556ca.json)
+
+[Extended Data](ext_articles/61d556ca.ext.json)
 
 ---
 
@@ -89,6 +107,8 @@ Heavy showers above 100 mm are likely at several places elsewhere of the island,
 ...
 
 [Data](articles/cb610b71.json)
+
+[Extended Data](ext_articles/cb610b71.ext.json)
 
 ---
 
@@ -472,21 +492,33 @@ Sunrisers Hyderabad bought fast bowler Bhuvneshwar Kumar, who was bought by Sunr
 
 ---
 
-### වත්මන් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට අලුත් ආණ්ඩුවෙන් ලැබෙන වරප්‍රසාද මොනවා ද?
+### What are the privileges of current MPs from the new government?
 
 *2024-11-26 01:30:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0mz3xmpdndo) · `si`
 
-ජනාධිපතිවරණයේදී මෙන් ම මහ මැතිවරණයේදී ද වත්මන් රජය මැතිවරණ වේදිකාවල දුන් එක් ප්‍රධානතම පොරොන්දුවක් වූයේ, පාර්ලිමේන්තුව නියෝජනය කරන මැති ඇමැතිවරුන්ගේ ඇතැම් වරප්‍රසාද කප්පාදු කිරීම හෝ සම්පුර්ණයෙන් ම අහෝසි කිරීම ය.
+Here's a summary of the text in approximately 200 characters:
 
-මන්ත්‍රීවරුන්ට හිමි තීරු බදු රහිත වාහන බලපත්‍රය අහෝසි කිරීම, පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප අහෝසි කිරීම, මහජන නියෝජිතයන්ට සුඛෝපභෝගී වාහන ලබා නොදීම, නිල නිවාස භාවිත නොකිරීම ජාතික ජන බලවේගය දුන් පොරොන්දු අතර ප්‍රධාන ය.
 
-අනුර කුමාර දිසානායක ජනාධිපති ධූරයට පත්වීමෙන් පසු පැවති පළමු කැබිනට් රැස්වීමේදී පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ, ඇමැතිවරුන්ගේ සහ හිටපු ජනාධිපතිවරුන්ගේ හිමිකම්, දීමනා සහ වරප්‍රසාද නැවත සලකා බැලීම සඳහා කමිටුවක් පත් කිරීමට පියවර ගත්තේ ය.
 
-විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ.ටී. චිත්‍රසිංහගේ සභාපතිත්වයෙන් යුත් කමිටුවේ සෙසු සාමාජිකයින් ලෙස විශ්‍රාමික අමාත්‍යංශ ලේකම්වරයෙකු වන ඩී. දිසානායක සහ විශ්‍රාමික දිස්ත්‍රික් ලේකම්වරියක වන ජයන්තා සී.ටී. බුළුමුල්ල කටයුතු කරති.
+New government promises to revoke MPs' duty-free vehicle licenses. Cabinet approves selling 150 luxury vehicles. Reviewing salaries and allowances. Proposals to abolish certain privileges and use cafeteria-style meals. Housing reform suggested, including renting quarters and crediting money to Mahapola Fund.
+
+🟩
+
+The present government has made a major promise on election platforms in the general election and the general election.
+
+The abolition of the duty-free vehicle license of the MPs, the national representative vehicles are not used and the national representatives.
+
+At the first Cabinet meeting, Anura Kumara Dissanayake was appointed as the president.
+
+Retired Supreme Court Judge KT. Limited as the other members of the committee chaired by Chwarasinghe. Jayantha, a retired district secretary, Dissanayake and a retired district secretary. The Bulum is working.
+
+Recommendations of the people, ministers, pensions, quarters, office equipment, office equipment, office equipment and security personnel, and the privilege of enabling appropriate alternatives and privileges.The committee is responsible for submitting a detailed report with a detailed report within two months.
 
 ...
 
 [Data](articles/bab6c338.json)
+
+[Extended Data](ext_articles/bab6c338.ext.json)
 
 ---
 
@@ -720,6 +752,28 @@ It is noteworthy that the Disaster Management Development Officer is also on dut
 
 ---
 
+### Elvis fan…with blues her forte
+
+*2024-11-25 22:24:00* · [`islandlk`](http://island.lk/elvis-fanwith-blues-her-forte/) · `en`
+
+It’s, indeed, wonderful to see Sri Lankan artistes doing good abroad…in their adopted homeland.
+
+Andrea Marr, who is based in Melbourne, is very much in the news these days.
+
+She will be performing at the exclusive ‘Women In Blues’ showcase at Alfred’s On Beale Street (rock venue with live entertainment), in Memphis, in the USA, on 9th January 2025, during the International Blues Challenge when bands from all over the world converge on Memphis for the ‘Olympics of the Blues.’
+
+Ten female blues artistes, from all over the world, will be showcasing their original songs in front of the blues industry professionals, managers and labels, and blues fans around the world.
+
+This is Andrea’s fourth performance in the home of the blues.
+
+She has represented Australian Blues three times and, on this occasion, goes as ambassador for Blues Music Victoria, and The Melbourne Blues Appreciation Society’s ‘Women In Blues’ Coordinator.
+
+...
+
+[Data](articles/862e316b.json)
+
+---
+
 ### Fusion of Soul and Sound from Galle
 
 *2024-11-25 22:24:00* · [`islandlk`](http://island.lk/fusion-of-soul-and-sound-from-galle/) · `en`
@@ -746,6 +800,18 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 ---
 
+### Representation and devolution continue to be needed
+
+*2024-11-25 22:20:00* · [`islandlk`](http://island.lk/representation-and-devolution-continue-to-be-needed/) · `en`
+
+Delivering his inaugural policy statement to Parliament, President Anura Kumara Dissanayake dealt mostly with the economy and, in particular, the IMF agreement. The problem he faces is that the former government agreed to terms with the IMF that did not consider the impact on the people, but gave priority to meeting fiscal targets. The President acknowledged that the government had no alternative but to continue with it as the country had gone too far down the road to change direction. He said, “The negotiations had already been ongoing for more than two years. If we were to restart discussions on the restructuring programme for an extended period it will be impossible for us to move the economy forward…”
+
+...
+
+[Data](articles/1aa158d9.json)
+
+---
+
 ### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
 
 *2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
@@ -766,17 +832,41 @@ Very heavy showers above 150 mm are likely at some places in Northern province a
 
 ---
 
-### சட்டவிரோத வீசா அனுமதிப் பத்திரத்தை சட்டரீதியாக்குவதற்கு எமக்கு அனுமதியில்லை - கோஷல விக்ரமசிங்க
+### Unique opportunity for fast-tracked social integration, if only…
+
+*2024-11-25 22:17:00* · [`islandlk`](http://island.lk/unique-opportunity-for-fast-tracked-social-integration-if-only/) · `en`
+
+Surely, racism has caused enough damage to us to warrant its erasure from our midst with the condemnation it deserves, without leaving it more room to further flourish in deceptively benign ways. As showcased by the November 14 election results, many Tamils and Muslims, not forgetting Catholics and Hindus, have voted to power the NPP, led by the JVP, which they might have previously labelled, and avoided, as a ‘Sinhalese’ party.
+
+...
+
+[Data](articles/396a7363.json)
+
+---
+
+### We are not allowed to legalize illegal visa permit - Goshala Wickremasinghe
 
 *2024-11-25 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199653) · `ta`
 
-கடந்த அரசாங்கத்தின் அமைச்சர் ஒருவர் சட்டவிரோதமான முறையில் கைச்சாத்திட்ட ஈ 8 விசா ஒப்பந்தம் காரணமாக 20 வருடங்களுக்கும் அதிக காலம் அதிகமான இலங்கை இளைஞர்களுக்கு கிடைக்கப்பெற்ற ஈ 9 விசா குழுவில் தொழில் இல்லாமல்போகும் ஆபத்து ஏற்பட்டுள்ளது. சட்டவிரோத விசா அனுமதி பத்திரத்தை சட்ட ரீதியாக்குவதற்கு வெளிநாட்டு வேலைவாய்ப்பு பணியகத்துக்கு எந்தவகையிலும் முடியாது என பணியகத்தின் தலைவர் கோஷல விக்ரமசிங்க தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-தென் கொரியாவின் ஈ 8 விசாவில் பருவகால தொழிலுக்காக செல்ல வெளி நபர்களுக்கு பணம் வழங்கிய சிலர் பத்தரமுல்லை இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் பிரதான காரியாலயத்துக்கு முன்னால் முன்னெடுத்து வரும் போராட்டம் தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+
+E8 Visa Agreement controversy: Former Minister illegally signed pact risking Sri Lankan youth jobs. Foreign Employment Bureau cannot validate illegal visas. Probe underway; strict legal action promised against violators.
+
+🟩
+
+The E8 Visa Agreement, which has illegally signed by a minister of the last government, is at risk of unemployment in Sri Lankan youth for over 20 years and more than 20 years.. Bureau Chairman Goshala Wickremasinghe said that the Foreign Employment Bureau could not be able to legalize the illegal visa clearance.
+
+He was speaking to the media about the struggle to be carried out in front of the Sri Lanka Foreign Employment Bureau in Battaramulla.
+
+The E8 Visa is not a method of proper sending people to foreign business. Sri Lanka Foreign Employment Bureau has not allowed private foreign agencies to send workers for seasonal industry in South Korea. If the Bureau is sending workers to foreign business, the bureau must obtain the registration of the Bureau.
 
 ...
 
 [Data](articles/3ba3aefe.json)
+
+[Extended Data](ext_articles/3ba3aefe.ext.json)
 
 ---
 
@@ -885,6 +975,8 @@ Led by Division B Director, TM Clive James and Division G Director, DTM Kasun Il
 ...
 
 [Data](articles/f6c8dc66.json)
+
+[Extended Data](ext_articles/f6c8dc66.ext.json)
 
 ---
 
@@ -2269,73 +2361,5 @@ The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 
 [Data](articles/43cfcf4f.json)
 
 [Extended Data](ext_articles/43cfcf4f.ext.json)
-
----
-
-### CEB granted extension to submit electricity tariff revision proposal
-
-*2024-11-25 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103756/ceb-granted-extension-to-submit-electricity-tariff-revision-proposal) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) has granted the Ceylon Electricity Board (CEB) an extension of two weeks for electricity tariff revision submission until December 6, 2024.
-
-In a letter to the CEB, the PUCSL further stated that accordingly, considering time taken for tariff approval process according to the Sri Lanka Electricity Act of 2009, approved Tariff Methodology and Tariff Review Procedure Rules, the earliest possible date for tariff approval will be January 17, 2025.
-
-The PUCSL also mentioned that in case of failure to submit tariff proposal by December 6, 2024, the Commission will be compelled to implement the tariff revision clause of the Bulk Supply Transaction operational guideline to pass the positive balance of Bulk Supply Transaction Account to consumers.
-
-On Sunday (24), the PUCSL stated that there will be no revision of electricity tariffs for 2024, citing delays in the submission of necessary proposals by the CEB.
-
-...
-
-[Data](articles/d70da15e.json)
-
-[Extended Data](ext_articles/d70da15e.ext.json)
-
----
-
-### The electricity revision is delayed
-
-*2024-11-25 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203720) · `si`
-
-Electricity tariff proposal delay: CEB seeks PUC input by Dec 6, 2024. PUC to inform CEB by Jan 17, 2025.
-
-🟩
-
-The Public Utilities Commission has agreed to the Ceylon Electricity Board for the 6th of December 2024 to provide proposals for electricity tariffs.
-
-The Public Utilities Commission issues announcement to issue the agreement on a request made by the Ceylon Electricity Board.
-
-The Public Utilities Commission has informed the Ceylon Electricity Board (Utilities Commission) by January 17, 2025.
-
-◼️
-
-[Data](articles/5a29a52e.json)
-
-[Extended Data](ext_articles/5a29a52e.ext.json)
-
----
-
-### Sri Lanka stocks close down on month end selling
-
-*2024-11-25 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-on-month-end-selling-189783/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader ASPI closed down 1.44 percent, or 187.62 points, at 12,866; while the more liquid S&P SL20 Index closed down 1.98 percent, or 76.52 points, at 3,794.
-
-Turnover was 2.1 billion. Most of this came from banking (Rs598mn) and capital goods stocks (Rs499mn).
-
-“Market has been on a continuous stretch, so some profit taking is coming in,” market participants said. “There’s also the month end selling.”
-
-Top negative contributors to the ASPI were John Keells Hotels (down at 19.20), Hatton National Bank (down at 222.50), Sampath Bank (up at 92.00), Commercial Bank (down at 120.00), and Melstacorp (down at 107.50).
-
-“There is buying interest, but investors are waiting for better prices.”
-
-There was net foreign outflow of 142 million rupees. (Colombo/Nov25/2024)
-
-◼️
-
-[Data](articles/d78e7e65.json)
-
-[Extended Data](ext_articles/d78e7e65.ext.json)
 
 ---

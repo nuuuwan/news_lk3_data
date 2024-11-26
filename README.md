@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 16:27:20**
+As of **2024-11-26 16:01:10**
 
 ## Newspaper Stats
 
-*Scraped **56,997** Articles*
+*Scraped **56,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,163 +18,77 @@ dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,365
 adaderanalk | 6,897
-tamilmirrorlk | 8,106
+tamilmirrorlk | 8,103
 virakesarilk | 9,285
-adaderanasinhalalk | 9,846
+adaderanasinhalalk | 9,845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,986 (100.0%) of 56,997 articles have been extended.
+56,982 (100.0%) of 56,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### මහ මැතිවරණයේ ආදායම් සහ වියදම් වාර්තා භාරනොදුන්නොත් නඩු
-
-*2024-11-26 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203762) · `si`
-
-මහ මැතිවරණයේදී තරග කළ අපේක්ෂකයින් නියමිත දිනට සිය ආදායම් සහ වියදම් වාර්තා භාරදීමට කටයුතු කළයුතු බවත් එසේ නොකරන අපේක්ෂකයින්ට නඩු පැවරීමට පියවර ගන්නා බවත් මැතිවරණ කොමිෂන් සභාව පවසයි.
-
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේ,
-
-"2024 නොවැම්බර් 14 වනදා මහමැතිවරණය පැවැත්වුණා. ප්‍රතිඵල ලබාදුන්නා 15 වනදා. ප්‍රතිඵල ප්‍රකාශයට පත්කර දින 21ක් ඇතුළත තරග කරන ලද සියලුම පක්ෂවල සහ ස්වාධීන කණ්ඩායම්වල අපේක්ෂකයින් අදාළ අදායම් සහ වියදම් වාර්තා භාරදිය යුතුයි."
-
-"ඒ වගේම එම දේශපාලන පක්ෂ සහ ස්වාධීන කණ්ඩායම් ලෙස ඔවුන්ගේ ආදායම් වියදම් වාර්තා භාරදිය යුතුයි. දෙසැම්බර් 6වන දින හෝ එදිනට පෙර තමන් තරග කරන ලද මැතිවරණ දිස්ත්‍රික්කයේ මැතිවරණ කොට්ඨාසයේ තේරීම් භාර නිලධාරියාට මේ වාර්තා භාරදිය යුතුයි."
-
-"දෙසැම්බර් 6 හෝ ඊට පෙර ආදායම් සහ වියදම් වාර්තා භාරදීමට නොහැකි අපේක්ෂකයින් සම්බන්ධයෙන් පොලීසියට පැමිණිලි කරලා ඒ හරහා නඩු පැවරීමට තමයි නියමිතව තිබෙන්නේ."
-
-◼️
-
-[Data](articles/d42d1587.json)
-
----
-
-### இரட்டையரில் ஒருவர் மாயம்
-
-*2024-11-26 16:08:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரட்டையரில்-ஒருவர்-மாயம்/175-347806) · `ta`
-
-இரட்டைய சகோதரனுடன் ஒரே கட்டிலில் உறங்கிக் கொண்டிருந்த மற்றைய சகோதரன் திடீரென காணாமல் போயுள்ள சம்பவம்  மில்லனிய பிரதேசத்தில்  இடம்பெற்றுள்ளது.
-
-பண்டாரகம பல்லந்துடாவ ஸ்ரீ ஞானரதன வீதியை சேர்ந்த , மொரட்டுவ கட்டுபெத்த ஜேர்மன் தொழில்நுட்ப பயிற்சிக் கல்லூரியில் கல்வி பயிலும் 21 வயதுடைய  சானுக கிம்பார பெரேரா   என்பவரே இவ்வாறு காணாமல் போயுள்ளார்.
-
-இரட்டை சகோதரர்கள் ஞாயிற்றுக்கிழமை (24) அன்று வழமைபோல பெற்றோருடன் உணவருந்திவிட்டு அவர்களின்  அறைக்கு சென்றுள்ளதுடன்  காணாமல் போயுள்ள இளைஞன் தனது கல்வி நடவடிக்கையில் ஈடுபட்டிருந்த நிலையில், மற்றைய ச இளைஞன் உறங்கியுள்ளார்.
-
-திங்கட்கிழமை (25) அதிகாலை  4.30 மணியளவில் இருவருக்கும் உணவு சமைப்பதற்காக எழுந்த தாய் வீட்டின் கதவு பாதி திறந்து கிடந்ததை கண்டு ​அதை மூடிவிட்டு, இரு மகன்களும் தூங்கிக் கொண்டிருந்த அறையை  பார்த்த போது மூத்த மகனை காணவில்லை என பெற்றோர் அளித்த புகாரில் குறிப்பிடப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/0ff1a89f.json)
-
----
-
-### 86 kilograms of drugs uncovered in Padukka
+### පාදුක්ක වටරැක දී මත්ද්‍රව්‍ය කිලෝ 86ක් සොයාගනී
 
 *2024-11-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203761) · `si`
 
-Large drug bust in Sri Lanka: Police find 86kg of ice and heroin, arrest two suspects aged 41 and 37.
+පාදුක්ක වටරැක ප්‍රදේශයේ දී විශේෂ කාර්ය බළකාය සිදුකළ වැටලීමක දි මත්ද්‍රව්‍ය තොගයක් සොයාගෙන තිබේ.
 
-🟩
+පොලීසිය පැවසුවේ එහිදී අයිස් මත්ද්‍රව්‍ය කිලෝ 57ක් සහ හෙරොයින් කිලෝ 29ක් සොයා ගත් බවයි.
 
-A large haul of drugs have been found at the Special Task Force in the Kotaraka area in Kotukara.
-
-Police said that 57 kg of ice drugs and 29 kilos of heroin were found.
-
-Two suspects were arrested and residents of age 41 and 37th Borella and Talawatugoda.
+එහිදී සැකකරුවන් දෙදෙනෙකුද අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් වයස අවුරුදු 41 සහ 37 වන බොරැල්ල සහ තලවතුගොඩ ප්‍රදේශවල පදිංචිකරුවන්ය.
 
 ◼️
 
 [Data](articles/c886535c.json)
 
-[Extended Data](ext_articles/c886535c.ext.json)
-
 ---
 
-### Live location on Instagram
-
-*2024-11-26 15:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இன்ஸ்டாகிராமில்-லைவ்-லொகேஷன்/57-347803) · `ta`
-
-Instagram introduces live location sharing in DMs, lasting up to 60 minutes. Feature available in select countries. Cannot be forwarded. New sticker trends and name tags also added.
-
-🟩
-
-Meta has introduced users to share their live location on Instagram, just as in WhatsApp Messenger.
-
-Instagram is the photo and video share share of Meta company. Launched in 2010. Information that billions of active users are using the Instagram site worldwide today worldwide. It is customary to introduce new features from time to time for users' use experience on this site.
-
-In that way, it is now being introduced in the sharing feature of Live Lockery. With this, Instagram users can share their location through direct messages. This live location will be activated for a maximum of 60 minutes. WhatsApp can be shared with a live location for up to 8 hours.
-
-This can be shared with one another, the group. Yet it cannot be forwarded to others. It has been reported that the Indicator related to this will be in the Chad box.
-
-This feature is now available for users in some countries, according to Meta. Insta users have also introduced their names in direct messages and 17 stickers trends.
-
-◼️
-
-[Data](articles/3e3efd32.json)
-
-[Extended Data](ext_articles/3e3efd32.ext.json)
-
----
-
-### Showers in several areas tomorrow
+### හෙට ප්‍රදේශ කිහිපයකට මි.මී.200ට වැඩි වැසි
 
 *2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203760) · `si`
 
-Red alert: Heavy rainfall & strong winds expected in Northern, Eastern, Central, Uva & Southern Provinces. Isolated areas may receive over 500mm rainfall. Stay updated for further instructions.
+දිවයින වටා ගැඹුරු හා නොගැඹුරු මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා අවධානයෙන් සිටින ලෙස දන්වා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් රතු නිවේදනයක් නිකුත් කර තිබේ.
 
-🟩
+එහි සඳහන් වන්නේ නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති පීඩන අවපාතය ගැඹුරු පීඩන අවපාතයක් දක්වා වර්ධනය වී ඇති බවය.
 
-The Department of Meteorology has issued a red announcement by the Meteorological Department informs that the island around the island.
+මෙම පද්ධතිය අද (26) දින පෙරවරු 11.00 ට පමණ මඩකලපුවේ සිට කිලෝමීටර් 170 ක් සහ ත්‍රිකුණාමලයට කිලෝමීටර් 240 ක් පමණ දුරින් ගිනිකොන දෙසින් පිහිටා ඇති අතර එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව ගමන් කර හෙට (27) දිනයේ සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇති බව සඳහන් වේ.
 
-The press recession in the southwest Bay of Bay of Bay of Bay of Baying recession has increased to a deeper pressure recession.
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු, උතුරුමැද, නැගෙනහිර, ඌව, වයඹ සහ මධ්‍යම පළාත්වල ඉතා තද වැසි සහ තද සුළං බලාපොරොත්තු විය හැක.
 
-This system is located 170 km and 240 km away from Batticaloa and 240 km away from Batticaloa.Is.
+දිවයිනේ බොහෝ ප්‍රදේශවල විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
 
-Due to the impact of this system, there are high rain and strong winds in the North, North Central, Eastern, Uva and Central provinces.
+උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම ,ඌව සහ දකුණු පළාත්වලත් පුත්තලම දිස්ත්‍රික්කයෙත් ඇතැම් ස්ථානවලට මි.මී.200 ට වැඩි ඉතා තද වැසි ඇතිවිය හැක.
 
-There will be a rainy or thundershowers at times in the island.
-
-Heavy showers in the Puttalam, North-Central, Central, Uva and Southern provinces can also occur at more than 500 mm.
-
-Heavy rains can occur in the rest of the island.
+දිවයිනේ සෙසු ප්‍රදේශවලත් ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැක.
 
 ◼️
 
 [Data](articles/0e72a733.json)
 
-[Extended Data](ext_articles/0e72a733.ext.json)
-
 ---
 
-### There is no room for celebrating banned organizations - Cabinet spokesman
+### තහනම් සංවිධාන සැමරීමට කිසි﻿දු ඉඩක් නැහැ - කැබිනට් ප්‍රකාශක
 
 *2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203759) · `si`
 
-Here's a summary of 200 characters:
+තහනම් සංවිධානයක් වන එල්.ටී.ටී.ඊ සංවිධානය ප්‍රවර්ධනය කිරීම සඳහා කිසි﻿ඳු ඉඩක් නොමැති බව කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අද (26) අවධාරණය කළේය.
 
+උතුරේ සිදුකළ බව කියන සැමරුම් පිළිබඳව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නවලට පිළිතුරු දෙමින් අද පැවති කැබිනට් මාධ්‍ය හමුවේදී කැබිනට් ප්‍රකාශක, අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මේ බව සඳහන් කළේය.
 
+"ත්‍රස්තවාදී සංවිධාන, තහනම් සංවිධානවලට මුදල් එකතු කිරීම, ප්‍රචාරණය කිරීම, සංවිධානය කිරීම, ඊට අදාළ ලාංඡන, කොටි, බැනර්, සංකේත ප්‍රදර්ශනය කිරීම රජය විසින් ගැසට් පත්‍රයක් නිකුත් කරලා තියෙනවා. ඒ අනුව තමයි අපි කටයුතු කරන්නේ."
 
-Sri Lanka: No celebration allowed for banned LTTE. Government stance: Respect mourning relatives, but no promotion of terrorist groups. Police will act against illegal commemorations.
+"ඒ නිසා කිසිම ආකාරයකින් ත්‍රස්තවාදී සංවිධාන, තහනම් සංවිධානවල සැමරුම් සිදුකරන්න අයිතියක් නැහැ."
 
-🟩
-
-Cabinet Spokesperson Dr. Nalinda Jayatissa stressed that there is no room for the promotion of the LTTE, a banned organization.
-
-Minister of Cabinet spokesman, Minister Dr. Nalinda Jayatissa made these comments addressing the issues raised by journalists regarding the celebrations of journalists.
-
-"Terrorist organizations, organizing, organize, organize, organize, organize, organize, relevant logo, Tigers, banners and symbols have been displayed. That is what we are working. "
-
-"Therefore, terrorist organizations have no right to commemorate the celebrations of banned organizations."
-
-"But if their dead relatives celebrate, personally.. The government has no right to interfere. We have been very clear.. While we respect the right to celebrate relatives, and there is no opportunity for another kind of illegal activities. "
+"හැබැයි යම් තැනක තමන්ගේ මියගිය ඥාතීන් සමරනවා නම් පෞද්ගලිකව.. ඒකට බාධා කරන්න රජයට අයිතියක් නැහැ. අපි බොහොම පැහැදිලිව කියලා තියෙනවා... ඥාතීන් සමරන්න ඒ අයට තිබෙන අයිතියට අපි ගරු කරන අතරේ වෙනත් ආකාරයක නීතිවිරෝධී කටයුතු සඳහා අවස්ථාවක් ලැබෙන්නේ නැහැ."
 
 ...
 
 [Data](articles/cc5545d2.json)
-
-[Extended Data](ext_articles/cc5545d2.ext.json)
 
 ---
 
@@ -229,24 +143,6 @@ Responding to a question during today’s Cabinet press briefing, he noted that 
 ...
 
 [Data](articles/b98955a2.json)
-
----
-
-### ”வியத்மகவில் இருந்து எவரையும் நியமிக்கவில்லை”
-
-*2024-11-26 15:15:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியத்மகவில்-இருந்து-எவரையும்-நியமிக்கவில்லை/175-347801) · `ta`
-
-வியத்மக உறுப்பினர்கள் தேசிய மக்கள் சக்தி (NPP) அரசாங்கத்திற்கு ஆதரவளிப்பதாகக் கூறப்படுவதைக் கண்டிக்கும் அதேவேளையில், வியத்மகவில் இருந்து எவரும் அமைச்சர்களாகவோ அல்லது அமைச்சு செயலாளர்களாகவோ நியமிக்கப்படவில்லை என அமைச்சரவைப் பேச்சாளரும் ஊடகத்துறை அமைச்சருமான நலிந்த ஜயதிஸ்ஸ இன்று உறுதிப்படுத்தியுள்ளார்.
-
-போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் செயலாளராக பேராசிரியர் கபில பெரேரா நியமிக்கப்பட்டமை தொடர்பில் ஊடகவியலாளர் ஒருவர் கேள்வி எழுப்பினார்.
-
-குறித்த கேள்விக்கு பதிலளித்த அமைச்சர் ஜயதிஸ்ஸ, பேராசிரியர் கபில பெரேராவுக்கு வியத்மகவுடன் தொடர்பில்லை என தெரிவித்தார்.
-
-“பேராசிரியர் கபில பெரேரா அவரது தகுதிகள் மற்றும் கடந்த கால அனுபவத்தின் அடிப்படையில் மட்டுமே நியமிக்கப்பட்டார். தற்போதைய செயலாளர் பதவிக்கு அவரை நியமிப்பதற்கு முன் அவரது திறன்களை அரசாங்கம் பரிசீலித்தது,” என்று அவர் விளக்கினார்.
-
-...
-
-[Data](articles/e051c952.json)
 
 ---
 
@@ -2435,5 +2331,95 @@ Sunrisers Hyderabad bought fast bowler Bhuvneshwar Kumar, who was bought by Sunr
 [Data](articles/a28285c9.json)
 
 [Extended Data](ext_articles/a28285c9.ext.json)
+
+---
+
+### What are the privileges of current MPs from the new government?
+
+*2024-11-26 01:30:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0mz3xmpdndo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New government promises to revoke MPs' duty-free vehicle licenses. Cabinet approves selling 150 luxury vehicles. Reviewing salaries and allowances. Proposals to abolish certain privileges and use cafeteria-style meals. Housing reform suggested, including renting quarters and crediting money to Mahapola Fund.
+
+🟩
+
+The present government has made a major promise on election platforms in the general election and the general election.
+
+The abolition of the duty-free vehicle license of the MPs, the national representative vehicles are not used and the national representatives.
+
+At the first Cabinet meeting, Anura Kumara Dissanayake was appointed as the president.
+
+Retired Supreme Court Judge KT. Limited as the other members of the committee chaired by Chwarasinghe. Jayantha, a retired district secretary, Dissanayake and a retired district secretary. The Bulum is working.
+
+Recommendations of the people, ministers, pensions, quarters, office equipment, office equipment, office equipment and security personnel, and the privilege of enabling appropriate alternatives and privileges.The committee is responsible for submitting a detailed report with a detailed report within two months.
+
+...
+
+[Data](articles/bab6c338.json)
+
+[Extended Data](ext_articles/bab6c338.ext.json)
+
+---
+
+### Remembering my father, Eric Cooray
+
+*2024-11-26 01:27:25* · [`dailyftlk`](https://www.ft.lk/columns/Remembering-my-father-Eric-Cooray/4-769677) · `en`
+
+My father would want to be remembered for his unwavering faith, calm demeanour, and boundless kindness. He taught me to face adversity with grace, to be generous and kind, and to live a life of integrity. Though he is no longer with us, his legacy lives on in the values he instilled in all of us
+
+This will be my first Christmas without my father, Eric Cooray, who passed away three months ago. Life has felt strange since that inevitable moment, one I always dreaded, while never anticipating just how difficult his loss would be to accept.
+
+Almost every day starts and ends with thoughts of my father, from fond memories of my childhood to imagining how proud he would be of his beloved grandchildren. Throughout my life, he inspired me in countless ways. Even now, I draw so much strength from memories of him that it still feels like he is guiding me from the heavens, giving me the strength to keep moving forward.
+
+...
+
+[Data](articles/685c5e18.json)
+
+[Extended Data](ext_articles/685c5e18.ext.json)
+
+---
+
+### Pragmatic ethical President
+
+*2024-11-26 01:17:45* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatic-ethical-President/4-769676) · `en`
+
+President of the Republic Anura Kumara Dissanayake spoke without notes in his first policy statement in Parliament. His unhesitating delivery in punctilious order was simultaneously translated into both English and Tamil.
+
+I rely on the English translation of the speech for the purpose of this brief commentary. He described it as a “monumental moment in the history of Sri Lanka’s Parliament.”
+
+Indeed, it will be remembered as a watershed moment, a turning point of our politics if only he succeeds in resolving his twin dilemmas – ensuring ethical governance, adopting pragmatic economics to break free from a “Sovereign Debt Trap.”
+
+...
+
+[Data](articles/47f173a5.json)
+
+[Extended Data](ext_articles/47f173a5.ext.json)
+
+---
+
+### Chinese Communist Party group meets president
+
+*2024-11-26 01:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனக்-கம்யூனிஸ்ட்-கட்சி-குழுவினர்-ஜனாதிபதியுடன்-சந்திப்பு/175-347776) · `ta`
+
+Chinese Communist Party delegation met Sri Lankan president. They congratulated Anura Kumara Dissanayake's election win and expressed readiness to collaborate under his leadership. Discussion focused on bilateral development opportunities and mutually beneficial programs between China and Sri Lanka.
+
+🟩
+
+The Chinese delegation headed by the Central Committee of the Central Committee of the Central Committee of the Central Committee of the Chinese Committee met with the Chinese delegation headed by Sun Haiyan yesterday (25) at the Presidential Office.
+
+The Chinese Deputy Minister congratulated the victory of Anura Kumara Dissanayake in the last presidential election and the victory of his party in the general election and congratulated the exchanges in Sri Lanka after these victories.
+
+The deputy minister -led delegation told the president that China is ready to work closely with Sri Lanka under the leadership of President Anura Kumara Dissanayake.
+
+The focus was on the development opportunities of the two countries, China and Sri Lanka, and the significance of a mutual beneficial program between the two countries was discussed.. (A)
+
+◼️
+
+[Data](articles/26c720bc.json)
+
+[Extended Data](ext_articles/26c720bc.ext.json)
 
 ---

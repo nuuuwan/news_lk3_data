@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 14:01:45**
+As of **2024-11-26 13:42:42**
 
 ## Newspaper Stats
 
-*Scraped **56,973** Articles*
+*Scraped **56,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 438
 colombotelegraphcom | 578
 bbccomsinhala | 592
-islandlk | 3,422
-economynextcom | 3,454
+islandlk | 3,421
+economynextcom | 3,449
 dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,362
@@ -26,33 +26,11 @@ adaderanasinhalalk | 9,839
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,958 (100.0%) of 56,973 articles have been extended.
+56,955 (100.0%) of 56,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
-
-### Sri Lanka’s Abans to raise upto Rs2bn in debenture issue
-
-*2024-11-26 13:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-abans-to-raise-upto-rs2bn-in-debenture-issue-184894/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Abans Plc is planning to raise up to 2 billion rupees in a debenture issue, the company said.
-
-The consumer products retailer will initially issue 10 million listed, rated, unsecured, senior, redeemable, 5-year debentures at 100 rupees each.
-
-Abans will issue up to a further 10 million debentures in the event of an oversubscription of the initial issue to raise a maximum amount of 2 billion.
-
-They will bear a fixed interest rate of 13 percent per annum payable annually (AER 13%), the company said in a stock exchange filing.
-
-The Colombo Stock Exchange has approved the listing in principle.
-
-NDB Investment Bank Limited is the manager and placement agent to the issue. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/851b6eff.json)
-
----
 
 ### How the import of vehicle is happening
 
@@ -79,26 +57,6 @@ These are the few occasions in three occasions. Because this is a gradual progra
 [Data](articles/14452b4a.json)
 
 [Extended Data](ext_articles/14452b4a.ext.json)
-
----
-
-### Foreign investors scope Sri Lanka’s Trincomalee, Hambantota ports
-
-*2024-11-26 13:14:00* · [`economynextcom`](https://economynext.com/foreign-investors-scope-sri-lankas-trincomalee-hambantota-ports-186973/) · `en`
-
-ECONOMYNEXT – A group of 20 foreign investors from India, Saudi Arabia, Maldives, France, Japan, Thailand, the United States, and Cambodia visited Sri Lanka’s Trincomalee and Hambantota ports this week to explore their potential for maritime investments, the Export Development Board said.
-
-“The visits aimed to showcase Sri Lanka’s potential as a hub for maritime investments and its growing blue economy,” EDB said in a statement.
-
-The delegation explored the opportunities across various sectors, including marina development shipbuilding, vessel maintenance, engineering services, bunkering, and related offshore services.
-
-“Investors also explored prospects for establishing joint ventures with existing local businesses or initiating new enterprises.”
-
-The visit was part of the EDB’s Voyage Sri Lanka 2024 initiative. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/b8da5222.json)
 
 ---
 
@@ -330,22 +288,6 @@ The party leaders have stated that they are not expected to go to vote about the
 
 ---
 
-### Sri Lanka awards diesel contract to Singapore’s BB Energy
-
-*2024-11-26 12:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-diesel-contract-to-singapores-bb-energy-189903/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has awarded a contract to supply 4 shipments of diesel (0.05% MS) from December 15, 2024 to June 14, 2025 to Singapore’s BB Energy (Asia) Pte Ltd, a government statement said.
-
-Bids were invited from registered suppliers of Ceylon Petroleum Corporation and 6 bidders submitted bids.
-
-After evaluating the bids, the Cabinet approved the proposal to award the procurement to Singapore’s BB Energy (Asia) Private Limited as recommended by its Procurement Committee. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/352d9fe3.json)
-
----
-
 ### Steps will be taken to provide justice to the JVP killed during the 1988-89 rebellion - the party's general secretary
 
 *2024-11-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199703) · `ta`
@@ -565,28 +507,6 @@ Archana Ramanathan MP has been issued a warrant for not appearing in court.
 [Data](articles/ae7bc12d.json)
 
 [Extended Data](ext_articles/ae7bc12d.ext.json)
-
----
-
-### Sri Lanka examining Adani projects, reports sought: Minister
-
-*2024-11-26 11:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-examining-adani-projects-reports-sought-minister-189895/) · `en`
-
-ECONOMYEXT  – Sri Lanka’s government has called for reports on India’s Adani projects in the island, and is taking the matter seriously, Media Minister Nalinda Jayatissa said, in the wake of charges being filed in the US alleging bribery.
-
-The Finance Ministry and Foreign Ministry is inquiring in to the matter, he told reporters Colombo Tuesday.
-
-Adani has a wind project, a transmission and a port terminal joint venture with Sri Lanka’s John Keells Holdings and Sri Lanka Ports Authority.
-
-“Reports from relevant ministries have been called,” Minister Jayatissa said.
-
-RELATED Adani charged in US over renewable energy bribery amid Sri Lanka troubles
-
-The US Department of Justice and Securities and Exchange Commission filed charges alleging bribery in getting approval for renewable plant in India which were part financed by US investors. (Colombo/Nov25/2024)
-
-◼️
-
-[Data](articles/d5b872d7.json)
 
 ---
 
@@ -832,13 +752,13 @@ He was speaking at the Cabinet Decision informed today (25), he said that the la
 
 ---
 
-### Cabinet approval to present Vote on Account; 2025 Budget Speech on Feb.17
+### Cabinet approval to present Vote on Account; 2025 Budget on Jan. 9
 
 *2024-11-26 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103770/cabinet-approval-to-present-vote-on-account-2025-budget-on-jan-9) · `en`
 
 The 2025 Budget proposal will be presented to the Parliament on January 9, 2025, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa confirmed.
 
-Speaking during the Cabinet press briefing held this morning (26), the Minister stated that the Second Reading of the 2025 Budget (Budget Speech) will take place on February 17, while the debate on the Third Reading will be held from February 27 to March 21.
+Speaking during the Cabinet press briefing held this morning (26), the Minister stated that the Second Reading of the 2025 Budget will take place on February 17, while the debate on the Third Reading will be held from February 27 to March 21.
 
 Furthermore, the Cabinet Spokesman added that the new government is expected to prepare the budget for the year 2025 as a budget that will strengthen the public’s trust in the government and take the initial steps towards the desired development so that the public’s expectations are fulfilled.
 
@@ -888,28 +808,6 @@ However, Minister Wijepala clarified that there is no restriction on people of t
 
 [Data](articles/6b59de96.json)
 
-[Extended Data](ext_articles/6b59de96.ext.json)
-
----
-
-### Sri Lanka sets December 12 deadline to exchange defaulted bonds
-
-*2024-11-26 10:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-sets-december-12-deadline-to-exchange-defaulted-bonds-189870/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the exchange of new bonds for defaulted sovereign bonds, Deputy Minister of Economic Development Anil Jayantha said.
-
-“The cabinet approved the proposal to issue new bonds in place of the previous bonds,” Jayantha told reporters on Tuesday.
-
-Sri Lanka has invited bondholders to tender the old bond by December 12, a government statement said.
-
-Sri Lanka is exchanging the new bonds for defaulted bonds of 12.55 billion.
-
-Sri Lanka plans to present its national budget on February 14.
-
-◼️
-
-[Data](articles/7b6bd339.json)
-
 ---
 
 ### A reputable red announcement from the weather
@@ -938,27 +836,21 @@ Heavy showers that some 100 millilitaries can be raised in some places in the No
 
 ---
 
-### 2025 Budget Jan 09
+### 2025 අයවැය ජනවාරි 09
 
 *2024-11-26 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203746) · `si`
 
-Budget 2025: Presented Jan 9, readings Feb 17-Mar 21, rice import approved to control prices.
+2025 අයවැය යෝජනා 2025 ජනවාරි 09 වනදා පාර්ලිමේන්තුවට ඉදිරිපත් කරන බව කැබිනට් ප්‍රකාශක වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
 
-🟩
+එහි දෙවැනි වර කියවීම පෙබරවාරි 17 වනදා සිදුකිරීමට නියමිත අතර තෙවැනි වර කියවීමට අදාළ විවාදය පෙබරවාරි 27 සිට මාර්තු 21 වනදා සිදුකිරීමට නියමිතය.
 
-The budget proposals will be presented to Parliament on 9 January 2025, Cabinet spokesman Dr. Nalinda Jayatissa said.
+මේ අතර වෙළෙඳපොළෙහි පවතින නාඩු සහල් හිඟය සහ සහල් මිල පාලනය පිණිස සහල් ආනයන කිරීම සඳහා කැබිනට් අනුමැතිය ලබා දී තිබේ.
 
-The second reading is due to be done on February 17 and the debate on the third time is scheduled to be held from February 27 to 21st March.
-
-Meanwhile, the cabinet approval has been given to import rice in the market and rice to control rice price control.
-
-Cabinet spokesman Dr. Nalinda Jayatissa said that the cabinet approved the importation of 70,000 metric tons of golden rice from India.
+ඒ අනුව ස්වර්ණ නාඩු සහල් මෙට්‍රික් ටොන් 70,000ක් ඉන්දියාවෙන් ආනයනය කිරීමට කැබිනට් අනුමැතිය ලැබුණු බව කැබිනට් ප්‍රකාශක වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
 
 ◼️
 
 [Data](articles/652154c2.json)
-
-[Extended Data](ext_articles/652154c2.ext.json)
 
 ---
 
@@ -1003,8 +895,6 @@ They emphasized the alignment of the goals of both nations and discussed the pot
 ...
 
 [Data](articles/efaacdff.json)
-
-[Extended Data](ext_articles/efaacdff.ext.json)
 
 ---
 
@@ -2256,22 +2146,6 @@ Arpico invited customers to participate in a joyful hands-on experience of tradi
 
 ---
 
-### CA Sri Lanka embellishes corporate sector with over 381 new accountants
-
-*2024-11-25 22:05:00* · [`islandlk`](http://island.lk/ca-sri-lanka-embellishes-corporate-sector-with-over-381-new-accountants/) · `en`
-
-At the recent graduation ceremony of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), 381 new accountants graduated to enter the corporate sector. President, CA Sri Lanka, Heshana Kuruppu, among other things, said these new professionals in the accounting field, well-equipped with IT skills, were all- round professionals and capable of meeting the new demands in the field of accounting.
-
-Kuruppu added: ‘As a premier professional organization, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) has once again strengthened
-
-the corporate sector by introducing a new cohort of Chartered Accountants. These individuals are equipped with a range of versatile skills and expertise, ready to navigate the constantly changing corporate landscape.
-
-...
-
-[Data](articles/7eab6f97.json)
-
----
-
 ### JKH shares seen as affected by speculation relating to Adani Group-linked transaction
 
 *2024-11-25 22:03:00* · [`islandlk`](http://island.lk/jkh-shares-seen-as-affected-by-speculation-relating-to-adani-group-linked-transaction/) · `en`
@@ -2285,5 +2159,121 @@ US prosecutors on Wednesday charged Indian billionaire Gautam Adani with involve
 [Data](articles/e15a634f.json)
 
 [Extended Data](ext_articles/e15a634f.ext.json)
+
+---
+
+### The landslide warning imposed on 6 districts is further extended for the next 24 hours
+
+*2024-11-25 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199672) · `ta`
+
+Landslide warnings extended: 6 districts (Badulla, Galle, Kegalle, Matara, Nuwara Eliya, Ratnapura) for 24 hours. Meteorology department issues alert for Northern Province and Trincomalee District for 36 hours.
+
+🟩
+
+The landslide risk notice issued to the six districts of Badulla, Galle, Kegalle, Matara, Nuwara Eliya and Ratnapura has been extended for a further 24 hours.
+
+Meanwhile, the Department of Meteorology made a statement in the Northern Province and Trincomalee District in the next 36 hours in the next 36 hours.
+
+◼️
+
+[Data](articles/161b81f3.json)
+
+[Extended Data](ext_articles/161b81f3.ext.json)
+
+---
+
+### Toastmaster Division B and G Joint Division Conference lights up District 82
+
+*2024-11-25 22:01:00* · [`islandlk`](http://island.lk/toastmaster-division-b-and-g-joint-division-conference-lights-up-district-82/) · `en`
+
+On November 10 2024, the Centre for Banking Studies buzzed with excitement as members of Division B and Division G of District 82, Toastmasters International came together for their joint Division Conference under the inspiring theme “Beyond Greatness.” This theme, cleverly echoing the initials of Divisions B and G, set the tone for a day filled with exceptional talent and achievement.
+
+Led by Division B Director, TM Clive James and Division G Director, DTM Kasun Ilangaratne, the conference showcased the best of Toastmasters’ talent and spirit. TM Amritha Allahakoon from Division B and DTM Chethana Dharashanamali from Division G masterfully chaired the entire conference, while TMs Muditha Hapuarachchi and Tashika Fernandopulle chaired the Humorous Speech and Evaluation Speech contests for Divisions B and G. An impressive audience of over 200 attendees gathered to witness contestants go beyond greatness in their performances.
+
+...
+
+[Data](articles/f6c8dc66.json)
+
+[Extended Data](ext_articles/f6c8dc66.ext.json)
+
+---
+
+### Wurth Group relaunches its 2290th Brand Shop in Sri Lanka
+
+*2024-11-25 21:57:00* · [`islandlk`](http://island.lk/wurth-group-relaunches-its-2290th-brand-shop-in-sri-lanka/) · `en`
+
+The Wurth Group relaunched its 2290th state-of-the-art Brand/Pickup shop in Makumbura, Sri Lanka recently. Placed at a strategic location near the entrance of the Kottawa expressway, motorists can conveniently stop by to do a fast “highway readiness” check of their vehicles before entering the expressway. Be it changing the wipers, checking the brake lights, or indicators, tire pressure, or the radiator levels, additives, all can be done within minutes with Wurth Lanka’s “is your vehicle highway ready?” service. This would be the new brand/pickup shop with many more to follow with Kandy in the pipeline.
+
+...
+
+[Data](articles/21324d36.json)
+
+[Extended Data](ext_articles/21324d36.ext.json)
+
+---
+
+### Holidays for all Muslim schools in the Eastern Province on the 26th and 27th
+
+*2024-11-25 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199681) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Holidays: All Muslim schools in Eastern Province closed on 26th & 27th. Classes resume on Saturday."
+
+🟩
+
+All Muslim schools in the Eastern Province have been granted holidays tomorrow and tomorrow and 27th.
+
+The answer is that the school will be held on Saturdays, he added.
+
+◼️
+
+[Data](articles/33ae0e70.json)
+
+[Extended Data](ext_articles/33ae0e70.ext.json)
+
+---
+
+### Landslid warns to several other areas
+
+*2024-11-25 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203731) · `si`
+
+National Building Research Organization issues landslide warnings for Badulla and Matale districts starting 9 PM tomorrow. Areas affected include Haldummulla, Ella, Halani, Hagahala, Hawulla, Ambanganga Koralaya, Aratota, Ukuwela, Wilgamuwa, and Naula.
+
+🟩
+
+The National Building Research Organization has taken steps to issue a pre-landson of landslides for several areas.
+
+The organization said that the warning announcement operates from 9.00 pm from 9.00 pm tomorrow (25).
+
+Badulla District - Haldummulla, ⁠hella, ⁠ (⁠halani, ⁠hagahala, ⁠hawulla, ⁠hawulla,
+
+Matale District - Ambanganga Koralaya, ⁠aratota, Ukuwela, Wilgamuwa, Naula, Naula, Matale
+
+◼️
+
+[Data](articles/bfe299a5.json)
+
+[Extended Data](ext_articles/bfe299a5.ext.json)
+
+---
+
+### President urges grassroots solutions and law enforcement for disaster management
+
+*2024-11-25 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103761/president-urges-grassroots-solutions-and-law-enforcement-for-disaster-management) · `en`
+
+President Anura Kumara Dissanayake has emphasized that simply reinforcing institutional frameworks is insufficient for effective disaster management. The President stressed the need to establish mechanisms to deliver practical solutions at the grassroots level, the President’s Media Division (PMD) stated in a statement.
+
+Speaking at the swearing-in ceremony of Deputy Defence Minister Aruna Jayasekara today (25), President Dissanayake highlighted the importance of empowering local government institutions to prevent disasters in vulnerable areas and develop innovative solutions, the PMD said.
+
+The President noted that the country’s disaster management laws were formulated after considerable study and that it is the responsibility of officials to implement them effectively. He assured his unwavering support for any official who upholds their duties with integrity and called on Government officials to propose enhancements to the legal framework if needed.
+
+...
+
+[Data](articles/d364e202.json)
+
+[Extended Data](ext_articles/d364e202.ext.json)
 
 ---

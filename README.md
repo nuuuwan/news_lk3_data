@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 02:01:23**
+As of **2024-11-27 02:26:24**
 
 ## Newspaper Stats
 
@@ -26,49 +26,81 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,090 (100.0%) of 57,092 articles have been extended.
+57,092 (100.0%) of 57,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### நோலிமிட் ஸாஹிரா சுப்பர் 16 சொக்கர் 7s: இலங்கையிலுள்ள 15 பாடசாலை அணிகளும் கத்தார் பாடசாலையும் பங்கேற்பு
+### Nolimid Zahira Super 16 Sochar 7s: 15 schools in Sri Lanka and Qatar School
 
 *2024-11-27 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199789) · `ta`
 
-இலங்கையின் பல்வேறு பகுதிகளில் இயங்கும் 15 பிரபல பாடசாலை அணிகளும் கத்தார் தேசத்தில் இயங்கும் ஒரு பாடசாலை அணியும் பங்குபற்றும் 18ஆவது ஸாஹிரா சுப்பர் 16 சொக்கர் 7s கால்பந்தாட்டப் போட்டி கொழும்பு குதிரைப் பந்தயத் திடலில் டிசம்பர் மாதம் 8ஆம் திகதி காலையிலிருந்து முழுநாளும் நடைபெறவுள்ளது.
+Here's a 200-character summary of the text:
 
-இந்த வருடம் நோலிமிட் பிரதான அனுசரனை வழங்குவதால் இப் போட்டி நோலிமிட் ஸாஹிரா சுப்பர் 16 சொக்கர் 7s என அழைக்கப்படுகிறது.
 
-இளம் கால்பந்தாட்ட வீரர்களின் திறமைகளை வெளிச்சத்திற்கு கொண்டு வருவதில் 19 வயதுக்குட்பட்டவர்களுக்கான இந்தப் போட்டி பிரதான பங்கு வகிக்கறது என்று கூறினால் மிகையாகாது.
 
-இப் போட்டியில் 19 வயதுக்குட்பட்ட 16 அணிகள் பங்குபற்றுவதுடன் 12 வயதுக்குட்பட்ட 8 அணிகள் சிறப்பு கால்பந்தாட்டப் போட்டியில் விளையாடவுள்ளன.
+Zahira Super 16 Soccer 7s Tournament: 18th edition on Dec 8th in Colombo. 16 teams under 19, 8 teams under 12. Sponsored by Nolimid Zahira. Alumni donation per goal. Qualifying teams announced. Group stage, quarter-finals, semi-finals, finals. Awards for top players. Special match for under 12s. Multiple sponsors.
 
-இந்த வருட ஸாஹிரா சுப்பர் 16 சொக்கர் 7s கால்பந்தாட்டப் போட்டி மனித நேயத்தை வெளிப்படுத்தும் ஒரு முக்கிய போட்டியாக அமையவுள்ளது.
+🟩
+
+The 18th Zahira Super 16 Soccer Football Tournament will be held on the 8th of December at the Colombo Horse Racing Tournament.
+
+The competition is called the Nolimid Zahira Super 16s 7S as the Nolimid main sponsor this year.
+
+It is no exaggeration to say that the competition play a major role in bringing the talents of young football players to light.
+
+The competition will be participated in 16 teams under the age of 19 and 8 teams under the age of 12 will play a special soccer tournament.
+
+This year's Zahira Super 16 Soccer 7S Football Tournament will be an important match to express humanity.
+
+The Alumni Leaders Association has come forward to donate a total of 500 rupees for each goal in this year's Sochar 7S competition.
+
+It illustrates the compassion and generosity of the old student leader's members.
+
+However, this year, 9 teams have qualified to participate in the Zahira Super 16 Sochar 7S tournament for the under 19 this year.. The other 7 teams qualified for the qualifying round.
 
 ...
 
 [Data](articles/1e3186c5.json)
 
+[Extended Data](ext_articles/1e3186c5.ext.json)
+
 ---
 
-### பங்களாதேஷை 201 ஓட்டங்களால் வீழ்த்திய மே. தீவுகளுக்கு இரண்டரை வருடங்களில் சொந்த மண்ணில் முதலாவது வெற்றி
+### May be defeated by 201 runs in Bangladesh. First win on home soil in two and a half years
 
 *2024-11-27 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199788) · `ta`
 
-அன்டிகுவா, நோர்த் சவுண்ட் விவியன் றிச்சட்ஸ் விளையாட்டரங்கில் நடைபெற்ற பங்களாதேஷுக்கு எதிரான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் 201 ஓட்டங்களால் மேற்கிந்தியத் தீவுகள் மிக இலகுவாக வெற்றிபெற்றது.
+Here's a summary of the text in approximately 200 characters:
 
-கடந்த இரண்டரை வருடங்களில் மேற்கிந்தியத் தீவுகள் தனது சொந்த மண்ணில் ஈட்டிய முதலாவது டெஸ்ட் வெற்றி இதுவாகும்.
 
-இந்த வெற்றியில் ஜஸ்டின் கிறீவ்ஸ் குவித்த கன்னிச் சதம், மிக்கைல் லூயிஸ், அலிக் அத்தானேஸ் ஆகியோர் குவித்த அரைச் சதங்கள், அல்ஸாரி ஜோசப், கெமர் ரோச், ஜேடன் சீல்ஸ் ஆகியோர் பதிவு செய்த 3 விக்கெட் குவியல்கள் என்பன மேற்கிந்தியத் தீவுகளை வெற்றிபெறச் செய்தன.
 
-இநி;தப் போட்டியில் தஸ்கின் அஹ்மத் 6 விக்கெட் குவியலைப் பதிவு செய்தபோதிலும் அது கடைசியில் வீண்போனது.
+West Indies won 1st Test vs Bangladesh at Antigua. 1st home win in 2.5 years. Justin Greaves top-scored. Bangladesh lost 2nd innings chasing 334-run target by 132 runs.
 
-334 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு இரண்டாவது இன்னிங்ஸில் துடுப்பெடுத்தாடிய பங்களாதேஷ் சகல விக்கெட்களையும்  இழந்து 132 ஓட்டங்ளைப் பெற்று தோல்வி அடைந்தது.
+🟩
+
+The West Indies won the first Test cricket match against Bangladesh at the Antigua, North Sound Vivian Rickets Stadium.
+
+This is the first Test victory in the West Indies in the last two and a half years.
+
+In this victory, Justin Greevez conquered the West Indies by winning the West Indies, the half -centuries accumulated by Michelle Luis and Alik Attanes, and 3 wickets recorded by Alzari Joseph, Khmer Roach and Jaden Seales.
+
+Dasin Ahmad recorded a 6 -wicket ride in the match, but it finally fell.
+
+Bangladesh lost all the wickets in the second innings with a target of 334 runs and lost 132 runs.
+
+The West Indies, which began last Friday, stopped their first innings on the 2nd when the West Indies lost 9 wickets and scored 450 runs.
+
+Bangladesh started their first innings that day and scored 269 runs that lost 9 wickets when the 3rd match ended.
+
+The next morning, Bangladesh decided to stop its innings before the game continued.
 
 ...
 
 [Data](articles/a83721b9.json)
+
+[Extended Data](ext_articles/a83721b9.ext.json)
 
 ---
 

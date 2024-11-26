@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 04:42:05**
+As of **2024-11-27 05:00:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,097 (100.0%) of 57,098 articles have been extended.
+57,098 (100.0%) of 57,098 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Cabinet Spokesman also disclosed that the Chinese Embassy in Sri Lanka has a
 ◼️
 
 [Data](articles/e74c8ca6.json)
+
+[Extended Data](ext_articles/e74c8ca6.ext.json)
 
 ---
 

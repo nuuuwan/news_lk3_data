@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 22:17:13**
+As of **2024-11-26 21:42:33**
 
 ## Newspaper Stats
 
-*Scraped **57,063** Articles*
+*Scraped **57,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,454
 dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,379
-adaderanalk | 6,908
-tamilmirrorlk | 8,117
+adaderanalk | 6,906
+tamilmirrorlk | 8,116
 virakesarilk | 9,301
 adaderanasinhalalk | 9,858
 
@@ -26,113 +26,43 @@ adaderanasinhalalk | 9,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,059 (100.0%) of 57,063 articles have been extended.
+57,053 (100.0%) of 57,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### பாராளுமன்ற நீர் தடாகத்திற்குள் வீழ்ந்தது எம்.பியின் கார்
-
-*2024-11-26 22:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நீர்-தடாகத்திற்குள்-வீழ்ந்தது-எம்-பியின்-கார்/175-347825) · `ta`
-
-தேசிய மக்கள் சக்தி கட்சியின் பொதுச் செயலாளரும் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினருமான நிஹால் அபேசிங்கவின் கார் இன்று (26) மாலை பாராளுமன்ற வளாகத்தில் உள்ள நீர் தடாகத்திற்குள் விழுந்து விபத்துக்குள்ளானது.
-
-புதிய பாராளுமன்ற உறுப்பினர்களுக்கான செயலமர்வில் பங்கேற்ற பாராளுமன்ற உறுப்பினர் நிஹால் அபேசிங்கவை மீண்டும்  ஏற்றிச் செல்ல சாரதி வந்தபோதே இவ்வாறு தடாகத்திற்குள் வீழ்ந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர். R
-
-◼️
-
-[Data](articles/b682c7c1.json)
-
----
-
-### 48 thousand 295 people are affected by heavy rains in Mannar district -Government Agent K. Kanakeswaran
+### மன்னார் மாவட்டத்தில் தொடர்ச்சியாக பெய்து வரும் கடும் மழை காரணமாக 48 ஆயிரத்து 295 பேர் பாதிப்பு - அரசாங்க அதிபர் க.கனகேஸ்வரன்
 
 *2024-11-26 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199783) · `ta`
 
-Here's a summary of 200 characters:
+மன்னார் மாவட்டத்தில் தொடர்ச்சியாக பெய்து வரும் கடும் மழை காரணமாக 48 ஆயிரத்து 295 நபர்கள் பாதிக்கப்பட்டுள்ளதுடன், அவர்களில் 2049 நபர்கள் 22 பாதுகாப்பு மையங்களில் தங்க வைக்கப்பட்டுள்ளதாக மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தெரிவித்தார்.
 
+மன்னார் மாவட்டச் செயலகத்தில் செவ்வாய்க்கிழமை (26) மாலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
 
+மன்னார் மாவட்டத்தில் கடந்த நான்கு நாட்களுக்கு மேலாக பெய்து வரும் கடும் மழை காரணமாகவும் தற்போது வங்காள விரிகுடாவில் ஏற்பட்டுள்ள குறைந்த காற்றழுத்த நிலைமை காரணமாக மேலும் வலுவடைந்துள்ளது.
 
-48,295 people affected by heavy rains in Mannar district. 2,049 housed in 22 security centers. Floods destroy 9,779 acres of land. Water level at Kattakkarai pond reaches 11 feet. Government provides food assistance.
-
-🟩
-
-Mannar District Government Agent K. Kanageswaran said that 48 thousand 295 persons have been affected by heavy rains in Mannar district and 2049 persons have been housed in 22 security centers.
-
-He was speaking at a media briefing held at the Mannar District Secretariat on Tuesday evening.
-
-Due to heavy rains in the Mannar district for the past four days, the low -lying situation in the Bay of Bengal has been further strengthened.
-
-According to the current situation, 48 thousand 295 persons belonging to 13 thousand 860 families in Mannar district have been affected by the floods. In the Mannar district, Mannar, Madhu, Manthai West and Nanattan Divisional Secretariat Divisions have been affected by the floods.
-
-According to the 22 security centers set up in the district, 2049 persons from 589 families have been housed and the steps are being taken to provide them with cooked food.
+தற்போதைய நிலைமையின் படி மன்னார் மாவட்டத்தில் 13 ஆயிரத்து 860 குடும்பங்களைச் சேர்ந்த 48 ஆயிரத்து 295 நபர்கள் மழை வெள்ளத்தினால் பாதிக்கப்பட்டுள்ளனர். மேலும் மன்னார் மாவட்டத்தில் மன்னார் நகரம்,மடு,மாந்தை மேற்கு, நானாட்டான் ஆகிய பிரதேச செயலக பிரிவுகளில் வெள்ள நிலைமை காரணமாக பொது மக்கள் பாதிக்கப்பட்டுள்ளனர்.
 
 ...
 
 [Data](articles/3fd1286a.json)
 
-[Extended Data](ext_articles/3fd1286a.ext.json)
-
 ---
 
-### Seven including 5 children missing after tractor swept away by floods
-
-*2024-11-26 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103793/seven-including-5-children-missing-after-tractor-swept-away-by-floods) · `en`
-
-Seven persons including 05 children are reported missing while two children have been rescued after the tractor they were travelling on was caught in flood waters in Karaitivu in Ampara District.
-
-Police said that a total of 09 individuals including 07 children, the tractor’s driver and assistant were traveling on the vehicle at the time of the incident and that 02 children had been rescued.
-
-A search operation has been launched to locate the missing persons.
-
-The incident had occurred near the Karaitivu Junction as the group of students, aged between 12 and 16 years, were returning from attending a Madrasa school in Ninthavur.
-
-◼️
-
-[Data](articles/18407ad5.json)
-
-[Extended Data](ext_articles/18407ad5.ext.json)
-
----
-
-### Over 77,000 people affected by adverse weather in Sri Lanka
-
-*2024-11-26 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103791/over-77000-people-affected-by-adverse-weather-in-sri-lanka) · `en`
-
-The Disaster Management Centre (DMC) says that the prevailing inclement weather conditions in the country have so far affected 77,670 persons from 22,532 families across 15 districts.
-
-It said that the bad weather-related incidents have resulted in the dead of one person and injured another 05.
-
-A total of 2,770 individuals from 821 families are currently in emergency relief centres while six houses have been completely destroyed and 265 houses have been partially damaged, according to the DMC.
-
-◼️
-
-[Data](articles/d31ba7c9.json)
-
-[Extended Data](ext_articles/d31ba7c9.ext.json)
-
----
-
-### Many children missing in the plowing machine flooded
+### உழவு இயந்திரம் வெள்ளத்தில் அடித்துச் செல்லப்பட்டதில் பல குழந்தைகளை காணவில்லை
 
 *2024-11-26 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199782) · `ta`
 
-Children swept away by flooded plowing machine. Five kids among seven passengers missing. Two rescued, receiving treatment. Authorities conducting search operation due to heavy rainfall causing severe flooding.
+காரைதீவில் ஐந்து குழந்தைகள் உட்பட 7 பேரை ஏற்றிச் சென்ற உழவு இயந்திரம் வெள்ளத்தில் அடித்துச் செல்லப்பட்ட சம்பவம் ஒன்று இடம்பெற்றுள்ளதாக காரைதீவு பொலிஸார் தெரிவித்துள்ளனர்.
 
-🟩
+ஐந்து குழந்தைகளுடன் வாகனத்தின் சாரதி மற்றும் உதவியாளரும் தற்போது காணவில்லை. இரண்டு குழந்தைகள் மீட்கப்பட்டு அவர்களுக்கு மருத்துவ சிகிச்சை அளிக்கப்பட்டு வருகிறது.
 
-The Karadivu police said that an incident where a plowing machine carrying seven people, including five children, including five children, was flooded, had taken place in Karadivu.
-
-The driver and assistant of the vehicle with five children are currently missing. Two children are rescued and they are being treated for medical treatment.
-
-Authorities in the area are engaged in intense search. Heavy rains have caused severe flooding in the area.
+அப்பகுதியில் அதிகாரிகள் தீவிர தேடுதல் வேட்டையில் ஈடுபட்டுள்ளனர். கனமழையால் இப்பகுதியில் கடுமையான வெள்ளப்பெருக்கு ஏற்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/27ab591c.json)
-
-[Extended Data](ext_articles/27ab591c.ext.json)
 
 ---
 
@@ -162,25 +92,15 @@ Students studying at the Nindowur Madrasara School are facing the accident near 
 
 ---
 
-### 77,670 people are affected by inclement weather;Death
+### சீரற்ற காலநிலையால் 77,670 பேர் பாதிப்பு ;  ஒருவர் மரணம்
 
 *2024-11-26 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/199781) · `ta`
 
-Here's a summary in 200 characters:
-
-
-
-77,670 people from 22,532 families in 15 districts affected by inclement weather. Death toll reported.
-
-🟩
-
-77,670 people from 22,532 families in 15 districts have been affected by inclement weather, the Disaster Management Center said.
+சீரற்ற காலநிலை காரணமாக 15 மாவட்டங்களில் 22,532 குடும்பங்களைச் சேர்ந்த 77,670 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/8a751f90.json)
-
-[Extended Data](ext_articles/8a751f90.ext.json)
 
 ---
 
@@ -1124,21 +1044,15 @@ The exams for the subjects which are scheduled on November 27, 28 and 29 will be
 
 ---
 
-### Special press conference on A / L
+### උසස් පෙළ ගැන විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් - සජීවී දර්ශන
 
 *2024-11-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203766) · `si`
 
-A special press conference on AI was conducted by Commissioner General of Examinations HJMC. Amit Jayasundara paid tribute to the Department of Examinations.
-
-🟩
-
-Commissioner General of Examinations HJMC. Amit Jayasundara is conducting a special tribute to the Department of Examinations.
+විභාග කොමසාරිස් ජනරාල් එච්.ජේ.එම්.සී. අමිත් ජයසුන්දර මහතා ප්‍රධානත්වයෙන් මේ වනවිට විභාග දෙපාර්තමේන්තුවේ විශේෂ ප්‍රවෘති සාකච්ඡාවක් පැවැත්වෙයි.
 
 ◼️
 
 [Data](articles/521b3018.json)
-
-[Extended Data](ext_articles/521b3018.ext.json)
 
 ---
 
@@ -2539,5 +2453,79 @@ After evaluating the bids, the Cabinet approved the proposal to award the procur
 [Data](articles/352d9fe3.json)
 
 [Extended Data](ext_articles/352d9fe3.ext.json)
+
+---
+
+### Steps will be taken to provide justice to the JVP killed during the 1988-89 rebellion - the party's general secretary
+
+*2024-11-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199703) · `ta`
+
+JVP plans justice for 1988-89 rebels; no immediate action; future steps pending negotiations
+
+🟩
+
+The JVP said the JVP would take justice to the JVP, which was killed during the 1988-89 rebellion.
+
+The JVP said it could take place in the future, although there were no negotiations on the steps to provide justice to the JVI, which was killed during the 1988-89 rebellion.
+
+The Marxist Left Party, the JVP, is currently the main party of the National People's Power Alliance.
+
+The JVP general secretary and party parliamentarian Dr. Nihal Abayasinghe said that the future will be taken up in the question of whether the JVP members who were killed during the 1988-89 JVP members were killed in the future.
+
+We have not yet held special talks on this issue, but he will carry out the necessary negotiations, he said.
+
+He said that these issues would be focused on the interim expenditure project as a governing body.
+
+◼️
+
+[Data](articles/a08f5bf0.json)
+
+[Extended Data](ext_articles/a08f5bf0.ext.json)
+
+---
+
+### CEB slams PUCSL’s allegations on tariff revision delays
+
+*2024-11-26 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103775/ceb-slams-pucsls-allegations-on-tariff-revision-delays) · `en`
+
+The Ceylon Electricity Board (CEB) has strongly refuted recent claims regarding the revision of electricity tariffs.
+
+Addressing the controversy, the CEB clarified its position on a proposal submitted to the Public Utilities Commission of Sri Lanka (PUCSL) on October 24, 2024, which recommended a reduction in electricity tariffs by a range of 6% to 11%.
+
+Issuing a statement, the CEB said that this proposal was based on projected expenses for the final quarter of 2024, revenue data from the second and third quarters, and the repayment of loans incurred during 2014–2022.
+
+The submission was made following the current tariff calculation methodology, it added, noting that however, the ‘electricity sector regulator’ rejected the proposal, citing the need to implement any tariff revisions considering the first six months of 2025, rather than the last quarter of 2024.
+
+...
+
+[Data](articles/8930cb1d.json)
+
+[Extended Data](ext_articles/8930cb1d.ext.json)
+
+---
+
+### Arjuna Mahendran appeared in court
+
+*2024-11-26 12:02:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன-மகேந்திரனை-நீதிமன்றத்தில்-ஆஜராக-உத்தரவு/175-347793) · `ta`
+
+Arjuna Mahendran court appearance ordered Feb 25, 2025, over 2015 Central Bank bailout fraud. Case filed by Bribery Commission. Accused of leaking info to help son-in-law Arjun Aloysius. Failed to continue legal process after leaving country.
+
+🟩
+
+The Colombo Magistrate's Court has ordered the former Governor of the Central Bank Arjuna Mahendran to appear in court on February 25, 2025.
+
+The court issued the order on the Central Bank's bailout fraud in 2015.
+
+The case has been filed by the Commission to Investigate Bribery or Corruption.
+
+Former Central Bank Governor Arjuna Mahendran has intervened at the bailout and has leaked to help his son -in -law Arjun Aloysius, Perpetual Treasuries.
+
+Despite the fact that matters relating to investigations, Mahendran, a citizen of Singapore, failed to continue his legal process after he left the country after leaving the country claiming to be attending the wedding.
+
+◼️
+
+[Data](articles/ec46ce1a.json)
+
+[Extended Data](ext_articles/ec46ce1a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 09:31:10**
+As of **2024-11-26 09:21:33**
 
 ## Newspaper Stats
 
-*Scraped **56,915** Articles*
+*Scraped **56,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,356
 adaderanalk | 6,878
-tamilmirrorlk | 8,094
+tamilmirrorlk | 8,093
 virakesarilk | 9,274
 adaderanasinhalalk | 9,823
 
@@ -26,25 +26,11 @@ adaderanasinhalalk | 9,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,901 (100.0%) of 56,915 articles have been extended.
+56,901 (100.0%) of 56,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
-
-### புகையிரத சேவை தடை
-
-*2024-11-26 09:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவை-தடை/175-347779) · `ta`
-
-பதுளைக்கும் பண்டாரவளைக்கும் இடையிலான புகையிரதம பாதையில், மண்மேடுகளும் கற்களும் சரிந்து வீழ்ந்துள்ளமையினால் இந்த தடை  ஏற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-இதேவேளை, சீரற்ற வானிலை காரணமாக பதுளை மாவட்டத்தில் பல வீதிகள் தடைப்பட்டுள்ளதாக பதுளை மாவட்ட அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/b240140f.json)
-
----
 
 ### Emergency notice for A/L students
 
@@ -95,14 +81,6 @@ Meanwhile. The public is advised to act with great care. Remble
 *2024-11-26 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103764/up-country-train-services-disrupted) · `en`
 
 Train services on the up-country line have been disrupted due to mounds of earth and rocks falling onto the tracks between Badulla and Bandarawela, according to Sri Lanka Railways.
-
-Meanwhile, the District Disaster Management Coordination Unit of Badulla has reported that several roads in the Badulla District have been blocked due to severe weather conditions.
-
-According to the unit, these disruptions have been caused by landslides, mounds of earth and rocks collapsing, as well as fallen trees obstructing the roads.
-
-Among the affected routes are the Badulla-Bandarawela road near Uduwara Milk Factory, the Haputale-Beragala road, the Badulla-Passara road near the third milepost, the Spring Valley road via Kadhana in Badulla, the seventh-milepost on the Badulla-Passara main road, and the Bibila-Lunugala road near Arawakumbura, among others.
-
-Police have advised drivers to use alternative routes until these roads are cleared and safe for travel.
 
 ◼️
 
@@ -2355,5 +2333,33 @@ The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 
 [Data](articles/2ab90575.json)
 
 [Extended Data](ext_articles/2ab90575.ext.json)
+
+---
+
+### Petition against the exam
+
+*2024-11-25 16:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உ-த-பரீட்சைக்கு-எதிராக-மனு/150-347745) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Supreme Court investigates petition against Education General Level Exam. Student Hansani Alagoon claims violation of fundamental rights. Challenges 39/2023 circular requiring 107 academic days completion.
+
+🟩
+
+The Supreme Court on Monday (25) has decided to investigate the fundamental rights violation petition filed by a student demanding an interim order to prevent the ongoing Education General Level Examination.
+
+The petition was considered before a session of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
+
+This time, the Commissioner General of Examinations, Mrs. Harini Amarasuriya, has been referred to as defendants in the petition filed by Hansani Alagoon, a student who will appear for the GCE Advanced Level Examination.
+
+The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 Circular Recognition period, has clearly stated that the 107 academic days should be completed.
+
+◼️
+
+[Data](articles/43cfcf4f.json)
+
+[Extended Data](ext_articles/43cfcf4f.ext.json)
 
 ---

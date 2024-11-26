@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 14:42:17**
+As of **2024-11-26 15:13:25**
 
 ## Newspaper Stats
 
-*Scraped **56,976** Articles*
+*Scraped **56,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 3,454
 dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,363
-adaderanalk | 6,890
+adaderanalk | 6,893
 tamilmirrorlk | 8,103
 virakesarilk | 9,284
-adaderanasinhalalk | 9,839
+adaderanasinhalalk | 9,842
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,969 (100.0%) of 56,976 articles have been extended.
+56,971 (100.0%) of 56,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
+
+### No decision to ban tuition classes - Cabinet Spokesman
+
+*2024-11-26 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103778/no-decision-to-ban-tuition-classes-cabinetspokesman) · `en`
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa clarified that no decision has been taken to ban tuition classes in the country.
+
+Speaking at the Cabinet press conference held today (26), the minister emphasized that significant reforms are needed to be implemented in the education sector as part of a comprehensive overhaul.
+
+He further noted that the election manifesto of the National People’s Power (NPP) outlines plans for the modernization and expansion of education.
+
+The minister stated that after formal discussions, a comprehensive review of the examination system will be carried out.
+
+He assured that the government is approaching changes in the education sector with due diligence and that a final decision will be made only after consultations with all relevant stakeholders.
+
+◼️
+
+[Data](articles/883e4dd9.json)
+
+[Extended Data](ext_articles/883e4dd9.ext.json)
+
+---
+
+### The water level of 73 reservoirs over 65 percent
+
+*2024-11-26 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203758) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+73 reservoirs exceed 65% water capacity due to heavy rains. 23 out of 73 reservoirs are spilling. Major tanks in Hambantota, Galle, Kandy, Kurunegala districts report over 80% capacity. Department warns public living in lowlands near overflowing reservoirs.
+
+🟩
+
+The water level of 73 reservoirs across the country has exceeded 65% over the country.
+
+In a statement, the department said that the sluice gates of several reservoirs have been opened due to heavy rains.
+
+As a result, 23 out of 73 reservoirs in the country and many medium-sized tanks are already spilling.
+
+The water capacity of the reservoirs in Ampara, Anuradhapura, Badulla and Batticaloa districts have reported over 50%.
+
+More than 80% of over 80% of the water capacity has been reported in Hambantota, Galle, Kandy, Kurunegala.
+
+Nearly 70% of the water capacity of Polonnaruwa and Puttalam Districts has also been a growth of nearly 45% of the Trincomalee and Mannar Districts.
+
+As a result, the total water capacity of 73 major tanks in the country has exceeded 65%.
+
+Meanwhile, six sluice gates of the Rajanganaya tank of Rajanganaya have been released to the Kala Wewa in the Ampara district.The announcement issued by the department states.
+
+...
+
+[Data](articles/2942f1b0.json)
+
+[Extended Data](ext_articles/2942f1b0.ext.json)
+
+---
 
 ### நுவரெலியாவில் அடை மழை ; விவசாய நிலங்கள், வீடுகளில் புகுந்த வெள்ளம் ;  பரீட்சார்த்திகளுக்கு விசேட ஏற்பாடு
 
@@ -49,6 +107,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/115fbb97.json)
+
+---
+
+### Arrest warrant issued against MP Archchuna Ramanathan
+
+*2024-11-26 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103777/arrest-warrant-issued-against-mp-archchuna-ramanathan-) · `en`
+
+Colombo Additional Magistrate Manjula Ratnayake has ordered the issuance of an arrest warrant against Jaffna District Independent Member of Parliament Archchuna Ramanathan, through the Senior Superintendent of Police (SSP) in Jaffna.
+
+This order was issued during the hearing of an ongoing case today (26) related to an alleged incident of assaulting an individual after causing a traffic accident on the Baseline Road, Colombo in 2021.
+
+Meanwhile, on November 25, MP Archchuna Ramanathan, who had unintentionally occupied the seat designated for the Leader of the Opposition during the inaugural session of the 10th Parliament, issued an apology for the incident.
+
+The apology was made during a workshop for newly elected Members of Parliament held on November 25. MP Ramanathan explained his actions and expressed regret for the misunderstanding caused by sitting in the Opposition Leader’s designated seat.
+
+◼️
+
+[Data](articles/2338dc39.json)
+
+---
+
+### කෙහෙළියට එරෙහි පයිප්ප බට නඩුව යළි විභාගයට
+
+*2024-11-26 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203757) · `si`
+
+ජනමාධ්‍ය අමාත්‍යවරයා වශයෙන් කටයුතු කළ අවධියේ ශ්‍රී ලංකා රූපවාහිනි සංස්ථාවට අයත් රුපියල් නව ලක්ෂ අසූ දහසකට අධික මුදලක් වැයකර ජී.අයි. පයිප්ප බට මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව ගොනුකර ඇති නඩුව කොළඹ මහාධිකරණය හමුවේ අද (26) යළි විභාගයට ගත්තේය.
+
+කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා ඉදිරියේ නඩු විභාගය පැවැත්වුණි.
+
+වැඩිදුර සාක්ෂි විභාගය ලබන ජනවාරි මස 27 දා දක්වා කල්තැබීමටද අධිකරණය නියෝග කළේය.
+
+◼️
+
+[Data](articles/69155f4a.json)
 
 ---
 
@@ -73,6 +165,26 @@ NDB Investment Bank Limited is the manager and placement agent to the issue. (Co
 [Data](articles/851b6eff.json)
 
 [Extended Data](ext_articles/851b6eff.ext.json)
+
+---
+
+### මාතර ගංවතුර තත්ත්වය ගැන අලුත්ම දැනුම්දීම
+
+*2024-11-26 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203756) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වයක් සමඟ මාතර දිස්ත්‍රික්කය තුළ පැවති සුළු ගංවතුර තත්ත්වය මේ වන විට පහව යමින් පවතින බව මාතර ආපදා කළමනාකරණ ඒකකය පවසයි.
+
+නිල්වලා ගඟ සහ නිල්වලා ගඟේ අතු ගංගාවක් වන කිරම ආර පිටාර ගැලීමෙන් අද (26) උදෑසන වනවිට මාර්ග කිහිපයක් තවදුරටත් ජලයෙන් යටව පැවතියේය.
+
+ඊයේ (25) දිනයට සාපේක්ෂව අද උදෑසන වන විට ජලයෙන් යටව තිබූ බොහෝ මාර්ගවල ජලය බැස ගොස් ගමනාගමනය යථාතත්ත්වයට පත් වී ඇතැයි මාතර දිස්ත්‍රික් ආපදාකළමනාකරණ ඒකකය සඳහන් කළේය.
+
+නිල්වලා ගඟ පිටාර ගැලීමෙන් අකුරැස්ස කද්දුව හරහා මාලිම්බඩ මාර්ගය මාලිම්බඩ උතුර මහා විද්‍යාලයේ අසලින් හා කද්දුව විටියල මාර්ගය මැද්දගොඩ ප්‍රදේශයෙන් තවදුරටත් යටව පවතින අතර කිරම ආර පිටාර ගැනීමෙන් කඹුරුපිටිය කද්දුව මාර්ගය ගෝදව ප්‍රදේශය තවදුරටත් ජලයෙන් යටව පැවතිමෙන් ගමනා ගමන කටයුතුවලට බාධා මතුව තිබේ.
+
+මෙම ආපදා තත්ත්වය හේතුවෙන් මාතර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස හතරක පවුල් 61 පුද්ගලයින් 240 දෙනෙකු පීඩාවට පත්ව ඇතැයි මාතර දිස්ත්‍රික් ලේකම් ගනේශ අමරසිංහ මහතා ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/873f26a1.json)
 
 ---
 
@@ -922,6 +1034,22 @@ Furthermore, the Cabinet Spokesman added that the new government is expected to 
 
 ---
 
+### Cabinet approval to present Vote on Account; 2025 Budget Speech on Feb.17
+
+*2024-11-26 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103770/cabinet-approval-to-present-vote-on-account-2025-budget-speech-on-feb17) · `en`
+
+The 2025 Budget proposal will be presented to the Parliament on January 9, 2025, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa confirmed.
+
+Speaking during the Cabinet press briefing held this morning (26), the Minister stated that the Second Reading of the 2025 Budget (Budget Speech) will take place on February 17, while the debate on the Third Reading will be held from February 27 to March 21.
+
+Furthermore, the Cabinet Spokesman added that the new government is expected to prepare the budget for the year 2025 as a budget that will strengthen the public’s trust in the government and take the initial steps towards the desired development so that the public’s expectations are fulfilled.
+
+...
+
+[Data](articles/8f87e03b.json)
+
+---
+
 ### Trains will only run up to Nanuoya
 
 *2024-11-26 10:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-வரை-மட்டுமே-ரயில்கள்-ஓடும்/76-347786) · `ta`
@@ -970,11 +1098,15 @@ However, Minister Wijepala clarified that there is no restriction on people of t
 
 ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the exchange of new bonds for defaulted sovereign bonds, Deputy Minister of Economic Development Anil Jayantha said.
 
-“The cabinet approved the proposal to issue new bonds in place of the previous bonds,” Jayantha told reporters on Tuesday.
+“The cabinet approved the proposal to for exchanging new bonds for presently existing bonds,” Jayantha told reporters on Tuesday.
 
-Sri Lanka has invited bondholders to tender the old bond by December 12, a government statement said.
+The decision was made within the parameters of the debt sustainability analysis by the International Monetary Fund, he said.
+
+Sri Lanka has invited bondholders to tender the old bonds by December 12, a government statement said.
 
 Sri Lanka is exchanging the new bonds for defaulted bonds of 12.55 billion.
+
+In September, an initial agreement was reached with the international bondholders on restructuring of sovereign debt of 14.2 billion US dollars, after a compromise discussion with the adhoc bondholders, a group of representatives of international investors, and a local consortium of Sri Lanka.
 
 Sri Lanka plans to present its national budget on February 14.
 
@@ -2243,121 +2375,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/d7dae33c.json)
 
 [Extended Data](ext_articles/d7dae33c.ext.json)
-
----
-
-### Representation and devolution continue to be needed
-
-*2024-11-25 22:20:00* · [`islandlk`](http://island.lk/representation-and-devolution-continue-to-be-needed/) · `en`
-
-Delivering his inaugural policy statement to Parliament, President Anura Kumara Dissanayake dealt mostly with the economy and, in particular, the IMF agreement. The problem he faces is that the former government agreed to terms with the IMF that did not consider the impact on the people, but gave priority to meeting fiscal targets. The President acknowledged that the government had no alternative but to continue with it as the country had gone too far down the road to change direction. He said, “The negotiations had already been ongoing for more than two years. If we were to restart discussions on the restructuring programme for an extended period it will be impossible for us to move the economy forward…”
-
-...
-
-[Data](articles/1aa158d9.json)
-
-[Extended Data](ext_articles/1aa158d9.ext.json)
-
----
-
-### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
-
-*2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and shallow sea areas around the island today (25) as a low pressure area intensifies over South-East Bay of Bengal.
-
-The low pressure area over the southwest Bay of Bengal intensified into a depression over the central-southwest Bay of Bengal by this morning.
-
-The system was located about 530 km southeast of Trincomalee at around 11.30 a.m. today. It is likely to move closer to the East coast of the island and intensify into a deep depression during next 24 hours, the advisory said.
-
-Very heavy showers above 150 mm are likely at some places in Northern province and Trincomalee District while heavy showers above 100 mm are likely at some places in Northern, North-central, Central and Uva provinces and in Batticaloa, Ampara district due to the influence of the aforementioned system.
-
-...
-
-[Data](articles/ea71be76.json)
-
-[Extended Data](ext_articles/ea71be76.ext.json)
-
----
-
-### Unique opportunity for fast-tracked social integration, if only…
-
-*2024-11-25 22:17:00* · [`islandlk`](http://island.lk/unique-opportunity-for-fast-tracked-social-integration-if-only/) · `en`
-
-Surely, racism has caused enough damage to us to warrant its erasure from our midst with the condemnation it deserves, without leaving it more room to further flourish in deceptively benign ways. As showcased by the November 14 election results, many Tamils and Muslims, not forgetting Catholics and Hindus, have voted to power the NPP, led by the JVP, which they might have previously labelled, and avoided, as a ‘Sinhalese’ party.
-
-...
-
-[Data](articles/396a7363.json)
-
-[Extended Data](ext_articles/396a7363.ext.json)
-
----
-
-### We are not allowed to legalize illegal visa permit - Goshala Wickremasinghe
-
-*2024-11-25 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199653) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-E8 Visa Agreement controversy: Former Minister illegally signed pact risking Sri Lankan youth jobs. Foreign Employment Bureau cannot validate illegal visas. Probe underway; strict legal action promised against violators.
-
-🟩
-
-The E8 Visa Agreement, which has illegally signed by a minister of the last government, is at risk of unemployment in Sri Lankan youth for over 20 years and more than 20 years.. Bureau Chairman Goshala Wickremasinghe said that the Foreign Employment Bureau could not be able to legalize the illegal visa clearance.
-
-He was speaking to the media about the struggle to be carried out in front of the Sri Lanka Foreign Employment Bureau in Battaramulla.
-
-The E8 Visa is not a method of proper sending people to foreign business. Sri Lanka Foreign Employment Bureau has not allowed private foreign agencies to send workers for seasonal industry in South Korea. If the Bureau is sending workers to foreign business, the bureau must obtain the registration of the Bureau.
-
-...
-
-[Data](articles/3ba3aefe.json)
-
-[Extended Data](ext_articles/3ba3aefe.ext.json)
-
----
-
-### Satyagraha struggle that continues in front of the Foreign Employment Bureau
-
-*2024-11-25 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199662) · `ta`
-
-Sri Lanka: Protesters demand E8 visa for South Korea jobs. Foreign Employment Bureau denies opportunities. Government intervention sought.
-
-🟩
-
-Some people who are looking forward to working for South Korea for South Korea on the E8 visa have been fighting in front of the Sri Lanka Foreign Employment Bureau in Battaramla, saying they have not had the opportunity to go to Korea due to the attention of the authorities.
-
-Minister Vijitha Herath met with some of the protesters last Friday. In the meantime, the E8 Visa said that action would be taken to take the necessary measures to legalize South Korea.
-
-However, the foreign employment work is hiding the opportunities for South Korea, so they are struggling to prolong the time as they have to go to work.
-
-But it is illegal to send to business on E8 visa. The President of the Sri Lanka Foreign Employment Bureau said it could not be allowed. As well as the console is not likely to get a visa without knowing. The Chairman of the Bureau said that there is no truth in reporting that we have got a career opportunity for South Korea.
-
-...
-
-[Data](articles/eacefb51.json)
-
-[Extended Data](ext_articles/eacefb51.ext.json)
-
----
-
-### CEAT develops new original equipment radial tyre for DIMO’s Tata Xenon Yodha
-
-*2024-11-25 22:08:00* · [`islandlk`](http://island.lk/ceat-develops-new-original-equipment-radial-tyre-for-dimos-tata-xenon-yodha/) · `en`
-
-Tata Xenon Yodha single cab pick-up trucks assembled by DIMO will ride on purpose-developed CEAT light truck radial tyres manufactured in Sri Lanka, in a coming together of two performance-driven automotive brands via a significant original equipment (OE) partnership.
-
-With this synergy, CEAT Kelani Holdings has manufactured a new radial tyre for the locally assembled Tata Xenon Yodha by DIMO, to meet the performance specifications of the vehicle, and the high expectations of users.
-
-The CEAT 215/75 R16 WINMILE X3 R tyre is built for Low Hysteresis Loss, reducing the energy loss associated with carbon black reinforced rubber. This results in reduced rolling resistance, less wear and tear and a smoother ride. The use of a high mileage compound and improvements in the footprint shape of the tyre also promise extra mileage.
-
-...
-
-[Data](articles/1feb1848.json)
-
-[Extended Data](ext_articles/1feb1848.ext.json)
 
 ---

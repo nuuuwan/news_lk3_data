@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 07:30:29**
+As of **2024-11-26 08:31:48**
 
 ## Newspaper Stats
 
-*Scraped **56,896** Articles*
+*Scraped **56,905** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 438
 colombotelegraphcom | 578
-bbccomsinhala | 591
+bbccomsinhala | 592
 islandlk | 3,418
 economynextcom | 3,448
 dailyftlk | 3,917
@@ -19,18 +19,182 @@ dailymirrorlk | 4,733
 adalk | 5,354
 adaderanalk | 6,876
 tamilmirrorlk | 8,091
-virakesarilk | 9,272
-adaderanasinhalalk | 9,817
+virakesarilk | 9,274
+adaderanasinhalalk | 9,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,887 (100.0%) of 56,896 articles have been extended.
+56,891 (100.0%) of 56,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
+
+### Landslide warnings are updated
+
+*2024-11-26 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203739) · `si`
+
+National Building Research Organization issues landslide warnings for multiple districts due to inclement weather. Affected areas include Badulla, Nuwara Eliya, Kalutara, Kegalle, Matale, Matara, and Ratnapura districts.
+
+🟩
+
+The National Building Research Organization has taken steps to issue a landslide warnings for several districts.
+
+The organization also said that with ill-day weather, the drivers who use roads as well as roads are also focused on the mountains.
+
+Badulla District - Meegahakiula, Passara, Haliela and Badulla District - Wilgamuwa, Ambangadumba Korala, Nuwara Eliya, Nuwara Eliya.
+
+Badulla District - Haldummulla, Uva Paranagama, Elunala, Ella, Kalutara District - Ratnattota, Kegalle District - Rattota, Navarapitiya, Kegalle District - Rattota, Nawala, Laggala Pallegala, Matale, Matara District - Pitabeddara, Nuwara Eliya District - Ambulppe, Ratnapura and Opanayaka, Ratnapura, Ratnapura and Ratnapura District - Pitulpita.
+
+◼️
+
+[Data](articles/5daba1d2.json)
+
+[Extended Data](ext_articles/5daba1d2.ext.json)
+
+---
+
+### 7 Sri Lankan players IPL
+
+*2024-11-26 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203738) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's cricket talent shines in IPL: 6 players auctioned, including Mathew Pathirana & Gnanidu Hasaranga. Teams like CSK, RR, RCB, and MI acquire local stars, boosting league diversity.
+
+🟩
+
+Seven Sri Lankan players are to be played for the Indian Premierg Tournament this year.
+
+Six Sri Lankan players have been purchased at the Auction of Indian Auction and the Chennai Super Kings team has decided to hold the Mathagiver Pathirana.
+
+The Gamnindu Hasaranga and Mahesh Super Insight Rajasthan Royals were purchased on Monday.
+
+Four other Sri Lankan players have been purchased at the players' Auction in Jeddah yesterday (25) at the IPL.
+
+Nuwan Thushara Royal Challengers Bangalore The Bangalore team was purchased by the Bangalore Team.
+
+Delhir Delhi's Delhi Delhi Delhi Padylly Troops also bought the team of New Player Eshan Malinga Sunrisebad.
+
+◼️
+
+[Data](articles/b86a68f6.json)
+
+[Extended Data](ext_articles/b86a68f6.ext.json)
+
+---
+
+### Public Defense Minister said that LTTE could not be made unable to commemorate
+
+*2024-11-26 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203737) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Defense Minister: LTTE commemorations banned, but families can mourn dead relatives. Strict anti-drug measures underway. Deputy Minister Sunil Watagala assumes office.
+
+🟩
+
+The LTTE is not able to conduct celebrations related to the LTTE.
+
+He pointed out that the LTTE is a banned organization in the country, the organization is not able to conduct celebrations with uniforms or members.
+
+However, the people of the North have no hindrance to the people of their war-torn relatives.
+
+"There is room to celebrate one's relative to die. But there is no room to commemorate Mahavira in the North. Using these pictures under the LTTE logo. There is a law in the country. According to the law, LTTE is a banned organization. But if a child died in the North, South, East or Mountains, has the right to remembrance. I think often the commemoration of the people in the North have been brought up in the society. But we emphasize the country a banned organization for banning organizations and commemorate the LTTE. "
+
+A systematic program is being implemented to suppress the drug trafficking in Sri Lanka, he said.
+
+...
+
+[Data](articles/e09e85d8.json)
+
+[Extended Data](ext_articles/e09e85d8.ext.json)
+
+---
+
+### Grandpass tragedy
+
+*2024-11-26 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203736) · `si`
+
+Here's a 200-character summary of the Grandpass tragedy:
+
+
+
+17-year-old assaulted with sharp objects in Orugodawatta. Police arrested 4 suspects aged 31-36 from Wellampitiya. Conflict between two groups led to murder. Colombo Crimes Division investigating further.
+
+🟩
+
+A youth has been assaulted by a sharp object in the Grandpass Sky area in the Orugodawatta area.
+
+The incident was reported yesterday (25th), police said.
+
+The deceased has been identified as a 17 year old resident of Veragraduwella, Wellampitiya.
+
+Investigations have revealed that a group of two parties had been assassinated with a sharp weapons while at home had a conflict with the deceased.
+
+The Colombo Crimes Division investigated the murder and four suspects involved in the murder have been arrested with two swords and a manna knife.
+
+The suspects are residents of Wellampitiya, the police, aged 31, 32 and 36 years.
+
+The Grandpass Police and the Colombo Crimes Division is conducting further investigations.
+
+◼️
+
+[Data](articles/d7eae913.json)
+
+[Extended Data](ext_articles/d7eae913.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට ගංවතුර තත්ත්වයක්
+
+*2024-11-26 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203735) · `si`
+
+දිස්ත්‍රික්ක කිහිපයකට අයත් ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයකට ගංවතුර අවදානමක් ඇතිවිය හැකි බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ ඊයේ (25) රාත්‍රියේ සිට ලැබෙන අධික වර්ෂාපතනය හේතුවෙන් මොනරාගල දිස්ත්‍රික්කයේ සියඹලාණ්ඩුව සහ අම්පාර දිස්ත්‍රික්කයේ ලාහුගල ප්‍රාදේශීය ලේකම් කොට්ඨාශවලට අයත් හැඩ ඔය ආශ්‍රිත පහත් බිම් ප්‍රදේශවලට ඉදිරි පැය 48ක කාලය තුළ ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවය.
+
+එමෙන්ම මහවැලි ගඟෙහි ඇතැම් ධාරා ප්‍රදේශවලට ඊයේ සිට ලැබෙන වර්ෂාපතනය හේතුවෙන් මහවැලි ගඟ ද්‍රෝණියේ දිඹුලාගල, එච්චලම්පට්ටෙයි, හිඟුරක්ගොඩ, කන්තලේ, කින්නියා, කොරාලෙයිපත්තු උතුර, ලංකාපුර, මැදිරිගිරිය, මුතූර්, සේරුවිල, තමන්කඩුව, තම්පක්කමම් හා වැලිකන්ද ලේකම් කොට්ඨාශවලට අයත් මහවැලි ගඟ ආශ්‍රිත පහත් බිම් ප්‍රදේශවලට ඉදිරි පැය 48ක කාලය තුළ ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+
+එබැවින් එම ප්‍රදේශවල පදිංචි මහජනතාවට ඒ සම්බන්ධව විමසිල්ලෙන් පසුවන ලෙසත් ඇතිවිය හැකි ගංවතුර තත්ත්වයෙන් ආරක්ෂා වීමට කටයුතු කරන ලෙසත් වාරිමාර්ග දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/883a2a0a.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක් - මි.මී 200 ඉක්මවූ තද වැසි
+
+*2024-11-26 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203734) · `si`
+
+තද වැසි පිළිබඳ අවවාදාත්මක රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+
+අද (26) පෙ.ව. 04.30ට නිකුත් කරන ලද එම නිවේදනය ඉදිරි පැය 24 දක්වා වලංගු වේ.
+
+ඒ අනුව උතුරු, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 200ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
+
+පළාතේ සහ පුත්තලම දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවේ.
+
+මේ අතර ඊයේ පෙරවරු 8.30 සිට අද අලුයම 4.15 දක්වා කාලය තුළ වැඩිම වර්ෂාපතනය අම්පාර, ලාහුගල ප්‍රදේශයෙන් වාර්තා වී ඇති අතර එය මිලිමීටර් 191ක් වේ.
+
+අම්පාර මහඔය ප්‍රදේශයෙන් මිලිමීටර් 149.5ක වර්ෂාපතනයක් වාර්තා වී ඇති අතර දමන ප්‍රදේශයෙන් මිලීමීටර් 147ක වර්ෂාපතනයක් වාර්තා වී තිබේ.
+
+උතුරු, උතුරුමැද , මධ්‍යම සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+...
+
+[Data](articles/faa81baf.json)
+
+---
 
 ### SLFEB Chief warns against private agencies exploiting South Korea’s E-8 visa scheme
 
@@ -191,6 +355,44 @@ As part of the collaboration, PickMe will offer Management Trainee placements to
 [Data](articles/c264d56e.json)
 
 [Extended Data](ext_articles/c264d56e.ext.json)
+
+---
+
+### அதிசயம் ஆனால் உண்மை; ஐபிஎல் இல் 13 வயது சிறுவனை 1.1 கோடி ரூபா ஏல விலையில் வாங்கியது RR
+
+*2024-11-26 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199683) · `ta`
+
+இண்டியன் பிறீமியர் லீக் வரலாற்றில் 13 வயதுடைய சிறுவன் ஒருவனை ராஜஸ்தான் றோயல்ஸ் (RR) ஏலத்தில் எடுத்துள்ளது.
+
+சவூதி அரேபியாவின் ஜித்தா நகரில் இன்று நிறைவுக்கு வந்த 18ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்திற்கான வீரர்கள் ஏலத்தின்போது 13 வயதுடைய வைபவ் சூர்யாவன்ஷியை ஒரு கோடியே 10 இலட்சம் ரூபா ஏல விலையில் ராஜஸ்தான் றோயல்ஸ் தனது அணியில் இணைத்துக்கொண்டுள்ளது.
+
+ஐபிஎல் வரலாற்றில் மிகக் குறைந்த வயதுடைய கிரிக்கெட் வீரர் ஒருவர் ஏலத்தில் விடப்பட்டது இதுவே முதல் தடவையாகும்.
+
+அந்த இளஞ் சிங்கத்தை எப்படியாவது ஏலத்தில் வாங்கி விட வேண்டும் என்ற பேரவாவுடன் ராஜஸ்தான் றோயல்ஸும் டெல்ஹி கெப்பிட்டல்ஸும் ஏலப் போட்டியில் இறங்கின. இறுதியில் ராஜஸ்தான் றோயல்ஸ் ஒரு கோடியே 10 இலட்சம் ரூபாவுக்கு அந்த சிறுவனை தனதாக்கிக்கொண்டது.
+
+இந்தியாவின் முதல் தர கிரிக்கெட் போட்டிகளில் ஒன்றான ரஞ்சி கிண்ண கிரிக்கெட் போட்டியில் தனது 12ஆவது வயதில் விளையாடிய இடதுகை துடுப்பாட்ட வீரரான வைபவ் சூர்யாவன்ஷி, மிக அண்மையில் 19 வயதுக்குட்பட்ட இந்திய அணியில் இடம்பிடித்தார்.
+
+...
+
+[Data](articles/a28285c9.json)
+
+---
+
+### වත්මන් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට අලුත් ආණ්ඩුවෙන් ලැබෙන වරප්‍රසාද මොනවා ද?
+
+*2024-11-26 01:30:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0mz3xmpdndo) · `si`
+
+ජනාධිපතිවරණයේදී මෙන් ම මහ මැතිවරණයේදී ද වත්මන් රජය මැතිවරණ වේදිකාවල දුන් එක් ප්‍රධානතම පොරොන්දුවක් වූයේ, පාර්ලිමේන්තුව නියෝජනය කරන මැති ඇමැතිවරුන්ගේ ඇතැම් වරප්‍රසාද කප්පාදු කිරීම හෝ සම්පුර්ණයෙන් ම අහෝසි කිරීම ය.
+
+මන්ත්‍රීවරුන්ට හිමි තීරු බදු රහිත වාහන බලපත්‍රය අහෝසි කිරීම, පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප අහෝසි කිරීම, මහජන නියෝජිතයන්ට සුඛෝපභෝගී වාහන ලබා නොදීම, නිල නිවාස භාවිත නොකිරීම ජාතික ජන බලවේගය දුන් පොරොන්දු අතර ප්‍රධාන ය.
+
+අනුර කුමාර දිසානායක ජනාධිපති ධූරයට පත්වීමෙන් පසු පැවති පළමු කැබිනට් රැස්වීමේදී පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ, ඇමැතිවරුන්ගේ සහ හිටපු ජනාධිපතිවරුන්ගේ හිමිකම්, දීමනා සහ වරප්‍රසාද නැවත සලකා බැලීම සඳහා කමිටුවක් පත් කිරීමට පියවර ගත්තේ ය.
+
+විශ්‍රාමික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ.ටී. චිත්‍රසිංහගේ සභාපතිත්වයෙන් යුත් කමිටුවේ සෙසු සාමාජිකයින් ලෙස විශ්‍රාමික අමාත්‍යංශ ලේකම්වරයෙකු වන ඩී. දිසානායක සහ විශ්‍රාමික දිස්ත්‍රික් ලේකම්වරියක වන ජයන්තා සී.ටී. බුළුමුල්ල කටයුතු කරති.
+
+...
+
+[Data](articles/bab6c338.json)
 
 ---
 
@@ -467,6 +669,20 @@ Very heavy showers above 150 mm are likely at some places in Northern province a
 [Data](articles/ea71be76.json)
 
 [Extended Data](ext_articles/ea71be76.ext.json)
+
+---
+
+### சட்டவிரோத வீசா அனுமதிப் பத்திரத்தை சட்டரீதியாக்குவதற்கு எமக்கு அனுமதியில்லை - கோஷல விக்ரமசிங்க
+
+*2024-11-25 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199653) · `ta`
+
+கடந்த அரசாங்கத்தின் அமைச்சர் ஒருவர் சட்டவிரோதமான முறையில் கைச்சாத்திட்ட ஈ 8 விசா ஒப்பந்தம் காரணமாக 20 வருடங்களுக்கும் அதிக காலம் அதிகமான இலங்கை இளைஞர்களுக்கு கிடைக்கப்பெற்ற ஈ 9 விசா குழுவில் தொழில் இல்லாமல்போகும் ஆபத்து ஏற்பட்டுள்ளது. சட்டவிரோத விசா அனுமதி பத்திரத்தை சட்ட ரீதியாக்குவதற்கு வெளிநாட்டு வேலைவாய்ப்பு பணியகத்துக்கு எந்தவகையிலும் முடியாது என பணியகத்தின் தலைவர் கோஷல விக்ரமசிங்க தெரிவித்தார்.
+
+தென் கொரியாவின் ஈ 8 விசாவில் பருவகால தொழிலுக்காக செல்ல வெளி நபர்களுக்கு பணம் வழங்கிய சிலர் பத்தரமுல்லை இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் பிரதான காரியாலயத்துக்கு முன்னால் முன்னெடுத்து வரும் போராட்டம் தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/3ba3aefe.json)
 
 ---
 
@@ -2145,243 +2361,5 @@ In addition, the Handapanagalawewa, Malinpothawewa, Malinupothawewa, Malinuphath
 [Data](articles/03962770.json)
 
 [Extended Data](ext_articles/03962770.ext.json)
-
----
-
-### Vesakil abuse
-
-*2024-11-25 16:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாகில்-துஷ்பிரயோகம்-நபருக்கு-கடூழிய-சிறை/175-347741) · `ta`
-
-Colombo High Court Judge Nawaratne Marasinghe sentenced a 50-year-old man to 8 years for sexually abusing an 11-year-old girl. The judge found the defendant guilty after a lengthy trial and imposed additional penalties including a fine and compensation for the victim.
-
-🟩
-
-Colombo High Court Judge Nawaratne Marasinghe sentenced a 50 -year -old father to a 8 -year -old father of a 8 -year -old child for allegedly sexually abusing a 11 -year -old girl.
-
-The judge ruled that the 11 -year -old girl who came with his parents to see the Vesak period during the Vesak period, claimed that he had been taken into the tent of the postures and was undoubtedly proved that he had been sexually abused.
-
-One day in May 2015, the Attorney General accused the defendant of sexually abusing an 11 -year -old girl in Colombo.
-
-At the conclusion of a long hearing, the judge decided to prove the accusations against the accused undoubtedly and sentenced the accused to eight years in prison.. He also ordered the fine of 10 thousand rupees. He also ordered the victim to pay a compensation of Rs 2 lakh.
-
-The judge, who was sentenced to 18 months in prison for a further 18 months in prison, ordered the sentences to be exercised separately.
-
-◼️
-
-[Data](articles/5b24e933.json)
-
-[Extended Data](ext_articles/5b24e933.ext.json)
-
----
-
-### 50-year-old sentenced to 8 years RI over child molestation case
-
-*2024-11-25 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103755/50-year-old-sentenced-to-8-years-ri-over-child-molestation-case) · `en`
-
-The Colombo High Court has sentenced a 50-year-old father of one, to eight years of rigorous imprisonment (RI) after he was found guilty over the charges of serious sexual assault on an underage child.
-
-In addition, the High Court Judge ordered the defendant to pay a fine of Rs. 10,000 and ordered him to provide compensation of Rs. 200,000 to the victim today (25).
-
-It was revealed during the trial that the 11-year-old child, who had attended a Vesak Zone with his mother and sister, was tricked by the accused into a hut under the pretense of making a Vesak lantern and then sexually assaulted him.
-
-When the High Court judge questioned the child victim, who appeared in court during the trial, the victim had stated that he had been unable to attend school for an extended period as a result of the incident.
-
-...
-
-[Data](articles/c6a3fc6b.json)
-
-[Extended Data](ext_articles/c6a3fc6b.ext.json)
-
----
-
-### SC grants leave for petition seeking to suspend holding of 2024 A/L exam
-
-*2024-11-25 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103754/sc-grants-leave-for-petition-seeking-to-suspend-holding-of-2024-al-exam-) · `en`
-
-The Supreme Court has fixed for consideration on December 12, a Fundamental Rights (FR) petition filed seeking an interim injunction suspending the holding of 2024 G.C.E. Advanced Level examination.
-
-This order was issued when the relevant petition filed by a candidate of the examination was taken up before the three-member Supreme Court judge bench comprising Chief Justice Murdu Fernando, Justices Jayantha Jayasuriya and Priyantha Fernando today (25).
-
-The FR petition has been filed by A.M. Hansani Kaveesha, a candidate of the examination who is residing in Kegalle, naming the Commissioner General of Examinations, Education Minister Dr. Harini Amarasuriya, Secretary to the Ministry of Education and the Attorney General as respondents.
-
-...
-
-[Data](articles/129654c6.json)
-
-[Extended Data](ext_articles/129654c6.ext.json)
-
----
-
-### Speaker says MP Archtuna
-
-*2024-11-25 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203718) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-MP Archuna Ramanathan discusses conduct issues. Speaker Ashoka Ranwala says no official appointment made, cannot comment legally. Ranwala emphasizes unity among MPs and public aspirations. Invites religious leaders to promote harmony in Parliament.
-
-🟩
-
-Speaker Ashoka Ranwala said that MP Dr. Archuna Ramanathan will discuss with the conduct of MP Dr. Archuna Ramanathan.
-
-Journalist - Army Parliamentarian is a mischievous incident?
-
-Speaker Dr. Asoka Ranwala - "A Speaker has not been made to appoint a Speaker. As a result, it was not by an official. We cannot legal expression to comment on it. If you have discussed this with the Member and the other MPs, we are concerned about it if it is an anti-disciplinary or unethical. "
-
-Journalist - He begins his propaganda from the Tamil Eelam?
-
-Speaker Dr. Ashoka Ranwala - "We do not know what his ambition is in a single person. The aspiration of the people whom he represents is very clear. People do not expect anything in the country today. All MPs join in this regard. But if another party does this, we do not believe that it is good again. "
-
-Speaker Dr. Ashoka Ranwala, he was invited, the Most Venerable The Malwathu faction of the Malwathu faction of the Malwathu Chapter.
-
-...
-
-[Data](articles/3a193c55.json)
-
-[Extended Data](ext_articles/3a193c55.ext.json)
-
----
-
-### President gets an extraordinary from the President's Debt Management Act
-
-*2024-11-25 15:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ණය-කළමනාකරණ-පනත-බලාත්මක-කරමින්-ජනපතිගෙන්-අති-විශේෂ-ගැසට්ටුවක්/11-413257) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-New Public Debt Management Act empowers president to manage national debt. Establishes office and coordinating committee. Affects public debt issuance, sub-lending, supplier loans, financial lender agreements. Effective January 1, 2023.
-
-🟩
-
-The Public Debt Management Act No. 33 of the Act Northern June 18, a bill recorded on June 18, has been empowered from January 1.3 (25).
-
-President Anura Kumara Dissanayake issued a special gazette notification on November 21.
-
-The bill is a bill relating to the implementation of public debt, including public debt, issuance of public debt, issue of public debt, sub-lending, supplier loans, supplier lending and financial lender and financial lender agreements.
-
-The new Act is also scheduled to establish a public debt management office and a public debt coordinating committee headed by the Director General of the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/59059dc8.json)
-
-[Extended Data](ext_articles/59059dc8.ext.json)
-
----
-
-### “Don't go to the sea industry”
-
-*2024-11-25 15:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-தொழிலுக்குச்-செல்ல-வேண்டாம்/175-347739) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Don't go to sea: Mannar District faces flooding. Fishermen warned. 43 villages affected. 1248 displaced. Relief efforts underway."
-
-🟩
-
-Mannar District Government Agent K. Kanakeswaran has advised the fishermen not to go to the sea from the Mannar district and not to re -notice.
-
-The Mannar district is currently in a state of affairs due to low low -lying, and the officials of all departments in the district have been summoned on Monday (25) and how to face the low -lying situation.
-
-Most of the people in the Mannar and Nanatan Divisional Secretariat have been affected by heavy rains in the Mannar district.
-
-43 villages have been affected by the floods in the Mannar Divisional Secretariat Division.
-
-In the Nanattan Divisional Secretariat Division, 3 Grama Niladhari Divisions and 56 persons from 16 families have been affected.
-
-So far, 14 temporary stations have been set up in Mannar district and 1248 persons from 367 families have been housed. Steps have been taken to provide food.
-
-More than 16 JCP machines have been used in the Mannar and Nanatan Divisional Secretariat Divisions.
-
-...
-
-[Data](articles/08fda563.json)
-
-[Extended Data](ext_articles/08fda563.ext.json)
-
----
-
-### Ramayankulam is a risk of breaking
-
-*2024-11-25 15:47:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமயன்குளம்-உடைப்பெடுக்கும்-அபாயம்/175-347738) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ramayankulam pond (100+ acres) in Vavuniya faces risk due to heavy rainfall. Farmers are taking preventive measures as per Department of Communication Services instructions.
-
-🟩
-
-Farmers are taking steps to prevent the Ramayankulam pond in Chettikulam area in Vavuniya, according to the instructions of the Department of Communication Services.
-
-Ramayankulam with more than 100 acres of land is at risk of breaking due to heavy rainfall.
-
-Therefore, the farmers are taking steps to prevent the soil.
-
-◼️
-
-[Data](articles/6a890207.json)
-
-[Extended Data](ext_articles/6a890207.ext.json)
-
----
-
-### Upcountry train interrupts
-
-*2024-11-25 15:46:22* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-413256) · `si`
-
-Train interruption: Badulla-Kandy route halted at Haliela station due to control room issues. Colombo-Badulla train operates normally.
-
-🟩
-
-The Railway Railway Control Room (Colombo-Lankapuvath), Badulla Fort Railway Station (UPFA) has been interrupted by the Colombo Fort.
-
-The Railway Department said that the cost of the past 1596 traffic train train, which was traveling from Badulla to Kandy has been stopped at the Haliela Railway Station..
-
-The railway sector workers have been dispatched to the railway line to the railway line, the Railway Control Room, further delayed due to the Badulla Fort.
-
-However, the train traveling from Colombo Fort to Badulla has been running at present and that the Railway Department said.
-
-◼️
-
-[Data](articles/a4b393ae.json)
-
-[Extended Data](ext_articles/a4b393ae.ext.json)
-
----
-
-### Legal E-9 jobs in danger caused by an illegal E-8 visa
-
-*2024-11-25 15:39:06* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධි-E-8-වීසා-නිසා-නීත්‍යානුකූල-E-9-රැකියා-අනතුරේ/11-413255) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-E-9 jobs endangered due to illegal E-8 visa scheme. Sri Lanka Employment Bureau warns against fraudulent recruitment practices. Legal E-9 visas for South Korea now at risk. Bureau investigates corruption claims related to unauthorized E-8 visas.
-
-🟩
-
-Sri Lanka Foreign AgendasPresident of the Employment Bureau of Employment Bureau Kiosala Wickremasinghe said.
-
-The Chairman also added that the struggles will be carried out to disrupt the investigation into the corruption he has executed in the past.
-
-Speaking to the media regarding the protests carried out in front of the Sri Lanka Bureau of Foreign Employment in the South Korean E-8 Visa seasonal personnel, the Chairman made this statement.
-
-"Some people highlight the e-8 struggle. But not really e-8 can't win. I mentioned several occasions on a few occasions that the e-8 is not a proper way to send people to foreign employment. The Foreign Employment Bureau has not been granted to a privately foreign employment to direct workers for the seasonal jobs of South Korea.
-
-According to the Bureau Act, if a man goes to foreign employment, the Bureau should be registered. The Bureau has been prepared to provide the Cabinet approval under the E-8 Visa Cabinet proposal.
-
-...
-
-[Data](articles/47977b16.json)
-
-[Extended Data](ext_articles/47977b16.ext.json)
 
 ---

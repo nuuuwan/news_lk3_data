@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 21:42:33**
+As of **2024-11-26 23:00:25**
 
 ## Newspaper Stats
 
-*Scraped **57,060** Articles*
+*Scraped **57,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,56 +13,316 @@ dbsjeyarajcom | 438
 colombotelegraphcom | 579
 bbccomsinhala | 594
 islandlk | 3,422
-economynextcom | 3,454
+economynextcom | 3,463
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,379
-adaderanalk | 6,906
-tamilmirrorlk | 8,116
-virakesarilk | 9,301
-adaderanasinhalalk | 9,858
+adalk | 5,380
+adaderanalk | 6,910
+tamilmirrorlk | 8,117
+virakesarilk | 9,303
+adaderanasinhalalk | 9,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,053 (100.0%) of 57,060 articles have been extended.
+57,068 (100.0%) of 57,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### மன்னார் மாவட்டத்தில் தொடர்ச்சியாக பெய்து வரும் கடும் மழை காரணமாக 48 ஆயிரத்து 295 பேர் பாதிப்பு - அரசாங்க அதிபர் க.கனகேஸ்வரன்
+### හදිසි ආපදා වාර්තා කිරීමට පොලීසියෙන් මෙහෙයුම් මැදිරියක්
+
+*2024-11-26 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203779) · `si`
+
+රට තුළ මේ වනවිට ඇතිවී තිබෙන හදිසි ආපදා තත්ත්වයන් පිළිබඳව වාර්තා කිරීමට සහ අවශ්‍ය සම්බන්ධිකරණ කටයුතු සිදු කිරීම සඳහා අද (26) සිට පැය 24 පුරාම ආවරණය වන පරිදි පොලිස් මූලස්ථානයේ විශේෂ මෙහෙයුම් මැදිරියක් ස්ථාපිත කර ඇත.
+
+ඒ අනුව පහත දුරකථන අංක හා විද්‍යුත් තැපැල් ලිපිනය මගින් මෙම විශේෂ මෙහෙයුම් මැදිරිය හා සම්බන්ධ විය හැකිය.
+
+ආපදා තත්ත්වයන්, අවතැන්වීම් සහ සහය ලබාගැනීම් ඇතුළු තොරතුරු සම්බන්ධයෙන් පොලිස් මූලස්ථානය දැනුවත් කරන ලෙසට පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතැම් ප්‍රදේශ වෙත ගංවතුර, තද සුළං හා නායායාම් තත්ත්වයන් ඇතිවී ඇති අතර, ඇතැම් ප්‍රදේශ සඳහා ඉවත්වීමේ නිවේදනද නිකුත් කිරීමට කටයුතු කර ඇති බවද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/5413e5cf.json)
+
+---
+
+### கட்டுநாயக்கவில் தரையிறங்கவிருந்த விமானங்கள் இந்தியாவிற்கு திருப்பிவிடப்பட்டுள்ளன
+
+*2024-11-26 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199785) · `ta`
+
+26ஆம் திகதி இரவு கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு தரையிறங்குவதற்காக வந்த 03 விமானங்கள் இந்தியாவின் மத்தள மற்றும் திருவனந்தபுரம் விமான நிலையத்திற்கு திருப்பி விடப்பட்டுள்ளன.
+
+ஜப்பானின் நரிட்டா, டுபாய் மற்றும் சென்னையிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வருகைதந்த 3 விமானங்கள் இந்தியாவிற்கு திருப்பிவிடப்பட்டுள்ளன.
+
+அதற்கமைய, குறித்த விமானங்கள் திருவனந்தபுரம் விமான நிலையத்திற்கு திருப்பிவிடப்பட்டதாக கட்டுநாயக்க விமான நிலைய செய்தித் தொடர்பாளர் தெரிவித்தார்.
+
+இதேவேளை, சென்னை, மாலே மற்றும் அபுதாபியிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வருகைதந்த மேலும் 3 விமானங்கள் மத்தள சர்வதேச விமான நிலையத்திற்கு திருப்பிவிடப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8bb3b5fb.json)
+
+---
+
+### සැඩ පහරට හසුවූ සිසුන් 5ක් බේරා ගනී
+
+*2024-11-26 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203778) · `si`
+
+නින්දවූර් මද්‍රසා පාසලේ සිට නිවෙස් බලා ට්‍රැක්ටර් රථයෙන් ගමන් කරමින් සිටියදී සැඩ පහරට හසුවූ පිරිසෙන් සිසුන් 5 දෙනෙකුගේ දිවි බේරාගෙන ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/8a484f21.json)
+
+---
+
+### අධි අවදානම් ප්‍රදේශවලට නායයෑම් රතු නිවේදන නිකුත් කෙරේ
+
+*2024-11-26 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203777) · `si`
+
+ගතවූ පැය 24 තුළ මිලිමීටර් 250 ඉක්මවූ තද වැසි ඇදහැලීම හේතුවෙන් මහනුවර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11ක ජනතාවට ආරක්ෂිත ස්ථානවලට යොමුවන ලෙස නායයාම් අනතුරු ඇඟවීම් රතු නිවේදන නිකුත් කර තිබේ.
+
+එමෙන්ම මාතලේ දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 09කට සහ නුවරඑළිය දිස්ත්‍රික්කයේ වලපනේ ප්‍රාදේශීය ලේකම් කොට්ඨාසයට නායයෑම් රතු නිවේදන නිකුත් කෙරුණි.
+
+ඒ අනුව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසන්නේ වර්ෂාව තවදුරටත් පවතී නම් බෑවුම් කඩාවැටීම්, ගල් පෙරළීම්, පොළොව ගිලා බැසීම් සහ පස් කණ්ඩි කඩාවැටීම් අනතුරුවලින් වැළකීම සඳහා යුහුසුළුව ආරක්ෂිත ස්ථාන කරා යොමුවන ලෙසය.
+
+මහනුවර දිස්ත්‍රික්කය - හාරිස්පත්තුව, මැදදුම්බර, ගඟවට කෝරළය, උඩුදුම්බර, දොළුව, යටිනුවර, උඩපළාත, පාතහේවාහැට, උඩුනුවර, පාතදුම්බර, දෙල්තොට
+
+මාතලේ දිස්ත්‍රික්කය -  උකුවෙල, යටවත්ත, රත්තොට, විල්ගමුව, අඹන්ගඟ කෝරළය, ලග්ගල, පල්ලේගම, පල්ලේපොළ, නාඋල, මාතලේ
+
+◼️
+
+[Data](articles/747be43c.json)
+
+---
+
+### Many children missing in the plowing machine flooded
+
+*2024-11-26 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199782) · `ta`
+
+Children swept away by flooded plowing machine. Five kids among seven passengers missing. Two rescued, receiving treatment. Authorities conducting search operation due to heavy rainfall causing severe flooding.
+
+🟩
+
+The Karadivu police said that an incident where a plowing machine carrying seven people, including five children, including five children, was flooded, had taken place in Karadivu.
+
+The driver and assistant of the vehicle with five children are currently missing. Two children are rescued and they are being treated for medical treatment.
+
+Authorities in the area are engaged in intense search. Heavy rains have caused severe flooding in the area.
+
+◼️
+
+[Data](articles/27ab591c.json)
+
+[Extended Data](ext_articles/27ab591c.ext.json)
+
+---
+
+### මහ බැංකුව එක්දින ප්‍රතිපත්ති පොලී අනුපාතිකය හඳුන්වා දෙයි
+
+*2024-11-26 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203776) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය 2024 නොවැම්බර් මස 27වනදා සිට බලපැවැත්වෙන පරිදි දැනට ක්‍රියාත්මක ද්විත්ව ප්‍රතිපත්ති පොලී අනුපාතික ක්‍රමවේදය වෙනුවට තනි ප්‍රතිපත්ති පොලී අනුපාතික ක්‍රමවේදයක් ක්‍රියාවට නැංවීමට තීරණය කර ඇත.
+
+මෙය මහ බැංකුව විසින් ක්‍රියාත්මක කරන නම්‍යශීලී උද්ධමන ඉලක්කකරණ රාමුව තුළ සිදු කළ තවත් වැදගත් වැඩිදියුණු කිරීමකි.
+
+ඒ අනුව, මහ බැංකුව සිය මුදල් ප්‍රතිපත්ති ස්ථාවරය දැනුම්දීම සහ ක්‍රියාත්මක කිරීම සඳහා භාවිත කරන ප්‍රධාන මුදල් ප්‍රතිපත්ති උපකරණය ලෙස එක්දින ප්‍රතිපත්ති පොලී අනුපාතිකය (Overnight Policy Rate: OPR) හඳුන්වා දෙනු ලැබේ.
+
+මහ බැංකුවේ මුදල් ප්‍රතිපත්ති ස්ථාවරයේ වෙනස්කම් ආර්ථිකයේ පාර්ශ්වකරුවන් වෙත සන්නිවේදනය කිරීම සඳහා එක්දින ප්‍රතිපත්ති පොලී අනුපාතිකය නියමිත කාලසීමාවේදී සමාලෝචනය කර අවශ්‍යතාවය පරිදි සංශෝධනය කරනු ලබන බවද මහ බැංකුව පවසයි.
+
+මෙම ප්‍රතිපත්ති වෙනස්කම තුළින් මූල්‍ය වෙළඳපොළ සහ පුළුල් ආර්ථිකය වෙත මුදල් ප්‍රතිපත්තිය දැනුම්දීම මෙන්ම සම්ප්‍රේෂණයවීමේ කාර්යක්ෂමතාව සහ සඵලතාව ඉහළ නැංවීම අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/e57eb4f1.json)
+
+---
+
+### Sri Lanka’s Central Bank implements a single policy rate mechanism
+
+*2024-11-26 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103795/sri-lankas-central-bank-implements-a-single-policy-rate-mechanism) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to implement a single policy interest rate mechanism, the Overnight Policy Rate (OPR), transitioning from its dual policy interest rate mechanism with effect from today (27 November).
+
+This has been introduced as announced in the Central Bank’s Annual Policy Statement in January 2024 and the subsequent announcement in September 2024 of the planned implementation of the single policy interest rate mechanism.
+
+This marks another significant improvement in the Flexible Inflation Targeting (FIT) framework implemented by the Central Bank, the central bank said.
+
+“Accordingly, the Central Bank introduces the Overnight Policy Rate (OPR), as its primary monetary policy tool to signal and operationalise its monetary policy stance.
+
+...
+
+[Data](articles/ec13b0f3.json)
+
+[Extended Data](ext_articles/ec13b0f3.ext.json)
+
+---
+
+### MP's car fell into the water lake
+
+*2024-11-26 22:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நீர்-தடாகத்திற்குள்-வீழ்ந்தது-எம்-பியின்-கார்/175-347825) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Nihal Abeysinghe's car crashed into the parliamentary complex. Police say the driver was heading to reopen the MP when the accident occurred.
+
+🟩
+
+Nihal Abeysinghe's car, the general secretary of the National People's Power Party and Kalutara district parliamentarian, crashed into the parliamentary complex this evening.
+
+Police say that the driver came to the lake when the driver arrived to reopen Nihal Abeysinghe, who participated in the new parliamentary workshop.. Remble
+
+◼️
+
+[Data](articles/b682c7c1.json)
+
+[Extended Data](ext_articles/b682c7c1.ext.json)
+
+---
+
+### කටුනායකට ආ ගුවන්යානා 6ක් මත්තලට සහ ඉන්දියාවට යොමු කෙරේ
+
+*2024-11-26 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203775) · `si`
+
+අද (26) රාත්‍රියේ කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ගොඩබැස්වීම සඳහා පැමිණි ගුවන්යානා 06ක් මත්තල සහ ඉන්දියාවේ ත්‍රිවේන්ද්‍රම් ගුවන්තොටුපොළ වෙත හරවා යවා තිබේ.
+
+කටුනායක අවට ප්‍රදේශයට මේ වනවිට පවතින අධික වැසි සහිත කාලගුණික තත්ත්වය හේතුවෙනි.
+
+ඒ අනුව ඉන්දියාවේ චෙන්නායි සහ මාලදිවයිනේ මාලේ නුවර සිට පැමිණි ගුවන්යානා මෙන්ම අබුඩාබි සිට පැමිණි ගුවන්යානයක් මත්තල ගුවන්තොටුපොළ වෙත ගොඩබස්වා තිබේ.
+
+මීට අමතරව ජපානයේ නරීටා, ඩුබායි සහ ඉන්දියාවේ චෙන්නායි සිට කටුනායක ගුවන්තොටුපොළ වෙත පැමිණෙමින් තිබූ ගුවන්යානා 03 ඉන්දියාවේ ත්‍රිවේන්ද්‍රම් ගුවන්තොටුපොළ වෙත යොමු කෙරුණි.
+
+◼️
+
+[Data](articles/8046cb04.json)
+
+---
+
+### Six flights diverted due to bad weather at BIA
+
+*2024-11-26 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103794/six-flights-diverted-due-to-bad-weather-at-bia) · `en`
+
+A total of six flights scheduled to land at the Bandaranaike International Airport (BIA) in Katunayake have been diverted to the Mattala Airport and the Thiruvananthapuram International Airport in India due to adverse weather conditions.
+
+Accordingly, three flights from Narita, Dubai and Chennai have been diverted to Thiruvananthapuram International Airport while another three from Chennai, Male and Abu Dhabi have been diverted to Mattala Airport, the duty manager at BIA confirmed.
+
+◼️
+
+[Data](articles/8e0e6ba9.json)
+
+[Extended Data](ext_articles/8e0e6ba9.ext.json)
+
+---
+
+### தமது பிள்ளைகளை மீட்டுத்தருமாறு ஆளுநரிடம் கோரிக்கை
+
+*2024-11-26 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199784) · `ta`
+
+வடக்கு மாகாணத்தைச் சேர்ந்த 5 இளைஞர்களை வெளிநாடுகளுக்கு அனுப்புவதாகக் கூறி ரஷ்ய இராணுவத்தில் சேர்த்ததாக கூறப்படுவது தொடர்பில் அவர்களது பெற்றோரால் வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் அவர்களிடம் செவ்வாய்க்கிழமை (26) காலை முறைப்பாடு செய்யப்பட்டது.
+
+யாழ்ப்பாணம், கரவெட்டி, முள்ளியவளையைச் சேர்ந்த இளைஞர்களின் பெற்றோரே, ஆளுநர் செயலகத்தில் செவ்வாய்க்கிழமை காலை (26) ஆளுநரை நேரில் சந்தித்து இந்தக் கோரிக்கையை முன்வைத்தனர்.
+
+பெற்றோரது கோரிக்கையை செவிமடுத்த ஆளுநர், உடனடியாக வெளிவிவகார அமைச்சின் செயலரை தொலைபேசியில் தொடர்பு கொண்டு விடயத்தை தெரியப்படுத்தினார். பெற்றோர்களிடம் அவர்களது விவரங்களைப் பெற்று வெளிவிவகார அமைச்சுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1efce6cb.json)
+
+---
+
+### Sri Lanka to announce single overnight policy rate from Nov 27
+
+*2024-11-26 21:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-single-overnight-policy-rate-from-nov-27-190053/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank will announce a single overnight policy rate from November 27, instead of the current policy corridor involving standing deposit facilities, the monetary authority said.
+
+The standing lending and deposit facilities, will remain as a margin to the announced overnight policy rate.
+
+The central bank will continue to target an average call money rate with liquidity operations.
+
+Critics have warned that the denial monetary stability, especially from 2015, which led to serial currency crises, borrowing to repay debt, borrowings by the Ceylon Petroleum for current transactions, was a consequence of excess money printed to target a mid-corridor rate (a de facto single policy rate).
+
+Sri Lanka has been running broadly deflationary policy from around September 2022, withdrawing liquidity through outright transactions, but concerns have been raised at initial inflationary policy through its overnight and term operations.
+
+...
+
+[Data](articles/279fecb7.json)
+
+[Extended Data](ext_articles/279fecb7.ext.json)
+
+---
+
+### 48 thousand 295 people are affected by heavy rains in Mannar district -Government Agent K. Kanakeswaran
 
 *2024-11-26 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199783) · `ta`
 
-மன்னார் மாவட்டத்தில் தொடர்ச்சியாக பெய்து வரும் கடும் மழை காரணமாக 48 ஆயிரத்து 295 நபர்கள் பாதிக்கப்பட்டுள்ளதுடன், அவர்களில் 2049 நபர்கள் 22 பாதுகாப்பு மையங்களில் தங்க வைக்கப்பட்டுள்ளதாக மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-மன்னார் மாவட்டச் செயலகத்தில் செவ்வாய்க்கிழமை (26) மாலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
 
-மன்னார் மாவட்டத்தில் கடந்த நான்கு நாட்களுக்கு மேலாக பெய்து வரும் கடும் மழை காரணமாகவும் தற்போது வங்காள விரிகுடாவில் ஏற்பட்டுள்ள குறைந்த காற்றழுத்த நிலைமை காரணமாக மேலும் வலுவடைந்துள்ளது.
 
-தற்போதைய நிலைமையின் படி மன்னார் மாவட்டத்தில் 13 ஆயிரத்து 860 குடும்பங்களைச் சேர்ந்த 48 ஆயிரத்து 295 நபர்கள் மழை வெள்ளத்தினால் பாதிக்கப்பட்டுள்ளனர். மேலும் மன்னார் மாவட்டத்தில் மன்னார் நகரம்,மடு,மாந்தை மேற்கு, நானாட்டான் ஆகிய பிரதேச செயலக பிரிவுகளில் வெள்ள நிலைமை காரணமாக பொது மக்கள் பாதிக்கப்பட்டுள்ளனர்.
+48,295 people affected by heavy rains in Mannar district. 2,049 housed in 22 security centers. Floods destroy 9,779 acres of land. Water level at Kattakkarai pond reaches 11 feet. Government provides food assistance.
+
+🟩
+
+Mannar District Government Agent K. Kanageswaran said that 48 thousand 295 persons have been affected by heavy rains in Mannar district and 2049 persons have been housed in 22 security centers.
+
+He was speaking at a media briefing held at the Mannar District Secretariat on Tuesday evening.
+
+Due to heavy rains in the Mannar district for the past four days, the low -lying situation in the Bay of Bengal has been further strengthened.
+
+According to the current situation, 48 thousand 295 persons belonging to 13 thousand 860 families in Mannar district have been affected by the floods. In the Mannar district, Mannar, Madhu, Manthai West and Nanattan Divisional Secretariat Divisions have been affected by the floods.
+
+According to the 22 security centers set up in the district, 2049 persons from 589 families have been housed and the steps are being taken to provide them with cooked food.
 
 ...
 
 [Data](articles/3fd1286a.json)
 
+[Extended Data](ext_articles/3fd1286a.ext.json)
+
 ---
 
-### உழவு இயந்திரம் வெள்ளத்தில் அடித்துச் செல்லப்பட்டதில் பல குழந்தைகளை காணவில்லை
+### Seven including 5 children missing after tractor swept away by floods
 
-*2024-11-26 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199782) · `ta`
+*2024-11-26 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103793/seven-including-5-children-missing-after-tractor-swept-away-by-floods) · `en`
 
-காரைதீவில் ஐந்து குழந்தைகள் உட்பட 7 பேரை ஏற்றிச் சென்ற உழவு இயந்திரம் வெள்ளத்தில் அடித்துச் செல்லப்பட்ட சம்பவம் ஒன்று இடம்பெற்றுள்ளதாக காரைதீவு பொலிஸார் தெரிவித்துள்ளனர்.
+Seven persons including 05 children are reported missing while two children have been rescued after the tractor they were travelling on was caught in flood waters in Karaitivu in Ampara District.
 
-ஐந்து குழந்தைகளுடன் வாகனத்தின் சாரதி மற்றும் உதவியாளரும் தற்போது காணவில்லை. இரண்டு குழந்தைகள் மீட்கப்பட்டு அவர்களுக்கு மருத்துவ சிகிச்சை அளிக்கப்பட்டு வருகிறது.
+Police said that a total of 09 individuals including 07 children, the tractor’s driver and assistant were traveling on the vehicle at the time of the incident and that 02 children had been rescued.
 
-அப்பகுதியில் அதிகாரிகள் தீவிர தேடுதல் வேட்டையில் ஈடுபட்டுள்ளனர். கனமழையால் இப்பகுதியில் கடுமையான வெள்ளப்பெருக்கு ஏற்பட்டுள்ளது.
+A search operation has been launched to locate the missing persons.
+
+The incident had occurred near the Karaitivu Junction as the group of students, aged between 12 and 16 years, were returning from attending a Madrasa school in Ninthavur.
 
 ◼️
 
-[Data](articles/27ab591c.json)
+[Data](articles/18407ad5.json)
+
+[Extended Data](ext_articles/18407ad5.ext.json)
+
+---
+
+### Over 77,000 people affected by adverse weather in Sri Lanka
+
+*2024-11-26 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103791/over-77000-people-affected-by-adverse-weather-in-sri-lanka) · `en`
+
+The Disaster Management Centre (DMC) says that the prevailing inclement weather conditions in the country have so far affected 77,670 persons from 22,532 families across 15 districts.
+
+It said that the bad weather-related incidents have resulted in the dead of one person and injured another 05.
+
+A total of 2,770 individuals from 821 families are currently in emergency relief centres while six houses have been completely destroyed and 265 houses have been partially damaged, according to the DMC.
+
+◼️
+
+[Data](articles/d31ba7c9.json)
+
+[Extended Data](ext_articles/d31ba7c9.ext.json)
 
 ---
 
@@ -92,15 +352,25 @@ Students studying at the Nindowur Madrasara School are facing the accident near 
 
 ---
 
-### சீரற்ற காலநிலையால் 77,670 பேர் பாதிப்பு ;  ஒருவர் மரணம்
+### 77,670 people are affected by inclement weather;Death
 
 *2024-11-26 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/199781) · `ta`
 
-சீரற்ற காலநிலை காரணமாக 15 மாவட்டங்களில் 22,532 குடும்பங்களைச் சேர்ந்த 77,670 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+Here's a summary in 200 characters:
+
+
+
+77,670 people from 22,532 families in 15 districts affected by inclement weather. Death toll reported.
+
+🟩
+
+77,670 people from 22,532 families in 15 districts have been affected by inclement weather, the Disaster Management Center said.
 
 ◼️
 
 [Data](articles/8a751f90.json)
+
+[Extended Data](ext_articles/8a751f90.ext.json)
 
 ---
 
@@ -480,6 +750,26 @@ This is the largest drug seized by the Indian Coast Guard.
 
 ---
 
+### 145 669 tourists arrived in November
+
+*2024-11-26 18:47:45* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බරයේදී-සංචාරකයන්-145-669ක්-ඇවිත්/11-413294) · `si`
+
+In November 2023, 151,496 tourists visited Sri Lanka. This exceeds the 145,669 issued in November 2024. The country aims for 2 million tourists in 2023, with 223,616 needed for the remainder of the year.
+
+🟩
+
+Sri Lanka Tourism Development Authority (SLTB) has issued 145 669 tourists from November 24. 151 496 tourists had arrived in Sri Lanka for November 2023. Accordingly, in November 2024 there is an opportunity to help exceed the value.
+
+There were 195 582 tourists in November 2018, the year 2018.Sri Lanka has arrived in Sri Lanka this year 1 766 384. The number of the year's target tourists is two million. Accordingly, 223 616 tourists must attend the rest of this year.
+
+◼️
+
+[Data](articles/f1b2ee10.json)
+
+[Extended Data](ext_articles/f1b2ee10.ext.json)
+
+---
+
 ### 480 people from 148 families in Mullaitivu district
 
 *2024-11-26 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199778) · `ta`
@@ -581,6 +871,28 @@ Actor Mirchi Siva, who plays the hero in it, said, “I met the producer for thi
 [Data](articles/6b9f0ea8.json)
 
 [Extended Data](ext_articles/6b9f0ea8.ext.json)
+
+---
+
+### Local holders to join Sri Lanka bond exchange
+
+*2024-11-26 18:17:00* · [`economynextcom`](https://economynext.com/local-holders-to-join-sri-lanka-bond-exchange-190044/) · `en`
+
+ECONOMYNEXT – Domestic holders of Sri Lanka’s defaulted sovereign bonds said they will participate in an exchange of new bonds, which they negotiated together with foreign investors in the securities.
+
+“All members of the LCSL intend to participate in the ISB restructuring, which will provide the Government with substantial debt relief,” the group said in statement.
+
+Local investors, mostly banks, hold about 12 percent of the defaulted 12.55 billion dollars of securities.
+
+“We are pleased to have reached this critical turning point following more than two years of discussions,” Sanath Manatunge, Chairman of the Local Consortium of Sri Lanka who is the chief executive of Commercial Bank of Ceylon said.
+
+“This restructuring will help restore macroeconomic stability and encourage investment in the local economy to the benefit of the people of Sri Lanka.
+
+...
+
+[Data](articles/e0b2656a.json)
+
+[Extended Data](ext_articles/e0b2656a.ext.json)
 
 ---
 
@@ -1044,15 +1356,41 @@ The exams for the subjects which are scheduled on November 27, 28 and 29 will be
 
 ---
 
-### උසස් පෙළ ගැන විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් - සජීවී දර්ශන
+### Sri Lanka cabinet spokesman says no threats for tourists anymore
+
+*2024-11-26 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-spokesman-says-no-threats-for-tourists-anymore-190028/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet Spokesman Nalinda Jayatissa said there are no security threats to any tourists in the island nation amid an ongoing investigation into a possibility of attack in the Eastern Sri Lankan coastal area of Arugam Bay.
+
+The intelligence information of a possible attack against Jews in an Arugam Bay area was first shared by foreign intelligence agency with the local counterpart and the government swiftly tightened the security to ensure the safety of both locals and foreign tourists.
+
+However, the threat triggered the U.S. Embassy in Colombo to issue travel advisory to its citizens before Israel, Australia, New Zealand, Russia, the United Kingdom, and Canada.
+
+However, later, the US Embassy relaxed the travel advisory after Sri Lanka started investigations into the threat with the arrest of six people.
+
+“So far the security is established and there is no threat to anyone,” Cabinet Spokesman Jayatissa told reporters in the weekly post-cabinet press briefing.
+
+...
+
+[Data](articles/19ae2539.json)
+
+---
+
+### Special press conference on A / L
 
 *2024-11-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203766) · `si`
 
-විභාග කොමසාරිස් ජනරාල් එච්.ජේ.එම්.සී. අමිත් ජයසුන්දර මහතා ප්‍රධානත්වයෙන් මේ වනවිට විභාග දෙපාර්තමේන්තුවේ විශේෂ ප්‍රවෘති සාකච්ඡාවක් පැවැත්වෙයි.
+A special press conference on AI was conducted by Commissioner General of Examinations HJMC. Amit Jayasundara paid tribute to the Department of Examinations.
+
+🟩
+
+Commissioner General of Examinations HJMC. Amit Jayasundara is conducting a special tribute to the Department of Examinations.
 
 ◼️
 
 [Data](articles/521b3018.json)
+
+[Extended Data](ext_articles/521b3018.ext.json)
 
 ---
 
@@ -1102,23 +1440,31 @@ The CEB has rejected the proposal made by the Public Utilities Commission on 24/
 
 ---
 
-### තොරතුරු වෙනස් කර වෙළෙඳපොළට නිකුත් කිරීමට සූදානම් කර තිබූ සහල් තොගය
+### The rice ready to change the information and released to the market
 
 *2024-11-26 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203765) · `si`
 
-අසුරනයෙහි නිෂ්පාදිත දිනය වසර දෙකහමාරක් ඉදිරියට දැමූ සහල් කිලෝග්‍රෑම් 17,925ක් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය සිදුකළ වැටලීමකදී සොයාගෙන තිබේ.
+Rice recall: 3925kg altered info seized. Imported rice relabeled from Jan 2024 to June 2024. Planned distribution for festivals. Consumer Affairs Authority takes action.
 
-නිෂ්පාදිත දිනය හා ඊට අදාළ තොරතුරු වෙනස් කර ආනයනික එම සහල් තොගය වෙළඳපොළට නිකුත් කිරීමට සූදානම් කර තිබු බව සඳහන් ය.
+🟩
 
-පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ නිලධාරින් විසින් ඊයේ (25) එම වැටලීම සිදුකරන ලදි.
+Produced date of 3,925 kilograms of rice, which was carried out two and a half years ago, has been recovered during a raid conducted by the Consumer Affairs Authority.
 
-එහිදී ඉන්දියාවේ නිෂ්පාදිත 25kg ඇසුරුම් වල අසුරා ඇති එම සහල් ඇසුරුම්වල නිෂ්පාදකයා විසින් සඳහන් කර තිබූ නිෂ්පාදිත දිනය 2022 ජනවාරි ලෙස සටහන්ව ඇති අතර නිෂ්පාදිත දිනයේ සිට වසරක් තුළ භාවිත කිරීම කළයුතු බව ඉන්දියානු නිෂ්පාදකයා සඳහන් කර තිබියදී ලංකාවේ සහල් ආනයනය කර තිබූ ව්‍යාපාරිකයා විසින් එම අසුරනවල නිෂ්පාදිත දිනය වෙනස් කරමින් 2024 ජූනි ලෙස ඉදිරි දිනයක් යොදා වෙනත් ලේබලයක් සහිතව එම සහල් වෙළෙඳපොළට නිකුත් කිරීමට කටයුතු කර තිබිණ.
+It is said that the product date and the relevant information were changed and the imported rice had been prepared to be released to the market.
 
-එමෙන්ම එම සහල් අසුරනවල මුද්‍රිතව තිබූ මිල ගණන් සහ බර ප්‍රමාණයන් ද ලේබල මගින් වෙනස් කර කොළඔ 14 ප්‍රදේශයේ ගබඩාවක් තුළ රහසිගතව තබා ගනිමින් මෙම සහල් ඉදිරි උත්සව සමය තුළදී වෙළෙඳපොළට බෙදාහැරීමට සැලසුම් කොට ඇති බව අනාවරණය වී ඇත.
+The raid was carried out by the officers of the Consumer Affairs Authority yesterday (25).
+
+The manufactured date mentioned by the manufacturer of the rice packaged in the 25KG packaging of India is recorded as January.As a June 2024, the rice had been issued to the market with another labelling.
+
+It has been revealed that the rice has been planned to distribute the robbery in the next festive season, keeping secretly to the stores of Colombo 14.
+
+The cost of the Consumer Affairs Authority has been taken into custody with 25KG packs with modified date of rice.
 
 ...
 
 [Data](articles/b2cdddaa.json)
+
+[Extended Data](ext_articles/b2cdddaa.ext.json)
 
 ---
 
@@ -1184,6 +1530,42 @@ More than 100 millimeters of heavy rainfall in some parts of the country. Remble
 
 ---
 
+### Sri Lanka new govt yet to discuss lifting ban on Chinese research ships
+
+*2024-11-26 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-yet-to-discuss-lifting-ban-on-chinese-research-ships-190016/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new cabinet of President Anura Kumara Dissanayake has yet to discuss removing a temporary one-year ban on Chinese vessels coming to Sri Lanka waters, Cabinet Spokesman Nalinda Jayatissa said.
+
+The ban was imposed by former leader Ranil Wickremesimghe’s government in December last year. A Foreign Ministry spokesperson said the ban was for 2024 and will end on December 21 this year.
+
+The decision to ban research ships was taken following strong security concerns raised by India citing possible spying by foreign research vessels in the Indian Ocean, government officials have said.
+
+When asked if the new government would lift the ban, the Cabinet Spokesman said: “We didn’t discuss it in the last cabinet. I will answer this next time.”
+
+...
+
+[Data](articles/733e0f37.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 291.10/20 to dollar, bonds down
+
+*2024-11-26 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-10-20-to-dollar-bonds-down-190012/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.10/20 to the US dollar on Tuesday from 291.25/35 to the US dollar on Monday dealers said, while bond yields were down.
+
+A bond maturing on 15.09.2027 closed at 10.65/75 percent, down from 10.80/85 percent.
+
+A bond maturing on 15.09.2029 closed at 11.20/40 percent, down from 11.35/50 percent.
+
+The central bank announced it will issue 125 billion treasury bills at an auction on Wednesday, and 205 billion rupees in treasury bonds at an auction on November 28. (Colombo/Nov26/2024)
+
+◼️
+
+[Data](articles/04f13816.json)
+
+---
+
 ### 91 more to Korea today
 
 *2024-11-26 17:09:46* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-91ක්-අද-කොරියාවට/11-413287) · `si`
@@ -1208,39 +1590,51 @@ Understanding Bureau of Memorandum of Memorandum of Sri Lanka and the South Kore
 
 ---
 
-### දැදුරු ඔය නිම්නයේ පහත්බිම්වල ජීවත්වන ජනතාවට අනතුරු ඇඟවීමක්
+### Deduru Oya valley warning to people living in lowlands
 
 *2024-11-26 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203764) · `si`
 
-ඉදිරි පැය කිහිපයක කාලය තුළ වාරියපොළ, නිකවැරටිය, මහව, කොබෙයිගනේ, බිංගිරිය, පල්ලම, හලාවත, ආරච්චිකට්ටුව සහ රස්නායකපුර ප්‍රාදේශීය ලේකම් කොට්ඨාස අයත් දැදුරු ඔය නිම්නයේ පහත්බිම් ප්‍රදේශවලට ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට අනතුරු අඟවා ඇත.
+Flood warning issued for lowland areas near Deduru Oya due to heavy rainfall and reservoir release. Residents advised to take precautions and follow evacuation instructions if necessary.
 
-වාරිමාර්ග දෙපාර්තමේන්තුව මගීන් දැදුරු ඔය ද්‍රෝණිය තුළ නඩත්තු කරනු ලබන ගංඟා ජල මාපකවල ජල මට්ටම් විශ්ලේෂණය අනුව මෙම අනතුරු ඇඟවීම නිකුත්කර තිබේ.
+🟩
 
-දැදුරු ඔය ද්‍රෝණියේ ඉහළ සහ මධ්‍යම ධාරා ප්‍රදේශවල ඇතැම් ප්‍රදේශවලට මේ වන විට සැලකිය යුතු වර්ෂාපතනයක් ලැබී ඇති අතර ඒ අනුව, වාරිමාර්ග දෙපාර්තමේන්තුව විසින් නඩත්තු කරනු ලබන දැදුරු ඔය ජලාශයෙන් තත්ත්පරයට ඝන අඩි 18,000 කට ආසන්න ජල ප්‍රමාණයක් මුදාහරිමින් පවතී.
+The next few hours have warned that flooding could cause floods in the lowland areas of Deduru Oya, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw and Rasnadupura.
 
-මේ වන විට ජලාශයට ලැබෙන ජල ධාරිතාව අනූව මෙම ප්‍රමාණය අද (26) රාත්‍රියේදී තවදුරටත් වැඩිකිරීමට සිදුවිය හැකි බව සඳහන් වේ.
+The warning has been issued in accordance with the analysis of the water level in the river water level in the Deduru Oya Basada bask.
 
-මේ තත්ත්වය සම්බන්ධයෙන් දැඩි සැලකිල්ලකින් කටයුතු කරන ලෙස එම ප්‍රදේශවල පදිංචි මහජනතාවගෙන් සහ ප්‍රදේශ හරහා ගමන් ගන්නා වාහන පදවන්නන්ගෙන් ඉල්ලා සිටියි.
+Some areas in the Deduru Oya basin have received a significant rainfall so far and the Deduru Oya reservoir, which is maintained by the Irrigation Department, is released from nearly 18,000 cubic feet of water.
 
-එමෙන්ම වාරිමාර්ග දෙපාර්තමේන්තුව, ආපදා කළමනාකරණ අංශවලින් ඉල්ලා ඇත්තේ මේ සම්බන්ධයෙන් අවශ්‍ය පියවර ගන්නා ලෙසටය.
+According to the water capacity of the reservoir, this size can be further increased at night (26).
+
+The vehicles traveling through the public and areas of the area are requested by the people and areas residing in these areas.
+
+The Department of Irrigation has requested to take necessary action to take action.
 
 ◼️
 
 [Data](articles/28eb2d83.json)
 
+[Extended Data](ext_articles/28eb2d83.ext.json)
+
 ---
 
-### මෛත්‍රී මූර්ති හිමි අමරපුර මහා නිකායේ මහානායක ධුරයට
+### Maithri Murti Thero appointed General Secretary of the Amarapura Maha Nikaya
 
 *2024-11-26 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203763) · `si`
 
-ශ්‍රී ලංකා අමරපුර මහා නිකායේ උත්තරීතර මහානායක ධුරයට  කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති මහානායක ස්වාමීන් වහන්සේ තේරී පත්වී තිබේ.
+Maithri Murti Thero appointed General Secretary Amarapura Maha Nikaya High Court General Sri Lanka
 
-අමරපුර මහා නිකාය පාර්ශ්වීය මහානායක ස්වාමීන් වහන්සේලාගේ සහභාගීත්වයෙන් මෙම සංඝ සභා රැස්වීම කලපළුවාව ගෝතම තපෝවනය විහාරස්ථානයේදී පැවැත්වුණි.
+🟩
+
+The Maithri Uyangoda Mahingoda Mahindhi Mahindhi Mahindhi Mahindhi Mahindhi Mahiyagoda Mahiyagoda Mahiyagoda Mahilagoda Uyangoda Murti, Karagoda Uyangoda, has been elected to the post of High Court General of Sri Lanka Amarapura Maha Nikaya.
+
+The meeting was held at the Saliyawanta Troparization Temple with the participation of the Amarapura Maha Sect.
 
 ◼️
 
 [Data](articles/136d02df.json)
+
+[Extended Data](ext_articles/136d02df.ext.json)
 
 ---
 
@@ -1341,6 +1735,22 @@ This is not really the government or police or police. Baca was placed in terms 
 [Data](articles/e37af7b9.json)
 
 [Extended Data](ext_articles/e37af7b9.ext.json)
+
+---
+
+### ISB committee urge all holders to join Sri Lanka GDP-linked bond exchange
+
+*2024-11-26 16:37:00* · [`economynextcom`](https://economynext.com/isb-committee-urge-all-holders-to-join-sri-lanka-gdp-linked-bond-exchange-189994/) · `en`
+
+ECONOMYNEXT – A committee of bondholders who negotiated with Sri Lanka to restructure defaulted bonds for GDP-linked new bonds, the first of its kind, have said they will take up the new bonds and urged all other holders to participate.
+
+The steering committee of the so-called ad-hoc group of bond holders own about 40 percent of 12.55 billion dollars of defaulted bonds while a group of local bondholders including banks have around 12 percent.
+
+The Steering Committee said it is made of funds managed or advised by Amundi Asset Management, Barings LLC, BlackRock and its subsidiaries, Eaton Vance Management, Fidelity International, Grantham, Mayo, Van Otterloo & Co. LLC, HBK Capital Management, Morgan Stanley Investment Management, Neuberger Berman, T. Rowe Price Associates, Inc., and Wellington Management.
+
+...
+
+[Data](articles/01ce55bd.json)
 
 ---
 
@@ -1576,6 +1986,46 @@ Two suspects were arrested and residents of age 41 and 37th Borella and Talawatu
 
 ---
 
+### Sri Lanka urges all ISB holders to exchange bonds, hopeful on Hamilton
+
+*2024-11-26 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-urges-all-isb-holders-to-exchange-bonds-hopeful-on-hamilton-189959/) · `en`
+
+ECONOMYHNEXT – ri Lanka has urged all bondholders to take part in a bond exchange launched on November 26, with a deadline of December 12 where 12.55 billion in defaulted bonds are exchanged for new ones along with past due interest.
+
+“I urge private sector creditors to participate in the debt restructuring process to provide essential relief, thereby laying the groundwork for a brighter future for Sri Lanka and its people,” President Anura Dissanayake said in a statement.
+
+Hamilton Reserve, a holder of 25 percent of defaulted bonds which matured on 2022 had gone to court had gone to court seeking full payment.
+
+“A risk there but according to the legal advisors it can be mitigated,” Deputy Finance Minister Anil Jayantha Fernando told reporters.
+
+“According their advice we strongly believe we can come to an amicable solution.”
+
+There was a risk in continuing to litigate and Hamilton Reserve could also consider the trade-off involved.
+
+...
+
+[Data](articles/0f635bf7.json)
+
+---
+
+### Sri Lanka stocks close up, turnover Rs1.1bn
+
+*2024-11-26 15:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs1-1bn-189953/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader ASPI closed up 0.76 percent, or 97.38 points, at 12,964; while the more liquid S&P SL20 Index closed up 1.51 percent, or 57.48 points, at 3,852.
+
+Most of this came from banking (Rs383mn) and capital goods (Rs312mn) stocks.
+
+Top positive contributors to the ASPI were John Keells Holdings (up at 19.80), Hatton National Bank (up at 226.25), Commercial Bank (up at 121.50), Sampath Bank (up at 93.00), and Ceylon Tobacco (up at 1,259.50).
+
+◼️
+
+[Data](articles/fcb67f8d.json)
+
+---
+
 ### Live location on Instagram
 
 *2024-11-26 15:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இன்ஸ்டாகிராமில்-லைவ்-லொகேஷன்/57-347803) · `ta`
@@ -1761,6 +2211,24 @@ The Minister made it clear that Prasanna Gunasena, a dentist from the Kandy dist
 [Data](articles/e051c952.json)
 
 [Extended Data](ext_articles/e051c952.ext.json)
+
+---
+
+### Ceylon Chamber welcomes IMF staff-level agreement
+
+*2024-11-26 15:00:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-welcomes-imf-staff-level-agreement-160652/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce said it welcomed the announcement of a staff-level agreement for the third review under the International Monetary Fund (IMF) Extended Fund Facility program for Sri Lanka, and looks forward to the Government meeting the requirement for disbursement.
+
+“The Chamber looks forward to the Government meeting the requirement for disbursement by the Board of the IMF,” the trade body said in a statement.
+
+“This agreement underscores the progress the country has made in implementing structural reforms and achieving fiscal sustainability during this critical period of economic recovery.
+
+“While acknowledging the progress made, it is important to continue the reform momentum and build on the progress made while unlocking key constraints that bind long term sustainable growth. (Colombo/Nov26/2024)
+
+◼️
+
+[Data](articles/17b33f80.json)
 
 ---
 
@@ -1965,567 +2433,5 @@ The apology was made during a workshop for newly elected Members of Parliament h
 [Data](articles/2338dc39.json)
 
 [Extended Data](ext_articles/2338dc39.ext.json)
-
----
-
-### Pippa case against Keheliya back to the examination
-
-*2024-11-26 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203757) · `si`
-
-Here's a 200-character summary of the text:
-
-
-
-Pippa case against Keheliya returned to Colombo High Court. Trial before Judge Navasinghe Marasinghe. Further hearings postponed until January 27.
-
-🟩
-
-GIdrated by the Sri Lanka Rupavahini Corporation at a time of Rs.. Former Minister Keheliya Rambukwella and three accused against three accused against the Pipe purchase of Pipe purchase was taken back to the Colombo High Court today (26).
-
-The trial was held before Colombo High Court Judge Navasinghe Marasinghe.
-
-The court ordered to postpone further hearings from January 27.
-
-◼️
-
-[Data](articles/69155f4a.json)
-
-[Extended Data](ext_articles/69155f4a.ext.json)
-
----
-
-### Sri Lanka’s Abans to raise upto Rs2bn in debenture issue
-
-*2024-11-26 13:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-abans-to-raise-upto-rs2bn-in-debenture-issue-184894/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Abans Plc is planning to raise up to 2 billion rupees in a debenture issue, the company said.
-
-The consumer products retailer will initially issue 10 million listed, rated, unsecured, senior, redeemable, 5-year debentures at 100 rupees each.
-
-Abans will issue up to a further 10 million debentures in the event of an oversubscription of the initial issue to raise a maximum amount of 2 billion.
-
-They will bear a fixed interest rate of 13 percent per annum payable annually (AER 13%), the company said in a stock exchange filing.
-
-The Colombo Stock Exchange has approved the listing in principle.
-
-NDB Investment Bank Limited is the manager and placement agent to the issue. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/851b6eff.json)
-
-[Extended Data](ext_articles/851b6eff.ext.json)
-
----
-
-### Board refuses toxic records on electricity tariff
-
-*2024-11-26 13:43:42* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝදනය-ගැන-සාවද්‍ය-වාර්තා-මණ්ඩලය-ප්‍රතික්ෂේප-කරයි/11-413276) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-CEB rejects toxic records on electricity tariff claim. CEB spokesperson denies allegations, stating no evidence supports such claims.
-
-🟩
-
-Ceylon Electricity Board (CEB) ADKPrakinasha, the Ceylon Electricity Board (CEB) said in a statement.
-
-◼️
-
-[Data](articles/c5053af9.json)
-
-[Extended Data](ext_articles/c5053af9.ext.json)
-
----
-
-### Latest Notification of Floods in Matara
-
-*2024-11-26 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203756) · `si`
-
-Here's a summary of the floods in Matara in approximately 200 characters:
-
-
-
-Floods hit Matara district due to heavy rainfall. Nilwala River overflowed, affecting 240 families. Heavy rains caused landslides and road closures. 55,416 families impacted overall.
-
-🟩
-
-The minor flood site in the Matara district is now on the road with an existing inclement weather.
-
-The Kirama Ara, the Kirama Ara, the Kirama Ara, the Kirama Ara, the Nilwala River and Nilwala River, was allocated.
-
-The Matara District Disaster Management Unit stated that the water supplied in many roads underwater was recovered from this morning.
-
-The Malimbada Road across the Malimbada road from the Malimbada Wathiyawala road from the Malumbada road in the Malumbada road after the overflow of the Niluwara River, the Malimbada Wathuwala road from the Maliyada Vitiyala road in the Maliyambada road.
-
-Matara District Secretary Ganeasara Amarasinghe said that 240 families in four Divisional Secretariat Divisions in the Matara district have been affected due to this disaster.
-
-The Matara Disaster Management unit has not received significant rainfall since last night from the Nilwala River and its tributaries..
-
-...
-
-[Data](articles/873f26a1.json)
-
-[Extended Data](ext_articles/873f26a1.ext.json)
-
----
-
-### Wild Elephant in Maha Ilupallama
-
-*2024-11-26 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199702) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Wild elephant roams Anuradhapura-Maha Iluppallama area due to heavy rains. Residents report damage to properties. Local authorities criticized for inaction as elephant destroys crops and infrastructure in nearby villages.
-
-🟩
-
-Residents say that a wild elephant wanders around the Anuradhapura - Maha Iluppallama area and surrounding areas.
-
-Due to heavy rains, the wild elephant is roaming around the engineering office, post office, government agencies and plantations in Maha Ilupallama.
-
-Elephants have been destroyed by elephants in the surrounding villages including Maha Ilupallama over the past few days.
-
-Residents have said that top officials have not taken any action to address the issue.
-
-◼️
-
-[Data](articles/f347bb57.json)
-
-[Extended Data](ext_articles/f347bb57.ext.json)
-
----
-
-### How the import of vehicle is happening
-
-*2024-11-26 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203755) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Vehicle imports explained: Commercial vehicles subject to forex limits. Central Bank increased buffers, limiting initial stages. Three-phase program to manage stress. Current reserve size: $6.4 billion. Gradual market mechanisms allowed to maintain stability.
-
-🟩
-
-Prof. Anil Jayantha Fernando, Deputy Minister of Labor and Economic Development, was explained today.
-
-The Deputy Minister explained this to the press conference held today.
-
-"Under some categories is. Especially commercial vehicles. But it is subject to foreign exchange limits. But in the issue, how much reserves have been considered. And the Central Bank has made additional buffeuries that require some kind of. The limit is subject to that limit at the first stage.
-
-These are the few occasions in three occasions. Because this is a gradual program to follow this stress program. The reserve size is now up to a considerable amount of $ 6.4 billion. So don't put this in the same time and break the stability. Gradually, the market mechanism is allowed. "
-
-◼️
-
-[Data](articles/14452b4a.json)
-
-[Extended Data](ext_articles/14452b4a.ext.json)
-
----
-
-### Foreign investors scope Sri Lanka’s Trincomalee, Hambantota ports
-
-*2024-11-26 13:14:00* · [`economynextcom`](https://economynext.com/foreign-investors-scope-sri-lankas-trincomalee-hambantota-ports-186973/) · `en`
-
-ECONOMYNEXT – A group of 20 foreign investors from India, Saudi Arabia, Maldives, France, Japan, Thailand, the United States, and Cambodia visited Sri Lanka’s Trincomalee and Hambantota ports this week to explore their potential for maritime investments, the Export Development Board said.
-
-“The visits aimed to showcase Sri Lanka’s potential as a hub for maritime investments and its growing blue economy,” EDB said in a statement.
-
-The delegation explored the opportunities across various sectors, including marina development shipbuilding, vessel maintenance, engineering services, bunkering, and related offshore services.
-
-“Investors also explored prospects for establishing joint ventures with existing local businesses or initiating new enterprises.”
-
-The visit was part of the EDB’s Voyage Sri Lanka 2024 initiative. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/b8da5222.json)
-
-[Extended Data](ext_articles/b8da5222.ext.json)
-
----
-
-### Brand Youthu issued warrants
-
-*2024-11-26 13:03:38* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-අර්චුනාට-වරෙන්තු-නිකුත්-කෙරේ/11-413275) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Brand Youthu: Jaffna District MP Archu issues warrant for Ramanathan over 2021 assault case."
-
-🟩
-
-In Jaffna District Independent MP Archu, PSC has issued warrants to Mr. Ramanathan.
-
-The case was issued today (26) when the case was taken up today (26) at the time of his accident and assault in 2021.
-
-◼️
-
-[Data](articles/a176fb37.json)
-
-[Extended Data](ext_articles/a176fb37.ext.json)
-
----
-
-### Trump vows new Canada, Mexico, China tariffs that threaten global trade
-
-*2024-11-26 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103776/trump-vows-new-canada-mexico-china-tariffs-that-threaten-global-trade) · `en`
-
-President-elect Donald Trump on Monday pledged big tariffs on the United States’ three largest trading partners - Canada, Mexico and China - detailing how he will implement campaign promises that could trigger trade wars.
-
-Trump, who takes office on Jan. 20, 2025, said he would impose a 25% tariff on imports from Canada and Mexico until they clamped down on drugs, particularly fentanyl, and migrants crossing the border, in a move that would appear to violate a free-trade deal.
-
-Trump also outlined “an additional 10% tariff, above any additional tariffs” on imports from China, in some of his most specific comments on how he will implement his economic agenda since winning the Nov. 5 election on promises to “put America first”.
-
-“On January 20th, as one of my many first Executive Orders, I will sign all necessary documents to charge Mexico and Canada a 25% Tariff on ALL products coming into the United States, and its ridiculous Open Borders,” he said in a post on Truth Social.
-
-...
-
-[Data](articles/350374b6.json)
-
-[Extended Data](ext_articles/350374b6.ext.json)
-
----
-
-### A recipient of electricity tariffs
-
-*2024-11-26 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203754) · `si`
-
-Ceylon Electricity Board rejects electricity tariff publication. CEB seeks time to submit new proposal for 2025, citing regulatory constraints.
-
-🟩
-
-The Ceylon Electricity Board (CEB) says that the publication of the electricity tariff is strongly rejected.
-
-In the year 2014, the Board said that the borrowings were approved in 2014 - 2022, but it was not due to the remembrance of the electricity tariffs.
-
-The announcement further states the expenditure of the final quarter of 2024, consisting of the final quarter of 2024, and the second and third quarter income, consisting of the final quarter of the year 2014 - 2022.The proposal was rejected by the Electricity Field Regulatory.
-
-The first six months of 2025, 2025, the first six months of 2025, the first six months of 2025, had requested the resolution to restructure the resolution to reinstate the fare.
-
-The CEB will require sufficient time to submit the new proposal for 2025, and the proposal will be referred to the regulator before 2124.2014.
-
-The CEB is not allowed to change the procedure of 2024, due to the decision to change the procedure in the first quarter of 3 quarters.
-
-...
-
-[Data](articles/68d56e3b.json)
-
-[Extended Data](ext_articles/68d56e3b.ext.json)
-
----
-
-### Warrant issued by MP
-
-*2024-11-26 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203753) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-MP warrant issued. Colombo magistrate orders Jaffna SSP arrest. Incident occurred in 2021. Opposition leader involved. Case related to assault. Apology made yesterday during program.
-
-🟩
-
-Colombo Additional Magistrate Manjula Ratnayake today (26) ordered that the Jaffna Senior Superintendent of Police of Jaffna District.
-
-He was taken into custody at the Baseline Road in 2021 and a case was taken up for an attack on a person.
-
-As the opposition leader was sitting on the 21st and refuse to leave the opposition leader's seat, it was also more interested in the incident.
-
-During a program commenced yesterday (25), he commenced his regret yesterday.
-
-◼️
-
-[Data](articles/252166a1.json)
-
-[Extended Data](ext_articles/252166a1.ext.json)
-
----
-
-### After the Indian visit, the President's visit to China
-
-*2024-11-26 12:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-விஜயத்தின்-பின்-ஜனாதிபதி-சீன-விஜயம்/175-347797) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake plans visits to India and China. His trip to India is scheduled for late December, followed by a visit to China. The Chinese ambassador has confirmed the invitation for the China visit.
-
-🟩
-
-Anura Kumara Dissanayake, the leader of the National People's Power and the Janatha Vimukthi Peramuna (JVP), will make an official visit to China after his visit to India
-
-Cabinet spokesman Nalinda Jayatissa said that the Chinese Ambassador to Sri Lanka has officially called.
-
-The Cabinet spokesman said that the President will make his visit to India in the third week of December, but the first visit to the foreign visit to the President after taking office as President.
-
-President Anura Kumara Dissanayake will visit China after his visit to India, he said.
-
-◼️
-
-[Data](articles/0e6eca21.json)
-
-[Extended Data](ext_articles/0e6eca21.ext.json)
-
----
-
-### International Muthami Murugan Conference - 2024: Travel Experience Series - 01
-
-*2024-11-26 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199714) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Bandaranaike Airport, main airport in Sri Lanka since 1970, renamed Katunayake International Airport in 1994 under Chandrika-led PA government, aiming to remove enemy names from official designations.
-
-🟩
-
-The Bandaranaike Airport, which is the main airport in Sri Lanka in 1970, is known as the Airport. Corporation of Sri Lanka in 1977. United National Party. The name of the "Katunayake International Airport" is changed in the hope that the enemy should not even leave the name of the enemy if he ruled.. In 1994, the PA is headed by the Chandrika -led Freedom Party.
-
-◼️
-
-[Data](articles/3240e725.json)
-
-[Extended Data](ext_articles/3240e725.ext.json)
-
----
-
-### Memorial Relatives Memorial: Public Defense Minister said
-
-*2024-11-26 12:37:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36pl6pn57no) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Defense Minister Ananda Wijepala clarifies rules for Tamil war memorial celebrations. LTTE symbols banned but relatives allowed to honor dead. Gazette law prohibits promotion or display of LTTE logos.
-
-🟩
-
-Memorial Relatives Memorial: Public Defense Minister said
-
-In November, the Tamil people of the North and East are carried out annually by the Tamil people in November annually to address their relatives during the Sri Lankan civil war.
-
-Almost every year, various ideologies are present, and this time it was based on the basis of some media reports that PSF Ananda Wijepala had been discussed.
-
-In the morning on 26th November, some of the media reported that the Minister of Defense stated that the logo and flags of the public will be displayed this time.
-
-Cabinet spokesman Minister Dr. Nalinda Jayatissa inquired about the media briefing on November 26th.
-
-The Minister said that the Minister of Public Defense has not made any such statement.
-
-He had stated that relatives were allowed only to the defense of relatives.
-
-...
-
-[Data](articles/136b8117.json)
-
-[Extended Data](ext_articles/136b8117.ext.json)
-
----
-
-### The decision taken about tuition
-
-*2024-11-26 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203752) · `si`
-
-Education reform underway: No immediate tuition ban, broad changes planned, including exam method revision. Consultation with experts expected.
-
-🟩
-
-Cabinet spokesman, Minister Dr. Nalinda Jayatissa says he has not yet decided to ban tuition.
-
-He added that the education of the Cabinet Decision today (26) had to make many changes in a broad reform.
-
-The Minister said that the policy statement of the national proposal has also been renovated and expanding education.
-
-Accordingly, after a formal discussion, he will seek a change in the overall, including the examination method.
-
-The Minister said that the government is interested in education and the government is expected to be consulted in consultation with the people of the field.
-
-◼️
-
-[Data](articles/efe2b7b8.json)
-
-[Extended Data](ext_articles/efe2b7b8.ext.json)
-
----
-
-### Instruction to suspend tuition classes
-
-*2024-11-26 12:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டியூசன்-வகுப்புகளை-இடைநிறுத்த-அறிவுறுத்தல்/175-347795) · `ta`
-
-Kalmunai Municipal Council suspends tuition classes on Nov 26-27 due to climate disasters. Decision made by Ampara District Disaster Management Center. Private educational institutions must comply.
-
-🟩
-
-The Kalmunai Municipal Council has instructed the temporary suspension of tuition classes in private educational centers on Wednesdays of 2024-11-26 Tuesday and 2024--11-27 on Wednesday, 2024-11-26.
-
-Municipal Commissioner NM in this regard. In the request of Noubis, the conductors and teachers of private educational institutions;
-
-The decision was taken on the advice of the Ampara District Disaster Management Center, considering the red warning issued on the disaster conditions caused by the prevailing climate in the Northern and Eastern Provinces.
-
-We are obliged to take responsibility for their interests and safety, avoiding the adverse effects and discomfort of our students due to heavy rains, floods, high winds and disasters.
-
-Therefore, I urge their conductors and teachers to cooperate in all private educational centers on the Kalmunai Municipal Council border.
-
-◼️
-
-[Data](articles/28c2d8a2.json)
-
-[Extended Data](ext_articles/28c2d8a2.ext.json)
-
----
-
-### “The government is not involved in treasure drilling”
-
-*2024-11-26 12:14:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதையல்-தோண்டும்-செயற்பாட்டில்-அரசாங்கம்-ஈடுபடவில்லை/175-347794) · `ta`
-
-Government denies involvement in treasure excavation near temple. Excavation ordered by magistrate, no treasure found.
-
-🟩
-
-Cabinet spokesman Minister Nalinda Jayadissa today said that the government was not involved in the excavation of treasure excavation near the Vandarawa Rajamaha Vihara.
-
-He said that the excavation work was carried out on the orders of the Attanagalla Magistrate at a weekly meeting to announce the Cabinet decisions.
-
-It is also noteworthy that the excavation was completed without the finding of treasure or archeology.
-
-◼️
-
-[Data](articles/beddb1dd.json)
-
-[Extended Data](ext_articles/beddb1dd.ext.json)
-
----
-
-### Parliamentary debate on the policy statement of the President two days
-
-*2024-11-26 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203751) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Party leaders meet in Parliament. They agree on a two-day debate on the government's policy statement. The debate will cover both ruling party and opposition views. Additional meetings scheduled for December 5-6. Funding allocation for government operations from April 30, 2025, via interim account. No voting expected on the interim account.
-
-🟩
-
-The first party leader meeting held in Parliament yesterday (25) was held yesterday.
-
-Leader of the House Minister Bimal Ratnayake said that the activities of the House of Parliament from December 3 and had agreed to the action of the week.
-
-The party leaders have decided to take a two-day debate on the policy statement on the government's policy statement on December 03 and 4 days.
-
-"In those two days, the people are providing for the people to learn about party ideas as well as opposition opinions ..."
-
-It was also agreed on December 05 and the 6th by December Five and the 6th.
-
-This will make the allocation of funds for the maintenance of government affairs from 30th April 2025 through this interim account.
-
-The party leaders have stated that they are not expected to go to vote about the interim account.
-
-◼️
-
-[Data](articles/445a6a9b.json)
-
-[Extended Data](ext_articles/445a6a9b.ext.json)
-
----
-
-### Sri Lanka awards diesel contract to Singapore’s BB Energy
-
-*2024-11-26 12:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-diesel-contract-to-singapores-bb-energy-189903/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has awarded a contract to supply 4 shipments of diesel (0.05% MS) from December 15, 2024 to June 14, 2025 to Singapore’s BB Energy (Asia) Pte Ltd, a government statement said.
-
-Bids were invited from registered suppliers of Ceylon Petroleum Corporation and 6 bidders submitted bids.
-
-After evaluating the bids, the Cabinet approved the proposal to award the procurement to Singapore’s BB Energy (Asia) Private Limited as recommended by its Procurement Committee. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/352d9fe3.json)
-
-[Extended Data](ext_articles/352d9fe3.ext.json)
-
----
-
-### Steps will be taken to provide justice to the JVP killed during the 1988-89 rebellion - the party's general secretary
-
-*2024-11-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199703) · `ta`
-
-JVP plans justice for 1988-89 rebels; no immediate action; future steps pending negotiations
-
-🟩
-
-The JVP said the JVP would take justice to the JVP, which was killed during the 1988-89 rebellion.
-
-The JVP said it could take place in the future, although there were no negotiations on the steps to provide justice to the JVI, which was killed during the 1988-89 rebellion.
-
-The Marxist Left Party, the JVP, is currently the main party of the National People's Power Alliance.
-
-The JVP general secretary and party parliamentarian Dr. Nihal Abayasinghe said that the future will be taken up in the question of whether the JVP members who were killed during the 1988-89 JVP members were killed in the future.
-
-We have not yet held special talks on this issue, but he will carry out the necessary negotiations, he said.
-
-He said that these issues would be focused on the interim expenditure project as a governing body.
-
-◼️
-
-[Data](articles/a08f5bf0.json)
-
-[Extended Data](ext_articles/a08f5bf0.ext.json)
-
----
-
-### CEB slams PUCSL’s allegations on tariff revision delays
-
-*2024-11-26 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103775/ceb-slams-pucsls-allegations-on-tariff-revision-delays) · `en`
-
-The Ceylon Electricity Board (CEB) has strongly refuted recent claims regarding the revision of electricity tariffs.
-
-Addressing the controversy, the CEB clarified its position on a proposal submitted to the Public Utilities Commission of Sri Lanka (PUCSL) on October 24, 2024, which recommended a reduction in electricity tariffs by a range of 6% to 11%.
-
-Issuing a statement, the CEB said that this proposal was based on projected expenses for the final quarter of 2024, revenue data from the second and third quarters, and the repayment of loans incurred during 2014–2022.
-
-The submission was made following the current tariff calculation methodology, it added, noting that however, the ‘electricity sector regulator’ rejected the proposal, citing the need to implement any tariff revisions considering the first six months of 2025, rather than the last quarter of 2024.
-
-...
-
-[Data](articles/8930cb1d.json)
-
-[Extended Data](ext_articles/8930cb1d.ext.json)
-
----
-
-### Arjuna Mahendran appeared in court
-
-*2024-11-26 12:02:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன-மகேந்திரனை-நீதிமன்றத்தில்-ஆஜராக-உத்தரவு/175-347793) · `ta`
-
-Arjuna Mahendran court appearance ordered Feb 25, 2025, over 2015 Central Bank bailout fraud. Case filed by Bribery Commission. Accused of leaking info to help son-in-law Arjun Aloysius. Failed to continue legal process after leaving country.
-
-🟩
-
-The Colombo Magistrate's Court has ordered the former Governor of the Central Bank Arjuna Mahendran to appear in court on February 25, 2025.
-
-The court issued the order on the Central Bank's bailout fraud in 2015.
-
-The case has been filed by the Commission to Investigate Bribery or Corruption.
-
-Former Central Bank Governor Arjuna Mahendran has intervened at the bailout and has leaked to help his son -in -law Arjun Aloysius, Perpetual Treasuries.
-
-Despite the fact that matters relating to investigations, Mahendran, a citizen of Singapore, failed to continue his legal process after he left the country after leaving the country claiming to be attending the wedding.
-
-◼️
-
-[Data](articles/ec46ce1a.json)
-
-[Extended Data](ext_articles/ec46ce1a.ext.json)
 
 ---

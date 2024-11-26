@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 02:41:39**
+As of **2024-11-27 03:00:24**
 
 ## Newspaper Stats
 
-*Scraped **57,092** Articles*
+*Scraped **57,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,90 @@ dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
 tamilmirrorlk | 8,119
-virakesarilk | 9,307
+virakesarilk | 9,312
 adaderanasinhalalk | 9,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,092 (100.0%) of 57,092 articles have been extended.
+57,092 (100.0%) of 57,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### வவுனியா ஒமந்தை அலைகல்லுபோட்டகுளம் உடைப்பெடுக்கும் அபாயம்
+
+*2024-11-27 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199794) · `ta`
+
+சீரற்ற காலநிலையால் பெய்துவரும் தொடர் மழை காரணமாக வவுனியா ஒமந்தை அலைகல்லுபோட்டகுளம் உடைப்பெடுக்கும் அபாயநிலையில் காணப்படுவதாக கமநல அபிவிருத்தி திணைக்கள உதவி ஆணையாளர் விமலரூபன் தெரிவித்தார்.
+
+அலைகல்லுபோட்டகுளம் தற்போது வான் பாய்ந்து வரும் நிலையில் குறித்த குளத்திற்கான நீர்வரத்து அதிகரித்து வருகின்றது.
+
+குறித்த குளத்தில் உமை ஒன்றும் ஏற்பட்டுள்ளமையால் எந்நேரமும் உடைப்பெடுக்கும் சந்தர்ப்பம் உள்ளது. மேலும் குறித்த குளம் உடைப்பெடுக்கும் சந்தர்ப்பத்தில் இதன் கீழ் உள்ள மாளிகை குளமும் உடைக்கும் நிலை ஏற்படும்.
+
+இதனால் பெரும் அனர்த்தம் ஏற்படும் அபாயம் உள்ளமையால் இக் குளத்தின் கீழ் உள்ள கிராமமக்கள் அவதானமாக இருக்குமாறு அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/705c1e76.json)
+
+---
+
+### வவுனியாவில் முஸ்லிம் பாடசாலைகளுக்கு இரண்டு நாட்கள் விடுமுறை - அரச அதிபர்
+
+*2024-11-27 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199793) · `ta`
+
+சீரற்ற காலநிலை காரணமாக வவுனியா மாவட்டத்தில் உள்ள முஸ்லிம் பாடசாலைகளுக்கு இரண்டு நாட்கள் விடுமுறை வழங்கப்பட்டுள்ளதாக மாவட்ட அரச அதிபர் பீ.ஏ.சரத்சந்திர தெரிவித்துள்ளார்.
+
+நாட்டில் ஏற்பட்டுள்ள சீரற்ற காலநிலை காரணமாக வவுனயா மாவட்டமும் பாதிக்கப்பட்டுள்ளது. இதன்காரணமாக வவுனியா மாவட்டத்தில் உள்ள முஸ்லிம் பாடசாலைகளுக்கு நவம்பர் 27 மற்றும் 28 ஆம் திகதிகளில் விடுமுறை வழங்க தீர்மானிக்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f68c40fd.json)
+
+---
+
+### இலத்திரனியல் வாக்களிக்கும் இயந்திரத்தை கண்டுபிடித்து வவுனியா மாணவன் தேசிய ரீதியில் சாதனை: தேர்தலில் பயன்படுத்த ஜனாதிபதிடம் கோரிக்கை
+
+*2024-11-27 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199792) · `ta`
+
+...
+
+[Data](articles/c34e0f3f.json)
+
+---
+
+### சபாநாயகருக்கு அல் குர்ஆனின் சிங்கள மொழிபெயர்ப்பு பிரதியை கையளித்துள்ள அகில இலங்கை ஜம்இய்யதுல் உலமா சபை
+
+*2024-11-27 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199791) · `ta`
+
+சபாநாயகர் அசோக்க ரன்வல செவ்வாய்க்கிழமை (26) அகில இலங்கை ஜம்இய்யதுல் உலமா சபையின் தலைமையகத்துக்கு சென்று அங்கு உலமா சபை தலைவர் உள்ளிட்ட அங்கத்தவர்களுடன் கலந்துரையாடினர்.
+
+கலந்துரையாடல்களின் பின் உலமா சபை தலைவர் சபாநாயகருக்கு அல் குர்ஆனின் சிங்கள மொழிபெயர்ப்பு பிரதியை கையளித்துள்ளார்.
+
+◼️
+
+[Data](articles/d62285d3.json)
+
+---
+
+### வவுனியாவில் கடும் மழை: அரசதிணைக்களங்களும் நீரில் முழகியதுடன் மன்னார் வீதியும் போக்குவரத்து தடை
+
+*2024-11-27 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199790) · `ta`
+
+வவுனியாவில் பெய்து வரும் கடும் மழை காரணமாக அரச திணைக்களங்கள் பலரும் நீரில் முழ்கியதுடன் மன்னார் வீதி ஊடான போக்குவரத்தும் தடைப்பட்டது.
+
+சீரற்ற காலநிலை காரணமாக வவுனியாவில் கடந்த சில நாட்களாக மழை பெய்து வந்த நிலையில் செவ்வாய்க்கிழமை (26) பிற்பகல் தொடக்கம் கடும் மழை பெய்து வரும் நிலையில் வவுனியா குடிவரவு குடியகல்வு திணைக்களம், தாதியர் கல்லூரி, அரச சுற்றுலா விடுதி, பிராந்திய சுகாதார சேவைகள் திணைக்களம், பிரதேச செயலகம் எனபன நீரில் மூழ்கியுள்ளதுடன், காமினி மாகவித்தியாலயம் முன்பாக வெள்ள நீர் பாய்ந்து ஓடுவதால் வீதி போக்குவரத்தும் தடை செய்யப்பட்டுள்ளது.
+
+அத்துடன், வவுனியா வைரவபுளியங்குளம் பகுதியிலும் வர்த்தக நிலையங்களுக்குள் வெள்ள நீர் புகுந்துள்ளதுடன், வவுனியாவின் பல பகுதிகளில் வீடுகள் மற்றும் வர்த்தக நிலையங்களும் வெள்ள நீரில் முழ்கின.
+
+...
+
+[Data](articles/856c9149.json)
+
+---
 
 ### Nolimid Zahira Super 16 Sochar 7s: 15 schools in Sri Lanka and Qatar School
 
@@ -2397,127 +2469,5 @@ Minister of Cabinet spokesman, Minister Dr. Nalinda Jayatissa made these comment
 [Data](articles/cc5545d2.json)
 
 [Extended Data](ext_articles/cc5545d2.ext.json)
-
----
-
-### Tax Increase on Mexico Chinese Goods in Canada - Trump
-
-*2024-11-26 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199736) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Donald Trump plans to impose a 25% tax on Mexican and Chinese goods entering Canada when he becomes president. He claims this is to combat illegal immigration and crime along the US-Mexico border. The tax will remain in place until drug trafficking and illegal immigration cease. This move has raised concerns about increased costs for American businesses and consumers.
-
-🟩
-
-Donald Trump has announced that he will increase taxes for goods coming from China Mexico when he takes office as president
-
-Trump has said he will do this in response to illegal immigration and crimes from the US border.
-
-Trump said my first directive on January 20 would be imposed on Canada's 25 percent against Mexico, and that the tax would be taxed for all the goods coming from the US borders from these countries.
-
-Trump said the taxes would last until drugs and illegal immigrants enter the United States.
-
-Trump has said that the long -standing problem of the US can be resolved.
-
-Meanwhile, Trump's move has expressed fears that the costs of American traders and consumers will increase.
-
-◼️
-
-[Data](articles/351b8964.json)
-
-[Extended Data](ext_articles/351b8964.ext.json)
-
----
-
-### India rejects food imports from several countries including Sri Lanka
-
-*2024-11-26 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103781/india-rejects-food-imports-from-several-countries-including-sri-lanka) · `en`
-
-India has taken strict action against substandard food imports, rejecting consignments of items like apples, nuts, alcoholic beverages, and sushi from countries including China, Japan, Sri Lanka, Bangladesh, and Turkey. These products failed to meet the quality and safety standards set by the Food Safety and Standards Authority of India (FSSAI).
-
-The FSSAI, India’s top food regulator, has made the details public through its recently launched Food Import Rejection Alert (FIRA) portal.
-
-This platform helps authorities worldwide quickly share information about rejected food items, enabling swift action to prevent risks and ensure traceability and transparency.
-
-Under Regulation 11(7) of the Food Safety and Standards (Import) Regulation, 2017, the FSSAI is empowered to issue food alert notifications. For instance, a cinnamon flower bud shipment from Sri Lanka was rejected in May because it required prior approval under the Food Safety and Standards Act, 2006.
-
-...
-
-[Data](articles/fd3f40be.json)
-
-[Extended Data](ext_articles/fd3f40be.ext.json)
-
----
-
-### Cabinet Spokesman responds to claims over lack of Muslim Ministers
-
-*2024-11-26 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103780/cabinet-spokesman-responds-to-claims-over-lack-of-muslim-ministers-) · `en`
-
-Sri Lanka’s new government has responded to allegations over the lack of Muslim representation in its Cabinet of Ministers.
-
-“We didn’t form the Cabinet according to the race, religion or the cast. We have selected the persons who are very much capable to hold those ministerial portfolios,” Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
-
-Responding to a question during today’s Cabinet press briefing, he noted that the NPP government has in fact appointed a Muslim businessman as the Governor of the Western Province, and that the Deputy Speaker, one of the Deputy Ministers and that one of the National List MPs appointed from the Gampaha District are from the Muslim community.
-
-“We are serving the Sri Lankan nation. Not for the races, the religions and the cast,” the minister stressed.
-
-...
-
-[Data](articles/b98955a2.json)
-
-[Extended Data](ext_articles/b98955a2.ext.json)
-
----
-
-### "No one from Vyantamaka is appointed"
-
-*2024-11-26 15:15:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியத்மகவில்-இருந்து-எவரையும்-நியமிக்கவில்லை/175-347801) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-No Vyantamaka representatives appointed as ministers or secretaries. Cabinet denies supporting NPP government. Minister clarifies Professor Kapila Perera's appointment based on qualifications, not political affiliation.
-
-🟩
-
-Cabinet spokesman and Media Minister Nalinda Jayatissa today confirmed that no one has been appointed as ministers or ministry secretaries from Vyitamaka, while condemning the alleged support for the National People's Power (NPP) government.
-
-A journalist questioned the appointment of Professor Kapila Perera as Secretary of the Ministry of Transport, Highways, Ports and Civil Aviation Services.
-
-Responding to the question, Minister Jayatissa said that Professor Kapila Perera had nothing to do with it.
-
-“Professor Kapila Perera was appointed only based on his qualifications and past experience. The government considered his abilities before appointing him to the post of Secretary, ”he explained.
-
-The Minister made it clear that Prasanna Gunasena, a dentist from the Kandy district, was not the doctor Prasanna Gunasena, who was associated with Vathamakam, but that the two were different.
-
-◼️
-
-[Data](articles/e051c952.json)
-
-[Extended Data](ext_articles/e051c952.ext.json)
-
----
-
-### Ceylon Chamber welcomes IMF staff-level agreement
-
-*2024-11-26 15:00:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-welcomes-imf-staff-level-agreement-160652/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce said it welcomed the announcement of a staff-level agreement for the third review under the International Monetary Fund (IMF) Extended Fund Facility program for Sri Lanka, and looks forward to the Government meeting the requirement for disbursement.
-
-“The Chamber looks forward to the Government meeting the requirement for disbursement by the Board of the IMF,” the trade body said in a statement.
-
-“This agreement underscores the progress the country has made in implementing structural reforms and achieving fiscal sustainability during this critical period of economic recovery.
-
-“While acknowledging the progress made, it is important to continue the reform momentum and build on the progress made while unlocking key constraints that bind long term sustainable growth. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/17b33f80.json)
-
-[Extended Data](ext_articles/17b33f80.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 13:00:52**
+As of **2024-11-26 11:42:59**
 
 ## Newspaper Stats
 
-*Scraped **56,960** Articles*
+*Scraped **56,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,457 +16,53 @@ islandlk | 3,421
 economynextcom | 3,449
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,361
-adaderanalk | 6,889
-tamilmirrorlk | 8,103
-virakesarilk | 9,281
-adaderanasinhalalk | 9,835
+adalk | 5,360
+adaderanalk | 6,885
+tamilmirrorlk | 8,095
+virakesarilk | 9,280
+adaderanasinhalalk | 9,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,943 (100.0%) of 56,960 articles have been extended.
+56,926 (100.0%) of 56,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### இந்திய விஜயத்தின் பின், ஜனாதிபதி சீன விஜயம்
-
-*2024-11-26 12:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-விஜயத்தின்-பின்-ஜனாதிபதி-சீன-விஜயம்/175-347797) · `ta`
-
-தேசிய மக்கள் சக்தி, மக்கள் விடுதலை முன்னணி ஆகியவற்றின் தலைவரும், புதிய ஜனாதிபதியுமான அனுரகுமார திசாநாயக்க, இந்திய விஜயத்தின் பின்னர் சீனாவிற்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொள்ளவுள்ளார்
-
-இலங்கைக்கான சீன தூதுவர் உத்தியோகபூர்வமாக அழைப்பு விடுத்துள்ளார் என  என அமைச்சரவை பேச்சாளர் நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
-
-டிசெம்பர் மூன்றாவது வாரத்தில் ஜனாதிபதி இந்தியாவிற்கான தனது பயணத்தை மேற்கொள்ளவுள்ளார் ஜனாதிபதியாக பதவியேற்றபின்னர் அவர் மேற்கொள்ளும் முதலவாது வெளிநாட்டு விஜயம் எனினும், இதற்கான திகதி தீர்மானிக்கப்படவில்லை என அமைச்சரவை பேச்சாளர் தெரிவித்துள்ளார்.
-
-இந்திய விஜயத்தின் பின்னர் ஜனாதிபதி அனுரகுமார திசாநாயக்க, சீனாவிற்கு விஜயம் மேற்கொள்வார் என அவர் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/0e6eca21.json)
-
----
-
-### Instruction to suspend tuition classes
-
-*2024-11-26 12:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டியூசன்-வகுப்புகளை-இடைநிறுத்த-அறிவுறுத்தல்/175-347795) · `ta`
-
-Kalmunai Municipal Council suspends tuition classes on Nov 26-27 due to climate disasters. Decision made by Ampara District Disaster Management Center. Private educational institutions must comply.
-
-🟩
-
-The Kalmunai Municipal Council has instructed the temporary suspension of tuition classes in private educational centers on Wednesdays of 2024-11-26 Tuesday and 2024--11-27 on Wednesday, 2024-11-26.
-
-Municipal Commissioner NM in this regard. In the request of Noubis, the conductors and teachers of private educational institutions;
-
-The decision was taken on the advice of the Ampara District Disaster Management Center, considering the red warning issued on the disaster conditions caused by the prevailing climate in the Northern and Eastern Provinces.
-
-We are obliged to take responsibility for their interests and safety, avoiding the adverse effects and discomfort of our students due to heavy rains, floods, high winds and disasters.
-
-Therefore, I urge their conductors and teachers to cooperate in all private educational centers on the Kalmunai Municipal Council border.
-
-◼️
-
-[Data](articles/28c2d8a2.json)
-
-[Extended Data](ext_articles/28c2d8a2.ext.json)
-
----
-
-### “The government is not involved in treasure drilling”
-
-*2024-11-26 12:14:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதையல்-தோண்டும்-செயற்பாட்டில்-அரசாங்கம்-ஈடுபடவில்லை/175-347794) · `ta`
-
-Government denies involvement in treasure excavation near temple. Excavation ordered by magistrate, no treasure found.
-
-🟩
-
-Cabinet spokesman Minister Nalinda Jayadissa today said that the government was not involved in the excavation of treasure excavation near the Vandarawa Rajamaha Vihara.
-
-He said that the excavation work was carried out on the orders of the Attanagalla Magistrate at a weekly meeting to announce the Cabinet decisions.
-
-It is also noteworthy that the excavation was completed without the finding of treasure or archeology.
-
-◼️
-
-[Data](articles/beddb1dd.json)
-
-[Extended Data](ext_articles/beddb1dd.ext.json)
-
----
-
-### Parliamentary debate on the policy statement of the President two days
-
-*2024-11-26 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203751) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Party leaders meet in Parliament. They agree on a two-day debate on the government's policy statement. The debate will cover both ruling party and opposition views. Additional meetings scheduled for December 5-6. Funding allocation for government operations from April 30, 2025, via interim account. No voting expected on the interim account.
-
-🟩
-
-The first party leader meeting held in Parliament yesterday (25) was held yesterday.
-
-Leader of the House Minister Bimal Ratnayake said that the activities of the House of Parliament from December 3 and had agreed to the action of the week.
-
-The party leaders have decided to take a two-day debate on the policy statement on the government's policy statement on December 03 and 4 days.
-
-"In those two days, the people are providing for the people to learn about party ideas as well as opposition opinions ..."
-
-It was also agreed on December 05 and the 6th by December Five and the 6th.
-
-This will make the allocation of funds for the maintenance of government affairs from 30th April 2025 through this interim account.
-
-The party leaders have stated that they are not expected to go to vote about the interim account.
-
-◼️
-
-[Data](articles/445a6a9b.json)
-
-[Extended Data](ext_articles/445a6a9b.ext.json)
-
----
-
-### Steps will be taken to provide justice to the JVP killed during the 1988-89 rebellion - the party's general secretary
-
-*2024-11-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199703) · `ta`
-
-JVP plans justice for 1988-89 rebels; no immediate action; future steps pending negotiations
-
-🟩
-
-The JVP said the JVP would take justice to the JVP, which was killed during the 1988-89 rebellion.
-
-The JVP said it could take place in the future, although there were no negotiations on the steps to provide justice to the JVI, which was killed during the 1988-89 rebellion.
-
-The Marxist Left Party, the JVP, is currently the main party of the National People's Power Alliance.
-
-The JVP general secretary and party parliamentarian Dr. Nihal Abayasinghe said that the future will be taken up in the question of whether the JVP members who were killed during the 1988-89 JVP members were killed in the future.
-
-We have not yet held special talks on this issue, but he will carry out the necessary negotiations, he said.
-
-He said that these issues would be focused on the interim expenditure project as a governing body.
-
-◼️
-
-[Data](articles/a08f5bf0.json)
-
-[Extended Data](ext_articles/a08f5bf0.ext.json)
-
----
-
-### CEB slams PUCSL’s allegations on tariff revision delays
-
-*2024-11-26 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103775/ceb-slams-pucsls-allegations-on-tariff-revision-delays) · `en`
-
-The Ceylon Electricity Board (CEB) has strongly refuted recent claims regarding the revision of electricity tariffs.
-
-Addressing the controversy, the CEB clarified its position on a proposal submitted to the Public Utilities Commission of Sri Lanka (PUCSL) on October 24, 2024, which recommended a reduction in electricity tariffs by a range of 6% to 11%.
-
-Issuing a statement, the CEB said that this proposal was based on projected expenses for the final quarter of 2024, revenue data from the second and third quarters, and the repayment of loans incurred during 2014–2022.
-
-The submission was made following the current tariff calculation methodology, it added, noting that however, the ‘electricity sector regulator’ rejected the proposal, citing the need to implement any tariff revisions considering the first six months of 2025, rather than the last quarter of 2024.
-
-...
-
-[Data](articles/8930cb1d.json)
-
-[Extended Data](ext_articles/8930cb1d.ext.json)
-
----
-
-### Arjuna Mahendran appeared in court
-
-*2024-11-26 12:02:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன-மகேந்திரனை-நீதிமன்றத்தில்-ஆஜராக-உத்தரவு/175-347793) · `ta`
-
-Arjuna Mahendran court appearance ordered Feb 25, 2025, over 2015 Central Bank bailout fraud. Case filed by Bribery Commission. Accused of leaking info to help son-in-law Arjun Aloysius. Failed to continue legal process after leaving country.
-
-🟩
-
-The Colombo Magistrate's Court has ordered the former Governor of the Central Bank Arjuna Mahendran to appear in court on February 25, 2025.
-
-The court issued the order on the Central Bank's bailout fraud in 2015.
-
-The case has been filed by the Commission to Investigate Bribery or Corruption.
-
-Former Central Bank Governor Arjuna Mahendran has intervened at the bailout and has leaked to help his son -in -law Arjun Aloysius, Perpetual Treasuries.
-
-Despite the fact that matters relating to investigations, Mahendran, a citizen of Singapore, failed to continue his legal process after he left the country after leaving the country claiming to be attending the wedding.
-
-◼️
-
-[Data](articles/ec46ce1a.json)
-
-[Extended Data](ext_articles/ec46ce1a.ext.json)
-
----
-
-### The cabinet is not racial, religious and caste
-
-*2024-11-26 11:54:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-இன-மத-சாதி-ரீதியில்-அமைக்கப்படவில்லை/175-347792) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Cabinet appointments based on merit, not race, religion or caste. Muslim representation through Governor appointment and national list MP. Focus on serving all Sri Lankans equally.
-
-🟩
-
-Responding to questions raised about the absence of Muslim representatives at recent Cabinet appointments, Cabinet spokesman and Media Minister Nalinda Jayatissa said that the Cabinet race, religion or caste had not been established.
-
-“We do not set a cabinet on the basis of race, religion or caste. We chose the most talented people in dealing with ministry powers, ”he said.
-
-He added that a Muslim businessman has been appointed as the Governor of the Western Province.. In addition, a Gampaha district parliamentarian was appointed by a national list to represent the Muslim community.
-
-Minister Jayatissa emphasized that we are focusing on serving the entire Sri Lankan nation, not specific species, religions or castes.
-
-He appealed to the Muslim community not to look at the current situation from the perspective of race or religion.
-
-...
-
-[Data](articles/3aca1f53.json)
-
-[Extended Data](ext_articles/3aca1f53.ext.json)
-
----
-
-### “Not ethnic, religious and caste cabinet”
-
-*2024-11-26 11:54:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன-மத-சாதி-ரீதியான-அமைச்சரவை-அல்ல/175-347792) · `ta`
-
-Sri Lanka Cabinet denies bias: "No ethnic, religious, caste-based appointments"
-
-🟩
-
-Cabinet spokesman and Media Minister Nalinda Jayadissa said that the Cabinet, religion or caste was not based on caste.
-
-He said this while responding to questions raised about the absence of Muslim representatives in recent Cabinet appointments.
-
-Responding to a question raised by journalists attending a press conference announcing the weekly cabinet decisions held at the Government Information Department on Tuesday (26), the Cabinet spokesman said this.
-
-“We do not set a cabinet on the basis of race, religion or caste. We chose the most talented people in dealing with ministry powers, ”he said.
-
-He added that a Muslim businessman has been appointed as the Governor of the Western Province.. In addition, a Gampaha district parliamentarian was appointed by a national list to represent the Muslim community.
-
-Minister Jayatissa emphasized that we are focusing on serving the entire Sri Lankan nation, not specific species, religions or castes.
-
-...
-
-[Data](articles/4b896876.json)
-
-[Extended Data](ext_articles/4b896876.ext.json)
-
----
-
-### President Dissanayake to visit India on first foreign trip
-
-*2024-11-26 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103774/president-dissanayake-to-visit-india-on-first-foreign-trip) · `en`
-
-Sri Lanka’s President Anura Kumara Dissanayake will undertake an official visit to India during the third week of December on an invitation by the Indian government.
-
-This was confirmed by the Cabinet spokesman, Minister Dr. Nalinda Jayatissa during the Cabinet press conference held today (26).
-
-Minister of Foreign Affairs Vijitha Herath had previously stated that Dissanayake will call on India’s Prime Minister Narendra Modi and External Affairs Minister S Jaishankar, who became the first foreign dignitary to call on Dissanayake when he was elected President in September and had extended the invitation.
-
-Jaishankar visited Sri Lanka in October after the National People’s Power (NPP) government led by Dissanayake came to power on September 23.
-
-...
-
-[Data](articles/ffdfacb2.json)
-
-[Extended Data](ext_articles/ffdfacb2.ext.json)
-
----
-
-### Supplementary estimate for essential expenses to be tabled in Parliament
-
-*2024-11-26 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103773/supplementary-estimate-for-essential-expenses-to-be-tabled-in-parliament) · `en`
-
-The necessary provisions for incurring and accounting for certain essential expenses in the coming period of the year 2024 should be made through a Supplementary Estimate, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said during the today’s Cabinet press conference.
-
-The Minister highlighted that accordingly, certain identified expenses can be made through provision adjustments within the approved expenditure estimate for 2024, and the relevant adjustments can be made without exceeding the overall expenditure limits approved by the Appropriation Act for the year 2024 and without affecting the maximum borrowing limit of the government.
-
-Thus, the Cabinet of Ministers has approved the proposal made by the President, in his capacity as the Minister of Finance, Planning and Economic Development, to submit to Parliament, by way of a resolution, a Supplementary Estimate of Rs. 219,373 million for the following purposes:
-
-...
-
-[Data](articles/98ead21c.json)
-
-[Extended Data](ext_articles/98ead21c.ext.json)
-
----
-
-### Archae
-
-*2024-11-26 11:42:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-பிடியாணை/175-347791) · `ta`
-
-Colombo Additional Magistrate Manjula Ratnayake orders warrant for MP Archana Ramanathan's failure to appear in court.
-
-🟩
-
-Yall. Colombo Additional Magistrate Manjula Ratnayake today (26) has ordered the issuance of District Independent Parliamentarian Dr. Archana Ramanathan.
-
-Archana Ramanathan MP has been issued a warrant for not appearing in court.
-
-◼️
-
-[Data](articles/ae7bc12d.json)
-
-[Extended Data](ext_articles/ae7bc12d.ext.json)
-
----
-
-### Mullaitivu - Heavy rain in Pudukkudiyiruppu;Public damage to floods
-
-*2024-11-26 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199704) · `ta`
-
-Heavy rainfall in Mullaitivu's Pudukkudiyiruppu causes flooding, disrupting trade and travel. Flood warnings issued due to ongoing storms.
-
-🟩
-
-Mullaitivu - Pudukkudiyiruppu area is continuously raining due to heavy rains.
-
-It has been raining for the past three days in Pudukkudiyiruppu.As a result, traders in the area face huge difficulties without being able to engage in daily activities.
-
-Pudukkudiyiruppu has been flooded and flooding into homes has been affected by travelers and traders.
-
-It is also worth noting that the Disaster Management Unit has issued a flood hazard warning due to continuous thunderstorms in the North and East.
-
-◼️
-
-[Data](articles/542116d5.json)
-
-[Extended Data](ext_articles/542116d5.ext.json)
-
----
-
-### Central Bank bond scam: Notice issued on ex-CBSL chief Arjuna Mahendran
-
-*2024-11-26 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103772/central-bank-bond-scam-notice-issued-on-ex-cbsl-chief-arjuna-mahendran) · `en`
-
-The Colombo Magistrate’s Court has issued notice on former Governor of the Central Bank of Sri Lanka (CBSL) Arjuna Mahendran to appear before the court on 25 February 2025 over a case filed by the Bribery Commission pertaining to the controversial bond issue in 2015.
-
-The case has been filed over the alleged misappropriation of bonds causing a loss of over Rs. 10 billion to the government of Sri Lanka in 2015.
-
-Colombo Magistrate Thilina Gamage issued this order today (26) after considering a request made by the Bribery Commission.
-
-◼️
-
-[Data](articles/8120d4f0.json)
-
----
-
-### Cabinet approval to restructure international sovereignties in Sri Lanka
+### ශ්‍රී ලංකාවේ ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය කිරීමට කැබිනට් අනුමැතිය
 
 *2024-11-26 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203750) · `si`
 
-Sri Lanka cabinet approves restructuring international sovereignty. Agreement reached with bilateral lenders on bond exchange by September 2024. Impact on economy discussed. New bonds to be submitted by 2032, aligned with IMF parameters.
+ශ්‍රී ලංකාවේ ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය සඳහා මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍ය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
 
-🟩
+අද (25) පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක් වෙමින් කම්කරු සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා මේ බව පැවසීය.
 
-Cabinet has approved a proposal made by Hon. President Anura Kumara Dissanayake, Minister of Finance, Planning and Economic Development to restructure international sovereignty in Sri Lanka.
-
-Deputy Minister of Labor and Economic Development Prof. Anil Jayantha Fernando, joining the Cabinet Decision informed today (25).
-
-Accordingly, in September 2024, the Deputy Minister of International Investors representatives of the International Investors Agent, a group of organized bonds, and the unity of the local bond owners of Sri Lanka and the unity of Sri Lanka's united discussions with the unity of Sri Lanka and the unity of Sri Lanka's united discussions were held.Said.
-
-"The negotiations with bilateral lenders had come to some agreement by June. However, it was delayed because of the complexity of sovereign bonds. In September, however, we were able to agree with bonds exchange.
+ඒ අනුව 2024 සැප්තැම්බර් මාසයේදී ප්‍රතිපත්තිමය වශයෙන් ඇමරිකානු එක්සත් ජනපද ඩොලර් බිලියන 14.2ක පමණ ස්වෛරී ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ ජාත්‍යන්තර ආයෝජකයින්ගේ නියෝජිත කණ්ඩායමක් වන ස්වෛරීත්ව බැඳුම්කර හිමියන්, තත්ත්කාර්ය කණ්ඩායමක් සහ ශ්‍රී ලංකාවේ දේශීය බැඳුම්කර හිමියන්ගේ එකමුතුව සමග පවත්වන ලද සාකච්ඡාවකින් අනතුරුව මේ සම්බන්ධව එකඟතාවට පැමිණි බවද නියෝජ්‍ය අමාත්‍යවරයා එහිදී පැවසීය.
 
 ...
 
 [Data](articles/b5588ca0.json)
 
-[Extended Data](ext_articles/b5588ca0.ext.json)
-
 ---
 
-### A person with an electricity feker is killed
-
-*2024-11-26 11:33:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ස්ත්‍රික්කයකින්-පහරදි-පුද්ගලයෙක්-ඝාතනය-කරයි/11-413273) · `si`
-
-Person electrocuted while trying to store electrical items without permission. Police investigating. Suspect fled but will be caught.
-
-🟩
-
-Maharagama Police said that a person who had not allowed to shelter electrical appliances in Pannipitiya Owansa.
-
-The deceased has been identified as Dayasiri Dayasiri, a resident of Yanagama home, Dianesiri, a resident of Pannipiri, 752.
-
-A resident of a house in a house where a business was conducting an electrical supplementary place, a resident of a householder, has asked for allowing a country bag and demanded permission to the house shelter.
-
-However, the owner is unwilling to leave the place and asked for once again and again to accommodate it after again. Initial investigations have revealed that the two had been ingested between the two and later seriously injured the death of the deceased.
-
-The injured were later admitted to the Homagama Base Hospital after being admitted to the Homagama Base Hospital.
-
-Meanwhile, the Nugegoda Divisional Criminal Officers and the Magistrate have also commenced on location investigations.
-
-...
-
-[Data](articles/4a6d5135.json)
-
-[Extended Data](ext_articles/4a6d5135.ext.json)
-
----
-
-### Allow Heroes Day
-
-*2024-11-26 11:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-தினத்தை-அனுஷ்டிக்க-அனுமதி/175-347789) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Allow Heroes Day" event restrictions: Public Security Minister Ananda Wijebala warns against displaying LTTE symbols, uniforms, or images. The government allows remembering fallen relatives but emphasizes compliance with laws and avoiding terrorist connections.
-
-🟩
-
-Public Security Minister Ananda Wijebala said that although the people in the North have been allowed to observe tomorrow, the banned organization should avoid visualizing the LTTE logics, uniforms and images.
-
-The minister said the government would not prevent the recall of their relations that had died during the country's civil war.
-
-However, he stressed that such a memoir should comply with the rules of law and avoid any connection with the banned terrorist group.
-
-"The LTTE is a appointed terrorist organization, and on November 27, there is no permission to showcase their identities, uniforms or pictures of their members during the Heroes' Day," he said.
-
-The Minister also pointed out that some groups have sought to re -interpret the past commemoration of the LTTE.
-
-He urged the public to respect the right to commemorate both and the country's legal structure and conduct memories within the limits of the law.
-
-...
-
-[Data](articles/9a394cdd.json)
-
-[Extended Data](ext_articles/9a394cdd.ext.json)
-
----
-
-### President invites the President
+### ජනපතිට චීනයෙන් ආරාධනයක්
 
 *2024-11-26 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203749) · `si`
 
-Sri Lanka's President Anura Kumara Dissanayake invited to China. Scheduled India visit third week of month. Dates undecided. Chinese embassy invited to Sri Lanka.
+චීනයේ සංචාරය කරන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ට ආරාධනයක් ලැබී ඇති බව කැබිනට් මාධ්‍ය ප්‍රකාශක වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
 
-🟩
+ඔහු පැවසුවේ ජනාධිපතිවරයා දෙසැම්බර් මාසයේ තෙවැනි සතියේ පමණ ඉන්දියාවේ නිල සංචාරයක් සඳහා යාමට නියමිත බවයි.
 
-Cabinet spokesman Dr. Nalinda Jayatissa says that President Anura Kumara Dissanayake has been invited to visit China.
+එම සංචාරයේ දින වකවානු තවමත් තීරණය කර නොමැති බව වෛද්‍ය ජයතිස්ස මහතා පැවසීය.
 
-He said that the President is scheduled to visit India for about the third week of the month.
-
-Dr. Jayatissa said that the dates on the tour had not yet been decided.
-
-Chinese embassy in Sri Lanka was invited to visit Chinese.
+චීන සංචාරය සඳහා මෙරට සිටින චීන තානාපති කාර්යාලයෙන් ආරාධනය ලැබී තිබුණි.
 
 ◼️
 
 [Data](articles/c358d301.json)
-
-[Extended Data](ext_articles/c358d301.ext.json)
 
 ---
 
@@ -484,7 +80,23 @@ In September 2024, an agreement in principle was reached with international bond
 
 [Data](articles/2f3eebaa.json)
 
-[Extended Data](ext_articles/2f3eebaa.ext.json)
+---
+
+### 1988-89 கிளர்ச்சியின் போது கொல்லப்ட்ட ஜேவியினருக்கு நீதி வழங்குவதற்கான நடவடிக்கைகள் இடம்பெறும் - கட்சியின் பொதுச்செயலாளர்
+
+*2024-11-26 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199703) · `ta`
+
+1988-89 கிளர்ச்சியின் போது கொல்லப்ட்ட ஜேவியினருக்கு நீதி வழங்குவதற்கான முயற்சிகள் எதிர்காலத்தில் இடம்பெறலாம் என ஜேவிபி தெரிவித்துள்ளது.
+
+1988-89 கிளர்ச்சியின் போது கொல்லப்ட்ட ஜேவியினருக்கு நீதி வழங்குவதற்கான நடவடிக்கைகள் குறித்த பேச்சுவார்த்தைகள்  எவையும் தற்போது இடம்பெறாத போதிலும் எதிர்காலத்தில் இதற்கான முயற்சிகள் இடம்பெறலாம் என ஜேவிபி தெரிவித்துள்ளது.
+
+மார்க்சிச இடதுசாரி கட்சியான ஜேவிபி தற்போது ஆட்சியில் உள்ள தேசிய மக்கள் சக்தி கூட்டணியின் பிரதான கட்சி.
+
+இந்த நிலையி;ல 1988-89 ஜேவிபிகிளர்ச்சியின் போது கொல்லப்பட்ட ஜேவிபி உறுப்பினர்கள் அவர்களின் குடும்பத்தவர்களிற்காக நீதியை நிலைநாட்டுவதற்கான முயற்சிகள் இடம்பெறுமா என்ற கேள்விக்கு இதற்கான நடவடிக்கைகள் எதிர்காலத்தில் எடுக்கப்படும் என  ஜேவிபியின் பொதுச்செயலாளரும் கட்சியின் நாடாளுமன்ற உறுப்பினருமான கலாநிதி நிஹால் அபயசிங்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/a08f5bf0.json)
 
 ---
 
@@ -746,7 +358,7 @@ They emphasized the alignment of the goals of both nations and discussed the pot
 
 එමෙන්ම ඊයේ (25) හවස පාර්ලිමේන්තු පක්ෂ නායක රැස්වීමේදි මෙම අතුරු සම්මත ගිණුම විවාදයට ගැනීම සඳහා දින නියම කර ඇති අතර ඒ අනුව දෙසැම්බර් 5 සහ 6 යන දෙදින තුළ එය පැවැත්වීමට ද නියමිතව ඇති බවද අමාත්‍යවරයා පැවසීය.
 
-2024 වර්ෂයේ ඉදිරි කාලය තුළ ඇතැම් අත්‍යාවශ්‍ය වියදම් දැරීම හා ගිණුම්ගත කිරීම සඳහා අවශ්‍ය වන ප්‍රතිපාදන, පරිපූරක ඇස්තමේන්තුවක් මගින් සලසා ගත යුතුව ඇති බැවින් ඒ සඳහා හඳුනාගනු ලැබූ ඇතැම් වියදම් 2024 අනුමත විදයම් ඇස්තමේන්තු සීමාව තුළ ප්‍රතිපාදන ගැලපීම මගින් සිදු කිරීමට හැකියාව පවතින බවද අමාත්‍යවරයා පැවසීය.
+2024 වර්ෂයේ ඉදිරි කාලය තුළ ඇතැම් අත්‍යවශ වියදම් දැරීම හා ගිණුම්ගත කිරීම සඳහා අවශ්‍ය වන ප්‍රතිපාදන, පරිපූරක ඇස්තමේන්තුවක් මගින් සලසා ගත යුතුව ඇති බැවින් ඒ සඳහා හඳුනාගනු ලැබූ ඇතැම් වියදම් 2024 අනුමත විදයම් ඇස්තමේන්තු සීමාව තුළ ප්‍රතිපාදන ගැලපීම මගින් සිදු කිරීමට හැකියාව පවතින බවද අමාත්‍යවරයා පැවසීය.
 
 ...
 
@@ -1326,10 +938,6 @@ He attributed delays in implementing the program to internal disruptions at the 
 
 *2024-11-26 02:38:30* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-two-new-Ministry-Secretaries/56-769705) · `en`
 
-Malarmathi Gangadharan was appointed as Rural Development, Social Security and Community Empowerment Ministry Secretary
-
-President’s Counsel Ayesha Jinasena was appointed as Justice and National Integration Ministry Secretary
-
 President Anura Kumara Dissanayake yesterday appointed two new Ministry Secretaries. The letters of appointment were handed over yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake. Accordingly, President’s Counsel Ayesha Jinasena was appointed as the Justice and National Integration Ministry Secretary, while Malarmathi Gangadharan was appointed as the Rural Development, Social Security and Community Empowerment Ministry Secretary.
 
 ◼️
@@ -1638,7 +1246,7 @@ FINAP Founder and CEO Dr. Kutila Pinto recently participated at the 40th ASOCIO 
 
 In this interview Dr. Pinto shared insights about FINAP’s remarkable journey, the values driving the organisation, and its vision for the future. Below is an in-depth discussion on how FINAP is redefining financial technology and empowering communities both locally and internationally.
 
-This recognition is a monumental milestone for FINAP. It reflects the hard work of our team, the relevance of our solutions, and our commitment to empowering communities through innovative financial technology. Being acknowledged on such a global platform reaffirms that our mission and values resonate beyond Sri Lanka and inspire us to push further boundaries.
+A: This recognition is a monumental milestone for FINAP. It reflects the hard work of our team, the relevance of our solutions, and our commitment to empowering communities through innovative financial technology. Being acknowledged on such a global platform reaffirms that our mission and values resonate beyond Sri Lanka and inspire us to push further boundaries.
 
 ...
 
@@ -2229,5 +1837,375 @@ The event was organized by the Militants Welfare Association and the Tamil Natio
 [Data](articles/a50dd028.json)
 
 [Extended Data](ext_articles/a50dd028.ext.json)
+
+---
+
+### 32 Sri Lankan victims of human trafficking rescued in Myanmar
+
+*2024-11-25 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103760/32-sri-lankan-victims-of-human-trafficking-rescued-in-myanmar) · `en`
+
+Sri Lanka’s Foreign Ministry announced that thirty-two (32) Sri Lankan nationals who were victims of human trafficking and stranded in Myanmar have been rescued on Monday (25 November) following a successful, coordinated process.
+
+The rescued Sri Lankans had been lured into cybercrime operations and became victims of human trafficking, the ministry said.
+
+In a statement, the Ministry of Foreign Affairs emphasized that, the Government of Sri Lanka will coordinate with the International Organization for Migration (IOM) for their early repatriation to Sri Lanka.
+
+The Ministry of Foreign Affairs, Foreign Employment and Tourism and Sri Lanka’s Ambassadors in Thailand and Myanmar coordinated the process. Ven. Maligawila Assaji Thero, who represented the families of the trafficked Sri Lankans, also facilitated the process.
+
+...
+
+[Data](articles/f25b7c74.json)
+
+[Extended Data](ext_articles/f25b7c74.ext.json)
+
+---
+
+### Sri Lankans who were detained in Myanmar cyber cyber crime camps rescued
+
+*2024-11-25 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203728) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankans detained in Myanmar cyber crime camps rescued. 32 freed. Gov't coordinating with International Organization for Migration. Ministry of Foreign Affairs leading efforts with Thai and Myanmar Ambassadors.
+
+🟩
+
+32 Sri Lankans have been forcibly rescued in Myanmar Criminal camps.
+
+The Sri Lankan government is to coordinate with the International Organization for the Immigration for the Immigration of Sri Lanka to bring them quickly to Sri Lanka.
+
+The process is coordinated by the Ministry of Foreign Affairs, Foreign Employment and Tourism and Thailand and Myanmar's Ambassadors.
+
+◼️
+
+[Data](articles/2b2ee25b.json)
+
+[Extended Data](ext_articles/2b2ee25b.ext.json)
+
+---
+
+### A big price for Nuwan Thushara
+
+*2024-11-25 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203727) · `si`
+
+Nuwan Thushara sold to Royal Chanders Bangalore for ₹1.60 crore in IPL 2025 auction in Saudi Arabia.
+
+🟩
+
+The second day of athletes auction will be held on the 2025 Indian Premier League.
+
+Sri Lanka's super-bowler Nuwan Thushara Royal Chanders Banglearu team bought.
+
+Accordingly, Nuwan Thushara Indust was sold for Rs 1.60 crores.
+
+The auction will be held in Saudi Arabia this year, with regard to the coming Indian Premier League.
+
+◼️
+
+[Data](articles/165b9d56.json)
+
+[Extended Data](ext_articles/165b9d56.ext.json)
+
+---
+
+### 'Paraman'
+
+*2024-11-25 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199671) · `ta`
+
+"Paraman" film highlights Tamil Nadu farmers' struggles. Director J. Super Good Subramani focuses on agriculture importance. Cast includes Karupaya, Vaiyapuri, Hello Kandasamy. Music by Tamim Ansari, produced by Infinit Pictures. Release date: 29th this month.
+
+🟩
+
+The film 'Paraman', which plays the hero of the story of Tamil cinema, is the hero of the story of Tamil cinema- the film crew has said that the life and plight of the farmers of Tamil Nadu are brave.
+
+Director J. Super Good Subramani, Fruit in the movie 'Paraman' directed by Sabarish. Karupaya, Vaiyapuri, Hello Kandasamy, VJ Archana, Mustache Rajendran, Ashok Tamil, Satya, Jayachandran, Karthik Prabhu, Sanjay Madhu and many others have been cast.
+
+Tamim Ansari has composed the film, which has been recorded by CB Sadasivam. The film was on behalf of the director of Infinit Pictures. Produced by Sabarish.
+
+Speaking of the film, which was announced that it will be released in the world on the 29th of this month, the director said, “Agriculture is being destroyed.
+
+The film has been created to emphasize the importance of agriculture and the greatness of the agricultural industry. Super Good Subramani plays a farmer named Paraman. We expect the film to get people's support. ”
+
+...
+
+[Data](articles/471880df.json)
+
+[Extended Data](ext_articles/471880df.ext.json)
+
+---
+
+### A massive crash in the stock market at the beginning of the week
+
+*2024-11-25 19:15:15* · [`adalk`](https://www.ada.lk/breaking_news/සතිය-ආරම්භයේදීම-කොටස්-වෙළඳපොළේ-දැවැන්ත-කඩාවැටීමක්/11-413269) · `si`
+
+Stock market crashes early in the week. Indices fall sharply: Dow drops 187.62 points (1.44%), S&P declines 76.52 (1.98%). Massive sell-off causes significant losses across the board.
+
+🟩
+
+The stock market transactions today showed a massive collapse in the stock market.
+
+Accordingly, all stock price index fell by 187.62, 1.44 percent. The S & P Index also fell by 76.52 units, 1.98 percent.
+
+◼️
+
+[Data](articles/b59da803.json)
+
+[Extended Data](ext_articles/b59da803.ext.json)
+
+---
+
+### 'Thaye Thaye ..' sung by playback singer Chitra for 'Silent'
+
+*2024-11-25 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199666) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Thayye Thaye" by Chitra in "Silent" film. Directed by Ganesha Pandi, composed by Religious Murali. Features transgender character, attracting fans.
+
+🟩
+
+The song 'Thayye Thaye ..', which is featured in the film 'Silent' starring debutant Ganesha Pandi, has been released.. The song was sung by Chitra, the national award winner.
+
+Directed by debutant Ganesha Pandi, Ganesha Pandi, Aradhya, Murali Ram, Ramachandran Durairaj, Shanti Anand, Gayatri Rama, Swetha, Faisal, Namitha Marimuthu, Ram Suresh, Ghana Francis.
+
+D. The film, composed by religious Murali, has produced the producer Ram Prakash on behalf of SR Dream Studios.
+
+The film, which was announced on the 29th of this month, has been released in the film 'Thayye Mother Mother ..'
+
+The song is sung by the songwriter Religious Murali, the playback singer Chitra has sung. In the video of the song, the mother and the sexual umbilical cord relationship between a transgender man, who is considered to be a sex minority, have attracted a lot of fans.
+
+◼️
+
+[Data](articles/4ce8c627.json)
+
+[Extended Data](ext_articles/4ce8c627.ext.json)
+
+---
+
+### 'Paradise' in the prison's trial of the prisoners
+
+*2024-11-25 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199663) · `ta`
+
+"Parakavasal" film summary: Jail life drama starring Balaji, Selvaraghavan. Directed by Siddharth Viswanath, music by Christo Xavier. Co-produced by Swipe Right Studios and Think Studios. Premieres in Chennai on 29th. Director shares inspiration from real-life "trial prisoners".
+
+🟩
+
+Editor, actor and director r. J.. The film crew has said that the film 'Parakavasal', which plays the hero of the story of Balaji, speaks of the life of those who are confident in the jail for the judgment of the court.
+
+In the film 'Parakavasal' directed by Siddharth Viswanath. J.. Balaji, Selvaraghavan, Nati alias Nataraj, Karunas, Sania Iyappan, Balaji Sakthivel, Anthony Dasan, Ravi Raghavendra and many others.
+
+Christo Xavier has composed the film, which is being recorded by Prince Anderson. The film, which speaks of the prison prisoners, is co -produced by Swipe Right Studios and Think Studios.
+
+The film's preview launch event will be held in Chennai on the 29th of this month.. At this moment, director Lokesh Kanakaraj and composer Anirudh released the film's preview about the participation of special guests.
+
+...
+
+[Data](articles/384d6fe9.json)
+
+[Extended Data](ext_articles/384d6fe9.ext.json)
+
+---
+
+### Kandy district missing Tamil parliamentary representation
+
+*2024-11-25 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199659) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kandy district lost Tamil parliamentary seats due to low voter turnout (67%). Educators blame lack of public trust in Tamil candidates from major parties. Only 67% of 1,191,399 eligible voters participated in the election.
+
+🟩
+
+Educators point out that the main reason for the loss of Tamil parliamentary representation is the loss of popular confidence in the Tamil candidates who have fielded the major parties. 1,191,399 from 13 electorates in Kandy district were eligible to vote. However, only 67 percent of the votes were cast.
+
+◼️
+
+[Data](articles/15b1d16f.json)
+
+[Extended Data](ext_articles/15b1d16f.ext.json)
+
+---
+
+### Emergency hotlines for A/L exam candidates to seek assistance during disaster situations
+
+*2024-11-25 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103759/emergency-hotlines-for-al-exam-candidates-to-seek-assistance-during-disaster-situations-) · `en`
+
+The Disaster Management Center (DMC) and the Department of Examinations have initiated a joint program to ensure the uninterrupted conduct of the G.C.E. Advanced Level (A/L) examination, even amidst potential disaster situations.
+
+As part of the initiative, the DMC has issued comprehensive guidelines to the Tri-Forces, Police, and other stakeholders involved in disaster management aiming to minimize disruptions and provide swift solutions in the event of any emergencies that may affect students sitting for the examination.
+
+A special coordination unit has been set up within the DMC to streamline communication and provide immediate assistance to students facing difficulties due to natural disasters.
+
+In case of emergencies, students or their guardians are urged to contact the DMC through the following numbers:
+
+- Special Joint Emergency Operations Rooms: 0113 668 020, 0113 668 100, 0113 668 013, 0113 668 010, or 076 3 117 117
+
+...
+
+[Data](articles/6e4b4116.json)
+
+[Extended Data](ext_articles/6e4b4116.ext.json)
+
+---
+
+### 2,035 families affected by rain and floods in Jaffna - 7,416
+
+*2024-11-25 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199657) · `ta`
+
+Jaffna floods affect 7,416 people: 2,035 families impacted, 21 houses damaged.
+
+🟩
+
+7,416 people from 2,035 families have been affected by the floods and other disasters caused by continuous rains in Jaffna, said 21 houses have been partially damaged, said the Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah.
+
+The flood disaster in the Chavakachcheri Divisional Secretariat has affected 945 people from 288 families so far and 10 houses have been partially damaged.
+
+In the Kayts Divisional Secretariat Division, 901 people from 215 families have been affected and 2 houses have been partially damaged.
+
+In the Point Pedro Divisional Secretariat Division, 35 people from 10 families have been affected and 8 houses have been partially damaged.
+
+In the Nallur Divisional Secretariat Division, 93 people from 29 families have been affected by flood disaster and thunder and lightning.
+
+64 people from 21 families have been affected in the Tellippalai Divisional Secretariat Division.
+
+...
+
+[Data](articles/cee6fd7b.json)
+
+[Extended Data](ext_articles/cee6fd7b.ext.json)
+
+---
+
+### Foreigners buy Sri Lanka’s govt securities for 10th straight week on net basis
+
+*2024-11-25 18:54:00* · [`economynextcom`](https://economynext.com/foreigners-buy-sri-lankas-govt-securities-for-10th-straight-week-on-net-basis-189832/) · `en`
+
+ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the 10th straight week ended on November 21, the Central Bank data showed.
+
+Analysts said investors speculate a rate cut by the central bank during this week’s Monetary Policy Review meeting scheduled for late on Tuesday. The latest monetary policy rates will be announced on Wednesday (27).
+
+They said some investors have been buying to make some profits due to appreciation of the rupee currency and fall in market interest rates.
+
+Sri Lanka witnessed 702 million rupees ($2,38 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on November 21, extending the total inflows into treasury bonds and bills to 16.2 billion rupees (($55 mln) in the 10 straight weeks, the official data showed.
+
+The value of government securities held by foreign investors was at 55,545 million rupees by November 21.
+
+...
+
+[Data](articles/acd75d8e.json)
+
+[Extended Data](ext_articles/acd75d8e.ext.json)
+
+---
+
+### A team of T20 international competition will be bowled out for 7 runs
+
+*2024-11-25 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203726) · `si`
+
+Ivory Coast bowled out for 7 runs in T20 match, lowest score in international cricket history.
+
+🟩
+
+All the batsmen of the Ivory Coast of the Ivory Coast of the 20th match in Laghoria yesterday (24) were bowled out for 7.
+
+It was a large number of students who were bowled out for a group of two countries.
+
+The ICC T20 World Cup match was played between the two countries as a category c category of the African Sub Regular Qualification C.
+
+In this contest, OT Aetara, the Ivory Coast, scored 4 runs and the batsmen scored 4, 0, 1, 0, 0, 0 * and 0.
+
+This will be the first time a T20 International rank has collected less than 10 points.
+
+Earlier, two teams were bowled out for a 20-year-old mark.
+
+It is a group of Mongolia, Singapore (2024.04.05) and Isle of Man, Spain (2023.03.26) against Manpole.
+
+◼️
+
+[Data](articles/a971fcf2.json)
+
+[Extended Data](ext_articles/a971fcf2.ext.json)
+
+---
+
+### Archana paid tribute to Prabhakaran
+
+*2024-11-25 18:41:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனுக்கு-அஞ்சலி-செலுத்தினார்-அர்ச்சுனா/175-347760) · `ta`
+
+Archana Ramanathan, Jaffna MP, paid tribute to LTTE leader Velupillai Prabhakaran, calling him her god. She revealed her father was a Sri Lankan police officer who joined LTTE in 1987 after the 1983 riots. Archana claims Prabhakaran was against the Sinhalese government, not the people.
+
+🟩
+
+Jaffna District Independent MP Archana Ramanathan paid tribute to LTTE leader Velupillai Prabhakaran claiming Prabhakaran as his God.
+
+He has released a live video and said his father was a former police officer of the Sri Lankan government and he joined the LTTE in 1987.
+
+“My father is a police officer of the Sri Lankan government. He worked everywhere in the country. After the 1983 riots, he went to Jaffna and launched a liberation journey against the government as the racist attacks were carried out. ”
+
+“We are not racists. We are Sri Lankan Tamils. We recall the lives of the deaths this month. My God Prabhakaran has said that I am not against the Sinhalese people and is only against the Sinhalese government that killed us, ”MP Archana said.
+
+◼️
+
+[Data](articles/34124a16.json)
+
+[Extended Data](ext_articles/34124a16.ext.json)
+
+---
+
+### 248 families affected due to inclement weather in Kilinochchi
+
+*2024-11-25 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199676) · `ta`
+
+Heavy rains hit Kilinochchi: 717 affected, 4 homes damaged. Statistics reported to National Disaster Relief Services Center. Residents near Brahmantanaru pond advised caution.
+
+🟩
+
+717 people from 248 people have been affected by heavy rains in Kilinochchi district. Also, four houses have been partially damaged.
+
+The subject of statistics received by the Kilinochchi District Disaster Management Division at 2.00 pm.
+
+The impacts have been sent to the National Disaster Relief Services Center.
+
+In addition, the District Disaster Management Coordination Division has requested that the residents of the Brahmantanaru pond have begun to look at the Brahmantanaru pond.
+
+◼️
+
+[Data](articles/a456c298.json)
+
+[Extended Data](ext_articles/a456c298.ext.json)
+
+---
+
+### Red alert to some provinces
+
+*2024-11-25 18:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாகாணங்களுக்கு-சிவப்பு-எச்சரிக்கை/175-347759) · `ta`
+
+Heavy rains warning: Southeastern Bengal Bay low pressure system to hit Sri Lanka's east coast within 24 hours, affecting northern and eastern provinces. Navy and fishermen advised to stay away from seas. Public cautioned against outdoor activities from today to November 27.
+
+🟩
+
+The Department of Meteorology has warned that heavy rains will be experienced in several areas tomorrow at 04.00 pm due to low winds in the southeastern Bengal bay.
+
+The low-lying low-lying area in the southwestern Bengal Sea this morning is strengthened in the Central and Southwest Bengal Sea and turned into a windmill, about 530 km southeast of Trincomalee.. Contains position in.
+
+It is likely to strengthen the east coast of Sri Lanka over the next 24 hours as a deep winds.
+
+Accordingly, more than 150 millimeters of heavy rainfall can be experienced in some parts of the Northern Province and Trincomalee district.
+
+Due to the impact of the organization, more than 100 millimeters of heavy rains are expected in some places in the Northern, North Central, Central and Uva Provinces, Batticaloa and Ampara districts.
+
+Navy and fishermen have been warned not to go to the seas around the country until the re -announcement.
+
+...
+
+[Data](articles/31236431.json)
+
+[Extended Data](ext_articles/31236431.ext.json)
 
 ---

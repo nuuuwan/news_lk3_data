@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 08:31:48**
+As of **2024-11-26 08:52:27**
 
 ## Newspaper Stats
 
-*Scraped **56,905** Articles*
+*Scraped **56,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,418
 economynextcom | 3,448
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,354
-adaderanalk | 6,876
-tamilmirrorlk | 8,091
+adalk | 5,356
+adaderanalk | 6,878
+tamilmirrorlk | 8,093
 virakesarilk | 9,274
 adaderanasinhalalk | 9,823
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 9,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,891 (100.0%) of 56,905 articles have been extended.
+56,891 (100.0%) of 56,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
+
+### A/L மாணவர்களுக்கு அவசர அறிவிப்பு
+
+*2024-11-26 08:36:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்கு-அவசர-அறிவிப்பு/175-347778) · `ta`
+
+சீரற்ற காலநிலை காரணமாக உயர்தரப்பரீட்சை பரீட்சார்த்திகள் தத்தமது பரீட்சை நிலையங்களுக்குச் செல்ல முடியாத நிலைமை இருந்தால்  அருகில் உள்ள நிலையங்களில் பரீட்சைக்கு அமரலாம்.
+
+ஏதேனும் சிரமங்கள் ஏற்பட்டால், உதவிக்கு  117 என்ற தொலைபேசி இலக்கத்துடன் தொடர்பு கொலெல்லாம் என பரீட்சைகள் ஆணையாளர் நாயகம் அறிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/e77e3c69.json)
+
+---
+
+### அதிகளவான பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை
+
+*2024-11-26 08:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகளவான-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-347777) · `ta`
+
+நிலவும் மழையுடனான வானிலை காரணமாக பதுளை, காலி, களுத்துறை, கண்டி, கேகாலை, மாத்தளை, மாத்தறை, நுவரெலியா மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் அதிகளவான பிரதேச செயலகப் பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதேவேளை மாதுரு ஓயா, ஹத்தா ஓயா மற்றும் மகாவலி ஆற்றின் நீர்மட்டம் வேகமாக உயர்ந்துள்ளது. பொதுமக்கள் மிகுந்த அவதானத்துடன் செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ec03c5fb.json)
+
+---
+
+### Up-country train services disrupted
+
+*2024-11-26 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103764/up-country-train-services-disrupted) · `en`
+
+Train services on the up-country line have been disrupted due to mounds of earth and rocks falling onto the tracks between Badulla and Bandarawela, according to Sri Lanka Railways.
+
+◼️
+
+[Data](articles/61d556ca.json)
+
+---
+
+### Very heavy rainfall of over 200 mm expected - Met Dept.
+
+*2024-11-26 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103763/very-heavy-rainfall-of-over-200-mm-expected-met-dept) · `en`
+
+The Meteorology Department says the Depression over Southwest Bay of Bengal was located to southeast about 290km of Batticaloa and 410 km of Trincomalee at around 11.30 p.m of November 25, 2024.
+
+The system is likely to move northwestwards and intensify into a deep depression during next 12 hours and move very closer to the east coast of the island.
+
+Cloudy skies are expected over most parts of the island and due to the influence of this system and very heavyshowers and strong winds can be expected in Northern, Eastern, Uva and Central provinces, it said.
+
+Showers or thundershowers will occur at times in most places of the island. Very heavy showers above 200 mm are likely at some places in Northern, North-central, Eastern, Central, Uva and Southern provinces and in Puttalam district.
+
+Heavy showers above 100 mm are likely at several places elsewhere of the island, the Met. department added.
+
+...
+
+[Data](articles/cb610b71.json)
+
+---
 
 ### Landslide warnings are updated
 
@@ -1618,6 +1678,26 @@ He elaborated: “I asked where I should sit, and they said there was no issue w
 
 ---
 
+### සහල් පාලන මිල ඉහළ දමන්නැයි ඉල්ලයි
+
+*2024-11-25 18:05:05* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-පාලන-මිල-ඉහළ-දමන්නැයි-ඉල්ලයි/11-413265) · `si`
+
+ගෙවිගිය මාස දෙකක කාලය තුලදි කුඩා හා මධ්‍ය පරිමාණ මොල් දෙසියකට ආසන්න ප්‍රමාණයක වි කෙටිම නවතා දමා තිබෙන බව එක්සත් සහල්  නිෂ්පාදකයින්ගේ සංගමය සදහන් කරයි.
+
+වි මිල ඉහල යාමට සාපෙක්ෂව දැනට පවතින සහල් පාලන මිලට සහල් ලබා  දිමට නොහැකි නිසා ඇතැම් කුඩා හා මධ්‍ය පරිමාණ මොල් හිමියන් කර්මාන්තය සිදුකර යාම නවතා දමමින් තිබෙන බවද එම සංගමයේ  සභාපති මුදිත් පෙරේරා  මහතා  සදහන් කළේය.
+
+මිට මාස දෙකකට පෙර කුඩා හා මධ්‍ය පරිමණ මොල් හිමියන් දෛනික සහල් අවශ්‍යතාවයෙන් සියයට හැට පහක (65%) පමණ ප්‍රමාණයක් ලබාදුන් බවත් මහ පරිමණ මොල් හිමියන් සියයට තිස් පහක (35%) ප්‍රමාණයක් ලබාදුන් බවද පැවසිය.
+
+මේ වන විට මහ පරිමණ මොල් හිමියින් විසින්  දෛනික අවශ්‍යතාවයෙන් සියයට පනහක් (50‌) ලබා දෙන බවත් කුඩා  හා මධ්‍ය පරිමණ මොල් හිමියන් ඉතිරි සියයට පනහ(50%) ලබා දෙන බවද සදහන් කළේය.
+
+කුඩා හා මධ්‍ය පරිමාණ මොල් හිමියන් දෛනිකව වෙළද පොලට නිකුත් කරන සහල් තොග ප්‍රමාණය අඩුවන සෑම අවස්තාවකදිම සහල් මිල ඉහල ගොස් තිබෙන බවද පැවසිය.
+
+...
+
+[Data](articles/55d10851.json)
+
+---
+
 ### Douglas Devananda has been released
 
 *2024-11-25 17:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸ்-தேவானந்தா-விடுவிக்கப்பட்டார்/175-347755) · `ta`
@@ -1669,6 +1749,30 @@ Director Nelson and Producer Tanu participated in a special event at the Galle H
 [Data](articles/a0c59917.json)
 
 [Extended Data](ext_articles/a0c59917.ext.json)
+
+---
+
+### අක්‍රමවත් මිනිස් ක්‍රියාකාරකම් ස්වභාවික ව්‍යසනවලට හේතුවයි
+
+*2024-11-25 17:52:30* · [`adalk`](https://www.ada.lk/breaking_news/අක්‍රමවත්-මිනිස්-ක්‍රියාකාරකම්-ස්වභාවික-ව්‍යසනවලට-හේතුවයි/11-413264) · `si`
+
+අක්‍රමවත් මිනිස් ක්‍රියාකාරකම් ස්වභාවික ව්‍යසනවලට හේතුවයි; ආයතන මට්ටමෙන් නීති තිබුණත් ඒවා ක්‍රියාත්මක කර නැහැ
+
+– ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයා වැඩ භාර ගැනීමේ අවස්ථාවට එක් වූ ජනපති නිලධාරීන් හමුවේ පවසයි
+
+ආපදා කළමනාකරණයේදී ආයතන ව්‍යුහ ශක්තිමත් කිරීම පමණක් ප්‍රමාණවත් නොවන බවත් බිම් මට්ටමට විසඳුම් ගෙන යාමේ යාන්ත්‍රණ ඇති කිරීමට කටයුතු කළ යුතු බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
+
+පළාත් පාලන ආයතන ශක්තිමත් කර අවදානම් ප්‍රදේශවල සිදුවන ආපදා වළක්වාලීම සඳහා නව විසඳුම් ලබා දීමට කටයුතු කළ යුතු බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතා වැඩ භාර ගැනීමේ අවස්ථාවට අද (25) එක්වෙමිනි.
+
+ආපදා කළමනාකරණ නීති පද්ධතිය සකස් කර තිබෙන්නේ යම්කිසි අධ්‍යනයකින් පසුව බවත් එම නීති නිසි ආකාරයෙන් ක්‍රියාත්මක කිරීම නිලධාරින්ගේ වගකීමක් බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+එසේ ක්‍රියා කරන ඕනෑම නිලධාරියෙක් වෙනුවෙන් තමා පෙනී සිටින බවද ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+
+...
+
+[Data](articles/a74bb035.json)
 
 ---
 
@@ -2199,167 +2303,5 @@ There was net foreign outflow of 142 million rupees. (Colombo/Nov25/2024)
 [Data](articles/d78e7e65.json)
 
 [Extended Data](ext_articles/d78e7e65.ext.json)
-
----
-
-### Petition to Supreme Court demanding suspensions of holding
-
-*2024-11-25 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203719) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Petition filed against GCE A/L exam before 170-day study period. Requests suspension and interim injunction. Presented to Supreme Court on 25th. Next hearing on December 12.
-
-🟩
-
-The Supreme Court today (25th), the Supreme Court today (25) presented a fundamental rights petition filed by December 12.
-
-The petition was called before the Supreme Court Judge of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
-
-Deputy Solicitor General Nirmalan Wigneswaran, who appeared for the respondents, said that the examination commenced this morning.
-
-President's Counsel Tirantha Daladirdadda appearing on behalf of the petitioner was amended to the court and asked for a date to ensure the fair confirmation.
-
-The Deputy Solicitor General appearing on behalf of the respondents stated that they will be detained for the amended submissive petition to file.
-
-Accordingly, the judiciary who allowed a revised petition to file a revised petition was ordered to be summoned on December 12 to ensure the relevant petition.
-
-The petition was presented to the GCE Advanced Level Examination, a resident of Kegalle, a candidate in Kegalle.. Hansan Kavasha Alahakoon is a student.
-
-...
-
-[Data](articles/24494a6d.json)
-
-[Extended Data](ext_articles/24494a6d.ext.json)
-
----
-
-### 32 inmates from Kuwait returned to the country
-
-*2024-11-25 16:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்திலிருந்து-32-கைதிகள்-நாடு-திரும்பினர்/175-347744) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-32 Sri Lankan inmates returned to Kuwait Central Prison on drug charges under 2007 Prisoners Transfer Agreement. They arrived at Katunayake airport on a special flight, accompanied by security officials and medical staff. The prisoners were taken to Welikada Prison.
-
-🟩
-
-At the Kuwait Central Prison on drug charges. Of the 104 Sri Lankan prisoners who are serving imprisonment, 32 people arrived at the Katunayake airport on Monday (25) by a special flight from Kuwait for the first time in history. ”
-
-They were sent to Sri Lanka by the government of the country under the 2007 Prisoners Transfer Agreement between Kuwait and Sri Lanka.
-
-In the Kuwait country, a group of Sri Lankans who were arrested and tried in court have been sent to the country for allegedly involved in dangerous drug use, trade and trafficking.
-
-Sri Lankan Ambassador to Kuwait, Kandiban Balasubramaniam, has been trying to send some prisoners to Sri Lanka since March.
-
-Later, they were brought to Kuwait with the close of the Kuwait and the Home Minister, using the close ties of the Sri Lankan ambassador, and they were brought to Kuwait's largest C-17 aircraft.
-
-...
-
-[Data](articles/0f5d5dd3.json)
-
-[Extended Data](ext_articles/0f5d5dd3.ext.json)
-
----
-
-### Sri Lanka gets CEB more time for new tariffs, but approval Jan 17: regulator
-
-*2024-11-25 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-ceb-more-time-for-new-tariffs-but-approval-jan-17-regulator-189776/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has been given more time to submit revised tariffs at their request but the earliest possible date that new prices could be approved is by January 17, the regulator has said.
-
-Sri Lanka’s Public Utilities Commission in a letter to the CEB has said the time to submit revised tariffs had been extended till December 06.
-
-Give the legal procedure set out in the Sri Lanka Electricity Act, the earliest possible date tariffs could be approved will be January 17, 2025, the regulator said.
-
-If the revised tariffs are not sent, the regulator could pass any ‘positive balance’ in the bulk supply transaction account to consumers. (Colombo/Nov26/2026)
-
-◼️
-
-[Data](articles/41c7bed0.json)
-
-[Extended Data](ext_articles/41c7bed0.ext.json)
-
----
-
-### US agency reviewing Adani Sri Lanka terminal funding: report
-
-*2024-11-25 16:14:00* · [`economynextcom`](https://economynext.com/us-agency-reviewing-adani-sri-lanka-terminal-funding-report-189779/) · `en`
-
-ECONOMYNEXT – US International Development Finance Corporation, a state agency that agreed to finance a port terminal promoted by India’s Adani group is conducting due diligence, a media report said, after bribery charges were filed against the group in America.
-
-“We continue to conduct due diligence to ensure that all aspects of the project meet our rigorous standards before any loan disbursements are made,” Bloomberg Newswires quoted a USIDC official as saying.
-
-“The project has not reached financial close or signed a loan agreement.”
-
-The US DFC said it would provide up to 553 million dollars for the terminal which is a joint venture with Sri Lanka’s John Keells group, in a move seen by some analysts a counter to China’s influence in the island.
-
-RELATED US DFC to lend US$553mn to JKH-Adani Sri Lanka terminal
-
-...
-
-[Data](articles/5e179cbc.json)
-
-[Extended Data](ext_articles/5e179cbc.ext.json)
-
----
-
-### Have efforts to create instructions
-
-*2024-11-25 16:12:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழிமுறைகளை-உருவாக்க-முயற்சிகள்-வேண்டும்/175-347742) · `ta`
-
-Efforts to enhance disaster management: Strengthen corporate structures, provide new solutions, implement existing laws, reduce costs through effective governance.
-
-🟩
-
-President Anurakumara Dissanayake said that efforts should be made to strengthen the corporate structures in disaster management.
-
-The President also pointed out that new solutions should be provided to prevent disasters in areas that are threatened and threatened.
-
-Defense Deputy Minister Aruna Jayasekara said this on Monday (25) while joining the swearing -in ceremony.
-
-The President pointed out that the law of disaster management has been prepared as per the studies and that it is the responsibility of the authorities to implement the laws.
-
-President Anuragumara Dissanayake has urged that he will be present for any of the officers who do so.
-
-The President also requested public servants to submit proposals to strengthen the legal framework for disaster management.
-
-The President added that the government spends too much for disaster management and that the cost of laws can be reduced by proper implementation.
-
-...
-
-[Data](articles/8b943f25.json)
-
-[Extended Data](ext_articles/8b943f25.ext.json)
-
----
-
-### Many tanks in Moneragala district spill
-
-*2024-11-25 16:09:25* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-දිස්ත්‍රික්කයේ-වැව්-රැසක්-වාන්-දමයි/11-413258) · `si`
-
-Moneragala district: Moutakandiya reservoir spill affects 5,216 acres, including 1,863 acre-feet of paddy fields.
-
-🟩
-
-The Moutakandiya reservoir in the Moutalaya region, which is located in the Irrigation Zone, has come to the Moutukandiya reservoir in the Moneragala district.
-
-The Mutukandiya reservoir in the Siyambalanduwa Divisional Secretariat area is the largest tank in the reservoir of 24,569 acres.
-
-The tank has been spiled in January this year and is currently 5,216 acre and two acres of paddy lands.Is being laid.
-
-1,863 acre feet of paddy fields cultivated and 474 acres of paddy cultivated.
-
-In addition, the Handapanagalawewa, Malinpothawewa, Malinupothawewa, Malinuphathuwewa, Malinupothawewa, Malinphathwewa, Malinphathwewa and Handapanagalawewa.
-
-◼️
-
-[Data](articles/03962770.json)
-
-[Extended Data](ext_articles/03962770.ext.json)
 
 ---

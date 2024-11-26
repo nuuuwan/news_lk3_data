@@ -1,54 +1,336 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 14:42:17**
+As of **2024-11-26 16:01:10**
 
 ## Newspaper Stats
 
-*Scraped **56,976** Articles*
+*Scraped **56,993** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 438
-colombotelegraphcom | 578
+colombotelegraphcom | 579
 bbccomsinhala | 592
 islandlk | 3,422
 economynextcom | 3,454
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,363
-adaderanalk | 6,890
+adalk | 5,365
+adaderanalk | 6,897
 tamilmirrorlk | 8,103
-virakesarilk | 9,284
-adaderanasinhalalk | 9,839
+virakesarilk | 9,285
+adaderanasinhalalk | 9,845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,969 (100.0%) of 56,976 articles have been extended.
+56,982 (100.0%) of 56,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### நுவரெலியாவில் அடை மழை ; விவசாய நிலங்கள், வீடுகளில் புகுந்த வெள்ளம் ;  பரீட்சார்த்திகளுக்கு விசேட ஏற்பாடு
+### පාදුක්ක වටරැක දී මත්ද්‍රව්‍ය කිලෝ 86ක් සොයාගනී
 
-*2024-11-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199711) · `ta`
+*2024-11-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203761) · `si`
 
-நாட்டில் கடந்த இரு தினங்களாக மலையக பிரதேசங்களிலும் கடுமையான மழை, பலத்த காற்று நிலவி வருகிறது. நேற்று திங்கட்கிழமை (25) இரவு முதல் தொடர்ச்சியாக பெய்துவரும் தொடர் மழை காரணமாக தாழ்நிலைப் பிரதேசங்களில் வாழும் மக்கள் வெகுவாக பாதிக்கப்பட்டுள்ளனர்.
+පාදුක්ක වටරැක ප්‍රදේශයේ දී විශේෂ කාර්ය බළකාය සිදුකළ වැටලීමක දි මත්ද්‍රව්‍ය තොගයක් සොයාගෙන තිබේ.
 
-குறிப்பாக நுவரெலியா மாவட்டத்தில் கந்தப்பளை, ஹைபொரஸ்ட், பம்பரகலை மற்றும்  நானுஓயா பகுதிகளில் கடும் மழை பெய்வதால் பெருமளவான மரக்கறி தோட்டங்கள் நீரில் மூழ்கி நாசமாயின.
+පොලීසිය පැවසුවේ එහිදී අයිස් මත්ද්‍රව්‍ය කිලෝ 57ක් සහ හෙරොයින් කිලෝ 29ක් සොයා ගත් බවයි.
 
-அத்தோடு, அப்பிரதேசங்களில் அமைந்துள்ள வீடுகளில் வெள்ள நீர் உட்புகுந்ததோடு, சிறு சிறு மண்சரிவு அனர்த்தங்களும் ஏற்பட்டுள்ளன.
+එහිදී සැකකරුවන් දෙදෙනෙකුද අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් වයස අවුරුදු 41 සහ 37 වන බොරැල්ල සහ තලවතුගොඩ ප්‍රදේශවල පදිංචිකරුවන්ය.
 
-கோர்ட்லோட்ஜ் சந்தி மற்றும் புதிய வீதி தொகுதியில் பல பகுதிகள் வெள்ளத்தில் மூழ்கியதால் நுவரெலியா - உடப்புசல்லாவ பிரதான வீதியில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+◼️
 
-அத்துடன் நுவரெலியா - இராகலை பிரதான வீதியும் வாகனங்கள் செல்ல முடியாதவாறு நீரில் மூழ்கியதால் போக்குவரத்துக்கு தடை ஏற்பட்டுள்ளது.
+[Data](articles/c886535c.json)
+
+---
+
+### හෙට ප්‍රදේශ කිහිපයකට මි.මී.200ට වැඩි වැසි
+
+*2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203760) · `si`
+
+දිවයින වටා ගැඹුරු හා නොගැඹුරු මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා අවධානයෙන් සිටින ලෙස දන්වා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන් වන්නේ නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති පීඩන අවපාතය ගැඹුරු පීඩන අවපාතයක් දක්වා වර්ධනය වී ඇති බවය.
+
+මෙම පද්ධතිය අද (26) දින පෙරවරු 11.00 ට පමණ මඩකලපුවේ සිට කිලෝමීටර් 170 ක් සහ ත්‍රිකුණාමලයට කිලෝමීටර් 240 ක් පමණ දුරින් ගිනිකොන දෙසින් පිහිටා ඇති අතර එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව ගමන් කර හෙට (27) දිනයේ සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇති බව සඳහන් වේ.
+
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු, උතුරුමැද, නැගෙනහිර, ඌව, වයඹ සහ මධ්‍යම පළාත්වල ඉතා තද වැසි සහ තද සුළං බලාපොරොත්තු විය හැක.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
+
+උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම ,ඌව සහ දකුණු පළාත්වලත් පුත්තලම දිස්ත්‍රික්කයෙත් ඇතැම් ස්ථානවලට මි.මී.200 ට වැඩි ඉතා තද වැසි ඇතිවිය හැක.
+
+දිවයිනේ සෙසු ප්‍රදේශවලත් ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැක.
+
+◼️
+
+[Data](articles/0e72a733.json)
+
+---
+
+### තහනම් සංවිධාන සැමරීමට කිසි﻿දු ඉඩක් නැහැ - කැබිනට් ප්‍රකාශක
+
+*2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203759) · `si`
+
+තහනම් සංවිධානයක් වන එල්.ටී.ටී.ඊ සංවිධානය ප්‍රවර්ධනය කිරීම සඳහා කිසි﻿ඳු ඉඩක් නොමැති බව කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අද (26) අවධාරණය කළේය.
+
+උතුරේ සිදුකළ බව කියන සැමරුම් පිළිබඳව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නවලට පිළිතුරු දෙමින් අද පැවති කැබිනට් මාධ්‍ය හමුවේදී කැබිනට් ප්‍රකාශක, අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මේ බව සඳහන් කළේය.
+
+"ත්‍රස්තවාදී සංවිධාන, තහනම් සංවිධානවලට මුදල් එකතු කිරීම, ප්‍රචාරණය කිරීම, සංවිධානය කිරීම, ඊට අදාළ ලාංඡන, කොටි, බැනර්, සංකේත ප්‍රදර්ශනය කිරීම රජය විසින් ගැසට් පත්‍රයක් නිකුත් කරලා තියෙනවා. ඒ අනුව තමයි අපි කටයුතු කරන්නේ."
+
+"ඒ නිසා කිසිම ආකාරයකින් ත්‍රස්තවාදී සංවිධාන, තහනම් සංවිධානවල සැමරුම් සිදුකරන්න අයිතියක් නැහැ."
+
+"හැබැයි යම් තැනක තමන්ගේ මියගිය ඥාතීන් සමරනවා නම් පෞද්ගලිකව.. ඒකට බාධා කරන්න රජයට අයිතියක් නැහැ. අපි බොහොම පැහැදිලිව කියලා තියෙනවා... ඥාතීන් සමරන්න ඒ අයට තිබෙන අයිතියට අපි ගරු කරන අතරේ වෙනත් ආකාරයක නීතිවිරෝධී කටයුතු සඳහා අවස්ථාවක් ලැබෙන්නේ නැහැ."
 
 ...
 
+[Data](articles/cc5545d2.json)
+
+---
+
+### பதவியேற்ற முதல் நாளே கனடா மெக்சிக்கோ சீன பொருட்கள் மீதான வரி அதிகரிப்பு - டிரம்ப்
+
+*2024-11-26 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199736) · `ta`
+
+ஜனாதிபதியாக பதவியேற்றதும் கனடா சீனா மெக்சிக்கோ ஆகியநாடுகளில் இருந்து வரும் பொருட்களிற்கான வரிகளை அதிகரிப்பேன் என டொனால்ட் டிரம்ப் அறிவித்துள்ளார்
+
+அமெரிக்க எல்லைக்கு அப்பாலிருந்து வரும் சட்டவிரோத குடியேற்றம்,குற்றங்கள் போதைப்பொருட்களிற்கு எதிரான பதிலடியாகவே இதனை செய்யப்போவதாக டிரம்ப் தெரிவித்துள்ளார்.
+
+ஜனவரி 20ம் திகதி ஜனாதிபதி என்ற அடிப்படையில் எனது முதலாவது உத்தரவு கனடா மெக்சிக்கோவிற்கு எதிராக 25 வீத வரியை விதிப்பதாக காணப்படும் என தெரிவித்துள்ள டிரம்ப், இந்த நாடுகளில் இருந்து அமெரிக்க எல்லைக்குள் வருகின்ற அனைத்து பொருட்களிற்கும் இந்த வரிவிதிக்கப்படும் என தெரிவித்துள்ளார்.
+
+போதைப்பொருட்களும் சட்டவிரோத குடியேற்றவாசிகளும் அமெரிக்காவிற்குள் வருவது நிறுத்தப்படும்வரை இந்த வரிகள் நீடிக்கும் என டிரம்ப் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/351b8964.json)
+
+---
+
+### India rejects food imports from several countries including Sri Lanka
+
+*2024-11-26 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103781/india-rejects-food-imports-from-several-countries-including-sri-lanka) · `en`
+
+India has taken strict action against substandard food imports, rejecting consignments of items like apples, nuts, alcoholic beverages, and sushi from countries including China, Japan, Sri Lanka, Bangladesh, and Turkey. These products failed to meet the quality and safety standards set by the Food Safety and Standards Authority of India (FSSAI).
+
+The FSSAI, India’s top food regulator, has made the details public through its recently launched Food Import Rejection Alert (FIRA) portal.
+
+This platform helps authorities worldwide quickly share information about rejected food items, enabling swift action to prevent risks and ensure traceability and transparency.
+
+Under Regulation 11(7) of the Food Safety and Standards (Import) Regulation, 2017, the FSSAI is empowered to issue food alert notifications. For instance, a cinnamon flower bud shipment from Sri Lanka was rejected in May because it required prior approval under the Food Safety and Standards Act, 2006.
+
+...
+
+[Data](articles/fd3f40be.json)
+
+---
+
+### Cabinet Spokesman responds to claims over lack of Muslim Ministers
+
+*2024-11-26 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103780/cabinet-spokesman-responds-to-claims-over-lack-of-muslim-ministers-) · `en`
+
+Sri Lanka’s new government has responded to allegations over the lack of Muslim representation in its Cabinet of Ministers.
+
+“We didn’t form the Cabinet according to the race, religion or the cast. We have selected the persons who are very much capable to hold those ministerial portfolios,” Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
+
+Responding to a question during today’s Cabinet press briefing, he noted that the NPP government has in fact appointed a Muslim businessman as the Governor of the Western Province, and that the Deputy Speaker, one of the Deputy Ministers and that one of the National List MPs appointed from the Gampaha District are from the Muslim community.
+
+“We are serving the Sri Lankan nation. Not for the races, the religions and the cast,” the minister stressed.
+
+...
+
+[Data](articles/b98955a2.json)
+
+---
+
+### තහනම්කර ඇති කිසිම සැමරුමකට ඉඩක් නෑ
+
+*2024-11-26 14:59:02* · [`adalk`](https://www.ada.lk/breaking_news/තහනම්කර-ඇති-කිසිම-සැමරුමකට-ඉඩක්-නෑ/11-413278) · `si`
+
+කිසිදු ආකාරයකින් තහනම් සංවිධානයක සැමරුම් , ලාංඡන, කොඩි කිසිවක් ප්‍රදර්ශනය කිරීමට අවස්ථාවක් නොමැති බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස ප්‍රකාශ කරයි.
+
+යම් කිසි අයකුට යම් ස්ථානයක මියගිය ඥාතියකු සැමරීමක්, සිහිපත්කිරීමක් කල හැකි බවත් ඊට රජයක් විසින් බාධාවක් නොකරන බවත් අද (26) පැවති කැබිනට මාධ්‍ය හමුවේදී වැඩිදුරටත් ඒමහතා පැවසීය.
+
+◼️
+
+[Data](articles/69f735da.json)
+
+---
+
+### Deputy Minister reveals procedure for importing vehicles
+
+*2024-11-26 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103779/deputy-minister-reveals-procedure-for-importing-vehicles-) · `en`
+
+Deputy Minister of Economic Development Prof. Anil Jayantha Fernando clarified the procedure for importing vehicles in the future, emphasizing the role of foreign reserve limitations in the process.
+
+Speaking at the Cabinet press briefing, the deputy minister outlined that vehicle imports will be allowed under several specific categories, particularly for commercial vehicles. These imports will be regulated within the framework of foreign exchange restrictions, with due consideration of the country’s reserve levels.
+
+He further elaborated, stating, “The current foreign reserves, which have reached a substantial USD 6.4 billion, have been carefully accounted for, and additional Reserve Buffer have been established by the Central Bank of Sri Lanka (CBSL). Vehicle importation will proceed in phases, prioritizing essential categories and adhering to these limitations.”
+
+...
+
+[Data](articles/8aed9e93.json)
+
+---
+
+### No decision to ban tuition classes - Cabinet Spokesman
+
+*2024-11-26 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103778/no-decision-to-ban-tuition-classes-cabinet-spokesman) · `en`
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa clarified that no decision has been taken to ban tuition classes in the country.
+
+Speaking at the Cabinet press conference held today (26), the minister emphasized that significant reforms are needed to be implemented in the education sector as part of a comprehensive overhaul.
+
+He further noted that the election manifesto of the National People’s Power (NPP) outlines plans for the modernization and expansion of education.
+
+The minister stated that after formal discussions, a comprehensive review of the examination system will be carried out.
+
+He assured that the government is approaching changes in the education sector with due diligence and that a final decision will be made only after consultations with all relevant stakeholders.
+
+◼️
+
+[Data](articles/709960a7.json)
+
+---
+
+### No decision to ban tuition classes - Cabinet Spokesman
+
+*2024-11-26 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103778/no-decision-to-ban-tuition-classes-cabinetspokesman) · `en`
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa clarified that no decision has been taken to ban tuition classes in the country.
+
+Speaking at the Cabinet press conference held today (26), the minister emphasized that significant reforms are needed to be implemented in the education sector as part of a comprehensive overhaul.
+
+He further noted that the election manifesto of the National People’s Power (NPP) outlines plans for the modernization and expansion of education.
+
+The minister stated that after formal discussions, a comprehensive review of the examination system will be carried out.
+
+He assured that the government is approaching changes in the education sector with due diligence and that a final decision will be made only after consultations with all relevant stakeholders.
+
+◼️
+
+[Data](articles/883e4dd9.json)
+
+[Extended Data](ext_articles/883e4dd9.ext.json)
+
+---
+
+### The water level of 73 reservoirs over 65 percent
+
+*2024-11-26 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203758) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+73 reservoirs exceed 65% water capacity due to heavy rains. 23 out of 73 reservoirs are spilling. Major tanks in Hambantota, Galle, Kandy, Kurunegala districts report over 80% capacity. Department warns public living in lowlands near overflowing reservoirs.
+
+🟩
+
+The water level of 73 reservoirs across the country has exceeded 65% over the country.
+
+In a statement, the department said that the sluice gates of several reservoirs have been opened due to heavy rains.
+
+As a result, 23 out of 73 reservoirs in the country and many medium-sized tanks are already spilling.
+
+The water capacity of the reservoirs in Ampara, Anuradhapura, Badulla and Batticaloa districts have reported over 50%.
+
+More than 80% of over 80% of the water capacity has been reported in Hambantota, Galle, Kandy, Kurunegala.
+
+Nearly 70% of the water capacity of Polonnaruwa and Puttalam Districts has also been a growth of nearly 45% of the Trincomalee and Mannar Districts.
+
+As a result, the total water capacity of 73 major tanks in the country has exceeded 65%.
+
+Meanwhile, six sluice gates of the Rajanganaya tank of Rajanganaya have been released to the Kala Wewa in the Ampara district.The announcement issued by the department states.
+
+...
+
+[Data](articles/2942f1b0.json)
+
+[Extended Data](ext_articles/2942f1b0.ext.json)
+
+---
+
+### Rain in Nuwara Eliya;Flooding in agricultural lands and homes;Special arrangement for examiners
+
+*2024-11-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199711) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Heavy rains hit Nuwara Eliya, causing flooding & landslides. Vegetable gardens destroyed. Traffic disrupted on main roads. Disaster Management Center arranges special transport for exams.
+
+🟩
+
+Heavy rains and heavy winds have been in the hill country for the past two days.People living in lowland areas have been severely affected by continuous rains since last night (25).
+
+Heavy rains in Kandapalai, Hyboorast, Bambarakalai and Nanuoya district, especially in the Nuwara Eliya district, have been destroyed by a large number of vegetable gardens.
+
+In addition, floodwaters have been flooded in houses located in the area and there are minor landslides.
+
+Traffic on the Nuwara Eliya - Udappusallawa main road has been affected due to flooding in the Cordlotj junction and many parts of the new road.
+
+Traffic has been blocked due to the inability of the Nuwara Eliya -Iragala main road to be submerged.
+
+The traffic on the Nuwara Eliya -Udappusallawa main road was affected on Tuesday morning (26).
+
+Nuwara Eliya District Government Agent Nandana Kalapoda said that all arrangements have been made through the Disaster Management Center to take students to the examinations to be held today afternoon.
+
+◼️
+
 [Data](articles/115fbb97.json)
+
+[Extended Data](ext_articles/115fbb97.ext.json)
+
+---
+
+### Arrest warrant issued against MP Archchuna Ramanathan
+
+*2024-11-26 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103777/arrest-warrant-issued-against-mp-archchuna-ramanathan-) · `en`
+
+Colombo Additional Magistrate Manjula Ratnayake has ordered the issuance of an arrest warrant against Jaffna District Independent Member of Parliament Archchuna Ramanathan, through the Senior Superintendent of Police (SSP) in Jaffna.
+
+This order was issued during the hearing of an ongoing case today (26) related to an alleged incident of assaulting an individual after causing a traffic accident on the Baseline Road, Colombo in 2021.
+
+Meanwhile, on November 25, MP Archchuna Ramanathan, who had unintentionally occupied the seat designated for the Leader of the Opposition during the inaugural session of the 10th Parliament, issued an apology for the incident.
+
+The apology was made during a workshop for newly elected Members of Parliament held on November 25. MP Ramanathan explained his actions and expressed regret for the misunderstanding caused by sitting in the Opposition Leader’s designated seat.
+
+◼️
+
+[Data](articles/2338dc39.json)
+
+[Extended Data](ext_articles/2338dc39.ext.json)
+
+---
+
+### Pippa case against Keheliya back to the examination
+
+*2024-11-26 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203757) · `si`
+
+Here's a 200-character summary of the text:
+
+
+
+Pippa case against Keheliya returned to Colombo High Court. Trial before Judge Navasinghe Marasinghe. Further hearings postponed until January 27.
+
+🟩
+
+GIdrated by the Sri Lanka Rupavahini Corporation at a time of Rs.. Former Minister Keheliya Rambukwella and three accused against three accused against the Pipe purchase of Pipe purchase was taken back to the Colombo High Court today (26).
+
+The trial was held before Colombo High Court Judge Navasinghe Marasinghe.
+
+The court ordered to postpone further hearings from January 27.
+
+◼️
+
+[Data](articles/69155f4a.json)
+
+[Extended Data](ext_articles/69155f4a.ext.json)
 
 ---
 
@@ -76,21 +358,75 @@ NDB Investment Bank Limited is the manager and placement agent to the issue. (Co
 
 ---
 
-### மகா இலுப்பள்ளம பகுதியில் நடமாடும் காட்டு யானை!
+### විදුලි ගාස්තු සංශෝදනය ගැන සාවද්‍ය වාර්තා මණ්ඩලය ප්‍රතික්ෂේප කරයි
+
+*2024-11-26 13:43:42* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝදනය-ගැන-සාවද්‍ය-වාර්තා-මණ්ඩලය-ප්‍රතික්ෂේප-කරයි/11-413276) · `si`
+
+විදුලි ගාස්තු සම්බන්ධයෙන් පළවන සාවාද්‍ය ප්‍රකාශ තරයේ ප්‍රතික්ෂේප කරන බව ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ඉංජිනේරු ඒ.ඩී.කේ.පරාක්‍රමසිංහ මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c5053af9.json)
+
+---
+
+### Latest Notification of Floods in Matara
+
+*2024-11-26 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203756) · `si`
+
+Here's a summary of the floods in Matara in approximately 200 characters:
+
+
+
+Floods hit Matara district due to heavy rainfall. Nilwala River overflowed, affecting 240 families. Heavy rains caused landslides and road closures. 55,416 families impacted overall.
+
+🟩
+
+The minor flood site in the Matara district is now on the road with an existing inclement weather.
+
+The Kirama Ara, the Kirama Ara, the Kirama Ara, the Kirama Ara, the Nilwala River and Nilwala River, was allocated.
+
+The Matara District Disaster Management Unit stated that the water supplied in many roads underwater was recovered from this morning.
+
+The Malimbada Road across the Malimbada road from the Malimbada Wathiyawala road from the Malumbada road in the Malumbada road after the overflow of the Niluwara River, the Malimbada Wathuwala road from the Maliyada Vitiyala road in the Maliyambada road.
+
+Matara District Secretary Ganeasara Amarasinghe said that 240 families in four Divisional Secretariat Divisions in the Matara district have been affected due to this disaster.
+
+The Matara Disaster Management unit has not received significant rainfall since last night from the Nilwala River and its tributaries..
+
+...
+
+[Data](articles/873f26a1.json)
+
+[Extended Data](ext_articles/873f26a1.ext.json)
+
+---
+
+### Wild Elephant in Maha Ilupallama
 
 *2024-11-26 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199702) · `ta`
 
-அநுராதபுரம் - மகா இலுப்பள்ளம பிரதேசம் மற்றும் அதனை சுற்றியுள்ள பகுதிகளில் காட்டு யானையொன்று சுற்றித் திரிவதால் ஆபத்தான நிலையில் வசிப்பதாக பிரதேசவாசிகள் தெரிவிக்கின்றனர்.
+Here's a summary of 200 characters:
 
-தற்போது பெய்து வரும் கடும் மழை காரணமாக இந்த காட்டு யானை மகா இலுப்பள்ளம நகரில் உள்ள பொறியியல் அலுவலகம், தபால் நிலையம், அரசு நிறுவனங்கள் மற்றும் தோட்டங்களில் சுற்றித் திரிகிறது.
 
-மகா இலுப்பள்ளம உள்ளிட்ட சுற்றுவட்டார கிராமங்களில் கடந்த சில நாட்களாக யானைகளால் பயிர்கள் மற்றும் ஏராளமான சொத்துக்கள் நாசமாகியுள்ளமை தெரியவந்துள்ளது.
 
-இந்த பிரச்சினைக்கு தீர்வு காண உயர் அதிகாரிகள் இதுவரை எந்த நடவடிக்கையும் எடுக்கவில்லை என பிரதேசவாசிகள் தெரிவித்துள்ளனர்.
+Wild elephant roams Anuradhapura-Maha Iluppallama area due to heavy rains. Residents report damage to properties. Local authorities criticized for inaction as elephant destroys crops and infrastructure in nearby villages.
+
+🟩
+
+Residents say that a wild elephant wanders around the Anuradhapura - Maha Iluppallama area and surrounding areas.
+
+Due to heavy rains, the wild elephant is roaming around the engineering office, post office, government agencies and plantations in Maha Ilupallama.
+
+Elephants have been destroyed by elephants in the surrounding villages including Maha Ilupallama over the past few days.
+
+Residents have said that top officials have not taken any action to address the issue.
 
 ◼️
 
 [Data](articles/f347bb57.json)
+
+[Extended Data](ext_articles/f347bb57.ext.json)
 
 ---
 
@@ -922,6 +1258,24 @@ Furthermore, the Cabinet Spokesman added that the new government is expected to 
 
 ---
 
+### Cabinet approval to present Vote on Account; 2025 Budget Speech on Feb.17
+
+*2024-11-26 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103770/cabinet-approval-to-present-vote-on-account-2025-budget-speech-on-feb17) · `en`
+
+The 2025 Budget proposal will be presented to the Parliament on January 9, 2025, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa confirmed.
+
+Speaking during the Cabinet press briefing held this morning (26), the Minister stated that the Second Reading of the 2025 Budget (Budget Speech) will take place on February 17, while the debate on the Third Reading will be held from February 27 to March 21.
+
+Furthermore, the Cabinet Spokesman added that the new government is expected to prepare the budget for the year 2025 as a budget that will strengthen the public’s trust in the government and take the initial steps towards the desired development so that the public’s expectations are fulfilled.
+
+...
+
+[Data](articles/8f87e03b.json)
+
+[Extended Data](ext_articles/8f87e03b.ext.json)
+
+---
+
 ### Trains will only run up to Nanuoya
 
 *2024-11-26 10:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-வரை-மட்டுமே-ரயில்கள்-ஓடும்/76-347786) · `ta`
@@ -970,11 +1324,15 @@ However, Minister Wijepala clarified that there is no restriction on people of t
 
 ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the exchange of new bonds for defaulted sovereign bonds, Deputy Minister of Economic Development Anil Jayantha said.
 
-“The cabinet approved the proposal to issue new bonds in place of the previous bonds,” Jayantha told reporters on Tuesday.
+“The cabinet approved the proposal to for exchanging new bonds for presently existing bonds,” Jayantha told reporters on Tuesday.
 
-Sri Lanka has invited bondholders to tender the old bond by December 12, a government statement said.
+The decision was made within the parameters of the debt sustainability analysis by the International Monetary Fund, he said.
+
+Sri Lanka has invited bondholders to tender the old bonds by December 12, a government statement said.
 
 Sri Lanka is exchanging the new bonds for defaulted bonds of 12.55 billion.
+
+In September, an initial agreement was reached with the international bondholders on restructuring of sovereign debt of 14.2 billion US dollars, after a compromise discussion with the adhoc bondholders, a group of representatives of international investors, and a local consortium of Sri Lanka.
 
 Sri Lanka plans to present its national budget on February 14.
 
@@ -1206,57 +1564,87 @@ Accordingly, the President's proposal has been approved by the President's propo
 
 ---
 
-### உயர்தர பரீட்சார்த்திகளுக்கு விடுக்கப்பட்டுள்ள முக்கிய அறிவிப்பு !
+### The main announcement made for high -quality examiners!
 
 *2024-11-26 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199689) · `ta`
 
-நாட்டில் ஏற்பட்டுள்ள சீரற்ற வானிலையையடுத்து, ஏற்பட்டுள்ள அனர்த்தத்தினால் பாதிக்கப்பட்டுள்ள க.பொ.த (உ/த) பரீட்சார்த்திகளுக்கு பரீட்சைகள் திணைக்களம் வேண்டுகோளொன்றை முன்வைத்துள்ளது.
+Here's a summary in 200 characters:
 
-மோசமான காலநிலை காரணமாக உரிய பரீட்சை நிலையங்களுக்கு செல்லமுடியாத க.பொ.த. உயர்தர மாணவர்கள் அருகிலுள்ள பரீட்சை நிலையத்தில் பரீட்சைக்கு தோற்ற அனுமதி வழங்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
 
-இதேவேளை, பரீட்சார்த்திகள், அனர்த்த முகாமைத்துவ திணைக்களத்தின் அவரச தொடர்பு இலக்கமான 117 க்கும் தொடர்பு கொண்டு தேவையான உதவிகளைப் பெற்றுக்கொள்ள முடியும் என்றும் பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+GCE O/L examiners affected by weather disaster: High-quality students allowed to take exams at nearest center. Exam officials can seek help from Disaster Management Department via 117 emergency hotline.
+
+🟩
+
+The Department of Examinations has made a request to the GCE (O/L) examiners affected by the disaster in the country following the inclement weather in the country.
+
+Due to bad weather conditions. The Department of Examinations said that the high -quality students have been granted permission for the examination at the nearby examination.
+
+Meanwhile, the Department of Examinations has said that the examiners can get the necessary assistance from the Department of Disaster Management, 117, the 117 of the Radial Communication Code.
 
 ◼️
 
 [Data](articles/1c02dcd9.json)
 
+[Extended Data](ext_articles/1c02dcd9.ext.json)
+
 ---
 
-### மலையக ரயில் மார்க்கத்தில் ரயில் சேவை பாதிப்பு !
+### Rail service impacts on mountain railway
 
 *2024-11-26 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199692) · `ta`
 
-மலையக ரயில் மார்க்கத்தின் பதுளை மற்றும் பண்டாரவளை பகுதிக்கு இடையிலான ரயில் சேவை தடைப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary in 200 characters:
 
-பதுளை -  பண்டாரவளைக்கிடையிலான ரயில் மார்க்கத்தில் மண்மேடுகளும் கற்களும் சரிந்து வீழ்ந்துள்ளமையினால் ரயில் சேவைக்கு பாதிப்பு ஏற்பட்டுள்ளது.
 
-சீரற்ற வானிலை காரணமாக பதுளை மாவட்டத்தில் மண்மேடு, மரங்கள் மற்றும் பாறைகள் சரிந்து வீழ்ந்தமையினால் பல வீதிகள் தடைப்பட்டுள்ளதாக பதுளை மாவட்ட அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
 
-பதுளை - பண்டாரவளை வீதியின் உடுவர கிரிமண்டலத்திற்கு அருகில், ஹப்புத்தளை பெரகல வீதி, பதுளை - பசறை வீதி 03 ஆம் மைல்கல், பதுளை - ஸ்பிரிங்வெலி வீதி ,பதுளை - பசறை வீதியின் 7 ஆம் மைல்கல் மற்றும் பிபில - லுணுகல வீதியில் அரவாகும்புர ஆகிய வீதிகளில் போக்குவரத்து தடைப்பட்டுள்ளது.
+"Badulla-Bandarawela rail service disrupted due to mudslide. Multiple roads blocked. Police advise alternative routes."
 
-மேலும், வீதிகளில் போக்குவரத்து தடைப்பட்டுள்ளதால், மாற்று வீதிகளைப் பயன்படுத்துமாறு சாரதிகளை பொலிஸார் கேட்டுக் கொண்டுள்ளனர்.
+🟩
+
+The Railway Department has said that the train service between the Badulla and Bandarawela area has been blocked.
+
+The railway service has been affected due to the collapse of mudslides and stones in the Badulla -Bandarala railway line.
+
+The Badulla District Disaster Management Center said that several roads have been blocked due to inclement weather.
+
+Traffic has been blocked at the Badulla - Bandarawela road, Haputtalai Perakala Road, Badulla - Pasarai Road, Badulla - Springwelly Road, 7th Milestone of Badulla - Pasarai Road and Aravakumbura on Bipila - Lunugala Road.
+
+In addition, police have asked the drivers to use alternatives as traffic on the streets has been blocked.
 
 ◼️
 
 [Data](articles/4d4cb9ea.json)
 
+[Extended Data](ext_articles/4d4cb9ea.ext.json)
+
 ---
 
-### IPL ඉතිහාසය අලුත් කළ ළාබාලතම ක්‍රීඩකයා
+### IPL history renewed
 
 *2024-11-26 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203744) · `si`
 
-ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලි ඉතිහාසයේ කණ්ඩායමක් සමග ගිවිසුමක් අත්සන් කළ ළාබාලතම ක්‍රීඩකයා වීමට 13 හැවිරිදි දරුවෙකු සමත්ව තිබේ.
+Here's a summary of 200 characters:
 
-ඊයේ (25) සෞදි අරාබියේ ජෙඩා නුවරදී පැවැති IPL වෙන්දේසියේදී මොහු ඉන්දීය රුපියල් කෝටි 1.1කට රාජස්ථාන් රෝයල්ස් කණ්ඩායම විසින් මිලට ගනු ලැබීය.
 
-දිල්ලි කැපිටල් කණ්ඩායම සහ රාජස්ථාන් රෝයල්ස් කණ්ඩායම අතර පැවැති තියුණු තරගයකින් අනතරුව ක්‍රීඩක වෙන්දේසියේදී ඉන්දීය රුපියල් කෝටි 1.1කට රාජස්ථාන් රෝයල්ස් කණ්ඩායම අවසානයේදී වෛභවි සූර්යවංශි මිලදී ගත්තේය.
 
-IPL ක්‍රීඩක වෙන්දේසියකදී ඉහළ වටිනාකමක් හිමි වූ ලාබාලතම ක්‍රීඩකයා ලෙසයි වෛභවි සූර්යවංශි වාර්තා අතරට එක්වෙයි.
+Youngest IPL player: 13-year-old signs with Rajasthan Royals for ₹1.1 billion. Breaks record for youngest player in IPL auction.
+
+🟩
+
+A 13-year-old child has been able to be the youngest player who signed an agreement with a group of Indian Premier League Tournament.
+
+He was purchased by Rajasthan Royals for Rs 1.1 billion in Jeddah at Jeddah yesterday (25).
+
+Delhin Capital team and Rajasthan Royals bought the sun for the sun's Rs.
+
+The solar wins the solar reports, as the youngest player of an IPL at auction at auction is among the solar wins.
 
 ◼️
 
 [Data](articles/76a14dff.json)
+
+[Extended Data](ext_articles/76a14dff.ext.json)
 
 ---
 
@@ -1278,21 +1666,31 @@ Subjects and functions of ministries by Adaderana Online on Scribd
 
 ---
 
-### බැම්මක් කඩාවැටී කාන්තාවක් මරුට
+### Woman dies after death kills
 
 *2024-11-26 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203743) · `si`
 
-අයහපත් කාලගුණයත් සමග බණ්ඩාරවෙල ප්‍රදේශයේ දී බැම්මක් කඩා වැටීමෙන් සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තිබේ.
+Here's a summary in 200 characters:
 
-බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසුවේ අද (26) පෙරවරු 7ට පමණ එම අනතුර සිදුව ඇති බවය.
 
-අනතුරින් මියගොස් ඇත්තේ 61 හැවිරිදි බණ්ඩාරවෙල ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවකි.
 
-මළසිරුර බණ්ඩාරවෙල රෝහලේ තැන්පත් කර ඇති අතර බණ්ඩාරවෙල පොලීසිය මේ සම්බන්ධයෙන් වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+Bandarawela: Wall collapse due to weather claims 61-year-old woman's life. Incident occurred at 7 AM. Body at hospital; police investigating.
+
+🟩
+
+A woman was killed after a wall of the Bandarawela collapsed with the inclement weather.
+
+The Disaster Management Center of Badulla said that the accident had occurred at around 7am today.
+
+The deceased has been identified as a 61 year old resident of Bandarawela.
+
+The body has been placed at the Bandarawela Hospital while Bandarawela Police have commenced further investigations.
 
 ◼️
 
 [Data](articles/3481e0c9.json)
+
+[Extended Data](ext_articles/3481e0c9.ext.json)
 
 ---
 
@@ -2023,341 +2421,5 @@ The focus was on the development opportunities of the two countries, China and S
 [Data](articles/26c720bc.json)
 
 [Extended Data](ext_articles/26c720bc.ext.json)
-
----
-
-### Honouring the unsung: Real beginnings of the ‘renaissance’
-
-*2024-11-26 01:11:31* · [`dailyftlk`](https://www.ft.lk/opinion/Honouring-the-unsung-Real-beginnings-of-the-renaissance/14-769675) · `en`
-
-It is to this farming community that the country owes a debt of gratitude today. They laid the real groundwork for the Aragalaya movement
-
-As early as the 1890s, psychology research has been done on crowd behaviour. Gustave Le Bon (1841) who was a French social psychologist pioneered research on group behaviour, especially crowd behaviour. People with compatible needs and interests come together (convergence theory), purposefully and united, to have their views represented. Classical theories treat crowds as pathological (contagion theory). Crowds are seen as mobs, mobs that act irrationally.
-
-...
-
-[Data](articles/109cb1a9.json)
-
-[Extended Data](ext_articles/109cb1a9.ext.json)
-
----
-
-### E.. Abduction attack on the bus
-
-*2024-11-26 01:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-போ-ச-பஸ்-மீது-கல்வீச்சு-தாக்குதல்/175-347775) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Transport Board bus attacked near Jaffna. Departed Point Pedro at 6:15 pm yesterday, heading to Vadamarachchi East Mamunai area.
-
-🟩
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) has been attacked from Point Pedro, Jaffna.
-
-The bus, which departed from Point Pedro yesterday (24) at 6.15 pm, went to the Vadamarachchi East Mamunai area.
-
-◼️
-
-[Data](articles/1324ff35.json)
-
-[Extended Data](ext_articles/1324ff35.ext.json)
-
----
-
-### Need of the hour, Muslim Cabinet Minister or Rule of Law: Muslim perspective
-
-*2024-11-26 01:04:09* · [`dailyftlk`](https://www.ft.lk/columns/Need-of-the-hour-Muslim-Cabinet-Minister-or-Rule-of-Law-Muslim-perspective/4-769674) · `en`
-
-The question many intellectuals now pose is whether this tradition of symbolic inclusion has ever translated into meaningful gains for the Muslim community
-
-The sweeping victory of the National People’s Power (NPP) in Sri Lanka’s recent elections marked a resounding call for change, as voters across the nation—from north to south and east to west—rejected corrupt political elitism in favour of a new, principled political culture. The scale of this victory, surpassing all predictions, demonstrated the people’s overwhelming desire for a transformation in governance, as clearly reflected in the election results, particularly the postal votes.
-
-...
-
-[Data](articles/65e62bcf.json)
-
-[Extended Data](ext_articles/65e62bcf.ext.json)
-
----
-
-### FINAP’s journey: From local innovation  to global recognition
-
-*2024-11-26 00:50:53* · [`dailyftlk`](https://www.ft.lk/business/FINAP-s-journey-From-local-innovation-to-global-recognition/34-769672) · `en`
-
-FINAP Founder and CEO Dr. Kutila Pinto recently participated at the 40th ASOCIO Summit in Tokyo. At the summit, FINAP was awarded the prestigious ‘Outstanding Tech Organisation’ title—a recognition that marks the company’s transformation from a promising Sri Lankan start-up to a rising global leader in financial technology.
-
-In this interview Dr. Pinto shared insights about FINAP’s remarkable journey, the values driving the organisation, and its vision for the future. Below is an in-depth discussion on how FINAP is redefining financial technology and empowering communities both locally and internationally.
-
-This recognition is a monumental milestone for FINAP. It reflects the hard work of our team, the relevance of our solutions, and our commitment to empowering communities through innovative financial technology. Being acknowledged on such a global platform reaffirms that our mission and values resonate beyond Sri Lanka and inspire us to push further boundaries.
-
-...
-
-[Data](articles/2c68c008.json)
-
-[Extended Data](ext_articles/2c68c008.ext.json)
-
----
-
-### Driving fintech forward: Cargills Bank partners SITS for seamless banking solutions
-
-*2024-11-26 00:45:13* · [`dailyftlk`](https://www.ft.lk/business/Driving-fintech-forward-Cargills-Bank-partners-SITS-for-seamless-banking-solutions/34-769671) · `en`
-
-Standing (from left): QA Engineer Runeth Thamuditha, Assistant Manager – Card Payment Buddhika Kumara, Assistant Vice President Sameera Priyadarshana, Senior Vice President Tushara Feldano, Manager – Card Business and Merchant Acquiring Nalaka Wijenayake, Executive – Card Business and Merchant Acquiring Dulan Rajapaksha
-
-Seated (from left): Assistant Manager – Public Relations Olindi Kiriella, Head of Card Services Kaushi Fernando, and Executive – Card Business Kashmini Hettiarachchi
-
-Cargills Bank, established in 2014, has quickly made a name for itself in Sri Lanka’s banking sector with a focus on innovation and customer excellence. To improve access to financial services, Cargills Bank has teamed up with Sampath IT Solutions Ltd. (SITS) to manage its network of Point-of-Sale (POS) systems across the country.
-
-...
-
-[Data](articles/be8ce26d.json)
-
-[Extended Data](ext_articles/be8ce26d.ext.json)
-
----
-
-### Epic Lanka joins premier  Asian banks and fintechs  at World Financial Innovation Series in Indonesia
-
-*2024-11-26 00:43:02* · [`dailyftlk`](https://www.ft.lk/business/Epic-Lanka-joins-premier-Asian-banks-and-fintechs-at-World-Financial-Innovation-Series-in-Indonesia/34-769670) · `en`
-
-Epic Lanka team at the World Financial Innovation Series in Jakarta, Indonesia
-
-Epic Lanka, recently attended the World Financial Innovation Series – Indonesia’s foremost financial sector event in Jakarta, Indonesia.
-
-The event comprising over 1,000 participants provided Epic a platform to demonstrate its comprehensive suite of fintech solutions, including advanced card payment systems, authentication technologies, payment security measures, business process automation, and dynamic workflow solutions.
-
-The World Financial Innovation Series (WFIS) Indonesia is an annual financial sector event that powers a meeting of FSI leaders, financial experts, technology moguls and government regulators to discuss and analyse the prevailing state of developments concerning the country’s financial realm.
-
-...
-
-[Data](articles/0dd6fc3a.json)
-
-[Extended Data](ext_articles/0dd6fc3a.ext.json)
-
----
-
-### 2024-11-25 (Monday)
-
-### Chinese delegation and President meets
-
-*2024-11-25 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203732) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Chinese delegation meets Sri Lankan President Anura Kumara Dissanayake. China offers cooperation on development initiatives, including investment, technology transfer, digitization, and rural economy support. President thanks for continued assistance.
-
-🟩
-
-The Member of the Member of the Member of the Communist Party Central Committee of the Communist Party won the China delegation at the President's Office today (25) at the Presidential Secretariat.
-
-The victory of Anura Kumara Dissanayake in the last presidential election and his congratulations were made in the general election and the victory of his party at the general election.
-
-The Deputy Minister's leader also stated that China was ready to work close cooperation with Sri Lanka under the leadership of President Anura Kumara Dissanayake.
-
-The focus on development prospects in China and Sri Lanka and discussed the importance of a mutually advantageous long-term cooperation program between the two countries.
-
-The delegation also informed Sri Lanka that China is willing to support Sri Lanka for various development initiatives, including investment promotion, technology transfer, digitization and rural economy.
-
-...
-
-[Data](articles/fb4b6a97.json)
-
-[Extended Data](ext_articles/fb4b6a97.ext.json)
-
----
-
-### Field lands drowned in Thambalakamam by heavy rains
-
-*2024-11-25 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199682) · `ta`
-
-Heavy rains flood fields in Thambalakamam, affecting crops and displacing families. Emergency shelters set up at local school. Disaster management teams deployed to assist affected residents.
-
-🟩
-
-Due to the inclement weather, many acres of fields in the Thambalakamam Divisional Secretariat have been affected by water.
-
-Farmers say that due to heavy rains, the fields of the Thambalakamam Kovili area have been submerged.
-
-Due to the continuous rainfall, the low -lying areas of the Thambalakamam Divisional Secretariat have been flooded, especially in the Grama Niladhari Divisions of Mullipothana, Meera Nagar and Palataru Grama Niladhari Divisions.Taken.
-
-Some families of Patinipura in the Grama Sevakar area of ​​Palampottar have been housed in a nearby school. All arrangements have been made by the Divisional Secretariat and other activities have been taken through the Disaster Management Center.
-
-It is noteworthy that the Disaster Management Development Officer is also on duty in accordance with the guidance of the Divisional Secretary.
-
-◼️
-
-[Data](articles/6e1c5602.json)
-
-[Extended Data](ext_articles/6e1c5602.ext.json)
-
----
-
-### Elvis fan…with blues her forte
-
-*2024-11-25 22:24:00* · [`islandlk`](http://island.lk/elvis-fanwith-blues-her-forte/) · `en`
-
-It’s, indeed, wonderful to see Sri Lankan artistes doing good abroad…in their adopted homeland.
-
-Andrea Marr, who is based in Melbourne, is very much in the news these days.
-
-She will be performing at the exclusive ‘Women In Blues’ showcase at Alfred’s On Beale Street (rock venue with live entertainment), in Memphis, in the USA, on 9th January 2025, during the International Blues Challenge when bands from all over the world converge on Memphis for the ‘Olympics of the Blues.’
-
-Ten female blues artistes, from all over the world, will be showcasing their original songs in front of the blues industry professionals, managers and labels, and blues fans around the world.
-
-This is Andrea’s fourth performance in the home of the blues.
-
-She has represented Australian Blues three times and, on this occasion, goes as ambassador for Blues Music Victoria, and The Melbourne Blues Appreciation Society’s ‘Women In Blues’ Coordinator.
-
-...
-
-[Data](articles/862e316b.json)
-
-[Extended Data](ext_articles/862e316b.ext.json)
-
----
-
-### Fusion of Soul and Sound from Galle
-
-*2024-11-25 22:24:00* · [`islandlk`](http://island.lk/fusion-of-soul-and-sound-from-galle/) · `en`
-
-SpeXduo is a talented musical duo hailing from the vibrant coastal city of Galle.
-
-Two passionate artistes, Subodha and Lishan, make up this duo and they combine the power of piano and voice to create a captivating musical experience that resonates deeply with listeners.
-
-Subodha is the skilled pianist, who brings a versatile and dynamic range to their music, while Lishan, the soulful vocalist, complements Subodha’s music with his emotive, powerful voice.
-
-SpeXDuo, who are more into jazz and fusion genres, started out in December 2023.
-
-They have performed at several events and festivals, and have been seen in action at Arcadia Café and Restaurant Negombo.
-
-Their live music, they say, is available for pubs, restaurants, weddings, birthday parties, get-together parties, private parties, or any other special occasion.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/d7dae33c.json)
-
-[Extended Data](ext_articles/d7dae33c.ext.json)
-
----
-
-### Representation and devolution continue to be needed
-
-*2024-11-25 22:20:00* · [`islandlk`](http://island.lk/representation-and-devolution-continue-to-be-needed/) · `en`
-
-Delivering his inaugural policy statement to Parliament, President Anura Kumara Dissanayake dealt mostly with the economy and, in particular, the IMF agreement. The problem he faces is that the former government agreed to terms with the IMF that did not consider the impact on the people, but gave priority to meeting fiscal targets. The President acknowledged that the government had no alternative but to continue with it as the country had gone too far down the road to change direction. He said, “The negotiations had already been ongoing for more than two years. If we were to restart discussions on the restructuring programme for an extended period it will be impossible for us to move the economy forward…”
-
-...
-
-[Data](articles/1aa158d9.json)
-
-[Extended Data](ext_articles/1aa158d9.ext.json)
-
----
-
-### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
-
-*2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and shallow sea areas around the island today (25) as a low pressure area intensifies over South-East Bay of Bengal.
-
-The low pressure area over the southwest Bay of Bengal intensified into a depression over the central-southwest Bay of Bengal by this morning.
-
-The system was located about 530 km southeast of Trincomalee at around 11.30 a.m. today. It is likely to move closer to the East coast of the island and intensify into a deep depression during next 24 hours, the advisory said.
-
-Very heavy showers above 150 mm are likely at some places in Northern province and Trincomalee District while heavy showers above 100 mm are likely at some places in Northern, North-central, Central and Uva provinces and in Batticaloa, Ampara district due to the influence of the aforementioned system.
-
-...
-
-[Data](articles/ea71be76.json)
-
-[Extended Data](ext_articles/ea71be76.ext.json)
-
----
-
-### Unique opportunity for fast-tracked social integration, if only…
-
-*2024-11-25 22:17:00* · [`islandlk`](http://island.lk/unique-opportunity-for-fast-tracked-social-integration-if-only/) · `en`
-
-Surely, racism has caused enough damage to us to warrant its erasure from our midst with the condemnation it deserves, without leaving it more room to further flourish in deceptively benign ways. As showcased by the November 14 election results, many Tamils and Muslims, not forgetting Catholics and Hindus, have voted to power the NPP, led by the JVP, which they might have previously labelled, and avoided, as a ‘Sinhalese’ party.
-
-...
-
-[Data](articles/396a7363.json)
-
-[Extended Data](ext_articles/396a7363.ext.json)
-
----
-
-### We are not allowed to legalize illegal visa permit - Goshala Wickremasinghe
-
-*2024-11-25 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199653) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-E8 Visa Agreement controversy: Former Minister illegally signed pact risking Sri Lankan youth jobs. Foreign Employment Bureau cannot validate illegal visas. Probe underway; strict legal action promised against violators.
-
-🟩
-
-The E8 Visa Agreement, which has illegally signed by a minister of the last government, is at risk of unemployment in Sri Lankan youth for over 20 years and more than 20 years.. Bureau Chairman Goshala Wickremasinghe said that the Foreign Employment Bureau could not be able to legalize the illegal visa clearance.
-
-He was speaking to the media about the struggle to be carried out in front of the Sri Lanka Foreign Employment Bureau in Battaramulla.
-
-The E8 Visa is not a method of proper sending people to foreign business. Sri Lanka Foreign Employment Bureau has not allowed private foreign agencies to send workers for seasonal industry in South Korea. If the Bureau is sending workers to foreign business, the bureau must obtain the registration of the Bureau.
-
-...
-
-[Data](articles/3ba3aefe.json)
-
-[Extended Data](ext_articles/3ba3aefe.ext.json)
-
----
-
-### Satyagraha struggle that continues in front of the Foreign Employment Bureau
-
-*2024-11-25 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199662) · `ta`
-
-Sri Lanka: Protesters demand E8 visa for South Korea jobs. Foreign Employment Bureau denies opportunities. Government intervention sought.
-
-🟩
-
-Some people who are looking forward to working for South Korea for South Korea on the E8 visa have been fighting in front of the Sri Lanka Foreign Employment Bureau in Battaramla, saying they have not had the opportunity to go to Korea due to the attention of the authorities.
-
-Minister Vijitha Herath met with some of the protesters last Friday. In the meantime, the E8 Visa said that action would be taken to take the necessary measures to legalize South Korea.
-
-However, the foreign employment work is hiding the opportunities for South Korea, so they are struggling to prolong the time as they have to go to work.
-
-But it is illegal to send to business on E8 visa. The President of the Sri Lanka Foreign Employment Bureau said it could not be allowed. As well as the console is not likely to get a visa without knowing. The Chairman of the Bureau said that there is no truth in reporting that we have got a career opportunity for South Korea.
-
-...
-
-[Data](articles/eacefb51.json)
-
-[Extended Data](ext_articles/eacefb51.ext.json)
-
----
-
-### CEAT develops new original equipment radial tyre for DIMO’s Tata Xenon Yodha
-
-*2024-11-25 22:08:00* · [`islandlk`](http://island.lk/ceat-develops-new-original-equipment-radial-tyre-for-dimos-tata-xenon-yodha/) · `en`
-
-Tata Xenon Yodha single cab pick-up trucks assembled by DIMO will ride on purpose-developed CEAT light truck radial tyres manufactured in Sri Lanka, in a coming together of two performance-driven automotive brands via a significant original equipment (OE) partnership.
-
-With this synergy, CEAT Kelani Holdings has manufactured a new radial tyre for the locally assembled Tata Xenon Yodha by DIMO, to meet the performance specifications of the vehicle, and the high expectations of users.
-
-The CEAT 215/75 R16 WINMILE X3 R tyre is built for Low Hysteresis Loss, reducing the energy loss associated with carbon black reinforced rubber. This results in reduced rolling resistance, less wear and tear and a smoother ride. The use of a high mileage compound and improvements in the footprint shape of the tyre also promise extra mileage.
-
-...
-
-[Data](articles/1feb1848.json)
-
-[Extended Data](ext_articles/1feb1848.ext.json)
 
 ---

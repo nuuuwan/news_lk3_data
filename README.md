@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 01:42:22**
+As of **2024-11-27 02:01:23**
 
 ## Newspaper Stats
 
-*Scraped **57,090** Articles*
+*Scraped **57,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
 tamilmirrorlk | 8,119
-virakesarilk | 9,305
+virakesarilk | 9,307
 adaderanasinhalalk | 9,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,090 (100.0%) of 57,090 articles have been extended.
+57,090 (100.0%) of 57,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### நோலிமிட் ஸாஹிரா சுப்பர் 16 சொக்கர் 7s: இலங்கையிலுள்ள 15 பாடசாலை அணிகளும் கத்தார் பாடசாலையும் பங்கேற்பு
+
+*2024-11-27 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199789) · `ta`
+
+இலங்கையின் பல்வேறு பகுதிகளில் இயங்கும் 15 பிரபல பாடசாலை அணிகளும் கத்தார் தேசத்தில் இயங்கும் ஒரு பாடசாலை அணியும் பங்குபற்றும் 18ஆவது ஸாஹிரா சுப்பர் 16 சொக்கர் 7s கால்பந்தாட்டப் போட்டி கொழும்பு குதிரைப் பந்தயத் திடலில் டிசம்பர் மாதம் 8ஆம் திகதி காலையிலிருந்து முழுநாளும் நடைபெறவுள்ளது.
+
+இந்த வருடம் நோலிமிட் பிரதான அனுசரனை வழங்குவதால் இப் போட்டி நோலிமிட் ஸாஹிரா சுப்பர் 16 சொக்கர் 7s என அழைக்கப்படுகிறது.
+
+இளம் கால்பந்தாட்ட வீரர்களின் திறமைகளை வெளிச்சத்திற்கு கொண்டு வருவதில் 19 வயதுக்குட்பட்டவர்களுக்கான இந்தப் போட்டி பிரதான பங்கு வகிக்கறது என்று கூறினால் மிகையாகாது.
+
+இப் போட்டியில் 19 வயதுக்குட்பட்ட 16 அணிகள் பங்குபற்றுவதுடன் 12 வயதுக்குட்பட்ட 8 அணிகள் சிறப்பு கால்பந்தாட்டப் போட்டியில் விளையாடவுள்ளன.
+
+இந்த வருட ஸாஹிரா சுப்பர் 16 சொக்கர் 7s கால்பந்தாட்டப் போட்டி மனித நேயத்தை வெளிப்படுத்தும் ஒரு முக்கிய போட்டியாக அமையவுள்ளது.
+
+...
+
+[Data](articles/1e3186c5.json)
+
+---
+
+### பங்களாதேஷை 201 ஓட்டங்களால் வீழ்த்திய மே. தீவுகளுக்கு இரண்டரை வருடங்களில் சொந்த மண்ணில் முதலாவது வெற்றி
+
+*2024-11-27 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199788) · `ta`
+
+அன்டிகுவா, நோர்த் சவுண்ட் விவியன் றிச்சட்ஸ் விளையாட்டரங்கில் நடைபெற்ற பங்களாதேஷுக்கு எதிரான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் 201 ஓட்டங்களால் மேற்கிந்தியத் தீவுகள் மிக இலகுவாக வெற்றிபெற்றது.
+
+கடந்த இரண்டரை வருடங்களில் மேற்கிந்தியத் தீவுகள் தனது சொந்த மண்ணில் ஈட்டிய முதலாவது டெஸ்ட் வெற்றி இதுவாகும்.
+
+இந்த வெற்றியில் ஜஸ்டின் கிறீவ்ஸ் குவித்த கன்னிச் சதம், மிக்கைல் லூயிஸ், அலிக் அத்தானேஸ் ஆகியோர் குவித்த அரைச் சதங்கள், அல்ஸாரி ஜோசப், கெமர் ரோச், ஜேடன் சீல்ஸ் ஆகியோர் பதிவு செய்த 3 விக்கெட் குவியல்கள் என்பன மேற்கிந்தியத் தீவுகளை வெற்றிபெறச் செய்தன.
+
+இநி;தப் போட்டியில் தஸ்கின் அஹ்மத் 6 விக்கெட் குவியலைப் பதிவு செய்தபோதிலும் அது கடைசியில் வீண்போனது.
+
+334 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு இரண்டாவது இன்னிங்ஸில் துடுப்பெடுத்தாடிய பங்களாதேஷ் சகல விக்கெட்களையும்  இழந்து 132 ஓட்டங்ளைப் பெற்று தோல்வி அடைந்தது.
+
+...
+
+[Data](articles/a83721b9.json)
+
+---
 
 ### Call these digits immediately
 
@@ -108,6 +148,30 @@ Deputy Director of the Jaffna District Disaster Management Division, RN Suriyara
 
 ---
 
+### Flights to land in Katunayake have been diverted to India
+
+*2024-11-26 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199785) · `ta`
+
+Katunayake flights diverted: 3 planes rerouted to Indian airports Mattala Thiruvananthapuram due to unspecified reasons. Additional 3 flights from Chennai Male Abu Dhabi redirected to Mattala International Airport.
+
+🟩
+
+Three flights arrived at the Katunayake International Airport on the night of the 26th have been diverted to the Mattala and Thiruvananthapuram airport in India.
+
+Three flights from Narita, Dubai and Chennai to Katunayake airport have been diverted to India.
+
+Accordingly, the Katunayake airport spokesman said that the flights were diverted to the Thiruvananthapuram airport.
+
+Meanwhile, three more flights from Chennai, Male and Abu Dhabi to Katunayake airport have been diverted to the Mattala International Airport.
+
+◼️
+
+[Data](articles/8bb3b5fb.json)
+
+[Extended Data](ext_articles/8bb3b5fb.ext.json)
+
+---
+
 ### Police get a cadre from police to report emergency disaster
 
 *2024-11-26 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203779) · `si`
@@ -133,30 +197,6 @@ Due to the adverse weather conditions that have been affected by the island, flo
 [Data](articles/5413e5cf.json)
 
 [Extended Data](ext_articles/5413e5cf.ext.json)
-
----
-
-### Flights to land in Katunayake have been diverted to India
-
-*2024-11-26 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199785) · `ta`
-
-Katunayake flights diverted: 3 planes rerouted to Indian airports Mattala Thiruvananthapuram due to unspecified reasons. Additional 3 flights from Chennai Male Abu Dhabi redirected to Mattala International Airport.
-
-🟩
-
-Three flights arrived at the Katunayake International Airport on the night of the 26th have been diverted to the Mattala and Thiruvananthapuram airport in India.
-
-Three flights from Narita, Dubai and Chennai to Katunayake airport have been diverted to India.
-
-Accordingly, the Katunayake airport spokesman said that the flights were diverted to the Thiruvananthapuram airport.
-
-Meanwhile, three more flights from Chennai, Male and Abu Dhabi to Katunayake airport have been diverted to the Mattala International Airport.
-
-◼️
-
-[Data](articles/8bb3b5fb.json)
-
-[Extended Data](ext_articles/8bb3b5fb.ext.json)
 
 ---
 
@@ -2447,57 +2487,5 @@ ECONOMYNEXT – The Ceylon Chamber of Commerce said it welcomed the announcement
 [Data](articles/17b33f80.json)
 
 [Extended Data](ext_articles/17b33f80.ext.json)
-
----
-
-### There is no room for prohibited celebration
-
-*2024-11-26 14:59:02* · [`adalk`](https://www.ada.lk/breaking_news/තහනම්කර-ඇති-කිසිම-සැමරුමකට-ඉඩක්-නෑ/11-413278) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-No room for prohibited celebrations: Cabinet spokesperson Nalinda Jayatissa says no displays of banned logos and flags allowed. Press conference to remember deceased relative and celebrate government, unaffected by current situation on April 26th.
-
-🟩
-
-Cabinet spokesperson Minister Nalinda Jayatissa states that there is no opportunity to display any banned, logos and flags in any way.
-
-A press conference to commemorate a deceased relative and remembered that a government could be celebrated and that a government is not hindered by a government today (26).
-
-◼️
-
-[Data](articles/69f735da.json)
-
-[Extended Data](ext_articles/69f735da.ext.json)
-
----
-
-### Here are the Sri Lankan players bought at the IPL auction
-
-*2024-11-26 14:49:26* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්-වෙන්දේසියේදී-මිලදී-ගත්-ශ්‍රී-ලාංකික-ක්‍රීඩකයන්-මෙන්න/9-413277) · `si`
-
-Sri Lanka players sold: Ashan Malinga ($7.5m), Nuwan Thushara ($1.6m) to IPL teams.
-
-🟩
-
-The Auction at the Indian Premier League (IPL) was held yesterday (25) and on Monday.
-
-Six Sri Lankan players were purchased by teams.
-
-Accordingly, the Rajasthan Royals team purchased Indian rupees for Rs.
-
-Meanwhile, Ashan Malinga was purchased by the Sunrisers Hyderabad team for Rs 1.2 billion to Rs.
-
-The Royal Challengers Banglourors were purchased at Rs. 1.6 billion to Nuwan Thushara.
-
-Meanwhile, Delhi Cesitals team purchased the Dammane Chameera to a sum of Rs.
-
-◼️
-
-[Data](articles/015bd513.json)
-
-[Extended Data](ext_articles/015bd513.ext.json)
 
 ---

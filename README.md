@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 20:00:41**
+As of **2024-11-26 21:01:38**
 
 ## Newspaper Stats
 
-*Scraped **57,047** Articles*
+*Scraped **57,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,29 +16,217 @@ islandlk | 3,422
 economynextcom | 3,454
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,378
+adalk | 5,379
 adaderanalk | 6,906
-tamilmirrorlk | 8,113
-virakesarilk | 9,297
-adaderanasinhalalk | 9,853
+tamilmirrorlk | 8,116
+virakesarilk | 9,298
+adaderanasinhalalk | 9,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,033 (100.0%) of 57,047 articles have been extended.
+57,042 (100.0%) of 57,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### மன்னம்பிட்டி - மகா ஓயா வீதி மூடப்பட்டுள்ளது
+### அவசர அறிவித்தல்…
+
+*2024-11-26 20:30:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அறிவித்தல்/175-347822) · `ta`
+
+கல்முனை அஷ்ரஃப் ஞாபகார்த்த வைத்தியசாலைக்குள் (AMH) வெள்ளம் புகுந்துவிட்டது தயவு செய்து பொதுப்பணியாளர்கள் உதவிக்கு வருமாறு சமூக ஊடகங்கள் வழியாக அழைப்பு விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8dbc4d93.json)
+
+---
+
+### MP's parliament falls into parliamentary pond
+
+*2024-11-26 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203773) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+MP parliament incident: Dr. Nihal Abeysinghe, Secretary General, injured in Parliament pond.
+
+🟩
+
+Dr. Nihal Abeysinghe, Secretary General of the National Power and Kalutara District Specialist Specialist, has been injured in the water pond of Parliament today.
+
+◼️
+
+[Data](articles/85097285.json)
+
+[Extended Data](ext_articles/85097285.ext.json)
+
+---
+
+### கல்லரிச்சல் வீதி சேதம்
+
+*2024-11-26 20:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்லரிச்சல்-வீதி-சேதம்/175-347821) · `ta`
+
+◼️
+
+[Data](articles/ae54a05a.json)
+
+---
+
+### பெங்கால் புயல் கிழக்கில் கரையை கடக்கும்
+
+*2024-11-26 20:02:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெங்கால்-புயல்-கிழக்கில்-கரையை-கடக்கும்/175-347820) · `ta`
+
+பெங்கால் (Fengal) எனப் பெயரிடப்பட்டுள்ள புயல், இன்று (26) இரவு அல்லது நாளை (27) காலை புயலாக மாறும். இது கிழக்கில் கரையை கடக்கும்.
+
+தென் கிழக்கு வங்காள விரிகுடாவில் உருவாகிய ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம் தற்போது அம்பாறைக்கு கிழக்காக 82 கி.மீ. தொலைவில் நிலை கொண்டுள்ளது.
+
+இது இன்று (26) இரவு அல்லது நாளை (27) காலை புயலாக மாறும். புயலாக மாறும் பெங்கால்  அதி வேகத்துடன் கரையை கடக்கும் என எதிர்பார்க்கப்படுகிறது.
+
+வடக்கு மற்றும் கிழக்கு மாகாணங்களுக்கு தற்போது கிடைத்து வரும் கனமழை இன்னமும் அதிகரிக்கும். ஏற்கனவே குறிப்பிட்டது போன்று இந்த ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம் மந்தமான வேகத்தில் நகர்வதால் இதன் பாதிப்புக்கள் எதிர்பார்த்ததை விட கூடுதலாக இருக்கும். இன்றும் நாளையும் வடக்கு மற்றும் கிழக்கு மாகாணங்களுக்கு மிக மிக கனமழை கிடைக்கும். குறிப்பாக யாழ்ப்பாண மாவட்டத்திற்கு தற்போது கிடைக்கும் மிக கன மழை தொடரும்.  திருகோணமலை , மட்டக்களப்பு, முல்லைத்தீவு, கிளிநொச்சி ,மன்னார் மாவட்டத்திற்கும் கனமழை தொடரும்.
+
+...
+
+[Data](articles/2ad7c1e6.json)
+
+---
+
+### Sri Lankan government's war crimes issue: China prevents international justice - Secretary Leeladevi accuses
+
+*2024-11-26 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199779) · `ta`
+
+Sri Lankan government accuses China of blocking international justice for war crimes. Secretary Liladevi Anandaraja claims China's influence prevents cases from reaching ICC.
+
+🟩
+
+Secretary of the North and East, Liladevi Anandaraja, has accused China of obtaining international justice as relationships have been longing for relationships handed over to the military during the final war in the North and East.
+
+He said this while commenting to the media on the response of the Chinese Ambassador to the Jaffna Ambassador to the Jaffna Ambassador to the Tamil people's solution and the disappearance of the disappeared.. He further stated that
+
+It was true that the vote for the national people's power. The National People's Power is now the ones that have fallen to the former NGO.
+
+It cannot be said that the Anuragumara government has completely accepted and voted.
+
+The story of the wolf weeping as the goat is crying is coming to me on the story of the Chinese angel.
+
+...
+
+[Data](articles/f9501650.json)
+
+[Extended Data](ext_articles/f9501650.ext.json)
+
+---
+
+### A warning about a hurricane
+
+*2024-11-26 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203772) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Hurricane warning: Pressure drop in Bay of Bengal causes heavy rains in Eastern, Northern-Central, Uva, and Southern provinces. Most affected: Eastern Province. Highest rainfall: 311.1mm in Ampara district. Road closures, reservoir overflow, school cancellations reported. 77,170 people affected.
+
+🟩
+
+The pressure depression in the eastern bay of Bay of Bay of Bay of Bay of Bengal.
+
+As a result of the creation recession of the South Bay Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Sea, heavy rains in the Eastern, Northern-Central, Uva and Southern provinces.
+
+Department of Meteorological Depression is now 290 km from Batticaloa and 410 km from Trincomalee and 410 km from Trincomalee.
+
+The most affected by the rain is the most affected by the Eastern Province.
+
+The highest number of rainfall was reported from the Ampara district, the value was 311.1 millimeters.
+
+The reservoirs in the province have stalled traffic on many roads due to the exterior.
+
+The Ampara Tinniyagala road was completely closed due to the spilling from the Suduwella area in Ampara.
+
+The Uhana path of Ampara was inundated by over the outing Adl Oya.
+
+Also, inferior lands, including roads including Ampara Maha Oya and Damana areas.
+
+...
+
+[Data](articles/4f45cfb9.json)
+
+[Extended Data](ext_articles/4f45cfb9.ext.json)
+
+---
+
+### Most Mustain E8 visa racket - 3
+
+*2024-11-26 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203771) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Mustain E8 visa racket exposed. Ada Derana hawk linked to Foreign Employment Bureau raid unit. Financial fraud uncovered involving controversial E-8 visas. Investigation leads to arrests. Further arrests ongoing.
+
+🟩
+
+Ada Derana hawk was associated with the Raid Unit of the Foreign Employment Bureau to cover up a financial fraud to the e-8 visa method that would be provided through the controversial E-8 visas.
+
+The racket of the Foreign Employment Unit of the Foreign Employment Unit had received complaints about a racket that would be provided with employment opportunities in South Korea under the e-8 visa.
+
+They have complained that the racketeers had obtained about Rs.
+
+Accordingly, the raid unit initiated an investigation into the racket of racket, "Derana" hawk is added.
+
+Investigations were conducted to submit two racketeers to the Department of Registration of Persons in Battaramulla.
+
+The information was revealed about a woman in Kottawa, who was involved in the racket of Yakkala and Galagedara.
+
+According to the investigation officials to arrest the woman, she said she was calling on her home.
+
+However, when we went to her home, residents said that she was not home.
+
+...
+
+[Data](articles/fb6e1abb.json)
+
+[Extended Data](ext_articles/fb6e1abb.ext.json)
+
+---
+
+### Manampitiya - Maha Oya Road
 
 *2024-11-26 19:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னம்பிட்டி-மகா-ஓயா-வீதி-மூடப்பட்டுள்ளது/175-347818) · `ta`
+
+Here's a summary of Manampitiya - Maha Oya Road in approximately 200 characters:
+
+
+
+Manampitiya-Maha Oya Road connects the towns of Manampitiya and Maha Oya in Sri Lanka. It spans about 30 km, passing through rural areas and small villages. The road conditions vary, with some sections being paved and others unpaved. It serves as a vital transportation route for local residents and farmers transporting goods to nearby markets. The road also provides access to nearby attractions like waterfalls and hiking trails.
+
+🟩
 
 ◼️
 
 [Data](articles/b403b533.json)
+
+[Extended Data](ext_articles/b403b533.ext.json)
+
+---
+
+### උසස් පෙළ විභාගය 27,28,  හා 29  නොපැවැත්වේ
+
+*2024-11-26 19:22:44* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විභාගය-27-28---හා-29--නොපැවැත්වේ/11-413296) · `si`
+
+අයහපත් කාළගුණය හේතුවෙන් දැනට පැවැත්වෙන අ.පො.ස උසස් පෙළ විභාගය ඉදිරි දින තුනේ තාවකාලිකව අත්හිටුවීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+ඒ අනුව හෙට( 27) , 28 සහ 29 යන තෙදින අ.පො.ස උසස් පෙළ විභාගයට නියමිත විෂයන් එම දිනවල  නොපැවැත්වෙන බව  විභාග කොමසාරිස් ජනරාල් එච්.ජේ.එම්.සී. අමිත් ජයසුන්දර මහතා පවසයි.
+
+නැවතත් 30 දා විභාගය ආරම්භ කර එදින සිට දැනට ඇති කාලසටහනට  අනුව සාමාන්‍ය පරිදි විභාගය පවත්වන බවත් විභාගය නොපවත්වන  27,28,සහ 29 දිනවලට අදාළ විෂයන් දෙසැම්බර් 21 ,22 සහ 23 දිනවල පවත්වන අතර ඒ සඳහා නියමිත සංශෝධිත  කාල සටහන ඉදිරියේදී නිකුත් කරන බවත් විභාග කොමසාරිස් ජනරාල්වරයා මාධ්‍ය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/d7105e84.json)
 
 ---
 
@@ -69,6 +257,42 @@ Accordingly, two persons arrested by two persons were arrested in their arrest a
 [Data](articles/1d1d5049.json)
 
 [Extended Data](ext_articles/1d1d5049.ext.json)
+
+---
+
+### Govt. Ansesen on the restructuring of international sovereignties
+
+*2024-11-26 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203770) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka restructuring international sovereign bonds: New bonds replace existing ones, $12.5B shortage addressed. Bondholders have 3 weeks to exchange. IMF approval sought. Goal: Economic recovery through debt restructuring.
+
+🟩
+
+The Ministry of Finance announced that Sri Lanka's international sovereignty in Sri Lanka will be launched through new bonds for existing bonds.
+
+At least the shortage of bonds that were scarce was $ 12.55 billion and the bonds will be restructured.
+
+Cabinet spokesperson Minister Nalinda Jayatissa said Cabinet spokesman Nalinda Jayatissa said that the cabinet was approved for the process.
+
+Bond-to-owned bond parties have been given three weeks to exchange their bonds with new bonds.
+
+Sri Lanka has requested the bond owners to join the exchange process.
+
+The Ministry of Finance stated that the Ministry of Finance has discussed the unique facts in new tools.
+
+The purpose was that all parties would make this process as best for all parties.
+
+Policy agreement with two bond station was reached on September 19, 2024. One of the party comprises international investors and the other party consists of local financial institutions.
+
+...
+
+[Data](articles/db4f8108.json)
+
+[Extended Data](ext_articles/db4f8108.ext.json)
 
 ---
 
@@ -119,6 +343,8 @@ Myanmar has been in turmoil since the military deposed Aung San Suu Kyi’s elec
 ...
 
 [Data](articles/8e5ee8cc.json)
+
+[Extended Data](ext_articles/8e5ee8cc.ext.json)
 
 ---
 
@@ -506,35 +732,57 @@ Human Rights Watch said in a statement that in his election manifesto, Dissanaya
 
 ---
 
-### மின் கட்டணத்தை குறைக்கும் பிரேரணையை காலம் தாழ்த்தி வருவது அரசாங்கத்தின் தீர்மானமா ?  -  ஐ.தே.க. கேள்வி
+### Is the government's decision to delay the proposal to reduce electricity tariffs?- UNP. Question
 
 *2024-11-26 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199749) · `ta`
 
-மின்சாரசபை இலாபமீட்டும்போது அதற்கு இணையாக மின்சார கட்டண சூத்திரத்துக்கு அமைய  கட்டண திருத்தம் மேற்கொள்வது மின்சாரசபையின் பொறுப்பு. அவ்வாறு இருந்தும் மின்சாரசபை இந்த மின் கட்டண குறைப்பு தொடர்பான தீர்மானத்தை தாமதித்து  வருவது அரசாங்கத்தின் தீர்மானமா என்ற கேள்வி எழுகிறது என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் சமன் ரத்னப்பிரிய தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணி காரியாலயத்தில் செவ்வாய்க்கிழமை (26) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
 
-இலங்கை மின்சாரசபைக்கு கிடைக்கப்பெறும் இலாபத்தின் அடிப்படையில் அதன் ஊழியர்களுக்கு போனஸ் காெடுப்பனவு வழங்கப்பவேண்டும். ஆனால் மின்சாரசபை நிர்வாகம் அதன் ஊழியர்களுக்கான போனஸ் கொடுப்பனவை வழங்காமல் இருப்பதற்கான நடவடிக்கை எடுத்துவருவதாகவே தெரியவருகிறது. ஊழியர்களுக்கு வழங்கப்பட வேண்டிய போனஸ் கொடுப்பனவை வழங்க வேண்டும் என்ற கோரிக்கையை நாங்கள் முன்வைக்கிறோம்.
+
+Government delays reducing electricity tariffs despite Electricity Board's profitability. Public Utilities Commission requests proposal by December. If not received, commission plans to reduce tariffs based on board's profits. Former UNP parliamentarian Saman Ratnapriya criticizes delay, emphasizing Electricity Board's responsibility to amend electricity bills when profitable.
+
+🟩
+
+When the Electricity Board is profitable, it is the responsibility of the Electricity Board to make amendment to the electricity bill.. Former United National Party (UNP) parliamentarian Saman Ratnapriya said the question is whether the government's decision to delay the resolution on this electricity tariff reduction.
+
+He was speaking at a press conference held at the New Democratic Front office in Colombo on Tuesday (26).
+
+Based on its employees on the basis of profit from the Ceylon Electricity Board. But it is reported that the Electricity Board is taking steps to not pay the bonus allowance for its employees. We make a demand for the bonus allowance to be paid to the employees.
+
+Similarly, the electricity tariff must be reduced in parallel with the profit that the Electricity Board receives. Even though the Public Utilities Commission has asked the Electricity Board on the reduction of electricity tariffs. It is seen that the Electricity Board is delaying the delivery of it.
 
 ...
 
 [Data](articles/f2682f82.json)
 
+[Extended Data](ext_articles/f2682f82.ext.json)
+
 ---
 
-### ජනපති ඉන්දියා හා චීන සංචාරයකට
+### President to visit India and Chinese
 
 *2024-11-26 17:54:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියා-හා-චීන-සංචාරයකට/11-413291) · `si`
 
-ඉන්දීය රජයේ මෙන්ම චීන රජයේ නිල ආරාධනා අනුව ජනපති අනුර කුමාර දිසානායක මහතා ඉදිරියේදී එම රටවල් දෙකේ නිල සංචාර සිදුකරනු ඇති බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+Here's a summary in 200 characters:
 
-මේ අනුව ජනපතිවරයා මුලින්ම ඉන්දියාවේ සංචාරයක නිරත වෙනු ඇති බවත් බොහෝ දුරට එම සංචාරය දෙසැම්බර් තෙවැනි සතියේදී සිදු වෙනු ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
 
-චීන සංචාරය සඳහා චීන තානාපති කාර්යාලය විසින් නිල ආරාධනාවක් සිදුකර ඇතැයිද අමාත්‍යවරයා පැවැසීය.
+
+Pres. Anura Kumara Dissanayake to visit India & China. Indian trip likely in Dec 3rd week. Chinese embassy invited for China visit.
+
+🟩
+
+Cabinet spokesman Minister Nalinda Jayatissa said President Anura Kumara Dissanayake will carry out official visits in the future.
+
+Accordingly, the President first visits India and the most likely trip will take place in December-third week.
+
+The Minister said that the Chinese embassy was officially invited by the Chinese embassy for China.
 
 ◼️
 
 [Data](articles/db5b170f.json)
+
+[Extended Data](ext_articles/db5b170f.ext.json)
 
 ---
 
@@ -2239,217 +2487,5 @@ Jaishankar visited Sri Lanka in October after the National People’s Power (NPP
 [Data](articles/ffdfacb2.json)
 
 [Extended Data](ext_articles/ffdfacb2.ext.json)
-
----
-
-### Supplementary estimate for essential expenses to be tabled in Parliament
-
-*2024-11-26 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103773/supplementary-estimate-for-essential-expenses-to-be-tabled-in-parliament) · `en`
-
-The necessary provisions for incurring and accounting for certain essential expenses in the coming period of the year 2024 should be made through a Supplementary Estimate, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said during the today’s Cabinet press conference.
-
-The Minister highlighted that accordingly, certain identified expenses can be made through provision adjustments within the approved expenditure estimate for 2024, and the relevant adjustments can be made without exceeding the overall expenditure limits approved by the Appropriation Act for the year 2024 and without affecting the maximum borrowing limit of the government.
-
-Thus, the Cabinet of Ministers has approved the proposal made by the President, in his capacity as the Minister of Finance, Planning and Economic Development, to submit to Parliament, by way of a resolution, a Supplementary Estimate of Rs. 219,373 million for the following purposes:
-
-...
-
-[Data](articles/98ead21c.json)
-
-[Extended Data](ext_articles/98ead21c.ext.json)
-
----
-
-### Archae
-
-*2024-11-26 11:42:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-பிடியாணை/175-347791) · `ta`
-
-Colombo Additional Magistrate Manjula Ratnayake orders warrant for MP Archana Ramanathan's failure to appear in court.
-
-🟩
-
-Yall. Colombo Additional Magistrate Manjula Ratnayake today (26) has ordered the issuance of District Independent Parliamentarian Dr. Archana Ramanathan.
-
-Archana Ramanathan MP has been issued a warrant for not appearing in court.
-
-◼️
-
-[Data](articles/ae7bc12d.json)
-
-[Extended Data](ext_articles/ae7bc12d.ext.json)
-
----
-
-### Sri Lanka examining Adani projects, reports sought: Minister
-
-*2024-11-26 11:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-examining-adani-projects-reports-sought-minister-189895/) · `en`
-
-ECONOMYEXT  – Sri Lanka’s government has called for reports on India’s Adani projects in the island, and is taking the matter seriously, Media Minister Nalinda Jayatissa said, in the wake of charges being filed in the US alleging bribery.
-
-The Finance Ministry and Foreign Ministry is inquiring in to the matter, he told reporters Colombo Tuesday.
-
-Adani has a wind project, a transmission and a port terminal joint venture with Sri Lanka’s John Keells Holdings and Sri Lanka Ports Authority.
-
-“Reports from relevant ministries have been called,” Minister Jayatissa said.
-
-RELATED Adani charged in US over renewable energy bribery amid Sri Lanka troubles
-
-The US Department of Justice and Securities and Exchange Commission filed charges alleging bribery in getting approval for renewable plant in India which were part financed by US investors. (Colombo/Nov25/2024)
-
-◼️
-
-[Data](articles/d5b872d7.json)
-
-[Extended Data](ext_articles/d5b872d7.ext.json)
-
----
-
-### Mullaitivu - Heavy rain in Pudukkudiyiruppu;Public damage to floods
-
-*2024-11-26 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199704) · `ta`
-
-Heavy rainfall in Mullaitivu's Pudukkudiyiruppu causes flooding, disrupting trade and travel. Flood warnings issued due to ongoing storms.
-
-🟩
-
-Mullaitivu - Pudukkudiyiruppu area is continuously raining due to heavy rains.
-
-It has been raining for the past three days in Pudukkudiyiruppu.As a result, traders in the area face huge difficulties without being able to engage in daily activities.
-
-Pudukkudiyiruppu has been flooded and flooding into homes has been affected by travelers and traders.
-
-It is also worth noting that the Disaster Management Unit has issued a flood hazard warning due to continuous thunderstorms in the North and East.
-
-◼️
-
-[Data](articles/542116d5.json)
-
-[Extended Data](ext_articles/542116d5.ext.json)
-
----
-
-### Central Bank bond scam: Notice issued on ex-CBSL chief Arjuna Mahendran
-
-*2024-11-26 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103772/central-bank-bond-scam-notice-issued-on-ex-cbsl-chief-arjuna-mahendran) · `en`
-
-The Colombo Magistrate’s Court has issued notice on former Governor of the Central Bank of Sri Lanka (CBSL) Arjuna Mahendran to appear before the court on 25 February 2025 over a case filed by the Bribery Commission pertaining to the controversial bond issue in 2015.
-
-The case has been filed over the alleged misappropriation of bonds causing a loss of over Rs. 10 billion to the government of Sri Lanka in 2015.
-
-Colombo Magistrate Thilina Gamage issued this order today (26) after considering a request made by the Bribery Commission.
-
-◼️
-
-[Data](articles/8120d4f0.json)
-
-[Extended Data](ext_articles/8120d4f0.ext.json)
-
----
-
-### Cabinet approval to restructure international sovereignties in Sri Lanka
-
-*2024-11-26 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203750) · `si`
-
-Sri Lanka cabinet approves restructuring international sovereignty. Agreement reached with bilateral lenders on bond exchange by September 2024. Impact on economy discussed. New bonds to be submitted by 2032, aligned with IMF parameters.
-
-🟩
-
-Cabinet has approved a proposal made by Hon. President Anura Kumara Dissanayake, Minister of Finance, Planning and Economic Development to restructure international sovereignty in Sri Lanka.
-
-Deputy Minister of Labor and Economic Development Prof. Anil Jayantha Fernando, joining the Cabinet Decision informed today (25).
-
-Accordingly, in September 2024, the Deputy Minister of International Investors representatives of the International Investors Agent, a group of organized bonds, and the unity of the local bond owners of Sri Lanka and the unity of Sri Lanka's united discussions with the unity of Sri Lanka and the unity of Sri Lanka's united discussions were held.Said.
-
-"The negotiations with bilateral lenders had come to some agreement by June. However, it was delayed because of the complexity of sovereign bonds. In September, however, we were able to agree with bonds exchange.
-
-...
-
-[Data](articles/b5588ca0.json)
-
-[Extended Data](ext_articles/b5588ca0.ext.json)
-
----
-
-### A person with an electricity feker is killed
-
-*2024-11-26 11:33:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ස්ත්‍රික්කයකින්-පහරදි-පුද්ගලයෙක්-ඝාතනය-කරයි/11-413273) · `si`
-
-Person electrocuted while trying to store electrical items without permission. Police investigating. Suspect fled but will be caught.
-
-🟩
-
-Maharagama Police said that a person who had not allowed to shelter electrical appliances in Pannipitiya Owansa.
-
-The deceased has been identified as Dayasiri Dayasiri, a resident of Yanagama home, Dianesiri, a resident of Pannipiri, 752.
-
-A resident of a house in a house where a business was conducting an electrical supplementary place, a resident of a householder, has asked for allowing a country bag and demanded permission to the house shelter.
-
-However, the owner is unwilling to leave the place and asked for once again and again to accommodate it after again. Initial investigations have revealed that the two had been ingested between the two and later seriously injured the death of the deceased.
-
-The injured were later admitted to the Homagama Base Hospital after being admitted to the Homagama Base Hospital.
-
-Meanwhile, the Nugegoda Divisional Criminal Officers and the Magistrate have also commenced on location investigations.
-
-...
-
-[Data](articles/4a6d5135.json)
-
-[Extended Data](ext_articles/4a6d5135.ext.json)
-
----
-
-### Allow Heroes Day
-
-*2024-11-26 11:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-தினத்தை-அனுஷ்டிக்க-அனுமதி/175-347789) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Allow Heroes Day" event restrictions: Public Security Minister Ananda Wijebala warns against displaying LTTE symbols, uniforms, or images. The government allows remembering fallen relatives but emphasizes compliance with laws and avoiding terrorist connections.
-
-🟩
-
-Public Security Minister Ananda Wijebala said that although the people in the North have been allowed to observe tomorrow, the banned organization should avoid visualizing the LTTE logics, uniforms and images.
-
-The minister said the government would not prevent the recall of their relations that had died during the country's civil war.
-
-However, he stressed that such a memoir should comply with the rules of law and avoid any connection with the banned terrorist group.
-
-"The LTTE is a appointed terrorist organization, and on November 27, there is no permission to showcase their identities, uniforms or pictures of their members during the Heroes' Day," he said.
-
-The Minister also pointed out that some groups have sought to re -interpret the past commemoration of the LTTE.
-
-He urged the public to respect the right to commemorate both and the country's legal structure and conduct memories within the limits of the law.
-
-...
-
-[Data](articles/9a394cdd.json)
-
-[Extended Data](ext_articles/9a394cdd.ext.json)
-
----
-
-### President invites the President
-
-*2024-11-26 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203749) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake invited to China. Scheduled India visit third week of month. Dates undecided. Chinese embassy invited to Sri Lanka.
-
-🟩
-
-Cabinet spokesman Dr. Nalinda Jayatissa says that President Anura Kumara Dissanayake has been invited to visit China.
-
-He said that the President is scheduled to visit India for about the third week of the month.
-
-Dr. Jayatissa said that the dates on the tour had not yet been decided.
-
-Chinese embassy in Sri Lanka was invited to visit Chinese.
-
-◼️
-
-[Data](articles/c358d301.json)
-
-[Extended Data](ext_articles/c358d301.ext.json)
 
 ---

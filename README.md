@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 21:26:30**
+As of **2024-11-26 21:01:38**
 
 ## Newspaper Stats
 
-*Scraped **57,057** Articles*
+*Scraped **57,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,63 +20,27 @@ adalk | 5,379
 adaderanalk | 6,906
 tamilmirrorlk | 8,116
 virakesarilk | 9,298
-adaderanasinhalalk | 9,858
+adaderanasinhalalk | 9,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,049 (100.0%) of 57,057 articles have been extended.
+57,042 (100.0%) of 57,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### Nine students and nine students caught by a sudden bear - save two of them
-
-*2024-11-26 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203774) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Nine students (ages 12-16) went missing after a bear attack near Kabethavan junction while traveling from Tractor Junction. Seven were schoolchildren from Nindowur Madrasara School. Two were saved.
-
-🟩
-
-Nine schoolchildren, including seven school children who were traveling from the schools, have been disappeared.
-
-It is reported that children aged between the ages of 12 and 16 are reportedly dangerous.
-
-Students studying at the Nindowur Madrasara School are facing the accident near the Kabethavan junction while traveling from the tractor junction.
-
-◼️
-
-[Data](articles/cc759f5f.json)
-
-[Extended Data](ext_articles/cc759f5f.ext.json)
-
----
-
-### Emergency Notification…
+### அவசர அறிவித்தல்…
 
 *2024-11-26 20:30:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அறிவித்தல்/175-347822) · `ta`
 
-Here's a summary of the emergency notification in 200 characters:
-
-
-
-"Kalmunai Ashraf Memorial Hospital flooded. Emergency services on site. Patients and staff evacuated. Cause of flooding under investigation."
-
-🟩
-
-Floods have been flooded into the Kalmunai Ashraf Memorial Hospital.
+கல்முனை அஷ்ரஃப் ஞாபகார்த்த வைத்தியசாலைக்குள் (AMH) வெள்ளம் புகுந்துவிட்டது தயவு செய்து பொதுப்பணியாளர்கள் உதவிக்கு வருமாறு சமூக ஊடகங்கள் வழியாக அழைப்பு விடுக்கப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/8dbc4d93.json)
-
-[Extended Data](ext_articles/8dbc4d93.ext.json)
 
 ---
 
@@ -102,53 +66,31 @@ Dr. Nihal Abeysinghe, Secretary General of the National Power and Kalutara Distr
 
 ---
 
-### Tombstone road damage
+### கல்லரிச்சல் வீதி சேதம்
 
 *2024-11-26 20:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்லரிச்சல்-வீதி-சேதம்/175-347821) · `ta`
-
-Here's a summary of "Tombstone road damage" in approximately 200 characters:
-
-
-
-"Tombstone road damage refers to the deterioration of roads in Tombstone, Arizona. The town's main thoroughfare, Allen Street, has experienced potholes, uneven surfaces, and cracked pavement. Residents and tourists alike have complained about the poor road conditions, which can be hazardous for vehicles and pedestrians. The town council has acknowledged the issue and plans to address it through repairs and maintenance."
-
-🟩
 
 ◼️
 
 [Data](articles/ae54a05a.json)
 
-[Extended Data](ext_articles/ae54a05a.ext.json)
-
 ---
 
-### Bengal storm crosses the shore in the east
+### பெங்கால் புயல் கிழக்கில் கரையை கடக்கும்
 
 *2024-11-26 20:02:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெங்கால்-புயல்-கிழக்கில்-கரையை-கடக்கும்/175-347820) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+பெங்கால் (Fengal) எனப் பெயரிடப்பட்டுள்ள புயல், இன்று (26) இரவு அல்லது நாளை (27) காலை புயலாக மாறும். இது கிழக்கில் கரையை கடக்கும்.
 
+தென் கிழக்கு வங்காள விரிகுடாவில் உருவாகிய ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம் தற்போது அம்பாறைக்கு கிழக்காக 82 கி.மீ. தொலைவில் நிலை கொண்டுள்ளது.
 
+இது இன்று (26) இரவு அல்லது நாளை (27) காலை புயலாக மாறும். புயலாக மாறும் பெங்கால்  அதி வேகத்துடன் கரையை கடக்கும் என எதிர்பார்க்கப்படுகிறது.
 
-Bengal storm intensifies, crossing eastern coast soon. Heavy rains forecast for Northern & Eastern Provinces. Floods possible in low-lying areas. Strong winds expected, reaching 80 km/h. Avoid sea travel. Safety precautions advised due to potential severe impacts.
-
-🟩
-
-The storm named Bengal will become a storm tonight (26) or tomorrow (27) morning. It will cross the shore in the east.
-
-82 km east of Amparai is now 82 km / h.. The distance is in position.
-
-It turns out today (26) night or tomorrow (27) morning storm. Bengal is expected to cross the shore with high speeds.
-
-The heavy rains that are currently available to the Northern and Eastern Provinces will still increase. As already noted. Today and tomorrow the North and Eastern Provinces get the most heavy rainfall. The heavy rainfall in the Jaffna district, especially in particular, will continue.Heavy rains will continue for Trincomalee, Batticaloa, Mullaitivu, Kilinochchi and Mannar districts.
-
-Flood disasters have the opportunity for many areas of the Northern and Eastern Provinces, the lower parts of the ponds, and many other areas near the river.. Many ponds have started to van. Heavy rainfall is also getting. Considering that the chances of flood disaster are on the rise.
+வடக்கு மற்றும் கிழக்கு மாகாணங்களுக்கு தற்போது கிடைத்து வரும் கனமழை இன்னமும் அதிகரிக்கும். ஏற்கனவே குறிப்பிட்டது போன்று இந்த ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம் மந்தமான வேகத்தில் நகர்வதால் இதன் பாதிப்புக்கள் எதிர்பார்த்ததை விட கூடுதலாக இருக்கும். இன்றும் நாளையும் வடக்கு மற்றும் கிழக்கு மாகாணங்களுக்கு மிக மிக கனமழை கிடைக்கும். குறிப்பாக யாழ்ப்பாண மாவட்டத்திற்கு தற்போது கிடைக்கும் மிக கன மழை தொடரும்.  திருகோணமலை , மட்டக்களப்பு, முல்லைத்தீவு, கிளிநொச்சி ,மன்னார் மாவட்டத்திற்கும் கனமழை தொடரும்.
 
 ...
 
 [Data](articles/2ad7c1e6.json)
-
-[Extended Data](ext_articles/2ad7c1e6.ext.json)
 
 ---
 
@@ -272,25 +214,19 @@ Manampitiya-Maha Oya Road connects the towns of Manampitiya and Maha Oya in Sri 
 
 ---
 
-### A / L examination 27,28, and 29
+### උසස් පෙළ විභාගය 27,28,  හා 29  නොපැවැත්වේ
 
 *2024-11-26 19:22:44* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විභාගය-27-28---හා-29--නොපැවැත්වේ/11-413296) · `si`
 
-GCE A/L exams suspended 27-29 due to bad weather. Rescheduled for Dec 21 & 23, maintaining original timing.
+අයහපත් කාළගුණය හේතුවෙන් දැනට පැවැත්වෙන අ.පො.ස උසස් පෙළ විභාගය ඉදිරි දින තුනේ තාවකාලිකව අත්හිටුවීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
 
-🟩
+ඒ අනුව හෙට( 27) , 28 සහ 29 යන තෙදින අ.පො.ස උසස් පෙළ විභාගයට නියමිත විෂයන් එම දිනවල  නොපැවැත්වෙන බව  විභාග කොමසාරිස් ජනරාල් එච්.ජේ.එම්.සී. අමිත් ජයසුන්දර මහතා පවසයි.
 
-The Department of Examinations has decided to suspend the GCE Advanced Level Examination in the next three days due to the bad weather.
-
-Accordingly, the A / L examination subject to A / L examination will not be held tomorrow (27), 28 and 29. Amit Jayasundara says
-
-The examination will be held on December 21 and 29, the examination will be held on the 21st and 23 of the end of the time of the existing schedule and will be the examination.Issuing a press release issued.
+නැවතත් 30 දා විභාගය ආරම්භ කර එදින සිට දැනට ඇති කාලසටහනට  අනුව සාමාන්‍ය පරිදි විභාගය පවත්වන බවත් විභාගය නොපවත්වන  27,28,සහ 29 දිනවලට අදාළ විෂයන් දෙසැම්බර් 21 ,22 සහ 23 දිනවල පවත්වන අතර ඒ සඳහා නියමිත සංශෝධිත  කාල සටහන ඉදිරියේදී නිකුත් කරන බවත් විභාග කොමසාරිස් ජනරාල්වරයා මාධ්‍ය නිවේදනයක් නිකුත් කරමින් පවසයි.
 
 ◼️
 
 [Data](articles/d7105e84.json)
-
-[Extended Data](ext_articles/d7105e84.ext.json)
 
 ---
 
@@ -850,61 +786,41 @@ The Minister said that the Chinese embassy was officially invited by the Chinese
 
 ---
 
-### Missing man in Batticaloa: 522 migration;Opening of the air doors of the ponds!
+### மட்டக்களப்பில் வெள்ளத்தில் அடித்துச் செல்லப்பட்ட நபரை காணவில்லை : 522 பேர் இடம்பெயர்வு ; குளங்களின் வான் கதவுகள் திறப்பு !
 
 *2024-11-26 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199745) · `ta`
 
-Batticaloa floods: 1 missing, 522 displaced due to heavy rains and pond openings. Traffic disruptions reported.
+சீரற்ற வானிலை காரணமாக மட்டக்களப்பில் வெள்ள நீரினால் ஒருவர் அடித்துச் செல்லப்பட்டுள்ளதுடன் வெள்ளத்தினால் 161 குடும்பங்களைச் சேர்ந்த 522 பேர் உறவினர் வீடுகளில் தஞ்சமடைந்துள்ளனர்.
 
-🟩
+குளங்களின் வான்கதவுகள் திறக்கப்பட்டுள்ளதால் பல பிரதேசங்களுக்கான போக்குவரத்து துண்டிக்கப்பட்டுள்ள நிலையில், பல பிரதேசங்கள் வெள்ளக்காடாக காட்சியளிக்க்கின்றன.
 
-Due to inclement weather, one person has been hit by flood waters in Batticaloa and 522 people from 161 families have taken refuge in relatives' homes.
+இந்த தொடர் மழையினால் மாவட்டதிலுள்ள பல தாழ்நில பிரதேசங்களில் வெள்ள நீர்  வீடுகளுக்குள் புகுந்துள்ளதுடன் பல பிரதேசங்களில் வீதிகளில் உள்ள பல மரங்கள் முறிந்து வீழ்ந்துள்ளன.
 
-Due to the opening of the ponds, many areas have been flooded with traffic to many areas.
+இந்த வெள்ளத்தினால் பட்டிப்பளை, காத்தான்குடி, கோரளைப்பற்று கிரான், மண்முனை வடக்கு, ஏறாவூர்பற்று செங்கலடி, பிரதேச செயலகப் பிரிவிலுள்ள 161 குடும்பங்களைச் சேர்ந்த 522 பேர் வெள்ளத்தினால் பாதிக்கப்பட்டு வீடுகளைவிட்டு வெளியேறி உறவினர் வீடுகளில் தஞ்சமடைந்துள்ளனர்.
 
-Due to this heavy rains, many low -lying areas in the district have caused flood waters and many trees in the streets in many areas.
+அதேவேளை வெள்ளத்தினால் வெல்லாவெளிக்கும் மண்டூருக்கும் இடையிலான போக்குவரத்து மற்று வவுணதீவுக்கும் மட்டக்களப்பு நகருக்கும் இடையிலான போக்குவரத்தும் கிரானுக்கும் புலிபாய்ந்தகல் பிரதேசத்துக்கும் இடையிலான போக்குவரத்தும் துண்டிக்கப்பட்டுள்ளது.
 
-The floods have been affected by the floods and 522 people from 161 families in the Sengaladi and Divisional Secretariat Division have been flooded and taken to relatives' houses.
-
-Meanwhile, the traffic between the floods and the traffic between Mandur and the city of Batticaloa and the city of Batticaloa has been cut off.
-
-He has disappeared when a man who tried to cross the road was flooded with a flooding of 4 feet of flooding, closing the road over the main tambourine of Mandur.
-
-◼️
+...
 
 [Data](articles/c1a20810.json)
 
-[Extended Data](ext_articles/c1a20810.ext.json)
-
 ---
 
-### Selvam Avadakkalanathan MP to release the lands of the people of Mannar district. Emergency letter
+### மன்னார் மாவட்டத்தில் படையினர் வசம் உள்ள மக்களின் காணிகளை விடுவிக்க ஜனாதிபதிக்கு செல்வம் அடைக்கலநாதன் எம்.பி. அவசர கடிதம்
 
 *2024-11-26 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199762) · `ta`
 
-Here's a summary of 200 characters:
+மன்னார் மாவட்டத்தில் படையினர் வசம் காணப்படும் பொது மக்களுக்கு சொந்தமான காணிகளை மீள  கையளிக்க கோரி  வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் செல்வம் செவ்வாய்க்கிழமை(26) ஜனாதிபதி அநுரகுமார திஸாநாயக்க விற்கு அவசர கடிதம் ஒன்றை அனுப்பி வைத்துள்ளார்.
 
+மன்னார் மாவட்டத்தில் உள்ள முள்ளிக்குளம், தலைமன்னார் பியர் பள்ளிமுனை, வங்காலை ஆகிய கிராமங்களில் கடற்படையினரால் ஆக்கிரமிக்கப்பட்ட மக்களின் காணிகள் இன்னும் அவர்களிடம் இருந்து மக்களுக்கு கை அளிக்க முடியாத நிலையில் உள்ளன.
 
+குறிப்பாக  முள்ளிக் குளத்திலுள்ள மக்களின் விளை நிலங்கள் மற்றும் குடியிருப்புக் காணிகள், தலைமன்னார் பியரில்  உள்ள சத சகாய  அன்னையின்  கிறிஸ்தவ தேவாலயத்திற்கு சொந்தமான காணிகள், வங்காலை நானாட்டான் வீதியின் ஓரத்தில் உள்ள தனிநபர்களின் காணிகள் மற்றும் பள்ளி முனையில் குடியிருப்புக் காணிகள் ஆகியவை விடுவிக்கப்படாமல் உள்ளது.
 
-Selvam Avadakkalanathan MP demands land return in Mannar district. Navy occupies lands in Mullikulam, Thalaikulam, Talaimannar, and Bengal. Residents evicted in 2007. 100 acres released in 2016, but 900 acres remain occupied. Naval HQ prevents full release. Catholic church land used for worship. Residents urge freedom to live on their lands.
-
-🟩
-
-Vanni district parliamentarian Selvam on Tuesday (26) has sent an urgent letter to President Anura Kumara Dissanayake demanding the return of land belonging to the public in Mannar district.
-
-The lands occupied by the Navy in the villages of Mullikulam, Thalaikulam in Mannar district, Talaimannar Pierre Pallimunai and Bengal are still unable to hand over the people from them.
-
-In particular, the lands and residential lands of the people in the Mullik pond, the land belonging to the Christian church of the Satha Sabha Mother in Talaimannar Pierre, the lands of individuals along the Bengal Nanatan road, and residential lands on the school.
-
-They were evicted from the village on September 7, 2007 in Mullikkulam.
-
-Release 100 acres in 2016. There is also 900 acres (including agricultural lands and residential lands with 04 ponds).
+முள்ளிக்குளத்தில் 2007 ஆம் ஆண்டு செப்டம்பர் மாதம் 7ஆம் திகதி இக் கிராமத்தில் இருந்து இம்மக்கள் வெளியேற்றப்பட்டனர்.
 
 ...
 
 [Data](articles/a4579119.json)
-
-[Extended Data](ext_articles/a4579119.ext.json)
 
 ---
 
@@ -2551,5 +2467,25 @@ Meanwhile, the Disaster Management Center (DMC) said that five families have bee
 [Data](articles/ebf0fc54.json)
 
 [Extended Data](ext_articles/ebf0fc54.ext.json)
+
+---
+
+### President Dissanayake to visit India on first foreign trip
+
+*2024-11-26 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103774/president-dissanayake-to-visit-india-on-first-foreign-trip) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake will undertake an official visit to India during the third week of December on an invitation by the Indian government.
+
+This was confirmed by the Cabinet spokesman, Minister Dr. Nalinda Jayatissa during the Cabinet press conference held today (26).
+
+Minister of Foreign Affairs Vijitha Herath had previously stated that Dissanayake will call on India’s Prime Minister Narendra Modi and External Affairs Minister S Jaishankar, who became the first foreign dignitary to call on Dissanayake when he was elected President in September and had extended the invitation.
+
+Jaishankar visited Sri Lanka in October after the National People’s Power (NPP) government led by Dissanayake came to power on September 23.
+
+...
+
+[Data](articles/ffdfacb2.json)
+
+[Extended Data](ext_articles/ffdfacb2.ext.json)
 
 ---

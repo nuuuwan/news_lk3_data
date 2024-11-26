@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 14:42:17**
+As of **2024-11-26 15:25:56**
 
 ## Newspaper Stats
 
-*Scraped **56,976** Articles*
+*Scraped **56,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,156 @@ economynextcom | 3,454
 dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,363
-adaderanalk | 6,890
+adaderanalk | 6,893
 tamilmirrorlk | 8,103
 virakesarilk | 9,284
-adaderanasinhalalk | 9,839
+adaderanasinhalalk | 9,842
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,969 (100.0%) of 56,976 articles have been extended.
+56,975 (100.0%) of 56,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### நுவரெலியாவில் அடை மழை ; விவசாய நிலங்கள், வீடுகளில் புகுந்த வெள்ளம் ;  பரீட்சார்த்திகளுக்கு விசேட ஏற்பாடு
+### No decision to ban tuition classes - Cabinet Spokesman
 
-*2024-11-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199711) · `ta`
+*2024-11-26 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103778/no-decision-to-ban-tuition-classes-cabinetspokesman) · `en`
 
-நாட்டில் கடந்த இரு தினங்களாக மலையக பிரதேசங்களிலும் கடுமையான மழை, பலத்த காற்று நிலவி வருகிறது. நேற்று திங்கட்கிழமை (25) இரவு முதல் தொடர்ச்சியாக பெய்துவரும் தொடர் மழை காரணமாக தாழ்நிலைப் பிரதேசங்களில் வாழும் மக்கள் வெகுவாக பாதிக்கப்பட்டுள்ளனர்.
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa clarified that no decision has been taken to ban tuition classes in the country.
 
-குறிப்பாக நுவரெலியா மாவட்டத்தில் கந்தப்பளை, ஹைபொரஸ்ட், பம்பரகலை மற்றும்  நானுஓயா பகுதிகளில் கடும் மழை பெய்வதால் பெருமளவான மரக்கறி தோட்டங்கள் நீரில் மூழ்கி நாசமாயின.
+Speaking at the Cabinet press conference held today (26), the minister emphasized that significant reforms are needed to be implemented in the education sector as part of a comprehensive overhaul.
 
-அத்தோடு, அப்பிரதேசங்களில் அமைந்துள்ள வீடுகளில் வெள்ள நீர் உட்புகுந்ததோடு, சிறு சிறு மண்சரிவு அனர்த்தங்களும் ஏற்பட்டுள்ளன.
+He further noted that the election manifesto of the National People’s Power (NPP) outlines plans for the modernization and expansion of education.
 
-கோர்ட்லோட்ஜ் சந்தி மற்றும் புதிய வீதி தொகுதியில் பல பகுதிகள் வெள்ளத்தில் மூழ்கியதால் நுவரெலியா - உடப்புசல்லாவ பிரதான வீதியில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+The minister stated that after formal discussions, a comprehensive review of the examination system will be carried out.
 
-அத்துடன் நுவரெலியா - இராகலை பிரதான வீதியும் வாகனங்கள் செல்ல முடியாதவாறு நீரில் மூழ்கியதால் போக்குவரத்துக்கு தடை ஏற்பட்டுள்ளது.
+He assured that the government is approaching changes in the education sector with due diligence and that a final decision will be made only after consultations with all relevant stakeholders.
+
+◼️
+
+[Data](articles/883e4dd9.json)
+
+[Extended Data](ext_articles/883e4dd9.ext.json)
+
+---
+
+### The water level of 73 reservoirs over 65 percent
+
+*2024-11-26 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203758) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+73 reservoirs exceed 65% water capacity due to heavy rains. 23 out of 73 reservoirs are spilling. Major tanks in Hambantota, Galle, Kandy, Kurunegala districts report over 80% capacity. Department warns public living in lowlands near overflowing reservoirs.
+
+🟩
+
+The water level of 73 reservoirs across the country has exceeded 65% over the country.
+
+In a statement, the department said that the sluice gates of several reservoirs have been opened due to heavy rains.
+
+As a result, 23 out of 73 reservoirs in the country and many medium-sized tanks are already spilling.
+
+The water capacity of the reservoirs in Ampara, Anuradhapura, Badulla and Batticaloa districts have reported over 50%.
+
+More than 80% of over 80% of the water capacity has been reported in Hambantota, Galle, Kandy, Kurunegala.
+
+Nearly 70% of the water capacity of Polonnaruwa and Puttalam Districts has also been a growth of nearly 45% of the Trincomalee and Mannar Districts.
+
+As a result, the total water capacity of 73 major tanks in the country has exceeded 65%.
+
+Meanwhile, six sluice gates of the Rajanganaya tank of Rajanganaya have been released to the Kala Wewa in the Ampara district.The announcement issued by the department states.
 
 ...
 
+[Data](articles/2942f1b0.json)
+
+[Extended Data](ext_articles/2942f1b0.ext.json)
+
+---
+
+### Rain in Nuwara Eliya;Flooding in agricultural lands and homes;Special arrangement for examiners
+
+*2024-11-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199711) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Heavy rains hit Nuwara Eliya, causing flooding & landslides. Vegetable gardens destroyed. Traffic disrupted on main roads. Disaster Management Center arranges special transport for exams.
+
+🟩
+
+Heavy rains and heavy winds have been in the hill country for the past two days.People living in lowland areas have been severely affected by continuous rains since last night (25).
+
+Heavy rains in Kandapalai, Hyboorast, Bambarakalai and Nanuoya district, especially in the Nuwara Eliya district, have been destroyed by a large number of vegetable gardens.
+
+In addition, floodwaters have been flooded in houses located in the area and there are minor landslides.
+
+Traffic on the Nuwara Eliya - Udappusallawa main road has been affected due to flooding in the Cordlotj junction and many parts of the new road.
+
+Traffic has been blocked due to the inability of the Nuwara Eliya -Iragala main road to be submerged.
+
+The traffic on the Nuwara Eliya -Udappusallawa main road was affected on Tuesday morning (26).
+
+Nuwara Eliya District Government Agent Nandana Kalapoda said that all arrangements have been made through the Disaster Management Center to take students to the examinations to be held today afternoon.
+
+◼️
+
 [Data](articles/115fbb97.json)
+
+[Extended Data](ext_articles/115fbb97.ext.json)
+
+---
+
+### Arrest warrant issued against MP Archchuna Ramanathan
+
+*2024-11-26 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103777/arrest-warrant-issued-against-mp-archchuna-ramanathan-) · `en`
+
+Colombo Additional Magistrate Manjula Ratnayake has ordered the issuance of an arrest warrant against Jaffna District Independent Member of Parliament Archchuna Ramanathan, through the Senior Superintendent of Police (SSP) in Jaffna.
+
+This order was issued during the hearing of an ongoing case today (26) related to an alleged incident of assaulting an individual after causing a traffic accident on the Baseline Road, Colombo in 2021.
+
+Meanwhile, on November 25, MP Archchuna Ramanathan, who had unintentionally occupied the seat designated for the Leader of the Opposition during the inaugural session of the 10th Parliament, issued an apology for the incident.
+
+The apology was made during a workshop for newly elected Members of Parliament held on November 25. MP Ramanathan explained his actions and expressed regret for the misunderstanding caused by sitting in the Opposition Leader’s designated seat.
+
+◼️
+
+[Data](articles/2338dc39.json)
+
+[Extended Data](ext_articles/2338dc39.ext.json)
+
+---
+
+### Pippa case against Keheliya back to the examination
+
+*2024-11-26 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203757) · `si`
+
+Here's a 200-character summary of the text:
+
+
+
+Pippa case against Keheliya returned to Colombo High Court. Trial before Judge Navasinghe Marasinghe. Further hearings postponed until January 27.
+
+🟩
+
+GIdrated by the Sri Lanka Rupavahini Corporation at a time of Rs.. Former Minister Keheliya Rambukwella and three accused against three accused against the Pipe purchase of Pipe purchase was taken back to the Colombo High Court today (26).
+
+The trial was held before Colombo High Court Judge Navasinghe Marasinghe.
+
+The court ordered to postpone further hearings from January 27.
+
+◼️
+
+[Data](articles/69155f4a.json)
+
+[Extended Data](ext_articles/69155f4a.ext.json)
 
 ---
 
@@ -73,6 +191,38 @@ NDB Investment Bank Limited is the manager and placement agent to the issue. (Co
 [Data](articles/851b6eff.json)
 
 [Extended Data](ext_articles/851b6eff.ext.json)
+
+---
+
+### Latest Notification of Floods in Matara
+
+*2024-11-26 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203756) · `si`
+
+Here's a summary of the floods in Matara in approximately 200 characters:
+
+
+
+Floods hit Matara district due to heavy rainfall. Nilwala River overflowed, affecting 240 families. Heavy rains caused landslides and road closures. 55,416 families impacted overall.
+
+🟩
+
+The minor flood site in the Matara district is now on the road with an existing inclement weather.
+
+The Kirama Ara, the Kirama Ara, the Kirama Ara, the Kirama Ara, the Nilwala River and Nilwala River, was allocated.
+
+The Matara District Disaster Management Unit stated that the water supplied in many roads underwater was recovered from this morning.
+
+The Malimbada Road across the Malimbada road from the Malimbada Wathiyawala road from the Malumbada road in the Malumbada road after the overflow of the Niluwara River, the Malimbada Wathuwala road from the Maliyada Vitiyala road in the Maliyambada road.
+
+Matara District Secretary Ganeasara Amarasinghe said that 240 families in four Divisional Secretariat Divisions in the Matara district have been affected due to this disaster.
+
+The Matara Disaster Management unit has not received significant rainfall since last night from the Nilwala River and its tributaries..
+
+...
+
+[Data](articles/873f26a1.json)
+
+[Extended Data](ext_articles/873f26a1.ext.json)
 
 ---
 
@@ -922,6 +1072,22 @@ Furthermore, the Cabinet Spokesman added that the new government is expected to 
 
 ---
 
+### Cabinet approval to present Vote on Account; 2025 Budget Speech on Feb.17
+
+*2024-11-26 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103770/cabinet-approval-to-present-vote-on-account-2025-budget-speech-on-feb17) · `en`
+
+The 2025 Budget proposal will be presented to the Parliament on January 9, 2025, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa confirmed.
+
+Speaking during the Cabinet press briefing held this morning (26), the Minister stated that the Second Reading of the 2025 Budget (Budget Speech) will take place on February 17, while the debate on the Third Reading will be held from February 27 to March 21.
+
+Furthermore, the Cabinet Spokesman added that the new government is expected to prepare the budget for the year 2025 as a budget that will strengthen the public’s trust in the government and take the initial steps towards the desired development so that the public’s expectations are fulfilled.
+
+...
+
+[Data](articles/8f87e03b.json)
+
+---
+
 ### Trains will only run up to Nanuoya
 
 *2024-11-26 10:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-வரை-மட்டுமே-ரயில்கள்-ஓடும்/76-347786) · `ta`
@@ -970,11 +1136,15 @@ However, Minister Wijepala clarified that there is no restriction on people of t
 
 ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the exchange of new bonds for defaulted sovereign bonds, Deputy Minister of Economic Development Anil Jayantha said.
 
-“The cabinet approved the proposal to issue new bonds in place of the previous bonds,” Jayantha told reporters on Tuesday.
+“The cabinet approved the proposal to for exchanging new bonds for presently existing bonds,” Jayantha told reporters on Tuesday.
 
-Sri Lanka has invited bondholders to tender the old bond by December 12, a government statement said.
+The decision was made within the parameters of the debt sustainability analysis by the International Monetary Fund, he said.
+
+Sri Lanka has invited bondholders to tender the old bonds by December 12, a government statement said.
 
 Sri Lanka is exchanging the new bonds for defaulted bonds of 12.55 billion.
+
+In September, an initial agreement was reached with the international bondholders on restructuring of sovereign debt of 14.2 billion US dollars, after a compromise discussion with the adhoc bondholders, a group of representatives of international investors, and a local consortium of Sri Lanka.
 
 Sri Lanka plans to present its national budget on February 14.
 
@@ -2243,121 +2413,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/d7dae33c.json)
 
 [Extended Data](ext_articles/d7dae33c.ext.json)
-
----
-
-### Representation and devolution continue to be needed
-
-*2024-11-25 22:20:00* · [`islandlk`](http://island.lk/representation-and-devolution-continue-to-be-needed/) · `en`
-
-Delivering his inaugural policy statement to Parliament, President Anura Kumara Dissanayake dealt mostly with the economy and, in particular, the IMF agreement. The problem he faces is that the former government agreed to terms with the IMF that did not consider the impact on the people, but gave priority to meeting fiscal targets. The President acknowledged that the government had no alternative but to continue with it as the country had gone too far down the road to change direction. He said, “The negotiations had already been ongoing for more than two years. If we were to restart discussions on the restructuring programme for an extended period it will be impossible for us to move the economy forward…”
-
-...
-
-[Data](articles/1aa158d9.json)
-
-[Extended Data](ext_articles/1aa158d9.ext.json)
-
----
-
-### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
-
-*2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and shallow sea areas around the island today (25) as a low pressure area intensifies over South-East Bay of Bengal.
-
-The low pressure area over the southwest Bay of Bengal intensified into a depression over the central-southwest Bay of Bengal by this morning.
-
-The system was located about 530 km southeast of Trincomalee at around 11.30 a.m. today. It is likely to move closer to the East coast of the island and intensify into a deep depression during next 24 hours, the advisory said.
-
-Very heavy showers above 150 mm are likely at some places in Northern province and Trincomalee District while heavy showers above 100 mm are likely at some places in Northern, North-central, Central and Uva provinces and in Batticaloa, Ampara district due to the influence of the aforementioned system.
-
-...
-
-[Data](articles/ea71be76.json)
-
-[Extended Data](ext_articles/ea71be76.ext.json)
-
----
-
-### Unique opportunity for fast-tracked social integration, if only…
-
-*2024-11-25 22:17:00* · [`islandlk`](http://island.lk/unique-opportunity-for-fast-tracked-social-integration-if-only/) · `en`
-
-Surely, racism has caused enough damage to us to warrant its erasure from our midst with the condemnation it deserves, without leaving it more room to further flourish in deceptively benign ways. As showcased by the November 14 election results, many Tamils and Muslims, not forgetting Catholics and Hindus, have voted to power the NPP, led by the JVP, which they might have previously labelled, and avoided, as a ‘Sinhalese’ party.
-
-...
-
-[Data](articles/396a7363.json)
-
-[Extended Data](ext_articles/396a7363.ext.json)
-
----
-
-### We are not allowed to legalize illegal visa permit - Goshala Wickremasinghe
-
-*2024-11-25 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199653) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-E8 Visa Agreement controversy: Former Minister illegally signed pact risking Sri Lankan youth jobs. Foreign Employment Bureau cannot validate illegal visas. Probe underway; strict legal action promised against violators.
-
-🟩
-
-The E8 Visa Agreement, which has illegally signed by a minister of the last government, is at risk of unemployment in Sri Lankan youth for over 20 years and more than 20 years.. Bureau Chairman Goshala Wickremasinghe said that the Foreign Employment Bureau could not be able to legalize the illegal visa clearance.
-
-He was speaking to the media about the struggle to be carried out in front of the Sri Lanka Foreign Employment Bureau in Battaramulla.
-
-The E8 Visa is not a method of proper sending people to foreign business. Sri Lanka Foreign Employment Bureau has not allowed private foreign agencies to send workers for seasonal industry in South Korea. If the Bureau is sending workers to foreign business, the bureau must obtain the registration of the Bureau.
-
-...
-
-[Data](articles/3ba3aefe.json)
-
-[Extended Data](ext_articles/3ba3aefe.ext.json)
-
----
-
-### Satyagraha struggle that continues in front of the Foreign Employment Bureau
-
-*2024-11-25 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199662) · `ta`
-
-Sri Lanka: Protesters demand E8 visa for South Korea jobs. Foreign Employment Bureau denies opportunities. Government intervention sought.
-
-🟩
-
-Some people who are looking forward to working for South Korea for South Korea on the E8 visa have been fighting in front of the Sri Lanka Foreign Employment Bureau in Battaramla, saying they have not had the opportunity to go to Korea due to the attention of the authorities.
-
-Minister Vijitha Herath met with some of the protesters last Friday. In the meantime, the E8 Visa said that action would be taken to take the necessary measures to legalize South Korea.
-
-However, the foreign employment work is hiding the opportunities for South Korea, so they are struggling to prolong the time as they have to go to work.
-
-But it is illegal to send to business on E8 visa. The President of the Sri Lanka Foreign Employment Bureau said it could not be allowed. As well as the console is not likely to get a visa without knowing. The Chairman of the Bureau said that there is no truth in reporting that we have got a career opportunity for South Korea.
-
-...
-
-[Data](articles/eacefb51.json)
-
-[Extended Data](ext_articles/eacefb51.ext.json)
-
----
-
-### CEAT develops new original equipment radial tyre for DIMO’s Tata Xenon Yodha
-
-*2024-11-25 22:08:00* · [`islandlk`](http://island.lk/ceat-develops-new-original-equipment-radial-tyre-for-dimos-tata-xenon-yodha/) · `en`
-
-Tata Xenon Yodha single cab pick-up trucks assembled by DIMO will ride on purpose-developed CEAT light truck radial tyres manufactured in Sri Lanka, in a coming together of two performance-driven automotive brands via a significant original equipment (OE) partnership.
-
-With this synergy, CEAT Kelani Holdings has manufactured a new radial tyre for the locally assembled Tata Xenon Yodha by DIMO, to meet the performance specifications of the vehicle, and the high expectations of users.
-
-The CEAT 215/75 R16 WINMILE X3 R tyre is built for Low Hysteresis Loss, reducing the energy loss associated with carbon black reinforced rubber. This results in reduced rolling resistance, less wear and tear and a smoother ride. The use of a high mileage compound and improvements in the footprint shape of the tyre also promise extra mileage.
-
-...
-
-[Data](articles/1feb1848.json)
-
-[Extended Data](ext_articles/1feb1848.ext.json)
 
 ---

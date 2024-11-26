@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 05:50:34**
+As of **2024-11-26 06:47:20**
 
 ## Newspaper Stats
 
-*Scraped **56,883** Articles*
+*Scraped **56,896** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 437
+dbsjeyarajcom | 438
 colombotelegraphcom | 578
 bbccomsinhala | 591
-islandlk | 3,406
+islandlk | 3,418
 economynextcom | 3,448
 dailyftlk | 3,917
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,882 (100.0%) of 56,883 articles have been extended.
+56,883 (100.0%) of 56,896 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -424,6 +424,30 @@ It is noteworthy that the Disaster Management Development Officer is also on dut
 
 ---
 
+### Fusion of Soul and Sound from Galle
+
+*2024-11-25 22:24:00* · [`islandlk`](http://island.lk/fusion-of-soul-and-sound-from-galle/) · `en`
+
+SpeXduo is a talented musical duo hailing from the vibrant coastal city of Galle.
+
+Two passionate artistes, Subodha and Lishan, make up this duo and they combine the power of piano and voice to create a captivating musical experience that resonates deeply with listeners.
+
+Subodha is the skilled pianist, who brings a versatile and dynamic range to their music, while Lishan, the soulful vocalist, complements Subodha’s music with his emotive, powerful voice.
+
+SpeXDuo, who are more into jazz and fusion genres, started out in December 2023.
+
+They have performed at several events and festivals, and have been seen in action at Arcadia Café and Restaurant Negombo.
+
+Their live music, they say, is available for pubs, restaurants, weddings, birthday parties, get-together parties, private parties, or any other special occasion.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/d7dae33c.json)
+
+---
+
 ### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
 
 *2024-11-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103762/red-warning-issued-for-severe-weather-as-low-pressure-area-intensifies-near-sri-lanka) · `en`
@@ -468,6 +492,50 @@ But it is illegal to send to business on E8 visa. The President of the Sri Lanka
 
 ---
 
+### CEAT develops new original equipment radial tyre for DIMO’s Tata Xenon Yodha
+
+*2024-11-25 22:08:00* · [`islandlk`](http://island.lk/ceat-develops-new-original-equipment-radial-tyre-for-dimos-tata-xenon-yodha/) · `en`
+
+Tata Xenon Yodha single cab pick-up trucks assembled by DIMO will ride on purpose-developed CEAT light truck radial tyres manufactured in Sri Lanka, in a coming together of two performance-driven automotive brands via a significant original equipment (OE) partnership.
+
+With this synergy, CEAT Kelani Holdings has manufactured a new radial tyre for the locally assembled Tata Xenon Yodha by DIMO, to meet the performance specifications of the vehicle, and the high expectations of users.
+
+The CEAT 215/75 R16 WINMILE X3 R tyre is built for Low Hysteresis Loss, reducing the energy loss associated with carbon black reinforced rubber. This results in reduced rolling resistance, less wear and tear and a smoother ride. The use of a high mileage compound and improvements in the footprint shape of the tyre also promise extra mileage.
+
+...
+
+[Data](articles/1feb1848.json)
+
+---
+
+### Arpico celebrates festive cheer and togetherness with Christmas cake preparation ceremony
+
+*2024-11-25 22:06:00* · [`islandlk`](http://island.lk/arpico-celebrates-festive-cheer-and-togetherness-with-christmas-cake-preparation-ceremony/) · `en`
+
+As Christmas festivities approach, Arpico is delighted to offer a slice of holiday magic with the recently held Christmas cake preparation ceremony. The event celebrated the spirit of Christmas by bringing friends and family together for a celebration of love and joy.
+
+Arpico invited customers to participate in a joyful hands-on experience of traditional cake mixing to prepare Arpico’s signature Christmas Cake. Embodying the warmth and cheer of holiday traditions, Arpico’s Christmas Cake combines rich fruits, spices, and nuts to create the ideal centrepiece for everyone’s celebrations. The event was not a mere cake mixing collaboration. It offered a moment for people to come together, share laughter and build connections that to last a lifetime.
+
+...
+
+[Data](articles/215c3d08.json)
+
+---
+
+### JKH shares seen as affected by speculation relating to Adani Group-linked transaction
+
+*2024-11-25 22:03:00* · [`islandlk`](http://island.lk/jkh-shares-seen-as-affected-by-speculation-relating-to-adani-group-linked-transaction/) · `en`
+
+The stock market yesterday witnessed a downward trend due to speculation pertaining to a JKH transaction with the Adani Group, wherein the Adani Group had built a container terminal at the Colombo Port. This factor was seen as adversely impacting JKH stocks since a legal battle is presumably looming against the Adani Group initiated by a US based company, market analysts said.
+
+US prosecutors on Wednesday charged Indian billionaire Gautam Adani with involvement in a plan to pay more than US $ 250 million in bribes to Indian government officials to win solar energy contracts, and concealing the plan as the group sought money from US investors, reports said.
+
+...
+
+[Data](articles/e15a634f.json)
+
+---
+
 ### The landslide warning imposed on 6 districts is further extended for the next 24 hours
 
 *2024-11-25 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199672) · `ta`
@@ -485,6 +553,32 @@ Meanwhile, the Department of Meteorology made a statement in the Northern Provin
 [Data](articles/161b81f3.json)
 
 [Extended Data](ext_articles/161b81f3.ext.json)
+
+---
+
+### Toastmaster Division B and G Joint Division Conference lights up District 82
+
+*2024-11-25 22:01:00* · [`islandlk`](http://island.lk/toastmaster-division-b-and-g-joint-division-conference-lights-up-district-82/) · `en`
+
+On November 10 2024, the Centre for Banking Studies buzzed with excitement as members of Division B and Division G of District 82, Toastmasters International came together for their joint Division Conference under the inspiring theme “Beyond Greatness.” This theme, cleverly echoing the initials of Divisions B and G, set the tone for a day filled with exceptional talent and achievement.
+
+Led by Division B Director, TM Clive James and Division G Director, DTM Kasun Ilangaratne, the conference showcased the best of Toastmasters’ talent and spirit. TM Amritha Allahakoon from Division B and DTM Chethana Dharashanamali from Division G masterfully chaired the entire conference, while TMs Muditha Hapuarachchi and Tashika Fernandopulle chaired the Humorous Speech and Evaluation Speech contests for Divisions B and G. An impressive audience of over 200 attendees gathered to witness contestants go beyond greatness in their performances.
+
+...
+
+[Data](articles/f6c8dc66.json)
+
+---
+
+### Wurth Group relaunches its 2290th Brand Shop in Sri Lanka
+
+*2024-11-25 21:57:00* · [`islandlk`](http://island.lk/wurth-group-relaunches-its-2290th-brand-shop-in-sri-lanka/) · `en`
+
+The Wurth Group relaunched its 2290th state-of-the-art Brand/Pickup shop in Makumbura, Sri Lanka recently. Placed at a strategic location near the entrance of the Kottawa expressway, motorists can conveniently stop by to do a fast “highway readiness” check of their vehicles before entering the expressway. Be it changing the wipers, checking the brake lights, or indicators, tire pressure, or the radiator levels, additives, all can be done within minutes with Wurth Lanka’s “is your vehicle highway ready?” service. This would be the new brand/pickup shop with many more to follow with Kandy in the pipeline.
+
+...
+
+[Data](articles/21324d36.json)
 
 ---
 
@@ -970,6 +1064,28 @@ In the Nallur Divisional Secretariat Division, 93 people from 29 families have b
 
 ---
 
+### Foreigners buy Sri Lanka’s govt securities for 10th straight week on net basis
+
+*2024-11-25 18:54:00* · [`economynextcom`](https://economynext.com/foreigners-buy-sri-lankas-govt-securities-for-10th-straight-week-on-net-basis-189832/) · `en`
+
+ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the 10th straight week ended on November 21, the Central Bank data showed.
+
+Analysts said investors speculate a rate cut by the central bank during this week’s Monetary Policy Review meeting scheduled for late on Tuesday. The latest monetary policy rates will be announced on Wednesday (27).
+
+They said some investors have been buying to make some profits due to appreciation of the rupee currency and fall in market interest rates.
+
+Sri Lanka witnessed 702 million rupees ($2,38 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on November 21, extending the total inflows into treasury bonds and bills to 16.2 billion rupees (($55 mln) in the 10 straight weeks, the official data showed.
+
+The value of government securities held by foreign investors was at 55,545 million rupees by November 21.
+
+...
+
+[Data](articles/acd75d8e.json)
+
+[Extended Data](ext_articles/acd75d8e.ext.json)
+
+---
+
 ### A team of T20 international competition will be bowled out for 7 runs
 
 *2024-11-25 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203726) · `si`
@@ -1299,28 +1415,6 @@ The former minister, who knows this is a fraudulent check, is still being invest
 [Data](articles/f7b6b763.json)
 
 [Extended Data](ext_articles/f7b6b763.ext.json)
-
----
-
-### Foreigners buy Sri Lanka’s govt securities for 10th straight week on net basis
-
-*2024-11-25 17:54:00* · [`economynextcom`](https://economynext.com/foreigners-buy-sri-lankas-govt-securities-for-10th-straight-week-on-net-basis-189832/) · `en`
-
-ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the 10th straight week ended on November 21, the Central Bank data showed.
-
-Analysts said investors speculate a rate cut by the central bank during this week’s Monetary Policy Review meeting scheduled for late on Tuesday. The latest monetary policy rates will be announced on Wednesday (27).
-
-They said some investors have been buying to make some profits due to appreciation of the rupee currency and fall in market interest rates.
-
-Sri Lanka witnessed 702 million rupees ($2,38 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on November 21, extending the total inflows into treasury bonds and bills to 16.2 billion rupees (($55 mln) in the 10 straight weeks, the official data showed.
-
-The value of government securities held by foreign investors was at 55,545 million rupees by November 21.
-
-...
-
-[Data](articles/acd75d8e.json)
-
-[Extended Data](ext_articles/acd75d8e.ext.json)
 
 ---
 
@@ -2281,161 +2375,5 @@ According to the Bureau Act, if a man goes to foreign employment, the Bureau sho
 [Data](articles/47977b16.json)
 
 [Extended Data](ext_articles/47977b16.ext.json)
-
----
-
-### Seven to householder searched the land
-
-*2024-11-25 15:29:46* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩමේ-නිදන්-සෙවූ-නිවැසියා-ඇතුළු-පහක්-අල්ලයි/11-413254) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Seven to householder searched the land: Five suspects arrested in Wanathavilluwa Ralmedaduwa. Group owns roller owner, land resident Wanathawilluwa Serkkiriya Ja Ela Puttalam. Raided on tip-off Wanathavilluwa Palisi."
-
-🟩
-
-Five suspects have been arrested by Wanathavilluwa Ralmedaduwa.
-
-The arrest was a group of people who owned the reller owner and the relle land and a resident of the Wanathawilluwa, Serkkiriya, Ja Ela, and in Puttalam.
-
-The arrests were raided on a tip off received on Wanathavilluwa Palisi.
-
-◼️
-
-[Data](articles/5ae66cd2.json)
-
-[Extended Data](ext_articles/5ae66cd2.ext.json)
-
----
-
-### 8 years in prison to someone who abused a minor child
-
-*2024-11-25 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203717) · `si`
-
-Colombo High Court sentences father to 8 years prison for abusing minor child. Judge orders fine of Rs. 10,000. Victim, an 11-year-old boy, was unable to attend school due to trauma. Judge emphasizes severity of crime considering defendant's role as a parent.
-
-🟩
-
-The Colombo High Court sentenced the 50-year-old father in prison with a 50-year-old father who was convicted of a minor sexual abuse.
-
-In addition, the judge ordered the accused to pay a fine of Rs. 10000 / - to pay a fine of the victim.
-
-The 11-year-old boy who was in the Vesak Kala with her mother and sister, revealed that the crime had been committed by the defendant.
-
-When the judge questioned the victim at the trial, he stated that he could not even go to school for a long time.
-
-The judge said that the accused was a father of a mother when committing the accused and the mistake he did not take lightly.
-
-Accordingly, the judge said that these factors should be considered.
-
-Accordingly, the judge gave this decision.
-
-◼️
-
-[Data](articles/56c197d2.json)
-
-[Extended Data](ext_articles/56c197d2.ext.json)
-
----
-
-### Interpretation
-
-*2024-11-25 15:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இசை-நிகழ்ச்சி-சர்ச்சை-குறித்து-விளக்கம்/175-347736) · `ta`
-
-Mount Lavinia Hotel clarifies top officials' ABBA concert attendance, stating they were invited guests to support tourism industry.
-
-🟩
-
-Responding to social media reports criticizing the participation of top national People's Power members at the ABBA concert, Mount Lavinia Hotel has made it clear that they were invited to the event.
-
-Reports on social media have stirred controversy that Prime Minister Harini Amarasuriya, External Affairs Minister Vijitha Herath and Dilvin Silva had spent thousands of taxpayers money to attend the concert.
-
-"We have called on the role of tourism to support the tourism industry, including Harini Prime Minister Harini Amarasuriya and External Affairs Minister Vijitha Herath."In a statement, the hotel has insisted.
-
-The Hotel further stated that it is proud to have the ABBA Show as part of its purpose to improve tourism and improve Sri Lanka's attraction to local and international travelers.
-
-◼️
-
-[Data](articles/fbb04d39.json)
-
-[Extended Data](ext_articles/fbb04d39.ext.json)
-
----
-
-### Indian team won the leadership
-
-*2024-11-25 15:04:19* · [`adalk`](https://www.ada.lk/sports/නායකත්වයේ-වගකීම-ගත්-බුම්රා-ඉන්දීය-කණ්ඩායම-දිනවයි/9-413253) · `si`
-
-India wins cricket match against Australia by 295 runs. India scored 150 runs and then 487 runs, while Australia scored 534 runs.
-
-🟩
-
-Tourist India beat Australia by 295 runs
-
-Batting first, India scored 150 runs for the loss of all incense.
-
-The Indian team then decided to suspend 487 runs for the loss of 6 wickets while he was 487 runs.
-
-Accordingly, the Australian group scored a 534 runs in a large number of 238 runs.
-
-◼️
-
-[Data](articles/70c394a9.json)
-
-[Extended Data](ext_articles/70c394a9.ext.json)
-
----
-
-### SJB ready to join UNP?
-
-*2024-11-25 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103753/sjb-ready-to-join-unp-) · `en`
-
-Gampaha District Samagi Jana Balawegaya (SJB) MP Harshana Rajakaruna says that the SJB is ready to join together with the United National Party (UNP), if former President Ranil Wickremesinghe will allow Sajith Premadasa to take over the leadership.
-
-Addressing a media briefing held in Colombo, MP Rajakaruna expressed: “Mr. Ranil Wickremesinghe is not in the country right now. We expect to hold discussions when he is back in the country.”
-
-Furthermore, the Gampaha District MP called on all right-wing political forces to join with the SJB.
-
-“We believe that we, all the right-wing political groups including Mr. Ranil Wickremesinghe should join together. We request all members of the UNP including Mr. Ranil Wickremesinghe to join SJB, alleviate this divisions and move forward. We are on the stance that the SJB should move forward together with the UNP,” he added.
-
-◼️
-
-[Data](articles/920365a9.json)
-
-[Extended Data](ext_articles/920365a9.ext.json)
-
----
-
-### India won by 295 runs in the first Test against Aussie!
-
-*2024-11-25 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199639) · `ta`
-
-India wins first Test vs Aussies by 295 runs. Kohli, Jaiswal, and Rahul shine with bat. Bumrah and Siraj excel with ball. India leads 1-0 in 5-match series.
-
-🟩
-
-India were a huge victory by 295 runs in the first Porter - Kavaskar and ICC World Test Championship against Australia at the Perth Cricket Stadium.
-
-With this victory, India has made a 1 - 0 lead in a five -match Test series.
-
-In the second innings Yaswvi Jaiswal, Virat Kohli, KL. Rahul's skills and the accurate bowling of Jasprit Bumrah and Mohammed Siraj made India easier.
-
-Also, Jasprit Bumrah, who was in charge of the team leadership in the match, replaced Rohit Sharma and made the team better and won.
-
-In the four days, the two teams failed to shine in the first innings.
-
-India scored 150 runs in the Australians 'fast bowling and Australia curled up to 104 runs in Indians' fast.
-
-In the first innings, India, who were the leading 46 runs in the first innings, were very exciting in the second innings, losing 6 wickets and scoring 487 runs.
-
-Australia lost all the wickets in the second innings towards the winning target of 534 runs, losing 238 runs.
-
-...
-
-[Data](articles/aa035ea0.json)
-
-[Extended Data](ext_articles/aa035ea0.ext.json)
 
 ---

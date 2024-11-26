@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 02:41:39**
+As of **2024-11-27 03:12:02**
 
 ## Newspaper Stats
 
-*Scraped **57,092** Articles*
+*Scraped **57,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,136 @@ dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
 tamilmirrorlk | 8,119
-virakesarilk | 9,307
+virakesarilk | 9,312
 adaderanasinhalalk | 9,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,092 (100.0%) of 57,092 articles have been extended.
+57,097 (100.0%) of 57,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### Vavuniya Omanthai Wavelakalupottagulam risk
+
+*2024-11-27 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199794) · `ta`
+
+Vavuniya Omanthai Wavelakalupottagulam at risk: Heavy rainfall threatens pond collapse, potentially destroying nearby structures. Villagers warned of impending disaster.
+
+🟩
+
+Assistant Commissioner of Agrarian Development Department Wimalaruban said that the Vavuniya Omanthai Allapottakulam is in danger of breaking due to continuous rainfall due to inclement weather.
+
+The water level of the pond is on the rise as the wave is currently flowing.
+
+There is an opportunity to break any time because there is nothing in the pool. Also, when the pond is broken, the mansion under it will break down.
+
+He said that the villagers under the pond should be observed due to the risk of a major disaster.
+
+◼️
+
+[Data](articles/705c1e76.json)
+
+[Extended Data](ext_articles/705c1e76.ext.json)
+
+---
+
+### Two days holidays for Muslim schools in Vavuniya - State Chancellor
+
+*2024-11-27 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199793) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Muslim schools in Vavuniya get 2-day holiday due to bad weather. District Government Agent PA Sarathchandra announced Nov 27-28 off for schools in the area affected by inclement conditions.
+
+🟩
+
+Due to inclement weather, Muslim schools in the Vavuniya district have been given two days holidays, said District Government Agent PA Sarathchandra.
+
+Vavuniya district has also been affected by the inclement weather in the country. As a result, Muslim schools in the Vavuniya district have been decided to grant holidays on November 27 and 28.
+
+◼️
+
+[Data](articles/f68c40fd.json)
+
+[Extended Data](ext_articles/f68c40fd.ext.json)
+
+---
+
+### Vavuniya student's national record for finding an electronic voting machine
+
+*2024-11-27 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199792) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Grade 9 student C. Capilas invents electronic voting machine to reduce election costs. Uses fingerprints for voting and detects fraud attempts. Tested in school elections. Promises more efficient future voting system.
+
+🟩
+
+C. Capilas, a student of Grade 9 in Vipulananda College, Vavuniya, has achieved an electronic voting machine.It is designed to vote for the voters in the machine and vote for the wishers that the voters will register their fingertips and vote for their fingerprint.. The machine is designed to use the technology to disclose the person who is trying to re -vote in a fake manner.. C. Kapilas commented that the student's teachers said that the election cost was high in the last presidential election.. After this, I thought about it to reduce it. This is the result of this machine, and I am confident that the electronic voting will be used in the future and will be used in the future.. The student used this machine in the school's parliamentary election. The student, who is planning to reduce the election costs, has asked him to help him use the machine to vote and vote in a costly manner.
+
+◼️
+
+[Data](articles/c34e0f3f.json)
+
+[Extended Data](ext_articles/c34e0f3f.ext.json)
+
+---
+
+### All Ceylon Jamiyyathul Ulama Council has handed over the Sinhala translation copy of the Qur'an to the Speaker
+
+*2024-11-27 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199791) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Ceylon Jamiyyathul Ulama Council hands over Sinhala Quran translation to Speaker Ashoka Ranwala during visit to council headquarters.
+
+🟩
+
+Speaker Ashoka Ranwala visited the Headquarters of the All Ceylon Jamiyyathul Ulama Council on Tuesday (26).
+
+After the discussions, the Ulama Council Chairman has handed over a Sinhala translation copy of the Quran to the Speaker.
+
+◼️
+
+[Data](articles/d62285d3.json)
+
+[Extended Data](ext_articles/d62285d3.ext.json)
+
+---
+
+### Heavy rains in Vavuniya: Traffic on Mannar Road
+
+*2024-11-27 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199790) · `ta`
+
+Heavy rains flood Vavuniya; block Mannar Road traffic; affect government buildings and homes. Evacuation efforts underway.
+
+🟩
+
+Due to heavy rains in Vavuniya, many of the state departments were flooded with water and traffic along the Mannar road was blocked.
+
+Due to inclement weather, heavy rains have been reported in Vavuniya since Tuesday (26) after heavy rains, the Vavuniya Immigration Department, Nurses College, State Tourism, Regional Health Services Department, Divisional Secretariat, Divisional SecretariatRoad traffic is also prohibited as flowing.
+
+In addition, flooding has been flooded in the Vavuniya Vairavapuliyankulam area and houses and trade centers in many parts of Vavuniya have been flooded.
+
+Subsequently, Vavuniya District Government Agent PA Sarathchandra, Additional Government Agent, D. Darskumar, Local Government Assistant Commissioner, Vavuniya Divisional Secretary, Municipal Secretary, District Analyst Management Director, Army and PoliceWere involved in the process of evacuation.
+
+◼️
+
+[Data](articles/856c9149.json)
+
+[Extended Data](ext_articles/856c9149.ext.json)
+
+---
 
 ### Nolimid Zahira Super 16 Sochar 7s: 15 schools in Sri Lanka and Qatar School
 
@@ -2397,127 +2515,5 @@ Minister of Cabinet spokesman, Minister Dr. Nalinda Jayatissa made these comment
 [Data](articles/cc5545d2.json)
 
 [Extended Data](ext_articles/cc5545d2.ext.json)
-
----
-
-### Tax Increase on Mexico Chinese Goods in Canada - Trump
-
-*2024-11-26 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199736) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Donald Trump plans to impose a 25% tax on Mexican and Chinese goods entering Canada when he becomes president. He claims this is to combat illegal immigration and crime along the US-Mexico border. The tax will remain in place until drug trafficking and illegal immigration cease. This move has raised concerns about increased costs for American businesses and consumers.
-
-🟩
-
-Donald Trump has announced that he will increase taxes for goods coming from China Mexico when he takes office as president
-
-Trump has said he will do this in response to illegal immigration and crimes from the US border.
-
-Trump said my first directive on January 20 would be imposed on Canada's 25 percent against Mexico, and that the tax would be taxed for all the goods coming from the US borders from these countries.
-
-Trump said the taxes would last until drugs and illegal immigrants enter the United States.
-
-Trump has said that the long -standing problem of the US can be resolved.
-
-Meanwhile, Trump's move has expressed fears that the costs of American traders and consumers will increase.
-
-◼️
-
-[Data](articles/351b8964.json)
-
-[Extended Data](ext_articles/351b8964.ext.json)
-
----
-
-### India rejects food imports from several countries including Sri Lanka
-
-*2024-11-26 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103781/india-rejects-food-imports-from-several-countries-including-sri-lanka) · `en`
-
-India has taken strict action against substandard food imports, rejecting consignments of items like apples, nuts, alcoholic beverages, and sushi from countries including China, Japan, Sri Lanka, Bangladesh, and Turkey. These products failed to meet the quality and safety standards set by the Food Safety and Standards Authority of India (FSSAI).
-
-The FSSAI, India’s top food regulator, has made the details public through its recently launched Food Import Rejection Alert (FIRA) portal.
-
-This platform helps authorities worldwide quickly share information about rejected food items, enabling swift action to prevent risks and ensure traceability and transparency.
-
-Under Regulation 11(7) of the Food Safety and Standards (Import) Regulation, 2017, the FSSAI is empowered to issue food alert notifications. For instance, a cinnamon flower bud shipment from Sri Lanka was rejected in May because it required prior approval under the Food Safety and Standards Act, 2006.
-
-...
-
-[Data](articles/fd3f40be.json)
-
-[Extended Data](ext_articles/fd3f40be.ext.json)
-
----
-
-### Cabinet Spokesman responds to claims over lack of Muslim Ministers
-
-*2024-11-26 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103780/cabinet-spokesman-responds-to-claims-over-lack-of-muslim-ministers-) · `en`
-
-Sri Lanka’s new government has responded to allegations over the lack of Muslim representation in its Cabinet of Ministers.
-
-“We didn’t form the Cabinet according to the race, religion or the cast. We have selected the persons who are very much capable to hold those ministerial portfolios,” Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
-
-Responding to a question during today’s Cabinet press briefing, he noted that the NPP government has in fact appointed a Muslim businessman as the Governor of the Western Province, and that the Deputy Speaker, one of the Deputy Ministers and that one of the National List MPs appointed from the Gampaha District are from the Muslim community.
-
-“We are serving the Sri Lankan nation. Not for the races, the religions and the cast,” the minister stressed.
-
-...
-
-[Data](articles/b98955a2.json)
-
-[Extended Data](ext_articles/b98955a2.ext.json)
-
----
-
-### "No one from Vyantamaka is appointed"
-
-*2024-11-26 15:15:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியத்மகவில்-இருந்து-எவரையும்-நியமிக்கவில்லை/175-347801) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-No Vyantamaka representatives appointed as ministers or secretaries. Cabinet denies supporting NPP government. Minister clarifies Professor Kapila Perera's appointment based on qualifications, not political affiliation.
-
-🟩
-
-Cabinet spokesman and Media Minister Nalinda Jayatissa today confirmed that no one has been appointed as ministers or ministry secretaries from Vyitamaka, while condemning the alleged support for the National People's Power (NPP) government.
-
-A journalist questioned the appointment of Professor Kapila Perera as Secretary of the Ministry of Transport, Highways, Ports and Civil Aviation Services.
-
-Responding to the question, Minister Jayatissa said that Professor Kapila Perera had nothing to do with it.
-
-“Professor Kapila Perera was appointed only based on his qualifications and past experience. The government considered his abilities before appointing him to the post of Secretary, ”he explained.
-
-The Minister made it clear that Prasanna Gunasena, a dentist from the Kandy district, was not the doctor Prasanna Gunasena, who was associated with Vathamakam, but that the two were different.
-
-◼️
-
-[Data](articles/e051c952.json)
-
-[Extended Data](ext_articles/e051c952.ext.json)
-
----
-
-### Ceylon Chamber welcomes IMF staff-level agreement
-
-*2024-11-26 15:00:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-welcomes-imf-staff-level-agreement-160652/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce said it welcomed the announcement of a staff-level agreement for the third review under the International Monetary Fund (IMF) Extended Fund Facility program for Sri Lanka, and looks forward to the Government meeting the requirement for disbursement.
-
-“The Chamber looks forward to the Government meeting the requirement for disbursement by the Board of the IMF,” the trade body said in a statement.
-
-“This agreement underscores the progress the country has made in implementing structural reforms and achieving fiscal sustainability during this critical period of economic recovery.
-
-“While acknowledging the progress made, it is important to continue the reform momentum and build on the progress made while unlocking key constraints that bind long term sustainable growth. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/17b33f80.json)
-
-[Extended Data](ext_articles/17b33f80.ext.json)
 
 ---

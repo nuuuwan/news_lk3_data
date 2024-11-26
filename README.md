@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 00:16:33**
+As of **2024-11-27 00:02:02**
 
 ## Newspaper Stats
 
-*Scraped **57,087** Articles*
+*Scraped **57,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,72 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
 tamilmirrorlk | 8,118
-virakesarilk | 9,305
+virakesarilk | 9,303
 adaderanasinhalalk | 9,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,083 (100.0%) of 57,087 articles have been extended.
+57,083 (100.0%) of 57,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
-
-### சீரற்ற காலநிலையால் அவசர புகாருக்கு காவல்துறையினரால் நடவடிக்கை
-
-*2024-11-26 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199787) · `ta`
-
-சீரற்ற காலநிலையால்  ஏதேனும் அனர்த்தங்கள் ஏற்பட்டால் அதனை அறிவிப்பதற்கும் ஒருங்கிணைப்பதற்கும் பொலிஸ் தலைமையகத்தில் 24 மணிநேர விசேட செயற்பாட்டு மையம் நிறுவப்பட்டுள்ளது.
-
-அதன்படி பின்வரும் தொலைபேசி எண்கள் மற்றும் மின் அஞ்சல் முகவரி மூலம் இந்த சிறப்பு நடவடிக்கை மத்திய மற்றும் தொடர்பு கொள்ள முடியும்.
-
-சுகாதார நிலையங்கள், விபத்துக்கள் மற்றும் உதவி பொருட்கள் உள்ளிட்டவை தொடர்பாக காவல் துறையினருக்கு தகவல் தெரிவிக்கும் வகையில்,
-
-◼️
-
-[Data](articles/42a5d130.json)
-
----
-
-### யாழில். சீரற்ற காலநிலை காரணமாக 2ஆயிரத்து 634 குடும்பங்கள் பாதிப்பு
-
-*2024-11-26 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199786) · `ta`
-
-யாழ்ப்பாணத்தில் சீரற்ற காலநிலை காரணமாக 2ஆயிரத்து 634 குடும்பங்களைச் சேர்ந்த 9 ஆயிரத்து 404 பேர் பாதிக்கப்பட்டுள்ளதுடன் 48 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்தார்.
-
-சங்கானை பிரதேச செயலக பிரிவில் 573 குடும்பங்களைச் சேர்ந்த 2335 பேரும், யாழ்ப்பாணம் பிரதேச செயலக பிரிவில் 470 குடும்பங்களைச் சேர்ந்த 1520 பேரும்,சண்டிலிப்பாய் பிரதேச செயலக பிரிவில் 266 குடும்பங்களைச் சேர்ந்த 932 பேரும், ஊர்காவற்துறை பிரதேச செயலக பிரிவில் 371 குடும்பங்களைச் சேர்ந்த 1462 பேரும்,சாவகச்சேரி பிரதேச செயலக பிரிவில் 416 குடும்பங்களைச் சேர்ந்த 599 பேரும், காரைநகர் பிரதேச செயலக பிரிவில் 141 குடும்பங்களைச் சேர்ந்த 508 பேரும் பாதிக்கப்பட்டனர்.
-
-...
-
-[Data](articles/4df0b826.json)
-
----
-
-### Flights to land in Katunayake have been diverted to India
-
-*2024-11-26 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199785) · `ta`
-
-Katunayake flights diverted: 3 planes rerouted to Indian airports Mattala Thiruvananthapuram due to unspecified reasons. Additional 3 flights from Chennai Male Abu Dhabi redirected to Mattala International Airport.
-
-🟩
-
-Three flights arrived at the Katunayake International Airport on the night of the 26th have been diverted to the Mattala and Thiruvananthapuram airport in India.
-
-Three flights from Narita, Dubai and Chennai to Katunayake airport have been diverted to India.
-
-Accordingly, the Katunayake airport spokesman said that the flights were diverted to the Thiruvananthapuram airport.
-
-Meanwhile, three more flights from Chennai, Male and Abu Dhabi to Katunayake airport have been diverted to the Mattala International Airport.
-
-◼️
-
-[Data](articles/8bb3b5fb.json)
-
-[Extended Data](ext_articles/8bb3b5fb.ext.json)
-
----
 
 ### Police get a cadre from police to report emergency disaster
 
@@ -111,6 +57,30 @@ Due to the adverse weather conditions that have been affected by the island, flo
 [Data](articles/5413e5cf.json)
 
 [Extended Data](ext_articles/5413e5cf.ext.json)
+
+---
+
+### Flights to land in Katunayake have been diverted to India
+
+*2024-11-26 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199785) · `ta`
+
+Katunayake flights diverted: 3 planes rerouted to Indian airports Mattala Thiruvananthapuram due to unspecified reasons. Additional 3 flights from Chennai Male Abu Dhabi redirected to Mattala International Airport.
+
+🟩
+
+Three flights arrived at the Katunayake International Airport on the night of the 26th have been diverted to the Mattala and Thiruvananthapuram airport in India.
+
+Three flights from Narita, Dubai and Chennai to Katunayake airport have been diverted to India.
+
+Accordingly, the Katunayake airport spokesman said that the flights were diverted to the Thiruvananthapuram airport.
+
+Meanwhile, three more flights from Chennai, Male and Abu Dhabi to Katunayake airport have been diverted to the Mattala International Airport.
+
+◼️
+
+[Data](articles/8bb3b5fb.json)
+
+[Extended Data](ext_articles/8bb3b5fb.ext.json)
 
 ---
 
@@ -2467,5 +2437,49 @@ He further elaborated, stating, “The current foreign reserves, which have reac
 [Data](articles/8aed9e93.json)
 
 [Extended Data](ext_articles/8aed9e93.ext.json)
+
+---
+
+### No decision to ban tuition classes - Cabinet Spokesman
+
+*2024-11-26 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103778/no-decision-to-ban-tuition-classes-cabinet-spokesman) · `en`
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa clarified that no decision has been taken to ban tuition classes in the country.
+
+Speaking at the Cabinet press conference held today (26), the minister emphasized that significant reforms are needed to be implemented in the education sector as part of a comprehensive overhaul.
+
+He further noted that the election manifesto of the National People’s Power (NPP) outlines plans for the modernization and expansion of education.
+
+The minister stated that after formal discussions, a comprehensive review of the examination system will be carried out.
+
+He assured that the government is approaching changes in the education sector with due diligence and that a final decision will be made only after consultations with all relevant stakeholders.
+
+◼️
+
+[Data](articles/709960a7.json)
+
+[Extended Data](ext_articles/709960a7.ext.json)
+
+---
+
+### No decision to ban tuition classes - Cabinet Spokesman
+
+*2024-11-26 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103778/no-decision-to-ban-tuition-classes-cabinetspokesman) · `en`
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa clarified that no decision has been taken to ban tuition classes in the country.
+
+Speaking at the Cabinet press conference held today (26), the minister emphasized that significant reforms are needed to be implemented in the education sector as part of a comprehensive overhaul.
+
+He further noted that the election manifesto of the National People’s Power (NPP) outlines plans for the modernization and expansion of education.
+
+The minister stated that after formal discussions, a comprehensive review of the examination system will be carried out.
+
+He assured that the government is approaching changes in the education sector with due diligence and that a final decision will be made only after consultations with all relevant stakeholders.
+
+◼️
+
+[Data](articles/883e4dd9.json)
+
+[Extended Data](ext_articles/883e4dd9.ext.json)
 
 ---

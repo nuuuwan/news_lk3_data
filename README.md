@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 08:31:48**
+As of **2024-11-26 09:07:14**
 
 ## Newspaper Stats
 
-*Scraped **56,905** Articles*
+*Scraped **56,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,418
 economynextcom | 3,448
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,354
-adaderanalk | 6,876
-tamilmirrorlk | 8,091
+adalk | 5,356
+adaderanalk | 6,878
+tamilmirrorlk | 8,093
 virakesarilk | 9,274
 adaderanasinhalalk | 9,823
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 9,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,891 (100.0%) of 56,905 articles have been extended.
+56,894 (100.0%) of 56,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
+
+### A/L மாணவர்களுக்கு அவசர அறிவிப்பு
+
+*2024-11-26 08:36:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்கு-அவசர-அறிவிப்பு/175-347778) · `ta`
+
+சீரற்ற காலநிலை காரணமாக உயர்தரப்பரீட்சை பரீட்சார்த்திகள் தத்தமது பரீட்சை நிலையங்களுக்குச் செல்ல முடியாத நிலைமை இருந்தால்  அருகில் உள்ள நிலையங்களில் பரீட்சைக்கு அமரலாம்.
+
+ஏதேனும் சிரமங்கள் ஏற்பட்டால், உதவிக்கு  117 என்ற தொலைபேசி இலக்கத்துடன் தொடர்பு கொலெல்லாம் என பரீட்சைகள் ஆணையாளர் நாயகம் அறிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/e77e3c69.json)
+
+---
+
+### அதிகளவான பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை
+
+*2024-11-26 08:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகளவான-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-347777) · `ta`
+
+நிலவும் மழையுடனான வானிலை காரணமாக பதுளை, காலி, களுத்துறை, கண்டி, கேகாலை, மாத்தளை, மாத்தறை, நுவரெலியா மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் அதிகளவான பிரதேச செயலகப் பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதேவேளை மாதுரு ஓயா, ஹத்தா ஓயா மற்றும் மகாவலி ஆற்றின் நீர்மட்டம் வேகமாக உயர்ந்துள்ளது. பொதுமக்கள் மிகுந்த அவதானத்துடன் செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ec03c5fb.json)
+
+---
+
+### Up-country train services disrupted
+
+*2024-11-26 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103764/up-country-train-services-disrupted) · `en`
+
+Train services on the up-country line have been disrupted due to mounds of earth and rocks falling onto the tracks between Badulla and Bandarawela, according to Sri Lanka Railways.
+
+◼️
+
+[Data](articles/61d556ca.json)
+
+---
+
+### Very heavy rainfall of over 200 mm expected - Met Dept.
+
+*2024-11-26 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103763/very-heavy-rainfall-of-over-200-mm-expected-met-dept) · `en`
+
+The Meteorology Department says the Depression over Southwest Bay of Bengal was located to southeast about 290km of Batticaloa and 410 km of Trincomalee at around 11.30 p.m of November 25, 2024.
+
+The system is likely to move northwestwards and intensify into a deep depression during next 12 hours and move very closer to the east coast of the island.
+
+Cloudy skies are expected over most parts of the island and due to the influence of this system and very heavyshowers and strong winds can be expected in Northern, Eastern, Uva and Central provinces, it said.
+
+Showers or thundershowers will occur at times in most places of the island. Very heavy showers above 200 mm are likely at some places in Northern, North-central, Eastern, Central, Uva and Southern provinces and in Puttalam district.
+
+Heavy showers above 100 mm are likely at several places elsewhere of the island, the Met. department added.
+
+...
+
+[Data](articles/cb610b71.json)
+
+---
 
 ### Landslide warnings are updated
 
@@ -152,47 +212,63 @@ The Grandpass Police and the Colombo Crimes Division is conducting further inves
 
 ---
 
-### ප්‍රදේශ කිහිපයකට ගංවතුර තත්ත්වයක්
+### Floods for several areas
 
 *2024-11-26 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203735) · `si`
 
-දිස්ත්‍රික්ක කිහිපයකට අයත් ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයකට ගංවතුර අවදානමක් ඇතිවිය හැකි බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Flooding risk in multiple districts. Department warns of potential floods in Mahaweli Ganga, Basnayake, Hinguragala, Medona, Kantale, Thampattuwa, Thamparaiptu, Welikanda within 48 hours. Public advised to take precautions in affected areas.
 
-නිවේදයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ ඊයේ (25) රාත්‍රියේ සිට ලැබෙන අධික වර්ෂාපතනය හේතුවෙන් මොනරාගල දිස්ත්‍රික්කයේ සියඹලාණ්ඩුව සහ අම්පාර දිස්ත්‍රික්කයේ ලාහුගල ප්‍රාදේශීය ලේකම් කොට්ඨාශවලට අයත් හැඩ ඔය ආශ්‍රිත පහත් බිම් ප්‍රදේශවලට ඉදිරි පැය 48ක කාලය තුළ ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවය.
+🟩
 
-එමෙන්ම මහවැලි ගඟෙහි ඇතැම් ධාරා ප්‍රදේශවලට ඊයේ සිට ලැබෙන වර්ෂාපතනය හේතුවෙන් මහවැලි ගඟ ද්‍රෝණියේ දිඹුලාගල, එච්චලම්පට්ටෙයි, හිඟුරක්ගොඩ, කන්තලේ, කින්නියා, කොරාලෙයිපත්තු උතුර, ලංකාපුර, මැදිරිගිරිය, මුතූර්, සේරුවිල, තමන්කඩුව, තම්පක්කමම් හා වැලිකන්ද ලේකම් කොට්ඨාශවලට අයත් මහවැලි ගඟ ආශ්‍රිත පහත් බිම් ප්‍රදේශවලට ඉදිරි පැය 48ක කාලය තුළ ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+The Department of Irrigation says that there is a flood risk for several districts in several districts.
 
-එබැවින් එම ප්‍රදේශවල පදිංචි මහජනතාවට ඒ සම්බන්ධව විමසිල්ලෙන් පසුවන ලෙසත් ඇතිවිය හැකි ගංවතුර තත්ත්වයෙන් ආරක්ෂා වීමට කටයුතු කරන ලෙසත් වාරිමාර්ග දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+In a statement, the Department said that the department was said that a flood could cause a flood within the next 48 hours of the next 48 hours.
+
+The Mahaweli Ganga, Basnayake, Hinguragala, Hinguragala, Medona, Kantale, Thampattuwa, Thampatuwa, Thampatuwa, Thamparaiptu and Welikanda SecretariesThe Department says that during the 48 hours of flooding can occur.
+
+Therefore, the Irrigation Department calls on the public to take action to ensure that the people living in these areas will be careful.
 
 ◼️
 
 [Data](articles/883a2a0a.json)
 
+[Extended Data](ext_articles/883a2a0a.ext.json)
+
 ---
 
-### කාලගුණයෙන් රතු නිවේදනයක් - මි.මී 200 ඉක්මවූ තද වැසි
+### Heavy reveals from the weather - heavy showers over 200mm
 
 *2024-11-26 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203734) · `si`
 
-තද වැසි පිළිබඳ අවවාදාත්මක රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+Here's a summary in 200 characters:
 
-අද (26) පෙ.ව. 04.30ට නිකුත් කරන ලද එම නිවේදනය ඉදිරි පැය 24 දක්වා වලංගු වේ.
 
-ඒ අනුව උතුරු, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 200ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
 
-පළාතේ සහ පුත්තලම දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවේ.
+Heavy rains warning: 200mm+ showers forecasted in North, East, Central & Uva provinces. Red alert issued by Meteorology Dept. Strong winds (40-50 km/h) expected. Public advised to take precautions against lightning and thunderstorms.
 
-මේ අතර ඊයේ පෙරවරු 8.30 සිට අද අලුයම 4.15 දක්වා කාලය තුළ වැඩිම වර්ෂාපතනය අම්පාර, ලාහුගල ප්‍රදේශයෙන් වාර්තා වී ඇති අතර එය මිලිමීටර් 191ක් වේ.
+🟩
 
-අම්පාර මහඔය ප්‍රදේශයෙන් මිලිමීටර් 149.5ක වර්ෂාපතනයක් වාර්තා වී ඇති අතර දමන ප්‍රදේශයෙන් මිලීමීටර් 147ක වර්ෂාපතනයක් වාර්තා වී තිබේ.
+The Department of Meteorology has issued a reputable red announcement on heavy rains.
 
-උතුරු, උතුරුමැද , මධ්‍යම සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+Today (26). The announcement issued at 04.30 is valid for the next 24 hours.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Accordingly, in some places in the North, East, Central and Uva provinces. The Department of Meteorology is new that heavy rains can occur.
+
+Some locations in the province and Puttalam are in some mm. Heavy showers around 100.
+
+Meanwhile, the highest rainfall from 8.30 am from 8.30 am to 4.15 am today, the highest rainfall was reported from the Lahugala, 191mm.
+
+A 149.5 millimeters from Mahaoya, Ampara has been reported and 147 million from the Damana area.
+
+From the Hambantota district in Hambantota, North Central, Central and Eastern provinces.. Strong winds can occur 40-50 times.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ...
 
 [Data](articles/faa81baf.json)
+
+[Extended Data](ext_articles/faa81baf.ext.json)
 
 ---
 
@@ -358,23 +434,41 @@ As part of the collaboration, PickMe will offer Management Trainee placements to
 
 ---
 
-### அதிசயம் ஆனால் உண்மை; ஐபிஎல் இல் 13 வயது சிறுவனை 1.1 கோடி ரூபா ஏல விலையில் வாங்கியது RR
+### The miracle but the truth;RR bought a 13 -year -old boy in IPL at a cost of Rs 1.1 crore
 
 *2024-11-26 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199683) · `ta`
 
-இண்டியன் பிறீமியர் லீக் வரலாற்றில் 13 வயதுடைய சிறுவன் ஒருவனை ராஜஸ்தான் றோயல்ஸ் (RR) ஏலத்தில் எடுத்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-சவூதி அரேபியாவின் ஜித்தா நகரில் இன்று நிறைவுக்கு வந்த 18ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்திற்கான வீரர்கள் ஏலத்தின்போது 13 வயதுடைய வைபவ் சூர்யாவன்ஷியை ஒரு கோடியே 10 இலட்சம் ரூபா ஏல விலையில் ராஜஸ்தான் றோயல்ஸ் தனது அணியில் இணைத்துக்கொண்டுள்ளது.
 
-ஐபிஎல் வரலாற்றில் மிகக் குறைந்த வயதுடைய கிரிக்கெட் வீரர் ஒருவர் ஏலத்தில் விடப்பட்டது இதுவே முதல் தடவையாகும்.
 
-அந்த இளஞ் சிங்கத்தை எப்படியாவது ஏலத்தில் வாங்கி விட வேண்டும் என்ற பேரவாவுடன் ராஜஸ்தான் றோயல்ஸும் டெல்ஹி கெப்பிட்டல்ஸும் ஏலப் போட்டியில் இறங்கின. இறுதியில் ராஜஸ்தான் றோயல்ஸ் ஒரு கோடியே 10 இலட்சம் ரூபாவுக்கு அந்த சிறுவனை தனதாக்கிக்கொண்டது.
+"RR buys 13-year-old Vaibhav Suryavanshi for ₹1.1 crore in IPL auction. First time a minor is sold in IPL history. Left-handed player from India's U-19 team. Highest bid among young players."
 
-இந்தியாவின் முதல் தர கிரிக்கெட் போட்டிகளில் ஒன்றான ரஞ்சி கிண்ண கிரிக்கெட் போட்டியில் தனது 12ஆவது வயதில் விளையாடிய இடதுகை துடுப்பாட்ட வீரரான வைபவ் சூர்யாவன்ஷி, மிக அண்மையில் 19 வயதுக்குட்பட்ட இந்திய அணியில் இடம்பிடித்தார்.
+🟩
+
+Rajasthan Royles (RR) has auctioned a 13 -year -old boy in the history of the Indian Premier League.
+
+Rajasthan Royals have joined the 13 -year -old Vaibhav Suryavanshi at a cost of Rs.
+
+This is the first time a cricketer in the history of IPL has been auctioned off.
+
+Rajasthan Royals and Telhi Capitles went on auction with the bidder to somehow auction the young lion.. In the end, Rajasthan Royals made the boy for a million rupees.
+
+Vaibhav Suryavanshi, a left -handed player, who played at the age of 12, is one of the first -class cricket match of India's first -class cricket match.
+
+He was praised by a 4 -day young Test match against Australia under the age of 19 in Chennai.
+
+The Randr Verma Bowl between the 19 -year -old teams in Bihar was hit in a one -day cricket match.
+
+The highest bidder on the second day is the fast bowler Puneliswar Kumar.
+
+Sunrisers Hyderabad bought fast bowler Bhuvneshwar Kumar, who was bought by Sunrisers Hyderabad last year, paid Rs.
 
 ...
 
 [Data](articles/a28285c9.json)
+
+[Extended Data](ext_articles/a28285c9.ext.json)
 
 ---
 
@@ -1618,6 +1712,26 @@ He elaborated: “I asked where I should sit, and they said there was no issue w
 
 ---
 
+### සහල් පාලන මිල ඉහළ දමන්නැයි ඉල්ලයි
+
+*2024-11-25 18:05:05* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-පාලන-මිල-ඉහළ-දමන්නැයි-ඉල්ලයි/11-413265) · `si`
+
+ගෙවිගිය මාස දෙකක කාලය තුලදි කුඩා හා මධ්‍ය පරිමාණ මොල් දෙසියකට ආසන්න ප්‍රමාණයක වි කෙටිම නවතා දමා තිබෙන බව එක්සත් සහල්  නිෂ්පාදකයින්ගේ සංගමය සදහන් කරයි.
+
+වි මිල ඉහල යාමට සාපෙක්ෂව දැනට පවතින සහල් පාලන මිලට සහල් ලබා  දිමට නොහැකි නිසා ඇතැම් කුඩා හා මධ්‍ය පරිමාණ මොල් හිමියන් කර්මාන්තය සිදුකර යාම නවතා දමමින් තිබෙන බවද එම සංගමයේ  සභාපති මුදිත් පෙරේරා  මහතා  සදහන් කළේය.
+
+මිට මාස දෙකකට පෙර කුඩා හා මධ්‍ය පරිමණ මොල් හිමියන් දෛනික සහල් අවශ්‍යතාවයෙන් සියයට හැට පහක (65%) පමණ ප්‍රමාණයක් ලබාදුන් බවත් මහ පරිමණ මොල් හිමියන් සියයට තිස් පහක (35%) ප්‍රමාණයක් ලබාදුන් බවද පැවසිය.
+
+මේ වන විට මහ පරිමණ මොල් හිමියින් විසින්  දෛනික අවශ්‍යතාවයෙන් සියයට පනහක් (50‌) ලබා දෙන බවත් කුඩා  හා මධ්‍ය පරිමණ මොල් හිමියන් ඉතිරි සියයට පනහ(50%) ලබා දෙන බවද සදහන් කළේය.
+
+කුඩා හා මධ්‍ය පරිමාණ මොල් හිමියන් දෛනිකව වෙළද පොලට නිකුත් කරන සහල් තොග ප්‍රමාණය අඩුවන සෑම අවස්තාවකදිම සහල් මිල ඉහල ගොස් තිබෙන බවද පැවසිය.
+
+...
+
+[Data](articles/55d10851.json)
+
+---
+
 ### Douglas Devananda has been released
 
 *2024-11-25 17:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸ்-தேவானந்தா-விடுவிக்கப்பட்டார்/175-347755) · `ta`
@@ -1669,6 +1783,30 @@ Director Nelson and Producer Tanu participated in a special event at the Galle H
 [Data](articles/a0c59917.json)
 
 [Extended Data](ext_articles/a0c59917.ext.json)
+
+---
+
+### අක්‍රමවත් මිනිස් ක්‍රියාකාරකම් ස්වභාවික ව්‍යසනවලට හේතුවයි
+
+*2024-11-25 17:52:30* · [`adalk`](https://www.ada.lk/breaking_news/අක්‍රමවත්-මිනිස්-ක්‍රියාකාරකම්-ස්වභාවික-ව්‍යසනවලට-හේතුවයි/11-413264) · `si`
+
+අක්‍රමවත් මිනිස් ක්‍රියාකාරකම් ස්වභාවික ව්‍යසනවලට හේතුවයි; ආයතන මට්ටමෙන් නීති තිබුණත් ඒවා ක්‍රියාත්මක කර නැහැ
+
+– ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයා වැඩ භාර ගැනීමේ අවස්ථාවට එක් වූ ජනපති නිලධාරීන් හමුවේ පවසයි
+
+ආපදා කළමනාකරණයේදී ආයතන ව්‍යුහ ශක්තිමත් කිරීම පමණක් ප්‍රමාණවත් නොවන බවත් බිම් මට්ටමට විසඳුම් ගෙන යාමේ යාන්ත්‍රණ ඇති කිරීමට කටයුතු කළ යුතු බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
+
+පළාත් පාලන ආයතන ශක්තිමත් කර අවදානම් ප්‍රදේශවල සිදුවන ආපදා වළක්වාලීම සඳහා නව විසඳුම් ලබා දීමට කටයුතු කළ යුතු බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතා වැඩ භාර ගැනීමේ අවස්ථාවට අද (25) එක්වෙමිනි.
+
+ආපදා කළමනාකරණ නීති පද්ධතිය සකස් කර තිබෙන්නේ යම්කිසි අධ්‍යනයකින් පසුව බවත් එම නීති නිසි ආකාරයෙන් ක්‍රියාත්මක කිරීම නිලධාරින්ගේ වගකීමක් බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+එසේ ක්‍රියා කරන ඕනෑම නිලධාරියෙක් වෙනුවෙන් තමා පෙනී සිටින බවද ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+
+...
+
+[Data](articles/a74bb035.json)
 
 ---
 
@@ -2199,167 +2337,5 @@ There was net foreign outflow of 142 million rupees. (Colombo/Nov25/2024)
 [Data](articles/d78e7e65.json)
 
 [Extended Data](ext_articles/d78e7e65.ext.json)
-
----
-
-### Petition to Supreme Court demanding suspensions of holding
-
-*2024-11-25 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203719) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Petition filed against GCE A/L exam before 170-day study period. Requests suspension and interim injunction. Presented to Supreme Court on 25th. Next hearing on December 12.
-
-🟩
-
-The Supreme Court today (25th), the Supreme Court today (25) presented a fundamental rights petition filed by December 12.
-
-The petition was called before the Supreme Court Judge of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
-
-Deputy Solicitor General Nirmalan Wigneswaran, who appeared for the respondents, said that the examination commenced this morning.
-
-President's Counsel Tirantha Daladirdadda appearing on behalf of the petitioner was amended to the court and asked for a date to ensure the fair confirmation.
-
-The Deputy Solicitor General appearing on behalf of the respondents stated that they will be detained for the amended submissive petition to file.
-
-Accordingly, the judiciary who allowed a revised petition to file a revised petition was ordered to be summoned on December 12 to ensure the relevant petition.
-
-The petition was presented to the GCE Advanced Level Examination, a resident of Kegalle, a candidate in Kegalle.. Hansan Kavasha Alahakoon is a student.
-
-...
-
-[Data](articles/24494a6d.json)
-
-[Extended Data](ext_articles/24494a6d.ext.json)
-
----
-
-### 32 inmates from Kuwait returned to the country
-
-*2024-11-25 16:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்திலிருந்து-32-கைதிகள்-நாடு-திரும்பினர்/175-347744) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-32 Sri Lankan inmates returned to Kuwait Central Prison on drug charges under 2007 Prisoners Transfer Agreement. They arrived at Katunayake airport on a special flight, accompanied by security officials and medical staff. The prisoners were taken to Welikada Prison.
-
-🟩
-
-At the Kuwait Central Prison on drug charges. Of the 104 Sri Lankan prisoners who are serving imprisonment, 32 people arrived at the Katunayake airport on Monday (25) by a special flight from Kuwait for the first time in history. ”
-
-They were sent to Sri Lanka by the government of the country under the 2007 Prisoners Transfer Agreement between Kuwait and Sri Lanka.
-
-In the Kuwait country, a group of Sri Lankans who were arrested and tried in court have been sent to the country for allegedly involved in dangerous drug use, trade and trafficking.
-
-Sri Lankan Ambassador to Kuwait, Kandiban Balasubramaniam, has been trying to send some prisoners to Sri Lanka since March.
-
-Later, they were brought to Kuwait with the close of the Kuwait and the Home Minister, using the close ties of the Sri Lankan ambassador, and they were brought to Kuwait's largest C-17 aircraft.
-
-...
-
-[Data](articles/0f5d5dd3.json)
-
-[Extended Data](ext_articles/0f5d5dd3.ext.json)
-
----
-
-### Sri Lanka gets CEB more time for new tariffs, but approval Jan 17: regulator
-
-*2024-11-25 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-ceb-more-time-for-new-tariffs-but-approval-jan-17-regulator-189776/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has been given more time to submit revised tariffs at their request but the earliest possible date that new prices could be approved is by January 17, the regulator has said.
-
-Sri Lanka’s Public Utilities Commission in a letter to the CEB has said the time to submit revised tariffs had been extended till December 06.
-
-Give the legal procedure set out in the Sri Lanka Electricity Act, the earliest possible date tariffs could be approved will be January 17, 2025, the regulator said.
-
-If the revised tariffs are not sent, the regulator could pass any ‘positive balance’ in the bulk supply transaction account to consumers. (Colombo/Nov26/2026)
-
-◼️
-
-[Data](articles/41c7bed0.json)
-
-[Extended Data](ext_articles/41c7bed0.ext.json)
-
----
-
-### US agency reviewing Adani Sri Lanka terminal funding: report
-
-*2024-11-25 16:14:00* · [`economynextcom`](https://economynext.com/us-agency-reviewing-adani-sri-lanka-terminal-funding-report-189779/) · `en`
-
-ECONOMYNEXT – US International Development Finance Corporation, a state agency that agreed to finance a port terminal promoted by India’s Adani group is conducting due diligence, a media report said, after bribery charges were filed against the group in America.
-
-“We continue to conduct due diligence to ensure that all aspects of the project meet our rigorous standards before any loan disbursements are made,” Bloomberg Newswires quoted a USIDC official as saying.
-
-“The project has not reached financial close or signed a loan agreement.”
-
-The US DFC said it would provide up to 553 million dollars for the terminal which is a joint venture with Sri Lanka’s John Keells group, in a move seen by some analysts a counter to China’s influence in the island.
-
-RELATED US DFC to lend US$553mn to JKH-Adani Sri Lanka terminal
-
-...
-
-[Data](articles/5e179cbc.json)
-
-[Extended Data](ext_articles/5e179cbc.ext.json)
-
----
-
-### Have efforts to create instructions
-
-*2024-11-25 16:12:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழிமுறைகளை-உருவாக்க-முயற்சிகள்-வேண்டும்/175-347742) · `ta`
-
-Efforts to enhance disaster management: Strengthen corporate structures, provide new solutions, implement existing laws, reduce costs through effective governance.
-
-🟩
-
-President Anurakumara Dissanayake said that efforts should be made to strengthen the corporate structures in disaster management.
-
-The President also pointed out that new solutions should be provided to prevent disasters in areas that are threatened and threatened.
-
-Defense Deputy Minister Aruna Jayasekara said this on Monday (25) while joining the swearing -in ceremony.
-
-The President pointed out that the law of disaster management has been prepared as per the studies and that it is the responsibility of the authorities to implement the laws.
-
-President Anuragumara Dissanayake has urged that he will be present for any of the officers who do so.
-
-The President also requested public servants to submit proposals to strengthen the legal framework for disaster management.
-
-The President added that the government spends too much for disaster management and that the cost of laws can be reduced by proper implementation.
-
-...
-
-[Data](articles/8b943f25.json)
-
-[Extended Data](ext_articles/8b943f25.ext.json)
-
----
-
-### Many tanks in Moneragala district spill
-
-*2024-11-25 16:09:25* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-දිස්ත්‍රික්කයේ-වැව්-රැසක්-වාන්-දමයි/11-413258) · `si`
-
-Moneragala district: Moutakandiya reservoir spill affects 5,216 acres, including 1,863 acre-feet of paddy fields.
-
-🟩
-
-The Moutakandiya reservoir in the Moutalaya region, which is located in the Irrigation Zone, has come to the Moutukandiya reservoir in the Moneragala district.
-
-The Mutukandiya reservoir in the Siyambalanduwa Divisional Secretariat area is the largest tank in the reservoir of 24,569 acres.
-
-The tank has been spiled in January this year and is currently 5,216 acre and two acres of paddy lands.Is being laid.
-
-1,863 acre feet of paddy fields cultivated and 474 acres of paddy cultivated.
-
-In addition, the Handapanagalawewa, Malinpothawewa, Malinupothawewa, Malinuphathuwewa, Malinupothawewa, Malinphathwewa, Malinphathwewa and Handapanagalawewa.
-
-◼️
-
-[Data](articles/03962770.json)
-
-[Extended Data](ext_articles/03962770.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 21:14:08**
+As of **2024-11-26 21:01:38**
 
 ## Newspaper Stats
 
-*Scraped **57,057** Articles*
+*Scraped **57,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,17 @@ adalk | 5,379
 adaderanalk | 6,906
 tamilmirrorlk | 8,116
 virakesarilk | 9,298
-adaderanasinhalalk | 9,858
+adaderanasinhalalk | 9,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,042 (100.0%) of 57,057 articles have been extended.
+57,042 (100.0%) of 57,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
-
-### සිසුන් 7ක් ඇතුළු 9ක් සැඩ පහරකට හසුවී ගසාගෙන යයි - ඉන් දෙදෙනෙකුව බේරා ගනී
-
-*2024-11-26 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203774) · `si`
-
-පාසල් නිමවී ට්‍රැක්ටරයකින් ගමන් කරමින් සිටි පාසල් දරුවන් 7 දෙනෙකු ඇතුළු 09 දෙනෙකු සැඩ පහරකට හසුවී අතුරුදන්වී තිබේ.
-
-අවුරුදු 12ත් 16ත් අතර වයසේ පසුවන දරුවන් එළෙස අනතුරට මුහුණදී ඇති බව වාර්තා වෙයි.
-
-නින්දවූර් මද්‍රාසා පාසලේ ඉගෙනුම ලැබූ සිසුන් අදාළ ට්‍රැක්ටර් රථයෙන් ගමන්කරමින් සිටියදී කාර්තිව් හන්දිය ආසන්නයේදී මෙම අනතුරට මුහුණදී තිබේ.
-
-◼️
-
-[Data](articles/cc759f5f.json)
-
----
 
 ### அவசர அறிவித்தல்…
 
@@ -2483,5 +2467,25 @@ Meanwhile, the Disaster Management Center (DMC) said that five families have bee
 [Data](articles/ebf0fc54.json)
 
 [Extended Data](ext_articles/ebf0fc54.ext.json)
+
+---
+
+### President Dissanayake to visit India on first foreign trip
+
+*2024-11-26 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103774/president-dissanayake-to-visit-india-on-first-foreign-trip) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake will undertake an official visit to India during the third week of December on an invitation by the Indian government.
+
+This was confirmed by the Cabinet spokesman, Minister Dr. Nalinda Jayatissa during the Cabinet press conference held today (26).
+
+Minister of Foreign Affairs Vijitha Herath had previously stated that Dissanayake will call on India’s Prime Minister Narendra Modi and External Affairs Minister S Jaishankar, who became the first foreign dignitary to call on Dissanayake when he was elected President in September and had extended the invitation.
+
+Jaishankar visited Sri Lanka in October after the National People’s Power (NPP) government led by Dissanayake came to power on September 23.
+
+...
+
+[Data](articles/ffdfacb2.json)
+
+[Extended Data](ext_articles/ffdfacb2.ext.json)
 
 ---

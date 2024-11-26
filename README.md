@@ -1,112 +1,526 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 16:01:10**
+As of **2024-11-26 17:43:47**
 
 ## Newspaper Stats
 
-*Scraped **56,993** Articles*
+*Scraped **57,013** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 438
 colombotelegraphcom | 579
-bbccomsinhala | 592
+bbccomsinhala | 593
 islandlk | 3,422
 economynextcom | 3,454
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,365
-adaderanalk | 6,897
-tamilmirrorlk | 8,103
+adalk | 5,373
+adaderanalk | 6,901
+tamilmirrorlk | 8,109
 virakesarilk | 9,285
-adaderanasinhalalk | 9,845
+adaderanasinhalalk | 9,846
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,982 (100.0%) of 56,993 articles have been extended.
+57,008 (100.0%) of 57,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### පාදුක්ක වටරැක දී මත්ද්‍රව්‍ය කිලෝ 86ක් සොයාගනී
+### Sri Lanka announces launch of ISB exchange after Cabinet approval
+
+*2024-11-26 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103785/sri-lanka-announces-launch-of-isb-exchange-after-cabinet-approval-) · `en`
+
+Sri Lanka has announced the official launch of the exchange of its outstanding International Sovereign Bonds (ISBs) totaling approximately USD 12.55 billion, as of 25 November 2024.
+
+This follows the approval of the terms and conditions of the Invitation by the new Cabinet of Ministers of Sri Lanka, which was formed on 18 November 2024, Sri Lanka’s Ministry of Finance, Planning and Economic Development said in a statement today.
+
+The Finance Ministry stated that the holders of the existing Bonds are invited to tender their Bonds and exchange them for new instruments over a three-week period, with the final deadline set for 12 December 2024.
+
+Furthermore, the statement highlighted that Sri Lanka strongly encourages all holders to participate in the exchange process as early as possible.
+
+...
+
+[Data](articles/b62fb82d.json)
+
+---
+
+### வெள்ள நீரில் சிக்கி ஒருவர் மாயம்
+
+*2024-11-26 17:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-நீரில்-சிக்கி-ஒருவர்-மாயம்/175-347810) · `ta`
+
+சீரற்ற கால நிலை காரணமாக வெள்ள நீரினால் ஒருவர் இழுத்து செல்லப்பட்டுள்ள சம்பவம் மட்டக்களப்பில் பதிவாகியுள்ளது.
+
+வெல்லாவெளிக்கும் மண்டூருக்குமான பிரதான  தாம்போதிக்கு மேலால் வீதியை மூடி 4 அடி உயரத்தில் வெள்ள நீர் பாய்ந்து ஓடும் நிலையில்; அதனை கடந்து செல்ல முற்பட்ட போதே குறித்த நபரை  வெள்ள நீர் இழுத்து சென்று காணாமல் போயுள்ளார்
+
+அத்துடன்  பட்டிப்பளை, காத்தான்குடி, கோறளைப்பற்று கிரான், மண்முனை வடக்கு, ஏறாவூர்பற்று செங்கலடி, பிரதேச செயலகப் பிரிவிலுள்ள 161 குடும்பங்களைச் சேர்ந்த 522 பேர் உறவினர் வீடுகளில் தஞ்சமடைந்துள்ளதுடன் குளங்களின் வான்கதவுகள் திறக்கப்பட்டுள்ளதால் பல பிரதேசங்களுக்கான போக்குவரத்து நிறுத்தப்பட்டுள்ளது.
+
+இந்த தொடர் மழையால் மாவட்டத்திலுள்ள பல தாழ்நில பிரதேசங்களில் வெள்ள நீர்  வீடுகளுக்குள் புகுந்துள்ளதுடன் பல பிரதேசங்களில் வீதிகளில் உள்ள   மரங்கள் முறிந்து வீழ்ந்துள்ளது.
+
+...
+
+[Data](articles/e02bf3ed.json)
+
+---
+
+### ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம் உருவாகியது
+
+*2024-11-26 17:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆழ்ந்த-காற்றழுத்த-தாழ்வு-மண்டலம்-உருவாகியது/175-347809) · `ta`
+
+நாட்டைச் சூழவுள்ள ஆழமான மற்றும் ஆழமற்ற கடற்பரப்புகள் மற்றும் நிலப்பகுதிகள் தொடர்பில் அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+
+தென்மேற்கு வங்கக்கடலில் நிலை கொண்டுள்ள காற்றழுத்த தாழ்வு நிலை ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலமாக மாறியுள்ளது.
+
+இன்று (26) முற்பகல் 11.00 மணியளவில் மட்டக்களப்பில் இருந்து 170 கிலோமீற்றர் தொலைவிலும் திருகோணமலையிலிருந்து 240 கிலோமீற்றர் தொலைவிலும் தென்கிழக்கு திசையில் நிலைகொண்டுள்ள இந்த அமைப்பு, நாட்டின் கிழக்கு கரையை அண்மித்து நகர்ந்து நாளை (27) மேலும் வலுவடைந்து சூறாவளியாக மாற வாய்ப்புள்ளது.
+
+இதன் தாக்கத்தினால் நாட்டின் பல பகுதிகளில் வானம் மேக மூட்டத்துடன் காணப்படுவதுடன், வடக்கு, வடமத்திய, கிழக்கு, ஊவா, வடமேற்கு மற்றும் மத்திய மாகாணங்களில் மிக அதிக மழை மற்றும் பலத்த காற்று வீசக்கூடும்.
+
+நாட்டின் பெரும்பாலான பகுதிகளில் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+
+வடக்கு, வடமத்திய, கிழக்கு, மத்திய, ஊவா மற்றும் தென் மாகாணங்களிலும் புத்தளம் மாவட்டத்திலும் சில இடங்களில் 200 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/11ced2d3.json)
+
+---
+
+### මහජන ආරක්ෂක ඇමතිගේ ප්‍රකාශයේ අර්ථය වෙනස් කරලා
+
+*2024-11-26 16:55:21* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-ආරක්ෂක-ඇමතිගේ-ප්‍රකාශයේ-අර්ථය-වෙනස්-කරලා/11-413285) · `si`
+
+"එල්.ටී.ටී.ඊ සංවිධානය තහනම් සංවිධානයක් වුවත් ඔවුන්ගේ බැනර්,ලාංඡන,ඡායාරූප යොදාගනිමින් මියගිය සාමාජිකයින් සැමරීමට බාධාවක් නොමැති" බවට මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා ප්‍රකාශ කළේ යැයි සඳහන් කළ නොමග යවනසුළු පුවත් ඇතැම් ප්‍රධාන මාධ්‍ය, සමාජ මාධ්‍ය, යූ ටියුබ් හා වෙබ් පිටු මගින් ප්‍රචාරය කෙරෙමින් පවතින බව අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+නමුත් එම වීඩියෝ පට පසුගිය දා ගල්ගමුව ප්‍රදේශයේ දී පැවති වැඩසටහනකදී මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා මාධ්‍ය වෙත ලබා දුන් ප්‍රකාශය අර්ථය වෙනස් වන පරිදි සංස්කරණය කළ වීඩියෝ දර්ශන බවද එම නිවේදනයේ දැක්වෙයි.
+
+මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා එම අවස්ථාවේ සදහන් කර සිටියේ "නීත්‍යානුකූලව තමන්ගේ ඥාතියෙකුගේ මියයාම සමරන්නට ඕනෑම කෙනෙකුට ඉඩ ඇති නමුත් මහවිරු සැමරුම් කරන්නට ඉඩකඩක් නොමැති බවත්, එල්.ටී.ටී.ඊ ලාංඡනය හෝ නිල ඇඳුම් හෝ එහි පින්තූර භාවිත කරන්නට ඉඩකඩ නොමැති බවත්ය.
+
+...
+
+[Data](articles/a085710c.json)
+
+---
+
+### New Mahanayake Thero of Amarapura Chapter appointed
+
+*2024-11-26 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103784/new-mahanayake-thero-of-amarapura-chapter-appointed-) · `en`
+
+Most Venerable Karagoda Uyangoda Maithri Murthi Thero has been appointed the Mahanayake Thero of the Amarapura Chapter.
+
+◼️
+
+[Data](articles/0c11599f.json)
+
+---
+
+### 70000 tons of Nadu rice imports
+
+*2024-11-26 16:49:35* · [`adalk`](https://www.ada.lk/breaking_news/නාඩු-සහල්-ටොන්-70000ක්-ආනයනය-කරයි/11-413284) · `si`
+
+Sri Lanka Cabinet approves importing 70,000 metric tons of Nadu rice to stabilize local market prices. Rice will be distributed systematically based on demand through Quality and Co-operatives. Import done via international bidding process.
+
+🟩
+
+Cabinet spokesperson Minister Nalinda Jayatissa said that the Cabinet was approved to import 70,000 metric tons of nadu rice in the local market.
+
+The Minister was speaking at a press briefing to inform the Cabinet Decisions held today.
+
+The Minister gradually issues the rice systematically through the Quality and Co-operatives according to the local market requirement.
+
+The Minister added that this program will be implemented to control the local farmer to control the price of rise.
+
+The importation of these rice is done in accordance with an international bidding call.
+
+◼️
+
+[Data](articles/73144abb.json)
+
+[Extended Data](ext_articles/73144abb.ext.json)
+
+---
+
+### Government explains about Veyangoda treasure hunting
+
+*2024-11-26 16:41:09* · [`adalk`](https://www.ada.lk/breaking_news/වේයන්ගොඩ-නිදන්-හෑරීම-ගැන-රජයෙන්-පැහැදිලි-කිරීමක්/11-413283) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka: Government clarifies Veyangoda treasure hunt controversy. Cabinet Minister Nalin Jayatissa explains excavation ordered by Attanagalla Magistrate's Court. Several teams involved, arrests made. Archaeological department denies involvement. Government denies responsibility, claims action based on court order.
+
+🟩
+
+At the press conference, Cabinet spokesman Minister Nalin Jayatissa explained the Cabinet Decision informed of the controversial vey.
+
+The Minister said that this excavation was carried out by the Attanagalla Magistrate's Court.
+
+"Several teams have been carried out with treasures in this place. The Department of Archeology had not said that there was no single way.
+
+Several people were arrested and produced before court. This court may have given the order.
+
+This is not really the government or police or police. Baca was placed in terms of the order given by the magistrate. We don't believe that things are there. "
+
+◼️
+
+[Data](articles/e37af7b9.json)
+
+[Extended Data](ext_articles/e37af7b9.ext.json)
+
+---
+
+### Mahaweliu Galai - Polonnaruwa - Batticaloa road closed
+
+*2024-11-26 16:31:44* · [`adalk`](https://www.ada.lk/breaking_news/මහවැලිගඟ-මනම්පිටියෙන්-පිටාර-ගලයි---පොලොන්නරුව---මඩකලපුව-මාර්ගය-වසයි/11-413282) · `si`
+
+Polonnaruwa-Batticaloa road closed due to Mahaweli River overflow. Alternative route: Dehiattakandiya Bakandiya road. Inquiry ongoing to open second channel. Nighttime operations planned.
+
+🟩
+
+The Polonnaruwa Management Officer, the Polonnaruwa main road has been completely stopped due to the influence of the Mahaweli River from the Manampitiya area.
+
+The Polonnaruwa Disaster Management office will inform the public that the Dehiattakandiya Bakandiya Bakandiya road can be used as alternative routes.
+
+The Polonnaruwa Iriya Iriya Iari River Sumpart is an inquiry into the Mahaweli River to open a second fourth foot annihilation to the Mahaweli River.
+
+Atbekokara said he will open three feet three feet at night.
+
+◼️
+
+[Data](articles/6041e061.json)
+
+[Extended Data](ext_articles/6041e061.ext.json)
+
+---
+
+### Cabinet approval to restructure international code
+
+*2024-11-26 16:27:58* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-සෛවරීත්ව-බැඳුම්කර-ප්‍රතිව්‍යුහගත-කිරීමට-කැබිනට්-අනුමැතිය/11-413281) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Cabinet approves plan to reorganize international codes and denominations. This decision aims to streamline processes and improve efficiency across various sectors. The restructuring will likely impact how countries handle financial transactions, trade agreements, and regulatory compliance.
+
+🟩
+
+The Cabinet has approved a proposal to restructure the denomination of denominations regarding the restructuring process.
+
+◼️
+
+[Data](articles/d593e3fc.json)
+
+[Extended Data](ext_articles/d593e3fc.ext.json)
+
+---
+
+### ‘Red’ alert issued as deep depression intensifies near Sri Lanka
+
+*2024-11-26 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103783/red-alert-issued-as-deep-depression-intensifies-near-sri-lanka) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and sallow sea areas around the island due to the deep depression over Southwest Bay of Bengal.
+
+As per the warning, the depression over the southwest Bay of Bengal has intensified into a deep depression. The system was located to southeast about 170 km of Batticaloa and 240 km of Trincomalee at around 11:00 a.m. of November 26, 2024.
+
+It is likely to move closer to the east coast of the island and intensify further into a cyclonic storm on November 27, the advisory said.
+
+Under influence of the system cloudy skies will prevailed over most parts of the island, very heavy showers and strong gusty winds can be expected in Northern, North-central, Eastern, Uva, North-western and Central provinces.
+
+...
+
+[Data](articles/3c190e92.json)
+
+[Extended Data](ext_articles/3c190e92.ext.json)
+
+---
+
+### Current bungalows shut down
+
+*2024-11-26 16:21:39* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-බංග්ලා-කිහිපයක්-වසා-දමයි/11-413280) · `si`
+
+Wildlife Tourism bungalows closed due to inclement weather. National Park Bungalow, Thaggamuwa National Park Bungalow, Thaggaswada Bungalow affected. Department of Wildlife takes steps to address closures and floods.
+
+🟩
+
+Due to the prevailing inclement weather, the Wildlife Tourism bungalow has decided to be closed again until several wildlife bungalows.
+
+The Department says the Mahaweli circuit bungalow of the National Park Bungalow, Thaggamuwa National Park Bungalow, Thaggaswada Bungalow, Thaggamuwa National Pardon, Thaggamuwa National Pardon, Thagamuwa National Parda.
+
+The Department of Wildlife added that steps have been taken to close the inclement weather and floods in the island these days.
+
+◼️
+
+[Data](articles/c3107871.json)
+
+[Extended Data](ext_articles/c3107871.ext.json)
+
+---
+
+### "If you do not appoint as an MP, I will be able to self -indulgent"
+
+*2024-11-26 16:15:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியாக-நியமிக்காவிடில்-தன்னுயிரை-மாய்ப்பேன்/175-347807) · `ta`
+
+Dushara Hindu threatens suicide if not appointed MP via National List. Party leader Sajith Premadasa urged to consider his request. Similar demands from other former parliamentarians like Sujeewa Senasinghe. Political pressure mounts for appointments.
+
+🟩
+
+Former United People's Power Member of Parliament Dushara Hindu said that he would commit suicide if he did not appoint him to Parliament by the National List.
+
+“I got more than 40,000 preferential votes in the general election this year. So, to hire me from the national list. I have already spoken to party leader Sajith Premadasa and I hope he will listen to my request. If I do not appoint me to the congregation, I will end my life. ”
+
+The party leader has become an orphaned, as many are demanding the appointment of themselves through the national list.
+
+Former parliamentarian Sujeewa Senasinghe has also said that he should be placed on the national list as the party leader's promise.
+
+“I was asked not to contest the election from Kandy, the party leadership promised me to appoint me from the national list. Therefore, I am eligible to be appointed from the national list, ”said Sujeewa Senasinghe.
+
+◼️
+
+[Data](articles/cdade714.json)
+
+[Extended Data](ext_articles/cdade714.ext.json)
+
+---
+
+### Two suspects arrested with 86 km of narcotics
+
+*2024-11-26 16:14:49* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝග්‍රෑම්-86ක්-සමග-පුද්ගලයන්-දෙදෙනෙකු-අත්අඩංගුවට/11-413279) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"2 suspects caught w/86km drugs in Kotaraka: 29kg heroin & 57kg morphine seized."
+
+🟩
+
+Two persons were arrested in the Kotaraka area with 86 km of drugs.
+
+There were 29 kilograms of heroin and 57 kilograms of heroin were found in possession of seized persons.
+
+◼️
+
+[Data](articles/9ab92e8a.json)
+
+[Extended Data](ext_articles/9ab92e8a.ext.json)
+
+---
+
+### If not handed over income and expenditure reports in general
+
+*2024-11-26 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203762) · `si`
+
+Elections Commission mandates candidates submit income-expenditure reports within 21 days post-election. Failure to comply may result in police complaints. Reports due December 6th to Election District Selection Officer.
+
+🟩
+
+The Elections Commission says that the candidates who contested at the General Election should be handed over to their income and expenditure records.
+
+Commissioner General Saman Sri Ratnayake said,
+
+"The general election was held on November 14, 2024. On the 15rd of the 15th. The candidates of all parties and independent groups contesting within 21 days of the results of 21 days have been united. "
+
+"And those political parties and independent groups must hand over their income more expenses. These reports should be handed over to the Selection Officer of the Elections in the Elections in the Election District which was contesting before December 6 or day. "
+
+"It is necessary to complain to the police regarding candidates who cannot accept income and expenses before December 6 or previous."
+
+◼️
+
+[Data](articles/d42d1587.json)
+
+[Extended Data](ext_articles/d42d1587.ext.json)
+
+---
+
+### Magic
+
+*2024-11-26 16:08:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரட்டையரில்-ஒருவர்-மாயம்/175-347806) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Missing: 21-year-old Sanuka Kimbara Perera, student at German Technical Training College, Moratuwa. Disappeared while sleeping in cot with twin brother in Millennium area. Parents reported eldest son missing when waking up at 4:30 AM on Monday.
+
+🟩
+
+The sudden disappearance of the other brother who was sleeping in the same cot with a twin brother has taken place in the Millennium area.
+
+The missing was 21 -year -old Sanuka Kimbara Perera, a 21 -year -old study at the German Technical Training College, Moratuwa, Palladudawa, Bandaragama.
+
+The twin brothers had gone to their room as usual on Sunday (24) and went to their room.
+
+According to a complaint lodged by the parents that the eldest son was missing when the two sons looked at the room where the two sons were asleep, when the door of the mother's house was open to the two men who woke up to cook for food at around 4.30 am on Monday (25).
+
+◼️
+
+[Data](articles/0ff1a89f.json)
+
+[Extended Data](ext_articles/0ff1a89f.ext.json)
+
+---
+
+### STF nabs two with over 86kg of ‘Ice’ and heroin in Padukka
+
+*2024-11-26 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103782/stf-nabs-two-with-over-86kg-of-ice-and-heroin-in-padukka) · `en`
+
+The Police Special Task Force (STF) has arrested two individuals who were in the possession of a total of more than 86 kilograms of narcotic substance in the Watareka area in Padukka.
+
+Police said that a stock of 57 kilograms and 380 grams of ‘Ice’ drugs (Crystal Methamphetamine) and 29 kilograms and 750 grams of heroin was found in the possession of the arrested suspects.
+
+The arrested individuals, aged 41 and 37, have been identified as residents of Borella and Thalawathugoda areas, according to police.
+
+◼️
+
+[Data](articles/c7c02ded.json)
+
+[Extended Data](ext_articles/c7c02ded.ext.json)
+
+---
+
+### 86 kilograms of drugs uncovered in Padukka
 
 *2024-11-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203761) · `si`
 
-පාදුක්ක වටරැක ප්‍රදේශයේ දී විශේෂ කාර්ය බළකාය සිදුකළ වැටලීමක දි මත්ද්‍රව්‍ය තොගයක් සොයාගෙන තිබේ.
+Large drug bust in Sri Lanka: Police find 86kg of ice and heroin, arrest two suspects aged 41 and 37.
 
-පොලීසිය පැවසුවේ එහිදී අයිස් මත්ද්‍රව්‍ය කිලෝ 57ක් සහ හෙරොයින් කිලෝ 29ක් සොයා ගත් බවයි.
+🟩
 
-එහිදී සැකකරුවන් දෙදෙනෙකුද අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් වයස අවුරුදු 41 සහ 37 වන බොරැල්ල සහ තලවතුගොඩ ප්‍රදේශවල පදිංචිකරුවන්ය.
+A large haul of drugs have been found at the Special Task Force in the Kotaraka area in Kotukara.
+
+Police said that 57 kg of ice drugs and 29 kilos of heroin were found.
+
+Two suspects were arrested and residents of age 41 and 37th Borella and Talawatugoda.
 
 ◼️
 
 [Data](articles/c886535c.json)
 
+[Extended Data](ext_articles/c886535c.ext.json)
+
 ---
 
-### හෙට ප්‍රදේශ කිහිපයකට මි.මී.200ට වැඩි වැසි
+### Live location on Instagram
+
+*2024-11-26 15:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இன்ஸ்டாகிராமில்-லைவ்-லொகேஷன்/57-347803) · `ta`
+
+Instagram introduces live location sharing in DMs, lasting up to 60 minutes. Feature available in select countries. Cannot be forwarded. New sticker trends and name tags also added.
+
+🟩
+
+Meta has introduced users to share their live location on Instagram, just as in WhatsApp Messenger.
+
+Instagram is the photo and video share share of Meta company. Launched in 2010. Information that billions of active users are using the Instagram site worldwide today worldwide. It is customary to introduce new features from time to time for users' use experience on this site.
+
+In that way, it is now being introduced in the sharing feature of Live Lockery. With this, Instagram users can share their location through direct messages. This live location will be activated for a maximum of 60 minutes. WhatsApp can be shared with a live location for up to 8 hours.
+
+This can be shared with one another, the group. Yet it cannot be forwarded to others. It has been reported that the Indicator related to this will be in the Chad box.
+
+This feature is now available for users in some countries, according to Meta. Insta users have also introduced their names in direct messages and 17 stickers trends.
+
+◼️
+
+[Data](articles/3e3efd32.json)
+
+[Extended Data](ext_articles/3e3efd32.ext.json)
+
+---
+
+### Showers in several areas tomorrow
 
 *2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203760) · `si`
 
-දිවයින වටා ගැඹුරු හා නොගැඹුරු මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා අවධානයෙන් සිටින ලෙස දන්වා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් රතු නිවේදනයක් නිකුත් කර තිබේ.
+Red alert: Heavy rainfall & strong winds expected in Northern, Eastern, Central, Uva & Southern Provinces. Isolated areas may receive over 500mm rainfall. Stay updated for further instructions.
 
-එහි සඳහන් වන්නේ නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති පීඩන අවපාතය ගැඹුරු පීඩන අවපාතයක් දක්වා වර්ධනය වී ඇති බවය.
+🟩
 
-මෙම පද්ධතිය අද (26) දින පෙරවරු 11.00 ට පමණ මඩකලපුවේ සිට කිලෝමීටර් 170 ක් සහ ත්‍රිකුණාමලයට කිලෝමීටර් 240 ක් පමණ දුරින් ගිනිකොන දෙසින් පිහිටා ඇති අතර එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව ගමන් කර හෙට (27) දිනයේ සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇති බව සඳහන් වේ.
+The Department of Meteorology has issued a red announcement by the Meteorological Department informs that the island around the island.
 
-මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු, උතුරුමැද, නැගෙනහිර, ඌව, වයඹ සහ මධ්‍යම පළාත්වල ඉතා තද වැසි සහ තද සුළං බලාපොරොත්තු විය හැක.
+The press recession in the southwest Bay of Bay of Bay of Bay of Baying recession has increased to a deeper pressure recession.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
+This system is located 170 km and 240 km away from Batticaloa and 240 km away from Batticaloa.Is.
 
-උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම ,ඌව සහ දකුණු පළාත්වලත් පුත්තලම දිස්ත්‍රික්කයෙත් ඇතැම් ස්ථානවලට මි.මී.200 ට වැඩි ඉතා තද වැසි ඇතිවිය හැක.
+Due to the impact of this system, there are high rain and strong winds in the North, North Central, Eastern, Uva and Central provinces.
 
-දිවයිනේ සෙසු ප්‍රදේශවලත් ඇතැම් ස්ථානවලට මි.මී.100 ට වැඩි තද වැසි ඇතිවිය හැක.
+There will be a rainy or thundershowers at times in the island.
+
+Heavy showers in the Puttalam, North-Central, Central, Uva and Southern provinces can also occur at more than 500 mm.
+
+Heavy rains can occur in the rest of the island.
 
 ◼️
 
 [Data](articles/0e72a733.json)
 
+[Extended Data](ext_articles/0e72a733.ext.json)
+
 ---
 
-### තහනම් සංවිධාන සැමරීමට කිසි﻿දු ඉඩක් නැහැ - කැබිනට් ප්‍රකාශක
+### There is no room for celebrating banned organizations - Cabinet spokesman
 
 *2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203759) · `si`
 
-තහනම් සංවිධානයක් වන එල්.ටී.ටී.ඊ සංවිධානය ප්‍රවර්ධනය කිරීම සඳහා කිසි﻿ඳු ඉඩක් නොමැති බව කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අද (26) අවධාරණය කළේය.
+Here's a summary of 200 characters:
 
-උතුරේ සිදුකළ බව කියන සැමරුම් පිළිබඳව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නවලට පිළිතුරු දෙමින් අද පැවති කැබිනට් මාධ්‍ය හමුවේදී කැබිනට් ප්‍රකාශක, අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මේ බව සඳහන් කළේය.
 
-"ත්‍රස්තවාදී සංවිධාන, තහනම් සංවිධානවලට මුදල් එකතු කිරීම, ප්‍රචාරණය කිරීම, සංවිධානය කිරීම, ඊට අදාළ ලාංඡන, කොටි, බැනර්, සංකේත ප්‍රදර්ශනය කිරීම රජය විසින් ගැසට් පත්‍රයක් නිකුත් කරලා තියෙනවා. ඒ අනුව තමයි අපි කටයුතු කරන්නේ."
 
-"ඒ නිසා කිසිම ආකාරයකින් ත්‍රස්තවාදී සංවිධාන, තහනම් සංවිධානවල සැමරුම් සිදුකරන්න අයිතියක් නැහැ."
+Sri Lanka: No celebration allowed for banned LTTE. Government stance: Respect mourning relatives, but no promotion of terrorist groups. Police will act against illegal commemorations.
 
-"හැබැයි යම් තැනක තමන්ගේ මියගිය ඥාතීන් සමරනවා නම් පෞද්ගලිකව.. ඒකට බාධා කරන්න රජයට අයිතියක් නැහැ. අපි බොහොම පැහැදිලිව කියලා තියෙනවා... ඥාතීන් සමරන්න ඒ අයට තිබෙන අයිතියට අපි ගරු කරන අතරේ වෙනත් ආකාරයක නීතිවිරෝධී කටයුතු සඳහා අවස්ථාවක් ලැබෙන්නේ නැහැ."
+🟩
+
+Cabinet Spokesperson Dr. Nalinda Jayatissa stressed that there is no room for the promotion of the LTTE, a banned organization.
+
+Minister of Cabinet spokesman, Minister Dr. Nalinda Jayatissa made these comments addressing the issues raised by journalists regarding the celebrations of journalists.
+
+"Terrorist organizations, organizing, organize, organize, organize, organize, organize, relevant logo, Tigers, banners and symbols have been displayed. That is what we are working. "
+
+"Therefore, terrorist organizations have no right to commemorate the celebrations of banned organizations."
+
+"But if their dead relatives celebrate, personally.. The government has no right to interfere. We have been very clear.. While we respect the right to celebrate relatives, and there is no opportunity for another kind of illegal activities. "
 
 ...
 
 [Data](articles/cc5545d2.json)
 
+[Extended Data](ext_articles/cc5545d2.ext.json)
+
 ---
 
-### பதவியேற்ற முதல் நாளே கனடா மெக்சிக்கோ சீன பொருட்கள் மீதான வரி அதிகரிப்பு - டிரம்ப்
+### Tax Increase on Mexico Chinese Goods in Canada - Trump
 
 *2024-11-26 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199736) · `ta`
 
-ஜனாதிபதியாக பதவியேற்றதும் கனடா சீனா மெக்சிக்கோ ஆகியநாடுகளில் இருந்து வரும் பொருட்களிற்கான வரிகளை அதிகரிப்பேன் என டொனால்ட் டிரம்ப் அறிவித்துள்ளார்
+Here's a summary of 200 characters:
 
-அமெரிக்க எல்லைக்கு அப்பாலிருந்து வரும் சட்டவிரோத குடியேற்றம்,குற்றங்கள் போதைப்பொருட்களிற்கு எதிரான பதிலடியாகவே இதனை செய்யப்போவதாக டிரம்ப் தெரிவித்துள்ளார்.
 
-ஜனவரி 20ம் திகதி ஜனாதிபதி என்ற அடிப்படையில் எனது முதலாவது உத்தரவு கனடா மெக்சிக்கோவிற்கு எதிராக 25 வீத வரியை விதிப்பதாக காணப்படும் என தெரிவித்துள்ள டிரம்ப், இந்த நாடுகளில் இருந்து அமெரிக்க எல்லைக்குள் வருகின்ற அனைத்து பொருட்களிற்கும் இந்த வரிவிதிக்கப்படும் என தெரிவித்துள்ளார்.
 
-போதைப்பொருட்களும் சட்டவிரோத குடியேற்றவாசிகளும் அமெரிக்காவிற்குள் வருவது நிறுத்தப்படும்வரை இந்த வரிகள் நீடிக்கும் என டிரம்ப் தெரிவித்துள்ளார்.
+Donald Trump plans to impose a 25% tax on Mexican and Chinese goods entering Canada when he becomes president. He claims this is to combat illegal immigration and crime along the US-Mexico border. The tax will remain in place until drug trafficking and illegal immigration cease. This move has raised concerns about increased costs for American businesses and consumers.
 
-...
+🟩
+
+Donald Trump has announced that he will increase taxes for goods coming from China Mexico when he takes office as president
+
+Trump has said he will do this in response to illegal immigration and crimes from the US border.
+
+Trump said my first directive on January 20 would be imposed on Canada's 25 percent against Mexico, and that the tax would be taxed for all the goods coming from the US borders from these countries.
+
+Trump said the taxes would last until drugs and illegal immigrants enter the United States.
+
+Trump has said that the long -standing problem of the US can be resolved.
+
+Meanwhile, Trump's move has expressed fears that the costs of American traders and consumers will increase.
+
+◼️
 
 [Data](articles/351b8964.json)
+
+[Extended Data](ext_articles/351b8964.ext.json)
 
 ---
 
@@ -126,6 +540,8 @@ Under Regulation 11(7) of the Food Safety and Standards (Import) Regulation, 201
 
 [Data](articles/fd3f40be.json)
 
+[Extended Data](ext_articles/fd3f40be.ext.json)
+
 ---
 
 ### Cabinet Spokesman responds to claims over lack of Muslim Ministers
@@ -144,19 +560,89 @@ Responding to a question during today’s Cabinet press briefing, he noted that 
 
 [Data](articles/b98955a2.json)
 
+[Extended Data](ext_articles/b98955a2.ext.json)
+
 ---
 
-### තහනම්කර ඇති කිසිම සැමරුමකට ඉඩක් නෑ
+### "No one from Vyantamaka is appointed"
+
+*2024-11-26 15:15:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியத்மகவில்-இருந்து-எவரையும்-நியமிக்கவில்லை/175-347801) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+No Vyantamaka representatives appointed as ministers or secretaries. Cabinet denies supporting NPP government. Minister clarifies Professor Kapila Perera's appointment based on qualifications, not political affiliation.
+
+🟩
+
+Cabinet spokesman and Media Minister Nalinda Jayatissa today confirmed that no one has been appointed as ministers or ministry secretaries from Vyitamaka, while condemning the alleged support for the National People's Power (NPP) government.
+
+A journalist questioned the appointment of Professor Kapila Perera as Secretary of the Ministry of Transport, Highways, Ports and Civil Aviation Services.
+
+Responding to the question, Minister Jayatissa said that Professor Kapila Perera had nothing to do with it.
+
+“Professor Kapila Perera was appointed only based on his qualifications and past experience. The government considered his abilities before appointing him to the post of Secretary, ”he explained.
+
+The Minister made it clear that Prasanna Gunasena, a dentist from the Kandy district, was not the doctor Prasanna Gunasena, who was associated with Vathamakam, but that the two were different.
+
+◼️
+
+[Data](articles/e051c952.json)
+
+[Extended Data](ext_articles/e051c952.ext.json)
+
+---
+
+### There is no room for prohibited celebration
 
 *2024-11-26 14:59:02* · [`adalk`](https://www.ada.lk/breaking_news/තහනම්කර-ඇති-කිසිම-සැමරුමකට-ඉඩක්-නෑ/11-413278) · `si`
 
-කිසිදු ආකාරයකින් තහනම් සංවිධානයක සැමරුම් , ලාංඡන, කොඩි කිසිවක් ප්‍රදර්ශනය කිරීමට අවස්ථාවක් නොමැති බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස ප්‍රකාශ කරයි.
+Here's a summary in 200 characters:
 
-යම් කිසි අයකුට යම් ස්ථානයක මියගිය ඥාතියකු සැමරීමක්, සිහිපත්කිරීමක් කල හැකි බවත් ඊට රජයක් විසින් බාධාවක් නොකරන බවත් අද (26) පැවති කැබිනට මාධ්‍ය හමුවේදී වැඩිදුරටත් ඒමහතා පැවසීය.
+
+
+No room for prohibited celebrations: Cabinet spokesperson Nalinda Jayatissa says no displays of banned logos and flags allowed. Press conference to remember deceased relative and celebrate government, unaffected by current situation on April 26th.
+
+🟩
+
+Cabinet spokesperson Minister Nalinda Jayatissa states that there is no opportunity to display any banned, logos and flags in any way.
+
+A press conference to commemorate a deceased relative and remembered that a government could be celebrated and that a government is not hindered by a government today (26).
 
 ◼️
 
 [Data](articles/69f735da.json)
+
+[Extended Data](ext_articles/69f735da.ext.json)
+
+---
+
+### Here are the Sri Lankan players bought at the IPL auction
+
+*2024-11-26 14:49:26* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්-වෙන්දේසියේදී-මිලදී-ගත්-ශ්‍රී-ලාංකික-ක්‍රීඩකයන්-මෙන්න/9-413277) · `si`
+
+Sri Lanka players sold: Ashan Malinga ($7.5m), Nuwan Thushara ($1.6m) to IPL teams.
+
+🟩
+
+The Auction at the Indian Premier League (IPL) was held yesterday (25) and on Monday.
+
+Six Sri Lankan players were purchased by teams.
+
+Accordingly, the Rajasthan Royals team purchased Indian rupees for Rs.
+
+Meanwhile, Ashan Malinga was purchased by the Sunrisers Hyderabad team for Rs 1.2 billion to Rs.
+
+The Royal Challengers Banglourors were purchased at Rs. 1.6 billion to Nuwan Thushara.
+
+Meanwhile, Delhi Cesitals team purchased the Dammane Chameera to a sum of Rs.
+
+◼️
+
+[Data](articles/015bd513.json)
+
+[Extended Data](ext_articles/015bd513.ext.json)
 
 ---
 
@@ -173,6 +659,8 @@ He further elaborated, stating, “The current foreign reserves, which have reac
 ...
 
 [Data](articles/8aed9e93.json)
+
+[Extended Data](ext_articles/8aed9e93.ext.json)
 
 ---
 
@@ -193,6 +681,8 @@ He assured that the government is approaching changes in the education sector wi
 ◼️
 
 [Data](articles/709960a7.json)
+
+[Extended Data](ext_articles/709960a7.ext.json)
 
 ---
 
@@ -358,15 +848,25 @@ NDB Investment Bank Limited is the manager and placement agent to the issue. (Co
 
 ---
 
-### විදුලි ගාස්තු සංශෝදනය ගැන සාවද්‍ය වාර්තා මණ්ඩලය ප්‍රතික්ෂේප කරයි
+### Board refuses toxic records on electricity tariff
 
 *2024-11-26 13:43:42* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝදනය-ගැන-සාවද්‍ය-වාර්තා-මණ්ඩලය-ප්‍රතික්ෂේප-කරයි/11-413276) · `si`
 
-විදුලි ගාස්තු සම්බන්ධයෙන් පළවන සාවාද්‍ය ප්‍රකාශ තරයේ ප්‍රතික්ෂේප කරන බව ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ඉංජිනේරු ඒ.ඩී.කේ.පරාක්‍රමසිංහ මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+Here's a summary of 200 characters:
+
+
+
+CEB rejects toxic records on electricity tariff claim. CEB spokesperson denies allegations, stating no evidence supports such claims.
+
+🟩
+
+Ceylon Electricity Board (CEB) ADKPrakinasha, the Ceylon Electricity Board (CEB) said in a statement.
 
 ◼️
 
 [Data](articles/c5053af9.json)
+
+[Extended Data](ext_articles/c5053af9.ext.json)
 
 ---
 
@@ -1394,6 +1894,34 @@ Cabinet spokesman Dr. Nalinda Jayatissa said that the cabinet approved the impor
 
 ---
 
+### Central Bank Bonds Fraud: Arjun Mahendran summoned to court
+
+*2024-11-26 10:44:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgmv07p308vo) · `si`
+
+Arjun Mahendran summoned court Central Bank Bonds Fraud Bribery Commission investigation 2015
+
+🟩
+
+Former Central Bank Governor Arjun Mahendena released as a suspect in a complaint filed by the Bribery Commission in 2015, the former Central Bank Governor Arjun Mahendena releasedThe Colombo Magistrate's Court today ordered today.
+
+The order was issued by the Chief Magistrate Thilina Gamage of Colombo after considering a request made by the Commission.
+
+The Deputy Director General of the Bribery Commission appeared before the Bribery Commission, the Central Bank bonds made by the Central Bank of Sri Lanka in February 2015 were investigated by the Government of Sri Lanka in February 10 billion rupees.
+
+She added that a number of statements were recorded in respect of this incident.
+
+Investigations say that the General Bank said that the Central Bank had a specific procedure to be followed in a bond issue, but it was evident in the procedure.
+
+The Deputy Solicitor General also stated that the government had caused a loss of over Rs.
+
+...
+
+[Data](articles/294e9f11.json)
+
+[Extended Data](ext_articles/294e9f11.ext.json)
+
+---
+
 ### The cyber criminals of Myanmar rescuers another 32 bare
 
 *2024-11-26 10:42:04* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සයිබර්-අපරාධකරුවන්ගේ-ග්‍රහණයේ-සටි-තවත්-32ක්-බේරා-ගැනෙති/11-413270) · `si`
@@ -1947,479 +2475,5 @@ The Commissioner General of Examinations Amitha Jayasundara said that the delays
 [Data](articles/28a5ac60.json)
 
 [Extended Data](ext_articles/28a5ac60.ext.json)
-
----
-
-### Landslide warnings are updated
-
-*2024-11-26 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203739) · `si`
-
-National Building Research Organization issues landslide warnings for multiple districts due to inclement weather. Affected areas include Badulla, Nuwara Eliya, Kalutara, Kegalle, Matale, Matara, and Ratnapura districts.
-
-🟩
-
-The National Building Research Organization has taken steps to issue a landslide warnings for several districts.
-
-The organization also said that with ill-day weather, the drivers who use roads as well as roads are also focused on the mountains.
-
-Badulla District - Meegahakiula, Passara, Haliela and Badulla District - Wilgamuwa, Ambangadumba Korala, Nuwara Eliya, Nuwara Eliya.
-
-Badulla District - Haldummulla, Uva Paranagama, Elunala, Ella, Kalutara District - Ratnattota, Kegalle District - Rattota, Navarapitiya, Kegalle District - Rattota, Nawala, Laggala Pallegala, Matale, Matara District - Pitabeddara, Nuwara Eliya District - Ambulppe, Ratnapura and Opanayaka, Ratnapura, Ratnapura and Ratnapura District - Pitulpita.
-
-◼️
-
-[Data](articles/5daba1d2.json)
-
-[Extended Data](ext_articles/5daba1d2.ext.json)
-
----
-
-### 7 Sri Lankan players IPL
-
-*2024-11-26 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203738) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's cricket talent shines in IPL: 6 players auctioned, including Mathew Pathirana & Gnanidu Hasaranga. Teams like CSK, RR, RCB, and MI acquire local stars, boosting league diversity.
-
-🟩
-
-Seven Sri Lankan players are to be played for the Indian Premierg Tournament this year.
-
-Six Sri Lankan players have been purchased at the Auction of Indian Auction and the Chennai Super Kings team has decided to hold the Mathagiver Pathirana.
-
-The Gamnindu Hasaranga and Mahesh Super Insight Rajasthan Royals were purchased on Monday.
-
-Four other Sri Lankan players have been purchased at the players' Auction in Jeddah yesterday (25) at the IPL.
-
-Nuwan Thushara Royal Challengers Bangalore The Bangalore team was purchased by the Bangalore Team.
-
-Delhir Delhi's Delhi Delhi Delhi Padylly Troops also bought the team of New Player Eshan Malinga Sunrisebad.
-
-◼️
-
-[Data](articles/b86a68f6.json)
-
-[Extended Data](ext_articles/b86a68f6.ext.json)
-
----
-
-### Public Defense Minister said that LTTE could not be made unable to commemorate
-
-*2024-11-26 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203737) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Defense Minister: LTTE commemorations banned, but families can mourn dead relatives. Strict anti-drug measures underway. Deputy Minister Sunil Watagala assumes office.
-
-🟩
-
-The LTTE is not able to conduct celebrations related to the LTTE.
-
-He pointed out that the LTTE is a banned organization in the country, the organization is not able to conduct celebrations with uniforms or members.
-
-However, the people of the North have no hindrance to the people of their war-torn relatives.
-
-"There is room to celebrate one's relative to die. But there is no room to commemorate Mahavira in the North. Using these pictures under the LTTE logo. There is a law in the country. According to the law, LTTE is a banned organization. But if a child died in the North, South, East or Mountains, has the right to remembrance. I think often the commemoration of the people in the North have been brought up in the society. But we emphasize the country a banned organization for banning organizations and commemorate the LTTE. "
-
-A systematic program is being implemented to suppress the drug trafficking in Sri Lanka, he said.
-
-...
-
-[Data](articles/e09e85d8.json)
-
-[Extended Data](ext_articles/e09e85d8.ext.json)
-
----
-
-### Grandpass tragedy
-
-*2024-11-26 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203736) · `si`
-
-Here's a 200-character summary of the Grandpass tragedy:
-
-
-
-17-year-old assaulted with sharp objects in Orugodawatta. Police arrested 4 suspects aged 31-36 from Wellampitiya. Conflict between two groups led to murder. Colombo Crimes Division investigating further.
-
-🟩
-
-A youth has been assaulted by a sharp object in the Grandpass Sky area in the Orugodawatta area.
-
-The incident was reported yesterday (25th), police said.
-
-The deceased has been identified as a 17 year old resident of Veragraduwella, Wellampitiya.
-
-Investigations have revealed that a group of two parties had been assassinated with a sharp weapons while at home had a conflict with the deceased.
-
-The Colombo Crimes Division investigated the murder and four suspects involved in the murder have been arrested with two swords and a manna knife.
-
-The suspects are residents of Wellampitiya, the police, aged 31, 32 and 36 years.
-
-The Grandpass Police and the Colombo Crimes Division is conducting further investigations.
-
-◼️
-
-[Data](articles/d7eae913.json)
-
-[Extended Data](ext_articles/d7eae913.ext.json)
-
----
-
-### Floods for several areas
-
-*2024-11-26 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203735) · `si`
-
-Flooding risk in multiple districts. Department warns of potential floods in Mahaweli Ganga, Basnayake, Hinguragala, Medona, Kantale, Thampattuwa, Thamparaiptu, Welikanda within 48 hours. Public advised to take precautions in affected areas.
-
-🟩
-
-The Department of Irrigation says that there is a flood risk for several districts in several districts.
-
-In a statement, the Department said that the department was said that a flood could cause a flood within the next 48 hours of the next 48 hours.
-
-The Mahaweli Ganga, Basnayake, Hinguragala, Hinguragala, Medona, Kantale, Thampattuwa, Thampatuwa, Thampatuwa, Thamparaiptu and Welikanda SecretariesThe Department says that during the 48 hours of flooding can occur.
-
-Therefore, the Irrigation Department calls on the public to take action to ensure that the people living in these areas will be careful.
-
-◼️
-
-[Data](articles/883a2a0a.json)
-
-[Extended Data](ext_articles/883a2a0a.ext.json)
-
----
-
-### Heavy reveals from the weather - heavy showers over 200mm
-
-*2024-11-26 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203734) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Heavy rains warning: 200mm+ showers forecasted in North, East, Central & Uva provinces. Red alert issued by Meteorology Dept. Strong winds (40-50 km/h) expected. Public advised to take precautions against lightning and thunderstorms.
-
-🟩
-
-The Department of Meteorology has issued a reputable red announcement on heavy rains.
-
-Today (26). The announcement issued at 04.30 is valid for the next 24 hours.
-
-Accordingly, in some places in the North, East, Central and Uva provinces. The Department of Meteorology is new that heavy rains can occur.
-
-Some locations in the province and Puttalam are in some mm. Heavy showers around 100.
-
-Meanwhile, the highest rainfall from 8.30 am from 8.30 am to 4.15 am today, the highest rainfall was reported from the Lahugala, 191mm.
-
-A 149.5 millimeters from Mahaoya, Ampara has been reported and 147 million from the Damana area.
-
-From the Hambantota district in Hambantota, North Central, Central and Eastern provinces.. Strong winds can occur 40-50 times.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-...
-
-[Data](articles/faa81baf.json)
-
-[Extended Data](ext_articles/faa81baf.ext.json)
-
----
-
-### SLFEB Chief warns against private agencies exploiting South Korea’s E-8 visa scheme
-
-*2024-11-26 02:42:06* · [`dailyftlk`](https://www.ft.lk/news/SLFEB-Chief-warns-against-private-agencies-exploiting-South-Korea-s-E-8-visa-scheme/56-769707) · `en`
-
-SLFEB Chairperson Kosala Wickramasinghe labels attempts by private agencies to send workers to South Korea under E-8 visa as form of human trafficking
-
-Says CID informed, internal SLFEB probe underway to identify those involved in illegal visa operations
-
-Questions involvement of former Foreign Employment Minister in unauthorised E-8 visa agreement
-
-Says immediate solution for those affected not possible and calls for patience as SLFEB works to resolve issue
-
-Sri Lanka Foreign Employment Bureau (SLFEB) Chairperson Kosala Wickramasinghe has labelled private agencies attempting to send workers to South Korea under the E-8 visa system a human trafficking scheme.
-
-Addressing the media yesterday, Wickramasinghe said the Criminal Investigation Department (CID) has been informed, and an internal probe is also underway to look into the issue.
-
-...
-
-[Data](articles/24d25f1c.json)
-
-[Extended Data](ext_articles/24d25f1c.ext.json)
-
----
-
-### Former Labour and Foreign Employment Minister defends E-8 visa program
-
-*2024-11-26 02:40:21* · [`dailyftlk`](https://www.ft.lk/news/Former-Labour-and-Foreign-Employment-Minister-defends-E-8-visa-program/56-769706) · `en`
-
-Former Labour and Foreign Employment Minister Manusha Nanayakkara yesterday responded to allegations and defended his efforts to establish the E-8 visa program.
-
-He emphasised that it was intended to create employment opportunities for Sri Lankans. “I personally went and requested these people to provide us with this E-8 visa category. Accordingly, they made arrangements to provide this E-8 visa category to Sri Lanka as well,” he explained. Nanayakkara’s response comes following accusations raised by the Sri Lanka Bureau of Foreign Employment (SLBFE) yesterday.
-
-He attributed delays in implementing the program to internal disruptions at the SLBFE, particularly in the weeks leading up to elections. “Due to the behaviour and actions of certain officers of the Bureau, it was finally not implemented. It can be implemented even now. If implemented, it is an opportunity to obtain thousands of new jobs,” he said.
-
-...
-
-[Data](articles/70990c18.json)
-
-[Extended Data](ext_articles/70990c18.ext.json)
-
----
-
-### President appoints two new Ministry Secretaries
-
-*2024-11-26 02:38:30* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-two-new-Ministry-Secretaries/56-769705) · `en`
-
-Malarmathi Gangadharan was appointed as Rural Development, Social Security and Community Empowerment Ministry Secretary
-
-President’s Counsel Ayesha Jinasena was appointed as Justice and National Integration Ministry Secretary
-
-President Anura Kumara Dissanayake yesterday appointed two new Ministry Secretaries. The letters of appointment were handed over yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake. Accordingly, President’s Counsel Ayesha Jinasena was appointed as the Justice and National Integration Ministry Secretary, while Malarmathi Gangadharan was appointed as the Rural Development, Social Security and Community Empowerment Ministry Secretary.
-
-◼️
-
-[Data](articles/861f7680.json)
-
-[Extended Data](ext_articles/861f7680.ext.json)
-
----
-
-### New MP Dr. Archchuna  apologises for parliamentary seating fiasco
-
-*2024-11-26 02:35:39* · [`dailyftlk`](https://www.ft.lk/news/New-MP-Dr-Archchuna-apologises-for-parliamentary-seating-fiasco/56-769704) · `en`
-
-Newly elected Jaffna district independent MP Dr. Ramanathan Archchuna has issued a public apology after occupying the seat traditionally reserved for the Leader of the Opposition during the ceremonial opening of the first session of the 10th Parliament.
-
-The incident unfolded when the MP refused to vacate the Leader of the Opposition’s seat despite repeated requests from parliamentary staff. As a result, Opposition Leader Sajith Premadasa was compelled to sit at the corner of the front row.
-
-...
-
-[Data](articles/b831caea.json)
-
-[Extended Data](ext_articles/b831caea.ext.json)
-
----
-
-### Sujeewa Senasinghe’s luxury SUV released on Rs. 100 m bond
-
-*2024-11-26 02:33:41* · [`dailyftlk`](https://www.ft.lk/news/Sujeewa-Senasinghe-s-luxury-SUV-released-on-Rs-100-m-bond/56-769703) · `en`
-
-Fort Magistrate Thanuja Lakmali yesterday directed the Criminal Investigation Department (CID) to release a luxury V8 SUV belonging to former MP Sujeewa Senasinghe, currently under CID custody, back to its owner.
-
-The Magistrate observed that the SUV had been lawfully imported into Sri Lanka, adhering to all required procedures, and issued the release order accordingly.
-
-During the hearing, the CID reported that the SUV was initially brought into the country as a duty-free vehicle by former MP J. Sri Ranga, who had used it until it was involved in an accident in Settikulam. Following the incident, the vehicle was sold to its current owner, Sujeewa Senasinghe.
-
-The CID, however, raised concerns about discrepancies in the MT6 form related to the vehicle’s ownership transfer, claiming that the signature on the form might not match that of the former owner. They said that further investigations into the matter were ongoing.
-
-...
-
-[Data](articles/3a546da7.json)
-
-[Extended Data](ext_articles/3a546da7.ext.json)
-
----
-
-### ICCSL hosts webinar on Temporary Import for Export Processing
-
-*2024-11-26 02:32:01* · [`dailyftlk`](https://www.ft.lk/business/ICCSL-hosts-webinar-on-Temporary-Import-for-Export-Processing/34-769702) · `en`
-
-Temporary Import for Export Processing (TIEP) allows Sri Lankan exporters to temporarily import goods without paying customs duties, as long as the goods are re-exported after processing or manufacturing.
-
-This system lowers production costs, facilitates better cash flow, and enhances the global competitiveness of Sri Lankan products.
-
-The recent webinar organised by the International Chamber of Commerce Sri Lanka (ICCSL) provided valuable insights into the TIEP system, a crucial provision aimed at enhancing Sri Lanka’s export competitiveness.
-
-...
-
-[Data](articles/6421d036.json)
-
-[Extended Data](ext_articles/6421d036.ext.json)
-
----
-
-### Foreign investors explore opportunities at Trincomalee and Hambantota Ports
-
-*2024-11-26 02:17:32* · [`dailyftlk`](https://www.ft.lk/business/Foreign-investors-explore-opportunities-at-Trincomalee-and-Hambantota-Ports/34-769697) · `en`
-
-As part of the Voyage Sri Lanka 2024 initiative, a group of 20 potential foreign investors from countries including India, Saudi Arabia, Maldives, France, Japan, Thailand, the United States, and Cambodia visited the Trincomalee and Hambantota Ports on 24 and 25 November. The visits aimed to showcase Sri Lanka’s potential as a hub for maritime investments and its growing blue economy.
-
-The delegation explored the opportunities across various sectors, such as, marine development, shipbuilding, vessel maintenance, engineering services, bunkering, and related offshore services. Investors also explored prospects for establishing joint ventures with existing local businesses or initiating new enterprises.
-
-...
-
-[Data](articles/07853f20.json)
-
-[Extended Data](ext_articles/07853f20.ext.json)
-
----
-
-### Southern Gujarat Chamber of Commerce and Industry visits SL
-
-*2024-11-26 02:15:01* · [`dailyftlk`](https://www.ft.lk/business/Southern-Gujarat-Chamber-of-Commerce-and-Industry-visits-SL/34-769696) · `en`
-
-The Southern Gujarat Chamber of Commerce and Industry (SGCCI) is leading a 10-member delegation to Sri Lanka from 24 to 29 November 2024. Representing diverse sectors, the delegation’s visit aims to foster deeper economic and trade relations between India and Sri Lanka. In addition to Colombo, the delegation will also travel to Kandy and Nuwara Eliya.
-
-The delegation is participating in “Voyage Sri Lanka”, an event organised by the Sri Lanka Export Development Board (EDB), which seeks to promote trade and investment opportunities in the maritime sector. Apart from meeting with the EDB and the Sri Lanka Tourism Promotion Bureau (SLTPB), the delegation will interact with key Sri Lankan chambers, including The Ceylon Chamber of Commerce and the Indo Lanka Chamber of Commerce and Industries (ILCCI). Meetings with prominent corporate entities, such as the Capital Maharaja Group, and other stakeholders are also planned.
-
-...
-
-[Data](articles/07c0567a.json)
-
-[Extended Data](ext_articles/07c0567a.ext.json)
-
----
-
-### PickMe’s partnership with Moratuwa University to boost logistics sector
-
-*2024-11-26 02:13:49* · [`dailyftlk`](https://www.ft.lk/business/PickMe-s-partnership-with-Moratuwa-University-to-boost-logistics-sector/34-769695) · `en`
-
-MoU signed by UoM Vice Chancellor Prof. N.D. Gunawardena (left) and PickMe Founder and CEO Jiffry Zulfer
-
-PickMe, Sri Lanka’s leading digital mobility solutions company, recently entered into a strategic partnership with the University of Moratuwa (UoM) to strengthen human resource development and operational excellence in driving innovation in the logistics sector.
-
-The Memorandum of Understanding (MoU) was signed by PickMe CEO Jiffry Zulfer and UoM Vice Chancellor Prof. N.D. Gunawardena.
-
-As part of the collaboration, PickMe will offer Management Trainee placements to 10-15 graduates each year from UoM’s BSc (Hons.) in Transport and Logistics Management and BSc (Hons.) in Transport Management and Logistics Engineering programs. Additionally, 10 undergraduates from these programs will gain hands-on experience through internship opportunities at PickMe every year.
-
-...
-
-[Data](articles/c264d56e.json)
-
-[Extended Data](ext_articles/c264d56e.ext.json)
-
----
-
-### The miracle but the truth;RR bought a 13 -year -old boy in IPL at a cost of Rs 1.1 crore
-
-*2024-11-26 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199683) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"RR buys 13-year-old Vaibhav Suryavanshi for ₹1.1 crore in IPL auction. First time a minor is sold in IPL history. Left-handed player from India's U-19 team. Highest bid among young players."
-
-🟩
-
-Rajasthan Royles (RR) has auctioned a 13 -year -old boy in the history of the Indian Premier League.
-
-Rajasthan Royals have joined the 13 -year -old Vaibhav Suryavanshi at a cost of Rs.
-
-This is the first time a cricketer in the history of IPL has been auctioned off.
-
-Rajasthan Royals and Telhi Capitles went on auction with the bidder to somehow auction the young lion.. In the end, Rajasthan Royals made the boy for a million rupees.
-
-Vaibhav Suryavanshi, a left -handed player, who played at the age of 12, is one of the first -class cricket match of India's first -class cricket match.
-
-He was praised by a 4 -day young Test match against Australia under the age of 19 in Chennai.
-
-The Randr Verma Bowl between the 19 -year -old teams in Bihar was hit in a one -day cricket match.
-
-The highest bidder on the second day is the fast bowler Puneliswar Kumar.
-
-Sunrisers Hyderabad bought fast bowler Bhuvneshwar Kumar, who was bought by Sunrisers Hyderabad last year, paid Rs.
-
-...
-
-[Data](articles/a28285c9.json)
-
-[Extended Data](ext_articles/a28285c9.ext.json)
-
----
-
-### What are the privileges of current MPs from the new government?
-
-*2024-11-26 01:30:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0mz3xmpdndo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New government promises to revoke MPs' duty-free vehicle licenses. Cabinet approves selling 150 luxury vehicles. Reviewing salaries and allowances. Proposals to abolish certain privileges and use cafeteria-style meals. Housing reform suggested, including renting quarters and crediting money to Mahapola Fund.
-
-🟩
-
-The present government has made a major promise on election platforms in the general election and the general election.
-
-The abolition of the duty-free vehicle license of the MPs, the national representative vehicles are not used and the national representatives.
-
-At the first Cabinet meeting, Anura Kumara Dissanayake was appointed as the president.
-
-Retired Supreme Court Judge KT. Limited as the other members of the committee chaired by Chwarasinghe. Jayantha, a retired district secretary, Dissanayake and a retired district secretary. The Bulum is working.
-
-Recommendations of the people, ministers, pensions, quarters, office equipment, office equipment, office equipment and security personnel, and the privilege of enabling appropriate alternatives and privileges.The committee is responsible for submitting a detailed report with a detailed report within two months.
-
-...
-
-[Data](articles/bab6c338.json)
-
-[Extended Data](ext_articles/bab6c338.ext.json)
-
----
-
-### Remembering my father, Eric Cooray
-
-*2024-11-26 01:27:25* · [`dailyftlk`](https://www.ft.lk/columns/Remembering-my-father-Eric-Cooray/4-769677) · `en`
-
-My father would want to be remembered for his unwavering faith, calm demeanour, and boundless kindness. He taught me to face adversity with grace, to be generous and kind, and to live a life of integrity. Though he is no longer with us, his legacy lives on in the values he instilled in all of us
-
-This will be my first Christmas without my father, Eric Cooray, who passed away three months ago. Life has felt strange since that inevitable moment, one I always dreaded, while never anticipating just how difficult his loss would be to accept.
-
-Almost every day starts and ends with thoughts of my father, from fond memories of my childhood to imagining how proud he would be of his beloved grandchildren. Throughout my life, he inspired me in countless ways. Even now, I draw so much strength from memories of him that it still feels like he is guiding me from the heavens, giving me the strength to keep moving forward.
-
-...
-
-[Data](articles/685c5e18.json)
-
-[Extended Data](ext_articles/685c5e18.ext.json)
-
----
-
-### Pragmatic ethical President
-
-*2024-11-26 01:17:45* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatic-ethical-President/4-769676) · `en`
-
-President of the Republic Anura Kumara Dissanayake spoke without notes in his first policy statement in Parliament. His unhesitating delivery in punctilious order was simultaneously translated into both English and Tamil.
-
-I rely on the English translation of the speech for the purpose of this brief commentary. He described it as a “monumental moment in the history of Sri Lanka’s Parliament.”
-
-Indeed, it will be remembered as a watershed moment, a turning point of our politics if only he succeeds in resolving his twin dilemmas – ensuring ethical governance, adopting pragmatic economics to break free from a “Sovereign Debt Trap.”
-
-...
-
-[Data](articles/47f173a5.json)
-
-[Extended Data](ext_articles/47f173a5.ext.json)
-
----
-
-### Chinese Communist Party group meets president
-
-*2024-11-26 01:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனக்-கம்யூனிஸ்ட்-கட்சி-குழுவினர்-ஜனாதிபதியுடன்-சந்திப்பு/175-347776) · `ta`
-
-Chinese Communist Party delegation met Sri Lankan president. They congratulated Anura Kumara Dissanayake's election win and expressed readiness to collaborate under his leadership. Discussion focused on bilateral development opportunities and mutually beneficial programs between China and Sri Lanka.
-
-🟩
-
-The Chinese delegation headed by the Central Committee of the Central Committee of the Central Committee of the Central Committee of the Chinese Committee met with the Chinese delegation headed by Sun Haiyan yesterday (25) at the Presidential Office.
-
-The Chinese Deputy Minister congratulated the victory of Anura Kumara Dissanayake in the last presidential election and the victory of his party in the general election and congratulated the exchanges in Sri Lanka after these victories.
-
-The deputy minister -led delegation told the president that China is ready to work closely with Sri Lanka under the leadership of President Anura Kumara Dissanayake.
-
-The focus was on the development opportunities of the two countries, China and Sri Lanka, and the significance of a mutual beneficial program between the two countries was discussed.. (A)
-
-◼️
-
-[Data](articles/26c720bc.json)
-
-[Extended Data](ext_articles/26c720bc.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 17:43:47**
+As of **2024-11-26 18:39:13**
 
 ## Newspaper Stats
 
-*Scraped **57,013** Articles*
+*Scraped **57,018** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 438
 colombotelegraphcom | 579
-bbccomsinhala | 593
+bbccomsinhala | 594
 islandlk | 3,422
 economynextcom | 3,454
 dailyftlk | 3,917
 dailymirrorlk | 4,733
-adalk | 5,373
+adalk | 5,375
 adaderanalk | 6,901
-tamilmirrorlk | 8,109
+tamilmirrorlk | 8,111
 virakesarilk | 9,285
 adaderanasinhalalk | 9,846
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,846
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,008 (100.0%) of 57,013 articles have been extended.
+57,015 (100.0%) of 57,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
+
+### No exams for 3 days
+
+*2024-11-26 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-நாட்களுக்கு-பரீட்சைகள்-இல்லை/175-347813) · `ta`
+
+Advanced Level Examination postponed due to climate. Next 3 days cancelled. Rescheduled for 27-29th. Other posts on 21st & 23rd next month.
+
+🟩
+
+With the prevailing worse climate in the country, it has been decided to not conduct the Advanced Level Examination for the next three days.
+
+The already scheduled exams have been postponed for the upcoming 27,28 and 29th.
+
+The posts that have been done are scheduled to be held on the 21st and 23rd of next month.
+
+◼️
+
+[Data](articles/421b3ac3.json)
+
+[Extended Data](ext_articles/421b3ac3.ext.json)
+
+---
+
+### 3 நாட்களுக்கு பரீட்சைகள் இல்லை
+
+*2024-11-26 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/3-நாட்களுக்கு-பரீட்சைகள்-இல்லை/150-347813) · `ta`
+
+நாட்டில் தற்போது நிலவும் மோசமான காலநிலையை கவனத்தில் கொண்டு, எதிர்வரும் மூன்று நாட்களுக்கு கல்விப் பொதுத் தராதர உயர்தர பரீட்சைகளை நடத்தாமல் இருக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+எதிர்வரும் 27,28 மற்றும் 29ஆம் திகதிகளில் நடத்துவதற்கு ஏற்கெனவே, திட்டமிடப்பட்டிருந்த பரீட்சைகளே பிற்போடப்பட்டுள்ளன.
+
+அவ்வாறு பிற்போடப்பட்டுள்ள பரீட்சைகள், அடுத்தமாதம் 21,22 மற்றும் 23 ஆம் திகதிகளில் நடத்த தீர்மானிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/43eec63a.json)
+
+---
 
 ### Sri Lanka announces launch of ISB exchange after Cabinet approval
 
@@ -48,61 +86,139 @@ Furthermore, the statement highlighted that Sri Lanka strongly encourages all ho
 
 [Data](articles/b62fb82d.json)
 
+[Extended Data](ext_articles/b62fb82d.ext.json)
+
 ---
 
-### வெள்ள நீரில் சிக்கி ஒருவர் மாயம்
+### විදුලි ගාස්තු සංශෝධනය ගැන ලංවිම යෝජනා 6දාට පෙර
+
+*2024-11-26 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-ලංවිම-යෝජනා-6දාට-පෙර/11-413289) · `si`
+
+යෝජිත විදුලි ගාස්තු සංශෝධනය සඳහා නව යෝජනා 2024/12/06දාට පෙර මහජන උපයෝගීතා කොමිෂමට ලබාදෙන බව ලංකා විදුලි බල මණ්ඩලය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+2025 වසර සඳහා නව යෝජනාව ක්‍රමවත් පරිදි ඉදිරිපත් කිරීම සඳහා ලංවිමට ප්‍රමාණවත් කාලයක් අවශ්‍ය බවද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+ලංවිම මීට පෙර සියයට 6- 11 දක්වා වූ ගාස්තු අඩු කිරිමක් යෝජනා කරමින් 2024/10/24 දින ඉදිරිපත් කළ යෝජනාව මහජන උපයෝගීතා කොමිෂම විසින් ප්‍රතික්ෂේප කර ඇති බවද ලංවිම වැඩිදුරටත පවසයි.
+
+◼️
+
+[Data](articles/fcedffdc.json)
+
+---
+
+### Magic
 
 *2024-11-26 17:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-நீரில்-சிக்கி-ஒருவர்-மாயம்/175-347810) · `ta`
 
-சீரற்ற கால நிலை காரணமாக வெள்ள நீரினால் ஒருவர் இழுத்து செல்லப்பட்டுள்ள சம்பவம் மட்டக்களப்பில் பதிவாகியுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-வெல்லாவெளிக்கும் மண்டூருக்குமான பிரதான  தாம்போதிக்கு மேலால் வீதியை மூடி 4 அடி உயரத்தில் வெள்ள நீர் பாய்ந்து ஓடும் நிலையில்; அதனை கடந்து செல்ல முற்பட்ட போதே குறித்த நபரை  வெள்ள நீர் இழுத்து சென்று காணாமல் போயுள்ளார்
 
-அத்துடன்  பட்டிப்பளை, காத்தான்குடி, கோறளைப்பற்று கிரான், மண்முனை வடக்கு, ஏறாவூர்பற்று செங்கலடி, பிரதேச செயலகப் பிரிவிலுள்ள 161 குடும்பங்களைச் சேர்ந்த 522 பேர் உறவினர் வீடுகளில் தஞ்சமடைந்துள்ளதுடன் குளங்களின் வான்கதவுகள் திறக்கப்பட்டுள்ளதால் பல பிரதேசங்களுக்கான போக்குவரத்து நிறுத்தப்பட்டுள்ளது.
 
-இந்த தொடர் மழையால் மாவட்டத்திலுள்ள பல தாழ்நில பிரதேசங்களில் வெள்ள நீர்  வீடுகளுக்குள் புகுந்துள்ளதுடன் பல பிரதேசங்களில் வீதிகளில் உள்ள   மரங்கள் முறிந்து வீழ்ந்துள்ளது.
+Floods hit Batticaloa: roads submerged, 522 displaced, transport disrupted. Trees fallen, ponds overflowing. Rain damage reported in Vavuniya. Normal life affected, schools struggling.
+
+🟩
+
+The incident in Batticaloa has been reported in Batticaloa.
+
+While the main tumbler of the Mandur, the flooding of the road is flooded at a height of 4 feet;As he tried to pass it, the man pulled the flood water and disappeared
+
+In addition, 522 persons from 161 families in the Padippalai, Kattankudi, Koralaipattu Gran, Manmunai North, Eravurpattu Chengaladi and Divisional Secretariat Division have sought refuge in relatives' homes and traffic has been stopped due to the opening of the ponds.
+
+This series of rains have caused floodwaters in many lowland areas of the district and the trees in the streets have been broken in many areas.
+
+Meanwhile, the transport between Wellave and Mandur, the transport between Vavunathivu and Batticaloa, the traffic between the Gran and the Pulipanagal area has been cut off.
+
+The water level of the ponds in the district of the Navagiri pond, Vaveri Pond, Kitulkulam, Veliyakandi Pond, Vadamunaikulam, Punanikulam, etc.
 
 ...
 
 [Data](articles/e02bf3ed.json)
 
+[Extended Data](ext_articles/e02bf3ed.ext.json)
+
 ---
 
-### ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம் உருவாகியது
+### The deep winds of the low -lying zone were formed
 
 *2024-11-26 17:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆழ்ந்த-காற்றழுத்த-தாழ்வு-மண்டலம்-உருவாகியது/175-347809) · `ta`
 
-நாட்டைச் சூழவுள்ள ஆழமான மற்றும் ஆழமற்ற கடற்பரப்புகள் மற்றும் நிலப்பகுதிகள் தொடர்பில் அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+Deep winds form in southwest Bengal Sea. Red warning issued for coastal areas. Storm may hit eastern coast tomorrow, bringing heavy rain and strong winds to several provinces. Heavy rainfall expected in northern, central, and southern regions. Over 100mm rainfall predicted in some areas.
 
-தென்மேற்கு வங்கக்கடலில் நிலை கொண்டுள்ள காற்றழுத்த தாழ்வு நிலை ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலமாக மாறியுள்ளது.
+🟩
 
-இன்று (26) முற்பகல் 11.00 மணியளவில் மட்டக்களப்பில் இருந்து 170 கிலோமீற்றர் தொலைவிலும் திருகோணமலையிலிருந்து 240 கிலோமீற்றர் தொலைவிலும் தென்கிழக்கு திசையில் நிலைகொண்டுள்ள இந்த அமைப்பு, நாட்டின் கிழக்கு கரையை அண்மித்து நகர்ந்து நாளை (27) மேலும் வலுவடைந்து சூறாவளியாக மாற வாய்ப்புள்ளது.
+The Department of Meteorology has issued a red warning to be careful with the deep and shallow waters and lands around the country.
 
-இதன் தாக்கத்தினால் நாட்டின் பல பகுதிகளில் வானம் மேக மூட்டத்துடன் காணப்படுவதுடன், வடக்கு, வடமத்திய, கிழக்கு, ஊவா, வடமேற்கு மற்றும் மத்திய மாகாணங்களில் மிக அதிக மழை மற்றும் பலத்த காற்று வீசக்கூடும்.
+The southwestern Bengal Sea has become a deep winds of winds.
 
-நாட்டின் பெரும்பாலான பகுதிகளில் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+The organization, which is located in the southeast direction of 170 km from Batticaloa and 240 km from Trincomalee at around 11.00 am today (27), is likely to move the country's eastern coast and become a hurricane tomorrow (27).
 
-வடக்கு, வடமத்திய, கிழக்கு, மத்திய, ஊவா மற்றும் தென் மாகாணங்களிலும் புத்தளம் மாவட்டத்திலும் சில இடங்களில் 200 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
+As a result of this, the sky is cloudy in many parts of the country, and heavy rain and strong winds can blow in the North, North Central, Eastern, Eastern, Uva, Northwest and Central Provinces.
 
-...
+In most parts of the country, there is occasional rain or thunderstorms.
+
+Heavy rains are expected in some parts of the North, North Central, Eastern, Central, Uva and Southern Provinces and Puttalam district.
+
+More than 100 millimeters of heavy rainfall in some parts of the country. Remble
+
+◼️
 
 [Data](articles/11ced2d3.json)
 
+[Extended Data](ext_articles/11ced2d3.ext.json)
+
 ---
 
-### මහජන ආරක්ෂක ඇමතිගේ ප්‍රකාශයේ අර්ථය වෙනස් කරලා
+### 91 more to Korea today
+
+*2024-11-26 17:09:46* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-91ක්-අද-කොරියාවට/11-413287) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+91 Sri Lankans, incl. 1st Sri Lankan, depart for S. Korea today. 889th batch for jobs in manufacturing, fishing, & construction. 5,421 Sri Lankans employed in S. Korea this month.
+
+🟩
+
+Another 91 youths, including another Sri Lankan youth, will leave for South Korea today (11/26).This group was 889th of the job in South Korea.
+
+Understanding Bureau of Memorandum of Memorandum of Sri Lanka and the South Korean Human Resources Development Institute, 5421 Sri Lankans have been employed in South Korea products, fisheries and construction areas for this month..I appreciate your support for our media activities.
+
+◼️
+
+[Data](articles/ebf12ffc.json)
+
+[Extended Data](ext_articles/ebf12ffc.ext.json)
+
+---
+
+### The statement of the Public Defense Minister's statement changed
 
 *2024-11-26 16:55:21* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-ආරක්ෂක-ඇමතිගේ-ප්‍රකාශයේ-අර්ථය-වෙනස්-කරලා/11-413285) · `si`
 
-"එල්.ටී.ටී.ඊ සංවිධානය තහනම් සංවිධානයක් වුවත් ඔවුන්ගේ බැනර්,ලාංඡන,ඡායාරූප යොදාගනිමින් මියගිය සාමාජිකයින් සැමරීමට බාධාවක් නොමැති" බවට මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා ප්‍රකාශ කළේ යැයි සඳහන් කළ නොමග යවනසුළු පුවත් ඇතැම් ප්‍රධාන මාධ්‍ය, සමාජ මාධ්‍ය, යූ ටියුබ් හා වෙබ් පිටු මගින් ප්‍රචාරය කෙරෙමින් පවතින බව අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+Here's a 200-character summary of the statement:
 
-නමුත් එම වීඩියෝ පට පසුගිය දා ගල්ගමුව ප්‍රදේශයේ දී පැවති වැඩසටහනකදී මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා මාධ්‍ය වෙත ලබා දුන් ප්‍රකාශය අර්ථය වෙනස් වන පරිදි සංස්කරණය කළ වීඩියෝ දර්ශන බවද එම නිවේදනයේ දැක්වෙයි.
 
-මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා එම අවස්ථාවේ සදහන් කර සිටියේ "නීත්‍යානුකූලව තමන්ගේ ඥාතියෙකුගේ මියයාම සමරන්නට ඕනෑම කෙනෙකුට ඉඩ ඇති නමුත් මහවිරු සැමරුම් කරන්නට ඉඩකඩක් නොමැති බවත්, එල්.ටී.ටී.ඊ ලාංඡනය හෝ නිල ඇඳුම් හෝ එහි පින්තූර භාවිත කරන්නට ඉඩකඩ නොමැති බවත්ය.
 
-...
+Public Defense Minister Ananda Wijepala clarifies LTTE ban, denies glorifying death celebrations, emphasizes organization prohibition.
+
+🟩
+
+"The Malition Sent News which says that the LTTE is a banned organization," the LTTE is not hindered by banners, photos, photographs and photographs of the dead. "Web pages are being propagated by web pages and said the Ministry said.
+
+However, the statement made by Hon.
+
+Mr. Ananda Wijepala, Minister of Public Defense and Parliamentary Affairs, said: "The LTTE is not likely to be able to celebrate the death of a relative of a relative.He is.
+
+He further stated that the LTTE is a banned organization. Whether he is the North, the North, is the right to death, that the child has the right to remembrance of one child, but it will not allow the society to convince the absolute establishment of an organization.
+
+Accordingly, the mutilated news of the Minister of Defense and the Minister of Parliamentary Affairs is kindly requested to correct the news.
+
+◼️
 
 [Data](articles/a085710c.json)
+
+[Extended Data](ext_articles/a085710c.ext.json)
 
 ---
 
@@ -115,6 +231,8 @@ Most Venerable Karagoda Uyangoda Maithri Murthi Thero has been appointed the Mah
 ◼️
 
 [Data](articles/0c11599f.json)
+
+[Extended Data](ext_articles/0c11599f.ext.json)
 
 ---
 
@@ -1123,6 +1241,30 @@ The Bandaranaike Airport, which is the main airport in Sri Lanka in 1970, is kno
 [Data](articles/3240e725.json)
 
 [Extended Data](ext_articles/3240e725.ext.json)
+
+---
+
+### යුද්ධයෙන් මියගිය ඥාතීන් ස්මරණය කිරීම: මහජන ආරක්ෂක ඇමති පැවසුවේ කුමක් ද?
+
+*2024-11-26 12:37:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36pl6pn57no) · `si`
+
+යුද්ධයෙන් මියගිය ඥාතීන් ස්මරණය කිරීම: මහජන ආරක්ෂක ඇමති පැවසුවේ කුමක් ද?
+
+ශ්‍රී ලංකාවේ සිවිල් යුද්ධය පැවති සමයේදී මිය ගිය සිය ඥාතීන් ස්මරණය කිරීම වාර්ෂිකව නොවැම්බර් මාසයේදී උතුරේ සහ නැගෙනහිර දමිළ ජනතාව විසින් සිදු කරනු ලබන්නේ වසර කිහිපයක සිට ය.
+
+ඒ සම්බන්ධයෙන් සෑම වසරක ම පාහේ විවිධ මතවාද ඉදිරිපත් වන අතර, මෙවර ද එය කතාබහට ලක්වූයේ, මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල විසින් කරනු ලැබූ බවට ඇතැම් මාධ්‍ය පළ කළ වාර්තා පදනම් කරගෙන ය.
+
+නොවැම්බර් 26 දින උදෑසන ඇතැම් මාධ්‍ය වාර්තා කර තිබුණේ, මෙවර එම ස්මරණයන් කිරීමේදී තහනම් කර ඇති ලාංඡන සහ කොඩි ප්‍රදර්ශනය කිරීමට ඉඩ දෙන බව මහජන ආරක්ෂක අමාත්‍යවරයා සඳහන් කළ බව ය.
+
+නොවැම්බර් 26 වන දින උදෑසන පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී මේ සම්බන්ධයෙන් කැබිනට් මාධ්‍ය ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්සගෙන් විමසන ලදී.
+
+එහිදී අමාත්‍යවරයා ප්‍රකාශ කළේ, මහජන ආරක්ෂක අමාත්‍යවරයා එවැනි කිසිදු ප්‍රකාශයක් සිදු කර නොමැති බව ය.
+
+ඔහු ප්‍රකාශ කර තිබුණේ, පවතින නීතිරීතිවලට යටත්ව ඥාතීන් ස්මරණයට පමණක් ජනතාවට අවසර තිබෙන බව ය.
+
+...
+
+[Data](articles/136b8117.json)
 
 ---
 
@@ -2357,123 +2499,5 @@ In the event of any difficulties, the Commissioner General of Examinations has a
 [Data](articles/e77e3c69.json)
 
 [Extended Data](ext_articles/e77e3c69.ext.json)
-
----
-
-### Warning of landslides to excessive areas
-
-*2024-11-26 08:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகளவான-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-347777) · `ta`
-
-Landslide warnings issued in several districts due to heavy rain. Public advised to exercise caution.
-
-🟩
-
-Due to the prevailing rainfall, the landslide warning has been issued to a large number of Divisional Secretariats in Badulla, Galle, Kalutara, Kandy, Kegalle, Matale, Matara, Nuwara Eliya and Ratnapura districts.
-
-Meanwhile. The public is advised to act with great care. Remble
-
-◼️
-
-[Data](articles/ec03c5fb.json)
-
-[Extended Data](ext_articles/ec03c5fb.ext.json)
-
----
-
-### Up-country train services disrupted
-
-*2024-11-26 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103764/up-country-train-services-disrupted) · `en`
-
-Train services on the up-country line have been disrupted due to mounds of earth and rocks falling onto the tracks between Badulla and Bandarawela, according to Sri Lanka Railways.
-
-Meanwhile, the District Disaster Management Coordination Unit of Badulla has reported that several roads in the Badulla District have been blocked due to severe weather conditions.
-
-According to the unit, these disruptions have been caused by landslides, mounds of earth and rocks collapsing, as well as fallen trees obstructing the roads.
-
-Among the affected routes are the Badulla-Bandarawela road near Uduwara Milk Factory, the Haputale-Beragala road, the Badulla-Passara road near the third milepost, the Spring Valley road via Kadhana in Badulla, the seventh-milepost on the Badulla-Passara main road, and the Bibila-Lunugala road near Arawakumbura, among others.
-
-Police have advised drivers to use alternative routes until these roads are cleared and safe for travel.
-
-◼️
-
-[Data](articles/61d556ca.json)
-
-[Extended Data](ext_articles/61d556ca.ext.json)
-
----
-
-### Very heavy rainfall of over 200 mm expected - Met Dept.
-
-*2024-11-26 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103763/very-heavy-rainfall-of-over-200-mm-expected-met-dept) · `en`
-
-The Meteorology Department says the Depression over Southwest Bay of Bengal was located to southeast about 290km of Batticaloa and 410 km of Trincomalee at around 11.30 p.m of November 25, 2024.
-
-The system is likely to move northwestwards and intensify into a deep depression during next 12 hours and move very closer to the east coast of the island.
-
-Cloudy skies are expected over most parts of the island and due to the influence of this system and very heavyshowers and strong winds can be expected in Northern, Eastern, Uva and Central provinces, it said.
-
-Showers or thundershowers will occur at times in most places of the island. Very heavy showers above 200 mm are likely at some places in Northern, North-central, Eastern, Central, Uva and Southern provinces and in Puttalam district.
-
-Heavy showers above 100 mm are likely at several places elsewhere of the island, the Met. department added.
-
-...
-
-[Data](articles/cb610b71.json)
-
-[Extended Data](ext_articles/cb610b71.ext.json)
-
----
-
-### Upcountry train traffic interrupted
-
-*2024-11-26 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203741) · `si`
-
-Badulla-Bandarawela rail line disrupted due to landslide. Several roads blocked in Badulla district. Police advise using alternative routes.
-
-🟩
-
-The railway line between Badulla and Bandarawela has been interrupted between the Badulla-railway line.
-
-The railway between Badulla and Bandarawela have been disrupted due to the collapse of earth and stones.
-
-The Badulla District Disaster Management Unit (DMC) unit stated that several roads in the Badulla district have been blocked due to the bad weather conditions.
-
-The unit said that the roads were blocked due to landslides, five firms, trees and stone collapses.
-
-Accordingly, the Uriyagala road in the Bandarawela road on the Bandarawela road on Bandarawela road, the Sprinkwagala road in Badulla - Padaiya Road, Badulla and Badulla Road.
-
-The police urge the drivers to use the vicious routes due to these blocked roads.
-
-◼️
-
-[Data](articles/6a6c9e9e.json)
-
-[Extended Data](ext_articles/6a6c9e9e.ext.json)
-
----
-
-### Sudden notification to Advanced Level Students - Go to the nearest center if constraints
-
-*2024-11-26 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203740) · `si`
-
-Advanced Level students: Attend nearest exam center due to flooding. Exams department allows students to take exams at nearby locations. Transportation issues and inclement weather cause delays. Disaster Management Center facilitates exam process.
-
-🟩
-
-The Examinations Department will continue to march the students who are unable to travel to the A / L examination center that cannot be moved due to the inclement centers.
-
-Commissioner General of Examinations, Amitith Jayasundara said that the floods were constrained due to floods and allowed the students to sit the examination at the nearest examination center.
-
-The commissioner General of Examinations said that some roads have been subjected to transportation and a problem with the inclement weather island wide.
-
-Considering the present situation, action has been taken to facilitate students who sit the A / L examination through the Disaster Management Center.
-
-The Commissioner General of Examinations Amitha Jayasundara said that the delays have been given to the examination centers due to the obstacles due to disasters.
-
-◼️
-
-[Data](articles/28a5ac60.json)
-
-[Extended Data](ext_articles/28a5ac60.ext.json)
 
 ---

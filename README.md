@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 20:00:41**
+As of **2024-11-26 20:26:41**
 
 ## Newspaper Stats
 
-*Scraped **57,047** Articles*
+*Scraped **57,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,26 +19,118 @@ dailymirrorlk | 4,733
 adalk | 5,378
 adaderanalk | 6,906
 tamilmirrorlk | 8,113
-virakesarilk | 9,297
-adaderanasinhalalk | 9,853
+virakesarilk | 9,298
+adaderanasinhalalk | 9,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,033 (100.0%) of 57,047 articles have been extended.
+57,037 (100.0%) of 57,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
 
-### மன்னம்பிட்டி - மகா ஓயா வீதி மூடப்பட்டுள்ளது
+### මාලිමාවේ මන්ත්‍රීගේ රථය පාර්ලිමේන්තු පොකුණට වැටෙයි
+
+*2024-11-26 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203773) · `si`
+
+ජාතික ජන බලවේගයේ මහලේකම් හා කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී විශේෂඥ වෛද්‍ය නිහාල් අබේසිංහ මහතාගේ මෝටර් රථය අද (26) සවස පාර්ලිමේන්තුවේ ජල පොකුණට වැටී අනතුරක් සිදුවී තිබේ.
+
+◼️
+
+[Data](articles/85097285.json)
+
+---
+
+### இலங்கை அரசின் போர்குற்றம் விவகாரம் : சீனா சர்வதேச நீதியை தடுக்கிறது - செயலாளர் லீலாதேவி குற்றச்சாட்டு
+
+*2024-11-26 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199779) · `ta`
+
+வடக்கு கிழக்கில் இறுதி யுத்தின் போது இராணுவத்திடம் கையளிக்கப்பட்ட  உறவுகளுக்கு என்ன நடந்தது என உறவுகள் ஏங்கி கொண்டிருக்கும் நிலையில்  அதற்கான  சர்வதேச நீதியைப் பெறுவதற்கு சீனா தடையாக அமைவதாக  வடக்கு கிழக்கு வலிந்து காணாமலாக்கபட்ட சங்கத்தின் செயலாளர் லீலாதேவி ஆனந்தநடராஜா குற்றஞ்சாட்டினார்.
+
+அண்மையில் யாழ்ப்பாணம் மாவட்டத்திற்கு வருகை தந்த சீன தூதுவர் தமிழ்மக்களின் தீர்வு மற்றும் காணமாலாக்கப்பட்டோர் தொடர்பாக ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு சீனதூதுவர் வழங்கிய பதில் தொடர்பாக ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார். இது குறித்து அவர் மேலும் தெரிவிக்கையில்,
+
+தேசிய மக்கள் சக்திக்கு வாக்கு கிடைத்தது உண்மை. ஏற்கனவே முன்பிருந்த அரச சார்பான கட்சிக்கு வீழ்ந்தவை தான் இப்பொழுது தேசிய மக்கள் சக்திக்கு கிடைத்துள்ளது.
+
+மேலும் இந்த அனுரகுமார அரசாங்கத்தினை முற்று முழுதாக ஏற்றுகொண்டு வாக்களித்தது என்றும் கூறமுடியாது.
+
+ஆடு அழுகின்றது என ஓநாய் வெம்பி அழுத கதை தான் சீனதூதுவரின் கதை மீது எனக்கு வருகின்றது.
+
+...
+
+[Data](articles/f9501650.json)
+
+---
+
+### සුළි කුණාටුවක් ගැන අනතුරු ඇඟවීමක්
+
+*2024-11-26 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203772) · `si`
+
+ශ්‍රී ලංකාවට නැගෙනහිරින් බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ නිර්මාණය වී ඇති පීඩන අවපාතය හෙට (27) දිනයේදී සුළි කුණාටුවක් දක්වා තීව්‍ර විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නිරිත දිග බෙංගාල බොක්ක මුහුද ආශ්‍රිතව පීඩන අවපාතයක් නිර්මාණය වීමේ ප්‍රතිඵලයක් ලෙස දින කිහිපයක සිට ශ්‍රී ලංකාවේ නැගෙනහිර, උතුර, උතුරු-මැද, ඌව සහ දකුණු පළාත්වලට තද වැසි ඇදහැලෙමින් පවතියි.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසන්නේ පීඩන අවපාතය මේවන විට මඩකලපුවට කිලෝමීටර 290 ක් සහ ත්‍රීකුණාමලයට කිලෝමීටර 410 ක් පමණ එපිටින් ගිනිකොණ දෙසින් පිහිටා ඇති බවයි.
+
+වර්ෂාවෙන් මෙතෙක් වැඩිම බලපෑම එල්ල වී ඇත්තේ නැගෙනහිර පළාතට ය.
+
+ගතවූ පැය 24දී වැඩිම වර්ෂාපතනය අම්පාර දිස්ත්‍රික්කයෙන් වාර්තා වූ අතර එම අගය මිලිමිටර් 311.1කි.
+
+එම පළාතේ ජලාශ රැසක් පිටාරයාම නිසා මාර්ග ගණනාවක ගමනාගමන කටයුතුද ඇනහිට තිබේ.
+
+අම්පාර කොණ්ඩුවටුවාන ජලාශය සුදුවැල්ල ප්‍රදේශයෙන් වාන් දැමීම නිසා අම්පාර ඉඟිණියාගල මාර්ගය මුළුමනින්ම වසා දැමුණි.
+
+අම්පාර ආදල්ඔය පිටාර දැමීමෙන් අම්පාර මහනුවර උහන මාර්ගය ජලයෙන් යටවී තිබුණි.
+
+...
+
+[Data](articles/4f45cfb9.json)
+
+---
+
+### රටම කලඹන E8 වීසා ජාවාරම - තිදෙනෙක් කොටුකරගත් මෙහෙයුම
+
+*2024-11-26 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203771) · `si`
+
+ආන්දෝලනයට තුඩුදී ඇති E-8 වීසා ක්‍රමවේදය ඔස්සේ රැකියා ලබාදෙන බව පවසා සිදුකළ මූල්‍ය වංචාවක් නීතියේ රැහැනට හසුකර ගැනීමට විදේශ සේවා නියුක්ති කාර්යාංශයේ වැටලීම් ඒකකය සමග එක්වූ අද දෙරණ උකුස්සාට හැකිවිය.
+
+E-8 වීසා ක්‍රමවේදය යටතේ  දකුණු කොරියාවේ රැකියා අවස්ථා ලබාදෙන බව පවසා මුදල් වංචා කරන ජාවාරමක් පිළිබඳව විදේශ සේවා නියුක්ති කාර්යාංශයේ වැටලීම් ඒකකයට පුද්ගලයින් දෙදෙනෙකුගෙන් පැමිණිලි ලැබී තිබුණි.
+
+ඔවුන් පැමිණිලි කර ඇත්තේ ජාවාරම්කරුවන් තමන්ගෙන් රුපියල් ලක්ෂ 12ක පමණ මුදලක් ලබාගෙන ඇති බවයි.
+
+ඒ අනුව වැටලීම් ඒකකය අදාළ ජාවාරම පිළිබඳව විමර්ශනයක් ආරම්භ කළේ "අද දෙරණ" උකුස්සාව ද එක්කර ගනිමිනි.
+
+ජාවාරම්කරුවන් දෙදෙනකු  සූක්ෂ්ම ලෙස බත්තරමුල්ලේ පුද්ගලයන් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව වෙත ගෙන්වාගැනීමට විමර්ශන නිලධාරීන්ට හැකිවිය.
+
+යක්කල සහ ගලගෙදර පදිංචිකරුවන් වූ ඔවුන්ගෙන් ප්‍රශ්න කිරීමේදී මෙම ජාවාරමට සම්බන්ධ කොට්ටාව ප්‍රදේශයේ කාන්තාවක් පිළිබඳව තොරුතුරු අනාවරණ විය.
+
+ඒ අනුව එම කාන්තාව අත්අඩංගුවට ගැනීම සඳහා විමර්ශන නිලධාරීන් එහි යන අතරතුර  උපායදූතයෙකු මගින් ඇයට දුරකතන ඇමතුමක් ලබාදුන්නද ඇය පැවසූවේ තමන් නිවසෙහි නොමැති බවයි.
+
+...
+
+[Data](articles/fb6e1abb.json)
+
+---
+
+### Manampitiya - Maha Oya Road
 
 *2024-11-26 19:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னம்பிட்டி-மகா-ஓயா-வீதி-மூடப்பட்டுள்ளது/175-347818) · `ta`
+
+Here's a summary of Manampitiya - Maha Oya Road in approximately 200 characters:
+
+
+
+Manampitiya-Maha Oya Road connects the towns of Manampitiya and Maha Oya in Sri Lanka. It spans about 30 km, passing through rural areas and small villages. The road conditions vary, with some sections being paved and others unpaved. It serves as a vital transportation route for local residents and farmers transporting goods to nearby markets. The road also provides access to nearby attractions like waterfalls and hiking trails.
+
+🟩
 
 ◼️
 
 [Data](articles/b403b533.json)
+
+[Extended Data](ext_articles/b403b533.ext.json)
 
 ---
 
@@ -69,6 +161,30 @@ Accordingly, two persons arrested by two persons were arrested in their arrest a
 [Data](articles/1d1d5049.json)
 
 [Extended Data](ext_articles/1d1d5049.ext.json)
+
+---
+
+### ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම ගැන රජයෙන් නිවේදනයක්
+
+*2024-11-26 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203770) · `si`
+
+දැනට පවතින බැඳුම්කර සඳහා නව බැඳුම්කර හුවමාරු කිරීමේ මාර්ගයෙන් ශ්‍රී ලංකාවේ ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය කිරීම ආරම්භ කෙරෙන බව මුදල් අමාත්‍යංශය නිවේදනය කරයි.
+
+ඊයේ වනවිට හිඟව ඇති බැඳුම්කර වල වටිනාකම ඩොලර් බිලියන 12.55ක් වන අතර එම බැඳුම්කර ඒ අනුව ප්‍රතිව්‍යුහගත කෙරේ.
+
+එම ක්‍රියාවලිය සඳහා සඳහා කැබිනට් අනුමැතිය ලැබී ඇති බව අද (26) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+දැනට නිකුත්කර ඇති බැඳුම්කර හිමි පාර්ශ්ව වෙත තම බැඳුම්කර නව බැඳුම්කර සමග හුවමාරු කර ගැනීම සඳහා සති 3ක කාලයක් ලබාදී තිබේ.
+
+මෙම බැඳුම්කර හුවමාරු ක්‍රියාවලිය සඳහා හැකි ඉක්මණින් එක්වන ලෙස ශ්‍රී ලංකාව අදාළ බැඳුම්කර හිමියන්ගෙන් ඉල්ලීමක් කර තිබේ.
+
+නව මෙවලම් වල සුවිශේෂී කරුණු සම්බන්ධයෙන් වසර දෙකක් පුරා බැඳුම්කර හිමියන් සමග යහපත් විශ්වාසයෙන් සාකච්ඡා කළ බව මුදල් අමාත්‍යංශය නිකුත්කළ නිවේදනයෙහි දැක්වෙයි.
+
+එහි අරමුණ වූයේ සියලුම පාර්ශ්වයන්ට හොඳම ප්‍රතිඵල ලැබෙන පරිදි මෙම ක්‍රියාවලිය සිදුකිරීම බව සඳහන් ය.
+
+...
+
+[Data](articles/db4f8108.json)
 
 ---
 
@@ -119,6 +235,8 @@ Myanmar has been in turmoil since the military deposed Aung San Suu Kyi’s elec
 ...
 
 [Data](articles/8e5ee8cc.json)
+
+[Extended Data](ext_articles/8e5ee8cc.ext.json)
 
 ---
 
@@ -506,35 +624,57 @@ Human Rights Watch said in a statement that in his election manifesto, Dissanaya
 
 ---
 
-### மின் கட்டணத்தை குறைக்கும் பிரேரணையை காலம் தாழ்த்தி வருவது அரசாங்கத்தின் தீர்மானமா ?  -  ஐ.தே.க. கேள்வி
+### Is the government's decision to delay the proposal to reduce electricity tariffs?- UNP. Question
 
 *2024-11-26 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199749) · `ta`
 
-மின்சாரசபை இலாபமீட்டும்போது அதற்கு இணையாக மின்சார கட்டண சூத்திரத்துக்கு அமைய  கட்டண திருத்தம் மேற்கொள்வது மின்சாரசபையின் பொறுப்பு. அவ்வாறு இருந்தும் மின்சாரசபை இந்த மின் கட்டண குறைப்பு தொடர்பான தீர்மானத்தை தாமதித்து  வருவது அரசாங்கத்தின் தீர்மானமா என்ற கேள்வி எழுகிறது என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் சமன் ரத்னப்பிரிய தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணி காரியாலயத்தில் செவ்வாய்க்கிழமை (26) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
 
-இலங்கை மின்சாரசபைக்கு கிடைக்கப்பெறும் இலாபத்தின் அடிப்படையில் அதன் ஊழியர்களுக்கு போனஸ் காெடுப்பனவு வழங்கப்பவேண்டும். ஆனால் மின்சாரசபை நிர்வாகம் அதன் ஊழியர்களுக்கான போனஸ் கொடுப்பனவை வழங்காமல் இருப்பதற்கான நடவடிக்கை எடுத்துவருவதாகவே தெரியவருகிறது. ஊழியர்களுக்கு வழங்கப்பட வேண்டிய போனஸ் கொடுப்பனவை வழங்க வேண்டும் என்ற கோரிக்கையை நாங்கள் முன்வைக்கிறோம்.
+
+Government delays reducing electricity tariffs despite Electricity Board's profitability. Public Utilities Commission requests proposal by December. If not received, commission plans to reduce tariffs based on board's profits. Former UNP parliamentarian Saman Ratnapriya criticizes delay, emphasizing Electricity Board's responsibility to amend electricity bills when profitable.
+
+🟩
+
+When the Electricity Board is profitable, it is the responsibility of the Electricity Board to make amendment to the electricity bill.. Former United National Party (UNP) parliamentarian Saman Ratnapriya said the question is whether the government's decision to delay the resolution on this electricity tariff reduction.
+
+He was speaking at a press conference held at the New Democratic Front office in Colombo on Tuesday (26).
+
+Based on its employees on the basis of profit from the Ceylon Electricity Board. But it is reported that the Electricity Board is taking steps to not pay the bonus allowance for its employees. We make a demand for the bonus allowance to be paid to the employees.
+
+Similarly, the electricity tariff must be reduced in parallel with the profit that the Electricity Board receives. Even though the Public Utilities Commission has asked the Electricity Board on the reduction of electricity tariffs. It is seen that the Electricity Board is delaying the delivery of it.
 
 ...
 
 [Data](articles/f2682f82.json)
 
+[Extended Data](ext_articles/f2682f82.ext.json)
+
 ---
 
-### ජනපති ඉන්දියා හා චීන සංචාරයකට
+### President to visit India and Chinese
 
 *2024-11-26 17:54:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියා-හා-චීන-සංචාරයකට/11-413291) · `si`
 
-ඉන්දීය රජයේ මෙන්ම චීන රජයේ නිල ආරාධනා අනුව ජනපති අනුර කුමාර දිසානායක මහතා ඉදිරියේදී එම රටවල් දෙකේ නිල සංචාර සිදුකරනු ඇති බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+Here's a summary in 200 characters:
 
-මේ අනුව ජනපතිවරයා මුලින්ම ඉන්දියාවේ සංචාරයක නිරත වෙනු ඇති බවත් බොහෝ දුරට එම සංචාරය දෙසැම්බර් තෙවැනි සතියේදී සිදු වෙනු ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
 
-චීන සංචාරය සඳහා චීන තානාපති කාර්යාලය විසින් නිල ආරාධනාවක් සිදුකර ඇතැයිද අමාත්‍යවරයා පැවැසීය.
+
+Pres. Anura Kumara Dissanayake to visit India & China. Indian trip likely in Dec 3rd week. Chinese embassy invited for China visit.
+
+🟩
+
+Cabinet spokesman Minister Nalinda Jayatissa said President Anura Kumara Dissanayake will carry out official visits in the future.
+
+Accordingly, the President first visits India and the most likely trip will take place in December-third week.
+
+The Minister said that the Chinese embassy was officially invited by the Chinese embassy for China.
 
 ◼️
 
 [Data](articles/db5b170f.json)
+
+[Extended Data](ext_articles/db5b170f.ext.json)
 
 ---
 
@@ -2325,131 +2465,5 @@ It is also worth noting that the Disaster Management Unit has issued a flood haz
 [Data](articles/542116d5.json)
 
 [Extended Data](ext_articles/542116d5.ext.json)
-
----
-
-### Central Bank bond scam: Notice issued on ex-CBSL chief Arjuna Mahendran
-
-*2024-11-26 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103772/central-bank-bond-scam-notice-issued-on-ex-cbsl-chief-arjuna-mahendran) · `en`
-
-The Colombo Magistrate’s Court has issued notice on former Governor of the Central Bank of Sri Lanka (CBSL) Arjuna Mahendran to appear before the court on 25 February 2025 over a case filed by the Bribery Commission pertaining to the controversial bond issue in 2015.
-
-The case has been filed over the alleged misappropriation of bonds causing a loss of over Rs. 10 billion to the government of Sri Lanka in 2015.
-
-Colombo Magistrate Thilina Gamage issued this order today (26) after considering a request made by the Bribery Commission.
-
-◼️
-
-[Data](articles/8120d4f0.json)
-
-[Extended Data](ext_articles/8120d4f0.ext.json)
-
----
-
-### Cabinet approval to restructure international sovereignties in Sri Lanka
-
-*2024-11-26 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203750) · `si`
-
-Sri Lanka cabinet approves restructuring international sovereignty. Agreement reached with bilateral lenders on bond exchange by September 2024. Impact on economy discussed. New bonds to be submitted by 2032, aligned with IMF parameters.
-
-🟩
-
-Cabinet has approved a proposal made by Hon. President Anura Kumara Dissanayake, Minister of Finance, Planning and Economic Development to restructure international sovereignty in Sri Lanka.
-
-Deputy Minister of Labor and Economic Development Prof. Anil Jayantha Fernando, joining the Cabinet Decision informed today (25).
-
-Accordingly, in September 2024, the Deputy Minister of International Investors representatives of the International Investors Agent, a group of organized bonds, and the unity of the local bond owners of Sri Lanka and the unity of Sri Lanka's united discussions with the unity of Sri Lanka and the unity of Sri Lanka's united discussions were held.Said.
-
-"The negotiations with bilateral lenders had come to some agreement by June. However, it was delayed because of the complexity of sovereign bonds. In September, however, we were able to agree with bonds exchange.
-
-...
-
-[Data](articles/b5588ca0.json)
-
-[Extended Data](ext_articles/b5588ca0.ext.json)
-
----
-
-### A person with an electricity feker is killed
-
-*2024-11-26 11:33:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ස්ත්‍රික්කයකින්-පහරදි-පුද්ගලයෙක්-ඝාතනය-කරයි/11-413273) · `si`
-
-Person electrocuted while trying to store electrical items without permission. Police investigating. Suspect fled but will be caught.
-
-🟩
-
-Maharagama Police said that a person who had not allowed to shelter electrical appliances in Pannipitiya Owansa.
-
-The deceased has been identified as Dayasiri Dayasiri, a resident of Yanagama home, Dianesiri, a resident of Pannipiri, 752.
-
-A resident of a house in a house where a business was conducting an electrical supplementary place, a resident of a householder, has asked for allowing a country bag and demanded permission to the house shelter.
-
-However, the owner is unwilling to leave the place and asked for once again and again to accommodate it after again. Initial investigations have revealed that the two had been ingested between the two and later seriously injured the death of the deceased.
-
-The injured were later admitted to the Homagama Base Hospital after being admitted to the Homagama Base Hospital.
-
-Meanwhile, the Nugegoda Divisional Criminal Officers and the Magistrate have also commenced on location investigations.
-
-...
-
-[Data](articles/4a6d5135.json)
-
-[Extended Data](ext_articles/4a6d5135.ext.json)
-
----
-
-### Allow Heroes Day
-
-*2024-11-26 11:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-தினத்தை-அனுஷ்டிக்க-அனுமதி/175-347789) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Allow Heroes Day" event restrictions: Public Security Minister Ananda Wijebala warns against displaying LTTE symbols, uniforms, or images. The government allows remembering fallen relatives but emphasizes compliance with laws and avoiding terrorist connections.
-
-🟩
-
-Public Security Minister Ananda Wijebala said that although the people in the North have been allowed to observe tomorrow, the banned organization should avoid visualizing the LTTE logics, uniforms and images.
-
-The minister said the government would not prevent the recall of their relations that had died during the country's civil war.
-
-However, he stressed that such a memoir should comply with the rules of law and avoid any connection with the banned terrorist group.
-
-"The LTTE is a appointed terrorist organization, and on November 27, there is no permission to showcase their identities, uniforms or pictures of their members during the Heroes' Day," he said.
-
-The Minister also pointed out that some groups have sought to re -interpret the past commemoration of the LTTE.
-
-He urged the public to respect the right to commemorate both and the country's legal structure and conduct memories within the limits of the law.
-
-...
-
-[Data](articles/9a394cdd.json)
-
-[Extended Data](ext_articles/9a394cdd.ext.json)
-
----
-
-### President invites the President
-
-*2024-11-26 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203749) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake invited to China. Scheduled India visit third week of month. Dates undecided. Chinese embassy invited to Sri Lanka.
-
-🟩
-
-Cabinet spokesman Dr. Nalinda Jayatissa says that President Anura Kumara Dissanayake has been invited to visit China.
-
-He said that the President is scheduled to visit India for about the third week of the month.
-
-Dr. Jayatissa said that the dates on the tour had not yet been decided.
-
-Chinese embassy in Sri Lanka was invited to visit Chinese.
-
-◼️
-
-[Data](articles/c358d301.json)
-
-[Extended Data](ext_articles/c358d301.ext.json)
 
 ---

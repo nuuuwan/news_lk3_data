@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 00:59:35**
+As of **2024-11-27 00:27:49**
 
 ## Newspaper Stats
 
-*Scraped **57,090** Articles*
+*Scraped **57,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 438
 colombotelegraphcom | 579
 bbccomsinhala | 594
-islandlk | 3,424
+islandlk | 3,422
 economynextcom | 3,463
 dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
-tamilmirrorlk | 8,119
+tamilmirrorlk | 8,118
 virakesarilk | 9,305
 adaderanasinhalalk | 9,863
 
@@ -26,85 +26,39 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,088 (100.0%) of 57,090 articles have been extended.
+57,085 (100.0%) of 57,087 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-11-27 (Wednesday)
-
-### Call these digits immediately
-
-*2024-11-27 00:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-இந்த-இலக்கங்களுக்கு-அழையுங்கள்/175-347826) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Emergency unit at Police HQ operates 24/7. Report incidents, displacements, aid requests due to severe weather. Public urged to inform authorities promptly.
-
-🟩
-
-A special functioning unit has been established at the Police Headquarters 24 hours a day to report on emergency conditions in the country and to carry out the necessary coordination.
-
-Police have asked the public to inform the headquarters of the emergency situations, displacement and assistance of the people affected by the inclement weather.
-
-◼️
-
-[Data](articles/3a5aa120.json)
-
-[Extended Data](ext_articles/3a5aa120.ext.json)
-
----
-
 ### 2024-11-26 (Tuesday)
 
-### Action by the police for emergency complaints due to random climate
+### சீரற்ற காலநிலையால் அவசர புகாருக்கு காவல்துறையினரால் நடவடிக்கை
 
 *2024-11-26 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199787) · `ta`
 
-Here's a summary of 200 characters:
+சீரற்ற காலநிலையால்  ஏதேனும் அனர்த்தங்கள் ஏற்பட்டால் அதனை அறிவிப்பதற்கும் ஒருங்கிணைப்பதற்கும் பொலிஸ் தலைமையகத்தில் 24 மணிநேர விசேட செயற்பாட்டு மையம் நிறுவப்பட்டுள்ளது.
 
+அதன்படி பின்வரும் தொலைபேசி எண்கள் மற்றும் மின் அஞ்சல் முகவரி மூலம் இந்த சிறப்பு நடவடிக்கை மத்திய மற்றும் தொடர்பு கொள்ள முடியும்.
 
-
-Police establish 24-hour Special Operational Center at HQ for weather-related emergencies. Contact via phone numbers and email for reporting health issues, accidents, and aid needs.
-
-🟩
-
-A 24 -hour Special Operational Center has been established at the Police Headquarters to announce and coordinate any disasters due to inclement weather.
-
-Accordingly, this special action can be communicated with the following phone numbers and e -mail address.
-
-In order to inform the police about health centers, accidents and aid supplies,
+சுகாதார நிலையங்கள், விபத்துக்கள் மற்றும் உதவி பொருட்கள் உள்ளிட்டவை தொடர்பாக காவல் துறையினருக்கு தகவல் தெரிவிக்கும் வகையில்,
 
 ◼️
 
 [Data](articles/42a5d130.json)
 
-[Extended Data](ext_articles/42a5d130.ext.json)
-
 ---
 
-### In the yarns. 2 thousand 634 families vulnerable due to random climate
+### யாழில். சீரற்ற காலநிலை காரணமாக 2ஆயிரத்து 634 குடும்பங்கள் பாதிப்பு
 
 *2024-11-26 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199786) · `ta`
 
-Here's a summary in 200 characters:
+யாழ்ப்பாணத்தில் சீரற்ற காலநிலை காரணமாக 2ஆயிரத்து 634 குடும்பங்களைச் சேர்ந்த 9 ஆயிரத்து 404 பேர் பாதிக்கப்பட்டுள்ளதுடன் 48 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்தார்.
 
-
-
-"9,404 affected from 2,634 families due to climate in Jaffna."
-
-🟩
-
-Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that 9 thousand 404 people from 2 thousand 634 families have been affected by the inclement weather in Jaffna.
-
-2335 from 573 families in the Sanganai Divisional Secretariat Division, 1520 from 470 families in the Jaffna Divisional Secretariat Division, 932 in the Chandilipayi Divisional Secretariat Division, 1462 from the Kayts Divisional Secretariat Division and 4162 in the Chavakachachi Divisional Secretariat.508 people from 141 families were affected by the Karainagar Divisional Secretariat Division.
+சங்கானை பிரதேச செயலக பிரிவில் 573 குடும்பங்களைச் சேர்ந்த 2335 பேரும், யாழ்ப்பாணம் பிரதேச செயலக பிரிவில் 470 குடும்பங்களைச் சேர்ந்த 1520 பேரும்,சண்டிலிப்பாய் பிரதேச செயலக பிரிவில் 266 குடும்பங்களைச் சேர்ந்த 932 பேரும், ஊர்காவற்துறை பிரதேச செயலக பிரிவில் 371 குடும்பங்களைச் சேர்ந்த 1462 பேரும்,சாவகச்சேரி பிரதேச செயலக பிரிவில் 416 குடும்பங்களைச் சேர்ந்த 599 பேரும், காரைநகர் பிரதேச செயலக பிரிவில் 141 குடும்பங்களைச் சேர்ந்த 508 பேரும் பாதிக்கப்பட்டனர்.
 
 ...
 
 [Data](articles/4df0b826.json)
-
-[Extended Data](ext_articles/4df0b826.ext.json)
 
 ---
 
@@ -2499,5 +2453,23 @@ Meanwhile, Delhi Cesitals team purchased the Dammane Chameera to a sum of Rs.
 [Data](articles/015bd513.json)
 
 [Extended Data](ext_articles/015bd513.ext.json)
+
+---
+
+### Deputy Minister reveals procedure for importing vehicles
+
+*2024-11-26 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103779/deputy-minister-reveals-procedure-for-importing-vehicles-) · `en`
+
+Deputy Minister of Economic Development Prof. Anil Jayantha Fernando clarified the procedure for importing vehicles in the future, emphasizing the role of foreign reserve limitations in the process.
+
+Speaking at the Cabinet press briefing, the deputy minister outlined that vehicle imports will be allowed under several specific categories, particularly for commercial vehicles. These imports will be regulated within the framework of foreign exchange restrictions, with due consideration of the country’s reserve levels.
+
+He further elaborated, stating, “The current foreign reserves, which have reached a substantial USD 6.4 billion, have been carefully accounted for, and additional Reserve Buffer have been established by the Central Bank of Sri Lanka (CBSL). Vehicle importation will proceed in phases, prioritizing essential categories and adhering to these limitations.”
+
+...
+
+[Data](articles/8aed9e93.json)
+
+[Extended Data](ext_articles/8aed9e93.ext.json)
 
 ---

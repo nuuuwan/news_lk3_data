@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 10:01:28**
+As of **2024-11-26 09:21:33**
 
 ## Newspaper Stats
 
-*Scraped **56,920** Articles*
+*Scraped **56,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,102 +13,24 @@ dbsjeyarajcom | 438
 colombotelegraphcom | 578
 bbccomsinhala | 592
 islandlk | 3,421
-economynextcom | 3,449
+economynextcom | 3,448
 dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,356
-adaderanalk | 6,879
-tamilmirrorlk | 8,094
+adaderanalk | 6,878
+tamilmirrorlk | 8,093
 virakesarilk | 9,274
-adaderanasinhalalk | 9,826
+adaderanasinhalalk | 9,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,905 (100.0%) of 56,920 articles have been extended.
+56,901 (100.0%) of 56,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-26 (Tuesday)
-
-### Sri Lanka rupee opens stronger at 291.00/15 to dollar, bonds down
-
-*2024-11-26 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-291-00-15-to-dollar-bonds-down-189859/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291.00/15 to the US dollar on Tuesday from 291.25/35 to the US dollar on Monday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2027 was quoted at 10.85/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.07/15 percent.
-
-A bond maturing on 15.10.2028 was quoted at 11.15/20 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.30/40 percent, down from 11.35/50 percent.
-
-In equities, the All Share Price Index opened up 0.11 percent or 14.74 points, at 12,881. The more liquid S&P SL20 opened up 0.56 percent, or 21.32 points, at 3,816.
-
-◼️
-
-[Data](articles/d899318f.json)
-
----
-
-### Railway prohibition
-
-*2024-11-26 09:18:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவை-தடை/175-347779) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Railway closure: Mudslide collapses track between Badulla & Bandara. Multiple roadblocks in Badulla district due to severe weather conditions.
-
-🟩
-
-The ban has been reported due to the collapse of mudslides and stones in the railway line between Badulla and Bandara.
-
-Meanwhile, the Badulla District Disaster Management Center said that several roads have been blocked due to inclement weather.. Remble
-
-◼️
-
-[Data](articles/b240140f.json)
-
-[Extended Data](ext_articles/b240140f.ext.json)
-
----
-
-### අමාත්‍යාංශ විෂයපථයන් හා කාර්යභාරයන් ගැසට් කෙරේ
-
-*2024-11-26 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203742) · `si`
-
-නව අමාත්‍ය මණ්ඩලයේ විෂයයන් සහ කාර්යභාරයන් ගැසට් පත්‍රයක් මඟින් ප්‍රකාශයට පත්කර තිබේ.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් අදාළ ගැසට් නිවේදනය නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/6b689df1.json)
-
----
-
-### A/L candidates affected by bad weather allowed to sit for exams at nearest centres
-
-*2024-11-26 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103765/al-candidates-affected-by-bad-weather-allowed-to-sit-for-exams-at-nearest-centres) · `en`
-
-The Commissioner General of Examinations, Amith Jayasundara has announced that G.C.E. Advanced Level Examination candidates who are unable to reach their designated examination centres due to adverse weather conditions are permitted to sit for their exams at the nearest available centres.
-
-Candidates facing difficulties are encouraged to contact the Disaster Management Centre (DMC) via the hotline ‘117’ for assistance.
-
-Considering the prevailing circumstances, arrangements have been made through the DMC to provide the necessary facilities for students sitting for the Advanced Level examination.
-
-The Commissioner General of Examinations has also assured that examination centers have been instructed to offer appropriate accommodations for students facing delays in reaching their centers due to traffic disruptions caused by adverse weather conditions.
-
-◼️
-
-[Data](articles/e7b6e433.json)
-
----
 
 ### Emergency notice for A/L students
 
@@ -160,14 +82,6 @@ Meanwhile. The public is advised to act with great care. Remble
 
 Train services on the up-country line have been disrupted due to mounds of earth and rocks falling onto the tracks between Badulla and Bandarawela, according to Sri Lanka Railways.
 
-Meanwhile, the District Disaster Management Coordination Unit of Badulla has reported that several roads in the Badulla District have been blocked due to severe weather conditions.
-
-According to the unit, these disruptions have been caused by landslides, mounds of earth and rocks collapsing, as well as fallen trees obstructing the roads.
-
-Among the affected routes are the Badulla-Bandarawela road near Uduwara Milk Factory, the Haputale-Beragala road, the Badulla-Passara road near the third milepost, the Spring Valley road via Kadhana in Badulla, the seventh-milepost on the Badulla-Passara main road, and the Bibila-Lunugala road near Arawakumbura, among others.
-
-Police have advised drivers to use alternative routes until these roads are cleared and safe for travel.
-
 ◼️
 
 [Data](articles/61d556ca.json)
@@ -195,48 +109,6 @@ Heavy showers above 100 mm are likely at several places elsewhere of the island,
 [Data](articles/cb610b71.json)
 
 [Extended Data](ext_articles/cb610b71.ext.json)
-
----
-
-### උඩරට මාර්ගයේ දුම්රිය ගමනාගමනයට බාධා
-
-*2024-11-26 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203741) · `si`
-
-උඩරට දුම්රිය මාර්ගයේ බදුල්ල සහ බණ්ඩාරවෙල අතර දුම්රිය මාර්ගයට බාධා මතුව ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-එහි දක්වා ඇත්තේ බදුල්ල සහ බණ්ඩාරවෙල අතර දුම්රිය මාර්ගයට පස් කඳු සහ ගල් කඩා වැටීම හේතුවෙන් මෙම බාධා මතුව ඇති බවය.
-
-මේ අතර පවතින අයහපත් කාළගුණ තත්ත්වය හේතුවෙන් බදුල්ල දිස්ත්‍රික්කයේ මාර්ග කිහිපයක් අවහිරව ඇති බව බදුල්ල දිස්ත්‍රික් ආපදා කළමනාකරණ ඒකකය පවසයි.
-
-එම ඒකකය පැවසුවේ නායයාම්, පස්කඳු කඩා වැටීම්, ගස් සහ ගල් කඩාවැටීම් හේතුවෙන් මෙම මාර්ග අවහිරව ඇති බවය.
-
-ඒ අනුව බදුල්ල බණ්ඩාරවෙල මාර්ගයේ උඩුවර කිරිමණ්ඩලය අසල, හපුතලේ බෙරගල මාර්ගය, බදුල්ල - පස්සර මාර්ගයේ තුනේ කණුව, බදුල්ල කදන හරහා ස්ප්‍රිංවැලි මාර්ගය, බදුල්ල පස්සර මාර්ගයේ 7 කණුව, බිබිල ලුනුගල මාර්ගයේ අරවාකුඹුර යන මාර්ග සහ අවහිර ව තිබේ.
-
-අවහිර වූ එම මාර්ග හේතුවෙන් විකල්ම මාර්ග භාවිත කරන ලෙස පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/6a6c9e9e.json)
-
----
-
-### උසස් පෙළ සිසුන්ට හදිසි දැනුම්දීමක් - මාර්ග අවහිරතා ඇත්නම් ළඟම මධ්‍යස්ථානයට යන්න
-
-*2024-11-26 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203740) · `si`
-
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් නියමිත විභාග මධ්‍යස්ථාන වෙත ගමන් කිරීමට නොහැකි උසස් පෙළ විභාගයට පෙනී සිටින සිසුන් ළඟම ඇති විභාග මධ්‍යස්ථානය වෙත ගමන් කරන ලෙස විභාග දෙපාර්තමේන්තුව දැනුම් දෙයි.
-
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසුවේ, ජල ගැලීම් හේතුවෙන් මාර්ග අවහිරතා ඇත්නම් එම සිසුන්ට ළඟම ඇති විභාග මධ්‍යස්ථානයට ගොස් විභාගයට පෙනී සිටීමට අවස්ථාව ලබාදී ඇති බවය.
-
-දිවයින පුරා පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ඇතැම් මාර්ග ජලයෙන් යටවී ගමනාගමන කටයුතුවලට බාධා එල්ල වී ඇති අතර යම් ගැටලුවක් ඇත්නම් ආපදා කළමනාකරණ මධ්‍යස්ථානයේ 117 දුරකථන අංකයට අමතා ඒ පිළිබඳව දැනුම් දෙන ලෙස විභාග කොමසාරිස් ජනරාල්වරයා පවසයි.
-
-පවතින තත්ත්වය සැලකිල්ලට ගනිමින් ආපදා කළමනාකරණ මධ්‍යස්ථානය හරහා උසස් පෙළ විභාගයට පෙනී සිටින සිසුන් සඳහා අවශ්‍ය පහසුකම් සැලසීමට කටයුතු කර තිබේ.
-
-ආපදා හේතුවෙන් ඇති වී ඇති ගමනා ගමන අවහිරතා නිසා විභාග මධ්‍යස්ථාන වෙත පැමිණීමේ දී යම් ප්‍රමාදයන් සිදුවුව ද ඒ පිළිබඳව සහනයක් ලබා දීමට විභාග මධ්‍යස්ථාන වෙත උපදෙස් ලබාදී ඇති බව ද විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/28a5ac60.json)
 
 ---
 
@@ -900,8 +772,6 @@ She has represented Australian Blues three times and, on this occasion, goes as 
 
 [Data](articles/862e316b.json)
 
-[Extended Data](ext_articles/862e316b.ext.json)
-
 ---
 
 ### Fusion of Soul and Sound from Galle
@@ -940,8 +810,6 @@ Delivering his inaugural policy statement to Parliament, President Anura Kumara 
 
 [Data](articles/1aa158d9.json)
 
-[Extended Data](ext_articles/1aa158d9.ext.json)
-
 ---
 
 ### ‘Red’ warning issued for severe weather as low-pressure area intensifies near Sri Lanka
@@ -973,8 +841,6 @@ Surely, racism has caused enough damage to us to warrant its erasure from our mi
 ...
 
 [Data](articles/396a7363.json)
-
-[Extended Data](ext_articles/396a7363.ext.json)
 
 ---
 
@@ -2345,5 +2211,155 @@ The project will strengthen the Ceylon Electricity Board (CEB) and Lanka Electri
 [Data](articles/da4b62b6.json)
 
 [Extended Data](ext_articles/da4b62b6.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 291.25/35 to dollar, bonds marginally up
+
+*2024-11-25 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-25-35-to-dollar-bonds-marginally-up-189800/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.25/35 to the US dollar on Monday from 291.00/10 to the US dollar on Friday dealers said, while bond yields were slightly up.
+
+A bond maturing on 15.09.2027 closed at 10.80/85 percent, up from 10.75/85 percent.
+
+A bond maturing on 15.03.2028 closed at 11.10/15 percent, up from 11.05/15 percent.
+
+A bond maturing on 15.09.2029 closed at 11.35/50 percent, up from 11.25/40 percent. (Colombo/Nov25/2024)
+
+◼️
+
+[Data](articles/b84ab4de.json)
+
+[Extended Data](ext_articles/b84ab4de.ext.json)
+
+---
+
+### Electricity tariff correction?Permit for time
+
+*2024-11-25 16:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-கால-அவகாசத்திற்கு-அனுமதி/175-347748) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Public Utilities Commission agrees Ceylon Electricity Board until Dec 2024 propose Electricity Tariff Amendment. Permit for amendment can be issued by Jan 17, 2025.
+
+🟩
+
+The Public Utilities Commission has agreed to give the Ceylon Electricity Board a period of December 2024 to issue proposals for the Electricity Targe Amendment.
+
+The Public Utilities Commission has informed the Ceylon Electricity Board that the permit for the proposed electricity tariff amendment can be issued by January 17, 2025.. Remble
+
+◼️
+
+[Data](articles/dca2e1ff.json)
+
+[Extended Data](ext_articles/dca2e1ff.ext.json)
+
+---
+
+### Message to new MPs from the Prime Minister
+
+*2024-11-25 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203721) · `si`
+
+Here's a summary of the Prime Minister's message to new MPs in approximately 200 characters:
+
+
+
+Prime Minister Dr. Harini Amarasuriya addresses new MPs, emphasizing their role as public representatives. She highlights historical significance, including high female representation. She reminds them to prioritize protecting citizens' interests over personal gains, citing recent elections as evidence of public expectations.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya said that all MPs should be remembered that all MPs were to become a supremacy again in the recent past.
+
+The Prime Minister of Parliament was speaking at the inauguration of the Parliamentary Procedure Awareness Workshop for New Members of the Tenth Parliament today (25).
+
+...
+
+[Data](articles/237b132b.json)
+
+[Extended Data](ext_articles/237b132b.ext.json)
+
+---
+
+### Final results in the scholarship examination
+
+*2024-11-25 16:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-இறுதி-முடிவு/175-347746) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ministry of Education announces government stance on scholarship exam leak. Decision based on reports from three committees investigating leaked questions. Attorney General to inform High Court on December 2.
+
+🟩
+
+The Ministry of Education has announced that the government's position on the scholarship exam will take necessary steps to announce to the High Court on December 2.
+
+A senior official of the ministry said that the government's position will be based on the recommendations of the three committees who examined the leak questions in the exam question.
+
+Considering the report of those groups, the Ministry has made it clear that the Attorney General will take necessary steps to inform the High Court of the Government's position.. Remble
+
+◼️
+
+[Data](articles/b3b0b1fa.json)
+
+[Extended Data](ext_articles/b3b0b1fa.ext.json)
+
+---
+
+### Petition against the exam
+
+*2024-11-25 16:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சைக்கு-எதிராக-மனு/175-347745) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Supreme Court investigates petition against Education General Level Exam. Student Hansani Alagoon claims GCE O/L circular violates 107 academic days requirement. Chief Justices consider case against Commissioner General of Exams Harini Amarasuriya.
+
+🟩
+
+The Supreme Court on Monday (25) has decided to investigate the fundamental rights violation petition filed by a student demanding an interim order to prevent the ongoing Education General Level Examination.
+
+The petition was considered before a session of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
+
+This time, the Commissioner General of Examinations, Mrs. Harini Amarasuriya, has been referred to as defendants in the petition filed by Hansani Alagoon, a student who will appear for the GCE Advanced Level Examination.
+
+The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 Circular Recognition period, has clearly stated that the 107 academic days should be completed.
+
+◼️
+
+[Data](articles/2ab90575.json)
+
+[Extended Data](ext_articles/2ab90575.ext.json)
+
+---
+
+### Petition against the exam
+
+*2024-11-25 16:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உ-த-பரீட்சைக்கு-எதிராக-மனு/150-347745) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Supreme Court investigates petition against Education General Level Exam. Student Hansani Alagoon claims violation of fundamental rights. Challenges 39/2023 circular requiring 107 academic days completion.
+
+🟩
+
+The Supreme Court on Monday (25) has decided to investigate the fundamental rights violation petition filed by a student demanding an interim order to prevent the ongoing Education General Level Examination.
+
+The petition was considered before a session of Chief Justice Jayantha Jayasuriya, Murdu Fernando and Priyantha Fernando.
+
+This time, the Commissioner General of Examinations, Mrs. Harini Amarasuriya, has been referred to as defendants in the petition filed by Hansani Alagoon, a student who will appear for the GCE Advanced Level Examination.
+
+The petitioner, pointed out that the GCE (O/L) period of 39/2023 in the 39/2023 Circular Recognition period, has clearly stated that the 107 academic days should be completed.
+
+◼️
+
+[Data](articles/43cfcf4f.json)
+
+[Extended Data](ext_articles/43cfcf4f.ext.json)
 
 ---

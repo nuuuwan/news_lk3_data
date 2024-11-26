@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-26 23:42:45**
+As of **2024-11-27 00:02:02**
 
 ## Newspaper Stats
 
-*Scraped **57,083** Articles*
+*Scraped **57,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,463
 dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,380
-adaderanalk | 6,910
+adaderanalk | 6,912
 tamilmirrorlk | 8,118
 virakesarilk | 9,303
 adaderanasinhalalk | 9,863
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,080 (100.0%) of 57,083 articles have been extended.
+57,083 (100.0%) of 57,085 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,26 @@ Meanwhile, three more flights from Chennai, Male and Abu Dhabi to Katunayake air
 [Data](articles/8bb3b5fb.json)
 
 [Extended Data](ext_articles/8bb3b5fb.ext.json)
+
+---
+
+### ‘Red’ landslide early warning issued for areas in 3 districts
+
+*2024-11-26 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103796/red-landslide-early-warning-issued-for-areas-in-3-districts) · `en`
+
+The National Building Research Organisation (NBRO) has issued a ‘Level 3 (Red)’ Landslide Early Warning for several divisional secretariat divisions (DSDs) in Kandy, Matale and Nuwara-Eliya districts urging the residents of these areas to evacuate to safer locations.
+
+Accordingly, the Level -3 warning, valid for the next 24 hours,. Has been issued for the following divisional secretariat divisions and surrounding areas:
+
+Kandy District - Harispattuwa, Medadumbara, Kandy Four Gravets or Gangawata Korale, Ududumbara, Doluwa,  Yatinuwara, Udapalatha, Pathahewaheta, Udunuwara, Pathadumbara and Delthota
+
+Matale District - Ukuwela, Yatawatta, Rattota, Wilgamuwa, Ambanganga Korale, Laggala Pallegama, Pallepola, Naula and Matale
+
+Nuwara Eliya District - Walapane Divisional Secretariat Division (DSD) and surrounding areas
+
+...
+
+[Data](articles/05c12f83.json)
 
 ---
 
@@ -387,6 +407,28 @@ A search operation has been launched to locate the missing persons by police per
 [Data](articles/18407ad5.json)
 
 [Extended Data](ext_articles/18407ad5.ext.json)
+
+---
+
+### Eight including 6 children missing after tractor swept away by floods
+
+*2024-11-26 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103793/eight-including-6-children-missing-after-tractor-swept-away-by-floods) · `en`
+
+At least eight persons including 06 children are reported missing while two children have been rescued after the tractor they were travelling on was caught in flood waters in Karaitivu in Ampara District this evening (26).
+
+Police said that a total of 13 individuals including 11 boys, the tractor’s driver and assistant were traveling on the vehicle at the time of the incident and that 05 children had been rescued.
+
+The tractor was traveling from Ninthavur to Sammanthurai when it had toppled due to strong currents in the flood waters.
+
+The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
+
+The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
+
+A search operation has been launched to locate the missing persons by police personnel and areas residents.
+
+◼️
+
+[Data](articles/7f55fb5f.json)
 
 ---
 
@@ -2096,6 +2138,8 @@ There was a risk in continuing to litigate and Hamilton Reserve could also consi
 
 [Data](articles/0f635bf7.json)
 
+[Extended Data](ext_articles/0f635bf7.ext.json)
+
 ---
 
 ### Sri Lanka stocks close up, turnover Rs1.1bn
@@ -2113,6 +2157,8 @@ Top positive contributors to the ASPI were John Keells Holdings (up at 19.80), H
 ◼️
 
 [Data](articles/fcb67f8d.json)
+
+[Extended Data](ext_articles/fcb67f8d.ext.json)
 
 ---
 
@@ -2320,6 +2366,8 @@ ECONOMYNEXT – The Ceylon Chamber of Commerce said it welcomed the announcement
 
 [Data](articles/17b33f80.json)
 
+[Extended Data](ext_articles/17b33f80.ext.json)
+
 ---
 
 ### There is no room for prohibited celebration
@@ -2433,75 +2481,5 @@ He assured that the government is approaching changes in the education sector wi
 [Data](articles/883e4dd9.json)
 
 [Extended Data](ext_articles/883e4dd9.ext.json)
-
----
-
-### The water level of 73 reservoirs over 65 percent
-
-*2024-11-26 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203758) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-73 reservoirs exceed 65% water capacity due to heavy rains. 23 out of 73 reservoirs are spilling. Major tanks in Hambantota, Galle, Kandy, Kurunegala districts report over 80% capacity. Department warns public living in lowlands near overflowing reservoirs.
-
-🟩
-
-The water level of 73 reservoirs across the country has exceeded 65% over the country.
-
-In a statement, the department said that the sluice gates of several reservoirs have been opened due to heavy rains.
-
-As a result, 23 out of 73 reservoirs in the country and many medium-sized tanks are already spilling.
-
-The water capacity of the reservoirs in Ampara, Anuradhapura, Badulla and Batticaloa districts have reported over 50%.
-
-More than 80% of over 80% of the water capacity has been reported in Hambantota, Galle, Kandy, Kurunegala.
-
-Nearly 70% of the water capacity of Polonnaruwa and Puttalam Districts has also been a growth of nearly 45% of the Trincomalee and Mannar Districts.
-
-As a result, the total water capacity of 73 major tanks in the country has exceeded 65%.
-
-Meanwhile, six sluice gates of the Rajanganaya tank of Rajanganaya have been released to the Kala Wewa in the Ampara district.The announcement issued by the department states.
-
-...
-
-[Data](articles/2942f1b0.json)
-
-[Extended Data](ext_articles/2942f1b0.ext.json)
-
----
-
-### Rain in Nuwara Eliya;Flooding in agricultural lands and homes;Special arrangement for examiners
-
-*2024-11-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199711) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Heavy rains hit Nuwara Eliya, causing flooding & landslides. Vegetable gardens destroyed. Traffic disrupted on main roads. Disaster Management Center arranges special transport for exams.
-
-🟩
-
-Heavy rains and heavy winds have been in the hill country for the past two days.People living in lowland areas have been severely affected by continuous rains since last night (25).
-
-Heavy rains in Kandapalai, Hyboorast, Bambarakalai and Nanuoya district, especially in the Nuwara Eliya district, have been destroyed by a large number of vegetable gardens.
-
-In addition, floodwaters have been flooded in houses located in the area and there are minor landslides.
-
-Traffic on the Nuwara Eliya - Udappusallawa main road has been affected due to flooding in the Cordlotj junction and many parts of the new road.
-
-Traffic has been blocked due to the inability of the Nuwara Eliya -Iragala main road to be submerged.
-
-The traffic on the Nuwara Eliya -Udappusallawa main road was affected on Tuesday morning (26).
-
-Nuwara Eliya District Government Agent Nandana Kalapoda said that all arrangements have been made through the Disaster Management Center to take students to the examinations to be held today afternoon.
-
-◼️
-
-[Data](articles/115fbb97.json)
-
-[Extended Data](ext_articles/115fbb97.ext.json)
 
 ---

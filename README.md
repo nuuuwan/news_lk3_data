@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 00:41:26**
+As of **2024-11-27 00:27:49**
 
 ## Newspaper Stats
 
-*Scraped **57,088** Articles*
+*Scraped **57,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,917
 dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
-tamilmirrorlk | 8,119
+tamilmirrorlk | 8,118
 virakesarilk | 9,305
 adaderanasinhalalk | 9,863
 
@@ -26,25 +26,9 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,085 (100.0%) of 57,088 articles have been extended.
+57,085 (100.0%) of 57,087 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-27 (Wednesday)
-
-### உடனடியாக இந்த இலக்கங்களுக்கு அழையுங்கள்
-
-*2024-11-27 00:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-இந்த-இலக்கங்களுக்கு-அழையுங்கள்/175-347826) · `ta`
-
-நாட்டில் ஏற்பட்டுள்ள அவசர நிலைமைகள் தொடர்பில் அறிக்கையிடுவதற்கும் தேவையான ஒருங்கிணைப்பு நடவடிக்கைகளை முன்னெடுப்பதற்கும் 24 மணிநேரமும் செயற்படும் வகையில் பொலிஸ் தலைமையகத்தில் விசேட செயற்பாட்டு பிரிவொன்று ஸ்தாபிக்கப்பட்டுள்ளது.
-
-சீரற்ற காலநிலையால் பாதிக்கப்பட்டுள்ள மக்களின் அவசரகால சூழ்நிலைகள், இடப்பெயர்வுகள் மற்றும் உதவிகள் தொடர்பில் பொலிஸ் தலைமையகத்திற்கு அறிவிக்குமாறு பொலிஸார் பொதுமக்களை கேட்டுக்கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/3a5aa120.json)
-
----
 
 ### 2024-11-26 (Tuesday)
 
@@ -2469,5 +2453,23 @@ Meanwhile, Delhi Cesitals team purchased the Dammane Chameera to a sum of Rs.
 [Data](articles/015bd513.json)
 
 [Extended Data](ext_articles/015bd513.ext.json)
+
+---
+
+### Deputy Minister reveals procedure for importing vehicles
+
+*2024-11-26 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103779/deputy-minister-reveals-procedure-for-importing-vehicles-) · `en`
+
+Deputy Minister of Economic Development Prof. Anil Jayantha Fernando clarified the procedure for importing vehicles in the future, emphasizing the role of foreign reserve limitations in the process.
+
+Speaking at the Cabinet press briefing, the deputy minister outlined that vehicle imports will be allowed under several specific categories, particularly for commercial vehicles. These imports will be regulated within the framework of foreign exchange restrictions, with due consideration of the country’s reserve levels.
+
+He further elaborated, stating, “The current foreign reserves, which have reached a substantial USD 6.4 billion, have been carefully accounted for, and additional Reserve Buffer have been established by the Central Bank of Sri Lanka (CBSL). Vehicle importation will proceed in phases, prioritizing essential categories and adhering to these limitations.”
+
+...
+
+[Data](articles/8aed9e93.json)
+
+[Extended Data](ext_articles/8aed9e93.ext.json)
 
 ---

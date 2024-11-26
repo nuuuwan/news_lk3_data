@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 04:14:46**
+As of **2024-11-27 04:26:08**
 
 ## Newspaper Stats
 
-*Scraped **57,097** Articles*
+*Scraped **57,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 579
 bbccomsinhala | 594
 islandlk | 3,424
 economynextcom | 3,463
-dailyftlk | 3,917
+dailyftlk | 3,918
 dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,097 (100.0%) of 57,097 articles have been extended.
+57,097 (100.0%) of 57,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### President to make first official visit to India in December
+
+*2024-11-27 04:08:01* · [`dailyftlk`](https://www.ft.lk/news/President-to-make-first-official-visit-to-India-in-December/56-769719) · `en`
+
+President Anura Kumara Dissanayake will undertake his inaugural overseas visit to India in the third week of December, following an invitation from the Indian Government.
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa confirmed the visit during the post-Cabinet meeting media briefing held yesterday.
+
+“The dates are not yet fixed, but it will be in the last week of December,” he added.
+
+The Cabinet Spokesman also disclosed that the Chinese Embassy in Sri Lanka has also invited President to visit China. However, details regarding timeline for this visit have yet be finalised, he said.
+
+◼️
+
+[Data](articles/e74c8ca6.json)
+
+---
 
 ### Vavuniya Omanthai Wavelakalupottagulam risk
 
@@ -2485,35 +2503,5 @@ Heavy rains can occur in the rest of the island.
 [Data](articles/0e72a733.json)
 
 [Extended Data](ext_articles/0e72a733.ext.json)
-
----
-
-### There is no room for celebrating banned organizations - Cabinet spokesman
-
-*2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203759) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: No celebration allowed for banned LTTE. Government stance: Respect mourning relatives, but no promotion of terrorist groups. Police will act against illegal commemorations.
-
-🟩
-
-Cabinet Spokesperson Dr. Nalinda Jayatissa stressed that there is no room for the promotion of the LTTE, a banned organization.
-
-Minister of Cabinet spokesman, Minister Dr. Nalinda Jayatissa made these comments addressing the issues raised by journalists regarding the celebrations of journalists.
-
-"Terrorist organizations, organizing, organize, organize, organize, organize, organize, relevant logo, Tigers, banners and symbols have been displayed. That is what we are working. "
-
-"Therefore, terrorist organizations have no right to commemorate the celebrations of banned organizations."
-
-"But if their dead relatives celebrate, personally.. The government has no right to interfere. We have been very clear.. While we respect the right to celebrate relatives, and there is no opportunity for another kind of illegal activities. "
-
-...
-
-[Data](articles/cc5545d2.json)
-
-[Extended Data](ext_articles/cc5545d2.ext.json)
 
 ---

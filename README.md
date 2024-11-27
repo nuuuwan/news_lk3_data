@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 14:42:15**
+As of **2024-11-27 15:00:57**
 
 ## Newspaper Stats
 
-*Scraped **57,209** Articles*
+*Scraped **57,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,431
 economynextcom | 3,472
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,393
+adalk | 5,394
 adaderanalk | 6,927
-tamilmirrorlk | 8,137
+tamilmirrorlk | 8,138
 virakesarilk | 9,320
 adaderanasinhalalk | 9,878
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,878
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,187 (100.0%) of 57,209 articles have been extended.
+57,187 (100.0%) of 57,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### பல பகுதிகளுக்கு சிவப்பு அபாய எச்சரிக்கை
+
+*2024-11-27 14:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-சிவப்பு-அபாய-எச்சரிக்கை/175-347869) · `ta`
+
+தொடர்ந்து பெய்து வரும் கடும் மழை காரணமாக மூன்று மாவட்டங்களின் பல பகுதிகளுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் டி.ஐ.ஜி நிஹால் தல்துவ புதன்கிழமை (27) தெரிவித்தார்.
+
+மேலும், சிவப்பு அறிவிப்புகள் விடுக்கப்பட்டுள்ளதாகவும், அப்பகுதி மக்கள் உடனடியாக அந்த இடங்களை விட்டு வெளியேறுமாறும் அறிவிக்கப்பட்டுள்ளதாகவும் தெரிவித்தார்.
+
+இதன்படி, கண்டி மாவட்டத்தில் ஹரிஸ்பத்துவ, மெததும்பர, கங்கபட கோரலய, உடுதும்பர, யட்டிநுவர,   பாத ஹேவாஹட, தெல்தோட்டை, பாததும்பர, வில்கமுவ, அம்பகமுவ, அம்பகமுவ கோறளை, இரத்தோட்டை, நாவுல, உள்ளிட்ட பகுதிகளுக்கே இவ்வாறு சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அந்தப் பிரதேச மக்கள் விரைவில் அந்த இடங்களை விட்டு வெளியேறுவது முக்கியம் எனவும், அவர்களை வெளியேற்றுவதற்கு அனர்த்த முகாமைத்துவ நிலையம், பொலிஸ், இராணுவம் மற்றும் பிராந்திய அலுவலகங்களின் அதிகாரிகள் ஒருங்கிணைக்கப்பட்டுள்ளதாகவும் பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c0bb4ea7.json)
+
+---
 
 ### உழவு இயந்திரம் மீட்பு:   நால்வர் மாயம்
 
@@ -97,6 +115,22 @@ Israeli Lebanon officials have warned that some people show their hands as a vic
 [Data](articles/2c849aff.json)
 
 [Extended Data](ext_articles/2c849aff.ext.json)
+
+---
+
+### හිටපු කැබිනට් අමාත්‍යවරුන් කිහිප දෙනෙක් සි.අයි.ඩී.ය හමුවට පැමිණෙයි
+
+*2024-11-27 14:01:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-කැබිනට්-අමාත්‍යවරුන්-කිහිප-දෙනෙක්-සි-අයි-ඩී-ය-හමුවට-පැමිණෙයි/11-413307) · `si`
+
+ප්‍රමිතියෙන් තොර එන්නත් ගෙන්වීමේ සිද්ධියට අදාළව පසුගිය රජයේ කැබිනට් අමාත්‍යවරුන් කිහිප දෙනෙකු අද (27දා) ​අපරාධ පරීක්ෂන දෙපාර්තමේන්තුව හමුවේ පෙනී සිට තිබේ.
+
+මෙම එන්නත් ගෙන්වීමට අනුමැතිය ලබා දුන් කැබිනට් අමාත්‍යවරුන්ගෙන් ප්‍රකාශ සටහන් කර ගන්නා ලෙස අධිකරණය ලබා දුන් නියෝගයකට අනුව මෙලෙස හිටපු අමාත්‍යවරුන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා තිබිණි.
+
+ඒ අනුව අද දිනයේදි  විජයදාස රාජපක්ෂ, නලීන් ප්‍රනාන්දු, විදුර වික්‍රමනායක සහ නසීර් අහමඩ් යන හිටපු අමාත්‍යවරුන් මෙලෙස අපරාධ පරීක්ෂන දෙපාර්තමේන්තුවට පැමිණ ඇත.
+
+◼️
+
+[Data](articles/1257c9db.json)
 
 ---
 
@@ -750,7 +784,7 @@ In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 
 
 ---
 
-### Sri Lanka bonds yield  fall, rupee at 291.15/20 to dollar
+### Sri Lanka bond yield  falls after rate cut, rupee at 291.15/20 to dollar
 
 *2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-yield-fall-rupee-at-291-15-20-to-dollar-190205/) · `en`
 
@@ -2201,43 +2235,5 @@ The outlooks of two special purpose vehicles linked to Adani Green Energy Limite
 ...
 
 [Data](articles/5f2ec27a.json)
-
----
-
-### One dead, over 70,000 affected due to heavy rains
-
-*2024-11-27 05:22:55* · [`dailyftlk`](https://www.ft.lk/news/One-dead-over-70-000-affected-due-to-heavy-rains/56-769720) · `en`
-
-Due to the heavy rainfall across the country, 77,670 persons belonging to 22,532 families have been affected, with one death reported, the Disaster Management Centre (DMC) said yesterday.
-
-DMC Media and Public Relations Assistant Director Janaka Handunpathiraja, stated that these individuals and families have been impacted in 103 Divisional Secretariat Divisions across 15 Districts.
-
-Five injuries have been reported. Six houses were completely damaged and 265 houses partially damaged.
-
-As a result of the disaster 2,770 persons from 821 families have been relocated to 35 safe locations, he added.
-
-◼️
-
-[Data](articles/fa336e99.json)
-
----
-
-### President to make first official visit to India in December
-
-*2024-11-27 04:08:01* · [`dailyftlk`](https://www.ft.lk/news/President-to-make-first-official-visit-to-India-in-December/56-769719) · `en`
-
-President Anura Kumara Dissanayake will undertake his inaugural overseas visit to India in the third week of December, following an invitation from the Indian Government.
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa confirmed the visit during the post-Cabinet meeting media briefing held yesterday.
-
-“The dates are not yet fixed, but it will be in the last week of December,” he added.
-
-The Cabinet Spokesman also disclosed that the Chinese Embassy in Sri Lanka has also invited President to visit China. However, details regarding timeline for this visit have yet be finalised, he said.
-
-◼️
-
-[Data](articles/e74c8ca6.json)
-
-[Extended Data](ext_articles/e74c8ca6.ext.json)
 
 ---

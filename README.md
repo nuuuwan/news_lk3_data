@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 23:13:43**
+As of **2024-11-27 23:42:39**
 
 ## Newspaper Stats
 
-*Scraped **57,282** Articles*
+*Scraped **57,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
-economynextcom | 3,478
+economynextcom | 3,486
 dailyftlk | 3,939
 dailymirrorlk | 4,733
 adalk | 5,407
-adaderanalk | 6,935
+adaderanalk | 6,936
 tamilmirrorlk | 8,148
-virakesarilk | 9,335
+virakesarilk | 9,338
 adaderanasinhalalk | 9,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,280 (100.0%) of 57,282 articles have been extended.
+57,284 (100.0%) of 57,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### 8752 persons belonging to 2942 families in Trincomalee district
+
+*2024-11-27 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199887) · `ta`
+
+Trincomalee district: 8752 affected, 329 in shelters, 3173 in relatives' homes. 24 houses partially damaged. Displaced across various divisions.
+
+🟩
+
+In the Trincomalee district, 8752 persons from 2942 families have been affected and 329 from 131 families have been housed in security centers.
+
+According to statistics received at 05.00 pm on Wednesday (27) due to heavy rains in Trincomalee district. 329 persons from 131 families have been placed in security centers. 3173 from 882 families stay in relative homes. The Deputy Director of the Trincomalee District Disaster Management Center, Kukadas Sukunadas, said that 24 houses have been partially damaged.
+
+...
+
+[Data](articles/b75146e4.json)
+
+[Extended Data](ext_articles/b75146e4.ext.json)
+
+---
+
+### Ampara tractor accident: Body of another missing boy found
+
+*2024-11-27 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103822/ampara-tractor-accident-body-of-another-missing-boy-found) · `en`
+
+The body of another student out of the six who went missing after the tractor they were traveling on toppled and was swept away by floodwaters at Karaitivu in Ampara District last evening (26), has been discovered.
+
+Accordingly, the bodies of four students have been recovered thus far while search operations are continuing for the two other missing students as well as the tractor’s driver and his assistant.
+
+The incident occurred last evening when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents while passing through flood waters.
+
+Police had confirmed that 05 children had been rescued while the rest were reported missing.
+
+The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
+
+...
+
+[Data](articles/ddae7b2f.json)
+
+[Extended Data](ext_articles/ddae7b2f.ext.json)
+
+---
 
 ### New Secretaries appointed to Environment, Science and Technology Ministries
 
@@ -47,6 +89,92 @@ As per the appointments, Mr. K.R. Uduwawala will serve as the Secretary to the M
 [Data](articles/656928e4.json)
 
 [Extended Data](ext_articles/656928e4.ext.json)
+
+---
+
+### International Monetary Fund expects high participation of credit providers for Sri Lanka's debt restructuring process
+
+*2024-11-27 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199886) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+IMF emphasizes high credit provider participation for Sri Lanka's debt restructuring. Director Crystalina Georgia highlights importance of economic reconstruction program and debt stability. IMF granted $3 billion credit facility in March 2023. Third review agreement signed with Sri Lankan authorities. High lender contribution crucial for swift debt restructuring process.
+
+🟩
+
+The International Monetary Fund (IMF) has emphasized the mandatory requirement of the high participation of credit providers for the Sri Lankan Debt Reorganization initiatives, which has pointed out that it is necessary to ensure the success of the economic reconstruction program in the country.
+
+Speaking among members of the financial community on November 26, the Director of the International Monetary Fund (IMF), Crystalina Georgia, issued a joint effort to ensure Sri Lanka's progress and sustainable debt stability, cooperating with the International Monetary Fund.
+
+The purpose of the program is to implement the economic restructuring program with the help of the International Monetary Fund with the help of the International Monetary Fund, to bring out debt stability and external possibilities, to help with widespread economic reorganization and strengthen economic administration and vulgarity.
+
+...
+
+[Data](articles/656ca1d4.json)
+
+[Extended Data](ext_articles/656ca1d4.ext.json)
+
+---
+
+### Australia applauds the bribery and corrupt program of the new government
+
+*2024-11-27 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199885) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Australia supports Sri Lanka's new government's bribery and corruption programs, attracting investors. The High Commissioner plans to assist in establishing a nationwide system. Both countries strengthen ties, discussing areas like national security and digitalization.
+
+🟩
+
+Paul Stewns, the Australian High Commissioner to Sri Lanka, said the bribery and corrupt program of the new government had attracted investors.
+
+The Australian High Commissioner said he was preparing to support the government's program to establish a bribery and corrupt mechanism nationwide.
+
+The President of the President of the President of the President of the President of the President of Sri Lanka, Paul Stephens met with the President of the President at the Presidential Secretariat at the Presidential Secretariat.
+
+The High Commissioner said that the 75 -year ties between Australia and Sri Lanka are strengthening and the closure of the close ties between the two countries is expected to be further strengthened.
+
+It was also discussed on Australia's technical assistance in the sectors including national security, maritime affairs, digitalization, public sector modernization, vocational education and strength.
+
+...
+
+[Data](articles/4960cea0.json)
+
+[Extended Data](ext_articles/4960cea0.ext.json)
+
+---
+
+### Heroes Day in the North and East was remembered amidst the most sensitive pouring rain!
+
+*2024-11-27 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199882) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Heroes Day commemorated in North and East despite heavy rain. Emotional gatherings at Mullivaikkal house, Tuilumilla campus, Jaffna Heroes House, Vavuniya Municipal Hall, Kilinochchi Equality Party office. Floral tributes and torch lighting ceremonies honored fallen heroes and their families.
+
+🟩
+
+Despite the inclement weather across the country, the pouring rain has taken place in the midst of pouring rain.
+
+Heroes Day is celebrated annually in the Northern and Eastern Provinces of Northern and Eastern Provinces. This year, the day of the Heroes' Day was observed from November 21st to 27th of November.
+
+The parents of the heroes, relatives, ex -combatants and civilians at the Mullivaikkal house, gathered emotionally in the midst of pouring rain and paid tribute to those who sacrificed their lives.
+
+In the Mullivaikkal Tuilumilla campus, the bell was raised at 6.05 pm, and the other flame was carried out by the parents and relatives of Vallipuram Pushpamalar, the mother of the chief public flame hero.
+
+Following the Tuilumilla song broadcast. During this time, the parents, relatives and attendees of the heroes recalled the tears of tears, and a large number of civilians participated in the event.
+
+...
+
+[Data](articles/eef2b8c4.json)
+
+[Extended Data](ext_articles/eef2b8c4.ext.json)
 
 ---
 
@@ -138,33 +266,25 @@ If you see those who lend us in 2028, they will not be able to pay in 2028, they
 
 ---
 
-### Heroes Day in the North and East was remembered amidst the most sensitive pouring rain!
+### Sri Lanka to grow 4.5 -5.0 pct in 2024, 3.0-pct plus in 2025: CB Governor
 
-*2024-11-27 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/199882) · `ta`
+*2024-11-27 20:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-grow-4-5-5-0-pct-in-2024-3-0-pct-plus-in-2025-cb-governor-190391/) · `en`
 
-Here's a summary of 200 characters:
+ECONOMYNEXT – Sri Lanka is expected to grow 4.5 to 5.0 percent in 2024, Central Bank Governor Nandalal Weerasinghe said, while 2025 will see an expansion ‘well above’ 3.0 percent.
 
+Sri Lanka is recovering from a currency crisis and default, but since 2022 the central bank has provided monetary stability, appreciated the currency, and helped bring down prices with deflationary policy.
 
+It was still too early to make a firm projection for 2025, Governor Weerasinghe said.
 
-Heroes Day commemorated in North and East despite heavy rain. Emotional gatherings at Mullivaikkal house, Tuilumilla campus, Jaffna Heroes House, Vavuniya Municipal Hall, Kilinochchi Equality Party office. Floral tributes and torch lighting ceremonies honored fallen heroes and their families.
+“We will wait and see for the Q3 and Q4 and then we will announce our projection for next year,” he told reporters Wednesday.
 
-🟩
+“We can say the baseline will be 3.0 percent. We can confidently say the economy will grow well above 3.0 percent.”
 
-Despite the inclement weather across the country, the pouring rain has taken place in the midst of pouring rain.
-
-Heroes Day is celebrated annually in the Northern and Eastern Provinces of Northern and Eastern Provinces. This year, the day of the Heroes' Day was observed from November 21st to 27th of November.
-
-The parents of the heroes, relatives, ex -combatants and civilians at the Mullivaikkal house, gathered emotionally in the midst of pouring rain and paid tribute to those who sacrificed their lives.
-
-In the Mullivaikkal Tuilumilla campus, the bell was raised at 6.05 pm, and the other flame was carried out by the parents and relatives of Vallipuram Pushpamalar, the mother of the chief public flame hero.
-
-Following the Tuilumilla song broadcast. During this time, the parents, relatives and attendees of the heroes recalled the tears of tears, and a large number of civilians participated in the event.
+On Wednesday the central bank cut its standing deposit facility to 7.5 percent from 8.25 percent, which sets a floor on short term rates when there is a balance of payments surplus.
 
 ...
 
-[Data](articles/eef2b8c4.json)
-
-[Extended Data](ext_articles/eef2b8c4.ext.json)
+[Data](articles/13cabb1e.json)
 
 ---
 
@@ -588,6 +708,24 @@ The education secretary said that schooling is scheduled to commence on the exis
 
 ---
 
+### Takashi Nakabe steps down as Colombo Dockyard chairman
+
+*2024-11-27 18:05:00* · [`economynextcom`](https://economynext.com/takashi-nakabe-steps-down-as-colombo-dockyard-chairman-190245/) · `en`
+
+ECONOMYNEXT – Colombo Dockyard chairman Takashi Nakabe has resigned from his post, but will remain on the board as non-executive director, the company said.
+
+Nakabe is also the president of the Onomichi Dockyard, Japan.
+
+He was appointed as chairman of Colombo Dockyard in July this year.
+
+His resignation is effective from November 25 the company said in a stock exchange filing.
+
+◼️
+
+[Data](articles/f0ad1841.json)
+
+---
+
 ### A cyclone in the next six hours close to the East Coast
 
 *2024-11-27 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203809) · `si`
@@ -665,6 +803,26 @@ It is also worth noting that sports equipment, seats and floral gardens maintain
 [Data](articles/9a820bfa.json)
 
 [Extended Data](ext_articles/9a820bfa.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 291.00/10 to dollar, bonds down
+
+*2024-11-27 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-00-10-to-dollar-bonds-down-190354/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.00/10 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields were significantly down.
+
+A bond maturing on 15.12.2026 closed down at 9.50/65 percent, from 10.00/15 percent.
+
+A bond maturing on 15.09.2027 closed at 10.25/35 percent, down from 10.65/75 percent.
+
+A bond maturing on 15.09.2029 closed at 10.80/90 percent, down from 11.20/40 percent.
+
+The central bank announced it will issue 205 billion rupees in treasury bonds at an auction on November 28. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/e8ecfbcf.json)
 
 ---
 
@@ -1420,6 +1578,26 @@ At the Ministry level, the Secretary General of Irrigation, the Director General
 
 ---
 
+### Sri Lanka sees 7,958 new active credit cards in September 2024
+
+*2024-11-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-7958-new-active-credit-cards-in-september-2024-190311/) · `en`
+
+ECONOMYNEXT – New active credit cards in Sri Lanka increased by 7,958 in September this year, the central bank data showed, with local banks promoting along with the key fast moving consumer goods (FMCG) vendors amid falling interest rates.
+
+The number of active credit card recorded 1,936,336 by end September, compared to 1,028,378 in August this year, showing an increase of 7,958.
+
+“Most banks have been aggressively pushing for credit cards in September in the falling interest rate regime. This is why you can see many offers for credit cards in populour FMCG outlets,” a currency dealer said
+
+The number of active credit cards has risen 1 percent or 19,251 in the first nine months from 1,917,085 by the end of last year, the official data showed.
+
+Analysts said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than last year.
+
+...
+
+[Data](articles/6d35f471.json)
+
+---
+
 ### Muslim schools closed
 
 *2024-11-27 15:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முஸ்லிம்-பாடசாலைகள்-மூடப்பட்டன/76-347875) · `ta`
@@ -1439,6 +1617,30 @@ The Ministry of Education of the Central Province has announced that all Muslim 
 [Data](articles/a4cd465d.json)
 
 [Extended Data](ext_articles/a4cd465d.ext.json)
+
+---
+
+### Sri Lanka stocks close up driven by interest in banking stocks
+
+*2024-11-27 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-interest-in-banking-stocks-153832/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI closed up 0.66 percent, or 85.80 points, at 13,049; while the more liquid S&P SL20 Index closed up 0.85 percent, or 32.49 points, at 3,876.
+
+Top positive contributors to the ASPI were Sampath Bank (up at 95.30), Hatton National Bank (up at 230.00), Richard Pieris and Co (up at 25.20), Dipped Products (up at 44.00), and DFCC Bank (up at 87.60).
+
+Commercial Bank was up at 122.00), and National Development Bank was up at 83.30.
+
+NDB said its debenture issue to raise 5 billion rupees was oversubscribed.
+
+Softlogic Life Insurance announced a cash dividend of 4.5 rupees a share.
+
+There was a net foreign inflow of 95 million rupees. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/7ed09542.json)
 
 ---
 
@@ -1485,6 +1687,28 @@ All three maturities were offered on tap after the the auction. (Colombo/Nov27/2
 [Data](articles/56737b37.json)
 
 [Extended Data](ext_articles/56737b37.ext.json)
+
+---
+
+### Sri Lanka treasuries yields plunge across maturities, 12-month down 70bp
+
+*2024-11-27 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-plunge-across-maturities-12-month-down-70bp-190293/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 125 billion rupees of bills sold, data from the debt office showed after a external debt exchange was announced and a rate cut.
+
+The central bank cut its policy rate to 8.0 percent from an earlier 8.25 to 9.25 percent corridor.
+
+The 3-month yield was down 57 basis points at 8.73 percent, with all offered 45 billion rupees of bills sold.
+
+The 6-month yield was down 63 basis points at 8.97 percent, with all offered 45 billion rupees of bills sold.
+
+The 12-month bill yield was down 70 basis points at 9.08 percent, with all offered and 35 billion rupees of bills sold.
+
+All three maturities were offered on tap after the the auction. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/8dd97305.json)
 
 ---
 
@@ -1745,6 +1969,28 @@ Sri Lanka has already seen heavy rain over the past 24 hours.
 [Data](articles/54cbbf61.json)
 
 [Extended Data](ext_articles/54cbbf61.ext.json)
+
+---
+
+### Cyclone threat as depression moves East of Sri Lanka to India
+
+*2024-11-27 14:53:00* · [`economynextcom`](https://economynext.com/cyclone-threat-as-depression-moves-east-of-sri-lanka-to-india-190252/) · `en`
+
+ECONOMYNEXT- A deep depression off the Eastern coast of Sri Lanka could develop in to a cyclone with up to 150 millimeters of rain and strong winds the Department of Meteorology said.
+
+“It is likely to move closer to the east coast of Sri Lanka and intensify further into a cyclonic storm during next 12 hours,” a weather warning issued near mid-day said.
+
+“Showers or thundershowers will occur at times in Northern, North-central, Central, western and North-western provinces and in Trincomalee, Batticaloa and Kegalle districts,”
+
+“Very heavy showers above 150 mm are likely at some places.”
+
+The weather system is likely to move north and hit the Eastern coast of India, the Indian Met Dept said.
+
+Sri Lanka has already seen heavy rain over the past 24 hours.
+
+◼️
+
+[Data](articles/71f8a3fb.json)
 
 ---
 
@@ -2194,6 +2440,26 @@ Sri Lanka’s economy has been recovering and the economy is growing around 4.5 
 
 ---
 
+### Sri Lanka deflation not harmful, economy growing: CB Governor
+
+*2024-11-27 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-not-harmful-economy-growing-cb-governor-190234/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current deflation is not harmful to the economy and is a correction from previous very high inflation, Central Bank Governor Nandalal Weerasinghe said.
+
+The deflation is reducing the cost of living for the people and also the cost of production of companies, he said.
+
+“It comes after very high inflation,” Governor Weerasinghe told reporters Wednesday after reducing its policy rate to 8.0 percent from an earlier corridor of 9.25 to 8.25 percent.
+
+Sri Lanka’s deflation is expected to continue in the near term, he said.
+
+Sri Lanka’s economy has been recovering and the economy is growing around 4.5 percent amid the price falls, Governor Weerasinghe said. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/bfb6edff.json)
+
+---
+
 ### Ampara tractor incident: Body of one of six missing students found
 
 *2024-11-27 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103810/ampara-tractor-incident-body-of-one-of-six-missing-students-found-) · `en`
@@ -2311,281 +2577,5 @@ Meanwhile, there is a possibility of increasing the spill discharge of the Rajan
 [Data](articles/a4507d59.json)
 
 [Extended Data](ext_articles/a4507d59.ext.json)
-
----
-
-### LankaPay bags Best Public-Private Partnership Award at ASOCIO 2024 Awards in Japan
-
-*2024-11-27 12:19:00* · [`islandlk`](http://island.lk/lankapay-bags-best-public-private-partnership-award-at-asocio-2024-awards-in-japan/) · `en`
-
-LankaPay, Sri Lanka’s national payment network, was honoured with the Best Public-Private Partnership Award at the prestigious ASOCIO 2024 Awards, held on November 7, 2024. This was an important agenda item of the ASOCIO Digital Summit 2024 held in Tokyo, Japan. This recognition highlights the success of LankaPay’s unique business model and the importance of collaborating with both government and private sector entities to advance Sri Lanka’s digital financial ecosystem to drive the nation towards a digitally enabled economy.
-
-...
-
-[Data](articles/97d689dd.json)
-
-[Extended Data](ext_articles/97d689dd.ext.json)
-
----
-
-### The holidays of the engineers in charge of the reservoir and technical officers will be canceled
-
-*2024-11-27 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203794) · `si`
-
-Engineers & technical officers' holidays canceled due to reservoir management. Ministry of Agriculture orders them to stay at work sites. Existing leaves invalidated.
-
-🟩
-
-The Ministry of Agriculture, Livestock and Evidence has issued an announcement in announcing the engineers of the Department of Irrigation and Technical Officers in the event.
-
-Accordingly, the engineers in charge of the Department of Impaired and the Mahaweli Authority should remain in their workplaces.
-
-The holiday of such officers who are on leave according to that announcement is invalid
-
-◼️
-
-[Data](articles/af4cb2c6.json)
-
-[Extended Data](ext_articles/af4cb2c6.ext.json)
-
----
-
-### The bodies of two madrasa students are recovered
-
-*2024-11-27 12:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்ரஸா-மாணவர்கள்-இருவரின்-சடலங்கள்-மீட்பு/175-347856) · `ta`
-
-Two madrasa students' bodies found after drowning in floods. Army's STF involved in rescue efforts; flooded plowing machine recovered.
-
-🟩
-
-The bodies of the two men have been recovered as the madrassa students who have been drowned in flood water are underway.
-
-In addition, the Army's Special Task Force (STF) has been involved in the hearing and the flooded plowing machine has been recovered.
-
-◼️
-
-[Data](articles/dc5e7056.json)
-
-[Extended Data](ext_articles/dc5e7056.ext.json)
-
----
-
-### Two killed in bad weather - 07 disappeared
-
-*2024-11-27 12:04:32* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණයෙන්-දෙදෙනෙකු-මරුට---07-දෙනෙකු-අතුරුදන්/11-413306) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Bad weather claims 2 lives; 7 missing. DIG Nihal Talduwa reports at Colombo media briefing. Injuries also reported due to severe weather conditions.
-
-🟩
-
-The DIG's DIG's DIG's DIG's Court, Nihal Talduuwa said that two deaths were reported in bad weather conditions.
-
-He was speaking at a media briefing held in Colombo today (27).
-
-"There is information that two people have died. There are injured. There are disappearances 07. "
-
-◼️
-
-[Data](articles/f086730b.json)
-
-[Extended Data](ext_articles/f086730b.ext.json)
-
----
-
-### 34 institutions to be divided into the ministries: 94 institutions
-
-*2024-11-27 11:56:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5yrnj1rz39o) · `si`
-
-N
-
-🟩
-
-After appointing new ministers, the President published the subjects and functions of the Ministries.
-
-President Anura Kumara Dissanayake has been appointed as the subject, action, departments, statutory and corporations, which belong to each Minister on November 25th.
-
-President Anura Kumara Dissanayake has held 94 institutions under three ministries, which is the highest number of institutions under one of the new government.
-
-Thereafter, the majority of institutions have been companies, Health and Mass Media is 41 institutions under him.
-
-There are 34 institutions that have been given to the Industry and Entrepreneurship Development Sunil Handunnetti.
-
-Minister Samantha Vidyaratne and KD. 29 institutions have been provided with 29 institutions under the Ministries of Ministers Lal Kantha.
-
-The number of institutions that have been assigned to Minister Harinini Amarasuriya, Minister of Ministers and the Minister of Ministers has been entrusted with the Minister of Police.
-
-...
-
-[Data](articles/3fa28e54.json)
-
-[Extended Data](ext_articles/3fa28e54.ext.json)
-
----
-
-### A -9 Street is paralyzed
-
-*2024-11-27 11:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதி-முடங்கியது/175-347854) · `ta`
-
-A-9 Street paralyzed due to flooding in Vavuniya, affecting Nochimottai and Santasoli areas. Heavy rainfall caused waterlogging on the main road.
-
-🟩
-
-In Vavuniya, Nochimottai and Santasoli, the A-9 main road was flooded by heavy flooding.
-
-◼️
-
-[Data](articles/75d6f588.json)
-
-[Extended Data](ext_articles/75d6f588.ext.json)
-
----
-
-### A -9 Street Mutdated
-
-*2024-11-27 11:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதி-முடக்கியது/175-347854) · `ta`
-
-Heavy flooding caused A-9 main road to be impassable in Vavuniya, Nochimottai, and Santasoli areas.
-
-🟩
-
-In Vavuniya, Nochimottai and Santasoli, the A-9 main road was flooded by heavy flooding.
-
-◼️
-
-[Data](articles/ce11fdec.json)
-
-[Extended Data](ext_articles/ce11fdec.ext.json)
-
----
-
-### New case on Arjuna Aloysius
-
-*2024-11-27 11:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜுன-அலோசியஸ்-மீது-புதிய-வழக்கு/175-347853) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Arjuna Aloysius, director of WM Mentens, faces lawsuit over alleged Rs. 12 million fraud while serving 6-month tax evasion sentence. Case filed by Neptune Papers against him and Saminda Sahan.
-
-🟩
-
-Arjuna Aloysius, Director of the WM Mentens and Company, who is serving a 6 -month prison sentence on tax evasion, has been sued by the Colombo Magistrate's Court for allegedly defrauding Rs. 12 million.
-
-Arjuna Aloysius and Saminda Sahan have been referred to as defendants in the case filed by Neptune Papers Private Limited, which imports and distributes paper for printing newspapers.
-
-◼️
-
-[Data](articles/785732e0.json)
-
-[Extended Data](ext_articles/785732e0.ext.json)
-
----
-
-### Mabbutha Tragedy - A missing student found
-
-*2024-11-27 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203793) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Missing student found after tractor accident in Ampara. Body recovered among students from Kabbala. Incident occurred near Bridge yesterday evening. 11 children, driver, and another person were traveling. One body identified today.
-
-🟩
-
-The body of the missing student was found among the students from the tractor in Kabbala, Ampara yesterday.
-
-A tractor from Nindavur to the Samavur yesterday evening had fallen near the Bridge near the Bridge.
-
-11 children, the driver and another was traveling and another was rescued by the people who were near the water.
-
-One of the body of one who disappeared today, the body of a child has been recovered today.
-
-◼️
-
-[Data](articles/32715125.json)
-
-[Extended Data](ext_articles/32715125.ext.json)
-
----
-
-### Sri Lanka - South Africa Test match today
-
-*2024-11-27 11:32:12* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගය-අද/9-413305) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka vs South Africa Test match begins today (27). Crucial for Sri Lanka to qualify for ICC World Test Championship finals.
-
-🟩
-
-The first Test match between the Tourism Sri Lanka and South Africa will commence today (27).
-
-The Sri Lankan team will be a crucial match to qualify for the finals of the ICC World Test Championship.
-
-◼️
-
-[Data](articles/f4feb71b.json)
-
-[Extended Data](ext_articles/f4feb71b.ext.json)
-
----
-
-### Sign out of these areas - a notice from police
-
-*2024-11-27 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203792) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police issue landslide warnings for 3 districts due to heavy rain. Residents advised to evacuate immediately. Red alerts for Harispattuwa, Medadumbara, and surrounding areas. Special phone number 107 for Tamil speakers to report weather conditions.
-
-🟩
-
-The landslide landslide has been issued to several places in 3 districts due to the inclement weather.
-
-Addressing a media briefing held in a media briefing this morning (27), police spokesman, Nihal Thaluda said that the people of the areas should immediately quit their own lives.
-
-"Showers in the central mountainous area. Showers to the east and western slopes of the central hills. Therefore, red announcements have been issued to resign from Harispattuwa, Medadumbara, Gangawara, Doluwa, Yawadumba, Udawalaha, Patintota, Patintota, Patintota, Pathatota, Pathela, Pathadula, Pathetawa and Pathaduwa, Pathela, Pathadula, Pathadula, Pathadula, Pathadula, Pathadula, Pathela, Pathadula.. Because there is mountain landslides in a way.
-
-...
-
-[Data](articles/6e980d8e.json)
-
-[Extended Data](ext_articles/6e980d8e.ext.json)
-
----
-
-### Train services impacted due to adverse weather
-
-*2024-11-27 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103807/train-services-impacted-due-to-adverse-weather) · `en`
-
-The trains operating along the up-country and Batticaloa railway lines have been limited due to the prevailing adverse weather conditions, the Railway Department said.
-
-The Railway Department stated that steps have been taken to limit the trains operating on the Batticaloa line up to Polonnaruwa.
-
-Similarly, trains operating on the Up-Country line have been limited up to Nanuoya.
-
-Meanwhile, a large mound of garbage has collapsed on the railway track near the Hatton Railway Station this morning (27).
-
-The engineer of the railway maintenance department of Hatton railway station said that a possible train accident that could have been caused by this was prevented due to the timely action of a railway guard.
-
-The railway guard had spotted it and informed the authorities, and halted a passenger train from Nanuoya to Colombo.
-
-The engineer said that the train later operated to Colombo after the debris that had fallen on the railway track was cleared.
-
-◼️
-
-[Data](articles/7ab9abc6.json)
-
-[Extended Data](ext_articles/7ab9abc6.ext.json)
 
 ---

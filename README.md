@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 21:01:02**
+As of **2024-11-27 21:14:02**
 
 ## Newspaper Stats
 
@@ -31,6 +31,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### Heroes Day in the North and East was remembered amidst the most sensitive pouring rain!
+
+*2024-11-27 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/199882) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Heroes Day commemorated in North and East despite heavy rain. Emotional gatherings at Mullivaikkal house, Tuilumilla campus, Jaffna Heroes House, Vavuniya Municipal Hall, Kilinochchi Equality Party office. Floral tributes and torch lighting ceremonies honored fallen heroes and their families.
+
+🟩
+
+Despite the inclement weather across the country, the pouring rain has taken place in the midst of pouring rain.
+
+Heroes Day is celebrated annually in the Northern and Eastern Provinces of Northern and Eastern Provinces. This year, the day of the Heroes' Day was observed from November 21st to 27th of November.
+
+The parents of the heroes, relatives, ex -combatants and civilians at the Mullivaikkal house, gathered emotionally in the midst of pouring rain and paid tribute to those who sacrificed their lives.
+
+In the Mullivaikkal Tuilumilla campus, the bell was raised at 6.05 pm, and the other flame was carried out by the parents and relatives of Vallipuram Pushpamalar, the mother of the chief public flame hero.
+
+Following the Tuilumilla song broadcast. During this time, the parents, relatives and attendees of the heroes recalled the tears of tears, and a large number of civilians participated in the event.
+
+...
+
+[Data](articles/eef2b8c4.json)
+
+[Extended Data](ext_articles/eef2b8c4.ext.json)
+
+---
 
 ### The first day of the first day of the rainfall ended with 20.4 overs;South Africa 80 - 4 wig. ;Sri Lankans in bowling
 
@@ -65,36 +95,6 @@ Mediators announced that the first day of the game would be ended at 3.00 pm as 
 [Data](articles/b2a6bf64.json)
 
 [Extended Data](ext_articles/b2a6bf64.ext.json)
-
----
-
-### Heroes Day in the North and East was remembered amidst the most sensitive pouring rain!
-
-*2024-11-27 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199882) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Heroes Day commemorated in North and East despite heavy rain. Emotional gatherings at Mullivaikkal house, Tuilumilla campus, Jaffna Heroes House, Vavuniya Municipal Hall, Kilinochchi Equality Party office. Floral tributes and torch lighting ceremonies honored fallen heroes and their families.
-
-🟩
-
-Despite the inclement weather across the country, the pouring rain has taken place in the midst of pouring rain.
-
-Heroes Day is celebrated annually in the Northern and Eastern Provinces of Northern and Eastern Provinces. This year, the day of the Heroes' Day was observed from November 21st to 27th of November.
-
-The parents of the heroes, relatives, ex -combatants and civilians at the Mullivaikkal house, gathered emotionally in the midst of pouring rain and paid tribute to those who sacrificed their lives.
-
-In the Mullivaikkal Tuilumilla campus, the bell was raised at 6.05 pm, and the other flame was carried out by the parents and relatives of Vallipuram Pushpamalar, the mother of the chief public flame hero.
-
-Following the Tuilumilla song broadcast. During this time, the parents, relatives and attendees of the heroes recalled the tears of tears, and a large number of civilians participated in the event.
-
-...
-
-[Data](articles/eef2b8c4.json)
-
-[Extended Data](ext_articles/eef2b8c4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 22:17:24**
+As of **2024-11-27 22:41:56**
 
 ## Newspaper Stats
 
-*Scraped **57,280** Articles*
+*Scraped **57,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,478
 dailyftlk | 3,939
 dailymirrorlk | 4,733
 adalk | 5,406
-adaderanalk | 6,934
+adaderanalk | 6,935
 tamilmirrorlk | 8,148
 virakesarilk | 9,335
 adaderanasinhalalk | 9,896
@@ -26,67 +26,115 @@ adaderanasinhalalk | 9,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,274 (100.0%) of 57,280 articles have been extended.
+57,280 (100.0%) of 57,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### නායයෑම් අනතුරු ඇඟවීම් යාවත්කාලීක කරයි
+### New Secretaries appointed to Environment, Science and Technology Ministries
+
+*2024-11-27 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103821/new-secretaries-appointed-to-environment-science-and-technology-ministries) · `en`
+
+President Anura Kumara Dissanayake has appointed new Secretaries to two key ministries, according to the President’s Media Division (PMD).
+
+The relevant appointment letters were handed over today (27) by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
+
+As per the appointments, Mr. K.R. Uduwawala will serve as the Secretary to the Ministry of Environment, and Mr. Y.L. Mohamed Nawawi will take on the role of Secretary to the Ministry of Science and Technology.
+
+◼️
+
+[Data](articles/656928e4.json)
+
+[Extended Data](ext_articles/656928e4.ext.json)
+
+---
+
+### Landslide warning updates
 
 *2024-11-27 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203816) · `si`
 
-දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මහනුවර, කෑගල්ල, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයකට නායයාම් අනතුරු ඇඟවීම් රතු නිවේදන නිකුත් කර තිබේ.
+Here's a summary of 200 characters:
 
-ඒ අනුව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් යාවත්කාලීන කරන ලද නවතම නිවේදනය අද (27) පස්වරු 7:00 සිට හෙට (28) පස්වරු 7:00 දක්වා වලංගු වෙයි.
+
+
+"Landslide warnings issued for Kandy, Kegalle, Matale & Nuwara Eliya districts due to adverse weather. NBRO notification valid from 7pm today to 7pm tomorrow."
+
+🟩
+
+The landslide warnings have been issued to several Divisional Secretariats in Kandy, Kegalle, Matale and Nuwara Eliya districts due to adverse weather conditions.
+
+The newly updated recent notification by the National Building Research Organization (NBRO) is valid from 7:00 pm to 7:00 pm tomorrow (28).
 
 ◼️
 
 [Data](articles/3ed5bb58.json)
 
+[Extended Data](ext_articles/3ed5bb58.ext.json)
+
 ---
 
-### අම්පාර ට්‍රැක්ටර් අනතුර - තවත් සිසුවෙකුගේ සිරුරක් සොයාගනී
+### Ampara Tractor Crash - Another student finds another student body
 
 *2024-11-27 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203815) · `si`
 
-අම්පාර, කාර්තිව් හිදී ට්‍රැක්ටර් රථයක් සැඩ පහරකට හසුවීමෙන් අතුරුදන්ව සිටි පාසල් සිසුන් හයදෙනාගෙන් තවත් සිසුවෙකුගේ සිරුරක් සොයාගෙන තිබේ.
+Here's a summary of 200 characters:
 
-කෙසේ වෙතත් අතුරුදන් අනෙක් සිසුන් දෙදෙනා, ට්‍රැක්ටර් රථයේ රියදුරා හා සහායකයා සොයා තවදුරටත් මෙහෙයුම් ක්‍රියාත්මකය.
 
-අම්පාර කාර්තිව් මාවඩිපල්ලි පාලම අසලදී සිසුන් පිරිසක් රැගත් ට්‍රැක්ටර් රථයක් සැඩ පහරකට හසුවී ගසාගෙන යෑමේ සිදුවීම වාර්තා වුණේ ඊයේ (26) පස්වරුවේය.
 
-එලෙස අනතුරට ලක්වුණේ නින්දවූර් මද්‍රසා පාසලේ සිසුන් පිරිසක් රැගත් ට්‍රැක්ටර් රථයකි.
+Ampara tractor crash: 11 students (ages 12-16) died when their school group was hit by a passing tractor. 5 survived. Driver and assistant missing.
 
-පැවති අයහපත් කාලගුණය හේතුවෙන් එම පාසලට නිවාඩු ලබාදී තිබූ අතර, ඒ වනවිටත් අම්පාර කල්මුණේ ප්‍රධාන මාර්ගය මෙන්ම දෙපස පිහිටි වෙල්යාය මාවඩිපල්ලි පාලම අසලින් වැසි ජලයෙන් යටවී තිබුණි.
+🟩
 
-මේ හේතුවෙන් සමන්තුරේ ප්‍රදේශයේ පදිංචි දරුවන්ට සිය නිවෙස් වෙත යෑමට නොහැකි වී තිබුණි.
+Another Six of school children who have been missing from the Handidater of the tractors in Mabetter were found dead by a tractor.
 
-එහිදී සිසුන් 11 දෙනෙකු සමන්තුරේ දෙසට ගමන්කරන ට්‍රැක්ටර් රථයකට ගොඩවී ඇති අතර, සිසුන් රැගත් ට්‍රැක්ටරය මාර්ගයේ ජලයෙන් යටවූ ස්ථානය හරහා ගමන් කරමින් තිබියදී එය අනපේක්ෂිත ලෙස සැඩපහරකට හසුවී පෙරළී ගොස් තිබුණි.
+However, the other two students disappear, the driver and assistant in the tractor car is further operating.
+
+A traitor carrying a group of students near the Mindimballi Bridge in Ampara was reported yesterday (26).
+
+The victims were a tractor carrying a group of students from Madurazor School.
+
+The school had been granted leave from the inclement weather and was then subsided by Kalmunai main road and the Palai Valley in Ampara.
+
+Due to this, the children of residents of Samantura had not been able to travel to their homes.
+
+The 11 students have fallen into a tractor traveling towards Samanthurai, while the tractor has traveled through the tractor, it has fell unexpectedly.
+
+The group of tractor had been blown in the storm.
+
+However, 5 students had been saved to survive, but the rest went missing.
 
 ...
 
 [Data](articles/019e3c90.json)
 
+[Extended Data](ext_articles/019e3c90.ext.json)
+
 ---
 
-### ණය ගෙවීමේ හැකියාව ගැන මහ බැංකු අධිපතිගෙන් ප්‍රකාශයක්
+### Central Bank Governor of the Central Bank
 
 *2024-11-27 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203814) · `si`
 
-ණය නැවත ගෙවීමට යාමේදී ශ්‍රී ලංකාව අර්බුදයකට යන බව පැවසීම සම්පූර්ණයෙන්ම වැරදි මතයක් බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පැවසීය.
+Sri Lanka's Central Bank Governor denies impending crisis. Foreign loan payments capped at 4.5% GDP. Some debts extended until 2040. Long-term debt restructuring unlikely in 2028.
 
-මහ බැංකු ශ්‍රවණාගාරයේ අද (27) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඔහු මේ බව පැවසීය.
+🟩
 
-"දළ දේශීය නිෂ්පාදිනයේ ප්‍රතිශතය අනුව සෑම වසරකම විදේශ ණය වශයෙන් උපරිම ගෙවන්න තියෙන්නේ දළ දේශීය නිෂ්පාදිතයෙන් සියයට 4.5යි. එතකොට 2027 වෙනකම් පොලිය විතරයි ගෙවන් තියෙන්නේ.
+Central Bank Governor Dr. Nandalal Weerasinghe said that it is a completely misleading to say that Sri Lanka is going to a crisis when he goes back to death.
 
-සමහර ණය ගෙවීම දික්කරලා තියෙනවා 2040 වෙනකම්, සමහර ඒවා 2038 වෙනකම්, සමහර ඒවා 2032 වෙනකම්. එහෙම දීර්ඝ කාලීනව ණය ගෙවන ක්‍රමයක් තුළ 2028දී එකපාරටම මේ ටික ගෙවන්න වෙන්නේ නෑ. ඒක සම්පූර්ණ මිත්‍යා මතයක්.
+He was speaking at a press conference held at the Central Bank Auditorium today (27).
 
-අපට ණය දීපු අය දකිනවානම් අපට මේ ණය නැවත 2028දී ගෙවාගන්න බෑ කියලා, ඒ ගොල්ලෝ එකඟ වෙන්නේ නෑනේ මේ අවුරුදු ගාණන ණය ප්‍රතිව්‍යුහගතකරන්න".
+The maximum payments of foreign loans per year according to the percentage of the GDP are 4.5 percent of GDP. Then the interest in 2027 is paid.
+
+Certain debt has been extended until 2040, some of them until 2038, some of them until 2032. Suddenly in 2028, this suddenly not to pay for a long-term debt. It's a full-friend opinion.
+
+If you see those who lend us in 2028, they will not be able to pay in 2028, they don't agree to restructure these years of permanent credit. ".
 
 ◼️
 
 [Data](articles/a7a70e33.json)
+
+[Extended Data](ext_articles/a7a70e33.ext.json)
 
 ---
 
@@ -120,45 +168,71 @@ Following the Tuilumilla song broadcast. During this time, the parents, relative
 
 ---
 
-### අමාත්‍යංශ දෙකක නව ලේකම්වරු පත් කෙරේ
+### New secretaries appointed in two ministries
 
 *2024-11-27 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203813) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව අමාත්‍යංශ ලේකම්වරුන් දෙදෙනෙක් පත්කර තිබේ.
+Here's a summary of 200 characters:
 
-ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති ලේකම් කාර්යාලයේදී අද (27) ප්‍රදානය කළේය.
 
-ඒ අනුව පරිසර අමාත්‍යංශයේ ලේකම්වරයා ලෙස  කේ.ආර්. උඩුවාවල මහතා පත් කර ඇත.
 
-විද්‍යා හා තාක්ෂණ අමාත්‍යංශයේ ලේකම්වරයා ලෙස වයි.එල්.මොහොමඩ් නවාවි මහතා පත් කර තිබේ.
+President Anura Kumara Dissanayake appoints two new Secretaries: KR (Environment) and Uduwala; Y.L.sund Nawawi (Science and Technology).
+
+🟩
+
+Two new Secretaries have been appointed by President Anura Kumara Dissanayake.
+
+Appointment of the Appointment of Appointments Hon.
+
+Accordingly, KR as the Secretary of the Ministry of Environment. Mr. Uduwala has been appointed.
+
+Mr. Y.L.sund Nawawi has been appointed as the Secretary to the Ministry of Science and Technology.
 
 ◼️
 
 [Data](articles/1fc55141.json)
 
+[Extended Data](ext_articles/1fc55141.ext.json)
+
 ---
 
-### අම්පාරේ ඛේදවාචකයේ අලුත්ම කථාව
+### The latest story of the tragedy in Ampara
 
 *2024-11-27 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203812) · `si`
 
-අම්පාර, කාර්තිව්හිදී ට්‍රැක්ටර් රථයක් සැඩ පහරකට හසුවීමෙන් අතුරුදන්ව සිටි පාසල් සිසුන් හයදෙනාගෙන් තිදෙනෙකුගේ මෘතදේහ අද (27) සොයාගැනුණි.
+Here's a summary of the tragedy in Ampara in approximately 200 characters:
 
-ඒ ඊයේ සිට මේ දක්වා පොලීසිය, යුද හමුදාව, නාවික හමුදාව සහ  ප්‍රදේශවාසීන් සමග එක්ව සිදුකළ මෙහෙයුම්වලදීය.
 
-කෙසේ වෙතත් අතුරුදන් අනෙක් සිසුන් තිදෙනා, ට්‍රැක්ටර් රථයේ රියදුරා හා සහායකයා සොයා තවදුරටත් මෙහෙයුම් ක්‍රියාත්මකය.
 
-අම්පාර කාර්තිව් මාවඩිපල්ලි පාලම අසළදී සිසුන් පිරිසක් රැගත් ට්‍රැක්ටර් රථයක් සැඩ පහරකට හසුව ගසාගෙන යෑමේ සිදුවීම වාර්තා වුණේ ඊයේ (26) පස්වරුවේය.
+Six schoolchildren disappeared when their tractor was swept away during heavy rains. Three found; three still missing. Search operations ongoing involving police, army, navy, and locals. Parents urged to caution children against traveling through flooded areas.
 
-එලෙස අනතුරට ලක්වුණේ නින්දවූර් මද්‍රසා පාසලේ සිසුන් පිරිසක් රැගත් ට්‍රැක්ටර් රථයකි.
+🟩
 
-පැවති අයහපත් කාලගුණය හේතුවෙන් හේතුවෙන් එම පාසලට නිවාඩු ලබාදී තිබූ අතර, ඒ වනවිටත් අම්පාර කල්මුණේ ප්‍රධාන මාර්ගය මෙන්ම දෙපස පිහිටි වෙල්යාය මාවඩිපල්ලි පාලම අසළින් වැසි ජලයෙන් යටවී තිබුණි.
+Three of the six schoolchildren who had been disappeared in Kabituff in Kabatiu was disappeared today (27).
 
-මේ හේතුවෙන් සමන්තුරේ ප්‍රදේශයේ පදිංචි දරුවන්ට සිය නිවෙස් වෙත යෑමට නොහැකි වී තිබුණි.
+The police, Army, Navy and the residents have been operated from yesterday.
+
+However, the other three students are still in operation in search of the tractor driver and assistant.
+
+A tractor carrying a group of students from the Mavadipaller Bridge in Ampara was reported yesterday (26).
+
+The victims were a tractor carrying a group of students from Madurazor School.
+
+The school had been granted leave and at the time of the inclement weather, the general road had been submerged by the Kalmunai main road as well as rainwater.
+
+Due to this, the children of residents of Samantura had not been able to travel to their homes.
+
+11 students have been landed in a tractor traveling towards Samanthurai, while the tractor is traveling through the waters of the road.
+
+The group of tractor had been blown in the storm.
+
+However, 5 students were survived, but the rest went missing.
 
 ...
 
 [Data](articles/9825aeb0.json)
+
+[Extended Data](ext_articles/9825aeb0.ext.json)
 
 ---
 
@@ -2525,19 +2599,5 @@ He said that Wickremesinghe set up and demands reports, he said, "It does not me
 [Data](articles/eb3bba17.json)
 
 [Extended Data](ext_articles/eb3bba17.ext.json)
-
----
-
-### Special police hotline for Tamil-speaking people amid adverse weather
-
-*2024-11-27 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103806/special-police-hotline-for-tamil-speaking-people-amid-adverse-weather) · `en`
-
-Sri Lanka Police has established a special hotline, ‘107’, dedicated for Tamil-speaking individuals to report or seek assistance regarding the prevailing adverse weather conditions, according to Police Spokesman DIG Nihal Thalduwa.
-
-◼️
-
-[Data](articles/a7b98f79.json)
-
-[Extended Data](ext_articles/a7b98f79.ext.json)
 
 ---

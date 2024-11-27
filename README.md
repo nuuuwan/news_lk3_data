@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 04:42:10**
+As of **2024-11-28 05:11:53**
 
 ## Newspaper Stats
 
-*Scraped **57,308** Articles*
+*Scraped **57,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
 economynextcom | 3,486
-dailyftlk | 3,948
+dailyftlk | 3,952
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
@@ -26,11 +26,85 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,308 (100.0%) of 57,308 articles have been extended.
+57,309 (100.0%) of 57,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### New Secretaries to Environment, Science and Technology Ministries
+
+*2024-11-28 05:06:30* · [`dailyftlk`](https://www.ft.lk/news/New-Secretaries-to-Environment-Science-and-Technology-Ministries/56-769814) · `en`
+
+President Anura Kumara Dissanayake has appointed new Secretaries to two key Ministries, according to the President’s Media Division (PMD).
+
+The relevant appointment letters were handed over yesterday by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
+
+As per the appointments, K.R. Uduwawala will serve as the Secretary to the Ministry of Environment, and Y.L. Mohamed Nawawi will take on the role of Secretary to the Ministry of Science and Technology.
+
+◼️
+
+[Data](articles/a5c27c46.json)
+
+---
+
+### Korea hands over $ 5 m floating solar photovoltaic power  plants in Southern Province
+
+*2024-11-28 04:59:46* · [`dailyftlk`](https://www.ft.lk/news/Korea-hands-over-5-m-floating-solar-photovoltaic-power-plants-in-Southern-Province/56-769813) · `en`
+
+The Republic of Korea, represented by Ambassador Miyon Lee, officially handed over Sri Lanka’s first-ever floating solar photovoltaic (PV) power plants located at the Chandrika Wewa and Kiriibban Wewa reservoirs.
+
+This ground-breaking renewable energy initiative marks a major milestone in Sri Lanka’s transition toward sustainable energy solutions.
+
+Key attendees included Additional Secretary of Ministry of Power and Energy Tharshini Prashanth, and Sustainable Energy Authority (SEA) Chairman Prof. T.M.W.J. Bandara.
+
+The $ 5 million project, funded by the Korean Government since 2022, was developed in collaboration with the Korea Institute for Advancement of Technology (KIAT) and implemented by Yooshin Engineering and Bosung Powertec.
+
+Each floating solar photovoltaic power plant, capable of generating 1MW, uses reservoir surfaces, conserving land resources while reducing environmental impact.
+
+...
+
+[Data](articles/f5d55148.json)
+
+---
+
+### Nutrition Sri Lanka program launched by Akshata to combat malnutrition in Sri Lanka
+
+*2024-11-28 04:55:53* · [`dailyftlk`](https://www.ft.lk/news/Nutrition-Sri-Lanka-program-launched-by-Akshata-to-combat-malnutrition-in-Sri-Lanka/56-769812) · `en`
+
+Nutrition Sri Lanka – an ambitious program to end malnutrition – was formally launched recently. It seeks to provide undernourished children and pregnant women with the nutrients essential through the consumption of fortified rice.
+
+The program is spearheaded by Akshata, which is the first brand in Sri Lanka to acquire and master the technology to produce fortified rice kernels efficiently and cost-effectively. Fortifying staple foods such as rice with essential micronutrients like vitamin A, B vitamins, iron and zinc is among the most economical evidence-based interventions to help combat widespread micronutrient deficiencies.
+
+...
+
+[Data](articles/0aaee1e7.json)
+
+---
+
+### Adani says Gautam  clear of bribery charges as per DoJ indictment
+
+*2024-11-28 04:52:17* · [`dailyftlk`](https://www.ft.lk/business/Adani-says-Gautam-clear-of-bribery-charges-as-per-DoJ-indictment/34-769811) · `en`
+
+In stock exchange filing claims no bribery charges against Gautam Adani, nephew Sagar Adani and Vneet Jaain as per DoJ indictment
+
+Trio not charged with violation(s) of US FCPA, excluded from FCPA charges by US DoJ
+
+Only Azure and CDPQ officials charged with bribery in US DoJ indictment
+
+All news reports claiming Adani officials charged of bribery or corruption ‘Incorrect’, insists Adani Green Energy
+
+Gautam Adani, nephew Sagar Adani, and Senior Executive Vneet Jaain are clear of any bribery charges as per the US Department of Justice (DoJ), according to the latest filing with stock exchanges by a Group company – Adani Green Energy Ltd. (AGEL).
+
+In its filing, AGEL has cited news reports by various media houses on the bribery and corruption charges against Adani officials ‘Incorrect’.
+
+...
+
+[Data](articles/cac19284.json)
+
+[Extended Data](ext_articles/cac19284.ext.json)
+
+---
 
 ### Urgent regulatory reforms needed to revitalise construction industry and economy
 
@@ -2447,95 +2521,5 @@ The Managing Director of the Provincial Primary Children's Authority Nilantha Ek
 [Data](articles/9ae6a3df.json)
 
 [Extended Data](ext_articles/9ae6a3df.ext.json)
-
----
-
-### The ceasefire came into effect - thousands of Lebanon people return to South Lebanon
-
-*2024-11-27 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199835) · `ta`
-
-Ceasefire implemented; thousands return to South Lebanon. Heavy traffic reported. Public shows support for Hezbollah. Officials warn against immediate return due to safety concerns.
-
-🟩
-
-Thousands of Lebanon people have returned to their areas in Southlepanon following the implementation of the ceasefire agreement between Israel and the Hesbullah organization.
-
-We are heading towards Southlepanan. Hezbullah has great support in this area, thousands of people are returning to their homes, the BBC said.
-
-There is a huge traffic congestion on the major streets between the Lebanese capital, Beirut and the Southlepan, and the BBC journalist said that the public is watching cars with cars, said the public waving the hezbullah flags from the vehicles.
-
-Israeli Lebanon officials have warned that some people show their hands as a victory, while the BBC reporter has warned the public not to go to their parts immediately.
-
-◼️
-
-[Data](articles/2c849aff.json)
-
-[Extended Data](ext_articles/2c849aff.ext.json)
-
----
-
-### China Communist Party senior member meets Sri Lanka leaders
-
-*2024-11-27 14:06:00* · [`economynextcom`](https://economynext.com/china-communist-party-senior-member-meets-sri-lanka-leaders-190239/) · `en`
-
-ECONOMYNEXT – Communist Party of China (CPC) Central Committee member Sun Haiyan is in the island on a four-day official visit aimed at enhancing Sri Lanka-China relations.
-
-She is the Vice Minister of the International Department of the CPC.
-
-Haiyan met President Anura Dissanayake and Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath to discuss “strengthening bilateral cooperation and deepening ties between the two nations” the Ministry of Foreign Affairs said in a statement.
-
-Haiyan was accompanied by Deputy Director General of the International Department of the CPC Central Committee Lin Tao and Director of the International Department of the CPC Central Committee Li Jinyan. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/577cbe70.json)
-
-[Extended Data](ext_articles/577cbe70.ext.json)
-
----
-
-### Several Cabinet Ministers arrive at the CID
-
-*2024-11-27 14:01:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-කැබිනට්-අමාත්‍යවරුන්-කිහිප-දෙනෙක්-සි-අයි-ඩී-ය-හමුවට-පැමිණෙයි/11-413307) · `si`
-
-Cabinet Ministers visit CID over substandard issues. Former ministers Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka, and Nasir Ahmed present.
-
-🟩
-
-Several Cabinet Ministers have appeared in the face of the Criminal Investigation Department today (27) regarding the subject of substandard.
-
-Former ministers were summoned to the CID to address the Cabinet Ministers who were granted to the approval of the cabinet ministers.
-
-Former ministers of Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka and Nasir Ahmed have come to the Department of Criminal Investigations.
-
-◼️
-
-[Data](articles/1257c9db.json)
-
-[Extended Data](ext_articles/1257c9db.ext.json)
-
----
-
-### Leave cancelled for engineers and technical officials managing reservoirs
-
-*2024-11-27 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103811/leave-cancelled-for-engineers-and-technical-officials-managing-reservoirs) · `en`
-
-The Ministry of Agriculture, Livestock, Lands, and Irrigation has issued a notice for the engineers and technical officers from the Irrigation Department, who are in charge of managing reservoirs, amidst the prevailing adverse weather conditions.
-
-Accordingly, the engineers and technical officials of the Irrigation Department and the Mahaweli Authority who are responsible for reservoir management are required to remain at their workplaces.
-
-According to the notice, the leave of all such officials who are currently on leave will be cancelled.
-
-The Minister of the Ministry of Agriculture, Livestock, Lands, and Irrigation has issued the following instructions,
-
-1.  That the engineers and technical officers managing reservoirs from the Irrigation Dept. and Mahaweli Authority should remain at their work places.
-
-2. To cancel the leave of such officers on leave with immediate effect,
-
-...
-
-[Data](articles/cf8d0a97.json)
-
-[Extended Data](ext_articles/cf8d0a97.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 19:16:28**
+As of **2024-11-27 19:02:40**
 
 ## Newspaper Stats
 
-*Scraped **57,260** Articles*
+*Scraped **57,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,431
 economynextcom | 3,478
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,403
+adalk | 5,402
 adaderanalk | 6,933
 tamilmirrorlk | 8,145
 virakesarilk | 9,332
@@ -26,35 +26,25 @@ adaderanasinhalalk | 9,886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,250 (100.0%) of 57,260 articles have been extended.
+57,246 (100.0%) of 57,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### Farmers trapped in Batticaloa
+### மட்டக்களப்பில் வயலில் சிக்கிய விவசாயிகள் - கெலிகொப்டர் மூலம் ஒருவர் மீட்பு
 
 *2024-11-27 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199875) · `ta`
 
-Batticaloa floods trap 14 farmers; 1 rescued by Air Force helicopter; others stranded
+மட்டக்களப்பு புல்லுமலை தம்பட்டி மற்றும் மாவடி ஓடை வண்ணாத்தி ஆறு பகுதிகளில் உள்ள வயல்களில் வேளாண்மை நடவடிக்கைக்கு சென்ற 7 விவசாயிகள் அந்த பகுதிகளில் ஏற்பட்ட வெள்ளத்தினால் அங்கிருந்து வெளியேறி வீடு திரும்ப முடியாமல், இரு தினங்களாக வயலில் சிக்கியிருந்துள்ளனர். இந்நிலையில், அவர்களில் ஒரு விவசாயியை விமானப்படையினர் ஹெலிகொப்டர் மூலம் இன்று புதன்கிழமை (27) மீட்டனர்.
 
-🟩
+அந்த பகுதியிலுள்ள வயல்களில் வேளாண்மை காவலுக்கு கடந்த திங்கட்கிழமை (25) சென்ற மற்றும் வேளாண்மை நடவடிக்கைகளுக்காக புல்லுமலை தம்பட்டி வயல் பிரதேசத்தில் 3 விவசாயிகளும் மாவடி ஓடை வண்ணாத்தி ஆறு வயல் பிரதேசத்தில் 4 பேர் உட்பட 7 விவசாயிகள் சென்றிருந்தனர்.
 
-Seven farmers who went to agriculture in the fields of Pullumalai Thampatti and Mavadi Oya Valanthi in Batticaloa have been trapped in the field for two days due to the floods in those areas.. In this case, a farmer was rescued by Air Force helicopter on Wednesday (27).
-
-In the fields of the area, 3 farmers in the Pullumalai Tampatti Vayal area, and 7 farmers, including 4 in the Mavadi Oya Varadi Six Vaikkal area, went to the agricultural guard of the area last Monday (25).
-
-Due to heavy rains, the fields of the ponds in the area have been flooded and the farmers have been trapped in the floods and many roads have been submerged.
-
-The Air Force, who was involved in the rescue of the cigarette, today rescued a man who was rescued by a helicopter in the Mountains.
-
-Meanwhile, one of the three people in the Pullumalai Thambitti Vayal area has been swimming in a flood.Police have rescued the other two.
+இந்நிலையில் கடும் மழை காரணமாக அந்த பகுதியிலுள்ள குளங்களின் வான்கதவு திறக்கப்பட்டதையடுத்து வயல் நிலங்கள் வெள்ளத்தில் முழ்கியதுடன், பல வீதிகள் நீரில் மூழ்கியதையடுத்து அந்த விவசாயிகள் தமது வாடிகளில் இருந்து வீடுகளுக்கு வெளியேற முடியாமல் சிக்கியிருந்துள்ளனர்.
 
 ...
 
 [Data](articles/c8a1c569.json)
-
-[Extended Data](ext_articles/c8a1c569.ext.json)
 
 ---
 
@@ -78,57 +68,43 @@ Very heavy showers above 150 mm are likely at some places while showers will occ
 
 ---
 
-### Children's park in floods in Nuwara Eliya
+### நுவரெலியாவில் வெள்ளத்தில் மூழ்கிய சிறுவர் பூங்கா
 
 *2024-11-27 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199873) · `ta`
 
-Nuwara Eliya floods: Children's Park at Victoria Park submerged, tourist ban issued, sports equipment and gardens damaged.
+நுவரெலியா மாவட்டத்தில் கடந்த சில நாட்களாக பெய்துவரும் அடைமழையால் பல்வேறு இடங்களில் வெள்ளம் ஏற்பட்டுள்ளது.
 
-🟩
+இதில் நுவரெலியா மாநகர சபைக்கு சொந்தமான விக்டோரியா பூங்கா மற்றும் அதனை அண்மித்துள்ள பகுதிகள் வெள்ளத்தில் மூழ்கியதால் விக்டோரியா பூங்காவில் சிறுவர் பூங்கா பகுதிக்குச் செல்ல சுற்றுலா பயணிகளுக்கு தடை விதிக்கப்பட்டுள்ளது.
 
-In the Nuwara Eliya district, the floods have been flooded in various places over the past few days.
+எனினும், தொடர்மழை காரணமாக இந்த சிறுவர் பூங்கா குளமாக மாறியுள்ளது. அத்தோடு சிறுவர்கள் விளையாடும் இடம் முழுவதும் மழை நீர் தேங்கி காணப்படுகிறது.
 
-Tourists have been banned from going to the Children's Park at Victoria Park as the Victoria Park belonging to the Nuwara Eliya Municipal Council and its adjacent areas have been flooded.
-
-However, this children's park has become a pond due to continuous rainfall. Rain water is stagnant throughout the place where the boys play.
-
-It is also worth noting that sports equipment, seats and floral gardens maintained by the Municipal Council are submerged.
+மேலும், விளையாட்டு உபகரணங்கள், இருக்கைகள் மற்றும் மாநகர சபையினால்  பராமரிப்பு செய்துவந்த மலர் தோட்டங்கள் நீரில் மூழ்கி கிடக்கின்றமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/9a820bfa.json)
 
-[Extended Data](ext_articles/9a820bfa.ext.json)
-
 ---
 
-### 477 families in Badulla and 1861 people are affected by heavy rains
+### பதுளையில் 477 குடும்பங்கள், 1861 பேர் கனமழையினால் பாதிப்பு
 
 *2024-11-27 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199871) · `ta`
 
-Badulla: Heavy rains affect 477 families, 1861 people. 247 homes damaged, 378 displaced. Relief efforts underway. Landslides block roads, disrupt railway service.
+பதுளை மாவட்டத்தில் கடந்த நான்கு நாட்களாக பெய்த கடும் மழை காரணமாக 477 குடும்பங்களைச் சேர்ந்த 1861 பேர் பாதிக்கப்பட்டுள்ளதாக பதுளை மாவட்ட அனர்த்த முகாமைத்துவ நிலையத்தின் உதவிப் பணிப்பாளர் ஈ.எம். எல். உதயகுமார தெரிவித்தார்.
 
-🟩
+மாவட்டத்தில் உள்ள அனைத்து பிரதேச செயலகப் பிரிவுகளிலும் கடும் மழையினால் அனர்த்தங்கள் ஏற்பட்டுள்ளன.
 
-Assistant Director of the Badulla District Disaster Management Center. L. Udayakumara said.
+இதுவரை கிடைக்கப் பெற்ற தகவல்களின் அடிப்படையில், 247 வீடுகளுக்கு பகுதியளவில் சேதங்கள் ஏற்பட்டுள்ளன.
 
-Heavy rains have been caused by heavy rains in all the Divisional Secretariat Divisions in the district.
+மண்சரிவு மற்றும் திடீர் வெள்ளம் மற்றும் மண்சரிவு அனர்த்தத்துக்கு முகங்கொடுத்த 100 குடும்பங்களைச் சேர்ந்த 378 பேர் அவர்களது உறவினர்களின் வீடுகளில் தற்காலிகமாக தங்க வைக்கப்பட்டுள்ளனர்.
 
-Based on the information available so far, 247 homes have been partially damaged.
+அவர்களுக்கு தேவையான உலர் உணவு நிவாரணப் பொருட்களை பிரதேச செயலகங்களின் ஊடாக வழங்க நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.
 
-378 people from 100 families who face the floods and sudden floods and landslides have been temporarily housed in their relatives' homes.
-
-Steps have been taken to provide them with dry food relief supplies through the Divisional Secretariats.
-
-Seven intermediate camps have been set up to maintain 411 people from 113 families who have faced severe disasters in the Badulla district.
-
-Eight persons from 2 families who were affected by landslides in Udapanguwa area in the Lunugala Divisional Secretariat Division164 people from 41 families affected by the floods in the Rotawela area have been housed at the Eberawa Viharaya.
+பதுளை மாவட்டத்தில் கடுமையான அனர்த்தங்களுக்கு முகங்கொடுத்துள்ள 113 குடும்பங்களைச் சேர்ந்த 411 பேரை பராமரிப்பதற்காக தற்காலிகமாக 7 இடைத்தங்கல் முகாம்கள் அமைக்கப்பட்டுள்ளன.
 
 ...
 
 [Data](articles/125de478.json)
-
-[Extended Data](ext_articles/125de478.ext.json)
 
 ---
 
@@ -235,20 +211,6 @@ It is reported that the couple has a baby and the woman is pregnant for the seco
 [Data](articles/ad0e16a6.json)
 
 [Extended Data](ext_articles/ad0e16a6.ext.json)
-
----
-
-### උඩරට දුම්රිය ධාවනයේ වෙනසක්
-
-*2024-11-27 17:24:01* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයේ-වෙනසක්/11-413319) · `si`
-
-වර්ෂාවත් සමඟ පස්කදු ගල්පර්වත ගස්කොළන් උඩරට දුම්රිය මාර්ගයට කඩා වැටී තිබිම නිසාවෙන් කොළඹ කොටුව බදුල්ල අතර උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය වෙනස් කම් කීපයක් සිදු කරමින් ධාවනය වන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය අද (27) පැවසීය.
-
-උඩරට දුම්රිය මාර්ගයේ හාලිඇල දෙමෝදර අතර උඩුවර 7කණුව ප්‍රදේශයේ දී දුම්රිය මාර්ගයට කඩා වැටී ඇති විශාල පස්කන්ද මෙතෙක් ඉවත් කර නොමැති නිසාවෙන් බදුල්ල දෙමෝදර අතර දුම්රිය ධාවනය මුලුමනින්ම ඇණ හිට ඇත.
-
-...
-
-[Data](articles/33238d0f.json)
 
 ---
 
@@ -1786,33 +1748,27 @@ He was speaking at a media briefing held in Colombo today (27).
 
 ---
 
-### 34 institutions to be divided into the ministries: 94 institutions
+### අමාත්‍යංශවලට ආයතන බෙදූ හැටි: ජනපති යටතට ආයතන 94ක්
 
 *2024-11-27 11:56:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5yrnj1rz39o) · `si`
 
-N
+නව අමාත්‍යවරුන් පත් කිරීමෙන් අනතුරුව එම අමාත්‍යංශවලට අයත් විෂයන් හා කාර්යයන් ජනාධිපතිවරයා විසින් ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත් කළේ ය.
 
-🟩
+ජනාධිපති අනුර කුමාර දිසානායක නොවැම්බර් 25 වන දා නිකුත් කරන ලද අතිවිශේෂ ගැසට් පත්‍රයේ එක් එක් අමාත්‍යවරයාට අයත් වන විෂය පථයන්, කටයුතු, දෙපාර්තමේන්තු, ව්‍යවස්ථාපිත ආයතන සහ සංස්ථා සඳහන් කර ඇත.
 
-After appointing new ministers, the President published the subjects and functions of the Ministries.
+ජනාධිපති අනුර කුමාර දිසානායක ඔහු සතු අමාත්‍යංශ 3ක් යටතේ ආයතන 94ක් තබාගෙන ඇති අතර, එය නව රජයේ එක් ඇමැතිවරයෙකු යටතේ ඇති වැඩි ම ආයතන සංඛ්‍යාව යි.
 
-President Anura Kumara Dissanayake has been appointed as the subject, action, departments, statutory and corporations, which belong to each Minister on November 25th.
+ඉන්පසුව වැඩි ම ආයතන ගණන් හිමිව ඇත්තේ, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්සට වන අතර, ඔහු යටතේ ඇති ආයතන ගණන 41කි.
 
-President Anura Kumara Dissanayake has held 94 institutions under three ministries, which is the highest number of institutions under one of the new government.
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති යටතට ලබා දී ඇති ආයතන සංඛ්‍යාව 34කි.
 
-Thereafter, the majority of institutions have been companies, Health and Mass Media is 41 institutions under him.
+ඇමති සමන්ත විද්‍යාරත්න සහ කේ.ඩී. ලාල්කාන්ත යන ඇමැතිවරුන්ගේ අමාත්‍යංශ යටතට ආයතන 29 බැගින් ලබා දී තිබේ.
 
-There are 34 institutions that have been given to the Industry and Entrepreneurship Development Sunil Handunnetti.
-
-Minister Samantha Vidyaratne and KD. 29 institutions have been provided with 29 institutions under the Ministries of Ministers Lal Kantha.
-
-The number of institutions that have been assigned to Minister Harinini Amarasuriya, Minister of Ministers and the Minister of Ministers has been entrusted with the Minister of Police.
+අගමැති හරිනි අමරසූරිය සතු අමාත්‍යංශ සඳහා මෙන් ම ඇමති හිනිඳුම සුනිල්සෙනෙවි සහ හර්ෂණ නානායක්කාර අමාත්‍යවරයාට පවරා ඇති ආයතන සංඛ්‍යාව 26කි.
 
 ...
 
 [Data](articles/3fa28e54.json)
-
-[Extended Data](ext_articles/3fa28e54.ext.json)
 
 ---
 
@@ -2509,5 +2465,29 @@ The ceasefire calls for an initial two-month halt to fighting and requires Hezbo
 [Data](articles/014d93d0.json)
 
 [Extended Data](ext_articles/014d93d0.ext.json)
+
+---
+
+### Vavuniya Wavelakallupottagulam Breakdown: People
+
+*2024-11-27 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199798) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Water supply increase to mansion pond due to Vavuniya wavelength pond collapse. Agrarian Development official warns Arumugathan Pudukkulam, Pudukkulam, House, Chemamadu villages at risk."
+
+🟩
+
+Assistant Commissioner of Agrarian Development has said that the water supply to the mansion pond has increased due to the collapse of the Vavuniya wavelength pond.
+
+As a result of this, the Assistant Commissioner of Agrarian Development of the Agrarian Welfare Development will take steps to ensure that the people of Arumugathan Pudukkulam, Pudukkulam, House and Chemamadu villagers are at risk.
+
+◼️
+
+[Data](articles/b6cb4436.json)
+
+[Extended Data](ext_articles/b6cb4436.ext.json)
 
 ---

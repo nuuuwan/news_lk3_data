@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 02:41:35**
+As of **2024-11-28 04:42:10**
 
 ## Newspaper Stats
 
-*Scraped **57,303** Articles*
+*Scraped **57,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
 economynextcom | 3,486
-dailyftlk | 3,943
+dailyftlk | 3,948
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
@@ -26,15 +26,85 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,303 (100.0%) of 57,303 articles have been extended.
+57,308 (100.0%) of 57,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
+### Urgent regulatory reforms needed to revitalise construction industry and economy
+
+*2024-11-28 03:43:07* · [`dailyftlk`](https://www.ft.lk/columns/Urgent-regulatory-reforms-needed-to-revitalise-construction-industry-and-economy/4-769802) · `en`
+
+Sri Lanka’s construction sector is pivotal to national development, and its revival will benefit every layer of the economy
+
+To foster resilience and recovery in the current economic landscape, it is crucial that the working attitudes and mindset within Sri Lanka’s private sector evolve toward greater alignment with the needs of companies and entrepreneurs affected by multiple crises and financial strain. Employees across the business community must recognise the importance of their roles in supporting affected businesses. By demonstrating dedication, loyalty, and efficiency, employees can actively contribute to the revitalisation of their organisations. This transformative approach involves adopting innovative ideas, focusing on problem-solving skills, authority of power for making quick decisions striving for enhanced productivity, efficiency through improved work flows and processes
+
+A call for strategic intervention on path to recovery from the economic and financial crisis
+
+...
+
+[Data](articles/4a3b0c54.json)
+
+[Extended Data](ext_articles/4a3b0c54.ext.json)
+
+---
+
+### Entrepreneurs who shaped Sri Lanka’s biz landscape
+
+*2024-11-28 03:04:26* · [`dailyftlk`](https://www.ft.lk/columns/Entrepreneurs-who-shaped-Sri-Lanka-s-biz-landscape/4-769795) · `en`
+
+From left: Aban Pestonjee, Sumal Perera, Chandra Shaffter, Harry Jayawardana and late Merril J. Fernando
+
+At seminars and forums, one of the most frequent questions I
+
+What traits set business leaders like Elon Musk, Steve Jobs, Jack Welch, Ratan Tata, and Richard Branson apart from the rest?
+
+While I haven’t had the privilege of working directly with these global icons, I’ve engaged with several global gurus who have collaborated with these entrepreneurs. Their valuable insights have provided clarity into this question. Additionally, I’ve had the opportunity to closely associate with some of Sri Lanka’s most successful entrepreneurs, including working with them at the board level.
+
+...
+
+[Data](articles/d5e9985c.json)
+
+[Extended Data](ext_articles/d5e9985c.ext.json)
+
+---
+
+### Trump’s transparency and opportunities for Global South
+
+*2024-11-28 02:58:23* · [`dailyftlk`](https://www.ft.lk/columns/Trump-s-transparency-and-opportunities-for-Global-South/4-769794) · `en`
+
+One of the main challenges of a Trump presidency is the prospect of a strong and sustained rally for the US dollar. This would naturally place inflationary pressures on import-dependant countries like Sri Lanka, while driving interest rates up due to the institutionalisation of an inflation-targeting Central Bank. Most worrying is that a stronger dollar will impact Sri Lanka’s foreign debt burden, making raising revenue to repay debts much more challenging
+
+In 2019, Syrian President Bashar al-Assad quipped that Donald Trump was the best US President, “not because his policies are good, but because he’s the most transparent president.” In some ways, it is better to have a foe who dispenses with the pretences of human rights and democracy, and says outright: “We want the oil”, “America first”.
+
+...
+
+[Data](articles/26873263.json)
+
+[Extended Data](ext_articles/26873263.ext.json)
+
+---
+
+### Price of inaction: Sexual harassment’s toll on Sri Lanka’s economy
+
+*2024-11-28 02:46:59* · [`dailyftlk`](https://www.ft.lk/columns/Price-of-inaction-Sexual-harassment-s-toll-on-Sri-Lanka-s-economy/4-769793) · `en`
+
+Companies need to make institutional policy changes in order to ensure that their workplace is conducive for women to enter and advance in the workforce
+
+Tackling workplace harassment in Sri Lanka is not just a social responsibility but an economic imperative. To secure future economic growth, the Government and employers must cooperate to enact and enforce policies that address harassment comprehensively. Change is only effective if meaningful. This is why we need clear legislative reform, employer-driven measures, and effective policies. The cost of inaction measured in lost productivity, turnover, and absenteeism—is simply too high for Sri Lanka’s economy to bear
+
+...
+
+[Data](articles/e821fd5c.json)
+
+[Extended Data](ext_articles/e821fd5c.ext.json)
+
+---
+
 ### Four students were found dead at Mavadipalli, Ampara
 
-*2024-11-28 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199889) · `ta`
+*2024-11-28 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199889) · `ta`
 
 Four students died in Ampara flood. Bodies found near Karadivu. Five others injured. Search ongoing for missing students.
 
@@ -53,6 +123,22 @@ However, the police said that the search operation is being carried out amid ran
 [Data](articles/67edaa8a.json)
 
 [Extended Data](ext_articles/67edaa8a.ext.json)
+
+---
+
+### Domestic abuse in Sri Lanka: Hidden epidemic
+
+*2024-11-28 02:44:18* · [`dailyftlk`](https://www.ft.lk/columns/Domestic-abuse-in-Sri-Lanka-Hidden-epidemic/4-769792) · `en`
+
+It’s also important to recognise that abuse isn’t always physical. Emotional and financial abuse are often the most insidious forms, leaving scars that can’t be seen but take the longest to heal. Emotional abuse erodes self-esteem and isolates victims, while financial abuse traps them by controlling resources, making it nearly impossible for them to break free. These forms of abuse thrive in silence, perpetuating a cycle of control and helplessness
+
+Domestic abuse is not new to Sri Lanka, but in recent years, it has spiralled into an undeniable crisis. Globally, domestic violence surged during the COVID-19 pandemic, and Sri Lanka saw a significant spike too. The Women and Child Development Ministry reported over a 35% increase in complaints to the 1938 Women’s Helpline in the early months of the pandemic. Yet these numbers barely scratch the surface of the true scale of abuse happening behind closed doors.
+
+...
+
+[Data](articles/92cddb58.json)
+
+[Extended Data](ext_articles/92cddb58.ext.json)
 
 ---
 
@@ -2451,133 +2537,5 @@ The Minister of the Ministry of Agriculture, Livestock, Lands, and Irrigation ha
 [Data](articles/cf8d0a97.json)
 
 [Extended Data](ext_articles/cf8d0a97.ext.json)
-
----
-
-### Heavy rainfall in Kilinochchi district - People's normal life impact
-
-*2024-11-27 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199830) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Heavy rainfall floods Vattakachchi Periyakulam in Kilinochchi district, impacting locals' daily lives.
-
-🟩
-
-Due to the inclement weather in the Kilinochchi district, flood water has been flooded in the Vattakachchi Periyakulam areas.
-
-◼️
-
-[Data](articles/5c658a28.json)
-
-[Extended Data](ext_articles/5c658a28.ext.json)
-
----
-
-### Accountant arrested for stealing a woman's handbag on the plane
-
-*2024-11-27 13:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானத்திலேயே-பெண்ணின்-கைப்பையை-திருடிய-கணக்காளர்-கைது/175-347863) · `ta`
-
-Accountant steals handbag on plane, arrested at Katunayake airport. Contains £2700, iPhones, Samsung phones. Suspect has Canadian-Sri Lankan dual citizenship.
-
-🟩
-
-Katunayake airport police have arrested an accountant who stole an office assistant's handbag on a SriLankan flight from London, UK on Tuesday (26).
-
-Siri Shyamali Weerasinghe is a 55 -year -old office assistant, and she is currently living in the UK and the woman who lives with the dual citizenship of the UK and Sri Lanka and lives in Pannipitiya, Sri Lanka.
-
-He arrived at the Katunayake airport on Tuesday (26) at 01.30 pm on Sri Lanka Airlines flight from London, England.
-
-Her handbag had 2,700 sterling pounds worth 14 lakhs twenty -three thousand five hundred rupees, 02 new handheld phones (i phone) and 02 Samsung cell phones.
-
-Shortly after the plane departed, the woman had lodged a complaint with the Sri Lanka Air Transport Authority as the hand was lost.
-
-The SriLankan Airlines Investigation Officers at Katunayake Airport have been informed that the aircraft's pilot has been informed of the airplane.
-
-...
-
-[Data](articles/a9d60b58.json)
-
-[Extended Data](ext_articles/a9d60b58.ext.json)
-
----
-
-### Eastern University Hotels closed
-
-*2024-11-27 13:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கிழக்கு-பல்கலைக்கழக-விடுதிகள்-மூடப்பட்டன/73-347862) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Eastern University closes hostels due to floods. Students sent home. Learning activities shifted online. Floods caused by heavy rains in Batticaloa district. State officials assist flood victims.
-
-🟩
-
-Eastern University Registrar Amarasingham Paradhan said that due to inclement weather, the Eastern University Hostels have been closed from Wednesday (27) to re -notice and sent to their homes.
-
-He also said that arrangements have been made to take the students' learning activities.
-
-Batticaloa district has been flooded due to heavy rains over the past few days. Floods in the university campus and student hostel. As a result, the students have been evacuated and sent home.
-
-Due to floods in the district, floodwaters have risen on the main roads. Because of this, education and non -academic staff faced massive difficulties in obligating and many did not join the duties. In view of this, students have been sent home and arrangements have been made to carry out learning activities through the event.
-
-In the Batticaloa district, many areas have been flooded due to the opening of the Urugamam and Unnichi ponds.
-
-State officials are responsible for bringing the flood victims to safe places.
-
-◼️
-
-[Data](articles/edc25e05.json)
-
-[Extended Data](ext_articles/edc25e05.ext.json)
-
----
-
-### Representation and decentralization are essentially necessary
-
-*2024-11-27 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/199805) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-National parties' success in Tamil and Muslim areas marks first-time representation. Ensuring cabinet seats for diverse communities crucial for inclusive governance.
-
-🟩
-
-The national people's power has been in all parts of the country, including the North and East, where Tamils ​​and Muslims live in the parliamentary elections. It has also succeeded in Jaffna in the north. This is the first time a National Party has had such a success. The people of all races and religions have voted for the power of the national people. Therefore, it is imperative to ensure the representation of those communities in the cabinet, which is being made by the most important decisions on the future path of the government.
-
-◼️
-
-[Data](articles/bba655b6.json)
-
-[Extended Data](ext_articles/bba655b6.ext.json)
-
----
-
-### Inaccurate Weather - 691 people from 193 families in Nuwara Eliya
-
-*2024-11-27 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199826) · `ta`
-
-Nuwara Eliya: 691 affected, 98 homes damaged, 207 displaced. Relief efforts underway.
-
-🟩
-
-Nuwara Eliya District Secretary Nandana Kalada said that 691 people from 193 families have been affected by the inclement weather in the Nuwara Eliya district on Tuesday (26).
-
-He added that 98 houses have been partially damaged due to inclement weather and 207 people from 50 families have been housed in 3 camps.
-
-The district secretary added that necessary steps have been taken to provide relief to the injured.
-
-The District Secretary added that the authorities, including the District Disaster Management Center, are working on providing relief to the students who went through the Kandapalai road that was blocked by the floods yesterday.
-
-◼️
-
-[Data](articles/463cacb7.json)
-
-[Extended Data](ext_articles/463cacb7.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 11:25:46**
+As of **2024-11-27 10:41:55**
 
 ## Newspaper Stats
 
-*Scraped **57,168** Articles*
+*Scraped **57,154** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 439
-colombotelegraphcom | 582
+colombotelegraphcom | 581
 bbccomsinhala | 594
 islandlk | 3,431
-economynextcom | 3,470
+economynextcom | 3,465
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,390
-adaderanalk | 6,921
-tamilmirrorlk | 8,126
+adalk | 5,386
+adaderanalk | 6,920
+tamilmirrorlk | 8,123
 virakesarilk | 9,312
 adaderanasinhalalk | 9,868
 
@@ -26,183 +26,25 @@ adaderanasinhalalk | 9,868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,141 (100.0%) of 57,168 articles have been extended.
+57,129 (100.0%) of 57,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### Sri Lanka rupee trading stronger at 291.15/20 to dollar, bonds yields down steeply
-
-*2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-stronger-at-291-15-20-to-dollar-bonds-yields-down-steeply-190205/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading more or less flat at 291.15/20 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields plummeted after the central bank’s monetary policy announcement.
-
-A bond maturing on 15.12.2027 was quoted at 10.42/48 percent, down from 10.85/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 10.50/60 percent, down from 11.07/15 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, down from 11.35/50 percent.
-
-In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 12,961. The more liquid S&P SL20 was down 0.04 percent, or 1.70 points, at 3,842.
-
-◼️
-
-[Data](articles/73a9da4a.json)
-
----
-
-### රුපියල් කෝටි නවයකින් එළුවන් 23 ක් බිහිකළ එළු අභිජනන ව්‍යාපෘතිය
-
-*2024-11-27 11:05:31* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටි-නවයකින්-එළුවන්-23-ක්-බිහිකළ-එළු-අභිජනන-ව්‍යාපෘතිය/11-413303) · `si`
-
-සත්ව නිෂ්පාදන හා සෞඛ්‍යය දෙපාර්තමේන්තුව මගින් රුපියල්  91,970,290 ක් වැයකර  ක්‍රියාත්මක  කළ  බ්‍රෝයර් වර්ගයේ එළුවන් 250 ක් අභිජනනය කර ක්ෂේත්‍ර ගත කිරීමේ  පස් අවුරුදු  ව්‍යාපෘතියකින් එළුවන් 23 දෙනෙකු පමණක් අභිජනනය කිරීමේ සිද්ධියක් ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
-
-සත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුවට අයත් ඉඹුල්දණ්ඩ එළු අභිජනන මධ්‍යස්ථානයේ  2019 දී අරඹා  ඉකුත් වසර අවසානයේ  අවසන්වු  මෙම  ව්‍යාපෘතියෙන් වසරකට 50 බැගින්  එළුවන් 250 ක් අභිජනනය කිරීම  අරමුණවූ බව   විගණන කාර්යාලය සඳහන් කරයි.
-
-මෙසේ  එළුවන් 23 ක් පමණක් අභිජනනය කර  රුපියල් 2 ,362,442 ක ආදායමක් උපයා තිබීමෙන්  ව්‍යාපෘතියේ අරමුණ ඉටුව නැතැයි  මේ සම්බන්ධයෙන් නිකුත් කළ විගණන වාර්තාවේ සඳහන්වේ.
-
-අභිජනනයට යොදාගත්  ආනයනික එළුවන් තුළ  නිරෝධායන කාලයේ  බී.ටී සහ සී.ඒ.ඊ.ප්‍රතිදේහ  තිබූ බැවින් එළුවන්  අභිජනනය කර ක්ෂේත්‍ර ගත කිරීම නතරකළ බව දෙපාර්තමේන්තුවේ ගණන්දීමේ නිලධාරියා  විගණන‍‍යට දැනුම් දී තිබේ.
-
-...
-
-[Data](articles/fa3557e4.json)
-
----
-
-### Over 207,000 people affected by bad weather across 17 districts
-
-*2024-11-27 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103805/over-207000-people-affected-by-bad-weather-across-17-districts) · `en`
-
-Inclement weather conditions have affected a total of 207,582 individuals from 59,629 families across 17 districts, according to the Disaster Management Centre (DMC).
-
-The situation has resulted in one fatality while seven persons are reported missing, and eight have been left injured.
-
-A total of 10,137 individuals from 3,102 families are currently being sheltered in 104 relief centers.
-
-◼️
-
-[Data](articles/deefdba8.json)
-
----
-
-### කළුතර මාළු දැලකට අඩි 10 ක් පමණ දිග කිඹුලෙක්
-
-*2024-11-27 10:47:26* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-මාළු-දැලකට-අඩි-10-ක්-පමණ-දිග-කිඹුලෙක්/11-413302) · `si`
-
-කළුතර මාළු දැලකට අඩි 10 ක් පමණ දිග කිඹුලෙක් අද පස්වරුවේ  පැටලී ඇති බව කළුතර දකුණ පොලිසිය පවසයි .
-
-කළුතර ප්‍රදේශයේ ධීවරයෙකුගේ මත්ස්‍ය දැලකට මෙම කිඹුලා පැටලී ඇති බව සදහන් වේ.
-
-කළුතර දකුණ දුම්රිය ස්ථානය ඉදිරිපිට මුහුදු වෙරළ තීරයට දැල ගොඩගසා තිබූ අතර ,  එහි පැටලී සිටී කිඹුලාව ධීවරයන් දස දෙනෙක් පමණ එක්ව කඹ ආධාරයෙන් නිරුපද්‍රිතව ගොඩගැනීමට කටයුතු කර තිබේ.
-
-හික්කඩුව වනජීවී කාර්යාලය දැනුවත් කල බවත් කිඹුලා රැගෙන යාමට ඔවුන් පැමිණිමට නියමිතව ඇති බවත් පොලිසිය සදහන් කරයි.
-
-◼️
-
-[Data](articles/37aee2a5.json)
-
----
-
-### Batticaloa - Colombo Traffic Prohibition
-
-*2024-11-27 10:47:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பு-கொழும்பு-போக்குவரத்து-தடை/73-347849) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Batticaloa-Colombo road closed due to Manampitiya Junction road collapse. Water levels rising in Manampitiya, Welikanda, Punananam areas. Batticaloa-Colombo Railway Service suspended until further notice.
-
-🟩
-
-In that case, the Batticaloa -Colombo road has been closed due to the collapse of Manampitiya Junction (Maha Oya) road.
-
-Similarly, in the Manampitiya, Welikanda and Punananam areas, the water level is increasing due to the increase in the road.
-
-The Batticaloa -Colombo Railway Service has been suspended until the re -notice of the railway service.
-
-◼️
-
-[Data](articles/40900a65.json)
-
-[Extended Data](ext_articles/40900a65.ext.json)
-
----
-
-### 10 feet long in Kalutara fishing net
-
-*2024-11-27 10:45:10* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-මාළු-දැලකට-අඩි-10-ක්-පමණ-දිග-කිඹුලෙක්/11-413301) · `si`
-
-A 10ft crocodile got caught in a fishing net off Kalutara. It reportedly attacked a fisherman. Rescue efforts are underway near Kalutara South Railway Station. Wildlife officials from Hikkaduwa have been notified to assist in relocating the crocodile.
-
-🟩
-
-Kalutara South Police say a 10-foot-long crocodile has been entangled at a Kalutara fishing net this afternoon.
-
-It is said that the crocodile stabbed to a fisherman of fisherman in Kalutara.
-
-The sea was launched in front of Kalutara South Railway Station, and the crocodile crocodile has taken steps to recover with the help of ropes.
-
-The police say that the Hikkaduwa has educated the wildlife office and they will come to take the crocodile.
-
-◼️
-
-[Data](articles/482e0b3e.json)
-
-[Extended Data](ext_articles/482e0b3e.ext.json)
-
----
-
-### 6 madrasa students are continuing work
-
-*2024-11-27 10:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மத்ரஸா-மாணவர்களை-தேடும்-பணிகள்-தொடர்கின்றன/175-347846) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Six out of 11 madrasa students stranded in Mavadipalli floods rescued; search ongoing for remaining five. Community volunteers and Navy assist rescue efforts.
-
-🟩
-
-Five of the 11 madrasa students who traveled in the floods at Mavadipalli in Mavadipalli have been rescued due to the rising floods in Ampara district.
-
-Other students have not yet been recovered.The search for the six students continues on Wednesday (27) for the second day.
-
-Community volunteer organizations along with the Navy are continuing their work.
-
-◼️
-
-[Data](articles/b7d3126d.json)
-
-[Extended Data](ext_articles/b7d3126d.ext.json)
-
----
-
-### 6 flights were diverted
+### 6 விமானங்கள் திருப்பிவிடப்பட்டன
 
 *2024-11-27 10:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-விமானங்கள்-திருப்பிவிடப்பட்டன/175-347845) · `ta`
 
-Here's a summary in 200 characters:
+கட்டுநாயக்க விமான நிலையத்தை சுற்றியுள்ள பகுதிகளில் செவ்வாய்க்கிழமை (26) இரவு பெய்த கடும் மழை காரணமாக கட்டுநாயக்க விமான நிலையத்தில் தரையிறங்க வந்த 06 விமானங்கள் மத்தள மற்றும் இந்தியாவின் திருவனந்தபுரம் விமான நிலையங்களுக்கு திருப்பி விடப்பட்டதாக விமான நிலைய தகவல்கள் தெரிவிக்கின்றன.
 
+சென்னை, இந்தியா மற்றும் மாலே, மாலத்தீவில் இருந்து விமானங்களும், அபுதாபியில் இருந்து வந்த எதிஹாட் ஏர்லைன்ஸ் விமானமும் மத்தள விமான நிலையத்தில் தரையிறங்கியுள்ளன.
 
-
-Six flights diverted: Chennai, Male, Etihad Abu Dhabi to Mattala; three more to Thiruvananthapuram due to heavy rains at Katunayake airport on Tuesday night.
-
-🟩
-
-The airport sources said that six flights that landed at the Katunayake airport landed at the Katunayake airport due to heavy rains on Tuesday night (26).
-
-The flights from Chennai, India and Male, Maldives and Etihad Airlines from Abu Dhabi landed at Mattala Airport.
-
-In addition, three flights from Katunayake airport from Narida, Dubai and India in India have been diverted to the Thiruvananthapuram airport in India.
+மேலும், ஜப்பானின் நரிடா, டுபாய் மற்றும் இந்தியாவின் சென்னை ஆகிய இடங்களில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்த 03 விமானங்கள் இந்தியாவின் திருவனந்தபுரம் விமான நிலையத்திற்கு திருப்பி விடப்பட்டுள்ளன.
 
 ◼️
 
 [Data](articles/c9130fbd.json)
-
-[Extended Data](ext_articles/c9130fbd.ext.json)
 
 ---
 
@@ -220,8 +62,6 @@ Issuing a release in this regard on yesterday (26), the Chamber stated that this
 
 [Data](articles/fe28c951.json)
 
-[Extended Data](ext_articles/fe28c951.ext.json)
-
 ---
 
 ### ADB backs Sri Lanka’s growing investment potential in key sectors
@@ -237,34 +77,6 @@ The meeting, focused on investment prospects in critical areas such as climate c
 ...
 
 [Data](articles/26c19b7d.json)
-
-[Extended Data](ext_articles/26c19b7d.ext.json)
-
----
-
-### Today, many strong winds and heavy showers per hour
-
-*2024-11-27 09:36:14* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍ර-දේශවලට-පැයට-කිලෝමීටර්-60-වැඩි-සුළං-සහ-තද-වැසි/11-413300) · `si`
-
-Strong winds & heavy showers forecasted. Low pressure zone in SE Bay of Bengal affecting northern beaches. Winds exceeding 60-70 km/h. Meteorology Department warns of potential disruptions. Disaster Management Center advises public to contact 117 for coordination.
-
-🟩
-
-The low pressure zone in the Group West of the Southeast Bay of BengalThe Department of Meteorology has announced.
-
-The announcement states that this low pressure zone is increasing the north beach in the next few days due to the influence of the island in the next few days.
-
-Today, in many parts of the island today, there are strong winds over 60 -70 km / h.
-
-Therefore, the Department of Meteorology should address the announcements issued by the Department of Irrigation Department to pay close attention to the weather conditions and the people living in identified layoffs should pay close attention to this.
-
-The Disaster Management Center requests the public to make a telephone call to 117 to facilitate the necessary coordination in case of disaster risk.
-
-◼️
-
-[Data](articles/417552d8.json)
-
-[Extended Data](ext_articles/417552d8.ext.json)
 
 ---
 
@@ -542,24 +354,6 @@ The International Monetary Fund Managing Director, Christeleina says that the Sr
 
 ---
 
-### Sri Lanka central bank cuts rate with 8.00-pct policy rate from November
-
-*2024-11-27 07:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-cuts-rate-with-8-00-pct-policy-rate-from-november-190140/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has announced an 8.00 percent overnight policy rate dropping the earlier policy corridor, with its standing facilities kept at 8.50 percent to print money and 7.50 percent to take out excess liquidity.
-
-The new rate is 75 basis points below the mid-point of the last announcement where a corridor was bound by the central bank’s standing facilities.
-
-Sri Lanka’s central bank has operated broadly deflationary policy (generally withdrawing dollar purchased liquidity with outright sales of Treasuries taken to target call money rates and trigger the last currency crisis), at market rates that generated a balance of payments surplus.
-
-Amid currency appreciation allowed by the central bank, prices have fallen absolutely over the past 12 months (deflation).
-
-...
-
-[Data](articles/ebf053f4.json)
-
----
-
 ### Reservoirs and rivers of river
 
 *2024-11-27 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203783) · `si`
@@ -592,28 +386,6 @@ Meanwhile, the Department of Irrigation further stated that it is necessary to b
 
 ---
 
-### Sri Lanka to pay Rs130bn to banks for CPC debt in Rs219bn supplementary estimate
-
-*2024-11-27 07:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-rs130bn-to-banks-for-cpc-debt-in-rs219bn-supplementary-estimate-190135/) · `en`
-
-ECONOMYEXT – Sri Lanka will present a 219 billion rupee supplementary parliament to allocate funds for several expenditure items including a 130 billion rupee interest subsidy to banks for debts taken over by tax payers.
-
-The supplementary estimate will be within the approved expenditure and debt limits for the year 2024, the statement said.
-
-130,000 million rupees to the Department of Public Enterprises to pay an interest subsidy to banks on Ceylon Petroleum Corporation debt transferred to the balance sheet of the Government of Sri Lanka.
-
-18,000 million rupees to the Department of Treasury Operations to account for exchange losses on dollar balances from currency appreciation of accounts held by Deputy Secretary to Treasury.
-
-32,641 to the Department of Development Finance to pay interest subsidy to senior citizens
-
-9,829  million rupees to the Department of Education to account for the value of school uniform fabric given as a grant from the government of China.
-
-...
-
-[Data](articles/f12e4efc.json)
-
----
-
 ### In Sri Lanka ISB exchange, high creditor participation vital: IMF’s Georgieva
 
 *2024-11-27 07:15:00* · [`economynextcom`](https://economynext.com/high-creditor-participation-in-sri-lanka-isb-exchange-vital-imfs-georgieva-190109/) · `en`
@@ -631,24 +403,6 @@ A debt exchange launched on November 27, will provide significant external debt 
 [Data](articles/059a06ab.json)
 
 [Extended Data](ext_articles/059a06ab.ext.json)
-
----
-
-### In Sri Lanka ISB exchange, high creditor participation vital: IMF’s Georgieva
-
-*2024-11-27 07:15:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-isb-exchange-high-creditor-participation-vital-imfs-georgieva-190109/) · `en`
-
-ECONOMYNEXT – High creditor participation in an exchange of defaulted sovereign bonds for new securities is vital for the success of the International Monetary Fund program for Sri Lanka, Managing Director Kristalina Georgieva has said.
-
-A debt exchange launched on November 27, will provide significant external debt service relief and further contribute to restore Sri Lanka’s debt sustainability, and was as step forward, she said.
-
-“To capitalize on this momentum, rapid completion of the debt operation with high creditor participation would be vital for the success of the program,” Georgieva said in a statement.
-
-“In parallel, the authorities continue to finalize other remaining debt restructuring agreements. This collective effort is key to supporting the success of Sri Lanka’s debt restructuring efforts.”
-
-...
-
-[Data](articles/4def34a1.json)
 
 ---
 
@@ -723,24 +477,6 @@ In addition, the parents have been sent to the Foreign Ministry. (A)
 [Data](articles/0344219d.json)
 
 [Extended Data](ext_articles/0344219d.ext.json)
-
----
-
-### ’ரஷ்ய இராணுவத்தில் சேர்க்கப்பட்ட பிள்ளைகளை மீட்டுத் தாருங்கள்’
-
-*2024-11-27 06:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-இராணுவத்தில்-சேர்க்கப்பட்ட-பிள்ளைகளை-மீட்டுத்-தாருங்கள்/175-347839) · `ta`
-
-வடக்கு மாகாணத்தைச் சேர்ந்த 5 இளைஞர்கள் ரஷ்ய இராணுவத்தில் வலுக்கட்டாயமாகச் சேர்த்ததாகக் கூறப்படுவது தொடர்பில் அவர்களது பெற்றோர்களால் வடக்கு மாகாண ஆளுநர் நா.வேதநாயகனிடம் முறைப்பாடு செய்யப்பட்டது.
-
-யாழ்ப்பாணம், கரவெட்டி, முள்ளியவளையைச் சேர்ந்த இளைஞர்களின் பெற்றோர்களே ஆளுநர் செயலகத்தில் நேற்று  (27) ஆளுநரை நேரில் சந்தித்து இந்தக் கோரிக்கையை முன்வைத்தனர்.
-
-இதனையடுத்து, ஆளுநர் உடனடியாக வெளிவிவகார அமைச்சின் செயலாளரைத் தொலைபேசியில் தொடர்பு கொண்டு விடயத்தைத் தெரியப்படுத்தினார்.
-
-அத்துடன், பெற்றோர்களிடம் அவர்களது விவரங்களைப் பெற்று வெளிவிவகார அமைச்சுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/cd406f04.json)
 
 ---
 
@@ -1014,26 +750,6 @@ A ground-breaking study by researchers Saviesha Samaraweera and Isuru Manawadu f
 
 ---
 
-### Sri Lanka budget 2025 on February 17
-
-*2024-11-27 05:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-2025-on-february-17-190188/) · `en`
-
-ECONOMYNEXT – Sri Lanka will present a budget for 2025 on February 17, in line with the mandate of the administration and its development plans, cabinet spokesman and media minister Nalinda Jayatissa said.
-
-The Appropriation Bill with allocations will be released on January 09.
-
-A call will go to all ministries to submit their proposals during the first two weeks of December 2024 he said.
-
-The budget will be debated during February 27 and March 21, Minister Jayatissa said.
-
-Sri Lanka will present a four month vote-on-account which will debated from December 05 and 06 in parliament, to last until the budget is passed, he said. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/6114ad0b.json)
-
----
-
 ### Cabinet nod to present Interim Budget for first four months  of 2025
 
 *2024-11-27 05:37:19* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-present-Interim-Budget-for-first-four-months-of-2025/34-769731) · `en`
@@ -1051,8 +767,6 @@ The proposal to this effect presented by the President Anura Kumara Dissanayake 
 ◼️
 
 [Data](articles/749e1665.json)
-
-[Extended Data](ext_articles/749e1665.ext.json)
 
 ---
 
@@ -1072,8 +786,6 @@ It added that out of six bidders, BB Energy (Asia) Ltd., was selected to award t
 
 [Data](articles/6e0fc361.json)
 
-[Extended Data](ext_articles/6e0fc361.ext.json)
-
 ---
 
 ### Ceylon Chamber welcomes staff-level agreement for 3rd review of IMF program
@@ -1089,8 +801,6 @@ The Ceylon Chamber of Commerce yesterday welcomed the announcement of a staff-le
 ◼️
 
 [Data](articles/b4a1a599.json)
-
-[Extended Data](ext_articles/b4a1a599.ext.json)
 
 ---
 
@@ -1110,8 +820,6 @@ Similarly, confidence in trade unions and parliament showed positive shifts foll
 
 [Data](articles/d1229309.json)
 
-[Extended Data](ext_articles/d1229309.ext.json)
-
 ---
 
 ### Bus owner arrested and route permit revoked following passenger assault
@@ -1127,8 +835,6 @@ According to Gunarathne’s police complaint, the issue began when the bus halte
 ...
 
 [Data](articles/f7082487.json)
-
-[Extended Data](ext_articles/f7082487.ext.json)
 
 ---
 
@@ -1175,16 +881,6 @@ The outlooks of two special purpose vehicles linked to Adani Green Energy Limite
 ...
 
 [Data](articles/73ece48c.json)
-
----
-
-### Karma & Grace: Religious Difference In Millennial Sri Lanka
-
-*2024-11-27 05:23:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/karma-grace-religious-difference-in-millennial-sri-lanka/) · `en`
-
-...
-
-[Data](articles/5f2ec27a.json)
 
 ---
 
@@ -2201,5 +1897,369 @@ Also, inferior lands, including roads including Ampara Maha Oya and Damana areas
 [Data](articles/4f45cfb9.json)
 
 [Extended Data](ext_articles/4f45cfb9.ext.json)
+
+---
+
+### Most Mustain E8 visa racket - 3
+
+*2024-11-26 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203771) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Mustain E8 visa racket exposed. Ada Derana hawk linked to Foreign Employment Bureau raid unit. Financial fraud uncovered involving controversial E-8 visas. Investigation leads to arrests. Further arrests ongoing.
+
+🟩
+
+Ada Derana hawk was associated with the Raid Unit of the Foreign Employment Bureau to cover up a financial fraud to the e-8 visa method that would be provided through the controversial E-8 visas.
+
+The racket of the Foreign Employment Unit of the Foreign Employment Unit had received complaints about a racket that would be provided with employment opportunities in South Korea under the e-8 visa.
+
+They have complained that the racketeers had obtained about Rs.
+
+Accordingly, the raid unit initiated an investigation into the racket of racket, "Derana" hawk is added.
+
+Investigations were conducted to submit two racketeers to the Department of Registration of Persons in Battaramulla.
+
+The information was revealed about a woman in Kottawa, who was involved in the racket of Yakkala and Galagedara.
+
+According to the investigation officials to arrest the woman, she said she was calling on her home.
+
+However, when we went to her home, residents said that she was not home.
+
+...
+
+[Data](articles/fb6e1abb.json)
+
+[Extended Data](ext_articles/fb6e1abb.ext.json)
+
+---
+
+### Manampitiya - Maha Oya Road
+
+*2024-11-26 19:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னம்பிட்டி-மகா-ஓயா-வீதி-மூடப்பட்டுள்ளது/175-347818) · `ta`
+
+Here's a summary of Manampitiya - Maha Oya Road in approximately 200 characters:
+
+
+
+Manampitiya-Maha Oya Road connects the towns of Manampitiya and Maha Oya in Sri Lanka. It spans about 30 km, passing through rural areas and small villages. The road conditions vary, with some sections being paved and others unpaved. It serves as a vital transportation route for local residents and farmers transporting goods to nearby markets. The road also provides access to nearby attractions like waterfalls and hiking trails.
+
+🟩
+
+◼️
+
+[Data](articles/b403b533.json)
+
+[Extended Data](ext_articles/b403b533.ext.json)
+
+---
+
+### A / L examination 27,28, and 29
+
+*2024-11-26 19:22:44* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විභාගය-27-28---හා-29--නොපැවැත්වේ/11-413296) · `si`
+
+GCE A/L exams suspended 27-29 due to bad weather. Rescheduled for Dec 21 & 23, maintaining original timing.
+
+🟩
+
+The Department of Examinations has decided to suspend the GCE Advanced Level Examination in the next three days due to the bad weather.
+
+Accordingly, the A / L examination subject to A / L examination will not be held tomorrow (27), 28 and 29. Amit Jayasundara says
+
+The examination will be held on December 21 and 29, the examination will be held on the 21st and 23 of the end of the time of the existing schedule and will be the examination.Issuing a press release issued.
+
+◼️
+
+[Data](articles/d7105e84.json)
+
+[Extended Data](ext_articles/d7105e84.ext.json)
+
+---
+
+### The coconut lorry Rs. 150 crores of drugs
+
+*2024-11-26 19:09:44* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-ලොරියේ-රු--කෝටි-150ක-මත්ද්‍රව්‍ය/11-413295) · `si`
+
+Coconut lorry hides 150 crore drugs. Arrests made in Uva region. 240 kg heroin seized. Two suspects linked to Shantha brothers. Police raid leads to major drug bust.
+
+🟩
+
+A large number of ice and seventy kilos of Hargest drug dealer and organized criminal were arrested in Uw ම් sthahinge and two hundred and forty kilos of heroin.
+
+It is said that the stock of drugs taken into custody is said to be over Rs.
+
+The arrests were two brother-in-law of St., who was residing in Uva, Borella (41) and Talawatugoda (31).
+
+According to information received by the Special Task Force of the Special Task Force 3, the three Special Operations have been raided in the Meema Police Division.
+
+The STF was found in a lorry that was hidden in a lorry in the Meloss Round for a house in the Meegoda area.
+
+The police said that 42 m kilos of ice and 2950 g of heroin had been weighing the stock of drugs.
+
+Accordingly, two persons arrested by two persons were arrested in their arrest and were revealed that they were the brother-in-law of Shantha, who was involved in him.
+
+...
+
+[Data](articles/1d1d5049.json)
+
+[Extended Data](ext_articles/1d1d5049.ext.json)
+
+---
+
+### Govt. Ansesen on the restructuring of international sovereignties
+
+*2024-11-26 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203770) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka restructuring international sovereign bonds: New bonds replace existing ones, $12.5B shortage addressed. Bondholders have 3 weeks to exchange. IMF approval sought. Goal: Economic recovery through debt restructuring.
+
+🟩
+
+The Ministry of Finance announced that Sri Lanka's international sovereignty in Sri Lanka will be launched through new bonds for existing bonds.
+
+At least the shortage of bonds that were scarce was $ 12.55 billion and the bonds will be restructured.
+
+Cabinet spokesperson Minister Nalinda Jayatissa said Cabinet spokesman Nalinda Jayatissa said that the cabinet was approved for the process.
+
+Bond-to-owned bond parties have been given three weeks to exchange their bonds with new bonds.
+
+Sri Lanka has requested the bond owners to join the exchange process.
+
+The Ministry of Finance stated that the Ministry of Finance has discussed the unique facts in new tools.
+
+The purpose was that all parties would make this process as best for all parties.
+
+Policy agreement with two bond station was reached on September 19, 2024. One of the party comprises international investors and the other party consists of local financial institutions.
+
+...
+
+[Data](articles/db4f8108.json)
+
+[Extended Data](ext_articles/db4f8108.ext.json)
+
+---
+
+### Floods risk for more parts of the East
+
+*2024-11-26 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203769) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Flooding risk in Maha Oya, Eravurpattu, Kolalapattu, Koralippattu, Ampara District due to heavy rainfall. Residents advised to be vigilant. Disaster Management sectors taking necessary steps.
+
+🟩
+
+The IMPAGPPPPPPAPAVAILIES'S department is informed that there is a risk of floods in the Maha Oya and Eravurpattu and Kolalapattu and Koralippattu in the Ampara District.
+
+The Department of Irrigation says that this situation has occurred due to the heavy rainfall from the Ampara and Batticaloa Districts yesterday (25).
+
+Therefore, the public residents of those areas are asked to be vigilant and to protect into a catering flood.
+
+Disaster Management Sectors have been asked to take necessary steps to take appropriate action.
+
+◼️
+
+[Data](articles/80dbd2de.json)
+
+[Extended Data](ext_articles/80dbd2de.ext.json)
+
+---
+
+### India seizes 5.5 tonnes of Myanmar meth in ‘biggest’ drug bust
+
+*2024-11-26 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103790/india-seizes-55-tonnes-of-myanmar-meth-in-biggest-drug-bust) · `en`
+
+India’s coast guard said Tuesday they had seized their biggest haul of illicit drugs when they stopped a fishing boat smuggling 5.5 tonnes of methamphetamine from war-torn Myanmar.
+
+An Indian Coast Guard (ICG) reconnaissance air patrol spotted a small fishing boat in the Andaman Sea — which lies between India and troubled Myanmar — “operating in a suspicious manner.”
+
+A coastguard vessel was sent out, with officers boarding at dawn Sunday when the fishing boat with a crew of six Myanmar citizens entered Indian territorial waters, the coastguard statement added.
+
+“The boarding party found approximately 5,500 kilograms of prohibited drug methamphetamine,” it read.
+
+“The seizure is the biggest-ever drug haul by ICG, highlighting its commitment to safeguarding Indian territorial waters.”
+
+Myanmar has been in turmoil since the military deposed Aung San Suu Kyi’s elected government in 2021 and launched a crackdown that sparked an armed uprising.
+
+...
+
+[Data](articles/8e5ee8cc.json)
+
+[Extended Data](ext_articles/8e5ee8cc.ext.json)
+
+---
+
+### 5,500 kg of ice drugs
+
+*2024-11-26 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203768) · `si`
+
+Indian Coast Guard seizes 5500kg ice drugs, largest haul ever. Junior vessel detained, crew arrested. International media reports.
+
+🟩
+
+The Indian Coast Guard has taken a junior vessel carrying 5,500 kg by the Indian Coast Guard.
+
+International media states that they have been arrested by the Venerable Sea.
+
+This is the largest drug seized by the Indian Coast Guard.
+
+◼️
+
+[Data](articles/ee684e98.json)
+
+[Extended Data](ext_articles/ee684e98.ext.json)
+
+---
+
+### 145 669 tourists arrived in November
+
+*2024-11-26 18:47:45* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බරයේදී-සංචාරකයන්-145-669ක්-ඇවිත්/11-413294) · `si`
+
+In November 2023, 151,496 tourists visited Sri Lanka. This exceeds the 145,669 issued in November 2024. The country aims for 2 million tourists in 2023, with 223,616 needed for the remainder of the year.
+
+🟩
+
+Sri Lanka Tourism Development Authority (SLTB) has issued 145 669 tourists from November 24. 151 496 tourists had arrived in Sri Lanka for November 2023. Accordingly, in November 2024 there is an opportunity to help exceed the value.
+
+There were 195 582 tourists in November 2018, the year 2018.Sri Lanka has arrived in Sri Lanka this year 1 766 384. The number of the year's target tourists is two million. Accordingly, 223 616 tourists must attend the rest of this year.
+
+◼️
+
+[Data](articles/f1b2ee10.json)
+
+[Extended Data](ext_articles/f1b2ee10.ext.json)
+
+---
+
+### 480 people from 148 families in Mullaitivu district
+
+*2024-11-26 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199778) · `ta`
+
+Rainfall affects 480 people in Mullaitivu district; 193 displaced in Manthai East, 153 in Oddusuttan. Floods increase pond water levels and store water in lowlands. Assistance from disaster management, police, and military ongoing.
+
+🟩
+
+480 people from 148 families have been affected due to continuous rainfall in the Mullaitivu district, the District Disaster Management Unit said.
+
+Due to the prevailing rains, the water level of the ponds in the Mullaitivu district has increased and the flood water has been stored in the lowland areas.
+
+As a result of this, 193 persons from 56 families in the Manthai East Divisional Secretariat, 78 persons from 24 families in the Karaithuraipattu Divisional Secretariat, 153 from 50 families in the Oddusutan Divisional Secretariat and 56 members of the Pudukkudiyiruppu Divisional Secretariat.In the report of the division.
+
+People from the Oddusuttan Divisional Secretariat Division. At the school, 153 people from 50 families have been placed in the intermediate camp and the other are in relatives.
+
+...
+
+[Data](articles/2a896669.json)
+
+[Extended Data](ext_articles/2a896669.ext.json)
+
+---
+
+### Maithri's confession
+
+*2024-11-26 18:30:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-வாக்குமூலம்-பதிவு/175-347815) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Commission investigates Maithripala Sirisena bribery claim over Royal Park murder pardon. Complaint filed by SLFP member Montek Sarachandra.
+
+🟩
+
+The Commission to Investigate Former President Maithripala Sirisena has filed a statement today (26) on bribery or corruption.
+
+The Commission said that he was invited for an investigation into the allegations that the former president had bribed the president for pardoning Royal Park's murder.
+
+Former President Maithripala Sirisena and/or Parliamentarian Athuraliye Ratna TheraComplaint.
+
+The complaint has been lodged by Montek Sarachandra, a member of the Sri Lanka Freedom Party (SLFP) executive committee.
+
+In 2005, Jayamaha was sentenced to death for the murder of Ivan Johnson at the Royal Park Condominium Complex in Rajagiriya.
+
+◼️
+
+[Data](articles/52f8849a.json)
+
+[Extended Data](ext_articles/52f8849a.ext.json)
+
+---
+
+### Local Consortium of Sri Lanka commits support for govt’s ISB restructuring
+
+*2024-11-26 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103789/local-consortium-of-sri-lanka-commits-support-for-govts-isb-restructuring) · `en`
+
+The Local Consortium of Sri Lanka (LCSL), comprised of domestic commercial banks and financial institutions, has committed its full support for the Exchange Offer and Consent Solicitation launched today by the Government of Sri Lanka to restructure the US$12.55bn in outstanding International Sovereign Bonds (ISBs) including terms tailored for local holders.
+
+This follows the agreement-in-principle reached in September 2024 with the Government on key financial terms.
+
+“All members of the LCSL intend to participate in the ISB restructuring, which will provide the Government with substantial debt relief.  This will be in addition to the support provided to the Government and wider economy since the foreign currency default in April 2022,” the LCSL statement said.
+
+The restructuring of the ISBs will also cure the sovereign debt default, support the restoration of macroeconomic stability and ensure debt sustainability in the context of the Sri Lanka IMF programme, it said.
+
+...
+
+[Data](articles/7df7ff1f.json)
+
+[Extended Data](ext_articles/7df7ff1f.ext.json)
+
+---
+
+### 'Sudu Kaavum 2' a Fun Film - Mirchi Siva
+
+*2024-11-26 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199772) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Sudu Kaavum 2" is a comedy film starring Mirchi Siva. It's a sequel set in 2024, continuing the story from 2013. The movie features a fun storyline with a mix of comedy and entertainment. It will be released in theaters soon.
+
+🟩
+
+Mirchi Siva, the hero of the film, said, "The first part of the film is the first part of the film, the second part of the film."
+
+Introducing Director S.. J.. Mirchi Siva, Harisha Justin, Karunakaran, Wagai Chandrasekhar, M. S.. Bhaskar, Radha Ravi, Arul Das and many others have been cast.
+
+Edwin Louis Viswanath - Hari has composed the film, which has been recorded by Karthik Dilli.. Producers C. V.. Kumar and S. Thangaraj has co -produced.
+
+The film will be held in Chennai on December 13 at the film House.. The film crew participated in the event.
+
+Actor Mirchi Siva, who plays the hero in it, said, “I met the producer for this film at his office.. We are planning to create the second part of the movie 'Sudu Kaavum' at that moment. In it he asked you to act as the hero.
+
+...
+
+[Data](articles/6b9f0ea8.json)
+
+[Extended Data](ext_articles/6b9f0ea8.ext.json)
+
+---
+
+### Local holders to join Sri Lanka bond exchange
+
+*2024-11-26 18:17:00* · [`economynextcom`](https://economynext.com/local-holders-to-join-sri-lanka-bond-exchange-190044/) · `en`
+
+ECONOMYNEXT – Domestic holders of Sri Lanka’s defaulted sovereign bonds said they will participate in an exchange of new bonds, which they negotiated together with foreign investors in the securities.
+
+“All members of the LCSL intend to participate in the ISB restructuring, which will provide the Government with substantial debt relief,” the group said in statement.
+
+Local investors, mostly banks, hold about 12 percent of the defaulted 12.55 billion dollars of securities.
+
+“We are pleased to have reached this critical turning point following more than two years of discussions,” Sanath Manatunge, Chairman of the Local Consortium of Sri Lanka who is the chief executive of Commercial Bank of Ceylon said.
+
+“This restructuring will help restore macroeconomic stability and encourage investment in the local economy to the benefit of the people of Sri Lanka.
+
+...
+
+[Data](articles/e0b2656a.json)
+
+[Extended Data](ext_articles/e0b2656a.ext.json)
 
 ---

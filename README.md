@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 01:11:18**
+As of **2024-11-28 01:26:13**
 
 ## Newspaper Stats
 
-*Scraped **57,299** Articles*
+*Scraped **57,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
 economynextcom | 3,486
-dailyftlk | 3,940
+dailyftlk | 3,943
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
@@ -26,11 +26,41 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,299 (100.0%) of 57,299 articles have been extended.
+57,299 (100.0%) of 57,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### OPR: CBSL’s latest monetary policy tool
+
+*2024-11-28 00:53:38* · [`dailyftlk`](https://www.ft.lk/columns/OPR-CBSL-s-latest-monetary-policy-tool/4-769779) · `en`
+
+Under a single policy interest rate mechanism, it is easier for the Central Bank to communicate its monetary policy stance to financial markets, the public, and other stakeholders
+
+The Central Bank formally announced its transition to a single policy interest rate mechanism, effective 27 November 2024. This marks a significant milestone in the evolution of monetary policy in Sri Lanka. A single policy interest rate mechanism enhances the clarity of the Central Bank’s monetary policy stance by establishing a clear target for overnight interbank call market interest rates. Under this mechanism, the Central Bank introduced the Overnight Policy Rate (OPR) as its primary monetary policy tool to signal and operationalise its monetary policy stance. This transition is expected to enhance the efficiency and effectiveness of monetary policy signalling and transmission to the financial markets and the broader economy.
+
+...
+
+[Data](articles/b0871355.json)
+
+---
+
+### Aragalaya movement has now ended
+
+*2024-11-28 00:47:14* · [`dailyftlk`](https://www.ft.lk/columns/Aragalaya-movement-has-now-ended/4-769778) · `en`
+
+The Aragalaya can now be declared over. What some elements of the population sought to do – bulldoze Parliament – has been achieved via the popular vote
+
+Sri Lankans say they have short memories. But the 2024 elections show otherwise
+
+The Aragalaya or the struggle started in March 2022 and ended in November 2022 with the ouster and resignation of then President Gotabaya Rajapaksa. It was the result of deep and unprecedented public anger at the events of the previous year when in 2021 there was a complete breakdown of the economy, fuel and electricity and cooking gas were not available and people were in dire straits due to high double digit inflation. Sri Lanka then declared bankruptcy and till Indian assistance came in form of a much needed dollar infusion plus a good word with the IMF, Sri Lanka seemed to be on the brink.
+
+...
+
+[Data](articles/ccc05537.json)
+
+---
 
 ### New Secretaries appointment to two ministries
 
@@ -93,6 +123,18 @@ This article is an analytical review aimed at evaluating the NPP’s growth and 
 [Data](articles/625a3b61.json)
 
 [Extended Data](ext_articles/625a3b61.ext.json)
+
+---
+
+### Political sociology of JVP-NPP avalanche, establishment collapse and Opposition free-fall
+
+*2024-11-27 23:22:53* · [`dailyftlk`](https://www.ft.lk/columns/Political-sociology-of-JVP-NPP-avalanche-establishment-collapse-and-Opposition-free-fall/4-769771) · `en`
+
+The most memorable visual image of Sri Lanka’s new Parliamentary session, the first to be opened by newly-elected leftwing President Anura Kumara Dissanayake, was also the moment that best symbolized the primarily progressive character or aspect of his presidency and the JVP-NPP victory. It is when he opened his car door unaided, stepped out of it in the same outfit he wore as an MP, and beamed. That, and dispensing with religio-cultural rituals that always precede or accompany such occasions here, though not in any legislature of a Republic anywhere else, extended the promise of the first fully modern Sri Lanka presidency and administration.
+
+...
+
+[Data](articles/916eb995.json)
 
 ---
 
@@ -2535,75 +2577,5 @@ Sabaragamuwa Provincial Health Services Dr. Kapila Kannangara said that if the r
 [Data](articles/0fbec770.json)
 
 [Extended Data](ext_articles/0fbec770.ext.json)
-
----
-
-### Adani issue in Parliament
-
-*2024-11-27 12:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதானி-விவகாரத்தால்-பாராளுமன்றத்தில்-அமளி-இரு-அவைகளும்-ஒத்திவைப்பு/175-347859) · `ta`
-
-Here's a summary of the Adani issue in Parliament in 200 characters:
-
-
-
-Opposition parties demand discussion on Adani issue, leading to repeated adjournments in both Houses. BJP MP Arun Temple criticizes social media and OTT platforms. Union Minister Vaishnav promises strict laws to protect Indian culture. Chaos ensues, with Speaker Om Birla struggling to maintain order.
-
-🟩
-
-In both Houses of Parliament, the opposition parties engaged in a series of stories, demanding that the question be postponed and discussed the Adani issue. Due to a series of flaming, both Houses of Parliament were postponed throughout the day.
-
-Both Houses of Parliament gathered at 11 am today. When the Lok Sabha assembled, the BJP member of the BJP, Arun Temple, accused the social media and ODT sites of being pornographic and that they were unable to see their family.. He also urged strict law to control this. Arun Temple questioned what action the government would take in this regard.
-
-Responding to this, Union Minister of Communications Aswini Vaishnav said, “Member Arun Temple has raised the most important question.. Social media is operated from some countries. Those countries have a different kind of culture. Similarly, ODI sites are also pornography. The law will be enacted on the benefit of our culture and society. The government needs the cooperation of all parties. ”
-
-...
-
-[Data](articles/7f666547.json)
-
-[Extended Data](ext_articles/7f666547.ext.json)
-
----
-
-### Sri Lanka deflation not harmful, economy growing: CB Governor
-
-*2024-11-27 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-not-harmful-to-the-economy-cb-governor-190234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current deflation is not harmful to the economy and is a correction from previous very high inflation, Central Bank Governor Nandalal Weerasinghe said.
-
-The deflation is reducing the cost of living for the people and also the cost of production of companies, he said.
-
-“It comes after very high inflation,” Governor Weerasinghe told reporters Wednesday after reducing its policy rate to 8.0 percent from an earlier corridor of 9.25 to 8.25 percent.
-
-Sri Lanka’s deflation is expected to continue in the near term, he said.
-
-Sri Lanka’s economy has been recovering and the economy is growing around 4.5 percent amid the price falls, Governor Weerasinghe said. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/8a8c444f.json)
-
-[Extended Data](ext_articles/8a8c444f.ext.json)
-
----
-
-### Sri Lanka deflation not harmful, economy growing: CB Governor
-
-*2024-11-27 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-not-harmful-economy-growing-cb-governor-190234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current deflation is not harmful to the economy and is a correction from previous very high inflation, Central Bank Governor Nandalal Weerasinghe said.
-
-The deflation is reducing the cost of living for the people and also the cost of production of companies, he said.
-
-“It comes after very high inflation,” Governor Weerasinghe told reporters Wednesday after reducing its policy rate to 8.0 percent from an earlier corridor of 9.25 to 8.25 percent.
-
-Sri Lanka’s deflation is expected to continue in the near term, he said.
-
-Sri Lanka’s economy has been recovering and the economy is growing around 4.5 percent amid the price falls, Governor Weerasinghe said. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/bfb6edff.json)
-
-[Extended Data](ext_articles/bfb6edff.ext.json)
 
 ---

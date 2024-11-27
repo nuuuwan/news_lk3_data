@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 17:43:36**
+As of **2024-11-27 18:03:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,886
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,228 (100.0%) of 57,253 articles have been extended.
+57,233 (100.0%) of 57,253 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -182,39 +182,63 @@ It is also notified to create a ground level strong mechanism.
 
 ---
 
-### தொழில்நுட்ப தகவல்களை மாத்திரம் அடிப்படையாகக் கொள்ளாமல், அனர்த்தங்களை எதிர்கொண்ட பிரதேசங்களுக்கு சென்று மக்களுக்கு உடனடி நிவாரணங்களை வழங்க வேண்டும் - ஜனாதிபதி  அறிவுறுத்தல்
+### Instead of not only based on technical information, go to areas where disasters should go to areas and provide immediate relief to the people - the President's instruction
 
 *2024-11-27 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199865) · `ta`
 
-தொழில்நுட்ப தகவல்களை மாத்திரம் அடிப்படையாக கொண்டு செயற்படாமல் அனர்த்தங்களுக்கு முகங்கொடுத்துள்ள பிரதேசங்களுக்கு சென்று தகவல்களை பெற்றுக்கொண்டு, மக்களுக்கு அவசியமான நிவாரணங்களை உடனடியாக வழங்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதி அநுரகுமார திசாநாயக்க அதிகாரிகளுக்கு அறிவுறுத்தல் விடுத்துள்ளார்.
+Here's a summary of 200 characters:
 
-அதற்காக கீழ் மட்டத்திலிருந்து வலுவான பொறிமுறையொன்றை ஏற்படுத்த நடவடிக்கை எடுக்குமாறும் ஜனாதிபதி வலியுறுத்தினார்.
 
-அனர்த்தங்களினால் பாதிக்கப்பட்டுள்ள மக்களுக்கு உடனடி நிவாரணங்கள் வழங்குவது தொடர்பில் அரச அதிகாரிகளுடன் இன்று புதன்கிழமை (27) ஜனாதிபதி செயலகத்தில் நடைபெற்ற கலந்துரையாடலின்போதே ஜனாதிபதி அநுரகுமார திசாநாயக்க இதனைத் தெரிவித்தார்.
 
-அனர்த்தங்களினால் பாதிக்கப்பட்ட மக்களை பாதுகாப்பான நிலையங்களில் தங்க வைத்து தேவையான உணவு மற்றும் மலசலகூட வசதி வழங்க நடவடிக்கை எடுக்குமாறும் ஜனாதிபதி ஆலோசனை வழங்கினார்.
+Pres. Anura Kumara Dissanayake instructs aid to disaster-hit areas immediately. Allocates funds for relief. Focuses on Northern & Eastern Provinces. Advises safe centers, food, shelter. Prioritizes student support & fisherman safety.
 
-பாதிக்கப்பட்ட மக்களுக்கு உதவி வழங்கத் தேவையான அளவு நிதி ஒதுக்கப்பட்டுள்ளதாகவும் அவர் அதிகாரிகளுக்கு தெரிவித்தார்.
+🟩
+
+President Anura Kumara Dissanayake has instructed the authorities to go to areas where the technical information is not only based on the disasters and get information and provide immediate relief to the people.
+
+The President also urged the government to take steps to establish a strong mechanism from the lower level.
+
+President Anurakumara Dissanayake made this statement during a discussion held at the Presidential Secretariat today (27) with government officials on Wednesday (27).
+
+The President also advised the people who were affected by the disasters to stay in safe centers and provide necessary food and rectal facilities.
+
+He told the authorities that the necessary funds have been allocated to help the affected people.
+
+The President also advised the authorities to make the necessary funds to provide relief to the people affected by the inclement weather.
+
+Due to the inclement weather, it was also discussed on the high focus on the Northern and Eastern Provinces.
 
 ...
 
 [Data](articles/61143892.json)
 
+[Extended Data](ext_articles/61143892.ext.json)
+
 ---
 
-### மாவீரர் தின நினைவேந்தல்
+### Heroes Day
 
 *2024-11-27 16:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-தின-நினைவேந்தல்/175-347878) · `ta`
 
-மாவீரர் தின நினைவேந்தல் நல்லூரிலுள்ள தியாக தீபம் திலீபனின் நினைவுத் தூபியில் புதன்கிழமை (27)  நடைபெற்றது.
+Here's a summary of 200 characters:
 
-வடக்கு மாகாண சபையின் முன்னாள் உறுப்பினர் எம்.கே.சிவாஜிலிங்கம் தலைமையில் பொதுசுடரேற்றி மலரஞ்சலி செலுத்தப்பட்டது.
 
-இதன் போது தியாகி திலீபனின் நினைவுத் தூபி முன்பாகவும் அதன் அருகில் அமைக்கப்பட்டுள்ள மாவீர்ர் நினைவாலயம் முன்பாகவும் சிவாஜிலிங்கம் தலைமையிலான நினைவேந்தல் அனுஷ்டிக்கப்பட்டது.
+
+Heroes Day: Sacrificial fire at Nivendal Nallur. MK Sivajilingam leads public service. Memorials observed at Dileepan and Maiwar memorials.
+
+🟩
+
+The sacrificial fire at the Heroes' Day Nivendal Nallur was held on Wednesday (27) at Dileepan's memorial.
+
+Former Member of the Northern Provincial Council MK Sivajilingam led a public service.
+
+During this time, the memorial led by Sivajilingam was observed in front of the martyr Dileepan's memorial and the Maiwar Memorial in front of it.
 
 ◼️
 
 [Data](articles/2a7fec12.json)
+
+[Extended Data](ext_articles/2a7fec12.ext.json)
 
 ---
 
@@ -234,49 +258,69 @@ Dr. Kannangara emphasized that if leptospirosis disease, also known as ‘rat fe
 
 [Data](articles/34e436ab.json)
 
+[Extended Data](ext_articles/34e436ab.ext.json)
+
 ---
 
-### சீரற்ற வானிலை காரணமாக தம்பலகாமம் பகுதியில் போக்குவரத்து பாதிப்பு
+### Traffic impacts in Thambalakamam area due to random weather
 
 *2024-11-27 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199860) · `ta`
 
-தற்போது ஏற்பட்டுள்ள சீரற்ற வானிலை காரணமாக தம்பலகாமம் பிரதேச செயலகத்துக்குட்பட்ட தாயிப் நகர் கோயிலடி வைத்தியசாலை வீதியின் ஒரு பகுதி உடைந்துள்ளதால் போக்குவரத்து தடைப்பட்டுள்ளது.
+Thambalakamam area faces traffic disruptions due to heavy rainfall. Floods affect residential and agricultural lands. Divisional Secretariat operates pumps to drain water. Public advised to use alternative routes. Disaster Management Center implements relief measures.
 
-எனவே இவ் வீதி ஊடாக பயணிப்பதை தவிர்த்து மாற்று வழி ஊடாக பொது மக்களை பயணிக்குமாறு தம்பலகாமம் பிரதேச செயலகம் பொது மக்களை கேட்டுள்ளது. கன மழை  காரணமாக தம்பலகாமம் பகுதியில் உள்ள பல தாழ் நிலங்கள் வெள்ளத்தில் மூழ்கியுள்ளதுடன் மக்களின் இயல்பு நிலையும் பாதிக்கப்பட்டுள்ளது.
+🟩
 
-முள்ளியடி பகுதியில் விவசாய நிலங்கள் உட்பட மக்களின் குடியிருப்பு பகுதிகளிலும் நீர் புகுந்துள்ளதால் பல அசௌகரியங்களை எதிர் நோக்குவதாக மக்கள் தெரிவிக்கின்றனர்.
+Due to the inclement weather, the traffic has been blocked as part of the Thaipalakam Divisional Secretariat, Thaipagam Nagar Temple Hospital, has been broken.
 
-நீரில் மூழ்கியுள்ள பகுதிகளில்  மேலதிக நீரை வெளியேற்ற பிரதேச செயலகம் ஊடாக மும்முரமாக பெகோ இயந்திரம் ஊடாக நடை முறைப்படுத்தி வருகின்றனர்.
+Therefore, the Thambalakamam Divisional Secretariat has asked the public to travel through the road and travel through the road.. Due to heavy rains, many low -lying lands in the Thambalakamam area have been flooded and the normalcy of the people has been affected.
 
-அனர்த்த முகாமைத்துவ மத்திய நிலையம் ஊடாக பல்வேறு நடவடிக்கைகளும் இடம் பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+People say they are facing many inconveniences due to water in the residential areas of the people, including agricultural lands in the Mulliyadi area.
+
+In the submerged areas, the Divisional Secretariat is busy through the Bego machine to discharge more water.
+
+It is noteworthy that various measures are being taken through the Disaster Management Center.
 
 ◼️
 
 [Data](articles/3a7449aa.json)
 
+[Extended Data](ext_articles/3a7449aa.ext.json)
+
 ---
 
-### ඩෑන් ප්‍රියසාද් - මහින්ද කහඳගම ඇතුළු තිදෙනෙකු අත්අඩංගුවට ගන්නැයි වරෙන්තු
+### Warrants to be arrested for arrested by Dan Priyasad - Mahinda Kahandagama
 
 *2024-11-27 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203804) · `si`
 
-ඩෑන් ප්‍රියසාද්, මහින්ද කහඳගම ඇතුළු සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස කොටුව මහෙස්ත්‍රාත් තනුජා ලක්මාලි අද (27) වරෙන්තු නිකුත් කළාය.
+Here's a summary of 200 characters:
 
-ඒ, ගාලු මුවදොර අරගල භූමියට (ගෝඨා ගෝ ගම) පහරදුන් සිද්ධියේ නඩුවට අදාළව ය.
 
-එහිදී එම සිද්ධියට සැකකරුවන් ලෙස නම්කර සිටි හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු ඇතුළු ඇප මත සිටින සැකකරුවන් සියලුදෙනා අධිකරණය හමුවේ පෙනී සිටියහ.
 
-නමුත්, මෙම සිදුවීමේ සැකකරුවන් ලෙස නම්කර සිටින ඩෑන් ප්‍රියසාද්, මහින්ද කහඳගම ඇතුළු තිදෙනෙක් අධිකරණය හමුවේ පෙනී සිටියේ නැත.
+Arrest warrants issued for Dan Priyasad, Mahinda Kahandagama, and others related to Galle Face incident. Suspects including former Minister Johnston Fernando released on bail. Court orders production of Dan Priyasad and Mahinda Kahandagama. CID investigation complete, case sent to Attorney General for instructions on March 26, 2025.
 
-එහිදී ඔවුන් වෙනුවෙන් පෙනී සිටි නීතීඥවරුන් අධිකරණය හමුවේ  පවසා සිටියේ අදාළ සැකකරුවන් මේ වනවිට විදෙස්ගතව සිටින බවය.
+🟩
 
-ඒ අනුව, කොටුව මහෙස්ත්‍රාත් තනූජා ලක්මාලි විසින් ඩෑන් ප්‍රියසාද්, මහින්ද කහඳගම ඇතුළු සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස වරෙන්තු නිකුත් කළාය.
+Fort Maguna Lakmali issued a warrant at this program to be arrested and produced before courts and three suspects.
 
-මෙහිදී අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව අධිකරණයට වැඩිදුර වාර්තාවක් ඉදිරිපත් කරමින් කියා සිටියේ විමර්ශන අවසන් කර උද්ධෘත නීතිපතිවරයා වෙත යවා තිබෙන බවය.
+It is relevant to the case of the incident to the Galle Face Structure (Gota Go village).
 
-...
+All the suspects were taken on bail as the suspects, including former Minister Johnston Fernando.
+
+However, Dan Priyasad, Nakandagama, who is named the suspects, was nominated in court.
+
+The lawyers appeared in court said that the suspects are currently abroad.
+
+Accordingly, Fort Magistrate issued three suspects including Dan Priyasad and Mahinda Kahandagama and submit three suspects to be produced before courts.
+
+The Criminal Investigation Department further stated that investigations have been completed and sent to the Investigation Attorney General.
+
+Accordingly, the Magistrate also ordered the Attorney General's instructions on March 26, 2025.
+
+◼️
 
 [Data](articles/9f58e0d4.json)
+
+[Extended Data](ext_articles/9f58e0d4.ext.json)
 
 ---
 

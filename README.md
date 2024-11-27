@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 08:33:37**
+As of **2024-11-27 07:30:37**
 
 ## Newspaper Stats
 
-*Scraped **57,134** Articles*
+*Scraped **57,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,431
 economynextcom | 3,465
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,383
+adalk | 5,380
 adaderanalk | 6,912
-tamilmirrorlk | 8,122
+tamilmirrorlk | 8,119
 virakesarilk | 9,312
 adaderanasinhalalk | 9,863
 
@@ -26,81 +26,11 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,106 (100.0%) of 57,134 articles have been extended.
+57,101 (100.0%) of 57,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
-
-### මාලිමාවේ ලේකම්ගේ මෝටර් රිය පාර්ලිමේන්තු ජල පොකුණට වැටෙයි
-
-*2024-11-27 08:06:57* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-ලේකම්ගේ-මෝටර්-රිය-පාර්ලිමේන්තු-ජල-පොකුණට-වැටෙයි/11-413297) · `si`
-
-ජාතික ජන බලවේගයේ මහ ලේකම් හා කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී  විශේෂඥ වෛද්‍ය නිහාල් අබේසිංහ මහතාට අයත් සුඛෝභෝගී මෝටර්රථය ඊයේ (26) සවස පාර්ලිමේන්තු පරිශ්‍රයේ ජල පොකුණට වැටීමෙන් අනතුරට ලක් වූ බව පාර්ලිමේන්තු පොලිසිය පවසයි.
-
-අනතුරට ලක්වන අවස්ථාවේදී මන්ත්‍රීවරයා එහි සිට නැතැයි පොලිසිය කියයි. නවක මන්ත්‍රීවරුන්ට පාර්ලිමේන්තුවේ පැවැත්වෙන වැඩමුළුව සඳහා  සහභාගී වීමෙන් අනතුරුව මන්ත්‍රීවරයා රැගෙන යාම සඳහා රියදුරු පැමිණි අවස්ථාවේදී මෝටර් රථය ජල පොකුණට වැටී ඇතැයි පොලිසිය කියයි.
-
-පොකුනට වැටුණු මෝටර් රථය පාර්ලිමේන්තු පොලිසියේ නිලධාරීන් සහ පාර්ලිමේන්තු කාර්ය මණ්ඩලයේ  සහභාගිත්වයෙන් කබ යොදා ගොඩට ගැනීමට කටයුතු කර ඇත.සිදුවූ අනතුරින් මෝටර් රථයට බරපතල අලාභ සිදුවී ඇත.
-
-අධික වර්ෂාව හේතුවෙන් මාර්ගයේ නිසි පරිදි නොපෙනී යාම හේතුවෙන් මෙම අනතුර වන්නට ඇතැයි පොලිසිය සැක කරයි.
-
-◼️
-
-[Data](articles/97eaa07f.json)
-
----
-
-### இன்று புயலாக மாறும் காற்றழுத்த தாழ்வு
-
-*2024-11-27 07:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-புயலாக-மாறும்-காற்றழுத்த-தாழ்வு/175-347841) · `ta`
-
-தென்மேற்கு வங்காள விரிகுடாவில் ஏற்பட்ட ஆழமான காற்றழுத்த தாழ்வு நிலையானது திருகோணமலைக்கு தென்கிழக்கே 190 கிலோ மீற்றர் தொலைவில் நேற்று  இரவு 11.30 மணியளவில் நிலைகொண்டிருந்ததாக வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
-
-இது இலங்கையின் கிழக்குக் கடற்கரைக்கு அருகில் வடக்கு-வடமேற்கு நோக்கி நகர்ந்து இன்று சூறாவளி புயலாக மேலும் வலுவடையும்.
-
-இதன் காரணமாக நாட்டின் பெரும்பாலான பகுதிகளில் வானம் மேகமூட்டத்துடன் காணப்படும். வடக்கு, வடமத்திய, கிழக்கு, வடமேற்கு மற்றும் மத்திய மாகாணங்களில் அதிக பலத்த மழை மற்றும் பலத்த காற்று வீசக்கூடும்.
-
-வடக்கு, வடமத்திய, மத்திய, மேற்கு மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மட்டக்களப்பு மற்றும் கேகாலை மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
-
-வடக்கு, வடமத்திய, மத்திய, மேற்கு, வடமேற்கு, தெற்கு மற்றும் கிழக்கு மாகாணங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/3ea2739b.json)
-
----
-
-### வடக்கில் ஒரு லட்சம் பேர் பாதிப்பு
-
-*2024-11-27 07:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-ஒரு-லட்சம்-பேர்-பாதிப்பு/175-347840) · `ta`
-
-வடக்கு மாகாணத்தில் நிலவும் சீரற்ற காலநிலை காரணமாக 25 ஆயிரம் வரையான குடும்பங்களைச் சேர்ந்த ஒரு லட்சம் பேர் வரையில் பாதிப்படைந்துள்ளனர் என்று தெரிவிக்கப்படுகின்றது.
-
-இதேவேளை, இரணைமடு, முத்தையன்கட்டு போன்ற குளங்களின் வான் கதவுகள் திறந்து விடப்பட்டதன் காரணமாக தாழ்நிலப் பிரதேசங்களில் வாழும் மக்கள் அதிக பாதிப்பை எதிர்கொண்டு வருகின்றனர். (a)
-
-◼️
-
-[Data](articles/2f4292fa.json)
-
----
-
-### ’பிள்ளைகளை மீட்டுத் தாருங்கள்’
-
-*2024-11-27 06:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-மீட்டுத்-தாருங்கள்/175-347839) · `ta`
-
-வடக்கு மாகாணத்தைச் சேர்ந்த 5 இளைஞர்கள் ரஷ்ய இராணுவத்தில் வலுக்கட்டாயமாகச் சேர்த்ததாகக் கூறப்படுவது தொடர்பில் அவர்களது பெற்றோர்களால் வடக்கு மாகாண ஆளுநர் நா.வேதநாயகனிடம் முறைப்பாடு செய்யப்பட்டது.
-
-யாழ்ப்பாணம், கரவெட்டி, முள்ளியவளையைச் சேர்ந்த இளைஞர்களின் பெற்றோர்களே ஆளுநர் செயலகத்தில் நேற்று  (27) ஆளுநரை நேரில் சந்தித்து இந்தக் கோரிக்கையை முன்வைத்தனர்.
-
-இதனையடுத்து, ஆளுநர் உடனடியாக வெளிவிவகார அமைச்சின் செயலாளரைத் தொலைபேசியில் தொடர்பு கொண்டு விடயத்தைத் தெரியப்படுத்தினார்.
-
-அத்துடன், பெற்றோர்களிடம் அவர்களது விவரங்களைப் பெற்று வெளிவிவகார அமைச்சுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/0344219d.json)
-
----
 
 ### FIU slaps Rs. 2.7 m combined fines on three entities
 
@@ -162,8 +92,6 @@ He said there is no direct connection between the trade union’s demand and the
 
 [Data](articles/f921679b.json)
 
-[Extended Data](ext_articles/f921679b.ext.json)
-
 ---
 
 ### BOI Chief meets export industry leaders to address supply chain security and efficiency
@@ -180,8 +108,6 @@ Pilferage at crucial inspection points was highlighted as a key concern, with th
 
 [Data](articles/e088f0c9.json)
 
-[Extended Data](ext_articles/e088f0c9.ext.json)
-
 ---
 
 ### Sri Lanka  Economic Summit from 28-29 January
@@ -196,8 +122,6 @@ The 24th edition of the Sri Lanka Economic Summit organised by The Ceylon Chambe
 
 [Data](articles/635cf0b3.json)
 
-[Extended Data](ext_articles/635cf0b3.ext.json)
-
 ---
 
 ### Kosala calls on new Japanese Ambassador
@@ -209,8 +133,6 @@ International Business Council President Kosala Wickramanayake recently paid a c
 ◼️
 
 [Data](articles/0472732f.json)
-
-[Extended Data](ext_articles/0472732f.ext.json)
 
 ---
 
@@ -229,8 +151,6 @@ HRW acknowledged that Dissanayake was elected President on 21 September and on 1
 ...
 
 [Data](articles/8063d5ea.json)
-
-[Extended Data](ext_articles/8063d5ea.ext.json)
 
 ---
 
@@ -2122,24 +2042,6 @@ Similarly, the electricity tariff must be reduced in parallel with the profit th
 
 ---
 
-### වාහන ආනයනය ගැන රජයේ තීරණය
-
-*2024-11-26 17:55:03* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-තීරණය/11-413292) · `si`
-
-වාහන ආනයනය කිරීම ලබන වසරේදී අදියර කිහිපයක් යටතේ සිදුකරන බවත් එහිදී සංචිත පිළිබඳව අවධානය යොමුකළ යුතුව ඇති බවත් කම්කරු අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පැවැසීය.
-
-“වාහන ආනයනය කිරීමට කාණ්ඩ කිහිපයක් යටතේ තමයි අවසර ලබාදීම සිදු කරන්නේ. විශේෂයෙන්ම වාණිජ මට්ටමේ තිබෙන වාහන. නමුත් එය සිදුකරන්නේ විදේශ විනිමය සීමා වලට යටත්වයි.
-
-දැනට සංචිත කොපමණ ප්‍රමාණයක් තිබෙනවාද යන්න පිළිබඳව ගණන් කර තිබෙනවා.  මහ බැංකුව යම් ආකාරයක අතිරේක සංචිත හදලා තිබෙනවා.
-
-විනියම සීමාවන්ට යටත්ව තමයි අවසර දෙනේනේ. අදියර තුනක් යටතේ වාහන ගෙන්වන්න අවස්ථාව දෙනවා. ස්ථායිකරන වැඩපිළිවෙළකට මේක යන්න ඕන. එකවරම අතහැරලා මේක කඩා දාන්න දෙන්න බෑ.”
-
-◼️
-
-[Data](articles/8878e261.json)
-
----
-
 ### President to visit India and Chinese
 
 *2024-11-26 17:54:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියා-හා-චීන-සංචාරයකට/11-413291) · `si`
@@ -2289,5 +2191,113 @@ At a special press conference held at the Department of Examinations this aftern
 [Data](articles/3319a0c3.json)
 
 [Extended Data](ext_articles/3319a0c3.ext.json)
+
+---
+
+### Ongoing 2024 A/L Exam temporarily suspended
+
+*2024-11-26 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103786/ongoing-2024-al-exam-temporarily-suspended) · `en`
+
+The Examinations Department announced that it has been decided to temporarily suspend the ongoing 2024 G.C.E. Advanced Level Examination.
+
+Accordingly, the subjects which were scheduled to be held on November 27, 28 and 29 have been suspended, the Commissioner General of Examinations Amith Jayasundara said.
+
+Speaking at a special press briefing this evening (26), Jayasundara stated that this decision was taken in view of the prevailing adverse weather conditions.
+
+Furthermore, he highlighted that the exam will re-commence on November 30 (Saturday) and will continue as previously scheduled.
+
+The exams for the subjects which are scheduled on November 27, 28 and 29 will be held on December 21, 22, 23 respectively, according to the Exams Commissioner General.
+
+◼️
+
+[Data](articles/f1ca732d.json)
+
+[Extended Data](ext_articles/f1ca732d.ext.json)
+
+---
+
+### Sri Lanka cabinet spokesman says no threats for tourists anymore
+
+*2024-11-26 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-spokesman-says-no-threats-for-tourists-anymore-190028/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet Spokesman Nalinda Jayatissa said there are no security threats to any tourists in the island nation amid an ongoing investigation into a possibility of attack in the Eastern Sri Lankan coastal area of Arugam Bay.
+
+The intelligence information of a possible attack against Jews in an Arugam Bay area was first shared by foreign intelligence agency with the local counterpart and the government swiftly tightened the security to ensure the safety of both locals and foreign tourists.
+
+However, the threat triggered the U.S. Embassy in Colombo to issue travel advisory to its citizens before Israel, Australia, New Zealand, Russia, the United Kingdom, and Canada.
+
+However, later, the US Embassy relaxed the travel advisory after Sri Lanka started investigations into the threat with the arrest of six people.
+
+“So far the security is established and there is no threat to anyone,” Cabinet Spokesman Jayatissa told reporters in the weekly post-cabinet press briefing.
+
+...
+
+[Data](articles/19ae2539.json)
+
+[Extended Data](ext_articles/19ae2539.ext.json)
+
+---
+
+### Special press conference on A / L
+
+*2024-11-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203766) · `si`
+
+A special press conference on AI was conducted by Commissioner General of Examinations HJMC. Amit Jayasundara paid tribute to the Department of Examinations.
+
+🟩
+
+Commissioner General of Examinations HJMC. Amit Jayasundara is conducting a special tribute to the Department of Examinations.
+
+◼️
+
+[Data](articles/521b3018.json)
+
+[Extended Data](ext_articles/521b3018.ext.json)
+
+---
+
+### Sri Lanka announces launch of ISB exchange after Cabinet approval
+
+*2024-11-26 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103785/sri-lanka-announces-launch-of-isb-exchange-after-cabinet-approval-) · `en`
+
+Sri Lanka has announced the official launch of the exchange of its outstanding International Sovereign Bonds (ISBs) totaling approximately USD 12.55 billion, as of 25 November 2024.
+
+This follows the approval of the terms and conditions of the Invitation by the new Cabinet of Ministers of Sri Lanka, which was formed on 18 November 2024, Sri Lanka’s Ministry of Finance, Planning and Economic Development said in a statement today.
+
+The Finance Ministry stated that the holders of the existing Bonds are invited to tender their Bonds and exchange them for new instruments over a three-week period, with the final deadline set for 12 December 2024.
+
+Furthermore, the statement highlighted that Sri Lanka strongly encourages all holders to participate in the exchange process as early as possible.
+
+...
+
+[Data](articles/b62fb82d.json)
+
+[Extended Data](ext_articles/b62fb82d.ext.json)
+
+---
+
+### Prior to 6 CEB proposals on electricity tariff
+
+*2024-11-26 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-ලංවිම-යෝජනා-6දාට-පෙර/11-413289) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+CEB proposes new electricity tariffs; rejects PUC's previous suggestion; submits annual plan for 2025; awaits PUC review.
+
+🟩
+
+The Ceylon Electricity Board (CEB) has issued a statement that the new proposals will be given to the Public Utilities Commission for the reintegration of the proposed telephone tariff.
+
+The CEB is also needed for the annual submission of the new resolution for 2025.
+
+The CEB has rejected the proposal made by the Public Utilities Commission on 24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24.
+
+◼️
+
+[Data](articles/fcedffdc.json)
+
+[Extended Data](ext_articles/fcedffdc.ext.json)
 
 ---

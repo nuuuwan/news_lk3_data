@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 02:13:43**
+As of **2024-11-28 02:41:35**
 
 ## Newspaper Stats
 
-*Scraped **57,302** Articles*
+*Scraped **57,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
 tamilmirrorlk | 8,149
-virakesarilk | 9,339
+virakesarilk | 9,340
 adaderanasinhalalk | 9,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,302 (100.0%) of 57,302 articles have been extended.
+57,303 (100.0%) of 57,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Four students were found dead at Mavadipalli, Ampara
+
+*2024-11-28 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199889) · `ta`
+
+Four students died in Ampara flood. Bodies found near Karadivu. Five others injured. Search ongoing for missing students.
+
+🟩
+
+The body of 4 students who had been flooded in a flooding machine near the Karadivu Police Division of the Karadivu Police Division, Ampara District, was recovered on Wednesday (27).
+
+Five students, including 6 students and drivers, have been demolished after a flooding of floods after a flooded accident, after a roadblock, traveled with 11 students to Samanthurai area on Tuesday evening (26) from Madurasa from Radhavur.
+
+With the help of the Marines, 4 students were submerged in the wake of the incident with the help of the Marines on Wednesday.
+
+However, the police said that the search operation is being carried out amid random conditions of the two students missing phone students.
+
+◼️
+
+[Data](articles/67edaa8a.json)
+
+[Extended Data](ext_articles/67edaa8a.ext.json)
+
+---
 
 ### OPR: CBSL’s latest monetary policy tool
 
@@ -2555,33 +2579,5 @@ The District Secretary added that the authorities, including the District Disast
 [Data](articles/463cacb7.json)
 
 [Extended Data](ext_articles/463cacb7.ext.json)
-
----
-
-### Risk of rat fever
-
-*2024-11-27 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203796) · `si`
-
-Rat fever outbreak: 22 deaths in Ratnapura District. Dr. Kapila Kannangara warns untreated cases. Treatment available from Regional Health Services Officers.
-
-🟩
-
-The Director of Health Services Dr. Kapila Kannangara says that more deaths have been reported from Ratnapura District due to the rat of fever.
-
-He also met the highest number of rat fever.
-
-The Director of Health Services, Sabaragamuwa Provincial Health Services, joined the occasion as to the publication of rat fever at the Sabaragamuwa Provincial Council premises.
-
-1,882 Leptospirosis in the Ratnapura District have been found and 22 deaths due to rat fever.
-
-Eheliyagoda, Kiriella, Kiriella, Upanayakala, Nivitanhala, Nivithala, Kalawana and Kalupana, Kalawana, Kalawana, Kalawana and Kalupana, Kalawana and Kalupana, Kalawana and Kalupana, Kalawana, Kalawana, Kalawana and Kalupana.
-
-Sabaragamuwa Provincial Health Services Dr. Kapila Kannangara said that if the rat was not treated properly to the disease.
-
-...
-
-[Data](articles/0fbec770.json)
-
-[Extended Data](ext_articles/0fbec770.ext.json)
 
 ---

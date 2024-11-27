@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 11:14:13**
+As of **2024-11-27 10:41:55**
 
 ## Newspaper Stats
 
-*Scraped **57,159** Articles*
+*Scraped **57,154** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 439
-colombotelegraphcom | 582
+colombotelegraphcom | 581
 bbccomsinhala | 594
 islandlk | 3,431
 economynextcom | 3,465
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,388
+adalk | 5,386
 adaderanalk | 6,920
-tamilmirrorlk | 8,125
+tamilmirrorlk | 8,123
 virakesarilk | 9,312
 adaderanasinhalalk | 9,868
 
@@ -26,85 +26,25 @@ adaderanasinhalalk | 9,868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,134 (100.0%) of 57,159 articles have been extended.
+57,129 (100.0%) of 57,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### மட்டக்களப்பு - கொழும்பு போக்குவரத்து தடை
-
-*2024-11-27 10:47:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பு-கொழும்பு-போக்குவரத்து-தடை/73-347849) · `ta`
-
-அந்தவகையில், மன்னம்பிட்டிய சந்தி (மகா ஒயா) வீதி  உடைந்து காணப்படுவதால் மட்டக்களப்பு - கொழும்பு வீதி மூடப்பட்டுள்ளது.
-
-அதேபோன்று, மன்னம்பிட்டி, வெலிகந்தை, புனாணை ஆகிய பகுதிகளில் நீர் மட்டம் அதிகரித்துக் காணப்படுவதால் அவ்வீதியூடாகவும் பயணிக்க முடியாத நிலை ஏற்பட்டுள்ளது.
-
-புனாணை பகுதியில் புகையிரதப் பாதையை குறுக்கறுத்து நீர் அதிகரித்துச் செல்வதால் மட்டக்களப்பு - கொழும்பு புகையிரத சேவையும் மறு அறிவித்தல் வரை இடை நிறுத்தப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/40900a65.json)
-
----
-
-### කළුතර මාළු දැලකට අඩි 10 ක් පමණ දිග කිඹුලෙක්
-
-*2024-11-27 10:45:10* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-මාළු-දැලකට-අඩි-10-ක්-පමණ-දිග-කිඹුලෙක්/11-413301) · `si`
-
-කළුතර මාළු දැලකට අඩි 10 ක් පමණ දිග කිඹුලෙක් අද පස්වරුවේ  පැටලී ඇති බව කළුතර දකුණ පොලිසිය පවසයි .
-
-කළුතර ප්‍රදේශයේ ධීවරයෙකුගේ මත්ස්‍ය දැලකට මෙම කිඹුලා පැටලී ඇති බව සදහන් වේ.
-
-කළුතර දකුණ දුම්රිය ස්ථානය ඉදිරිපිට මුහුදු වෙරළ තීරයට දැල ගොඩගසා තිබූ අතර ,  එහි පැටලී සිටී කිඹුලාව ධීවරයන් දස දෙනෙක් පමණ එක්ව කඹ ආධාරයෙන් නිරුපද්‍රිතව ගොඩගැනීමට කටයුතු කර තිබේ.
-
-හික්කඩුව වනජීවී කාර්යාලය දැනුවත් කල බවත් කිඹුලා රැගෙන යාමට ඔවුන් පැමිණිමට නියමිතව ඇති බවත් පොලිසිය සදහන් කරයි.
-
-◼️
-
-[Data](articles/482e0b3e.json)
-
----
-
-### 6 மத்ரஸா மாணவர்களை தேடும் பணிகள் தொடர்கின்றன
-
-*2024-11-27 10:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மத்ரஸா-மாணவர்களை-தேடும்-பணிகள்-தொடர்கின்றன/175-347846) · `ta`
-
-அம்பாறை மாவட்டத்தில் அதிகரித்துள்ள வெள்ளம் காரணமாக மாவடிப்பள்ளியில் உழவு இயந்திரம் வெள்ளத்தில் அடிபட்டு சென்ற சம்பவத்தில் அதில் பயணித்த 11 மத்ரஸா மாணவர்களில் ஐந்து  மாணவர்கள் மீட்கப்பட்டுள்ளனர்.
-
-ஏனைய  மாணவர்கள் இன்னும் மீட்கப்படவில்லை.  குறித்த ஆறு மாணவர்களையும் தேடும் பணிகள் புதன்கிழமை (27) இரண்டாவது நாளாகவும் தொடர்கின்றன.
-
-கடற்படையினருடன் இணைந்து சமுதாய தொண்டர் அமைப்புகளும் களத்தில் இணைந்து தேடும் பணிகள் தொடர்கின்றன.
-
-◼️
-
-[Data](articles/b7d3126d.json)
-
----
-
-### 6 flights were diverted
+### 6 விமானங்கள் திருப்பிவிடப்பட்டன
 
 *2024-11-27 10:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-விமானங்கள்-திருப்பிவிடப்பட்டன/175-347845) · `ta`
 
-Here's a summary in 200 characters:
+கட்டுநாயக்க விமான நிலையத்தை சுற்றியுள்ள பகுதிகளில் செவ்வாய்க்கிழமை (26) இரவு பெய்த கடும் மழை காரணமாக கட்டுநாயக்க விமான நிலையத்தில் தரையிறங்க வந்த 06 விமானங்கள் மத்தள மற்றும் இந்தியாவின் திருவனந்தபுரம் விமான நிலையங்களுக்கு திருப்பி விடப்பட்டதாக விமான நிலைய தகவல்கள் தெரிவிக்கின்றன.
 
+சென்னை, இந்தியா மற்றும் மாலே, மாலத்தீவில் இருந்து விமானங்களும், அபுதாபியில் இருந்து வந்த எதிஹாட் ஏர்லைன்ஸ் விமானமும் மத்தள விமான நிலையத்தில் தரையிறங்கியுள்ளன.
 
-
-Six flights diverted: Chennai, Male, Etihad Abu Dhabi to Mattala; three more to Thiruvananthapuram due to heavy rains at Katunayake airport on Tuesday night.
-
-🟩
-
-The airport sources said that six flights that landed at the Katunayake airport landed at the Katunayake airport due to heavy rains on Tuesday night (26).
-
-The flights from Chennai, India and Male, Maldives and Etihad Airlines from Abu Dhabi landed at Mattala Airport.
-
-In addition, three flights from Katunayake airport from Narida, Dubai and India in India have been diverted to the Thiruvananthapuram airport in India.
+மேலும், ஜப்பானின் நரிடா, டுபாய் மற்றும் இந்தியாவின் சென்னை ஆகிய இடங்களில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்த 03 விமானங்கள் இந்தியாவின் திருவனந்தபுரம் விமான நிலையத்திற்கு திருப்பி விடப்பட்டுள்ளன.
 
 ◼️
 
 [Data](articles/c9130fbd.json)
-
-[Extended Data](ext_articles/c9130fbd.ext.json)
 
 ---
 
@@ -122,8 +62,6 @@ Issuing a release in this regard on yesterday (26), the Chamber stated that this
 
 [Data](articles/fe28c951.json)
 
-[Extended Data](ext_articles/fe28c951.ext.json)
-
 ---
 
 ### ADB backs Sri Lanka’s growing investment potential in key sectors
@@ -139,24 +77,6 @@ The meeting, focused on investment prospects in critical areas such as climate c
 ...
 
 [Data](articles/26c19b7d.json)
-
-[Extended Data](ext_articles/26c19b7d.ext.json)
-
----
-
-### අද බොහෝ ප්‍ර දේශවලට පැයට කිලෝමීටර් 60 වැඩි සුළං සහ තද වැසි
-
-*2024-11-27 09:36:14* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍ර-දේශවලට-පැයට-කිලෝමීටර්-60-වැඩි-සුළං-සහ-තද-වැසි/11-413300) · `si`
-
-ගිනිකොණදිග බෙංගාල බොක්ක ආශ්‍රිත මුහුදු ප්‍රදේශයේ පවතින අඩු පීඩන කලාපය බටහිරට බරව වයඹ දෙසට ගමන් කරමින් නොවැම්බර් 26 වන දින වන විට නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිතව පවතින පීඩන අවපාතය සුළි කුණාටුවක් දක්වා වර්ධනය වීමට බොහෝ දුරට ඉඩ ඇති බවත් එය නැගනෙහිර වෙළරළ ඉතා ආසන්නව ගමන් කරනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
-
-මෙම අඩු පීඩන කලාපය තවදුරටත් වර්ධනය වෙමින් දිවයිනේ උතුරු වෙරළ දෙසට ළඟාවීමේ වැඩි හැකියාවක් පවතින බවත් මෙහි බලපෑම හේතුවෙන් ඉදිරි දින කීපය තුළ දිවයිනේ බොහෝ ප්‍රදේශ වලට ගිගුරුම් සහිත ඉතා තද වැසි සහ සුළං සහිත කාළගුණික තත්වයක් පැවතිය හැකි බවත් මෙම නිවේදනයේ සදහන් වේ.
-
-අද දිනය තුළ (11/27) දිවයිනේ බොහෝ පළාත්වලට පැයට කිලෝමීටර් 60 -70  ඉක්මවු තද සුළං ඇතිවිය හැකි බවත් මෙම තත්ත්වය ඉදිරි දින කීපය පුරාවට පැවතිය හැකි බවත් දක්වා ඇත.
-
-...
-
-[Data](articles/417552d8.json)
 
 ---
 
@@ -848,8 +768,6 @@ The proposal to this effect presented by the President Anura Kumara Dissanayake 
 
 [Data](articles/749e1665.json)
 
-[Extended Data](ext_articles/749e1665.ext.json)
-
 ---
 
 ### Singapore’s BB Energy gets 6-month diesel supply contract
@@ -867,8 +785,6 @@ It added that out of six bidders, BB Energy (Asia) Ltd., was selected to award t
 ◼️
 
 [Data](articles/6e0fc361.json)
-
-[Extended Data](ext_articles/6e0fc361.ext.json)
 
 ---
 
@@ -965,16 +881,6 @@ The outlooks of two special purpose vehicles linked to Adani Green Energy Limite
 ...
 
 [Data](articles/73ece48c.json)
-
----
-
-### Karma & Grace: Religious Difference In Millennial Sri Lanka
-
-*2024-11-27 05:23:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/karma-grace-religious-difference-in-millennial-sri-lanka/) · `en`
-
-...
-
-[Data](articles/5f2ec27a.json)
 
 ---
 
@@ -2229,5 +2135,131 @@ There were 195 582 tourists in November 2018, the year 2018.Sri Lanka has arrive
 [Data](articles/f1b2ee10.json)
 
 [Extended Data](ext_articles/f1b2ee10.ext.json)
+
+---
+
+### 480 people from 148 families in Mullaitivu district
+
+*2024-11-26 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199778) · `ta`
+
+Rainfall affects 480 people in Mullaitivu district; 193 displaced in Manthai East, 153 in Oddusuttan. Floods increase pond water levels and store water in lowlands. Assistance from disaster management, police, and military ongoing.
+
+🟩
+
+480 people from 148 families have been affected due to continuous rainfall in the Mullaitivu district, the District Disaster Management Unit said.
+
+Due to the prevailing rains, the water level of the ponds in the Mullaitivu district has increased and the flood water has been stored in the lowland areas.
+
+As a result of this, 193 persons from 56 families in the Manthai East Divisional Secretariat, 78 persons from 24 families in the Karaithuraipattu Divisional Secretariat, 153 from 50 families in the Oddusutan Divisional Secretariat and 56 members of the Pudukkudiyiruppu Divisional Secretariat.In the report of the division.
+
+People from the Oddusuttan Divisional Secretariat Division. At the school, 153 people from 50 families have been placed in the intermediate camp and the other are in relatives.
+
+...
+
+[Data](articles/2a896669.json)
+
+[Extended Data](ext_articles/2a896669.ext.json)
+
+---
+
+### Maithri's confession
+
+*2024-11-26 18:30:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-வாக்குமூலம்-பதிவு/175-347815) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Commission investigates Maithripala Sirisena bribery claim over Royal Park murder pardon. Complaint filed by SLFP member Montek Sarachandra.
+
+🟩
+
+The Commission to Investigate Former President Maithripala Sirisena has filed a statement today (26) on bribery or corruption.
+
+The Commission said that he was invited for an investigation into the allegations that the former president had bribed the president for pardoning Royal Park's murder.
+
+Former President Maithripala Sirisena and/or Parliamentarian Athuraliye Ratna TheraComplaint.
+
+The complaint has been lodged by Montek Sarachandra, a member of the Sri Lanka Freedom Party (SLFP) executive committee.
+
+In 2005, Jayamaha was sentenced to death for the murder of Ivan Johnson at the Royal Park Condominium Complex in Rajagiriya.
+
+◼️
+
+[Data](articles/52f8849a.json)
+
+[Extended Data](ext_articles/52f8849a.ext.json)
+
+---
+
+### Local Consortium of Sri Lanka commits support for govt’s ISB restructuring
+
+*2024-11-26 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103789/local-consortium-of-sri-lanka-commits-support-for-govts-isb-restructuring) · `en`
+
+The Local Consortium of Sri Lanka (LCSL), comprised of domestic commercial banks and financial institutions, has committed its full support for the Exchange Offer and Consent Solicitation launched today by the Government of Sri Lanka to restructure the US$12.55bn in outstanding International Sovereign Bonds (ISBs) including terms tailored for local holders.
+
+This follows the agreement-in-principle reached in September 2024 with the Government on key financial terms.
+
+“All members of the LCSL intend to participate in the ISB restructuring, which will provide the Government with substantial debt relief.  This will be in addition to the support provided to the Government and wider economy since the foreign currency default in April 2022,” the LCSL statement said.
+
+The restructuring of the ISBs will also cure the sovereign debt default, support the restoration of macroeconomic stability and ensure debt sustainability in the context of the Sri Lanka IMF programme, it said.
+
+...
+
+[Data](articles/7df7ff1f.json)
+
+[Extended Data](ext_articles/7df7ff1f.ext.json)
+
+---
+
+### 'Sudu Kaavum 2' a Fun Film - Mirchi Siva
+
+*2024-11-26 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199772) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Sudu Kaavum 2" is a comedy film starring Mirchi Siva. It's a sequel set in 2024, continuing the story from 2013. The movie features a fun storyline with a mix of comedy and entertainment. It will be released in theaters soon.
+
+🟩
+
+Mirchi Siva, the hero of the film, said, "The first part of the film is the first part of the film, the second part of the film."
+
+Introducing Director S.. J.. Mirchi Siva, Harisha Justin, Karunakaran, Wagai Chandrasekhar, M. S.. Bhaskar, Radha Ravi, Arul Das and many others have been cast.
+
+Edwin Louis Viswanath - Hari has composed the film, which has been recorded by Karthik Dilli.. Producers C. V.. Kumar and S. Thangaraj has co -produced.
+
+The film will be held in Chennai on December 13 at the film House.. The film crew participated in the event.
+
+Actor Mirchi Siva, who plays the hero in it, said, “I met the producer for this film at his office.. We are planning to create the second part of the movie 'Sudu Kaavum' at that moment. In it he asked you to act as the hero.
+
+...
+
+[Data](articles/6b9f0ea8.json)
+
+[Extended Data](ext_articles/6b9f0ea8.ext.json)
+
+---
+
+### Local holders to join Sri Lanka bond exchange
+
+*2024-11-26 18:17:00* · [`economynextcom`](https://economynext.com/local-holders-to-join-sri-lanka-bond-exchange-190044/) · `en`
+
+ECONOMYNEXT – Domestic holders of Sri Lanka’s defaulted sovereign bonds said they will participate in an exchange of new bonds, which they negotiated together with foreign investors in the securities.
+
+“All members of the LCSL intend to participate in the ISB restructuring, which will provide the Government with substantial debt relief,” the group said in statement.
+
+Local investors, mostly banks, hold about 12 percent of the defaulted 12.55 billion dollars of securities.
+
+“We are pleased to have reached this critical turning point following more than two years of discussions,” Sanath Manatunge, Chairman of the Local Consortium of Sri Lanka who is the chief executive of Commercial Bank of Ceylon said.
+
+“This restructuring will help restore macroeconomic stability and encourage investment in the local economy to the benefit of the people of Sri Lanka.
+
+...
+
+[Data](articles/e0b2656a.json)
+
+[Extended Data](ext_articles/e0b2656a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 23:13:43**
+As of **2024-11-27 23:25:47**
 
 ## Newspaper Stats
 
-*Scraped **57,282** Articles*
+*Scraped **57,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 3,478
 dailyftlk | 3,939
 dailymirrorlk | 4,733
 adalk | 5,407
-adaderanalk | 6,935
+adaderanalk | 6,936
 tamilmirrorlk | 8,148
-virakesarilk | 9,335
+virakesarilk | 9,338
 adaderanasinhalalk | 9,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,280 (100.0%) of 57,282 articles have been extended.
+57,280 (100.0%) of 57,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### திருகோணமலை மாவட்டத்தில் 2942 குடும்பங்களைச் சேர்ந்த 8752 பேர் பாதிப்பு
+
+*2024-11-27 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199887) · `ta`
+
+திருகோணமலை மாவட்டத்தில் 2942 குடும்பங்களைச் சேர்ந்த 8752 பேர் பாதிப்பு மற்றும் 131 குடும்பங்களை சேர்ந்த 329 பேர் பாதுகாப்பு மையங்களில் தங்க வைக்கப்பட்டுள்ளனர்.
+
+திருகோணமலை மாவட்டத்தில் பெய்து வரும் கனமழை காரணமாக புதன்கிழமை (27)  பிற்பகல் 05.00 மணிக்கு பெறப்பட்ட புள்ளி விபரத் தகவலின் படி  2942 குடும்பங்களைச் சேர்ந்த 8752 பேர் பாதிக்கப்பட்டுள்ளனர். 131 குடும்பங்களைச் சேர்ந்த 329 பேர் பாதுகாப்பு மையங்களில் தங்க வைக்கப்பட்டுள்ளனர். 882 குடும்பங்களைச் சேர்ந்த 3173 பேர் உறவினர் வீடுகளிலும் தங்கியுள்ளனர். மேலும் 24 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதாக திருகோணமலை மாவட்ட அனர்த்த முகாமைத்துவ நிலையத்தின் பிரதிப் பணிப்பாளர் குகதாஸ் சுகுணதாஸ் அவர்கள் தெரிவித்தார்.
+
+...
+
+[Data](articles/b75146e4.json)
+
+---
+
+### Ampara tractor accident: Body of another missing boy found
+
+*2024-11-27 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103822/ampara-tractor-accident-body-of-another-missing-boy-found) · `en`
+
+The body of another student out of the six who went missing after the tractor they were traveling on toppled and was swept away by floodwaters at Karaitivu in Ampara District last evening (26), has been discovered.
+
+Accordingly, the bodies of four students have been recovered thus far while search operations are continuing for the two other missing students as well as the tractor’s driver and his assistant.
+
+The incident occurred last evening when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents while passing through flood waters.
+
+Police had confirmed that 05 children had been rescued while the rest were reported missing.
+
+The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
+
+...
+
+[Data](articles/ddae7b2f.json)
+
+---
 
 ### New Secretaries appointed to Environment, Science and Technology Ministries
 
@@ -47,6 +81,68 @@ As per the appointments, Mr. K.R. Uduwawala will serve as the Secretary to the M
 [Data](articles/656928e4.json)
 
 [Extended Data](ext_articles/656928e4.ext.json)
+
+---
+
+### சர்வதேச நாணய நிதியம் இலங்கையின் கடன் மறுசீரமைப்பு முன்னெடுப்புக்காக கடன் வழங்குநர்களின் உயர் பங்குபற்றுதலை எதிர்பார்க்கிறது
+
+*2024-11-27 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199886) · `ta`
+
+சர்வதேச நாணய நிதியம் (IMF) முன்னெடுக்கும் இலங்கையின் கடன் மறுசீரமைப்பு முன்னெடுப்புக்களுக்காக கடன் வழங்குநர்களின் உயர் பங்குபற்றுதலின் கட்டாய தேவையை வலியுறுத்தியிருப்பதோடு, அது நாட்டில் எதிர்பார்க்கப்படும் பொருளாதார மறுசீரமைப்பு வேலைத்திட்டத்தின் வெற்றியை உறுதிப்படுத்த அவசியமான நடவடிக்கை என்றும் சுட்டிக்காட்டியுள்ளது.
+
+நவம்பர் 26 ஆம் திகதி நிதிச் சமூகத்தின் உறுப்பினர்கள் மத்தியில் உரையாற்றிய, சர்வதேச நாணய நிதியத்தின் முகாமைத்துவ பணிப்பாளர் (IMF) கிறிஸ்டலினா ஜோர்ஜியாவா, சர்வதேச நாணய நிதியத்தின் ஒத்துழைப்புடனான கடன் மறுசீரமைப்பு நிகழ்ச்சி நிரலுக்கு அமைய இலங்கையின் முன்னேற்றம் மற்றும் நிலையான கடன்  நிலைத்தன்மையை உறுதிப்படுத்திக்கொள்வதற்கான கூட்டு முயற்சியை மேற்கோள் காட்டி அறிக்கையொன்றை விடுத்துள்ளார்.
+
+...
+
+[Data](articles/656ca1d4.json)
+
+---
+
+### புதிய அரசாங்கத்தின் இலஞ்சம் மற்றும் ஊழலற்ற வேலைத்திட்டத்துக்கு அவுஸ்திரேலியா பாராட்டு
+
+*2024-11-27 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199885) · `ta`
+
+புதிய அரசாங்கத்தின் இலஞ்சம் மற்றும் ஊழலற்ற வேலைத்திட்டம் முதலீட்டாளர்களை ஈர்த்துள்ளதாக இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகர் போல் ஸ்டீவன் (Paul Stephens) தெரிவித்தார்.
+
+இலஞ்சம் மற்றும் ஊழலற்ற பொறிமுறையை நாடு முழுவதிலும் ஸ்தாபிக்க அரசாங்கம் கொண்டுச் செல்லும் வேலைத்திட்டத்திற்கு எந்த நேரத்திலும் ஆதரவளிக்க தயாரெனவும் அவுஸ்திரேலிய உயர்ஸ்தானிகர் இதன்போது தெரிவித்தார்.
+
+இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகர் போல் ஸ்டீவன் (Paul Stephens) இன்று (27) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதியின் செயலாளர் கலாநிதி சனத் நந்திக குமாநாயக்கவை சந்தித்து கலந்துரையாடியபோதே இதனைத் தெரிவித்தார்.
+
+அவுஸ்திரேலியா மற்றும் இலங்கைக்கு இடையில் காணப்படும் 75 வருட உறவுகளை மேலும் பலப்படுத்திக்கொண்டு இரு நாடுகளுக்கு இடையிலான நெருக்கமான தொடர்புகளை மேலும் பலப்படுத்தி முன்னோக்கி கொண்டுச் செல்ல எதிர்பார்ப்பதாகவும் உயர்ஸ்தானிகர் தெரிவித்தார்.
+
+...
+
+[Data](articles/4960cea0.json)
+
+---
+
+### Heroes Day in the North and East was remembered amidst the most sensitive pouring rain!
+
+*2024-11-27 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199882) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Heroes Day commemorated in North and East despite heavy rain. Emotional gatherings at Mullivaikkal house, Tuilumilla campus, Jaffna Heroes House, Vavuniya Municipal Hall, Kilinochchi Equality Party office. Floral tributes and torch lighting ceremonies honored fallen heroes and their families.
+
+🟩
+
+Despite the inclement weather across the country, the pouring rain has taken place in the midst of pouring rain.
+
+Heroes Day is celebrated annually in the Northern and Eastern Provinces of Northern and Eastern Provinces. This year, the day of the Heroes' Day was observed from November 21st to 27th of November.
+
+The parents of the heroes, relatives, ex -combatants and civilians at the Mullivaikkal house, gathered emotionally in the midst of pouring rain and paid tribute to those who sacrificed their lives.
+
+In the Mullivaikkal Tuilumilla campus, the bell was raised at 6.05 pm, and the other flame was carried out by the parents and relatives of Vallipuram Pushpamalar, the mother of the chief public flame hero.
+
+Following the Tuilumilla song broadcast. During this time, the parents, relatives and attendees of the heroes recalled the tears of tears, and a large number of civilians participated in the event.
+
+...
+
+[Data](articles/eef2b8c4.json)
+
+[Extended Data](ext_articles/eef2b8c4.ext.json)
 
 ---
 
@@ -135,36 +231,6 @@ If you see those who lend us in 2028, they will not be able to pay in 2028, they
 [Data](articles/a7a70e33.json)
 
 [Extended Data](ext_articles/a7a70e33.ext.json)
-
----
-
-### Heroes Day in the North and East was remembered amidst the most sensitive pouring rain!
-
-*2024-11-27 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/199882) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Heroes Day commemorated in North and East despite heavy rain. Emotional gatherings at Mullivaikkal house, Tuilumilla campus, Jaffna Heroes House, Vavuniya Municipal Hall, Kilinochchi Equality Party office. Floral tributes and torch lighting ceremonies honored fallen heroes and their families.
-
-🟩
-
-Despite the inclement weather across the country, the pouring rain has taken place in the midst of pouring rain.
-
-Heroes Day is celebrated annually in the Northern and Eastern Provinces of Northern and Eastern Provinces. This year, the day of the Heroes' Day was observed from November 21st to 27th of November.
-
-The parents of the heroes, relatives, ex -combatants and civilians at the Mullivaikkal house, gathered emotionally in the midst of pouring rain and paid tribute to those who sacrificed their lives.
-
-In the Mullivaikkal Tuilumilla campus, the bell was raised at 6.05 pm, and the other flame was carried out by the parents and relatives of Vallipuram Pushpamalar, the mother of the chief public flame hero.
-
-Following the Tuilumilla song broadcast. During this time, the parents, relatives and attendees of the heroes recalled the tears of tears, and a large number of civilians participated in the event.
-
-...
-
-[Data](articles/eef2b8c4.json)
-
-[Extended Data](ext_articles/eef2b8c4.ext.json)
 
 ---
 
@@ -2483,109 +2549,5 @@ Arjuna Aloysius and Saminda Sahan have been referred to as defendants in the cas
 [Data](articles/785732e0.json)
 
 [Extended Data](ext_articles/785732e0.ext.json)
-
----
-
-### Mabbutha Tragedy - A missing student found
-
-*2024-11-27 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203793) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Missing student found after tractor accident in Ampara. Body recovered among students from Kabbala. Incident occurred near Bridge yesterday evening. 11 children, driver, and another person were traveling. One body identified today.
-
-🟩
-
-The body of the missing student was found among the students from the tractor in Kabbala, Ampara yesterday.
-
-A tractor from Nindavur to the Samavur yesterday evening had fallen near the Bridge near the Bridge.
-
-11 children, the driver and another was traveling and another was rescued by the people who were near the water.
-
-One of the body of one who disappeared today, the body of a child has been recovered today.
-
-◼️
-
-[Data](articles/32715125.json)
-
-[Extended Data](ext_articles/32715125.ext.json)
-
----
-
-### Sri Lanka - South Africa Test match today
-
-*2024-11-27 11:32:12* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගය-අද/9-413305) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka vs South Africa Test match begins today (27). Crucial for Sri Lanka to qualify for ICC World Test Championship finals.
-
-🟩
-
-The first Test match between the Tourism Sri Lanka and South Africa will commence today (27).
-
-The Sri Lankan team will be a crucial match to qualify for the finals of the ICC World Test Championship.
-
-◼️
-
-[Data](articles/f4feb71b.json)
-
-[Extended Data](ext_articles/f4feb71b.ext.json)
-
----
-
-### Sign out of these areas - a notice from police
-
-*2024-11-27 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203792) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police issue landslide warnings for 3 districts due to heavy rain. Residents advised to evacuate immediately. Red alerts for Harispattuwa, Medadumbara, and surrounding areas. Special phone number 107 for Tamil speakers to report weather conditions.
-
-🟩
-
-The landslide landslide has been issued to several places in 3 districts due to the inclement weather.
-
-Addressing a media briefing held in a media briefing this morning (27), police spokesman, Nihal Thaluda said that the people of the areas should immediately quit their own lives.
-
-"Showers in the central mountainous area. Showers to the east and western slopes of the central hills. Therefore, red announcements have been issued to resign from Harispattuwa, Medadumbara, Gangawara, Doluwa, Yawadumba, Udawalaha, Patintota, Patintota, Patintota, Pathatota, Pathela, Pathadula, Pathetawa and Pathaduwa, Pathela, Pathadula, Pathadula, Pathadula, Pathadula, Pathadula, Pathela, Pathadula.. Because there is mountain landslides in a way.
-
-...
-
-[Data](articles/6e980d8e.json)
-
-[Extended Data](ext_articles/6e980d8e.ext.json)
-
----
-
-### Train services impacted due to adverse weather
-
-*2024-11-27 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103807/train-services-impacted-due-to-adverse-weather) · `en`
-
-The trains operating along the up-country and Batticaloa railway lines have been limited due to the prevailing adverse weather conditions, the Railway Department said.
-
-The Railway Department stated that steps have been taken to limit the trains operating on the Batticaloa line up to Polonnaruwa.
-
-Similarly, trains operating on the Up-Country line have been limited up to Nanuoya.
-
-Meanwhile, a large mound of garbage has collapsed on the railway track near the Hatton Railway Station this morning (27).
-
-The engineer of the railway maintenance department of Hatton railway station said that a possible train accident that could have been caused by this was prevented due to the timely action of a railway guard.
-
-The railway guard had spotted it and informed the authorities, and halted a passenger train from Nanuoya to Colombo.
-
-The engineer said that the train later operated to Colombo after the debris that had fallen on the railway track was cleared.
-
-◼️
-
-[Data](articles/7ab9abc6.json)
-
-[Extended Data](ext_articles/7ab9abc6.ext.json)
 
 ---

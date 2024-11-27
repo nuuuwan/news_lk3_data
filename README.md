@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 09:30:08**
+As of **2024-11-27 09:19:03**
 
 ## Newspaper Stats
 
-*Scraped **57,147** Articles*
+*Scraped **57,141** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 439
-colombotelegraphcom | 581
+dbsjeyarajcom | 438
+colombotelegraphcom | 580
 bbccomsinhala | 594
 islandlk | 3,431
 economynextcom | 3,465
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,385
-adaderanalk | 6,915
+adalk | 5,384
+adaderanalk | 6,912
 tamilmirrorlk | 8,122
 virakesarilk | 9,312
 adaderanasinhalalk | 9,868
@@ -26,61 +26,11 @@ adaderanasinhalalk | 9,868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,119 (100.0%) of 57,147 articles have been extended.
+57,117 (100.0%) of 57,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
-
-### කටුනායකට ආපු ගුවන් යානා මත්තලට හා ඉන්දියාවට ගොඩබායි
-
-*2024-11-27 09:15:55* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-ගුවන්-යානා-මත්තලට-හා-ඉන්දියාවට-ගොඩබායි/11-413299) · `si`
-
-කටුනායක ගුවන් තොටුපොළ අවට ප්‍රදේශයට මේ වනවිට පවතින අධික වැසි සහිත කාළගුණික තත්වය නිසා , කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පැමිණි ගුවන් යානා 06 ක් මත්තල සහ ඉන්දියාවේ ත්‍රිවේන්ද්‍රම් ගුවන් තොටුපොළ වෙත 11/26 දින රාත්‍රී  හරවා යවා තිබේ .
-
-ඒ අනුව ඉන්දියාවේ චෙන්නායි සහ මාළදිවයින මාළේ නුවර සිට පැමිණි ගුවන් යානා මෙන්ම අබුඩාබි සිට පැමිණි ඉටිහාඩ් ගුවන් සේවයේ ගුවන් යානය ද මත්තල ගුවන් තොටුපොළ වෙත ගොඩ බස්වා තිබේ.
-
-මීට අමතරව ජපානයේ නරීටා , ඩුබායි සහ ඉන්දියාවේ චෙන්නායි සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි ගුවන් යානා 03 ඉන්දියාවේ ත්‍රිවේන්ද්‍රම් ගුවන් තොටුපොළ වෙත යොමු කර තිබේ .
-
-එහෙත් 11/26 දින රාත්‍රී 09.00 චීනයේ චෙංඩු ගුවන් තොටුපොළේ සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි චීන ගුවන් සේවයේ සී.ඒ.- 425 දරන ගුවන් යානය , වැසි තත්වය පැවතියත් , කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට සමත් වී තිබේ .
-
-◼️
-
-[Data](articles/31d9f6aa.json)
-
----
-
-### CBSL introduces Overnight Policy Rate; further eases monetary policy stance
-
-*2024-11-27 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103799/cbsl-introduces-overnight-policy-rate-further-eases-monetary-policy-stance) · `en`
-
-The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to further ease the monetary policy stance and set the newly introduced Overnight Policy Rate (OPR) at 8.00 per cent.
-
-With this change, the effective reduction in the policy interest rate would be around 50 basis points from the current level of the Average Weighted Call Money Rate (AWCMR), which continues to serve as the operating target of the Flexible Inflation Targeting ( FIT) framework, the central bank said.
-
-The Board arrived at the decision, at its meeting held on 26 November 2024, to ease the monetary policy stance following a comprehensive assessment of current and expected domestic and international economic developments, including risks and uncertainties, to ensure that inflation treads towards the inflation target of 5 per cent, while supporting the economy to reach its full capacity, it said.
-
-...
-
-[Data](articles/060d0596.json)
-
----
-
-### IMF chief commends Sri Lanka’s economic reform program, says collective effort key to success of debt restructuring
-
-*2024-11-27 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103798/imf-chief-commends-sri-lankas-economic-reform-program-says-collective-effort-key-to-success-of-debt-restructuring-) · `en`
-
-IMF Managing Director Kristalina Georgieva says the continued support from international financial institutions and other official creditors, together with the participation of bondholders in a debt exchange consistent with debt sustainability, is necessary to underpin the success of Sri Lanka’s economic reform efforts.
-
-She stated that the agreements reached by the Sri Lankan authorities with both the Steering Committee of the Ad Hoc Group of external bondholders, and the Local Consortium of Sri Lanka, mark a significant step forward and that the terms of these agreements have been assessed by the IMF staff as being in line with the parameters of the IMF-supported program.
-
-Anchored by policies under the IMF-supported program, the successful implementation of these agreements will provide significant external debt service relief and further contribute to Sri Lanka’s efforts to restore debt sustainability, the IMF chief said.
-
-...
-
-[Data](articles/d90f9ba6.json)
-
----
 
 ### The Central Bank Monetary Policy Stair
 
@@ -107,26 +57,6 @@ The One-Day Policy Interest rate will be reviewed and revised to communicate the
 [Data](articles/5b3ebd2b.json)
 
 [Extended Data](ext_articles/5b3ebd2b.ext.json)
-
----
-
-### Deep depression to move closer to Sri Lanka’s east coast, intensify into cyclonic storm
-
-*2024-11-27 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103797/deep-depression-to-move-closer-to-sri-lankas-east-coast-intensify-into-cyclonic-storm) · `en`
-
-The Meteorology Department says the deep depression over the southwest Bay of Bengal was located to 190 km southeast of Trincomalee at around 11:30 p.m. of November 26, 2024.
-
-It is likely to move north-northwestwards closer to the east coast of Sri Lanka and intensify further into a cyclonic storm today (November 27).
-
-Under influence of the system cloudy skies will prevailed over most parts of the island, very heavy showers and strong gusty winds can be expected in Northern, North-central, Eastern, North-western and Central provinces, it added.
-
-Showers or thundershowers will occur at times in Northern, North-central, Central, western and North-western provinces and in Trincomalee, Batticaloa and Kegalle districts. Very heavy showers above 150 mm are likely at some places.
-
-Showers will occur at times elsewhere of the island too. Fairly heavy above 75 mm are likely at some places, the Met. department said.
-
-...
-
-[Data](articles/6f8b4512.json)
 
 ---
 
@@ -258,24 +188,6 @@ Meanwhile, the Department of Irrigation further stated that it is necessary to b
 
 ---
 
-### In Sri Lanka ISB exchange, high creditor participation vital: IMF’s Georgieva
-
-*2024-11-27 07:15:00* · [`economynextcom`](https://economynext.com/high-creditor-participation-in-sri-lanka-isb-exchange-vital-imfs-georgieva-190109/) · `en`
-
-ECONOMYNEXT – High creditor participation in an exchange of defaulted sovereign bonds for new securities is vital for the success of the International Monetary Fund program for Sri Lanka, Managing Director Kristalina Georgieva has said.
-
-A debt exchange launched on November 27, will provide significant external debt service relief and further contribute to restore Sri Lanka’s debt sustainability, and was as step forward, she said.
-
-“To capitalize on this momentum, rapid completion of the debt operation with high creditor participation would be vital for the success of the program,” Georgieva said in a statement.
-
-“In parallel, the authorities continue to finalize other remaining debt restructuring agreements. This collective effort is key to supporting the success of Sri Lanka’s debt restructuring efforts.”
-
-...
-
-[Data](articles/059a06ab.json)
-
----
-
 ### One million people in the north
 
 *2024-11-27 07:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-ஒரு-லட்சம்-பேர்-பாதிப்பு/175-347840) · `ta`
@@ -350,37 +262,27 @@ In addition, the parents have been sent to the Foreign Ministry. (A)
 
 ---
 
-### Hurricane Timber - Showers over 150mm
+### සුළි කුණාටුව තිව්‍ර වෙයි - ප්‍රදේශ කිහිපයකට මි.මී 150 ඉක්මවූ වැසි
 
 *2024-11-27 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203780) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+දිවයිනේ උතුරු, උතුරු-මැද, මධ්‍යම,බස්නාහිර සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මඩකලපුව සහ කෑගල්ල දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
 
+ඇතැම් ස්ථානවලට මි.මී.150 ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
 
+නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය 2024 නොවැම්බර් 26 වැනි දින පස්වරු 11.30ට පමණ වන විට ත්‍රිකුණාමලයට කිලෝමීටර් 190ක් පමණ ගිනිකොන දෙසින් පිහිටා තිබුණි.
 
-Heavy rainfall warning: Thunderstorms and showers expected in several provinces. Strong winds forecasted. Public advised to be cautious due to potential lightning and wind-related hazards.
+එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව උතුරට බරව වයඹ දෙසට ගමන් කරමින් අද (27) සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇත.
 
-🟩
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු, උතුරු-මැද, නැගෙනහිර, වයඹ සහ මධ්‍යම පළාත්වලට ඉතා තද වැසි සහ තද සුළං තවදුරටත් අපේක්ෂා කරයි.
 
-Showers or thundershowers at times in Trincomalee, North-Central, Central, Central, Western, Western, Western, Western and North Western Provinces.
+දිවයිනේ සෙසු ප්‍රදේශවලත් විටින් විට වැසි ඇති විය හැකි අතර, ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ද ඇතිවිය හැකිය.
 
-The Department of Meteorology announces heavy rains in exception of 1550 mm.
-
-The deep pressure depression in the Bay of Bay of Bay of Bay of Bengal was around 11.30 pm on November 26 at 11.30 pm.
-
-It is likely to increase the northwest of the North West today, heading to the East Coast of the island.
-
-Due to the impact of this system, the sky is still weighed on clouds and strict rain and strong winds in the Northern-Central, North Western and Central provinces.
-
-Showers at times in the rest of the island and at times, mm. Heavy rains can also occur in more than 75.
-
-From time to time in the North, North Central, Western, Western, North Western, Southern and Eastern provinces.. There are about 40-50 strong winds.
+උතුරු, උතුරුමැද , මධ්‍යම, බස්නාහිර, වයඹ, දකුණ සහ නැගෙනහිර පළාත්වල විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං පවතී.
 
 ...
 
 [Data](articles/aded8091.json)
-
-[Extended Data](ext_articles/aded8091.ext.json)
 
 ---
 
@@ -584,8 +486,6 @@ The change that the new election has brought to the country is unprecedented. We
 
 [Data](articles/291ced4c.json)
 
-[Extended Data](ext_articles/291ced4c.ext.json)
-
 ---
 
 ### Entrepreneurship in the 21st century
@@ -633,6 +533,24 @@ The proposal to this effect presented by the President Anura Kumara Dissanayake 
 ◼️
 
 [Data](articles/749e1665.json)
+
+---
+
+### In Sri Lanka ISB exchange, high creditor participation vital: IMF’s Georgieva
+
+*2024-11-27 05:37:00* · [`economynextcom`](https://economynext.com/high-creditor-participation-in-sri-lanka-isb-exchange-vital-imfs-georgieva-190109/) · `en`
+
+ECONOMYNEXT – High creditor participation in an exchange of defaulted sovereign bonds for new securities is vital for the success of the International Monetary Fund program for Sri Lanka, Managing Director Kristalina Georgieva has said.
+
+A debt exchange launched on November 27, will provide significant external debt service relief and further contribute to restore Sri Lanka’s debt sustainability, and was as step forward, she said.
+
+“To capitalize on this momentum, rapid completion of the debt operation with high creditor participation would be vital for the success of the program,” Georgieva said in a statement.
+
+“In parallel, the authorities continue to finalize other remaining debt restructuring agreements. This collective effort is key to supporting the success of Sri Lanka’s debt restructuring efforts.”
+
+...
+
+[Data](articles/059a06ab.json)
 
 ---
 
@@ -785,18 +703,6 @@ The Cabinet Spokesman also disclosed that the Chinese Embassy in Sri Lanka has a
 [Data](articles/e74c8ca6.json)
 
 [Extended Data](ext_articles/e74c8ca6.ext.json)
-
----
-
-### “No Chance Even For A Simple Mistake” President Says, But Officials Are Ready To Make Big Ones
-
-*2024-11-27 03:40:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/no-chance-even-for-a-simple-mistake-president-says-but-officials-are-ready-to-make-big-ones/) · `en`
-
-President Anura Kumara Dissanayake at the Inauguration of the First Session of the Tenth Parliament delivering a speech, said that the NPP government must go with the IMF framework and the previous administration’s debt restructuring agreements as they have been endorsed by the IMF. It is true. Renegotiating for a new Debt Sustainability Analysis (DSA) is now dead. That is good, because we must end this process as early as possible to enter a new beginning. If the Net Present Value analysis proves beneficial for us to ensure debt sustainability even under the macro-linked bond mechanism we must finish this process. The NPP government is going to do it possibly by the end of December this year. It is a great consolation.
-
-...
-
-[Data](articles/729f63d2.json)
 
 ---
 
@@ -1015,18 +921,6 @@ Police have asked the public to inform the headquarters of the emergency situati
 ---
 
 ### 2024-11-26 (Tuesday)
-
-### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
-
-*2024-11-26 23:20:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
-
-The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
-
-...
-
-[Data](articles/7b4fd7e2.json)
-
----
 
 ### Action by the police for emergency complaints due to random climate
 
@@ -2297,5 +2191,139 @@ The film crew has said that Yogi Babu, who starred in the backdrop of the music 
 [Data](articles/e43f342e.json)
 
 [Extended Data](ext_articles/e43f342e.ext.json)
+
+---
+
+### Major announcement of Batticaloa District Disaster Management Center!
+
+*2024-11-26 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199756) · `ta`
+
+Batticaloa District Disaster Management Center announcement: AMS Syath appeals to monitor water levels, ponds, and rivers due to heavy rainfall risk in Bay of Bengal. Flood disaster precautions advised.
+
+🟩
+
+The Assistant Director of the Batticaloa District Disaster Management Center, AMS Syath, has appealed to the district media unit to observe the people living in the water levels, ponds and river in the Batticaloa district.
+
+The ponds in the district have been filled with large quantities of ponds, including a large pond in the district, and the ponds have been opened, and the river, ponds and lowland areas are very observed, and that the bridges and streets of the roads are traveling in the streets of the road..
+
+He has also appealed to all the people with flood disaster, due to the risk of heavy rainfall in the Bay of Bengal.
+
+◼️
+
+[Data](articles/4aa675a0.json)
+
+[Extended Data](ext_articles/4aa675a0.ext.json)
+
+---
+
+### No exams for 3 days
+
+*2024-11-26 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-நாட்களுக்கு-பரீட்சைகள்-இல்லை/175-347813) · `ta`
+
+Advanced Level Examination postponed due to climate. Next 3 days cancelled. Rescheduled for 27-29th. Other posts on 21st & 23rd next month.
+
+🟩
+
+With the prevailing worse climate in the country, it has been decided to not conduct the Advanced Level Examination for the next three days.
+
+The already scheduled exams have been postponed for the upcoming 27,28 and 29th.
+
+The posts that have been done are scheduled to be held on the 21st and 23rd of next month.
+
+◼️
+
+[Data](articles/421b3ac3.json)
+
+[Extended Data](ext_articles/421b3ac3.ext.json)
+
+---
+
+### No exams for 3 days
+
+*2024-11-26 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/3-நாட்களுக்கு-பரீட்சைகள்-இல்லை/150-347813) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Advanced Level Exams postponed due to bad weather. Next sessions: 27-29th. Other tests remain on 21st and 23rd of next month.
+
+🟩
+
+With the prevailing worse climate in the country, it has been decided to not conduct the Advanced Level Examination for the next three days.
+
+The already scheduled exams have been postponed for the upcoming 27,28 and 29th.
+
+The posts that have been done are scheduled to be held on the 21st and 23rd of next month.
+
+◼️
+
+[Data](articles/43eec63a.json)
+
+[Extended Data](ext_articles/43eec63a.ext.json)
+
+---
+
+### Sri Lanka’s new President needs to address longstanding abuses, impunity – Human Rights Watch
+
+*2024-11-26 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103788/sri-lankas-new-president-needs-to-address-longstanding-abuses-impunity-human-rights-watch) · `en`
+
+Sri Lanka’s new president, Anura Kumara Dissanayake, should address the country’s many human rights problems by fulfilling and building upon pledges he made in recent election campaigns, Human Rights Watch has said in a letter to the president.
+
+Human Rights Watch said in a statement that in his election manifesto, Dissanayake pledged to repeal the Prevention of Terrorism Act, remove abusive provisions of the Online Safety Act, establish an independent Directorate of Public Prosecutions separate from the attorney general’s office, aggressively combat corruption, and revise economic policies to promote equity.
+
+“However, while his government has announced renewed investigations into the 2019 Easter Sunday bombings and other emblematic crimes, it should also reverse the failures of previous administrations to address severe human rights violations committed during the 1983-2009 civil war between the government and the separatist Liberation Tigers of Tamil Eelam”, it added.
+
+...
+
+[Data](articles/59734ea0.json)
+
+[Extended Data](ext_articles/59734ea0.ext.json)
+
+---
+
+### Is the government's decision to delay the proposal to reduce electricity tariffs?- UNP. Question
+
+*2024-11-26 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199749) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Government delays reducing electricity tariffs despite Electricity Board's profitability. Public Utilities Commission requests proposal by December. If not received, commission plans to reduce tariffs based on board's profits. Former UNP parliamentarian Saman Ratnapriya criticizes delay, emphasizing Electricity Board's responsibility to amend electricity bills when profitable.
+
+🟩
+
+When the Electricity Board is profitable, it is the responsibility of the Electricity Board to make amendment to the electricity bill.. Former United National Party (UNP) parliamentarian Saman Ratnapriya said the question is whether the government's decision to delay the resolution on this electricity tariff reduction.
+
+He was speaking at a press conference held at the New Democratic Front office in Colombo on Tuesday (26).
+
+Based on its employees on the basis of profit from the Ceylon Electricity Board. But it is reported that the Electricity Board is taking steps to not pay the bonus allowance for its employees. We make a demand for the bonus allowance to be paid to the employees.
+
+Similarly, the electricity tariff must be reduced in parallel with the profit that the Electricity Board receives. Even though the Public Utilities Commission has asked the Electricity Board on the reduction of electricity tariffs. It is seen that the Electricity Board is delaying the delivery of it.
+
+...
+
+[Data](articles/f2682f82.json)
+
+[Extended Data](ext_articles/f2682f82.ext.json)
+
+---
+
+### වාහන ආනයනය ගැන රජයේ තීරණය
+
+*2024-11-26 17:55:03* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-තීරණය/11-413292) · `si`
+
+වාහන ආනයනය කිරීම ලබන වසරේදී අදියර කිහිපයක් යටතේ සිදුකරන බවත් එහිදී සංචිත පිළිබඳව අවධානය යොමුකළ යුතුව ඇති බවත් කම්කරු අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පැවැසීය.
+
+“වාහන ආනයනය කිරීමට කාණ්ඩ කිහිපයක් යටතේ තමයි අවසර ලබාදීම සිදු කරන්නේ. විශේෂයෙන්ම වාණිජ මට්ටමේ තිබෙන වාහන. නමුත් එය සිදුකරන්නේ විදේශ විනිමය සීමා වලට යටත්වයි.
+
+දැනට සංචිත කොපමණ ප්‍රමාණයක් තිබෙනවාද යන්න පිළිබඳව ගණන් කර තිබෙනවා.  මහ බැංකුව යම් ආකාරයක අතිරේක සංචිත හදලා තිබෙනවා.
+
+විනියම සීමාවන්ට යටත්ව තමයි අවසර දෙනේනේ. අදියර තුනක් යටතේ වාහන ගෙන්වන්න අවස්ථාව දෙනවා. ස්ථායිකරන වැඩපිළිවෙළකට මේක යන්න ඕන. එකවරම අතහැරලා මේක කඩා දාන්න දෙන්න බෑ.”
+
+◼️
+
+[Data](articles/8878e261.json)
 
 ---

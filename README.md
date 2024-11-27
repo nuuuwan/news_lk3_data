@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 19:02:40**
+As of **2024-11-27 20:26:27**
 
 ## Newspaper Stats
 
-*Scraped **57,259** Articles*
+*Scraped **57,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,291 @@ islandlk | 3,431
 economynextcom | 3,478
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,402
-adaderanalk | 6,933
-tamilmirrorlk | 8,145
-virakesarilk | 9,332
-adaderanasinhalalk | 9,886
+adalk | 5,404
+adaderanalk | 6,934
+tamilmirrorlk | 8,148
+virakesarilk | 9,335
+adaderanasinhalalk | 9,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,246 (100.0%) of 57,259 articles have been extended.
+57,270 (100.0%) of 57,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### மட்டக்களப்பில் வயலில் சிக்கிய விவசாயிகள் - கெலிகொப்டர் மூலம் ஒருவர் மீட்பு
+### The first day of the first day of the rainfall ended with 20.4 overs;South Africa 80 - 4 wig. ;Sri Lankans in bowling
+
+*2024-11-27 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199884) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+1st day ICC World Test Champs: SA 80/4 in 20.4 overs vs SL. Rain interrupted play. Aidan Markram & Tony de Zorzi fell to Angelo Mathews & Kusal Mendis. Tristan Stubbs & Temba Bavuma added 32 runs before Stubbs was caught. David Bedingham bowled by Lahiru Kumara. Play ended at 3pm due to persistent rain.
+
+🟩
+
+The first day of the first ICC World Test Championships, which began on Wednesday (27) at the Durban and Kingsmate Stadium between Sri Lanka and South Africa, ended with 20.4 overs due to rain.
+
+South Africa, who was first invited to bat first, was 80 runs for the loss of 4 wickets in the first innings when the match was blocked by the rain.
+
+Aidon Margram (9) and Tony D Soozi (4), both the initial players, lost the game.
+
+Angelo Mathews took the grip of Margram in the bowling of Fernando, and Kamanta Mendis took the grip of De Souzi in the bowling of Vishwa Fernando.
+
+Subsequently, Triston Stubs (16) and team captain Tempa Bauma lost 32 runs in the 3rd wicket.
+
+Stubs caught up with Timut Karuna in a slip of Lahiru Kumara's bowling. (௪௬ - ௩)
+
+When the total number was 54 runs, David Bedingham (4) became Bolt in Lahira Kuma's bowling.
+
+Mediators announced that the first day of the game would be ended at 3.00 pm as the rain continued after the daytime.
+
+...
+
+[Data](articles/b2a6bf64.json)
+
+[Extended Data](ext_articles/b2a6bf64.ext.json)
+
+---
+
+### Heroes Day in the North and East was remembered amidst the most sensitive pouring rain!
+
+*2024-11-27 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199882) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Heroes Day commemorated in North and East despite heavy rain. Emotional gatherings at Mullivaikkal house, Tuilumilla campus, Jaffna Heroes House, Vavuniya Municipal Hall, Kilinochchi Equality Party office. Floral tributes and torch lighting ceremonies honored fallen heroes and their families.
+
+🟩
+
+Despite the inclement weather across the country, the pouring rain has taken place in the midst of pouring rain.
+
+Heroes Day is celebrated annually in the Northern and Eastern Provinces of Northern and Eastern Provinces. This year, the day of the Heroes' Day was observed from November 21st to 27th of November.
+
+The parents of the heroes, relatives, ex -combatants and civilians at the Mullivaikkal house, gathered emotionally in the midst of pouring rain and paid tribute to those who sacrificed their lives.
+
+In the Mullivaikkal Tuilumilla campus, the bell was raised at 6.05 pm, and the other flame was carried out by the parents and relatives of Vallipuram Pushpamalar, the mother of the chief public flame hero.
+
+Following the Tuilumilla song broadcast. During this time, the parents, relatives and attendees of the heroes recalled the tears of tears, and a large number of civilians participated in the event.
+
+...
+
+[Data](articles/eef2b8c4.json)
+
+[Extended Data](ext_articles/eef2b8c4.ext.json)
+
+---
+
+### Rs. 75 million robbery; 2 suspects arrested
+
+*2024-11-27 19:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-75-மில்லியன்-கொள்ளை-2-சந்தேக-நபர்கள்-கைது/175-347886) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rs. 75 million robbery solved: 2 suspects arrested in Minuwangoda. Police seized 4 million rupees during arrest. Investigation ongoing.
+
+🟩
+
+In Minuwangoda. Two main suspects have been arrested in connection with the 75 million robbery.
+
+About 4 million rupees have been seized from the suspects during the arrest.
+
+◼️
+
+[Data](articles/c21acd1d.json)
+
+[Extended Data](ext_articles/c21acd1d.ext.json)
+
+---
+
+### Prabe Jayasuriya forward in ratings
+
+*2024-11-27 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203811) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Prabath Jayasuriya rises to 5th ICC Test ranking. Scores 801 runs, achieves highest Test score. Jos Buttler tops as world #1 Test bowler. Kagiso Rabada 2nd, Josh Hazlewood 3rd. Asitha Fernando ranks 14th.
+
+🟩
+
+Sri Lanka's townsontest player Prabath Jayasuriya has come forward to 5th place by the International Cricket Council yesterday (26).
+
+With this arrival, the probe was ranked 801 runs, while he was able to get Testtime, the highest rated score.
+
+Bangladesh and Billa. The rating has been published after the first Test cricket match between West Indies yesterday.
+
+Accordingly, Josephrit Bumra, India, has come to the world's number one Test bowler.
+
+Among these rankings is the second place between Kugso Raboda, South Africa, and Josh Hazelwood in Australia.
+
+However, after the repeated Sri Lanka bowler, Asapha Fernando, is the 14th place.
+
+◼️
+
+[Data](articles/ab8820a9.json)
+
+[Extended Data](ext_articles/ab8820a9.ext.json)
+
+---
+
+### “The new government is on the path of Ranil”
+
+*2024-11-27 19:20:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கம்-ரணிலின்-பாதையில்-செல்கிறது/175-347885) · `ta`
+
+Sajith Premadasa accuses govt of ignoring mandate, following Ranil Wickremesinghe's path. Criticizes failure to fulfill election promises on electricity, fuel prices. Calls for tax reform and transparency.
+
+🟩
+
+Opposition leader Sajith Premadasa has accused the government of ignoring the people's mandate and going on the path of former President Ranil Wickremesinghe.
+
+Commenting to the media in Colombo, Premadasa said that despite the support of the International Monetary Fund to benefit the public, the government has subjected to the IMF orders and failed to provide firm relief to the citizens.
+
+Pointing out the contradictions between the election campaign promises and the government's actions, Premadasa said the promises of electricity and fuel prices were not fulfilled.
+
+While his party supported the IMF's framework, he stressed that he was determined to reform the tax structures to reduce the burden of the public.
+
+The Opposition Leader, noted that there was no transparency, criticized the government's inability to implement meaningful reforms.
+
+◼️
+
+[Data](articles/cf36f5a0.json)
+
+[Extended Data](ext_articles/cf36f5a0.ext.json)
+
+---
+
+### Announcement on the date of recovery of the GCE Advanced Level Examination
+
+*2024-11-27 19:15:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தர-பரீட்சை-மீள-ஆரம்பமாகும்-திகதி-குறித்த-அறிவிப்பு/175-347884) · `ta`
+
+GCE A/L exam 2024 postponed due to bad weather. New date after Nov 29 when conditions improve. Flood-affected students get extra time to return to normal. Decision based on weather forecast and situation assessment.
+
+🟩
+
+Defense Secretary Sampath Thuakonda said that the Department of Examinations will announce the weather condition after November 29, the date of the GCE (O/L) examination.
+
+He said at a media briefing held at the Government Information Department that the Department of Meteorology had predicted that the intensity of rain and wind would decrease after November 29, he said.
+
+He said that the students in the flood -affected areas should be given adequate time to return to normal after the climate improved and the new date will be decided by assessing the situation.
+
+Due to the prevailing adverse climate, the Department of Examinations has suspended the GCE Advanced Level Examination for 2024.
+
+◼️
+
+[Data](articles/d4433d83.json)
+
+[Extended Data](ext_articles/d4433d83.ext.json)
+
+---
+
+### Liga
+
+*2024-11-27 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/199877) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tree falls on house during heavy rain in Mulliyawala village, causing significant damage to the roof. Incident occurred on Wednesday morning when a large tamarind tree collapsed onto a nearby residence.
+
+🟩
+
+The incident took place on Wednesday (27) that the roof of the house was completely damaged as a tree fell on the roof of the house in the Mulliyawala area.
+
+With heavy rainfall, a large tamarind tree near the house in the early hours of this morning has fallen in a house in the village of Mulliyawalai, Mulliyawalai.
+
+◼️
+
+[Data](articles/4ecabbec.json)
+
+[Extended Data](ext_articles/4ecabbec.ext.json)
+
+---
+
+### Farmers trapped in Batticaloa
 
 *2024-11-27 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199875) · `ta`
 
-மட்டக்களப்பு புல்லுமலை தம்பட்டி மற்றும் மாவடி ஓடை வண்ணாத்தி ஆறு பகுதிகளில் உள்ள வயல்களில் வேளாண்மை நடவடிக்கைக்கு சென்ற 7 விவசாயிகள் அந்த பகுதிகளில் ஏற்பட்ட வெள்ளத்தினால் அங்கிருந்து வெளியேறி வீடு திரும்ப முடியாமல், இரு தினங்களாக வயலில் சிக்கியிருந்துள்ளனர். இந்நிலையில், அவர்களில் ஒரு விவசாயியை விமானப்படையினர் ஹெலிகொப்டர் மூலம் இன்று புதன்கிழமை (27) மீட்டனர்.
+Batticaloa floods trap 14 farmers; 1 rescued by Air Force helicopter; others stranded
 
-அந்த பகுதியிலுள்ள வயல்களில் வேளாண்மை காவலுக்கு கடந்த திங்கட்கிழமை (25) சென்ற மற்றும் வேளாண்மை நடவடிக்கைகளுக்காக புல்லுமலை தம்பட்டி வயல் பிரதேசத்தில் 3 விவசாயிகளும் மாவடி ஓடை வண்ணாத்தி ஆறு வயல் பிரதேசத்தில் 4 பேர் உட்பட 7 விவசாயிகள் சென்றிருந்தனர்.
+🟩
 
-இந்நிலையில் கடும் மழை காரணமாக அந்த பகுதியிலுள்ள குளங்களின் வான்கதவு திறக்கப்பட்டதையடுத்து வயல் நிலங்கள் வெள்ளத்தில் முழ்கியதுடன், பல வீதிகள் நீரில் மூழ்கியதையடுத்து அந்த விவசாயிகள் தமது வாடிகளில் இருந்து வீடுகளுக்கு வெளியேற முடியாமல் சிக்கியிருந்துள்ளனர்.
+Seven farmers who went to agriculture in the fields of Pullumalai Thampatti and Mavadi Oya Valanthi in Batticaloa have been trapped in the field for two days due to the floods in those areas.. In this case, a farmer was rescued by Air Force helicopter on Wednesday (27).
+
+In the fields of the area, 3 farmers in the Pullumalai Tampatti Vayal area, and 7 farmers, including 4 in the Mavadi Oya Varadi Six Vaikkal area, went to the agricultural guard of the area last Monday (25).
+
+Due to heavy rains, the fields of the ponds in the area have been flooded and the farmers have been trapped in the floods and many roads have been submerged.
+
+The Air Force, who was involved in the rescue of the cigarette, today rescued a man who was rescued by a helicopter in the Mountains.
+
+Meanwhile, one of the three people in the Pullumalai Thambitti Vayal area has been swimming in a flood.Police have rescued the other two.
 
 ...
 
 [Data](articles/c8a1c569.json)
+
+[Extended Data](ext_articles/c8a1c569.ext.json)
+
+---
+
+### Court authorizes Ranil as a respondent in a SLR petition
+
+*2024-11-27 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203810) · `si`
+
+Supreme Court allows Ranil Wickremesinghe as respondent in SLR petition over Court of Appeal judge appointment. Petition filed by Senaka Walgampaya. Case heard by Judges Janaka de Silva and Mahinda Samayawardena.
+
+🟩
+
+The Supreme Court has allowed former President Ranil Wickremesinghe as a fundamentary judiciary over the appointment of the judge of the Court of Appeal.
+
+The petition was presented by President's Counsel Senaka Walgampaya.
+
+The petition was called before the Supreme Court Judge of Janaka de Silva and Mahinda Samaya Saletes today (27).
+
+The Attorney at the Petterian parties had informed the court that the petition was nominated as a respondent of the petition.
+
+According to the Judge Courtsist, the Justice of the panel was ordered to be summoned for the examination for the examination for the examination.
+
+The petition was filed by the President's Counsel Senaka Walgampaya demanding the appointment of the judge of the Court of Appeal during the expiration of the judges.
+
+◼️
+
+[Data](articles/de9998f1.json)
+
+[Extended Data](ext_articles/de9998f1.ext.json)
+
+---
+
+### ‘Red’ landslide early warning issued for areas in 3 districts extended
+
+*2024-11-27 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103819/red-landslide-early-warning-issued-for-areas-in-3-districts-extended) · `en`
+
+The National Building Research Organisation (NBRO) has extended the ‘Level 3 (Red)’ Landslide Early Warning  issued to several divisional secretariat divisions (DSDs) in Kandy, Matale and Nuwara-Eliya districts urging the residents of these areas to evacuate to safer locations.
+
+Accordingly, the Level -3 warning, valid for the next 24 hours, has been issued for the following divisional secretariat divisions and surrounding areas:
+
+Kandy District - Harispattuwa, Medadumbara, Kandy Four Gravets or Gangawata Korale, Ududumbara, Doluwa,  Yatinuwara, Udapalatha, Pathahewaheta, Udunuwara, Pathadumbara and Delthota
+
+Matale District - Ukuwela, Yatawatta, Rattota, Wilgamuwa, Ambanganga Korale, Laggala Pallegama, Pallepola, Naula and Matale
+
+Nuwara Eliya District - Walapane Divisional Secretariat Division (DSD) and surrounding areas
+
+...
+
+[Data](articles/57be856a.json)
+
+[Extended Data](ext_articles/57be856a.ext.json)
 
 ---
 
@@ -68,43 +324,155 @@ Very heavy showers above 150 mm are likely at some places while showers will occ
 
 ---
 
-### நுவரெலியாவில் வெள்ளத்தில் மூழ்கிய சிறுவர் பூங்கா
+### Videlines in East Muslim schools today and tomorrow
+
+*2024-11-27 18:07:18* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-මුස්ලිම්-පාසල්වලට-අද-හා-හෙට-නිවාඩු/11-413320) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Due to bad weather, Muslim schools closed today and tomorrow. Education Secretary says classes resume Monday."
+
+🟩
+
+In view of the inclement weather, Muslim schools will be paid tomorrow (28) and tomorrow (28) and tomorrow.
+
+Provincial Education Secretary H.M.W.WD According to professor of Governor Jayanthalal Ratnasekera, the Provincial Secretary of Education. Mr. Dissanayake said.
+
+The education secretary said that schooling is scheduled to commence on the existing situation on Monday.
+
+◼️
+
+[Data](articles/9bf4452a.json)
+
+[Extended Data](ext_articles/9bf4452a.ext.json)
+
+---
+
+### A cyclone in the next six hours close to the East Coast
+
+*2024-11-27 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203809) · `si`
+
+Cyclone warning: East Coast within 6 hours. Deep pressure drop in Bay of Bengal. Heavy rain, thunderstorms forecasted for several provinces. Strong winds (40-50 mph). Lightning and wind-related accidents possible. Take precautions.
+
+🟩
+
+Deep pressure recession in the Bay of Bengal Bay of Bengal. In. The Met Department forecasts around 11.30 km away from the east of Trincomalee.
+
+In an announcement, the department said that the deeper pressure depression is traveling near the eastern coast of the island and detriment to a cyclone in the next six hours.
+
+The announcement is expected to be experiencing high clouds in many parts of the island due to the impact of this system.
+
+Showers or thundershowers at times in the North, North-Central, Central, Central, Western, Western, Western, Western and North Western provinces.
+
+From time to time in the North, North-Central, Western, North Western, Southern and Eastern Provinces. (40-50) There are about strong winds.
+
+People have been asked to take necessary steps to reduce temporary strong winds and lightning accidents.
+
+◼️
+
+[Data](articles/4f28de4a.json)
+
+[Extended Data](ext_articles/4f28de4a.ext.json)
+
+---
+
+### රු. කෝටි හතේ කොල්ලයේ ප්‍රධාන සැකකරුවන් දෙදෙනා අත්අඩංගුවට
+
+*2024-11-27 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203808) · `si`
+
+මිනුවන්ගොඩ ප්‍රදේශයේදී රුපියල් කෝටි හතහමාරක මුදලක් කොල්ලකෑමේ සිද්ධියේ ප්‍රධාන සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන තිබේ.
+
+ගම්පහ පොලීසියේ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් සැකකරුවන් දෙදෙනාව මිනුවන්ගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරුවන් සතුව තිබී රුපියල් ලක්ෂ 40ක පමණ මුදලක් සොයාගෙන තිබේ.
+
+මෙම ප්‍රධාන සැකකරුවන් දෙදෙනාගෙන් එක් අයෙකු ආරක්ෂිතව මුදල් ප්‍රවාහනය කරන පෞද්ගලික ආයතනයක රියදුරෙක් ලෙස කටයුතු කර තිබූ අතර, අනෙක් පුද්ගලයා මෙම කොල්ලකෑමේ සිද්ධියට සහයෝගය දැක්වූ අයෙක්ය.
+
+මිනුවන්ගොඩ පෞද්ගලික බැංකුවක් වෙත මුදල් රැගෙන යන අතරතුර එම රියදුරු ලෙස කටයුතු කළ පුද්ගලයා නොවැම්බර් 18 වැනිදා රුපියල් කෝටි හතහමාරක මුදලක් රැගෙන එම රථයෙන්ම පළාගොස් තිබුණි.
+
+ඒ අනුව ගම්පහ කොට්ඨාස මර්දන විමර්ශන ඒකකය හා මිනුවන්ගොඩ පොලීසිය මේ පිළිබඳ විමර්ශන ආරම්භ කළේය.
+
+◼️
+
+[Data](articles/12f596dc.json)
+
+---
+
+### Children's park in floods in Nuwara Eliya
 
 *2024-11-27 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199873) · `ta`
 
-நுவரெலியா மாவட்டத்தில் கடந்த சில நாட்களாக பெய்துவரும் அடைமழையால் பல்வேறு இடங்களில் வெள்ளம் ஏற்பட்டுள்ளது.
+Nuwara Eliya floods: Children's Park at Victoria Park submerged, tourist ban issued, sports equipment and gardens damaged.
 
-இதில் நுவரெலியா மாநகர சபைக்கு சொந்தமான விக்டோரியா பூங்கா மற்றும் அதனை அண்மித்துள்ள பகுதிகள் வெள்ளத்தில் மூழ்கியதால் விக்டோரியா பூங்காவில் சிறுவர் பூங்கா பகுதிக்குச் செல்ல சுற்றுலா பயணிகளுக்கு தடை விதிக்கப்பட்டுள்ளது.
+🟩
 
-எனினும், தொடர்மழை காரணமாக இந்த சிறுவர் பூங்கா குளமாக மாறியுள்ளது. அத்தோடு சிறுவர்கள் விளையாடும் இடம் முழுவதும் மழை நீர் தேங்கி காணப்படுகிறது.
+In the Nuwara Eliya district, the floods have been flooded in various places over the past few days.
 
-மேலும், விளையாட்டு உபகரணங்கள், இருக்கைகள் மற்றும் மாநகர சபையினால்  பராமரிப்பு செய்துவந்த மலர் தோட்டங்கள் நீரில் மூழ்கி கிடக்கின்றமை குறிப்பிடத்தக்கது.
+Tourists have been banned from going to the Children's Park at Victoria Park as the Victoria Park belonging to the Nuwara Eliya Municipal Council and its adjacent areas have been flooded.
+
+However, this children's park has become a pond due to continuous rainfall. Rain water is stagnant throughout the place where the boys play.
+
+It is also worth noting that sports equipment, seats and floral gardens maintained by the Municipal Council are submerged.
 
 ◼️
 
 [Data](articles/9a820bfa.json)
 
+[Extended Data](ext_articles/9a820bfa.ext.json)
+
 ---
 
-### பதுளையில் 477 குடும்பங்கள், 1861 பேர் கனமழையினால் பாதிப்பு
+### 477 families in Badulla and 1861 people are affected by heavy rains
 
 *2024-11-27 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199871) · `ta`
 
-பதுளை மாவட்டத்தில் கடந்த நான்கு நாட்களாக பெய்த கடும் மழை காரணமாக 477 குடும்பங்களைச் சேர்ந்த 1861 பேர் பாதிக்கப்பட்டுள்ளதாக பதுளை மாவட்ட அனர்த்த முகாமைத்துவ நிலையத்தின் உதவிப் பணிப்பாளர் ஈ.எம். எல். உதயகுமார தெரிவித்தார்.
+Badulla: Heavy rains affect 477 families, 1861 people. 247 homes damaged, 378 displaced. Relief efforts underway. Landslides block roads, disrupt railway service.
 
-மாவட்டத்தில் உள்ள அனைத்து பிரதேச செயலகப் பிரிவுகளிலும் கடும் மழையினால் அனர்த்தங்கள் ஏற்பட்டுள்ளன.
+🟩
 
-இதுவரை கிடைக்கப் பெற்ற தகவல்களின் அடிப்படையில், 247 வீடுகளுக்கு பகுதியளவில் சேதங்கள் ஏற்பட்டுள்ளன.
+Assistant Director of the Badulla District Disaster Management Center. L. Udayakumara said.
 
-மண்சரிவு மற்றும் திடீர் வெள்ளம் மற்றும் மண்சரிவு அனர்த்தத்துக்கு முகங்கொடுத்த 100 குடும்பங்களைச் சேர்ந்த 378 பேர் அவர்களது உறவினர்களின் வீடுகளில் தற்காலிகமாக தங்க வைக்கப்பட்டுள்ளனர்.
+Heavy rains have been caused by heavy rains in all the Divisional Secretariat Divisions in the district.
 
-அவர்களுக்கு தேவையான உலர் உணவு நிவாரணப் பொருட்களை பிரதேச செயலகங்களின் ஊடாக வழங்க நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.
+Based on the information available so far, 247 homes have been partially damaged.
 
-பதுளை மாவட்டத்தில் கடுமையான அனர்த்தங்களுக்கு முகங்கொடுத்துள்ள 113 குடும்பங்களைச் சேர்ந்த 411 பேரை பராமரிப்பதற்காக தற்காலிகமாக 7 இடைத்தங்கல் முகாம்கள் அமைக்கப்பட்டுள்ளன.
+378 people from 100 families who face the floods and sudden floods and landslides have been temporarily housed in their relatives' homes.
+
+Steps have been taken to provide them with dry food relief supplies through the Divisional Secretariats.
+
+Seven intermediate camps have been set up to maintain 411 people from 113 families who have faced severe disasters in the Badulla district.
+
+Eight persons from 2 families who were affected by landslides in Udapanguwa area in the Lunugala Divisional Secretariat Division164 people from 41 families affected by the floods in the Rotawela area have been housed at the Eberawa Viharaya.
 
 ...
 
 [Data](articles/125de478.json)
+
+[Extended Data](ext_articles/125de478.ext.json)
+
+---
+
+### ජනපතිගේ ක්ලීන් ශ්‍රී ලංකා වැඩපිළිවෙළට ඔස්ට්‍රේලියාවේ ප්‍රසාදය
+
+*2024-11-27 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203807) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ  "ක්ලීන් ශ්‍රී ලංකා"  වැඩපිළිවෙළ අගය කරන බව ශ්‍රී ලංකාවේ ඔස්ට්‍රේලියානු මහ කොමසාරිස් පෝල් ස්ටීවන්ස් මහතා පවසයි.
+
+ඒ සඳහා ඕනෑම අවස්ථාවක අවශ්‍ය සහාය ලබා දීමට ද කටයුතු කරන බව පැවසූ ඔහු අල්ලස් දූෂණවලින් තොර නව රජයේ වැඩපිළිවෙළ ආයෝජකයින් ආකර්ෂණය කිරීමට හේතුවන බව පැවසීය.
+
+අද (27) ජනාධිපති කාර්යාලයේ දී ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා හමු වූ අවස්ථාවේදී ඔහු ඒ බව පවසා ඇත.
+
+එමෙන්ම එම යාන්ත්‍රණය රට පුරා ස්ථාපිත කිරීමට රජය ගෙන යන වැඩපිළිවෙළ සඳහා ඕනෑම අවස්ථාවක සහයෝගය දක්වන බවද ඔස්ට්‍රේලියානු මහකොමසාරිස්වරයා සඳහන් කර තිබේ.
+
+ඕස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර පවතින වසර 75ක මිතුදම තවදුරටත් ශක්තිමත් කරමින් දෙරට අතර සමීප සබඳතා ඉදිරියටත් පවත්වාගෙන යාමට කටයුතු කරන බවද මහකොමසාරිස්වරයා මෙහිදී පැවසූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ජාතික ආරක්‍ෂාව, සමුද්‍රීය කටයුතු, ඩිජිටල්කරණය, රාජ්‍ය අංශය නවීකරණය, වෘත්තීය අධ්‍යාපනය සහ බලශක්ති ක්ෂේත්‍රය පිළිබඳ ඕස්ට්‍රේලියානු තාක්ෂණික සහාය ලබා දීම සම්බන්ධයෙන්ද මෙහිදී අවධානය යොමු කර ඇත.
+
+◼️
+
+[Data](articles/b7725be6.json)
 
 ---
 
@@ -211,6 +579,36 @@ It is reported that the couple has a baby and the woman is pregnant for the seco
 [Data](articles/ad0e16a6.json)
 
 [Extended Data](ext_articles/ad0e16a6.ext.json)
+
+---
+
+### A change in Upcountry Railway Run
+
+*2024-11-27 17:24:01* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයේ-වෙනසක්/11-413319) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Colombo Fort-Badulla rail line disrupted due to landslides. Trains rerouted via Nanu Oya. Goods train service from Nanu Oya to Kandy. Rain causes delays. Restoration efforts underway."
+
+🟩
+
+The Nawalapitiya Railway Control Room said that the Colombo Fort Railway line between Colombo Fort Railway Badulla Badulla has been running out of several changes in the Colombo Fort Railway Badulla due to the Colombo Fort Railway Line.
+
+Due to death in the Uduru 7 Post-Post-Post-Post-Post, Dodula 7, Badulla, Badulla, has been completely impaled.
+
+Colombo Fort to Nanu Oya, 1015, from Colombo Fort to Badulla, from Colombo Fort to Nanu Oya to Badulla and Wait from Kandy to Nanu Oya to Colombo Fort.Udarata Menike Train at Bandarawela to Colombo Fort, Sprigner Railway From Bandarawela to Colombo Fort, Number 1008The Railways Department said that the goods transport mixed train will be run from Nanu Oyaya to Kandy.
+
+Meanwhile, the Railway Department's statement is not running between the Colombo Fort, Badulla Fort.
+
+However, the railway authorities say that many leaves were to remove the Kandyan railway line with the rainy railway from the Colombo Fort to Ella railway station.
+
+...
+
+[Data](articles/33238d0f.json)
+
+[Extended Data](ext_articles/33238d0f.ext.json)
 
 ---
 
@@ -1748,27 +2146,33 @@ He was speaking at a media briefing held in Colombo today (27).
 
 ---
 
-### අමාත්‍යංශවලට ආයතන බෙදූ හැටි: ජනපති යටතට ආයතන 94ක්
+### 34 institutions to be divided into the ministries: 94 institutions
 
 *2024-11-27 11:56:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5yrnj1rz39o) · `si`
 
-නව අමාත්‍යවරුන් පත් කිරීමෙන් අනතුරුව එම අමාත්‍යංශවලට අයත් විෂයන් හා කාර්යයන් ජනාධිපතිවරයා විසින් ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත් කළේ ය.
+N
 
-ජනාධිපති අනුර කුමාර දිසානායක නොවැම්බර් 25 වන දා නිකුත් කරන ලද අතිවිශේෂ ගැසට් පත්‍රයේ එක් එක් අමාත්‍යවරයාට අයත් වන විෂය පථයන්, කටයුතු, දෙපාර්තමේන්තු, ව්‍යවස්ථාපිත ආයතන සහ සංස්ථා සඳහන් කර ඇත.
+🟩
 
-ජනාධිපති අනුර කුමාර දිසානායක ඔහු සතු අමාත්‍යංශ 3ක් යටතේ ආයතන 94ක් තබාගෙන ඇති අතර, එය නව රජයේ එක් ඇමැතිවරයෙකු යටතේ ඇති වැඩි ම ආයතන සංඛ්‍යාව යි.
+After appointing new ministers, the President published the subjects and functions of the Ministries.
 
-ඉන්පසුව වැඩි ම ආයතන ගණන් හිමිව ඇත්තේ, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්සට වන අතර, ඔහු යටතේ ඇති ආයතන ගණන 41කි.
+President Anura Kumara Dissanayake has been appointed as the subject, action, departments, statutory and corporations, which belong to each Minister on November 25th.
 
-කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති යටතට ලබා දී ඇති ආයතන සංඛ්‍යාව 34කි.
+President Anura Kumara Dissanayake has held 94 institutions under three ministries, which is the highest number of institutions under one of the new government.
 
-ඇමති සමන්ත විද්‍යාරත්න සහ කේ.ඩී. ලාල්කාන්ත යන ඇමැතිවරුන්ගේ අමාත්‍යංශ යටතට ආයතන 29 බැගින් ලබා දී තිබේ.
+Thereafter, the majority of institutions have been companies, Health and Mass Media is 41 institutions under him.
 
-අගමැති හරිනි අමරසූරිය සතු අමාත්‍යංශ සඳහා මෙන් ම ඇමති හිනිඳුම සුනිල්සෙනෙවි සහ හර්ෂණ නානායක්කාර අමාත්‍යවරයාට පවරා ඇති ආයතන සංඛ්‍යාව 26කි.
+There are 34 institutions that have been given to the Industry and Entrepreneurship Development Sunil Handunnetti.
+
+Minister Samantha Vidyaratne and KD. 29 institutions have been provided with 29 institutions under the Ministries of Ministers Lal Kantha.
+
+The number of institutions that have been assigned to Minister Harinini Amarasuriya, Minister of Ministers and the Minister of Ministers has been entrusted with the Minister of Police.
 
 ...
 
 [Data](articles/3fa28e54.json)
+
+[Extended Data](ext_articles/3fa28e54.ext.json)
 
 ---
 
@@ -2135,359 +2539,5 @@ A total of 10,137 individuals from 3,102 families are currently being sheltered 
 [Data](articles/deefdba8.json)
 
 [Extended Data](ext_articles/deefdba8.ext.json)
-
----
-
-### Floods around Kelani and Kala are a warning
-
-*2024-11-27 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203791) · `si`
-
-Flood warnings issued for Kelani River Basin & Kala Oya basin next 48 hours. Heavy rainfall in upper Kala Oya areas. Rajanganaya reservoir releases 100,000 cubic meters. Low-lying areas in Kalauwagunawewa, Wanathawilluwa & Karuwalagaswewa expected to flood. Kelani River receives heavy rainfall in middle & lower areas. Flood warnings issued for Kelaniya, Colombo & Wattala Divisional Secretariat areas.
-
-🟩
-
-Floods have issued flood warnings for the next 48 hours in Kelani River Basin and Kala Oya basin.
-
-Some areas in the upper and middle current areas of the Kala Oya basin have received considerable rainfall.
-
-Moreover, nearly 100,000 cubic water capacity of the Rajanganaya reservoir is released, and the reservoir is currently reported to increase this amount.
-
-Accordingly, within the next 48 hours of the next 48 hours, there has been a flood in the low-range areas of the Kalauwagunawewa, Wanathawilluwa and Karuwalagaswewa Divisional Secretariats.
-
-Meanwhile, by 10.00 am this morning, the Kelani River had received considerable rainfall in the middle and lower current areas of the Kelani River.
-
-Accordingly, during the next 48 hours, the Kelani river Valley in the Kelaniya, Colombo and Wattala Divisional Secretariats belonging to the Kelani river valley belonging to the Kelaniya, Colombo and Wattala Divisional Secretariat areas will be warned.
-
-◼️
-
-[Data](articles/a2446d40.json)
-
-[Extended Data](ext_articles/a2446d40.ext.json)
-
----
-
-### Latest Status of Inclement weather affected by the island - live broadcast
-
-*2024-11-27 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203790) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"207,582 affected by inclement weather; 2 dead, 7 injured. 661 homes damaged. 6,712 displaced, 10,137 seeking shelter. Disaster Management Center reports ongoing situation."
-
-🟩
-
-A total of 207,582 persons belonging to 59,629 persons have been affected in the face of adverse weather conditions that have been affected.
-
-The Director General of the Disaster Management Center Rezalyic Major General Udaya Herath said that 17 this disaster was affected.
-
-Meanwhile, two persons have been killed and seven persons have been killed and seven people have been killed.
-
-Speaking at a press conference held at a press conference held today (27), police spokesman Nihal Talduuwa held today.
-
-The Disaster Management Center (DMC) stated that 661 houses have been reported from the weather conditions, including the weather conditions.
-
-The Disaster Management Center (DMC) stated that 6,712 persons belonging to 1,712 persons belonging to 1,712 families are in relatives and 10,137 persons belonging to 3,102 safe places are staying.
-
-Ada Derana and the life of the inclement weather affected by the island have been taken from Ada Derana.
-
-◼️
-
-[Data](articles/9d80014c.json)
-
-[Extended Data](ext_articles/9d80014c.ext.json)
-
----
-
-### 10 feet long in Kalutara fishing net
-
-*2024-11-27 10:47:26* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-මාළු-දැලකට-අඩි-10-ක්-පමණ-දිග-කිඹුලෙක්/11-413302) · `si`
-
-A 10ft crocodile got caught in a fishing net off Kalutara. It reportedly attacked a fisherman. Rescue efforts are underway near the Kalutara South Railway Station. Wildlife officials from Hikkaduwa have been notified to assist in relocating the animal.
-
-🟩
-
-Kalutara South Police say a 10-foot-long crocodile has been entangled at a Kalutara fishing net this afternoon.
-
-It is said that the crocodile stabbed to a fisherman of fisherman in Kalutara.
-
-The sea was launched in front of Kalutara South Railway Station, and the crocodile crocodile has taken steps to recover with the help of ropes.
-
-The police say that the Hikkaduwa has educated the wildlife office and they will come to take the crocodile.
-
-◼️
-
-[Data](articles/37aee2a5.json)
-
-[Extended Data](ext_articles/37aee2a5.ext.json)
-
----
-
-### Batticaloa - Colombo Traffic Prohibition
-
-*2024-11-27 10:47:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பு-கொழும்பு-போக்குவரத்து-தடை/73-347849) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Batticaloa-Colombo road closed due to Manampitiya Junction road collapse. Water levels rising in Manampitiya, Welikanda, Punananam areas. Batticaloa-Colombo Railway Service suspended until further notice.
-
-🟩
-
-In that case, the Batticaloa -Colombo road has been closed due to the collapse of Manampitiya Junction (Maha Oya) road.
-
-Similarly, in the Manampitiya, Welikanda and Punananam areas, the water level is increasing due to the increase in the road.
-
-The Batticaloa -Colombo Railway Service has been suspended until the re -notice of the railway service.
-
-◼️
-
-[Data](articles/40900a65.json)
-
-[Extended Data](ext_articles/40900a65.ext.json)
-
----
-
-### 10 feet long in Kalutara fishing net
-
-*2024-11-27 10:45:10* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-මාළු-දැලකට-අඩි-10-ක්-පමණ-දිග-කිඹුලෙක්/11-413301) · `si`
-
-A 10ft crocodile got caught in a fishing net off Kalutara. It reportedly attacked a fisherman. Rescue efforts are underway near Kalutara South Railway Station. Wildlife officials from Hikkaduwa have been notified to assist in relocating the crocodile.
-
-🟩
-
-Kalutara South Police say a 10-foot-long crocodile has been entangled at a Kalutara fishing net this afternoon.
-
-It is said that the crocodile stabbed to a fisherman of fisherman in Kalutara.
-
-The sea was launched in front of Kalutara South Railway Station, and the crocodile crocodile has taken steps to recover with the help of ropes.
-
-The police say that the Hikkaduwa has educated the wildlife office and they will come to take the crocodile.
-
-◼️
-
-[Data](articles/482e0b3e.json)
-
-[Extended Data](ext_articles/482e0b3e.ext.json)
-
----
-
-### 6 madrasa students are continuing work
-
-*2024-11-27 10:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மத்ரஸா-மாணவர்களை-தேடும்-பணிகள்-தொடர்கின்றன/175-347846) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Six out of 11 madrasa students stranded in Mavadipalli floods rescued; search ongoing for remaining five. Community volunteers and Navy assist rescue efforts.
-
-🟩
-
-Five of the 11 madrasa students who traveled in the floods at Mavadipalli in Mavadipalli have been rescued due to the rising floods in Ampara district.
-
-Other students have not yet been recovered.The search for the six students continues on Wednesday (27) for the second day.
-
-Community volunteer organizations along with the Navy are continuing their work.
-
-◼️
-
-[Data](articles/b7d3126d.json)
-
-[Extended Data](ext_articles/b7d3126d.ext.json)
-
----
-
-### 6 flights were diverted
-
-*2024-11-27 10:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-விமானங்கள்-திருப்பிவிடப்பட்டன/175-347845) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Six flights diverted: Chennai, Male, Etihad Abu Dhabi to Mattala; three more to Thiruvananthapuram due to heavy rains at Katunayake airport on Tuesday night.
-
-🟩
-
-The airport sources said that six flights that landed at the Katunayake airport landed at the Katunayake airport due to heavy rains on Tuesday night (26).
-
-The flights from Chennai, India and Male, Maldives and Etihad Airlines from Abu Dhabi landed at Mattala Airport.
-
-In addition, three flights from Katunayake airport from Narida, Dubai and India in India have been diverted to the Thiruvananthapuram airport in India.
-
-◼️
-
-[Data](articles/c9130fbd.json)
-
-[Extended Data](ext_articles/c9130fbd.ext.json)
-
----
-
-### Ceylon Chamber welcomes staff-level agreement for third review of IMF program
-
-*2024-11-27 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103804/ceylon-chamber-welcomes-staff-level-agreement-for-third-review-of-imf-program) · `en`
-
-The Ceylon Chamber of Commerce has welcomed the announcement of a staff-level agreement for the third review under the International Monetary Fund (IMF) Extended Fund Facility program for Sri Lanka.
-
-Issuing a release in this regard on yesterday (26), the Chamber stated that this agreement underscores the progress the country has made in implementing structural reforms and achieving fiscal sustainability during this critical period of economic recovery.
-
-“While acknowledging the progress made, it is important to continue the reform momentum and build on the progress made while unlocking key constraints that bind long term sustainable growth. The Chamber looks forward to the Government meeting the requirement for disbursement by the Board of the IMF,” the statement issued by the Chamber said.
-
-◼️
-
-[Data](articles/fe28c951.json)
-
-[Extended Data](ext_articles/fe28c951.ext.json)
-
----
-
-### Interrupting train journey from inclement weather
-
-*2024-11-27 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203789) · `si`
-
-Train journey disrupted due to bad weather. Traffic restricted on certain routes. Garbage collapse at Hatton Railway Station avoided potential accident. Passenger train safely reached Colombo after clearing debris.
-
-🟩
-
-Due to the prevailing bad weather conditions, train traffic is restricted to the upcountry road and Batticaloa.
-
-Railways said that steps have been taken to restrict traffic on the Polonnaruwa road.
-
-The Railway Department further stated that steps have been taken to limit the Upcountry Railway Train to Nanu Oya.
-
-Meanwhile, a large garbage mountain has collapsed at the next morning at the Hatton Railway Station on the Upcountry railway station.
-
-The engineer of the Hatton Railway Station station said that he was able to avoid a train accident.
-
-When the railway tourist guard was crashed at the time of the crash, a passenger transport train from Nanu Oya to Colombo.
-
-The engineer stated that the train was driven up to Colombo after cutting down the garbage mountain.
-
-◼️
-
-[Data](articles/308a02ef.json)
-
-[Extended Data](ext_articles/308a02ef.ext.json)
-
----
-
-### Pudukkudiyiruppu - limestone floods flooded;Ravikaran MP review on impact conditions
-
-*2024-11-27 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199801) · `ta`
-
-Heavy rains flood limestone roads in Pudukkudiyiruppu. Local MP Durairasa Ravikaran visits, promises action on road rehabilitation due to impassable routes affecting schools and emergencies.
-
-🟩
-
-Due to heavy rains, Mullaitivu - Pudukkudiyiruppu and Kaveli lime have been harassed by the people who use it.
-
-Vanni district parliamentarian Durairasa Ravikaran visited the area and asked about the problems faced by the people.
-
-The people of the area were informed by the people of the area that the road, which is about 1.5 kilometers away, has long been uninhabited.
-
-It was also pointed out by the people of the area that all parties should face a long -standing difficulty as school children and emergency medical services.
-
-Due to the heavy rains, the limestone street is full of water in the water.
-
-Therefore, considering the long -standing problem they face, the people have been asked to rehabilitate the limestone road.
-
-Parliamentarian Durairasa Ravikaran said that efforts will be taken to take appropriate action on the road renovation.
-
-◼️
-
-[Data](articles/ae7c8671.json)
-
-[Extended Data](ext_articles/ae7c8671.ext.json)
-
----
-
-### ADB backs Sri Lanka’s growing investment potential in key sectors
-
-*2024-11-27 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103803/adb-backs-sri-lankas-growing-investment-potential-in-key-sectors) · `en`
-
-The Asian Development Bank (ADB) has pledged its support for investment opportunities in Sri Lanka, citing increased foreign investor interest fuelled by the government’s systematic financial reforms, the President’s Media Division (PMD) said in a statement.
-
-During a discussion held at the Presidential Secretariat yesterday (26), led by ADB’s Regional Head of Private Sector Development, Mr. Takeo Koike and Senior Additional Secretary to the President Mr. G.N.R.D. Aponsu, the ADB delegation highlighted foreign investors’ enthusiasm for Sri Lanka’s expanding prospects across multiple sectors.
-
-The meeting, focused on investment prospects in critical areas such as climate change mitigation, agricultural modernization, and the energy sector. Both direct investment and Public-Private Partnership (PPP) opportunities were discussed, underscoring the potential for collaboration in these critical fields and as pathways to further economic growth, the PMD said.
-
-...
-
-[Data](articles/26c19b7d.json)
-
-[Extended Data](ext_articles/26c19b7d.ext.json)
-
----
-
-### Today, many strong winds and heavy showers per hour
-
-*2024-11-27 09:36:14* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍ර-දේශවලට-පැයට-කිලෝමීටර්-60-වැඩි-සුළං-සහ-තද-වැසි/11-413300) · `si`
-
-Strong winds & heavy showers forecasted. Low pressure zone in SE Bay of Bengal affecting northern beaches. Winds exceeding 60-70 km/h. Meteorology Department warns of potential disruptions. Disaster Management Center advises public to contact 117 for coordination.
-
-🟩
-
-The low pressure zone in the Group West of the Southeast Bay of BengalThe Department of Meteorology has announced.
-
-The announcement states that this low pressure zone is increasing the north beach in the next few days due to the influence of the island in the next few days.
-
-Today, in many parts of the island today, there are strong winds over 60 -70 km / h.
-
-Therefore, the Department of Meteorology should address the announcements issued by the Department of Irrigation Department to pay close attention to the weather conditions and the people living in identified layoffs should pay close attention to this.
-
-The Disaster Management Center requests the public to make a telephone call to 117 to facilitate the necessary coordination in case of disaster risk.
-
-◼️
-
-[Data](articles/417552d8.json)
-
-[Extended Data](ext_articles/417552d8.ext.json)
-
----
-
-### Israel and Lebanon’s Hezbollah start a ceasefire after nearly 14 months of fighting
-
-*2024-11-27 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103802/israel-and-lebanons-hezbollah-start-a-ceasefire-after-nearly-14-months-of-fighting) · `en`
-
-The ceasefire between Israel and Lebanon’s Hezbollah militants began early Wednesday as a region on edge wondered whether it will hold.
-
-The ceasefire announced Tuesday is a major step toward ending nearly 14 months of fighting sparked by the ongoing war in Gaza between Israel and Hamas.
-
-There were no immediate reports of alleged violations of the truce, and there were signs of celebration in Beirut. But Israel has said it will attack if Hezbollah breaks the agreement.
-
-The ceasefire calls for an initial two-month halt to fighting and requires Hezbollah to end its armed presence in southern Lebanon, while Israeli troops are to return to their side of the border. Thousands of additional Lebanese troopsand U.N. peacekeepers would deploy in the south, and an international panel headed by the United States would monitor compliance.
-
-...
-
-[Data](articles/014d93d0.json)
-
-[Extended Data](ext_articles/014d93d0.ext.json)
-
----
-
-### Vavuniya Wavelakallupottagulam Breakdown: People
-
-*2024-11-27 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199798) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Water supply increase to mansion pond due to Vavuniya wavelength pond collapse. Agrarian Development official warns Arumugathan Pudukkulam, Pudukkulam, House, Chemamadu villages at risk."
-
-🟩
-
-Assistant Commissioner of Agrarian Development has said that the water supply to the mansion pond has increased due to the collapse of the Vavuniya wavelength pond.
-
-As a result of this, the Assistant Commissioner of Agrarian Development of the Agrarian Welfare Development will take steps to ensure that the people of Arumugathan Pudukkulam, Pudukkulam, House and Chemamadu villagers are at risk.
-
-◼️
-
-[Data](articles/b6cb4436.json)
-
-[Extended Data](ext_articles/b6cb4436.ext.json)
 
 ---

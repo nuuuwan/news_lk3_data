@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 00:28:14**
+As of **2024-11-27 23:42:39**
 
 ## Newspaper Stats
 
-*Scraped **57,295** Articles*
+*Scraped **57,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
 economynextcom | 3,486
-dailyftlk | 3,940
+dailyftlk | 3,939
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
@@ -26,29 +26,11 @@ adaderanasinhalalk | 9,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,292 (100.0%) of 57,295 articles have been extended.
+57,284 (100.0%) of 57,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
-
-### Compass that united a country: Corporate lens of NPP’s leadership and strategy
-
-*2024-11-27 23:37:22* · [`dailyftlk`](https://www.ft.lk/columns/Compass-that-united-a-country-Corporate-lens-of-NPP-s-leadership-and-strategy/4-769772) · `en`
-
-The NPP’s rise from a 3% voter base in 2020 to a sweeping victory in 2024 exemplifies the power of walking the talk
-
-At the highest level of success, the foundation lies in assembling the right team – a group of individuals whose expertise, professionalism, and values align with the organisation’s vision and strategy. The right people are not merely executors but partners in innovation, progress, and trust-building
-
-This article is an analytical review aimed at evaluating the NPP’s growth and evolution from its inception, purely from a leadership and strategic perspective as seen through a corporate lens. It focuses solely on the factors which contributed to its recent success, offering an academic and objective analysis. This is not a political essay or commentary, nor does it express any political opinions or endorsements
-
-...
-
-[Data](articles/625a3b61.json)
-
-[Extended Data](ext_articles/625a3b61.ext.json)
-
----
 
 ### 8752 persons belonging to 2942 families in Trincomalee district
 
@@ -304,8 +286,6 @@ On Wednesday the central bank cut its standing deposit facility to 7.5 percent f
 
 [Data](articles/13cabb1e.json)
 
-[Extended Data](ext_articles/13cabb1e.ext.json)
-
 ---
 
 ### New secretaries appointed in two ministries
@@ -436,35 +416,23 @@ About 4 million rupees have been seized from the suspects during the arrest.
 
 ---
 
-### The Bribery and Pollution Program Appreciates Australia
+### අල්ලස් හා දූෂණයෙන් තොර වැඩපිළිවෙළ ඕස්ට්‍රේලියාව අගය කරයි
 
 *2024-11-27 19:25:53* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-හා-දූෂණයෙන්-තොර-වැඩපිළිවෙළ-ඕස්ට්‍රේලියාව-අගය-කරයි/11-413323) · `si`
 
-Here's a summary of 200 characters:
+අල්ලස් දූෂණවලින් තොර නව රජයේ  වැඩපිළිවෙළ ආයෝජකයින්  ආකර්ෂණය කරන බව ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු මහ කොමසාරිස් පෝල් ස්ටීවන්ස් (Paul Stephens)  මහතා ප්‍රකාශ කළේය.
 
+අල්ලස් හා දූෂණයෙන් තොර යාන්ත්‍රණයක් රට පුරා ස්ථාපිත කිරීමට රජය ගෙන යන වැඩපිළිවෙළ සඳහා ඕනෑම අවස්ථාවක සහයෝගය දක්වන බවද  ඕස්ට්‍රේලියානු මහ කොමසාරිස්වරයා සඳහන් කළේය .
 
+ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු මහ කොමසාරිස් පෝල් ස්ටීවන්ස් (Paul Stephens)  මහතා මේ බව සදහන් කළේ, ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත්කුමානායක මහතා  ජනාධිපති කාර්යාලයේ අද (27)  හමු වූ අවස්ථාවේදීය.
 
-Australia supports Sri Lanka's anti-corruption efforts. High Commissioner Paul Sephens praises "Clean Sri Lanka" initiative. Focus on national security, marine affairs, digital sector, education, and energy modernization. Australia strengthens ties with Sri Lanka.
+ඕස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර පවතින වසර 75ක මිතුදම තවදුරටත් ශක්තිමත් කරමින් දෙරට අතර සමීප සබඳතා ඉදිරියටත් පවත්වාගෙන යාමට කටයුතු කරන බවද ඕස්ට්‍රේලියානු මහ කොමසාරිස්වරයා මෙහිදී පැවසීය.
 
-🟩
-
-Australian High Commissioner in Sri Lanka (PAUL SEPHENS) stated that the new government's program without corruption is attracted to investors.
-
-The Australian High Commissioner said that the government's actions will be supported at any time, the government's actions to establish a bribery and corruption.
-
-The President of the High Commissioner for Australian High Commissioner Paul Stevens (Paul Stevens) said the Secretary to the President Dr. Nandika Sanath was found at the Presidential Secretariat today (27).
-
-The Australian High Commissioner said he will further strengthen the seven-year-old circumstances between Australia and Sri Lanka.
-
-The focus was also focused on providing the National Security, Marine Affairs, Digital and State Sector in modernization, professional education and energy sector.
-
-The Australian High Commissioner, who appreciated President Anura Kumara Dissanayake's 'Clene Sri Lanka' initiative, he said that it would provide the necessary assistance at any time.
+ජාතික ආරක්‍ෂාව,  සමුද්‍රීය කටයුතු, ඩිජිටල්කරණය, රාජ්‍ය  අංශය නවීකරණය , වෘත්තීය අධ්‍යාපනය සහ බලශක්ති ක්ෂේත්‍රය පිළිබඳ ඕස්ට්‍රේලියානු තාක්ෂණික සහාය ලබා දීම සම්බන්ධයෙන්ද මෙහිදී අවධානය යොමු කෙරිණි .
 
 ...
 
 [Data](articles/eee61166.json)
-
-[Extended Data](ext_articles/eee61166.ext.json)
 
 ---
 
@@ -574,29 +542,23 @@ With heavy rainfall, a large tamarind tree near the house in the early hours of 
 
 ---
 
-### Rs. 330 bonds
+### රු.බි. 330ක බැඳුම්කර නිකතුවක්
 
 *2024-11-27 18:59:00* · [`adalk`](https://www.ada.lk/breaking_news/රු-බි--330ක-බැඳුම්කර-නිකතුවක්/11-413322) · `si`
 
-Sri Lanka government plans to issue Rs. 330 billion treasury bonds, sparking controversy over borrowing and IMF agreements.
+රුපියල් බිලියන 330ක භාණ්ඩාගාර බැඳුම්කර නිකුත් කිරීමෙන් ලැබෙන මුදල් නිකුත් කරනු ලබන්නේ කුමකටද යන්න ආණ්ඩුව ප්‍රකාශ කළ යුතු බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
 
-🟩
+පිටකෝට්ටේ සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ අද  (27දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
 
-The government has said that the government should state that the money is issued by issuing Treasury Bonds of Rs 330 billion.
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා මෙලෙස අදහස් දක්වා සිටියේය.
 
-He was speaking at a media briefing held at the Head Office of Pitakotte today (27).
+“රජය තවත් රුපියල් බිලියන 330ක භාණ්ඩාගාර බැඳුම්කර නිකුත්  කරන්න යනවා. ඒ අතරවාරයේ අපි දැක්කා ආසියානු සංවර්ධන බැංකුවෙන් ඩොලර් මිලියන 200ක ණය ප්‍රමාණයක් අරන් තිබෙනවා.
 
-Speaking further MP SM Junkar said so.
-
-"The government is going to issue another 330 billion rupees' bonds. In the meantime, we saw $ 200 million from the Asian Development Bank.
-
-We don't say you don't do this. However, the government recently said that the country continued to borrowed. Then we do not know why these Treasury Bonds are issued. There is no problem if you have a very low interest rate at a very low interest rate, especially like the Asian Development Bank.. However, the government should say that this is what you do.
+අපි කියන්නේ නෑ මේක කරන්න එපා කියලා. නමුත් රජය පසුගිය කාලයේ කිව්වේ මේ රට බංකොලොත් වුණේ දිගින් දිගටම ණය ගැනීම නිසා කියලා. එතකොට මේ භාණ්ඩාගාර බැඳුම්කර නිකුත් කරලා සල්ලි හොයන්නේ මොකටද කියලා අපි දන්නේ නෑ. විශේෂයෙන්ම ආසියානු සංවර්ධන බැංකුව වගේ එකකින් ඉතා අඩු පොලී අනුපාතිකයකට ණය අරන් වැඩි පොලී අනුපාතයට අරන් තිබෙන ණය පියවනවා නම් ප්‍රශ්නයක් නෑ. ඒත් මේ ටික අරන් මොනවාද කරන්නේ කියන එක සම්බන්ධයෙන් ආණ්ඩුව කියන්න ඕනෑ.
 
 ...
 
 [Data](articles/b60c4a28.json)
-
-[Extended Data](ext_articles/b60c4a28.ext.json)
 
 ---
 
@@ -762,8 +724,6 @@ His resignation is effective from November 25 the company said in a stock exchan
 
 [Data](articles/f0ad1841.json)
 
-[Extended Data](ext_articles/f0ad1841.ext.json)
-
 ---
 
 ### A cyclone in the next six hours close to the East Coast
@@ -863,8 +823,6 @@ The central bank announced it will issue 205 billion rupees in treasury bonds at
 ◼️
 
 [Data](articles/e8ecfbcf.json)
-
-[Extended Data](ext_articles/e8ecfbcf.ext.json)
 
 ---
 
@@ -1638,8 +1596,6 @@ Analysts said Sri Lanka’s economic recovery and stability have helped customer
 
 [Data](articles/6d35f471.json)
 
-[Extended Data](ext_articles/6d35f471.ext.json)
-
 ---
 
 ### Muslim schools closed
@@ -1685,8 +1641,6 @@ There was a net foreign inflow of 95 million rupees. (Colombo/Nov27/2024)
 ◼️
 
 [Data](articles/7ed09542.json)
-
-[Extended Data](ext_articles/7ed09542.ext.json)
 
 ---
 
@@ -1819,8 +1773,6 @@ ECONOMYNEXT – While maintaining the GSP+ preference scheme, Sri Lanka should i
 “The Trade Preference Outlook-2024 of the UNCTAD also underscores the importance of reforming rules of origin, accounting for supply chain realities,” the article said.
 
 Enhanced cumulation will especially benefit the country’s wearing apparel sector.
-
-Sri Lanka and Indonesia to jointly apply for UK tariff preference scheme
 
 “In the longer term, Sri Lanka can look into options like entering a free trade agreement with the EU to cope with the adverse effects of GSP+ loss at a higher income stage of the country.”
 
@@ -2603,5 +2555,27 @@ Police also found that Bolsonaro had “full knowledge” of a plan to assassina
 [Data](articles/39abd1f9.json)
 
 [Extended Data](ext_articles/39abd1f9.ext.json)
+
+---
+
+### Flood warnings issued for low-lying areas of Kelani River and Kala Oya
+
+*2024-11-27 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103808/flood-warnings-issued-for-low-lying-areas-of-kelani-river-and-kala-oya) · `en`
+
+The Irrigation Department has issued a flood warning for several low-lying areas of Kelani River Basin, effective until 10:30 a.m. on November 29, 2024.
+
+Similarly, another flood warning has been issued for several low-lying areas Kala Oya Basin effective until 9:30 a.m. on November 29, 2024.
+
+It states that considerable rainfall has occurred in some of the upstream and middle reach catchment areas of Kala Oya Basin as of 8.00 a.m. today (27).
+
+In addition to that, the Rajanganaya Reservoir which is maintained by the Irrigation Department is spilling with a discharge rate of 10000 cubic feet /sec currently.
+
+Meanwhile, there is a possibility of increasing the spill discharge of the Rajanganaya reservoir, the department said.
+
+...
+
+[Data](articles/a4507d59.json)
+
+[Extended Data](ext_articles/a4507d59.ext.json)
 
 ---

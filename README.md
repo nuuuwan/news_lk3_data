@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 09:19:03**
+As of **2024-11-27 10:41:55**
 
 ## Newspaper Stats
 
-*Scraped **57,141** Articles*
+*Scraped **57,154** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 438
-colombotelegraphcom | 580
+dbsjeyarajcom | 439
+colombotelegraphcom | 581
 bbccomsinhala | 594
 islandlk | 3,431
 economynextcom | 3,465
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,384
-adaderanalk | 6,912
-tamilmirrorlk | 8,122
+adalk | 5,386
+adaderanalk | 6,920
+tamilmirrorlk | 8,123
 virakesarilk | 9,312
 adaderanasinhalalk | 9,868
 
@@ -26,11 +26,187 @@ adaderanasinhalalk | 9,868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,117 (100.0%) of 57,141 articles have been extended.
+57,129 (100.0%) of 57,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### 6 விமானங்கள் திருப்பிவிடப்பட்டன
+
+*2024-11-27 10:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-விமானங்கள்-திருப்பிவிடப்பட்டன/175-347845) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்தை சுற்றியுள்ள பகுதிகளில் செவ்வாய்க்கிழமை (26) இரவு பெய்த கடும் மழை காரணமாக கட்டுநாயக்க விமான நிலையத்தில் தரையிறங்க வந்த 06 விமானங்கள் மத்தள மற்றும் இந்தியாவின் திருவனந்தபுரம் விமான நிலையங்களுக்கு திருப்பி விடப்பட்டதாக விமான நிலைய தகவல்கள் தெரிவிக்கின்றன.
+
+சென்னை, இந்தியா மற்றும் மாலே, மாலத்தீவில் இருந்து விமானங்களும், அபுதாபியில் இருந்து வந்த எதிஹாட் ஏர்லைன்ஸ் விமானமும் மத்தள விமான நிலையத்தில் தரையிறங்கியுள்ளன.
+
+மேலும், ஜப்பானின் நரிடா, டுபாய் மற்றும் இந்தியாவின் சென்னை ஆகிய இடங்களில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்த 03 விமானங்கள் இந்தியாவின் திருவனந்தபுரம் விமான நிலையத்திற்கு திருப்பி விடப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/c9130fbd.json)
+
+---
+
+### Ceylon Chamber welcomes staff-level agreement for third review of IMF program
+
+*2024-11-27 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103804/ceylon-chamber-welcomes-staff-level-agreement-for-third-review-of-imf-program) · `en`
+
+The Ceylon Chamber of Commerce has welcomed the announcement of a staff-level agreement for the third review under the International Monetary Fund (IMF) Extended Fund Facility program for Sri Lanka.
+
+Issuing a release in this regard on yesterday (26), the Chamber stated that this agreement underscores the progress the country has made in implementing structural reforms and achieving fiscal sustainability during this critical period of economic recovery.
+
+“While acknowledging the progress made, it is important to continue the reform momentum and build on the progress made while unlocking key constraints that bind long term sustainable growth. The Chamber looks forward to the Government meeting the requirement for disbursement by the Board of the IMF,” the statement issued by the Chamber said.
+
+◼️
+
+[Data](articles/fe28c951.json)
+
+---
+
+### ADB backs Sri Lanka’s growing investment potential in key sectors
+
+*2024-11-27 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103803/adb-backs-sri-lankas-growing-investment-potential-in-key-sectors) · `en`
+
+The Asian Development Bank (ADB) has pledged its support for investment opportunities in Sri Lanka, citing increased foreign investor interest fuelled by the government’s systematic financial reforms, the President’s Media Division (PMD) said in a statement.
+
+During a discussion held at the Presidential Secretariat yesterday (26), led by ADB’s Regional Head of Private Sector Development, Mr. Takeo Koike and Senior Additional Secretary to the President Mr. G.N.R.D. Aponsu, the ADB delegation highlighted foreign investors’ enthusiasm for Sri Lanka’s expanding prospects across multiple sectors.
+
+The meeting, focused on investment prospects in critical areas such as climate change mitigation, agricultural modernization, and the energy sector. Both direct investment and Public-Private Partnership (PPP) opportunities were discussed, underscoring the potential for collaboration in these critical fields and as pathways to further economic growth, the PMD said.
+
+...
+
+[Data](articles/26c19b7d.json)
+
+---
+
+### Israel and Lebanon’s Hezbollah start a ceasefire after nearly 14 months of fighting
+
+*2024-11-27 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103802/israel-and-lebanons-hezbollah-start-a-ceasefire-after-nearly-14-months-of-fighting) · `en`
+
+The ceasefire between Israel and Lebanon’s Hezbollah militants began early Wednesday as a region on edge wondered whether it will hold.
+
+The ceasefire announced Tuesday is a major step toward ending nearly 14 months of fighting sparked by the ongoing war in Gaza between Israel and Hamas.
+
+There were no immediate reports of alleged violations of the truce, and there were signs of celebration in Beirut. But Israel has said it will attack if Hezbollah breaks the agreement.
+
+The ceasefire calls for an initial two-month halt to fighting and requires Hezbollah to end its armed presence in southern Lebanon, while Israeli troops are to return to their side of the border. Thousands of additional Lebanese troopsand U.N. peacekeepers would deploy in the south, and an international panel headed by the United States would monitor compliance.
+
+...
+
+[Data](articles/014d93d0.json)
+
+[Extended Data](ext_articles/014d93d0.ext.json)
+
+---
+
+### Airplanes in Katunayake and India land
+
+*2024-11-27 09:15:55* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-ගුවන්-යානා-මත්තලට-හා-ඉන්දියාවට-ගොඩබායි/11-413299) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Heavy rains cause 6 planes to divert to Katunayake airport. Indian flights from Chennai and Maldives land at Mattala airport. Japanese plane from Dubai heads to Badni. Chengdu airport experiences issues.
+
+🟩
+
+Due to heavy rains, 6 airplanes have been shipped to the Katunayake airport due to heavy rainfall, due to heavy rains.
+
+Accordingly, the Itiage Privacy from the Farmers and Abu Dhadi from Chennai and Maaladivi, India, has been landed at the Mattala airport.
+
+In addition, Japan's Naritha, Dubai, Dubai, India and Chennai, India, has been sent to the Badni, India, India.
+
+However, the CA at Chengdu airport at the Chengdu Airport on the Navadu Airport on the Navadu Airport.
+
+◼️
+
+[Data](articles/31d9f6aa.json)
+
+[Extended Data](ext_articles/31d9f6aa.ext.json)
+
+---
+
+### Motorists advised as A-9 main road flooded at Omanthai
+
+*2024-11-27 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103801/motorists-advised-as-a-9-main-road-flooded-at-omanthai) · `en`
+
+The A-9 main road to Jaffna has been flooded at Omanthai, prompting police to urge motorists to use alternate routes.
+
+Accordingly, motorists are advised to use alternate routes via Kebithigollewa, Welioya, Mullaitivu, and Paranthan or take the Medawachchiya, Chettikulam, and Mannar route to reach Jaffna, said the Police Spokesman DIG Nihal Thalduwa.
+
+Meanwhile, a large tree has reportedly fallen across the road in Thirambi Adiya area along the Jaffna-Colombo main road in Puttalam this morning (27), causing a complete blockage.
+
+This incident has disrupted vehicular traffic, according to Ada Derana reporter.
+
+Meanwhile, flood warnings have been issued for several areas due to the overflowing of major river basins:
+
+◼️
+
+[Data](articles/e464522e.json)
+
+[Extended Data](ext_articles/e464522e.ext.json)
+
+---
+
+### Flood warnings issued for low-lying areas of Malwathu Oya
+
+*2024-11-27 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103800/flood-warnings-issued-for-low-lying-areas-of-malwathu-oya) · `en`
+
+The Irrigation Department has issued a flood warning for several low-lying areas of Malwathu Oya Basin, effective until 5.30 a.m. on November 29, 2024.
+
+It states that considerable rainfall has occurred in some areas of Anuradhapura, Vauniya and Mannar districts since last night.
+
+By analyzing the current rainfall situation and river water levels of Malwathu Oya Basin, it is warned that there is a possibility of a flood situation in low-lying areas around Malwathu Oya situated in Mahawilachchiya, Vengalacheddikulam, Nanaddan, Mussalai and Madhu D/S divisions.
+
+Accordingly, residents in those areas and motorists driving through those areas are requested to pay attention in this regard and take adequate precautions.
+
+Disaster Management Authorities are requested to take adequate precautions in this regard.
+
+◼️
+
+[Data](articles/4c2e3395.json)
+
+[Extended Data](ext_articles/4c2e3395.ext.json)
+
+---
+
+### CBSL introduces Overnight Policy Rate; further eases monetary policy stance
+
+*2024-11-27 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103799/cbsl-introduces-overnight-policy-rate-further-eases-monetary-policy-stance) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to further ease the monetary policy stance and set the newly introduced Overnight Policy Rate (OPR) at 8.00 per cent.
+
+With this change, the effective reduction in the policy interest rate would be around 50 basis points from the current level of the Average Weighted Call Money Rate (AWCMR), which continues to serve as the operating target of the Flexible Inflation Targeting ( FIT) framework, the central bank said.
+
+The Board arrived at the decision, at its meeting held on 26 November 2024, to ease the monetary policy stance following a comprehensive assessment of current and expected domestic and international economic developments, including risks and uncertainties, to ensure that inflation treads towards the inflation target of 5 per cent, while supporting the economy to reach its full capacity, it said.
+
+...
+
+[Data](articles/060d0596.json)
+
+[Extended Data](ext_articles/060d0596.ext.json)
+
+---
+
+### IMF chief commends Sri Lanka’s economic reform program, says collective effort key to success of debt restructuring
+
+*2024-11-27 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103798/imf-chief-commends-sri-lankas-economic-reform-program-says-collective-effort-key-to-success-of-debt-restructuring-) · `en`
+
+IMF Managing Director Kristalina Georgieva says the continued support from international financial institutions and other official creditors, together with the participation of bondholders in a debt exchange consistent with debt sustainability, is necessary to underpin the success of Sri Lanka’s economic reform efforts.
+
+She stated that the agreements reached by the Sri Lankan authorities with both the Steering Committee of the Ad Hoc Group of external bondholders, and the Local Consortium of Sri Lanka, mark a significant step forward and that the terms of these agreements have been assessed by the IMF staff as being in line with the parameters of the IMF-supported program.
+
+Anchored by policies under the IMF-supported program, the successful implementation of these agreements will provide significant external debt service relief and further contribute to Sri Lanka’s efforts to restore debt sustainability, the IMF chief said.
+
+...
+
+[Data](articles/d90f9ba6.json)
+
+[Extended Data](ext_articles/d90f9ba6.ext.json)
+
+---
 
 ### The Central Bank Monetary Policy Stair
 
@@ -57,6 +233,28 @@ The One-Day Policy Interest rate will be reviewed and revised to communicate the
 [Data](articles/5b3ebd2b.json)
 
 [Extended Data](ext_articles/5b3ebd2b.ext.json)
+
+---
+
+### Deep depression to move closer to Sri Lanka’s east coast, intensify into cyclonic storm
+
+*2024-11-27 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103797/deep-depression-to-move-closer-to-sri-lankas-east-coast-intensify-into-cyclonic-storm) · `en`
+
+The Meteorology Department says the deep depression over the southwest Bay of Bengal was located to 190 km southeast of Trincomalee at around 11:30 p.m. of November 26, 2024.
+
+It is likely to move north-northwestwards closer to the east coast of Sri Lanka and intensify further into a cyclonic storm today (November 27).
+
+Under influence of the system cloudy skies will prevailed over most parts of the island, very heavy showers and strong gusty winds can be expected in Northern, North-central, Eastern, North-western and Central provinces, it added.
+
+Showers or thundershowers will occur at times in Northern, North-central, Central, western and North-western provinces and in Trincomalee, Batticaloa and Kegalle districts. Very heavy showers above 150 mm are likely at some places.
+
+Showers will occur at times elsewhere of the island too. Fairly heavy above 75 mm are likely at some places, the Met. department said.
+
+...
+
+[Data](articles/6f8b4512.json)
+
+[Extended Data](ext_articles/6f8b4512.ext.json)
 
 ---
 
@@ -188,6 +386,26 @@ Meanwhile, the Department of Irrigation further stated that it is necessary to b
 
 ---
 
+### In Sri Lanka ISB exchange, high creditor participation vital: IMF’s Georgieva
+
+*2024-11-27 07:15:00* · [`economynextcom`](https://economynext.com/high-creditor-participation-in-sri-lanka-isb-exchange-vital-imfs-georgieva-190109/) · `en`
+
+ECONOMYNEXT – High creditor participation in an exchange of defaulted sovereign bonds for new securities is vital for the success of the International Monetary Fund program for Sri Lanka, Managing Director Kristalina Georgieva has said.
+
+A debt exchange launched on November 27, will provide significant external debt service relief and further contribute to restore Sri Lanka’s debt sustainability, and was as step forward, she said.
+
+“To capitalize on this momentum, rapid completion of the debt operation with high creditor participation would be vital for the success of the program,” Georgieva said in a statement.
+
+“In parallel, the authorities continue to finalize other remaining debt restructuring agreements. This collective effort is key to supporting the success of Sri Lanka’s debt restructuring efforts.”
+
+...
+
+[Data](articles/059a06ab.json)
+
+[Extended Data](ext_articles/059a06ab.ext.json)
+
+---
+
 ### One million people in the north
 
 *2024-11-27 07:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-ஒரு-லட்சம்-பேர்-பாதிப்பு/175-347840) · `ta`
@@ -262,27 +480,37 @@ In addition, the parents have been sent to the Foreign Ministry. (A)
 
 ---
 
-### සුළි කුණාටුව තිව්‍ර වෙයි - ප්‍රදේශ කිහිපයකට මි.මී 150 ඉක්මවූ වැසි
+### Hurricane Timber - Showers over 150mm
 
 *2024-11-27 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203780) · `si`
 
-දිවයිනේ උතුරු, උතුරු-මැද, මධ්‍යම,බස්නාහිර සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මඩකලපුව සහ කෑගල්ල දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඇතැම් ස්ථානවලට මි.මී.150 ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
 
-නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය 2024 නොවැම්බර් 26 වැනි දින පස්වරු 11.30ට පමණ වන විට ත්‍රිකුණාමලයට කිලෝමීටර් 190ක් පමණ ගිනිකොන දෙසින් පිහිටා තිබුණි.
 
-එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව උතුරට බරව වයඹ දෙසට ගමන් කරමින් අද (27) සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇත.
+Heavy rainfall warning: Thunderstorms and showers expected in several provinces. Strong winds forecasted. Public advised to be cautious due to potential lightning and wind-related hazards.
 
-මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු, උතුරු-මැද, නැගෙනහිර, වයඹ සහ මධ්‍යම පළාත්වලට ඉතා තද වැසි සහ තද සුළං තවදුරටත් අපේක්ෂා කරයි.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවලත් විටින් විට වැසි ඇති විය හැකි අතර, ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ද ඇතිවිය හැකිය.
+Showers or thundershowers at times in Trincomalee, North-Central, Central, Central, Western, Western, Western, Western and North Western Provinces.
 
-උතුරු, උතුරුමැද , මධ්‍යම, බස්නාහිර, වයඹ, දකුණ සහ නැගෙනහිර පළාත්වල විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං පවතී.
+The Department of Meteorology announces heavy rains in exception of 1550 mm.
+
+The deep pressure depression in the Bay of Bay of Bay of Bay of Bengal was around 11.30 pm on November 26 at 11.30 pm.
+
+It is likely to increase the northwest of the North West today, heading to the East Coast of the island.
+
+Due to the impact of this system, the sky is still weighed on clouds and strict rain and strong winds in the Northern-Central, North Western and Central provinces.
+
+Showers at times in the rest of the island and at times, mm. Heavy rains can also occur in more than 75.
+
+From time to time in the North, North Central, Western, Western, North Western, Southern and Eastern provinces.. There are about 40-50 strong winds.
 
 ...
 
 [Data](articles/aded8091.json)
+
+[Extended Data](ext_articles/aded8091.ext.json)
 
 ---
 
@@ -486,6 +714,8 @@ The change that the new election has brought to the country is unprecedented. We
 
 [Data](articles/291ced4c.json)
 
+[Extended Data](ext_articles/291ced4c.ext.json)
+
 ---
 
 ### Entrepreneurship in the 21st century
@@ -500,6 +730,8 @@ The good news is that everyone wants to be an entrepreneur. Less good is the rea
 
 [Data](articles/24e955f1.json)
 
+[Extended Data](ext_articles/24e955f1.ext.json)
+
 ---
 
 ### Unveiling the silent stakeholder: Call for farm animal welfare in sustainability reporting
@@ -513,6 +745,8 @@ A ground-breaking study by researchers Saviesha Samaraweera and Isuru Manawadu f
 ...
 
 [Data](articles/c564a1c0.json)
+
+[Extended Data](ext_articles/c564a1c0.ext.json)
 
 ---
 
@@ -533,24 +767,6 @@ The proposal to this effect presented by the President Anura Kumara Dissanayake 
 ◼️
 
 [Data](articles/749e1665.json)
-
----
-
-### In Sri Lanka ISB exchange, high creditor participation vital: IMF’s Georgieva
-
-*2024-11-27 05:37:00* · [`economynextcom`](https://economynext.com/high-creditor-participation-in-sri-lanka-isb-exchange-vital-imfs-georgieva-190109/) · `en`
-
-ECONOMYNEXT – High creditor participation in an exchange of defaulted sovereign bonds for new securities is vital for the success of the International Monetary Fund program for Sri Lanka, Managing Director Kristalina Georgieva has said.
-
-A debt exchange launched on November 27, will provide significant external debt service relief and further contribute to restore Sri Lanka’s debt sustainability, and was as step forward, she said.
-
-“To capitalize on this momentum, rapid completion of the debt operation with high creditor participation would be vital for the success of the program,” Georgieva said in a statement.
-
-“In parallel, the authorities continue to finalize other remaining debt restructuring agreements. This collective effort is key to supporting the success of Sri Lanka’s debt restructuring efforts.”
-
-...
-
-[Data](articles/059a06ab.json)
 
 ---
 
@@ -703,6 +919,18 @@ The Cabinet Spokesman also disclosed that the Chinese Embassy in Sri Lanka has a
 [Data](articles/e74c8ca6.json)
 
 [Extended Data](ext_articles/e74c8ca6.ext.json)
+
+---
+
+### “No Chance Even For A Simple Mistake” President Says, But Officials Are Ready To Make Big Ones
+
+*2024-11-27 03:40:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/no-chance-even-for-a-simple-mistake-president-says-but-officials-are-ready-to-make-big-ones/) · `en`
+
+President Anura Kumara Dissanayake at the Inauguration of the First Session of the Tenth Parliament delivering a speech, said that the NPP government must go with the IMF framework and the previous administration’s debt restructuring agreements as they have been endorsed by the IMF. It is true. Renegotiating for a new Debt Sustainability Analysis (DSA) is now dead. That is good, because we must end this process as early as possible to enter a new beginning. If the Net Present Value analysis proves beneficial for us to ensure debt sustainability even under the macro-linked bond mechanism we must finish this process. The NPP government is going to do it possibly by the end of December this year. It is a great consolation.
+
+...
+
+[Data](articles/729f63d2.json)
 
 ---
 
@@ -921,6 +1149,18 @@ Police have asked the public to inform the headquarters of the emergency situati
 ---
 
 ### 2024-11-26 (Tuesday)
+
+### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
+
+*2024-11-26 23:20:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
+
+The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
+
+...
+
+[Data](articles/7b4fd7e2.json)
+
+---
 
 ### Action by the police for emergency complaints due to random climate
 
@@ -2021,309 +2261,5 @@ Local investors, mostly banks, hold about 12 percent of the defaulted 12.55 bill
 [Data](articles/e0b2656a.json)
 
 [Extended Data](ext_articles/e0b2656a.ext.json)
-
----
-
-### There is no truth in the report of communal issues in the country -Speaker Ashoka Ranwala
-
-*2024-11-26 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199774) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Speaker Ashoka Ranwala denies communal issues, Parliament will act if true. No Heroes Day concerns in North. Archana Ramanathan apologizes for opposition seat mistake.
-
-🟩
-
-Although the media reports that communal issues in the country are retrieval. Speaker Ashoka Ranwala said that if such an incident is true, Parliament will take action to avoid it.
-
-The Speaker was responding to a question asked by the journalist after meeting with the All Ceylon Jamiyyathul Ulama Council on Tuesday (26).
-
-Although the media reports that communal issues in the country are retrieval. If such an incident happens, we will discuss it in Parliament and take action to do it.
-
-Similarly, there is no conception in the country on the occasion of Heroes Day in the North. We have been informed that the occurrence of a normal occurrence. We don't think they will work again as they have done in the past. We have real confidence in the northern people. Their expectation is to rebuild this country for the future of their children.
-
-...
-
-[Data](articles/140cea63.json)
-
-[Extended Data](ext_articles/140cea63.ext.json)
-
----
-
-### 2476 people from 721 families are affected by inclement weather in Kilinochchi district
-
-*2024-11-26 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199761) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-2476 people from 721 families affected by inclement weather in Kilinochchi district. 1554 families impacted in Karachi Division, 278 in Kandawala, 10 in Pachchilaipalli, and 634 in Poonakari divisions.
-
-🟩
-
-According to the District Risk Management Division, 2476 people from 721 families have been affected by the inclement weather in the Kilinochchi district.
-
-The matter is mentioned in the statistics released today (26) at 2 pm. Accordingly, 1554 of 422 families have been affected by the Karachi Divisional Secretariat Division.
-
-Kanakapuram, Mavadiyamman Thondamanagar, Kandapuram, Ramanathapuram, Thirunagar, Kannagipuram, Jayanthinagar, Thiruvaiyaru West, Kanakambikaikulam, Udayanagar West, Ambalnagar, Vattakachi, Ponnagar, Ponnagar, Malayalapuram and Periyar Paradhan areas have been damaged and 3 houses have been damaged.
-
-Meanwhile, 278 people from 115 families have been affected and three houses have been partially damaged in the Kandawala Divisional Secretariat Division.
-
-People have been affected by Brahmandanaru, Kalmadunagar, Dharmapuram East, Dharmapuram West, Umayyapuram, Periyakulam, Punni Nirvi and areas.
-
-...
-
-[Data](articles/4be0b084.json)
-
-[Extended Data](ext_articles/4be0b084.ext.json)
-
----
-
-### The air doors of the Iranamadu pond can be opened - flood precautions!
-
-*2024-11-26 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199764) · `ta`
-
-Iranamadu pond air doors open flood warning issued water level 27 feet capacity 36 feet precautionary measures low-lying areas affected
-
-🟩
-
-The flood precautions have been issued as the air doors can be opened on Tuesday (26) to discharge more water due to the increase in water levels for the Iranamadu pond.
-
-The water level of the Iranamadukulam, which has a capacity of 36 feet till today (26), is 27 feet.
-
-The District Disaster Management Unit said that people living in the lower parts of the Iranamadu pond and low -lying areas are very cautious.
-
-The Kilinochchi district is full of irrigation ponds and the Brahmantanaru pond, Kanakambikaikulam and Vanneri are flowing.
-
-In this context, the District Risk Management Division is advising people in the lowlands.
-
-In this case, farmers are taking their foot to safe places with the aim of protecting livestock.
-
-Gnanimadam, Mathuvilnadu East, Iranamada Nagar, Nallur, Paramanagirai and Gautarimunai areas have been affected.
-
-...
-
-[Data](articles/19160512.json)
-
-[Extended Data](ext_articles/19160512.ext.json)
-
----
-
-### Director r. V.. Udayakumar's new film production company
-
-*2024-11-26 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199763) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Director R. V. Udayakumar launches Liona & Leo Pictures, a new film production company. Indian Media Works honors Indian Awards for film artists. Ceremony held in Chennai. Udayakumar starts company with special guest John Amannan. Awards in 60 categories, including politics, sports, medicine, education. Beauty competition planned. Actor Soundar Raja, actress Shalu Shammu attend launch event.
-
-🟩
-
-Indian Media Works, which honors the award for the 'Indian Award' for film artists and other industry achievers, has launched a new film production company called 'Liona & Leo Pictures'.
-
-The launch ceremony was held in Chennai. Tamil Nadu Film Directors Association President, Director and Actor. V.. Udayakumar started the company about the special guest.
-
-Commenting on the launch of the new film production company, John Amannan told reporters, “We are honoring the Indian Award for two years on behalf of our Indian Media Works Company.
-
-The award ceremony will be held in Chennai on December 21 and 22.Best Actor - Actress - Director - Recorder - Awards are presented in 60 categories. Moreover, we are awarding awards in 30 categories to the achievement of various disciplines such as Politics - Sports - Medicine - Education.
-
-In memory of Captain Vijayakanth, who lives in the minds of the people this year. We also host the Indian -level beauty competition on the award festival stage.
-
-...
-
-[Data](articles/b93c3a33.json)
-
-[Extended Data](ext_articles/b93c3a33.ext.json)
-
----
-
-### The director's elegant screenplay is due to the success of 'Zebra'- producer Dinesh Sundaram
-
-*2024-11-26 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199769) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Director Eswar Karthik's elegant screenplay for 'Zebra' credits producer Dinesh Sundaram for its success. The Tamil-Telugu bilingual film, released on October 22nd, achieved commercial and critical acclaim. Director Karthik thanked fans and media for their support during a special event in Chennai. Producer Sundaram praised the 800-page story submitted by Karthik, calling it perfect for a movie adaptation."
-
-🟩
-
-Producer Dinesh Sundaram praised the success of the film 'Zebra', the leading screenplay of the film 'Zebra', which was played as the heroes of the story.
-
-Directed by director Eswar Karthik, directed by director Eswar Karthik, 'Zebra', which was released in Tamil and Telugu on the 22nd of this month, was a commercial and critically successful.
-
-Following this, the film crew thanked the people and the media who had succeeded in the film's winning a special event in Chennai in Chennai.. Actors Satya Dev, Satyaraj Director Eswar Karthik, filmmaker Anil, producer Dinesh Sundaram and the distributors of the film were present at the event.
-
-...
-
-[Data](articles/541f285c.json)
-
-[Extended Data](ext_articles/541f285c.ext.json)
-
----
-
-### Yogi Babu is making his debut in Hollywood
-
-*2024-11-26 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199765) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil comedian Yogi Babu debuts in Hollywood film 'Trop City'. Directed by TelK Ganesan, starring Jackson, J. Jesse Jenkins, Napoleon, GV. Yogi Babu plays lead with Prakash Kumar.
-
-🟩
-
-Yogi Babu, the leading comedian of the Tamil film industry, is making his debut in Hollywood through the film 'Trop City'.
-
-Brandon Ri in the English film 'Trop City' directed by Hollywood Director TelK Ganesan. Jackson, J. Jesse Jenkins, Napoleon, GV. Yogi Babu plays the lead role with Prakash Kumar. The film was made on behalf of Kaiba Films Company producer Dell K.. Ganesan has produced.
-
-The film crew has said that Yogi Babu, who starred in the backdrop of the music industry, dancing like Michael Jackson for an English rap song.
-
-◼️
-
-[Data](articles/e43f342e.json)
-
-[Extended Data](ext_articles/e43f342e.ext.json)
-
----
-
-### Major announcement of Batticaloa District Disaster Management Center!
-
-*2024-11-26 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199756) · `ta`
-
-Batticaloa District Disaster Management Center announcement: AMS Syath appeals to monitor water levels, ponds, and rivers due to heavy rainfall risk in Bay of Bengal. Flood disaster precautions advised.
-
-🟩
-
-The Assistant Director of the Batticaloa District Disaster Management Center, AMS Syath, has appealed to the district media unit to observe the people living in the water levels, ponds and river in the Batticaloa district.
-
-The ponds in the district have been filled with large quantities of ponds, including a large pond in the district, and the ponds have been opened, and the river, ponds and lowland areas are very observed, and that the bridges and streets of the roads are traveling in the streets of the road..
-
-He has also appealed to all the people with flood disaster, due to the risk of heavy rainfall in the Bay of Bengal.
-
-◼️
-
-[Data](articles/4aa675a0.json)
-
-[Extended Data](ext_articles/4aa675a0.ext.json)
-
----
-
-### No exams for 3 days
-
-*2024-11-26 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-நாட்களுக்கு-பரீட்சைகள்-இல்லை/175-347813) · `ta`
-
-Advanced Level Examination postponed due to climate. Next 3 days cancelled. Rescheduled for 27-29th. Other posts on 21st & 23rd next month.
-
-🟩
-
-With the prevailing worse climate in the country, it has been decided to not conduct the Advanced Level Examination for the next three days.
-
-The already scheduled exams have been postponed for the upcoming 27,28 and 29th.
-
-The posts that have been done are scheduled to be held on the 21st and 23rd of next month.
-
-◼️
-
-[Data](articles/421b3ac3.json)
-
-[Extended Data](ext_articles/421b3ac3.ext.json)
-
----
-
-### No exams for 3 days
-
-*2024-11-26 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/3-நாட்களுக்கு-பரீட்சைகள்-இல்லை/150-347813) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Advanced Level Exams postponed due to bad weather. Next sessions: 27-29th. Other tests remain on 21st and 23rd of next month.
-
-🟩
-
-With the prevailing worse climate in the country, it has been decided to not conduct the Advanced Level Examination for the next three days.
-
-The already scheduled exams have been postponed for the upcoming 27,28 and 29th.
-
-The posts that have been done are scheduled to be held on the 21st and 23rd of next month.
-
-◼️
-
-[Data](articles/43eec63a.json)
-
-[Extended Data](ext_articles/43eec63a.ext.json)
-
----
-
-### Sri Lanka’s new President needs to address longstanding abuses, impunity – Human Rights Watch
-
-*2024-11-26 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103788/sri-lankas-new-president-needs-to-address-longstanding-abuses-impunity-human-rights-watch) · `en`
-
-Sri Lanka’s new president, Anura Kumara Dissanayake, should address the country’s many human rights problems by fulfilling and building upon pledges he made in recent election campaigns, Human Rights Watch has said in a letter to the president.
-
-Human Rights Watch said in a statement that in his election manifesto, Dissanayake pledged to repeal the Prevention of Terrorism Act, remove abusive provisions of the Online Safety Act, establish an independent Directorate of Public Prosecutions separate from the attorney general’s office, aggressively combat corruption, and revise economic policies to promote equity.
-
-“However, while his government has announced renewed investigations into the 2019 Easter Sunday bombings and other emblematic crimes, it should also reverse the failures of previous administrations to address severe human rights violations committed during the 1983-2009 civil war between the government and the separatist Liberation Tigers of Tamil Eelam”, it added.
-
-...
-
-[Data](articles/59734ea0.json)
-
-[Extended Data](ext_articles/59734ea0.ext.json)
-
----
-
-### Is the government's decision to delay the proposal to reduce electricity tariffs?- UNP. Question
-
-*2024-11-26 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/199749) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Government delays reducing electricity tariffs despite Electricity Board's profitability. Public Utilities Commission requests proposal by December. If not received, commission plans to reduce tariffs based on board's profits. Former UNP parliamentarian Saman Ratnapriya criticizes delay, emphasizing Electricity Board's responsibility to amend electricity bills when profitable.
-
-🟩
-
-When the Electricity Board is profitable, it is the responsibility of the Electricity Board to make amendment to the electricity bill.. Former United National Party (UNP) parliamentarian Saman Ratnapriya said the question is whether the government's decision to delay the resolution on this electricity tariff reduction.
-
-He was speaking at a press conference held at the New Democratic Front office in Colombo on Tuesday (26).
-
-Based on its employees on the basis of profit from the Ceylon Electricity Board. But it is reported that the Electricity Board is taking steps to not pay the bonus allowance for its employees. We make a demand for the bonus allowance to be paid to the employees.
-
-Similarly, the electricity tariff must be reduced in parallel with the profit that the Electricity Board receives. Even though the Public Utilities Commission has asked the Electricity Board on the reduction of electricity tariffs. It is seen that the Electricity Board is delaying the delivery of it.
-
-...
-
-[Data](articles/f2682f82.json)
-
-[Extended Data](ext_articles/f2682f82.ext.json)
-
----
-
-### වාහන ආනයනය ගැන රජයේ තීරණය
-
-*2024-11-26 17:55:03* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-තීරණය/11-413292) · `si`
-
-වාහන ආනයනය කිරීම ලබන වසරේදී අදියර කිහිපයක් යටතේ සිදුකරන බවත් එහිදී සංචිත පිළිබඳව අවධානය යොමුකළ යුතුව ඇති බවත් කම්කරු අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පැවැසීය.
-
-“වාහන ආනයනය කිරීමට කාණ්ඩ කිහිපයක් යටතේ තමයි අවසර ලබාදීම සිදු කරන්නේ. විශේෂයෙන්ම වාණිජ මට්ටමේ තිබෙන වාහන. නමුත් එය සිදුකරන්නේ විදේශ විනිමය සීමා වලට යටත්වයි.
-
-දැනට සංචිත කොපමණ ප්‍රමාණයක් තිබෙනවාද යන්න පිළිබඳව ගණන් කර තිබෙනවා.  මහ බැංකුව යම් ආකාරයක අතිරේක සංචිත හදලා තිබෙනවා.
-
-විනියම සීමාවන්ට යටත්ව තමයි අවසර දෙනේනේ. අදියර තුනක් යටතේ වාහන ගෙන්වන්න අවස්ථාව දෙනවා. ස්ථායිකරන වැඩපිළිවෙළකට මේක යන්න ඕන. එකවරම අතහැරලා මේක කඩා දාන්න දෙන්න බෑ.”
-
-◼️
-
-[Data](articles/8878e261.json)
 
 ---

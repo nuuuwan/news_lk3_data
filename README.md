@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 14:42:15**
+As of **2024-11-27 16:27:30**
 
 ## Newspaper Stats
 
-*Scraped **57,209** Articles*
+*Scraped **57,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,76 +13,468 @@ dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 595
 islandlk | 3,431
-economynextcom | 3,472
+economynextcom | 3,477
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,393
-adaderanalk | 6,927
-tamilmirrorlk | 8,137
+adalk | 5,399
+adaderanalk | 6,929
+tamilmirrorlk | 8,142
 virakesarilk | 9,320
-adaderanasinhalalk | 9,878
+adaderanasinhalalk | 9,880
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,187 (100.0%) of 57,209 articles have been extended.
+57,216 (100.0%) of 57,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### உழவு இயந்திரம் மீட்பு:   நால்வர் மாயம்
+### Several trains cancelled due to adverse weather
+
+*2024-11-27 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103813/several-trains-cancelled-due-to-adverse-weather) · `en`
+
+Several train services have been cancelled due to the prevailing adverse weather conditions in many areas across the island.
+
+Accordingly, it has been decided to cancel the night mail train that was scheduled to operate from Colombo Fort to Badulla and the return mail train from Badulla to Colombo Fort tonight (27), the Department of Railways said.
+
+Meanwhile, the Department also said that the trains operating along the up-country and Batticaloa railway lines have been limited due to the prevailing adverse weather conditions.
+
+Accordingly, steps have been taken to limit the trains operating on the Batticaloa line up to Polonnaruwa while the trains operating on the Up-Country line have been limited up to Nanuoya.
+
+◼️
+
+[Data](articles/16534560.json)
+
+---
+
+### Muslim schools closed
+
+*2024-11-27 15:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முஸ்லிம்-பாடசாலைகள்-மூடப்பட்டன/76-347875) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Muslim schools closed temporarily in Central Province till Nov 29 due to Ministry of Education announcement.
+
+🟩
+
+The Ministry of Education of the Central Province has announced that all Muslim schools and pre -schools in the Central Province will be temporarily closed till November 29.
+
+◼️
+
+[Data](articles/a4cd465d.json)
+
+[Extended Data](ext_articles/a4cd465d.ext.json)
+
+---
+
+### Alert in the air force sky
+
+*2024-11-27 15:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானப்படை-வானில்-உஷார்/175-347874) · `ta`
+
+Air Force rescues flood victim in Ampara. Helicopter 212 saves man from Eravur Milawattavan, transports to Batticaloa Air Force Base.
+
+🟩
+
+The Air Force continues to monitor areas affected by inclement weather.
+
+Accordingly, the 212 Helicopter of the Air Force's II forces was sent to the Ampara area on Wednesday (27).
+
+During the operation, a man who was flooded in the Eravur Milawattavan area was rescued by helicopter and later taken to the Batticaloa Air Force Base.
+
+◼️
+
+[Data](articles/c725f37f.json)
+
+[Extended Data](ext_articles/c725f37f.ext.json)
+
+---
+
+### පරාක්‍රම සමුද්‍රයේ වාන් දොරටු 8ක් විවෘත කරයි
+
+*2024-11-27 15:34:39* · [`adalk`](https://www.ada.lk/breaking_news/පරාක්‍රම-සමුද්‍රයේ-වාන්-දොරටු-8ක්-විවෘත-කරයි/11-413312) · `si`
+
+පොළොන්නරු දිස්ත්‍රික්කයට ඇදහැලෙන ධාරානිපාත වර්ෂාවත් හේතුවෙන් පොළොන්නරුව පරාක්‍රම සමුද්‍රයේ ජල මට්ටම
+
+මේ හේතුවෙන් පරාක්‍රම සමුද්‍රයේ වාන් දොරටු දහයෙන් දොරටු අටක් අඩි හතර බැගින්ද, දොරටු දෙකක් අඩි තුන බැගින් ද විවෘත කර තිබෙන අතර ඉන් තත්පරයට ඝන අඩි 3,786 ක ජලධාරීතාවයක් මහවැලි ගඟට මුදාහැරීමට කටයුතු කර ඇති බව  පොළොන්නරුව දිස්ත්‍රික් වාරි ඉංජිනේරු අංජන අබේසිංහ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/23ce3582.json)
+
+---
+
+### Sri Lanka should maximise GSP benefit by expanding cumulation: IPS
+
+*2024-11-27 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-maximise-gsp-benefit-by-expanding-cumulation-ips-190244/) · `en`
+
+ECONOMYNEXT – While maintaining the GSP+ preference scheme, Sri Lanka should increase its use by expanding the cumulation of non-originating materials, similar to the recent EU approval of cumulation between Sri Lanka and Indonesia, an Institute of Policy Studies research article said.
+
+“The Trade Preference Outlook-2024 of the UNCTAD also underscores the importance of reforming rules of origin, accounting for supply chain realities,” the article said.
+
+Enhanced cumulation will especially benefit the country’s wearing apparel sector.
+
+“In the longer term, Sri Lanka can look into options like entering a free trade agreement with the EU to cope with the adverse effects of GSP+ loss at a higher income stage of the country.”
+
+The full article, authored by IPS’ Rashmi Anupama, Chaya Dissanayake, and Dr Asanka Wijesinghe, is reproduced below:
+
+...
+
+[Data](articles/965b6854.json)
+
+[Extended Data](ext_articles/965b6854.ext.json)
+
+---
+
+### Parliament gathers from December 3 to 6
+
+*2024-11-27 15:19:01* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-දෙසැම්බර්-3-සිට-6-දක්වා-රැස්වෙයි/11-413311) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Parliament meets Dec 3-6. Debate on govt policy starts Dec 4. Budget discussion Dec 5-6. PSC formation & committee appointments discussed.
+
+🟩
+
+The Secretary General of Parliament Kushani Rohandera said at the party leaders meeting chaired by Hon.
+
+Accordingly, the proposal to be presented to the government's government's government's government's policy statement on Tuesday, the President has decided to present the debate on the government's government's policy statement.. The party leaders have agreed to hold further debate on December 4 to 5:00 pm.
+
+The proposal for the first four months of the year 2025 was also decided to take debate in Parliament on Thursday 5th December.. Accordingly, the debate has been decided in December 5 and 6 pm to 5.30 pm to 5.30 pm to 5.30 pm.
+
+...
+
+[Data](articles/20f7d9d5.json)
+
+[Extended Data](ext_articles/20f7d9d5.ext.json)
+
+---
+
+### Death toll climbs to 4 as adverse weather impacts over 230,000
+
+*2024-11-27 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103812/death-toll-climbs-to-4-as-adverse-weather-impacts-over-230000) · `en`
+
+The Disaster Management Centre (DMC) has reported that the prevailing inclement weather conditions have affected a total of 230,743 individuals across Sri Lanka.
+
+Meanwhile, the death toll from the adverse weather has increased to 04 this far while 06 persons remain missing.
+
+◼️
+
+[Data](articles/e8c4934a.json)
+
+[Extended Data](ext_articles/e8c4934a.ext.json)
+
+---
+
+### Sri Lanka obstructs Sri Lanka
+
+*2024-11-27 15:18:12* · [`adalk`](https://www.ada.lk/sports/ජය-සොයා-යන-ශ්‍රී-ලංකාවට-වර්ෂාවෙන්-බාධා/9-413310) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lanka obstructs Sri Lanka Tourism's first Test match against South Africa. South African team scores 80 runs for 4 wickets in 4 overs.
+
+🟩
+
+The first day of the first Test match between the Sri Lanka Tourism Sri Lanka and South Africa has been interrupted.
+
+South African team scored 80 runs for the loss of 4 wickets at the end of 4 wickets at the end of 4 balls.
+
+◼️
+
+[Data](articles/529d0682.json)
+
+[Extended Data](ext_articles/529d0682.ext.json)
+
+---
+
+### “The government should take immediate action”
+
+*2024-11-27 15:16:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-உடனடியாக-நடவடிக்கை-எடுக்க-வேண்டும்/175-347873) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka faces flooding due to the Bengal cyclone. Government urged to act quickly for relief. Tragic incident involving students in a plowing machine occurred. Rescue efforts ongoing.
+
+🟩
+
+Namal Rajapakse, the national coordinator of the Sri Lanka PA, expressed regret over the tragedy of the plowing machine that was carrying the boys in the East, and praised the efforts of the armed forces in the flood -affected districts.
+
+“With the impact of the Bengal hurricane, many districts in Sri Lanka have been flooded.. Their tireless efforts are always commendable to keep the citizens safe.
+
+I am sorry to see the tragic incident of the plowing machine carrying students in the east yesterday evening. The driver and the 5 boys have been rescued and the rescue work is underway and they have not yet been recovered, ”he posted in his X.
+
+He added that the government should take immediate steps to assist the victims, emphasizing the need for immediate relief and the need for floods.
+
+◼️
+
+[Data](articles/9bf8a0f3.json)
+
+[Extended Data](ext_articles/9bf8a0f3.ext.json)
+
+---
+
+### New Deputy Director General appointed
+
+*2024-11-27 15:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதிப்-பணிப்பாளர்-நாயகம்-நியமனம்/175-347872) · `ta`
+
+Dr. Arjuna Tilakaratne, former SPC head, appointed Deputy Director General (Medical Services) II at Ministry of Health, replacing retired doctor Sudath Dharmaratne.
+
+🟩
+
+According to reports, Dr. Arjuna Tilakaratne, a senior medical administrator and head of the State Pharmaceutical Corporation (SPC), has been appointed to the Ministry of Health.
+
+He has been appointed as the Deputy Director General (Medical Services) II as the recent retired doctor Sudath Dharmaratne.
+
+◼️
+
+[Data](articles/9e465c64.json)
+
+[Extended Data](ext_articles/9e465c64.ext.json)
+
+---
+
+### Several trains will be canceled
+
+*2024-11-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203800) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Several trains canceled due to bad weather. Colombo Fort-Badulla postal train halted. Trains restricted at Polonnaruwa and Nanu Oya stations."
+
+🟩
+
+A few train travel has been canceled due to the adverse weather conditions in many parts of the island.
+
+According to the Railway Department, the postal train scheduled to travel to Badulla from Colombo Fort to Badulla this night, the Railway Department said.
+
+The railway train is restricted to the Polonnaruwa Railway Station and the upcountry train is restricted to the Nanu Oya railway station.
+
+◼️
+
+[Data](articles/5093c6c7.json)
+
+[Extended Data](ext_articles/5093c6c7.ext.json)
+
+---
+
+### 24 hour special police operation room launches urgent disaster
+
+*2024-11-27 15:05:34* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-ආපදා-දන්වන්න-24-පැයේ--විශේෂ-පොලිස්-මෙහෙයුම්-මැදිරියක්-අරඹයි/11-413309) · `si`
+
+Special police operation room launched for emergency coordination. Four phone numbers and one email available 24/7 for reporting disasters and seeking help.
+
+🟩
+
+Police Headquarters Announces that a special police operation room has been established in order to report and coordinate with various emergency situations caused by inclement weather.
+
+The operating room and four telephone numbers and an e-mail address have been introduced to join the people with 24 hours.
+
+According to the police media division, including the assistance of emergency disaster, displaced and police assistance, 0112430912, 0112013051, 0112013051, 0112013051, 0112013051, 0112013051, 0112013051, 0112013051.
+
+◼️
+
+[Data](articles/f04ea28a.json)
+
+[Extended Data](ext_articles/f04ea28a.ext.json)
+
+---
+
+### Cyclone threat as depression moves East of Sri Lanka
+
+*2024-11-27 14:53:00* · [`economynextcom`](https://economynext.com/cyclone-threat-as-depression-moves-east-of-sri-lanka-190252/) · `en`
+
+ECONOMYNEXT- A deep depression off the Eastern coast of Sri Lanka could develop in to a cyclone with up to 150 millimeters of rain and strong winds the Department of Meteorology said.
+
+“It is likely to move closer to the east coast of Sri Lanka and intensify further into a cyclonic storm during next 12 hours,” a weather warning issued near mid-day said.
+
+“Showers or thundershowers will occur at times in Northern, North-central, Central, western and North-western provinces and in Trincomalee, Batticaloa and Kegalle districts,”
+
+“Very heavy showers above 150 mm are likely at some places.”
+
+The weather system is likely to move north and hit the Eastern coast of India, the Indian Met Dept said.
+
+Sri Lanka has already seen heavy rain over the past 24 hours.
+
+◼️
+
+[Data](articles/54cbbf61.json)
+
+[Extended Data](ext_articles/54cbbf61.ext.json)
+
+---
+
+### Disaster deaths up
+
+*2024-11-27 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203799) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"4 killed, 6 injured in disaster. 141 local secretaries in 18 districts affected. 230,947 individuals impacted by 66,947 families."
+
+🟩
+
+The Director General of the Disaster Management Center Udaya Herath says that four people have been killed and six others have been killed and six others have been killed.
+
+The condition affected by 141 local secretaries in 18 districts of the country.
+
+The Disaster Management Center said that 230,947 persons have been affected by 66,947 families.
+
+◼️
+
+[Data](articles/d81b9d82.json)
+
+[Extended Data](ext_articles/d81b9d82.ext.json)
+
+---
+
+### Red hazard alert to several areas
+
+*2024-11-27 14:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-சிவப்பு-அபாய-எச்சரிக்கை/175-347869) · `ta`
+
+Heavy rainfall triggers landslide warnings across three districts. Red alerts issued for multiple areas including Kandy. Authorities urge immediate evacuation. Coordination between Disaster Management Center, police, military, and regional offices underway.
+
+🟩
+
+Police Media Spokesperson DIG Nihal Talduwa said on Wednesday that a landslide warning has been issued to many parts of the three districts due to heavy rains.
+
+He also said that red notices have been issued and the people of the area have been immediately announced to leave the places.
+
+Accordingly, in the Kandy district, the red warning has been issued to Harispattu, Medathumbara, Gangadha Koralaya, Ududumbara, Yattinuwara, Pad Hewahada, Teltottai, Padatumbara, Vilgamuwa, Ambagamuwa, Ambagamuwa, Korala, Ratottai, Naula.
+
+The police media spokesman said that it was important to leave the area as soon as the people of the area were to leave the areas and the authorities of the Disaster Management Center, the police, the military and the regional offices were coordinated.
+
+◼️
+
+[Data](articles/c0bb4ea7.json)
+
+[Extended Data](ext_articles/c0bb4ea7.ext.json)
+
+---
+
+### If famous places are unclean, P H I La Clean ....
+
+*2024-11-27 14:36:04* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසිද්ධ-ස්ථාන-අපවිත්‍ර-කලොත්-P-H-I-ලා-Clean-කරයි-----/11-413308) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Public Health Inspectors launching island-wide crackdown on cleanliness in public spaces by 2025. Pilot project underway in Badulla, prosecuting offenders. 350 Health Medical Officers involved.
+
+🟩
+
+Public Health Inspectors will be implemented by the Public Health Inspectors in 2025 to prosecute public places.
+
+The program is running to cover the entire island and using the power and laws of the public health inspectors.
+
+Accordingly, in bus hatts, paths and other public places will be arrested and resorted to mass harmful, crushing and public places, as well as the disposal of garbage, and disposal of garbage..
+
+Also, by the end of the year 2025, public health inspector Sandun Ratnayake said that all necessary activities will be conducted to be able to carry the public places.
+
+Meanwhile, the pilot project has commenced in the Badulla Municipal Council area and has filed a prosecution to nearly 20 people in the area.
+
+Public Health Inspector Sandun Ratnayake added that public health inspectors serving in 350 Health Medical Officer of Health island wide. (I J)
+
+◼️
+
+[Data](articles/08de2491.json)
+
+[Extended Data](ext_articles/08de2491.ext.json)
+
+---
+
+### Plowing Machine Recovery: Four Magic
 
 *2024-11-27 14:30:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/உழவு-இயந்திரம்-மீட்பு-நால்வர்-மாயம்/74-347866) · `ta`
 
-அம்பாறை மாவட்டத்தில் நிலவிய சீரற்ற காலநிலையால் ஏற்பட்ட பெருவெள்ளத்தில் சிக்கி உயிரிழந்த இரு மாணவர்களின் சடலங்கள் இதுவரை மீட்கப்பட்டுள்ளன. சடலங்கள்  சம்மாந்துறை ஆதார வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளன.
+Flood recovery efforts ongoing in Ampara district. Two student bodies found, four missing. Heavy machinery used to recover plowing machine and motorcycles. Local officials present at scene. Search continues for remaining victims.
 
-இப் பேரனர்த்தத்திற்கு காரணமான உழவு இயந்திரம் மற்றும் அதன் பெட்டி கனரக இயந்திரம் மூலம் வெள்ளத்தில் இருந்து மீட்கப்பட்டன.  இரண்டு மோட்டார் சைக்கிள்களும் மீட்கப்பட்டுள்ளன.
+🟩
 
-சம்பவம் இடம்பெற்ற காரைதீவுக்கு அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர் அஷ்ரப் தாஹிர்,அம்பாறை மாவட்ட அரசாங்க அதிபர் சிந்தக அபேவிக்ரம, மேலதிக அரசாங்க அதிபர் சிவ.ஜெகராஜன், காரைதீவு பிரதேச செயலாளர் ஜி.அருணன், சம்மாந்துறை பிரதேச செயலாளர் எஸ்.எல்.எம்.ஹனிபா ஆகியோர் உள்ளிட்ட உயரதிகாரிகள் சமூகமளித்திருந்தனர்.
+The bodies of two students who were trapped in a flood caused by inclement weather in Ampara district have been recovered so far.. The bodies have been sent to the Samanthurai Resource Hospital.
 
-எனினும்  இதுவரை ( பகல் ஒரு மணி வரை) இரண்டு சடலங்களே மீட்கப்பட்டுள்ளன. மேலும் நால்வர் இன்னமும் மாயமாகியுள்ளனர். தேடுதல் தொடர்கிறது.
+The plowing machine and its box were recovered from the flood by heavy machinery.  இரண்டு மோட்டார் சைக்கிள்களும் மீட்கப்பட்டுள்ளன.
 
-காரைதீவு மாவடிப்பள்ளி பிரதான வீதியில் ஏற்பட்ட பெரு வெள்ளத்தில் சிக்கிய எட்டு மதரசா மாணவர்கள் உட்பட 11 பேர் வெள்ளத்தில் செவ்வாய்க்கிழமை அள்ளுண்டமை தெரிந்ததே.
+Ampara District Parliamentarian Ashraf Tahir, Ampara District Government Agent Sindaka Abeywickrama, Additional Government Agent Shiv Jegarajan, Karadivu Divisional Secretary G. Arunan and Samanthurai Divisional Secretary SLM Haniba were present.
+
+However, so far (up to one hour of day) have been recovered by two bodies. And four are still magical. The search continues.
+
+Eleven people, including eight madrasa students, who were caught in the floods on the main road of Karadivu, were reportedly in the floods on Tuesday.
 
 ◼️
 
 [Data](articles/ccad74be.json)
 
+[Extended Data](ext_articles/ccad74be.ext.json)
+
 ---
 
-### இரண்டு அஞ்சல் ரயில்களும் இரத்து
+### Both postal trains cancel
 
 *2024-11-27 14:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரண்டு-அஞ்சல்-ரயில்களும்-இரத்து/76-347865) · `ta`
 
-மலையக ரயில் தண்டவாளங்களில் மண்சரிவு ஏற்பட்டுள்ளதால், புதன்கிழமை  (27) இயக்கப்படவிருந்த கொழும்பு - கோட்டை - பதுளை மற்றும் பதுளை - கொழும்பு ஆகிய இரண்டு இரவு நேர அஞ்சல் ரயில்களும் ரத்து செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. இந்த இரண்டு அஞ்சல் ரயில்களும் நேற்றும் (26)  ரத்து செய்யப்பட்டன.
+Postal trains canceled due to landslides on hill railway tracks. Colombo-Fort, Badulla, and Colombo-Badulla routes affected. Train from Colombo Fort to Nanuoya limited for second day.
 
-இதேவேளை, கொழும்பு கோட்டையிலிருந்து நானுஓயா வரையான   புகையிரத பாதையில் இயங்கும் புகையிரதம் இரண்டாவது நாளாக இன்றும் மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+The Railway Department said that the Colombo -Fort, Badulla and Badulla -Colombo -Colombo -Colombo day postal trains have been canceled due to landslides on the hill railway tracks on Wednesday (27).. The two postal trains were canceled yesterday (26).
+
+Meanwhile, the Railway Department said that the train from Colombo Fort to Nanuoya has been limited for the second day.
 
 ◼️
 
 [Data](articles/63f52cae.json)
 
+[Extended Data](ext_articles/63f52cae.ext.json)
+
 ---
 
-### முன்பள்ளிகளுக்கு பூட்டு
+### Lock for pre -schools
 
 *2024-11-27 14:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளிகளுக்கு-பூட்டு/175-347864) · `ta`
 
-வடமத்திய மாகாணத்தில் பதிவு செய்யப்பட்ட 1,480 முன்பள்ளிகளை புதன்கிழமை (27)  முதல் மறு அறிவித்தல் வரை மூடுவதற்கு தீர்மானித்துள்ளதாக மாகாண ஆரம்பக் குழந்தைப் பருவ அதிகார சபையின் முகாமைத்துவப் பணிப்பாளர்  நிலந்த ஏகநாயக்க தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-வடமத்திய மாகாண ஆளுநர் வசந்த ஜினதாசவின் பணிப்புரைக்கு அமைய வடமத்திய மாகாணத்தில் உள்ள 94 முஸ்லிம் மற்றும் தமிழ் பாடசாலைகள் இம்மாதம் 27ஆம் திகதி முதல் 29ஆம் திகதி வரை மூடப்படும் என மாகாண கல்வி அமைச்சின் செயலாளர்  சிறிமேவன் தர்மசேன தெரிவித்துள்ளார். மோசமான வானிலை காரணமாக இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+
+"Pre-schools in North Central Province closed due to bad weather. 1,480 schools shut until 27th. 94 Muslim/Tamil schools closed 27-29th."
+
+🟩
+
+The Managing Director of the Provincial Primary Children's Authority Nilantha Ekanayake said that 1,480 pre -schools registered in the North Central Province have been closed until Wednesday (27).
+
+94 Muslim and Tamil schools in the North Central Province will be closed from the 27th to the 29th of this month, according to the Governor of the North Central Province Vasantha Jinadasa.. This decision has been made due to bad weather.
 
 ◼️
 
 [Data](articles/9ae6a3df.json)
+
+[Extended Data](ext_articles/9ae6a3df.ext.json)
 
 ---
 
 ### The ceasefire came into effect - thousands of Lebanon people return to South Lebanon
 
 *2024-11-27 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199835) · `ta`
+
+Ceasefire implemented; thousands return to South Lebanon. Heavy traffic reported. Public shows support for Hezbollah. Officials warn against immediate return due to safety concerns.
+
+🟩
 
 Thousands of Lebanon people have returned to their areas in Southlepanon following the implementation of the ceasefire agreement between Israel and the Hesbullah organization.
 
@@ -97,6 +489,48 @@ Israeli Lebanon officials have warned that some people show their hands as a vic
 [Data](articles/2c849aff.json)
 
 [Extended Data](ext_articles/2c849aff.ext.json)
+
+---
+
+### China Communist Party senior member meets Sri Lanka leaders
+
+*2024-11-27 14:06:00* · [`economynextcom`](https://economynext.com/china-communist-party-senior-member-meets-sri-lanka-leaders-190239/) · `en`
+
+ECONOMYNEXT – Communist Party of China (CPC) Central Committee member Sun Haiyan is in the island on a four-day official visit aimed at enhancing Sri Lanka-China relations.
+
+She is the Vice Minister of the International Department of the CPC.
+
+Haiyan met President Anura Dissanayake and Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath to discuss “strengthening bilateral cooperation and deepening ties between the two nations” the Ministry of Foreign Affairs said in a statement.
+
+Haiyan was accompanied by Deputy Director General of the International Department of the CPC Central Committee Lin Tao and Director of the International Department of the CPC Central Committee Li Jinyan. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/577cbe70.json)
+
+[Extended Data](ext_articles/577cbe70.ext.json)
+
+---
+
+### Several Cabinet Ministers arrive at the CID
+
+*2024-11-27 14:01:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-කැබිනට්-අමාත්‍යවරුන්-කිහිප-දෙනෙක්-සි-අයි-ඩී-ය-හමුවට-පැමිණෙයි/11-413307) · `si`
+
+Cabinet Ministers visit CID over substandard issues. Former ministers Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka, and Nasir Ahmed present.
+
+🟩
+
+Several Cabinet Ministers have appeared in the face of the Criminal Investigation Department today (27) regarding the subject of substandard.
+
+Former ministers were summoned to the CID to address the Cabinet Ministers who were granted to the approval of the cabinet ministers.
+
+Former ministers of Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka and Nasir Ahmed have come to the Department of Criminal Investigations.
+
+◼️
+
+[Data](articles/1257c9db.json)
+
+[Extended Data](ext_articles/1257c9db.ext.json)
 
 ---
 
@@ -146,41 +580,63 @@ Due to the inclement weather in the Kilinochchi district, flood water has been f
 
 ---
 
-### விமானத்திலேயே பெண்ணின் கைப்பையை திருடிய கணக்காளர் கைது
+### Accountant arrested for stealing a woman's handbag on the plane
 
 *2024-11-27 13:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானத்திலேயே-பெண்ணின்-கைப்பையை-திருடிய-கணக்காளர்-கைது/175-347863) · `ta`
 
-இங்கிலாந்தின் லண்டனில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு செவ்வாய்க்கிழமை (26) மதியம் வந்து கொண்டிருந்த ஸ்ரீலங்கன் விமானத்தில் அலுவலக உதவியாளரின் கைப்பையை திருடிய கணக்காளர் ஒருவரை கட்டுநாயக்க விமான நிலைய பொலிஸார் கைது செய்துள்ளனர்.
+Accountant steals handbag on plane, arrested at Katunayake airport. Contains £2700, iPhones, Samsung phones. Suspect has Canadian-Sri Lankan dual citizenship.
 
-சிறி ஷ்யாமலி வீரசிங்க 55 வயதான அலுவலக உதவியாளர் ஆவார், அவர் தற்போது இங்கிலாந்தில் வசிக்கிறார்,   இங்கிலாந்து மற்றும் இலங்கையின் இரட்டைக் குடியுரிமையுடன் வசிக்கும் அந்த பெண், இலங்கையின் பன்னிப்பிட்டியவில் வசிக்கிறார்.
+🟩
 
-அவர் செவ்வாய்க்கிழமை (26) மதியம் 01.30 மணியளவில் இங்கிலாந்தின் லண்டனில் இருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-504 இல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+Katunayake airport police have arrested an accountant who stole an office assistant's handbag on a SriLankan flight from London, UK on Tuesday (26).
 
-அவளது கைப்பையில் 14 இலட்சத்து இருபத்து மூவாயிரத்து ஐந்நூறு ரூபாய் பெறுமதியான 2,700 ஸ்டெர்லிங் பவுண்ஸ், 02 புதிய   வகை கையடக்கத் தொலைபேசிகள் (ஐ போன்) மற்றும் 02 சாம்சுங் ரக கைத்தொலைபேசிகள் இருந்தன.
+Siri Shyamali Weerasinghe is a 55 -year -old office assistant, and she is currently living in the UK and the woman who lives with the dual citizenship of the UK and Sri Lanka and lives in Pannipitiya, Sri Lanka.
 
-விமானம் புறப்பட்ட சிறிது நேரத்தில், இந்த கைப் பை தொலைந்து போனதால், அந்த பெண் இலங்கை விமான போக்குவரத்து அதிகாரசபையிடம் புகார் செய்துள்ளார்.
+He arrived at the Katunayake airport on Tuesday (26) at 01.30 pm on Sri Lanka Airlines flight from London, England.
+
+Her handbag had 2,700 sterling pounds worth 14 lakhs twenty -three thousand five hundred rupees, 02 new handheld phones (i phone) and 02 Samsung cell phones.
+
+Shortly after the plane departed, the woman had lodged a complaint with the Sri Lanka Air Transport Authority as the hand was lost.
+
+The SriLankan Airlines Investigation Officers at Katunayake Airport have been informed that the aircraft's pilot has been informed of the airplane.
 
 ...
 
 [Data](articles/a9d60b58.json)
 
+[Extended Data](ext_articles/a9d60b58.ext.json)
+
 ---
 
-### கிழக்கு பல்கலைக்கழக விடுதிகள் மூடப்பட்டன
+### Eastern University Hotels closed
 
 *2024-11-27 13:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கிழக்கு-பல்கலைக்கழக-விடுதிகள்-மூடப்பட்டன/73-347862) · `ta`
 
-சீரற்ற காலநிலை காரணமாக கிழக்குப் பல்கலைக் கழகத்தின் விடுதிகள் புதன்கிழமை (27) முதல் அமுலுக்கு வரும் வகையில் மறு அறிவித்தல்வரை மூடப்பட்டு மாணவர்கள் தமது வீடுகளுக்கு அனுப்பட்டுள்ளதாக கிழக்குப் பல்கலைக் கழக பதிவாளர் அமரசிங்கம் பகிரதன் தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-மாணவர்களின் கற்றல் நடவடிக்கைகள் நிகழ்நிலை மூலம் நடைபெறுவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் அவர் கூறினார்.
 
-கடந்த சில தினங்களாக பெய்துவரும் அடைமழை காரணமாக மட்டக்களப்பு மாவட்டத்தில் வெள்ளப் பெருக்கு ஏற்பட்டுள்ளது. பல்கலைக்கழக வளாகம் மற்றும் மாணவர் விடுதியில் வெள்ளம் ஏற்பட்டுள்ளது. இதன் காரணமாக மாணவர்கள் வெளியேற்றப்பட்டு வீடுகளுக்கு அனுப்பப்பட்டுள்ளனர்.
 
-மாவட்டத்தில் ஏற்பட்ட வெள்ள அனர்த்தம் காரணமாக பிரதான வீதிகளில் வெள்ள நீர் மட்டம் உயர்ந்து போக்குவரத்து தடை ஏற்பட்டுள்ளது. இதன் காரணமாக கல்வி மற்றும் கல்விசாரா ஊழியர்கள் கடமைக்கு வருவதில் பாரிய சிரமங்களை எதிர்நோக்கியதுடன் பலர் கடமைக்கு சமூகமளிக்கவில்லை. இதனைக் கருத்திற்கொண்டு மாணவர்களை  வீட்டுகளுக்கு அனுப்பியதுடன் நிகழ்நிலை மூலம் கற்றல் செயற்பாடுகளை முன்னெடுக்க ஏற்பாடுகள் செய்யப்பட்டுள்ளது.
+Eastern University closes hostels due to floods. Students sent home. Learning activities shifted online. Floods caused by heavy rains in Batticaloa district. State officials assist flood victims.
 
-...
+🟩
+
+Eastern University Registrar Amarasingham Paradhan said that due to inclement weather, the Eastern University Hostels have been closed from Wednesday (27) to re -notice and sent to their homes.
+
+He also said that arrangements have been made to take the students' learning activities.
+
+Batticaloa district has been flooded due to heavy rains over the past few days. Floods in the university campus and student hostel. As a result, the students have been evacuated and sent home.
+
+Due to floods in the district, floodwaters have risen on the main roads. Because of this, education and non -academic staff faced massive difficulties in obligating and many did not join the duties. In view of this, students have been sent home and arrangements have been made to carry out learning activities through the event.
+
+In the Batticaloa district, many areas have been flooded due to the opening of the Urugamam and Unnichi ponds.
+
+State officials are responsible for bringing the flood victims to safe places.
+
+◼️
 
 [Data](articles/edc25e05.json)
+
+[Extended Data](ext_articles/edc25e05.ext.json)
 
 ---
 
@@ -281,6 +737,28 @@ Responding to this, Union Minister of Communications Aswini Vaishnav said, “Me
 [Data](articles/7f666547.json)
 
 [Extended Data](ext_articles/7f666547.ext.json)
+
+---
+
+### Sri Lanka deflation not harmful to the economy: CB Governor
+
+*2024-11-27 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-not-harmful-to-the-economy-cb-governor-190234/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current deflation is not harmful to the economy and is a correction from previous very high inflation, Central Bank Governor Nandalal Weerasinghe said.
+
+The deflation is reducing the cost of living for the people and also the cost of production of companies, he said.
+
+“It comes after very high inflation,” Governor Weerasinghe told reporters Wednesday after reducing its policy rate to 8.0 percent from an earlier corridor of 9.25 to 8.25 percent.
+
+Sri Lanka’s deflation is expected to continue in the near term, he said.
+
+Sri Lanka’s economy has been recovering and the economy is growing around 4.5 percent amid the price falls, Governor Weerasinghe said. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/8a8c444f.json)
+
+[Extended Data](ext_articles/8a8c444f.ext.json)
 
 ---
 
@@ -460,19 +938,29 @@ In addition, the Army's Special Task Force (STF) has been involved in the hearin
 
 ---
 
-### අයහපත් කාලගුණයෙන් දෙදෙනෙකු මරුට - 07 දෙනෙකු අතුරුදන්
+### Two killed in bad weather - 07 disappeared
 
 *2024-11-27 12:04:32* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණයෙන්-දෙදෙනෙකු-මරුට---07-දෙනෙකු-අතුරුදන්/11-413306) · `si`
 
-අයහපත් කාලගුණික තත්ත්වයත් සමග පුද්ගල මරණ 2ක් වාර්තා වන බව පොලිස් මාධ්‍යප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-කොළඹ අද(27දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
 
-“පුද්ගලයන් දෙදෙනෙක් දැනට මිය ගිය බවට තොරතුරු තිබෙනවා. තුවාල ලබලා තියෙනවා 08 දෙනෙක්. අතුරුදන්වීම් තියෙනවා 07 දෙනෙක්. ”
+
+Bad weather claims 2 lives; 7 missing. DIG Nihal Talduwa reports at Colombo media briefing. Injuries also reported due to severe weather conditions.
+
+🟩
+
+The DIG's DIG's DIG's DIG's Court, Nihal Talduuwa said that two deaths were reported in bad weather conditions.
+
+He was speaking at a media briefing held in Colombo today (27).
+
+"There is information that two people have died. There are injured. There are disappearances 07. "
 
 ◼️
 
 [Data](articles/f086730b.json)
+
+[Extended Data](ext_articles/f086730b.ext.json)
 
 ---
 
@@ -750,7 +1238,29 @@ In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 
 
 ---
 
-### Sri Lanka bonds yield  fall, rupee at 291.15/20 to dollar
+### Sri Lanka bond yield  falls after rate cut, rupee at 291.15/20 to dollar
+
+*2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yield-falls-after-rate-cut-rupee-at-291-15-20-to-dollar-190205/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading more or less flat at 291.15/20 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields plummeted after the central bank’s monetary policy announcement.
+
+A bond maturing on 15.12.2027 was quoted at 10.42/48 percent, down from 10.85/90 percent.
+
+A bond maturing on 15.03.2028 was quoted at 10.50/60 percent, down from 11.07/15 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, down from 11.35/50 percent.
+
+In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 12,961. The more liquid S&P SL20 was down 0.04 percent, or 1.70 points, at 3,842.
+
+◼️
+
+[Data](articles/99df2115.json)
+
+[Extended Data](ext_articles/99df2115.ext.json)
+
+---
+
+### Sri Lanka bond yield  falls after rate cut, rupee at 291.15/20 to dollar
 
 *2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-yield-fall-rupee-at-291-15-20-to-dollar-190205/) · `en`
 
@@ -1867,377 +2377,5 @@ International Business Council President Kosala Wickramanayake recently paid a c
 [Data](articles/0472732f.json)
 
 [Extended Data](ext_articles/0472732f.ext.json)
-
----
-
-### HRW urges President AKD  to reset course on rights
-
-*2024-11-27 06:14:29* · [`dailyftlk`](https://www.ft.lk/news/HRW-urges-President-AKD-to-reset-course-on-rights/56-769740) · `en`
-
-Human Rights Watch says new Govt. needs to address longstanding abuses, impunity
-
-Human Rights Watch (HRW) has urged new President Anura Kumara Dissanayake to address the country’s many human rights problems by fulfilling and building upon pledges he made in recent election campaigns.
-
-HRW said yesterday this call was made via a letter to the President on 18 November.
-
-HRW acknowledged that Dissanayake was elected President on 21 September and on 14 November his National People’s Power coalition won a majority of Parliamentary seats.
-
-...
-
-[Data](articles/8063d5ea.json)
-
-[Extended Data](ext_articles/8063d5ea.ext.json)
-
----
-
-### Arrest warrant issued against Jaffna District MP Archchuna Ramanathan
-
-*2024-11-27 06:12:06* · [`dailyftlk`](https://www.ft.lk/news/Arrest-warrant-issued-against-Jaffna-District-MP-Archchuna-Ramanathan/56-769739) · `en`
-
-Colombo Additional Magistrate Manjula Ratnayake, has ordered an arrest warrant for Jaffna District Independent Member of Parliament (MP) Archchuna Ramanathan. The warrant was issued yesterday during a hearing on an ongoing case related to a 2021 incident.
-
-The case involves allegations that the MP assaulted a person following a traffic accident on Baseline Road in Colombo.
-
-This development adds to the legal troubles faced by Dr. Ramanathan, who recently stirred controversy by occupying the opposition leader’s traditional seat during the first session of Sri Lanka’s 10th Parliament.
-
-...
-
-[Data](articles/b2e94af9.json)
-
-[Extended Data](ext_articles/b2e94af9.ext.json)
-
----
-
-### Poverty of CBSL’s monetary policies: Part II
-
-*2024-11-27 06:09:04* · [`dailyftlk`](https://www.ft.lk/columns/Poverty-of-CBSL-s-monetary-policies-Part-II/4-769738) · `en`
-
-High domestic interest rates on Government debt, combined with the absence of Central Bank intervention to purchase newly issued debt, will escalate the domestic debt servicing burden
-
-The present article expands on the loss of control by the Central Bank of Sri Lanka (CBSL) of interest rates that we developed in Part I. In Part I the focus was money market or short-term interest rates. In the present article the focus is long-term interest rates, particularly interest rates on long-term Government debt.
-
-The article makes two key points in this regard. Firstly, the CBSL has not only lost control over money market or short-term interest rates, as argued in Part I, but also over long-term interest rates, specifically those on long-term Government debt i.e., on Government debt exceeding one year. Secondly, this loss of control stems partly from the CBSL’s inability to regulate short-term money market rates and partly from the provisions of the new Central Bank Act (CBA) passed in 2023.
-
-...
-
-[Data](articles/8c44700d.json)
-
-[Extended Data](ext_articles/8c44700d.ext.json)
-
----
-
-### Skuton's accident: 'Kids rise to Tractor because' stopped the bus
-
-*2024-11-27 06:05:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7wxp91w1jo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Children died in tractor-bus accident in Ampara. Heavy rain & strong winds forecasted. Disasters reported in Northern & Eastern provinces. Flood warnings issued for lowlands. Meteorological department warns of landslides in several districts.
-
-🟩
-
-Skuton's accident: 'Kids rise to Tractor because' stopped the bus
-
-Navy spokesman Kapithan Gayan Wickremasuriya told the BBC Sinhala service in search of a group of children carrying a group of children in the Madipali area in Ampara.
-
-The Navy Spokesperson added that a team of Navy diving and a team of digestion and the disappearance of people has already been referred to the area.
-
-BBC Sinhala service was carried out in the Ampara District Disaster Management Unit, Assistant Director of the Ampara District Disaster Management Unit. Mohammad Riyas said that a group of students studying in a mature school in Nindavur.
-
-The students were traveling from the Nindavur area.
-
-The passengers in the Passenger in the Mawarapitiya area have returned to the fluid area and has returned to it;The accident had occurred when the children were on a tractor near the group, said the accident.
-
-...
-
-[Data](articles/522c5cdb.json)
-
-[Extended Data](ext_articles/522c5cdb.ext.json)
-
----
-
-### Blunder by new Government: No fertiliser to paddy farmers
-
-*2024-11-27 06:02:49* · [`dailyftlk`](https://www.ft.lk/columns/Blunder-by-new-Government-No-fertiliser-to-paddy-farmers/4-769737) · `en`
-
-The current Government’s biggest blunder is the neglect of fertiliser to paddy farmers
-
-Over the past few weeks, TV channel ‘Derana’ reported on a number of occasions, the plight of the paddy farmers in Kurunegala, Anuradhapura, Polonnaruwa, Batticaloa and Amparai districts due to non-availability of fertiliser for their paddy cultivation. But the Government TV channels were silent over the issue.
-
-Maha rainy season started in early October as usual and will continue until early January. Rains start in early October during the evenings and intensity will increase reaching a maximum in December and rains will end in early January, allowing the farmers to harvest from late January onwards.
-
-The paddy farmers prepare fields after first rains having softened the grounds, mostly with tractors. With increase in rains, fields become muddy and are prepared for sowing of seed paddy generally in early November.
-
-...
-
-[Data](articles/a980aeaf.json)
-
-[Extended Data](ext_articles/a980aeaf.ext.json)
-
----
-
-### New regime and its representation problem
-
-*2024-11-27 05:57:48* · [`dailyftlk`](https://www.ft.lk/columns/New-regime-and-its-representation-problem/4-769735) · `en`
-
-The symbolic exclusion signalled by the missing Muslim at the highest level of governance is significant and no amount of patronising rhetoric about our collective Sri Lankanness is going to address this sense of exclusion
-
-The change that the new election has brought to the country is unprecedented. We have a woman Prime Minister (that many of us in the academic and activist communities know) and we have several young women in Parliament. Historically, since independence, we have only had 5% representation at any given moment. Now we have close to 10%. And that too through elections and only one through the national list.
-
-...
-
-[Data](articles/291ced4c.json)
-
-[Extended Data](ext_articles/291ced4c.ext.json)
-
----
-
-### Entrepreneurship in the 21st century
-
-*2024-11-27 05:52:56* · [`dailyftlk`](https://www.ft.lk/columns/Entrepreneurship-in-the-21st-century/4-769733) · `en`
-
-Last week marked Global Entrepreneurship Week; with our world on the brink of catastrophe in so many respects – conflict, climate, inequality – we have never needed the involvement of youth in defining entrepreneurial solutions to these problems, more than now. I was privileged to join the NIBM School of Business in exploring what entrepreneurship looks like from a practitioner’s perspective.
-
-The good news is that everyone wants to be an entrepreneur. Less good is the reality that few know how. Most have gone through the motions – marketing, business administration, new media, and their social media dramatically quotes great entrepreneurs. One explains, ‘anything is possible’, another, ‘make the climb without the rope,’ and ‘let’s punch today in the face.’
-
-...
-
-[Data](articles/24e955f1.json)
-
-[Extended Data](ext_articles/24e955f1.ext.json)
-
----
-
-### Unveiling the silent stakeholder: Call for farm animal welfare in sustainability reporting
-
-*2024-11-27 05:44:21* · [`dailyftlk`](https://www.ft.lk/columns/Unveiling-the-silent-stakeholder-Call-for-farm-animal-welfare-in-sustainability-reporting/4-769732) · `en`
-
-By recognising farm animals as silent stakeholders in their value chains, companies can drive meaningful change that resonates with societal values and global standards
-
-A ground-breaking study by researchers Saviesha Samaraweera and Isuru Manawadu from the University of Sri Jayewardenepura sheds light on an overlooked dimension of corporate responsibility in Sri Lanka
-
-...
-
-[Data](articles/c564a1c0.json)
-
-[Extended Data](ext_articles/c564a1c0.ext.json)
-
----
-
-### Sri Lanka budget 2025 on February 17
-
-*2024-11-27 05:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-2025-on-february-17-190188/) · `en`
-
-ECONOMYNEXT – Sri Lanka will present a budget for 2025 on February 17, in line with the mandate of the administration and its development plans, cabinet spokesman and media minister Nalinda Jayatissa said.
-
-The Appropriation Bill with allocations will be released on January 09.
-
-A call will go to all ministries to submit their proposals during the first two weeks of December 2024 he said.
-
-The budget will be debated during February 27 and March 21, Minister Jayatissa said.
-
-Sri Lanka will present a four month vote-on-account which will debated from December 05 and 06 in parliament, to last until the budget is passed, he said. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/6114ad0b.json)
-
-[Extended Data](ext_articles/6114ad0b.ext.json)
-
----
-
-### Cabinet nod to present Interim Budget for first four months  of 2025
-
-*2024-11-27 05:37:19* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-present-Interim-Budget-for-first-four-months-of-2025/34-769731) · `en`
-
-The Cabinet of Ministers on Monday approved the formulation of an Interim Budget to cover the Government’s expenses during the first four months of 2025.
-
-It will focus on relevant expenses for Government recurrent and capital expenses, public debt servicing, and loan restructuring.
-
-The move comes as the new Parliament which convened on 21 November lacked sufficient time to complete the constitutional steps required for passing the full Appropriation Bill for 2025.
-
-Therefore, as stipulated in sub-section 23(1) of the Public Finance Management Act No 44 of 2024, an interim Budget should be submitted to Parliament to allocate provisions for the continuation of currently implemented projects and public services for the first 4 months of 2025.
-
-The proposal to this effect presented by the President Anura Kumara Dissanayake in his capacity as Finance, Planning and Economic Development Minister was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/749e1665.json)
-
-[Extended Data](ext_articles/749e1665.ext.json)
-
----
-
-### Singapore’s BB Energy gets 6-month diesel supply contract
-
-*2024-11-27 05:36:39* · [`dailyftlk`](https://www.ft.lk/business/Singapore-s-BB-Energy-gets-6-month-diesel-supply-contract/34-769730) · `en`
-
-The Cabinet of Ministers on Monday approved awarding contract to supply diesel for six months starting 15 December 2024, to Singapore’s BB Energy (Asia) Ltd., following competitive bids.
-
-The Government said the move follows bids called from registered suppliers of Ceylon Petroleum Corporation (CPC).
-
-It said bids called from the registered suppliers of CPC for the long-term contract to import four shipments of diesel (0.05% M/S) for a period of six months from 15 December 2024 to 14 June 2025.
-
-It added that out of six bidders, BB Energy (Asia) Ltd., was selected to award the contract based on the recommendations of a Special Standing Procurement Committee appointed by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/6e0fc361.json)
-
-[Extended Data](ext_articles/6e0fc361.ext.json)
-
----
-
-### Ceylon Chamber welcomes staff-level agreement for 3rd review of IMF program
-
-*2024-11-27 05:35:48* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-welcomes-staff-level-agreement-for-3rd-review-of-IMF-program/34-769729) · `en`
-
-The Ceylon Chamber of Commerce yesterday welcomed the announcement of a staff-level agreement for the third review under the International Monetary Fund (IMF) Extended Fund Facility program for Sri Lanka.
-
-“This agreement underscores the progress the country has made in implementing structural reforms and achieving fiscal sustainability during this critical period of economic recovery. While acknowledging the progress made, it is important to continue the reform momentum and build on the progress made while unlocking key constraints that bind long term sustainable growth,” the Chamber said in a statement.
-
-“The Chamber looks forward to the Government meeting the requirement for disbursement by the Board of the IMF,” It added
-
-◼️
-
-[Data](articles/b4a1a599.json)
-
-[Extended Data](ext_articles/b4a1a599.ext.json)
-
----
-
-### Public confidence in major institutions increases after Presidential poll: Survey
-
-*2024-11-27 05:35:14* · [`dailyftlk`](https://www.ft.lk/business/Public-confidence-in-major-institutions-increases-after-Presidential-poll-Survey/34-769728) · `en`
-
-Polling by the Institute for Health Policy’s Sri Lanka Opinion Tracker Survey (SLOTS) has revealed significant improvements in Sri Lankans’ confidence in institutions following the Presidential Election in September 2024.
-
-IHP said the Supreme Court remains the most trusted institution, followed by the courts and tri forces.
-
-Confidence in the Supreme Court and courts more than doubled, rising from 30% before the election to 72% and 62%, respectively, afterward.
-
-Similarly, confidence in trade unions and parliament showed positive shifts following the Presidential Election. However, confidence in the Police remained relatively unchanged, with 32% expressing little or no confidence, IHP said.
-
-◼️
-
-[Data](articles/d1229309.json)
-
-[Extended Data](ext_articles/d1229309.ext.json)
-
----
-
-### Bus owner arrested and route permit revoked following passenger assault
-
-*2024-11-27 05:34:20* · [`dailyftlk`](https://www.ft.lk/news/Bus-owner-arrested-and-route-permit-revoked-following-passenger-assault/56-769727) · `en`
-
-Moratuwa Police have arrested a bus owner along with three others over the assault of a passenger on 24 November. In response to the incident, the Western Province Road Passenger Authority has also cancelled the route permit of the bus as well as the permits of the driver and conductor involved.
-
-The assault had occurred on the evening of 24 November, involving the victim, Chesika Gunarathne, who was travelling on bus ND 3993 operating on Route 255 between Kottawa and Mount Lavinia.
-
-According to Gunarathne’s police complaint, the issue began when the bus halted at the Piliyandala bus stop for over 30 minutes to collect passengers. When frustrated passengers protested the delay, the conductor had allegedly responded with verbal abuse.
-
-...
-
-[Data](articles/f7082487.json)
-
-[Extended Data](ext_articles/f7082487.ext.json)
-
----
-
-### Cabinet approved Rs. 219.37 b supplementary estimate  for remaining 2024 expenses
-
-*2024-11-27 05:34:00* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approved-Rs-219-37-b-supplementary-estimate-for-remaining-2024-expenses/56-769726) · `en`
-
-The Cabinet of Ministers at its meeting on Monday approved a supplementary estimate of Rs. 219,373 million to be presented to Parliament to cover essential expenditures and manage the remaining financial obligations for 2024.
-
-“The supplementary estimate allows for adjustments within the approved expenditure framework, ensuring that overall expenditure limits and the maximum Government debt ceiling are not exceeded,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said.
-
-Speaking at the weekly post-Cabinet meeting media briefing, he said this resolution will now proceed to Parliament for approval enabling the Government to allocate the necessary resources for identified functions during the remaining period of the fiscal year, which include;
-
-...
-
-[Data](articles/569f5f2f.json)
-
-[Extended Data](ext_articles/569f5f2f.ext.json)
-
----
-
-### A pedestrian and vehicles move along a flooded street in Colombo
-
-*2024-11-27 05:33:34* · [`dailyftlk`](https://www.ft.lk/news/A-pedestrian-and-vehicles-move-along-a-flooded-street-in-Colombo/56-769725) · `en`
-
-A pedestrian and vehicles move along a flooded street in Colombo, Sri Lanka yesterday. Heavy rains were experienced across the island due the deep depression which is expected to develop in to a cyclonic storm. Some 77, 000 people have been affected by rain in country
-
-◼️
-
-[Data](articles/738bfe59.json)
-
----
-
-### Fitch puts Adani firms on rating watch on governance, Sri Lanka reviews deals
-
-*2024-11-27 05:26:00* · [`economynextcom`](https://economynext.com/fitch-puts-adani-firms-on-rating-watch-on-governance-sri-lanka-reviews-deals-190126/) · `en`
-
-ECONOMYNEXT – Several Adani group firms have been put on negative rating watch by Fitch as Sri Lanka said it has called for reports on the group’s projects in the country following bribery charges being filed in the US linked to a solar project in India.
-
-Adani Ports and Special Economic Zone Limited’s (APSEZ), which is involved in a port terminal in Sri Lanka has been put on rating watch negative along with bond sold by North Queensland Export Terminal Pty Ltd and Mumbai International Airport Limited.
-
-The outlooks of two special purpose vehicles linked to Adani Green Energy Limited, which has been awarded a wind power project without tender in Sri Lanka has been cut to negative.
-
-“While the US indictment mainly involves AGEL’s key leadership, the proceedings and the outcome could reflect significantly weaker corporate governance practices of the group and can lead to further negative rating actions,” Fitch Ratings said.
-
-...
-
-[Data](articles/73ece48c.json)
-
----
-
-### Karma & Grace: Religious Difference In Millennial Sri Lanka
-
-*2024-11-27 05:23:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/karma-grace-religious-difference-in-millennial-sri-lanka/) · `en`
-
-...
-
-[Data](articles/5f2ec27a.json)
-
----
-
-### One dead, over 70,000 affected due to heavy rains
-
-*2024-11-27 05:22:55* · [`dailyftlk`](https://www.ft.lk/news/One-dead-over-70-000-affected-due-to-heavy-rains/56-769720) · `en`
-
-Due to the heavy rainfall across the country, 77,670 persons belonging to 22,532 families have been affected, with one death reported, the Disaster Management Centre (DMC) said yesterday.
-
-DMC Media and Public Relations Assistant Director Janaka Handunpathiraja, stated that these individuals and families have been impacted in 103 Divisional Secretariat Divisions across 15 Districts.
-
-Five injuries have been reported. Six houses were completely damaged and 265 houses partially damaged.
-
-As a result of the disaster 2,770 persons from 821 families have been relocated to 35 safe locations, he added.
-
-◼️
-
-[Data](articles/fa336e99.json)
-
----
-
-### President to make first official visit to India in December
-
-*2024-11-27 04:08:01* · [`dailyftlk`](https://www.ft.lk/news/President-to-make-first-official-visit-to-India-in-December/56-769719) · `en`
-
-President Anura Kumara Dissanayake will undertake his inaugural overseas visit to India in the third week of December, following an invitation from the Indian Government.
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa confirmed the visit during the post-Cabinet meeting media briefing held yesterday.
-
-“The dates are not yet fixed, but it will be in the last week of December,” he added.
-
-The Cabinet Spokesman also disclosed that the Chinese Embassy in Sri Lanka has also invited President to visit China. However, details regarding timeline for this visit have yet be finalised, he said.
-
-◼️
-
-[Data](articles/e74c8ca6.json)
-
-[Extended Data](ext_articles/e74c8ca6.ext.json)
 
 ---

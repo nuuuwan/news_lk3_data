@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 12:02:13**
+As of **2024-11-27 12:17:53**
 
 ## Newspaper Stats
 
-*Scraped **57,181** Articles*
+*Scraped **57,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 595
 islandlk | 3,431
-economynextcom | 3,470
+economynextcom | 3,471
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,390
+adalk | 5,391
 adaderanalk | 6,923
-tamilmirrorlk | 8,126
+tamilmirrorlk | 8,129
 virakesarilk | 9,316
 adaderanasinhalalk | 9,874
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,148 (99.9%) of 57,181 articles have been extended.
+57,148 (99.9%) of 57,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### மத்ரஸா மாணவர்கள் இருவரின் சடலங்கள் மீட்பு
+
+*2024-11-27 12:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்ரஸா-மாணவர்கள்-இருவரின்-சடலங்கள்-மீட்பு/175-347856) · `ta`
+
+வெள்ள நீரில் அடித்துச் செல்லப்பட்ட மத்ரஸா மாணவர்களை தேடும் பணி மேற்கொள்ளப்பட்டு வரும் நிலையில் இருவரின் சடலங்கள் மீட்கப்பட்டுள்ளதாக தெரியவந்துள்ளது.
+
+இத்தேடுதலில் மேலதிகமாக இராணுவம் விசேட அதிரடிப்படை பங்கேற்றுள்ளதுடன் வெள்ளத்தினால் அடித்து செல்லப்பட்ட உழவு இயந்திரமும் மீட்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dc5e7056.json)
+
+---
+
+### ஏ-9 வீதி முடக்கியது
+
+*2024-11-27 11:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதி-முடக்கியது/175-347854) · `ta`
+
+வவுனியா,  நொச்சிமோட்டை  மற்றும் சாந்தசோலை ஆகிய பகுதிகளில் ஏ-9 பிரதான வீதியின் ஊடாக அதிகளவான வெள்ள நீர் வழிந்தோடுவதனால் கனரக வாகனங்கள் தவிர்ந்த ஏனைய வாகனங்கள்  போக்குவரத்தினை மேற்கொள்ள முடியாமல் வீதியோரம் நிற்பதை அவதானிக்க கூடியதாக இருந்தது.
+
+◼️
+
+[Data](articles/ce11fdec.json)
+
+---
+
+### அர்ஜுன அலோசியஸ் மீது புதிய வழக்கு
+
+*2024-11-27 11:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜுன-அலோசியஸ்-மீது-புதிய-வழக்கு/175-347853) · `ta`
+
+வரி ஏய்ப்பு குற்றச்சாட்டில் 6 மாத சிறைத்தண்டனையை அனுபவித்து வரும் டபிள்யூ.எம்.மென்டிஸ் அண்ட் கம்பெனியின் பணிப்பாளர் அர்ஜுன அலோசியஸ், செய்தித்தாள் அச்சிடுவதற்கு காகிதத்தை வாங்கி 12 மில்லியன் ரூபாய் மோசடி செய்ததாக கொழும்பு நீதவான் நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
+
+செய்தித்தாள்களை அச்சிடுவதற்கான காகிதத்தை இறக்குமதி செய்து விநியோகம் செய்து வரும் நெப்டியூன் பேப்பர்ஸ் பிரைவேட் லிமிடெட் தாக்கல் செய்த இந்த வழக்கில் அர்ஜுன அலோசியஸ் மற்றும் சமிந்த சஹான் ஆகியோர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/785732e0.json)
+
+---
 
 ### මෙම ප්‍රදේශවලින් වහාම ඉවත් වෙන්න - පොලීසියෙන් දැනුම්දීමක්
 
@@ -103,6 +143,40 @@ Sri Lanka Police has established a special hotline, ‘107’, dedicated for Tam
 ◼️
 
 [Data](articles/a7b98f79.json)
+
+---
+
+### ඒ- 9 මාර්ගය ඕමන්තේ ප්‍රදේශයෙන් ජලයෙන් යට වෙයි
+
+*2024-11-27 11:12:17* · [`adalk`](https://www.ada.lk/breaking_news/ඒ--9-මාර්ගය-ඕමන්තේ-ප්‍රදේශයෙන්-ජලයෙන්-යට-වෙයි/11-413304) · `si`
+
+පවතින අයහපත් කාලගුණයත් සමග යාපනය ඒ -9 මාර්ගය ඕමන්තේ ප්‍රදේශයෙන් ජයලයෙන් යට වී තිබේ.
+
+ඒ අනුව එම මාර්ගය භාවිතා කරන රියදුරන්ට විකල්ප මාර්ග භාවිතා කරන ලෙස දැනුම් දෙන බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4419e5ea.json)
+
+---
+
+### Sri Lanka bonds yield fall fall, rupee at 291.15/20 to dollar
+
+*2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-yield-fall-fall-rupee-at-291-15-20-to-dollar-190205/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading more or less flat at 291.15/20 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields plummeted after the central bank’s monetary policy announcement.
+
+A bond maturing on 15.12.2027 was quoted at 10.42/48 percent, down from 10.85/90 percent.
+
+A bond maturing on 15.03.2028 was quoted at 10.50/60 percent, down from 11.07/15 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, down from 11.35/50 percent.
+
+In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 12,961. The more liquid S&P SL20 was down 0.04 percent, or 1.70 points, at 3,842.
+
+◼️
+
+[Data](articles/563b9349.json)
 
 ---
 
@@ -2075,127 +2149,5 @@ Accordingly, three flights from Narita, Dubai and Chennai have been diverted to 
 [Data](articles/8e0e6ba9.json)
 
 [Extended Data](ext_articles/8e0e6ba9.ext.json)
-
----
-
-### Request to the governor to redeem his children
-
-*2024-11-26 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199784) · `ta`
-
-Governor Na Vedanayanan meets parents over alleged youth recruitment. He contacts Foreign Ministry Secretary, sending parents there for further action.
-
-🟩
-
-The Governor of the Northern Province, Na Vedanayanan, lodged a complaint with their parents on Tuesday morning (26) in connection with the alleged recruitment of five youths from the Northern Province.
-
-Parents of youth from Jaffna, Karavetti and Mulliyawalai met with the Governor at the Governor's Secretariat on Tuesday morning (26).
-
-The Governor, who listened to the parents' request, immediately telephoned the Secretary of the Ministry of Foreign Affairs and informed the matter.. Parents have been sent to the Foreign Ministry.
-
-◼️
-
-[Data](articles/1efce6cb.json)
-
-[Extended Data](ext_articles/1efce6cb.ext.json)
-
----
-
-### Sri Lanka to announce single overnight policy rate from Nov 27
-
-*2024-11-26 21:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-single-overnight-policy-rate-from-nov-27-190053/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank will announce a single overnight policy rate from November 27, instead of the current policy corridor involving standing deposit facilities, the monetary authority said.
-
-The standing lending and deposit facilities, will remain as a margin to the announced overnight policy rate.
-
-The central bank will continue to target an average call money rate with liquidity operations.
-
-Critics have warned that the denial monetary stability, especially from 2015, which led to serial currency crises, borrowing to repay debt, borrowings by the Ceylon Petroleum for current transactions, was a consequence of excess money printed to target a mid-corridor rate (a de facto single policy rate).
-
-Sri Lanka has been running broadly deflationary policy from around September 2022, withdrawing liquidity through outright transactions, but concerns have been raised at initial inflationary policy through its overnight and term operations.
-
-...
-
-[Data](articles/279fecb7.json)
-
-[Extended Data](ext_articles/279fecb7.ext.json)
-
----
-
-### 48 thousand 295 people are affected by heavy rains in Mannar district -Government Agent K. Kanakeswaran
-
-*2024-11-26 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199783) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-48,295 people affected by heavy rains in Mannar district. 2,049 housed in 22 security centers. Floods destroy 9,779 acres of land. Water level at Kattakkarai pond reaches 11 feet. Government provides food assistance.
-
-🟩
-
-Mannar District Government Agent K. Kanageswaran said that 48 thousand 295 persons have been affected by heavy rains in Mannar district and 2049 persons have been housed in 22 security centers.
-
-He was speaking at a media briefing held at the Mannar District Secretariat on Tuesday evening.
-
-Due to heavy rains in the Mannar district for the past four days, the low -lying situation in the Bay of Bengal has been further strengthened.
-
-According to the current situation, 48 thousand 295 persons belonging to 13 thousand 860 families in Mannar district have been affected by the floods. In the Mannar district, Mannar, Madhu, Manthai West and Nanattan Divisional Secretariat Divisions have been affected by the floods.
-
-According to the 22 security centers set up in the district, 2049 persons from 589 families have been housed and the steps are being taken to provide them with cooked food.
-
-...
-
-[Data](articles/3fd1286a.json)
-
-[Extended Data](ext_articles/3fd1286a.ext.json)
-
----
-
-### Eight including 6 children missing after tractor swept away by floods
-
-*2024-11-26 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103793/seven-including-5-children-missing-after-tractor-swept-away-by-floods) · `en`
-
-At least eight persons including 06 children are reported missing while two children have been rescued after the tractor they were travelling on was caught in flood waters in Karaitivu in Ampara District this evening (26).
-
-Police said that a total of 13 individuals including 11 boys, the tractor’s driver and assistant were traveling on the vehicle at the time of the incident and that 05 children had been rescued.
-
-The tractor was traveling from Ninthavur to Sammanthurai when it had toppled due to strong currents in the flood waters.
-
-The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
-
-The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
-
-A search operation has been launched to locate the missing persons by police personnel and areas residents.
-
-◼️
-
-[Data](articles/18407ad5.json)
-
-[Extended Data](ext_articles/18407ad5.ext.json)
-
----
-
-### Eight including 6 children missing after tractor swept away by floods
-
-*2024-11-26 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103793/eight-including-6-children-missing-after-tractor-swept-away-by-floods) · `en`
-
-At least eight persons including 06 children are reported missing while two children have been rescued after the tractor they were travelling on was caught in flood waters in Karaitivu in Ampara District this evening (26).
-
-Police said that a total of 13 individuals including 11 boys, the tractor’s driver and assistant were traveling on the vehicle at the time of the incident and that 05 children had been rescued.
-
-The tractor was traveling from Ninthavur to Sammanthurai when it had toppled due to strong currents in the flood waters.
-
-The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
-
-The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
-
-A search operation has been launched to locate the missing persons by police personnel and areas residents.
-
-◼️
-
-[Data](articles/7f55fb5f.json)
-
-[Extended Data](ext_articles/7f55fb5f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 05:25:51**
+As of **2024-11-27 05:50:39**
 
 ## Newspaper Stats
 
-*Scraped **57,098** Articles*
+*Scraped **57,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 438
 colombotelegraphcom | 579
 bbccomsinhala | 594
-islandlk | 3,424
+islandlk | 3,431
 economynextcom | 3,463
 dailyftlk | 3,918
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,098 (100.0%) of 57,098 articles have been extended.
+57,098 (100.0%) of 57,105 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -763,6 +763,66 @@ Students studying at the Nindowur Madrasara School are facing the accident near 
 [Data](articles/cc759f5f.json)
 
 [Extended Data](ext_articles/cc759f5f.ext.json)
+
+---
+
+### GSP+: Can it drive inclusive growth in Sri Lanka?
+
+*2024-11-26 20:51:00* · [`islandlk`](http://island.lk/gsp-can-it-drive-inclusive-growth-in-sri-lanka/) · `en`
+
+In a mid-October 2024 meeting with the European Union (EU) Ambassador, Sri Lanka reaffirmed its commitment to strengthening trade relations with the EU, particularly highlighting the role of the GSP+ programme in boosting Sri Lankan exports. This discussion underscores the significance of the GSP+, which offers tariff preferences for Sri Lanka’s exports to the EU. The GSP+ offers reduced tariffs on exports, conditional upon the recipient countries implementing 27 international conventions. These conventions include standards on labour and human rights, environmental sustainability, and good governance. Sri Lanka’s major exports to the EU, such as wearing apparel, employ low and medium-skilled, and female workers, as well as estate and rural sector workers, directing benefits of GSP+ to vulnerable communities.
+
+...
+
+[Data](articles/2887b26a.json)
+
+---
+
+### Chathuri Munaweera, CEO of AIA Sri Lanka, wins Geneva Association Women in Insurance Award
+
+*2024-11-26 20:49:00* · [`islandlk`](http://island.lk/chathuri-munaweera-ceo-of-aia-sri-lanka-wins-geneva-association-women-in-insurance-award/) · `en`
+
+The Geneva Association announces the winner of its 2024 Women in Insurance Award: Chathuri Munaweera, CEO of AIA Sri Lanka.
+
+The award selection committee – comprised of Pauline Leclerc-Glorieux, CEO, BNP Paribas Cardif; Lee Yuan Siong, Group Chief Executive and President, AIA; and Charles F. Lowrey, Chairman & CEO, Prudential Financial – selected Chathuri Munaweera for her outstanding leadership of AIA’s Sri Lanka business, particularly through the unprecedented post-COVID economic crisis in Sri Lanka.
+
+...
+
+[Data](articles/ff20b344.json)
+
+---
+
+### LankaPay bags Best Public-Private Partnership Award at ASOCIO 2024 Awards in Japan
+
+*2024-11-26 20:48:00* · [`islandlk`](http://island.lk/lankapay-bags-best-public-private-partnership-award-at-asocio-2024-awards-in-japan/) · `en`
+
+LankaPay, Sri Lanka’s national payment network, was honoured with the Best Public-Private Partnership Award at the prestigious ASOCIO 2024 Awards, held on November 7, 2024. This was an important agenda item of the ASOCIO Digital Summit 2024 held in Tokyo, Japan. This recognition highlights the success of LankaPay’s unique business model and the importance of collaborating with both government and private sector entities to advance Sri Lanka’s digital financial ecosystem to drive the nation towards a digitally enabled economy.
+
+The ASOCIO Digital Summit 2024, organized by the Asian-Oceanian Computing Industry Organization (ASOCIO), is one of the most influential events in the Asia-Pacific region, bringing together thought leaders, industry experts and government officials to discuss the impact and the future of digital technology innovations.
+
+Chathuri Munaweera, CEO of AIA Sri Lanka, wins Geneva Association Women in Insurance Award
+
+...
+
+[Data](articles/97d689dd.json)
+
+---
+
+### Possible policy rate cut has energizing impact on shares
+
+*2024-11-26 20:45:00* · [`islandlk`](http://island.lk/possible-policy-rate-cut-has-energizing-impact-on-shares/) · `en`
+
+The CSE yesterday showed a positive performance for two major reasons. One was Cabinet approval for the exchange of new bonds for defaulted sovereign bonds and the second was the decision for policy rates to be cut, market analysts said.
+
+Deputy Minister of Economic Development Anil Jayantha said at the Cabinet meeting, that there was approval for the proposal on exchanging bonds, which was part of the external debt restructuring exercise and IMF recommendations.
+
+Further, market analysts also said that policy rates are likely to be cut at today’s Central Bank policy review meeting.
+
+Amid those developments both indices moved upwards. The All- Share Price Index went up by 118.6 points while the S and P SL20 rose by 67.4 points.
+
+...
+
+[Data](articles/8c96f8ac.json)
 
 ---
 
@@ -2405,105 +2465,5 @@ Two suspects were arrested and residents of age 41 and 37th Borella and Talawatu
 [Data](articles/c886535c.json)
 
 [Extended Data](ext_articles/c886535c.ext.json)
-
----
-
-### Sri Lanka urges all ISB holders to exchange bonds, hopeful on Hamilton
-
-*2024-11-26 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-urges-all-isb-holders-to-exchange-bonds-hopeful-on-hamilton-189959/) · `en`
-
-ECONOMYHNEXT – ri Lanka has urged all bondholders to take part in a bond exchange launched on November 26, with a deadline of December 12 where 12.55 billion in defaulted bonds are exchanged for new ones along with past due interest.
-
-“I urge private sector creditors to participate in the debt restructuring process to provide essential relief, thereby laying the groundwork for a brighter future for Sri Lanka and its people,” President Anura Dissanayake said in a statement.
-
-Hamilton Reserve, a holder of 25 percent of defaulted bonds which matured on 2022 had gone to court had gone to court seeking full payment.
-
-“A risk there but according to the legal advisors it can be mitigated,” Deputy Finance Minister Anil Jayantha Fernando told reporters.
-
-“According their advice we strongly believe we can come to an amicable solution.”
-
-There was a risk in continuing to litigate and Hamilton Reserve could also consider the trade-off involved.
-
-...
-
-[Data](articles/0f635bf7.json)
-
-[Extended Data](ext_articles/0f635bf7.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover Rs1.1bn
-
-*2024-11-26 15:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs1-1bn-189953/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader ASPI closed up 0.76 percent, or 97.38 points, at 12,964; while the more liquid S&P SL20 Index closed up 1.51 percent, or 57.48 points, at 3,852.
-
-Most of this came from banking (Rs383mn) and capital goods (Rs312mn) stocks.
-
-Top positive contributors to the ASPI were John Keells Holdings (up at 19.80), Hatton National Bank (up at 226.25), Commercial Bank (up at 121.50), Sampath Bank (up at 93.00), and Ceylon Tobacco (up at 1,259.50).
-
-◼️
-
-[Data](articles/fcb67f8d.json)
-
-[Extended Data](ext_articles/fcb67f8d.ext.json)
-
----
-
-### Live location on Instagram
-
-*2024-11-26 15:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/இன்ஸ்டாகிராமில்-லைவ்-லொகேஷன்/57-347803) · `ta`
-
-Instagram introduces live location sharing in DMs, lasting up to 60 minutes. Feature available in select countries. Cannot be forwarded. New sticker trends and name tags also added.
-
-🟩
-
-Meta has introduced users to share their live location on Instagram, just as in WhatsApp Messenger.
-
-Instagram is the photo and video share share of Meta company. Launched in 2010. Information that billions of active users are using the Instagram site worldwide today worldwide. It is customary to introduce new features from time to time for users' use experience on this site.
-
-In that way, it is now being introduced in the sharing feature of Live Lockery. With this, Instagram users can share their location through direct messages. This live location will be activated for a maximum of 60 minutes. WhatsApp can be shared with a live location for up to 8 hours.
-
-This can be shared with one another, the group. Yet it cannot be forwarded to others. It has been reported that the Indicator related to this will be in the Chad box.
-
-This feature is now available for users in some countries, according to Meta. Insta users have also introduced their names in direct messages and 17 stickers trends.
-
-◼️
-
-[Data](articles/3e3efd32.json)
-
-[Extended Data](ext_articles/3e3efd32.ext.json)
-
----
-
-### Showers in several areas tomorrow
-
-*2024-11-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203760) · `si`
-
-Red alert: Heavy rainfall & strong winds expected in Northern, Eastern, Central, Uva & Southern Provinces. Isolated areas may receive over 500mm rainfall. Stay updated for further instructions.
-
-🟩
-
-The Department of Meteorology has issued a red announcement by the Meteorological Department informs that the island around the island.
-
-The press recession in the southwest Bay of Bay of Bay of Bay of Baying recession has increased to a deeper pressure recession.
-
-This system is located 170 km and 240 km away from Batticaloa and 240 km away from Batticaloa.Is.
-
-Due to the impact of this system, there are high rain and strong winds in the North, North Central, Eastern, Uva and Central provinces.
-
-There will be a rainy or thundershowers at times in the island.
-
-Heavy showers in the Puttalam, North-Central, Central, Uva and Southern provinces can also occur at more than 500 mm.
-
-Heavy rains can occur in the rest of the island.
-
-◼️
-
-[Data](articles/0e72a733.json)
-
-[Extended Data](ext_articles/0e72a733.ext.json)
 
 ---

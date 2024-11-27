@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 22:29:04**
+As of **2024-11-27 22:17:24**
 
 ## Newspaper Stats
 
-*Scraped **57,281** Articles*
+*Scraped **57,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,478
 dailyftlk | 3,939
 dailymirrorlk | 4,733
 adalk | 5,406
-adaderanalk | 6,935
+adaderanalk | 6,934
 tamilmirrorlk | 8,148
 virakesarilk | 9,335
 adaderanasinhalalk | 9,896
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,274 (100.0%) of 57,281 articles have been extended.
+57,274 (100.0%) of 57,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
-
-### New Secretaries appointed to Environment, Science and Technology Ministries
-
-*2024-11-27 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103821/new-secretaries-appointed-to-environment-science-and-technology-ministries) · `en`
-
-President Anura Kumara Dissanayake has appointed new Secretaries to two key ministries, according to the President’s Media Division (PMD).
-
-The relevant appointment letters were handed over today (27) by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
-
-As per the appointments, Mr. K.R. Uduwawala will serve as the Secretary to the Ministry of Environment, and Mr. Y.L. Mohamed Nawawi will take on the role of Secretary to the Ministry of Science and Technology.
-
-◼️
-
-[Data](articles/656928e4.json)
-
----
 
 ### නායයෑම් අනතුරු ඇඟවීම් යාවත්කාලීක කරයි
 
@@ -2541,5 +2525,19 @@ He said that Wickremesinghe set up and demands reports, he said, "It does not me
 [Data](articles/eb3bba17.json)
 
 [Extended Data](ext_articles/eb3bba17.ext.json)
+
+---
+
+### Special police hotline for Tamil-speaking people amid adverse weather
+
+*2024-11-27 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103806/special-police-hotline-for-tamil-speaking-people-amid-adverse-weather) · `en`
+
+Sri Lanka Police has established a special hotline, ‘107’, dedicated for Tamil-speaking individuals to report or seek assistance regarding the prevailing adverse weather conditions, according to Police Spokesman DIG Nihal Thalduwa.
+
+◼️
+
+[Data](articles/a7b98f79.json)
+
+[Extended Data](ext_articles/a7b98f79.ext.json)
 
 ---

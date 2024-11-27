@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 21:14:02**
+As of **2024-11-27 21:26:13**
 
 ## Newspaper Stats
 
-*Scraped **57,273** Articles*
+*Scraped **57,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,431
 economynextcom | 3,478
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,404
+adalk | 5,405
 adaderanalk | 6,934
 tamilmirrorlk | 8,148
 virakesarilk | 9,335
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,273 (100.0%) of 57,273 articles have been extended.
+57,273 (100.0%) of 57,274 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,20 @@ With heavy rainfall, a large tamarind tree near the house in the early hours of 
 [Data](articles/4ecabbec.json)
 
 [Extended Data](ext_articles/4ecabbec.ext.json)
+
+---
+
+### වික්ටෝරියාව වාන් දැමීම අරඹයි
+
+*2024-11-27 18:42:34* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාව-වාන්-දැමීම-අරඹයි/11-413321) · `si`
+
+කඳුකර ප්‍රදේශයට ඇදහැලෙන ධාරානිපාත වර්ෂාවත් සමඟ මෙරට පංච මහා ජලාශයන්ගෙන් ප්‍රධානතම ජලාශය වන වික්ටෝරියා ජලාශය වාන්දැමීම ආරම්භ කළ බව එම ජලාශයේ කාර්යභාර  ඉංජිනේරු වසන්ත ඇහැළපිටිය මහතා පවසයි.
+
+අද (27) සවස 05.00 පමණ වන විට ජලාශයේ වාන් දොරටු අටක් ස්වයංක්‍රීයව විවෘත වූ බව පැවසු ඒ මහතා ඉන් තත්පරයකට ජලය ඝන මීටර 500 ක් රන්දෙණිගල ජලාශයට මුදාහැරෙන බවද පැවසීය.
+
+◼️
+
+[Data](articles/b5e155cf.json)
 
 ---
 
@@ -2533,23 +2547,5 @@ According to the audit, the amount of income received by the project was reduced
 [Data](articles/fa3557e4.json)
 
 [Extended Data](ext_articles/fa3557e4.ext.json)
-
----
-
-### Over 207,000 people affected by bad weather across 17 districts
-
-*2024-11-27 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103805/over-207000-people-affected-by-bad-weather-across-17-districts) · `en`
-
-Inclement weather conditions have affected a total of 207,582 individuals from 59,629 families across 17 districts, according to the Disaster Management Centre (DMC).
-
-The DMC further said that the prevailing situation has resulted in two fatalities while seven persons are reported missing, and eight others have been left injured thus far.
-
-A total of 10,137 individuals from 3,102 families are currently being sheltered in 104 relief centers.
-
-◼️
-
-[Data](articles/deefdba8.json)
-
-[Extended Data](ext_articles/deefdba8.ext.json)
 
 ---

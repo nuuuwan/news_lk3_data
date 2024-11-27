@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 14:42:15**
+As of **2024-11-27 15:13:27**
 
 ## Newspaper Stats
 
-*Scraped **57,209** Articles*
+*Scraped **57,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,431
 economynextcom | 3,472
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,393
+adalk | 5,394
 adaderanalk | 6,927
-tamilmirrorlk | 8,137
+tamilmirrorlk | 8,138
 virakesarilk | 9,320
 adaderanasinhalalk | 9,878
 
@@ -26,63 +26,113 @@ adaderanasinhalalk | 9,878
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,187 (100.0%) of 57,209 articles have been extended.
+57,194 (100.0%) of 57,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### உழவு இயந்திரம் மீட்பு:   நால்வர் மாயம்
+### Red hazard alert to several areas
+
+*2024-11-27 14:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-சிவப்பு-அபாய-எச்சரிக்கை/175-347869) · `ta`
+
+Heavy rainfall triggers landslide warnings across three districts. Red alerts issued for multiple areas including Kandy. Authorities urge immediate evacuation. Coordination between Disaster Management Center, police, military, and regional offices underway.
+
+🟩
+
+Police Media Spokesperson DIG Nihal Talduwa said on Wednesday that a landslide warning has been issued to many parts of the three districts due to heavy rains.
+
+He also said that red notices have been issued and the people of the area have been immediately announced to leave the places.
+
+Accordingly, in the Kandy district, the red warning has been issued to Harispattu, Medathumbara, Gangadha Koralaya, Ududumbara, Yattinuwara, Pad Hewahada, Teltottai, Padatumbara, Vilgamuwa, Ambagamuwa, Ambagamuwa, Korala, Ratottai, Naula.
+
+The police media spokesman said that it was important to leave the area as soon as the people of the area were to leave the areas and the authorities of the Disaster Management Center, the police, the military and the regional offices were coordinated.
+
+◼️
+
+[Data](articles/c0bb4ea7.json)
+
+[Extended Data](ext_articles/c0bb4ea7.ext.json)
+
+---
+
+### Plowing Machine Recovery: Four Magic
 
 *2024-11-27 14:30:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/உழவு-இயந்திரம்-மீட்பு-நால்வர்-மாயம்/74-347866) · `ta`
 
-அம்பாறை மாவட்டத்தில் நிலவிய சீரற்ற காலநிலையால் ஏற்பட்ட பெருவெள்ளத்தில் சிக்கி உயிரிழந்த இரு மாணவர்களின் சடலங்கள் இதுவரை மீட்கப்பட்டுள்ளன. சடலங்கள்  சம்மாந்துறை ஆதார வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளன.
+Flood recovery efforts ongoing in Ampara district. Two student bodies found, four missing. Heavy machinery used to recover plowing machine and motorcycles. Local officials present at scene. Search continues for remaining victims.
 
-இப் பேரனர்த்தத்திற்கு காரணமான உழவு இயந்திரம் மற்றும் அதன் பெட்டி கனரக இயந்திரம் மூலம் வெள்ளத்தில் இருந்து மீட்கப்பட்டன.  இரண்டு மோட்டார் சைக்கிள்களும் மீட்கப்பட்டுள்ளன.
+🟩
 
-சம்பவம் இடம்பெற்ற காரைதீவுக்கு அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர் அஷ்ரப் தாஹிர்,அம்பாறை மாவட்ட அரசாங்க அதிபர் சிந்தக அபேவிக்ரம, மேலதிக அரசாங்க அதிபர் சிவ.ஜெகராஜன், காரைதீவு பிரதேச செயலாளர் ஜி.அருணன், சம்மாந்துறை பிரதேச செயலாளர் எஸ்.எல்.எம்.ஹனிபா ஆகியோர் உள்ளிட்ட உயரதிகாரிகள் சமூகமளித்திருந்தனர்.
+The bodies of two students who were trapped in a flood caused by inclement weather in Ampara district have been recovered so far.. The bodies have been sent to the Samanthurai Resource Hospital.
 
-எனினும்  இதுவரை ( பகல் ஒரு மணி வரை) இரண்டு சடலங்களே மீட்கப்பட்டுள்ளன. மேலும் நால்வர் இன்னமும் மாயமாகியுள்ளனர். தேடுதல் தொடர்கிறது.
+The plowing machine and its box were recovered from the flood by heavy machinery.  இரண்டு மோட்டார் சைக்கிள்களும் மீட்கப்பட்டுள்ளன.
 
-காரைதீவு மாவடிப்பள்ளி பிரதான வீதியில் ஏற்பட்ட பெரு வெள்ளத்தில் சிக்கிய எட்டு மதரசா மாணவர்கள் உட்பட 11 பேர் வெள்ளத்தில் செவ்வாய்க்கிழமை அள்ளுண்டமை தெரிந்ததே.
+Ampara District Parliamentarian Ashraf Tahir, Ampara District Government Agent Sindaka Abeywickrama, Additional Government Agent Shiv Jegarajan, Karadivu Divisional Secretary G. Arunan and Samanthurai Divisional Secretary SLM Haniba were present.
+
+However, so far (up to one hour of day) have been recovered by two bodies. And four are still magical. The search continues.
+
+Eleven people, including eight madrasa students, who were caught in the floods on the main road of Karadivu, were reportedly in the floods on Tuesday.
 
 ◼️
 
 [Data](articles/ccad74be.json)
 
+[Extended Data](ext_articles/ccad74be.ext.json)
+
 ---
 
-### இரண்டு அஞ்சல் ரயில்களும் இரத்து
+### Both postal trains cancel
 
 *2024-11-27 14:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரண்டு-அஞ்சல்-ரயில்களும்-இரத்து/76-347865) · `ta`
 
-மலையக ரயில் தண்டவாளங்களில் மண்சரிவு ஏற்பட்டுள்ளதால், புதன்கிழமை  (27) இயக்கப்படவிருந்த கொழும்பு - கோட்டை - பதுளை மற்றும் பதுளை - கொழும்பு ஆகிய இரண்டு இரவு நேர அஞ்சல் ரயில்களும் ரத்து செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. இந்த இரண்டு அஞ்சல் ரயில்களும் நேற்றும் (26)  ரத்து செய்யப்பட்டன.
+Postal trains canceled due to landslides on hill railway tracks. Colombo-Fort, Badulla, and Colombo-Badulla routes affected. Train from Colombo Fort to Nanuoya limited for second day.
 
-இதேவேளை, கொழும்பு கோட்டையிலிருந்து நானுஓயா வரையான   புகையிரத பாதையில் இயங்கும் புகையிரதம் இரண்டாவது நாளாக இன்றும் மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+The Railway Department said that the Colombo -Fort, Badulla and Badulla -Colombo -Colombo -Colombo day postal trains have been canceled due to landslides on the hill railway tracks on Wednesday (27).. The two postal trains were canceled yesterday (26).
+
+Meanwhile, the Railway Department said that the train from Colombo Fort to Nanuoya has been limited for the second day.
 
 ◼️
 
 [Data](articles/63f52cae.json)
 
+[Extended Data](ext_articles/63f52cae.ext.json)
+
 ---
 
-### முன்பள்ளிகளுக்கு பூட்டு
+### Lock for pre -schools
 
 *2024-11-27 14:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளிகளுக்கு-பூட்டு/175-347864) · `ta`
 
-வடமத்திய மாகாணத்தில் பதிவு செய்யப்பட்ட 1,480 முன்பள்ளிகளை புதன்கிழமை (27)  முதல் மறு அறிவித்தல் வரை மூடுவதற்கு தீர்மானித்துள்ளதாக மாகாண ஆரம்பக் குழந்தைப் பருவ அதிகார சபையின் முகாமைத்துவப் பணிப்பாளர்  நிலந்த ஏகநாயக்க தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-வடமத்திய மாகாண ஆளுநர் வசந்த ஜினதாசவின் பணிப்புரைக்கு அமைய வடமத்திய மாகாணத்தில் உள்ள 94 முஸ்லிம் மற்றும் தமிழ் பாடசாலைகள் இம்மாதம் 27ஆம் திகதி முதல் 29ஆம் திகதி வரை மூடப்படும் என மாகாண கல்வி அமைச்சின் செயலாளர்  சிறிமேவன் தர்மசேன தெரிவித்துள்ளார். மோசமான வானிலை காரணமாக இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+
+"Pre-schools in North Central Province closed due to bad weather. 1,480 schools shut until 27th. 94 Muslim/Tamil schools closed 27-29th."
+
+🟩
+
+The Managing Director of the Provincial Primary Children's Authority Nilantha Ekanayake said that 1,480 pre -schools registered in the North Central Province have been closed until Wednesday (27).
+
+94 Muslim and Tamil schools in the North Central Province will be closed from the 27th to the 29th of this month, according to the Governor of the North Central Province Vasantha Jinadasa.. This decision has been made due to bad weather.
 
 ◼️
 
 [Data](articles/9ae6a3df.json)
+
+[Extended Data](ext_articles/9ae6a3df.ext.json)
 
 ---
 
 ### The ceasefire came into effect - thousands of Lebanon people return to South Lebanon
 
 *2024-11-27 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199835) · `ta`
+
+Ceasefire implemented; thousands return to South Lebanon. Heavy traffic reported. Public shows support for Hezbollah. Officials warn against immediate return due to safety concerns.
+
+🟩
 
 Thousands of Lebanon people have returned to their areas in Southlepanon following the implementation of the ceasefire agreement between Israel and the Hesbullah organization.
 
@@ -97,6 +147,28 @@ Israeli Lebanon officials have warned that some people show their hands as a vic
 [Data](articles/2c849aff.json)
 
 [Extended Data](ext_articles/2c849aff.ext.json)
+
+---
+
+### Several Cabinet Ministers arrive at the CID
+
+*2024-11-27 14:01:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-කැබිනට්-අමාත්‍යවරුන්-කිහිප-දෙනෙක්-සි-අයි-ඩී-ය-හමුවට-පැමිණෙයි/11-413307) · `si`
+
+Cabinet Ministers visit CID over substandard issues. Former ministers Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka, and Nasir Ahmed present.
+
+🟩
+
+Several Cabinet Ministers have appeared in the face of the Criminal Investigation Department today (27) regarding the subject of substandard.
+
+Former ministers were summoned to the CID to address the Cabinet Ministers who were granted to the approval of the cabinet ministers.
+
+Former ministers of Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka and Nasir Ahmed have come to the Department of Criminal Investigations.
+
+◼️
+
+[Data](articles/1257c9db.json)
+
+[Extended Data](ext_articles/1257c9db.ext.json)
 
 ---
 
@@ -146,41 +218,63 @@ Due to the inclement weather in the Kilinochchi district, flood water has been f
 
 ---
 
-### விமானத்திலேயே பெண்ணின் கைப்பையை திருடிய கணக்காளர் கைது
+### Accountant arrested for stealing a woman's handbag on the plane
 
 *2024-11-27 13:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானத்திலேயே-பெண்ணின்-கைப்பையை-திருடிய-கணக்காளர்-கைது/175-347863) · `ta`
 
-இங்கிலாந்தின் லண்டனில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு செவ்வாய்க்கிழமை (26) மதியம் வந்து கொண்டிருந்த ஸ்ரீலங்கன் விமானத்தில் அலுவலக உதவியாளரின் கைப்பையை திருடிய கணக்காளர் ஒருவரை கட்டுநாயக்க விமான நிலைய பொலிஸார் கைது செய்துள்ளனர்.
+Accountant steals handbag on plane, arrested at Katunayake airport. Contains £2700, iPhones, Samsung phones. Suspect has Canadian-Sri Lankan dual citizenship.
 
-சிறி ஷ்யாமலி வீரசிங்க 55 வயதான அலுவலக உதவியாளர் ஆவார், அவர் தற்போது இங்கிலாந்தில் வசிக்கிறார்,   இங்கிலாந்து மற்றும் இலங்கையின் இரட்டைக் குடியுரிமையுடன் வசிக்கும் அந்த பெண், இலங்கையின் பன்னிப்பிட்டியவில் வசிக்கிறார்.
+🟩
 
-அவர் செவ்வாய்க்கிழமை (26) மதியம் 01.30 மணியளவில் இங்கிலாந்தின் லண்டனில் இருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-504 இல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+Katunayake airport police have arrested an accountant who stole an office assistant's handbag on a SriLankan flight from London, UK on Tuesday (26).
 
-அவளது கைப்பையில் 14 இலட்சத்து இருபத்து மூவாயிரத்து ஐந்நூறு ரூபாய் பெறுமதியான 2,700 ஸ்டெர்லிங் பவுண்ஸ், 02 புதிய   வகை கையடக்கத் தொலைபேசிகள் (ஐ போன்) மற்றும் 02 சாம்சுங் ரக கைத்தொலைபேசிகள் இருந்தன.
+Siri Shyamali Weerasinghe is a 55 -year -old office assistant, and she is currently living in the UK and the woman who lives with the dual citizenship of the UK and Sri Lanka and lives in Pannipitiya, Sri Lanka.
 
-விமானம் புறப்பட்ட சிறிது நேரத்தில், இந்த கைப் பை தொலைந்து போனதால், அந்த பெண் இலங்கை விமான போக்குவரத்து அதிகாரசபையிடம் புகார் செய்துள்ளார்.
+He arrived at the Katunayake airport on Tuesday (26) at 01.30 pm on Sri Lanka Airlines flight from London, England.
+
+Her handbag had 2,700 sterling pounds worth 14 lakhs twenty -three thousand five hundred rupees, 02 new handheld phones (i phone) and 02 Samsung cell phones.
+
+Shortly after the plane departed, the woman had lodged a complaint with the Sri Lanka Air Transport Authority as the hand was lost.
+
+The SriLankan Airlines Investigation Officers at Katunayake Airport have been informed that the aircraft's pilot has been informed of the airplane.
 
 ...
 
 [Data](articles/a9d60b58.json)
 
+[Extended Data](ext_articles/a9d60b58.ext.json)
+
 ---
 
-### கிழக்கு பல்கலைக்கழக விடுதிகள் மூடப்பட்டன
+### Eastern University Hotels closed
 
 *2024-11-27 13:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கிழக்கு-பல்கலைக்கழக-விடுதிகள்-மூடப்பட்டன/73-347862) · `ta`
 
-சீரற்ற காலநிலை காரணமாக கிழக்குப் பல்கலைக் கழகத்தின் விடுதிகள் புதன்கிழமை (27) முதல் அமுலுக்கு வரும் வகையில் மறு அறிவித்தல்வரை மூடப்பட்டு மாணவர்கள் தமது வீடுகளுக்கு அனுப்பட்டுள்ளதாக கிழக்குப் பல்கலைக் கழக பதிவாளர் அமரசிங்கம் பகிரதன் தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-மாணவர்களின் கற்றல் நடவடிக்கைகள் நிகழ்நிலை மூலம் நடைபெறுவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் அவர் கூறினார்.
 
-கடந்த சில தினங்களாக பெய்துவரும் அடைமழை காரணமாக மட்டக்களப்பு மாவட்டத்தில் வெள்ளப் பெருக்கு ஏற்பட்டுள்ளது. பல்கலைக்கழக வளாகம் மற்றும் மாணவர் விடுதியில் வெள்ளம் ஏற்பட்டுள்ளது. இதன் காரணமாக மாணவர்கள் வெளியேற்றப்பட்டு வீடுகளுக்கு அனுப்பப்பட்டுள்ளனர்.
 
-மாவட்டத்தில் ஏற்பட்ட வெள்ள அனர்த்தம் காரணமாக பிரதான வீதிகளில் வெள்ள நீர் மட்டம் உயர்ந்து போக்குவரத்து தடை ஏற்பட்டுள்ளது. இதன் காரணமாக கல்வி மற்றும் கல்விசாரா ஊழியர்கள் கடமைக்கு வருவதில் பாரிய சிரமங்களை எதிர்நோக்கியதுடன் பலர் கடமைக்கு சமூகமளிக்கவில்லை. இதனைக் கருத்திற்கொண்டு மாணவர்களை  வீட்டுகளுக்கு அனுப்பியதுடன் நிகழ்நிலை மூலம் கற்றல் செயற்பாடுகளை முன்னெடுக்க ஏற்பாடுகள் செய்யப்பட்டுள்ளது.
+Eastern University closes hostels due to floods. Students sent home. Learning activities shifted online. Floods caused by heavy rains in Batticaloa district. State officials assist flood victims.
 
-...
+🟩
+
+Eastern University Registrar Amarasingham Paradhan said that due to inclement weather, the Eastern University Hostels have been closed from Wednesday (27) to re -notice and sent to their homes.
+
+He also said that arrangements have been made to take the students' learning activities.
+
+Batticaloa district has been flooded due to heavy rains over the past few days. Floods in the university campus and student hostel. As a result, the students have been evacuated and sent home.
+
+Due to floods in the district, floodwaters have risen on the main roads. Because of this, education and non -academic staff faced massive difficulties in obligating and many did not join the duties. In view of this, students have been sent home and arrangements have been made to carry out learning activities through the event.
+
+In the Batticaloa district, many areas have been flooded due to the opening of the Urugamam and Unnichi ponds.
+
+State officials are responsible for bringing the flood victims to safe places.
+
+◼️
 
 [Data](articles/edc25e05.json)
+
+[Extended Data](ext_articles/edc25e05.ext.json)
 
 ---
 
@@ -750,7 +844,7 @@ In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 
 
 ---
 
-### Sri Lanka bonds yield  fall, rupee at 291.15/20 to dollar
+### Sri Lanka bond yield  falls after rate cut, rupee at 291.15/20 to dollar
 
 *2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-yield-fall-rupee-at-291-15-20-to-dollar-190205/) · `en`
 
@@ -2201,43 +2295,5 @@ The outlooks of two special purpose vehicles linked to Adani Green Energy Limite
 ...
 
 [Data](articles/5f2ec27a.json)
-
----
-
-### One dead, over 70,000 affected due to heavy rains
-
-*2024-11-27 05:22:55* · [`dailyftlk`](https://www.ft.lk/news/One-dead-over-70-000-affected-due-to-heavy-rains/56-769720) · `en`
-
-Due to the heavy rainfall across the country, 77,670 persons belonging to 22,532 families have been affected, with one death reported, the Disaster Management Centre (DMC) said yesterday.
-
-DMC Media and Public Relations Assistant Director Janaka Handunpathiraja, stated that these individuals and families have been impacted in 103 Divisional Secretariat Divisions across 15 Districts.
-
-Five injuries have been reported. Six houses were completely damaged and 265 houses partially damaged.
-
-As a result of the disaster 2,770 persons from 821 families have been relocated to 35 safe locations, he added.
-
-◼️
-
-[Data](articles/fa336e99.json)
-
----
-
-### President to make first official visit to India in December
-
-*2024-11-27 04:08:01* · [`dailyftlk`](https://www.ft.lk/news/President-to-make-first-official-visit-to-India-in-December/56-769719) · `en`
-
-President Anura Kumara Dissanayake will undertake his inaugural overseas visit to India in the third week of December, following an invitation from the Indian Government.
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa confirmed the visit during the post-Cabinet meeting media briefing held yesterday.
-
-“The dates are not yet fixed, but it will be in the last week of December,” he added.
-
-The Cabinet Spokesman also disclosed that the Chinese Embassy in Sri Lanka has also invited President to visit China. However, details regarding timeline for this visit have yet be finalised, he said.
-
-◼️
-
-[Data](articles/e74c8ca6.json)
-
-[Extended Data](ext_articles/e74c8ca6.ext.json)
 
 ---

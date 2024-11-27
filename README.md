@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 04:42:10**
+As of **2024-11-28 05:00:41**
 
 ## Newspaper Stats
 
-*Scraped **57,308** Articles*
+*Scraped **57,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
 economynextcom | 3,486
-dailyftlk | 3,948
+dailyftlk | 3,949
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,308 (100.0%) of 57,308 articles have been extended.
+57,308 (100.0%) of 57,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Adani says Gautam  clear of bribery charges as per DoJ indictment
+
+*2024-11-28 04:52:17* · [`dailyftlk`](https://www.ft.lk/business/Adani-says-Gautam-clear-of-bribery-charges-as-per-DoJ-indictment/34-769811) · `en`
+
+In stock exchange filing claims no bribery charges against Gautam Adani, nephew Sagar Adani and Vneet Jaain as per DoJ indictment
+
+Trio not charged with violation(s) of US FCPA, excluded from FCPA charges by US DoJ
+
+Only Azure and CDPQ officials charged with bribery in US DoJ indictment
+
+All news reports claiming Adani officials charged of bribery or corruption ‘Incorrect’, insists Adani Green Energy
+
+Gautam Adani, nephew Sagar Adani, and Senior Executive Vneet Jaain are clear of any bribery charges as per the US Department of Justice (DoJ), according to the latest filing with stock exchanges by a Group company – Adani Green Energy Ltd. (AGEL).
+
+In its filing, AGEL has cited news reports by various media houses on the bribery and corruption charges against Adani officials ‘Incorrect’.
+
+...
+
+[Data](articles/cac19284.json)
+
+---
 
 ### Urgent regulatory reforms needed to revitalise construction industry and economy
 
@@ -2513,29 +2535,5 @@ Former ministers of Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka 
 [Data](articles/1257c9db.json)
 
 [Extended Data](ext_articles/1257c9db.ext.json)
-
----
-
-### Leave cancelled for engineers and technical officials managing reservoirs
-
-*2024-11-27 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103811/leave-cancelled-for-engineers-and-technical-officials-managing-reservoirs) · `en`
-
-The Ministry of Agriculture, Livestock, Lands, and Irrigation has issued a notice for the engineers and technical officers from the Irrigation Department, who are in charge of managing reservoirs, amidst the prevailing adverse weather conditions.
-
-Accordingly, the engineers and technical officials of the Irrigation Department and the Mahaweli Authority who are responsible for reservoir management are required to remain at their workplaces.
-
-According to the notice, the leave of all such officials who are currently on leave will be cancelled.
-
-The Minister of the Ministry of Agriculture, Livestock, Lands, and Irrigation has issued the following instructions,
-
-1.  That the engineers and technical officers managing reservoirs from the Irrigation Dept. and Mahaweli Authority should remain at their work places.
-
-2. To cancel the leave of such officers on leave with immediate effect,
-
-...
-
-[Data](articles/cf8d0a97.json)
-
-[Extended Data](ext_articles/cf8d0a97.ext.json)
 
 ---

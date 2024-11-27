@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 00:58:48**
+As of **2024-11-28 00:41:30**
 
 ## Newspaper Stats
 
-*Scraped **57,299** Articles*
+*Scraped **57,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,47 +18,17 @@ dailyftlk | 3,940
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
-tamilmirrorlk | 8,149
-virakesarilk | 9,339
-adaderanasinhalalk | 9,898
+tamilmirrorlk | 8,148
+virakesarilk | 9,338
+adaderanasinhalalk | 9,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,295 (100.0%) of 57,299 articles have been extended.
+57,295 (100.0%) of 57,295 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-28 (Thursday)
-
-### இரண்டு அமைச்சுக்களுக்கு புதிய செயலாளர்கள் நியமனம்
-
-*2024-11-28 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199888) · `ta`
-
-அதற்கு அமைவான நியமனக் கடிதங்கள் புதன்கிழமை (27) ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவினால் ஜனாதிபதி செயலகத்தில் வைத்து வழங்கப்பட்டது.
-
-அதன்படி சுற்றாடல் அமைச்சின் செயலாளராக கே.ஆர்.உடுவாவல நியமிக்கப்பட்டுள்ளதுடன், விஞ்ஞான, தொழில்நுட்ப அமைச்சின் செயலாளராக வை.எல்.மொஹமட் நவாவி நியமிக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/328cf6b2.json)
-
----
-
-### நிவாரணம் வழங்க 11 கடற்படை குழுக்கள்
-
-*2024-11-28 00:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணம்-வழங்க-11-கடற்படை-குழுக்கள்/175-347900) · `ta`
-
-அம்பாறை, மட்டக்களப்பு மற்றும் மாத்தறை மாவட்டங்களில் கடற்படையின் நிவாரணக் குழுக்கள் கடமைகளில் ஈடுபட்டுள்ளன.
-
-இதனிடையே, வௌ்ளத்தால் பாதிக்கப்பட்ட மக்களை மீட்பதற்காக விமானப் படையின் 50 பேர் 06 இடங்களில் 6 ஹெலிகொப்டர்களுடன் நிறுத்தப்பட்டுள்ளதாக விமானப் படை தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/b5bc2f37.json)
-
----
 
 ### 2024-11-27 (Wednesday)
 
@@ -100,24 +70,6 @@ According to statistics received at 05.00 pm on Wednesday (27) due to heavy rain
 
 ---
 
-### පොලිස් නිල වෙබ් අඩවියෙන් සේවා රැසක්
-
-*2024-11-27 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203819) · `si`
-
-ශ්‍රී ලංකා පොලිස් නිල වෙබ් අඩවිය යාවත්කාලීන කර නව මුහුණුවරකින් නිර්මාණය කර මහජනතාවගේ පරීශීලනය සඳහා අද (27) දින එළිදැක්වීය.
-
-ඒ, මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල සුහුරුපාය ගොඩනැගිල්ලේ පිහිටි මහජන ආරක්ෂක අමාත්‍යංශයේදී ය.
-
-ශ්‍රී ලංකා පොලීසියේ නව වෙබ් අඩවිය වන www.police.lk වෙත පිවිසීමෙන් මහජනතාවට එය පරිශීලනය කළ හැකි වන අතර, පොලිස් මාධ්‍ය කොට්ඨාසය විසින් සකසනු ලබන ශ්‍රී ලංකා පොලීසියේ තොරතුරු, විශේෂ අවස්ථා, පුවත්, ඡායාරූප, වීඩියෝ ඇතුළු විශේෂාංග රැසක අන්තර්ගතයක් සමග නිරන්තරයෙන් යාවත්කාලීන කෙරේ.
-
-එමෙන්ම සුපුරුදු පරිදි පොලිස් නිෂ්කාශන වාර්තා සඳහා අයදුම් කිරීම, මාර්ගගත ක්‍රමය ඔස්සේ පැමිණිලි ඉදිරිපත් කිරීමට මෙම නව වෙබ් පිටුව හරහාද අවස්ථාව ලබාදී ඇති අතර, ඉදිරියේදී ඔබේ පහසුව උදෙසා පොලිස් තොරතුරු තාක්ෂණ කොට්ඨාසය විසින් සකසන ලද තවත් තාක්ෂණික අංග රැසක් මෙම නව වෙබ් පිටුව තුළ ඇතුළත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/4d212307.json)
-
----
-
 ### Ampara tractor accident: Body of another missing boy found
 
 *2024-11-27 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103822/ampara-tractor-accident-body-of-another-missing-boy-found) · `en`
@@ -155,24 +107,6 @@ As per the appointments, Mr. K.R. Uduwawala will serve as the Secretary to the M
 [Data](articles/656928e4.json)
 
 [Extended Data](ext_articles/656928e4.ext.json)
-
----
-
-### අස්වැසුම අයදුම්කරුවන්ට විශේෂ නිවේදනයක්
-
-*2024-11-27 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203817) · `si`
-
-අස්වැසුම සුබසාධක ප්‍රතිලාභ වැඩසටහනට අයදුම්කිරීමට ලබාදුන් අතිරේක සහන කාලය නැවත වරක්  දීර්ඝ කිරීමට කටයුතු කර තිබේ.
-
-ඒ අනුව, අස්වැසුම වැඩසටහන සඳහා අයදුම් කිරීමට ලබාදුන් සහන කාල සීමාව 2024.12.09 දක්වා දීර්ඝ කිරීමට සුබසාධක ප්‍රතිලාභ මණ්ඩලය තීරණය කර ඇත.
-
-අස්වැසුම ප්‍රතිලාභී යෝජනා ක්‍රමය සඳහා මෙතෙක් අයදුම් කිරීමට නොහැකි වූ පවුල් සහ තැනැත්තන් හට ඊට අයදුම් කිරීම සඳහා  2024.11.25 දින සිට 2024.12.02 දක්වා සහන කාලයක් මීට පෙර ලබා දී තිබුණි.
-
-නමුත් රට තුළ පවතින අයහපත් කාලගුණික තතත්ත්වය සැලකිල්ලට ගෙන මෙලෙස කාලය නැවත වරක් දීර්ඝ කිරීමට පියවර ගත් බව නිවේදනයේ සඳහන් වේ.
-
-◼️
-
-[Data](articles/e669bea5.json)
 
 ---
 
@@ -2577,5 +2511,103 @@ Sri Lanka’s economy has been recovering and the economy is growing around 4.5 
 [Data](articles/bfb6edff.json)
 
 [Extended Data](ext_articles/bfb6edff.ext.json)
+
+---
+
+### Ampara tractor incident: Body of one of six missing students found
+
+*2024-11-27 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103810/ampara-tractor-incident-body-of-one-of-six-missing-students-found-) · `en`
+
+The body of one of the six missing students has been recovered after the tractor they were traveling in was caught in floodwaters at Karaitivu in Ampara District, last evening (26).
+
+The incident occurred when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents in the flood waters.
+
+Police had confirmed that 05 children had been rescued while the rest were reported missing.
+
+The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
+
+The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
+
+Accordingly, as of today, the body of one of the missing children has been recovered, and rescue operations are ongoing to locate the remaining missing individuals.
+
+◼️
+
+[Data](articles/a3919aec.json)
+
+[Extended Data](ext_articles/a3919aec.ext.json)
+
+---
+
+### Alert on sudden floods
+
+*2024-11-27 12:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-வெள்ளம்-குறித்து-எச்சரிக்கை/175-347858) · `ta`
+
+Sudden floods alert: Ministry of Agriculture acts swiftly. Secretary orders staff recall, cancels vacations. Mahaweli Authority assists affected districts. Security measures implemented in Akkarapattu and Nilwala Ganga areas.
+
+🟩
+
+Secretary to the Ministry of Agriculture, Livestock, Land and Irrigation
+
+The Secretary also advised the Technical Officers affiliated to the Irrigation Department and the Mahaweli Authority to be in the respective stations.
+
+Special attention was focused on ensuring immediate security precautions for victims of the Akkarapattu and Nilwala Ganga areas.
+
+In addition, the Secretary has ordered the cancellation of all vacations for the employees currently on vacation and ensuring that there are adequate staff to manage the situation.
+
+The Mahaweli Authority has been given a directive to work with the respective District Secretaries to provide necessary assistance to the affected people in these areas.
+
+◼️
+
+[Data](articles/c2600dd2.json)
+
+[Extended Data](ext_articles/c2600dd2.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-11-27 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203795) · `si`
+
+Sri Lanka vs South Africa Test series begins today. First match at Durban Stadium. Sri Lanka captain Dhananjaya de Silva wins toss, chooses to bowl. Dimuth Karunaratne leads batting lineup. South Africa's Kagiso Rabada expected to play key role.
+
+🟩
+
+The Test cricket tournament between the Tourism Sri Lanka and South African group will commence today.
+
+The first match will begin at the Durban stadium in the Durban Stadium in Africa.
+
+Sri Lanka Leader Dhanga De Silva won the toss and win the coin.
+
+Accordingly, he invited the African team to bat first.
+
+Dimuth Karunaratne, Dinesh Chandimal, Kamindu Mendis, Kusal Mendis, Kusal Mendander, University Mendander, University of Lahiru Kumarasing, University Fernando.
+
+Endon Mcram, Toristan Stubs, Tristan Stubs, Marco Yanson, Marco Yanson, Gesco Warsc, Kugzo Rabada
+
+◼️
+
+[Data](articles/b30f5de7.json)
+
+[Extended Data](ext_articles/b30f5de7.ext.json)
+
+---
+
+### Bolsonaro was directly involved in 2022 coup plot, Brazil’s police say
+
+*2024-11-27 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103809/bolsonaro-was-directly-involved-in-2022-coup-plot-brazils-police-say) · `en`
+
+Brazil’s federal police presented evidence to the Supreme Court that former President Jair Bolsonaro was directly involved in plotting a coup to overturn the outcome of the 2022 election he lost, according to an 884-page report unsealed on Tuesday.
+
+That final police report, the result of a nearly two-year investigation, lays out evidence gathered from search warrants, wiretaps, financial records and plea bargain testimony pointing to a criminal conspiracy with Bolsonaro at the helm.
+
+“Bolsonaro effectively planned, directed and executed, in coordination with other officials since at least 2019, concrete acts that aimed at the abolition of the democratic rule of law, with him remaining as president,” the report said.
+
+Police also found that Bolsonaro had “full knowledge” of a plan to assassinate Luiz Inacio Lula da Silva, then president-elect, and his running mate, based on dialogue captured between conspirators and meetings at the presidential residence.
+
+...
+
+[Data](articles/39abd1f9.json)
+
+[Extended Data](ext_articles/39abd1f9.ext.json)
 
 ---

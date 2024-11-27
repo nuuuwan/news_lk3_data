@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 11:43:01**
+As of **2024-11-27 12:02:13**
 
 ## Newspaper Stats
 
-*Scraped **57,178** Articles*
+*Scraped **57,181** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 439
 colombotelegraphcom | 582
-bbccomsinhala | 594
+bbccomsinhala | 595
 islandlk | 3,431
 economynextcom | 3,470
 dailyftlk | 3,939
 dailymirrorlk | 4,733
 adalk | 5,390
-adaderanalk | 6,921
+adaderanalk | 6,923
 tamilmirrorlk | 8,126
 virakesarilk | 9,316
 adaderanasinhalalk | 9,874
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,146 (99.9%) of 57,178 articles have been extended.
+57,148 (99.9%) of 57,181 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Train services impacted due to adverse weather
+
+*2024-11-27 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103807/train-services-impacted-due-to-adverse-weather) · `en`
+
+The trains operating along the up-country and Batticaloa railway lines have been limited due to the prevailing adverse weather conditions, the Railway Department said.
+
+The Railway Department stated that steps have been taken to limit the trains operating on the Batticaloa line up to Polonnaruwa.
+
+Similarly, trains operating on the Up-Country line have been limited up to Nanuoya.
+
+Meanwhile, a large mound of garbage has collapsed on the railway track near the Hatton Railway Station this morning (27).
+
+The engineer of the railway maintenance department of Hatton railway station said that a possible train accident that could have been caused by this was prevented due to the timely action of a railway guard.
+
+The railway guard had spotted it and informed the authorities, and halted a passenger train from Nanuoya to Colombo.
+
+The engineer said that the train later operated to Colombo after the debris that had fallen on the railway track was cleared.
+
+◼️
+
+[Data](articles/7ab9abc6.json)
+
+---
+
 ### 'உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் சனல் 4 ஆவணப்படத்தில் குற்றம்சாட்டப்பட்டவர்கள்  விசாரணைக்கு அழைக்கப்படுகின்றனர்" - கத்தோலிக்க  ஆயர் பேரவை வரவேற்பு
 
 *2024-11-27 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199812) · `ta`
@@ -67,6 +91,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/eb3bba17.json)
+
+---
+
+### Special police hotline for Tamil-speaking people amid adverse weather
+
+*2024-11-27 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103806/special-police-hotline-for-tamil-speaking-people-amid-adverse-weather) · `en`
+
+Sri Lanka Police has established a special hotline, ‘107’, dedicated for Tamil-speaking individuals to report or seek assistance regarding the prevailing adverse weather conditions, according to Police Spokesman DIG Nihal Thalduwa.
+
+◼️
+
+[Data](articles/a7b98f79.json)
 
 ---
 
@@ -128,7 +164,7 @@ According to the audit, the amount of income received by the project was reduced
 
 Inclement weather conditions have affected a total of 207,582 individuals from 59,629 families across 17 districts, according to the Disaster Management Centre (DMC).
 
-The situation has resulted in one fatality while seven persons are reported missing, and eight have been left injured.
+The DMC further said that the prevailing situation has resulted in two fatalities while seven persons are reported missing, and eight others have been left injured thus far.
 
 A total of 10,137 individuals from 3,102 families are currently being sheltered in 104 relief centers.
 
@@ -832,6 +868,8 @@ The supplementary estimate will be within the approved expenditure and debt limi
 
 [Data](articles/f12e4efc.json)
 
+[Extended Data](ext_articles/f12e4efc.ext.json)
+
 ---
 
 ### In Sri Lanka ISB exchange, high creditor participation vital: IMF’s Georgieva
@@ -869,6 +907,8 @@ A debt exchange launched on November 27, will provide significant external debt 
 ...
 
 [Data](articles/4def34a1.json)
+
+[Extended Data](ext_articles/4def34a1.ext.json)
 
 ---
 
@@ -1163,6 +1203,26 @@ The article makes two key points in this regard. Firstly, the CBSL has not only 
 [Data](articles/8c44700d.json)
 
 [Extended Data](ext_articles/8c44700d.ext.json)
+
+---
+
+### කාර්තිව් අනතුර : 'බස් එක මග නතර කරපු නිසා ළමයි ට්‍රැක්ටරේට නැගලා'
+
+*2024-11-27 06:05:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7wxp91w1jo) · `si`
+
+කාර්තිව් අනතුර : 'බස් එක මග නතර කරපු නිසා ළමයි ට්‍රැක්ටරේට නැගලා'
+
+අම්පාර, කාර්තිව් ප්‍රදේශයේ මාවඩිපිල්ලේ ප්‍රදේශයේදී ළමුන් පිරිසක් රැගත් ට්‍රැක්ටර් රථයක් පෙරලීමෙන් ඊයේ (නොවැම්බර් 26) සිදුවූ අනතුරෙන් අතුරුදන් වූ පිරිස් සොයා නාවික හමුදාව මෙහෙයුම් ක්‍රියාත්මක කර ඇති බව නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසුරිය බීබීසී සිංහල සේවය වෙත පැවසීය.
+
+නාවික හමුදා මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් පැවසුවේ නාවික හමුදාවේ කිමිදුම් කණ්ඩායමක් ද අතුරුදන් වූ පිරිස් සෙවීමේ මෙහෙයුම සඳහා එම ප්‍රදේශයට මේ වන විටත් යොමු කර ඇති බවයි.
+
+බීබීසී සිංහල සේවය මේ සම්බන්ධයෙන් සිදු කළ විමසීමකදී අම්පාර දිස්ත්‍රික් ආපදා කළමනාකරණ ඒකකයේ සහකාර අධ්‍යක්ෂක එම්.ඒ.සි. මොහොමඩ් රියාස් පැවසුවේ නින්දවූර් ප්‍රදේශයේ මද්‍රසා පාසැලක ඉගෙනුම ලබන සිසුන් පිරිසක් මෙම අනතුරට මුහුණ පා ඇති බවයි.
+
+නින්දවූර් ප්‍රදේශයේ සිට සමන්තුරේ බලා ධාවනය වූ බස් රථයක එම සිසුන් පිරිස ගමන් කරමින් සිට තිබේ.
+
+...
+
+[Data](articles/522c5cdb.json)
 
 ---
 
@@ -2137,61 +2197,5 @@ A search operation has been launched to locate the missing persons by police per
 [Data](articles/7f55fb5f.json)
 
 [Extended Data](ext_articles/7f55fb5f.ext.json)
-
----
-
-### Over 77,000 people affected by adverse weather in Sri Lanka
-
-*2024-11-26 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103791/over-77000-people-affected-by-adverse-weather-in-sri-lanka) · `en`
-
-The Disaster Management Centre (DMC) says that the prevailing inclement weather conditions in the country have so far affected 77,670 persons from 22,532 families across 15 districts.
-
-It said that the bad weather-related incidents have resulted in the dead of one person and injured another 05.
-
-A total of 2,770 individuals from 821 families are currently in emergency relief centres while six houses have been completely destroyed and 265 houses have been partially damaged, according to the DMC.
-
-◼️
-
-[Data](articles/d31ba7c9.json)
-
-[Extended Data](ext_articles/d31ba7c9.ext.json)
-
----
-
-### Nine students and nine students caught by a sudden bear - save two of them
-
-*2024-11-26 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203774) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Nine students (ages 12-16) went missing after a bear attack near Kabethavan junction while traveling from Tractor Junction. Seven were schoolchildren from Nindowur Madrasara School. Two were saved.
-
-🟩
-
-Nine schoolchildren, including seven school children who were traveling from the schools, have been disappeared.
-
-It is reported that children aged between the ages of 12 and 16 are reportedly dangerous.
-
-Students studying at the Nindowur Madrasara School are facing the accident near the Kabethavan junction while traveling from the tractor junction.
-
-◼️
-
-[Data](articles/cc759f5f.json)
-
-[Extended Data](ext_articles/cc759f5f.ext.json)
-
----
-
-### GSP+: Can it drive inclusive growth in Sri Lanka?
-
-*2024-11-26 20:51:00* · [`islandlk`](http://island.lk/gsp-can-it-drive-inclusive-growth-in-sri-lanka/) · `en`
-
-In a mid-October 2024 meeting with the European Union (EU) Ambassador, Sri Lanka reaffirmed its commitment to strengthening trade relations with the EU, particularly highlighting the role of the GSP+ programme in boosting Sri Lankan exports. This discussion underscores the significance of the GSP+, which offers tariff preferences for Sri Lanka’s exports to the EU. The GSP+ offers reduced tariffs on exports, conditional upon the recipient countries implementing 27 international conventions. These conventions include standards on labour and human rights, environmental sustainability, and good governance. Sri Lanka’s major exports to the EU, such as wearing apparel, employ low and medium-skilled, and female workers, as well as estate and rural sector workers, directing benefits of GSP+ to vulnerable communities.
-
-...
-
-[Data](articles/2887b26a.json)
 
 ---

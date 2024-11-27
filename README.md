@@ -1,36 +1,290 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 07:30:37**
+As of **2024-11-27 09:19:03**
 
 ## Newspaper Stats
 
-*Scraped **57,128** Articles*
+*Scraped **57,141** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 438
-colombotelegraphcom | 579
+colombotelegraphcom | 580
 bbccomsinhala | 594
 islandlk | 3,431
 economynextcom | 3,465
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,380
+adalk | 5,384
 adaderanalk | 6,912
-tamilmirrorlk | 8,119
+tamilmirrorlk | 8,122
 virakesarilk | 9,312
-adaderanasinhalalk | 9,863
+adaderanasinhalalk | 9,868
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,101 (100.0%) of 57,128 articles have been extended.
+57,117 (100.0%) of 57,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### The Central Bank Monetary Policy Stair
+
+*2024-11-27 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203785) · `si`
+
+Central Bank relaxes monetary policy, maintains 8% policy rate. Implements single policy interest rate system. Introduces one-day policy rate review for economic communication. Expected to boost financial markets and overall economy efficiency.
+
+🟩
+
+The Central Bank's Monetary policy stance has been further relaxed.
+
+Accordingly, the Central Bank Monetary Policy Board has decided to hold the policy rate as 8% at the meeting held yesterday (26).
+
+The Central Bank Monetary Policy Board has been implemented today (Monetary Policy Board has been effective from today) has been implemented to implement a single policy interest rate system.
+
+This is another important improvement carried out in the flexible inflationary targeting framework implemented by the Central Bank.
+
+Accordingly, the Central Bank introduces the One Day Policy Policy Policy Rate: Overnight Policy Rate: Overnight Policy Rate: Overnight Policy Rate:
+
+The One-Day Policy Interest rate will be reviewed and revised to communicate the Changes of the Central Bank's Monetary Policy Standards to the Parties of the economy.
+
+...
+
+[Data](articles/5b3ebd2b.json)
+
+[Extended Data](ext_articles/5b3ebd2b.ext.json)
+
+---
+
+### Muslim schools leave today
+
+*2024-11-27 08:13:22* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරවෙල-මුස්ලිම්-පාසල්වලට-අද-නිවාඩු/11-413298) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Due to difficulties, Muslim schools will close today. The Ministry of Education has approved this decision. Senior Zonal Director Dhammika Herath announced that schools will reopen on December 7th."
+
+🟩
+
+Today, the teachers and students of the area have difficulty attending school to school today and the Secretary to the Ministry of Education has been approved today for the benefit of the Muslim schools today.Senior Zonal Director of Education, Dhammika Herath said
+
+Saturday, December Seventh Saturday, the school will be held on Saturday, December Seventh Saturday. Due to 10th December
+
+◼️
+
+[Data](articles/10d401de.json)
+
+[Extended Data](ext_articles/10d401de.ext.json)
+
+---
+
+### Malama Secretary falls to the pond of parliamentary water
+
+*2024-11-27 08:06:57* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-ලේකම්ගේ-මෝටර්-රිය-පාර්ලිමේන්තු-ජල-පොකුණට-වැටෙයි/11-413297) · `si`
+
+MP's vehicle fell into parliament pond during heavy rain. Driver was at workshop. Police investigating. Car recovered with parliamentary staff help. No injuries reported.
+
+🟩
+
+The National Jathika Sector and the General Secretary of the National Jathika Power and Kalutara District MP Dr. Nihal Abeysinghe has been in danger of falling into the pond of the parliament yesterday evening yesterday evening.
+
+Police say that MP was not present at the time of the accident. The vehicle had fallen into the pond when the driver arrived at the workshop for new MPs.
+
+The car has taken steps to recover the car with the participation of the parliamentary police and the Parliamentary staff. The car has suffered serious losses in the accident.
+
+Police suspect that this accident had been accidental due to heavy rains due to heavy rains.
+
+◼️
+
+[Data](articles/97eaa07f.json)
+
+[Extended Data](ext_articles/97eaa07f.ext.json)
+
+---
+
+### Windmill that turns into a storm today
+
+*2024-11-27 07:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-புயலாக-மாறும்-காற்றழுத்த-தாழ்வு/175-347841) · `ta`
+
+Storm warning: Strong winds, heavy rains expected in northern regions of Sri Lanka.
+
+🟩
+
+The Department of Meteorology has stated that the deep winds in the southwestern Bengal bay were stationed at around 11.30 pm last night, 190 km southeast of Trincomalee.
+
+It will move to the north-northwest near the east coast of Sri Lanka and become more and more stormy.
+
+Because of this, the sky is cloudy in most parts of the country. Heavy rains and strong winds are likely to blow in the North, North Central, Eastern, Northwest and Central Provinces.
+
+Rainfall or thunderstorms will occur from time to time in the Northern, North Central, Central, Western and North Western Provinces and Trincomalee, Batticaloa and Kegalle districts.
+
+In the Northern, North Central, Central, West, Northwest, South and Eastern Provinces, strong winds are likely to blow at a time of 40-50 km / h, according to a statement issued by the Department of Meteorology.. (A)
+
+◼️
+
+[Data](articles/3ea2739b.json)
+
+[Extended Data](ext_articles/3ea2739b.ext.json)
+
+---
+
+### IMF Heads of Economic Reforms in Sri Lanka
+
+*2024-11-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203784) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan authorities committed to economic reforms: IMF Managing Director Christellein confirms determination to implement changes.
+
+🟩
+
+The International Monetary Fund Managing Director, Christeleina says that the Sri Lankan authorities have been determined to carry out economic reforms.
+
+◼️
+
+[Data](articles/2c1c2af0.json)
+
+[Extended Data](ext_articles/2c1c2af0.ext.json)
+
+---
+
+### Reservoirs and rivers of river
+
+*2024-11-27 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203783) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lanka: Reservoirs & rivers update. Hostch Oya reservoir release planned. Flood awareness crucial for lowland residents.
+
+🟩
+
+The Department of Irrigation says that many reservoirs in the island are sworn in and most of the rivers are present.
+
+Its engineering G. W. A. Ms. Dilthara says that the Hostch Oya reservoir will be released at 32,145 feet capacity to the second of the Holder Oya Reservoir.
+
+මේ නිසාවෙන් වාරියපොළ, නිකවැරටිය, මහව, කොබෙයිගනේ, බිංගිරිය, පල්ලම, හලාවත, ආරච්චිකට්ටුව හා රස්නායකපුර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවලට අයත් පහත්බිම්වල ජනතාව දැඩි අවධානයෙන් පසුවන ලෙසත් දිල්තාරා මහත්මිය සඳහන් කළාය.
+
+Meanwhile, the duncel of 3,520 cubic feet of 3,520 cubic feet of 3,520 cubic feet to the second and 1,000 cubic feet of the Kaudulla reservoir period, she added.
+
+The Yan Oya reservoir is 6,099 cubic feet of 6,099 cubic feet, the Parakrama Samudraya with a capacity of 5,046 cubic feet of a capacity.
+
+Meanwhile, the Department of Irrigation further stated that it is necessary to be aware that the people of the Mahaweli River is also essential to the floods.
+
+...
+
+[Data](articles/e829b4c7.json)
+
+[Extended Data](ext_articles/e829b4c7.ext.json)
+
+---
+
+### One million people in the north
+
+*2024-11-27 07:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-ஒரு-லட்சம்-பேர்-பாதிப்பு/175-347840) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"1M+ affected in Northern Province due to severe weather. 25k+ families impacted. Lowland residents hit hardest as pond water pours out."
+
+🟩
+
+Due to the inclement weather in the Northern Province, up to one million people from over 25 thousand families have been affected.
+
+Meanwhile, people living in the lowlands are facing greater impact due to the opening of the air doors of ponds like Iranamadu and Muttiyankattu.. (A)
+
+◼️
+
+[Data](articles/2f4292fa.json)
+
+[Extended Data](ext_articles/2f4292fa.ext.json)
+
+---
+
+### Floods risk for Malwathu Oya
+
+*2024-11-27 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203782) · `si`
+
+Malwathu Oya flood warning: Mahawilachchiya, Anuradhapura; Vavuniya; Mannar districts. Floods possible in Vengalochedkulam, Musalali, Mussalai, Musade areas. Residents advised to be cautious and prepare for potential flooding within 48 hours.
+
+🟩
+
+The Department of Irrigation has announced the possibility of flooding in the Malwathu Oya.
+
+Mahawilachchiya Divisional Secretariat in Anuradhapura, Vavuniya and Mannar districts, in general area Vengalochedkulam, Musalali, Mussalai, Musade Divisional Secretariat Divisions for 48 hoursThe Department of Irrigation has announced that floods can occur.
+
+The department is informed that the people of these areas are vigilant in this regard and take necessary measures to protect the floods.
+
+◼️
+
+[Data](articles/da70a08d.json)
+
+[Extended Data](ext_articles/da70a08d.ext.json)
+
+---
+
+### Reclaim children
+
+*2024-11-27 06:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-மீட்டுத்-தாருங்கள்/175-347839) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Northern Province governor reports 5 youths forcibly recruited into Russian army. Parents from Jaffna, Karaveddi, Mulliyawalai meet governor, contact foreign ministry.
+
+🟩
+
+The governor of the Northern Province Na Vedanayakan has lodged a complaint with the parents of the Northern Province that five youths from the Northern Province are forcibly recruited in the Russian army.
+
+Parents of youth from Jaffna, Karavedti and Mulliyawalai met with the Governor at the Governor's Secretariat yesterday (27).
+
+Subsequently, the Governor immediately telephoned the Secretary of the Ministry of Foreign Affairs and informed the matter.
+
+In addition, the parents have been sent to the Foreign Ministry. (A)
+
+◼️
+
+[Data](articles/0344219d.json)
+
+[Extended Data](ext_articles/0344219d.ext.json)
+
+---
+
+### සුළි කුණාටුව තිව්‍ර වෙයි - ප්‍රදේශ කිහිපයකට මි.මී 150 ඉක්මවූ වැසි
+
+*2024-11-27 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203780) · `si`
+
+දිවයිනේ උතුරු, උතුරු-මැද, මධ්‍යම,බස්නාහිර සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මඩකලපුව සහ කෑගල්ල දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
+
+ඇතැම් ස්ථානවලට මි.මී.150 ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය 2024 නොවැම්බර් 26 වැනි දින පස්වරු 11.30ට පමණ වන විට ත්‍රිකුණාමලයට කිලෝමීටර් 190ක් පමණ ගිනිකොන දෙසින් පිහිටා තිබුණි.
+
+එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව උතුරට බරව වයඹ දෙසට ගමන් කරමින් අද (27) සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇත.
+
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු, උතුරු-මැද, නැගෙනහිර, වයඹ සහ මධ්‍යම පළාත්වලට ඉතා තද වැසි සහ තද සුළං තවදුරටත් අපේක්ෂා කරයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවලත් විටින් විට වැසි ඇති විය හැකි අතර, ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ද ඇතිවිය හැකිය.
+
+උතුරු, උතුරුමැද , මධ්‍යම, බස්නාහිර, වයඹ, දකුණ සහ නැගෙනහිර පළාත්වල විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං පවතී.
+
+...
+
+[Data](articles/aded8091.json)
+
+---
 
 ### FIU slaps Rs. 2.7 m combined fines on three entities
 
@@ -92,6 +346,8 @@ He said there is no direct connection between the trade union’s demand and the
 
 [Data](articles/f921679b.json)
 
+[Extended Data](ext_articles/f921679b.ext.json)
+
 ---
 
 ### BOI Chief meets export industry leaders to address supply chain security and efficiency
@@ -108,6 +364,8 @@ Pilferage at crucial inspection points was highlighted as a key concern, with th
 
 [Data](articles/e088f0c9.json)
 
+[Extended Data](ext_articles/e088f0c9.ext.json)
+
 ---
 
 ### Sri Lanka  Economic Summit from 28-29 January
@@ -122,6 +380,8 @@ The 24th edition of the Sri Lanka Economic Summit organised by The Ceylon Chambe
 
 [Data](articles/635cf0b3.json)
 
+[Extended Data](ext_articles/635cf0b3.ext.json)
+
 ---
 
 ### Kosala calls on new Japanese Ambassador
@@ -133,6 +393,8 @@ International Business Council President Kosala Wickramanayake recently paid a c
 ◼️
 
 [Data](articles/0472732f.json)
+
+[Extended Data](ext_articles/0472732f.ext.json)
 
 ---
 
@@ -152,6 +414,8 @@ HRW acknowledged that Dissanayake was elected President on 21 September and on 1
 
 [Data](articles/8063d5ea.json)
 
+[Extended Data](ext_articles/8063d5ea.ext.json)
+
 ---
 
 ### Arrest warrant issued against Jaffna District MP Archchuna Ramanathan
@@ -168,6 +432,8 @@ This development adds to the legal troubles faced by Dr. Ramanathan, who recentl
 
 [Data](articles/b2e94af9.json)
 
+[Extended Data](ext_articles/b2e94af9.ext.json)
+
 ---
 
 ### Poverty of CBSL’s monetary policies: Part II
@@ -183,6 +449,8 @@ The article makes two key points in this regard. Firstly, the CBSL has not only 
 ...
 
 [Data](articles/8c44700d.json)
+
+[Extended Data](ext_articles/8c44700d.ext.json)
 
 ---
 
@@ -2042,262 +2310,20 @@ Similarly, the electricity tariff must be reduced in parallel with the profit th
 
 ---
 
-### President to visit India and Chinese
+### වාහන ආනයනය ගැන රජයේ තීරණය
 
-*2024-11-26 17:54:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියා-හා-චීන-සංචාරයකට/11-413291) · `si`
+*2024-11-26 17:55:03* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-තීරණය/11-413292) · `si`
 
-Here's a summary in 200 characters:
+වාහන ආනයනය කිරීම ලබන වසරේදී අදියර කිහිපයක් යටතේ සිදුකරන බවත් එහිදී සංචිත පිළිබඳව අවධානය යොමුකළ යුතුව ඇති බවත් කම්කරු අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පැවැසීය.
 
+“වාහන ආනයනය කිරීමට කාණ්ඩ කිහිපයක් යටතේ තමයි අවසර ලබාදීම සිදු කරන්නේ. විශේෂයෙන්ම වාණිජ මට්ටමේ තිබෙන වාහන. නමුත් එය සිදුකරන්නේ විදේශ විනිමය සීමා වලට යටත්වයි.
 
+දැනට සංචිත කොපමණ ප්‍රමාණයක් තිබෙනවාද යන්න පිළිබඳව ගණන් කර තිබෙනවා.  මහ බැංකුව යම් ආකාරයක අතිරේක සංචිත හදලා තිබෙනවා.
 
-Pres. Anura Kumara Dissanayake to visit India & China. Indian trip likely in Dec 3rd week. Chinese embassy invited for China visit.
-
-🟩
-
-Cabinet spokesman Minister Nalinda Jayatissa said President Anura Kumara Dissanayake will carry out official visits in the future.
-
-Accordingly, the President first visits India and the most likely trip will take place in December-third week.
-
-The Minister said that the Chinese embassy was officially invited by the Chinese embassy for China.
+විනියම සීමාවන්ට යටත්ව තමයි අවසර දෙනේනේ. අදියර තුනක් යටතේ වාහන ගෙන්වන්න අවස්ථාව දෙනවා. ස්ථායිකරන වැඩපිළිවෙළකට මේක යන්න ඕන. එකවරම අතහැරලා මේක කඩා දාන්න දෙන්න බෑ.”
 
 ◼️
 
-[Data](articles/db5b170f.json)
-
-[Extended Data](ext_articles/db5b170f.ext.json)
-
----
-
-### Missing man in Batticaloa: 522 migration;Opening of the air doors of the ponds!
-
-*2024-11-26 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199745) · `ta`
-
-Batticaloa floods: 1 missing, 522 displaced due to heavy rains and pond openings. Traffic disruptions reported.
-
-🟩
-
-Due to inclement weather, one person has been hit by flood waters in Batticaloa and 522 people from 161 families have taken refuge in relatives' homes.
-
-Due to the opening of the ponds, many areas have been flooded with traffic to many areas.
-
-Due to this heavy rains, many low -lying areas in the district have caused flood waters and many trees in the streets in many areas.
-
-The floods have been affected by the floods and 522 people from 161 families in the Sengaladi and Divisional Secretariat Division have been flooded and taken to relatives' houses.
-
-Meanwhile, the traffic between the floods and the traffic between Mandur and the city of Batticaloa and the city of Batticaloa has been cut off.
-
-He has disappeared when a man who tried to cross the road was flooded with a flooding of 4 feet of flooding, closing the road over the main tambourine of Mandur.
-
-◼️
-
-[Data](articles/c1a20810.json)
-
-[Extended Data](ext_articles/c1a20810.ext.json)
-
----
-
-### Selvam Avadakkalanathan MP to release the lands of the people of Mannar district. Emergency letter
-
-*2024-11-26 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199762) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Selvam Avadakkalanathan MP demands land return in Mannar district. Navy occupies lands in Mullikulam, Thalaikulam, Talaimannar, and Bengal. Residents evicted in 2007. 100 acres released in 2016, but 900 acres remain occupied. Naval HQ prevents full release. Catholic church land used for worship. Residents urge freedom to live on their lands.
-
-🟩
-
-Vanni district parliamentarian Selvam on Tuesday (26) has sent an urgent letter to President Anura Kumara Dissanayake demanding the return of land belonging to the public in Mannar district.
-
-The lands occupied by the Navy in the villages of Mullikulam, Thalaikulam in Mannar district, Talaimannar Pierre Pallimunai and Bengal are still unable to hand over the people from them.
-
-In particular, the lands and residential lands of the people in the Mullik pond, the land belonging to the Christian church of the Satha Sabha Mother in Talaimannar Pierre, the lands of individuals along the Bengal Nanatan road, and residential lands on the school.
-
-They were evicted from the village on September 7, 2007 in Mullikkulam.
-
-Release 100 acres in 2016. There is also 900 acres (including agricultural lands and residential lands with 04 ponds).
-
-...
-
-[Data](articles/a4579119.json)
-
-[Extended Data](ext_articles/a4579119.ext.json)
-
----
-
-### Ad Hoc Bondholders announces support for Sri Lanka’s debt restructuring terms
-
-*2024-11-26 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103787/ad-hoc-bondholders-announces-support-for-sri-lankas-debt-restructuring-terms-) · `en`
-
-The Steering Committee of the Ad Hoc Group of Sri Lanka Bondholders has announced its support for the restructuring terms of all 11 series of Sri Lanka’s c.$12.55 billion in outstanding sovereign bonds, as detailed in Sri Lanka’s Exchange Offer and Consent Solicitation Memorandum published today.
-
-The Ad Hoc Group represents a diverse and significant cross-section of international holders of Sri Lanka’s sovereign bonds, collectively holding approximately 40% of Sri Lanka’s total outstanding sovereign bonds.
-
-...
-
-[Data](articles/e011aa33.json)
-
-[Extended Data](ext_articles/e011aa33.ext.json)
-
----
-
-### The drugs required for next year are not properly ordered
-
-*2024-11-26 17:39:52* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසර-සඳහා-අවශ්‍ය-ඖෂධ-නිසි-පරිදි-ඇනවුම්-කර-නෑ/11-413290) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Drugs for next year not properly ordered: Health Minister Nalinda Jayatissa says drugs should be ordered but operational process is slow. People will receive them eventually.
-
-🟩
-
-Health and Mass Media Minister Nalinda Jayatissa says drugs should be ordered next year.
-
-However, the Minister said that the operational process is carrying out fast.
-
-The Minister further stated that the people will be given next year.
-
-◼️
-
-[Data](articles/3cf05f15.json)
-
-[Extended Data](ext_articles/3cf05f15.ext.json)
-
----
-
-### Decision to not hold the A / L examination within the next 3 days
-
-*2024-11-26 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203767) · `si`
-
-GCE A/L exam postponed due to heavy rain. Next sessions: Dec 21-23. New schedule announcement expected soon.
-
-🟩
-
-The GCE A / L examination has been temporarily suspended for three days due to heavy rains.
-
-Accordingly, the A / L examination will not be held tomorrow (27), 28 and 29. Amit Jayasundara is informed of all examination candidates.
-
-At a special press conference held at the Department of Examinations this afternoon, the Commissioner General of Examinations HJMC. Mr. Amith Jayasundera said that.
-
-"We will be held on the 21st of December 21,22,23. The schedule is expected to be given in the future. "
-
-"The examination will be held on Saturdays. It is especially that the examination will be held based on the presment schedule of the examination schedule. "
-
-◼️
-
-[Data](articles/3319a0c3.json)
-
-[Extended Data](ext_articles/3319a0c3.ext.json)
-
----
-
-### Ongoing 2024 A/L Exam temporarily suspended
-
-*2024-11-26 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103786/ongoing-2024-al-exam-temporarily-suspended) · `en`
-
-The Examinations Department announced that it has been decided to temporarily suspend the ongoing 2024 G.C.E. Advanced Level Examination.
-
-Accordingly, the subjects which were scheduled to be held on November 27, 28 and 29 have been suspended, the Commissioner General of Examinations Amith Jayasundara said.
-
-Speaking at a special press briefing this evening (26), Jayasundara stated that this decision was taken in view of the prevailing adverse weather conditions.
-
-Furthermore, he highlighted that the exam will re-commence on November 30 (Saturday) and will continue as previously scheduled.
-
-The exams for the subjects which are scheduled on November 27, 28 and 29 will be held on December 21, 22, 23 respectively, according to the Exams Commissioner General.
-
-◼️
-
-[Data](articles/f1ca732d.json)
-
-[Extended Data](ext_articles/f1ca732d.ext.json)
-
----
-
-### Sri Lanka cabinet spokesman says no threats for tourists anymore
-
-*2024-11-26 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-spokesman-says-no-threats-for-tourists-anymore-190028/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet Spokesman Nalinda Jayatissa said there are no security threats to any tourists in the island nation amid an ongoing investigation into a possibility of attack in the Eastern Sri Lankan coastal area of Arugam Bay.
-
-The intelligence information of a possible attack against Jews in an Arugam Bay area was first shared by foreign intelligence agency with the local counterpart and the government swiftly tightened the security to ensure the safety of both locals and foreign tourists.
-
-However, the threat triggered the U.S. Embassy in Colombo to issue travel advisory to its citizens before Israel, Australia, New Zealand, Russia, the United Kingdom, and Canada.
-
-However, later, the US Embassy relaxed the travel advisory after Sri Lanka started investigations into the threat with the arrest of six people.
-
-“So far the security is established and there is no threat to anyone,” Cabinet Spokesman Jayatissa told reporters in the weekly post-cabinet press briefing.
-
-...
-
-[Data](articles/19ae2539.json)
-
-[Extended Data](ext_articles/19ae2539.ext.json)
-
----
-
-### Special press conference on A / L
-
-*2024-11-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203766) · `si`
-
-A special press conference on AI was conducted by Commissioner General of Examinations HJMC. Amit Jayasundara paid tribute to the Department of Examinations.
-
-🟩
-
-Commissioner General of Examinations HJMC. Amit Jayasundara is conducting a special tribute to the Department of Examinations.
-
-◼️
-
-[Data](articles/521b3018.json)
-
-[Extended Data](ext_articles/521b3018.ext.json)
-
----
-
-### Sri Lanka announces launch of ISB exchange after Cabinet approval
-
-*2024-11-26 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103785/sri-lanka-announces-launch-of-isb-exchange-after-cabinet-approval-) · `en`
-
-Sri Lanka has announced the official launch of the exchange of its outstanding International Sovereign Bonds (ISBs) totaling approximately USD 12.55 billion, as of 25 November 2024.
-
-This follows the approval of the terms and conditions of the Invitation by the new Cabinet of Ministers of Sri Lanka, which was formed on 18 November 2024, Sri Lanka’s Ministry of Finance, Planning and Economic Development said in a statement today.
-
-The Finance Ministry stated that the holders of the existing Bonds are invited to tender their Bonds and exchange them for new instruments over a three-week period, with the final deadline set for 12 December 2024.
-
-Furthermore, the statement highlighted that Sri Lanka strongly encourages all holders to participate in the exchange process as early as possible.
-
-...
-
-[Data](articles/b62fb82d.json)
-
-[Extended Data](ext_articles/b62fb82d.ext.json)
-
----
-
-### Prior to 6 CEB proposals on electricity tariff
-
-*2024-11-26 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-ලංවිම-යෝජනා-6දාට-පෙර/11-413289) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-CEB proposes new electricity tariffs; rejects PUC's previous suggestion; submits annual plan for 2025; awaits PUC review.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has issued a statement that the new proposals will be given to the Public Utilities Commission for the reintegration of the proposed telephone tariff.
-
-The CEB is also needed for the annual submission of the new resolution for 2025.
-
-The CEB has rejected the proposal made by the Public Utilities Commission on 24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24.
-
-◼️
-
-[Data](articles/fcedffdc.json)
-
-[Extended Data](ext_articles/fcedffdc.ext.json)
+[Data](articles/8878e261.json)
 
 ---

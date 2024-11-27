@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 03:00:41**
+As of **2024-11-28 02:41:35**
 
 ## Newspaper Stats
 
-*Scraped **57,305** Articles*
+*Scraped **57,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
 economynextcom | 3,486
-dailyftlk | 3,945
+dailyftlk | 3,943
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
@@ -26,39 +26,11 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,303 (100.0%) of 57,305 articles have been extended.
+57,303 (100.0%) of 57,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
-
-### Price of inaction: Sexual harassment’s toll on Sri Lanka’s economy
-
-*2024-11-28 02:46:59* · [`dailyftlk`](https://www.ft.lk/columns/Price-of-inaction-Sexual-harassment-s-toll-on-Sri-Lanka-s-economy/4-769793) · `en`
-
-In the landmark judgment of SriLankan Airlines v PRSE Corea (2024), the Supreme Court of Sri Lanka addressed a longstanding issue predominantly faced by women; sexual harassment in the workplace.1 This ruling emphasises that workplace harassment not only violates fundamental rights but also erodes productivity and morale, resonating deeply with the realities of Sri Lanka’s economy.2
-
-According to a 2022 International Finance Corporation (IFC) survey, workplace harassment costs Sri Lankan companies a staggering $ 1.7 million annually—equivalent to a loss of six workdays per employee.3 The prevalence of the issue has also caused women’s reluctance to join the workforce. A 2016 International Labour Organisation (ILO) questionnaire found that three-fifths of unemployed women would be willing to work if they were assured that they would not be subject to sexual harassment in the workplace.4
-
-...
-
-[Data](articles/e821fd5c.json)
-
----
-
-### Domestic abuse in Sri Lanka: Hidden epidemic
-
-*2024-11-28 02:44:18* · [`dailyftlk`](https://www.ft.lk/columns/Domestic-abuse-in-Sri-Lanka-Hidden-epidemic/4-769792) · `en`
-
-It’s also important to recognise that abuse isn’t always physical. Emotional and financial abuse are often the most insidious forms, leaving scars that can’t be seen but take the longest to heal. Emotional abuse erodes self-esteem and isolates victims, while financial abuse traps them by controlling resources, making it nearly impossible for them to break free. These forms of abuse thrive in silence, perpetuating a cycle of control and helplessness
-
-Domestic abuse is not new to Sri Lanka, but in recent years, it has spiralled into an undeniable crisis. Globally, domestic violence surged during the COVID-19 pandemic, and Sri Lanka saw a significant spike too. The Women and Child Development Ministry reported over a 35% increase in complaints to the 1938 Women’s Helpline in the early months of the pandemic. Yet these numbers barely scratch the surface of the true scale of abuse happening behind closed doors.
-
-...
-
-[Data](articles/92cddb58.json)
-
----
 
 ### Four students were found dead at Mavadipalli, Ampara
 
@@ -2561,5 +2533,51 @@ State officials are responsible for bringing the flood victims to safe places.
 [Data](articles/edc25e05.json)
 
 [Extended Data](ext_articles/edc25e05.ext.json)
+
+---
+
+### Representation and decentralization are essentially necessary
+
+*2024-11-27 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/199805) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+National parties' success in Tamil and Muslim areas marks first-time representation. Ensuring cabinet seats for diverse communities crucial for inclusive governance.
+
+🟩
+
+The national people's power has been in all parts of the country, including the North and East, where Tamils ​​and Muslims live in the parliamentary elections. It has also succeeded in Jaffna in the north. This is the first time a National Party has had such a success. The people of all races and religions have voted for the power of the national people. Therefore, it is imperative to ensure the representation of those communities in the cabinet, which is being made by the most important decisions on the future path of the government.
+
+◼️
+
+[Data](articles/bba655b6.json)
+
+[Extended Data](ext_articles/bba655b6.ext.json)
+
+---
+
+### Inaccurate Weather - 691 people from 193 families in Nuwara Eliya
+
+*2024-11-27 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199826) · `ta`
+
+Nuwara Eliya: 691 affected, 98 homes damaged, 207 displaced. Relief efforts underway.
+
+🟩
+
+Nuwara Eliya District Secretary Nandana Kalada said that 691 people from 193 families have been affected by the inclement weather in the Nuwara Eliya district on Tuesday (26).
+
+He added that 98 houses have been partially damaged due to inclement weather and 207 people from 50 families have been housed in 3 camps.
+
+The district secretary added that necessary steps have been taken to provide relief to the injured.
+
+The District Secretary added that the authorities, including the District Disaster Management Center, are working on providing relief to the students who went through the Kandapalai road that was blocked by the floods yesterday.
+
+◼️
+
+[Data](articles/463cacb7.json)
+
+[Extended Data](ext_articles/463cacb7.ext.json)
 
 ---

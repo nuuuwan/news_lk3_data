@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 05:50:39**
+As of **2024-11-27 06:47:34**
 
 ## Newspaper Stats
 
-*Scraped **57,105** Articles*
+*Scraped **57,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 438
 colombotelegraphcom | 579
 bbccomsinhala | 594
 islandlk | 3,431
-economynextcom | 3,463
-dailyftlk | 3,918
+economynextcom | 3,465
+dailyftlk | 3,939
 dailymirrorlk | 4,733
 adalk | 5,380
 adaderanalk | 6,912
@@ -26,11 +26,393 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,098 (100.0%) of 57,105 articles have been extended.
+57,099 (99.9%) of 57,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
+
+### FIU slaps Rs. 2.7 m combined fines on three entities
+
+*2024-11-27 06:24:00* · [`dailyftlk`](https://www.ft.lk/business/FIU-slaps-Rs-2-7-m-combined-fines-on-three-entities/34-769746) · `en`
+
+Sri Lanka’s regulator for Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT), the FIU said yesterday it collected penalties worth Rs. 2.7 million from May to October 2024 to enforce compliance on Institutions.
+
+The money collected as penalties was credited to the Consolidated Fund.
+
+By virtue of the powers vested under Section 19 (1) read together with section 19 (2) of the Financial Transactions Reporting Act, No. 6 of 2006 (FTRA), penalties are imposed on Institutions for non-compliance with the provisions of the FTRA. The penalty may be prescribed taking into consideration the nature and gravity of relevant non-compliance of the Institutions.
+
+The administrative penalty was imposed for the failure of the Bank to adhere to the FTRA, and rules, regulations and directives issued thereunder as follows;
+
+...
+
+[Data](articles/e2cbc60e.json)
+
+---
+
+### CEB TUs demand bonus before 10 December
+
+*2024-11-27 06:22:47* · [`dailyftlk`](https://www.ft.lk/news/CEB-TUs-demand-bonus-before-10-December/56-769745) · `en`
+
+Say bonuses should be paid to employees as CEB has returned to profitability and is not dependant on treasury for its expenses
+
+Calls for equal bonus amount to be provided to all employees across all levels
+
+Underlines importance of reducing electricity tariffs for people while ensuring fair treatment for CEB employees
+
+Says CEEU’s approach is not adversarial but focused on ensuring Govt. fulfils its commitments
+
+The Ceylon Electricity Employees Union (CEEU) has formally requested Ceylon Electricity Board (CEB) Chairperson Dr. Tilak Siyambalapitiya to ensure that bonuses are paid to all employees by December 10. Citing the CEB’s recent return to profitability, the CEEU has called for an equal bonus amount to be provided to all employees across all levels.
+
+...
+
+[Data](articles/5222ca86.json)
+
+---
+
+### Cabinet Spokesman guarantees CEB bonuses will not hinder tariff relief for electricity users
+
+*2024-11-27 06:20:56* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-Spokesman-guarantees-CEB-bonuses-will-not-hinder-tariff-relief-for-electricity-users/56-769744) · `en`
+
+The Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday guaranteed that the bonuses to the Ceylon Electricity Board (CEB) employees will not hinder the relief promised to the electricity users.
+
+He opined that the CEB should balance administrative responsibilities and trade union negotiations without affecting its commitments to the public or delaying critical decisions.
+
+“Administration is one thing and trade union demands are another,” he said responding to a question raised at the post-Cabinet meeting media briefing yesterday.
+
+He said there is no direct connection between the trade union’s demand and the Board of Directors or the decision-makers.
+
+“Trade unions are simply trying to secure their rights. However, managing these demands, while meeting the PUCSL’s deadline for proposals is the responsibility of the CEB,” he said.
+
+...
+
+[Data](articles/f921679b.json)
+
+---
+
+### BOI Chief meets export industry leaders to address supply chain security and efficiency
+
+*2024-11-27 06:17:53* · [`dailyftlk`](https://www.ft.lk/business/BOI-Chief-meets-export-industry-leaders-to-address-supply-chain-security-and-efficiency/34-769743) · `en`
+
+Board of Investment (BOI) Chairman Arjuna Herath recently met with Sri Lanka Shippers’ Council (SLSC) Chairman Sean Van Dort and representatives from the Joint Apparel Association Forum (JAAF) Secretary General Yohan Lawrence and Brandix Group Head of Logistics Taiyoob Ahamed to discuss critical issues affecting the country’s export industry.
+
+The talks focused on enhancing security measures and operational efficiency to safeguard Sri Lanka’s reputation in the global market.
+
+Pilferage at crucial inspection points was highlighted as a key concern, with the SLSC reporting significant losses due to thefts at the Central Verification Terminal (CVT), allegedly involving Customs and BOI inspection officers, and industry-related wharf representatives. Incidents of theft of high-value merchandise occurring after cargo handovers at the Bandaranaike International Airport (BIA) Cargo Village have also been reported, resulting in international buyers submitting shortage claims.
+
+...
+
+[Data](articles/e088f0c9.json)
+
+---
+
+### Sri Lanka  Economic Summit from 28-29 January
+
+*2024-11-27 06:16:46* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Economic-Summit-from-28-29-January/34-769742) · `en`
+
+Themed “Shaping Sri Lanka’s future: Transformational growth rooted in sound economic policies” will see exceptional line-up of national and international industry leaders, experts as speakers and panellists
+
+The 24th edition of the Sri Lanka Economic Summit organised by The Ceylon Chamber of Commerce will take place on 28 and 29 January at the Shangri La Hotel, Colombo.
+
+...
+
+[Data](articles/635cf0b3.json)
+
+---
+
+### Kosala calls on new Japanese Ambassador
+
+*2024-11-27 06:16:11* · [`dailyftlk`](https://www.ft.lk/business/Kosala-calls-on-new-Japanese-Ambassador/34-769741) · `en`
+
+International Business Council President Kosala Wickramanayake recently paid a courtesy call on the new Japanese Ambassador Akio Isomata in Colombo
+
+◼️
+
+[Data](articles/0472732f.json)
+
+---
+
+### HRW urges President AKD  to reset course on rights
+
+*2024-11-27 06:14:29* · [`dailyftlk`](https://www.ft.lk/news/HRW-urges-President-AKD-to-reset-course-on-rights/56-769740) · `en`
+
+Human Rights Watch says new Govt. needs to address longstanding abuses, impunity
+
+Human Rights Watch (HRW) has urged new President Anura Kumara Dissanayake to address the country’s many human rights problems by fulfilling and building upon pledges he made in recent election campaigns.
+
+HRW said yesterday this call was made via a letter to the President on 18 November.
+
+HRW acknowledged that Dissanayake was elected President on 21 September and on 14 November his National People’s Power coalition won a majority of Parliamentary seats.
+
+...
+
+[Data](articles/8063d5ea.json)
+
+---
+
+### Arrest warrant issued against Jaffna District MP Archchuna Ramanathan
+
+*2024-11-27 06:12:06* · [`dailyftlk`](https://www.ft.lk/news/Arrest-warrant-issued-against-Jaffna-District-MP-Archchuna-Ramanathan/56-769739) · `en`
+
+Colombo Additional Magistrate Manjula Ratnayake, has ordered an arrest warrant for Jaffna District Independent Member of Parliament (MP) Archchuna Ramanathan. The warrant was issued yesterday during a hearing on an ongoing case related to a 2021 incident.
+
+The case involves allegations that the MP assaulted a person following a traffic accident on Baseline Road in Colombo.
+
+This development adds to the legal troubles faced by Dr. Ramanathan, who recently stirred controversy by occupying the opposition leader’s traditional seat during the first session of Sri Lanka’s 10th Parliament.
+
+...
+
+[Data](articles/b2e94af9.json)
+
+---
+
+### Poverty of CBSL’s monetary policies: Part II
+
+*2024-11-27 06:09:04* · [`dailyftlk`](https://www.ft.lk/columns/Poverty-of-CBSL-s-monetary-policies-Part-II/4-769738) · `en`
+
+High domestic interest rates on Government debt, combined with the absence of Central Bank intervention to purchase newly issued debt, will escalate the domestic debt servicing burden
+
+The present article expands on the loss of control by the Central Bank of Sri Lanka (CBSL) of interest rates that we developed in Part I. In Part I the focus was money market or short-term interest rates. In the present article the focus is long-term interest rates, particularly interest rates on long-term Government debt.
+
+The article makes two key points in this regard. Firstly, the CBSL has not only lost control over money market or short-term interest rates, as argued in Part I, but also over long-term interest rates, specifically those on long-term Government debt i.e., on Government debt exceeding one year. Secondly, this loss of control stems partly from the CBSL’s inability to regulate short-term money market rates and partly from the provisions of the new Central Bank Act (CBA) passed in 2023.
+
+...
+
+[Data](articles/8c44700d.json)
+
+---
+
+### Blunder by new Government: No fertiliser to paddy farmers
+
+*2024-11-27 06:02:49* · [`dailyftlk`](https://www.ft.lk/columns/Blunder-by-new-Government-No-fertiliser-to-paddy-farmers/4-769737) · `en`
+
+The current Government’s biggest blunder is the neglect of fertiliser to paddy farmers
+
+Over the past few weeks, TV channel ‘Derana’ reported on a number of occasions, the plight of the paddy farmers in Kurunegala, Anuradhapura, Polonnaruwa, Batticaloa and Amparai districts due to non-availability of fertiliser for their paddy cultivation. But the Government TV channels were silent over the issue.
+
+Maha rainy season started in early October as usual and will continue until early January. Rains start in early October during the evenings and intensity will increase reaching a maximum in December and rains will end in early January, allowing the farmers to harvest from late January onwards.
+
+The paddy farmers prepare fields after first rains having softened the grounds, mostly with tractors. With increase in rains, fields become muddy and are prepared for sowing of seed paddy generally in early November.
+
+...
+
+[Data](articles/a980aeaf.json)
+
+[Extended Data](ext_articles/a980aeaf.ext.json)
+
+---
+
+### New regime and its representation problem
+
+*2024-11-27 05:57:48* · [`dailyftlk`](https://www.ft.lk/columns/New-regime-and-its-representation-problem/4-769735) · `en`
+
+The symbolic exclusion signalled by the missing Muslim at the highest level of governance is significant and no amount of patronising rhetoric about our collective Sri Lankanness is going to address this sense of exclusion
+
+The change that the new election has brought to the country is unprecedented. We have a woman Prime Minister (that many of us in the academic and activist communities know) and we have several young women in Parliament. Historically, since independence, we have only had 5% representation at any given moment. Now we have close to 10%. And that too through elections and only one through the national list.
+
+...
+
+[Data](articles/291ced4c.json)
+
+---
+
+### Entrepreneurship in the 21st century
+
+*2024-11-27 05:52:56* · [`dailyftlk`](https://www.ft.lk/columns/Entrepreneurship-in-the-21st-century/4-769733) · `en`
+
+Last week marked Global Entrepreneurship Week; with our world on the brink of catastrophe in so many respects – conflict, climate, inequality – we have never needed the involvement of youth in defining entrepreneurial solutions to these problems, more than now. I was privileged to join the NIBM School of Business in exploring what entrepreneurship looks like from a practitioner’s perspective.
+
+The good news is that everyone wants to be an entrepreneur. Less good is the reality that few know how. Most have gone through the motions – marketing, business administration, new media, and their social media dramatically quotes great entrepreneurs. One explains, ‘anything is possible’, another, ‘make the climb without the rope,’ and ‘let’s punch today in the face.’
+
+...
+
+[Data](articles/24e955f1.json)
+
+---
+
+### Unveiling the silent stakeholder: Call for farm animal welfare in sustainability reporting
+
+*2024-11-27 05:44:21* · [`dailyftlk`](https://www.ft.lk/columns/Unveiling-the-silent-stakeholder-Call-for-farm-animal-welfare-in-sustainability-reporting/4-769732) · `en`
+
+By recognising farm animals as silent stakeholders in their value chains, companies can drive meaningful change that resonates with societal values and global standards
+
+A ground-breaking study by researchers Saviesha Samaraweera and Isuru Manawadu from the University of Sri Jayewardenepura sheds light on an overlooked dimension of corporate responsibility in Sri Lanka
+
+...
+
+[Data](articles/c564a1c0.json)
+
+---
+
+### Cabinet nod to present Interim Budget for first four months  of 2025
+
+*2024-11-27 05:37:19* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-present-Interim-Budget-for-first-four-months-of-2025/34-769731) · `en`
+
+The Cabinet of Ministers on Monday approved the formulation of an Interim Budget to cover the Government’s expenses during the first four months of 2025.
+
+It will focus on relevant expenses for Government recurrent and capital expenses, public debt servicing, and loan restructuring.
+
+The move comes as the new Parliament which convened on 21 November lacked sufficient time to complete the constitutional steps required for passing the full Appropriation Bill for 2025.
+
+Therefore, as stipulated in sub-section 23(1) of the Public Finance Management Act No 44 of 2024, an interim Budget should be submitted to Parliament to allocate provisions for the continuation of currently implemented projects and public services for the first 4 months of 2025.
+
+The proposal to this effect presented by the President Anura Kumara Dissanayake in his capacity as Finance, Planning and Economic Development Minister was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/749e1665.json)
+
+---
+
+### High creditor participation in Sri Lanka ISB exchange vital: IMF’s Georgieva
+
+*2024-11-27 05:37:00* · [`economynextcom`](https://economynext.com/high-creditor-participation-in-sri-lanka-isb-exchange-vital-imfs-georgieva-190109/) · `en`
+
+ECONOMYNEXT – High creditor participation in an exchange of defaulted sovereign bonds for new securities is vital for the success of the International Monetary Fund program for Sri Lanka, Managing Director Kristalina Georgieva has said.
+
+A debt exchange launched on November 27, will provide significant external debt service relief and further contribute to restore Sri Lanka’s debt sustainability, and was as step forward, she said.
+
+“To capitalize on this momentum, rapid completion of the debt operation with high creditor participation would be vital for the success of the program,” Georgieva said in a statement.
+
+“In parallel, the authorities continue to finalize other remaining debt restructuring agreements. This collective effort is key to supporting the success of Sri Lanka’s debt restructuring efforts.”
+
+...
+
+[Data](articles/059a06ab.json)
+
+---
+
+### Singapore’s BB Energy gets 6-month diesel supply contract
+
+*2024-11-27 05:36:39* · [`dailyftlk`](https://www.ft.lk/business/Singapore-s-BB-Energy-gets-6-month-diesel-supply-contract/34-769730) · `en`
+
+The Cabinet of Ministers on Monday approved awarding contract to supply diesel for six months starting 15 December 2024, to Singapore’s BB Energy (Asia) Ltd., following competitive bids.
+
+The Government said the move follows bids called from registered suppliers of Ceylon Petroleum Corporation (CPC).
+
+It said bids called from the registered suppliers of CPC for the long-term contract to import four shipments of diesel (0.05% M/S) for a period of six months from 15 December 2024 to 14 June 2025.
+
+It added that out of six bidders, BB Energy (Asia) Ltd., was selected to award the contract based on the recommendations of a Special Standing Procurement Committee appointed by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/6e0fc361.json)
+
+---
+
+### Ceylon Chamber welcomes staff-level agreement for 3rd review of IMF program
+
+*2024-11-27 05:35:48* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-welcomes-staff-level-agreement-for-3rd-review-of-IMF-program/34-769729) · `en`
+
+The Ceylon Chamber of Commerce yesterday welcomed the announcement of a staff-level agreement for the third review under the International Monetary Fund (IMF) Extended Fund Facility program for Sri Lanka.
+
+“This agreement underscores the progress the country has made in implementing structural reforms and achieving fiscal sustainability during this critical period of economic recovery. While acknowledging the progress made, it is important to continue the reform momentum and build on the progress made while unlocking key constraints that bind long term sustainable growth,” the Chamber said in a statement.
+
+“The Chamber looks forward to the Government meeting the requirement for disbursement by the Board of the IMF,” It added
+
+◼️
+
+[Data](articles/b4a1a599.json)
+
+---
+
+### Public confidence in major institutions increases after Presidential poll: Survey
+
+*2024-11-27 05:35:14* · [`dailyftlk`](https://www.ft.lk/business/Public-confidence-in-major-institutions-increases-after-Presidential-poll-Survey/34-769728) · `en`
+
+Polling by the Institute for Health Policy’s Sri Lanka Opinion Tracker Survey (SLOTS) has revealed significant improvements in Sri Lankans’ confidence in institutions following the Presidential Election in September 2024.
+
+IHP said the Supreme Court remains the most trusted institution, followed by the courts and tri forces.
+
+Confidence in the Supreme Court and courts more than doubled, rising from 30% before the election to 72% and 62%, respectively, afterward.
+
+Similarly, confidence in trade unions and parliament showed positive shifts following the Presidential Election. However, confidence in the Police remained relatively unchanged, with 32% expressing little or no confidence, IHP said.
+
+◼️
+
+[Data](articles/d1229309.json)
+
+---
+
+### Bus owner arrested and route permit revoked following passenger assault
+
+*2024-11-27 05:34:20* · [`dailyftlk`](https://www.ft.lk/news/Bus-owner-arrested-and-route-permit-revoked-following-passenger-assault/56-769727) · `en`
+
+Moratuwa Police have arrested a bus owner along with three others over the assault of a passenger on 24 November. In response to the incident, the Western Province Road Passenger Authority has also cancelled the route permit of the bus as well as the permits of the driver and conductor involved.
+
+The assault had occurred on the evening of 24 November, involving the victim, Chesika Gunarathne, who was travelling on bus ND 3993 operating on Route 255 between Kottawa and Mount Lavinia.
+
+According to Gunarathne’s police complaint, the issue began when the bus halted at the Piliyandala bus stop for over 30 minutes to collect passengers. When frustrated passengers protested the delay, the conductor had allegedly responded with verbal abuse.
+
+...
+
+[Data](articles/f7082487.json)
+
+---
+
+### Cabinet approved Rs. 219.37 b supplementary estimate  for remaining 2024 expenses
+
+*2024-11-27 05:34:00* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approved-Rs-219-37-b-supplementary-estimate-for-remaining-2024-expenses/56-769726) · `en`
+
+The Cabinet of Ministers at its meeting on Monday approved a supplementary estimate of Rs. 219,373 million to be presented to Parliament to cover essential expenditures and manage the remaining financial obligations for 2024.
+
+“The supplementary estimate allows for adjustments within the approved expenditure framework, ensuring that overall expenditure limits and the maximum Government debt ceiling are not exceeded,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said.
+
+Speaking at the weekly post-Cabinet meeting media briefing, he said this resolution will now proceed to Parliament for approval enabling the Government to allocate the necessary resources for identified functions during the remaining period of the fiscal year, which include;
+
+...
+
+[Data](articles/569f5f2f.json)
+
+---
+
+### A pedestrian and vehicles move along a flooded street in Colombo
+
+*2024-11-27 05:33:34* · [`dailyftlk`](https://www.ft.lk/news/A-pedestrian-and-vehicles-move-along-a-flooded-street-in-Colombo/56-769725) · `en`
+
+A pedestrian and vehicles move along a flooded street in Colombo, Sri Lanka yesterday. Heavy rains were experienced across the island due the deep depression which is expected to develop in to a cyclonic storm. Some 77, 000 people have been affected by rain in country
+
+◼️
+
+[Data](articles/738bfe59.json)
+
+---
+
+### Fitch puts Adani firms on rating watch on governance, Sri Lanka reviews deals
+
+*2024-11-27 05:26:00* · [`economynextcom`](https://economynext.com/fitch-puts-adani-firms-on-rating-watch-on-governance-sri-lanka-reviews-deals-190126/) · `en`
+
+ECONOMYNEXT – Several Adani group firms have been put on negative rating watch by Fitch as Sri Lanka said it has called for reports on the group’s projects in the country following bribery charges being filed in the US linked to a solar project in India.
+
+Adani Ports and Special Economic Zone Limited’s (APSEZ), which is involved in a port terminal in Sri Lanka has been put on rating watch negative along with bond sold by North Queensland Export Terminal Pty Ltd and Mumbai International Airport Limited.
+
+The outlooks of two special purpose vehicles linked to Adani Green Energy Limited, which has been awarded a wind power project without tender in Sri Lanka has been cut to negative.
+
+“While the US indictment mainly involves AGEL’s key leadership, the proceedings and the outcome could reflect significantly weaker corporate governance practices of the group and can lead to further negative rating actions,” Fitch Ratings said.
+
+...
+
+[Data](articles/73ece48c.json)
+
+---
+
+### One dead, over 70,000 affected due to heavy rains
+
+*2024-11-27 05:22:55* · [`dailyftlk`](https://www.ft.lk/news/One-dead-over-70-000-affected-due-to-heavy-rains/56-769720) · `en`
+
+Due to the heavy rainfall across the country, 77,670 persons belonging to 22,532 families have been affected, with one death reported, the Disaster Management Centre (DMC) said yesterday.
+
+DMC Media and Public Relations Assistant Director Janaka Handunpathiraja, stated that these individuals and families have been impacted in 103 Divisional Secretariat Divisions across 15 Districts.
+
+Five injuries have been reported. Six houses were completely damaged and 265 houses partially damaged.
+
+As a result of the disaster 2,770 persons from 821 families have been relocated to 35 safe locations, he added.
+
+◼️
+
+[Data](articles/fa336e99.json)
+
+---
 
 ### President to make first official visit to India in December
 
@@ -1913,557 +2295,5 @@ The CEB has rejected the proposal made by the Public Utilities Commission on 24/
 [Data](articles/fcedffdc.json)
 
 [Extended Data](ext_articles/fcedffdc.ext.json)
-
----
-
-### The rice ready to change the information and released to the market
-
-*2024-11-26 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203765) · `si`
-
-Rice recall: 3925kg altered info seized. Imported rice relabeled from Jan 2024 to June 2024. Planned distribution for festivals. Consumer Affairs Authority takes action.
-
-🟩
-
-Produced date of 3,925 kilograms of rice, which was carried out two and a half years ago, has been recovered during a raid conducted by the Consumer Affairs Authority.
-
-It is said that the product date and the relevant information were changed and the imported rice had been prepared to be released to the market.
-
-The raid was carried out by the officers of the Consumer Affairs Authority yesterday (25).
-
-The manufactured date mentioned by the manufacturer of the rice packaged in the 25KG packaging of India is recorded as January.As a June 2024, the rice had been issued to the market with another labelling.
-
-It has been revealed that the rice has been planned to distribute the robbery in the next festive season, keeping secretly to the stores of Colombo 14.
-
-The cost of the Consumer Affairs Authority has been taken into custody with 25KG packs with modified date of rice.
-
-...
-
-[Data](articles/b2cdddaa.json)
-
-[Extended Data](ext_articles/b2cdddaa.ext.json)
-
----
-
-### Magic
-
-*2024-11-26 17:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-நீரில்-சிக்கி-ஒருவர்-மாயம்/175-347810) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Floods hit Batticaloa: roads submerged, 522 displaced, transport disrupted. Trees fallen, ponds overflowing. Rain damage reported in Vavuniya. Normal life affected, schools struggling.
-
-🟩
-
-The incident in Batticaloa has been reported in Batticaloa.
-
-While the main tumbler of the Mandur, the flooding of the road is flooded at a height of 4 feet;As he tried to pass it, the man pulled the flood water and disappeared
-
-In addition, 522 persons from 161 families in the Padippalai, Kattankudi, Koralaipattu Gran, Manmunai North, Eravurpattu Chengaladi and Divisional Secretariat Division have sought refuge in relatives' homes and traffic has been stopped due to the opening of the ponds.
-
-This series of rains have caused floodwaters in many lowland areas of the district and the trees in the streets have been broken in many areas.
-
-Meanwhile, the transport between Wellave and Mandur, the transport between Vavunathivu and Batticaloa, the traffic between the Gran and the Pulipanagal area has been cut off.
-
-The water level of the ponds in the district of the Navagiri pond, Vaveri Pond, Kitulkulam, Veliyakandi Pond, Vadamunaikulam, Punanikulam, etc.
-
-...
-
-[Data](articles/e02bf3ed.json)
-
-[Extended Data](ext_articles/e02bf3ed.ext.json)
-
----
-
-### The deep winds of the low -lying zone were formed
-
-*2024-11-26 17:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆழ்ந்த-காற்றழுத்த-தாழ்வு-மண்டலம்-உருவாகியது/175-347809) · `ta`
-
-Deep winds form in southwest Bengal Sea. Red warning issued for coastal areas. Storm may hit eastern coast tomorrow, bringing heavy rain and strong winds to several provinces. Heavy rainfall expected in northern, central, and southern regions. Over 100mm rainfall predicted in some areas.
-
-🟩
-
-The Department of Meteorology has issued a red warning to be careful with the deep and shallow waters and lands around the country.
-
-The southwestern Bengal Sea has become a deep winds of winds.
-
-The organization, which is located in the southeast direction of 170 km from Batticaloa and 240 km from Trincomalee at around 11.00 am today (27), is likely to move the country's eastern coast and become a hurricane tomorrow (27).
-
-As a result of this, the sky is cloudy in many parts of the country, and heavy rain and strong winds can blow in the North, North Central, Eastern, Eastern, Uva, Northwest and Central Provinces.
-
-In most parts of the country, there is occasional rain or thunderstorms.
-
-Heavy rains are expected in some parts of the North, North Central, Eastern, Central, Uva and Southern Provinces and Puttalam district.
-
-More than 100 millimeters of heavy rainfall in some parts of the country. Remble
-
-◼️
-
-[Data](articles/11ced2d3.json)
-
-[Extended Data](ext_articles/11ced2d3.ext.json)
-
----
-
-### Sri Lanka new govt yet to discuss lifting ban on Chinese research ships
-
-*2024-11-26 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-yet-to-discuss-lifting-ban-on-chinese-research-ships-190016/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new cabinet of President Anura Kumara Dissanayake has yet to discuss removing a temporary one-year ban on Chinese vessels coming to Sri Lanka waters, Cabinet Spokesman Nalinda Jayatissa said.
-
-The ban was imposed by former leader Ranil Wickremesimghe’s government in December last year. A Foreign Ministry spokesperson said the ban was for 2024 and will end on December 21 this year.
-
-The decision to ban research ships was taken following strong security concerns raised by India citing possible spying by foreign research vessels in the Indian Ocean, government officials have said.
-
-When asked if the new government would lift the ban, the Cabinet Spokesman said: “We didn’t discuss it in the last cabinet. I will answer this next time.”
-
-...
-
-[Data](articles/733e0f37.json)
-
-[Extended Data](ext_articles/733e0f37.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 291.10/20 to dollar, bonds down
-
-*2024-11-26 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-10-20-to-dollar-bonds-down-190012/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.10/20 to the US dollar on Tuesday from 291.25/35 to the US dollar on Monday dealers said, while bond yields were down.
-
-A bond maturing on 15.09.2027 closed at 10.65/75 percent, down from 10.80/85 percent.
-
-A bond maturing on 15.09.2029 closed at 11.20/40 percent, down from 11.35/50 percent.
-
-The central bank announced it will issue 125 billion treasury bills at an auction on Wednesday, and 205 billion rupees in treasury bonds at an auction on November 28. (Colombo/Nov26/2024)
-
-◼️
-
-[Data](articles/04f13816.json)
-
-[Extended Data](ext_articles/04f13816.ext.json)
-
----
-
-### 91 more to Korea today
-
-*2024-11-26 17:09:46* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-91ක්-අද-කොරියාවට/11-413287) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-91 Sri Lankans, incl. 1st Sri Lankan, depart for S. Korea today. 889th batch for jobs in manufacturing, fishing, & construction. 5,421 Sri Lankans employed in S. Korea this month.
-
-🟩
-
-Another 91 youths, including another Sri Lankan youth, will leave for South Korea today (11/26).This group was 889th of the job in South Korea.
-
-Understanding Bureau of Memorandum of Memorandum of Sri Lanka and the South Korean Human Resources Development Institute, 5421 Sri Lankans have been employed in South Korea products, fisheries and construction areas for this month..I appreciate your support for our media activities.
-
-◼️
-
-[Data](articles/ebf12ffc.json)
-
-[Extended Data](ext_articles/ebf12ffc.ext.json)
-
----
-
-### Deduru Oya valley warning to people living in lowlands
-
-*2024-11-26 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203764) · `si`
-
-Flood warning issued for lowland areas near Deduru Oya due to heavy rainfall and reservoir release. Residents advised to take precautions and follow evacuation instructions if necessary.
-
-🟩
-
-The next few hours have warned that flooding could cause floods in the lowland areas of Deduru Oya, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw, Chilaw and Rasnadupura.
-
-The warning has been issued in accordance with the analysis of the water level in the river water level in the Deduru Oya Basada bask.
-
-Some areas in the Deduru Oya basin have received a significant rainfall so far and the Deduru Oya reservoir, which is maintained by the Irrigation Department, is released from nearly 18,000 cubic feet of water.
-
-According to the water capacity of the reservoir, this size can be further increased at night (26).
-
-The vehicles traveling through the public and areas of the area are requested by the people and areas residing in these areas.
-
-The Department of Irrigation has requested to take necessary action to take action.
-
-◼️
-
-[Data](articles/28eb2d83.json)
-
-[Extended Data](ext_articles/28eb2d83.ext.json)
-
----
-
-### Maithri Murti Thero appointed General Secretary of the Amarapura Maha Nikaya
-
-*2024-11-26 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203763) · `si`
-
-Maithri Murti Thero appointed General Secretary Amarapura Maha Nikaya High Court General Sri Lanka
-
-🟩
-
-The Maithri Uyangoda Mahingoda Mahindhi Mahindhi Mahindhi Mahindhi Mahindhi Mahiyagoda Mahiyagoda Mahiyagoda Mahilagoda Uyangoda Murti, Karagoda Uyangoda, has been elected to the post of High Court General of Sri Lanka Amarapura Maha Nikaya.
-
-The meeting was held at the Saliyawanta Troparization Temple with the participation of the Amarapura Maha Sect.
-
-◼️
-
-[Data](articles/136d02df.json)
-
-[Extended Data](ext_articles/136d02df.ext.json)
-
----
-
-### The statement of the Public Defense Minister's statement changed
-
-*2024-11-26 16:55:21* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-ආරක්ෂක-ඇමතිගේ-ප්‍රකාශයේ-අර්ථය-වෙනස්-කරලා/11-413285) · `si`
-
-Here's a 200-character summary of the statement:
-
-
-
-Public Defense Minister Ananda Wijepala clarifies LTTE ban, denies glorifying death celebrations, emphasizes organization prohibition.
-
-🟩
-
-"The Malition Sent News which says that the LTTE is a banned organization," the LTTE is not hindered by banners, photos, photographs and photographs of the dead. "Web pages are being propagated by web pages and said the Ministry said.
-
-However, the statement made by Hon.
-
-Mr. Ananda Wijepala, Minister of Public Defense and Parliamentary Affairs, said: "The LTTE is not likely to be able to celebrate the death of a relative of a relative.He is.
-
-He further stated that the LTTE is a banned organization. Whether he is the North, the North, is the right to death, that the child has the right to remembrance of one child, but it will not allow the society to convince the absolute establishment of an organization.
-
-Accordingly, the mutilated news of the Minister of Defense and the Minister of Parliamentary Affairs is kindly requested to correct the news.
-
-◼️
-
-[Data](articles/a085710c.json)
-
-[Extended Data](ext_articles/a085710c.ext.json)
-
----
-
-### New Mahanayake Thero of Amarapura Chapter appointed
-
-*2024-11-26 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103784/new-mahanayake-thero-of-amarapura-chapter-appointed-) · `en`
-
-Most Venerable Karagoda Uyangoda Maithri Murthi Thero has been appointed the Mahanayake Thero of the Amarapura Chapter.
-
-◼️
-
-[Data](articles/0c11599f.json)
-
-[Extended Data](ext_articles/0c11599f.ext.json)
-
----
-
-### 70000 tons of Nadu rice imports
-
-*2024-11-26 16:49:35* · [`adalk`](https://www.ada.lk/breaking_news/නාඩු-සහල්-ටොන්-70000ක්-ආනයනය-කරයි/11-413284) · `si`
-
-Sri Lanka Cabinet approves importing 70,000 metric tons of Nadu rice to stabilize local market prices. Rice will be distributed systematically based on demand through Quality and Co-operatives. Import done via international bidding process.
-
-🟩
-
-Cabinet spokesperson Minister Nalinda Jayatissa said that the Cabinet was approved to import 70,000 metric tons of nadu rice in the local market.
-
-The Minister was speaking at a press briefing to inform the Cabinet Decisions held today.
-
-The Minister gradually issues the rice systematically through the Quality and Co-operatives according to the local market requirement.
-
-The Minister added that this program will be implemented to control the local farmer to control the price of rise.
-
-The importation of these rice is done in accordance with an international bidding call.
-
-◼️
-
-[Data](articles/73144abb.json)
-
-[Extended Data](ext_articles/73144abb.ext.json)
-
----
-
-### Government explains about Veyangoda treasure hunting
-
-*2024-11-26 16:41:09* · [`adalk`](https://www.ada.lk/breaking_news/වේයන්ගොඩ-නිදන්-හෑරීම-ගැන-රජයෙන්-පැහැදිලි-කිරීමක්/11-413283) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: Government clarifies Veyangoda treasure hunt controversy. Cabinet Minister Nalin Jayatissa explains excavation ordered by Attanagalla Magistrate's Court. Several teams involved, arrests made. Archaeological department denies involvement. Government denies responsibility, claims action based on court order.
-
-🟩
-
-At the press conference, Cabinet spokesman Minister Nalin Jayatissa explained the Cabinet Decision informed of the controversial vey.
-
-The Minister said that this excavation was carried out by the Attanagalla Magistrate's Court.
-
-"Several teams have been carried out with treasures in this place. The Department of Archeology had not said that there was no single way.
-
-Several people were arrested and produced before court. This court may have given the order.
-
-This is not really the government or police or police. Baca was placed in terms of the order given by the magistrate. We don't believe that things are there. "
-
-◼️
-
-[Data](articles/e37af7b9.json)
-
-[Extended Data](ext_articles/e37af7b9.ext.json)
-
----
-
-### ISB committee urge all holders to join Sri Lanka GDP-linked bond exchange
-
-*2024-11-26 16:37:00* · [`economynextcom`](https://economynext.com/isb-committee-urge-all-holders-to-join-sri-lanka-gdp-linked-bond-exchange-189994/) · `en`
-
-ECONOMYNEXT – A committee of bondholders who negotiated with Sri Lanka to restructure defaulted bonds for GDP-linked new bonds, the first of its kind, have said they will take up the new bonds and urged all other holders to participate.
-
-The steering committee of the so-called ad-hoc group of bond holders own about 40 percent of 12.55 billion dollars of defaulted bonds while a group of local bondholders including banks have around 12 percent.
-
-The Steering Committee said it is made of funds managed or advised by Amundi Asset Management, Barings LLC, BlackRock and its subsidiaries, Eaton Vance Management, Fidelity International, Grantham, Mayo, Van Otterloo & Co. LLC, HBK Capital Management, Morgan Stanley Investment Management, Neuberger Berman, T. Rowe Price Associates, Inc., and Wellington Management.
-
-...
-
-[Data](articles/01ce55bd.json)
-
-[Extended Data](ext_articles/01ce55bd.ext.json)
-
----
-
-### Mahaweliu Galai - Polonnaruwa - Batticaloa road closed
-
-*2024-11-26 16:31:44* · [`adalk`](https://www.ada.lk/breaking_news/මහවැලිගඟ-මනම්පිටියෙන්-පිටාර-ගලයි---පොලොන්නරුව---මඩකලපුව-මාර්ගය-වසයි/11-413282) · `si`
-
-Polonnaruwa-Batticaloa road closed due to Mahaweli River overflow. Alternative route: Dehiattakandiya Bakandiya road. Inquiry ongoing to open second channel. Nighttime operations planned.
-
-🟩
-
-The Polonnaruwa Management Officer, the Polonnaruwa main road has been completely stopped due to the influence of the Mahaweli River from the Manampitiya area.
-
-The Polonnaruwa Disaster Management office will inform the public that the Dehiattakandiya Bakandiya Bakandiya road can be used as alternative routes.
-
-The Polonnaruwa Iriya Iriya Iari River Sumpart is an inquiry into the Mahaweli River to open a second fourth foot annihilation to the Mahaweli River.
-
-Atbekokara said he will open three feet three feet at night.
-
-◼️
-
-[Data](articles/6041e061.json)
-
-[Extended Data](ext_articles/6041e061.ext.json)
-
----
-
-### Cabinet approval to restructure international code
-
-*2024-11-26 16:27:58* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-සෛවරීත්ව-බැඳුම්කර-ප්‍රතිව්‍යුහගත-කිරීමට-කැබිනට්-අනුමැතිය/11-413281) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Cabinet approves plan to reorganize international codes and denominations. This decision aims to streamline processes and improve efficiency across various sectors. The restructuring will likely impact how countries handle financial transactions, trade agreements, and regulatory compliance.
-
-🟩
-
-The Cabinet has approved a proposal to restructure the denomination of denominations regarding the restructuring process.
-
-◼️
-
-[Data](articles/d593e3fc.json)
-
-[Extended Data](ext_articles/d593e3fc.ext.json)
-
----
-
-### ‘Red’ alert issued as deep depression intensifies near Sri Lanka
-
-*2024-11-26 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103783/red-alert-issued-as-deep-depression-intensifies-near-sri-lanka) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert warning for the land and the deep and sallow sea areas around the island due to the deep depression over Southwest Bay of Bengal.
-
-As per the warning, the depression over the southwest Bay of Bengal has intensified into a deep depression. The system was located to southeast about 170 km of Batticaloa and 240 km of Trincomalee at around 11:00 a.m. of November 26, 2024.
-
-It is likely to move closer to the east coast of the island and intensify further into a cyclonic storm on November 27, the advisory said.
-
-Under influence of the system cloudy skies will prevailed over most parts of the island, very heavy showers and strong gusty winds can be expected in Northern, North-central, Eastern, Uva, North-western and Central provinces.
-
-...
-
-[Data](articles/3c190e92.json)
-
-[Extended Data](ext_articles/3c190e92.ext.json)
-
----
-
-### Current bungalows shut down
-
-*2024-11-26 16:21:39* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-බංග්ලා-කිහිපයක්-වසා-දමයි/11-413280) · `si`
-
-Wildlife Tourism bungalows closed due to inclement weather. National Park Bungalow, Thaggamuwa National Park Bungalow, Thaggaswada Bungalow affected. Department of Wildlife takes steps to address closures and floods.
-
-🟩
-
-Due to the prevailing inclement weather, the Wildlife Tourism bungalow has decided to be closed again until several wildlife bungalows.
-
-The Department says the Mahaweli circuit bungalow of the National Park Bungalow, Thaggamuwa National Park Bungalow, Thaggaswada Bungalow, Thaggamuwa National Pardon, Thaggamuwa National Pardon, Thagamuwa National Parda.
-
-The Department of Wildlife added that steps have been taken to close the inclement weather and floods in the island these days.
-
-◼️
-
-[Data](articles/c3107871.json)
-
-[Extended Data](ext_articles/c3107871.ext.json)
-
----
-
-### "If you do not appoint as an MP, I will be able to self -indulgent"
-
-*2024-11-26 16:15:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியாக-நியமிக்காவிடில்-தன்னுயிரை-மாய்ப்பேன்/175-347807) · `ta`
-
-Dushara Hindu threatens suicide if not appointed MP via National List. Party leader Sajith Premadasa urged to consider his request. Similar demands from other former parliamentarians like Sujeewa Senasinghe. Political pressure mounts for appointments.
-
-🟩
-
-Former United People's Power Member of Parliament Dushara Hindu said that he would commit suicide if he did not appoint him to Parliament by the National List.
-
-“I got more than 40,000 preferential votes in the general election this year. So, to hire me from the national list. I have already spoken to party leader Sajith Premadasa and I hope he will listen to my request. If I do not appoint me to the congregation, I will end my life. ”
-
-The party leader has become an orphaned, as many are demanding the appointment of themselves through the national list.
-
-Former parliamentarian Sujeewa Senasinghe has also said that he should be placed on the national list as the party leader's promise.
-
-“I was asked not to contest the election from Kandy, the party leadership promised me to appoint me from the national list. Therefore, I am eligible to be appointed from the national list, ”said Sujeewa Senasinghe.
-
-◼️
-
-[Data](articles/cdade714.json)
-
-[Extended Data](ext_articles/cdade714.ext.json)
-
----
-
-### Two suspects arrested with 86 km of narcotics
-
-*2024-11-26 16:14:49* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝග්‍රෑම්-86ක්-සමග-පුද්ගලයන්-දෙදෙනෙකු-අත්අඩංගුවට/11-413279) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 suspects caught w/86km drugs in Kotaraka: 29kg heroin & 57kg morphine seized."
-
-🟩
-
-Two persons were arrested in the Kotaraka area with 86 km of drugs.
-
-There were 29 kilograms of heroin and 57 kilograms of heroin were found in possession of seized persons.
-
-◼️
-
-[Data](articles/9ab92e8a.json)
-
-[Extended Data](ext_articles/9ab92e8a.ext.json)
-
----
-
-### If not handed over income and expenditure reports in general
-
-*2024-11-26 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203762) · `si`
-
-Elections Commission mandates candidates submit income-expenditure reports within 21 days post-election. Failure to comply may result in police complaints. Reports due December 6th to Election District Selection Officer.
-
-🟩
-
-The Elections Commission says that the candidates who contested at the General Election should be handed over to their income and expenditure records.
-
-Commissioner General Saman Sri Ratnayake said,
-
-"The general election was held on November 14, 2024. On the 15rd of the 15th. The candidates of all parties and independent groups contesting within 21 days of the results of 21 days have been united. "
-
-"And those political parties and independent groups must hand over their income more expenses. These reports should be handed over to the Selection Officer of the Elections in the Elections in the Election District which was contesting before December 6 or day. "
-
-"It is necessary to complain to the police regarding candidates who cannot accept income and expenses before December 6 or previous."
-
-◼️
-
-[Data](articles/d42d1587.json)
-
-[Extended Data](ext_articles/d42d1587.ext.json)
-
----
-
-### Magic
-
-*2024-11-26 16:08:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரட்டையரில்-ஒருவர்-மாயம்/175-347806) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Missing: 21-year-old Sanuka Kimbara Perera, student at German Technical Training College, Moratuwa. Disappeared while sleeping in cot with twin brother in Millennium area. Parents reported eldest son missing when waking up at 4:30 AM on Monday.
-
-🟩
-
-The sudden disappearance of the other brother who was sleeping in the same cot with a twin brother has taken place in the Millennium area.
-
-The missing was 21 -year -old Sanuka Kimbara Perera, a 21 -year -old study at the German Technical Training College, Moratuwa, Palladudawa, Bandaragama.
-
-The twin brothers had gone to their room as usual on Sunday (24) and went to their room.
-
-According to a complaint lodged by the parents that the eldest son was missing when the two sons looked at the room where the two sons were asleep, when the door of the mother's house was open to the two men who woke up to cook for food at around 4.30 am on Monday (25).
-
-◼️
-
-[Data](articles/0ff1a89f.json)
-
-[Extended Data](ext_articles/0ff1a89f.ext.json)
-
----
-
-### STF nabs two with over 86kg of ‘Ice’ and heroin in Padukka
-
-*2024-11-26 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103782/stf-nabs-two-with-over-86kg-of-ice-and-heroin-in-padukka) · `en`
-
-The Police Special Task Force (STF) has arrested two individuals who were in the possession of a total of more than 86 kilograms of narcotic substance in the Watareka area in Padukka.
-
-Police said that a stock of 57 kilograms and 380 grams of ‘Ice’ drugs (Crystal Methamphetamine) and 29 kilograms and 750 grams of heroin was found in the possession of the arrested suspects.
-
-The arrested individuals, aged 41 and 37, have been identified as residents of Borella and Thalawathugoda areas, according to police.
-
-◼️
-
-[Data](articles/c7c02ded.json)
-
-[Extended Data](ext_articles/c7c02ded.ext.json)
-
----
-
-### 86 kilograms of drugs uncovered in Padukka
-
-*2024-11-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203761) · `si`
-
-Large drug bust in Sri Lanka: Police find 86kg of ice and heroin, arrest two suspects aged 41 and 37.
-
-🟩
-
-A large haul of drugs have been found at the Special Task Force in the Kotaraka area in Kotukara.
-
-Police said that 57 kg of ice drugs and 29 kilos of heroin were found.
-
-Two suspects were arrested and residents of age 41 and 37th Borella and Talawatugoda.
-
-◼️
-
-[Data](articles/c886535c.json)
-
-[Extended Data](ext_articles/c886535c.ext.json)
 
 ---

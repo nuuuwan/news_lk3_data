@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 08:54:15**
+As of **2024-11-27 07:30:37**
 
 ## Newspaper Stats
 
-*Scraped **57,134** Articles*
+*Scraped **57,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,431
 economynextcom | 3,465
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,383
+adalk | 5,380
 adaderanalk | 6,912
-tamilmirrorlk | 8,122
+tamilmirrorlk | 8,119
 virakesarilk | 9,312
 adaderanasinhalalk | 9,863
 
@@ -26,113 +26,11 @@ adaderanasinhalalk | 9,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,111 (100.0%) of 57,134 articles have been extended.
+57,101 (100.0%) of 57,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
-
-### Malama Secretary falls to the pond of parliamentary water
-
-*2024-11-27 08:06:57* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-ලේකම්ගේ-මෝටර්-රිය-පාර්ලිමේන්තු-ජල-පොකුණට-වැටෙයි/11-413297) · `si`
-
-MP's vehicle fell into parliament pond during heavy rain. Driver was at workshop. Police investigating. Car recovered with parliamentary staff help. No injuries reported.
-
-🟩
-
-The National Jathika Sector and the General Secretary of the National Jathika Power and Kalutara District MP Dr. Nihal Abeysinghe has been in danger of falling into the pond of the parliament yesterday evening yesterday evening.
-
-Police say that MP was not present at the time of the accident. The vehicle had fallen into the pond when the driver arrived at the workshop for new MPs.
-
-The car has taken steps to recover the car with the participation of the parliamentary police and the Parliamentary staff. The car has suffered serious losses in the accident.
-
-Police suspect that this accident had been accidental due to heavy rains due to heavy rains.
-
-◼️
-
-[Data](articles/97eaa07f.json)
-
-[Extended Data](ext_articles/97eaa07f.ext.json)
-
----
-
-### Windmill that turns into a storm today
-
-*2024-11-27 07:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-புயலாக-மாறும்-காற்றழுத்த-தாழ்வு/175-347841) · `ta`
-
-Storm warning: Strong winds, heavy rains expected in northern regions of Sri Lanka.
-
-🟩
-
-The Department of Meteorology has stated that the deep winds in the southwestern Bengal bay were stationed at around 11.30 pm last night, 190 km southeast of Trincomalee.
-
-It will move to the north-northwest near the east coast of Sri Lanka and become more and more stormy.
-
-Because of this, the sky is cloudy in most parts of the country. Heavy rains and strong winds are likely to blow in the North, North Central, Eastern, Northwest and Central Provinces.
-
-Rainfall or thunderstorms will occur from time to time in the Northern, North Central, Central, Western and North Western Provinces and Trincomalee, Batticaloa and Kegalle districts.
-
-In the Northern, North Central, Central, West, Northwest, South and Eastern Provinces, strong winds are likely to blow at a time of 40-50 km / h, according to a statement issued by the Department of Meteorology.. (A)
-
-◼️
-
-[Data](articles/3ea2739b.json)
-
-[Extended Data](ext_articles/3ea2739b.ext.json)
-
----
-
-### One million people in the north
-
-*2024-11-27 07:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-ஒரு-லட்சம்-பேர்-பாதிப்பு/175-347840) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"1M+ affected in Northern Province due to severe weather. 25k+ families impacted. Lowland residents hit hardest as pond water pours out."
-
-🟩
-
-Due to the inclement weather in the Northern Province, up to one million people from over 25 thousand families have been affected.
-
-Meanwhile, people living in the lowlands are facing greater impact due to the opening of the air doors of ponds like Iranamadu and Muttiyankattu.. (A)
-
-◼️
-
-[Data](articles/2f4292fa.json)
-
-[Extended Data](ext_articles/2f4292fa.ext.json)
-
----
-
-### Reclaim children
-
-*2024-11-27 06:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளைகளை-மீட்டுத்-தாருங்கள்/175-347839) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Northern Province governor reports 5 youths forcibly recruited into Russian army. Parents from Jaffna, Karaveddi, Mulliyawalai meet governor, contact foreign ministry.
-
-🟩
-
-The governor of the Northern Province Na Vedanayakan has lodged a complaint with the parents of the Northern Province that five youths from the Northern Province are forcibly recruited in the Russian army.
-
-Parents of youth from Jaffna, Karavedti and Mulliyawalai met with the Governor at the Governor's Secretariat yesterday (27).
-
-Subsequently, the Governor immediately telephoned the Secretary of the Ministry of Foreign Affairs and informed the matter.
-
-In addition, the parents have been sent to the Foreign Ministry. (A)
-
-◼️
-
-[Data](articles/0344219d.json)
-
-[Extended Data](ext_articles/0344219d.ext.json)
-
----
 
 ### FIU slaps Rs. 2.7 m combined fines on three entities
 
@@ -194,8 +92,6 @@ He said there is no direct connection between the trade union’s demand and the
 
 [Data](articles/f921679b.json)
 
-[Extended Data](ext_articles/f921679b.ext.json)
-
 ---
 
 ### BOI Chief meets export industry leaders to address supply chain security and efficiency
@@ -212,8 +108,6 @@ Pilferage at crucial inspection points was highlighted as a key concern, with th
 
 [Data](articles/e088f0c9.json)
 
-[Extended Data](ext_articles/e088f0c9.ext.json)
-
 ---
 
 ### Sri Lanka  Economic Summit from 28-29 January
@@ -228,8 +122,6 @@ The 24th edition of the Sri Lanka Economic Summit organised by The Ceylon Chambe
 
 [Data](articles/635cf0b3.json)
 
-[Extended Data](ext_articles/635cf0b3.ext.json)
-
 ---
 
 ### Kosala calls on new Japanese Ambassador
@@ -241,8 +133,6 @@ International Business Council President Kosala Wickramanayake recently paid a c
 ◼️
 
 [Data](articles/0472732f.json)
-
-[Extended Data](ext_articles/0472732f.ext.json)
 
 ---
 
@@ -262,8 +152,6 @@ HRW acknowledged that Dissanayake was elected President on 21 September and on 1
 
 [Data](articles/8063d5ea.json)
 
-[Extended Data](ext_articles/8063d5ea.ext.json)
-
 ---
 
 ### Arrest warrant issued against Jaffna District MP Archchuna Ramanathan
@@ -279,8 +167,6 @@ This development adds to the legal troubles faced by Dr. Ramanathan, who recentl
 ...
 
 [Data](articles/b2e94af9.json)
-
-[Extended Data](ext_articles/b2e94af9.ext.json)
 
 ---
 
@@ -2156,24 +2042,6 @@ Similarly, the electricity tariff must be reduced in parallel with the profit th
 
 ---
 
-### වාහන ආනයනය ගැන රජයේ තීරණය
-
-*2024-11-26 17:55:03* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-තීරණය/11-413292) · `si`
-
-වාහන ආනයනය කිරීම ලබන වසරේදී අදියර කිහිපයක් යටතේ සිදුකරන බවත් එහිදී සංචිත පිළිබඳව අවධානය යොමුකළ යුතුව ඇති බවත් කම්කරු අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පැවැසීය.
-
-“වාහන ආනයනය කිරීමට කාණ්ඩ කිහිපයක් යටතේ තමයි අවසර ලබාදීම සිදු කරන්නේ. විශේෂයෙන්ම වාණිජ මට්ටමේ තිබෙන වාහන. නමුත් එය සිදුකරන්නේ විදේශ විනිමය සීමා වලට යටත්වයි.
-
-දැනට සංචිත කොපමණ ප්‍රමාණයක් තිබෙනවාද යන්න පිළිබඳව ගණන් කර තිබෙනවා.  මහ බැංකුව යම් ආකාරයක අතිරේක සංචිත හදලා තිබෙනවා.
-
-විනියම සීමාවන්ට යටත්ව තමයි අවසර දෙනේනේ. අදියර තුනක් යටතේ වාහන ගෙන්වන්න අවස්ථාව දෙනවා. ස්ථායිකරන වැඩපිළිවෙළකට මේක යන්න ඕන. එකවරම අතහැරලා මේක කඩා දාන්න දෙන්න බෑ.”
-
-◼️
-
-[Data](articles/8878e261.json)
-
----
-
 ### President to visit India and Chinese
 
 *2024-11-26 17:54:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දියා-හා-චීන-සංචාරයකට/11-413291) · `si`
@@ -2323,5 +2191,113 @@ At a special press conference held at the Department of Examinations this aftern
 [Data](articles/3319a0c3.json)
 
 [Extended Data](ext_articles/3319a0c3.ext.json)
+
+---
+
+### Ongoing 2024 A/L Exam temporarily suspended
+
+*2024-11-26 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103786/ongoing-2024-al-exam-temporarily-suspended) · `en`
+
+The Examinations Department announced that it has been decided to temporarily suspend the ongoing 2024 G.C.E. Advanced Level Examination.
+
+Accordingly, the subjects which were scheduled to be held on November 27, 28 and 29 have been suspended, the Commissioner General of Examinations Amith Jayasundara said.
+
+Speaking at a special press briefing this evening (26), Jayasundara stated that this decision was taken in view of the prevailing adverse weather conditions.
+
+Furthermore, he highlighted that the exam will re-commence on November 30 (Saturday) and will continue as previously scheduled.
+
+The exams for the subjects which are scheduled on November 27, 28 and 29 will be held on December 21, 22, 23 respectively, according to the Exams Commissioner General.
+
+◼️
+
+[Data](articles/f1ca732d.json)
+
+[Extended Data](ext_articles/f1ca732d.ext.json)
+
+---
+
+### Sri Lanka cabinet spokesman says no threats for tourists anymore
+
+*2024-11-26 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-spokesman-says-no-threats-for-tourists-anymore-190028/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet Spokesman Nalinda Jayatissa said there are no security threats to any tourists in the island nation amid an ongoing investigation into a possibility of attack in the Eastern Sri Lankan coastal area of Arugam Bay.
+
+The intelligence information of a possible attack against Jews in an Arugam Bay area was first shared by foreign intelligence agency with the local counterpart and the government swiftly tightened the security to ensure the safety of both locals and foreign tourists.
+
+However, the threat triggered the U.S. Embassy in Colombo to issue travel advisory to its citizens before Israel, Australia, New Zealand, Russia, the United Kingdom, and Canada.
+
+However, later, the US Embassy relaxed the travel advisory after Sri Lanka started investigations into the threat with the arrest of six people.
+
+“So far the security is established and there is no threat to anyone,” Cabinet Spokesman Jayatissa told reporters in the weekly post-cabinet press briefing.
+
+...
+
+[Data](articles/19ae2539.json)
+
+[Extended Data](ext_articles/19ae2539.ext.json)
+
+---
+
+### Special press conference on A / L
+
+*2024-11-26 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203766) · `si`
+
+A special press conference on AI was conducted by Commissioner General of Examinations HJMC. Amit Jayasundara paid tribute to the Department of Examinations.
+
+🟩
+
+Commissioner General of Examinations HJMC. Amit Jayasundara is conducting a special tribute to the Department of Examinations.
+
+◼️
+
+[Data](articles/521b3018.json)
+
+[Extended Data](ext_articles/521b3018.ext.json)
+
+---
+
+### Sri Lanka announces launch of ISB exchange after Cabinet approval
+
+*2024-11-26 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103785/sri-lanka-announces-launch-of-isb-exchange-after-cabinet-approval-) · `en`
+
+Sri Lanka has announced the official launch of the exchange of its outstanding International Sovereign Bonds (ISBs) totaling approximately USD 12.55 billion, as of 25 November 2024.
+
+This follows the approval of the terms and conditions of the Invitation by the new Cabinet of Ministers of Sri Lanka, which was formed on 18 November 2024, Sri Lanka’s Ministry of Finance, Planning and Economic Development said in a statement today.
+
+The Finance Ministry stated that the holders of the existing Bonds are invited to tender their Bonds and exchange them for new instruments over a three-week period, with the final deadline set for 12 December 2024.
+
+Furthermore, the statement highlighted that Sri Lanka strongly encourages all holders to participate in the exchange process as early as possible.
+
+...
+
+[Data](articles/b62fb82d.json)
+
+[Extended Data](ext_articles/b62fb82d.ext.json)
+
+---
+
+### Prior to 6 CEB proposals on electricity tariff
+
+*2024-11-26 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-ලංවිම-යෝජනා-6දාට-පෙර/11-413289) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+CEB proposes new electricity tariffs; rejects PUC's previous suggestion; submits annual plan for 2025; awaits PUC review.
+
+🟩
+
+The Ceylon Electricity Board (CEB) has issued a statement that the new proposals will be given to the Public Utilities Commission for the reintegration of the proposed telephone tariff.
+
+The CEB is also needed for the annual submission of the new resolution for 2025.
+
+The CEB has rejected the proposal made by the Public Utilities Commission on 24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24/10/24.
+
+◼️
+
+[Data](articles/fcedffdc.json)
+
+[Extended Data](ext_articles/fcedffdc.ext.json)
 
 ---

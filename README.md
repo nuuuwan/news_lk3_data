@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 00:41:30**
+As of **2024-11-28 01:11:18**
 
 ## Newspaper Stats
 
-*Scraped **57,295** Articles*
+*Scraped **57,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,63 @@ dailyftlk | 3,940
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
-tamilmirrorlk | 8,148
-virakesarilk | 9,338
-adaderanasinhalalk | 9,896
+tamilmirrorlk | 8,149
+virakesarilk | 9,339
+adaderanasinhalalk | 9,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,295 (100.0%) of 57,295 articles have been extended.
+57,299 (100.0%) of 57,299 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-28 (Thursday)
+
+### New Secretaries appointment to two ministries
+
+*2024-11-28 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199888) · `ta`
+
+Two new secretaries appointed: KR Uduwala to Environment Ministry, YL Mohamed Nawawi to Science and Technology Ministry. Appointments made public Wednesday at Presidential Secretariat by Dr. Nandika Sanath Kumanayake.
+
+🟩
+
+The appointment letters were presented at the Presidential Secretariat by Dr. Nandika Sanath Kumanayake on Wednesday (27).
+
+Accordingly, KR Uduwala has been appointed as the Secretary to the Ministry of Environment and YL Mohamed Nawawi has been appointed as the Secretary of the Ministry of Science and Technology.
+
+◼️
+
+[Data](articles/328cf6b2.json)
+
+[Extended Data](ext_articles/328cf6b2.ext.json)
+
+---
+
+### 11 Navy Groups to provide relief
+
+*2024-11-28 00:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணம்-வழங்க-11-கடற்படை-குழுக்கள்/175-347900) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Navy relief groups operating in Ampara, Batticaloa, and Matara. 50 Air Force personnel with 6 helicopters deployed for rescues.
+
+🟩
+
+Navy relief committees are on duty in Ampara, Batticaloa and Matara districts.
+
+Meanwhile, 50 people of the Air Force have been deployed with 6 helicopters in six seats to rescue the victims of the vulnerability, the Air Force said the Air Force said it was.. (A)
+
+◼️
+
+[Data](articles/b5bc2f37.json)
+
+[Extended Data](ext_articles/b5bc2f37.ext.json)
+
+---
 
 ### 2024-11-27 (Wednesday)
 
@@ -70,6 +116,30 @@ According to statistics received at 05.00 pm on Wednesday (27) due to heavy rain
 
 ---
 
+### Very services from the official website
+
+*2024-11-27 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203819) · `si`
+
+Sri Lanka Police Official Website launched today. Public can access www.police.lk for updates. Online system for police clearance reports and complaints submission. New web page features IT Division.
+
+🟩
+
+The Sri Lanka Police Official Website to update the official website and created a new face and launched today (27).
+
+The Hon.
+
+The public can be accessed by the Sri Lankan Police, www.poolice.lk and the police Media Media Media Media Center forces regularly updated.
+
+Applying for police clearance reports, to submit the usual system, to submit the complaints on the online system, and the Police Information Technology Division is set to be included in the New Web page.
+
+◼️
+
+[Data](articles/4d212307.json)
+
+[Extended Data](ext_articles/4d212307.ext.json)
+
+---
+
 ### Ampara tractor accident: Body of another missing boy found
 
 *2024-11-27 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103822/ampara-tractor-accident-body-of-another-missing-boy-found) · `en`
@@ -107,6 +177,30 @@ As per the appointments, Mr. K.R. Uduwawala will serve as the Secretary to the M
 [Data](articles/656928e4.json)
 
 [Extended Data](ext_articles/656928e4.ext.json)
+
+---
+
+### A special announcement for revenue applicants
+
+*2024-11-27 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203817) · `si`
+
+Revenue applicants: Troops welfare benefit program extended due to inclement weather. Relief period extended to Rs. [Amount]. Eligible families/persons who missed application deadline now have opportunity to apply.
+
+🟩
+
+Troops have once again have been extended to apply to the welfare benefit program.
+
+Accordingly, the Welfare Board has decided to extend the relief period to be extended to Rs.
+
+The families and persons who were unable to apply for the relief scheme have been applied to families and persons have been given to the families and persons who have not been applied to the beneficiaries.
+
+However, the announcement states that the time taken into consideration the inclement weather conditions in the country and has once again taken steps to extend the time.
+
+◼️
+
+[Data](articles/e669bea5.json)
+
+[Extended Data](ext_articles/e669bea5.ext.json)
 
 ---
 
@@ -2511,103 +2605,5 @@ Sri Lanka’s economy has been recovering and the economy is growing around 4.5 
 [Data](articles/bfb6edff.json)
 
 [Extended Data](ext_articles/bfb6edff.ext.json)
-
----
-
-### Ampara tractor incident: Body of one of six missing students found
-
-*2024-11-27 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103810/ampara-tractor-incident-body-of-one-of-six-missing-students-found-) · `en`
-
-The body of one of the six missing students has been recovered after the tractor they were traveling in was caught in floodwaters at Karaitivu in Ampara District, last evening (26).
-
-The incident occurred when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents in the flood waters.
-
-Police had confirmed that 05 children had been rescued while the rest were reported missing.
-
-The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
-
-The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
-
-Accordingly, as of today, the body of one of the missing children has been recovered, and rescue operations are ongoing to locate the remaining missing individuals.
-
-◼️
-
-[Data](articles/a3919aec.json)
-
-[Extended Data](ext_articles/a3919aec.ext.json)
-
----
-
-### Alert on sudden floods
-
-*2024-11-27 12:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-வெள்ளம்-குறித்து-எச்சரிக்கை/175-347858) · `ta`
-
-Sudden floods alert: Ministry of Agriculture acts swiftly. Secretary orders staff recall, cancels vacations. Mahaweli Authority assists affected districts. Security measures implemented in Akkarapattu and Nilwala Ganga areas.
-
-🟩
-
-Secretary to the Ministry of Agriculture, Livestock, Land and Irrigation
-
-The Secretary also advised the Technical Officers affiliated to the Irrigation Department and the Mahaweli Authority to be in the respective stations.
-
-Special attention was focused on ensuring immediate security precautions for victims of the Akkarapattu and Nilwala Ganga areas.
-
-In addition, the Secretary has ordered the cancellation of all vacations for the employees currently on vacation and ensuring that there are adequate staff to manage the situation.
-
-The Mahaweli Authority has been given a directive to work with the respective District Secretaries to provide necessary assistance to the affected people in these areas.
-
-◼️
-
-[Data](articles/c2600dd2.json)
-
-[Extended Data](ext_articles/c2600dd2.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-11-27 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203795) · `si`
-
-Sri Lanka vs South Africa Test series begins today. First match at Durban Stadium. Sri Lanka captain Dhananjaya de Silva wins toss, chooses to bowl. Dimuth Karunaratne leads batting lineup. South Africa's Kagiso Rabada expected to play key role.
-
-🟩
-
-The Test cricket tournament between the Tourism Sri Lanka and South African group will commence today.
-
-The first match will begin at the Durban stadium in the Durban Stadium in Africa.
-
-Sri Lanka Leader Dhanga De Silva won the toss and win the coin.
-
-Accordingly, he invited the African team to bat first.
-
-Dimuth Karunaratne, Dinesh Chandimal, Kamindu Mendis, Kusal Mendis, Kusal Mendander, University Mendander, University of Lahiru Kumarasing, University Fernando.
-
-Endon Mcram, Toristan Stubs, Tristan Stubs, Marco Yanson, Marco Yanson, Gesco Warsc, Kugzo Rabada
-
-◼️
-
-[Data](articles/b30f5de7.json)
-
-[Extended Data](ext_articles/b30f5de7.ext.json)
-
----
-
-### Bolsonaro was directly involved in 2022 coup plot, Brazil’s police say
-
-*2024-11-27 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103809/bolsonaro-was-directly-involved-in-2022-coup-plot-brazils-police-say) · `en`
-
-Brazil’s federal police presented evidence to the Supreme Court that former President Jair Bolsonaro was directly involved in plotting a coup to overturn the outcome of the 2022 election he lost, according to an 884-page report unsealed on Tuesday.
-
-That final police report, the result of a nearly two-year investigation, lays out evidence gathered from search warrants, wiretaps, financial records and plea bargain testimony pointing to a criminal conspiracy with Bolsonaro at the helm.
-
-“Bolsonaro effectively planned, directed and executed, in coordination with other officials since at least 2019, concrete acts that aimed at the abolition of the democratic rule of law, with him remaining as president,” the report said.
-
-Police also found that Bolsonaro had “full knowledge” of a plan to assassinate Luiz Inacio Lula da Silva, then president-elect, and his running mate, based on dialogue captured between conspirators and meetings at the presidential residence.
-
-...
-
-[Data](articles/39abd1f9.json)
-
-[Extended Data](ext_articles/39abd1f9.ext.json)
 
 ---

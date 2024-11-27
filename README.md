@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 04:42:10**
+As of **2024-11-28 05:25:56**
 
 ## Newspaper Stats
 
-*Scraped **57,308** Articles*
+*Scraped **57,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,431
 economynextcom | 3,486
-dailyftlk | 3,948
+dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,407
 adaderanalk | 6,936
@@ -26,11 +26,143 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,308 (100.0%) of 57,308 articles have been extended.
+57,312 (100.0%) of 57,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### President AKD urges immediate relief to victims of flood
+
+*2024-11-28 05:10:39* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-urges-immediate-relief-to-victims-of-flood/56-769817) · `en`
+
+President Anura Kumara Dissanayake yesterday directed officials to provide immediate relief services to affected people in disaster-stricken areas by gathering information on-site rather than relying solely on technological data. The President emphasised the need to establish a strong grassroots-level mechanism to facilitate this process.
+
+These remarks were made during a discussion held at the Presidential Secretariat with State officials, aimed at expediting relief services for disaster-affected populations.
+
+The President instructed officials to ensure that affected individuals are sheltered in secure locations and provided with essential food, water, and sanitary facilities. He also directed authorities to allocate sufficient funds for relief efforts.
+
+During the meeting, particular attention was given to the high-risk Northern and Eastern Provinces, which are severely impacted by adverse weather conditions.
+
+...
+
+[Data](articles/653417a9.json)
+
+---
+
+### Heavy rainfall and strong winds cause havoc
+
+*2024-11-28 05:09:20* · [`dailyftlk`](https://www.ft.lk/news/Heavy-rainfall-and-strong-winds-cause-havoc/56-769816) · `en`
+
+The Department of Meteorology said that the deep depression over the southwest Bay of Bengal is likely to move closer to the east coast of Sri Lanka and intensify further into a cyclonic storm during the next 12 hours.
+
+The deep and shallow sea areas around the island will be very rough as the wind speed can increase up to 60-70 kmph at times. Very heavy showers or thundershowers are likely in some areas around the island.
+
+Naval and fishing communities are warned not to venture to the deep and shallow sea areas around the island until further notice.
+
+The Northern, North Central, Central, Western, and North Western Provinces, as well as the Trincomalee and Kegalle districts, have been significantly affected due to heavy showers.
+
+...
+
+[Data](articles/7c4e7166.json)
+
+---
+
+### Arrest warrants issued for Dan Priyasad and Mahinda Kahandagama in Gota Go Gama attack case
+
+*2024-11-28 05:07:53* · [`dailyftlk`](https://www.ft.lk/news/Arrest-warrants-issued-for-Dan-Priyasad-and-Mahinda-Kahandagama-in-Gota-Go-Gama-attack-case/56-769815) · `en`
+
+The Fort Magistrate’s Court has issued arrest warrants for Sinhala nationalist activist Dan Priyasad and former Sri Lanka Podujana Peramuna (SLPP) Colombo Municipal Council member Mahinda Kahandagama in connection with the attack on the Gota Go Gama protest site at Galle Face Green on 9 May 2022.
+
+The order, issued yesterday, came after the case was taken up in Court. While other suspects, including former Minister Johnston Fernando and Milan Jayatileke, were present, Priyasad and Kahandagama failed to appear. Their legal counsels informed the Court that the duo is currently abroad.
+
+Fort Magistrate Thanuja Lakmali directed law enforcement to arrest the two suspects and produce them in Court. The case is scheduled to be heard again on 26 March 2025.
+
+◼️
+
+[Data](articles/9253af7a.json)
+
+---
+
+### New Secretaries to Environment, Science and Technology Ministries
+
+*2024-11-28 05:06:30* · [`dailyftlk`](https://www.ft.lk/news/New-Secretaries-to-Environment-Science-and-Technology-Ministries/56-769814) · `en`
+
+President Anura Kumara Dissanayake has appointed new Secretaries to two key Ministries, according to the President’s Media Division (PMD).
+
+The relevant appointment letters were handed over yesterday by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
+
+As per the appointments, K.R. Uduwawala will serve as the Secretary to the Ministry of Environment, and Y.L. Mohamed Nawawi will take on the role of Secretary to the Ministry of Science and Technology.
+
+◼️
+
+[Data](articles/a5c27c46.json)
+
+[Extended Data](ext_articles/a5c27c46.ext.json)
+
+---
+
+### Korea hands over $ 5 m floating solar photovoltaic power  plants in Southern Province
+
+*2024-11-28 04:59:46* · [`dailyftlk`](https://www.ft.lk/news/Korea-hands-over-5-m-floating-solar-photovoltaic-power-plants-in-Southern-Province/56-769813) · `en`
+
+The Republic of Korea, represented by Ambassador Miyon Lee, officially handed over Sri Lanka’s first-ever floating solar photovoltaic (PV) power plants located at the Chandrika Wewa and Kiriibban Wewa reservoirs.
+
+This ground-breaking renewable energy initiative marks a major milestone in Sri Lanka’s transition toward sustainable energy solutions.
+
+Key attendees included Additional Secretary of Ministry of Power and Energy Tharshini Prashanth, and Sustainable Energy Authority (SEA) Chairman Prof. T.M.W.J. Bandara.
+
+The $ 5 million project, funded by the Korean Government since 2022, was developed in collaboration with the Korea Institute for Advancement of Technology (KIAT) and implemented by Yooshin Engineering and Bosung Powertec.
+
+Each floating solar photovoltaic power plant, capable of generating 1MW, uses reservoir surfaces, conserving land resources while reducing environmental impact.
+
+...
+
+[Data](articles/f5d55148.json)
+
+[Extended Data](ext_articles/f5d55148.ext.json)
+
+---
+
+### Nutrition Sri Lanka program launched by Akshata to combat malnutrition in Sri Lanka
+
+*2024-11-28 04:55:53* · [`dailyftlk`](https://www.ft.lk/news/Nutrition-Sri-Lanka-program-launched-by-Akshata-to-combat-malnutrition-in-Sri-Lanka/56-769812) · `en`
+
+Nutrition Sri Lanka – an ambitious program to end malnutrition – was formally launched recently. It seeks to provide undernourished children and pregnant women with the nutrients essential through the consumption of fortified rice.
+
+The program is spearheaded by Akshata, which is the first brand in Sri Lanka to acquire and master the technology to produce fortified rice kernels efficiently and cost-effectively. Fortifying staple foods such as rice with essential micronutrients like vitamin A, B vitamins, iron and zinc is among the most economical evidence-based interventions to help combat widespread micronutrient deficiencies.
+
+...
+
+[Data](articles/0aaee1e7.json)
+
+[Extended Data](ext_articles/0aaee1e7.ext.json)
+
+---
+
+### Adani says Gautam  clear of bribery charges as per DoJ indictment
+
+*2024-11-28 04:52:17* · [`dailyftlk`](https://www.ft.lk/business/Adani-says-Gautam-clear-of-bribery-charges-as-per-DoJ-indictment/34-769811) · `en`
+
+In stock exchange filing claims no bribery charges against Gautam Adani, nephew Sagar Adani and Vneet Jaain as per DoJ indictment
+
+Trio not charged with violation(s) of US FCPA, excluded from FCPA charges by US DoJ
+
+Only Azure and CDPQ officials charged with bribery in US DoJ indictment
+
+All news reports claiming Adani officials charged of bribery or corruption ‘Incorrect’, insists Adani Green Energy
+
+Gautam Adani, nephew Sagar Adani, and Senior Executive Vneet Jaain are clear of any bribery charges as per the US Department of Justice (DoJ), according to the latest filing with stock exchanges by a Group company – Adani Green Energy Ltd. (AGEL).
+
+In its filing, AGEL has cited news reports by various media houses on the bribery and corruption charges against Adani officials ‘Incorrect’.
+
+...
+
+[Data](articles/cac19284.json)
+
+[Extended Data](ext_articles/cac19284.ext.json)
+
+---
 
 ### Urgent regulatory reforms needed to revitalise construction industry and economy
 
@@ -2377,165 +2509,5 @@ Public Health Inspector Sandun Ratnayake added that public health inspectors ser
 [Data](articles/08de2491.json)
 
 [Extended Data](ext_articles/08de2491.ext.json)
-
----
-
-### Plowing Machine Recovery: Four Magic
-
-*2024-11-27 14:30:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/உழவு-இயந்திரம்-மீட்பு-நால்வர்-மாயம்/74-347866) · `ta`
-
-Flood recovery efforts ongoing in Ampara district. Two student bodies found, four missing. Heavy machinery used to recover plowing machine and motorcycles. Local officials present at scene. Search continues for remaining victims.
-
-🟩
-
-The bodies of two students who were trapped in a flood caused by inclement weather in Ampara district have been recovered so far.. The bodies have been sent to the Samanthurai Resource Hospital.
-
-The plowing machine and its box were recovered from the flood by heavy machinery.  இரண்டு மோட்டார் சைக்கிள்களும் மீட்கப்பட்டுள்ளன.
-
-Ampara District Parliamentarian Ashraf Tahir, Ampara District Government Agent Sindaka Abeywickrama, Additional Government Agent Shiv Jegarajan, Karadivu Divisional Secretary G. Arunan and Samanthurai Divisional Secretary SLM Haniba were present.
-
-However, so far (up to one hour of day) have been recovered by two bodies. And four are still magical. The search continues.
-
-Eleven people, including eight madrasa students, who were caught in the floods on the main road of Karadivu, were reportedly in the floods on Tuesday.
-
-◼️
-
-[Data](articles/ccad74be.json)
-
-[Extended Data](ext_articles/ccad74be.ext.json)
-
----
-
-### Both postal trains cancel
-
-*2024-11-27 14:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரண்டு-அஞ்சல்-ரயில்களும்-இரத்து/76-347865) · `ta`
-
-Postal trains canceled due to landslides on hill railway tracks. Colombo-Fort, Badulla, and Colombo-Badulla routes affected. Train from Colombo Fort to Nanuoya limited for second day.
-
-🟩
-
-The Railway Department said that the Colombo -Fort, Badulla and Badulla -Colombo -Colombo -Colombo day postal trains have been canceled due to landslides on the hill railway tracks on Wednesday (27).. The two postal trains were canceled yesterday (26).
-
-Meanwhile, the Railway Department said that the train from Colombo Fort to Nanuoya has been limited for the second day.
-
-◼️
-
-[Data](articles/63f52cae.json)
-
-[Extended Data](ext_articles/63f52cae.ext.json)
-
----
-
-### Lock for pre -schools
-
-*2024-11-27 14:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளிகளுக்கு-பூட்டு/175-347864) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Pre-schools in North Central Province closed due to bad weather. 1,480 schools shut until 27th. 94 Muslim/Tamil schools closed 27-29th."
-
-🟩
-
-The Managing Director of the Provincial Primary Children's Authority Nilantha Ekanayake said that 1,480 pre -schools registered in the North Central Province have been closed until Wednesday (27).
-
-94 Muslim and Tamil schools in the North Central Province will be closed from the 27th to the 29th of this month, according to the Governor of the North Central Province Vasantha Jinadasa.. This decision has been made due to bad weather.
-
-◼️
-
-[Data](articles/9ae6a3df.json)
-
-[Extended Data](ext_articles/9ae6a3df.ext.json)
-
----
-
-### The ceasefire came into effect - thousands of Lebanon people return to South Lebanon
-
-*2024-11-27 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199835) · `ta`
-
-Ceasefire implemented; thousands return to South Lebanon. Heavy traffic reported. Public shows support for Hezbollah. Officials warn against immediate return due to safety concerns.
-
-🟩
-
-Thousands of Lebanon people have returned to their areas in Southlepanon following the implementation of the ceasefire agreement between Israel and the Hesbullah organization.
-
-We are heading towards Southlepanan. Hezbullah has great support in this area, thousands of people are returning to their homes, the BBC said.
-
-There is a huge traffic congestion on the major streets between the Lebanese capital, Beirut and the Southlepan, and the BBC journalist said that the public is watching cars with cars, said the public waving the hezbullah flags from the vehicles.
-
-Israeli Lebanon officials have warned that some people show their hands as a victory, while the BBC reporter has warned the public not to go to their parts immediately.
-
-◼️
-
-[Data](articles/2c849aff.json)
-
-[Extended Data](ext_articles/2c849aff.ext.json)
-
----
-
-### China Communist Party senior member meets Sri Lanka leaders
-
-*2024-11-27 14:06:00* · [`economynextcom`](https://economynext.com/china-communist-party-senior-member-meets-sri-lanka-leaders-190239/) · `en`
-
-ECONOMYNEXT – Communist Party of China (CPC) Central Committee member Sun Haiyan is in the island on a four-day official visit aimed at enhancing Sri Lanka-China relations.
-
-She is the Vice Minister of the International Department of the CPC.
-
-Haiyan met President Anura Dissanayake and Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath to discuss “strengthening bilateral cooperation and deepening ties between the two nations” the Ministry of Foreign Affairs said in a statement.
-
-Haiyan was accompanied by Deputy Director General of the International Department of the CPC Central Committee Lin Tao and Director of the International Department of the CPC Central Committee Li Jinyan. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/577cbe70.json)
-
-[Extended Data](ext_articles/577cbe70.ext.json)
-
----
-
-### Several Cabinet Ministers arrive at the CID
-
-*2024-11-27 14:01:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-කැබිනට්-අමාත්‍යවරුන්-කිහිප-දෙනෙක්-සි-අයි-ඩී-ය-හමුවට-පැමිණෙයි/11-413307) · `si`
-
-Cabinet Ministers visit CID over substandard issues. Former ministers Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka, and Nasir Ahmed present.
-
-🟩
-
-Several Cabinet Ministers have appeared in the face of the Criminal Investigation Department today (27) regarding the subject of substandard.
-
-Former ministers were summoned to the CID to address the Cabinet Ministers who were granted to the approval of the cabinet ministers.
-
-Former ministers of Wijayadasa Rajapakse, Nalin Fernando, Vidura Wickramanayaka and Nasir Ahmed have come to the Department of Criminal Investigations.
-
-◼️
-
-[Data](articles/1257c9db.json)
-
-[Extended Data](ext_articles/1257c9db.ext.json)
-
----
-
-### Leave cancelled for engineers and technical officials managing reservoirs
-
-*2024-11-27 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103811/leave-cancelled-for-engineers-and-technical-officials-managing-reservoirs) · `en`
-
-The Ministry of Agriculture, Livestock, Lands, and Irrigation has issued a notice for the engineers and technical officers from the Irrigation Department, who are in charge of managing reservoirs, amidst the prevailing adverse weather conditions.
-
-Accordingly, the engineers and technical officials of the Irrigation Department and the Mahaweli Authority who are responsible for reservoir management are required to remain at their workplaces.
-
-According to the notice, the leave of all such officials who are currently on leave will be cancelled.
-
-The Minister of the Ministry of Agriculture, Livestock, Lands, and Irrigation has issued the following instructions,
-
-1.  That the engineers and technical officers managing reservoirs from the Irrigation Dept. and Mahaweli Authority should remain at their work places.
-
-2. To cancel the leave of such officers on leave with immediate effect,
-
-...
-
-[Data](articles/cf8d0a97.json)
-
-[Extended Data](ext_articles/cf8d0a97.ext.json)
 
 ---

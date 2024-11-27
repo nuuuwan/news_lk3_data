@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 14:16:32**
+As of **2024-11-27 12:02:13**
 
 ## Newspaper Stats
 
-*Scraped **57,200** Articles*
+*Scraped **57,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,436 +13,42 @@ dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 595
 islandlk | 3,431
-economynextcom | 3,472
+economynextcom | 3,470
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,392
-adaderanalk | 6,926
-tamilmirrorlk | 8,132
-virakesarilk | 9,318
-adaderanasinhalalk | 9,878
+adalk | 5,390
+adaderanalk | 6,923
+tamilmirrorlk | 8,126
+virakesarilk | 9,316
+adaderanasinhalalk | 9,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,181 (100.0%) of 57,200 articles have been extended.
+57,148 (99.9%) of 57,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-27 (Wednesday)
 
-### Representation and decentralization are essentially necessary
-
-*2024-11-27 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/199805) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-National parties' success in Tamil and Muslim areas marks first-time representation. Ensuring cabinet seats for diverse communities crucial for inclusive governance.
-
-🟩
-
-The national people's power has been in all parts of the country, including the North and East, where Tamils ​​and Muslims live in the parliamentary elections. It has also succeeded in Jaffna in the north. This is the first time a National Party has had such a success. The people of all races and religions have voted for the power of the national people. Therefore, it is imperative to ensure the representation of those communities in the cabinet, which is being made by the most important decisions on the future path of the government.
-
-◼️
-
-[Data](articles/bba655b6.json)
-
-[Extended Data](ext_articles/bba655b6.ext.json)
-
----
-
-### Inaccurate Weather - 691 people from 193 families in Nuwara Eliya
-
-*2024-11-27 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199826) · `ta`
-
-Nuwara Eliya: 691 affected, 98 homes damaged, 207 displaced. Relief efforts underway.
-
-🟩
-
-Nuwara Eliya District Secretary Nandana Kalada said that 691 people from 193 families have been affected by the inclement weather in the Nuwara Eliya district on Tuesday (26).
-
-He added that 98 houses have been partially damaged due to inclement weather and 207 people from 50 families have been housed in 3 camps.
-
-The district secretary added that necessary steps have been taken to provide relief to the injured.
-
-The District Secretary added that the authorities, including the District Disaster Management Center, are working on providing relief to the students who went through the Kandapalai road that was blocked by the floods yesterday.
-
-◼️
-
-[Data](articles/463cacb7.json)
-
-[Extended Data](ext_articles/463cacb7.ext.json)
-
----
-
-### Risk of rat fever
-
-*2024-11-27 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203796) · `si`
-
-Rat fever outbreak: 22 deaths in Ratnapura District. Dr. Kapila Kannangara warns untreated cases. Treatment available from Regional Health Services Officers.
-
-🟩
-
-The Director of Health Services Dr. Kapila Kannangara says that more deaths have been reported from Ratnapura District due to the rat of fever.
-
-He also met the highest number of rat fever.
-
-The Director of Health Services, Sabaragamuwa Provincial Health Services, joined the occasion as to the publication of rat fever at the Sabaragamuwa Provincial Council premises.
-
-1,882 Leptospirosis in the Ratnapura District have been found and 22 deaths due to rat fever.
-
-Eheliyagoda, Kiriella, Kiriella, Upanayakala, Nivitanhala, Nivithala, Kalawana and Kalupana, Kalawana, Kalawana, Kalawana and Kalupana, Kalawana and Kalupana, Kalawana and Kalupana, Kalawana, Kalawana, Kalawana and Kalupana.
-
-Sabaragamuwa Provincial Health Services Dr. Kapila Kannangara said that if the rat was not treated properly to the disease.
-
-...
-
-[Data](articles/0fbec770.json)
-
-[Extended Data](ext_articles/0fbec770.ext.json)
-
----
-
-### Adani issue in Parliament
-
-*2024-11-27 12:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதானி-விவகாரத்தால்-பாராளுமன்றத்தில்-அமளி-இரு-அவைகளும்-ஒத்திவைப்பு/175-347859) · `ta`
-
-Here's a summary of the Adani issue in Parliament in 200 characters:
-
-
-
-Opposition parties demand discussion on Adani issue, leading to repeated adjournments in both Houses. BJP MP Arun Temple criticizes social media and OTT platforms. Union Minister Vaishnav promises strict laws to protect Indian culture. Chaos ensues, with Speaker Om Birla struggling to maintain order.
-
-🟩
-
-In both Houses of Parliament, the opposition parties engaged in a series of stories, demanding that the question be postponed and discussed the Adani issue. Due to a series of flaming, both Houses of Parliament were postponed throughout the day.
-
-Both Houses of Parliament gathered at 11 am today. When the Lok Sabha assembled, the BJP member of the BJP, Arun Temple, accused the social media and ODT sites of being pornographic and that they were unable to see their family.. He also urged strict law to control this. Arun Temple questioned what action the government would take in this regard.
-
-Responding to this, Union Minister of Communications Aswini Vaishnav said, “Member Arun Temple has raised the most important question.. Social media is operated from some countries. Those countries have a different kind of culture. Similarly, ODI sites are also pornography. The law will be enacted on the benefit of our culture and society. The government needs the cooperation of all parties. ”
-
-...
-
-[Data](articles/7f666547.json)
-
-[Extended Data](ext_articles/7f666547.ext.json)
-
----
-
-### Ampara tractor incident: Body of one of six missing students found
-
-*2024-11-27 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103810/ampara-tractor-incident-body-of-one-of-six-missing-students-found-) · `en`
-
-The body of one of the six missing students has been recovered after the tractor they were traveling in was caught in floodwaters at Karaitivu in Ampara District, last evening (26).
-
-The incident occurred when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents in the flood waters.
-
-Police had confirmed that 05 children had been rescued while the rest were reported missing.
-
-The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
-
-The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
-
-Accordingly, as of today, the body of one of the missing children has been recovered, and rescue operations are ongoing to locate the remaining missing individuals.
-
-◼️
-
-[Data](articles/a3919aec.json)
-
-[Extended Data](ext_articles/a3919aec.ext.json)
-
----
-
-### Alert on sudden floods
-
-*2024-11-27 12:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-வெள்ளம்-குறித்து-எச்சரிக்கை/175-347858) · `ta`
-
-Sudden floods alert: Ministry of Agriculture acts swiftly. Secretary orders staff recall, cancels vacations. Mahaweli Authority assists affected districts. Security measures implemented in Akkarapattu and Nilwala Ganga areas.
-
-🟩
-
-Secretary to the Ministry of Agriculture, Livestock, Land and Irrigation
-
-The Secretary also advised the Technical Officers affiliated to the Irrigation Department and the Mahaweli Authority to be in the respective stations.
-
-Special attention was focused on ensuring immediate security precautions for victims of the Akkarapattu and Nilwala Ganga areas.
-
-In addition, the Secretary has ordered the cancellation of all vacations for the employees currently on vacation and ensuring that there are adequate staff to manage the situation.
-
-The Mahaweli Authority has been given a directive to work with the respective District Secretaries to provide necessary assistance to the affected people in these areas.
-
-◼️
-
-[Data](articles/c2600dd2.json)
-
-[Extended Data](ext_articles/c2600dd2.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-11-27 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203795) · `si`
-
-Sri Lanka vs South Africa Test series begins today. First match at Durban Stadium. Sri Lanka captain Dhananjaya de Silva wins toss, chooses to bowl. Dimuth Karunaratne leads batting lineup. South Africa's Kagiso Rabada expected to play key role.
-
-🟩
-
-The Test cricket tournament between the Tourism Sri Lanka and South African group will commence today.
-
-The first match will begin at the Durban stadium in the Durban Stadium in Africa.
-
-Sri Lanka Leader Dhanga De Silva won the toss and win the coin.
-
-Accordingly, he invited the African team to bat first.
-
-Dimuth Karunaratne, Dinesh Chandimal, Kamindu Mendis, Kusal Mendis, Kusal Mendander, University Mendander, University of Lahiru Kumarasing, University Fernando.
-
-Endon Mcram, Toristan Stubs, Tristan Stubs, Marco Yanson, Marco Yanson, Gesco Warsc, Kugzo Rabada
-
-◼️
-
-[Data](articles/b30f5de7.json)
-
-[Extended Data](ext_articles/b30f5de7.ext.json)
-
----
-
-### Bolsonaro was directly involved in 2022 coup plot, Brazil’s police say
-
-*2024-11-27 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103809/bolsonaro-was-directly-involved-in-2022-coup-plot-brazils-police-say) · `en`
-
-Brazil’s federal police presented evidence to the Supreme Court that former President Jair Bolsonaro was directly involved in plotting a coup to overturn the outcome of the 2022 election he lost, according to an 884-page report unsealed on Tuesday.
-
-That final police report, the result of a nearly two-year investigation, lays out evidence gathered from search warrants, wiretaps, financial records and plea bargain testimony pointing to a criminal conspiracy with Bolsonaro at the helm.
-
-“Bolsonaro effectively planned, directed and executed, in coordination with other officials since at least 2019, concrete acts that aimed at the abolition of the democratic rule of law, with him remaining as president,” the report said.
-
-Police also found that Bolsonaro had “full knowledge” of a plan to assassinate Luiz Inacio Lula da Silva, then president-elect, and his running mate, based on dialogue captured between conspirators and meetings at the presidential residence.
-
-...
-
-[Data](articles/39abd1f9.json)
-
-[Extended Data](ext_articles/39abd1f9.ext.json)
-
----
-
-### Flood warnings issued for low-lying areas of Kelani River and Kala Oya
-
-*2024-11-27 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103808/flood-warnings-issued-for-low-lying-areas-of-kelani-river-and-kala-oya) · `en`
-
-The Irrigation Department has issued a flood warning for several low-lying areas of Kelani River Basin, effective until 10:30 a.m. on November 29, 2024.
-
-Similarly, another flood warning has been issued for several low-lying areas Kala Oya Basin effective until 9:30 a.m. on November 29, 2024.
-
-It states that considerable rainfall has occurred in some of the upstream and middle reach catchment areas of Kala Oya Basin as of 8.00 a.m. today (27).
-
-In addition to that, the Rajanganaya Reservoir which is maintained by the Irrigation Department is spilling with a discharge rate of 10000 cubic feet /sec currently.
-
-Meanwhile, there is a possibility of increasing the spill discharge of the Rajanganaya reservoir, the department said.
-
-...
-
-[Data](articles/a4507d59.json)
-
-[Extended Data](ext_articles/a4507d59.ext.json)
-
----
-
-### LankaPay bags Best Public-Private Partnership Award at ASOCIO 2024 Awards in Japan
-
-*2024-11-27 12:19:00* · [`islandlk`](http://island.lk/lankapay-bags-best-public-private-partnership-award-at-asocio-2024-awards-in-japan/) · `en`
-
-LankaPay, Sri Lanka’s national payment network, was honoured with the Best Public-Private Partnership Award at the prestigious ASOCIO 2024 Awards, held on November 7, 2024. This was an important agenda item of the ASOCIO Digital Summit 2024 held in Tokyo, Japan. This recognition highlights the success of LankaPay’s unique business model and the importance of collaborating with both government and private sector entities to advance Sri Lanka’s digital financial ecosystem to drive the nation towards a digitally enabled economy.
-
-...
-
-[Data](articles/97d689dd.json)
-
-[Extended Data](ext_articles/97d689dd.ext.json)
-
----
-
-### The holidays of the engineers in charge of the reservoir and technical officers will be canceled
-
-*2024-11-27 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203794) · `si`
-
-Engineers & technical officers' holidays canceled due to reservoir management. Ministry of Agriculture orders them to stay at work sites. Existing leaves invalidated.
-
-🟩
-
-The Ministry of Agriculture, Livestock and Evidence has issued an announcement in announcing the engineers of the Department of Irrigation and Technical Officers in the event.
-
-Accordingly, the engineers in charge of the Department of Impaired and the Mahaweli Authority should remain in their workplaces.
-
-The holiday of such officers who are on leave according to that announcement is invalid
-
-◼️
-
-[Data](articles/af4cb2c6.json)
-
-[Extended Data](ext_articles/af4cb2c6.ext.json)
-
----
-
-### The bodies of two madrasa students are recovered
-
-*2024-11-27 12:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்ரஸா-மாணவர்கள்-இருவரின்-சடலங்கள்-மீட்பு/175-347856) · `ta`
-
-Two madrasa students' bodies found after drowning in floods. Army's STF involved in rescue efforts; flooded plowing machine recovered.
-
-🟩
-
-The bodies of the two men have been recovered as the madrassa students who have been drowned in flood water are underway.
-
-In addition, the Army's Special Task Force (STF) has been involved in the hearing and the flooded plowing machine has been recovered.
-
-◼️
-
-[Data](articles/dc5e7056.json)
-
-[Extended Data](ext_articles/dc5e7056.ext.json)
-
----
-
-### A -9 Street is paralyzed
-
-*2024-11-27 11:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதி-முடங்கியது/175-347854) · `ta`
-
-A-9 Street paralyzed due to flooding in Vavuniya, affecting Nochimottai and Santasoli areas. Heavy rainfall caused waterlogging on the main road.
-
-🟩
-
-In Vavuniya, Nochimottai and Santasoli, the A-9 main road was flooded by heavy flooding.
-
-◼️
-
-[Data](articles/75d6f588.json)
-
-[Extended Data](ext_articles/75d6f588.ext.json)
-
----
-
-### A -9 Street Mutdated
-
-*2024-11-27 11:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதி-முடக்கியது/175-347854) · `ta`
-
-Heavy flooding caused A-9 main road to be impassable in Vavuniya, Nochimottai, and Santasoli areas.
-
-🟩
-
-In Vavuniya, Nochimottai and Santasoli, the A-9 main road was flooded by heavy flooding.
-
-◼️
-
-[Data](articles/ce11fdec.json)
-
-[Extended Data](ext_articles/ce11fdec.ext.json)
-
----
-
-### New case on Arjuna Aloysius
-
-*2024-11-27 11:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜுன-அலோசியஸ்-மீது-புதிய-வழக்கு/175-347853) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Arjuna Aloysius, director of WM Mentens, faces lawsuit over alleged Rs. 12 million fraud while serving 6-month tax evasion sentence. Case filed by Neptune Papers against him and Saminda Sahan.
-
-🟩
-
-Arjuna Aloysius, Director of the WM Mentens and Company, who is serving a 6 -month prison sentence on tax evasion, has been sued by the Colombo Magistrate's Court for allegedly defrauding Rs. 12 million.
-
-Arjuna Aloysius and Saminda Sahan have been referred to as defendants in the case filed by Neptune Papers Private Limited, which imports and distributes paper for printing newspapers.
-
-◼️
-
-[Data](articles/785732e0.json)
-
-[Extended Data](ext_articles/785732e0.ext.json)
-
----
-
-### Mabbutha Tragedy - A missing student found
-
-*2024-11-27 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203793) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Missing student found after tractor accident in Ampara. Body recovered among students from Kabbala. Incident occurred near Bridge yesterday evening. 11 children, driver, and another person were traveling. One body identified today.
-
-🟩
-
-The body of the missing student was found among the students from the tractor in Kabbala, Ampara yesterday.
-
-A tractor from Nindavur to the Samavur yesterday evening had fallen near the Bridge near the Bridge.
-
-11 children, the driver and another was traveling and another was rescued by the people who were near the water.
-
-One of the body of one who disappeared today, the body of a child has been recovered today.
-
-◼️
-
-[Data](articles/32715125.json)
-
-[Extended Data](ext_articles/32715125.ext.json)
-
----
-
-### Sri Lanka - South Africa Test match today
-
-*2024-11-27 11:32:12* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගය-අද/9-413305) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka vs South Africa Test match begins today (27). Crucial for Sri Lanka to qualify for ICC World Test Championship finals.
-
-🟩
-
-The first Test match between the Tourism Sri Lanka and South Africa will commence today (27).
-
-The Sri Lankan team will be a crucial match to qualify for the finals of the ICC World Test Championship.
-
-◼️
-
-[Data](articles/f4feb71b.json)
-
-[Extended Data](ext_articles/f4feb71b.ext.json)
-
----
-
-### Sign out of these areas - a notice from police
+### මෙම ප්‍රදේශවලින් වහාම ඉවත් වෙන්න - පොලීසියෙන් දැනුම්දීමක්
 
 *2024-11-27 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203792) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් දිවයිනේ දිස්ත්‍රික්ක 3ක ප්‍රදේශ කිහිපයකට නායයෑමේ රතු නිවේදන නිකුත් කර තිබේ.
 
+අද (27) උදෑසන පැවති මාධ්‍ය හමුවකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක, නීතීඥ නිහාල් තල්දුව මහතා කියා සිටියේ, අදාළ ප්‍රදේශවල ජනතාව තම ජීවිත ආරක්ෂාව වෙනුවෙන් වහාම එම ස්ථානයන්ගෙන් ඉවත් විය යුතු බවය.
 
+"මධ්‍යම කඳුකර ප්‍රදේශයට වැසි ලැබෙමින් පවතිනවා. මධ්‍යම කඳුකරයේ නැගෙනහිර සහ බටහිර බෑවුම්වලට වැසි ඇතිවෙන්නට තිබෙන ඉඩකඩ වැඩියි. ඒ නිසා නුවර දිස්ත්‍රික්කයේ හාරිස්පත්තුව, මැදදුම්බර, ගඟවටකෝරළය, උඩුදුම්බර, දොළුව, යටිනුවර, උඩපළාත, පාතහේවාහැට, දෙල්තොට, පාතදුම්බර කියන මේ ප්‍රදේශ සඳහා ඉවත්වීම සඳහා රතු නිවේදන නිකුත්කර තිබෙනවා. යම්කිසි ආකාරයකට කඳු නායයාම් තියෙන නිසා.
 
-Police issue landslide warnings for 3 districts due to heavy rain. Residents advised to evacuate immediately. Red alerts for Harispattuwa, Medadumbara, and surrounding areas. Special phone number 107 for Tamil speakers to report weather conditions.
+ඒ වගේම මාතලේ දිස්ත්‍රික්කයේ විල්ගමුව, අඹගමුව, අඹගමුව කෝරළේ, රත්තොට, නාවුල සහ උකුවෙල සහ නුවරඑළිය දිස්ත්‍රික්කයේ වළපනේ ප්‍රදේශයට රතු නිවේදන නිකුත් කරලා තියෙනවා. ඒ ප්‍රදේශවල නායයෑම අවදානමක් තියෙන නිසා එයින් ඉවත් වෙන්න කටයුතු කරන්න."
 
-🟩
-
-The landslide landslide has been issued to several places in 3 districts due to the inclement weather.
-
-Addressing a media briefing held in a media briefing this morning (27), police spokesman, Nihal Thaluda said that the people of the areas should immediately quit their own lives.
-
-"Showers in the central mountainous area. Showers to the east and western slopes of the central hills. Therefore, red announcements have been issued to resign from Harispattuwa, Medadumbara, Gangawara, Doluwa, Yawadumba, Udawalaha, Patintota, Patintota, Patintota, Pathatota, Pathela, Pathadula, Pathetawa and Pathaduwa, Pathela, Pathadula, Pathadula, Pathadula, Pathadula, Pathadula, Pathela, Pathadula.. Because there is mountain landslides in a way.
+මේ අතර නොසිලිකිළිමත්ව කටයුතු නොකරන ලෙස ද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා, ජනතාවගෙන් ඉල්ලා සිටියේය.
 
 ...
 
 [Data](articles/6e980d8e.json)
-
-[Extended Data](ext_articles/6e980d8e.ext.json)
 
 ---
 
@@ -468,39 +74,23 @@ The engineer said that the train later operated to Colombo after the debris that
 
 [Data](articles/7ab9abc6.json)
 
-[Extended Data](ext_articles/7ab9abc6.ext.json)
-
 ---
 
-### 'Channel 4 Documentary Investigators Investigate Investigations Investigate Investigation
+### 'உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் சனல் 4 ஆவணப்படத்தில் குற்றம்சாட்டப்பட்டவர்கள்  விசாரணைக்கு அழைக்கப்படுகின்றனர்" - கத்தோலிக்க  ஆயர் பேரவை வரவேற்பு
 
 *2024-11-27 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199812) · `ta`
 
-Here's a summary of 200 characters:
+உயிர்த்த ஞாயிறுதாக்குதல் குறித்த விசாரணைகள் சாதகமான விதத்தில் இடம்பெறுவதாக தெரிவித்துள்ள கத்தோலிக்க ஆயர்கள் பேரவை எஞ்சியுள்ள பணிகள் விரைவில் முடிவடையும் என நம்பிக்கை வெளியிட்டுள்ளது.
 
+சிஐடியினர் முன்னெடுக்கும் விசாரணைகளில் சில சாதகதன்மைகளை அவதானித்துள்ளதாக கத்தோலிக்க ஆயர்பேரவையின் பேச்சாளர் ஜூட் கிறிசாந்த பெர்ணான்டோ தெரிவித்துள்ளார்.
 
+ராஜபக்ச விக்கிரமசிங்க அரசாங்கங்கள் அலட்சியம் செய்த சில விடயங்கள் குறித்து சிஐடியினர் தற்போது கவனம் செலுத்துகின்றனர் என தெரிவித்துள்ள அவர் உதாரணத்திற்கு சனல் 4 ஆவணப்படத்தில் குற்றச்சாட்டு முன்வைக்கப்பட்ட தனிநபர்களை தற்போது விசாரணைக்கு அழைக்கின்றனர் அவர்களின் வாக்குமூலங்களை பதிவு செய்கின்றனர் என தெரிவித்துள்ளார்.
 
-"Channel 4 investigates Catholic Church bombings. CIT focuses on overlooked issues. Government urged to act on findings, not just report."
+இதனையே நாங்கள் எதிர்பார்த்தோம்,இதேயளவு அர்ப்பணிப்புடன் இந்த நடவடிக்கைகள் தொடரும் என எதிர்பார்க்கின்றோம் எனவும்  அவர் குறிப்பிட்டுள்ளார்.
 
-🟩
-
-The Catholic Bishops Council, which has said that investigations into the Sunday Sunday, are expected to be completed soon.
-
-Catholic Affairs spokesman Jude Chrisantha Fernando said that the CIT's investigations have been observed.
-
-Rajapaksa Wickremesinghe said the CIT is currently paying attention to some of the issues that the governments have neglected, and for example, the Channel 4 documentary is now invited to investigate individuals and record their affidavits.
-
-We expected this and we expect these activities to continue with the same dedication.
-
-We do not want the current government to make simply reports, and the Catholic Public Council spokesman Jude Chrisantha Fernando said that all those who planned the bombing should take appropriate measures.
-
-He said that Wickremesinghe set up and demands reports, he said, "It does not mean that the reports have been made, and that we have to take action on the basis of the discovery, and today we are looking at progressive matters.
-
-◼️
+...
 
 [Data](articles/eb3bba17.json)
-
-[Extended Data](ext_articles/eb3bba17.ext.json)
 
 ---
 
@@ -513,50 +103,6 @@ Sri Lanka Police has established a special hotline, ‘107’, dedicated for Tam
 ◼️
 
 [Data](articles/a7b98f79.json)
-
-[Extended Data](ext_articles/a7b98f79.ext.json)
-
----
-
-### A- 9 Way is flooded from Omanthai
-
-*2024-11-27 11:12:17* · [`adalk`](https://www.ada.lk/breaking_news/ඒ--9-මාර්ගය-ඕමන්තේ-ප්‍රදේශයෙන්-ජලයෙන්-යට-වෙයි/11-413304) · `si`
-
-Jaffna A9 road flooded due to heavy rain. Police advise drivers to take alternative routes from Omanthai area.
-
-🟩
-
-With the inclement weather, Jaffna A9 road has been submerged from the Omanthai area.
-
-According to police, the drivers used to use the road will be informed to use alternative routes.
-
-◼️
-
-[Data](articles/4419e5ea.json)
-
-[Extended Data](ext_articles/4419e5ea.ext.json)
-
----
-
-### Sri Lanka bonds yield fall fall, rupee at 291.15/20 to dollar
-
-*2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-yield-fall-fall-rupee-at-291-15-20-to-dollar-190205/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading more or less flat at 291.15/20 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields plummeted after the central bank’s monetary policy announcement.
-
-A bond maturing on 15.12.2027 was quoted at 10.42/48 percent, down from 10.85/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 10.50/60 percent, down from 11.07/15 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, down from 11.35/50 percent.
-
-In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 12,961. The more liquid S&P SL20 was down 0.04 percent, or 1.70 points, at 3,842.
-
-◼️
-
-[Data](articles/563b9349.json)
-
-[Extended Data](ext_articles/563b9349.ext.json)
 
 ---
 
@@ -579,26 +125,6 @@ In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 
 [Data](articles/73a9da4a.json)
 
 [Extended Data](ext_articles/73a9da4a.ext.json)
-
----
-
-### Sri Lanka bonds yield  fall, rupee at 291.15/20 to dollar
-
-*2024-11-27 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-yield-fall-rupee-at-291-15-20-to-dollar-190205/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading more or less flat at 291.15/20 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields plummeted after the central bank’s monetary policy announcement.
-
-A bond maturing on 15.12.2027 was quoted at 10.42/48 percent, down from 10.85/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 10.50/60 percent, down from 11.07/15 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, down from 11.35/50 percent.
-
-In equities, the All Share Price Index was down 0.02 percent or 2.56 points, at 12,961. The more liquid S&P SL20 was down 0.04 percent, or 1.70 points, at 3,842.
-
-◼️
-
-[Data](articles/fc2307da.json)
 
 ---
 
@@ -650,65 +176,49 @@ A total of 10,137 individuals from 3,102 families are currently being sheltered 
 
 ---
 
-### Floods around Kelani and Kala are a warning
+### කැලණි සහ කලා ඔය අවට ගංවතුර අනතුරු ඇඟවීමක්
 
 *2024-11-27 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203791) · `si`
 
-Flood warnings issued for Kelani River Basin & Kala Oya basin next 48 hours. Heavy rainfall in upper Kala Oya areas. Rajanganaya reservoir releases 100,000 cubic meters. Low-lying areas in Kalauwagunawewa, Wanathawilluwa & Karuwalagaswewa expected to flood. Kelani River receives heavy rainfall in middle & lower areas. Flood warnings issued for Kelaniya, Colombo & Wattala Divisional Secretariat areas.
+කැලණි ගංගා ද්‍රෝණිය සහ කලා ඔය ද්‍රෝණිය ආශ්‍රිතව ඉදිරි පැය 48 සඳහා ගංවතුර අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
 
-🟩
+කලා ඔය ද්‍රෝණියේ ඉහළ සහ මධ්‍යම ධාරා ප්‍රදේශවල ඇතැම් ප්‍රදේශවලට මේ වනවිට සැලකියයුතු වර්ෂාපතනයක් ලැබී ඇත.
 
-Floods have issued flood warnings for the next 48 hours in Kelani River Basin and Kala Oya basin.
+තව ද, රාජාංගනය ජලාශයෙන් තත්පරයට ඝන අඩි 10000 කට ආසන්න ජල ප්‍රමාණයක් මුදාහරිමින් පවතින අතර මේ වනවිට ජලාශයට ලැබෙන ජල ධාරිතාව අනූව මෙම ප්‍රමාණය අද දහවල් කාලයේදී තවදුරටත් වැඩිකිරීමට සිදුවිය හැකි බව වාරිමාර්ග දෙපාර්තමේන්තුව නිවේදනය කරයි.
 
-Some areas in the upper and middle current areas of the Kala Oya basin have received considerable rainfall.
+ඒ අනුව සිට ඉදිරි පැය 48 දක්වා වූ කාලය තුළ නොච්චියාගම, රාජාංගනය, වනාතවිල්ලුව සහ කරුවලගස්වැව ප්‍රාදේශීය ලේකම් කොට්ඨාශවලට අයත් කලා ඔය නිම්නයේ පහත්බිම් ප්‍රදේශවලට ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට අනතුරු අඟවා තිබේ.
 
-Moreover, nearly 100,000 cubic water capacity of the Rajanganaya reservoir is released, and the reservoir is currently reported to increase this amount.
+මේ අතර, අද උදෑසන 10.00 වන විට කැලණි ගඟ ද්‍රෝණියේ මධ්‍යම සහ පහළ ධාරා ප්‍රදේශවලට සැළකිය යුතු වර්ෂාපතනයක් ලැබී ඇත.
 
-Accordingly, within the next 48 hours of the next 48 hours, there has been a flood in the low-range areas of the Kalauwagunawewa, Wanathawilluwa and Karuwalagaswewa Divisional Secretariats.
-
-Meanwhile, by 10.00 am this morning, the Kelani River had received considerable rainfall in the middle and lower current areas of the Kelani River.
-
-Accordingly, during the next 48 hours, the Kelani river Valley in the Kelaniya, Colombo and Wattala Divisional Secretariats belonging to the Kelani river valley belonging to the Kelaniya, Colombo and Wattala Divisional Secretariat areas will be warned.
+ඒ අනුව ඉදිරි පැය 48 ක කාලය තුළ සීතාවක, දොම්පේ, හෝමාගම, කඩුවෙල, බියගම, කොළොන්නාව, කොළඹ සහ වත්තල ප්‍රාදේශීය ලේකම් කොට්ඨාශවලට අයත් කැලණි ගංඟා නිම්නයේ පහත්බිම් ප්‍රදේශවලට සුළු ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට අනතුරු අඟවනු ලැබේ.
 
 ◼️
 
 [Data](articles/a2446d40.json)
 
-[Extended Data](ext_articles/a2446d40.ext.json)
-
 ---
 
-### Latest Status of Inclement weather affected by the island - live broadcast
+### දිවයිනට බලපා ඇති අයහපත් කාලගුණයේ නවතම තත්ත්වය - සජීවි විකාශය
 
 *2024-11-27 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203790) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+දිවයිනට බලපවත්වා ඇති අයහපත් කාලගුණ තත්ත්වය හමුවේ ‍මේ වනවිට පවුල් 59,629කට අයත් පුද්ගලයින් 207,582 දෙනෙක් පීඩාවට පත්ව සිටී.
 
+ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂ ජනරාල් විශ්‍රාමික මේජර් ජෙනරල් උදය හේරත් මහතා පවසා සිටියේ, 17කට මෙම ආපදා තත්ත්වය බලපා ඇති බවය.
 
+මේ අතර ආපදා හේතුවෙන් මේ වනවිට පුද්ගලයින් දෙදෙනෙකු මරණයට පත්වී ඇති අතර පුද්ගලයින් 07 දෙනකු අතුරුදන්වී ඇති බව පොලීසිය පවසයි.
 
-"207,582 affected by inclement weather; 2 dead, 7 injured. 661 homes damaged. 6,712 displaced, 10,137 seeking shelter. Disaster Management Center reports ongoing situation."
+පොලිස් මාධ්‍ය ප්‍රකාශක නීතීඥ නිහාල් තල්දූව මහතා අද (27) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් සඳහන් කළේ ආපදා තත්ත්වය හේතුවෙන් පුද්ගලයින් 08 දෙනෙකු තුවාල ලබා ඇති බවය.
 
-🟩
+මේ අතර පවතින ආයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුර්ණ නිවාස හානි 06ක් වාර්තා වී ඇති අතර අර්ධ නිවාස හානි 561ක් වාර්තා වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කරයි.
 
-A total of 207,582 persons belonging to 59,629 persons have been affected in the face of adverse weather conditions that have been affected.
+පවතින තත්ත්වය හේතුවෙන් පවුල් 1,712කට අයත් පුද්ගලයින් 6,016 දෙනෙකු ඥාති නිවාසවල සිටින අතර ආරක්ෂිත ස්ථාන 104ක පවුල් 3,102කට අයත් පුද්ගලයින් 10,137 දෙනෙකු රැඳී සිටින බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේය.
 
-The Director General of the Disaster Management Center Rezalyic Major General Udaya Herath said that 17 this disaster was affected.
-
-Meanwhile, two persons have been killed and seven persons have been killed and seven people have been killed.
-
-Speaking at a press conference held at a press conference held today (27), police spokesman Nihal Talduuwa held today.
-
-The Disaster Management Center (DMC) stated that 661 houses have been reported from the weather conditions, including the weather conditions.
-
-The Disaster Management Center (DMC) stated that 6,712 persons belonging to 1,712 persons belonging to 1,712 families are in relatives and 10,137 persons belonging to 3,102 safe places are staying.
-
-Ada Derana and the life of the inclement weather affected by the island have been taken from Ada Derana.
+දිවයිනට බලපා ඇති අයහපත් කාලගුණ තත්ත්වය ගැන අද දෙරණ ගෙන සජීවි විකාශය පහළින් දැක්වේ.
 
 ◼️
 
 [Data](articles/9d80014c.json)
-
-[Extended Data](ext_articles/9d80014c.ext.json)
 
 ---
 
@@ -856,63 +366,47 @@ Issuing a release in this regard on yesterday (26), the Chamber stated that this
 
 ---
 
-### Interrupting train journey from inclement weather
+### අයහපත් කාලගුණයෙන් දුම්රිය ගමනටත් බාධා
 
 *2024-11-27 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203789) · `si`
 
-Train journey disrupted due to bad weather. Traffic restricted on certain routes. Garbage collapse at Hatton Railway Station avoided potential accident. Passenger train safely reached Colombo after clearing debris.
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් උඩරට මාර්ගයේ සහ මඩකලපුව මාර්ගයේ දුම්රිය ගමනාගමනය සීමා කර තිබේ.
 
-🟩
+දුම්රිය දෙපාර්තමේන්තු සඳහන් කළේ, මඩකලපුව මාර්ගයේ දුම්රිය ගමනාගමය පොළොන්නරුව දක්වා සීමා කිරීමට පියවර ගෙන ඇති බවය.
 
-Due to the prevailing bad weather conditions, train traffic is restricted to the upcountry road and Batticaloa.
+උඩරට මාර්ගයේ දුම්රිය ගමනාගමනය නානුඔය දක්වා සීමා කිරීමට පියවර ගෙන ඇති බව දුම්රිය දෙපාර්තමේන්තු වැඩිදුරටත් පැවසුවේය.
 
-Railways said that steps have been taken to restrict traffic on the Polonnaruwa road.
+මේ අතර උඩරට දුම්රිය මාර්ගයේ හැටන් දුම්රිය ස්ථානය ආසන්නයේ දුම්රිය මාර්ගයට අද (27) අලුයම විශාල කසල කන්දක් කඩා වැටී තිබේ.
 
-The Railway Department further stated that steps have been taken to limit the Upcountry Railway Train to Nanu Oya.
+ඒ සමඟ සිදුවීමට ගිය දුම්රිය අනතුරක් වළක්වා ගැනීමට හැකි වු බව හැටන් දුම්රිය ස්ථානයේ දුම්රිය මාර්ග නඩත්තු අංශයේ ඉංජිනේරුවරයා පැවසිය.
 
-Meanwhile, a large garbage mountain has collapsed at the next morning at the Hatton Railway Station on the Upcountry railway station.
+කසළ කන්ද කඩා වැටුණු අවස්ථාවේදී දුම්රිය මාර්ග සංචාරක මුරකරු එය දැක ඒ පිළිබඳව කාර්යාලය දැනුවත් කිරීමෙන් පසු නානුඔය සිට කොළඹ දක්වා ධාවනය වු මගී ප්‍රවාහන දුම්රියක් නතර කර ඇත.
 
-The engineer of the Hatton Railway Station station said that he was able to avoid a train accident.
-
-When the railway tourist guard was crashed at the time of the crash, a passenger transport train from Nanu Oya to Colombo.
-
-The engineer stated that the train was driven up to Colombo after cutting down the garbage mountain.
+පසුව දුම්රිය මාර්ගයට වැටී තිබු කසළ කන්ද කපා ඉවත් කිරිමෙන් පසු එම දුම්රිය කොළඹ දක්වා ධාවනය කළ බව ඉංජිනේරුවරයා කියාසිටියේය.
 
 ◼️
 
 [Data](articles/308a02ef.json)
 
-[Extended Data](ext_articles/308a02ef.ext.json)
-
 ---
 
-### Pudukkudiyiruppu - limestone floods flooded;Ravikaran MP review on impact conditions
+### புதுக்குடியிருப்பு - சுண்ணாம்புச்சூளை வீதி வெள்ளத்தில் மூழ்கியது; பாதிப்பு நிலைமைகள் குறித்து ரவிகரன் எம்.பி ஆராய்வு
 
 *2024-11-27 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199801) · `ta`
 
-Heavy rains flood limestone roads in Pudukkudiyiruppu. Local MP Durairasa Ravikaran visits, promises action on road rehabilitation due to impassable routes affecting schools and emergencies.
+கன மழை காரணமாக முல்லைத்தீவு - புதுக்குடியிருப்பு, கைவேலி சுண்ணாம்புச்சூளை வீதி நீரில் மூள்கியுள்ளதால் அவ்வீதியை பயன்படுத்தும் மக்கள் பலத்த இடர்ப்பாடுகளுக்கு முகங்கொடுத்துள்ளனர்.
 
-🟩
+இந்நிலையில் இப்பகுதிக்குச் சென்ற வன்னி மாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் மக்கள் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பில் கேட்டறிந்துகொண்டார்.
 
-Due to heavy rains, Mullaitivu - Pudukkudiyiruppu and Kaveli lime have been harassed by the people who use it.
+அந்த வகையில் சுமார் 1.5 கிலோமீற்றர் தூரமான சுண்ணாம்புச்சூளை வீதியானது நீண்டகாலமாக சீரின்றி காணப்படுவதாக அப்பகுதி மக்களால் நாடாளுன்ற உறுப்பினருக்குத் தெரியப்படுத்தப்பட்டது.
 
-Vanni district parliamentarian Durairasa Ravikaran visited the area and asked about the problems faced by the people.
+இதனால் பாடசாலை மாணவர்கள், அவசர மருத்துவ சேவையைப் பெறுவதற்காக செல்பவர்கள் என சகல தரப்பினரும் நீண்ட காலமாக பலத்த இன்னல்களுக்கு முகங்கொடுக்கவேண்டிய சூழல் காணப்படுவதாகவும் அப்பகுதி மக்களால் இதன்போது நாடாளுமன்ற உறுப்பினரிடம் சுட்டிக்காட்டப்பட்டது.
 
-The people of the area were informed by the people of the area that the road, which is about 1.5 kilometers away, has long been uninhabited.
+அத்தோடு தற்போது பெய்துவரும் கனமழை காரணமாக குறித்த சுண்ணாம்புச்சூளை வீதியானது முற்றாக பயன்படுத்த முடியாதவாறு நீரில் முழ்கிக் காணப்படுகிறது.
 
-It was also pointed out by the people of the area that all parties should face a long -standing difficulty as school children and emergency medical services.
-
-Due to the heavy rains, the limestone street is full of water in the water.
-
-Therefore, considering the long -standing problem they face, the people have been asked to rehabilitate the limestone road.
-
-Parliamentarian Durairasa Ravikaran said that efforts will be taken to take appropriate action on the road renovation.
-
-◼️
+...
 
 [Data](articles/ae7c8671.json)
-
-[Extended Data](ext_articles/ae7c8671.ext.json)
 
 ---
 
@@ -980,27 +474,17 @@ The ceasefire calls for an initial two-month halt to fighting and requires Hezbo
 
 ---
 
-### Vavuniya Wavelakallupottagulam Breakdown: People
+### வவுனியா அலைகல்லுப்போட்டகுளம் உடைப்பு : மக்களே அவதானம்
 
 *2024-11-27 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199798) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+வவுனியா அலைகல்லு போட்ட குளம் உடைப்பெடுத்ததால் மாளிகை குளத்திற்கு நீர் வரத்து அதிகரித்துள்ளதாக கமநல அபிவிருத்தி உதவி ஆணையாளர் தெரிவித்துள்ளார்.
 
-
-
-"Water supply increase to mansion pond due to Vavuniya wavelength pond collapse. Agrarian Development official warns Arumugathan Pudukkulam, Pudukkulam, House, Chemamadu villages at risk."
-
-🟩
-
-Assistant Commissioner of Agrarian Development has said that the water supply to the mansion pond has increased due to the collapse of the Vavuniya wavelength pond.
-
-As a result of this, the Assistant Commissioner of Agrarian Development of the Agrarian Welfare Development will take steps to ensure that the people of Arumugathan Pudukkulam, Pudukkulam, House and Chemamadu villagers are at risk.
+இதன்காரணமாக மாளிகை குளம் உடைப்பெடுக்குமாக இருந்தால் ஆறுமுகத்தான் புதுக்குளம், மாளிகை, சேமமடு கிராம மக்களுக்கு ஆபத்து ஏற்படும் என்பதால் அப்பகுதி மக்களை அவதானத்துடன் இருக்குமாறும் கால்நடைகளை பாதுகாப்பதற்கான நடவடிக்கைகளை மேற்கொள்ளுமாறும் கமநல அபிவிருத்தி உதவி ஆணையாளர் தெரிவித்துள்ளார்.
 
 ◼️
 
 [Data](articles/b6cb4436.json)
-
-[Extended Data](ext_articles/b6cb4436.ext.json)
 
 ---
 
@@ -1032,47 +516,35 @@ However, the CA at Chengdu airport at the Chengdu Airport on the Navadu Airport 
 
 ---
 
-### A part of the A-9 road is flooded - an notification for drivers
+### A-9 මාර්ගයේ කොටසක් ජලයෙන් යටවෙයි - රියදුරන්ට දැනුම්දීමක්
 
 *2024-11-27 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203788) · `si`
 
-Jaffna A-9 road flooded near Omanthai. Police advise using Kebithigollewa, Welioya, Mullaitivu, Paranthan routes to reach Jaffna.
+යාපනය A-9 ප්‍රධාන මාර්ගය, ඕමන්තේ ප්‍රදේශයෙන් ජලයෙන් යට වී තිබේ.
 
-🟩
+මේ නිසාවෙන් එම මාර්ගය භාවිත කරන රියදුරන්ට විකල්ප මාර්ග කිහිපයක් පොලීසිය විසින් දැනුම් දී ඇත.
 
-The Jaffna A-9 main road is flooded from the Omanthai area.
-
-This is so the police have informed several alternative routes to the drivers using the road.
-
-Accordingly, Kebithigollewa, Welioya, Mullaitivu, Mullaittivu and Paranthan can lead to Jaffna.
+ඒ අනුව කැබිතිගොල්ලෑව, වැලිඔය, මුලතිව්, පරන්තන්, මන්නාරම හරහා යාපනයට ගමන් කළ හැකිය.
 
 ◼️
 
 [Data](articles/4e7a3961.json)
 
-[Extended Data](ext_articles/4e7a3961.ext.json)
-
 ---
 
-### Batticaloa - Traffic impact for Colombo
+### மட்டக்களப்பு - கொழும்புக்கான போக்குவரத்து பாதிப்பு
 
 *2024-11-27 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199797) · `ta`
 
-Batticaloa-Colombo road closed due to bridge collapse. Railway service suspended. Floods in Manampitiya, Welikanda, Punananam areas.
+அந்தவகையில், மன்னம்பிட்டிய சந்தி (மகா ஒயா) வீதி  உடைந்து காணப்படுவதால் மட்டக்களப்பு - கொழும்பு வீதி மூடப்பட்டுள்ளது.
 
-🟩
+அதேபோன்று, மன்னம்பிட்டி, வெலிகந்தை, புனாணை ஆகிய பகுதிகளில் நீர் மட்டம் அதிகரித்துக் காணப்படுவதால் அவ்வீதியூடாகவும் பயணிக்க முடியாத நிலை ஏற்பட்டுள்ளது.
 
-In that case, the Batticaloa -Colombo road has been closed due to the collapse of Manampitiya Junction (Maha Oya) road.
-
-Similarly, in the Manampitiya, Welikanda and Punananam areas, the water level is increasing due to the unable to travel.
-
-The Batticaloa -Colombo Railway Service has been suspended until the re -notice of the railway service.
+புனாணை பகுதியில் புகையிரதப் பாதையை குறுக்கறுத்து நீர் அதிகரித்துச் செல்வதால் மட்டக்களப்பு - கொழும்பு புகையிரத சேவையும் மறு அறிவித்தல் வரை இடை நிறுத்தப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/e728cf18.json)
-
-[Extended Data](ext_articles/e728cf18.ext.json)
 
 ---
 
@@ -1098,35 +570,25 @@ Meanwhile, flood warnings have been issued for several areas due to the overflow
 
 ---
 
-### Jaffna-Colombo main road bloom from Puttalam
+### යාපනය - කොළඹ ප්‍රධාන මාර්ගය පුත්තලමෙන් අවහිර වෙයි
 
 *2024-11-27 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203786) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+යාපනය - කොළඹ ප්‍රධාන මාර්ගය පුත්තලම, තිරම්බි අඩිය, 2 කණුව ප්‍රදේශයට අද (27) උදෑසන විශාල ගසක් කඩා වැටී තිබේ.
 
+මේ හේතුවෙන් මාර්ගය සම්පූරණයෙන්ම අවහිර වී ඇති බව අප වාර්තාකරු ස﻿ඳහන් කළේය.
 
+මේ අතර අකුරැස්ස ඉඹුල්ගොඩදී ගංවතුරට කොටුවී  දිරාගිය පහුරක් පැදගොස් ගංවතුරේ ගිලෙමින් සිටි 16 හැවිරිදි සිසුවෙකුගේ දිවි බේරා ගැනීමට 20 හැවිරිදි තරුණයෙකු කටයුතු කර තිබුණි.
 
-Road collapse blocks Jaffna-Colombo highway near Puttalam. Teen saves drowning student in Neza Imbulgoda. Flood warnings issued for Glenbos, Kitulgala, Peradeniya, Nawalapitiya due to overflowing rivers.
+මේ අතර, කැලණි ගඟ පිටාර ගැලීම හේතුවෙන් ග්ලෙන්කෝස්, කිතුල්ගල, දැරණියගල හා නෝවුඩ් ප්‍රදේශවලට ගංවතුර අනතුරු ඇඟවීම් නිකුත් කර ති‌බේ.
 
-🟩
+නිල්වලා ගඟ පිටාර ගැලීමෙන් පානඩුගම ප්‍රදේශයත් මහවැලි ගග පිටාර ගැලීමෙන් පේරාදෙණිය සහ නාවලපිටිය ප්‍රදේශයවලටත් ගංවතුර අනතුරු ඇඟවීම් නිකුත් කර ඇත.
 
-The Jaffna-Colombo main road in Puttalam, Thirum foot, 2 stake, a large tree has collapsed today (27).
-
-As a result, our correspondent confronted our correspondent that the road was blocked.
-
-Meanwhile, a 20-year-old youth has worked to save the lives of a 16 year old student who was drowning from the Neza Imbulgoda.
-
-Meanwhile, floods have issued flood warnings to Glenkos, Kitulgala, Kitulgala, Kitulgala, Kitulgala, Kitulgala, Kitulgala.
-
-Floods have been issued to Peradeniya and Nawalapitiya area by the overflow of the Nilwala River.
-
-Floods have been issued to the Moragaswewa area and the Ganthigaswewa area in the Malwathu Oya.
+එමෙන්ම මල්වතු ඔය ආශ්‍රිතව තන්තිරමලේ ප්‍රදේශයටත් දැඳුරු ඔයා ආශ්‍රිතව මොරගස්වැව ප්‍රදේශයටත් මහ ඔය ආශ්‍රිතව බඩල්ගම ප්‍රදේශයටත් ගංවතුර අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
 
 ◼️
 
 [Data](articles/aee83a5c.json)
-
-[Extended Data](ext_articles/aee83a5c.ext.json)
 
 ---
 
@@ -1524,31 +986,21 @@ In addition, the parents have been sent to the Foreign Ministry. (A)
 
 ---
 
-### Restore children enrolled in the Russian Army
+### ’ரஷ்ய இராணுவத்தில் சேர்க்கப்பட்ட பிள்ளைகளை மீட்டுத் தாருங்கள்’
 
 *2024-11-27 06:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-இராணுவத்தில்-சேர்க்கப்பட்ட-பிள்ளைகளை-மீட்டுத்-தாருங்கள்/175-347839) · `ta`
 
-Here's a summary of 200 characters:
+வடக்கு மாகாணத்தைச் சேர்ந்த 5 இளைஞர்கள் ரஷ்ய இராணுவத்தில் வலுக்கட்டாயமாகச் சேர்த்ததாகக் கூறப்படுவது தொடர்பில் அவர்களது பெற்றோர்களால் வடக்கு மாகாண ஆளுநர் நா.வேதநாயகனிடம் முறைப்பாடு செய்யப்பட்டது.
 
+யாழ்ப்பாணம், கரவெட்டி, முள்ளியவளையைச் சேர்ந்த இளைஞர்களின் பெற்றோர்களே ஆளுநர் செயலகத்தில் நேற்று  (27) ஆளுநரை நேரில் சந்தித்து இந்தக் கோரிக்கையை முன்வைத்தனர்.
 
+இதனையடுத்து, ஆளுநர் உடனடியாக வெளிவிவகார அமைச்சின் செயலாளரைத் தொலைபேசியில் தொடர்பு கொண்டு விடயத்தைத் தெரியப்படுத்தினார்.
 
-Northern Province governor reports 5 youths forcibly recruited into Russian Army. Parents meet governor, he contacts Foreign Ministry. Situation under investigation.
-
-🟩
-
-The governor of the Northern Province Na Vedanayakan has lodged a complaint with the parents of the Northern Province that five youths from the Northern Province are forcibly recruited in the Russian army.
-
-Parents of youth from Jaffna, Karavedti and Mulliyawalai met with the Governor at the Governor's Secretariat yesterday (27).
-
-Subsequently, the governor immediately telephoned the Secretary of the Ministry of Foreign Affairs and informed the matter.
-
-In addition, parents have been sent to the Foreign Ministry. (A)
+அத்துடன், பெற்றோர்களிடம் அவர்களது விவரங்களைப் பெற்று வெளிவிவகார அமைச்சுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது. (a)
 
 ◼️
 
 [Data](articles/cd406f04.json)
-
-[Extended Data](ext_articles/cd406f04.ext.json)
 
 ---
 
@@ -1754,35 +1206,23 @@ The article makes two key points in this regard. Firstly, the CBSL has not only 
 
 ---
 
-### Skuton's accident: 'Kids rise to Tractor because' stopped the bus
+### කාර්තිව් අනතුර : 'බස් එක මග නතර කරපු නිසා ළමයි ට්‍රැක්ටරේට නැගලා'
 
 *2024-11-27 06:05:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7wxp91w1jo) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+කාර්තිව් අනතුර : 'බස් එක මග නතර කරපු නිසා ළමයි ට්‍රැක්ටරේට නැගලා'
 
+අම්පාර, කාර්තිව් ප්‍රදේශයේ මාවඩිපිල්ලේ ප්‍රදේශයේදී ළමුන් පිරිසක් රැගත් ට්‍රැක්ටර් රථයක් පෙරලීමෙන් ඊයේ (නොවැම්බර් 26) සිදුවූ අනතුරෙන් අතුරුදන් වූ පිරිස් සොයා නාවික හමුදාව මෙහෙයුම් ක්‍රියාත්මක කර ඇති බව නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසුරිය බීබීසී සිංහල සේවය වෙත පැවසීය.
 
+නාවික හමුදා මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් පැවසුවේ නාවික හමුදාවේ කිමිදුම් කණ්ඩායමක් ද අතුරුදන් වූ පිරිස් සෙවීමේ මෙහෙයුම සඳහා එම ප්‍රදේශයට මේ වන විටත් යොමු කර ඇති බවයි.
 
-Children died in tractor-bus accident in Ampara. Heavy rain & strong winds forecasted. Disasters reported in Northern & Eastern provinces. Flood warnings issued for lowlands. Meteorological department warns of landslides in several districts.
+බීබීසී සිංහල සේවය මේ සම්බන්ධයෙන් සිදු කළ විමසීමකදී අම්පාර දිස්ත්‍රික් ආපදා කළමනාකරණ ඒකකයේ සහකාර අධ්‍යක්ෂක එම්.ඒ.සි. මොහොමඩ් රියාස් පැවසුවේ නින්දවූර් ප්‍රදේශයේ මද්‍රසා පාසැලක ඉගෙනුම ලබන සිසුන් පිරිසක් මෙම අනතුරට මුහුණ පා ඇති බවයි.
 
-🟩
-
-Skuton's accident: 'Kids rise to Tractor because' stopped the bus
-
-Navy spokesman Kapithan Gayan Wickremasuriya told the BBC Sinhala service in search of a group of children carrying a group of children in the Madipali area in Ampara.
-
-The Navy Spokesperson added that a team of Navy diving and a team of digestion and the disappearance of people has already been referred to the area.
-
-BBC Sinhala service was carried out in the Ampara District Disaster Management Unit, Assistant Director of the Ampara District Disaster Management Unit. Mohammad Riyas said that a group of students studying in a mature school in Nindavur.
-
-The students were traveling from the Nindavur area.
-
-The passengers in the Passenger in the Mawarapitiya area have returned to the fluid area and has returned to it;The accident had occurred when the children were on a tractor near the group, said the accident.
+නින්දවූර් ප්‍රදේශයේ සිට සමන්තුරේ බලා ධාවනය වූ බස් රථයක එම සිසුන් පිරිස ගමන් කරමින් සිට තිබේ.
 
 ...
 
 [Data](articles/522c5cdb.json)
-
-[Extended Data](ext_articles/522c5cdb.ext.json)
 
 ---
 
@@ -2289,5 +1729,473 @@ Police have asked the public to inform the headquarters of the emergency situati
 [Data](articles/3a5aa120.json)
 
 [Extended Data](ext_articles/3a5aa120.ext.json)
+
+---
+
+### 2024-11-26 (Tuesday)
+
+### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
+
+*2024-11-26 23:20:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
+
+The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
+
+...
+
+[Data](articles/7b4fd7e2.json)
+
+---
+
+### Action by the police for emergency complaints due to random climate
+
+*2024-11-26 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199787) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Police establish 24-hour Special Operational Center at HQ for weather-related emergencies. Contact via phone numbers and email for reporting health issues, accidents, and aid needs.
+
+🟩
+
+A 24 -hour Special Operational Center has been established at the Police Headquarters to announce and coordinate any disasters due to inclement weather.
+
+Accordingly, this special action can be communicated with the following phone numbers and e -mail address.
+
+In order to inform the police about health centers, accidents and aid supplies,
+
+◼️
+
+[Data](articles/42a5d130.json)
+
+[Extended Data](ext_articles/42a5d130.ext.json)
+
+---
+
+### In the yarns. 2 thousand 634 families vulnerable due to random climate
+
+*2024-11-26 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199786) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"9,404 affected from 2,634 families due to climate in Jaffna."
+
+🟩
+
+Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that 9 thousand 404 people from 2 thousand 634 families have been affected by the inclement weather in Jaffna.
+
+2335 from 573 families in the Sanganai Divisional Secretariat Division, 1520 from 470 families in the Jaffna Divisional Secretariat Division, 932 in the Chandilipayi Divisional Secretariat Division, 1462 from the Kayts Divisional Secretariat Division and 4162 in the Chavakachachi Divisional Secretariat.508 people from 141 families were affected by the Karainagar Divisional Secretariat Division.
+
+...
+
+[Data](articles/4df0b826.json)
+
+[Extended Data](ext_articles/4df0b826.ext.json)
+
+---
+
+### Flights to land in Katunayake have been diverted to India
+
+*2024-11-26 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199785) · `ta`
+
+Katunayake flights diverted: 3 planes rerouted to Indian airports Mattala Thiruvananthapuram due to unspecified reasons. Additional 3 flights from Chennai Male Abu Dhabi redirected to Mattala International Airport.
+
+🟩
+
+Three flights arrived at the Katunayake International Airport on the night of the 26th have been diverted to the Mattala and Thiruvananthapuram airport in India.
+
+Three flights from Narita, Dubai and Chennai to Katunayake airport have been diverted to India.
+
+Accordingly, the Katunayake airport spokesman said that the flights were diverted to the Thiruvananthapuram airport.
+
+Meanwhile, three more flights from Chennai, Male and Abu Dhabi to Katunayake airport have been diverted to the Mattala International Airport.
+
+◼️
+
+[Data](articles/8bb3b5fb.json)
+
+[Extended Data](ext_articles/8bb3b5fb.ext.json)
+
+---
+
+### Police get a cadre from police to report emergency disaster
+
+*2024-11-26 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203779) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Police establish emergency disaster reporting system. Special operating room set up at headquarters. Contact numbers and email provided. Public urged to report disaster info, displacement, support needs. Adverse weather causes floods, strong winds in some areas.
+
+🟩
+
+A special operating room at police headquarters has been established to cover and coordinated the necessary activities in the country today (26) to carry out the necessary coordination.
+
+Accordingly, the following telephone numbers and email address can be contacted by this special operating room.
+
+The police urge the public to inform the Police Headquarters regarding information including disaster conditions, displaced and support.
+
+Due to the adverse weather conditions that have been affected by the island, floods, strong winds and layers have also been issued to some areas.
+
+◼️
+
+[Data](articles/5413e5cf.json)
+
+[Extended Data](ext_articles/5413e5cf.ext.json)
+
+---
+
+### ‘Red’ landslide early warning issued for areas in 3 districts
+
+*2024-11-26 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103796/red-landslide-early-warning-issued-for-areas-in-3-districts) · `en`
+
+The National Building Research Organisation (NBRO) has issued a ‘Level 3 (Red)’ Landslide Early Warning for several divisional secretariat divisions (DSDs) in Kandy, Matale and Nuwara-Eliya districts urging the residents of these areas to evacuate to safer locations.
+
+Accordingly, the Level -3 warning, valid for the next 24 hours,. Has been issued for the following divisional secretariat divisions and surrounding areas:
+
+Kandy District - Harispattuwa, Medadumbara, Kandy Four Gravets or Gangawata Korale, Ududumbara, Doluwa,  Yatinuwara, Udapalatha, Pathahewaheta, Udunuwara, Pathadumbara and Delthota
+
+Matale District - Ukuwela, Yatawatta, Rattota, Wilgamuwa, Ambanganga Korale, Laggala Pallegama, Pallepola, Naula and Matale
+
+Nuwara Eliya District - Walapane Divisional Secretariat Division (DSD) and surrounding areas
+
+...
+
+[Data](articles/05c12f83.json)
+
+[Extended Data](ext_articles/05c12f83.ext.json)
+
+---
+
+### 5 students rescued in sudden
+
+*2024-11-26 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203778) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"5 students rescued: Police report 5 students saved while traveling from Maduwe Sea school to Nindavur School. Suspects involved in tractor incident."
+
+🟩
+
+The police say that five students have rescued the suspects while traveling from the tractor from the Maduwe Sea school from the Nindavur School.
+
+◼️
+
+[Data](articles/8a484f21.json)
+
+[Extended Data](ext_articles/8a484f21.ext.json)
+
+---
+
+### Landslide red notices are issued to high risk areas
+
+*2024-11-26 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203777) · `si`
+
+Landslide warnings issued for Kandy, Matale & Nuwara Eliya districts due to heavy rainfall. NBRO monitoring slope collapses, rockfalls & earth subsidence. Affected areas: Kandy - 10 divisions; Matale - 7 divisions; Nuwara Eliya - 1 division.
+
+🟩
+
+The landslide warnings have been issued to protect the 11 Divisional Secretariat Divisions in the Kandy District due to heavy rains at the last 24 hours.
+
+The landslides were issued to 9 Divisional Secretariat Divisions in the Matale District and the Walapane Divisional Secretariat Division in Nuwara Eliya District.
+
+Accordingly, the National Building Research Organization (NBRO) is the slope collapsing, stone crash, stone flips, earth subversion and moon crashes.
+
+Kandy District - Harispattuwa, Medogoda Korala, Uduthawala, Udathaduwa, Patinuwara, Uduthawara, Pathaduwa, Pathedu, Pathettota, Pathedu, Deltota
+
+Matale District - Ukuwela, Yatawatta, Rattota Koralaya, Ambangadu Korale, Laganga Korala, Laggala, Pallegama, Pallepola, Naula, Matale
+
+◼️
+
+[Data](articles/747be43c.json)
+
+[Extended Data](ext_articles/747be43c.ext.json)
+
+---
+
+### Many children missing in the plowing machine flooded
+
+*2024-11-26 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199782) · `ta`
+
+Children swept away by flooded plowing machine. Five kids among seven passengers missing. Two rescued, receiving treatment. Authorities conducting search operation due to heavy rainfall causing severe flooding.
+
+🟩
+
+The Karadivu police said that an incident where a plowing machine carrying seven people, including five children, including five children, was flooded, had taken place in Karadivu.
+
+The driver and assistant of the vehicle with five children are currently missing. Two children are rescued and they are being treated for medical treatment.
+
+Authorities in the area are engaged in intense search. Heavy rains have caused severe flooding in the area.
+
+◼️
+
+[Data](articles/27ab591c.json)
+
+[Extended Data](ext_articles/27ab591c.ext.json)
+
+---
+
+### Central Bank launches one day policy interest rate
+
+*2024-11-26 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203776) · `si`
+
+Central Bank implements single policy interest rate, replacing dual rates. This change aims to improve inflation targeting framework and increase financial market efficiency. The one-day policy rate will be reviewed regularly to communicate monetary policy changes effectively.
+
+🟩
+
+The Central Bank Monetary Policy Board has decided to implement a single policy interest rate system instead of effective double policy interest rates.
+
+This is another important improvement carried out in the flexible inflationary targeting framework implemented by the Central Bank.
+
+Accordingly, the Central Bank introduces the One Day Policy Policy Policy Rate: Overnight Policy Rate: Overnight Policy Rate: Overnight Policy Rate:
+
+The One-Day Policy Interest rate will be reviewed and revised to communicate the Changes of the Central Bank's Monetary Policy Standards to the Parties of the economy.
+
+This policy change is expected to increase the financial market and the wide economy to the financial market and the increased transmission efficiency and effectiveness.
+
+◼️
+
+[Data](articles/e57eb4f1.json)
+
+[Extended Data](ext_articles/e57eb4f1.ext.json)
+
+---
+
+### Sri Lanka’s Central Bank implements a single policy rate mechanism
+
+*2024-11-26 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103795/sri-lankas-central-bank-implements-a-single-policy-rate-mechanism) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to implement a single policy interest rate mechanism, the Overnight Policy Rate (OPR), transitioning from its dual policy interest rate mechanism with effect from today (27 November).
+
+This has been introduced as announced in the Central Bank’s Annual Policy Statement in January 2024 and the subsequent announcement in September 2024 of the planned implementation of the single policy interest rate mechanism.
+
+This marks another significant improvement in the Flexible Inflation Targeting (FIT) framework implemented by the Central Bank, the central bank said.
+
+“Accordingly, the Central Bank introduces the Overnight Policy Rate (OPR), as its primary monetary policy tool to signal and operationalise its monetary policy stance.
+
+...
+
+[Data](articles/ec13b0f3.json)
+
+[Extended Data](ext_articles/ec13b0f3.ext.json)
+
+---
+
+### MP's car flowed into the parliamentary water lake
+
+*2024-11-26 22:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியின்-கார்-பாராளுமன்ற-நீர்-தடாகத்திற்குள்-பாய்ந்தது/175-347825) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Nihal Abeysinghe's car crashes into parliamentary lake. Police investigating incident involving MP and National People's Power Party general secretary.
+
+🟩
+
+Nihal Abeysinghe's car, the general secretary of the National People's Power Party and Kalutara district parliamentarian, crashed into the parliamentary complex this evening.
+
+Police say that the driver came to the lake when the driver arrived to reopen Nihal Abeysinghe, who participated in the new MPs. Remble
+
+◼️
+
+[Data](articles/6f673d94.json)
+
+[Extended Data](ext_articles/6f673d94.ext.json)
+
+---
+
+### MP's car fell into the water lake
+
+*2024-11-26 22:01:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நீர்-தடாகத்திற்குள்-வீழ்ந்தது-எம்-பியின்-கார்/175-347825) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Nihal Abeysinghe's car crashed into the parliamentary complex. Police say the driver was heading to reopen the MP when the accident occurred.
+
+🟩
+
+Nihal Abeysinghe's car, the general secretary of the National People's Power Party and Kalutara district parliamentarian, crashed into the parliamentary complex this evening.
+
+Police say that the driver came to the lake when the driver arrived to reopen Nihal Abeysinghe, who participated in the new parliamentary workshop.. Remble
+
+◼️
+
+[Data](articles/b682c7c1.json)
+
+[Extended Data](ext_articles/b682c7c1.ext.json)
+
+---
+
+### Six aircraft commanded to Katunayake to Mattala and India
+
+*2024-11-26 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203775) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Six aircraft rerouted: Katunayake to Mattala and India due to heavy rains. Planes from Malaysia/Maldives landed in Dubai and Chennai.
+
+🟩
+
+Six aircraft had been diverted to the Katunayake International Airport at the Katunayake and India in Mattala and India.
+
+It is due to heavy rains weather conditions for the Katunayake area.
+
+Accordingly, a plane from the Malayaya and Maldives, India, has been landed from Abu Dhabi from Abu Dhabi.
+
+The airplanes arrived at the Duba, Duba, Duba, India and Chennai, India from Chennai, India.
+
+◼️
+
+[Data](articles/8046cb04.json)
+
+[Extended Data](ext_articles/8046cb04.ext.json)
+
+---
+
+### Six flights diverted due to bad weather at BIA
+
+*2024-11-26 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103794/six-flights-diverted-due-to-bad-weather-at-bia) · `en`
+
+A total of six flights scheduled to land at the Bandaranaike International Airport (BIA) in Katunayake have been diverted to the Mattala Airport and the Thiruvananthapuram International Airport in India due to adverse weather conditions.
+
+Accordingly, three flights from Narita, Dubai and Chennai have been diverted to Thiruvananthapuram International Airport while another three from Chennai, Male and Abu Dhabi have been diverted to Mattala Airport, the duty manager at BIA confirmed.
+
+◼️
+
+[Data](articles/8e0e6ba9.json)
+
+[Extended Data](ext_articles/8e0e6ba9.ext.json)
+
+---
+
+### Request to the governor to redeem his children
+
+*2024-11-26 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199784) · `ta`
+
+Governor Na Vedanayanan meets parents over alleged youth recruitment. He contacts Foreign Ministry Secretary, sending parents there for further action.
+
+🟩
+
+The Governor of the Northern Province, Na Vedanayanan, lodged a complaint with their parents on Tuesday morning (26) in connection with the alleged recruitment of five youths from the Northern Province.
+
+Parents of youth from Jaffna, Karavetti and Mulliyawalai met with the Governor at the Governor's Secretariat on Tuesday morning (26).
+
+The Governor, who listened to the parents' request, immediately telephoned the Secretary of the Ministry of Foreign Affairs and informed the matter.. Parents have been sent to the Foreign Ministry.
+
+◼️
+
+[Data](articles/1efce6cb.json)
+
+[Extended Data](ext_articles/1efce6cb.ext.json)
+
+---
+
+### Sri Lanka to announce single overnight policy rate from Nov 27
+
+*2024-11-26 21:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-single-overnight-policy-rate-from-nov-27-190053/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank will announce a single overnight policy rate from November 27, instead of the current policy corridor involving standing deposit facilities, the monetary authority said.
+
+The standing lending and deposit facilities, will remain as a margin to the announced overnight policy rate.
+
+The central bank will continue to target an average call money rate with liquidity operations.
+
+Critics have warned that the denial monetary stability, especially from 2015, which led to serial currency crises, borrowing to repay debt, borrowings by the Ceylon Petroleum for current transactions, was a consequence of excess money printed to target a mid-corridor rate (a de facto single policy rate).
+
+Sri Lanka has been running broadly deflationary policy from around September 2022, withdrawing liquidity through outright transactions, but concerns have been raised at initial inflationary policy through its overnight and term operations.
+
+...
+
+[Data](articles/279fecb7.json)
+
+[Extended Data](ext_articles/279fecb7.ext.json)
+
+---
+
+### 48 thousand 295 people are affected by heavy rains in Mannar district -Government Agent K. Kanakeswaran
+
+*2024-11-26 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199783) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+48,295 people affected by heavy rains in Mannar district. 2,049 housed in 22 security centers. Floods destroy 9,779 acres of land. Water level at Kattakkarai pond reaches 11 feet. Government provides food assistance.
+
+🟩
+
+Mannar District Government Agent K. Kanageswaran said that 48 thousand 295 persons have been affected by heavy rains in Mannar district and 2049 persons have been housed in 22 security centers.
+
+He was speaking at a media briefing held at the Mannar District Secretariat on Tuesday evening.
+
+Due to heavy rains in the Mannar district for the past four days, the low -lying situation in the Bay of Bengal has been further strengthened.
+
+According to the current situation, 48 thousand 295 persons belonging to 13 thousand 860 families in Mannar district have been affected by the floods. In the Mannar district, Mannar, Madhu, Manthai West and Nanattan Divisional Secretariat Divisions have been affected by the floods.
+
+According to the 22 security centers set up in the district, 2049 persons from 589 families have been housed and the steps are being taken to provide them with cooked food.
+
+...
+
+[Data](articles/3fd1286a.json)
+
+[Extended Data](ext_articles/3fd1286a.ext.json)
+
+---
+
+### Eight including 6 children missing after tractor swept away by floods
+
+*2024-11-26 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103793/seven-including-5-children-missing-after-tractor-swept-away-by-floods) · `en`
+
+At least eight persons including 06 children are reported missing while two children have been rescued after the tractor they were travelling on was caught in flood waters in Karaitivu in Ampara District this evening (26).
+
+Police said that a total of 13 individuals including 11 boys, the tractor’s driver and assistant were traveling on the vehicle at the time of the incident and that 05 children had been rescued.
+
+The tractor was traveling from Ninthavur to Sammanthurai when it had toppled due to strong currents in the flood waters.
+
+The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
+
+The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
+
+A search operation has been launched to locate the missing persons by police personnel and areas residents.
+
+◼️
+
+[Data](articles/18407ad5.json)
+
+[Extended Data](ext_articles/18407ad5.ext.json)
+
+---
+
+### Eight including 6 children missing after tractor swept away by floods
+
+*2024-11-26 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103793/eight-including-6-children-missing-after-tractor-swept-away-by-floods) · `en`
+
+At least eight persons including 06 children are reported missing while two children have been rescued after the tractor they were travelling on was caught in flood waters in Karaitivu in Ampara District this evening (26).
+
+Police said that a total of 13 individuals including 11 boys, the tractor’s driver and assistant were traveling on the vehicle at the time of the incident and that 05 children had been rescued.
+
+The tractor was traveling from Ninthavur to Sammanthurai when it had toppled due to strong currents in the flood waters.
+
+The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
+
+The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
+
+A search operation has been launched to locate the missing persons by police personnel and areas residents.
+
+◼️
+
+[Data](articles/7f55fb5f.json)
+
+[Extended Data](ext_articles/7f55fb5f.ext.json)
 
 ---

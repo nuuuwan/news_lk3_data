@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 00:02:11**
+As of **2024-11-27 23:42:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,286 (100.0%) of 57,294 articles have been extended.
+57,284 (100.0%) of 57,294 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -286,8 +286,6 @@ On Wednesday the central bank cut its standing deposit facility to 7.5 percent f
 
 [Data](articles/13cabb1e.json)
 
-[Extended Data](ext_articles/13cabb1e.ext.json)
-
 ---
 
 ### New secretaries appointed in two ministries
@@ -418,35 +416,23 @@ About 4 million rupees have been seized from the suspects during the arrest.
 
 ---
 
-### The Bribery and Pollution Program Appreciates Australia
+### අල්ලස් හා දූෂණයෙන් තොර වැඩපිළිවෙළ ඕස්ට්‍රේලියාව අගය කරයි
 
 *2024-11-27 19:25:53* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-හා-දූෂණයෙන්-තොර-වැඩපිළිවෙළ-ඕස්ට්‍රේලියාව-අගය-කරයි/11-413323) · `si`
 
-Here's a summary of 200 characters:
+අල්ලස් දූෂණවලින් තොර නව රජයේ  වැඩපිළිවෙළ ආයෝජකයින්  ආකර්ෂණය කරන බව ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු මහ කොමසාරිස් පෝල් ස්ටීවන්ස් (Paul Stephens)  මහතා ප්‍රකාශ කළේය.
 
+අල්ලස් හා දූෂණයෙන් තොර යාන්ත්‍රණයක් රට පුරා ස්ථාපිත කිරීමට රජය ගෙන යන වැඩපිළිවෙළ සඳහා ඕනෑම අවස්ථාවක සහයෝගය දක්වන බවද  ඕස්ට්‍රේලියානු මහ කොමසාරිස්වරයා සඳහන් කළේය .
 
+ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු මහ කොමසාරිස් පෝල් ස්ටීවන්ස් (Paul Stephens)  මහතා මේ බව සදහන් කළේ, ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත්කුමානායක මහතා  ජනාධිපති කාර්යාලයේ අද (27)  හමු වූ අවස්ථාවේදීය.
 
-Australia supports Sri Lanka's anti-corruption efforts. High Commissioner Paul Sephens praises "Clean Sri Lanka" initiative. Focus on national security, marine affairs, digital sector, education, and energy modernization. Australia strengthens ties with Sri Lanka.
+ඕස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර පවතින වසර 75ක මිතුදම තවදුරටත් ශක්තිමත් කරමින් දෙරට අතර සමීප සබඳතා ඉදිරියටත් පවත්වාගෙන යාමට කටයුතු කරන බවද ඕස්ට්‍රේලියානු මහ කොමසාරිස්වරයා මෙහිදී පැවසීය.
 
-🟩
-
-Australian High Commissioner in Sri Lanka (PAUL SEPHENS) stated that the new government's program without corruption is attracted to investors.
-
-The Australian High Commissioner said that the government's actions will be supported at any time, the government's actions to establish a bribery and corruption.
-
-The President of the High Commissioner for Australian High Commissioner Paul Stevens (Paul Stevens) said the Secretary to the President Dr. Nandika Sanath was found at the Presidential Secretariat today (27).
-
-The Australian High Commissioner said he will further strengthen the seven-year-old circumstances between Australia and Sri Lanka.
-
-The focus was also focused on providing the National Security, Marine Affairs, Digital and State Sector in modernization, professional education and energy sector.
-
-The Australian High Commissioner, who appreciated President Anura Kumara Dissanayake's 'Clene Sri Lanka' initiative, he said that it would provide the necessary assistance at any time.
+ජාතික ආරක්‍ෂාව,  සමුද්‍රීය කටයුතු, ඩිජිටල්කරණය, රාජ්‍ය  අංශය නවීකරණය , වෘත්තීය අධ්‍යාපනය සහ බලශක්ති ක්ෂේත්‍රය පිළිබඳ ඕස්ට්‍රේලියානු තාක්ෂණික සහාය ලබා දීම සම්බන්ධයෙන්ද මෙහිදී අවධානය යොමු කෙරිණි .
 
 ...
 
 [Data](articles/eee61166.json)
-
-[Extended Data](ext_articles/eee61166.ext.json)
 
 ---
 

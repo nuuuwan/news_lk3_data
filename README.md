@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-27 22:41:56**
+As of **2024-11-27 23:00:24**
 
 ## Newspaper Stats
 
-*Scraped **57,281** Articles*
+*Scraped **57,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,431
 economynextcom | 3,478
 dailyftlk | 3,939
 dailymirrorlk | 4,733
-adalk | 5,406
+adalk | 5,407
 adaderanalk | 6,935
 tamilmirrorlk | 8,148
 virakesarilk | 9,335
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,280 (100.0%) of 57,281 articles have been extended.
+57,280 (100.0%) of 57,282 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -293,6 +293,26 @@ About 4 million rupees have been seized from the suspects during the arrest.
 [Data](articles/c21acd1d.json)
 
 [Extended Data](ext_articles/c21acd1d.ext.json)
+
+---
+
+### අල්ලස් හා දූෂණයෙන් තොර වැඩපිළිවෙළ ඕස්ට්‍රේලියාව අගය කරයි
+
+*2024-11-27 19:25:53* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-හා-දූෂණයෙන්-තොර-වැඩපිළිවෙළ-ඕස්ට්‍රේලියාව-අගය-කරයි/11-413323) · `si`
+
+අල්ලස් දූෂණවලින් තොර නව රජයේ  වැඩපිළිවෙළ ආයෝජකයින්  ආකර්ෂණය කරන බව ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු මහ කොමසාරිස් පෝල් ස්ටීවන්ස් (Paul Stephens)  මහතා ප්‍රකාශ කළේය.
+
+අල්ලස් හා දූෂණයෙන් තොර යාන්ත්‍රණයක් රට පුරා ස්ථාපිත කිරීමට රජය ගෙන යන වැඩපිළිවෙළ සඳහා ඕනෑම අවස්ථාවක සහයෝගය දක්වන බවද  ඕස්ට්‍රේලියානු මහ කොමසාරිස්වරයා සඳහන් කළේය .
+
+ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු මහ කොමසාරිස් පෝල් ස්ටීවන්ස් (Paul Stephens)  මහතා මේ බව සදහන් කළේ, ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත්කුමානායක මහතා  ජනාධිපති කාර්යාලයේ අද (27)  හමු වූ අවස්ථාවේදීය.
+
+ඕස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර පවතින වසර 75ක මිතුදම තවදුරටත් ශක්තිමත් කරමින් දෙරට අතර සමීප සබඳතා ඉදිරියටත් පවත්වාගෙන යාමට කටයුතු කරන බවද ඕස්ට්‍රේලියානු මහ කොමසාරිස්වරයා මෙහිදී පැවසීය.
+
+ජාතික ආරක්‍ෂාව,  සමුද්‍රීය කටයුතු, ඩිජිටල්කරණය, රාජ්‍ය  අංශය නවීකරණය , වෘත්තීය අධ්‍යාපනය සහ බලශක්ති ක්ෂේත්‍රය පිළිබඳ ඕස්ට්‍රේලියානු තාක්ෂණික සහාය ලබා දීම සම්බන්ධයෙන්ද මෙහිදී අවධානය යොමු කෙරිණි .
+
+...
+
+[Data](articles/eee61166.json)
 
 ---
 
@@ -2567,37 +2587,5 @@ The engineer said that the train later operated to Colombo after the debris that
 [Data](articles/7ab9abc6.json)
 
 [Extended Data](ext_articles/7ab9abc6.ext.json)
-
----
-
-### 'Channel 4 Documentary Investigators Investigate Investigations Investigate Investigation
-
-*2024-11-27 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199812) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Channel 4 investigates Catholic Church bombings. CIT focuses on overlooked issues. Government urged to act on findings, not just report."
-
-🟩
-
-The Catholic Bishops Council, which has said that investigations into the Sunday Sunday, are expected to be completed soon.
-
-Catholic Affairs spokesman Jude Chrisantha Fernando said that the CIT's investigations have been observed.
-
-Rajapaksa Wickremesinghe said the CIT is currently paying attention to some of the issues that the governments have neglected, and for example, the Channel 4 documentary is now invited to investigate individuals and record their affidavits.
-
-We expected this and we expect these activities to continue with the same dedication.
-
-We do not want the current government to make simply reports, and the Catholic Public Council spokesman Jude Chrisantha Fernando said that all those who planned the bombing should take appropriate measures.
-
-He said that Wickremesinghe set up and demands reports, he said, "It does not mean that the reports have been made, and that we have to take action on the basis of the discovery, and today we are looking at progressive matters.
-
-◼️
-
-[Data](articles/eb3bba17.json)
-
-[Extended Data](ext_articles/eb3bba17.ext.json)
 
 ---

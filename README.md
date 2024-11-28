@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 22:01:45**
+As of **2024-11-28 22:28:46**
 
 ## Newspaper Stats
 
-*Scraped **57,465** Articles*
+*Scraped **57,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,433
-adaderanalk | 6,962
+adaderanalk | 6,963
 tamilmirrorlk | 8,174
 virakesarilk | 9,369
-adaderanasinhalalk | 9,921
+adaderanasinhalalk | 9,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,464 (100.0%) of 57,465 articles have been extended.
+57,467 (100.0%) of 57,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Government stand on damaged farmland
+
+*2024-11-28 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203847) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Gov't seeks compensation for 6 crops: paddy, maize, onions, potatoes, soy & chilies. Floods damaged farms. Deputy Min calls for expedited payments."
+
+🟩
+
+Deputy Minister of Agriculture Namal Karunaratne says that the government is looking for a compensation for the 6 crops of compensation.
+
+He was speaking on the actions taken by the inclement weather.
+
+He also pointed out that the Department of Agriculture has a small stock of seed paddy, he said.
+
+"There is only 6 crops in compenses. Paddy, Maize, big onions, potatoes, soy and chili. The ransom applies to the farmers who have been damaged due to heavy rains. We are in the position that you should give another compensation to other farmers too. We are ready to make a request to the Cabinet regarding the cash quality in the Treasury. "
+
+Farmers in many areas including paddy lands have been flooded for Maha season are still inundated.
+
+A large number of farms have been severely damaged due to floods due to the influence of heavy rainfall weather.
+
+Those farmers have been in the face of a week after the Maha season.
+
+...
+
+[Data](articles/03568597.json)
+
+[Extended Data](ext_articles/03568597.ext.json)
+
+---
+
+### South Africa is a strong position
+
+*2024-11-28 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203846) · `si`
+
+South Africa leads Sri Lanka in Test match: 132/3, Tristhaba & Tristan Stubbs 24 each, Eridan Markram 47, Tony de Serzi 17, Beuran Hewage 15. Prabath Jayasuriya 2/48, Dilshan Madushanka 1/33.
+
+🟩
+
+South Africa scored 132 runs for the loss of 3 wickets in their second day's Test match between Sri Lanka and South Africa.
+
+Accordingly, they are currently ahead of the first innings of Sri Lanka.
+
+The Leader of the leader, Tristhaba scored 24 runs and a Tristan Stubbs scored 24 runs while the two of them were 43 runs.
+
+Eridan Markram scored 47 runs in the second innings.
+
+In addition to him, Tony de Serzi scored 17 runs and the beer Mulder scored 15.
+
+Among the Sri Lanka bowlers, Prabath Jayasuriya took 2 wickets for 48 runs.
+
+In addition, universal Fernando had one wicket and gave him 33 runs.
+
+◼️
+
+[Data](articles/82081871.json)
+
+[Extended Data](ext_articles/82081871.ext.json)
+
+---
+
+### Ten new envoys present credentials to President Dissanayake
+
+*2024-11-28 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103852/ten-new-envoys-present-credentials-to-president-dissanayake) · `en`
+
+Nine newly appointed ambassadors and one high commissioner to Sri Lanka have officially presented their credentials to President Anura Kumara Dissanayake this morning (28) at the Presidential Secretariat in Colombo.
+
+The new ambassadors represent Burkina Faso, Bosnia and Herzegovina, the Republic of Azerbaijan, Georgia, the Republic of Belarus, the Republic of Armenia, the Kingdom of Spain, the Republic of Congo, and the Republic of Guinea.
+
+Additionally, a new high commissioner has been appointed to represent the Republic of Kenya, the President’s Media Division (PMD) said.
+
+Below is the list of the new ambassadors and the high commissioner who presented their credentials to President Dissanayake today.
+
+1. Dr. Désiré Boniface Some - Ambassador-designate of Burkina Faso based in New Delhi
+
+2. Mr. Haris Hrle - Ambassador-designate of Bosnia and Herzegovina based in New Delhi
+
+3. Mr. Elchin Huseynli - Ambassador-designate of the Republic of Azerbaijan based in New Delhi
+
+...
+
+[Data](articles/ad327b0c.json)
+
+---
 
 ### Deep depression’s influence on Sri Lanka’s weather to reduce after tomorrow
 
@@ -430,23 +518,35 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 
 ---
 
-### රජයේ ප්‍රමුඛතාව ගැන ජනපති ලෝක බැංකු සභාපතිට කියයි
+### President tells World Bank's chairman of government priority
 
 *2024-11-28 18:05:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ප්‍රමුඛතාව-ගැන-ජනපති-ලෝක-බැංකු-සභාපතිට-කියයි/11-413346) · `si`
 
-2025 දී විවෘත කෙරෙන දකුණු ආසියානු ඒකාබද්ධ කාර්යාල 20හි සත්කාරක රටක් ලෙස ශ්‍රී ලංකාවද එක් වෙයි
+Here's a summary in 200 characters:
 
-ශ්‍රී ලංකාව දිළිදුකම පිටුදැකීම, ඩිජිටල්කරණය සහ ආර්ථික වර්ධනය කෙරෙහි අවධානය යොමු කරයි
 
-උතුර සහ නැගෙනහිර පළාත්වල අධ්‍යාපන සහ සෞඛ්‍ය ක්ෂේත්‍රඉහළ නැංවීමට ද අවධානය
 
-ශ්‍රී ලංකාවේ අනාගත සංවර්ධන ප්‍රමුඛතා පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ලෝක බැංකු සභාපති අජේ බංගා (Ajay Banga) මහතා අතර ඊයේ (27) ජනාධිපති කාර්යාලයේදී මාර්ගගත තාක්ෂණය ඔස්සේ පැවැත්විණි.
+Sri Lanka: World Bank aid for jobs, digitalization, education, healthcare. Focus on North & East economic growth.
 
-නව රැකියා අවස්ථා නිර්මාණය කිරීම සහ ඉදිරි සංවර්ධන අභියෝග ජය ගැනීමට ලෝක බැංකුවෙන් ශ්‍රී ලංකාවට ලබා දිය හැකි සහාය පිළිබඳව මෙහිදී අජේ බංගා මහතා අදහස් දැක්වූ අතර අධ්‍යාපන, සෞඛ්‍ය, සමාජ ආරක්ෂණය හා ආර්ථික සංවර්ධනය වැනි අංශවල නව වැඩසටහන් ක්‍රියාත්මක කිරීමට මූල්‍ය සහ තාක්‍ෂණික උපකාර සැපයීම කෙරෙහි ද සාකච්ඡා කෙරිණි.
+🟩
+
+Sri Lanka joins as a host country in South Asian Joint Offices opened in 2025
+
+Sri Lanka focuses on digitalization and economic growth of poverty
+
+Attention to enhance education and health in the North and East
+
+President Anura Kumara Dissanayake and World Bank Chairman AJay Banga (AJay Banga) was held yesterday (27) at the Presidential Secretariat yesterday (27).
+
+Ajaye Banga said that the World Bank could be made to Sri Lanka to create new employment opportunities and overcome the future development challenges.Was done.
+
+The World Bank is supporting Sri Lanka, including economic policies, financial policies, investment, corporate development and poverty in the field of agriculture, water management, security, environmental stability, development, infrastructure improvement and development of infrastructureIt is expected to expand the support to digital translation.
 
 ...
 
 [Data](articles/acfc2300.json)
+
+[Extended Data](ext_articles/acfc2300.ext.json)
 
 ---
 
@@ -2537,77 +2637,5 @@ The Sri Lankan police said that steps are being taken to include other features 
 [Data](articles/09c3a2ad.json)
 
 [Extended Data](ext_articles/09c3a2ad.ext.json)
-
----
-
-### Conducting A / L examination is forum - here is the date on which
-
-*2024-11-28 10:44:32* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විභාගය-පැවැත්වීම-තවත්-කල්-යයි---ආරම්භ-වන-දිනය-මෙන්න/11-413330) · `si`
-
-GCE Advanced Level Exam postponed due to bad weather. Commissioner General says no exam for next 3 days, rescheduled for Dec 3, 2024.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara said that the GCE Advanced Level Examination has not been held for another three days due to the inclement weather.
-
-He was speaking at a media briefing held in Colombo today.
-
-"We decided to extend our decision. Accordingly, the year 2024 is a location of Rs.We will announce that this exam will not conduct another three days. We will not conduct this exam until December 3. "
-
-◼️
-
-[Data](articles/f3ba407e.json)
-
-[Extended Data](ext_articles/f3ba407e.ext.json)
-
----
-
-### U/The Examinations, Dez. Postpone up to 3
-
-*2024-11-28 10:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உ-த-பரீட்சைகள்-டிசெ-3-வரை-ஒத்திவைப்பு/150-347915) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-GCE A/L exams postponed until Dec 3 due to bad weather. Resumed on Dec 4 as per Commissioner General Amit Jayasundera's announcement.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera said that the Department of Examinations has decided to postpone the 2024 GCE Advanced Level Examination till December 3 due to inclement weather.
-
-The Commissioner General has announced that the exams will be resumed on December 4.
-
-◼️
-
-[Data](articles/3644a63d.json)
-
-[Extended Data](ext_articles/3644a63d.ext.json)
-
----
-
-### NPP MPs take Selfie;
-
-*2024-11-28 10:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-எம்-பி-க்கள்-செல்ஃபி-எடுக்கின்றனர்-சாடுகிறார்-காசிலிங்கம்/175-347914) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-NPP MPs accused of neglecting flood victims in Sri Lanka's North. Kasilingam criticizes their inaction, saying they prioritized selfies over aid. Over 250,000 affected, 10 deaths reported. SLPP offers support, calling for responsible governance.
-
-🟩
-
-Sri Lanka PA and Jaffna District Coordinator Geetanath Kaslingam has accused the newly elected MPs (MPs) from the Northern Province and failed to help people affected by the disaster of the disaster.
-
-"Newly elected MPs from the North have failed to help the affected people through the national power of the people," Kasilingam said, “More than 250,000 people across the country, including thousands of people in Jaffna, are suffering from heavy floods.. 10 people have already died due to disaster. Many families need food, shelter and medical help.
-
-“When natural disaster occurs, it is the duty of the state to provide immediate assistance such as food, medicine and other essentials. However, despite the heavy rains and heavy floods for several days, newly elected MPs from the North are doing more photos than serving. ”
-
-...
-
-[Data](articles/944b3bae.json)
-
-[Extended Data](ext_articles/944b3bae.ext.json)
 
 ---

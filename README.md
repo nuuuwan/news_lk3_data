@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 22:28:46**
+As of **2024-11-28 22:41:59**
 
 ## Newspaper Stats
 
-*Scraped **57,468** Articles*
+*Scraped **57,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,433
+adalk | 5,434
 adaderanalk | 6,963
 tamilmirrorlk | 8,174
 virakesarilk | 9,369
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,467 (100.0%) of 57,468 articles have been extended.
+57,467 (100.0%) of 57,469 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -515,6 +515,24 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 [Data](articles/b586014c.json)
 
 [Extended Data](ext_articles/b586014c.ext.json)
+
+---
+
+### රැළෙන් වෙන්ව සිටි අලි පැටවෙකු මී හරක් රංචුවක් සමග ගමට එයි
+
+*2024-11-28 18:10:38* · [`adalk`](https://www.ada.lk/picture_story/රැළෙන්-වෙන්ව-සිටි-අලි-පැටවෙකු-මී-හරක්-රංචුවක්-සමග-ගමට-එයි/10-413347) · `si`
+
+පොළොන්නරුව දිස්ත්‍රීක්කයට ඇදහැලෙන අධික වර්ෂාපතනය හා මහවැලි ගග පිටාර ගැලීම නිසා පොළොන්නරුව දිවුලාන විල්ලුව පිටාර ගැලීම හේතුවෙන් තම රැළෙන් වෙන්ව අතරමංව සිටි වන අලි පැටවෙකු 28 වෙනිදා මී හරක් රංචුවක් සමග දිවුලාන ගම්මානයයේ පිහිටි ගවමඩුවක් වෙත පැමිණ ඇත.
+
+මෙලෙස මී හරක් රංචුවක් සමග දිවුලාන ගම්මානයේ පිහිටි ගව මඩුවක් වෙත පැමිණ මෙම වන අලි පැටවා සෝමාවතිය රක්ෂිතයේ සැරිසරන වයස අවුරුදු 4-5 ත් අතර පසුවන උස අඩි 05 ක් පමණ වන අලි පැටවෙකු බව  පොළොන්නරුව වනජීවී කාර්යාලයේ නිලධාරියකු සඳහන් කළේය.
+
+මී හරක් රංචුව සමග ඉතා සමීපව සැරිසරන මෙම අලි පැටවා දැක බලා ගැනීම සඳහා විශාල පිරිසක් එම ගව මඩුව වෙත පැමිණෙමින් සිට්යහ.
+
+රැළෙන් මග හැරී ගම්මානය වෙත පැමිණ සිටින මෙම අලි පැටවා පිලිබදව ගම්වාසීන් විසින් පොළොන්නරුව වනජීවී කාර්යාලයේ වනජීවී නිලධාරීන් දැනුවත් කිරීමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/068af00c.json)
 
 ---
 
@@ -2613,29 +2631,5 @@ Under the influence of this weather system, the sky is cloudy in most parts of S
 [Data](articles/9348f992.json)
 
 [Extended Data](ext_articles/9348f992.ext.json)
-
----
-
-### Change on the Sri Lankan police website
-
-*2024-11-28 10:50:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பொலிஸ்-இணையத்தளத்தில்-மாற்றம்/175-347917) · `ta`
-
-Sri Lanka police update site: public complaints, permits now online. New features coming soon.
-
-🟩
-
-The Sri Lankan police have updated its official website to access the main features of the public.
-
-The renewed website was launched yesterday under the patronage of Public Security Minister Ananda Wijebala.
-
-In addition to sharing the official updates of the police activities, this website will allow the public to file public complaints and submit applications for police permit registrations.
-
-The Sri Lankan police said that steps are being taken to include other features on the new website.
-
-◼️
-
-[Data](articles/09c3a2ad.json)
-
-[Extended Data](ext_articles/09c3a2ad.ext.json)
 
 ---

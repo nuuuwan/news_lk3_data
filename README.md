@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 15:42:39**
+As of **2024-11-28 16:27:26**
 
 ## Newspaper Stats
 
-*Scraped **57,405** Articles*
+*Scraped **57,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,420
-adaderanalk | 6,953
-tamilmirrorlk | 8,163
+adalk | 5,422
+adaderanalk | 6,956
+tamilmirrorlk | 8,167
 virakesarilk | 9,352
 adaderanasinhalalk | 9,911
 
@@ -26,41 +26,267 @@ adaderanasinhalalk | 9,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,403 (100.0%) of 57,405 articles have been extended.
+57,411 (100.0%) of 57,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### DMT அதிரடி அறிவிப்பு: சாரதிகளே கவனம்
+### Manusha is demanding compensation of Rs 1 billion
+
+*2024-11-28 16:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-பில்லியன்-இழப்பீடு-கோருகிறார்-மனுஷ/175-347936) · `ta`
+
+Here's a summary in approximately 200 characters:
+
+
+
+Former Min. Manusha Nanayakkara demands Rs 1 billion compensation from SLBFE chief over Korean E8 visa system allegations. Accuses of damaging reputation, calls for investigation.
+
+🟩
+
+Former Minister Manusha Nanayakkara has issued a letter of LD on charges of the Korean E8 visa system to Kosala Wickremasinghe, Chairman of the Sri Lanka Foreign Employment Bureau (SLBFE).
+
+In an interview with a media, former Foreign Employment Minister Manusha Nanayakkara pointed out in his letter that Kosala Wickremasinghe had informed the former minister's financial fraud.
+
+Former minister Manusha Nanayakkara accuses SLBFE leader of damaging his reputation. 01 billion compensation.
+
+Former Minister Nanayakkara has also called for External Affairs Minister Vijitha Herath to investigate false allegations against Korean E8 visa system.
+
+In a letter to the Foreign Minister, Manusha Nanayakkara said that the allegations that he had received financial benefits under the visa system had caused severe damage to his political and personal reputation.
+
+...
+
+[Data](articles/ef4f0be2.json)
+
+[Extended Data](ext_articles/ef4f0be2.ext.json)
+
+---
+
+### Sri Lanka's renowned elephant kills electricity
+
+*2024-11-28 15:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-புகழ்பெற்ற-யானை-மின்சாரம்-தாக்கி-பலி/175-347934) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Elephant causes power outage in Sri Lanka. Aged 40-50, it frequently visits Kala Veva and Kahalla-Pallakella backup areas.
+
+🟩
+
+The elephant, aged 40 - 50, is often known to come to Kala Veva and Kahalla -Pallakella backups.
+
+◼️
+
+[Data](articles/f531db0f.json)
+
+[Extended Data](ext_articles/f531db0f.ext.json)
+
+---
+
+### 2 more examinations back
+
+*2024-11-28 15:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-2-பரீட்சைகள்-பிற்போடப்பட்டன/175-347933) · `ta`
+
+Two state exams in Sri Lanka delayed due to weather. First efficiency exam for senior statistics rescheduled for 2024. Original dates were Dec 1-2. New dates to be announced soon.
+
+🟩
+
+The Department of Examinations has announced that two state exams have been delayed due to inclement weather in Sri Lanka.
+
+The Commissioner General of Examinations Amit Jayasundera has announced that the first efficiency examination for senior statistics of the Department of Senior Statistics of the Department of Ceylon and Census and Statistics has been postponed for 2024.
+
+Amit Jayasundera told the media that the exams were first scheduled for on December 01 and 02 and that the examiners from many parts of the country will be attending Colombo for examinations.
+
+However, due to inclement weather, various areas have been severely affected, he said.
+
+Amit Jayasundara added that the re -scheduled dates of the exams will be announced soon.
+
+◼️
+
+[Data](articles/d1144e5b.json)
+
+[Extended Data](ext_articles/d1144e5b.ext.json)
+
+---
+
+### Prison for a trader who spread fake information
+
+*2024-11-28 15:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலித்-தகவல்களை-பரப்பிய-வர்த்தகருக்கு-சிறை/175-347932) · `ta`
+
+Businessman sentenced 6 months suspended jail for spreading false info on social media about former State Minister. Fined Rs 5000, must remove posts within 24 hours. Conditional ban imposed under Internet Security Act.
+
+🟩
+
+A businessman has been sentenced to 6 months suspended for spreading false information on social media about former State Minister Khadar Mastan on complaints filed under the Conservation Protection Act.
+
+The businessman has been accused of spreading the soundtracks on the former diplomatic minister on social media sites such as Facebook and WhatsApp.
+
+Colombo Chief Magistrate Thilina Kamage, who issued the order, suspended the sentence for five years and ordered the suspect to be fined Rs 5,000.
+
+In addition, the judge has ordered the suspect to immediately remove all his reports on social media regarding the former Minister of State.
+
+Colombo Chief Magistrate Mannar has issued a conditional ban on the complaint filed by former Minister of State Qatar Mastan under the Internet Security Act.. President Attorney Ali Sabri appeared on the petitioner.
+
+◼️
+
+[Data](articles/0217f215.json)
+
+[Extended Data](ext_articles/0217f215.ext.json)
+
+---
+
+### South Africa restricts Sri Lankan bowlers at 191 in their first innings
+
+*2024-11-28 15:39:28* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකා-පළමු-ඉනිම-ලකුණු-191ට-ශ්‍රී-ලංකා-පන්දු-යවන්නන්-සීමා-කරයි/9-413339) · `si`
+
+South Africa restricted to 191 runs in first innings against Sri Lanka. Lahiru Kumara and Asitha Fernando took 2 wickets each, Prabath Jayasuriya also claimed 2 wickets. Second day of Test match begins.
+
+🟩
+
+The second day of the first Test match between the Sri Lanka Tourism Sri Lanka and South Africa will be held.
+
+Sri Lanka bowlers to limit the first innings in South Africa to 191 in 191.
+
+Lahiru Kumara and Asapitha Fernando took 2 wickets each and Prabath Jayasuriya took 2 wickets each.
+
+◼️
+
+[Data](articles/4fd24de9.json)
+
+[Extended Data](ext_articles/4fd24de9.ext.json)
+
+---
+
+### SriLankan Airlines wins Tamil Nadu tourism’s top honor
+
+*2024-11-28 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103844/srilankan-airlines-wins-tamil-nadu-tourisms-top-honor) · `en`
+
+SriLankan Airlines has been recognized as the ‘Best Airline Partner’ by Tamil Nadu Tourism, as announced on Thursday.
+
+This prestigious award highlights the airline’s pivotal role in enhancing the region’s tourism.
+
+An official statement from SriLankan Airlines emphasized their contribution, stating that the airline operates 35 weekly flights connecting Chennai, Tiruchirappalli, and Madurai in Tamil Nadu with Colombo.
+
+This schedule supports a variety of travelers, ranging from shoppers and pilgrims to those seeking medical treatment.
+
+Dimuthu Tennakoon, Head of Worldwide Sales and Distribution, expressed pride in receiving this accolade, underscoring the airline’s steadfast dedication to providing excellent service and regional connectivity.
+
+He noted the potential for Tamil Nadu to evolve into a leading travel destination, further expanding SriLankan Airlines’ influence in the area.
+
+...
+
+[Data](articles/807c9c3d.json)
+
+---
+
+### DMT Action Notice: Drivers Attention
 
 *2024-11-28 15:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/DMT-அதிரடி-அறிவிப்பு-சாரதிகளே-கவனம்/175-347931) · `ta`
 
-மோட்டார் போக்குவரத்து திணைக்களத்தினால் (DMT) வழங்கப்பட்ட தற்காலிக வாகன இலக்கத் தகடுகளின் செல்லுபடியாகும் காலம் டிசம்பர் 15 ஆம் திகதியுடன் முடிவடையும் என மோட்டார் போக்குவரத்து திணைக்களஆணையாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க அறிவித்துள்ளார்.
+DMT warns: Temporary vehicle numbers expire Dec 15. Obtain permanent plates before deadline. Driving with temporary number after date illegal. Traffic police will enforce.
 
-நிரந்தர இலக்கத் தகடுகளை வழங்குவதில் திணைக்களம் எதிர்கொள்ளும் சவால்கள் காரணமாகவே தற்காலிக வாகன இலக்கத் தகடுகள் வழங்கப்பட்டதாக அவர் கூறினார்.
+🟩
 
-எனவே, குறித்த காலக்கெடுவிற்கு முன்னர் தமது அசல் இலக்கத் தகடுகளைப் பெற்றுக்கொள்ளுமாறு பொதுமக்களிடம் ஆணையாளர் நாயகம் கேட்டுக்கொண்டுள்ளார்.
+The Department of Motor Transport Nishantha Anurutha Weerasinghe has announced that the validity of the temporary vehicle base provided by the Department of Motor Transport (DMT) will end on December 15.
 
-டிசம்பர் 15ம் திகதிக்கு பிறகு தற்காலிக வாகன இலக்கத் தகடு வைத்து வாகனங்களை ஓட்டுவது சட்ட விரோதமாக கருதப்படும். மீறுவோர் மீது தேவையான சட்ட நடவடிக்கை எடுக்க போக்குவரத்து பொலிஸாருக்கு அறிவுறுத்தப்பட்டுள்ளது.
+He said that temporary vehicle digits were provided due to challenges facing the department in providing permanent digits.
+
+Therefore, the Commissioner General has asked the public to obtain their original digit plates before the deadline.
+
+Driving vehicles with a temporary vehicle number after December 15 will be considered illegal. Traffic police have been advised to take necessary legal action against the violators.
 
 ◼️
 
 [Data](articles/6f3972dd.json)
 
+[Extended Data](ext_articles/6f3972dd.ext.json)
+
 ---
 
-### වසර 50ට පසු ඇදුම රෝගයට නව ප්‍රතිකාරයක් සොයා ගැනේ
+### Main suspect in Rs. 75 million cash robbery fled to Dubai?
+
+*2024-11-28 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103843/main-suspect-in-rs-75-million-cash-robbery-fled-to-dubai) · `en`
+
+Another suspect involved in the recent robbery in Minuwangoda of over Rs. 75 million in cash from a private company providing cash in transit services has reportedly fled to Dubai.
+
+This has been revealed during the investigation conducted by the officers of the Gampaha Division Crimes Bureau who are investigating the incident.
+
+On November 18, the driver of a private company providing cash in transit services had fled with over Rs. 70 million in cash which was being transported in the Minuwangoda area.
+
+Subsequently, three suspects were arrested in relation to the incident on two separate occasions, with more than Rs. 30.55 million in stolen cash found in their possession.
+
+Accordingly, during the interrogation of two of the suspects who were arrested yesterday (27), it was revealed that they had spent most of the stolen money on prostitutes.
+
+...
+
+[Data](articles/4f4a8590.json)
+
+---
+
+### Warrant against MP Archchuna recalled after appearing at court
+
+*2024-11-28 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103842/warrant-against-mp-archchuna-recalled-after-appearing-at-court) · `en`
+
+The Colombo Magistrate’s Court today ordered to recall the arrest warrant issued against Jaffna District Independent Member of Parliament Archchuna Ramanathan after he failed to appear before the court in relation with an incident of assaulting an individual after causing a traffic accident.
+
+The order was issued after the parliamentarian appeared before the court through an attorney.
+
+On November 26, Colombo Additional Magistrate Manjula Ratnayake ordered the issuance of an arrest warrant against MP Ramanathan, through the Senior Superintendent of Police (SSP) in Jaffna.
+
+This order was issued during the hearing of an ongoing case related to an alleged incident of assaulting an individual after causing a traffic accident on the Baseline Road, Colombo in 2021.
+
+◼️
+
+[Data](articles/71289402.json)
+
+---
+
+### Using temporary number plates. 15 Gentine finished
+
+*2024-11-28 15:08:59* · [`adalk`](https://www.ada.lk/breaking_news/තාවකාලික-අංක-තහඩු-භාවිත-කිරීම-දෙසැ--15දායින්-අවසන්/11-413335) · `si`
+
+Temporary number plates: Obtain by Dec 15th. Afterward, use illegal; police action. Permit ends Dec 15th.
+
+🟩
+
+Motor Traffic Commissioner General Nishantha Anuruddha said that the issuance of the issuance of vehicle number plates in the Department of Motor Traffic has commenced.
+
+Accordingly, if the number of persons will be paid to the Department of Motor Traffic to obtain a vehicle plate, the Commissioner General says that the number plate will be obtained before December 15.
+
+After December 15, the vehicle vehicles cannot be operated in the road using temporary number plates and the police department will take legal action to drive using temporary number plates.
+
+The Commissioner General further stated that the permit given to running with temporary number plates will be completed by December 15, the Commissioner General added.
+
+◼️
+
+[Data](articles/d98e2291.json)
+
+[Extended Data](ext_articles/d98e2291.ext.json)
+
+---
+
+### New cure for asthma after 50 years
 
 *2024-11-28 14:41:54* · [`adalk`](https://www.ada.lk/breaking_news/වසර-50ට-පසු-ඇදුම-රෝගයට-නව-ප්‍රතිකාරයක්-සොයා-ගැනේ/11-413334) · `si`
 
-ඇදුම රෝගය සඳහා නව ප්‍රතිකාරයක් ලන්ඩනයේ පර්යේෂණ කණ්ඩායමක් විසින් සොයාගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-වසර 50ට පසු නව ප්‍රතිකාරයක් සොයාගත් පළමු අවස්ථාව මෙය බව එම පර්යේෂණ කණ්ඩායම ප්‍රකාශයට පත් කර ඇත.
+
+
+"London discovers groundbreaking asthma cure after 50-year drought. Pioneering treatment brings fresh hope to millions suffering from chronic respiratory condition."
+
+🟩
+
+London has found a new treatment for asthma.
+
+This is the first time that a new treatment has been found after 50 years.
 
 ◼️
 
 [Data](articles/a421dc0b.json)
+
+[Extended Data](ext_articles/a421dc0b.ext.json)
 
 ---
 
@@ -2181,189 +2407,5 @@ Accordingly, KR Uduwala has been appointed as the Secretary to the Ministry of E
 [Data](articles/328cf6b2.json)
 
 [Extended Data](ext_articles/328cf6b2.ext.json)
-
----
-
-### 11 Navy Groups to provide relief
-
-*2024-11-28 00:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணம்-வழங்க-11-கடற்படை-குழுக்கள்/175-347900) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Navy relief groups operating in Ampara, Batticaloa, and Matara. 50 Air Force personnel with 6 helicopters deployed for rescues.
-
-🟩
-
-Navy relief committees are on duty in Ampara, Batticaloa and Matara districts.
-
-Meanwhile, 50 people of the Air Force have been deployed with 6 helicopters in six seats to rescue the victims of the vulnerability, the Air Force said the Air Force said it was.. (A)
-
-◼️
-
-[Data](articles/b5bc2f37.json)
-
-[Extended Data](ext_articles/b5bc2f37.ext.json)
-
----
-
-### 2024-11-27 (Wednesday)
-
-### Compass that united a country: Corporate lens of NPP’s leadership and strategy
-
-*2024-11-27 23:37:22* · [`dailyftlk`](https://www.ft.lk/columns/Compass-that-united-a-country-Corporate-lens-of-NPP-s-leadership-and-strategy/4-769772) · `en`
-
-The NPP’s rise from a 3% voter base in 2020 to a sweeping victory in 2024 exemplifies the power of walking the talk
-
-At the highest level of success, the foundation lies in assembling the right team – a group of individuals whose expertise, professionalism, and values align with the organisation’s vision and strategy. The right people are not merely executors but partners in innovation, progress, and trust-building
-
-This article is an analytical review aimed at evaluating the NPP’s growth and evolution from its inception, purely from a leadership and strategic perspective as seen through a corporate lens. It focuses solely on the factors which contributed to its recent success, offering an academic and objective analysis. This is not a political essay or commentary, nor does it express any political opinions or endorsements
-
-...
-
-[Data](articles/625a3b61.json)
-
-[Extended Data](ext_articles/625a3b61.ext.json)
-
----
-
-### Political sociology of JVP-NPP avalanche, establishment collapse and Opposition free-fall
-
-*2024-11-27 23:22:53* · [`dailyftlk`](https://www.ft.lk/columns/Political-sociology-of-JVP-NPP-avalanche-establishment-collapse-and-Opposition-free-fall/4-769771) · `en`
-
-The most memorable visual image of Sri Lanka’s new Parliamentary session, the first to be opened by newly-elected leftwing President Anura Kumara Dissanayake, was also the moment that best symbolized the primarily progressive character or aspect of his presidency and the JVP-NPP victory. It is when he opened his car door unaided, stepped out of it in the same outfit he wore as an MP, and beamed. That, and dispensing with religio-cultural rituals that always precede or accompany such occasions here, though not in any legislature of a Republic anywhere else, extended the promise of the first fully modern Sri Lanka presidency and administration.
-
-...
-
-[Data](articles/916eb995.json)
-
-[Extended Data](ext_articles/916eb995.ext.json)
-
----
-
-### 8752 persons belonging to 2942 families in Trincomalee district
-
-*2024-11-27 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199887) · `ta`
-
-Trincomalee district: 8752 affected, 329 in shelters, 3173 in relatives' homes. 24 houses partially damaged. Displaced across various divisions.
-
-🟩
-
-In the Trincomalee district, 8752 persons from 2942 families have been affected and 329 from 131 families have been housed in security centers.
-
-According to statistics received at 05.00 pm on Wednesday (27) due to heavy rains in Trincomalee district. 329 persons from 131 families have been placed in security centers. 3173 from 882 families stay in relative homes. The Deputy Director of the Trincomalee District Disaster Management Center, Kukadas Sukunadas, said that 24 houses have been partially damaged.
-
-...
-
-[Data](articles/b75146e4.json)
-
-[Extended Data](ext_articles/b75146e4.ext.json)
-
----
-
-### Very services from the official website
-
-*2024-11-27 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203819) · `si`
-
-Sri Lanka Police Official Website launched today. Public can access www.police.lk for updates. Online system for police clearance reports and complaints submission. New web page features IT Division.
-
-🟩
-
-The Sri Lanka Police Official Website to update the official website and created a new face and launched today (27).
-
-The Hon.
-
-The public can be accessed by the Sri Lankan Police, www.poolice.lk and the police Media Media Media Media Center forces regularly updated.
-
-Applying for police clearance reports, to submit the usual system, to submit the complaints on the online system, and the Police Information Technology Division is set to be included in the New Web page.
-
-◼️
-
-[Data](articles/4d212307.json)
-
-[Extended Data](ext_articles/4d212307.ext.json)
-
----
-
-### Ampara tractor accident: Body of another missing boy found
-
-*2024-11-27 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103822/ampara-tractor-accident-body-of-another-missing-boy-found) · `en`
-
-The body of another student out of the six who went missing after the tractor they were traveling on toppled and was swept away by floodwaters at Karaitivu in Ampara District last evening (26), has been discovered.
-
-Accordingly, the bodies of four students have been recovered thus far while search operations are continuing for the two other missing students as well as the tractor’s driver and his assistant.
-
-The incident occurred last evening when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents while passing through flood waters.
-
-Police had confirmed that 05 children had been rescued while the rest were reported missing.
-
-The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
-
-...
-
-[Data](articles/ddae7b2f.json)
-
-[Extended Data](ext_articles/ddae7b2f.ext.json)
-
----
-
-### Fine Lines and Wrinkles…
-
-*2024-11-27 22:18:00* · [`islandlk`](http://island.lk/fine-lines-and-wrinkles/) · `en`
-
-I’ve had queries coming my way regarding Fine Lines and Wrinkles.
-
-Some would say with age it’s a natural happening but I believe if we take care of our skin, we can tone down Fine Lines and Wrinkles a great deal.
-
-Try out these homemade remedies and I’m sure you will notice a difference…
-
-Mix aloe vera gel with honey and apply it to your face. Leave it on for 15-20 minutes. Aloe vera has soothing properties, while honey provides moisture.
-
-Mash a ripe avocado and mix it with a teaspoon of honey. Apply the mixture to your face for about 15-20 minutes. Avocado is rich in vitamins and antioxidants that can nourish the skin.
-
-: Mix equal parts of plain yoghurt and honey. Apply it to your face and leave it on for 15-20 minutes. The lactic acid in yoghurt can help exfoliate the skin while honey is moisturizing.
-
-Mash a ripe banana and apply it to your face for around 15 minutes. Bananas are packed with vitamins and nutrients that can hydrate the skin.
-
-...
-
-[Data](articles/4e3a9e75.json)
-
-[Extended Data](ext_articles/4e3a9e75.ext.json)
-
----
-
-### Historic Panadura clock tower restored by Asian Paints Causeway’s restoration drive
-
-*2024-11-27 22:13:00* · [`islandlk`](http://island.lk/historic-panadura-clock-tower-restored-by-asian-paints-causeways-restoration-drive/) · `en`
-
-Marking the beginning of a nationwide initiative to protect and restore Sri Lanka’s iconic landmarks, Asian Paints Causeway has completed the restoration of the Panadura Clock Tower, a symbolic landmark of the Kalutara district.
-
-The restoration of the clock tower began as painters cleaned and repainted the structure, which was in a state of decaying paint. The event was attended by representatives from the Panadura Municipal Council, the Panadura community, local merchants, and officials from Asian Paints Causeway. The clock tower was repainted with SmartCare AquaSafe, a leading exterior paint known for its durability against algae, dirt, and peeling, restoring the tower’s former charm.
-
-...
-
-[Data](articles/0cb01bbf.json)
-
-[Extended Data](ext_articles/0cb01bbf.ext.json)
-
----
-
-### ICMA Australia celebrates 25 years of excellence in Sri Lanka with strategic global expansion
-
-*2024-11-27 22:12:00* · [`islandlk`](http://island.lk/icma-australia-celebrates-25-years-of-excellence-in-sri-lanka-with-strategic-global-expansion/) · `en`
-
-The Institute of Certified Management Accountants (ICMA) Australia celebrated a milestone Silver Jubilee in Sri Lanka with a prestigious ceremony amidst industry leaders, distinguished professionals, and members of the academic community and diplomatic representatives from the Australian and New Zealand High Commissions’. David Cartney, Global Vice President was the Chief Guest.
-
-The landmark event commemorated a quarter-century of excellence in strategic management accounting education. It also unveiled significant strategic initiatives positioning Sri Lanka as a global hub for management accounting education.
-
-The event also showcased the institute’s plans for expanding its educational offerings and strengthening its global presence through Sri Lanka’s enhanced position as a center of excellence.
-
-...
-
-[Data](articles/df6209b0.json)
-
-[Extended Data](ext_articles/df6209b0.ext.json)
 
 ---

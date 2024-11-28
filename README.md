@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 21:01:05**
+As of **2024-11-28 21:13:29**
 
 ## Newspaper Stats
 
-*Scraped **57,460** Articles*
+*Scraped **57,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,431
+adalk | 5,432
 adaderanalk | 6,961
 tamilmirrorlk | 8,174
 virakesarilk | 9,369
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,460 (100.0%) of 57,460 articles have been extended.
+57,460 (100.0%) of 57,461 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -565,6 +565,22 @@ The first look of the film has been designed and released in the famous 'Salt bu
 [Data](articles/6abbf4ff.json)
 
 [Extended Data](ext_articles/6abbf4ff.ext.json)
+
+---
+
+### ඉරාන ජාතිකයන් 7කට ජීවිතාන්තය දක්වා සිර දඬුවම්
+
+*2024-11-28 17:24:11* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජාතිකයන්-7කට-ජීවිතාන්තය-දක්වා-සිර-දඬුවම්/11-413344) · `si`
+
+ජාවාරම් කිරීම සඳහා ශ්‍රී ලංකාවට හෙරොයින් කිලෝ ග්‍රෑම් 425කට අධික ප්‍රමාණයක් රැගෙන එමින් සිටියදී මට්ටක්කුලිය මුහුදු තීරයේදී පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් අත්අඩංගුවට ගන්නා ලද ඉරාන ජාතිකයන් 07 දෙනෙකුට කොළඹ මහාධිකරණ විනිසුරු ආර්. එස්. එස්. සපුවිද මහතා ජීවිතාන්තය දක්වා සිරදඬුවම් අද (28) නියම කළේය.
+
+වසර 05 කට ඉහතදී හෙරොයින් ජාවාරම් කිරීම සම්බන්ධයෙන් පැවරූ නඩුව විභාගයට ගත් අවස්ථාවේදී අදාළ චෝදනාවන්ට තමන් වරද පිලිගන්නා බව දැනුම් දීමෙන් අනතුරුව විත්තිකරුවන් වරදකරුවන් බව තීරණය කරමින් විනිසුරුවරයා අදාළ දඬුවම් නියම කළේය.
+
+2019 ජුලි 12 වැනිදා හෝ ඊට ආසන්න දිනයක ශ්‍රී ලංකාවට අයත් අනන්‍ය වු මට්ටක්කුලිය මුහුදු තීරයේදී හෙරොයින් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 425කට අධික ප්‍රමාණයක් සන්තකයේ තබාගැනීම සහ ප්‍රවාහනය කිරීම යන චෝදනා යටතේ විත්තිකරුට එරෙහිව නීතීපතිවරයා චෝදනා නඟා තිබිණී.
+
+...
+
+[Data](articles/05bf0707.json)
 
 ---
 
@@ -2585,33 +2601,5 @@ Accordingly, the Commissioner of Examinations said that the subjects of the sche
 [Data](articles/2e845093.json)
 
 [Extended Data](ext_articles/2e845093.ext.json)
-
----
-
-### Kidangi Street - Mavadipalli Street submerged: Traffic impact!
-
-*2024-11-28 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199893) · `ta`
-
-Ampara district floods submerge streets bridges disrupt traffic affect agriculture
-
-🟩
-
-Kange and Mavadipalli Street have been submerged due to floodwaters due to inclement weather in Ampara district.
-
-Due to the rains, the flood waters have begun over the Kalloya settlement villages in the Navithanveli Divisional Secretariat Division and Kalmunai Nagar.
-
-The Mavadipalli Bridge, which connects the Samanthurai Divisional Secretariat and the Karativu Divisional Secretariat, has been submerged in flood water. Through this, people who are transported are facing great difficulties.
-
-The Sri Lanka Navy, the Road Development Authority and the Divisional Secretariat have taken action to carry out people's transport through these two areas.
-
-Thousands of farmers, office officers and the public are traveling every day, causing this difficulty.
-
-Meanwhile, area farmers are concerned that the flood waters of the field have been affected by the floods in the field due to heavy rains in some parts of the Ampara district.
-
-...
-
-[Data](articles/85d14799.json)
-
-[Extended Data](ext_articles/85d14799.ext.json)
 
 ---

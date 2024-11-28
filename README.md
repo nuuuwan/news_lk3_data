@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 23:42:30**
+As of **2024-11-29 00:16:39**
 
 ## Newspaper Stats
 
-*Scraped **57,477** Articles*
+*Scraped **57,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,37 @@ colombotelegraphcom | 582
 bbccomsinhala | 598
 islandlk | 3,443
 economynextcom | 3,499
-dailyftlk | 3,955
+dailyftlk | 3,956
 dailymirrorlk | 4,733
 adalk | 5,434
 adaderanalk | 6,964
 tamilmirrorlk | 8,174
-virakesarilk | 9,369
+virakesarilk | 9,376
 adaderanasinhalalk | 9,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,469 (100.0%) of 57,477 articles have been extended.
+57,473 (100.0%) of 57,485 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-29 (Friday)
+
+### Imposition of penalty on vehicle dealers for delayed registrations amid gradual lifting of import restrictions
+
+*2024-11-29 00:02:50* · [`dailyftlk`](https://www.ft.lk/columns/Imposition-of-penalty-on-vehicle-dealers-for-delayed-registrations-amid-gradual-lifting-of-import-restrictions/4-769827) · `en`
+
+Government policy aims to balance economic recovery with regulatory compliance
+
+In a bid to manage the foreign currency outflow while gradually easing restrictions on vehicle imports, the Sri Lankan Government has introduced a new regulation imposing a 3% penalty on the Cost, Insurance, and Freight (CIF) value of any newly imported vehicle that is not registered within 90 days. This policy aims to prevent vehicle dealers from hoarding imported vehicles, potentially triggering a spike in foreign exchange usage at a time when Sri Lanka's economic stability remains fragile.
+
+...
+
+[Data](articles/f9c539c5.json)
+
+---
 
 ### 2024-11-28 (Thursday)
 
@@ -49,6 +65,8 @@ In such a background, police investigations have revealed that the principal had
 ...
 
 [Data](articles/b835a4cb.json)
+
+[Extended Data](ext_articles/b835a4cb.ext.json)
 
 ---
 
@@ -142,6 +160,58 @@ Below is the list of the new ambassadors and the high commissioner who presented
 
 ---
 
+### நாட்டில் சீரற்ற வானிலையால் 12 பேர் பலி : 3 இலட்சத்திற்கும் மேற்பட்டோர் பாதிப்பு!
+
+*2024-11-28 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199962) · `ta`
+
+நாட்டில் நிலவும் சீரற்ற வானிலை காரணமாக 24 மாவட்டங்களிலும் பாதிப்புக்கள் ஏற்பட்டுள்ளதாகவும் அனர்த்தங்களில் சிக்கி இதுவரை 12 பேர் உயிரிழந்துள்ளதாகவும் அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+மழை, வெள்ளம் போன்ற அனர்த்தங்களால் ஒரு இலட்சத்து 13 ஆயிரத்து 52 குடும்பங்களைச் சேர்ந்த 3 இலட்சத்து 77 ஆயிரத்து 511 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் மேலும் தெரிவித்துள்ளது.
+
+சீரற்ற வானிலையால் ஏற்பட்ட அனர்த்தத்தில் 17 பேர் காயமடைந்துள்ளதுடன் ஒருவர் காணாமல் போயுள்ளார்.
+
+நாடளாவிய ரீதியில் 311 இடைத்தங்கல் முகாம்கள் அமைக்கப்பட்டுள்ள நிலையில், அந்த முகாம்களில் 10 ஆயிரத்து 431 குடும்பங்களைச் சேர்ந்த 32 ஆயிரத்து 695 பேர் தங்கவைக்கப்பட்டுள்னளர்.
+
+◼️
+
+[Data](articles/c834203f.json)
+
+---
+
+### பணம் பெற்றுக்கொண்டதாக தெரிவிக்கப்படும் குற்றச்சாட்டு தொடர்பில் விசாரணை நடத்தவும் - மனுஷ விஜித்த ஹேரத்திடம் கோரிக்கை
+
+*2024-11-28 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199918) · `ta`
+
+வெளிநாட்டு வேலைவாய்ப்புக்காக பணம் பெற்றுக்கொண்டதாக தெரிவிக்கப்படும் குற்றச்சாட்டில் எந்த உண்மையும் இல்லை. அதுதொடர்பில் முழுமையான விசாரணை மேற்கொள்ள வேண்டும் என தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு முன்னாள் அமைச்சர் மனுஷ நாணயக்கார  கோரிக்கை விடுத்துள்ளார்.
+
+இதுதொடர்பாக வெளிவிவகார மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் விஜித்த ஹேரத்துக்கு அவர் அனுப்பியுள்ள கடிதத்திலேயே இவ்வாறு தெரிவித்துள்ளார்.
+
+ஈ 8 விசா குழுவின் கீழ் பருவகால தொழில் வாய்ப்புக்களை நாட்டுக்கு பெற்றுக்கொள்வதற்காக விடயத்துக்கு பொறுப்பான அமைச்சர் என்றவகையில் இலங்கை மற்றும்  கொரிய குடியரசில் செயற்படுத்தப்படும் சட்ட நிலைமைகளை  சம்பந்தப்படுத்திக்கொண்டு சட்ட ரீதியாகவும் வெளிப்படைத்தன்மையுடனுமே நடவடிக்கை எடுத்தேன்.
+
+...
+
+[Data](articles/7bb4c7fd.json)
+
+---
+
+### தமிழ்நாடு சுற்றுலா விருதுகளில் ‘சிறந்த விமானப் பங்குதாரராக’ ஸ்ரீலங்கன் ஏர்லைன்ஸுக்கு அங்கீகாரம்
+
+*2024-11-28 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199924) · `ta`
+
+தென்னிந்தியாவில் சுற்றுலா தளத்தை மேம்படுத்துவதில் விமான சேவையில் சிறந்த பங்களிப்பை அளித்த விமான சேவையாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானம் "சிறந்த விமான பங்குதாரர்" விருதை பெற்றுள்ளது. 2024 ஆம் ஆண்டு நவம்பர் 19ஆம் தேதி நடைபெற்ற நிகழ்ச்சியில் இந்த விருது ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனத்துக்கு வழங்கப்பட்டது.
+
+செப்டம்பர் மாதம் நடைபெற்ற தெற்காசிய பயண விருதுகளில், பார்வையாளர்களின் தேர்வு மூலம் தேர்வர்கள் தேர்வு செய்யப்பட்டனர்.
+
+தெற்காசியாவின் சிறந்த முன்னணி சர்வதேச விமான நிறுவனமாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் வெற்றி பெற்றதைத் தொடர்ந்த கடந்த சில மாதங்களில் ஸ்ரீலங்கன் நிறுவனம் பெரும் இரண்டாவது கெளரவத்தை இந்தப் பாராட்டு குறிக்கிறது
+
+தமிழகத்தில் சென்னை, திருச்சி மற்றும் மதுரையில் கொழும்புக்கு இணைக்கும் கிட்டத்தட்ட 35 வாராந்திர விமானங்கள் மூலம், ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம், மருத்துவ பயணங்கள், சுற்றுலா பயணங்கள், யாத்திரை பயணங்கள் உள்ளிட்டவற்றை ஆதரிக்கும் முன்னணி சர்வதேச விமான நிறுவனங்களில் ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் தொடர்ந்து நிலை நிறுத்திக் கொண்டு வருகிறது.
+
+...
+
+[Data](articles/5090f85a.json)
+
+---
+
 ### Deep depression’s influence on Sri Lanka’s weather to reduce after tomorrow
 
 *2024-11-28 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103851/deep-depressions-influence-on-sri-lankas-weather-to-reduce-after-tomorrow) · `en`
@@ -197,6 +267,24 @@ If the current government of such a surroundings or a solution to the national p
 [Data](articles/789ba7f9.json)
 
 [Extended Data](ext_articles/789ba7f9.ext.json)
+
+---
+
+### பயங்கரவாத இயக்கத்தையும் அதன் தலைவரையும் போற்றுவது முன்நோக்கிப் பயணிக்க உதவாது - அலி சப்ரி
+
+*2024-11-28 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199923) · `ta`
+
+இரக்கமற்ற வகையில் பயங்கரவாதத்தைக் கட்டமைத்த தமிழீழ விடுதலைப்புலிகள் இயக்கத்தையோ அல்லது அதன் தலைவரையோ போற்றுவது நாம் முன்நோக்கிப் பயணிப்பதற்கு ஏதுவான வழிமுறையாக அமையாது எனச் சுட்டிக்காட்டியிருக்கும் முன்னாள் வெளிவிவகார அமைச்சர் அலி சப்ரி, இனவாதத்தைப் பரப்புவதற்கு சந்தர்ப்பத்தை எதிர்பார்த்துக் காத்திருக்கும் தெற்கின் கடும்போக்கு சக்திகளுக்கு அந்த வாய்ப்பை வழங்குவதைத் தவிர்த்துக்கொள்ளவேண்டும் என வலியுறுத்தியிருக்கிறார்.
+
+மாவீரர் தினத்தை முன்னிட்டு புதன்கிழமை (27) கடும் மழைக்கு மத்தியிலும் வட, கிழக்கு மக்கள் மாவீரர் துயிலும் இல்லங்களுக்குச்சென்று பெரும் உணர்வெழுச்சியுடன் மாவீரர்களை நினைவுகூர்ந்தனர்.
+
+இந்நிலையில், நினைவுகூரல் தொடர்பில் மேற்கண்டவாறு கருத்து வெளியிட்டிருக்கும் முன்னாள் அமைச்சர் அலி சப்ரி, மேலும் கூறியிருப்பதாவது,
+
+நாமனைவரும் ஒற்றுமையானதும், அமைதியானதுமான இலங்கையைக் கட்டியெழுப்புவதை முன்னிறுத்திப் பணியாற்றும்போது, பல வருடங்களாக நீடித்த மிகமோசமான யுத்தத்தில் உயிரிழந்தவர்கள் மற்றும் அதனால் பாதிக்கப்பட்டவர்கள் சார்ந்த நினைவுகளுக்கு மதிப்பளிக்கவேண்டியது மிக முக்கியமானதாகும்.
+
+...
+
+[Data](articles/14ec6852.json)
 
 ---
 
@@ -377,6 +465,38 @@ Also, 7,063 persons from 1,995 families have been housed in 80 security centers,
 [Data](articles/140df05d.json)
 
 [Extended Data](ext_articles/140df05d.ext.json)
+
+---
+
+### கடும் மழையுடனான காலநிலையால் 4800 ஏக்கர் நெற் பயிர்ச்செய்கை  பாதிப்பு  - விவசாயத்துறை அமைச்சு!
+
+*2024-11-28 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/199938) · `ta`
+
+நாட்டில் நிலவும் மழையுடனான காலநிலையால் பெரும்போக விவசாயத்தில் 4800 ஏக்கர் நெற்பயிர்ச்செய்கை  முழுமையாக பாதிக்கப்பட்டுள்ளதுடன், 3900 ஏக்கர் நெற்செய்கை பகுதியளவில் பாதிக்கப்பட்டுள்ளன. பாதிக்கப்பட்டுள்ள விவசாயிகளுக்கு உரிய நிவாரணம் வழங்கப்படும் என விவசாயத்துறை இராஜாங்க அமைச்சர் நாமல் கருணாரத்ன தெரிவித்தார்.
+
+நலன்புரி திட்டத்துக்கமைய விவசாயிகளுக்கு வழங்கப்படும் விவசாயிகளுக்கான கொடுப்பனவு முறையாக வழங்கப்படும். தேசிய மட்டத்தில் விவசாயத்துறையை மேம்படுத்துவதற்கு உரிய நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன. விவசாயிகளை வளப்படுத்தாமல் தேசிய உற்பத்திகளை மேம்படுத்த முடியாது.
+
+நாட்டில் நிலவும் மழையுடனான காலநிலையால் பெரும்போக விவசாயத்தில் 4800 ஏக்கர் நெற்பயிர்ச்செய்கை பாதிக்கப்பட்டுள்ள நிலையில் 3900 ஏக்கர் நெற் பயிர்ச்செய்கை பகுதியளவில் பாதிக்கப்பட்டுள்ளன. பாதிக்கப்பட்டுள்ள விவசாயிகளுக்கு நிவாரணம் வழங்குவதற்கு உரிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.மதிப்பீடுகளின் பின்னர் நிவாரணம் வழங்கப்படும்.
+
+...
+
+[Data](articles/545beea9.json)
+
+---
+
+### மூன்றாம் கட்ட மீளாய்வு தொடர்பான உத்தியோகத்தர் மட்ட இணக்கப்பாடஇலங்கை அடைந்திருப்பது பொருளாதார முன்னேற்றத்தைக் காண்பிக்கிறது - இலங்கை வர்த்தக சம்மேளனம் பெருமிதம்
+
+*2024-11-28 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199957) · `ta`
+
+மூன்றாம் கட்ட மீளாய்வு தொடர்பில் சர்வதேச நாணய நிதிய அதிகாரிகளுடன் உத்தியோகத்தர் மட்ட இணக்கப்பாடு எட்டப்பட்டிருப்பதானது, மறுசீரமைப்புக்களை நடைமுறைப்படுத்துவதிலும், நிதியியல் ஸ்திரத்தன்மையை மீளுறுதிப்படுத்துவதிலும் இலங்கை அடைந்திருக்கும் முன்னேற்றத்தைக் காண்பிப்பதாக இலங்கை வர்த்தக சம்மேளனம் (சிலோன் சேம்பர் ஒஃப் கொமர்ஸ்) தெரிவித்துள்ளது.
+
+சர்வதேச நாணய நிதியத்தினால் அனுசரணை அளிக்கப்படும் விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டம் தொடர்பில் கடந்த வாரம் மேற்கொள்ளப்பட்ட மூன்றாம் கட்ட மீளாய்வை அடுத்து நாணய நிதிய அதிகாரிகளுக்கும், இலங்கை அரசாங்கத்துக்கும் இடையில் உத்தியோகத்தர் மட்ட இணக்கப்பாடு எட்டப்பட்டது.
+
+இதுகுறித்து வரவேற்பு வெளியிட்டிருக்கும் இலங்கை வர்த்தக சம்மேளனம் (சிலோன் சேம்பர் ஒஃப் கொமர்ஸ்), இந்த உத்தியோகத்தர் மட்ட இணக்கப்பாடானது கட்டமைப்பு மறுசீரமைப்புக்களை நடைமுறைப்படுத்துவதிலும், பொருளாதார மீட்சிக்கு மத்தியில் நிதியியல் ஸ்திரத்தன்மையை மீளுறுதிப்படுத்துவதிலும் இலங்கை அடைந்திருக்கும் முன்னேற்றத்தைக் காண்பிப்பதாகத் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/2c8691e8.json)
 
 ---
 
@@ -838,6 +958,8 @@ A bond maturing on 15.09.2029 closed at 10.70/85 percent, down from 10.80/90 per
 
 [Data](articles/8a354547.json)
 
+[Extended Data](ext_articles/8a354547.ext.json)
+
 ---
 
 ### 7 Iranians sentenced to life in prison
@@ -889,6 +1011,8 @@ All three bonds were available on tap after the auction. (Colombo/Nov28/2024)
 ◼️
 
 [Data](articles/b5506163.json)
+
+[Extended Data](ext_articles/b5506163.ext.json)
 
 ---
 
@@ -981,6 +1105,8 @@ Sampath Bank saw buying interest from local investors, they said.
 ...
 
 [Data](articles/847eae35.json)
+
+[Extended Data](ext_articles/847eae35.ext.json)
 
 ---
 
@@ -1103,6 +1229,24 @@ Dayaratne previously served as the Chairman of the Securities and Exchange Commi
 [Data](articles/252f3c98.json)
 
 [Extended Data](ext_articles/252f3c98.ext.json)
+
+---
+
+### தடைசெய்யப்பட்ட விடுதலைப் புலிகள் அமைப்பை வரையறைகளுடன் எவ்வாறு அனுஷ்டிக்க முடியும் - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+
+*2024-11-28 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199946) · `ta`
+
+விடுதலை புலிகள் அமைப்பு பயங்கரவாத அமைப்பாக அறிவித்து தடை செய்யப்பட்டுள்ள நிலையில் வரையறைகளுடன் மாவீரர் தினத்தை எவ்வாறு அனுஷ்டிக்க இடமளிக்க முடியும். இவ்வாறான செயற்பாடுகளினால் எதிர்காலத்தில் இலங்கையில் ஒசாமா பின் லேடனையும் அனுஸ்டிக்க நேரிடும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் உறுப்பினர் மனோஜ் கமகே தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் வியாழக்கிழமை (28) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போதே மேற்கண்டவாறு குறிப்பிட்டார்.
+
+வரலாற்றில் என்றுமில்லாத வகையில் இம்முறை வடக்கில் உணர்வுபூர்வமாக அனுஸ்டிக்கப்பட்டுள்ளது. தேசிய பாதுபாப்புக்கு அச்சுறுத்தல் ஏற்படாத வகையில் மாவீரர் தினத்தை அனுஸ்டிப்பதற்கு அனுமதியளித்துள்ளதாக அரசாங்கம் குறிப்பிடுகிறது.
+
+ஆனால் வடக்கு  மக்கள்  இம்முறை போராளிகளையும் விடுதலை புலிகள் அமைப்பின் தலைவர் பிரபாகரனையும் பகிரங்கமாக நினைவு  கூர்ந்துள்ளனர்.
+
+...
+
+[Data](articles/d414a4f8.json)
 
 ---
 
@@ -2379,215 +2523,5 @@ The Chinese Ambassador said that the two countries should further strengthen the
 [Data](articles/f3719be3.json)
 
 [Extended Data](ext_articles/f3719be3.ext.json)
-
----
-
-### 12 disaster deaths
-
-*2024-11-28 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203831) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"12 disaster-related deaths reported. 88,894 individuals from 98,634 families affected across 175 divisions in 21 districts. 82 houses completely destroyed, 1,465 partially damaged. 26,625 persons from 8,358 families displaced."
-
-🟩
-
-The Disaster Management Center (DMC) says that 12 deaths have been reported so far due to the disaster situation in the country.
-
-The Disaster Management Center said that at 88,894 persons belonging to 90,694 persons belonging to 98,634 families in 175 Divisional Secretariat Divisions in 21 districts have been affected by 08 am.
-
-It was reported that 82 houses were completely damaged and 1,465 houses were partially damaged.
-
-The Disaster Management Center (DMC) stated that 26,625 persons belonging to 8,358 families have been retained.
-
-◼️
-
-[Data](articles/922fc9cc.json)
-
-[Extended Data](ext_articles/922fc9cc.ext.json)
-
----
-
-### Law College entrance exam and another exam postponed
-
-*2024-11-28 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103833/law-college-entrance-exam-and-another-exam-postponed) · `en`
-
-The Examinations Department has announced the postponement of the 2024 Sri Lanka Law College General Entrance Examination, originally scheduled for December, due to the prevailing adverse weather conditions in the country.
-
-The Commissioner General of Examinations, Amith Jayasundara made this announcement during a special press briefing held today (28).
-
-He also mentioned that the First Efficiency Bar Examination for Senior Statisticians / Statisticians of the Department of Census and Statistics – 2016 (2024) will not be held on the originally scheduled dates.
-
-Both examinations were set to take place on December 1 and 2, but they will now be rescheduled.
-
-...
-
-[Data](articles/6c67657e.json)
-
-[Extended Data](ext_articles/6c67657e.ext.json)
-
----
-
-### HIV cases on the rise among Sri Lankan youth – health expert
-
-*2024-11-28 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103832/hiv-cases-on-the-rise-among-sri-lankan-youth-health-expert) · `en`
-
-The National STD/AIDS Control Programme (NSACP) of the Ministry of Health says that HIV infections among the country’s youth has increased owing to factors such as the use of mobile phones and modern technology to find partners, as well as the lack of proper sex education.
-
-The Director of NSACP and Specialist in Community Medicine, Dr. Vindya Kumarapeli, stated that 15% of the HIV cases reported last year were young people aged between 15 and 24 years.
-
-Speaking at a press conference held at the Health Promotion Bureau, Dr Kumarapeli emphasized that the number of new HVI-infected patients is rapidly rising, with 694 new cases reported within the past year.
-
-...
-
-[Data](articles/c59b36a7.json)
-
-[Extended Data](ext_articles/c59b36a7.ext.json)
-
----
-
-### Spouse
-
-*2024-11-28 11:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனைவியின்-வாயை-வெட்டிய-கணவன்/76-347920) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Husband arrested for cutting wife with paper cutter at police station. Wife hospitalized after attack. Police investigating threats and nude photos. Incident occurred on 26th after wife filed complaint on 24th.
-
-🟩
-
-When the two sides were summoned to the police station to investigate the wife's complaint against the husband, the incident took place at the Mawanella police on the 26th of this month.
-
-Hidden Paper Cutter has cut off 21 -year -old wife. The victim was taken to the Mawanella Hospital and the 39 -year -old husband has been arrested by the police.
-
-Investigations have revealed that the young wife has been sold to the outskirts for some time.
-
-On the 24th, the wife has lodged a complaint with the police after a dispute between the two.
-
-Police said that the wife had lodged a complaint against the husband and that it was investigated.
-
-Police have received information that the husband, who holds his wife's naked photos on the cell phone, has threatened his wife and sold it to various persons.
-
-The two have been invited to the police to investigate the complaint and the complaint filed by the wife Mawanella police against her husband.
-
-...
-
-[Data](articles/a4a4a786.json)
-
-[Extended Data](ext_articles/a4a4a786.ext.json)
-
----
-
-### 12 killed by random weather: more than 3 lakhs
-
-*2024-11-28 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199902) · `ta`
-
-Inclement weather kills 12, affects 335,155 people across 23 districts. 95 homes destroyed, 1,708 damaged. 89,007 displaced. Heavy rains recorded in Matale (Eldaduwa) at 132.75 mm.
-
-🟩
-
-Due to inclement weather in the country, 23 districts have been affected and 12 people have been killed in disasters, the Disaster Management Center said.
-
-3 lakhs 35 thousand 155 people from 99 thousand 876 families have been affected by rain and floods, the Disaster Management Center said.
-
-At least 17 people were injured in the disaster caused by inclement weather and 2 missing.
-
-95 houses have been completely damaged and 1708 houses have been partially damaged.
-
-89,007 people affected by inclement weather have been housed in the houses and security camps of relatives.
-
-Meanwhile, the highest rainfall is Matale (Elkaduwa) - 132.75 millimeters.
-
-◼️
-
-[Data](articles/f90d1128.json)
-
-[Extended Data](ext_articles/f90d1128.ext.json)
-
----
-
-### 2023 What happened to Women HIV infected
-
-*2024-11-28 11:32:06* · [`adalk`](https://www.ada.lk/breaking_news/2023-කාන්තා-HIV-ආසාධිතයින්ට-සිදුවූ-දේ/11-413331) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's 2023 HIV statistics: 88% new infections in men, 694 cases total. 15% of new cases in 15-24 age group. Main causes: technology-facilitated dating, lack of sex education, drug use. Most infections in Colombo, Gampaha, Kalutara, Galle, Matara, Puttalam districts. Only 3,500 out of estimated 5,000 infected receiving treatment.
-
-🟩
-
-HIV in Sri Lanka. The National STD and AIDS eradication program emphasizes that 88% of the new infections were rapidly increased by men and 694 new infected persons.
-
-Community Health Specialist Vinditha Kumarapel, Director, Director, Director, Director of Health Promotion (Colombo 27), participating in a media briefing held at the Health Promotion Bureau yesterday (27) was speaking at a media briefing yesterday (27) at the Health Promotion Bureau.. 7 that 7 women are worth 1 women.
-
-She also pointed out that 15% of the new HIV infected persons reported last year are young and young people in age group aged 15-24.
-
-The main causes of mates through modern technology, including mobile phones, and the lack of sexual education, drug use, and drug use.
-
-Meanwhile, new HIV. Most of the infections have been found in Colombo, Gampaha, Kalutara, Galle, Matara and Puttalam districts.
-
-...
-
-[Data](articles/79edbb1b.json)
-
-[Extended Data](ext_articles/79edbb1b.ext.json)
-
----
-
-### Donald Trump's Cabinet
-
-*2024-11-28 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199906) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Donald Trump investigates bombings targeting his cabinet nominees. Threats made against officials chosen for 9 departments, including Defense & Agriculture. Death toll reported. Legal team ensures safety. Elisy Stewenick, UN Ambassador, claims family under attack.
-
-🟩
-
-Donald Trump has launched an investigation into the bomb blasts targeting those who have elected to his cabinet.
-
-Officials of the UPI have said that bomb blasts have been issued against those who have been selected to head 9 departments, including the Department of Defense, and the Department of Agriculture, and have been threatened with murder for the United Nations.
-
-Trump's converter Caroline Liawit said that the death toll of the US has been violently violent for the lives of those who have been appointed by Trump and with them.
-
-He noted that the Legal Affairs Division immediately acted to ensure their safety.
-
-He said that as President Trump is a role model for us, threats will not prevent us.
-
-Elisy Stewenick, who has been appointed US Ambassador to the United Nations, has stated that his family is facing bombardment.
-
-◼️
-
-[Data](articles/5f331eed.json)
-
-[Extended Data](ext_articles/5f331eed.ext.json)
-
----
-
-### Sri Lanka welcomes Israel-Lebanon ceasefire
-
-*2024-11-28 11:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-welcomes-israel-lebanon-ceasefire-151992/) · `en`
-
-ECONOMYNEXT – Sri Lanka has welcomed the announcement of a ceasefire between Israel and Lebanon, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-“We remain hopeful that the ceasefire will pave the way for enduring peace and stability in Lebanon and in the region,” a ministry statement said.
-
-More than 3,500 citizens of Lebanon have been killed in Israeli strikes, media reported. While over a million have been forced to flee by Israeli military action.
-
-Thousands have been wounded and the homes of tens of thousands of others have been destroyed, BBC said.
-
-◼️
-
-[Data](articles/e1dcb4d6.json)
-
-[Extended Data](ext_articles/e1dcb4d6.ext.json)
 
 ---

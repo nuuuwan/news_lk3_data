@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 15:42:39**
+As of **2024-11-28 16:01:11**
 
 ## Newspaper Stats
 
-*Scraped **57,405** Articles*
+*Scraped **57,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,420
+adalk | 5,421
 adaderanalk | 6,953
-tamilmirrorlk | 8,163
+tamilmirrorlk | 8,166
 virakesarilk | 9,352
 adaderanasinhalalk | 9,911
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 9,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,403 (100.0%) of 57,405 articles have been extended.
+57,403 (100.0%) of 57,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### இலங்கையின் புகழ்பெற்ற யானை மின்சாரம் தாக்கி பலி
+
+*2024-11-28 15:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-புகழ்பெற்ற-யானை-மின்சாரம்-தாக்கி-பலி/175-347934) · `ta`
+
+40 - 50 வயதுக்கிடைப்பட்ட இந்த யானை, கலா வெவா மற்றும் கஹல்ல-பல்லகெல்ல காப்புக்காடுகளுக்கு அடிக்கடி வந்து செல்வதாக அறியப்படுகிறது.
+
+◼️
+
+[Data](articles/f531db0f.json)
+
+---
+
+### மேலும் 2 பரீட்சைகள் பிற்போடப்பட்டன
+
+*2024-11-28 15:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-2-பரீட்சைகள்-பிற்போடப்பட்டன/175-347933) · `ta`
+
+இலங்கையில் நிலவும் சீரற்ற காலநிலை காரணமாக இரண்டு அரச பரீட்சைகள் பிற்போடப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+2024 ஆம் ஆண்டுக்கான இலங்கை சட்டக் கல்லூரி பொது நுழைவுப் பரீட்சை மற்றும் சனத்தொகை மற்றும் கணக்கெடுப்பு மற்றும் புள்ளிவிபரவியல் திணைக்களத்தின் சிரேஷ்ட புள்ளிவிபரவியலாளர்களுக்கான முதலாவது வினைத்திறன் பரீட்சை – 2016 (2024) ஆகியவை பிற்போடப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர அறிவித்தார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அமித் ஜயசுந்தர, முதலில் பரீட்சைகள் டிசம்பர் 01 மற்றும் 02 ஆம் திகதிகளில் திட்டமிடப்பட்டிருந்ததாகவும், நாட்டின் பல பாகங்களில் இருந்து பரீட்சார்த்திகள் பரீட்சைகளுக்காக கொழும்புக்கு சமூகமளிக்கவிருப்பதாகவும் கூறினார்.
+
+எவ்வாறாயினும், சீரற்ற காலநிலையினால் பல்வேறு பிரதேசங்கள் கடுமையாக பாதிக்கப்பட்டுள்ளமையினால், இரண்டு பரீட்சைகளையும் ஒத்திவைப்பதற்கு தீர்மானம் எடுக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+பரீட்சைகளின் மீள் திட்டமிடப்பட்ட திகதிகள் விரைவில் அறிவிக்கப்படும் என அமித் ஜயசுந்தர மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d1144e5b.json)
+
+---
+
+### போலித் தகவல்களை பரப்பிய வர்த்தகருக்கு சிறை
+
+*2024-11-28 15:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலித்-தகவல்களை-பரப்பிய-வர்த்தகருக்கு-சிறை/175-347932) · `ta`
+
+நிகழ்நிலைப் பாதுகாப்பு சட்டத்தின் கீழ் பதிவு செய்யப்பட்ட முறைப்பாட்டின் பேரில், முன்னாள் இராஜாங்க அமைச்சர் காதர் மஸ்தான் குறித்து சமூக ஊடகங்களில் தவறான தகவல்களை பரப்பியதற்காக தொழிலதிபர் ஒருவருக்கு 6 மாத இடைநீக்கம் செய்யப்பட்ட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+முன்னாள் இராஜாங்க அமைச்சரைப் பற்றிய தவறான தகவல்களை உள்ளடக்கிய ஒலிப்பதிவுகளை பேஸ்புக் மற்றும் வட்ஸ்அப் போன்ற சமூக ஊடக தளங்களில் பரப்பியதாக வர்த்தகர் மீது குற்றம் சாட்டப்பட்டுள்ளது.
+
+உத்தரவை பிறப்பித்த கொழும்பு பிரதான நீதவான் திலின கமகே, தண்டனையை ஐந்தாண்டு காலத்திற்கு இடைநிறுத்தியதுடன், சந்தேக நபருக்கு 5000 ரூபாய் அபராதமும் விதித்து உத்தரவிட்டார்.
+
+மேலும், முன்னாள் இராஜாங்க அமைச்சர் தொடர்பில் சமூக ஊடகங்களில் அவர் வெளியிட்ட அனைத்து அறிக்கைகளையும் உடனடியாக நீக்குமாறு சந்தேக நபருக்கு நீதிபதி உத்தரவிட்டுள்ளார்.
+
+...
+
+[Data](articles/0217f215.json)
+
+---
 
 ### DMT அதிரடி அறிவிப்பு: சாரதிகளே கவனம்
 
@@ -47,6 +97,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6f3972dd.json)
+
+---
+
+### තාවකාලික අංක තහඩු භාවිත කිරීම දෙසැ. 15දායින් අවසන්
+
+*2024-11-28 15:08:59* · [`adalk`](https://www.ada.lk/breaking_news/තාවකාලික-අංක-තහඩු-භාවිත-කිරීම-දෙසැ--15දායින්-අවසන්/11-413335) · `si`
+
+මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව තුළ වාහන අංක තහඩු නිකුත් කිරීමට අදාළ ගැටලුකාරී තත්ත්වය අවසන් කර නැවත නිකුත් කිරීම ආරම්භ කර ඇති බව මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ මහතා පවසයි.
+
+ඒ අනුව වාහන අංක තහඩුවක් ලබා ගැනීම සඳහා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව වෙත මුදල් ගෙවා මෙතෙක් එය ලබා නොගෙන ඇත්නම් එම අංක තහඩුව දෙසැම්බර්15 දා පෙර ලබා ගන්නා ලෙස කොමසාරිස් ජනරාල්වරයා පවසයි.
+
+දෙසැම්බර් 15න් පසු රථ වාහන සඳහා තාවකාලික අංක තහඩු භාවිත කරමින් මාර්ගය තුළ ධාවනය කිරිම කළ නොහැකි වන අතර එලෙස තාවකාලික අංක තහඩු භාවිත කරමින් ධාවනය වන රථ වාහන සඳහා පොලිස් දෙපාර්තමේන්තුව මගින් නීතිමය ක්‍රියාමාර්ගය ගන්නා බවත් ඔහු පවසයි.
+
+එසේම තාවකාලික අංක තහඩු සමග ධාවනයට ලබා දී තිබූ අවසර පත්‍රය දෙසැම්බර් 15 දා දිනෙන් අවසන් වන බවද කොමසාරිස් ජනරාල්වරයා වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/d98e2291.json)
 
 ---
 
@@ -2283,87 +2351,5 @@ Applying for police clearance reports, to submit the usual system, to submit the
 [Data](articles/4d212307.json)
 
 [Extended Data](ext_articles/4d212307.ext.json)
-
----
-
-### Ampara tractor accident: Body of another missing boy found
-
-*2024-11-27 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103822/ampara-tractor-accident-body-of-another-missing-boy-found) · `en`
-
-The body of another student out of the six who went missing after the tractor they were traveling on toppled and was swept away by floodwaters at Karaitivu in Ampara District last evening (26), has been discovered.
-
-Accordingly, the bodies of four students have been recovered thus far while search operations are continuing for the two other missing students as well as the tractor’s driver and his assistant.
-
-The incident occurred last evening when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents while passing through flood waters.
-
-Police had confirmed that 05 children had been rescued while the rest were reported missing.
-
-The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
-
-...
-
-[Data](articles/ddae7b2f.json)
-
-[Extended Data](ext_articles/ddae7b2f.ext.json)
-
----
-
-### Fine Lines and Wrinkles…
-
-*2024-11-27 22:18:00* · [`islandlk`](http://island.lk/fine-lines-and-wrinkles/) · `en`
-
-I’ve had queries coming my way regarding Fine Lines and Wrinkles.
-
-Some would say with age it’s a natural happening but I believe if we take care of our skin, we can tone down Fine Lines and Wrinkles a great deal.
-
-Try out these homemade remedies and I’m sure you will notice a difference…
-
-Mix aloe vera gel with honey and apply it to your face. Leave it on for 15-20 minutes. Aloe vera has soothing properties, while honey provides moisture.
-
-Mash a ripe avocado and mix it with a teaspoon of honey. Apply the mixture to your face for about 15-20 minutes. Avocado is rich in vitamins and antioxidants that can nourish the skin.
-
-: Mix equal parts of plain yoghurt and honey. Apply it to your face and leave it on for 15-20 minutes. The lactic acid in yoghurt can help exfoliate the skin while honey is moisturizing.
-
-Mash a ripe banana and apply it to your face for around 15 minutes. Bananas are packed with vitamins and nutrients that can hydrate the skin.
-
-...
-
-[Data](articles/4e3a9e75.json)
-
-[Extended Data](ext_articles/4e3a9e75.ext.json)
-
----
-
-### Historic Panadura clock tower restored by Asian Paints Causeway’s restoration drive
-
-*2024-11-27 22:13:00* · [`islandlk`](http://island.lk/historic-panadura-clock-tower-restored-by-asian-paints-causeways-restoration-drive/) · `en`
-
-Marking the beginning of a nationwide initiative to protect and restore Sri Lanka’s iconic landmarks, Asian Paints Causeway has completed the restoration of the Panadura Clock Tower, a symbolic landmark of the Kalutara district.
-
-The restoration of the clock tower began as painters cleaned and repainted the structure, which was in a state of decaying paint. The event was attended by representatives from the Panadura Municipal Council, the Panadura community, local merchants, and officials from Asian Paints Causeway. The clock tower was repainted with SmartCare AquaSafe, a leading exterior paint known for its durability against algae, dirt, and peeling, restoring the tower’s former charm.
-
-...
-
-[Data](articles/0cb01bbf.json)
-
-[Extended Data](ext_articles/0cb01bbf.ext.json)
-
----
-
-### ICMA Australia celebrates 25 years of excellence in Sri Lanka with strategic global expansion
-
-*2024-11-27 22:12:00* · [`islandlk`](http://island.lk/icma-australia-celebrates-25-years-of-excellence-in-sri-lanka-with-strategic-global-expansion/) · `en`
-
-The Institute of Certified Management Accountants (ICMA) Australia celebrated a milestone Silver Jubilee in Sri Lanka with a prestigious ceremony amidst industry leaders, distinguished professionals, and members of the academic community and diplomatic representatives from the Australian and New Zealand High Commissions’. David Cartney, Global Vice President was the Chief Guest.
-
-The landmark event commemorated a quarter-century of excellence in strategic management accounting education. It also unveiled significant strategic initiatives positioning Sri Lanka as a global hub for management accounting education.
-
-The event also showcased the institute’s plans for expanding its educational offerings and strengthening its global presence through Sri Lanka’s enhanced position as a center of excellence.
-
-...
-
-[Data](articles/df6209b0.json)
-
-[Extended Data](ext_articles/df6209b0.ext.json)
 
 ---

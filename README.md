@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 15:13:40**
+As of **2024-11-28 15:42:39**
 
 ## Newspaper Stats
 
-*Scraped **57,401** Articles*
+*Scraped **57,405** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
 colombotelegraphcom | 582
-bbccomsinhala | 597
+bbccomsinhala | 598
 islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,419
-adaderanalk | 6,952
-tamilmirrorlk | 8,162
+adalk | 5,420
+adaderanalk | 6,953
+tamilmirrorlk | 8,163
 virakesarilk | 9,352
 adaderanasinhalalk | 9,911
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 9,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,401 (100.0%) of 57,401 articles have been extended.
+57,403 (100.0%) of 57,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### DMT அதிரடி அறிவிப்பு: சாரதிகளே கவனம்
+
+*2024-11-28 15:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/DMT-அதிரடி-அறிவிப்பு-சாரதிகளே-கவனம்/175-347931) · `ta`
+
+மோட்டார் போக்குவரத்து திணைக்களத்தினால் (DMT) வழங்கப்பட்ட தற்காலிக வாகன இலக்கத் தகடுகளின் செல்லுபடியாகும் காலம் டிசம்பர் 15 ஆம் திகதியுடன் முடிவடையும் என மோட்டார் போக்குவரத்து திணைக்களஆணையாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க அறிவித்துள்ளார்.
+
+நிரந்தர இலக்கத் தகடுகளை வழங்குவதில் திணைக்களம் எதிர்கொள்ளும் சவால்கள் காரணமாகவே தற்காலிக வாகன இலக்கத் தகடுகள் வழங்கப்பட்டதாக அவர் கூறினார்.
+
+எனவே, குறித்த காலக்கெடுவிற்கு முன்னர் தமது அசல் இலக்கத் தகடுகளைப் பெற்றுக்கொள்ளுமாறு பொதுமக்களிடம் ஆணையாளர் நாயகம் கேட்டுக்கொண்டுள்ளார்.
+
+டிசம்பர் 15ம் திகதிக்கு பிறகு தற்காலிக வாகன இலக்கத் தகடு வைத்து வாகனங்களை ஓட்டுவது சட்ட விரோதமாக கருதப்படும். மீறுவோர் மீது தேவையான சட்ட நடவடிக்கை எடுக்க போக்குவரத்து பொலிஸாருக்கு அறிவுறுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6f3972dd.json)
+
+---
+
+### වසර 50ට පසු ඇදුම රෝගයට නව ප්‍රතිකාරයක් සොයා ගැනේ
+
+*2024-11-28 14:41:54* · [`adalk`](https://www.ada.lk/breaking_news/වසර-50ට-පසු-ඇදුම-රෝගයට-නව-ප්‍රතිකාරයක්-සොයා-ගැනේ/11-413334) · `si`
+
+ඇදුම රෝගය සඳහා නව ප්‍රතිකාරයක් ලන්ඩනයේ පර්යේෂණ කණ්ඩායමක් විසින් සොයාගෙන තිබේ.
+
+වසර 50ට පසු නව ප්‍රතිකාරයක් සොයාගත් පළමු අවස්ථාව මෙය බව එම පර්යේෂණ කණ්ඩායම ප්‍රකාශයට පත් කර ඇත.
+
+◼️
+
+[Data](articles/a421dc0b.json)
+
+---
+
+### Ampara tractor incident:  Driver’s assistant surrenders, driver’s body recovered
+
+*2024-11-28 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103841/ampara-tractor-incident-drivers-assistant-surrenders-drivers-body-recovered) · `en`
+
+The assistant of the tractor driver involved in the tragic tractor accident at Karaitivu in Ampara, who was previously reported missing, has surrendered to the Karaitivu Police Station.
+
+According to Karaitivu Police, the tractor driver’s assistant appeared by himself at the police station this morning (28) and was arrested for endangering lives by illegally transporting passengers in a tractor for monetary gain, despite warnings from security forces during the flood situation.
+
+Meanwhile, the bodies of four school children, another passenger, and the tractor driver involved in the incident have been recovered. However, the Disaster Management Center (DMC) confirmed that two students are still missing.
+
+In separate incidents related to the adverse weather, a person drowned while observing water spilling from the Mahakachchakodiya Tank in Vavuniya. Another individual drowned after a boat overturned while fishing in the Yan Oya River, Trincomalee.
+
+...
+
+[Data](articles/13c16728.json)
+
+[Extended Data](ext_articles/13c16728.ext.json)
+
+---
 
 ### Seven Iranian sentenced to life in prison
 
@@ -1240,6 +1292,36 @@ The four students who discovered the dead yesterday will be the aged of 16 and 1
 
 ---
 
+### Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
+
+*2024-11-28 09:36:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7v32eqm8g2o) · `si`
+
+Heavy rains affect 300,000+ people. Meteorological Department warns of strong winds and heavy showers in Northern and Trincomalee districts. Deep depression in Bay of Bengal moving east-north. Possible thunderstorms and rough seas expected.
+
+🟩
+
+Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
+
+In the past few days, the high rains and strong winds, winds, farmland and roads were affected. Due to bad weather conditions, the train services were also disrupted.
+
+The Disaster Management Center stated that more than 300,000 people were affected by the rain.
+
+Deep pressure depression in the south-length Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying. The Department of Meteorological Department points out that the system is slowly traveling to the East and the North, and the ability to construct a hurricane.
+
+However, an officer of the Department of Meteorological Department said that it is not certain that it would be a hurricane.
+
+According to the Department, there may be very heavy and strong winds in the Northern and Trincomalee District.
+
+Warnings of Showers at district level for the next three days
+
+...
+
+[Data](articles/f52dc634.json)
+
+[Extended Data](ext_articles/f52dc634.ext.json)
+
+---
+
 ### Sri Lanka welcomes ceasefire between Israel and Lebanon – Foreign Ministry
 
 *2024-11-28 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103828/sri-lanka-welcomes-ceasefire-between-israel-and-lebanon-foreign-ministry) · `en`
@@ -2283,67 +2365,5 @@ The event also showcased the institute’s plans for expanding its educational o
 [Data](articles/df6209b0.json)
 
 [Extended Data](ext_articles/df6209b0.ext.json)
-
----
-
-### Book launch commemorates 125th birth anniversary of Professor Gunapala Malalasekera
-
-*2024-11-27 22:10:00* · [`islandlk`](http://island.lk/book-launch-commemorates-125th-birth-anniversary-of-professor-gunapala-malalasekera/) · `en`
-
-The Malalasekera Foundation proudly launched “Professor Gunapala Malalasekera: A Photographic Portrait”, commemorating the 125th birth anniversary of the legendary scholar and cultural advocate, Professor Gunapala Piyasena Malalasekera. Authored by the Venerable Wetara Mahinda Thero after eight years of meticulous research, the book is a heartfelt tribute to Professor Malalasekera’s unparalleled contributions to education, Buddhism, and the cultural heritage of Sri Lanka.
-
-Professor Malalasekera, often referred to as “GPM,” was a visionary who dedicated his life to educational reform and national pride amidst the challenges of colonial rule. Inspired by influential figures within the Buddhist educational movement, he played a significant role in shaping Sri Lanka’s national education system and instilling cultural values that resonated across generations.
-
-...
-
-[Data](articles/e6ce7d62.json)
-
-[Extended Data](ext_articles/e6ce7d62.ext.json)
-
----
-
-### Dialog unveils Sri Lanka’s first AI Assistant for local developer community
-
-*2024-11-27 22:08:00* · [`islandlk`](http://island.lk/dialog-unveils-sri-lankas-first-ai-assistant-for-local-developer-community/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly announces the launch of its AI-powered assistant through the IdeaBiz platform, providing support for developers, IT teams, and IdeaBiz partners. As the first of its kind in the country, the IdeaBiz AI Assistant is set to transform how users interact with technical information, access onboarding assistance, and receive real-time support.
-
-...
-
-[Data](articles/43a45982.json)
-
-[Extended Data](ext_articles/43a45982.ext.json)
-
----
-
-### Global Fund for Coral Reefs and Oceanpick partner to transform aquaculture
-
-*2024-11-27 22:07:00* · [`islandlk`](http://island.lk/global-fund-for-coral-reefs-and-oceanpick-partner-to-transform-aquaculture/) · `en`
-
-The Global Fund for Coral Reefs1 (GFCR), an investment fund managed by Pegasus Capital Advisors, has announced an investment in Oceanpick, South Asia’s premier oceanic barramundi farm backed by both Best Aquaculture Practices (BAP) and Aquaculture Stewardship Council (ASC) certifications.
-
-This investment aims to showcase advanced sustainable aquaculture practices, promote economic development in local communities, and support climate-resilient livelihoods for coastal communities in Sri Lanka.
-
-...
-
-[Data](articles/3a9357a2.json)
-
-[Extended Data](ext_articles/3a9357a2.ext.json)
-
----
-
-### CBSL’s new single policy rate decision boosts stocks
-
-*2024-11-27 22:04:00* · [`islandlk`](http://island.lk/cbsls-new-single-policy-rate-decision-boosts-stocks/) · `en`
-
-The Central Bank’s new single policy rate that reduced 50 basis points gave some impetus to the stock exchange yesterday. This also indicated some positive sentiment among investors, stock market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 102.68 points, while the S and P SL20 was up by 39.4 points. The turnover stood at Rs 3.6 billion with eight crossings.
-
-...
-
-[Data](articles/6f8f0f35.json)
-
-[Extended Data](ext_articles/6f8f0f35.ext.json)
 
 ---

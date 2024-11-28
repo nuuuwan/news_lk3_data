@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 09:19:03**
+As of **2024-11-28 09:30:28**
 
 ## Newspaper Stats
 
-*Scraped **57,330** Articles*
+*Scraped **57,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,486
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,410
-adaderanalk | 6,937
+adaderanalk | 6,941
 tamilmirrorlk | 8,151
 virakesarilk | 9,340
 adaderanasinhalalk | 9,898
@@ -26,11 +26,83 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,329 (100.0%) of 57,330 articles have been extended.
+57,330 (100.0%) of 57,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Lebanon’s Hezbollah vows to continue resistance after ceasefire
+
+*2024-11-28 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103827/lebanons-hezbollah-vows-to-continue-resistance-after-ceasefire) · `en`
+
+Lebanon’s Hezbollah on Wednesday vowed to continue its resistance and support Palestinians, including fighters, a day after a ceasefire deal, between the group and Israel was announced.
+
+In the first statement by Hezbollah’s operations centre since the deal was announced, the group made no direct mention of the ceasefire deal.
+
+“The Islamic resistance’s operations room affirms that its fighters in all military disciplines will remain fully equipped to deal with the aspirations and assaults of the Israeli enemy,” the group said.
+
+It added that its fighters would continue to monitor the withdrawal of Israeli forces beyond the Lebanese borders “with their hands on the trigger”.
+
+The ceasefire deal includes the withdrawal of Israeli forces from southern Lebanon within 60 days, Israeli officials said.
+
+...
+
+[Data](articles/16c046b0.json)
+
+---
+
+### Severe weather affects 20 districts, over 276,000 people impacted
+
+*2024-11-28 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103826/severe-weather-affects-20-districts-over-276000-people-impacted) · `en`
+
+Adverse weather conditions have severely impacted 20 districts across the island, with total of 80,642 families in 166 Divisional Secretariat divisions currently affected, according to the Disaster Management Center (DMC).
+
+The DMC reports that a total of 276,550 individuals have been affected, with 16,553 people from 5,305 families seeking refuge in safe locations.
+
+Additionally, the Irrigation Department has cautioned that flood conditions in low-lying areas around reservoirs will persist.
+
+Irrigation Engineer G.W.A. Sakura Dilthara indicated that water levels in the Deduru Oya and Mahaweli River are rising, which is likely to exacerbate flooding in surrounding areas.
+
+◼️
+
+[Data](articles/e21a0bd1.json)
+
+---
+
+### EC deliberates on dates for LG elections
+
+*2024-11-28 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103825/ec-deliberates-on-dates-for-lg-elections) · `en`
+
+The Election Commission has focused its attention on determining suitable dates for the local government elections.
+
+During a meeting held yesterday (27) under the chairmanship of the Chairman of the Election Commission, R.M.A.L. Ratnayake, discussions were centered on scheduling the elections without disrupting examination activities.
+
+The Chairman confirmed that a specific date for the elections has not yet been finalized. However, the Commission is expected to convene again in the coming days to reach a final decision.
+
+He further emphasized that, in accordance with a Supreme Court order, the local government elections must be held as soon as possible, and the Commission is actively preparing for the process.
+
+◼️
+
+[Data](articles/d388f47d.json)
+
+---
+
+### 59-year-old man dies after falling into water-filled drain in Koswatta
+
+*2024-11-28 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103824/59-year-old-man-dies-after-falling-into-water-filled-drain-in-koswatta) · `en`
+
+A 59-year-old resident of the Madumulla area in Uda Pussellawa has reportedly died after falling into a water-filled drain in the Mawathagama Industrial Zone in Koswatta.
+
+The incident was brought to the attention of the Koswatta Police through information received via the ‘119’ police emergency hotline.
+
+Upon receiving the information, police initiated an investigation, conducted an autopsy and post-mortem examination, and subsequently handed over the body to the deceased’s relatives.
+
+◼️
+
+[Data](articles/da4bed3b.json)
+
+---
 
 ### Very heavy showers expected in parts of the island today
 
@@ -82,21 +154,31 @@ Meanwhile, the Department of Meteorology has advised not to re -notice to the se
 
 ---
 
-### යාන් ඔය මෝයේ මසුන් මරන්න ගිය පියා අතුරුදන් පුතා බේරෙයි
+### Indian father who went to kill fish in Yan Oya
 
 *2024-11-28 07:48:05* · [`adalk`](https://www.ada.lk/breaking_news/යාන්-ඔය-මෝයේ-මසුන්-මරන්න-ගිය-පියා-අතුරුදන්-පුතා-බේරෙයි/11-413327) · `si`
 
-අයහපත් කාලගුණය හමුවේ යාන් ඔය මෝය ආසන්නයේ ඔරුවකින් ගොස් මසුන් ඇල්ලීමේ යෙදුණු පිය පුතු දෙපළක් ඊයේ (27දා) සැඩ පහරට හසු වී ඔරුව පෙරළීමෙන් පියා අතුරුදහන් වී ඇති අතර පුතා බේරී ගොඩට පීනා ඇතැයි පුල්මුඩේ පොලිසිය කියයි .
+Here's a summary of 200 characters:
 
-මෙසේ අතුරුදහන් වී ඇත්තේ පුල්මුඩේ,තක්වානගර්, කොට්ඨාස අංක එක පදිංචි අහමදු ලෙබ්බේ අබ්දුල් මුබාරක් (58) නැමති අයෙකි.
 
-අනතුරෙන්  දිව් බේරා ගත් අතුරුදහන් වූ අයගේ පුතා වන මුබාරක් සකීර් නැමති අය මේ සම්බන්ධයෙන් පොලිසියට ප්‍රකාශයක් ලබාදී තිබේ.
 
-තද සුළං තත්ත්වය හා මුහුදේ රළු ස්වභාවය නිසා මේ දිනවල ධීවර කටයුතු වලින් වැලකී සිටින ලෙස කළ දැනුම් දීම නොතකා මෙම ධීවර කටයුතු වල යෙදී ඇති බව පවසන පොලිසිය අතුරුදහන් වූ අය සොයා පුළුල් පරීක්ෂණයක් දියත් කර තිබේ .
+Indian father disappears while fishing in Yan Oya due to bad weather. Son reports him missing. Police investigate despite challenging conditions.
+
+🟩
+
+The father had disappeared by a boat near the Yan Oya estuary in the face of inclement weather, and the father had disappeared yesterday (27th) and the son had overdanded the son.
+
+The victim has disappeared Pulmudai, Tsuvanagar, Divisional No. One resident of Lebbe Abdul Mubarak (58).
+
+Mubarak Z Zkir, the son of the disappeared, has made a statement to the police.
+
+The police have launched a wide investigation into the missing persons despite the informed of the strong winds and the rough nature of the sea.
 
 ◼️
 
 [Data](articles/fd87c4f9.json)
+
+[Extended Data](ext_articles/fd87c4f9.ext.json)
 
 ---
 
@@ -2367,105 +2449,5 @@ During the operation, a man who was flooded in the Eravur Milawattavan area was 
 [Data](articles/c725f37f.json)
 
 [Extended Data](ext_articles/c725f37f.ext.json)
-
----
-
-### Sri Lanka treasuries yields plunge across maturities, 12-month down 70bp
-
-*2024-11-27 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs125bn-in-treasury-bills-yields-plummet-across-maturities-190293/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 125 billion rupees of bills sold, data from the debt office showed after a external debt exchange was announced and a rate cut.
-
-The central bank cut its policy rate to 8.0 percent from an earlier 8.25 to 9.25 percent corridor.
-
-The 3-month yield was down 57 basis points at 8.73 percent, with all offered 45 billion rupees of bills sold.
-
-The 6-month yield was down 63 basis points at 8.97 percent, with all offered 45 billion rupees of bills sold.
-
-The 12-month bill yield was down 70 basis points at 9.08 percent, with all offered and 35 billion rupees of bills sold.
-
-All three maturities were offered on tap after the the auction. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/56737b37.json)
-
-[Extended Data](ext_articles/56737b37.ext.json)
-
----
-
-### Sri Lanka treasuries yields plunge across maturities, 12-month down 70bp
-
-*2024-11-27 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-plunge-across-maturities-12-month-down-70bp-190293/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 125 billion rupees of bills sold, data from the debt office showed after a external debt exchange was announced and a rate cut.
-
-The central bank cut its policy rate to 8.0 percent from an earlier 8.25 to 9.25 percent corridor.
-
-The 3-month yield was down 57 basis points at 8.73 percent, with all offered 45 billion rupees of bills sold.
-
-The 6-month yield was down 63 basis points at 8.97 percent, with all offered 45 billion rupees of bills sold.
-
-The 12-month bill yield was down 70 basis points at 9.08 percent, with all offered and 35 billion rupees of bills sold.
-
-All three maturities were offered on tap after the the auction. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/8dd97305.json)
-
-[Extended Data](ext_articles/8dd97305.ext.json)
-
----
-
-### Former President's Ranil Petition to do a responsible respondent
-
-*2024-11-27 15:40:20* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-පෙත්සමක-වග-උත්තරකරුවෙක්-කරන්න-අවසර/11-413313) · `si`
-
-Supreme Court appoints Ranil Wickremesinghe respondent in Court of Appeal case. Petitioner's lawyer addresses court, seeks objections within four weeks.
-
-🟩
-
-The Supreme Court today (27), the Supreme Court today (27) was appointed as a respondent as a respondent for the judiciary of the Court of Appeal.
-
-The Supreme Court also decided to submit former President Ranil Wickremesinghe to file an objections within four weeks.
-
-The petition was taken up before the Supreme Court Judge Janaka de Silva and Mahinda Samayawardena.
-
-President's Counsel Senaka Walgampaya has filed a judgment with the decision of the judge of the Court of Appeal in the Court of Appeal.
-
-When the petition was called, the petitioner's lawyer addressed the courtroom as a respondent in the petition as a respondent in the petition, Ranil Wickremesinghe on a previous day.
-
-The respondent was proposed to file a four-week period if the judiciary objections had been filed in four weeks.
-
-◼️
-
-[Data](articles/85e2865b.json)
-
-[Extended Data](ext_articles/85e2865b.ext.json)
-
----
-
-### Opens 8 sluice gates of Parakrama Samudraya
-
-*2024-11-27 15:34:39* · [`adalk`](https://www.ada.lk/breaking_news/පරාක්‍රම-සමුද්‍රයේ-වාන්-දොරටු-8ක්-විවෘත-කරයි/11-413312) · `si`
-
-Here's a 200-character summary:
-
-
-
-Heavy rains in Polonnaruwa caused water level rise in Parakrama Samudraya. Eight sluice gates were opened, including 8 feet, 3 feet, and 2 gates, to manage water levels.
-
-🟩
-
-The water level of Parakrama Samudraya, Polonnaruwa due to heavy rains falling to Polonnaruwa District
-
-Due to this, eight feet of doors have been opened at eight feet three feet and two sluice gates of the Parakrama Samudra.
-
-◼️
-
-[Data](articles/23ce3582.json)
-
-[Extended Data](ext_articles/23ce3582.ext.json)
 
 ---

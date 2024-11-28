@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 19:02:55**
+As of **2024-11-28 19:16:16**
 
 ## Newspaper Stats
 
-*Scraped **57,452** Articles*
+*Scraped **57,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,428
 adaderanalk | 6,960
-tamilmirrorlk | 8,170
+tamilmirrorlk | 8,172
 virakesarilk | 9,369
 adaderanasinhalalk | 9,919
 
@@ -26,81 +26,171 @@ adaderanasinhalalk | 9,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,443 (100.0%) of 57,452 articles have been extended.
+57,448 (100.0%) of 57,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### யாழ்.தென்மராட்சியில் 1,816 குடும்பங்கள் சீரற்ற வானிலையால் பாதிப்பு
+### வெள்ளத்திலிருந்து தப்பிக்க வீட்டுக்குள் புகுந்த சிறுத்தை
 
-*2024-11-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199936) · `ta`
+*2024-11-28 19:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்திலிருந்து-தப்பிக்க-வீட்டுக்குள்-புகுந்த-சிறுத்தை/175-347947) · `ta`
 
-யாழ்.தென்மராட்சி பிரதேசத்தில் 1,816 குடும்பங்களைச் சேர்ந்த 5,749 பேர் வெள்ள அனர்த்தத்தால் பாதிக்கப்பட்டுள்ளனர்.
+முல்லைத்தீவு இளங்கோவபுரத்தில் வெள்ளத்தில் இருந்து தப்பிக்க வீட்டுக்குள் புகுந்த சிறுத்தை வனவிலங்கு பாதுகாப்பு அதிகாரிகளால் பிடிக்கப்பட்டு பாதுகாப்பான இடத்திற்கு விடப்பட்டது.
 
-இவர்களில், யா/கொடிகாமம் திருநாவுக்கரசு மகா வித்தியாலய இடைத்தங்கல் முகாமில், 59 குடும்பங்களைச் சேர்ந்த 186 பேரும் யா/கொடிகாமம்  போக்கட்டி அரசினர் தமிழ் கலவன் பாடசாலை இடைத்தங்கல் முகாமில், 47 குடும்பங்களைச் சேர்ந்த 281 பேரும் தங்க வைக்கப்பட்டுள்ளனர்.
+முட்டியகட்டு நீர்த்தேக்கம் உட்பட பல குளங்கள் மற்றும் நீர்த்தேக்கங்கள் நிரம்பியதால் காட்டுப்பகுதிகள் மற்றும் கிராமங்கள் நீரில் மூழ்கியுள்ளன.
 
-இங்கு தங்கியுள்ள கற்பிபிணித் தாய்மார் மற்றும் வயோதிபர்களுக்கான மருத்துவ சேவைகள் வழங்கப்பட்டு வருகின்றன.
+அவர்களின் தகவலின் பேரில் கிளிநொச்சியில் இருந்து கால்நடை வைத்தியர் உட்பட வனவிலங்கு பாதுகாப்பு உத்தியோகத்தர்கள் குழுவொன்று வந்து அதனை மீட்டு பத்திரமாக விடுவித்துள்ளனர்.
 
-இதேவேளை ,தென்மராட்சி பிரதேசத்தின் அரச அலுவலகங்கள் மற்றும் வணக்க ஸ்தலங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளதை காணக் கூடியதாக இருக்கிறது.
+நன்கு வளர்ந்த சிறுத்தை ஆறு மாத வயதுடையது என்றும் கனமழை மற்றும் வெள்ளத்தின் போது முதலைகள் உள்ளிட்ட வன விலங்குகள் அடிக்கடி மனிதர்கள் வசிக்கும் இடங்களுக்கு வருவதாகவும் அவர்கள் தெரிவித்தனர்.
 
-சாவகச்சேரி பிரதேச சபை மற்றும் கொடிகாமம் பொலிஸ் நிலையம் மற்றும் ஆலயங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளது.
+◼️
 
-தற்போதைய நிலவர அறிக்கையின்படி  (இன்று (28) நண்பகல் 12.00 மணி வரையிலானது) யாழ்ப்பாணத்தில் ஏற்பட்டுள்ள சீரற்ற காலநிலை காரணமாக, யாழ்ப்பாணம் முழுவதும் 17,095 குடும்பங்களைச் சேர்ந்த 56,732 பேர் பாதிக்கப்பட்டுள்ளனர்.
-
-...
-
-[Data](articles/140df05d.json)
+[Data](articles/7d27bace.json)
 
 ---
 
-### இலங்கையின் பொருளாதார எதிர்காலம் - மலேசியாவிலிருந்தான படிப்பினைகள், பிரெட்டன் வூட்ஸ் நிறுவனங்களின் வகிபங்கு மற்றும் பிரிக்ஸ் அங்கத்துவத்தின் சாத்தியப்பாடுகள்
+### வளிமண்டலவியல் திணைக்களத்தின் விசேட அறிக்கை
+
+*2024-11-28 18:41:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-விசேட-அறிக்கை/175-347945) · `ta`
+
+தென்மேற்கு வங்காள விரிகுடா பகுதியில் நிலவும் ஆழ்ந்த காற்றழுத்த தாழ்வு நிலை இன்று (28) காலை வரை திருகோணமலைக்கு வடகிழக்கே சுமார் 110 கிலோமீற்றர் தொலைவில் நிலைகொண்டுள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+நாளைய (29) வானிலை முன்னறிவிப்பை இன்று வெளியிடும் போதே திணைக்களம் இதனை தெரிவித்துள்ளது.
+
+இது நாட்டின் கிழக்கு கடற்கரைக்கு அருகில் வடமேற்கு திசையில் மிக மெதுவாக நகர்வதாகவும் மேலும் வளர்ச்சியடையும் சாத்தியம் இருப்பதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+எவ்வாறாயினும், நாளைய தினம் நாட்டின் வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+
+வட மாகாணத்தில் சில இடங்களில் மி.மீ. 100க்கு மேல் கனமழை பெய்ய வாய்ப்புள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி மாவட்டத்திலும் அவ்வப்போது மழை பெய்யும்.
+
+மாலை அல்லது இரவு வேளையில் மற்ற பகுதிகளில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+வடக்கு, வடமத்திய, வடமேற்கு, மத்திய மற்றும் கிழக்கு மாகாணங்களில் அவ்வப்போது காற்று வீசும். 60 மணிக்கு மேல் காற்று வீசக்கூடும்.
+
+...
+
+[Data](articles/d7bd7d1f.json)
+
+---
+
+### 1,816 families in Jaffna, Jaffna
+
+*2024-11-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199936) · `ta`
+
+Here's a summary of the given information in approximately 200 characters:
+
+
+
+"Floods affect 5,749 people in Jaffna; 56,732 total affected district-wide. 3,467 housed in camps. Medical aid provided. Infrastructure damage reported."
+
+🟩
+
+5,749 people from 1,816 families have been affected by the floods in the Jaffna Thenmarachchi area.
+
+Among them, 186 persons from 59 families have been housed in the Y/Kodikamam Thirunavukkarasu Maha Vidyalaya Camp, and 281 from 47 families in the Tamil Kalavan School Camp.
+
+Medical services are being provided for the elderly mothers and the elderly.
+
+Meanwhile, flooding has been flooded within the state offices and places of worship of the Thenmarachchi area.
+
+The floods have been flooded within the Chavakachcheri Pradeshiya Sabha and the Kodikamam police station and the temples.
+
+According to the current report, 56,732 people from 17,095 families across Jaffna have been affected by the inclement weather in Jaffna.
+
+Also, 7,063 persons from 1,995 families have been housed in 80 security centers, according to the Jaffna District Secretariat.
+
+◼️
+
+[Data](articles/140df05d.json)
+
+[Extended Data](ext_articles/140df05d.ext.json)
+
+---
+
+### Sri Lanka's Economic Future - Lessons from Malaysia
 
 *2024-11-28 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199959) · `ta`
 
-ஆசிய நிதியியல் நெருக்கடியின் போது (1997-1998) மலேசியாவின் பொருளாதாரப் பயணமும், சர்வதேச நாணய நிதிய உதவிக்கான எதிர்ப்பும் இன்று இலங்கையர்களுக்கு கணிசமான படிப்பினைகளை வழங்குகின்றன, ஏனெனில் அதிகமான கடன், பணவீக்கம் மற்றும் வீழ்ச்சியடைந்து வரும் வெளிநாட்டு கையிருப்பு போன்றவற்றால் இலங்கை அதன் பொருளாதார சவால்களை வழிநடாத்துகின்றது.
+Here's a summary of 200 characters:
+
+
+
+Malaysia's 1997-98 financial crisis offers valuable lessons for Sri Lanka's current economic struggles. Both nations faced excessive debt, inflation, and declining foreign reserves. Malaysia's resistance to IMF aid demonstrates alternative approaches to economic recovery.
+
+🟩
+
+During the Asian financial crisis (1997-1998), Malaysia's economic journey and the opposition to international currency aid provides significant lessons to Sri Lankans today, as Sri Lanka is leading its economic challenges due to excessive debt, inflation and falling foreign stockpile.
 
 ◼️
 
 [Data](articles/98254c65.json)
 
+[Extended Data](ext_articles/98254c65.ext.json)
+
 ---
 
-### උඩරට දුම්රිය ධාවනයේ වෙනසක්
+### A change in Upcountry Railway Run
 
 *2024-11-28 18:21:05* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයේ-වෙනසක්/11-413349) · `si`
 
-වර්ෂාවත් සමඟ පස්කඳු, ගල්පර්වත සහ ගස්කොළන් උඩරට දුම්රිය මාර්ගයට කඩා වැටී තිබීම නිසා කොළඹ කොටුව බදුල්ල අතර උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයේ වෙනස්කම් කීපයක් සිදු කරන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය අද (28දා) පැවසීය .
+Here's a summary in 200 characters:
 
-උඩරට දුම්රිය මාර්ගයේ හාලිඇළ, දෙමෝදර අතර උඩුවර 7කණුව ප්‍රදේශයේ දී දුම්රිය මාර්ගයට කඩා වැටී ඇති විශාල පස්කන්ද මෙතෙක් ඉවත් කර නොමැති නිසා බදුල්ල දෙමෝදර අතර දුම්රිය ධාවනය මුළුමනින්ම ඇණ හිට ඇත.
 
-...
+
+Rainfall disrupts rail services between Colombo Fort and Badulla. Freight train operations continue, but passenger trains affected. Night mail trains suspended. Track removal underway in Uduru area. Restoration efforts ongoing for Kandyan line.
+
+🟩
+
+The Nawalapitiya Railway Control Room said that a railway line between Colombo Fort Badulla Badulla with the rainfall with rain.
+
+Deodara, Badulla, has not been completely stopped due to the Uduru 7th Post, Damuriya Railway Station.
+
+The freight traffic train from Colombo Fort to Badulla and 1015 runs from Colombo Fort to Badulla and the Colombo Fort is due to run from Badulla to Nanu Oya to Colombo.Udarata Menike Railway Train at Nanu Oyaye Colombo Fort.The Railways Department said.
+
+None of the night mail trains between Badulla Fort.Railway authorities say that the train is scheduled to run.
+
+A large number of railway stations at the Uduru area of ​​Ramadu, the large number of large railway stations in the Uduruwara area has been removed and the removal of the railway track is already underway, and largelyThe Railway Department further stated that at the Kandyan railway line will be able to restore trains between Badulla Fort.
+
+◼️
 
 [Data](articles/f20b38b2.json)
 
+[Extended Data](ext_articles/f20b38b2.ext.json)
+
 ---
 
-### 42 ஓட்டங்களுக்கு சுருண்டது இலங்கை
+### Sri Lanka curled up for 42 runs
 
 *2024-11-28 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199961) · `ta`
 
-தென் ஆபிரிக்காவுக்கு எதிராக டேர்பன், கிங்ஸ்மீட் விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்பின் முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் பதிலுக்கு முதல் இன்னிங்ஸில் துடுப்பெடுத்தாடிய இலங்கை 13.5 ஓவர்களில் சகல விக்கெட்ளையும் இழந்து 42 ஓட்டங்களுக்கு சுருண்டது.
+Sri Lanka collapsed to 42/10 in 13.5 overs vs South Africa in ICC World Test Championship. Lowest total in Test history. Kamindu Mendis (13*) and Lahiru Kumara (10) top scored. Marco Jensen took 7/13 in 6.5 overs. South Africa replied with 191/4.
 
-டெஸ்ட் கிரிக்கெட் வரலாற்றில் ஓர் இன்னிங்ஸில் இலங்கை பெற்ற மிகக் குறைந்த மொத்த எண்ணிக்கை இதுவாகும்.
+🟩
 
-இலங்கை அணியில் கமிந்து மெண்டிஸ் (13), லஹிரு குமார (10) ஆகிய இருவரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+Sri Lanka lost all the wickets in 13.5 overs in the first innings of the ICC World Test Championships at the Kingsmate Stadium against South Africa.
 
-தினேஷ் சந்திமால், குசல் மெண்டிஸ், ப்ரபாத் ஜயசூரிய, விஷ்வா பெர்னாண்டோ ஆகியோர் ஓட்டம் பெறாமல் ஆட்டம் இழந்தனர்.
+This is the lowest number of Sri Lanka in Test cricket history.
 
-தென் ஆபிரிக்க வேகப்பந்துவீச்சாளர் மார்க்கோ ஜென்சன் ஒரு ஓட்டமற்ற ஓவர் உட்பட 6.5 ஓவர்களில் 13 ஓட்டங்களுக்கு 7 விக்கெட்களைக் கைப்பற்றினார்.
+In the Sri Lankan squad, Kamundu Mendis (13) and Lahiru Kumara (10) received double digits.
 
-தனது 14ஆவது டெஸ்ட் போட்டியில் விளையாடும் ஜென்சன், ஓர் இன்னிங்ஸில் பதிவு செய்த அதிசிறந்த பந்துவீச்சுப் பெறுதி இதுவாகும்.
+Dinesh Chandimal, Gusal Mendis, Prabhat Jayasuriya and Vishwa Fernando lost the game.
 
-அவரை விட ஜெரால்ட் கொயெட்ஸி 18 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கெகிசொ ரபாடா 10 ஓட்டங்களுக்கு ஒரு விக்கெட்டையும் கைப்பற்றினர்.
+South African fast bowler Marco Jensen took 7 wickets for 13 runs in 6.5 overs, including an unbeaten over.
 
-...
+This is the excellent bowling of Jensen, who played in his 14th Test match, in an innings.
+
+Gerald Coetzi took 2 wickets for 18 runs and Kegiso Rabada took one wicket for 10 runs.
+
+South Africa scored 191 runs in the first innings.
+
+◼️
 
 [Data](articles/064f3f31.json)
+
+[Extended Data](ext_articles/064f3f31.ext.json)
 
 ---
 
@@ -123,6 +213,8 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 ...
 
 [Data](articles/b586014c.json)
+
+[Extended Data](ext_articles/b586014c.ext.json)
 
 ---
 
@@ -2467,55 +2559,5 @@ The four students who discovered the dead yesterday will be the aged of 16 and 1
 [Data](articles/2027b411.json)
 
 [Extended Data](ext_articles/2027b411.ext.json)
-
----
-
-### Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
-
-*2024-11-28 09:36:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7v32eqm8g2o) · `si`
-
-Heavy rains affect 300,000+ people. Meteorological Department warns of strong winds and heavy showers in Northern and Trincomalee districts. Deep depression in Bay of Bengal moving east-north. Possible thunderstorms and rough seas expected.
-
-🟩
-
-Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
-
-In the past few days, the high rains and strong winds, winds, farmland and roads were affected. Due to bad weather conditions, the train services were also disrupted.
-
-The Disaster Management Center stated that more than 300,000 people were affected by the rain.
-
-Deep pressure depression in the south-length Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying. The Department of Meteorological Department points out that the system is slowly traveling to the East and the North, and the ability to construct a hurricane.
-
-However, an officer of the Department of Meteorological Department said that it is not certain that it would be a hurricane.
-
-According to the Department, there may be very heavy and strong winds in the Northern and Trincomalee District.
-
-Warnings of Showers at district level for the next three days
-
-...
-
-[Data](articles/f52dc634.json)
-
-[Extended Data](ext_articles/f52dc634.ext.json)
-
----
-
-### Sri Lanka welcomes ceasefire between Israel and Lebanon – Foreign Ministry
-
-*2024-11-28 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103828/sri-lanka-welcomes-ceasefire-between-israel-and-lebanon-foreign-ministry) · `en`
-
-Sri Lanka’s Ministry of Foreign Affairs has expressed its support for the recently announced ceasefire between Israel and Lebanon.
-
-In an official statement, the Ministry emphasized its optimism, stating, “We remain hopeful that the ceasefire will pave the way for enduring peace and stability in Lebanon and in the region.”
-
-The ceasefire announced Tuesday (26) is a major step toward ending nearly 14 months of fighting sparked by the ongoing war in Gaza between Israel and Hamas.
-
-There were no immediate reports of alleged violations of the truce, and there were signs of celebration in Beirut. But Israel has said it will attack if Hezbollah breaks the agreement.
-
-...
-
-[Data](articles/042f8d7b.json)
-
-[Extended Data](ext_articles/042f8d7b.ext.json)
 
 ---

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 15:13:40**
+As of **2024-11-28 15:25:42**
 
 ## Newspaper Stats
 
-*Scraped **57,401** Articles*
+*Scraped **57,403** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
 colombotelegraphcom | 582
-bbccomsinhala | 597
+bbccomsinhala | 598
 islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,419
-adaderanalk | 6,952
+adaderanalk | 6,953
 tamilmirrorlk | 8,162
 virakesarilk | 9,352
 adaderanasinhalalk | 9,911
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,401 (100.0%) of 57,401 articles have been extended.
+57,401 (100.0%) of 57,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Ampara tractor incident:  Driver’s assistant surrenders, driver’s body recovered
+
+*2024-11-28 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103841/ampara-tractor-incident-drivers-assistant-surrenders-drivers-body-recovered) · `en`
+
+The assistant of the tractor driver involved in the tragic tractor accident at Karaitivu in Ampara, who was previously reported missing, has surrendered to the Karaitivu Police Station.
+
+According to Karaitivu Police, the tractor driver’s assistant appeared by himself at the police station this morning (28) and was arrested for endangering lives by illegally transporting passengers in a tractor for monetary gain, despite warnings from security forces during the flood situation.
+
+Meanwhile, the bodies of four school children, another passenger, and the tractor driver involved in the incident have been recovered. However, the Disaster Management Center (DMC) confirmed that two students are still missing.
+
+In separate incidents related to the adverse weather, a person drowned while observing water spilling from the Mahakachchakodiya Tank in Vavuniya. Another individual drowned after a boat overturned while fishing in the Yan Oya River, Trincomalee.
+
+...
+
+[Data](articles/13c16728.json)
+
+---
 
 ### Seven Iranian sentenced to life in prison
 
@@ -1240,6 +1258,28 @@ The four students who discovered the dead yesterday will be the aged of 16 and 1
 
 ---
 
+### අධික වර්ෂාවෙන් ලක්ෂ 3කට වැඩි පිරිසකට පීඩා: ඉදිරි දිනවල වර්ෂා තත්ත්වය කෙබඳු ද?
+
+*2024-11-28 09:36:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7v32eqm8g2o) · `si`
+
+අධික වර්ෂාවෙන් ලක්ෂ 3කට වැඩි පිරිසකට පීඩා: ඉදිරි දිනවල වර්ෂා තත්ත්වය කෙබඳු ද?
+
+පසුගිය දින කිහිපය තුළ ශ්‍රී ලංකාවට ඇද හැළුණු අධික වර්ෂාව සහ තද සුළං නිවාස, ගොවිබිම් සහ මාර්ග වෙත බලපෑම් ඇති කළේ ය. අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් කඳුකර ප්‍රදේශවල දුම්රිය ධාවනයට ද බාධා එල්ල විය.
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේ, වර්ෂාවෙන් ලක්ෂ 3කට වැඩි පිරිසක් පීඩාවට පත්ව ඇති බව ය.
+
+නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය 2024 නොවැම්බර් 28 වන දින අලුයම 5:30ට ත්‍රිකුණාමලයට කිලෝමීටර් 110ක් පමණ ඊසාන දෙසින් ස්ථානගතව පැවතිණි. කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ, එම පද්ධතිය නැගෙනහිර වෙරළට ආසන්නව උතුරට බරව වයඹ දෙසට ඉතා සෙමින් ගමන් කරන අතර සුළි කුණාටුවක් දක්වා තීව්‍ර වීමේ හැකියාව ඇති බව ය.
+
+කෙසේ වෙතත්, එය සුළි කුණාටුවක් බවට පත්වනු ඇතැයි ද යන්න පිළිබඳව නිශ්චිතව ප්‍රකාශ කළ නොහැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ නිලධාරියෙක් බීබීසී සිංහල කළ විමසීමකදී පැවසීය.
+
+එම දෙපාර්තමේන්තුව පවසන පරිදි උතුරු පළාතේ සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ ඉතා තද වැසි සහ තද සුළං බලාපොරොත්තු විය හැක.
+
+...
+
+[Data](articles/f52dc634.json)
+
+---
+
 ### Sri Lanka welcomes ceasefire between Israel and Lebanon – Foreign Ministry
 
 *2024-11-28 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103828/sri-lanka-welcomes-ceasefire-between-israel-and-lebanon-foreign-ministry) · `en`
@@ -2313,37 +2353,5 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly announces the
 [Data](articles/43a45982.json)
 
 [Extended Data](ext_articles/43a45982.ext.json)
-
----
-
-### Global Fund for Coral Reefs and Oceanpick partner to transform aquaculture
-
-*2024-11-27 22:07:00* · [`islandlk`](http://island.lk/global-fund-for-coral-reefs-and-oceanpick-partner-to-transform-aquaculture/) · `en`
-
-The Global Fund for Coral Reefs1 (GFCR), an investment fund managed by Pegasus Capital Advisors, has announced an investment in Oceanpick, South Asia’s premier oceanic barramundi farm backed by both Best Aquaculture Practices (BAP) and Aquaculture Stewardship Council (ASC) certifications.
-
-This investment aims to showcase advanced sustainable aquaculture practices, promote economic development in local communities, and support climate-resilient livelihoods for coastal communities in Sri Lanka.
-
-...
-
-[Data](articles/3a9357a2.json)
-
-[Extended Data](ext_articles/3a9357a2.ext.json)
-
----
-
-### CBSL’s new single policy rate decision boosts stocks
-
-*2024-11-27 22:04:00* · [`islandlk`](http://island.lk/cbsls-new-single-policy-rate-decision-boosts-stocks/) · `en`
-
-The Central Bank’s new single policy rate that reduced 50 basis points gave some impetus to the stock exchange yesterday. This also indicated some positive sentiment among investors, stock market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 102.68 points, while the S and P SL20 was up by 39.4 points. The turnover stood at Rs 3.6 billion with eight crossings.
-
-...
-
-[Data](articles/6f8f0f35.json)
-
-[Extended Data](ext_articles/6f8f0f35.ext.json)
 
 ---

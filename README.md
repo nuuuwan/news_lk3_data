@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 13:43:05**
+As of **2024-11-28 14:28:29**
 
 ## Newspaper Stats
 
-*Scraped **57,396** Articles*
+*Scraped **57,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,417
-adaderanalk | 6,949
+adalk | 5,418
+adaderanalk | 6,952
 tamilmirrorlk | 8,162
 virakesarilk | 9,352
 adaderanasinhalalk | 9,911
@@ -26,27 +26,83 @@ adaderanasinhalalk | 9,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,383 (100.0%) of 57,396 articles have been extended.
+57,393 (100.0%) of 57,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### யாழில் ஆலய பூசகரை கட்டிவைத்து தங்கம், பணம் கொள்ளை :  பெண்ணொருவர் கைது !
+### Tusker ‘Deegadanthu 1’ dies from electrocution
+
+*2024-11-28 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103839/tusker-deegadanthu-1-dies-from-electrocution-) · `en`
+
+The infamous tusker known as ‘Deegadanthu 1’, one of the elephants with the longest tusks in the country, often spotted roaming the Kala Wewa National Park, has been electrocuted to death after coming into contact with an electric fence set up in front of a house in Andiyagala, Hinguruwewa.
+
+The tusker was well known for its magnificent tusks and its status as the oldest elephant in the area, making it a popular attraction for both local and foreign tourists.
+
+◼️
+
+[Data](articles/aec7c2dd.json)
+
+---
+
+### Death toll due to adverse weather climbs to 12
+
+*2024-11-28 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103838/death-toll-due-to-adverse-weather-climbs-to-12) · `en`
+
+According to Sri Lanka’s Disaster Management Center (DMC), a total of 12 deaths have been reported due to the prevailing adverse weather conditions in the country.
+
+Among the 12 fatalities, eight are from the Ampara District. The number of injured stands at 17, while two individuals remain missing.
+
+The DMC stated that a total of 330,894 people from 98,635 families in 175 divisional secretariat divisions across 21 districts have been affected by the bad weather as of 08.00 a.m. today (28).
+
+It was reported that 82 houses were completely damaged, and 1,465 houses were partially damaged.
+
+Additionally, the DMC confirmed that a total of 26,625 people from 8,358 families have been relocated to 267 safe locations.
+
+◼️
+
+[Data](articles/b4b54492.json)
+
+---
+
+### India’s parliament suspended temporarily after row over allegations against Adani group
+
+*2024-11-28 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103836/indias-parliament-suspended-temporarily-after-row-over-allegations-against-adani-group) · `en`
+
+Both houses of Indian parliament were suspended temporarily on Thursday within minutes of opening as opposition lawmakers disrupted proceedings for the third day this week seeking a discussion on allegations against the Adani Group.
+
+U.S. authorities have accused Gautam Adani, his nephew Sagar Adani and managing director of Adani Green, Vneet S. Jaain, of being part of a scheme to pay bribes of $265 million to secure Indian solar power supply contracts, and misleading U.S. investors during fund raises there.
+
+“We want a discussion on this in parliament. It is going to be the third day that we are demanding a reply from the prime minister” on the Adani issue, Manickam Tagore, a lawmaker from the main opposition Congress party, which has been leading the protests against the business group, told news agency ANI.
+
+...
+
+[Data](articles/27bf9111.json)
+
+---
+
+### Gold and money robbery
 
 *2024-11-28 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199920) · `ta`
 
-ஆலய பூசகரை கட்டி வைத்து கூரிய ஆயுதங்களால் தாக்கி அவர் அணிந்திருந்த தங்கச் சங்கிலியையும் பணத்தினையும் கொள்ளை இட்டுச் சென்ற சம்பவம் ஒன்று யாழ்ப்பாணம் - கைதடியில் பதிவாகியுள்ளது.
+Temple priest attacked, robbed of gold chain and cash during worship. Robbers escape with 2-pound gold chain and 45,000 rupees. Police investigating.
 
-கைதடி ஏ-9 வீதியில் அமைந்துள்ள கௌரி அம்மன் ஆலயத்திலேயே இந்த கொள்ளைச் சம்பவம் நேற்று புதன்கிழமை (27) முற்பகலில் இடம்பெற்றுள்ளது.
+🟩
 
-பூசகரின் அலறல் சத்தம் கேட்டு அயலவர்கள் விரைந்தபோது இரண்டு கொள்ளையர்கள் பூசகர் அணிந்திருந்த 2 பவுண் தங்கச் சங்கிலியையும் 45 ஆயிரம் ரூபா பணத்தையும் கொள்ளையிட்டுத் தப்பிச் சென்றுள்ளனர்.
+An incident where a temple priest was attacked by sharp weapons and robbed the gold chain and money he wore has been reported.
 
-இதேவேளை தப்பிச் சென்ற இரு கொள்ளையர்களையும் கைது செய்யும் நடவடிக்கையிலும் பொலிஸார்  ஈடுபட்டுள்ளனர்.
+The robbery took place on Wednesday (27) at the Gauri Amman Temple, located on the Kaithadi A-9 road.
+
+When neighbors rushed to hear the screams of the priest, two robbers escaped with a 2 -pound gold chain worn by the priest and 45 thousand rupees.
+
+Meanwhile, the police are also involved in the arrest of two robbers who escaped.
 
 ◼️
 
 [Data](articles/30df2ef0.json)
+
+[Extended Data](ext_articles/30df2ef0.ext.json)
 
 ---
 
@@ -178,6 +234,8 @@ Additionally, efforts are focused on advancing agriculture, water management, cl
 
 [Data](articles/2498ea29.json)
 
+[Extended Data](ext_articles/2498ea29.ext.json)
+
 ---
 
 ### A discussion between President and the Chairman of the World Bank
@@ -225,6 +283,22 @@ The event was attended by Prime Minister's Secretary Pradeep Saputhandri and sen
 [Data](articles/04fe2873.json)
 
 [Extended Data](ext_articles/04fe2873.ext.json)
+
+---
+
+### ශ්‍රී ලංකා - දකුණු අප්‍රිකා පළමු ටෙස්ට් තරගයේ දෙවන දිනය අදයි
+
+*2024-11-28 12:16:51* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-පළමු-ටෙස්ට්-තරගයේ-දෙවන-දිනය-අදයි/9-413332) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකා කණ්ඩායම අතර පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය සඳහා වන තරගය අද (28දා) පැවැත්වීමට නියමිතව තිබේ.
+
+මෙම තරගයේ පළමු දිනය වූ ඊයේ(27දා) තරගයට වර්ෂාවෙන් බාධා එල්ල වූ අතර, දිගටම වර්ෂාව පැවතීම හේතුවෙන් තරගය නතර කිරීමට කටයුතු කළහ.
+
+ඒ වන විට පන්දුවට පහරදෙමින් සිටි දකුණු අප්‍රිකා කණ්ඩායම පළමු ඉනිමට කඩුලු 4ක් දැනී ලකුණු 80ක් රැස් කරගෙන සිටියේය.
+
+◼️
+
+[Data](articles/7e46c749.json)
 
 ---
 
@@ -1376,39 +1450,59 @@ Sri Lanka has issued bonds linked to gross domestic product, so-called macro-lin
 
 ---
 
-### අයහපත් කාලගුණයෙන් දිස්ත්‍රික්ක 20කට බලපෑම්
+### 20 districts affected by inclement weather
 
 *2024-11-28 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203824) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් දිවයිනේ දිස්ත්‍රික්ක 20කට බලපෑම් එල්ල වී තිබේ.
+Here's a summary of 200 characters:
 
-ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේ, එම දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 166ක පවුල් 80,642ක් මේ වන විට පීඩාවට පත්ව සිටින බවය.
 
-පුද්ගලයින් 276,550 දෙනෙකු පීඩාවට පත්ව සිටින අතර පවුල් 5,305කට අයත් පුද්ගලයින් 16,553 දෙනෙකු ආරක්ෂිත ස්ථානවල රැඳී සිටින බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
 
-මේ අතර ජලාශ ආශ්‍රිතව පහත්බිම්වල ගංවතුර තත්ත්වයන් තවදුරටත්  පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+"20 districts hit by severe weather: 80k+ families affected, 276k+ individuals impacted, 16k+ in shelters. Floods reported in reservoir areas."
 
-විශේෂයෙන් දැඳුරුඔයේ සහ මහවැලි ගගේ ජල මට්ටම ඉහළයාම හේතුවෙන් ගංවතුර තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බව වාරිමාර්ග දෙපාර්තමේන්තුවේ වාරිමාර්ග ඉංජිනේරූ ජි.ඩබ්ලිව්.ඒ.සකුරා දිල්තාරා මහත්මිය සඳහන් කළේය.
+🟩
+
+Twenty districts in the island have been affected due to the inclement weather.
+
+The Disaster Management Center said that 80,642 families in 166 Divisional Secretariats are being affected by these districts.
+
+The Disaster Management Center (DMC) says that 276,550 people have been affected and 16,553 persons belonging to 5,305 families remain in security locations.
+
+Meanwhile, the Department of Irrigation says that floods in lower parts of the reservoirs continue.
+
+The water level of the Holduru Othuru Oya and Mahaweli, the irrigation of the Irrigation Engineer (MS) said.
 
 ◼️
 
 [Data](articles/2d40ff1c.json)
 
+[Extended Data](ext_articles/2d40ff1c.ext.json)
+
 ---
 
-### ජනාධිපති සන්නද්ධ හමුදා කැඳවයි
+### President summoned armed forces
 
 *2024-11-28 07:55:57* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-413328) · `si`
 
-දිවයිනේ සියලු  පරිපාලන දිස්ත්‍රික්කවල මහජන සාමය  පවත්වාගෙන යාම සඳහා  ජනාධිපති අනුර කුමාර දිසානායක  මහතා විසින්  සන්නද්ධ හමුදා කැඳවීමේ නියෝගයක් නිකුත් කර ඇත.
+Here's a summary of 200 characters:
 
-ශ්‍රී ලංකා යුධ හමුදාව,ශ්‍රී ලංකා නාවික හමුදාව සහ ශ්‍රී ලංකා ගුවන් හමුදාවේ සියලු සාමාජිකයන් මෙලෙස කැඳවීමේ නියමය ඇතුළත් අති ව්ශේෂ  ගැසට් නිවේදනය  ජනාධිපතිවරයා විසින් නිකුත් කෙරිණි .
 
-මහජන ආරක්ෂක ආඥා  පනතේ 12 වගන්තියෙන් ජනාධිපතිවරයාට පැවරී ඇති බලතල ප්‍රකාරව    දිවයිනේ සියලු  පරිපාලන දිස්ත්‍රික්ක හා ඒ  ආශ්‍රිත  දේශීය ජල තීරයන්හි මහජන සාමය පවත්වාගෙන යාමට  මෙලෙස  සන්නද්ධ හමුදාවන් කැඳවා තිබේ.
+
+Sri Lankan President Anura Kumara Dissanayake summons armed forces to maintain public order across all administrative districts. Gazette notifications issued for army, navy, and air force deployment.
+
+🟩
+
+President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
+
+The President released the Extent Gazette notification of the Sri Lanka Army, the Sri Lanka Navy and all members of the Sri Lanka Air Force.
+
+The armed forces have been summoned to maintain public order in all the administrative districts of the island and allied districts in all the administrative districts of the island and allied local waterholders.
 
 ◼️
 
 [Data](articles/77729f96.json)
+
+[Extended Data](ext_articles/77729f96.ext.json)
 
 ---
 
@@ -1468,91 +1562,143 @@ The police have launched a wide investigation into the missing persons despite t
 
 ---
 
-### අමාත්‍යාංශ දෙකක නව ලේකම්වරු පත් කෙරේ
+### New secretaries appointed in two ministries
 
 *2024-11-28 07:34:51* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකක-නව-ලේකම්වරු-පත්-කෙරේ/11-413326) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව අමාත්‍යාංශ ලේකම්වරු දෙදෙනෙක් පත් කරනු ලැබ තිබේ.
+Here's a summary of 200 characters:
 
-ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (27) පිරිනැමිණ.
 
-ඒ අනුව පරිසර අමාත්‍යාංශයේ ලේකම්වරයා ලෙස කේ.ආර්. උඩුවාවල මහතා පත් කර ඇත.
 
-විද්‍යා හා තාක්ෂණ අමාත්‍යාංශයේ ලේකම්වරයා ලෙස වයි.එල්.මොහොමඩ් නවාවි මහතා පත් කර තිබේ.
+Two new secretaries appointed: KR as Environment Ministry Secretary and Y.L. Shamnad Nawawi as Science and Technology Ministry Secretary by President Anura Kumara Dissanayake.
+
+🟩
+
+President Anura Kumara Dissanayake has been appointed two new Secretaries.
+
+Articles of the Appointment of Appointments
+
+Accordingly, KR as Secretary to the Ministry of Environment. Mr. Uduwala has been appointed.
+
+Mr. Y.L.shamed Nawawi has been appointed as the Secretary to the Ministry of Science and Technology.
 
 ◼️
 
 [Data](articles/9055ecd7.json)
 
+[Extended Data](ext_articles/9055ecd7.ext.json)
+
 ---
 
-### පුංචි ඡන්දෙ ගැන කොමිසමේ අවධානය
+### The Commission's attention to the Little Election
 
 *2024-11-28 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203823) · `si`
 
-පළාත් පාලන මැතිවරණය පැවැත්විය හැකි දින වකවානූ සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාවේ අවධානය යොමුව තිබේ.
+Here's a summary of 200 characters:
 
-මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (27) රැස් වූ මැතිවරණ කොමිෂන් සභාව විසින් මේ සම්බන්ධයෙන් අවධානය යොමුකර ඇති බව වාර්තා වේ.
 
-එහිදි පළාත් පාලන මැතිවරණය පැවැත්වීමේ දිනය සම්බන්ධයෙන් සාකච්ඡා වී ඇති අතර එම දිනය විභාග කටයුතුවලට බාධාවක් නොවන අයුරින් යොදා ගැනීම පිළිබඳ සාකච්ඡා වී තිබේ.
 
-මැතිරණය පැවැත්වීම සඳහා නිශ්චිත දිනයක් එහිදී තීරණය වී නොමැති අතර  ඉදිරි දිනවල දී යළි කොමිෂන් සභාව රැස්වී අවසන් තීනිදුවක් ගැනීමට බලාපොරොත්තු වන බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක මහතා සඳහන් කළේය.
+Elections Commission focuses on local government election date. Chairman RM VLR Ratnayake discusses potential hindrances. No specific campaign date yet. Supreme Court order expected to expedite preparation.
 
-ශ්‍රේෂ්ඨාධිකරණ නියෝගය අනුව පළාත් පාලන මැතිවරණය ඉතා කඩිනමින් පැවැත්විය යුතු බැවින් ඒ සඳහා කොමිෂන් සභාව සුදානමින් සිටින බව ද මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+🟩
+
+The Elections Commission is focused on the date of the local government elections.
+
+The Elections Commission (Elections) (Elections) (Elections) had been paid to the election yesterday (27) under the patronage of the Chairman of the Election Commission RM VLR Ratnayake.
+
+It has been discussed on the date of holding the local government election and discussed the use of the date of hindrance to the examination activities.
+
+There is no specific date for the campaign, and the Commission Chairman RM VLetthanayake said that in the coming days.
+
+The Chairman of the Election Commission added that the local government election should be prepared as soon as the Supreme Court order should be expedited.
 
 ◼️
 
 [Data](articles/3d7c92ef.json)
 
+[Extended Data](ext_articles/3d7c92ef.ext.json)
+
 ---
 
-### ණය ප්‍රතිව්‍යුහගත කිරීම ණය හිමියන්ගේ ඉහළ සහභාගීත්වය IMF අපේක්ෂා කරයි
+### Restructuring Debt IMF expects the higher participation of creditors
 
 *2024-11-28 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-ණය-හිමියන්ගේ-ඉහළ-සහභාගීත්වය-IMF-අපේක්ෂා-කරයි/11-413325) · `si`
 
-ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ මෙහෙයුම් සඳහා ණය හිමියන්ගේ ඉහළ සහභාගීත්වයේ දැඩි අවශ්‍යතාව ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) අවධාරණය කර ඇති අතර, එය රටේ අපේක්ෂිත ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ සාර්ථකත්වය සඳහා අත්‍යවශ්‍ය පියවරක් වන බව ද අවධාරණය කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-නොවැම්බර් 26 වන දා මූල්‍ය ප්‍රජාවේ සාමාජිකයින් අමතමින්, ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) කළමනාකාර අධ්‍යක්ෂිකා ක්‍රිස්ටලිනා ජොර්ජිවා මහත්මිය, ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ප්‍රතිසංස්කරණ න්‍යාය පත්‍රය අනුව ශ්‍රී ලංකාව මෙතෙක් ළගාකරගත් ප්‍රගතිය සහ තිරසාර ණය මට්ටම් සාක්ෂාත් කර ගැනීම සඳහා දැක්වූ සාමූහික ප්‍රයත්නය පෙන්වා දෙමින් ප්‍රකාශයක් නිකුත් කළාය.
 
-ශ්‍රී ලංකා බලධාරීන් ජාත්‍යන්තර මූල්‍ය අරමුදෙල් සහාය ඇතිව ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන ක්‍රියාත්මක කර ඇති අතර, එය ණය තිරසාරභාවය සහ බාහිර ශක්‍යතාව යථා තත්ත්වයට ගෙන ඒම, පුළුල් සාර්ව ආර්ථික ප්‍රතිසංස්කරණවලට සහාය වීම සහ ආර්ථික පාලනය සහ විනිවිදභාවය ශක්තිමත් කිරීම ආදිය අරමුණු කර ගෙන ඇති බවද ජෝර්ජිවා මහත්මිය පැවසීය.
+
+"IMF expects increased creditor participation in Sri Lanka's debt restructuring. Program aims to support debt sustainability and economic reform."
+
+
+
+This summary captures the main points about the IMF's expectations regarding creditor participation in Sri Lanka's debt restructuring efforts and the overall goals of the program.
+
+🟩
+
+The International Monetary Fund (IMF) has emphasized the general needs of creditors of creditors (IMF) for the restructuring operations of Sri Lanka.
+
+Among the International Monetary Fund (IMF), the International Monetary Fund (IMF), the International Monetary Fund (IMF) is Ms. Christophalina Georgivi, Managing Director of the International Monetary Fund..
+
+The Sri Lankan authorities have implemented the economic reform program with the assistance of the International Monetary Fund, and it is aimed at supporting the debt sustainability and external capability.
+
+SDR was approved by the 48-month comprehensive reforms program (approximately $ 3 billion) at the IMF executive in March 2023. Ms. Georgeee also stated that the effective initiative of the program, which has shown positive results, such as reconstructing the economy, reduced inflation and reserves.
 
 ...
 
 [Data](articles/307a0a1d.json)
 
+[Extended Data](ext_articles/307a0a1d.ext.json)
+
 ---
 
-### ජලය පිරුණු කාණුවකට වැටී තවත් පුද්ගලයෙකු මරුට
+### Another dies after water filled with water
 
 *2024-11-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203822) · `si`
 
-කොස්වත්ත, මාවතගම කර්මාන්තපුරයේ ජලය පිරී තිබූ කාණුවකට වැටී පුද්ගලයෙකු මියගොස් තිබේ.
+Person drowns in industrial drain. Body found, investigated by police, handed to family. Post-mortem conducted.
 
-119 තොරතුරු මධ්‍යස්ථානයෙන් ලද පණිවුඩයක් මත කොස්වත්ත පොලීසිය විමර්ශනය කර මෘත ශරීරය හදිසි මරණ පරීක්ෂණය සහ පශ්චාත් මරණ පරීක්ෂණය සිදුකර ඥාතීන්ට භාරදී ඇත.
+🟩
+
+A person has fallen into a drain filled with water in Mawathagama Industry, Koswatta.
+
+119 The body has been investigated by the Koswatta Police on a message from the Information Center and the body has been handed over to relatives and the post mortem.
 
 ◼️
 
 [Data](articles/f357f311.json)
 
+[Extended Data](ext_articles/f357f311.ext.json)
+
 ---
 
-### ගැඹුරු පීඩන අවපාතය   ත්‍රිකුණාමලයට කිලෝමීටර් 100ක් දුරින්
+### Deep Pressure Recession 100 km away from Trincomalee
 
 *2024-11-28 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203821) · `si`
 
-නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය අද (28) අලුයම 02.30 පමණ වන විට ත්‍රිකුණාමලයට කිලෝමීටර් 100 ක් පමණ ඊසාන දෙසින් පිහිටා තිබුණි.
+Here's a summary of the text in approximately 200 characters:
 
-එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව උතුරට බරව වයඹ දෙසට ඉතා සෙමින් ගමන් කරමින්  අද දින සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
 
-මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු පළාතේත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් ඉතා තද වැසි සහ තද සුළං බලාපොරොත්තු විය හැකිය.
 
-දිවයිනේ උතුරු පළාතේත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ. ඇතැම් ස්ථානවලට මි. මී.150ට වැඩි  ඉතා තද වැසි ඇති වේ.
+Deep pressure system 100km NE of Trincomalee. Heavy rainfall & thunderstorms forecasted for northern regions. Strong winds (40-50mph) expected across island. Public advised to take precautions against lightning and wind-related accidents.
 
-දිවයිනේ සෙසු ප්‍රදේශවලත් විටින් විට වැසි ඇතිවේ. උතුරු මැද සහ වයඹ පළාත්වලත්, මාතලේ සහ කෑගල්ල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී.100ට වැඩි තද වැසි ද ඇතිවිය හැකිය.
+🟩
+
+The deeper pressure recession in the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bengal was located about 100 km northeast of Trincomalee today.
+
+The Department of Meteorology announces that the North Western township is more slowly than the North Western towards the North Western towards the North Western coast.
+
+Due to the impact of this system, the sky is buried in many parts of the island, and the Northern Province and in the North and the Trincomalee district can be expected.
+
+Showers or thundershowers at times in the North and the Trincomalee district. Some places. Shortion of heavy rains over 1550 mph.
+
+Showers at times in the rest of the island. In the North Central and North Western provinces, in Matale and Kegalle districts can also cause heavy showers at more than 100 mm.
 
 ...
 
 [Data](articles/89541ceb.json)
+
+[Extended Data](ext_articles/89541ceb.ext.json)
 
 ---
 
@@ -1632,23 +1778,35 @@ As per the appointments, K.R. Uduwawala will serve as the Secretary to the Minis
 
 ---
 
-### 'ගංවතුරට කොටු වෙලා පැය 14ක් කුඹුරේ පැලක වහලෙ උඩ හිටියා': 'බිහිසුණු අත්දැකීමකින්' පසු දිවිගලවා ගත් සෝමසුන්දරම්
+### 14 hours of the floods were on the roof of the paddy field for 14 hours: Somasundaram, who survived a 'horrific experience'
 
 *2024-11-28 05:00:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy48wyp37qo) · `si`
 
-'ගංවතුරට කොටු වෙලා පැය 14ක් කුඹුරේ පැලක වහලෙ උඩ හිටියා': 'බිහිසුණු අත්දැකීමකින්' පසු දිවිගලවා ගත් සෝමසුන්දරම්
+Here's a summary of the article in approximately 200 characters:
 
-"එක පාරට ආව වතුර පාරත් එක්ක මට කිසි ම දෙයක් හිතා ගන්න බැරි වුණා. මම හිටිය පැලට නැග්ගා ජීවිතේ බේර ගන්න ඕන නිසා," 65 හැවිරිදි ගණපතිපිල්ලේ සෝමසුන්දරම් තමන් මුහුණ දුන් 'බියකරු' අත්දැකීම පිළිබඳව බීබීසී සිංහල සේවය වෙත එලෙස අදහස් දැක්වීම ආරම්භ කළේ ය.
 
-දිවයිනට බලපා ඇති අයහපත් කාලගුණයත් සමග ඇති වූ ජල ගැලීම් තත්ත්වය හමුවේ ගංවතුරට කොටුවී සිටි ඔහු ශ්‍රී ලංකා ගුවන් හමුදාව විසින් බේරා ගනු ලැබුවේ, ඊයේ (නොවැම්බර් 27) දහවල් කාලයේදී ය.
 
-අම්පාර ප්‍රදේශයට බලපා ඇති ගංවතුර තත්ත්වය පිළිබඳ නිරීක්ෂණය කරමින් පියාසර කරමින් තිබූ බෙල් 212 වර්ගයේ හෙලිකොප්ටරයක සිටි ගුවන් හමුදා නිලධාරීන් පිරිසක් විසින් වාලච්චේන, තොළුවිලච්චිය ප්‍රදේශයේදී මෙම මුදා ගැනීමේ මෙහෙයුම සිදු කරනු ලැබූ බව ගුවන් හමුදා මාධ්‍ය ප්‍රකාශක ගෲප් කැප්ටන් එරන්ද ගීගනගේ බීබීසී සිංහල සේවයට පැවසුවේ ය.
+Sri Lanka floods: Elderly farmer Somasundaram survives 14-hour ordeal on paddy field roof. Air Force rescues him. Disasters affect 145 divisions across 21 districts, causing 6 deaths and damage to 83 homes. Red alerts issued for landslides in several districts. Heavy rainfall forecasted for northern regions.
 
-තමන් මුහුණ දුන් අත්දැකීම පිළිබඳ බීබීසී සිංහල සේවය වෙත අදහස් දක්වමින් ගණපතිපිල්ලේ සෝමසුන්දරම් කියා සිටියේ, තමන් කුලී සේවකයෙකු ලෙස සේවය කරන බව ය.
+🟩
+
+14 hours of the floods were on the roof of the paddy field for 14 hours: Somasundaram, who survived a 'horrific experience'
+
+"With the road to the road, I couldn't think of anything. Because I wanted to save my plane life, "65-year-old Karpeelami Somasundaram began to comment on the 'night' experience he had experienced.
+
+The Sri Lanka Air Force was trapped by the Sri Lanka Air Force in the afternoon, which was flooded in the island.
+
+Air Force Spokesperson Guppatan, the Air Force Spokesman Group Captain, told the BBC Sinhala service that a group of Air Force officials were conducting the release operation in Valachchenai, the vehicle of the Ampara area.
+
+Commenting to the BBC Sinhala in the experience he faced, I was said to serve as a hire worker.
+
+"The paddy holding paddy fields from my job. 5000 per week to do this job. I have four family children. There are six all our family with wife. Each week, we come to the house in Vandaramulla, Batticaloa. "
 
 ...
 
 [Data](articles/7b2d61b4.json)
+
+[Extended Data](ext_articles/7b2d61b4.ext.json)
 
 ---
 
@@ -2167,97 +2325,5 @@ As per the appointments, Mr. K.R. Uduwawala will serve as the Secretary to the M
 [Data](articles/656928e4.json)
 
 [Extended Data](ext_articles/656928e4.ext.json)
-
----
-
-### Shadow education in spotlight
-
-*2024-11-27 21:58:00* · [`islandlk`](http://island.lk/shadow-education-in-spotlight/) · `en`
-
-The JVP-led NPP government has disappointed its detractors, who expected it to act like a bull in a china shop, after capturing state power. It has chosen to act with restraint, and cross the river by feeling the stones, as legendary Chinese leader Deng Xiaoping said. So, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa’s assurance, on Tuesday, that the incumbent government would not ban private tuition came as no surprise. However, in saying so, he placed shadow education in the spotlight. At this early juncture, the new administration may not be able to reveal how it will handle issues concerning private tuition, but it will have to treat them as a high-priority policy concern and act accordingly.
-
-...
-
-[Data](articles/b8fe6e14.json)
-
----
-
-### A special announcement for revenue applicants
-
-*2024-11-27 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203817) · `si`
-
-Revenue applicants: Troops welfare benefit program extended due to inclement weather. Relief period extended to Rs. [Amount]. Eligible families/persons who missed application deadline now have opportunity to apply.
-
-🟩
-
-Troops have once again have been extended to apply to the welfare benefit program.
-
-Accordingly, the Welfare Board has decided to extend the relief period to be extended to Rs.
-
-The families and persons who were unable to apply for the relief scheme have been applied to families and persons have been given to the families and persons who have not been applied to the beneficiaries.
-
-However, the announcement states that the time taken into consideration the inclement weather conditions in the country and has once again taken steps to extend the time.
-
-◼️
-
-[Data](articles/e669bea5.json)
-
-[Extended Data](ext_articles/e669bea5.ext.json)
-
----
-
-### International Monetary Fund expects high participation of credit providers for Sri Lanka's debt restructuring process
-
-*2024-11-27 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199886) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-IMF emphasizes high credit provider participation for Sri Lanka's debt restructuring. Director Crystalina Georgia highlights importance of economic reconstruction program and debt stability. IMF granted $3 billion credit facility in March 2023. Third review agreement signed with Sri Lankan authorities. High lender contribution crucial for swift debt restructuring process.
-
-🟩
-
-The International Monetary Fund (IMF) has emphasized the mandatory requirement of the high participation of credit providers for the Sri Lankan Debt Reorganization initiatives, which has pointed out that it is necessary to ensure the success of the economic reconstruction program in the country.
-
-Speaking among members of the financial community on November 26, the Director of the International Monetary Fund (IMF), Crystalina Georgia, issued a joint effort to ensure Sri Lanka's progress and sustainable debt stability, cooperating with the International Monetary Fund.
-
-The purpose of the program is to implement the economic restructuring program with the help of the International Monetary Fund with the help of the International Monetary Fund, to bring out debt stability and external possibilities, to help with widespread economic reorganization and strengthen economic administration and vulgarity.
-
-...
-
-[Data](articles/656ca1d4.json)
-
-[Extended Data](ext_articles/656ca1d4.ext.json)
-
----
-
-### Australia applauds the bribery and corrupt program of the new government
-
-*2024-11-27 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199885) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Australia supports Sri Lanka's new government's bribery and corruption programs, attracting investors. The High Commissioner plans to assist in establishing a nationwide system. Both countries strengthen ties, discussing areas like national security and digitalization.
-
-🟩
-
-Paul Stewns, the Australian High Commissioner to Sri Lanka, said the bribery and corrupt program of the new government had attracted investors.
-
-The Australian High Commissioner said he was preparing to support the government's program to establish a bribery and corrupt mechanism nationwide.
-
-The President of the President of the President of the President of the President of the President of Sri Lanka, Paul Stephens met with the President of the President at the Presidential Secretariat at the Presidential Secretariat.
-
-The High Commissioner said that the 75 -year ties between Australia and Sri Lanka are strengthening and the closure of the close ties between the two countries is expected to be further strengthened.
-
-It was also discussed on Australia's technical assistance in the sectors including national security, maritime affairs, digitalization, public sector modernization, vocational education and strength.
-
-...
-
-[Data](articles/4960cea0.json)
-
-[Extended Data](ext_articles/4960cea0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 17:43:42**
+As of **2024-11-28 19:02:55**
 
 ## Newspaper Stats
 
-*Scraped **57,435** Articles*
+*Scraped **57,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,359 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,424
-adaderanalk | 6,958
-tamilmirrorlk | 8,169
-virakesarilk | 9,361
-adaderanasinhalalk | 9,917
+adalk | 5,428
+adaderanalk | 6,960
+tamilmirrorlk | 8,170
+virakesarilk | 9,369
+adaderanasinhalalk | 9,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,423 (100.0%) of 57,435 articles have been extended.
+57,443 (100.0%) of 57,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### யாழ்.தென்மராட்சியில் 1,816 குடும்பங்கள் சீரற்ற வானிலையால் பாதிப்பு
+
+*2024-11-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199936) · `ta`
+
+யாழ்.தென்மராட்சி பிரதேசத்தில் 1,816 குடும்பங்களைச் சேர்ந்த 5,749 பேர் வெள்ள அனர்த்தத்தால் பாதிக்கப்பட்டுள்ளனர்.
+
+இவர்களில், யா/கொடிகாமம் திருநாவுக்கரசு மகா வித்தியாலய இடைத்தங்கல் முகாமில், 59 குடும்பங்களைச் சேர்ந்த 186 பேரும் யா/கொடிகாமம்  போக்கட்டி அரசினர் தமிழ் கலவன் பாடசாலை இடைத்தங்கல் முகாமில், 47 குடும்பங்களைச் சேர்ந்த 281 பேரும் தங்க வைக்கப்பட்டுள்ளனர்.
+
+இங்கு தங்கியுள்ள கற்பிபிணித் தாய்மார் மற்றும் வயோதிபர்களுக்கான மருத்துவ சேவைகள் வழங்கப்பட்டு வருகின்றன.
+
+இதேவேளை ,தென்மராட்சி பிரதேசத்தின் அரச அலுவலகங்கள் மற்றும் வணக்க ஸ்தலங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளதை காணக் கூடியதாக இருக்கிறது.
+
+சாவகச்சேரி பிரதேச சபை மற்றும் கொடிகாமம் பொலிஸ் நிலையம் மற்றும் ஆலயங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளது.
+
+தற்போதைய நிலவர அறிக்கையின்படி  (இன்று (28) நண்பகல் 12.00 மணி வரையிலானது) யாழ்ப்பாணத்தில் ஏற்பட்டுள்ள சீரற்ற காலநிலை காரணமாக, யாழ்ப்பாணம் முழுவதும் 17,095 குடும்பங்களைச் சேர்ந்த 56,732 பேர் பாதிக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/140df05d.json)
+
+---
+
+### இலங்கையின் பொருளாதார எதிர்காலம் - மலேசியாவிலிருந்தான படிப்பினைகள், பிரெட்டன் வூட்ஸ் நிறுவனங்களின் வகிபங்கு மற்றும் பிரிக்ஸ் அங்கத்துவத்தின் சாத்தியப்பாடுகள்
+
+*2024-11-28 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199959) · `ta`
+
+ஆசிய நிதியியல் நெருக்கடியின் போது (1997-1998) மலேசியாவின் பொருளாதாரப் பயணமும், சர்வதேச நாணய நிதிய உதவிக்கான எதிர்ப்பும் இன்று இலங்கையர்களுக்கு கணிசமான படிப்பினைகளை வழங்குகின்றன, ஏனெனில் அதிகமான கடன், பணவீக்கம் மற்றும் வீழ்ச்சியடைந்து வரும் வெளிநாட்டு கையிருப்பு போன்றவற்றால் இலங்கை அதன் பொருளாதார சவால்களை வழிநடாத்துகின்றது.
+
+◼️
+
+[Data](articles/98254c65.json)
+
+---
+
+### උඩරට දුම්රිය ධාවනයේ වෙනසක්
+
+*2024-11-28 18:21:05* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයේ-වෙනසක්/11-413349) · `si`
+
+වර්ෂාවත් සමඟ පස්කඳු, ගල්පර්වත සහ ගස්කොළන් උඩරට දුම්රිය මාර්ගයට කඩා වැටී තිබීම නිසා කොළඹ කොටුව බදුල්ල අතර උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයේ වෙනස්කම් කීපයක් සිදු කරන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය අද (28දා) පැවසීය .
+
+උඩරට දුම්රිය මාර්ගයේ හාලිඇළ, දෙමෝදර අතර උඩුවර 7කණුව ප්‍රදේශයේ දී දුම්රිය මාර්ගයට කඩා වැටී ඇති විශාල පස්කන්ද මෙතෙක් ඉවත් කර නොමැති නිසා බදුල්ල දෙමෝදර අතර දුම්රිය ධාවනය මුළුමනින්ම ඇණ හිට ඇත.
+
+...
+
+[Data](articles/f20b38b2.json)
+
+---
+
+### 42 ஓட்டங்களுக்கு சுருண்டது இலங்கை
+
+*2024-11-28 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199961) · `ta`
+
+தென் ஆபிரிக்காவுக்கு எதிராக டேர்பன், கிங்ஸ்மீட் விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்பின் முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் பதிலுக்கு முதல் இன்னிங்ஸில் துடுப்பெடுத்தாடிய இலங்கை 13.5 ஓவர்களில் சகல விக்கெட்ளையும் இழந்து 42 ஓட்டங்களுக்கு சுருண்டது.
+
+டெஸ்ட் கிரிக்கெட் வரலாற்றில் ஓர் இன்னிங்ஸில் இலங்கை பெற்ற மிகக் குறைந்த மொத்த எண்ணிக்கை இதுவாகும்.
+
+இலங்கை அணியில் கமிந்து மெண்டிஸ் (13), லஹிரு குமார (10) ஆகிய இருவரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+
+தினேஷ் சந்திமால், குசல் மெண்டிஸ், ப்ரபாத் ஜயசூரிய, விஷ்வா பெர்னாண்டோ ஆகியோர் ஓட்டம் பெறாமல் ஆட்டம் இழந்தனர்.
+
+தென் ஆபிரிக்க வேகப்பந்துவீச்சாளர் மார்க்கோ ஜென்சன் ஒரு ஓட்டமற்ற ஓவர் உட்பட 6.5 ஓவர்களில் 13 ஓட்டங்களுக்கு 7 விக்கெட்களைக் கைப்பற்றினார்.
+
+தனது 14ஆவது டெஸ்ட் போட்டியில் விளையாடும் ஜென்சன், ஓர் இன்னிங்ஸில் பதிவு செய்த அதிசிறந்த பந்துவீச்சுப் பெறுதி இதுவாகும்.
+
+அவரை விட ஜெரால்ட் கொயெட்ஸி 18 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கெகிசொ ரபாடா 10 ஓட்டங்களுக்கு ஒரு விக்கெட்டையும் கைப்பற்றினர்.
+
+...
+
+[Data](articles/064f3f31.json)
+
+---
+
+### 7 Iranians sentenced to life in prison on drug charges
+
+*2024-11-28 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103848/7-iranians-sentenced-to-life-in-prison-on-drug-charges) · `en`
+
+The Colombo High Court has sentenced seven Iranian nationals to life in prison after they were convicted of transporting over 425 kilograms of heroin by boat in the sea area off Mattakkuliya in Colombo in 2019.
+
+This verdict was delivered by Colombo High Court Judge R. S. S. Sapuvida after the defendants pleaded guilty to the charges.
+
+The case was taken up before the court today (28), and the seven Iranian nationals were subsequently sentenced to life in prison.
+
+On July 12, 2019, the group of suspects was arrested during a raid carried out by the Police Narcotics Bureau (PNB) while they were transporting over 425 kilograms of heroin in the sea area off Mattakkuliya.
+
+Following the arrest, the Attorney General filed indictments against the suspects before the Colombo High Court.
+
+The defendants, through their attorney pleaded guilty to the charges when the case was taken up before the court today (28).
+
+...
+
+[Data](articles/b586014c.json)
+
+---
+
+### Tractor accident in Ampara - Principal and Four arrested
+
+*2024-11-28 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203843) · `si`
+
+Ampara tractor accident: 6 students (ages 12-16) died; 5 bodies found, 1 recovered. Principal & 4 others arrested. Police investigation ongoing.
+
+🟩
+
+Two of the Kaduvur Madrasa School, a teacher and tractor assistants have been arrested in connection with investigations into the incident in the Mavaripalli Bridge in Ampara.
+
+Police said that the suspects are to be produced before the Samanthurai Magistrate's Court.
+
+The Principal had been instructed to go from the tractor, as the students had no bus to the students who were completed and the schools in the schools on the 26th.
+
+The bus had been stopped due to flooding.
+
+Police investigations have revealed that the Principal had been instructed to carry the children to the homes from a tractor who transports passengers in such a background.
+
+It has also been revealed that the army had instructed the army not to transport children from tractor as the road risk.
+
+The tractor was hit with 11 students in such a background, and five students survived at the moment and five students drown.
+
+The disappeared was six students who were age between 12 and 16 years old.
+
+...
+
+[Data](articles/80c2dc33.json)
+
+[Extended Data](ext_articles/80c2dc33.ext.json)
+
+---
+
+### 4 lakh people are affected by Valla
+
+*2024-11-28 17:48:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளத்தால்-4-இலட்சம்-பேர்-பாதிப்பு/175-347943) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+400k+ affected by Valla: 401,707 people in 120,534 families across 24 districts. Mannar worst hit (63,883), followed by Jaffna (56,732). 102 homes destroyed, 1,952 damaged.
+
+🟩
+
+The Disaster Management Center (DMC) said that 401,707 people from 120,534 families in 24 districts have been affected by the inclement weather conditions.
+
+Mannar district has been badly affected and 63,883 persons have been affected, followed by 56,732 people in the Jaffna district.
+
+In addition, 102 houses have been completely damaged due to inclement weather and 1,952 houses have been partially damaged.
+
+◼️
+
+[Data](articles/246583dc.json)
+
+[Extended Data](ext_articles/246583dc.ext.json)
+
+---
+
+### Sri Lanka launches lowest marks in Lanka Test
+
+*2024-11-28 17:39:01* · [`adalk`](https://www.ada.lk/sports/ලංකා-ටෙස්ට්-ඉතිහාසයේ-ඉනිමක-අඩුම-ලකුණු-සංඛ්‍යාවට-ලංකාව-දැවී-යයි/9-413345) · `si`
+
+Sri Lanka records lowest test score: 42 all out against South Africa. Lowest previous: 71 in 1994. South Africa replies with 191. Mendis top scorer for SL with 13. Janassen takes 7/13.
+
+🟩
+
+Sri Lanka was bowled out for the lowest score of Sri Lanka Cricket. South Africa in reply to South Africa's first Test against the South African team was bowled out for 42.
+
+The lowest score recorded at a innings in Test series, Sri Lanka were bowled out for 71 in 1994.
+
+The score of Sri Lanka was bowled out for the 12th largest number of Test history.
+
+South Africa scored 191 in their first innings. Kommit Mendis gathered the highest number of Sri Lankan innings. He was able to get 13 points. Janasen took seven wickets for 13 runs.
+
+◼️
+
+[Data](articles/bd502bef.json)
+
+[Extended Data](ext_articles/bd502bef.ext.json)
+
+---
+
+### Sri Lanka launches 42 runs in their first innings
+
+*2024-11-28 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203842) · `si`
+
+Sri Lanka scores 42 vs South Africa in Durban. Lowest Test score. Marko Janssen takes 7/13. Kamindu Mendis, Lahiru Kumara score 13 each. Dinesh Chandimal, Kusal Mendis dismissed without score.
+
+🟩
+
+South Africa Film Bowl beat Sri Lanka to 42 runs in Durban against South Africa.
+
+Accordingly, the Dhamma was the lowest score of Sri Lanka in the history of Test cricket.
+
+Sri Lanka has previously been labeled at a Test innation, in 1994, in 1994, Sri Lanka was bowed down to Pakistan.
+
+Kamindu Mendis was 13 runs and Lahiru Kumara scored 13 runs.
+
+Dinesh Chandimal, Kusal Mendis, Prabath Jayasuriya, universal Fernando and Asitha Fernando left without marks.
+
+Marko Yansz, who was an outstanding bowler for South Africa, took seven wickets for 13 runs.
+
+In 1904, the wickets of the Australian bowler Hue Trickle was recorded in the Test area after seven wickets in 7 overs.
+
+◼️
+
+[Data](articles/7df8edc4.json)
+
+[Extended Data](ext_articles/7df8edc4.ext.json)
+
+---
+
+### Minister of Fisheries and Members of Parliament
+
+*2024-11-28 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199941) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Fisheries Minister visits flood-hit Jaffna, provides aid. MPs offer medical assistance, food in relief camps.
+
+🟩
+
+A large number of people have been affected by the inclement weather in the country. Many areas have been flooded.
+
+Accordingly, the affected people in many areas of the Jaffna district are being kept and maintained in intermediate camps.
+
+Fisheries Minister Ramalingam Chandrasekaran visited them in person and is in the process of providing them with immediate needs.
+
+Similarly, Dr. Sripanandarajah, Member of the National People's Power, Dr. Sripanandaraja, is visiting the welfare of the people who have been housed in the interim camps and visited the medical services and are doing their necessary medical assistance.. The first phase is now being provided with medical services for the people who have been housed at the Jaffna Hindu Ladies College. ”
+
+At the same time, the National People's Power Member Rajeevan Jayachandramurthy is also meeting people in the interim camps and providing dry food and essential commodities to the people.
+
+...
+
+[Data](articles/cd3c1146.json)
+
+[Extended Data](ext_articles/cd3c1146.ext.json)
+
+---
+
+### Samudrakani with Vijay Sethupathi
+
+*2024-11-28 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199954) · `ta`
+
+Samudrakani stars in "Manikam" directed by Nanda Periyasamy. Released Dec 20th alongside Vijay Sethupathi's "Liberation 2". Music by Vishal Chandrasekhar. Produced by GBRK Cinemas. Exciting fan anticipation.
+
+🟩
+
+Director and actor Samudrakani is the hero of the story 'Mr.. The release date of the movie 'Manikam' has been officially announced.
+
+Directed by Director Nanda Periyasamy. Samudrakani, 'Director' Imam 'Bharathiraja, Thambi Ramaiah, Sriman, Vadivakarasi, Karunakaran, Prince, and many others.
+
+M.. Vishal Chandrasekhar has composed the film, which has been recorded by Sukumar. The film is being produced by GBRK Cinemas on behalf of GB Rekha Ravikumar - Sinda Gopalakrishna Reddy -Raja Senthil.
+
+The film was ready for a long time for release. It has been announced with a special photo that the film will be released in the film palace worldwide on the twenty of December.
+
+Meanwhile, on the twenty of December, the film 'Liberation 2' will be released in the alliance of Vijayamaran -Vijay Sethupathi -Suri - and the film 'Liberation 2' will be released on the same date.. It is also worth noting that the fans are excited by the release of the movie 'Manikam'.
+
+◼️
+
+[Data](articles/b9444b73.json)
+
+[Extended Data](ext_articles/b9444b73.ext.json)
+
+---
+
+### Surya's 'Surya 45' started with the pooja
+
+*2024-11-28 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199948) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Actor Surya's 'Surya 45' pooja ceremony held at Masani Amman Temple. Film production by Dream Warrior Pictures. Mixed reviews for previous film 'Gangua'. Shooting to begin soon in Coimbatore, release after June next year. Director Karthik Subburaj promises satisfying film for Surya fans.
+
+🟩
+
+Actor Surya has worked hard for three years and has received a mixed criticism of 'Gangua', which has received mixed reviews and has not reached the expected collection.
+
+Actor and director. J.. Actor Surya plays the hero of the story. The film was made on behalf of Dream Warrior Pictures Company. R. Prakash Babu and S. R. Prabhu is co -produced.
+
+Details of other actors, actresses and working technicians in the film have not been officially released. The inauguration of the film was held at the Masani Amman Temple in Erode district of Tamil Nadu. Actor Surya, director R. J.. The film crew including Balaji participated.
+
+The film production company said that the first shooting of the film will begin soon in the Coimbatore district and the film is scheduled to be released after June next year.
+
+Meanwhile, Surya's film directed by director Karthik Subburaj has said that the film will be released next year and the film will satisfy Surya fans.
+
+◼️
+
+[Data](articles/d38b3dc7.json)
+
+[Extended Data](ext_articles/d38b3dc7.ext.json)
+
+---
+
+### Actor Rio Rajin 'Sweet Heart's first look vision release
+
+*2024-11-28 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199952) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rio Raj stars in "Sweet Heart," directed by Swineet S. Co-starring Gopika Ramesh, Ranji Mathew, Tulsi, and Redin Kingsley. Music by Yuvan Shankar Raja. Produced by SR Films. First look released in Salt Bucket style.
+
+🟩
+
+The first look of 'Sweet Heart' has been released by the film 'Nenjamundu Honesty Ou Raja', which is the hero of the story of the story of 'Joe', the hero of the famous actor Rio Raj.
+
+Introducing Director Swineet S.. Rio Raj, Gopika Ramesh, Ranji Masikar, Tulsi, Redin Kingsley
+
+Yuvan Shankar Raja has composed the film, which is being recorded by Balaji Subramaniam.. The film, which focuses on the younger generation, has produced the film on behalf of Yuvan Shankar Raja on behalf of the SR Films.
+
+The shooting of the film is completed and the final phase of the work is currently underway. In this case, the first look of the film has been released.
+
+The first look of the film has been designed and released in the famous 'Salt bundle' style among lovers.
+
+◼️
+
+[Data](articles/6abbf4ff.json)
+
+[Extended Data](ext_articles/6abbf4ff.ext.json)
+
+---
+
+### Over 400,000 affected due to adverse weather in Sri Lanka
+
+*2024-11-28 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103847/over-400000-affected-due-to-adverse-weather-in-sri-lanka) · `en`
+
+The Disaster Management Centre (DMC) has reported that as at 4.00 pm today (28), the adverse weather conditions have affected a total of 401,707 individuals across Sri Lanka.
+
+Meanwhile, 12 deaths have been confirmed while 01 person is reported missing.
+
+◼️
+
+[Data](articles/ef35c9c5.json)
+
+[Extended Data](ext_articles/ef35c9c5.ext.json)
+
+---
 
 ### "Sridharan, who called the lamp, sent it back"
 
@@ -55,6 +393,30 @@ At the invitation of Sridharan MP, I came to the main road in the midst of the r
 [Data](articles/b6abac1c.json)
 
 [Extended Data](ext_articles/b6abac1c.ext.json)
+
+---
+
+### All should work together to build national unity and reconciliation - Deputy Minister Munir Muppar
+
+*2024-11-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199951) · `ta`
+
+National unity key: Deputy Minister Munir Muppar calls for reconciliation, unity over ethnicity division. Media plays crucial role in fostering harmony among Sri Lankans.
+
+🟩
+
+Deputy Minister of National Integration Mohamed Munir Muppar said that we can move forward as a nation by working together with the aim of being a Sri Lankans, rather than dividing the ethnicity.
+
+Mohamed Munir, who was appointed as the Deputy Minister of National Integration, said this to the media after taking over the duties at the National Integration Ministry office in Rajagiriya on Thursday (28).
+
+I thank the President for the posting of the National Integration Ministry post to successfully carry out the massive work that will bring unity of reconciliation among the ethnic cleansing.
+
+Through the people's mandate available to the ruling government, the feeling that all Sri Lankans are. We can move forward as a nation by working together with the aim of being Sri Lankans, rather than dividing ethnicity.
+
+...
+
+[Data](articles/9a9a99ce.json)
+
+[Extended Data](ext_articles/9a9a99ce.ext.json)
 
 ---
 
@@ -234,6 +596,30 @@ The Disaster Management Center further said that 3 million 77 thousand 511 peopl
 
 ---
 
+### Another suspect jeep arrested in Menikhinna
+
+*2024-11-28 16:09:05* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-සැක-ජීප්-රියක්-මැණික්හින්නෙන්-අල්ලයි/11-413341) · `si`
+
+Jeep arrest in Menikhinna: Officials from Kandy Defense Department detained by CID. Vehicle seized at 11:30 PM, to be presented in Teldeniya Magistrate Court.
+
+🟩
+
+A group of officials at the Kandy Branch Officers of the Department of Defense has been arrested by the CID.
+
+According to information received by the Criminal Investigation Department at the DIG's office, the garage was taken into custody at around 11.30 pm yesterday (27).
+
+The arrested jeep was handed over to the Teldeniya Headquarters Police and the vehicle was to be taken to the Teldeniya Magistrate's Court today (28).
+
+The reporting of the Analyst's Report, Customs Reports and Cars The Department of Departments will be called for the Defender vehicle.
+
+◼️
+
+[Data](articles/c7eb9ebf.json)
+
+[Extended Data](ext_articles/c7eb9ebf.ext.json)
+
+---
+
 ### Manusha is demanding compensation of Rs 1 billion
 
 *2024-11-28 16:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-பில்லியன்-இழப்பீடு-கோருகிறார்-மனுஷ/175-347936) · `ta`
@@ -264,19 +650,47 @@ In a letter to the Foreign Minister, Manusha Nanayakkara said that the allegatio
 
 ---
 
-### வடமாகாணத்தில் மழை வெள்ளத்தினால் பாதிக்கப்பட்ட மக்களிற்கு தேசிய மக்கள் சக்தி நாடாளுமன்ற உறுப்பினர்கள் உரிய உதவிகளை வழங்கவில்லை- கீதநாத் காசிலிங்கம்
+### Sabina is headed with the rain
+
+*2024-11-28 15:58:11* · [`adalk`](https://www.ada.lk/breaking_news/වැස්සත්-සමඟ-සේනා-හිස-ඔසවයි/11-413340) · `si`
+
+Sabina faces challenges as North Central Provincial Director of Agriculture warns Rajarata province about crop damage due to caterpillar infestation. Minister advises farmers to seek guidance from local agricultural experts.
+
+🟩
+
+North Central Provincial Director of Agriculture Dr. Buddhika Abeysinghe says that the Rajarata province is at the risk of the Rajarata province these days.
+
+Minister of farmers and crops have been reportedly affected by the caterpillary heave, and the Director of Agriculture Dr. Buddhika Abeysinghe said that the Craphoman Abeysinghe was informed of the agricultural advisor of the area before the spread of the area.It is to get advice to take.
+
+◼️
+
+[Data](articles/465d5470.json)
+
+[Extended Data](ext_articles/465d5470.ext.json)
+
+---
+
+### National People's Power MPs do not provide appropriate assistance to people affected by rain floods in the Northern Province- Geetanath Kasilingam
 
 *2024-11-28 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199940) · `ta`
 
-இலங்கையின் வடமாகாணத்தில் மழை வெள்ளத்தால் பாதிக்கப்பட்ட மக்களிற்கு அந்த மாகாணத்திலிருந்து புதிதாக தெரிவு செய்யப்பட்ட தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர்கள் போதியளவு உதவிகளை வழங்கவில்லை என ஸ்ரீலங்கா பொதுஜனபெரமுனவின் யாழ்மாவட்ட அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
+National People's Power MPs criticized for inadequate flood relief in Northern Province, Sri Lanka. Over 250,000 affected, 10 deaths reported. Government urged to provide essential aid, but opposition party accused of inaction despite presidential orders.
 
-வடமாகாணத்திலிருந்து புதிதாக தெரிவுசெய்யப்பட்ட தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர்கள் பாதிக்கப்பட்ட மக்களிற்கு உதவி வழங்க தவறிவிட்டனர் என குறிப்பிட்டுள்ள அவர் யாழ்ப்பாணம் உட்பட நாட்டின் பல பகுதிகளில் சுமார் 250,000க்கும் அதிகமான மக்கள் கடும் வெள்ளத்தினால் பாதிப்புகளை எதிர்கொண்டுள்ளனர் என சுட்டிக்காட்டியுள்ளார்.
+🟩
 
-இதுவரை பத்திற்கும் மேற்பட்டவர்கள் உயிரிழந்துள்ளனர்,பல குடும்பங்களிற்கு உணவு புகலிடம் மருத்துவ உதவிகள் அவசர தேவையாக உள்ளன என அவர் மேலும் தெரிவித்துள்ளார்.
+Sri Lanka PA has not provided adequate assistance to the people affected by the floods in the Northern Province of Sri Lanka.
+
+He pointed out that more than 250,000 people in many parts of the country, including Jaffna, have failed to help the affected people from the Northern Province have failed to help the affected people from the Northern Province.
+
+He added that more than ten people have died so far, and many families are urgently needed for food asylum.
+
+Geetanath Kasilingam says that it is the duty of the government to provide assistance to the affected people in the event of a natural disaster, but to provide the essential needs of the food, but the parliamentarians of the newly elected National People's Power from the Northern Province have done nothing to publish the photographs, despite several days of rain flooding.
 
 ...
 
 [Data](articles/ebdd9dc6.json)
+
+[Extended Data](ext_articles/ebdd9dc6.ext.json)
 
 ---
 
@@ -302,31 +716,49 @@ The elephant, aged 40 - 50, is often known to come to Kala Veva and Kahalla -Pal
 
 ---
 
-### வெள்ளப் பாதிப்பு ; அவசரமாகக் கூடியது வவுனியா ஒருங்கிணைப்புக் குழு !
+### Flood impact;Vavuniya Coordinating Committee
 
 *2024-11-28 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199930) · `ta`
 
-வவுனியா மாவட்ட ஒருங்கிணைப்பு குழுக் கூட்டம், இன்று வியாழக்கிழமை (28) காலை, வவுனியா மாவட்ட செயலகத்தில் இடம்பெற்றது.
+Here's a summary of the text in approximately 200 characters:
 
-கூட்டுறவு அபிவிருத்தி பிரதி அமைச்சர் உபாலி சமரசிங்ஹ தலைமையில் நடைபெற்ற இக்கூட்டத்தில், அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் மற்றும், வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர்கள், அரசாங்க அதிபர் சரத்சந்திர உட்பட பிரதேச செயலாளர்கள், அனர்த்த முகாமைத்துவ அதிகாரிகள், பாதுகாப்புப் துறை அதிகாரிககள் எனப் பலரும் கலந்துகொண்டனர்.
 
-சீரற்ற காலநிலையால் வவுனியா மாவட்டத்தில் ஏற்பட்டுள்ள பாதிப்புக்கள் தொடர்பில் ஆராய்வதற்காக, விஷேடமாக ஏற்பாடு செய்யப்பட்டிருந்த இக் கூட்டத்தில், வெள்ளப் பாதிப்புக்கள் தொடர்பாகவும், பாதிக்கப்பட்ட பகுதிகளில் முன்னெடுக்கப்பட வேண்டிய மேலதிக நடவடிக்கைகள் குறித்தும் விரிவாகக்  கலந்துரையாடப்பட்டது.
+
+"Vavuniya Coordinating Committee meets to discuss flood impacts. Deputy Minister Upali Samarasinghe chairs. Rishad Bathiudeen demands aid for trapped residents & exam students. Urges NGOs' support."
+
+🟩
+
+The Vavuniya District Coordinating Committee meeting was held at the Vavuniya District Secretariat on Thursday morning.
+
+The meeting was chaired by Deputy Minister of Cooperative Development, Upali Samarasinghe, all Ceylon People's Congress President and Member of Parliament Rishad Bathiudeen and Divisional Secretaries, Disaster Management Officers and Defense Department Officers including Vanni District Parliamentarians, Government Agent Sarathchandra.
+
+The meeting, which was organized in a special arrangement to investigate the impacts of the Vavuniya district due to inclement weather, discussed the floods and further measures to be taken in the affected areas.
+
+Commenting on this, the People's Congress leader Rishad, who was unable to go to work and those who were unable to leave the residences, would not be properly provided with food and demanded that they be identified and to take steps to provide them with the help of NGOs, with the help of NGOs.
 
 ...
 
 [Data](articles/0b265dea.json)
 
+[Extended Data](ext_articles/0b265dea.ext.json)
+
 ---
 
-### மத்திய மாகாணத்தில் கடும் குளிரும் பனிமூட்டமும் !
+### Heavy cold and snowfall in Central Province!
 
 *2024-11-28 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199937) · `ta`
 
-அதே நேரம் மழை, வெள்ளம் போன்ற அனர்த்தங்களால் ஒரு இலட்சத்து 13 ஆயிரத்து 52 குடும்பங்களைச் சேர்ந்த 3 இலட்சத்து 77 ஆயிரத்து 511 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் மேலும் தெரிவித்துள்ளது.
+Central Province hit by heavy cold and snowfall. 3,077,511 people from 1,013,520 families affected by rains and floods, according to Disaster Management Center.
+
+🟩
+
+At the same time, 3 million 77 thousand 511 people from one million 13 thousand 52 families have been affected by disasters such as rain and floods, the Disaster Management Center said.
 
 ◼️
 
 [Data](articles/dd84d360.json)
+
+[Extended Data](ext_articles/dd84d360.ext.json)
 
 ---
 
@@ -356,29 +788,35 @@ Amit Jayasundara added that the re -scheduled dates of the exams will be announc
 
 ---
 
-### දකුණු අප්‍රිකා පළමු ඉනිම ලකුණු 191කට සීමාවෙයි
+### South Africa first innings limited to 191
 
 *2024-11-28 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203839) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ පළමු ඉනිම ක්‍රීඩා කළ දකුණු අප්‍රිකාව සියලුදෙනා දැවී රැස් කරගත්තේ ලකුණු 191කි.
+South Africa scored 191 runs in their first innings. Sri Lanka won the toss and bowled first. Asapitha Fernando took 3 wickets for 44 runs. Match ongoing at Kingsmead Stadium.
 
-තරගය දකුණු අප්‍රිකාවේ ඩර්බන්හි කිංග්ස්මේඩ් ක්‍රීඩාංගණයේ පැවැත්වෙන අතර, අද (28) තරගයේ දෙවෙනි දිනයයි.
+🟩
 
-ඔහු පන්දු 117කට මුහුණදෙමින් ලකුණු 70ක් රැස්කිරීම හා කෙෂාව් මහරාජ් ලකුණු 24ක් රැස්කිරීම හැරෙන්න වෙනත් කිසිදු පිතිකරුවෙකුට ලකුණු 20කට වැඩි ඉනිමක් හෝ ගොඩනැගීමට නොහැකි විය.
+South Africa won the first innings in the first Test match between the Sri Lanka Tourism and South African.
 
-ශ්‍රී ලංකාව වෙනුවෙන් සාර්ථක පන්දු යැවීමක නිතර වූ අසිත ප්‍රනාන්දු ලකුණු 44කට කඩුලු 3ක් හා ලහිරු කුමාර ලකුණු 70කට කඩුලු 3ක් දවාගැනීමට සමත් විය.
+The match will be held at the Kingsmead Stadium of Durban, South Africa, and today (28) the second day of the match.
 
-ඔවුන් දෙදෙනාට අමතරව විශ්ව ප්‍රනාන්දු (2/35) හා ප්‍රබාත් ජයසූරිය (2/24) කඩුලු 2 බැගින් දවාගත්හ.
+He was unable to consecrate 70 runs and collect 24 runs while Keshawa Mahajaraj scored 24 runs.
 
-ඊයේ ආරම්භ වූ මෙම තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා පළමුව පන්දුවට පහරදීම සඳහා අප්‍රිකානු කණ්ඩායමට ආරාධනා කළේය.
+A successful bowler for Sri Lanka, Asapitha Fernando took 3 wickets for 44 runs and Lahiru Kumara took 3 wickets for 70 runs.
 
-දිනය පුරා වර්ෂාව ඇඳහැලීම හේතුවෙන් තරගය වේලාසන අවසන් කිරීමට සිදුවිය.
+In addition to both of them, universal Fernando (2/35) and Prabath Jayasuriya took 2 wickets each.
 
-ඒ වනවිට දකුණු අප්‍රිකානු කණ්ඩායම කඩුලු 4ක් දැවී ලකුණු 80ක් රැස්කරගෙන සිටියේය.
+Sri Lanka Leader Dhananjaya de Silva won the toss and invited the African team to bat first yesterday.
+
+The match had to be completed as the rain was laid down.
+
+At that time South African was 80 runs for the loss of 4 wickets.
 
 ◼️
 
 [Data](articles/62c892c0.json)
+
+[Extended Data](ext_articles/62c892c0.ext.json)
 
 ---
 
@@ -454,21 +892,33 @@ He noted the potential for Tamil Nadu to evolve into a leading travel destinatio
 
 ---
 
-### දීඝ දන්තු 1 විදුලි සැර වැදී මරුට
+### Diversary of the disgrace to be filled
 
 *2024-11-28 15:32:08* · [`adalk`](https://www.ada.lk/breaking_news/දීඝ-දන්තු-1-විදුලි-සැර-වැදී-මරුට/11-413337) · `si`
 
-කහල්ල පල්ලේ කැලේ අභය භූමියේ සහ කලා වැව් රක්ෂිතයේ සැරි සරූ දළ යුගලයකින් හෙබි  දීඝ දන්තු 1 ඇතා විදුලි සැර වැදීමකින් අද ( 28දා) ජීවිතක්ෂයට පත්ව සිටියදී සොයා ගත් බව ගල්කිරියාගම පොලිසිය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-ගල්කිරියාගම පොලිස් වසමට අයත් ආඩියාගල පලාගල, හිඟුරු වැව  ප්‍රදේශයේ නිවසක් අසල අද තිබූ අනවසර විදුලි රැහැනක ගැටී මෙම ඇතා ජීවිතක්ෂයට පත්ව ඇති බවද පොලිසිය සඳහන් කලේය.
 
-මෙම අනවසර විදුලි රැහැන සවිකල පුද්ගලයා අත්අඩංගුවට ගැනීම සඳහා විමර්ශන ක්‍රියාත්මක බවද පොලිසිය සඳහන් කළේය.
 
-කහල්ල පල්ල කැලේ අභය භූමියේ  සියබලන්ගමුව, කලා වැව සහ බළලූ වැව් රක්ෂිත තුල කාලයක සිට සැරි සරූ මෙම දීඝ දන්තු 1 ඇතා, මීට වසර පහකට පෙරදීද බඳින තුවක්කුවකට හසු වී ඉදිරි වම් පාදයට බරපතල තුවාල සිදුව  ප්‍රතිකාර ලැබූ බව වන ජීවි දෙපාර්තමේන්තුව සදහන් කලේය.
+Police recover Daswives from Caley Sanctuary. Investigation ongoing after unauthorized telegram. Environmentalists concerned about habitat loss in Kala Vanka Reserve. Two elephants believed killed by human assault.
+
+🟩
+
+Ganskiyagama Police said that the Daswives of the Caley Sanctuary of Kahalla Pallekale Sanctuary and the Sarred Tank Reserve have been recovered today (28).
+
+The police said that the police were killed in a house near a house near a house in the Huldiyagama Police Division.
+
+Investigations are underway to arrest the person who moked this unauthorized telegram.
+
+Sarrie Dasanu, a long period of time in the Kahalla Cale Sanctuary, there is a festival of Sarriety Dani and Cat Tank Reserve.
+
+Environmentalists pointed out that there is a soley general area of ​​the Kala Vanka Reserve. Revatha, Authority (S) of 1, Sarahurai 2 and the surroundings of the art reserve and the surrounding area have lived in the homeland. The respective hoans 2 elephant is believed to be killed by another man's assault.
 
 ...
 
 [Data](articles/5c259815.json)
+
+[Extended Data](ext_articles/5c259815.ext.json)
 
 ---
 
@@ -496,23 +946,31 @@ Driving vehicles with a temporary vehicle number after December 15 will be consi
 
 ---
 
-### மட்டக்களப்பில் வெள்ளத்தால் 15 ஆயிரம் குடும்பங்கள் பாதிப்பு !
+### 15 thousand families affected by floods in Batticaloa
 
 *2024-11-28 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199933) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தில் வியாழக்கிழமையும் (28) மழை சற்ற ஓய்ந்துள்ள நிலையில் மாவட்டத்தின் பிரதான தரை வழிப்போக்குவரத்துக்கள் தற்போது வரையிலும் முற்றாகத் தடைப்பட்டுள்ளன. இதனால் மாவட்ட மக்களின் இயல்பு வாழ்வில் தழம்பல் ஏற்பட்டுள்ளதையும் அவதானிக்க முடிகின்றது.
+Flooding affects 15,000 families in Batticaloa. Main roads blocked, 49,123 people displaced. Relief efforts underway, including food distribution and shelter provision.
 
-மண்டூர் - குருமண்வெளி படகுப்பாதை, அம்பிளாந்துறை குருக்கள்மடம் படகுப்பாதைப் போக்குவரத்துக்கள் முற்றாக நிறுத்தப்பட்டுள்ளன.
+🟩
 
-பட்டிருப்பு பெரியபோரதீவு பிரதான வீதி, மண்முனை கொக்கட்டிச்சோலை பிரதான வீதி, வவுணதீவு மட்டக்களப்பு நகர் பிரதான வீதி, உள்ளிட்ட பிரதான வீதிகளை ஊடறுத்து வெள்ளநீர் பாய்ந்துவருவதானல் அவ்வீதிகளுடனான தரைவழிப்போக்குவரத்துக்கள் தடைப்பட்டுள்ளன.
+The main carpet of the district has been completely blocked as rain has been raining on Thursday (28) in the Batticaloa district.It can also be observed that the people of the district have a mourning.
 
-எனினும் மிக அவசரத் தேவைகளுக்காக மாத்திரம் ஒருசில இயந்திரப் படகுகள் சேவையிலீடுபடுவதையும், உழவு இயந்திரங்களில் மக்கள் பயணம் செய்து நகர்புறங்களுக்கு சென்றுதமக்குத் தேவையான அத்தியாவசிய பொருட்களைக் கொள்வனவு செய்வதையும் காண முடிகின்றது.
+Mandur - Kurumanveli Boat Road and Ambalanthurai priests have been halted.
 
-இந்நிலையில் மாவட்டத்தில் ஏற்பட்டுள்ள வெள்ள அனர்த்த்தினால் 15900 குடும்பங்களைச் சேர்ந்த 49123 பேர் பாதிக்கப்பட்டுள்ளனர்.
+Flood water flows have been blocked by floodwater flowing over the main roads, including Pattuppu Periyaporadivu main road, Manmunai Kokkatticholai main road, Vavunathivu Batticaloa Nagar main road.
+
+However, only a few machine boats are serving for the most urgent needs, and people travel in plowing machinery and buy essential items needed.
+
+49123 people from 15900 families have been affected by the floods in the district.
+
+Of these, 37541 from 11890 families live in the homes of friends.To date, 7241 people from 2558 families have been housed in 56 public places.
 
 ...
 
 [Data](articles/561ef2b7.json)
+
+[Extended Data](ext_articles/561ef2b7.ext.json)
 
 ---
 
@@ -538,31 +996,37 @@ Accordingly, during the interrogation of two of the suspects who were arrested y
 
 ---
 
-### හෙට කාලගුණය ගැන නිවේදනයක්
+### Announcement about the weather tomorrow
 
 *2024-11-28 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203838) · `si`
 
-නිරිතදිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය අද (28) පෙරවරුව වනවිට ත්‍රිකුණාමලයට කිලෝමීටර් 110ක් පමණ ඊසාන දෙසින් පිහිටා තිබූ බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather alert: Thunderstorms expected in northern regions tomorrow, heavy rain possible in Trincomalee. Strong winds may cause damage. Public advised to take precautions.
 
-හෙට (29) දිනය සඳහා කාලගුණ අනාවැකිය නිකුත් කරමින් එම දෙපාර්තමේන්තුව මේ බව පැවසීය.
+🟩
 
-එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව උතුරට බරව වයඹ දෙසට ඉතා සෙමින් ගමන් කරන අතර තවදුරටත් වර්ධනය වීමට හැකියාව ඇති බවද දැනුම්දෙයි.
+The depositive pressure recession in the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bengal has been around the northeast of about 110 km away from Trincomalee this morning.
 
-හෙට දිනයෙන් පසු දිවයිනේ කාලගුණයට මෙම පද්ධතිය මගින් වන බලපෑම ක්‍රමයෙන් අවම වනු ඇතැයි බලපොරත්තු වෙයි.
+The department was released tomorrow (29), the Department said.
 
-කෙසේවෙතත් හෙට දිනයේ දිවයිනේ උතුරු සහ උතුරු-මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින්විට වැසි හෝ ගිගුරුම් සහිත ඇති වෙයි.
+It is informed that the north is slowly heading to the North Western towards the North Western and more slowly.
 
-උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ද ඇතිවිය හැකිය.
+The effects of this system will gradually reduce the effect of the island weather after tomorrow.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල දිස්ත්‍රික්කයේත් විටින්විට වැසි ඇදහැලෙයි.
+However, tomorrow in the North and the North and the North and the North and the North and North-Media and Trincomalee will be thundershops.
 
-සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+MM to certain places in the Northern Province. Heavy rains and more than 100 can occur.
 
-උතුරු, උතුරුමැද, වයඹ, මධ්‍යම සහ නැගෙනහිර පළාත්වල විටින්විට හමන පැ.කි.මී. 60ක පමණ තද සුළං ඇතිවිය හැකිය.
+Thundershowers during the Western, Sabaragamuwa and North Western Provinces and in the Galle District.
+
+Showers or thundershowers will occur at several places in the evening or night.
+
+Stories from Ven.. Strong winds can cause about 60.
 
 ...
 
 [Data](articles/edef6fe4.json)
+
+[Extended Data](ext_articles/edef6fe4.ext.json)
 
 ---
 
@@ -614,23 +1078,29 @@ This order was issued during the hearing of an ongoing case related to an allege
 
 ---
 
-### வவுனியாவில் குளத்தில் தவறி விழுந்த இளைஞனின் சடலம் மீட்பு !
+### The body of a young man who fell into a pond in Vavuniya recovered
 
 *2024-11-28 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199934) · `ta`
 
-வவுனியா- மகாகச்சகொடி குளத்தில் கடந்த 26 ஆம் திகதி தவறி விழுந்த இளைஞனின் சடலம் இன்று வியாழக்கிழமை (28)  காலை மீட்கப்பட்டுள்ளது.
+Body of 21-year-old Siranthasan Gunawardena recovered from Vavuniya-Mahakachakodi pond after 3-day search.
 
-மகாகச்சகொடி பகுதியைச் சேர்ந்த 21 வயதான சிரந்தஹசன் குணவர்த்தன என்ற இளைஞனின் சடலமே  மீட்கப்பட்டுள்ளது.
+🟩
 
-கடந்த 26 ஆம் திகதி தனது நண்பன் ஒருவருடன் மகாகச்சகொடி குளத்திற்கு நீராடச் சென்ற போது கால் தவறி குளத்திற்குள் இளைஞன் விழுந்துள்ளார்.
+The body of a young man who fell into the Vavuniya-Mahakachakodi pond on the 26th of this month has been recovered this morning.
 
-இதனையடுத்து, ஊர் மக்கள் குறித்த இளைஞனை தேடியதுடன் மாமடு பொலிஸாருக்கும் தகவல் வழங்கினர்.  எனினும் மூன்றுநாட்களாக இளைஞன் கண்டுபிடிக்கப்படவில்லை.
+The body of 21 -year -old Siranthasan Gunawardena, a young man from Mahakachakodi, has been recovered.
 
-இந்நிலையில் குறித்த இளைஞனின் சடலம் அந்த குளத்தில் இருந்து இன்று (28) காலை மீட்கப்பட்டுள்ளது.
+On the 26th, a young man fell into the pool when he went to the Mahakachakodi pond with his friend on the 26th.
+
+Subsequently, the people of the town searched the young man and informed the Mamadu police.However, the young man has not been found for three days.
+
+The body of the young man has been recovered from the pond this morning.
 
 ◼️
 
 [Data](articles/bcc68682.json)
+
+[Extended Data](ext_articles/bcc68682.ext.json)
 
 ---
 
@@ -2047,433 +2517,5 @@ There were no immediate reports of alleged violations of the truce, and there we
 [Data](articles/042f8d7b.json)
 
 [Extended Data](ext_articles/042f8d7b.ext.json)
-
----
-
-### Four students were found dead at Mavadipalli, Ampara
-
-*2024-11-28 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199889) · `ta`
-
-Four students died in Ampara flood. Bodies found near Karadivu. Five others injured. Search ongoing for missing students.
-
-🟩
-
-The body of 4 students who had been flooded in a flooding machine near the Karadivu Police Division of the Karadivu Police Division, Ampara District, was recovered on Wednesday (27).
-
-Five students, including 6 students and drivers, have been demolished after a flooding of floods after a flooded accident, after a roadblock, traveled with 11 students to Samanthurai area on Tuesday evening (26) from Madurasa from Radhavur.
-
-With the help of the Marines, 4 students were submerged in the wake of the incident with the help of the Marines on Wednesday.
-
-However, the police said that the search operation is being carried out amid random conditions of the two students missing phone students.
-
-◼️
-
-[Data](articles/67edaa8a.json)
-
-[Extended Data](ext_articles/67edaa8a.ext.json)
-
----
-
-### 6 people killed by random weather: over 3 lakhs
-
-*2024-11-28 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199892) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Heavy rainfall affects 21 districts, killing 6. Over 330,000 people from 98,635 families impacted. Disasters reported nationwide due to inclement weather conditions.
-
-🟩
-
-Due to inclement weather in the country, 21 districts have been affected and 6 people have been killed in disasters, the Disaster Management Center said.
-
-The Disaster Management Center further said that 3 million and 30 thousand 894 people from 98 thousand 635 families have been affected by rains and floods.
-
-◼️
-
-[Data](articles/cf34ef56.json)
-
-[Extended Data](ext_articles/cf34ef56.ext.json)
-
----
-
-### Failure to fall into the drain
-
-*2024-11-28 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199891) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man dies in industrial zone drain. Body found, handed to family after autopsy. Police investigating cause of death.
-
-🟩
-
-The man died in a water -filled drain in the industrial zone in the area, police said.
-
-Based on information received by the police, Koswatta police have recovered the body and handed over the investigation into relatives after the autopsy.
-
-◼️
-
-[Data](articles/05775950.json)
-
-[Extended Data](ext_articles/05775950.ext.json)
-
----
-
-### Lebanon’s Hezbollah vows to continue resistance after ceasefire
-
-*2024-11-28 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103827/lebanons-hezbollah-vows-to-continue-resistance-after-ceasefire) · `en`
-
-Lebanon’s Hezbollah on Wednesday vowed to continue its resistance and support Palestinians, including fighters, a day after a ceasefire deal, between the group and Israel was announced.
-
-In the first statement by Hezbollah’s operations centre since the deal was announced, the group made no direct mention of the ceasefire deal.
-
-“The Islamic resistance’s operations room affirms that its fighters in all military disciplines will remain fully equipped to deal with the aspirations and assaults of the Israeli enemy,” the group said.
-
-It added that its fighters would continue to monitor the withdrawal of Israeli forces beyond the Lebanese borders “with their hands on the trigger”.
-
-The ceasefire deal includes the withdrawal of Israeli forces from southern Lebanon within 60 days, Israeli officials said.
-
-...
-
-[Data](articles/16c046b0.json)
-
-[Extended Data](ext_articles/16c046b0.ext.json)
-
----
-
-### Severe weather affects 20 districts, over 276,000 people impacted
-
-*2024-11-28 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103826/severe-weather-affects-20-districts-over-276000-people-impacted) · `en`
-
-Adverse weather conditions have severely impacted 20 districts across the island, with total of 80,642 families in 166 Divisional Secretariat divisions currently affected, according to the Disaster Management Center (DMC).
-
-The DMC reports that a total of 276,550 individuals have been affected, with 16,553 people from 5,305 families seeking refuge in safe locations.
-
-Additionally, the Irrigation Department has cautioned that flood conditions in low-lying areas around reservoirs will persist.
-
-Irrigation Engineer G.W.A. Sakura Dilthara indicated that water levels in the Deduru Oya and Mahaweli River are rising, which is likely to exacerbate flooding in surrounding areas.
-
-◼️
-
-[Data](articles/e21a0bd1.json)
-
-[Extended Data](ext_articles/e21a0bd1.ext.json)
-
----
-
-### AIDS infections up
-
-*2024-11-28 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203825) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"AIDS infections rising among youth: 15% of new cases aged 15-24. Experts attribute increase to lack of proper sex education and addiction issues."
-
-🟩
-
-The National STD / AIDS eradication program says that among the new youths have risen infections of the HIV virus, including the discovery of partners and innovative educational.
-
-Director of the Director Community Health Specialist Dr. Windya Kumipaleli said that 15 percent of the HIV infected persons reported in the last year have been younger among the age of 15 and 24.
-
-Speaking at a press conference held in the Health Promotion Bureau, Ms. Skaripaleli made these comments.
-
-"Last year, 694 cases of new HVI viruses have been reported in our country. When you look at the data, the number of new people in the HVI virus will increase rapidly.
-
-In view of the data between the youth, 15% new teenagers between 15 and 24 years of age. We see this about this, we see that this is the reason why we find new contact partners through various source techniques. If not, it is not properly sex education. Among young people adds to the youth addictions among young people. "
-
-◼️
-
-[Data](articles/097d20b1.json)
-
-[Extended Data](ext_articles/097d20b1.ext.json)
-
----
-
-### EC deliberates on dates for LG elections
-
-*2024-11-28 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103825/ec-deliberates-on-dates-for-lg-elections) · `en`
-
-The Election Commission has focused its attention on determining suitable dates for the local government elections.
-
-During a meeting held yesterday (27) under the chairmanship of the Chairman of the Election Commission, R.M.A.L. Ratnayake, discussions were centered on scheduling the elections without disrupting examination activities.
-
-The Chairman confirmed that a specific date for the elections has not yet been finalized. However, the Commission is expected to convene again in the coming days to reach a final decision.
-
-He further emphasized that, in accordance with a Supreme Court order, the local government elections must be held as soon as possible, and the Commission is actively preparing for the process.
-
-◼️
-
-[Data](articles/d388f47d.json)
-
-[Extended Data](ext_articles/d388f47d.ext.json)
-
----
-
-### 59-year-old man dies after falling into water-filled drain in Koswatta
-
-*2024-11-28 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103824/59-year-old-man-dies-after-falling-into-water-filled-drain-in-koswatta) · `en`
-
-A 59-year-old resident of the Madumulla area in Uda Pussellawa has reportedly died after falling into a water-filled drain in the Mawathagama Industrial Zone in Koswatta.
-
-The incident was brought to the attention of the Koswatta Police through information received via the ‘119’ police emergency hotline.
-
-Upon receiving the information, police initiated an investigation, conducted an autopsy and post-mortem examination, and subsequently handed over the body to the deceased’s relatives.
-
-◼️
-
-[Data](articles/da4bed3b.json)
-
-[Extended Data](ext_articles/da4bed3b.ext.json)
-
----
-
-### Very heavy showers expected in parts of the island today
-
-*2024-11-28 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103823/very-heavy-showers-expected-in-parts-of-the-island-today) · `en`
-
-The Meteorology Department says the deep depression over the southwest Bay of Bengal was located to 100 km northeast of Trincomalee at around 2.30 a.m. of November 28, 2024.
-
-It is likely to move slowly, north-northwestwards closer to the east coast of Sri Lanka and intensify further into a cyclonic storm today (28).
-
-Under influence of the system cloudy skies will prevail over most parts of the island, very heavyshowers and strong gusty winds can be expected in Northern province and in Trincomalee district, it said.
-
-Showers or thundershowers will occur at times in Northern province and in Trincomalee district. Very heavy showers above 150 mm are likely at some places.
-
-Showers will occur at times elsewhere of the island too. Heavy showers above 100 mm are likely at some places in North Central and North-western provinces and in and Matale and Kegalle districts, the Met. department added.
-
-...
-
-[Data](articles/fe51af51.json)
-
-[Extended Data](ext_articles/fe51af51.ext.json)
-
----
-
-### Sri Lanka bondholders have sufficient incentives to join exchange: CB Governor
-
-*2024-11-28 08:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-have-sufficient-incentives-to-join-exchange-cb-governor-190497/) · `en`
-
-ECONOMYNEXT – Holders of Sri Lanka’s defaulted sovereign bonds have sufficient incentives to participate in an exchange launched this week, leading to a high take-up, Central Bank Governor Nandalal Weerasinghe said.
-
-“What we can see, from the bondholder’s point of view, it has sufficient incentives to participate, in terms of the exchange fee, in terms of the macro-linked bonds they were asking,” Governor Weerasinghe told reporters Wednesday.
-
-“A lot of incentives and encouragement for them to participate and get new bonds and get new bonds in exchange for the bonds they are holding.
-
-“I do not think it would be in the best interests of anyone to holdout.”
-
-Sri Lanka has issued bonds linked to gross domestic product, so-called macro-linked bonds which allows both capital appreciation and coupon increases if GDP grows faster than expected in a new type of so-called ‘state-contingent’ bonds.
-
-...
-
-[Data](articles/90c00931.json)
-
-[Extended Data](ext_articles/90c00931.ext.json)
-
----
-
-### 20 districts affected by inclement weather
-
-*2024-11-28 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203824) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"20 districts hit by severe weather: 80k+ families affected, 276k+ individuals impacted, 16k+ in shelters. Floods reported in reservoir areas."
-
-🟩
-
-Twenty districts in the island have been affected due to the inclement weather.
-
-The Disaster Management Center said that 80,642 families in 166 Divisional Secretariats are being affected by these districts.
-
-The Disaster Management Center (DMC) says that 276,550 people have been affected and 16,553 persons belonging to 5,305 families remain in security locations.
-
-Meanwhile, the Department of Irrigation says that floods in lower parts of the reservoirs continue.
-
-The water level of the Holduru Othuru Oya and Mahaweli, the irrigation of the Irrigation Engineer (MS) said.
-
-◼️
-
-[Data](articles/2d40ff1c.json)
-
-[Extended Data](ext_articles/2d40ff1c.ext.json)
-
----
-
-### President summoned armed forces
-
-*2024-11-28 07:55:57* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-413328) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake summons armed forces to maintain public order across all administrative districts. Gazette notifications issued for army, navy, and air force deployment.
-
-🟩
-
-President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
-
-The President released the Extent Gazette notification of the Sri Lanka Army, the Sri Lanka Navy and all members of the Sri Lanka Air Force.
-
-The armed forces have been summoned to maintain public order in all the administrative districts of the island and allied districts in all the administrative districts of the island and allied local waterholders.
-
-◼️
-
-[Data](articles/77729f96.json)
-
-[Extended Data](ext_articles/77729f96.ext.json)
-
----
-
-### 150 millimeters of rain today
-
-*2024-11-28 07:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-150-மில்லி-மீற்றர்-மழை/175-347904) · `ta`
-
-Heavy rainfall (150mm) forecasted today in Northern Province & Trincomalee. Storm moving north-east towards Sri Lanka's east coast, may strengthen. Strong winds (60-70km/h) expected in northern regions. Sea travel advised against nationwide.
-
-🟩
-
-The Department of Meteorology said that the deeper inferiority in the southeastern Bengal bay was 100 km from Trincomalee at 2.30 am this morning.
-
-The Department of Meteorology has predicted that it is moving the north to the east coast of Sri Lanka and it may be strengthened by the storm today.
-
-As a result, heavy rainfall of up to 150 millimeters is likely to be recorded today in the Northern Province and Trincomalee districts.
-
-At the same time, strong winds are expected to blow 60 to 70 km / h in the North, North Central and North Western Provinces and Trincomalee District.
-
-Other parts of the country are expected to blow at speeds of 40 to 50 kilometers per hour.
-
-Meanwhile, the Department of Meteorology has advised not to re -notice to the seas around the country.. (A)
-
-◼️
-
-[Data](articles/8c731eb9.json)
-
-[Extended Data](ext_articles/8c731eb9.ext.json)
-
----
-
-### Indian father who went to kill fish in Yan Oya
-
-*2024-11-28 07:48:05* · [`adalk`](https://www.ada.lk/breaking_news/යාන්-ඔය-මෝයේ-මසුන්-මරන්න-ගිය-පියා-අතුරුදන්-පුතා-බේරෙයි/11-413327) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Indian father disappears while fishing in Yan Oya due to bad weather. Son reports him missing. Police investigate despite challenging conditions.
-
-🟩
-
-The father had disappeared by a boat near the Yan Oya estuary in the face of inclement weather, and the father had disappeared yesterday (27th) and the son had overdanded the son.
-
-The victim has disappeared Pulmudai, Tsuvanagar, Divisional No. One resident of Lebbe Abdul Mubarak (58).
-
-Mubarak Z Zkir, the son of the disappeared, has made a statement to the police.
-
-The police have launched a wide investigation into the missing persons despite the informed of the strong winds and the rough nature of the sea.
-
-◼️
-
-[Data](articles/fd87c4f9.json)
-
-[Extended Data](ext_articles/fd87c4f9.ext.json)
-
----
-
-### New secretaries appointed in two ministries
-
-*2024-11-28 07:34:51* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකක-නව-ලේකම්වරු-පත්-කෙරේ/11-413326) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Two new secretaries appointed: KR as Environment Ministry Secretary and Y.L. Shamnad Nawawi as Science and Technology Ministry Secretary by President Anura Kumara Dissanayake.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed two new Secretaries.
-
-Articles of the Appointment of Appointments
-
-Accordingly, KR as Secretary to the Ministry of Environment. Mr. Uduwala has been appointed.
-
-Mr. Y.L.shamed Nawawi has been appointed as the Secretary to the Ministry of Science and Technology.
-
-◼️
-
-[Data](articles/9055ecd7.json)
-
-[Extended Data](ext_articles/9055ecd7.ext.json)
-
----
-
-### The Commission's attention to the Little Election
-
-*2024-11-28 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203823) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Elections Commission focuses on local government election date. Chairman RM VLR Ratnayake discusses potential hindrances. No specific campaign date yet. Supreme Court order expected to expedite preparation.
-
-🟩
-
-The Elections Commission is focused on the date of the local government elections.
-
-The Elections Commission (Elections) (Elections) (Elections) had been paid to the election yesterday (27) under the patronage of the Chairman of the Election Commission RM VLR Ratnayake.
-
-It has been discussed on the date of holding the local government election and discussed the use of the date of hindrance to the examination activities.
-
-There is no specific date for the campaign, and the Commission Chairman RM VLetthanayake said that in the coming days.
-
-The Chairman of the Election Commission added that the local government election should be prepared as soon as the Supreme Court order should be expedited.
-
-◼️
-
-[Data](articles/3d7c92ef.json)
-
-[Extended Data](ext_articles/3d7c92ef.ext.json)
-
----
-
-### Restructuring Debt IMF expects the higher participation of creditors
-
-*2024-11-28 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-ණය-හිමියන්ගේ-ඉහළ-සහභාගීත්වය-IMF-අපේක්ෂා-කරයි/11-413325) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"IMF expects increased creditor participation in Sri Lanka's debt restructuring. Program aims to support debt sustainability and economic reform."
-
-
-
-This summary captures the main points about the IMF's expectations regarding creditor participation in Sri Lanka's debt restructuring efforts and the overall goals of the program.
-
-🟩
-
-The International Monetary Fund (IMF) has emphasized the general needs of creditors of creditors (IMF) for the restructuring operations of Sri Lanka.
-
-Among the International Monetary Fund (IMF), the International Monetary Fund (IMF), the International Monetary Fund (IMF) is Ms. Christophalina Georgivi, Managing Director of the International Monetary Fund..
-
-The Sri Lankan authorities have implemented the economic reform program with the assistance of the International Monetary Fund, and it is aimed at supporting the debt sustainability and external capability.
-
-SDR was approved by the 48-month comprehensive reforms program (approximately $ 3 billion) at the IMF executive in March 2023. Ms. Georgeee also stated that the effective initiative of the program, which has shown positive results, such as reconstructing the economy, reduced inflation and reserves.
-
-...
-
-[Data](articles/307a0a1d.json)
-
-[Extended Data](ext_articles/307a0a1d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 21:26:07**
+As of **2024-11-28 21:13:29**
 
 ## Newspaper Stats
 
-*Scraped **57,462** Articles*
+*Scraped **57,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,432
-adaderanalk | 6,962
+adaderanalk | 6,961
 tamilmirrorlk | 8,174
 virakesarilk | 9,369
 adaderanasinhalalk | 9,919
@@ -26,29 +26,11 @@ adaderanasinhalalk | 9,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,460 (100.0%) of 57,462 articles have been extended.
+57,460 (100.0%) of 57,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
-
-### Deep depression’s influence on Sri Lanka’s weather to reduce after tomorrow
-
-*2024-11-28 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103851/deep-depressions-influence-on-sri-lankas-weather-to-reduce-after-tomorrow) · `en`
-
-The Department of Meteorology says the deep depression over the southwest Bay of Bengal is likely to move slowly, north-northwestwards closer to the east coast of Sri Lanka and there is a possibility for it to further intensify.
-
-The deep depressions was located around 130 km northeast of Trincomalee and 150km east of Mullaittivu at around 11.30 a.m. of 28 November 2024.
-
-It can be expected that the influence of this system on the island’s weather will gradually reduce after tomorrow (29), the department said issuing an advisory.
-
-It said showers or thundershowers will occur at times in Northern and North-central provinces and in Trincomalee District while heavy showers above 100 mm are likely at some places in Northern Province.
-
-...
-
-[Data](articles/6bde122f.json)
-
----
 
 ### Flood -trapped plowing machine - 4 people arrested
 
@@ -2587,5 +2569,37 @@ Therefore, considering the welfare of these people, the demand for the authoriti
 [Data](articles/476da671.json)
 
 [Extended Data](ext_articles/476da671.ext.json)
+
+---
+
+### Restoring Advanced Level Examination on December 4th
+
+*2024-11-28 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203827) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+GCE A/L exams rescheduled due to bad weather. Exams from Nov 27-3 cancelled. Resume Dec 4. New schedule: Chem, Sinhala, Tamil, English on Dec 4. General public test on Dec 7.
+
+🟩
+
+The Department of Examinations has decided not to leave the GCE A / L examination due to the inclement weather.
+
+Commissioner General of Examinations, Amitith Jayasundara said that the 2024 A / L examination will be resumed on Wednesday, December 4.
+
+Accordingly, the Department of Examinations has decided not to leave the GCE A / L examination at November 30, December 2, December 2, and December 3.
+
+Due to the inclement weather in the country, the A / L has the A / L Level had not been held on 27, 28 and 29.
+
+The Commissioner General of Examinations added that although the inclement weather has been reduced, this decision has been taken on behalf of the affected students.
+
+Accordingly, the Commissioner of Examinations said that the subjects of the schedule will commence on December 4.
+
+...
+
+[Data](articles/2e845093.json)
+
+[Extended Data](ext_articles/2e845093.ext.json)
 
 ---

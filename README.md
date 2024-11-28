@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 12:02:04**
+As of **2024-11-28 11:14:54**
 
 ## Newspaper Stats
 
-*Scraped **57,371** Articles*
+*Scraped **57,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,113 +16,37 @@ islandlk | 3,443
 economynextcom | 3,490
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,416
-adaderanalk | 6,944
-tamilmirrorlk | 8,157
+adalk | 5,414
+adaderanalk | 6,943
+tamilmirrorlk | 8,156
 virakesarilk | 9,345
-adaderanasinhalalk | 9,907
+adaderanasinhalalk | 9,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,353 (100.0%) of 57,371 articles have been extended.
+57,347 (100.0%) of 57,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### A-9 මාර්ගයේ ගමනාගමනය යථා තත්ත්වයට
-
-*2024-11-28 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203829) · `si`
-
-අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ගමනාගමනය සීමා කර තිබූ යාපනය A-9 මාර්ගයේ ගමනාගමනය යථා තත්ත්වයට පත්ව තිබේ.
-
-පොලිස් කොට්ඨාසය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ, දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඕමන්ත පොලිස් වසමේ නොච්චිමොටේ පාලම අසලින් හා ඕමන්ත නගරය ආසන්නයේ මාර්ගය ජලයෙන් සම්පූර්ණයෙන් යටවී තිබූ අතර මේ වනවිට එම ප්‍රදේශයේ ජලය බැසගොස් ඇති බවය.
-
-ඒ අනුව A-9 මාර්ගයේ ගමන් ගන්නා වාහනවලට සාමාන්‍ය පරිදි මාර්ගයේ ගමන් කළ හැකි බව ද පොලීසිය නිවේදනය කරයි.
-
-◼️
-
-[Data](articles/5094e426.json)
-
----
-
-### New details of the date of the exams
-
-*2024-11-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-நடத்தப்படும்-திகதிகளின்-புதிய-விபரம்/175-347919) · `ta`
-
-GCE A/L exams postponed to Dec 3, resume Dec 4. No exams Nov 30, Dec 2, 3. Rescheduled: Mon Dec 2 to Dec 30, Thu Dec 31. #ExamsUpdate
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera said that the Department of Examinations has decided to postpone the 2024 GCE Advanced Level Examination till December 3 due to inclement weather.
-
-The Commissioner General has announced that the exams will be resumed on December 4.
-
-It has been decided not to conduct exams on November 30, December 2 and December 3.
-
-#Examination on Monday December 2nd on December 30th Monday
-
-The exam will be held on Thursday, September 3, December 31st.
-
-◼️
-
-[Data](articles/2e0d5fcc.json)
-
-[Extended Data](ext_articles/2e0d5fcc.ext.json)
-
----
-
-### නීති විද්‍යාල ප්‍රවේශ විභාගය කල්දමයි
-
-*2024-11-28 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203828) · `si`
-
-රට තුළ පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් එළඹෙන දෙසැම්බර් මස පැවැත්වීමට නියමිතව තිබූ ශ්‍රී ලංකා නීති විද්‍යාල පොදු ප්‍රවේශ විභාගය (2024) කල්දැමීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
-
-අද (28) පැවැති විශේෂ ප්‍රවෘත්ති සාකච්ඡාවේදී විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා ඒ බව සඳහන් කළේය.
-
-එහිදී ඔහු වැඩිදුරටත් සඳහන් කළේ, ජ්‍යේෂ්ඨ සංඛ්‍යාලේඛනඥ සහ සංඛ්‍යාලේඛනඥ නිලධාරීන් සඳහා වන කඩඉම් විභාගය ද (2016/24) එලෙස අදාළ දිනවලදී නොපැවැත්වෙන බවය.
-
-අදාළ විභාග දෙක දෙසැම්බර් 01 සහ 02 යන දිනයන් හිදී පැවැත්වීමට සූදානම් කර තිබූ නමුත් අද නිවේදනය කළේ එම දිනවලදී අදාළ විභාග නොපැවැත්වෙන බවය.
-
-"දෙසැම්බර් 01 සහ 02 යොදාගෙන ඇති තවත් විභාග දෙකක් සම්බන්ධයෙන් දැනුවත් කිරීමට අවශ්‍යයි."
-
-"පළවෙනි විභාගය ශ්‍රී ලංකා නීති විද්‍යාල පොදු ප්‍රවේශ විභාගය 2024. මෙම විභාගය දෙසැම්බර් 01 වනදා කොළඹදී පැවැත්වීමට අවශ්‍ය කටයුතු අපි සංවිධානය කර තිබෙනවා."
-
-"අනෙක් විභාගය ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවේ ජ්‍යේෂ්ඨ සංඛ්‍යාලේඛනඥ සහ සංඛ්‍යාලේඛනඥ නිලධාරීන් සඳහා වන කඩයීම් විභාගය 2016/24."
-
-...
-
-[Data](articles/0845f163.json)
-
----
-
-### The number of victims of random weather
+### சீரற்ற காலநிலையால் பாதிக்கப்பட்டோரின் எண்ணிக்கை உயர்வு
 
 *2024-11-28 11:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-பாதிக்கப்பட்டோரின்-எண்ணிக்கை-உயர்வு/175-347918) · `ta`
 
-Weather disaster summary: 6 dead, 17 injured, 6 missing in SW Bengal Sea. 330k affected, 16.5k displaced. Strong winds, floods expected in northern regions. Public advised to take precautions.
+தென்மேற்கு வங்கக் கடலில் ஏற்பட்ட ஆழ்ந்த காற்றழுத்த தாழ்வு நிலை காரணமாக ஏற்பட்ட மோசமான வானிலையால் ஏற்பட்ட உயிரிழப்புகள் 6 ஆக உயர்ந்துள்ளது, காயமடைந்தோர் மற்றும் காணாமல் போனவர்களின் எண்ணிக்கை முறையே 17 மற்றும் 6 ஆக அதிகரித்துள்ளது என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
 
-🟩
+புத்தளம், பதுளை மற்றும் அம்பாறை மாவட்டங்களில் இந்த மரணங்கள் பதிவாகியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
 
-According to the Department of Meteorology, the number of casualties in the Southwest Bengal Sea has risen to 6, and the number of injured and missing persons has increased to 17 and 6 respectively.
+98,635 குடும்பங்களைச் சேர்ந்த மொத்தம் 330,894 நபர்கள் பாதிக்கப்பட்டுள்ளனர், அதே நேரத்தில் 5,305 குடும்பங்களைச் சேர்ந்த 16,553 பேர் நாடு முழுவதும் 183 பாதுகாப்பான இடங்களுக்கு இடம்பெயர்ந்துள்ளனர்.
 
-The deaths have been reported in Puttalam, Badulla and Ampara districts.
-
-A total of 330,894 persons belonging to 98,635 families have been affected, while 16,553 from 5,305 families have been displaced to 183 safe places across the country.
-
-In 267 Divisional Secretariats in 21 districts, people have been affected by strong winds, floods, trees and landslides.
-
-As of 2:30 am in the Southwest Bengal Bay, the deep winds are about 100 kilometers northeast of Trincomalee.. It is expected to move slowly towards the north-northwest, approaching the east coast of Sri Lanka and strengthening a hurricane.
-
-Under the influence of this weather system, the sky is cloudy in most parts of Sri Lanka. Heavy rains and strong winds are expected in the Northern Province and Trincomalee district.
+21 மாவட்டங்களில் 267 பிரதேச செயலகப் பிரிவுகளில் பலத்த காற்று, வெள்ளம், மரங்கள் சரிவு மற்றும் மண்சரிவு காரணமாக மக்கள் பாதிக்கப்பட்டுள்ளனர்.
 
 ...
 
 [Data](articles/9348f992.json)
-
-[Extended Data](ext_articles/9348f992.ext.json)
 
 ---
 
@@ -222,121 +146,57 @@ Sri Lanka PA and Jaffna District Coordinator Geetanath Kaslingam has accused the
 
 ---
 
-### Plowing machine accident incident;06 Bodies Recovery
+### உழவு இயந்திரம் விபத்து சம்பவம் ; 06 சடலங்கள் மீட்பு
 
 *2024-11-28 10:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உழவு-இயந்திரம்-விபத்து-சம்பவம்-06-சடலங்கள்-மீட்பு/150-347912) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+வெள்ள நீரில் அடித்துச் செல்லப்பட்ட மத்ரஸா மாணவர்களின் சடலங்கள் மீட்கப்பட்டு வருகின்றன. கடந்த புதன்கிழமை (27) மாலை வரை  04 சடலங்கள் மீட்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
 
-
-
-Madrasa students swept away by flood waters. Four bodies recovered so far. Army STF involved in rescue efforts. Three students rescued alive. Rescue team searching for remaining missing students. Driver and companion of plowing machine missing. Ongoing recovery operations.
-
-🟩
-
-The bodies of Madrasa students who have been swept away in flood water are being recovered. Four bodies have been recovered till Wednesday (27) evening.
-
-In addition, the Army Special Task Force (STF) participated in the complaint and a volunteer youth group involved.. Until now, four janasas have been rescued and taken to the Samanthurai Resource Hospital.. It was later prepared to carry out rescue operations the next day due to inclement weather and darkness.
-
-The rescued students are also rescued by Mohammed Jessil Mohammed Sadir (age-16), Abnan, Baruk Mohammed Nasik (age-15) and Sahran (age-15) and the rescue crews are searching for the students of Dasrib and Yaseen.According to the orders of Safir Ahmed, relatives have been handed over to the relatives after the death of Divisional Death Investigation Officer Abdul Hamid al -Jawahir.
-
-Meanwhile, the school's book by a student named Dasrif, who went missing, has now been seized by the rescue team.
+இத்தேடுதலில் மேலதிகமாக இராணுவம் விசேட அதிரடிப்படை பொலிஸார்  பங்கேற்றுள்ளதுடன் தன்னார்வ இளைஞர் குழுவினரும் ஈடுபட்டுள்ளனர். அத்துடன் வெள்ளத்தினால் அடித்து செல்லப்பட்ட உழவு இயந்திரமும் மீட்கப்பட்டுள்ளன.தற்போது  வரை 04 ஜனாசாக்கள் மீட்கப்பட்டு சம்மாந்துறை ஆதார வைத்தியசாலைக்கு கொண்டு செல்லபட்டிருந்தன. பின்னர் சீரற்ற காலநிலை மற்றும் இருள் காரணமாக மறுநாள் மீட்புப்பணியினை மேற்கொள்ள தயார் செய்யப்பட்டிருந்தது.
 
 ...
 
 [Data](articles/c6f6031e.json)
 
-[Extended Data](ext_articles/c6f6031e.ext.json)
-
 ---
 
-### 2024 A/L Exam to recommence on Dec. 04
-
-*2024-11-28 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103830/2024-al-exam-to-recommence-on-dec-04) · `en`
-
-The Examinations Department has announced that the 2024 G.C.E. Advanced Level Examination has been temporarily postponed until December 03 due to the prevailing adverse weather conditions.
-
-Speaking at a special press briefing this morning (28), the Commissioner General of Examinations, Amith Jayasundara, confirmed that this decision was made in light of the ongoing weather-related disruptions.
-
-Furthermore, he stated that the examination will recommence on December 4 (Wednesday).
-
-As a result, the A/L examinations will not be conducted on November 30, December 2, and December 3.
-
-On November 26, the Examinations Department had previously announced the temporary suspension of the ongoing 2024 G.C.E. Advanced Level Examination.
-
-It was previously decided not to hold the examinations on November 27, 28, and 29 due to the adverse weather.
-
-The Examination Commissioner further said that the decision was taken in the best interest of the affected students, despite the weather conditions subsiding.
-
-...
-
-[Data](articles/c1549405.json)
-
-[Extended Data](ext_articles/c1549405.ext.json)
-
----
-
-### The number of victims in Mannar district crossed 61 thousand!
+### மன்னார் மாவட்டத்தில் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை 61 ஆயிரத்தை கடந்தது !
 
 *2024-11-28 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199895) · `ta`
 
-Here's a summary of 200 characters:
+மன்னார் மாவட்டத்தில் தொடர்ச்சியாக பெய்து வந்த கடும் மழை மற்றும் அதனால் ஏற்பட்ட வெள்ளம் காரணமாக நேற்று புதன்கிழமை (27) மாலை 6 மணி வரை 16 ஆயிரத்து 774 குடும்பங்களைச் சேர்ந்த 61 ஆயிரத்து 674 நபர்கள் பாதிக்கப்பட்டுள்ளதாக மன்னார் மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு (DMC) விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
 
+மாவட்டத்தில் 73 தாற்காலிக பாதுகாப்பு நிலையங்கள் அமைக்கப்பட்டுள்ளதுடன் குறித்த நிலையங்களில் 2 ஆயிரத்து 845 குடும்பங்களைச் சேர்ந்த 9 ஆயிரத்து 156 நபர்கள் தங்க வைக்கப்பட்டுள்ளதாகவும் குறித்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
 
+இதேவேளை மழை வெள்ளம் காரணமாக கடுமையாக பாதிக்கப் பட்டும்,நலன்புரி நிலையங்களுக்கு செல்லாது வீடுகளிலும்,உறவினர்களின் வீடுகளிலும் உள்ள மக்களுக்கு எவ்வித உதவிகள் கிடைக்கவில்லை என பாதிக்கப்பட்டவர்கள் தெரிவித்தனர்.
 
-Heavy rains flood Mannar district, affecting 61,674 people from 16,774 families. 9,156 displaced in 73 temporary centers. Many victims stay with relatives, denied aid. Authorities assist only those at welfare centers. Relief demanded for all affected.
+நலன்புரி நிலையங்களுக்கு வருகிறவர்களுக்கு மாத்திரம் உதவிகள் வழங்கப்படும் என உரிய அதிகாரிகள் தெரிவித்து வருகின்றனர்.
 
-🟩
-
-The Mannar District Disaster Management Division (DMC) said that 61 thousand 674 persons belonging to 16 thousand 774 families have been affected by the heavy rains and floods in Mannar district on Wednesday (27).
-
-The report states that 73 temporary security centers have been set up in the district and 9 thousand 156 persons belonging to 2 thousand 845 families have been housed.
-
-Meanwhile, the victims said that the people in the houses and the houses of relatives did not get any help in the floods and did not go to welfare centers.
-
-The relevant authorities have said that only those who come to welfare centers will be provided with assistance.
-
-However, considering the crisis and even the stool problems at welfare centers, many affected people live in their homes and friends' homes without going to welfare centers.
-
-Therefore, considering the welfare of these people, the demand for the authorities to take steps to provide relief to all the victims.
-
-◼️
+...
 
 [Data](articles/476da671.json)
 
-[Extended Data](ext_articles/476da671.ext.json)
-
 ---
 
-### Restoring Advanced Level Examination on December 4th
+### උසස් පෙළ විභාගය නැවත ආරම්භවීම දෙසැම්බර් 4 වන දා
 
 *2024-11-28 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203827) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් උසස් පෙළ විභාගය තවත් දින තුනක් නොපැවැත්වීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
 
+විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසා සිටියේ, ඒ අනුව 2024 උසස් පෙළ විභාගය දෙසැම්බර් 4 වන බදාදා දින නැවත ආරම්භ කරන බවය.
 
+ඒ අනුව නොවැම්බර් 30, දෙසැම්බර් 2, සහ දෙසැම්බර් 3 වනදා යන දිනයන්හි දීද උසස් පෙළ විභාගය නොපැවැත්වීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
 
-GCE A/L exams rescheduled due to bad weather. Exams from Nov 27-3 cancelled. Resume Dec 4. New schedule: Chem, Sinhala, Tamil, English on Dec 4. General public test on Dec 7.
+රට තුළ පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් මීට පෙර 27, 28 හා 29 යන තෙදින උසස් පෙළ නොපැවැත්වීමට තීරණය කර තිබුණි.
 
-🟩
+මේ වනවිට අයහපත් කාලගුණ තත්ත්වය පහව යමින් තිබුණ ද බලපෑමට ලක්වූ සිසුන් වෙනුවෙන් මෙම තීරණය ගත් බව විභාග කොමසාරිස්වරයා වැඩිදුරටත් පැවසීය.
 
-The Department of Examinations has decided not to leave the GCE A / L examination due to the inclement weather.
-
-Commissioner General of Examinations, Amitith Jayasundara said that the 2024 A / L examination will be resumed on Wednesday, December 4.
-
-Accordingly, the Department of Examinations has decided not to leave the GCE A / L examination at November 30, December 2, December 2, and December 3.
-
-Due to the inclement weather in the country, the A / L has the A / L Level had not been held on 27, 28 and 29.
-
-The Commissioner General of Examinations added that although the inclement weather has been reduced, this decision has been taken on behalf of the affected students.
-
-Accordingly, the Commissioner of Examinations said that the subjects of the schedule will commence on December 4.
+ඒ අනුව දෙසැම්බර් මස 4 වන දිනට කාලසටහනේ නියමිත විෂයන් ඒ අයුරින්ම ආරම්භ වන බව ද පැවසු විභාග කොමසාරිස්වරයා වැඩිදුරටත් මෙසේ කියා සිටියේය.
 
 ...
 
 [Data](articles/2e845093.json)
-
-[Extended Data](ext_articles/2e845093.ext.json)
 
 ---
 
@@ -800,24 +660,6 @@ The police have launched a wide investigation into the missing persons despite t
 
 ---
 
-### අමාත්‍යාංශ දෙකක නව ලේකම්වරු පත් කෙරේ
-
-*2024-11-28 07:34:51* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකක-නව-ලේකම්වරු-පත්-කෙරේ/11-413326) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව අමාත්‍යාංශ ලේකම්වරු දෙදෙනෙක් පත් කරනු ලැබ තිබේ.
-
-ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (27) පිරිනැමිණ.
-
-ඒ අනුව පරිසර අමාත්‍යාංශයේ ලේකම්වරයා ලෙස කේ.ආර්. උඩුවාවල මහතා පත් කර ඇත.
-
-විද්‍යා හා තාක්ෂණ අමාත්‍යාංශයේ ලේකම්වරයා ලෙස වයි.එල්.මොහොමඩ් නවාවි මහතා පත් කර තිබේ.
-
-◼️
-
-[Data](articles/9055ecd7.json)
-
----
-
 ### පුංචි ඡන්දෙ ගැන කොමිසමේ අවධානය
 
 *2024-11-28 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203823) · `si`
@@ -835,22 +677,6 @@ The police have launched a wide investigation into the missing persons despite t
 ◼️
 
 [Data](articles/3d7c92ef.json)
-
----
-
-### ණය ප්‍රතිව්‍යුහගත කිරීම ණය හිමියන්ගේ ඉහළ සහභාගීත්වය IMF අපේක්ෂා කරයි
-
-*2024-11-28 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-ණය-හිමියන්ගේ-ඉහළ-සහභාගීත්වය-IMF-අපේක්ෂා-කරයි/11-413325) · `si`
-
-ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ මෙහෙයුම් සඳහා ණය හිමියන්ගේ ඉහළ සහභාගීත්වයේ දැඩි අවශ්‍යතාව ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) අවධාරණය කර ඇති අතර, එය රටේ අපේක්ෂිත ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ සාර්ථකත්වය සඳහා අත්‍යවශ්‍ය පියවරක් වන බව ද අවධාරණය කර තිබේ.
-
-නොවැම්බර් 26 වන දා මූල්‍ය ප්‍රජාවේ සාමාජිකයින් අමතමින්, ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) කළමනාකාර අධ්‍යක්ෂිකා ක්‍රිස්ටලිනා ජොර්ජිවා මහත්මිය, ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ප්‍රතිසංස්කරණ න්‍යාය පත්‍රය අනුව ශ්‍රී ලංකාව මෙතෙක් ළගාකරගත් ප්‍රගතිය සහ තිරසාර ණය මට්ටම් සාක්ෂාත් කර ගැනීම සඳහා දැක්වූ සාමූහික ප්‍රයත්නය පෙන්වා දෙමින් ප්‍රකාශයක් නිකුත් කළාය.
-
-ශ්‍රී ලංකා බලධාරීන් ජාත්‍යන්තර මූල්‍ය අරමුදෙල් සහාය ඇතිව ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන ක්‍රියාත්මක කර ඇති අතර, එය ණය තිරසාරභාවය සහ බාහිර ශක්‍යතාව යථා තත්ත්වයට ගෙන ඒම, පුළුල් සාර්ව ආර්ථික ප්‍රතිසංස්කරණවලට සහාය වීම සහ ආර්ථික පාලනය සහ විනිවිදභාවය ශක්තිමත් කිරීම ආදිය අරමුණු කර ගෙන ඇති බවද ජෝර්ජිවා මහත්මිය පැවසීය.
-
-...
-
-[Data](articles/307a0a1d.json)
 
 ---
 
@@ -2273,5 +2099,165 @@ It is also worth noting that sports equipment, seats and floral gardens maintain
 [Data](articles/9a820bfa.json)
 
 [Extended Data](ext_articles/9a820bfa.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 291.00/10 to dollar, bonds down
+
+*2024-11-27 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-00-10-to-dollar-bonds-down-190354/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.00/10 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields were significantly down.
+
+A bond maturing on 15.12.2026 closed down at 9.50/65 percent, from 10.00/15 percent.
+
+A bond maturing on 15.09.2027 closed at 10.25/35 percent, down from 10.65/75 percent.
+
+A bond maturing on 15.09.2029 closed at 10.80/90 percent, down from 11.20/40 percent.
+
+The central bank announced it will issue 205 billion rupees in treasury bonds at an auction on November 28. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/e8ecfbcf.json)
+
+[Extended Data](ext_articles/e8ecfbcf.ext.json)
+
+---
+
+### 477 families in Badulla and 1861 people are affected by heavy rains
+
+*2024-11-27 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199871) · `ta`
+
+Badulla: Heavy rains affect 477 families, 1861 people. 247 homes damaged, 378 displaced. Relief efforts underway. Landslides block roads, disrupt railway service.
+
+🟩
+
+Assistant Director of the Badulla District Disaster Management Center. L. Udayakumara said.
+
+Heavy rains have been caused by heavy rains in all the Divisional Secretariat Divisions in the district.
+
+Based on the information available so far, 247 homes have been partially damaged.
+
+378 people from 100 families who face the floods and sudden floods and landslides have been temporarily housed in their relatives' homes.
+
+Steps have been taken to provide them with dry food relief supplies through the Divisional Secretariats.
+
+Seven intermediate camps have been set up to maintain 411 people from 113 families who have faced severe disasters in the Badulla district.
+
+Eight persons from 2 families who were affected by landslides in Udapanguwa area in the Lunugala Divisional Secretariat Division164 people from 41 families affected by the floods in the Rotawela area have been housed at the Eberawa Viharaya.
+
+...
+
+[Data](articles/125de478.json)
+
+[Extended Data](ext_articles/125de478.ext.json)
+
+---
+
+### Australia favored President's Clean Sri Lanka Program
+
+*2024-11-27 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203807) · `si`
+
+Australia supports Sri Lanka's clean governance program. The High Commissioner praises President Dissanayake, offering aid. They'll back efforts to attract investors and strengthen ties between nations. Cooperation focuses on national security, marine modernization, digital state development, education, and energy sector.
+
+🟩
+
+Australian High Commissioner in Sri Lanka says President Anura Kumara Dissanayake is appreciated.
+
+He said that he would also serve the necessary assistance at any time and said that the new government's program without corruption would be attracted to investors.
+
+He was speaking at the Presidential Secretariat today (27) at the Presidential Secretariat.
+
+The Australian High Commissioner has stated that the government's actions will be supported at any time for the government's program to establish the mechanism throughout the country.
+
+The High Commissioner said that the two countries will continue to strengthen the 75-year meetings between Australia and Sri Lanka and strengthening the two countries.
+
+The meeting is also focused on providing Australian technical assistance on national security, marine and digital state sector in modernization, professional education and energy sector.
+
+◼️
+
+[Data](articles/b7725be6.json)
+
+[Extended Data](ext_articles/b7725be6.ext.json)
+
+---
+
+### 3374 people from 1104 families in Mullaitivu district
+
+*2024-11-27 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199869) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+3374 people from 1104 families affected by rains in Mullaitivu district. Floods in lowlands, 759 affected in Welioya Division. Rescue efforts ongoing.
+
+🟩
+
+The District Disaster Management Division has said that 3374 persons from 1104 families have been affected due to continuous rains in the Mullaitivu district.
+
+Due to the prevailing rains, the water level of the ponds in the Mullaitivu district has increased and the flood water has been stored in the lowland areas.
+
+Due to this, 243 persons belonging to 80 families in the Manthai East Divisional Secretariat Division, 229 persons from 73 families in the Karaithuraipattu Divisional Secretariat Division, 1537 from 438 families in the Oddusutan Divisional Secretariat Division, 147 from the Pudukkudiyiruppu Divisional Secretariat Division and 267 from the Tunukkai Divisional Secretariat Division.According to a report by the District Disaster Management Division released this afternoon, 759 persons have been affected by the Welioya Divisional Secretariat Division.
+
+...
+
+[Data](articles/1b43d84c.json)
+
+[Extended Data](ext_articles/1b43d84c.ext.json)
+
+---
+
+### Two main suspects arrested over Rs. 75 million cash robbery
+
+*2024-11-27 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103817/two-main-suspects-arrested-over-rs-75-million-cash-robbery) · `en`
+
+The two main suspects involved in the recent robbery of Rs. 75 million in cash, being transported by a cash in transit company, have been arrested by the Gampaha Police Divisional Crime Detective Bureau in the Minuwangoda area.
+
+The suspects have been arrested in the Miniwangoda area along with around Rs. 4 million in stolen cash, police said.
+
+Previously another suspect involved was arrested on November 19 in connection with the incident where the driver of a private company providing cash in transit services had made off with over Rs. 75 million in cash which was being transported in the Minuwangoda area.
+
+The suspect had been arrested in the Kaduwangaha area of Gampaha during a joint operation by the Gampaha Division Crimes Bureau and Minuwangoda Police.
+
+At the time of his arrest, police officers found 5 grams and 420 milligrams of the ‘Ice’ drugs (crystal methamphetamine) along with Rs. 31,515,291 from the stolen money in his possession.
+
+...
+
+[Data](articles/e96e567c.json)
+
+[Extended Data](ext_articles/e96e567c.ext.json)
+
+---
+
+### Rain from Sri Lanka - South Africa match
+
+*2024-11-27 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203806) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+1st Test: SL vs SA. SA batted 1st, scored 80/2. Thaba 28*, Klaasen 28*. SL bowled out SA for 14 wkts. Fernando took 1st wkt. Stubbs 16, Bedfordham 44. Match ongoing.
+
+🟩
+
+The first Test cricket match between Sri Lanka and South Africa has commenced today (27).
+
+South Africa, which was assaulted first, served 80 runs for the loss of 40 wickets.
+
+Leader Thamba, who is staying in the wicket, is 28 and Kyle's score.
+
+Sri Lanka fast bowlers were bowled out for 14 wickets in the South African innings.
+
+Asitian Fernando won the first wicket as the first wicket.
+
+Tristton Stubs, who had scored 16 runs in the 46 runs, was also the wicket of Bedingaham, who had scored 44 runs.
+
+◼️
+
+[Data](articles/bc683e0c.json)
+
+[Extended Data](ext_articles/bc683e0c.ext.json)
 
 ---

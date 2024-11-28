@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 23:13:06**
+As of **2024-11-28 23:42:30**
 
 ## Newspaper Stats
 
-*Scraped **57,469** Articles*
+*Scraped **57,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 440
 colombotelegraphcom | 582
 bbccomsinhala | 598
 islandlk | 3,443
-economynextcom | 3,492
+economynextcom | 3,499
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,434
-adaderanalk | 6,963
+adaderanalk | 6,964
 tamilmirrorlk | 8,174
 virakesarilk | 9,369
 adaderanasinhalalk | 9,923
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,467 (100.0%) of 57,469 articles have been extended.
+57,469 (100.0%) of 57,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Ampara tractor incident: four including Madrasa principal and teacher arrested
+
+*2024-11-28 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103853/ampara-tractor-incident-four-including-madrasa-principal-and-teacher-arrested) · `en`
+
+The principal and a teacher from the Madrasa in Ninthavur, as well as two who had served as assistants to the tractor driver have been arrested in connection with the investigation into the incident where a tractor transporting a group of school children was swept away by floodwaters in Karaitivu, Ampara.
+
+Police said that the suspects are to be produced before the Sammanthurai Magistrate’s Court.
+
+It is reported that the principal in question had instructed the school boys to go back home on the tractor after school, as there were no buses available due to flooding on November 26. Bus services had been suspended on the route due to the floods.
+
+The principal had also reportedly provided money to the students to cover transportation costs for the tractor.
+
+In such a background, police investigations have revealed that the principal had given instructions to take the children to their homes in the tractor, which was being used as a passenger transport vehicle operating for a fee.
+
+...
+
+[Data](articles/b835a4cb.json)
+
+---
 
 ### Government stand on damaged farmland
 
@@ -117,6 +137,8 @@ Below is the list of the new ambassadors and the high commissioner who presented
 ...
 
 [Data](articles/ad327b0c.json)
+
+[Extended Data](ext_articles/ad327b0c.ext.json)
 
 ---
 
@@ -518,21 +540,27 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 
 ---
 
-### රැළෙන් වෙන්ව සිටි අලි පැටවෙකු මී හරක් රංචුවක් සමග ගමට එයි
+### A baby elephant, apart from the flock comes to the village with a buffalo
 
 *2024-11-28 18:10:38* · [`adalk`](https://www.ada.lk/picture_story/රැළෙන්-වෙන්ව-සිටි-අලි-පැටවෙකු-මී-හරක්-රංචුවක්-සමග-ගමට-එයි/10-413347) · `si`
 
-පොළොන්නරුව දිස්ත්‍රීක්කයට ඇදහැලෙන අධික වර්ෂාපතනය හා මහවැලි ගග පිටාර ගැලීම නිසා පොළොන්නරුව දිවුලාන විල්ලුව පිටාර ගැලීම හේතුවෙන් තම රැළෙන් වෙන්ව අතරමංව සිටි වන අලි පැටවෙකු 28 වෙනිදා මී හරක් රංචුවක් සමග දිවුලාන ගම්මානයයේ පිහිටි ගවමඩුවක් වෙත පැමිණ ඇත.
+Baby elephant strays from herd, enters village with buffalo. Overflows bucket due to heavy rainfall in Polonnaruwa district. Five-year-old calf causes commotion. Villagers alert wildlife officials.
 
-මෙලෙස මී හරක් රංචුවක් සමග දිවුලාන ගම්මානයේ පිහිටි ගව මඩුවක් වෙත පැමිණ මෙම වන අලි පැටවා සෝමාවතිය රක්ෂිතයේ සැරිසරන වයස අවුරුදු 4-5 ත් අතර පසුවන උස අඩි 05 ක් පමණ වන අලි පැටවෙකු බව  පොළොන්නරුව වනජීවී කාර්යාලයේ නිලධාරියකු සඳහන් කළේය.
+🟩
 
-මී හරක් රංචුව සමග ඉතා සමීපව සැරිසරන මෙම අලි පැටවා දැක බලා ගැනීම සඳහා විශාල පිරිසක් එම ගව මඩුව වෙත පැමිණෙමින් සිට්යහ.
+A baby elephant has come to a mangel with a bucket of the floor due to overflowing the Polonnaruwa district due to the overflowing of the Polonnaruwa district.
 
-රැළෙන් මග හැරී ගම්මානය වෙත පැමිණ සිටින මෙම අලි පැටවා පිලිබදව ගම්වාසීන් විසින් පොළොන්නරුව වනජීවී කාර්යාලයේ වනජීවී නිලධාරීන් දැනුවත් කිරීමට කටයුතු කර තිබේ.
+According to a cattle shed in the village of the village of the village, a five-year-old elephant sheet is a 5-5-foot elephant sheet.
+
+A large number of people were returning to the cattle shed.
+
+The villagers have taken measures to educate the wildlife officers of the Polonnaruwa Wildlife Office about the early elephant.
 
 ◼️
 
 [Data](articles/068af00c.json)
+
+[Extended Data](ext_articles/068af00c.ext.json)
 
 ---
 
@@ -796,6 +824,22 @@ The first look of the film has been designed and released in the famous 'Salt bu
 
 ---
 
+### Sri Lanka rupee closes stronger at 290.70/80 to dollar, bonds down
+
+*2024-11-28 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-70-80-to-dollar-bonds-down-146795/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.70/80 to the US dollar on Thursday from 291.00/10 to the US dollar on Wednesday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed down at 9.40/60 percent, down from 9.50/65 percent.
+
+A bond maturing on 15.09.2029 closed at 10.70/85 percent, down from 10.80/90 percent.
+
+◼️
+
+[Data](articles/8a354547.json)
+
+---
+
 ### 7 Iranians sentenced to life in prison
 
 *2024-11-28 17:24:11* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජාතිකයන්-7කට-ජීවිතාන්තය-දක්වා-සිර-දඬුවම්/11-413344) · `si`
@@ -825,6 +869,26 @@ Accordingly, the judge who decided to be guilty of the defendants sentenced them
 [Data](articles/05bf0707.json)
 
 [Extended Data](ext_articles/05bf0707.ext.json)
+
+---
+
+### Sri Lanka sells Rs205bn in 2028, 2031, and 2033 bonds
+
+*2024-11-28 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs205bn-in-2028-2031-and-2033-bonds-147099/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 205 billion rupees in 2028, 2031 and 2033 bonds, data from the state debt office showed.
+
+All offered 80 billion rupees of 15 October 2028 bonds were sold at an average yield of 10.62 percent.
+
+All offered 75 billion rupees of 15 March 2031 bonds were sold at an average yield of 11.28 percent.
+
+All offered 50 billion rupees of 01 November 2033 bonds were sold at an average yield of 11.40 percent.
+
+All three bonds were available on tap after the auction. (Colombo/Nov28/2024)
+
+◼️
+
+[Data](articles/b5506163.json)
 
 ---
 
@@ -893,6 +957,30 @@ At the invitation of Sridharan MP, I came to the main road in the midst of the r
 [Data](articles/b6abac1c.json)
 
 [Extended Data](ext_articles/b6abac1c.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banking shares attract local interest
+
+*2024-11-28 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-shares-attract-local-interest-147111/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader ASPI closed up 0.88 percent, or 114.50 points, at 13,164; while the more liquid S&P SL20 Index closed up 1.06 percent, or 41.01 points, at 3,917.
+
+“Now that the government has announced a deadline for the ISB exchange, the banking sector is getting more positive traction, mostly from local investors,” Softlogic Stockbrokers said.
+
+Sampath Bank saw buying interest from local investors, they said.
+
+“Foreign investors are selectively taking positions, they are not that active.
+
+“With the IMF third tranche still pending the global audience is waiting to see the participation rate in the bond exchange.
+
+“If a considerable number are exchanged then they will view it as a success. Once we conclude that we can expect higher foreign participation.”
+
+...
+
+[Data](articles/847eae35.json)
 
 ---
 
@@ -1688,6 +1776,24 @@ The order had been issued when a case was taken into custody at the Baseline Roa
 
 ---
 
+### Sri Lanka among 20 nations chosen to host World Bank’s integrated South Asia office
+
+*2024-11-28 14:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-among-20-nations-chosen-to-host-world-banks-integrated-south-asia-office-190682/) · `en`
+
+ECONOMYNEXT – Sri Lanka has been chosen among 20 countries worldwide to host the World Bank’s integrated South Asia office, set to open on July 25, 2025, World Bank Group President Ajay Banga has said.
+
+President Anura Kumara Dissanayake was informed of the move when Banga had a virtual meeting with him on Wednesday (27).
+
+The initiative is part of Banga’s plan to establish 20 integrated country offices to improve coordination among the four key World Bank Group institutions.
+
+The key institutions are the International Bank for Reconstruction and Development (IBRD), the International Development Association (IDA), the International Finance Corporation (IFC), and the Multilateral Investment Guarantee Agency (MIGA), President’s Media Division (PMD) said in a statement. (Colombo/November 28/2024)
+
+◼️
+
+[Data](articles/ec9d99ea.json)
+
+---
+
 ### New cure for asthma after 50 years
 
 *2024-11-28 14:41:54* · [`adalk`](https://www.ada.lk/breaking_news/වසර-50ට-පසු-ඇදුම-රෝගයට-නව-ප්‍රතිකාරයක්-සොයා-ගැනේ/11-413334) · `si`
@@ -1709,6 +1815,46 @@ This is the first time that a new treatment has been found after 50 years.
 [Data](articles/a421dc0b.json)
 
 [Extended Data](ext_articles/a421dc0b.ext.json)
+
+---
+
+### Sri Lanka leader stresses on increasing govt revenue through key sectors, energy
+
+*2024-11-28 14:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-stresses-on-increasing-govt-revenue-through-key-sectors-energy-190672/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake at a meeting with the World Bank Group chief has stressed on raising the government revenue through key sectors including tourism and energy with the help of investors, his office said.
+
+President Dissanayake held a virtual meeting on Wednesday (27) with the President of the World Bank Group (WBG) Ajay Banga to discuss Sri Lanka’s future development priorities.
+
+“During the meeting, President Dissanayake emphasized the government’s focus on poverty alleviation, particularly in rural areas,” the President’s Media Division (PMD) said.
+
+“He also stressed the need for increasing government revenue through digitalization and by strengthening key sectors such as tourism, the maritime industry, state-owned enterprises (SOEs), and the energy sector, with a focus on encouraging investor participation in power generation.”
+
+...
+
+[Data](articles/64eabaa6.json)
+
+---
+
+### Sri Lanka hardline elements ready to exploit racial hatred: Former minister
+
+*2024-11-28 14:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-hardline-elements-ready-to-exploit-racial-hatred-former-minister-141702/) · `en`
+
+ECONOMYNEXT – Families should be allowed to grieve and memorialize their loved ones, a former Minister of Justice has said, but Sri Lanka must be watchful of hardline elements in the South that are ready to exploit any opportunity to stoke racial hatred.
+
+“Families should be allowed to grieve and memorialize their loved ones, even those whose paths were misled by the ideologies of the past,” Ali Sabry said on social platform X.
+
+This is a human right and an essential step in healing wounds, Sabry pointed out.
+
+“We must also remember that hardline elements in the South are ever-watchful, ready to exploit any opportunity to stoke racial hatred. Let us deny them that chance,” he said.
+
+The former minister’s post follows social media posts criticizing the celebration of Maaveerar Naal in the country’s north.
+
+Sabry said that “glorifying the LTTE or its leader, a ruthless architect of terror, is not the way forward.”
+
+...
+
+[Data](articles/d548ad61.json)
 
 ---
 
@@ -1881,6 +2027,26 @@ The Disaster Management Center Assistant Director Janaka, Avalagaharajah, Assist
 [Data](articles/5d8659d9.json)
 
 [Extended Data](ext_articles/5d8659d9.ext.json)
+
+---
+
+### Sri Lanka parliament to debate policy statement, vote on account
+
+*2024-11-28 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-to-debate-policy-statement-vote-on-account-151965/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament will convene from December 3 to 6 to debate the government’s policy statement and vote on accounts, Secretary-General Kushani Rohanadeera said in a statement.
+
+This was decided at a party leaders meeting in parliament this week.
+
+The motion on the statement of the Government Policy presented by President Anura Dissanayake will be debated on Tuesday from 9.30 am to 5.30 pm.
+
+The debate will continue on Wednesday, from 9.30 am to 5 pm, with a division on the motion scheduled at 5 pm.
+
+The debate on the resolution on the vote on account for the first four months of 2025 will be on December 5 and 6 from 9.30 am to 5.30 pm.
+
+...
+
+[Data](articles/6b8d2f89.json)
 
 ---
 
@@ -2423,213 +2589,5 @@ Thousands have been wounded and the homes of tens of thousands of others have be
 [Data](articles/e1dcb4d6.json)
 
 [Extended Data](ext_articles/e1dcb4d6.ext.json)
-
----
-
-### Traffic on the A-9 is restored
-
-*2024-11-28 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203829) · `si`
-
-A-9 traffic restored after weather restrictions lifted. Police statement issued due to adverse conditions near Omanthai. Vehicles can now travel normally.
-
-🟩
-
-Traffic on the Jaffna A-9 road, which was restricted due to inclement weather, has recovered.
-
-The police launched a statement due to the adverse weather conditions that have been affected by the islandhave, and the water near the town of Omanthai police division has been completely subjected to water.
-
-Accordingly, the vehicles traveling along the A-9 can also travel as usual.
-
-◼️
-
-[Data](articles/5094e426.json)
-
-[Extended Data](ext_articles/5094e426.ext.json)
-
----
-
-### Moody’s places Sri Lanka’s rating under review for upgrade after bond-exchange offer
-
-*2024-11-28 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103831/moodys-places-sri-lankas-rating-under-review-for-upgrade-after-bond-exchange-offer) · `en`
-
-Moody’s has placed Sri Lanka’s Ca long-term foreign currency rating on review for an upgrade, the credit ratings agency said on Wednesday, following the government’s bond-exchange offer that aims to complete the restructuring of international bonds.
-
-The bond swap, launched on Tuesday, is an important part of the island nation’s ongoing $12.55 billion debt restructuring and its efforts to stabilize the economy.
-
-The country had defaulted on its foreign debt for the first time in May 2022, reeling under a severe crisis amid a heavy debt burden and declining foreign exchange reserves.
-
-Moody’s also assigned a provisional Caa1 credit rating to Sri Lanka’s new US dollar-denominated debt issuances, which are part of its bond-exchange offer.
-
-◼️
-
-[Data](articles/bd735aeb.json)
-
-[Extended Data](ext_articles/bd735aeb.ext.json)
-
----
-
-### New details of the date of the exams
-
-*2024-11-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-நடத்தப்படும்-திகதிகளின்-புதிய-விபரம்/175-347919) · `ta`
-
-GCE A/L exams postponed to Dec 3, resume Dec 4. No exams Nov 30, Dec 2, 3. Rescheduled: Mon Dec 2 to Dec 30, Thu Dec 31. #ExamsUpdate
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera said that the Department of Examinations has decided to postpone the 2024 GCE Advanced Level Examination till December 3 due to inclement weather.
-
-The Commissioner General has announced that the exams will be resumed on December 4.
-
-It has been decided not to conduct exams on November 30, December 2 and December 3.
-
-#Examination on Monday December 2nd on December 30th Monday
-
-The exam will be held on Thursday, September 3, December 31st.
-
-◼️
-
-[Data](articles/2e0d5fcc.json)
-
-[Extended Data](ext_articles/2e0d5fcc.ext.json)
-
----
-
-### New details of the date of the exams
-
-*2024-11-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பரீட்சைகள்-நடத்தப்படும்-திகதிகளின்-புதிய-விபரம்/150-347919) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-2024 GCE Advanced Level exams postponed due to weather. New dates: Dec 3-4. Exams rescheduled for Nov 30, Dec 2, 3 cancelled. Make-up exam on Dec 30 for Monday, Dec 2 test. Final exam on Dec 31.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera said that the Department of Examinations has decided to postpone the 2024 GCE Advanced Level Examination till December 3 due to inclement weather.
-
-The Commissioner General has announced that the exams will be resumed on December 4.
-
-It has been decided not to conduct exams on November 30, December 2 and December 3.
-
-#Examination on Monday December 2nd on December 30th Monday
-
-The exam will be held on Thursday, September 3, December 31st.
-
-◼️
-
-[Data](articles/d4e4b6f1.json)
-
-[Extended Data](ext_articles/d4e4b6f1.ext.json)
-
----
-
-### Six people have been recovered in the floods in the Ambara
-
-*2024-11-28 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199898) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Floods in Ampara: 6 recovered, 4 students' bodies found. Rescue ops paused due to weather. STF & volunteers searching. 1 student's textbook seized. 11 people in plowing machine crash, 6 students missing (ages 12-16)."
-
-🟩
-
-The bodies of 4 students, including 6 students, who were missing in a flooding machine near the Karadivu Police Division of the Karadivu Police Division, Ampara District, were recovered on Wednesday (27).Has been recovered.
-
-Rescue operations were suspended yesterday (27).
-
-The bodies of the four were rescued by the rescue team. It has also been reported that the two bodies may be the bodies of the plowing machine and the assistant. Further investigations into the bodies have begun.
-
-Previously, the bodies of Madrasa students who had been swept away in flood water were recovered. Four bodies have been recovered until Wednesday (27) evening.
-
-In particular, the Army Special Task Force (STF) has participated in the complaint and the volunteer youth group is involved.
-
-Until now, four bodies have been recovered and taken to the Samanthurai Resource Hospital.
-
-It was later prepared to carry out rescue operations the next day due to inclement weather and darkness.
-
-...
-
-[Data](articles/4a2f8d6f.json)
-
-[Extended Data](ext_articles/4a2f8d6f.ext.json)
-
----
-
-### Law College Entrance Exam
-
-*2024-11-28 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203828) · `si`
-
-Commonwealth Vidyalaya 2024 postponed due to weather. Bar Examination for Senior Statistics and Statistics 2016/24 also cancelled. New dates to be announced soon.
-
-🟩
-
-The Department of Examinations has decided to postpone the Commonwealth Vidyalaya (2024) to be postponed due to the inclement weather conditions in the country.
-
-Commissioner General of Examinations Amit Jayasundara made this statement at a special press conference held today.
-
-He further stated that the Bar Examination for Senior Statistics and Statistics (2016/24) will not be held on the respective days.
-
-The two examinations were prepared at December 01 and 02, but today announced that the examination would not be heard in those days.
-
-"It is necessary to inform two other exams that have been used in 1st and 02."
-
-"The First Examination Commissioner of Sri Lanka Legal College Common Examination 2024. We have organized the necessary steps to conduct this exam in December 1st. "
-
-"The other examination is the Bread Examination for Senior Statistics and Statistics Officers of the Department of Census and Statistics 2016/24."
-
-...
-
-[Data](articles/0845f163.json)
-
-[Extended Data](ext_articles/0845f163.ext.json)
-
----
-
-### Ambeon Holdings Plc buys 7.63-pct of Seylan Bank
-
-*2024-11-28 11:05:00* · [`economynextcom`](https://economynext.com/ambeon-holdings-plc-buys-7-63-pct-of-seylan-bank-190525/) · `en`
-
-ECONOMYNEXT- Ambeon Holdings Plc said it bought 23.274 million voting shares of Seylan Bank Plc which was a 7.63 percent stake.
-
-The shares were paid between 58-60 rupees a share, the Ambeon Capital said in a stock exchange filing describing it as a strategic investment.
-
-Ambeon Holdings is a subsidiary of Ambeon Capital Plc. (Colombo/Nov28/2024)
-
-◼️
-
-[Data](articles/0c768399.json)
-
-[Extended Data](ext_articles/0c768399.ext.json)
-
----
-
-### The number of victims of random weather
-
-*2024-11-28 11:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-பாதிக்கப்பட்டோரின்-எண்ணிக்கை-உயர்வு/175-347918) · `ta`
-
-Weather disaster summary: 6 dead, 17 injured, 6 missing in SW Bengal Sea. 330k affected, 16.5k displaced. Strong winds, floods expected in northern regions. Public advised to take precautions.
-
-🟩
-
-According to the Department of Meteorology, the number of casualties in the Southwest Bengal Sea has risen to 6, and the number of injured and missing persons has increased to 17 and 6 respectively.
-
-The deaths have been reported in Puttalam, Badulla and Ampara districts.
-
-A total of 330,894 persons belonging to 98,635 families have been affected, while 16,553 from 5,305 families have been displaced to 183 safe places across the country.
-
-In 267 Divisional Secretariats in 21 districts, people have been affected by strong winds, floods, trees and landslides.
-
-As of 2:30 am in the Southwest Bengal Bay, the deep winds are about 100 kilometers northeast of Trincomalee.. It is expected to move slowly towards the north-northwest, approaching the east coast of Sri Lanka and strengthening a hurricane.
-
-Under the influence of this weather system, the sky is cloudy in most parts of Sri Lanka. Heavy rains and strong winds are expected in the Northern Province and Trincomalee district.
-
-...
-
-[Data](articles/9348f992.json)
-
-[Extended Data](ext_articles/9348f992.ext.json)
 
 ---

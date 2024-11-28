@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 19:26:40**
+As of **2024-11-28 19:02:55**
 
 ## Newspaper Stats
 
-*Scraped **57,455** Articles*
+*Scraped **57,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,428
-adaderanalk | 6,961
-tamilmirrorlk | 8,172
+adaderanalk | 6,960
+tamilmirrorlk | 8,170
 virakesarilk | 9,369
 adaderanasinhalalk | 9,919
 
@@ -26,201 +26,81 @@ adaderanasinhalalk | 9,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,451 (100.0%) of 57,455 articles have been extended.
+57,443 (100.0%) of 57,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### Leopard
-
-*2024-11-28 19:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்திலிருந்து-தப்பிக்க-வீட்டுக்குள்-புகுந்த-சிறுத்தை/175-347947) · `ta`
-
-Leopard found refuge in flooded Mullaitivu home. Wildlife officials rescue 6-month-old cat, releasing it safely. Heavy rains cause pond flooding, attracting wildlife like crocodiles near human habitats.
-
-🟩
-
-The leopard entered the house to escape the floods in Mullaitivu, Mullaitivu, was caught by wildlife protection authorities.
-
-Wildlife and villages have been submerged due to the ponds and reservoirs, including the Muttiyagattu reservoir.
-
-On their information, a group of wildlife protection officers, including veterinarians, from Kilinochchi, came and rescued it and released it safely.
-
-They said that the well -developed leopard is six months old and that wildlife, including crocodiles, often visit humans where the crocodiles are in heavy rains and floods.
-
-◼️
-
-[Data](articles/7d27bace.json)
-
-[Extended Data](ext_articles/7d27bace.ext.json)
-
----
-
-### Special Report of the Department of Meteorology
-
-*2024-11-28 18:41:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-விசேட-அறிக்கை/175-347945) · `ta`
-
-Deep winds in SW Bengal Bay, 110km NE of Trincomalee. Moving NW, may intensify. Rain/thunderstorms in northern provinces, Trincomalee district. Heavy rainfall possible. Strong winds in several provinces. Lightning and thunderstorm warnings issued.
-
-🟩
-
-The Department of Meteorology has said that the deep winds in the Southwest Bengal Bay area are located about 110 kilometers northeast of Trincomalee this morning.
-
-The department said this while issuing a weather forecast tomorrow (29).
-
-It has been reported that it is moving slowly in the northwestern direction near the east coast of the country and is more likely to grow.
-
-However, rain or thunderstorms will occur from time to time in the northern and northern provinces of the country and the Trincomalee district.
-
-Mm in some places in the Northern Province. Heavy rains are more likely to rain over 100.
-
-Rainfall in the upper, Sabaragamuwa and North Western Provinces and Galle District.
-
-Other parts of the evening or night can occur in widespread rain or thunderstorms.
-
-Winds from time to time in the Northern, North Central, Northwest, Central and Eastern Provinces. The wind can blow at 60 o'clock.
-
-...
-
-[Data](articles/d7bd7d1f.json)
-
-[Extended Data](ext_articles/d7bd7d1f.ext.json)
-
----
-
-### 1,816 families in Jaffna, Jaffna
+### யாழ்.தென்மராட்சியில் 1,816 குடும்பங்கள் சீரற்ற வானிலையால் பாதிப்பு
 
 *2024-11-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199936) · `ta`
 
-Here's a summary of the given information in approximately 200 characters:
+யாழ்.தென்மராட்சி பிரதேசத்தில் 1,816 குடும்பங்களைச் சேர்ந்த 5,749 பேர் வெள்ள அனர்த்தத்தால் பாதிக்கப்பட்டுள்ளனர்.
 
+இவர்களில், யா/கொடிகாமம் திருநாவுக்கரசு மகா வித்தியாலய இடைத்தங்கல் முகாமில், 59 குடும்பங்களைச் சேர்ந்த 186 பேரும் யா/கொடிகாமம்  போக்கட்டி அரசினர் தமிழ் கலவன் பாடசாலை இடைத்தங்கல் முகாமில், 47 குடும்பங்களைச் சேர்ந்த 281 பேரும் தங்க வைக்கப்பட்டுள்ளனர்.
 
+இங்கு தங்கியுள்ள கற்பிபிணித் தாய்மார் மற்றும் வயோதிபர்களுக்கான மருத்துவ சேவைகள் வழங்கப்பட்டு வருகின்றன.
 
-"Floods affect 5,749 people in Jaffna; 56,732 total affected district-wide. 3,467 housed in camps. Medical aid provided. Infrastructure damage reported."
+இதேவேளை ,தென்மராட்சி பிரதேசத்தின் அரச அலுவலகங்கள் மற்றும் வணக்க ஸ்தலங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளதை காணக் கூடியதாக இருக்கிறது.
 
-🟩
+சாவகச்சேரி பிரதேச சபை மற்றும் கொடிகாமம் பொலிஸ் நிலையம் மற்றும் ஆலயங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளது.
 
-5,749 people from 1,816 families have been affected by the floods in the Jaffna Thenmarachchi area.
-
-Among them, 186 persons from 59 families have been housed in the Y/Kodikamam Thirunavukkarasu Maha Vidyalaya Camp, and 281 from 47 families in the Tamil Kalavan School Camp.
-
-Medical services are being provided for the elderly mothers and the elderly.
-
-Meanwhile, flooding has been flooded within the state offices and places of worship of the Thenmarachchi area.
-
-The floods have been flooded within the Chavakachcheri Pradeshiya Sabha and the Kodikamam police station and the temples.
-
-According to the current report, 56,732 people from 17,095 families across Jaffna have been affected by the inclement weather in Jaffna.
-
-Also, 7,063 persons from 1,995 families have been housed in 80 security centers, according to the Jaffna District Secretariat.
-
-◼️
-
-[Data](articles/140df05d.json)
-
-[Extended Data](ext_articles/140df05d.ext.json)
-
----
-
-### Australia passes social media ban for children under 16
-
-*2024-11-28 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103849/australia-passes-social-media-ban-for-children-under-16) · `en`
-
-Australia passed a law on Thursday to ban social media for children aged under 16 after days of heated debate, setting a standard for other countries to follow in a global push to curb the power of Big Tech.
-
-The law, expected to take effect in November 2025, sets some of the toughest social media controls in the world and will force platforms to take reasonable steps to ensure age-verification protections are in place.
-
-After a parliamentary session that went into the night, the country’s Senate, or upper house of parliament, voted to pass the law after the centre-left Labor government of Prime Minister Anthony Albanese won support from the conservative opposition.
-
-The Senate’s approval for the law is the final legislative hurdle after the lower house, or House of Representatives, passed the bill on Wednesday.
+தற்போதைய நிலவர அறிக்கையின்படி  (இன்று (28) நண்பகல் 12.00 மணி வரையிலானது) யாழ்ப்பாணத்தில் ஏற்பட்டுள்ள சீரற்ற காலநிலை காரணமாக, யாழ்ப்பாணம் முழுவதும் 17,095 குடும்பங்களைச் சேர்ந்த 56,732 பேர் பாதிக்கப்பட்டுள்ளனர்.
 
 ...
 
-[Data](articles/6e54a8d3.json)
+[Data](articles/140df05d.json)
 
 ---
 
-### Sri Lanka's Economic Future - Lessons from Malaysia
+### இலங்கையின் பொருளாதார எதிர்காலம் - மலேசியாவிலிருந்தான படிப்பினைகள், பிரெட்டன் வூட்ஸ் நிறுவனங்களின் வகிபங்கு மற்றும் பிரிக்ஸ் அங்கத்துவத்தின் சாத்தியப்பாடுகள்
 
 *2024-11-28 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199959) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-Malaysia's 1997-98 financial crisis offers valuable lessons for Sri Lanka's current economic struggles. Both nations faced excessive debt, inflation, and declining foreign reserves. Malaysia's resistance to IMF aid demonstrates alternative approaches to economic recovery.
-
-🟩
-
-During the Asian financial crisis (1997-1998), Malaysia's economic journey and the opposition to international currency aid provides significant lessons to Sri Lankans today, as Sri Lanka is leading its economic challenges due to excessive debt, inflation and falling foreign stockpile.
+ஆசிய நிதியியல் நெருக்கடியின் போது (1997-1998) மலேசியாவின் பொருளாதாரப் பயணமும், சர்வதேச நாணய நிதிய உதவிக்கான எதிர்ப்பும் இன்று இலங்கையர்களுக்கு கணிசமான படிப்பினைகளை வழங்குகின்றன, ஏனெனில் அதிகமான கடன், பணவீக்கம் மற்றும் வீழ்ச்சியடைந்து வரும் வெளிநாட்டு கையிருப்பு போன்றவற்றால் இலங்கை அதன் பொருளாதார சவால்களை வழிநடாத்துகின்றது.
 
 ◼️
 
 [Data](articles/98254c65.json)
 
-[Extended Data](ext_articles/98254c65.ext.json)
-
 ---
 
-### A change in Upcountry Railway Run
+### උඩරට දුම්රිය ධාවනයේ වෙනසක්
 
 *2024-11-28 18:21:05* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයේ-වෙනසක්/11-413349) · `si`
 
-Here's a summary in 200 characters:
+වර්ෂාවත් සමඟ පස්කඳු, ගල්පර්වත සහ ගස්කොළන් උඩරට දුම්රිය මාර්ගයට කඩා වැටී තිබීම නිසා කොළඹ කොටුව බදුල්ල අතර උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයේ වෙනස්කම් කීපයක් සිදු කරන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය අද (28දා) පැවසීය .
 
+උඩරට දුම්රිය මාර්ගයේ හාලිඇළ, දෙමෝදර අතර උඩුවර 7කණුව ප්‍රදේශයේ දී දුම්රිය මාර්ගයට කඩා වැටී ඇති විශාල පස්කන්ද මෙතෙක් ඉවත් කර නොමැති නිසා බදුල්ල දෙමෝදර අතර දුම්රිය ධාවනය මුළුමනින්ම ඇණ හිට ඇත.
 
-
-Rainfall disrupts rail services between Colombo Fort and Badulla. Freight train operations continue, but passenger trains affected. Night mail trains suspended. Track removal underway in Uduru area. Restoration efforts ongoing for Kandyan line.
-
-🟩
-
-The Nawalapitiya Railway Control Room said that a railway line between Colombo Fort Badulla Badulla with the rainfall with rain.
-
-Deodara, Badulla, has not been completely stopped due to the Uduru 7th Post, Damuriya Railway Station.
-
-The freight traffic train from Colombo Fort to Badulla and 1015 runs from Colombo Fort to Badulla and the Colombo Fort is due to run from Badulla to Nanu Oya to Colombo.Udarata Menike Railway Train at Nanu Oyaye Colombo Fort.The Railways Department said.
-
-None of the night mail trains between Badulla Fort.Railway authorities say that the train is scheduled to run.
-
-A large number of railway stations at the Uduru area of ​​Ramadu, the large number of large railway stations in the Uduruwara area has been removed and the removal of the railway track is already underway, and largelyThe Railway Department further stated that at the Kandyan railway line will be able to restore trains between Badulla Fort.
-
-◼️
+...
 
 [Data](articles/f20b38b2.json)
 
-[Extended Data](ext_articles/f20b38b2.ext.json)
-
 ---
 
-### Sri Lanka curled up for 42 runs
+### 42 ஓட்டங்களுக்கு சுருண்டது இலங்கை
 
 *2024-11-28 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199961) · `ta`
 
-Sri Lanka collapsed to 42/10 in 13.5 overs vs South Africa in ICC World Test Championship. Lowest total in Test history. Kamindu Mendis (13*) and Lahiru Kumara (10) top scored. Marco Jensen took 7/13 in 6.5 overs. South Africa replied with 191/4.
+தென் ஆபிரிக்காவுக்கு எதிராக டேர்பன், கிங்ஸ்மீட் விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்பின் முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் பதிலுக்கு முதல் இன்னிங்ஸில் துடுப்பெடுத்தாடிய இலங்கை 13.5 ஓவர்களில் சகல விக்கெட்ளையும் இழந்து 42 ஓட்டங்களுக்கு சுருண்டது.
 
-🟩
+டெஸ்ட் கிரிக்கெட் வரலாற்றில் ஓர் இன்னிங்ஸில் இலங்கை பெற்ற மிகக் குறைந்த மொத்த எண்ணிக்கை இதுவாகும்.
 
-Sri Lanka lost all the wickets in 13.5 overs in the first innings of the ICC World Test Championships at the Kingsmate Stadium against South Africa.
+இலங்கை அணியில் கமிந்து மெண்டிஸ் (13), லஹிரு குமார (10) ஆகிய இருவரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
 
-This is the lowest number of Sri Lanka in Test cricket history.
+தினேஷ் சந்திமால், குசல் மெண்டிஸ், ப்ரபாத் ஜயசூரிய, விஷ்வா பெர்னாண்டோ ஆகியோர் ஓட்டம் பெறாமல் ஆட்டம் இழந்தனர்.
 
-In the Sri Lankan squad, Kamundu Mendis (13) and Lahiru Kumara (10) received double digits.
+தென் ஆபிரிக்க வேகப்பந்துவீச்சாளர் மார்க்கோ ஜென்சன் ஒரு ஓட்டமற்ற ஓவர் உட்பட 6.5 ஓவர்களில் 13 ஓட்டங்களுக்கு 7 விக்கெட்களைக் கைப்பற்றினார்.
 
-Dinesh Chandimal, Gusal Mendis, Prabhat Jayasuriya and Vishwa Fernando lost the game.
+தனது 14ஆவது டெஸ்ட் போட்டியில் விளையாடும் ஜென்சன், ஓர் இன்னிங்ஸில் பதிவு செய்த அதிசிறந்த பந்துவீச்சுப் பெறுதி இதுவாகும்.
 
-South African fast bowler Marco Jensen took 7 wickets for 13 runs in 6.5 overs, including an unbeaten over.
+அவரை விட ஜெரால்ட் கொயெட்ஸி 18 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கெகிசொ ரபாடா 10 ஓட்டங்களுக்கு ஒரு விக்கெட்டையும் கைப்பற்றினர்.
 
-This is the excellent bowling of Jensen, who played in his 14th Test match, in an innings.
-
-Gerald Coetzi took 2 wickets for 18 runs and Kegiso Rabada took one wicket for 10 runs.
-
-South Africa scored 191 runs in the first innings.
-
-◼️
+...
 
 [Data](articles/064f3f31.json)
-
-[Extended Data](ext_articles/064f3f31.ext.json)
 
 ---
 
@@ -243,8 +123,6 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 ...
 
 [Data](articles/b586014c.json)
-
-[Extended Data](ext_articles/b586014c.ext.json)
 
 ---
 
@@ -1250,41 +1128,27 @@ The Commissioner General further stated that the permit given to running with te
 
 ---
 
-### Patrical surrenders to court
+### මන්ත්‍රී අර්චුනා අධිකරණයට භාරවෙයි
 
 *2024-11-28 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203837) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+රිය අනතුරක් සිදුකොට පුද්ගලයකුට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් අධිකරණය හමුවේ පෙනී නොසිටීම හේතුවෙන් වරෙන්තු නිකුත් කර තිබූ පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්චුනා මහතාගේ වරෙන්තුව ආපසු කැඳවීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (28) නියම කළේය.
 
+ඔහු නීතිඥවරයෙක් මාර්ගයෙන් කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත්වීමෙන් අනතුරුව එම නියෝගය නිකුත් කර තිබේ.
 
+සැකකාර මන්ත්‍රීවරයා වෙනුවෙන් පෙනී සිටි නීතීඥවරයා කියා සිටියේ, අදාළ නඩුව කැඳවනු ලැබූ ඉකුත් 26 වනදා තම සේවා දායකයා පාර්ලිමේන්තු මන්ත්‍රීවරයකු වශයෙන් එහි පැවැති රැස්වීමකට සහභාගි වූ බවය.
 
-Patrical surrenders to court; warrant issued over 2021 incident; lawyer requests case rescheduling; magistrate orders new hearing on March 4; warrant recalled; opposition leader involved.
+ඒ බව තහවුරු කරන ලිපියක්ද නීතිඥවරයා විසින් අධිකරණයට ඉදිරිපත් කළේය.
 
-🟩
+මෙම නඩුව වෙනුවෙන් පෙනී සිටි නීතිඥවරයා විදේශගත වීම නිසා මෙම නඩුව කැඳවන දිනය සම්බන්ධයෙන් තම සේවා දායකයා තුළ ගැටලුවක් තිබූ බවත් නීතිඥවරයා සඳහන් කළේය.
 
-The Colombo Magistrate Court today (28) was appointed as the warrant issued by the warrant issued by the court in the courts regarding the incident.
+ඒ අනුව සිය සේවදායකයා වෙනුවෙන් නිකුත් කර තිබෙන වරෙන්තුව ආපසු කැඳවන ලෙසත් එම නීතිඥවරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
 
-The order was issued after he was produced before the Colombo Magistrate's Court through a lawyer.
-
-The lawyer appearing on behalf of the suspect, the case was called on the 26th of the last couple of MPs.
-
-The lawyer also produced a letter confirming this to court.
-
-The lawyer said that the lawyer appearing on behalf of the case had a problem in his client regarding the date of the case.
-
-The lawyer also requested the court to call back the warrant issued for his employee.
-
-The Magistrate accepted the request for the suspect, and ordered to be called again on March 4.
-
-Colombo Additional Magistrate Manjula Ratnayake has ordered the warrants through the Jaffna Senior Superintendent of Ramanathan Eraichata.
-
-The order had been issued when a case was taken into custody at the Baseline Road in 2021 and was taken into custody.
+එම ඉල්ලීම පිළිගත් මහෙස්ත්‍රාත්වරයා සැකකරු වෙනුවෙන් නිකුත් කර තිබූ වරෙන්තුව ආපසු කැඳවීමට නියෝග කළ අතර, නඩුව නැවත මාර්තු මස 04 වනදා කැඳවන ලෙසත් නියෝග කළේය.
 
 ...
 
 [Data](articles/8ec72687.json)
-
-[Extended Data](ext_articles/8ec72687.ext.json)
 
 ---
 
@@ -2577,5 +2441,81 @@ In equities, the All Share Price Index was up 0.34 percent or  44.69 points, at 
 [Data](articles/c7da37fd.json)
 
 [Extended Data](ext_articles/c7da37fd.ext.json)
+
+---
+
+### 4 bodies found in the missing students missing from the tractor
+
+*2024-11-28 09:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රැක්ටරය-පෙරළිමෙන්-අතුරුදන්-වූ-සිසුන්-4කගේ-සිරුරු-සොයා-ගනියි/11-413329) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"4 bodies found near Samawatta. Students (16 & 15) went missing on 26th from Nindavur. Police investigating."
+
+🟩
+
+Four students of four disappeared students who were disappeared from Nindavur from Nindavur to the Samawatta have been disappeared.
+
+The accident had occurred when the accident had occurred on the 26th of this accident.
+
+The four students who discovered the dead yesterday will be the aged of 16 and 15 years. The police continue to operate the rest of the students who have disappeared.
+
+◼️
+
+[Data](articles/2027b411.json)
+
+[Extended Data](ext_articles/2027b411.ext.json)
+
+---
+
+### Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
+
+*2024-11-28 09:36:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7v32eqm8g2o) · `si`
+
+Heavy rains affect 300,000+ people. Meteorological Department warns of strong winds and heavy showers in Northern and Trincomalee districts. Deep depression in Bay of Bengal moving east-north. Possible thunderstorms and rough seas expected.
+
+🟩
+
+Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
+
+In the past few days, the high rains and strong winds, winds, farmland and roads were affected. Due to bad weather conditions, the train services were also disrupted.
+
+The Disaster Management Center stated that more than 300,000 people were affected by the rain.
+
+Deep pressure depression in the south-length Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying. The Department of Meteorological Department points out that the system is slowly traveling to the East and the North, and the ability to construct a hurricane.
+
+However, an officer of the Department of Meteorological Department said that it is not certain that it would be a hurricane.
+
+According to the Department, there may be very heavy and strong winds in the Northern and Trincomalee District.
+
+Warnings of Showers at district level for the next three days
+
+...
+
+[Data](articles/f52dc634.json)
+
+[Extended Data](ext_articles/f52dc634.ext.json)
+
+---
+
+### Sri Lanka welcomes ceasefire between Israel and Lebanon – Foreign Ministry
+
+*2024-11-28 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103828/sri-lanka-welcomes-ceasefire-between-israel-and-lebanon-foreign-ministry) · `en`
+
+Sri Lanka’s Ministry of Foreign Affairs has expressed its support for the recently announced ceasefire between Israel and Lebanon.
+
+In an official statement, the Ministry emphasized its optimism, stating, “We remain hopeful that the ceasefire will pave the way for enduring peace and stability in Lebanon and in the region.”
+
+The ceasefire announced Tuesday (26) is a major step toward ending nearly 14 months of fighting sparked by the ongoing war in Gaza between Israel and Hamas.
+
+There were no immediate reports of alleged violations of the truce, and there were signs of celebration in Beirut. But Israel has said it will attack if Hezbollah breaks the agreement.
+
+...
+
+[Data](articles/042f8d7b.json)
+
+[Extended Data](ext_articles/042f8d7b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 08:08:10**
+As of **2024-11-28 07:31:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,320 (100.0%) of 57,325 articles have been extended.
+57,317 (100.0%) of 57,325 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -528,8 +528,6 @@ The event also showcased the institute’s plans for expanding its educational o
 
 [Data](articles/df6209b0.json)
 
-[Extended Data](ext_articles/df6209b0.ext.json)
-
 ---
 
 ### Book launch commemorates 125th birth anniversary of Professor Gunapala Malalasekera
@@ -544,8 +542,6 @@ Professor Malalasekera, often referred to as “GPM,” was a visionary who dedi
 
 [Data](articles/e6ce7d62.json)
 
-[Extended Data](ext_articles/e6ce7d62.ext.json)
-
 ---
 
 ### Dialog unveils Sri Lanka’s first AI Assistant for local developer community
@@ -557,8 +553,6 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly announces the
 ...
 
 [Data](articles/43a45982.json)
-
-[Extended Data](ext_articles/43a45982.ext.json)
 
 ---
 

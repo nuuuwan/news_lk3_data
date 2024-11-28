@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 18:02:58**
+As of **2024-11-28 17:43:42**
 
 ## Newspaper Stats
 
-*Scraped **57,438** Articles*
+*Scraped **57,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,425
-adaderanalk | 6,959
-tamilmirrorlk | 8,170
+adalk | 5,424
+adaderanalk | 6,958
+tamilmirrorlk | 8,169
 virakesarilk | 9,361
 adaderanasinhalalk | 9,917
 
@@ -26,41 +26,11 @@ adaderanasinhalalk | 9,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,428 (100.0%) of 57,438 articles have been extended.
+57,423 (100.0%) of 57,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
-
-### வௌ்ளத்தால் 4 இலட்சம் பேர் பாதிப்பு
-
-*2024-11-28 17:48:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளத்தால்-4-இலட்சம்-பேர்-பாதிப்பு/175-347943) · `ta`
-
-தற்போது நிலவும் சீரற்ற காலநிலை காரணமாக 24 மாவட்டங்களில் 120,534 குடும்பங்களைச் சேர்ந்த 401,707 பேர் பாதிக்கப்பட்டுள்ளதாகவும், 12 பேர் உயிரிழந்துள்ளதாகவும் அனர்த்த முகாமைத்துவ நிலையம் (DMC) தெரிவித்துள்ளது.
-
-மன்னார் மாவட்டம் மிக மோசமாகப் பாதிக்கப்பட்டுள்ளதுடன், 63,883 நபர்கள் பாதிக்கப்பட்டுள்ளனர், அதனைத் தொடர்ந்து யாழ்ப்பாண மாவட்டத்தில் 56,732 பேர் பாதிக்கப்பட்டுள்ளனர்.
-
-மேலும், சீரற்ற காலநிலை காரணமாக 102 வீடுகள் முற்றாக சேதமடைந்துள்ளதுடன், 1,952 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளன.
-
-◼️
-
-[Data](articles/246583dc.json)
-
----
-
-### Over 400,000 affected due to adverse weather in Sri Lanka
-
-*2024-11-28 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103847/over-400000-affected-due-to-adverse-weather-in-sri-lanka) · `en`
-
-The Disaster Management Centre (DMC) has reported that as at 4.00 pm today (28), the adverse weather conditions have affected a total of 401,707 individuals across Sri Lanka.
-
-Meanwhile, 12 deaths have been confirmed while 01 person is reported missing.
-
-◼️
-
-[Data](articles/ef35c9c5.json)
-
----
 
 ### "Sridharan, who called the lamp, sent it back"
 
@@ -294,41 +264,19 @@ In a letter to the Foreign Minister, Manusha Nanayakkara said that the allegatio
 
 ---
 
-### වැස්සත් සමඟ සේනා හිස ඔසවයි
-
-*2024-11-28 15:58:11* · [`adalk`](https://www.ada.lk/breaking_news/වැස්සත්-සමඟ-සේනා-හිස-ඔසවයි/11-413340) · `si`
-
-රජරට පළාතට මේ දින වල පවතින වැසි සහිත කාල ගුණ තත්ත්වයත් සමග සේනා දළඹු උවදුර උස්සන්න වීමේ අවදානමක් ඇති බව උතුරු මැද පළාත් කෘෂිකර්ම අධ්‍යක්ෂ ආචාර්ය බුද්ධික අබේසිංහ මහතා ප්‍රකාශ කරයි.
-
-මේ වන විට වැඩි වශයෙන් මෙම සේනා දළඹූ උවදුර නිසා පීඩාවට පත් ගොවීන් සහ වගාවන් අනුරාධපුර ඇලැයාපත්තුව ප්‍රදේශයේ දක්නට ඇති අතර, මෙහිදී අදහස් දක්වමින් කෘෂිකර් අධ්‍යක්ෂ ආචාර්ය බුද්ධික අබේසිංහ මහතා කියා සිටියේ මෙම දළඹු රෝගය ව්‍යාප්ත වීමට පෙර තම ප්‍රදේශයේ කෘෂිකර්ම උපදේශකවරයා දැනුවත් කර මෙම දළඹු රෝගය මැඩ පවත්වා ගැනීමට අවශ්‍ය උපදෙස් කඩිනමින් ලබා ගන්නා ලෙසයි.
-
-◼️
-
-[Data](articles/465d5470.json)
-
----
-
-### National People's Power MPs do not provide appropriate assistance to people affected by rain floods in the Northern Province- Geetanath Kasilingam
+### வடமாகாணத்தில் மழை வெள்ளத்தினால் பாதிக்கப்பட்ட மக்களிற்கு தேசிய மக்கள் சக்தி நாடாளுமன்ற உறுப்பினர்கள் உரிய உதவிகளை வழங்கவில்லை- கீதநாத் காசிலிங்கம்
 
 *2024-11-28 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199940) · `ta`
 
-National People's Power MPs criticized for inadequate flood relief in Northern Province, Sri Lanka. Over 250,000 affected, 10 deaths reported. Government urged to provide essential aid, but opposition party accused of inaction despite presidential orders.
+இலங்கையின் வடமாகாணத்தில் மழை வெள்ளத்தால் பாதிக்கப்பட்ட மக்களிற்கு அந்த மாகாணத்திலிருந்து புதிதாக தெரிவு செய்யப்பட்ட தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர்கள் போதியளவு உதவிகளை வழங்கவில்லை என ஸ்ரீலங்கா பொதுஜனபெரமுனவின் யாழ்மாவட்ட அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
 
-🟩
+வடமாகாணத்திலிருந்து புதிதாக தெரிவுசெய்யப்பட்ட தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர்கள் பாதிக்கப்பட்ட மக்களிற்கு உதவி வழங்க தவறிவிட்டனர் என குறிப்பிட்டுள்ள அவர் யாழ்ப்பாணம் உட்பட நாட்டின் பல பகுதிகளில் சுமார் 250,000க்கும் அதிகமான மக்கள் கடும் வெள்ளத்தினால் பாதிப்புகளை எதிர்கொண்டுள்ளனர் என சுட்டிக்காட்டியுள்ளார்.
 
-Sri Lanka PA has not provided adequate assistance to the people affected by the floods in the Northern Province of Sri Lanka.
-
-He pointed out that more than 250,000 people in many parts of the country, including Jaffna, have failed to help the affected people from the Northern Province have failed to help the affected people from the Northern Province.
-
-He added that more than ten people have died so far, and many families are urgently needed for food asylum.
-
-Geetanath Kasilingam says that it is the duty of the government to provide assistance to the affected people in the event of a natural disaster, but to provide the essential needs of the food, but the parliamentarians of the newly elected National People's Power from the Northern Province have done nothing to publish the photographs, despite several days of rain flooding.
+இதுவரை பத்திற்கும் மேற்பட்டவர்கள் உயிரிழந்துள்ளனர்,பல குடும்பங்களிற்கு உணவு புகலிடம் மருத்துவ உதவிகள் அவசர தேவையாக உள்ளன என அவர் மேலும் தெரிவித்துள்ளார்.
 
 ...
 
 [Data](articles/ebdd9dc6.json)
-
-[Extended Data](ext_articles/ebdd9dc6.ext.json)
 
 ---
 
@@ -354,49 +302,31 @@ The elephant, aged 40 - 50, is often known to come to Kala Veva and Kahalla -Pal
 
 ---
 
-### Flood impact;Vavuniya Coordinating Committee
+### வெள்ளப் பாதிப்பு ; அவசரமாகக் கூடியது வவுனியா ஒருங்கிணைப்புக் குழு !
 
 *2024-11-28 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199930) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+வவுனியா மாவட்ட ஒருங்கிணைப்பு குழுக் கூட்டம், இன்று வியாழக்கிழமை (28) காலை, வவுனியா மாவட்ட செயலகத்தில் இடம்பெற்றது.
 
+கூட்டுறவு அபிவிருத்தி பிரதி அமைச்சர் உபாலி சமரசிங்ஹ தலைமையில் நடைபெற்ற இக்கூட்டத்தில், அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் மற்றும், வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர்கள், அரசாங்க அதிபர் சரத்சந்திர உட்பட பிரதேச செயலாளர்கள், அனர்த்த முகாமைத்துவ அதிகாரிகள், பாதுகாப்புப் துறை அதிகாரிககள் எனப் பலரும் கலந்துகொண்டனர்.
 
-
-"Vavuniya Coordinating Committee meets to discuss flood impacts. Deputy Minister Upali Samarasinghe chairs. Rishad Bathiudeen demands aid for trapped residents & exam students. Urges NGOs' support."
-
-🟩
-
-The Vavuniya District Coordinating Committee meeting was held at the Vavuniya District Secretariat on Thursday morning.
-
-The meeting was chaired by Deputy Minister of Cooperative Development, Upali Samarasinghe, all Ceylon People's Congress President and Member of Parliament Rishad Bathiudeen and Divisional Secretaries, Disaster Management Officers and Defense Department Officers including Vanni District Parliamentarians, Government Agent Sarathchandra.
-
-The meeting, which was organized in a special arrangement to investigate the impacts of the Vavuniya district due to inclement weather, discussed the floods and further measures to be taken in the affected areas.
-
-Commenting on this, the People's Congress leader Rishad, who was unable to go to work and those who were unable to leave the residences, would not be properly provided with food and demanded that they be identified and to take steps to provide them with the help of NGOs, with the help of NGOs.
+சீரற்ற காலநிலையால் வவுனியா மாவட்டத்தில் ஏற்பட்டுள்ள பாதிப்புக்கள் தொடர்பில் ஆராய்வதற்காக, விஷேடமாக ஏற்பாடு செய்யப்பட்டிருந்த இக் கூட்டத்தில், வெள்ளப் பாதிப்புக்கள் தொடர்பாகவும், பாதிக்கப்பட்ட பகுதிகளில் முன்னெடுக்கப்பட வேண்டிய மேலதிக நடவடிக்கைகள் குறித்தும் விரிவாகக்  கலந்துரையாடப்பட்டது.
 
 ...
 
 [Data](articles/0b265dea.json)
 
-[Extended Data](ext_articles/0b265dea.ext.json)
-
 ---
 
-### Heavy cold and snowfall in Central Province!
+### மத்திய மாகாணத்தில் கடும் குளிரும் பனிமூட்டமும் !
 
 *2024-11-28 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199937) · `ta`
 
-Central Province hit by heavy cold and snowfall. 3,077,511 people from 1,013,520 families affected by rains and floods, according to Disaster Management Center.
-
-🟩
-
-At the same time, 3 million 77 thousand 511 people from one million 13 thousand 52 families have been affected by disasters such as rain and floods, the Disaster Management Center said.
+அதே நேரம் மழை, வெள்ளம் போன்ற அனர்த்தங்களால் ஒரு இலட்சத்து 13 ஆயிரத்து 52 குடும்பங்களைச் சேர்ந்த 3 இலட்சத்து 77 ஆயிரத்து 511 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் மேலும் தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/dd84d360.json)
-
-[Extended Data](ext_articles/dd84d360.ext.json)
 
 ---
 
@@ -426,35 +356,29 @@ Amit Jayasundara added that the re -scheduled dates of the exams will be announc
 
 ---
 
-### South Africa first innings limited to 191
+### දකුණු අප්‍රිකා පළමු ඉනිම ලකුණු 191කට සීමාවෙයි
 
 *2024-11-28 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203839) · `si`
 
-South Africa scored 191 runs in their first innings. Sri Lanka won the toss and bowled first. Asapitha Fernando took 3 wickets for 44 runs. Match ongoing at Kingsmead Stadium.
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ පළමු ඉනිම ක්‍රීඩා කළ දකුණු අප්‍රිකාව සියලුදෙනා දැවී රැස් කරගත්තේ ලකුණු 191කි.
 
-🟩
+තරගය දකුණු අප්‍රිකාවේ ඩර්බන්හි කිංග්ස්මේඩ් ක්‍රීඩාංගණයේ පැවැත්වෙන අතර, අද (28) තරගයේ දෙවෙනි දිනයයි.
 
-South Africa won the first innings in the first Test match between the Sri Lanka Tourism and South African.
+ඔහු පන්දු 117කට මුහුණදෙමින් ලකුණු 70ක් රැස්කිරීම හා කෙෂාව් මහරාජ් ලකුණු 24ක් රැස්කිරීම හැරෙන්න වෙනත් කිසිදු පිතිකරුවෙකුට ලකුණු 20කට වැඩි ඉනිමක් හෝ ගොඩනැගීමට නොහැකි විය.
 
-The match will be held at the Kingsmead Stadium of Durban, South Africa, and today (28) the second day of the match.
+ශ්‍රී ලංකාව වෙනුවෙන් සාර්ථක පන්දු යැවීමක නිතර වූ අසිත ප්‍රනාන්දු ලකුණු 44කට කඩුලු 3ක් හා ලහිරු කුමාර ලකුණු 70කට කඩුලු 3ක් දවාගැනීමට සමත් විය.
 
-He was unable to consecrate 70 runs and collect 24 runs while Keshawa Mahajaraj scored 24 runs.
+ඔවුන් දෙදෙනාට අමතරව විශ්ව ප්‍රනාන්දු (2/35) හා ප්‍රබාත් ජයසූරිය (2/24) කඩුලු 2 බැගින් දවාගත්හ.
 
-A successful bowler for Sri Lanka, Asapitha Fernando took 3 wickets for 44 runs and Lahiru Kumara took 3 wickets for 70 runs.
+ඊයේ ආරම්භ වූ මෙම තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා පළමුව පන්දුවට පහරදීම සඳහා අප්‍රිකානු කණ්ඩායමට ආරාධනා කළේය.
 
-In addition to both of them, universal Fernando (2/35) and Prabath Jayasuriya took 2 wickets each.
+දිනය පුරා වර්ෂාව ඇඳහැලීම හේතුවෙන් තරගය වේලාසන අවසන් කිරීමට සිදුවිය.
 
-Sri Lanka Leader Dhananjaya de Silva won the toss and invited the African team to bat first yesterday.
-
-The match had to be completed as the rain was laid down.
-
-At that time South African was 80 runs for the loss of 4 wickets.
+ඒ වනවිට දකුණු අප්‍රිකානු කණ්ඩායම කඩුලු 4ක් දැවී ලකුණු 80ක් රැස්කරගෙන සිටියේය.
 
 ◼️
 
 [Data](articles/62c892c0.json)
-
-[Extended Data](ext_articles/62c892c0.ext.json)
 
 ---
 
@@ -572,31 +496,23 @@ Driving vehicles with a temporary vehicle number after December 15 will be consi
 
 ---
 
-### 15 thousand families affected by floods in Batticaloa
+### மட்டக்களப்பில் வெள்ளத்தால் 15 ஆயிரம் குடும்பங்கள் பாதிப்பு !
 
 *2024-11-28 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199933) · `ta`
 
-Flooding affects 15,000 families in Batticaloa. Main roads blocked, 49,123 people displaced. Relief efforts underway, including food distribution and shelter provision.
+மட்டக்களப்பு மாவட்டத்தில் வியாழக்கிழமையும் (28) மழை சற்ற ஓய்ந்துள்ள நிலையில் மாவட்டத்தின் பிரதான தரை வழிப்போக்குவரத்துக்கள் தற்போது வரையிலும் முற்றாகத் தடைப்பட்டுள்ளன. இதனால் மாவட்ட மக்களின் இயல்பு வாழ்வில் தழம்பல் ஏற்பட்டுள்ளதையும் அவதானிக்க முடிகின்றது.
 
-🟩
+மண்டூர் - குருமண்வெளி படகுப்பாதை, அம்பிளாந்துறை குருக்கள்மடம் படகுப்பாதைப் போக்குவரத்துக்கள் முற்றாக நிறுத்தப்பட்டுள்ளன.
 
-The main carpet of the district has been completely blocked as rain has been raining on Thursday (28) in the Batticaloa district.It can also be observed that the people of the district have a mourning.
+பட்டிருப்பு பெரியபோரதீவு பிரதான வீதி, மண்முனை கொக்கட்டிச்சோலை பிரதான வீதி, வவுணதீவு மட்டக்களப்பு நகர் பிரதான வீதி, உள்ளிட்ட பிரதான வீதிகளை ஊடறுத்து வெள்ளநீர் பாய்ந்துவருவதானல் அவ்வீதிகளுடனான தரைவழிப்போக்குவரத்துக்கள் தடைப்பட்டுள்ளன.
 
-Mandur - Kurumanveli Boat Road and Ambalanthurai priests have been halted.
+எனினும் மிக அவசரத் தேவைகளுக்காக மாத்திரம் ஒருசில இயந்திரப் படகுகள் சேவையிலீடுபடுவதையும், உழவு இயந்திரங்களில் மக்கள் பயணம் செய்து நகர்புறங்களுக்கு சென்றுதமக்குத் தேவையான அத்தியாவசிய பொருட்களைக் கொள்வனவு செய்வதையும் காண முடிகின்றது.
 
-Flood water flows have been blocked by floodwater flowing over the main roads, including Pattuppu Periyaporadivu main road, Manmunai Kokkatticholai main road, Vavunathivu Batticaloa Nagar main road.
-
-However, only a few machine boats are serving for the most urgent needs, and people travel in plowing machinery and buy essential items needed.
-
-49123 people from 15900 families have been affected by the floods in the district.
-
-Of these, 37541 from 11890 families live in the homes of friends.To date, 7241 people from 2558 families have been housed in 56 public places.
+இந்நிலையில் மாவட்டத்தில் ஏற்பட்டுள்ள வெள்ள அனர்த்த்தினால் 15900 குடும்பங்களைச் சேர்ந்த 49123 பேர் பாதிக்கப்பட்டுள்ளனர்.
 
 ...
 
 [Data](articles/561ef2b7.json)
-
-[Extended Data](ext_articles/561ef2b7.ext.json)
 
 ---
 
@@ -2469,5 +2385,95 @@ The police have launched a wide investigation into the missing persons despite t
 [Data](articles/fd87c4f9.json)
 
 [Extended Data](ext_articles/fd87c4f9.ext.json)
+
+---
+
+### New secretaries appointed in two ministries
+
+*2024-11-28 07:34:51* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකක-නව-ලේකම්වරු-පත්-කෙරේ/11-413326) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Two new secretaries appointed: KR as Environment Ministry Secretary and Y.L. Shamnad Nawawi as Science and Technology Ministry Secretary by President Anura Kumara Dissanayake.
+
+🟩
+
+President Anura Kumara Dissanayake has been appointed two new Secretaries.
+
+Articles of the Appointment of Appointments
+
+Accordingly, KR as Secretary to the Ministry of Environment. Mr. Uduwala has been appointed.
+
+Mr. Y.L.shamed Nawawi has been appointed as the Secretary to the Ministry of Science and Technology.
+
+◼️
+
+[Data](articles/9055ecd7.json)
+
+[Extended Data](ext_articles/9055ecd7.ext.json)
+
+---
+
+### The Commission's attention to the Little Election
+
+*2024-11-28 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203823) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Elections Commission focuses on local government election date. Chairman RM VLR Ratnayake discusses potential hindrances. No specific campaign date yet. Supreme Court order expected to expedite preparation.
+
+🟩
+
+The Elections Commission is focused on the date of the local government elections.
+
+The Elections Commission (Elections) (Elections) (Elections) had been paid to the election yesterday (27) under the patronage of the Chairman of the Election Commission RM VLR Ratnayake.
+
+It has been discussed on the date of holding the local government election and discussed the use of the date of hindrance to the examination activities.
+
+There is no specific date for the campaign, and the Commission Chairman RM VLetthanayake said that in the coming days.
+
+The Chairman of the Election Commission added that the local government election should be prepared as soon as the Supreme Court order should be expedited.
+
+◼️
+
+[Data](articles/3d7c92ef.json)
+
+[Extended Data](ext_articles/3d7c92ef.ext.json)
+
+---
+
+### Restructuring Debt IMF expects the higher participation of creditors
+
+*2024-11-28 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-ණය-හිමියන්ගේ-ඉහළ-සහභාගීත්වය-IMF-අපේක්ෂා-කරයි/11-413325) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"IMF expects increased creditor participation in Sri Lanka's debt restructuring. Program aims to support debt sustainability and economic reform."
+
+
+
+This summary captures the main points about the IMF's expectations regarding creditor participation in Sri Lanka's debt restructuring efforts and the overall goals of the program.
+
+🟩
+
+The International Monetary Fund (IMF) has emphasized the general needs of creditors of creditors (IMF) for the restructuring operations of Sri Lanka.
+
+Among the International Monetary Fund (IMF), the International Monetary Fund (IMF), the International Monetary Fund (IMF) is Ms. Christophalina Georgivi, Managing Director of the International Monetary Fund..
+
+The Sri Lankan authorities have implemented the economic reform program with the assistance of the International Monetary Fund, and it is aimed at supporting the debt sustainability and external capability.
+
+SDR was approved by the 48-month comprehensive reforms program (approximately $ 3 billion) at the IMF executive in March 2023. Ms. Georgeee also stated that the effective initiative of the program, which has shown positive results, such as reconstructing the economy, reduced inflation and reserves.
+
+...
+
+[Data](articles/307a0a1d.json)
+
+[Extended Data](ext_articles/307a0a1d.ext.json)
 
 ---

@@ -1,52 +1,582 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 11:14:54**
+As of **2024-11-28 13:12:38**
 
 ## Newspaper Stats
 
-*Scraped **57,365** Articles*
+*Scraped **57,391** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 439
+dbsjeyarajcom | 440
 colombotelegraphcom | 582
 bbccomsinhala | 597
 islandlk | 3,443
-economynextcom | 3,490
+economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,414
-adaderanalk | 6,943
-tamilmirrorlk | 8,156
-virakesarilk | 9,345
-adaderanasinhalalk | 9,905
+adalk | 5,417
+adaderanalk | 6,948
+tamilmirrorlk | 8,161
+virakesarilk | 9,351
+adaderanasinhalalk | 9,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,347 (100.0%) of 57,365 articles have been extended.
+57,376 (100.0%) of 57,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### சீரற்ற காலநிலையால் பாதிக்கப்பட்டோரின் எண்ணிக்கை உயர்வு
+### இளைஞர்களிடையே அதிகரிக்கும் HIV தொற்று
+
+*2024-11-28 12:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களிடையே-அதிகரிக்கும்-HIV-தொற்று/175-347927) · `ta`
+
+அலைபேசிகள் மற்றும் புதிய தொழில்நுட்பங்கள் மூலம் நண்பர்களை கண்டறிதல் மற்றும் முறையான பாலியல் கல்வி இல்லாதது போன்ற காரணங்களால் இளைஞர்களிடையே HIV தொற்று அதிகரித்துள்ளதாக தேசிய பாலியல் நோய்கள் மற்றும் எய்ட்ஸ் கட்டுப்பாட்டுத் திட்டம் தெரிவித்துள்ளது.
+
+கடந்த ஆண்டில் பதிவான HIV தொற்றுக்களில் 15 சதவீதம் பேர் 15 முதல் 24 வயதுக்குட்பட்ட இளைஞர்கள் என அந்த திட்டத்தின் இயக்குநர், சமூக சுகாதார நிபுணர் வைத்தியர் விந்தியா குமரிபெலி தெரிவித்துள்ளார்.
+
+சுகாதார மேம்பாட்டு பணியகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட போதே அவர் இந்த கருத்துக்களை வெளியிட்டார்.
+
+இதற்கமைய,  “கடந்த ஆண்டு,  HIV வைரஸால் பாதிக்கப்பட்ட 694 புதிய நோயாளிகள் நம் நாட்டில் பதிவாகியுள்ளனர்.
+
+தரவுகளைப் பார்க்கும்போது, ​​புதிதாக HIV வைரஸால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை வேகமாக அதிகரித்து வருவது தெளிவாகிறது.
+
+குறிப்பாக இளைஞர்களிடையே கிடைக்கும் தரவுகளைப் பார்க்கும்போது, புதிய நோயாளிகள் ​​15% பேர் 15 முதல் 24 வயதுக்குட்பட்டவர்களாகும்.
+
+...
+
+[Data](articles/822b8604.json)
+
+---
+
+### ජනපති සහ ලෝක බැංකු සමූහයේ සභාපති අතර සාකච්ඡාවක්
+
+*2024-11-28 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203832) · `si`
+
+ශ්‍රී ලංකාවේ අනාගත සංවර්ධන ප්‍රමුඛතා පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ලෝක බැංකු සභාපති අජේ බංගා මහතා අතර ඊයේ (27) ජනාධිපති කාර්යාලයේදී මාර්ගගත තාක්ෂණය ඔස්සේ පැවැත්වුණි.
+
+නව රැකියා අවස්ථා නිර්මාණය කිරීම සහ ඉදිරි සංවර්ධන අභියෝග ජයගැනීමට ලෝක බැංකුවෙන් ශ්‍රී ලංකාවට ලබාදිය හැකි සහාය පිළිබඳව මෙහිදී අජේ බංගා මහතා අදහස් දැක්වූ අතර අධ්‍යාපන, සෞඛ්‍ය, සමාජ ආරක්ෂණය හා ආර්ථික සංවර්ධනය වැනි අංශවල නව වැඩසටහන් ක්‍රියාත්මක කිරීමට මූල්‍ය සහ තාක්‍ෂණික උපකාර සැපයීම කෙරෙහි ද සාකච්ඡා කෙරුණි.
+
+ආර්ථික ප්‍රතිපත්ති, මූල්‍ය, තරගකාරීත්වය, ආයෝජන, ආයතනික සංවර්ධනය සහ දිළිදුකම පිටුදැකීම ඇතුළු කාර්යයන් සඳහා මේ වනවිට ලෝක බැංකුව ශ්‍රී ලංකාවට සහාය ලබාදෙන අතර ඉදිරියේ දී කෘෂිකාර්මික ක්ෂේත්‍රයේ ප්‍රවර්ධනය, ජල කළමනාකරණය, ආරක්ෂාව, පාරිසරික ස්ථාවරභාවය, සමාජ සංවර්ධනය, යටිතල පහසුකම් වැඩිදියුණු කිරීම සහ ඩිජිටල් පරිවර්තනය දක්වා එම සහාය  ව්‍යාප්ත කිරීමට අපේක්ෂා කෙරේ.
+
+...
+
+[Data](articles/b035bbbc.json)
+
+---
+
+### Meeting in the office
+
+*2024-11-28 12:23:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமதர்-அலுவலகத்தில்-சந்திப்பு/175-347925) · `ta`
+
+Prime Minister Harini Amarasuriya met ambassadors from Egypt, Iran, Japan, and Vatican. Discussion focused on strengthening diplomatic relations and improving cooperation in various fields. Attendees included the Prime Minister's Secretary and senior representatives from embassies and government officials.
+
+🟩
+
+A meeting between Prime Minister Harini Amarasuriya and Ambassadors of several countries took place on Thursday (28).
+
+It is discussed here that strengthening diplomatic relations and improving cooperation in various fields.
+
+At this juncture, Egyptian Ambassador Adil Ibrahim, Iran's Ambassador Dr. Alirisha Delgosh, Japanese Ambassador Isamota Akiro and Vatican Ambassador Bishop Bryan Udaikwa met the Prime Minister.
+
+The event was attended by Prime Minister's Secretary Pradeep Saputhandri and senior representatives of the embassies, Sri Lankan government officials and many others.
+
+◼️
+
+[Data](articles/04fe2873.json)
+
+[Extended Data](ext_articles/04fe2873.ext.json)
+
+---
+
+### Leopard entered home in Viswamadu!
+
+*2024-11-28 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199901) · `ta`
+
+Leopard enters house in Viswamadu, Mullaitivu. Wildlife department rescues animal. Residents cautioned due to weather conditions.
+
+🟩
+
+There was an incident where a leopard entered a house in Viswamadu Ilangopuram, Mullaitivu.
+
+A leopard has suddenly entered the house of Vishwamadu Ilangopuram village belonging to the Pudukkudiyiruppu Divisional Secretariat Division of Mullaitivu.
+
+Subsequently, the Department of Wildlife Department has rescued the leopard after the Department of Wildlife has been informed.
+
+It is noteworthy that residents of the forest are advised to be very careful due to the prevailing inclement weather.
+
+◼️
+
+[Data](articles/0ec1519b.json)
+
+[Extended Data](ext_articles/0ec1519b.ext.json)
+
+---
+
+### Traffic movement on A-9 road resumes after floods
+
+*2024-11-28 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103834/traffic-movement-on-a-9-road-resumes-after-floods) · `en`
+
+The A-9 main road to Jaffna which was closed at Omanthai due to floods has now been reopened for traffic movement, police said.
+
+Police had announced the closure of the road for vehicles at Omanthai yesterday as the area near Nochchimoddai Bridge and Omanthai Town, within the Omanthai Police Division, had been completely inundated.
+
+As a result, the police have announced that vehicles can now travel on the A-9 road as per usual.
+
+◼️
+
+[Data](articles/7a5bebb6.json)
+
+[Extended Data](ext_articles/7a5bebb6.ext.json)
+
+---
+
+### 44 thousand people in Jaffna floods
+
+*2024-11-28 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199911) · `ta`
+
+Jaffna flood update: 44,346 affected, 6,031 sheltered in 68 centers.
+
+🟩
+
+As of the inclement weather in Jaffna, 44,346 people from 13,117 families have been affected by the status quo today (28).
+
+6,031 people from 1,700 families have been housed in 68 security centers.
+
+◼️
+
+[Data](articles/463b1bce.json)
+
+[Extended Data](ext_articles/463b1bce.ext.json)
+
+---
+
+### To further strengthen relations of Chinese legal corporations - Chinese Ambassador urges Speaker
+
+*2024-11-28 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199909) · `ta`
+
+Chinese Ambassador Ashoka Ranwala expects to form Sri Lanka-China Parliamentary Friendship Association. He aims to strengthen ties between legislative bodies of both nations. Key areas of focus: agriculture, economic development, water management, and foreign investment cooperation.
+
+🟩
+
+Chinese Ambassador Ashoka Ranwala has told Ranwala that he is expecting to establish the Sri Lanka -Chinese Parliamentary Friendship Association in the new Parliament and further strengthen the relations of the Sri Lanka -Chinese legislative organizations.
+
+The meeting between Chinese Ambassador to Sri Lanka Kei Senhong and Speaker Dr. Asoka Ranwala recently took place in Parliament.
+
+Chairman of the Chinese National People's Congress (Speaker of the Chinese Parliament) Savo Leezi congratulated the Chinese Ambassador to the Speaker.
+
+The new Speaker, who recalled the long -term cooperation between Sri Lanka and China, said he would expect to further strengthen the ties between President Anura Kumara Dissanayake, led by President Anura Kumara Dissanayake.
+
+The Chinese Ambassador said that the two countries should further strengthen the relations of the two countries' legislative institutions and that the new parliament is looking to establish the Sri Lanka -Chinese Parliamentary Alliance.
+
+...
+
+[Data](articles/f3719be3.json)
+
+[Extended Data](ext_articles/f3719be3.ext.json)
+
+---
+
+### 12 disaster deaths
+
+*2024-11-28 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203831) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"12 disaster-related deaths reported. 88,894 individuals from 98,634 families affected across 175 divisions in 21 districts. 82 houses completely destroyed, 1,465 partially damaged. 26,625 persons from 8,358 families displaced."
+
+🟩
+
+The Disaster Management Center (DMC) says that 12 deaths have been reported so far due to the disaster situation in the country.
+
+The Disaster Management Center said that at 88,894 persons belonging to 90,694 persons belonging to 98,634 families in 175 Divisional Secretariat Divisions in 21 districts have been affected by 08 am.
+
+It was reported that 82 houses were completely damaged and 1,465 houses were partially damaged.
+
+The Disaster Management Center (DMC) stated that 26,625 persons belonging to 8,358 families have been retained.
+
+◼️
+
+[Data](articles/922fc9cc.json)
+
+[Extended Data](ext_articles/922fc9cc.ext.json)
+
+---
+
+### Law College entrance exam and another exam postponed
+
+*2024-11-28 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103833/law-college-entrance-exam-and-another-exam-postponed) · `en`
+
+The Examinations Department has announced the postponement of the 2024 Sri Lanka Law College General Entrance Examination, originally scheduled for December, due to the prevailing adverse weather conditions in the country.
+
+The Commissioner General of Examinations, Amith Jayasundara made this announcement during a special press briefing held today (28).
+
+He also mentioned that the First Efficiency Bar Examination for Senior Statisticians / Statisticians of the Department of Census and Statistics – 2016 (2024) will not be held on the originally scheduled dates.
+
+Both examinations were set to take place on December 1 and 2, but they will now be rescheduled.
+
+...
+
+[Data](articles/6c67657e.json)
+
+[Extended Data](ext_articles/6c67657e.ext.json)
+
+---
+
+### HIV cases on the rise among Sri Lankan youth – health expert
+
+*2024-11-28 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103832/hiv-cases-on-the-rise-among-sri-lankan-youth-health-expert) · `en`
+
+The National STD/AIDS Control Programme (NSACP) of the Ministry of Health says that HIV infections among the country’s youth has increased owing to factors such as the use of mobile phones and modern technology to find partners, as well as the lack of proper sex education.
+
+The Director of NSACP and Specialist in Community Medicine, Dr. Vindya Kumarapeli, stated that 15% of the HIV cases reported last year were young people aged between 15 and 24 years.
+
+Speaking at a press conference held at the Health Promotion Bureau, Dr Kumarapeli emphasized that the number of new HVI-infected patients is rapidly rising, with 694 new cases reported within the past year.
+
+...
+
+[Data](articles/c59b36a7.json)
+
+[Extended Data](ext_articles/c59b36a7.ext.json)
+
+---
+
+### Spouse
+
+*2024-11-28 11:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனைவியின்-வாயை-வெட்டிய-கணவன்/76-347920) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Husband arrested for cutting wife with paper cutter at police station. Wife hospitalized after attack. Police investigating threats and nude photos. Incident occurred on 26th after wife filed complaint on 24th.
+
+🟩
+
+When the two sides were summoned to the police station to investigate the wife's complaint against the husband, the incident took place at the Mawanella police on the 26th of this month.
+
+Hidden Paper Cutter has cut off 21 -year -old wife. The victim was taken to the Mawanella Hospital and the 39 -year -old husband has been arrested by the police.
+
+Investigations have revealed that the young wife has been sold to the outskirts for some time.
+
+On the 24th, the wife has lodged a complaint with the police after a dispute between the two.
+
+Police said that the wife had lodged a complaint against the husband and that it was investigated.
+
+Police have received information that the husband, who holds his wife's naked photos on the cell phone, has threatened his wife and sold it to various persons.
+
+The two have been invited to the police to investigate the complaint and the complaint filed by the wife Mawanella police against her husband.
+
+...
+
+[Data](articles/a4a4a786.json)
+
+[Extended Data](ext_articles/a4a4a786.ext.json)
+
+---
+
+### 12 killed by random weather: more than 3 lakhs
+
+*2024-11-28 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199902) · `ta`
+
+Inclement weather kills 12, affects 335,155 people across 23 districts. 95 homes destroyed, 1,708 damaged. 89,007 displaced. Heavy rains recorded in Matale (Eldaduwa) at 132.75 mm.
+
+🟩
+
+Due to inclement weather in the country, 23 districts have been affected and 12 people have been killed in disasters, the Disaster Management Center said.
+
+3 lakhs 35 thousand 155 people from 99 thousand 876 families have been affected by rain and floods, the Disaster Management Center said.
+
+At least 17 people were injured in the disaster caused by inclement weather and 2 missing.
+
+95 houses have been completely damaged and 1708 houses have been partially damaged.
+
+89,007 people affected by inclement weather have been housed in the houses and security camps of relatives.
+
+Meanwhile, the highest rainfall is Matale (Elkaduwa) - 132.75 millimeters.
+
+◼️
+
+[Data](articles/f90d1128.json)
+
+[Extended Data](ext_articles/f90d1128.ext.json)
+
+---
+
+### 2023 කාන්තා HIV ආසාධිතයින්ට සිදුවූ දේ
+
+*2024-11-28 11:32:06* · [`adalk`](https://www.ada.lk/breaking_news/2023-කාන්තා-HIV-ආසාධිතයින්ට-සිදුවූ-දේ/11-413331) · `si`
+
+මෙරට තුළ එච්.අයි.වී. ආසාදනය පිරිමින් අතර ශීඝ්‍රයෙන් ඉහළ යමින් පවතින බවත්, ඒ අනුව 2023 වසරේ 694ක් ලෙස වාර්තා වූ නව ආසාදිතයන්ගෙන් 88%ක් පිරිමි පුද්ගලයන් වන බවත් ජාතික ලිංගාශ්‍රිත රෝග සහ ඒඩ්ස් මර්දන වැඩසටහන අවධාරණය කරයි.
+
+එළඹෙන 01වැනිදාට යෙදෙන ලෝක ඒඩ්ස් දිනය නිමිත්තෙන් සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේදී ඊයේ (27දා) පැවති මාධ්‍ය හමුවට එක්වෙමින් එහි අධ්‍යක්ෂ, ප්‍රජා සෞඛ්‍ය විශේෂඥ වින්ද්‍යා කුමාරපේළි මහත්මිය සඳහන් කර සිටියේ මේ වන විට එච්.අයි.වී. ආසාදිත පිරිමින් 7කට කාන්තාවන් 1ක් යන අගයක පවතින බවයි.
+
+එසේම පසුගිය වසරේදී වාර්තා වූ නව නව එච්අයිවී ආසාදිතයන්ගෙන් 15%ක් වයස අවුරුදු 15-24ත් අතර වයස් කාණ්ඩයේ සිටින යෞවන යෞවනයන් වන බවද ඇය පෙන්වා දුන්නාය.
+
+ජංගම දුරකථන ඇතුළු නවීන තාක්ෂණය හරහා සහකරුවන් සොයා ගැනීම, නිසි ලිංගික අධ්‍යාපනයක් නොමැතිකම, මත්ද්‍රව්‍ය භාවිතය යනාදිය මීට ප්‍රධානතම හේතූන් වී ඇති බව සඳහන්ය.
+
+මේ අතර වාර්තා වන නව එච්.අයි.වී. ආසාදිතයන්ගෙන් වැඩි සංඛ්‍යාවක් කොළඹ, ගම්පහ, කළුතර, ගාල්ල, මාතර, හම්බන්තොට සහ පුත්තලම යන දිස්ත්‍රික්කවලින් හමුව තිබේ.
+
+...
+
+[Data](articles/79edbb1b.json)
+
+---
+
+### Donald Trump's Cabinet
+
+*2024-11-28 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199906) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Donald Trump investigates bombings targeting his cabinet nominees. Threats made against officials chosen for 9 departments, including Defense & Agriculture. Death toll reported. Legal team ensures safety. Elisy Stewenick, UN Ambassador, claims family under attack.
+
+🟩
+
+Donald Trump has launched an investigation into the bomb blasts targeting those who have elected to his cabinet.
+
+Officials of the UPI have said that bomb blasts have been issued against those who have been selected to head 9 departments, including the Department of Defense, and the Department of Agriculture, and have been threatened with murder for the United Nations.
+
+Trump's converter Caroline Liawit said that the death toll of the US has been violently violent for the lives of those who have been appointed by Trump and with them.
+
+He noted that the Legal Affairs Division immediately acted to ensure their safety.
+
+He said that as President Trump is a role model for us, threats will not prevent us.
+
+Elisy Stewenick, who has been appointed US Ambassador to the United Nations, has stated that his family is facing bombardment.
+
+◼️
+
+[Data](articles/5f331eed.json)
+
+[Extended Data](ext_articles/5f331eed.ext.json)
+
+---
+
+### Sri Lanka welcomes Israel-Lebanon ceasefire
+
+*2024-11-28 11:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-welcomes-israel-lebanon-ceasefire-151992/) · `en`
+
+ECONOMYNEXT – Sri Lanka has welcomed the announcement of a ceasefire between Israel and Lebanon, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+“We remain hopeful that the ceasefire will pave the way for enduring peace and stability in Lebanon and in the region,” a ministry statement said.
+
+More than 3,500 citizens of Lebanon have been killed in Israeli strikes, media reported. While over a million have been forced to flee by Israeli military action.
+
+Thousands have been wounded and the homes of tens of thousands of others have been destroyed, BBC said.
+
+◼️
+
+[Data](articles/e1dcb4d6.json)
+
+[Extended Data](ext_articles/e1dcb4d6.ext.json)
+
+---
+
+### Traffic on the A-9 is restored
+
+*2024-11-28 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203829) · `si`
+
+A-9 traffic restored after weather restrictions lifted. Police statement issued due to adverse conditions near Omanthai. Vehicles can now travel normally.
+
+🟩
+
+Traffic on the Jaffna A-9 road, which was restricted due to inclement weather, has recovered.
+
+The police launched a statement due to the adverse weather conditions that have been affected by the islandhave, and the water near the town of Omanthai police division has been completely subjected to water.
+
+Accordingly, the vehicles traveling along the A-9 can also travel as usual.
+
+◼️
+
+[Data](articles/5094e426.json)
+
+[Extended Data](ext_articles/5094e426.ext.json)
+
+---
+
+### Moody’s places Sri Lanka’s rating under review for upgrade after bond-exchange offer
+
+*2024-11-28 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103831/moodys-places-sri-lankas-rating-under-review-for-upgrade-after-bond-exchange-offer) · `en`
+
+Moody’s has placed Sri Lanka’s Ca long-term foreign currency rating on review for an upgrade, the credit ratings agency said on Wednesday, following the government’s bond-exchange offer that aims to complete the restructuring of international bonds.
+
+The bond swap, launched on Tuesday, is an important part of the island nation’s ongoing $12.55 billion debt restructuring and its efforts to stabilize the economy.
+
+The country had defaulted on its foreign debt for the first time in May 2022, reeling under a severe crisis amid a heavy debt burden and declining foreign exchange reserves.
+
+Moody’s also assigned a provisional Caa1 credit rating to Sri Lanka’s new US dollar-denominated debt issuances, which are part of its bond-exchange offer.
+
+◼️
+
+[Data](articles/bd735aeb.json)
+
+[Extended Data](ext_articles/bd735aeb.ext.json)
+
+---
+
+### New details of the date of the exams
+
+*2024-11-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-நடத்தப்படும்-திகதிகளின்-புதிய-விபரம்/175-347919) · `ta`
+
+GCE A/L exams postponed to Dec 3, resume Dec 4. No exams Nov 30, Dec 2, 3. Rescheduled: Mon Dec 2 to Dec 30, Thu Dec 31. #ExamsUpdate
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundera said that the Department of Examinations has decided to postpone the 2024 GCE Advanced Level Examination till December 3 due to inclement weather.
+
+The Commissioner General has announced that the exams will be resumed on December 4.
+
+It has been decided not to conduct exams on November 30, December 2 and December 3.
+
+#Examination on Monday December 2nd on December 30th Monday
+
+The exam will be held on Thursday, September 3, December 31st.
+
+◼️
+
+[Data](articles/2e0d5fcc.json)
+
+[Extended Data](ext_articles/2e0d5fcc.ext.json)
+
+---
+
+### பரீட்சைகள் நடத்தப்படும் திகதிகளின் புதிய விபரம்
+
+*2024-11-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பரீட்சைகள்-நடத்தப்படும்-திகதிகளின்-புதிய-விபரம்/150-347919) · `ta`
+
+நாடளாவிய ரீதியில் நிலவும் சீரற்ற காலநிலை காரணமாக 2024 க.பொ.த உயர்தர (உ/த) பரீட்சைகளை டிசம்பர் 3 ஆம் திகதி வரை ஒத்திவைக்க பரீட்சைகள் திணைக்களம் தீர்மானித்துள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+ப​ரீட்சைகள் டிசம்பர் 4ம் திகதி மீண்டும் ஆரம்பிக்கப்படும் என்றும் ஆணையாளர் நாயகம் அறிவித்துள்ளார்.
+
+நவம்பர் 30, டிசம்பர் 2, டிசம்பர் 3 ஆகிய திகதிகளில் பரீட்சைகளை நடத்துவதில்லை என முடிவு செய்யப்பட்டுள்ளது.
+
+#டிசெம்பர் 2ஆம் திகதி திங்கட்கிழமை நடத்தப்படாத பரீட்சை டிசெம்பர் 30ஆம் திகதி திங்கட்கிழமையும்
+
+#டி​செம்பர் 3ஆம் திகதி வியாழக்கிழமை நடத்தப்படாத பரீட்சை டிசெம்பர் 31ஆம் திகதி செவ்வாய்கிழமையும் நடத்தப்படும்.
+
+◼️
+
+[Data](articles/d4e4b6f1.json)
+
+---
+
+### Six people have been recovered in the floods in the Ambara
+
+*2024-11-28 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199898) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Floods in Ampara: 6 recovered, 4 students' bodies found. Rescue ops paused due to weather. STF & volunteers searching. 1 student's textbook seized. 11 people in plowing machine crash, 6 students missing (ages 12-16)."
+
+🟩
+
+The bodies of 4 students, including 6 students, who were missing in a flooding machine near the Karadivu Police Division of the Karadivu Police Division, Ampara District, were recovered on Wednesday (27).Has been recovered.
+
+Rescue operations were suspended yesterday (27).
+
+The bodies of the four were rescued by the rescue team. It has also been reported that the two bodies may be the bodies of the plowing machine and the assistant. Further investigations into the bodies have begun.
+
+Previously, the bodies of Madrasa students who had been swept away in flood water were recovered. Four bodies have been recovered until Wednesday (27) evening.
+
+In particular, the Army Special Task Force (STF) has participated in the complaint and the volunteer youth group is involved.
+
+Until now, four bodies have been recovered and taken to the Samanthurai Resource Hospital.
+
+It was later prepared to carry out rescue operations the next day due to inclement weather and darkness.
+
+...
+
+[Data](articles/4a2f8d6f.json)
+
+[Extended Data](ext_articles/4a2f8d6f.ext.json)
+
+---
+
+### Law College Entrance Exam
+
+*2024-11-28 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203828) · `si`
+
+Commonwealth Vidyalaya 2024 postponed due to weather. Bar Examination for Senior Statistics and Statistics 2016/24 also cancelled. New dates to be announced soon.
+
+🟩
+
+The Department of Examinations has decided to postpone the Commonwealth Vidyalaya (2024) to be postponed due to the inclement weather conditions in the country.
+
+Commissioner General of Examinations Amit Jayasundara made this statement at a special press conference held today.
+
+He further stated that the Bar Examination for Senior Statistics and Statistics (2016/24) will not be held on the respective days.
+
+The two examinations were prepared at December 01 and 02, but today announced that the examination would not be heard in those days.
+
+"It is necessary to inform two other exams that have been used in 1st and 02."
+
+"The First Examination Commissioner of Sri Lanka Legal College Common Examination 2024. We have organized the necessary steps to conduct this exam in December 1st. "
+
+"The other examination is the Bread Examination for Senior Statistics and Statistics Officers of the Department of Census and Statistics 2016/24."
+
+...
+
+[Data](articles/0845f163.json)
+
+[Extended Data](ext_articles/0845f163.ext.json)
+
+---
+
+### Ambeon Holdings Plc buys 7.63-pct of Seylan Bank
+
+*2024-11-28 11:05:00* · [`economynextcom`](https://economynext.com/ambeon-holdings-plc-buys-7-63-pct-of-seylan-bank-190525/) · `en`
+
+ECONOMYNEXT- Ambeon Holdings Plc said it bought 23.274 million voting shares of Seylan Bank Plc which was a 7.63 percent stake.
+
+The shares were paid between 58-60 rupees a share, the Ambeon Capital said in a stock exchange filing describing it as a strategic investment.
+
+Ambeon Holdings is a subsidiary of Ambeon Capital Plc. (Colombo/Nov28/2024)
+
+◼️
+
+[Data](articles/0c768399.json)
+
+[Extended Data](ext_articles/0c768399.ext.json)
+
+---
+
+### The number of victims of random weather
 
 *2024-11-28 11:01:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-பாதிக்கப்பட்டோரின்-எண்ணிக்கை-உயர்வு/175-347918) · `ta`
 
-தென்மேற்கு வங்கக் கடலில் ஏற்பட்ட ஆழ்ந்த காற்றழுத்த தாழ்வு நிலை காரணமாக ஏற்பட்ட மோசமான வானிலையால் ஏற்பட்ட உயிரிழப்புகள் 6 ஆக உயர்ந்துள்ளது, காயமடைந்தோர் மற்றும் காணாமல் போனவர்களின் எண்ணிக்கை முறையே 17 மற்றும் 6 ஆக அதிகரித்துள்ளது என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Weather disaster summary: 6 dead, 17 injured, 6 missing in SW Bengal Sea. 330k affected, 16.5k displaced. Strong winds, floods expected in northern regions. Public advised to take precautions.
 
-புத்தளம், பதுளை மற்றும் அம்பாறை மாவட்டங்களில் இந்த மரணங்கள் பதிவாகியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-98,635 குடும்பங்களைச் சேர்ந்த மொத்தம் 330,894 நபர்கள் பாதிக்கப்பட்டுள்ளனர், அதே நேரத்தில் 5,305 குடும்பங்களைச் சேர்ந்த 16,553 பேர் நாடு முழுவதும் 183 பாதுகாப்பான இடங்களுக்கு இடம்பெயர்ந்துள்ளனர்.
+According to the Department of Meteorology, the number of casualties in the Southwest Bengal Sea has risen to 6, and the number of injured and missing persons has increased to 17 and 6 respectively.
 
-21 மாவட்டங்களில் 267 பிரதேச செயலகப் பிரிவுகளில் பலத்த காற்று, வெள்ளம், மரங்கள் சரிவு மற்றும் மண்சரிவு காரணமாக மக்கள் பாதிக்கப்பட்டுள்ளனர்.
+The deaths have been reported in Puttalam, Badulla and Ampara districts.
+
+A total of 330,894 persons belonging to 98,635 families have been affected, while 16,553 from 5,305 families have been displaced to 183 safe places across the country.
+
+In 267 Divisional Secretariats in 21 districts, people have been affected by strong winds, floods, trees and landslides.
+
+As of 2:30 am in the Southwest Bengal Bay, the deep winds are about 100 kilometers northeast of Trincomalee.. It is expected to move slowly towards the north-northwest, approaching the east coast of Sri Lanka and strengthening a hurricane.
+
+Under the influence of this weather system, the sky is cloudy in most parts of Sri Lanka. Heavy rains and strong winds are expected in the Northern Province and Trincomalee district.
 
 ...
 
 [Data](articles/9348f992.json)
+
+[Extended Data](ext_articles/9348f992.ext.json)
 
 ---
 
@@ -146,77 +676,149 @@ Sri Lanka PA and Jaffna District Coordinator Geetanath Kaslingam has accused the
 
 ---
 
-### உழவு இயந்திரம் விபத்து சம்பவம் ; 06 சடலங்கள் மீட்பு
+### Plowing machine accident incident;06 Bodies Recovery
 
 *2024-11-28 10:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உழவு-இயந்திரம்-விபத்து-சம்பவம்-06-சடலங்கள்-மீட்பு/150-347912) · `ta`
 
-வெள்ள நீரில் அடித்துச் செல்லப்பட்ட மத்ரஸா மாணவர்களின் சடலங்கள் மீட்கப்பட்டு வருகின்றன. கடந்த புதன்கிழமை (27) மாலை வரை  04 சடலங்கள் மீட்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+Here's a summary of the text in approximately 200 characters:
 
-இத்தேடுதலில் மேலதிகமாக இராணுவம் விசேட அதிரடிப்படை பொலிஸார்  பங்கேற்றுள்ளதுடன் தன்னார்வ இளைஞர் குழுவினரும் ஈடுபட்டுள்ளனர். அத்துடன் வெள்ளத்தினால் அடித்து செல்லப்பட்ட உழவு இயந்திரமும் மீட்கப்பட்டுள்ளன.தற்போது  வரை 04 ஜனாசாக்கள் மீட்கப்பட்டு சம்மாந்துறை ஆதார வைத்தியசாலைக்கு கொண்டு செல்லபட்டிருந்தன. பின்னர் சீரற்ற காலநிலை மற்றும் இருள் காரணமாக மறுநாள் மீட்புப்பணியினை மேற்கொள்ள தயார் செய்யப்பட்டிருந்தது.
+
+
+Madrasa students swept away by flood waters. Four bodies recovered so far. Army STF involved in rescue efforts. Three students rescued alive. Rescue team searching for remaining missing students. Driver and companion of plowing machine missing. Ongoing recovery operations.
+
+🟩
+
+The bodies of Madrasa students who have been swept away in flood water are being recovered. Four bodies have been recovered till Wednesday (27) evening.
+
+In addition, the Army Special Task Force (STF) participated in the complaint and a volunteer youth group involved.. Until now, four janasas have been rescued and taken to the Samanthurai Resource Hospital.. It was later prepared to carry out rescue operations the next day due to inclement weather and darkness.
+
+The rescued students are also rescued by Mohammed Jessil Mohammed Sadir (age-16), Abnan, Baruk Mohammed Nasik (age-15) and Sahran (age-15) and the rescue crews are searching for the students of Dasrib and Yaseen.According to the orders of Safir Ahmed, relatives have been handed over to the relatives after the death of Divisional Death Investigation Officer Abdul Hamid al -Jawahir.
+
+Meanwhile, the school's book by a student named Dasrif, who went missing, has now been seized by the rescue team.
 
 ...
 
 [Data](articles/c6f6031e.json)
 
+[Extended Data](ext_articles/c6f6031e.ext.json)
+
 ---
 
-### மன்னார் மாவட்டத்தில் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை 61 ஆயிரத்தை கடந்தது !
+### 2024 A/L Exam to recommence on Dec. 04
 
-*2024-11-28 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199895) · `ta`
+*2024-11-28 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103830/2024-al-exam-to-recommence-on-dec-04) · `en`
 
-மன்னார் மாவட்டத்தில் தொடர்ச்சியாக பெய்து வந்த கடும் மழை மற்றும் அதனால் ஏற்பட்ட வெள்ளம் காரணமாக நேற்று புதன்கிழமை (27) மாலை 6 மணி வரை 16 ஆயிரத்து 774 குடும்பங்களைச் சேர்ந்த 61 ஆயிரத்து 674 நபர்கள் பாதிக்கப்பட்டுள்ளதாக மன்னார் மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு (DMC) விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+The Examinations Department has announced that the 2024 G.C.E. Advanced Level Examination has been temporarily postponed until December 03 due to the prevailing adverse weather conditions.
 
-மாவட்டத்தில் 73 தாற்காலிக பாதுகாப்பு நிலையங்கள் அமைக்கப்பட்டுள்ளதுடன் குறித்த நிலையங்களில் 2 ஆயிரத்து 845 குடும்பங்களைச் சேர்ந்த 9 ஆயிரத்து 156 நபர்கள் தங்க வைக்கப்பட்டுள்ளதாகவும் குறித்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+Speaking at a special press briefing this morning (28), the Commissioner General of Examinations, Amith Jayasundara, confirmed that this decision was made in light of the ongoing weather-related disruptions.
 
-இதேவேளை மழை வெள்ளம் காரணமாக கடுமையாக பாதிக்கப் பட்டும்,நலன்புரி நிலையங்களுக்கு செல்லாது வீடுகளிலும்,உறவினர்களின் வீடுகளிலும் உள்ள மக்களுக்கு எவ்வித உதவிகள் கிடைக்கவில்லை என பாதிக்கப்பட்டவர்கள் தெரிவித்தனர்.
+Furthermore, he stated that the examination will recommence on December 4 (Wednesday).
 
-நலன்புரி நிலையங்களுக்கு வருகிறவர்களுக்கு மாத்திரம் உதவிகள் வழங்கப்படும் என உரிய அதிகாரிகள் தெரிவித்து வருகின்றனர்.
+As a result, the A/L examinations will not be conducted on November 30, December 2, and December 3.
+
+On November 26, the Examinations Department had previously announced the temporary suspension of the ongoing 2024 G.C.E. Advanced Level Examination.
+
+It was previously decided not to hold the examinations on November 27, 28, and 29 due to the adverse weather.
+
+The Examination Commissioner further said that the decision was taken in the best interest of the affected students, despite the weather conditions subsiding.
 
 ...
 
-[Data](articles/476da671.json)
+[Data](articles/c1549405.json)
+
+[Extended Data](ext_articles/c1549405.ext.json)
 
 ---
 
-### උසස් පෙළ විභාගය නැවත ආරම්භවීම දෙසැම්බර් 4 වන දා
+### The number of victims in Mannar district crossed 61 thousand!
+
+*2024-11-28 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199895) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Heavy rains flood Mannar district, affecting 61,674 people from 16,774 families. 9,156 displaced in 73 temporary centers. Many victims stay with relatives, denied aid. Authorities assist only those at welfare centers. Relief demanded for all affected.
+
+🟩
+
+The Mannar District Disaster Management Division (DMC) said that 61 thousand 674 persons belonging to 16 thousand 774 families have been affected by the heavy rains and floods in Mannar district on Wednesday (27).
+
+The report states that 73 temporary security centers have been set up in the district and 9 thousand 156 persons belonging to 2 thousand 845 families have been housed.
+
+Meanwhile, the victims said that the people in the houses and the houses of relatives did not get any help in the floods and did not go to welfare centers.
+
+The relevant authorities have said that only those who come to welfare centers will be provided with assistance.
+
+However, considering the crisis and even the stool problems at welfare centers, many affected people live in their homes and friends' homes without going to welfare centers.
+
+Therefore, considering the welfare of these people, the demand for the authorities to take steps to provide relief to all the victims.
+
+◼️
+
+[Data](articles/476da671.json)
+
+[Extended Data](ext_articles/476da671.ext.json)
+
+---
+
+### Restoring Advanced Level Examination on December 4th
 
 *2024-11-28 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203827) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් උසස් පෙළ විභාගය තවත් දින තුනක් නොපැවැත්වීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසා සිටියේ, ඒ අනුව 2024 උසස් පෙළ විභාගය දෙසැම්බර් 4 වන බදාදා දින නැවත ආරම්භ කරන බවය.
 
-ඒ අනුව නොවැම්බර් 30, දෙසැම්බර් 2, සහ දෙසැම්බර් 3 වනදා යන දිනයන්හි දීද උසස් පෙළ විභාගය නොපැවැත්වීමට විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
 
-රට තුළ පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් මීට පෙර 27, 28 හා 29 යන තෙදින උසස් පෙළ නොපැවැත්වීමට තීරණය කර තිබුණි.
+GCE A/L exams rescheduled due to bad weather. Exams from Nov 27-3 cancelled. Resume Dec 4. New schedule: Chem, Sinhala, Tamil, English on Dec 4. General public test on Dec 7.
 
-මේ වනවිට අයහපත් කාලගුණ තත්ත්වය පහව යමින් තිබුණ ද බලපෑමට ලක්වූ සිසුන් වෙනුවෙන් මෙම තීරණය ගත් බව විභාග කොමසාරිස්වරයා වැඩිදුරටත් පැවසීය.
+🟩
 
-ඒ අනුව දෙසැම්බර් මස 4 වන දිනට කාලසටහනේ නියමිත විෂයන් ඒ අයුරින්ම ආරම්භ වන බව ද පැවසු විභාග කොමසාරිස්වරයා වැඩිදුරටත් මෙසේ කියා සිටියේය.
+The Department of Examinations has decided not to leave the GCE A / L examination due to the inclement weather.
+
+Commissioner General of Examinations, Amitith Jayasundara said that the 2024 A / L examination will be resumed on Wednesday, December 4.
+
+Accordingly, the Department of Examinations has decided not to leave the GCE A / L examination at November 30, December 2, December 2, and December 3.
+
+Due to the inclement weather in the country, the A / L has the A / L Level had not been held on 27, 28 and 29.
+
+The Commissioner General of Examinations added that although the inclement weather has been reduced, this decision has been taken on behalf of the affected students.
+
+Accordingly, the Commissioner of Examinations said that the subjects of the schedule will commence on December 4.
 
 ...
 
 [Data](articles/2e845093.json)
 
+[Extended Data](ext_articles/2e845093.ext.json)
+
 ---
 
-### கிட்டங்கி வீதி - மாவடிப்பள்ளி வீதி நீரில் மூழ்கியது : போக்குவரத்து பாதிப்பு !
+### Kidangi Street - Mavadipalli Street submerged: Traffic impact!
 
 *2024-11-28 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199893) · `ta`
 
-அம்பாறை மாவட்டத்தில் ஏற்பட்டுள்ள சீரற்ற வானிலையால் ஏற்பட்ட வெள்ள நீர் பரவலால் கிட்டங்கி மற்றும் மாவடிப்பள்ளி வீதி நீரில் மூழ்கியுள்ளது.
+Ampara district floods submerge streets bridges disrupt traffic affect agriculture
 
-அடைமழை காரணமாக நாவிதன்வெளி பிரதேச செயலகப் பிரிவிலுள்ள கல்லோயா குடியேற்ற கிராமங்களையும் கல்முனை நகரையும் இணைக்கும் கிட்டங்கி வீதியின் மேலாக வெள்ள நீர்பாய ஆரம்பித்துள்ளதுடன்  இவ்வீதியூடாக போக்குவரத்து மேற்கொள்வதில் பிரதேச மக்கள் சிரமங்களை எதிர்நோக்கி வருகின்றனர்.
+🟩
 
-மேலும் சம்மாந்துறை பிரதேச செயலகத்தையும் காரைதீவு பிரதேச செயலகத்தையும் இணைக்கின்ற மாவடிப்பள்ளி பாலமும் வெள்ள நீரில் மூழ்கியுள்ளது. இதனூடாக போக்குவரத்து செய்யும் மக்கள் பெரும் சிரமங்களை எதிர்நோக்குகின்றனர்.
+Kange and Mavadipalli Street have been submerged due to floodwaters due to inclement weather in Ampara district.
 
-இவ்விரு பகுதிகளின் ஊடாக மக்கள் போக்குவரத்தினை மேற்கொள்ள இலங்கை கடற்படை, வீதி அபிவிருத்தி அதிகார சபை மற்றும் பிரதேச செயலகம் ஆகியன இணைந்து நடவடிக்கைகளை மேற்கொண்டுள்ளன.
+Due to the rains, the flood waters have begun over the Kalloya settlement villages in the Navithanveli Divisional Secretariat Division and Kalmunai Nagar.
 
-தினமும் விவசாயிகள், அலுவலக உத்தியோகத்தர்கள் , பொதுமக்களென ஆயிரக்கணக்கானவர்கள் நாளாந்தம் பயணிக்கும் இவ்வீதியில் வெள்ள நீர் பரவி வருவதால் இச் சிரம நிலை ஏற்பட்டுள்ளது.
+The Mavadipalli Bridge, which connects the Samanthurai Divisional Secretariat and the Karativu Divisional Secretariat, has been submerged in flood water. Through this, people who are transported are facing great difficulties.
+
+The Sri Lanka Navy, the Road Development Authority and the Divisional Secretariat have taken action to carry out people's transport through these two areas.
+
+Thousands of farmers, office officers and the public are traveling every day, causing this difficulty.
+
+Meanwhile, area farmers are concerned that the flood waters of the field have been affected by the floods in the field due to heavy rains in some parts of the Ampara district.
 
 ...
 
 [Data](articles/85d14799.json)
+
+[Extended Data](ext_articles/85d14799.ext.json)
 
 ---
 
@@ -246,41 +848,61 @@ The two countries also collaborate in many areas including carbon credits, healt
 
 ---
 
-### පයාගල 'පෙට්ටි මල්ලි' අත්අඩංගුවට
+### Payagala 'Box Malli arrested
 
 *2024-11-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203826) · `si`
 
-පයාගල හා ප්‍රදේශ රැසකටම හෙරොයින් ජාවාරමේ නිරත වූ කොස්හේන ප්‍රදේශයේ පදිංචි දිසානායකගේ චමින්ද නොහොත් 'පෙට්ටි මල්ලි' පයාගල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Arrest made in Payagala: Dissanayake Chaminda detained during search operation. Heroin seized, suspect remanded previously. Family members also arrested. Investigation ongoing into drug trafficking network.
 
-පයාගල පොලීසියට ලද තොරතුරක් මත පයාගල කොස්හේන ප්‍රදේශයේ ඊයේ (28) සිදුකළ සෝදිසි මෙහෙයුමකදී මෙම සැකකරු අත්අඩගුවට ගෙන ඇත.
+🟩
 
-පයාගල කොස්හේන ප්‍රදේශයේ සැකකරුගේ නිවස පිටුපස ලදු කැලෑවක හෙරොයින් ජාවාරමේ නිරතව සිටියදී ඔහුව පොලිස් අත්අඩංගුවට ගෙන ඇති බව සඳහන් වේ.
+Dissanayake, Chaminda, or 'Pettay Mallai', a resident of Koshena, was arrested by the Koihena, Koshena.
 
-එහිදී සැකකරු සන්තකයේ තිබී රුපියල් ලක්ෂ 3ක් පමණ වටිනාකමකින් යුත් හෙරෝයින් ග්‍රෑම් 12කට ආසන්න ප්‍රමාණයක් පොලිස් භාරයට ගෙන ඇත.
+The suspect was taken out a search operation conducted in the Payagala Koshena yesterday (28) on information received by Payagala Police.
 
-මෙම සැකකරු මීට සති 2කට පමණ පෙර හෙරොයින් ජාවාරම් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගතව පැමිණි පුද්ගලයෙකි.
+He was arrested by the police while he was arrested in the jungle of the suspect in the jungle of the suspect in the Payagala Koshena.
 
-ඔහුගෙන් සිදුකළ විමසීම්වලදී අනාවරණය වී ඇත්තේ  බන්ධනාගාර ගතව සිටින කාලය තුළ හඳුනාගත් විදේශ රටක සැඟව සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු මාර්ගයෙන් මෙම හෙරොයින් ජාවාරම සිදුකර ඇති බවය.
+Nearly 12 grams of heroin worth about Rs. 3 lakhs have been taken into custody.
 
-පොලීසිය පැවසුවේ මෙම සැකකරුට මත්ද්‍ර ජාවාරම කරගෙන යාම සඳහා සහාය දුන් ඔහුගේ පවුලේ කිහිපදෙනෙකු ද මේ වන විට රක්ෂිත බන්ධනාගාර ගත කොට ඇති බවය.
+The suspect is a person who has been remanded regarding heroin trafficking about 2 weeks ago.
 
-...
+Inquiries revealed that the heroin racket had been carried out through a powerful drug dealer in the prison.
+
+Police said that several of his family who supported the suspect had been remanded.
+
+It has been revealed that the suspect had taken place in Paramala, Nagahawa, Maggonaduwa, Katagarunduwa, Magagaduwa areas.
+
+The mobile phone in the possession of the suspect was also taken into custody.
+
+◼️
 
 [Data](articles/c25fefe0.json)
 
+[Extended Data](ext_articles/c25fefe0.ext.json)
+
 ---
 
-### கட்டைபறிச்சான் இறால் பாலத்தையும் அரபாநகர் பாலத்தினுடைய நிலைமைகளையும் ஆராய்ந்தார் கிழக்கு ஆளுநர்
+### The Eastern Governor examined the shrimp bridge and the conditions of the Arabanagar Bridge
 
 *2024-11-28 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199894) · `ta`
 
-திருகோணமலை மாவட்டத்தில் பெய்துவரும் கனமழை காரணமாக பாதிக்கப்பட்டுள்ள மூதூர் கிழக்கு - கட்டைபறிச்சான் இறால் பாலம் மற்றும் மூதூர்- அரபாநகர் பாலம் ஆகியவற்றின் நிலைமைகளை கிழக்கு மாகாண ஆளுநர் பேராசிரியர். ஜயந்தலால் ரத்னசேகர நேரில் சென்று ஆராய்ந்தார்.
+Here's a summary of 200 characters:
 
-திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினரும் வெளியுறவு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சருமான அருண் ஹேமச்சந்திரா மற்றும் திருகோணமலை பாராளுமன்ற உறுப்பினர் ரொசான் அக்மீமன ஆகியோர் நேற்று புதன்கிழமை  (27) மாலை குறித்த இடங்களுக்கு விஜயம் மேற்கொண்டு நிலைமைகளை ஆராய்ந்தனர்.
+
+
+Eastern Governor inspects shrimp bridges in Trincomalee after heavy rains. MP Arun Hemachandra and Rosan Akmeemana visit sites.
+
+🟩
+
+The Muttur East - Kattaiparichan Shrimp Bridge and the Muttur -Arafanagar Bridge, which are affected by heavy rains in Trincomalee district. Jayantalal Ratnasekera went to the scene.
+
+Trincomalee District Parliamentarian and Deputy Minister of Foreign Affairs Arun Hemachandra and Trincomalee Parliamentarian Rosan Akmeemana visited the seats on Wednesday evening (27).
 
 ◼️
 
 [Data](articles/f4dac8b2.json)
+
+[Extended Data](ext_articles/f4dac8b2.ext.json)
 
 ---
 
@@ -398,31 +1020,51 @@ However, the police said that the search operation is being carried out amid ran
 
 ---
 
-### சீரற்ற வானிலையால் 6 பேர் பலி : 3 இலட்சத்திற்கும் மேற்பட்டோர் பாதிப்பு
+### 6 people killed by random weather: over 3 lakhs
 
 *2024-11-28 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199892) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற வானிலை காரணமாக இதுவரை 21 மாவட்டங்களில் பாதிப்பு ஏற்பட்டுள்ளதாகவும் அனர்த்தங்களில் சிக்கி இதுவரை 6 பேர் உயிரிழந்துள்ளதாகவும் அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-மழை, வெள்ளம் போன்ற அனர்த்தங்களால் 98 ஆயிரத்து 635 குடும்பங்களைச் சேர்ந்த 3 இலட்சத்து 30 ஆயிரத்து 894 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் மேலும் தெரிவித்துள்ளது.
+
+
+Heavy rainfall affects 21 districts, killing 6. Over 330,000 people from 98,635 families impacted. Disasters reported nationwide due to inclement weather conditions.
+
+🟩
+
+Due to inclement weather in the country, 21 districts have been affected and 6 people have been killed in disasters, the Disaster Management Center said.
+
+The Disaster Management Center further said that 3 million and 30 thousand 894 people from 98 thousand 635 families have been affected by rains and floods.
 
 ◼️
 
 [Data](articles/cf34ef56.json)
 
+[Extended Data](ext_articles/cf34ef56.ext.json)
+
 ---
 
-### வடிகானில் தவறி விழுந்து ஒருவர் உயிரிழப்பு!
+### Failure to fall into the drain
 
 *2024-11-28 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199891) · `ta`
 
-குறித்த பகுதியில் உள்ள கைத்தொழில் வலயத்தில் நீர் நிரம்பிய வடிகானில் தவறி விழுந்த நிலையிலேயே குறித்த நபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில்  கொஸ்வத்த பொலிஸார் சடலத்தை மீட்டு விசாரணைகளை முன்னெடுத்த நிலையில், பிரேத பரிசோதனைகளின் பின்னர் உறவினர்களிடம் ஒப்படைத்துள்ளனர்.
+
+
+Man dies in industrial zone drain. Body found, handed to family after autopsy. Police investigating cause of death.
+
+🟩
+
+The man died in a water -filled drain in the industrial zone in the area, police said.
+
+Based on information received by the police, Koswatta police have recovered the body and handed over the investigation into relatives after the autopsy.
 
 ◼️
 
 [Data](articles/05775950.json)
+
+[Extended Data](ext_articles/05775950.ext.json)
 
 ---
 
@@ -468,21 +1110,33 @@ Irrigation Engineer G.W.A. Sakura Dilthara indicated that water levels in the De
 
 ---
 
-### ඒඩ්ස් ආසාදිතයින් ඉහළට
+### AIDS infections up
 
 *2024-11-28 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203825) · `si`
 
-ජංගම දුරකථන හා නව තාක්ෂණික ක්‍රම ඔස්සේ සහකරුවන් සොයාගැනීම මෙන්ම නිසි ලිංගික අධ්‍යාපනයක් නොමැතිවීම ඇතුළු කරුණු හේතුවෙන් නව යෞවනයන් අතර HIV වෛරසය ආසාදිතයින් ඉහළ ගොස් ඇති බව ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන වැඩසටහන පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-එම වැඩසටහනේ අධ්‍යක්ෂ ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය වින්ද්‍යා කුමාරිපේලි මහත්මිය පැවසුවේ, පසුගිය වසර තුළ වාර්තා වූ HIVආසාදිතයින් අතරින් සියයට 15ක් වයස අවුරුදු 15ත් 24ත් අතර තරුණ තරුණියන් බවය.
 
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවට එක්වෙමින් ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය වින්ද්‍යා කුමාරිපේලි මහත්මිය මෙම අදහස් පළ කළාය.
 
-"පසුගිය වසරේ නව HVI වෛරස ආසාධිත රෝගීන් 694 අපේ රටේ වාර්තා වෙලා තියෙනවා. දත්ත දිහා බලනකොට ඔබට පැහැදිලි HVI වෛරසයේ නව ආසාධිත පුද්ගලයින් සංඛ්‍යාව ශීඝ්‍රයෙන් වැඩි වෙන බව.
+"AIDS infections rising among youth: 15% of new cases aged 15-24. Experts attribute increase to lack of proper sex education and addiction issues."
 
-...
+🟩
+
+The National STD / AIDS eradication program says that among the new youths have risen infections of the HIV virus, including the discovery of partners and innovative educational.
+
+Director of the Director Community Health Specialist Dr. Windya Kumipaleli said that 15 percent of the HIV infected persons reported in the last year have been younger among the age of 15 and 24.
+
+Speaking at a press conference held in the Health Promotion Bureau, Ms. Skaripaleli made these comments.
+
+"Last year, 694 cases of new HVI viruses have been reported in our country. When you look at the data, the number of new people in the HVI virus will increase rapidly.
+
+In view of the data between the youth, 15% new teenagers between 15 and 24 years of age. We see this about this, we see that this is the reason why we find new contact partners through various source techniques. If not, it is not properly sex education. Among young people adds to the youth addictions among young people. "
+
+◼️
 
 [Data](articles/097d20b1.json)
+
+[Extended Data](ext_articles/097d20b1.ext.json)
 
 ---
 
@@ -660,6 +1314,24 @@ The police have launched a wide investigation into the missing persons despite t
 
 ---
 
+### අමාත්‍යාංශ දෙකක නව ලේකම්වරු පත් කෙරේ
+
+*2024-11-28 07:34:51* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකක-නව-ලේකම්වරු-පත්-කෙරේ/11-413326) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව අමාත්‍යාංශ ලේකම්වරු දෙදෙනෙක් පත් කරනු ලැබ තිබේ.
+
+ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (27) පිරිනැමිණ.
+
+ඒ අනුව පරිසර අමාත්‍යාංශයේ ලේකම්වරයා ලෙස කේ.ආර්. උඩුවාවල මහතා පත් කර ඇත.
+
+විද්‍යා හා තාක්ෂණ අමාත්‍යාංශයේ ලේකම්වරයා ලෙස වයි.එල්.මොහොමඩ් නවාවි මහතා පත් කර තිබේ.
+
+◼️
+
+[Data](articles/9055ecd7.json)
+
+---
+
 ### පුංචි ඡන්දෙ ගැන කොමිසමේ අවධානය
 
 *2024-11-28 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203823) · `si`
@@ -680,6 +1352,22 @@ The police have launched a wide investigation into the missing persons despite t
 
 ---
 
+### ණය ප්‍රතිව්‍යුහගත කිරීම ණය හිමියන්ගේ ඉහළ සහභාගීත්වය IMF අපේක්ෂා කරයි
+
+*2024-11-28 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-ණය-හිමියන්ගේ-ඉහළ-සහභාගීත්වය-IMF-අපේක්ෂා-කරයි/11-413325) · `si`
+
+ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ මෙහෙයුම් සඳහා ණය හිමියන්ගේ ඉහළ සහභාගීත්වයේ දැඩි අවශ්‍යතාව ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) අවධාරණය කර ඇති අතර, එය රටේ අපේක්ෂිත ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ සාර්ථකත්වය සඳහා අත්‍යවශ්‍ය පියවරක් වන බව ද අවධාරණය කර තිබේ.
+
+නොවැම්බර් 26 වන දා මූල්‍ය ප්‍රජාවේ සාමාජිකයින් අමතමින්, ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) කළමනාකාර අධ්‍යක්ෂිකා ක්‍රිස්ටලිනා ජොර්ජිවා මහත්මිය, ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ප්‍රතිසංස්කරණ න්‍යාය පත්‍රය අනුව ශ්‍රී ලංකාව මෙතෙක් ළගාකරගත් ප්‍රගතිය සහ තිරසාර ණය මට්ටම් සාක්ෂාත් කර ගැනීම සඳහා දැක්වූ සාමූහික ප්‍රයත්නය පෙන්වා දෙමින් ප්‍රකාශයක් නිකුත් කළාය.
+
+ශ්‍රී ලංකා බලධාරීන් ජාත්‍යන්තර මූල්‍ය අරමුදෙල් සහාය ඇතිව ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන ක්‍රියාත්මක කර ඇති අතර, එය ණය තිරසාරභාවය සහ බාහිර ශක්‍යතාව යථා තත්ත්වයට ගෙන ඒම, පුළුල් සාර්ව ආර්ථික ප්‍රතිසංස්කරණවලට සහාය වීම සහ ආර්ථික පාලනය සහ විනිවිදභාවය ශක්තිමත් කිරීම ආදිය අරමුණු කර ගෙන ඇති බවද ජෝර්ජිවා මහත්මිය පැවසීය.
+
+...
+
+[Data](articles/307a0a1d.json)
+
+---
+
 ### ජලය පිරුණු කාණුවකට වැටී තවත් පුද්ගලයෙකු මරුට
 
 *2024-11-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203822) · `si`
@@ -694,7 +1382,7 @@ The police have launched a wide investigation into the missing persons despite t
 
 ---
 
-### සුළි කුණාටුව ත්‍රිකුණාමලයට කිලෝමීටර් 100ක් දුරින්
+### ගැඹුරු පීඩන අවපාතය   ත්‍රිකුණාමලයට කිලෝමීටර් 100ක් දුරින්
 
 *2024-11-28 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203821) · `si`
 
@@ -955,6 +1643,38 @@ Domestic abuse is not new to Sri Lanka, but in recent years, it has spiralled in
 [Data](articles/92cddb58.json)
 
 [Extended Data](ext_articles/92cddb58.ext.json)
+
+---
+
+### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
+
+*2024-11-28 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
+
+The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
+
+...
+
+[Data](articles/7b4fd7e2.json)
+
+[Extended Data](ext_articles/7b4fd7e2.ext.json)
+
+---
+
+### The Tamil people had no other choice but to turn to the NPP because there was no political force among them that could lead them on a practical and sensible political path as an alternative to the Tamil parties.
+
+*2024-11-28 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85138) · `en`
+
+Among the many historic ‘firsts’ that the November 2024 Parliamentary Elections witnessed, two achievements by the National People’s Power (NPP) have evinced the most attention.
+
+The NPP’s landslide victory marks the first time since the introduction of the Proportional Representation (PR) electoral system in Sri Lanka that a single party or alliance has won a two-thirds majority in Parliament.
+
+The NPP has won all but one of the 22 electoral districts in the country. What is particularly noteworthy about this victory is that the NPP has won more seats in all five electoral districts in the Northern and Eastern Provinces, except Batticaloa. The same is true in districts where  Malaiyaha (hill country) Tamils live in large numbers.
+
+For the first time, a Sinhalese-majority political party has won most of the seats in the districts of the Northern and Eastern Provinces, including the Jaffna District, which was considered a ‘fortress’ of Tamil nationalist politics.
+
+...
+
+[Data](articles/7053524f.json)
 
 ---
 
@@ -1527,737 +2247,5 @@ On Wednesday the central bank cut its standing deposit facility to 7.5 percent f
 [Data](articles/13cabb1e.json)
 
 [Extended Data](ext_articles/13cabb1e.ext.json)
-
----
-
-### New secretaries appointed in two ministries
-
-*2024-11-27 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203813) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake appoints two new Secretaries: KR (Environment) and Uduwala; Y.L.sund Nawawi (Science and Technology).
-
-🟩
-
-Two new Secretaries have been appointed by President Anura Kumara Dissanayake.
-
-Appointment of the Appointment of Appointments Hon.
-
-Accordingly, KR as the Secretary of the Ministry of Environment. Mr. Uduwala has been appointed.
-
-Mr. Y.L.sund Nawawi has been appointed as the Secretary to the Ministry of Science and Technology.
-
-◼️
-
-[Data](articles/1fc55141.json)
-
-[Extended Data](ext_articles/1fc55141.ext.json)
-
----
-
-### The latest story of the tragedy in Ampara
-
-*2024-11-27 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203812) · `si`
-
-Here's a summary of the tragedy in Ampara in approximately 200 characters:
-
-
-
-Six schoolchildren disappeared when their tractor was swept away during heavy rains. Three found; three still missing. Search operations ongoing involving police, army, navy, and locals. Parents urged to caution children against traveling through flooded areas.
-
-🟩
-
-Three of the six schoolchildren who had been disappeared in Kabituff in Kabatiu was disappeared today (27).
-
-The police, Army, Navy and the residents have been operated from yesterday.
-
-However, the other three students are still in operation in search of the tractor driver and assistant.
-
-A tractor carrying a group of students from the Mavadipaller Bridge in Ampara was reported yesterday (26).
-
-The victims were a tractor carrying a group of students from Madurazor School.
-
-The school had been granted leave and at the time of the inclement weather, the general road had been submerged by the Kalmunai main road as well as rainwater.
-
-Due to this, the children of residents of Samantura had not been able to travel to their homes.
-
-11 students have been landed in a tractor traveling towards Samanthurai, while the tractor is traveling through the waters of the road.
-
-The group of tractor had been blown in the storm.
-
-However, 5 students were survived, but the rest went missing.
-
-...
-
-[Data](articles/9825aeb0.json)
-
-[Extended Data](ext_articles/9825aeb0.ext.json)
-
----
-
-### The first day of the first day of the rainfall ended with 20.4 overs;South Africa 80 - 4 wig. ;Sri Lankans in bowling
-
-*2024-11-27 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199884) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-1st day ICC World Test Champs: SA 80/4 in 20.4 overs vs SL. Rain interrupted play. Aidan Markram & Tony de Zorzi fell to Angelo Mathews & Kusal Mendis. Tristan Stubbs & Temba Bavuma added 32 runs before Stubbs was caught. David Bedingham bowled by Lahiru Kumara. Play ended at 3pm due to persistent rain.
-
-🟩
-
-The first day of the first ICC World Test Championships, which began on Wednesday (27) at the Durban and Kingsmate Stadium between Sri Lanka and South Africa, ended with 20.4 overs due to rain.
-
-South Africa, who was first invited to bat first, was 80 runs for the loss of 4 wickets in the first innings when the match was blocked by the rain.
-
-Aidon Margram (9) and Tony D Soozi (4), both the initial players, lost the game.
-
-Angelo Mathews took the grip of Margram in the bowling of Fernando, and Kamanta Mendis took the grip of De Souzi in the bowling of Vishwa Fernando.
-
-Subsequently, Triston Stubs (16) and team captain Tempa Bauma lost 32 runs in the 3rd wicket.
-
-Stubs caught up with Timut Karuna in a slip of Lahiru Kumara's bowling. (௪௬ - ௩)
-
-When the total number was 54 runs, David Bedingham (4) became Bolt in Lahira Kuma's bowling.
-
-Mediators announced that the first day of the game would be ended at 3.00 pm as the rain continued after the daytime.
-
-...
-
-[Data](articles/b2a6bf64.json)
-
-[Extended Data](ext_articles/b2a6bf64.ext.json)
-
----
-
-### Minuwangoda Rs. Two main suspects of robbery seized
-
-*2024-11-27 19:34:06* · [`adalk`](https://www.ada.lk/breaking_news/මිනුවන්ගොඩ-රු--කෝටි-7-5ක-කොල්ලයේ-ප්‍රධාන-සැකකරුවන්-දෙන්නා-අල්ලයි/11-413324) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Main suspects in Minuwangoda robbery case arrested. Police seized over Rs. 4 billion from stolen van. Investigation reveals connection between suspects and local businesses.
-
-🟩
-
-Minuwangoda Rs
-
-The suspects were taken into custody nearly Rs.
-
-The main suspect, the main suspect of a transportation institution to be deposited in various banks, had fled the fleeing with the van in the city center of Minuwangoda.
-
-The main suspect had fled the other suspect with the other suspect with the other suspect, which contained the van with the other four billion rupees and the other suspect, Saman Ranasinghe, the other suspect.
-
-Police investigations revealed that he had been given over Rs.
-
-Police said that the businessman had been arrested for a close business friend of the main suspect.
-
-Although the main suspect and assistant is trying to escape Rs.
-
-◼️
-
-[Data](articles/79645191.json)
-
-[Extended Data](ext_articles/79645191.ext.json)
-
----
-
-### Rs. 75 million robbery; 2 suspects arrested
-
-*2024-11-27 19:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-75-மில்லியன்-கொள்ளை-2-சந்தேக-நபர்கள்-கைது/175-347886) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Rs. 75 million robbery solved: 2 suspects arrested in Minuwangoda. Police seized 4 million rupees during arrest. Investigation ongoing.
-
-🟩
-
-In Minuwangoda. Two main suspects have been arrested in connection with the 75 million robbery.
-
-About 4 million rupees have been seized from the suspects during the arrest.
-
-◼️
-
-[Data](articles/c21acd1d.json)
-
-[Extended Data](ext_articles/c21acd1d.ext.json)
-
----
-
-### The Bribery and Pollution Program Appreciates Australia
-
-*2024-11-27 19:25:53* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-හා-දූෂණයෙන්-තොර-වැඩපිළිවෙළ-ඕස්ට්‍රේලියාව-අගය-කරයි/11-413323) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Australia supports Sri Lanka's anti-corruption efforts. High Commissioner Paul Sephens praises "Clean Sri Lanka" initiative. Focus on national security, marine affairs, digital sector, education, and energy modernization. Australia strengthens ties with Sri Lanka.
-
-🟩
-
-Australian High Commissioner in Sri Lanka (PAUL SEPHENS) stated that the new government's program without corruption is attracted to investors.
-
-The Australian High Commissioner said that the government's actions will be supported at any time, the government's actions to establish a bribery and corruption.
-
-The President of the High Commissioner for Australian High Commissioner Paul Stevens (Paul Stevens) said the Secretary to the President Dr. Nandika Sanath was found at the Presidential Secretariat today (27).
-
-The Australian High Commissioner said he will further strengthen the seven-year-old circumstances between Australia and Sri Lanka.
-
-The focus was also focused on providing the National Security, Marine Affairs, Digital and State Sector in modernization, professional education and energy sector.
-
-The Australian High Commissioner, who appreciated President Anura Kumara Dissanayake's 'Clene Sri Lanka' initiative, he said that it would provide the necessary assistance at any time.
-
-...
-
-[Data](articles/eee61166.json)
-
-[Extended Data](ext_articles/eee61166.ext.json)
-
----
-
-### Prabe Jayasuriya forward in ratings
-
-*2024-11-27 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203811) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Prabath Jayasuriya rises to 5th ICC Test ranking. Scores 801 runs, achieves highest Test score. Jos Buttler tops as world #1 Test bowler. Kagiso Rabada 2nd, Josh Hazlewood 3rd. Asitha Fernando ranks 14th.
-
-🟩
-
-Sri Lanka's townsontest player Prabath Jayasuriya has come forward to 5th place by the International Cricket Council yesterday (26).
-
-With this arrival, the probe was ranked 801 runs, while he was able to get Testtime, the highest rated score.
-
-Bangladesh and Billa. The rating has been published after the first Test cricket match between West Indies yesterday.
-
-Accordingly, Josephrit Bumra, India, has come to the world's number one Test bowler.
-
-Among these rankings is the second place between Kugso Raboda, South Africa, and Josh Hazelwood in Australia.
-
-However, after the repeated Sri Lanka bowler, Asapha Fernando, is the 14th place.
-
-◼️
-
-[Data](articles/ab8820a9.json)
-
-[Extended Data](ext_articles/ab8820a9.ext.json)
-
----
-
-### “The new government is on the path of Ranil”
-
-*2024-11-27 19:20:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கம்-ரணிலின்-பாதையில்-செல்கிறது/175-347885) · `ta`
-
-Sajith Premadasa accuses govt of ignoring mandate, following Ranil Wickremesinghe's path. Criticizes failure to fulfill election promises on electricity, fuel prices. Calls for tax reform and transparency.
-
-🟩
-
-Opposition leader Sajith Premadasa has accused the government of ignoring the people's mandate and going on the path of former President Ranil Wickremesinghe.
-
-Commenting to the media in Colombo, Premadasa said that despite the support of the International Monetary Fund to benefit the public, the government has subjected to the IMF orders and failed to provide firm relief to the citizens.
-
-Pointing out the contradictions between the election campaign promises and the government's actions, Premadasa said the promises of electricity and fuel prices were not fulfilled.
-
-While his party supported the IMF's framework, he stressed that he was determined to reform the tax structures to reduce the burden of the public.
-
-The Opposition Leader, noted that there was no transparency, criticized the government's inability to implement meaningful reforms.
-
-◼️
-
-[Data](articles/cf36f5a0.json)
-
-[Extended Data](ext_articles/cf36f5a0.ext.json)
-
----
-
-### Announcement on the date of recovery of the GCE Advanced Level Examination
-
-*2024-11-27 19:15:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தர-பரீட்சை-மீள-ஆரம்பமாகும்-திகதி-குறித்த-அறிவிப்பு/175-347884) · `ta`
-
-GCE A/L exam 2024 postponed due to bad weather. New date after Nov 29 when conditions improve. Flood-affected students get extra time to return to normal. Decision based on weather forecast and situation assessment.
-
-🟩
-
-Defense Secretary Sampath Thuakonda said that the Department of Examinations will announce the weather condition after November 29, the date of the GCE (O/L) examination.
-
-He said at a media briefing held at the Government Information Department that the Department of Meteorology had predicted that the intensity of rain and wind would decrease after November 29, he said.
-
-He said that the students in the flood -affected areas should be given adequate time to return to normal after the climate improved and the new date will be decided by assessing the situation.
-
-Due to the prevailing adverse climate, the Department of Examinations has suspended the GCE Advanced Level Examination for 2024.
-
-◼️
-
-[Data](articles/d4433d83.json)
-
-[Extended Data](ext_articles/d4433d83.ext.json)
-
----
-
-### Liga
-
-*2024-11-27 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/199877) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tree falls on house during heavy rain in Mulliyawala village, causing significant damage to the roof. Incident occurred on Wednesday morning when a large tamarind tree collapsed onto a nearby residence.
-
-🟩
-
-The incident took place on Wednesday (27) that the roof of the house was completely damaged as a tree fell on the roof of the house in the Mulliyawala area.
-
-With heavy rainfall, a large tamarind tree near the house in the early hours of this morning has fallen in a house in the village of Mulliyawalai, Mulliyawalai.
-
-◼️
-
-[Data](articles/4ecabbec.json)
-
-[Extended Data](ext_articles/4ecabbec.ext.json)
-
----
-
-### Rs. 330 bonds
-
-*2024-11-27 18:59:00* · [`adalk`](https://www.ada.lk/breaking_news/රු-බි--330ක-බැඳුම්කර-නිකතුවක්/11-413322) · `si`
-
-Sri Lanka government plans to issue Rs. 330 billion treasury bonds, sparking controversy over borrowing and IMF agreements.
-
-🟩
-
-The government has said that the government should state that the money is issued by issuing Treasury Bonds of Rs 330 billion.
-
-He was speaking at a media briefing held at the Head Office of Pitakotte today (27).
-
-Speaking further MP SM Junkar said so.
-
-"The government is going to issue another 330 billion rupees' bonds. In the meantime, we saw $ 200 million from the Asian Development Bank.
-
-We don't say you don't do this. However, the government recently said that the country continued to borrowed. Then we do not know why these Treasury Bonds are issued. There is no problem if you have a very low interest rate at a very low interest rate, especially like the Asian Development Bank.. However, the government should say that this is what you do.
-
-...
-
-[Data](articles/b60c4a28.json)
-
-[Extended Data](ext_articles/b60c4a28.ext.json)
-
----
-
-### Victoria begins to spill
-
-*2024-11-27 18:42:34* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාව-වාන්-දැමීම-අරඹයි/11-413321) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Victoria Dam spillway opening: Eight sluice gates activated at 5 PM, marking start of testing phase for the country's largest reservoir.
-
-🟩
-
-Walking of the reservoir, the reservoir of the reservoir, has commenced the Testing Reservoir, the reservoir of the country's five-largest reservoir.
-
-He said that eight sluice gates of the reservoir were automatically opened today at 5 pm today.
-
-◼️
-
-[Data](articles/b5e155cf.json)
-
-[Extended Data](ext_articles/b5e155cf.ext.json)
-
----
-
-### Farmers trapped in Batticaloa
-
-*2024-11-27 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199875) · `ta`
-
-Batticaloa floods trap 14 farmers; 1 rescued by Air Force helicopter; others stranded
-
-🟩
-
-Seven farmers who went to agriculture in the fields of Pullumalai Thampatti and Mavadi Oya Valanthi in Batticaloa have been trapped in the field for two days due to the floods in those areas.. In this case, a farmer was rescued by Air Force helicopter on Wednesday (27).
-
-In the fields of the area, 3 farmers in the Pullumalai Tampatti Vayal area, and 7 farmers, including 4 in the Mavadi Oya Varadi Six Vaikkal area, went to the agricultural guard of the area last Monday (25).
-
-Due to heavy rains, the fields of the ponds in the area have been flooded and the farmers have been trapped in the floods and many roads have been submerged.
-
-The Air Force, who was involved in the rescue of the cigarette, today rescued a man who was rescued by a helicopter in the Mountains.
-
-Meanwhile, one of the three people in the Pullumalai Thambitti Vayal area has been swimming in a flood.Police have rescued the other two.
-
-...
-
-[Data](articles/c8a1c569.json)
-
-[Extended Data](ext_articles/c8a1c569.ext.json)
-
----
-
-### Court authorizes Ranil as a respondent in a SLR petition
-
-*2024-11-27 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203810) · `si`
-
-Supreme Court allows Ranil Wickremesinghe as respondent in SLR petition over Court of Appeal judge appointment. Petition filed by Senaka Walgampaya. Case heard by Judges Janaka de Silva and Mahinda Samayawardena.
-
-🟩
-
-The Supreme Court has allowed former President Ranil Wickremesinghe as a fundamentary judiciary over the appointment of the judge of the Court of Appeal.
-
-The petition was presented by President's Counsel Senaka Walgampaya.
-
-The petition was called before the Supreme Court Judge of Janaka de Silva and Mahinda Samaya Saletes today (27).
-
-The Attorney at the Petterian parties had informed the court that the petition was nominated as a respondent of the petition.
-
-According to the Judge Courtsist, the Justice of the panel was ordered to be summoned for the examination for the examination for the examination.
-
-The petition was filed by the President's Counsel Senaka Walgampaya demanding the appointment of the judge of the Court of Appeal during the expiration of the judges.
-
-◼️
-
-[Data](articles/de9998f1.json)
-
-[Extended Data](ext_articles/de9998f1.ext.json)
-
----
-
-### ‘Red’ landslide early warning issued for areas in 3 districts extended
-
-*2024-11-27 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103819/red-landslide-early-warning-issued-for-areas-in-3-districts-extended) · `en`
-
-The National Building Research Organisation (NBRO) has extended the ‘Level 3 (Red)’ Landslide Early Warning  issued to several divisional secretariat divisions (DSDs) in Kandy, Matale and Nuwara-Eliya districts urging the residents of these areas to evacuate to safer locations.
-
-Accordingly, the Level -3 warning, valid for the next 24 hours, has been issued for the following divisional secretariat divisions and surrounding areas:
-
-Kandy District - Harispattuwa, Medadumbara, Kandy Four Gravets or Gangawata Korale, Ududumbara, Doluwa,  Yatinuwara, Udapalatha, Pathahewaheta, Udunuwara, Pathadumbara and Delthota
-
-Matale District - Ukuwela, Yatawatta, Rattota, Wilgamuwa, Ambanganga Korale, Laggala Pallegama, Pallepola, Naula and Matale
-
-Nuwara Eliya District - Walapane Divisional Secretariat Division (DSD) and surrounding areas
-
-...
-
-[Data](articles/57be856a.json)
-
-[Extended Data](ext_articles/57be856a.ext.json)
-
----
-
-### Warning issued over possible cyclone nearing Sri Lanka’s east coast
-
-*2024-11-27 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103818/warning-issued-over-possible-cyclone-nearing-sri-lankas-east-coast-) · `en`
-
-The Department of Meteorology warns that the deep depression over the southwest Bay of Bengal, which was located 110 km to the east of Trincomalee at around 11.30 a.m. today (27), is likely to move closer to the east coast of Sri Lanka and further intensify into a cyclonic storm during the next 06 hours.
-
-Under the influence of the system, cloudy skies will prevail over most parts of the island while very heavy showers and strong gusty winds can be expected in Northern, North-central, Eastern, Northwestern and Central provinces, it said.
-
-Issuing a “Red” advisory, it said showers or thundershowers will occur at times in Northern, North-central, Central, Western and North-western provinces and in Trincomalee, Batticaloa and Kegalle districts.
-
-Very heavy showers above 150 mm are likely at some places while showers will occur at times elsewhere of the island too. Fairly heavy showers above 75 mm are likely at some places, the department said.
-
-...
-
-[Data](articles/286e695f.json)
-
-[Extended Data](ext_articles/286e695f.ext.json)
-
----
-
-### Videlines in East Muslim schools today and tomorrow
-
-*2024-11-27 18:07:18* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-මුස්ලිම්-පාසල්වලට-අද-හා-හෙට-නිවාඩු/11-413320) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Due to bad weather, Muslim schools closed today and tomorrow. Education Secretary says classes resume Monday."
-
-🟩
-
-In view of the inclement weather, Muslim schools will be paid tomorrow (28) and tomorrow (28) and tomorrow.
-
-Provincial Education Secretary H.M.W.WD According to professor of Governor Jayanthalal Ratnasekera, the Provincial Secretary of Education. Mr. Dissanayake said.
-
-The education secretary said that schooling is scheduled to commence on the existing situation on Monday.
-
-◼️
-
-[Data](articles/9bf4452a.json)
-
-[Extended Data](ext_articles/9bf4452a.ext.json)
-
----
-
-### Takashi Nakabe steps down as Colombo Dockyard chairman
-
-*2024-11-27 18:05:00* · [`economynextcom`](https://economynext.com/takashi-nakabe-steps-down-as-colombo-dockyard-chairman-190245/) · `en`
-
-ECONOMYNEXT – Colombo Dockyard chairman Takashi Nakabe has resigned from his post, but will remain on the board as non-executive director, the company said.
-
-Nakabe is also the president of the Onomichi Dockyard, Japan.
-
-He was appointed as chairman of Colombo Dockyard in July this year.
-
-His resignation is effective from November 25 the company said in a stock exchange filing.
-
-◼️
-
-[Data](articles/f0ad1841.json)
-
-[Extended Data](ext_articles/f0ad1841.ext.json)
-
----
-
-### A cyclone in the next six hours close to the East Coast
-
-*2024-11-27 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203809) · `si`
-
-Cyclone warning: East Coast within 6 hours. Deep pressure drop in Bay of Bengal. Heavy rain, thunderstorms forecasted for several provinces. Strong winds (40-50 mph). Lightning and wind-related accidents possible. Take precautions.
-
-🟩
-
-Deep pressure recession in the Bay of Bengal Bay of Bengal. In. The Met Department forecasts around 11.30 km away from the east of Trincomalee.
-
-In an announcement, the department said that the deeper pressure depression is traveling near the eastern coast of the island and detriment to a cyclone in the next six hours.
-
-The announcement is expected to be experiencing high clouds in many parts of the island due to the impact of this system.
-
-Showers or thundershowers at times in the North, North-Central, Central, Central, Western, Western, Western, Western and North Western provinces.
-
-From time to time in the North, North-Central, Western, North Western, Southern and Eastern Provinces. (40-50) There are about strong winds.
-
-People have been asked to take necessary steps to reduce temporary strong winds and lightning accidents.
-
-◼️
-
-[Data](articles/4f28de4a.json)
-
-[Extended Data](ext_articles/4f28de4a.ext.json)
-
----
-
-### Rs. Two main suspects arrested in robbery
-
-*2024-11-27 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203808) · `si`
-
-Two main robbery suspects arrested in Minuwangoda. One was a security guard, the other assisted. They were caught while transporting cash. Investigations ongoing.
-
-🟩
-
-The two main suspects of robbing the robbery have been arrested in the Minuwangoda area.
-
-Officers of the Gampaha Police Division of the Police Division have been arrested by the officers of the Police Crime Investigation Bureau in Minuwangoda.
-
-The suspects were recovered from the possession of the suspects.
-
-One of these two main suspects was a security personnel who was securely a cash-transporting private company, and the other person supported the robbery.
-
-While carrying money to a private bank in Minuwangoda, the driver had fled the vehicle on November 18, carrying Rs.
-
-Accordingly, the Gampaha Divisional Investigation Unit and Minuwangoda Police have commenced investigations.
-
-◼️
-
-[Data](articles/12f596dc.json)
-
-[Extended Data](ext_articles/12f596dc.ext.json)
-
----
-
-### Children's park in floods in Nuwara Eliya
-
-*2024-11-27 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199873) · `ta`
-
-Nuwara Eliya floods: Children's Park at Victoria Park submerged, tourist ban issued, sports equipment and gardens damaged.
-
-🟩
-
-In the Nuwara Eliya district, the floods have been flooded in various places over the past few days.
-
-Tourists have been banned from going to the Children's Park at Victoria Park as the Victoria Park belonging to the Nuwara Eliya Municipal Council and its adjacent areas have been flooded.
-
-However, this children's park has become a pond due to continuous rainfall. Rain water is stagnant throughout the place where the boys play.
-
-It is also worth noting that sports equipment, seats and floral gardens maintained by the Municipal Council are submerged.
-
-◼️
-
-[Data](articles/9a820bfa.json)
-
-[Extended Data](ext_articles/9a820bfa.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 291.00/10 to dollar, bonds down
-
-*2024-11-27 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-00-10-to-dollar-bonds-down-190354/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.00/10 to the US dollar on Wednesday from 291.10/20 to the US dollar on Tuesday dealers said, while bond yields were significantly down.
-
-A bond maturing on 15.12.2026 closed down at 9.50/65 percent, from 10.00/15 percent.
-
-A bond maturing on 15.09.2027 closed at 10.25/35 percent, down from 10.65/75 percent.
-
-A bond maturing on 15.09.2029 closed at 10.80/90 percent, down from 11.20/40 percent.
-
-The central bank announced it will issue 205 billion rupees in treasury bonds at an auction on November 28. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/e8ecfbcf.json)
-
-[Extended Data](ext_articles/e8ecfbcf.ext.json)
-
----
-
-### 477 families in Badulla and 1861 people are affected by heavy rains
-
-*2024-11-27 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199871) · `ta`
-
-Badulla: Heavy rains affect 477 families, 1861 people. 247 homes damaged, 378 displaced. Relief efforts underway. Landslides block roads, disrupt railway service.
-
-🟩
-
-Assistant Director of the Badulla District Disaster Management Center. L. Udayakumara said.
-
-Heavy rains have been caused by heavy rains in all the Divisional Secretariat Divisions in the district.
-
-Based on the information available so far, 247 homes have been partially damaged.
-
-378 people from 100 families who face the floods and sudden floods and landslides have been temporarily housed in their relatives' homes.
-
-Steps have been taken to provide them with dry food relief supplies through the Divisional Secretariats.
-
-Seven intermediate camps have been set up to maintain 411 people from 113 families who have faced severe disasters in the Badulla district.
-
-Eight persons from 2 families who were affected by landslides in Udapanguwa area in the Lunugala Divisional Secretariat Division164 people from 41 families affected by the floods in the Rotawela area have been housed at the Eberawa Viharaya.
-
-...
-
-[Data](articles/125de478.json)
-
-[Extended Data](ext_articles/125de478.ext.json)
-
----
-
-### Australia favored President's Clean Sri Lanka Program
-
-*2024-11-27 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203807) · `si`
-
-Australia supports Sri Lanka's clean governance program. The High Commissioner praises President Dissanayake, offering aid. They'll back efforts to attract investors and strengthen ties between nations. Cooperation focuses on national security, marine modernization, digital state development, education, and energy sector.
-
-🟩
-
-Australian High Commissioner in Sri Lanka says President Anura Kumara Dissanayake is appreciated.
-
-He said that he would also serve the necessary assistance at any time and said that the new government's program without corruption would be attracted to investors.
-
-He was speaking at the Presidential Secretariat today (27) at the Presidential Secretariat.
-
-The Australian High Commissioner has stated that the government's actions will be supported at any time for the government's program to establish the mechanism throughout the country.
-
-The High Commissioner said that the two countries will continue to strengthen the 75-year meetings between Australia and Sri Lanka and strengthening the two countries.
-
-The meeting is also focused on providing Australian technical assistance on national security, marine and digital state sector in modernization, professional education and energy sector.
-
-◼️
-
-[Data](articles/b7725be6.json)
-
-[Extended Data](ext_articles/b7725be6.ext.json)
-
----
-
-### 3374 people from 1104 families in Mullaitivu district
-
-*2024-11-27 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199869) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-3374 people from 1104 families affected by rains in Mullaitivu district. Floods in lowlands, 759 affected in Welioya Division. Rescue efforts ongoing.
-
-🟩
-
-The District Disaster Management Division has said that 3374 persons from 1104 families have been affected due to continuous rains in the Mullaitivu district.
-
-Due to the prevailing rains, the water level of the ponds in the Mullaitivu district has increased and the flood water has been stored in the lowland areas.
-
-Due to this, 243 persons belonging to 80 families in the Manthai East Divisional Secretariat Division, 229 persons from 73 families in the Karaithuraipattu Divisional Secretariat Division, 1537 from 438 families in the Oddusutan Divisional Secretariat Division, 147 from the Pudukkudiyiruppu Divisional Secretariat Division and 267 from the Tunukkai Divisional Secretariat Division.According to a report by the District Disaster Management Division released this afternoon, 759 persons have been affected by the Welioya Divisional Secretariat Division.
-
-...
-
-[Data](articles/1b43d84c.json)
-
-[Extended Data](ext_articles/1b43d84c.ext.json)
-
----
-
-### Two main suspects arrested over Rs. 75 million cash robbery
-
-*2024-11-27 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103817/two-main-suspects-arrested-over-rs-75-million-cash-robbery) · `en`
-
-The two main suspects involved in the recent robbery of Rs. 75 million in cash, being transported by a cash in transit company, have been arrested by the Gampaha Police Divisional Crime Detective Bureau in the Minuwangoda area.
-
-The suspects have been arrested in the Miniwangoda area along with around Rs. 4 million in stolen cash, police said.
-
-Previously another suspect involved was arrested on November 19 in connection with the incident where the driver of a private company providing cash in transit services had made off with over Rs. 75 million in cash which was being transported in the Minuwangoda area.
-
-The suspect had been arrested in the Kaduwangaha area of Gampaha during a joint operation by the Gampaha Division Crimes Bureau and Minuwangoda Police.
-
-At the time of his arrest, police officers found 5 grams and 420 milligrams of the ‘Ice’ drugs (crystal methamphetamine) along with Rs. 31,515,291 from the stolen money in his possession.
-
-...
-
-[Data](articles/e96e567c.json)
-
-[Extended Data](ext_articles/e96e567c.ext.json)
-
----
-
-### Rain from Sri Lanka - South Africa match
-
-*2024-11-27 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203806) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-1st Test: SL vs SA. SA batted 1st, scored 80/2. Thaba 28*, Klaasen 28*. SL bowled out SA for 14 wkts. Fernando took 1st wkt. Stubbs 16, Bedfordham 44. Match ongoing.
-
-🟩
-
-The first Test cricket match between Sri Lanka and South Africa has commenced today (27).
-
-South Africa, which was assaulted first, served 80 runs for the loss of 40 wickets.
-
-Leader Thamba, who is staying in the wicket, is 28 and Kyle's score.
-
-Sri Lanka fast bowlers were bowled out for 14 wickets in the South African innings.
-
-Asitian Fernando won the first wicket as the first wicket.
-
-Tristton Stubs, who had scored 16 runs in the 46 runs, was also the wicket of Bedingaham, who had scored 44 runs.
-
-◼️
-
-[Data](articles/bc683e0c.json)
-
-[Extended Data](ext_articles/bc683e0c.ext.json)
 
 ---

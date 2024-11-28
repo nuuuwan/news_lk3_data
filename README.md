@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 07:31:28**
+As of **2024-11-28 09:19:03**
 
 ## Newspaper Stats
 
-*Scraped **57,325** Articles*
+*Scraped **57,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,440
 economynextcom | 3,486
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,407
-adaderanalk | 6,936
-tamilmirrorlk | 8,150
+adalk | 5,410
+adaderanalk | 6,937
+tamilmirrorlk | 8,151
 virakesarilk | 9,340
 adaderanasinhalalk | 9,898
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,317 (100.0%) of 57,325 articles have been extended.
+57,329 (100.0%) of 57,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Very heavy showers expected in parts of the island today
+
+*2024-11-28 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103823/very-heavy-showers-expected-in-parts-of-the-island-today) · `en`
+
+The Meteorology Department says the deep depression over the southwest Bay of Bengal was located to 100 km northeast of Trincomalee at around 2.30 a.m. of November 28, 2024.
+
+It is likely to move slowly, north-northwestwards closer to the east coast of Sri Lanka and intensify further into a cyclonic storm today (28).
+
+Under influence of the system cloudy skies will prevail over most parts of the island, very heavyshowers and strong gusty winds can be expected in Northern province and in Trincomalee district, it said.
+
+Showers or thundershowers will occur at times in Northern province and in Trincomalee district. Very heavy showers above 150 mm are likely at some places.
+
+Showers will occur at times elsewhere of the island too. Heavy showers above 100 mm are likely at some places in North Central and North-western provinces and in and Matale and Kegalle districts, the Met. department added.
+
+...
+
+[Data](articles/fe51af51.json)
+
+[Extended Data](ext_articles/fe51af51.ext.json)
+
+---
+
+### 150 millimeters of rain today
+
+*2024-11-28 07:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-150-மில்லி-மீற்றர்-மழை/175-347904) · `ta`
+
+Heavy rainfall (150mm) forecasted today in Northern Province & Trincomalee. Storm moving north-east towards Sri Lanka's east coast, may strengthen. Strong winds (60-70km/h) expected in northern regions. Sea travel advised against nationwide.
+
+🟩
+
+The Department of Meteorology said that the deeper inferiority in the southeastern Bengal bay was 100 km from Trincomalee at 2.30 am this morning.
+
+The Department of Meteorology has predicted that it is moving the north to the east coast of Sri Lanka and it may be strengthened by the storm today.
+
+As a result, heavy rainfall of up to 150 millimeters is likely to be recorded today in the Northern Province and Trincomalee districts.
+
+At the same time, strong winds are expected to blow 60 to 70 km / h in the North, North Central and North Western Provinces and Trincomalee District.
+
+Other parts of the country are expected to blow at speeds of 40 to 50 kilometers per hour.
+
+Meanwhile, the Department of Meteorology has advised not to re -notice to the seas around the country.. (A)
+
+◼️
+
+[Data](articles/8c731eb9.json)
+
+[Extended Data](ext_articles/8c731eb9.ext.json)
+
+---
+
+### යාන් ඔය මෝයේ මසුන් මරන්න ගිය පියා අතුරුදන් පුතා බේරෙයි
+
+*2024-11-28 07:48:05* · [`adalk`](https://www.ada.lk/breaking_news/යාන්-ඔය-මෝයේ-මසුන්-මරන්න-ගිය-පියා-අතුරුදන්-පුතා-බේරෙයි/11-413327) · `si`
+
+අයහපත් කාලගුණය හමුවේ යාන් ඔය මෝය ආසන්නයේ ඔරුවකින් ගොස් මසුන් ඇල්ලීමේ යෙදුණු පිය පුතු දෙපළක් ඊයේ (27දා) සැඩ පහරට හසු වී ඔරුව පෙරළීමෙන් පියා අතුරුදහන් වී ඇති අතර පුතා බේරී ගොඩට පීනා ඇතැයි පුල්මුඩේ පොලිසිය කියයි .
+
+මෙසේ අතුරුදහන් වී ඇත්තේ පුල්මුඩේ,තක්වානගර්, කොට්ඨාස අංක එක පදිංචි අහමදු ලෙබ්බේ අබ්දුල් මුබාරක් (58) නැමති අයෙකි.
+
+අනතුරෙන්  දිව් බේරා ගත් අතුරුදහන් වූ අයගේ පුතා වන මුබාරක් සකීර් නැමති අය මේ සම්බන්ධයෙන් පොලිසියට ප්‍රකාශයක් ලබාදී තිබේ.
+
+තද සුළං තත්ත්වය හා මුහුදේ රළු ස්වභාවය නිසා මේ දිනවල ධීවර කටයුතු වලින් වැලකී සිටින ලෙස කළ දැනුම් දීම නොතකා මෙම ධීවර කටයුතු වල යෙදී ඇති බව පවසන පොලිසිය අතුරුදහන් වූ අය සොයා පුළුල් පරීක්ෂණයක් දියත් කර තිබේ .
+
+◼️
+
+[Data](articles/fd87c4f9.json)
+
+---
 
 ### President AKD urges immediate relief to victims of flood
 
@@ -296,17 +364,23 @@ The Central Bank formally announced its transition to a single policy interest r
 
 ---
 
-### அமைச்சுக்களுக்கு புதிய செயலாளர்கள் நியமனம்
+### Appoint new secretaries to ministries
 
 *2024-11-28 00:52:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுக்களுக்கு-புதிய-செயலாளர்கள்-நியமனம்/175-347901) · `ta`
 
-அதற்கு அமைவான நியமனக் கடிதங்கள் நேற்று  (27) ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவினால் ஜனாதிபதி செயலகத்தில் வைத்து வழங்கப்பட்டது.
+New secretaries appointed for Environment and Science ministries. KR Uduwala named Secretary to Ministry of Environment, YL Mohamed Nawawi as Secretary to Ministry of Science and Technology. Appointments made by Dr. Nandika Sanath Kumanayake at Presidential Secretariat on 27th.
 
-அதன்படி சுற்றாடல் அமைச்சின் செயலாளராக கே.ஆர்.உடுவாவல நியமிக்கப்பட்டுள்ளதுடன், விஞ்ஞான, தொழில்நுட்ப அமைச்சின் செயலாளராக வை.எல்.மொஹமட் நவாவி நியமிக்கப்பட்டுள்ளார். (a)
+🟩
+
+The appointment letters were presented yesterday (27) at the Presidential Secretariat by Dr. Nandika Sanath Kumanayake.
+
+Accordingly, KR Uduwala has been appointed as the Secretary to the Ministry of Environment and YL Mohamed Nawawi has been appointed as the Secretary to the Ministry of Science and Technology.. (A)
 
 ◼️
 
 [Data](articles/f276949d.json)
+
+[Extended Data](ext_articles/f276949d.ext.json)
 
 ---
 
@@ -528,6 +602,8 @@ The event also showcased the institute’s plans for expanding its educational o
 
 [Data](articles/df6209b0.json)
 
+[Extended Data](ext_articles/df6209b0.ext.json)
+
 ---
 
 ### Book launch commemorates 125th birth anniversary of Professor Gunapala Malalasekera
@@ -542,6 +618,8 @@ Professor Malalasekera, often referred to as “GPM,” was a visionary who dedi
 
 [Data](articles/e6ce7d62.json)
 
+[Extended Data](ext_articles/e6ce7d62.ext.json)
+
 ---
 
 ### Dialog unveils Sri Lanka’s first AI Assistant for local developer community
@@ -553,6 +631,8 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly announces the
 ...
 
 [Data](articles/43a45982.json)
+
+[Extended Data](ext_articles/43a45982.ext.json)
 
 ---
 
@@ -568,6 +648,8 @@ This investment aims to showcase advanced sustainable aquaculture practices, pro
 
 [Data](articles/3a9357a2.json)
 
+[Extended Data](ext_articles/3a9357a2.ext.json)
+
 ---
 
 ### CBSL’s new single policy rate decision boosts stocks
@@ -581,6 +663,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/6f8f0f35.json)
+
+[Extended Data](ext_articles/6f8f0f35.ext.json)
 
 ---
 
@@ -925,6 +1009,40 @@ Mediators announced that the first day of the game would be ended at 3.00 pm as 
 [Data](articles/b2a6bf64.json)
 
 [Extended Data](ext_articles/b2a6bf64.ext.json)
+
+---
+
+### Minuwangoda Rs. Two main suspects of robbery seized
+
+*2024-11-27 19:34:06* · [`adalk`](https://www.ada.lk/breaking_news/මිනුවන්ගොඩ-රු--කෝටි-7-5ක-කොල්ලයේ-ප්‍රධාන-සැකකරුවන්-දෙන්නා-අල්ලයි/11-413324) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Main suspects in Minuwangoda robbery case arrested. Police seized over Rs. 4 billion from stolen van. Investigation reveals connection between suspects and local businesses.
+
+🟩
+
+Minuwangoda Rs
+
+The suspects were taken into custody nearly Rs.
+
+The main suspect, the main suspect of a transportation institution to be deposited in various banks, had fled the fleeing with the van in the city center of Minuwangoda.
+
+The main suspect had fled the other suspect with the other suspect with the other suspect, which contained the van with the other four billion rupees and the other suspect, Saman Ranasinghe, the other suspect.
+
+Police investigations revealed that he had been given over Rs.
+
+Police said that the businessman had been arrested for a close business friend of the main suspect.
+
+Although the main suspect and assistant is trying to escape Rs.
+
+◼️
+
+[Data](articles/79645191.json)
+
+[Extended Data](ext_articles/79645191.ext.json)
 
 ---
 
@@ -1599,6 +1717,30 @@ Punduloya police say that steps will be taken to get rid of the fertilizer on th
 [Data](articles/7689cb8e.json)
 
 [Extended Data](ext_articles/7689cb8e.ext.json)
+
+---
+
+### Smoke sales down 50 percent in 10 years
+
+*2024-11-27 17:13:43* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කදී-දුම්වැටි-අලෙවිය-සියයට-50කින්-පහළට/11-413317) · `si`
+
+Cigarette sales drop 50% in decade, yet profits double. ADIC warns government to investigate industry's rising profits despite declining sales.
+
+🟩
+
+The alcohol and the Drugs Center (ADIC) states that the number of cigarettes are declined by 50% close to 50%.
+
+However, the profit of cigarettes are twice the profits of cigarettes in the past.
+
+It is said that the present government should pay attention to this and the sales of a particular industry should look into the increase in their profits.
+
+Typically, when the sales of a product is reduced, the revenue received by the revenue, the revenue received and reduced the profit.
+
+◼️
+
+[Data](articles/00996dff.json)
+
+[Extended Data](ext_articles/00996dff.ext.json)
 
 ---
 
@@ -2325,123 +2467,5 @@ Due to this, eight feet of doors have been opened at eight feet three feet and t
 [Data](articles/23ce3582.json)
 
 [Extended Data](ext_articles/23ce3582.ext.json)
-
----
-
-### Sri Lanka should maximise GSP benefit by expanding cumulation: IPS
-
-*2024-11-27 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-maximise-gsp-benefit-by-expanding-cumulation-ips-190244/) · `en`
-
-ECONOMYNEXT – While maintaining the GSP+ preference scheme, Sri Lanka should increase its use by expanding the cumulation of non-originating materials, similar to the recent EU approval of cumulation between Sri Lanka and Indonesia, an Institute of Policy Studies research article said.
-
-“The Trade Preference Outlook-2024 of the UNCTAD also underscores the importance of reforming rules of origin, accounting for supply chain realities,” the article said.
-
-Enhanced cumulation will especially benefit the country’s wearing apparel sector.
-
-Sri Lanka and Indonesia to jointly apply for UK tariff preference scheme
-
-“In the longer term, Sri Lanka can look into options like entering a free trade agreement with the EU to cope with the adverse effects of GSP+ loss at a higher income stage of the country.”
-
-The full article, authored by IPS’ Rashmi Anupama, Chaya Dissanayake, and Dr Asanka Wijesinghe, is reproduced below:
-
-...
-
-[Data](articles/965b6854.json)
-
-[Extended Data](ext_articles/965b6854.ext.json)
-
----
-
-### Parliament gathers from December 3 to 6
-
-*2024-11-27 15:19:01* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-දෙසැම්බර්-3-සිට-6-දක්වා-රැස්වෙයි/11-413311) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Parliament meets Dec 3-6. Debate on govt policy starts Dec 4. Budget discussion Dec 5-6. PSC formation & committee appointments discussed.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohandera said at the party leaders meeting chaired by Hon.
-
-Accordingly, the proposal to be presented to the government's government's government's government's policy statement on Tuesday, the President has decided to present the debate on the government's government's policy statement.. The party leaders have agreed to hold further debate on December 4 to 5:00 pm.
-
-The proposal for the first four months of the year 2025 was also decided to take debate in Parliament on Thursday 5th December.. Accordingly, the debate has been decided in December 5 and 6 pm to 5.30 pm to 5.30 pm to 5.30 pm.
-
-...
-
-[Data](articles/20f7d9d5.json)
-
-[Extended Data](ext_articles/20f7d9d5.ext.json)
-
----
-
-### Death toll climbs to 4 as adverse weather impacts over 230,000
-
-*2024-11-27 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103812/death-toll-climbs-to-4-as-adverse-weather-impacts-over-230000) · `en`
-
-The Disaster Management Centre (DMC) has reported that the prevailing inclement weather conditions have affected a total of 230,743 individuals across Sri Lanka.
-
-Meanwhile, the death toll from the adverse weather has increased to 04 this far while 06 persons remain missing.
-
-◼️
-
-[Data](articles/e8c4934a.json)
-
-[Extended Data](ext_articles/e8c4934a.ext.json)
-
----
-
-### Sri Lanka obstructs Sri Lanka
-
-*2024-11-27 15:18:12* · [`adalk`](https://www.ada.lk/sports/ජය-සොයා-යන-ශ්‍රී-ලංකාවට-වර්ෂාවෙන්-බාධා/9-413310) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lanka obstructs Sri Lanka Tourism's first Test match against South Africa. South African team scores 80 runs for 4 wickets in 4 overs.
-
-🟩
-
-The first day of the first Test match between the Sri Lanka Tourism Sri Lanka and South Africa has been interrupted.
-
-South African team scored 80 runs for the loss of 4 wickets at the end of 4 wickets at the end of 4 balls.
-
-◼️
-
-[Data](articles/529d0682.json)
-
-[Extended Data](ext_articles/529d0682.ext.json)
-
----
-
-### “The government should take immediate action”
-
-*2024-11-27 15:16:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-உடனடியாக-நடவடிக்கை-எடுக்க-வேண்டும்/175-347873) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka faces flooding due to the Bengal cyclone. Government urged to act quickly for relief. Tragic incident involving students in a plowing machine occurred. Rescue efforts ongoing.
-
-🟩
-
-Namal Rajapakse, the national coordinator of the Sri Lanka PA, expressed regret over the tragedy of the plowing machine that was carrying the boys in the East, and praised the efforts of the armed forces in the flood -affected districts.
-
-“With the impact of the Bengal hurricane, many districts in Sri Lanka have been flooded.. Their tireless efforts are always commendable to keep the citizens safe.
-
-I am sorry to see the tragic incident of the plowing machine carrying students in the east yesterday evening. The driver and the 5 boys have been rescued and the rescue work is underway and they have not yet been recovered, ”he posted in his X.
-
-He added that the government should take immediate steps to assist the victims, emphasizing the need for immediate relief and the need for floods.
-
-◼️
-
-[Data](articles/9bf8a0f3.json)
-
-[Extended Data](ext_articles/9bf8a0f3.ext.json)
 
 ---

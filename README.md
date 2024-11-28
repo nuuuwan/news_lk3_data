@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 09:42:28**
+As of **2024-11-28 10:15:49**
 
 ## Newspaper Stats
 
-*Scraped **57,334** Articles*
+*Scraped **57,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,440
-economynextcom | 3,486
+economynextcom | 3,489
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,410
+adalk | 5,412
 adaderanalk | 6,941
 tamilmirrorlk | 8,151
 virakesarilk | 9,340
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,334 (100.0%) of 57,334 articles have been extended.
+57,337 (100.0%) of 57,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Sri Lanka rupee opens stronger at 290.95/291.05 to dollar, bond yields steady
+
+*2024-11-28 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-95-291-05-to-dollar-bond-yields-steady-190537/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 290.95/291.05 to the US dollar on Thursday from 291.00/10 to the US dollar on Wednesday dealers said, while bond yields held steady.
+
+A bond maturing on 15.12.2027 was quoted stable at 10.25/35 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.50/60 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.90/95 percent, up from 10.80/90 percent.
+
+In equities, the All Share Price Index was up 0.34 percent or  44.69 points, at 13,094. The more liquid S&P SL20 was up 0.55 percent, or 21.28 points, at 3,897.
+
+◼️
+
+[Data](articles/c7da37fd.json)
+
+[Extended Data](ext_articles/c7da37fd.ext.json)
+
+---
+
+### ට්‍රැක්ටරය පෙරළිමෙන් අතුරුදන් වූ සිසුන් 4කගේ සිරුරු සොයා ගනියි
+
+*2024-11-28 09:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රැක්ටරය-පෙරළිමෙන්-අතුරුදන්-වූ-සිසුන්-4කගේ-සිරුරු-සොයා-ගනියි/11-413329) · `si`
+
+කාර්තිවු පොලිස් වසමේදි නින්දවූර් සිට සමන්තුරය දක්වා ධාවනය වූ ට්‍රැක්ටර් රථයක් පෙරළීමෙන් අතුරුදන්ව සිටි සිසුන් සිව් දෙනෙකුගේ සිරුරු මේ වන විට සොයාගෙන ඇතැයි පොලීසිය කියයි.
+
+පසුගිය 26 දා මෙම අනතුර සිදුව තිබුණ අතර සැඩපහරට ගසාගෙන ගිය ට්‍රැක්ටර් රථය පෙරළිමෙන් මෙම අනතුර සිදුව තිබුණි.
+
+ඊයේ දිනයේදි මෘත ශරිර සොයාගත් සිසුන් සිවු දෙනා අවුරුදු 16 හා 15 යන වයස්හි පසුවන්නන් වෙයි. අතුරුදන්ව ඇති ඉතිරි සිසුන් සොයා පොලීසිය නාවික හමුදාව තවදුරටත් මෙහෙයුම් සිදු කරයි.
+
+◼️
+
+[Data](articles/2027b411.json)
+
+---
 
 ### Lebanon’s Hezbollah vows to continue resistance after ceasefire
 
@@ -131,6 +169,28 @@ Showers will occur at times elsewhere of the island too. Heavy showers above 100
 [Data](articles/fe51af51.json)
 
 [Extended Data](ext_articles/fe51af51.ext.json)
+
+---
+
+### Sri Lanka bondholders have sufficient incentives to join exchange: CB Governor
+
+*2024-11-28 08:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-have-sufficient-incentives-to-join-exchange-cb-governor-190497/) · `en`
+
+ECONOMYNEXT – Holders of Sri Lanka’s defaulted sovereign bonds have sufficient incentives to participate in an exchange launched this week, leading to a high take-up, Central Bank Governor Nandalal Weerasinghe said.
+
+“What we can see, from the bondholder’s point of view, it has sufficient incentives to participate, in terms of the exchange fee, in terms of the macro-linked bonds they were asking,” Governor Weerasinghe told reporters Wednesday.
+
+“A lot of incentives and encouragement for them to participate and get new bonds and get new bonds in exchange for the bonds they are holding.
+
+“I do not think it would be in the best interests of anyone to holdout.”
+
+Sri Lanka has issued bonds linked to gross domestic product, so-called macro-linked bonds which allows both capital appreciation and coupon increases if GDP grows faster than expected in a new type of so-called ‘state-contingent’ bonds.
+
+...
+
+[Data](articles/90c00931.json)
+
+[Extended Data](ext_articles/90c00931.ext.json)
 
 ---
 
@@ -1810,6 +1870,26 @@ Punduloya police say that steps will be taken to get rid of the fertilizer on th
 
 ---
 
+### ඇඟිලි සලකුණු සටහන් යන්ත්‍ර යෙදුවාට සෞඛ්‍ය වෘත්තීය සමිතයක විරෝධය
+
+*2024-11-27 17:18:59* · [`adalk`](https://www.ada.lk/breaking_news/ඇඟිලි-සලකුණු-සටහන්-යන්ත්‍ර-යෙදුවාට-සෞඛ්‍ය-වෘත්තීය-සමිතයක-විරෝධය/11-413318) · `si`
+
+ඇතැම් පළාත් සභා රෝහල්වල සේවය කරන පරිපූරක වෛද්‍ය වෘත්තිකයන්  සේවයට පැමිණීම හා පිටවීම සලකුණු කිරීම ඇඟිලි සලකුණු යන්ත්‍ර හරහා සිදුකිරීමට තීරණය කර තිබෙන බව පරිපූරක වෛද්‍ය වෘත්තීන්ගේ ඒකාබද්ධ බල මණ්ඩලය සඳහන් කරයි.
+
+තෝරාගත් වෘත්තිකයන්ට පමණක් මෙම නීතිය ක්‍රියාත්මක කරන නිසා එයට විරෝධය දක්වන බවත්, මේ නිසා මෙම ක්‍රියාව වහාම නවතා දැමිය යුතු බවත් එම සංගමය පෙන්වා දෙයි.
+
+සෞඛ්‍ය අමාත්‍යාංශය හා ඊට අනුබද්ධ ආයතනවල සමහර පරිපාලකයන් පහුගිය කාලයේ සෞඛ්‍ය සේවාවේ තෝරාගත් වෘත්තිකයන්ට පමණක් පැමිණීම හා පිටවීම සටහන් කිරීම සඳහා ඇඟිලි සලකුණු යන්ත්‍රය භාවිත කරන ලෙස උපදෙස් ලබාදුන්  බවද සඳහන් කරයි.
+
+තෝරාගත් ක්ෂේත්‍රවලට පමණක් මෙම ක්‍රමය හඳුන්වා දුන් නිසා එයට විරෝධය දැක්වූ බවත්, මේ නිසා එම ක්‍රමය අහසි කරගත් බවත්, නැවතත් එම ක්‍රමය ඇති කිරීමට සැලසුම් කර තිබෙන බවද පෙන්වා දෙයි.
+
+පොදුවේ සියලුම සේවකයන්ට ඇඟිලි සලකුණු ක්‍රමය ක්‍රියාත්මක කරනු ලබනවා නම් ඒ සඳහා පූර්ණ සහාය ලබා දෙන බවත්, එහෙත් එක් කණ්ඩායමකට පමණක් මෙම ක්‍රමය ක්‍රියාත්මක කිරීම අසාධාරණ බවද පෙන්වා දෙයි.
+
+...
+
+[Data](articles/532d3e8f.json)
+
+---
+
 ### Smoke sales down 50 percent in 10 years
 
 *2024-11-27 17:13:43* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කදී-දුම්වැටි-අලෙවිය-සියයට-50කින්-පහළට/11-413317) · `si`
@@ -2365,97 +2445,5 @@ At the Ministry level, the Secretary General of Irrigation, the Director General
 [Data](articles/1f591224.json)
 
 [Extended Data](ext_articles/1f591224.ext.json)
-
----
-
-### Sri Lanka sees 7,958 new active credit cards in September 2024
-
-*2024-11-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-7958-new-active-credit-cards-in-september-2024-190311/) · `en`
-
-ECONOMYNEXT – New active credit cards in Sri Lanka increased by 7,958 in September this year, the central bank data showed, with local banks promoting along with the key fast moving consumer goods (FMCG) vendors amid falling interest rates.
-
-The number of active credit card recorded 1,936,336 by end September, compared to 1,028,378 in August this year, showing an increase of 7,958.
-
-“Most banks have been aggressively pushing for credit cards in September in the falling interest rate regime. This is why you can see many offers for credit cards in populour FMCG outlets,” a currency dealer said
-
-The number of active credit cards has risen 1 percent or 19,251 in the first nine months from 1,917,085 by the end of last year, the official data showed.
-
-Analysts said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than last year.
-
-...
-
-[Data](articles/6d35f471.json)
-
-[Extended Data](ext_articles/6d35f471.ext.json)
-
----
-
-### Muslim schools closed
-
-*2024-11-27 15:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முஸ்லிம்-பாடசாலைகள்-மூடப்பட்டன/76-347875) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Muslim schools closed temporarily in Central Province till Nov 29 due to Ministry of Education announcement.
-
-🟩
-
-The Ministry of Education of the Central Province has announced that all Muslim schools and pre -schools in the Central Province will be temporarily closed till November 29.
-
-◼️
-
-[Data](articles/a4cd465d.json)
-
-[Extended Data](ext_articles/a4cd465d.ext.json)
-
----
-
-### Sri Lanka stocks close up driven by interest in banking stocks
-
-*2024-11-27 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-interest-in-banking-stocks-153832/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader ASPI closed up 0.66 percent, or 85.80 points, at 13,049; while the more liquid S&P SL20 Index closed up 0.85 percent, or 32.49 points, at 3,876.
-
-Top positive contributors to the ASPI were Sampath Bank (up at 95.30), Hatton National Bank (up at 230.00), Richard Pieris and Co (up at 25.20), Dipped Products (up at 44.00), and DFCC Bank (up at 87.60).
-
-Commercial Bank was up at 122.00), and National Development Bank was up at 83.30.
-
-NDB said its debenture issue to raise 5 billion rupees was oversubscribed.
-
-Softlogic Life Insurance announced a cash dividend of 4.5 rupees a share.
-
-There was a net foreign inflow of 95 million rupees. (Colombo/Nov27/2024)
-
-◼️
-
-[Data](articles/7ed09542.json)
-
-[Extended Data](ext_articles/7ed09542.ext.json)
-
----
-
-### Alert in the air force sky
-
-*2024-11-27 15:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானப்படை-வானில்-உஷார்/175-347874) · `ta`
-
-Air Force rescues flood victim in Ampara. Helicopter 212 saves man from Eravur Milawattavan, transports to Batticaloa Air Force Base.
-
-🟩
-
-The Air Force continues to monitor areas affected by inclement weather.
-
-Accordingly, the 212 Helicopter of the Air Force's II forces was sent to the Ampara area on Wednesday (27).
-
-During the operation, a man who was flooded in the Eravur Milawattavan area was rescued by helicopter and later taken to the Batticaloa Air Force Base.
-
-◼️
-
-[Data](articles/c725f37f.json)
-
-[Extended Data](ext_articles/c725f37f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 06:47:31**
+As of **2024-11-28 05:51:03**
 
 ## Newspaper Stats
 
-*Scraped **57,324** Articles*
+*Scraped **57,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 596
-islandlk | 3,440
+islandlk | 3,431
 economynextcom | 3,486
 dailyftlk | 3,955
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,315 (100.0%) of 57,324 articles have been extended.
+57,315 (100.0%) of 57,315 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -455,114 +455,6 @@ The incident had occurred near the bridge located close to the Karaitivu bus sta
 [Data](articles/ddae7b2f.json)
 
 [Extended Data](ext_articles/ddae7b2f.ext.json)
-
----
-
-### Fine Lines and Wrinkles…
-
-*2024-11-27 22:18:00* · [`islandlk`](http://island.lk/fine-lines-and-wrinkles/) · `en`
-
-I’ve had queries coming my way regarding Fine Lines and Wrinkles.
-
-Some would say with age it’s a natural happening but I believe if we take care of our skin, we can tone down Fine Lines and Wrinkles a great deal.
-
-Try out these homemade remedies and I’m sure you will notice a difference…
-
-Mix aloe vera gel with honey and apply it to your face. Leave it on for 15-20 minutes. Aloe vera has soothing properties, while honey provides moisture.
-
-Mash a ripe avocado and mix it with a teaspoon of honey. Apply the mixture to your face for about 15-20 minutes. Avocado is rich in vitamins and antioxidants that can nourish the skin.
-
-: Mix equal parts of plain yoghurt and honey. Apply it to your face and leave it on for 15-20 minutes. The lactic acid in yoghurt can help exfoliate the skin while honey is moisturizing.
-
-Mash a ripe banana and apply it to your face for around 15 minutes. Bananas are packed with vitamins and nutrients that can hydrate the skin.
-
-...
-
-[Data](articles/4e3a9e75.json)
-
----
-
-### Historic Panadura clock tower restored by Asian Paints Causeway’s restoration drive
-
-*2024-11-27 22:13:00* · [`islandlk`](http://island.lk/historic-panadura-clock-tower-restored-by-asian-paints-causeways-restoration-drive/) · `en`
-
-Marking the beginning of a nationwide initiative to protect and restore Sri Lanka’s iconic landmarks, Asian Paints Causeway has completed the restoration of the Panadura Clock Tower, a symbolic landmark of the Kalutara district.
-
-The restoration of the clock tower began as painters cleaned and repainted the structure, which was in a state of decaying paint. The event was attended by representatives from the Panadura Municipal Council, the Panadura community, local merchants, and officials from Asian Paints Causeway. The clock tower was repainted with SmartCare AquaSafe, a leading exterior paint known for its durability against algae, dirt, and peeling, restoring the tower’s former charm.
-
-...
-
-[Data](articles/0cb01bbf.json)
-
----
-
-### ICMA Australia celebrates 25 years of excellence in Sri Lanka with strategic global expansion
-
-*2024-11-27 22:12:00* · [`islandlk`](http://island.lk/icma-australia-celebrates-25-years-of-excellence-in-sri-lanka-with-strategic-global-expansion/) · `en`
-
-The Institute of Certified Management Accountants (ICMA) Australia celebrated a milestone Silver Jubilee in Sri Lanka with a prestigious ceremony amidst industry leaders, distinguished professionals, and members of the academic community and diplomatic representatives from the Australian and New Zealand High Commissions’. David Cartney, Global Vice President was the Chief Guest.
-
-The landmark event commemorated a quarter-century of excellence in strategic management accounting education. It also unveiled significant strategic initiatives positioning Sri Lanka as a global hub for management accounting education.
-
-The event also showcased the institute’s plans for expanding its educational offerings and strengthening its global presence through Sri Lanka’s enhanced position as a center of excellence.
-
-...
-
-[Data](articles/df6209b0.json)
-
----
-
-### Book launch commemorates 125th birth anniversary of Professor Gunapala Malalasekera
-
-*2024-11-27 22:10:00* · [`islandlk`](http://island.lk/book-launch-commemorates-125th-birth-anniversary-of-professor-gunapala-malalasekera/) · `en`
-
-The Malalasekera Foundation proudly launched “Professor Gunapala Malalasekera: A Photographic Portrait”, commemorating the 125th birth anniversary of the legendary scholar and cultural advocate, Professor Gunapala Piyasena Malalasekera. Authored by the Venerable Wetara Mahinda Thero after eight years of meticulous research, the book is a heartfelt tribute to Professor Malalasekera’s unparalleled contributions to education, Buddhism, and the cultural heritage of Sri Lanka.
-
-Professor Malalasekera, often referred to as “GPM,” was a visionary who dedicated his life to educational reform and national pride amidst the challenges of colonial rule. Inspired by influential figures within the Buddhist educational movement, he played a significant role in shaping Sri Lanka’s national education system and instilling cultural values that resonated across generations.
-
-...
-
-[Data](articles/e6ce7d62.json)
-
----
-
-### Dialog unveils Sri Lanka’s first AI Assistant for local developer community
-
-*2024-11-27 22:08:00* · [`islandlk`](http://island.lk/dialog-unveils-sri-lankas-first-ai-assistant-for-local-developer-community/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly announces the launch of its AI-powered assistant through the IdeaBiz platform, providing support for developers, IT teams, and IdeaBiz partners. As the first of its kind in the country, the IdeaBiz AI Assistant is set to transform how users interact with technical information, access onboarding assistance, and receive real-time support.
-
-...
-
-[Data](articles/43a45982.json)
-
----
-
-### Global Fund for Coral Reefs and Oceanpick partner to transform aquaculture
-
-*2024-11-27 22:07:00* · [`islandlk`](http://island.lk/global-fund-for-coral-reefs-and-oceanpick-partner-to-transform-aquaculture/) · `en`
-
-The Global Fund for Coral Reefs1 (GFCR), an investment fund managed by Pegasus Capital Advisors, has announced an investment in Oceanpick, South Asia’s premier oceanic barramundi farm backed by both Best Aquaculture Practices (BAP) and Aquaculture Stewardship Council (ASC) certifications.
-
-This investment aims to showcase advanced sustainable aquaculture practices, promote economic development in local communities, and support climate-resilient livelihoods for coastal communities in Sri Lanka.
-
-...
-
-[Data](articles/3a9357a2.json)
-
----
-
-### CBSL’s new single policy rate decision boosts stocks
-
-*2024-11-27 22:04:00* · [`islandlk`](http://island.lk/cbsls-new-single-policy-rate-decision-boosts-stocks/) · `en`
-
-The Central Bank’s new single policy rate that reduced 50 basis points gave some impetus to the stock exchange yesterday. This also indicated some positive sentiment among investors, stock market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 102.68 points, while the S and P SL20 was up by 39.4 points. The turnover stood at Rs 3.6 billion with eight crossings.
-
-...
-
-[Data](articles/6f8f0f35.json)
 
 ---
 
@@ -2445,5 +2337,183 @@ He has been appointed as the Deputy Director General (Medical Services) II as th
 [Data](articles/9e465c64.json)
 
 [Extended Data](ext_articles/9e465c64.ext.json)
+
+---
+
+### Several trains will be canceled
+
+*2024-11-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203800) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Several trains canceled due to bad weather. Colombo Fort-Badulla postal train halted. Trains restricted at Polonnaruwa and Nanu Oya stations."
+
+🟩
+
+A few train travel has been canceled due to the adverse weather conditions in many parts of the island.
+
+According to the Railway Department, the postal train scheduled to travel to Badulla from Colombo Fort to Badulla this night, the Railway Department said.
+
+The railway train is restricted to the Polonnaruwa Railway Station and the upcountry train is restricted to the Nanu Oya railway station.
+
+◼️
+
+[Data](articles/5093c6c7.json)
+
+[Extended Data](ext_articles/5093c6c7.ext.json)
+
+---
+
+### 24 hour special police operation room launches urgent disaster
+
+*2024-11-27 15:05:34* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-ආපදා-දන්වන්න-24-පැයේ--විශේෂ-පොලිස්-මෙහෙයුම්-මැදිරියක්-අරඹයි/11-413309) · `si`
+
+Special police operation room launched for emergency coordination. Four phone numbers and one email available 24/7 for reporting disasters and seeking help.
+
+🟩
+
+Police Headquarters Announces that a special police operation room has been established in order to report and coordinate with various emergency situations caused by inclement weather.
+
+The operating room and four telephone numbers and an e-mail address have been introduced to join the people with 24 hours.
+
+According to the police media division, including the assistance of emergency disaster, displaced and police assistance, 0112430912, 0112013051, 0112013051, 0112013051, 0112013051, 0112013051, 0112013051, 0112013051.
+
+◼️
+
+[Data](articles/f04ea28a.json)
+
+[Extended Data](ext_articles/f04ea28a.ext.json)
+
+---
+
+### Cyclone threat as depression moves East of Sri Lanka to India
+
+*2024-11-27 14:53:00* · [`economynextcom`](https://economynext.com/cyclone-threat-as-depression-moves-east-of-sri-lanka-190252/) · `en`
+
+ECONOMYNEXT- A deep depression off the Eastern coast of Sri Lanka could develop in to a cyclone with up to 150 millimeters of rain and strong winds the Department of Meteorology said.
+
+“It is likely to move closer to the east coast of Sri Lanka and intensify further into a cyclonic storm during next 12 hours,” a weather warning issued near mid-day said.
+
+“Showers or thundershowers will occur at times in Northern, North-central, Central, western and North-western provinces and in Trincomalee, Batticaloa and Kegalle districts,”
+
+“Very heavy showers above 150 mm are likely at some places.”
+
+The weather system is likely to move north and hit the Eastern coast of India, the Indian Met Dept said.
+
+Sri Lanka has already seen heavy rain over the past 24 hours.
+
+◼️
+
+[Data](articles/54cbbf61.json)
+
+[Extended Data](ext_articles/54cbbf61.ext.json)
+
+---
+
+### Cyclone threat as depression moves East of Sri Lanka to India
+
+*2024-11-27 14:53:00* · [`economynextcom`](https://economynext.com/cyclone-threat-as-depression-moves-east-of-sri-lanka-to-india-190252/) · `en`
+
+ECONOMYNEXT- A deep depression off the Eastern coast of Sri Lanka could develop in to a cyclone with up to 150 millimeters of rain and strong winds the Department of Meteorology said.
+
+“It is likely to move closer to the east coast of Sri Lanka and intensify further into a cyclonic storm during next 12 hours,” a weather warning issued near mid-day said.
+
+“Showers or thundershowers will occur at times in Northern, North-central, Central, western and North-western provinces and in Trincomalee, Batticaloa and Kegalle districts,”
+
+“Very heavy showers above 150 mm are likely at some places.”
+
+The weather system is likely to move north and hit the Eastern coast of India, the Indian Met Dept said.
+
+Sri Lanka has already seen heavy rain over the past 24 hours.
+
+◼️
+
+[Data](articles/71f8a3fb.json)
+
+[Extended Data](ext_articles/71f8a3fb.ext.json)
+
+---
+
+### Disaster deaths up
+
+*2024-11-27 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203799) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"4 killed, 6 injured in disaster. 141 local secretaries in 18 districts affected. 230,947 individuals impacted by 66,947 families."
+
+🟩
+
+The Director General of the Disaster Management Center Udaya Herath says that four people have been killed and six others have been killed and six others have been killed.
+
+The condition affected by 141 local secretaries in 18 districts of the country.
+
+The Disaster Management Center said that 230,947 persons have been affected by 66,947 families.
+
+◼️
+
+[Data](articles/d81b9d82.json)
+
+[Extended Data](ext_articles/d81b9d82.ext.json)
+
+---
+
+### Red hazard alert to several areas
+
+*2024-11-27 14:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-சிவப்பு-அபாய-எச்சரிக்கை/175-347869) · `ta`
+
+Heavy rainfall triggers landslide warnings across three districts. Red alerts issued for multiple areas including Kandy. Authorities urge immediate evacuation. Coordination between Disaster Management Center, police, military, and regional offices underway.
+
+🟩
+
+Police Media Spokesperson DIG Nihal Talduwa said on Wednesday that a landslide warning has been issued to many parts of the three districts due to heavy rains.
+
+He also said that red notices have been issued and the people of the area have been immediately announced to leave the places.
+
+Accordingly, in the Kandy district, the red warning has been issued to Harispattu, Medathumbara, Gangadha Koralaya, Ududumbara, Yattinuwara, Pad Hewahada, Teltottai, Padatumbara, Vilgamuwa, Ambagamuwa, Ambagamuwa, Korala, Ratottai, Naula.
+
+The police media spokesman said that it was important to leave the area as soon as the people of the area were to leave the areas and the authorities of the Disaster Management Center, the police, the military and the regional offices were coordinated.
+
+◼️
+
+[Data](articles/c0bb4ea7.json)
+
+[Extended Data](ext_articles/c0bb4ea7.ext.json)
+
+---
+
+### If famous places are unclean, P H I La Clean ....
+
+*2024-11-27 14:36:04* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසිද්ධ-ස්ථාන-අපවිත්‍ර-කලොත්-P-H-I-ලා-Clean-කරයි-----/11-413308) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Public Health Inspectors launching island-wide crackdown on cleanliness in public spaces by 2025. Pilot project underway in Badulla, prosecuting offenders. 350 Health Medical Officers involved.
+
+🟩
+
+Public Health Inspectors will be implemented by the Public Health Inspectors in 2025 to prosecute public places.
+
+The program is running to cover the entire island and using the power and laws of the public health inspectors.
+
+Accordingly, in bus hatts, paths and other public places will be arrested and resorted to mass harmful, crushing and public places, as well as the disposal of garbage, and disposal of garbage..
+
+Also, by the end of the year 2025, public health inspector Sandun Ratnayake said that all necessary activities will be conducted to be able to carry the public places.
+
+Meanwhile, the pilot project has commenced in the Badulla Municipal Council area and has filed a prosecution to nearly 20 people in the area.
+
+Public Health Inspector Sandun Ratnayake added that public health inspectors serving in 350 Health Medical Officer of Health island wide. (I J)
+
+◼️
+
+[Data](articles/08de2491.json)
+
+[Extended Data](ext_articles/08de2491.ext.json)
 
 ---

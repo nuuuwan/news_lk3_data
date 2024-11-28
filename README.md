@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 19:02:55**
+As of **2024-11-28 20:26:21**
 
 ## Newspaper Stats
 
-*Scraped **57,452** Articles*
+*Scraped **57,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,428
-adaderanalk | 6,960
-tamilmirrorlk | 8,170
+adalk | 5,431
+adaderanalk | 6,961
+tamilmirrorlk | 8,174
 virakesarilk | 9,369
 adaderanasinhalalk | 9,919
 
@@ -26,81 +26,281 @@ adaderanasinhalalk | 9,919
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,443 (100.0%) of 57,452 articles have been extended.
+57,459 (100.0%) of 57,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### யாழ்.தென்மராட்சியில் 1,816 குடும்பங்கள் சீரற்ற வானிலையால் பாதிப்பு
+### வெள்ளத்தில் சிக்கிய உழவு இயந்திரம் - 4 பேர் அதிரடி கைது
 
-*2024-11-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199936) · `ta`
+*2024-11-28 20:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வெள்ளத்தில்-சிக்கிய-உழவு-இயந்திரம்-4-பேர்-அதிரடி-கைது/74-347950) · `ta`
 
-யாழ்.தென்மராட்சி பிரதேசத்தில் 1,816 குடும்பங்களைச் சேர்ந்த 5,749 பேர் வெள்ள அனர்த்தத்தால் பாதிக்கப்பட்டுள்ளனர்.
+அம்பாறை - காரைதீவு மாவடிப்பள்ளி பாலத்திற்கு அருகில் உழவு இயந்திரம் வெள்ளத்தில் சிக்கியதில் மாணவர்கள் உயிரிழந்த சம்பவம் தொடர்பில் 4 பேர் கைது செய்யப்பட்டுள்ளனர்.
 
-இவர்களில், யா/கொடிகாமம் திருநாவுக்கரசு மகா வித்தியாலய இடைத்தங்கல் முகாமில், 59 குடும்பங்களைச் சேர்ந்த 186 பேரும் யா/கொடிகாமம்  போக்கட்டி அரசினர் தமிழ் கலவன் பாடசாலை இடைத்தங்கல் முகாமில், 47 குடும்பங்களைச் சேர்ந்த 281 பேரும் தங்க வைக்கப்பட்டுள்ளனர்.
+நிந்தவூர் மத்ரசா அதிபர், ஆசிரியர் மற்றும் உதவியாளர்கள் இருவரும் இன்று(28) கைது செய்யப்பட்டுள்ளனர்.
 
-இங்கு தங்கியுள்ள கற்பிபிணித் தாய்மார் மற்றும் வயோதிபர்களுக்கான மருத்துவ சேவைகள் வழங்கப்பட்டு வருகின்றன.
+சந்தேகநபர்களை தற்போது சம்மாந்துறை பொலிஸ் நிலையத்திற்கு அழைத்துச் சென்று வாக்குமூலம் பெற்ற பின்னர் சம்மாந்துறை நீதவான் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டிருந்தது.
 
-இதேவேளை ,தென்மராட்சி பிரதேசத்தின் அரச அலுவலகங்கள் மற்றும் வணக்க ஸ்தலங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளதை காணக் கூடியதாக இருக்கிறது.
+இதன்போது கைது செய்யப்பட்ட அதிபர் மற்றும் ஆசிரியரை எதிர்வரும் டிசம்பர் மாதம் 2ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
 
-சாவகச்சேரி பிரதேச சபை மற்றும் கொடிகாமம் பொலிஸ் நிலையம் மற்றும் ஆலயங்களுக்குள்ளும் வெள்ளம் உட்புகுந்துள்ளது.
-
-தற்போதைய நிலவர அறிக்கையின்படி  (இன்று (28) நண்பகல் 12.00 மணி வரையிலானது) யாழ்ப்பாணத்தில் ஏற்பட்டுள்ள சீரற்ற காலநிலை காரணமாக, யாழ்ப்பாணம் முழுவதும் 17,095 குடும்பங்களைச் சேர்ந்த 56,732 பேர் பாதிக்கப்பட்டுள்ளனர்.
+கடந்த 26.11.2024 செவ்வாய்க்கிழமை நிந்தவூர் காஷிபுல் உலூம் அறபுக் கல்லூரி மத்ரசா முடிந்ததும் குறித்த மாணவர்களுக்கு வீட்டுக்குச் செல்ல பஸ் இல்லாத காரணத்தினால் குறித்த மாணவர்களுக்கு அறிவுறுத்தல்களை வழங்கியதுடன் நிர்வாகம் மெத்தனப் போக்குடன் இவ்விடயத்தில் நடந்து கொண்டுள்ளதாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
 
 ...
 
-[Data](articles/140df05d.json)
+[Data](articles/b1b5fc2d.json)
 
 ---
 
-### இலங்கையின் பொருளாதார எதிர்காலம் - மலேசியாவிலிருந்தான படிப்பினைகள், பிரெட்டன் வூட்ஸ் நிறுவனங்களின் வகிபங்கு மற்றும் பிரிக்ஸ் அங்கத்துவத்தின் சாத்தியப்பாடுகள்
+### Handbag
+
+*2024-11-28 19:29:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியிடம்-நற்சான்று-பத்திரங்கள்-கையளிப்பு/175-347949) · `ta`
+
+Nine new ambassadors and a high commissioner presented credentials to Sri Lanka's president. Countries represented: Burkina Faso, Bosnia, Azerbaijan, Belarus, Spain, Republic of Congo, Kenya, Guinea.
+
+🟩
+
+Nine newly appointed Ambassadors and a High Commissioner handed over the securities to President Anura Kumara Dissanayake at the Presidential Office today (28).
+
+Accordingly, Burkina Faso, Bosnia and Herzegovina, The Republic of Azerbaijan, The Republic of the Republic of Beleurus, the Republic of BeleurusThe new ambassadors of the Republic of the Republic, The Republic of Congo, and the Republic of Guinea have been appointed by the Republic of the Republic of the Republic of the Republic of the Republic and the New High Commissioner of Kenya.
+
+01.. Desire Boniface Some -Burkina Faso Ambassador (New Delhi)
+
+௦௨. Harris Herley Mr.Haris Hrle - Bosnia and Esrekovina Ambassador (New Delhi)
+
+௦௩. Elsin Hussainly Mr. Elchin Huseynli - Azarbaijan Republican Ambassador (New Delhi)
+
+05. Michall Cosco Mr. Mikhal Kasko - Ambassador of the Republic of Belarus (New Delhi)
+
+07. Yuan Antonio March Mr Mr. Juan Antonio March Pujol - Ambassador of the Spanish Republic (New Delhi)
+
+...
+
+[Data](articles/f985eb97.json)
+
+[Extended Data](ext_articles/f985eb97.ext.json)
+
+---
+
+### Principal, a teacher and two others arrested for Nindavur Tractor accident
+
+*2024-11-28 19:23:42* · [`adalk`](https://www.ada.lk/breaking_news/නින්දවූර්-ට්‍රැක්ටර්-අනතුරට-විදුහල්පති--ගුරුවරයෙක්-හා-තවත්-දෙදෙනෙක්-අල්ලයි/11-413352) · `si`
+
+N
+
+🟩
+
+The police have arrested two other persons with the Principal and a teacher to leave the residents of Samanora, Samanora, who was living in the Arabic school.
+
+They have decided to send these students to the school to send these students to the house due to the bad atmosphere of the end of the 26th.
+
+The students from Kabetthiv junction had no vehicle to go to Samanthurai, as they had no vehicle to go to Samadiplassa, and went on the rise in a tract.
+
+On the way, eight students and six students have disappeared as a tacket escaped from the road.
+
+SSP charges in charge of the incident. A special investigation was launched on the instructions of Jayapathath and the investigation was carried out by the Chief Inspector of Police OIC Chief Inspector Wijesinghe.
+
+A senior police officer in the Ampara District said that the arrested persons will be produced before the Sauthura Magistrate's Court.
+
+...
+
+[Data](articles/a6223fdb.json)
+
+[Extended Data](ext_articles/a6223fdb.ext.json)
+
+---
+
+### Leopard
+
+*2024-11-28 19:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்திலிருந்து-தப்பிக்க-வீட்டுக்குள்-புகுந்த-சிறுத்தை/175-347947) · `ta`
+
+Leopard found refuge in flooded Mullaitivu home. Wildlife officials rescue 6-month-old cat, releasing it safely. Heavy rains cause pond flooding, attracting wildlife like crocodiles near human habitats.
+
+🟩
+
+The leopard entered the house to escape the floods in Mullaitivu, Mullaitivu, was caught by wildlife protection authorities.
+
+Wildlife and villages have been submerged due to the ponds and reservoirs, including the Muttiyagattu reservoir.
+
+On their information, a group of wildlife protection officers, including veterinarians, from Kilinochchi, came and rescued it and released it safely.
+
+They said that the well -developed leopard is six months old and that wildlife, including crocodiles, often visit humans where the crocodiles are in heavy rains and floods.
+
+◼️
+
+[Data](articles/7d27bace.json)
+
+[Extended Data](ext_articles/7d27bace.ext.json)
+
+---
+
+### Special Report of the Department of Meteorology
+
+*2024-11-28 18:41:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-விசேட-அறிக்கை/175-347945) · `ta`
+
+Deep winds in SW Bengal Bay, 110km NE of Trincomalee. Moving NW, may intensify. Rain/thunderstorms in northern provinces, Trincomalee district. Heavy rainfall possible. Strong winds in several provinces. Lightning and thunderstorm warnings issued.
+
+🟩
+
+The Department of Meteorology has said that the deep winds in the Southwest Bengal Bay area are located about 110 kilometers northeast of Trincomalee this morning.
+
+The department said this while issuing a weather forecast tomorrow (29).
+
+It has been reported that it is moving slowly in the northwestern direction near the east coast of the country and is more likely to grow.
+
+However, rain or thunderstorms will occur from time to time in the northern and northern provinces of the country and the Trincomalee district.
+
+Mm in some places in the Northern Province. Heavy rains are more likely to rain over 100.
+
+Rainfall in the upper, Sabaragamuwa and North Western Provinces and Galle District.
+
+Other parts of the evening or night can occur in widespread rain or thunderstorms.
+
+Winds from time to time in the Northern, North Central, Northwest, Central and Eastern Provinces. The wind can blow at 60 o'clock.
+
+...
+
+[Data](articles/d7bd7d1f.json)
+
+[Extended Data](ext_articles/d7bd7d1f.ext.json)
+
+---
+
+### 1,816 families in Jaffna, Jaffna
+
+*2024-11-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199936) · `ta`
+
+Here's a summary of the given information in approximately 200 characters:
+
+
+
+"Floods affect 5,749 people in Jaffna; 56,732 total affected district-wide. 3,467 housed in camps. Medical aid provided. Infrastructure damage reported."
+
+🟩
+
+5,749 people from 1,816 families have been affected by the floods in the Jaffna Thenmarachchi area.
+
+Among them, 186 persons from 59 families have been housed in the Y/Kodikamam Thirunavukkarasu Maha Vidyalaya Camp, and 281 from 47 families in the Tamil Kalavan School Camp.
+
+Medical services are being provided for the elderly mothers and the elderly.
+
+Meanwhile, flooding has been flooded within the state offices and places of worship of the Thenmarachchi area.
+
+The floods have been flooded within the Chavakachcheri Pradeshiya Sabha and the Kodikamam police station and the temples.
+
+According to the current report, 56,732 people from 17,095 families across Jaffna have been affected by the inclement weather in Jaffna.
+
+Also, 7,063 persons from 1,995 families have been housed in 80 security centers, according to the Jaffna District Secretariat.
+
+◼️
+
+[Data](articles/140df05d.json)
+
+[Extended Data](ext_articles/140df05d.ext.json)
+
+---
+
+### Australia passes social media ban for children under 16
+
+*2024-11-28 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103849/australia-passes-social-media-ban-for-children-under-16) · `en`
+
+Australia passed a law on Thursday to ban social media for children aged under 16 after days of heated debate, setting a standard for other countries to follow in a global push to curb the power of Big Tech.
+
+The law, expected to take effect in November 2025, sets some of the toughest social media controls in the world and will force platforms to take reasonable steps to ensure age-verification protections are in place.
+
+After a parliamentary session that went into the night, the country’s Senate, or upper house of parliament, voted to pass the law after the centre-left Labor government of Prime Minister Anthony Albanese won support from the conservative opposition.
+
+The Senate’s approval for the law is the final legislative hurdle after the lower house, or House of Representatives, passed the bill on Wednesday.
+
+...
+
+[Data](articles/6e54a8d3.json)
+
+[Extended Data](ext_articles/6e54a8d3.ext.json)
+
+---
+
+### Sri Lanka's Economic Future - Lessons from Malaysia
 
 *2024-11-28 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199959) · `ta`
 
-ஆசிய நிதியியல் நெருக்கடியின் போது (1997-1998) மலேசியாவின் பொருளாதாரப் பயணமும், சர்வதேச நாணய நிதிய உதவிக்கான எதிர்ப்பும் இன்று இலங்கையர்களுக்கு கணிசமான படிப்பினைகளை வழங்குகின்றன, ஏனெனில் அதிகமான கடன், பணவீக்கம் மற்றும் வீழ்ச்சியடைந்து வரும் வெளிநாட்டு கையிருப்பு போன்றவற்றால் இலங்கை அதன் பொருளாதார சவால்களை வழிநடாத்துகின்றது.
+Here's a summary of 200 characters:
+
+
+
+Malaysia's 1997-98 financial crisis offers valuable lessons for Sri Lanka's current economic struggles. Both nations faced excessive debt, inflation, and declining foreign reserves. Malaysia's resistance to IMF aid demonstrates alternative approaches to economic recovery.
+
+🟩
+
+During the Asian financial crisis (1997-1998), Malaysia's economic journey and the opposition to international currency aid provides significant lessons to Sri Lankans today, as Sri Lanka is leading its economic challenges due to excessive debt, inflation and falling foreign stockpile.
 
 ◼️
 
 [Data](articles/98254c65.json)
 
+[Extended Data](ext_articles/98254c65.ext.json)
+
 ---
 
-### උඩරට දුම්රිය ධාවනයේ වෙනසක්
+### A change in Upcountry Railway Run
 
 *2024-11-28 18:21:05* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයේ-වෙනසක්/11-413349) · `si`
 
-වර්ෂාවත් සමඟ පස්කඳු, ගල්පර්වත සහ ගස්කොළන් උඩරට දුම්රිය මාර්ගයට කඩා වැටී තිබීම නිසා කොළඹ කොටුව බදුල්ල අතර උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයේ වෙනස්කම් කීපයක් සිදු කරන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය අද (28දා) පැවසීය .
+Here's a summary in 200 characters:
 
-උඩරට දුම්රිය මාර්ගයේ හාලිඇළ, දෙමෝදර අතර උඩුවර 7කණුව ප්‍රදේශයේ දී දුම්රිය මාර්ගයට කඩා වැටී ඇති විශාල පස්කන්ද මෙතෙක් ඉවත් කර නොමැති නිසා බදුල්ල දෙමෝදර අතර දුම්රිය ධාවනය මුළුමනින්ම ඇණ හිට ඇත.
 
-...
+
+Rainfall disrupts rail services between Colombo Fort and Badulla. Freight train operations continue, but passenger trains affected. Night mail trains suspended. Track removal underway in Uduru area. Restoration efforts ongoing for Kandyan line.
+
+🟩
+
+The Nawalapitiya Railway Control Room said that a railway line between Colombo Fort Badulla Badulla with the rainfall with rain.
+
+Deodara, Badulla, has not been completely stopped due to the Uduru 7th Post, Damuriya Railway Station.
+
+The freight traffic train from Colombo Fort to Badulla and 1015 runs from Colombo Fort to Badulla and the Colombo Fort is due to run from Badulla to Nanu Oya to Colombo.Udarata Menike Railway Train at Nanu Oyaye Colombo Fort.The Railways Department said.
+
+None of the night mail trains between Badulla Fort.Railway authorities say that the train is scheduled to run.
+
+A large number of railway stations at the Uduru area of ​​Ramadu, the large number of large railway stations in the Uduruwara area has been removed and the removal of the railway track is already underway, and largelyThe Railway Department further stated that at the Kandyan railway line will be able to restore trains between Badulla Fort.
+
+◼️
 
 [Data](articles/f20b38b2.json)
 
+[Extended Data](ext_articles/f20b38b2.ext.json)
+
 ---
 
-### 42 ஓட்டங்களுக்கு சுருண்டது இலங்கை
+### Sri Lanka curled up for 42 runs
 
 *2024-11-28 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199961) · `ta`
 
-தென் ஆபிரிக்காவுக்கு எதிராக டேர்பன், கிங்ஸ்மீட் விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்பின் முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் பதிலுக்கு முதல் இன்னிங்ஸில் துடுப்பெடுத்தாடிய இலங்கை 13.5 ஓவர்களில் சகல விக்கெட்ளையும் இழந்து 42 ஓட்டங்களுக்கு சுருண்டது.
+Sri Lanka collapsed to 42/10 in 13.5 overs vs South Africa in ICC World Test Championship. Lowest total in Test history. Kamindu Mendis (13*) and Lahiru Kumara (10) top scored. Marco Jensen took 7/13 in 6.5 overs. South Africa replied with 191/4.
 
-டெஸ்ட் கிரிக்கெட் வரலாற்றில் ஓர் இன்னிங்ஸில் இலங்கை பெற்ற மிகக் குறைந்த மொத்த எண்ணிக்கை இதுவாகும்.
+🟩
 
-இலங்கை அணியில் கமிந்து மெண்டிஸ் (13), லஹிரு குமார (10) ஆகிய இருவரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+Sri Lanka lost all the wickets in 13.5 overs in the first innings of the ICC World Test Championships at the Kingsmate Stadium against South Africa.
 
-தினேஷ் சந்திமால், குசல் மெண்டிஸ், ப்ரபாத் ஜயசூரிய, விஷ்வா பெர்னாண்டோ ஆகியோர் ஓட்டம் பெறாமல் ஆட்டம் இழந்தனர்.
+This is the lowest number of Sri Lanka in Test cricket history.
 
-தென் ஆபிரிக்க வேகப்பந்துவீச்சாளர் மார்க்கோ ஜென்சன் ஒரு ஓட்டமற்ற ஓவர் உட்பட 6.5 ஓவர்களில் 13 ஓட்டங்களுக்கு 7 விக்கெட்களைக் கைப்பற்றினார்.
+In the Sri Lankan squad, Kamundu Mendis (13) and Lahiru Kumara (10) received double digits.
 
-தனது 14ஆவது டெஸ்ட் போட்டியில் விளையாடும் ஜென்சன், ஓர் இன்னிங்ஸில் பதிவு செய்த அதிசிறந்த பந்துவீச்சுப் பெறுதி இதுவாகும்.
+Dinesh Chandimal, Gusal Mendis, Prabhat Jayasuriya and Vishwa Fernando lost the game.
 
-அவரை விட ஜெரால்ட் கொயெட்ஸி 18 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கெகிசொ ரபாடா 10 ஓட்டங்களுக்கு ஒரு விக்கெட்டையும் கைப்பற்றினர்.
+South African fast bowler Marco Jensen took 7 wickets for 13 runs in 6.5 overs, including an unbeaten over.
 
-...
+This is the excellent bowling of Jensen, who played in his 14th Test match, in an innings.
+
+Gerald Coetzi took 2 wickets for 18 runs and Kegiso Rabada took one wicket for 10 runs.
+
+South Africa scored 191 runs in the first innings.
+
+◼️
 
 [Data](articles/064f3f31.json)
+
+[Extended Data](ext_articles/064f3f31.ext.json)
 
 ---
 
@@ -123,6 +323,8 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 ...
 
 [Data](articles/b586014c.json)
+
+[Extended Data](ext_articles/b586014c.ext.json)
 
 ---
 
@@ -370,6 +572,32 @@ Meanwhile, 12 deaths have been confirmed while 01 person is reported missing.
 
 ---
 
+### New Chairman of the Pharmaceutical Corporation, Dr. Manuj Weerasinghe
+
+*2024-11-28 16:57:33* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-නීතිගත-සංස්ථාවේ-නව-සභාපති-විශේෂඥ-වෛද්‍ය-මනුජ-වීරසිංහ/11-413343) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Dr. Manuj Weerasinghe appointed Chairman State Pharmaceutical Corporation. Former professor Colombo University, Deputy Chairman Sri Lanka Medical Association. Promises quality healthcare system without shortfall. 35+ years experience in sector.
+
+🟩
+
+Dr. Manuj Weerasinghe, the new Chairman of the State Pharmaceutical Corporation, was commenced today (28) at the State Pharmaceutical Corporation Office at the Narahenpita.
+
+Manuja Weerasinghe is a student of Royal College, Colombo and is a professor of former community medical faculty of the Medical Faculty of Colombo University. He is a former Deputy Chairman of the Sri Lanka Medical Association of Sri Lanka Association.. Manuja Weerasinghe is a functional member of the student movement of the 'Sacred' Student at the University of Colombo for more than three decades.
+
+Speaking to the duties of his position, Dr. Manuj Weerasinghe said that the quality of quality of the quality of Sri Lanka would be given to the health system in Sri Lanka without any shortfall needed. He said that it is a very complex process, but it can be done in support of everyone.
+
+...
+
+[Data](articles/da9d5381.json)
+
+[Extended Data](ext_articles/da9d5381.ext.json)
+
+---
+
 ### "Sridharan, who called the lamp, sent it back"
 
 *2024-11-28 16:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கேற்ற-அழைத்த-சிறிதரன்-திருப்பி-அனுப்பி-விட்டார்/175-347939) · `ta`
@@ -417,6 +645,28 @@ Through the people's mandate available to the ruling government, the feeling tha
 [Data](articles/9a9a99ce.json)
 
 [Extended Data](ext_articles/9a9a99ce.ext.json)
+
+---
+
+### The influence of Fengel decreases tomorrow
+
+*2024-11-28 16:44:48* · [`adalk`](https://www.ada.lk/breaking_news/ෆෙන්ගල්ගේ-බලපෑම-හෙටින්-පසුව-අඩුවෙයි/11-413342) · `si`
+
+Fengel's influence wanes tomorrow. Deep Pressure Depression moves NW, intensifying coastal North Western areas. Thunderstorms, heavy rainfall expected in Northern regions and North Central Province.
+
+🟩
+
+The Deep Pressure Depression in the Bay of Bay of Bay Bay Baying
+
+It is slowly traveling to North Western towards North Western, which is more likely to grow in the North Western coast.
+
+Thundershowers and heavy showers will occur at several places in the North and the North, the North Central Province.
+
+◼️
+
+[Data](articles/ff8a21ad.json)
+
+[Extended Data](ext_articles/ff8a21ad.ext.json)
 
 ---
 
@@ -1128,27 +1378,41 @@ The Commissioner General further stated that the permit given to running with te
 
 ---
 
-### මන්ත්‍රී අර්චුනා අධිකරණයට භාරවෙයි
+### Patrical surrenders to court
 
 *2024-11-28 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203837) · `si`
 
-රිය අනතුරක් සිදුකොට පුද්ගලයකුට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් අධිකරණය හමුවේ පෙනී නොසිටීම හේතුවෙන් වරෙන්තු නිකුත් කර තිබූ පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්චුනා මහතාගේ වරෙන්තුව ආපසු කැඳවීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (28) නියම කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහු නීතිඥවරයෙක් මාර්ගයෙන් කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත්වීමෙන් අනතුරුව එම නියෝගය නිකුත් කර තිබේ.
 
-සැකකාර මන්ත්‍රීවරයා වෙනුවෙන් පෙනී සිටි නීතීඥවරයා කියා සිටියේ, අදාළ නඩුව කැඳවනු ලැබූ ඉකුත් 26 වනදා තම සේවා දායකයා පාර්ලිමේන්තු මන්ත්‍රීවරයකු වශයෙන් එහි පැවැති රැස්වීමකට සහභාගි වූ බවය.
 
-ඒ බව තහවුරු කරන ලිපියක්ද නීතිඥවරයා විසින් අධිකරණයට ඉදිරිපත් කළේය.
+Patrical surrenders to court; warrant issued over 2021 incident; lawyer requests case rescheduling; magistrate orders new hearing on March 4; warrant recalled; opposition leader involved.
 
-මෙම නඩුව වෙනුවෙන් පෙනී සිටි නීතිඥවරයා විදේශගත වීම නිසා මෙම නඩුව කැඳවන දිනය සම්බන්ධයෙන් තම සේවා දායකයා තුළ ගැටලුවක් තිබූ බවත් නීතිඥවරයා සඳහන් කළේය.
+🟩
 
-ඒ අනුව සිය සේවදායකයා වෙනුවෙන් නිකුත් කර තිබෙන වරෙන්තුව ආපසු කැඳවන ලෙසත් එම නීතිඥවරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
+The Colombo Magistrate Court today (28) was appointed as the warrant issued by the warrant issued by the court in the courts regarding the incident.
 
-එම ඉල්ලීම පිළිගත් මහෙස්ත්‍රාත්වරයා සැකකරු වෙනුවෙන් නිකුත් කර තිබූ වරෙන්තුව ආපසු කැඳවීමට නියෝග කළ අතර, නඩුව නැවත මාර්තු මස 04 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+The order was issued after he was produced before the Colombo Magistrate's Court through a lawyer.
+
+The lawyer appearing on behalf of the suspect, the case was called on the 26th of the last couple of MPs.
+
+The lawyer also produced a letter confirming this to court.
+
+The lawyer said that the lawyer appearing on behalf of the case had a problem in his client regarding the date of the case.
+
+The lawyer also requested the court to call back the warrant issued for his employee.
+
+The Magistrate accepted the request for the suspect, and ordered to be called again on March 4.
+
+Colombo Additional Magistrate Manjula Ratnayake has ordered the warrants through the Jaffna Senior Superintendent of Ramanathan Eraichata.
+
+The order had been issued when a case was taken into custody at the Baseline Road in 2021 and was taken into custody.
 
 ...
 
 [Data](articles/8ec72687.json)
+
+[Extended Data](ext_articles/8ec72687.ext.json)
 
 ---
 
@@ -1220,27 +1484,33 @@ In 2019, the seven Iranians were arrested in the coast with over 425 kilograms o
 
 ---
 
-### ரஸ்யா உக்கிர தாக்குதல் - உக்ரைனில் ஒரு மில்லியனிற்கும் மேற்பட்டவர்களிற்கான மின்விநியோகம் துண்டிப்பு
+### Russia Strip Attack - Electricity disconnect for more than one million people in Ukraine
 
 *2024-11-28 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199927) · `ta`
 
-உக்ரைனின் வலுசக்தி உட்கட்டமைப்பை இலக்குவைத்து ரஸ்யா உக்கிரமான வான்தாக்குதல்களை மேற்கொண்டுள்ளது என உக்iரின் வலுசக்தி துறை அமைச்சர் தெரிவித்துள்ளார்.
+Russia's air strike cuts electricity for over 1 million Ukrainians. Over 500,000 in western Vynnytsia region affected. Authorities urge residents to seek shelter. Three western regions impacted. Russian missiles detected in eight Ukrainian regions, including Kyiv.
 
-ரஸ்யாவின் தாக்குதல் காரணமாக ஒருமில்லியனி;ற்கு மேற்பட்டவர்களிற்கான மின்சாரவிநியோகம் துண்டிக்க்பட்டுள்ளதாக உக்ரைன் அதிகாரிகள் தெரிவித்துள்ளனர்.
+🟩
 
-உக்ரைனின் மேற்கு விவிவ் பிராந்தியத்தில் 523000க்கும் அதிகமானவர்களிற்கான மின்விநியோகம் துண்டிக்கப்பட்டுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+Russia has carried out fierce air strikes, targeting Ukraine's strength, said the Minister of Power.
 
-இதேவேளை மின்சாரம் துண்டிக்கப்பட்ட பகுதிகளில் உள்ள மக்களை உடனடியாக பாதுகாப்பான நிலத்தடி பகுதிகளிற்கு செல்லுமாறு அதிகாரிகள் கேட்டுக்கொண்டுள்ளதை தொடர்ந்து பொதுமக்கள் அந்த பகுதிகளில்தஞ்சமடைந்துள்ளனர்.
+Ukraine officials have said that more than the Achievement of Russia's attack has been cut off.
 
-உக்ரைனின் மேற்கில் உள்ள மூன்று பிராந்தியங்கள் பாதிக்கப்பட்டுள்ளன என மேற்கு பிராந்திய ஆளுநர் தெரிவித்துள்ளார்.
+According to reports, more than 523,000 people have been cut off in the western Viviv region of Ukraine.
 
-உக்ரைனின் எட்டு பிராந்தியங்களில் நேற்றிரவு ரஸ்யாவின் ஏவுகணைகளை அவதானிக்க முடிந்ததாக தகவல்கள் வெளியாகியுள்ளன.
+Meanwhile, the public has been deployed in the area after the authorities have asked the people in the power cuts to go to safe underground areas.
 
-உக்ரைன் தலைநகரி;ல் இரண்டு இடங்களில் ஏவுகணை சிதறல்களை காணமுடிந்ததாக தெரிவித்துள்ள அதிகாரிகள் பல ஏவுகணைகள் இடைமறித்து செயல்இழக்கச்செய்யப்பட்டன எனவும் தெரிவித்துள்ளனர்.
+The Western Regional Governor said three regions in the west of Ukraine have been affected.
+
+It has been reported that Russia's missiles have been observed in eight regions of Ukraine last night.
+
+Officials said that two missiles were found in two places in the capital of Ukraine.
 
 ◼️
 
 [Data](articles/7032871f.json)
+
+[Extended Data](ext_articles/7032871f.ext.json)
 
 ---
 
@@ -1282,45 +1552,63 @@ Additionally, the DMC confirmed that a total of 26,625 people from 8,358 familie
 
 ---
 
-### වරද පිළිගත් ඉරාන ජාතිකයින්ට ජීවිතාන්තය දක්වා සිරදඬුවම්
+### Iranian advocates of the Iranians sentenced to death
 
 *2024-11-28 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203836) · `si`
 
-2019 වසරේ කොළඹ, මට්ටක්කුලිය ආශ්‍රිත මුහුදු තීරයේ දී හෙරොයින් මත්කුඩු කිලෝ ග්‍රෑම් 425කට අධික ප්‍රමාණයක් ප්‍රවාහනය කිරීමේ චෝදනාවට වරද පිළිගත් ඉරාන ජාතිකයින් 07 දෙනෙකුට කොළඹ මහාධිකරණය විසින් ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-අදාළ චෝදනාවලට විත්තිකරුවන් වරද පිළිගැනීමෙන් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු ආර්. එස්. එස්. සපුවිද මහතා විසින් මෙම තීන්දුව ලබා දී ඇත.
 
-2019 වසරේ ජූලි මස 12 වනදා කොළඹ, මට්ටක්කුලිය ආශ්‍රිත මුහුදු තීරයේදී හෙරොයින් මත්කුඩු කිලෝ ග්‍රෑම් 425කට අධික ප්‍රමාණයක් ප්‍රවාහනය කරමින් සිටියදී පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මඟින් සිදුකළ වැටලීමකට අනුව මෙම පිරිස අත්අඩංගුවට ගෙන තිබුණි.
 
-ඒ අනුව විත්තිකරුවන්ට එරෙහිව නීතිපතිවරයා විසින් කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකරනු ලැබීය.
+Colombo High Court sentences group to life imprisonment for heroin trafficking. The defendants were arrested in 2019 with over 425kg of heroin. Judge Sapa delivered the verdict after reviewing evidence. The case was filed by the Attorney General.
 
-මෙම නඩුව අද (28) විභාගයට ගත් අවස්ථාවේ දී අදාළ චෝදනාවලට වරද පිළිගන්නා බව විත්තිකරුවන් සිය නීතිඥවරයා මාර්ගයෙන් අධිකරණයට දැනුම් දී ඇත.
+🟩
 
-ඒ අනුව විත්තිකරුවන්ට ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කරන ලෙසට විනිසුරුවරයා නියෝග කර ඇත.
+The Colombo High Court has sentenced the life sentenced to life in the Mattakkuliya waters in Colombo, Colombo.
+
+Colombo High Court Judge of Colombo after recert chance. S. S. This decision has been given by Mr. Sapa.
+
+The group was arrested following a raid carried out by the Police Narcotics Bureau while transporting more than 425 kilograms of heroin in the Vasamo, Colombo, Colombo on July 12, 2019.
+
+Accordingly, the Attorney General has filed the indictment against the accused by the Colombo High Court.
+
+The defendants have informed the court that the case will be heard today (28).
+
+Accordingly, the judge has ordered the defendants to be sentenced to life in prison.
 
 ◼️
 
 [Data](articles/db4d6a48.json)
 
+[Extended Data](ext_articles/db4d6a48.ext.json)
+
 ---
 
-### අම්පාරේ ට්‍රැක්ටර් රියදුරුගේ මළ සිරුර හමුවෙයි - අතුරුදන්ව සිටි රිය සහායක පොලීසියට
+### Tractor Driver found in Ampara - Missing Transport Assistant Police
 
 *2024-11-28 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203835) · `si`
 
-අම්පාර කාර්තිව් ප්‍රදේශයේ දී සිදුවූ ට්‍රැක්ටර් රථ අනතුරින් දියේ ගිලී අතුරුදන් වු බවට වාර්තා වු ට්‍රැක්ටර් රථයේ රිය සහායක කාර්තිව් පොලිස් ස්ථානයට පැමිණ ඇති බව වාර්තා වේ.
+A tractor driver found in Ampara after reported missing. Four people recovered, but two students still unaccounted for. Inclement weather causes drowning in Vavuniya and disappearance in Trincomalee.
 
-අද (28) පෙරවරුවේ පොලිස් ස්ථානයට ඉදිරිපත් වු ඔහු ගංවතුර තත්ත්වය අතරතුර ආරක්ෂක අංශ උපදෙස් නොතකමින් අනතුරුදායක ලෙස ට්‍රැක්ටර් රථයෙන් මුදලට පුද්ගලයින් ප්‍රවාහනය කිරීමේ චෝදනා මත අත්අඩංගුවට ගත් බව කාර්තිව් පොලීසිය සඳහන් කළේය.
+🟩
 
-මේ අතර, ට්‍රැක්ටර් රථයක් පෙරළි යාමෙන් අතුරුදන් වු පාසල් සිසුන් සිව්දෙනෙකු, ට්‍රැක්ටර් රථයේ රියදුරු සහ තවත් පුද්ගලයෙකුගේ මළ සිරුරු මේ වන විට සොයාගෙන තිබේ.
+It is reported that the tractor in the Mabitatter area was reported to be disappeared in the Mabubaru area in Ampara.
 
-එහෙත් සිසුන් දෙදෙනෙකු තවදුරටත් අතුරුදන්ව සිටින බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසුවේය.
+He was produced before the police station this morning, police said.
 
-මේ අතර අයහපත් කාලගුණ තත්වය අතරතුර වව්නියාව, මහකච්චාකොඩිය වැවේ වාන් දැමීම නැරඹීමට ගිය පුද්ගලයෙකු දියේ ගිලී අතුරුදන්ව ඇති අතර ත්‍රිකුණාමලය යාන්ඔය ගඟේ මසුන් ඇල්ලීමට ගිය පුද්ගලයෙකු ද බෝට්ටුවක් පෙරළී යාමෙන් දියේ ගිලී අතුරුදන්ව තිබේ.
+Meanwhile, four schoolchildren, the tractor driver and another person has been recovered from the disappearance of a tractor.
 
-...
+However, the Disaster Management Center (DMC) said that two students will disappeared.
+
+Meanwhile, a person drowned to visit the Mahakrahchchi Election of Vavuniya during the inclement weather, a person who went fishing in the Yan Oya River, Trincomalee, have disappeared.
+
+The Disaster Management Center Assistant Director Janaka, Avalagaharajah, Assistant Director of the Disaster Management Center (DMC) said.
+
+◼️
 
 [Data](articles/5d8659d9.json)
+
+[Extended Data](ext_articles/5d8659d9.ext.json)
 
 ---
 
@@ -2313,209 +2601,5 @@ Meanwhile, area farmers are concerned that the flood waters of the field have be
 [Data](articles/85d14799.json)
 
 [Extended Data](ext_articles/85d14799.ext.json)
-
----
-
-### Singapore PM Wong congratulates Sri Lankan counterpart Harini
-
-*2024-11-28 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103829/singapore-pm-wong-congratulates-sri-lankan-counterpart-harini) · `en`
-
-Singapore Prime Minister Lawrence Wong has written to his Sri Lankan counterpart Harini Amarasuriya to congratulate her on her appointment, the Ministry of Foreign Affairs (MFA) said on Thursday (Nov 28).
-
-The 54-year-old, who is an academic with a doctorate in social anthropology from the University of Edinburgh, will hold the education and higher education portfolios.
-
-In his letter to Dr Amarasuriya on Wednesday, Mr Wong extended his “warmest congratulations”.
-
-“The Sri Lankan people have given you a strong mandate to lead the country and embark on reforms.
-
-“I am confident that under your leadership, Sri Lanka will succeed and grow stronger,” wrote Mr Wong.
-
-He added that both countries share long-standing and close relations built upon a strong foundation of economic cooperation and people-to-people ties.
-
-The two countries also collaborate in many areas including carbon credits, healthcare, and digitalisation, said Mr Wong.
-
-...
-
-[Data](articles/70343f8e.json)
-
-[Extended Data](ext_articles/70343f8e.ext.json)
-
----
-
-### Payagala 'Box Malli arrested
-
-*2024-11-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203826) · `si`
-
-Arrest made in Payagala: Dissanayake Chaminda detained during search operation. Heroin seized, suspect remanded previously. Family members also arrested. Investigation ongoing into drug trafficking network.
-
-🟩
-
-Dissanayake, Chaminda, or 'Pettay Mallai', a resident of Koshena, was arrested by the Koihena, Koshena.
-
-The suspect was taken out a search operation conducted in the Payagala Koshena yesterday (28) on information received by Payagala Police.
-
-He was arrested by the police while he was arrested in the jungle of the suspect in the jungle of the suspect in the Payagala Koshena.
-
-Nearly 12 grams of heroin worth about Rs. 3 lakhs have been taken into custody.
-
-The suspect is a person who has been remanded regarding heroin trafficking about 2 weeks ago.
-
-Inquiries revealed that the heroin racket had been carried out through a powerful drug dealer in the prison.
-
-Police said that several of his family who supported the suspect had been remanded.
-
-It has been revealed that the suspect had taken place in Paramala, Nagahawa, Maggonaduwa, Katagarunduwa, Magagaduwa areas.
-
-The mobile phone in the possession of the suspect was also taken into custody.
-
-◼️
-
-[Data](articles/c25fefe0.json)
-
-[Extended Data](ext_articles/c25fefe0.ext.json)
-
----
-
-### The Eastern Governor examined the shrimp bridge and the conditions of the Arabanagar Bridge
-
-*2024-11-28 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199894) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Eastern Governor inspects shrimp bridges in Trincomalee after heavy rains. MP Arun Hemachandra and Rosan Akmeemana visit sites.
-
-🟩
-
-The Muttur East - Kattaiparichan Shrimp Bridge and the Muttur -Arafanagar Bridge, which are affected by heavy rains in Trincomalee district. Jayantalal Ratnasekera went to the scene.
-
-Trincomalee District Parliamentarian and Deputy Minister of Foreign Affairs Arun Hemachandra and Trincomalee Parliamentarian Rosan Akmeemana visited the seats on Wednesday evening (27).
-
-◼️
-
-[Data](articles/f4dac8b2.json)
-
-[Extended Data](ext_articles/f4dac8b2.ext.json)
-
----
-
-### Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody’s
-
-*2024-11-28 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-exchange-bonds-provisionally-rated-caa1-sovereign-on-upgrade-watch-moodys-190549/) · `en`
-
-ECONOMYNEXT – Moody’s Investors’ Service, said it was provisionally rating Sri Lanka’s bonds to be exchanged for defaulted securities as ‘Caa1’ and has put the ‘Ca’ national rating on watch for upgrade.
-
-Sri Lanka announced a bond exchange which it plans to complete on December 12.
-
-Ca indicates debt which is in default and with ‘some prospect for recovery in principal and interest, according to Moody’s definition.
-
-“The existing Ca ratings on Sri Lanka’s foreign currency senior unsecured debt issuances that are in default and will be exchanged for the new debt issuances reflect the expected financial loss and are unchanged,” Moody’s said.
-
-“The decision to place the issuer rating on review for upgrade reflects the announcement of the exchange offer by the government, which if successful will conclude the restructuring of its international bonds held by private-sector creditors and reduce the default risk on new and future issuances.
-
-...
-
-[Data](articles/e808335d.json)
-
-[Extended Data](ext_articles/e808335d.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.95/291.05 to dollar, bond yields steady
-
-*2024-11-28 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-95-291-05-to-dollar-bond-yields-steady-190537/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 290.95/291.05 to the US dollar on Thursday from 291.00/10 to the US dollar on Wednesday dealers said, while bond yields held steady.
-
-A bond maturing on 15.12.2027 was quoted stable at 10.25/35 percent.
-
-A bond maturing on 01.05.2028 was quoted at 10.50/60 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/95 percent, up from 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.34 percent or  44.69 points, at 13,094. The more liquid S&P SL20 was up 0.55 percent, or 21.28 points, at 3,897.
-
-◼️
-
-[Data](articles/c7da37fd.json)
-
-[Extended Data](ext_articles/c7da37fd.ext.json)
-
----
-
-### 4 bodies found in the missing students missing from the tractor
-
-*2024-11-28 09:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රැක්ටරය-පෙරළිමෙන්-අතුරුදන්-වූ-සිසුන්-4කගේ-සිරුරු-සොයා-ගනියි/11-413329) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"4 bodies found near Samawatta. Students (16 & 15) went missing on 26th from Nindavur. Police investigating."
-
-🟩
-
-Four students of four disappeared students who were disappeared from Nindavur from Nindavur to the Samawatta have been disappeared.
-
-The accident had occurred when the accident had occurred on the 26th of this accident.
-
-The four students who discovered the dead yesterday will be the aged of 16 and 15 years. The police continue to operate the rest of the students who have disappeared.
-
-◼️
-
-[Data](articles/2027b411.json)
-
-[Extended Data](ext_articles/2027b411.ext.json)
-
----
-
-### Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
-
-*2024-11-28 09:36:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7v32eqm8g2o) · `si`
-
-Heavy rains affect 300,000+ people. Meteorological Department warns of strong winds and heavy showers in Northern and Trincomalee districts. Deep depression in Bay of Bengal moving east-north. Possible thunderstorms and rough seas expected.
-
-🟩
-
-Trials to more than 300,000 people in excess of heavy rains: What is the rain condition for the next day?
-
-In the past few days, the high rains and strong winds, winds, farmland and roads were affected. Due to bad weather conditions, the train services were also disrupted.
-
-The Disaster Management Center stated that more than 300,000 people were affected by the rain.
-
-Deep pressure depression in the south-length Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying. The Department of Meteorological Department points out that the system is slowly traveling to the East and the North, and the ability to construct a hurricane.
-
-However, an officer of the Department of Meteorological Department said that it is not certain that it would be a hurricane.
-
-According to the Department, there may be very heavy and strong winds in the Northern and Trincomalee District.
-
-Warnings of Showers at district level for the next three days
-
-...
-
-[Data](articles/f52dc634.json)
-
-[Extended Data](ext_articles/f52dc634.ext.json)
-
----
-
-### Sri Lanka welcomes ceasefire between Israel and Lebanon – Foreign Ministry
-
-*2024-11-28 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103828/sri-lanka-welcomes-ceasefire-between-israel-and-lebanon-foreign-ministry) · `en`
-
-Sri Lanka’s Ministry of Foreign Affairs has expressed its support for the recently announced ceasefire between Israel and Lebanon.
-
-In an official statement, the Ministry emphasized its optimism, stating, “We remain hopeful that the ceasefire will pave the way for enduring peace and stability in Lebanon and in the region.”
-
-The ceasefire announced Tuesday (26) is a major step toward ending nearly 14 months of fighting sparked by the ongoing war in Gaza between Israel and Hamas.
-
-There were no immediate reports of alleged violations of the truce, and there were signs of celebration in Beirut. But Israel has said it will attack if Hezbollah breaks the agreement.
-
-...
-
-[Data](articles/042f8d7b.json)
-
-[Extended Data](ext_articles/042f8d7b.ext.json)
 
 ---

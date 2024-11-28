@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 21:13:29**
+As of **2024-11-28 21:42:33**
 
 ## Newspaper Stats
 
-*Scraped **57,461** Articles*
+*Scraped **57,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,432
-adaderanalk | 6,961
+adaderanalk | 6,962
 tamilmirrorlk | 8,174
 virakesarilk | 9,369
-adaderanasinhalalk | 9,919
+adaderanasinhalalk | 9,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,460 (100.0%) of 57,461 articles have been extended.
+57,462 (100.0%) of 57,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
+
+### Deep depression’s influence on Sri Lanka’s weather to reduce after tomorrow
+
+*2024-11-28 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103851/deep-depressions-influence-on-sri-lankas-weather-to-reduce-after-tomorrow) · `en`
+
+The Department of Meteorology says the deep depression over the southwest Bay of Bengal is likely to move slowly, north-northwestwards closer to the east coast of Sri Lanka and there is a possibility for it to further intensify.
+
+The deep depressions was located around 130 km northeast of Trincomalee and 150km east of Mullaittivu at around 11.30 a.m. of 28 November 2024.
+
+It can be expected that the influence of this system on the island’s weather will gradually reduce after tomorrow (29), the department said issuing an advisory.
+
+It said showers or thundershowers will occur at times in Northern and North-central provinces and in Trincomalee District while heavy showers above 100 mm are likely at some places in Northern Province.
+
+...
+
+[Data](articles/6bde122f.json)
+
+[Extended Data](ext_articles/6bde122f.ext.json)
+
+---
+
+### දීඝදන්තු-1 ගැන නොදත් තොරතුරු
+
+*2024-11-28 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203845) · `si`
+
+දෙස් විදෙස් සංචාරක ආකර්ෂණය දිනාගත් තේජාන්විත හස්තියෙකු වූ 'දීඝදන්තු 1' අද (28) අලුයම දැයට අහිමි විය.
+
+කලාවැව ජාතික වනෝද්‍යානය සිය නිවහන කරගෙන සිටි මෙම හස්තියා කැකිරාව, ආඬියාගල හිඟුරුවැව ප්‍රදේශයේ නිවසක් ඉදිරිපිට අනාරක්ෂිත ලෙස ඇද තිබූ විදුලි රැහැනක පැටලී මියගොස් තිබුණි.
+
+උසින් අඩි 08ක් පමණ වූද, අඩි 05ක පමණ දිගකින් යුත් තේජාන්විත දළ යුගලයකට උරුමකම් කී මෙම හස්තියාගේ වාසභූමිය වූයේ කලාවැව ජාතික උද්‍යානය අවට භූමියයි.
+
+කලාවැව රක්ෂිතයේ විසූ ඇත් පන්තියේ ශරීර ප්‍රමාණයෙන් මෙන්ම පෙනුමෙන්ද එක හා සමාන ඇතුන් දෙදෙනෙකු වාසය කළ බැවින් ඔවුන් 'දීඝදන්තු 1' සහ 'දීඝදන්තු 2' ලෙසින් හැඳන්වුණි.
+
+ඉන් 'දීඝදන්තු 2' හස්තියා මීට වසර 05කට පමණ පෙර දැයට අහිමි විය.
+
+පරිසරවේදීන් පෙන්වා දෙන්නේ 'දීඝදන්තු 1' හස්තියා මියයන විට වයස අවුරුදු 45ත්, 50ත් අතර වයසේ පසුවූ බවය.
+
+අලි මිනිස් ගැටුම්වල ප්‍රතිඵලයක් ලෙස 2022 වසරේ වනඅලි 433ක් මියගොස් ඇති අතර, පසුගිය වසරේ මුල් මාස 5 තුළදී පමණක් මියගිය වනඅලි ගණන 193කි.
+
+...
+
+[Data](articles/789ba7f9.json)
+
+---
 
 ### Flood -trapped plowing machine - 4 people arrested
 
@@ -281,6 +325,32 @@ A large number of railway stations at the Uduru area of ​​Ramadu, the large 
 [Data](articles/f20b38b2.json)
 
 [Extended Data](ext_articles/f20b38b2.ext.json)
+
+---
+
+### රටම අසරණ කළ කාලගුණයේ අලුත්ම තත්ත්වය
+
+*2024-11-28 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203844) · `si`
+
+දිවයිනට බලපෑ අයහපත් කාලගුණය හේතුවෙන් මේ වනවිට පුද්ගලයින් 12ක් මියගොස් තවත් එක් අයෙක් අතුරුදන්ව ඇති බව ආපදා කලමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+එම මධ්‍යස්ථානය අද (28) ප.ව. 4ට නිකුත්කරනු ලැබූ යාවත්කාලීනකිරීම අනුව දිවයිනේ දිස්ත්‍රික්ක 24හිම ප්‍රාදේශීය ලේකම් කොට්ඨාස 227කට මෙම අයහපත් කාලගුණික තත්ත්වය බලපා තිබේ.
+
+මේ වනවිට පවුල් 120,534කට අයත් පුද්ගලයන් 401,707ක් ආපදා බලපෑමට ලක්ව සිටියි.
+
+ඒ අනුව දිවයින පුරා සුරක්ෂිත මධ්‍යස්ථාන 345ක් මේ වනවිට ඉදිකර ඇති අතර, එහි පවුල් 11,663කට අයත් පුද්ගලයන් 36,330ක් රැඳී සිටින බවද මෙම නිවේදනයේ දැක්වේ.
+
+එමෙන්ම තවත් පවුල් 28,324කට අයත් පුද්ගලයන් 94,134 දෙනෙකු ඥති නිවාසවල සිටින බව ආපදා කලමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+වාර්තා වූ ආපදා මරණ අතරින් වැඩිම පිරිසක් නැගෙනහිර පළාතේ සිදුව ඇති අතර, ඉන් 8 දෙනෙකුම අම්පාර දිස්ත්‍රික්කයේය.
+
+ඊට අමතරව බදුල්ල, පුත්තලම, ත්‍රිකුණාමලය හා වව්නියාව දිස්ත්‍රික්කවල එක් මරණය බැගින් වාර්තා වී ඇත.
+
+මේ අතර අයහපත් කාලගුණය හේතුවෙන් මේ වනවිට පූර්ණ නිවාස හානි 102ක් හා අර්ධ නිවාස හානි 1,952ක් සිදුව ඇති බවද ආපදා කලමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+◼️
+
+[Data](articles/0da99531.json)
 
 ---
 
@@ -568,19 +638,35 @@ The first look of the film has been designed and released in the famous 'Salt bu
 
 ---
 
-### ඉරාන ජාතිකයන් 7කට ජීවිතාන්තය දක්වා සිර දඬුවම්
+### 7 Iranians sentenced to life in prison
 
 *2024-11-28 17:24:11* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජාතිකයන්-7කට-ජීවිතාන්තය-දක්වා-සිර-දඬුවම්/11-413344) · `si`
 
-ජාවාරම් කිරීම සඳහා ශ්‍රී ලංකාවට හෙරොයින් කිලෝ ග්‍රෑම් 425කට අධික ප්‍රමාණයක් රැගෙන එමින් සිටියදී මට්ටක්කුලිය මුහුදු තීරයේදී පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් අත්අඩංගුවට ගන්නා ලද ඉරාන ජාතිකයන් 07 දෙනෙකුට කොළඹ මහාධිකරණ විනිසුරු ආර්. එස්. එස්. සපුවිද මහතා ජීවිතාන්තය දක්වා සිරදඬුවම් අද (28) නියම කළේය.
+Here's a summary of 200 characters:
 
-වසර 05 කට ඉහතදී හෙරොයින් ජාවාරම් කිරීම සම්බන්ධයෙන් පැවරූ නඩුව විභාගයට ගත් අවස්ථාවේදී අදාළ චෝදනාවන්ට තමන් වරද පිලිගන්නා බව දැනුම් දීමෙන් අනතුරුව විත්තිකරුවන් වරදකරුවන් බව තීරණය කරමින් විනිසුරුවරයා අදාළ දඬුවම් නියම කළේය.
 
-2019 ජුලි 12 වැනිදා හෝ ඊට ආසන්න දිනයක ශ්‍රී ලංකාවට අයත් අනන්‍ය වු මට්ටක්කුලිය මුහුදු තීරයේදී හෙරොයින් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 425කට අධික ප්‍රමාණයක් සන්තකයේ තබාගැනීම සහ ප්‍රවාහනය කිරීම යන චෝදනා යටතේ විත්තිකරුට එරෙහිව නීතීපතිවරයා චෝදනා නඟා තිබිණී.
 
-...
+7 Iranians sentenced to life for smuggling 425kg heroin off Sri Lanka's coast in 2019. They admitted guilt in court.
+
+🟩
+
+Seven nurses who were arrested by the Police Narcard of Police Narcard at the Mattakkuliya coast while Sri Lanka was carrying out more than 425 kilograms of heroin.. S. S. He was sentenced to life in prison today.
+
+When the case was taken up for five years before the executive of heroin was taken up, the judge sentenced the accused of defendants.
+
+The Attorneys have been accused of possession and transport of 425 kg of heroin in the unique Mattakkuliya coast of Sri Lanka on July 12, 2019.
+
+The suspects were inspected at the unique Mattakkuliya coast in the unique Mattakkuliya coast with the defendants in the unique Mattakkuliya coast of Sri Lanka.
+
+When the case was called, the seven Iranians were produced before the court when the case was called.The defendants stated in the open court that the allegations would accept their mistakes.
+
+Accordingly, the judge who decided to be guilty of the defendants sentenced them serious work-to-date imprisonment to them.
+
+◼️
 
 [Data](articles/05bf0707.json)
+
+[Extended Data](ext_articles/05bf0707.ext.json)
 
 ---
 
@@ -2511,95 +2597,5 @@ Meanwhile, the school's book by a student named Dasrif, who went missing, has no
 [Data](articles/c6f6031e.json)
 
 [Extended Data](ext_articles/c6f6031e.ext.json)
-
----
-
-### 2024 A/L Exam to recommence on Dec. 04
-
-*2024-11-28 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103830/2024-al-exam-to-recommence-on-dec-04) · `en`
-
-The Examinations Department has announced that the 2024 G.C.E. Advanced Level Examination has been temporarily postponed until December 03 due to the prevailing adverse weather conditions.
-
-Speaking at a special press briefing this morning (28), the Commissioner General of Examinations, Amith Jayasundara, confirmed that this decision was made in light of the ongoing weather-related disruptions.
-
-Furthermore, he stated that the examination will recommence on December 4 (Wednesday).
-
-As a result, the A/L examinations will not be conducted on November 30, December 2, and December 3.
-
-On November 26, the Examinations Department had previously announced the temporary suspension of the ongoing 2024 G.C.E. Advanced Level Examination.
-
-It was previously decided not to hold the examinations on November 27, 28, and 29 due to the adverse weather.
-
-The Examination Commissioner further said that the decision was taken in the best interest of the affected students, despite the weather conditions subsiding.
-
-...
-
-[Data](articles/c1549405.json)
-
-[Extended Data](ext_articles/c1549405.ext.json)
-
----
-
-### The number of victims in Mannar district crossed 61 thousand!
-
-*2024-11-28 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199895) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Heavy rains flood Mannar district, affecting 61,674 people from 16,774 families. 9,156 displaced in 73 temporary centers. Many victims stay with relatives, denied aid. Authorities assist only those at welfare centers. Relief demanded for all affected.
-
-🟩
-
-The Mannar District Disaster Management Division (DMC) said that 61 thousand 674 persons belonging to 16 thousand 774 families have been affected by the heavy rains and floods in Mannar district on Wednesday (27).
-
-The report states that 73 temporary security centers have been set up in the district and 9 thousand 156 persons belonging to 2 thousand 845 families have been housed.
-
-Meanwhile, the victims said that the people in the houses and the houses of relatives did not get any help in the floods and did not go to welfare centers.
-
-The relevant authorities have said that only those who come to welfare centers will be provided with assistance.
-
-However, considering the crisis and even the stool problems at welfare centers, many affected people live in their homes and friends' homes without going to welfare centers.
-
-Therefore, considering the welfare of these people, the demand for the authorities to take steps to provide relief to all the victims.
-
-◼️
-
-[Data](articles/476da671.json)
-
-[Extended Data](ext_articles/476da671.ext.json)
-
----
-
-### Restoring Advanced Level Examination on December 4th
-
-*2024-11-28 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203827) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-GCE A/L exams rescheduled due to bad weather. Exams from Nov 27-3 cancelled. Resume Dec 4. New schedule: Chem, Sinhala, Tamil, English on Dec 4. General public test on Dec 7.
-
-🟩
-
-The Department of Examinations has decided not to leave the GCE A / L examination due to the inclement weather.
-
-Commissioner General of Examinations, Amitith Jayasundara said that the 2024 A / L examination will be resumed on Wednesday, December 4.
-
-Accordingly, the Department of Examinations has decided not to leave the GCE A / L examination at November 30, December 2, December 2, and December 3.
-
-Due to the inclement weather in the country, the A / L has the A / L Level had not been held on 27, 28 and 29.
-
-The Commissioner General of Examinations added that although the inclement weather has been reduced, this decision has been taken on behalf of the affected students.
-
-Accordingly, the Commissioner of Examinations said that the subjects of the schedule will commence on December 4.
-
-...
-
-[Data](articles/2e845093.json)
-
-[Extended Data](ext_articles/2e845093.ext.json)
 
 ---

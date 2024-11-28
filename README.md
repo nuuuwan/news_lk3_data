@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 15:01:13**
+As of **2024-11-28 15:13:40**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 9,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,400 (100.0%) of 57,401 articles have been extended.
+57,401 (100.0%) of 57,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### ඉරාන ජාතිකයින් 07 දෙනෙකුට ජීවිතාන්තය දක්වා සිරදඬුවම්
+### Seven Iranian sentenced to life in prison
 
 *2024-11-28 14:20:45* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජාතිකයින්-07-දෙනෙකුට-ජීවිතාන්තය-දක්වා-සිරදඬුවම්/11-413333) · `si`
 
-ඉරාන ජාතිකයින් 07 දෙනෙකුට කොළඹ මහාධිකරණය විසින් ජීවිතාන්තය දක්වා සිර දඬුවම් නියම කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-2019 වසරේදී හෙරෝයින් කිලෝග්‍රෑම් 425ක් අධික ප්‍රමාණයක් සමග මෙම ඉරාන ජාතිකයින් 07 දෙනා මුහුදු තීරයේදී අත්අඩංගුවට ගනු ලැබිණි.
+
+
+7 Iranians sentenced to life for smuggling 425kg heroin in 2019.
+
+🟩
+
+Seven Iranians have been sentenced to life in prison by the Colombo High Court.
+
+In 2019, the seven Iranians were arrested in the coast with over 425 kilograms of heroin.
 
 ◼️
 
 [Data](articles/8190fd87.json)
+
+[Extended Data](ext_articles/8190fd87.ext.json)
 
 ---
 

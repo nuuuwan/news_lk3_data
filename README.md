@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 00:16:39**
+As of **2024-11-29 00:41:32**
 
 ## Newspaper Stats
 
-*Scraped **57,485** Articles*
+*Scraped **57,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,79 @@ colombotelegraphcom | 582
 bbccomsinhala | 598
 islandlk | 3,443
 economynextcom | 3,499
-dailyftlk | 3,956
+dailyftlk | 3,957
 dailymirrorlk | 4,733
 adalk | 5,434
 adaderanalk | 6,964
-tamilmirrorlk | 8,174
-virakesarilk | 9,376
+tamilmirrorlk | 8,175
+virakesarilk | 9,377
 adaderanasinhalalk | 9,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,473 (100.0%) of 57,485 articles have been extended.
+57,474 (100.0%) of 57,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### வடமேற்கு நோக்கி நகரும் ஆழ்ந்த தாழமுக்கம்
+
+*2024-11-29 00:30:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமேற்கு-நோக்கி-நகரும்-ஆழ்ந்த-தாழமுக்கம்/175-347963) · `ta`
+
+திருகோணமலைக்கு வடகிழக்கே சுமார் 110 கிலோ மீற்றர் தொலைவில் நிலைகொண்டிருந்த ஆழ்ந்த தாழமுக்கம் நாட்டின் கிழக்கு கடற்கரையை அண்மித்து வடமேற்கு நோக்கி நகர்ந்து செல்வதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, மறு அறிவித்தல் நாட்டை சூழவுள்ள ஆழமான மற்றும் ஆழமற்ற கடற்பகுதிகளுக்குச் செல்ல வேண்டாம் என வளிமண்டலவியல் திணைக்களம் கடல்சார் மற்றும் மீனவ சமூகத்தை அறிவுறுத்தியுள்ளது.
+
+இதேவேளை, வடக்கு மாகாணத்தின் சில பகுதிகளில் 100 மில்லிமீற்றருக்கும் அதிகளவிலான பலத்த மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/10376d75.json)
+
+---
+
+### Building value-centric performance-driven culture: Key to organisational success
+
+*2024-11-29 00:19:40* · [`dailyftlk`](https://www.ft.lk/columns/Building-value-centric-performance-driven-culture-Key-to-organisational-success/4-769836) · `en`
+
+Emphasising performance management at all levels while leading by example fosters trust and collaboration among teams
+
+Creating a value-centric, performance-driven culture is essential for any organisation striving for success in today’s competitive and turbulent business environment. This culture is built on core values that reflect great human principles widely practiced in successful corporates, such as mutual trust and respect, togetherness, integrity, ethical conduct, and a commitment to excellence. These values not only unify employees but also shape their behaviours, influencing the organisation’s overall effectiveness.
+
+...
+
+[Data](articles/e51df996.json)
+
+[Extended Data](ext_articles/e51df996.ext.json)
+
+---
+
+### ஜென்சனின் 7 விக்கெட் குவியலால் இலங்கை 42 ஓட்டங்களுக்கு சுருண்டது; இலங்கையின் 42 வருட டெஸ்ட் கிரிக்கெட் வரலாற்றில் பதிவான மிகக் குறைந்த மொத்த எண்ணிக்கை
+
+*2024-11-29 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199964) · `ta`
+
+டேர்பன், கிங்ஸ்மீட் விளையாட்டரங்கில் நடைபெற்றுவரும் தென் ஆபிரிக்காவுக்கு எதிரான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் மார்க்கோ ஜென்சனின் வேகப்பந்துவீச்சில் சிக்கித் திணறிய இலங்கை அதன் முதல் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 42 ஓட்டங்களுக்கு சுருண்டது.
+
+இலங்கை தனது 42 வருட டெஸ்ட் கிரிக்கெட் வரலாற்றில் ஓர் இன்னிங்ஸில் பெற்ற மிகக் குறைந்த மொத்த எண்ணிக்கை இதுவாகும்.
+
+பாகிஸ்தானுக்கு எதிராக 1994ஆம் ஆண்டு கண்டி அஸ்கிரிய விளையாட்டரங்கில் இலங்கை பெற்ற 71 ஓட்டங்களே அதன் முந்தைய குறைந்த மொத்த எண்ணிக்கையாகும்.
+
+இந்தப் போட்டியில் தென் ஆபிரிக்காவின் இரண்டாவது இன்னிங்ஸில் 7 விக்கெட்கள் மீதம் இருக்க அவ்வணி 281 ஓட்டங்களால் முன்னிலையில் இருக்கிறது.
+
+இதன் காரணமாக உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டிக்கு தகுதிபெறும் இலங்கையின் வாய்ப்பு ஊசலாட ஆரம்பித்துள்ளது.
+
+ஜென்சனின் பந்துவீச்சில் ஆட்டம் இழந்த 7 இலங்கை வீரர்களில் நால்வர் ஓட்டம் பெறாததுடன் மூவர் ஒற்றை இலக்கங்களைப் பெற்றனர்.
+
+துடுப்பாட்டத்தில் கமிந்து மெண்டிஸ் (13), லஹிரு குமார (10 ஆ.இ.) ஆகிய இருவரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+
+...
+
+[Data](articles/87a67bc3.json)
+
+---
 
 ### Imposition of penalty on vehicle dealers for delayed registrations amid gradual lifting of import restrictions
 
@@ -1992,7 +2048,7 @@ This is a human right and an essential step in healing wounds, Sabry pointed out
 
 “We must also remember that hardline elements in the South are ever-watchful, ready to exploit any opportunity to stoke racial hatred. Let us deny them that chance,” he said.
 
-The former minister’s post follows social media posts criticizing the celebration of Maaveerar Naal in the country’s north.
+The former minister’s post follows social media posts criticizing the commemoration of Maaveerar Naal in the country’s north.
 
 Sabry said that “glorifying the LTTE or its leader, a ruthless architect of terror, is not the way forward.”
 
@@ -2459,69 +2515,5 @@ It is noteworthy that residents of the forest are advised to be very careful due
 [Data](articles/0ec1519b.json)
 
 [Extended Data](ext_articles/0ec1519b.ext.json)
-
----
-
-### Traffic movement on A-9 road resumes after floods
-
-*2024-11-28 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103834/traffic-movement-on-a-9-road-resumes-after-floods) · `en`
-
-The A-9 main road to Jaffna which was closed at Omanthai due to floods has now been reopened for traffic movement, police said.
-
-Police had announced the closure of the road for vehicles at Omanthai yesterday as the area near Nochchimoddai Bridge and Omanthai Town, within the Omanthai Police Division, had been completely inundated.
-
-As a result, the police have announced that vehicles can now travel on the A-9 road as per usual.
-
-◼️
-
-[Data](articles/7a5bebb6.json)
-
-[Extended Data](ext_articles/7a5bebb6.ext.json)
-
----
-
-### 44 thousand people in Jaffna floods
-
-*2024-11-28 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199911) · `ta`
-
-Jaffna flood update: 44,346 affected, 6,031 sheltered in 68 centers.
-
-🟩
-
-As of the inclement weather in Jaffna, 44,346 people from 13,117 families have been affected by the status quo today (28).
-
-6,031 people from 1,700 families have been housed in 68 security centers.
-
-◼️
-
-[Data](articles/463b1bce.json)
-
-[Extended Data](ext_articles/463b1bce.ext.json)
-
----
-
-### To further strengthen relations of Chinese legal corporations - Chinese Ambassador urges Speaker
-
-*2024-11-28 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199909) · `ta`
-
-Chinese Ambassador Ashoka Ranwala expects to form Sri Lanka-China Parliamentary Friendship Association. He aims to strengthen ties between legislative bodies of both nations. Key areas of focus: agriculture, economic development, water management, and foreign investment cooperation.
-
-🟩
-
-Chinese Ambassador Ashoka Ranwala has told Ranwala that he is expecting to establish the Sri Lanka -Chinese Parliamentary Friendship Association in the new Parliament and further strengthen the relations of the Sri Lanka -Chinese legislative organizations.
-
-The meeting between Chinese Ambassador to Sri Lanka Kei Senhong and Speaker Dr. Asoka Ranwala recently took place in Parliament.
-
-Chairman of the Chinese National People's Congress (Speaker of the Chinese Parliament) Savo Leezi congratulated the Chinese Ambassador to the Speaker.
-
-The new Speaker, who recalled the long -term cooperation between Sri Lanka and China, said he would expect to further strengthen the ties between President Anura Kumara Dissanayake, led by President Anura Kumara Dissanayake.
-
-The Chinese Ambassador said that the two countries should further strengthen the relations of the two countries' legislative institutions and that the new parliament is looking to establish the Sri Lanka -Chinese Parliamentary Alliance.
-
-...
-
-[Data](articles/f3719be3.json)
-
-[Extended Data](ext_articles/f3719be3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 10:01:59**
+As of **2024-11-28 09:42:28**
 
 ## Newspaper Stats
 
-*Scraped **57,337** Articles*
+*Scraped **57,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 596
 islandlk | 3,440
-economynextcom | 3,489
+economynextcom | 3,486
 dailyftlk | 3,955
 dailymirrorlk | 4,733
 adalk | 5,410
@@ -26,31 +26,11 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,334 (100.0%) of 57,337 articles have been extended.
+57,334 (100.0%) of 57,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
-
-### Sri Lanka rupee opens stronger at 290.95/291.05 to dollar, bond yields steady
-
-*2024-11-28 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-95-291-05-to-dollar-bond-yields-steady-190537/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 290.95/291.05 to the US dollar on Thursday from 291.00/10 to the US dollar on Wednesday dealers said, while bond yields held steady.
-
-A bond maturing on 15.12.2027 was quoted stable at 10.25/35 percent.
-
-A bond maturing on 01.05.2028 was quoted at 10.50/60 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/95 percent, up from 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.34 percent or  44.69 points, at 13,094. The more liquid S&P SL20 was up 0.55 percent, or 21.28 points, at 3,897.
-
-◼️
-
-[Data](articles/c7da37fd.json)
-
----
 
 ### Lebanon’s Hezbollah vows to continue resistance after ceasefire
 
@@ -151,26 +131,6 @@ Showers will occur at times elsewhere of the island too. Heavy showers above 100
 [Data](articles/fe51af51.json)
 
 [Extended Data](ext_articles/fe51af51.ext.json)
-
----
-
-### Sri Lanka bondholders have sufficient incentives to join exchange: CB Governor
-
-*2024-11-28 08:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-have-sufficient-incentives-to-join-exchange-cb-governor-190497/) · `en`
-
-ECONOMYNEXT – Holders of Sri Lanka’s defaulted sovereign bonds have sufficient incentives to participate in an exchange launched this week, leading to a high take-up, Central Bank Governor Nandalal Weerasinghe said.
-
-“What we can see, from the bondholder’s point of view, it has sufficient incentives to participate, in terms of the exchange fee, in terms of the macro-linked bonds they were asking,” Governor Weerasinghe told reporters Wednesday.
-
-“A lot of incentives and encouragement for them to participate and get new bonds and get new bonds in exchange for the bonds they are holding.
-
-“I do not think it would be in the best interests of anyone to holdout.”
-
-Sri Lanka has issued bonds linked to gross domestic product, so-called macro-linked bonds which allows both capital appreciation and coupon increases if GDP grows faster than expected in a new type of so-called ‘state-contingent’ bonds.
-
-...
-
-[Data](articles/90c00931.json)
 
 ---
 
@@ -2449,5 +2409,53 @@ The Ministry of Education of the Central Province has announced that all Muslim 
 [Data](articles/a4cd465d.json)
 
 [Extended Data](ext_articles/a4cd465d.ext.json)
+
+---
+
+### Sri Lanka stocks close up driven by interest in banking stocks
+
+*2024-11-27 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-interest-in-banking-stocks-153832/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI closed up 0.66 percent, or 85.80 points, at 13,049; while the more liquid S&P SL20 Index closed up 0.85 percent, or 32.49 points, at 3,876.
+
+Top positive contributors to the ASPI were Sampath Bank (up at 95.30), Hatton National Bank (up at 230.00), Richard Pieris and Co (up at 25.20), Dipped Products (up at 44.00), and DFCC Bank (up at 87.60).
+
+Commercial Bank was up at 122.00), and National Development Bank was up at 83.30.
+
+NDB said its debenture issue to raise 5 billion rupees was oversubscribed.
+
+Softlogic Life Insurance announced a cash dividend of 4.5 rupees a share.
+
+There was a net foreign inflow of 95 million rupees. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/7ed09542.json)
+
+[Extended Data](ext_articles/7ed09542.ext.json)
+
+---
+
+### Alert in the air force sky
+
+*2024-11-27 15:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானப்படை-வானில்-உஷார்/175-347874) · `ta`
+
+Air Force rescues flood victim in Ampara. Helicopter 212 saves man from Eravur Milawattavan, transports to Batticaloa Air Force Base.
+
+🟩
+
+The Air Force continues to monitor areas affected by inclement weather.
+
+Accordingly, the 212 Helicopter of the Air Force's II forces was sent to the Ampara area on Wednesday (27).
+
+During the operation, a man who was flooded in the Eravur Milawattavan area was rescued by helicopter and later taken to the Batticaloa Air Force Base.
+
+◼️
+
+[Data](articles/c725f37f.json)
+
+[Extended Data](ext_articles/c725f37f.ext.json)
 
 ---

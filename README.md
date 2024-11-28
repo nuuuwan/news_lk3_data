@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 03:00:23**
+As of **2024-11-29 00:16:39**
 
 ## Newspaper Stats
 
-*Scraped **57,501** Articles*
+*Scraped **57,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,323 +14,23 @@ colombotelegraphcom | 582
 bbccomsinhala | 598
 islandlk | 3,443
 economynextcom | 3,499
-dailyftlk | 3,970
+dailyftlk | 3,956
 dailymirrorlk | 4,733
 adalk | 5,434
 adaderanalk | 6,964
-tamilmirrorlk | 8,175
-virakesarilk | 9,377
+tamilmirrorlk | 8,174
+virakesarilk | 9,376
 adaderanasinhalalk | 9,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,494 (100.0%) of 57,501 articles have been extended.
+57,473 (100.0%) of 57,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
-
-### Govt. pledges relief assistance to farmers affected by severe weather
-
-*2024-11-29 02:20:33* · [`dailyftlk`](https://www.ft.lk/news/Govt-pledges-relief-assistance-to-farmers-affected-by-severe-weather/56-769884) · `en`
-
-Says authorities continue to assess extent of crop and other damages
-
-Reveals over 8,000 acres of paddy fields impacted due to heavy rains and flooding
-
-Agriculture and Livestock Deputy Minister Namal Karunaratne yesterday assured farmers that the Government will extend relief assistance to those affected by severe weather, as authorities continue to assess the extent of crop and other damages.
-
-He revealed that over 8,000 acres of paddy fields have been impacted by the heavy rains and flooding. Of these, 4,800 acres are reported to be fully destroyed, while over 3,900 acres have sustained partial damage.
-
-The crisis is particularly dire in areas like Ampara, Kindatuwana, Gal Oya, Mahaweli C Zone and areas in Anuradhapura.
-
-...
-
-[Data](articles/5fca15e9.json)
-
----
-
-### Vigneswaran to push recognition of North and East as Tamil speaking regions
-
-*2024-11-29 02:19:21* · [`dailyftlk`](https://www.ft.lk/news/Vigneswaran-to-push-recognition-of-North-and-East-as-Tamil-speaking-regions/56-769883) · `en`
-
-Former Northern Province Chief Minister and Tamil Makkal Thesiya Kootani (TMTK) party leader C. V. Vigneswaran PC has announced plans to form an alliance of Tamil nationalist parties aimed at securing official recognition of the Northern and Eastern provinces as Tamil-speaking regions.
-
-This development comes in the wake of a significant shift in voting patterns during the last parliamentary elections, where traditional Tamil nationalist parties faced notable setbacks in these regions. The National People’s Power (NPP) emerged as a key player, winning substantial support across the North and East, signalling a shift in the political dynamics of the area.
-
-Speaking to the media this week, Vigneswaran confirmed that discussions are underway among parties committed to Tamil nationalism to establish a unified front. “This alliance is being formed to press the Government to formally recognise the North and East as Tamil-speaking regions,” he said.
-
-...
-
-[Data](articles/1e225e65.json)
-
----
-
-### Manusha demands Rs. 1 b compensation from SLBFE Chair over fraud allegations
-
-*2024-11-29 02:18:35* · [`dailyftlk`](https://www.ft.lk/news/Manusha-demands-Rs-1-b-compensation-from-SLBFE-Chair-over-fraud-allegations/56-769882) · `en`
-
-Former Foreign Employment Minister Manusha Nanayakkara has sent a Letter of Demand (LOD) to Sri Lanka Bureau of Foreign Employment (SLBFE) Chairperson Kosala Wickramasinghe seeking Rs. 1 billion in damages for allegedly defamatory remarks made against him related to the South Korean E8 visa system.
-
-Nanayakkara has claimed that Wickramasinghe, during a recent media interview, implied his involvement in financial fraud linked to the visa system, causing significant harm to his political and personal reputation.
-
-In addition to the LOD, Nanayakkara has also urged Foreign Minister Vijitha Herath to investigate the allegations. In his letter to the Foreign Minister, he categorically denied any wrongdoing and stated that these accusations have caused severe reputational damage.
-
-...
-
-[Data](articles/43ea04cd.json)
-
----
-
-### Viraj Dayaratne appointed as Solicitor General
-
-*2024-11-29 02:17:32* · [`dailyftlk`](https://www.ft.lk/news/Viraj-Dayaratne-appointed-as-Solicitor-General/56-769881) · `en`
-
-Senior Additional Solicitor General Viraj Dayaratne PC has been officially appointed as the new Solicitor General.
-
-Dayaratne has served in the Attorney General’s Department for 31 years, holding the position of Additional Solicitor General since May 2018. He has also served as the Securities and Exchange Commission of Sri Lanka (SEC) Chairperson from January 2020 to January 2023.
-
-An alumnus of St. Thomas' College, Mount Lavinia, Dayaratne has experience both locally and internationally. In 2009, he served as a legal expert for the Ministry of Defence in Oman and has previously worked as a legal educator.
-
-◼️
-
-[Data](articles/9be1d540.json)
-
-[Extended Data](ext_articles/9be1d540.ext.json)
-
----
-
-### Malaysian tycoon and Maxis owner Ananda Krishnan passes away
-
-*2024-11-29 02:06:29* · [`dailyftlk`](https://www.ft.lk/business/Malaysian-tycoon-and-Maxis-owner-Ananda-Krishnan-passes-away/34-769872) · `en`
-
-Ananda Krishnan, one of Malaysia’s most prominent billionaires, passed away peacefully on Thursday at the age of 86, according to a statement by Usaha Tegas Sdn Bhd, his private investment vehicle. The family has requested privacy during their time of mourning.
-
-“He has made significant contributions to nation-building and the corporate world,” Usaha Tegas said. “His philanthropic initiatives have touched many lives.”
-
-A Harvard Business School alumnus, Ananda founded several iconic Malaysian companies, including Maxis Bhd, Malaysia’s second-largest mobile operator, and Astro Malaysia Holdings Bhd, a leading broadcasting and media firm. He also owned a substantial stake in oilfield services provider Bumi Armada Bhd.
-
-In April, Forbes ranked Ananda as Malaysia’s third-richest person, with a net worth of $ 5.1 billion (RM 22.66 billion), trailing only Robert Kuok and Quek Leng Chan.
-
-...
-
-[Data](articles/95601be2.json)
-
-[Extended Data](ext_articles/95601be2.ext.json)
-
----
-
-### CH17 Loyalty expands services into Maldives retail market
-
-*2024-11-29 02:05:38* · [`dailyftlk`](https://www.ft.lk/business/CH17-Loyalty-expands-services-into-Maldives-retail-market/34-769871) · `en`
-
-CH17 Loyalty CEO Jumar Preena (centre)  with Development Interplan Ceylon CEO Zuraish  Hashim (right) and  CH17 Director Rizvi Farouq
-
-Offers benefits and privileges to cardholders in both SL and Maldives
-
-CH17 Loyalty, a leader in customer loyalty solutions, corporate membership management, and staff benefit schemes, announces its expansion into the Maldives retail market.
-
-This strategic milestone marks CH17’s first foray into an international market, reinforcing its position as a pioneer in customer management technology.
-
-...
-
-[Data](articles/8b4f1cb9.json)
-
-[Extended Data](ext_articles/8b4f1cb9.ext.json)
-
----
-
-### Standard Chartered launches life-changing Goal Accelerator project for disadvantaged young women
-
-*2024-11-29 02:04:54* · [`dailyftlk`](https://www.ft.lk/business/Standard-Chartered-launches-life-changing-Goal-Accelerator-project-for-disadvantaged-young-women/34-769870) · `en`
-
-Standard Chartered Sri Lanka CEO Bingumal Thewarathanthri handing over the ceremonial cheque to SERVE Executive Director Sanjeeva de Mel
-
-With the intention of empowering disadvantaged young women in the country, Standard Chartered Sri Lanka has launched the next iteration of Goal, the Goal Accelerator, a three-year employability project, dubbed ‘Sashreeka’ in collaboration with SERVE, the local implementing partner and Women Win, a global multi-dimensional women’s fund.
-
-Funded by a $ 600,000 donation from the Standard Chartered Foundation, the Sashreeka project aims to benefit 450 young women, aged 18-35 years, from low socio-economic backgrounds living in the Colombo, Gampaha, and Kalutara districts. The initiative is designed to be inclusive, with 10% of the total target being young women who are differently abled.
-
-...
-
-[Data](articles/41dabb3d.json)
-
-[Extended Data](ext_articles/41dabb3d.ext.json)
-
----
-
-### Rise of digital campaigning: How social platforms shaped Sri Lanka’s elections
-
-*2024-11-29 01:06:13* · [`dailyftlk`](https://www.ft.lk/opinion/Rise-of-digital-campaigning-How-social-platforms-shaped-Sri-Lanka-s-elections/14-769865) · `en`
-
-Of all social platforms, TikTok played a significant role in ensuring election integrity
-
-The recent Presidential and General elections in Sri Lanka marked a significant political shift, with Anura Kumara Dissanayake of the National People’s Power (NPP) coalition emerging as a transformative figure. Dissanayake’s victory in the September 2024 Presidential election represented a break from decades of entrenched elite politics, resonating with voters disillusioned by corruption and economic mismanagement. NPP’s subsequent landslide win in the snap Parliamentary elections solidified his mandate to pursue reforms to alleviate poverty and address systemic governance issues.
-
-...
-
-[Data](articles/1dc9035b.json)
-
-[Extended Data](ext_articles/1dc9035b.ext.json)
-
----
-
-### Systems change expected  by the people from NPP Government
-
-*2024-11-29 01:03:37* · [`dailyftlk`](https://www.ft.lk/columns/Systems-change-expected-by-the-people-from-NPP-Government/4-769864) · `en`
-
-The Government has already formed a relevant ministry and well-qualified advisers in the field. This is a good positive starting point. The people have yet to see the change in this regard. The NPP Government should also encourage the industries that encourage the creation of jobs, especially for young people, by supporting small and medium-sized businesses (SMEs) and offering vocational training programs. The curriculum of the technical colleges should be overhauled, and relevant job-orientated vocational training should be further developed
-
-The NPP, which has become a major political force in the most recent Parliamentary election in Sri Lanka, has presented a vision for system change that many people find appealing.
-
-...
-
-[Data](articles/d406a498.json)
-
-[Extended Data](ext_articles/d406a498.ext.json)
-
----
-
-### Will NPP Govt. probe killing of JVP leader Rohana Wijeweera?
-
-*2024-11-29 00:50:26* · [`dailyftlk`](https://www.ft.lk/columns/Will-NPP-Govt-probe-killing-of-JVP-leader-Rohana-Wijeweera/4-769853) · `en`
-
-Given the enormity of the violence caused by the JVP and the boiling anger among the police and security personnel towards the JVP leader, it was widely believed that Rohana Wijeweera was killed in what was euphemistically termed as an “officially sanctioned unofficial execution”
-
-Rohana Wijeweera was killed 35 years ago on 13 November 1989. The revolutionary leader of the Janatha Vimukthi Peramuna was 46 years old at the time of his death. The mastermind behind two bloody insurrections – in 1971 and from 1987 to 89 – was taken into custody on 12 November in the Kandy District and brought to Colombo. With Wijeweera’s capture and death the second JVP insurgency gradually petered out and ended
-
-...
-
-[Data](articles/e7d8a993.json)
-
-[Extended Data](ext_articles/e7d8a993.ext.json)
-
----
-
-### Public support for Govt: Key for successful IMF programs
-
-*2024-11-29 00:46:52* · [`dailyftlk`](https://www.ft.lk/columns/Public-support-for-Govt-Key-for-successful-IMF-programs/4-769852) · `en`
-
-Both the IMF and the Government officials should keep in mind that maintaining broad public support is as important as implementing necessary reforms
-
-The new Government and the IMF have so far been in sync. For instance, the IMF underscored the importance of securing funding for social spending and supporting the most vulnerable. President Dissanayake has assured that his Government would prioritise effective use of social funds, focusing on combating child poverty, addressing malnutrition, and improving support for differently-abled individuals. These priorities, core to the NPP’s election platform, demonstrate at least some levels of alignment between the Government’s goals and IMF conditions. The mutual emphasis on social spending would also help the Government maintain its strong popularity
-
-...
-
-[Data](articles/0906dbf5.json)
-
-[Extended Data](ext_articles/0906dbf5.ext.json)
-
----
-
-### The deepest humor moving towards the northwest
-
-*2024-11-29 00:30:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமேற்கு-நோக்கி-நகரும்-ஆழ்ந்த-தாழமுக்கம்/175-347963) · `ta`
-
-Deep lowland near Trincomalee moving NW. Meteorology warns against deep/shallow waters. Heavy rain expected in Northern Province.
-
-🟩
-
-The Department of Meteorology has said that the deepest lowland, which is about 110 kilometers north of Trincomalee, is moving to the northwest of the country.
-
-Accordingly, the Department of Meteorology has advised the Maritime and Fisheries Community not to go to the deeper and shallow waters surrounding the country.
-
-Meanwhile, the Department of Meteorology has said that more than 100 millimeters of heavy rainfall is expected in some parts of the Northern Province.
-
-◼️
-
-[Data](articles/10376d75.json)
-
-[Extended Data](ext_articles/10376d75.ext.json)
-
----
-
-### SL kicks off 16 Days of Activism Against Gender-Based Violence
-
-*2024-11-29 00:24:34* · [`dailyftlk`](https://www.ft.lk/opinion/SL-kicks-off-16-Days-of-Activism-Against-Gender-Based-Violence/14-769838) · `en`
-
-For millions of women and girls, digital spaces are fraught with risks that echo and amplify the violence they already face offline
-
-Prime Minister Dr. Hairini Amarasuriya with Women and Child Affairs Minister Saroja Savithri Paulraj at the event
-
-The National Launch of the 16 Days of Activism Against Gender-Based Violence campaign by UN Sri Lanka in partnership with the Government and the Ministry of Women and Child Affairs (MOWCA) was held earlier this week. The event featured a walk to raise awareness and stand in solidarity with survivors of GBV.
-
-The event was led by UNFPA Sri Lanka and saw the participation of Prime Minister Dr. Harini Amarasuriya, Women and Child Affairs Minister Saroja Savithri Paulraj, United Nations Resident Coordinator in Sri Lanka Marc-André Franche and UNFPA Sri Lanka Representative Kunle Adeniyi.
-
-...
-
-[Data](articles/8d793d1a.json)
-
-[Extended Data](ext_articles/8d793d1a.ext.json)
-
----
-
-### Digital frontline: Protecting women and girls from online violence
-
-*2024-11-29 00:22:14* · [`dailyftlk`](https://www.ft.lk/opinion/Digital-frontline-Protecting-women-and-girls-from-online-violence/14-769837) · `en`
-
-On the International Day for the Elimination of Violence Against Women, marking the start of 16 Days of Activism against Gender-Based Violence, UNFPA Asia-Pacific Regional Director Pio Smith calls for urgent action to close the digital gender divide, hold tech platforms accountable, and invest in inclusive policies to combat online gender-based violence, creating safer digital spaces for all women and girls.
-
-The internet has revolutionised our lives, offering unprecedented opportunities for connection, learning and empowerment. Yet, the digital revolution has a sinister side: the growing threat of technology-facilitated gender-based violence. A recent global study found that nearly 60% of women had experienced one or more forms of online harm. For millions of women and girls, digital spaces are fraught with risks that echo and amplify the violence they already face offline.
-
-...
-
-[Data](articles/abab5264.json)
-
-[Extended Data](ext_articles/abab5264.ext.json)
-
----
-
-### Building value-centric performance-driven culture: Key to organisational success
-
-*2024-11-29 00:19:40* · [`dailyftlk`](https://www.ft.lk/columns/Building-value-centric-performance-driven-culture-Key-to-organisational-success/4-769836) · `en`
-
-Emphasising performance management at all levels while leading by example fosters trust and collaboration among teams
-
-Creating a value-centric, performance-driven culture is essential for any organisation striving for success in today’s competitive and turbulent business environment. This culture is built on core values that reflect great human principles widely practiced in successful corporates, such as mutual trust and respect, togetherness, integrity, ethical conduct, and a commitment to excellence. These values not only unify employees but also shape their behaviours, influencing the organisation’s overall effectiveness.
-
-...
-
-[Data](articles/e51df996.json)
-
-[Extended Data](ext_articles/e51df996.ext.json)
-
----
-
-### Sri Lanka curled up for 42 runs with Jenson's 7 wickets;Sri Lanka's 42 -year Test cricket history is the lowest total number
-
-*2024-11-29 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199964) · `ta`
-
-Sri Lanka scored 42 runs in their first innings against South Africa, lowest in their 42-year Test history. Marco Jensen took 7 wickets, including an unbeaten over. South Africa leads with 281/7 in their second innings.
-
-🟩
-
-In the first Test match against South Africa at the Kingsmeet Stadium, Sri Lanka was hit by Marco Jenson's fast bowling and curled up for 42 runs in its first innings.
-
-This is the lowest number of Sri Lanka's 42 -year Test cricket history in an innings.
-
-Sri Lanka scored 71 runs at the 1994 Kandy Asgiriya Stadium against Pakistan.
-
-In the match, South Africa's second innings are 7 wickets for 281 runs.
-
-As a result, Sri Lanka's chance to qualify for the World Test Championships has begun to swing.
-
-Of the 7 Sri Lankan players who lost the bowling of Jenson's bowling, four did not run and the trio got single digits.
-
-Kamundu Mendis (13) and Lahiru Kumara (10 AE) received double digits.
-
-Tananjaya de Silva (7), Bethum Nissank (3), Timuth Karunaratne (2) and Angelo Mathews (1) received a single -digit number and Dinesh Chandimal, Kusal Mendis, Prabhat Jayasuriya, Vishwa Fernando, Asitha Fernando and Asitha Fernando.
-
-In the bowling, Marco Jensen took 7 wickets in 6.5 overs, including an unbeaten over.
-
-...
-
-[Data](articles/87a67bc3.json)
-
-[Extended Data](ext_articles/87a67bc3.ext.json)
-
----
 
 ### Imposition of penalty on vehicle dealers for delayed registrations amid gradual lifting of import restrictions
 
@@ -343,8 +43,6 @@ In a bid to manage the foreign currency outflow while gradually easing restricti
 ...
 
 [Data](articles/f9c539c5.json)
-
-[Extended Data](ext_articles/f9c539c5.ext.json)
 
 ---
 
@@ -462,85 +160,55 @@ Below is the list of the new ambassadors and the high commissioner who presented
 
 ---
 
-### 12 people killed in inclement weather in the country
+### நாட்டில் சீரற்ற வானிலையால் 12 பேர் பலி : 3 இலட்சத்திற்கும் மேற்பட்டோர் பாதிப்பு!
 
 *2024-11-28 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199962) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+நாட்டில் நிலவும் சீரற்ற வானிலை காரணமாக 24 மாவட்டங்களிலும் பாதிப்புக்கள் ஏற்பட்டுள்ளதாகவும் அனர்த்தங்களில் சிக்கி இதுவரை 12 பேர் உயிரிழந்துள்ளதாகவும் அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
 
+மழை, வெள்ளம் போன்ற அனர்த்தங்களால் ஒரு இலட்சத்து 13 ஆயிரத்து 52 குடும்பங்களைச் சேர்ந்த 3 இலட்சத்து 77 ஆயிரத்து 511 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் மேலும் தெரிவித்துள்ளது.
 
+சீரற்ற வானிலையால் ஏற்பட்ட அனர்த்தத்தில் 17 பேர் காயமடைந்துள்ளதுடன் ஒருவர் காணாமல் போயுள்ளார்.
 
-Inclement weather kills 12, injures 17, displaces 32k+ in 12 districts. 3.77L affected from 1.13L families. 1 missing. 311 relief centers established.
-
-🟩
-
-The Disaster Management Center said that 12 districts have been affected by the inclement weather in the country and 12 people have been killed in disasters.
-
-The Disaster Management Center further said that 3 lakhs 77 thousand 511 people from one lakh 13 thousand 52 families have been affected by disasters such as rain and floods.
-
-17 people were injured in the disaster caused by inclement weather and one has disappeared.
-
-32 thousand 695 people from 10 thousand 431 families have been housed in the camps, with 311 intermediaries set up across the country.
+நாடளாவிய ரீதியில் 311 இடைத்தங்கல் முகாம்கள் அமைக்கப்பட்டுள்ள நிலையில், அந்த முகாம்களில் 10 ஆயிரத்து 431 குடும்பங்களைச் சேர்ந்த 32 ஆயிரத்து 695 பேர் தங்கவைக்கப்பட்டுள்னளர்.
 
 ◼️
 
 [Data](articles/c834203f.json)
 
-[Extended Data](ext_articles/c834203f.ext.json)
-
 ---
 
-### Investigate the allegations that has been received
+### பணம் பெற்றுக்கொண்டதாக தெரிவிக்கப்படும் குற்றச்சாட்டு தொடர்பில் விசாரணை நடத்தவும் - மனுஷ விஜித்த ஹேரத்திடம் கோரிக்கை
 
 *2024-11-28 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199918) · `ta`
 
-Here's a summary of 200 characters:
+வெளிநாட்டு வேலைவாய்ப்புக்காக பணம் பெற்றுக்கொண்டதாக தெரிவிக்கப்படும் குற்றச்சாட்டில் எந்த உண்மையும் இல்லை. அதுதொடர்பில் முழுமையான விசாரணை மேற்கொள்ள வேண்டும் என தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு முன்னாள் அமைச்சர் மனுஷ நாணயக்கார  கோரிக்கை விடுத்துள்ளார்.
 
+இதுதொடர்பாக வெளிவிவகார மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் விஜித்த ஹேரத்துக்கு அவர் அனுப்பியுள்ள கடிதத்திலேயே இவ்வாறு தெரிவித்துள்ளார்.
 
-
-Allegations against former Minister Manusha Nanayakkara regarding foreign employment claims investigated. He denies receiving money for jobs. Calls for thorough probe into accusations damaging his reputation.
-
-🟩
-
-There is no truth in the accusation that has received money for foreign employment. Former Minister of Industry and Foreign Employment, Manusha Nanayakkara has called for a thorough investigation into the matter.
-
-He said this in his letter to the Minister of External Affairs and Foreign Employment, Vijitha Hera.
-
-As the Minister in charge of the country under the E8 Visa Committee, I took legally and transparency to involve the legal conditions implemented in the Republic of Sri Lanka and the Republic of Sri Lanka.
-
-In the process of increasing the country's monthly foreign currency from $ 200 million to $ 500 million, I had taken steps to gain seasonal employment opportunities in Korea to increase the sending of workers for Korean business through a bilateral contract.
+ஈ 8 விசா குழுவின் கீழ் பருவகால தொழில் வாய்ப்புக்களை நாட்டுக்கு பெற்றுக்கொள்வதற்காக விடயத்துக்கு பொறுப்பான அமைச்சர் என்றவகையில் இலங்கை மற்றும்  கொரிய குடியரசில் செயற்படுத்தப்படும் சட்ட நிலைமைகளை  சம்பந்தப்படுத்திக்கொண்டு சட்ட ரீதியாகவும் வெளிப்படைத்தன்மையுடனுமே நடவடிக்கை எடுத்தேன்.
 
 ...
 
 [Data](articles/7bb4c7fd.json)
 
-[Extended Data](ext_articles/7bb4c7fd.ext.json)
-
 ---
 
-### SriLankan Airlines as Best Airlines Partner at Tamil Nadu Tourism Awards
+### தமிழ்நாடு சுற்றுலா விருதுகளில் ‘சிறந்த விமானப் பங்குதாரராக’ ஸ்ரீலங்கன் ஏர்லைன்ஸுக்கு அங்கீகாரம்
 
 *2024-11-28 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199924) · `ta`
 
-SriLankan Airlines wins "Best Airport Partner" at Tamil Nadu Tourism Awards. Recognized for excellent service in South India. Operates 90 weekly flights across India, including Tamil Nadu. Aims to enhance passenger experience and expand routes.
+தென்னிந்தியாவில் சுற்றுலா தளத்தை மேம்படுத்துவதில் விமான சேவையில் சிறந்த பங்களிப்பை அளித்த விமான சேவையாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானம் "சிறந்த விமான பங்குதாரர்" விருதை பெற்றுள்ளது. 2024 ஆம் ஆண்டு நவம்பர் 19ஆம் தேதி நடைபெற்ற நிகழ்ச்சியில் இந்த விருது ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனத்துக்கு வழங்கப்பட்டது.
 
-🟩
+செப்டம்பர் மாதம் நடைபெற்ற தெற்காசிய பயண விருதுகளில், பார்வையாளர்களின் தேர்வு மூலம் தேர்வர்கள் தேர்வு செய்யப்பட்டனர்.
 
-Sri Lanka Airlines Airlines has won the "Best Airport Participant" Award as the Best Film Service in South India. The award was presented to SriLankan Airlines at a function held on November 19, 2024.
+தெற்காசியாவின் சிறந்த முன்னணி சர்வதேச விமான நிறுவனமாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் வெற்றி பெற்றதைத் தொடர்ந்த கடந்த சில மாதங்களில் ஸ்ரீலங்கன் நிறுவனம் பெரும் இரண்டாவது கெளரவத்தை இந்தப் பாராட்டு குறிக்கிறது
 
-At the South Asian Travel Awards held in September, the selectors were selected by the selection of visitors.
-
-SriLankan Airlines has won the second honor in the last few months following the success of Sri Lanka Airlines as South Asia's Best International Airlines.
-
-SriLankan Airlines continues to establish leading international airlines in support of nearly 35 weekly flights to Chennai, Trichy and Madurai in Tamil Nadu.
-
-Sri Lanka Airlines operates 90 weekly flights across India not only in Tamil Nadu but also in Delhi, Mumbai, Hyderabad, Bangalore, Cochin and Thiruvananthapuram.. SriLankan Airlines is celebrating the Tamil Nadu Tourism Awards as a significant impact on the state's tourism industry.
+தமிழகத்தில் சென்னை, திருச்சி மற்றும் மதுரையில் கொழும்புக்கு இணைக்கும் கிட்டத்தட்ட 35 வாராந்திர விமானங்கள் மூலம், ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம், மருத்துவ பயணங்கள், சுற்றுலா பயணங்கள், யாத்திரை பயணங்கள் உள்ளிட்டவற்றை ஆதரிக்கும் முன்னணி சர்வதேச விமான நிறுவனங்களில் ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் தொடர்ந்து நிலை நிறுத்திக் கொண்டு வருகிறது.
 
 ...
 
 [Data](articles/5090f85a.json)
-
-[Extended Data](ext_articles/5090f85a.ext.json)
 
 ---
 
@@ -602,33 +270,21 @@ If the current government of such a surroundings or a solution to the national p
 
 ---
 
-### Appreciating the terrorist movement and its leader does not help travel ahead - Ali Sabri
+### பயங்கரவாத இயக்கத்தையும் அதன் தலைவரையும் போற்றுவது முன்நோக்கிப் பயணிக்க உதவாது - அலி சப்ரி
 
 *2024-11-28 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199923) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+இரக்கமற்ற வகையில் பயங்கரவாதத்தைக் கட்டமைத்த தமிழீழ விடுதலைப்புலிகள் இயக்கத்தையோ அல்லது அதன் தலைவரையோ போற்றுவது நாம் முன்நோக்கிப் பயணிப்பதற்கு ஏதுவான வழிமுறையாக அமையாது எனச் சுட்டிக்காட்டியிருக்கும் முன்னாள் வெளிவிவகார அமைச்சர் அலி சப்ரி, இனவாதத்தைப் பரப்புவதற்கு சந்தர்ப்பத்தை எதிர்பார்த்துக் காத்திருக்கும் தெற்கின் கடும்போக்கு சக்திகளுக்கு அந்த வாய்ப்பை வழங்குவதைத் தவிர்த்துக்கொள்ளவேண்டும் என வலியுறுத்தியிருக்கிறார்.
 
+மாவீரர் தினத்தை முன்னிட்டு புதன்கிழமை (27) கடும் மழைக்கு மத்தியிலும் வட, கிழக்கு மக்கள் மாவீரர் துயிலும் இல்லங்களுக்குச்சென்று பெரும் உணர்வெழுச்சியுடன் மாவீரர்களை நினைவுகூர்ந்தனர்.
 
+இந்நிலையில், நினைவுகூரல் தொடர்பில் மேற்கண்டவாறு கருத்து வெளியிட்டிருக்கும் முன்னாள் அமைச்சர் அலி சப்ரி, மேலும் கூறியிருப்பதாவது,
 
-Former FM Ali Sabri urges against praising LTTE, calls for unity & peace. Commemorating heroes important but celebrating violence hinders reconciliation efforts. Building Sri Lankan identity together is crucial.
-
-🟩
-
-Former Foreign Minister Ali Sabri, who has pointed out that it is not a way to praise the Liberation Tigers of Tamil Eelam (LTTE) movement or its leader who has ruined terrorism, has urged the south to give it the opportunity to provide the opportunity to spread the opportunity to spread communalism.
-
-On Wednesday (27), the people of the North and East remembered the heroes of the Heroes of Heroes on Wednesday (27).
-
-Former Minister Ali Sabri, who has commented on the commemoration of the commemoration, added that the above said.
-
-It is important to respect the memories of those who died in the worst war and the victims of the year when we were working on building a unity and peaceful Sri Lanka.
-
-Although some people have changed the trail as a result of the past ideology, families must be allowed to commemorate all the loved ones, including them.. This is human rights and the most important move to heal past injuries.
+நாமனைவரும் ஒற்றுமையானதும், அமைதியானதுமான இலங்கையைக் கட்டியெழுப்புவதை முன்னிறுத்திப் பணியாற்றும்போது, பல வருடங்களாக நீடித்த மிகமோசமான யுத்தத்தில் உயிரிழந்தவர்கள் மற்றும் அதனால் பாதிக்கப்பட்டவர்கள் சார்ந்த நினைவுகளுக்கு மதிப்பளிக்கவேண்டியது மிக முக்கியமானதாகும்.
 
 ...
 
 [Data](articles/14ec6852.json)
-
-[Extended Data](ext_articles/14ec6852.ext.json)
 
 ---
 
@@ -812,49 +468,35 @@ Also, 7,063 persons from 1,995 families have been housed in 80 security centers,
 
 ---
 
-### 4800 acres of paddy cultivation due to heavy rains - Ministry of Agriculture
+### கடும் மழையுடனான காலநிலையால் 4800 ஏக்கர் நெற் பயிர்ச்செய்கை  பாதிப்பு  - விவசாயத்துறை அமைச்சு!
 
 *2024-11-28 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/199938) · `ta`
 
-Heavy rains damage 4800+ acres of paddy fields. 3900 acres partially affected. Relief measures for farmers announced. Flooding impacts 106 ponds and some agricultural lands severely damaged.
+நாட்டில் நிலவும் மழையுடனான காலநிலையால் பெரும்போக விவசாயத்தில் 4800 ஏக்கர் நெற்பயிர்ச்செய்கை  முழுமையாக பாதிக்கப்பட்டுள்ளதுடன், 3900 ஏக்கர் நெற்செய்கை பகுதியளவில் பாதிக்கப்பட்டுள்ளன. பாதிக்கப்பட்டுள்ள விவசாயிகளுக்கு உரிய நிவாரணம் வழங்கப்படும் என விவசாயத்துறை இராஜாங்க அமைச்சர் நாமல் கருணாரத்ன தெரிவித்தார்.
 
-🟩
+நலன்புரி திட்டத்துக்கமைய விவசாயிகளுக்கு வழங்கப்படும் விவசாயிகளுக்கான கொடுப்பனவு முறையாக வழங்கப்படும். தேசிய மட்டத்தில் விவசாயத்துறையை மேம்படுத்துவதற்கு உரிய நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன. விவசாயிகளை வளப்படுத்தாமல் தேசிய உற்பத்திகளை மேம்படுத்த முடியாது.
 
-Due to the prevailing rainy weather in the country, 4800 acres of paddy fields have been completely affected and 3900 acres are partially affected.. Minister of Agriculture Namal Karunaratne said that the affected farmers will be given adequate relief.
-
-Farmers' allowance for farmers will be paid formally according to the welfare scheme. Steps have been taken to improve agriculture at the national level. National products cannot be improved without enriching the farmers.
-
-Due to the prevailing rainy weather in the country, 4800 acres of paddy fields have been affected by 3900 acres of paddy cultivation.. Steps have been taken to provide relief to the affected farmers.
-
-Flooding has so far been stored in 106 ponds and 30 large numbers have been partially damaged.Steps have been taken to rehabilitate these. He said it was dissatisfied that a party also used natural disasters for their short political campaign.
+நாட்டில் நிலவும் மழையுடனான காலநிலையால் பெரும்போக விவசாயத்தில் 4800 ஏக்கர் நெற்பயிர்ச்செய்கை பாதிக்கப்பட்டுள்ள நிலையில் 3900 ஏக்கர் நெற் பயிர்ச்செய்கை பகுதியளவில் பாதிக்கப்பட்டுள்ளன. பாதிக்கப்பட்டுள்ள விவசாயிகளுக்கு நிவாரணம் வழங்குவதற்கு உரிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.மதிப்பீடுகளின் பின்னர் நிவாரணம் வழங்கப்படும்.
 
 ...
 
 [Data](articles/545beea9.json)
 
-[Extended Data](ext_articles/545beea9.ext.json)
-
 ---
 
-### The third phase of the Review of the Officer of the Review of Sri Lanka shows economic improvement - the Sri Lanka Business Federation is proud of
+### மூன்றாம் கட்ட மீளாய்வு தொடர்பான உத்தியோகத்தர் மட்ட இணக்கப்பாடஇலங்கை அடைந்திருப்பது பொருளாதார முன்னேற்றத்தைக் காண்பிக்கிறது - இலங்கை வர்த்தக சம்மேளனம் பெருமிதம்
 
 *2024-11-28 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199957) · `ta`
 
-Sri Lanka's economy shows improvement in third phase review. Compliance reached with IMF, paving way for fourth phase funding. Business federation calls for continued restoration efforts to boost sustainable growth.
+மூன்றாம் கட்ட மீளாய்வு தொடர்பில் சர்வதேச நாணய நிதிய அதிகாரிகளுடன் உத்தியோகத்தர் மட்ட இணக்கப்பாடு எட்டப்பட்டிருப்பதானது, மறுசீரமைப்புக்களை நடைமுறைப்படுத்துவதிலும், நிதியியல் ஸ்திரத்தன்மையை மீளுறுதிப்படுத்துவதிலும் இலங்கை அடைந்திருக்கும் முன்னேற்றத்தைக் காண்பிப்பதாக இலங்கை வர்த்தக சம்மேளனம் (சிலோன் சேம்பர் ஒஃப் கொமர்ஸ்) தெரிவித்துள்ளது.
 
-🟩
+சர்வதேச நாணய நிதியத்தினால் அனுசரணை அளிக்கப்படும் விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டம் தொடர்பில் கடந்த வாரம் மேற்கொள்ளப்பட்ட மூன்றாம் கட்ட மீளாய்வை அடுத்து நாணய நிதிய அதிகாரிகளுக்கும், இலங்கை அரசாங்கத்துக்கும் இடையில் உத்தியோகத்தர் மட்ட இணக்கப்பாடு எட்டப்பட்டது.
 
-The Sri Lanka Chamber of Commerce (Ceylon Chamber of Commerce) has said that Sri Lanka's progress in the implementation of reorganization and rehabilitation of the financial stability is being reached with the International Monetary Finance Officers with the International Monetary Finance Officers in connection with the third phase of the review.
-
-The official level compliance between the Monetary Finance Officers and the Sri Lankan government was reached following the third phase of last week's renovation on the expanded financial project sponsored by the International Monetary Fund.
-
-The Ceylon Chamber of Commerce (Ceylon Chamber of Commerce), which has issued this, said the officer's level of compliance is showing the progress of Sri Lanka in implementing structural restructuring and rehabilitation of the financial restructuring among the economic recovery.
+இதுகுறித்து வரவேற்பு வெளியிட்டிருக்கும் இலங்கை வர்த்தக சம்மேளனம் (சிலோன் சேம்பர் ஒஃப் கொமர்ஸ்), இந்த உத்தியோகத்தர் மட்ட இணக்கப்பாடானது கட்டமைப்பு மறுசீரமைப்புக்களை நடைமுறைப்படுத்துவதிலும், பொருளாதார மீட்சிக்கு மத்தியில் நிதியியல் ஸ்திரத்தன்மையை மீளுறுதிப்படுத்துவதிலும் இலங்கை அடைந்திருக்கும் முன்னேற்றத்தைக் காண்பிப்பதாகத் தெரிவித்துள்ளது.
 
 ...
 
 [Data](articles/2c8691e8.json)
-
-[Extended Data](ext_articles/2c8691e8.ext.json)
 
 ---
 
@@ -1590,35 +1232,21 @@ Dayaratne previously served as the Chairman of the Securities and Exchange Commi
 
 ---
 
-### How can the banned LTTE system be observed with definitions - Sri Lanka PA
+### தடைசெய்யப்பட்ட விடுதலைப் புலிகள் அமைப்பை வரையறைகளுடன் எவ்வாறு அனுஷ்டிக்க முடியும் - ஸ்ரீ லங்கா பொதுஜன பெரமுன
 
 *2024-11-28 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199946) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+விடுதலை புலிகள் அமைப்பு பயங்கரவாத அமைப்பாக அறிவித்து தடை செய்யப்பட்டுள்ள நிலையில் வரையறைகளுடன் மாவீரர் தினத்தை எவ்வாறு அனுஷ்டிக்க இடமளிக்க முடியும். இவ்வாறான செயற்பாடுகளினால் எதிர்காலத்தில் இலங்கையில் ஒசாமா பின் லேடனையும் அனுஸ்டிக்க நேரிடும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் உறுப்பினர் மனோஜ் கமகே தெரிவித்தார்.
 
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் வியாழக்கிழமை (28) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போதே மேற்கண்டவாறு குறிப்பிட்டார்.
 
+வரலாற்றில் என்றுமில்லாத வகையில் இம்முறை வடக்கில் உணர்வுபூர்வமாக அனுஸ்டிக்கப்பட்டுள்ளது. தேசிய பாதுபாப்புக்கு அச்சுறுத்தல் ஏற்படாத வகையில் மாவீரர் தினத்தை அனுஸ்டிப்பதற்கு அனுமதியளித்துள்ளதாக அரசாங்கம் குறிப்பிடுகிறது.
 
-Sri Lanka PA member Manoj Kamage discusses LTTE ban, Heroes Day observance, national security concerns, military camp removals, and Tamil separatist policies.
-
-🟩
-
-How can the LTTE be declared a terrorist organization and how to observe Heroes Day with definitions. Manoj Kamage, a member of the Sri Lanka PA, said that such activities would be observed in Sri Lanka in the future.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Thursday (28).
-
-This time has been emotionally observed in the North. The government notes that it has given permission to observe Heroes Day so as not to threaten national security.
-
-But the Northern people have publicly recalled the militants and the leader of the LTTE Prabhakaran.
-
-The LTTE has been banned as a terrorist organization. The organization is banned in 32 countries in the world. How can you accommodate the banned terrorist system with definitions. With such activities, Osama bin Laden will be observed in Sri Lanka in the future.
-
-The North and East have issued orders to the National People's Power. The government should use the decree of the Tamil people better.
+ஆனால் வடக்கு  மக்கள்  இம்முறை போராளிகளையும் விடுதலை புலிகள் அமைப்பின் தலைவர் பிரபாகரனையும் பகிரங்கமாக நினைவு  கூர்ந்துள்ளனர்.
 
 ...
 
 [Data](articles/d414a4f8.json)
-
-[Extended Data](ext_articles/d414a4f8.ext.json)
 
 ---
 
@@ -2364,7 +1992,7 @@ This is a human right and an essential step in healing wounds, Sabry pointed out
 
 “We must also remember that hardline elements in the South are ever-watchful, ready to exploit any opportunity to stoke racial hatred. Let us deny them that chance,” he said.
 
-The former minister’s post follows social media posts criticizing the commemoration of Maaveerar Naal in the country’s north.
+The former minister’s post follows social media posts criticizing the celebration of Maaveerar Naal in the country’s north.
 
 Sabry said that “glorifying the LTTE or its leader, a ruthless architect of terror, is not the way forward.”
 
@@ -2515,5 +2143,385 @@ Accordingly, the judge has ordered the defendants to be sentenced to life in pri
 [Data](articles/db4d6a48.json)
 
 [Extended Data](ext_articles/db4d6a48.ext.json)
+
+---
+
+### Tractor Driver found in Ampara - Missing Transport Assistant Police
+
+*2024-11-28 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203835) · `si`
+
+A tractor driver found in Ampara after reported missing. Four people recovered, but two students still unaccounted for. Inclement weather causes drowning in Vavuniya and disappearance in Trincomalee.
+
+🟩
+
+It is reported that the tractor in the Mabitatter area was reported to be disappeared in the Mabubaru area in Ampara.
+
+He was produced before the police station this morning, police said.
+
+Meanwhile, four schoolchildren, the tractor driver and another person has been recovered from the disappearance of a tractor.
+
+However, the Disaster Management Center (DMC) said that two students will disappeared.
+
+Meanwhile, a person drowned to visit the Mahakrahchchi Election of Vavuniya during the inclement weather, a person who went fishing in the Yan Oya River, Trincomalee, have disappeared.
+
+The Disaster Management Center Assistant Director Janaka, Avalagaharajah, Assistant Director of the Disaster Management Center (DMC) said.
+
+◼️
+
+[Data](articles/5d8659d9.json)
+
+[Extended Data](ext_articles/5d8659d9.ext.json)
+
+---
+
+### Sri Lanka parliament to debate policy statement, vote on account
+
+*2024-11-28 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-to-debate-policy-statement-vote-on-account-151965/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament will convene from December 3 to 6 to debate the government’s policy statement and vote on accounts, Secretary-General Kushani Rohanadeera said in a statement.
+
+This was decided at a party leaders meeting in parliament this week.
+
+The motion on the statement of the Government Policy presented by President Anura Dissanayake will be debated on Tuesday from 9.30 am to 5.30 pm.
+
+The debate will continue on Wednesday, from 9.30 am to 5 pm, with a division on the motion scheduled at 5 pm.
+
+The debate on the resolution on the vote on account for the first four months of 2025 will be on December 5 and 6 from 9.30 am to 5.30 pm.
+
+...
+
+[Data](articles/6b8d2f89.json)
+
+---
+
+### India’s parliament suspended temporarily after row over allegations against Adani group
+
+*2024-11-28 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103836/indias-parliament-suspended-temporarily-after-row-over-allegations-against-adani-group) · `en`
+
+Both houses of Indian parliament were suspended temporarily on Thursday within minutes of opening as opposition lawmakers disrupted proceedings for the third day this week seeking a discussion on allegations against the Adani Group.
+
+U.S. authorities have accused Gautam Adani, his nephew Sagar Adani and managing director of Adani Green, Vneet S. Jaain, of being part of a scheme to pay bribes of $265 million to secure Indian solar power supply contracts, and misleading U.S. investors during fund raises there.
+
+“We want a discussion on this in parliament. It is going to be the third day that we are demanding a reply from the prime minister” on the Adani issue, Manickam Tagore, a lawmaker from the main opposition Congress party, which has been leading the protests against the business group, told news agency ANI.
+
+...
+
+[Data](articles/27bf9111.json)
+
+[Extended Data](ext_articles/27bf9111.ext.json)
+
+---
+
+### Gold and money robbery
+
+*2024-11-28 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199920) · `ta`
+
+Temple priest attacked, robbed of gold chain and cash during worship. Robbers escape with 2-pound gold chain and 45,000 rupees. Police investigating.
+
+🟩
+
+An incident where a temple priest was attacked by sharp weapons and robbed the gold chain and money he wore has been reported.
+
+The robbery took place on Wednesday (27) at the Gauri Amman Temple, located on the Kaithadi A-9 road.
+
+When neighbors rushed to hear the screams of the priest, two robbers escaped with a 2 -pound gold chain worn by the priest and 45 thousand rupees.
+
+Meanwhile, the police are also involved in the arrest of two robbers who escaped.
+
+◼️
+
+[Data](articles/30df2ef0.json)
+
+[Extended Data](ext_articles/30df2ef0.ext.json)
+
+---
+
+### The former MP has passed away
+
+*2024-11-28 13:18:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-பாராளுமன்ற-உறுப்பினர்-காலமானார்/175-347928) · `ta`
+
+Seku Isadheen, former MP and Deputy Minister, passes away. Loved by many in Eastern Province. Key figure in Muslim politics, advocated for Muslim representation. Worked alongside Ashraf to form Muslim political party. Remembered for uniting Muslim Tamil minorities and supporting Tamil leadership in Northern Province.
+
+🟩
+
+Former Sri Lanka Muslim Congress, former Member of Parliament and former Deputy Minister MH. Seku Isadheen has passed away.
+
+Former Minister Seku Isadheen is the love of the three people living in the Eastern Province. He was also a senior politician of racism, religion and regionalism. He traveled together with the late leader Ashraf and awakened the Muslim community as a need for a separate political party for the Muslim community. He is a success.
+
+It is noteworthy that the Muslim Tamil minority community and the minority community in this country should be united in this country, with the Tamil leaders and the Tamil people to be the first opposition leader of the first provincial council of the Northeastern Provincial Council.
+
+◼️
+
+[Data](articles/cb4be236.json)
+
+[Extended Data](ext_articles/cb4be236.ext.json)
+
+---
+
+### Using the Heroes 1 Helos dies
+
+*2024-11-28 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203834) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Elephant electrocuted in Sri Lanka's Kalawewa National Park. The 2-ton animal was a popular tourist attraction before its death near Aadiyagala village.
+
+🟩
+
+The deception 1 elephant, housed in the Kalawewa National Park, has been caught by electricity.
+
+Our correspondent said that the elephant had been killed by an inferior to a house in front of a house in Aadiyagala.
+
+The animal is the highlight of this creature that is the size of the two gross and older.
+
+As such, the degradation was attrated with the greater foreign tourists.
+
+◼️
+
+[Data](articles/1a935040.json)
+
+[Extended Data](ext_articles/1a935040.ext.json)
+
+---
+
+### Suspect in Minuwangoda rob
+
+*2024-11-28 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203833) · `si`
+
+Minuwangoda robbery suspect flees to Dubai. Gampaha Division Investigation Bureau arrests three suspects with 55 million rupees. Suspects claim stolen money spent on prostitutes. Another suspect escaped to Dubai on 23rd. Tharindu Perera involved in motorcycle theft.
+
+🟩
+
+Another suspect in the robbery of the robbery belonging to a private financial institution in Minuwangoda has fled to Dubai State.
+
+This is revealed that the Gampaha Divisional Investigation Bureau has investigated the incident.
+
+The driver of a privately transporting private institution was carrying out a sum of Rs.
+
+Three suspects were later arrested on two occasions on two occasions, and they had found more than 55 million rupees.
+
+According to the interrogation of the two suspects yesterday (27), stated that the stolen money was spent to associate with excessive prostitutes.
+
+The officials of the Gampaha Division Criminal Investigation Bureau have revealed that another suspect who is involved in the robbery have fled to Dubai State on the 23rd.
+
+In the interrogation of the suspects arrested, he had said that he was unaware of any information about him after the robbery.
+
+However, the suspect named Tharindu Perera also added this in a motorcycle with a motorcycle.
+
+◼️
+
+[Data](articles/0f08a68d.json)
+
+[Extended Data](ext_articles/0f08a68d.ext.json)
+
+---
+
+### Increased hiv infection among young people
+
+*2024-11-28 12:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களிடையே-அதிகரிக்கும்-HIV-தொற்று/175-347927) · `ta`
+
+HIV infections surge among youth: 15% aged 15-24. New tech & inadequate sex ed cited as factors. 694 new cases reported last year. Director warns of rapid increase.
+
+🟩
+
+The National Sexual Diseases and AIDS Control Scheme said that HIV infection has increased among young people due to the detection of friends and new technologies and lack of proper sex education.
+
+According to the director of the project, Vindhya Kumaribeli, the director of the project, said that 15 per cent of HIV infections recorded last year were young people between the ages of 15 and 24.
+
+He made these comments while attending a media briefing at the Health Development Bureau.
+
+Accordingly, “last year, 694 new patients with HIV virus were reported in our country.
+
+When you look at the data, it is clear that the number of new HIV viruses is rapidly increasing.
+
+Especially when you look at the data available among young people, 15% of new patients are between the ages of 15 and 24 years.
+
+This is due to the fact that new relationships are found in various modern technologies, including the telephone.
+
+...
+
+[Data](articles/822b8604.json)
+
+[Extended Data](ext_articles/822b8604.ext.json)
+
+---
+
+### President Dissanayake holds discussion with World Bank Group President
+
+*2024-11-28 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103835/president-dissanayake-holds-discussion-with-world-bank-group-president) · `en`
+
+A virtual meeting was held yesterday (27) between President Anura Kumara Dissanayake and the President of the World Bank Group (WBG) Mr. Ajay Banga at the Presidential Secretariat, to discuss Sri Lanka’s future development priorities.
+
+The President of the World Bank Group highlighted his commitment to promoting job creation and addressing critical development challenges, the President’s Media (PMD) stated in a statement.
+
+These priorities include providing Sri Lanka with financial and technical assistance to implement innovative solutions in sectors such as People’s education, healthcare, social protection, and economic prosperity. The World Bank’s support also extends to economic policy, finance, competitiveness, investments, institutional development, and poverty alleviation.
+
+Additionally, efforts are focused on advancing agriculture, water management, climate action, environmental sustainability, social inclusion, infrastructure, and digital transformation, the statement said.
+
+...
+
+[Data](articles/2498ea29.json)
+
+[Extended Data](ext_articles/2498ea29.ext.json)
+
+---
+
+### A discussion between President and the Chairman of the World Bank
+
+*2024-11-28 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203832) · `si`
+
+Sum:0
+
+🟩
+
+President Anura Kumara Dissanayake and World Bank Chairman Ajay Banghth was held in the presidential office yesterday (27).
+
+Ajay Banga was also discussed on the assistance of the World Bank to create new employment opportunities and overcome the future development challenges.
+
+World Bank supports Sri Lanka for Sri Lanka, the development, water management, security, environmental stability, socio-management, safety, environmental strength, and social development in the future of economic policies, financial policies, investment, corporate development and poverty.It is expected to expand the support until it is expected.
+
+Anura Kumara Dissanayake, particularly the priority of the government has been given priority to the development of the energy sector, the tourism industry, the tourism industry, naval industry, government agencies, government institutions and energy fields is expected to be enhanced.Said.
+
+...
+
+[Data](articles/b035bbbc.json)
+
+[Extended Data](ext_articles/b035bbbc.ext.json)
+
+---
+
+### Meeting in the office
+
+*2024-11-28 12:23:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமதர்-அலுவலகத்தில்-சந்திப்பு/175-347925) · `ta`
+
+Prime Minister Harini Amarasuriya met ambassadors from Egypt, Iran, Japan, and Vatican. Discussion focused on strengthening diplomatic relations and improving cooperation in various fields. Attendees included the Prime Minister's Secretary and senior representatives from embassies and government officials.
+
+🟩
+
+A meeting between Prime Minister Harini Amarasuriya and Ambassadors of several countries took place on Thursday (28).
+
+It is discussed here that strengthening diplomatic relations and improving cooperation in various fields.
+
+At this juncture, Egyptian Ambassador Adil Ibrahim, Iran's Ambassador Dr. Alirisha Delgosh, Japanese Ambassador Isamota Akiro and Vatican Ambassador Bishop Bryan Udaikwa met the Prime Minister.
+
+The event was attended by Prime Minister's Secretary Pradeep Saputhandri and senior representatives of the embassies, Sri Lankan government officials and many others.
+
+◼️
+
+[Data](articles/04fe2873.json)
+
+[Extended Data](ext_articles/04fe2873.ext.json)
+
+---
+
+### Today is Sri Lanka - South Africa's first day of Test
+
+*2024-11-28 12:16:51* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-පළමු-ටෙස්ට්-තරගයේ-දෙවන-දිනය-අදයි/9-413332) · `si`
+
+Sri Lanka vs South Africa Test match resumes after rain delay. South Africa batsmen fall 4 wickets for 80 runs on first day.
+
+🟩
+
+The first day of the first Test match between the Sri Lanka Tourism and South Africa will be held today (28).
+
+The first day of the match was interrupted yesterday (27), and the rain continued to stop the competition due to rain.
+
+South Africa, who was batting up, was attacked by 4 wickets and scored 80 runs.
+
+◼️
+
+[Data](articles/7e46c749.json)
+
+[Extended Data](ext_articles/7e46c749.ext.json)
+
+---
+
+### Leopard entered home in Viswamadu!
+
+*2024-11-28 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199901) · `ta`
+
+Leopard enters house in Viswamadu, Mullaitivu. Wildlife department rescues animal. Residents cautioned due to weather conditions.
+
+🟩
+
+There was an incident where a leopard entered a house in Viswamadu Ilangopuram, Mullaitivu.
+
+A leopard has suddenly entered the house of Vishwamadu Ilangopuram village belonging to the Pudukkudiyiruppu Divisional Secretariat Division of Mullaitivu.
+
+Subsequently, the Department of Wildlife Department has rescued the leopard after the Department of Wildlife has been informed.
+
+It is noteworthy that residents of the forest are advised to be very careful due to the prevailing inclement weather.
+
+◼️
+
+[Data](articles/0ec1519b.json)
+
+[Extended Data](ext_articles/0ec1519b.ext.json)
+
+---
+
+### Traffic movement on A-9 road resumes after floods
+
+*2024-11-28 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103834/traffic-movement-on-a-9-road-resumes-after-floods) · `en`
+
+The A-9 main road to Jaffna which was closed at Omanthai due to floods has now been reopened for traffic movement, police said.
+
+Police had announced the closure of the road for vehicles at Omanthai yesterday as the area near Nochchimoddai Bridge and Omanthai Town, within the Omanthai Police Division, had been completely inundated.
+
+As a result, the police have announced that vehicles can now travel on the A-9 road as per usual.
+
+◼️
+
+[Data](articles/7a5bebb6.json)
+
+[Extended Data](ext_articles/7a5bebb6.ext.json)
+
+---
+
+### 44 thousand people in Jaffna floods
+
+*2024-11-28 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199911) · `ta`
+
+Jaffna flood update: 44,346 affected, 6,031 sheltered in 68 centers.
+
+🟩
+
+As of the inclement weather in Jaffna, 44,346 people from 13,117 families have been affected by the status quo today (28).
+
+6,031 people from 1,700 families have been housed in 68 security centers.
+
+◼️
+
+[Data](articles/463b1bce.json)
+
+[Extended Data](ext_articles/463b1bce.ext.json)
+
+---
+
+### To further strengthen relations of Chinese legal corporations - Chinese Ambassador urges Speaker
+
+*2024-11-28 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199909) · `ta`
+
+Chinese Ambassador Ashoka Ranwala expects to form Sri Lanka-China Parliamentary Friendship Association. He aims to strengthen ties between legislative bodies of both nations. Key areas of focus: agriculture, economic development, water management, and foreign investment cooperation.
+
+🟩
+
+Chinese Ambassador Ashoka Ranwala has told Ranwala that he is expecting to establish the Sri Lanka -Chinese Parliamentary Friendship Association in the new Parliament and further strengthen the relations of the Sri Lanka -Chinese legislative organizations.
+
+The meeting between Chinese Ambassador to Sri Lanka Kei Senhong and Speaker Dr. Asoka Ranwala recently took place in Parliament.
+
+Chairman of the Chinese National People's Congress (Speaker of the Chinese Parliament) Savo Leezi congratulated the Chinese Ambassador to the Speaker.
+
+The new Speaker, who recalled the long -term cooperation between Sri Lanka and China, said he would expect to further strengthen the ties between President Anura Kumara Dissanayake, led by President Anura Kumara Dissanayake.
+
+The Chinese Ambassador said that the two countries should further strengthen the relations of the two countries' legislative institutions and that the new parliament is looking to establish the Sri Lanka -Chinese Parliamentary Alliance.
+
+...
+
+[Data](articles/f3719be3.json)
+
+[Extended Data](ext_articles/f3719be3.ext.json)
 
 ---

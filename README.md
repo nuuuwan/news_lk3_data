@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 02:13:13**
+As of **2024-11-29 00:16:39**
 
 ## Newspaper Stats
 
-*Scraped **57,494** Articles*
+*Scraped **57,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,195 +14,23 @@ colombotelegraphcom | 582
 bbccomsinhala | 598
 islandlk | 3,443
 economynextcom | 3,499
-dailyftlk | 3,963
+dailyftlk | 3,956
 dailymirrorlk | 4,733
 adalk | 5,434
 adaderanalk | 6,964
-tamilmirrorlk | 8,175
-virakesarilk | 9,377
+tamilmirrorlk | 8,174
+virakesarilk | 9,376
 adaderanasinhalalk | 9,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,483 (100.0%) of 57,494 articles have been extended.
+57,473 (100.0%) of 57,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
-
-### Rise of digital campaigning: How social platforms shaped Sri Lanka’s elections
-
-*2024-11-29 01:06:13* · [`dailyftlk`](https://www.ft.lk/opinion/Rise-of-digital-campaigning-How-social-platforms-shaped-Sri-Lanka-s-elections/14-769865) · `en`
-
-Of all social platforms, TikTok played a significant role in ensuring election integrity
-
-The recent Presidential and General elections in Sri Lanka marked a significant political shift, with Anura Kumara Dissanayake of the National People’s Power (NPP) coalition emerging as a transformative figure. Dissanayake’s victory in the September 2024 Presidential election represented a break from decades of entrenched elite politics, resonating with voters disillusioned by corruption and economic mismanagement. NPP’s subsequent landslide win in the snap Parliamentary elections solidified his mandate to pursue reforms to alleviate poverty and address systemic governance issues.
-
-...
-
-[Data](articles/1dc9035b.json)
-
-[Extended Data](ext_articles/1dc9035b.ext.json)
-
----
-
-### Systems change expected  by the people from NPP Government
-
-*2024-11-29 01:03:37* · [`dailyftlk`](https://www.ft.lk/columns/Systems-change-expected-by-the-people-from-NPP-Government/4-769864) · `en`
-
-The Government has already formed a relevant ministry and well-qualified advisers in the field. This is a good positive starting point. The people have yet to see the change in this regard. The NPP Government should also encourage the industries that encourage the creation of jobs, especially for young people, by supporting small and medium-sized businesses (SMEs) and offering vocational training programs. The curriculum of the technical colleges should be overhauled, and relevant job-orientated vocational training should be further developed
-
-The NPP, which has become a major political force in the most recent Parliamentary election in Sri Lanka, has presented a vision for system change that many people find appealing.
-
-...
-
-[Data](articles/d406a498.json)
-
-[Extended Data](ext_articles/d406a498.ext.json)
-
----
-
-### Will NPP Govt. probe killing of JVP leader Rohana Wijeweera?
-
-*2024-11-29 00:50:26* · [`dailyftlk`](https://www.ft.lk/columns/Will-NPP-Govt-probe-killing-of-JVP-leader-Rohana-Wijeweera/4-769853) · `en`
-
-Given the enormity of the violence caused by the JVP and the boiling anger among the police and security personnel towards the JVP leader, it was widely believed that Rohana Wijeweera was killed in what was euphemistically termed as an “officially sanctioned unofficial execution”
-
-Rohana Wijeweera was killed 35 years ago on 13 November 1989. The revolutionary leader of the Janatha Vimukthi Peramuna was 46 years old at the time of his death. The mastermind behind two bloody insurrections – in 1971 and from 1987 to 89 – was taken into custody on 12 November in the Kandy District and brought to Colombo. With Wijeweera’s capture and death the second JVP insurgency gradually petered out and ended
-
-...
-
-[Data](articles/e7d8a993.json)
-
-[Extended Data](ext_articles/e7d8a993.ext.json)
-
----
-
-### Public support for Govt: Key for successful IMF programs
-
-*2024-11-29 00:46:52* · [`dailyftlk`](https://www.ft.lk/columns/Public-support-for-Govt-Key-for-successful-IMF-programs/4-769852) · `en`
-
-Both the IMF and the Government officials should keep in mind that maintaining broad public support is as important as implementing necessary reforms
-
-The new Government and the IMF have so far been in sync. For instance, the IMF underscored the importance of securing funding for social spending and supporting the most vulnerable. President Dissanayake has assured that his Government would prioritise effective use of social funds, focusing on combating child poverty, addressing malnutrition, and improving support for differently-abled individuals. These priorities, core to the NPP’s election platform, demonstrate at least some levels of alignment between the Government’s goals and IMF conditions. The mutual emphasis on social spending would also help the Government maintain its strong popularity
-
-...
-
-[Data](articles/0906dbf5.json)
-
-[Extended Data](ext_articles/0906dbf5.ext.json)
-
----
-
-### The deepest humor moving towards the northwest
-
-*2024-11-29 00:30:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமேற்கு-நோக்கி-நகரும்-ஆழ்ந்த-தாழமுக்கம்/175-347963) · `ta`
-
-Deep lowland near Trincomalee moving NW. Meteorology warns against deep/shallow waters. Heavy rain expected in Northern Province.
-
-🟩
-
-The Department of Meteorology has said that the deepest lowland, which is about 110 kilometers north of Trincomalee, is moving to the northwest of the country.
-
-Accordingly, the Department of Meteorology has advised the Maritime and Fisheries Community not to go to the deeper and shallow waters surrounding the country.
-
-Meanwhile, the Department of Meteorology has said that more than 100 millimeters of heavy rainfall is expected in some parts of the Northern Province.
-
-◼️
-
-[Data](articles/10376d75.json)
-
-[Extended Data](ext_articles/10376d75.ext.json)
-
----
-
-### SL kicks off 16 Days of Activism Against Gender-Based Violence
-
-*2024-11-29 00:24:34* · [`dailyftlk`](https://www.ft.lk/opinion/SL-kicks-off-16-Days-of-Activism-Against-Gender-Based-Violence/14-769838) · `en`
-
-For millions of women and girls, digital spaces are fraught with risks that echo and amplify the violence they already face offline
-
-Prime Minister Dr. Hairini Amarasuriya with Women and Child Affairs Minister Saroja Savithri Paulraj at the event
-
-The National Launch of the 16 Days of Activism Against Gender-Based Violence campaign by UN Sri Lanka in partnership with the Government and the Ministry of Women and Child Affairs (MOWCA) was held earlier this week. The event featured a walk to raise awareness and stand in solidarity with survivors of GBV.
-
-The event was led by UNFPA Sri Lanka and saw the participation of Prime Minister Dr. Harini Amarasuriya, Women and Child Affairs Minister Saroja Savithri Paulraj, United Nations Resident Coordinator in Sri Lanka Marc-André Franche and UNFPA Sri Lanka Representative Kunle Adeniyi.
-
-...
-
-[Data](articles/8d793d1a.json)
-
-[Extended Data](ext_articles/8d793d1a.ext.json)
-
----
-
-### Digital frontline: Protecting women and girls from online violence
-
-*2024-11-29 00:22:14* · [`dailyftlk`](https://www.ft.lk/opinion/Digital-frontline-Protecting-women-and-girls-from-online-violence/14-769837) · `en`
-
-On the International Day for the Elimination of Violence Against Women, marking the start of 16 Days of Activism against Gender-Based Violence, UNFPA Asia-Pacific Regional Director Pio Smith calls for urgent action to close the digital gender divide, hold tech platforms accountable, and invest in inclusive policies to combat online gender-based violence, creating safer digital spaces for all women and girls.
-
-The internet has revolutionised our lives, offering unprecedented opportunities for connection, learning and empowerment. Yet, the digital revolution has a sinister side: the growing threat of technology-facilitated gender-based violence. A recent global study found that nearly 60% of women had experienced one or more forms of online harm. For millions of women and girls, digital spaces are fraught with risks that echo and amplify the violence they already face offline.
-
-...
-
-[Data](articles/abab5264.json)
-
-[Extended Data](ext_articles/abab5264.ext.json)
-
----
-
-### Building value-centric performance-driven culture: Key to organisational success
-
-*2024-11-29 00:19:40* · [`dailyftlk`](https://www.ft.lk/columns/Building-value-centric-performance-driven-culture-Key-to-organisational-success/4-769836) · `en`
-
-Emphasising performance management at all levels while leading by example fosters trust and collaboration among teams
-
-Creating a value-centric, performance-driven culture is essential for any organisation striving for success in today’s competitive and turbulent business environment. This culture is built on core values that reflect great human principles widely practiced in successful corporates, such as mutual trust and respect, togetherness, integrity, ethical conduct, and a commitment to excellence. These values not only unify employees but also shape their behaviours, influencing the organisation’s overall effectiveness.
-
-...
-
-[Data](articles/e51df996.json)
-
-[Extended Data](ext_articles/e51df996.ext.json)
-
----
-
-### Sri Lanka curled up for 42 runs with Jenson's 7 wickets;Sri Lanka's 42 -year Test cricket history is the lowest total number
-
-*2024-11-29 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199964) · `ta`
-
-Sri Lanka scored 42 runs in their first innings against South Africa, lowest in their 42-year Test history. Marco Jensen took 7 wickets, including an unbeaten over. South Africa leads with 281/7 in their second innings.
-
-🟩
-
-In the first Test match against South Africa at the Kingsmeet Stadium, Sri Lanka was hit by Marco Jenson's fast bowling and curled up for 42 runs in its first innings.
-
-This is the lowest number of Sri Lanka's 42 -year Test cricket history in an innings.
-
-Sri Lanka scored 71 runs at the 1994 Kandy Asgiriya Stadium against Pakistan.
-
-In the match, South Africa's second innings are 7 wickets for 281 runs.
-
-As a result, Sri Lanka's chance to qualify for the World Test Championships has begun to swing.
-
-Of the 7 Sri Lankan players who lost the bowling of Jenson's bowling, four did not run and the trio got single digits.
-
-Kamundu Mendis (13) and Lahiru Kumara (10 AE) received double digits.
-
-Tananjaya de Silva (7), Bethum Nissank (3), Timuth Karunaratne (2) and Angelo Mathews (1) received a single -digit number and Dinesh Chandimal, Kusal Mendis, Prabhat Jayasuriya, Vishwa Fernando, Asitha Fernando and Asitha Fernando.
-
-In the bowling, Marco Jensen took 7 wickets in 6.5 overs, including an unbeaten over.
-
-...
-
-[Data](articles/87a67bc3.json)
-
-[Extended Data](ext_articles/87a67bc3.ext.json)
-
----
 
 ### Imposition of penalty on vehicle dealers for delayed registrations amid gradual lifting of import restrictions
 
@@ -215,8 +43,6 @@ In a bid to manage the foreign currency outflow while gradually easing restricti
 ...
 
 [Data](articles/f9c539c5.json)
-
-[Extended Data](ext_articles/f9c539c5.ext.json)
 
 ---
 
@@ -2166,7 +1992,7 @@ This is a human right and an essential step in healing wounds, Sabry pointed out
 
 “We must also remember that hardline elements in the South are ever-watchful, ready to exploit any opportunity to stoke racial hatred. Let us deny them that chance,” he said.
 
-The former minister’s post follows social media posts criticizing the commemoration of Maaveerar Naal in the country’s north.
+The former minister’s post follows social media posts criticizing the celebration of Maaveerar Naal in the country’s north.
 
 Sabry said that “glorifying the LTTE or its leader, a ruthless architect of terror, is not the way forward.”
 
@@ -2489,5 +2315,213 @@ However, the suspect named Tharindu Perera also added this in a motorcycle with 
 [Data](articles/0f08a68d.json)
 
 [Extended Data](ext_articles/0f08a68d.ext.json)
+
+---
+
+### Increased hiv infection among young people
+
+*2024-11-28 12:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களிடையே-அதிகரிக்கும்-HIV-தொற்று/175-347927) · `ta`
+
+HIV infections surge among youth: 15% aged 15-24. New tech & inadequate sex ed cited as factors. 694 new cases reported last year. Director warns of rapid increase.
+
+🟩
+
+The National Sexual Diseases and AIDS Control Scheme said that HIV infection has increased among young people due to the detection of friends and new technologies and lack of proper sex education.
+
+According to the director of the project, Vindhya Kumaribeli, the director of the project, said that 15 per cent of HIV infections recorded last year were young people between the ages of 15 and 24.
+
+He made these comments while attending a media briefing at the Health Development Bureau.
+
+Accordingly, “last year, 694 new patients with HIV virus were reported in our country.
+
+When you look at the data, it is clear that the number of new HIV viruses is rapidly increasing.
+
+Especially when you look at the data available among young people, 15% of new patients are between the ages of 15 and 24 years.
+
+This is due to the fact that new relationships are found in various modern technologies, including the telephone.
+
+...
+
+[Data](articles/822b8604.json)
+
+[Extended Data](ext_articles/822b8604.ext.json)
+
+---
+
+### President Dissanayake holds discussion with World Bank Group President
+
+*2024-11-28 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103835/president-dissanayake-holds-discussion-with-world-bank-group-president) · `en`
+
+A virtual meeting was held yesterday (27) between President Anura Kumara Dissanayake and the President of the World Bank Group (WBG) Mr. Ajay Banga at the Presidential Secretariat, to discuss Sri Lanka’s future development priorities.
+
+The President of the World Bank Group highlighted his commitment to promoting job creation and addressing critical development challenges, the President’s Media (PMD) stated in a statement.
+
+These priorities include providing Sri Lanka with financial and technical assistance to implement innovative solutions in sectors such as People’s education, healthcare, social protection, and economic prosperity. The World Bank’s support also extends to economic policy, finance, competitiveness, investments, institutional development, and poverty alleviation.
+
+Additionally, efforts are focused on advancing agriculture, water management, climate action, environmental sustainability, social inclusion, infrastructure, and digital transformation, the statement said.
+
+...
+
+[Data](articles/2498ea29.json)
+
+[Extended Data](ext_articles/2498ea29.ext.json)
+
+---
+
+### A discussion between President and the Chairman of the World Bank
+
+*2024-11-28 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203832) · `si`
+
+Sum:0
+
+🟩
+
+President Anura Kumara Dissanayake and World Bank Chairman Ajay Banghth was held in the presidential office yesterday (27).
+
+Ajay Banga was also discussed on the assistance of the World Bank to create new employment opportunities and overcome the future development challenges.
+
+World Bank supports Sri Lanka for Sri Lanka, the development, water management, security, environmental stability, socio-management, safety, environmental strength, and social development in the future of economic policies, financial policies, investment, corporate development and poverty.It is expected to expand the support until it is expected.
+
+Anura Kumara Dissanayake, particularly the priority of the government has been given priority to the development of the energy sector, the tourism industry, the tourism industry, naval industry, government agencies, government institutions and energy fields is expected to be enhanced.Said.
+
+...
+
+[Data](articles/b035bbbc.json)
+
+[Extended Data](ext_articles/b035bbbc.ext.json)
+
+---
+
+### Meeting in the office
+
+*2024-11-28 12:23:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமதர்-அலுவலகத்தில்-சந்திப்பு/175-347925) · `ta`
+
+Prime Minister Harini Amarasuriya met ambassadors from Egypt, Iran, Japan, and Vatican. Discussion focused on strengthening diplomatic relations and improving cooperation in various fields. Attendees included the Prime Minister's Secretary and senior representatives from embassies and government officials.
+
+🟩
+
+A meeting between Prime Minister Harini Amarasuriya and Ambassadors of several countries took place on Thursday (28).
+
+It is discussed here that strengthening diplomatic relations and improving cooperation in various fields.
+
+At this juncture, Egyptian Ambassador Adil Ibrahim, Iran's Ambassador Dr. Alirisha Delgosh, Japanese Ambassador Isamota Akiro and Vatican Ambassador Bishop Bryan Udaikwa met the Prime Minister.
+
+The event was attended by Prime Minister's Secretary Pradeep Saputhandri and senior representatives of the embassies, Sri Lankan government officials and many others.
+
+◼️
+
+[Data](articles/04fe2873.json)
+
+[Extended Data](ext_articles/04fe2873.ext.json)
+
+---
+
+### Today is Sri Lanka - South Africa's first day of Test
+
+*2024-11-28 12:16:51* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-පළමු-ටෙස්ට්-තරගයේ-දෙවන-දිනය-අදයි/9-413332) · `si`
+
+Sri Lanka vs South Africa Test match resumes after rain delay. South Africa batsmen fall 4 wickets for 80 runs on first day.
+
+🟩
+
+The first day of the first Test match between the Sri Lanka Tourism and South Africa will be held today (28).
+
+The first day of the match was interrupted yesterday (27), and the rain continued to stop the competition due to rain.
+
+South Africa, who was batting up, was attacked by 4 wickets and scored 80 runs.
+
+◼️
+
+[Data](articles/7e46c749.json)
+
+[Extended Data](ext_articles/7e46c749.ext.json)
+
+---
+
+### Leopard entered home in Viswamadu!
+
+*2024-11-28 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/199901) · `ta`
+
+Leopard enters house in Viswamadu, Mullaitivu. Wildlife department rescues animal. Residents cautioned due to weather conditions.
+
+🟩
+
+There was an incident where a leopard entered a house in Viswamadu Ilangopuram, Mullaitivu.
+
+A leopard has suddenly entered the house of Vishwamadu Ilangopuram village belonging to the Pudukkudiyiruppu Divisional Secretariat Division of Mullaitivu.
+
+Subsequently, the Department of Wildlife Department has rescued the leopard after the Department of Wildlife has been informed.
+
+It is noteworthy that residents of the forest are advised to be very careful due to the prevailing inclement weather.
+
+◼️
+
+[Data](articles/0ec1519b.json)
+
+[Extended Data](ext_articles/0ec1519b.ext.json)
+
+---
+
+### Traffic movement on A-9 road resumes after floods
+
+*2024-11-28 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103834/traffic-movement-on-a-9-road-resumes-after-floods) · `en`
+
+The A-9 main road to Jaffna which was closed at Omanthai due to floods has now been reopened for traffic movement, police said.
+
+Police had announced the closure of the road for vehicles at Omanthai yesterday as the area near Nochchimoddai Bridge and Omanthai Town, within the Omanthai Police Division, had been completely inundated.
+
+As a result, the police have announced that vehicles can now travel on the A-9 road as per usual.
+
+◼️
+
+[Data](articles/7a5bebb6.json)
+
+[Extended Data](ext_articles/7a5bebb6.ext.json)
+
+---
+
+### 44 thousand people in Jaffna floods
+
+*2024-11-28 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199911) · `ta`
+
+Jaffna flood update: 44,346 affected, 6,031 sheltered in 68 centers.
+
+🟩
+
+As of the inclement weather in Jaffna, 44,346 people from 13,117 families have been affected by the status quo today (28).
+
+6,031 people from 1,700 families have been housed in 68 security centers.
+
+◼️
+
+[Data](articles/463b1bce.json)
+
+[Extended Data](ext_articles/463b1bce.ext.json)
+
+---
+
+### To further strengthen relations of Chinese legal corporations - Chinese Ambassador urges Speaker
+
+*2024-11-28 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199909) · `ta`
+
+Chinese Ambassador Ashoka Ranwala expects to form Sri Lanka-China Parliamentary Friendship Association. He aims to strengthen ties between legislative bodies of both nations. Key areas of focus: agriculture, economic development, water management, and foreign investment cooperation.
+
+🟩
+
+Chinese Ambassador Ashoka Ranwala has told Ranwala that he is expecting to establish the Sri Lanka -Chinese Parliamentary Friendship Association in the new Parliament and further strengthen the relations of the Sri Lanka -Chinese legislative organizations.
+
+The meeting between Chinese Ambassador to Sri Lanka Kei Senhong and Speaker Dr. Asoka Ranwala recently took place in Parliament.
+
+Chairman of the Chinese National People's Congress (Speaker of the Chinese Parliament) Savo Leezi congratulated the Chinese Ambassador to the Speaker.
+
+The new Speaker, who recalled the long -term cooperation between Sri Lanka and China, said he would expect to further strengthen the ties between President Anura Kumara Dissanayake, led by President Anura Kumara Dissanayake.
+
+The Chinese Ambassador said that the two countries should further strengthen the relations of the two countries' legislative institutions and that the new parliament is looking to establish the Sri Lanka -Chinese Parliamentary Alliance.
+
+...
+
+[Data](articles/f3719be3.json)
+
+[Extended Data](ext_articles/f3719be3.ext.json)
 
 ---

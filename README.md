@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 14:16:29**
+As of **2024-11-28 13:43:05**
 
 ## Newspaper Stats
 
@@ -26,33 +26,27 @@ adaderanasinhalalk | 9,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,392 (100.0%) of 57,396 articles have been extended.
+57,383 (100.0%) of 57,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
 
-### Gold and money robbery
+### யாழில் ஆலய பூசகரை கட்டிவைத்து தங்கம், பணம் கொள்ளை :  பெண்ணொருவர் கைது !
 
 *2024-11-28 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199920) · `ta`
 
-Temple priest attacked, robbed of gold chain and cash during worship. Robbers escape with 2-pound gold chain and 45,000 rupees. Police investigating.
+ஆலய பூசகரை கட்டி வைத்து கூரிய ஆயுதங்களால் தாக்கி அவர் அணிந்திருந்த தங்கச் சங்கிலியையும் பணத்தினையும் கொள்ளை இட்டுச் சென்ற சம்பவம் ஒன்று யாழ்ப்பாணம் - கைதடியில் பதிவாகியுள்ளது.
 
-🟩
+கைதடி ஏ-9 வீதியில் அமைந்துள்ள கௌரி அம்மன் ஆலயத்திலேயே இந்த கொள்ளைச் சம்பவம் நேற்று புதன்கிழமை (27) முற்பகலில் இடம்பெற்றுள்ளது.
 
-An incident where a temple priest was attacked by sharp weapons and robbed the gold chain and money he wore has been reported.
+பூசகரின் அலறல் சத்தம் கேட்டு அயலவர்கள் விரைந்தபோது இரண்டு கொள்ளையர்கள் பூசகர் அணிந்திருந்த 2 பவுண் தங்கச் சங்கிலியையும் 45 ஆயிரம் ரூபா பணத்தையும் கொள்ளையிட்டுத் தப்பிச் சென்றுள்ளனர்.
 
-The robbery took place on Wednesday (27) at the Gauri Amman Temple, located on the Kaithadi A-9 road.
-
-When neighbors rushed to hear the screams of the priest, two robbers escaped with a 2 -pound gold chain worn by the priest and 45 thousand rupees.
-
-Meanwhile, the police are also involved in the arrest of two robbers who escaped.
+இதேவேளை தப்பிச் சென்ற இரு கொள்ளையர்களையும் கைது செய்யும் நடவடிக்கையிலும் பொலிஸார்  ஈடுபட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/30df2ef0.json)
-
-[Extended Data](ext_articles/30df2ef0.ext.json)
 
 ---
 
@@ -183,8 +177,6 @@ Additionally, efforts are focused on advancing agriculture, water management, cl
 ...
 
 [Data](articles/2498ea29.json)
-
-[Extended Data](ext_articles/2498ea29.ext.json)
 
 ---
 
@@ -1384,59 +1376,39 @@ Sri Lanka has issued bonds linked to gross domestic product, so-called macro-lin
 
 ---
 
-### 20 districts affected by inclement weather
+### අයහපත් කාලගුණයෙන් දිස්ත්‍රික්ක 20කට බලපෑම්
 
 *2024-11-28 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203824) · `si`
 
-Here's a summary of 200 characters:
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් දිවයිනේ දිස්ත්‍රික්ක 20කට බලපෑම් එල්ල වී තිබේ.
 
+ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේ, එම දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 166ක පවුල් 80,642ක් මේ වන විට පීඩාවට පත්ව සිටින බවය.
 
+පුද්ගලයින් 276,550 දෙනෙකු පීඩාවට පත්ව සිටින අතර පවුල් 5,305කට අයත් පුද්ගලයින් 16,553 දෙනෙකු ආරක්ෂිත ස්ථානවල රැඳී සිටින බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
 
-"20 districts hit by severe weather: 80k+ families affected, 276k+ individuals impacted, 16k+ in shelters. Floods reported in reservoir areas."
+මේ අතර ජලාශ ආශ්‍රිතව පහත්බිම්වල ගංවතුර තත්ත්වයන් තවදුරටත්  පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
 
-🟩
-
-Twenty districts in the island have been affected due to the inclement weather.
-
-The Disaster Management Center said that 80,642 families in 166 Divisional Secretariats are being affected by these districts.
-
-The Disaster Management Center (DMC) says that 276,550 people have been affected and 16,553 persons belonging to 5,305 families remain in security locations.
-
-Meanwhile, the Department of Irrigation says that floods in lower parts of the reservoirs continue.
-
-The water level of the Holduru Othuru Oya and Mahaweli, the irrigation of the Irrigation Engineer (MS) said.
+විශේෂයෙන් දැඳුරුඔයේ සහ මහවැලි ගගේ ජල මට්ටම ඉහළයාම හේතුවෙන් ගංවතුර තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බව වාරිමාර්ග දෙපාර්තමේන්තුවේ වාරිමාර්ග ඉංජිනේරූ ජි.ඩබ්ලිව්.ඒ.සකුරා දිල්තාරා මහත්මිය සඳහන් කළේය.
 
 ◼️
 
 [Data](articles/2d40ff1c.json)
 
-[Extended Data](ext_articles/2d40ff1c.ext.json)
-
 ---
 
-### President summoned armed forces
+### ජනාධිපති සන්නද්ධ හමුදා කැඳවයි
 
 *2024-11-28 07:55:57* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-413328) · `si`
 
-Here's a summary of 200 characters:
+දිවයිනේ සියලු  පරිපාලන දිස්ත්‍රික්කවල මහජන සාමය  පවත්වාගෙන යාම සඳහා  ජනාධිපති අනුර කුමාර දිසානායක  මහතා විසින්  සන්නද්ධ හමුදා කැඳවීමේ නියෝගයක් නිකුත් කර ඇත.
 
+ශ්‍රී ලංකා යුධ හමුදාව,ශ්‍රී ලංකා නාවික හමුදාව සහ ශ්‍රී ලංකා ගුවන් හමුදාවේ සියලු සාමාජිකයන් මෙලෙස කැඳවීමේ නියමය ඇතුළත් අති ව්ශේෂ  ගැසට් නිවේදනය  ජනාධිපතිවරයා විසින් නිකුත් කෙරිණි .
 
-
-Sri Lankan President Anura Kumara Dissanayake summons armed forces to maintain public order across all administrative districts. Gazette notifications issued for army, navy, and air force deployment.
-
-🟩
-
-President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
-
-The President released the Extent Gazette notification of the Sri Lanka Army, the Sri Lanka Navy and all members of the Sri Lanka Air Force.
-
-The armed forces have been summoned to maintain public order in all the administrative districts of the island and allied districts in all the administrative districts of the island and allied local waterholders.
+මහජන ආරක්ෂක ආඥා  පනතේ 12 වගන්තියෙන් ජනාධිපතිවරයාට පැවරී ඇති බලතල ප්‍රකාරව    දිවයිනේ සියලු  පරිපාලන දිස්ත්‍රික්ක හා ඒ  ආශ්‍රිත  දේශීය ජල තීරයන්හි මහජන සාමය පවත්වාගෙන යාමට  මෙලෙස  සන්නද්ධ හමුදාවන් කැඳවා තිබේ.
 
 ◼️
 
 [Data](articles/77729f96.json)
-
-[Extended Data](ext_articles/77729f96.ext.json)
 
 ---
 
@@ -1496,143 +1468,91 @@ The police have launched a wide investigation into the missing persons despite t
 
 ---
 
-### New secretaries appointed in two ministries
+### අමාත්‍යාංශ දෙකක නව ලේකම්වරු පත් කෙරේ
 
 *2024-11-28 07:34:51* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකක-නව-ලේකම්වරු-පත්-කෙරේ/11-413326) · `si`
 
-Here's a summary of 200 characters:
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව අමාත්‍යාංශ ලේකම්වරු දෙදෙනෙක් පත් කරනු ලැබ තිබේ.
 
+ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (27) පිරිනැමිණ.
 
+ඒ අනුව පරිසර අමාත්‍යාංශයේ ලේකම්වරයා ලෙස කේ.ආර්. උඩුවාවල මහතා පත් කර ඇත.
 
-Two new secretaries appointed: KR as Environment Ministry Secretary and Y.L. Shamnad Nawawi as Science and Technology Ministry Secretary by President Anura Kumara Dissanayake.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed two new Secretaries.
-
-Articles of the Appointment of Appointments
-
-Accordingly, KR as Secretary to the Ministry of Environment. Mr. Uduwala has been appointed.
-
-Mr. Y.L.shamed Nawawi has been appointed as the Secretary to the Ministry of Science and Technology.
+විද්‍යා හා තාක්ෂණ අමාත්‍යාංශයේ ලේකම්වරයා ලෙස වයි.එල්.මොහොමඩ් නවාවි මහතා පත් කර තිබේ.
 
 ◼️
 
 [Data](articles/9055ecd7.json)
 
-[Extended Data](ext_articles/9055ecd7.ext.json)
-
 ---
 
-### The Commission's attention to the Little Election
+### පුංචි ඡන්දෙ ගැන කොමිසමේ අවධානය
 
 *2024-11-28 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203823) · `si`
 
-Here's a summary of 200 characters:
+පළාත් පාලන මැතිවරණය පැවැත්විය හැකි දින වකවානූ සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාවේ අවධානය යොමුව තිබේ.
 
+මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (27) රැස් වූ මැතිවරණ කොමිෂන් සභාව විසින් මේ සම්බන්ධයෙන් අවධානය යොමුකර ඇති බව වාර්තා වේ.
 
+එහිදි පළාත් පාලන මැතිවරණය පැවැත්වීමේ දිනය සම්බන්ධයෙන් සාකච්ඡා වී ඇති අතර එම දිනය විභාග කටයුතුවලට බාධාවක් නොවන අයුරින් යොදා ගැනීම පිළිබඳ සාකච්ඡා වී තිබේ.
 
-Elections Commission focuses on local government election date. Chairman RM VLR Ratnayake discusses potential hindrances. No specific campaign date yet. Supreme Court order expected to expedite preparation.
+මැතිරණය පැවැත්වීම සඳහා නිශ්චිත දිනයක් එහිදී තීරණය වී නොමැති අතර  ඉදිරි දිනවල දී යළි කොමිෂන් සභාව රැස්වී අවසන් තීනිදුවක් ගැනීමට බලාපොරොත්තු වන බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක මහතා සඳහන් කළේය.
 
-🟩
-
-The Elections Commission is focused on the date of the local government elections.
-
-The Elections Commission (Elections) (Elections) (Elections) had been paid to the election yesterday (27) under the patronage of the Chairman of the Election Commission RM VLR Ratnayake.
-
-It has been discussed on the date of holding the local government election and discussed the use of the date of hindrance to the examination activities.
-
-There is no specific date for the campaign, and the Commission Chairman RM VLetthanayake said that in the coming days.
-
-The Chairman of the Election Commission added that the local government election should be prepared as soon as the Supreme Court order should be expedited.
+ශ්‍රේෂ්ඨාධිකරණ නියෝගය අනුව පළාත් පාලන මැතිවරණය ඉතා කඩිනමින් පැවැත්විය යුතු බැවින් ඒ සඳහා කොමිෂන් සභාව සුදානමින් සිටින බව ද මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
 
 ◼️
 
 [Data](articles/3d7c92ef.json)
 
-[Extended Data](ext_articles/3d7c92ef.ext.json)
-
 ---
 
-### Restructuring Debt IMF expects the higher participation of creditors
+### ණය ප්‍රතිව්‍යුහගත කිරීම ණය හිමියන්ගේ ඉහළ සහභාගීත්වය IMF අපේක්ෂා කරයි
 
 *2024-11-28 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-ණය-හිමියන්ගේ-ඉහළ-සහභාගීත්වය-IMF-අපේක්ෂා-කරයි/11-413325) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ මෙහෙයුම් සඳහා ණය හිමියන්ගේ ඉහළ සහභාගීත්වයේ දැඩි අවශ්‍යතාව ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) අවධාරණය කර ඇති අතර, එය රටේ අපේක්ෂිත ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ සාර්ථකත්වය සඳහා අත්‍යවශ්‍ය පියවරක් වන බව ද අවධාරණය කර තිබේ.
 
+නොවැම්බර් 26 වන දා මූල්‍ය ප්‍රජාවේ සාමාජිකයින් අමතමින්, ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) කළමනාකාර අධ්‍යක්ෂිකා ක්‍රිස්ටලිනා ජොර්ජිවා මහත්මිය, ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ප්‍රතිසංස්කරණ න්‍යාය පත්‍රය අනුව ශ්‍රී ලංකාව මෙතෙක් ළගාකරගත් ප්‍රගතිය සහ තිරසාර ණය මට්ටම් සාක්ෂාත් කර ගැනීම සඳහා දැක්වූ සාමූහික ප්‍රයත්නය පෙන්වා දෙමින් ප්‍රකාශයක් නිකුත් කළාය.
 
-
-"IMF expects increased creditor participation in Sri Lanka's debt restructuring. Program aims to support debt sustainability and economic reform."
-
-
-
-This summary captures the main points about the IMF's expectations regarding creditor participation in Sri Lanka's debt restructuring efforts and the overall goals of the program.
-
-🟩
-
-The International Monetary Fund (IMF) has emphasized the general needs of creditors of creditors (IMF) for the restructuring operations of Sri Lanka.
-
-Among the International Monetary Fund (IMF), the International Monetary Fund (IMF), the International Monetary Fund (IMF) is Ms. Christophalina Georgivi, Managing Director of the International Monetary Fund..
-
-The Sri Lankan authorities have implemented the economic reform program with the assistance of the International Monetary Fund, and it is aimed at supporting the debt sustainability and external capability.
-
-SDR was approved by the 48-month comprehensive reforms program (approximately $ 3 billion) at the IMF executive in March 2023. Ms. Georgeee also stated that the effective initiative of the program, which has shown positive results, such as reconstructing the economy, reduced inflation and reserves.
+ශ්‍රී ලංකා බලධාරීන් ජාත්‍යන්තර මූල්‍ය අරමුදෙල් සහාය ඇතිව ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන ක්‍රියාත්මක කර ඇති අතර, එය ණය තිරසාරභාවය සහ බාහිර ශක්‍යතාව යථා තත්ත්වයට ගෙන ඒම, පුළුල් සාර්ව ආර්ථික ප්‍රතිසංස්කරණවලට සහාය වීම සහ ආර්ථික පාලනය සහ විනිවිදභාවය ශක්තිමත් කිරීම ආදිය අරමුණු කර ගෙන ඇති බවද ජෝර්ජිවා මහත්මිය පැවසීය.
 
 ...
 
 [Data](articles/307a0a1d.json)
 
-[Extended Data](ext_articles/307a0a1d.ext.json)
-
 ---
 
-### Another dies after water filled with water
+### ජලය පිරුණු කාණුවකට වැටී තවත් පුද්ගලයෙකු මරුට
 
 *2024-11-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203822) · `si`
 
-Person drowns in industrial drain. Body found, investigated by police, handed to family. Post-mortem conducted.
+කොස්වත්ත, මාවතගම කර්මාන්තපුරයේ ජලය පිරී තිබූ කාණුවකට වැටී පුද්ගලයෙකු මියගොස් තිබේ.
 
-🟩
-
-A person has fallen into a drain filled with water in Mawathagama Industry, Koswatta.
-
-119 The body has been investigated by the Koswatta Police on a message from the Information Center and the body has been handed over to relatives and the post mortem.
+119 තොරතුරු මධ්‍යස්ථානයෙන් ලද පණිවුඩයක් මත කොස්වත්ත පොලීසිය විමර්ශනය කර මෘත ශරීරය හදිසි මරණ පරීක්ෂණය සහ පශ්චාත් මරණ පරීක්ෂණය සිදුකර ඥාතීන්ට භාරදී ඇත.
 
 ◼️
 
 [Data](articles/f357f311.json)
 
-[Extended Data](ext_articles/f357f311.ext.json)
-
 ---
 
-### Deep Pressure Recession 100 km away from Trincomalee
+### ගැඹුරු පීඩන අවපාතය   ත්‍රිකුණාමලයට කිලෝමීටර් 100ක් දුරින්
 
 *2024-11-28 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203821) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය අද (28) අලුයම 02.30 පමණ වන විට ත්‍රිකුණාමලයට කිලෝමීටර් 100 ක් පමණ ඊසාන දෙසින් පිහිටා තිබුණි.
 
+එය දිවයිනේ නැගෙනහිර වෙරළට ආසන්නව උතුරට බරව වයඹ දෙසට ඉතා සෙමින් ගමන් කරමින්  අද දින සුළි කුණාටුවක් දක්වා තවදුරටත් තීව්‍ර වීමට ඉඩ ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
 
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දිවයින පුරා බොහෝ ප්‍රදේශවල අහස වලාකුළින් බරව පවතින අතර උතුරු පළාතේත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් ඉතා තද වැසි සහ තද සුළං බලාපොරොත්තු විය හැකිය.
 
-Deep pressure system 100km NE of Trincomalee. Heavy rainfall & thunderstorms forecasted for northern regions. Strong winds (40-50mph) expected across island. Public advised to take precautions against lightning and wind-related accidents.
+දිවයිනේ උතුරු පළාතේත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ. ඇතැම් ස්ථානවලට මි. මී.150ට වැඩි  ඉතා තද වැසි ඇති වේ.
 
-🟩
-
-The deeper pressure recession in the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bengal was located about 100 km northeast of Trincomalee today.
-
-The Department of Meteorology announces that the North Western township is more slowly than the North Western towards the North Western towards the North Western coast.
-
-Due to the impact of this system, the sky is buried in many parts of the island, and the Northern Province and in the North and the Trincomalee district can be expected.
-
-Showers or thundershowers at times in the North and the Trincomalee district. Some places. Shortion of heavy rains over 1550 mph.
-
-Showers at times in the rest of the island. In the North Central and North Western provinces, in Matale and Kegalle districts can also cause heavy showers at more than 100 mm.
+දිවයිනේ සෙසු ප්‍රදේශවලත් විටින් විට වැසි ඇතිවේ. උතුරු මැද සහ වයඹ පළාත්වලත්, මාතලේ සහ කෑගල්ල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී.100ට වැඩි තද වැසි ද ඇතිවිය හැකිය.
 
 ...
 
 [Data](articles/89541ceb.json)
-
-[Extended Data](ext_articles/89541ceb.ext.json)
 
 ---
 

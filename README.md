@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 11:26:20**
+As of **2024-11-28 11:14:54**
 
 ## Newspaper Stats
 
-*Scraped **57,368** Articles*
+*Scraped **57,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,443
 economynextcom | 3,490
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,415
-adaderanalk | 6,944
-tamilmirrorlk | 8,157
+adalk | 5,414
+adaderanalk | 6,943
+tamilmirrorlk | 8,156
 virakesarilk | 9,345
 adaderanasinhalalk | 9,905
 
@@ -26,31 +26,11 @@ adaderanasinhalalk | 9,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,347 (100.0%) of 57,368 articles have been extended.
+57,347 (100.0%) of 57,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
-
-### பரீட்சைகள் நடத்தப்படும் திகதிகளின் புதிய விபரம்
-
-*2024-11-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-நடத்தப்படும்-திகதிகளின்-புதிய-விபரம்/175-347919) · `ta`
-
-நாடளாவிய ரீதியில் நிலவும் சீரற்ற காலநிலை காரணமாக 2024 க.பொ.த உயர்தர (உ/த) பரீட்சைகளை டிசம்பர் 3 ஆம் திகதி வரை ஒத்திவைக்க பரீட்சைகள் திணைக்களம் தீர்மானித்துள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
-
-ப​ரீட்சைகள் டிசம்பர் 4ம் திகதி மீண்டும் ஆரம்பிக்கப்படும் என்றும் ஆணையாளர் நாயகம் அறிவித்துள்ளார்.
-
-நவம்பர் 30, டிசம்பர் 2, டிசம்பர் 3 ஆகிய திகதிகளில் பரீட்சைகளை நடத்துவதில்லை என முடிவு செய்யப்பட்டுள்ளது.
-
-#டிசெம்பர் 2ஆம் திகதி திங்கட்கிழமை நடத்தப்படாத பரீட்சை டிசெம்பர் 30ஆம் திகதி திங்கட்கிழமையும்
-
-#டி​செம்பர் 3ஆம் திகதி வியாழக்கிழமை நடத்தப்படாத பரீட்சை டிசெம்பர் 31ஆம் திகதி செவ்வாய்கிழமையும் நடத்தப்படும்.
-
-◼️
-
-[Data](articles/2e0d5fcc.json)
-
----
 
 ### சீரற்ற காலநிலையால் பாதிக்கப்பட்டோரின் எண்ணிக்கை உயர்வு
 
@@ -177,30 +157,6 @@ Sri Lanka PA and Jaffna District Coordinator Geetanath Kaslingam has accused the
 ...
 
 [Data](articles/c6f6031e.json)
-
----
-
-### 2024 A/L Exam to recommence on Dec. 04
-
-*2024-11-28 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103830/2024-al-exam-to-recommence-on-dec-04) · `en`
-
-The Examinations Department has announced that the 2024 G.C.E. Advanced Level Examination has been temporarily postponed until December 03 due to the prevailing adverse weather conditions.
-
-Speaking at a special press briefing this morning (28), the Commissioner General of Examinations, Amith Jayasundara, confirmed that this decision was made in light of the ongoing weather-related disruptions.
-
-Furthermore, he stated that the examination will recommence on December 4 (Wednesday).
-
-As a result, the A/L examinations will not be conducted on November 30, December 2, and December 3.
-
-On November 26, the Examinations Department had previously announced the temporary suspension of the ongoing 2024 G.C.E. Advanced Level Examination.
-
-It was previously decided not to hold the examinations on November 27, 28, and 29 due to the adverse weather.
-
-The Examination Commissioner further said that the decision was taken in the best interest of the affected students, despite the weather conditions subsiding.
-
-...
-
-[Data](articles/c1549405.json)
 
 ---
 
@@ -701,24 +657,6 @@ The police have launched a wide investigation into the missing persons despite t
 [Data](articles/fd87c4f9.json)
 
 [Extended Data](ext_articles/fd87c4f9.ext.json)
-
----
-
-### අමාත්‍යාංශ දෙකක නව ලේකම්වරු පත් කෙරේ
-
-*2024-11-28 07:34:51* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-දෙකක-නව-ලේකම්වරු-පත්-කෙරේ/11-413326) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව අමාත්‍යාංශ ලේකම්වරු දෙදෙනෙක් පත් කරනු ලැබ තිබේ.
-
-ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (27) පිරිනැමිණ.
-
-ඒ අනුව පරිසර අමාත්‍යාංශයේ ලේකම්වරයා ලෙස කේ.ආර්. උඩුවාවල මහතා පත් කර ඇත.
-
-විද්‍යා හා තාක්ෂණ අමාත්‍යාංශයේ ලේකම්වරයා ලෙස වයි.එල්.මොහොමඩ් නවාවි මහතා පත් කර තිබේ.
-
-◼️
-
-[Data](articles/9055ecd7.json)
 
 ---
 
@@ -2241,5 +2179,85 @@ The meeting is also focused on providing Australian technical assistance on nati
 [Data](articles/b7725be6.json)
 
 [Extended Data](ext_articles/b7725be6.ext.json)
+
+---
+
+### 3374 people from 1104 families in Mullaitivu district
+
+*2024-11-27 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199869) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+3374 people from 1104 families affected by rains in Mullaitivu district. Floods in lowlands, 759 affected in Welioya Division. Rescue efforts ongoing.
+
+🟩
+
+The District Disaster Management Division has said that 3374 persons from 1104 families have been affected due to continuous rains in the Mullaitivu district.
+
+Due to the prevailing rains, the water level of the ponds in the Mullaitivu district has increased and the flood water has been stored in the lowland areas.
+
+Due to this, 243 persons belonging to 80 families in the Manthai East Divisional Secretariat Division, 229 persons from 73 families in the Karaithuraipattu Divisional Secretariat Division, 1537 from 438 families in the Oddusutan Divisional Secretariat Division, 147 from the Pudukkudiyiruppu Divisional Secretariat Division and 267 from the Tunukkai Divisional Secretariat Division.According to a report by the District Disaster Management Division released this afternoon, 759 persons have been affected by the Welioya Divisional Secretariat Division.
+
+...
+
+[Data](articles/1b43d84c.json)
+
+[Extended Data](ext_articles/1b43d84c.ext.json)
+
+---
+
+### Two main suspects arrested over Rs. 75 million cash robbery
+
+*2024-11-27 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103817/two-main-suspects-arrested-over-rs-75-million-cash-robbery) · `en`
+
+The two main suspects involved in the recent robbery of Rs. 75 million in cash, being transported by a cash in transit company, have been arrested by the Gampaha Police Divisional Crime Detective Bureau in the Minuwangoda area.
+
+The suspects have been arrested in the Miniwangoda area along with around Rs. 4 million in stolen cash, police said.
+
+Previously another suspect involved was arrested on November 19 in connection with the incident where the driver of a private company providing cash in transit services had made off with over Rs. 75 million in cash which was being transported in the Minuwangoda area.
+
+The suspect had been arrested in the Kaduwangaha area of Gampaha during a joint operation by the Gampaha Division Crimes Bureau and Minuwangoda Police.
+
+At the time of his arrest, police officers found 5 grams and 420 milligrams of the ‘Ice’ drugs (crystal methamphetamine) along with Rs. 31,515,291 from the stolen money in his possession.
+
+...
+
+[Data](articles/e96e567c.json)
+
+[Extended Data](ext_articles/e96e567c.ext.json)
+
+---
+
+### Rain from Sri Lanka - South Africa match
+
+*2024-11-27 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203806) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+1st Test: SL vs SA. SA batted 1st, scored 80/2. Thaba 28*, Klaasen 28*. SL bowled out SA for 14 wkts. Fernando took 1st wkt. Stubbs 16, Bedfordham 44. Match ongoing.
+
+🟩
+
+The first Test cricket match between Sri Lanka and South Africa has commenced today (27).
+
+South Africa, which was assaulted first, served 80 runs for the loss of 40 wickets.
+
+Leader Thamba, who is staying in the wicket, is 28 and Kyle's score.
+
+Sri Lanka fast bowlers were bowled out for 14 wickets in the South African innings.
+
+Asitian Fernando won the first wicket as the first wicket.
+
+Tristton Stubs, who had scored 16 runs in the 46 runs, was also the wicket of Bedingaham, who had scored 44 runs.
+
+◼️
+
+[Data](articles/bc683e0c.json)
+
+[Extended Data](ext_articles/bc683e0c.ext.json)
 
 ---

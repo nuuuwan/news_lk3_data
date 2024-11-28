@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 10:27:48**
+As of **2024-11-28 09:42:28**
 
 ## Newspaper Stats
 
-*Scraped **57,343** Articles*
+*Scraped **57,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 439
 colombotelegraphcom | 582
 bbccomsinhala | 596
-islandlk | 3,441
-economynextcom | 3,490
+islandlk | 3,440
+economynextcom | 3,486
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,412
-adaderanalk | 6,943
+adalk | 5,410
+adaderanalk | 6,941
 tamilmirrorlk | 8,151
 virakesarilk | 9,340
 adaderanasinhalalk | 9,898
@@ -26,121 +26,11 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,339 (100.0%) of 57,343 articles have been extended.
+57,334 (100.0%) of 57,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-28 (Thursday)
-
-### Singapore PM Wong congratulates Sri Lankan counterpart Harini
-
-*2024-11-28 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103829/singapore-pm-wong-congratulates-sri-lankan-counterpart-harini) · `en`
-
-Singapore Prime Minister Lawrence Wong has written to his Sri Lankan counterpart Harini Amarasuriya to congratulate her on her appointment, the Ministry of Foreign Affairs (MFA) said on Thursday (Nov 28).
-
-The 54-year-old, who is an academic with a doctorate in social anthropology from the University of Edinburgh, will hold the education and higher education portfolios.
-
-In his letter to Dr Amarasuriya on Wednesday, Mr Wong extended his “warmest congratulations”.
-
-“The Sri Lankan people have given you a strong mandate to lead the country and embark on reforms.
-
-“I am confident that under your leadership, Sri Lanka will succeed and grow stronger,” wrote Mr Wong.
-
-He added that both countries share long-standing and close relations built upon a strong foundation of economic cooperation and people-to-people ties.
-
-The two countries also collaborate in many areas including carbon credits, healthcare, and digitalisation, said Mr Wong.
-
-...
-
-[Data](articles/70343f8e.json)
-
----
-
-### Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody’s
-
-*2024-11-28 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-exchange-bonds-provisionally-rated-caa1-sovereign-on-upgrade-watch-moodys-190549/) · `en`
-
-ECONOMYNEXT – Moody’s Investors’ Service, said it was provisionally rating Sri Lanka’s bonds to be exchanged for defaulted securities as ‘Caa1’ and has put the ‘Ca’ national rating on watch for upgrade.
-
-Sri Lanka announced a bond exchange which it plans to complete on December 12.
-
-Ca indicates debt which is in default and with ‘some prospect for recovery in principal and interest, according to Moody’s definition.
-
-“The existing Ca ratings on Sri Lanka’s foreign currency senior unsecured debt issuances that are in default and will be exchanged for the new debt issuances reflect the expected financial loss and are unchanged,” Moody’s said.
-
-“The decision to place the issuer rating on review for upgrade reflects the announcement of the exchange offer by the government, which if successful will conclude the restructuring of its international bonds held by private-sector creditors and reduce the default risk on new and future issuances.
-
-...
-
-[Data](articles/e808335d.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.95/291.05 to dollar, bond yields steady
-
-*2024-11-28 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-95-291-05-to-dollar-bond-yields-steady-190537/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 290.95/291.05 to the US dollar on Thursday from 291.00/10 to the US dollar on Wednesday dealers said, while bond yields held steady.
-
-A bond maturing on 15.12.2027 was quoted stable at 10.25/35 percent.
-
-A bond maturing on 01.05.2028 was quoted at 10.50/60 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/95 percent, up from 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.34 percent or  44.69 points, at 13,094. The more liquid S&P SL20 was up 0.55 percent, or 21.28 points, at 3,897.
-
-◼️
-
-[Data](articles/c7da37fd.json)
-
-[Extended Data](ext_articles/c7da37fd.ext.json)
-
----
-
-### 4 bodies found in the missing students missing from the tractor
-
-*2024-11-28 09:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රැක්ටරය-පෙරළිමෙන්-අතුරුදන්-වූ-සිසුන්-4කගේ-සිරුරු-සොයා-ගනියි/11-413329) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"4 bodies found near Samawatta. Students (16 & 15) went missing on 26th from Nindavur. Police investigating."
-
-🟩
-
-Four students of four disappeared students who were disappeared from Nindavur from Nindavur to the Samawatta have been disappeared.
-
-The accident had occurred when the accident had occurred on the 26th of this accident.
-
-The four students who discovered the dead yesterday will be the aged of 16 and 15 years. The police continue to operate the rest of the students who have disappeared.
-
-◼️
-
-[Data](articles/2027b411.json)
-
-[Extended Data](ext_articles/2027b411.ext.json)
-
----
-
-### Sri Lanka welcomes ceasefire between Israel and Lebanon – Foreign Ministry
-
-*2024-11-28 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103828/sri-lanka-welcomes-ceasefire-between-israel-and-lebanon-foreign-ministry) · `en`
-
-Sri Lanka’s Ministry of Foreign Affairs has expressed its support for the recently announced ceasefire between Israel and Lebanon.
-
-In an official statement, the Ministry emphasized its optimism, stating, “We remain hopeful that the ceasefire will pave the way for enduring peace and stability in Lebanon and in the region.”
-
-The ceasefire announced Tuesday (26) is a major step toward ending nearly 14 months of fighting sparked by the ongoing war in Gaza between Israel and Hamas.
-
-There were no immediate reports of alleged violations of the truce, and there were signs of celebration in Beirut. But Israel has said it will attack if Hezbollah breaks the agreement.
-
-...
-
-[Data](articles/042f8d7b.json)
-
----
 
 ### Lebanon’s Hezbollah vows to continue resistance after ceasefire
 
@@ -241,28 +131,6 @@ Showers will occur at times elsewhere of the island too. Heavy showers above 100
 [Data](articles/fe51af51.json)
 
 [Extended Data](ext_articles/fe51af51.ext.json)
-
----
-
-### Sri Lanka bondholders have sufficient incentives to join exchange: CB Governor
-
-*2024-11-28 08:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-have-sufficient-incentives-to-join-exchange-cb-governor-190497/) · `en`
-
-ECONOMYNEXT – Holders of Sri Lanka’s defaulted sovereign bonds have sufficient incentives to participate in an exchange launched this week, leading to a high take-up, Central Bank Governor Nandalal Weerasinghe said.
-
-“What we can see, from the bondholder’s point of view, it has sufficient incentives to participate, in terms of the exchange fee, in terms of the macro-linked bonds they were asking,” Governor Weerasinghe told reporters Wednesday.
-
-“A lot of incentives and encouragement for them to participate and get new bonds and get new bonds in exchange for the bonds they are holding.
-
-“I do not think it would be in the best interests of anyone to holdout.”
-
-Sri Lanka has issued bonds linked to gross domestic product, so-called macro-linked bonds which allows both capital appreciation and coupon increases if GDP grows faster than expected in a new type of so-called ‘state-contingent’ bonds.
-
-...
-
-[Data](articles/90c00931.json)
-
-[Extended Data](ext_articles/90c00931.ext.json)
 
 ---
 
@@ -1942,34 +1810,6 @@ Punduloya police say that steps will be taken to get rid of the fertilizer on th
 
 ---
 
-### Objection of a Health Trade Society to the Fingerprint Notes
-
-*2024-11-27 17:18:59* · [`adalk`](https://www.ada.lk/breaking_news/ඇඟිලි-සලකුණු-සටහන්-යන්ත්‍ර-යෙදුවාට-සෞඛ්‍ය-වෘත්තීය-සමිතයක-විරෝධය/11-413318) · `si`
-
-Health Trade Society opposes fingerprint notes for hospital staff. They claim only select professionals are implementing the law, creating unfairness. The society protests against this practice, citing lack of transportation allowances and excessive workload.
-
-🟩
-
-The combined staff of the paramedine collections states that the supplementary medical professionals working in hospitals in hospitals to serve and mark exit.
-
-The association points out that only the selected professionals are implementing the law and is protested, so this action should be stopped immediately.
-
-Some administrators from the Ministry of Health and its affiliates have been instructed to use the fingerprint machine to enter the coming professionals.
-
-It pointed out that this method was introduced only to the selected areas, so that the system was protested and it was planned to create the system again.
-
-If the fingerprint system is implemented, the fingerprint system is implemented, but only one group is unfair to implement this system.
-
-Productive medical career professors are continuously providing service to the service of any call for the need for a patient after normal duties.
-
-...
-
-[Data](articles/532d3e8f.json)
-
-[Extended Data](ext_articles/532d3e8f.ext.json)
-
----
-
 ### Smoke sales down 50 percent in 10 years
 
 *2024-11-27 17:13:43* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කදී-දුම්වැටි-අලෙවිය-සියයට-50කින්-පහළට/11-413317) · `si`
@@ -2437,5 +2277,185 @@ It is expected that the migration of the people in the Mannar district will incr
 [Data](articles/222bf7b3.json)
 
 [Extended Data](ext_articles/222bf7b3.ext.json)
+
+---
+
+### Sola was arrested in Katunayake
+
+*2024-11-27 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203801) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sola, a 55-year-old Pannipitiya resident, was arrested at Katunayake Airport. She arrived from London carrying $2,300 worth of goods. Her bag went missing, but was later found in Jaffna. The case will be presented to the Negombo Magistrate's Court.
+
+🟩
+
+The Katunayake Airport was arrested by the Katunayake Airport's handaging accountant from London, who was traveling to Katunayake airport in England.
+
+The woman is a 55 year old resident of Pannipitiya, Sri Lanka, Sri Lanka's dual citizenship in England and Sri Lanka.
+
+She was from London yesterday to SriLankan Airlines US $ 504 to the Katunayake airport.
+
+In her handgarment, around 2300,000 apples, two pounds of Sterling, two apples, two apples and two samsung type mobile phones.
+
+After a time of the airplane, the man's bag was lost and the woman had complained to the SriLankan Airlines staff.
+
+Even though he was able to find out in the plane, it was not found.
+
+Later, the pilot informed the Katunayake airport investigators informed the investigators of the Katunayake Airport.
+
+After the aircraft was landed at the Katunayake airport, SriLankan Airlines Investigations and their luggage were severely inspected by the Katunayake airport.
+
+...
+
+[Data](articles/568276f6.json)
+
+[Extended Data](ext_articles/568276f6.ext.json)
+
+---
+
+### Several trains cancelled due to adverse weather
+
+*2024-11-27 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103813/several-trains-cancelled-due-to-adverse-weather) · `en`
+
+Several train services have been cancelled due to the prevailing adverse weather conditions in many areas across the island.
+
+Accordingly, it has been decided to cancel the night mail train that was scheduled to operate from Colombo Fort to Badulla and the return mail train from Badulla to Colombo Fort tonight (27), the Department of Railways said.
+
+Meanwhile, the Department also said that the trains operating along the up-country and Batticaloa railway lines have been limited due to the prevailing adverse weather conditions.
+
+Accordingly, steps have been taken to limit the trains operating on the Batticaloa line up to Polonnaruwa while the trains operating on the Up-Country line have been limited up to Nanuoya.
+
+◼️
+
+[Data](articles/16534560.json)
+
+[Extended Data](ext_articles/16534560.ext.json)
+
+---
+
+### Irrigation Department, Mahaweli Authority, Irrigation Engineers and Technical Officers
+
+*2024-11-27 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199847) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Irrigation Department & Mahaweli Authority restructuring due to rainy season. Engineers & officers reassigned. Cooperation with Divisional Secretaries for disaster relief. Ministry officials monitor situation. Security measures for Eastern Province affected by disasters.
+
+🟩
+
+The Ministry of Irrigation, Livestock Resources, Land and Irrigation has stated that the Department of Irrigation and the Mahaweli Authority has been canceled with the vacations of the Mahaweli Authority.
+
+The Ministry has issued a special report in view of the rainy situation in the country.
+
+Engineers and Technical Officers of the Irrigation Department and the Mahaweli Authority should be employed in the service.
+
+The Department of Irrigation and the Mahaweli Authority of the Mahaweli Authority has been canceled with the holidays of the officers who have received holidays.
+
+Officers of the Mahaweli Authority should cooperate with the Divisional Secretaries to provide relief to the people affected by disaster risks in their area.
+
+At the Ministry level, the Secretary General of Irrigation, the Director General of Irrigation, the Director General of the Mahaweli, or the Agricultural Director General of the Agricultural Director, should be monitored and reviewed the situation.
+
+...
+
+[Data](articles/1f591224.json)
+
+[Extended Data](ext_articles/1f591224.ext.json)
+
+---
+
+### Sri Lanka sees 7,958 new active credit cards in September 2024
+
+*2024-11-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-7958-new-active-credit-cards-in-september-2024-190311/) · `en`
+
+ECONOMYNEXT – New active credit cards in Sri Lanka increased by 7,958 in September this year, the central bank data showed, with local banks promoting along with the key fast moving consumer goods (FMCG) vendors amid falling interest rates.
+
+The number of active credit card recorded 1,936,336 by end September, compared to 1,028,378 in August this year, showing an increase of 7,958.
+
+“Most banks have been aggressively pushing for credit cards in September in the falling interest rate regime. This is why you can see many offers for credit cards in populour FMCG outlets,” a currency dealer said
+
+The number of active credit cards has risen 1 percent or 19,251 in the first nine months from 1,917,085 by the end of last year, the official data showed.
+
+Analysts said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than last year.
+
+...
+
+[Data](articles/6d35f471.json)
+
+[Extended Data](ext_articles/6d35f471.ext.json)
+
+---
+
+### Muslim schools closed
+
+*2024-11-27 15:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முஸ்லிம்-பாடசாலைகள்-மூடப்பட்டன/76-347875) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Muslim schools closed temporarily in Central Province till Nov 29 due to Ministry of Education announcement.
+
+🟩
+
+The Ministry of Education of the Central Province has announced that all Muslim schools and pre -schools in the Central Province will be temporarily closed till November 29.
+
+◼️
+
+[Data](articles/a4cd465d.json)
+
+[Extended Data](ext_articles/a4cd465d.ext.json)
+
+---
+
+### Sri Lanka stocks close up driven by interest in banking stocks
+
+*2024-11-27 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-interest-in-banking-stocks-153832/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI closed up 0.66 percent, or 85.80 points, at 13,049; while the more liquid S&P SL20 Index closed up 0.85 percent, or 32.49 points, at 3,876.
+
+Top positive contributors to the ASPI were Sampath Bank (up at 95.30), Hatton National Bank (up at 230.00), Richard Pieris and Co (up at 25.20), Dipped Products (up at 44.00), and DFCC Bank (up at 87.60).
+
+Commercial Bank was up at 122.00), and National Development Bank was up at 83.30.
+
+NDB said its debenture issue to raise 5 billion rupees was oversubscribed.
+
+Softlogic Life Insurance announced a cash dividend of 4.5 rupees a share.
+
+There was a net foreign inflow of 95 million rupees. (Colombo/Nov27/2024)
+
+◼️
+
+[Data](articles/7ed09542.json)
+
+[Extended Data](ext_articles/7ed09542.ext.json)
+
+---
+
+### Alert in the air force sky
+
+*2024-11-27 15:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானப்படை-வானில்-உஷார்/175-347874) · `ta`
+
+Air Force rescues flood victim in Ampara. Helicopter 212 saves man from Eravur Milawattavan, transports to Batticaloa Air Force Base.
+
+🟩
+
+The Air Force continues to monitor areas affected by inclement weather.
+
+Accordingly, the 212 Helicopter of the Air Force's II forces was sent to the Ampara area on Wednesday (27).
+
+During the operation, a man who was flooded in the Eravur Milawattavan area was rescued by helicopter and later taken to the Batticaloa Air Force Base.
+
+◼️
+
+[Data](articles/c725f37f.json)
+
+[Extended Data](ext_articles/c725f37f.ext.json)
 
 ---

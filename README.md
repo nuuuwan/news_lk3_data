@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 05:25:56**
+As of **2024-11-28 05:51:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,312 (100.0%) of 57,315 articles have been extended.
+57,315 (100.0%) of 57,315 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ During the meeting, particular attention was given to the high-risk Northern and
 
 [Data](articles/653417a9.json)
 
+[Extended Data](ext_articles/653417a9.ext.json)
+
 ---
 
 ### Heavy rainfall and strong winds cause havoc
@@ -66,6 +68,8 @@ The Northern, North Central, Central, Western, and North Western Provinces, as w
 
 [Data](articles/7c4e7166.json)
 
+[Extended Data](ext_articles/7c4e7166.ext.json)
+
 ---
 
 ### Arrest warrants issued for Dan Priyasad and Mahinda Kahandagama in Gota Go Gama attack case
@@ -81,6 +85,8 @@ Fort Magistrate Thanuja Lakmali directed law enforcement to arrest the two suspe
 ◼️
 
 [Data](articles/9253af7a.json)
+
+[Extended Data](ext_articles/9253af7a.ext.json)
 
 ---
 

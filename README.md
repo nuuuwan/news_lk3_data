@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-28 21:42:33**
+As of **2024-11-28 22:01:45**
 
 ## Newspaper Stats
 
-*Scraped **57,464** Articles*
+*Scraped **57,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,443
 economynextcom | 3,492
 dailyftlk | 3,955
 dailymirrorlk | 4,733
-adalk | 5,432
+adalk | 5,433
 adaderanalk | 6,962
 tamilmirrorlk | 8,174
 virakesarilk | 9,369
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,921
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,462 (100.0%) of 57,464 articles have been extended.
+57,464 (100.0%) of 57,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,27 +52,41 @@ It said showers or thundershowers will occur at times in Northern and North-cent
 
 ---
 
-### දීඝදන්තු-1 ගැන නොදත් තොරතුරු
+### Unaccompanied information about the island-1
 
 *2024-11-28 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203845) · `si`
 
-දෙස් විදෙස් සංචාරක ආකර්ෂණය දිනාගත් තේජාන්විත හස්තියෙකු වූ 'දීඝදන්තු 1' අද (28) අලුයම දැයට අහිමි විය.
+Here's a summary of the text in approximately 200 characters:
 
-කලාවැව ජාතික වනෝද්‍යානය සිය නිවහන කරගෙන සිටි මෙම හස්තියා කැකිරාව, ආඬියාගල හිඟුරුවැව ප්‍රදේශයේ නිවසක් ඉදිරිපිට අනාරක්ෂිත ලෙස ඇද තිබූ විදුලි රැහැනක පැටලී මියගොස් තිබුණි.
 
-උසින් අඩි 08ක් පමණ වූද, අඩි 05ක පමණ දිගකින් යුත් තේජාන්විත දළ යුගලයකට උරුමකම් කී මෙම හස්තියාගේ වාසභූමිය වූයේ කලාවැව ජාතික උද්‍යානය අවට භූමියයි.
 
-කලාවැව රක්ෂිතයේ විසූ ඇත් පන්තියේ ශරීර ප්‍රමාණයෙන් මෙන්ම පෙනුමෙන්ද එක හා සමාන ඇතුන් දෙදෙනෙකු වාසය කළ බැවින් ඔවුන් 'දීඝදන්තු 1' සහ 'දීඝදන්තු 2' ලෙසින් හැඳන්වුණි.
+Elephant loss: Monondant 1 & Dedanththu 2 gone. Kalawewa National Park affected. Human conflict causes 433 elephant deaths in 5 months. Government lacks effective solutions.
 
-ඉන් 'දීඝදන්තු 2' හස්තියා මීට වසර 05කට පමණ පෙර දැයට අහිමි විය.
+🟩
 
-පරිසරවේදීන් පෙන්වා දෙන්නේ 'දීඝදන්තු 1' හස්තියා මියයන විට වයස අවුරුදු 45ත්, 50ත් අතර වයසේ පසුවූ බවය.
+The 'monondant 1' was lost this morning, a glorious beast, which won the local tourist attraction.
 
-අලි මිනිස් ගැටුම්වල ප්‍රතිඵලයක් ලෙස 2022 වසරේ වනඅලි 433ක් මියගොස් ඇති අතර, පසුගිය වසරේ මුල් මාස 5 තුළදී පමණක් මියගිය වනඅලි ගණන 193කි.
+The Handiyawa National Park was dead in a power cord in front of a house in Aadiyagala, Kalawwawewa National Park.
 
-...
+The restoration of the elephant was the habit of the Kalawewa National Park.
+
+They also known as the 'disgrawered 1' and 'disgraniated 2' as the elephants in the Kalawewa Reserve as well as two similar elephants.
+
+The "dedanththu 2" elephant was lost five years ago.
+
+Environmentalists point out that "the degradatant 1 elephant was among 45 and 50 years old.
+
+As a result of the human conflict, 433 wild elephants were killed in the first five months of last year, 193 were killed.
+
+From time to time, the data is supplied to the data that no government has been able to provide any government to the growing solution to the growing elephant conflict.
+
+If the current government of such a surroundings or a solution to the national problem is not the left in Sri Lanka, only the sailing will remain.
+
+◼️
 
 [Data](articles/789ba7f9.json)
+
+[Extended Data](ext_articles/789ba7f9.ext.json)
 
 ---
 
@@ -328,29 +342,35 @@ A large number of railway stations at the Uduru area of ​​Ramadu, the large 
 
 ---
 
-### රටම අසරණ කළ කාලගුණයේ අලුත්ම තත්ත්වය
+### The latest condition of the weather hearing the country
 
 *2024-11-28 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203844) · `si`
 
-දිවයිනට බලපෑ අයහපත් කාලගුණය හේතුවෙන් මේ වනවිට පුද්ගලයින් 12ක් මියගොස් තවත් එක් අයෙක් අතුරුදන්ව ඇති බව ආපදා කලමනාකරණ මධ්‍යස්ථානය පවසයි.
+Weather disaster summary: 12 deaths, 227 affected districts, 401,707 affected persons, 36,630 displaced, 94,324 in shelters. Most damage in Eastern Province, particularly Ampara District.
 
-එම මධ්‍යස්ථානය අද (28) ප.ව. 4ට නිකුත්කරනු ලැබූ යාවත්කාලීනකිරීම අනුව දිවයිනේ දිස්ත්‍රික්ක 24හිම ප්‍රාදේශීය ලේකම් කොට්ඨාස 227කට මෙම අයහපත් කාලගුණික තත්ත්වය බලපා තිබේ.
+🟩
 
-මේ වනවිට පවුල් 120,534කට අයත් පුද්ගලයන් 401,707ක් ආපදා බලපෑමට ලක්ව සිටියි.
+The Disaster Management Center states that 12 persons have died due to the bad weather conditions that have affected the island.
 
-ඒ අනුව දිවයින පුරා සුරක්ෂිත මධ්‍යස්ථාන 345ක් මේ වනවිට ඉදිකර ඇති අතර, එහි පවුල් 11,663කට අයත් පුද්ගලයන් 36,330ක් රැඳී සිටින බවද මෙම නිවේදනයේ දැක්වේ.
+The center is today (28). According to the update of the 4th, the inclement weather has affected 227 districts in the country.
 
-එමෙන්ම තවත් පවුල් 28,324කට අයත් පුද්ගලයන් 94,134 දෙනෙකු ඥති නිවාසවල සිටින බව ආපදා කලමනාකරණ මධ්‍යස්ථානය පවසයි.
+There are 401,707 persons belonging to 120,534 families are affected by Disaster.
 
-වාර්තා වූ ආපදා මරණ අතරින් වැඩිම පිරිසක් නැගෙනහිර පළාතේ සිදුව ඇති අතර, ඉන් 8 දෙනෙකුම අම්පාර දිස්ත්‍රික්කයේය.
+According to the announcement, 36,630 people belonging to 11,663 families have been remained in the country.
 
-ඊට අමතරව බදුල්ල, පුත්තලම, ත්‍රිකුණාමලය හා වව්නියාව දිස්ත්‍රික්කවල එක් මරණය බැගින් වාර්තා වී ඇත.
+The Disaster Management Center states that 94,324 persons belonging to 28,324 families are in relatives.
 
-මේ අතර අයහපත් කාලගුණය හේතුවෙන් මේ වනවිට පූර්ණ නිවාස හානි 102ක් හා අර්ධ නිවාස හානි 1,952ක් සිදුව ඇති බවද ආපදා කලමනාකරණ මධ්‍යස්ථානය පවසයි.
+Most of the disasters reported in the Eastern Province, of which 8 of them were in the Ampara District.
+
+In addition, one death was reported in Badulla, Puttalam, Trincomalee and Vavuniya districts.
+
+Meanwhile, the Disaster Management Center states that 102 completely harm damage and half houses have been damaged due to inclement weather.
 
 ◼️
 
 [Data](articles/0da99531.json)
+
+[Extended Data](ext_articles/0da99531.ext.json)
 
 ---
 
@@ -407,6 +427,26 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 [Data](articles/b586014c.json)
 
 [Extended Data](ext_articles/b586014c.ext.json)
+
+---
+
+### රජයේ ප්‍රමුඛතාව ගැන ජනපති ලෝක බැංකු සභාපතිට කියයි
+
+*2024-11-28 18:05:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ප්‍රමුඛතාව-ගැන-ජනපති-ලෝක-බැංකු-සභාපතිට-කියයි/11-413346) · `si`
+
+2025 දී විවෘත කෙරෙන දකුණු ආසියානු ඒකාබද්ධ කාර්යාල 20හි සත්කාරක රටක් ලෙස ශ්‍රී ලංකාවද එක් වෙයි
+
+ශ්‍රී ලංකාව දිළිදුකම පිටුදැකීම, ඩිජිටල්කරණය සහ ආර්ථික වර්ධනය කෙරෙහි අවධානය යොමු කරයි
+
+උතුර සහ නැගෙනහිර පළාත්වල අධ්‍යාපන සහ සෞඛ්‍ය ක්ෂේත්‍රඉහළ නැංවීමට ද අවධානය
+
+ශ්‍රී ලංකාවේ අනාගත සංවර්ධන ප්‍රමුඛතා පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ලෝක බැංකු සභාපති අජේ බංගා (Ajay Banga) මහතා අතර ඊයේ (27) ජනාධිපති කාර්යාලයේදී මාර්ගගත තාක්ෂණය ඔස්සේ පැවැත්විණි.
+
+නව රැකියා අවස්ථා නිර්මාණය කිරීම සහ ඉදිරි සංවර්ධන අභියෝග ජය ගැනීමට ලෝක බැංකුවෙන් ශ්‍රී ලංකාවට ලබා දිය හැකි සහාය පිළිබඳව මෙහිදී අජේ බංගා මහතා අදහස් දැක්වූ අතර අධ්‍යාපන, සෞඛ්‍ය, සමාජ ආරක්ෂණය හා ආර්ථික සංවර්ධනය වැනි අංශවල නව වැඩසටහන් ක්‍රියාත්මක කිරීමට මූල්‍ය සහ තාක්‍ෂණික උපකාර සැපයීම කෙරෙහි ද සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/acfc2300.json)
 
 ---
 
@@ -2569,33 +2609,5 @@ Sri Lanka PA and Jaffna District Coordinator Geetanath Kaslingam has accused the
 [Data](articles/944b3bae.json)
 
 [Extended Data](ext_articles/944b3bae.ext.json)
-
----
-
-### Plowing machine accident incident;06 Bodies Recovery
-
-*2024-11-28 10:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உழவு-இயந்திரம்-விபத்து-சம்பவம்-06-சடலங்கள்-மீட்பு/150-347912) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Madrasa students swept away by flood waters. Four bodies recovered so far. Army STF involved in rescue efforts. Three students rescued alive. Rescue team searching for remaining missing students. Driver and companion of plowing machine missing. Ongoing recovery operations.
-
-🟩
-
-The bodies of Madrasa students who have been swept away in flood water are being recovered. Four bodies have been recovered till Wednesday (27) evening.
-
-In addition, the Army Special Task Force (STF) participated in the complaint and a volunteer youth group involved.. Until now, four janasas have been rescued and taken to the Samanthurai Resource Hospital.. It was later prepared to carry out rescue operations the next day due to inclement weather and darkness.
-
-The rescued students are also rescued by Mohammed Jessil Mohammed Sadir (age-16), Abnan, Baruk Mohammed Nasik (age-15) and Sahran (age-15) and the rescue crews are searching for the students of Dasrib and Yaseen.According to the orders of Safir Ahmed, relatives have been handed over to the relatives after the death of Divisional Death Investigation Officer Abdul Hamid al -Jawahir.
-
-Meanwhile, the school's book by a student named Dasrif, who went missing, has now been seized by the rescue team.
-
-...
-
-[Data](articles/c6f6031e.json)
-
-[Extended Data](ext_articles/c6f6031e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 15:42:21**
+As of **2024-11-29 16:27:23**
 
 ## Newspaper Stats
 
-*Scraped **57,585** Articles*
+*Scraped **57,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,260 @@ economynextcom | 3,505
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,442
-adaderanalk | 6,975
-tamilmirrorlk | 8,193
-virakesarilk | 9,388
-adaderanasinhalalk | 9,941
+adaderanalk | 6,976
+tamilmirrorlk | 8,194
+virakesarilk | 9,398
+adaderanasinhalalk | 9,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,581 (100.0%) of 57,585 articles have been extended.
+57,589 (100.0%) of 57,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
 
-### උද්ධමනය තවත් අඩුවෙයි
+### Parliamentarian general secretary on MPs
+
+*2024-11-29 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203869) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Parliamentary Secretary: New MPs' privileges pending, 35 applications received. 25 former MP homes renovated. 28 houses allocated for Opposition. Travel allowance for MPs >40km from Parliament. First Parliamentary Week starts Dec 3.
+
+🟩
+
+The Secretary General of Parliament Kushani Rohanahandera said that the privileges of new MPs would be given the privileges of this manner and have not yet been done so far.
+
+Speaking to the media she added that 35 applications have been received for the Obtaining MPs.
+
+The Secretary General further added that the re-repairing about 25 houses have been renovated by former Members of Parliament, the secretariat said.
+
+Over total number of houses have been allocated for 28 government members to be reserved for Opposition MPs.
+
+The Secretary General of the Secretary General of the Secretary General of the House is applicable to the MPs located from over 40 km from parliament.
+
+Meanwhile, the first Parliamentary Week of the first session of the 10th Parliament will commence on December 3.
+
+◼️
+
+[Data](articles/c557a278.json)
+
+[Extended Data](ext_articles/c557a278.ext.json)
+
+---
+
+### Why is the sky dark around the country?
+
+*2024-11-29 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203868) · `si`
+
+Dark skies in Sri Lanka due to poor air quality from heavy rain. Air quality index exceeds 50 in major cities like Colombo, Anuradhapura, and Jaffna. Weather conditions worsen air pollution. Experts warn of health risks; improvement expected by tomorrow.
+
+🟩
+
+The air quality index in many parts of Sri Lanka, including Colombo, has increased the air quality index.
+
+He was revealed with the painful weather conditions that have been affected by the island.
+
+He pointed out that the local air quality index is usually less than 50.
+
+However, with the recent heavy rainfall, he said that the indication of the index was seen as a mist quality of the country.
+
+He pointed out that this is the cause of the air pollutants in the North and the Internet because of adverse weather conditions.
+
+He said the air quality index in Anuradhapura, Jaffna and Colombo
+
+However, he pointed out that the situation will be removed by tomorrow (30).
+
+The atmosphere detrimenting the rise in the atmosphere, he requested to obtain medical advice on this matter.
+
+◼️
+
+[Data](articles/ec375590.json)
+
+[Extended Data](ext_articles/ec375590.ext.json)
+
+---
+
+### Minister Vijitha Herath appears before court
+
+*2024-11-29 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103867/minister-vijitha-herath-appears-before-court) · `en`
+
+Minister Vijitha Herath appeared before the Colombo High Court today (29) to testify in connection with a bribery case filed during the administration of the ‘Good Governance’ Government.
+
+The case had been filed by the Bribery Commission against the former Chairman of the Development Lotteries Board (DLB), Chandrawansa Pathiraja accusing him of causing losses to the DLB by awarding promotional activities for several lottery tickets to private companies, in violation of the accepted tender procedure.
+
+On September 24, the Colombo High Court ordered Minister Vijitha Herath to appear before the court today to testify in connection with the relevant bribery case.
+
+After considering the facts presented, Colombo High Court Judge R. S. S. Sapuvida scheduled the evidence hearing for February 5.
+
+Minister Vijitha Herath was also ordered to appear before the court on the said date.
+
+◼️
+
+[Data](articles/8e243dbe.json)
+
+---
+
+### 'Our left -wing government is not a government, the government that includes the left -wing and democratic progressive forces - India cannot go forward without the friendship of India ” - Tilwin Silva
+
+*2024-11-29 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200008) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Left-wing government includes progressive forces. No leaning towards India or China. Open foreign policy. Understand geopolitics. Prioritize people's support over personal interests. Adapt strategies based on changing circumstances.
+
+🟩
+
+JVP general secretary Dilvin Silva said that we are not the left -wing government, but the government that includes the left -wing and democratic progressive forces.
+
+He said that if we do not care for India, we cannot move forward and we need China's help and we have no intention of quitting the IMF.
+
+Did you mention the importance of your party's mandate at a press conference that took place after the public election results?Did you get nervous because you got so much mandate?
+
+- We are not tense due to the order. Our political power is different from others. We do not request the people's decree for our personal interests. We do not want to be stubborn with power.
+
+Whenever the majority of people believe in us, we should take it with the right intensity.
+
+Your founder Rohana Wijeweera, including those who were assassinated by those who were assassinated, have received this order in December. What do you think about this order?
+
+...
+
+[Data](articles/37eb001d.json)
+
+[Extended Data](ext_articles/37eb001d.ext.json)
+
+---
+
+### New Notice of Vehicle Import
+
+*2024-11-29 15:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்த-புதிய-அறிவிப்பு/175-347985) · `ta`
+
+Sri Lanka: Vehicle import update. Buses, lorries allowed first phase. Car imports March-April next year.
+
+🟩
+
+The Sri Lanka Vehicle Importers Association has said that under the first phase of vehicle import permits, the importation of buses and lorries will be allowed.
+
+The Finance Ministry will approve the first phase of the project, said its leader India Sampath Mengige.
+
+The imports of cars under the second and third phase of vehicle imports will start between March and April next year that he added. Remble
+
+◼️
+
+[Data](articles/75d51960.json)
+
+[Extended Data](ext_articles/75d51960.ext.json)
+
+---
+
+### Two persons arrested with Kerala cannabis
+
+*2024-11-29 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200002) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"2 arrested in Kerala cannabis bust: Mangala Eliya & Mathuranguliya caught with 15kg+83g cannabis near Colombo-Puttalam road."
+
+🟩
+
+Two persons have been arrested by the Kerala ganja and car on Thursday (28) in the Navatankulam area of ​​the Colombo -Puttalam road, which belongs to the Mundal Police Division.
+
+They were arrested during a raid carried out by a team of officials of the Organized Crime Unit of the Police Special Task Force.
+
+The arrested were 38, 42 -year -old Mangala Eliya and Mathuranguliya.
+
+15 kg of 83 grams of Kerala cannabis and their car were seized by the police and handed over to the Mundal police station.
+
+◼️
+
+[Data](articles/2bbe3d14.json)
+
+[Extended Data](ext_articles/2bbe3d14.ext.json)
+
+---
+
+### One arrested with cocaine in Borelle
+
+*2024-11-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200000) · `ta`
+
+Arrest made in Borella: Man caught with cocaine. Police seize 5g 255ml during raid. Colombo Crime Branch investigating further.
+
+🟩
+
+A man was arrested by police on Thursday (28) with a cocaine drug on Sarbantine Road, Borella Police Division.
+
+He was arrested during the raid on the basis of information received by a group of officials of the Colombo Crime Branch.
+
+From the suspect, 5 g 255 ml of cocaine has been seized by the police.
+
+Further investigations are being carried out by the Colombo Crime Branch.
+
+◼️
+
+[Data](articles/323f1db9.json)
+
+[Extended Data](ext_articles/323f1db9.ext.json)
+
+---
+
+### Medical camps in the Jaffna Teaching Hospital
+
+*2024-11-29 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199990) · `ta`
+
+Jaffna Teaching Hospital conducts medical camps for displaced residents. Doctors, nurses, and pharmacists provide services at temporary locations due to flooding. Hospital operations resume once floodwaters recede.
+
+🟩
+
+The Director of the Teaching Hospital will continue to provide health services daily under the arrangement of the Jaffna Teaching Hospital.. Sathiyamoorthy said.
+
+Medical services for the people staying in the Jaffna Hindu Primary School, Jaffna Hindu Girls Primary School and Jaffna Osmanian College were displaced from the nearby areas.
+
+Doctors, pharmacists, and nurses participated in their full commitment and conducted these medical camps.
+
+At the same time, patients who are suffering from floods and disasters are also treated at the hospital.
+
+A portion of the hospital was submerged due to the recent heavy rains. Services provided in the area are transferred elsewhere and services are provided.
+
+Treatments will be brought back in the same areas in a couple of days. Now that the flood situation is deteriorating, all the services will be done on the hospital as usual.
+
+◼️
+
+[Data](articles/8dde3cce.json)
+
+[Extended Data](ext_articles/8dde3cce.ext.json)
+
+---
+
+### Inflation is reduced
 
 *2024-11-29 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203867) · `si`
 
-2024 නොවැම්බර් මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත් කර තිබේ.
+Colombo Consumer Price Index Nov 2024: -2.1% inflation rate, down from Oct's -0.8%. Food inflation 0.6%, non-food 3.3%.
 
-ඒ අනුව  කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය නොවැම්බර් මාසය සඳහා -2.1% ක් දක්වා අඩු වී ඇත. එය 2024 ඔක්තෝම්බර් මාසය සඳහා -0.8%ක් ලෙස වාර්තා වී තිබුණි.
+🟩
 
-2024  නොවැම්බර් මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) 0.6% දක්වා අඩු වී ඇති අතර ඔක්තෝම්බර් මාසයේ දී එය වාර්තා වුයේ 1.0%ක් ලෙසය.
+The Colombo Consumer Price Index and the Colombo Municipal Community has been published for November 2024.
 
-එමෙන්ම,  2024 නොවැම්බර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) -3.3%ක් දක්වා අඩු වී ඇති අතර එය 2024 ඔක්තෝම්බර් මාසයේ දී -1.6% ක් ලෙස වාර්තා විය.
+The Colombo Municipal Community's customer inflation rate has been reduced to-2.1% for November. It was reported to -0.8% for October 2024.
+
+In November 2024, the annual inflation of food category has been reduced to 0.6% and in October 1.0%.
+
+Non-food annual inflation has been reduced to 3.3% to November 2024, and it was reported to -1.6% in October 2024.
 
 ◼️
 
 [Data](articles/9491e5ec.json)
+
+[Extended Data](ext_articles/9491e5ec.ext.json)
 
 ---
 
@@ -108,6 +332,62 @@ In addition, the Irrigation Department has stated in its announcement that motor
 
 ---
 
+### ஜனவரி முதல் நவம்பர் வரை 1,776,889 வெளிநாட்டு சுற்றுலா பயணிகள் வருகை!
+
+*2024-11-29 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199997) · `ta`
+
+2024 ஜனவரி மாதம் முதல் நவம்பர் மாதம் 26ஆம் திகதி வரையான காலப்பகுதியில்  1,776,889 வெளிநாட்டு சுற்றுலா பயணிகள் இலங்கைக்கு வருகை தந்துள்ளனர். இந்தியா, பிரித்தானியா மற்றும் ரஷ்யா ஆகிய நாடுகளில் இருந்து அதிகளவான சுற்றுலா பயணிகள் வருகை தந்துள்ளதாக சுற்றுலா அபிவிருத்தி அதிகார சபை அறிவித்துள்ளது.
+
+2023ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024ஆம் ஆண்டு வெளிநாட்டு சுற்றுலா பயணிகளின் வருகை உயர்வடைந்துள்ளது. ஒவ்வொரு மாதமும் சுற்றுலா பயணிகளின் வருகை உயர்வடைந்துள்ளது.
+
+2024ஆம் ஆண்டு ஜனவரி மாதம் முதல் நவம்பர் மாதம் 26ஆம் திகதி வரையான காலப்பகுதியில் மாத்திரம் 1,776,889 வெளிநாட்டு சுற்றுலா பயணிகள் வருகை வருகை தந்துள்ளனர்.
+
+இக்காலப்பகுதியில் இந்தியா, பிரித்தானியா மற்றும் ரஷ்யா ஆகிய நாடுகளில் இருந்து அதிகளவான சுற்றுலா பயணிகள் இலங்கைக்கு வருகைத் தந்துள்ளனர்.
+
+...
+
+[Data](articles/4116161f.json)
+
+---
+
+### எதிமலையில் 301 கஞ்சா செடிகள், 2 உள்நாட்டுத் துப்பாக்கிகளுடன் இருவர் கைது!
+
+*2024-11-29 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199992) · `ta`
+
+வத்தேகம, எல்லனகம பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் கஞ்சா செடி மற்றும் உள்நாட்டு துப்பாக்கிகளுடன் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+எதிமலை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட இரு சுற்றிவளைப்பு நடவடிக்கைகளின்போதே இவர்கள் நேற்று வியாழக்கிழமை (28) கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்கள் கொவிபல மற்றும் விலஒய பிரதேசத்தைச் சேர்ந்த 47, 68 வயதுடையவர்கள் ஆவார்.
+
+சந்தேக நபர்களிடமிருந்து 301 கஞ்சா செடிகள் மற்றும் 2 உள்நாட்டுத் துப்பாக்கிகளை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+◼️
+
+[Data](articles/1e2c1499.json)
+
+---
+
+### அம்பாறையில் காணாமல்போனவரின் சடலம் கண்டுபிடிப்பு!
+
+*2024-11-29 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199996) · `ta`
+
+அம்பாறையில் உஹன பொலிஸ் பிரிவுக்குட்பட்ட கலபிடகல பிரதேசத்தில் காணாமல்போன நபரொருவர் நேற்று வியாழக்கிழமை (28) சடலமாக கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 27ஆம் திகதி கலபிடகல பிரதேசத்தைச் சேர்ந்த பெண்ணொருவர் தனது மருமகன் காணாமல்போயுள்ளதாக செய்த முறைப்பாட்டின் அடிப்படையில் உஹன பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+காணாமற்போனவர் அன்றைய தினம் (27) சந்தைக்கு செல்வதாக கூறிவிட்டு, மோட்டார் சைக்கிளில் வந்த நபருடன் வீட்டை விட்டு வெளியேறியுள்ளார்.
+
+இதனையடுத்து, பொலிஸார் மேற்கொண்ட விசாரணையில், உயிரிழந்தவர் காணாமல் போன நிலையில் தேடப்பட்டு வந்த நபர் என்பது தெரியவந்துள்ளது.
+
+உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக அம்பாறை வைத்தியசாலைக்கு அனுப்பிவைக்கப்பட்டு, தற்போது பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/53b53c05.json)
+
+---
+
 ### ඇමති විජිත කොළඹ මහාධිකරණයට එයි
 
 *2024-11-29 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203864) · `si`
@@ -125,6 +405,40 @@ In addition, the Irrigation Department has stated in its announcement that motor
 ◼️
 
 [Data](articles/0b8be090.json)
+
+---
+
+### “ரஜரட்ட ரெஜின” ரயில் தடம் புரள்வு!
+
+*2024-11-29 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200001) · `ta`
+
+அனுராதபுரத்திலிருந்து பெலியத்த நோக்கி பயணித்த “ரஜரட்ட ரெஜின” ரயிலானது கொழும்பு கோட்டை ரயில் நிலையத்துக்கும் தலைமைச் செயலக ரயில் நிலையத்துக்கும் இடையே தடம் புரண்டுள்ளது.
+
+இன்று வெள்ளிக்கிழமை (29) காலை 11.10 மணியளவிலேயே இந்த ரயில் தடம் புரண்டுள்ளது.
+
+◼️
+
+[Data](articles/5bf12b09.json)
+
+---
+
+### மன்னாரில் மூன்றில் இரண்டு பகுதி வெள்ளத்தில் மூழ்கியுள்ளது - 19,723 குடும்பங்களைச் சேர்ந்த 67,928 பேர் பாதிப்பு
+
+*2024-11-29 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199982) · `ta`
+
+என்றும் இல்லாதவாறு இம்முறை மன்னார் மாவட்டத்தின் மூன்றில் இரண்டு பங்கு பிரதேசங்கள் வெள்ள நீரில் மூழ்கியுள்ளன. இதனால் மன்னார் மாவட்டத்தில் 19,723 குடும்பங்களைச் சேர்ந்த 67,928 பேர் பாதிப்படைந்துள்ளனர் என மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தெரிவித்தார்.
+
+மன்னார் மாவட்டத்தில் கடந்த சில தினங்களாக நிலவி வரும் சீரற்ற காலநிலை தொடர்பாக ஆராய்வதற்கான விசேட ஒருங்கிணைப்பு குழுக் கூட்டம் வியாழக்கிழமை (28) மன்னார் மாவட்ட செயலகத்தில் நடைபெற்றது.
+
+மன்னார் மாவட்டத்தில் கடந்த 23ஆம் திகதியிலிருந்து பெய்துவரும் மழை வங்காள விரிகுடாவில் ஏற்பட்டுள்ள தாழமுக்கத்தைத் தொடர்ந்து பெரும் மழைவீழ்ச்சியை ஏற்படுத்தியுள்ளது.
+
+மன்னாரில் என்றும் இல்லாதவாறு இம்முறை மூன்றில் இரண்டு பங்கு பிரதேசங்கள் வெள்ளத்தில் மூழ்கியுள்ளன. இதனால் மன்னார் மாவட்டத்தில் 19,723 குடும்பங்களைச் சேர்ந்த 67,928 பேர் பாதிப்படைந்துள்ளனர்.
+
+இதனை விட 3210 குடும்பங்களைச் சேர்ந்த 10,263 பேர் 69 முகாம்களில் தங்கவைக்கப்பட்டுள்ளனர். இவர்களுக்கு சமைத்த உணவு வழங்கப்பட்டு வருகிறது.
+
+...
+
+[Data](articles/c22692fb.json)
 
 ---
 
@@ -169,6 +483,24 @@ The Ambassador cited the Colombo Lotus Tower project as an example, noting that 
 [Data](articles/7b6946b1.json)
 
 [Extended Data](ext_articles/7b6946b1.ext.json)
+
+---
+
+### 2024இல் அதிக எச்.ஐ.வி தொற்றாளர்கள் பதிவு!
+
+*2024-11-29 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/199985) · `ta`
+
+2024ஆம் ஆண்டின் இரண்டாம் காலாண்டு பகுதியில் இலங்கையில் அதிகளவான எச்.ஐ.வி/எய்ட்ஸ் நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் என தேசிய எச்.ஐ.வி/எய்ட்ஸ் கட்டுப்பாட்டுத் திட்டம் தெரிவித்துள்ளது.
+
+2009ஆம் ஆண்டுக்கு பின்னர், அதிகளவான எச்.ஐ.வி/எய்ட்ஸ் நோயாளர்கள், 2024ஆம் ஆண்டின் இரண்டாம் காலாண்டுப் பகுதியிலே அடையாளம் காணப்பட்டுள்ளனர்.
+
+இது 2023ஆம் ஆண்டின் இரண்டாவது காலாண்டு பகுதியை விட 18% அதிகரிப்பை பிரதிபலிக்கிறது.
+
+இரண்டாவது காலாண்டில் பதிவான நோயாளர்களில் 15-24 வயதுக்குட்பட்ட 28 ஆண்களும் மீதமுள்ள நோயாளர்கள் 25 வயதுக்கு மேற்பட்ட நபர்களாக காணப்படுகிறது.
+
+◼️
+
+[Data](articles/0e514978.json)
 
 ---
 
@@ -2093,345 +2425,5 @@ Officers of the Department of Wildlife said that the elephant was eight years ol
 [Data](articles/b4c52395.json)
 
 [Extended Data](ext_articles/b4c52395.ext.json)
-
----
-
-### The deepest humor moving towards the northwest
-
-*2024-11-29 00:30:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமேற்கு-நோக்கி-நகரும்-ஆழ்ந்த-தாழமுக்கம்/175-347963) · `ta`
-
-Deep lowland near Trincomalee moving NW. Meteorology warns against deep/shallow waters. Heavy rain expected in Northern Province.
-
-🟩
-
-The Department of Meteorology has said that the deepest lowland, which is about 110 kilometers north of Trincomalee, is moving to the northwest of the country.
-
-Accordingly, the Department of Meteorology has advised the Maritime and Fisheries Community not to go to the deeper and shallow waters surrounding the country.
-
-Meanwhile, the Department of Meteorology has said that more than 100 millimeters of heavy rainfall is expected in some parts of the Northern Province.
-
-◼️
-
-[Data](articles/10376d75.json)
-
-[Extended Data](ext_articles/10376d75.ext.json)
-
----
-
-### SL kicks off 16 Days of Activism Against Gender-Based Violence
-
-*2024-11-29 00:24:34* · [`dailyftlk`](https://www.ft.lk/opinion/SL-kicks-off-16-Days-of-Activism-Against-Gender-Based-Violence/14-769838) · `en`
-
-For millions of women and girls, digital spaces are fraught with risks that echo and amplify the violence they already face offline
-
-Prime Minister Dr. Hairini Amarasuriya with Women and Child Affairs Minister Saroja Savithri Paulraj at the event
-
-The National Launch of the 16 Days of Activism Against Gender-Based Violence campaign by UN Sri Lanka in partnership with the Government and the Ministry of Women and Child Affairs (MOWCA) was held earlier this week. The event featured a walk to raise awareness and stand in solidarity with survivors of GBV.
-
-The event was led by UNFPA Sri Lanka and saw the participation of Prime Minister Dr. Harini Amarasuriya, Women and Child Affairs Minister Saroja Savithri Paulraj, United Nations Resident Coordinator in Sri Lanka Marc-André Franche and UNFPA Sri Lanka Representative Kunle Adeniyi.
-
-...
-
-[Data](articles/8d793d1a.json)
-
-[Extended Data](ext_articles/8d793d1a.ext.json)
-
----
-
-### Digital frontline: Protecting women and girls from online violence
-
-*2024-11-29 00:22:14* · [`dailyftlk`](https://www.ft.lk/opinion/Digital-frontline-Protecting-women-and-girls-from-online-violence/14-769837) · `en`
-
-On the International Day for the Elimination of Violence Against Women, marking the start of 16 Days of Activism against Gender-Based Violence, UNFPA Asia-Pacific Regional Director Pio Smith calls for urgent action to close the digital gender divide, hold tech platforms accountable, and invest in inclusive policies to combat online gender-based violence, creating safer digital spaces for all women and girls.
-
-The internet has revolutionised our lives, offering unprecedented opportunities for connection, learning and empowerment. Yet, the digital revolution has a sinister side: the growing threat of technology-facilitated gender-based violence. A recent global study found that nearly 60% of women had experienced one or more forms of online harm. For millions of women and girls, digital spaces are fraught with risks that echo and amplify the violence they already face offline.
-
-...
-
-[Data](articles/abab5264.json)
-
-[Extended Data](ext_articles/abab5264.ext.json)
-
----
-
-### Building value-centric performance-driven culture: Key to organisational success
-
-*2024-11-29 00:19:40* · [`dailyftlk`](https://www.ft.lk/columns/Building-value-centric-performance-driven-culture-Key-to-organisational-success/4-769836) · `en`
-
-Emphasising performance management at all levels while leading by example fosters trust and collaboration among teams
-
-Creating a value-centric, performance-driven culture is essential for any organisation striving for success in today’s competitive and turbulent business environment. This culture is built on core values that reflect great human principles widely practiced in successful corporates, such as mutual trust and respect, togetherness, integrity, ethical conduct, and a commitment to excellence. These values not only unify employees but also shape their behaviours, influencing the organisation’s overall effectiveness.
-
-...
-
-[Data](articles/e51df996.json)
-
-[Extended Data](ext_articles/e51df996.ext.json)
-
----
-
-### Sri Lanka curled up for 42 runs with Jenson's 7 wickets;Sri Lanka's 42 -year Test cricket history is the lowest total number
-
-*2024-11-29 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199964) · `ta`
-
-Sri Lanka scored 42 runs in their first innings against South Africa, lowest in their 42-year Test history. Marco Jensen took 7 wickets, including an unbeaten over. South Africa leads with 281/7 in their second innings.
-
-🟩
-
-In the first Test match against South Africa at the Kingsmeet Stadium, Sri Lanka was hit by Marco Jenson's fast bowling and curled up for 42 runs in its first innings.
-
-This is the lowest number of Sri Lanka's 42 -year Test cricket history in an innings.
-
-Sri Lanka scored 71 runs at the 1994 Kandy Asgiriya Stadium against Pakistan.
-
-In the match, South Africa's second innings are 7 wickets for 281 runs.
-
-As a result, Sri Lanka's chance to qualify for the World Test Championships has begun to swing.
-
-Of the 7 Sri Lankan players who lost the bowling of Jenson's bowling, four did not run and the trio got single digits.
-
-Kamundu Mendis (13) and Lahiru Kumara (10 AE) received double digits.
-
-Tananjaya de Silva (7), Bethum Nissank (3), Timuth Karunaratne (2) and Angelo Mathews (1) received a single -digit number and Dinesh Chandimal, Kusal Mendis, Prabhat Jayasuriya, Vishwa Fernando, Asitha Fernando and Asitha Fernando.
-
-In the bowling, Marco Jensen took 7 wickets in 6.5 overs, including an unbeaten over.
-
-...
-
-[Data](articles/87a67bc3.json)
-
-[Extended Data](ext_articles/87a67bc3.ext.json)
-
----
-
-### Imposition of penalty on vehicle dealers for delayed registrations amid gradual lifting of import restrictions
-
-*2024-11-29 00:02:50* · [`dailyftlk`](https://www.ft.lk/columns/Imposition-of-penalty-on-vehicle-dealers-for-delayed-registrations-amid-gradual-lifting-of-import-restrictions/4-769827) · `en`
-
-Government policy aims to balance economic recovery with regulatory compliance
-
-In a bid to manage the foreign currency outflow while gradually easing restrictions on vehicle imports, the Sri Lankan Government has introduced a new regulation imposing a 3% penalty on the Cost, Insurance, and Freight (CIF) value of any newly imported vehicle that is not registered within 90 days. This policy aims to prevent vehicle dealers from hoarding imported vehicles, potentially triggering a spike in foreign exchange usage at a time when Sri Lanka's economic stability remains fragile.
-
-...
-
-[Data](articles/f9c539c5.json)
-
-[Extended Data](ext_articles/f9c539c5.ext.json)
-
----
-
-### 2024-11-28 (Thursday)
-
-### Ampara tractor incident: four including Madrasa principal and teacher arrested
-
-*2024-11-28 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103853/ampara-tractor-incident-four-including-madrasa-principal-and-teacher-arrested) · `en`
-
-The principal and a teacher from the Madrasa in Ninthavur, as well as two who had served as assistants to the tractor driver have been arrested in connection with the investigation into the incident where a tractor transporting a group of school children was swept away by floodwaters in Karaitivu, Ampara.
-
-Police said that the suspects are to be produced before the Sammanthurai Magistrate’s Court.
-
-It is reported that the principal in question had instructed the school boys to go back home on the tractor after school, as there were no buses available due to flooding on November 26. Bus services had been suspended on the route due to the floods.
-
-The principal had also reportedly provided money to the students to cover transportation costs for the tractor.
-
-In such a background, police investigations have revealed that the principal had given instructions to take the children to their homes in the tractor, which was being used as a passenger transport vehicle operating for a fee.
-
-...
-
-[Data](articles/b835a4cb.json)
-
-[Extended Data](ext_articles/b835a4cb.ext.json)
-
----
-
-### Government stand on damaged farmland
-
-*2024-11-28 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203847) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Gov't seeks compensation for 6 crops: paddy, maize, onions, potatoes, soy & chilies. Floods damaged farms. Deputy Min calls for expedited payments."
-
-🟩
-
-Deputy Minister of Agriculture Namal Karunaratne says that the government is looking for a compensation for the 6 crops of compensation.
-
-He was speaking on the actions taken by the inclement weather.
-
-He also pointed out that the Department of Agriculture has a small stock of seed paddy, he said.
-
-"There is only 6 crops in compenses. Paddy, Maize, big onions, potatoes, soy and chili. The ransom applies to the farmers who have been damaged due to heavy rains. We are in the position that you should give another compensation to other farmers too. We are ready to make a request to the Cabinet regarding the cash quality in the Treasury. "
-
-Farmers in many areas including paddy lands have been flooded for Maha season are still inundated.
-
-A large number of farms have been severely damaged due to floods due to the influence of heavy rainfall weather.
-
-Those farmers have been in the face of a week after the Maha season.
-
-...
-
-[Data](articles/03568597.json)
-
-[Extended Data](ext_articles/03568597.ext.json)
-
----
-
-### South Africa is a strong position
-
-*2024-11-28 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203846) · `si`
-
-South Africa leads Sri Lanka in Test match: 132/3, Tristhaba & Tristan Stubbs 24 each, Eridan Markram 47, Tony de Serzi 17, Beuran Hewage 15. Prabath Jayasuriya 2/48, Dilshan Madushanka 1/33.
-
-🟩
-
-South Africa scored 132 runs for the loss of 3 wickets in their second day's Test match between Sri Lanka and South Africa.
-
-Accordingly, they are currently ahead of the first innings of Sri Lanka.
-
-The Leader of the leader, Tristhaba scored 24 runs and a Tristan Stubbs scored 24 runs while the two of them were 43 runs.
-
-Eridan Markram scored 47 runs in the second innings.
-
-In addition to him, Tony de Serzi scored 17 runs and the beer Mulder scored 15.
-
-Among the Sri Lanka bowlers, Prabath Jayasuriya took 2 wickets for 48 runs.
-
-In addition, universal Fernando had one wicket and gave him 33 runs.
-
-◼️
-
-[Data](articles/82081871.json)
-
-[Extended Data](ext_articles/82081871.ext.json)
-
----
-
-### Ten new envoys present credentials to President Dissanayake
-
-*2024-11-28 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103852/ten-new-envoys-present-credentials-to-president-dissanayake) · `en`
-
-Nine newly appointed ambassadors and one high commissioner to Sri Lanka have officially presented their credentials to President Anura Kumara Dissanayake this morning (28) at the Presidential Secretariat in Colombo.
-
-The new ambassadors represent Burkina Faso, Bosnia and Herzegovina, the Republic of Azerbaijan, Georgia, the Republic of Belarus, the Republic of Armenia, the Kingdom of Spain, the Republic of Congo, and the Republic of Guinea.
-
-Additionally, a new high commissioner has been appointed to represent the Republic of Kenya, the President’s Media Division (PMD) said.
-
-Below is the list of the new ambassadors and the high commissioner who presented their credentials to President Dissanayake today.
-
-1. Dr. Désiré Boniface Some - Ambassador-designate of Burkina Faso based in New Delhi
-
-2. Mr. Haris Hrle - Ambassador-designate of Bosnia and Herzegovina based in New Delhi
-
-3. Mr. Elchin Huseynli - Ambassador-designate of the Republic of Azerbaijan based in New Delhi
-
-...
-
-[Data](articles/ad327b0c.json)
-
-[Extended Data](ext_articles/ad327b0c.ext.json)
-
----
-
-### 12 people killed in inclement weather in the country
-
-*2024-11-28 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199962) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Inclement weather kills 12, injures 17, displaces 32k+ in 12 districts. 3.77L affected from 1.13L families. 1 missing. 311 relief centers established.
-
-🟩
-
-The Disaster Management Center said that 12 districts have been affected by the inclement weather in the country and 12 people have been killed in disasters.
-
-The Disaster Management Center further said that 3 lakhs 77 thousand 511 people from one lakh 13 thousand 52 families have been affected by disasters such as rain and floods.
-
-17 people were injured in the disaster caused by inclement weather and one has disappeared.
-
-32 thousand 695 people from 10 thousand 431 families have been housed in the camps, with 311 intermediaries set up across the country.
-
-◼️
-
-[Data](articles/c834203f.json)
-
-[Extended Data](ext_articles/c834203f.ext.json)
-
----
-
-### Investigate the allegations that has been received
-
-*2024-11-28 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/199918) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Allegations against former Minister Manusha Nanayakkara regarding foreign employment claims investigated. He denies receiving money for jobs. Calls for thorough probe into accusations damaging his reputation.
-
-🟩
-
-There is no truth in the accusation that has received money for foreign employment. Former Minister of Industry and Foreign Employment, Manusha Nanayakkara has called for a thorough investigation into the matter.
-
-He said this in his letter to the Minister of External Affairs and Foreign Employment, Vijitha Hera.
-
-As the Minister in charge of the country under the E8 Visa Committee, I took legally and transparency to involve the legal conditions implemented in the Republic of Sri Lanka and the Republic of Sri Lanka.
-
-In the process of increasing the country's monthly foreign currency from $ 200 million to $ 500 million, I had taken steps to gain seasonal employment opportunities in Korea to increase the sending of workers for Korean business through a bilateral contract.
-
-...
-
-[Data](articles/7bb4c7fd.json)
-
-[Extended Data](ext_articles/7bb4c7fd.ext.json)
-
----
-
-### SriLankan Airlines as Best Airlines Partner at Tamil Nadu Tourism Awards
-
-*2024-11-28 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/199924) · `ta`
-
-SriLankan Airlines wins "Best Airport Partner" at Tamil Nadu Tourism Awards. Recognized for excellent service in South India. Operates 90 weekly flights across India, including Tamil Nadu. Aims to enhance passenger experience and expand routes.
-
-🟩
-
-Sri Lanka Airlines Airlines has won the "Best Airport Participant" Award as the Best Film Service in South India. The award was presented to SriLankan Airlines at a function held on November 19, 2024.
-
-At the South Asian Travel Awards held in September, the selectors were selected by the selection of visitors.
-
-SriLankan Airlines has won the second honor in the last few months following the success of Sri Lanka Airlines as South Asia's Best International Airlines.
-
-SriLankan Airlines continues to establish leading international airlines in support of nearly 35 weekly flights to Chennai, Trichy and Madurai in Tamil Nadu.
-
-Sri Lanka Airlines operates 90 weekly flights across India not only in Tamil Nadu but also in Delhi, Mumbai, Hyderabad, Bangalore, Cochin and Thiruvananthapuram.. SriLankan Airlines is celebrating the Tamil Nadu Tourism Awards as a significant impact on the state's tourism industry.
-
-...
-
-[Data](articles/5090f85a.json)
-
-[Extended Data](ext_articles/5090f85a.ext.json)
-
----
-
-### Deep depression’s influence on Sri Lanka’s weather to reduce after tomorrow
-
-*2024-11-28 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103851/deep-depressions-influence-on-sri-lankas-weather-to-reduce-after-tomorrow) · `en`
-
-The Department of Meteorology says the deep depression over the southwest Bay of Bengal is likely to move slowly, north-northwestwards closer to the east coast of Sri Lanka and there is a possibility for it to further intensify.
-
-The deep depressions was located around 130 km northeast of Trincomalee and 150km east of Mullaittivu at around 11.30 a.m. of 28 November 2024.
-
-It can be expected that the influence of this system on the island’s weather will gradually reduce after tomorrow (29), the department said issuing an advisory.
-
-It said showers or thundershowers will occur at times in Northern and North-central provinces and in Trincomalee District while heavy showers above 100 mm are likely at some places in Northern Province.
-
-...
-
-[Data](articles/6bde122f.json)
-
-[Extended Data](ext_articles/6bde122f.ext.json)
 
 ---

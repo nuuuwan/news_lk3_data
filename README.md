@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 00:41:40**
+As of **2024-11-30 01:26:03**
 
 ## Newspaper Stats
 
-*Scraped **57,656** Articles*
+*Scraped **57,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,48 @@ dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,985
 tamilmirrorlk | 8,198
-virakesarilk | 9,418
+virakesarilk | 9,421
 adaderanasinhalalk | 9,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,656 (100.0%) of 57,656 articles have been extended.
+57,659 (100.0%) of 57,659 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-30 (Saturday)
+
+### South Africa on the brink of success;Sri Lanka is facing the first defeat in Durban
+
+*2024-11-30 00:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200049) · `ta`
+
+South Africa leads 1-0 in 2-match series after dominating first Test. Sri Lanka faces first defeat at Durban, questioning World Test Championship hopes.
+
+🟩
+
+Sri Lanka has been defeated in the playground for the first time, which has not lost three Tests in the previous three Tests at the Durban Kingsmate Stadium against South Africa.
+
+South Africa dominated the first Test cricket match between the two teams on the 2nd and 3rd on the 2nd, and is in a strong position to lead 1 - 0 in a 2 -match series.
+
+Sri Lanka's expectation of qualifying for the World Test Championships Final has been questioned.
+
+Sri Lanka, who batted in the 2nd innings, scored 103 runs at the end of today's 3rd day's play.
+
+Priority players Bethum Nissank (23), Timuth Karunaratne (4), Angelo Mathews (25) and Kamindu Mendis (10) are the losers.
+
+Dinesh Chandimal has 29 runs and team captain Tanjaya de Silva has not lost.
+
+Maco Jensen took 2 wickets for 22 runs, Kekiso Rabada took 3 wickets for 34 runs while Gerald Goetzi took one wicket for 39 runs.
+
+...
+
+[Data](articles/ff744137.json)
+
+[Extended Data](ext_articles/ff744137.ext.json)
+
+---
 
 ### 2024-11-29 (Friday)
 
@@ -77,6 +109,34 @@ The young man dies after a long time to reach Vavuniya due to flooding on highwa
 [Data](articles/65c5bf9e.json)
 
 [Extended Data](ext_articles/65c5bf9e.ext.json)
+
+---
+
+### Minister of Fisheries
+
+*2024-11-29 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200048) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Fisheries Minister visits Maruthankani Bridge site after collapse. Inspects repair work. Road damage near Pudukkattu junction due to strong currents. Mudslides prevent further road damage.
+
+🟩
+
+As the road was down, the bridge was in critical condition due to the downfall of the Maruthankani Bridge in Jaffna.
+
+Fisheries Minister Ramalingam Chandrasekhar visited the Maruthangeni area and visited the correction work and asked the authorities about it.
+
+On the road leading to Pudukkattu junction, the area of ​​the Maruthankani Bridge, which is located, was found down due to high current.
+
+Immediately, the mudslides were put in the area and the repairing of the road was prevented from being damaged.
+
+◼️
+
+[Data](articles/cb8b4fb0.json)
+
+[Extended Data](ext_articles/cb8b4fb0.ext.json)
 
 ---
 
@@ -191,6 +251,34 @@ The Deputy General of the Government presented a report from the Cabinet of Cabi
 [Data](articles/c601a409.json)
 
 [Extended Data](ext_articles/c601a409.ext.json)
+
+---
+
+### Thanks to President Anura for cooperating in the North and East - Selvam Adakkalanathan MP
+
+*2024-11-29 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200047) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Thanking President Anura for allowing Heroes Day commemoration. Parliamentarian Selvam Adakkalanathan praises cooperation between North, East regions. Expresses gratitude for government approval to honor national heroes. Mentions past issues with police/military interference during commemorations.
+
+🟩
+
+I thank President Anura Kumara Dissanayake and the government's permission to commemorate the day -long Heroes Day, which is a tribute to the people's mind.. Vanni district parliamentarian Selvam Adakkalanathan said.
+
+First of all, I would like to thank the President for granting permission to carry out this opportunity to commemorate the tragedies in the minds of the people.
+
+As we see in the past, the police and the military's evils were continued during the commemoration of the Heroes, and this time, the police were inconvenienced by the police during the Heroes Day commemoration.
+
+I thank the President and the current government. In his message.
+
+◼️
+
+[Data](articles/be41deb6.json)
+
+[Extended Data](ext_articles/be41deb6.ext.json)
 
 ---
 
@@ -2537,69 +2625,5 @@ New orders index continued to increase, up at 54.3 in October from 52.9 in Septe
 [Data](articles/c22a4566.json)
 
 [Extended Data](ext_articles/c22a4566.ext.json)
-
----
-
-### A group of patients trapped on an island to Jaffna hospital
-
-*2024-11-29 12:01:39* · [`adalk`](https://www.ada.lk/breaking_news/දූපතක-සිරවී-සිටි-රෝගීන්-පිරිසක්-ගුවනින්-යාපනය-රෝහලට/11-413356) · `si`
-
-Patients from Nudinieve Hospital in Jaffna rescued by SLAF helicopter after being stranded due to flooding.
-
-🟩
-
-Three patients who were receiving treatment at the Nudinieve Hospital in Jaffna and the Sri Lankan Air Force took place yesterday (28).
-
-A helicopter belonging to Sri Lanka Airport was landed at the Ven.
-
-The Air Force has also taken steps to saving the people stranded due to floods in the land route.
-
-◼️
-
-[Data](articles/b81da5c4.json)
-
-[Extended Data](ext_articles/b81da5c4.ext.json)
-
----
-
-### Rajitha and two others acquitted from ‘white van’ case
-
-*2024-11-29 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103862/rajitha-and-two-others-acquitted-from-white-van-case) · `en`
-
-The Colombo High Court has acquitted former Minister Rajitha Senaratne and two others in the case related to the controversial ‘white van’ media conference held in 2019.
-
-On September 12, 2022 former Minister Rajitha Senaratne and former State Pharmaceutical Corporation (SPC) chairman Rumy Mohamed had pleaded not guilty for the charges against them over the controversial “white van” press conference.
-
-In the days leading up to the Presidential Election in 2019, former Health Minister Rajitha Senaratne had called two persons named Anthony Douglas Fernando and Athula Sanjeewa Madanayake for the said press conference, where they made controversial statements regarding alleged “white vans” and purported incidents of certain abductions, assassinations, robberies and forced disappearances during the administration of former President Mahinda Rajapaksa.
-
-...
-
-[Data](articles/afd54336.json)
-
-[Extended Data](ext_articles/afd54336.ext.json)
-
----
-
-### Electricity strike
-
-*2024-11-29 11:59:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்சாரம்-தாக்கி-ஒருவர்-பலி/76-347974) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Unauthorized electricity wire causes land death after pepper theft. Landowner arrested; Gampola police investigating.
-
-🟩
-
-When the man entered the land of another person and plucked the pepper, the land was killed by an unauthorized electric wire around the land, Gampola police said.
-
-The owner of the land has been arrested by the police and the Gampola police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/d3fd235b.json)
-
-[Extended Data](ext_articles/d3fd235b.ext.json)
 
 ---

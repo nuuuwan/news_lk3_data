@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 23:42:34**
+As of **2024-11-30 00:16:55**
 
 ## Newspaper Stats
 
-*Scraped **57,654** Articles*
+*Scraped **57,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 440
 colombotelegraphcom | 586
 bbccomsinhala | 601
 islandlk | 3,452
-economynextcom | 3,508
+economynextcom | 3,510
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,444
@@ -26,61 +26,83 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,647 (100.0%) of 57,654 articles have been extended.
+57,653 (100.0%) of 57,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
 
-### பிரபல நடிகை சமந்தாவின் தந்தை திடீர் மரணம்
+### Samantha's father suddenly death
 
 *2024-11-29 23:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-நடிகை-சமந்தாவின்-தந்தை-திடீர்-மரணம்/175-348001) · `ta`
 
-தந்தை உயிரிழப்பு குறித்து சமந்தா தனது சமூக வலைதளத்தில் உருக்கமான பதிவை பகிர்ந்துள்ளார்.
+Samantha's father passed away suddenly. She shared an emotional post on social media about his death. Joseph Prabhu, a Telugu-speaking Anglo Indian, was known for collaborating with the film industry. Many fans and well-wishers are offering condolences online.
 
-நடிகை சமந்தா சென்னையில் ஜோசப் பிரபு - நினெட் பிரபு தம்பதிக்கு பிறந்தவர் ஆவார். இவரது தந்தை ஜோசப் பிரபு தெலுங்கு பேசும் ஆங்கிலோ இந்தியன் ஆவார்.
+🟩
 
-திரையுலக பயணத்திற்கு தன் தந்தை அதிகளவு ஒத்துழைப்பை கொடுத்ததாக சமந்தா பல்வேறு தருணங்களில் கூறியிருக்கிறார்.
+Samantha has shared a fierce post on her social network about her father's death.
 
-இந்த நிலையில், சமந்தாவின் தந்தை திடீர் உயிரிழப்பு தகதவல் அவரது ரசிகர்களை சோகத்தில் ஆழ்த்தியது. சமூக வலைதளங்களில் பலரும் சமந்தாவுக்கு ஆறுதல் தெரிவித்து வருகின்றனர். மேலும் சமந்தா தந்தை ஜோசப் பிரபுவுக்கு இரங்கல் தெரிவித்து வருகின்றனர். R
+Joseph Prabhu in Chennai. His father, Joseph Prabhu, is a Telugu -speaking Anglo Indian.
+
+Samantha has said at various moments that her father has cooperated with the film industry.
+
+In this case, Samantha's father suddenly killed his fans. Many people on social networks are comforting Samantha. Also, Samantha's father Joseph Prabhu is condoled. Remble
 
 ◼️
 
 [Data](articles/0693c62e.json)
 
+[Extended Data](ext_articles/0693c62e.ext.json)
+
 ---
 
-### மழைநீரில் வந்த விஷப்பாம்பு கடித்ததில் இளைஞர் மரணம்
+### Youth death in poisonous bite in rain water
 
 *2024-11-29 23:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழைநீரில்-வந்த-விஷப்பாம்பு-கடித்ததில்-இளைஞர்-மரணம்/175-348000) · `ta`
 
-வவுனியா - நெடுங்கேணி பட்டிக்குடியிருப்பு பகுதியில் வெள்ள நீரில் வந்த பாம்பு கடித்ததில் 20 வயதுடைய இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+20-year-old youth dies from snake bite in floodwaters near Vavuniya. Snake bit him while he was collecting coconuts during heavy rain. He was rushed to hospital but died en route due to flooded roads.
 
-மழை காரணமாக வீட்டு முற்றத்தில் உள்ள தென்னை மரத்தில் தேங்காய் சேகரித்து கொண்டிருந்த போது, ​​மழை நீரில் நீந்தி வந்த பாம்பு அவரை கடித்துள்ளது.
+🟩
 
-உடனடியாக அவர் நெடுங்கேணி வைத்தியசாலையில் அனுமதிக்கப்பட்டு, பின்னர் அவரது நிலைமை கவலைக்கிடமாக இருப்பதால் வவுனியா பொது வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+A 20 -year -old youth has died after a snake bite in a flood waters in the Vavuniya - Nedungeni Pattikkudiyiruppu area.
 
-கனமழை காரணமாக நெடுஞ்சாலைகளில் வெள்ளம் பெருக்கெடுத்து ஓடியதால் அம்பியூலன்ஸ்  வண்டி வவுனியாவை வந்தடைய நீண்ட நேரமாகியதால் இளைஞன் உயிரிழந்துள்ளார். R
+While the coconut was collected in the coconut tree in the yard due to rain, the snake swimming in the rain water was bitten.
+
+He was immediately admitted to the Nedungeni Hospital and later transferred to the Vavuniya General Hospital as his condition is worrisome.
+
+The young man dies after a long time to reach Vavuniya due to flooding on highways due to heavy rains.. Remble
 
 ◼️
 
 [Data](articles/65c5bf9e.json)
 
+[Extended Data](ext_articles/65c5bf9e.ext.json)
+
 ---
 
-### බදු ගෙවන්නන්ට විශේෂ දැනුම්දීමක්
+### Special notice for taxpayers
 
 *2024-11-29 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203883) · `si`
 
-2023/2024 තක්සේරු වර්ෂය සඳහා ආදායම් බදු වාර්තා ඉදිරිපත් කිරීමේ අවසන් දිනය හෙට (30) බව දේශීය ආදායම් දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Here's a summary in 200 characters:
 
-වාර්තා මාර්ගගත ක්‍රමයට පමණක් ලබා ගන්නා අතර ඒ සඳහා තාක්ෂණික සහාය ලබා දීම සඳහා දේශීය ආදායම් දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලය, ප්‍රාදේශීය හා නගර කාර්යාල සාමාන්‍ය රාජකාරී දිනයක් මෙන් හෙට දින විවෘතව පවතින බව ද එම දෙපාර්තමේන්තුව පවසයි.
 
-තවද, ආදායම් බදු ගෙවීම් සඳහා දේශීය ආදායම් දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලයේ හා ජාවත්ත කාර්යාල පරිශ්‍රයේ පිහිටා ඇති ලංකා බැංකු ශාඛාවද විවෘතව තබන බව දේශීය ආදායම් දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+"2023/2024 Income Tax Report deadline: Submit now. Department of Inland Revenue HQ & branches open for assistance."
+
+🟩
+
+2023/2024 Last date of submitting income tax reports for the year valuation
+
+The Department says the headquarters of the Department of Inland Revenue, the Head Office of the Department of Inland Revenue and Urban Office is open as a normal working day for providing technical assistance.
+
+The Department of Inland Revenue is also open to the Inland Revenue Department Head Office and Bank branch located at the Inland Revenue Department and Bank branch located at the Inland Revenue Department.
 
 ◼️
 
 [Data](articles/f328304f.json)
+
+[Extended Data](ext_articles/f328304f.ext.json)
 
 ---
 
@@ -100,45 +122,75 @@ In a related development, the Department of Meteorology has forecasted that the 
 
 [Data](articles/1709a3e5.json)
 
+[Extended Data](ext_articles/1709a3e5.ext.json)
+
 ---
 
-### සැඩ පහරේ ගිය ට්‍රැක්ටර් රථයේ 30 දෙනෙක් ගිහින් ?
+### 30 in the tractor who went on the sudden hit?
 
 *2024-11-29 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203882) · `si`
 
-අම්පාර, කාර්තිව්හිදී පසුගියදා ට්‍රැක්ටර් රථයක් සැඩ පහරකට හසුවීමෙන් සිසුන් පිරිසක් මියගිය අනතුර සිදුවන අවස්ථාවේදී එම ට්‍රැක්ටර් රථයේ පුද්ගලයින් 30 දෙනෙකුට ආසන්න පිරිසක් සිට ඇති බව පොලිස් විමර්ශනවලදී අනාවරණ වී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-අනතුරින් සිසුන් 5 දෙනෙකු ජීවිතක්ෂයට පත්වූ අතර, අතුරුදන් තවත් සිසුවෙකු මෙතෙක් හමුවී නැහැ.
 
-නින්දවූර් මද්‍රසා පාසලේ සිසුන් පිරිසක් පසුගිය 26 වැනිදා සැඩ පහරේ ගසාගෙන ගියේ පැවති වර්ෂාවත් සමග අම්පාර - කල්මුණේ මාර්ගය ජලයෙන් යටවී තිබීම හේතුවෙන් ඒ හරහා ට්‍රැක්ටර් රථයකින් යාමට උත්සාහ කිරීමේදීය.
 
-මීට අදාළව කළ විමර්ශනයේදී කරුණු රැසක් හෙළිකරගන්නට හැකිවූ බව සිද්ධිය පිළිබඳව විමර්ශන මෙහෙයවන අක්කරෙයිපත්තුව පොලීසිය පවසයි.
+Tragic accident in Ampara: 5 students killed, 1 missing when tractor carrying school group hits floodwaters. Police probe ongoing; principal, driver arrested.
 
-ඒ අනුව පාසල් සිසුන් 11 දෙනා සමග එම පාසලේ විදුහල්පතිවරයා සමන්තරෙයි බලා ධාවනය වූ බස් රථයකට ගොඩවී ඇති අතර, එහි රියදුරා මාවඩිපල්ලි පාලම අසලදී බස් රථය ඉදිරියට ධාවනයට කර නැත්තේ මාර්ගය ජලයෙන් යට වී තිබීම හේතුවෙනි.
+🟩
 
-පොලීසියද එහිදී බස් රථ රියදුරාට පවසා ඇත්තේ ඉදිරියට ධාවනය නොකරන ලෙසටය.
+Police investigations have revealed that there have been nearly 30 people in the tractor when a group of students died in Kalageda, Ampara, Mabituv.
+
+Five students were killed in the accident and another student disappeared yet.
+
+At the time of a group of Nindavur in Madrasa school, the Ampara-Kalmunai road was inundated on the 26th, trying to go to a tractor.
+
+An investigation into the incident stated that investigations were able to overcome the incident.
+
+Accordingly, the Principal of the school has passed a bus with the 11 school students, while the driver of the road has not been operated near the Mavdipalli bridge due to the water.
+
+The bus driver has told the driver not to run.
+
+Accordingly, the Principal of the bus has passed the tractor to go to Samanurai area.
+
+At the time, 14 people and two motorbikes were also stolen by the water that was filled with water.
+
+Police investigations have revealed that a motorbike has been charged Rs.
 
 ...
 
 [Data](articles/65c301ce.json)
 
+[Extended Data](ext_articles/65c301ce.ext.json)
+
 ---
 
-### කෙහෙළිය ඇමති මණ්ඩලයේ විශ්වාසය කඩකරලා - නීතිපති අධිකරණයට කියයි
+### Keheliya Cabinet has violated the trust of the Minister - Attorney General tells court
 
 *2024-11-29 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203881) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීම සඳහා ව්‍යාජ කරුණු ඇතුළත් කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කිරීමෙන් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා කැබිනට් මණ්ඩලයේ සාමුහික විශ්වාසය කඩකර ඇති බව නීතිපතිවරයා අද (29) මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුන්නේය.
+Here's a summary of the text in approximately 200 characters:
 
-නීතිපතිවරයා වෙනුවෙන් නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනෙවිය අධිකරණයට කියා සිටියේ, අදාළ කැබිනට් පත්‍රිකාව සම්බන්ධයෙන් එවක කැබිනට් මණ්ඩලයේ අමාත්‍යවරුන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට දුන් ප්‍රකාශ ඔස්සේ මේ බව තහවුරු වන බවය.
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමට අදාළ නීති කෘත්‍යය මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී අද යළි කැඳවිය.
 
-එහිදී රක්ෂිත බන්ධනාගාරගත කර සිටින මෙම නඩුවේ පළමු සැකකරු වන සුදත් ජනක ප්‍රනාන්දු සහ ඇප මත මුදාහැර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ප්‍රමුඛ සෙසු සැකකරුවන් 10 දෙනා ද අධිකරණය හමුවේ පෙනී සිටියහ.
+Attorney General accuses former Health Minister Keheliya Rambawella of violating Cabinet trust over substandard antibody purchase. Case heard in Maligakanda Magistrate Court, involving former ministers and suppliers. Trial set for February 18.
+
+🟩
+
+The Attorney General told the Maligakanda Magistrate today that former Health Minister Keheliya Rambawella has violated the collective confidence of the Cabinet and the Cabinet of Cabinet.
+
+The Deputy Solicitor General Lakhagama Girihagama told the Attorney General to the court that the Cabinet has said that the Cabinet has said to the Cabinet paper.
+
+The law related to the purchase of substandard antibodies was taken up again in the Maligakanda Magistrate's Court today.
+
+The first 10 suspects who were released on bail were in the court who were released on bail.
+
+The Deputy General of the Government presented a report from the Cabinet of Cabinet to the Cabinet Department of the CID at the CID at the CID.
 
 ...
 
 [Data](articles/c601a409.json)
+
+[Extended Data](ext_articles/c601a409.ext.json)
 
 ---
 
@@ -1033,6 +1085,44 @@ The Board is informed that the supply of water will be slashed due to an emergen
 [Data](articles/52e54a0a.json)
 
 [Extended Data](ext_articles/52e54a0a.ext.json)
+
+---
+
+### Sri Lanka consumer price index deflates to September 2022 levels
+
+*2024-11-29 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-price-index-deflates-to-september-2022-levels-190892/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation fell 2.1 percent in the 12-months to November 2024, while the index fell back to September 2022 levels, official data showed, amid deflationary policy and currency appreciation by the central bank.
+
+The Colombo Consumer Price Index (re-based) fell to 0.3 points during the month of November 2024 to 189.4 point which is around the 189.3 points September 2022.
+
+After rate cuts enforced by inflationary open market operations triggers a currency crisis and draws the International Monetary Fund, pegged currencies are usually not encouraged to appreciate based on a Mercantilist doctrine called ‘competitive exchange rates’.
+
+But, the central bank under Governor Nandalal Weerasinghe has allowed the exchange rate to appreciate, boosting disposable incomes and a faster economic recovery and reserve collection.
+
+...
+
+[Data](articles/75c83646.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 290.65/75 to dollar, bonds steady
+
+*2024-11-29 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-65-75-to-dollar-bonds-steady-137243/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.65/75 to the US dollar on Friday from 290.70/80 to the US dollar on Thursday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed at 9.45/60 percent, from 9.40/60 percent.
+
+A bond maturing on 15.10.2027 closed stable at 10.20/30 percent.
+
+A bond maturing on 15.10.2028 closed down at 10.30/45 percent, from 10.45/55 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.70/85 percent. (Colombo/Nov29/2024)
+
+◼️
+
+[Data](articles/715cd5c5.json)
 
 ---
 
@@ -2497,53 +2587,5 @@ The owner of the land has been arrested by the police and the Gampola police are
 [Data](articles/d3fd235b.json)
 
 [Extended Data](ext_articles/d3fd235b.ext.json)
-
----
-
-### Rajitha Senaratne acquitted
-
-*2024-11-29 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203859) · `si`
-
-Rajitha Senaratne acquitted by Colombo High Court in white van case related to mediaquake against Gotabhaya Rajapaksa. Long trial ended with Judge Sujeewa Nissanka's verdict. Accused of creating false evidence for corrupt acts involving State Pharmaceutical Corporation.
-
-🟩
-
-The Colombo High Court today ordered the former Minister Rajitha Senaratne and two defendants regarding the white van.
-
-It was in connection with a trial accused of a mediaquake at the time, accusing the presidential candidate Gotabhaya Rajapaksa at the time, accusing the presidential candidate Gotabhaya Rajapaksa in Colombo.
-
-Colombo High Court Judge Sujeewa Nissanka was handed over after a long trial.
-
-Creating false evidence to prepare a corruptive act in accordance with the discussion of the Presidential Code on November 10, 2019 at the Penal Code and the State Pharmaceutical Corporation.The former Chairman Mohamed Rumomis were accused of the allegations against the two defendants.
-
-◼️
-
-[Data](articles/e38b3d7a.json)
-
-[Extended Data](ext_articles/e38b3d7a.ext.json)
-
----
-
-### Flood warning of the Venerable Balao further
-
-*2024-11-29 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203858) · `si`
-
-Flood warning extended: Kala Oya alert continues for 24 more hours. Residents advised to be cautious. Road users warned. Disaster management urged to act.
-
-🟩
-
-The Irrigation Department (Irrigation Department) stated this morning in a statement that the floods issued for Kala Oya was extended by another 24 hours.
-
-Accordingly, the people of residence are requested to take care of the situation.
-
-The Irrigation Department also provides a special attention to the road drivers on the roads and by roads.
-
-They call on the disaster management aspects to take necessary action.
-
-◼️
-
-[Data](articles/e39b4ebe.json)
-
-[Extended Data](ext_articles/e39b4ebe.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 19:07:35**
+As of **2024-11-29 19:18:41**
 
 ## Newspaper Stats
 
@@ -396,13 +396,13 @@ The water cut has been imposed owing to urgent repairs being carried out on the 
 
 The Secretary-General of Parliament, Kushani Rohanadeera stated that there will be no changes to the privileges granted to the Members of the Parliament.
 
-Speaking to the media, she revealed that 35 MPs have already submitted requests to obtain official residences from the Madiwela Housing Complex.
+Speaking to the media, she revealed that 94 MPs have already submitted requests to obtain official residences from the Madiwela Housing Complex.
 
 The Secretary-General of Parliament explained that 25-30 houses previously returned by the former MPs are currently being renovated to provide official residences to new MPs.
 
 Accordingly, those official residences will be later allocated to the new MPs based on the priority.
 
-Out of a total 0f 108 official residences, 80 are designated for the parliamentarians of the ruling party, while 28 are reserved for the opposition members.
+Out of a total of 108 official residences, 80 are designated for the parliamentarians of the ruling party, while 28 are reserved for the opposition members.
 
 Kushani Rohanadeera further said that the MPs whose homes are located more than 40 kilometers away from the Parliament complex can make requests for official residences at the Madiwela Housing Complex.
 

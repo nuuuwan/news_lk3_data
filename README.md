@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 10:42:15**
+As of **2024-11-29 11:14:41**
 
 ## Newspaper Stats
 
-*Scraped **57,526** Articles*
+*Scraped **57,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,452
 economynextcom | 3,499
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,437
-adaderanalk | 6,967
-tamilmirrorlk | 8,181
+adalk | 5,439
+adaderanalk | 6,970
+tamilmirrorlk | 8,183
 virakesarilk | 9,377
 adaderanasinhalalk | 9,926
 
@@ -26,11 +26,123 @@ adaderanasinhalalk | 9,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,524 (100.0%) of 57,526 articles have been extended.
+57,528 (100.0%) of 57,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### The yellow worth Rs. 40 lakhs is stuck
+
+*2024-11-29 10:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/ரூ-40-இலட்சம்-பெறுமதியான-மஞ்சள்-சிக்கியது/95-347972) · `ta`
+
+Consumer Affairs Authority seizes 765 kg turmeric worth Rs 40 lakhs from private warehouse in Colombo. Turmeric imported from India. No prior notice given before release into market.
+
+🟩
+
+Investigators of the Consumer Affairs Authority (CEB), which surrounded the private repository complex in Colombo-15, seized 765 kilograms of turmeric.
+
+The Value of the Yellow House said the Consumer Affairs Authority said it was about Rs 40 lakhs.
+
+A senior official of the Authority said that the yellow stockpile was seized as he was ready to release the market without any information.
+
+Subsequent investigations revealed that the yellow was imported from India.
+
+◼️
+
+[Data](articles/1bd0dd79.json)
+
+[Extended Data](ext_articles/1bd0dd79.ext.json)
+
+---
+
+### වැස්ස නිසා එළවලු හිගයක්
+
+*2024-11-29 10:46:59* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-එළවලු-හිගයක්/11-413354) · `si`
+
+පවතින අහපත් කාලගුණික තත්ත්වය හේතුවෙන් දඹුල්ල ආර්ථික මධ්‍යස්ථානයට ලැබෙන එළවළු ප්‍රමාණය සියයට හැටකින් පහත වැටී ම් තිබෙන බවත් එළවළු මිලදී ගැනීමට පැමිණෙන වෙළෙන්දන්ගේත් සැලකිලිය  යුතු මට්ටමෙන්  අඩුවක් දක්නට ලැබෙන බවත් එළවළු මිලද සීග්‍රයෙන් පහත වැටෙමින් පවතින බව ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමය කියා සිටී.
+
+වැස්ස නිසා ගුණාත්මක භාවයෙන් යුතු එළවළු   වෙළඳ මධ්‍යස්ථානයට නොලැබීම හේතුවෙන් ඒවා අලෙවි නොවන නිසාවෙන් මේ තත්ත්වය උදාවී තිබෙන බවත් ඉදිරි කාලය තුළ එළවළු ලැබීම මීටත් වඩා පහත මට්ටමක පවතින බව දඹුල්ල ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ ලේකම් අයි ,ජි .විජේනන්ද   මහතා  වැඩිදුරටත් සඳහන් කර සිටි.
+
+ඒ අනුව දඹුල්ල ආර්ථික මධ්‍යස්ථානයට  පිට පළාත්වලින් ලැබෙන එළවළු මෙන්ම ග්‍රාමීය ප්‍රදේශවලින් ලැබෙන එළවළු ප්‍රමාණය විශාල වශයෙන් අඩු වී තිබෙන බවද පෙන්වා දෙන ලේකම්වරයා එලවලු කොටු වර්ෂාව සමඟ විනාශ වී යාම එළවළු අස්වනු නෙළීමේ අවස්ථාද අහිමිවීම නිසා මේ තත්ත්වය උදා වී තිබෙන බවද   මධ්‍යස්ථානය තුළ  කැරට්  ලිස් කිලෝ එකක තොග මිල රු 100 ත් 140 ත් මිලකට සෙමෙන් අලවි වන බව කියයි.
+
+...
+
+[Data](articles/a12197dd.json)
+
+---
+
+### 10 sluice gates opened at Rajanganaya Reservoir
+
+*2024-11-29 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103859/10-sluice-gates-opened-at-rajanganaya-reservoir) · `en`
+
+Ten sluice gates of the Rajanganaya Reservoir have been opened following heavy rainfall.
+
+Anuradhapura District has been severely affected by the adverse weather conditions, said the Ada Derana reporter.
+
+It is reported that approximately 11,800 cubic meters of water per second is being released into the Kala Oya from the opened sluice gates.
+
+Meanwhile, arrangements have also been made to close the sluice gates of the Angamuwa Reservoir.
+
+The Wimalasurendra Reservoir in the Nortonbridge area continues to discharge water from the sluice gates due to ongoing intermittent showers and heavy rains in the Central Highlands’ western slopes.
+
+Engineers in charge of the Castlereigh reservoir and Maussakele reservoirs have also reported that both the reservoirs are nearing their overflow levels due to the persistent rainfall in their catchment areas.
+
+...
+
+[Data](articles/f703b880.json)
+
+[Extended Data](ext_articles/f703b880.ext.json)
+
+---
+
+### Prohibition on the use of temporary vehicle digit plates
+
+*2024-11-29 10:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்காலிக-வாகன-இலக்க-தகடுகளை-பயன்படுத்த-தடை/175-347971) · `ta`
+
+Temporary vehicle plates ban: Dec 15 deadline. Afterward, driving with them illegal. Obtain permanent plates by then or face legal consequences.
+
+🟩
+
+The Department of Motor Transport has said that the problem of providing automobile plates has been concluded and re -supplying digits has begun.
+
+Motor Transport Commissioner Nishantha Anurutha Weerasinghe has asked the people of the Motor Transport Commissioner to obtain it before December 15 if anyone has paid the Motor Transport Department to obtain digits.
+
+In addition, permission to drive vehicles on the streets using temporary digits will be canceled from 15th December.
+
+In a statement issued by the Motor Transport Commissioner, the police said, "The police will take legal action after December 15, about the vehicles operating using temporary digits."
+
+◼️
+
+[Data](articles/578bbad0.json)
+
+[Extended Data](ext_articles/578bbad0.ext.json)
+
+---
+
+### Over 441,000 affected by adverse weather in Sri Lanka
+
+*2024-11-29 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103858/over-441000-affected-by-adverse-weather-in-sri-lanka) · `en`
+
+The Disaster Management Center (DMC) reports that a total of 441,590 individuals from 132,110 families across 24 districts have been impacted by the prevailing adverse weather conditions.
+
+So far, 13 fatalities have been confirmed according to the update issued at 06.00 a.m. today (28), with one person missing and 20 others injured.
+
+Additionally, 102 houses have been completely destroyed, while 2,096 homes have sustained partial damage.
+
+The DMC notes that 115,319 people from 45,329 families are currently seeking refuge with relatives, while 38,616 individuals from 12,348 families have been relocated to 347 designated safe locations.
+
+Ampara District remains the hardest hit, with 149,491 individuals from 43,631 families affected.
+
+The Irrigation Department has extended flood warnings for Mahaweli Ganga, Heda Oya, Deduru Oya, and Mundeniyaru rivers for an additional 48 hours. Residents in low-lying areas near these rivers are urged to exercise caution.
+
+...
+
+[Data](articles/ffde33a3.json)
+
+[Extended Data](ext_articles/ffde33a3.ext.json)
+
+---
 
 ### நிந்தவூர் அரபு மத்ரஸாவின் அதிபர், ஆசிரியருக்கு விளக்கமறியல்
 
@@ -47,6 +159,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/90eb0c13.json)
+
+---
+
+### Indian and Sri Lankan Navy seize 500 kg of crystal meth from fishing boats
+
+*2024-11-29 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103857/indian-and-sri-lankan-navy-seize-500-kg-of-crystal-meth-from-fishing-boats) · `en`
+
+In a well-coordinated operation, the Indian Navy, in collaboration with the Sri Lankan Navy on Friday successfully seized approximately 500 kg of narcotics, identified as Crystal Meth, from two fishing boats in the Arabian Sea.
+
+This combined operation followed intelligence received from the Sri Lanka Navy, indicating possible narcotics smuggling by Sri Lankan flagged fishing vessels.
+
+Acting swiftly on the intelligence, the Indian Navy initiated an operation to intercept the boats involved. The operation relied on continuous inputs from the Sri Lanka Navy and the Information Fusion Centre - Indian Ocean Region, along with extensive surveillance by the Indian Navy’s aerial assets.
+
+These efforts led to the identification of two fishing boats suspected of being involved in the illegal activity.
+
+Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
+
+◼️
+
+[Data](articles/06d12378.json)
 
 ---
 
@@ -91,6 +223,22 @@ The government has to carry a huge cost of maintaining these luxury vehicles and
 [Data](articles/8b557f39.json)
 
 [Extended Data](ext_articles/8b557f39.ext.json)
+
+---
+
+### උසස් පෙළ සංශෝධිත කාල සටහන නිකුත් කරයි
+
+*2024-11-29 09:23:45* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-සංශෝධිත-කාල-සටහන-නිකුත්-කරයි/11-413353) · `si`
+
+අයහපත් කාලගුණික තත්වයන් හමුවේ නොවැම්බර් 27,28,29,30,සහ දෙසැම්බර් 02 හා 03 දිනයන්හි විභාගය නොපැවැත්වීම නිසා එම දිනයන්ට නියමිතව තිබූ  ප්‍රශ්න  පත්‍ර සඳහා පිළිවෙළින්  දෙසැම්බර් 21 ,23,27,28 , 30  සහ 31   දිනවල අ.පො.ස.උසස් පෙළ විභාගය පැවැත්වීමට අදාළව සංශෝධනය කරන ලද විභාග  කාල සටහන විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+එමෙන්ම දෙසැම්බර් 04 දා සිට 20 දක්වා  පෙර කාල සටහනේ සඳහන් විෂයන් එම දිනවල  නියමිත ලෙස පැවැත්වෙන බවද විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ලා දුඹුරු පැහැයෙන් නිකුත් කර ඇති මෙම සංශෝධිත කාල සටහනේ පිටපතක් උසස් පෙළ සියලුම    අපේක්ෂකයන් සඳහා සාමාන්‍ය පොදු පරීක්ෂණ ප්‍රශ්න පත්‍රය පැවැත්වෙන  දෙසැම්බර් 07 දා විභාග මධ්‍යස්ථානවලදී   ලබා දෙන බවද ඒ ඒ අපේක්ෂකයන් සඳහා තමන්ට නියමිත විෂයන් සඳහාවූ කාල සටහන විහාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියෙන් විභාග අංකය හෝ ජාතික හැඳුනුම්පත් අංකය භාවිතා කර  බාගත කර ගැනීමට පහසුකම් සලසන බවද විභාග කොමසාරිස් ජනරාල් එච්.ජේ.එම්.සී. අමිත් ජයසුන්දර මහතා  මහතා  පැවසීය
+
+◼️
+
+[Data](articles/1969ea09.json)
 
 ---
 
@@ -2351,177 +2499,5 @@ Commenting on this, the People's Congress leader Rishad, who was unable to go to
 [Data](articles/0b265dea.json)
 
 [Extended Data](ext_articles/0b265dea.ext.json)
-
----
-
-### Heavy cold and snowfall in Central Province!
-
-*2024-11-28 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199937) · `ta`
-
-Central Province hit by heavy cold and snowfall. 3,077,511 people from 1,013,520 families affected by rains and floods, according to Disaster Management Center.
-
-🟩
-
-At the same time, 3 million 77 thousand 511 people from one million 13 thousand 52 families have been affected by disasters such as rain and floods, the Disaster Management Center said.
-
-◼️
-
-[Data](articles/dd84d360.json)
-
-[Extended Data](ext_articles/dd84d360.ext.json)
-
----
-
-### 2 more examinations back
-
-*2024-11-28 15:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-2-பரீட்சைகள்-பிற்போடப்பட்டன/175-347933) · `ta`
-
-Two state exams in Sri Lanka delayed due to weather. First efficiency exam for senior statistics rescheduled for 2024. Original dates were Dec 1-2. New dates to be announced soon.
-
-🟩
-
-The Department of Examinations has announced that two state exams have been delayed due to inclement weather in Sri Lanka.
-
-The Commissioner General of Examinations Amit Jayasundera has announced that the first efficiency examination for senior statistics of the Department of Senior Statistics of the Department of Ceylon and Census and Statistics has been postponed for 2024.
-
-Amit Jayasundera told the media that the exams were first scheduled for on December 01 and 02 and that the examiners from many parts of the country will be attending Colombo for examinations.
-
-However, due to inclement weather, various areas have been severely affected, he said.
-
-Amit Jayasundara added that the re -scheduled dates of the exams will be announced soon.
-
-◼️
-
-[Data](articles/d1144e5b.json)
-
-[Extended Data](ext_articles/d1144e5b.ext.json)
-
----
-
-### South Africa first innings limited to 191
-
-*2024-11-28 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203839) · `si`
-
-South Africa scored 191 runs in their first innings. Sri Lanka won the toss and bowled first. Asapitha Fernando took 3 wickets for 44 runs. Match ongoing at Kingsmead Stadium.
-
-🟩
-
-South Africa won the first innings in the first Test match between the Sri Lanka Tourism and South African.
-
-The match will be held at the Kingsmead Stadium of Durban, South Africa, and today (28) the second day of the match.
-
-He was unable to consecrate 70 runs and collect 24 runs while Keshawa Mahajaraj scored 24 runs.
-
-A successful bowler for Sri Lanka, Asapitha Fernando took 3 wickets for 44 runs and Lahiru Kumara took 3 wickets for 70 runs.
-
-In addition to both of them, universal Fernando (2/35) and Prabath Jayasuriya took 2 wickets each.
-
-Sri Lanka Leader Dhananjaya de Silva won the toss and invited the African team to bat first yesterday.
-
-The match had to be completed as the rain was laid down.
-
-At that time South African was 80 runs for the loss of 4 wickets.
-
-◼️
-
-[Data](articles/62c892c0.json)
-
-[Extended Data](ext_articles/62c892c0.ext.json)
-
----
-
-### Prison for a trader who spread fake information
-
-*2024-11-28 15:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலித்-தகவல்களை-பரப்பிய-வர்த்தகருக்கு-சிறை/175-347932) · `ta`
-
-Businessman sentenced 6 months suspended jail for spreading false info on social media about former State Minister. Fined Rs 5000, must remove posts within 24 hours. Conditional ban imposed under Internet Security Act.
-
-🟩
-
-A businessman has been sentenced to 6 months suspended for spreading false information on social media about former State Minister Khadar Mastan on complaints filed under the Conservation Protection Act.
-
-The businessman has been accused of spreading the soundtracks on the former diplomatic minister on social media sites such as Facebook and WhatsApp.
-
-Colombo Chief Magistrate Thilina Kamage, who issued the order, suspended the sentence for five years and ordered the suspect to be fined Rs 5,000.
-
-In addition, the judge has ordered the suspect to immediately remove all his reports on social media regarding the former Minister of State.
-
-Colombo Chief Magistrate Mannar has issued a conditional ban on the complaint filed by former Minister of State Qatar Mastan under the Internet Security Act.. President Attorney Ali Sabri appeared on the petitioner.
-
-◼️
-
-[Data](articles/0217f215.json)
-
-[Extended Data](ext_articles/0217f215.ext.json)
-
----
-
-### South Africa restricts Sri Lankan bowlers at 191 in their first innings
-
-*2024-11-28 15:39:28* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකා-පළමු-ඉනිම-ලකුණු-191ට-ශ්‍රී-ලංකා-පන්දු-යවන්නන්-සීමා-කරයි/9-413339) · `si`
-
-South Africa restricted to 191 runs in first innings against Sri Lanka. Lahiru Kumara and Asitha Fernando took 2 wickets each, Prabath Jayasuriya also claimed 2 wickets. Second day of Test match begins.
-
-🟩
-
-The second day of the first Test match between the Sri Lanka Tourism Sri Lanka and South Africa will be held.
-
-Sri Lanka bowlers to limit the first innings in South Africa to 191 in 191.
-
-Lahiru Kumara and Asapitha Fernando took 2 wickets each and Prabath Jayasuriya took 2 wickets each.
-
-◼️
-
-[Data](articles/4fd24de9.json)
-
-[Extended Data](ext_articles/4fd24de9.ext.json)
-
----
-
-### Tax pole in 10 islands in 10 islands in 10 islands in Kalpitiya
-
-*2024-11-28 15:39:07* · [`adalk`](https://www.ada.lk/breaking_news/බද්දට-දුන්-කල්පිටියේ--දූපත්-10-කින්-රුපියල්-කෝටි-නවයක-බදු-පොල්ලක්/11-413338) · `si`
-
-Sri Lanka Tourism Development Authority fails to recover tax on Kalpitiya island leases. Audit report highlights unpaid taxes since 2018 due to infrastructure delays and restrictions imposed by the fishing community.
-
-🟩
-
-The National Audit Office reveals that the Sri Lanka Tourism Development Authority has failed to recover tax on a seven-year tax investment companies in seven years of tax on tourism.
-
-A Audit Report issued a total of 12 acres of Kalpitiya, which has been leased out of seven of the islands in a tenure of 12 islands in the year 2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010.
-
-The audit points out that all the lessers have not started operations yet and that the Taxes' Authority has paid from 2018 has not yet been paid for leasing.
-
-The circuit development authority responded to the Audit Office that the progress initiated by the fishing community, restricting the islands, infrastructure and delay due to the delay in the fisheries community, and delay.
-
-◼️
-
-[Data](articles/8bc2ba31.json)
-
-[Extended Data](ext_articles/8bc2ba31.ext.json)
-
----
-
-### SriLankan Airlines wins Tamil Nadu tourism’s top honor
-
-*2024-11-28 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103844/srilankan-airlines-wins-tamil-nadu-tourisms-top-honor) · `en`
-
-SriLankan Airlines has been recognized as the ‘Best Airline Partner’ by Tamil Nadu Tourism, as announced on Thursday.
-
-This prestigious award highlights the airline’s pivotal role in enhancing the region’s tourism.
-
-An official statement from SriLankan Airlines emphasized their contribution, stating that the airline operates 35 weekly flights connecting Chennai, Tiruchirappalli, and Madurai in Tamil Nadu with Colombo.
-
-This schedule supports a variety of travelers, ranging from shoppers and pilgrims to those seeking medical treatment.
-
-Dimuthu Tennakoon, Head of Worldwide Sales and Distribution, expressed pride in receiving this accolade, underscoring the airline’s steadfast dedication to providing excellent service and regional connectivity.
-
-He noted the potential for Tamil Nadu to evolve into a leading travel destination, further expanding SriLankan Airlines’ influence in the area.
-
-...
-
-[Data](articles/807c9c3d.json)
-
-[Extended Data](ext_articles/807c9c3d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 20:14:36**
+As of **2024-11-29 21:01:07**
 
 ## Newspaper Stats
 
-*Scraped **57,630** Articles*
+*Scraped **57,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,251 @@ dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,443
 adaderanalk | 6,981
-tamilmirrorlk | 8,195
-virakesarilk | 9,412
-adaderanasinhalalk | 9,949
+tamilmirrorlk | 8,196
+virakesarilk | 9,418
+adaderanasinhalalk | 9,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,630 (100.0%) of 57,630 articles have been extended.
+57,638 (100.0%) of 57,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### Compensation for affected farmers
+
+*2024-11-29 20:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்ட-விவசாயிகளுக்கு-இழப்பீடு/175-347987) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Agriculture Deputy Minister Namal Karunaratne announced compensation for flood-hit farmers: 40,000 rupees per crop (rice, wheat, potatoes, onions, chili, soybeans). 4,800 acres affected; 3,900 more impacted. Relief measures underway.
+
+🟩
+
+The Deputy Minister of Agriculture has said that a maximum of 40,000 rupees will be given to the perpetrators of floods, rice, wheat, potatoes, big onions, chilli and soy beans.
+
+Meanwhile, Deputy Minister of Agriculture Namal Karunaratne said that the farmers affected by the rainy weather in the country will be given proper relief.
+
+He also pointed out that 4,800 acres of agriculture have been completely affected due to inclement weather and 3,900 acres.. Remble
+
+◼️
+
+[Data](articles/5e1f12ca.json)
+
+[Extended Data](ext_articles/5e1f12ca.ext.json)
+
+---
+
+### South Korea's job racket in South Korea
+
+*2024-11-29 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203878) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+South Korea job scam exposed: Ada Derana accused of misleading E7/E8 visa approvals. Sri Lanka's Foreign Employment Bureau investigates illegal recruitment in Angunakolapelessa. Two suspects arrested, court remanded. No legitimate Korean job offers received regarding E7/E8 visas.
+
+🟩
+
+Ada Derana was hawlled for a deceptive racket that the E7 and E8 visas were not approved from South Korea.
+
+The country was revealed to the country during a number of occasions as a 'Derana' hawk 'hawk.
+
+The Foreign Employment Bureau had received information that two people would illegally engage in the Angunakolapelessa area.
+
+Accordingly, the raid officers went to Angunakolapelessa in Angunakolapelessa with Ada Derana.
+
+A maid of Korean employment opportunities explained to the Foreign Employment Institute.
+
+"Only weldies are sent to Korea. Send three months. Then you find a bank lort of Rs. 25 lakhs. Go there to teach the laangey. 8 lakhs. "
+
+On that information, our related workshop went to the hotel that was illegal and two people, two people, explaining the Korean employment opportunities for a group.
+
+The two suspects were arrested by the officers of the Foreign Employment Bureau.
+
+They were revealed that they had not failed a job license at another institution.
+
+...
+
+[Data](articles/fdbe7a4b.json)
+
+[Extended Data](ext_articles/fdbe7a4b.ext.json)
+
+---
+
+### Mahaoyayil man arrested with domestic gun
+
+*2024-11-29 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200037) · `ta`
+
+Man, 44, arrested with local firearm in Mahaoya area. Detained during police operation, transferred to Mahaoya station for investigation.
+
+🟩
+
+A man was arrested on Thursday (28) with a domestic gun in the Haraskala area of ​​the Arandalawa and Mahaoya police division.
+
+He was arrested during a raid conducted by a team of officials of the Arandalawa Police Special Task Force Base.
+
+The suspect was 44 years old from Mahaoya area.
+
+Subsequently, the arrested person has been handed over to the Mahaoya police station for further investigations.
+
+◼️
+
+[Data](articles/ce73e0d2.json)
+
+[Extended Data](ext_articles/ce73e0d2.ext.json)
+
+---
+
+### Japanese assistance to Katunayake airport
+
+*2024-11-29 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200039) · `ta`
+
+Japan donates $8.4m aid to Katunayake airport: ambulances, scanners, toilets, medical gear. Part goes to Maldives, Colombo Port.
+
+🟩
+
+A total of US $ 8.4 million worth of goods and equipment donated by the Japanese government was handed over to the airport officials at the Katunayake airport gold route terminal on Friday (29).
+
+These donations were found in ambulances, garbage carts, self-loaded garbage bins, recent C-2 technical passenger package scanners, toilet systems, medical equipment, electronic gate for immigration officers, passport scanners and digital boards.
+
+Japanese Ambassador to Sri LankaAttended the event.
+
+It is noteworthy that part of this assistance will be provided to the Maldives and the Colombo Port.
+
+◼️
+
+[Data](articles/13fee97b.json)
+
+[Extended Data](ext_articles/13fee97b.ext.json)
+
+---
+
+### Youth arrested by Terrorist Prevention Unit for Facebook
+
+*2024-11-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200045) · `ta`
+
+Youth arrested by Terrorist Prevention Unit for Facebook activity in Jaffna. Police investigating further.
+
+🟩
+
+A youth from the Jaffna Ambuvil area has been arrested by the Terrorist Prevention Unit.
+
+Police sources say that the Terrorist Prevention Unit is carrying out further investigations by detaining the arrested person in Jaffna.
+
+The Terrorist Prevention Unit, who went to the home of some other people, said that they were investigating the Facebook record.
+
+◼️
+
+[Data](articles/4760a789.json)
+
+[Extended Data](ext_articles/4760a789.ext.json)
+
+---
+
+### Bad weather for 15 lives
+
+*2024-11-29 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203877) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Bad weather causes 15 deaths on island. Science department aims to reduce impact. Landslide risks increase. Meteorological department warns of pressure drop affecting Tamil Nadu coast.
+
+🟩
+
+The Democratic Department of Science departments are expected to decrease the impact of the island's weather in the South Bay Bay of Bay of Bay of Bay of Bay of Baying.
+
+15 people lost their lives in the island during the past few days.
+
+Meanwhile, landslide risk anniversaries are further impacted and has been removed.
+
+Meanwhile, the Department of Meteorological Department states that the depositive pressression recession in the Bay of Bay of Bay Bay Bay Bay Bay Bay of Bay of Bay of Baying Sea will lead to Tamil Nadu coast.
+
+◼️
+
+[Data](articles/829fc8be.json)
+
+[Extended Data](ext_articles/829fc8be.ext.json)
+
+---
+
+### England and New Zealand are equal to equal color
+
+*2024-11-29 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200044) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+England vs New Zealand Test match: England scored 319/5 in response to NZ's 348. Harry Brook & Ollie Pope shared key partnerships. Ben Stokes supported with 37*. NZ bowlers Brevo Cars & Shubashir took 8 wickets.
+
+🟩
+
+The first Test cricket match between England and New Zealand at the Christchurch Hegli Oval Stadium is equal to equal quantities.
+
+In response to New Zealand's 348 runs in the first innings, England scored 319 runs for the loss of 5 wickets at the end of the 2nd day.
+
+Harry Brook's gaze and the half -century of the Ollie Pope made England in good condition.
+
+Jacob Bethel (10), Joe Root (0) and Ben Docket (46) were constantly playing in a regular interval. (71 - 4 wig.)
+
+Harry Brooke and Ollie Pope then shared 151 runs in the 5th wicket.
+
+After losing the Pope, Brooke and team captain Ben Stokes shared 97 runs in the 6th wicketless 6th wicket raised to 319 runs.
+
+Harry Brook did not play with 132 pounds, 2 sixes and Ben Stokes 37.
+
+Earlier, on the second day of the match, New Zealand lost all wickets for 348 runs for the loss of 319 runs for the loss of 8 wickets.
+
+Kane Williamson scored 93 runs, Dom Letham 47 and Rachin Ravindra 34 runs.
+
+...
+
+[Data](articles/ff6b66fc.json)
+
+[Extended Data](ext_articles/ff6b66fc.ext.json)
+
+---
+
+### Shahrujan, half -century in the Asian bowl under the age of 19;Sri Lanka won Nepal
+
+*2024-11-29 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200043) · `ta`
+
+Sri Lanka U19 won Asian Bowl vs Nepal: Shahrujan 62*, Lakwin 79*; Nepal 234/10 in 46.2 overs.
+
+🟩
+
+Sri Lanka won by 55 runs in the Asian Bowens under the age of 19 against Nepal on Friday (29) at the Sharjah Cricket Stadium in the United Arab Emirates.
+
+The half -centuries of Shanmuganathan Shah Rujan and Lakwin Abeysinghe, the accurate bowling of Praveen Manisha, Ranjit Kumar Newton and Kukadas Madulan made Sri Lanka easier.
+
+Sri Lanka, who was first invited to bat in the upting match, lost all wickets in 50 overs and scored 233 runs.
+
+St. Blessed Team Leader Sharujan scored 62 runs off 99 balls.
+
+Sharujan shared 41 runs with Vimath Dinsara in the 3rd wicket and shared 79 runs with Lakwin Abeysinghe in the 4th wicket.
+
+Kavija Kamage scored 37 runs and Dulnit Sighera 24 runs than Sharujan and Lakwin.
+
+Nepal scored 234 runs and scored 178 runs for the loss of all wickets in 46.2 overs.
+
+Mayan Yadav scored 62 runs off 90 balls and 2 sixes in 90 balls. Although six players got double digit numbers, they were unable to reach 20 runs.
+
+...
+
+[Data](articles/ef1299aa.json)
+
+[Extended Data](ext_articles/ef1299aa.ext.json)
+
+---
 
 ### Farmers to be compensated for crop damage due to bad weather
 
@@ -53,6 +285,32 @@ He also said that data on crop damage will be collected after the adverse weathe
 [Data](articles/49c0857b.json)
 
 [Extended Data](ext_articles/49c0857b.ext.json)
+
+---
+
+### මිදිගම රුවන් රක්ෂිත බන්ධනාගාර ගත කෙරේ
+
+*2024-11-29 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203876) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ජයසේකර විතානගේ රුවන් චාමර නොහොත් මිදිගම රුවන් නැමැත්තා අද (29) දින කොටුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කළේය.
+
+එහිදී ඔහුව දෙසැම්බර් 13 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගතකළ බව අප අධිකරණ වාර්තාකරු පැවසීය.
+
+රුවන්, නඳුන් චින්තක නොහොත් හරක් කටාගේ බිරිඳගේ සහෝදරයා වන අතර ඔහුගේ උපදෙස් මත සිදුකළ අපරාධ රැසකම මහමොළකරු ලෙසත් කටයුතු කර ඇති බව පොලීසිය පවසයි.
+
+හරක් කටා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් පැනයාමට ගත් උත්සාහයේ සැලසුම්කරු ලෙසද මිදිගම රුවන් හඳුනාගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+
+ත්‍රස්ත මර්දන කොට්ඨාස නිලධාරී කණ්ඩායමක් විසින් පසුගිය මැයි 31වනදා රුවන් ව ඩුබායිහි සිට දිවයිනට රැගෙන එනු ලැබීය‍.
+
+අනතුරුව ඔහු කොළඹ ත්‍රස්ත මර්දන කොට්ඨාසය වෙත රැගෙන ගොස් ප්‍රශ්න කර තිබුණි.
+
+මිදිගම රුවන් පසුගිය අප්‍රේල් මාසයේදී ඩුබායීහී රාත්‍රී සාමාජ ශාලාවක ඇතිවූ ගැටුමක් හේතුවෙන් එරට පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ ඔහුට එරෙහිව ජාත්‍යන්තර පොලීසිය මඟින් රතු නිවේදන නිකුත්කර තිබියදීය.
+
+...
+
+[Data](articles/fe9282e5.json)
 
 ---
 
@@ -195,6 +453,26 @@ Parthiban is accused of murdering a top official at this moment. There he wants 
 [Data](articles/e435f01d.json)
 
 [Extended Data](ext_articles/e435f01d.ext.json)
+
+---
+
+### அமைச்சர் விஜித ஹேரத் கொழும்பு மேல் நீதிமன்றில் ஆஜர் !
+
+*2024-11-29 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200020) · `ta`
+
+இலஞ்ச ஊழல் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கு தொடர்பில் சாட்சியமளிப்பதற்காக அமைச்சர் விஜித ஹேரத் கொழும்பு மேல் நீதிமன்றத்தில் இன்று வெள்ளிக்கிழமை (29) ஆஜராகியுள்ளார்.
+
+கடந்த நல்லாட்சி அரசாங்கத்தின் போது அபிவிருத்தி லொத்தர் சபை ஏற்றுக்கொள்ளப்பட்ட விலைமனு கோரல் முறைக்கு மாறாக பல தனியார் நிறுவனங்களுக்கு லொத்தர் ஊக்குவிப்பு பணிகளை ஒப்படைத்து அரசாங்கத்திற்கு நஷ்டத்தை ஏற்படுத்தியதாக குற்றம் சுமத்தி அதன் முன்னாள் தலைவர் சந்திரவன்ச பதிராஜவிற்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு வழக்கு தாக்கல் செய்திருந்தது.
+
+இந்த வழக்கு தொடர்பில் முறைப்பாடு ஒன்றை சமர்ப்பித்திருந்த அமைச்சர் விஜித ஹேரத்தை இன்றைய தினம் சாட்சியமளிக்க நீதிமன்றில் முன்னிலையாகுமாறு உத்தரவிடப்பட்டிருந்தது.
+
+இதன்போது முன்வைக்கப்பட்ட சமர்ப்பணங்களை பரிசீலித்த கொழும்பு மேல் நீதிமன்ற நீதிபதி, ஆர்.எஸ்.எஸ்.சபுவித சாட்சிய விசாரணையை பெப்ரவரி 5 ஆம் திகதிக்கு ஒத்திவைத்துள்ளார்.
+
+மேலும் , அன்றைய தினம் அமைச்சர் விஜித ஹேரத்தையும் நீதிமன்றத்தில் ஆஜராகுமாறு உத்தரவிடப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c38f07a6.json)
 
 ---
 
@@ -2307,265 +2585,5 @@ The Irrigation Department has extended flood warnings for Mahaweli Ganga, Heda O
 [Data](articles/ffde33a3.json)
 
 [Extended Data](ext_articles/ffde33a3.ext.json)
-
----
-
-### Sri Lanka should not submit to the pressures of the outskirts, and follow the independent foreign policy - Chinese Ambassador's request
-
-*2024-11-29 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199970) · `ta`
-
-Chinese Ambassador Qi Jenhang urges Sri Lanka to pursue independent foreign policy, resisting external pressures during economic crisis.
-
-🟩
-
-Chinese Ambassador to Sri Lanka Qi Jenhang has appealed to Sri Lanka to adopt an independent foreign policy.
-
-He has appealed to Sri Lanka to adopt an independent foreign policy, especially when some parties take advantage of the economic situation in Sri Lanka.
-
-The Chinese Ambassador to Sri Lanka said that some of the world's countries have told Sri Lanka that the help of foreign countries to recover from the current economic crisis of Sri Lanka should be focused on maintaining relations with colleagues like China.
-
-"As for Sri Lanka, China has no personal agenda, and we are sure that the agenda of the Sri Lankan people will help Sri Lanka's help to become an independent country and face the pressures of the foreign powers," he said.
-
-◼️
-
-[Data](articles/f23a33d8.json)
-
-[Extended Data](ext_articles/f23a33d8.ext.json)
-
----
-
-### Two Sri Lankan flags falling drugs
-
-*2024-11-29 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203856) · `si`
-
-Indian Navy spokesperson arrested with 500kg methamphetamine and two Sri Lankan flags. Joint operation with Sri Lanka Navy. Drugs and flags to be handed over to Sri Lankan authorities.
-
-🟩
-
-The Indian Navy Media Spokesperson has been arrested by the Indian Navy Media Spokesman, which had 500 kilograms of crystal Meth, two Sri Lankan flags.
-
-According to an intelligence information received by the Sri Lanka Navy, the two vessels of the Arabian sea were arrested in a joint venture.
-
-The two drugs with drugs arrested with the people will be handed over to the Sri Lankan authorities for further legal.
-
-◼️
-
-[Data](articles/b7131285.json)
-
-[Extended Data](ext_articles/b7131285.ext.json)
-
----
-
-### Nintavur Arabic Madrasa's Chancellor, Teacher
-
-*2024-11-29 10:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிந்தவூர்-அரபு-மத்ரஸாவின்-அதிபர்-ஆசிரியருக்கு-விளக்கமறியல்/175-347969) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nintavur Arabic Madrasa officials arrested over plowing machine accident. Five students killed when vehicle crashed into stream. Bodies recovered; search ongoing for missing student. Driver and another person also dead. Road reopens as water level drops.
-
-🟩
-
-The Magistrate's Magistrate has ordered the other two persons to go on bail of Nintavur Arabic Mathrasa's Chancellor and teacher until December 2.
-
-The Nindavur Madrasa teacher and assistants were arrested on Thursday (28) as the Akkaraipattu officer headed by the Akkaraipattu officer in connection with the flooding of the plowing machine near the Karadivu Mavadipalli Bridge in Ampara, Ampara.
-
-The suspects were taken to the Samanthurai Police Station and were produced before MR Sabir Ahmed in response to the Samanthurai Sumanthurai court.
-
-The other two assistants were released on bail of Rs.
-
-Nindavur Kashibul Ulum Charity College Madrasa on Tuesday (26) has been instructed by the students to go home and the administration has been instructed and the administration has been acting in a state of disrepair.
-
-It has also been revealed that the soldiers have been advised not to carry children in the plowing machine because the road is dangerous.
-
-...
-
-[Data](articles/90eb0c13.json)
-
-[Extended Data](ext_articles/90eb0c13.ext.json)
-
----
-
-### Mountain in Nawalapitiya
-
-*2024-11-29 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203855) · `si`
-
-N
-
-🟩
-
-Traffic on the road with a large mound with a large mound with a large mound to the Navalapitiya road has been completely stopped.
-
-The earth was collapsed in the Weligodawatta area on this morning.
-
-Electricity has already stopped a number of areas in Nawalapitiya due to the collapse of the mound of the mound.
-
-◼️
-
-[Data](articles/63596bf2.json)
-
-[Extended Data](ext_articles/63596bf2.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.55/65 to dollar, bond yields up
-
-*2024-11-29 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-55-65-to-dollar-bond-yields-up-145501/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 290.55/65 to the US dollar on Friday from 290.70/80 to the US dollar on Thursday dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 was quoted at 9.50/60 percent, up from 9.40/60 percent.
-
-A bond maturing on 15.12.2027 was quoted at 10.25/32 percent, up from 10.20/30 percent.
-
-A bond maturing on 15.10.2028 was quoted at 10.52/55 percent, up from 10.45/55 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 10.70/85 percent.
-
-In equities, the All Share Price Index was up 0.26 percent or 33.78 points, at 13,198. The more liquid S&P SL20 was up 0.49 percent, or 19.12 points, at 3,936.
-
-◼️
-
-[Data](articles/00212a7b.json)
-
-[Extended Data](ext_articles/00212a7b.ext.json)
-
----
-
-### Indian and Sri Lankan Navy seize 500 kg of crystal meth from fishing boats
-
-*2024-11-29 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103857/indian-and-sri-lankan-navy-seize-500-kg-of-crystal-meth-from-fishing-boats) · `en`
-
-In a well-coordinated operation, the Indian Navy, in collaboration with the Sri Lankan Navy on Friday successfully seized approximately 500 kg of narcotics, identified as Crystal Meth, from two fishing boats in the Arabian Sea.
-
-This combined operation followed intelligence received from the Sri Lanka Navy, indicating possible narcotics smuggling by Sri Lankan flagged fishing vessels.
-
-Acting swiftly on the intelligence, the Indian Navy initiated an operation to intercept the boats involved. The operation relied on continuous inputs from the Sri Lanka Navy and the Information Fusion Centre - Indian Ocean Region, along with extensive surveillance by the Indian Navy’s aerial assets.
-
-These efforts led to the identification of two fishing boats suspected of being involved in the illegal activity.
-
-Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
-
-◼️
-
-[Data](articles/06d12378.json)
-
-[Extended Data](ext_articles/06d12378.ext.json)
-
----
-
-### ICC Final Decision on Champions Trophy?
-
-*2024-11-29 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203854) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-ICC meets today to decide Champions Trophy fate. Controversy surrounds India's refusal to play in Pakistan. Proposals: keep matches in Pakistan, move all games to another country, or hold tournament without India. Sports Vicaries report says final decision unlikely to negatively impact the tournament financially and commercially. The inaugural event was held in 2017, with the next one scheduled from Feb 19 to Mar 9, 2024.
-
-🟩
-
-The International Cricket Council is scheduled to meet today (29) to meet the final decision on Pakistan, or to take a final decision on the champion cricket tournament.
-
-The Indian Cricket Team has been controversial due to the refusal of the Indian cricket to go to Pakistan.
-
-As a result, the recent proposals have been taken into consideration the number of proposals. C. A special attention has been made in three CD decisions.
-
-One of the suggestions is to maintain more competitions in Pakistan and conduct only India played outside Pakistan.
-
-Another suggestion is to hold the entire tournament in another country under the host of Pakistan.
-
-The final proposal is that if India does not come to Pakistan to play the tournament, the entire tournament is being held in Pakistan without them.
-
-However, it has already been published on sports vicaries that the final resolution is largely not working.
-
-They say that there is no negative impact on the tournament.
-
-...
-
-[Data](articles/26192aff.json)
-
-[Extended Data](ext_articles/26192aff.ext.json)
-
----
-
-### Man snatched by crocodile in Pottuvil
-
-*2024-11-29 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103856/man-snatched-by-crocodile-in-pottuvil) · `en`
-
-A man has reportedly been snatched by a crocodile in the Crocodile Rock area of Pottuvil police division.
-
-A complaint was lodged at the Pottuvil Police Station last evening (28), reporting that a crocodile had snatched an individual herding buffaloes across the Duuwa River near the Crocodile Rock area.
-
-A 41-year-old resident of the Pasarachchena area was involved in the incident.
-
-The police and the Panama Navy Camp officials are conducting joint operations to find the missing person.
-
-◼️
-
-[Data](articles/e5e1fa77.json)
-
-[Extended Data](ext_articles/e5e1fa77.ext.json)
-
----
-
-### Government resolution rather than auctioning high luxury vehicles
-
-*2024-11-29 09:44:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-சொகுசு-வாகனங்களை-ஏலத்தில்-விட-அரசாங்கம்-தீர்மானம்/175-347968) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Gov't resolves to sell 254 luxury vehicles instead of auctioning. Vehicles will be bid on with Cabinet approval. High maintenance costs & mostly used by ex-ministers."
-
-🟩
-
-The government has decided to bid about 254 luxury vehicles belonging to the ministries.
-
-Minister of Public Security and Parliamentary Affairs Ananda Wijepala said that luxury vehicles are expected to be auctioned off with the Cabinet and Government Evaluation Certificate.
-
-The government has to carry a huge cost of maintaining these luxury vehicles and most of them have been used by former ministers.R
-
-◼️
-
-[Data](articles/8b557f39.json)
-
-[Extended Data](ext_articles/8b557f39.ext.json)
-
----
-
-### Here is 10 sluice gates of Rajangana - Here is the status of other reservoirs
-
-*2024-11-29 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203853) · `si`
-
-Rajanganaya reservoir: 10 sluice gates opened due to heavy rains. Water released to Tappage. Other reservoirs affected: Wimalasuradura, Castlereage, MouseSackle. Hydroelectric plants operating at max capacity. Lowland areas impacted by Nachchaduuwa reservoir opening.
-
-🟩
-
-10 sluice gates of the Rajanganaya reservoir have been opened due to inclement weather.
-
-Our correspondent says that due to heavy rains, the Anuradhapura district has a profound effect on the Anuradhapura district.
-
-It is reported that the 10-sluice gates of the Rajanganaya reservoir will be released to the Tappage to the Tappage to the Tappage.
-
-The Northern Bridge Wimalasuradura reservoir continues to raise further excessive rain in the central hills.
-
-The reservoir has also been close to the catchment area of ​​the Castlereage and the MouseSackle Reservoir.
-
-With the increase in the water level of both reservoirs, the engineers in charge of Hydroene, Laxapana and Polapitiya Hydroelectric Power Plants are being carried out in the maximum capacity.
-
-The irrigation engineering official has informed the people of lowlands on both sides of the Malwathu Oya due to the opening of all sluice gates of the Nachchaduuwa reservoir.
-
-Thus, the Malwathu Oya released 2,140 feet transferred to the Malwathu Oya.
-
-...
-
-[Data](articles/367a88f1.json)
-
-[Extended Data](ext_articles/367a88f1.ext.json)
 
 ---

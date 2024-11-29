@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 14:16:11**
+As of **2024-11-29 13:42:53**
 
 ## Newspaper Stats
 
-*Scraped **57,574** Articles*
+*Scraped **57,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,121 +16,57 @@ islandlk | 3,452
 economynextcom | 3,503
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,442
+adalk | 5,441
 adaderanalk | 6,973
 tamilmirrorlk | 8,191
 virakesarilk | 9,388
-adaderanasinhalalk | 9,937
+adaderanasinhalalk | 9,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,570 (100.0%) of 57,574 articles have been extended.
+57,565 (100.0%) of 57,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
 
-### Requests of Chinese projects called white elephants - Chinese Ambassador
-
-*2024-11-29 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203863) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Chinese Ambassador: Some projects not utilized due to operational issues. Lotus Tower profitable, Hambantota & Colombo ports to benefit SL. Colombo Port City project fully invested. Debts not traps, based on friendship. China to provide aid independently. Free Trade Agreement signing delayed due to SL's revision needs. China supported SL during COVID.
-
-🟩
-
-Chinese Ambassador to Sri Lanka, Chinese Ambassador to Sri Lanka, says that the massive projects implemented in Sri Lanka under Chinese financial assistance, Sri Lanka's ambassador to Sri Lanka's Chinese Ambassador to Sri Lanka.
-
-The Ambassador made this statement at a meeting with a delegation with a delegation from the media institution last evening.
-
-Chinese Ambassador to China, Chinese Ambassador, joined a meeting with a group of media institutions yesterday (28).
-
-The Ambassador said that some projects have not been properly utilized due to the poor operation of the Sri Lankan party in weaknesses.
-
-For example, the Lotus tower project that has leased to a private company has begun to make profits, and it has become a symbol of Sri Lanka.
-
-He also pointed out that China's Hambantota port and the Colombo Port will earn the Sri Lankan government.
-
-The Colombo Port City project was a fully Investment of the Colombo Port City project, he said that it was not spent in Sri Lanka.
-
-...
-
-[Data](articles/5ce283a5.json)
-
-[Extended Data](ext_articles/5ce283a5.ext.json)
-
----
-
-### 344 families in Nuwara Eliya due to inclement weather, 1,297 people
+### சீரற்ற வானிலையால் நுவரெலியாவில் 344 குடும்பங்கள், 1,297 பேர் பாதிப்பு
 
 *2024-11-29 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199991) · `ta`
 
-Here's a 200-character summary:
+நுவரெலியா மாவட்டத்தில் தொடர்ச்சியாக பெய்துவரும் அடைமழையால் ஏற்பட்ட வெள்ளப்பெருக்கு மற்றும் ஏனைய அனர்த்தங்களால் இன்று வெள்ளிக்கிழமை (29) காலை 10 மணி வரையான காலப்பகுதியில் 344 குடும்பங்களை சேர்ந்த 1,297 பேர் பாதிக்கப்பட்டுள்ளதாக நுவரெலியா மாவட்ட அரசாங்க அதிபர் நந்தன கலபொட தெரிவித்துள்ளார்.
 
+மேலும், 204 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதால் அங்கு வசித்துவரும் 117 குடும்பங்களைச் சேர்ந்த 462 பேர் ஒன்பது தற்காலிக இடைத்தங்கல் முகாம்களில் பாதுகாப்பாக தங்க வைக்கப்பட்டு, அவர்களுக்கான உணவு மற்றும் ஏனைய அத்தியாவசிய பொருட்கள் வழங்கப்பட்டு வருவதாகவும் அவர் குறிப்பிட்டுள்ளார்.
 
+மண்சரிவு அபாயம் காரணமாக  நுவரெலியா கொட்லோட்ஜ் தோட்டம் சமர்ஹில் பாடசாலையில் அமைந்துள்ள தற்காலிக இடைத்தங்கல் முகாம்களில் 32 குடும்பங்களைச் சேர்ந்த 153 பேர் தங்கவைக்கப்பட்டுள்ளனர்.
 
-344 families (1,297 people) affected in Nuwara Eliya floods. 204 houses damaged. 462 people in temporary shelters. Landslide risk housing 153+54+60+36. Municipal efforts underway to drain water.
-
-🟩
-
-Nuwara Eliya District Government Agent Nandana Kalapoda said that 1,297 people from 344 families have been affected by the floods and other disasters in the Nuwara Eliya district on Friday (29).
-
-In addition, 204 houses have been partially damaged and 462 people from 117 families are safely housed in nine temporary intercourse camps and provided with food and other essential commodities.
-
-Due to the risk of landslide, 153 people from 32 families have been housed in temporary intercourse camps located at Samarhil School, Nuwara Eliya.
-
-54 people from 14 families have been safely housed in the temple due to the risk of landslides at the Kandapalai Congress.
-
-54 out of 14 families have been housed in a safe place established at the Nuwara Eliya Buddhist shrine.
-
-60 people from 21 families have been housed at the Alma Preschool School, Valappanai.
-
-36 people from 6 families have been housed in a safe place at Kotmale Tansinan Korenchi School.
+கந்தப்பளை கொங்கோடியா தோட்டத்தில் மண்சரிவு அபாயம் காரணமாக 14 குடும்பங்களைச் சேர்ந்த 54 பேர் கோவிலில் பாதுகாப்பாக தங்கவைக்கப்பட்டுள்ளனர்.
 
 ...
 
 [Data](articles/86fc18bf.json)
 
-[Extended Data](ext_articles/86fc18bf.ext.json)
-
 ---
 
-### Will the pension of the ministers too?
+### அமைச்சர்களின் ஓய்வூதியமும் பறிபோகும்?
 
 *2024-11-29 13:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-ஓய்வூதியமும்-பறிபோகும்/175-347982) · `ta`
 
-Here's a summary in 200 characters:
+பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்களின் ஓய்வூதியம் மற்றும் வரியில்லா வாகன அனுமதிப்பத்திரத்தை இரத்து செய்வது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளது..
 
+இதேவேளை, தற்போது அமைச்சுக்களுக்குச் சொந்தமான 150 சொகுசு வாகனங்களை விற்பனை செய்வதற்கு அமைச்சரவை அங்கீகாரம் பெற்றுக் கொள்வதற்கான நடவடிக்கை எடுத்து வருவதாகவும், அரசாங்கத் தகவல்கள் தெரிவிக்கின்றன.
 
+பாராளுமன்ற உறுப்பினர்களுக்கு V8 மற்றும் Montero போன்ற சொகுசு வாகனங்களை வழங்குவதில்லை எனவும் அரசாங்கம் தீர்மானித்துள்ளது.
 
-Government cancels parliamentarians' perks, sells 150 luxury vehicles. Ministers' pensions under review. No decision on guns, homes. Committee to assess minister privileges. Official announcement pending.
+அமைச்சர்களின் சம்பளம் மற்றும் கொடுப்பனவுகள் தொடர்பான உண்மைகளை மீளாய்வு செய்த பின்னரே, இது தொடர்பில் முடிவெடுக்கப்படும் என்றும் அதே வட்டாரங்கள் தெரிவிக்கின்றன.
 
-🟩
-
-The government has focused on the cancellation of parliamentarians, ministers' pension and tax -free vehicle license.
-
-Meanwhile, government sources say that the Cabinet is currently taking steps to sell 150 luxury vehicles belonging to the Ministries.
-
-The government has also decided not to provide luxury vehicles such as V8 and Montero to MPs.
-
-The same sources say that the decision will be taken only after reviewing the facts of ministers' salaries and payments.
-
-No decision has been taken so far on providing gun and gun training to MPs and homes for people's representatives.
-
-A special committee was recently appointed by President Anura Kumara Dissanayake to review the privileges of ministers.It is reported that the recommendations of the committee will be decided on the privileges of the ministers.
-
-When asked by a parliamentary official yesterday (28) regarding the privilege of MPs, he said, "The government has not yet issued an official announcement in this regard."
+எம்.பி.க்களுக்கு துப்பாக்கி மற்றும் துப்பாக்கி பயிற்சி வழங்குதல், மக்கள் பிரதிநிதிகளுக்கான வீடுகள் தொடர்பாக இதுவரை எந்த முடிவும் எடுக்கப்படவில்லை.
 
 ...
 
 [Data](articles/075edbd1.json)
-
-[Extended Data](ext_articles/075edbd1.ext.json)
 
 ---
 
@@ -191,18 +127,6 @@ In addition, 102 houses have been completely damaged due to disasters.2,096 home
 [Data](articles/50166be3.json)
 
 [Extended Data](ext_articles/50166be3.ext.json)
-
----
-
-### දූව ගගෙන් මී හරකුන් එගොඩ කරත් කිඹුලකු ඔහුට එගොඩ වීමට නොදෙයි
-
-*2024-11-29 13:02:28* · [`adalk`](https://www.ada.lk/breaking_news/දූව-ගගෙන්-මී-හරකුන්-එගොඩ-කරත්-කිඹුලකු-ඔහුට-එගොඩ-වීමට-නොදෙයි/11-413357) · `si`
-
-දූව ගඟෙන් මීහරකුන් එගොඩ කරවමන් සිටි අයකු පොතුවිල් කෝ‍රකඩයිල් රොක් ප්‍රදේශයේදී කිඹුලෙකු විසින් ඩැහැගෙන ගොස් ඇති බව ඊයේ( 28) දින වාර්ථාවෙයි. මෙම පුද්ගලයා සොයා ගැනීම සඳහා පොතුවිල් පොලිසිය හා පානම නාවික හමුදා කඳවුරේ නිලධාරීන් එක්ව මෙහෙයුම් සිදුකරන බවට වැඩිදුරටත් වාර්ථාවෙයි. අතුරුදන් පුද්ගලයා වයස අවුරුදු 41 ක අයෙකි.
-
-◼️
-
-[Data](articles/86be5cc6.json)
 
 ---
 
@@ -1006,7 +930,7 @@ These efforts led to the identification of two fishing boats suspected of being 
 
 Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
 
-◼️
+...
 
 [Data](articles/06d12378.json)
 
@@ -1727,8 +1651,6 @@ Continuing to move further northwestwards it is very likely to cross north Tamil
 ...
 
 [Data](articles/ffab1c83.json)
-
-[Extended Data](ext_articles/ffab1c83.ext.json)
 
 ---
 
@@ -2479,5 +2401,47 @@ As a result, during the last days, the original officials are removed and the ap
 [Data](articles/660d0f88.json)
 
 [Extended Data](ext_articles/660d0f88.ext.json)
+
+---
+
+### The third phase of the Review of the Officer of the Review of Sri Lanka shows economic improvement - the Sri Lanka Business Federation is proud of
+
+*2024-11-28 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199957) · `ta`
+
+Sri Lanka's economy shows improvement in third phase review. Compliance reached with IMF, paving way for fourth phase funding. Business federation calls for continued restoration efforts to boost sustainable growth.
+
+🟩
+
+The Sri Lanka Chamber of Commerce (Ceylon Chamber of Commerce) has said that Sri Lanka's progress in the implementation of reorganization and rehabilitation of the financial stability is being reached with the International Monetary Finance Officers with the International Monetary Finance Officers in connection with the third phase of the review.
+
+The official level compliance between the Monetary Finance Officers and the Sri Lankan government was reached following the third phase of last week's renovation on the expanded financial project sponsored by the International Monetary Fund.
+
+The Ceylon Chamber of Commerce (Ceylon Chamber of Commerce), which has issued this, said the officer's level of compliance is showing the progress of Sri Lanka in implementing structural restructuring and rehabilitation of the financial restructuring among the economic recovery.
+
+...
+
+[Data](articles/2c8691e8.json)
+
+[Extended Data](ext_articles/2c8691e8.ext.json)
+
+---
+
+### Australia passes social media ban for children under 16
+
+*2024-11-28 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103849/australia-passes-social-media-ban-for-children-under-16) · `en`
+
+Australia passed a law on Thursday to ban social media for children aged under 16 after days of heated debate, setting a standard for other countries to follow in a global push to curb the power of Big Tech.
+
+The law, expected to take effect in November 2025, sets some of the toughest social media controls in the world and will force platforms to take reasonable steps to ensure age-verification protections are in place.
+
+After a parliamentary session that went into the night, the country’s Senate, or upper house of parliament, voted to pass the law after the centre-left Labor government of Prime Minister Anthony Albanese won support from the conservative opposition.
+
+The Senate’s approval for the law is the final legislative hurdle after the lower house, or House of Representatives, passed the bill on Wednesday.
+
+...
+
+[Data](articles/6e54a8d3.json)
+
+[Extended Data](ext_articles/6e54a8d3.ext.json)
 
 ---

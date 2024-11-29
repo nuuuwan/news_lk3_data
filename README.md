@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 04:25:58**
+As of **2024-11-30 04:41:47**
 
 ## Newspaper Stats
 
-*Scraped **57,663** Articles*
+*Scraped **57,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 586
 bbccomsinhala | 601
 islandlk | 3,452
 economynextcom | 3,510
-dailyftlk | 3,970
+dailyftlk | 3,980
 dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,985
@@ -26,11 +26,159 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,663 (100.0%) of 57,663 articles have been extended.
+57,663 (100.0%) of 57,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### JICA technical team visits Viridis to mitigate plastic pollution in Sri Lanka
+
+*2024-11-30 04:37:20* · [`dailyftlk`](https://www.ft.lk/news/JICA-technical-team-visits-Viridis-to-mitigate-plastic-pollution-in-Sri-Lanka/56-769904) · `en`
+
+The JICA technical team for ‘Strengthening plastic management capacity in Sri Lanka’, headed by Dr. Naofumi Sato with members Dr. Paulo Vinicius Queiroz Sousa and Dr. Mohamed Hamza Cherki, visited Viridis to get first-hand experience on recycling efforts.
+
+Central Environment Authority (CEA) Deputy Director General – Solid Waste Chathura Malwana and JICA Project Coordinator Nayana Samaraweera also participated and had a meeting with Viridis Chairman John Martin Stewart Phillips and Managing Director Buddhika Muthukumarana.
+
+...
+
+[Data](articles/9dd4d69f.json)
+
+---
+
+### SMEs showcase at 19th China International Small and Medium Enterprises Fair in Guangzhou
+
+*2024-11-30 04:35:16* · [`dailyftlk`](https://www.ft.lk/business/SMEs-showcase-at-19th-China-International-Small-and-Medium-Enterprises-Fair-in-Guangzhou/34-769903) · `en`
+
+A delegation of 49 Sri Lankan small and medium-sized enterprises (SMEs) made a strong impact during the 19th China International Small and Medium Enterprises Fair (CISMEF), held from 15 to 18 November at the China Import and Export Fair Complex in Pazhou, Guangzhou. The event was organised by the Sri Lanka Export Development Board (EDB) in collaboration with the Industrial Development Board (IDB) and with the active facilitation of the Consulate General of Sri Lanka in Guangzhou.
+
+The delegation represented key product sectors, including food and beverages, gem and jewellery, coconut-based products, lifestyle goods, spices, and garments etc.
+
+The CISMEF 2024 proved to be a robust platform for SMEs, enabling them to connect with international buyers and potential business partners within mainland China and beyond. This marked the 9th consecutive year of Sri Lanka’s participation, demonstrating a consistent commitment to fostering SME growth through international trade exposure.
+
+...
+
+[Data](articles/7535864b.json)
+
+---
+
+### FTZMA congratulates Labour Minister and Deputy Minister of Economic Development
+
+*2024-11-30 04:34:16* · [`dailyftlk`](https://www.ft.lk/business/FTZMA-congratulates-Labour-Minister-and-Deputy-Minister-of-Economic-Development/34-769902) · `en`
+
+The Executive Committee together with members of the Free Trade Zone Manufacturers’ Association (FTZMA) have congratulated the newly appointed Labour Minister and Deputy Minister of Economic Development Prof. Anil Jayantha Fernando.
+
+“We eagerly look forward to your utmost support to strengthen well-disciplined and effective work practices at the country’s investment promotion front with progressive fiscal policies promoting ‘Ease of doing Business’ for the FDIs in the country,” the FTZMA said in a letter to Prof. Fernando.
+
+...
+
+[Data](articles/10526e13.json)
+
+---
+
+### SriLankan Airlines celebrates seven years of Melbourne-Colombo service
+
+*2024-11-30 04:33:14* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-celebrates-seven-years-of-Melbourne-Colombo-service/34-769901) · `en`
+
+SriLankan Airlines recently celebrated the seventh anniversary of its Melbourne-Colombo route, launched in 2017.
+
+Since then, the airline has successfully connected many Sri Lankan expatriates and students to Melbourne while providing seamless travel options for tourists travelling between Melbourne, Sri Lanka, and beyond, particularly destinations across India.
+
+With steady growth in traffic, including tourist arrivals to Sri Lanka, the Melbourne-Colombo route has become popular among travellers visiting friends and relatives or vacationing between Australia and South Asia, strengthening cultural and economic ties between the two regions. The route is also one of SriLankan Airlines’ top performers, both as a direct flight and a convenient connection, especially for Indian passengers.
+
+...
+
+[Data](articles/8e1c230a.json)
+
+---
+
+### Southern Gujarat Chamber visits Ceylon Chamber in boost to bilateral ties
+
+*2024-11-30 04:32:13* · [`dailyftlk`](https://www.ft.lk/business/Southern-Gujarat-Chamber-visits-Ceylon-Chamber-in-boost-to-bilateral-ties/34-769900) · `en`
+
+From left: SGCCI Vice President Nikhil Madrasi, President Vijay Mevawala, The Ceylon Chamber of Commerce Secretary General and CEO Buwenakabahu Perera, SGCCI Immediate Past President Ramesh Vaghasia, Treasurer Mrunal Shukla, and Secy. Nirav Mandlewala
+
+A high-level business delegation from the Southern Gujarat Chamber of Commerce and Industry (SGCCI) recently visited The Ceylon Chamber of Commerce to strengthen the existing collaboration between the two Chambers thereby facilitating trade and investment ties between India and Sri Lanka.
+
+...
+
+[Data](articles/41369b0d.json)
+
+---
+
+### The Port City Colombo SEZ: How well would it navigate Asia’s evolving economic landscape?
+
+*2024-11-30 04:31:15* · [`dailyftlk`](https://www.ft.lk/business/The-Port-City-Colombo-SEZ-How-well-would-it-navigate-Asia-s-evolving-economic-landscape/34-769899) · `en`
+
+From bustling metropolises to serene island paradises, the Asian continent has been prided as an oasis for diverse locations with tax-friendly policies that translate into higher standards of living. However, the tides are turning as mature economies adopt global minimum tax standards, eroding traditional tax advantages and pressuring high-income countries to adjust.
+
+This shift affects Asian economies that have long relied on competitive tax rates to attract multinationals. Now, SEZs in countries like Singapore are adapting by promoting high-value industries, digital infrastructure, and skilled labor as key draws. Emerging SEZs in regions like Port City Colombo (PCC), Sri Lanka and SEZs in Vietnam, however, still leverage flexible tax policies to attract investment, creating a dynamic and evolving landscape across Asia.
+
+...
+
+[Data](articles/228f45b9.json)
+
+---
+
+### Govt. to provide financial assistance to flood affected farmers
+
+*2024-11-30 04:28:52* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-provide-financial-assistance-to-flood-affected-farmers/56-769898) · `en`
+
+Agriculture, Livestock Development, Land, and Irrigation Minister K.D. Lalkantha has assured the Ministry’s full support to help farmers impacted by the recent floods resume their agricultural activities.
+
+During a meeting held at the Ministry with District Secretaries and officials from the Departments of Agriculture and Irrigation in affected areas, the Minister addressed the extensive crop losses and damage to irrigation systems caused by the floods. The Minister directed officials to provide financial assistance to paddy farmers for purchasing seed paddy and to establish an efficient system for fund distribution.
+
+Additionally, District Secretaries and Irrigation officials were instructed to expedite the repairs to damaged irrigation systems to ensure farming operations can recommence without delay.
+
+◼️
+
+[Data](articles/bcbbb474.json)
+
+---
+
+### Indian Navy supports Lankan counterpart to nab narcotics worth nearly Rs. 170 b
+
+*2024-11-30 04:28:39* · [`dailyftlk`](https://www.ft.lk/news/Indian-Navy-supports-Lankan-counterpart-to-nab-narcotics-worth-nearly-Rs-170-b/56-769897) · `en`
+
+Based on information received from the Sri Lanka Navy regarding probable narcotics smuggling by Sri Lankan flagged fishing vessels in the Arabian Sea, the Indian Navy responded swiftly through a coordinated operation to localise and intercept the boats.
+
+Extensive surveillance was undertaken by Indian Naval Long Range Maritime Patrol Aircraft and Remotely Piloted Aircraft, based on inputs from the Information Fusion Centre (Indian Ocean Region), Gurugram, and an Indian Naval ship was deployed to augment efforts.
+
+...
+
+[Data](articles/0504e51d.json)
+
+---
+
+### Spain Ambassador presents credentials to Sri Lanka
+
+*2024-11-30 04:28:22* · [`dailyftlk`](https://www.ft.lk/news/Spain-Ambassador-presents-credentials-to-Sri-Lanka/56-769896) · `en`
+
+The Government of the Kingdom of Spain, with the concurrence of the Government of Sri Lanka has appointed Juan Antonio March Pujol as Ambassador Extraordinary and Plenipotentiary of the Kingdom of Spain to Sri Lanka based in New Delhi.
+
+He presented credentials to President Anura Kumara Dissanayake on 28 November at the Presidential Secretariat, Colombo.
+
+◼️
+
+[Data](articles/2dd97976.json)
+
+---
+
+### DMT says temporary vehicle number plates valid only till 15 Dec.
+
+*2024-11-30 04:27:22* · [`dailyftlk`](https://www.ft.lk/news/DMT-says-temporary-vehicle-number-plates-valid-only-till-15-Dec/56-769895) · `en`
+
+The Department of Motor Traffic (DMT) on Thursday announced that the validity period of temporary vehicle number plates issued will end on 15 December.
+
+DMT Commissioner General Nishantha Anuruddha Weerasinghe said that the temporary vehicle number plates were issued due to challenges faced by the DMT in issuing permanent number plates; thus, requesting the motorists to obtain their original number plates before the deadline.
+
+Driving vehicles with temporary number plates after 15 December will be considered illegal. The Traffic Police have been instructed to take necessary legal action against violators.
+
+◼️
+
+[Data](articles/db177f8f.json)
+
+---
 
 ### Graduation Ceremony of Young Journalists 2024
 
@@ -2389,251 +2537,5 @@ In addition, 102 houses have been completely damaged due to disasters.2,096 home
 [Data](articles/50166be3.json)
 
 [Extended Data](ext_articles/50166be3.ext.json)
-
----
-
-### The crocodile is not crossed by the daughter of buffaloes and no crocodile
-
-*2024-11-29 13:02:28* · [`adalk`](https://www.ada.lk/breaking_news/දූව-ගගෙන්-මී-හරකුන්-එගොඩ-කරත්-කිඹුලකු-ඔහුට-එගොඩ-වීමට-නොදෙයි/11-413357) · `si`
-
-Here's a 200-character summary:
-
-
-
-Crocodile attack: Buffalo's daughter missing in Duwa River. Pottuvil Police and Panama Naval Base search operation underway. Victim: 41-year-old male.
-
-🟩
-
-One of the victims in the Duwa River. Officers of the Pottuvil Police and Panama Naval Base are being operated together to find this person. The missing person is 41 years old.
-
-◼️
-
-[Data](articles/86be5cc6.json)
-
-[Extended Data](ext_articles/86be5cc6.ext.json)
-
----
-
-### ‘Rajarata Rejina’ train derails in Colombo
-
-*2024-11-29 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103863/rajarata-rejina-train-derails-in-colombo) · `en`
-
-The ‘Rajarata Rejina’ train travelling from Anuradhapura to Beliatta has derailed this morning (29) between the Colombo Fort and the Secretariat Halt railway stations.
-
-The derailment had occurred at around 11:10 a.m. today, Ada Derana reporter said.
-
-The train’s engine compartment has derailed in this manner while it has also resulted in damages to the railway track.
-
-◼️
-
-[Data](articles/4acd20cb.json)
-
-[Extended Data](ext_articles/4acd20cb.ext.json)
-
----
-
-### An increase in the number of casualties
-
-*2024-11-29 12:59:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தோரின்-எண்ணிக்கை-அதிகரிப்பு/175-347978) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Weather-related casualties rise to 13, 1 missing. 441+590 affected from 100,032 families. 38,616 in welfare camps.
-
-🟩
-
-The Disaster Management Center said that the number of casualties caused by inclement weather has increased to 13 and a missing person continues to search.
-
-Accordingly, 441 and 590 people from 100,032 families have been affected. As well as 38,616 people have been placed in welfare camps. Remble
-
-◼️
-
-[Data](articles/a2c85c37.json)
-
-[Extended Data](ext_articles/a2c85c37.ext.json)
-
----
-
-### Appointment of Groups to oversee relief tasks
-
-*2024-11-29 12:52:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரண-பணிகளை-மேற்பார்வையிட-குழுக்கள்-நியமனம்/175-347977) · `ta`
-
-Cabinet appoints 2 committees to oversee flood relief in Northern & Eastern Provinces. Committees monitor ongoing efforts. Minister Upali Pannilake ensures restoration of normal life in Eastern Province.
-
-🟩
-
-In the Northern and Eastern Provinces, which have been affected by the floods, 2 committees have been appointed by Cabinet Ministers to oversee the relief work.
-
-As a result, the group was monitoring the ongoing relief work in their respective provinces yesterday.
-
-The Minister of Rural Development, Social Security and Social Reinforcement, Prof. Upali Pannilake, said that the necessary steps are being taken to restore the normal life of the people in the Eastern Province.
-
-◼️
-
-[Data](articles/7f7f1920.json)
-
-[Extended Data](ext_articles/7f7f1920.ext.json)
-
----
-
-### Provincial Council election filed: Next week discussion
-
-*2024-11-29 12:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைத்-தேர்தல்-வேட்புமனு-தாக்கல்-அடுத்த-வாரம்-கலந்துரையாடல்/175-347976) · `ta`
-
-Next week, the Ministry of Provincial Councils will discuss nomination filing for elections. Political party leaders will attend. Decisions made will guide final compliance. Election delay due to treasury funding issues.
-
-🟩
-
-The Ministry of Provincial Councils and Local Government has announced that the discussion will be held next week to determine the next step on the filing of nominations for the provincial council election.
-
-The meeting, chaired by the Chairman of the Council, Minister Pimal Ratnayake, is expected to attend the leaders of political parties representing parliament, Minister Professor Chandana Abeyratne said.
-
-He added that the decisions taken during the meeting would be the basis for the final compliance with the nominations for the upcoming provincial council election.
-
-Although the National Elections Commission was prepared to hold the election, they were delayed due to the lack of funds for the Treasury.
-
-◼️
-
-[Data](articles/47e4ebf6.json)
-
-[Extended Data](ext_articles/47e4ebf6.ext.json)
-
----
-
-### Homagama assassination attempt: suspects arrested
-
-*2024-11-29 12:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோமாகம-படுகொலை-முயற்சி-சந்தேகநபர்கள்-கைது/175-347975) · `ta`
-
-Two suspects (23 & 26) arrested for attempted murder near Homagama hospital. Raid based on Western Province CID intel. Charges include murder, assault. Firing allegedly on orders of foreign drug dealer. Ongoing investigation by Southern Province Crime Division.
-
-🟩
-
-On the 14th, two suspects who tried to kill a house in a house in the Homagama Hospital Road area have been arrested in the Megoda, Adigala area.
-
-They have been arrested during a raid carried out on the basis of information received by the Western Province Southern District Criminal Investigation Division.
-
-They have been arrested on charges of murder, serious injury and abuse.
-
-The arrested suspects were aged 23 and 26 and they were from Colombo and Meegoda area, police said.
-
-Investigations carried out by the suspects revealed that the firing was carried out on the instructions of a drug dealer who was hidden abroad.
-
-Further investigations into the incident are being carried out by the Southern Province Southern District Crime Division.
-
-◼️
-
-[Data](articles/56174f73.json)
-
-[Extended Data](ext_articles/56174f73.ext.json)
-
----
-
-### Rajarata Queen Peliper
-
-*2024-11-29 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203862) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo Fort Railway Secretariat traveled Rajarata Queen Train from Anuradhapura to Beliatta today. Train encountered issues around 11:10 AM. Coastal railway line affected due to this incident.
-
-🟩
-
-The Rajarata Queen Train from Anuradhapura to Beliatta was traveled by the Colombo Fort Railway Secretariat this morning (29).
-
-Our correspondent said that at around 11.10 this morning.
-
-The railway line was also found due to this debate.
-
-As a result, a train to the coastal railway line has been reported.
-
-◼️
-
-[Data](articles/22ea7abd.json)
-
-[Extended Data](ext_articles/22ea7abd.ext.json)
-
----
-
-### Electricity strikes on carpet
-
-*2024-11-29 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199974) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Man dies from electricity strike on carpet in Sri Lanka. Investigation reveals he touched unauthorized electric wire while trespassing. Landowner arrested for illegal wiring.
-
-🟩
-
-A man died yesterday (28) in the Angarumulla area belonging to the Gampola police division.
-
-Investigations have revealed that when the deceased entered the land of someone else, the pepper had been trapped in an unauthorized electric wire that had been placed around the land.
-
-In addition, the owner of the land has been arrested in an illegal electric wires.
-
-◼️
-
-[Data](articles/21eb0235.json)
-
-[Extended Data](ext_articles/21eb0235.ext.json)
-
----
-
-### The present government should advance contact with India - Ranil
-
-*2024-11-29 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203861) · `si`
-
-Ranil Wickremesinghe urges current govt to strengthen ties with India during visit to Madhya Pradesh.
-
-🟩
-
-Former President Ranil Wickremesinghe says that the present government should also be carried forward with India strongly.
-
-The former President has said to India on a tour of India these days.
-
-Former President Ranil Wickremesinghe has also participated in the city of Indoor to the town of Indoor, India's Madhya Pradesh, India.
-
-The Curren City of India is as a solid city in the country.
-
-◼️
-
-[Data](articles/5d252510.json)
-
-[Extended Data](ext_articles/5d252510.ext.json)
-
----
-
-### One arrested with heroin in Kalkisa
-
-*2024-11-29 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199977) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Kalkisa: 44-year-old man caught with 15g of heroin. Suspect from Moratuwa, handed to Malkisa Police for investigation.
-
-🟩
-
-A suspect has been arrested by the police on Thursday (28) in the Kattukunduwatte area under the Malkisai Police Division.
-
-He was arrested during a roundup of confidential information received by a group of police officers from the Mount Lavinia Police Station.
-
-The arrested suspect is a 44 -year -old from Moratuwa.
-
-From the suspect, 15 grams of 400 milligrams of heroin has been seized by the police.
-
-Meanwhile, the arrested person has been handed over to the Malkisa Police Station for further investigations.
-
-◼️
-
-[Data](articles/648e8378.json)
-
-[Extended Data](ext_articles/648e8378.ext.json)
 
 ---

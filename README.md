@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 13:42:53**
+As of **2024-11-29 14:01:55**
 
 ## Newspaper Stats
 
-*Scraped **57,572** Articles*
+*Scraped **57,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 3,452
 economynextcom | 3,503
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,441
+adalk | 5,442
 adaderanalk | 6,973
 tamilmirrorlk | 8,191
 virakesarilk | 9,388
-adaderanasinhalalk | 9,936
+adaderanasinhalalk | 9,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,565 (100.0%) of 57,572 articles have been extended.
+57,567 (100.0%) of 57,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### සුදු අලි කියන චීන ව්‍යාපෘති පැවැති ආණ්ඩුවල ඉල්ලීම් - චීන තානාපති
+
+*2024-11-29 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203863) · `si`
+
+චීන මූල්‍යාධාර යටතේ මෙරට ක්‍රියාත්මක වූ දැවැන්ත ව්‍යාපෘති සුදු අලින් බවට ඇතැමුන් චෝදනා කළත්, එම ව්‍යාපෘති සියල්ල පැවති ආණ්ඩුවල ඉල්ලීම් අනුව ඉදි කළ ඒවා බව ශ්‍රී ලංකාවේ චීන තානාපති චී ජන් හොන්ග් මහතා පවසයි.
+
+තානාපතිවරයා මේ බව සඳහන් කළේ මාධ්‍ය ආයතනය නියෝජිත පිරිසක් සමග ඊයේ පස්වරුවේ පැවති හමුවකදීය.
+
+මෙරට චීන තානාපති චී ජන් හොන්ග් මහතා මාධ්‍ය ආයතන නියෝජිතයින් පිරිසක් සමඟ ඊයේ (28) පස්වරුවේ හමුවකට එක්වු අතර චීන මූල්‍යාධාර යටතේ මෙරට ක්‍රියාත්මක වූ ව්‍යාපෘති සම්බන්ධයෙන් ද සාකච්ඡ කෙරුණි.
+
+එහිදී තානාපතිවරයා පැවසුවේ ශ්‍රී ලංකා පාර්ශ්වය දුර්වල ආකාරයෙන් මෙහෙයුම් සිදුකිරීම නිසා ඇතැම් ව්‍යාපෘති නිසි ලෙස ප්‍රයෝජනයට ගෙන නොමැති බවය.
+
+උදාහරණයක් ලෙස පෞද්ගලික සමාගමකට බදු දී ඇති නෙළුම් කුලුන ව්‍යාපෘතිය වර්තමානයේ ලාභ ඉපැයීමට පටන්ගෙන ඇති අතර, එය ශ්‍රී ලංකාවේ සංකේතයක් බවට පත්වී ඇති බව චීන තානාපතිවරයා සඳහන් කර තිබේ.
+
+එමෙන්ම චීනය ආයෝජනය කළ හම්බන්තොට වරාය සහ කොළඹ වරාය ශ්‍රී ලංකා රජයට විශාල ආදායමක් ගෙනදෙන බවද ඔහු පෙන්වා දුනි.
+
+...
+
+[Data](articles/5ce283a5.json)
+
+---
 
 ### சீரற்ற வானிலையால் நுவரெலியாவில் 344 குடும்பங்கள், 1,297 பேர் பாதிப்பு
 
@@ -127,6 +149,18 @@ In addition, 102 houses have been completely damaged due to disasters.2,096 home
 [Data](articles/50166be3.json)
 
 [Extended Data](ext_articles/50166be3.ext.json)
+
+---
+
+### දූව ගගෙන් මී හරකුන් එගොඩ කරත් කිඹුලකු ඔහුට එගොඩ වීමට නොදෙයි
+
+*2024-11-29 13:02:28* · [`adalk`](https://www.ada.lk/breaking_news/දූව-ගගෙන්-මී-හරකුන්-එගොඩ-කරත්-කිඹුලකු-ඔහුට-එගොඩ-වීමට-නොදෙයි/11-413357) · `si`
+
+දූව ගඟෙන් මීහරකුන් එගොඩ කරවමන් සිටි අයකු පොතුවිල් කෝ‍රකඩයිල් රොක් ප්‍රදේශයේදී කිඹුලෙකු විසින් ඩැහැගෙන ගොස් ඇති බව ඊයේ( 28) දින වාර්ථාවෙයි. මෙම පුද්ගලයා සොයා ගැනීම සඳහා පොතුවිල් පොලිසිය හා පානම නාවික හමුදා කඳවුරේ නිලධාරීන් එක්ව මෙහෙයුම් සිදුකරන බවට වැඩිදුරටත් වාර්ථාවෙයි. අතුරුදන් පුද්ගලයා වයස අවුරුදු 41 ක අයෙකි.
+
+◼️
+
+[Data](articles/86be5cc6.json)
 
 ---
 
@@ -1652,6 +1686,8 @@ Continuing to move further northwestwards it is very likely to cross north Tamil
 
 [Data](articles/ffab1c83.json)
 
+[Extended Data](ext_articles/ffab1c83.ext.json)
+
 ---
 
 ### Rise of digital campaigning: How social platforms shaped Sri Lanka’s elections
@@ -2401,47 +2437,5 @@ As a result, during the last days, the original officials are removed and the ap
 [Data](articles/660d0f88.json)
 
 [Extended Data](ext_articles/660d0f88.ext.json)
-
----
-
-### The third phase of the Review of the Officer of the Review of Sri Lanka shows economic improvement - the Sri Lanka Business Federation is proud of
-
-*2024-11-28 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199957) · `ta`
-
-Sri Lanka's economy shows improvement in third phase review. Compliance reached with IMF, paving way for fourth phase funding. Business federation calls for continued restoration efforts to boost sustainable growth.
-
-🟩
-
-The Sri Lanka Chamber of Commerce (Ceylon Chamber of Commerce) has said that Sri Lanka's progress in the implementation of reorganization and rehabilitation of the financial stability is being reached with the International Monetary Finance Officers with the International Monetary Finance Officers in connection with the third phase of the review.
-
-The official level compliance between the Monetary Finance Officers and the Sri Lankan government was reached following the third phase of last week's renovation on the expanded financial project sponsored by the International Monetary Fund.
-
-The Ceylon Chamber of Commerce (Ceylon Chamber of Commerce), which has issued this, said the officer's level of compliance is showing the progress of Sri Lanka in implementing structural restructuring and rehabilitation of the financial restructuring among the economic recovery.
-
-...
-
-[Data](articles/2c8691e8.json)
-
-[Extended Data](ext_articles/2c8691e8.ext.json)
-
----
-
-### Australia passes social media ban for children under 16
-
-*2024-11-28 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103849/australia-passes-social-media-ban-for-children-under-16) · `en`
-
-Australia passed a law on Thursday to ban social media for children aged under 16 after days of heated debate, setting a standard for other countries to follow in a global push to curb the power of Big Tech.
-
-The law, expected to take effect in November 2025, sets some of the toughest social media controls in the world and will force platforms to take reasonable steps to ensure age-verification protections are in place.
-
-After a parliamentary session that went into the night, the country’s Senate, or upper house of parliament, voted to pass the law after the centre-left Labor government of Prime Minister Anthony Albanese won support from the conservative opposition.
-
-The Senate’s approval for the law is the final legislative hurdle after the lower house, or House of Representatives, passed the bill on Wednesday.
-
-...
-
-[Data](articles/6e54a8d3.json)
-
-[Extended Data](ext_articles/6e54a8d3.ext.json)
 
 ---

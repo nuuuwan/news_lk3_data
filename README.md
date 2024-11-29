@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 00:01:46**
+As of **2024-11-29 23:42:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,649 (100.0%) of 57,654 articles have been extended.
+57,647 (100.0%) of 57,654 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,27 +50,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Youth death in poisonous bite in rain water
+### மழைநீரில் வந்த விஷப்பாம்பு கடித்ததில் இளைஞர் மரணம்
 
 *2024-11-29 23:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழைநீரில்-வந்த-விஷப்பாம்பு-கடித்ததில்-இளைஞர்-மரணம்/175-348000) · `ta`
 
-20-year-old youth dies from snake bite in floodwaters near Vavuniya. Snake bit him while he was collecting coconuts during heavy rain. He was rushed to hospital but died en route due to flooded roads.
+வவுனியா - நெடுங்கேணி பட்டிக்குடியிருப்பு பகுதியில் வெள்ள நீரில் வந்த பாம்பு கடித்ததில் 20 வயதுடைய இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
 
-🟩
+மழை காரணமாக வீட்டு முற்றத்தில் உள்ள தென்னை மரத்தில் தேங்காய் சேகரித்து கொண்டிருந்த போது, ​​மழை நீரில் நீந்தி வந்த பாம்பு அவரை கடித்துள்ளது.
 
-A 20 -year -old youth has died after a snake bite in a flood waters in the Vavuniya - Nedungeni Pattikkudiyiruppu area.
+உடனடியாக அவர் நெடுங்கேணி வைத்தியசாலையில் அனுமதிக்கப்பட்டு, பின்னர் அவரது நிலைமை கவலைக்கிடமாக இருப்பதால் வவுனியா பொது வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
 
-While the coconut was collected in the coconut tree in the yard due to rain, the snake swimming in the rain water was bitten.
-
-He was immediately admitted to the Nedungeni Hospital and later transferred to the Vavuniya General Hospital as his condition is worrisome.
-
-The young man dies after a long time to reach Vavuniya due to flooding on highways due to heavy rains.. Remble
+கனமழை காரணமாக நெடுஞ்சாலைகளில் வெள்ளம் பெருக்கெடுத்து ஓடியதால் அம்பியூலன்ஸ்  வண்டி வவுனியாவை வந்தடைய நீண்ட நேரமாகியதால் இளைஞன் உயிரிழந்துள்ளார். R
 
 ◼️
 
 [Data](articles/65c5bf9e.json)
-
-[Extended Data](ext_articles/65c5bf9e.ext.json)
 
 ---
 
@@ -105,8 +99,6 @@ In a related development, the Department of Meteorology has forecasted that the 
 ◼️
 
 [Data](articles/1709a3e5.json)
-
-[Extended Data](ext_articles/1709a3e5.ext.json)
 
 ---
 

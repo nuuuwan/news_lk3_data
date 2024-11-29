@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 15:01:07**
+As of **2024-11-29 15:25:45**
 
 ## Newspaper Stats
 
-*Scraped **57,580** Articles*
+*Scraped **57,581** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,442
 adaderanalk | 6,975
-tamilmirrorlk | 8,192
+tamilmirrorlk | 8,193
 virakesarilk | 9,388
 adaderanasinhalalk | 9,937
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,578 (100.0%) of 57,580 articles have been extended.
+57,581 (100.0%) of 57,581 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### Extension of flood hazards
+
+*2024-11-29 14:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-347984) · `ta`
+
+Flood warning extended: Kalaoya affected for 24 hours. Motorists advised caution when crossing affected areas.
+
+🟩
+
+The Irrigation Department said this morning (29) that the flood warning issued to Kalaoya has been extended for 24 hours.
+
+In addition, the Irrigation Department has stated in its announcement that motorists traveling on the streets crossing the area will pay special attention to this.. Remble
+
+◼️
+
+[Data](articles/5a4dc9ac.json)
+
+[Extended Data](ext_articles/5a4dc9ac.ext.json)
+
+---
 
 ### Compensation to farmers affected by the rain
 
@@ -223,6 +243,8 @@ Farmgate prices in Kurunegala were 100,000 to 105,000 per 1,000 nuts.
 ◼️
 
 [Data](articles/02da1390.json)
+
+[Extended Data](ext_articles/02da1390.ext.json)
 
 ---
 
@@ -603,6 +625,8 @@ New orders index continued to increase, up at 54.3 in October from 52.9 in Septe
 ...
 
 [Data](articles/c5622bc1.json)
+
+[Extended Data](ext_articles/c5622bc1.ext.json)
 
 ---
 
@@ -1154,7 +1178,7 @@ These efforts led to the identification of two fishing boats suspected of being 
 
 Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
 
-◼️
+...
 
 [Data](articles/06d12378.json)
 
@@ -2463,33 +2487,5 @@ Accordingly, Burkina Faso, Bosnia and Herzegovina, The Republic of Azerbaijan, T
 [Data](articles/f985eb97.json)
 
 [Extended Data](ext_articles/f985eb97.ext.json)
-
----
-
-### Principal, a teacher and two others arrested for Nindavur Tractor accident
-
-*2024-11-28 19:23:42* · [`adalk`](https://www.ada.lk/breaking_news/නින්දවූර්-ට්‍රැක්ටර්-අනතුරට-විදුහල්පති--ගුරුවරයෙක්-හා-තවත්-දෙදෙනෙක්-අල්ලයි/11-413352) · `si`
-
-N
-
-🟩
-
-The police have arrested two other persons with the Principal and a teacher to leave the residents of Samanora, Samanora, who was living in the Arabic school.
-
-They have decided to send these students to the school to send these students to the house due to the bad atmosphere of the end of the 26th.
-
-The students from Kabetthiv junction had no vehicle to go to Samanthurai, as they had no vehicle to go to Samadiplassa, and went on the rise in a tract.
-
-On the way, eight students and six students have disappeared as a tacket escaped from the road.
-
-SSP charges in charge of the incident. A special investigation was launched on the instructions of Jayapathath and the investigation was carried out by the Chief Inspector of Police OIC Chief Inspector Wijesinghe.
-
-A senior police officer in the Ampara District said that the arrested persons will be produced before the Sauthura Magistrate's Court.
-
-...
-
-[Data](articles/a6223fdb.json)
-
-[Extended Data](ext_articles/a6223fdb.ext.json)
 
 ---

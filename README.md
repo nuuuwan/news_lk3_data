@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 05:50:40**
+As of **2024-11-29 06:14:27**
 
 ## Newspaper Stats
 
-*Scraped **57,503** Articles*
+*Scraped **57,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 440
 colombotelegraphcom | 582
 bbccomsinhala | 598
-islandlk | 3,445
+islandlk | 3,452
 economynextcom | 3,499
 dailyftlk | 3,970
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,501 (100.0%) of 57,503 articles have been extended.
+57,501 (100.0%) of 57,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -163,6 +163,64 @@ Funded by a $ 600,000 donation from the Standard Chartered Foundation, the Sashr
 [Data](articles/41dabb3d.json)
 
 [Extended Data](ext_articles/41dabb3d.ext.json)
+
+---
+
+### ComBank Digital soars past 1.5 million registered users in a landmark moment
+
+*2024-11-29 01:53:00* · [`islandlk`](http://island.lk/combank-digital-soars-past-1-5-million-registered-users-in-a-landmark-moment/) · `en`
+
+The Commercial Bank of Ceylon has achieved another milestone in its digital revolution, with ‘ComBank Digital’ – the Bank’s omni-channel digital banking platform – surpassing 1.5 million registered users.Announcing the landmark, the Bank said the award-winning platform continues to lead digital transformation in Sri Lanka’s banking sector as the most widely used digital channel that serves retail, SME and corporate clients.
+
+Driven by Commercial Bank’s ‘Digital by Default’ business model, ComBank Digital currently processes more than 5 million transactions a month, with a digital penetration of 45% and 48 million customer interactions, and was processing transactions averaging Rs 400 billion in value per month by the end of October this year.
+
+...
+
+[Data](articles/d387b108.json)
+
+---
+
+### Pan Asia Bank broadens digital presence with new Digital Zones
+
+*2024-11-29 01:52:00* · [`islandlk`](http://island.lk/pan-asia-bank-broadens-digital-presence-with-new-digital-zones/) · `en`
+
+Pan Asia Bank proudly announces the launch of its latest Digital Zones in Matale and Gampola, marking a significant step in its mission to provide advanced, customer-friendly banking services across Sri Lanka. These new Digital Zones are designed to make banking more accessible, convenient, and efficient for customers in these regions.
+
+The Digital Zones in Matale and Gampola feature cutting-edge facilities, including 24/7 banking services and intelligent banking kiosks, enabling customers to perform secure and hassle-free transactions at any time. These zones are a reflection of Pan Asia Bank’s unwavering commitment to enhancing the banking experience through innovation and technology.
+
+...
+
+[Data](articles/1ca74ce2.json)
+
+---
+
+### IMF statement on Sri Lanka to members of financial community
+
+*2024-11-29 01:48:00* · [`islandlk`](http://island.lk/imf-statement-on-sri-lanka-to-members-of-financial-community/) · `en`
+
+Kristalina Georgieva, Managing Director of the International Monetary Fund (IMF), issued the following statement about Sri Lanka to Members of the Financial Community on November 26, 2024.
+
+...
+
+[Data](articles/40b6071f.json)
+
+---
+
+### Dr. Sumith Pilapitiya makes compelling case for peaceful co-existence of human and elephant
+
+*2024-11-29 01:47:00* · [`islandlk`](http://island.lk/dr-sumith-pilapitiya-makes-compelling-case-for-peaceful-co-existence-of-human-and-elephant/) · `en`
+
+Wycherley International School hosted its annual Elephant Scholarship Awards ceremony, featuring a compelling keynote address by well- known environmental scientist and elephant researcher, Dr. Sumith Pilapitiya.
+
+The event held recently at Thabowa Lake Resort in Karuwalagaswewa highlighted the school’s commitment to wildlife conservation and education, focusing on fostering a deeper understanding of the challenges and solutions for human-elephant coexistence.
+
+Dr. Pilapitiya engaged the audience with an in-depth exploration of elephant social behaviours and the intricate dynamics of living alongside these intelligent creatures.
+
+His discourse provided fresh perspectives and energized the school community, further elevating the significance of the Elephant Scholarship initiative.
+
+...
+
+[Data](articles/b0552828.json)
 
 ---
 
@@ -2427,105 +2485,5 @@ In 2019, the seven Iranians were arrested in the coast with over 425 kilograms o
 [Data](articles/8190fd87.json)
 
 [Extended Data](ext_articles/8190fd87.ext.json)
-
----
-
-### Russia Strip Attack - Electricity disconnect for more than one million people in Ukraine
-
-*2024-11-28 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199927) · `ta`
-
-Russia's air strike cuts electricity for over 1 million Ukrainians. Over 500,000 in western Vynnytsia region affected. Authorities urge residents to seek shelter. Three western regions impacted. Russian missiles detected in eight Ukrainian regions, including Kyiv.
-
-🟩
-
-Russia has carried out fierce air strikes, targeting Ukraine's strength, said the Minister of Power.
-
-Ukraine officials have said that more than the Achievement of Russia's attack has been cut off.
-
-According to reports, more than 523,000 people have been cut off in the western Viviv region of Ukraine.
-
-Meanwhile, the public has been deployed in the area after the authorities have asked the people in the power cuts to go to safe underground areas.
-
-The Western Regional Governor said three regions in the west of Ukraine have been affected.
-
-It has been reported that Russia's missiles have been observed in eight regions of Ukraine last night.
-
-Officials said that two missiles were found in two places in the capital of Ukraine.
-
-◼️
-
-[Data](articles/7032871f.json)
-
-[Extended Data](ext_articles/7032871f.ext.json)
-
----
-
-### Tusker ‘Deegadanthu 1’ dies from electrocution
-
-*2024-11-28 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103839/tusker-deegadanthu-1-dies-from-electrocution-) · `en`
-
-The infamous tusker known as ‘Deegadanthu 1’, one of the elephants with the longest tusks in the country, often spotted roaming the Kala Wewa National Park, has been electrocuted to death after coming into contact with an electric fence set up in front of a house in Andiyagala, Hinguruwewa.
-
-The tusker was well known for its magnificent tusks and its status as the oldest elephant in the area, making it a popular attraction for both local and foreign tourists.
-
-◼️
-
-[Data](articles/aec7c2dd.json)
-
-[Extended Data](ext_articles/aec7c2dd.ext.json)
-
----
-
-### Death toll due to adverse weather climbs to 12
-
-*2024-11-28 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103838/death-toll-due-to-adverse-weather-climbs-to-12) · `en`
-
-According to Sri Lanka’s Disaster Management Center (DMC), a total of 12 deaths have been reported due to the prevailing adverse weather conditions in the country.
-
-Among the 12 fatalities, eight are from the Ampara District. The number of injured stands at 17, while two individuals remain missing.
-
-The DMC stated that a total of 330,894 people from 98,635 families in 175 divisional secretariat divisions across 21 districts have been affected by the bad weather as of 08.00 a.m. today (28).
-
-It was reported that 82 houses were completely damaged, and 1,465 houses were partially damaged.
-
-Additionally, the DMC confirmed that a total of 26,625 people from 8,358 families have been relocated to 267 safe locations.
-
-◼️
-
-[Data](articles/b4b54492.json)
-
-[Extended Data](ext_articles/b4b54492.ext.json)
-
----
-
-### Iranian advocates of the Iranians sentenced to death
-
-*2024-11-28 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203836) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo High Court sentences group to life imprisonment for heroin trafficking. The defendants were arrested in 2019 with over 425kg of heroin. Judge Sapa delivered the verdict after reviewing evidence. The case was filed by the Attorney General.
-
-🟩
-
-The Colombo High Court has sentenced the life sentenced to life in the Mattakkuliya waters in Colombo, Colombo.
-
-Colombo High Court Judge of Colombo after recert chance. S. S. This decision has been given by Mr. Sapa.
-
-The group was arrested following a raid carried out by the Police Narcotics Bureau while transporting more than 425 kilograms of heroin in the Vasamo, Colombo, Colombo on July 12, 2019.
-
-Accordingly, the Attorney General has filed the indictment against the accused by the Colombo High Court.
-
-The defendants have informed the court that the case will be heard today (28).
-
-Accordingly, the judge has ordered the defendants to be sentenced to life in prison.
-
-◼️
-
-[Data](articles/db4d6a48.json)
-
-[Extended Data](ext_articles/db4d6a48.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 01:42:17**
+As of **2024-11-30 02:12:58**
 
 ## Newspaper Stats
 
-*Scraped **57,659** Articles*
+*Scraped **57,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,985
-tamilmirrorlk | 8,198
+tamilmirrorlk | 8,199
 virakesarilk | 9,421
 adaderanasinhalalk | 9,956
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,659 (100.0%) of 57,659 articles have been extended.
+57,660 (100.0%) of 57,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### 15 people die due to random weather
+
+*2024-11-30 01:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-15-பேர்-உயிரிழப்பு/175-348002) · `ta`
+
+15 deaths reported due to severe weather. Search ongoing for 1 missing person. 20 injuries recorded. 463-569 individuals affected across 138-191 families.
+
+🟩
+
+The death toll of the casualties due to inclement weather has increased to 15, the Disaster Management Center said in a renewed report.
+
+At the same time, a missing person is continuing to search and 20 people have been injured.
+
+In addition, 463 and 569 people from 138 and 191 families have been affected by inclement weather. (A)
+
+◼️
+
+[Data](articles/6c3947df.json)
+
+[Extended Data](ext_articles/6c3947df.ext.json)
+
+---
 
 ### South Africa on the brink of success;Sri Lanka is facing the first defeat in Durban
 
@@ -2611,19 +2633,5 @@ New orders index continued to increase, up at 54.3 in October from 52.9 in Septe
 [Data](articles/c5622bc1.json)
 
 [Extended Data](ext_articles/c5622bc1.ext.json)
-
----
-
-### Why Palestine Day?
-
-*2024-11-29 12:02:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-palestine-day/) · `en`
-
-“The Zionists indeed learnt well from the Nazis so well that it seems that their morally repugnant treatment of the Palestinians, and their attempt to destroy Palestinian society within Israel and the occupation territories, reveals them as basically Nazis with beards and black hats” ~ Norman Finklestein
-
-...
-
-[Data](articles/c22a4566.json)
-
-[Extended Data](ext_articles/c22a4566.ext.json)
 
 ---

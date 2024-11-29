@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 22:01:47**
+As of **2024-11-29 22:16:31**
 
 ## Newspaper Stats
 
-*Scraped **57,642** Articles*
+*Scraped **57,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,452
 economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,443
+adalk | 5,444
 adaderanalk | 6,983
 tamilmirrorlk | 8,196
 virakesarilk | 9,418
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,642 (100.0%) of 57,642 articles have been extended.
+57,642 (100.0%) of 57,643 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -481,6 +481,24 @@ Showers or thundershowers will occur at several places in the evening or night.
 [Data](articles/ef639584.json)
 
 [Extended Data](ext_articles/ef639584.ext.json)
+
+---
+
+### වැවිලි  අමාත්‍යාංශයේ විනාඩි එක හමාරක වීඩියෝ වෙළද දැන්වීමට රුපියල් ලක්ෂ 1740ක් වැයකරලා
+
+*2024-11-29 17:48:22* · [`adalk`](https://www.ada.lk/breaking_news/වැවිලි--අමාත්‍යාංශයේ-විනාඩි-එක-හමාරක-වීඩියෝ-වෙළද-දැන්වීමට-රුපියල්-ලක්ෂ-1740ක්-වැයකරලා/11-413359) · `si`
+
+වැවලි හා ප්‍රජා යටිතල පහසුකම් කටයුතු අමාත්‍යාංශයේ එක අංශයක් මගින් විනාඩි එක හමාරක වීඩියෝ වෙළද දැන්වීමක් හදන්න රුපියල් ලක්ෂ1740ක මුදලක් වැයකර වසර දෙකක් තිස්සේ එය කොතනකවත් විකාශණය කර නොමැති බව විගණනයකින් සොයාගත් බව එහි ඇමති සමන්ත විද්‍යාරත්න මහතා පැවසීය.
+
+ඌව පළාත් සභාවේ කර්මාන්ත අමාත්‍යාංශය සංවිධානය කළ "ඌව අභිමානි  ප්‍රදර්ශනය විවෘත්ත කිරීමට ප්‍රධාන ආරාධිතයා වශයෙන් පැමිණි අමාත්‍යාවරයා කර්මාන්තකරුවන් හා නිළධාරීන් අමතමින් 29 දින ඒසේ පැවසීය.
+
+"මම අමාත්‍යංශයේ වැඩ බාරගෙන ප්‍රථමයෙන්ම කළේ විගණන අංශයේ නිළධාරීන් ගෙන්වලා සාකජ්ජාවක් කළා, එහිදි තමයි දැනගන්න ලැබුනේ අමාත්‍යාංශයේ එක අංශයක් මගින් විනාඩි එක හමාරක වීඩියෝ වෙළද දැන්වීමක් හදන්න රුපියල් ලක්ෂ1740ක මුදලක් වැයකර වසර දෙකක් තිස්සේ එය කොතනකවත් විකාශණය කර නොමැති බව, එ් මුදල දැන්වීමට ගියාද
+
+විනාඩි එක හමාරට වැය කරපු මුදල ඌව පළාත් සභාවේ කර්මාන්ත අමාත්‍යාංශයටවත් ලැබිලා නැතුවා ඇති. අපිට මේ රට සුද්ධ කරලාම හදන්න වෙනවා මේවා අනවශ්‍ය දේවල් වසර 76ක් බිද වැටුන රට එක දවසකින් අපිට හදන්න බෑ නමුත් කොහොම හරි අපි හදනවා" යැයි ඇමති  සමන්ත විද්‍යාරත්න මහතා පැවසීය.
+
+◼️
+
+[Data](articles/f9aa4e84.json)
 
 ---
 
@@ -2577,29 +2595,5 @@ Accordingly, the Dambulla Economic Center is selling a kilo of beans between Rs.
 [Data](articles/a12197dd.json)
 
 [Extended Data](ext_articles/a12197dd.ext.json)
-
----
-
-### 10 sluice gates opened at Rajanganaya Reservoir
-
-*2024-11-29 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103859/10-sluice-gates-opened-at-rajanganaya-reservoir) · `en`
-
-Ten sluice gates of the Rajanganaya Reservoir have been opened following heavy rainfall.
-
-Anuradhapura District has been severely affected by the adverse weather conditions, said the Ada Derana reporter.
-
-It is reported that approximately 11,800 cubic meters of water per second is being released into the Kala Oya from the opened sluice gates.
-
-Meanwhile, arrangements have also been made to close the sluice gates of the Angamuwa Reservoir.
-
-The Wimalasurendra Reservoir in the Nortonbridge area continues to discharge water from the sluice gates due to ongoing intermittent showers and heavy rains in the Central Highlands’ western slopes.
-
-Engineers in charge of the Castlereigh reservoir and Maussakele reservoirs have also reported that both the reservoirs are nearing their overflow levels due to the persistent rainfall in their catchment areas.
-
-...
-
-[Data](articles/f703b880.json)
-
-[Extended Data](ext_articles/f703b880.ext.json)
 
 ---

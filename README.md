@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 00:16:55**
+As of **2024-11-30 00:41:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,653 (100.0%) of 57,656 articles have been extended.
+57,656 (100.0%) of 57,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -214,23 +214,33 @@ The court adjourned further consideration of the petition to February 03.
 
 ---
 
-### රටටම ආභරණයක් වූ දීඝදන්තු 1 හස්තියාගේ අවසන් කටයුතු සිදුකෙරේ
+### The funeral of the Heroes of the Montehth Amendment is held in the country
 
 *2024-11-29 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203879) · `si`
 
-අනාරක්ෂිත ලෙස ඇද තිබූ විදුලි රැහැනක පැටලී විදුලි සැර වැදී මියගිය "දීඝදන්තු 1" හස්තියාගේ අවසන් කටයුතු අද (29) උදෑසන සිදුකළේය.
+Here's a summary of the text in approximately 200 characters:
 
-මේ අතර හස්තියාට විදුලිසැර වැදුණු විදුලි රැහැන ඇදතිබූ නිවසෙහි හිමිකරු එළැඹෙන 12 වෙනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීම කැකිරාව මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
 
-කලාවැව ජාතික වනෝද්‍යානය සිය නිජබිම කරගනිමින් ජීවත්වූ කලාවැව ඇත් පරපුරේ අවසන් හස්තියා වූ දීඝදන්තු 1 ලෝකය හමුවේ ශ්‍රී ලංකාවට ආභරණයක් විය.
 
-කලාවැව රක්ෂිතයේ සැරිසැරූ විශාලත්වයෙන් වැඩිම දළ යුගල සහ වයසින් වැඩිම හස්තියා වූ දීඝදන්තු 1 හස්තියා කලාවැව ජාතික වනෝද්‍යානය සහ කහල්ල පල්ලෙකැලේ අභයභූමිය කේන්ද්‍ර කරගනිමින් වාසය කළේය.
+Funeral held for heroes of Monteth Amendment. Elephant named Sanghandasa 1 buried today. Local magistrate orders homeowner detained over electricity issue. Kalawiva National Park faces challenges. Largest threats to Kalawwa Forest Reserve identified. Foreign visitors drawn to elephant sanctuary.
 
-විදෙස් සංචාරකයින් මෙම ප්‍රදේශයට වැඩි වශයෙන් පැමිණියේ ද මෙම හැඩකාර හස්තියා සියැසින් දැක ගැනීමේ ආශාවෙනි.
+🟩
+
+The funeral of the "Sanghandasa 1" elephant was held this morning.
+
+Meanwhile, Kekirawa Magistrate ordered the owner of the house to be remanded until the 12th of the house where the electrical coordination of electricity.
+
+The Kalawiva National Park was an enaction in the face of the Kalawwa National Park, the final hand of the Kalawewa electorate.
+
+The largest hazards of the Kalawwa forest reserve and the older handing of the Sangamped elephant and the older elephant lived in the center of the Sangani Kalawwawe National Park and Kahalla Pallekele Sanctuary.
+
+Foreign travelers arrived in this area, desire to see this style elephant.
 
 ◼️
 
 [Data](articles/a553795e.json)
+
+[Extended Data](ext_articles/a553795e.ext.json)
 
 ---
 
@@ -1104,6 +1114,8 @@ But, the central bank under Governor Nandalal Weerasinghe has allowed the exchan
 
 [Data](articles/75c83646.json)
 
+[Extended Data](ext_articles/75c83646.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 290.65/75 to dollar, bonds steady
@@ -1123,6 +1135,8 @@ A bond maturing on 15.09.2029 closed stable at 10.70/85 percent. (Colombo/Nov29/
 ◼️
 
 [Data](articles/715cd5c5.json)
+
+[Extended Data](ext_articles/715cd5c5.ext.json)
 
 ---
 

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 22:28:20**
+As of **2024-11-29 22:16:31**
 
 ## Newspaper Stats
 
-*Scraped **57,645** Articles*
+*Scraped **57,643** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
-colombotelegraphcom | 584
+colombotelegraphcom | 583
 bbccomsinhala | 601
 islandlk | 3,452
 economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,444
-adaderanalk | 6,984
+adaderanalk | 6,983
 tamilmirrorlk | 8,196
 virakesarilk | 9,418
 adaderanasinhalalk | 9,952
@@ -26,29 +26,11 @@ adaderanasinhalalk | 9,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,642 (100.0%) of 57,645 articles have been extended.
+57,642 (100.0%) of 57,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
-
-### AG will not represent former IGP and Defense Secretary, court told
-
-*2024-11-29 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103875/ag-will-not-represent-former-igp-and-defense-secretary-court-told-) · `en`
-
-The Attorney General’s Department today informed the Supreme Court that it will not represent former Inspector General of Police (IGP) C.D. Wickramaratne and former Defense Secretary Major General (Retired) Kamal Gunaratne, who are named as respondents in a fundamental rights petition filed by former CID Director Shani Abeysekera, challenging his suspension from the service.
-
-The petition was taken up today (29) before a three-member Supreme Court bench comprising Justices S. Thurairaja, A.H.M.D. Nawaz, and Priyantha Fernando.
-
-Additional Solicitor General Viveka Siriwardena, appearing on behalf of the respondents, informed the court that the Attorney General would no longer represent former IGP C.D. Wickramaratne and former Defense Secretary Maj. Gen. (Retired) Kamal Gunaratne. The bench advised the said respondents to seek private legal counsel.
-
-The court adjourned further consideration of the petition to February 03.
-
-...
-
-[Data](articles/f9193a1a.json)
-
----
 
 ### 6 sentenced to death over murder at funeral in Narahenpita
 
@@ -2587,5 +2569,31 @@ Subsequent investigations revealed that the yellow was imported from India.
 [Data](articles/1bd0dd79.json)
 
 [Extended Data](ext_articles/1bd0dd79.ext.json)
+
+---
+
+### A shortage of vegetables due to rain
+
+*2024-11-29 10:46:59* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-එළවලු-හිගයක්/11-413354) · `si`
+
+Vegetable shortage hits Dambulla Economic Center due to heavy rains. Prices soar for carrots (Rs. 200/kg) and beans (Rs. 150/kg). Low Country vegetables scarce in markets. Trade Union warns of quality decline.
+
+🟩
+
+The Economic Center Trade Association states that vegetables have been reduced by the lowest level of vegetables to the Dambulla Economic Center due to existing audit weather.
+
+Dambulla Economic Center Trade Union Secretary I, the Secretary of the Dambulla Economic Center Trade Union said that due to the loss of the quality of the quality of the quality of the quality of the quality.
+
+Accordingly, the loss of vegetables from the Dambulla Economic Center, the loss of vegetables from the vegetables and rural areas, stocks in a kilo of carrot Lice in the centerThe cost of Rs.
+
+He pointed out that most Low Country vegetables are not found in the market.
+
+Accordingly, the Dambulla Economic Center is selling a kilo of beans between Rs.Further pointed out that vendors do not have. It is noteworthy that the Economic Center has taken a lonely nature.
+
+◼️
+
+[Data](articles/a12197dd.json)
+
+[Extended Data](ext_articles/a12197dd.ext.json)
 
 ---

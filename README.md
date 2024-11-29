@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 04:41:47**
+As of **2024-11-30 05:12:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,663 (100.0%) of 57,673 articles have been extended.
+57,666 (100.0%) of 57,673 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Central Environment Authority (CEA) Deputy Director General – Solid Waste Chat
 
 [Data](articles/9dd4d69f.json)
 
+[Extended Data](ext_articles/9dd4d69f.ext.json)
+
 ---
 
 ### SMEs showcase at 19th China International Small and Medium Enterprises Fair in Guangzhou
@@ -60,6 +62,8 @@ The CISMEF 2024 proved to be a robust platform for SMEs, enabling them to connec
 
 [Data](articles/7535864b.json)
 
+[Extended Data](ext_articles/7535864b.ext.json)
+
 ---
 
 ### FTZMA congratulates Labour Minister and Deputy Minister of Economic Development
@@ -73,6 +77,8 @@ The Executive Committee together with members of the Free Trade Zone Manufacture
 ...
 
 [Data](articles/10526e13.json)
+
+[Extended Data](ext_articles/10526e13.ext.json)
 
 ---
 

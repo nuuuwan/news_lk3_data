@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 11:43:11**
+As of **2024-11-29 12:02:06**
 
 ## Newspaper Stats
 
-*Scraped **57,537** Articles*
+*Scraped **57,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,503
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,439
-adaderanalk | 6,970
+adaderanalk | 6,971
 tamilmirrorlk | 8,183
 virakesarilk | 9,377
 adaderanasinhalalk | 9,926
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,533 (100.0%) of 57,537 articles have been extended.
+57,533 (100.0%) of 57,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### Mound of earth blocks road in Nawalapitiya
+
+*2024-11-29 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103860/mound-of-earth-blocks-road-in-nawalapitiya) · `en`
+
+Nawalapitiya Police said that traffic movement on the Nawalapitiya - Dolosbage road has been completely halted due to a mound of earth and several trees collapsing on the road.
+
+The incident had occurred at around 2.00 a.m. today (29) in the Weligodawatte area of the road.
+
+In addition, power outages have been reported in many areas of Nawalapitiya due to several trees falling on the power lines along with the earth mound.
+
+◼️
+
+[Data](articles/018fa0f0.json)
+
+---
 
 ### The yellow worth Rs. 40 lakhs is stuck
 
@@ -2511,25 +2527,5 @@ In a letter to the Foreign Minister, Manusha Nanayakkara said that the allegatio
 [Data](articles/ef4f0be2.json)
 
 [Extended Data](ext_articles/ef4f0be2.ext.json)
-
----
-
-### Sabina is headed with the rain
-
-*2024-11-28 15:58:11* · [`adalk`](https://www.ada.lk/breaking_news/වැස්සත්-සමඟ-සේනා-හිස-ඔසවයි/11-413340) · `si`
-
-Sabina faces challenges as North Central Provincial Director of Agriculture warns Rajarata province about crop damage due to caterpillar infestation. Minister advises farmers to seek guidance from local agricultural experts.
-
-🟩
-
-North Central Provincial Director of Agriculture Dr. Buddhika Abeysinghe says that the Rajarata province is at the risk of the Rajarata province these days.
-
-Minister of farmers and crops have been reportedly affected by the caterpillary heave, and the Director of Agriculture Dr. Buddhika Abeysinghe said that the Craphoman Abeysinghe was informed of the agricultural advisor of the area before the spread of the area.It is to get advice to take.
-
-◼️
-
-[Data](articles/465d5470.json)
-
-[Extended Data](ext_articles/465d5470.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 21:01:07**
+As of **2024-11-29 21:26:03**
 
 ## Newspaper Stats
 
-*Scraped **57,640** Articles*
+*Scraped **57,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,443
-adaderanalk | 6,981
+adaderanalk | 6,983
 tamilmirrorlk | 8,196
 virakesarilk | 9,418
 adaderanasinhalalk | 9,952
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,638 (100.0%) of 57,640 articles have been extended.
+57,640 (100.0%) of 57,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### 6 sentenced to death over murder at funeral in Narahenpita
+
+*2024-11-29 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103874/6-sentenced-to-death-over-murder-at-funeral-in-narahenpita) · `en`
+
+The Colombo High Court has sentenced six defendants to death for the murder of one person and causing injuries to several others during a 2016 incident at a funeral in Narahenpita.
+
+The verdict was delivered by Colombo High Court Judge Adithya Patabendige following a lengthy trial.
+
+The Attorney General had filed the case against eight defendants regarding the murder of Manjula Mahesh Jayathilake and injuries to several others following a clash between two groups at a funeral in Udyana Mawatha, Narahenpita on July 20, 2016.
+
+However, two of the defendants have passed away during the duration of the trial.
+
+After extensive proceedings, the judge ruled that the prosecution had proven the charges against the defendants beyond a reasonable doubt.
+
+Accordingly, the judge imposed the death sentence on the six defendants.
+
+◼️
+
+[Data](articles/0d3ca181.json)
+
+---
+
+### ‘Red’ alert issued for Cyclone ‘FENGAL’: Severe weather expected, impact to reduce after today
+
+*2024-11-29 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103873/red-alert-issued-for-cyclone-fengal-severe-weather-expected-impact-to-reduce-after-today) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert warning for the Cyclone “FENGAL” over Southwest Bay of Bengal for the land, the deep and shallow sea areas around the island.
+
+As per the warning, the Deep Depression over Southwest Bay of Bengal moved north-northwestwards and intensified into a cyclonic storm “FENGAL” and was located about 280 km Northeast of Kankasanthurai and 310 km north-northeast of Trincomalee at 2.30 p.m. today, November 29, 2024.
+
+It is likely to move west-northwestwards and cross north Tamil Nadu-Puducherry coasts as a cyclonic storm around noon of November 30, the advisory said.
+
+It can be expected that the influence of this system on the island’s weather will gradually reduce after today (29).
+
+Meanwhile, showers or thundershowers will occur at times in Northern and North-central provinces and in Trincomalee district. Heavy showers above 100 mm are likely at some places in Northern province.
+
+...
+
+[Data](articles/4be5afa1.json)
+
+---
 
 ### Compensation for affected farmers
 
@@ -288,29 +330,41 @@ He also said that data on crop damage will be collected after the adverse weathe
 
 ---
 
-### මිදිගම රුවන් රක්ෂිත බන්ධනාගාර ගත කෙරේ
+### Midigama Ruwan reserves remanded
 
 *2024-11-29 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203876) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ජයසේකර විතානගේ රුවන් චාමර නොහොත් මිදිගම රුවන් නැමැත්තා අද (29) දින කොටුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-එහිදී ඔහුව දෙසැම්බර් 13 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගතකළ බව අප අධිකරණ වාර්තාකරු පැවසීය.
 
-රුවන්, නඳුන් චින්තක නොහොත් හරක් කටාගේ බිරිඳගේ සහෝදරයා වන අතර ඔහුගේ උපදෙස් මත සිදුකළ අපරාධ රැසකම මහමොළකරු ලෙසත් කටයුතු කර ඇති බව පොලීසිය පවසයි.
 
-හරක් කටා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් පැනයාමට ගත් උත්සාහයේ සැලසුම්කරු ලෙසද මිදිගම රුවන් හඳුනාගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+"Midigama Ruwan, linked to organized crime & drugs, remanded till Dec 13. Accused of planning 'beef' crimes & main suspect in Mount Lavinia shooting case. Red notices issued by international police."
 
-ත්‍රස්ත මර්දන කොට්ඨාස නිලධාරී කණ්ඩායමක් විසින් පසුගිය මැයි 31වනදා රුවන් ව ඩුබායිහි සිට දිවයිනට රැගෙන එනු ලැබීය‍.
+🟩
 
-අනතුරුව ඔහු කොළඹ ත්‍රස්ත මර්දන කොට්ඨාසය වෙත රැගෙන ගොස් ප්‍රශ්න කර තිබුණි.
+Ranama Vitamra alias Mandara Ruwan, a member of a group of organized crime and a drug dealer, was produced before the Fort Magistrate's Court today (29).
 
-මිදිගම රුවන් පසුගිය අප්‍රේල් මාසයේදී ඩුබායීහී රාත්‍රී සාමාජ ශාලාවක ඇතිවූ ගැටුමක් හේතුවෙන් එරට පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+He was remanded until December 13, according to our judiciary correspondent.
 
-ඒ ඔහුට එරෙහිව ජාත්‍යන්තර පොලීසිය මඟින් රතු නිවේදන නිකුත්කර තිබියදීය.
+Ruwan, Chinthaka, or the brother of the beef, has also been the wife of the many crimes committed on his advice, police said.
 
-...
+The Midigama Ruwan has also been identified as the planner of the beef criminal investigation.
+
+On May 31, a group of terrorist officers were brought to the island from Dubai on May 31.
+
+He was then taken to the Colombo Terrorism Prevention Division and questioned.
+
+Midigama Ruwan was taken into custody by police in a clash at Duthibaya Nighty Hall last April.
+
+The international police issued red announcements against him.
+
+The suspect was named the main planner of the shooting case in Mount Lavinia Magistrate on August 4, 2022 and the Criminal Investigation Department has called for red announcements against him.
+
+◼️
 
 [Data](articles/fe9282e5.json)
+
+[Extended Data](ext_articles/fe9282e5.ext.json)
 
 ---
 
@@ -456,23 +510,29 @@ Parthiban is accused of murdering a top official at this moment. There he wants 
 
 ---
 
-### அமைச்சர் விஜித ஹேரத் கொழும்பு மேல் நீதிமன்றில் ஆஜர் !
+### Minister Vijitha Herath appears in Colombo High Court
 
 *2024-11-29 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200020) · `ta`
 
-இலஞ்ச ஊழல் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கு தொடர்பில் சாட்சியமளிப்பதற்காக அமைச்சர் விஜித ஹேரத் கொழும்பு மேல் நீதிமன்றத்தில் இன்று வெள்ளிக்கிழமை (29) ஆஜராகியுள்ளார்.
+Minister Vijitha Herath testifies in Colombo High Court regarding bribery case against former Bribery Commission leader Chandravasa Padiraja. Case adjourned to Feb 5.
 
-கடந்த நல்லாட்சி அரசாங்கத்தின் போது அபிவிருத்தி லொத்தர் சபை ஏற்றுக்கொள்ளப்பட்ட விலைமனு கோரல் முறைக்கு மாறாக பல தனியார் நிறுவனங்களுக்கு லொத்தர் ஊக்குவிப்பு பணிகளை ஒப்படைத்து அரசாங்கத்திற்கு நஷ்டத்தை ஏற்படுத்தியதாக குற்றம் சுமத்தி அதன் முன்னாள் தலைவர் சந்திரவன்ச பதிராஜவிற்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு வழக்கு தாக்கல் செய்திருந்தது.
+🟩
 
-இந்த வழக்கு தொடர்பில் முறைப்பாடு ஒன்றை சமர்ப்பித்திருந்த அமைச்சர் விஜித ஹேரத்தை இன்றைய தினம் சாட்சியமளிக்க நீதிமன்றில் முன்னிலையாகுமாறு உத்தரவிடப்பட்டிருந்தது.
+Minister Vijitha Herath appeared before the Colombo High Court today (29) to testify the case filed by the Bribery Commission.
 
-இதன்போது முன்வைக்கப்பட்ட சமர்ப்பணங்களை பரிசீலித்த கொழும்பு மேல் நீதிமன்ற நீதிபதி, ஆர்.எஸ்.எஸ்.சபுவித சாட்சிய விசாரணையை பெப்ரவரி 5 ஆம் திகதிக்கு ஒத்திவைத்துள்ளார்.
+The Bribery Commission has filed a lawsuit against its former leader Chandravasa Padiraja, accusing the government of handing over the Lotter promotion to many private companies, rather than the pricing of the Prices of the Development Lotteri Council during the last good government.
 
-மேலும் , அன்றைய தினம் அமைச்சர் விஜித ஹேரத்தையும் நீதிமன்றத்தில் ஆஜராகுமாறு உத்தரவிடப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Minister Vijitha Herath, who had lodged a complaint with the case, was ordered to appear before the court today.
+
+The Colombo High Court judge, who has considering the submissions, has adjourned the hearing of the RSS Sabhawa witness to February 5.
+
+It is also worth noting that Minister Vijitha Heram has also been ordered to appear in court that day.
 
 ◼️
 
 [Data](articles/c38f07a6.json)
+
+[Extended Data](ext_articles/c38f07a6.ext.json)
 
 ---
 
@@ -2537,53 +2597,5 @@ Engineers in charge of the Castlereigh reservoir and Maussakele reservoirs have 
 [Data](articles/f703b880.json)
 
 [Extended Data](ext_articles/f703b880.ext.json)
-
----
-
-### Prohibition on the use of temporary vehicle digit plates
-
-*2024-11-29 10:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்காலிக-வாகன-இலக்க-தகடுகளை-பயன்படுத்த-தடை/175-347971) · `ta`
-
-Temporary vehicle plates ban: Dec 15 deadline. Afterward, driving with them illegal. Obtain permanent plates by then or face legal consequences.
-
-🟩
-
-The Department of Motor Transport has said that the problem of providing automobile plates has been concluded and re -supplying digits has begun.
-
-Motor Transport Commissioner Nishantha Anurutha Weerasinghe has asked the people of the Motor Transport Commissioner to obtain it before December 15 if anyone has paid the Motor Transport Department to obtain digits.
-
-In addition, permission to drive vehicles on the streets using temporary digits will be canceled from 15th December.
-
-In a statement issued by the Motor Transport Commissioner, the police said, "The police will take legal action after December 15, about the vehicles operating using temporary digits."
-
-◼️
-
-[Data](articles/578bbad0.json)
-
-[Extended Data](ext_articles/578bbad0.ext.json)
-
----
-
-### Over 441,000 affected by adverse weather in Sri Lanka
-
-*2024-11-29 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103858/over-441000-affected-by-adverse-weather-in-sri-lanka) · `en`
-
-The Disaster Management Center (DMC) reports that a total of 441,590 individuals from 132,110 families across 24 districts have been impacted by the prevailing adverse weather conditions.
-
-So far, 13 fatalities have been confirmed according to the update issued at 06.00 a.m. today (28), with one person missing and 20 others injured.
-
-Additionally, 102 houses have been completely destroyed, while 2,096 homes have sustained partial damage.
-
-The DMC notes that 115,319 people from 45,329 families are currently seeking refuge with relatives, while 38,616 individuals from 12,348 families have been relocated to 347 designated safe locations.
-
-Ampara District remains the hardest hit, with 149,491 individuals from 43,631 families affected.
-
-The Irrigation Department has extended flood warnings for Mahaweli Ganga, Heda Oya, Deduru Oya, and Mundeniyaru rivers for an additional 48 hours. Residents in low-lying areas near these rivers are urged to exercise caution.
-
-...
-
-[Data](articles/ffde33a3.json)
-
-[Extended Data](ext_articles/ffde33a3.ext.json)
 
 ---

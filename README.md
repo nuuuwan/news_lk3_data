@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 10:01:38**
+As of **2024-11-29 09:42:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,522 (100.0%) of 57,523 articles have been extended.
+57,519 (100.0%) of 57,523 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,8 +71,6 @@ Strong winds of about 60 kmph can be expected at times over Northern, North-cent
 ...
 
 [Data](articles/0bf5b9fc.json)
-
-[Extended Data](ext_articles/0bf5b9fc.ext.json)
 
 ---
 
@@ -1228,33 +1226,23 @@ Flooding has so far been stored in 106 ponds and 30 large numbers have been part
 
 ---
 
-### There is a shortage of 300 drugs
+### ඖෂධ වර්ග 300ක හිඟයක්
 
 *2024-11-28 18:26:26* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වර්ග-300ක-හිඟයක්/11-413350) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+රෝගීන්ට ලබා දෙන සෝඩියම් බයිකාබනේට්, ඉන්සියුලින් සහ  ඉමියුනොගොලොබියුන් ඖෂධ ඇතුළු ඖෂධ වර්ග තුන්සියයක හිඟයක් ඇති වී තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
 
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්කැල්ල පාලන කාලයේදී ඖෂධ  සම්බන්ධයෙන් චෝදනා එල්ල වූ සෞඛ්‍ය සේවාවේ ඇතැම් ඉහළ නිලධාරීන් තවමත් එම නිලතලවල රැඳී සිටින බවද එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජය මහතා සඳහන් කළේය.
 
+මේ නිසා සෞඛ්‍ය සේවාවේ සැබෑ ලෙසම පවතින ගැටලුවලට නිසි ලෙස විසඳුම් නොලැබෙන බවත්, මෙය සෞඛ්‍ය පද්ධතියේ අනාගතය කෙරෙහි මහජන විශ්වාසය ගොඩනැංවීමට විශාල බාධාවක් බවද පවසා සිටියේය.
 
-300 drug shortage affects healthcare. Doctors blame officials for inadequate supply, citing sodium bicarbonate, insulin, and other essential medications. Former Health Minister accused of distributing substandard drugs. Experts call for replacing officials to improve public trust and address shortages.
+හිටපු සෞඛ්‍ය අමාත්‍යවරයාගේ කාලයේදී බාල ඖෂධ නිසා මිනිස් ජීවිත විනාශ වන විට බාල ඖෂධ නැතැයි හිටපු සෞඛ්‍ය අමාත්‍යවරයා සමග මාධ්‍ය සාකච්ඡා පැවැත්වූ නිලධාරීන් පවා තවමත් අදාළ තනතුරුවල රැඳී සිටින බවද සඳහන් කළේය.
 
-🟩
-
-The doctors' trade union alliances of doctors and civil rights are mentioned that there is a shortage of medical and civil rights, including sodium bicarbonate, insulbonate, insulin and emnonogolboyun pharmaceuticals.
-
-Dr. Chamal Sanjaya said that some high officials of the health service charged with the health service charged in the school during the former Health Minister Keheliya Rambukkalla administration.
-
-As a result, the health of health is a hindrance to build public confidence in the future of the health system.
-
-Although the former Health Minister held substandard medicines in the days of the former Minister of Health, there are still alleged medicines that there are still alleged medicines.
-
-As a result, during the last days, the original officials are removed and the appropriate officers should be removed and the appropriate officers should be appointed to the relevant posts.
+මේ නිසා පසුගිය පාලන කාලයේදී මෙරට සෞඛ්‍ය පද්ධතිය දැඩි අර්බුදයකට ලක් කිරීමට මුල් වූ නිලධාරීන් ඉවත් කර සුදුසු නිලධාරීන් අදාළ තනතුරුවලට පත් කළ යුතු බවද පැවසීය.
 
 ...
 
 [Data](articles/660d0f88.json)
-
-[Extended Data](ext_articles/660d0f88.ext.json)
 
 ---
 

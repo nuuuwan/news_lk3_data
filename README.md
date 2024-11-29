@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 19:18:41**
+As of **2024-11-29 19:26:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,617 (100.0%) of 57,629 articles have been extended.
+57,624 (100.0%) of 57,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -342,35 +342,55 @@ The district secretary has announced that he will be allowed to transport heavy 
 
 ---
 
-### கொக்கரெல்லையில் சட்டவிரோத சிகரெட்டுகளுடன் இருவர் கைது !
+### Two persons arrested with illegal cigarettes
 
 *2024-11-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200026) · `ta`
 
-குருணாகல், கொக்கரெல்ல பொலிஸ் பிரிவிற்குட்பட்ட இப்பாகமுவ பிரதேசத்தில், சட்டவிரோத சிகரெட்டுகளுடன் இரண்டு சந்தேக நபர்கள் நேற்று வியாழக்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-பொலிஸ் விசேட அதிரடிப்படையின் குருநாகல் முகாமின் அதிகாரிகள் குழு மேற்கொண்ட இரு வேறு சுற்றிவளைப்புக்களின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
 
-கைதுசெய்யப்பட்ட சந்தேக நபர்கள் , இப்பாகமுவ பிரதேசத்தைச் சேர்ந்த 32 மற்றும் 58 வயதுடையவர்கள் ஆவர்.
 
-இதேவேளை , கைதுசெய்யப்பட்ட சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக கொக்கரெல்ல பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+"2 men, ages 32 & 58, arrested in Ilgamuwa for illegal cigarettes. Arrested during STF raids. Handed to Kochala police for investigation."
+
+🟩
+
+Two suspects were arrested by police on Thursday (28) in the Ilgamuwa area of ​​Koorlla police division, Koorlla.
+
+They were arrested during two other raids conducted by a group of officials of the Kurunegala Camp of the Police Special Task Force.
+
+The arrested suspects were 32 and 58 years old from Ilgamuwa.
+
+Meanwhile, the arrested suspects have been handed over to the Kochala police station for further investigations.
 
 ◼️
 
 [Data](articles/d37c1d1b.json)
 
+[Extended Data](ext_articles/d37c1d1b.ext.json)
+
 ---
 
-### சீரற்ற வானிலை காரணமாக யாழில் 69 ஆயிரத்து 384 பேர் பாதிப்பு
+### 69 thousand 384 people in Jaffna due to inclement weather
 
 *2024-11-29 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200028) · `ta`
 
-யாழ்ப்பாணத்தில் நிலவும் சீரற்ற வானிலை காரணமாக இன்றைய தினம் வெள்ளிக்கிழமை (29) நண்பகல் 12.00 மணி வரையிலான  நிலவரப்படி 20 ஆயிரத்து 732 குடும்பங்களைச் சேர்ந்த 69 ஆயிரத்து 384 பேர் பாதிக்கப்பட்டுள்ளனர்.
+Here's a summary in 200 characters:
 
-மேலும், 79 பாதுகாப்பு நிலையங்களில் 2 ஆயிரத்து 136 குடும்பங்களைச் சேர்ந்த 7 ஆயிரத்து 342 பேர் தங்கவைக்கப்பட்டுள்ளதாக மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு அறிவித்துள்ளது.
+
+
+69,384 people affected in Jaffna due to bad weather. 7,342 housed in 79 shelters. 20,732 families impacted.
+
+🟩
+
+Due to the inclement weather in Jaffna, 69 thousand 384 people belonging to 20 thousand 732 families have been affected as of today (29) noon.
+
+The District Disaster Management Unit has announced that 7 thousand 342 persons belonging to 2 thousand 136 families have been housed in 79 security centers.
 
 ◼️
 
 [Data](articles/7808ebca.json)
+
+[Extended Data](ext_articles/7808ebca.ext.json)
 
 ---
 
@@ -387,6 +407,8 @@ The water cut has been imposed owing to urgent repairs being carried out on the 
 ◼️
 
 [Data](articles/af682e60.json)
+
+[Extended Data](ext_articles/af682e60.ext.json)
 
 ---
 
@@ -410,6 +432,8 @@ Kushani Rohanadeera further said that the MPs whose homes are located more than 
 
 [Data](articles/bcd19bbd.json)
 
+[Extended Data](ext_articles/bcd19bbd.ext.json)
+
 ---
 
 ### Political stability an important factor for long-term economic growth – CBSL chief
@@ -426,39 +450,61 @@ The central bank chief said that firstly now the country has a political stabili
 
 [Data](articles/4044e7ee.json)
 
+[Extended Data](ext_articles/4044e7ee.ext.json)
+
 ---
 
-### කොළඹ ප්‍රදේශ කිහිපයකට පැය 18ක ජල කප්පාදුවක්
+### 18 hour water cut in several parts of Colombo
 
 *2024-11-29 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203872) · `si`
 
-කොළඹ ප්‍රදේශ කිහිපයකට පැය 18 ජල කප්පාදුවක් සිදුකරන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කරයි.
+Colombo faces 18-hour water cut: 12 noon to 6 pm today. Emergency repairs on water supply tubes from Ambatale to Oyet cause disruption.
 
-ඒ අනුව අද (29) දහවල් 12 සිට හෙට (30) උදෑසන 6 දක්වා කොළඹ 12, 13, 14 සහ 15 යන ප්‍රදේශවලට ජල කප්පාදුව බලපැවැත්වේ.
+🟩
 
-අඹතලේ සිට එළිහවුස් දක්වා ජලය සපයන ජල සම්ප්‍රේශන නළයක සිදුකෙරෙන හදිසි හා අත්‍යවශ්‍ය අලුත්වැඩියා කටයුත්තක් හේතුවෙන් එලෙස ජල සැපයුම කප්පාදු කරන බව එම මණ්ඩලය දැනුම්දෙයි.
+The National Water Supply and Drainage Board announced that there will be 18 hours of water cut in several areas in Colombo.
+
+Accordingly, water cuts will be effective from 12 noon to 6 pm today (29).
+
+The Board is informed that the supply of water will be slashed due to an emergency and essential repair work that provides water supply tube that will provide water from the Ambatale to Oyget.
 
 ◼️
 
 [Data](articles/52e54a0a.json)
 
+[Extended Data](ext_articles/52e54a0a.ext.json)
+
 ---
 
-### வீதிகள், கட்டடங்களை அமைக்கும்போது உரிய விதிமுறைகளை பின்பற்றவில்லை; குளங்களை தூர்வாரவில்லை; அன்றாடம் உழைத்து உண்பவர்கள் பெரும் அவலத்தில்! - யாழ். வெள்ள நிலை குறித்து ரஜீவன் எம்.பி.
+### The streets and buildings do not follow the appropriate rules;The pools are not dried;Those who work every day are in great distress!- RPG. Rajeevan MP
 
 *2024-11-29 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200018) · `ta`
 
-வீதிகள், கட்டடங்களை அமைக்கும்போது உரிய விதிமுறைகளை பின்பற்றாமையும் குளங்களை தூர்வாருவது குறித்து கவனம் செலுத்தாததுமே யாழ்ப்பாணத்தில் வெள்ளம் வழிந்தோடாமல் தேங்கி நிற்பதற்கு காரணம் என தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ஜெ.ரஜீவன் தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-நேற்று பாதுகாப்பு அமைச்சின் செயலாளர் தலைமையில் இயற்கை அனர்த்தம் தொடர்பாக ஆராய்வதற்கான கூட்டம் நடைபெற்றது. அதில் அமைச்சர் சந்திரசேகரும் கலந்துகொண்டார்.
 
-பல பகுதிகளில் வெள்ளம் வழிந்தோடாமல் நிற்கிறது. யாழ்ப்பாணத்தில் வெள்ளம் வழிந்தோட வழியின்றி தேங்கி நிற்பதற்கு காரணம், வீதிகளை உயரமாக அமைத்தமையே ஆகும்.
 
-வீதிகளை புனரமைத்து மீண்டும் கட்டிய வேளை அவற்றை உயரமாக கட்டியுள்ளனர். இதேபோல வீடுகளை, வர்த்தக நிலையங்களை அமைக்கும்போது விதிமுறைகளை பின்பற்றவில்லை. குளங்களை தூர்வாரவில்லை. வடிகால் அமைப்பு சிறந்த முறையில் இல்லை. பருத்தித்துறை வீதி இதற்கு ஒரு உதாரணம். அங்கு வடிகாலமைப்பு இல்லாத நிலை காணப்படுகிறது.
+Jaffna floods caused by poor infrastructure planning: neglected ponds, improper road/building construction, inadequate drainage. Government provides aid but more assistance needed. Daily wage workers struggle; social institutions urged to help.
+
+🟩
+
+National People's Power MP J. Rajivan said that the floods in Jaffna are due to the lack of focus on the ponds and the lack of focusing on the ponds when the roads and buildings are built.
+
+A meeting was held yesterday to investigate the natural disaster headed by the Secretary of the Ministry of Defense. Minister Chandrasekhar also attended the event.
+
+Floods stand in many areas. The reason for the flooding in Jaffna is the reason why the streets are high.
+
+The streets are renovated and rebuilded.Similarly when setting up homes and businesses do not follow the rules. The pools are not drowning. The drainage system is not the best. Point Pedro Road is an example of this. There is a lack of drainage.
+
+There is no place where floodwaters are unprecedented. Thus the current state may last a couple of days. Some areas may last long.
+
+The government is more concerned about providing assistance to the affected people. The national people's power has also incorporated itself.
 
 ...
 
 [Data](articles/10e756d8.json)
+
+[Extended Data](ext_articles/10e756d8.ext.json)
 
 ---
 

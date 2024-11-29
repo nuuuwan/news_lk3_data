@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 09:30:26**
+As of **2024-11-29 09:09:56**
 
 ## Newspaper Stats
 
-*Scraped **57,523** Articles*
+*Scraped **57,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,452
 economynextcom | 3,499
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,437
-adaderanalk | 6,966
+adalk | 5,436
+adaderanalk | 6,964
 tamilmirrorlk | 8,179
 virakesarilk | 9,377
 adaderanasinhalalk | 9,926
@@ -26,51 +26,11 @@ adaderanasinhalalk | 9,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,518 (100.0%) of 57,523 articles have been extended.
+57,514 (100.0%) of 57,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
-
-### Putin says Russia could hit ‘decision-making centres’ in Kyiv with new missile
-
-*2024-11-29 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103855/putin-says-russia-could-hit-decision-making-centres-in-kyiv-with-new-missile) · `en`
-
-Russia may use its new Oreshnik hypersonic missile to attack “decision-making centres” in Kyiv in response to Ukraine’s firing of Western missiles at Russian territory, President Vladimir Putin said on Thursday.
-
-Russia has not so far struck Ukrainian government ministries, parliament or the president’s office in the course of the 33-month war.
-
-Kyiv is heavily protected by air defences, but Putin says the Oreshnik, which Russia fired for the first time at a Ukrainian city last week, is incapable of being intercepted - a claim greeted with scepticism by Western experts.
-
-“Of course, we will respond to the ongoing strikes on Russian territory with long-range Western-made missiles, as has already been said, including by possibly continuing to test the Oreshnik in combat conditions, as was done on November 21,” Putin told leaders of a security alliance of ex-Soviet countries at a summit in Kazakhstan.
-
-...
-
-[Data](articles/b21b7b51.json)
-
----
-
-### Deep depression’s influence on Sri Lanka’s weather to reduce after today
-
-*2024-11-29 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103854/deep-depressions-influence-on-sri-lankas-weather-to-reduce-after-today) · `en`
-
-The Meteorology Department says the deep depression over the southwest Bay of Bengal was located about 240 km northeast of Trincomalee and 290km east of Kankasanthurai around 11.30 p.m. of 28th November 2024.
-
-It is likely to move northwestwards, towards Tamil Nadu coast. It can be expected that the influence of this system on the island’s weather will gradually reduce after today (29).
-
-Showers or thundershowers will occur at times in Northern and North-central provinces and in Trincomalee district, it said.
-
-Heavy  showers  above  100  mm  are  likely  at  some  places  in  Northern province.  Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Matale and Kandy  districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island in the evening or night, the Met. Department added.
-
-Strong winds of about 60 kmph can be expected at times over Northern, North-central, North-western, Eastern, Central and Southern provinces.
-
-...
-
-[Data](articles/0bf5b9fc.json)
-
----
 
 ### Life lost from disasters across the country
 
@@ -1088,25 +1048,19 @@ A senior police officer in the Ampara District said that the arrested persons wi
 
 ---
 
-### Outstanding growth in the stock market
+### කොටස් වෙළඳපොලේ කැපී පෙනෙන වර්ධනයක්
 
 *2024-11-28 19:17:25* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-කැපී-පෙනෙන-වර්ධනයක්/11-413351) · `si`
 
-Colombo Stock Exchange sees remarkable growth: Total Price Index surges 114.5% to 13,164.33 units; S&P Index rises 41.01 points to 3,917.62, a 1.06% increase.
+කොළඹ කොටස් වෙළඳපොළ තුළ කැපී පෙනෙන වර්ධනයක් අද දිනයේදී පෙන්නුම් කළේය.
 
-🟩
+ඒ අනුව සමස්ත මිල දර්ශකය ඒකකය 114.5කින් එනම් සියයට 0.88කින් ඉහළ ගොස් ඒකක 13 164.33ක් දක්වා වර්ධනය විය.
 
-The Colombo Stock Exchange showed a significant growth today.
-
-The total price index increased by 114.5 percent to 13 164.33 units.
-
-Also S. And P. Index also increased by 41.01 units and increased to 3917.62 units. It is an increase of 1.06 percent.
+එසේම එස්. ඇන්ඩ් පී. දර්ශකයද ඒකක 41.01කින් ඉහළ ගොස් ඒකක 3917.62ක් දක්වා වර්ධනය විය. එය සියයට 1.06ක වර්ධනයකි.
 
 ◼️
 
 [Data](articles/349b57e6.json)
-
-[Extended Data](ext_articles/349b57e6.ext.json)
 
 ---
 
@@ -1221,26 +1175,6 @@ Flooding has so far been stored in 106 ponds and 30 large numbers have been part
 [Data](articles/545beea9.json)
 
 [Extended Data](ext_articles/545beea9.ext.json)
-
----
-
-### ඖෂධ වර්ග 300ක හිඟයක්
-
-*2024-11-28 18:26:26* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වර්ග-300ක-හිඟයක්/11-413350) · `si`
-
-රෝගීන්ට ලබා දෙන සෝඩියම් බයිකාබනේට්, ඉන්සියුලින් සහ  ඉමියුනොගොලොබියුන් ඖෂධ ඇතුළු ඖෂධ වර්ග තුන්සියයක හිඟයක් ඇති වී තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
-
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්කැල්ල පාලන කාලයේදී ඖෂධ  සම්බන්ධයෙන් චෝදනා එල්ල වූ සෞඛ්‍ය සේවාවේ ඇතැම් ඉහළ නිලධාරීන් තවමත් එම නිලතලවල රැඳී සිටින බවද එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජය මහතා සඳහන් කළේය.
-
-මේ නිසා සෞඛ්‍ය සේවාවේ සැබෑ ලෙසම පවතින ගැටලුවලට නිසි ලෙස විසඳුම් නොලැබෙන බවත්, මෙය සෞඛ්‍ය පද්ධතියේ අනාගතය කෙරෙහි මහජන විශ්වාසය ගොඩනැංවීමට විශාල බාධාවක් බවද පවසා සිටියේය.
-
-හිටපු සෞඛ්‍ය අමාත්‍යවරයාගේ කාලයේදී බාල ඖෂධ නිසා මිනිස් ජීවිත විනාශ වන විට බාල ඖෂධ නැතැයි හිටපු සෞඛ්‍ය අමාත්‍යවරයා සමග මාධ්‍ය සාකච්ඡා පැවැත්වූ නිලධාරීන් පවා තවමත් අදාළ තනතුරුවල රැඳී සිටින බවද සඳහන් කළේය.
-
-මේ නිසා පසුගිය පාලන කාලයේදී මෙරට සෞඛ්‍ය පද්ධතිය දැඩි අර්බුදයකට ලක් කිරීමට මුල් වූ නිලධාරීන් ඉවත් කර සුදුසු නිලධාරීන් අදාළ තනතුරුවලට පත් කළ යුතු බවද පැවසීය.
-
-...
-
-[Data](articles/660d0f88.json)
 
 ---
 
@@ -2402,27 +2336,21 @@ Lahiru Kumara and Asapitha Fernando took 2 wickets each and Prabath Jayasuriya t
 
 ---
 
-### Tax pole in 10 islands in 10 islands in 10 islands in Kalpitiya
+### බද්දට දුන් කල්පිටියේ  දූපත් 10 කින් රුපියල් කෝටි නවයක බදු පොල්ලක්
 
 *2024-11-28 15:39:07* · [`adalk`](https://www.ada.lk/breaking_news/බද්දට-දුන්-කල්පිටියේ--දූපත්-10-කින්-රුපියල්-කෝටි-නවයක-බදු-පොල්ලක්/11-413338) · `si`
 
-Sri Lanka Tourism Development Authority fails to recover tax on Kalpitiya island leases. Audit report highlights unpaid taxes since 2018 due to infrastructure delays and restrictions imposed by the fishing community.
+සංචාරක කටයුතු සඳහා කල්පිටියේ දූපත් දහයක් බදුගත් ආයෝජක සමාගම් හතකින් වසර ගණනාවකට අදාළ රුපියල් 92,959,827 ක  බදු මුදලක්  අයකර කර ගැනීමට ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය අපොහොසත්වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
 
-🟩
+සංචාරක කර්මාන්ත  කටයුතු සඳහා නිදහස් ප්‍රදානයන්  ලෙස සංචාරක සංවර්ධන අධිකාරියට ලැබුණු කල්පිටියේ දූපත් 12 ක් අතරින් දූපත් දහයකට අයත් ඉඩම්   අක්කර 669 ක් 2010,2011,2020 සහ 2022 වර්ෂවල අධිකාරිය මගින්  සමාගම් හතකට බදුදී ඇති බව විගණන කාර්යාලය නිකුත් කළ විගණන වාර්තාවක සඳහන් වේ.
 
-The National Audit Office reveals that the Sri Lanka Tourism Development Authority has failed to recover tax on a seven-year tax investment companies in seven years of tax on tourism.
+එම සියලුම  බදුකරුවන්  විසින්  මෙතෙක්  මෙහෙයුම් කටයුතු ආරම්භ කර නැති බවත් බදුගැනීම වෙනුවෙන් සංචාරක අධිකාරියට  2018 සිට  ගෙවිය යුතු බදු මුදල් මෙලෙස ගෙවා නැති බවත් විගණනයෙන් පෙන්වා දෙයි.
 
-A Audit Report issued a total of 12 acres of Kalpitiya, which has been leased out of seven of the islands in a tenure of 12 islands in the year 2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010,2010.
-
-The audit points out that all the lessers have not started operations yet and that the Taxes' Authority has paid from 2018 has not yet been paid for leasing.
-
-The circuit development authority responded to the Audit Office that the progress initiated by the fishing community, restricting the islands, infrastructure and delay due to the delay in the fisheries community, and delay.
+දූපත් ප්‍රමාණය ප්‍රමාණවත් නොවීම, ධීවර ප්‍රජාවගේ ගැටළු,යටිතල පහසුකම් සීමා කිරීම සහ අනුමැතිය ප්‍රමාදවීම ආදිය හේතුවෙන් ආරම්භ කරන ලද  ව්‍යාපෘතිවල  ප්‍රගතිය බලාපොරොත්තු වූවාට වඩා මන්දගාමි වී  ඇතැයි මේ සම්බන්ධයෙන් සංචාරක සංවර්ධන අධිකාරිය විගණන කාර්යාලය වෙත දුන් පිළිතුරේ සඳහන්වේ.
 
 ◼️
 
 [Data](articles/8bc2ba31.json)
-
-[Extended Data](ext_articles/8bc2ba31.ext.json)
 
 ---
 
@@ -2529,5 +2457,89 @@ Of these, 37541 from 11890 families live in the homes of friends.To date, 7241 p
 [Data](articles/561ef2b7.json)
 
 [Extended Data](ext_articles/561ef2b7.ext.json)
+
+---
+
+### Main suspect in Rs. 75 million cash robbery fled to Dubai?
+
+*2024-11-28 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103843/main-suspect-in-rs-75-million-cash-robbery-fled-to-dubai) · `en`
+
+Another suspect involved in the recent robbery in Minuwangoda of over Rs. 75 million in cash from a private company providing cash in transit services has reportedly fled to Dubai.
+
+This has been revealed during the investigation conducted by the officers of the Gampaha Division Crimes Bureau who are investigating the incident.
+
+On November 18, the driver of a private company providing cash in transit services had fled with over Rs. 70 million in cash which was being transported in the Minuwangoda area.
+
+Subsequently, three suspects were arrested in relation to the incident on two separate occasions, with more than Rs. 30.55 million in stolen cash found in their possession.
+
+Accordingly, during the interrogation of two of the suspects who were arrested yesterday (27), it was revealed that they had spent most of the stolen money on prostitutes.
+
+...
+
+[Data](articles/4f4a8590.json)
+
+[Extended Data](ext_articles/4f4a8590.ext.json)
+
+---
+
+### Announcement about the weather tomorrow
+
+*2024-11-28 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203838) · `si`
+
+Weather alert: Thunderstorms expected in northern regions tomorrow, heavy rain possible in Trincomalee. Strong winds may cause damage. Public advised to take precautions.
+
+🟩
+
+The depositive pressure recession in the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bengal has been around the northeast of about 110 km away from Trincomalee this morning.
+
+The department was released tomorrow (29), the Department said.
+
+It is informed that the north is slowly heading to the North Western towards the North Western and more slowly.
+
+The effects of this system will gradually reduce the effect of the island weather after tomorrow.
+
+However, tomorrow in the North and the North and the North and the North and the North and North-Media and Trincomalee will be thundershops.
+
+MM to certain places in the Northern Province. Heavy rains and more than 100 can occur.
+
+Thundershowers during the Western, Sabaragamuwa and North Western Provinces and in the Galle District.
+
+Showers or thundershowers will occur at several places in the evening or night.
+
+Stories from Ven.. Strong winds can cause about 60.
+
+...
+
+[Data](articles/edef6fe4.json)
+
+[Extended Data](ext_articles/edef6fe4.ext.json)
+
+---
+
+### A 104-year-old person is a successful lension surgery
+
+*2024-11-28 15:18:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-104ක-පුද්ගලයෙකු-ඇස්වලට-සාර්ථක-කාච-දැමීමේ-සැත්කමක්/11-413336) · `si`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+104-year-old undergoes lens surgery in Sri Lanka. Dr. Lalitha Senarath performs cataract removal on Piyanupup Withana, setting record for oldest patient. Surgery restores vision, allowing Withana to read again after year of difficulty.
+
+🟩
+
+Learn to the eyes of a 104 year old person was successfully served at a private hospital in Galle recently. Virginary Eye Surgeon Lalitha Senarath says that this is the oldest person's older surgery.
+
+This special surgery was carried out a person named Piyanupup Withana. He is currently residing in Hapugala, Hapugala. Mr. Withanage's Samadamatha. He was born as sixth of a family of seven children on July 23, 1921. After marriage with Mrs. LK Sumanaatathi, they residents of the Hattatotuwa area in Hattotuwa area. He is now a Memouitant who is happy to spend his children's children
+
+"I read the books, papers, until recently. Now since a year ago, my eyes were diminished. So I find it difficult to read books.Door, you can see the lenses, and the lenses can see the skins. Now I can read books again. So I'm very happy. "
+
+Specialist Eye Surgeon Lalitha Senarath says that his surgery was very successful.
+
+...
+
+[Data](articles/5a99f173.json)
+
+[Extended Data](ext_articles/5a99f173.ext.json)
 
 ---

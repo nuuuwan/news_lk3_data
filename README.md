@@ -1,36 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 05:50:40**
+As of **2024-11-29 08:08:07**
 
 ## Newspaper Stats
 
-*Scraped **57,503** Articles*
+*Scraped **57,515** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
 colombotelegraphcom | 582
-bbccomsinhala | 598
-islandlk | 3,445
+bbccomsinhala | 599
+islandlk | 3,452
 economynextcom | 3,499
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,434
+adalk | 5,435
 adaderanalk | 6,964
-tamilmirrorlk | 8,175
+tamilmirrorlk | 8,177
 virakesarilk | 9,377
-adaderanasinhalalk | 9,923
+adaderanasinhalalk | 9,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,501 (100.0%) of 57,503 articles have been extended.
+57,508 (100.0%) of 57,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### ගැඹුරු පීඩන අවපාතයේ බලපෑම ක්‍රමයෙන් අඩුවෙයි
+
+*2024-11-29 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203849) · `si`
+
+නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය අද (29) දිනයෙන් පසු දිවයිනේ කාලගුණයට සිදුවෙන බලපෑම ක්‍රමයෙන් අවම වනු ඇතැයි බලාපොරොත්තු වෙයි.
+
+අද අලුයම නිකුත් කළ නවතම කාලගුණ අනාවැකිය මගින් ඒ බව සඳහන් කරයි.
+
+නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පවතින ගැඹුරු පීඩන අවපාතය ඊයේ (28) රාත්‍රී 11.30 පමණ වනවිට ත්‍රිකුණාමලයට කිලෝමීටර් 240ක් පමණ ඊසාන දෙසින් සහ කන්කසන්තුරය සිට කිලෝමීටර් 290 පමණ නැගෙනහිර දෙසින් පිහිටා තිබූ බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද නිවේදනය කළේය.
+
+එය වයඹ දෙසට ගමන් කරමින් තමිල්නාඩු වෙරළ දක්වා ගමන් කිරීමට වැඩි හැකියාවක් ඇති බවට අනුමාන කෙරේ.
+
+ඒ අනුව අද දිනයේ දිවයිනේ උතුරු සහ උතුරු-මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇති විය හැකිය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මාතලේ සහ මහනුවර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවෙයි.
+
+සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+...
+
+[Data](articles/6b6d2750.json)
+
+---
+
+### Secretary of the Ministry of Defense visits Vadamarachchi
+
+*2024-11-29 06:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-அமைச்சின்-செயலாளர்-வடமராட்சிக்கு-விஜயம்/175-347965) · `ta`
+
+Defense Ministry Secretary visits Vadamarachchi, examines flood damage, discusses relief efforts with locals, promises to inform President about the disaster.
+
+🟩
+
+The Secretary of the Ministry of Defense made a sudden visit to the Holy Corporation, which was the most affected in the Vadamarachchi area due to inclement weather.
+
+Defense Ministry Secretary Sampath Tuiyakonda examined the flood situation and discussed with the people of the area.
+
+He has assured the public that he is bringing to the President's attention to the disaster in the area.. (A)
+
+◼️
+
+[Data](articles/f66a70fd.json)
+
+[Extended Data](ext_articles/f66a70fd.ext.json)
+
+---
 
 ### Govt. pledges relief assistance to farmers affected by severe weather
 
@@ -166,6 +214,94 @@ Funded by a $ 600,000 donation from the Standard Chartered Foundation, the Sashr
 
 ---
 
+### ComBank Digital soars past 1.5 million registered users in a landmark moment
+
+*2024-11-29 01:53:00* · [`islandlk`](http://island.lk/combank-digital-soars-past-1-5-million-registered-users-in-a-landmark-moment/) · `en`
+
+The Commercial Bank of Ceylon has achieved another milestone in its digital revolution, with ‘ComBank Digital’ – the Bank’s omni-channel digital banking platform – surpassing 1.5 million registered users.Announcing the landmark, the Bank said the award-winning platform continues to lead digital transformation in Sri Lanka’s banking sector as the most widely used digital channel that serves retail, SME and corporate clients.
+
+Driven by Commercial Bank’s ‘Digital by Default’ business model, ComBank Digital currently processes more than 5 million transactions a month, with a digital penetration of 45% and 48 million customer interactions, and was processing transactions averaging Rs 400 billion in value per month by the end of October this year.
+
+...
+
+[Data](articles/d387b108.json)
+
+[Extended Data](ext_articles/d387b108.ext.json)
+
+---
+
+### Pan Asia Bank broadens digital presence with new Digital Zones
+
+*2024-11-29 01:52:00* · [`islandlk`](http://island.lk/pan-asia-bank-broadens-digital-presence-with-new-digital-zones/) · `en`
+
+Pan Asia Bank proudly announces the launch of its latest Digital Zones in Matale and Gampola, marking a significant step in its mission to provide advanced, customer-friendly banking services across Sri Lanka. These new Digital Zones are designed to make banking more accessible, convenient, and efficient for customers in these regions.
+
+The Digital Zones in Matale and Gampola feature cutting-edge facilities, including 24/7 banking services and intelligent banking kiosks, enabling customers to perform secure and hassle-free transactions at any time. These zones are a reflection of Pan Asia Bank’s unwavering commitment to enhancing the banking experience through innovation and technology.
+
+...
+
+[Data](articles/1ca74ce2.json)
+
+[Extended Data](ext_articles/1ca74ce2.ext.json)
+
+---
+
+### IMF statement on Sri Lanka to members of financial community
+
+*2024-11-29 01:48:00* · [`islandlk`](http://island.lk/imf-statement-on-sri-lanka-to-members-of-financial-community/) · `en`
+
+Kristalina Georgieva, Managing Director of the International Monetary Fund (IMF), issued the following statement about Sri Lanka to Members of the Financial Community on November 26, 2024.
+
+...
+
+[Data](articles/40b6071f.json)
+
+[Extended Data](ext_articles/40b6071f.ext.json)
+
+---
+
+### Dr. Sumith Pilapitiya makes compelling case for peaceful co-existence of human and elephant
+
+*2024-11-29 01:47:00* · [`islandlk`](http://island.lk/dr-sumith-pilapitiya-makes-compelling-case-for-peaceful-co-existence-of-human-and-elephant/) · `en`
+
+Wycherley International School hosted its annual Elephant Scholarship Awards ceremony, featuring a compelling keynote address by well- known environmental scientist and elephant researcher, Dr. Sumith Pilapitiya.
+
+The event held recently at Thabowa Lake Resort in Karuwalagaswewa highlighted the school’s commitment to wildlife conservation and education, focusing on fostering a deeper understanding of the challenges and solutions for human-elephant coexistence.
+
+Dr. Pilapitiya engaged the audience with an in-depth exploration of elephant social behaviours and the intricate dynamics of living alongside these intelligent creatures.
+
+His discourse provided fresh perspectives and energized the school community, further elevating the significance of the Elephant Scholarship initiative.
+
+...
+
+[Data](articles/b0552828.json)
+
+[Extended Data](ext_articles/b0552828.ext.json)
+
+---
+
+### සුරතල් සතුන් හරහා ආ හැකි 'මාරයාගෙන්' ඔබේ දරුවා ආරක්ෂා කර ගන්නේ කෙසේ ද?
+
+*2024-11-29 01:30:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gxn2xjx3no) · `si`
+
+සුරතල් සතුන් හරහා ආ හැකි 'මාරයාගෙන්' ඔබේ දරුවා ආරක්ෂා කර ගන්නේ කෙසේ ද?
+
+සුරතල් සතුන් මානසික ආතතිය, කාන්සිය ඇතුළු මානසික තත්ත්වයන්ට විසඳුමක් වන බව පිළිගැනුණ ද, ඇතැම් විට ඔවුන් හරහා කුඩා දරුවන් අනතුරට පත්වන අවස්ථා ද විරල නොවේ.
+
+මීට සතියකට පමණ ඉහතදී ගාල්ල, නෙළුව ප්‍රදේශයේ 7 හැවිරිදි දරුවෙකුගේ දිවි අහිමි වීමට කුඩා බලු පැටවෙකු හරහා පැමිණි ජලභීතිකා වෛරසය හේතු විය.
+
+ආගන්තුක ලෙස නිවසට පැමිණි බලු පැටවෙකු අදාළ නිවසේ සිට ඇති අතර, දින කිහිපයකින් පසු එම බලු පැටවා අතුරුදහන් වී තිබිණි.
+
+එම සිදුවීමෙන් මාස දෙකකට පමණ පසුව උණ රෝගය වැළඳී ගාල්ල, කරාපිටිය ශික්ෂණ රෝහලට ඇතුළත් කළ දරුවාට නැවත නිවසට පැමිණීමට ජලභිතිකා වෛරසය ඉඩ දී තිබුණේ නැත.
+
+නිවසට පැමිණි ආගන්තුක බලු පැටවාගෙන්, දරුවාට ජලභීතිකා රෝගය ආසාදනය වී ඇති බවට වෛද්‍යවරුන් සැක පළ කරන අතර, බලු පැටවා දරුවා සූරා තිබූ බවට, වෛද්‍යවරුන් රෝග නිධානය සොයාගන්නා තුරු දෙමාව්පියන් දැනුවත් වී තිබුණේ නැත.
+
+...
+
+[Data](articles/7ae9ba72.json)
+
+---
+
 ### Rise of digital campaigning: How social platforms shaped Sri Lanka’s elections
 
 *2024-11-29 01:06:13* · [`dailyftlk`](https://www.ft.lk/opinion/Rise-of-digital-campaigning-How-social-platforms-shaped-Sri-Lanka-s-elections/14-769865) · `en`
@@ -227,6 +363,28 @@ The new Government and the IMF have so far been in sync. For instance, the IMF u
 [Data](articles/0906dbf5.json)
 
 [Extended Data](ext_articles/0906dbf5.ext.json)
+
+---
+
+### Fallen Elephant Recovery safely
+
+*2024-11-29 00:37:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீழ்ந்து-கிடந்த-யானை-பாதுகாப்பாக-மீட்பு/175-347964) · `ta`
+
+Elephant falls ill, recovers safely: An 8-year-old elephant collapsed in Vavuniya's Kudakachakodi field due to illness. Wildlife officials rescued it after villagers reported the incident. The elephant was likely searching for food during bad weather conditions.
+
+🟩
+
+An elephant fell down due to illness in the Vavuniya Kudakachakodi field has been safely recovered by the officials of the Department of Wildlife.
+
+The elephant was recovered yesterday (28) based on information provided by the villagers.
+
+Officers of the Department of Wildlife said that the elephant was eight years old and had fallen into the fields while searching for food due to bad weather conditions.. (A)
+
+◼️
+
+[Data](articles/b4c52395.json)
+
+[Extended Data](ext_articles/b4c52395.ext.json)
 
 ---
 
@@ -725,6 +883,22 @@ A senior police officer in the Ampara District said that the arrested persons wi
 [Data](articles/a6223fdb.json)
 
 [Extended Data](ext_articles/a6223fdb.ext.json)
+
+---
+
+### කොටස් වෙළඳපොලේ කැපී පෙනෙන වර්ධනයක්
+
+*2024-11-28 19:17:25* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-කැපී-පෙනෙන-වර්ධනයක්/11-413351) · `si`
+
+කොළඹ කොටස් වෙළඳපොළ තුළ කැපී පෙනෙන වර්ධනයක් අද දිනයේදී පෙන්නුම් කළේය.
+
+ඒ අනුව සමස්ත මිල දර්ශකය ඒකකය 114.5කින් එනම් සියයට 0.88කින් ඉහළ ගොස් ඒකක 13 164.33ක් දක්වා වර්ධනය විය.
+
+එසේම එස්. ඇන්ඩ් පී. දර්ශකයද ඒකක 41.01කින් ඉහළ ගොස් ඒකක 3917.62ක් දක්වා වර්ධනය විය. එය සියයට 1.06ක වර්ධනයකි.
+
+◼️
+
+[Data](articles/349b57e6.json)
 
 ---
 
@@ -2315,217 +2489,5 @@ The key institutions are the International Bank for Reconstruction and Developme
 [Data](articles/ec9d99ea.json)
 
 [Extended Data](ext_articles/ec9d99ea.ext.json)
-
----
-
-### New cure for asthma after 50 years
-
-*2024-11-28 14:41:54* · [`adalk`](https://www.ada.lk/breaking_news/වසර-50ට-පසු-ඇදුම-රෝගයට-නව-ප්‍රතිකාරයක්-සොයා-ගැනේ/11-413334) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"London discovers groundbreaking asthma cure after 50-year drought. Pioneering treatment brings fresh hope to millions suffering from chronic respiratory condition."
-
-🟩
-
-London has found a new treatment for asthma.
-
-This is the first time that a new treatment has been found after 50 years.
-
-◼️
-
-[Data](articles/a421dc0b.json)
-
-[Extended Data](ext_articles/a421dc0b.ext.json)
-
----
-
-### Sri Lanka leader stresses on increasing govt revenue through key sectors, energy
-
-*2024-11-28 14:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-stresses-on-increasing-govt-revenue-through-key-sectors-energy-190672/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake at a meeting with the World Bank Group chief has stressed on raising the government revenue through key sectors including tourism and energy with the help of investors, his office said.
-
-President Dissanayake held a virtual meeting on Wednesday (27) with the President of the World Bank Group (WBG) Ajay Banga to discuss Sri Lanka’s future development priorities.
-
-“During the meeting, President Dissanayake emphasized the government’s focus on poverty alleviation, particularly in rural areas,” the President’s Media Division (PMD) said.
-
-“He also stressed the need for increasing government revenue through digitalization and by strengthening key sectors such as tourism, the maritime industry, state-owned enterprises (SOEs), and the energy sector, with a focus on encouraging investor participation in power generation.”
-
-...
-
-[Data](articles/64eabaa6.json)
-
-[Extended Data](ext_articles/64eabaa6.ext.json)
-
----
-
-### Sri Lanka hardline elements ready to exploit racial hatred: Former minister
-
-*2024-11-28 14:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-hardline-elements-ready-to-exploit-racial-hatred-former-minister-141702/) · `en`
-
-ECONOMYNEXT – Families should be allowed to grieve and memorialize their loved ones, a former Minister of Justice has said, but Sri Lanka must be watchful of hardline elements in the South that are ready to exploit any opportunity to stoke racial hatred.
-
-“Families should be allowed to grieve and memorialize their loved ones, even those whose paths were misled by the ideologies of the past,” Ali Sabry said on social platform X.
-
-This is a human right and an essential step in healing wounds, Sabry pointed out.
-
-“We must also remember that hardline elements in the South are ever-watchful, ready to exploit any opportunity to stoke racial hatred. Let us deny them that chance,” he said.
-
-The former minister’s post follows social media posts criticizing the commemoration of Maaveerar Naal in the country’s north.
-
-Sabry said that “glorifying the LTTE or its leader, a ruthless architect of terror, is not the way forward.”
-
-...
-
-[Data](articles/d548ad61.json)
-
-[Extended Data](ext_articles/d548ad61.ext.json)
-
----
-
-### Ampara tractor incident:  Driver’s assistant surrenders, driver’s body recovered
-
-*2024-11-28 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103841/ampara-tractor-incident-drivers-assistant-surrenders-drivers-body-recovered) · `en`
-
-The assistant of the tractor driver involved in the tragic tractor accident at Karaitivu in Ampara, who was previously reported missing, has surrendered to the Karaitivu Police Station.
-
-According to Karaitivu Police, the tractor driver’s assistant appeared by himself at the police station this morning (28) and was arrested for endangering lives by illegally transporting passengers in a tractor for monetary gain, despite warnings from security forces during the flood situation.
-
-Meanwhile, the bodies of four school children, another passenger, and the tractor driver involved in the incident have been recovered. However, the Disaster Management Center (DMC) confirmed that two students are still missing.
-
-In separate incidents related to the adverse weather, a person drowned while observing water spilling from the Mahakachchakodiya Tank in Vavuniya. Another individual drowned after a boat overturned while fishing in the Yan Oya River, Trincomalee.
-
-...
-
-[Data](articles/13c16728.json)
-
-[Extended Data](ext_articles/13c16728.ext.json)
-
----
-
-### Seven Iranian sentenced to life in prison
-
-*2024-11-28 14:20:45* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජාතිකයින්-07-දෙනෙකුට-ජීවිතාන්තය-දක්වා-සිරදඬුවම්/11-413333) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-7 Iranians sentenced to life for smuggling 425kg heroin in 2019.
-
-🟩
-
-Seven Iranians have been sentenced to life in prison by the Colombo High Court.
-
-In 2019, the seven Iranians were arrested in the coast with over 425 kilograms of heroin.
-
-◼️
-
-[Data](articles/8190fd87.json)
-
-[Extended Data](ext_articles/8190fd87.ext.json)
-
----
-
-### Russia Strip Attack - Electricity disconnect for more than one million people in Ukraine
-
-*2024-11-28 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199927) · `ta`
-
-Russia's air strike cuts electricity for over 1 million Ukrainians. Over 500,000 in western Vynnytsia region affected. Authorities urge residents to seek shelter. Three western regions impacted. Russian missiles detected in eight Ukrainian regions, including Kyiv.
-
-🟩
-
-Russia has carried out fierce air strikes, targeting Ukraine's strength, said the Minister of Power.
-
-Ukraine officials have said that more than the Achievement of Russia's attack has been cut off.
-
-According to reports, more than 523,000 people have been cut off in the western Viviv region of Ukraine.
-
-Meanwhile, the public has been deployed in the area after the authorities have asked the people in the power cuts to go to safe underground areas.
-
-The Western Regional Governor said three regions in the west of Ukraine have been affected.
-
-It has been reported that Russia's missiles have been observed in eight regions of Ukraine last night.
-
-Officials said that two missiles were found in two places in the capital of Ukraine.
-
-◼️
-
-[Data](articles/7032871f.json)
-
-[Extended Data](ext_articles/7032871f.ext.json)
-
----
-
-### Tusker ‘Deegadanthu 1’ dies from electrocution
-
-*2024-11-28 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103839/tusker-deegadanthu-1-dies-from-electrocution-) · `en`
-
-The infamous tusker known as ‘Deegadanthu 1’, one of the elephants with the longest tusks in the country, often spotted roaming the Kala Wewa National Park, has been electrocuted to death after coming into contact with an electric fence set up in front of a house in Andiyagala, Hinguruwewa.
-
-The tusker was well known for its magnificent tusks and its status as the oldest elephant in the area, making it a popular attraction for both local and foreign tourists.
-
-◼️
-
-[Data](articles/aec7c2dd.json)
-
-[Extended Data](ext_articles/aec7c2dd.ext.json)
-
----
-
-### Death toll due to adverse weather climbs to 12
-
-*2024-11-28 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103838/death-toll-due-to-adverse-weather-climbs-to-12) · `en`
-
-According to Sri Lanka’s Disaster Management Center (DMC), a total of 12 deaths have been reported due to the prevailing adverse weather conditions in the country.
-
-Among the 12 fatalities, eight are from the Ampara District. The number of injured stands at 17, while two individuals remain missing.
-
-The DMC stated that a total of 330,894 people from 98,635 families in 175 divisional secretariat divisions across 21 districts have been affected by the bad weather as of 08.00 a.m. today (28).
-
-It was reported that 82 houses were completely damaged, and 1,465 houses were partially damaged.
-
-Additionally, the DMC confirmed that a total of 26,625 people from 8,358 families have been relocated to 267 safe locations.
-
-◼️
-
-[Data](articles/b4b54492.json)
-
-[Extended Data](ext_articles/b4b54492.ext.json)
-
----
-
-### Iranian advocates of the Iranians sentenced to death
-
-*2024-11-28 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203836) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo High Court sentences group to life imprisonment for heroin trafficking. The defendants were arrested in 2019 with over 425kg of heroin. Judge Sapa delivered the verdict after reviewing evidence. The case was filed by the Attorney General.
-
-🟩
-
-The Colombo High Court has sentenced the life sentenced to life in the Mattakkuliya waters in Colombo, Colombo.
-
-Colombo High Court Judge of Colombo after recert chance. S. S. This decision has been given by Mr. Sapa.
-
-The group was arrested following a raid carried out by the Police Narcotics Bureau while transporting more than 425 kilograms of heroin in the Vasamo, Colombo, Colombo on July 12, 2019.
-
-Accordingly, the Attorney General has filed the indictment against the accused by the Colombo High Court.
-
-The defendants have informed the court that the case will be heard today (28).
-
-Accordingly, the judge has ordered the defendants to be sentenced to life in prison.
-
-◼️
-
-[Data](articles/db4d6a48.json)
-
-[Extended Data](ext_articles/db4d6a48.ext.json)
 
 ---

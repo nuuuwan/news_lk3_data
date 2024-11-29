@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 19:42:01**
+As of **2024-11-29 20:00:44**
 
 ## Newspaper Stats
 
-*Scraped **57,629** Articles*
+*Scraped **57,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,443
-adaderanalk | 6,980
+adaderanalk | 6,981
 tamilmirrorlk | 8,195
 virakesarilk | 9,412
 adaderanasinhalalk | 9,949
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,629 (100.0%) of 57,629 articles have been extended.
+57,629 (100.0%) of 57,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### Farmers to be compensated for crop damage due to bad weather
+
+*2024-11-29 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103872/farmers-to-be-compensated-for-crop-damage-due-to-bad-weather) · `en`
+
+Minister of Agriculture and Irrigation K.D. Lal Kantha says that farmers whose fields have been damaged due to inclement weather conditions will be provided with all assistance to revive their agricultural activities.
+
+He further said that relevant authorities have been instructed to take necessary steps to restore all damaged irrigation facilities.
+
+Meanwhile, the Deputy Minister of Agriculture Namal Karunaratne says that compensation will be provided for crops destroyed due to adverse weather conditions.
+
+He says that it has been decided to provide compensation for paddy, maize, potatoes, soybeans, chillies and big onion crops.
+
+Accordingly, the Deputy Minister said that steps will be taken to provide the compensation subject to a ceiling of Rs. 40,000 per acre.
+
+He also said that data on crop damage will be collected after the adverse weather conditions in the country subside and the compensation will be paid.
+
+...
+
+[Data](articles/49c0857b.json)
+
+---
 
 ### How to compensate the crop rage
 
@@ -2543,31 +2565,5 @@ Thus, the Malwathu Oya released 2,140 feet transferred to the Malwathu Oya.
 [Data](articles/367a88f1.json)
 
 [Extended Data](ext_articles/367a88f1.ext.json)
-
----
-
-### The A / L revision of the aim is issued
-
-*2024-11-29 09:23:45* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-සංශෝධිත-කාල-සටහන-නිකුත්-කරයි/11-413353) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Exam rescheduled due to weather: Nov 27, Dec 2, 27, 31. New dates from Dec 4-20. Revised notice to be distributed at exam centers on Dec 7. Check official website for details.
-
-🟩
-
-Duessing of the examination due to inclement weather, the examination for question papers on November 27, 23,23, December 02, 23,27 and 31 respectivelyThe exam scheduled by the Examination Time Table of Examination has been announced by the examination schedule regarding the text examination.
-
-The Department of Examinations states that the subjects mentioned at the time of December 4 to 20 will be held on these days.
-
-A copy of this revised period, which has been issued in light brown, will be given to the examination centers on December 7, Exam No. or NICs at the official website of the Commission's Official WebsiteThe Commissioner General of Examinations is facilitated using the number by the Commissioner General of Examinations HJMC. Mr. Amit Jayasundara said
-
-◼️
-
-[Data](articles/1969ea09.json)
-
-[Extended Data](ext_articles/1969ea09.ext.json)
 
 ---

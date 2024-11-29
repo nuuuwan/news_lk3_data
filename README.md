@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 20:00:44**
+As of **2024-11-29 20:14:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,629 (100.0%) of 57,630 articles have been extended.
+57,630 (100.0%) of 57,630 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ He also said that data on crop damage will be collected after the adverse weathe
 ...
 
 [Data](articles/49c0857b.json)
+
+[Extended Data](ext_articles/49c0857b.ext.json)
 
 ---
 
@@ -2446,7 +2448,7 @@ These efforts led to the identification of two fishing boats suspected of being 
 
 Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
 
-...
+◼️
 
 [Data](articles/06d12378.json)
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 17:43:37**
+As of **2024-11-29 18:03:09**
 
 ## Newspaper Stats
 
-*Scraped **57,609** Articles*
+*Scraped **57,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 5,442
 adaderanalk | 6,979
 tamilmirrorlk | 8,195
 virakesarilk | 9,398
-adaderanasinhalalk | 9,945
+adaderanasinhalalk | 9,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,606 (100.0%) of 57,609 articles have been extended.
+57,606 (100.0%) of 57,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### ගුවනින් ගෙන ආ උසස් පෙළ ප්‍රශ්නපත්‍ර
+
+*2024-11-29 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203873) · `si`
+
+ශ්‍රී ලංකා ගුවන් හමුදාව විසින් උතුරු ප්‍රදේශයේ විභාග මධ්‍යස්ථායන් වෙත යොමුකර තිබු අපොස උසස්පෙළ විභාගයට අයත් ප්‍රශ්නපත්‍ර අද (29) නැවත රැගෙන ඒම සිදුකළේය.
+
+අයහපත් කාලගුණයේ බලපෑම හේතුවෙන් කල්දමා ඇති අපොස උසස්පෙළ විභාගයේ ප්‍රශ්නපත්‍ර එලෙස රැගෙන එනු ලැබීය.
+
+ශ්‍රී ලංකා ගුවන් හමුදාවට අයත් බෙල් 212 වර්ගයේ හෙලිකොප්ටර් යානය මඟින් උතුරු පළාතේ ඩෙල්ෆ්, වෙල්ලඩි, නාගදීපය යන ප්‍රදේශන් හි පිහිටුවා ඇති විභාග මධ්‍යස්ථාන්හි සිට නැවත උතුරු පළාත් අධ්‍යාපන අමාත්‍යංශය වෙත එම ප්‍රශ්නපත්‍ර රැගෙන ඒම සිදුකළේය.
+
+ශ්‍රී ලංකා ගුවන් හමුදාව අයහපත් කාලගුණයෙන් බලපෑමට ලක් වු ප්‍රදේශයන් හි නිරීක්ෂණ රාජකාරීන්වල තවදුරටත් නිරතව සිටින අතර අවශ්‍ය ඕනෑම අවස්ථාවකදී ජනතාව වෙත සහන සැලසීමට මෙන්ම මුඳවාගැනිමේ රාජකාරින් සඳහා ද සුදානම්ව සිටී.
+
+◼️
+
+[Data](articles/6b805f1f.json)
+
+---
 
 ### No changes to privileges granted to MPs
 
@@ -67,6 +85,22 @@ The central bank chief said that firstly now the country has a political stabili
 ...
 
 [Data](articles/4044e7ee.json)
+
+---
+
+### කොළඹ ප්‍රදේශ කිහිපයකට පැය 18ක ජල කප්පාදුවක්
+
+*2024-11-29 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203872) · `si`
+
+කොළඹ ප්‍රදේශ කිහිපයකට පැය 18 ජල කප්පාදුවක් සිදුකරන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කරයි.
+
+ඒ අනුව අද (29) දහවල් 12 සිට හෙට (30) උදෑසන 6 දක්වා කොළඹ 12, 13, 14 සහ 15 යන ප්‍රදේශවලට ජල කප්පාදුව බලපැවැත්වේ.
+
+අඹතලේ සිට එළිහවුස් දක්වා ජලය සපයන ජල සම්ප්‍රේශන නළයක සිදුකෙරෙන හදිසි හා අත්‍යවශ්‍ය අලුත්වැඩියා කටයුත්තක් හේතුවෙන් එලෙස ජල සැපයුම කප්පාදු කරන බව එම මණ්ඩලය දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/52e54a0a.json)
 
 ---
 
@@ -2481,39 +2515,5 @@ This strategic milestone marks CH17’s first foray into an international market
 [Data](articles/8b4f1cb9.json)
 
 [Extended Data](ext_articles/8b4f1cb9.ext.json)
-
----
-
-### Standard Chartered launches life-changing Goal Accelerator project for disadvantaged young women
-
-*2024-11-29 02:04:54* · [`dailyftlk`](https://www.ft.lk/business/Standard-Chartered-launches-life-changing-Goal-Accelerator-project-for-disadvantaged-young-women/34-769870) · `en`
-
-Standard Chartered Sri Lanka CEO Bingumal Thewarathanthri handing over the ceremonial cheque to SERVE Executive Director Sanjeeva de Mel
-
-With the intention of empowering disadvantaged young women in the country, Standard Chartered Sri Lanka has launched the next iteration of Goal, the Goal Accelerator, a three-year employability project, dubbed ‘Sashreeka’ in collaboration with SERVE, the local implementing partner and Women Win, a global multi-dimensional women’s fund.
-
-Funded by a $ 600,000 donation from the Standard Chartered Foundation, the Sashreeka project aims to benefit 450 young women, aged 18-35 years, from low socio-economic backgrounds living in the Colombo, Gampaha, and Kalutara districts. The initiative is designed to be inclusive, with 10% of the total target being young women who are differently abled.
-
-...
-
-[Data](articles/41dabb3d.json)
-
-[Extended Data](ext_articles/41dabb3d.ext.json)
-
----
-
-### ComBank Digital soars past 1.5 million registered users in a landmark moment
-
-*2024-11-29 01:53:00* · [`islandlk`](http://island.lk/combank-digital-soars-past-1-5-million-registered-users-in-a-landmark-moment/) · `en`
-
-The Commercial Bank of Ceylon has achieved another milestone in its digital revolution, with ‘ComBank Digital’ – the Bank’s omni-channel digital banking platform – surpassing 1.5 million registered users.Announcing the landmark, the Bank said the award-winning platform continues to lead digital transformation in Sri Lanka’s banking sector as the most widely used digital channel that serves retail, SME and corporate clients.
-
-Driven by Commercial Bank’s ‘Digital by Default’ business model, ComBank Digital currently processes more than 5 million transactions a month, with a digital penetration of 45% and 48 million customer interactions, and was processing transactions averaging Rs 400 billion in value per month by the end of October this year.
-
-...
-
-[Data](articles/d387b108.json)
-
-[Extended Data](ext_articles/d387b108.ext.json)
 
 ---

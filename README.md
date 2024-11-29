@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 23:13:06**
+As of **2024-11-29 23:25:59**
 
 ## Newspaper Stats
 
-*Scraped **57,648** Articles*
+*Scraped **57,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,444
-adaderanalk | 6,984
+adaderanalk | 6,985
 tamilmirrorlk | 8,197
 virakesarilk | 9,418
 adaderanasinhalalk | 9,952
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,647 (100.0%) of 57,648 articles have been extended.
+57,647 (100.0%) of 57,649 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/65c5bf9e.json)
+
+---
+
+### Death toll due to adverse weather climbs to 15
+
+*2024-11-29 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103876/death-toll-due-to-adverse-weather-climbs-to-15) · `en`
+
+The Department of Meteorology has announced that the impact of the deep depression over the southwest Bay of Bengal on the country’s weather system is expected to diminish starting today.
+
+Over the past few days, adverse weather conditions have claimed the lives of 15 individuals, with a total of 463,569 people reported to be affected.
+
+The landslide warnings previously issued remain in effect; however, the ‘Red evacuation’: landslide early warnings that were issued in three phases have been lifted.
+
+In a related development, the Department of Meteorology has forecasted that the deep depression over the southwest Bay of Bengal is likely to intensify into a cyclonic storm within the next few hours and is expected to progress toward the Tamil Nadu coast in India.
+
+◼️
+
+[Data](articles/1709a3e5.json)
 
 ---
 
@@ -2561,29 +2579,5 @@ Police and naval camp officers are engaged in search of the man.
 [Data](articles/90ba9109.json)
 
 [Extended Data](ext_articles/90ba9109.ext.json)
-
----
-
-### 500 kg of narcotics from two boats by Sri Lanka -Indian Navy
-
-*2024-11-29 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199968) · `ta`
-
-Sri Lankan-Indian Navy joint operation seizes 500 kg drugs from two boats with Sri Lankan flags. Indian Navy arrested suspects based on Sri Lanka Navy tip. Two boats identified via naval surveillance. Suspects handed over to Sri Lankan authorities for legal action.
-
-🟩
-
-The joint operation of the Sri Lankan -Indian Navy has seized 2 fishing boats found with the Sri Lankan flag and 500 kg of drugs and some suspects have been arrested.
-
-The arrest was taken by the Indian Navy on the basis of information provided by the Sri Lanka Navy to the Indian Navy that the drug was smuggled into boats with the Sri Lankan flag.
-
-The two boats were identified on the basis of the airline surveillance of the Indian navy.
-
-In addition, two boats and drug suspects have been handed over to Sri Lankan authorities for further legal action.
-
-◼️
-
-[Data](articles/3929b5ea.json)
-
-[Extended Data](ext_articles/3929b5ea.ext.json)
 
 ---

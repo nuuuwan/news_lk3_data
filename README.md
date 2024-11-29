@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 22:16:31**
+As of **2024-11-29 23:13:06**
 
 ## Newspaper Stats
 
-*Scraped **57,643** Articles*
+*Scraped **57,648** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
-colombotelegraphcom | 583
+colombotelegraphcom | 586
 bbccomsinhala | 601
 islandlk | 3,452
 economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,444
-adaderanalk | 6,983
-tamilmirrorlk | 8,196
+adaderanalk | 6,984
+tamilmirrorlk | 8,197
 virakesarilk | 9,418
 adaderanasinhalalk | 9,952
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,642 (100.0%) of 57,643 articles have been extended.
+57,647 (100.0%) of 57,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### மழைநீரில் வந்த விஷப்பாம்பு கடித்ததில் இளைஞர் மரணம்
+
+*2024-11-29 23:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழைநீரில்-வந்த-விஷப்பாம்பு-கடித்ததில்-இளைஞர்-மரணம்/175-348000) · `ta`
+
+வவுனியா - நெடுங்கேணி பட்டிக்குடியிருப்பு பகுதியில் வெள்ள நீரில் வந்த பாம்பு கடித்ததில் 20 வயதுடைய இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+
+மழை காரணமாக வீட்டு முற்றத்தில் உள்ள தென்னை மரத்தில் தேங்காய் சேகரித்து கொண்டிருந்த போது, ​​மழை நீரில் நீந்தி வந்த பாம்பு அவரை கடித்துள்ளது.
+
+உடனடியாக அவர் நெடுங்கேணி வைத்தியசாலையில் அனுமதிக்கப்பட்டு, பின்னர் அவரது நிலைமை கவலைக்கிடமாக இருப்பதால் வவுனியா பொது வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+கனமழை காரணமாக நெடுஞ்சாலைகளில் வெள்ளம் பெருக்கெடுத்து ஓடியதால் அம்பியூலன்ஸ்  வண்டி வவுனியாவை வந்தடைய நீண்ட நேரமாகியதால் இளைஞன் உயிரிழந்துள்ளார். R
+
+◼️
+
+[Data](articles/65c5bf9e.json)
+
+---
+
+### AG will not represent former IGP and Defense Secretary, court told
+
+*2024-11-29 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103875/ag-will-not-represent-former-igp-and-defense-secretary-court-told-) · `en`
+
+The Attorney General’s Department today informed the Supreme Court that it will not represent former Inspector General of Police (IGP) C.D. Wickramaratne and former Defense Secretary Major General (Retired) Kamal Gunaratne, who are named as respondents in a fundamental rights petition filed by former CID Director Shani Abeysekera, challenging his suspension from the service.
+
+The petition was taken up today (29) before a three-member Supreme Court bench comprising Justices S. Thurairaja, A.H.M.D. Nawaz, and Priyantha Fernando.
+
+Additional Solicitor General Viveka Siriwardena, appearing on behalf of the respondents, informed the court that the Attorney General would no longer represent former IGP C.D. Wickramaratne and former Defense Secretary Maj. Gen. (Retired) Kamal Gunaratne. The bench advised the said respondents to seek private legal counsel.
+
+The court adjourned further consideration of the petition to February 03.
+
+...
+
+[Data](articles/f9193a1a.json)
+
+[Extended Data](ext_articles/f9193a1a.ext.json)
+
+---
 
 ### 6 sentenced to death over murder at funeral in Narahenpita
 
@@ -484,21 +522,31 @@ Showers or thundershowers will occur at several places in the evening or night.
 
 ---
 
-### වැවිලි  අමාත්‍යාංශයේ විනාඩි එක හමාරක වීඩියෝ වෙළද දැන්වීමට රුපියල් ලක්ෂ 1740ක් වැයකරලා
+### The Plantation Ministry has spent Rs.
 
 *2024-11-29 17:48:22* · [`adalk`](https://www.ada.lk/breaking_news/වැවිලි--අමාත්‍යාංශයේ-විනාඩි-එක-හමාරක-වීඩියෝ-වෙළද-දැන්වීමට-රුපියල්-ලක්ෂ-1740ක්-වැයකරලා/11-413359) · `si`
 
-වැවලි හා ප්‍රජා යටිතල පහසුකම් කටයුතු අමාත්‍යාංශයේ එක අංශයක් මගින් විනාඩි එක හමාරක වීඩියෝ වෙළද දැන්වීමක් හදන්න රුපියල් ලක්ෂ1740ක මුදලක් වැයකර වසර දෙකක් තිස්සේ එය කොතනකවත් විකාශණය කර නොමැති බව විගණනයකින් සොයාගත් බව එහි ඇමති සමන්ත විද්‍යාරත්න මහතා පැවසීය.
+Here's a summary in 200 characters:
 
-ඌව පළාත් සභාවේ කර්මාන්ත අමාත්‍යාංශය සංවිධානය කළ "ඌව අභිමානි  ප්‍රදර්ශනය විවෘත්ත කිරීමට ප්‍රධාන ආරාධිතයා වශයෙන් පැමිණි අමාත්‍යාවරයා කර්මාන්තකරුවන් හා නිළධාරීන් අමතමින් 29 දින ඒසේ පැවසීය.
 
-"මම අමාත්‍යංශයේ වැඩ බාරගෙන ප්‍රථමයෙන්ම කළේ විගණන අංශයේ නිළධාරීන් ගෙන්වලා සාකජ්ජාවක් කළා, එහිදි තමයි දැනගන්න ලැබුනේ අමාත්‍යාංශයේ එක අංශයක් මගින් විනාඩි එක හමාරක වීඩියෝ වෙළද දැන්වීමක් හදන්න රුපියල් ලක්ෂ1740ක මුදලක් වැයකර වසර දෙකක් තිස්සේ එය කොතනකවත් විකාශණය කර නොමැති බව, එ් මුදල දැන්වීමට ගියාද
 
-විනාඩි එක හමාරට වැය කරපු මුදල ඌව පළාත් සභාවේ කර්මාන්ත අමාත්‍යාංශයටවත් ලැබිලා නැතුවා ඇති. අපිට මේ රට සුද්ධ කරලාම හදන්න වෙනවා මේවා අනවශ්‍ය දේවල් වසර 76ක් බිද වැටුන රට එක දවසකින් අපිට හදන්න බෑ නමුත් කොහොම හරි අපි හදනවා" යැයි ඇමති  සමන්ත විද්‍යාරත්න මහතා පැවසීය.
+Plantation Ministry spent Rs. 2.5 lakhs over 2 years. Minister Samantha Vidyaratne criticized lack of funds from Uva Provincial Council.
+
+🟩
+
+The Vavuniya and Community Infrastructure Affairs has been found in one division of the Ministry for two and a half lakhs for two years.
+
+The minister, who was organized to open Uva Parani exhibition organized by the Ministry of Industries and the Ministry of Industries, said:
+
+"I was assigned the work of the ministry, the ministry had not yet been broadcast for a single division of the Ministry for two years.
+
+The Ministry of Industries Council of the Uva Provincial Council has not received the cost of the cost of Rs.. We have to make this country to build this country in one day, we can't make the country in one day, but we're making the country in one day, "said Minister Samantha Vidyaratne.
 
 ◼️
 
 [Data](articles/f9aa4e84.json)
+
+[Extended Data](ext_articles/f9aa4e84.ext.json)
 
 ---
 
@@ -775,6 +823,22 @@ The District Disaster Management Unit has announced that 7 thousand 342 persons 
 [Data](articles/7808ebca.json)
 
 [Extended Data](ext_articles/7808ebca.ext.json)
+
+---
+
+### Lessons For Sri Lanka From The Great October Revolution
+
+*2024-11-29 17:23:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lessons-for-sri-lanka-from-the-great-october-revolution/) · `en`
+
+This month we had the 107th anniversary of the 1917 October Revolution (November 6–7 on the Gregorian calendar). It was a beacon of light for humanity pointing the way towards an era of liberation that would end the exploitation of “man by man”. Social-Democrats at the time believed that the political order of the Tsarist Empire and the peasant-based agricultural economy could not provide the economic base necessary for the revolution to quickly transition to a socialist phase. Lenin disagreed with that view.
+
+Given the current dominance of capitalism, did Lenin underestimate, the opportunities available for the imperialist capitalist order to expand quantitatively and horizontally?
+
+...
+
+[Data](articles/e31460ea.json)
+
+[Extended Data](ext_articles/e31460ea.ext.json)
 
 ---
 
@@ -2521,79 +2585,5 @@ In addition, two boats and drug suspects have been handed over to Sri Lankan aut
 [Data](articles/3929b5ea.json)
 
 [Extended Data](ext_articles/3929b5ea.ext.json)
-
----
-
-### The elephant returns to the paddy fields
-
-*2024-11-29 11:00:58* · [`adalk`](https://www.ada.lk/breaking_news/මහ-වැස්සේ-කුඹුරට-ආ-වන-අලියා-මඩේ-එරෙයි/11-413355) · `si`
-
-Elephant spotted in paddy field near Kumbukchchakody. Wildlife officials investigating, considering rescue efforts if needed.
-
-🟩
-
-Elaya, Whaya, who came to the brutal. Residents have informed the Wildlife Office at the Vavuniya Wangana, Vavuniya that a Warehow had come to a palm in Kumbukchchakody in the Kumbukchkodayu area.
-
-The office of the Vavuniya Wildlife Office has been unable to monitor the rain and mud due to any illness, the elephant or the elephant, which is in some illness.
-
-Wildlife officials have suspected that the vanali may have fallen in this place about two days.
-
-However, the office of the Vavuniya Wildlife Office has said that if a backhoe or the road was taken to the location or to check the forest, he will take steps to be treated.
-
-◼️
-
-[Data](articles/411be8bc.json)
-
-[Extended Data](ext_articles/411be8bc.ext.json)
-
----
-
-### The yellow worth Rs. 40 lakhs is stuck
-
-*2024-11-29 10:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/ரூ-40-இலட்சம்-பெறுமதியான-மஞ்சள்-சிக்கியது/95-347972) · `ta`
-
-Consumer Affairs Authority seizes 765 kg turmeric worth Rs 40 lakhs from private warehouse in Colombo. Turmeric imported from India. No prior notice given before release into market.
-
-🟩
-
-Investigators of the Consumer Affairs Authority (CEB), which surrounded the private repository complex in Colombo-15, seized 765 kilograms of turmeric.
-
-The Value of the Yellow House said the Consumer Affairs Authority said it was about Rs 40 lakhs.
-
-A senior official of the Authority said that the yellow stockpile was seized as he was ready to release the market without any information.
-
-Subsequent investigations revealed that the yellow was imported from India.
-
-◼️
-
-[Data](articles/1bd0dd79.json)
-
-[Extended Data](ext_articles/1bd0dd79.ext.json)
-
----
-
-### A shortage of vegetables due to rain
-
-*2024-11-29 10:46:59* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-එළවලු-හිගයක්/11-413354) · `si`
-
-Vegetable shortage hits Dambulla Economic Center due to heavy rains. Prices soar for carrots (Rs. 200/kg) and beans (Rs. 150/kg). Low Country vegetables scarce in markets. Trade Union warns of quality decline.
-
-🟩
-
-The Economic Center Trade Association states that vegetables have been reduced by the lowest level of vegetables to the Dambulla Economic Center due to existing audit weather.
-
-Dambulla Economic Center Trade Union Secretary I, the Secretary of the Dambulla Economic Center Trade Union said that due to the loss of the quality of the quality of the quality of the quality of the quality.
-
-Accordingly, the loss of vegetables from the Dambulla Economic Center, the loss of vegetables from the vegetables and rural areas, stocks in a kilo of carrot Lice in the centerThe cost of Rs.
-
-He pointed out that most Low Country vegetables are not found in the market.
-
-Accordingly, the Dambulla Economic Center is selling a kilo of beans between Rs.Further pointed out that vendors do not have. It is noteworthy that the Economic Center has taken a lonely nature.
-
-◼️
-
-[Data](articles/a12197dd.json)
-
-[Extended Data](ext_articles/a12197dd.ext.json)
 
 ---

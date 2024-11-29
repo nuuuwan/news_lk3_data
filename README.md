@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 17:26:08**
+As of **2024-11-29 17:43:37**
 
 ## Newspaper Stats
 
-*Scraped **57,606** Articles*
+*Scraped **57,609** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
-colombotelegraphcom | 582
+colombotelegraphcom | 583
 bbccomsinhala | 601
 islandlk | 3,452
 economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,442
-adaderanalk | 6,977
+adaderanalk | 6,979
 tamilmirrorlk | 8,195
 virakesarilk | 9,398
 adaderanasinhalalk | 9,945
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,945
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,601 (100.0%) of 57,606 articles have been extended.
+57,606 (100.0%) of 57,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### No changes to privileges granted to MPs
+
+*2024-11-29 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103870/no-changes-to-privileges-granted-to-mps-) · `en`
+
+The Secretary-General of Parliament, Kushani Rohanadeera stated that there will be no changes to the privileges granted to the Members of the Parliament.
+
+Speaking to the media, she revealed that 35 MPs have already submitted requests to obtain official residences from the Madiwela Housing Complex.
+
+The Secretary-General of Parliament explained that 25-30 houses previously returned by the former MPs are currently being renovated to provide official residences to new MPs.
+
+Accordingly, those official residences will be later allocated to the new MPs based on the priority.
+
+Out of a total 0f 108 official residences, 80 are designated for the parliamentarians of the ruling party, while 28 are reserved for the opposition members.
+
+Kushani Rohanadeera further said that the MPs whose homes are located more than 40 kilometers away from the Parliament complex can make requests for official residences at the Madiwela Housing Complex.
+
+...
+
+[Data](articles/bcd19bbd.json)
+
+---
+
+### Political stability an important factor for long-term economic growth – CBSL chief
+
+*2024-11-29 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103869/political-stability-an-important-factor-for-long-term-economic-growthcbslchief) · `en`
+
+The Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe says Sri Lanka’s economy is now in a much more stable position and that the present political stability is an important factor for long-term, sustainable economic development.
+
+“We lost both economic stability as well as political stability during last several years. We think about from that situation now. Obviously we are in a much more stable position in both fronts,” he said, speaking during the 59th Annual General Meeting of The Hotels Association of Sri Lanka (THASL).
+
+The central bank chief said that firstly now the country has a political stability with the new president, new government and that a long period of political stability is one important necessary factor for any economic long-term, steady, sustainable economic development.
+
+...
+
+[Data](articles/4044e7ee.json)
+
+---
 
 ### Storbs a century against Sri Lanka
 
@@ -90,17 +128,27 @@ The Chief Justice that the judges should act without violating that confidence a
 
 ---
 
-### உயர்தரப் பரீட்சைக்கான புதிய நேர அட்டவணை
+### New timetable for high quality examination
 
 *2024-11-29 16:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தரப்-பரீட்சைக்கான-புதிய-நேர-அட்டவணை/175-347986) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற காலநிலை காரணமாக க.பொ.த உயர்தர பரீட்சைகளை டிசம்பர் 3 ஆம் திகதி வரை ஒத்திவைக்க பரீட்சைகள் திணைக்களம் தீர்மானித்துள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர நேற்று அறிவித்திருந்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-ஏற்கனவே திட்டமிட்ட நேர அட்டவணையின் படியே 04 ஆம் திகதியிலிருந்து பரீட்சைகள மீள ஆரம்பமாகும் என அறிவித்ததையடுத்து ஒத்திவைக்கப்பட்ட நாட்களுக்குரிய பரீட்சைகளுக்கான திருத்தப்பட்ட நேர அட்டவணையை பரீட்சைகள் திணைக்களம் வெளியிட்டுள்ளது. R
+
+
+GCE A/L exam postponed to Dec 3 due to bad weather. Resumed on Dec 4. Revised schedule issued by Department of Examinations. Commissioner General Amit Jayasundera made the announcement.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundera yesterday announced that the Department of Examinations has decided to postpone the GCE Advanced Level examination till December 3 due to inclement weather in the country.
+
+The Department of Examinations has issued a revised schedule for the postponement days after the announcement of the examinations will be resumed from the 04th of the same scheme.. Remble
 
 ◼️
 
 [Data](articles/bbf81cf9.json)
+
+[Extended Data](ext_articles/bbf81cf9.ext.json)
 
 ---
 
@@ -117,6 +165,8 @@ Sri Lanka treasuries yields plunge across maturities, 12-month down 70bp
 ◼️
 
 [Data](articles/ccfa9e82.json)
+
+[Extended Data](ext_articles/ccfa9e82.ext.json)
 
 ---
 
@@ -141,6 +191,8 @@ Top contributors to the ASPI were Aitken Spence Hotel Holdings (up at 73.80), Ch
 ...
 
 [Data](articles/0d0abcfe.json)
+
+[Extended Data](ext_articles/0d0abcfe.ext.json)
 
 ---
 
@@ -614,6 +666,8 @@ SGCCI “expressed strong interest in forming joint ventures and collaborations 
 
 [Data](articles/de2babad.json)
 
+[Extended Data](ext_articles/de2babad.ext.json)
+
 ---
 
 ### "Rajarata Regina" train derailment!
@@ -720,21 +774,27 @@ The Ambassador cited the Colombo Lotus Tower project as an example, noting that 
 
 ---
 
-### 2024இல் அதிக எச்.ஐ.வி தொற்றாளர்கள் பதிவு!
+### Most HIV infections registered in 2024!
 
 *2024-11-29 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/199985) · `ta`
 
-2024ஆம் ஆண்டின் இரண்டாம் காலாண்டு பகுதியில் இலங்கையில் அதிகளவான எச்.ஐ.வி/எய்ட்ஸ் நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் என தேசிய எச்.ஐ.வி/எய்ட்ஸ் கட்டுப்பாட்டுத் திட்டம் தெரிவித்துள்ளது.
+Sri Lanka saw a 18% rise in HIV cases in Q2 2024 compared to 2023. Most patients were men under 25. This marks the highest quarterly count since 2009.
 
-2009ஆம் ஆண்டுக்கு பின்னர், அதிகளவான எச்.ஐ.வி/எய்ட்ஸ் நோயாளர்கள், 2024ஆம் ஆண்டின் இரண்டாம் காலாண்டுப் பகுதியிலே அடையாளம் காணப்பட்டுள்ளனர்.
+🟩
 
-இது 2023ஆம் ஆண்டின் இரண்டாவது காலாண்டு பகுதியை விட 18% அதிகரிப்பை பிரதிபலிக்கிறது.
+The National HIV/AIDS Control Scheme said that the highest number of HIV/AIDS in Sri Lanka has been identified in the second quarter of 2024.
 
-இரண்டாவது காலாண்டில் பதிவான நோயாளர்களில் 15-24 வயதுக்குட்பட்ட 28 ஆண்களும் மீதமுள்ள நோயாளர்கள் 25 வயதுக்கு மேற்பட்ட நபர்களாக காணப்படுகிறது.
+Since 2009, most HIV/AIDS patients have been identified in the second quarter of 2024.
+
+This reflects an increase of 18% more than the second quarter of 2023.
+
+In the second quarter, 28 men aged 15-24 and the remaining patients are over 25 years of age.
 
 ◼️
 
 [Data](articles/0e514978.json)
+
+[Extended Data](ext_articles/0e514978.ext.json)
 
 ---
 
@@ -1269,6 +1329,18 @@ New orders index continued to increase, up at 54.3 in October from 52.9 in Septe
 [Data](articles/c5622bc1.json)
 
 [Extended Data](ext_articles/c5622bc1.ext.json)
+
+---
+
+### Why Palestine Day?
+
+*2024-11-29 12:02:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-palestine-day/) · `en`
+
+“The Zionists indeed learnt well from the Nazis so well that it seems that their morally repugnant treatment of the Palestinians, and their attempt to destroy Palestinian society within Israel and the occupation territories, reveals them as basically Nazis with beards and black hats” ~ Norman Finklestein
+
+...
+
+[Data](articles/c22a4566.json)
 
 ---
 
@@ -2443,55 +2515,5 @@ Driven by Commercial Bank’s ‘Digital by Default’ business model, ComBank D
 [Data](articles/d387b108.json)
 
 [Extended Data](ext_articles/d387b108.ext.json)
-
----
-
-### Pan Asia Bank broadens digital presence with new Digital Zones
-
-*2024-11-29 01:52:00* · [`islandlk`](http://island.lk/pan-asia-bank-broadens-digital-presence-with-new-digital-zones/) · `en`
-
-Pan Asia Bank proudly announces the launch of its latest Digital Zones in Matale and Gampola, marking a significant step in its mission to provide advanced, customer-friendly banking services across Sri Lanka. These new Digital Zones are designed to make banking more accessible, convenient, and efficient for customers in these regions.
-
-The Digital Zones in Matale and Gampola feature cutting-edge facilities, including 24/7 banking services and intelligent banking kiosks, enabling customers to perform secure and hassle-free transactions at any time. These zones are a reflection of Pan Asia Bank’s unwavering commitment to enhancing the banking experience through innovation and technology.
-
-...
-
-[Data](articles/1ca74ce2.json)
-
-[Extended Data](ext_articles/1ca74ce2.ext.json)
-
----
-
-### IMF statement on Sri Lanka to members of financial community
-
-*2024-11-29 01:48:00* · [`islandlk`](http://island.lk/imf-statement-on-sri-lanka-to-members-of-financial-community/) · `en`
-
-Kristalina Georgieva, Managing Director of the International Monetary Fund (IMF), issued the following statement about Sri Lanka to Members of the Financial Community on November 26, 2024.
-
-...
-
-[Data](articles/40b6071f.json)
-
-[Extended Data](ext_articles/40b6071f.ext.json)
-
----
-
-### Dr. Sumith Pilapitiya makes compelling case for peaceful co-existence of human and elephant
-
-*2024-11-29 01:47:00* · [`islandlk`](http://island.lk/dr-sumith-pilapitiya-makes-compelling-case-for-peaceful-co-existence-of-human-and-elephant/) · `en`
-
-Wycherley International School hosted its annual Elephant Scholarship Awards ceremony, featuring a compelling keynote address by well- known environmental scientist and elephant researcher, Dr. Sumith Pilapitiya.
-
-The event held recently at Thabowa Lake Resort in Karuwalagaswewa highlighted the school’s commitment to wildlife conservation and education, focusing on fostering a deeper understanding of the challenges and solutions for human-elephant coexistence.
-
-Dr. Pilapitiya engaged the audience with an in-depth exploration of elephant social behaviours and the intricate dynamics of living alongside these intelligent creatures.
-
-His discourse provided fresh perspectives and energized the school community, further elevating the significance of the Elephant Scholarship initiative.
-
-...
-
-[Data](articles/b0552828.json)
-
-[Extended Data](ext_articles/b0552828.ext.json)
 
 ---

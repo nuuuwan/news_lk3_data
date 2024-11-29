@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 18:23:20**
+As of **2024-11-29 18:53:34**
 
 ## Newspaper Stats
 
-*Scraped **57,624** Articles*
+*Scraped **57,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,159 @@ islandlk | 3,452
 economynextcom | 3,508
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,442
+adalk | 5,443
 adaderanalk | 6,980
 tamilmirrorlk | 8,195
-virakesarilk | 9,410
-adaderanasinhalalk | 9,947
+virakesarilk | 9,412
+adaderanasinhalalk | 9,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,606 (100.0%) of 57,624 articles have been extended.
+57,608 (100.0%) of 57,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
 
-### சொர்க்கவாசல் - திரைப்பட விமர்சனம்
+### භෝග ගානියට වන්දි ලැබෙන හැටි
+
+*2024-11-29 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203875) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් විනාශ වූ භෝග වගාවන් සඳහා වන්දි ලබාදෙන බව කෘෂිකර්ම නියෝජ්‍ය අමාත්‍ය නාමල් කරුණාරත්න මහතා පවසයි.
+
+◼️
+
+[Data](articles/f5b75b52.json)
+
+---
+
+### கல்குடா பொலிஸ் பிரிவில் பல இடங்களில் திருட்டுச் சம்பவங்கள்
+
+*2024-11-29 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200042) · `ta`
+
+கல்குடா பொலிஸ் பிரிவில் வெவ்வேறு இடங்களில் வியாழக்கிழமை (29) இரவு திருட்டுச் சம்பவங்கள் இடம்பெற்றுள்ளதாக கல்குடா பொலிசார் தெரிவித்தனர்.
+
+பட்டியடிச்சேனை மற்றும் பேத்தாழை ஆகிய கிராமசேவகர் பிரிவுகளில் இவ் சம்பவங்கள் இடம்பெற்றுள்ளது. வீட்டின் கதவுகள், ஜன்னல் பகுதிகளை உடைத்து பெறுமதிவாய்ந்த வீட்டு உபகரணங்களை களவாடிச் சென்றுள்ளனர்.
+
+திருடர்களை பிடிப்பதற்காக மட்டக்களப்பு குற்ற தடயவியல் பிரிவு பொலிசார் சம்பவ இடத்திற்கு வரவழைக்கப்பட்டு மோப்ப சக்தி நாயின் உதவியுடன் விசாரணைகளை மேற்கொண்டு வருகினறனர்.
+
+திருடர்களிடமிருந்து தங்களது உடமைகளை பாதுகாத்துக் கொள்வதற்கு பிரதேச மக்கள் அவதானத்துடன் இருக்குமாறும் பொலிசார் பிரதேச மக்களை கேட்டுள்ளனர்.
+
+தற்போது மாவட்டத்தில் நிலவும் சீரற்ற வானிலையால் மக்களின் இயல்பு நிலை பாதிக்கப்பட்டு இடம்பெயர்ந்து இடைத்தங்கல் முகாம் மற்றும் உறவினர்களின் வீடுகளில் வாழ்ந்து வருகின்றனர். இவ் அசாதாரன சூழ்நிலையை பயன்படுத்தி திருட்டு சம்பங்கள் இடம்பெற்று வருகிறது.
+
+◼️
+
+[Data](articles/32f0d737.json)
+
+---
+
+### தலைமன்னாரில் கேரள கஞ்சாவுடன் நால்வர் கைது!
+
+*2024-11-29 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200032) · `ta`
+
+தலைமன்னார் பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் கேரள கஞ்சாவுடன் நால்வர் நேற்று வியாழக்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்கள் கேசாலே, சிரிதோப்பு பிரதேசத்தைச் சேர்ந்த 24, 28, 29 மற்றும் 32 வயதுடையவர்கள் ஆவர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடமிருந்து 06 கிலோ 120 கிராம் கேரள கஞ்சா பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9b77354f.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-11-29 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203874) · `si`
+
+දිවයින වටා වන ගැඹුරු හා නොගැඹුරු මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා කාලගුණයෙන් රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+අද (29) පස්වරු 6 එම නිවේදනය නිකුත් කර ඇති අතර, ජනතාවට අවධානයෙන් පසුවෙන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති ගැඹුරු පීඩන අවපාතය අද පස්වරු 2.30 පමණ වන විට සුළි කුණාටුවක් දක්වා වර්ධනය වී ත්‍රිකුණාමලයට කිලෝමීටර් 310ක් පමණ ඊසාන දෙසින් සහ කන්කසන්තුරය සිට කිලෝමීටර් 280 පමණ ඊසාන දෙසින් පිහිටා තිබුණි.
+
+එය සුළි කුණාටුවක් ලෙසින් බස්නාහිරට බරව වයඹ දෙසට ගමන් කර තමිල්නාඩු වෙරළ වෙත හෙට (30) දින ගමන් කිරීමට වැඩි හැකියාවක් ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+අද දිනයෙන් පසු දිවයිනේ කාලගුණයට මෙම පද්ධතිය මඟින් වන බලපෑම ක්‍රමයෙන් අවම වනු ඇතැයි බලාපොරොත්තු වේ.
+
+දිවයිනේ උතුරු සහ උතුරු-මැද පළාත් වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
+
+උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මාතලේ සහ මහනුවර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+
+...
+
+[Data](articles/ef639584.json)
+
+---
+
+### Paradise - Film Review
 
 *2024-11-29 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200035) · `ta`
 
-நடிகர்கள் : ஆர். ஜே. பாலாஜி, செல்வராகவன், சானியா ஐயப்பன், கருணாஸ், நட்டி என்கிற நட்ராஜ்,  பாலாஜி சக்திவேல், ஷஃரப் உதீன், ஹக்கீம் ஷா மற்றும் பலர்
+Here's a 200-character summary of the film review:
 
-''இந்திய சிறைகளில் எழுபது சதவீதத்தினருக்கு மேல் நீதிமன்றத்தால் தண்டிக்கப்படாத விசாரணை கைதிகள் தான் உள்ளதாகவும், அவர்களின் வாழ்வியலை சொர்க்கவாசல் திரைப்படம் பேசுகிறது'' என்றும் அறிமுக இயக்குநர் சித்தார்த் விஸ்வநாத் படத்தின் வெளியீட்டின் போது கூறியதால் வித்தியாசமான கதைக்களம் என்ற எதிர்பார்ப்பு வெகுஜன பார்வையாளர்களிடத்தில் ஏற்பட்டது.
 
-அவர்களின் இந்த எதிர்பார்ப்பை 'சொர்க்கவாசல்' திரைப்படம் நிறைவு செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-வீதியோர உணவகம் ஒன்றை தனது தாயாருடன் இணைந்து நடத்தி வருகிறார் பார்த்திபன் ( ஆர். ஜே. பாலாஜி). இவருக்கு அரசு துறையில் உயர் பதவியை வகிக்கும் அதிகாரி ஒருவர் நட்பாக இருக்கிறார். இந்த குடும்பத்திற்கு வழிகாட்டியாகவும், ஆலோசனை வழங்கும் நபராகவும் அவர் இருக்கிறார்.
+"Paradise" film review: Prison drama explores jail life, riots, police conspiracies & human rights violations. Strong performances by R.J. Balaji and Selvaraghavan. Director's gritty portrayal of prison realities.
+
+🟩
+
+Actors: r. J.. Balaji, Selvaraghavan, Sania Iyappan, Karunas, Nati alias Natraj, Balaji Sakthivel, Shafrab Udin, Hakeem Shah and many others
+
+During the release of the film's Siddharth Viswanath, the expectation of a different storyline came to the public spectators that "seventy percent of Indian jails are the prisoners who have not been punished by the High Court.
+
+Did the movie 'Parakavasal' complete this expectation?Or not?We will continue to see.
+
+Parthiban is running a street restaurant with his mother. J.. Balaji). He has a top position in the public sector. He is a guide and consultant person for this family.
+
+Parthiban is accused of murdering a top official at this moment. There he wants to meet the brutal murder convict Chikamani (Selvaraghavan). Most of the prisoners in the prison are under his control and put the prison under his domination.
 
 ...
 
 [Data](articles/e435f01d.json)
 
+[Extended Data](ext_articles/e435f01d.ext.json)
+
 ---
 
-### ගුවනින් ගෙන ආ උසස් පෙළ ප්‍රශ්නපත්‍ර
+### A / L question issues brought by air
 
 *2024-11-29 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203873) · `si`
 
-ශ්‍රී ලංකා ගුවන් හමුදාව විසින් උතුරු ප්‍රදේශයේ විභාග මධ්‍යස්ථායන් වෙත යොමුකර තිබු අපොස උසස්පෙළ විභාගයට අයත් ප්‍රශ්නපත්‍ර අද (29) නැවත රැගෙන ඒම සිදුකළේය.
+Sri Lanka Air Force operations impacted by weather:
 
-අයහපත් කාලගුණයේ බලපෑම හේතුවෙන් කල්දමා ඇති අපොස උසස්පෙළ විභාගයේ ප්‍රශ්නපත්‍ර එලෙස රැගෙන එනු ලැබීය.
 
-ශ්‍රී ලංකා ගුවන් හමුදාවට අයත් බෙල් 212 වර්ගයේ හෙලිකොප්ටර් යානය මඟින් උතුරු පළාතේ ඩෙල්ෆ්, වෙල්ලඩි, නාගදීපය යන ප්‍රදේශන් හි පිහිටුවා ඇති විභාග මධ්‍යස්ථාන්හි සිට නැවත උතුරු පළාත් අධ්‍යාපන අමාත්‍යංශය වෙත එම ප්‍රශ්නපත්‍ර රැගෙන ඒම සිදුකළේය.
 
-ශ්‍රී ලංකා ගුවන් හමුදාව අයහපත් කාලගුණයෙන් බලපෑමට ලක් වු ප්‍රදේශයන් හි නිරීක්ෂණ රාජකාරීන්වල තවදුරටත් නිරතව සිටින අතර අවශ්‍ය ඕනෑම අවස්ථාවකදී ජනතාව වෙත සහන සැලසීමට මෙන්ම මුඳවාගැනිමේ රාජකාරින් සඳහා ද සුදානම්ව සිටී.
+1. Re-taking control during GCE Advanced Level exam
+
+2. Bell 212 helicopter deployed for education ministry and Northern Province
+
+3. Continuing observation duties and readiness to assist
+
+
+
+Total character count: 199
+
+🟩
+
+The Sri Lanka Air Force was re-taken by the GCE Advanced Level Examination of the GCE ASP
+
+The question peer were brought to the Advanced Level Examination of the A / L examination due to the influence of inclement weather.
+
+The Sri Lanka Air Force's Bell 212 helicopter was brought to the Ministry of Education and the Northern Provincial Education to the Northern Provincial Education.
+
+The Sri Lanka Air Force continues to engage in observations duties affected by inclement weather and is still ready to provide relief to the people at any time.
 
 ◼️
 
 [Data](articles/6b805f1f.json)
+
+[Extended Data](ext_articles/6b805f1f.ext.json)
 
 ---
 
@@ -1113,6 +1217,20 @@ The Colombo Port City project was a fully Investment of the Colombo Port City pr
 [Data](articles/5ce283a5.json)
 
 [Extended Data](ext_articles/5ce283a5.ext.json)
+
+---
+
+### අයිස් මත්ද්‍රව්‍ය විශාල තොගයක් සමග ලංකාවේ ධීවර යාත්‍රා දෙකක් ඉන්දිය අත්අඩංගුවට
+
+*2024-11-29 13:43:44* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-මත්ද්‍රව්‍ය-විශාල-තොගයක්-සමග-ලංකාවේ-ධීවර-යාත්‍රා-දෙකක්-ඉන්දිය-අත්අඩංගුවට/11-413358) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව සහ ඉන්දීය නාවික හමුදාව අතර සිදු කෙරුණු සාර්ථක බුද්ධි තොරතුරු හුවමාරු කර ගැනීමක ප්‍රථිපලයක් වශයෙන්, අයිස් මත්ද්‍රව්‍ය (Crystal Methamphetamine) විශාල තොගයක් රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක් (01) සමඟ ශ්‍රී ලාංකික සැකකරුවන් පිරිසක් සහ එම ජාවාරමට සම්බන්ධ බවට සැක කෙරෙන තවත් මෙරට බහුදින  යාත්‍රාවක්  (01) සමඟ ශ්‍රී ලාංකික සැකකරුවන්  පිරිසක් 2024 නොවැම්බර් මස 24 සහ 25 යන දිනයන්හීදී  ඉන්දීය නාවික හමුදාව මඟින්, ඉන්දීය මුහුදු සීමාවේදි අත්අඩංගුවට ගැනීමට සමත්වී  ඇත.
+
+එම අයිස් මත්ද්‍රව්‍ය තොගය, බහුදින ධීවර යාත්‍රා සහ සැකකරුවන් අද දින (29) ශ්‍රී ලංකා නාවික නෞකා ගජභාහු නෞකාව වෙත ඉන්දීය නාවික හමුදාව විසින් භාර දීමට කටයුතු කෙරුණු අතර, නාවික හමුදාව විසින් එම අයිස් මත්‍ද්‍රව්‍ය තොගය, බහුදින ධිවර යාත්‍රා සහ සැක කරුවන් ඉදිරි නීතිමය කටයුතු සඳහා ගොඩබිමට රැගෙන ඒමට ඉදිරි කටයුතු සිදු කෙරෙමින් පවති.
+
+◼️
+
+[Data](articles/1b30e851.json)
 
 ---
 
@@ -2297,137 +2415,5 @@ A copy of this revised period, which has been issued in light brown, will be giv
 [Data](articles/1969ea09.json)
 
 [Extended Data](ext_articles/1969ea09.ext.json)
-
----
-
-### 97% of government school children in Sri Lanka have lost English Media Education
-
-*2024-11-29 08:42:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce8d5p5v0kko) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: 97% govt school kids lose English media ed. Parents want English but limited opportunities. Teacher shortage hinders bilingual education. Experts call for reform to benefit all students equally.
-
-🟩
-
-97% of government school children in Sri Lanka have lost English Media Education
-
-"Because my child was teaching school subjects in English because it was easy. It is easy to learn from English than Sinhala medium. But, only a limited number of people will give you the opportunity to learn from the English medium of English. My son has failed at that examination. So my son is in great difficulty, "The mother of a sixth-grade student in Colombo, a son-in-school student experienced its experience.
-
-As the BBC observed Sinhala service, as observed the Sinhala service, has created a huge demand for learning the school curriculum in English.
-
-There are a large number of pre-school children in English, and the number of children who communicate in English is a major demand for English media.
-
-In addition, some parents who spoke with us believe that an international language, English medium, can get a closed education.
-
-...
-
-[Data](articles/a4a142dc.json)
-
-[Extended Data](ext_articles/a4a142dc.ext.json)
-
----
-
-### Putin says Russia could hit ‘decision-making centres’ in Kyiv with new missile
-
-*2024-11-29 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103855/putin-says-russia-could-hit-decision-making-centres-in-kyiv-with-new-missile) · `en`
-
-Russia may use its new Oreshnik hypersonic missile to attack “decision-making centres” in Kyiv in response to Ukraine’s firing of Western missiles at Russian territory, President Vladimir Putin said on Thursday.
-
-Russia has not so far struck Ukrainian government ministries, parliament or the president’s office in the course of the 33-month war.
-
-Kyiv is heavily protected by air defences, but Putin says the Oreshnik, which Russia fired for the first time at a Ukrainian city last week, is incapable of being intercepted - a claim greeted with scepticism by Western experts.
-
-“Of course, we will respond to the ongoing strikes on Russian territory with long-range Western-made missiles, as has already been said, including by possibly continuing to test the Oreshnik in combat conditions, as was done on November 21,” Putin told leaders of a security alliance of ex-Soviet countries at a summit in Kazakhstan.
-
-...
-
-[Data](articles/b21b7b51.json)
-
-[Extended Data](ext_articles/b21b7b51.ext.json)
-
----
-
-### A man is sewed by a crocodile
-
-*2024-11-29 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203852) · `si`
-
-Man bitten by crocodile near KroKele Rock, Pottuvil. 41-year-old from Piyarachchi area. Police and Navy searching for missing person.
-
-🟩
-
-A crocodile by a crocodile is reported from KroKele Rock, Pottuvil police division.
-
-The Pottuvil police station has lodged a complaint that a person was converted by a crocodile from the Krokyl Rock in the Krodirl Rock yesterday.
-
-A 41-year-old, a resident of the Piyarachchi, aged 41.
-
-Officers of the Police and the Sri Lanka Naval Base have joined the disappearance of the missing person.
-
-◼️
-
-[Data](articles/f8f20fbf.json)
-
-[Extended Data](ext_articles/f8f20fbf.ext.json)
-
----
-
-### Deep depression’s influence on Sri Lanka’s weather to reduce after today
-
-*2024-11-29 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103854/deep-depressions-influence-on-sri-lankas-weather-to-reduce-after-today) · `en`
-
-The Meteorology Department says the deep depression over the southwest Bay of Bengal was located about 240 km northeast of Trincomalee and 290km east of Kankasanthurai around 11.30 p.m. of 28th November 2024.
-
-It is likely to move northwestwards, towards Tamil Nadu coast. It can be expected that the influence of this system on the island’s weather will gradually reduce after today (29).
-
-Showers or thundershowers will occur at times in Northern and North-central provinces and in Trincomalee district, it said.
-
-Heavy  showers  above  100  mm  are  likely  at  some  places  in  Northern province.  Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Matale and Kandy  districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island in the evening or night, the Met. Department added.
-
-Strong winds of about 60 kmph can be expected at times over Northern, North-central, North-western, Eastern, Central and Southern provinces.
-
-...
-
-[Data](articles/0bf5b9fc.json)
-
-[Extended Data](ext_articles/0bf5b9fc.ext.json)
-
----
-
-### Life lost from disasters across the country
-
-*2024-11-29 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203851) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Disasters: 1707 affected, 12 dead, 102 homes destroyed. Relief efforts underway. Weather improving soon."
-
-🟩
-
-The Disaster Management Center (DMC) says that about 1,707 persons belonging to 120,707 families have been affected due to inclement weather.
-
-At present, 12 persons were killed and another suffered missing and 18 others suffered injuries.
-
-102 houses were damaged and 1,952 were partially damaged.
-
-The Disaster Management Center (DMC) stated that 94,134 persons belonging to 28,324 families have been staying in a relative and 345 families of 345 safety places.
-
-The highest influence has been affected by the prevailing rain weather and 149,491 persons belonging to 43,631 families have been affected.
-
-The Department of Irrigation said that the warning of the floods issued for Mahaweli, Deduru Oya and Mundayaniro.
-
-Accordingly, the people in the rivers should be careful about this situation and the irrigation unit of the Irrigation Department of Irrigation and the Irrigation Department of Irrigation (MS) Ms. Sakurama Dilthara.
-
-...
-
-[Data](articles/344bf58f.json)
-
-[Extended Data](ext_articles/344bf58f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 15:25:45**
+As of **2024-11-29 15:42:21**
 
 ## Newspaper Stats
 
-*Scraped **57,581** Articles*
+*Scraped **57,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ adalk | 5,442
 adaderanalk | 6,975
 tamilmirrorlk | 8,193
 virakesarilk | 9,388
-adaderanasinhalalk | 9,937
+adaderanasinhalalk | 9,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,581 (100.0%) of 57,581 articles have been extended.
+57,581 (100.0%) of 57,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### උද්ධමනය තවත් අඩුවෙයි
+
+*2024-11-29 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203867) · `si`
+
+2024 නොවැම්බර් මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව  කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය නොවැම්බර් මාසය සඳහා -2.1% ක් දක්වා අඩු වී ඇත. එය 2024 ඔක්තෝම්බර් මාසය සඳහා -0.8%ක් ලෙස වාර්තා වී තිබුණි.
+
+2024  නොවැම්බර් මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) 0.6% දක්වා අඩු වී ඇති අතර ඔක්තෝම්බර් මාසයේ දී එය වාර්තා වුයේ 1.0%ක් ලෙසය.
+
+එමෙන්ම,  2024 නොවැම්බර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) -3.3%ක් දක්වා අඩු වී ඇති අතර එය 2024 ඔක්තෝම්බර් මාසයේ දී -1.6% ක් ලෙස වාර්තා විය.
+
+◼️
+
+[Data](articles/9491e5ec.json)
+
+---
+
+### ශානි ගේ FR පෙත්සම  - නීතිපතිගෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
+
+*2024-11-29 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203866) · `si`
+
+සිය වැඩතහනම් කිරීමට එරෙහිව අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ ශානි අබේසේකර මහතා විසින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින හිටපු පොලිස්පති සී.ඩී. වික්‍රමරත්න සහ හිටපු ආරක්ෂ ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් කමල් ගුණරත්න යන මහත්වරු වෙනුවෙන් පෙනී නොසිටින බව නීතිපතිවරයා අද (29) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+
+මෙම පෙත්සම අද එස්. තුරෙයිරාජා, ඒ. එච්. එම්. ඩී. නවාස් සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විවේකා සිරිවර්ධන මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙහි වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින හිටපු පොලිස්පති සී. ඩී. වික්‍රමරත්න සහ හිටපු ආරක්ෂක ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් කමල් ගුණරත්න යන මහත්වරු වෙනුවෙන් මින් ඉදිරියට නීතිපතිවරයා පෙනී නොසිටින බව සඳහන් කළේය.
+
+ඒ අනුව එම වගඋත්තරකරුවන්ට පෞද්ගලික නීතිඥවරු ඉදිරිපත් කිරීමට හැකියාව තිබෙන බවත් මෙහිදී විනිසුරු මඩුල්ල පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/b5d1ea4f.json)
+
+---
+
+### පුද්ගලයින් හයකට මරණ දඬුවම
+
+*2024-11-29 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203865) · `si`
+
+2016 වසරේ නාරාහේන්පිට ප්‍රදේශයේ පැවති අවමංගල්‍ය නිවසක දෙපිරිසක් අතර ඇතිවූ ආරවුලක් දුරදිග යාමෙන් පුද්ගලයක මරා දමා තවත් පිරිසකට තුවාල සිදුකිරීමේ චෝදනාවට වරදකරුවන් කෙරුණු විත්තිකරුවන් හය දෙනෙකුට කොළඹ මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කළේය.
+
+දීර්ඝ නඩු විභාගයකින් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
+
+2016 වසරේ ජූලි මස 20 වනදා නාරාහේන්පිට උද්‍යාන පාර ප්‍රදේශයේ පැවැති අවමංගල්‍ය නිවසක දෙපිරිසක් අතර ඇතිවූ ගැටුමක් දුර දිග යාමෙන් මංජුල මහේෂ් ජයතිලක නමැත්තාගේ මරණය සිදුකොට තවත් පිරිසකට තුවාල සිදුකිරීම සම්බන්ධයෙන් නීතිපතිවරයා විසින් විත්තිකරුවන් අට දෙනෙකුට එරෙහිව මෙම නඩුව ගොනුකර තිබුණි.
+
+නඩු විභාගය පැවැත්වෙන කාලසීමාව තුළ විත්තිකරුවන් දෙදෙනෙකු මිය ගොස් ඇත.
+
+දීර්ඝ විභාගයකින් අනතුරුව විනිසුරුවරයා ප්‍රකාශ කළේ, විත්තිකරුවන්ට එරෙහිව පැමිණිල්ල විසින් එල්ල කර තිබෙන චෝදනා සාධාරණ සැකයකින් තොරව ඔප්පු වී තිබෙන බවය.
+
+◼️
+
+[Data](articles/b8ec8ac2.json)
+
+---
 
 ### Extension of flood hazards
 
@@ -49,6 +105,26 @@ In addition, the Irrigation Department has stated in its announcement that motor
 [Data](articles/5a4dc9ac.json)
 
 [Extended Data](ext_articles/5a4dc9ac.ext.json)
+
+---
+
+### ඇමති විජිත කොළඹ මහාධිකරණයට එයි
+
+*2024-11-29 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203864) · `si`
+
+අල්ලස් කොමිසම විසින් ගොනුකර තිබූ නඩුවකට අදාළව සාක්ෂි දීම සඳහා අමාත්‍ය විජිත හේරත් මහතා අද (29) කොළඹ මහාධිකරණය හමුවේ පෙනී සිටියේය.
+
+පිළිගත් ටෙන්ඩර් පටිපාටියට පටහැනි ලෙස සංවර්ධන ලොතරැයි මණ්ඩලය විසින් ලොතරැයි ප්‍රවර්ධන කටයුතු පෞද්ගලික සමාගම් කිහිපයකට පැවරීම තුළින් රජයට පාඩුවක් සිදුකළා යැයි චෝදනා කරමින් එහි හිටපු සභාපති චන්ද්‍රවංශ පතිරාජ මහතාට එරෙහිව ඉකුත් යහ පාලන රජය සමයේ අල්ලස් විසින් මෙම නඩුව ගොනුකර තිබුණි.
+
+මෙම නඩුවට අදාළ පැමිණිල්ල ඉදිරිපත් කළ අමාත්‍ය විජිත හේරත් මහතාට අද දින සාක්ෂි දීම සඳහා අධිකරණය හමුවේ පෙනී සිටින ලෙස නියම කර තිබුණි.
+
+එහිදී ඉදිරිපත් වූ කරුණු සලකා බැලූ කොළඹ මහාධිකරණ විනිසුරු ආර්.එස්.එස්.සපුවිද මහතා සාක්ෂි විභාගය පෙබරවාරි මස 05 වන දා දක්වා කල්දැමීය.
+
+එදින අමාත්‍ය විජිත හේරත් මහතාට අධිකරණයේ පෙනී සිටින ලෙසත් නියෝග කෙරුණි.
+
+◼️
+
+[Data](articles/0b8be090.json)
 
 ---
 
@@ -2357,135 +2433,5 @@ It said showers or thundershowers will occur at times in Northern and North-cent
 [Data](articles/6bde122f.json)
 
 [Extended Data](ext_articles/6bde122f.ext.json)
-
----
-
-### Unaccompanied information about the island-1
-
-*2024-11-28 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203845) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Elephant loss: Monondant 1 & Dedanththu 2 gone. Kalawewa National Park affected. Human conflict causes 433 elephant deaths in 5 months. Government lacks effective solutions.
-
-🟩
-
-The 'monondant 1' was lost this morning, a glorious beast, which won the local tourist attraction.
-
-The Handiyawa National Park was dead in a power cord in front of a house in Aadiyagala, Kalawwawewa National Park.
-
-The restoration of the elephant was the habit of the Kalawewa National Park.
-
-They also known as the 'disgrawered 1' and 'disgraniated 2' as the elephants in the Kalawewa Reserve as well as two similar elephants.
-
-The "dedanththu 2" elephant was lost five years ago.
-
-Environmentalists point out that "the degradatant 1 elephant was among 45 and 50 years old.
-
-As a result of the human conflict, 433 wild elephants were killed in the first five months of last year, 193 were killed.
-
-From time to time, the data is supplied to the data that no government has been able to provide any government to the growing solution to the growing elephant conflict.
-
-If the current government of such a surroundings or a solution to the national problem is not the left in Sri Lanka, only the sailing will remain.
-
-◼️
-
-[Data](articles/789ba7f9.json)
-
-[Extended Data](ext_articles/789ba7f9.ext.json)
-
----
-
-### Appreciating the terrorist movement and its leader does not help travel ahead - Ali Sabri
-
-*2024-11-28 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199923) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former FM Ali Sabri urges against praising LTTE, calls for unity & peace. Commemorating heroes important but celebrating violence hinders reconciliation efforts. Building Sri Lankan identity together is crucial.
-
-🟩
-
-Former Foreign Minister Ali Sabri, who has pointed out that it is not a way to praise the Liberation Tigers of Tamil Eelam (LTTE) movement or its leader who has ruined terrorism, has urged the south to give it the opportunity to provide the opportunity to spread the opportunity to spread communalism.
-
-On Wednesday (27), the people of the North and East remembered the heroes of the Heroes of Heroes on Wednesday (27).
-
-Former Minister Ali Sabri, who has commented on the commemoration of the commemoration, added that the above said.
-
-It is important to respect the memories of those who died in the worst war and the victims of the year when we were working on building a unity and peaceful Sri Lanka.
-
-Although some people have changed the trail as a result of the past ideology, families must be allowed to commemorate all the loved ones, including them.. This is human rights and the most important move to heal past injuries.
-
-...
-
-[Data](articles/14ec6852.json)
-
-[Extended Data](ext_articles/14ec6852.ext.json)
-
----
-
-### Flood -trapped plowing machine - 4 people arrested
-
-*2024-11-28 20:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வெள்ளத்தில்-சிக்கிய-உழவு-இயந்திரம்-4-பேர்-அதிரடி-கைது/74-347950) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrests made over student deaths in flood. Four individuals detained: school chancellor, teacher, assistants. Ordered remanded till Dec 2. Incident occurred Nov 26 when students were advised to return home due to safety concerns.
-
-🟩
-
-Four persons have been arrested in connection with the death of students in a flood near the Ampara - Karadivu Mavadipalli Bridge.
-
-Both Nintavur Madrasa Chancellor, Teacher and Assistants have been arrested today (28).
-
-Steps have been taken to appear before the Samanthurai Magistrate's Court after being taken to the Samanthurai police station.
-
-The arrested Chancellor and the teacher have been ordered to be remanded until the 2nd of December.
-
-On Tuesday 26.11.2024 Nintavur Kashibul Ulum College Madrasa, the students were advised to have a bus to go home and the administration was conducting a tendency.
-
-It has also been revealed that the soldiers have been advised not to carry children in the plowing machine because the road is dangerous.. Remble
-
-◼️
-
-[Data](articles/b1b5fc2d.json)
-
-[Extended Data](ext_articles/b1b5fc2d.ext.json)
-
----
-
-### Handbag
-
-*2024-11-28 19:29:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியிடம்-நற்சான்று-பத்திரங்கள்-கையளிப்பு/175-347949) · `ta`
-
-Nine new ambassadors and a high commissioner presented credentials to Sri Lanka's president. Countries represented: Burkina Faso, Bosnia, Azerbaijan, Belarus, Spain, Republic of Congo, Kenya, Guinea.
-
-🟩
-
-Nine newly appointed Ambassadors and a High Commissioner handed over the securities to President Anura Kumara Dissanayake at the Presidential Office today (28).
-
-Accordingly, Burkina Faso, Bosnia and Herzegovina, The Republic of Azerbaijan, The Republic of the Republic of Beleurus, the Republic of BeleurusThe new ambassadors of the Republic of the Republic, The Republic of Congo, and the Republic of Guinea have been appointed by the Republic of the Republic of the Republic of the Republic of the Republic and the New High Commissioner of Kenya.
-
-01.. Desire Boniface Some -Burkina Faso Ambassador (New Delhi)
-
-௦௨. Harris Herley Mr.Haris Hrle - Bosnia and Esrekovina Ambassador (New Delhi)
-
-௦௩. Elsin Hussainly Mr. Elchin Huseynli - Azarbaijan Republican Ambassador (New Delhi)
-
-05. Michall Cosco Mr. Mikhal Kasko - Ambassador of the Republic of Belarus (New Delhi)
-
-07. Yuan Antonio March Mr Mr. Juan Antonio March Pujol - Ambassador of the Spanish Republic (New Delhi)
-
-...
-
-[Data](articles/f985eb97.json)
-
-[Extended Data](ext_articles/f985eb97.ext.json)
 
 ---

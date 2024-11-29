@@ -1,72 +1,228 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 13:42:53**
+As of **2024-11-29 14:42:31**
 
 ## Newspaper Stats
 
-*Scraped **57,572** Articles*
+*Scraped **57,580** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
 colombotelegraphcom | 582
-bbccomsinhala | 600
+bbccomsinhala | 601
 islandlk | 3,452
-economynextcom | 3,503
+economynextcom | 3,505
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,441
-adaderanalk | 6,973
-tamilmirrorlk | 8,191
+adalk | 5,442
+adaderanalk | 6,975
+tamilmirrorlk | 8,192
 virakesarilk | 9,388
-adaderanasinhalalk | 9,936
+adaderanasinhalalk | 9,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,565 (100.0%) of 57,572 articles have been extended.
+57,578 (100.0%) of 57,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
 
-### சீரற்ற வானிலையால் நுவரெலியாவில் 344 குடும்பங்கள், 1,297 பேர் பாதிப்பு
+### Compensation to farmers affected by the rain
+
+*2024-11-29 14:10:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையால்-பாதிக்கப்பட்ட-விவசாயிகளுக்கு-நட்டஈடு/175-347983) · `ta`
+
+Government compensates farmers hit by rains: Deputy Minister focuses on rice bundle distribution, considering additional aid for onions, potatoes, soy, and peppers.
+
+🟩
+
+Deputy Minister of Agriculture Namal Karunaratne said that the government is focusing on the program of compensation for farmers affected by heavy rains.
+
+The Deputy Minister said that the existence of the rice bundle from the Department of Agriculture is very low and therefore expecting the same rice from paddy cultivation farmers.
+
+The Deputy Minister said that in the process of compensation, only the farmers who cultivated crops damaged by the rainfall this time have been given compensation to the farmers who have been damaged by the rainfall.
+
+He said that the onion, potatoes, soy and pepper should be compensated and the Cabinet will be asked to consider the financial situation in the treasury.
+
+◼️
+
+[Data](articles/c1899e64.json)
+
+[Extended Data](ext_articles/c1899e64.ext.json)
+
+---
+
+### Chinese envoy responds to claims over ‘debt trap’ and ‘white elephant’ projects in Sri Lanka
+
+*2024-11-29 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103865/chinese-envoy-responds-to-claims-over-debt-trap-and-white-elephant-projects-in-sri-lanka) · `en`
+
+The Chinese Ambassador to Sri Lanka, Qi Zhenhong, says that while some critics label the large-scale projects implemented in Sri Lanka with Chinese financial assistance as “white elephants,” all such projects were developed according to the requests of the governments in power at the time.
+
+The Ambassador made these remarks during a meeting with a group of representatives of media organisations last evening (28), where the discussion touched on various topics including the projects funded by China in Sri Lanka.
+
+He emphasized that certain projects have not been optimally utilized due to inefficiencies in their operation by the Sri Lankan side.
+
+The Ambassador cited the Colombo Lotus Tower project as an example, noting that although it was leased to a private company, it has now started generating profits and he emphasized that the Lotus Tower has become a symbolic landmark for Sri Lanka.
+
+...
+
+[Data](articles/7b6946b1.json)
+
+[Extended Data](ext_articles/7b6946b1.ext.json)
+
+---
+
+### Indonesian rescuers search for missing in buried cars and bus after landslide in Sumatra
+
+*2024-11-29 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103864/indonesian-rescuers-search-for-missing-in-buried-cars-and-bus-after-landslide-in-sumatra) · `en`
+
+Indonesian rescuers on Friday searched for survivors buried in three cars and bus at the base of a cliff after flash floods and landslides in North Sumatra province killed at least 29 people.
+
+Torrential rain for the past week in the province has triggered flash floods and landslides in four different districts, Indonesia’s disaster agency has said.
+
+The death toll from one landslide on Wednesday on a hilly interprovince road rose to nine from seven, Hadi Wahyudi, the spokesperson of North Sumatra police told Reuters on Friday.
+
+At least five cars, one bus, and one truck were trapped at the base of a cliff following the landslide. On Friday, police and rescuers focused their search for missing people on three cars and one bus buried in mud.
+
+“We still don’t know how many people who were still trapped,” Hadi said.
+
+In other districts, landslides over the weekend killed 20 people and rescuers will keep searching for two missing people until Saturday.
+
+...
+
+[Data](articles/f8881680.json)
+
+[Extended Data](ext_articles/f8881680.ext.json)
+
+---
+
+### Requests of Chinese projects called white elephants - Chinese Ambassador
+
+*2024-11-29 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203863) · `si`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Chinese Ambassador: Some projects not utilized due to operational issues. Lotus Tower profitable, Hambantota & Colombo ports to benefit SL. Colombo Port City project fully invested. Debts not traps, based on friendship. China to provide aid independently. Free Trade Agreement signing delayed due to SL's revision needs. China supported SL during COVID.
+
+🟩
+
+Chinese Ambassador to Sri Lanka, Chinese Ambassador to Sri Lanka, says that the massive projects implemented in Sri Lanka under Chinese financial assistance, Sri Lanka's ambassador to Sri Lanka's Chinese Ambassador to Sri Lanka.
+
+The Ambassador made this statement at a meeting with a delegation with a delegation from the media institution last evening.
+
+Chinese Ambassador to China, Chinese Ambassador, joined a meeting with a group of media institutions yesterday (28).
+
+The Ambassador said that some projects have not been properly utilized due to the poor operation of the Sri Lankan party in weaknesses.
+
+For example, the Lotus tower project that has leased to a private company has begun to make profits, and it has become a symbol of Sri Lanka.
+
+He also pointed out that China's Hambantota port and the Colombo Port will earn the Sri Lankan government.
+
+The Colombo Port City project was a fully Investment of the Colombo Port City project, he said that it was not spent in Sri Lanka.
+
+...
+
+[Data](articles/5ce283a5.json)
+
+[Extended Data](ext_articles/5ce283a5.ext.json)
+
+---
+
+### 344 families in Nuwara Eliya due to inclement weather, 1,297 people
 
 *2024-11-29 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199991) · `ta`
 
-நுவரெலியா மாவட்டத்தில் தொடர்ச்சியாக பெய்துவரும் அடைமழையால் ஏற்பட்ட வெள்ளப்பெருக்கு மற்றும் ஏனைய அனர்த்தங்களால் இன்று வெள்ளிக்கிழமை (29) காலை 10 மணி வரையான காலப்பகுதியில் 344 குடும்பங்களை சேர்ந்த 1,297 பேர் பாதிக்கப்பட்டுள்ளதாக நுவரெலியா மாவட்ட அரசாங்க அதிபர் நந்தன கலபொட தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-மேலும், 204 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதால் அங்கு வசித்துவரும் 117 குடும்பங்களைச் சேர்ந்த 462 பேர் ஒன்பது தற்காலிக இடைத்தங்கல் முகாம்களில் பாதுகாப்பாக தங்க வைக்கப்பட்டு, அவர்களுக்கான உணவு மற்றும் ஏனைய அத்தியாவசிய பொருட்கள் வழங்கப்பட்டு வருவதாகவும் அவர் குறிப்பிட்டுள்ளார்.
 
-மண்சரிவு அபாயம் காரணமாக  நுவரெலியா கொட்லோட்ஜ் தோட்டம் சமர்ஹில் பாடசாலையில் அமைந்துள்ள தற்காலிக இடைத்தங்கல் முகாம்களில் 32 குடும்பங்களைச் சேர்ந்த 153 பேர் தங்கவைக்கப்பட்டுள்ளனர்.
 
-கந்தப்பளை கொங்கோடியா தோட்டத்தில் மண்சரிவு அபாயம் காரணமாக 14 குடும்பங்களைச் சேர்ந்த 54 பேர் கோவிலில் பாதுகாப்பாக தங்கவைக்கப்பட்டுள்ளனர்.
+344 families (1,297 people) affected in Nuwara Eliya floods. 204 houses damaged. 462 people in temporary shelters. Landslide risk housing 153+54+60+36. Municipal efforts underway to drain water.
+
+🟩
+
+Nuwara Eliya District Government Agent Nandana Kalapoda said that 1,297 people from 344 families have been affected by the floods and other disasters in the Nuwara Eliya district on Friday (29).
+
+In addition, 204 houses have been partially damaged and 462 people from 117 families are safely housed in nine temporary intercourse camps and provided with food and other essential commodities.
+
+Due to the risk of landslide, 153 people from 32 families have been housed in temporary intercourse camps located at Samarhil School, Nuwara Eliya.
+
+54 people from 14 families have been safely housed in the temple due to the risk of landslides at the Kandapalai Congress.
+
+54 out of 14 families have been housed in a safe place established at the Nuwara Eliya Buddhist shrine.
+
+60 people from 21 families have been housed at the Alma Preschool School, Valappanai.
+
+36 people from 6 families have been housed in a safe place at Kotmale Tansinan Korenchi School.
 
 ...
 
 [Data](articles/86fc18bf.json)
 
+[Extended Data](ext_articles/86fc18bf.ext.json)
+
 ---
 
-### அமைச்சர்களின் ஓய்வூதியமும் பறிபோகும்?
+### Will the pension of the ministers too?
 
 *2024-11-29 13:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-ஓய்வூதியமும்-பறிபோகும்/175-347982) · `ta`
 
-பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்களின் ஓய்வூதியம் மற்றும் வரியில்லா வாகன அனுமதிப்பத்திரத்தை இரத்து செய்வது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளது..
+Here's a summary in 200 characters:
 
-இதேவேளை, தற்போது அமைச்சுக்களுக்குச் சொந்தமான 150 சொகுசு வாகனங்களை விற்பனை செய்வதற்கு அமைச்சரவை அங்கீகாரம் பெற்றுக் கொள்வதற்கான நடவடிக்கை எடுத்து வருவதாகவும், அரசாங்கத் தகவல்கள் தெரிவிக்கின்றன.
 
-பாராளுமன்ற உறுப்பினர்களுக்கு V8 மற்றும் Montero போன்ற சொகுசு வாகனங்களை வழங்குவதில்லை எனவும் அரசாங்கம் தீர்மானித்துள்ளது.
 
-அமைச்சர்களின் சம்பளம் மற்றும் கொடுப்பனவுகள் தொடர்பான உண்மைகளை மீளாய்வு செய்த பின்னரே, இது தொடர்பில் முடிவெடுக்கப்படும் என்றும் அதே வட்டாரங்கள் தெரிவிக்கின்றன.
+Government cancels parliamentarians' perks, sells 150 luxury vehicles. Ministers' pensions under review. No decision on guns, homes. Committee to assess minister privileges. Official announcement pending.
 
-எம்.பி.க்களுக்கு துப்பாக்கி மற்றும் துப்பாக்கி பயிற்சி வழங்குதல், மக்கள் பிரதிநிதிகளுக்கான வீடுகள் தொடர்பாக இதுவரை எந்த முடிவும் எடுக்கப்படவில்லை.
+🟩
+
+The government has focused on the cancellation of parliamentarians, ministers' pension and tax -free vehicle license.
+
+Meanwhile, government sources say that the Cabinet is currently taking steps to sell 150 luxury vehicles belonging to the Ministries.
+
+The government has also decided not to provide luxury vehicles such as V8 and Montero to MPs.
+
+The same sources say that the decision will be taken only after reviewing the facts of ministers' salaries and payments.
+
+No decision has been taken so far on providing gun and gun training to MPs and homes for people's representatives.
+
+A special committee was recently appointed by President Anura Kumara Dissanayake to review the privileges of ministers.It is reported that the recommendations of the committee will be decided on the privileges of the ministers.
+
+When asked by a parliamentary official yesterday (28) regarding the privilege of MPs, he said, "The government has not yet issued an official announcement in this regard."
 
 ...
 
 [Data](articles/075edbd1.json)
+
+[Extended Data](ext_articles/075edbd1.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices rise 9.4-pct, hit record high
+
+*2024-11-29 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-9-4-pct-hit-record-high-190756/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices were up 9.49 percent, recording the highest price, data from the Coconut Development Authority showed.
+
+Average coconut prices were up to 109,615.80 for 1,000 nuts from 99,684.19 at the auction held on November 28.
+
+A total of 527,199 coconuts were offered at the auction and 424,157 were sold.
+
+At the weekly CDA auction, the highest price for 1,000 nuts was priced at 110 rupees, while the lowest for 1,000 nuts was 96 rupees.
+
+Wholesale prices for large nuts were 140-150 and 110-120 rupees for small nuts on November 21.
+
+Coconut oil local wholesale price was 750,000.00 to 770,000.00 rupees per metric ton.
+
+Farmgate prices in Kurunegala were 100,000 to 105,000 per 1,000 nuts.
+
+◼️
+
+[Data](articles/02da1390.json)
 
 ---
 
@@ -88,21 +244,27 @@ The Colombo High Court has acquitted former Minister Rajitha Senaratne and two p
 
 ---
 
-### ஆற்று நீரில் அடித்துச் செல்லப்பட்டவரின் சடலம் கண்டுபிடிப்பு!
+### The corpse of the man who was beaten in the river water
 
 *2024-11-29 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199984) · `ta`
 
-கிட்டங்கி ஆற்றுக்கு குறுக்காக பயணம் செய்த கூலி தொழிலாளி ஒருவர் கடந்த செவ்வாய்க்கிழமை (26) வெள்ள நீரில் அடித்துச் செல்லப்பட்டு காணாமல்போயிருந்த நிலையில், இன்று வெள்ளிக்கிழமை (29) சடலமாக கண்டுபிடிக்கப்பட்டுள்ளார்.
+Body of 48-year-old wage laborer found in Kidangi River after 4-day search. Identified by family at Kalmunai hospital. Cause of death: drowning. Incident occurred near Drakandian area.
 
-நான்கு நாட்களாக இந்த நபரை தேடும் நடவடிக்கையில் ஈடுபட்டு வந்த கடற்படையினர், இன்று திரவந்திய மேடு பகுதியில் கரையொதுங்கிய நிலையில் அந்நபரின் சடலத்தை கண்டுபிடித்துள்ளனர்.
+🟩
 
-அதனையடுத்து, கல்முனை ஆதார வைத்தியசாலைக்கு சடலம் எடுத்துச் செல்லப்பட்டது. அதன் பின்னர், உயிரிழந்தவரின் உறவினர்கள் சடலத்தை அடையாளம் காட்டினர்.
+A wage laborer who traveled to the Kidangi River was found dead on Friday (29) after being drowned and disappeared last Tuesday (26).
 
-கல்முனை பாண்டிருப்பு பகுதியை சேர்ந்த 48 வயதுடைய நபரே வெள்ளத்தில் அடித்துச் செல்லப்பட்டு உயிரிழந்துள்ளார்.
+The navy, who had been searching for the man for four days, today found the body of the man as it was struck by the banks of the Drakandian area.
+
+Subsequently, the body was taken to the Kalmunai Resource Hospital. Subsequently, the relatives of the deceased identified the body.
+
+A 48 -year -old man from Kalmunai Pandaruppu has been flooded and died.
 
 ◼️
 
 [Data](articles/9051a3c0.json)
+
+[Extended Data](ext_articles/9051a3c0.ext.json)
 
 ---
 
@@ -127,6 +289,28 @@ In addition, 102 houses have been completely damaged due to disasters.2,096 home
 [Data](articles/50166be3.json)
 
 [Extended Data](ext_articles/50166be3.ext.json)
+
+---
+
+### The crocodile is not crossed by the daughter of buffaloes and no crocodile
+
+*2024-11-29 13:02:28* · [`adalk`](https://www.ada.lk/breaking_news/දූව-ගගෙන්-මී-හරකුන්-එගොඩ-කරත්-කිඹුලකු-ඔහුට-එගොඩ-වීමට-නොදෙයි/11-413357) · `si`
+
+Here's a 200-character summary:
+
+
+
+Crocodile attack: Buffalo's daughter missing in Duwa River. Pottuvil Police and Panama Naval Base search operation underway. Victim: 41-year-old male.
+
+🟩
+
+One of the victims in the Duwa River. Officers of the Pottuvil Police and Panama Naval Base are being operated together to find this person. The missing person is 41 years old.
+
+◼️
+
+[Data](articles/86be5cc6.json)
+
+[Extended Data](ext_articles/86be5cc6.ext.json)
 
 ---
 
@@ -246,37 +430,57 @@ Further investigations into the incident are being carried out by the Southern P
 
 ---
 
-### රජරට රැජින පීලිපනී
+### Rajarata Queen Peliper
 
 *2024-11-29 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203862) · `si`
 
-අනුරාධපුරයේ සිට බෙලිඅත්ත දක්වා ගමන් කරමින් තිබූ රජරට රැජින දුම්රිය කොළඹ කොටුව දුම්රිය ස්ථානයත් - මහලේකම් කාර්යාලය දුම්රිය ස්ථානයත් අතරදී අද (29) උදෑසන පීලි පැන තිබුණි.
+Here's a summary of the text in approximately 200 characters:
 
-අප වාර්තාකරු පැවසුවේ අද උදෑසන 11.10ට පමණ එම පීලි පැනීම සිදුව ඇත.
 
-මෙම පීලිපැනීම නිසා දුම්රිය මාර්ගයටද හානි සිදුවී ඇති ආකාරය දක්නට ලැබෙයි.
 
-එමෙන්ම ඒ හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ප්‍රමාදයක් වාර්තා වී තිබේ.
+Colombo Fort Railway Secretariat traveled Rajarata Queen Train from Anuradhapura to Beliatta today. Train encountered issues around 11:10 AM. Coastal railway line affected due to this incident.
+
+🟩
+
+The Rajarata Queen Train from Anuradhapura to Beliatta was traveled by the Colombo Fort Railway Secretariat this morning (29).
+
+Our correspondent said that at around 11.10 this morning.
+
+The railway line was also found due to this debate.
+
+As a result, a train to the coastal railway line has been reported.
 
 ◼️
 
 [Data](articles/22ea7abd.json)
 
+[Extended Data](ext_articles/22ea7abd.ext.json)
+
 ---
 
-### கம்பளையில் மின்சாரம் தாக்கி ஒருவர் பலி !
+### Electricity strikes on carpet
 
 *2024-11-29 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199974) · `ta`
 
-கம்பளை பொலிஸ் பிரிவுக்குட்பட்ட அங்குருமுல்ல பிரதேசத்தில் மின்சாரம் தாக்கி ஒருவர் நேற்று வியாழக்கிழமை (28) உயிரிழந்துள்ளார்.
+Here's a summary in 200 characters:
 
-இறந்தவர் வேறொருவரின் காணிக்குள் அத்துமீறி நுழைந்து மிளகு பறிக்கச் சென்ற போது, காணியைச் சுற்றி போடப்பட்டிருந்த அனுமதியற்ற மின் கம்பியில் சிக்கி மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
 
-மேலும் ,சட்டவிரோதமான முறையில் மின்சார கம்பிகளை போட்ட காணியின் உரிமையாளர் கைது செய்யப்பட்டுள்ளார்.
+
+Man dies from electricity strike on carpet in Sri Lanka. Investigation reveals he touched unauthorized electric wire while trespassing. Landowner arrested for illegal wiring.
+
+🟩
+
+A man died yesterday (28) in the Angarumulla area belonging to the Gampola police division.
+
+Investigations have revealed that when the deceased entered the land of someone else, the pepper had been trapped in an unauthorized electric wire that had been placed around the land.
+
+In addition, the owner of the land has been arrested in an illegal electric wires.
 
 ◼️
 
 [Data](articles/21eb0235.json)
+
+[Extended Data](ext_articles/21eb0235.ext.json)
 
 ---
 
@@ -379,6 +583,26 @@ Meanwhile, in many parts of Nawalapitiya, the power supply has been cut off due 
 [Data](articles/1292f8c9.json)
 
 [Extended Data](ext_articles/1292f8c9.ext.json)
+
+---
+
+### Sri Lanka construction rebounds in October 2024: PMI
+
+*2024-11-29 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-rebounds-in-october-2024-pmi-143129/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s construction sector rebounded in October registering an index value of 54.3, from 48.6 in September, following the resolution of election-related uncertainties, according to a Purchasing Managers Index compiled by the central bank.
+
+“Many respondents mentioned that the operations in construction projects regained momentum in October, following the resolution of election-related uncertainties,” the statement said.
+
+All the sub-indices, except for employment, remained above the neutral threshold in October.
+
+Employment decreased on a month-on-month basis in October. “Firms remain cautious in their recruitment strategies, as evidenced by the persistent decline in the Employment index.”
+
+New orders index continued to increase, up at 54.3 in October from 52.9 in September, reflecting the sustained availability of construction work.
+
+...
+
+[Data](articles/c5622bc1.json)
 
 ---
 
@@ -930,7 +1154,7 @@ These efforts led to the identification of two fishing boats suspected of being 
 
 Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
 
-...
+◼️
 
 [Data](articles/06d12378.json)
 
@@ -1075,6 +1299,36 @@ A copy of this revised period, which has been issued in light brown, will be giv
 [Data](articles/1969ea09.json)
 
 [Extended Data](ext_articles/1969ea09.ext.json)
+
+---
+
+### 97% of government school children in Sri Lanka have lost English Media Education
+
+*2024-11-29 08:42:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce8d5p5v0kko) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: 97% govt school kids lose English media ed. Parents want English but limited opportunities. Teacher shortage hinders bilingual education. Experts call for reform to benefit all students equally.
+
+🟩
+
+97% of government school children in Sri Lanka have lost English Media Education
+
+"Because my child was teaching school subjects in English because it was easy. It is easy to learn from English than Sinhala medium. But, only a limited number of people will give you the opportunity to learn from the English medium of English. My son has failed at that examination. So my son is in great difficulty, "The mother of a sixth-grade student in Colombo, a son-in-school student experienced its experience.
+
+As the BBC observed Sinhala service, as observed the Sinhala service, has created a huge demand for learning the school curriculum in English.
+
+There are a large number of pre-school children in English, and the number of children who communicate in English is a major demand for English media.
+
+In addition, some parents who spoke with us believe that an international language, English medium, can get a closed education.
+
+...
+
+[Data](articles/a4a142dc.json)
+
+[Extended Data](ext_articles/a4a142dc.ext.json)
 
 ---
 
@@ -1651,6 +1905,8 @@ Continuing to move further northwestwards it is very likely to cross north Tamil
 ...
 
 [Data](articles/ffab1c83.json)
+
+[Extended Data](ext_articles/ffab1c83.ext.json)
 
 ---
 
@@ -2235,213 +2491,5 @@ A senior police officer in the Ampara District said that the arrested persons wi
 [Data](articles/a6223fdb.json)
 
 [Extended Data](ext_articles/a6223fdb.ext.json)
-
----
-
-### Outstanding growth in the stock market
-
-*2024-11-28 19:17:25* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-කැපී-පෙනෙන-වර්ධනයක්/11-413351) · `si`
-
-Colombo Stock Exchange sees remarkable growth: Total Price Index surges 114.5% to 13,164.33 units; S&P Index rises 41.01 points to 3,917.62, a 1.06% increase.
-
-🟩
-
-The Colombo Stock Exchange showed a significant growth today.
-
-The total price index increased by 114.5 percent to 13 164.33 units.
-
-Also S. And P. Index also increased by 41.01 units and increased to 3917.62 units. It is an increase of 1.06 percent.
-
-◼️
-
-[Data](articles/349b57e6.json)
-
-[Extended Data](ext_articles/349b57e6.ext.json)
-
----
-
-### Leopard
-
-*2024-11-28 19:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்திலிருந்து-தப்பிக்க-வீட்டுக்குள்-புகுந்த-சிறுத்தை/175-347947) · `ta`
-
-Leopard found refuge in flooded Mullaitivu home. Wildlife officials rescue 6-month-old cat, releasing it safely. Heavy rains cause pond flooding, attracting wildlife like crocodiles near human habitats.
-
-🟩
-
-The leopard entered the house to escape the floods in Mullaitivu, Mullaitivu, was caught by wildlife protection authorities.
-
-Wildlife and villages have been submerged due to the ponds and reservoirs, including the Muttiyagattu reservoir.
-
-On their information, a group of wildlife protection officers, including veterinarians, from Kilinochchi, came and rescued it and released it safely.
-
-They said that the well -developed leopard is six months old and that wildlife, including crocodiles, often visit humans where the crocodiles are in heavy rains and floods.
-
-◼️
-
-[Data](articles/7d27bace.json)
-
-[Extended Data](ext_articles/7d27bace.ext.json)
-
----
-
-### Special Report of the Department of Meteorology
-
-*2024-11-28 18:41:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-விசேட-அறிக்கை/175-347945) · `ta`
-
-Deep winds in SW Bengal Bay, 110km NE of Trincomalee. Moving NW, may intensify. Rain/thunderstorms in northern provinces, Trincomalee district. Heavy rainfall possible. Strong winds in several provinces. Lightning and thunderstorm warnings issued.
-
-🟩
-
-The Department of Meteorology has said that the deep winds in the Southwest Bengal Bay area are located about 110 kilometers northeast of Trincomalee this morning.
-
-The department said this while issuing a weather forecast tomorrow (29).
-
-It has been reported that it is moving slowly in the northwestern direction near the east coast of the country and is more likely to grow.
-
-However, rain or thunderstorms will occur from time to time in the northern and northern provinces of the country and the Trincomalee district.
-
-Mm in some places in the Northern Province. Heavy rains are more likely to rain over 100.
-
-Rainfall in the upper, Sabaragamuwa and North Western Provinces and Galle District.
-
-Other parts of the evening or night can occur in widespread rain or thunderstorms.
-
-Winds from time to time in the Northern, North Central, Northwest, Central and Eastern Provinces. The wind can blow at 60 o'clock.
-
-...
-
-[Data](articles/d7bd7d1f.json)
-
-[Extended Data](ext_articles/d7bd7d1f.ext.json)
-
----
-
-### 1,816 families in Jaffna, Jaffna
-
-*2024-11-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199936) · `ta`
-
-Here's a summary of the given information in approximately 200 characters:
-
-
-
-"Floods affect 5,749 people in Jaffna; 56,732 total affected district-wide. 3,467 housed in camps. Medical aid provided. Infrastructure damage reported."
-
-🟩
-
-5,749 people from 1,816 families have been affected by the floods in the Jaffna Thenmarachchi area.
-
-Among them, 186 persons from 59 families have been housed in the Y/Kodikamam Thirunavukkarasu Maha Vidyalaya Camp, and 281 from 47 families in the Tamil Kalavan School Camp.
-
-Medical services are being provided for the elderly mothers and the elderly.
-
-Meanwhile, flooding has been flooded within the state offices and places of worship of the Thenmarachchi area.
-
-The floods have been flooded within the Chavakachcheri Pradeshiya Sabha and the Kodikamam police station and the temples.
-
-According to the current report, 56,732 people from 17,095 families across Jaffna have been affected by the inclement weather in Jaffna.
-
-Also, 7,063 persons from 1,995 families have been housed in 80 security centers, according to the Jaffna District Secretariat.
-
-◼️
-
-[Data](articles/140df05d.json)
-
-[Extended Data](ext_articles/140df05d.ext.json)
-
----
-
-### 4800 acres of paddy cultivation due to heavy rains - Ministry of Agriculture
-
-*2024-11-28 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/199938) · `ta`
-
-Heavy rains damage 4800+ acres of paddy fields. 3900 acres partially affected. Relief measures for farmers announced. Flooding impacts 106 ponds and some agricultural lands severely damaged.
-
-🟩
-
-Due to the prevailing rainy weather in the country, 4800 acres of paddy fields have been completely affected and 3900 acres are partially affected.. Minister of Agriculture Namal Karunaratne said that the affected farmers will be given adequate relief.
-
-Farmers' allowance for farmers will be paid formally according to the welfare scheme. Steps have been taken to improve agriculture at the national level. National products cannot be improved without enriching the farmers.
-
-Due to the prevailing rainy weather in the country, 4800 acres of paddy fields have been affected by 3900 acres of paddy cultivation.. Steps have been taken to provide relief to the affected farmers.
-
-Flooding has so far been stored in 106 ponds and 30 large numbers have been partially damaged.Steps have been taken to rehabilitate these. He said it was dissatisfied that a party also used natural disasters for their short political campaign.
-
-...
-
-[Data](articles/545beea9.json)
-
-[Extended Data](ext_articles/545beea9.ext.json)
-
----
-
-### There is a shortage of 300 drugs
-
-*2024-11-28 18:26:26* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වර්ග-300ක-හිඟයක්/11-413350) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-300 drug shortage affects healthcare. Doctors blame officials for inadequate supply, citing sodium bicarbonate, insulin, and other essential medications. Former Health Minister accused of distributing substandard drugs. Experts call for replacing officials to improve public trust and address shortages.
-
-🟩
-
-The doctors' trade union alliances of doctors and civil rights are mentioned that there is a shortage of medical and civil rights, including sodium bicarbonate, insulbonate, insulin and emnonogolboyun pharmaceuticals.
-
-Dr. Chamal Sanjaya said that some high officials of the health service charged with the health service charged in the school during the former Health Minister Keheliya Rambukkalla administration.
-
-As a result, the health of health is a hindrance to build public confidence in the future of the health system.
-
-Although the former Health Minister held substandard medicines in the days of the former Minister of Health, there are still alleged medicines that there are still alleged medicines.
-
-As a result, during the last days, the original officials are removed and the appropriate officers should be removed and the appropriate officers should be appointed to the relevant posts.
-
-...
-
-[Data](articles/660d0f88.json)
-
-[Extended Data](ext_articles/660d0f88.ext.json)
-
----
-
-### The third phase of the Review of the Officer of the Review of Sri Lanka shows economic improvement - the Sri Lanka Business Federation is proud of
-
-*2024-11-28 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199957) · `ta`
-
-Sri Lanka's economy shows improvement in third phase review. Compliance reached with IMF, paving way for fourth phase funding. Business federation calls for continued restoration efforts to boost sustainable growth.
-
-🟩
-
-The Sri Lanka Chamber of Commerce (Ceylon Chamber of Commerce) has said that Sri Lanka's progress in the implementation of reorganization and rehabilitation of the financial stability is being reached with the International Monetary Finance Officers with the International Monetary Finance Officers in connection with the third phase of the review.
-
-The official level compliance between the Monetary Finance Officers and the Sri Lankan government was reached following the third phase of last week's renovation on the expanded financial project sponsored by the International Monetary Fund.
-
-The Ceylon Chamber of Commerce (Ceylon Chamber of Commerce), which has issued this, said the officer's level of compliance is showing the progress of Sri Lanka in implementing structural restructuring and rehabilitation of the financial restructuring among the economic recovery.
-
-...
-
-[Data](articles/2c8691e8.json)
-
-[Extended Data](ext_articles/2c8691e8.ext.json)
-
----
-
-### Australia passes social media ban for children under 16
-
-*2024-11-28 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103849/australia-passes-social-media-ban-for-children-under-16) · `en`
-
-Australia passed a law on Thursday to ban social media for children aged under 16 after days of heated debate, setting a standard for other countries to follow in a global push to curb the power of Big Tech.
-
-The law, expected to take effect in November 2025, sets some of the toughest social media controls in the world and will force platforms to take reasonable steps to ensure age-verification protections are in place.
-
-After a parliamentary session that went into the night, the country’s Senate, or upper house of parliament, voted to pass the law after the centre-left Labor government of Prime Minister Anthony Albanese won support from the conservative opposition.
-
-The Senate’s approval for the law is the final legislative hurdle after the lower house, or House of Representatives, passed the bill on Wednesday.
-
-...
-
-[Data](articles/6e54a8d3.json)
-
-[Extended Data](ext_articles/6e54a8d3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 11:14:41**
+As of **2024-11-29 11:43:11**
 
 ## Newspaper Stats
 
-*Scraped **57,533** Articles*
+*Scraped **57,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 440
 colombotelegraphcom | 582
 bbccomsinhala | 599
 islandlk | 3,452
-economynextcom | 3,499
+economynextcom | 3,503
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,439
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,528 (100.0%) of 57,533 articles have been extended.
+57,533 (100.0%) of 57,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,19 +56,29 @@ Subsequent investigations revealed that the yellow was imported from India.
 
 ---
 
-### වැස්ස නිසා එළවලු හිගයක්
+### A shortage of vegetables due to rain
 
 *2024-11-29 10:46:59* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-එළවලු-හිගයක්/11-413354) · `si`
 
-පවතින අහපත් කාලගුණික තත්ත්වය හේතුවෙන් දඹුල්ල ආර්ථික මධ්‍යස්ථානයට ලැබෙන එළවළු ප්‍රමාණය සියයට හැටකින් පහත වැටී ම් තිබෙන බවත් එළවළු මිලදී ගැනීමට පැමිණෙන වෙළෙන්දන්ගේත් සැලකිලිය  යුතු මට්ටමෙන්  අඩුවක් දක්නට ලැබෙන බවත් එළවළු මිලද සීග්‍රයෙන් පහත වැටෙමින් පවතින බව ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමය කියා සිටී.
+Vegetable shortage hits Dambulla Economic Center due to heavy rains. Prices soar for carrots (Rs. 200/kg) and beans (Rs. 150/kg). Low Country vegetables scarce in markets. Trade Union warns of quality decline.
 
-වැස්ස නිසා ගුණාත්මක භාවයෙන් යුතු එළවළු   වෙළඳ මධ්‍යස්ථානයට නොලැබීම හේතුවෙන් ඒවා අලෙවි නොවන නිසාවෙන් මේ තත්ත්වය උදාවී තිබෙන බවත් ඉදිරි කාලය තුළ එළවළු ලැබීම මීටත් වඩා පහත මට්ටමක පවතින බව දඹුල්ල ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ ලේකම් අයි ,ජි .විජේනන්ද   මහතා  වැඩිදුරටත් සඳහන් කර සිටි.
+🟩
 
-ඒ අනුව දඹුල්ල ආර්ථික මධ්‍යස්ථානයට  පිට පළාත්වලින් ලැබෙන එළවළු මෙන්ම ග්‍රාමීය ප්‍රදේශවලින් ලැබෙන එළවළු ප්‍රමාණය විශාල වශයෙන් අඩු වී තිබෙන බවද පෙන්වා දෙන ලේකම්වරයා එලවලු කොටු වර්ෂාව සමඟ විනාශ වී යාම එළවළු අස්වනු නෙළීමේ අවස්ථාද අහිමිවීම නිසා මේ තත්ත්වය උදා වී තිබෙන බවද   මධ්‍යස්ථානය තුළ  කැරට්  ලිස් කිලෝ එකක තොග මිල රු 100 ත් 140 ත් මිලකට සෙමෙන් අලවි වන බව කියයි.
+The Economic Center Trade Association states that vegetables have been reduced by the lowest level of vegetables to the Dambulla Economic Center due to existing audit weather.
 
-...
+Dambulla Economic Center Trade Union Secretary I, the Secretary of the Dambulla Economic Center Trade Union said that due to the loss of the quality of the quality of the quality of the quality of the quality.
+
+Accordingly, the loss of vegetables from the Dambulla Economic Center, the loss of vegetables from the vegetables and rural areas, stocks in a kilo of carrot Lice in the centerThe cost of Rs.
+
+He pointed out that most Low Country vegetables are not found in the market.
+
+Accordingly, the Dambulla Economic Center is selling a kilo of beans between Rs.Further pointed out that vendors do not have. It is noteworthy that the Economic Center has taken a lonely nature.
+
+◼️
 
 [Data](articles/a12197dd.json)
+
+[Extended Data](ext_articles/a12197dd.ext.json)
 
 ---
 
@@ -144,21 +154,57 @@ The Irrigation Department has extended flood warnings for Mahaweli Ganga, Heda O
 
 ---
 
-### நிந்தவூர் அரபு மத்ரஸாவின் அதிபர், ஆசிரியருக்கு விளக்கமறியல்
+### Nintavur Arabic Madrasa's Chancellor, Teacher
 
 *2024-11-29 10:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிந்தவூர்-அரபு-மத்ரஸாவின்-அதிபர்-ஆசிரியருக்கு-விளக்கமறியல்/175-347969) · `ta`
 
-கைது செய்யப்பட்ட நிந்தவூர் அரபு மத்ரஸாவின் அதிபர் மற்றும் ஆசிரியர் ஆகியோரை  டிசம்பர்  2ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் ஏனைய 2 பேரை 1 இலட்சம் ரூபாய் பிணையில் செல்லுமாறு சம்மாந்துறை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-அம்பாறை காரைதீவு மாவடிப்பள்ளி பாலத்திற்கு அருகில் உழவு இயந்திரம் வெள்ளத்தில் சிக்கிய சம்பவம் தொடர்பில் அக்கரைப்பற்று பொறுப்பதிகாரி தலைமையில்  விசாரணைகளை மேற்கொண்டு வரும் நிலையில் நிந்தவூர் மதரசா அதிபர்  ஆசிரியர் மற்றும் உதவியாளர்கள் இருவரும் வியாழக்கிழமை (28)  கைது செய்யப்பட்டனர்.
 
-சந்தேகநபர்களை   சம்மாந்துறை பொலிஸ் நிலையத்திற்கு அழைத்துச் சென்று வாக்குமூலம் பெற்ற பின்னர்  சம்மாந்துறை  சம்மாந்துறை  நீதிமன்ற பதில் எம்.ரி சபீர் அகமட்  முன்னிலையில் ஆஜர்படுத்தப்பட்டனர்.
 
-இதன் போது மத்ரஸாவின் அதிபர் மற்றும் ஆசிரியர் ஆகியோருக்கு எதிர்வரும் டிசம்பர் 2 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் ஏனைய 2 உதவியாளர்களும் தலா 1 இலட்சம் ரூபாய்   சரீரப் பிணையில் விடுதலை செய்யப்பட்டனர்.
+Nintavur Arabic Madrasa officials arrested over plowing machine accident. Five students killed when vehicle crashed into stream. Bodies recovered; search ongoing for missing student. Driver and another person also dead. Road reopens as water level drops.
+
+🟩
+
+The Magistrate's Magistrate has ordered the other two persons to go on bail of Nintavur Arabic Mathrasa's Chancellor and teacher until December 2.
+
+The Nindavur Madrasa teacher and assistants were arrested on Thursday (28) as the Akkaraipattu officer headed by the Akkaraipattu officer in connection with the flooding of the plowing machine near the Karadivu Mavadipalli Bridge in Ampara, Ampara.
+
+The suspects were taken to the Samanthurai Police Station and were produced before MR Sabir Ahmed in response to the Samanthurai Sumanthurai court.
+
+The other two assistants were released on bail of Rs.
+
+Nindavur Kashibul Ulum Charity College Madrasa on Tuesday (26) has been instructed by the students to go home and the administration has been instructed and the administration has been acting in a state of disrepair.
+
+It has also been revealed that the soldiers have been advised not to carry children in the plowing machine because the road is dangerous.
 
 ...
 
 [Data](articles/90eb0c13.json)
+
+[Extended Data](ext_articles/90eb0c13.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.55/65 to dollar, bond yields up
+
+*2024-11-29 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-55-65-to-dollar-bond-yields-up-145501/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 290.55/65 to the US dollar on Friday from 290.70/80 to the US dollar on Thursday dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 was quoted at 9.50/60 percent, up from 9.40/60 percent.
+
+A bond maturing on 15.12.2027 was quoted at 10.25/32 percent, up from 10.20/30 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.52/55 percent, up from 10.45/55 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.70/85 percent.
+
+In equities, the All Share Price Index was up 0.26 percent or 33.78 points, at 13,198. The more liquid S&P SL20 was up 0.49 percent, or 19.12 points, at 3,936.
+
+◼️
+
+[Data](articles/00212a7b.json)
 
 ---
 
@@ -176,9 +222,11 @@ These efforts led to the identification of two fishing boats suspected of being 
 
 Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
 
-◼️
+...
 
 [Data](articles/06d12378.json)
+
+[Extended Data](ext_articles/06d12378.ext.json)
 
 ---
 
@@ -197,6 +245,8 @@ The police and the Panama Navy Camp officials are conducting joint operations to
 ◼️
 
 [Data](articles/e5e1fa77.json)
+
+[Extended Data](ext_articles/e5e1fa77.ext.json)
 
 ---
 
@@ -226,19 +276,29 @@ The government has to carry a huge cost of maintaining these luxury vehicles and
 
 ---
 
-### උසස් පෙළ සංශෝධිත කාල සටහන නිකුත් කරයි
+### The A / L revision of the aim is issued
 
 *2024-11-29 09:23:45* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-සංශෝධිත-කාල-සටහන-නිකුත්-කරයි/11-413353) · `si`
 
-අයහපත් කාලගුණික තත්වයන් හමුවේ නොවැම්බර් 27,28,29,30,සහ දෙසැම්බර් 02 හා 03 දිනයන්හි විභාගය නොපැවැත්වීම නිසා එම දිනයන්ට නියමිතව තිබූ  ප්‍රශ්න  පත්‍ර සඳහා පිළිවෙළින්  දෙසැම්බර් 21 ,23,27,28 , 30  සහ 31   දිනවල අ.පො.ස.උසස් පෙළ විභාගය පැවැත්වීමට අදාළව සංශෝධනය කරන ලද විභාග  කාල සටහන විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත්කර තිබේ.
+Here's a summary in 200 characters:
 
-එමෙන්ම දෙසැම්බර් 04 දා සිට 20 දක්වා  පෙර කාල සටහනේ සඳහන් විෂයන් එම දිනවල  නියමිත ලෙස පැවැත්වෙන බවද විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
 
-ලා දුඹුරු පැහැයෙන් නිකුත් කර ඇති මෙම සංශෝධිත කාල සටහනේ පිටපතක් උසස් පෙළ සියලුම    අපේක්ෂකයන් සඳහා සාමාන්‍ය පොදු පරීක්ෂණ ප්‍රශ්න පත්‍රය පැවැත්වෙන  දෙසැම්බර් 07 දා විභාග මධ්‍යස්ථානවලදී   ලබා දෙන බවද ඒ ඒ අපේක්ෂකයන් සඳහා තමන්ට නියමිත විෂයන් සඳහාවූ කාල සටහන විහාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියෙන් විභාග අංකය හෝ ජාතික හැඳුනුම්පත් අංකය භාවිතා කර  බාගත කර ගැනීමට පහසුකම් සලසන බවද විභාග කොමසාරිස් ජනරාල් එච්.ජේ.එම්.සී. අමිත් ජයසුන්දර මහතා  මහතා  පැවසීය
+
+Exam rescheduled due to weather: Nov 27, Dec 2, 27, 31. New dates from Dec 4-20. Revised notice to be distributed at exam centers on Dec 7. Check official website for details.
+
+🟩
+
+Duessing of the examination due to inclement weather, the examination for question papers on November 27, 23,23, December 02, 23,27 and 31 respectivelyThe exam scheduled by the Examination Time Table of Examination has been announced by the examination schedule regarding the text examination.
+
+The Department of Examinations states that the subjects mentioned at the time of December 4 to 20 will be held on these days.
+
+A copy of this revised period, which has been issued in light brown, will be given to the examination centers on December 7, Exam No. or NICs at the official website of the Commission's Official WebsiteThe Commissioner General of Examinations is facilitated using the number by the Commissioner General of Examinations HJMC. Mr. Amit Jayasundara said
 
 ◼️
 
 [Data](articles/1969ea09.json)
+
+[Extended Data](ext_articles/1969ea09.ext.json)
 
 ---
 
@@ -457,6 +517,32 @@ He has assured the public that he is bringing to the President's attention to th
 [Data](articles/f66a70fd.json)
 
 [Extended Data](ext_articles/f66a70fd.ext.json)
+
+---
+
+### Sri Lanka to call bids for two 500MW offshore wind farms
+
+*2024-11-29 06:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-call-bids-for-two-500mw-offshore-wind-farms-190750/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to call bids to develop two 500 Megawatt wind plants offshore of Mannar and Puttalam after feasibility studies are concluded in 2027, Ceylon Electricity Board Chairman Tilak Siyambalapitiya said.
+
+The CEB has to make detailed environmental studies, sea floor, and logistics before calling for bids, Siyambalapitiya told a forum organized by Sri Lanka’s Export Development Board.
+
+The Mannar site is substantially superior in energy yield compared to Puttalam he said.
+
+It will be about 100 kilometers off shore, but wind turbines could be planted on the sea floor.
+
+Power will be brought to the shore by cables with no offshore grid substation and connected to the grid.
+
+The Puttalam site was about 10 kilometres off shore but wind was not as good as Mannar.
+
+Transmission cost was also higher requiring new lines as existing capacity was full.
+
+A third location that could be developed later was Hambantota which was less attractive.
+
+...
+
+[Data](articles/4d7d2539.json)
 
 ---
 
@@ -715,6 +801,26 @@ There may also be your home and pets, as well as young children. Are you aware o
 [Data](articles/7ae9ba72.json)
 
 [Extended Data](ext_articles/7ae9ba72.ext.json)
+
+---
+
+### Sri Lanka floods kill 12, over 370,000 under water or homeless
+
+*2024-11-29 01:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-floods-kill-12-over-370000-under-water-or-homeless-190747/) · `en`
+
+ECONOMYNEXT – Floods and landslides have killed 12 people and left hit 370,000 people in Sri Lanka disaster management authorities said as torrential rains from a deep depression in the Bay of Bengal lashed the island for the third day.
+
+The deep depression was around 200 kilometers off Trincomallee Thursday as reservoirs spilled over and landslides closed off roads and rail tracks.
+
+“It is very likely to move nearly northwards and maintain its intensity of deep depression till morning of 29th November, India’s Met Department said.
+
+“Thereafter, it will move northwestwards, weaken gradually into a depression by evening of 29th November.
+
+Continuing to move further northwestwards it is very likely to cross north Tamil Nadu-Puducherry coasts between Karaikal and Mahabalipuram around 0300 UTC of 30th November as a depression with a wind speed of 45-55 kmph gusting to 65 kmph.”
+
+...
+
+[Data](articles/ffab1c83.json)
 
 ---
 
@@ -2425,79 +2531,5 @@ Minister of farmers and crops have been reportedly affected by the caterpillary 
 [Data](articles/465d5470.json)
 
 [Extended Data](ext_articles/465d5470.ext.json)
-
----
-
-### National People's Power MPs do not provide appropriate assistance to people affected by rain floods in the Northern Province- Geetanath Kasilingam
-
-*2024-11-28 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199940) · `ta`
-
-National People's Power MPs criticized for inadequate flood relief in Northern Province, Sri Lanka. Over 250,000 affected, 10 deaths reported. Government urged to provide essential aid, but opposition party accused of inaction despite presidential orders.
-
-🟩
-
-Sri Lanka PA has not provided adequate assistance to the people affected by the floods in the Northern Province of Sri Lanka.
-
-He pointed out that more than 250,000 people in many parts of the country, including Jaffna, have failed to help the affected people from the Northern Province have failed to help the affected people from the Northern Province.
-
-He added that more than ten people have died so far, and many families are urgently needed for food asylum.
-
-Geetanath Kasilingam says that it is the duty of the government to provide assistance to the affected people in the event of a natural disaster, but to provide the essential needs of the food, but the parliamentarians of the newly elected National People's Power from the Northern Province have done nothing to publish the photographs, despite several days of rain flooding.
-
-...
-
-[Data](articles/ebdd9dc6.json)
-
-[Extended Data](ext_articles/ebdd9dc6.ext.json)
-
----
-
-### Sri Lanka's renowned elephant kills electricity
-
-*2024-11-28 15:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-புகழ்பெற்ற-யானை-மின்சாரம்-தாக்கி-பலி/175-347934) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Elephant causes power outage in Sri Lanka. Aged 40-50, it frequently visits Kala Veva and Kahalla-Pallakella backup areas.
-
-🟩
-
-The elephant, aged 40 - 50, is often known to come to Kala Veva and Kahalla -Pallakella backups.
-
-◼️
-
-[Data](articles/f531db0f.json)
-
-[Extended Data](ext_articles/f531db0f.ext.json)
-
----
-
-### Flood impact;Vavuniya Coordinating Committee
-
-*2024-11-28 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199930) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Vavuniya Coordinating Committee meets to discuss flood impacts. Deputy Minister Upali Samarasinghe chairs. Rishad Bathiudeen demands aid for trapped residents & exam students. Urges NGOs' support."
-
-🟩
-
-The Vavuniya District Coordinating Committee meeting was held at the Vavuniya District Secretariat on Thursday morning.
-
-The meeting was chaired by Deputy Minister of Cooperative Development, Upali Samarasinghe, all Ceylon People's Congress President and Member of Parliament Rishad Bathiudeen and Divisional Secretaries, Disaster Management Officers and Defense Department Officers including Vanni District Parliamentarians, Government Agent Sarathchandra.
-
-The meeting, which was organized in a special arrangement to investigate the impacts of the Vavuniya district due to inclement weather, discussed the floods and further measures to be taken in the affected areas.
-
-Commenting on this, the People's Congress leader Rishad, who was unable to go to work and those who were unable to leave the residences, would not be properly provided with food and demanded that they be identified and to take steps to provide them with the help of NGOs, with the help of NGOs.
-
-...
-
-[Data](articles/0b265dea.json)
-
-[Extended Data](ext_articles/0b265dea.ext.json)
 
 ---

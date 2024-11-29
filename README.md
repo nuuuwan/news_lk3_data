@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 12:42:28**
+As of **2024-11-29 13:26:13**
 
 ## Newspaper Stats
 
-*Scraped **57,557** Articles*
+*Scraped **57,567** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 440
 colombotelegraphcom | 582
-bbccomsinhala | 599
+bbccomsinhala | 600
 islandlk | 3,452
 economynextcom | 3,503
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,440
-adaderanalk | 6,971
-tamilmirrorlk | 8,184
+adalk | 5,441
+adaderanalk | 6,973
+tamilmirrorlk | 8,190
 virakesarilk | 9,385
 adaderanasinhalalk | 9,935
 
@@ -26,11 +26,141 @@ adaderanasinhalalk | 9,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,546 (100.0%) of 57,557 articles have been extended.
+57,560 (100.0%) of 57,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### வெள்ளை வேன் விவகாரம் ; ராஜித விடுதலை
+
+*2024-11-29 13:12:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளை-வேன்-விவகாரம்-ராஜித-விடுதலை/175-347981) · `ta`
+
+2019ஆம் ஆண்டு இடம்பெற்ற சர்ச்சைக்குரிய 'வெள்ளை வேன்' ஊடகவியலாளர் சந்திப்பு தொடர்பான வழக்கில் முன்னாள் அமைச்சர் ராஜித சேனாரத்ன மற்றும் இருவரை கொழும்பு மேல் நீதிமன்றம் விடுவித்துள்ளது.  R
+
+◼️
+
+[Data](articles/2c37dca3.json)
+
+---
+
+### சீரற்ற வானிலை: 38,616 பேர் தற்காலிக முகாம்களில் தஞ்சம்
+
+*2024-11-29 13:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலை-38-616-பேர்-தற்காலிக-முகாம்களில்-தஞ்சம்/175-347980) · `ta`
+
+கடும் மழையினால் ஏற்பட்ட அனர்த்தங்களினால் நாட்டின் 24 மாவட்டங்களிலும், தற்காலிக தடுப்பு மையங்களில் தடுத்து வைக்கப்பட்டுள்ளவர்களின் எண்ணிக்கை 38,616 ஆகும் என, அனர்த்த முகாமைத்துவ நிலையத்தின் பணிப்பாளர் பிரதீப் கொடிப்பிலி தெரிவித்தார்.
+
+அத்துடன்,  அனர்த்தங்கள் காரணமாக 102 வீடுகள் முற்றாக சேதமடைந்துள்ளன.  2,096 பகுதி வீடுகள் சேதமடைந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது. AN
+
+◼️
+
+[Data](articles/50166be3.json)
+
+---
+
+### ‘Rajarata Rejina’ train derails in Colombo
+
+*2024-11-29 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103863/rajarata-rejina-train-derails-in-colombo) · `en`
+
+The ‘Rajarata Rejina’ train travelling from Anuradhapura to Beliatta has derailed this morning (29) between the Colombo Fort and the Secretariat Halt railway stations.
+
+The derailment had occurred at around 11:10 a.m. today, Ada Derana reporter said.
+
+The train’s engine compartment has derailed in this manner while it has also resulted in damages to the railway track.
+
+◼️
+
+[Data](articles/4acd20cb.json)
+
+---
+
+### உயிரிழந்தோரின் எண்ணிக்கை அதிகரிப்பு
+
+*2024-11-29 12:59:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தோரின்-எண்ணிக்கை-அதிகரிப்பு/175-347978) · `ta`
+
+சீரற்ற காலநிலையால் ஏற்பட்ட அனர்த்தங்களால் உயிரிழந்தோரின் எண்ணிக்கை 13 ஆக அதிகரித்துள்ளதாகவும், காணாமல் போன ஒருவர் தொடர்ந்தும் தேடப்பட்டு வருவதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+இதன்படி 100,032 குடும்பங்களை சேர்ந்த 441, 590 பேர் பாதிக்கப்பட்டுள்ளனர். அத்துடன் 38,616 பேர் நலன்புரி முகாம்களில் தங்க வைக்கப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/a2c85c37.json)
+
+---
+
+### Appointment of Groups to oversee relief tasks
+
+*2024-11-29 12:52:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரண-பணிகளை-மேற்பார்வையிட-குழுக்கள்-நியமனம்/175-347977) · `ta`
+
+Cabinet appoints 2 committees to oversee flood relief in Northern & Eastern Provinces. Committees monitor ongoing efforts. Minister Upali Pannilake ensures restoration of normal life in Eastern Province.
+
+🟩
+
+In the Northern and Eastern Provinces, which have been affected by the floods, 2 committees have been appointed by Cabinet Ministers to oversee the relief work.
+
+As a result, the group was monitoring the ongoing relief work in their respective provinces yesterday.
+
+The Minister of Rural Development, Social Security and Social Reinforcement, Prof. Upali Pannilake, said that the necessary steps are being taken to restore the normal life of the people in the Eastern Province.
+
+◼️
+
+[Data](articles/7f7f1920.json)
+
+[Extended Data](ext_articles/7f7f1920.ext.json)
+
+---
+
+### Provincial Council election filed: Next week discussion
+
+*2024-11-29 12:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைத்-தேர்தல்-வேட்புமனு-தாக்கல்-அடுத்த-வாரம்-கலந்துரையாடல்/175-347976) · `ta`
+
+Next week, the Ministry of Provincial Councils will discuss nomination filing for elections. Political party leaders will attend. Decisions made will guide final compliance. Election delay due to treasury funding issues.
+
+🟩
+
+The Ministry of Provincial Councils and Local Government has announced that the discussion will be held next week to determine the next step on the filing of nominations for the provincial council election.
+
+The meeting, chaired by the Chairman of the Council, Minister Pimal Ratnayake, is expected to attend the leaders of political parties representing parliament, Minister Professor Chandana Abeyratne said.
+
+He added that the decisions taken during the meeting would be the basis for the final compliance with the nominations for the upcoming provincial council election.
+
+Although the National Elections Commission was prepared to hold the election, they were delayed due to the lack of funds for the Treasury.
+
+◼️
+
+[Data](articles/47e4ebf6.json)
+
+[Extended Data](ext_articles/47e4ebf6.ext.json)
+
+---
+
+### Homagama assassination attempt: suspects arrested
+
+*2024-11-29 12:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோமாகம-படுகொலை-முயற்சி-சந்தேகநபர்கள்-கைது/175-347975) · `ta`
+
+Two suspects (23 & 26) arrested for attempted murder near Homagama hospital. Raid based on Western Province CID intel. Charges include murder, assault. Firing allegedly on orders of foreign drug dealer. Ongoing investigation by Southern Province Crime Division.
+
+🟩
+
+On the 14th, two suspects who tried to kill a house in a house in the Homagama Hospital Road area have been arrested in the Megoda, Adigala area.
+
+They have been arrested during a raid carried out on the basis of information received by the Western Province Southern District Criminal Investigation Division.
+
+They have been arrested on charges of murder, serious injury and abuse.
+
+The arrested suspects were aged 23 and 26 and they were from Colombo and Meegoda area, police said.
+
+Investigations carried out by the suspects revealed that the firing was carried out on the instructions of a drug dealer who was hidden abroad.
+
+Further investigations into the incident are being carried out by the Southern Province Southern District Crime Division.
+
+◼️
+
+[Data](articles/56174f73.json)
+
+[Extended Data](ext_articles/56174f73.ext.json)
+
+---
 
 ### The present government should advance contact with India - Ranil
 
@@ -131,6 +261,46 @@ Meanwhile, in many parts of Nawalapitiya, the power supply has been cut off due 
 [Data](articles/1292f8c9.json)
 
 [Extended Data](ext_articles/1292f8c9.ext.json)
+
+---
+
+### A group of patients trapped on an island to Jaffna hospital
+
+*2024-11-29 12:01:39* · [`adalk`](https://www.ada.lk/breaking_news/දූපතක-සිරවී-සිටි-රෝගීන්-පිරිසක්-ගුවනින්-යාපනය-රෝහලට/11-413356) · `si`
+
+Patients from Nudinieve Hospital in Jaffna rescued by SLAF helicopter after being stranded due to flooding.
+
+🟩
+
+Three patients who were receiving treatment at the Nudinieve Hospital in Jaffna and the Sri Lankan Air Force took place yesterday (28).
+
+A helicopter belonging to Sri Lanka Airport was landed at the Ven.
+
+The Air Force has also taken steps to saving the people stranded due to floods in the land route.
+
+◼️
+
+[Data](articles/b81da5c4.json)
+
+[Extended Data](ext_articles/b81da5c4.ext.json)
+
+---
+
+### Rajitha and two others acquitted from ‘white van’ case
+
+*2024-11-29 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103862/rajitha-and-two-others-acquitted-from-white-van-case) · `en`
+
+The Colombo High Court has acquitted former Minister Rajitha Senaratne and two others in the case related to the controversial ‘white van’ media conference held in 2019.
+
+On September 12, 2022 former Minister Rajitha Senaratne and former State Pharmaceutical Corporation (SPC) chairman Rumy Mohamed had pleaded not guilty for the charges against them over the controversial “white van” press conference.
+
+In the days leading up to the Presidential Election in 2019, former Health Minister Rajitha Senaratne had called two persons named Anthony Douglas Fernando and Athula Sanjeewa Madanayake for the said press conference, where they made controversial statements regarding alleged “white vans” and purported incidents of certain abductions, assassinations, robberies and forced disappearances during the administration of former President Mahinda Rajapaksa.
+
+...
+
+[Data](articles/afd54336.json)
+
+[Extended Data](ext_articles/afd54336.ext.json)
 
 ---
 
@@ -308,55 +478,77 @@ In addition, power outages have been reported in many areas of Nawalapitiya due 
 
 ---
 
-### முதலையால் இழுத்துச் செல்லப்பட்ட நபர்!
+### The person pulled by the first!
 
 *2024-11-29 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199967) · `ta`
 
-பொத்துவில் பொலிஸ் பிரிவுக்குட்பட்ட முதலை பாறை பகுதியில் நபர் ஒருவரை முதலை இழுத்துச் சென்ற சம்பவமொன்று நேற்று வியாழக்கிழமை (28) இடம்பெற்றுள்ளது.
+Here's a summary of 200 characters:
 
-முதலை பாறை பகுதியில் உள்ள ஆற்றிலிருந்து எருமை மாடுகளை மறுபுறம் விரட்டிச் சென்ற நபரை, முதலை பிடித்து இழுத்துச் சென்றதாக பொத்துவில் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
 
-அந்த நபரை தேடும் நடவடிக்கையில் பொலிஸாரும் கடற்படை முகாம் அதிகாரிகளும் ஈடுபட்டு வருகின்றனர்.
+
+Incident: Man catches crocodile near Pottuvil. Police & navy searching for suspect.
+
+🟩
+
+An incident took place on Thursday (28) in the crocodile rock in the Pottuvil police division.
+
+A complaint has been lodged at the Pottuvil police station alleging that the crocodile was caught by a man who drove the buffalo cows on the other side of the crocodile rock.
+
+Police and naval camp officers are engaged in search of the man.
 
 ◼️
 
 [Data](articles/90ba9109.json)
 
+[Extended Data](ext_articles/90ba9109.ext.json)
+
 ---
 
-### இலங்கை - இந்திய கடற்படைகளால் இரு படகுகளிலிருந்து 500 கிலோ போதைப்பொருள் கைப்பற்றல்
+### 500 kg of narcotics from two boats by Sri Lanka -Indian Navy
 
 *2024-11-29 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199968) · `ta`
 
-இலங்கை - இந்திய கடற்படைகளின் கூட்டு நடவடிக்கையால் இலங்கைக் கொடியுடன் காணப்பட்ட 2 மீன்பிடிப் படகுகளும் அவற்றிலிருந்து 500 கிலோ போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளதோடு, சில சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Sri Lankan-Indian Navy joint operation seizes 500 kg drugs from two boats with Sri Lankan flags. Indian Navy arrested suspects based on Sri Lanka Navy tip. Two boats identified via naval surveillance. Suspects handed over to Sri Lankan authorities for legal action.
 
-இலங்கை கொடியுடன் காணப்பட்ட படகுகளில் போதைப்பொருள் கடத்தப்படுவதாக இலங்கை கடற்படையானது இந்திய கடற்படைக்கு வழங்கிய தகவலின் அடிப்படையில் இந்திய கடற்படையினரால் இந்த கைது நடவடிக்கை இடம்பெற்றுள்ளது.
+🟩
 
-இந்திய கடற்படையினரின் வான்வழி கண்காணிப்பு நடவடிக்கையின்  அடிப்படையிலேயே இரண்டு படகுகளும் அடையாளம் காணப்பட்டன.
+The joint operation of the Sri Lankan -Indian Navy has seized 2 fishing boats found with the Sri Lankan flag and 500 kg of drugs and some suspects have been arrested.
 
-மேலும், கைப்பற்ற இரண்டு படகுகள் மற்றும் போதைப்பொருளோடு கைதான சந்தேக நபர்கள் மேலதிக சட்ட நடவடிக்கைகளுக்காக இலங்கை அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+The arrest was taken by the Indian Navy on the basis of information provided by the Sri Lanka Navy to the Indian Navy that the drug was smuggled into boats with the Sri Lankan flag.
+
+The two boats were identified on the basis of the airline surveillance of the Indian navy.
+
+In addition, two boats and drug suspects have been handed over to Sri Lankan authorities for further legal action.
 
 ◼️
 
 [Data](articles/3929b5ea.json)
 
+[Extended Data](ext_articles/3929b5ea.ext.json)
+
 ---
 
-### මහ වැස්සේ කුඹුරට ආ වන අලියා මඩේ එරෙයි
+### The elephant returns to the paddy fields
 
 *2024-11-29 11:00:58* · [`adalk`](https://www.ada.lk/breaking_news/මහ-වැස්සේ-කුඹුරට-ආ-වන-අලියා-මඩේ-එරෙයි/11-413355) · `si`
 
-මහවැස්සේ කුඹුරට ආව වනඅලියා මඩේ එරෙයි. ගොඩගැනීමටත් අසීරුයි.වවුනියාව කුඩාකච්චකොඩිය ප්‍රදේශයේ පිහිටි කුඹුරක් වෙතට පැමිණි වනඅලියෙකු කුඹුරේ මඩේ එරීමෙන් යාගත නොහැකිව වැටී සිටින බවට ප්‍රදේශවාසීන් විසින් වව්නියාව වනජීවි නිලධාරී කාර්යාලය වෙතට දැනුම් දී ඇත.
+Elephant spotted in paddy field near Kumbukchchakody. Wildlife officials investigating, considering rescue efforts if needed.
 
-අදල වන අලියාගේ පාදවලට හෝ වන අලියාට යම් අසනීප තත්වයක් හේතුවෙන් මෙලෙස වැටී සිටිනු ඇති බවට සැකපල කරන බවටත් පවතින වර්ෂාව සහ මඩ ස්වභාවය හේතුවෙන් වනඅලියා පිළිබඳව නිරීක්ෂණය කිරීමට අපහසු බවටද වව්නියාව වනජීවි නිලධාරී කාර්යාලය පැවසීය.
+🟩
 
-මෙම වනඅලියා දින දෙකක් පමණ මෙම ස්ථානයේ වැටී සිටින්නට ඇති බවට වනජීවි නිලධාරීන් සැකපල කර සිටියි.
+Elaya, Whaya, who came to the brutal. Residents have informed the Wildlife Office at the Vavuniya Wangana, Vavuniya that a Warehow had come to a palm in Kumbukchchakody in the Kumbukchkodayu area.
 
-කෙසේ වෙතත් අදාල ස්ථානයට බැකෝ යන්ත්‍රයක් හෝ රැගෙන ගොස් වනඅලියා ඔසවා පරික්ෂා කිරීමට පියවර ගන්නා බවටත් යම් අසනීප තත්වයක් ඇත්නම් ප්‍රතිකාර කිරීමට පියවර ගන්නා බවටද වව්නියාව වනජීවි නිලධාරී කාර්යාලය වැඩිදුරටත් පැවසීය.
+The office of the Vavuniya Wildlife Office has been unable to monitor the rain and mud due to any illness, the elephant or the elephant, which is in some illness.
+
+Wildlife officials have suspected that the vanali may have fallen in this place about two days.
+
+However, the office of the Vavuniya Wildlife Office has said that if a backhoe or the road was taken to the location or to check the forest, he will take steps to be treated.
 
 ◼️
 
 [Data](articles/411be8bc.json)
+
+[Extended Data](ext_articles/411be8bc.ext.json)
 
 ---
 
@@ -482,37 +674,49 @@ The Irrigation Department has extended flood warnings for Mahaweli Ganga, Heda O
 
 ---
 
-### இலங்கை வெளிசக்திகளின் அழுத்தங்களிற்கு அடிபணியக்கூடாது,சுயாதீன   வெளிவிவகார கொள்கையை பின்பற்றவேண்டும் - சீன தூதுவர் வேண்டுகோள்
+### Sri Lanka should not submit to the pressures of the outskirts, and follow the independent foreign policy - Chinese Ambassador's request
 
 *2024-11-29 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199970) · `ta`
 
-இலங்கை வெளிசக்திகளின் அழுத்தங்களுக்கு அடிபணியக்கூடாது சுயாதீன  வெளிவிவகார கொள்கையை பின்பற்றவேண்டும் என இலங்கைக்கான சீன தூதுவர் குய் ஜென்ஹாங் வேண்டுகோள் விடுத்துள்ளார்.
+Chinese Ambassador Qi Jenhang urges Sri Lanka to pursue independent foreign policy, resisting external pressures during economic crisis.
 
-குறிப்பாக இலங்கையின் பொருளாதார நிலைமையை சில தரப்பினர் தங்களிற்கு சாதகமாக பயன்படுத்தமுயலும்போது இலங்கை சுயாதீன வெளிவிவகார கொள்கையை பின்பற்றவேண்டும் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+🟩
 
-இலங்கை தற்போதைய பொருளாதார நெருக்கடியிலிருந்து மீள்வதற்கு வெளிநாடுகளின் உலக நாடுகளின் உதவி அவசியம் என சில உலக நாடுகள் இலங்கைக்கு தெரிவித்துள்ளன என குறிப்பிட்டுள்ள அவர் இது தவறான கருத்து, இலங்கை மக்கள் தங்களை குறித்து நம்பிக்கை கொண்டவர்களாகயிருக்கவேண்டும்,சீனா போன்ற சகாக்களுடன் உறவுகளை பேணுவது குறித்து கவனம் செலுத்தவேண்டும் என இலங்கைக்கான சீன தூதுவர் தெரிவித்துள்ளார்.
+Chinese Ambassador to Sri Lanka Qi Jenhang has appealed to Sri Lanka to adopt an independent foreign policy.
 
-இலங்கையை பொறுத்தவரை சீனாவிற்கு தனிப்பட்ட நிகழ்ச்சிநிரல் இல்லை,இலங்கை மக்களிற்கான உதவிகளிலும் நிகழ்ச்சிநிரல்,சீனாவின் உதவி இலங்கை சுதந்திரமான நாடாக மாறுவதற்கும் வெளிசக்திகளின் அழுத்தங்களை எதிர்கொள்வதற்கும் உதவும் என நாங்கள் உறுதியாக கருதுகின்றோம் என அவர் தெரிவித்துள்ளார்.
+He has appealed to Sri Lanka to adopt an independent foreign policy, especially when some parties take advantage of the economic situation in Sri Lanka.
+
+The Chinese Ambassador to Sri Lanka said that some of the world's countries have told Sri Lanka that the help of foreign countries to recover from the current economic crisis of Sri Lanka should be focused on maintaining relations with colleagues like China.
+
+"As for Sri Lanka, China has no personal agenda, and we are sure that the agenda of the Sri Lankan people will help Sri Lanka's help to become an independent country and face the pressures of the foreign powers," he said.
 
 ◼️
 
 [Data](articles/f23a33d8.json)
 
+[Extended Data](ext_articles/f23a33d8.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ධජ සහිත මත්ද්‍රව්‍ය පිරවූ යාත්‍රා දෙකක් කොටුවෙයි
+### Two Sri Lankan flags falling drugs
 
 *2024-11-29 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203856) · `si`
 
-ශ්‍රී ලංකා ධජ සහිත යාත්‍රා දෙකක තිබී ක්‍රිස්ටල් මෙත් නමැති මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 500ක් සමග පිරිසක් අත්අඩංගුවට ගත් බව ඉන්දීය නාවික හමුදා මාධ්‍ය ප්‍රකාශකවරයා පවසා තිබේ.
+Indian Navy spokesperson arrested with 500kg methamphetamine and two Sri Lankan flags. Joint operation with Sri Lanka Navy. Drugs and flags to be handed over to Sri Lankan authorities.
 
-ශ්‍රී ලංකා නාවික හමුදාවට ලැබී තිබූ බුද්ධි තොරතුරක් අනුව අරාබි මුහුදේ යාත්‍රා කරමින් තිබූ අදාළ යාත්‍රා දෙක අත්අඩංගුවට ගෙන තිබුණේ ඉන්දීය සහ ශ්‍රී ලංකා නාවික හමුදා ඒකාබද්ධ මෙහෙයුමකදී ය.
+🟩
 
-පිරිස සමග අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය සහිත බෝට්ටු දෙක ඉදිරි නීතිමය කටයුතු සඳහා ශ්‍රී ලංකා බලධාරීන් වෙත භාරදීමට නියමිතය.
+The Indian Navy Media Spokesperson has been arrested by the Indian Navy Media Spokesman, which had 500 kilograms of crystal Meth, two Sri Lankan flags.
+
+According to an intelligence information received by the Sri Lanka Navy, the two vessels of the Arabian sea were arrested in a joint venture.
+
+The two drugs with drugs arrested with the people will be handed over to the Sri Lankan authorities for further legal.
 
 ◼️
 
 [Data](articles/b7131285.json)
+
+[Extended Data](ext_articles/b7131285.ext.json)
 
 ---
 
@@ -548,19 +752,25 @@ It has also been revealed that the soldiers have been advised not to carry child
 
 ---
 
-### නාවලපිටියේ පස් කන්දක් කඩාවැටේ
+### Mountain in Nawalapitiya
 
 *2024-11-29 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203855) · `si`
 
-නාවලපිටිය - දොළොස්බාගේ මාර්ගයට විශාල පස් කන්දක් සමග ගස් කඩාවැටීමෙන් එම මාර්ගයේ රථ වාහන ගමනාගමනය මේ වනවිට සම්පූර්ණයෙන්ම නවතා දමා ඇති බව නාවලපිටිය පොලීසිය පැවසීය.
+N
 
-මෙම මාර්ගයේ වැලිගොඩවත්ත ප්‍රදේශයට පස් කන්ද කඩාවැටී ඇත්තේ අද (29) අලුයම 2ට පමණය.
+🟩
 
-එමෙන්ම පස් කන්ද සමග ගස් විදුලි රැහැන් මතට කඩාවැටීම හේතුවෙන් නාවලපිටියේ ප්‍රදේශ රැසකට විදුලියද මේ වනවිට ඇණහිට ඇත.
+Traffic on the road with a large mound with a large mound with a large mound to the Navalapitiya road has been completely stopped.
+
+The earth was collapsed in the Weligodawatta area on this morning.
+
+Electricity has already stopped a number of areas in Nawalapitiya due to the collapse of the mound of the mound.
 
 ◼️
 
 [Data](articles/63596bf2.json)
+
+[Extended Data](ext_articles/63596bf2.ext.json)
 
 ---
 
@@ -602,7 +812,7 @@ These efforts led to the identification of two fishing boats suspected of being 
 
 Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
 
-◼️
+...
 
 [Data](articles/06d12378.json)
 
@@ -610,27 +820,39 @@ Both vessels set for sail on November 24 and 25. The seized narcotics were hande
 
 ---
 
-### ශූරයන්ගේ කුසලානය ගැන ICC අවසන් තීරණය අද ?
+### ICC Final Decision on Champions Trophy?
 
 *2024-11-29 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203854) · `si`
 
-ශූරයන්ගේ කුසලාන ක්‍රිකට් තරගාවලිය සැලසුම්කළ ලෙස පාකිස්තානයේදීම පවත්වනවාද, නැතහොත් විකල්ප ස්ථානයක් ඒ සඳහා යොදාගන්නවාද යන්න පිළිබඳ අවසන් තීරණයක් ගැනීම සඳහා ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය අද  (29) රැස්වීමට නියමිතව ඇත.
+Here's a summary of 200 characters:
 
-ඉන්දීය ක්‍රිකට් කණ්ඩායම පාකිස්තානට ගොස් ක්‍රීඩාකිරීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් මෙම තරගාවලිය පැවැත්වීම සම්බන්ධයෙන් මේ වනවිට මතභේදයට තුඩු දී තිබේ.
 
-ඒ හේතුවෙන් මේ සම්බන්ධයෙන් පසුගිය කාලය පුරා ලද විවිධ යෝජනා සැලකිල්ලට ගෙන අයි. සී. සී.ය තීරණ තුනක් කෙරෙහි මේ වනවිට විශේෂ අවදානයක් යොමුකර තිබේ.
 
-ඉන් එක් යෝජනාවක් වන්නේ තරගාවලියේ වැඩි තරග සංඛ්‍යාවක් පාකිස්තානයේදී පවත්වා, ඉන්දියාව ක්‍රීඩාකරන තරග පමණක් පාකිස්තානයෙන් පිටතදී පැවැත්වීමයි.
+ICC meets today to decide Champions Trophy fate. Controversy surrounds India's refusal to play in Pakistan. Proposals: keep matches in Pakistan, move all games to another country, or hold tournament without India. Sports Vicaries report says final decision unlikely to negatively impact the tournament financially and commercially. The inaugural event was held in 2017, with the next one scheduled from Feb 19 to Mar 9, 2024.
 
-තවත් යෝජනාවක් වී ඇත්තේ සමස්ත තරගාවලියම පාකිස්තානයේ සත්කාරක අයිතිය යටතේ වෙනත් රටක පැවැත්වීමයි.
+🟩
 
-එමෙන්ම අවසන් යෝජනාව වී ඇත්තේ ඉන්දියාව තරගාවලිය ක්‍රීඩාකිරීම සඳහා පාකිස්තානයට නොපැමිණෙන්නේ නම්, ඔවුන් නොමැතිව සමස්ත තරගාවලියම පාකිස්තානයේ දී පැවැත්වීමයි.
+The International Cricket Council is scheduled to meet today (29) to meet the final decision on Pakistan, or to take a final decision on the champion cricket tournament.
 
-කෙසේ නමුත් මෙම යෝජනා අතරින් අවසන් යෝජනාව බොහෝ දුරට ක්‍රියාත්මක නොවනු ඇති බව දැනටමත් ක්‍රීඩා විචාකරයන් මත පළකර තිබේ.
+The Indian Cricket Team has been controversial due to the refusal of the Indian cricket to go to Pakistan.
+
+As a result, the recent proposals have been taken into consideration the number of proposals. C. A special attention has been made in three CD decisions.
+
+One of the suggestions is to maintain more competitions in Pakistan and conduct only India played outside Pakistan.
+
+Another suggestion is to hold the entire tournament in another country under the host of Pakistan.
+
+The final proposal is that if India does not come to Pakistan to play the tournament, the entire tournament is being held in Pakistan without them.
+
+However, it has already been published on sports vicaries that the final resolution is largely not working.
+
+They say that there is no negative impact on the tournament.
 
 ...
 
 [Data](articles/26192aff.json)
+
+[Extended Data](ext_articles/26192aff.ext.json)
 
 ---
 
@@ -680,27 +902,35 @@ The government has to carry a huge cost of maintaining these luxury vehicles and
 
 ---
 
-### රාජාංගනයේ වාන් දොරටු 10ක් විවෘත කරයි - අනෙකුත් ජලාශවල තත්ත්වය මෙන්න
+### Here is 10 sluice gates of Rajangana - Here is the status of other reservoirs
 
 *2024-11-29 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203853) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් රාජාංගනය ජලාශයේ වාන් දොරටු 10ක් විවෘත කර තිබේ.
+Rajanganaya reservoir: 10 sluice gates opened due to heavy rains. Water released to Tappage. Other reservoirs affected: Wimalasuradura, Castlereage, MouseSackle. Hydroelectric plants operating at max capacity. Lowland areas impacted by Nachchaduuwa reservoir opening.
 
-අප වාර්තාකරු පවසන්නේ අධික වැසි තත්ත්වය නිසා අනුරාධපුර දිස්ත්‍රික්කයට දැඩි බලපෑමක් ඇතිවී තිබෙන බවය.
+🟩
 
-රාජාංගනය ජලාශයේ වාන් දොරටු 10 විවෘත කිරීමට තුළින් තප්පරයට ගණ අඩි 11,800ක ජල ධාරිතාවක් කලා ඔයට මුදාහැරෙන බවද වාර්තා වෙයි.
+10 sluice gates of the Rajanganaya reservoir have been opened due to inclement weather.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලට තවදුරටත් කඩින්කඩ අධික වැසි ඇදහැලීම හේතුවෙන් නෝටන්බ්‍රිජ් විමලසුරෙන්ද්‍ර ජලාශය තවදුරටත් වාන් දමමින් පවතී.
+Our correspondent says that due to heavy rains, the Anuradhapura district has a profound effect on the Anuradhapura district.
 
-කාසල්රී සහ මවුස්සාකැලේ ජලාශයේ ජල පෝෂක ප්‍රදේශයට ඇදහැලෙන වර්ෂාව හේතුවෙන් එම ජලාශය ද පිටාර මට්ටමට ඉතා ආසන්න වෙමින් පවතින බව ජලාශ භාර ඉංජිනේරු නිලධාරීන් පැවසීය.
+It is reported that the 10-sluice gates of the Rajanganaya reservoir will be released to the Tappage to the Tappage to the Tappage.
 
-එම ජලාශ දෙකේම ජල මට්ටම ඉහළ යාමත් සමග විමලසුරෙන්ද්‍ර, කැනියොන්, ලක්ෂපාන, නව ලක්ෂපාන සහ පොල්පිටිය ජලවිදුලි බලාගාරවල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බව ජලවිදුලි බලාගාර භාර ඉංජිනේරුවන් සඳහන් කරයි.
+The Northern Bridge Wimalasuradura reservoir continues to raise further excessive rain in the central hills.
 
-නාච්චාදුව ජලාශයේ සියලුම වාන් දොරටු විවෘත කිරීම නිසා මල්වතු ඔය දෙපස පහත්බිම්වල ජනතාව දැඩි අවධානයෙන් සිටින්නයි වාරි ඉංජිනේරු නිලධාරිනිය දැනුම්දී තිබේ.
+The reservoir has also been close to the catchment area of ​​the Castlereage and the MouseSackle Reservoir.
+
+With the increase in the water level of both reservoirs, the engineers in charge of Hydroene, Laxapana and Polapitiya Hydroelectric Power Plants are being carried out in the maximum capacity.
+
+The irrigation engineering official has informed the people of lowlands on both sides of the Malwathu Oya due to the opening of all sluice gates of the Nachchaduuwa reservoir.
+
+Thus, the Malwathu Oya released 2,140 feet transferred to the Malwathu Oya.
 
 ...
 
 [Data](articles/367a88f1.json)
+
+[Extended Data](ext_articles/367a88f1.ext.json)
 
 ---
 
@@ -750,21 +980,27 @@ Kyiv is heavily protected by air defences, but Putin says the Oreshnik, which Ru
 
 ---
 
-### කිඹුලෙකු විසින් මිනිසෙකු ඩැහැගෙන යයි
+### A man is sewed by a crocodile
 
 *2024-11-29 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203852) · `si`
 
-කිඹුලෙකු විසින් පුද්ගලයෙකුව ඩැහැගෙන යෑමේ සිද්ධියක් පොතුවිල් පොලිස් වසමේ ක්‍රොකඩයිල් රොක් ප්‍රදේශයෙන් වාර්තා වෙයි.
+Man bitten by crocodile near KroKele Rock, Pottuvil. 41-year-old from Piyarachchi area. Police and Navy searching for missing person.
 
-ඊයේ (28) සවස් කාලයේදී ක්‍රොකඩයිල් රොක් ප්‍රදේශයේ දූව ගංගාවෙන් මී හරකුන් එගොඩ කරමින් සිටි පුද්ගලයෙකුව කිඹුලෙකු විසින් ඩැහැගෙන ගොස් ඇති බවට පොතුවිල් පොලිස් ස්ථානයට පැමිණිල්ලක් ලැබී ඇත.
+🟩
 
-සිද්ධියට මුහුණපා ඇත්තේ වයස අවුරුදු 41ක් වූ පසරච්චේන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A crocodile by a crocodile is reported from KroKele Rock, Pottuvil police division.
 
-අතුරුදහන් පුද්ගලයා සොයා පොලීසිය හා පානම නාවික හමුදා කඳවුරේ නිලධාරීන් එක්වී මෙහෙයුම් සිදුකරයි.
+The Pottuvil police station has lodged a complaint that a person was converted by a crocodile from the Krokyl Rock in the Krodirl Rock yesterday.
+
+A 41-year-old, a resident of the Piyarachchi, aged 41.
+
+Officers of the Police and the Sri Lanka Naval Base have joined the disappearance of the missing person.
 
 ◼️
 
 [Data](articles/f8f20fbf.json)
+
+[Extended Data](ext_articles/f8f20fbf.ext.json)
 
 ---
 
@@ -881,6 +1117,24 @@ It was reported yesterday that the Principal had been instructed to carry the ch
 [Data](articles/49ef5d34.json)
 
 [Extended Data](ext_articles/49ef5d34.ext.json)
+
+---
+
+### 'සුදු වෑන්' නඩුවෙන් රාජිත සේනාරත්න නිදොස් කොට නිදහස්: හේතුව කුමක් ද?
+
+*2024-11-29 07:04:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gpnxngw7no) · `si`
+
+'සුදු වෑන්' නඩුවෙන් රාජිත සේනාරත්න නිදොස් කොට නිදහස්: හේතුව කුමක් ද?
+
+2019 වසරේ පැවති ජනාධිපතිවරණය සමයේ සුදු වෑන්වලින් පුද්ගලයින් පැහැරගෙන යාම, කොල්ලකෑම, මිනී මැරීම ඇතුළු සිද්ධීන් සම්බන්ධයෙන් කොළඹ පැවති මාධ්‍ය සාකච්ඡාවකදී පැවසූ අදහස් හරහා එවක ජනාධිපති අපේක්ෂක ගෝඨාභය රාජපක්ෂට අගතියක් සිදු කළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය රාජිත සේනාරත්න සහ රාජ්‍ය ඖෂධ නීතිගත සංස්ථාවේ හිටපු සභාපති මොහොමඩ් රූමි යන විත්තිකරුවන් දෙදෙනා විත්ති වාචකය නොකැඳවා නිදොස් කොට නිදහස් කිරීමට කොළඹ මහාධිකරණය අද (නොවැ: 29) නියෝග කළේ ය.
+
+කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මෙම තීන්දුව ලබා දුන්නේ, දීර්ඝ නඩු විභාගයකින් අනතුරුව ය.
+
+2019 වසරේ නොවැම්බර් 10 වන දා කොළඹ පැවති ප්‍රශ්නගත මාධ්‍ය සාකච්ඡාවට සහභාගි වූ සකලවල්ලි ආරච්චිගේ සරත් කුමාර සහ අතුල සංජීව මදනායක යන පුද්ගලයින් දෙදෙනා විසින් ගෝඨාභය රාජපක්ෂ ආරක්ෂක ලේකම්වරයා වශයෙන් කටයුතු කළ සමයේ සුදු වෑන්වලින් පුද්ගලයින් පැහැරගෙන යාම, කප්පම් ගැනීම්, මිනී මැරීම ඇතුළු අපරාධ ක්‍රියා කළ බවට තොරතුරු අනාවරණය කර තිබිණි.
+
+...
+
+[Data](articles/48936a6f.json)
 
 ---
 
@@ -2201,289 +2455,5 @@ The defendants, through their attorney pleaded guilty to the charges when the ca
 [Data](articles/b586014c.json)
 
 [Extended Data](ext_articles/b586014c.ext.json)
-
----
-
-### A baby elephant, apart from the flock comes to the village with a buffalo
-
-*2024-11-28 18:10:38* · [`adalk`](https://www.ada.lk/picture_story/රැළෙන්-වෙන්ව-සිටි-අලි-පැටවෙකු-මී-හරක්-රංචුවක්-සමග-ගමට-එයි/10-413347) · `si`
-
-Baby elephant strays from herd, enters village with buffalo. Overflows bucket due to heavy rainfall in Polonnaruwa district. Five-year-old calf causes commotion. Villagers alert wildlife officials.
-
-🟩
-
-A baby elephant has come to a mangel with a bucket of the floor due to overflowing the Polonnaruwa district due to the overflowing of the Polonnaruwa district.
-
-According to a cattle shed in the village of the village of the village, a five-year-old elephant sheet is a 5-5-foot elephant sheet.
-
-A large number of people were returning to the cattle shed.
-
-The villagers have taken measures to educate the wildlife officers of the Polonnaruwa Wildlife Office about the early elephant.
-
-◼️
-
-[Data](articles/068af00c.json)
-
-[Extended Data](ext_articles/068af00c.ext.json)
-
----
-
-### President tells World Bank's chairman of government priority
-
-*2024-11-28 18:05:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ප්‍රමුඛතාව-ගැන-ජනපති-ලෝක-බැංකු-සභාපතිට-කියයි/11-413346) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lanka: World Bank aid for jobs, digitalization, education, healthcare. Focus on North & East economic growth.
-
-🟩
-
-Sri Lanka joins as a host country in South Asian Joint Offices opened in 2025
-
-Sri Lanka focuses on digitalization and economic growth of poverty
-
-Attention to enhance education and health in the North and East
-
-President Anura Kumara Dissanayake and World Bank Chairman AJay Banga (AJay Banga) was held yesterday (27) at the Presidential Secretariat yesterday (27).
-
-Ajaye Banga said that the World Bank could be made to Sri Lanka to create new employment opportunities and overcome the future development challenges.Was done.
-
-The World Bank is supporting Sri Lanka, including economic policies, financial policies, investment, corporate development and poverty in the field of agriculture, water management, security, environmental stability, development, infrastructure improvement and development of infrastructureIt is expected to expand the support to digital translation.
-
-...
-
-[Data](articles/acfc2300.json)
-
-[Extended Data](ext_articles/acfc2300.ext.json)
-
----
-
-### Tractor accident in Ampara - Principal and Four arrested
-
-*2024-11-28 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203843) · `si`
-
-Ampara tractor accident: 6 students (ages 12-16) died; 5 bodies found, 1 recovered. Principal & 4 others arrested. Police investigation ongoing.
-
-🟩
-
-Two of the Kaduvur Madrasa School, a teacher and tractor assistants have been arrested in connection with investigations into the incident in the Mavaripalli Bridge in Ampara.
-
-Police said that the suspects are to be produced before the Samanthurai Magistrate's Court.
-
-The Principal had been instructed to go from the tractor, as the students had no bus to the students who were completed and the schools in the schools on the 26th.
-
-The bus had been stopped due to flooding.
-
-Police investigations have revealed that the Principal had been instructed to carry the children to the homes from a tractor who transports passengers in such a background.
-
-It has also been revealed that the army had instructed the army not to transport children from tractor as the road risk.
-
-The tractor was hit with 11 students in such a background, and five students survived at the moment and five students drown.
-
-The disappeared was six students who were age between 12 and 16 years old.
-
-...
-
-[Data](articles/80c2dc33.json)
-
-[Extended Data](ext_articles/80c2dc33.ext.json)
-
----
-
-### 4 lakh people are affected by Valla
-
-*2024-11-28 17:48:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளத்தால்-4-இலட்சம்-பேர்-பாதிப்பு/175-347943) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-400k+ affected by Valla: 401,707 people in 120,534 families across 24 districts. Mannar worst hit (63,883), followed by Jaffna (56,732). 102 homes destroyed, 1,952 damaged.
-
-🟩
-
-The Disaster Management Center (DMC) said that 401,707 people from 120,534 families in 24 districts have been affected by the inclement weather conditions.
-
-Mannar district has been badly affected and 63,883 persons have been affected, followed by 56,732 people in the Jaffna district.
-
-In addition, 102 houses have been completely damaged due to inclement weather and 1,952 houses have been partially damaged.
-
-◼️
-
-[Data](articles/246583dc.json)
-
-[Extended Data](ext_articles/246583dc.ext.json)
-
----
-
-### Sri Lanka launches lowest marks in Lanka Test
-
-*2024-11-28 17:39:01* · [`adalk`](https://www.ada.lk/sports/ලංකා-ටෙස්ට්-ඉතිහාසයේ-ඉනිමක-අඩුම-ලකුණු-සංඛ්‍යාවට-ලංකාව-දැවී-යයි/9-413345) · `si`
-
-Sri Lanka records lowest test score: 42 all out against South Africa. Lowest previous: 71 in 1994. South Africa replies with 191. Mendis top scorer for SL with 13. Janassen takes 7/13.
-
-🟩
-
-Sri Lanka was bowled out for the lowest score of Sri Lanka Cricket. South Africa in reply to South Africa's first Test against the South African team was bowled out for 42.
-
-The lowest score recorded at a innings in Test series, Sri Lanka were bowled out for 71 in 1994.
-
-The score of Sri Lanka was bowled out for the 12th largest number of Test history.
-
-South Africa scored 191 in their first innings. Kommit Mendis gathered the highest number of Sri Lankan innings. He was able to get 13 points. Janasen took seven wickets for 13 runs.
-
-◼️
-
-[Data](articles/bd502bef.json)
-
-[Extended Data](ext_articles/bd502bef.ext.json)
-
----
-
-### Sri Lanka launches 42 runs in their first innings
-
-*2024-11-28 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203842) · `si`
-
-Sri Lanka scores 42 vs South Africa in Durban. Lowest Test score. Marko Janssen takes 7/13. Kamindu Mendis, Lahiru Kumara score 13 each. Dinesh Chandimal, Kusal Mendis dismissed without score.
-
-🟩
-
-South Africa Film Bowl beat Sri Lanka to 42 runs in Durban against South Africa.
-
-Accordingly, the Dhamma was the lowest score of Sri Lanka in the history of Test cricket.
-
-Sri Lanka has previously been labeled at a Test innation, in 1994, in 1994, Sri Lanka was bowed down to Pakistan.
-
-Kamindu Mendis was 13 runs and Lahiru Kumara scored 13 runs.
-
-Dinesh Chandimal, Kusal Mendis, Prabath Jayasuriya, universal Fernando and Asitha Fernando left without marks.
-
-Marko Yansz, who was an outstanding bowler for South Africa, took seven wickets for 13 runs.
-
-In 1904, the wickets of the Australian bowler Hue Trickle was recorded in the Test area after seven wickets in 7 overs.
-
-◼️
-
-[Data](articles/7df8edc4.json)
-
-[Extended Data](ext_articles/7df8edc4.ext.json)
-
----
-
-### Minister of Fisheries and Members of Parliament
-
-*2024-11-28 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199941) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Fisheries Minister visits flood-hit Jaffna, provides aid. MPs offer medical assistance, food in relief camps.
-
-🟩
-
-A large number of people have been affected by the inclement weather in the country. Many areas have been flooded.
-
-Accordingly, the affected people in many areas of the Jaffna district are being kept and maintained in intermediate camps.
-
-Fisheries Minister Ramalingam Chandrasekaran visited them in person and is in the process of providing them with immediate needs.
-
-Similarly, Dr. Sripanandarajah, Member of the National People's Power, Dr. Sripanandaraja, is visiting the welfare of the people who have been housed in the interim camps and visited the medical services and are doing their necessary medical assistance.. The first phase is now being provided with medical services for the people who have been housed at the Jaffna Hindu Ladies College. ”
-
-At the same time, the National People's Power Member Rajeevan Jayachandramurthy is also meeting people in the interim camps and providing dry food and essential commodities to the people.
-
-...
-
-[Data](articles/cd3c1146.json)
-
-[Extended Data](ext_articles/cd3c1146.ext.json)
-
----
-
-### Samudrakani with Vijay Sethupathi
-
-*2024-11-28 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199954) · `ta`
-
-Samudrakani stars in "Manikam" directed by Nanda Periyasamy. Released Dec 20th alongside Vijay Sethupathi's "Liberation 2". Music by Vishal Chandrasekhar. Produced by GBRK Cinemas. Exciting fan anticipation.
-
-🟩
-
-Director and actor Samudrakani is the hero of the story 'Mr.. The release date of the movie 'Manikam' has been officially announced.
-
-Directed by Director Nanda Periyasamy. Samudrakani, 'Director' Imam 'Bharathiraja, Thambi Ramaiah, Sriman, Vadivakarasi, Karunakaran, Prince, and many others.
-
-M.. Vishal Chandrasekhar has composed the film, which has been recorded by Sukumar. The film is being produced by GBRK Cinemas on behalf of GB Rekha Ravikumar - Sinda Gopalakrishna Reddy -Raja Senthil.
-
-The film was ready for a long time for release. It has been announced with a special photo that the film will be released in the film palace worldwide on the twenty of December.
-
-Meanwhile, on the twenty of December, the film 'Liberation 2' will be released in the alliance of Vijayamaran -Vijay Sethupathi -Suri - and the film 'Liberation 2' will be released on the same date.. It is also worth noting that the fans are excited by the release of the movie 'Manikam'.
-
-◼️
-
-[Data](articles/b9444b73.json)
-
-[Extended Data](ext_articles/b9444b73.ext.json)
-
----
-
-### Surya's 'Surya 45' started with the pooja
-
-*2024-11-28 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199948) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Actor Surya's 'Surya 45' pooja ceremony held at Masani Amman Temple. Film production by Dream Warrior Pictures. Mixed reviews for previous film 'Gangua'. Shooting to begin soon in Coimbatore, release after June next year. Director Karthik Subburaj promises satisfying film for Surya fans.
-
-🟩
-
-Actor Surya has worked hard for three years and has received a mixed criticism of 'Gangua', which has received mixed reviews and has not reached the expected collection.
-
-Actor and director. J.. Actor Surya plays the hero of the story. The film was made on behalf of Dream Warrior Pictures Company. R. Prakash Babu and S. R. Prabhu is co -produced.
-
-Details of other actors, actresses and working technicians in the film have not been officially released. The inauguration of the film was held at the Masani Amman Temple in Erode district of Tamil Nadu. Actor Surya, director R. J.. The film crew including Balaji participated.
-
-The film production company said that the first shooting of the film will begin soon in the Coimbatore district and the film is scheduled to be released after June next year.
-
-Meanwhile, Surya's film directed by director Karthik Subburaj has said that the film will be released next year and the film will satisfy Surya fans.
-
-◼️
-
-[Data](articles/d38b3dc7.json)
-
-[Extended Data](ext_articles/d38b3dc7.ext.json)
-
----
-
-### Actor Rio Rajin 'Sweet Heart's first look vision release
-
-*2024-11-28 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199952) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rio Raj stars in "Sweet Heart," directed by Swineet S. Co-starring Gopika Ramesh, Ranji Mathew, Tulsi, and Redin Kingsley. Music by Yuvan Shankar Raja. Produced by SR Films. First look released in Salt Bucket style.
-
-🟩
-
-The first look of 'Sweet Heart' has been released by the film 'Nenjamundu Honesty Ou Raja', which is the hero of the story of the story of 'Joe', the hero of the famous actor Rio Raj.
-
-Introducing Director Swineet S.. Rio Raj, Gopika Ramesh, Ranji Masikar, Tulsi, Redin Kingsley
-
-Yuvan Shankar Raja has composed the film, which is being recorded by Balaji Subramaniam.. The film, which focuses on the younger generation, has produced the film on behalf of Yuvan Shankar Raja on behalf of the SR Films.
-
-The shooting of the film is completed and the final phase of the work is currently underway. In this case, the first look of the film has been released.
-
-The first look of the film has been designed and released in the famous 'Salt bundle' style among lovers.
-
-◼️
-
-[Data](articles/6abbf4ff.json)
-
-[Extended Data](ext_articles/6abbf4ff.ext.json)
 
 ---

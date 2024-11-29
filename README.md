@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 11:43:11**
+As of **2024-11-29 12:42:28**
 
 ## Newspaper Stats
 
-*Scraped **57,537** Articles*
+*Scraped **57,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,349 @@ islandlk | 3,452
 economynextcom | 3,503
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,439
-adaderanalk | 6,970
-tamilmirrorlk | 8,183
-virakesarilk | 9,377
-adaderanasinhalalk | 9,926
+adalk | 5,440
+adaderanalk | 6,971
+tamilmirrorlk | 8,184
+virakesarilk | 9,385
+adaderanasinhalalk | 9,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,533 (100.0%) of 57,537 articles have been extended.
+57,546 (100.0%) of 57,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### The present government should advance contact with India - Ranil
+
+*2024-11-29 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203861) · `si`
+
+Ranil Wickremesinghe urges current govt to strengthen ties with India during visit to Madhya Pradesh.
+
+🟩
+
+Former President Ranil Wickremesinghe says that the present government should also be carried forward with India strongly.
+
+The former President has said to India on a tour of India these days.
+
+Former President Ranil Wickremesinghe has also participated in the city of Indoor to the town of Indoor, India's Madhya Pradesh, India.
+
+The Curren City of India is as a solid city in the country.
+
+◼️
+
+[Data](articles/5d252510.json)
+
+[Extended Data](ext_articles/5d252510.ext.json)
+
+---
+
+### One arrested with heroin in Kalkisa
+
+*2024-11-29 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199977) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Arrest made in Kalkisa: 44-year-old man caught with 15g of heroin. Suspect from Moratuwa, handed to Malkisa Police for investigation.
+
+🟩
+
+A suspect has been arrested by the police on Thursday (28) in the Kattukunduwatte area under the Malkisai Police Division.
+
+He was arrested during a roundup of confidential information received by a group of police officers from the Mount Lavinia Police Station.
+
+The arrested suspect is a 44 -year -old from Moratuwa.
+
+From the suspect, 15 grams of 400 milligrams of heroin has been seized by the police.
+
+Meanwhile, the arrested person has been handed over to the Malkisa Police Station for further investigations.
+
+◼️
+
+[Data](articles/648e8378.json)
+
+[Extended Data](ext_articles/648e8378.ext.json)
+
+---
+
+### Kill the wife by cutting the ax;Husband escapes!
+
+*2024-11-29 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199971) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Man hacks wife with axe in Kadirgamam. Husband flees scene. Police investigating. Additional measures to capture suspect underway.
+
+🟩
+
+Kadirgamam police said that a man in the Kadirgamam police division has been hacked to death by a man in the Raja Mawatha area.
+
+Police investigations have revealed that the husband had killed his wife with an ax due to a family dispute and that the suspect had fled the area after the murder.
+
+Kadirgamam police are engaged in additional measures to arrest the suspect.
+
+◼️
+
+[Data](articles/32660fa9.json)
+
+[Extended Data](ext_articles/32660fa9.ext.json)
+
+---
+
+### Nawalapitiya - Dollabagay Road
+
+*2024-11-29 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199978) · `ta`
+
+Nawalapitiya: Road collapse blocks traffic; trees downed. Power outage reported in areas due to mudslide damage. Incident occurred early morning on 29th.
+
+🟩
+
+Nawalapitiya police said that the traffic on the Nawalapitiya - Tholaspagay road has fallen and the trees have been completely blocked due to the collapse of the trees.
+
+The road has collapsed at around 2 am today (29).
+
+Meanwhile, in many parts of Nawalapitiya, the power supply has been cut off due to the collapse of the mudslides and the wires.
+
+◼️
+
+[Data](articles/1292f8c9.json)
+
+[Extended Data](ext_articles/1292f8c9.ext.json)
+
+---
+
+### Electricity strike
+
+*2024-11-29 11:59:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்சாரம்-தாக்கி-ஒருவர்-பலி/76-347974) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Unauthorized electricity wire causes land death after pepper theft. Landowner arrested; Gampola police investigating.
+
+🟩
+
+When the man entered the land of another person and plucked the pepper, the land was killed by an unauthorized electric wire around the land, Gampola police said.
+
+The owner of the land has been arrested by the police and the Gampola police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/d3fd235b.json)
+
+[Extended Data](ext_articles/d3fd235b.ext.json)
+
+---
+
+### Rajitha Senaratne acquitted
+
+*2024-11-29 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203859) · `si`
+
+Rajitha Senaratne acquitted by Colombo High Court in white van case related to mediaquake against Gotabhaya Rajapaksa. Long trial ended with Judge Sujeewa Nissanka's verdict. Accused of creating false evidence for corrupt acts involving State Pharmaceutical Corporation.
+
+🟩
+
+The Colombo High Court today ordered the former Minister Rajitha Senaratne and two defendants regarding the white van.
+
+It was in connection with a trial accused of a mediaquake at the time, accusing the presidential candidate Gotabhaya Rajapaksa at the time, accusing the presidential candidate Gotabhaya Rajapaksa in Colombo.
+
+Colombo High Court Judge Sujeewa Nissanka was handed over after a long trial.
+
+Creating false evidence to prepare a corruptive act in accordance with the discussion of the Presidential Code on November 10, 2019 at the Penal Code and the State Pharmaceutical Corporation.The former Chairman Mohamed Rumomis were accused of the allegations against the two defendants.
+
+◼️
+
+[Data](articles/e38b3d7a.json)
+
+[Extended Data](ext_articles/e38b3d7a.ext.json)
+
+---
+
+### Flood warning of the Venerable Balao further
+
+*2024-11-29 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203858) · `si`
+
+Flood warning extended: Kala Oya alert continues for 24 more hours. Residents advised to be cautious. Road users warned. Disaster management urged to act.
+
+🟩
+
+The Irrigation Department (Irrigation Department) stated this morning in a statement that the floods issued for Kala Oya was extended by another 24 hours.
+
+Accordingly, the people of residence are requested to take care of the situation.
+
+The Irrigation Department also provides a special attention to the road drivers on the roads and by roads.
+
+They call on the disaster management aspects to take necessary action.
+
+◼️
+
+[Data](articles/e39b4ebe.json)
+
+[Extended Data](ext_articles/e39b4ebe.ext.json)
+
+---
+
+### Husband and wife die
+
+*2024-11-29 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199973) · `ta`
+
+Husband and wife electrocuted while fixing wiring at their home in Mundal 412 acres. Both died shortly after being hospitalized due to lack of medical treatment. Police investigation ongoing.
+
+🟩
+
+Husband and wife died in a power supply in Mundal 412 acres yesterday (28), police said.
+
+When the husband tried to correct the wiring that had been fitted for the power connection, the electricity was hit.
+
+Subsequently, after the two were admitted to the hospital, both husband and wife died without treatment, police said.
+
+◼️
+
+[Data](articles/a6349475.json)
+
+[Extended Data](ext_articles/a6349475.ext.json)
+
+---
+
+### Laws from Australia banning children under 16
+
+*2024-11-29 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203857) · `si`
+
+Australia bans social media for minors under 16. Law aims to protect youth from online harm but faces implementation doubts. First country to enact such legislation. Enforcement begins in one year.
+
+🟩
+
+The Australian government has decided to ban social media for children under the age of 16.
+
+Accordingly, Australia has become the world's first state that has passed such a law.
+
+This decision has been taken by regarding the bad matters in the use of social media.
+
+The proposal was produced before the Australian Parliament yesterday and was approved by Parliament.
+
+However, it will take about one year to implement the law.
+
+The Law will also be imposed on any social media network that is under the age of 16 with the age of 16 to enter the social media.
+
+Australian Prime Minister Anthony Albenays says that they introduced such a law to protect them from the damage to the youth using social media.
+
+However, many parties doubt how successful this law is implemented.
+
+◼️
+
+[Data](articles/51d3fafb.json)
+
+[Extended Data](ext_articles/51d3fafb.ext.json)
+
+---
+
+### Australian Parliament approval for the Bill - Bill
+
+*2024-11-29 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199975) · `ta`
+
+Australia passes bill banning teens under 16 from social media platforms like Snapchat, TikTok, and Facebook. Prime Minister aims to protect children from online harm. Critics question implementation details. Technology companies face fines if non-compliant. Parents exempt. Minister to decide specific platform bans.
+
+🟩
+
+The country's parliament has approved the legal source of the 16 -year -old people under the age of 16 in Australia.
+
+The Senior Finance Council has also supported this as the legal source has already been approved in the Senate.
+
+Prime Minister Antony Alpenis said the law was aimed at protecting children from the impact of social media.
+
+Australian officials said that if the technology companies do not follow the law, they may be fined against them.
+
+Critics, however, have commented that there is insufficient explanation of the impact on the internet and its impact on how the ban will work.
+
+Although many countries in the world have imposed sanctions on social media applications, the first country is the first country to ban people under the age of 16.
+
+It is also worth noting that the law has no restrictions on the existing users and the use of parents.
+
+...
+
+[Data](articles/21bd4504.json)
+
+[Extended Data](ext_articles/21bd4504.ext.json)
+
+---
+
+### Mound of earth blocks road in Nawalapitiya
+
+*2024-11-29 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103860/mound-of-earth-blocks-road-in-nawalapitiya) · `en`
+
+Nawalapitiya Police said that traffic movement on the Nawalapitiya - Dolosbage road has been completely halted due to a mound of earth and several trees collapsing on the road.
+
+The incident had occurred at around 2.00 a.m. today (29) in the Weligodawatte area of the road.
+
+In addition, power outages have been reported in many areas of Nawalapitiya due to several trees falling on the power lines along with the earth mound.
+
+◼️
+
+[Data](articles/018fa0f0.json)
+
+[Extended Data](ext_articles/018fa0f0.ext.json)
+
+---
+
+### முதலையால் இழுத்துச் செல்லப்பட்ட நபர்!
+
+*2024-11-29 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199967) · `ta`
+
+பொத்துவில் பொலிஸ் பிரிவுக்குட்பட்ட முதலை பாறை பகுதியில் நபர் ஒருவரை முதலை இழுத்துச் சென்ற சம்பவமொன்று நேற்று வியாழக்கிழமை (28) இடம்பெற்றுள்ளது.
+
+முதலை பாறை பகுதியில் உள்ள ஆற்றிலிருந்து எருமை மாடுகளை மறுபுறம் விரட்டிச் சென்ற நபரை, முதலை பிடித்து இழுத்துச் சென்றதாக பொத்துவில் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+அந்த நபரை தேடும் நடவடிக்கையில் பொலிஸாரும் கடற்படை முகாம் அதிகாரிகளும் ஈடுபட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/90ba9109.json)
+
+---
+
+### இலங்கை - இந்திய கடற்படைகளால் இரு படகுகளிலிருந்து 500 கிலோ போதைப்பொருள் கைப்பற்றல்
+
+*2024-11-29 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199968) · `ta`
+
+இலங்கை - இந்திய கடற்படைகளின் கூட்டு நடவடிக்கையால் இலங்கைக் கொடியுடன் காணப்பட்ட 2 மீன்பிடிப் படகுகளும் அவற்றிலிருந்து 500 கிலோ போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளதோடு, சில சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+இலங்கை கொடியுடன் காணப்பட்ட படகுகளில் போதைப்பொருள் கடத்தப்படுவதாக இலங்கை கடற்படையானது இந்திய கடற்படைக்கு வழங்கிய தகவலின் அடிப்படையில் இந்திய கடற்படையினரால் இந்த கைது நடவடிக்கை இடம்பெற்றுள்ளது.
+
+இந்திய கடற்படையினரின் வான்வழி கண்காணிப்பு நடவடிக்கையின்  அடிப்படையிலேயே இரண்டு படகுகளும் அடையாளம் காணப்பட்டன.
+
+மேலும், கைப்பற்ற இரண்டு படகுகள் மற்றும் போதைப்பொருளோடு கைதான சந்தேக நபர்கள் மேலதிக சட்ட நடவடிக்கைகளுக்காக இலங்கை அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/3929b5ea.json)
+
+---
+
+### මහ වැස්සේ කුඹුරට ආ වන අලියා මඩේ එරෙයි
+
+*2024-11-29 11:00:58* · [`adalk`](https://www.ada.lk/breaking_news/මහ-වැස්සේ-කුඹුරට-ආ-වන-අලියා-මඩේ-එරෙයි/11-413355) · `si`
+
+මහවැස්සේ කුඹුරට ආව වනඅලියා මඩේ එරෙයි. ගොඩගැනීමටත් අසීරුයි.වවුනියාව කුඩාකච්චකොඩිය ප්‍රදේශයේ පිහිටි කුඹුරක් වෙතට පැමිණි වනඅලියෙකු කුඹුරේ මඩේ එරීමෙන් යාගත නොහැකිව වැටී සිටින බවට ප්‍රදේශවාසීන් විසින් වව්නියාව වනජීවි නිලධාරී කාර්යාලය වෙතට දැනුම් දී ඇත.
+
+අදල වන අලියාගේ පාදවලට හෝ වන අලියාට යම් අසනීප තත්වයක් හේතුවෙන් මෙලෙස වැටී සිටිනු ඇති බවට සැකපල කරන බවටත් පවතින වර්ෂාව සහ මඩ ස්වභාවය හේතුවෙන් වනඅලියා පිළිබඳව නිරීක්ෂණය කිරීමට අපහසු බවටද වව්නියාව වනජීවි නිලධාරී කාර්යාලය පැවසීය.
+
+මෙම වනඅලියා දින දෙකක් පමණ මෙම ස්ථානයේ වැටී සිටින්නට ඇති බවට වනජීවි නිලධාරීන් සැකපල කර සිටියි.
+
+කෙසේ වෙතත් අදාල ස්ථානයට බැකෝ යන්ත්‍රයක් හෝ රැගෙන ගොස් වනඅලියා ඔසවා පරික්ෂා කිරීමට පියවර ගන්නා බවටත් යම් අසනීප තත්වයක් ඇත්නම් ප්‍රතිකාර කිරීමට පියවර ගන්නා බවටද වව්නියාව වනජීවි නිලධාරී කාර්යාලය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/411be8bc.json)
+
+---
 
 ### The yellow worth Rs. 40 lakhs is stuck
 
@@ -154,6 +482,40 @@ The Irrigation Department has extended flood warnings for Mahaweli Ganga, Heda O
 
 ---
 
+### இலங்கை வெளிசக்திகளின் அழுத்தங்களிற்கு அடிபணியக்கூடாது,சுயாதீன   வெளிவிவகார கொள்கையை பின்பற்றவேண்டும் - சீன தூதுவர் வேண்டுகோள்
+
+*2024-11-29 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199970) · `ta`
+
+இலங்கை வெளிசக்திகளின் அழுத்தங்களுக்கு அடிபணியக்கூடாது சுயாதீன  வெளிவிவகார கொள்கையை பின்பற்றவேண்டும் என இலங்கைக்கான சீன தூதுவர் குய் ஜென்ஹாங் வேண்டுகோள் விடுத்துள்ளார்.
+
+குறிப்பாக இலங்கையின் பொருளாதார நிலைமையை சில தரப்பினர் தங்களிற்கு சாதகமாக பயன்படுத்தமுயலும்போது இலங்கை சுயாதீன வெளிவிவகார கொள்கையை பின்பற்றவேண்டும் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கை தற்போதைய பொருளாதார நெருக்கடியிலிருந்து மீள்வதற்கு வெளிநாடுகளின் உலக நாடுகளின் உதவி அவசியம் என சில உலக நாடுகள் இலங்கைக்கு தெரிவித்துள்ளன என குறிப்பிட்டுள்ள அவர் இது தவறான கருத்து, இலங்கை மக்கள் தங்களை குறித்து நம்பிக்கை கொண்டவர்களாகயிருக்கவேண்டும்,சீனா போன்ற சகாக்களுடன் உறவுகளை பேணுவது குறித்து கவனம் செலுத்தவேண்டும் என இலங்கைக்கான சீன தூதுவர் தெரிவித்துள்ளார்.
+
+இலங்கையை பொறுத்தவரை சீனாவிற்கு தனிப்பட்ட நிகழ்ச்சிநிரல் இல்லை,இலங்கை மக்களிற்கான உதவிகளிலும் நிகழ்ச்சிநிரல்,சீனாவின் உதவி இலங்கை சுதந்திரமான நாடாக மாறுவதற்கும் வெளிசக்திகளின் அழுத்தங்களை எதிர்கொள்வதற்கும் உதவும் என நாங்கள் உறுதியாக கருதுகின்றோம் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f23a33d8.json)
+
+---
+
+### ශ්‍රී ලංකා ධජ සහිත මත්ද්‍රව්‍ය පිරවූ යාත්‍රා දෙකක් කොටුවෙයි
+
+*2024-11-29 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203856) · `si`
+
+ශ්‍රී ලංකා ධජ සහිත යාත්‍රා දෙකක තිබී ක්‍රිස්ටල් මෙත් නමැති මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 500ක් සමග පිරිසක් අත්අඩංගුවට ගත් බව ඉන්දීය නාවික හමුදා මාධ්‍ය ප්‍රකාශකවරයා පවසා තිබේ.
+
+ශ්‍රී ලංකා නාවික හමුදාවට ලැබී තිබූ බුද්ධි තොරතුරක් අනුව අරාබි මුහුදේ යාත්‍රා කරමින් තිබූ අදාළ යාත්‍රා දෙක අත්අඩංගුවට ගෙන තිබුණේ ඉන්දීය සහ ශ්‍රී ලංකා නාවික හමුදා ඒකාබද්ධ මෙහෙයුමකදී ය.
+
+පිරිස සමග අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය සහිත බෝට්ටු දෙක ඉදිරි නීතිමය කටයුතු සඳහා ශ්‍රී ලංකා බලධාරීන් වෙත භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/b7131285.json)
+
+---
+
 ### Nintavur Arabic Madrasa's Chancellor, Teacher
 
 *2024-11-29 10:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிந்தவூர்-அரபு-மத்ரஸாவின்-அதிபர்-ஆசிரியருக்கு-விளக்கமறியல்/175-347969) · `ta`
@@ -186,6 +548,22 @@ It has also been revealed that the soldiers have been advised not to carry child
 
 ---
 
+### නාවලපිටියේ පස් කන්දක් කඩාවැටේ
+
+*2024-11-29 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203855) · `si`
+
+නාවලපිටිය - දොළොස්බාගේ මාර්ගයට විශාල පස් කන්දක් සමග ගස් කඩාවැටීමෙන් එම මාර්ගයේ රථ වාහන ගමනාගමනය මේ වනවිට සම්පූර්ණයෙන්ම නවතා දමා ඇති බව නාවලපිටිය පොලීසිය පැවසීය.
+
+මෙම මාර්ගයේ වැලිගොඩවත්ත ප්‍රදේශයට පස් කන්ද කඩාවැටී ඇත්තේ අද (29) අලුයම 2ට පමණය.
+
+එමෙන්ම පස් කන්ද සමග ගස් විදුලි රැහැන් මතට කඩාවැටීම හේතුවෙන් නාවලපිටියේ ප්‍රදේශ රැසකට විදුලියද මේ වනවිට ඇණහිට ඇත.
+
+◼️
+
+[Data](articles/63596bf2.json)
+
+---
+
 ### Sri Lanka rupee opens stronger at 290.55/65 to dollar, bond yields up
 
 *2024-11-29 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-55-65-to-dollar-bond-yields-up-145501/) · `en`
@@ -206,6 +584,8 @@ In equities, the All Share Price Index was up 0.26 percent or 33.78 points, at 1
 
 [Data](articles/00212a7b.json)
 
+[Extended Data](ext_articles/00212a7b.ext.json)
+
 ---
 
 ### Indian and Sri Lankan Navy seize 500 kg of crystal meth from fishing boats
@@ -222,11 +602,35 @@ These efforts led to the identification of two fishing boats suspected of being 
 
 Both vessels set for sail on November 24 and 25. The seized narcotics were handed over to the Sri Lankan authorities, along with the crew members, for further legal action.
 
-...
+◼️
 
 [Data](articles/06d12378.json)
 
 [Extended Data](ext_articles/06d12378.ext.json)
+
+---
+
+### ශූරයන්ගේ කුසලානය ගැන ICC අවසන් තීරණය අද ?
+
+*2024-11-29 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203854) · `si`
+
+ශූරයන්ගේ කුසලාන ක්‍රිකට් තරගාවලිය සැලසුම්කළ ලෙස පාකිස්තානයේදීම පවත්වනවාද, නැතහොත් විකල්ප ස්ථානයක් ඒ සඳහා යොදාගන්නවාද යන්න පිළිබඳ අවසන් තීරණයක් ගැනීම සඳහා ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය අද  (29) රැස්වීමට නියමිතව ඇත.
+
+ඉන්දීය ක්‍රිකට් කණ්ඩායම පාකිස්තානට ගොස් ක්‍රීඩාකිරීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් මෙම තරගාවලිය පැවැත්වීම සම්බන්ධයෙන් මේ වනවිට මතභේදයට තුඩු දී තිබේ.
+
+ඒ හේතුවෙන් මේ සම්බන්ධයෙන් පසුගිය කාලය පුරා ලද විවිධ යෝජනා සැලකිල්ලට ගෙන අයි. සී. සී.ය තීරණ තුනක් කෙරෙහි මේ වනවිට විශේෂ අවදානයක් යොමුකර තිබේ.
+
+ඉන් එක් යෝජනාවක් වන්නේ තරගාවලියේ වැඩි තරග සංඛ්‍යාවක් පාකිස්තානයේදී පවත්වා, ඉන්දියාව ක්‍රීඩාකරන තරග පමණක් පාකිස්තානයෙන් පිටතදී පැවැත්වීමයි.
+
+තවත් යෝජනාවක් වී ඇත්තේ සමස්ත තරගාවලියම පාකිස්තානයේ සත්කාරක අයිතිය යටතේ වෙනත් රටක පැවැත්වීමයි.
+
+එමෙන්ම අවසන් යෝජනාව වී ඇත්තේ ඉන්දියාව තරගාවලිය ක්‍රීඩාකිරීම සඳහා පාකිස්තානයට නොපැමිණෙන්නේ නම්, ඔවුන් නොමැතිව සමස්ත තරගාවලියම පාකිස්තානයේ දී පැවැත්වීමයි.
+
+කෙසේ නමුත් මෙම යෝජනා අතරින් අවසන් යෝජනාව බොහෝ දුරට ක්‍රියාත්මක නොවනු ඇති බව දැනටමත් ක්‍රීඩා විචාකරයන් මත පළකර තිබේ.
+
+...
+
+[Data](articles/26192aff.json)
 
 ---
 
@@ -276,6 +680,30 @@ The government has to carry a huge cost of maintaining these luxury vehicles and
 
 ---
 
+### රාජාංගනයේ වාන් දොරටු 10ක් විවෘත කරයි - අනෙකුත් ජලාශවල තත්ත්වය මෙන්න
+
+*2024-11-29 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203853) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් රාජාංගනය ජලාශයේ වාන් දොරටු 10ක් විවෘත කර තිබේ.
+
+අප වාර්තාකරු පවසන්නේ අධික වැසි තත්ත්වය නිසා අනුරාධපුර දිස්ත්‍රික්කයට දැඩි බලපෑමක් ඇතිවී තිබෙන බවය.
+
+රාජාංගනය ජලාශයේ වාන් දොරටු 10 විවෘත කිරීමට තුළින් තප්පරයට ගණ අඩි 11,800ක ජල ධාරිතාවක් කලා ඔයට මුදාහැරෙන බවද වාර්තා වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලට තවදුරටත් කඩින්කඩ අධික වැසි ඇදහැලීම හේතුවෙන් නෝටන්බ්‍රිජ් විමලසුරෙන්ද්‍ර ජලාශය තවදුරටත් වාන් දමමින් පවතී.
+
+කාසල්රී සහ මවුස්සාකැලේ ජලාශයේ ජල පෝෂක ප්‍රදේශයට ඇදහැලෙන වර්ෂාව හේතුවෙන් එම ජලාශය ද පිටාර මට්ටමට ඉතා ආසන්න වෙමින් පවතින බව ජලාශ භාර ඉංජිනේරු නිලධාරීන් පැවසීය.
+
+එම ජලාශ දෙකේම ජල මට්ටම ඉහළ යාමත් සමග විමලසුරෙන්ද්‍ර, කැනියොන්, ලක්ෂපාන, නව ලක්ෂපාන සහ පොල්පිටිය ජලවිදුලි බලාගාරවල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බව ජලවිදුලි බලාගාර භාර ඉංජිනේරුවන් සඳහන් කරයි.
+
+නාච්චාදුව ජලාශයේ සියලුම වාන් දොරටු විවෘත කිරීම නිසා මල්වතු ඔය දෙපස පහත්බිම්වල ජනතාව දැඩි අවධානයෙන් සිටින්නයි වාරි ඉංජිනේරු නිලධාරිනිය දැනුම්දී තිබේ.
+
+...
+
+[Data](articles/367a88f1.json)
+
+---
+
 ### The A / L revision of the aim is issued
 
 *2024-11-29 09:23:45* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-සංශෝධිත-කාල-සටහන-නිකුත්-කරයි/11-413353) · `si`
@@ -319,6 +747,24 @@ Kyiv is heavily protected by air defences, but Putin says the Oreshnik, which Ru
 [Data](articles/b21b7b51.json)
 
 [Extended Data](ext_articles/b21b7b51.ext.json)
+
+---
+
+### කිඹුලෙකු විසින් මිනිසෙකු ඩැහැගෙන යයි
+
+*2024-11-29 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203852) · `si`
+
+කිඹුලෙකු විසින් පුද්ගලයෙකුව ඩැහැගෙන යෑමේ සිද්ධියක් පොතුවිල් පොලිස් වසමේ ක්‍රොකඩයිල් රොක් ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+ඊයේ (28) සවස් කාලයේදී ක්‍රොකඩයිල් රොක් ප්‍රදේශයේ දූව ගංගාවෙන් මී හරකුන් එගොඩ කරමින් සිටි පුද්ගලයෙකුව කිඹුලෙකු විසින් ඩැහැගෙන ගොස් ඇති බවට පොතුවිල් පොලිස් ස්ථානයට පැමිණිල්ලක් ලැබී ඇත.
+
+සිද්ධියට මුහුණපා ඇත්තේ වයස අවුරුදු 41ක් වූ පසරච්චේන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අතුරුදහන් පුද්ගලයා සොයා පොලීසිය හා පානම නාවික හමුදා කඳවුරේ නිලධාරීන් එක්වී මෙහෙයුම් සිදුකරයි.
+
+◼️
+
+[Data](articles/f8f20fbf.json)
 
 ---
 
@@ -543,6 +989,8 @@ A third location that could be developed later was Hambantota which was less att
 ...
 
 [Data](articles/4d7d2539.json)
+
+[Extended Data](ext_articles/4d7d2539.ext.json)
 
 ---
 
@@ -2037,499 +2485,5 @@ The first look of the film has been designed and released in the famous 'Salt bu
 [Data](articles/6abbf4ff.json)
 
 [Extended Data](ext_articles/6abbf4ff.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.70/80 to dollar, bonds down
-
-*2024-11-28 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-70-80-to-dollar-bonds-down-146795/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.70/80 to the US dollar on Thursday from 291.00/10 to the US dollar on Wednesday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed down at 9.40/60 percent, down from 9.50/65 percent.
-
-A bond maturing on 15.09.2029 closed at 10.70/85 percent, down from 10.80/90 percent.
-
-◼️
-
-[Data](articles/8a354547.json)
-
-[Extended Data](ext_articles/8a354547.ext.json)
-
----
-
-### 7 Iranians sentenced to life in prison
-
-*2024-11-28 17:24:11* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජාතිකයන්-7කට-ජීවිතාන්තය-දක්වා-සිර-දඬුවම්/11-413344) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-7 Iranians sentenced to life for smuggling 425kg heroin off Sri Lanka's coast in 2019. They admitted guilt in court.
-
-🟩
-
-Seven nurses who were arrested by the Police Narcard of Police Narcard at the Mattakkuliya coast while Sri Lanka was carrying out more than 425 kilograms of heroin.. S. S. He was sentenced to life in prison today.
-
-When the case was taken up for five years before the executive of heroin was taken up, the judge sentenced the accused of defendants.
-
-The Attorneys have been accused of possession and transport of 425 kg of heroin in the unique Mattakkuliya coast of Sri Lanka on July 12, 2019.
-
-The suspects were inspected at the unique Mattakkuliya coast in the unique Mattakkuliya coast with the defendants in the unique Mattakkuliya coast of Sri Lanka.
-
-When the case was called, the seven Iranians were produced before the court when the case was called.The defendants stated in the open court that the allegations would accept their mistakes.
-
-Accordingly, the judge who decided to be guilty of the defendants sentenced them serious work-to-date imprisonment to them.
-
-◼️
-
-[Data](articles/05bf0707.json)
-
-[Extended Data](ext_articles/05bf0707.ext.json)
-
----
-
-### Sri Lanka sells Rs205bn in 2028, 2031, and 2033 bonds
-
-*2024-11-28 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs205bn-in-2028-2031-and-2033-bonds-147099/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 205 billion rupees in 2028, 2031 and 2033 bonds, data from the state debt office showed.
-
-All offered 80 billion rupees of 15 October 2028 bonds were sold at an average yield of 10.62 percent.
-
-All offered 75 billion rupees of 15 March 2031 bonds were sold at an average yield of 11.28 percent.
-
-All offered 50 billion rupees of 01 November 2033 bonds were sold at an average yield of 11.40 percent.
-
-All three bonds were available on tap after the auction. (Colombo/Nov28/2024)
-
-◼️
-
-[Data](articles/b5506163.json)
-
-[Extended Data](ext_articles/b5506163.ext.json)
-
----
-
-### Over 400,000 affected due to adverse weather in Sri Lanka
-
-*2024-11-28 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103847/over-400000-affected-due-to-adverse-weather-in-sri-lanka) · `en`
-
-The Disaster Management Centre (DMC) has reported that as at 4.00 pm today (28), the adverse weather conditions have affected a total of 401,707 individuals across Sri Lanka.
-
-Meanwhile, 12 deaths have been confirmed while 01 person is reported missing.
-
-◼️
-
-[Data](articles/ef35c9c5.json)
-
-[Extended Data](ext_articles/ef35c9c5.ext.json)
-
----
-
-### New Chairman of the Pharmaceutical Corporation, Dr. Manuj Weerasinghe
-
-*2024-11-28 16:57:33* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-නීතිගත-සංස්ථාවේ-නව-සභාපති-විශේෂඥ-වෛද්‍ය-මනුජ-වීරසිංහ/11-413343) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Manuj Weerasinghe appointed Chairman State Pharmaceutical Corporation. Former professor Colombo University, Deputy Chairman Sri Lanka Medical Association. Promises quality healthcare system without shortfall. 35+ years experience in sector.
-
-🟩
-
-Dr. Manuj Weerasinghe, the new Chairman of the State Pharmaceutical Corporation, was commenced today (28) at the State Pharmaceutical Corporation Office at the Narahenpita.
-
-Manuja Weerasinghe is a student of Royal College, Colombo and is a professor of former community medical faculty of the Medical Faculty of Colombo University. He is a former Deputy Chairman of the Sri Lanka Medical Association of Sri Lanka Association.. Manuja Weerasinghe is a functional member of the student movement of the 'Sacred' Student at the University of Colombo for more than three decades.
-
-Speaking to the duties of his position, Dr. Manuj Weerasinghe said that the quality of quality of the quality of Sri Lanka would be given to the health system in Sri Lanka without any shortfall needed. He said that it is a very complex process, but it can be done in support of everyone.
-
-...
-
-[Data](articles/da9d5381.json)
-
-[Extended Data](ext_articles/da9d5381.ext.json)
-
----
-
-### "Sridharan, who called the lamp, sent it back"
-
-*2024-11-28 16:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கேற்ற-அழைத்த-சிறிதரன்-திருப்பி-அனுப்பி-விட்டார்/175-347939) · `ta`
-
-Sridharan MP called mother of heroes, sent back insulted at event
-
-🟩
-
-The mother of the three heroes said in tears that MP Sridharan had sent me back and sent me back.
-
-“MP Sridharan, who telephoned at 6.55 pm last Tuesday (26), are you the mother of three heroes?After listening to the details of my three children, on Wednesday (27)
-
-Kanakapuram Kanakapuram Kilinochchi said that you should come to the public fire at Thuilumillam. I also agreed
-
-I went to Kanakapuram Thuilumillam at exactly 5.05 am on the day of the Heroes. Those who stood there called themselves the arrangement committee and sent me back, saying that we have arranged another person.. This gives me great pain. They have insulted me as the mother of the three heroes.
-
-At the invitation of Sridharan MP, I came to the main road in the midst of the road to my house, which was filled with water, and I went to Kanakapuram Knight Thuilumillam at exactly 5 am in a vehicle.. But there I was insulted.The movement carried out the mother of a hero
-
-◼️
-
-[Data](articles/b6abac1c.json)
-
-[Extended Data](ext_articles/b6abac1c.ext.json)
-
----
-
-### Sri Lanka stocks close up, banking shares attract local interest
-
-*2024-11-28 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-shares-attract-local-interest-147111/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader ASPI closed up 0.88 percent, or 114.50 points, at 13,164; while the more liquid S&P SL20 Index closed up 1.06 percent, or 41.01 points, at 3,917.
-
-“Now that the government has announced a deadline for the ISB exchange, the banking sector is getting more positive traction, mostly from local investors,” Softlogic Stockbrokers said.
-
-Sampath Bank saw buying interest from local investors, they said.
-
-“Foreign investors are selectively taking positions, they are not that active.
-
-“With the IMF third tranche still pending the global audience is waiting to see the participation rate in the bond exchange.
-
-“If a considerable number are exchanged then they will view it as a success. Once we conclude that we can expect higher foreign participation.”
-
-...
-
-[Data](articles/847eae35.json)
-
-[Extended Data](ext_articles/847eae35.ext.json)
-
----
-
-### All should work together to build national unity and reconciliation - Deputy Minister Munir Muppar
-
-*2024-11-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199951) · `ta`
-
-National unity key: Deputy Minister Munir Muppar calls for reconciliation, unity over ethnicity division. Media plays crucial role in fostering harmony among Sri Lankans.
-
-🟩
-
-Deputy Minister of National Integration Mohamed Munir Muppar said that we can move forward as a nation by working together with the aim of being a Sri Lankans, rather than dividing the ethnicity.
-
-Mohamed Munir, who was appointed as the Deputy Minister of National Integration, said this to the media after taking over the duties at the National Integration Ministry office in Rajagiriya on Thursday (28).
-
-I thank the President for the posting of the National Integration Ministry post to successfully carry out the massive work that will bring unity of reconciliation among the ethnic cleansing.
-
-Through the people's mandate available to the ruling government, the feeling that all Sri Lankans are. We can move forward as a nation by working together with the aim of being Sri Lankans, rather than dividing ethnicity.
-
-...
-
-[Data](articles/9a9a99ce.json)
-
-[Extended Data](ext_articles/9a9a99ce.ext.json)
-
----
-
-### The influence of Fengel decreases tomorrow
-
-*2024-11-28 16:44:48* · [`adalk`](https://www.ada.lk/breaking_news/ෆෙන්ගල්ගේ-බලපෑම-හෙටින්-පසුව-අඩුවෙයි/11-413342) · `si`
-
-Fengel's influence wanes tomorrow. Deep Pressure Depression moves NW, intensifying coastal North Western areas. Thunderstorms, heavy rainfall expected in Northern regions and North Central Province.
-
-🟩
-
-The Deep Pressure Depression in the Bay of Bay of Bay Bay Baying
-
-It is slowly traveling to North Western towards North Western, which is more likely to grow in the North Western coast.
-
-Thundershowers and heavy showers will occur at several places in the North and the North, the North Central Province.
-
-◼️
-
-[Data](articles/ff8a21ad.json)
-
-[Extended Data](ext_articles/ff8a21ad.ext.json)
-
----
-
-### Dhanush - Aishwarya officially divorced with two household consent
-
-*2024-11-28 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199947) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Dhanush-Aishwarya divorce finalized after 18-year marriage. Consent from both families. Sons Linga and Yatra to stay with Dhanush. Industry insiders predict amicable co-parenting.
-
-🟩
-
-Actor Rajinikanth's eldest daughter and director Aishwarya and actor Dhanush were married on November 18, 2004 in Chennai with the consent of Dhanush.. They have two sons, Linga and Yatra.
-
-After about 18 years of marriage, the two have been separated for the past few years due to disagreement. Two years ago, the two had officially posted this on Twitter.
-
-It was said that the results were not favorable as the family and allies were sought to make peace with the two.
-
-However, the Dhanush-Aishwarya couple had filed a petition in the Family Welfare Court seeking a legal divorce.
-
-In this case, the fans were recorded that they would join because they did not attend the two casualties.
-
-Dhanush-Aishwarya's divorce case. It is said that Dhanush and Aishwarya have been divorced in the verdict.
-
-The court has legally divorced the two today, as the divorce between the two for six months has been pending in court.
-
-...
-
-[Data](articles/6ce9d081.json)
-
-[Extended Data](ext_articles/6ce9d081.ext.json)
-
----
-
-### President's Counsel Viraj Dayaratne appointed as Solicitor General
-
-*2024-11-28 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203840) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Viraj Dayaratne appointed Solicitor General. Previously Senior Additional Solicitor General. Former SEC Chairman (until Jan 2020)."
-
-🟩
-
-President's Counsel Viraj Dayaratne has been appointed as the Solicitor General.
-
-He served as Senior Additional Solicitor General before.
-
-He served as the Chairman of the Securities and Exchange Commission of Sri Lanka until January 2020.
-
-◼️
-
-[Data](articles/e7e95820.json)
-
-[Extended Data](ext_articles/e7e95820.ext.json)
-
----
-
-### Viraj Dayaratne appointed as Solicitor General
-
-*2024-11-28 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103846/viraj-dayaratne-appointed-as-solicitor-general) · `en`
-
-President’s Counsel and Senior Additional Solicitor General Viraj Dayaratne has been officially appointed as the new Solicitor General.
-
-Dayaratne previously served as the Chairman of the Securities and Exchange Commission of Sri Lanka (SEC) from January 2020 to January 2023.
-
-◼️
-
-[Data](articles/252f3c98.json)
-
-[Extended Data](ext_articles/252f3c98.ext.json)
-
----
-
-### How can the banned LTTE system be observed with definitions - Sri Lanka PA
-
-*2024-11-28 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199946) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka PA member Manoj Kamage discusses LTTE ban, Heroes Day observance, national security concerns, military camp removals, and Tamil separatist policies.
-
-🟩
-
-How can the LTTE be declared a terrorist organization and how to observe Heroes Day with definitions. Manoj Kamage, a member of the Sri Lanka PA, said that such activities would be observed in Sri Lanka in the future.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Thursday (28).
-
-This time has been emotionally observed in the North. The government notes that it has given permission to observe Heroes Day so as not to threaten national security.
-
-But the Northern people have publicly recalled the militants and the leader of the LTTE Prabhakaran.
-
-The LTTE has been banned as a terrorist organization. The organization is banned in 32 countries in the world. How can you accommodate the banned terrorist system with definitions. With such activities, Osama bin Laden will be observed in Sri Lanka in the future.
-
-The North and East have issued orders to the National People's Power. The government should use the decree of the Tamil people better.
-
-...
-
-[Data](articles/d414a4f8.json)
-
-[Extended Data](ext_articles/d414a4f8.ext.json)
-
----
-
-### Drainage is the cause of flood disaster - Ravikaran MP
-
-*2024-11-28 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199944) · `ta`
-
-Flooding caused by poor drainage: MP calls for improved water management and relief efforts.
-
-🟩
-
-Wannimavatta MP Durairasa Ravikaran pointed out that the flooding of floods and floods in the area due to drainage is due to the lack of drainage.
-
-Further, the Member of Parliament said that the relevant departments should be more careful in the drainage issue.
-
-He also said that steps would be taken to provide cooked food and relief to the people affected by the flood disaster.
-
-He was speaking at the Special District Coordinating Committee meeting held at the Vavuniya District Secretariat.
-
-◼️
-
-[Data](articles/ec938853.json)
-
-[Extended Data](ext_articles/ec938853.ext.json)
-
----
-
-### Archana MP, Saran in court
-
-*2024-11-28 16:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனா-எம்-பி-நீதிமன்றில்-சரண்/175-347937) · `ta`
-
-Dr. Ramanathan Archana appeared in court after warrant issued for missing hearing related to road accident. Lawyer cited attendance at parliamentary session. Magistrate recalled arrest warrant due to circumstances.
-
-🟩
-
-The Colombo Magistrate's Court on Thursday (28) was recovered by the newly elected Jaffna district parliamentarian Dr. Ramanathan Archana surrendered to the Archana court.
-
-On November 26, 2021, the court issued a court order to arrest Dr. Ramanathan Archana for failing to appear in connection with the road accident.
-
-The lawyer appearing on behalf of Dr. Archana told the court that his client was attending a parliamentary session.
-
-Considering these facts, Additional Magistrate Keminda Perera decided to recover the grip issued against Dr. Ramanathan Archana.
-
-◼️
-
-[Data](articles/a7dad225.json)
-
-[Extended Data](ext_articles/a7dad225.ext.json)
-
----
-
-### ‘Petti Malli’ arrested with heroin in Payagala
-
-*2024-11-28 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103845/petti-malli-arrested-with-heroin-in-payagala) · `en`
-
-Payagala Police have arrested Dissanayakage Chaminda, also known as ‘Petti Malli’, a resident of the Koshena area who was allegedly involved in trafficking heroin to Payagala and several other areas.
-
-The suspect was arrested while in possession of heroin worth nearly Rs. 300,000 and was taken into police custody.
-
-During a search operation of the suspect’s house and surrounding areas in the Koshena area in Payagala, the police arrested the suspect while he was engaged in a heroin deal in a wooded area behind his residence.
-
-The relevant suspect was recently remanded for heroin trafficking and had been released only two weeks ago.
-
-During the interrogation of the suspect, it has been revealed that the heroin racket was carried out through a large-scale powerful drug dealer who is currently hiding overseas and who he had got to know during his time in prison.
-
-Police revealed that several members of the suspect’s family who supported him with the drug racket have also been remanded.
-
-...
-
-[Data](articles/5943f691.json)
-
-[Extended Data](ext_articles/5943f691.ext.json)
-
----
-
-### Thirteen people killed in unjust weather in the country
-
-*2024-11-28 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199943) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"13 killed, 3.077m affected, 17 injured, 1 missing in severe weather. 32,695 displaced in 10,431 families. 311 relief centers established nationwide."
-
-🟩
-
-The Disaster Management Center said that 13 districts have been affected by the inclement weather in the country and 13 people have been killed in disasters.
-
-The Disaster Management Center further said that 3 million 77 thousand 511 people from one million 13 thousand 52 families have been affected by disasters such as rain and floods.
-
-17 people were injured in the disaster caused by inclement weather and one disappeared.
-
-32 thousand 695 people from 10 thousand 431 families have been housed in the camps, with 311 intermediaries set up across the country.
-
-◼️
-
-[Data](articles/80a2b4e4.json)
-
-[Extended Data](ext_articles/80a2b4e4.ext.json)
-
----
-
-### Another suspect jeep arrested in Menikhinna
-
-*2024-11-28 16:09:05* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-සැක-ජීප්-රියක්-මැණික්හින්නෙන්-අල්ලයි/11-413341) · `si`
-
-Jeep arrest in Menikhinna: Officials from Kandy Defense Department detained by CID. Vehicle seized at 11:30 PM, to be presented in Teldeniya Magistrate Court.
-
-🟩
-
-A group of officials at the Kandy Branch Officers of the Department of Defense has been arrested by the CID.
-
-According to information received by the Criminal Investigation Department at the DIG's office, the garage was taken into custody at around 11.30 pm yesterday (27).
-
-The arrested jeep was handed over to the Teldeniya Headquarters Police and the vehicle was to be taken to the Teldeniya Magistrate's Court today (28).
-
-The reporting of the Analyst's Report, Customs Reports and Cars The Department of Departments will be called for the Defender vehicle.
-
-◼️
-
-[Data](articles/c7eb9ebf.json)
-
-[Extended Data](ext_articles/c7eb9ebf.ext.json)
-
----
-
-### Manusha is demanding compensation of Rs 1 billion
-
-*2024-11-28 16:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-பில்லியன்-இழப்பீடு-கோருகிறார்-மனுஷ/175-347936) · `ta`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Former Min. Manusha Nanayakkara demands Rs 1 billion compensation from SLBFE chief over Korean E8 visa system allegations. Accuses of damaging reputation, calls for investigation.
-
-🟩
-
-Former Minister Manusha Nanayakkara has issued a letter of LD on charges of the Korean E8 visa system to Kosala Wickremasinghe, Chairman of the Sri Lanka Foreign Employment Bureau (SLBFE).
-
-In an interview with a media, former Foreign Employment Minister Manusha Nanayakkara pointed out in his letter that Kosala Wickremasinghe had informed the former minister's financial fraud.
-
-Former minister Manusha Nanayakkara accuses SLBFE leader of damaging his reputation. 01 billion compensation.
-
-Former Minister Nanayakkara has also called for External Affairs Minister Vijitha Herath to investigate false allegations against Korean E8 visa system.
-
-In a letter to the Foreign Minister, Manusha Nanayakkara said that the allegations that he had received financial benefits under the visa system had caused severe damage to his political and personal reputation.
-
-...
-
-[Data](articles/ef4f0be2.json)
-
-[Extended Data](ext_articles/ef4f0be2.ext.json)
-
----
-
-### Sabina is headed with the rain
-
-*2024-11-28 15:58:11* · [`adalk`](https://www.ada.lk/breaking_news/වැස්සත්-සමඟ-සේනා-හිස-ඔසවයි/11-413340) · `si`
-
-Sabina faces challenges as North Central Provincial Director of Agriculture warns Rajarata province about crop damage due to caterpillar infestation. Minister advises farmers to seek guidance from local agricultural experts.
-
-🟩
-
-North Central Provincial Director of Agriculture Dr. Buddhika Abeysinghe says that the Rajarata province is at the risk of the Rajarata province these days.
-
-Minister of farmers and crops have been reportedly affected by the caterpillary heave, and the Director of Agriculture Dr. Buddhika Abeysinghe said that the Craphoman Abeysinghe was informed of the agricultural advisor of the area before the spread of the area.It is to get advice to take.
-
-◼️
-
-[Data](articles/465d5470.json)
-
-[Extended Data](ext_articles/465d5470.ext.json)
 
 ---

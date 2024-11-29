@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 10:27:46**
+As of **2024-11-29 10:42:15**
 
 ## Newspaper Stats
 
-*Scraped **57,524** Articles*
+*Scraped **57,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,499
 dailyftlk | 3,970
 dailymirrorlk | 4,733
 adalk | 5,437
-adaderanalk | 6,966
-tamilmirrorlk | 8,180
+adaderanalk | 6,967
+tamilmirrorlk | 8,181
 virakesarilk | 9,377
 adaderanasinhalalk | 9,926
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,524 (100.0%) of 57,524 articles have been extended.
+57,524 (100.0%) of 57,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
+
+### நிந்தவூர் அரபு மத்ரஸாவின் அதிபர், ஆசிரியருக்கு விளக்கமறியல்
+
+*2024-11-29 10:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிந்தவூர்-அரபு-மத்ரஸாவின்-அதிபர்-ஆசிரியருக்கு-விளக்கமறியல்/175-347969) · `ta`
+
+கைது செய்யப்பட்ட நிந்தவூர் அரபு மத்ரஸாவின் அதிபர் மற்றும் ஆசிரியர் ஆகியோரை  டிசம்பர்  2ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் ஏனைய 2 பேரை 1 இலட்சம் ரூபாய் பிணையில் செல்லுமாறு சம்மாந்துறை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+அம்பாறை காரைதீவு மாவடிப்பள்ளி பாலத்திற்கு அருகில் உழவு இயந்திரம் வெள்ளத்தில் சிக்கிய சம்பவம் தொடர்பில் அக்கரைப்பற்று பொறுப்பதிகாரி தலைமையில்  விசாரணைகளை மேற்கொண்டு வரும் நிலையில் நிந்தவூர் மதரசா அதிபர்  ஆசிரியர் மற்றும் உதவியாளர்கள் இருவரும் வியாழக்கிழமை (28)  கைது செய்யப்பட்டனர்.
+
+சந்தேகநபர்களை   சம்மாந்துறை பொலிஸ் நிலையத்திற்கு அழைத்துச் சென்று வாக்குமூலம் பெற்ற பின்னர்  சம்மாந்துறை  சம்மாந்துறை  நீதிமன்ற பதில் எம்.ரி சபீர் அகமட்  முன்னிலையில் ஆஜர்படுத்தப்பட்டனர்.
+
+இதன் போது மத்ரஸாவின் அதிபர் மற்றும் ஆசிரியர் ஆகியோருக்கு எதிர்வரும் டிசம்பர் 2 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் ஏனைய 2 உதவியாளர்களும் தலா 1 இலட்சம் ரூபாய்   சரீரப் பிணையில் விடுதலை செய்யப்பட்டனர்.
+
+...
+
+[Data](articles/90eb0c13.json)
+
+---
+
+### Man snatched by crocodile in Pottuvil
+
+*2024-11-29 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103856/man-snatched-by-crocodile-in-pottuvil) · `en`
+
+A man has reportedly been snatched by a crocodile in the Crocodile Rock area of Pottuvil police division.
+
+A complaint was lodged at the Pottuvil Police Station last evening (28), reporting that a crocodile had snatched an individual herding buffaloes across the Duuwa River near the Crocodile Rock area.
+
+A 41-year-old resident of the Pasarachchena area was involved in the incident.
+
+The police and the Panama Navy Camp officials are conducting joint operations to find the missing person.
+
+◼️
+
+[Data](articles/e5e1fa77.json)
+
+---
 
 ### Government resolution rather than auctioning high luxury vehicles
 
@@ -2487,59 +2523,5 @@ He noted the potential for Tamil Nadu to evolve into a leading travel destinatio
 [Data](articles/807c9c3d.json)
 
 [Extended Data](ext_articles/807c9c3d.ext.json)
-
----
-
-### Diversary of the disgrace to be filled
-
-*2024-11-28 15:32:08* · [`adalk`](https://www.ada.lk/breaking_news/දීඝ-දන්තු-1-විදුලි-සැර-වැදී-මරුට/11-413337) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police recover Daswives from Caley Sanctuary. Investigation ongoing after unauthorized telegram. Environmentalists concerned about habitat loss in Kala Vanka Reserve. Two elephants believed killed by human assault.
-
-🟩
-
-Ganskiyagama Police said that the Daswives of the Caley Sanctuary of Kahalla Pallekale Sanctuary and the Sarred Tank Reserve have been recovered today (28).
-
-The police said that the police were killed in a house near a house near a house in the Huldiyagama Police Division.
-
-Investigations are underway to arrest the person who moked this unauthorized telegram.
-
-Sarrie Dasanu, a long period of time in the Kahalla Cale Sanctuary, there is a festival of Sarriety Dani and Cat Tank Reserve.
-
-Environmentalists pointed out that there is a soley general area of ​​the Kala Vanka Reserve. Revatha, Authority (S) of 1, Sarahurai 2 and the surroundings of the art reserve and the surrounding area have lived in the homeland. The respective hoans 2 elephant is believed to be killed by another man's assault.
-
-...
-
-[Data](articles/5c259815.json)
-
-[Extended Data](ext_articles/5c259815.ext.json)
-
----
-
-### DMT Action Notice: Drivers Attention
-
-*2024-11-28 15:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/DMT-அதிரடி-அறிவிப்பு-சாரதிகளே-கவனம்/175-347931) · `ta`
-
-DMT warns: Temporary vehicle numbers expire Dec 15. Obtain permanent plates before deadline. Driving with temporary number after date illegal. Traffic police will enforce.
-
-🟩
-
-The Department of Motor Transport Nishantha Anurutha Weerasinghe has announced that the validity of the temporary vehicle base provided by the Department of Motor Transport (DMT) will end on December 15.
-
-He said that temporary vehicle digits were provided due to challenges facing the department in providing permanent digits.
-
-Therefore, the Commissioner General has asked the public to obtain their original digit plates before the deadline.
-
-Driving vehicles with a temporary vehicle number after December 15 will be considered illegal. Traffic police have been advised to take necessary legal action against the violators.
-
-◼️
-
-[Data](articles/6f3972dd.json)
-
-[Extended Data](ext_articles/6f3972dd.ext.json)
 
 ---

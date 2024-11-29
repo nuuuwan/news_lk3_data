@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-29 08:54:07**
+As of **2024-11-29 08:08:07**
 
 ## Newspaper Stats
 
-*Scraped **57,520** Articles*
+*Scraped **57,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,131 +16,21 @@ islandlk | 3,452
 economynextcom | 3,499
 dailyftlk | 3,970
 dailymirrorlk | 4,733
-adalk | 5,436
+adalk | 5,435
 adaderanalk | 6,964
-tamilmirrorlk | 8,179
+tamilmirrorlk | 8,177
 virakesarilk | 9,377
-adaderanasinhalalk | 9,926
+adaderanasinhalalk | 9,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,511 (100.0%) of 57,520 articles have been extended.
+57,508 (100.0%) of 57,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-29 (Friday)
-
-### Life lost from disasters across the country
-
-*2024-11-29 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203851) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Disasters: 1707 affected, 12 dead, 102 homes destroyed. Relief efforts underway. Weather improving soon."
-
-🟩
-
-The Disaster Management Center (DMC) says that about 1,707 persons belonging to 120,707 families have been affected due to inclement weather.
-
-At present, 12 persons were killed and another suffered missing and 18 others suffered injuries.
-
-102 houses were damaged and 1,952 were partially damaged.
-
-The Disaster Management Center (DMC) stated that 94,134 persons belonging to 28,324 families have been staying in a relative and 345 families of 345 safety places.
-
-The highest influence has been affected by the prevailing rain weather and 149,491 persons belonging to 43,631 families have been affected.
-
-The Department of Irrigation said that the warning of the floods issued for Mahaweli, Deduru Oya and Mundayaniro.
-
-Accordingly, the people in the rivers should be careful about this situation and the irrigation unit of the Irrigation Department of Irrigation and the Irrigation Department of Irrigation (MS) Ms. Sakurama Dilthara.
-
-...
-
-[Data](articles/344bf58f.json)
-
-[Extended Data](ext_articles/344bf58f.ext.json)
-
----
-
-### Release lands in the north of the model
-
-*2024-11-29 08:01:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-காணிகளை-விடுவிப்போம்/175-347967) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Security forces' lands in northern Sri Lanka to be released under National People's Power government. Defense Ministry officials assure minimal impact on civilians as part of flood relief efforts.
-
-🟩
-
-Defense Ministry Secretary Air Vice Marshall Sambhan assured that the lands of the security forces in the North will be released during this regime of the National People's Power.
-
-According to the Secretary of the Defense Ministry of Defense yesterday, the Jaffna Defense Ministry asked the security forces about the lands in the north to visit the President's work on the flood disaster.. In response to this, he said this. As he further stated,
-
-We are thinking about land release. We have evaluated in that regard. We have made some decisions on the basis of security and other reasons. Of course, we will act so that the people will not be affected.
-
-We have already released some streets. We will also release the land. We are always concerned about the welfare of the people of this country. (A)
-
-◼️
-
-[Data](articles/166a8486.json)
-
-[Extended Data](ext_articles/166a8486.ext.json)
-
----
-
-### Tractor accident - Principal and teacher remanded
-
-*2024-11-29 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203850) · `si`
-
-A tractor accident in Ampara resulted in student deaths. The school principal and teacher were arrested and remanded. Two suspects were also detained. The incident occurred during transportation, sparking investigations and legal action.
-
-🟩
-
-The Principal of Maduweur School and a teacher were remanded in connection with the death of a tractor in Kabatuv area in Ampara.
-
-The Principal of the Madrasa School, its teacher and two suspects were arrested by the police yesterday (28).
-
-Accordingly, they were produced before the Samanthurai Acting Magistrate yesterday afternoon and has been remanded to be remanded until the 2nd.
-
-The two assistants of tractor have been released on bail.
-
-There were six students who were traveling to the tractor and six students who were traveling in the 26th afternoon and eight people including the tractor driver and eight people were disappeared.
-
-The bodies of the tractor, the driver and another of the deceased students had been recovered and the bodies of the tractor.
-
-It was reported yesterday that the Principal had been instructed to carry the children from the tractor, despite the army's consultation with the army, despite the army's consultation, to carry out the bus to the homes.
-
-...
-
-[Data](articles/49ef5d34.json)
-
-[Extended Data](ext_articles/49ef5d34.ext.json)
-
----
-
-### இன்று முதல் காலநிலையில் மாற்றம்
-
-*2024-11-29 07:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-காலநிலையில்-மாற்றம்/175-347966) · `ta`
-
-தென்கிழக்கு வங்காள விரிகுடா பகுதியில் ஏற்பட்ட ஆழ்ந்த தாழமுக்கம் காரணமாக, நிலவும் சீரற்ற காலநிலை இன்று (29) முதல் படிப்படியாகக் குறைவடையும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-திருகோணமலைக்கு வடகிழக்கே சுமார் 110 கிலோமீற்றர் தொலைவில் நிலைகொண்டிருந்த ஆழ்ந்த தாழமுக்கம் நாட்டின் கிழக்கு கடற்கரையை அண்மித்து வடமேற்கு நோக்கி நகர்ந்து செல்வதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-அதன்படி, மறு அறிவித்தல் நாட்டை சூழவுள்ள ஆழமான மற்றும் ஆழமற்ற கடற்பகுதிகளுக்குச் செல்ல வேண்டாம் என வளிமண்டலவியல் திணைக்களம் கடல்சார் மற்றும் மீனவ சமூகத்தை அறிவுறுத்தியுள்ளது.
-
-இதேவேளை, வடக்கு மாகாணத்தின் சில பகுதிகளில் 100 மில்லிமீற்றருக்கும் அதிகளவிலான பலத்த மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/a57a6404.json)
-
----
 
 ### ගැඹුරු පීඩන අවපාතයේ බලපෑම ක්‍රමයෙන් අඩුවෙයි
 
@@ -2284,24 +2174,6 @@ Lahiru Kumara and Asapitha Fernando took 2 wickets each and Prabath Jayasuriya t
 
 ---
 
-### බද්දට දුන් කල්පිටියේ  දූපත් 10 කින් රුපියල් කෝටි නවයක බදු පොල්ලක්
-
-*2024-11-28 15:39:07* · [`adalk`](https://www.ada.lk/breaking_news/බද්දට-දුන්-කල්පිටියේ--දූපත්-10-කින්-රුපියල්-කෝටි-නවයක-බදු-පොල්ලක්/11-413338) · `si`
-
-සංචාරක කටයුතු සඳහා කල්පිටියේ දූපත් දහයක් බදුගත් ආයෝජක සමාගම් හතකින් වසර ගණනාවකට අදාළ රුපියල් 92,959,827 ක  බදු මුදලක්  අයකර කර ගැනීමට ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය අපොහොසත්වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
-
-සංචාරක කර්මාන්ත  කටයුතු සඳහා නිදහස් ප්‍රදානයන්  ලෙස සංචාරක සංවර්ධන අධිකාරියට ලැබුණු කල්පිටියේ දූපත් 12 ක් අතරින් දූපත් දහයකට අයත් ඉඩම්   අක්කර 669 ක් 2010,2011,2020 සහ 2022 වර්ෂවල අධිකාරිය මගින්  සමාගම් හතකට බදුදී ඇති බව විගණන කාර්යාලය නිකුත් කළ විගණන වාර්තාවක සඳහන් වේ.
-
-එම සියලුම  බදුකරුවන්  විසින්  මෙතෙක්  මෙහෙයුම් කටයුතු ආරම්භ කර නැති බවත් බදුගැනීම වෙනුවෙන් සංචාරක අධිකාරියට  2018 සිට  ගෙවිය යුතු බදු මුදල් මෙලෙස ගෙවා නැති බවත් විගණනයෙන් පෙන්වා දෙයි.
-
-දූපත් ප්‍රමාණය ප්‍රමාණවත් නොවීම, ධීවර ප්‍රජාවගේ ගැටළු,යටිතල පහසුකම් සීමා කිරීම සහ අනුමැතිය ප්‍රමාදවීම ආදිය හේතුවෙන් ආරම්භ කරන ලද  ව්‍යාපෘතිවල  ප්‍රගතිය බලාපොරොත්තු වූවාට වඩා මන්දගාමි වී  ඇතැයි මේ සම්බන්ධයෙන් සංචාරක සංවර්ධන අධිකාරිය විගණන කාර්යාලය වෙත දුන් පිළිතුරේ සඳහන්වේ.
-
-◼️
-
-[Data](articles/8bc2ba31.json)
-
----
-
 ### SriLankan Airlines wins Tamil Nadu tourism’s top honor
 
 *2024-11-28 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103844/srilankan-airlines-wins-tamil-nadu-tourisms-top-honor) · `en`
@@ -2489,5 +2361,133 @@ Specialist Eye Surgeon Lalitha Senarath says that his surgery was very successfu
 [Data](articles/5a99f173.json)
 
 [Extended Data](ext_articles/5a99f173.ext.json)
+
+---
+
+### Warrant against MP Archchuna recalled after appearing at court
+
+*2024-11-28 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103842/warrant-against-mp-archchuna-recalled-after-appearing-at-court) · `en`
+
+The Colombo Magistrate’s Court today ordered to recall the arrest warrant issued against Jaffna District Independent Member of Parliament Archchuna Ramanathan after he failed to appear before the court in relation with an incident of assaulting an individual after causing a traffic accident.
+
+The order was issued after the parliamentarian appeared before the court through an attorney.
+
+On November 26, Colombo Additional Magistrate Manjula Ratnayake ordered the issuance of an arrest warrant against MP Ramanathan, through the Senior Superintendent of Police (SSP) in Jaffna.
+
+This order was issued during the hearing of an ongoing case related to an alleged incident of assaulting an individual after causing a traffic accident on the Baseline Road, Colombo in 2021.
+
+◼️
+
+[Data](articles/71289402.json)
+
+[Extended Data](ext_articles/71289402.ext.json)
+
+---
+
+### The body of a young man who fell into a pond in Vavuniya recovered
+
+*2024-11-28 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199934) · `ta`
+
+Body of 21-year-old Siranthasan Gunawardena recovered from Vavuniya-Mahakachakodi pond after 3-day search.
+
+🟩
+
+The body of a young man who fell into the Vavuniya-Mahakachakodi pond on the 26th of this month has been recovered this morning.
+
+The body of 21 -year -old Siranthasan Gunawardena, a young man from Mahakachakodi, has been recovered.
+
+On the 26th, a young man fell into the pool when he went to the Mahakachakodi pond with his friend on the 26th.
+
+Subsequently, the people of the town searched the young man and informed the Mamadu police.However, the young man has not been found for three days.
+
+The body of the young man has been recovered from the pond this morning.
+
+◼️
+
+[Data](articles/bcc68682.json)
+
+[Extended Data](ext_articles/bcc68682.ext.json)
+
+---
+
+### Using temporary number plates. 15 Gentine finished
+
+*2024-11-28 15:08:59* · [`adalk`](https://www.ada.lk/breaking_news/තාවකාලික-අංක-තහඩු-භාවිත-කිරීම-දෙසැ--15දායින්-අවසන්/11-413335) · `si`
+
+Temporary number plates: Obtain by Dec 15th. Afterward, use illegal; police action. Permit ends Dec 15th.
+
+🟩
+
+Motor Traffic Commissioner General Nishantha Anuruddha said that the issuance of the issuance of vehicle number plates in the Department of Motor Traffic has commenced.
+
+Accordingly, if the number of persons will be paid to the Department of Motor Traffic to obtain a vehicle plate, the Commissioner General says that the number plate will be obtained before December 15.
+
+After December 15, the vehicle vehicles cannot be operated in the road using temporary number plates and the police department will take legal action to drive using temporary number plates.
+
+The Commissioner General further stated that the permit given to running with temporary number plates will be completed by December 15, the Commissioner General added.
+
+◼️
+
+[Data](articles/d98e2291.json)
+
+[Extended Data](ext_articles/d98e2291.ext.json)
+
+---
+
+### Patrical surrenders to court
+
+*2024-11-28 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203837) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Patrical surrenders to court; warrant issued over 2021 incident; lawyer requests case rescheduling; magistrate orders new hearing on March 4; warrant recalled; opposition leader involved.
+
+🟩
+
+The Colombo Magistrate Court today (28) was appointed as the warrant issued by the warrant issued by the court in the courts regarding the incident.
+
+The order was issued after he was produced before the Colombo Magistrate's Court through a lawyer.
+
+The lawyer appearing on behalf of the suspect, the case was called on the 26th of the last couple of MPs.
+
+The lawyer also produced a letter confirming this to court.
+
+The lawyer said that the lawyer appearing on behalf of the case had a problem in his client regarding the date of the case.
+
+The lawyer also requested the court to call back the warrant issued for his employee.
+
+The Magistrate accepted the request for the suspect, and ordered to be called again on March 4.
+
+Colombo Additional Magistrate Manjula Ratnayake has ordered the warrants through the Jaffna Senior Superintendent of Ramanathan Eraichata.
+
+The order had been issued when a case was taken into custody at the Baseline Road in 2021 and was taken into custody.
+
+...
+
+[Data](articles/8ec72687.json)
+
+[Extended Data](ext_articles/8ec72687.ext.json)
+
+---
+
+### Sri Lanka among 20 nations chosen to host World Bank’s integrated South Asia office
+
+*2024-11-28 14:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-among-20-nations-chosen-to-host-world-banks-integrated-south-asia-office-190682/) · `en`
+
+ECONOMYNEXT – Sri Lanka has been chosen among 20 countries worldwide to host the World Bank’s integrated South Asia office, set to open on July 25, 2025, World Bank Group President Ajay Banga has said.
+
+President Anura Kumara Dissanayake was informed of the move when Banga had a virtual meeting with him on Wednesday (27).
+
+The initiative is part of Banga’s plan to establish 20 integrated country offices to improve coordination among the four key World Bank Group institutions.
+
+The key institutions are the International Bank for Reconstruction and Development (IBRD), the International Development Association (IDA), the International Finance Corporation (IFC), and the Multilateral Investment Guarantee Agency (MIGA), President’s Media Division (PMD) said in a statement. (Colombo/November 28/2024)
+
+◼️
+
+[Data](articles/ec9d99ea.json)
+
+[Extended Data](ext_articles/ec9d99ea.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 10:14:57**
+As of **2024-11-30 10:01:27**
 
 ## Newspaper Stats
 
-*Scraped **57,700** Articles*
+*Scraped **57,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,988
-tamilmirrorlk | 8,203
+tamilmirrorlk | 8,202
 virakesarilk | 9,424
 adaderanasinhalalk | 9,958
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,692 (100.0%) of 57,700 articles have been extended.
+57,692 (100.0%) of 57,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
-
-### வரி செலுத்துனர்களுக்கு விசேட அறிவித்தல்
-
-*2024-11-30 09:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்துனர்களுக்கு-விசேட-அறிவித்தல்/175-348006) · `ta`
-
-2023/2024 மதிப்பீட்டு ஆண்டிற்கான வருமான வரி அறிக்கைகளை சமர்ப்பிப்பதற்கான இறுதி நாள் இன்றுடன் (30) நிறைவடைவதாக உள்நாட்டு இறைவரித் திணைக்களம் அறிவித்துள்ளது.
-
-அறிக்கைகள் இணையவழி ஊடாக மட்டுமே பெறப்படும் என்றும், அதற்கான தொழில்நுட்ப ஆதரவை வழங்குவதற்காக உள்நாட்டு இறைவரித் திணைக்களத்தின் தலைமை அலுவலகம், பிராந்திய மற்றும் நகர அலுவலகங்கள் நாளை வழமையான வேலை நாளாக திறக்கப்படும் என்றும் திணைக்களம் தெரிவித்துள்ளது.
-
-மேலும், உள்நாட்டு இறைவரித் திணைக்களத்தின் தலைமை அலுவலகம் மற்றும் ஜாவத்தை அலுவலக வளாகத்தில் அமைந்துள்ள இலங்கை வங்கிக் கிளையும் வருமான வரி செலுத்துவதற்காக திறந்து வைக்கப்படும் என உள்நாட்டு இறைவரித் திணைக்களம் தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/be6842a3.json)
-
----
 
 ### Police OIC arrested over bribery allegations
 
@@ -2365,5 +2349,33 @@ The imports of cars under the second and third phase of vehicle imports will sta
 [Data](articles/75d51960.json)
 
 [Extended Data](ext_articles/75d51960.ext.json)
+
+---
+
+### Two persons arrested with Kerala cannabis
+
+*2024-11-29 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200002) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"2 arrested in Kerala cannabis bust: Mangala Eliya & Mathuranguliya caught with 15kg+83g cannabis near Colombo-Puttalam road."
+
+🟩
+
+Two persons have been arrested by the Kerala ganja and car on Thursday (28) in the Navatankulam area of ​​the Colombo -Puttalam road, which belongs to the Mundal Police Division.
+
+They were arrested during a raid carried out by a team of officials of the Organized Crime Unit of the Police Special Task Force.
+
+The arrested were 38, 42 -year -old Mangala Eliya and Mathuranguliya.
+
+15 kg of 83 grams of Kerala cannabis and their car were seized by the police and handed over to the Mundal police station.
+
+◼️
+
+[Data](articles/2bbe3d14.json)
+
+[Extended Data](ext_articles/2bbe3d14.ext.json)
 
 ---

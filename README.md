@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 19:41:41**
+As of **2024-11-30 20:13:17**
 
 ## Newspaper Stats
 
-*Scraped **57,759** Articles*
+*Scraped **57,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,463
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,448
+adalk | 5,449
 adaderanalk | 7,001
-tamilmirrorlk | 8,212
+tamilmirrorlk | 8,213
 virakesarilk | 9,433
 adaderanasinhalalk | 9,976
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,753 (100.0%) of 57,759 articles have been extended.
+57,760 (100.0%) of 57,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### எரிபொருள் விலைகளில் திடீர் மாற்றம்
+
+*2024-11-30 19:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருள்-விலைகளில்-திடீர்-மாற்றம்/150-348016) · `ta`
+
+மாதாந்த எரிபொருள் விலை திருத்தத்தின் படி இன்று (30) நள்ளிரவு முதல் நடைமுறைக்கு வரும் வகையில் எரிபொருளின் விலையில் மாற்றம் செய்யப்பட்டுள்ளது.
+
+அதற்கமைய, 311 ரூபாவாக இருந்த  ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 02 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 309 ரூபாவாகும்.
+
+283 ரூபாவாக இருந்த ஒட்டோ டீசல் லீற்றர்  ஒன்றின் விலை 03 ரூபாவினால் அதிகரிக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 286 ரூபாவாகும்.
+
+இதேவேளை, ஒக்டேன் 95 ரக பெற்றோல் லீற்றர்  ஒன்றின் விலையிலும், சுப்பர் டீசலின் விலையிலும் எவ்விதமான மாற்றம் மேற்கொள்ளப்படவில்லை என இலங்கை பெற்றோலியக் கூட்டத்தாபனம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/38abbc9a.json)
+
+---
+
+### Liquid goods exchanges from the Hambantota port for the first ship in Sri Lanka
+
+*2024-11-30 19:22:49* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ප්‍රථම-වරට-නැවකින්-නැවකට‍-ද්‍රව-භාණ්ඩ-හුවමාරුව-හම්බන්තොට-වරායෙන්/11-413364) · `si`
+
+Hambantota port initiates liquid goods exchange with first ship. 3,170 metric tons of liquid petroleum transferred successfully.
+
+🟩
+
+The Hambantota port has begun transfer to a ship's first-time vessel. Accordingly, the Ports Authority has issued that the exchange of liquid petroleum exchange has been carried out with Singapore, Sippropur and Maritime.
+
+Accordingly, 3,170 metric tons of liquid petrics have been referred to the ship's ship to the ship, which has been avoided in the country with averted soon.
+
+◼️
+
+[Data](articles/167f7983.json)
+
+[Extended Data](ext_articles/167f7983.ext.json)
+
+---
 
 ### Fuel prices revised
 
@@ -42,9 +80,13 @@ Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 2 to Rs. 309 
 
 However, the prices of Petrol 95 Octane, Auto Diesel and Super Diesel remain unchanged, according to Ceypetco.
 
+Meanwhile, the Lanka Indian Oil Corporation (LIOC) too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
+
 ◼️
 
 [Data](articles/9e58fe9e.json)
+
+[Extended Data](ext_articles/9e58fe9e.ext.json)
 
 ---
 
@@ -63,6 +105,8 @@ A total of 27,517 individuals from 8,470 families who were affected by the extre
 ◼️
 
 [Data](articles/9c604223.json)
+
+[Extended Data](ext_articles/9c604223.ext.json)
 
 ---
 
@@ -121,6 +165,8 @@ The missing children are aged between 12 and 16 years while they are residents o
 ◼️
 
 [Data](articles/813d0317.json)
+
+[Extended Data](ext_articles/813d0317.ext.json)
 
 ---
 
@@ -268,19 +314,35 @@ The bodies of eight of the students who were killed in the incident have been re
 
 ---
 
-### මොරටුව වෛද්‍ය සිසුන්ට මහාචාර්ය පුහුණුව කලුතර නාගොඩ  ශික්ෂණ රෝහලේදී
+### Professor Training in Kalutara Teaching Hospital
 
 *2024-11-30 17:45:32* · [`adalk`](https://www.ada.lk/breaking_news/මොරටුව-වෛද්‍ය-සිසුන්ට-මහාචාර්ය-පුහුණුව-කලුතර-නාගොඩ--ශික්ෂණ-රෝහලේදී/11-413363) · `si`
 
-මොරටුව විශ්ව විද්‍යාලයේ වෛද්‍ය පීඨයේ ඉගෙනුම ලබන වෛද්‍ය සිසුන් සඳහා මහාචාර්ය පුහුණුව ලබා දීමට නිසි පහසුකම් හා අවශ්‍ය සම්පත් සහිත රෝහලක් නොතිබීමෙන් මතුව පැවති ගැටලුවට කඩිනම් විසදුම් ලබාදීමත්, මාලඹේ වෛද්‍ය නෙවිල් ප්‍රනාන්දු රෝහල කාර්යක්ෂම රෝහලක් ලෙස සංවර්ධනය කිරීම පිළිබදවත් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ අවධානය යොමුවී ඇත.
+Here's a summary of 200 characters:
 
-ඒ අනූව එම ගැටලු සදහා විසදුම් සෙවීමේ විශේෂ සාකච්ඡාවක් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාග් ප්‍රධානත්වයෙන් පසුගියදා සෞඛ්‍ය අමාත්‍යාංශයේදී පැවැත්විණි.
 
-උසස් අධ්‍යාපන අමාත්‍යාංශය, සෞඛ්‍ය අමාත්‍යාංශය, මහා භාණ්ඩාගාරය, කළමණාකරණ සේවා දෙපාර්තමේන්තුව, මොරටුව විශ්ව විද්‍යාලය, විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, කලුතර නාගොඩ ශික්ෂණ රෝහල, නෙවිල් ප්‍රනාන්දු රෝහල, සහ මෙයට සම්බන්ධ සෙසු ආයතන නියෝජිතයන්ද මෙම සාකච්ඡාවට කැදවා තිබුනි.
+
+Kalutara Teaching Hospital: Professor Training Solution Meeting
+
+
+
+Health Minister Dr. Nalinda Jayatissa led discussions to address the shortage of facilities for 400 medical students. The meeting involved universities, hospitals, and government bodies. A plan to start professor training in July next year was proposed, with Neville Fernando Hospital being considered for development as a specialist center.
+
+🟩
+
+Health and Mass Media Dr. Nalinda Jayatissa addressing the immediate solution of the Medical Faculty of the University of Moratuwa.Have.
+
+Accordingly, health and media minister Dr. Nalinda Jayatissa held a special discussion in search of solutions.
+
+The Ministry of Higher Education, Ministry of Health, Ministry of Health, the University of Moratuwa, the University Grants Commission, Kalutara Nagoda Teaching Hospital, the Kalutara Nagoda Hospital, and other organizations.
+
+At the middle of 400 medical students who are studying the Medical Faculty and the four fourth year students should be referred to the Professor Training in the mid-next year.The lack of a facility is a serious problem and the main objective of the discussion was to solve the problem.
 
 ...
 
 [Data](articles/e526d4a5.json)
+
+[Extended Data](ext_articles/e526d4a5.ext.json)
 
 ---
 
@@ -428,35 +490,51 @@ There were 4 people in the car and the woman in the back seat and her daughter w
 
 ---
 
-### வவுனியாவில் யானை தாக்கி கடற்படை அதிகாரி உயிரிழப்பு!
+### Elephant attack in Vavuniya
 
 *2024-11-30 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200082) · `ta`
 
-வவுனியாவில் கடற்படை லெப்டினன்ட் தர அதிகாரியொருவர் காட்டு யானை தாக்கி உயிரிழந்த சம்பவம் நேற்று வெள்ளிக்கிழமை (29) இடம்பெற்றதாக பூனாவ பொலிஸார் தெரிவித்தனர்.
+Wild elephant attacks and kills another elephant in Vavuniya. Navy personnel dies after being attacked while getting off bus near naval base. Injured individuals rushed to hospital.
 
-இந்த அதிகாரி பணி நிமித்தமாக கொழும்புக்கு சென்றுவிட்டு, பேருந்தில் பூனாவ கடற்படை முகாமுக்கு திரும்பியுள்ளார்.
+🟩
 
-பேருந்திலிருந்து இறங்கி தான் கடமையாற்றும் முகாமுக்கு சென்றுகொண்டிருந்தபோதே யானை தாக்கியதாக பொலிஸார் தெரிவித்தனர்.
+Poonawa police said that the death of a wild elephant in Vavuniya was killed by a wild elephant.
 
-பூனாவ கடற்படை முகாமில் கடமையாற்றி வந்த மத்தலான, நிட்டம்புவவில் வசிக்கும் கடற்படை வீரரே உயிரிழந்துள்ளார்.
+The officer left for Colombo for work and returned to the Poonawa Naval Base by bus.
 
-யானை தாக்கியதில் பலத்த காயமடைந்தவரை கடற்படையினரும் உள்ளூர் மக்களும் இணைந்து வவுனியா மருத்துவமனைக்கு கொண்டு சென்றபோது உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said the elephant was attacked as he got off the bus and was on his way to the camp.
+
+The navy person who lives in Nittambuwa, who was on duty at the Poonawa Naval Base, has died.
+
+The Navy and the locals were taken to the Vavuniya Hospital, who was seriously injured in the attack, police said.
 
 ◼️
 
 [Data](articles/50b4023d.json)
 
+[Extended Data](ext_articles/50b4023d.ext.json)
+
 ---
 
-### செட்டிக்குளத்தில் இளம் குடும்பப் பெண் தீயில் எரிந்து உயிரிழப்பு!
+### A young family girl burns in a fire in Chettikulam
 
 *2024-11-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200081) · `ta`
 
-வவுனியா, செட்டிக்குளம், பெரியகுளம் பகுதியில் வசித்து வந்த இந்தப் பெண் வீட்டில் மண்ணெண்ணெய் ஊற்றி தீ வைத்து எரிந்த நிலையில், அயலவர்களால் மீட்கப்பட்டு செட்டிக்குளம் வைத்தியசாலையில் அனுமதிக்கப்பட்டு வவுனியா வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர், சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Here's a summary of 200 characters:
+
+
+
+Young girl dies from burns in Chettikulam fire. Woman lived in Periyakulam area of Vavuniya. Rescued by neighbors and admitted to Chettikulam Hospital.
+
+🟩
+
+The woman, who was living in the Periyakulam area of ​​Vavuniya, Chettikulam, has died after being rescued by neighbors and was admitted to the Chettikulam Hospital after being rescued by neighbors.
 
 ◼️
 
 [Data](articles/b9aba0a3.json)
+
+[Extended Data](ext_articles/b9aba0a3.ext.json)
 
 ---
 
@@ -2251,57 +2329,5 @@ In this case, Samantha's father suddenly killed his fans. Many people on social 
 [Data](articles/0693c62e.json)
 
 [Extended Data](ext_articles/0693c62e.ext.json)
-
----
-
-### Youth death in poisonous bite in rain water
-
-*2024-11-29 23:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழைநீரில்-வந்த-விஷப்பாம்பு-கடித்ததில்-இளைஞர்-மரணம்/175-348000) · `ta`
-
-20-year-old youth dies from snake bite in floodwaters near Vavuniya. Snake bit him while he was collecting coconuts during heavy rain. He was rushed to hospital but died en route due to flooded roads.
-
-🟩
-
-A 20 -year -old youth has died after a snake bite in a flood waters in the Vavuniya - Nedungeni Pattikkudiyiruppu area.
-
-While the coconut was collected in the coconut tree in the yard due to rain, the snake swimming in the rain water was bitten.
-
-He was immediately admitted to the Nedungeni Hospital and later transferred to the Vavuniya General Hospital as his condition is worrisome.
-
-The young man dies after a long time to reach Vavuniya due to flooding on highways due to heavy rains.. Remble
-
-◼️
-
-[Data](articles/65c5bf9e.json)
-
-[Extended Data](ext_articles/65c5bf9e.ext.json)
-
----
-
-### Minister of Fisheries
-
-*2024-11-29 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200048) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Fisheries Minister visits Maruthankani Bridge site after collapse. Inspects repair work. Road damage near Pudukkattu junction due to strong currents. Mudslides prevent further road damage.
-
-🟩
-
-As the road was down, the bridge was in critical condition due to the downfall of the Maruthankani Bridge in Jaffna.
-
-Fisheries Minister Ramalingam Chandrasekhar visited the Maruthangeni area and visited the correction work and asked the authorities about it.
-
-On the road leading to Pudukkattu junction, the area of ​​the Maruthankani Bridge, which is located, was found down due to high current.
-
-Immediately, the mudslides were put in the area and the repairing of the road was prevented from being damaged.
-
-◼️
-
-[Data](articles/cb8b4fb0.json)
-
-[Extended Data](ext_articles/cb8b4fb0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 20:00:15**
+As of **2024-11-30 19:41:41**
 
 ## Newspaper Stats
 
-*Scraped **57,760** Articles*
+*Scraped **57,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,463
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,449
+adalk | 5,448
 adaderanalk | 7,001
 tamilmirrorlk | 8,212
 virakesarilk | 9,433
@@ -26,25 +26,11 @@ adaderanasinhalalk | 9,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,753 (100.0%) of 57,760 articles have been extended.
+57,753 (100.0%) of 57,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
-
-### මෙරට ප්‍රථම වරට නැවකින් නැවකට‍ ද්‍රව භාණ්ඩ හුවමාරුව හම්බන්තොට වරායෙන්
-
-*2024-11-30 19:22:49* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ප්‍රථම-වරට-නැවකින්-නැවකට‍-ද්‍රව-භාණ්ඩ-හුවමාරුව-හම්බන්තොට-වරායෙන්/11-413364) · `si`
-
-හම්බන්තොට වරාය මගින් පළමු වරට නෞකාවෙන් නෞකාවකට ද්‍රව භාණ්ඩ හුවමාරුව ආරම්භ කර ඇත. ඒ අනුව, සිංගප්පූරු සමාගමක් වන ෂිප්ලෝඩ් මැරිටයිම් සමග එක්ව ලාෆ් ගෑස් සමාගමේ නෞකාවකට ද්‍රව පෙට්‍රෝලියම් වායූ හුවමාරුව සිදු කර ඇති බව වරාය අධිකාරිය නිකුත් කළ නිවේදනයක් මගින් සඳහන් කර ඇත.
-
-ඒ අනුව, ද්‍රව පෙට්‍රෝලියම් වායූ මෙට්‍රික් ටොන් 3,170ක් ලාෆ් සමාගමට අයත් නෞකාව වෙත යොමු කර ඇති අතර මෙම තත්වය හමුවේ මෙරට පවතින ලාෆ් ගෑස් හිගය කඩිනමින් මගහැරුණු ඇති බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/167f7983.json)
-
----
 
 ### Fuel prices revised
 
@@ -55,8 +41,6 @@ The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices e
 Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 2 to Rs. 309 per litre, while the price of Kerosene has been increased by Rs. 5 to Rs. 188 per litre.
 
 However, the prices of Petrol 95 Octane, Auto Diesel and Super Diesel remain unchanged, according to Ceypetco.
-
-Meanwhile, the Lanka Indian Oil Corporation (LIOC) too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
 
 ◼️
 
@@ -2291,5 +2275,33 @@ The young man dies after a long time to reach Vavuniya due to flooding on highwa
 [Data](articles/65c5bf9e.json)
 
 [Extended Data](ext_articles/65c5bf9e.ext.json)
+
+---
+
+### Minister of Fisheries
+
+*2024-11-29 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200048) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Fisheries Minister visits Maruthankani Bridge site after collapse. Inspects repair work. Road damage near Pudukkattu junction due to strong currents. Mudslides prevent further road damage.
+
+🟩
+
+As the road was down, the bridge was in critical condition due to the downfall of the Maruthankani Bridge in Jaffna.
+
+Fisheries Minister Ramalingam Chandrasekhar visited the Maruthangeni area and visited the correction work and asked the authorities about it.
+
+On the road leading to Pudukkattu junction, the area of ​​the Maruthankani Bridge, which is located, was found down due to high current.
+
+Immediately, the mudslides were put in the area and the repairing of the road was prevented from being damaged.
+
+◼️
+
+[Data](articles/cb8b4fb0.json)
+
+[Extended Data](ext_articles/cb8b4fb0.ext.json)
 
 ---

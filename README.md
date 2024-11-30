@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 12:41:46**
+As of **2024-11-30 13:42:19**
 
 ## Newspaper Stats
 
-*Scraped **57,713** Articles*
+*Scraped **57,715** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 441
 colombotelegraphcom | 586
-bbccomsinhala | 601
-islandlk | 3,459
+bbccomsinhala | 602
+islandlk | 3,460
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,711 (100.0%) of 57,713 articles have been extended.
+57,715 (100.0%) of 57,715 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Campaign group Dignity in Dying said the vote was a “historic step towards gre
 
 [Data](articles/b59c9f5a.json)
 
+[Extended Data](ext_articles/b59c9f5a.ext.json)
+
 ---
 
 ### Air quality drops in several areas across Sri Lanka - NBRO
@@ -71,6 +73,8 @@ Meanwhile in Colombo, the air quality is forecasted to range between 108 and 116
 ...
 
 [Data](articles/d8abcc82.json)
+
+[Extended Data](ext_articles/d8abcc82.ext.json)
 
 ---
 
@@ -483,6 +487,34 @@ Accordingly, the arrest was made under the charge of bribes.
 [Data](articles/ea995b4e.json)
 
 [Extended Data](ext_articles/ea995b4e.ext.json)
+
+---
+
+### What can you do to make the retirement meaningfully?
+
+*2024-11-30 06:36:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1knyrnrjewo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Make retirement meaningful by planning ahead, staying active, and finding purpose. Address financial instability, mental health concerns, and social isolation. Engage in hobbies, travel, learn new skills, and contribute to society. Invest wisely for financial security.
+
+🟩
+
+Specialist at the Galle National Hospital, a special milestone of the lives of the job, is noted that retirement should not be considered a loss of the operation of their life.
+
+Retirement is that the retirement is to be retired, as any person has to retire for a long time.
+
+Specialist pointed out that it is important to act in advance of opportunities for certain people to make it a mentally impossible for some people.
+
+For nearly 30 years, Mohamed, who was working in the private sector, was said to have been in the past BBC Sinhala service after retirement.
+
+...
+
+[Data](articles/2c644d7d.json)
+
+[Extended Data](ext_articles/2c644d7d.ext.json)
 
 ---
 
@@ -1061,6 +1093,22 @@ The agreement was signed by Prabhath Dahanayake, Chief Marketing Officer of SLT-
 [Data](articles/9e5eca06.json)
 
 [Extended Data](ext_articles/9e5eca06.ext.json)
+
+---
+
+### Technology and human judgement
+
+*2024-11-30 00:59:00* · [`islandlk`](http://island.lk/technology-and-human-judgement/) · `en`
+
+A tragic incident where a car, reportedly guided by Google Maps, plunged off a bridge under construction, killing three persons in India has sparked a debate on whether online navigation apps should be held responsible for such mishaps. There are arguments for and against the culpability of the providers of online navigation services in respect of incidents of that nature, which however are rare.
+
+The above-mentioned accident and the debate thereon are of much relevance to Sri Lankans, many of whom use Google Maps, daily. Those who are engaged in food delivery, e-commerce, ride-hailing transport, etc., cannot do without online navigation. Gone are the days when directions were given verbally; anyone who cannot provide or follow ‘locations’ online is considered a dinosaur, today. Most people across the globe cannot think of a day without Google Maps and other such online navigation platforms.
+
+...
+
+[Data](articles/773e1266.json)
+
+[Extended Data](ext_articles/773e1266.ext.json)
 
 ---
 
@@ -2313,67 +2361,5 @@ A bond maturing on 15.09.2029 closed stable at 10.70/85 percent. (Colombo/Nov29/
 [Data](articles/715cd5c5.json)
 
 [Extended Data](ext_articles/715cd5c5.ext.json)
-
----
-
-### The streets and buildings do not follow the appropriate rules;The pools are not dried;Those who work every day are in great distress!- RPG. Rajeevan MP
-
-*2024-11-29 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200018) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Jaffna floods caused by poor infrastructure planning: neglected ponds, improper road/building construction, inadequate drainage. Government provides aid but more assistance needed. Daily wage workers struggle; social institutions urged to help.
-
-🟩
-
-National People's Power MP J. Rajivan said that the floods in Jaffna are due to the lack of focus on the ponds and the lack of focusing on the ponds when the roads and buildings are built.
-
-A meeting was held yesterday to investigate the natural disaster headed by the Secretary of the Ministry of Defense. Minister Chandrasekhar also attended the event.
-
-Floods stand in many areas. The reason for the flooding in Jaffna is the reason why the streets are high.
-
-The streets are renovated and rebuilded.Similarly when setting up homes and businesses do not follow the rules. The pools are not drowning. The drainage system is not the best. Point Pedro Road is an example of this. There is a lack of drainage.
-
-There is no place where floodwaters are unprecedented. Thus the current state may last a couple of days. Some areas may last long.
-
-The government is more concerned about providing assistance to the affected people. The national people's power has also incorporated itself.
-
-...
-
-[Data](articles/10e756d8.json)
-
-[Extended Data](ext_articles/10e756d8.ext.json)
-
----
-
-### Storbs a century against Sri Lanka
-
-*2024-11-29 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203871) · `si`
-
-Here's a 200-character summary:
-
-
-
-South African batsman Tristron Stobbes scored his second century against Sri Lanka on day 3 of the first Test. He reached 183 off 289 balls with 7 fours and 2 sixes. Stobbes' partnership with Thamba yielded 89 runs for the 4th wicket.
-
-🟩
-
-South African batsman Tristron Stobbes were able to collect the second century on Sri Lanka.
-
-He played the third day of the first Test match between Sri Lanka and South Africa.
-
-Stubs built by 183 balls included 7 fours and two sixes.
-
-South Africa gathered 289 runs for the loss of 3 wickets.
-
-Leader Thamba, who is staying in the wicket with Stubs, has scored 89 runs and they had a relative connection to the 4th wicket.
-
-◼️
-
-[Data](articles/c1ee0d24.json)
-
-[Extended Data](ext_articles/c1ee0d24.ext.json)
 
 ---

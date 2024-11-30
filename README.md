@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 21:26:08**
+As of **2024-11-30 21:42:06**
 
 ## Newspaper Stats
 
@@ -84,7 +84,7 @@ The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices e
 
 Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 2 to Rs. 309 per litre, while the price of Kerosene has been increased by Rs. 5 to Rs. 188 per litre.
 
-However, the prices of Petrol 95 Octane, Auto Diesel and Super Diesel remain unchanged, according to Ceypetco.
+However, the prices of Petrol 95 Octane and Super Diesel remain unchanged, according to Ceypetco.
 
 Meanwhile, the Lanka Indian Oil Corporation (LIOC) too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
 

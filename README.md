@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 23:42:20**
+As of **2024-12-01 00:27:17**
 
 ## Newspaper Stats
 
@@ -26,25 +26,39 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,765 (100.0%) of 57,772 articles have been extended.
+57,772 (100.0%) of 57,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
 
-### මහජනයා නොසන්සුන් කිරීමට උත්සාහ කිරීම සම්බන්ධයෙන් තිදෙනෙකු අත්අඩංගුවට
+### Three arrested for attempting to suffer the public
 
 *2024-11-30 23:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203915) · `si`
 
-එල්.ටී.ටී.ඊ මහවිරු දින උත්සව සැමරුම් ප්‍රචාර සිදු කරමින් මහජනයා නොසන්සුන් කිරීම සම්බන්ධව සැකකරුවන් තිදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-පොලීසිය පැවසුවේ අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 28, 35 හා 45 වයස්වල පසුවන මරදාන, චුන්නාකම් හා බද්දේගම ප්‍රදේශවල පදිංචිකරුවන් බවය.
 
-සැකකරුවන් දිවයිනේ තහනම් සංවිධානයක් වන එල්.ටී.ටී.ඊ සංවිධානයේ නායක වන වේලුපිල්ලේ ප්‍රභාකරන්ගේ රුව සහිත ජායාරූප හා වීඩියෝපට ෆේස්බුක් සමාජ ජාලා ගිණුමක් මගින් සංසරණය කිරීම මෙන්ම මීට පෙර වර්ෂයන්වලදී එල්.ටී.ටී.ඊ සංවිධානයේ මහාවිරු සැමරුම්වලදී ලබාගත් පැරණි වීඩියෝපට මෙම වර්ෂයේ සිදුකරන ලද සැමරුම් ලෙස හුවා දක්වමින් ෆේස්බුක් සමාජ මාධ්‍යජාලයේ සංසරණය කිරීම යන චෝදනාවන් ඔවුන්ට එල්ල වී තිබේ.
 
-...
+"3 arrested for promoting LTTE via old videos during Mahavairu celebrations. Suspects from Maradana, Chunnakam, Baddegama. Charged with Facebook circulation & internet advertising for banned org. CID & TID conducting further investigations."
+
+🟩
+
+The Criminal Investigations Department (CID) has arrested three suspects regarding the unrest in the event of the LTTE celebrations.
+
+Police said that the suspects were residents of Maradana, Chunnakam and Baddegama areas.
+
+The suspects have been circulated by the LTTE, the leader of the LTTE, who is the banned organization of the island, to the old videos of the LTTE, and the old videos have been made in the years of Mahavairu Celebrations in the years.They have been charged with circulation of Facebook, hiding as celebrations.
+
+Accordingly, the suspects were arrested in terms of the temporary arrangement of false advertisements and advertising on the Internet to promote the activities of the Internet and promote the activities of a banned organization.Have been taken.
+
+The Criminal Investigations Department and the Terrorism Investigation Division conducts further investigations.
+
+◼️
 
 [Data](articles/38c592ec.json)
+
+[Extended Data](ext_articles/38c592ec.ext.json)
 
 ---
 
@@ -162,95 +176,129 @@ Accordingly, Ada Derana LAUGS Gas was inquired about this.
 
 ---
 
-### සයිනොපෙක් ඉන්ධන මිලට වෙන දේ
+### What SIINOPEC is going to buy fuel
 
 *2024-11-30 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203911) · `si`
 
-අද (30) සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+Sinopec buys fuel; Syinope amends prices; Ceylon Petroleum increases rates; liter price hikes: diesel +286, kerosene +588; other fuels unchanged.
 
-නිවේදනයක් නිකුත් කරමින් එම සමාගම පවන්නේ ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ මිල ගණන් වලට සමානව තම සමාගමේ ඉන්ධන මිල ගණන්ද සංශෝධනය කරන බවයි.
+🟩
 
-අද මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබුණි.
+Syinope has amended its fuel prices as operated from today.
 
-ඔක්ටේන් 92 පෙට්‍රල් රුපියල් නව මිල රුපියල් 02කින් අඩු කර ඇති අතර එහි නව මිල 309කි.
+Issuing a statement that the company is amended by the company's fuel prices as the prices of the Ceylon Petroleum Corporation.
 
-ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 286කි.
+The Ceylon Petroleum Corporation had taken steps to amend fuel prices as effective today.
 
-ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 188කි.
+The new price of Rs.
 
-අනෙකුත් ඉන්ධන මිල ගණන් සංශෝධනය කර නොමැති අතර එම මිල ගණන් පෙර පැවැති මිල ගණන් යටතේ අලෙවි වනු ඇත.
+The price of a liter of Sri Lanka has increased by Rs. 286.
+
+The price of a liter of LTTE kerosene has been increased by Rs. 588.
+
+Other fuel prices have not been amended and the prices will be sold at the previous prices.
 
 ◼️
 
 [Data](articles/667c59eb.json)
 
+[Extended Data](ext_articles/667c59eb.ext.json)
+
 ---
 
-### අම්පාරේ ට්‍රැක්ටරය සැඩපහරට හසුවූ හැටි දිවිගලවා ගත් සිසුවෙකු හෙළිකරයි
+### Student reveals how the Ampara Tractor has been shy away
 
 *2024-11-30 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203909) · `si`
 
-පසුගිය 26 වැනිදා අම්පාර කාර්තිව් ප්‍රදේශයේ දී ට්‍රැක්ටර් රථයක් සැඩපහරට හසුව පෙරළීයාමෙන් මියගිය පාසල් සිසුන් ඇතුළු 08 දෙනෙකුගේ මළ සිරුරු මේ වනවිට සොයාගෙන තිබේ.
+Ampara Tractor incident: 8 students killed, 1 missing. Surviving student recounts tragic events: bus overturned, tractor sank, rescue efforts ongoing.
 
-එලෙස දියේ ගිලී අතුරුදන් වූ තවත් සිසුවෙකුගේ මළ සිරුරක් අද සොයාගත්තේය.
+🟩
 
-ඒ නාවික හමුදාව, පොලීසිය සහ ප්‍රදේශවාසීන් එක්ව සිදුකළ සෝදිසි මෙහෙයුමකදීය.
+Police have recovered the bodies of eight of the school children who were killed from the Sadapula area in Kabbalan, Ampara.
 
-අදාළ අනතුරින් දිවිගලවා ගත් සිසුවෙක් අනතුර සම්බන්ධයෙන් මෙලෙස අදහස් පළ කළේය.
+One of another body of the missing student was disappeared today.
+
+The Navy, Police and the residents of the area were conducting further investigations.
+
+The student who survived the accident expressed these views regarding the accident.
 
 ...
 
 [Data](articles/3cf275d5.json)
 
+[Extended Data](ext_articles/3cf275d5.ext.json)
+
 ---
 
-### ලංකා IOC ඉන්ධන මිලත් සංශෝධනය කෙරේ
+### Lanka IOC fuel revisive
 
 *2024-11-30 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203908) · `si`
 
-ලංකා IOC සමාගම ද සිය ඉන්ධන මිල ගණන් සම්බන්ධයෙන් දැනුම්දීමක් සිදුකර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අනුව සිපෙට්කෝ ඉන්ධන මිල ගණන් අනුව ලංකා IOC ඉන්ධන මිල ගණන් ද සංශෝධනය කරන බවද එම සමාගම දැනුම්දෙයි.
 
-අද (30) දින මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබුණි.
 
-ඔක්ටේන් 92 පෙට්‍රල් රුපියල් නව මිල රුපියල් 02කින් අඩු කර ඇති අතර එහි නව මිල 309කි.
+"Lanka IOC fuel prices revised: Petrol +Rs.286/liter, Kerosene +Rs.588/liter. Other fuels unchanged. Prices effective from 30th."
 
-ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 286කි.
+🟩
 
-ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 188කි.
+Lanka IOC has also been announced in his fuel prices.
 
-අනෙකුත් ඉන්ධන මිල ගණන් සංශෝදනය වී නොමැති අතර එම මිල ගණන් පෙර පැවැති මිල ගණන් යටතේ අලෙවි වනු ඇත.
+Accordingly, Lanka IOC fuel prices will also be amended under Sipetco fuel prices.
+
+The Ceylon Petroleum Corporation had taken steps to amend fuel prices today (30).
+
+The new price of Rs.
+
+The price of a liter of Sri Lanka has increased by Rs. 286.
+
+The price of a liter of LTTE kerosene has been increased by Rs. 588.
+
+Other fuel prices have not been amended and the prices will be sold at the previous prices.
 
 ◼️
 
 [Data](articles/912bd17b.json)
 
+[Extended Data](ext_articles/912bd17b.ext.json)
+
 ---
 
-### නිර්මාණශීලී කර්මාන්තයේ නවමු සන්ධිස්ථානයක් සනිටුහන් කරමින් මෝගෝ මීඩියා ඇකඩමිය ඇරඹෙයි
+### Morgo Media Academy begins
 
 *2024-11-30 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203907) · `si`
 
-ශ්‍රී ලංකාවේ නිර්මාණශීලී කර්මාන්තයේ නවමු සන්ධිස්ථානයක් සනිටුහන් කරමින් මෝගෝ මීඩියා ඇකඩමිය අද (30) ආරම්භ කෙරිණි.
+Here's a summary of the text in approximately 200 characters:
 
-තරුණ පරම්පරාවට වෘත්තීය ගෝලීය වෙළෙඳපොළේ ජයග්‍රහණය සඳහා අවශ්‍ය අභිමානවත් නිපුණතා ලබාදීම මෙහි මූලික අරමුණ වේ.
 
-නව තාක්ෂණය මුසු Animation ක්‍රියාකාරකම් නූතන සිනමාවේ සහ විද්‍යුත් මාධ්‍යයේ ඉදිරියට යාම සඳහා අත්‍යවශ්‍ය සාධකයකි.
 
-මෝගෝ මීඩියා ඇකඩමිය ස්ථාපිත කෙරුණේ ඒ වෙනුවෙන් දක්ෂයන් බිහිකිරීම අරමුණු කර ගනිමිනි.
+Morgo Media Academy launched today. Aims to equip students with skills for global media market success. Focuses on new technologies like Muzu Disform for modern cinema and electronic media. Offers diplomas in bio-development, game design, concept art, modeling, and texturing. First batch of 30 students enrolled. Next intake in January 2025. Contact: www.mocoacademy.lk or (011) 728 8300.
 
-ඒ අනුව කොළඹ 10, සේරම් පෙදෙසේ පිහිටි මෝගෝ මීඩියා ඇකඩමියේදි අද එහි පළමු කණ්ඩායම ලියාපදිංචිය සිදු කෙරිණි.
+🟩
 
-30 දෙනෙකුගෙන් යුත් එම පළමු කණ්ඩායම Animation සහ Game Development ඩිප්ලෝමා සඳහා එක්ව සිටියි.
+Margo Media Academy commenced today (30).
 
-මොගෝ මීඩියා ඇකඩමිය මගින් ජීව Animation,Game Development, VFX, Concept Art,Modeling and Texturing ඩිප්ලෝමා හැදෑරීමට ඕනෑම අයෙකුට අවස්ථාව හිමි වන අතර මෙම ඩිප්ලෝමා සියල්ල වසරක අධ්‍යයන කාලයකින් සමන්විතය.
+The main objective of this purpose is to provide the proud skills needed for the victory of the professional global market.
 
-ඔවුන්ට අන්තර්ජාතික සුදුසුකම්ලත් ආචාර්ය මණ්ඩලයක් මගින් මාර්ගෝපදේශ හිමිවන්නේ ගෝලීය වෙළඳපොලේ අවශ්‍යතාවන්ට ගැලපෙන අධ්‍යාපනයක් ලබාදෙමිනි.
+New Technology Muzu Disform Activity is essential for the proceed of modern cinema and electronic media.
 
-...
+The Morgo Media Academy was established with aiming creating skills.
+
+Accordingly, the first team was registered today in Maggo Media Anagram, Colombo 10.
+
+The first group of 30 people accompanies the Diplomamamcent Diploma.
+
+The Moo Media Academy is entitled to study bio-developed, game, concept art, modeling and texting diplom, and all these diplomas are equipped with a year of study period.
+
+They were guidelines through an international qualified qualified staff.
+
+Accordingly, the next team registers 2025, which can be found in January 2025 and calling on the website www.mocoacademy.lk or by addressing the website (011) 728 8300.
+
+◼️
 
 [Data](articles/9508fec5.json)
+
+[Extended Data](ext_articles/9508fec5.ext.json)
 
 ---
 
@@ -318,25 +366,35 @@ Meanwhile, the Lanka Indian Oil Corporation (LIOC) too have decided to revise it
 
 ---
 
-### ඉන්ධන මිල සංශෝධනය කෙරේ
+### Fuel price is revised
 
 *2024-11-30 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203906) · `si`
 
-අද (30) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+Here's a summary in 200 characters:
 
-ඒ අනුව රුපියල් 311ක්ව පැවති ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 02 කින් අඩුකර කර ඇති අතර, එහි නව මිල රුපියල් 309කි.
 
-ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල වෙනස් නොවන අතර එහි මිල 371කි.
 
-ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03 කින් වැඩි කර ඇති අතර  එහි නව මිල රුපියල් 286 ක් වනු ඇත.
+CPC revises fuel prices: Octane 92 petrol down Rs. 31.09, Octane 95 stable at Rs. 371, Lanka White Diesel up Rs. 286, Lankan Super Diesel unchanged at Rs. 313, LTTE Kerosene up Rs. 58 to Rs. 188.
 
-ලංකා සුපර් ඩීසල් ලීටරයක මිල රුපියල් වෙනස් නොකර ඇති අතර එහි මිල 313කි.
+🟩
 
-ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල 188කි.
+The Ceylon Petroleum Corporation has taken steps to revise the fuel price hike today (30).
+
+Accordingly, the price of a liter of Octane 92 petrol has been reduced by Rs.31 309.
+
+The price of a liter of octane 95 petrol does not change and its price is 371.
+
+The price of a liter of Lanka white diesel has been increased by Rs. 286.
+
+The price of a liter of Lankans Super diesel has not been changed, and it is 313.
+
+The price of a liter of LTTE kerosene has been increased by Rs. 58 and its new price is 188.
 
 ◼️
 
 [Data](articles/f3c48251.json)
+
+[Extended Data](ext_articles/f3c48251.ext.json)
 
 ---
 
@@ -1095,6 +1153,8 @@ ECONOMYNEXT – Fitch Ratings said it was confirming an ‘AAA (lka)’ rating o
 ...
 
 [Data](articles/9839f75a.json)
+
+[Extended Data](ext_articles/9839f75a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 02:42:03**
+As of **2024-12-01 03:00:23**
 
 ## Newspaper Stats
 
-*Scraped **57,774** Articles*
+*Scraped **57,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,449
 adaderanalk | 7,002
-tamilmirrorlk | 8,213
+tamilmirrorlk | 8,214
 virakesarilk | 9,433
 adaderanasinhalalk | 9,985
 
@@ -26,9 +26,25 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,774 (100.0%) of 57,774 articles have been extended.
+57,774 (100.0%) of 57,775 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-01 (Sunday)
+
+### சீரற்ற காலநிலை: உயிரிழப்பு உயர்வு
+
+*2024-12-01 02:32:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலை-உயிரிழப்பு-உயர்வு/175-348029) · `ta`
+
+நாட்டில் சீரற்ற காலநிலையினால் ஏற்பட்ட அனர்த்தங்களால் உயிரிழந்தோரின் எண்ணிக்கை 17 ஆக உயர்வடைந்துள்ளது.
+
+அத்துடன், 142,624 குடும்பங்களைச் சேர்ந்த 479, 871 பேர் பாதிக்கப்பட்டுள்ளனர் என அனர்த்த முகாமைத்துவ நிலையத்தின் புதுப்பிக்கப்பட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/c7da0af3.json)
+
+---
 
 ### 2024-11-30 (Saturday)
 
@@ -2421,33 +2437,5 @@ In addition, 204 houses have been partially damaged due to inclementary conditio
 [Data](articles/e5cf913e.json)
 
 [Extended Data](ext_articles/e5cf913e.ext.json)
-
----
-
-### 35 MPs Application for Homes
-
-*2024-11-30 02:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இல்லங்களுக்காக-35-எம்-பிக்கள்-விண்ணப்பம்/175-348003) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-35 MPs applied for official homes. 25-30 former MP homes are being renovated. 108 total houses: 80 for ruling party, 28 for opposition. MPs over 40 km from Parliament can apply.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohanadeera said that 35 applications have been received for the official residences for Members of Parliament.
-
-25 to 30 homes redeemed by former MPs are currently being renovated.
-
-Out of the total 108 houses, there are 80 houses for the ruling party and 28 to the opposition members.
-
-Members of Parliament, who have registered posts beyond 40 kilometers from Parliament, said they can apply for official homes. (A)
-
-◼️
-
-[Data](articles/815d79b1.json)
-
-[Extended Data](ext_articles/815d79b1.ext.json)
 
 ---

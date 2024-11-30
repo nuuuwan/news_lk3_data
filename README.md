@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 16:41:28**
+As of **2024-11-30 17:11:30**
 
 ## Newspaper Stats
 
-*Scraped **57,734** Articles*
+*Scraped **57,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,67 @@ adalk | 5,446
 adaderanalk | 6,996
 tamilmirrorlk | 8,208
 virakesarilk | 9,429
-adaderanasinhalalk | 9,966
+adaderanasinhalalk | 9,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,733 (100.0%) of 57,734 articles have been extended.
+57,737 (100.0%) of 57,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
 
-### நாட்டின் பல பகுதிகளிலும் காற்றின் தரம் குறைந்தது
+### Landslide warnings for several areas
+
+*2024-11-30 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203899) · `si`
+
+Here's a summary of the landslide warnings in 200 characters:
+
+
+
+"Landslide warnings issued for Kandy, Kegalle, Matale, and Badulla districts. Affected areas: Udapura, Pathaduwa, Akurana, Warakapola, Rambukkana, Ambangangan Koralaya, Haldummulla, Ella. Warning effective from 4 PM today until tomorrow."
+
+🟩
+
+The National Building Results have taken steps to issue a pre-warning statement for several areas.
+
+The warning said that this warning is operating today from 4.00 pm tomorrow.
+
+Kandy District - Udapura, Udapura, Pathaduwa, Patinuwara, Patinuwara, Patinuwara, Akurana, Hatumbura, Tauhena, Hatabarada
+
+Kegalle District - Warakapola, Rambukkana, Ruwanwella, Galigamuwa, Galigamuwa, Udaramanica, Mawanella, Yatiyantota
+
+Matale District - Ambangangan Koralaya, Rattota, Ukuwela, Wilgamuwa, Naula, Yatawala, Laggala Pallepola, Gampaha
+
+Badulla District - Haldummulla, Ella, Lunugala, Soranatota, Mounama, Welimada, Badulla
+
+◼️
+
+[Data](articles/f962dd68.json)
+
+[Extended Data](ext_articles/f962dd68.ext.json)
+
+---
+
+### The quality of the air in many parts of the country
 
 *2024-11-30 16:23:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளிலும்-காற்றின்-தரம்-குறைந்தது/175-348011) · `ta`
 
-கொழும்பு உட்பட நாட்டின் பல பகுதிகளில் நிலவும் சீரற்ற காலநிலை காரணமாக இன்று  காற்றின் தர சுட்டெண் 92 - 120 வரை உள்ளதாக என தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+Air quality alert: Inclement weather causes AQI 92-120 in Colombo. May affect breathing. Seek medical advice if difficulties persist.
 
-இந்த நிலைமையினால் சுவாசிப்பதில் சிரமம் ஏற்படலாம் எனவும் அவ்வாறான சிரமங்கள் ஏற்பட்டால் வைத்திய ஆலோசனையை பெற்றுக்கொள்ளுமாறும் அந்த அமைப்பு தெரிவித்துள்ளது. R
+🟩
+
+Due to inclement weather in many parts of the country, including Colombo, the air quality index is 92 - 120, according to the National Building Research Institute.
+
+The organization said that this situation could cause difficulties in breathing and that if such difficulties, medical advice should be obtained.. Remble
 
 ◼️
 
 [Data](articles/72bbf55e.json)
+
+[Extended Data](ext_articles/72bbf55e.ext.json)
 
 ---
 
@@ -70,6 +108,36 @@ However, about 20 houses are still submerged in the Puttalam Anamaduwa area. Rem
 
 ---
 
+### Navy officer dies with an attack
+
+*2024-11-30 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203898) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Naval officer J.M.M.C. Jayakody (41) from Nittambuwa killed while patrolling near Navy Camp. He was stationed at Trincomalee Naval Base and died at Vavuniya Hospital.
+
+🟩
+
+Official officer, who was working to the rup of Poona, has died after the death of the wilderness.
+
+He is a 41 year old resident of Nittambuwa, J.MMC Jayakody.
+
+Our correspondent stated that the officer was in charge of the Tune Naval Base.
+
+He was attacked when he trawled near the Navy Camp at around 9:30 pm last night.
+
+He was admitted to the Vavuniya Base Hospital and has died.
+
+◼️
+
+[Data](articles/faec5874.json)
+
+[Extended Data](ext_articles/faec5874.ext.json)
+
+---
+
 ### ‘Manusath Derana’ continues relief efforts for flood-affected communities in North
 
 *2024-11-30 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103887/manusath-derana-continues-relief-efforts-for-flood-affected-communities-in-north) · `en`
@@ -87,6 +155,62 @@ In collaboration with the Sri Lanka Army, dry food items were distributed to aff
 [Data](articles/ba3381d7.json)
 
 [Extended Data](ext_articles/ba3381d7.ext.json)
+
+---
+
+### Anuradhapura Teaching Hospital rarebirth
+
+*2024-11-30 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203897) · `si`
+
+Rare quadruplet birth at Anuradhapura Teaching Hospital. Mother delivered four healthy babies via C-section. Hospital faces incubator shortage, risking premature infant care.
+
+🟩
+
+A twin birth is one of them, and the happiness of the parent is twice.
+
+Accordingly, Ada Derana was reported from Anuradhapura Teaching Hospital in Anuradhapura.
+
+The 4-year-old woman was owned by this lucky four-tribured child.
+
+She recently created these four twin children at the Anuradhapura Teaching Hospital.
+
+The nurses, including specialist doctors including the Anuradhapura Teaching Hospital, have been caught in the mother calamity.
+
+Doctors say that these children who saw the light of Caesarean surgery are in good health in the premature baby unit.
+
+Four Twin in the Anuradhapura Teaching Hospital has become an important event to the hospital due to the first time.
+
+Speaking on the matter, Mr. Dinesh Biyagama said this.
+
+...
+
+[Data](articles/1fb2d645.json)
+
+[Extended Data](ext_articles/1fb2d645.ext.json)
+
+---
+
+### ආපදාවලින් පීඩාවට පත් ජනතාව සොයා මනුසත් දෙරණ තවත් මෙහෙයුමක්
+
+*2024-11-30 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203895) · `si`
+
+මෙරට ආපදා අවස්ථාවලදී පීඩාවට පත් ජනතාව වෙනුවෙන් සහන සැලසීම සිය ප්‍රමුඛ කාර්යය කරගත් මනුසත් දෙරණ, මෙවරත් අයහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම වෙනුවෙන් ඉදිරිපත්වී සිටී.
+
+ඩයලොග් සමග අත්වැල් බැඳගනිමින් "මනුසත් දෙරණ" මෙම ක්‍රියාන්විතය අද (30) දෙවන දිනටත් දියත් කළේය.
+
+මෙරට ආපදා තත්ත්වයක් ඇතිවූ සෑම අවස්ථාවකදීම මනුසත් දෙරණ සිය යුතුකම නොපිරිහෙලා ඉටු කරමින් සහන සැලසීමට ඉදිරිපත් වූයේ අපේම ලක්වාසි ජනතාවට අස්වැසිල්ලක් වීමේ අරමුණින්ය.
+
+ඒ අනුව, උතුරේ පීඩාවට පත් ජනතාව සඳහා ද්‍රව්‍යාධාර රැගත් මනුසත් දෙරණ කණ්ඩායම් පසුගියදා වව්නියාව බලා ගමන් ආරම්භ කළේය.
+
+ද්‍රව්‍යාධාර රැගත් අප කණ්ඩායම් වව්නියාව දිස්ත්‍රික්කයට ළඟා වුණේ ගංවතුරෙන් අවතැන්වී සහන කඳවුරුවල වෙසෙන ජනතාවට පිළිසරණක් වෙමින්ය.
+
+ඔවුන්ට පිසීම සඳහා වියළි ආහාර ද්‍රව්‍ය යුද හමුදාවේ දායකත්වයෙන් බෙදා දීම මෙහිදී සිදුකෙරුණි.
+
+වව්නියාව, කුරුක්කල්පුදුක්කුලම් අවතැන් කඳවුර වෙතද ගිය මනුසත් දෙරණ එහි රැඳීසිටින ජනතාව වෙනුවෙන් පිසීම සඳහා වියළි ආහාර ද්‍රව්‍ය ලබාදීම සිදුකළේය.
+
+...
+
+[Data](articles/8b5656b1.json)
 
 ---
 
@@ -2257,109 +2381,5 @@ Deputy Minister of Agriculture Namal Karunaratne says that compensation is compe
 [Data](articles/f5b75b52.json)
 
 [Extended Data](ext_articles/f5b75b52.ext.json)
-
----
-
-### Incidents in several places in the Calcutta Police Division
-
-*2024-11-29 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200042) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Thieves struck multiple homes in Calcutta Police Division on Thursday night. Break-ins reported in Latadichenai and Pettale Grama Sevaka Divisions. Valuables stolen. Crime Forensic Division investigating with K9 unit. Police advise residents to secure belongings. Inclement weather may have contributed to increased theft."
-
-🟩
-
-Calcutta police said that there were incidents of theft on Thursday night (29) at different locations in the Calcutta Police Division.
-
-These incidents have taken place in the Grama Sevaka Divisions of Latadichenai and Pettale. The doors and windows of the house have been broken and valuable home appliances.
-
-The Batticaloa Crime Forensic Division has been summoned to the scene and is being investigated with the help of a mop Shakti dog to catch the thieves.
-
-The police have also asked the people of the area to keep up with the people to protect their belongings from the thieves.
-
-Due to the inclement weather in the district, the normalcy of the people is affected by the displaced camp and the homes of relatives.. The theft has been used using this unusual situation.
-
-◼️
-
-[Data](articles/32f0d737.json)
-
-[Extended Data](ext_articles/32f0d737.ext.json)
-
----
-
-### Four people arrested with Kerala ganja in Talaimannar
-
-*2024-11-29 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200032) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Four arrests made in Talaimannar: four men aged 24, 28, 29, 32 caught with 60kg of Kerala cannabis.
-
-🟩
-
-Four persons were arrested by the Kerala ganja in the area of ​​the Talaimannar police division yesterday (28).
-
-The suspects are aged 24, 28, 29 and 32 from Kesale, Sirithoppu.
-
-60 kg of 120 grams of Kerala cannabis has been seized from the arrested suspects.
-
-◼️
-
-[Data](articles/9b77354f.json)
-
-[Extended Data](ext_articles/9b77354f.ext.json)
-
----
-
-### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
-
-*2024-11-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
-
-The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
-
-...
-
-[Data](articles/7b4fd7e2.json)
-
-[Extended Data](ext_articles/7b4fd7e2.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-11-29 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203874) · `si`
-
-Cyclone warning issued for coastal areas. Heavy rainfall expected in northern and western provinces. Strong winds forecasted. Meteorology Department advises caution.
-
-🟩
-
-Issued on deep and shallow sea areas around the island and the weather for land.
-
-The Meteorology Department is notified that the public is notified today (29).
-
-The deep pressure depression in the southwest Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bengal has grown to a cyclone.
-
-The Department of Meteorology announces more likely to travel to the Western towards Western towards the Western and a cynamo.
-
-Today, the effect of this system will gradually reduce the effect of this system to the weather in the island after today.
-
-Showers or thundershowers at times in the North and the North and North-Central provinces and in Trincomalee district.
-
-MM to certain places in the Northern Province. Heavy rains may occur at more than 100.
-
-Showers will occur at several places in the Western, Sabaragamuwa and North Western provinces and at times in Galle, Matara, Matale and Kandy districts.
-
-Showers or thundershowers will occur at several places in the evening or night.
-
-...
-
-[Data](articles/ef639584.json)
-
-[Extended Data](ext_articles/ef639584.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 23:26:06**
+As of **2024-11-30 23:12:39**
 
 ## Newspaper Stats
 
-*Scraped **57,770** Articles*
+*Scraped **57,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,67 +20,17 @@ adalk | 5,449
 adaderanalk | 7,002
 tamilmirrorlk | 8,213
 virakesarilk | 9,433
-adaderanasinhalalk | 9,984
+adaderanasinhalalk | 9,976
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,762 (100.0%) of 57,770 articles have been extended.
+57,762 (100.0%) of 57,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
-
-### IMF වැඩපිළිවෙළ ඉදිරියට යාම ගැන රනිල්ගෙන් අනුරට ප්‍රශංසා
-
-*2024-11-30 23:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203914) · `si`
-
-වර්ථමාන රජය IMF වැඩපිළිවෙළට අනුගතව වෙමින් ඉදිරියට යාම ගැන තමන් ජනාධිපතිවරයාට ප්‍රශංසා කර බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-හිටපු ජනාධිපතිවරයා මේ බව පැවසුවේ අද (30) පස්වරුවේ අමාරි හෝටල් ජාලයට අයත් අමාරි කලම්බෝ හෝටලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
-
-අමාරි කලම්බෝ හෝටල් ජාලය ශ්‍රී ලාංකික තනි ව්‍යවසායකයෙකුට අයත් කොළඹ පිහිටි තරු පහේ පළමු ජාත්‍යන්තර හෝටලයයි.
-
-එහි අධිපතිත්වය දරනුයේ විනිල් මැණික් අධිපති ඩබ්ලිව් විණිල් මහතා විසිනි.
-
-එම හෝටලය විවෘත කිරීමේ අවස්ථාවට හිටපු ජනපති රනිල් වික්‍රමසිංහ, අමාත්‍ය විජිත හේරත්, මෙන්ම විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු ආරාධිතයින් රැසක් එක්ව සිටියේය.
-
-"මේ රටේ ආර්ථිකය කඩා වැටුණු අවස්ථාවේදී ආර්ථිකය ගොඩගන්න නම් ඉස්සෙල්ලාම තිබුණේ මේ රටේ තියන ධාරිතාව සම්පූර්ණයෙන්ම යළිත් ක්‍රියාත්මක කරන්න. වර්ථමාන ජනාධිපති අනුර දිසානායක මැතිතුමා මුදල් ඇමති හැටියටත් ආණ්ඩුවත්  IMF සංවිධානය සමග එකඟ වූ රාමුව ඉදිරියට ගෙන යාම ගැන මගෙත් සතුට ප්‍රකාශ කරනවා. මොකද අපිට ඒකෙන් පිට යන්න බැහැ. එතැනදි අපේ පවතින ධාරිතාව සම්පූර්ණ වුණාට පස්සේ අපිට අලුත් මාර්ග සොයන්න වෙනවා."
-
-◼️
-
-[Data](articles/045d18ac.json)
-
----
-
-### දිවයිනේ ප්‍රධාන නගර 12ක වායු ගුණ තත්ත්වය සෞඛ්‍යයට අහිතකර වෙයි
-
-*2024-11-30 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203913) · `si`
-
-අද රාත්‍රි 9 පමණ වනවිට දිවයින වටා නගර සහ ප්‍රදේශ 12ක පමණ වායු ගුණත්ව තත්ත්වය සෞඛ්‍යයට අහිතකර මට්ටමට පැමිණ තිබුණි.
-
-ඒ රත්නපුර, කිලිනොච්චිය, ගම්පහ, ත්‍රිකුණාමලය, අම්බලන්ගොඩ, දඹුල්ල, ගාල්ල,මීගමුව, පුත්තලම, මහියංගනය ,කුරුණෑගල හා කලාවැව යන ප්‍රදේශවලය.
-
-වායු ගුණ තත්ත්ව දර්ශකය හෙවත් SL AQI හි අගය 0ත් 50ත් අතර යනු යහපත් මට්ටම වන අතර, එය 51 -100 අතර මධ්‍යස්ථ මට්ටමක් වේ.
-
-නමුත් අගය 101ත් - 150ත් අතර සුළු වශයෙන් අහිතකර වන අතර එම අගය 151 – 200 දක්වා අහිතකර මට්ටමක් ලෙසින් සැලකේ.
-
-මෙවැනි පසුබිමක ඊයේ මෙන්ම අද දිනයේත් මෙරට ප්‍රධාන නගර රැසකම වායු ගුණ තත්ත්වයේ අගය 101 ඉක්මවා ගොස් තිබුණි.
-
-කොළඹ නගරයේ වායු ගුණ තත්ත්වයේ අගය ඊයේ 104ක් වූ අතර එය අද 108ත් - 116ත් අතර අගයක් දක්වා ඉහළ ගොස් තිබුණි.
-
-මීට අමතරව කළුතර නගරයේ ද වායු ගුණ තත්ත්වය අගය අද 98ත් 104 අතර පැවතුණි.
-
-එමෙන්ම මහනුවර වායු ගුණ තත්ත්වය 106ත් - 114ත් මට්ටමේත් , අනුරාධපුර නගරයේ වායු ගුණ තත්ත්වය 100ත් - 118ත් අතර පැවති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පැවසීය.
-
-යාපනය නගරයේ වායු ගුණ තත්ත්වයේ අගයත් අද 120ට ආසන්න වී තිබුණි.
-
-...
-
-[Data](articles/32b3489a.json)
-
----
 
 ### Sri Lanka better equipped to address future marine disasters - experts
 
@@ -99,120 +49,6 @@ He also stressed that most disasters cannot be managed by a single country, unde
 [Data](articles/c580b9a5.json)
 
 [Extended Data](ext_articles/c580b9a5.ext.json)
-
----
-
-### වෙළෙඳපොළේ ලාෆ්ස් ගෑස් හිඟයක්
-
-*2024-11-30 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203912) · `si`
-
-රට තුළ නිර්මාණය වී ඇති ලාෆ්ස් ගෑස් හිඟය පිළිබඳව රජයේ අවධානය යොමු වී ඇතැයි වෙළෙඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පවසයි.
-
-ගෑස් අලෙවි නියෝජිතයින් සඳහන් කළේ ඉකුත් සැප්තැම්බර් මාසයේ සිට වෙළෙඳපොළට ලාෆ්ස් ගෑස් නිකුත් කර නොමැති බවය.
-
-දැනට සති කිහිපයක සිටම රට තුළ ලාෆ්ස් ගෑස් හිඟයක් නිර්මාණය වී තිබුණි.
-
-පාරිභෝගිකයින් සහ වෙළෙඳුන් ද මේ හේතුවෙන් පත්ව සිටින්නේ දැඩි අපහසුතාවටය.
-
-ඒ අනුව මේ පිළිබඳ අද දෙරණ ලාෆ්ස් ගෑස් සමාගමෙන් විමසීමක් කළේය.
-
-"මූලික පිරව්ම් පර්යන්තය තියෙන ස්ථානය වන මාබිම අවට ප්‍රදේශය ගංවතුරට යටවීමෙන් බෙදාහරීම් අක්‍රිය වුණා. ඒ සමගම හම්බන්තොට පර්යන්තයට ගෑස් ගෙනඑන නැවක ප්‍රමාදයක් වුණා. මේ නිසා පසුගිය කාලයේ ගෑස් දෙන්න නොහැකි වුණා. දැනටත් ඒ නැවෙන් ගෑස් ගොඩබෑම සිදුවෙනවා. අපි ඊයේ සිට ක්‍රියාත්මක වෙලා. පසුගිය පැය 24 තුළ බෙදාහැරීම් කටයුතු සිදුකළා."
-
-◼️
-
-[Data](articles/f8fe0119.json)
-
----
-
-### සයිනොපෙක් ඉන්ධන මිලට වෙන දේ
-
-*2024-11-30 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203911) · `si`
-
-අද (30) සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
-
-නිවේදනයක් නිකුත් කරමින් එම සමාගම පවන්නේ ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ මිල ගණන් වලට සමානව තම සමාගමේ ඉන්ධන මිල ගණන්ද සංශෝධනය කරන බවයි.
-
-අද මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබුණි.
-
-ඔක්ටේන් 92 පෙට්‍රල් රුපියල් නව මිල රුපියල් 02කින් අඩු කර ඇති අතර එහි නව මිල 309කි.
-
-ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 286කි.
-
-ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 188කි.
-
-අනෙකුත් ඉන්ධන මිල ගණන් සංශෝධනය කර නොමැති අතර එම මිල ගණන් පෙර පැවැති මිල ගණන් යටතේ අලෙවි වනු ඇත.
-
-◼️
-
-[Data](articles/667c59eb.json)
-
----
-
-### අම්පාරේ ට්‍රැක්ටරය සැඩපහරට හසුවූ හැටි දිවිගලවා ගත් සිසුවෙකු හෙළිකරයි
-
-*2024-11-30 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203909) · `si`
-
-පසුගිය 26 වැනිදා අම්පාර කාර්තිව් ප්‍රදේශයේ දී ට්‍රැක්ටර් රථයක් සැඩපහරට හසුව පෙරළීයාමෙන් මියගිය පාසල් සිසුන් ඇතුළු 08 දෙනෙකුගේ මළ සිරුරු මේ වනවිට සොයාගෙන තිබේ.
-
-එලෙස දියේ ගිලී අතුරුදන් වූ තවත් සිසුවෙකුගේ මළ සිරුරක් අද සොයාගත්තේය.
-
-ඒ නාවික හමුදාව, පොලීසිය සහ ප්‍රදේශවාසීන් එක්ව සිදුකළ සෝදිසි මෙහෙයුමකදීය.
-
-අදාළ අනතුරින් දිවිගලවා ගත් සිසුවෙක් අනතුර සම්බන්ධයෙන් මෙලෙස අදහස් පළ කළේය.
-
-...
-
-[Data](articles/3cf275d5.json)
-
----
-
-### ලංකා IOC ඉන්ධන මිලත් සංශෝධනය කෙරේ
-
-*2024-11-30 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203908) · `si`
-
-ලංකා IOC සමාගම ද සිය ඉන්ධන මිල ගණන් සම්බන්ධයෙන් දැනුම්දීමක් සිදුකර තිබේ.
-
-ඒ අනුව සිපෙට්කෝ ඉන්ධන මිල ගණන් අනුව ලංකා IOC ඉන්ධන මිල ගණන් ද සංශෝධනය කරන බවද එම සමාගම දැනුම්දෙයි.
-
-අද (30) දින මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබුණි.
-
-ඔක්ටේන් 92 පෙට්‍රල් රුපියල් නව මිල රුපියල් 02කින් අඩු කර ඇති අතර එහි නව මිල 309කි.
-
-ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 286කි.
-
-ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 188කි.
-
-අනෙකුත් ඉන්ධන මිල ගණන් සංශෝදනය වී නොමැති අතර එම මිල ගණන් පෙර පැවැති මිල ගණන් යටතේ අලෙවි වනු ඇත.
-
-◼️
-
-[Data](articles/912bd17b.json)
-
----
-
-### නිර්මාණශීලී කර්මාන්තයේ නවමු සන්ධිස්ථානයක් සනිටුහන් කරමින් මෝගෝ මීඩියා ඇකඩමිය ඇරඹෙයි
-
-*2024-11-30 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203907) · `si`
-
-ශ්‍රී ලංකාවේ නිර්මාණශීලී කර්මාන්තයේ නවමු සන්ධිස්ථානයක් සනිටුහන් කරමින් මෝගෝ මීඩියා ඇකඩමිය අද (30) ආරම්භ කෙරිණි.
-
-තරුණ පරම්පරාවට වෘත්තීය ගෝලීය වෙළෙඳපොළේ ජයග්‍රහණය සඳහා අවශ්‍ය අභිමානවත් නිපුණතා ලබාදීම මෙහි මූලික අරමුණ වේ.
-
-නව තාක්ෂණය මුසු Animation ක්‍රියාකාරකම් නූතන සිනමාවේ සහ විද්‍යුත් මාධ්‍යයේ ඉදිරියට යාම සඳහා අත්‍යවශ්‍ය සාධකයකි.
-
-මෝගෝ මීඩියා ඇකඩමිය ස්ථාපිත කෙරුණේ ඒ වෙනුවෙන් දක්ෂයන් බිහිකිරීම අරමුණු කර ගනිමිනි.
-
-ඒ අනුව කොළඹ 10, සේරම් පෙදෙසේ පිහිටි මෝගෝ මීඩියා ඇකඩමියේදි අද එහි පළමු කණ්ඩායම ලියාපදිංචිය සිදු කෙරිණි.
-
-30 දෙනෙකුගෙන් යුත් එම පළමු කණ්ඩායම Animation සහ Game Development ඩිප්ලෝමා සඳහා එක්ව සිටියි.
-
-මොගෝ මීඩියා ඇකඩමිය මගින් ජීව Animation,Game Development, VFX, Concept Art,Modeling and Texturing ඩිප්ලෝමා හැදෑරීමට ඕනෑම අයෙකුට අවස්ථාව හිමි වන අතර මෙම ඩිප්ලෝමා සියල්ල වසරක අධ්‍යයන කාලයකින් සමන්විතය.
-
-ඔවුන්ට අන්තර්ජාතික සුදුසුකම්ලත් ආචාර්ය මණ්ඩලයක් මගින් මාර්ගෝපදේශ හිමිවන්නේ ගෝලීය වෙළඳපොලේ අවශ්‍යතාවන්ට ගැලපෙන අධ්‍යාපනයක් ලබාදෙමිනි.
-
-...
-
-[Data](articles/9508fec5.json)
 
 ---
 
@@ -277,28 +113,6 @@ Meanwhile, the Lanka Indian Oil Corporation (LIOC) too have decided to revise it
 [Data](articles/9e58fe9e.json)
 
 [Extended Data](ext_articles/9e58fe9e.ext.json)
-
----
-
-### ඉන්ධන මිල සංශෝධනය කෙරේ
-
-*2024-11-30 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203906) · `si`
-
-අද (30) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
-
-ඒ අනුව රුපියල් 311ක්ව පැවති ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 02 කින් අඩුකර කර ඇති අතර, එහි නව මිල රුපියල් 309කි.
-
-ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල වෙනස් නොවන අතර එහි මිල 371කි.
-
-ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03 කින් වැඩි කර ඇති අතර  එහි නව මිල රුපියල් 286 ක් වනු ඇත.
-
-ලංකා සුපර් ඩීසල් ලීටරයක මිල රුපියල් වෙනස් නොකර ඇති අතර එහි මිල 313කි.
-
-ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල 188කි.
-
-◼️
-
-[Data](articles/f3c48251.json)
 
 ---
 
@@ -2365,5 +2179,155 @@ The Geoffrey Bawa Trust continues to engage with Sri Lankan artisans and makers 
 [Data](articles/c6155ea5.json)
 
 [Extended Data](ext_articles/c6155ea5.ext.json)
+
+---
+
+### Anticipated boom in tourism sees notable appreciation in hotel sector shares
+
+*2024-11-30 01:51:00* · [`islandlk`](http://island.lk/anticipated-boom-in-tourism-sees-notable-appreciation-in-hotel-sector-shares/) · `en`
+
+The stock market yesterday was active in respect of both retail and institutional investor participation, but it was mainly driven by the hotel sector, which saw a notable price appreciation as industry stakeholders anticipate a major boom in the travel and tourism sector in the coming months, stock market analysts said.
+
+Amid those developments mixed reactions were witnessed in both indices. The All Share Price Index went up by 24.60 points while S and P SL20 declined by 9.65 points.
+
+...
+
+[Data](articles/9b1b7d65.json)
+
+[Extended Data](ext_articles/9b1b7d65.ext.json)
+
+---
+
+### amanté customers to benefit from revolutionary new XSPLIT payment scheme facilitated by WEBXPAY
+
+*2024-11-30 01:51:00* · [`islandlk`](http://island.lk/amante-customers-to-benefit-from-revolutionary-new-xsplit-payment-scheme-facilitated-by-webxpay/) · `en`
+
+In alignment with its digital strategy, amanté has tied up with WEBXPAY -the premier digital payment solutions provider in Sri Lanka- to give its customers even more reason to shop at the brand’s stores island-wide. The first retailer in the country to do so, Sri Lanka’s leading intimate apparel label has now introduced XSPLIT; a ‘Buy Now Pay Later’ (BNPL) scheme allowing consumers to purchase products on the spot and pay in more comfortable payment terms later.
+
+Anticipated boom in tourism sees notable appreciation in hotel sector shares
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/f192a182.json)
+
+[Extended Data](ext_articles/f192a182.ext.json)
+
+---
+
+### ‘SLPA takes measured approach towards Adani’s Colombo port deal’
+
+*2024-11-30 01:48:00* · [`islandlk`](http://island.lk/slpa-takes-measured-approach-towards-adanis-colombo-port-deal/) · `en`
+
+The Sri Lanka Ports Authority (SLPA) has affirmed its commitment to maintaining stability regarding the Colombo West International Terminal project, led by the Adani Group, amidst ongoing allegations in the U.S. against the conglomerate’s top executives. SLPA Chairman Admiral Sirimewan Ranasinghe (Retd) has emphasized that there is no immediate plan to reassess or terminate the agreement.
+
+“Nothing is discussed about cancelling the deal at all,” Ranasinghe clarified, speaking to Indian business newspaper Economic Times. He highlighted that the Adani Group has met its obligations under the agreement, bringing in necessary investments and equipment. Furthermore, he pointed out that the project has consistently progressed according to plan, making it a valuable part of Sri Lanka’s economic infrastructure.
+
+...
+
+[Data](articles/6a82b01e.json)
+
+[Extended Data](ext_articles/6a82b01e.ext.json)
+
+---
+
+### 15 people die due to random weather
+
+*2024-11-30 01:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-15-பேர்-உயிரிழப்பு/175-348002) · `ta`
+
+15 deaths reported due to severe weather. Search ongoing for 1 missing person. 20 injuries recorded. 463-569 individuals affected across 138-191 families.
+
+🟩
+
+The death toll of the casualties due to inclement weather has increased to 15, the Disaster Management Center said in a renewed report.
+
+At the same time, a missing person is continuing to search and 20 people have been injured.
+
+In addition, 463 and 569 people from 138 and 191 families have been affected by inclement weather. (A)
+
+◼️
+
+[Data](articles/6c3947df.json)
+
+[Extended Data](ext_articles/6c3947df.ext.json)
+
+---
+
+### Union Assurance unveils ‘Suwamaga Mobile Screening Unit’ to combat diabetes in Sri Lanka
+
+*2024-11-30 01:15:00* · [`islandlk`](http://island.lk/union-assurance-unveils-suwamaga-mobile-screening-unit-to-combat-diabetes-in-sri-lanka/) · `en`
+
+Union Assurance, Sri Lanka’s premier Life Insurer, continues to enrich community well-being through its flagship CSR programme, Suwamaga. Aligned with its brand purpose of protecting lives and enriching the well-being of all, the Company launched Suwamaga—a nationwide initiative to address the growing prevalence of diabetes in Sri Lanka.  This comprehensive programme is designed holistically to guide individuals toward better health outcomes with a focus on raising awareness about diabetes, promoting healthier lifestyles, supporting early detection and risk management and fostering community engagement.
+
+...
+
+[Data](articles/7ffbe1f2.json)
+
+[Extended Data](ext_articles/7ffbe1f2.ext.json)
+
+---
+
+### SLT-MOBITEL partners with EGUARDIAN to enhance Zoho accessibility for MSMEs in Sri Lanka
+
+*2024-11-30 01:15:00* · [`islandlk`](http://island.lk/slt-mobitel-partners-with-eguardian-to-enhance-zoho-accessibility-for-msmes-in-sri-lanka/) · `en`
+
+SLT-MOBITEL Enterprise has signed a strategic reseller agreement with EGUARDIAN Pvt. Ltd, aimed at enhancing the accessibility of Zoho’s comprehensive suite of productivity and business management tools for Micro and Small & Medium Enterprises (MSMEs) in Sri Lanka. This partnership is expected to significantly bolster digital transformation and operational efficiency within the region.
+
+The agreement was signed by Prabhath Dahanayake, Chief Marketing Officer of SLT-MOBITEL, and Mafaz Fahrid, Chief Executive Officer of EGUARDIAN Pvt. Ltd., with several other officials from both organizations in attendance for this occasion. This collaboration will leverage Zoho’s extensive range of cloud-based applications, including Zoho Financial Suite, Zoho Workplace, and Zoho Marketing Plus, to empower local businesses to streamline operations and enhance customer relationships.
+
+...
+
+[Data](articles/9e5eca06.json)
+
+[Extended Data](ext_articles/9e5eca06.ext.json)
+
+---
+
+### Technology and human judgement
+
+*2024-11-30 00:59:00* · [`islandlk`](http://island.lk/technology-and-human-judgement/) · `en`
+
+A tragic incident where a car, reportedly guided by Google Maps, plunged off a bridge under construction, killing three persons in India has sparked a debate on whether online navigation apps should be held responsible for such mishaps. There are arguments for and against the culpability of the providers of online navigation services in respect of incidents of that nature, which however are rare.
+
+The above-mentioned accident and the debate thereon are of much relevance to Sri Lankans, many of whom use Google Maps, daily. Those who are engaged in food delivery, e-commerce, ride-hailing transport, etc., cannot do without online navigation. Gone are the days when directions were given verbally; anyone who cannot provide or follow ‘locations’ online is considered a dinosaur, today. Most people across the globe cannot think of a day without Google Maps and other such online navigation platforms.
+
+...
+
+[Data](articles/773e1266.json)
+
+[Extended Data](ext_articles/773e1266.ext.json)
+
+---
+
+### South Africa on the brink of success;Sri Lanka is facing the first defeat in Durban
+
+*2024-11-30 00:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200049) · `ta`
+
+South Africa leads 1-0 in 2-match series after dominating first Test. Sri Lanka faces first defeat at Durban, questioning World Test Championship hopes.
+
+🟩
+
+Sri Lanka has been defeated in the playground for the first time, which has not lost three Tests in the previous three Tests at the Durban Kingsmate Stadium against South Africa.
+
+South Africa dominated the first Test cricket match between the two teams on the 2nd and 3rd on the 2nd, and is in a strong position to lead 1 - 0 in a 2 -match series.
+
+Sri Lanka's expectation of qualifying for the World Test Championships Final has been questioned.
+
+Sri Lanka, who batted in the 2nd innings, scored 103 runs at the end of today's 3rd day's play.
+
+Priority players Bethum Nissank (23), Timuth Karunaratne (4), Angelo Mathews (25) and Kamindu Mendis (10) are the losers.
+
+Dinesh Chandimal has 29 runs and team captain Tanjaya de Silva has not lost.
+
+Maco Jensen took 2 wickets for 22 runs, Kekiso Rabada took 3 wickets for 34 runs while Gerald Goetzi took one wicket for 39 runs.
+
+...
+
+[Data](articles/ff744137.json)
+
+[Extended Data](ext_articles/ff744137.ext.json)
 
 ---

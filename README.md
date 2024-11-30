@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 05:50:36**
+As of **2024-11-30 08:50:44**
 
 ## Newspaper Stats
 
-*Scraped **57,691** Articles*
+*Scraped **57,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,129 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,985
-tamilmirrorlk | 8,199
+tamilmirrorlk | 8,202
 virakesarilk | 9,424
-adaderanasinhalalk | 9,956
+adaderanasinhalalk | 9,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,671 (100.0%) of 57,691 articles have been extended.
+57,680 (100.0%) of 57,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### The impact of the winds up gradually decreases
+
+*2024-11-30 08:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றழுத்த-தாழ்வின்-தாக்கம்-படிப்படியாக-குறையும்/175-348005) · `ta`
+
+Deep winds in SW Bengal Bay Sea impact decreasing. Expected to move towards Tamil Nadu coast. Heavy rainfall likely in Northern Province today.
+
+🟩
+
+The Department of Meteorology has predicted that the impact of the deep winds in the Southwest Bengal Bay Sea is expected to gradually decrease.
+
+The deep winds are at around 11.30 pm yesterday (28) at around 11.30 pm on the southwestern Bengal bay, about 240 km north of Trincomalee and 290 km east of the Kankesanthurai.
+
+It is expected to move towards the coast of Tamil Nadu in the northwestern direction.
+
+Accordingly, rain or thunderstorms are expected in the northern and northern provinces of the country and the Trincomalee district today.
+
+The Department of Meteorology has said that heavy rainfall is likely to occur over 100 millimeters in some places in the Northern Province.. (A)
+
+◼️
+
+[Data](articles/a0bae5d3.json)
+
+[Extended Data](ext_articles/a0bae5d3.ext.json)
+
+---
+
+### Youth arrested for Facebook
+
+*2024-11-30 08:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முகநூல்-பதிவுக்காக-இளைஞர்-கைது/175-348004) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Youth arrested: Jaffna & Awil area. By Terrorist Prevention Division. Further investigation ongoing.
+
+🟩
+
+A youth from the Jaffna and Awil area has been arrested by the Terrorist Prevention Division.
+
+Further investigations are being carried out by the Terrorist Prevention Unit. (A)
+
+◼️
+
+[Data](articles/7030e0e7.json)
+
+[Extended Data](ext_articles/7030e0e7.ext.json)
+
+---
+
+### Ohegama Police officer arrested
+
+*2024-11-30 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203885) · `si`
+
+Negombo Police CID Chief Inspector arrested for bribery over Rs 270,000 air conditioner deal in car rental dispute case.
+
+🟩
+
+The Chief Inspector of Police (CID) has been arrested by the Bribery and Corruption Commission (CID) in the Negombo Police Criminal Investigation Division regarding a bribery.
+
+The police officer has asked for bribe an air conditioner worth Rs 270,000 to assist a dispute on a car given on a rent basis and to obtain the car.
+
+The Bribery Investigation Commission (Investigation Commission) stated that the amount of money has been credited to the manager's account of the stock of the air conditioning.
+
+Accordingly, the arrest was made under the charge of bribes.
+
+◼️
+
+[Data](articles/ea995b4e.json)
+
+[Extended Data](ext_articles/ea995b4e.ext.json)
+
+---
+
+### The latest condition of the fengel
+
+*2024-11-30 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203884) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Storm Fengal: 280 affected in NE Sri Lanka. Moving NW, expected to hit tonight. Heavy rain in Northern Province & Trincomalee. Showers in Kandy, Nuwara Eliya, Galle, Matara. Thunderstorms forecasted with strong winds (50-55 mph). Public advised to prepare for temporary power outages and lightning."
+
+🟩
+
+Hurricane Fengal (Fengal) in the Bay of Bay of Bay of Baying area. At around 11.30 km. About 360 km from the Kankasanthurai. According to the Department of Meteorology, about 280 people were in the northeast.
+
+It will reach North Western and reach the North in the evening in the evening.
+
+Accordingly, the effects of this system in the island's weather is gradually diminishing this morning.
+
+However, in the Northern Province and the Trincomalee district are heavy, and at times.
+
+Mm especially in the Northern Province. 75 works at strict showers at 75.
+
+Showers will occur at times in the Kandy, Nuwara Eliya, Nuwara Eliya, Galle and Matara districts and several showers in the Western, North Western and North-central areas.
+
+Showers or thundershowers will occur at several places in the evening or night in the evening or night.
+
+From time to time in the North, North Central, North Western, East, Central and Southern provinces.. The Met Department forecasts that strong winds could be caused by 50-55.
+
+...
+
+[Data](articles/d32a1538.json)
+
+[Extended Data](ext_articles/d32a1538.ext.json)
+
+---
 
 ### Global negotiation outcomes on climate finance and adaptation: The road ahead after COP29
 
@@ -76,6 +186,8 @@ In 1984, in an interview with Anita Pratap, Velupillai Prabhakaran, leader of th
 
 [Data](articles/36975e90.json)
 
+[Extended Data](ext_articles/36975e90.ext.json)
+
 ---
 
 ### Pathfinder Foundation hosts 5th Dialogue with Diplomats on “Great Power Competition in Indo-Pacific”
@@ -90,6 +202,8 @@ Lead Presenter General Sir John Kotelawala Defence University Centre for Strateg
 
 [Data](articles/fce18000.json)
 
+[Extended Data](ext_articles/fce18000.ext.json)
+
 ---
 
 ### What was 29% of N-E Tamils’ mandate for NPP Government?
@@ -103,6 +217,8 @@ Plenty is written about the JVP-led NPP in 2024 September-November elections, wi
 ...
 
 [Data](articles/014074df.json)
+
+[Extended Data](ext_articles/014074df.ext.json)
 
 ---
 
@@ -119,6 +235,8 @@ Migration has been a part of human existence for centuries. Today, people migrat
 ...
 
 [Data](articles/111e0289.json)
+
+[Extended Data](ext_articles/111e0289.ext.json)
 
 ---
 
@@ -139,6 +257,8 @@ The title meaning, ‘Good governance’, fell far short by the time we exposed 
 ...
 
 [Data](articles/a40a222f.json)
+
+[Extended Data](ext_articles/a40a222f.ext.json)
 
 ---
 
@@ -419,6 +539,24 @@ In addition, 204 houses have been partially damaged due to inclementary conditio
 [Data](articles/e5cf913e.json)
 
 [Extended Data](ext_articles/e5cf913e.ext.json)
+
+---
+
+### இல்லங்களுக்காக 35 எம்.பிக்கள் விண்ணப்பம்
+
+*2024-11-30 02:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இல்லங்களுக்காக-35-எம்-பிக்கள்-விண்ணப்பம்/175-348003) · `ta`
+
+பாராளுமன்ற உறுப்பினர்களுக்கான உத்தியோகபூர்வ இல்லங்களுக்காக 35 விண்ணப்பங்கள் கிடைத்துள்ளன என்று   பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்துள்ளார்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர்களால் மீள ஒப்படைக்கப்பட்ட 25 முதல் 30 இல்லங்கள் தற்போது புனரமைக்கப்பட்டு வருகின்றன.
+
+மொத்தமுள்ள 108 இல்லங்களில் ஆளுங்கட்சி உறுப்பினர்களுக்கு 80 இல்லங்களும், எதிர்க்கட்சி உறுப்பினர்களுக்கு 28 இல்லங்களும் ஒதுக்கப்பட்டுள்ளன.
+
+பாராளுமன்றத்திலிருந்து 40 கிலோ மீற்றர்களுக்கு அப்பால் பதிவிடங்களைக் கொண்டுள்ள பாராளுமன்ற உறுப்பினர்கள், உத்தியோகபூர்வ இல்லங்களுக்காக விண்ணப்பிக்க முடியும் என்றார். (a)
+
+◼️
+
+[Data](articles/815d79b1.json)
 
 ---
 
@@ -2225,139 +2363,5 @@ Non-food annual inflation has been reduced to 3.3% to November 2024, and it was 
 [Data](articles/9491e5ec.json)
 
 [Extended Data](ext_articles/9491e5ec.ext.json)
-
----
-
-### Shani's FR Petition - A NOTIFY OF ADITER
-
-*2024-11-29 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203866) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Shani Abeysekara's FR petition challenges Wickremaratne & Kamal Gunaratne. Attorney General represents respondents. Supreme Court defers hearing until February 2025. Abeysekara became CID Director post-2019 election.
-
-🟩
-
-Former Inspector General of Former IGP, nounters appointed as respondents named by the former Director of the Criminal Investigation Shiani Abeysekara against his planning.. The Attorney General told the Supreme Court that Wickremaratne and former Manial Secretary retired Army Maj. Gen. General Kamal Gunaratne today.
-
-This petition is today. Turairaja, A. H. M. D. The three-member judges with Nawaz and Priyantha Fernando were called before the Supreme Court Bench.
-
-Additional Solicitor General's Treak Siriwardena, who appeared for the respondents, said:. D. Wickremaratne and former Defense Secretary stated that the Attorney General does not appear before the Army Majr Gunaratne.
-
-The panel of judges pointed out that the respondents have the ability to present private lawyers.
-
-The petition was then deferred until February, 2025, on February 3, 2025.
-
-...
-
-[Data](articles/b5d1ea4f.json)
-
-[Extended Data](ext_articles/b5d1ea4f.ext.json)
-
----
-
-### Six persons sentenced to death
-
-*2024-11-29 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203865) · `si`
-
-Colombo High Court sentences 6 to death for 2016 Narahenpita funeral dispute murder case. Long trial concludes with judge's verdict based on proven complaints. Two defendants died during proceedings.
-
-🟩
-
-The Colombo High Court sentenced six accused of killing a complaint with a dispute between two groups of funerals in Narahenpita in 2016.
-
-The decision by Colombo High Court Judge Adam Pabengal was given after a long trial.
-
-The case had been filed against eight accused by the Attorney General on the death of a clash between two groups of two groups in the Narahenpita, a clash between two groups of two members in Narahenpita.
-
-Two defendants were killed during the period of trial.
-
-After a long exam, the judge said that the complaints made by the complaints against the defendants had been proved to be convinced.
-
-◼️
-
-[Data](articles/b8ec8ac2.json)
-
-[Extended Data](ext_articles/b8ec8ac2.ext.json)
-
----
-
-### Extension of flood hazards
-
-*2024-11-29 14:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-347984) · `ta`
-
-Flood warning extended: Kalaoya affected for 24 hours. Motorists advised caution when crossing affected areas.
-
-🟩
-
-The Irrigation Department said this morning (29) that the flood warning issued to Kalaoya has been extended for 24 hours.
-
-In addition, the Irrigation Department has stated in its announcement that motorists traveling on the streets crossing the area will pay special attention to this.. Remble
-
-◼️
-
-[Data](articles/5a4dc9ac.json)
-
-[Extended Data](ext_articles/5a4dc9ac.ext.json)
-
----
-
-### Visit 1,776,889 foreign tourists from January to November!
-
-*2024-11-29 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199997) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-1,776,889 foreign tourists visited Sri Lanka Jan-Nov 2024. Notable increases from India (322,973), UK (146,670), Russia (137,599). Tourism rebounding after 2018 decline. Government aims for 40m visitors in 2025, projecting $8b revenue.
-
-🟩
-
-From January 2024 to November 26, 1,776,889 foreign tourists visited Sri Lanka. The Tourism Development Authority has announced that there is a large number of tourists from India, Britain and Russia.
-
-The number of foreign tourists has increased in 2024 compared to 2023. Tourist arrivals have risen every month.
-
-From January 2024 to November 26, only 1,776,889 foreign tourists visited.
-
-During this period, a large number of tourists from India, Britain and Russia visited Sri Lanka.
-
-There are 322,973 tourists from India, 146,670 tourists from Britain, 137,599 from Russia, 108, 788 from Germany and 105,574 tourists from China.
-
-The government has taken care of 40 million tourists in 2025. The government plans to raise $ 8 billion in revenue next year through tourism development.
-
-Sri Lanka's tourism industry has recently been uniform. In 2018, 2.3 million tourists visited Sri Lanka.
-
-...
-
-[Data](articles/4116161f.json)
-
-[Extended Data](ext_articles/4116161f.ext.json)
-
----
-
-### Two arrested with 301 cannabis plants and 2 domestic guns
-
-*2024-11-29 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199992) · `ta`
-
-Two arrests made: 47 & 68 yr olds found with 301 cannabis plants & 2 domestic guns in Vathegama & Ellanaagama areas.
-
-🟩
-
-Two persons have been arrested with ganja and domestic guns in the area belonging to the Vathegama and Ellanaagama police division.
-
-They were arrested on Thursday (28) during two rounds of operations carried out on the basis of information received by the Etimalai police station.
-
-The suspects are 47 and 68 years old from Kovibala and Vilaya.
-
-Police have seized 301 cannabis plants and 2 domestic guns from the suspects.
-
-◼️
-
-[Data](articles/1e2c1499.json)
-
-[Extended Data](ext_articles/1e2c1499.ext.json)
 
 ---

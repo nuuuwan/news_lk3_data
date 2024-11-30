@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 19:26:15**
+As of **2024-11-30 19:41:41**
 
 ## Newspaper Stats
 
-*Scraped **57,758** Articles*
+*Scraped **57,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,463
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,447
+adalk | 5,448
 adaderanalk | 7,001
 tamilmirrorlk | 8,212
 virakesarilk | 9,433
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,753 (100.0%) of 57,758 articles have been extended.
+57,753 (100.0%) of 57,759 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -37,6 +37,10 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-11-30 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103892/fuel-prices-revised) · `en`
 
 The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices effective from midnight today (30).
+
+Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 2 to Rs. 309 per litre, while the price of Kerosene has been increased by Rs. 5 to Rs. 188 per litre.
+
+However, the prices of Petrol 95 Octane, Auto Diesel and Super Diesel remain unchanged, according to Ceypetco.
 
 ◼️
 
@@ -261,6 +265,22 @@ The bodies of eight of the students who were killed in the incident have been re
 [Data](articles/7d432766.json)
 
 [Extended Data](ext_articles/7d432766.ext.json)
+
+---
+
+### මොරටුව වෛද්‍ය සිසුන්ට මහාචාර්ය පුහුණුව කලුතර නාගොඩ  ශික්ෂණ රෝහලේදී
+
+*2024-11-30 17:45:32* · [`adalk`](https://www.ada.lk/breaking_news/මොරටුව-වෛද්‍ය-සිසුන්ට-මහාචාර්ය-පුහුණුව-කලුතර-නාගොඩ--ශික්ෂණ-රෝහලේදී/11-413363) · `si`
+
+මොරටුව විශ්ව විද්‍යාලයේ වෛද්‍ය පීඨයේ ඉගෙනුම ලබන වෛද්‍ය සිසුන් සඳහා මහාචාර්ය පුහුණුව ලබා දීමට නිසි පහසුකම් හා අවශ්‍ය සම්පත් සහිත රෝහලක් නොතිබීමෙන් මතුව පැවති ගැටලුවට කඩිනම් විසදුම් ලබාදීමත්, මාලඹේ වෛද්‍ය නෙවිල් ප්‍රනාන්දු රෝහල කාර්යක්ෂම රෝහලක් ලෙස සංවර්ධනය කිරීම පිළිබදවත් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ අවධානය යොමුවී ඇත.
+
+ඒ අනූව එම ගැටලු සදහා විසදුම් සෙවීමේ විශේෂ සාකච්ඡාවක් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාග් ප්‍රධානත්වයෙන් පසුගියදා සෞඛ්‍ය අමාත්‍යාංශයේදී පැවැත්විණි.
+
+උසස් අධ්‍යාපන අමාත්‍යාංශය, සෞඛ්‍ය අමාත්‍යාංශය, මහා භාණ්ඩාගාරය, කළමණාකරණ සේවා දෙපාර්තමේන්තුව, මොරටුව විශ්ව විද්‍යාලය, විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, කලුතර නාගොඩ ශික්ෂණ රෝහල, නෙවිල් ප්‍රනාන්දු රෝහල, සහ මෙයට සම්බන්ධ සෙසු ආයතන නියෝජිතයන්ද මෙම සාකච්ඡාවට කැදවා තිබුනි.
+
+...
+
+[Data](articles/e526d4a5.json)
 
 ---
 
@@ -2283,31 +2303,5 @@ Immediately, the mudslides were put in the area and the repairing of the road wa
 [Data](articles/cb8b4fb0.json)
 
 [Extended Data](ext_articles/cb8b4fb0.ext.json)
-
----
-
-### Special notice for taxpayers
-
-*2024-11-29 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203883) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"2023/2024 Income Tax Report deadline: Submit now. Department of Inland Revenue HQ & branches open for assistance."
-
-🟩
-
-2023/2024 Last date of submitting income tax reports for the year valuation
-
-The Department says the headquarters of the Department of Inland Revenue, the Head Office of the Department of Inland Revenue and Urban Office is open as a normal working day for providing technical assistance.
-
-The Department of Inland Revenue is also open to the Inland Revenue Department Head Office and Bank branch located at the Inland Revenue Department and Bank branch located at the Inland Revenue Department.
-
-◼️
-
-[Data](articles/f328304f.json)
-
-[Extended Data](ext_articles/f328304f.ext.json)
 
 ---

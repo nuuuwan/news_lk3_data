@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 22:16:23**
+As of **2024-11-30 22:27:37**
 
 ## Newspaper Stats
 
-*Scraped **57,761** Articles*
+*Scraped **57,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,449
-adaderanalk | 7,001
+adaderanalk | 7,002
 tamilmirrorlk | 8,213
 virakesarilk | 9,433
 adaderanasinhalalk | 9,976
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,761 (100.0%) of 57,761 articles have been extended.
+57,761 (100.0%) of 57,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### Sri Lanka better equipped to address future marine disasters - experts
+
+*2024-11-30 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103893/sri-lanka-better-equipped-to-address-future-marine-disasters-experts) · `en`
+
+Marine pollution response experts claim that Sri Lanka is now better equipped with the knowledge and strategies to address future marine disasters, having learnt key lessons in that regard in the fallout of the ‘X-Press Pearl’ and ‘New Diamond’ shipwrecks.
+
+Bethany Graves, a representative from the Ocean Country Partnership Programme at the South Asia Co-operative Environment Programme Symposium in Sri Lanka, emphasized that the shipping disasters in Sri Lankan waters highlight the urgent need for preparedness and response programmes.
+
+W.K. Rathnadeera, Senior Programme Officer at the South Asia Co-operative Environment Programme, noted that funding remains a significant challenge for such programmes.
+
+He also stressed that most disasters cannot be managed by a single country, underscoring the importance of a regional cooperative approach.
+
+...
+
+[Data](articles/c580b9a5.json)
+
+---
 
 ### Sudden change in fuel prices
 
@@ -2309,31 +2327,5 @@ Maco Jensen took 2 wickets for 22 runs, Kekiso Rabada took 3 wickets for 34 runs
 [Data](articles/ff744137.json)
 
 [Extended Data](ext_articles/ff744137.ext.json)
-
----
-
-### 2024-11-29 (Friday)
-
-### Samantha's father suddenly death
-
-*2024-11-29 23:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-நடிகை-சமந்தாவின்-தந்தை-திடீர்-மரணம்/175-348001) · `ta`
-
-Samantha's father passed away suddenly. She shared an emotional post on social media about his death. Joseph Prabhu, a Telugu-speaking Anglo Indian, was known for collaborating with the film industry. Many fans and well-wishers are offering condolences online.
-
-🟩
-
-Samantha has shared a fierce post on her social network about her father's death.
-
-Joseph Prabhu in Chennai. His father, Joseph Prabhu, is a Telugu -speaking Anglo Indian.
-
-Samantha has said at various moments that her father has cooperated with the film industry.
-
-In this case, Samantha's father suddenly killed his fans. Many people on social networks are comforting Samantha. Also, Samantha's father Joseph Prabhu is condoled. Remble
-
-◼️
-
-[Data](articles/0693c62e.json)
-
-[Extended Data](ext_articles/0693c62e.ext.json)
 
 ---

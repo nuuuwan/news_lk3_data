@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 05:26:12**
+As of **2024-12-01 05:00:43**
 
 ## Newspaper Stats
 
-*Scraped **57,788** Articles*
+*Scraped **57,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 441
 colombotelegraphcom | 588
 bbccomsinhala | 602
-islandlk | 3,476
+islandlk | 3,463
 economynextcom | 3,512
 dailyftlk | 3,990
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,775 (100.0%) of 57,788 articles have been extended.
+57,775 (100.0%) of 57,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,206 +53,6 @@ In addition, 479 and 871 people from 142,624 families have been affected, the Di
 [Data](articles/c7da0af3.json)
 
 [Extended Data](ext_articles/c7da0af3.ext.json)
-
----
-
-### Dialog sets new standards in AI-driven creativity
-
-*2024-12-01 01:50:00* · [`islandlk`](http://island.lk/dialog-sets-new-standards-in-ai-driven-creativity/) · `en`
-
-Dialog Axiata PLC has unveiled a fully AI-generated TV commercial, setting a new benchmark for AI-driven advertising in Sri Lanka. Created to promote the latest Home Broadband reload plan priced at Rs. 999, this commercial represents a groundbreaking achievement, leveraging state-of-the-art AI technology to produce lifelike visual animations with exceptional realism.
-
-The TV commercial, developed in collaboration with Triad Pvt Ltd, exemplifies Dialog’s pioneering approach to integrating artificial intelligence into advertising, reflecting the company’s broader commitment to delivering forward-thinking solutions to Sri Lanka. The commercial was generated using advanced AI tools such as ChatGPT, MidJourney, Runway, and Flux, showcasing the transformative potential of AI in redefining how brands communicate with customers.
-
-...
-
-[Data](articles/2d744b37.json)
-
----
-
-### Sri Lanka Economic Summit 2025 to focus on transformational growth
-
-*2024-12-01 01:49:00* · [`islandlk`](http://island.lk/sri-lanka-economic-summit-2025-to-focus-on-transformational-growth/) · `en`
-
-The Ceylon Chamber of Commerce has announced the 24th edition of the Sri Lanka Economic Summit (SLES), scheduled for January 28th and 29th, 2025, at the Shangri-La Hotel in Colombo. The Summit, under the theme “Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies,” is set to bring together a distinguished lineup of national and international industry leaders, policymakers, and experts to discuss the country’s economic future.
-
-As Sri Lanka continues to navigate through significant political and economic changes, the Summit aims to provide critical insights into the policies needed to foster an export-led growth model. The discussions will focus on unlocking the country’s export potential, leveraging its strategic location, and accessing fast-growing regional markets. The summit will also emphasize the reforms required to boost key sectors, such as Tourism, Agriculture, and Value-Added Manufacturing, in driving sustainable and inclusive growth.
-
-...
-
-[Data](articles/66c39209.json)
-
----
-
-### IIHS launches Young Entrepreneurs Hub to empower future leaders
-
-*2024-12-01 01:48:00* · [`islandlk`](http://island.lk/iihs-launches-young-entrepreneurs-hub-to-empower-future-leaders/) · `en`
-
-The International Institute of Health Sciences (IIHS) has launched the Young Entrepreneurs Hub. This dynamic platform is designed to empower young change-makers by fostering an environment where innovative ideas can thrive, and meaningful partnerships can be nurtured.
-
-The launch event featured a distinguished lineup of speakers, including Dr. Kithsiri Edirisinghe, CEO of IIHS, and notable entrepreneurs such as Maxime Wickramasinghe and Pramodh John. They shared insights on the importance of collaboration and the need for a supportive ecosystem to nurture emerging entrepreneurs.
-
-With a strong focus on social entrepreneurship, community development, and environmental sustainability, the Hub aims to equip the next generation of leaders to tackle tomorrow’s challenges. Dr. Edirisinghe emphasized the importance of partnerships, highlighting IIHS’s collaboration with Australia-based Young Change Agents to drive youth empowerment.
-
-...
-
-[Data](articles/a43a420a.json)
-
----
-
-### CEAT Develops Tyres for Locally Assembled Tata Xenon Yodha
-
-*2024-12-01 01:47:00* · [`islandlk`](http://island.lk/ceat-develops-tyres-for-locally-assembled-tata-xenon-yodha/) · `en`
-
-CEAT Kelani Holdings has partnered with DIMO to develop original equipment (OE) tyres for Tata Xenon Yodha single cab pick-up trucks assembled in Sri Lanka. This collaboration brings together two leading automotive brands to deliver enhanced performance and reliability.
-
-The newly designed CEAT 215/75 R16 WINMILE X3 R tyres are engineered for low rolling resistance and reduced wear, ensuring a smoother ride and improved durability. These tyres incorporate advanced features such as a high mileage compound, low-deformation belt, and balanced Rim Flange Pressure to support the Xenon Yodha’s 1250 kg payload capacity.
-
-“Each OE partnership is an opportunity to set new performance benchmarks,” said CEAT Kelani COO Shamal Gunawardene.
-
-...
-
-[Data](articles/ea3b4c89.json)
-
----
-
-### Royal Nursing Home opens fifth facility in Hanwella
-
-*2024-12-01 01:46:00* · [`islandlk`](http://island.lk/royal-nursing-home-opens-fifth-facility-in-hanwella/) · `en`
-
-Royal Nursing Home Private Limited is scheduled to open its fifth luxury nursing home facility in Hanwella on Jan 1, 2025. The new 100-bedroom facility, located on two acres of scenic land along the Kelani River, marks a significant expansion for the company, which already operates facilities in Sri Lanka and London. Originally a tourist hotel, the building will be renovated to meet ISO 9001-2015 standards and Elderly Residential Care Guidelines, ensuring high-quality care for residents.
-
-Founded by Manuja Hewawasam in 2007, Royal Nursing Home is renowned for bringing international-standard elderly care to Sri Lanka. With over 25 years of experience and a dedicated team of 1,200 staff, Hewawasam aims to provide affordable, top-tier services in a serene, natural setting, perfect for retirees seeking peace and comfort in their later years.
-
-amanté customers to benefit from revolutionary new XSPLIT payment scheme facilitated by WEBXPAY
-
-...
-
-[Data](articles/6bc37f7c.json)
-
----
-
-### Union Assurance’s Suwamaga programme impacts over 10,000 lives in 90 days
-
-*2024-12-01 01:45:00* · [`islandlk`](http://island.lk/union-assurances-suwamaga-programme-impacts-over-10000-lives-in-90-days/) · `en`
-
-Union Assurance’s CSR programme, Suwamaga, has positively impacted over 10,000 lives across Sri Lanka in just 90 days. Launched with the aim of addressing the rising prevalence of diabetes, the initiative focuses on raising awareness, promoting healthier lifestyles, supporting early detection, and fostering community engagement.
-
-A key aspect of Suwamaga is the free diabetes testing services offered to the public, regardless of whether they are Union Assurance customers. These screenings, conducted at various events across the country, have enabled many individuals to detect diabetes early, with some referred for immediate medical care. Participants receive a diabetes screening report and medical advice, empowering them to take control of their health.
-
-...
-
-[Data](articles/002c023b.json)
-
----
-
-### Sri Lankans must improve to render system change successful
-
-*2024-12-01 01:27:00* · [`islandlk`](http://island.lk/sri-lankans-must-improve-to-render-system-change-successful/) · `en`
-
-“It is not possible to develop a country without the moral development of man. Let us develop the country along with moral development (of man)” So pronounced Most Ven Madihe Pannaseeha Maha Nayaka Thero. This translation from Sinhala is by Ven Vajiraramaya Nanaseeha Thera – previously Deshabandhu Olcott Gunasekera – who was one who assisted the venerable bhikkhu to establish the Dharmavijaya Foundation in 1977. The Foundation later adopted this truth as its mission statement. Moral development connotes character building.
-
-The thought about the quirks and misdemeanours of most Sri Lankans which ultimately tarnish the wellbeing and image of the country has long been in mind and discussed frequently when we older generations meet and grow nostalgic of how things were back then. We most definitely had a much better life, though sans TV and all these advances, since peace and general goodness prevailed.
-
-...
-
-[Data](articles/783733cd.json)
-
----
-
-### Death of ex-wife, building a bridge and contacts with JHU
-
-*2024-12-01 01:25:00* · [`islandlk`](http://island.lk/death-of-ex-wife-building-a-bridge-and-contacts-with-jhu/) · `en`
-
-(Excerpted from Simply Nahil: Maverick with the Midas touch, biography of Nahil Wijesuriya)
-
-It was on July 29, 2002. Nahil received a call from Mahen Thambiah at around 9:30 p.m. informing him that Roshanne had met with an accident while crossing the main road at Wattala after leaving a party celebrating the home coming of Mohan Lanerolle Jr and his new bride.
-
-It was around 9.00 p.m when Roshanne left the party with Ryan Raymond, who was to give her a ride back to Colombo. Rayan had parked his vehicle on the opposite side of the Colombo/Negombo road and since the road was busy while crossing they got to the centre until the traffic eased when a van driven by a person under the influence, drove close past Ryan and Roshanne accidently knocking them with the side view mirror of the vehicle.
-
-...
-
-[Data](articles/3fce93fb.json)
-
----
-
-### Cabinet leak of the Katchativu Agreement and rescinded cabinet decision on Overseas Service
-
-*2024-12-01 01:12:00* · [`islandlk`](http://island.lk/cabinet-leak-of-the-katchativu-agreement-and-rescinded-cabinet-decision-on-overseas-service/) · `en`
-
-“The Prime Minister felt betrayed. She was embarrassed, bitter and angry. She was sensitive to Mrs. Gandhi’s feelings”
-
-Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-Mrs. Bandaranaike had an excellent grasp of foreign affairs. Foreign office veterans like Ambassadors Vernon Mendis, Arthur Basnayake and others would vouch for this. But Prime Ministers are extremely busy people, particularly when they also handled heavy Ministries such as Defence and Foreign Affairs, and Planning. When they sit down to three to four hours of concentrated work, in which time they deal with scores of files and hundreds of issues, they cannot be expected to be sensitive to every nuance.
-
-...
-
-[Data](articles/0f17f44a.json)
-
----
-
-### The Elusive Rs. 1,700
-
-*2024-12-01 01:06:00* · [`islandlk`](http://island.lk/the-elusive-rs-1700/) · `en`
-
-It is now six months since Ranil Wickramasinghe announced at the Kotagala May Day Rally of the Ceylon Workers’ Congress that the daily wages of estate workers would be increased to Rs. 1,700 and that they would be paid Rs 80 for every kilogram of green leaf plucked above the norm. The government gazetted the decision as an order from the Commissioner of Labour, the daily wage being made up to Rs. 1,700 by adding a Rs. 350 special allowance not liable to statutory payments of EPF and ETF to the basic wage of Rs 1,350. However, the Regional Plantation Companies (RPCs) obtained an interim injunction against implementing the gazette as they were legally challenging the decision as being unilateral and arbitrary.
-
-...
-
-[Data](articles/62a980c2.json)
-
----
-
-### National Elections 2024 – a harbinger of a new era
-
-*2024-12-01 01:05:00* · [`islandlk`](http://island.lk/national-elections-2024-a-harbinger-of-a-new-era/) · `en`
-
-(A member of the former Ceylon Civil Service and Retired Senior Professional of the Asian Development Bank, Manila, Philippines)
-
-The unparalleled victory of JVP/NPP in the national elections of November 14, 2024 has created an unprecedented sense of euphoria among Sri Lankans. This was no ordinary achievement as a lot of hard work went into changing the mindset of communities that had hitherto blindly followed the elitist policies of the major political parties. What led to this transformation?
-
-...
-
-[Data](articles/1062e9de.json)
-
----
-
-### Fine sportsman, great debater, big appetite but weak stomach
-
-*2024-12-01 00:53:00* · [`islandlk`](http://island.lk/fine-sportsman-great-debater-big-appetite-but-weak-stomach/) · `en`
-
-Dudley Senanayake in the short Parliament of March to July 1960
-
-Family and background had been central in Dudley Senanayake’s case too. Greatness had literally been thrust on him when he had been appointed prime minister on the death of his father D S, in 1952. That had been a time of intrigue and maneuvering which had soured the relations between Sir John, his close relative and him.
-
-Sir John had struck back with the Premier Stakes which he later denied having any connection with. So Dudley had been anxious to win his spurs for himself through the hustings as early as possible. And he had proved his legitimacy by winning the 1952 elections handsomely, helped by the sympathy vote created by the death of his father. But his first stint as prime minister did not last long. Plagued by illness, chronic gastritis and the hartal of August 1953 which resulted in police firing and some civilian deaths, Dudley resigned.
-
-...
-
-[Data](articles/5e8fa427.json)
-
----
-
-### SHALL WE SHOP TODAY?
-
-*2024-12-01 00:43:00* · [`islandlk`](http://island.lk/shall-we-shop-today/) · `en`
-
-The one phrase calculated to galvanize any young person into flying out of bed is that magic question, “Shall we shop today?”
-
-“Where, where?” To KitKat, my granddaughter, the word ‘shopping’ has a sort of intonation that no other sound can equal. It is an incantation of magic.
-
-Really, I am so crafty I surprise myself. I need KitKat to help me carry a few new books from Vijitha Yapa Bookshop to my car plus a few household necessities.
-
-She bounds out of bed and is ready so fast I have barely time to turn round and catch my breath before casually mentioning that I do need to have a short stop at the Crescat Supermarket before treating ourselves to those Palaces of Delight — namely the new clothes shops opening up all over the city these days. She resigns herself to my perfidy.
-
-“I knew you’d make me pay for this,” says she. “I trust you will make it worth my while,” she adds sternly.
-
-“How much will it take?” I am cautious. KitKat’s ideas of economy do not exactly dovetail with mine.
-
-...
-
-[Data](articles/8da2a79c.json)
 
 ---
 
@@ -2407,5 +2207,245 @@ The Declaration calls for education of children, wherever it takes place and wha
 [Data](articles/1a12691d.json)
 
 [Extended Data](ext_articles/1a12691d.ext.json)
+
+---
+
+### JICA technical team visits Viridis to mitigate plastic pollution in Sri Lanka
+
+*2024-11-30 04:37:20* · [`dailyftlk`](https://www.ft.lk/news/JICA-technical-team-visits-Viridis-to-mitigate-plastic-pollution-in-Sri-Lanka/56-769904) · `en`
+
+The JICA technical team for ‘Strengthening plastic management capacity in Sri Lanka’, headed by Dr. Naofumi Sato with members Dr. Paulo Vinicius Queiroz Sousa and Dr. Mohamed Hamza Cherki, visited Viridis to get first-hand experience on recycling efforts.
+
+Central Environment Authority (CEA) Deputy Director General – Solid Waste Chathura Malwana and JICA Project Coordinator Nayana Samaraweera also participated and had a meeting with Viridis Chairman John Martin Stewart Phillips and Managing Director Buddhika Muthukumarana.
+
+...
+
+[Data](articles/9dd4d69f.json)
+
+[Extended Data](ext_articles/9dd4d69f.ext.json)
+
+---
+
+### SMEs showcase at 19th China International Small and Medium Enterprises Fair in Guangzhou
+
+*2024-11-30 04:35:16* · [`dailyftlk`](https://www.ft.lk/business/SMEs-showcase-at-19th-China-International-Small-and-Medium-Enterprises-Fair-in-Guangzhou/34-769903) · `en`
+
+A delegation of 49 Sri Lankan small and medium-sized enterprises (SMEs) made a strong impact during the 19th China International Small and Medium Enterprises Fair (CISMEF), held from 15 to 18 November at the China Import and Export Fair Complex in Pazhou, Guangzhou. The event was organised by the Sri Lanka Export Development Board (EDB) in collaboration with the Industrial Development Board (IDB) and with the active facilitation of the Consulate General of Sri Lanka in Guangzhou.
+
+The delegation represented key product sectors, including food and beverages, gem and jewellery, coconut-based products, lifestyle goods, spices, and garments etc.
+
+The CISMEF 2024 proved to be a robust platform for SMEs, enabling them to connect with international buyers and potential business partners within mainland China and beyond. This marked the 9th consecutive year of Sri Lanka’s participation, demonstrating a consistent commitment to fostering SME growth through international trade exposure.
+
+...
+
+[Data](articles/7535864b.json)
+
+[Extended Data](ext_articles/7535864b.ext.json)
+
+---
+
+### FTZMA congratulates Labour Minister and Deputy Minister of Economic Development
+
+*2024-11-30 04:34:16* · [`dailyftlk`](https://www.ft.lk/business/FTZMA-congratulates-Labour-Minister-and-Deputy-Minister-of-Economic-Development/34-769902) · `en`
+
+The Executive Committee together with members of the Free Trade Zone Manufacturers’ Association (FTZMA) have congratulated the newly appointed Labour Minister and Deputy Minister of Economic Development Prof. Anil Jayantha Fernando.
+
+“We eagerly look forward to your utmost support to strengthen well-disciplined and effective work practices at the country’s investment promotion front with progressive fiscal policies promoting ‘Ease of doing Business’ for the FDIs in the country,” the FTZMA said in a letter to Prof. Fernando.
+
+...
+
+[Data](articles/10526e13.json)
+
+[Extended Data](ext_articles/10526e13.ext.json)
+
+---
+
+### SriLankan Airlines celebrates seven years of Melbourne-Colombo service
+
+*2024-11-30 04:33:14* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-celebrates-seven-years-of-Melbourne-Colombo-service/34-769901) · `en`
+
+SriLankan Airlines recently celebrated the seventh anniversary of its Melbourne-Colombo route, launched in 2017.
+
+Since then, the airline has successfully connected many Sri Lankan expatriates and students to Melbourne while providing seamless travel options for tourists travelling between Melbourne, Sri Lanka, and beyond, particularly destinations across India.
+
+With steady growth in traffic, including tourist arrivals to Sri Lanka, the Melbourne-Colombo route has become popular among travellers visiting friends and relatives or vacationing between Australia and South Asia, strengthening cultural and economic ties between the two regions. The route is also one of SriLankan Airlines’ top performers, both as a direct flight and a convenient connection, especially for Indian passengers.
+
+...
+
+[Data](articles/8e1c230a.json)
+
+[Extended Data](ext_articles/8e1c230a.ext.json)
+
+---
+
+### Southern Gujarat Chamber visits Ceylon Chamber in boost to bilateral ties
+
+*2024-11-30 04:32:13* · [`dailyftlk`](https://www.ft.lk/business/Southern-Gujarat-Chamber-visits-Ceylon-Chamber-in-boost-to-bilateral-ties/34-769900) · `en`
+
+From left: SGCCI Vice President Nikhil Madrasi, President Vijay Mevawala, The Ceylon Chamber of Commerce Secretary General and CEO Buwenakabahu Perera, SGCCI Immediate Past President Ramesh Vaghasia, Treasurer Mrunal Shukla, and Secy. Nirav Mandlewala
+
+A high-level business delegation from the Southern Gujarat Chamber of Commerce and Industry (SGCCI) recently visited The Ceylon Chamber of Commerce to strengthen the existing collaboration between the two Chambers thereby facilitating trade and investment ties between India and Sri Lanka.
+
+...
+
+[Data](articles/41369b0d.json)
+
+[Extended Data](ext_articles/41369b0d.ext.json)
+
+---
+
+### The Port City Colombo SEZ: How well would it navigate Asia’s evolving economic landscape?
+
+*2024-11-30 04:31:15* · [`dailyftlk`](https://www.ft.lk/business/The-Port-City-Colombo-SEZ-How-well-would-it-navigate-Asia-s-evolving-economic-landscape/34-769899) · `en`
+
+From bustling metropolises to serene island paradises, the Asian continent has been prided as an oasis for diverse locations with tax-friendly policies that translate into higher standards of living. However, the tides are turning as mature economies adopt global minimum tax standards, eroding traditional tax advantages and pressuring high-income countries to adjust.
+
+This shift affects Asian economies that have long relied on competitive tax rates to attract multinationals. Now, SEZs in countries like Singapore are adapting by promoting high-value industries, digital infrastructure, and skilled labor as key draws. Emerging SEZs in regions like Port City Colombo (PCC), Sri Lanka and SEZs in Vietnam, however, still leverage flexible tax policies to attract investment, creating a dynamic and evolving landscape across Asia.
+
+...
+
+[Data](articles/228f45b9.json)
+
+[Extended Data](ext_articles/228f45b9.ext.json)
+
+---
+
+### Govt. to provide financial assistance to flood affected farmers
+
+*2024-11-30 04:28:52* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-provide-financial-assistance-to-flood-affected-farmers/56-769898) · `en`
+
+Agriculture, Livestock Development, Land, and Irrigation Minister K.D. Lalkantha has assured the Ministry’s full support to help farmers impacted by the recent floods resume their agricultural activities.
+
+During a meeting held at the Ministry with District Secretaries and officials from the Departments of Agriculture and Irrigation in affected areas, the Minister addressed the extensive crop losses and damage to irrigation systems caused by the floods. The Minister directed officials to provide financial assistance to paddy farmers for purchasing seed paddy and to establish an efficient system for fund distribution.
+
+Additionally, District Secretaries and Irrigation officials were instructed to expedite the repairs to damaged irrigation systems to ensure farming operations can recommence without delay.
+
+◼️
+
+[Data](articles/bcbbb474.json)
+
+[Extended Data](ext_articles/bcbbb474.ext.json)
+
+---
+
+### Indian Navy supports Lankan counterpart to nab narcotics worth nearly Rs. 170 b
+
+*2024-11-30 04:28:39* · [`dailyftlk`](https://www.ft.lk/news/Indian-Navy-supports-Lankan-counterpart-to-nab-narcotics-worth-nearly-Rs-170-b/56-769897) · `en`
+
+Based on information received from the Sri Lanka Navy regarding probable narcotics smuggling by Sri Lankan flagged fishing vessels in the Arabian Sea, the Indian Navy responded swiftly through a coordinated operation to localise and intercept the boats.
+
+Extensive surveillance was undertaken by Indian Naval Long Range Maritime Patrol Aircraft and Remotely Piloted Aircraft, based on inputs from the Information Fusion Centre (Indian Ocean Region), Gurugram, and an Indian Naval ship was deployed to augment efforts.
+
+...
+
+[Data](articles/0504e51d.json)
+
+[Extended Data](ext_articles/0504e51d.ext.json)
+
+---
+
+### Spain Ambassador presents credentials to Sri Lanka
+
+*2024-11-30 04:28:22* · [`dailyftlk`](https://www.ft.lk/news/Spain-Ambassador-presents-credentials-to-Sri-Lanka/56-769896) · `en`
+
+The Government of the Kingdom of Spain, with the concurrence of the Government of Sri Lanka has appointed Juan Antonio March Pujol as Ambassador Extraordinary and Plenipotentiary of the Kingdom of Spain to Sri Lanka based in New Delhi.
+
+He presented credentials to President Anura Kumara Dissanayake on 28 November at the Presidential Secretariat, Colombo.
+
+◼️
+
+[Data](articles/2dd97976.json)
+
+[Extended Data](ext_articles/2dd97976.ext.json)
+
+---
+
+### DMT says temporary vehicle number plates valid only till 15 Dec.
+
+*2024-11-30 04:27:22* · [`dailyftlk`](https://www.ft.lk/news/DMT-says-temporary-vehicle-number-plates-valid-only-till-15-Dec/56-769895) · `en`
+
+The Department of Motor Traffic (DMT) on Thursday announced that the validity period of temporary vehicle number plates issued will end on 15 December.
+
+DMT Commissioner General Nishantha Anuruddha Weerasinghe said that the temporary vehicle number plates were issued due to challenges faced by the DMT in issuing permanent number plates; thus, requesting the motorists to obtain their original number plates before the deadline.
+
+Driving vehicles with temporary number plates after 15 December will be considered illegal. The Traffic Police have been instructed to take necessary legal action against violators.
+
+◼️
+
+[Data](articles/db177f8f.json)
+
+[Extended Data](ext_articles/db177f8f.ext.json)
+
+---
+
+### Graduation Ceremony of Young Journalists 2024
+
+*2024-11-30 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200052) · `ta`
+
+Sri Lanka Journalism College 2024 graduation ceremony highlights: Diplomas awarded, best students honored, keynotes by Dr. Senesh Bandara Dissanayake and Hana Ibrahim.
+
+🟩
+
+The Graduation Ceremony of the 2024 Graduation Ceremony of the Sri Lanka Journalism College was established in 2004 at the Bandaranaike Memorial International Conference Hall (BMICH) Orchid Hall.. The ceremony was graduated by graduates under the Diploma and Certificate Education Program.
+
+Hana Ibrahim, Vice President of the College of Journalism of Sri Lanka, welcomed graduates and guests. Dr. Senesh Bandara Dissanayake, a popular educator of journalism and media education and president of the Sri Lanka Rupavahini Corporation, participated as the guest of honor and made his inspirational speech to emphasize the importance of the media in enhance the media's responsibility.
+
+After the chief speech, certificates were issued to students who received diploma in the media industry. Also, Janushika Sivarajan and Mina Hasan were admired as Best Students. Kne Aja Johar received the award for Best Activities in the News Reading and Essay.
+
+...
+
+[Data](articles/1d33f5ec.json)
+
+[Extended Data](ext_articles/1d33f5ec.ext.json)
+
+---
+
+### A team of ministers visited the village of Thambalakamam Bridge
+
+*2024-11-30 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200050) · `ta`
+
+Ministers visit Thambalakamam Bridge village, survey needs of affected residents. Team includes Rural Development Minister Uppali Pannalake, Deputy Ministers Kumara Jayakody, Susil Ranasinghe, Prasanna Kumara Gunasena. Officials from Divisional Secretariat also present.
+
+🟩
+
+A team of ministers in the intermediate camp on Friday (30) held a surveillance visit to the Palampottaru The/Vinayagar Tamil Vidyalaya in the Trincomalee District Thambalakamam Divisional Secretariat.
+
+During this time, they were asked about the needs of the affected people who were staying at the interim gold standing.
+
+The Minister of Rural Development Social Security and Development, Dr. Uppali Pannalake, Minister of State for Wely, Kumara Jayakody, Deputy Minister of Land and Irrigation, Dr. Susil Ranasinghe, Deputy Minister of Transport and Highways, Dr. Prasanna Kumara Gunasena.
+
+Also present were AR Siddique, Chief Manager of Thambalakamam Divisional Secretariat, Thangarupan, Economic Development Officer of the Grama Niladhari Division.
+
+◼️
+
+[Data](articles/f104aad2.json)
+
+[Extended Data](ext_articles/f104aad2.ext.json)
+
+---
+
+### Flooding floods;The camps returned home!
+
+*2024-11-30 02:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200051) · `ta`
+
+Floods recede in Vavuniya after heavy rains. 5,224 people affected, 3,022 relocated. 204 homes damaged, 55 ponds impacted. Climate stabilizes as rainfall decreases.
+
+🟩
+
+Due to the low rainfall in Vavuniya, floodwaters from lowland areas have returned to their homes.
+
+Due to the deep winds in Wangalaviriguda, it has been raining in Vavuniya over the past two days, causing risk in various parts of the country and many villages have been flooded.
+
+At present the rainfall in the district has declined. As a result, water is flowing from the flooded areas.
+
+As of today, 5224 people from 1516 families have been affected by inclement weather. 3022 of them have been placed in relative homes. All those who have been housed in 11 intermediate camps have returned to their homes.
+
+In addition, 204 houses have been partially damaged due to inclementary conditions and 55 ponds have been hit. As the rain has declined, there is a heavy climate.
+
+◼️
+
+[Data](articles/e5cf913e.json)
+
+[Extended Data](ext_articles/e5cf913e.ext.json)
 
 ---

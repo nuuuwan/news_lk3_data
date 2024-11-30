@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 04:41:47**
+As of **2024-11-30 05:50:36**
 
 ## Newspaper Stats
 
-*Scraped **57,673** Articles*
+*Scraped **57,691** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 440
+dbsjeyarajcom | 441
 colombotelegraphcom | 586
 bbccomsinhala | 601
-islandlk | 3,452
+islandlk | 3,459
 economynextcom | 3,510
-dailyftlk | 3,980
+dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,985
@@ -26,11 +26,169 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,663 (100.0%) of 57,673 articles have been extended.
+57,671 (100.0%) of 57,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### Global negotiation outcomes on climate finance and adaptation: The road ahead after COP29
+
+*2024-11-30 05:04:35* · [`dailyftlk`](https://www.ft.lk/columns/Global-negotiation-outcomes-on-climate-finance-and-adaptation-The-road-ahead-after-COP29/4-769915) · `en`
+
+After two weeks of negotiations in Baku, Azerbaijan, COP29 ended at 5:30 a.m. during a closing plenary that lasted through the night from Saturday to Sunday, 24 November, almost two days after the scheduled closing of the sessions. Key negotiation items included climate finance and adaptation, among many others: but what are some of the main outcomes, and where does the world go from here?
+
+“COP29” is shorthand for the 29th meeting of the Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC), as well as the concurrent meetings of Parties to the Paris Agreement and the Kyoto Protocol. Since 1995, a COP was held every year except 2020, when the COVID-19 pandemic prevented the meeting. As agreed between countries, the location of the COP is subject to regional rotation, with this year’s COP filling the Eastern Europe slot, and next year’s COP (COP30) taking place in Bélem, Brazil, in the Latin American and Caribbean region.
+
+...
+
+[Data](articles/374a5003.json)
+
+[Extended Data](ext_articles/374a5003.ext.json)
+
+---
+
+### Quiet revolution in greening global trade
+
+*2024-11-30 05:01:31* · [`dailyftlk`](https://www.ft.lk/opinion/Quiet-revolution-in-greening-global-trade/14-769914) · `en`
+
+By streamlining customs procedures and reducing the reliance on paper, ASYCUDA is helping nations such as ours to lower carbon emissions and enhance the environmental efficiency of global trade
+
+As the world braces for the upcoming COP29 climate summit in Baku, the chasm between environmental pledges and tangible action remains far too wide. Despite decades of promises, the global transition to a green economy is progressing at a glacial pace. If we are to meet our climate goals, we need a package of solutions that includes financing, technology transfer, investment in environmental goods and services and importantly, more practical solutions that deliver results on the ground.
+
+...
+
+[Data](articles/6823dbf4.json)
+
+[Extended Data](ext_articles/6823dbf4.ext.json)
+
+---
+
+### Prabhakaran: Forgotten price of a struggle
+
+*2024-11-30 04:59:09* · [`dailyftlk`](https://www.ft.lk/opinion/Prabhakaran-Forgotten-price-of-a-struggle/14-769913) · `en`
+
+Reflecting on the life, legacy, and cost of Velupillai Prabhakaran’s revolution
+
+In 1984, in an interview with Anita Pratap, Velupillai Prabhakaran, leader of the Tamil Tigers and self-styled champion of Tamil Eelam, shared his views on the geopolitical dynamics influencing the Sri Lankan conflict: “Induction of US arms is not only a threat to the Tamil freedom movement but also to India’s national security. America’s objective, as you will certainly be aware, is not simply confined to helping the Sri Lankan army to crush the Tamil liberation struggle. Their ultimate aim is to secure a naval base at Trincomalee. Such a happening will convert the Indian Ocean into a war zone, and will increase the tension prevalent in the region.”
+
+...
+
+[Data](articles/36975e90.json)
+
+---
+
+### Pathfinder Foundation hosts 5th Dialogue with Diplomats on “Great Power Competition in Indo-Pacific”
+
+*2024-11-30 04:57:25* · [`dailyftlk`](https://www.ft.lk/opinion/Pathfinder-Foundation-hosts-5th-Dialogue-with-Diplomats-on-Great-Power-Competition-in-Indo-Pacific/14-769912) · `en`
+
+Pathfinder Foundation Chairman Bernard Goonetilleke moderating the event. General Sir John Kotelawala Defence University Centre for Strategic Assessment Director Dr. Harinda Vidanage, and former Foreign Secretary of Sri Lanka Ambassador (Retd.) H.M.G.S. Palihakkara also present
+
+Lead Presenter General Sir John Kotelawala Defence University Centre for Strategic Assessment Director Dr. Harinda Vidanage presenting his views. Commandant of the Naval & Maritime Academy of Sri Lanka Commodore Rohan Joseph, Pathfinder Foundation Chairman Bernard Goonetilleke, and former Foreign Secretary of Sri Lanka Ambassador (Retd.) H.M.G.S. Palihakkara also present
+
+...
+
+[Data](articles/fce18000.json)
+
+---
+
+### What was 29% of N-E Tamils’ mandate for NPP Government?
+
+*2024-11-30 04:54:08* · [`dailyftlk`](https://www.ft.lk/columns/What-was-29-of-N-E-Tamils-mandate-for-NPP-Government/4-769911) · `en`
+
+Post-war issues the north-east wanted answers for, will not get trashed merely because 29% in N-E voted for NPP
+
+Plenty is written about the JVP-led NPP in 2024 September-November elections, with many comparisons and much praise. It is a historic achievement, no doubt. It was only possible with an amateur politician Gotabaya elected president by 6.9 million voters in 2019 November totally messing up everything possible. Politically naïve and meek too, he was a total contrast to what he was projected to be, a “Hitlerite” leader. The #GotaGoHome protest campaign brought to Galle Face Green turned into a violent protest in four weeks. Re-labelled as “Aragalaya” it wrecked the entirety of traditional party politics leaving the JVP/NPP to claim they fit in best to clean up the “system”.
+
+...
+
+[Data](articles/014074df.json)
+
+---
+
+### Foreign Minister stresses importance of ensuring safe, orderly, regular, and rights-based migration
+
+*2024-11-30 04:50:27* · [`dailyftlk`](https://www.ft.lk/opinion/Foreign-Minister-stresses-importance-of-ensuring-safe-orderly-regular-and-rights-based-migration/14-769910) · `en`
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, in a recorded video message to the High-Level Segment of the 115th Session of the International Organization for Migration (IOM) Council on 26 November 2024, stressed the importance of ensuring safe, orderly, regular, rights-based migration.
+
+The High-Level Segment of the IOM was themed: ‘Regular Migration Pathways: A Global Call for Action’, and the 115th Session of the Council was held in Geneva from 26-28 November.
+
+Migration has been a part of human existence for centuries. Today, people migrate voluntarily, primarily for work, or are compelled to do so due to natural disasters, climate change, conflict, and economic instability. In the process, they increasingly resort to irregular pathways of migration, risking their lives, and often falling victim to human trafficking.
+
+...
+
+[Data](articles/111e0289.json)
+
+---
+
+### Bond “scam” returns to headlines
+
+*2024-11-30 04:48:32* · [`dailyftlk`](https://www.ft.lk/columns/Bond-scam-returns-to-headlines/4-769909) · `en`
+
+Once described by Sri Lanka’s Attorney General as ‘the greatest financial loss perpetrated on the people” the so-called ‘bond scam’ has returned to the headlines.
+
+On Monday 26 November a Colombo Court ordered a former Governor of the Central Bank to report to Colombo on 25 February 2025.
+
+Arjuna Mahendran the controversial Governor at the time, is a Singaporean national of Sri Lankan origin. Mahendran, having left Colombo during the tail end of the Presidential Commission inquiring into the issuance of bonds, has not returned to Sri Lanka since.
+
+The so-called ‘bond scam’ attracted controversy within weeks of the Sirisena-Wickremesinghe Government which was grandly titled Yahapalanaya governance.
+
+The title meaning, ‘Good governance’, fell far short by the time we exposed the serious conflict of interest that seemingly manifested itself.
+
+...
+
+[Data](articles/a40a222f.json)
+
+---
+
+### President says “no chance even for a simple mistake”, but officials ready to make big ones
+
+*2024-11-30 04:43:56* · [`dailyftlk`](https://www.ft.lk/columns/President-says-no-chance-even-for-a-simple-mistake-but-officials-ready-to-make-big-ones/4-769908) · `en`
+
+The Government is heading to make a serious mistake unintentionally in another area by lifting the ban on vehicle imports
+
+President Anura Kumara Dissanayake at the inauguration of the first session of the 10th Parliament delivering a speech, said that the NPP Government must go with the IMF framework and the previous administration’s debt restructuring agreements as they have been endorsed by the IMF. It is true. Renegotiating for a new Debt Sustainability Analysis (DSA) is now dead. That is good, because we must end this process as early as possible to enter a new beginning.
+
+If the Net Present Value analysis proves beneficial for us to ensure debt sustainability even under the macro-linked bond mechanism we must finish this process. The NPP Government is going to do it possibly by the end of December this year. It is a great consolation.
+
+...
+
+[Data](articles/df619e00.json)
+
+---
+
+### Japan donates two fully equipped ambulances to BIA and Colombo Port
+
+*2024-11-30 04:39:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-donates-two-fully-equipped-ambulances-to-BIA-and-Colombo-Port/56-769906) · `en`
+
+The Bandaranaike International Airport (BIA) and the Colombo Port received two fully equipped ambulances as part of the ongoing Border Health Project, funded by the Government of Japan and implemented by the International Organisation for Migration (IOM).
+
+On behalf of the Transport, Highways, Ports and Civil Aviation Ministry, the donation was handed to Airport and Aviation Services (Sri Lanka) Ltd. (AASL) Chairman Air Chief Marshal H.D. Abeywickrema (Retd.) by Japanese Embassy Minister/Deputy Head of Mission Kamoshida Naoki in the presence of senior officials of the Ministry, AASL, and IOM.
+
+The ambulances, each valued at approximately $ 100,000, will enhance the emergency health preparedness of the Points of Entry (PoE) in line with International Health Regulations (2005).
+
+...
+
+[Data](articles/ee5d5450.json)
+
+---
+
+### International call for education to be centred on Human Rights
+
+*2024-11-30 04:38:42* · [`dailyftlk`](https://www.ft.lk/news/International-call-for-education-to-be-centred-on-Human-Rights/56-769905) · `en`
+
+Announcement of Je’anna Clements and Sifaan Zavahir’s session at INSPIRE Education Summit where Declaration of Child Rights-Centric Education was launched
+
+The Rights Centric Education Network (“RCE Network”), an international movement of Human Rights defenders advocating for Rights in, to, and through education, launched the “Declaration of Child Rights-Centric Education” on the 35th Anniversary of the UN Convention on the Rights of the Child (UNCRC), amplifying the call of the United Nations to centre education on Human Rights.
+
+The Declaration calls for education of children, wherever it takes place and whatever form it takes, to be fundamentally reworked to ensure that it is consistent with human rights values and principles, especially the UNCRC, which, for the first time in history, recognised children as subjects of their own rights.
+
+...
+
+[Data](articles/1a12691d.json)
+
+---
 
 ### JICA technical team visits Viridis to mitigate plastic pollution in Sri Lanka
 
@@ -43,6 +201,8 @@ Central Environment Authority (CEA) Deputy Director General – Solid Waste Chat
 ...
 
 [Data](articles/9dd4d69f.json)
+
+[Extended Data](ext_articles/9dd4d69f.ext.json)
 
 ---
 
@@ -60,6 +220,8 @@ The CISMEF 2024 proved to be a robust platform for SMEs, enabling them to connec
 
 [Data](articles/7535864b.json)
 
+[Extended Data](ext_articles/7535864b.ext.json)
+
 ---
 
 ### FTZMA congratulates Labour Minister and Deputy Minister of Economic Development
@@ -73,6 +235,8 @@ The Executive Committee together with members of the Free Trade Zone Manufacture
 ...
 
 [Data](articles/10526e13.json)
+
+[Extended Data](ext_articles/10526e13.ext.json)
 
 ---
 
@@ -90,6 +254,8 @@ With steady growth in traffic, including tourist arrivals to Sri Lanka, the Melb
 
 [Data](articles/8e1c230a.json)
 
+[Extended Data](ext_articles/8e1c230a.ext.json)
+
 ---
 
 ### Southern Gujarat Chamber visits Ceylon Chamber in boost to bilateral ties
@@ -104,6 +270,8 @@ A high-level business delegation from the Southern Gujarat Chamber of Commerce a
 
 [Data](articles/41369b0d.json)
 
+[Extended Data](ext_articles/41369b0d.ext.json)
+
 ---
 
 ### The Port City Colombo SEZ: How well would it navigate Asia’s evolving economic landscape?
@@ -117,6 +285,8 @@ This shift affects Asian economies that have long relied on competitive tax rate
 ...
 
 [Data](articles/228f45b9.json)
+
+[Extended Data](ext_articles/228f45b9.ext.json)
 
 ---
 
@@ -252,6 +422,48 @@ In addition, 204 houses have been partially damaged due to inclementary conditio
 
 ---
 
+### High-level business delegation from SGCCI visits Ceylon Chamber of Commerce
+
+*2024-11-30 01:55:00* · [`islandlk`](http://island.lk/high-level-business-delegation-from-sgcci-visits-ceylon-chamber-of-commerce/) · `en`
+
+A high-level business delegation from the Southern Gujarat Chamber of Commerce and Industry (SGCCI) recently visited the Ceylon Chamber of Commerce to strengthen the existing collaboration between the two Chambers thereby facilitating trade and investment ties between India and Sri Lanka.
+
+During the visit, which was facilitated by the Consulate General for Sri Lanka in Mumbai, SGCCI extended an invitation to Sri Lankan businesses to participate in the Global Village event set to take place in January in Surat, Southern Gujarat. The event provides an unparalleled platform for Sri Lankan exporters to showcase their products—including tea, spices, fruits, and agro-goods—directly to a diverse Indian audience.
+
+...
+
+[Data](articles/8b572670.json)
+
+---
+
+### Geoffrey Bawa Design Store and December Design Market
+
+*2024-11-30 01:52:00* · [`islandlk`](http://island.lk/geoffrey-bawa-design-store-and-december-design-market/) · `en`
+
+Central to Geoffrey Bawa’s practice was his emphasis on local craftsmanship and materials. The late architect once said, “The contribution of the makers, particularly the older carpenters and masons who are passionate about what they do, is equal to or more, in some cases than ours.”
+
+The Geoffrey Bawa Trust continues to engage with Sri Lankan artisans and makers through its design store, which functions as an extension of the Trust’s mission since 1982: to advance the fields of art, architecture, and ecology. The store began with a collection of merchandise released in conjunction with the 2019 Bawa 100 centennial before expanding to an online presence in 2020 during the pandemic lockdowns.
+
+...
+
+[Data](articles/c6155ea5.json)
+
+---
+
+### ‘SLPA takes measured approach towards Adani’s Colombo port deal’
+
+*2024-11-30 01:48:00* · [`islandlk`](http://island.lk/slpa-takes-measured-approach-towards-adanis-colombo-port-deal/) · `en`
+
+The Sri Lanka Ports Authority (SLPA) has affirmed its commitment to maintaining stability regarding the Colombo West International Terminal project, led by the Adani Group, amidst ongoing allegations in the U.S. against the conglomerate’s top executives. SLPA Chairman Admiral Sirimewan Ranasinghe (Retd) has emphasized that there is no immediate plan to reassess or terminate the agreement.
+
+“Nothing is discussed about cancelling the deal at all,” Ranasinghe clarified, speaking to Indian business newspaper Economic Times. He highlighted that the Adani Group has met its obligations under the agreement, bringing in necessary investments and equipment. Furthermore, he pointed out that the project has consistently progressed according to plan, making it a valuable part of Sri Lanka’s economic infrastructure.
+
+...
+
+[Data](articles/6a82b01e.json)
+
+---
+
 ### 15 people die due to random weather
 
 *2024-11-30 01:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-15-பேர்-உயிரிழப்பு/175-348002) · `ta`
@@ -271,6 +483,32 @@ In addition, 463 and 569 people from 138 and 191 families have been affected by 
 [Data](articles/6c3947df.json)
 
 [Extended Data](ext_articles/6c3947df.ext.json)
+
+---
+
+### Union Assurance unveils ‘Suwamaga Mobile Screening Unit’ to combat diabetes in Sri Lanka
+
+*2024-11-30 01:15:00* · [`islandlk`](http://island.lk/union-assurance-unveils-suwamaga-mobile-screening-unit-to-combat-diabetes-in-sri-lanka/) · `en`
+
+Union Assurance, Sri Lanka’s premier Life Insurer, continues to enrich community well-being through its flagship CSR programme, Suwamaga. Aligned with its brand purpose of protecting lives and enriching the well-being of all, the Company launched Suwamaga—a nationwide initiative to address the growing prevalence of diabetes in Sri Lanka.  This comprehensive programme is designed holistically to guide individuals toward better health outcomes with a focus on raising awareness about diabetes, promoting healthier lifestyles, supporting early detection and risk management and fostering community engagement.
+
+...
+
+[Data](articles/7ffbe1f2.json)
+
+---
+
+### SLT-MOBITEL partners with EGUARDIAN to enhance Zoho accessibility for MSMEs in Sri Lanka
+
+*2024-11-30 01:15:00* · [`islandlk`](http://island.lk/slt-mobitel-partners-with-eguardian-to-enhance-zoho-accessibility-for-msmes-in-sri-lanka/) · `en`
+
+SLT-MOBITEL Enterprise has signed a strategic reseller agreement with EGUARDIAN Pvt. Ltd, aimed at enhancing the accessibility of Zoho’s comprehensive suite of productivity and business management tools for Micro and Small & Medium Enterprises (MSMEs) in Sri Lanka. This partnership is expected to significantly bolster digital transformation and operational efficiency within the region.
+
+The agreement was signed by Prabhath Dahanayake, Chief Marketing Officer of SLT-MOBITEL, and Mafaz Fahrid, Chief Executive Officer of EGUARDIAN Pvt. Ltd., with several other officials from both organizations in attendance for this occasion. This collaboration will leverage Zoho’s extensive range of cloud-based applications, including Zoho Financial Suite, Zoho Workplace, and Zoho Marketing Plus, to empower local businesses to streamline operations and enhance customer relationships.
+
+...
+
+[Data](articles/9e5eca06.json)
 
 ---
 
@@ -992,6 +1230,20 @@ The suspects are aged 24, 28, 29 and 32 from Kesale, Sirithoppu.
 
 ---
 
+### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
+
+*2024-11-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
+
+The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
+
+...
+
+[Data](articles/7b4fd7e2.json)
+
+[Extended Data](ext_articles/7b4fd7e2.ext.json)
+
+---
+
 ### A red announcement from the weather
 
 *2024-11-29 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203874) · `si`
@@ -1023,6 +1275,18 @@ Showers or thundershowers will occur at several places in the evening or night.
 [Data](articles/ef639584.json)
 
 [Extended Data](ext_articles/ef639584.ext.json)
+
+---
+
+### யாழ் தமிழ் தேசியவாதக் கோட்டைக்குள் பலமாக அடித்த “அநுர அலை”:  ஆறு யாழ்ப்பாண ஆசனங்களில் மூன்றில் தேசிய மக்கள் சக்தி வெற்றி.
+
+*2024-11-29 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85145) · `en`
+
+தேசிய மக்கள் சக்தி 2024 நவம்பர் 14  பாராளுமன்ற தேர்தலில் வரலாற்று முக்கியத்துவம் வாய்ந்த ஒரு வெற்றியைப் பதிவு செய்திருக்கிறது. ஜனதா விமுக்தி பெரமுனவை (ஜே.வி.பி.) பிரதான அங்கத்துவக் கட்சியாகக்கொண்டு 21 அரசியல் கட்சிகள், குழுக்கள் மற்றும் தொழிற்சங்கங்களை உளாளடக்கிய ஒரு கூட்டமைப்பே தேசிய மக்கள் சக்தியாகும். அது 6, 863,186 (61.6 சதவீதம் ) வாக்குகளைப் பெற்று 225 ஆசனங்களைக் கொண்ட இலங்கை பாராளுமன்றத்தில் 159 ஆசனங்களைக் கைப்பறாறியிருக்கிறது. இவற்றில் 141 ஆசனங்கள் நேரடியாக மாவட்ட அடிப்படையில் பெறப்பட்டவையாக இருக்கின்ற அதேவேளை  18 ஆசனங்கள் தேசியப்பட்டியல் மூலம் கிடைத்தவை.
+
+...
+
+[Data](articles/f21e5659.json)
 
 ---
 
@@ -2095,447 +2359,5 @@ Police have seized 301 cannabis plants and 2 domestic guns from the suspects.
 [Data](articles/1e2c1499.json)
 
 [Extended Data](ext_articles/1e2c1499.ext.json)
-
----
-
-### The foundation of the missing person in Ampara
-
-*2024-11-29 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199996) · `ta`
-
-Body of missing person found in Ampara; police investigating death; remains at hospital for autopsy.
-
-🟩
-
-The body of a missing person in the Kalapitagala area belonging to the Uhna Police Division in Ampara has been found dead on Thursday (28), police said.
-
-Uhana police have launched an investigation on the complaint made by a woman from Kalapitagala on the 27th of this month.
-
-The missing man left the house with a man on a motorcycle, claiming to go to the market that day (27).
-
-Investigations carried out by the police revealed that the deceased was a missing person.
-
-The body of the deceased has been sent to the Ampara Hospital for autopsy and is currently being kept in the autopsy.
-
-◼️
-
-[Data](articles/53b53c05.json)
-
-[Extended Data](ext_articles/53b53c05.ext.json)
-
----
-
-### Minister Vijitha Colombo High Court
-
-*2024-11-29 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203864) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Vijitha Herath testified in Colombo High Court regarding a Bribery Commission case. The case involves alleged government bribery related to lottery development tenders. Court proceedings were adjourned until February, with the minister ordered to reappear.
-
-🟩
-
-Minister Vijitha Herath appeared before the Colombo High Court today to testify to a case filed by the Bribery Commission.
-
-The case had been filed by the Bribery of the Government of Sri Lanka by the development of the development of Lottery Pathiraja against the recognized tender procedure to several private companies.
-
-Minister Vijitha Herath has presented the complaint with the case before the court today.
-
-Consider the contents of the matter, Colombo High Court Judge RSSSWS, postponed the evidence exam until Feb.
-
-The Minister Vijitha Herath was ordered to appear in court.
-
-◼️
-
-[Data](articles/0b8be090.json)
-
-[Extended Data](ext_articles/0b8be090.ext.json)
-
----
-
-### Southern Gujarat Chamber proposes Sri Lanka prioritise wedding tourism
-
-*2024-11-29 14:30:00* · [`economynextcom`](https://economynext.com/southern-gujarat-chamber-proposes-sri-lanka-prioritise-wedding-tourism-131823/) · `en`
-
-ECONOMYNEXT – A group of businesspersons from the Southern Gujarat Chamber of Commerce and Industry (SGCCI) visiting the Ceylon Chamber of Commerce to strengthen trade and investment ties between India and Sri Lanka, have suggested the island nation prioritise wedding tourism to tap into the growing Indian market for destination weddings.
-
-SGCCI proposed that Sri Lanka “prioritise Wedding Tourism to tap into the growing Indian market for destination weddings,” the Ceylon Chamber said in a statement.
-
-“Highlighting Sri Lanka’s pristine beaches, luxury resorts, and cultural appeal, the delegates suggested tailored wedding packages and targeted marketing campaigns in India to position the island as a premier destination.”
-
-SGCCI “expressed strong interest in forming joint ventures and collaborations with Sri Lankan companies, emphasising mutual benefits such as technological exchanges, shared expertise, and enhanced market access.
-
-...
-
-[Data](articles/de2babad.json)
-
-[Extended Data](ext_articles/de2babad.ext.json)
-
----
-
-### "Rajarata Regina" train derailment!
-
-*2024-11-29 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200001) · `ta`
-
-Here's a summary of the Rajarata Regina train derailment in 200 characters:
-
-
-
-Rajarata Regina train derailed Anuradhapura-Beliyatha route between Colombo Fort and Chief Secretariat Railway Stations at 11:10 AM on 29th.
-
-🟩
-
-The "Rajarata Regina" train, which was traveling from Anuradhapura to Beliyatha, has derailed between the Colombo Fort Railway Station and the Chief Secretariat Railway Station.
-
-The train derailed at 11.10 am today (29).
-
-◼️
-
-[Data](articles/5bf12b09.json)
-
-[Extended Data](ext_articles/5bf12b09.ext.json)
-
----
-
-### Two -thirds of Mannar are flooded - 67,928 people from 19,723 families
-
-*2024-11-29 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199982) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Heavy flooding affects 2/3 of Mannar district, displacing 67,928 people. 10,263 in 69 camps receive meals. 7,988 hectares of paddy fields submerged. Livestock issues due to rain. Road closures block traffic. Disaster relief efforts underway.
-
-🟩
-
-Two -thirds of the Mannar district has been flooded with floods. 67,928 people from 19,723 families in Mannar district have been affected, Mannar District Government Agent K. Kanageswaran said.
-
-A Special Coordination Committee meeting was held on Thursday (28) at the Mannar District Secretariat to investigate the inclement weather in the Mannar district.
-
-Rainfall in the Mannar district has caused heavy rainfall following the inferiority of the Bay of Bengal.
-
-Two -thirds of areas have been flooded in Mannar. As a result, 67,928 people from 19,723 families have been affected by the Mannar district.
-
-10,263 people from 3210 families have been housed in 69 camps. They are being served cooked food.
-
-We have received 7 million rupees for the cost of providing cooked foods and discharging flood water to the affected people.
-
-As a result, we have also requested more funding while paying the amount of food we cooked.
-
-The livelihood of the people here has been greatly affected due to rain since the 23rd.
-
-...
-
-[Data](articles/c22692fb.json)
-
-[Extended Data](ext_articles/c22692fb.ext.json)
-
----
-
-### Compensation to farmers affected by the rain
-
-*2024-11-29 14:10:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையால்-பாதிக்கப்பட்ட-விவசாயிகளுக்கு-நட்டஈடு/175-347983) · `ta`
-
-Government compensates farmers hit by rains: Deputy Minister focuses on rice bundle distribution, considering additional aid for onions, potatoes, soy, and peppers.
-
-🟩
-
-Deputy Minister of Agriculture Namal Karunaratne said that the government is focusing on the program of compensation for farmers affected by heavy rains.
-
-The Deputy Minister said that the existence of the rice bundle from the Department of Agriculture is very low and therefore expecting the same rice from paddy cultivation farmers.
-
-The Deputy Minister said that in the process of compensation, only the farmers who cultivated crops damaged by the rainfall this time have been given compensation to the farmers who have been damaged by the rainfall.
-
-He said that the onion, potatoes, soy and pepper should be compensated and the Cabinet will be asked to consider the financial situation in the treasury.
-
-◼️
-
-[Data](articles/c1899e64.json)
-
-[Extended Data](ext_articles/c1899e64.ext.json)
-
----
-
-### Chinese envoy responds to claims over ‘debt trap’ and ‘white elephant’ projects in Sri Lanka
-
-*2024-11-29 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103865/chinese-envoy-responds-to-claims-over-debt-trap-and-white-elephant-projects-in-sri-lanka) · `en`
-
-The Chinese Ambassador to Sri Lanka, Qi Zhenhong, says that while some critics label the large-scale projects implemented in Sri Lanka with Chinese financial assistance as “white elephants,” all such projects were developed according to the requests of the governments in power at the time.
-
-The Ambassador made these remarks during a meeting with a group of representatives of media organisations last evening (28), where the discussion touched on various topics including the projects funded by China in Sri Lanka.
-
-He emphasized that certain projects have not been optimally utilized due to inefficiencies in their operation by the Sri Lankan side.
-
-The Ambassador cited the Colombo Lotus Tower project as an example, noting that although it was leased to a private company, it has now started generating profits and he emphasized that the Lotus Tower has become a symbolic landmark for Sri Lanka.
-
-...
-
-[Data](articles/7b6946b1.json)
-
-[Extended Data](ext_articles/7b6946b1.ext.json)
-
----
-
-### Most HIV infections registered in 2024!
-
-*2024-11-29 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/199985) · `ta`
-
-Sri Lanka saw a 18% rise in HIV cases in Q2 2024 compared to 2023. Most patients were men under 25. This marks the highest quarterly count since 2009.
-
-🟩
-
-The National HIV/AIDS Control Scheme said that the highest number of HIV/AIDS in Sri Lanka has been identified in the second quarter of 2024.
-
-Since 2009, most HIV/AIDS patients have been identified in the second quarter of 2024.
-
-This reflects an increase of 18% more than the second quarter of 2023.
-
-In the second quarter, 28 men aged 15-24 and the remaining patients are over 25 years of age.
-
-◼️
-
-[Data](articles/0e514978.json)
-
-[Extended Data](ext_articles/0e514978.ext.json)
-
----
-
-### Indonesian rescuers search for missing in buried cars and bus after landslide in Sumatra
-
-*2024-11-29 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103864/indonesian-rescuers-search-for-missing-in-buried-cars-and-bus-after-landslide-in-sumatra) · `en`
-
-Indonesian rescuers on Friday searched for survivors buried in three cars and bus at the base of a cliff after flash floods and landslides in North Sumatra province killed at least 29 people.
-
-Torrential rain for the past week in the province has triggered flash floods and landslides in four different districts, Indonesia’s disaster agency has said.
-
-The death toll from one landslide on Wednesday on a hilly interprovince road rose to nine from seven, Hadi Wahyudi, the spokesperson of North Sumatra police told Reuters on Friday.
-
-At least five cars, one bus, and one truck were trapped at the base of a cliff following the landslide. On Friday, police and rescuers focused their search for missing people on three cars and one bus buried in mud.
-
-“We still don’t know how many people who were still trapped,” Hadi said.
-
-In other districts, landslides over the weekend killed 20 people and rescuers will keep searching for two missing people until Saturday.
-
-...
-
-[Data](articles/f8881680.json)
-
-[Extended Data](ext_articles/f8881680.ext.json)
-
----
-
-### Requests of Chinese projects called white elephants - Chinese Ambassador
-
-*2024-11-29 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203863) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Chinese Ambassador: Some projects not utilized due to operational issues. Lotus Tower profitable, Hambantota & Colombo ports to benefit SL. Colombo Port City project fully invested. Debts not traps, based on friendship. China to provide aid independently. Free Trade Agreement signing delayed due to SL's revision needs. China supported SL during COVID.
-
-🟩
-
-Chinese Ambassador to Sri Lanka, Chinese Ambassador to Sri Lanka, says that the massive projects implemented in Sri Lanka under Chinese financial assistance, Sri Lanka's ambassador to Sri Lanka's Chinese Ambassador to Sri Lanka.
-
-The Ambassador made this statement at a meeting with a delegation with a delegation from the media institution last evening.
-
-Chinese Ambassador to China, Chinese Ambassador, joined a meeting with a group of media institutions yesterday (28).
-
-The Ambassador said that some projects have not been properly utilized due to the poor operation of the Sri Lankan party in weaknesses.
-
-For example, the Lotus tower project that has leased to a private company has begun to make profits, and it has become a symbol of Sri Lanka.
-
-He also pointed out that China's Hambantota port and the Colombo Port will earn the Sri Lankan government.
-
-The Colombo Port City project was a fully Investment of the Colombo Port City project, he said that it was not spent in Sri Lanka.
-
-...
-
-[Data](articles/5ce283a5.json)
-
-[Extended Data](ext_articles/5ce283a5.ext.json)
-
----
-
-### Two fishing boats arrested with large stock of ice drugs
-
-*2024-11-29 13:43:44* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-මත්ද්‍රව්‍ය-විශාල-තොගයක්-සමග-ලංකාවේ-ධීවර-යාත්‍රා-දෙකක්-ඉන්දිය-අත්අඩංගුවට/11-413358) · `si`
-
-Sri Lankan fishing boats caught with large ice drug stock. Arrested by Indian Navy in joint operation with Sri Lanka Navy. Suspects handed over to authorities for further investigation.
-
-🟩
-
-As a result of a successful intelligence exchange between the Sri Lanka Navy and the Indian Navy, Sri Lankan suspects with a multi-day catchment vessel (01) have been involved in the racket of ice.A group of Sri Lankan suspects were arrested by the Indian Navy in the Indian waters at the Indian waters, on November 24 and 25.
-
-The Ice Drugs and the Sri Lanka Naval Ship Gajabhaba Gajabhaba Gajabhaba Gajabhaba Gajabhai have been handed over to the ship today (29).Future is being carried out to bring the land.
-
-◼️
-
-[Data](articles/1b30e851.json)
-
-[Extended Data](ext_articles/1b30e851.ext.json)
-
----
-
-### 344 families in Nuwara Eliya due to inclement weather, 1,297 people
-
-*2024-11-29 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199991) · `ta`
-
-Here's a 200-character summary:
-
-
-
-344 families (1,297 people) affected in Nuwara Eliya floods. 204 houses damaged. 462 people in temporary shelters. Landslide risk housing 153+54+60+36. Municipal efforts underway to drain water.
-
-🟩
-
-Nuwara Eliya District Government Agent Nandana Kalapoda said that 1,297 people from 344 families have been affected by the floods and other disasters in the Nuwara Eliya district on Friday (29).
-
-In addition, 204 houses have been partially damaged and 462 people from 117 families are safely housed in nine temporary intercourse camps and provided with food and other essential commodities.
-
-Due to the risk of landslide, 153 people from 32 families have been housed in temporary intercourse camps located at Samarhil School, Nuwara Eliya.
-
-54 people from 14 families have been safely housed in the temple due to the risk of landslides at the Kandapalai Congress.
-
-54 out of 14 families have been housed in a safe place established at the Nuwara Eliya Buddhist shrine.
-
-60 people from 21 families have been housed at the Alma Preschool School, Valappanai.
-
-36 people from 6 families have been housed in a safe place at Kotmale Tansinan Korenchi School.
-
-...
-
-[Data](articles/86fc18bf.json)
-
-[Extended Data](ext_articles/86fc18bf.ext.json)
-
----
-
-### Will the pension of the ministers too?
-
-*2024-11-29 13:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-ஓய்வூதியமும்-பறிபோகும்/175-347982) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Government cancels parliamentarians' perks, sells 150 luxury vehicles. Ministers' pensions under review. No decision on guns, homes. Committee to assess minister privileges. Official announcement pending.
-
-🟩
-
-The government has focused on the cancellation of parliamentarians, ministers' pension and tax -free vehicle license.
-
-Meanwhile, government sources say that the Cabinet is currently taking steps to sell 150 luxury vehicles belonging to the Ministries.
-
-The government has also decided not to provide luxury vehicles such as V8 and Montero to MPs.
-
-The same sources say that the decision will be taken only after reviewing the facts of ministers' salaries and payments.
-
-No decision has been taken so far on providing gun and gun training to MPs and homes for people's representatives.
-
-A special committee was recently appointed by President Anura Kumara Dissanayake to review the privileges of ministers.It is reported that the recommendations of the committee will be decided on the privileges of the ministers.
-
-When asked by a parliamentary official yesterday (28) regarding the privilege of MPs, he said, "The government has not yet issued an official announcement in this regard."
-
-...
-
-[Data](articles/075edbd1.json)
-
-[Extended Data](ext_articles/075edbd1.ext.json)
-
----
-
-### Sri Lanka coconut auction prices rise 9.4-pct, hit record high
-
-*2024-11-29 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-9-4-pct-hit-record-high-190756/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices were up 9.49 percent, recording the highest price, data from the Coconut Development Authority showed.
-
-Average coconut prices were up to 109,615.80 for 1,000 nuts from 99,684.19 at the auction held on November 28.
-
-A total of 527,199 coconuts were offered at the auction and 424,157 were sold.
-
-At the weekly CDA auction, the highest price for 1,000 nuts was priced at 110 rupees, while the lowest for 1,000 nuts was 96 rupees.
-
-Wholesale prices for large nuts were 140-150 and 110-120 rupees for small nuts on November 21.
-
-Coconut oil local wholesale price was 750,000.00 to 770,000.00 rupees per metric ton.
-
-Farmgate prices in Kurunegala were 100,000 to 105,000 per 1,000 nuts.
-
-◼️
-
-[Data](articles/02da1390.json)
-
-[Extended Data](ext_articles/02da1390.ext.json)
-
----
-
-### White van affair;Release
-
-*2024-11-29 13:12:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளை-வேன்-விவகாரம்-ராஜித-விடுதலை/175-347981) · `ta`
-
-Colombo High Court acquits Rajitha Senaratne two others 2019 White Van media controversy case
-
-🟩
-
-The Colombo High Court has acquitted former Minister Rajitha Senaratne and two persons in the 2019 controversial 'White Van' media meeting.R
-
-◼️
-
-[Data](articles/2c37dca3.json)
-
-[Extended Data](ext_articles/2c37dca3.ext.json)
-
----
-
-### The corpse of the man who was beaten in the river water
-
-*2024-11-29 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199984) · `ta`
-
-Body of 48-year-old wage laborer found in Kidangi River after 4-day search. Identified by family at Kalmunai hospital. Cause of death: drowning. Incident occurred near Drakandian area.
-
-🟩
-
-A wage laborer who traveled to the Kidangi River was found dead on Friday (29) after being drowned and disappeared last Tuesday (26).
-
-The navy, who had been searching for the man for four days, today found the body of the man as it was struck by the banks of the Drakandian area.
-
-Subsequently, the body was taken to the Kalmunai Resource Hospital. Subsequently, the relatives of the deceased identified the body.
-
-A 48 -year -old man from Kalmunai Pandaruppu has been flooded and died.
-
-◼️
-
-[Data](articles/9051a3c0.json)
-
-[Extended Data](ext_articles/9051a3c0.ext.json)
-
----
-
-### Random weather: 38,616 asylum in temporary camps
-
-*2024-11-29 13:11:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலை-38-616-பேர்-தற்காலிக-முகாம்களில்-தஞ்சம்/175-347980) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Heavy rains cause 38,616 asylum seekers in temporary camps across 24 districts. 102 homes destroyed, 2,096 damaged.
-
-🟩
-
-Pradeep Kodippili, Director of the Disaster Management Center, said that the number of detainees in the 24 districts of the country and temporary detention centers was 38,616 due to heavy rains.
-
-In addition, 102 houses have been completely damaged due to disasters.2,096 homes have been damaged. Those
-
-◼️
-
-[Data](articles/50166be3.json)
-
-[Extended Data](ext_articles/50166be3.ext.json)
 
 ---

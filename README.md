@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 12:01:44**
+As of **2024-11-30 12:41:46**
 
 ## Newspaper Stats
 
-*Scraped **57,711** Articles*
+*Scraped **57,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,445
-adaderanalk | 6,991
+adaderanalk | 6,993
 tamilmirrorlk | 8,206
 virakesarilk | 9,424
 adaderanasinhalalk | 9,961
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,709 (100.0%) of 57,711 articles have been extended.
+57,711 (100.0%) of 57,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### UK MPs back proposals to legalise assisted dying
+
+*2024-11-30 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103884/uk-mps-back-proposals-to-legalise-assisted-dying) · `en`
+
+MPs have backed proposals to legalise assisted dying in England and Wales in a historic vote which paves the way for a change in the law.
+
+In the first Commons vote on the issue in nearly a decade, MPs supported a bill which would allow terminally ill adults expected to die within six months to seek help to end their own life by 330 to 275, a majority of 55.
+
+It followed an emotional debate in the chamber, where MPs from both sides shared personal stories which had informed their decisions.
+
+The bill will now face many more months of debate and scrutiny by MPs and peers, who could choose to amend it, with the approval of both Houses of Parliament required before it becomes law.
+
+Supporters gathered outside Parliament wept and hugged each other as the result was announced.
+
+Campaign group Dignity in Dying said the vote was a “historic step towards greater choice and protection for dying people”.
+
+...
+
+[Data](articles/b59c9f5a.json)
+
+---
+
+### Air quality drops in several areas across Sri Lanka - NBRO
+
+*2024-11-30 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103883/air-quality-drops-in-several-areas-across-sri-lanka-nbro) · `en`
+
+The air quality levels have dropped in Colombo and several other areas across the country, the National Building Research Organisation (NBRO) said.
+
+Furthermore, the individuals who are experiencing respiratory difficulties are advised to seek immediate medical attention.
+
+According to the daily air quality report of NBRO’s Environmental Studies and Services Division, the Sri Lanka Air Quality Index (SLAQI) is expected to range between 92 and 120 throughout the day, as a result of the prevailing weather conditions and a border disturbance from the north.
+
+While this range falls within the “moderate” to “slightly harmful” categories, several urban areas are projected to reach unhealthy levels, as per the NBRO.
+
+Meanwhile in Colombo, the air quality is forecasted to range between 108 and 116, while Jaffna and Polonnaruwa are expected to record even higher levels, between 112 and 120 within the day.
+
+...
+
+[Data](articles/d8abcc82.json)
+
+---
 
 ### 141 Indian fishermen in Sri Lankan custody, Indian govt. informs Parliament
 
@@ -49,6 +91,8 @@ They have been provided with consular and legal assistance by our High Commissio
 ...
 
 [Data](articles/0cd3f39f.json)
+
+[Extended Data](ext_articles/0cd3f39f.ext.json)
 
 ---
 
@@ -295,6 +339,8 @@ In October investment goods and base metals were 381 million US dollars, up from
 ...
 
 [Data](articles/b5cc39f9.json)
+
+[Extended Data](ext_articles/b5cc39f9.ext.json)
 
 ---
 
@@ -2329,53 +2375,5 @@ Leader Thamba, who is staying in the wicket with Stubs, has scored 89 runs and t
 [Data](articles/c1ee0d24.json)
 
 [Extended Data](ext_articles/c1ee0d24.ext.json)
-
----
-
-### Chief Justice Jayantha Jayasuriya retires
-
-*2024-11-29 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203870) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Chief Justice Jayantha Jayasuriya retires. Attended farewell ceremony at Supreme Court Complex. Emphasized protecting public trust and maintaining judicial integrity. Highlighted importance of lawyer-judge cooperation.
-
-🟩
-
-Chief Justice Jayantha Jayasuriya, who retired from office, was held at the Supreme Court Complex today (29).
-
-The Court of Appeal and Supreme Court judges and the lawyers were present at the Ada Derana.
-
-Chief Justice Jayantha Jayasuriya said that he was a major challenge to protect the public on the Supreme Court of Sri Lanka, a lecture.
-
-The Chief Justice that the judges should act without violating that confidence and responsibility and that the mutual support mechanism of the Bar Association and the panel of judges is highly affecting the operation.
-
-◼️
-
-[Data](articles/00bd77d7.json)
-
-[Extended Data](ext_articles/00bd77d7.ext.json)
-
----
-
-### Homes in Nawalapitiya;Police instruct the people!
-
-*2024-11-29 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200009) · `ta`
-
-N
-
-🟩
-
-Police said that the walls of the houses in the village of Pallegama, Navalapitiya have broken down and the buildings have begun to fall.
-
-Police have advised 28 people from 6 families living in the houses to safe places.
-
-◼️
-
-[Data](articles/2125bda5.json)
-
-[Extended Data](ext_articles/2125bda5.ext.json)
 
 ---

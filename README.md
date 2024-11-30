@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 18:49:35**
+As of **2024-11-30 19:13:28**
 
 ## Newspaper Stats
 
-*Scraped **57,745** Articles*
+*Scraped **57,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,180 @@ dailymirrorlk | 4,733
 adalk | 5,447
 adaderanalk | 6,998
 tamilmirrorlk | 8,212
-virakesarilk | 9,429
-adaderanasinhalalk | 9,970
+virakesarilk | 9,433
+adaderanasinhalalk | 9,976
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,744 (100.0%) of 57,745 articles have been extended.
+57,748 (100.0%) of 57,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
 
-### உழவு இயந்திர விபத்து - மற்றுமொரு மாணவனின் சடலம் மீட்பு
+### Fengal warfts in weather
+
+*2024-11-30 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203905) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Fengal weather warning: Heavy rain expected in western, central Sri Lanka. Strong winds forecasted. Storm to weaken as it moves towards India."
+
+🟩
+
+The Department of Meteorology has issued an announcement announcement on Fengal's tustle.
+
+Today (30). In. The announcement issued at 05.00 tomorrow (01). In. The department is valid until 05.00, the Department said.
+
+The Meteorological Department stated to be aware of the deep and shallow sea areas around the island.
+
+Fengles in the Bay of Bay of Bay of Bay of Bengal. At about Rs.
+
+The North West will reach North Western in the evening of November 30th.
+
+This system will move to India and gradually weakness and the impact of the island is further declining.
+
+The northern province is heavy from the walakula and will be at times.
+
+Several spells of showers in the Western, Sabaragamuwa, North Western and North-Central provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or thundershowers will occur at a few places in the evening or night in the other areas.
+
+...
+
+[Data](articles/d1d2130c.json)
+
+[Extended Data](ext_articles/d1d2130c.ext.json)
+
+---
+
+### Disaster molestores up to 17 deaths
+
+*2024-11-30 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203904) · `si`
+
+Weather disaster claims 17 lives, injures 20. 479,871 displaced, 103 homes destroyed, 2,635 damaged. 27,570 seek shelter at relief centers.
+
+🟩
+
+The Disaster Management Center (DMC) says that 17 people have died due to inclement weather.
+
+Also, 20 persons were injured in the disaster.
+
+479,871 persons from 142,624 families have been displaced.
+
+103 houses were completely damaged and 2,635 houses were partially damaged.
+
+The center said that 27,570 people were retained at relief centers at 8,470 families.
+
+◼️
+
+[Data](articles/a1e2ae7b.json)
+
+[Extended Data](ext_articles/a1e2ae7b.ext.json)
+
+---
+
+### Plowing Mechanical Accident - Another student's body recovery
 
 *2024-11-30 18:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/உழவு-இயந்திர-விபத்து-மற்றுமொரு-மாணவனின்-சடலம்-மீட்பு/74-348015) · `ta`
 
-அம்பாறை, காரைத்தீவு பகுதியில் உழவு இயந்திரம் வெள்ள நீரில் கவிழ்ந்து விபத்துக்குள்ளானதில், நீரில் மூழ்கி காணாமல் போன மற்றுமொரு மாணவனின் சடலம் கண்டெடுக்கப்பட்டுள்ளது.
+Body of student recovered after drowning in floods. Navy, police, and residents conducted search operation. Incident occurred when plowing machine crashed into floodwaters. Five students' bodies previously found; three more discovered recently. Total of eight students' bodies recovered so far.
 
-கடற்படை, பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து மேற்கொண்ட தேடுதல் நடவடிக்கையில் இன்று (30) காலை மாணவனின் சடலம் கண்டெடுக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கடந்த 26ஆம் திகதி பிற்பகல் நிந்தவூர் பகுதியில் இருந்து சம்மாந்துறை பகுதிக்கு சென்று கொண்டிருந்த உழவு இயந்திரம் வெள்ளத்தில் சிக்கி கவிழ்ந்து விபத்துக்குள்ளானதில் அதில் பயணித்த 14 பேர் நீரில் மூழ்கிய நிலையில், அதில் 8 மாணவர்கள் காப்பாற்றப்பட்டனர்.
+The body of another student who was drowned in the floods in the Karadivu area in Ampara, has been found dead.
 
-இந்நிலையில், 5 மாணவர்களின் சடலங்கள் முன்னர் கண்டுபிடிக்கப்பட்டதோடு, உழவு இயந்திர சாரதி மற்றும் அதில் பயணித்த மற்றுமொருவரின் சடலங்களும் அண்மையில் கண்டெடுக்கப்பட்டன.
+The body of the student was found this morning (30) in a search operation by the navy, police and residents.
 
-இதன்படி, சம்பவத்தில் உயிரிழந்த பாடசாலை மாணவர்கள் உட்பட 8 பேரின் சடலங்கள் இதுவரை கண்டெடுக்கப்பட்டுள்ளன. R
+On the 26th of this month, the plowing machine from Nintavur area to Samanthurai area crashed into a flood and 14 people were drowned when they were submerged.
+
+In this case, the bodies of 5 students were earlier and the bodies of the plowing machine and the other traveler were recently found.
+
+Accordingly, the bodies of eight students, including school children who died in the incident, have been found so far.. Remble
 
 ◼️
 
 [Data](articles/faf10157.json)
+
+[Extended Data](ext_articles/faf10157.ext.json)
+
+---
+
+### Flood warnings extended
+
+*2024-11-30 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203903) · `si`
+
+Flood warnings extended: Mahaweli River & Deduru Oya basin. Roads closed due to rising waters. Hartama warning lifted. Irrigation Dept monitors rainfall & river levels. Flood preparations underway.
+
+🟩
+
+The Irrigation Department has taken steps to extend the flood warning notification issued for the Mahaweli River and Deduru Oya basin.
+
+As a result, the department has requested the roads from the public and region of the area residents of the area.
+
+Meanwhile, the Irrigation Department has also taken steps to remove the flood warning notification issued in the Hartama.
+
+The department said that the Department of Image Department is constantly concerned about the changes in rainfalls island wide and the effects Department is constantly concerned about the changes in the river water levels.
+
+The Department of Irrigation has stated that arrangements have been made to pay prior notifications if there is a flood.
+
+◼️
+
+[Data](articles/ccfe033c.json)
+
+[Extended Data](ext_articles/ccfe033c.ext.json)
+
+---
+
+### யாழ். மாவட்ட அரசாங்க அதிபரை சந்தித்தார் சிறீதரன்
+
+*2024-11-30 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200100) · `ta`
+
+யாழ்ப்பாண மாவட்ட அரசாங்க அதிபரும் மாவட்டச் செயலாளருமான மருதலிங்கம் பிரதீபனை பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் இன்று சனிக்கிழமை (30) அரசாங்க அதிபர் அலுவலகத்தில் சந்தித்து கலந்துரையாடினார்.
+
+இச்சந்திப்பில் தற்போதைய வெள்ள அனர்த்த நிலைமைகள் மற்றும் எடுக்கப்பட்டுவரும் நடவடிக்கைகள் தொடர்பாக கலந்துரையாடப்பட்டது.
+
+◼️
+
+[Data](articles/e2f0099c.json)
+
+---
+
+### யாழ். மாவட்ட ஒருங்கிணைப்புக் குழுத் தலைவராக அமைச்சர் இராமலிங்கம் சந்திரசேகர் நியமனம்
+
+*2024-11-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200093) · `ta`
+
+ஜனாதிபதியினது உத்தரவுக்கமைய, யாழ்ப்பாண மாவட்ட ஒருங்கிணைப்புக் குழுத் தலைவராக பாராளுமன்ற உறுப்பினரும் கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சருமான இராமலிங்கம் சந்திரசேகர் நியமிக்கப்பட்டுள்ளார்.
+
+இந்த விடயம் தொடர்பில் பொது நிர்வாக மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர்  போராசிரியர் ஏ.எச்.எம்.எச். அபயரத்னவினால் கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள்  அமைச்சரின் முகவரியிடப்பட்டு, யாழ்ப்பாண மாவட்ட அரசாங்க அதிபருக்கு பிரதியிடப்பட்ட கடிதம் கடந்த 28ஆம் திகதி அனுப்பப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/62c81aa4.json)
+
+---
+
+### අම්පාරේදී සැඩ පහරට හසුව අතුරුදන් වූ තවත් සිසුවෙකුගේ මළ සිරුරක් සොයා ගැනේ
+
+*2024-11-30 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203902) · `si`
+
+අම්පාර කාර්තිව් ප්‍රදේශයේ ට්‍රැක්ටර් රථයක් සැඩපහරට හසුව පෙරළීයාම හේතුවෙන් දියේ ගිලී අතුරුදන්වු තවත් පාසල් සිසුවෙකුගේ මළ සිරුරක්  සොයාගෙන තිබේ.
+
+පොලිසිය පැවසුවේ නාවික හමුදාව, පොලිසිය සහ ප්‍රදේශවාසීන් එක්ව සිදුකළ සෝදිසි මෙහෙයුමක දී අද (30) උදෑසන එම සිසුවාගේ මළ සිරුර සොයාගත් බවය.
+
+පසුගිය 26වනදා පස්වරුවේ නින්දවුර් ප්‍රදේශයේ සිට සමන්තුරෙයි ප්‍රදේශයට ධාවනය වූ ට්‍රැක්ටර් රථයක් පැවති ජල ගැලීම් තත්වය හමුවේ සැඩපහරට හසුව පෙරළී යාමෙන් එහි ගමන් කළ පාසල් සිසුන් 14 දෙනෙකු දියේ ගිලී අනතුරට ලක්ව තිබු අතර ඉන් සිසුන් 08 දෙනෙකු මුදා ගැනීමට හැකි තිබුණි.
+
+සිසුන් 05 දෙනෙකුගේ මළ සිරුරු මීට පෙර සොයාගෙන තිබු අතර ට්‍රැක්ටර් රථ රියදුරු සහ එහි ගමන් කළ තවත් පුද්ගලයෙකුගේ මළ සිරුරක් ද පසුගිය දා සොයාගත් ගැනුණි.
+
+ඒ අනුව අදාල සිද්ධියෙන් මියගිය පාසල් සිසුන් ඇතුළු 08 දෙනෙකුගේ මළ සිරුරු මේ වන විට සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/7d432766.json)
 
 ---
 
@@ -75,6 +219,30 @@ In addition, landslides have been issued to areas where the risk of landslides i
 [Data](articles/e6b6be9a.json)
 
 [Extended Data](ext_articles/e6b6be9a.ext.json)
+
+---
+
+### පළමු ටෙස්ට් ක්‍රිකට් තරගයෙන් දකුණු අප්‍රිකාවට ජය
+
+*2024-11-30 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203901) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමග පැවැති පළමු ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 233කින් ජය ගැනීමට දකුණු අප්‍රිකාව අද (30) සමත් විය.
+
+මෙම ජයත් සමග දකුණු අප්‍රිකාව තරග දෙකකින් සමන්විත තරගාවලිය එකට බින්දුවක් ලෙස පෙරමුණ හිමිකර ගැනීමට සමත්ව තිබේ.
+
+අද දිනය ආරම්භ කරන විට ලකුණු 516ක ඉලක්කයක් හඹා යන ශ්‍රී ලංකා කණ්ඩායම සිය දෙවන ඉනිම සඳහා කඩුලු 5ක් දැවී ලකුණු 103ක් ලබා සිටියේය.
+
+අද දිනයේදී බිඳවැටුණු ශ්‍රී ලංකා දෙවන ඉනිමට ජවයක් එක් කිරීමට දිනේෂ් චන්දිමාල් සහ නායක ධනංජය ද සිල්වා සමත් විය.
+
+දිනේෂ් චන්දිමාල් අද වාර්තා කළේ සිය ටෙස්ට් ක්‍රිකට් දිවියේ 30 වැනි අර්ධ ශතකයයි.
+
+නායක ධනංජය ද සිල්වා සිය ටෙස්ට් ක්‍රිකට් දිවියේ  18 වැනි අර්ධ ශතකය වාර්තා කිරීමට ද සමත් විය.
+
+චන්දිමාල්ගේ සහ ධනංජයගේ සබඳතාව බිඳ වැටුණේ දිනයේ පළමු කඩුල්ල ලෙස නායක ධංජය ද සිල්වා ලකුණු 59කට දැවී යාමත් සමගය.
+
+◼️
+
+[Data](articles/5f317a12.json)
 
 ---
 
@@ -133,6 +301,62 @@ Meanwhile, party leaders have also decided to give youth more opportunity in par
 [Data](articles/747b060e.json)
 
 [Extended Data](ext_articles/747b060e.ext.json)
+
+---
+
+### මහරගම බිහිසුණු රිය අනතුරකින් අයෙක් මරුට
+
+*2024-11-30 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203900) · `si`
+
+අනතුරින් මියගොස් ඇත්තේ පිළියන්ද ප්‍රදේශයේ පදිංචි සුපුන් සුලෝකන අකලංක නැමැති 30 හැවිරිදි අයෙකි.
+
+ඔහු ජනාධිපති ලේකම් කාර්යාලයේ සේවයේ නිරතව සිටි කළමණාකරණ සහකාරකවරයෙකු බවද පොලීසිය පවසයි.
+
+ඔහු ශ්‍රී ජයවර්ධනපුර නව රෝහල දෙස සිට යතුරු පැදියෙන් පමුණුව දෙසට එමින් සිටියදී නව රෝහල දෙසට ධාවනය වූ සුඛෝපභෝගී ජීප් රථයක් රියදුරුට පාලනය කරගත නොහැකිව මෝටර් රථ දෙකක, ත්‍රීරෝද රථයක සහ යතුරුපැදියක ගැටී අනතුර සිදුව තිබුණි.
+
+අනතුරින් තුවාල ලැබූ යතුරුපැදිකරු ශ්‍රී ජයවර්ධනපුර රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් තිබේ.
+
+අනතුර සම්බන්ධයෙන් ජීප් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+මේ අතර දක්ෂිණ අධිවේගී මාර්ගයේ පින්නදූව පිවිසුම් මාර්ගයේ වලහන්දූව ජනාධිපති බාලිකා විද්‍යාලය අසල මාර්ගයේ අද (30) සවස සිදුවූ අනතුරකින් මවක් සහ දියණියක් තුවාල ලබා තිබේ.
+
+නවතා තිබූ මෝටර් රථයේ පුද්ගලයන් 4 දෙනෙකු සිට ඇති අතර පිටුපස අසුනේ සිටි කාන්තාව සහ ඇයගේ දියණිය මෙලෙස තුවාල ලබා තිබුණි.
+
+◼️
+
+[Data](articles/aaab225c.json)
+
+---
+
+### வவுனியாவில் யானை தாக்கி கடற்படை அதிகாரி உயிரிழப்பு!
+
+*2024-11-30 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200082) · `ta`
+
+வவுனியாவில் கடற்படை லெப்டினன்ட் தர அதிகாரியொருவர் காட்டு யானை தாக்கி உயிரிழந்த சம்பவம் நேற்று வெள்ளிக்கிழமை (29) இடம்பெற்றதாக பூனாவ பொலிஸார் தெரிவித்தனர்.
+
+இந்த அதிகாரி பணி நிமித்தமாக கொழும்புக்கு சென்றுவிட்டு, பேருந்தில் பூனாவ கடற்படை முகாமுக்கு திரும்பியுள்ளார்.
+
+பேருந்திலிருந்து இறங்கி தான் கடமையாற்றும் முகாமுக்கு சென்றுகொண்டிருந்தபோதே யானை தாக்கியதாக பொலிஸார் தெரிவித்தனர்.
+
+பூனாவ கடற்படை முகாமில் கடமையாற்றி வந்த மத்தலான, நிட்டம்புவவில் வசிக்கும் கடற்படை வீரரே உயிரிழந்துள்ளார்.
+
+யானை தாக்கியதில் பலத்த காயமடைந்தவரை கடற்படையினரும் உள்ளூர் மக்களும் இணைந்து வவுனியா மருத்துவமனைக்கு கொண்டு சென்றபோது உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/50b4023d.json)
+
+---
+
+### செட்டிக்குளத்தில் இளம் குடும்பப் பெண் தீயில் எரிந்து உயிரிழப்பு!
+
+*2024-11-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200081) · `ta`
+
+வவுனியா, செட்டிக்குளம், பெரியகுளம் பகுதியில் வசித்து வந்த இந்தப் பெண் வீட்டில் மண்ணெண்ணெய் ஊற்றி தீ வைத்து எரிந்த நிலையில், அயலவர்களால் மீட்கப்பட்டு செட்டிக்குளம் வைத்தியசாலையில் அனுமதிக்கப்பட்டு வவுனியா வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர், சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/b9aba0a3.json)
 
 ---
 
@@ -2091,271 +2315,5 @@ Harinini Amarasuriya said that they should help their children to create a stron
 [Data](articles/ba142fab.json)
 
 [Extended Data](ext_articles/ba142fab.ext.json)
-
----
-
-### Keheliya Cabinet has violated the trust of the Minister - Attorney General tells court
-
-*2024-11-29 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203881) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Attorney General accuses former Health Minister Keheliya Rambawella of violating Cabinet trust over substandard antibody purchase. Case heard in Maligakanda Magistrate Court, involving former ministers and suppliers. Trial set for February 18.
-
-🟩
-
-The Attorney General told the Maligakanda Magistrate today that former Health Minister Keheliya Rambawella has violated the collective confidence of the Cabinet and the Cabinet of Cabinet.
-
-The Deputy Solicitor General Lakhagama Girihagama told the Attorney General to the court that the Cabinet has said that the Cabinet has said to the Cabinet paper.
-
-The law related to the purchase of substandard antibodies was taken up again in the Maligakanda Magistrate's Court today.
-
-The first 10 suspects who were released on bail were in the court who were released on bail.
-
-The Deputy General of the Government presented a report from the Cabinet of Cabinet to the Cabinet Department of the CID at the CID at the CID.
-
-...
-
-[Data](articles/c601a409.json)
-
-[Extended Data](ext_articles/c601a409.ext.json)
-
----
-
-### Thanks to President Anura for cooperating in the North and East - Selvam Adakkalanathan MP
-
-*2024-11-29 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200047) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Thanking President Anura for allowing Heroes Day commemoration. Parliamentarian Selvam Adakkalanathan praises cooperation between North, East regions. Expresses gratitude for government approval to honor national heroes. Mentions past issues with police/military interference during commemorations.
-
-🟩
-
-I thank President Anura Kumara Dissanayake and the government's permission to commemorate the day -long Heroes Day, which is a tribute to the people's mind.. Vanni district parliamentarian Selvam Adakkalanathan said.
-
-First of all, I would like to thank the President for granting permission to carry out this opportunity to commemorate the tragedies in the minds of the people.
-
-As we see in the past, the police and the military's evils were continued during the commemoration of the Heroes, and this time, the police were inconvenienced by the police during the Heroes Day commemoration.
-
-I thank the President and the current government. In his message.
-
-◼️
-
-[Data](articles/be41deb6.json)
-
-[Extended Data](ext_articles/be41deb6.ext.json)
-
----
-
-### AG will not represent former IGP and Defense Secretary, court told
-
-*2024-11-29 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103875/ag-will-not-represent-former-igp-and-defense-secretary-court-told-) · `en`
-
-The Attorney General’s Department today informed the Supreme Court that it will not represent former Inspector General of Police (IGP) C.D. Wickramaratne and former Defense Secretary Major General (Retired) Kamal Gunaratne, who are named as respondents in a fundamental rights petition filed by former CID Director Shani Abeysekera, challenging his suspension from the service.
-
-The petition was taken up today (29) before a three-member Supreme Court bench comprising Justices S. Thurairaja, A.H.M.D. Nawaz, and Priyantha Fernando.
-
-Additional Solicitor General Viveka Siriwardena, appearing on behalf of the respondents, informed the court that the Attorney General would no longer represent former IGP C.D. Wickramaratne and former Defense Secretary Maj. Gen. (Retired) Kamal Gunaratne. The bench advised the said respondents to seek private legal counsel.
-
-The court adjourned further consideration of the petition to February 03.
-
-...
-
-[Data](articles/f9193a1a.json)
-
-[Extended Data](ext_articles/f9193a1a.ext.json)
-
----
-
-### The funeral of the Heroes of the Montehth Amendment is held in the country
-
-*2024-11-29 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203879) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Funeral held for heroes of Monteth Amendment. Elephant named Sanghandasa 1 buried today. Local magistrate orders homeowner detained over electricity issue. Kalawiva National Park faces challenges. Largest threats to Kalawwa Forest Reserve identified. Foreign visitors drawn to elephant sanctuary.
-
-🟩
-
-The funeral of the "Sanghandasa 1" elephant was held this morning.
-
-Meanwhile, Kekirawa Magistrate ordered the owner of the house to be remanded until the 12th of the house where the electrical coordination of electricity.
-
-The Kalawiva National Park was an enaction in the face of the Kalawwa National Park, the final hand of the Kalawewa electorate.
-
-The largest hazards of the Kalawwa forest reserve and the older handing of the Sangamped elephant and the older elephant lived in the center of the Sangani Kalawwawe National Park and Kahalla Pallekele Sanctuary.
-
-Foreign travelers arrived in this area, desire to see this style elephant.
-
-◼️
-
-[Data](articles/a553795e.json)
-
-[Extended Data](ext_articles/a553795e.ext.json)
-
----
-
-### 6 sentenced to death over murder at funeral in Narahenpita
-
-*2024-11-29 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103874/6-sentenced-to-death-over-murder-at-funeral-in-narahenpita) · `en`
-
-The Colombo High Court has sentenced six defendants to death for the murder of one person and causing injuries to several others during a 2016 incident at a funeral in Narahenpita.
-
-The verdict was delivered by Colombo High Court Judge Adithya Patabendige following a lengthy trial.
-
-The Attorney General had filed the case against eight defendants regarding the murder of Manjula Mahesh Jayathilake and injuries to several others following a clash between two groups at a funeral in Udyana Mawatha, Narahenpita on July 20, 2016.
-
-However, two of the defendants have passed away during the duration of the trial.
-
-After extensive proceedings, the judge ruled that the prosecution had proven the charges against the defendants beyond a reasonable doubt.
-
-Accordingly, the judge imposed the death sentence on the six defendants.
-
-◼️
-
-[Data](articles/0d3ca181.json)
-
-[Extended Data](ext_articles/0d3ca181.ext.json)
-
----
-
-### ‘Red’ alert issued for Cyclone ‘FENGAL’: Severe weather expected, impact to reduce after today
-
-*2024-11-29 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103873/red-alert-issued-for-cyclone-fengal-severe-weather-expected-impact-to-reduce-after-today) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert warning for the Cyclone “FENGAL” over Southwest Bay of Bengal for the land, the deep and shallow sea areas around the island.
-
-As per the warning, the Deep Depression over Southwest Bay of Bengal moved north-northwestwards and intensified into a cyclonic storm “FENGAL” and was located about 280 km Northeast of Kankasanthurai and 310 km north-northeast of Trincomalee at 2.30 p.m. today, November 29, 2024.
-
-It is likely to move west-northwestwards and cross north Tamil Nadu-Puducherry coasts as a cyclonic storm around noon of November 30, the advisory said.
-
-It can be expected that the influence of this system on the island’s weather will gradually reduce after today (29).
-
-Meanwhile, showers or thundershowers will occur at times in Northern and North-central provinces and in Trincomalee district. Heavy showers above 100 mm are likely at some places in Northern province.
-
-...
-
-[Data](articles/4be5afa1.json)
-
-[Extended Data](ext_articles/4be5afa1.ext.json)
-
----
-
-### Compensation for affected farmers
-
-*2024-11-29 20:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்ட-விவசாயிகளுக்கு-இழப்பீடு/175-347987) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Agriculture Deputy Minister Namal Karunaratne announced compensation for flood-hit farmers: 40,000 rupees per crop (rice, wheat, potatoes, onions, chili, soybeans). 4,800 acres affected; 3,900 more impacted. Relief measures underway.
-
-🟩
-
-The Deputy Minister of Agriculture has said that a maximum of 40,000 rupees will be given to the perpetrators of floods, rice, wheat, potatoes, big onions, chilli and soy beans.
-
-Meanwhile, Deputy Minister of Agriculture Namal Karunaratne said that the farmers affected by the rainy weather in the country will be given proper relief.
-
-He also pointed out that 4,800 acres of agriculture have been completely affected due to inclement weather and 3,900 acres.. Remble
-
-◼️
-
-[Data](articles/5e1f12ca.json)
-
-[Extended Data](ext_articles/5e1f12ca.ext.json)
-
----
-
-### South Korea's job racket in South Korea
-
-*2024-11-29 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203878) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-South Korea job scam exposed: Ada Derana accused of misleading E7/E8 visa approvals. Sri Lanka's Foreign Employment Bureau investigates illegal recruitment in Angunakolapelessa. Two suspects arrested, court remanded. No legitimate Korean job offers received regarding E7/E8 visas.
-
-🟩
-
-Ada Derana was hawlled for a deceptive racket that the E7 and E8 visas were not approved from South Korea.
-
-The country was revealed to the country during a number of occasions as a 'Derana' hawk 'hawk.
-
-The Foreign Employment Bureau had received information that two people would illegally engage in the Angunakolapelessa area.
-
-Accordingly, the raid officers went to Angunakolapelessa in Angunakolapelessa with Ada Derana.
-
-A maid of Korean employment opportunities explained to the Foreign Employment Institute.
-
-"Only weldies are sent to Korea. Send three months. Then you find a bank lort of Rs. 25 lakhs. Go there to teach the laangey. 8 lakhs. "
-
-On that information, our related workshop went to the hotel that was illegal and two people, two people, explaining the Korean employment opportunities for a group.
-
-The two suspects were arrested by the officers of the Foreign Employment Bureau.
-
-They were revealed that they had not failed a job license at another institution.
-
-...
-
-[Data](articles/fdbe7a4b.json)
-
-[Extended Data](ext_articles/fdbe7a4b.ext.json)
-
----
-
-### Mahaoyayil man arrested with domestic gun
-
-*2024-11-29 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200037) · `ta`
-
-Man, 44, arrested with local firearm in Mahaoya area. Detained during police operation, transferred to Mahaoya station for investigation.
-
-🟩
-
-A man was arrested on Thursday (28) with a domestic gun in the Haraskala area of ​​the Arandalawa and Mahaoya police division.
-
-He was arrested during a raid conducted by a team of officials of the Arandalawa Police Special Task Force Base.
-
-The suspect was 44 years old from Mahaoya area.
-
-Subsequently, the arrested person has been handed over to the Mahaoya police station for further investigations.
-
-◼️
-
-[Data](articles/ce73e0d2.json)
-
-[Extended Data](ext_articles/ce73e0d2.ext.json)
-
----
-
-### Japanese assistance to Katunayake airport
-
-*2024-11-29 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200039) · `ta`
-
-Japan donates $8.4m aid to Katunayake airport: ambulances, scanners, toilets, medical gear. Part goes to Maldives, Colombo Port.
-
-🟩
-
-A total of US $ 8.4 million worth of goods and equipment donated by the Japanese government was handed over to the airport officials at the Katunayake airport gold route terminal on Friday (29).
-
-These donations were found in ambulances, garbage carts, self-loaded garbage bins, recent C-2 technical passenger package scanners, toilet systems, medical equipment, electronic gate for immigration officers, passport scanners and digital boards.
-
-Japanese Ambassador to Sri LankaAttended the event.
-
-It is noteworthy that part of this assistance will be provided to the Maldives and the Colombo Port.
-
-◼️
-
-[Data](articles/13fee97b.json)
-
-[Extended Data](ext_articles/13fee97b.ext.json)
 
 ---

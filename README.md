@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 10:01:27**
+As of **2024-11-30 11:00:29**
 
 ## Newspaper Stats
 
-*Scraped **57,699** Articles*
+*Scraped **57,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,161 @@ islandlk | 3,459
 economynextcom | 3,510
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,444
-adaderanalk | 6,988
-tamilmirrorlk | 8,202
+adalk | 5,445
+adaderanalk | 6,989
+tamilmirrorlk | 8,206
 virakesarilk | 9,424
-adaderanasinhalalk | 9,958
+adaderanasinhalalk | 9,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,692 (100.0%) of 57,699 articles have been extended.
+57,701 (100.0%) of 57,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### குளிர் காரணமாக தீயில் சிக்கி ஒருவர் மரணம்
+
+*2024-11-30 10:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிர்-காரணமாக-தீயில்-சிக்கி-ஒருவர்-மரணம்/175-348009) · `ta`
+
+முல்லைத்தீவு - சிலாவத்தை பகுதியில் நேற்று (29) பிற்பகல் தீயில் சிக்கி ஒருவர் உடல் கருகி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்தவர் சிலாவத்தை பகுதியைச் சேர்ந்த 75 வயதுடையவர் என்பதுடன், அவர் தனது மகனின் வீட்டிற்கு அருகிலுள்ள வீடொன்றில் தனியாக வசித்து வந்துள்ளார்.
+
+குளிர் காரணமாக வீட்டிற்கு முன்னால் தீ மூட்டியதாகவும், அந்த தீ பரவியதன் காரணமாக இந்த மரணம் ஏற்பட்டிருக்கலாம் என பொலிஸார் தெரிவிக்கின்றனர்.
+
+சடலம் பிரேத பரிசோதனைக்காக மாஞ்சோலை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், முல்லைத்தீவு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/a1df1362.json)
+
+---
+
+### தொற்றா நோய்கள் பரவும் அபாயம்
+
+*2024-11-30 10:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொற்றா-நோய்கள்-பரவும்-அபாயம்/175-348008) · `ta`
+
+தற்போது பெய்து வரும் அடைமழை காரணமாக எதிர்காலத்தில் டெங்கு, எலிக்காய்ச்சல் போன்ற நோய்கள் பரவுவது வேகமாக அதிகரிக்கலாம் என, சுகாதாரத் துறையினர் தெரிவிக்கின்றனர்.
+
+எதிர்வரும் நாட்களில் வெள்ளம் தணிந்ததன் பின்னர் டெங்கு பரவுவதை கட்டுப்படுத்த நடவடிக்கை எடுப்பது அத்தியாவசியமானது என, தேசிய டெங்கு கட்டுப்பாட்டு பிரிவின் சமூக சுகாதார நிபுணர் டொக்டர் அனோஜா தீரசிங்க தெரிவித்தார். AN
+
+◼️
+
+[Data](articles/7dcb557d.json)
+
+---
+
+### 4 மாவட்டங்களுக்கு 16 பேரிடர் மீட்பு குழுக்கள் நியமனம்
+
+*2024-11-30 10:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாவட்டங்களுக்கு-16-பேரிடர்-மீட்பு-குழுக்கள்-நியமனம்/175-348007) · `ta`
+
+நாடளாவிய ரீதியில் பெய்து வரும் கடும் மழையினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காக 4 மாவட்டங்களுக்கு 16 பேரிடர் மீட்பு குழுக்கள் நியமிக்கப்பட்டுள்ளதாக, கடற்படை தெரிவித்துள்ளது.
+
+அம்பாறை, புத்தளம் மற்றும் அனுராதபுரம் மாவட்டங்களில் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம், உதவி வழங்குவதற்காக இந்தக் குழுக்கள் நியமிக்கப்பட்டுள்ளதாக கடற்படை தெரிவித்துள்ளது.
+
+இதேவேளை, வட பிராந்தியத்திலுள்ள பரீட்சை நிலையங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ள  உயர்தரப் பரீட்சைக்கான வினாத்தாள்களை மீண்டும் கொண்டு வருவதற்கு, பெல் 212 ரக ஹெலிகொப்டர் அனுப்பப்பட்டுள்ளதாக இலங்கை விமானப்படை தெரிவித்துள்ளது. AN
+
+◼️
+
+[Data](articles/f9041beb.json)
+
+---
+
+### Special notification to taxpayers
+
+*2024-11-30 09:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்துனர்களுக்கு-விசேட-அறிவித்தல்/175-348006) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Income tax deadline: Today (30). Reports via enemy only. Offices open tomorrow for support. Ceylon Bank branch at Jawatte for payments.
+
+🟩
+
+The Department of Home Affairs has announced that the final day of submitting income tax reports for 2023/2024 will be completed today (30).
+
+The Department said that the reports will be obtained only through enemy, and the head office, regional and city offices of the Internal Revenue Department will open tomorrow as a regular working day to provide technical support.
+
+In addition, the Ceylon Bank Branch, located at the Jawatte Office complex, will be opened to pay income tax, the Department of Internal Affairs said that the Income Tax. Remble
+
+◼️
+
+[Data](articles/be6842a3.json)
+
+[Extended Data](ext_articles/be6842a3.ext.json)
+
+---
+
+### සීතල නිසා දැල් වූ ගිනිමැළයකට හසුව පුද්ගලයෙකු මරුට
+
+*2024-11-30 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203888) · `si`
+
+මුලතිව්හි සිලාවත්ත ප්‍රදේශයේ පුද්ගලයෙකු ගින්නකට හසුවී පිළිස්සී මියගොස් ඇති බව පොලීසිය පවසයි.
+
+මියගිය පුද්ගලයා සිලාවත්ත ප්‍රදේශයේ පදිංචි අවුරුදු 75ක පුද්ගලයෙකු වන අතර, ඔහු සිය පුත්‍රයාගේ නිවස ආසන්නයේ පිහිටි නිවසක තනිවම වාසය කර තිබේ.
+
+පොලීසිය පවසන්නේ සීතල හේතුවෙන් නිවස තුළ දල්වන ලද ගින්නක් ව්‍යාප්තවීමෙන් මෙම මරණය සිදුවන්නට ඇති බවය.
+
+මෘත ශරීරය පශ්චාත් මරණ පරීක්ෂණය සඳහා මාන්චෝලය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, මුලතිව් පොලීසිය මේ පිළිබඳ වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/a62bb9d5.json)
+
+---
+
+### ශ්‍රී ලංකා යෞවනයන්ගෙන් ජයග්‍රාහී ආරම්භයක්
+
+*2024-11-30 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203887) · `si`
+
+ආසියානු වයස 19න් පහළ එක්දින ක්‍රිකට් තරගාවලිය යටතේ ශ්‍රී ලංකා කණ්ඩායම ක්‍රීඩාකළ පළමු තරගයෙන් නේපාලයට එරෙහිව ලකුණු 55ක ජයක් ලැබීමට සමත් විය.
+
+මෙම තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වෙන අතර, ශ්‍රී ලංකා කණ්ඩායම ක්‍රීඩාකළ තරගය ඊයේ (29) සාජාහිදී පැවැත්විණි.
+
+පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකාව පන්දුවාර 50 තුළදී සියලු දෙනා දැවී ලකුණු 233ක් රැස්කිරීමට සමත් විය.
+
+එහිදී ශාරුජන් ෂම්මුගනාදන් (62) හා ලක්වින් අබේසිංහ (50) අර්ධ ශතක රැස්කළහ.
+
+කෙසේ නමුත් පිළිතුරු ඉනිම ක්‍රීඩාකළ නේපාලයට පන්දුවාර 46.2කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 178ක් පමණි.
+
+ආරම්භක පිතිකරු මායන් යාදව් ලකුණු 62ක් රැස්කළත් එය ජයග්‍රහණයට ප්‍රමාණවත් නොවීය.
+
+ප්‍රවීන් මනීෂ ලකුණු 30කට කඩුලු 3ක් දවාගනිමින් ශ්‍රී ලංකාව වෙනුවෙන් දක්ෂ පන්දු යැවීමක නිරත විය.
+
+ඊට අමතරම නිව්ටන් රංජිත්කුමාර් (2/17), කුගදාස් මාතුලන් (2/21) හා නායක විහස් තෙව්මික (2/51) කඩුලු 2 බැගින් දවාගත්තේය.
+
+මේ අතර මෙම තරගාවලිය ආරම්භ කරමින් ඊයේ පැවති පළමු තරගයෙන් ඇෆ්ගනිස්තානය පරාජය කර ලකුණු 45ක ජයක් ලැබීමට බංග්ලාදේශය සමත් විය.
+
+...
+
+[Data](articles/68b17af1.json)
+
+---
+
+### African swine fever controlled to some extent, says Veterinary Association
+
+*2024-11-30 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103880/african-swine-fever-controlled-to-some-extent-says-veterinary-association) · `en`
+
+The State Veterinary Surgeons’ Association (SVSA) has announced that the spread of African swine fever has presently been brought under control to a certain extent.
+
+SVSA President Dr. Sisira Piyasiri stated that measures will be implemented to ensure that pork from farms unaffected by the disease is processed for human consumption under strict protocols.
+
+Meanwhile, farm owners have expressed concerns over the extensive damage caused by the outbreak, with many farms being completely devastated.
+
+They urged the government to take immediate steps to provide compensation to help rebuild their businesses.
+
+◼️
+
+[Data](articles/223dd777.json)
+
+[Extended Data](ext_articles/223dd777.ext.json)
+
+---
 
 ### Police OIC arrested over bribery allegations
 
@@ -91,6 +231,26 @@ Showers or thundershowers may occur at a few places elsewhere of the island in t
 ...
 
 [Data](articles/f306f87b.json)
+
+[Extended Data](ext_articles/f306f87b.ext.json)
+
+---
+
+### අප්‍රිකානු සූකර උණ රෝගයේ අලුත්ම තත්ත්වය
+
+*2024-11-30 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203886) · `si`
+
+අප්‍රිකානු සූකර උණ රෝගය යම් මට්ටමකින් මේ වනවිට පාලනය කර ඇති බව රජයේ පශු වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ සභාපති වෛද්‍ය සිසිර පියසිරි මහතා පවසා සිටියේ, රෝගය වැලඳී නොමැති ගොවිපළවල මස් නිවරදි ක්‍රමවේදය යටතේ මිනිස් පාරිභෝජනය සඳහා යෙදවීමට පියවර ගන්නා බවයි.
+
+එමෙන්ම අප්‍රිකානු සූකර උණ රෝගය වැලඳීම හේතුවෙන් ගොවිපළ රැසක් මේ වනවිට සම්පූර්ණයෙන්ම විනාශ වී ඇති බව එහි හිමිකරුවන් පෙන්වා දෙයි.
+
+එනිසා සිය ව්‍යාපාර යළි ගොඩනගා ගැනීම සඳහා වන්දි මුදලක් ලබාදීමට රජයෙන් පියවර ගතයුතු බව ඔවුන් පවසයි.
+
+◼️
+
+[Data](articles/24af87ee.json)
 
 ---
 
@@ -690,6 +850,8 @@ The Sri Lanka Ports Authority (SLPA) has affirmed its commitment to maintaining 
 
 [Data](articles/6a82b01e.json)
 
+[Extended Data](ext_articles/6a82b01e.ext.json)
+
 ---
 
 ### 15 people die due to random weather
@@ -724,6 +886,8 @@ Union Assurance, Sri Lanka’s premier Life Insurer, continues to enrich communi
 
 [Data](articles/7ffbe1f2.json)
 
+[Extended Data](ext_articles/7ffbe1f2.ext.json)
+
 ---
 
 ### SLT-MOBITEL partners with EGUARDIAN to enhance Zoho accessibility for MSMEs in Sri Lanka
@@ -737,6 +901,8 @@ The agreement was signed by Prabhath Dahanayake, Chief Marketing Officer of SLT-
 ...
 
 [Data](articles/9e5eca06.json)
+
+[Extended Data](ext_articles/9e5eca06.ext.json)
 
 ---
 
@@ -929,6 +1095,20 @@ Police investigations have revealed that a motorbike has been charged Rs.
 [Data](articles/65c301ce.json)
 
 [Extended Data](ext_articles/65c301ce.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය මර්දනය ඉතා ප්‍රමුඛ සහ හදිසි වගකීමක්
+
+*2024-11-29 22:00:43* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-මර්දනය-ඉතා-ප්‍රමුඛ-සහ-හදිසි-වගකීමක්/11-413360) · `si`
+
+නීතිමය රාමුවට පමණක් සීමා නොවී ළමා හා තරුණ සිත් තුළ මනෝභාවමය සහ ආකල්පමය වශයෙන් යහපත් වෙනසක් ඇති කිරීම මගින් මත්ද්‍රව්‍ය උවදුර ජයගත යුතු ව ඇති බවත් ඒ කෙරෙහි විශේෂ වශයෙන් උත්සාහ දැරීමේ ජාතික වගකීමක් පවතින බවත් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මහත්මිය පැවසී ය.
+
+ඇය මේ බව ප්‍රකාශ කළේ 2024 - සමස්ත ලංකා චිත්‍ර හා සජීවිකරණ වීඩියෝ තරගාවලියේ ජයග්‍රාහකයන් වෙත ත්‍යාග ප්‍රදානය කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිතයා ලෙස සහභාගී වෙමින් අද දින කොළඹ, ප්‍රදීපාගාර ශ්‍රවණාගාරයේ දී ය.
+
+...
+
+[Data](articles/ba142fab.json)
 
 ---
 
@@ -1515,6 +1695,8 @@ Showers or thundershowers will occur at several places in the evening or night.
 ...
 
 [Data](articles/f21e5659.json)
+
+[Extended Data](ext_articles/f21e5659.ext.json)
 
 ---
 
@@ -2137,245 +2319,5 @@ Sri Lanka treasuries yields plunge across maturities, 12-month down 70bp
 [Data](articles/ccfa9e82.json)
 
 [Extended Data](ext_articles/ccfa9e82.ext.json)
-
----
-
-### Sri Lanka stocks close on mixed note, hotels draw interest
-
-*2024-11-29 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-on-mixed-note-hotels-draw-interest-141698/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on a mixed note on Friday, data on its site showed.
-
-The broader ASPI closed up 0.19 percent, or 24.66 points, at 13,188; while the more liquid S&P SL20 Index closed down 0.32 percent, or 12.45 points, at 3,905.
-
-Turnover was 3.7 billion. Most of this came from consumer services (Rs899mn), banking (Rs784mn), and capital goods (Rs522mn) stocks.
-
-“With the announcement that tourist arrivals have surpassed the 1.7 million mark, there is interest in the hotel stocks,” market participants said.
-
-“Investors are expecting that the sector will see more profitability with the December occupancies.”
-
-Top contributors to the ASPI were Aitken Spence Hotel Holdings (up at 73.80), Chevron Lubricants (up at 131.50), Aitken Spence (up at 125.25), Sampath Bank (up at 98.20), and Browns Investments (up at 6.00).
-
-“Market was a bit volatile today, possibly due to month end, It’s likely to pick up next week.”
-
-...
-
-[Data](articles/0d0abcfe.json)
-
-[Extended Data](ext_articles/0d0abcfe.ext.json)
-
----
-
-### A man arrested with foreign gun in Konangangara
-
-*2024-11-29 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200007) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man, 48, arrested in Konangangara with foreign firearm. Incident occurred on Thursday in Weli Ara area. Police action based on tip from local officers. Suspect from Okampitiya.
-
-🟩
-
-A man was arrested by police on Thursday (28) with a firefighter in the Weli Ara area of ​​the Konagangara police division.
-
-He was arrested on the basis of information received by a group of Konagangara police station officials.
-
-The suspect was 48 years old from Okampitiya.
-
-◼️
-
-[Data](articles/cedcf40f.json)
-
-[Extended Data](ext_articles/cedcf40f.ext.json)
-
----
-
-### Parliamentarian general secretary on MPs
-
-*2024-11-29 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203869) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Parliamentary Secretary: New MPs' privileges pending, 35 applications received. 25 former MP homes renovated. 28 houses allocated for Opposition. Travel allowance for MPs >40km from Parliament. First Parliamentary Week starts Dec 3.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohanahandera said that the privileges of new MPs would be given the privileges of this manner and have not yet been done so far.
-
-Speaking to the media she added that 35 applications have been received for the Obtaining MPs.
-
-The Secretary General further added that the re-repairing about 25 houses have been renovated by former Members of Parliament, the secretariat said.
-
-Over total number of houses have been allocated for 28 government members to be reserved for Opposition MPs.
-
-The Secretary General of the Secretary General of the Secretary General of the House is applicable to the MPs located from over 40 km from parliament.
-
-Meanwhile, the first Parliamentary Week of the first session of the 10th Parliament will commence on December 3.
-
-◼️
-
-[Data](articles/c557a278.json)
-
-[Extended Data](ext_articles/c557a278.ext.json)
-
----
-
-### Colombo’s inflation drops to -2.1% in Nov. 2024
-
-*2024-11-29 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103868/colombos-inflation-drops-to-21-in-nov-2024) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has decreased to -2.1% in November 2024, compared to -0.8% in October 2024, according to the latest data released by the Department of Census and Statistics.
-
-The CCPI for all items for the month of November 2024 was 189.4 and it records a decrease of 0.5 index points or 0.25 percentage compared to the month of October 2024 for which the index was 189.9. This represents a decrease in expenditure value by Rs 427.75 in the ”Market Basket”.
-
-The overall rate of inflation as measured by the CCPI on Y-on-Y basis is -2.1% in November 2024 and Y-on-Y inflation calculated for the month of October 2024 was -0.8%.
-
-The Y-on-Y inflation of Food Group decreased to 0.6% in November 2024 from 1,0% in October 2024 and the Y-on-Y inflation of Non Food Group decreased to -3.3% in November 2024 from -1.6% in October 2024.
-
-...
-
-[Data](articles/d5effa7a.json)
-
-[Extended Data](ext_articles/d5effa7a.ext.json)
-
----
-
-### Why is the sky dark around the country?
-
-*2024-11-29 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203868) · `si`
-
-Dark skies in Sri Lanka due to poor air quality from heavy rain. Air quality index exceeds 50 in major cities like Colombo, Anuradhapura, and Jaffna. Weather conditions worsen air pollution. Experts warn of health risks; improvement expected by tomorrow.
-
-🟩
-
-The air quality index in many parts of Sri Lanka, including Colombo, has increased the air quality index.
-
-He was revealed with the painful weather conditions that have been affected by the island.
-
-He pointed out that the local air quality index is usually less than 50.
-
-However, with the recent heavy rainfall, he said that the indication of the index was seen as a mist quality of the country.
-
-He pointed out that this is the cause of the air pollutants in the North and the Internet because of adverse weather conditions.
-
-He said the air quality index in Anuradhapura, Jaffna and Colombo
-
-However, he pointed out that the situation will be removed by tomorrow (30).
-
-The atmosphere detrimenting the rise in the atmosphere, he requested to obtain medical advice on this matter.
-
-◼️
-
-[Data](articles/ec375590.json)
-
-[Extended Data](ext_articles/ec375590.ext.json)
-
----
-
-### Minister Vijitha Herath appears before court
-
-*2024-11-29 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103867/minister-vijitha-herath-appears-before-court) · `en`
-
-Minister Vijitha Herath appeared before the Colombo High Court today (29) to testify in connection with a bribery case filed during the administration of the ‘Good Governance’ Government.
-
-The case had been filed by the Bribery Commission against the former Chairman of the Development Lotteries Board (DLB), Chandrawansa Pathiraja accusing him of causing losses to the DLB by awarding promotional activities for several lottery tickets to private companies, in violation of the accepted tender procedure.
-
-On September 24, the Colombo High Court ordered Minister Vijitha Herath to appear before the court today to testify in connection with the relevant bribery case.
-
-After considering the facts presented, Colombo High Court Judge R. S. S. Sapuvida scheduled the evidence hearing for February 5.
-
-Minister Vijitha Herath was also ordered to appear before the court on the said date.
-
-◼️
-
-[Data](articles/8e243dbe.json)
-
-[Extended Data](ext_articles/8e243dbe.ext.json)
-
----
-
-### 'Our left -wing government is not a government, the government that includes the left -wing and democratic progressive forces - India cannot go forward without the friendship of India ” - Tilwin Silva
-
-*2024-11-29 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200008) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Left-wing government includes progressive forces. No leaning towards India or China. Open foreign policy. Understand geopolitics. Prioritize people's support over personal interests. Adapt strategies based on changing circumstances.
-
-🟩
-
-JVP general secretary Dilvin Silva said that we are not the left -wing government, but the government that includes the left -wing and democratic progressive forces.
-
-He said that if we do not care for India, we cannot move forward and we need China's help and we have no intention of quitting the IMF.
-
-Did you mention the importance of your party's mandate at a press conference that took place after the public election results?Did you get nervous because you got so much mandate?
-
-- We are not tense due to the order. Our political power is different from others. We do not request the people's decree for our personal interests. We do not want to be stubborn with power.
-
-Whenever the majority of people believe in us, we should take it with the right intensity.
-
-Your founder Rohana Wijeweera, including those who were assassinated by those who were assassinated, have received this order in December. What do you think about this order?
-
-...
-
-[Data](articles/37eb001d.json)
-
-[Extended Data](ext_articles/37eb001d.ext.json)
-
----
-
-### New Notice of Vehicle Import
-
-*2024-11-29 15:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்த-புதிய-அறிவிப்பு/175-347985) · `ta`
-
-Sri Lanka: Vehicle import update. Buses, lorries allowed first phase. Car imports March-April next year.
-
-🟩
-
-The Sri Lanka Vehicle Importers Association has said that under the first phase of vehicle import permits, the importation of buses and lorries will be allowed.
-
-The Finance Ministry will approve the first phase of the project, said its leader India Sampath Mengige.
-
-The imports of cars under the second and third phase of vehicle imports will start between March and April next year that he added. Remble
-
-◼️
-
-[Data](articles/75d51960.json)
-
-[Extended Data](ext_articles/75d51960.ext.json)
-
----
-
-### Two persons arrested with Kerala cannabis
-
-*2024-11-29 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200002) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 arrested in Kerala cannabis bust: Mangala Eliya & Mathuranguliya caught with 15kg+83g cannabis near Colombo-Puttalam road."
-
-🟩
-
-Two persons have been arrested by the Kerala ganja and car on Thursday (28) in the Navatankulam area of ​​the Colombo -Puttalam road, which belongs to the Mundal Police Division.
-
-They were arrested during a raid carried out by a team of officials of the Organized Crime Unit of the Police Special Task Force.
-
-The arrested were 38, 42 -year -old Mangala Eliya and Mathuranguliya.
-
-15 kg of 83 grams of Kerala cannabis and their car were seized by the police and handed over to the Mundal police station.
-
-◼️
-
-[Data](articles/2bbe3d14.json)
-
-[Extended Data](ext_articles/2bbe3d14.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 01:11:14**
+As of **2024-12-01 01:26:02**
 
 ## Newspaper Stats
 
-*Scraped **57,773** Articles*
+*Scraped **57,774** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 441
-colombotelegraphcom | 587
+colombotelegraphcom | 588
 bbccomsinhala | 602
 islandlk | 3,463
 economynextcom | 3,512
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,773 (100.0%) of 57,773 articles have been extended.
+57,773 (100.0%) of 57,774 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -299,6 +299,18 @@ Accordingly, the next team registers 2025, which can be found in January 2025 an
 [Data](articles/9508fec5.json)
 
 [Extended Data](ext_articles/9508fec5.ext.json)
+
+---
+
+### Sri Lanka At The Crossroads: Can The AKD Government Deliver Transformative Change?
+
+*2024-11-30 19:41:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-at-the-crossroads-can-the-akd-government-deliver-transformative-change/) · `en`
+
+The Anura Kumara Dissanayake (AKD) government embodies the culmination of the Aragalaya—a people’s uprising that revealed Sri Lanka’s governance failures rooted in decades of corruption, economic mismanagement, and systemic inefficiency. It emerged as a beacon of hope, symbolizing a rejection of the status quo and a demand for transformative change. However, its success hinges on addressing the deep-rooted flaws of the system it aims to reform.
+
+...
+
+[Data](articles/b9470a2b.json)
 
 ---
 
@@ -2435,21 +2447,5 @@ Members of Parliament, who have registered posts beyond 40 kilometers from Parli
 [Data](articles/815d79b1.json)
 
 [Extended Data](ext_articles/815d79b1.ext.json)
-
----
-
-### High-level business delegation from SGCCI visits Ceylon Chamber of Commerce
-
-*2024-11-30 01:55:00* · [`islandlk`](http://island.lk/high-level-business-delegation-from-sgcci-visits-ceylon-chamber-of-commerce/) · `en`
-
-A high-level business delegation from the Southern Gujarat Chamber of Commerce and Industry (SGCCI) recently visited the Ceylon Chamber of Commerce to strengthen the existing collaboration between the two Chambers thereby facilitating trade and investment ties between India and Sri Lanka.
-
-During the visit, which was facilitated by the Consulate General for Sri Lanka in Mumbai, SGCCI extended an invitation to Sri Lankan businesses to participate in the Global Village event set to take place in January in Surat, Southern Gujarat. The event provides an unparalleled platform for Sri Lankan exporters to showcase their products—including tea, spices, fruits, and agro-goods—directly to a diverse Indian audience.
-
-...
-
-[Data](articles/8b572670.json)
-
-[Extended Data](ext_articles/8b572670.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 10:01:27**
+As of **2024-11-30 10:26:46**
 
 ## Newspaper Stats
 
-*Scraped **57,699** Articles*
+*Scraped **57,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,510
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,444
-adaderanalk | 6,988
-tamilmirrorlk | 8,202
+adaderanalk | 6,989
+tamilmirrorlk | 8,203
 virakesarilk | 9,424
 adaderanasinhalalk | 9,958
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 9,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,692 (100.0%) of 57,699 articles have been extended.
+57,697 (100.0%) of 57,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### Special notification to taxpayers
+
+*2024-11-30 09:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்துனர்களுக்கு-விசேட-அறிவித்தல்/175-348006) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Income tax deadline: Today (30). Reports via enemy only. Offices open tomorrow for support. Ceylon Bank branch at Jawatte for payments.
+
+🟩
+
+The Department of Home Affairs has announced that the final day of submitting income tax reports for 2023/2024 will be completed today (30).
+
+The Department said that the reports will be obtained only through enemy, and the head office, regional and city offices of the Internal Revenue Department will open tomorrow as a regular working day to provide technical support.
+
+In addition, the Ceylon Bank Branch, located at the Jawatte Office complex, will be opened to pay income tax, the Department of Internal Affairs said that the Income Tax. Remble
+
+◼️
+
+[Data](articles/be6842a3.json)
+
+[Extended Data](ext_articles/be6842a3.ext.json)
+
+---
+
+### African swine fever controlled to some extent, says Veterinary Association
+
+*2024-11-30 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103880/african-swine-fever-controlled-to-some-extent-says-veterinary-association) · `en`
+
+The State Veterinary Surgeons’ Association (SVSA) has announced that the spread of African swine fever has presently been brought under control to a certain extent.
+
+SVSA President Dr. Sisira Piyasiri stated that measures will be implemented to ensure that pork from farms unaffected by the disease is processed for human consumption under strict protocols.
+
+Meanwhile, farm owners have expressed concerns over the extensive damage caused by the outbreak, with many farms being completely devastated.
+
+They urged the government to take immediate steps to provide compensation to help rebuild their businesses.
+
+◼️
+
+[Data](articles/223dd777.json)
+
+---
 
 ### Police OIC arrested over bribery allegations
 
@@ -91,6 +135,8 @@ Showers or thundershowers may occur at a few places elsewhere of the island in t
 ...
 
 [Data](articles/f306f87b.json)
+
+[Extended Data](ext_articles/f306f87b.ext.json)
 
 ---
 
@@ -690,6 +736,8 @@ The Sri Lanka Ports Authority (SLPA) has affirmed its commitment to maintaining 
 
 [Data](articles/6a82b01e.json)
 
+[Extended Data](ext_articles/6a82b01e.ext.json)
+
 ---
 
 ### 15 people die due to random weather
@@ -724,6 +772,8 @@ Union Assurance, Sri Lanka’s premier Life Insurer, continues to enrich communi
 
 [Data](articles/7ffbe1f2.json)
 
+[Extended Data](ext_articles/7ffbe1f2.ext.json)
+
 ---
 
 ### SLT-MOBITEL partners with EGUARDIAN to enhance Zoho accessibility for MSMEs in Sri Lanka
@@ -737,6 +787,8 @@ The agreement was signed by Prabhath Dahanayake, Chief Marketing Officer of SLT-
 ...
 
 [Data](articles/9e5eca06.json)
+
+[Extended Data](ext_articles/9e5eca06.ext.json)
 
 ---
 
@@ -2327,55 +2379,5 @@ Your founder Rohana Wijeweera, including those who were assassinated by those wh
 [Data](articles/37eb001d.json)
 
 [Extended Data](ext_articles/37eb001d.ext.json)
-
----
-
-### New Notice of Vehicle Import
-
-*2024-11-29 15:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்த-புதிய-அறிவிப்பு/175-347985) · `ta`
-
-Sri Lanka: Vehicle import update. Buses, lorries allowed first phase. Car imports March-April next year.
-
-🟩
-
-The Sri Lanka Vehicle Importers Association has said that under the first phase of vehicle import permits, the importation of buses and lorries will be allowed.
-
-The Finance Ministry will approve the first phase of the project, said its leader India Sampath Mengige.
-
-The imports of cars under the second and third phase of vehicle imports will start between March and April next year that he added. Remble
-
-◼️
-
-[Data](articles/75d51960.json)
-
-[Extended Data](ext_articles/75d51960.ext.json)
-
----
-
-### Two persons arrested with Kerala cannabis
-
-*2024-11-29 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200002) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 arrested in Kerala cannabis bust: Mangala Eliya & Mathuranguliya caught with 15kg+83g cannabis near Colombo-Puttalam road."
-
-🟩
-
-Two persons have been arrested by the Kerala ganja and car on Thursday (28) in the Navatankulam area of ​​the Colombo -Puttalam road, which belongs to the Mundal Police Division.
-
-They were arrested during a raid carried out by a team of officials of the Organized Crime Unit of the Police Special Task Force.
-
-The arrested were 38, 42 -year -old Mangala Eliya and Mathuranguliya.
-
-15 kg of 83 grams of Kerala cannabis and their car were seized by the police and handed over to the Mundal police station.
-
-◼️
-
-[Data](articles/2bbe3d14.json)
-
-[Extended Data](ext_articles/2bbe3d14.ext.json)
 
 ---

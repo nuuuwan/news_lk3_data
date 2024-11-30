@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 09:04:13**
+As of **2024-11-30 10:01:27**
 
 ## Newspaper Stats
 
-*Scraped **57,696** Articles*
+*Scraped **57,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,510
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,444
-adaderanalk | 6,985
+adaderanalk | 6,988
 tamilmirrorlk | 8,202
 virakesarilk | 9,424
 adaderanasinhalalk | 9,958
@@ -26,11 +26,73 @@ adaderanasinhalalk | 9,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,680 (100.0%) of 57,696 articles have been extended.
+57,692 (100.0%) of 57,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### Police OIC arrested over bribery allegations
+
+*2024-11-30 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103879/police-oic-arrested-over-bribery-allegations) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has apprehended the Officer-in-Charge (OIC) of the Divisional Criminal Investigation Unit of the Negombo Police Station on charges of bribery.
+
+According to reports, the officer in question allegedly demanded an air conditioner valued at Rs. 270,000 as a bribe to investigate a dispute involving a car rented out on a lease agreement and to facilitate the return of the vehicle through legal channels.
+
+The CIABOC revealed that the requested amount was credited to the account of the manager of the store where the complainant purchased the air conditioner.
+
+Accordingly, the arrest was carried under the charge of bribery.
+
+◼️
+
+[Data](articles/7fb8e375.json)
+
+[Extended Data](ext_articles/7fb8e375.ext.json)
+
+---
+
+### In a shock offensive, insurgents breach Syria’s largest city for the first time since 2016
+
+*2024-11-30 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103878/in-a-shock-offensive-insurgents-breach-syrias-largest-city-for-the-first-time-since-2016-) · `en`
+
+Insurgents breached Syria’s largest city Friday and clashed with government forces for the first time since 2016, according to a war monitor and fighters, in a surprise attack that sent residents fleeing and added fresh uncertainty to a region reeling from multiple wars.
+
+The advance on Aleppo followed a shock offensive launched by insurgents Wednesday, as thousands of fighters swept through villages and towns in Syria’s northwestern countryside. Residents fled neighborhoods on the city’s edge because of missiles and gunfire, according to witnesses in Aleppo. The Syrian Observatory for Human Rights, which monitors the country’s unresolved civil war, said dozens of fighters from both sides were killed.
+
+The attack injected new violence into a region experiencing dual wars in Gaza and Lebanon involving Israel, and other conflicts, including the Syrian civil war that began in 2011.
+
+...
+
+[Data](articles/18d7751d.json)
+
+[Extended Data](ext_articles/18d7751d.ext.json)
+
+---
+
+### Cyclonic Storm “FENGAL” weakens, showers and strong winds continue across Sri Lanka
+
+*2024-11-30 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103877/cyclonic-storm-fengal-weakens-showers-and-strong-winds-continue-across-sri-lanka) · `en`
+
+The Meteorology Department says the Cyclonic Storm “FENGAL” over Southwest Bay of Bengal was located about 360 km north of Trincomalee and 280km Northeast of Kankasanthurai at 11.30 p.m. November 29,2024.
+
+It is likely to move west-northwestwards and cross north Tamil Nadu-Puducherry coasts as a cyclonic storm around November 30, afternoon.
+
+Influence of this system on the island’s weather is gradually reducing, the Met. Department said.
+
+Skies will be cloudy and showers or thundershowers will occur at times in Northern province and in Trincomalee district.
+
+Fairly heavy showers above 75 mm are likely at some places in Northern province, it added.
+
+Showers will occur at times in Sabaragamuwa provinces and in Kandy, Nuwara-eliya, Galle and Matara districts. Several spells of showers will occur in Western, North-western and North-central provinces.
+
+Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night, the advisory said.
+
+...
+
+[Data](articles/f306f87b.json)
+
+---
 
 ### The impact of the winds up gradually decreases
 
@@ -276,6 +338,8 @@ If the Net Present Value analysis proves beneficial for us to ensure debt sustai
 
 [Data](articles/df619e00.json)
 
+[Extended Data](ext_articles/df619e00.ext.json)
+
 ---
 
 ### Japan donates two fully equipped ambulances to BIA and Colombo Port
@@ -292,6 +356,8 @@ The ambulances, each valued at approximately $ 100,000, will enhance the emergen
 
 [Data](articles/ee5d5450.json)
 
+[Extended Data](ext_articles/ee5d5450.ext.json)
+
 ---
 
 ### International call for education to be centred on Human Rights
@@ -307,6 +373,8 @@ The Declaration calls for education of children, wherever it takes place and wha
 ...
 
 [Data](articles/1a12691d.json)
+
+[Extended Data](ext_articles/1a12691d.ext.json)
 
 ---
 
@@ -424,6 +492,8 @@ Additionally, District Secretaries and Irrigation officials were instructed to e
 
 [Data](articles/bcbbb474.json)
 
+[Extended Data](ext_articles/bcbbb474.ext.json)
+
 ---
 
 ### Indian Navy supports Lankan counterpart to nab narcotics worth nearly Rs. 170 b
@@ -438,6 +508,8 @@ Extensive surveillance was undertaken by Indian Naval Long Range Maritime Patrol
 
 [Data](articles/0504e51d.json)
 
+[Extended Data](ext_articles/0504e51d.ext.json)
+
 ---
 
 ### Spain Ambassador presents credentials to Sri Lanka
@@ -451,6 +523,8 @@ He presented credentials to President Anura Kumara Dissanayake on 28 November at
 ◼️
 
 [Data](articles/2dd97976.json)
+
+[Extended Data](ext_articles/2dd97976.ext.json)
 
 ---
 
@@ -467,6 +541,8 @@ Driving vehicles with temporary number plates after 15 December will be consider
 ◼️
 
 [Data](articles/db177f8f.json)
+
+[Extended Data](ext_articles/db177f8f.ext.json)
 
 ---
 
@@ -542,21 +618,31 @@ In addition, 204 houses have been partially damaged due to inclementary conditio
 
 ---
 
-### இல்லங்களுக்காக 35 எம்.பிக்கள் விண்ணப்பம்
+### 35 MPs Application for Homes
 
 *2024-11-30 02:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இல்லங்களுக்காக-35-எம்-பிக்கள்-விண்ணப்பம்/175-348003) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களுக்கான உத்தியோகபூர்வ இல்லங்களுக்காக 35 விண்ணப்பங்கள் கிடைத்துள்ளன என்று   பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-முன்னாள் பாராளுமன்ற உறுப்பினர்களால் மீள ஒப்படைக்கப்பட்ட 25 முதல் 30 இல்லங்கள் தற்போது புனரமைக்கப்பட்டு வருகின்றன.
 
-மொத்தமுள்ள 108 இல்லங்களில் ஆளுங்கட்சி உறுப்பினர்களுக்கு 80 இல்லங்களும், எதிர்க்கட்சி உறுப்பினர்களுக்கு 28 இல்லங்களும் ஒதுக்கப்பட்டுள்ளன.
 
-பாராளுமன்றத்திலிருந்து 40 கிலோ மீற்றர்களுக்கு அப்பால் பதிவிடங்களைக் கொண்டுள்ள பாராளுமன்ற உறுப்பினர்கள், உத்தியோகபூர்வ இல்லங்களுக்காக விண்ணப்பிக்க முடியும் என்றார். (a)
+35 MPs applied for official homes. 25-30 former MP homes are being renovated. 108 total houses: 80 for ruling party, 28 for opposition. MPs over 40 km from Parliament can apply.
+
+🟩
+
+The Secretary General of Parliament Kushani Rohanadeera said that 35 applications have been received for the official residences for Members of Parliament.
+
+25 to 30 homes redeemed by former MPs are currently being renovated.
+
+Out of the total 108 houses, there are 80 houses for the ruling party and 28 to the opposition members.
+
+Members of Parliament, who have registered posts beyond 40 kilometers from Parliament, said they can apply for official homes. (A)
 
 ◼️
 
 [Data](articles/815d79b1.json)
+
+[Extended Data](ext_articles/815d79b1.ext.json)
 
 ---
 
@@ -572,6 +658,8 @@ During the visit, which was facilitated by the Consulate General for Sri Lanka i
 
 [Data](articles/8b572670.json)
 
+[Extended Data](ext_articles/8b572670.ext.json)
+
 ---
 
 ### Geoffrey Bawa Design Store and December Design Market
@@ -585,6 +673,8 @@ The Geoffrey Bawa Trust continues to engage with Sri Lankan artisans and makers 
 ...
 
 [Data](articles/c6155ea5.json)
+
+[Extended Data](ext_articles/c6155ea5.ext.json)
 
 ---
 
@@ -2287,81 +2377,5 @@ The arrested were 38, 42 -year -old Mangala Eliya and Mathuranguliya.
 [Data](articles/2bbe3d14.json)
 
 [Extended Data](ext_articles/2bbe3d14.ext.json)
-
----
-
-### One arrested with cocaine in Borelle
-
-*2024-11-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200000) · `ta`
-
-Arrest made in Borella: Man caught with cocaine. Police seize 5g 255ml during raid. Colombo Crime Branch investigating further.
-
-🟩
-
-A man was arrested by police on Thursday (28) with a cocaine drug on Sarbantine Road, Borella Police Division.
-
-He was arrested during the raid on the basis of information received by a group of officials of the Colombo Crime Branch.
-
-From the suspect, 5 g 255 ml of cocaine has been seized by the police.
-
-Further investigations are being carried out by the Colombo Crime Branch.
-
-◼️
-
-[Data](articles/323f1db9.json)
-
-[Extended Data](ext_articles/323f1db9.ext.json)
-
----
-
-### Medical camps in the Jaffna Teaching Hospital
-
-*2024-11-29 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199990) · `ta`
-
-Jaffna Teaching Hospital conducts medical camps for displaced residents. Doctors, nurses, and pharmacists provide services at temporary locations due to flooding. Hospital operations resume once floodwaters recede.
-
-🟩
-
-The Director of the Teaching Hospital will continue to provide health services daily under the arrangement of the Jaffna Teaching Hospital.. Sathiyamoorthy said.
-
-Medical services for the people staying in the Jaffna Hindu Primary School, Jaffna Hindu Girls Primary School and Jaffna Osmanian College were displaced from the nearby areas.
-
-Doctors, pharmacists, and nurses participated in their full commitment and conducted these medical camps.
-
-At the same time, patients who are suffering from floods and disasters are also treated at the hospital.
-
-A portion of the hospital was submerged due to the recent heavy rains. Services provided in the area are transferred elsewhere and services are provided.
-
-Treatments will be brought back in the same areas in a couple of days. Now that the flood situation is deteriorating, all the services will be done on the hospital as usual.
-
-◼️
-
-[Data](articles/8dde3cce.json)
-
-[Extended Data](ext_articles/8dde3cce.ext.json)
-
----
-
-### Inflation is reduced
-
-*2024-11-29 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203867) · `si`
-
-Colombo Consumer Price Index Nov 2024: -2.1% inflation rate, down from Oct's -0.8%. Food inflation 0.6%, non-food 3.3%.
-
-🟩
-
-The Colombo Consumer Price Index and the Colombo Municipal Community has been published for November 2024.
-
-The Colombo Municipal Community's customer inflation rate has been reduced to-2.1% for November. It was reported to -0.8% for October 2024.
-
-In November 2024, the annual inflation of food category has been reduced to 0.6% and in October 1.0%.
-
-Non-food annual inflation has been reduced to 3.3% to November 2024, and it was reported to -1.6% in October 2024.
-
-◼️
-
-[Data](articles/9491e5ec.json)
-
-[Extended Data](ext_articles/9491e5ec.ext.json)
 
 ---

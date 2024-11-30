@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 14:01:44**
+As of **2024-11-30 14:14:43**
 
 ## Newspaper Stats
 
-*Scraped **57,715** Articles*
+*Scraped **57,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 441
 colombotelegraphcom | 586
 bbccomsinhala | 602
-islandlk | 3,460
+islandlk | 3,463
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,715 (100.0%) of 57,715 articles have been extended.
+57,715 (100.0%) of 57,718 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1012,6 +1012,20 @@ During the visit, which was facilitated by the Consulate General for Sri Lanka i
 
 ---
 
+### MAS partners UNFPA to advance women’s health
+
+*2024-11-30 01:54:00* · [`islandlk`](http://island.lk/mas-partners-unfpa-to-advance-womens-health/) · `en`
+
+On 28 November, Global apparel-tech conglomerate MAS and the United Nations Population Fund (UNFPA) signed a Memorandum of Understanding (MOU). This partnership marks the beginning of a year-long collaboration aimed at supporting women’s health and reproductive health.
+
+The MOU consolidated a shared vision between MAS and UNFPA to increase investment into women’s health and wellbeing. It seeks to empower and encourage women and girls in the apparel sector to speak up and for corporates to create safe public spaces. Through the partnership, both organizations will work together to upgrade medical centers, conduct awareness programs, and establish wellness facilities in BOI zones accessible to employees of the apparel sector.
+
+...
+
+[Data](articles/50390974.json)
+
+---
+
 ### Geoffrey Bawa Design Store and December Design Market
 
 *2024-11-30 01:52:00* · [`islandlk`](http://island.lk/geoffrey-bawa-design-store-and-december-design-market/) · `en`
@@ -1025,6 +1039,38 @@ The Geoffrey Bawa Trust continues to engage with Sri Lankan artisans and makers 
 [Data](articles/c6155ea5.json)
 
 [Extended Data](ext_articles/c6155ea5.ext.json)
+
+---
+
+### Anticipated boom in tourism sees notable appreciation in hotel sector shares
+
+*2024-11-30 01:51:00* · [`islandlk`](http://island.lk/anticipated-boom-in-tourism-sees-notable-appreciation-in-hotel-sector-shares/) · `en`
+
+The stock market yesterday was active in respect of both retail and institutional investor participation, but it was mainly driven by the hotel sector, which saw a notable price appreciation as industry stakeholders anticipate a major boom in the travel and tourism sector in the coming months, stock market analysts said.
+
+Amid those developments mixed reactions were witnessed in both indices. The All Share Price Index went up by 24.60 points while S and P SL20 declined by 9.65 points.
+
+...
+
+[Data](articles/9b1b7d65.json)
+
+---
+
+### amanté customers to benefit from revolutionary new XSPLIT payment scheme facilitated by WEBXPAY
+
+*2024-11-30 01:51:00* · [`islandlk`](http://island.lk/amante-customers-to-benefit-from-revolutionary-new-xsplit-payment-scheme-facilitated-by-webxpay/) · `en`
+
+In alignment with its digital strategy, amanté has tied up with WEBXPAY -the premier digital payment solutions provider in Sri Lanka- to give its customers even more reason to shop at the brand’s stores island-wide. The first retailer in the country to do so, Sri Lanka’s leading intimate apparel label has now introduced XSPLIT; a ‘Buy Now Pay Later’ (BNPL) scheme allowing consumers to purchase products on the spot and pay in more comfortable payment terms later.
+
+Anticipated boom in tourism sees notable appreciation in hotel sector shares
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/f192a182.json)
 
 ---
 
@@ -2297,69 +2343,5 @@ The central bank chief said that firstly now the country has a political stabili
 [Data](articles/4044e7ee.json)
 
 [Extended Data](ext_articles/4044e7ee.ext.json)
-
----
-
-### 18 hour water cut in several parts of Colombo
-
-*2024-11-29 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203872) · `si`
-
-Colombo faces 18-hour water cut: 12 noon to 6 pm today. Emergency repairs on water supply tubes from Ambatale to Oyet cause disruption.
-
-🟩
-
-The National Water Supply and Drainage Board announced that there will be 18 hours of water cut in several areas in Colombo.
-
-Accordingly, water cuts will be effective from 12 noon to 6 pm today (29).
-
-The Board is informed that the supply of water will be slashed due to an emergency and essential repair work that provides water supply tube that will provide water from the Ambatale to Oyget.
-
-◼️
-
-[Data](articles/52e54a0a.json)
-
-[Extended Data](ext_articles/52e54a0a.ext.json)
-
----
-
-### Sri Lanka consumer price index deflates to September 2022 levels
-
-*2024-11-29 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-price-index-deflates-to-september-2022-levels-190892/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation fell 2.1 percent in the 12-months to November 2024, while the index fell back to September 2022 levels, official data showed, amid deflationary policy and currency appreciation by the central bank.
-
-The Colombo Consumer Price Index (re-based) fell to 0.3 points during the month of November 2024 to 189.4 point which is around the 189.3 points September 2022.
-
-After rate cuts enforced by inflationary open market operations triggers a currency crisis and draws the International Monetary Fund, pegged currencies are usually not encouraged to appreciate based on a Mercantilist doctrine called ‘competitive exchange rates’.
-
-But, the central bank under Governor Nandalal Weerasinghe has allowed the exchange rate to appreciate, boosting disposable incomes and a faster economic recovery and reserve collection.
-
-...
-
-[Data](articles/75c83646.json)
-
-[Extended Data](ext_articles/75c83646.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.65/75 to dollar, bonds steady
-
-*2024-11-29 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-65-75-to-dollar-bonds-steady-137243/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.65/75 to the US dollar on Friday from 290.70/80 to the US dollar on Thursday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 9.45/60 percent, from 9.40/60 percent.
-
-A bond maturing on 15.10.2027 closed stable at 10.20/30 percent.
-
-A bond maturing on 15.10.2028 closed down at 10.30/45 percent, from 10.45/55 percent.
-
-A bond maturing on 15.09.2029 closed stable at 10.70/85 percent. (Colombo/Nov29/2024)
-
-◼️
-
-[Data](articles/715cd5c5.json)
-
-[Extended Data](ext_articles/715cd5c5.ext.json)
 
 ---

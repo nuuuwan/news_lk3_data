@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 11:42:19**
+As of **2024-11-30 12:01:44**
 
 ## Newspaper Stats
 
-*Scraped **57,709** Articles*
+*Scraped **57,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 441
 colombotelegraphcom | 586
 bbccomsinhala | 601
 islandlk | 3,459
-economynextcom | 3,510
+economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,445
-adaderanalk | 6,990
+adaderanalk | 6,991
 tamilmirrorlk | 8,206
 virakesarilk | 9,424
 adaderanasinhalalk | 9,961
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,708 (100.0%) of 57,709 articles have been extended.
+57,709 (100.0%) of 57,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### 141 Indian fishermen in Sri Lankan custody, Indian govt. informs Parliament
+
+*2024-11-30 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103882/141-indian-fishermen-in-sri-lankan-custody-indian-govt-informs-parliament) · `en`
+
+A total of 141 Indian fisherfolk are in Sri Lankan custody, of whom 45 are under trial, the Indian government informed Parliament on Thursday.
+
+India’s Minister of State for External Affairs Kirti Vardhan Singh, in a written response to a query in Rajya Sabha, said with sustained diplomatic efforts, the government has secured the release and repatriation of 351 fisherfolk apprehended this year.
+
+Indian fisherfolk are arrested from time to time by Sri Lankan authorities for allegedly crossing the International Maritime Boundary Line (IMBL) and fishing in Sri Lankan waters, he said.
+
+“As per available information, as of 22 November 2024, 141 Indian fisherfolk are in Sri Lankan custody, of whom 45 fisherfolk are under trial while 96 are currently serving sentences,” he said.
+
+They have been provided with consular and legal assistance by our High Commission in Colombo and Consulate in Jaffna, the Union minister said.
+
+...
+
+[Data](articles/0cd3f39f.json)
+
+---
 
 ### Death of someone caught in fire due to cold
 
@@ -125,6 +145,8 @@ The body has been sent to the mortuary of the Mancholai Hospital for a post-mort
 ◼️
 
 [Data](articles/35f4916a.json)
+
+[Extended Data](ext_articles/35f4916a.ext.json)
 
 ---
 
@@ -251,6 +273,28 @@ Accordingly, the arrest was carried under the charge of bribery.
 [Data](articles/7fb8e375.json)
 
 [Extended Data](ext_articles/7fb8e375.ext.json)
+
+---
+
+### Sri Lanka current dollar inflows exceed imports by US$549mn in October
+
+*2024-11-30 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-dollar-inflows-exceed-imports-by-us549mn-in-october-190954/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross current foreign exchange inflows of 2,251 million dollars have exceeded goods imports of 1,702 by 549 million US dollars in October 2024, official data released by the central bank shows.
+
+Current inflows were made up 1,158 million dollars of goods exports, remittances of 587 million dollars and gross services of 587.7 million dollars which includes tourist earnings estimate of 185.6 million US dollars.
+
+Total services outflows were reported as 283.8 million dollars of which travel abroad was 58.5 million US dollars.
+
+All inflows are eventually go out of the country as direct spending by recipients on imports and services, spending by subsequent recipients or savings that are invested.
+
+Money saved in banks are in turn given for investment projects which in turn generate imports.
+
+In October investment goods and base metals were 381 million US dollars, up from 360 million dollars in September.
+
+...
+
+[Data](articles/b5cc39f9.json)
 
 ---
 
@@ -2333,55 +2377,5 @@ Police have advised 28 people from 6 families living in the houses to safe place
 [Data](articles/2125bda5.json)
 
 [Extended Data](ext_articles/2125bda5.ext.json)
-
----
-
-### Sound signal rising on Mullaitivu coast!- People who panic about the tsunami!
-
-*2024-11-29 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200015) · `ta`
-
-Tsunami alarm triggers panic on Mullaitivu coast. Residents fear disaster after hearing sound signal. Disaster Management clarifies it's part of naval base drill, assuring advance warnings for real emergencies.
-
-🟩
-
-People are panicking today (29) that a tsunami warning sound has been raised on the Mullaitivu coast.
-
-Tsunami alert signals have been issued in the adjoining areas of the Mullaitivu area. The sound of the sound of this evening.
-
-People living in the adjacent areas of the beach, hearing the sound signal, are afraid of a tsunami.
-
-Subsequently, the Disaster Management Division has told the public that the rehearsal training at the Vadduvagal Naval Base and that the sound has been raised during the training.
-
-The Disaster Management Division has said that if there are the possibilities of any disaster, we will be advised in advance.
-
-◼️
-
-[Data](articles/94b94283.json)
-
-[Extended Data](ext_articles/94b94283.ext.json)
-
----
-
-### New timetable for high quality examination
-
-*2024-11-29 16:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தரப்-பரீட்சைக்கான-புதிய-நேர-அட்டவணை/175-347986) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-GCE A/L exam postponed to Dec 3 due to bad weather. Resumed on Dec 4. Revised schedule issued by Department of Examinations. Commissioner General Amit Jayasundera made the announcement.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera yesterday announced that the Department of Examinations has decided to postpone the GCE Advanced Level examination till December 3 due to inclement weather in the country.
-
-The Department of Examinations has issued a revised schedule for the postponement days after the announcement of the examinations will be resumed from the 04th of the same scheme.. Remble
-
-◼️
-
-[Data](articles/bbf81cf9.json)
-
-[Extended Data](ext_articles/bbf81cf9.ext.json)
 
 ---

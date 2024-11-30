@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 17:11:30**
+As of **2024-11-30 17:43:14**
 
 ## Newspaper Stats
 
-*Scraped **57,738** Articles*
+*Scraped **57,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,446
-adaderanalk | 6,996
-tamilmirrorlk | 8,208
+adaderanalk | 6,998
+tamilmirrorlk | 8,209
 virakesarilk | 9,429
 adaderanasinhalalk | 9,970
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 9,970
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,737 (100.0%) of 57,738 articles have been extended.
+57,741 (100.0%) of 57,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### Change in opposition leadership positions?
+
+*2024-11-30 17:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எதிர்க்கட்சி-தலைமை-பதவிகளில்-மாற்றம்/150-348012) · `ta`
+
+Opposition leadership change: Parties consult transferring leaders. Restructuring aims to strengthen parties for elections. Committees to investigate shortcomings. Public input sought on SLFP changes. Youth empowerment in restructuring process.
+
+🟩
+
+In a statement issued by the parties, it has been consulted on the transfer of many opposition leaders, including the Samaki Jan. Balavayaka and the Sri Lanka PA.
+
+There are already ideas that the opposition parties should be reorganized as they have to strengthen the party mechanism to face the upcoming election. It is known that these condition changes under this restructuring program.
+
+In the meantime, the respective party leaders are intended to appoint special committees to investigate the shortcomings of the opposition political parties.
+
+In this case, a party spokesman said that the public is looking forward to getting public views on the changes to be made in the SLFP.
+
+Meanwhile, party leaders have also decided to give youth more opportunity in party restructuring.
+
+◼️
+
+[Data](articles/747b060e.json)
+
+[Extended Data](ext_articles/747b060e.ext.json)
+
+---
+
+### Landslide warnings issued for 8 districts
+
+*2024-11-30 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103889/landslide-warnings-issued-for-8-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in 8 districts, as heavy rainfall continues in parts of the island.
+
+The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 01).
+
+Accordingly, a Level 2 (Amber) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Kandy, Kegalle, Matale and Nuwara-Eliya districts as follows:
+
+Badulla– Passara, Hali Ela, Meegahakivula and Bandarawela DSDs and surrounding areas
+
+Kandy – Yatinuwara, Udapalatha, Ududumbara, Deltota, Gangawata Koralaya, Patha Hewaheta, Harispatthuwa, Pathadumbara, Medadumbara, Doluwa, Udunuwara, Thumpane, Pujapitiya, Panwila, Pabage Koralaya, Akurana, Hatharaliyadda, Ganga Ihala Koralaya DSDs and surrounding areas
+
+Kegalle – Mawanella, Rambukkana, Warakapola, Ruwanwella, Galigamuwa, Bulathkohupitiya, Aranayake, Yatiyantota DSDs and surrounding areas
+
+...
+
+[Data](articles/50cacc87.json)
+
+[Extended Data](ext_articles/50cacc87.ext.json)
+
+---
+
+### Navy officer killed in wild elephant attack
+
+*2024-11-30 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103888/navy-officer-killed-in-wild-elephant-attack-) · `en`
+
+An officer attached to the Sri Lanka Navy Base in Punewa has been killed following an attack by a wild elephant.
+
+The deceased 41-year-old father of two was a resident of the Nittambuwa area, the police said.
+
+He has been attacked by a wild elephant while walking near the navy base at around 9:30 p.m. last night.
+
+Punewa Police confirmed that the victim was pronounced dead upon his admission to Vavuniya Hospital.
+
+◼️
+
+[Data](articles/4a0faad4.json)
+
+[Extended Data](ext_articles/4a0faad4.ext.json)
+
+---
 
 ### Landslide warnings for several areas
 
@@ -190,27 +260,35 @@ Speaking on the matter, Mr. Dinesh Biyagama said this.
 
 ---
 
-### ආපදාවලින් පීඩාවට පත් ජනතාව සොයා මනුසත් දෙරණ තවත් මෙහෙයුමක්
+### Another operation to find out the people affected by disasters
 
 *2024-11-30 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203895) · `si`
 
-මෙරට ආපදා අවස්ථාවලදී පීඩාවට පත් ජනතාව වෙනුවෙන් සහන සැලසීම සිය ප්‍රමුඛ කාර්යය කරගත් මනුසත් දෙරණ, මෙවරත් අයහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම වෙනුවෙන් ඉදිරිපත්වී සිටී.
+Operation provides relief to Sri Lankans affected by disasters. Teams distribute dry food in Vavuniya. Collaboration between Derana and Dialog supports multiple districts.
 
-ඩයලොග් සමග අත්වැල් බැඳගනිමින් "මනුසත් දෙරණ" මෙම ක්‍රියාන්විතය අද (30) දෙවන දිනටත් දියත් කළේය.
+🟩
 
-මෙරට ආපදා තත්ත්වයක් ඇතිවූ සෑම අවස්ථාවකදීම මනුසත් දෙරණ සිය යුතුකම නොපිරිහෙලා ඉටු කරමින් සහන සැලසීමට ඉදිරිපත් වූයේ අපේම ලක්වාසි ජනතාවට අස්වැසිල්ලක් වීමේ අරමුණින්ය.
+Providing relief to the people affected by the people affected by the Sri Lankan disasters will be given to provide relief to the people affected by the inclement weather.
 
-ඒ අනුව, උතුරේ පීඩාවට පත් ජනතාව සඳහා ද්‍රව්‍යාධාර රැගත් මනුසත් දෙරණ කණ්ඩායම් පසුගියදා වව්නියාව බලා ගමන් ආරම්භ කළේය.
+The operation was launched today (30) on the second day today.
 
-ද්‍රව්‍යාධාර රැගත් අප කණ්ඩායම් වව්නියාව දිස්ත්‍රික්කයට ළඟා වුණේ ගංවතුරෙන් අවතැන්වී සහන කඳවුරුවල වෙසෙන ජනතාවට පිළිසරණක් වෙමින්ය.
+Whenever of a disaster situation in Sri Lanka, the Messianic Derana presented concessions to the people of our own Lakwasi to provide relief to the people of the Lakwansa.
 
-ඔවුන්ට පිසීම සඳහා වියළි ආහාර ද්‍රව්‍ය යුද හමුදාවේ දායකත්වයෙන් බෙදා දීම මෙහිදී සිදුකෙරුණි.
+Accordingly, the Derana teams carrying materials to the people affected in the North recently started traveling to Vavuniya.
 
-වව්නියාව, කුරුක්කල්පුදුක්කුලම් අවතැන් කඳවුර වෙතද ගිය මනුසත් දෙරණ එහි රැඳීසිටින ජනතාව වෙනුවෙන් පිසීම සඳහා වියළි ආහාර ද්‍රව්‍ය ලබාදීම සිදුකළේය.
+Our group has reached the Vavuniya district to the Vavuniya district and protected the people living in the flood-displaced relief camps.
 
-...
+The dry food items were distributed to the SLAF for cooking.
+
+Dry food items were delivered to cook for the people who were present at the IDD camp, Vavuniya, Vavuniya.
+
+Manusath Derana, along with Dialog, is ready to provide relief to the people affected by a number of districts.
+
+◼️
 
 [Data](articles/8b5656b1.json)
+
+[Extended Data](ext_articles/8b5656b1.ext.json)
 
 ---
 
@@ -2297,89 +2375,5 @@ Mayan Yadav scored 62 runs off 90 balls and 2 sixes in 90 balls. Although six pl
 [Data](articles/ef1299aa.json)
 
 [Extended Data](ext_articles/ef1299aa.ext.json)
-
----
-
-### Farmers to be compensated for crop damage due to bad weather
-
-*2024-11-29 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103872/farmers-to-be-compensated-for-crop-damage-due-to-bad-weather) · `en`
-
-Minister of Agriculture and Irrigation K.D. Lal Kantha says that farmers whose fields have been damaged due to inclement weather conditions will be provided with all assistance to revive their agricultural activities.
-
-He further said that relevant authorities have been instructed to take necessary steps to restore all damaged irrigation facilities.
-
-Meanwhile, the Deputy Minister of Agriculture Namal Karunaratne says that compensation will be provided for crops destroyed due to adverse weather conditions.
-
-He says that it has been decided to provide compensation for paddy, maize, potatoes, soybeans, chillies and big onion crops.
-
-Accordingly, the Deputy Minister said that steps will be taken to provide the compensation subject to a ceiling of Rs. 40,000 per acre.
-
-He also said that data on crop damage will be collected after the adverse weather conditions in the country subside and the compensation will be paid.
-
-...
-
-[Data](articles/49c0857b.json)
-
-[Extended Data](ext_articles/49c0857b.ext.json)
-
----
-
-### Midigama Ruwan reserves remanded
-
-*2024-11-29 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203876) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Midigama Ruwan, linked to organized crime & drugs, remanded till Dec 13. Accused of planning 'beef' crimes & main suspect in Mount Lavinia shooting case. Red notices issued by international police."
-
-🟩
-
-Ranama Vitamra alias Mandara Ruwan, a member of a group of organized crime and a drug dealer, was produced before the Fort Magistrate's Court today (29).
-
-He was remanded until December 13, according to our judiciary correspondent.
-
-Ruwan, Chinthaka, or the brother of the beef, has also been the wife of the many crimes committed on his advice, police said.
-
-The Midigama Ruwan has also been identified as the planner of the beef criminal investigation.
-
-On May 31, a group of terrorist officers were brought to the island from Dubai on May 31.
-
-He was then taken to the Colombo Terrorism Prevention Division and questioned.
-
-Midigama Ruwan was taken into custody by police in a clash at Duthibaya Nighty Hall last April.
-
-The international police issued red announcements against him.
-
-The suspect was named the main planner of the shooting case in Mount Lavinia Magistrate on August 4, 2022 and the Criminal Investigation Department has called for red announcements against him.
-
-◼️
-
-[Data](articles/fe9282e5.json)
-
-[Extended Data](ext_articles/fe9282e5.ext.json)
-
----
-
-### How to compensate the crop rage
-
-*2024-11-29 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203875) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Compensation for crop damage: Deputy Minister of Agriculture Namal Karunaratne states that farmers will be compensated for crops destroyed by harsh weather conditions.
-
-🟩
-
-Deputy Minister of Agriculture Namal Karunaratne says that compensation is compensated for crops destroyed due to inclement weather.
-
-◼️
-
-[Data](articles/f5b75b52.json)
-
-[Extended Data](ext_articles/f5b75b52.ext.json)
 
 ---

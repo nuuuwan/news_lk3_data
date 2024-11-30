@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 14:42:02**
+As of **2024-11-30 15:26:09**
 
 ## Newspaper Stats
 
-*Scraped **57,719** Articles*
+*Scraped **57,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailymirrorlk | 4,733
 adalk | 5,445
 adaderanalk | 6,994
 tamilmirrorlk | 8,206
-virakesarilk | 9,424
+virakesarilk | 9,429
 adaderanasinhalalk | 9,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,718 (100.0%) of 57,719 articles have been extended.
+57,719 (100.0%) of 57,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### லுணுகம்வெஹெரையில் 7 கஞ்சா தோட்டங்கள் சுற்றிவளைப்பு ; 2 உள்நாட்டுத் துப்பாக்கிகளுடன் 08 பேர் கைது!
+
+*2024-11-30 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200077) · `ta`
+
+ஹம்பாந்தோட்டை, லுணுகம்வெஹெர காட்டுப் பகுதியில் 08 1/2 ஏக்கர் நிலப்பரப்பில் 07 கஞ்சா தோட்டங்கள் பொலிஸாரால் சுற்றிவளைக்கப்பட்டதோடு, உள்நாட்டுத் துப்பாக்கிகளுடன் 08 சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+புத்தல பொலிஸ் விசேட அதிரடிப்படை முகாமின் அதிகாரிகள் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர்கள் நேற்று வெள்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் தனமல்வெவ, சூரியவெவ பிரதேசங்களை சேர்ந்த 29 - 65 வயதுக்குட்பட்டவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/779e7ba4.json)
+
+---
 
 ### Indian Crime Branch on the lookout for 15 bail absconders, 11 from Sri Lanka
 
@@ -51,6 +67,40 @@ These persons were arrested in cases registered at Chengamanadu Police Station o
 ...
 
 [Data](articles/20fd5079.json)
+
+[Extended Data](ext_articles/20fd5079.ext.json)
+
+---
+
+### மொரட்டுவையில் ஹெரோயினுடன் ஒருவர் கைது !
+
+*2024-11-30 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200070) · `ta`
+
+கொழும்பு , மொரட்டுவை பொலிஸ் பிரிவுக்கு உட்பட்ட முரவத்த பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளதாக மொரட்டுவை பொலிஸார் தெரிவித்தனர்.
+
+மொரட்டுவை பொலிாருக்குக்  கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் மொரட்டுவை பிரதேசத்தைச் சேர்ந்த 42 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடம் இருந்து 07 கிராம் 260 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f698d072.json)
+
+---
+
+### நாட்டு அரிசி இறக்குமதிக்கு விலைமனு கோரல் ஆரம்பம்!
+
+*2024-11-30 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200067) · `ta`
+
+இந்தியாவிலிருந்து 70,000 மெற்றிக் தொன் நாட்டு அரிசியை இறக்குமதி செய்வதற்கு விநியோகத்தர்களிடம் இருந்து விலைமனு கோரப்பட்டு வருவதாக லங்கா சதோச நிறுவனத்தின் தலைவர் சமித பெரேரா தெரிவித்துள்ளார்.
+
+இதன்படி, அரிசியை இறக்குமதி செய்வது தொடர்பில் நேற்று வெள்ளிக்கிழமை (29) முதல் 7 நாட்களுக்குள் விநியோகத்தர்கள் விண்ணப்பிக்க முடியும் எனவும் அடுத்த மாதம் அரிசியை நாட்டுக்கு இறக்குமதி செய்ய வேண்டும் எனவும் சமித பெரேரா மேலும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/9360e02c.json)
 
 ---
 
@@ -97,6 +147,40 @@ Meanwhile in Colombo, the air quality is forecasted to range between 108 and 116
 [Data](articles/d8abcc82.json)
 
 [Extended Data](ext_articles/d8abcc82.ext.json)
+
+---
+
+### கொழும்பில் 40 இலட்சம் ரூபா பெறுமதியான மஞ்சள் தொகை மீட்பு!
+
+*2024-11-30 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200065) · `ta`
+
+கொழும்பு 15 இல் உள்ள தனியார் களஞ்சியசாலை ஒன்றில் மறைத்து வைக்கப்பட்டிருந்த 765 கிலோ கிராம் மஞ்சள் நுகர்வோர் விவகார அதிகார சபையின் புலனாய்வு அதிகாரிகளால் கைப்பற்றப்பட்டது.
+
+நுகர்வோர் விவகார அதிகார சபையின் புலனாய்வு அதிகாரிகளுக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சோதனையில் இந்த தொகை கைப்பற்றப்பட்டுள்ளது.
+
+கைப்பற்றப்பட்ட மஞ்சள் தொகையின் பெறுமதி சுமார் 40 இலட்சம் ரூபா என நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+
+பற்றுச்சீட்டு இல்லாமல், எந்தத் தகவலும் குறிப்பிடப்படாமல் சந்தையில் விற்பனை செய்வதற்கு தயாராக இருந்த மஞ்சள் தொகையே இவ்வாறு கைப்பற்றப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/e9e2e331.json)
+
+---
+
+### முல்லைத்தீவில் தீ விபத்து - முதியவர் உயிரிழப்பு!
+
+*2024-11-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200061) · `ta`
+
+முல்லைத்தீவு - சிலாவத்துறை பகுதியில் தீ விபத்தில் சிக்கி முதியவர் ஒருவர் உயிரிழந்துள்ளதாக முல்லைத்தீவு பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்த முதியவர் தனது மகனின் வீட்டுக்கு அருகிலுள்ள மற்றுமொரு வீட்டில் தனியாக வசித்து வந்தார்.
+
+இந்நிலையில், கடும் மழையினால் ஏற்பட்ட குளிரை எதிர்கொள்ளும் வகையில் வெப்பமூட்டுவதற்காக வீட்டுக்குள் தீ பற்ற வைத்துள்ளார்.
+
+◼️
+
+[Data](articles/10aeee72.json)
 
 ---
 
@@ -2243,115 +2327,5 @@ The district secretary has announced that he will be allowed to transport heavy 
 [Data](articles/b50b1646.json)
 
 [Extended Data](ext_articles/b50b1646.ext.json)
-
----
-
-### Two persons arrested with illegal cigarettes
-
-*2024-11-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200026) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 men, ages 32 & 58, arrested in Ilgamuwa for illegal cigarettes. Arrested during STF raids. Handed to Kochala police for investigation."
-
-🟩
-
-Two suspects were arrested by police on Thursday (28) in the Ilgamuwa area of ​​Koorlla police division, Koorlla.
-
-They were arrested during two other raids conducted by a group of officials of the Kurunegala Camp of the Police Special Task Force.
-
-The arrested suspects were 32 and 58 years old from Ilgamuwa.
-
-Meanwhile, the arrested suspects have been handed over to the Kochala police station for further investigations.
-
-◼️
-
-[Data](articles/d37c1d1b.json)
-
-[Extended Data](ext_articles/d37c1d1b.ext.json)
-
----
-
-### 69 thousand 384 people in Jaffna due to inclement weather
-
-*2024-11-29 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200028) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-69,384 people affected in Jaffna due to bad weather. 7,342 housed in 79 shelters. 20,732 families impacted.
-
-🟩
-
-Due to the inclement weather in Jaffna, 69 thousand 384 people belonging to 20 thousand 732 families have been affected as of today (29) noon.
-
-The District Disaster Management Unit has announced that 7 thousand 342 persons belonging to 2 thousand 136 families have been housed in 79 security centers.
-
-◼️
-
-[Data](articles/7808ebca.json)
-
-[Extended Data](ext_articles/7808ebca.ext.json)
-
----
-
-### Lessons For Sri Lanka From The Great October Revolution
-
-*2024-11-29 17:23:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lessons-for-sri-lanka-from-the-great-october-revolution/) · `en`
-
-This month we had the 107th anniversary of the 1917 October Revolution (November 6–7 on the Gregorian calendar). It was a beacon of light for humanity pointing the way towards an era of liberation that would end the exploitation of “man by man”. Social-Democrats at the time believed that the political order of the Tsarist Empire and the peasant-based agricultural economy could not provide the economic base necessary for the revolution to quickly transition to a socialist phase. Lenin disagreed with that view.
-
-Given the current dominance of capitalism, did Lenin underestimate, the opportunities available for the imperialist capitalist order to expand quantitatively and horizontally?
-
-...
-
-[Data](articles/e31460ea.json)
-
-[Extended Data](ext_articles/e31460ea.ext.json)
-
----
-
-### Water cut in parts of Colombo
-
-*2024-11-29 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103871/water-cut-in-parts-of-colombo) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) announced that the water supply to several areas in Colombo has been suspended until 6.00 a.m. tomorrow (Nov. 30).
-
-Accordingly, the water cut has been imposed in Colombo 12, 13, 14 and 15 areas for 18 hours from 12 noon today (29).
-
-The water cut has been imposed owing to urgent repairs being carried out on the main transmission line from the Ambatale treatment plant to Eli House.
-
-◼️
-
-[Data](articles/af682e60.json)
-
-[Extended Data](ext_articles/af682e60.ext.json)
-
----
-
-### No changes to privileges granted to MPs
-
-*2024-11-29 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103870/no-changes-to-privileges-granted-to-mps-) · `en`
-
-The Secretary-General of Parliament, Kushani Rohanadeera stated that there will be no changes to the privileges granted to the Members of the Parliament.
-
-Speaking to the media, she revealed that 94 MPs have already submitted requests to obtain official residences from the Madiwela Housing Complex.
-
-The Secretary-General of Parliament explained that 25-30 houses previously returned by the former MPs are currently being renovated to provide official residences to new MPs.
-
-Accordingly, those official residences will be later allocated to the new MPs based on the priority.
-
-Out of a total of 108 official residences, 80 are designated for the parliamentarians of the ruling party, while 28 are reserved for the opposition members.
-
-Kushani Rohanadeera further said that the MPs whose homes are located more than 40 kilometers away from the Parliament complex can make requests for official residences at the Madiwela Housing Complex.
-
-...
-
-[Data](articles/bcd19bbd.json)
-
-[Extended Data](ext_articles/bcd19bbd.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 03:00:23**
+As of **2024-12-01 03:11:29**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,774 (100.0%) of 57,775 articles have been extended.
+57,775 (100.0%) of 57,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### சீரற்ற காலநிலை: உயிரிழப்பு உயர்வு
+### Random climate: casualties
 
 *2024-12-01 02:32:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலை-உயிரிழப்பு-உயர்வு/175-348029) · `ta`
 
-நாட்டில் சீரற்ற காலநிலையினால் ஏற்பட்ட அனர்த்தங்களால் உயிரிழந்தோரின் எண்ணிக்கை 17 ஆக உயர்வடைந்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-அத்துடன், 142,624 குடும்பங்களைச் சேர்ந்த 479, 871 பேர் பாதிக்கப்பட்டுள்ளனர் என அனர்த்த முகாமைத்துவ நிலையத்தின் புதுப்பிக்கப்பட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+
+"Climate disasters claim 17 lives. 479+871 people affected from 142,624 families. Disaster Management reports rising casualty toll."
+
+🟩
+
+The number of casualties caused by inclement weather in the country has risen to 17.
+
+In addition, 479 and 871 people from 142,624 families have been affected, the Disaster Management Center's renewed report said.. (A)
 
 ◼️
 
 [Data](articles/c7da0af3.json)
+
+[Extended Data](ext_articles/c7da0af3.ext.json)
 
 ---
 

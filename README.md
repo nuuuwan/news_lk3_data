@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 16:41:28**
+As of **2024-11-30 16:59:02**
 
 ## Newspaper Stats
 
-*Scraped **57,734** Articles*
+*Scraped **57,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 5,446
 adaderanalk | 6,996
 tamilmirrorlk | 8,208
 virakesarilk | 9,429
-adaderanasinhalalk | 9,966
+adaderanasinhalalk | 9,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,733 (100.0%) of 57,734 articles have been extended.
+57,733 (100.0%) of 57,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට නායයාමේ පූර්ව අනතුරු ඇඟවීම් නිකුත් කෙරේ
+
+*2024-11-30 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203899) · `si`
+
+ප්‍රදේශ කිහිපයකට නායයාමේ පූර්ව අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්ශේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+එම සංවිධානය පැවසුවේ මෙම අනතුරු ඇඟවීම අද (30) පස්වරු 4.00 සිට හෙට පස්වරු 4.00 දක්වා ක්‍රියාත්මක බවය.
+
+මහනුවර දිස්ත්‍රික්කය - උඩුදුම්බර,  උඩපලාත, දෙල්තොට, ගගවට කෝරළය, පාතහේවාහැට, හාරිස්පත්තුව, පාතදුම්බර, යටිනුවර, මැදදුම්බර, දොළුව, උඩුනුවර, තුම්පනේ, පූජාපිටිය, පන්විල, පස්බාගෙ කෝරළය, අකුරණ, හතරලියද්ද,ගග ඉහළ කෝරළය
+
+කෑගල්ල දිස්ත්‍රික්කය - වරකාපොල, රඹුක්කන, රුවන්වැල්ල, ගලිගමුව, බුලත්කොහුපිටිය, ⁠අරණායක, මාවනැල්ල, යටියන්තොට
+
+මාතලේ දිස්ත්‍රික්කය - අඹන්ගග කෝරළය, රත්තොට, උකුවෙල, විල්ගමුව, නාඋල, යටවත්ත, පල්ලේපොල, ලග්ගල පල්ලේගම, මාතලේ
+
+බදුල්ල දිස්ත්‍රික්කය - හල්දුම්මුල්ල, ඇල්ල, ලුණුගල, සොරනාතොට, කන්දකැටිය, ඌව පරනගම, වැලිමඩ, ⁠හපුතලේ, බදුල්ල
+
+◼️
+
+[Data](articles/f962dd68.json)
+
+---
 
 ### நாட்டின் பல பகுதிகளிலும் காற்றின் தரம் குறைந்தது
 
@@ -70,6 +92,26 @@ However, about 20 houses are still submerged in the Puttalam Anamaduwa area. Rem
 
 ---
 
+### වනඅලි ප්‍රහාරයකින් නාවික හමුදා නිලධාරියෙක් මරුට
+
+*2024-11-30 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203898) · `si`
+
+පූනෑව නාවික හමුදා කඳවුරට අනියුක්තව රාජකාරි කළ නිලධාරියෙකු වනඅලි ප්‍රහාරයකට ලක්වී මියගොස් තිබේ.
+
+ඔහු ජේ.ඒ.එම්.සී ජයකොඩි නමැති නිට්ටඹුව ප්‍රදේශයේ පදිංචි 41 හැවරිදි දෙදරු පියෙකි.
+
+අප වාර්තාකරු සඳහන් කළේ අදාළ නිලධාරියා පූනෑව නාවික හමුදා කඳවුරේ ප්‍රවාහන අංශය භාරව කටයුතු කළ නිලධාරියෙක් බවය.
+
+ඊයේ රාත්‍රී 9:30ට පමණ නාවික හමුදා කඳවුර අසලදී පාගමනින් ගමන් ගත් අවස්ථාවේදී ඔහු මෙම වනඅලි ප්‍රහාරය ලක්වී තිබේ.
+
+අනතුරුව ඔහුව වවුනියාව මූලික රෝහලට ඇතුළත් කර ඇති අතර ඒ වනවිටත් මියගොස් ඇති බව පූනෑව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/faec5874.json)
+
+---
+
 ### ‘Manusath Derana’ continues relief efforts for flood-affected communities in North
 
 *2024-11-30 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103887/manusath-derana-continues-relief-efforts-for-flood-affected-communities-in-north) · `en`
@@ -87,6 +129,56 @@ In collaboration with the Sri Lanka Army, dry food items were distributed to aff
 [Data](articles/ba3381d7.json)
 
 [Extended Data](ext_articles/ba3381d7.ext.json)
+
+---
+
+### අනුරාධපුර ශික්ෂණ රෝහලේ විරල ගණයේ සිව් නිවුන් දරු උපතක්
+
+*2024-11-30 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203897) · `si`
+
+ඒ අතරින් නිවුන් දරු උපතක් යනු මව්පියන්ගේ සතුට දෙගුණ තෙගුණ කරවන්නක් ද වේ.
+
+ඒ අනුව දුර්ලභ සිව් නිවුන් දරු උපතක් අනුරාධපුර ශික්ෂණ රෝහලෙන් අද දෙරණට වාර්තා විය.
+
+මෙම වාසනාවන්ත සිව් නිවුන් දරු උපතට හිමිකම් ලැබුවේ 28 හැවිරිදි අනුරාධපුර ප්‍රදේශයේ කාන්තාවකි.
+
+ඇය පසුගියදා අනුරාධපුර ශික්ෂණ රෝහලේදී මෙම සිව් නිවුන් දරුවන් බිහිකරන්නේ වසර ගණනක් දරුපල ප්‍රමාදව සිටින අතරතුරයි.
+
+අනුරාධපුර ශික්ෂණ රෝහලේ විශේෂඥ වෛද්‍යවරුන් ඇතුළු හෙද කාර්ය මණ්ඩලය මව් කුසතුළ සිටින්නේ සිව් නිවුන් දරුවන් බවට හඳුනාගත් මොහොතේ පටන් නිරෝගී දරු උපතක් වෙනුවෙන් මහත් පරිශ්‍රමයක් දරා තිබේ.
+
+සිසේරියන් සැත්කමක් මගින් මෙලොව එළිය දුටු මේ දරුවන් මේ වනවිට නොමේරූ ළදරු ඒකකය තුළ යහපත් සෞඛ්‍ය තත්ත්වයෙන් පසුවන බව වෛද්‍යවරුන් පවසයි.
+
+අනුරාධපුර ශික්ෂණ රෝහලේ සිව් නිවුන් දරු උපතක් වාර්තා වීම ප්‍රථම අවස්ථාවට සිදුවීම හේතුවෙන් එය රෝහලට ඉතා වැදගත් සිදුවීමක්ද වී තිබේ.
+
+මේ සම්බන්ධව අදහස් දැක්වූ නාරි හා ප්‍රසව විශේෂඥ වෛද්‍ය දිනේෂ් බියගම මහතා පැවසුවේ මෙවන් අදහසක්.
+
+...
+
+[Data](articles/1fb2d645.json)
+
+---
+
+### ආපදාවලින් පීඩාවට පත් ජනතාව සොයා මනුසත් දෙරණ තවත් මෙහෙයුමක්
+
+*2024-11-30 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203895) · `si`
+
+මෙරට ආපදා අවස්ථාවලදී පීඩාවට පත් ජනතාව වෙනුවෙන් සහන සැලසීම සිය ප්‍රමුඛ කාර්යය කරගත් මනුසත් දෙරණ, මෙවරත් අයහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම වෙනුවෙන් ඉදිරිපත්වී සිටී.
+
+ඩයලොග් සමග අත්වැල් බැඳගනිමින් "මනුසත් දෙරණ" මෙම ක්‍රියාන්විතය අද (30) දෙවන දිනටත් දියත් කළේය.
+
+මෙරට ආපදා තත්ත්වයක් ඇතිවූ සෑම අවස්ථාවකදීම මනුසත් දෙරණ සිය යුතුකම නොපිරිහෙලා ඉටු කරමින් සහන සැලසීමට ඉදිරිපත් වූයේ අපේම ලක්වාසි ජනතාවට අස්වැසිල්ලක් වීමේ අරමුණින්ය.
+
+ඒ අනුව, උතුරේ පීඩාවට පත් ජනතාව සඳහා ද්‍රව්‍යාධාර රැගත් මනුසත් දෙරණ කණ්ඩායම් පසුගියදා වව්නියාව බලා ගමන් ආරම්භ කළේය.
+
+ද්‍රව්‍යාධාර රැගත් අප කණ්ඩායම් වව්නියාව දිස්ත්‍රික්කයට ළඟා වුණේ ගංවතුරෙන් අවතැන්වී සහන කඳවුරුවල වෙසෙන ජනතාවට පිළිසරණක් වෙමින්ය.
+
+ඔවුන්ට පිසීම සඳහා වියළි ආහාර ද්‍රව්‍ය යුද හමුදාවේ දායකත්වයෙන් බෙදා දීම මෙහිදී සිදුකෙරුණි.
+
+වව්නියාව, කුරුක්කල්පුදුක්කුලම් අවතැන් කඳවුර වෙතද ගිය මනුසත් දෙරණ එහි රැඳීසිටින ජනතාව වෙනුවෙන් පිසීම සඳහා වියළි ආහාර ද්‍රව්‍ය ලබාදීම සිදුකළේය.
+
+...
+
+[Data](articles/8b5656b1.json)
 
 ---
 
@@ -2257,109 +2349,5 @@ Deputy Minister of Agriculture Namal Karunaratne says that compensation is compe
 [Data](articles/f5b75b52.json)
 
 [Extended Data](ext_articles/f5b75b52.ext.json)
-
----
-
-### Incidents in several places in the Calcutta Police Division
-
-*2024-11-29 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200042) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Thieves struck multiple homes in Calcutta Police Division on Thursday night. Break-ins reported in Latadichenai and Pettale Grama Sevaka Divisions. Valuables stolen. Crime Forensic Division investigating with K9 unit. Police advise residents to secure belongings. Inclement weather may have contributed to increased theft."
-
-🟩
-
-Calcutta police said that there were incidents of theft on Thursday night (29) at different locations in the Calcutta Police Division.
-
-These incidents have taken place in the Grama Sevaka Divisions of Latadichenai and Pettale. The doors and windows of the house have been broken and valuable home appliances.
-
-The Batticaloa Crime Forensic Division has been summoned to the scene and is being investigated with the help of a mop Shakti dog to catch the thieves.
-
-The police have also asked the people of the area to keep up with the people to protect their belongings from the thieves.
-
-Due to the inclement weather in the district, the normalcy of the people is affected by the displaced camp and the homes of relatives.. The theft has been used using this unusual situation.
-
-◼️
-
-[Data](articles/32f0d737.json)
-
-[Extended Data](ext_articles/32f0d737.ext.json)
-
----
-
-### Four people arrested with Kerala ganja in Talaimannar
-
-*2024-11-29 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200032) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Four arrests made in Talaimannar: four men aged 24, 28, 29, 32 caught with 60kg of Kerala cannabis.
-
-🟩
-
-Four persons were arrested by the Kerala ganja in the area of ​​the Talaimannar police division yesterday (28).
-
-The suspects are aged 24, 28, 29 and 32 from Kesale, Sirithoppu.
-
-60 kg of 120 grams of Kerala cannabis has been seized from the arrested suspects.
-
-◼️
-
-[Data](articles/9b77354f.json)
-
-[Extended Data](ext_articles/9b77354f.ext.json)
-
----
-
-### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
-
-*2024-11-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
-
-The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
-
-...
-
-[Data](articles/7b4fd7e2.json)
-
-[Extended Data](ext_articles/7b4fd7e2.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-11-29 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203874) · `si`
-
-Cyclone warning issued for coastal areas. Heavy rainfall expected in northern and western provinces. Strong winds forecasted. Meteorology Department advises caution.
-
-🟩
-
-Issued on deep and shallow sea areas around the island and the weather for land.
-
-The Meteorology Department is notified that the public is notified today (29).
-
-The deep pressure depression in the southwest Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bengal has grown to a cyclone.
-
-The Department of Meteorology announces more likely to travel to the Western towards Western towards the Western and a cynamo.
-
-Today, the effect of this system will gradually reduce the effect of this system to the weather in the island after today.
-
-Showers or thundershowers at times in the North and the North and North-Central provinces and in Trincomalee district.
-
-MM to certain places in the Northern Province. Heavy rains may occur at more than 100.
-
-Showers will occur at several places in the Western, Sabaragamuwa and North Western provinces and at times in Galle, Matara, Matale and Kandy districts.
-
-Showers or thundershowers will occur at several places in the evening or night.
-
-...
-
-[Data](articles/ef639584.json)
-
-[Extended Data](ext_articles/ef639584.ext.json)
 
 ---

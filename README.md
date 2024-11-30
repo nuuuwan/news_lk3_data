@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 11:00:29**
+As of **2024-11-30 11:25:53**
 
 ## Newspaper Stats
 
@@ -26,57 +26,87 @@ adaderanasinhalalk | 9,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,701 (100.0%) of 57,708 articles have been extended.
+57,708 (100.0%) of 57,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
 
-### குளிர் காரணமாக தீயில் சிக்கி ஒருவர் மரணம்
+### Death of someone caught in fire due to cold
 
 *2024-11-30 10:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிர்-காரணமாக-தீயில்-சிக்கி-ஒருவர்-மரணம்/175-348009) · `ta`
 
-முல்லைத்தீவு - சிலாவத்தை பகுதியில் நேற்று (29) பிற்பகல் தீயில் சிக்கி ஒருவர் உடல் கருகி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of 200 characters:
 
-உயிரிழந்தவர் சிலாவத்தை பகுதியைச் சேர்ந்த 75 வயதுடையவர் என்பதுடன், அவர் தனது மகனின் வீட்டிற்கு அருகிலுள்ள வீடொன்றில் தனியாக வசித்து வந்துள்ளார்.
 
-குளிர் காரணமாக வீட்டிற்கு முன்னால் தீ மூட்டியதாகவும், அந்த தீ பரவியதன் காரணமாக இந்த மரணம் ஏற்பட்டிருக்கலாம் என பொலிஸார் தெரிவிக்கின்றனர்.
 
-சடலம் பிரேத பரிசோதனைக்காக மாஞ்சோலை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், முல்லைத்தீவு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+75-year-old man dies in fire in Mullaitivu-Chilawatte. Police suspect cold caused both the fire and death. Body sent for autopsy. Investigation ongoing.
+
+🟩
+
+A man was killed in a fire yesterday afternoon (29) in the Mullaitivu - Chilawatte area, police said.
+
+The deceased is a 75 -year -old from Chilawatte and he lives alone in a house near his son's house.
+
+Police say the death may have been caused by the cold and the fire may have been caused by the cold.
+
+The body has been placed in the funeral room of the Manjolai Hospital for autopsy and the Mullaitivu police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/a1df1362.json)
 
+[Extended Data](ext_articles/a1df1362.ext.json)
+
 ---
 
-### தொற்றா நோய்கள் பரவும் அபாயம்
+### The risk of spreading infectious diseases
 
 *2024-11-30 10:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொற்றா-நோய்கள்-பரவும்-அபாயம்/175-348008) · `ta`
 
-தற்போது பெய்து வரும் அடைமழை காரணமாக எதிர்காலத்தில் டெங்கு, எலிக்காய்ச்சல் போன்ற நோய்கள் பரவுவது வேகமாக அதிகரிக்கலாம் என, சுகாதாரத் துறையினர் தெரிவிக்கின்றனர்.
+Here's a summary in 200 characters:
 
-எதிர்வரும் நாட்களில் வெள்ளம் தணிந்ததன் பின்னர் டெங்கு பரவுவதை கட்டுப்படுத்த நடவடிக்கை எடுப்பது அத்தியாவசியமானது என, தேசிய டெங்கு கட்டுப்பாட்டு பிரிவின் சமூக சுகாதார நிபுணர் டொக்டர் அனோஜா தீரசிங்க தெரிவித்தார். AN
+
+
+Rains increase risk of dengue & flu spread. Health dept warns of rapid disease growth. Dr. Anoja urges action against dengue post-flooding.
+
+🟩
+
+Due to the current rains, the spread of diseases such as dengue and flu in the future will be rapidly increased, the health department said.
+
+Dr. Anoja Therasinghe, community health expert at the National Dengue Control Division, said that it is essential to take steps to curb dengue after flooding in the coming days.. Those
 
 ◼️
 
 [Data](articles/7dcb557d.json)
 
+[Extended Data](ext_articles/7dcb557d.ext.json)
+
 ---
 
-### 4 மாவட்டங்களுக்கு 16 பேரிடர் மீட்பு குழுக்கள் நியமனம்
+### 16 Disaster Rescue Teams Appointment to 4 Districts
 
 *2024-11-30 10:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாவட்டங்களுக்கு-16-பேரிடர்-மீட்பு-குழுக்கள்-நியமனம்/175-348007) · `ta`
 
-நாடளாவிய ரீதியில் பெய்து வரும் கடும் மழையினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காக 4 மாவட்டங்களுக்கு 16 பேரிடர் மீட்பு குழுக்கள் நியமிக்கப்பட்டுள்ளதாக, கடற்படை தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-அம்பாறை, புத்தளம் மற்றும் அனுராதபுரம் மாவட்டங்களில் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம், உதவி வழங்குவதற்காக இந்தக் குழுக்கள் நியமிக்கப்பட்டுள்ளதாக கடற்படை தெரிவித்துள்ளது.
 
-இதேவேளை, வட பிராந்தியத்திலுள்ள பரீட்சை நிலையங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ள  உயர்தரப் பரீட்சைக்கான வினாத்தாள்களை மீண்டும் கொண்டு வருவதற்கு, பெல் 212 ரக ஹெலிகொப்டர் அனுப்பப்பட்டுள்ளதாக இலங்கை விமானப்படை தெரிவித்துள்ளது. AN
+
+"16 disaster rescue teams deployed to Ampara, Puttalam, and Anuradhapura. Navy provides relief, while SLAF retrieves exam papers from Northern centers."
+
+🟩
+
+16 disaster rescue teams have been appointed to four districts to provide relief to the people affected by heavy rains across the country, the Navy said.
+
+The Navy said that these groups have been appointed to provide relief and assistance to the affected people in Ampara, Puttalam and Anuradhapura districts.
+
+Meanwhile, the Sri Lanka Air Force has said that the Bell 212 helicopter has been sent to bring back the GCE Advanced Level Examination Questionnaire sent to examination centers in the North Region.. Those
 
 ◼️
 
 [Data](articles/f9041beb.json)
+
+[Extended Data](ext_articles/f9041beb.ext.json)
 
 ---
 
@@ -106,49 +136,63 @@ In addition, the Ceylon Bank Branch, located at the Jawatte Office complex, will
 
 ---
 
-### සීතල නිසා දැල් වූ ගිනිමැළයකට හසුව පුද්ගලයෙකු මරුට
+### Man dies in a fleeing fire due to cold
 
 *2024-11-30 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203888) · `si`
 
-මුලතිව්හි සිලාවත්ත ප්‍රදේශයේ පුද්ගලයෙකු ගින්නකට හසුවී පිළිස්සී මියගොස් ඇති බව පොලීසිය පවසයි.
+A 75-year-old man died in a fire at his home in Silawatta, Mullaittivu. Police believe the fire was caused by cold temperatures. The body is at Manchal Hospital for investigation.
 
-මියගිය පුද්ගලයා සිලාවත්ත ප්‍රදේශයේ පදිංචි අවුරුදු 75ක පුද්ගලයෙකු වන අතර, ඔහු සිය පුත්‍රයාගේ නිවස ආසන්නයේ පිහිටි නිවසක තනිවම වාසය කර තිබේ.
+🟩
 
-පොලීසිය පවසන්නේ සීතල හේතුවෙන් නිවස තුළ දල්වන ලද ගින්නක් ව්‍යාප්තවීමෙන් මෙම මරණය සිදුවන්නට ඇති බවය.
+Police say that a person in Silawatta, Mullaittivu has been burnt to fire, police said.
 
-මෘත ශරීරය පශ්චාත් මරණ පරීක්ෂණය සඳහා මාන්චෝලය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, මුලතිව් පොලීසිය මේ පිළිබඳ වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased is a 75 year old resident of the Silawatta, and he has lived alone in a house near his son's house.
+
+The police say that the death has occurred to spread a fire spread in the house due to the cold.
+
+The body has been placed at the Manchal hospital morgue and the Mullaitivu police are conducting further investigations.
 
 ◼️
 
 [Data](articles/a62bb9d5.json)
 
+[Extended Data](ext_articles/a62bb9d5.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා යෞවනයන්ගෙන් ජයග්‍රාහී ආරම්භයක්
+### Sri Lanka Youths win winning
 
 *2024-11-30 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203887) · `si`
 
-ආසියානු වයස 19න් පහළ එක්දින ක්‍රිකට් තරගාවලිය යටතේ ශ්‍රී ලංකා කණ්ඩායම ක්‍රීඩාකළ පළමු තරගයෙන් නේපාලයට එරෙහිව ලකුණු 55ක ජයක් ලැබීමට සමත් විය.
+Sri Lanka U-19 team won vs Nepal in UAE tourney. Scored 233/5, Nepal replied with 178/8. Praveen took 3/30. Next match vs Bangladesh on 1st Oct at 10:30 AM.
 
-මෙම තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වෙන අතර, ශ්‍රී ලංකා කණ්ඩායම ක්‍රීඩාකළ තරගය ඊයේ (29) සාජාහිදී පැවැත්විණි.
+🟩
 
-පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකාව පන්දුවාර 50 තුළදී සියලු දෙනා දැවී ලකුණු 233ක් රැස්කිරීමට සමත් විය.
+Sri Lanka beat Sri Lanka by 55 runs in the first match played by the Sri Lankan team in the Under-19 ODI series.
 
-එහිදී ශාරුජන් ෂම්මුගනාදන් (62) හා ලක්වින් අබේසිංහ (50) අර්ධ ශතක රැස්කළහ.
+The tournament is being held in the United Arab Emirate, and the match played by the Sri Lankan team was played yesterday (29).
 
-කෙසේ නමුත් පිළිතුරු ඉනිම ක්‍රීඩාකළ නේපාලයට පන්දුවාර 46.2කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 178ක් පමණි.
+Batting first Sri Lanka scored 233 runs in the 50 overs.
 
-ආරම්භක පිතිකරු මායන් යාදව් ලකුණු 62ක් රැස්කළත් එය ජයග්‍රහණයට ප්‍රමාණවත් නොවීය.
+Shahjan Shammunathan (62) and Lakvin Abeysinghe (50) collected half centuries.
 
-ප්‍රවීන් මනීෂ ලකුණු 30කට කඩුලු 3ක් දවාගනිමින් ශ්‍රී ලංකාව වෙනුවෙන් දක්ෂ පන්දු යැවීමක නිරත විය.
+However, in reply, Nepal was only 178 runs in 46.2 overs.
 
-ඊට අමතරම නිව්ටන් රංජිත්කුමාර් (2/17), කුගදාස් මාතුලන් (2/21) හා නායක විහස් තෙව්මික (2/51) කඩුලු 2 බැගින් දවාගත්තේය.
+The opening batsman Maadwa scored 62 runs but was not sufficient to win.
 
-මේ අතර මෙම තරගාවලිය ආරම්භ කරමින් ඊයේ පැවති පළමු තරගයෙන් ඇෆ්ගනිස්තානය පරාජය කර ලකුණු 45ක ජයක් ලැබීමට බංග්ලාදේශය සමත් විය.
+Praveen bowled out for 30 wickets for 30 runs.
+
+In addition, Newton Ranjitumar (2/17), Kugadas Mathalalan (2/21) and the leader (2/21) and the leader (2/51) were wickets each.
+
+Meanwhile, Bangladesh was able to win the Afghanistan by 45 runs in the first match of the tournament yesterday.
+
+The tournament will be held under two partners 'A' and Sri Lanka and Bangladesh played its 'B' category.
 
 ...
 
 [Data](articles/68b17af1.json)
+
+[Extended Data](ext_articles/68b17af1.ext.json)
 
 ---
 
@@ -236,21 +280,27 @@ Showers or thundershowers may occur at a few places elsewhere of the island in t
 
 ---
 
-### අප්‍රිකානු සූකර උණ රෝගයේ අලුත්ම තත්ත්වය
+### The latest condition of African swine flu
 
 *2024-11-30 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203886) · `si`
 
-අප්‍රිකානු සූකර උණ රෝගය යම් මට්ටමකින් මේ වනවිට පාලනය කර ඇති බව රජයේ පශු වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+African swine flu: Controlled according to SSP. Steps to ensure safe human consumption. Owners claim complete destruction. Government urged to compensate affected businesses.
 
-එම සංගමයේ සභාපති වෛද්‍ය සිසිර පියසිරි මහතා පවසා සිටියේ, රෝගය වැලඳී නොමැති ගොවිපළවල මස් නිවරදි ක්‍රමවේදය යටතේ මිනිස් පාරිභෝජනය සඳහා යෙදවීමට පියවර ගන්නා බවයි.
+🟩
 
-එමෙන්ම අප්‍රිකානු සූකර උණ රෝගය වැලඳීම හේතුවෙන් ගොවිපළ රැසක් මේ වනවිට සම්පූර්ණයෙන්ම විනාශ වී ඇති බව එහි හිමිකරුවන් පෙන්වා දෙයි.
+According to the Government Veterinary Office Association, the Government Veterinary Office Association (SSP) says that the African swine flu is controlled.
 
-එනිසා සිය ව්‍යාපාර යළි ගොඩනගා ගැනීම සඳහා වන්දි මුදලක් ලබාදීමට රජයෙන් පියවර ගතයුතු බව ඔවුන් පවසයි.
+The President of the Association Dr. Sisira Piyasiri said steps will be taken to deploy for human consumption under the right method of the disease.
+
+The owners point out that there have been completely destroyed by the African swaming flu.
+
+As such, the government should take measures to pay compensation to rebuild its businesses.
 
 ◼️
 
 [Data](articles/24af87ee.json)
+
+[Extended Data](ext_articles/24af87ee.ext.json)
 
 ---
 
@@ -1098,17 +1148,31 @@ Police investigations have revealed that a motorbike has been charged Rs.
 
 ---
 
-### මත්ද්‍රව්‍ය මර්දනය ඉතා ප්‍රමුඛ සහ හදිසි වගකීමක්
+### The crackdown is very leading and emergency
 
 *2024-11-29 22:00:43* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-මර්දනය-ඉතා-ප්‍රමුඛ-සහ-හදිසි-වගකීමක්/11-413360) · `si`
 
-නීතිමය රාමුවට පමණක් සීමා නොවී ළමා හා තරුණ සිත් තුළ මනෝභාවමය සහ ආකල්පමය වශයෙන් යහපත් වෙනසක් ඇති කිරීම මගින් මත්ද්‍රව්‍ය උවදුර ජයගත යුතු ව ඇති බවත් ඒ කෙරෙහි විශේෂ වශයෙන් උත්සාහ දැරීමේ ජාතික වගකීමක් පවතින බවත් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මහත්මිය පැවසී ය.
+Here's a summary of the text in approximately 200 characters:
 
-ඇය මේ බව ප්‍රකාශ කළේ 2024 - සමස්ත ලංකා චිත්‍ර හා සජීවිකරණ වීඩියෝ තරගාවලියේ ජයග්‍රාහකයන් වෙත ත්‍යාග ප්‍රදානය කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිතයා ලෙස සහභාගී වෙමින් අද දින කොළඹ, ප්‍රදීපාගාර ශ්‍රවණාගාරයේ දී ය.
+
+
+PM Harini Amarasuriya addresses drug issues, emphasizing positive change through art competitions. She highlights the importance of maintaining anti-drug efforts while supporting rehabilitation programs. The new government's approach aims to address national and international challenges.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya said that the drug and attitudes should be overcome by making a positive difference in the psychological and youthfulness without confusing the legal framework.
+
+She was speaking at 2024 - the chief guest at the winners of the All Ceylon Art and Animation Video Competition.
+
+Speaking further, she said that the new government's program would be very prominent and emergency. She emphasized that law enforcement priority should continue to maintain the national and international drug trafficking of the country with political economic and social crises and brushing the country's future.. She rated the service provided by the Navy and other security forces, she also highlighted the need for the attraction of drugs and rehabilitation of addiction.
+
+Harinini Amarasuriya said that they should help their children to create a strong future by informing children.
 
 ...
 
 [Data](articles/ba142fab.json)
+
+[Extended Data](ext_articles/ba142fab.ext.json)
 
 ---
 

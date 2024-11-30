@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 15:41:44**
+As of **2024-11-30 16:41:28**
 
 ## Newspaper Stats
 
-*Scraped **57,730** Articles*
+*Scraped **57,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,463
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,445
-adaderanalk | 6,995
-tamilmirrorlk | 8,206
+adalk | 5,446
+adaderanalk | 6,996
+tamilmirrorlk | 8,208
 virakesarilk | 9,429
 adaderanasinhalalk | 9,966
 
@@ -26,31 +26,99 @@ adaderanasinhalalk | 9,966
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,719 (100.0%) of 57,730 articles have been extended.
+57,733 (100.0%) of 57,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
 
-### සූකර උණ රෝගයෙන් කර්මාන්තකරුවන් දැඩි අසීරුතාවට
+### நாட்டின் பல பகுதிகளிலும் காற்றின் தரம் குறைந்தது
+
+*2024-11-30 16:23:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளிலும்-காற்றின்-தரம்-குறைந்தது/175-348011) · `ta`
+
+கொழும்பு உட்பட நாட்டின் பல பகுதிகளில் நிலவும் சீரற்ற காலநிலை காரணமாக இன்று  காற்றின் தர சுட்டெண் 92 - 120 வரை உள்ளதாக என தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+இந்த நிலைமையினால் சுவாசிப்பதில் சிரமம் ஏற்படலாம் எனவும் அவ்வாறான சிரமங்கள் ஏற்பட்டால் வைத்திய ஆலோசனையை பெற்றுக்கொள்ளுமாறும் அந்த அமைப்பு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/72bbf55e.json)
+
+---
+
+### Vulnerability to train service
+
+*2024-11-30 16:12:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவைக்கு-பாதிப்பு/175-348010) · `ta`
+
+Heavy rains cause delays in railway service and road opening. Landslide blocks route, while homes remain submerged.
+
+🟩
+
+Due to heavy rains, the work of removing the soil and stones has been carried out today in the railway line of Hali Ela, Udura.
+
+As a result, the railway service between Badulla and the border will be delayed for a few more days, according to railway officials.
+
+Meanwhile, it has been announced that a route on the Pasarai - Lunugala Road, which was completely blocked by the landslide in the 16th mile stone area, will be opened from 6 am to 6 pm today.
+
+However, about 20 houses are still submerged in the Puttalam Anamaduwa area. Remble
+
+◼️
+
+[Data](articles/ac05527a.json)
+
+[Extended Data](ext_articles/ac05527a.ext.json)
+
+---
+
+### ‘Manusath Derana’ continues relief efforts for flood-affected communities in North
+
+*2024-11-30 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103887/manusath-derana-continues-relief-efforts-for-flood-affected-communities-in-north) · `en`
+
+TV Derana’s CSR initiative “Manusath Derana” has once again stepped forward to assist those impacted by the recent adverse weather conditions. Partnering with Dialog, “Manusath Derana” launched its relief operation for the second consecutive day today (30).
+
+Known for its unwavering dedication to supporting disaster-stricken communities, “Manusath Derana” has consistently prioritized providing relief and essential aid to those in need.
+
+As part of its latest initiative, teams from “Manusath Derana” set out to the Vavuniya District, carrying much-needed supplies for individuals displaced by floods and currently residing in relief camps.
+
+In collaboration with the Sri Lanka Army, dry food items were distributed to affected families, helping them prepare meals and sustain their daily needs. The effort extended to the Kurukkalpudukkulam displacement camp in Vavuniya, where additional food supplies were provided to assist the displaced residents.
+
+...
+
+[Data](articles/ba3381d7.json)
+
+[Extended Data](ext_articles/ba3381d7.ext.json)
+
+---
+
+### Industrialists in Swine flu
 
 *2024-11-30 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203894) · `si`
 
-අප්‍රිකානු සූකර උණ වෛරස් රෝගය ශීඝ්‍රයෙන් ව්‍යාප්ත වීම හේතුවෙන් කොස්ගම සහ පාදුක්ක පශු වෛද්‍ය නිලධාරී බල ප්‍රදේශයේ සූකර කර්මාන්තය සම්පූර්ණයෙන්ම විනාශවීමේ අවදානමක් උද්ගතව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-සූකර ගොවිපොළ හිමියන් පෙන්වා දෙන්නේ, එම පසුබිම යටතේ තමන් දැඩි අසරණ තත්ත්වයට පත්ව ඇති බවය.
 
-කොස්ගම සහ පාදුක්ක පශු වෛද්‍ය නිලධාරී බල ප්‍රදේශය තුළ පමණක් ලියාපදිංචි සූකර ගොවිපොළ 176ක සතුන් 25,000ක් පමණ සිටි නමුත් මේ වනවිට එම සංඛ්‍යාව 3,000ක් පමණ දක්වා පහළ ගොස් තිබේ.
 
-ඒ හේතුවෙන් එම කර්මාන්තය හා සම්බන්ධ සෘජු සහ වක්‍ර රැකියාවල නිරත වූ  50,000කට ආසන්න පිරිසක් පත්ව ඇත්තේ දැඩි අසීරුතාවකට පත්ව තිබේ.
+"African swine flu spreads rapidly in Sri Lanka due to unregistered farms. About 25,000 people work in the industry, mostly in Padukka and Kosgama areas. In 2019, a similar virus affected pig farming, leading to the current outbreak."
 
-2019 වර්ෂයේදී ඌරන්ට මෙවැනිම වෛරස රෝගයකින් බලපෑම් එල්ල වූ අතර, එම අවස්ථාවේදීද මෙරට සූකර කර්මාන්තයට අයහපත් කාලවකවානුවක් උදාවුණි.
+🟩
 
-කෙසේ වෙතත්, පශුවෛද්‍ය නිලධාරීන් පෙන්වා දෙන්නේ, අප්‍රිකානු සූකර උණ රෝගය සඳහා මේ දක්වා එන්නතක් නිෂ්පාදනය කර නොමැතිවීම මෙම තත්ත්වය ශීඝ්‍රයෙන් වර්ධනයට වීමට හේතු වී ඇති බවයි.
+African swine fluorescent spreads rapidly expanded due to the rapid spread of the fluorescent of the veterinary officers in the Padukka Veterinary Surveys.
+
+Sweda farm owners point out that they have been deeply helpless under the backdrop.
+
+About 25,000 people in the Veterinary Officer of the Veterinary Officer of the Padukka, Kosgama and Padukka, were only 176 registered Savkara farm.
+
+As a result, nearly 50,000 people have been severely engaged in direct and indirect jobs related to the industry.
+
+In 2019, pigs were influenced by a similar virus disease, and the Sri Lankan swaming industry was a bad period.
+
+However, veteran officials point out that this situation has contributed to the rapid growth of the African swine flu.
 
 ◼️
 
 [Data](articles/90784aeb.json)
+
+[Extended Data](ext_articles/90784aeb.ext.json)
 
 ---
 
@@ -74,43 +142,63 @@ However, around 20 houses in Anamaduwa and Puttalam remain inundated.
 
 [Data](articles/c71f4ced.json)
 
+[Extended Data](ext_articles/c71f4ced.ext.json)
+
 ---
 
-### லுணுகம்வெஹெரையில் 7 கஞ்சா தோட்டங்கள் சுற்றிவளைப்பு ; 2 உள்நாட்டுத் துப்பாக்கிகளுடன் 08 பேர் கைது!
+### 7 cannabis gardens surrounding in Lunugamvehera;08 arrested with 2 domestic guns
 
 *2024-11-30 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200077) · `ta`
 
-ஹம்பாந்தோட்டை, லுணுகம்வெஹெர காட்டுப் பகுதியில் 08 1/2 ஏக்கர் நிலப்பரப்பில் 07 கஞ்சா தோட்டங்கள் பொலிஸாரால் சுற்றிவளைக்கப்பட்டதோடு, உள்நாட்டுத் துப்பாக்கிகளுடன் 08 சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary in 200 characters:
 
-புத்தல பொலிஸ் விசேட அதிரடிப்படை முகாமின் அதிகாரிகள் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர்கள் நேற்று வெள்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளனர்.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் தனமல்வெவ, சூரியவெவ பிரதேசங்களை சேர்ந்த 29 - 65 வயதுக்குட்பட்டவர்கள் ஆவர்.
+
+8 cannabis gardens seized, 8 arrested in Lunugamvehera. Police operation led by Budhala STF. Suspects aged 29-65 from Dhanamalwewa & Surveva.
+
+🟩
+
+07 cannabis gardens have been surrounded by police on 08 1/2 acres in the Lunugamvevehera forest area in Hambantota and 08 suspects have been arrested by police.
+
+They were arrested yesterday (29) following a roundup of officials of the Budhala Police Special Task Force Base.
+
+The suspects were between the ages of 29 - 65 from Dhanamalwewa and Surveva areas.
 
 ◼️
 
 [Data](articles/779e7ba4.json)
 
+[Extended Data](ext_articles/779e7ba4.ext.json)
+
 ---
 
-### STF නම කැත කරන්න පාතාලයෙන් අලුත් උපායක්
+### Suggest STF name, new trick
 
 *2024-11-30 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203893) · `si`
 
-මත්ද්‍රව්‍ය හා පාතාලය මැඬලීම සඳහා සුවිශේෂී කාර්යභාරයක් සිදුකරන පොලිස් විශේෂ කාර්ය බලකායේ ක්‍රියාකාරී නිලධාරීන් ඉලක්ක කර පාතාල කල්ලි සාමාජිකයන් සමාජ මාධ්‍ය මෙහෙයුමක් ආරම්භ කර තිබෙන බවට මේ වනවිට කරුණු  අනාවරණ වී තිබේ.
+Sum:0
 
-එම අනාවරණය කරගත් කරුණු අනුව හෙළිවී ඇත්තේ, ක්‍රියාකාරී නිලධාරීන්ට සමාජ මාධ්‍ය හරහා අසත්‍ය චෝදනා කර ඔවුන්ව එම තනතුරුවලින් ඉවත් කිරීමට අවශ්‍ය මතවාදී බලපෑම ඇතිකිරීම බවය.
+🟩
 
-මෙරට තුළ මත්ද්‍රව්‍ය හා පාතාලය මැඬලීමට සුවිශේෂී කාර්යභාරයක් සිදුකරන පොලිස් විශේෂ කාර්ය බලකාය, පසුගිය මාස හතරක කාලය තුළ පමණක් මත්ද්‍රව්‍ය තොගයක් සිය භාරයට ගැනීමට සමත් විය.
+It has been revealed that the members of the Special Task Force (STF) have launched a social media campaign targeting the active role in the drug and underworld.
 
-හෙරොයින් කි.ග්‍රෑ. 350ක්, අයිස් කි.ග්‍රෑ. 140ක්, කේරල ගංජා කි.ග්‍රෑ. 6,860ක් ඇතුළු විවිධ විෂ මත්ද්‍රව්‍ය ඒ අතර විය.
+According to these detected points, it is revealed that the active officials have accused of ideological influence through social media.
 
-පොලිස් විශේෂ කාර්ය බලකාය සිදුකළ ආසන්තම වැටලීම වූයේ මීට දින කිහිපයකට පෙර උණාකූරුවේ ශාන්ත නැමැත්තාට අයත් මත්ද්‍රව්‍ය තොගයක් මීගොඩ ප්‍රදේශයේදී සිය භාරයට ගැනීමය.
+Special Task Force (STF), police special task for the past four months, the police special task for the past four months.
 
-එමෙන්ම පාතාල කල්ලි සාමාජිකයන් රැසක්ද ඔවුන් අත්අඩංගුවට ගෙන ඇති අතර, පාතාල මර්දන මෙහෙයුම් ද අඛණ්ඩව සිදුකරනු ලබයි.
+Heroin kg. 350, icekg. 140, Korala cannabis. Among them including 6,860, various poisons were among them.
+
+The suspect's raid was carried out by the STF in the warfare a few days ago.
+
+They have also been arrested and underworld gang members.
+
+Due to this, the son of Malithagama Chamaratne, who is in custody, Deathagoda Punhaya, who is in custody in Beleroos, has launched a socio media operation.Security forces have revealed that the security forces have been revealed.
 
 ...
 
 [Data](articles/6621cd7b.json)
+
+[Extended Data](ext_articles/6621cd7b.ext.json)
 
 ---
 
@@ -138,83 +226,113 @@ These persons were arrested in cases registered at Chengamanadu Police Station o
 
 ---
 
-### බදුල්ල - ඇල්ල දුම්රිය ධාවනය තවත් ප්‍රමාද වන ලකුණු
+### Badulla - Ella train runs
 
 *2024-11-30 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203891) · `si`
 
-අධික වර්ෂාව හේතුවෙන් හාලිඇළ, උඩුවර ප්‍රදේශයට වැටී ඇත් පස් හා ගල් ඉවත්කිරීම අදත් (30) සිදුවිය.
+Heavy rains cause delays on Badulla-Ella train route due to flooding at Uduru and Udutura. Elephant and stone removal operations ongoing. Road closures on Langulawa and Colombo-Batticaloa main road. Water levels still high at several reservoirs. Approximately 20 homes in Anamaduwa area remain underwater.
 
-ඒ හේතුවෙන් දුම්රිය බලධාරීන් පවසන්නේ බදුල්ල සහ ඇල්ල අතර දුම්රිය ධාවනය තව දින කිහිපයකට ප්‍රමාද වනු ඇති බවය.
+🟩
 
-මේ අතර පස්සර 16 කණුව ප්‍රදේශයේ සිදුවූ නායයෑමකින් ගමනාගමන කටයුතු සම්පූර්ණයෙන් අවහිර වූ පස්සර - ලුණුගල මාර්ගයේ එක් මංතීරුවක් අද උදෑසන 6 සිට පස්වරු 6 දක්වා විවෘත තැබේ.
+Due to heavy rains, Uduru, Udutura, the removal of the elephant and stone was held today.
 
-එමෙන්ම මහවැලි ගඟ පිටාරගැලීම නිසා දින ගණනාවක් වසා තිබුණු කොළඹ - මඩකලපුව ප්‍රධාන මාර්ගය සැහැල්ලු රථ වාහන ධාවනය සඳහා ඊයේ (29) පස්වරුවේ සිට විවෘත කෙරුණි.
+As a result, railway authorities say that the train between Badulla and the fall will delay a few days.
+
+Meanwhile, one lane on the Langulawa road from the Passara 16th Post
+
+The Colombo-Batticaloa main road was closed for days due to the extinguishing Mahaweli River.
 
 කෙසේ නමුත් ඇදහැලුණ අධික වර්ෂාව හේතුවෙන් දැදුරුඔය, පේරාරු, උල්හිටිය රත්කිඳ, පොල්ගොල්ල, නාච්චදූව, රාජංගනය, කලාවැව සහ වෙහෙරගල ආදි ජලාශවල වාන් දොරටු තවමත් විවෘතව ඇත.
 
-මේ අතර පුත්තලම, ආනමඩුව ප්‍රදේශයේ නිවාස 20ක් පමණ තවමත් ජලයෙන් යටව පවතියි.
+Meanwhile, around 20 houses in Anamaduwa area are still under water.
 
 ◼️
 
 [Data](articles/d0fc3c20.json)
 
+[Extended Data](ext_articles/d0fc3c20.ext.json)
+
 ---
 
-### மொரட்டுவையில் ஹெரோயினுடன் ஒருவர் கைது !
+### One arrested with heroin in Moratuwa
 
 *2024-11-30 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200070) · `ta`
 
-கொழும்பு , மொரட்டுவை பொலிஸ் பிரிவுக்கு உட்பட்ட முரவத்த பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளதாக மொரட்டுவை பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-மொரட்டுவை பொலிாருக்குக்  கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
 
-கைது செய்யப்பட்ட சந்தேக நபர் மொரட்டுவை பிரதேசத்தைச் சேர்ந்த 42 வயதுடையவர் ஆவார்.
 
-சந்தேக நபரிடம் இருந்து 07 கிராம் 260 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+Arrest made in Moratuwa: 42-year-old caught with 260ml heroin. Police acted on tip-off during operation.
+
+🟩
+
+Moratuwa police said that a suspect was arrested yesterday (29) with heroin drugs in the Moratuwa area belonging to the Moratuwa Police Division in Colombo.
+
+The suspect has been arrested during a roundup on the basis of confidential information received by the Moratuwa police.
+
+The suspect was 42 years old from Moratuwa.
+
+The drug has been seized by the police by the suspect, 260 ml of heroin.
 
 ◼️
 
 [Data](articles/f698d072.json)
 
+[Extended Data](ext_articles/f698d072.ext.json)
+
 ---
 
-### අද නගර රැසක වායුගුණයේ සුළු අහිතකර තත්ත්වයක්
+### Today there is little adverse impairment in a number of cities
 
 *2024-11-30 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203890) · `si`
 
-පවතින කාලගුණික තත්ත්වය හා උතුරු පෙදෙසින් පැමිණෙන දේශසීමා ව්‍යාකූල තත්ත්වය හේතුවෙන් අද (30) දිනය තුළ වායු ගුණ තත්ත්ව දර්ශකය (SLAQl) 92 - 120ත් අතර අගයක දිනය පුරාම පැවතිය හැකි බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+Air quality improves slightly; NBRO predicts SLAQI 92-120 days; Colombo, Jaffna, Polonnaruwa face slight negative levels; other cities see moderate improvement; NBRO advises caution.
 
-එම සංවිධානයේ පාරිසරික අධ්‍යන හා සේවා අංශය නිකුත්කළ දෛනික වායු ගුණ තත්ත්ව වාර්තාව අනුව දිවයිනේ බොහෝ ප්‍රදේශවල වායුව සුළු වශයෙන් අහිතකර මට්ටමක් දක්වා ඉහළ යා හැකිය.
+🟩
 
-අද දිනයේ වායුගුණ තත්ත්ව දර්ශකයට අනුව කොළඹ නගරය 108 - 116ත් අතර අගයක් යනු ඇතැයි අපේක්ෂා කෙරේ.
+The National Building Research Organization (NBRO) says that the air quality quality index (SLAQL) can last between 92 to 120 days due to the existing weather conditions.
 
-එමෙන්ම යාපනයේ මෙන්ම පොළොන්නරුවේ එම තත්ත්වය 112- 120ත් අතර අගයක් දක්වා ඉහළ යා හැකිය.
+According to the daily air quality report issued by the Ecological Studies and Services Division, the gas in many parts of the island can increase to a slight negative level.
 
-ඊට අමතරව කුරණෑගල, වව්නියාව, මහනුවර, කෑගල්ල, ගාල්ල, බදුල්ල, ත්‍රිකුණාමලය ඇතුළු නගර රැසකම වායු ගුණ තත්ත්ව දර්ශකය 100ට වැඩි අගයක් ගනු ඇතැයි අපේක්ෂා කෙරේ.
+According to the atmostehy quality index today, the city of Colombo is expected to be 108 to 116.
 
-වායු ගුණ තත්ත්ව දර්ශකය අනුව 0-50 අතර යනු යහපත් මට්ටම වන අතර, එය 51 -100 අතර මධ්‍යස්ථ මට්ටමකි.
+And in Jaffna and Polonnaruwa can increase to 112- 120 years.
 
-කෙසේ නමුත් 101-150 අතර සුළු වශයෙන් අහිතකර වන අතර, 151 - 200 දක්වා අහිතකර මට්ටමකි.
+In addition, the air quality quality index is expected to increase in the air quality index over 100 cities, Kurunegala, Vavuniya, Kandy, Kegalle, Galle, Badulla, Galle.
 
-එමෙන්ම 201- 300ත් අතර ඉතා අහිතකර වන අතර, 301 -500 අනතුරුදායක වේ.
+Between 0-50 is a moderate level between 0-50 according to the air quality index.
+
+However, between 101-150, there is a slight negative between 101-150, an adverse level.
+
+And between 201- 300, 301 -500 is dangerous.
+
+Due to this situation, the organization requests the medical advice on medical advice.
 
 ...
 
 [Data](articles/0d9b2bd6.json)
 
+[Extended Data](ext_articles/0d9b2bd6.ext.json)
+
 ---
 
-### நாட்டு அரிசி இறக்குமதிக்கு விலைமனு கோரல் ஆரம்பம்!
+### Country Rice imports start!
 
 *2024-11-30 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200067) · `ta`
 
-இந்தியாவிலிருந்து 70,000 மெற்றிக் தொன் நாட்டு அரிசியை இறக்குமதி செய்வதற்கு விநியோகத்தர்களிடம் இருந்து விலைமனு கோரப்பட்டு வருவதாக லங்கா சதோச நிறுவனத்தின் தலைவர் சமித பெரேரா தெரிவித்துள்ளார்.
+Sri Lanka to import 70,000 metric tonnes of rice from India. Distributors can apply starting Friday, with imports expected next month.
 
-இதன்படி, அரிசியை இறக்குமதி செய்வது தொடர்பில் நேற்று வெள்ளிக்கிழமை (29) முதல் 7 நாட்களுக்குள் விநியோகத்தர்கள் விண்ணப்பிக்க முடியும் எனவும் அடுத்த மாதம் அரிசியை நாட்டுக்கு இறக்குமதி செய்ய வேண்டும் எனவும் சமித பெரேரா மேலும் குறிப்பிட்டுள்ளார்.
+🟩
+
+Sri Lanka Sathosa Chairman Samitha Perera has said that the prices are being made from distributors to import 70,000 metric tonnes of rice from India.
+
+According to Samitha Perera, the distributors will be able to apply for the importation of rice within 7 days from Friday (29) and the import of rice to the country next month.
 
 ◼️
 
 [Data](articles/9360e02c.json)
+
+[Extended Data](ext_articles/9360e02c.ext.json)
 
 ---
 
@@ -264,37 +382,53 @@ Meanwhile in Colombo, the air quality is forecasted to range between 108 and 116
 
 ---
 
-### கொழும்பில் 40 இலட்சம் ரூபா பெறுமதியான மஞ்சள் தொகை மீட்பு!
+### 40 lakhs of rupees worth of yellow recovery in Colombo
 
 *2024-11-30 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200065) · `ta`
 
-கொழும்பு 15 இல் உள்ள தனியார் களஞ்சியசாலை ஒன்றில் மறைத்து வைக்கப்பட்டிருந்த 765 கிலோ கிராம் மஞ்சள் நுகர்வோர் விவகார அதிகார சபையின் புலனாய்வு அதிகாரிகளால் கைப்பற்றப்பட்டது.
+Colombo raid seizes 765kg yellow consumer goods worth 40 lakhs
 
-நுகர்வோர் விவகார அதிகார சபையின் புலனாய்வு அதிகாரிகளுக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சோதனையில் இந்த தொகை கைப்பற்றப்பட்டுள்ளது.
+🟩
 
-கைப்பற்றப்பட்ட மஞ்சள் தொகையின் பெறுமதி சுமார் 40 இலட்சம் ரூபா என நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+The intelligence officials of the Authority of the Authority of the Yellow Consumer Affairs Authority were seized by 765 kilograms of yellow consumer affairs hidden in a private repository in Colombo 15.
 
-பற்றுச்சீட்டு இல்லாமல், எந்தத் தகவலும் குறிப்பிடப்படாமல் சந்தையில் விற்பனை செய்வதற்கு தயாராக இருந்த மஞ்சள் தொகையே இவ்வாறு கைப்பற்றப்பட்டுள்ளது
+The amount was seized in a raid conducted by the Intelligence Officers of the Consumer Affairs Authority.
+
+The Consumer Affairs Authority said the value of the seized yellow amount was around 40 lakh rupees.
+
+The yellow amount, which was ready to sell in the market without any information, has been seized without any information.
 
 ◼️
 
 [Data](articles/e9e2e331.json)
 
+[Extended Data](ext_articles/e9e2e331.ext.json)
+
 ---
 
-### முல்லைத்தீவில் தீ விபத்து - முதியவர் உயிரிழப்பு!
+### Fire in Mullaitivu
 
 *2024-11-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200061) · `ta`
 
-முல்லைத்தீவு - சிலாவத்துறை பகுதியில் தீ விபத்தில் சிக்கி முதியவர் ஒருவர் உயிரிழந்துள்ளதாக முல்லைத்தீவு பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-உயிரிழந்த முதியவர் தனது மகனின் வீட்டுக்கு அருகிலுள்ள மற்றுமொரு வீட்டில் தனியாக வசித்து வந்தார்.
 
-இந்நிலையில், கடும் மழையினால் ஏற்பட்ட குளிரை எதிர்கொள்ளும் வகையில் வெப்பமூட்டுவதற்காக வீட்டுக்குள் தீ பற்ற வைத்துள்ளார்.
+
+Elderly man dies in Mullaitivu fire. He lived alone near son's house. Set fire to heat home due to heavy rains. Police report confirms death.
+
+🟩
+
+Mullaitivu police said that an elderly man was killed in a fire in the Mullaitivu - Chilawaturai area.
+
+The deceased elderly lived alone in another house near his son's house.
+
+In this case, he set fire to the house to heat the cold caused by heavy rains.
 
 ◼️
 
 [Data](articles/10aeee72.json)
+
+[Extended Data](ext_articles/10aeee72.ext.json)
 
 ---
 
@@ -320,23 +454,33 @@ They have been provided with consular and legal assistance by our High Commissio
 
 ---
 
-### කෝටි 6ක වත්කම් කොල්ලකෑ 09ක් අත්අඩංගුවට
+### 9 arrested for robbing Rs. 6 crores
 
 *2024-11-30 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203889) · `si`
 
-අවි පෙන්වා බියගන්වා රුපියල් කෝටි 06කට අධික වටිනාකමකින් යුත් නිල් මැණික්, රන් භාණ්ඩ සහ මුදල් කොල්ලකෑමකට සම්බන්ධ පුද්ගලයන් 9 දෙනෙකු ඊයේ (29) අත්අඩංගුවට ගත්බව පොලීසිය පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-නොවැම්බර් මස 10වනදා ලග්ගල පොලිස් වසමේදී සිදුවූ කොල්ලකෑමක් සම්බන්ධයෙන් මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
 
-මාවතගම හා පොල්පිතිගම පොලිස් වසම්වලදී මෙම අපරාධයට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
 
-ඔවුන් විසින් කොල්ලකන ලද රුපියල් කෝටියකට අධික මුදලක්, රන් පවුම් 07ක් සහ අපරාධය සඳහා භාවිතා කළ සෙල්ලම් පිස්තෝල 02ක්, පිහියක් සහ වෑන් රථයක්ද පොලීසිය සිය භාරයට ගෙන ඇත.
+"9 arrested for Rs. 6 crore heist. Robbery occurred Nov 10 in Laggala. Suspects from Mawathagama & Polpithigama. Ages 38-49 from various areas."
 
-අත්අඩංගුවට ගත් සැකකරුවන් අතර චීවරධාරියෙක්ද සිටින අතර, ඔවුන් අවුරුදු 38ත් 49ත් අතර වයස්වල පසුවන වත්තේගම, සපුගස්කන්ද, පොල්පිතිගම, කුරුණෑගල, රත්නපුර හා විල්ගමුව ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+🟩
+
+Nine persons were arrested yesterday (29) and nine persons involved in a robbery of more than Rs.
+
+The arrest was made regarding a robbery in the Laggala Police Division on November 10.
+
+The suspects have been arrested in Mawathagama and Polpithigama Police Divisions.
+
+The police also seized more than Rs.
+
+Among the arrested suspects is residents of Wattegama, Sapugaskanda, Polpithigama, Kurunegala, Kurunegala and Wilgamuwa areas aged 38 to 49.
 
 ◼️
 
 [Data](articles/5ab5c664.json)
+
+[Extended Data](ext_articles/5ab5c664.ext.json)
 
 ---
 
@@ -365,6 +509,28 @@ The body has been placed in the funeral room of the Manjolai Hospital for autops
 [Data](articles/a1df1362.json)
 
 [Extended Data](ext_articles/a1df1362.ext.json)
+
+---
+
+### Last date of receiving income reports
+
+*2024-11-30 10:43:32* · [`adalk`](https://www.ada.lk/breaking_news/ආදායම්-වාර්තා-ඉදිරිපත්-කිරිමේ-අවසන්-දිනය-අද/11-413361) · `si`
+
+Income tax return deadline: Today (30). Inland Revenue Department offices and Bank of Ceylon branches open normally.
+
+🟩
+
+2023/2024 The closing date for the assessment year of income tax returns is today (30).
+
+The Department of Inland Revenue Head Office, the Head Office of the Department of Inland Revenue, is open today as a normal working day in the road network.
+
+The Bank of Ceylon Branch at the Head Office of the Inland Revenue Department and Bank of Ceylon Branch at the Department of Inland Revenue Branch will also be open on today.
+
+◼️
+
+[Data](articles/7d01d3a1.json)
+
+[Extended Data](ext_articles/7d01d3a1.ext.json)
 
 ---
 
@@ -2195,103 +2361,5 @@ Showers or thundershowers will occur at several places in the evening or night.
 [Data](articles/ef639584.json)
 
 [Extended Data](ext_articles/ef639584.ext.json)
-
----
-
-### யாழ் தமிழ் தேசியவாதக் கோட்டைக்குள் பலமாக அடித்த “அநுர அலை”:  ஆறு யாழ்ப்பாண ஆசனங்களில் மூன்றில் தேசிய மக்கள் சக்தி வெற்றி.
-
-*2024-11-29 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85145) · `en`
-
-தேசிய மக்கள் சக்தி 2024 நவம்பர் 14  பாராளுமன்ற தேர்தலில் வரலாற்று முக்கியத்துவம் வாய்ந்த ஒரு வெற்றியைப் பதிவு செய்திருக்கிறது. ஜனதா விமுக்தி பெரமுனவை (ஜே.வி.பி.) பிரதான அங்கத்துவக் கட்சியாகக்கொண்டு 21 அரசியல் கட்சிகள், குழுக்கள் மற்றும் தொழிற்சங்கங்களை உளாளடக்கிய ஒரு கூட்டமைப்பே தேசிய மக்கள் சக்தியாகும். அது 6, 863,186 (61.6 சதவீதம் ) வாக்குகளைப் பெற்று 225 ஆசனங்களைக் கொண்ட இலங்கை பாராளுமன்றத்தில் 159 ஆசனங்களைக் கைப்பறாறியிருக்கிறது. இவற்றில் 141 ஆசனங்கள் நேரடியாக மாவட்ட அடிப்படையில் பெறப்பட்டவையாக இருக்கின்ற அதேவேளை  18 ஆசனங்கள் தேசியப்பட்டியல் மூலம் கிடைத்தவை.
-
-...
-
-[Data](articles/f21e5659.json)
-
-[Extended Data](ext_articles/f21e5659.ext.json)
-
----
-
-### The Plantation Ministry has spent Rs.
-
-*2024-11-29 17:48:22* · [`adalk`](https://www.ada.lk/breaking_news/වැවිලි--අමාත්‍යාංශයේ-විනාඩි-එක-හමාරක-වීඩියෝ-වෙළද-දැන්වීමට-රුපියල්-ලක්ෂ-1740ක්-වැයකරලා/11-413359) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Plantation Ministry spent Rs. 2.5 lakhs over 2 years. Minister Samantha Vidyaratne criticized lack of funds from Uva Provincial Council.
-
-🟩
-
-The Vavuniya and Community Infrastructure Affairs has been found in one division of the Ministry for two and a half lakhs for two years.
-
-The minister, who was organized to open Uva Parani exhibition organized by the Ministry of Industries and the Ministry of Industries, said:
-
-"I was assigned the work of the ministry, the ministry had not yet been broadcast for a single division of the Ministry for two years.
-
-The Ministry of Industries Council of the Uva Provincial Council has not received the cost of the cost of Rs.. We have to make this country to build this country in one day, we can't make the country in one day, but we're making the country in one day, "said Minister Samantha Vidyaratne.
-
-◼️
-
-[Data](articles/f9aa4e84.json)
-
-[Extended Data](ext_articles/f9aa4e84.ext.json)
-
----
-
-### Paradise - Film Review
-
-*2024-11-29 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200035) · `ta`
-
-Here's a 200-character summary of the film review:
-
-
-
-"Paradise" film review: Prison drama explores jail life, riots, police conspiracies & human rights violations. Strong performances by R.J. Balaji and Selvaraghavan. Director's gritty portrayal of prison realities.
-
-🟩
-
-Actors: r. J.. Balaji, Selvaraghavan, Sania Iyappan, Karunas, Nati alias Natraj, Balaji Sakthivel, Shafrab Udin, Hakeem Shah and many others
-
-During the release of the film's Siddharth Viswanath, the expectation of a different storyline came to the public spectators that "seventy percent of Indian jails are the prisoners who have not been punished by the High Court.
-
-Did the movie 'Parakavasal' complete this expectation?Or not?We will continue to see.
-
-Parthiban is running a street restaurant with his mother. J.. Balaji). He has a top position in the public sector. He is a guide and consultant person for this family.
-
-Parthiban is accused of murdering a top official at this moment. There he wants to meet the brutal murder convict Chikamani (Selvaraghavan). Most of the prisoners in the prison are under his control and put the prison under his domination.
-
-...
-
-[Data](articles/e435f01d.json)
-
-[Extended Data](ext_articles/e435f01d.ext.json)
-
----
-
-### Minister Vijitha Herath appears in Colombo High Court
-
-*2024-11-29 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200020) · `ta`
-
-Minister Vijitha Herath testifies in Colombo High Court regarding bribery case against former Bribery Commission leader Chandravasa Padiraja. Case adjourned to Feb 5.
-
-🟩
-
-Minister Vijitha Herath appeared before the Colombo High Court today (29) to testify the case filed by the Bribery Commission.
-
-The Bribery Commission has filed a lawsuit against its former leader Chandravasa Padiraja, accusing the government of handing over the Lotter promotion to many private companies, rather than the pricing of the Prices of the Development Lotteri Council during the last good government.
-
-Minister Vijitha Herath, who had lodged a complaint with the case, was ordered to appear before the court today.
-
-The Colombo High Court judge, who has considering the submissions, has adjourned the hearing of the RSS Sabhawa witness to February 5.
-
-It is also worth noting that Minister Vijitha Heram has also been ordered to appear in court that day.
-
-◼️
-
-[Data](articles/c38f07a6.json)
-
-[Extended Data](ext_articles/c38f07a6.ext.json)
 
 ---

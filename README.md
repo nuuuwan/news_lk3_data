@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 16:14:22**
+As of **2024-11-30 15:41:44**
 
 ## Newspaper Stats
 
-*Scraped **57,731** Articles*
+*Scraped **57,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,463
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,446
+adalk | 5,445
 adaderanalk | 6,995
 tamilmirrorlk | 8,206
 virakesarilk | 9,429
@@ -26,41 +26,31 @@ adaderanasinhalalk | 9,966
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,723 (100.0%) of 57,731 articles have been extended.
+57,719 (100.0%) of 57,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
 
-### Industrialists in Swine flu
+### සූකර උණ රෝගයෙන් කර්මාන්තකරුවන් දැඩි අසීරුතාවට
 
 *2024-11-30 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203894) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+අප්‍රිකානු සූකර උණ වෛරස් රෝගය ශීඝ්‍රයෙන් ව්‍යාප්ත වීම හේතුවෙන් කොස්ගම සහ පාදුක්ක පශු වෛද්‍ය නිලධාරී බල ප්‍රදේශයේ සූකර කර්මාන්තය සම්පූර්ණයෙන්ම විනාශවීමේ අවදානමක් උද්ගතව තිබේ.
 
+සූකර ගොවිපොළ හිමියන් පෙන්වා දෙන්නේ, එම පසුබිම යටතේ තමන් දැඩි අසරණ තත්ත්වයට පත්ව ඇති බවය.
 
+කොස්ගම සහ පාදුක්ක පශු වෛද්‍ය නිලධාරී බල ප්‍රදේශය තුළ පමණක් ලියාපදිංචි සූකර ගොවිපොළ 176ක සතුන් 25,000ක් පමණ සිටි නමුත් මේ වනවිට එම සංඛ්‍යාව 3,000ක් පමණ දක්වා පහළ ගොස් තිබේ.
 
-"African swine flu spreads rapidly in Sri Lanka due to unregistered farms. About 25,000 people work in the industry, mostly in Padukka and Kosgama areas. In 2019, a similar virus affected pig farming, leading to the current outbreak."
+ඒ හේතුවෙන් එම කර්මාන්තය හා සම්බන්ධ සෘජු සහ වක්‍ර රැකියාවල නිරත වූ  50,000කට ආසන්න පිරිසක් පත්ව ඇත්තේ දැඩි අසීරුතාවකට පත්ව තිබේ.
 
-🟩
+2019 වර්ෂයේදී ඌරන්ට මෙවැනිම වෛරස රෝගයකින් බලපෑම් එල්ල වූ අතර, එම අවස්ථාවේදීද මෙරට සූකර කර්මාන්තයට අයහපත් කාලවකවානුවක් උදාවුණි.
 
-African swine fluorescent spreads rapidly expanded due to the rapid spread of the fluorescent of the veterinary officers in the Padukka Veterinary Surveys.
-
-Sweda farm owners point out that they have been deeply helpless under the backdrop.
-
-About 25,000 people in the Veterinary Officer of the Veterinary Officer of the Padukka, Kosgama and Padukka, were only 176 registered Savkara farm.
-
-As a result, nearly 50,000 people have been severely engaged in direct and indirect jobs related to the industry.
-
-In 2019, pigs were influenced by a similar virus disease, and the Sri Lankan swaming industry was a bad period.
-
-However, veteran officials point out that this situation has contributed to the rapid growth of the African swine flu.
+කෙසේ වෙතත්, පශුවෛද්‍ය නිලධාරීන් පෙන්වා දෙන්නේ, අප්‍රිකානු සූකර උණ රෝගය සඳහා මේ දක්වා එන්නතක් නිෂ්පාදනය කර නොමැතිවීම මෙම තත්ත්වය ශීඝ්‍රයෙන් වර්ධනයට වීමට හේතු වී ඇති බවයි.
 
 ◼️
 
 [Data](articles/90784aeb.json)
-
-[Extended Data](ext_articles/90784aeb.ext.json)
 
 ---
 
@@ -84,63 +74,43 @@ However, around 20 houses in Anamaduwa and Puttalam remain inundated.
 
 [Data](articles/c71f4ced.json)
 
-[Extended Data](ext_articles/c71f4ced.ext.json)
-
 ---
 
-### 7 cannabis gardens surrounding in Lunugamvehera;08 arrested with 2 domestic guns
+### லுணுகம்வெஹெரையில் 7 கஞ்சா தோட்டங்கள் சுற்றிவளைப்பு ; 2 உள்நாட்டுத் துப்பாக்கிகளுடன் 08 பேர் கைது!
 
 *2024-11-30 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200077) · `ta`
 
-Here's a summary in 200 characters:
+ஹம்பாந்தோட்டை, லுணுகம்வெஹெர காட்டுப் பகுதியில் 08 1/2 ஏக்கர் நிலப்பரப்பில் 07 கஞ்சா தோட்டங்கள் பொலிஸாரால் சுற்றிவளைக்கப்பட்டதோடு, உள்நாட்டுத் துப்பாக்கிகளுடன் 08 சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
 
+புத்தல பொலிஸ் விசேட அதிரடிப்படை முகாமின் அதிகாரிகள் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர்கள் நேற்று வெள்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளனர்.
 
-
-8 cannabis gardens seized, 8 arrested in Lunugamvehera. Police operation led by Budhala STF. Suspects aged 29-65 from Dhanamalwewa & Surveva.
-
-🟩
-
-07 cannabis gardens have been surrounded by police on 08 1/2 acres in the Lunugamvevehera forest area in Hambantota and 08 suspects have been arrested by police.
-
-They were arrested yesterday (29) following a roundup of officials of the Budhala Police Special Task Force Base.
-
-The suspects were between the ages of 29 - 65 from Dhanamalwewa and Surveva areas.
+கைது செய்யப்பட்ட சந்தேக நபர்கள் தனமல்வெவ, சூரியவெவ பிரதேசங்களை சேர்ந்த 29 - 65 வயதுக்குட்பட்டவர்கள் ஆவர்.
 
 ◼️
 
 [Data](articles/779e7ba4.json)
 
-[Extended Data](ext_articles/779e7ba4.ext.json)
-
 ---
 
-### Suggest STF name, new trick
+### STF නම කැත කරන්න පාතාලයෙන් අලුත් උපායක්
 
 *2024-11-30 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203893) · `si`
 
-Sum:0
+මත්ද්‍රව්‍ය හා පාතාලය මැඬලීම සඳහා සුවිශේෂී කාර්යභාරයක් සිදුකරන පොලිස් විශේෂ කාර්ය බලකායේ ක්‍රියාකාරී නිලධාරීන් ඉලක්ක කර පාතාල කල්ලි සාමාජිකයන් සමාජ මාධ්‍ය මෙහෙයුමක් ආරම්භ කර තිබෙන බවට මේ වනවිට කරුණු  අනාවරණ වී තිබේ.
 
-🟩
+එම අනාවරණය කරගත් කරුණු අනුව හෙළිවී ඇත්තේ, ක්‍රියාකාරී නිලධාරීන්ට සමාජ මාධ්‍ය හරහා අසත්‍ය චෝදනා කර ඔවුන්ව එම තනතුරුවලින් ඉවත් කිරීමට අවශ්‍ය මතවාදී බලපෑම ඇතිකිරීම බවය.
 
-It has been revealed that the members of the Special Task Force (STF) have launched a social media campaign targeting the active role in the drug and underworld.
+මෙරට තුළ මත්ද්‍රව්‍ය හා පාතාලය මැඬලීමට සුවිශේෂී කාර්යභාරයක් සිදුකරන පොලිස් විශේෂ කාර්ය බලකාය, පසුගිය මාස හතරක කාලය තුළ පමණක් මත්ද්‍රව්‍ය තොගයක් සිය භාරයට ගැනීමට සමත් විය.
 
-According to these detected points, it is revealed that the active officials have accused of ideological influence through social media.
+හෙරොයින් කි.ග්‍රෑ. 350ක්, අයිස් කි.ග්‍රෑ. 140ක්, කේරල ගංජා කි.ග්‍රෑ. 6,860ක් ඇතුළු විවිධ විෂ මත්ද්‍රව්‍ය ඒ අතර විය.
 
-Special Task Force (STF), police special task for the past four months, the police special task for the past four months.
+පොලිස් විශේෂ කාර්ය බලකාය සිදුකළ ආසන්තම වැටලීම වූයේ මීට දින කිහිපයකට පෙර උණාකූරුවේ ශාන්ත නැමැත්තාට අයත් මත්ද්‍රව්‍ය තොගයක් මීගොඩ ප්‍රදේශයේදී සිය භාරයට ගැනීමය.
 
-Heroin kg. 350, icekg. 140, Korala cannabis. Among them including 6,860, various poisons were among them.
-
-The suspect's raid was carried out by the STF in the warfare a few days ago.
-
-They have also been arrested and underworld gang members.
-
-Due to this, the son of Malithagama Chamaratne, who is in custody, Deathagoda Punhaya, who is in custody in Beleroos, has launched a socio media operation.Security forces have revealed that the security forces have been revealed.
+එමෙන්ම පාතාල කල්ලි සාමාජිකයන් රැසක්ද ඔවුන් අත්අඩංගුවට ගෙන ඇති අතර, පාතාල මර්දන මෙහෙයුම් ද අඛණ්ඩව සිදුකරනු ලබයි.
 
 ...
 
 [Data](articles/6621cd7b.json)
-
-[Extended Data](ext_articles/6621cd7b.ext.json)
 
 ---
 
@@ -395,22 +365,6 @@ The body has been placed in the funeral room of the Manjolai Hospital for autops
 [Data](articles/a1df1362.json)
 
 [Extended Data](ext_articles/a1df1362.ext.json)
-
----
-
-### ආදායම් වාර්තා ඉදිරිපත් කිරිමේ අවසන් දිනය අද
-
-*2024-11-30 10:43:32* · [`adalk`](https://www.ada.lk/breaking_news/ආදායම්-වාර්තා-ඉදිරිපත්-කිරිමේ-අවසන්-දිනය-අද/11-413361) · `si`
-
-2023/2024 තක්සේරු වර්ෂය සඳහා ආදායම් බදු වාර්තා ඉදිරිපත් කිරීමේ අවසන් දිනය අද (30) බව දේශීය ආදායම් දෙපාර්තමේන්තුව කියයි.
-
-මෙම වාර්තා මාර්ග ගත ක්‍රමයට පමණක් ලබා ගන්නා බවත් ඒ සඳහා සහාය විමට දේශීය ආදායම් දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලය, ප්‍රාදේශීය හා නගර කාර්යාල සාමාන්‍ය රාජකාරී දිනයක් මෙන් අද දිනයේ විවෘතව පවතින බව ද එම දෙපාර්තමේන්තුව පවසයි.
-
-ආදායම් බදු ගෙවීම් සඳහා දේශීය ආදායම් දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලයේ හා ජාවත්ත කාර්යාල පරිශ්‍රයේ පිහිටා ඇති ලංකා බැංකු ශාඛාවද අද දිනයේදි  විවෘතව තබන බව දේශීය ආදායම් දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
-
-◼️
-
-[Data](articles/7d01d3a1.json)
 
 ---
 
@@ -2313,5 +2267,31 @@ Parthiban is accused of murdering a top official at this moment. There he wants 
 [Data](articles/e435f01d.json)
 
 [Extended Data](ext_articles/e435f01d.ext.json)
+
+---
+
+### Minister Vijitha Herath appears in Colombo High Court
+
+*2024-11-29 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200020) · `ta`
+
+Minister Vijitha Herath testifies in Colombo High Court regarding bribery case against former Bribery Commission leader Chandravasa Padiraja. Case adjourned to Feb 5.
+
+🟩
+
+Minister Vijitha Herath appeared before the Colombo High Court today (29) to testify the case filed by the Bribery Commission.
+
+The Bribery Commission has filed a lawsuit against its former leader Chandravasa Padiraja, accusing the government of handing over the Lotter promotion to many private companies, rather than the pricing of the Prices of the Development Lotteri Council during the last good government.
+
+Minister Vijitha Herath, who had lodged a complaint with the case, was ordered to appear before the court today.
+
+The Colombo High Court judge, who has considering the submissions, has adjourned the hearing of the RSS Sabhawa witness to February 5.
+
+It is also worth noting that Minister Vijitha Heram has also been ordered to appear in court that day.
+
+◼️
+
+[Data](articles/c38f07a6.json)
+
+[Extended Data](ext_articles/c38f07a6.ext.json)
 
 ---

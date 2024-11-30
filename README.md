@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 05:50:36**
+As of **2024-11-30 07:30:31**
 
 ## Newspaper Stats
 
-*Scraped **57,691** Articles*
+*Scraped **57,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,985
-tamilmirrorlk | 8,199
+tamilmirrorlk | 8,200
 virakesarilk | 9,424
-adaderanasinhalalk | 9,956
+adaderanasinhalalk | 9,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,671 (100.0%) of 57,691 articles have been extended.
+57,673 (100.0%) of 57,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### ෆෙන්ගල් සුළි කුණාටුවේ අලුත්ම තත්ත්වය
+
+*2024-11-30 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203884) · `si`
+
+නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පවතින ෆෙන්ගල් (FENGAL) සුළි කුණාටුව ඊයේ (29) ප.ව. 11.30 පමණ වනවිට ත්‍රිකුණාමලයට කි.මී. 360ක් පමණ උතුරු දෙසින් සහ කන්කසන්තුරය සිට කි.මී. 280ක් පමණ ඊසාන දෙසින් පිහිටා තිබූ බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එය බස්නාහිරට බරව වයඹ දෙසට ගමන් කරමින් අද (30) සවස් කාලයේදී උතුරු තමිල්නාඩු-පුදුචෙරි වෙරළ වෙත ලඟා වනු ඇත.
+
+ඒ අනුව දිවයිනේ කාලගුණයට මෙම පද්ධතිය මගින් වන බලපෑම ක්‍රමයෙන් අඩු වෙමින් පවතින බව එම දෙපාර්තමේන්තුව අද පෙරවරුවේ පැවැසීය.
+
+කෙසේ නමුත් උතුරු පළාතේත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් අහස වලාකුළුන් බරව පවතින අතර, විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇතිවිය හැකිය.
+
+විශේෂයෙන් උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩිතරමක තද වැසි ඇති වේ.
+
+සබරගමුව පළාතේත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන අතර බස්නාහිර, වයඹ සහ උතුරු-මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවේ.
+
+සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+...
+
+[Data](articles/d32a1538.json)
+
+---
 
 ### Global negotiation outcomes on climate finance and adaptation: The road ahead after COP29
 
@@ -76,6 +100,8 @@ In 1984, in an interview with Anita Pratap, Velupillai Prabhakaran, leader of th
 
 [Data](articles/36975e90.json)
 
+[Extended Data](ext_articles/36975e90.ext.json)
+
 ---
 
 ### Pathfinder Foundation hosts 5th Dialogue with Diplomats on “Great Power Competition in Indo-Pacific”
@@ -89,6 +115,8 @@ Lead Presenter General Sir John Kotelawala Defence University Centre for Strateg
 ...
 
 [Data](articles/fce18000.json)
+
+[Extended Data](ext_articles/fce18000.ext.json)
 
 ---
 
@@ -419,6 +447,24 @@ In addition, 204 houses have been partially damaged due to inclementary conditio
 [Data](articles/e5cf913e.json)
 
 [Extended Data](ext_articles/e5cf913e.ext.json)
+
+---
+
+### இல்லங்களுக்காக 35 எம்.பிக்கள் விண்ணப்பம்
+
+*2024-11-30 02:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இல்லங்களுக்காக-35-எம்-பிக்கள்-விண்ணப்பம்/175-348003) · `ta`
+
+பாராளுமன்ற உறுப்பினர்களுக்கான உத்தியோகபூர்வ இல்லங்களுக்காக 35 விண்ணப்பங்கள் கிடைத்துள்ளன என்று   பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்துள்ளார்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர்களால் மீள ஒப்படைக்கப்பட்ட 25 முதல் 30 இல்லங்கள் தற்போது புனரமைக்கப்பட்டு வருகின்றன.
+
+மொத்தமுள்ள 108 இல்லங்களில் ஆளுங்கட்சி உறுப்பினர்களுக்கு 80 இல்லங்களும், எதிர்க்கட்சி உறுப்பினர்களுக்கு 28 இல்லங்களும் ஒதுக்கப்பட்டுள்ளன.
+
+பாராளுமன்றத்திலிருந்து 40 கிலோ மீற்றர்களுக்கு அப்பால் பதிவிடங்களைக் கொண்டுள்ள பாராளுமன்ற உறுப்பினர்கள், உத்தியோகபூர்வ இல்லங்களுக்காக விண்ணப்பிக்க முடியும் என்றார். (a)
+
+◼️
+
+[Data](articles/815d79b1.json)
 
 ---
 
@@ -2301,63 +2347,5 @@ In addition, the Irrigation Department has stated in its announcement that motor
 [Data](articles/5a4dc9ac.json)
 
 [Extended Data](ext_articles/5a4dc9ac.ext.json)
-
----
-
-### Visit 1,776,889 foreign tourists from January to November!
-
-*2024-11-29 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199997) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-1,776,889 foreign tourists visited Sri Lanka Jan-Nov 2024. Notable increases from India (322,973), UK (146,670), Russia (137,599). Tourism rebounding after 2018 decline. Government aims for 40m visitors in 2025, projecting $8b revenue.
-
-🟩
-
-From January 2024 to November 26, 1,776,889 foreign tourists visited Sri Lanka. The Tourism Development Authority has announced that there is a large number of tourists from India, Britain and Russia.
-
-The number of foreign tourists has increased in 2024 compared to 2023. Tourist arrivals have risen every month.
-
-From January 2024 to November 26, only 1,776,889 foreign tourists visited.
-
-During this period, a large number of tourists from India, Britain and Russia visited Sri Lanka.
-
-There are 322,973 tourists from India, 146,670 tourists from Britain, 137,599 from Russia, 108, 788 from Germany and 105,574 tourists from China.
-
-The government has taken care of 40 million tourists in 2025. The government plans to raise $ 8 billion in revenue next year through tourism development.
-
-Sri Lanka's tourism industry has recently been uniform. In 2018, 2.3 million tourists visited Sri Lanka.
-
-...
-
-[Data](articles/4116161f.json)
-
-[Extended Data](ext_articles/4116161f.ext.json)
-
----
-
-### Two arrested with 301 cannabis plants and 2 domestic guns
-
-*2024-11-29 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199992) · `ta`
-
-Two arrests made: 47 & 68 yr olds found with 301 cannabis plants & 2 domestic guns in Vathegama & Ellanaagama areas.
-
-🟩
-
-Two persons have been arrested with ganja and domestic guns in the area belonging to the Vathegama and Ellanaagama police division.
-
-They were arrested on Thursday (28) during two rounds of operations carried out on the basis of information received by the Etimalai police station.
-
-The suspects are 47 and 68 years old from Kovibala and Vilaya.
-
-Police have seized 301 cannabis plants and 2 domestic guns from the suspects.
-
-◼️
-
-[Data](articles/1e2c1499.json)
-
-[Extended Data](ext_articles/1e2c1499.ext.json)
 
 ---

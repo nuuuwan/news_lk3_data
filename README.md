@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 15:26:09**
+As of **2024-11-30 15:41:44**
 
 ## Newspaper Stats
 
-*Scraped **57,724** Articles*
+*Scraped **57,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,445
-adaderanalk | 6,994
+adaderanalk | 6,995
 tamilmirrorlk | 8,206
 virakesarilk | 9,429
-adaderanasinhalalk | 9,961
+adaderanasinhalalk | 9,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,719 (100.0%) of 57,724 articles have been extended.
+57,719 (100.0%) of 57,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### සූකර උණ රෝගයෙන් කර්මාන්තකරුවන් දැඩි අසීරුතාවට
+
+*2024-11-30 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203894) · `si`
+
+අප්‍රිකානු සූකර උණ වෛරස් රෝගය ශීඝ්‍රයෙන් ව්‍යාප්ත වීම හේතුවෙන් කොස්ගම සහ පාදුක්ක පශු වෛද්‍ය නිලධාරී බල ප්‍රදේශයේ සූකර කර්මාන්තය සම්පූර්ණයෙන්ම විනාශවීමේ අවදානමක් උද්ගතව තිබේ.
+
+සූකර ගොවිපොළ හිමියන් පෙන්වා දෙන්නේ, එම පසුබිම යටතේ තමන් දැඩි අසරණ තත්ත්වයට පත්ව ඇති බවය.
+
+කොස්ගම සහ පාදුක්ක පශු වෛද්‍ය නිලධාරී බල ප්‍රදේශය තුළ පමණක් ලියාපදිංචි සූකර ගොවිපොළ 176ක සතුන් 25,000ක් පමණ සිටි නමුත් මේ වනවිට එම සංඛ්‍යාව 3,000ක් පමණ දක්වා පහළ ගොස් තිබේ.
+
+ඒ හේතුවෙන් එම කර්මාන්තය හා සම්බන්ධ සෘජු සහ වක්‍ර රැකියාවල නිරත වූ  50,000කට ආසන්න පිරිසක් පත්ව ඇත්තේ දැඩි අසීරුතාවකට පත්ව තිබේ.
+
+2019 වර්ෂයේදී ඌරන්ට මෙවැනිම වෛරස රෝගයකින් බලපෑම් එල්ල වූ අතර, එම අවස්ථාවේදීද මෙරට සූකර කර්මාන්තයට අයහපත් කාලවකවානුවක් උදාවුණි.
+
+කෙසේ වෙතත්, පශුවෛද්‍ය නිලධාරීන් පෙන්වා දෙන්නේ, අප්‍රිකානු සූකර උණ රෝගය සඳහා මේ දක්වා එන්නතක් නිෂ්පාදනය කර නොමැතිවීම මෙම තත්ත්වය ශීඝ්‍රයෙන් වර්ධනයට වීමට හේතු වී ඇති බවයි.
+
+◼️
+
+[Data](articles/90784aeb.json)
+
+---
+
+### Up-country train services face extended disruption, to last several more days
+
+*2024-11-30 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103886/up-country-train-services-face-extended-disruption-to-last-several-more-days) · `en`
+
+Efforts to remove earth mounds and rocks fallen to the railway tracks in the Uduwara area of Hali-Ela due to heavy rain, are still ongoing.
+
+Accordingly, the railway authorities confirmed that train services between Badulla and Ella will remain suspended further for several days.
+
+Additionally, one lane of the Passara-Lunugala road, which was fully blocked due to a landslide in the 16th mile post area of Passara, has been reopened for traffic between 06.00 a.m. and 06.00 p.m. today.
+
+Furthermore, the sluice gates of Deduru Oya, Per Aru, Ulhitiya-Rathkinda, Polgolla, Nachchaduwa, Rajanganaya, Kala Wewa, and Weheragala reservoirs remain open following continued heavy rainfall.
+
+Meanwhile, the Colombo-Batticaloa main road, which had been closed for several days due to the overflowing Mahaweli River, was reopened for light vehicles last afternoon (29).
+
+However, around 20 houses in Anamaduwa and Puttalam remain inundated.
+
+◼️
+
+[Data](articles/c71f4ced.json)
+
+---
 
 ### லுணுகம்வெஹெரையில் 7 கஞ்சா தோட்டங்கள் சுற்றிவளைப்பு ; 2 உள்நாட்டுத் துப்பாக்கிகளுடன் 08 பேர் கைது!
 
@@ -45,6 +89,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/779e7ba4.json)
+
+---
+
+### STF නම කැත කරන්න පාතාලයෙන් අලුත් උපායක්
+
+*2024-11-30 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203893) · `si`
+
+මත්ද්‍රව්‍ය හා පාතාලය මැඬලීම සඳහා සුවිශේෂී කාර්යභාරයක් සිදුකරන පොලිස් විශේෂ කාර්ය බලකායේ ක්‍රියාකාරී නිලධාරීන් ඉලක්ක කර පාතාල කල්ලි සාමාජිකයන් සමාජ මාධ්‍ය මෙහෙයුමක් ආරම්භ කර තිබෙන බවට මේ වනවිට කරුණු  අනාවරණ වී තිබේ.
+
+එම අනාවරණය කරගත් කරුණු අනුව හෙළිවී ඇත්තේ, ක්‍රියාකාරී නිලධාරීන්ට සමාජ මාධ්‍ය හරහා අසත්‍ය චෝදනා කර ඔවුන්ව එම තනතුරුවලින් ඉවත් කිරීමට අවශ්‍ය මතවාදී බලපෑම ඇතිකිරීම බවය.
+
+මෙරට තුළ මත්ද්‍රව්‍ය හා පාතාලය මැඬලීමට සුවිශේෂී කාර්යභාරයක් සිදුකරන පොලිස් විශේෂ කාර්ය බලකාය, පසුගිය මාස හතරක කාලය තුළ පමණක් මත්ද්‍රව්‍ය තොගයක් සිය භාරයට ගැනීමට සමත් විය.
+
+හෙරොයින් කි.ග්‍රෑ. 350ක්, අයිස් කි.ග්‍රෑ. 140ක්, කේරල ගංජා කි.ග්‍රෑ. 6,860ක් ඇතුළු විවිධ විෂ මත්ද්‍රව්‍ය ඒ අතර විය.
+
+පොලිස් විශේෂ කාර්ය බලකාය සිදුකළ ආසන්තම වැටලීම වූයේ මීට දින කිහිපයකට පෙර උණාකූරුවේ ශාන්ත නැමැත්තාට අයත් මත්ද්‍රව්‍ය තොගයක් මීගොඩ ප්‍රදේශයේදී සිය භාරයට ගැනීමය.
+
+එමෙන්ම පාතාල කල්ලි සාමාජිකයන් රැසක්ද ඔවුන් අත්අඩංගුවට ගෙන ඇති අතර, පාතාල මර්දන මෙහෙයුම් ද අඛණ්ඩව සිදුකරනු ලබයි.
+
+...
+
+[Data](articles/6621cd7b.json)
 
 ---
 
@@ -72,6 +138,28 @@ These persons were arrested in cases registered at Chengamanadu Police Station o
 
 ---
 
+### බදුල්ල - ඇල්ල දුම්රිය ධාවනය තවත් ප්‍රමාද වන ලකුණු
+
+*2024-11-30 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203891) · `si`
+
+අධික වර්ෂාව හේතුවෙන් හාලිඇළ, උඩුවර ප්‍රදේශයට වැටී ඇත් පස් හා ගල් ඉවත්කිරීම අදත් (30) සිදුවිය.
+
+ඒ හේතුවෙන් දුම්රිය බලධාරීන් පවසන්නේ බදුල්ල සහ ඇල්ල අතර දුම්රිය ධාවනය තව දින කිහිපයකට ප්‍රමාද වනු ඇති බවය.
+
+මේ අතර පස්සර 16 කණුව ප්‍රදේශයේ සිදුවූ නායයෑමකින් ගමනාගමන කටයුතු සම්පූර්ණයෙන් අවහිර වූ පස්සර - ලුණුගල මාර්ගයේ එක් මංතීරුවක් අද උදෑසන 6 සිට පස්වරු 6 දක්වා විවෘත තැබේ.
+
+එමෙන්ම මහවැලි ගඟ පිටාරගැලීම නිසා දින ගණනාවක් වසා තිබුණු කොළඹ - මඩකලපුව ප්‍රධාන මාර්ගය සැහැල්ලු රථ වාහන ධාවනය සඳහා ඊයේ (29) පස්වරුවේ සිට විවෘත කෙරුණි.
+
+කෙසේ නමුත් ඇදහැලුණ අධික වර්ෂාව හේතුවෙන් දැදුරුඔය, පේරාරු, උල්හිටිය රත්කිඳ, පොල්ගොල්ල, නාච්චදූව, රාජංගනය, කලාවැව සහ වෙහෙරගල ආදි ජලාශවල වාන් දොරටු තවමත් විවෘතව ඇත.
+
+මේ අතර පුත්තලම, ආනමඩුව ප්‍රදේශයේ නිවාස 20ක් පමණ තවමත් ජලයෙන් යටව පවතියි.
+
+◼️
+
+[Data](articles/d0fc3c20.json)
+
+---
+
 ### மொரட்டுவையில் ஹெரோயினுடன் ஒருவர் கைது !
 
 *2024-11-30 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200070) · `ta`
@@ -87,6 +175,32 @@ These persons were arrested in cases registered at Chengamanadu Police Station o
 ◼️
 
 [Data](articles/f698d072.json)
+
+---
+
+### අද නගර රැසක වායුගුණයේ සුළු අහිතකර තත්ත්වයක්
+
+*2024-11-30 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203890) · `si`
+
+පවතින කාලගුණික තත්ත්වය හා උතුරු පෙදෙසින් පැමිණෙන දේශසීමා ව්‍යාකූල තත්ත්වය හේතුවෙන් අද (30) දිනය තුළ වායු ගුණ තත්ත්ව දර්ශකය (SLAQl) 92 - 120ත් අතර අගයක දිනය පුරාම පැවතිය හැකි බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+
+එම සංවිධානයේ පාරිසරික අධ්‍යන හා සේවා අංශය නිකුත්කළ දෛනික වායු ගුණ තත්ත්ව වාර්තාව අනුව දිවයිනේ බොහෝ ප්‍රදේශවල වායුව සුළු වශයෙන් අහිතකර මට්ටමක් දක්වා ඉහළ යා හැකිය.
+
+අද දිනයේ වායුගුණ තත්ත්ව දර්ශකයට අනුව කොළඹ නගරය 108 - 116ත් අතර අගයක් යනු ඇතැයි අපේක්ෂා කෙරේ.
+
+එමෙන්ම යාපනයේ මෙන්ම පොළොන්නරුවේ එම තත්ත්වය 112- 120ත් අතර අගයක් දක්වා ඉහළ යා හැකිය.
+
+ඊට අමතරව කුරණෑගල, වව්නියාව, මහනුවර, කෑගල්ල, ගාල්ල, බදුල්ල, ත්‍රිකුණාමලය ඇතුළු නගර රැසකම වායු ගුණ තත්ත්ව දර්ශකය 100ට වැඩි අගයක් ගනු ඇතැයි අපේක්ෂා කෙරේ.
+
+වායු ගුණ තත්ත්ව දර්ශකය අනුව 0-50 අතර යනු යහපත් මට්ටම වන අතර, එය 51 -100 අතර මධ්‍යස්ථ මට්ටමකි.
+
+කෙසේ නමුත් 101-150 අතර සුළු වශයෙන් අහිතකර වන අතර, 151 - 200 දක්වා අහිතකර මට්ටමකි.
+
+එමෙන්ම 201- 300ත් අතර ඉතා අහිතකර වන අතර, 301 -500 අනතුරුදායක වේ.
+
+...
+
+[Data](articles/0d9b2bd6.json)
 
 ---
 
@@ -203,6 +317,26 @@ They have been provided with consular and legal assistance by our High Commissio
 [Data](articles/0cd3f39f.json)
 
 [Extended Data](ext_articles/0cd3f39f.ext.json)
+
+---
+
+### කෝටි 6ක වත්කම් කොල්ලකෑ 09ක් අත්අඩංගුවට
+
+*2024-11-30 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203889) · `si`
+
+අවි පෙන්වා බියගන්වා රුපියල් කෝටි 06කට අධික වටිනාකමකින් යුත් නිල් මැණික්, රන් භාණ්ඩ සහ මුදල් කොල්ලකෑමකට සම්බන්ධ පුද්ගලයන් 9 දෙනෙකු ඊයේ (29) අත්අඩංගුවට ගත්බව පොලීසිය පැවසීය.
+
+නොවැම්බර් මස 10වනදා ලග්ගල පොලිස් වසමේදී සිදුවූ කොල්ලකෑමක් සම්බන්ධයෙන් මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+
+මාවතගම හා පොල්පිතිගම පොලිස් වසම්වලදී මෙම අපරාධයට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන් විසින් කොල්ලකන ලද රුපියල් කෝටියකට අධික මුදලක්, රන් පවුම් 07ක් සහ අපරාධය සඳහා භාවිතා කළ සෙල්ලම් පිස්තෝල 02ක්, පිහියක් සහ වෑන් රථයක්ද පොලීසිය සිය භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අතර චීවරධාරියෙක්ද සිටින අතර, ඔවුන් අවුරුදු 38ත් 49ත් අතර වයස්වල පසුවන වත්තේගම, සපුගස්කන්ද, පොල්පිතිගම, කුරුණෑගල, රත්නපුර හා විල්ගමුව ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/5ab5c664.json)
 
 ---
 
@@ -2159,173 +2293,5 @@ It is also worth noting that Minister Vijitha Heram has also been ordered to app
 [Data](articles/c38f07a6.json)
 
 [Extended Data](ext_articles/c38f07a6.ext.json)
-
----
-
-### A / L question issues brought by air
-
-*2024-11-29 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203873) · `si`
-
-Sri Lanka Air Force operations impacted by weather:
-
-
-
-1. Re-taking control during GCE Advanced Level exam
-
-2. Bell 212 helicopter deployed for education ministry and Northern Province
-
-3. Continuing observation duties and readiness to assist
-
-
-
-Total character count: 199
-
-🟩
-
-The Sri Lanka Air Force was re-taken by the GCE Advanced Level Examination of the GCE ASP
-
-The question peer were brought to the Advanced Level Examination of the A / L examination due to the influence of inclement weather.
-
-The Sri Lanka Air Force's Bell 212 helicopter was brought to the Ministry of Education and the Northern Provincial Education to the Northern Provincial Education.
-
-The Sri Lanka Air Force continues to engage in observations duties affected by inclement weather and is still ready to provide relief to the people at any time.
-
-◼️
-
-[Data](articles/6b805f1f.json)
-
-[Extended Data](ext_articles/6b805f1f.ext.json)
-
----
-
-### A man arrested for illegal alcoholism in Ingiriya
-
-*2024-11-29 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200013) · `ta`
-
-Man arrested in Ingiriya for illegal liquor possession. Police raid led to seizure of 33 liters. Suspect, 25, from Ettarakalawatte.
-
-🟩
-
-A man was arrested by police on Thursday (28) with illegal liquor in the area of ​​the Ingiriya Police Division.
-
-He was arrested during a raid conducted by a group of officers of the Horana Camp of the Police Special Task Force.
-
-The arrested suspect is a 25 -year -old man from Ettarakalawatte.
-
-33 liters of illegal liquor from the suspect has been seized by the police.
-
-◼️
-
-[Data](articles/5a8851a3.json)
-
-[Extended Data](ext_articles/5a8851a3.ext.json)
-
----
-
-### Actor Anson Paul's preview release
-
-*2024-11-29 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200031) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Anson Paul debuts in Tamil with 'Rain Nayanoeni'. Directed by D. Suresh Kumar, featuring Reba Monica John, Mathew Varghese. Music by M. Vishnu Prasad. Released on Dec 12th. Love story receives positive fan response."
-
-🟩
-
-The preview of the movie 'Rain Nayanoeni', which has made his debut in Tamil fans with Sivakarthikeyan starrer 'Remo', is the leading role of the famous Malayalam actor Anson Paul.
-
-Director D. Suresh Kumar's upcoming film 'Anson Paul, Reba Monica John, Mathew Varghese, Anupama Kumar,' Shankar Guru 'Raja, Sujatha Panchu,' Vijayvel 'and Kishore Kumar are many others.
-
-M. Vishnu Prasad has composed the film, which has been recorded by Kalyan. The film was made on behalf of Raj Sri Ventures Company.. Produced by Rajesh Kumar.
-
-The preview of the film has been released on December 12th.
-
-The love of love and the sentiments of lovers has been a big hit with the fans.
-
-◼️
-
-[Data](articles/32f025df.json)
-
-[Extended Data](ext_articles/32f025df.ext.json)
-
----
-
-### 14 people have been killed by inclement weather;Two magic;Over 4 million people impact
-
-*2024-11-29 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200019) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"14 deaths reported due to inclement weather. Over 4 million impacted across 24 districts. 20 injuries, 2 missing. 38k displaced in 341 camps."
-
-🟩
-
-Due to inclement weather in the country, 232 Divisional Secretariats in 24 districts have been affected.
-
-The Disaster Management Center said that 14 people were killed in disaster in Badulla, Ampara, Puttalam, Trincomalee and Vavuniya districts.
-
-The Disaster Management Center further said that 4 and 42 thousand 185 people from one million 32 thousand 289 families have been affected by disasters such as rain and floods.
-
-At least 20 people have been injured and 2 have been missing.
-
-With 341 intermediate camps in the country, 38 thousand 594 from 12 thousand 334 families have been housed in those camps and one million 15 thousand 628 relatives from 45 thousand 415 families have been placed in their homes.
-
-◼️
-
-[Data](articles/5f3c9bfa.json)
-
-[Extended Data](ext_articles/5f3c9bfa.ext.json)
-
----
-
-### Deputy Minister Upali, who visited the Vattuvagal Bridge: Steps will be taken to build a new bridge
-
-*2024-11-29 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200022) · `ta`
-
-Deputy Minister Upali Samarasinghe commits to building a new bridge at Vattuvagal after visiting site with officials and MPs.
-
-🟩
-
-Mullaitivu District Secretariat and Department officials, including Mullaitivu District Secretariat and Department officials, along with MPs, P. Sathiyalingam, C.Tilakanathan and M. Jegadeeswaran, including Deputy Minister of Co -operative Development Upali Samarasinghe, accepted the request of Wanni MP Durairasa Ravikaran.
-
-Deputy Minister Upali Samarasinghe has said that steps will be taken to construct a new bridge in response to the request made by MP Ravikaran.
-
-A special coordinating committee meeting was held at the Mullaitivu District Secretariat on Friday (29).
-
-At the meeting, Wanni MP Durairasa Ravikaran pointed out that the Vadduvagal Bridge was badly affected and the people who are facing the road are facing the risks of people using the road.
-
-...
-
-[Data](articles/af266661.json)
-
-[Extended Data](ext_articles/af266661.ext.json)
-
----
-
-### Yall. Heavy traffic from Maruthankani Bridge
-
-*2024-11-29 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200024) · `ta`
-
-Maruthankani Bridge: Flood damage causes heavy traffic. Both sides closed temporarily. Renovation planned soon.
-
-🟩
-
-Heavy traffic on heavy traffic. District Secretary M Pradeepan said.
-
-Yall. Due to the flood disaster in the district, both sides of the Maruthankani Bridge have been affected by heavy traffic on the bridge.
-
-Both sides of the bridge are now turned off the soil so that the bridge is not damaged.
-
-The district secretary has announced that he will be allowed to transport heavy traffic after the bridge has been renovated soon.
-
-◼️
-
-[Data](articles/b50b1646.json)
-
-[Extended Data](ext_articles/b50b1646.ext.json)
 
 ---

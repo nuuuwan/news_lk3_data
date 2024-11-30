@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 17:43:14**
+As of **2024-11-30 18:02:50**
 
 ## Newspaper Stats
 
-*Scraped **57,741** Articles*
+*Scraped **57,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,463
 economynextcom | 3,511
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,446
+adalk | 5,447
 adaderanalk | 6,998
-tamilmirrorlk | 8,209
+tamilmirrorlk | 8,211
 virakesarilk | 9,429
 adaderanasinhalalk | 9,970
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,970
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,741 (100.0%) of 57,741 articles have been extended.
+57,741 (100.0%) of 57,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
+
+### மண்சரிவு எச்சரிக்கை மீண்டும் நீடிப்பு
+
+*2024-11-30 17:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-எச்சரிக்கை-மீண்டும்-நீடிப்பு/175-348014) · `ta`
+
+சீரற்ற காலநிலை காரணமாக 09 மாவட்டங்களுக்கு விடுக்கப்பட்ட மண்சரிவு எச்சரிக்கை நாளை மாலை 04 மணி வரை மீண்டும் நீடிக்கப்பட்டுள்ளது.
+
+இதன்படி, பதுளை, கண்டி, கேகாலை, மாத்தளை மற்றும் நுவரெலியா ஆகிய மாவட்டங்களுக்கு இரண்டாம் நிலை அபாயத்தை வழங்க தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் நடவடிக்கை எடுத்துள்ளது.
+
+இது தவிர, கொழும்பு, கம்பஹா, குருநாகல் மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் மண்சரிவு அபாயம் உள்ள பகுதிகளுக்கும் மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/e6b6be9a.json)
+
+---
+
+### பாராளுமன்ற குழுக்கள் பலவற்றை இரத்து செய்ய தீர்மானம்
+
+*2024-11-30 17:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-குழுக்கள்-பலவற்றை-இரத்து-செய்ய-தீர்மானம்/175-348013) · `ta`
+
+கடந்த அரசாங்கத்தின் போது தன்னிச்சையாக நியமிக்கப்பட்டதாக கூறப்படும் பாராளுமன்றத்தின் பல குழுக்களை இரத்து செய்ய அல்லது மாற்றுவதற்கு பாராளுமன்ற விவகாரங்களுக்கான குழு தீர்மானித்துள்ளது.
+
+இந்த குழுக்களை நியமித்ததால் பெருமளவு பணம் விரயமாவதை அரசு கண்டறிந்ததை அடுத்தே, இந்த முடிவு எடுக்கப்பட்டுள்ளதாக கூறப்படுகிறது.
+
+பாராளுமன்றக் குழுக்களின் முறையான நியமனம் தொடர்பான விஷயங்களை மறுஆய்வு செய்து அதற்கான முன்மொழிவுகளை ஜனவரி 31ஆம் திகதிக்கு முன் சமர்ப்பிக்குமாறு பாராளுமன்ற விவகாரங்களுக்கான குழு ஏற்கெனவே சம்பந்தப்பட்ட அதிகாரிகளுக்கு உத்தரவிட்டுள்ளது.
+
+ஒரே மாதிரியான விடயங்களுக்கு பல துறைசார் கண்காணிப்புக் குழுக்கள் நியமிக்கப்பட்டுள்ளதால், இதுபோன்ற விடயங்களை ஒரு குழுவின் கீழ் கொண்டு வருவது குறித்து கவனம் செலுத்தப்பட்டுள்ளதாக, அரசாங்கப் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+குறிப்பாக பொருளாதாரத்தின் பல்வேறு துறைகளுடன் தொடர்புடைய பல துறைசார்  கண்காணிப்புக் குழுக்கள் கடந்த காலங்களில் நியமிக்கப்பட்டுள்ளதாகவும், இவற்றை ஒரே குழுவின் கீழ் கொண்டுவர முடியும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/f6ddcf0b.json)
+
+---
 
 ### Change in opposition leadership positions?
 
@@ -225,6 +261,24 @@ In collaboration with the Sri Lanka Army, dry food items were distributed to aff
 [Data](articles/ba3381d7.json)
 
 [Extended Data](ext_articles/ba3381d7.ext.json)
+
+---
+
+### කාර්තිව් ට්‍රැක්ටර් අනතුරෙන් අතුරුදන්වූ හයවන සිසුවාගේ සිරුරත් හමුවේ
+
+*2024-11-30 15:57:20* · [`adalk`](https://www.ada.lk/breaking_news/කාර්තිව්-ට්‍රැක්ටර්-අනතුරෙන්-අතුරුදන්වූ-හයවන-සිසුවාගේ-සිරුරත්-හමුවේ/11-413362) · `si`
+
+කාර්තිව් - මාවඩිප්පලි මාර්ගයේ  ට්‍රැක්ටරයක්  ජල  ප්‍රහාරයකට හසු වීමෙන්  සිදු වූ අනතුරේදී  අතුරුදන්ව සිටි අවසන්   පාසල් සිසුවාගේ මළ සිරුර අද (30) සොයාගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය කියයි.
+
+නාවික හමුදාව ,යුධ හමුදාව සහ පොලීසිය එක්ව  සිදු කරන ලද මෙහෙයුම් වලදී මෙසේ  සොයාගෙන ඇත්තේ වයස අවුරුදු 16ක් වූ සමන්තුරය ප්‍රදේශයේ පදිංචි රමුලාන් මොහොම්මත් තස්රීෆ් යන පාසල් සිසුවාගේ මළ සිරුර බව පොලීසිය පවසයි.
+
+මෙම අනතුරෙන්  අතුරුදන්ව සිටි  පාසල් සිසුන් 06 දෙනාගෙන් පස් දෙනෙකු,  ට්‍රැක්ටර් රථයේ රියදුරුගේ සහ  එහි  ගමන් ගත් අයකුගේ ඇතුළු මෘත දේහ 07  ක් ඊයේ වන විට සොයාගෙන තිබිණි.
+
+කාර්තිව් නින්දවුර් මදරාසා පාසැලේ සිසුන් පිරිසක් සහ තවත් ප්‍රදේශවාසීන් පිරිසක් ට්‍රැක්ටර් රථයක් මඟින් රැගෙන යමින් සිටියදී  ඉකුත්දා  මෙම අනතුර සිදුවී තිබිණි.
+
+◼️
+
+[Data](articles/f3d613ab.json)
 
 ---
 
@@ -2277,103 +2331,5 @@ The Terrorist Prevention Unit, who went to the home of some other people, said t
 [Data](articles/4760a789.json)
 
 [Extended Data](ext_articles/4760a789.ext.json)
-
----
-
-### Bad weather for 15 lives
-
-*2024-11-29 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203877) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Bad weather causes 15 deaths on island. Science department aims to reduce impact. Landslide risks increase. Meteorological department warns of pressure drop affecting Tamil Nadu coast.
-
-🟩
-
-The Democratic Department of Science departments are expected to decrease the impact of the island's weather in the South Bay Bay of Bay of Bay of Bay of Bay of Baying.
-
-15 people lost their lives in the island during the past few days.
-
-Meanwhile, landslide risk anniversaries are further impacted and has been removed.
-
-Meanwhile, the Department of Meteorological Department states that the depositive pressression recession in the Bay of Bay of Bay Bay Bay Bay Bay Bay of Bay of Bay of Baying Sea will lead to Tamil Nadu coast.
-
-◼️
-
-[Data](articles/829fc8be.json)
-
-[Extended Data](ext_articles/829fc8be.ext.json)
-
----
-
-### England and New Zealand are equal to equal color
-
-*2024-11-29 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200044) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-England vs New Zealand Test match: England scored 319/5 in response to NZ's 348. Harry Brook & Ollie Pope shared key partnerships. Ben Stokes supported with 37*. NZ bowlers Brevo Cars & Shubashir took 8 wickets.
-
-🟩
-
-The first Test cricket match between England and New Zealand at the Christchurch Hegli Oval Stadium is equal to equal quantities.
-
-In response to New Zealand's 348 runs in the first innings, England scored 319 runs for the loss of 5 wickets at the end of the 2nd day.
-
-Harry Brook's gaze and the half -century of the Ollie Pope made England in good condition.
-
-Jacob Bethel (10), Joe Root (0) and Ben Docket (46) were constantly playing in a regular interval. (71 - 4 wig.)
-
-Harry Brooke and Ollie Pope then shared 151 runs in the 5th wicket.
-
-After losing the Pope, Brooke and team captain Ben Stokes shared 97 runs in the 6th wicketless 6th wicket raised to 319 runs.
-
-Harry Brook did not play with 132 pounds, 2 sixes and Ben Stokes 37.
-
-Earlier, on the second day of the match, New Zealand lost all wickets for 348 runs for the loss of 319 runs for the loss of 8 wickets.
-
-Kane Williamson scored 93 runs, Dom Letham 47 and Rachin Ravindra 34 runs.
-
-...
-
-[Data](articles/ff6b66fc.json)
-
-[Extended Data](ext_articles/ff6b66fc.ext.json)
-
----
-
-### Shahrujan, half -century in the Asian bowl under the age of 19;Sri Lanka won Nepal
-
-*2024-11-29 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200043) · `ta`
-
-Sri Lanka U19 won Asian Bowl vs Nepal: Shahrujan 62*, Lakwin 79*; Nepal 234/10 in 46.2 overs.
-
-🟩
-
-Sri Lanka won by 55 runs in the Asian Bowens under the age of 19 against Nepal on Friday (29) at the Sharjah Cricket Stadium in the United Arab Emirates.
-
-The half -centuries of Shanmuganathan Shah Rujan and Lakwin Abeysinghe, the accurate bowling of Praveen Manisha, Ranjit Kumar Newton and Kukadas Madulan made Sri Lanka easier.
-
-Sri Lanka, who was first invited to bat in the upting match, lost all wickets in 50 overs and scored 233 runs.
-
-St. Blessed Team Leader Sharujan scored 62 runs off 99 balls.
-
-Sharujan shared 41 runs with Vimath Dinsara in the 3rd wicket and shared 79 runs with Lakwin Abeysinghe in the 4th wicket.
-
-Kavija Kamage scored 37 runs and Dulnit Sighera 24 runs than Sharujan and Lakwin.
-
-Nepal scored 234 runs and scored 178 runs for the loss of all wickets in 46.2 overs.
-
-Mayan Yadav scored 62 runs off 90 balls and 2 sixes in 90 balls. Although six players got double digit numbers, they were unable to reach 20 runs.
-
-...
-
-[Data](articles/ef1299aa.json)
-
-[Extended Data](ext_articles/ef1299aa.ext.json)
 
 ---

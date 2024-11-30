@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 11:25:53**
+As of **2024-11-30 11:42:19**
 
 ## Newspaper Stats
 
-*Scraped **57,708** Articles*
+*Scraped **57,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,510
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,445
-adaderanalk | 6,989
+adaderanalk | 6,990
 tamilmirrorlk | 8,206
 virakesarilk | 9,424
 adaderanasinhalalk | 9,961
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,708 (100.0%) of 57,708 articles have been extended.
+57,708 (100.0%) of 57,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -107,6 +107,24 @@ Meanwhile, the Sri Lanka Air Force has said that the Bell 212 helicopter has bee
 [Data](articles/f9041beb.json)
 
 [Extended Data](ext_articles/f9041beb.ext.json)
+
+---
+
+### 75-year-old dies in house fire in Mullaitivu
+
+*2024-11-30 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103881/75-year-old-dies-in-house-fire-in-mullaitivu) · `en`
+
+A 75-year-old man has tragically burned to death in a fire at his home in the Silawatta area of Mullaitivu last afternoon (29).
+
+The deceased, a resident of Silawatta, lived alone in a house near his son’s residence.
+
+Preliminary investigations suggest that the fire may have started due to flames lit in the house to combat the cold, which subsequently spread and caused the fatal accident.
+
+The body has been sent to the mortuary of the Mancholai Hospital for a post-mortem examination. Mullaitivu Police are continuing further investigations into the incident.
+
+◼️
+
+[Data](articles/35f4916a.json)
 
 ---
 
@@ -2365,23 +2383,5 @@ The Department of Examinations has issued a revised schedule for the postponemen
 [Data](articles/bbf81cf9.json)
 
 [Extended Data](ext_articles/bbf81cf9.ext.json)
-
----
-
-### Sri Lanka sells extra Rs12.5bn Treasury bills after auction
-
-*2024-11-29 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs12-5bn-treasury-bills-after-auction-140139/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 12.5 billion rupees of treasury bills offered on tap at average rates of 8.73%, 8.97% and 9.08%, the state debt office said.
-
-On Wednesday (27) the debt office raised 125 billion rupees of 3, 6 and 12 month bills.
-
-Sri Lanka treasuries yields plunge across maturities, 12-month down 70bp
-
-◼️
-
-[Data](articles/ccfa9e82.json)
-
-[Extended Data](ext_articles/ccfa9e82.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 06:47:32**
+As of **2024-11-30 05:50:36**
 
 ## Newspaper Stats
 
-*Scraped **57,692** Articles*
+*Scraped **57,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,444
 adaderanalk | 6,985
-tamilmirrorlk | 8,200
+tamilmirrorlk | 8,199
 virakesarilk | 9,424
 adaderanasinhalalk | 9,956
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,956
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,672 (100.0%) of 57,692 articles have been extended.
+57,671 (100.0%) of 57,691 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,8 +75,6 @@ In 1984, in an interview with Anita Pratap, Velupillai Prabhakaran, leader of th
 ...
 
 [Data](articles/36975e90.json)
-
-[Extended Data](ext_articles/36975e90.ext.json)
 
 ---
 
@@ -421,24 +419,6 @@ In addition, 204 houses have been partially damaged due to inclementary conditio
 [Data](articles/e5cf913e.json)
 
 [Extended Data](ext_articles/e5cf913e.ext.json)
-
----
-
-### இல்லங்களுக்காக 35 எம்.பிக்கள் விண்ணப்பம்
-
-*2024-11-30 02:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இல்லங்களுக்காக-35-எம்-பிக்கள்-விண்ணப்பம்/175-348003) · `ta`
-
-பாராளுமன்ற உறுப்பினர்களுக்கான உத்தியோகபூர்வ இல்லங்களுக்காக 35 விண்ணப்பங்கள் கிடைத்துள்ளன என்று   பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்துள்ளார்.
-
-முன்னாள் பாராளுமன்ற உறுப்பினர்களால் மீள ஒப்படைக்கப்பட்ட 25 முதல் 30 இல்லங்கள் தற்போது புனரமைக்கப்பட்டு வருகின்றன.
-
-மொத்தமுள்ள 108 இல்லங்களில் ஆளுங்கட்சி உறுப்பினர்களுக்கு 80 இல்லங்களும், எதிர்க்கட்சி உறுப்பினர்களுக்கு 28 இல்லங்களும் ஒதுக்கப்பட்டுள்ளன.
-
-பாராளுமன்றத்திலிருந்து 40 கிலோ மீற்றர்களுக்கு அப்பால் பதிவிடங்களைக் கொண்டுள்ள பாராளுமன்ற உறுப்பினர்கள், உத்தியோகபூர்வ இல்லங்களுக்காக விண்ணப்பிக்க முடியும் என்றார். (a)
-
-◼️
-
-[Data](articles/815d79b1.json)
 
 ---
 
@@ -2355,5 +2335,29 @@ Sri Lanka's tourism industry has recently been uniform. In 2018, 2.3 million tou
 [Data](articles/4116161f.json)
 
 [Extended Data](ext_articles/4116161f.ext.json)
+
+---
+
+### Two arrested with 301 cannabis plants and 2 domestic guns
+
+*2024-11-29 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199992) · `ta`
+
+Two arrests made: 47 & 68 yr olds found with 301 cannabis plants & 2 domestic guns in Vathegama & Ellanaagama areas.
+
+🟩
+
+Two persons have been arrested with ganja and domestic guns in the area belonging to the Vathegama and Ellanaagama police division.
+
+They were arrested on Thursday (28) during two rounds of operations carried out on the basis of information received by the Etimalai police station.
+
+The suspects are 47 and 68 years old from Kovibala and Vilaya.
+
+Police have seized 301 cannabis plants and 2 domestic guns from the suspects.
+
+◼️
+
+[Data](articles/1e2c1499.json)
+
+[Extended Data](ext_articles/1e2c1499.ext.json)
 
 ---

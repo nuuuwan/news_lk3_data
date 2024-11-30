@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 00:15:31**
+As of **2024-11-30 23:42:20**
 
 ## Newspaper Stats
 
@@ -26,39 +26,25 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,768 (100.0%) of 57,772 articles have been extended.
+57,765 (100.0%) of 57,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-30 (Saturday)
 
-### Three arrested for attempting to suffer the public
+### මහජනයා නොසන්සුන් කිරීමට උත්සාහ කිරීම සම්බන්ධයෙන් තිදෙනෙකු අත්අඩංගුවට
 
 *2024-11-30 23:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203915) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+එල්.ටී.ටී.ඊ මහවිරු දින උත්සව සැමරුම් ප්‍රචාර සිදු කරමින් මහජනයා නොසන්සුන් කිරීම සම්බන්ධව සැකකරුවන් තිදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
 
+පොලීසිය පැවසුවේ අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 28, 35 හා 45 වයස්වල පසුවන මරදාන, චුන්නාකම් හා බද්දේගම ප්‍රදේශවල පදිංචිකරුවන් බවය.
 
+සැකකරුවන් දිවයිනේ තහනම් සංවිධානයක් වන එල්.ටී.ටී.ඊ සංවිධානයේ නායක වන වේලුපිල්ලේ ප්‍රභාකරන්ගේ රුව සහිත ජායාරූප හා වීඩියෝපට ෆේස්බුක් සමාජ ජාලා ගිණුමක් මගින් සංසරණය කිරීම මෙන්ම මීට පෙර වර්ෂයන්වලදී එල්.ටී.ටී.ඊ සංවිධානයේ මහාවිරු සැමරුම්වලදී ලබාගත් පැරණි වීඩියෝපට මෙම වර්ෂයේ සිදුකරන ලද සැමරුම් ලෙස හුවා දක්වමින් ෆේස්බුක් සමාජ මාධ්‍යජාලයේ සංසරණය කිරීම යන චෝදනාවන් ඔවුන්ට එල්ල වී තිබේ.
 
-"3 arrested for promoting LTTE via old videos during Mahavairu celebrations. Suspects from Maradana, Chunnakam, Baddegama. Charged with Facebook circulation & internet advertising for banned org. CID & TID conducting further investigations."
-
-🟩
-
-The Criminal Investigations Department (CID) has arrested three suspects regarding the unrest in the event of the LTTE celebrations.
-
-Police said that the suspects were residents of Maradana, Chunnakam and Baddegama areas.
-
-The suspects have been circulated by the LTTE, the leader of the LTTE, who is the banned organization of the island, to the old videos of the LTTE, and the old videos have been made in the years of Mahavairu Celebrations in the years.They have been charged with circulation of Facebook, hiding as celebrations.
-
-Accordingly, the suspects were arrested in terms of the temporary arrangement of false advertisements and advertising on the Internet to promote the activities of the Internet and promote the activities of a banned organization.Have been taken.
-
-The Criminal Investigations Department and the Terrorism Investigation Division conducts further investigations.
-
-◼️
+...
 
 [Data](articles/38c592ec.json)
-
-[Extended Data](ext_articles/38c592ec.ext.json)
 
 ---
 
@@ -176,57 +162,45 @@ Accordingly, Ada Derana LAUGS Gas was inquired about this.
 
 ---
 
-### What SIINOPEC is going to buy fuel
+### සයිනොපෙක් ඉන්ධන මිලට වෙන දේ
 
 *2024-11-30 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203911) · `si`
 
-Sinopec buys fuel; Syinope amends prices; Ceylon Petroleum increases rates; liter price hikes: diesel +286, kerosene +588; other fuels unchanged.
+අද (30) සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
 
-🟩
+නිවේදනයක් නිකුත් කරමින් එම සමාගම පවන්නේ ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ මිල ගණන් වලට සමානව තම සමාගමේ ඉන්ධන මිල ගණන්ද සංශෝධනය කරන බවයි.
 
-Syinope has amended its fuel prices as operated from today.
+අද මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබුණි.
 
-Issuing a statement that the company is amended by the company's fuel prices as the prices of the Ceylon Petroleum Corporation.
+ඔක්ටේන් 92 පෙට්‍රල් රුපියල් නව මිල රුපියල් 02කින් අඩු කර ඇති අතර එහි නව මිල 309කි.
 
-The Ceylon Petroleum Corporation had taken steps to amend fuel prices as effective today.
+ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 286කි.
 
-The new price of Rs.
+ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල රුපියල් 188කි.
 
-The price of a liter of Sri Lanka has increased by Rs. 286.
-
-The price of a liter of LTTE kerosene has been increased by Rs. 588.
-
-Other fuel prices have not been amended and the prices will be sold at the previous prices.
+අනෙකුත් ඉන්ධන මිල ගණන් සංශෝධනය කර නොමැති අතර එම මිල ගණන් පෙර පැවැති මිල ගණන් යටතේ අලෙවි වනු ඇත.
 
 ◼️
 
 [Data](articles/667c59eb.json)
 
-[Extended Data](ext_articles/667c59eb.ext.json)
-
 ---
 
-### Student reveals how the Ampara Tractor has been shy away
+### අම්පාරේ ට්‍රැක්ටරය සැඩපහරට හසුවූ හැටි දිවිගලවා ගත් සිසුවෙකු හෙළිකරයි
 
 *2024-11-30 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203909) · `si`
 
-Ampara Tractor incident: 8 students killed, 1 missing. Surviving student recounts tragic events: bus overturned, tractor sank, rescue efforts ongoing.
+පසුගිය 26 වැනිදා අම්පාර කාර්තිව් ප්‍රදේශයේ දී ට්‍රැක්ටර් රථයක් සැඩපහරට හසුව පෙරළීයාමෙන් මියගිය පාසල් සිසුන් ඇතුළු 08 දෙනෙකුගේ මළ සිරුරු මේ වනවිට සොයාගෙන තිබේ.
 
-🟩
+එලෙස දියේ ගිලී අතුරුදන් වූ තවත් සිසුවෙකුගේ මළ සිරුරක් අද සොයාගත්තේය.
 
-Police have recovered the bodies of eight of the school children who were killed from the Sadapula area in Kabbalan, Ampara.
+ඒ නාවික හමුදාව, පොලීසිය සහ ප්‍රදේශවාසීන් එක්ව සිදුකළ සෝදිසි මෙහෙයුමකදීය.
 
-One of another body of the missing student was disappeared today.
-
-The Navy, Police and the residents of the area were conducting further investigations.
-
-The student who survived the accident expressed these views regarding the accident.
+අදාළ අනතුරින් දිවිගලවා ගත් සිසුවෙක් අනතුර සම්බන්ධයෙන් මෙලෙස අදහස් පළ කළේය.
 
 ...
 
 [Data](articles/3cf275d5.json)
-
-[Extended Data](ext_articles/3cf275d5.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-30 09:04:13**
+As of **2024-11-30 09:28:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,680 (100.0%) of 57,696 articles have been extended.
+57,685 (100.0%) of 57,696 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -276,6 +276,8 @@ If the Net Present Value analysis proves beneficial for us to ensure debt sustai
 
 [Data](articles/df619e00.json)
 
+[Extended Data](ext_articles/df619e00.ext.json)
+
 ---
 
 ### Japan donates two fully equipped ambulances to BIA and Colombo Port
@@ -292,6 +294,8 @@ The ambulances, each valued at approximately $ 100,000, will enhance the emergen
 
 [Data](articles/ee5d5450.json)
 
+[Extended Data](ext_articles/ee5d5450.ext.json)
+
 ---
 
 ### International call for education to be centred on Human Rights
@@ -307,6 +311,8 @@ The Declaration calls for education of children, wherever it takes place and wha
 ...
 
 [Data](articles/1a12691d.json)
+
+[Extended Data](ext_articles/1a12691d.ext.json)
 
 ---
 
@@ -424,6 +430,8 @@ Additionally, District Secretaries and Irrigation officials were instructed to e
 
 [Data](articles/bcbbb474.json)
 
+[Extended Data](ext_articles/bcbbb474.ext.json)
+
 ---
 
 ### Indian Navy supports Lankan counterpart to nab narcotics worth nearly Rs. 170 b
@@ -437,6 +445,8 @@ Extensive surveillance was undertaken by Indian Naval Long Range Maritime Patrol
 ...
 
 [Data](articles/0504e51d.json)
+
+[Extended Data](ext_articles/0504e51d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 10:16:10**
+As of **2024-12-01 10:02:00**
 
 ## Newspaper Stats
 
-*Scraped **57,806** Articles*
+*Scraped **57,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,100 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,452
 adaderanalk | 7,005
 tamilmirrorlk | 8,215
-virakesarilk | 9,436
-adaderanasinhalalk | 9,991
+virakesarilk | 9,434
+adaderanasinhalalk | 9,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,795 (100.0%) of 57,806 articles have been extended.
+57,795 (100.0%) of 57,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### 12 -year -old girl dies from a mango tree in Trincomalee
-
-*2024-12-01 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200108) · `ta`
-
-12-year-old girl falls from mango tree in Trincomalee, dies. Branch breaks as she climbs to check mangoes. Body taken to hospital for examination.
-
-🟩
-
-A 12-year-old girl was killed at the Van Ela Police Station.
-
-It was reported that the girl fell down from the tree when the tree branch broke when the tree climbed into the tree to investigate the mango area of ​​the Van Ela police division.
-
-Kinniya Sudden Death Investigation Officer. S.. Shafi visited the scene and ordered the police to take the body of the girl to the Trincomalee General Hospital for examination.
-
-◼️
-
-[Data](articles/99e3a9bc.json)
-
-[Extended Data](ext_articles/99e3a9bc.ext.json)
-
----
-
-### முல்லைத்தீவில் 23,930 ஏக்கர் வயல் நிலங்கள் வெள்ளத்தில்! ; பாதிக்கப்பட்ட விவசாயிகளுக்கு உடனடியாக இழப்பீடுகள் வழங்கப்படவேண்டும் - ரவிகரன் எம்.பி
-
-*2024-12-01 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200111) · `ta`
-
-முல்லைத்தீவு மாவட்டத்தில் 23,930 ஏக்கர் பெரும்போக நெற்செய்கை கனமழை காரணமாக வெள்ள நீரில் மூழ்கிக் காணப்படுவதாக முல்லைத்தீவு மாவட்ட கமநல அபிவிருத்தி திணைக்கள உதவி ஆணையாளர் ஆர்.பரணீகரன் தெரிவித்துள்ளார்.
-
-இந்நிலையில் பாதிக்கப்பட்ட விவசாயிகளுக்குரிய இழப்பீடுகளை உடனடியாக வழங்க நடவடிக்கை எடுக்குமாறு வன்னி மாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் தெரிவித்துள்ளார்.
-
-முல்லைத்தீவு மாவட்ட செயலகத்தில் இடம்பெற்ற விசேட மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்திலேயே இந்த விடயங்கள் பேசப்பட்டுள்ளன.
-
-அங்கு முல்லைத்தீவு மாவட்ட கமநல அபிவிருத்தித் திணைக்கள உதவி ஆணையாளர் கருத்துத் தெரிவிக்கையில்,
-
-வயல் நிலங்களில் தொடர்ந்தும் வெள்ள நீர் தேங்கியிருக்கிறதா என்பதை அவதானித்தே, பாதிப்பு நிலைமைகள் குறித்து மதிப்பீடு செய்ய முடியும்.
-
-தற்போது மழைவீழ்ச்சி அளவு குறைந்திருப்பதால் வயல்நிலங்களை மூடியிருக்கின்ற வெள்ள நீர் படிப்படியாக குறைவடைகின்றபோது, தற்போது எதிர்பார்க்கப்படுகின்ற பாதிப்பு நிலைமையை விட, பாதிப்பு நிலைமைகள் குறையக்கூடும் என நம்புகிறோம் என்று தெரிவித்தார்.
-
-...
-
-[Data](articles/bf85637d.json)
-
----
-
-### උත්සව සමය ඉලක්ක කර පාරිභෝගික කටයුතු අධිකාරියෙන් විශේෂ වැඩපිළිවෙළක්
-
-*2024-12-01 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203921) · `si`
-
-උදා වී ඇති දෙසැම්බර් උත්සව සමයේදී පාරිභෝගිකයන්ට වෙළෙඳපොළ තුළදී සිදුවිය හැකි අසාධාරණකම් වැළැක්වීම සඳහා පාරිභෝගික කටයුතු පිළිබඳ අධිකාරීය විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කර තිබේ.
-
-ඒ අනුව අද (01) දිනයේ සිට ජනවාරි 15 දින දක්වා සිල්ලර වෙළඳසැල් සහ සුපිරි වෙළඳසැල් වැටලීම් ක්‍රියාත්මක කිරීමට නියමිතව ඇත.
-
-එම අධිකාරිය පැවසුවේ උත්සව සමය තුළ පාරිභෝගිකයන් වැඩි වශයෙන් මිලදී ගන්නා ඇඳුම් පැළඳුම්, කල් පවත්නා භාණ්ඩ, විදුලි උපරකණ හා අත්‍යවශ්‍ය භාණ්ඩ අලෙවි කරනු ලබන වෙළඳසැල් වෙත විශේෂ අවධානයක් යොමු කිරීමට නියමිත බවය.
-
-මෙම වැටලීම් සිදු කිරීමේදී භාණ්ඩවල සඳහන් මිලට වෙළඳසැල් තුළ විකිණීම, භාණ්ඩ මිල සඳහන් කර ප්‍රදර්ශනය කර විකිණීම, භාණ්ඩ විකිණීමේදි විධිමත් බිල්පත් නිකුත් කිරීම මගින් විධිමත් වෙළඳාමක් සිදුවන බවට විමසිලිමත් වීම සම්බන්ධව වැඩි අවධානයක් යොමු කිරීමට ද නියමිතව තිබේ.
-
-මීට අමතරව ජංගම වෙළඳුන් සහ සේල් වැනි ක්‍රියාකාරකම් පිළිබඳව ද එම අධිකාරිය විශේෂ අධීක්ෂණයට ලක් කිරීමට නියමිතය.
-
-...
-
-[Data](articles/7c10da32.json)
-
----
-
-### சட்டவிரோத அகழ்வு நடவடிக்கைகளில் ஈடுபட்ட மூவர் கைது!
-
-*2024-12-01 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200109) · `ta`
-
-தொல்பொருட்களை தோண்டி எடுக்கும் நோக்கில் சட்டவிரோதமாக அகழ்வு நடவடிக்கைகளில் ஈடுபட்ட சந்தேகநபர்கள் மூவரை பொலிஸார் கைது செய்துள்ளனர்.
-
-பண்டாரவளை குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவிற்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று சனிக்கிழமை (30) வெலிமடை பொலிஸ் பிரிவிற்குட்பட்ட பலதொட்டஎல்ல பகுதியில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் 3 சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 26, 32 மற்றும் 56 வயதுடைய வெலிமடை மற்றும் மஹியங்கனை பகுதியைச் சேர்ந்தவர்களாவர்.
-
-கைது செய்யப்பட்ட சந்தேகநபர்களிடம் இருந்து அகழ்வு நடவடிக்கைகளுக்கு பயன்படுத்திய உபகரணங்கள் மற்றும் பூஜை பொருட்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/975b76cb.json)
-
----
 
 ### Three arrested while digging for treasure in Balathotaella
 
@@ -132,7 +50,7 @@ Authorities have also seized excavation tools and ritual items found in the susp
 
 ---
 
-### ස්පාඤ්ඤයේ වැලෙන්සියාවේ ජනතාව විරෝධතාවක
+### ස්පාඤ්ඤයේ වැලෙන්සියාහි ජනතාව විරෝධතාවක
 
 *2024-12-01 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203920) · `si`
 
@@ -145,6 +63,28 @@ Authorities have also seized excavation tools and ritual items found in the susp
 ◼️
 
 [Data](articles/a5137e9a.json)
+
+---
+
+### 12 -year -old girl dies from a mango tree in Trincomalee
+
+*2024-12-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200108) · `ta`
+
+12-year-old girl falls from mango tree in Trincomalee, dies. Branch breaks as she climbs to check mangoes. Body taken to hospital for examination.
+
+🟩
+
+A 12-year-old girl was killed at the Van Ela Police Station.
+
+It was reported that the girl fell down from the tree when the tree branch broke when the tree climbed into the tree to investigate the mango area of ​​the Van Ela police division.
+
+Kinniya Sudden Death Investigation Officer. S.. Shafi visited the scene and ordered the police to take the body of the girl to the Trincomalee General Hospital for examination.
+
+◼️
+
+[Data](articles/99e3a9bc.json)
+
+[Extended Data](ext_articles/99e3a9bc.ext.json)
 
 ---
 
@@ -2425,5 +2365,67 @@ They urged the government to take immediate steps to provide compensation to hel
 [Data](articles/223dd777.json)
 
 [Extended Data](ext_articles/223dd777.ext.json)
+
+---
+
+### Police OIC arrested over bribery allegations
+
+*2024-11-30 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103879/police-oic-arrested-over-bribery-allegations) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has apprehended the Officer-in-Charge (OIC) of the Divisional Criminal Investigation Unit of the Negombo Police Station on charges of bribery.
+
+According to reports, the officer in question allegedly demanded an air conditioner valued at Rs. 270,000 as a bribe to investigate a dispute involving a car rented out on a lease agreement and to facilitate the return of the vehicle through legal channels.
+
+The CIABOC revealed that the requested amount was credited to the account of the manager of the store where the complainant purchased the air conditioner.
+
+Accordingly, the arrest was carried under the charge of bribery.
+
+◼️
+
+[Data](articles/7fb8e375.json)
+
+[Extended Data](ext_articles/7fb8e375.ext.json)
+
+---
+
+### Sri Lanka current dollar inflows exceed imports by US$549mn in October
+
+*2024-11-30 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-dollar-inflows-exceed-imports-by-us549mn-in-october-190954/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross current foreign exchange inflows of 2,251 million dollars have exceeded goods imports of 1,702 by 549 million US dollars in October 2024, official data released by the central bank shows.
+
+Current inflows were made up 1,158 million dollars of goods exports, remittances of 587 million dollars and gross services of 587.7 million dollars which includes tourist earnings estimate of 185.6 million US dollars.
+
+Total services outflows were reported as 283.8 million dollars of which travel abroad was 58.5 million US dollars.
+
+All inflows are eventually go out of the country as direct spending by recipients on imports and services, spending by subsequent recipients or savings that are invested.
+
+Money saved in banks are in turn given for investment projects which in turn generate imports.
+
+In October investment goods and base metals were 381 million US dollars, up from 360 million dollars in September.
+
+...
+
+[Data](articles/b5cc39f9.json)
+
+[Extended Data](ext_articles/b5cc39f9.ext.json)
+
+---
+
+### In a shock offensive, insurgents breach Syria’s largest city for the first time since 2016
+
+*2024-11-30 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103878/in-a-shock-offensive-insurgents-breach-syrias-largest-city-for-the-first-time-since-2016-) · `en`
+
+Insurgents breached Syria’s largest city Friday and clashed with government forces for the first time since 2016, according to a war monitor and fighters, in a surprise attack that sent residents fleeing and added fresh uncertainty to a region reeling from multiple wars.
+
+The advance on Aleppo followed a shock offensive launched by insurgents Wednesday, as thousands of fighters swept through villages and towns in Syria’s northwestern countryside. Residents fled neighborhoods on the city’s edge because of missiles and gunfire, according to witnesses in Aleppo. The Syrian Observatory for Human Rights, which monitors the country’s unresolved civil war, said dozens of fighters from both sides were killed.
+
+The attack injected new violence into a region experiencing dual wars in Gaza and Lebanon involving Israel, and other conflicts, including the Syrian civil war that began in 2011.
+
+...
+
+[Data](articles/18d7751d.json)
+
+[Extended Data](ext_articles/18d7751d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 19:26:27**
+As of **2024-12-01 20:42:04**
 
 ## Newspaper Stats
 
-*Scraped **57,893** Articles*
+*Scraped **57,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,221 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,465
-adaderanalk | 7,015
+adalk | 5,467
+adaderanalk | 7,016
 tamilmirrorlk | 8,229
-virakesarilk | 9,471
-adaderanasinhalalk | 10,003
+virakesarilk | 9,477
+adaderanasinhalalk | 10,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,893 (100.0%) of 57,893 articles have been extended.
+57,903 (100.0%) of 57,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### A plane to Chennai Super Kings
+
+*2024-12-01 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203935) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Chennai Super Kings gets private Etihad flight for IPL convenience.
+
+🟩
+
+Chennai Super Kings, which joins the Indian Premier League cricket team, has been allocated a private flight for the convenience of his players.
+
+The plane is one of the ETIHAD Airways of the United Arab Emirate.
+
+◼️
+
+[Data](articles/edb33ee8.json)
+
+[Extended Data](ext_articles/edb33ee8.ext.json)
+
+---
+
+### Arrest with illegal cigarettes
+
+*2024-12-01 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200176) · `ta`
+
+Man arrested for illegal cigarettes in three-wheeler during STF raid. Suspect, 36, from Wellawa.
+
+🟩
+
+A man who was traveling in a three -wheeler with cigarettes illegally brought to the country was arrested by police on Saturday (30).
+
+He was arrested following a raid conducted by the Special Task Force of the Police on information received by the Kurunegala camp authorities.
+
+The suspect was 36 years old from Wellawa.
+
+◼️
+
+[Data](articles/bee5adcd.json)
+
+[Extended Data](ext_articles/bee5adcd.ext.json)
+
+---
+
+### Action will be taken in connection with the port for Gurunagar - Northern Governor
+
+*2024-12-01 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200175) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Gurunagar port construction announced by Northern Province Governor. Minister of Fisheries to implement. World Fisheries Festival held. Fishermen honored. Port and main road rehabilitation requested. Local officials attend event.
+
+🟩
+
+The Governor of the Northern Province, Navethanayakan, said that the Northern Province Governor Na Vedtanayagan said that the Minister of Fisheries will take appropriate measures to construct a port for Gurunagar, which is the long -standing demand of the people of Gurunagar.
+
+The World Fisheries Festival was organized by the Gurunagar Fisheries Development Association this morning at the Gurunagar Labor Relaxation Hall.
+
+Important pillars of agriculture and fisheries Northern Province. Jaffna for the development of the people of this area. I have done various things during the time I served as the District Secretary.
+
+Sudarshan, who is the Divisional Secretary of your area today and today, has played a key role in this. Hon. E. Chandrasekhar, who has been appointed as the Minister of Fisheries. He will do many for you.
+
+...
+
+[Data](articles/3f6622b6.json)
+
+[Extended Data](ext_articles/3f6622b6.ext.json)
+
+---
+
+### Relief packages provided by cricketer Mahesh Dikshana to flood victims in Eravur
+
+*2024-12-01 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200174) · `ta`
+
+Cricketer Mahesh Dikshana provides relief packages to Eravur flood victims with financial assistance from Sri Lankan National Cricket Team.
+
+🟩
+
+The Eravur Young Hero Sports Club has provided 100 packages of relief items with the financial assistance of two lakhs of rupees of the Sri Lankan National Cricket Team's star spinner Mahesh Diksana.
+
+Sri Lankan National Cricket Team's star spinner Mahesh Dikshana told the Senior Member of the Eravur Young Hero Sports Club. Mahesh Dikshana provided financial assistance at the request made through the Najikullah Social Website.
+
+Accordingly, the Young Hero Sports Club selected 100 children in flood -affected families and provided them with packets of milk and other items worth Rs.
+
+Meanwhile, the Sports Club has thanked the Sri Lankan National Cricket Team star Mahesh Diksana for the highest humanitarian work.
+
+◼️
+
+[Data](articles/29a207a1.json)
+
+[Extended Data](ext_articles/29a207a1.ext.json)
+
+---
+
+### Malaysia and Thailand flooding kills at least 12
+
+*2024-12-01 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103907/malaysia-and-thailand-flooding-kills-at-least-12) · `en`
+
+Huge flooding caused by heavy rain in Malaysia and neighbouring Thailand has killed at least 12 people, officials say.
+
+More than 122,000 people have been forced out of their homes in northern Malaysia, while in southern Thailand, around 13,000 others have also been displaced.
+
+There are fears the number could rise, as heavy rain and storm warnings remain in place.
+
+Emergency services personnel have been deployed to help rescue stranded residents and shelters are being provided.
+
+The flooding, which began earlier in the week, has seen thousands of residents evacuated in both nations.
+
+Videos on social media and local news show cars and houses submerged, and people wading through waist-deep water.
+
+One video, filmed in Thailand’s Sateng Nok district, showed rescuers carrying a baby out from a roof of a flooded home.
+
+Flooding has impacted nearly 534,000 households in southern Thailand, disaster officials said, and two hospitals had to close to prevent floodwaters from damaging medical facilities.
+
+...
+
+[Data](articles/08f3dd70.json)
+
+[Extended Data](ext_articles/08f3dd70.ext.json)
+
+---
+
+### Police investigate the birthday of LTTE leader in Valvettithurai
+
+*2024-12-01 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200173) · `ta`
+
+Police probe LTTE leader birthday celebration in Valvettithurai. Five attendees investigated, including ex-MP MK Sivajilingam. Banner with LTTE leader photo displayed. Police claim no law allows it. Youth arrested for posting image.
+
+🟩
+
+Valvettithurai police have launched an investigation into the 70th birthday of the leader of the Liberation Tigers of Tamil Eelam (LTTE) held in Valvettithurai in Jaffna.
+
+Investigations have been carried out by five persons who participated in a birthday party including former MP MK Sivajilingam.
+
+A banner with a photo of the leader of the Liberation Tigers of Tamil Eelam (LTTE) was printed and displayed for a birthday celebration at the Native House of the Liberation Tigers of Tamil Eelam (LTTE) in Valvettithurai.
+
+The Valvettithurai police, who arrived at the time, said that the photo of the LTTE leader could not be used and that there was no law.
+
+Investigations have begun on the birthday party in Jaffna as a youth from the Uruvil area has been arrested and detained by the Terrorist Prevention Division for allegedly posting a photo of the LTTE leader.
+
+◼️
+
+[Data](articles/11f3451d.json)
+
+[Extended Data](ext_articles/11f3451d.ext.json)
+
+---
+
+### Two arrested with ice and heroin in Colombo
+
+*2024-12-01 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200172) · `ta`
+
+Colombo arrests: 2 suspects caught with ice & heroin. Police seized 15g ice & 50g heroin, along with vehicles & phones.
+
+🟩
+
+Two persons have been arrested by police yesterday (30) with ice and heroin drugs during two other rounds in Colombo.
+
+15 grams of 200 milligrams of ice from the suspect has been seized by the police.
+
+Meanwhile, a suspect in the Kottawa Police Division has been arrested yesterday for possessing heroin.
+
+50 grams of 750 milligrams of heroin, car and mobile phone have been seized by the police.
+
+◼️
+
+[Data](articles/cd87202b.json)
+
+[Extended Data](ext_articles/cd87202b.ext.json)
+
+---
+
+### Flooding into homes;Snakes around!- The people of Sankanai who fear returns home
+
+*2024-12-01 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200170) · `ta`
+
+Floods displace 20 in Sankanai; snakes reported. Residents seek permanent solution to annual issue.
+
+🟩
+
+20 people from 5 families have been housed at Vaddukoddai Hindu College due to floods.
+
+They are the residents of the J /57 Grama Niladhari Division of the Sanganai Divisional Secretariat.
+
+They say that they have flooded their homes and snakes around the house.
+
+They further stated that such problems occur during the rainy season every year and that it should be resolved.
+
+◼️
+
+[Data](articles/03e2b654.json)
+
+[Extended Data](ext_articles/03e2b654.ext.json)
+
+---
 
 ### Will you get good news in 2025?
 
@@ -53,6 +253,32 @@ A spokesman for the Board said that the preparation of the proposal is in the fi
 [Data](articles/e97b7681.json)
 
 [Extended Data](ext_articles/e97b7681.ext.json)
+
+---
+
+### FBI Head of FBI under Trump
+
+*2024-12-01 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203934) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Donald Trump appointed Christopher Wray as FBI Director during his presidency. Wray succeeded James Comey after Trump fired him in 2017. Wray led the FBI through several high-profile investigations, including probes into Russian interference in the 2016 election and Hillary Clinton's email server.
+
+🟩
+
+US President Donald Trump has been named by the Federal Bureau of Federal Investigation Bureau, the Head of the Federal Investigation Bureau under his government.
+
+Pilgil was also the National Intelligence Director of the President and the National Defense Secretary at the first term of President.
+
+A powerful Trump supporter of the FBI is well known as the role of the FBI's intelligence information from the post.
+
+◼️
+
+[Data](articles/349cb20e.json)
+
+[Extended Data](ext_articles/349cb20e.ext.json)
 
 ---
 
@@ -404,6 +630,22 @@ There is a massive gap between the principles of Anura and the practical reality
 
 ---
 
+### ලග්ගල මැණික් ව්‍යාපාරිකයාගේ රු. කෝටි 7ක කොල්ලයට හිමිනමක් ඇතුළු 10ක් අල්ලයි
+
+*2024-12-01 16:50:16* · [`adalk`](https://www.ada.lk/breaking_news/ලග්ගල-මැණික්-ව්‍යාපාරිකයාගේ-රු--කෝටි-7ක-කොල්ලයට-හිමිනමක්-ඇතුළු-10ක්-අල්ලයි/11-413382) · `si`
+
+මාතලේ ලග්ගල හත්තොට අමුණ ප්‍රදේශයේ මැණික් ව්‍යාපාරිකයකුගේ නිවසක සිදුකරන ලද කෝටි හතක මැණික් හා මුදල් ස්වර්ණාභරණ  මංකොල්ලකෑමට අදාළව සැලසුම සිදුකල භික්ෂූන් වහන්සේ නමක් සමග සැකකරුවන් 10 දෙනෙකු හා මුදලින් රුපියල් ලක්ෂ 23 ක්  මැණික් ස්වර්ණාභරණ මුදල් සමග අත්අඩංගුවට ගත් බව ලග්ගල පොලිසිය පවසයි.
+
+අත්අඩංගුවට පත් වූ  හිමිනම මාවතගම මකුලාන ප්‍රදේශයේ විහාරස්ථානයක සිටි අයකි , අනෙත් සැකකරුවන්  මාවත, දඹුල්ල ,විල්ගමුව, පොල්පිතිගම, කුරුණෑගල ,බේරුවල  ප්‍රදේශයේ පදිංචි කරුවන්වන අතර සිද්ධියට අදාළ සැකකාර භික්ෂූන් වහන්සේ මාවතගම ප්‍රදේශයේ රජ මහා විහාරයක  වයස අවුරුදු (42) භික්ෂූන් වහන්සේ නමක් වන බව පොලිසිය කියයි.
+
+සැකකරුවන් කොල්ලය සදහා යොදාගත් බව කියන වෑන් රථයක් සෙල්ලම් පිස්තෝල 2 ක් සොයාගෙන ඇත. සැකකාර හිමි නමගෙන් ප්‍රශ්න කරද්දී මේ ආකාරයටම පොතුහැර ප්‍රදේශයේ පුද්ගලයකු බැද නිවසේ තිබු කිලෝ 60ක් පමණ බරැති බුදු පිළිම වහන්සේ නමක්ද සොයා ගත් බව ලග්ගල පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ධම්මික පද්මරාජ් මහතා පැවසිය
+
+...
+
+[Data](articles/062a7b2f.json)
+
+---
+
 ### Seventories of robbery reveal
 
 *2024-12-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203931) · `si`
@@ -459,6 +701,34 @@ If all the people accept the constitution, there will be no need for the provinc
 [Data](articles/4ee3913c.json)
 
 [Extended Data](ext_articles/4ee3913c.ext.json)
+
+---
+
+### Public views to propagate the sea reclamation to the development of the Galle Port
+
+*2024-12-01 16:37:59* · [`adalk`](https://www.ada.lk/breaking_news/යෝජිත-ගාලු-වරාය-සංවර්ධනයට-මුහුද-ගොඩ-කිරීම-ගැන-මහජන-අදහස්-විමසයි/11-413381) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Galle Port development: Sea reclamation plan. 45-hectare area reclaimed. Public comments due Dec 28. Environmental impact assessment available in Sinhala, Tamil, English. Project aims to create a full-fledged port.
+
+🟩
+
+The Suppleral Environmental Impact Assessment Report has been presented to the Public Examination by the Coast Conservation Department.
+
+Accordingly, the general public is able to comment the Director General of the Coast Conservation Department on December 28.
+
+This report from 30th November to 30 days from November 28, the CEA, Central Environmental Authority, Municipal Council and Fisheries Resources Department www.coastal.govThe Coast Conservation Department (Test Conservation Department) stated in Sinhala and Tamil and English language.
+
+The proposed project to develop Galle Harbor as a complete port as a complete port of Galle is scheduled to reclaim the sea to 45 hectares with two 45 meters in the port.
+
+◼️
+
+[Data](articles/debede76.json)
+
+[Extended Data](ext_articles/debede76.ext.json)
 
 ---
 
@@ -2237,323 +2507,5 @@ The state chief has acknowledged the allegations of him, but he refused to resig
 [Data](articles/a5137e9a.json)
 
 [Extended Data](ext_articles/a5137e9a.ext.json)
-
----
-
-### British citizenship raised money for a terrorist group arrested
-
-*2024-12-01 09:31:59* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රස්තවාදි-කණ්ඩායමකට-මුදල්-රැස්කළ-බ්‍රිතාන්‍ය-පුරවැසිභාවය-ලබාගත්-පුද්ගලයෙක්-අල්ලයි/11-413368) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-British citizen arrested for funding terror group in Sri Lanka. Suspect, 43, from Kilinochchi, detained at Katunayake airport in 2009. Case heard at Colombo North Criminal Court.
-
-🟩
-
-The suspect was arrested by the Colombo North Criminal Court on a duty from the Colombo North Criminal Court regarding a terrorist group from the country to be exited to a terrorist group to be collected from the same state in 2009.
-
-The suspect had been arrested when the suspect left the Katunayake airport. The suspect was a 43-year-old resident of Kilinochchi.
-
-◼️
-
-[Data](articles/75ed636b.json)
-
-[Extended Data](ext_articles/75ed636b.ext.json)
-
----
-
-### Sri Lanka's calendar cricket team to India
-
-*2024-12-01 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203919) · `si`
-
-Sri Lanka cricket team in India for tournament. Final training at NCC grounds. One-day match with Indian audio troops. Hemajith Kumara chief coach, impaired coach role.
-
-🟩
-
-The Sri Lanka Cricket Troops went to India recently for a tournament.
-
-They joined their final training session at the NCC grounds for the tournament.
-
-They are due to attend a one-day tournament with Indian audio troops.
-
-Sri Lanka's audio reserve is included in the Sri Lanka Celebrating Reserve.
-
-Hemajith Kumara is acting as the chief coach while he will work as impaired coach.
-
-◼️
-
-[Data](articles/1ec0e108.json)
-
-[Extended Data](ext_articles/1ec0e108.ext.json)
-
----
-
-### Gautam Adani breaks silence on US bribery indictment
-
-*2024-12-01 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103895/gautam-adani-breaks-silence-on-us-bribery-indictment) · `en`
-
-Adani Group founder Gautam Adani responded for the first time on Saturday to allegations by U.S. authorities that he was part of a $265 million bribery scheme, saying that his ports-to-power conglomerate was committed to world class regulatory compliance.
-
-The indictment is the second major crisis to hit Adani in just two years, sending shockwaves across India and beyond. One Indian state is reviewing a power deal with the group, France’s TotalEnergies (TTEF.PA), opens new tab decided to pause its investments and political rows over Adani have disrupted India’s parliament.
-
-“Less than two weeks back, we faced a set of allegations from the U.S. about compliance practices at Adani Green Energy. This is not the first time we have faced such challenges,” Adani said in a speech at an awards ceremony.
-
-...
-
-[Data](articles/6ea91a9a.json)
-
-[Extended Data](ext_articles/6ea91a9a.ext.json)
-
----
-
-### UNP and ejust together should contest with elepharing marks
-
-*2024-12-01 09:05:38* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-හා-සජබය-එක්ව-අලියා-ලකුණින්-තරග-කළ-යුතුයි/11-413367) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-UNP and ejust unite for elephant symbol. Deputy Leader Ruwan Wijewardene calls for unity at Siyambalawewa meeting. Ranil Wickremesinghe supports unity for future elections.
-
-🟩
-
-The UNP and the UNP's supporters, the party's supporters, will be anticipated by the party and the majority of the people in the country.
-
-Deputy Leader Ruwan Wijewardene said this at a friendly meeting held at the Siyambalawewa Tamaring Hall yesterday (30) at the Siyambalawewa Electorate.
-
-The participants were attended by the two electorates in the Gampaha District for this cordial meeting.
-
-"Members of both parties are eager to see the two parties. Some MPs talk to us in this regard. Today they also need the two parties to unite. This is also a positive response from the leading leader. There is now the time to discuss this. It should not be done without delay.
-
-Both parties are UNP supporters. We can't go on a way that we have two divides and we can go on.. We must understand this now. If the two parties unite, no force will be able to prevent our victory. They are also interested in the unity of the two parties.
-
-...
-
-[Data](articles/056d380e.json)
-
-[Extended Data](ext_articles/056d380e.ext.json)
-
----
-
-### Jeep driver remanded for the Maharagama accident
-
-*2024-12-01 08:54:52* · [`adalk`](https://www.ada.lk/breaking_news/මහරගම-අනතුරු-වැලේ-ජීප්-රියදුරු-රිමාන්ඩ්/11-413366) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Jeep driver arrested after Maharagama accident. Suspect charged with causing death, grievous hurt, dangerous driving. Remanded in custody pending trial.
-
-🟩
-
-The driver of the jeep vehicle arrested for serious injuries in Maharagama and the arrest of another person was produced before the Gangodawila Court on the 13th of this month.Mrs. Sunetha Nanayakkara ordered Magistrate Sunetha Nanayakkara.
-
-The suspect was remanded in Horana, a small depression, the south struggle.
-
-The luxury jeep on the road to Pathigoda on the road to Pathigoda on the road to Pathigoda is not controlled by Pathigoda on the road to Pathigoda on the road to Pathigoda on the road to Pathigoda on the road.The accident had occurred.
-
-A 30-year-old person who was residing in the motorcycle was killed and the decision driver was seriously injured.
-
-The suspect was produced before the court under the allegations of a miscuse, preventing an accident, unbelieving driving and serious injuries.
-
-◼️
-
-[Data](articles/c6a49582.json)
-
-[Extended Data](ext_articles/c6a49582.ext.json)
-
----
-
-### Cyclonic Storm “FENGAL” enters India, showers and strong winds continue across Sri Lanka
-
-*2024-12-01 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103894/cyclonic-storm-fengal-enters-india-showers-and-strong-winds-continue-across-sri-lanka) · `en`
-
-The Meteorology Department says the Cyclonic Storm “FENGAL” over Southwest Bay of Bengal has entered India by crossed north Tamil Nadu -Puducherry coasts at 11.30 p.m. on 30th November 2024 as a cyclonic storm.
-
-It is likely to move west-southwestwards slowly and weaken gradually into a deep depression during next 3 hours.
-
-Influence of this system on the island’s weather is further gradually reducing, the Met. Department said.
-
-Skies will be cloudy and showers or thundershowers will occur at times in Northern.
-
-Several spells of showers will occur in Western, Sabaragamuwa, North-western and North-central provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, it added.
-
-Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night.
-
-Strong winds of 50-55 kmph can be expected at times over Northern, North-central, North-western, Western, Central and Southern provinces, the advisory said.
-
-...
-
-[Data](articles/b546924b.json)
-
-[Extended Data](ext_articles/b546924b.ext.json)
-
----
-
-### Reevaluating Cabinet Appointments: Addressing Deficiencies
-
-*2024-12-01 08:19:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reevaluating-cabinet-appointments-addressing-deficiencies/) · `en`
-
-Appointments to the Cabinet of Ministers based purely and simply on meritocracy is unheard of anywhere. Most selections worldwide are broadly based on three criteria viz. experience, affiliation and representation. In general, political exposure and expertise in the relevant Ministerial functions are significant consideration besides qualifications for experiential appointments. Affiliational appointments include those within the personal networks of friendship, party alliances, trust, and loyalty to the President or Prime Minister. In countries where there is social diversity the government in principle align towards representational considerations based on socio-demographics like ethnic, religion, gender, regional and so on. Countries like Canada, Australia and the United Kingdom do have such representational allocations.
-
-...
-
-[Data](articles/83318dae.json)
-
-[Extended Data](ext_articles/83318dae.ext.json)
-
----
-
-### Three killed in fatal accidents
-
-*2024-12-01 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203918) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Fatal accidents claim 3 lives: 2 cyclists & 1 pedestrian killed in separate incidents near Colombo, Sigiriya & Kattigala.
-
-🟩
-
-Three people were killed in several fatal accidents throughout the country.
-
-The accidents occurred yesterday at Peliyagoda, Sigiriya and Kattigala Police Divisions.
-
-The Peliyagoda police station was received by a person who was traveling from a bicycle in the Kelani Bridge near the Colombo-Kandy road.
-
-Immediately, the injured police traffic divisions have died in admission to the Colombo National Hospital.
-
-The deceased is a 49 year old resident of Ampara, a resident of Ampara.
-
-Meanwhile, a pedestrian traveling through a pavement from the Dambulla - Habarana road in the Dambulla area on the Habarana road was reported in a lorry.
-
-A motorcycle was killed in a crash, which took place at the Haggala area on the Pelmadulla - Nonagama road.
-
-The deceased has been identified as a 45 year old resident of the Beraladi area.
-
-◼️
-
-[Data](articles/496e8649.json)
-
-[Extended Data](ext_articles/496e8649.ext.json)
-
----
-
-### Three arrested for excavation to obtain antiquities
-
-*2024-12-01 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203917) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 arrested for antiquity excavation in Sri Lanka. Police raided homes in Welimada & Mahiyanganaya, seizing excavation tools. Suspects aged 26, 32, 56."
-
-🟩
-
-Police have arrested three suspects in excavation to obtain antiquities.
-
-The suspects have been arrested by a raid on information received by a team of officers from the Bandarawela Divisional Investigation Bureau of the Welimada police Division.
-
-The suspects are residents of Welimada and Mahiyanganaya areas where the suspects 26, 32, 56 years.
-
-Police have also seized an area of ​​excavation and sacrifices in the possession of the suspects.
-
-◼️
-
-[Data](articles/68e660b3.json)
-
-[Extended Data](ext_articles/68e660b3.ext.json)
-
----
-
-### Males should know that males to protect in HIV in a sexual relationship
-
-*2024-12-01 06:26:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz6jq75g3llo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-HIV prevention tips for men:
-
-
-
-• Delay sex until marriage or have one faithful partner
-
-• Use condoms consistently 
-
-• Consider PrEP medication before unprotected sex
-
-• Seek immediate PEPSE treatment within 72 hours of exposure
-
-
-
-Free HIV testing available at 41 STD clinics nationwide. Contact hotline for assistance.
-
-🟩
-
-Males should know that males to protect in HIV in a sexual relationship
-
-Dr. Winda Kumarapoles said that 88% of the new HIV infected persons reported in 2023 in the year.
-
-She said it was 2: 1 rate ago 10: 1.
-
-There are a large percentage of those living with HIV nowadays.
-
-Moreover, 92 two of the 694 patients reported in 2023 were among the ages of 15 and 24.
-
-The doctor also explained the doctor about being male.
-
-"Most of the men, more of the men, they have affect their sexual routines," she said.
-
-88% of the reported men, "2023. When you observe the data between children or among women, we can see when the data has been observed in the last 10 years, "she said.
-
-"Finding online partners through the Internet and addictive sexual education and drug addiction, Dr. Wirda Kumarapoles said.
-
-How do you know if you have a STD?
-
-...
-
-[Data](articles/5532ae06.json)
-
-[Extended Data](ext_articles/5532ae06.ext.json)
-
----
-
-### Showers in several areas today
-
-*2024-12-01 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203916) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Heavy rain/thunderstorms expected in northern regions, western, central, and southern provinces. Strong winds (50-55 km/h) possible. Cyclone Fenguella moving west-southwest, affecting island weather.
-
-🟩
-
-The Meteorology Department says that the northern sky is heavy from the Walakulas and there are several showers or thundershowers.
-
-Several spells of showers in the Western, Sabaragamuwa, North Western and North-Central provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in the evening or even night.
-
-From time to time in the Northern, North Central, North-central, Western, Central and Southern provinces.. The Met Department further stated that strong winds can occur 50-55.
-
-Meanwhile, the fengel was hit in the Bay of Bengal Bay of Bengal 2024. The Meteorology Department says that at 11.30, the Met Department said that the North Tamil Nadu - Puducheri coastline.
-
-It is slowly traveling to the West-southwest and weaken towards the west-southwest depression in the next 3 hours and is further declining the island weather.
-
-◼️
-
-[Data](articles/8f948c72.json)
-
-[Extended Data](ext_articles/8f948c72.ext.json)
 
 ---

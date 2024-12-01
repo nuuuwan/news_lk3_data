@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 06:22:09**
+As of **2024-12-01 05:53:18**
 
 ## Newspaper Stats
 
-*Scraped **57,789** Articles*
+*Scraped **57,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,449
 adaderanalk | 7,002
-tamilmirrorlk | 8,215
+tamilmirrorlk | 8,214
 virakesarilk | 9,433
 adaderanasinhalalk | 9,985
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,781 (100.0%) of 57,789 articles have been extended.
+57,781 (100.0%) of 57,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### வெள்ள அபாய எச்சரிக்கை நீடிப்பு
-
-*2024-12-01 02:38:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-348030) · `ta`
-
-தெதுரு ஓயா மற்றும் மகாவலி கங்கையை அண்மித்த தாழ்வான பகுதிகளுக்கு விடுக்கப்பட்ட வெள்ள அபாய எச்சரிக்கை நீடிக்கப்பட்டுள்ளது.
-
-இதற்கமைய அடுத்த 24 மணித்தியாலங்களுக்கு வெள்ள அபாய எச்சரிக்கை அமுலில் இருக்கும் என நீர்ப்பாசன திணைக்களம் நேற்று (30) மாலை அறிவித்தது.
-
-தெதுரு ஓயா மற்றும் மகாவலி கங்கையை அண்மித்த பகுதிகளில் வசிக்கும் பொதுமக்களும், அப்பகுதியின் ஊடாக வீதிகளில் பயணிக்கும் வாகன சாரதிகளும் மிகுந்த அவதானத்துடன் செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளனர். (a)
-
-◼️
-
-[Data](articles/f87ce08c.json)
-
----
 
 ### Random climate: casualties
 
@@ -2417,5 +2401,23 @@ The ambulances, each valued at approximately $ 100,000, will enhance the emergen
 [Data](articles/ee5d5450.json)
 
 [Extended Data](ext_articles/ee5d5450.ext.json)
+
+---
+
+### International call for education to be centred on Human Rights
+
+*2024-11-30 04:38:42* · [`dailyftlk`](https://www.ft.lk/news/International-call-for-education-to-be-centred-on-Human-Rights/56-769905) · `en`
+
+Announcement of Je’anna Clements and Sifaan Zavahir’s session at INSPIRE Education Summit where Declaration of Child Rights-Centric Education was launched
+
+The Rights Centric Education Network (“RCE Network”), an international movement of Human Rights defenders advocating for Rights in, to, and through education, launched the “Declaration of Child Rights-Centric Education” on the 35th Anniversary of the UN Convention on the Rights of the Child (UNCRC), amplifying the call of the United Nations to centre education on Human Rights.
+
+The Declaration calls for education of children, wherever it takes place and whatever form it takes, to be fundamentally reworked to ensure that it is consistent with human rights values and principles, especially the UNCRC, which, for the first time in history, recognised children as subjects of their own rights.
+
+...
+
+[Data](articles/1a12691d.json)
+
+[Extended Data](ext_articles/1a12691d.ext.json)
 
 ---

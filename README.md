@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 19:03:49**
+As of **2024-12-01 19:26:27**
 
 ## Newspaper Stats
 
-*Scraped **57,892** Articles*
+*Scraped **57,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,464
+adalk | 5,465
 adaderanalk | 7,015
 tamilmirrorlk | 8,229
 virakesarilk | 9,471
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,891 (100.0%) of 57,892 articles have been extended.
+57,893 (100.0%) of 57,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### 2025இல் நல்ல செய்தி வருமா?
+### Will you get good news in 2025?
 
 *2024-12-01 18:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025இல்-நல்ல-செய்தி-வருமா/175-348063) · `ta`
 
-மின் கட்டண திருத்த யோசனை எதிர்வரும் 6ஆம் திகதி மின்சார சபையினால் பொதுப் பயன்பாட்டு ஆணைக்குழுவிடம் கையளிக்கப்படவுள்ளது.
+Here's a summary in 200 characters:
 
-இதற்கான முன்மொழிவை தயாரிக்கும் பணிகள் இறுதி கட்டத்தில் உள்ளதாக வாரியத்தின் செய்தித் தொடர்பாளர் தெரிவித்தார்.
+
+
+Electricity Board hands plan to Public Utilities Commission on June 6. Spokesman says proposal nearly ready. Will 2025 bring good news?
+
+🟩
+
+The Electricity Board's idea will be handed over to the Public Utilities Commission on the 6th of this month.
+
+A spokesman for the Board said that the preparation of the proposal is in the final stages.
 
 ◼️
 
 [Data](articles/e97b7681.json)
+
+[Extended Data](ext_articles/e97b7681.ext.json)
 
 ---
 
@@ -449,6 +459,30 @@ If all the people accept the constitution, there will be no need for the provinc
 [Data](articles/4ee3913c.json)
 
 [Extended Data](ext_articles/4ee3913c.ext.json)
+
+---
+
+### Here's why the AIDS rises among new young people
+
+*2024-12-01 16:27:30* · [`adalk`](https://www.ada.lk/breaking_news/නව-යෞවනයන්-අතර-ඒඩ්ස්-ඉහළ-යන්න-හේතුව-මෙන්න/11-413380) · `si`
+
+AIDS rise among youth: 15% of new cases aged 15-24. Director cites lack of proper sex education and increased partner seeking as factors.
+
+🟩
+
+The National STD / AIDS eradication program says that among the new youths have risen infections of the HIV virus, including the discovery of partners and innovative educational.
+
+Director of Commerce Director of the program, Dr. Windya Kumipaleli, said that 15 percent of HIV infected persons reported in the past year have been younge between 15 and 24 years old. Speaking at a press conference held in the Health Promotion Bureau, Ms. Skaripaleli made these comments.
+
+"Last year, 694 cases of new HVI viruses have been reported in our country. When you look at the data, the number of new people in the HVI virus will increase rapidly. In view of the data between the youth, 15% new teenagers between 15 and 24 years.
+
+We see this about this, we see that this is the reason why we find new contact partners through various source techniques. If not, it is not properly sex education. Among young people adds to the youth addictions among young people. "
+
+◼️
+
+[Data](articles/8bbe41d7.json)
+
+[Extended Data](ext_articles/8bbe41d7.ext.json)
 
 ---
 
@@ -2521,27 +2555,5 @@ It is slowly traveling to the West-southwest and weaken towards the west-southwe
 [Data](articles/8f948c72.json)
 
 [Extended Data](ext_articles/8f948c72.ext.json)
-
----
-
-### Extension of flood hazards
-
-*2024-12-01 02:38:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-348030) · `ta`
-
-Flood warning extended: Teduru Oya, Mahaweli Ganga. Low-lying areas affected. 24-hour warning issued. Public and drivers advised to exercise caution.
-
-🟩
-
-The flood warning has been extended to the low -lying areas of Teduru Oya and Mahaweli Ganga.
-
-The Irrigation Department announced yesterday evening that the flood warning will be in force for the next 24 hours.
-
-The public living in the nearby areas of Theduru Oya and the Mahaweli Ganga, and the drivers traveling on the streets through the area have been advised to act with great care.. (A)
-
-◼️
-
-[Data](articles/f87ce08c.json)
-
-[Extended Data](ext_articles/f87ce08c.ext.json)
 
 ---

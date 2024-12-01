@@ -1,36 +1,200 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 05:53:18**
+As of **2024-12-01 09:34:30**
 
 ## Newspaper Stats
 
-*Scraped **57,788** Articles*
+*Scraped **57,799** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 441
+dbsjeyarajcom | 442
 colombotelegraphcom | 588
 bbccomsinhala | 602
-islandlk | 3,476
+islandlk | 3,477
 economynextcom | 3,512
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,449
-adaderanalk | 7,002
-tamilmirrorlk | 8,214
-virakesarilk | 9,433
-adaderanasinhalalk | 9,985
+adalk | 5,450
+adaderanalk | 7,004
+tamilmirrorlk | 8,215
+virakesarilk | 9,434
+adaderanasinhalalk | 9,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,781 (100.0%) of 57,788 articles have been extended.
+57,788 (100.0%) of 57,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### திருகோணமலை பகுதியில் மாமரத்தில் இருந்து விழுந்து 12 வயது சிறுமி மரணம்
+
+*2024-12-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200108) · `ta`
+
+திருகோணமலை- ஆயிலியடி பகுதியில் மாமரத்தில் இருந்து விழுந்து 12 வயது சிறுமியொருவர் உயிரிழந்த சம்பவம் வான்எல பொலிஸ் நிலையத்தில் பதிவாகியுள்ளது.
+
+வான்எல பொலிஸ் பிரிவிற்குட்பட்ட ஆயிலியடி  பகுதியில் மாங்காய் ஆய்வதற்காக மரத்தில் ஏறிய போது மரத்தின் கிளை உடைந்ததில் மரத்திலிருந்து சிறுமி கீழே விழுந்து உயிரிழந்துள்ளதாக தெரியவந்துள்ளது.
+
+குறித்த சம்பவ இடத்திற்கு கிண்ணியா திடீர் மரண விசாரணை அதிகாரி எம். எஸ். ஷாபி சம்பவ இடத்திற்கு நேரில் சென்று பார்வையிட்டதையடுத்து சிறுமியின் சடலத்தை சட்ட வைத்திய நிபுணரின் பரிசோதனைக்காக திருகோணமலை பொது வைத்தியசாலைக்கு கொண்டு செல்லுமாறும் பொலிஸாருக்கு உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/99e3a9bc.json)
+
+---
+
+### ශ්‍රී ලංකා ශ්‍රව්‍යාබාධිත ක්‍රිකට් කණ්ඩායම ඉන්දියාවට
+
+*2024-12-01 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203919) · `si`
+
+ශ්‍රී ලංකා ශ්‍රව්‍යාබාධිත ක්‍රිකට් කණ්ඩායම තරගාවලියක් සඳහා ඉකුත්දා ඉන්දියාව බලා පිටත්ව ගියේය.
+
+ඔවුන් තරගාවලිය වෙනුවෙන් කොළඹ එන්.සී.සී ක්‍රීඩාංගණයේ දී ඉකුත්දා සිය අවසන් පුහුණු සැසියට එක්වුණි.
+
+ඉන්දීය ශ්‍රව්‍යාබාධිත ක්‍රිකට් කණ්ඩායම සමග ඔවුන් එක්දින තරගාවලියකට සහභාගි වීමට නියමිතව තිබේ.
+
+මෙම තරග සංචාරයට එක්වන ශ්‍රී ලංකා ශ්‍රව්‍යාබාධිත සංචිතයට ක්‍රීඩකයින් 15 දෙනෙකු ඇතුළත්ය.
+
+ප්‍රධාන පුහුණුකරු ලෙස උෂාන්ත ගුණරත්න කටයුතු කරන අතර ශ්‍රවණාබාධිත පුහුණුකරු ලෙස හේමජිත් කුමාර කටයුතු කරයි.
+
+◼️
+
+[Data](articles/1ec0e108.json)
+
+---
+
+### Gautam Adani breaks silence on US bribery indictment
+
+*2024-12-01 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103895/gautam-adani-breaks-silence-on-us-bribery-indictment) · `en`
+
+Adani Group founder Gautam Adani responded for the first time on Saturday to allegations by U.S. authorities that he was part of a $265 million bribery scheme, saying that his ports-to-power conglomerate was committed to world class regulatory compliance.
+
+The indictment is the second major crisis to hit Adani in just two years, sending shockwaves across India and beyond. One Indian state is reviewing a power deal with the group, France’s TotalEnergies (TTEF.PA), opens new tab decided to pause its investments and political rows over Adani have disrupted India’s parliament.
+
+“Less than two weeks back, we faced a set of allegations from the U.S. about compliance practices at Adani Green Energy. This is not the first time we have faced such challenges,” Adani said in a speech at an awards ceremony.
+
+...
+
+[Data](articles/6ea91a9a.json)
+
+---
+
+### Cyclonic Storm “FENGAL” enters India, showers and strong winds continue across Sri Lanka
+
+*2024-12-01 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103894/cyclonic-storm-fengal-enters-india-showers-and-strong-winds-continue-across-sri-lanka) · `en`
+
+The Meteorology Department says the Cyclonic Storm “FENGAL” over Southwest Bay of Bengal has entered India by crossed north Tamil Nadu -Puducherry coasts at 11.30 p.m. on 30th November 2024 as a cyclonic storm.
+
+It is likely to move west-southwestwards slowly and weaken gradually into a deep depression during next 3 hours.
+
+Influence of this system on the island’s weather is further gradually reducing, the Met. Department said.
+
+Skies will be cloudy and showers or thundershowers will occur at times in Northern.
+
+Several spells of showers will occur in Western, Sabaragamuwa, North-western and North-central provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, it added.
+
+Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night.
+
+Strong winds of 50-55 kmph can be expected at times over Northern, North-central, North-western, Western, Central and Southern provinces, the advisory said.
+
+...
+
+[Data](articles/b546924b.json)
+
+---
+
+### මාරක අනතුරු කිහිපයකින් තිදෙනෙක් මරුට
+
+*2024-12-01 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203918) · `si`
+
+දිවයින පුරා සිදුවූ මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයන් තිදෙනෙකු මියගොස් තිබේ.
+
+ඊයේ (30) එම අනතුරු සිදුව තිබුණේ,  පෑලියගොඩ, සීගිරිය සහ කුට්ටිගල යන පොලිස් වසම්වලදීය.
+
+කොළඹ - මහනුවර මාර්ගයේ කැලණි පාලම ආසන්න ප්‍රදේශයේදී පාපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකු බරපතළ තුවාල ලබා මාර්ගයේ වැටී සිටින බවට පෑලියගොඩ පොලිස් ස්ථානයට තොරතුරක් ලැබී තිබුණි.
+
+වහාම ක්‍රියාත්මක වූ පොලිස් රථවාහන අංශයේ නිලධාරීන් විසින් තුවාලකරු කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+මරණකරු වයස අවුරුදු 49ක් වූ කැලණිය ප්‍රදේශයේ තාවකාලිකව පදිංචිව සිටි අම්පාර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මේ අතර දඹුල්ල - හබරණ මාර්ගයේ ඉනාමළුව ප්‍රදේශයේදී පදික මාරුවක් මතින් මාර්ගය හරහා ගමන්කළ පදිකයෙකු ලොරි රථයක ගැටී අනතුරක් සිදුව ඇත.
+
+පැල්මඩුල්ල - නෝනාගම මාර්ගයේ හාගල ප්‍රදේශයේදී යතුරුපැදියක් අත්ට්‍රැක්ටර්කය පිටුපස ගැටී සිදුවූ අනතුරින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, බෙරලනාතර ප්‍රදේශයේ පදිංචිව සිටි 45 හැවිරිදි අයෙකු බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/496e8649.json)
+
+---
+
+### පුරාවස්තු ලබා ගැනීමේ අරමුණින් කැණීම් කළ තිදෙනෙකු අත්අඩංගුවට
+
+*2024-12-01 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203917) · `si`
+
+පුරාවස්තු ලබා ගැනීමේ අරමුණින් කැණීම් කරමින් සිටි සැකකරුවන් තිදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+වැලිමඩ පොලිස් වසමේ බලතොටඇල්ල ප්‍රදේශයේදී බණ්ඩාරවෙල කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත ඊයේ (30) දින සිදුකරන ලද වැටලීමකින් සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 26, 32, හා 56 වයස්වල පසුවන වැලිමඩ සහ මහියංගනය ප්‍රදේශවල පදිංචිකරුවන් වේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සන්තකයේ තිබී කැණීම් උපකරණ හා පූජා භාණ්ඩ තොගයක්ද පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/68e660b3.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට අදත් වැසි
+
+*2024-12-01 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203916) · `si`
+
+උතුරු පළාතේ අහස වලාකුලින් බරව පවතින අතර විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, වයඹ සහ උතුරු-මැද පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
+
+සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකියි.
+
+උතුරු, උතුරුමැද, වයඹ, බස්නාහිර, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+මේ අතර නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති ෆෙන්ගල් සුළිකුණාටුව 2024 නොවැම්බර් 30 වැනි දින ප.ව. 11.30 වනවිට උතුරු තමිල්නාඩු – පුදුචේරි වෙරළ තීරය හරහා ගමන් කරමින් ඉන්දියාව තුළට ඇතුළු වී ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එය ඉදිරි පැය 3 තුළදී බටහිර-නිරිත දෙසට සෙමින් ගමන් කර ක්‍රමයෙන් ගැඹුරු පීඩන අවපාතයක් දක්වා දුර්වල වීමට ඉඩ ඇති අතර එම පද්ධතිය මගින් දිවයිනේ කාලගුණයට වන බලපෑම තවදුරටත් අඩු වෙමින් පවතී.
+
+◼️
+
+[Data](articles/8f948c72.json)
+
+---
+
+### Extension of flood hazards
+
+*2024-12-01 02:38:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-348030) · `ta`
+
+Flood warning extended: Teduru Oya, Mahaweli Ganga. Low-lying areas affected. 24-hour warning issued. Public and drivers advised to exercise caution.
+
+🟩
+
+The flood warning has been extended to the low -lying areas of Teduru Oya and Mahaweli Ganga.
+
+The Irrigation Department announced yesterday evening that the flood warning will be in force for the next 24 hours.
+
+The public living in the nearby areas of Theduru Oya and the Mahaweli Ganga, and the drivers traveling on the streets through the area have been advised to act with great care.. (A)
+
+◼️
+
+[Data](articles/f87ce08c.json)
+
+[Extended Data](ext_articles/f87ce08c.ext.json)
+
+---
 
 ### Random climate: casualties
 
@@ -170,6 +334,22 @@ The thought about the quirks and misdemeanours of most Sri Lankans which ultimat
 
 [Data](articles/783733cd.json)
 
+[Extended Data](ext_articles/783733cd.ext.json)
+
+---
+
+### Compensating a ‘parlour’ owner in Cambodia
+
+*2024-12-01 01:27:00* · [`islandlk`](http://island.lk/compensating-a-parlour-owner-in-cambodia/) · `en`
+
+I joined the ADB in Manila in November 2002. The highlight of the new job as a social safeguard specialist was the opportunity to visit and study projects in Asian countries. In 2003, I visited Cambodia to check whether the physically displaced persons of an ADB-funded highway project had received fair compensation for their lost property and adequate assistance to restore and improve their affected livelihoods and income sources.
+
+...
+
+[Data](articles/8c6ddf00.json)
+
+[Extended Data](ext_articles/8c6ddf00.ext.json)
+
 ---
 
 ### Death of ex-wife, building a bridge and contacts with JHU
@@ -185,6 +365,8 @@ It was around 9.00 p.m when Roshanne left the party with Ryan Raymond, who was t
 ...
 
 [Data](articles/3fce93fb.json)
+
+[Extended Data](ext_articles/3fce93fb.ext.json)
 
 ---
 
@@ -202,6 +384,8 @@ Mrs. Bandaranaike had an excellent grasp of foreign affairs. Foreign office vete
 
 [Data](articles/0f17f44a.json)
 
+[Extended Data](ext_articles/0f17f44a.ext.json)
+
 ---
 
 ### The Elusive Rs. 1,700
@@ -213,6 +397,8 @@ It is now six months since Ranil Wickramasinghe announced at the Kotagala May Da
 ...
 
 [Data](articles/62a980c2.json)
+
+[Extended Data](ext_articles/62a980c2.ext.json)
 
 ---
 
@@ -227,6 +413,8 @@ The unparalleled victory of JVP/NPP in the national elections of November 14, 20
 ...
 
 [Data](articles/1062e9de.json)
+
+[Extended Data](ext_articles/1062e9de.ext.json)
 
 ---
 
@@ -540,6 +728,28 @@ Accordingly, the next team registers 2025, which can be found in January 2025 an
 
 ---
 
+### ඉන්ධන මිල වෙනස් කරයි
+
+*2024-11-30 19:51:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-වෙනස්-කරයි/11-413365) · `si`
+
+අද (30) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+
+ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 02 කින් අඩුකර කර ඇති නව මිල රුපියල් 309කි.
+
+ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල වෙනස් නොවන අතර එහි මිල 371කි.
+
+ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 03 කින් වැඩි කර ඇති අත නව මිල රුපියල් 286 කි.
+
+ලංකා සුපර් ඩීසල් ලීටරයක මිල රුපියල් වෙනස් කර නොමැති අතර එහි මිල 313කි.
+
+ලංකා භූමිතෙල් ලීටරයක මිල රුපියල් 05කින් වැඩි කර ඇති අතර එහි නව මිල 188කි.
+
+◼️
+
+[Data](articles/2b5eea6d.json)
+
+---
+
 ### Sri Lanka At The Crossroads: Can The AKD Government Deliver Transformative Change?
 
 *2024-11-30 19:41:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-at-the-crossroads-can-the-akd-government-deliver-transformative-change/) · `en`
@@ -828,6 +1038,20 @@ The meeting was discussed on the current flood conditions and the ongoing activi
 
 ---
 
+### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
+
+*2024-11-30 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
+
+The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
+
+...
+
+[Data](articles/7b4fd7e2.json)
+
+[Extended Data](ext_articles/7b4fd7e2.ext.json)
+
+---
+
 ### Yall. Minister Ramalingam Chandrasekhar appointed District Coordinating Committee Chairman
 
 *2024-11-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200093) · `ta`
@@ -845,6 +1069,36 @@ Public Administration Provincial Councils and Local Government Minister AHMH on 
 [Data](articles/62c81aa4.json)
 
 [Extended Data](ext_articles/62c81aa4.ext.json)
+
+---
+
+### யாழ் தமிழ் தேசியவாதக் கோட்டைக்குள் பலமாக அடித்த “அநுர அலை”:  ஆறு யாழ்ப்பாண ஆசனங்களில் மூன்றில் தேசிய மக்கள் சக்தி வெற்றி.
+
+*2024-11-30 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85145) · `en`
+
+தேசிய மக்கள் சக்தி 2024 நவம்பர் 14  பாராளுமன்ற தேர்தலில் வரலாற்று முக்கியத்துவம் வாய்ந்த ஒரு வெற்றியைப் பதிவு செய்திருக்கிறது. ஜனதா விமுக்தி பெரமுனவை (ஜே.வி.பி.) பிரதான அங்கத்துவக் கட்சியாகக்கொண்டு 21 அரசியல் கட்சிகள், குழுக்கள் மற்றும் தொழிற்சங்கங்களை உளாளடக்கிய ஒரு கூட்டமைப்பே தேசிய மக்கள் சக்தியாகும். அது 6, 863,186 (61.6 சதவீதம் ) வாக்குகளைப் பெற்று 225 ஆசனங்களைக் கொண்ட இலங்கை பாராளுமன்றத்தில் 159 ஆசனங்களைக் கைப்பறாறியிருக்கிறது. இவற்றில் 141 ஆசனங்கள் நேரடியாக மாவட்ட அடிப்படையில் பெறப்பட்டவையாக இருக்கின்ற அதேவேளை  18 ஆசனங்கள் தேசியப்பட்டியல் மூலம் கிடைத்தவை.
+
+...
+
+[Data](articles/f21e5659.json)
+
+[Extended Data](ext_articles/f21e5659.ext.json)
+
+---
+
+### As a result of the Tamil nationalist parties splitting and contesting elections as different factions, the parliamentary representation of Tamils ​​from the north and east has been weakened even more than before. Tamil politicians had ignored the warnings given in advance in this regard.
+
+*2024-11-30 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85150) · `en`
+
+What is the future of Tamil nationalist politics in Sri Lanka? This question, which has arisen in the aftermath of the recent Parliamentary Elections, should not be viewed simply in terms of the future electoral prospects of Tamil parties. It is a question related to the anxiety regarding the prospects for the fulfillment of the legitimate political aspirations of the Tamil people.
+
+The Tamil nationalist political parties that have represented the Tamil people of the north and east in Parliament for more than 15 years since the end of the civil war have suffered a major setback in this Parliamentary Election.
+
+It seems difficult to expect that these parties, which have never shown any moral interest in introspecting on the reasons why the past struggles for the political rights of the Tamil people have not been fruitful, will look back and correct their political path after this defeat.
+
+...
+
+[Data](articles/00191f50.json)
 
 ---
 
@@ -2157,267 +2411,5 @@ Further investigations are being carried out by the Terrorist Prevention Unit. (
 [Data](articles/7030e0e7.json)
 
 [Extended Data](ext_articles/7030e0e7.ext.json)
-
----
-
-### Ohegama Police officer arrested
-
-*2024-11-30 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203885) · `si`
-
-Negombo Police CID Chief Inspector arrested for bribery over Rs 270,000 air conditioner deal in car rental dispute case.
-
-🟩
-
-The Chief Inspector of Police (CID) has been arrested by the Bribery and Corruption Commission (CID) in the Negombo Police Criminal Investigation Division regarding a bribery.
-
-The police officer has asked for bribe an air conditioner worth Rs 270,000 to assist a dispute on a car given on a rent basis and to obtain the car.
-
-The Bribery Investigation Commission (Investigation Commission) stated that the amount of money has been credited to the manager's account of the stock of the air conditioning.
-
-Accordingly, the arrest was made under the charge of bribes.
-
-◼️
-
-[Data](articles/ea995b4e.json)
-
-[Extended Data](ext_articles/ea995b4e.ext.json)
-
----
-
-### What can you do to make the retirement meaningfully?
-
-*2024-11-30 06:36:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1knyrnrjewo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Make retirement meaningful by planning ahead, staying active, and finding purpose. Address financial instability, mental health concerns, and social isolation. Engage in hobbies, travel, learn new skills, and contribute to society. Invest wisely for financial security.
-
-🟩
-
-Specialist at the Galle National Hospital, a special milestone of the lives of the job, is noted that retirement should not be considered a loss of the operation of their life.
-
-Retirement is that the retirement is to be retired, as any person has to retire for a long time.
-
-Specialist pointed out that it is important to act in advance of opportunities for certain people to make it a mentally impossible for some people.
-
-For nearly 30 years, Mohamed, who was working in the private sector, was said to have been in the past BBC Sinhala service after retirement.
-
-...
-
-[Data](articles/2c644d7d.json)
-
-[Extended Data](ext_articles/2c644d7d.ext.json)
-
----
-
-### The latest condition of the fengel
-
-*2024-11-30 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203884) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Storm Fengal: 280 affected in NE Sri Lanka. Moving NW, expected to hit tonight. Heavy rain in Northern Province & Trincomalee. Showers in Kandy, Nuwara Eliya, Galle, Matara. Thunderstorms forecasted with strong winds (50-55 mph). Public advised to prepare for temporary power outages and lightning."
-
-🟩
-
-Hurricane Fengal (Fengal) in the Bay of Bay of Bay of Baying area. At around 11.30 km. About 360 km from the Kankasanthurai. According to the Department of Meteorology, about 280 people were in the northeast.
-
-It will reach North Western and reach the North in the evening in the evening.
-
-Accordingly, the effects of this system in the island's weather is gradually diminishing this morning.
-
-However, in the Northern Province and the Trincomalee district are heavy, and at times.
-
-Mm especially in the Northern Province. 75 works at strict showers at 75.
-
-Showers will occur at times in the Kandy, Nuwara Eliya, Nuwara Eliya, Galle and Matara districts and several showers in the Western, North Western and North-central areas.
-
-Showers or thundershowers will occur at several places in the evening or night in the evening or night.
-
-From time to time in the North, North Central, North Western, East, Central and Southern provinces.. The Met Department forecasts that strong winds could be caused by 50-55.
-
-...
-
-[Data](articles/d32a1538.json)
-
-[Extended Data](ext_articles/d32a1538.ext.json)
-
----
-
-### Global negotiation outcomes on climate finance and adaptation: The road ahead after COP29
-
-*2024-11-30 05:04:35* · [`dailyftlk`](https://www.ft.lk/columns/Global-negotiation-outcomes-on-climate-finance-and-adaptation-The-road-ahead-after-COP29/4-769915) · `en`
-
-After two weeks of negotiations in Baku, Azerbaijan, COP29 ended at 5:30 a.m. during a closing plenary that lasted through the night from Saturday to Sunday, 24 November, almost two days after the scheduled closing of the sessions. Key negotiation items included climate finance and adaptation, among many others: but what are some of the main outcomes, and where does the world go from here?
-
-“COP29” is shorthand for the 29th meeting of the Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC), as well as the concurrent meetings of Parties to the Paris Agreement and the Kyoto Protocol. Since 1995, a COP was held every year except 2020, when the COVID-19 pandemic prevented the meeting. As agreed between countries, the location of the COP is subject to regional rotation, with this year’s COP filling the Eastern Europe slot, and next year’s COP (COP30) taking place in Bélem, Brazil, in the Latin American and Caribbean region.
-
-...
-
-[Data](articles/374a5003.json)
-
-[Extended Data](ext_articles/374a5003.ext.json)
-
----
-
-### Quiet revolution in greening global trade
-
-*2024-11-30 05:01:31* · [`dailyftlk`](https://www.ft.lk/opinion/Quiet-revolution-in-greening-global-trade/14-769914) · `en`
-
-By streamlining customs procedures and reducing the reliance on paper, ASYCUDA is helping nations such as ours to lower carbon emissions and enhance the environmental efficiency of global trade
-
-As the world braces for the upcoming COP29 climate summit in Baku, the chasm between environmental pledges and tangible action remains far too wide. Despite decades of promises, the global transition to a green economy is progressing at a glacial pace. If we are to meet our climate goals, we need a package of solutions that includes financing, technology transfer, investment in environmental goods and services and importantly, more practical solutions that deliver results on the ground.
-
-...
-
-[Data](articles/6823dbf4.json)
-
-[Extended Data](ext_articles/6823dbf4.ext.json)
-
----
-
-### Prabhakaran: Forgotten price of a struggle
-
-*2024-11-30 04:59:09* · [`dailyftlk`](https://www.ft.lk/opinion/Prabhakaran-Forgotten-price-of-a-struggle/14-769913) · `en`
-
-Reflecting on the life, legacy, and cost of Velupillai Prabhakaran’s revolution
-
-In 1984, in an interview with Anita Pratap, Velupillai Prabhakaran, leader of the Tamil Tigers and self-styled champion of Tamil Eelam, shared his views on the geopolitical dynamics influencing the Sri Lankan conflict: “Induction of US arms is not only a threat to the Tamil freedom movement but also to India’s national security. America’s objective, as you will certainly be aware, is not simply confined to helping the Sri Lankan army to crush the Tamil liberation struggle. Their ultimate aim is to secure a naval base at Trincomalee. Such a happening will convert the Indian Ocean into a war zone, and will increase the tension prevalent in the region.”
-
-...
-
-[Data](articles/36975e90.json)
-
-[Extended Data](ext_articles/36975e90.ext.json)
-
----
-
-### Pathfinder Foundation hosts 5th Dialogue with Diplomats on “Great Power Competition in Indo-Pacific”
-
-*2024-11-30 04:57:25* · [`dailyftlk`](https://www.ft.lk/opinion/Pathfinder-Foundation-hosts-5th-Dialogue-with-Diplomats-on-Great-Power-Competition-in-Indo-Pacific/14-769912) · `en`
-
-Pathfinder Foundation Chairman Bernard Goonetilleke moderating the event. General Sir John Kotelawala Defence University Centre for Strategic Assessment Director Dr. Harinda Vidanage, and former Foreign Secretary of Sri Lanka Ambassador (Retd.) H.M.G.S. Palihakkara also present
-
-Lead Presenter General Sir John Kotelawala Defence University Centre for Strategic Assessment Director Dr. Harinda Vidanage presenting his views. Commandant of the Naval & Maritime Academy of Sri Lanka Commodore Rohan Joseph, Pathfinder Foundation Chairman Bernard Goonetilleke, and former Foreign Secretary of Sri Lanka Ambassador (Retd.) H.M.G.S. Palihakkara also present
-
-...
-
-[Data](articles/fce18000.json)
-
-[Extended Data](ext_articles/fce18000.ext.json)
-
----
-
-### What was 29% of N-E Tamils’ mandate for NPP Government?
-
-*2024-11-30 04:54:08* · [`dailyftlk`](https://www.ft.lk/columns/What-was-29-of-N-E-Tamils-mandate-for-NPP-Government/4-769911) · `en`
-
-Post-war issues the north-east wanted answers for, will not get trashed merely because 29% in N-E voted for NPP
-
-Plenty is written about the JVP-led NPP in 2024 September-November elections, with many comparisons and much praise. It is a historic achievement, no doubt. It was only possible with an amateur politician Gotabaya elected president by 6.9 million voters in 2019 November totally messing up everything possible. Politically naïve and meek too, he was a total contrast to what he was projected to be, a “Hitlerite” leader. The #GotaGoHome protest campaign brought to Galle Face Green turned into a violent protest in four weeks. Re-labelled as “Aragalaya” it wrecked the entirety of traditional party politics leaving the JVP/NPP to claim they fit in best to clean up the “system”.
-
-...
-
-[Data](articles/014074df.json)
-
-[Extended Data](ext_articles/014074df.ext.json)
-
----
-
-### Foreign Minister stresses importance of ensuring safe, orderly, regular, and rights-based migration
-
-*2024-11-30 04:50:27* · [`dailyftlk`](https://www.ft.lk/opinion/Foreign-Minister-stresses-importance-of-ensuring-safe-orderly-regular-and-rights-based-migration/14-769910) · `en`
-
-Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, in a recorded video message to the High-Level Segment of the 115th Session of the International Organization for Migration (IOM) Council on 26 November 2024, stressed the importance of ensuring safe, orderly, regular, rights-based migration.
-
-The High-Level Segment of the IOM was themed: ‘Regular Migration Pathways: A Global Call for Action’, and the 115th Session of the Council was held in Geneva from 26-28 November.
-
-Migration has been a part of human existence for centuries. Today, people migrate voluntarily, primarily for work, or are compelled to do so due to natural disasters, climate change, conflict, and economic instability. In the process, they increasingly resort to irregular pathways of migration, risking their lives, and often falling victim to human trafficking.
-
-...
-
-[Data](articles/111e0289.json)
-
-[Extended Data](ext_articles/111e0289.ext.json)
-
----
-
-### Bond “scam” returns to headlines
-
-*2024-11-30 04:48:32* · [`dailyftlk`](https://www.ft.lk/columns/Bond-scam-returns-to-headlines/4-769909) · `en`
-
-Once described by Sri Lanka’s Attorney General as ‘the greatest financial loss perpetrated on the people” the so-called ‘bond scam’ has returned to the headlines.
-
-On Monday 26 November a Colombo Court ordered a former Governor of the Central Bank to report to Colombo on 25 February 2025.
-
-Arjuna Mahendran the controversial Governor at the time, is a Singaporean national of Sri Lankan origin. Mahendran, having left Colombo during the tail end of the Presidential Commission inquiring into the issuance of bonds, has not returned to Sri Lanka since.
-
-The so-called ‘bond scam’ attracted controversy within weeks of the Sirisena-Wickremesinghe Government which was grandly titled Yahapalanaya governance.
-
-The title meaning, ‘Good governance’, fell far short by the time we exposed the serious conflict of interest that seemingly manifested itself.
-
-...
-
-[Data](articles/a40a222f.json)
-
-[Extended Data](ext_articles/a40a222f.ext.json)
-
----
-
-### President says “no chance even for a simple mistake”, but officials ready to make big ones
-
-*2024-11-30 04:43:56* · [`dailyftlk`](https://www.ft.lk/columns/President-says-no-chance-even-for-a-simple-mistake-but-officials-ready-to-make-big-ones/4-769908) · `en`
-
-The Government is heading to make a serious mistake unintentionally in another area by lifting the ban on vehicle imports
-
-President Anura Kumara Dissanayake at the inauguration of the first session of the 10th Parliament delivering a speech, said that the NPP Government must go with the IMF framework and the previous administration’s debt restructuring agreements as they have been endorsed by the IMF. It is true. Renegotiating for a new Debt Sustainability Analysis (DSA) is now dead. That is good, because we must end this process as early as possible to enter a new beginning.
-
-If the Net Present Value analysis proves beneficial for us to ensure debt sustainability even under the macro-linked bond mechanism we must finish this process. The NPP Government is going to do it possibly by the end of December this year. It is a great consolation.
-
-...
-
-[Data](articles/df619e00.json)
-
-[Extended Data](ext_articles/df619e00.ext.json)
-
----
-
-### Japan donates two fully equipped ambulances to BIA and Colombo Port
-
-*2024-11-30 04:39:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-donates-two-fully-equipped-ambulances-to-BIA-and-Colombo-Port/56-769906) · `en`
-
-The Bandaranaike International Airport (BIA) and the Colombo Port received two fully equipped ambulances as part of the ongoing Border Health Project, funded by the Government of Japan and implemented by the International Organisation for Migration (IOM).
-
-On behalf of the Transport, Highways, Ports and Civil Aviation Ministry, the donation was handed to Airport and Aviation Services (Sri Lanka) Ltd. (AASL) Chairman Air Chief Marshal H.D. Abeywickrema (Retd.) by Japanese Embassy Minister/Deputy Head of Mission Kamoshida Naoki in the presence of senior officials of the Ministry, AASL, and IOM.
-
-The ambulances, each valued at approximately $ 100,000, will enhance the emergency health preparedness of the Points of Entry (PoE) in line with International Health Regulations (2005).
-
-...
-
-[Data](articles/ee5d5450.json)
-
-[Extended Data](ext_articles/ee5d5450.ext.json)
-
----
-
-### International call for education to be centred on Human Rights
-
-*2024-11-30 04:38:42* · [`dailyftlk`](https://www.ft.lk/news/International-call-for-education-to-be-centred-on-Human-Rights/56-769905) · `en`
-
-Announcement of Je’anna Clements and Sifaan Zavahir’s session at INSPIRE Education Summit where Declaration of Child Rights-Centric Education was launched
-
-The Rights Centric Education Network (“RCE Network”), an international movement of Human Rights defenders advocating for Rights in, to, and through education, launched the “Declaration of Child Rights-Centric Education” on the 35th Anniversary of the UN Convention on the Rights of the Child (UNCRC), amplifying the call of the United Nations to centre education on Human Rights.
-
-The Declaration calls for education of children, wherever it takes place and whatever form it takes, to be fundamentally reworked to ensure that it is consistent with human rights values and principles, especially the UNCRC, which, for the first time in history, recognised children as subjects of their own rights.
-
-...
-
-[Data](articles/1a12691d.json)
-
-[Extended Data](ext_articles/1a12691d.ext.json)
 
 ---

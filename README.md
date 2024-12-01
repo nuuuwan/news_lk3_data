@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 15:00:41**
+As of **2024-12-01 15:12:00**
 
 ## Newspaper Stats
 
-*Scraped **57,842** Articles*
+*Scraped **57,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,458
-adaderanalk | 7,011
-tamilmirrorlk | 8,222
+adalk | 5,459
+adaderanalk | 7,012
+tamilmirrorlk | 8,224
 virakesarilk | 9,444
 adaderanasinhalalk | 9,997
 
@@ -26,11 +26,85 @@ adaderanasinhalalk | 9,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,842 (100.0%) of 57,842 articles have been extended.
+57,842 (100.0%) of 57,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### பிரபாகரனின் பிறந்த நாளை கொண்டாடிய அறுவரிடம் விசாரணை
+
+*2024-12-01 15:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனின்-பிறந்த-நாளை-கொண்டாடிய-அறுவரிடம்-விசாரணை/175-348048) · `ta`
+
+தமிழீழ விடுதலைப்புலிகளின் தலைவர் வே. பிரபாகரனின் பிறந்த நாள் கொண்டாடப்பட்ட சம்பவம் தொடர்பில் வல்வெட்டித்துறை பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+கடந்த 26ஆம் திகதி புலிகளின் தலைவர் வே. பிரபாகரனின் பிறந்த நாளன்று  முன்னிட்டு வடமாகாண சபையின் முன்னாள் உறுப்பினர் எம்.கே சிவாஜிலிங்கத்தின் ஏற்பாட்டில் , புலிகளின் தலைவரின் பூர்வீக வீடு அமைந்திருந்த காணியில் கேக் வெட்டி , மரநடுகை மேற்கொள்ளப்பட்டு, பிறந்த நாள் கொண்டாடப்பட்டது.
+
+அவ்வேளை அங்கு வருகை தந்திருந்த வல்வெட்டித்துறை பொலிஸார் , புலிகளின் தலைவரின் படத்தை அகற்றி விட்டு நிகழ்வை நடத்த அறிவுறுத்தினர்.
+
+அதனை அடுத்து, ஏற்பாட்டாளர்கள் புலிகளின் தலைவரின் படத்தை மறைத்து விட்டு நிகழ்வை முன்னெடுத்து இருந்தனர்.
+
+நிகழ்வின் ஏற்பாட்டாளர் சிவாஜிலிங்கத்தை வாக்கு மூலம் வழங்க பொலிஸ் நிலையம் அழைத்த போது, சுகவீனம் காரணமாக வருகை தர முடியாது என பொலிஸாருக்கு தெரியப்படுத்தியதை அடுத்து, பொலிஸார் சிவாஜிலிங்கம் வீட்டிற்கு சென்று வாக்கு மூலங்களை பெற்றுள்ளனர்.
+
+...
+
+[Data](articles/12313cad.json)
+
+---
+
+### விசேட வேலைத்திட்டம்
+
+*2024-12-01 14:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வேலைத்திட்டம்/175-348047) · `ta`
+
+பண்டிகைக் காலத்தில் சந்தையில் நுகர்வோருக்கு ஏற்படக்கூடிய அநீதிகளைத் தடுப்பதற்காக நுகர்வோர் விவகார அதிகார சபை விசேட வேலைத்திட்டமொன்றை நடைமுறைப்படுத்தியுள்ளது.
+
+அதன்படி, திங்கட்கிழமை (01) முதல் ஜனவரி 15ம் திகதி வரை சில்லறை வர்த்தக நிலையங்கள் மற்றும் பல்பொருள் அங்காடிகளில் சோதனை நடத்தப்படவுள்ளது.
+
+பண்டிகைக் காலங்களில் நுகர்வோரால் அதிகளவில் கொள்வனவு செய்யப்படும் ஆடைகள், நீடித்து நிலைத்திருக்கும் பொருட்கள், மின் உபகரணங்கள் மற்றும் அத்தியாவசியப் பொருட்கள் விற்பனை செய்யும் வர்த்தக நிலையங்கள் தொடர்பில் விசேட கவனம் செலுத்தப்பட உள்ளதாக அதிகாரசபை தெரிவித்துள்ளது.
+
+இந்த சோதனைகளை மேற்கொள்ளும்போது, ​​வர்த்தக நிலையங்களில் குறிப்பிட்ட விலையில் பொருட்களை விற்பனை செய்வதற்கான முறையான விலைப்பட்டியல் காட்சிப்படுத்தல், பொருட்களை விற்பனை செய்யும் போது அதற்கான பற்றுச்சீட்டு வழங்குவதன் ஊடாக வழக்கமான வர்த்தகம் நடைபெறுவதை உறுதி செய்வதிலும் அதிக கவனம் செலுத்தப்படவுள்ளது.
+
+இது தவிர, தொலைபேசி வர்த்தகம் மற்றும் சலுகை விற்பனை போன்றவற்றிலும் அதிகாரசபை கண்காணிப்பை மேற்கொள்ளவுள்ளது.
+
+...
+
+[Data](articles/b41452bb.json)
+
+---
+
+### Uptick in AIDS cases reported in Sri Lanka – health officials
+
+*2024-12-01 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103903/uptick-in-aids-cases-reported-in-sri-lanka-health-officials-) · `en`
+
+World AIDS Day 2024 is observed today (Dec. 1) under the theme “Take the Rights Path: My Health, My Right!”
+
+The World Health Organization (WHO) is emphasizing that the world can end AIDS (Acquired Immuno Deficiency Syndrome) as a public health threat by 2030, provided that human rights are upheld and communities lead the way.
+
+In this year’s campaign, WHO is calling on global leaders and citizens to champion the right to health by addressing the inequalities that hinder progress in ending AIDS.
+
+Although the WHO European Region has made progress in tackling HIV, significant challenges remain in identifying and treating cases, as well as preventing new infections in the first place.
+
+Furthermore, in the local context, Sri Lanka is recognized as a country with a relatively low prevalence of AIDS, despite which recent reports from health officials indicate an alarming rise in AIDS cases within the country, compared to previous years.
+
+...
+
+[Data](articles/4ff5dcd1.json)
+
+---
+
+### ආනයනික ලොකු ලූනු වෙළඳ බද්ධ ගැන රජය ගත්ත තීරණය මෙන්න
+
+*2024-12-01 13:52:48* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-ලොකු-ලූනු-වෙළඳ-බද්ධ-ගැන-රජය-ගත්ත-තීරණය-මෙන්න/11-413374) · `si`
+
+ආනයනික ලොකු ලූනු සඳහා වන වෙළඳ බද්ධ අඩු කිරීමට මුදල් අමාත්‍යාංශය පියවර ගෙන තිබේ.
+
+ඒ අනුව මෙතෙක් රුපියල් 30ට තිබුණු මෙම වෙළඳ බද්ධ රුපියල් 10ක් දක්වා අඩු කර ඇත.
+
+◼️
+
+[Data](articles/57a3258d.json)
+
+---
 
 ### Increase in AIDS in Sri Lanka compared to last years
 
@@ -2357,119 +2431,5 @@ Chandimal's and Dananjaya's relationship with Chandimal and Dananjaya's relation
 [Data](articles/5f317a12.json)
 
 [Extended Data](ext_articles/5f317a12.ext.json)
-
----
-
-### Resolution to cancel a number of parliamentary committees
-
-*2024-11-30 17:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-குழுக்கள்-பலவற்றை-இரத்து-செய்ய-தீர்மானம்/175-348013) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Parliament cancels/replaces committees amid financial concerns. Government orders review of appointments. Focus on efficient implementation of committee recommendations.
-
-🟩
-
-The Committee for Parliamentary Affairs has decided to cancel or replace several groups of parliament, which is said to have been arbitrarily appointed during the last government.
-
-The decision is said to have been made after the government discovered a large amount of money due to the appointment of these groups.
-
-The Parliamentary Affairs Committee has already ordered the relevant authorities to review the appointment of parliamentary committees and submit the proposals before January 31.
-
-A government spokesman said that as many departmental monitoring committees have been appointed to the same issues, such as being brought under a committee.
-
-He noted that many departmental monitoring committees related to various sectors of the economy have been appointed in the past and can be brought under the same committee.
-
-At the same time, the government has also focused on establishing a mechanism that employs the recommendations of parliamentary committees without delay.
-
-◼️
-
-[Data](articles/f6ddcf0b.json)
-
-[Extended Data](ext_articles/f6ddcf0b.ext.json)
-
----
-
-### Change in opposition leadership positions?
-
-*2024-11-30 17:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எதிர்க்கட்சி-தலைமை-பதவிகளில்-மாற்றம்/150-348012) · `ta`
-
-Opposition leadership change: Parties consult transferring leaders. Restructuring aims to strengthen parties for elections. Committees to investigate shortcomings. Public input sought on SLFP changes. Youth empowerment in restructuring process.
-
-🟩
-
-In a statement issued by the parties, it has been consulted on the transfer of many opposition leaders, including the Samaki Jan. Balavayaka and the Sri Lanka PA.
-
-There are already ideas that the opposition parties should be reorganized as they have to strengthen the party mechanism to face the upcoming election. It is known that these condition changes under this restructuring program.
-
-In the meantime, the respective party leaders are intended to appoint special committees to investigate the shortcomings of the opposition political parties.
-
-In this case, a party spokesman said that the public is looking forward to getting public views on the changes to be made in the SLFP.
-
-Meanwhile, party leaders have also decided to give youth more opportunity in party restructuring.
-
-◼️
-
-[Data](articles/747b060e.json)
-
-[Extended Data](ext_articles/747b060e.ext.json)
-
----
-
-### Man dies in terror accident in Maharagama
-
-*2024-11-30 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203900) · `si`
-
-A 30-year-old man named Akalanka died in a terror-related accident in Maharagama. He was a management assistant at the Presidential Secretariat. A luxury jeep collided with a motorcycle, injuring the rider who was hospitalized. The jeep driver was arrested. Separately, a mother and daughter were injured in an accident on the Southern Expressway.
-
-🟩
-
-The victim was a 30 year old man named Akalanka, a resident of Puppet.
-
-He is a management assistant in the Presidential Secretariat, police said.
-
-The accident had occurred when a luxury jeep that was driven towards the new hospital by the new hospital from the new hospital from the new hospital by the new hospital by the motorcycle.
-
-The injured motorcyclist was admitted to the Sri Jayewardenepura Hospital.
-
-The driver of the jeep has been arrested in connection with the accident.
-
-Meanwhile, a mother and daughter were injured in an accident near President Girlika Vidyalaya on the Southern Expressway.
-
-There were 4 people in the car and the woman in the back seat and her daughter were injured.
-
-◼️
-
-[Data](articles/aaab225c.json)
-
-[Extended Data](ext_articles/aaab225c.ext.json)
-
----
-
-### Elephant attack in Vavuniya
-
-*2024-11-30 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200082) · `ta`
-
-Wild elephant attacks and kills another elephant in Vavuniya. Navy personnel dies after being attacked while getting off bus near naval base. Injured individuals rushed to hospital.
-
-🟩
-
-Poonawa police said that the death of a wild elephant in Vavuniya was killed by a wild elephant.
-
-The officer left for Colombo for work and returned to the Poonawa Naval Base by bus.
-
-Police said the elephant was attacked as he got off the bus and was on his way to the camp.
-
-The navy person who lives in Nittambuwa, who was on duty at the Poonawa Naval Base, has died.
-
-The Navy and the locals were taken to the Vavuniya Hospital, who was seriously injured in the attack, police said.
-
-◼️
-
-[Data](articles/50b4023d.json)
-
-[Extended Data](ext_articles/50b4023d.ext.json)
 
 ---

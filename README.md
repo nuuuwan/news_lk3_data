@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 02:12:53**
+As of **2024-12-02 01:11:31**
 
 ## Newspaper Stats
 
-*Scraped **57,932** Articles*
+*Scraped **57,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 590
 bbccomsinhala | 603
 islandlk | 3,477
 economynextcom | 3,517
-dailyftlk | 3,998
+dailyftlk | 3,995
 dailymirrorlk | 4,733
 adalk | 5,469
 adaderanalk | 7,017
@@ -26,63 +26,11 @@ adaderanasinhalalk | 10,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,931 (100.0%) of 57,932 articles have been extended.
+57,926 (100.0%) of 57,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?
-
-*2024-12-02 01:43:07* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-economic-revival-Traditional-8-hour-workday-or-6-hour-workday/4-769956) · `en`
-
-Sri Lanka’s path to economic recovery owes much to the commendable leadership of President Anura Kumara Dissanayake (AKD) and his dedicated team. Their focus on structural reforms and anti-corruption measures is laying the foundation for a more resilient and equitable economy.
-
-Amid these transformative efforts, a thought-provoking question emerged on social media recently: Should Sri Lanka retain the traditional eight-hour workday or explore a shorter six-hour workday? This debate touches on broader concerns about labour productivity and its critical role in driving economic growth.
-
-Labour productivity is a fundamental driver of economic progress, directly influencing GDP growth and national prosperity. According to the Solow Growth Model of Economics, long-term economic growth is fuelled by labour growth, capital accumulation, and technological advancements.
-
-...
-
-[Data](articles/d2cab081.json)
-
-[Extended Data](ext_articles/d2cab081.ext.json)
-
----
-
-### From manifesto to ministry: Practicality of NPP’s appointments
-
-*2024-12-02 01:33:35* · [`dailyftlk`](https://www.ft.lk/columns/From-manifesto-to-ministry-Practicality-of-NPP-s-appointments/4-769954) · `en`
-
-The NPP’s reliance on technocrats and professionals for key ministries underscores its commitment to expertise-driven governance
-
-The National People’s Power (NPP), following its landmark victory in the 2024 General election, has introduced a Cabinet that emphasises professionalism, inclusivity, and a break from traditional politics. While these appointments reflect the core tenets of the NPP manifesto, they also invite scrutiny regarding their feasibility and effectiveness in meeting the nation’s expectations.
-
-...
-
-[Data](articles/c7f57f39.json)
-
-[Extended Data](ext_articles/c7f57f39.ext.json)
-
----
-
-### Empowering Sri Lanka’s economic future: Imperative of strengthening SMEs and entrepreneurship
-
-*2024-12-02 01:27:34* · [`dailyftlk`](https://www.ft.lk/columns/Empowering-Sri-Lanka-s-economic-future-Imperative-of-strengthening-SMEs-and-entrepreneurship/4-769953) · `en`
-
-The recent electoral victory of the National People’s Power (NPP) party, with a two-thirds Parliamentary majority, marks a defining moment for Sri Lanka’s political and economic future. This significant mandate presents an unparalleled opportunity to introduce comprehensive policy reforms. Central to these reforms is the revitalisation of Small and Medium Enterprises (SMEs) and the promotion of entrepreneurship—key drivers for achieving sustainable economic growth and resilience.
-
-Building on previous insights: A holistic perspective on SME development
-
-The importance of fostering SMEs and entrepreneurship is not new to Sri Lanka. These topics have been at the forefront of discussions for years, as reflected in two of my previous articles:
-
-1. “Enabling SME Ecosystem – Part 1: The Need for a Holistic Approach to Develop SMEs”
-
-...
-
-[Data](articles/335b4620.json)
-
----
 
 ### Sandamini Perera shines in EY Winning Women – Class of 2024
 
@@ -97,8 +45,6 @@ The event brought together inspiring women entrepreneurs under the theme “Futu
 ...
 
 [Data](articles/0602f4e9.json)
-
-[Extended Data](ext_articles/0602f4e9.ext.json)
 
 ---
 
@@ -122,8 +68,6 @@ Combating Corruption: Implement strict measures to eliminate bribery and corrupt
 
 [Data](articles/19c80f1c.json)
 
-[Extended Data](ext_articles/19c80f1c.ext.json)
-
 ---
 
 ### Child’s guide to Central Bank’s new monetary policy instrument: Overnight Policy Rate
@@ -137,8 +81,6 @@ Since REPO bids should be below OPR and Reverse-REPO bids should be above OPR, t
 ...
 
 [Data](articles/e8c614f7.json)
-
-[Extended Data](ext_articles/e8c614f7.ext.json)
 
 ---
 
@@ -2503,5 +2445,79 @@ The luxury vehicle has been handed over to the Kesbewa Police for further invest
 [Data](articles/19fda9d7.json)
 
 [Extended Data](ext_articles/19fda9d7.ext.json)
+
+---
+
+### "Let us stand for Palestinian rights without party."
+
+*2024-12-01 11:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-பேதமின்றி-பலஸ்தீன-உரிமைகளுக்காக-நிற்போம்/175-348042) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sajith Premadasa supports Palestinian rights, emphasizing unity over divisions. He calls for action against state terrorism and promotes peace between Israelis and Palestinians through international cooperation and humanitarian efforts.
+
+🟩
+
+Opposition leader Sajith Premadasa has confirmed that the party, nationalism, religion, class and other differences are essential to ensure justice and justice for the Palestinian people.
+
+Speaking at the United Nations Unity Conference with the Palestinian people at Lakshman Kadirgamar Center in Colombo, Parliamentarian Premadasa stressed the need to take action rather than the opportunity.
+
+He said that the Palestinians should seek justice in humanitarianism and that it requires serious cooperation with the international community to achieve this.
+
+He reiterated his unwavering position in favor of Palestinian rights, and promised to stand up against state terrorism that followed Palestine, and called for decisive action against the bombing of the public in civilian areas and to act in exchange for their words.
+
+...
+
+[Data](articles/853621d6.json)
+
+[Extended Data](ext_articles/853621d6.ext.json)
+
+---
+
+### The United Nations also died as Israel was created in Palestine
+
+*2024-12-01 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200120) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Israel's creation led to UN dissolution. Statehood didn't end Israeli-Palestinian conflict. Gaza killings persist. Current "genocide" claims are controversial and disputed by many sources.
+
+🟩
+
+Israel's atrocities have not stopped even after the establishment of a state for the Jews. Israel continued to kill Palestinians in Gaza. The recent genocide of racially eradicating the Palestinians to create Gaza with Israel is now underway.
+
+◼️
+
+[Data](articles/1425dfb7.json)
+
+[Extended Data](ext_articles/1425dfb7.ext.json)
+
+---
+
+### The government will decide on Laf gas
+
+*2024-12-01 11:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்-எரிவாயு-குறித்து-அரசாங்கம்-முடிவெடுக்கும்/175-348041) · `ta`
+
+Government may import LP gas if Laf case fails; Litro gas supply not affected; decision pending on cylinder changes.
+
+🟩
+
+LP Gas is being imported to consumers and the government will decide on it if the Lafs Case fails, ”said Wasantha Samarasinghe, Minister of Commerce, Food Security and Co -operative Development.
+
+He said there was no shortage of LP gas supplied by Litro gas.
+
+'There are two LP gas companies in our country Litro and Laf. Litro Gas is currently no shortage. The reasons for the shortage in the Lal Case Market should be explained.
+
+If the government fails to intervene in importing and supply the gas, the government must make a decision. There is plenty of stock in Litro gas. If you want to change gas cylinders to address the problems faced by consumers, the government should decide on it soon. ”
+
+◼️
+
+[Data](articles/33c281c0.json)
+
+[Extended Data](ext_articles/33c281c0.ext.json)
 
 ---

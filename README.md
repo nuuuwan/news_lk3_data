@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 14:01:44**
+As of **2024-12-01 14:41:58**
 
 ## Newspaper Stats
 
-*Scraped **57,840** Articles*
+*Scraped **57,842** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 442
-colombotelegraphcom | 588
+colombotelegraphcom | 589
 bbccomsinhala | 603
 islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,457
+adalk | 5,458
 adaderanalk | 7,011
 tamilmirrorlk | 8,222
 virakesarilk | 9,444
@@ -26,45 +26,83 @@ adaderanasinhalalk | 9,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,835 (100.0%) of 57,840 articles have been extended.
+57,842 (100.0%) of 57,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### පසුගිය වසරවලට සාපේක්ෂව  මෙරට ඒඩ්ස් ව්‍යාප්තියේ වැඩිවීමක්
+### Increase in AIDS in Sri Lanka compared to last years
 
 *2024-12-01 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203927) · `si`
 
-සමස්ත ලෝකය හා සැසඳීමේදී ශ්‍රී ලංකාව  සැලකෙන්නේ ඒඩ්ස් රෝග ව්‍යාප්තිය අඩු රටක් ලෙසයි.
+AIDS cases surge in Sri Lanka: 200-2021 infections increased twofold in 2022-23. Young adults (15-24) account for 15%. Health Ministry organizes march on World AIDS Day. Prime Minister calls for societal commitment to eradicate disease.
 
-කෙසේවෙතත්  පසුගිය වසරවලට සාපේක්ෂව මේ වසරේ මෙරට ඒඩ්ස් රෝග ව්‍යාප්තියේ ඉහළ යෑමක් පෙන්නුම් කරන බව සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+🟩
 
-මේ සම්බන්ධව අදහස් දක්වමින් ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන වැඩසටහනේ අධ්‍යක්ෂිකා ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය වින්ද්‍යා කුමාරිපේලි මහත්මිය පැවසුවේ පසුගිය 2020-21 වසරට සාපේක්ෂව 2022-23 වසරවලදී ඒඩ්ස් වෛරසය ආසාදය වී ඇති බවය.
+Sri Lanka is considered to be a country of AIDS as compared to the entire world.
 
-"ඒඩ්ස් රෝගය ආසනය වීම 2020-2021 වසරවලදී වාර්තා වුණේ 200 - 300ත් අතර ප්‍රමාණයක්.  නමුත් 2022-2023 වසරවල එම තත්ත්වය දෙගුණක් වෙලා තියෙනවා. පිරිමින් අතර ඒඩ්ස් රෝගයේ නව ආසාදිතයින් වැඩිවීමේ ප්‍රවණතාවයේ විශාල වැඩිවීමක් පසුගිය වසර 10 තුළ දකින්න ලැබෙනවා. එම රෝගීන්ගෙන් 15%ක්ම වයස අවුරුදු 15- 24ත් අතර යෞවන යෞවනියන්."
+However, the health sector points out that this year shows the increase in the distribution of AIDS in this year compared to last years.
 
-මේ අතර ලෝක ඒඩ්ස් මර්දන දිනයට සමගාමීව සෞඛ්‍ය අමාත්‍යංශය මගින් සංවිධාන කරනු ලැබූ පා ගමනක් අද ගොල්ෆේස් පිටියෙන් ආරම්භ වී සෞඛ්‍ය අමාත්‍යංශය දක්වා ගමන් කෙරිණි.
+Commenting in this regard, the Director of the National STD / AIDS Control Program Director Dr. Vinditi Kharipaleli said that in 2022-23 over the year 2020-21,
 
-...
+"AIDS led to between 200-2021 in 2020-2021.  නමුත් 2022-2023 වසරවල එම තත්ත්වය දෙගුණක් වෙලා තියෙනවා. In the last 10 years, the trend of the increase in the new infectedists of AIDS is seen in the past 10 years. 15% of these patients are young age 15- 24 years old. "
+
+Meanwhile, a march organized by the Ministry of Health has commenced a march organized by the Ministry of Health in parallel to the World AIDS eradication date.
+
+Prime Minister Dr. Welii Amarasuriya stated that it is the responsibility of building a conviction society to eradicate AIDS from the country.
+
+◼️
 
 [Data](articles/5e8d1bec.json)
 
+[Extended Data](ext_articles/5e8d1bec.ext.json)
+
 ---
 
-### වාහන ආනයනය ගැන අලුත්ම දැනුම්දීම
+### The ICC roots roots begin chairs J Shah begins work
+
+*2024-12-01 13:17:32* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී-මුල්-පුටු​වේ-ජේ-ෂා-වැඩ-අරඹයි/9-413373) · `si`
+
+Here's a 200-character summary:
+
+
+
+ICC Chairman Lehend starts work today (01). Previously Secretary of Indian Cricket Board.
+
+🟩
+
+The International Cricket Council (ICC) Chairman Lehend has commenced working from today (01).
+
+He worked as the Secretary of the Indian Cricket Board yesterday.
+
+◼️
+
+[Data](articles/73563690.json)
+
+[Extended Data](ext_articles/73563690.ext.json)
+
+---
+
+### Latest Notification of Vehicles
 
 *2024-12-01 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203926) · `si`
 
-එළැඹෙන වසරේ පෙබරවාරි මාසයේ සිට වාහන ආනයනය අනිවාර්යෙන්ම ආරම්භ කළ හැකි වෙතැයි අපේක්ෂා කරන බව ලංකා වාහන ආනයනකරුවන්ගේ සංගමය පවසයි.
+CEBS expects vehicle imports to start in Feb 2024. President to discuss import process. Ministry of Finance to create policy. Central Bank allocates funds. IMF approves vehicle imports. Over 600 importers to benefit.
 
-කොළඹදී පැවැති ප්‍රවෘත්ති සාකච්ඡාවකදී ඔවුන් පැවසුවේ නිසි ක්‍රමවේදයකින් යුතුව එම ක්‍රියාවලිය සිදුකිරීම සඳහා ඉදිරියේදි ජනපතිවරයා සමග සාකච්ඡා කිරීමට බලාපොරොත්තු වන බවය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ලංකා වාහන ආනයනකරුවන්ගේ සංගමයේ  සභාපති ඉන්දික සම්පත් මෙරිංචිගේ මහතා,
+The Ceylon Vehicle Importers Association (CEBS) says it is expected to be started from February to the next year.
+
+At a press conference held in Colombo, they said that they would look forward to discussing with the President to carry out the process with a proper mechanism.
+
+The President of the Ceylon Vehicle Importers Association Indika Sampath Merriyman said
 
 ...
 
 [Data](articles/089bf45e.json)
+
+[Extended Data](ext_articles/089bf45e.ext.json)
 
 ---
 
@@ -88,47 +126,69 @@ Furthermore, he claimed that the Central Bank of Sri Lanka (CBSL) has agreed to 
 
 ---
 
-### சமூக வலைத்தள சீர்கேடுகளிலிருந்து பிள்ளைகளை பாதுகாத்தல் - அவுஸ்திரேலிய அரசாங்கம் அறிமுகப்படுத்திய புதிய சட்டம்
+### Protecting children from social networking disorders - The new law introduced by the Australian government
 
 *2024-12-01 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200128) · `ta`
 
-பிள்ளைகளின் உரிமைகளுக்காக குரல் கொடுக்கும் சில தரப்புக்கள், அவுஸ்திரேலிய அரசாங்கத்தின் தடையை பேச்சுரிமை மீதான கட்டுப்பாடாக பார்க்கின்றன. வளரிளம் பருவ பிள்ளைகளின் வாழ்க்கையில் சமூக வலைதளங்கள் செலுத்தும் தாக்கம் பற்றி அவுஸ்திரேலிய அரசு புரிந்து கொள்ளவில்லை. அவர்கள் தத்தமது பிரச்சனைகளை சொல்லக்கூடிய, அவற்றைத் தீர்க்கக்கூடிய இடப்பரப்பை அரசாங்கம் முடக்குகிறது என்பது பிரதானமான விவாதம்.
+Australia introduces law to protect children from social media addiction. Critics argue it restricts free speech. Government unaware of adolescent struggles with online platforms. Debate centers on balancing protection and individual rights.
+
+🟩
+
+Some parties who voice their rights to the rights of the Australian government sees the Australian government's barrier as a restriction on speech. The Australian government does not understand the impact of social networks in the life of adolescent children. The main debate is that the government paralyzes the seat that can address their problems and solve them.
 
 ◼️
 
 [Data](articles/7d054962.json)
 
+[Extended Data](ext_articles/7d054962.ext.json)
+
 ---
 
-### நிக்கவெரட்டியவில் உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் கைது
+### Arrested in Nicweratiya with a domestic rifle
 
 *2024-12-01 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200118) · `ta`
 
-நிக்கவெரட்டிய பொலிஸ் பிரிவுக்குட்பட்ட மானபாய பிரதேசத்தில் உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் நேற்று சனிக்கிழமை (30) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-நிக்கவெரட்டிய பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+
+Person arrested in Nikaweratiya with domestic rifle. Incident occurred on Saturday in Manabaya area. Police action based on confidential tip.
+
+🟩
+
+A person was arrested by police on Saturday (30) in the Manabaya area of ​​the Nikaweratiya police division.
+
+He was arrested on the basis of confidential information received by Nikweratiya police station officials.
 
 ◼️
 
 [Data](articles/45623f14.json)
 
+[Extended Data](ext_articles/45623f14.ext.json)
+
 ---
 
-### இரத்தினபுரியில் மோட்டார் சைக்கிள் - உழவு இயந்திரம் விபத்து ; ஒருவர் உயிரிழப்பு
+### Motorcycle in Ratnapura - Plowing machine accident;Death
 
 *2024-12-01 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200114) · `ta`
 
-இரத்தினபுரி, குட்டிகல பொலிஸ் பிரிவுக்குட்பட்ட பெல்மடுல்ல நோனாகம வீதியின் பாகல பகுதியில் நேற்று சனிக்கிழமை (30) மோட்டார் சைக்கிளொன்று உழவு இயந்திரத்தின் மீது மோதியதில் ஒருவர் உயிரிழந்துள்ளார்.
+Motorcycle crashes into plowing machine in Ratnapura, killing one. Driver dies at hospital. Plowing machine operator arrested.
 
-நோனாகம நோக்கி ஆட்களை ஏற்றிச் சென்ற உழவு இயந்திரத்தின் பின்பகுதியில் அதே திசையில் வந்துகொண்டிருந்த மோட்டார் சைக்கிளொன்று மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-மோட்டார் சைக்கிளை செலுத்தியவர் மற்றும் பின்னால் அமர்ந்து சென்றவர் படுகாயமடைந்து பதலங்கல சந்திரிகாவெவ வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்றுவந்த நிலையில், மோட்டார் சைக்கிளை செலுத்தியவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+One person was killed when a motorcycle crashed into a plowing machine on Saturday (30) in the Bagala area of ​​the Belmadulla Nonagama road in the Ratnapura and Kuttikala police division.
 
-சடலம் பதலங்கல சந்திரிகாவெவ வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன் உழவு இயந்திரத்தின் சாரதி கைது செய்யப்பட்டுள்ளார்.
+The accident occurred when a motorcycle crashed into the same direction in the back of the plowing machine carrying people towards Noonama.
+
+A motorcycle driver and behind him were admitted to the Chandrikawewa Hospital in Padalangala, and the motorcycle driver died without treatment.
+
+The body has been placed in the funeral room of the Padalangala Chandrikawewa Hospital and the driver of the plowing machine has been arrested.
 
 ◼️
 
 [Data](articles/40d1b6b7.json)
+
+[Extended Data](ext_articles/40d1b6b7.ext.json)
 
 ---
 
@@ -1079,6 +1139,20 @@ Strong winds of 50-55 kmph can be expected at times over Northern, North-central
 [Data](articles/b546924b.json)
 
 [Extended Data](ext_articles/b546924b.ext.json)
+
+---
+
+### Reevaluating Cabinet Appointments: Addressing Deficiencies
+
+*2024-12-01 08:19:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reevaluating-cabinet-appointments-addressing-deficiencies/) · `en`
+
+Appointments to the Cabinet of Ministers based purely and simply on meritocracy is unheard of anywhere. Most selections worldwide are broadly based on three criteria viz. experience, affiliation and representation. In general, political exposure and expertise in the relevant Ministerial functions are significant consideration besides qualifications for experiential appointments. Affiliational appointments include those within the personal networks of friendship, party alliances, trust, and loyalty to the President or Prime Minister. In countries where there is social diversity the government in principle align towards representational considerations based on socio-demographics like ethnic, religion, gender, regional and so on. Countries like Canada, Australia and the United Kingdom do have such representational allocations.
+
+...
+
+[Data](articles/83318dae.json)
+
+[Extended Data](ext_articles/83318dae.ext.json)
 
 ---
 
@@ -2397,51 +2471,5 @@ The Navy and the locals were taken to the Vavuniya Hospital, who was seriously i
 [Data](articles/50b4023d.json)
 
 [Extended Data](ext_articles/50b4023d.ext.json)
-
----
-
-### A young family girl burns in a fire in Chettikulam
-
-*2024-11-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200081) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Young girl dies from burns in Chettikulam fire. Woman lived in Periyakulam area of Vavuniya. Rescued by neighbors and admitted to Chettikulam Hospital.
-
-🟩
-
-The woman, who was living in the Periyakulam area of ​​Vavuniya, Chettikulam, has died after being rescued by neighbors and was admitted to the Chettikulam Hospital after being rescued by neighbors.
-
-◼️
-
-[Data](articles/b9aba0a3.json)
-
-[Extended Data](ext_articles/b9aba0a3.ext.json)
-
----
-
-### Landslide warnings issued for 8 districts
-
-*2024-11-30 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103889/landslide-warnings-issued-for-8-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in 8 districts, as heavy rainfall continues in parts of the island.
-
-The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 01).
-
-Accordingly, a Level 2 (Amber) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Kandy, Kegalle, Matale and Nuwara-Eliya districts as follows:
-
-Badulla– Passara, Hali Ela, Meegahakivula and Bandarawela DSDs and surrounding areas
-
-Kandy – Yatinuwara, Udapalatha, Ududumbara, Deltota, Gangawata Koralaya, Patha Hewaheta, Harispatthuwa, Pathadumbara, Medadumbara, Doluwa, Udunuwara, Thumpane, Pujapitiya, Panwila, Pabage Koralaya, Akurana, Hatharaliyadda, Ganga Ihala Koralaya DSDs and surrounding areas
-
-Kegalle – Mawanella, Rambukkana, Warakapola, Ruwanwella, Galigamuwa, Bulathkohupitiya, Aranayake, Yatiyantota DSDs and surrounding areas
-
-...
-
-[Data](articles/50cacc87.json)
-
-[Extended Data](ext_articles/50cacc87.ext.json)
 
 ---

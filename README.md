@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 10:42:03**
+As of **2024-12-01 10:02:00**
 
 ## Newspaper Stats
 
-*Scraped **57,807** Articles*
+*Scraped **57,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,153 +18,19 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,452
 adaderanalk | 7,005
-tamilmirrorlk | 8,216
-virakesarilk | 9,436
-adaderanasinhalalk | 9,991
+tamilmirrorlk | 8,215
+virakesarilk | 9,434
+adaderanasinhalalk | 9,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,803 (100.0%) of 57,807 articles have been extended.
+57,795 (100.0%) of 57,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### மாவீரர் நினைவேந்தல்: குந்தகம் விளைவித்த மூவர் கைது
-
-*2024-12-01 10:17:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-நினைவேந்தல்-குந்தகம்-விளைவித்த-மூவர்-கைது/175-348034) · `ta`
-
-தமிழீழ விடுதலைப் புலிகளின் மாவீரர் நினைவேந்தல் நிகழ்வுகளை முன்னெடுத்துச் சென்று பொது அமைதிக்கு குந்தகம் விளைவித்த குற்றப் புலனாய்வுத் திணைக்களம் (சிஐடி) மற்றும் பயங்கரவாதப் புலனாய்வுப் பிரிவினர் (டிஐடி) மூன்று நபர்களை கைது செய்துள்ளனர்.
-
-28, 35 மற்றும் 45 வயதுடைய சந்தேகநபர்கள் மருதானை, சுன்னாகம் மற்றும் பத்தேகம பிரதேசங்களைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர்.
-
-விடுதலைப் புலிகளின் தலைவர் வேலுப்பிள்ளை பிரபாகரனின் புகைப்படங்கள் மற்றும் காணொளிகளை சமூக ஊடகங்கள் ஊடாக பரப்பியதாக அவர்கள் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
-
-பழைய காட்சிகளுடன் முந்தைய எல்.ரீ.ரீ.ஈ மாவீரர் நினைவேந்தல்களின் காணொளிகள் இந்த ஆண்டு கொண்டாட்டங்களாக அவர்கள் தரவேற்றியுள்ளனர்.
-
-வன்முறையைத் தூண்டியமை மற்றும் தடைசெய்யப்பட்ட அமைப்பின் செயற்பாடுகளை ஊக்குவிக்கும் வகையில் பொய்யான விளம்பரங்கள் மற்றும் காணொளிகளைப் பரப்பிய குற்றச்சாட்டின் பேரில் குற்றவியல் சட்டம் மற்றும் பயங்கரவாதத் தடுப்புச் சட்டம் (PTA) ஆகியவற்றின் கீழ் சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/949f02ec.json)
-
----
-
-### 12 -year -old girl dies from a mango tree in Trincomalee
-
-*2024-12-01 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200108) · `ta`
-
-12-year-old girl falls from mango tree in Trincomalee, dies. Branch breaks as she climbs to check mangoes. Body taken to hospital for examination.
-
-🟩
-
-A 12-year-old girl was killed at the Van Ela Police Station.
-
-It was reported that the girl fell down from the tree when the tree branch broke when the tree climbed into the tree to investigate the mango area of ​​the Van Ela police division.
-
-Kinniya Sudden Death Investigation Officer. S.. Shafi visited the scene and ordered the police to take the body of the girl to the Trincomalee General Hospital for examination.
-
-◼️
-
-[Data](articles/99e3a9bc.json)
-
-[Extended Data](ext_articles/99e3a9bc.ext.json)
-
----
-
-### 23,930 acres of field land in Mullaitivu;Immediate compensation to the affected farmers - Ravikaran MP
-
-*2024-12-01 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200111) · `ta`
-
-Heavy rains submerge 23,930 acres in Mullaitivu. Compensation sought for affected farmers. Officials to assess damage and provide aid promptly.
-
-🟩
-
-The Mullaitivu District Assistant Commissioner of Agrarian Development, R. Baraniyakaran said that 23,930 acres of heavy rains in the Mullaitivu district are being submerged due to heavy rains.
-
-Vanni District Parliamentarian Durairasa Ravikaran has said that steps should be taken to immediately provide compensation to the affected farmers.
-
-These issues were addressed at the Special District Coordinating Committee meeting held at the Mullaitivu District Secretariat.
-
-There, the Assistant Commissioner of the Mullaitivu District Agrarian Development Department said,
-
-It is possible to evaluate the impact conditions, as if the flood water continues in the fields.
-
-We hope that the impact of the rainfall is slowing down due to the decrease in the amount of rainfall, and that the flood water has been gradually decreasing.
-
-We accept what the department officials say that it is necessary to evaluate the agricultural impact conditions.
-
-...
-
-[Data](articles/bf85637d.json)
-
-[Extended Data](ext_articles/bf85637d.ext.json)
-
----
-
-### Special program to target festive season
-
-*2024-12-01 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203921) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Consumer Affairs Authority launches special program for festive season. Retail stores and supermarkets will be raided from Dec 15 to Jan 15. Focus on shops selling costumes, durable goods, equipment, and essentials. Emphasis on proper pricing, billing, and monitoring mobile traders and sail activities. Public informed about market surveillance efforts.
-
-🟩
-
-In the December season, customers have implemented a special program on consumer affairs to prevent the injustice in the market.
-
-Accordingly, the retail stores and supermarket raids will be implemented in this day to January 15 to January 15.
-
-The authority said that special attention is due to pay special attention to shops that sell most of the costume, durable goods, equipment and essential commodities.
-
-In making the raids, the cost of the goods, exhibition and exhibit goods and selling goods, to pay attention to the proper bills of the goods, to pay attention to a proper bill.
-
-In addition, the Authority is also to be monitored by the activities such as mobile traders and sail.
-
-The Consumer Affairs Authority said that the last few days led to the market in the past few days, he is continuously continuing to pay special attention to the market.
-
-The Authority has informed the public that the public can be provided with regard to the publication of the 1977 issue.
-
-◼️
-
-[Data](articles/7c10da32.json)
-
-[Extended Data](ext_articles/7c10da32.ext.json)
-
----
-
-### Three arrested for illegal excavation activities
-
-*2024-12-01 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200109) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 arrested for illegal archaeology excavation in Sri Lanka. Equipment & religious items seized. Suspects from Welimada & Mahiyanganaya, ages 26, 32, 56."
-
-🟩
-
-Police have arrested three suspects for illegal excavation activities for digging the archaeological system.
-
-Three suspects have been arrested in a roundabout carried out in a multi -bodhi area belonging to the Welimada Police Division on Saturday (30) based on information received by a team of officials of the Bandarawela Criminal Investigation Division.
-
-The arrested suspects are from Welimada and Mahiyanganaya, aged 26, 32 and 56.
-
-The police have seized equipment and pooja items used for excavation operations from the arrested suspects.
-
-◼️
-
-[Data](articles/975b76cb.json)
-
-[Extended Data](ext_articles/975b76cb.ext.json)
-
----
 
 ### Three arrested while digging for treasure in Balathotaella
 
@@ -182,33 +48,43 @@ Authorities have also seized excavation tools and ritual items found in the susp
 
 [Data](articles/765e56e8.json)
 
-[Extended Data](ext_articles/765e56e8.ext.json)
-
 ---
 
-### People in Valenzia in Spain
+### ස්පාඤ්ඤයේ වැලෙන්සියාහි ජනතාව විරෝධතාවක
 
 *2024-12-01 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203920) · `si`
 
-Here's a summary in 200 characters:
+ස්පාඤ්ඤයේ වැලෙන්සියා ප්‍රාන්තයට බලපෑ දරුණු ජලගැලීම් ආපදා තත්ත්වය පිළිබඳව නිසි කාලයේ දී පූර්ව අනතුරු ඇඟවීම් නිකුත් නොකළ බවට ජනතාව බලධාරීන්ට චෝදනා කරමින් විරෝධතාවයේ නිරත විය.
 
+ස්පාඤ්ඤයේ වැලෙන්සියා ප්‍රාන්තයෙන් දරුණු ජලගැලීම් ආපදාවක් වාර්තා වුණේ පසුගිය ඔක්තෝබර් මාසයේ අග භාගයේ දී ය.
 
-
-Valenzia, Spain flooding: Residents accuse authorities of late warnings. State chief acknowledges allegations but refuses resignation.
-
-🟩
-
-The people accused the authorities, accusing the authorities that the terrible flooding in Spain was not issued early warning about the disaster.
-
-Valenzia State of Spain was reported in late October last October.
-
-The state chief has acknowledged the allegations of him, but he refused to resign from office.
+ප්‍රාන්ත ප්‍රධානියා තමන්ට එල්ලවන චෝදනා පිළිගත්තත් ඔහු ධුරයෙන් ඉල්ලා අස්වීම ප්‍රතික්ෂේප කර සිටී.
 
 ◼️
 
 [Data](articles/a5137e9a.json)
 
-[Extended Data](ext_articles/a5137e9a.ext.json)
+---
+
+### 12 -year -old girl dies from a mango tree in Trincomalee
+
+*2024-12-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200108) · `ta`
+
+12-year-old girl falls from mango tree in Trincomalee, dies. Branch breaks as she climbs to check mangoes. Body taken to hospital for examination.
+
+🟩
+
+A 12-year-old girl was killed at the Van Ela Police Station.
+
+It was reported that the girl fell down from the tree when the tree branch broke when the tree climbed into the tree to investigate the mango area of ​​the Van Ela police division.
+
+Kinniya Sudden Death Investigation Officer. S.. Shafi visited the scene and ordered the police to take the body of the girl to the Trincomalee General Hospital for examination.
+
+◼️
+
+[Data](articles/99e3a9bc.json)
+
+[Extended Data](ext_articles/99e3a9bc.ext.json)
 
 ---
 
@@ -256,63 +132,39 @@ The indictment is the second major crisis to hit Adani in just two years, sendin
 
 ---
 
-### UNP and ejust together should contest with elepharing marks
+### එජාපය හා සජබය එක්ව අලියා ලකුණින් තරග කළ යුතුයි
 
 *2024-12-01 09:05:38* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-හා-සජබය-එක්ව-අලියා-ලකුණින්-තරග-කළ-යුතුයි/11-413367) · `si`
 
-Here's a summary of 200 characters:
+ඉදිරි මැතිවරණ ජයග්‍රහණය කිරීම සදහා එක්සත් ජාතික පක්ෂය හා සමගි ජන බලවේගය එකතු වී අලියා ලකුණින් තරග කළ යුතු යැයි ද මෙය එම පක්ෂ දෙකේ පාක්ෂිකයින් මෙන්ම රටේ බහුතර ජනතාවත් අපේක්ෂා කරන්නක් වන්නේ යැයිද එක්සත් ජාතික පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජයවර්ධන මහතා පැවසීය.
 
+නියෝජ්‍ය නායක රුවන් විජයවර්ධන මහතා එසේ පැවසුවේ මෙවර මහා මැතිවරණයේදී තමාට සහාය ලබා දුන් ගම්පහ දිස්ත්‍රික්කයේ පක්ෂයේ ක්‍රියාකාරීන්ට ස්තුතිය පුද කිරීම සදහා ඊයේ ( 30දා ) පෙරවරුවේ සියඹලාපේවත්ත ටැමරින් උත්සව ශාලාවේ පැවති සුහද හමුවකදීය.
 
+මේ සුහද හමුව සදහා ගම්පහ දිස්ත්‍රික්කයේ මැතිවරණ කොට්ඨාස 13 නේම ඒ මහතාට  පුර්ණ සහාය ලබා දුන් ක්‍රියාකාරීන් සහභාගි වුහ.
 
-UNP and ejust unite for elephant symbol. Deputy Leader Ruwan Wijewardene calls for unity at Siyambalawewa meeting. Ranil Wickremesinghe supports unity for future elections.
-
-🟩
-
-The UNP and the UNP's supporters, the party's supporters, will be anticipated by the party and the majority of the people in the country.
-
-Deputy Leader Ruwan Wijewardene said this at a friendly meeting held at the Siyambalawewa Tamaring Hall yesterday (30) at the Siyambalawewa Electorate.
-
-The participants were attended by the two electorates in the Gampaha District for this cordial meeting.
-
-"Members of both parties are eager to see the two parties. Some MPs talk to us in this regard. Today they also need the two parties to unite. This is also a positive response from the leading leader. There is now the time to discuss this. It should not be done without delay.
-
-Both parties are UNP supporters. We can't go on a way that we have two divides and we can go on.. We must understand this now. If the two parties unite, no force will be able to prevent our victory. They are also interested in the unity of the two parties.
+"මේ පක්ෂ දෙකේ එකමුතුකමක් දකින්නට එම පක්ෂ දෙකේම මන්ත්‍රීවරුන් පවා  මහත් ආශාවෙන් සිටිනවා. මේ සම්බන්ධව ඇතැම් මන්ත්‍රීවරුන් අප සමග කතා කරනවා. අද ඔවුන්ටත් අවශ්‍ය වී තිබෙන්නේ එම පක්ෂ දෙක එකමුතු කරන්නටයි. මීට සජබ නායකයාගෙන් ද  යහපත් ප්‍රතිචාරයක් ලැබෙමින් පවතිනවා. ඒ සදහා සාකච්ඡා කළ යුතු කාලය දැන් එළැබි තිබෙනවා. එය අපි ප්‍රමාද නොකොට සිදු කළ යුතුයි.
 
 ...
 
 [Data](articles/056d380e.json)
 
-[Extended Data](ext_articles/056d380e.ext.json)
-
 ---
 
-### Jeep driver remanded for the Maharagama accident
+### මහරගම අනතුරු වැලේ ජීප් රියදුරු රිමාන්ඩ්
 
 *2024-12-01 08:54:52* · [`adalk`](https://www.ada.lk/breaking_news/මහරගම-අනතුරු-වැලේ-ජීප්-රියදුරු-රිමාන්ඩ්/11-413366) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+අධික වේගයෙන් සුඛෝභෝගී  ජීප් රථයක් ධාවනය කරමින් මහරගම පමුණුව ප්‍රදේශයේදී වාහන හතක් අනතුරට ලක් කර  පුද්ගලයකු මරණයට පත් කර තවත් පුද්ගලයකුට බරපතල තුවාල සිදු කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත්  සැකකාර ජීප් රථ රියදුරු ගංගොඩවිල අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම මස 13 වෙනි දින දක්වා රිමාන්ඞ් භාරයේ තබන ලෙස වැඩ බලන මහේස්ත්‍රාත් සුනීතා නානායක්කාර  මහත්මිය  නියෝග කළේය.
 
+මෙලෙස රිමාන්ඞ් භාරයට පත් කරන ලද්දේ හොරණ , කුඩා උඩුව, දකුණ උඩුව පදිංචි  ජේ එච් ටි ජයසුන්දර (57) නැමැත්තෙකි.
 
+සැකකාර ජීප් රථ රියදුරු ඉකුත්( 29 ) දින නාවින්න දෙස සිට පතිරගොඩ හරහා පොල්වත්ත  දෙසට සුඛෝපභෝගී ජීප් රථය අධික වේගයෙන් ධාවනය කරමින් සිටියදී  පාලනය කරගත නොහැකි ව පමුණුව හන්දිය ආසන්නයේදී ඉදිරියෙන් ගමන් ගත් මෝටර් රථයක පිටුපස ගැටීමෙන් අනතුරුව ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි මෝටර් රථ හතරක , තීරෝද රථයක සහ යතුරුපැදියක ගැටී මෙම අනතුර සිදුවී තිබිණි.
 
-Jeep driver arrested after Maharagama accident. Suspect charged with causing death, grievous hurt, dangerous driving. Remanded in custody pending trial.
+සිදු වූ අනතුරෙන් යතුරුපැදියේ ගමන් ගත් පිළියන්දල මකුළුදූව ප්‍රදේශයේ පදිංචිව සිටි  වයස අවුරුදු 30 ක පුද්ගලයෙක් මරුමුවට පත්වූ අතර තීරෝද රථ රියදුරු බරපතල තුවාල ලැබීය.
 
-🟩
-
-The driver of the jeep vehicle arrested for serious injuries in Maharagama and the arrest of another person was produced before the Gangodawila Court on the 13th of this month.Mrs. Sunetha Nanayakkara ordered Magistrate Sunetha Nanayakkara.
-
-The suspect was remanded in Horana, a small depression, the south struggle.
-
-The luxury jeep on the road to Pathigoda on the road to Pathigoda on the road to Pathigoda is not controlled by Pathigoda on the road to Pathigoda on the road to Pathigoda on the road to Pathigoda on the road.The accident had occurred.
-
-A 30-year-old person who was residing in the motorcycle was killed and the decision driver was seriously injured.
-
-The suspect was produced before the court under the allegations of a miscuse, preventing an accident, unbelieving driving and serious injuries.
-
-◼️
+...
 
 [Data](articles/c6a49582.json)
-
-[Extended Data](ext_articles/c6a49582.ext.json)
 
 ---
 
@@ -695,8 +547,6 @@ Sir John had struck back with the Premier Stakes which he later denied having an
 ...
 
 [Data](articles/5e8fa427.json)
-
-[Extended Data](ext_articles/5e8fa427.ext.json)
 
 ---
 
@@ -2495,5 +2345,87 @@ The tournament will be held under two partners 'A' and Sri Lanka and Bangladesh 
 [Data](articles/68b17af1.json)
 
 [Extended Data](ext_articles/68b17af1.ext.json)
+
+---
+
+### African swine fever controlled to some extent, says Veterinary Association
+
+*2024-11-30 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103880/african-swine-fever-controlled-to-some-extent-says-veterinary-association) · `en`
+
+The State Veterinary Surgeons’ Association (SVSA) has announced that the spread of African swine fever has presently been brought under control to a certain extent.
+
+SVSA President Dr. Sisira Piyasiri stated that measures will be implemented to ensure that pork from farms unaffected by the disease is processed for human consumption under strict protocols.
+
+Meanwhile, farm owners have expressed concerns over the extensive damage caused by the outbreak, with many farms being completely devastated.
+
+They urged the government to take immediate steps to provide compensation to help rebuild their businesses.
+
+◼️
+
+[Data](articles/223dd777.json)
+
+[Extended Data](ext_articles/223dd777.ext.json)
+
+---
+
+### Police OIC arrested over bribery allegations
+
+*2024-11-30 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103879/police-oic-arrested-over-bribery-allegations) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has apprehended the Officer-in-Charge (OIC) of the Divisional Criminal Investigation Unit of the Negombo Police Station on charges of bribery.
+
+According to reports, the officer in question allegedly demanded an air conditioner valued at Rs. 270,000 as a bribe to investigate a dispute involving a car rented out on a lease agreement and to facilitate the return of the vehicle through legal channels.
+
+The CIABOC revealed that the requested amount was credited to the account of the manager of the store where the complainant purchased the air conditioner.
+
+Accordingly, the arrest was carried under the charge of bribery.
+
+◼️
+
+[Data](articles/7fb8e375.json)
+
+[Extended Data](ext_articles/7fb8e375.ext.json)
+
+---
+
+### Sri Lanka current dollar inflows exceed imports by US$549mn in October
+
+*2024-11-30 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-dollar-inflows-exceed-imports-by-us549mn-in-october-190954/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross current foreign exchange inflows of 2,251 million dollars have exceeded goods imports of 1,702 by 549 million US dollars in October 2024, official data released by the central bank shows.
+
+Current inflows were made up 1,158 million dollars of goods exports, remittances of 587 million dollars and gross services of 587.7 million dollars which includes tourist earnings estimate of 185.6 million US dollars.
+
+Total services outflows were reported as 283.8 million dollars of which travel abroad was 58.5 million US dollars.
+
+All inflows are eventually go out of the country as direct spending by recipients on imports and services, spending by subsequent recipients or savings that are invested.
+
+Money saved in banks are in turn given for investment projects which in turn generate imports.
+
+In October investment goods and base metals were 381 million US dollars, up from 360 million dollars in September.
+
+...
+
+[Data](articles/b5cc39f9.json)
+
+[Extended Data](ext_articles/b5cc39f9.ext.json)
+
+---
+
+### In a shock offensive, insurgents breach Syria’s largest city for the first time since 2016
+
+*2024-11-30 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103878/in-a-shock-offensive-insurgents-breach-syrias-largest-city-for-the-first-time-since-2016-) · `en`
+
+Insurgents breached Syria’s largest city Friday and clashed with government forces for the first time since 2016, according to a war monitor and fighters, in a surprise attack that sent residents fleeing and added fresh uncertainty to a region reeling from multiple wars.
+
+The advance on Aleppo followed a shock offensive launched by insurgents Wednesday, as thousands of fighters swept through villages and towns in Syria’s northwestern countryside. Residents fled neighborhoods on the city’s edge because of missiles and gunfire, according to witnesses in Aleppo. The Syrian Observatory for Human Rights, which monitors the country’s unresolved civil war, said dozens of fighters from both sides were killed.
+
+The attack injected new violence into a region experiencing dual wars in Gaza and Lebanon involving Israel, and other conflicts, including the Syrian civil war that began in 2011.
+
+...
+
+[Data](articles/18d7751d.json)
+
+[Extended Data](ext_articles/18d7751d.ext.json)
 
 ---

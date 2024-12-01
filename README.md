@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 12:28:27**
+As of **2024-12-01 12:42:02**
 
 ## Newspaper Stats
 
-*Scraped **57,822** Articles*
+*Scraped **57,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,454
-adaderanalk | 7,009
+adaderanalk | 7,010
 tamilmirrorlk | 8,220
-virakesarilk | 9,437
-adaderanasinhalalk | 9,993
+virakesarilk | 9,441
+adaderanasinhalalk | 9,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,821 (100.0%) of 57,822 articles have been extended.
+57,821 (100.0%) of 57,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### இறக்குமதி செய்யப்படும் பெரிய வெங்காயத்துக்கான விசேட பொருட்கள் வரி குறைப்பு!
+
+*2024-12-01 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200129) · `ta`
+
+இறக்குமதி செய்யப்படும் ஒரு கிலோ கிராம் பெரிய வெங்காயத்துக்கான விசேட பொருட்கள் வரியை குறைக்க நிதி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+
+இதன்படி, பெரிய வெங்காயத்துக்கான விசேட வரியை 30 ரூபாயில் இருந்து 10 ரூபாவாக குறைக்க அரசாங்கம் தீர்மானித்துள்ளது.
+
+அதன் அடிப்படையில், இறக்குமதி செய்யப்படும் ஒரு கிலோ உருளைக்கிழங்கின் விசேட பொருட்கள் வரி 60 ரூபாயாக காணப்படுகிறது.
+
+இந்த வரி திருத்தங்கள் தொடர்பாக வர்த்தமானி அறிவித்தலில் வெளியிடப்பட்டுள்ளதாக நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சு அறிவித்துள்ளது.
+
+அதன்படி, உள்ளூர் விவசாயிகளைப் பாதுகாக்கவும் நுகர்வோருக்கு நியாயமான விலையை உறுதி செய்யவும் குறுகிய கால நடவடிக்கையாக இதனை அமுல்படுத்த நிதி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+
+எனவே, இந்த வரி குறைப்பு டிசம்பர் 31ஆம் திகதி வரை அமுலில் இருக்கும் எனவும் எதிர்காலத்தில் எடுக்கப்படும் கொள்கை முடிவுகளின் அடிப்படையில் உரிய சட்ட விதிகளின் கீழ் அதை மேற்கொள்ள நடவடிக்கை எடுக்கப்படும் என்றும் நிதி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/45720231.json)
+
+---
 
 ### வெங்காய வரி குறைப்பு
 
@@ -43,6 +65,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/91585964.json)
+
+---
+
+### Another illegally assembled luxury vehicle discovered in Polgasowita
+
+*2024-12-01 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103901/another-illegally-assembled-luxury-vehicle-discovered-in-polgasowita) · `en`
+
+Another luxury vehicle suspected to have been illegally assembled has been found at a garage in Polgasowita based on information received by Western Province police intelligence officers.
+
+During interrogation, the garage owner had claimed that about one and a half years ago, the Land Rover SUV, along with a chassis, four tires, and an old engine, were brought in by a Buddhist monk in the Maharagama area.
+
+The owner had also stated that the vehicle’s parts were brought in from time to time for repairs, according to police.
+
+Accordingly, the police said that they will obtain statements from the Buddhist monk in question, who is believed to have delivered the vehicle to the garage.
+
+The luxury vehicle has been handed over to the Kesbewa Police for further investigations.
+
+◼️
+
+[Data](articles/19fda9d7.json)
 
 ---
 
@@ -71,6 +113,18 @@ He reiterated his unwavering position in favor of Palestinian rights, and promis
 [Data](articles/853621d6.json)
 
 [Extended Data](ext_articles/853621d6.ext.json)
+
+---
+
+### பலஸ்தீனத்தில் இஸ்ரேல் உருவாக்கப்பட்டபோதே ஐக்கிய நாடுகள் சபையும் மரணித்துவிட்டது
+
+*2024-12-01 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200120) · `ta`
+
+யூதர்களுக்கென ஒரு அரசை நிறுவிய பிறகும் இஸ்ரேலின் அட்டூழியக் கொள்கைகள் நிறுத்தப்படவில்லை. காசாவில் பலஸ்தீனர்களை இஸ்ரேல் தொடர்ந்து இனப்படுகொலை செய்தது. காஸாவை இஸ்ரேலுடன் இணைத்து அகண்ட இஸ்ரேலை உருவாக்க பலஸ்தீனர்களை இனரீதியாக ஒழித்துக் கட்டுவதற்கான அண்மைக்கால இனப்படுகொலை தான் இப்போது அரங்கேறி வருகிறது.
+
+◼️
+
+[Data](articles/1425dfb7.json)
 
 ---
 
@@ -120,6 +174,24 @@ Do not rely on rumors that spread about tsunami disaster. We are very responsibl
 
 ---
 
+### ආනයනික ලොකු ලුනූ ﻿සඳහා වන වෙළෙඳ භාණ්ඩ බදු අඩු කෙරේ
+
+*2024-12-01 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203925) · `si`
+
+ආනයනික ලොකු ලූනු කිලෝග්‍රෑම් එකක් සඳහා වන වෙළෙඳ භාණ්ඩ බදු අඩු කිරීමට මුදල් අමාත්‍යංශය පියවර ගෙන තිබේ.
+
+ඒ අනුව මෙතෙක් පැවැති ආනයනික ලොකු ලූනු කිලෝග්‍රෑම් එකක් සඳහා වන රුපියල් 30ක වෙළඳ භාණ්ඩ රුපියල් 10ක් දක්වා අඩු කිරීමට රජය තීරණය කර තිබේ.
+
+ඒ අනුව දේශීය ගොවියා ආරක්ෂා කිරීම සහ පාරිභෝගිකයාට සාධාරණ මිලක් ඇතිවන පරිදි කෙටිකාලීන පියවරක් වශයෙන් මෙය ක්‍රියාත්මක කිරීමට මුදල් අමාත්‍යාංශය පියවර ගෙන තිබේ.
+
+ඒ අනුව දෙසැම්බර් 31 දින දක්වා මෙම බදු අඩු කිරීම ක්‍රියාත්මක බවත් ඉදිරියේදී ගනු ලබන ප්‍රතිපත්තිමය තීරණ මත ඒ සඳහා සුදුසු නීතිමය විධිවිධාන යටතේ කටයුතු කිරීමටත් පියවර ගන්නා බවද මුදල් අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/680d6dcb.json)
+
+---
+
 ### British citizen arrested over alleged terrorism financing in Colombo and Vanni
 
 *2024-12-01 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103900/british-citizen-arrested-over-alleged-terrorism-financing-in-colombo-and-vanni) · `en`
@@ -144,6 +216,18 @@ The Airport Police, in coordination with the Colombo-North Crimes Division, is c
 
 ---
 
+### இலங்கையில் ஆட்சியில் புதிய சகாப்தம்
+
+*2024-12-01 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200126) · `ta`
+
+தேசிய அரசியலின் உயரடுக்கு மேலாதிக்கம் என்று NPP அடிக்கடி குறிப்பிடுகின்ற 75 ஆண்டுகால சாபத்தை இலங்கை பிள்தள்ளி விட்டமை, "ஆசியாவின் பழமை வாய்ந்த ஜனநாயகத்தில்" அதிகரித்த உள்ளடங்கல் மற்றும் அரசியல் பங்கேற்பை நோக்கிய பாதையில் முக்கியமான மைல்கற்களாகும்.
+
+◼️
+
+[Data](articles/d49a1c10.json)
+
+---
+
 ### Special Commodity Levy on big onions reduced
 
 *2024-12-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103899/special-commodity-levy-on-big-onions-reduced) · `en`
@@ -161,6 +245,42 @@ The Ministry of Finance, Planning and Economic Development announced that the re
 [Data](articles/f5382f6a.json)
 
 [Extended Data](ext_articles/f5382f6a.ext.json)
+
+---
+
+### சிகிரியாவில் லொறி மோதி பாதசாரி உயிரிழப்பு
+
+*2024-12-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200123) · `ta`
+
+சிகிரியா பொலிஸ் பிரிவுக்குட்பட்ட தம்புள்ளை - ஹபரன வீதியில் இனாமலுவ பகுதியில் நேற்று சனிக்கிழமை (30) லொறியொன்று பாதசாரி மீது மோதியதில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தம்புள்ளையிலிருந்து ஹபரணை நோக்கி பயணித்த லொறி பாதசாரிகள் கடவையில் வீதியைக் கடந்த நபர் மீது மோதியதில் இவ்விபத்து இடம்பெற்றுள்ளது.
+
+சடலம் தம்புள்ளை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், லொறியின் சாரதியும் சிகிச்சைக்காக கிம்பிஸ்ஸ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e4b8beef.json)
+
+---
+
+### නීතිවිරෝධීව එකලස් කළැයි සැක තවත් ඩිෆෙන්ඩර් රථයක් ගරාජයකින් හමුවෙයි
+
+*2024-12-01 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203924) · `si`
+
+නීතිවිරෝධීව ලෙස එකලස් කරන ලදැයි සැකකෙරන ලෑන්ඩ් රෝවර් වර්ගයේ ජීප් රථයක් පොල්ගස්ඕවිට වාහන අලුත්වැඩියා කරන ස්ථානයක තිබී සොයාගෙන තිබේ.
+
+වාහන අලුත්වැඩියා කරන ස්ථානයේ හිමිකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී ඔහු පවසා ඇත්තේ මීට වසර එකහමාරකට පමණ ඉහතදී මහරගම ප්‍රදේශයේ විහාරාධිපති හිමි නමක් විසින් ලෑන්ඩ් රෝවර් වර්ගයේ ජීප් රථයක්, චැසියක්, ටයර් හතරක් සහ පැරණි එන්ජිමක් ගෙනත් දුන් බවය.
+
+අනතුරුව වරින් වර එම රථය සකස් කිරීම සඳහා අවශ්‍ය කොටස් එම හිමියන් විසින් ගෙනත් දුන් බවද ඔහු පවසා තිබේ.
+
+ඒ අනුව මෙම රථය මෙම ස්ථානයට ලබා දුන් බව කියන එම විහාරාධිපති හිමියන්ගෙන් ද ප්‍රකාශ ලබා ගැනීමට නියමිත බවද පොලීසිය පැවසීය.
+
+මේ වන විට අදාළ ජීප් රථය වැඩිදුර විමර්ශන සඳහා කැස්බෑව පොලීසිය වෙත භාර දී තිබේ.
+
+◼️
+
+[Data](articles/0f4ce849.json)
 
 ---
 
@@ -2325,199 +2445,5 @@ ECONOMYNEXT – Fitch Ratings said it was confirming an ‘AAA (lka)’ rating o
 [Data](articles/9839f75a.json)
 
 [Extended Data](ext_articles/9839f75a.ext.json)
-
----
-
-### Up-country train services face extended disruption, to last several more days
-
-*2024-11-30 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103886/up-country-train-services-face-extended-disruption-to-last-several-more-days) · `en`
-
-Efforts to remove earth mounds and rocks fallen to the railway tracks in the Uduwara area of Hali-Ela due to heavy rain, are still ongoing.
-
-Accordingly, the railway authorities confirmed that train services between Badulla and Ella will remain suspended further for several days.
-
-Additionally, one lane of the Passara-Lunugala road, which was fully blocked due to a landslide in the 16th mile post area of Passara, has been reopened for traffic between 06.00 a.m. and 06.00 p.m. today.
-
-Furthermore, the sluice gates of Deduru Oya, Per Aru, Ulhitiya-Rathkinda, Polgolla, Nachchaduwa, Rajanganaya, Kala Wewa, and Weheragala reservoirs remain open following continued heavy rainfall.
-
-Meanwhile, the Colombo-Batticaloa main road, which had been closed for several days due to the overflowing Mahaweli River, was reopened for light vehicles last afternoon (29).
-
-However, around 20 houses in Anamaduwa and Puttalam remain inundated.
-
-◼️
-
-[Data](articles/c71f4ced.json)
-
-[Extended Data](ext_articles/c71f4ced.ext.json)
-
----
-
-### 7 cannabis gardens surrounding in Lunugamvehera;08 arrested with 2 domestic guns
-
-*2024-11-30 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200077) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-8 cannabis gardens seized, 8 arrested in Lunugamvehera. Police operation led by Budhala STF. Suspects aged 29-65 from Dhanamalwewa & Surveva.
-
-🟩
-
-07 cannabis gardens have been surrounded by police on 08 1/2 acres in the Lunugamvevehera forest area in Hambantota and 08 suspects have been arrested by police.
-
-They were arrested yesterday (29) following a roundup of officials of the Budhala Police Special Task Force Base.
-
-The suspects were between the ages of 29 - 65 from Dhanamalwewa and Surveva areas.
-
-◼️
-
-[Data](articles/779e7ba4.json)
-
-[Extended Data](ext_articles/779e7ba4.ext.json)
-
----
-
-### Suggest STF name, new trick
-
-*2024-11-30 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203893) · `si`
-
-Sum:0
-
-🟩
-
-It has been revealed that the members of the Special Task Force (STF) have launched a social media campaign targeting the active role in the drug and underworld.
-
-According to these detected points, it is revealed that the active officials have accused of ideological influence through social media.
-
-Special Task Force (STF), police special task for the past four months, the police special task for the past four months.
-
-Heroin kg. 350, icekg. 140, Korala cannabis. Among them including 6,860, various poisons were among them.
-
-The suspect's raid was carried out by the STF in the warfare a few days ago.
-
-They have also been arrested and underworld gang members.
-
-Due to this, the son of Malithagama Chamaratne, who is in custody, Deathagoda Punhaya, who is in custody in Beleroos, has launched a socio media operation.Security forces have revealed that the security forces have been revealed.
-
-...
-
-[Data](articles/6621cd7b.json)
-
-[Extended Data](ext_articles/6621cd7b.ext.json)
-
----
-
-### Indian Crime Branch on the lookout for 15 bail absconders, 11 from Sri Lanka
-
-*2024-11-30 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103885/indian-crime-branch-on-the-lookout-for-15-bail-absconders-11-from-sri-lanka) · `en`
-
-India’s Kerala Crime Branch is on the lookout for 15 foreign nationals who were arrested with forged travel documents at Nedumbassery airport and later went absconding after securing bail.
-
-The absconders included people from Sri Lanka, Nepal, France, Iran and Russia who were intercepted at the airport between 2001 and 2005 and are currently accused in cases pending before Aluva Judicial First-Class Magistrate-1 court.
-
-3. Narayana Mudiyan Salage Nihal, 58, Puthalam, Sri Lanka, (CC 1499/08).
-
-4.Dabage Shrimalika Melami Fernando, 44, of Puthalam, Sri Lanka, (CC
-
-9. Chandralingam Nataraj, 68, of Edavared Vailliant, France, (CC 2224/08)
-
-These persons were arrested in cases registered at Chengamanadu Police Station on charges under the IPC, Passport Act and Foreigners Act. Later, investigations against these foreign nationals were handed over to the Crime Branch, Ernakulam unit. Now as the trials in the cases against the accused persons are pending, the Crime Branch are in search of these people.
-
-...
-
-[Data](articles/20fd5079.json)
-
-[Extended Data](ext_articles/20fd5079.ext.json)
-
----
-
-### Badulla - Ella train runs
-
-*2024-11-30 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203891) · `si`
-
-Heavy rains cause delays on Badulla-Ella train route due to flooding at Uduru and Udutura. Elephant and stone removal operations ongoing. Road closures on Langulawa and Colombo-Batticaloa main road. Water levels still high at several reservoirs. Approximately 20 homes in Anamaduwa area remain underwater.
-
-🟩
-
-Due to heavy rains, Uduru, Udutura, the removal of the elephant and stone was held today.
-
-As a result, railway authorities say that the train between Badulla and the fall will delay a few days.
-
-Meanwhile, one lane on the Langulawa road from the Passara 16th Post
-
-The Colombo-Batticaloa main road was closed for days due to the extinguishing Mahaweli River.
-
-කෙසේ නමුත් ඇදහැලුණ අධික වර්ෂාව හේතුවෙන් දැදුරුඔය, පේරාරු, උල්හිටිය රත්කිඳ, පොල්ගොල්ල, නාච්චදූව, රාජංගනය, කලාවැව සහ වෙහෙරගල ආදි ජලාශවල වාන් දොරටු තවමත් විවෘතව ඇත.
-
-Meanwhile, around 20 houses in Anamaduwa area are still under water.
-
-◼️
-
-[Data](articles/d0fc3c20.json)
-
-[Extended Data](ext_articles/d0fc3c20.ext.json)
-
----
-
-### One arrested with heroin in Moratuwa
-
-*2024-11-30 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200070) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Moratuwa: 42-year-old caught with 260ml heroin. Police acted on tip-off during operation.
-
-🟩
-
-Moratuwa police said that a suspect was arrested yesterday (29) with heroin drugs in the Moratuwa area belonging to the Moratuwa Police Division in Colombo.
-
-The suspect has been arrested during a roundup on the basis of confidential information received by the Moratuwa police.
-
-The suspect was 42 years old from Moratuwa.
-
-The drug has been seized by the police by the suspect, 260 ml of heroin.
-
-◼️
-
-[Data](articles/f698d072.json)
-
-[Extended Data](ext_articles/f698d072.ext.json)
-
----
-
-### Today there is little adverse impairment in a number of cities
-
-*2024-11-30 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203890) · `si`
-
-Air quality improves slightly; NBRO predicts SLAQI 92-120 days; Colombo, Jaffna, Polonnaruwa face slight negative levels; other cities see moderate improvement; NBRO advises caution.
-
-🟩
-
-The National Building Research Organization (NBRO) says that the air quality quality index (SLAQL) can last between 92 to 120 days due to the existing weather conditions.
-
-According to the daily air quality report issued by the Ecological Studies and Services Division, the gas in many parts of the island can increase to a slight negative level.
-
-According to the atmostehy quality index today, the city of Colombo is expected to be 108 to 116.
-
-And in Jaffna and Polonnaruwa can increase to 112- 120 years.
-
-In addition, the air quality quality index is expected to increase in the air quality index over 100 cities, Kurunegala, Vavuniya, Kandy, Kegalle, Galle, Badulla, Galle.
-
-Between 0-50 is a moderate level between 0-50 according to the air quality index.
-
-However, between 101-150, there is a slight negative between 101-150, an adverse level.
-
-And between 201- 300, 301 -500 is dangerous.
-
-Due to this situation, the organization requests the medical advice on medical advice.
-
-...
-
-[Data](articles/0d9b2bd6.json)
-
-[Extended Data](ext_articles/0d9b2bd6.ext.json)
 
 ---

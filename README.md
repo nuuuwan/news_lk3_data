@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 06:51:53**
+As of **2024-12-01 05:53:18**
 
 ## Newspaper Stats
 
-*Scraped **57,791** Articles*
+*Scraped **57,788** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 442
+dbsjeyarajcom | 441
 colombotelegraphcom | 588
 bbccomsinhala | 602
-islandlk | 3,477
+islandlk | 3,476
 economynextcom | 3,512
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,449
 adaderanalk | 7,002
-tamilmirrorlk | 8,215
+tamilmirrorlk | 8,214
 virakesarilk | 9,433
 adaderanasinhalalk | 9,985
 
@@ -26,33 +26,11 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,783 (100.0%) of 57,791 articles have been extended.
+57,781 (100.0%) of 57,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### Extension of flood hazards
-
-*2024-12-01 02:38:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-348030) · `ta`
-
-Flood warning extended: Teduru Oya, Mahaweli Ganga. Low-lying areas affected. 24-hour warning issued. Public and drivers advised to exercise caution.
-
-🟩
-
-The flood warning has been extended to the low -lying areas of Teduru Oya and Mahaweli Ganga.
-
-The Irrigation Department announced yesterday evening that the flood warning will be in force for the next 24 hours.
-
-The public living in the nearby areas of Theduru Oya and the Mahaweli Ganga, and the drivers traveling on the streets through the area have been advised to act with great care.. (A)
-
-◼️
-
-[Data](articles/f87ce08c.json)
-
-[Extended Data](ext_articles/f87ce08c.ext.json)
-
----
 
 ### Random climate: casualties
 
@@ -191,20 +169,6 @@ The thought about the quirks and misdemeanours of most Sri Lankans which ultimat
 ...
 
 [Data](articles/783733cd.json)
-
-[Extended Data](ext_articles/783733cd.ext.json)
-
----
-
-### Compensating a ‘parlour’ owner in Cambodia
-
-*2024-12-01 01:27:00* · [`islandlk`](http://island.lk/compensating-a-parlour-owner-in-cambodia/) · `en`
-
-I joined the ADB in Manila in November 2002. The highlight of the new job as a social safeguard specialist was the opportunity to visit and study projects in Asian countries. In 2003, I visited Cambodia to check whether the physically displaced persons of an ADB-funded highway project had received fair compensation for their lost property and adequate assistance to restore and improve their affected livelihoods and income sources.
-
-...
-
-[Data](articles/8c6ddf00.json)
 
 ---
 
@@ -864,20 +828,6 @@ The meeting was discussed on the current flood conditions and the ongoing activi
 
 ---
 
-### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
-
-*2024-11-30 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
-
-The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
-
-...
-
-[Data](articles/7b4fd7e2.json)
-
-[Extended Data](ext_articles/7b4fd7e2.ext.json)
-
----
-
 ### Yall. Minister Ramalingam Chandrasekhar appointed District Coordinating Committee Chairman
 
 *2024-11-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200093) · `ta`
@@ -895,36 +845,6 @@ Public Administration Provincial Councils and Local Government Minister AHMH on 
 [Data](articles/62c81aa4.json)
 
 [Extended Data](ext_articles/62c81aa4.ext.json)
-
----
-
-### யாழ் தமிழ் தேசியவாதக் கோட்டைக்குள் பலமாக அடித்த “அநுர அலை”:  ஆறு யாழ்ப்பாண ஆசனங்களில் மூன்றில் தேசிய மக்கள் சக்தி வெற்றி.
-
-*2024-11-30 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85145) · `en`
-
-தேசிய மக்கள் சக்தி 2024 நவம்பர் 14  பாராளுமன்ற தேர்தலில் வரலாற்று முக்கியத்துவம் வாய்ந்த ஒரு வெற்றியைப் பதிவு செய்திருக்கிறது. ஜனதா விமுக்தி பெரமுனவை (ஜே.வி.பி.) பிரதான அங்கத்துவக் கட்சியாகக்கொண்டு 21 அரசியல் கட்சிகள், குழுக்கள் மற்றும் தொழிற்சங்கங்களை உளாளடக்கிய ஒரு கூட்டமைப்பே தேசிய மக்கள் சக்தியாகும். அது 6, 863,186 (61.6 சதவீதம் ) வாக்குகளைப் பெற்று 225 ஆசனங்களைக் கொண்ட இலங்கை பாராளுமன்றத்தில் 159 ஆசனங்களைக் கைப்பறாறியிருக்கிறது. இவற்றில் 141 ஆசனங்கள் நேரடியாக மாவட்ட அடிப்படையில் பெறப்பட்டவையாக இருக்கின்ற அதேவேளை  18 ஆசனங்கள் தேசியப்பட்டியல் மூலம் கிடைத்தவை.
-
-...
-
-[Data](articles/f21e5659.json)
-
-[Extended Data](ext_articles/f21e5659.ext.json)
-
----
-
-### As a result of the Tamil nationalist parties splitting and contesting elections as different factions, the parliamentary representation of Tamils ​​from the north and east has been weakened even more than before. Tamil politicians had ignored the warnings given in advance in this regard.
-
-*2024-11-30 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85150) · `en`
-
-What is the future of Tamil nationalist politics in Sri Lanka? This question, which has arisen in the aftermath of the recent Parliamentary Elections, should not be viewed simply in terms of the future electoral prospects of Tamil parties. It is a question related to the anxiety regarding the prospects for the fulfillment of the legitimate political aspirations of the Tamil people.
-
-The Tamil nationalist political parties that have represented the Tamil people of the north and east in Parliament for more than 15 years since the end of the civil war have suffered a major setback in this Parliamentary Election.
-
-It seems difficult to expect that these parties, which have never shown any moral interest in introspecting on the reasons why the past struggles for the political rights of the Tamil people have not been fruitful, will look back and correct their political path after this defeat.
-
-...
-
-[Data](articles/00191f50.json)
 
 ---
 
@@ -2405,5 +2325,99 @@ Plenty is written about the JVP-led NPP in 2024 September-November elections, wi
 [Data](articles/014074df.json)
 
 [Extended Data](ext_articles/014074df.ext.json)
+
+---
+
+### Foreign Minister stresses importance of ensuring safe, orderly, regular, and rights-based migration
+
+*2024-11-30 04:50:27* · [`dailyftlk`](https://www.ft.lk/opinion/Foreign-Minister-stresses-importance-of-ensuring-safe-orderly-regular-and-rights-based-migration/14-769910) · `en`
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, in a recorded video message to the High-Level Segment of the 115th Session of the International Organization for Migration (IOM) Council on 26 November 2024, stressed the importance of ensuring safe, orderly, regular, rights-based migration.
+
+The High-Level Segment of the IOM was themed: ‘Regular Migration Pathways: A Global Call for Action’, and the 115th Session of the Council was held in Geneva from 26-28 November.
+
+Migration has been a part of human existence for centuries. Today, people migrate voluntarily, primarily for work, or are compelled to do so due to natural disasters, climate change, conflict, and economic instability. In the process, they increasingly resort to irregular pathways of migration, risking their lives, and often falling victim to human trafficking.
+
+...
+
+[Data](articles/111e0289.json)
+
+[Extended Data](ext_articles/111e0289.ext.json)
+
+---
+
+### Bond “scam” returns to headlines
+
+*2024-11-30 04:48:32* · [`dailyftlk`](https://www.ft.lk/columns/Bond-scam-returns-to-headlines/4-769909) · `en`
+
+Once described by Sri Lanka’s Attorney General as ‘the greatest financial loss perpetrated on the people” the so-called ‘bond scam’ has returned to the headlines.
+
+On Monday 26 November a Colombo Court ordered a former Governor of the Central Bank to report to Colombo on 25 February 2025.
+
+Arjuna Mahendran the controversial Governor at the time, is a Singaporean national of Sri Lankan origin. Mahendran, having left Colombo during the tail end of the Presidential Commission inquiring into the issuance of bonds, has not returned to Sri Lanka since.
+
+The so-called ‘bond scam’ attracted controversy within weeks of the Sirisena-Wickremesinghe Government which was grandly titled Yahapalanaya governance.
+
+The title meaning, ‘Good governance’, fell far short by the time we exposed the serious conflict of interest that seemingly manifested itself.
+
+...
+
+[Data](articles/a40a222f.json)
+
+[Extended Data](ext_articles/a40a222f.ext.json)
+
+---
+
+### President says “no chance even for a simple mistake”, but officials ready to make big ones
+
+*2024-11-30 04:43:56* · [`dailyftlk`](https://www.ft.lk/columns/President-says-no-chance-even-for-a-simple-mistake-but-officials-ready-to-make-big-ones/4-769908) · `en`
+
+The Government is heading to make a serious mistake unintentionally in another area by lifting the ban on vehicle imports
+
+President Anura Kumara Dissanayake at the inauguration of the first session of the 10th Parliament delivering a speech, said that the NPP Government must go with the IMF framework and the previous administration’s debt restructuring agreements as they have been endorsed by the IMF. It is true. Renegotiating for a new Debt Sustainability Analysis (DSA) is now dead. That is good, because we must end this process as early as possible to enter a new beginning.
+
+If the Net Present Value analysis proves beneficial for us to ensure debt sustainability even under the macro-linked bond mechanism we must finish this process. The NPP Government is going to do it possibly by the end of December this year. It is a great consolation.
+
+...
+
+[Data](articles/df619e00.json)
+
+[Extended Data](ext_articles/df619e00.ext.json)
+
+---
+
+### Japan donates two fully equipped ambulances to BIA and Colombo Port
+
+*2024-11-30 04:39:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-donates-two-fully-equipped-ambulances-to-BIA-and-Colombo-Port/56-769906) · `en`
+
+The Bandaranaike International Airport (BIA) and the Colombo Port received two fully equipped ambulances as part of the ongoing Border Health Project, funded by the Government of Japan and implemented by the International Organisation for Migration (IOM).
+
+On behalf of the Transport, Highways, Ports and Civil Aviation Ministry, the donation was handed to Airport and Aviation Services (Sri Lanka) Ltd. (AASL) Chairman Air Chief Marshal H.D. Abeywickrema (Retd.) by Japanese Embassy Minister/Deputy Head of Mission Kamoshida Naoki in the presence of senior officials of the Ministry, AASL, and IOM.
+
+The ambulances, each valued at approximately $ 100,000, will enhance the emergency health preparedness of the Points of Entry (PoE) in line with International Health Regulations (2005).
+
+...
+
+[Data](articles/ee5d5450.json)
+
+[Extended Data](ext_articles/ee5d5450.ext.json)
+
+---
+
+### International call for education to be centred on Human Rights
+
+*2024-11-30 04:38:42* · [`dailyftlk`](https://www.ft.lk/news/International-call-for-education-to-be-centred-on-Human-Rights/56-769905) · `en`
+
+Announcement of Je’anna Clements and Sifaan Zavahir’s session at INSPIRE Education Summit where Declaration of Child Rights-Centric Education was launched
+
+The Rights Centric Education Network (“RCE Network”), an international movement of Human Rights defenders advocating for Rights in, to, and through education, launched the “Declaration of Child Rights-Centric Education” on the 35th Anniversary of the UN Convention on the Rights of the Child (UNCRC), amplifying the call of the United Nations to centre education on Human Rights.
+
+The Declaration calls for education of children, wherever it takes place and whatever form it takes, to be fundamentally reworked to ensure that it is consistent with human rights values and principles, especially the UNCRC, which, for the first time in history, recognised children as subjects of their own rights.
+
+...
+
+[Data](articles/1a12691d.json)
+
+[Extended Data](ext_articles/1a12691d.ext.json)
 
 ---

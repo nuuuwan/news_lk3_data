@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 19:41:46**
+As of **2024-12-01 19:26:27**
 
 ## Newspaper Stats
 
-*Scraped **57,900** Articles*
+*Scraped **57,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,150 +17,20 @@ economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,465
-adaderanalk | 7,016
+adaderanalk | 7,015
 tamilmirrorlk | 8,229
-virakesarilk | 9,477
+virakesarilk | 9,471
 adaderanasinhalalk | 10,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,893 (100.0%) of 57,900 articles have been extended.
+57,893 (100.0%) of 57,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### சட்ட விரோத சிகரெட்டுக்களுடன் ஒருவர் கைது
-
-*2024-12-01 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200176) · `ta`
-
-சட்டவிரோதமான முறையில் நாட்டுக்கு கொண்டுவரப்பட்ட சிகரெட்டுகளுடன் முச்சக்கரவண்டியில் பயணித்த ஒருவர் நேற்று சனிக்கிழமை (30) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-குருநாகல் முகாம் அதிகாரிகளுக்கு கிடைத்த தகவலின் பேரில் பொலிஸ் விசேட அதிரடிப்படையினர் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் வெல்லவ பிரதேசத்தைச் சேர்ந்த 36 வயதுடையவர் ஆவார்.
-
-◼️
-
-[Data](articles/bee5adcd.json)
-
----
-
-### குருநகர் பிரதேசத்துக்கான துறைமுகம் தொடர்பில் நடவடிக்கை எடுக்கப்படும் - வடக்கு ஆளுநர்
-
-*2024-12-01 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200175) · `ta`
-
-குருநகர் பிரதேச மக்களின் நீண்ட கால கோரிக்கையாக உள்ள குருநகர் பிரதேசத்துக்கான துறைமுகத்தை அமைப்பது தொடர்பில் கடற்றொழில் அமைச்சர் ஊடாக கலந்துரையாடி உரிய நடவடிக்கைகள் எடுக்கப்படும் என வட மாகாண ஆளுநர் நா.வேதநாயகன் தெரிவித்தார்.
-
-குருநகர் கடற்றொழிலாளர் அபிவிருத்திச் சங்கத்தின் ஏற்பாட்டில் உலக கடற்றொழிலாளர் விழா குருநகர் தொழிலாளர் இளைப்பாறு மண்டபத்தில் இன்று (01) காலை நடைபெற்றது.
-
-விவசாயம் மற்றும் கடற்றொழில் வட மாகாணத்தின் முக்கியமான தூண்கள். இந்தப் பிரதேச மக்களின் அபிவிருத்திக்காக யாழ். மாவட்டச் செயலராக நான் பணியாற்றிய காலத்தில் பல்வேறு விடயங்களைச் செய்திருக்கின்றேன்.
-
-அன்றும் இன்றும் உங்கள் பிரதேசத்தின் பிரதேச செயலராக இருக்கின்ற சா.சுதர்சன் அவர்களும் இதில் முக்கிய பங்காற்றியிருக்கிறார். கடற்றொழில் அமைச்சராக நியமிக்கப்பட்டிருக்கின்ற கௌரவ இ.சந்திரசேகர் அவர்கள், எமது பிரதேசத்தின் மேம்பாடு தொடர்பில் அக்கறையுள்ளவர். அவர் பலவற்றை உங்களுக்காக செய்வார்.
-
-...
-
-[Data](articles/3f6622b6.json)
-
----
-
-### ஏறாவூரில் வெள்ளத்தால் பாதிக்கப்பட்ட குழந்தைகளுக்கு கிரிக்கெட் வீரர் மகேஷ் திக்சனவால் வழங்கப்பட்ட நிவாரணப் பொதிகள்
-
-*2024-12-01 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200174) · `ta`
-
-ஏறாவூரில் வெள்ளத்தால் பாதிக்கப்பட்ட குடும்பங்களில் உள்ள குழந்தைகளுக்கு இலங்கை தேசிய கிரிக்கெட்  அணியின் நட்சத்திர சுழற்பந்து வீரர் மகேஷ் திக்சனவின் இரண்டு இலட்சம் ரூபா நிதி உதவியில் ஏறாவூர் யங் ஹீரோ விளையாட்டுக் கழகம் நிவாரணப் பொருட்கள் அடங்கிய 100 பொதிகளை வழங்கிவைத்தது.
-
-ஏறாவூரில் நிலவிய சீரற்ற வானிலையால் பாதிக்கப்பட்ட குடும்பங்களின்  நிலைப்பாட்டினை அறிந்து இலங்கை தேசிய கிரிக்கெட்  அணியின் நட்சத்திர சுழற்பந்து வீரர் மகேஷ் திக்சனாவிடம் ஏறாவூர் யங் ஹீரோ விளையாட்டுக் கழகத்தின் சிரேஷ்ட உறுப்பினரும் இலங்கை பொலிஸ் அணி மற்றும் பேஷ்போல் விளையாட்டு  வீரருமான யு. நஜிவுல்லாஹ் சமூக வலைத்தளத்தின் ஊடாக விடுக்கப்பட்ட வேண்டுகோளுக்கு அமைய மகேஷ் திக்சன 2 இலட்சம் நிதி உதவி வழங்கினார்.
-
-இதற்கமைய யங் ஹீரோ விளையாட்டுக் கழகம் வெள்ளத்தால் பாதிக்கப்பட்ட குடும்பங்களில் உள்ள 100 குழந்தைகளை தெரிவு செய்து அவர்களுக்கு தலா இரண்டாயிரம் ரூபா பெறுமதியான பால்மா மற்றும் இதர பொருட்கள் அடங்கிய பொதிகளை வழங்கிவைத்தது.
-
-...
-
-[Data](articles/29a207a1.json)
-
----
-
-### Malaysia and Thailand flooding kills at least 12
-
-*2024-12-01 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103907/malaysia-and-thailand-flooding-kills-at-least-12) · `en`
-
-Huge flooding caused by heavy rain in Malaysia and neighbouring Thailand has killed at least 12 people, officials say.
-
-More than 122,000 people have been forced out of their homes in northern Malaysia, while in southern Thailand, around 13,000 others have also been displaced.
-
-There are fears the number could rise, as heavy rain and storm warnings remain in place.
-
-Emergency services personnel have been deployed to help rescue stranded residents and shelters are being provided.
-
-The flooding, which began earlier in the week, has seen thousands of residents evacuated in both nations.
-
-Videos on social media and local news show cars and houses submerged, and people wading through waist-deep water.
-
-One video, filmed in Thailand’s Sateng Nok district, showed rescuers carrying a baby out from a roof of a flooded home.
-
-Flooding has impacted nearly 534,000 households in southern Thailand, disaster officials said, and two hospitals had to close to prevent floodwaters from damaging medical facilities.
-
-...
-
-[Data](articles/08f3dd70.json)
-
----
-
-### வல்வெட்டித்துறையில் விடுதலைப் புலிகளின் தலைவரது பிறந்தநாள் கொண்டாட்டம் தொடர்பில் பொலிஸார் விசாரணை
-
-*2024-12-01 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200173) · `ta`
-
-யாழ்ப்பாணம் வல்வெட்டித்துறையில் அண்மையில் நடைபெற்ற தமிழீழ விடுதலைப் புலிகள் இயக்கத்தின் தலைவரது 70ஆவது பிறந்த தினக் கொண்டாட்டம் தொடர்பாக வல்வெட்டித்துறை பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.கே.சிவாஜிலிங்கம் உள்ளிட்ட பிறந்தநாள் விழாவில் பங்கேற்ற ஐந்து பேரிடம் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளது.
-
-வல்வெட்டித்துறையில் விடுதலைப்புலிகளின் தலைவரது குடும்பத்தின் பூர்வீக இல்லத்தில் பிறந்தநாள் கொண்டாட்டத்துக்காக தமிழீழ விடுதலைப் புலிகள் இயக்கத்தின் தலைவரின் புகைப்படத்தினை கொண்ட பதாகை ஒன்றும் அங்கு அச்சிடப்பட்டு  காட்சிப்படுத்தப்பட்டிருந்தது.
-
-இதன்போது அங்கு வந்திருந்த வல்வெட்டித்துறை பொலிஸார் தமிழீழ விடுதலைப் புலிகளின் தலைவருடைய புகைப்படத்தினை பயன்படுத்த முடியாது என்றும், அதற்கு சட்டத்தில் இடமில்லை என்று தெரிவித்திருந்தனர்.
-
-...
-
-[Data](articles/11f3451d.json)
-
----
-
-### கொழும்பில் ஐஸ், ஹெரோயினுடன் இருவர் கைது!
-
-*2024-12-01 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200172) · `ta`
-
-கொழும்பு பிரதேசத்தில் மேற்கொள்ளப்பட்ட இரு வேறு சுற்றிவளைப்புக்களின்போது ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருளுடன் இருவர் நேற்று (30) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-சந்தேக நபரிடமிருந்து 15 கிராம் 200 மில்லிகிராம் ஐஸ் போதைப்பொருள் மற்றும் கையடக்கத் தொலைபேசி பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-இதேவேளை, கொட்டாவ பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில்  ஹெரோயின் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் ஒருவர் நேற்று கைது செய்யப்பட்டுள்ளார்.
-
-இவரிடமிருந்து 50 கிராம் 750 மில்லிகிராம் ஹெரோயின் போதைப்பொருள், கார் மற்றும் கையடக்கத் தொலைபேசி என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/cd87202b.json)
-
----
-
-### வீடுகளுக்குள் புகுந்த வெள்ளம்; சுற்றிலும் பாம்புகள்! - வீடு திரும்ப அச்சப்படும் சங்கானை மக்கள்
-
-*2024-12-01 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200170) · `ta`
-
-வெள்ள அனர்த்தம் காரணமாக வட்டுக்கோட்டை இந்து கல்லூரியில் 5 குடும்பங்களைச் சேர்ந்த 20 பேர் தங்கவைக்கப்பட்டுள்ளனர்.
-
-இவர்கள் சங்கானை பிரதேச செயலர் பிரிவுக்குட்பட்ட ஜே /57 கிராம சேவகர் பிரிவில் வசிப்பவர்கள் ஆவர்.
-
-தமது வீடுகளுக்குள் வெள்ளம் புகுந்துள்ளதாகவும், வீட்டை சுற்றி பாம்புகள் திரிவதாகவும் கூறுகின்ற அவர்கள், இந்த பிரச்சினைகளை சீர்செய்தால் மட்டுமே தங்களால் வீடுகளுக்குச் செல்ல முடியும் என்று அவர்கள் தெரிவித்தனர்.
-
-ஒவ்வொரு வருடமும் மழைக் காலத்தில் இவ்வாறான பிரச்சினைகள் காணப்படுவதாகவும், இதற்கு தீர்வு வழங்கப்பட வேண்டும் என்றும் அவர்கள் மேலும் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/03e2b654.json)
-
----
 
 ### Will you get good news in 2025?
 
@@ -2465,5 +2335,225 @@ Both parties are UNP supporters. We can't go on a way that we have two divides a
 [Data](articles/056d380e.json)
 
 [Extended Data](ext_articles/056d380e.ext.json)
+
+---
+
+### Jeep driver remanded for the Maharagama accident
+
+*2024-12-01 08:54:52* · [`adalk`](https://www.ada.lk/breaking_news/මහරගම-අනතුරු-වැලේ-ජීප්-රියදුරු-රිමාන්ඩ්/11-413366) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Jeep driver arrested after Maharagama accident. Suspect charged with causing death, grievous hurt, dangerous driving. Remanded in custody pending trial.
+
+🟩
+
+The driver of the jeep vehicle arrested for serious injuries in Maharagama and the arrest of another person was produced before the Gangodawila Court on the 13th of this month.Mrs. Sunetha Nanayakkara ordered Magistrate Sunetha Nanayakkara.
+
+The suspect was remanded in Horana, a small depression, the south struggle.
+
+The luxury jeep on the road to Pathigoda on the road to Pathigoda on the road to Pathigoda is not controlled by Pathigoda on the road to Pathigoda on the road to Pathigoda on the road to Pathigoda on the road.The accident had occurred.
+
+A 30-year-old person who was residing in the motorcycle was killed and the decision driver was seriously injured.
+
+The suspect was produced before the court under the allegations of a miscuse, preventing an accident, unbelieving driving and serious injuries.
+
+◼️
+
+[Data](articles/c6a49582.json)
+
+[Extended Data](ext_articles/c6a49582.ext.json)
+
+---
+
+### Cyclonic Storm “FENGAL” enters India, showers and strong winds continue across Sri Lanka
+
+*2024-12-01 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103894/cyclonic-storm-fengal-enters-india-showers-and-strong-winds-continue-across-sri-lanka) · `en`
+
+The Meteorology Department says the Cyclonic Storm “FENGAL” over Southwest Bay of Bengal has entered India by crossed north Tamil Nadu -Puducherry coasts at 11.30 p.m. on 30th November 2024 as a cyclonic storm.
+
+It is likely to move west-southwestwards slowly and weaken gradually into a deep depression during next 3 hours.
+
+Influence of this system on the island’s weather is further gradually reducing, the Met. Department said.
+
+Skies will be cloudy and showers or thundershowers will occur at times in Northern.
+
+Several spells of showers will occur in Western, Sabaragamuwa, North-western and North-central provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, it added.
+
+Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night.
+
+Strong winds of 50-55 kmph can be expected at times over Northern, North-central, North-western, Western, Central and Southern provinces, the advisory said.
+
+...
+
+[Data](articles/b546924b.json)
+
+[Extended Data](ext_articles/b546924b.ext.json)
+
+---
+
+### Reevaluating Cabinet Appointments: Addressing Deficiencies
+
+*2024-12-01 08:19:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reevaluating-cabinet-appointments-addressing-deficiencies/) · `en`
+
+Appointments to the Cabinet of Ministers based purely and simply on meritocracy is unheard of anywhere. Most selections worldwide are broadly based on three criteria viz. experience, affiliation and representation. In general, political exposure and expertise in the relevant Ministerial functions are significant consideration besides qualifications for experiential appointments. Affiliational appointments include those within the personal networks of friendship, party alliances, trust, and loyalty to the President or Prime Minister. In countries where there is social diversity the government in principle align towards representational considerations based on socio-demographics like ethnic, religion, gender, regional and so on. Countries like Canada, Australia and the United Kingdom do have such representational allocations.
+
+...
+
+[Data](articles/83318dae.json)
+
+[Extended Data](ext_articles/83318dae.ext.json)
+
+---
+
+### Three killed in fatal accidents
+
+*2024-12-01 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203918) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Fatal accidents claim 3 lives: 2 cyclists & 1 pedestrian killed in separate incidents near Colombo, Sigiriya & Kattigala.
+
+🟩
+
+Three people were killed in several fatal accidents throughout the country.
+
+The accidents occurred yesterday at Peliyagoda, Sigiriya and Kattigala Police Divisions.
+
+The Peliyagoda police station was received by a person who was traveling from a bicycle in the Kelani Bridge near the Colombo-Kandy road.
+
+Immediately, the injured police traffic divisions have died in admission to the Colombo National Hospital.
+
+The deceased is a 49 year old resident of Ampara, a resident of Ampara.
+
+Meanwhile, a pedestrian traveling through a pavement from the Dambulla - Habarana road in the Dambulla area on the Habarana road was reported in a lorry.
+
+A motorcycle was killed in a crash, which took place at the Haggala area on the Pelmadulla - Nonagama road.
+
+The deceased has been identified as a 45 year old resident of the Beraladi area.
+
+◼️
+
+[Data](articles/496e8649.json)
+
+[Extended Data](ext_articles/496e8649.ext.json)
+
+---
+
+### Three arrested for excavation to obtain antiquities
+
+*2024-12-01 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203917) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"3 arrested for antiquity excavation in Sri Lanka. Police raided homes in Welimada & Mahiyanganaya, seizing excavation tools. Suspects aged 26, 32, 56."
+
+🟩
+
+Police have arrested three suspects in excavation to obtain antiquities.
+
+The suspects have been arrested by a raid on information received by a team of officers from the Bandarawela Divisional Investigation Bureau of the Welimada police Division.
+
+The suspects are residents of Welimada and Mahiyanganaya areas where the suspects 26, 32, 56 years.
+
+Police have also seized an area of ​​excavation and sacrifices in the possession of the suspects.
+
+◼️
+
+[Data](articles/68e660b3.json)
+
+[Extended Data](ext_articles/68e660b3.ext.json)
+
+---
+
+### Males should know that males to protect in HIV in a sexual relationship
+
+*2024-12-01 06:26:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz6jq75g3llo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+HIV prevention tips for men:
+
+
+
+• Delay sex until marriage or have one faithful partner
+
+• Use condoms consistently 
+
+• Consider PrEP medication before unprotected sex
+
+• Seek immediate PEPSE treatment within 72 hours of exposure
+
+
+
+Free HIV testing available at 41 STD clinics nationwide. Contact hotline for assistance.
+
+🟩
+
+Males should know that males to protect in HIV in a sexual relationship
+
+Dr. Winda Kumarapoles said that 88% of the new HIV infected persons reported in 2023 in the year.
+
+She said it was 2: 1 rate ago 10: 1.
+
+There are a large percentage of those living with HIV nowadays.
+
+Moreover, 92 two of the 694 patients reported in 2023 were among the ages of 15 and 24.
+
+The doctor also explained the doctor about being male.
+
+"Most of the men, more of the men, they have affect their sexual routines," she said.
+
+88% of the reported men, "2023. When you observe the data between children or among women, we can see when the data has been observed in the last 10 years, "she said.
+
+"Finding online partners through the Internet and addictive sexual education and drug addiction, Dr. Wirda Kumarapoles said.
+
+How do you know if you have a STD?
+
+...
+
+[Data](articles/5532ae06.json)
+
+[Extended Data](ext_articles/5532ae06.ext.json)
+
+---
+
+### Showers in several areas today
+
+*2024-12-01 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203916) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Heavy rain/thunderstorms expected in northern regions, western, central, and southern provinces. Strong winds (50-55 km/h) possible. Cyclone Fenguella moving west-southwest, affecting island weather.
+
+🟩
+
+The Meteorology Department says that the northern sky is heavy from the Walakulas and there are several showers or thundershowers.
+
+Several spells of showers in the Western, Sabaragamuwa, North Western and North-Central provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or thundershowers will occur at several places in the evening or even night.
+
+From time to time in the Northern, North Central, North-central, Western, Central and Southern provinces.. The Met Department further stated that strong winds can occur 50-55.
+
+Meanwhile, the fengel was hit in the Bay of Bengal Bay of Bengal 2024. The Meteorology Department says that at 11.30, the Met Department said that the North Tamil Nadu - Puducheri coastline.
+
+It is slowly traveling to the West-southwest and weaken towards the west-southwest depression in the next 3 hours and is further declining the island weather.
+
+◼️
+
+[Data](articles/8f948c72.json)
+
+[Extended Data](ext_articles/8f948c72.ext.json)
 
 ---

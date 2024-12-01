@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 03:26:17**
+As of **2024-12-02 04:14:11**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,939 (100.0%) of 57,942 articles have been extended.
+57,942 (100.0%) of 57,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### சேதமடைந்த வீதிகள் தொடர்பில் தகவல் சேகரிப்பு
+### Information Collection of Damaged Roads
 
 *2024-12-02 03:10:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதமடைந்த-வீதிகள்-தொடர்பில்-தகவல்-சேகரிப்பு/175-348079) · `ta`
 
-பலத்த மழையுடனான வானிலையால் ஏற்பட்ட அனர்த்தங்கள் காரணமாக சேதமடைந்த வீதிகள் மற்றும் பாலங்கள் தொடர்பான தகவல்களை சேகரிக்கும் நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இதற்காக விசேட குழு நியமிக்கப்பட்டுள்ளதாக வீதி அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் நாயகம் எஸ்.எம்.பீ.சூரியபண்டார தெரிவித்தார்.
 
-சேதமடைந்த வீதிகள் மற்றும் பாலங்களை விரைவாக புனரமைக்க நடவடிக்கை எடுக்கப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார். (a)
+
+Road damage assessment underway after heavy rains. Road Development Authority appoints special committee to survey affected roads and bridges. Reconstruction efforts to follow.
+
+🟩
+
+Action has been initiated by collecting information on roads and bridges damaged by heavy rains.
+
+The Director General of the Road Development Authority SMP Suriyapandara said that a special committee has been appointed for this purpose.
+
+He also said that steps will be taken to reconstruct damaged roads and bridges. (A)
 
 ◼️
 
 [Data](articles/b46a798e.json)
+
+[Extended Data](ext_articles/b46a798e.ext.json)
 
 ---
 
@@ -61,6 +71,8 @@ Meanwhile, the Criminal Investigation Department (CID) has apprehended three per
 ...
 
 [Data](articles/775f85d1.json)
+
+[Extended Data](ext_articles/775f85d1.ext.json)
 
 ---
 
@@ -124,19 +136,25 @@ Meanwhile, the Lanka IOC too announced that it has decided to revise its fuel pr
 
 ---
 
-### தமிழகத்தில் சிவப்பு எச்சரிக்கை
+### Red warning in Tamil Nadu
 
 *2024-12-02 02:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-சிவப்பு-எச்சரிக்கை/175-348078) · `ta`
 
-தமிழகத்தின் விழுப்புரம், கடலூர், கள்ளக்குறிச்சி மாவட்டங்கள் மற்றும் புதுச்சேரிக்கு நேற்று கனமழைக்கான சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Heavy rain warning in Tamil Nadu: Villupuram, Cuddalore, Kallakurichi districts affected. Thunderstorms forecasted in Chennai. Four deaths reported in Puducherry flood due to cyclone.
 
-இதனிடையே சென்னையில் ஒருசில பகுதிகளில் இடி, மின்னலுடன் கூடிய மழை பெய்யக்கூடுமென சென்னை வானிலை ஆய்வு மையம் எதிர்வுகூறியுள்ளது.
+🟩
 
-இதேவேளை, புதுச்சேரியில் ஃபெங்கல் புயல் காரணமாக ஏற்பட்ட மழை வெள்ளத்தில் சிக்கி இதுவரை 4 பேர் உயிரிழந்துள்ளனர். (a)
+A red warning for heavy rains was issued yesterday to Villupuram, Cuddalore, Kallakurichi districts of Tamil Nadu and Puducherry yesterday.
+
+Meanwhile, the Chennai Meteorological Department has predicted thunderstorms and lightning in a few areas in Chennai.
+
+Meanwhile, four people have been killed in a flood of floods caused by a Fengal storm in Puducherry. (A)
 
 ◼️
 
 [Data](articles/3326eb86.json)
+
+[Extended Data](ext_articles/3326eb86.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 15:42:32**
+As of **2024-12-01 16:00:49**
 
 ## Newspaper Stats
 
-*Scraped **57,849** Articles*
+*Scraped **57,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,459
-adaderanalk | 7,012
+adalk | 5,461
+adaderanalk | 7,013
 tamilmirrorlk | 8,227
 virakesarilk | 9,444
 adaderanasinhalalk | 9,997
@@ -26,25 +26,33 @@ adaderanasinhalalk | 9,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,845 (100.0%) of 57,849 articles have been extended.
+57,849 (100.0%) of 57,852 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### மரக்கறிகளின் விலை அதிகரிப்பு: குப்பையில் வீசவேண்டிய நிலை
+### Increase in prices of vegetables: Throwing in the trash
 
 *2024-12-01 15:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிகளின்-விலை-அதிகரிப்பு-குப்பையில்-வீசவேண்டிய-நிலை/76-348049) · `ta`
 
-நாட்டின் பல பகுதிகளில் பெய்த கடும் மழை காரணமாக நாடளாவிய ரீதியில் மரக்கறிகளின் விலை திடீரென அதிகரித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+Vegetable prices surge amid heavy rains, impacting sales and consumer behavior. Green chili prices jump from 650 to 750 Rupees per kg, affecting market demand and trader profits.
 
-இந்நிலையில் நுவரெலியா மத்திய சந்தையிலும் வீதியோர மரக்கறி விற்பனை நிலையங்களிலும் ஒரு கிலோகிராம் போஞ்சியின் மொத்த விற்பனை விலை 650  முதல் 750 ரூபா வரையிலும் ஒரு கிலோகிராம் பச்சை மிளகாயின் விற்பனை விலை 1200 முதல் 1300 ரூபா வரையிலும் உயர்ந்துள்ளதுடன் ஏனைய மரக்கறி வகைகளின் விலை அதிகளவில் உயர்ந்த நிலையில் உள்ளதால்  மரக்கறிகளின் விலைகள் நாளுக்கு நாள் அதிகரித்து காணப்படுவதால் வியாபாரிகள் மற்றும் பொதுமக்கள் பாரிய சிக்கல்களை எதிர்நோக்கி வருவதாக  தெரிவிக்கப்படுகின்றது.
+🟩
 
-நுவரெலியா மத்திய சந்தைக்கு வரும் அதிகமானவர்கள்  மரக்கறிகளின் விலை அதிகரிப்பு காரணமாக நுகர்வோர் மரக்கறிகளை கொள்வனவு செய்வதை தவிர்த்து வருகின்றனர்
+Heavy rains in many parts of the country have suddenly increased the price of vegetables across the country.
 
-...
+In this case, the price of a kilogram of green chilli has risen from Rs 650 to 750 and a kilogram of green chillies at 1200 to 1300 rupees and other vegetable prices are high as the prices of vegetables are increasing day by day.It is reported to be facing.
+
+Most people coming to Nuwara Eliya Central Market are avoiding buying vegetables due to a rise in vegetable prices
+
+In addition, the number of consumers has declined drastically, and the traders who do not business have been dilapidated after two to three days, causing a massive loss, and the vegetable traders have to be dumped daily.
+
+◼️
 
 [Data](articles/34d99894.json)
+
+[Extended Data](ext_articles/34d99894.ext.json)
 
 ---
 
@@ -76,6 +84,22 @@ Meanwhile, police sources say that the police have received voting sources to th
 
 ---
 
+### තායිලන්තයට සහ මැලේසියාවට බලපෑ ගංවතුරෙන් 12 දෙනෙකු මරුට
+
+*2024-12-01 15:00:56* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයට-සහ-මැලේසියාවට-බලපෑ-ගංවතුරෙන්-12-දෙනෙකු-මරුට/11-413375) · `si`
+
+මැලේසියාවට සහ තායිලන්තයට බලපෑ ගංවතුර තත්ත්වය ​හේතුවෙන් පුද්ගලයන් 12 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+උතුරු මැලේසියාවේ 122,000ට වැඩි පිරිසක් අවතැන්ව ඇති අතර, දකුණු තායිලන්තයේ 13,000ක් අවතැන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+තවදුරටත් අධික වැසි සහා කුණාටු ඇතිවන බැවින් මෙම ප්‍රමාණයන් ඉහළ යා හැකි බවට දෙරටේ බලධාරීන් අනතුරු අඟවා තිබේ.
+
+◼️
+
+[Data](articles/4f268114.json)
+
+---
+
 ### Special program
 
 *2024-12-01 14:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வேலைத்திட்டம்/175-348047) · `ta`
@@ -102,23 +126,45 @@ In addition, the Authority will also conduct monitoring of telephone trading and
 
 ---
 
-### நுகர்வோர் விவகார அதிகார சபை விசேட வேலைத்திட்டம்
+### Consumer Affairs Authority Special Program
 
 *2024-12-01 14:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுகர்வோர்-விவகார-அதிகார-சபை-விசேட-வேலைத்திட்டம்/175-348047) · `ta`
 
-பண்டிகைக் காலத்தில் சந்தையில் நுகர்வோருக்கு ஏற்படக்கூடிய அநீதிகளைத் தடுப்பதற்காக நுகர்வோர் விவகார அதிகார சபை விசேட வேலைத்திட்டமொன்றை நடைமுறைப்படுத்தியுள்ளது.
+Consumer Affairs Authority implements special program to protect consumers during festive season. Raids at retail stores and supermarkets from Dec 1 to Jan 15, focusing on essential goods and price monitoring. Complaints can be reported to 1977.
 
-அதன்படி, திங்கட்கிழமை (01) முதல் ஜனவரி 15ம் திகதி வரை சில்லறை வர்த்தக நிலையங்கள் மற்றும் பல்பொருள் அங்காடிகளில் சோதனை நடத்தப்படவுள்ளது.
+🟩
 
-பண்டிகைக் காலங்களில் நுகர்வோரால் அதிகளவில் கொள்வனவு செய்யப்படும் ஆடைகள், நீடித்து நிலைத்திருக்கும் பொருட்கள், மின் உபகரணங்கள் மற்றும் அத்தியாவசியப் பொருட்கள் விற்பனை செய்யும் வர்த்தக நிலையங்கள் தொடர்பில் விசேட கவனம் செலுத்தப்பட உள்ளதாக அதிகாரசபை தெரிவித்துள்ளது.
+The Consumer Affairs Authority has implemented a special program to prevent the injustices of consumers in the market during the festive season.
 
-இந்த சோதனைகளை மேற்கொள்ளும்போது, ​​வர்த்தக நிலையங்களில் குறிப்பிட்ட விலையில் பொருட்களை விற்பனை செய்வதற்கான முறையான விலைப்பட்டியல் காட்சிப்படுத்தல், பொருட்களை விற்பனை செய்யும் போது அதற்கான பற்றுச்சீட்டு வழங்குவதன் ஊடாக வழக்கமான வர்த்தகம் நடைபெறுவதை உறுதி செய்வதிலும் அதிக கவனம் செலுத்தப்படவுள்ளது.
+Accordingly, raids will be conducted at retail stores and supermarkets from Monday (01) to January 15.
 
-இது தவிர, தொலைபேசி வர்த்தகம் மற்றும் சலுகை விற்பனை போன்றவற்றிலும் அதிகாரசபை கண்காணிப்பை மேற்கொள்ளவுள்ளது.
+Special attention will be paid to the trade centers that are being purchased by consumers during the festive season, prolonged goods, electric equipment and essential commodities.
+
+When carrying out these tests, more attention will be paid to ensuring that the regular trade is going on by the appropriate receipt when selling the goods to selling goods at specific prices at specific prices.
+
+In addition, the Authority will also conduct monitoring of telephone trading and concession sales.
 
 ...
 
 [Data](articles/cc9afd42.json)
+
+[Extended Data](ext_articles/cc9afd42.ext.json)
+
+---
+
+### ‘Sarvajana Balaya’ stands alone amid fragmenting traditional political parties - Dilith Jayaweera
+
+*2024-12-01 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103904/sarvajana-balaya-stands-alone-amid-fragmenting-traditional-political-parties-dilith-jayaweera) · `en`
+
+While traditional political parties are being fragmented, the only emerging political movement left in the country is ‘Sarvajana Balaya’, says its leader, Member of Parliament Dilith Jayaweera.
+
+Addressing an event held today (01), MP Jayaweera said: “According to the results of the last election, the ‘Sarvajana Balaya’ has advanced by the highest percentage, while the Sri Lanka Podujana Peramuna (SLPP) has advanced by the lowest percentage.”
+
+“The Podujana Peramuna used all their strength. The Pohottuwa [SLPP] was created solely to gather the necessary support to keep Basil Rajapaksa in politics. However, the Pohottuwa had no vision. Now that the American citizen has left the country, the mill is no longer turning.”
+
+...
+
+[Data](articles/3e04e6e1.json)
 
 ---
 
@@ -144,17 +190,27 @@ Furthermore, in the local context, Sri Lanka is recognized as a country with a r
 
 ---
 
-### ආනයනික ලොකු ලූනු වෙළඳ බද්ධ ගැන රජය ගත්ත තීරණය මෙන්න
+### Here is the decision of the government of imported big onion trade transplantation
 
 *2024-12-01 13:52:48* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-ලොකු-ලූනු-වෙළඳ-බද්ධ-ගැන-රජය-ගත්ත-තීරණය-මෙන්න/11-413374) · `si`
 
-ආනයනික ලොකු ලූනු සඳහා වන වෙළඳ බද්ධ අඩු කිරීමට මුදල් අමාත්‍යාංශය පියවර ගෙන තිබේ.
+Here's a summary in 200 characters:
 
-ඒ අනුව මෙතෙක් රුපියල් 30ට තිබුණු මෙම වෙළඳ බද්ධ රුපියල් 10ක් දක්වා අඩු කර ඇත.
+
+
+"Government reduces import tax on onions: Trade graft lowered to Rs. 30 to encourage imports."
+
+🟩
+
+The Ministry of Finance has taken steps to reduce trade grafter for imported onions.
+
+Accordingly, the trade graft has been reduced to Rs. 30.
 
 ◼️
 
 [Data](articles/57a3258d.json)
+
+[Extended Data](ext_articles/57a3258d.ext.json)
 
 ---
 
@@ -348,23 +404,33 @@ Police said that the confession is to be filed with the Prime Minister of the Ma
 
 ---
 
-### லேண்ட் ரோவர்  வாகனம் மீட்பு
+### Land Rover Vehicle Recovery
 
 *2024-12-01 12:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேண்ட்-ரோவர்-வாகனம்-மீட்பு/175-348045) · `ta`
 
-பொல்கசோவிட்ட பகுதியிலுள்ள வாகனத் தரிப்பிடம் ஒன்றில் சட்டவிரோதமான முறையில் நிறுத்தி வைக்கப்பட்டிருந்த லேண்ட் ரோவர் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Here's a summary in 200 characters:
 
-மேல்மாகாண புலனாய்வுப் பிரிவு அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் இந்த வாகனம் கண்டுபிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
 
-மஹரகம பௌத்த விகாரை ஒன்றின் பிரதம பிக்கு ஒன்றரை வருடங்களுக்கு முன்னர் பழைய லேன்ட் ரோவர், சேஸிஸ், நான்கு டயர்கள், இயந்திரம் என்பனவற்றை கையளித்துள்ளதாக கராஜ் உரிமையாளரிடம் மேற்கொள்ளப்பட்ட விசாரணையில் தெரியவந்துள்ளது.
 
-வாகனத்தை அசெம்பிள் செய்வதற்குத் தேவையான கார் பாகங்களையும் பிக்கு அவ்வப்போது கொண்டு வந்ததாக உரிமையாளர் மேலும் தெரிவித்தார்.
+Landlord found illegally parking old Land Rover in Polgasovita. Vehicle parts assembled over a year. Owner confesses to police, case to be filed with Prime Minister of Maharagama Buddhist Vihara.
 
-இது தொடர்பில் மஹரகம பௌத்த விகாரையின் பிரதம பிக்குவிடம் வாக்குமூலம் பதிவு செய்ய உள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+It is reported that a landlord in the Polgasovita area has been found illegally parked.
+
+The vehicle has been found on the basis of information received by the Western Provincial Intelligence Unit.
+
+Investigations carried out by the Karaj owner revealed that the old Land Rover, Chassis, four tires and machine were handed over a year and a half ago of the Maharagama Buddhist Vihara.
+
+The owner added that Piku had brought the car parts required to assemble the vehicle from time to time.
+
+Police said that the confession is to be filed with the Prime Minister of the Maharagama Buddhist Vihara.
 
 ◼️
 
 [Data](articles/d41b3141.json)
+
+[Extended Data](ext_articles/d41b3141.ext.json)
 
 ---
 
@@ -2371,49 +2437,5 @@ Public Administration Provincial Councils and Local Government Minister AHMH on 
 [Data](articles/f21e5659.json)
 
 [Extended Data](ext_articles/f21e5659.ext.json)
-
----
-
-### As a result of the Tamil nationalist parties splitting and contesting elections as different factions, the parliamentary representation of Tamils ​​from the north and east has been weakened even more than before. Tamil politicians had ignored the warnings given in advance in this regard.
-
-*2024-11-30 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85150) · `en`
-
-What is the future of Tamil nationalist politics in Sri Lanka? This question, which has arisen in the aftermath of the recent Parliamentary Elections, should not be viewed simply in terms of the future electoral prospects of Tamil parties. It is a question related to the anxiety regarding the prospects for the fulfillment of the legitimate political aspirations of the Tamil people.
-
-The Tamil nationalist political parties that have represented the Tamil people of the north and east in Parliament for more than 15 years since the end of the civil war have suffered a major setback in this Parliamentary Election.
-
-It seems difficult to expect that these parties, which have never shown any moral interest in introspecting on the reasons why the past struggles for the political rights of the Tamil people have not been fruitful, will look back and correct their political path after this defeat.
-
-...
-
-[Data](articles/00191f50.json)
-
-[Extended Data](ext_articles/00191f50.ext.json)
-
----
-
-### Another body found found dead in Ampara
-
-*2024-11-30 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203902) · `si`
-
-Body found in Ampara: Student drowns in tractor accident. Police recover remains. Incident occurred near Mabbala. Five students previously retrieved. Total deaths: 8.
-
-🟩
-
-Another body of the students drowned due to a tractor in the Mabbala area in Ampara.
-
-The police said that the police and the residents of the police and the residents of the area recovered the body of the student today (30).
-
-Fifteen schoolchildren who had traveled from Sudaple from the Samakurai area on the 26th afternoon was dropped in the area.
-
-Recently, five students have been recovered earlier and a body of the tractor driver and another.
-
-The bodies of eight of the students who were killed in the incident have been recovered.
-
-◼️
-
-[Data](articles/7d432766.json)
-
-[Extended Data](ext_articles/7d432766.ext.json)
 
 ---

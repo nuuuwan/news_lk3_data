@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 12:42:02**
+As of **2024-12-01 13:12:16**
 
 ## Newspaper Stats
 
-*Scraped **57,829** Articles*
+*Scraped **57,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,454
+adalk | 5,456
 adaderanalk | 7,010
-tamilmirrorlk | 8,220
+tamilmirrorlk | 8,222
 virakesarilk | 9,441
 adaderanasinhalalk | 9,995
 
@@ -26,45 +26,121 @@ adaderanasinhalalk | 9,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,821 (100.0%) of 57,829 articles have been extended.
+57,827 (100.0%) of 57,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### இறக்குமதி செய்யப்படும் பெரிய வெங்காயத்துக்கான விசேட பொருட்கள் வரி குறைப்பு!
+### Illegally organized vehicle recovery
+
+*2024-12-01 12:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோதமாக-ஒழுங்கமைக்கப்பட்ட-வாகனம்-மீட்பு/175-348045) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Landlord in Polgasovita area caught organizing illegal vehicle recovery. Investigation reveals old Land Rover parts were handed to Maharagama Buddhist Vihara 1.5 years ago. Police to file confession with Prime Minister.
+
+🟩
+
+It is reported that a landlord in the Polgasovita area has been found illegally organized.
+
+The vehicle has been found on the basis of information received by the Western Provincial Intelligence Unit.
+
+An investigation into the Karaj owner revealed that the old Land Rover, Chassis, four tires and machines had been handed over a year and a half ago of the Maharagama Buddhist Vihara.
+
+The owner added that Piku had brought the car parts required to assemble the vehicle from time to time.
+
+Police said that the confession is to be filed with the Prime Minister of the Maharagama Buddhist Vihara.
+
+◼️
+
+[Data](articles/9de054e9.json)
+
+[Extended Data](ext_articles/9de054e9.ext.json)
+
+---
+
+### Arrested for raising funds for terrorist group
+
+*2024-12-01 12:24:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-குழுவுக்கு-நிதி-திரட்டியவர்-கைது/175-348044) · `ta`
+
+British citizen arrested at Katunayake airport for fundraising for terrorist groups in Sri Lanka. Suspect, 43-year-old from Kilinochchi, distributed funds in Colombo and Vanni areas. Further investigation ongoing.
+
+🟩
+
+A man who raised funds for a terrorist group from Britain has been arrested at the Katunayake airport when he arrived in Sri Lanka.
+
+When the suspect arrived at the Colombo North Crime Division on the orders of the Colombo Northern Crime Division, the Immigration and Customs Implementation Unit had taken him to the airport police on Saturday (30).
+
+The money collected by the suspect has been distributed in Colombo and Vanni area, police said.
+
+The suspect was a 43 -year -old from Kilinochchi, a British citizen, who left the country in 2009.
+
+Further investigations into the incident are being carried out by the airport police and the Colombo North Crime Branch.
+
+◼️
+
+[Data](articles/88491688.json)
+
+[Extended Data](ext_articles/88491688.ext.json)
+
+---
+
+### Special products tax cut for imported large onions!
 
 *2024-12-01 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200129) · `ta`
 
-இறக்குமதி செய்யப்படும் ஒரு கிலோ கிராம் பெரிய வெங்காயத்துக்கான விசேட பொருட்கள் வரியை குறைக்க நிதி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+Here's a summary of 200 characters:
 
-இதன்படி, பெரிய வெங்காயத்துக்கான விசேட வரியை 30 ரூபாயில் இருந்து 10 ரூபாவாக குறைக்க அரசாங்கம் தீர்மானித்துள்ளது.
 
-அதன் அடிப்படையில், இறக்குமதி செய்யப்படும் ஒரு கிலோ உருளைக்கிழங்கின் விசேட பொருட்கள் வரி 60 ரூபாயாக காணப்படுகிறது.
 
-இந்த வரி திருத்தங்கள் தொடர்பாக வர்த்தமானி அறிவித்தலில் வெளியிடப்பட்டுள்ளதாக நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சு அறிவித்துள்ளது.
+Imported large onions tax cut: Rs 30 reduced to Rs 10 per kg. Potato import tax remains at Rs 60/kg. Temporary measure to support local farmers and stabilize prices. Effective until Dec 31, subject to future policy decisions.
 
-அதன்படி, உள்ளூர் விவசாயிகளைப் பாதுகாக்கவும் நுகர்வோருக்கு நியாயமான விலையை உறுதி செய்யவும் குறுகிய கால நடவடிக்கையாக இதனை அமுல்படுத்த நிதி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+🟩
 
-எனவே, இந்த வரி குறைப்பு டிசம்பர் 31ஆம் திகதி வரை அமுலில் இருக்கும் எனவும் எதிர்காலத்தில் எடுக்கப்படும் கொள்கை முடிவுகளின் அடிப்படையில் உரிய சட்ட விதிகளின் கீழ் அதை மேற்கொள்ள நடவடிக்கை எடுக்கப்படும் என்றும் நிதி அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Finance has taken steps to reduce the special products for one kilogram of imported onions.
+
+Accordingly, the government has decided to reduce the special tax on big onions from Rs 30 to Rs 10.
+
+Based on that, the special products of one kilogram of potatoes imported are 60 rupees.
+
+The Ministry of Finance, Planning and Economic Development has announced that the tax amendments have been issued in the Gazette Notification.
+
+Accordingly, the Ministry of Finance has taken steps to implement this as a short -term steps to protect local farmers and ensure a fair price for consumers.
+
+The Ministry of Finance said that the tax cut will be in force until December 31st and action will be taken under the relevant law based on the future policy decisions.
 
 ◼️
 
 [Data](articles/45720231.json)
 
+[Extended Data](ext_articles/45720231.ext.json)
+
 ---
 
-### வெங்காய வரி குறைப்பு
+### Onion tax
 
 *2024-12-01 12:19:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-வரி-குறைப்பு/175-348043) · `ta`
 
-இறக்குமதி செய்யப்படும் வெங்காயத்திற்கான 30 ரூபாய் வரியை 20 ரூபாவாக குறைக்க நிதியமைச்சு தீர்மானித்துள்ளது. இது இம்மாதம் 31ஆம் திகதி வரையிலும் அமுலில் இருக்கும். இதேவேளை,
+Here's a summary in 200 characters:
 
-ஒரு கிலோகிராம்  உருளைக்கிழங்குக்கான 60 ரூபாய் விசேட வர்த்தக வரியும் இம்மாதம் 31ஆம் திகதி வரை அமுலில் இருக்கும்.
+
+
+"Finance Ministry reduces onion import tax to 20 rupees till 31st. Implements 60 rupee/kg potato trading tax also valid till 31st."
+
+🟩
+
+The Finance Ministry has decided to reduce the tax on onions for imported onions to 20 rupees. It will be in effect until the 31st of this month. In the same way,
+
+A special trading tax of 60 rupees per kilogram of potatoes will be in effect until the 31st of this month.
 
 ◼️
 
 [Data](articles/91585964.json)
+
+[Extended Data](ext_articles/91585964.ext.json)
 
 ---
 
@@ -85,6 +161,8 @@ The luxury vehicle has been handed over to the Kesbewa Police for further invest
 ◼️
 
 [Data](articles/19fda9d7.json)
+
+[Extended Data](ext_articles/19fda9d7.ext.json)
 
 ---
 
@@ -116,15 +194,25 @@ He reiterated his unwavering position in favor of Palestinian rights, and promis
 
 ---
 
-### பலஸ்தீனத்தில் இஸ்ரேல் உருவாக்கப்பட்டபோதே ஐக்கிய நாடுகள் சபையும் மரணித்துவிட்டது
+### The United Nations also died as Israel was created in Palestine
 
 *2024-12-01 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200120) · `ta`
 
-யூதர்களுக்கென ஒரு அரசை நிறுவிய பிறகும் இஸ்ரேலின் அட்டூழியக் கொள்கைகள் நிறுத்தப்படவில்லை. காசாவில் பலஸ்தீனர்களை இஸ்ரேல் தொடர்ந்து இனப்படுகொலை செய்தது. காஸாவை இஸ்ரேலுடன் இணைத்து அகண்ட இஸ்ரேலை உருவாக்க பலஸ்தீனர்களை இனரீதியாக ஒழித்துக் கட்டுவதற்கான அண்மைக்கால இனப்படுகொலை தான் இப்போது அரங்கேறி வருகிறது.
+Here's a summary in 200 characters:
+
+
+
+Israel's creation led to UN dissolution. Statehood didn't end Israeli-Palestinian conflict. Gaza killings persist. Current "genocide" claims are controversial and disputed by many sources.
+
+🟩
+
+Israel's atrocities have not stopped even after the establishment of a state for the Jews. Israel continued to kill Palestinians in Gaza. The recent genocide of racially eradicating the Palestinians to create Gaza with Israel is now underway.
 
 ◼️
 
 [Data](articles/1425dfb7.json)
+
+[Extended Data](ext_articles/1425dfb7.ext.json)
 
 ---
 
@@ -304,6 +392,22 @@ Triggered by a deep depression in the southwest Bay of Bengal, heavy rainfall ha
 
 ---
 
+### අල්ලස් ගත් මීගමුව කොට්ඨාස අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති අල්ලයි
+
+*2024-12-01 10:48:51* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-මීගමුව-කොට්ඨාස-අපරාධ-විමර්ශන-අංශයේ-ස්ථානාධිපති-අල්ලයි/11-413371) · `si`
+
+පුද්ගලයකුගෙන් රුපියල් 270.000/= ක අල්ලස් මුදලක් ලබා ගැනීම සම්බන්ධයෙන් මීගමුව කොට්ඨාස අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනාව විමර්ශන කොමිෂන් සභාව කියයි.
+
+මීගමුව දළුපොත සිර කඳවුර පාර පදිංචි පුද්ගලයෙකුට අයත් මෝටර් රථයක් පුද්ගලයන් දෙදෙනකු විසින් කුලී පදනම මත ලබාගෙන අස්ථානගත කිරීම සම්බන්ධයෙන් මීගමුව කොට්ඨාස අපරාධ විශේෂ අපරාධ විමර්ශන අංශයට ලද පැමිණිල්ලකට අනුව සැකකාර ප්‍රධාන පොලිස් පරීක්ෂකවරයා සැකකරුවන් සහ එම මෝටර් රථය අත්අඩංගුවට ගෙන  මීගමුව අධිකරණය වෙත ඉදිරිපත් කර ඇත.
+
+එම කාර් රථය අධිකරණයෙන් මුදා ගැනීමට  පැමිණිල්ලිකරුගෙන් මෙම සැකකාර නිලධාරියා විසින් රුපියල් 270.000/= ක් වටිනා වායු සමීකරණ යන්ත්‍රයක් ඉල්ලාඇති අතර එම යන්ත්‍රයට අදාළ මුදල් පෞද්ගලික බැංකු ගිණුමක තැන්පත් කර ඊට අදාළ රිසිට් පතර මීගමුව විශේෂ අපරාධ විමර්ශන  අංශයේදී සැකකාර නිලධාරියා වෙත ලබාදීමේදී එහි රැක සිටි. අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් සැකකාර නිලධාරියා අත්අඩංගුවට ගෙන ඇත. සැකකරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/86cd963d.json)
+
+---
+
 ### CAA conducts special raids for festive season
 
 *2024-12-01 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103897/caa-conducts-special-raids-for-festive-season) · `en`
@@ -369,6 +473,20 @@ The airport and Colombo North Criminal Division is conducting further investigat
 [Data](articles/04d6c566.json)
 
 [Extended Data](ext_articles/04d6c566.ext.json)
+
+---
+
+### ජල විදුලි බලාගාර වල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන්
+
+*2024-12-01 10:37:01* · [`adalk`](https://www.ada.lk/breaking_news/ජල-විදුලි-බලාගාර-වල-විදුලි-උත්පාදනය-උපරිම-ධාරිතාවෙන්/11-413370) · `si`
+
+කාසල්රි, මවුස්සාකැලේ සහ ජල විදුලි බලාගාර ජල පෝෂක ප්‍රදේශවලට පසුගිය දින කිහිපය තුල ඇද හැලුණු අධික වර්ෂාවත් සමග ජල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බව විදුලි බලාගාර ඉංජිනේරුවන් පැවසිය.
+
+ලක්ෂපාන, නව ලක්ෂපාන, පොල්පිටිය, කැනියොන්, විමලසුරෙන්ද්‍ර සහ ඉහල කොත්මලේ ජල විදුලි බලාගාර වල විදුලි උත්පාදනය උපරිම ධාරිතාවෙන් සිදු කරන බවද එම ඉංජිනේරුවන් පැවසිය.
+
+◼️
+
+[Data](articles/12268987.json)
 
 ---
 
@@ -2327,123 +2445,5 @@ The accident had occurred while a group of Madaule Madarazer School students and
 [Data](articles/f3d613ab.json)
 
 [Extended Data](ext_articles/f3d613ab.ext.json)
-
----
-
-### Anuradhapura Teaching Hospital rarebirth
-
-*2024-11-30 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203897) · `si`
-
-Rare quadruplet birth at Anuradhapura Teaching Hospital. Mother delivered four healthy babies via C-section. Hospital faces incubator shortage, risking premature infant care.
-
-🟩
-
-A twin birth is one of them, and the happiness of the parent is twice.
-
-Accordingly, Ada Derana was reported from Anuradhapura Teaching Hospital in Anuradhapura.
-
-The 4-year-old woman was owned by this lucky four-tribured child.
-
-She recently created these four twin children at the Anuradhapura Teaching Hospital.
-
-The nurses, including specialist doctors including the Anuradhapura Teaching Hospital, have been caught in the mother calamity.
-
-Doctors say that these children who saw the light of Caesarean surgery are in good health in the premature baby unit.
-
-Four Twin in the Anuradhapura Teaching Hospital has become an important event to the hospital due to the first time.
-
-Speaking on the matter, Mr. Dinesh Biyagama said this.
-
-...
-
-[Data](articles/1fb2d645.json)
-
-[Extended Data](ext_articles/1fb2d645.ext.json)
-
----
-
-### Another operation to find out the people affected by disasters
-
-*2024-11-30 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203895) · `si`
-
-Operation provides relief to Sri Lankans affected by disasters. Teams distribute dry food in Vavuniya. Collaboration between Derana and Dialog supports multiple districts.
-
-🟩
-
-Providing relief to the people affected by the people affected by the Sri Lankan disasters will be given to provide relief to the people affected by the inclement weather.
-
-The operation was launched today (30) on the second day today.
-
-Whenever of a disaster situation in Sri Lanka, the Messianic Derana presented concessions to the people of our own Lakwasi to provide relief to the people of the Lakwansa.
-
-Accordingly, the Derana teams carrying materials to the people affected in the North recently started traveling to Vavuniya.
-
-Our group has reached the Vavuniya district to the Vavuniya district and protected the people living in the flood-displaced relief camps.
-
-The dry food items were distributed to the SLAF for cooking.
-
-Dry food items were delivered to cook for the people who were present at the IDD camp, Vavuniya, Vavuniya.
-
-Manusath Derana, along with Dialog, is ready to provide relief to the people affected by a number of districts.
-
-◼️
-
-[Data](articles/8b5656b1.json)
-
-[Extended Data](ext_articles/8b5656b1.ext.json)
-
----
-
-### Industrialists in Swine flu
-
-*2024-11-30 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203894) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"African swine flu spreads rapidly in Sri Lanka due to unregistered farms. About 25,000 people work in the industry, mostly in Padukka and Kosgama areas. In 2019, a similar virus affected pig farming, leading to the current outbreak."
-
-🟩
-
-African swine fluorescent spreads rapidly expanded due to the rapid spread of the fluorescent of the veterinary officers in the Padukka Veterinary Surveys.
-
-Sweda farm owners point out that they have been deeply helpless under the backdrop.
-
-About 25,000 people in the Veterinary Officer of the Veterinary Officer of the Padukka, Kosgama and Padukka, were only 176 registered Savkara farm.
-
-As a result, nearly 50,000 people have been severely engaged in direct and indirect jobs related to the industry.
-
-In 2019, pigs were influenced by a similar virus disease, and the Sri Lankan swaming industry was a bad period.
-
-However, veteran officials point out that this situation has contributed to the rapid growth of the African swine flu.
-
-◼️
-
-[Data](articles/90784aeb.json)
-
-[Extended Data](ext_articles/90784aeb.ext.json)
-
----
-
-### Fitch confirms ‘AAA(lka)’ rating of Sri Lanka’s Lion Brewery amid new competition
-
-*2024-11-30 14:54:00* · [`economynextcom`](https://economynext.com/fitch-confirms-aaalka-rating-of-sri-lankas-lion-brewery-amid-new-competition-190978/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming an ‘AAA (lka)’ rating of Sri Lanka’s Lion Brewery, with a stable outlook, despite possible competition from a competitor.
-
-“We expect Lion to maintain its solid market position in the local beer industry over the medium term,” Fitch said.
-
-“Our view is underpinned by Lion’s range of product offerings across price points, which makes cash flow defensive through cycles. It also benefits from prominent shelf space across its sales channels.
-
-“However, we expect competition will increase over the medium-term from the recent new beer product launch, owned by a leading local spirits manufacturer.
-
-“The competition will benefit from an established retail-channel and distribution network, although Fitch believes the impact on Lion’s revenue will be gradual given production capacity will only ramp-up gradually over the medium-term.”
-
-...
-
-[Data](articles/9839f75a.json)
-
-[Extended Data](ext_articles/9839f75a.ext.json)
 
 ---

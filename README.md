@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 00:42:01**
+As of **2024-12-01 22:41:47**
 
 ## Newspaper Stats
 
-*Scraped **57,926** Articles*
+*Scraped **57,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,180 +13,24 @@ dbsjeyarajcom | 442
 colombotelegraphcom | 590
 bbccomsinhala | 603
 islandlk | 3,477
-economynextcom | 3,517
-dailyftlk | 3,992
+economynextcom | 3,513
+dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,469
-adaderanalk | 7,017
+adaderanalk | 7,016
 tamilmirrorlk | 8,229
-virakesarilk | 9,486
-adaderanasinhalalk | 10,008
+virakesarilk | 9,484
+adaderanasinhalalk | 10,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,924 (100.0%) of 57,926 articles have been extended.
+57,911 (100.0%) of 57,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### Rise of floating voters: key to political renewal of Sri Lanka
-
-*2024-12-01 23:54:07* · [`dailyftlk`](https://www.ft.lk/columns/Rise-of-floating-voters-key-to-political-renewal-of-Sri-Lanka/4-769936) · `en`
-
-The rise of floating voters signifies a shift in the political landscape of Sri Lanka, where loyalty to political parties is no longer a given
-
-The rise of floating voters signifies a shift in the political landscape of Sri Lanka, where loyalty to political parties is no longer a given
-
-Recent Presidential and Parliamentary elections in Sri Lanka reveal a clear and growing trend: a significant portion of the electorate now comprises “floating voters.” These voters are characterised by their willingness to change political loyalties frequently, driven by a quest for the most suitable solutions to the nation’s issues. Unlike a party’s core supporters, their allegiance is not fixed, and they are open to shifting their vote based on the performance and vision of the political parties at any given time.
-
-...
-
-[Data](articles/ecbe6d5e.json)
-
-[Extended Data](ext_articles/ecbe6d5e.ext.json)
-
----
-
-### Hope of all Sri Lankans: Governance with a difference, strategic action plan replacing verbal promises
-
-*2024-12-01 23:32:19* · [`dailyftlk`](https://www.ft.lk/columns/Hope-of-all-Sri-Lankans-Governance-with-a-difference-strategic-action-plan-replacing-verbal-promises/4-769935) · `en`
-
-The manifesto of the NPP should essentially be the basis for preparing the strategic plan, as it is the document that formed a social contract between the NPP and the people of the country at the Presidential and Parliamentary elections
-
-A publicly available, regularly monitored and updated strategic plan, where achieved outcomes or reasons for not meeting outcomes are truthfully told to the public, will change the mirage mentality to one of reality. Stating the truth however is paramount to make this happen as politically convenient untruths will be of no benefit to the people and the country and the strategic planning exercise will be a waste of time
-
-...
-
-[Data](articles/8cec29ce.json)
-
----
-
-### Shah Rujan Virgin on International Forum
-
-*2024-12-01 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200185) · `ta`
-
-Sri Lanka U-19 wins vs Afghanistan by 131 runs. Shanmuganathan Shah Rujan scores century, leads team to semis. Afghanistan all out for 112. Praveen Manisha takes 2/16.
-
-🟩
-
-Sri Lanka won by 131 runs by 131 runs in the Under -19 -year -old Asian Bowens against Afghanistan on Sunday at the Sharjah Cricket Stadium in the United Arab Emirates.
-
-Shanmuganathan Shah Rujan played a major role in Sri Lanka's victory and confirmed the team's semi -final chance in his first Test match.
-
-In the first match against Nepal, Sharujan, the man of the match, won the second consecutive match award by scoring a century in the match.
-
-Sri Lankan junior team stumbles as the opening batsman. (0 - 1 wig.)
-
-However, St. Blessed Team Leader Sharujan was very responsible for Kottanchen and shared 100 runs in the 2nd wicket with Perera.
-
-Wimath Dinsara scored 26 runs and Lakwin Abeysinghe 16 runs.
-
-In reply, Afghanistan lost all wickets in 28.2 overs and curled up for 112 runs.
-
-Nasibulla Amiri (33) and Hamza Ali Gill (32) scored more than 30 runs.
-
-...
-
-[Data](articles/73708e1b.json)
-
-[Extended Data](ext_articles/73708e1b.ext.json)
-
----
-
-### Athabitation of a few areas
-
-*2024-12-01 22:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203938) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-Air quality of the major cities in Jaffna, Kilinochchi and Trincomalee have reached an offensive level today.
-
-With the inclement weather, air pollutants, including India, including India, including India.
-
-According to the internationally recognized IQAIR.com website at 3 pm, 3 high cities in the island have exceeded 151 major cities in the country.
-
-According to the air quality index, its value is 151 to 200, as a harmful situation.
-
-Accordingly, the main cities in Jaffna, Kilinochchi and Trincomalee have exceeded 151 this afternoon.
-
-The National Building Research Institute of the National Building Research Institute will inform the public that the fall of the quality of air quality can cause respiratory difficulties and if it is caused by it, they should be directed to seek medical treatment.
-
-◼️
-
-[Data](articles/43d2914c.json)
-
-[Extended Data](ext_articles/43d2914c.ext.json)
-
----
-
-### Melbourne Renagades won the Women's Big Bash League Bowl for the first time
-
-*2024-12-01 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200187) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Melbourne Renegades win inaugural Women's Big Bash League title. Hailie Mathews shines with 69 runs & 2 wickets. Duckworth Lewis method decides 7-run victory at Melbourne Cricket Stadium.
-
-🟩
-
-The Melbourne Renagates Women's Team won the Champion title for the first time in the Women's Big Bash League Cricket Tournament between the eight teams in Australia.
-
-Duckworth Lewis won the Melbourne Cricket Stadium on Sunday in the final of the final by 7 runs.
-
-West Indies Hailee Mathews shone in all sectors and made the Melbourne Renagates women's team.
-
-Haily Mathews also won the match with 2 wickets and won the match.
-
-Melbourne Renagates, who was first invited to bat first, scored 141 runs for the loss of 9 wickets in 20 overs.
-
-Hailie Mathews scored 69 runs including 8 pounds. Georgia Wehaham scored 21 runs and Nayomi Stoolberg 16 runs.
-
-Charlie Note took 3 wickets for 28 runs and Crescent Parsons took 2 wickets for 29 runs.
-
-The Pirisbane Heat women's team, who won 142 runs, were dismissed at 3.15 pm when the women's team lost 2 wickets in 3.2 overs.
-
-...
-
-[Data](articles/113125e6.json)
-
-[Extended Data](ext_articles/113125e6.ext.json)
-
----
-
-### 697.4 millimeters of rain in two weeks in Jaffna
-
-*2024-12-01 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200188) · `ta`
-
-Jaffna: 697.4mm rainfall in 2 weeks affects 73k people. 2k remain in shelters. Floods hit Uppukeni; drainage repairs planned.
-
-🟩
-
-697.4 mm of rainfall has been received from the 18th to the 01st of December in Jaffna and 73 thousand 693 people from 21 thousand 987 families have been affected.. District Secretary M Pradeepan said.
-
-Yall. He said this during a media briefing held at the District Secretariat on Sunday (1).
-
-On the 29th, 7 thousand 417 persons belonging to 2 thousand 163 families were kept in 82 security centers. As many of them are now returning to their homes, there are still 2 thousand 393 people from 695 families from 695 families in 26 security centers till the 01st of this month.
-
-We continue to provide cooked foods for them. Steps have been taken to provide them with food until they are staying at security centers.
-
-Meanwhile, 50 families have been affected due to flooding in the area of ​​Uppukeni, which is under the Chavakachcheri Divisional Secretariat.
-
-Since the flood water is not in the area, we have taken steps to discharge flooding through the water planting machine.
-
-...
-
-[Data](articles/814ac174.json)
-
-[Extended Data](ext_articles/814ac174.ext.json)
-
----
 
 ### Kotzi will lose the second Test
 
@@ -215,28 +59,6 @@ He was a bowler who won a lot of attention.
 [Data](articles/07ef36a1.json)
 
 [Extended Data](ext_articles/07ef36a1.ext.json)
-
----
-
-### New govt. not rushing decisions on SOE restructuring – President’s Economic Advisor
-
-*2024-12-01 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103908/new-govt-not-rushing-decisions-on-soe-restructuring-presidents-economic-advisor) · `en`
-
-Senior Economic Advisor to the President Duminda Hulangamuwa claims that the new government is encouraging the private sector to be at the forefront of economic development in the country.
-
-However, he noted that the government will retain control over strategic sectors of public interest.
-
-Joining Ada Derana’s current affairs program, ‘@HydePark’, Hulangamuwa highlighted that the government is pursuing a liberal market strategy to encourage private sector investment.
-
-Commenting on the restructuring of state-owned enterprises, Hulangamuwa explained that the government is not rushing the process but is carefully analysing which state-owned enterprises (SOEs) are a burden on the treasury.
-
-Responding to a question regarding the government’s stance on SOE restructuring, the Senior Economic Advisor to the President noted that the restructuring of the SOEs can take different forms and that the government is not rushing decisions regarding the matter.
-
-...
-
-[Data](articles/9342dad1.json)
-
-[Extended Data](ext_articles/9342dad1.ext.json)
 
 ---
 
@@ -296,10 +118,6 @@ Subsequently, the suspect has been handed over to the Periyaruwana police statio
 
 *2024-12-01 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200182) · `ta`
 
-<PHIND_TIMEOUT>
-
-🟩
-
 Police Media Spokesperson Nihal Dalduwa said that nine persons have been arrested in connection with the robbery of the suspects in a van in the Matale -Lakkala police division.
 
 On November 10, some members of the robbery gang in the area of ​​the Lakkala police division have entered a house and built the owner of the house.
@@ -326,10 +144,6 @@ He added that the police are taking steps to seize other assets and arrest two s
 
 *2024-12-01 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200186) · `ta`
 
-<PHIND_TIMEOUT>
-
-🟩
-
 The brokerage that went to former Minister Kanjana Wijeshekara during the importation of fuel goes to the current government. Survives these people. Ambika Sukuma, a representative of the plantation people, said,
 
 The government headed by President Anura Kumara Dissanayake is implementing the fuel pricing campaign by defrauding the former Power and Power and Energy Minister.
@@ -349,10 +163,6 @@ Two months have passed since President Anuragumara Dissanayake has come to power
 ### A deficit of coconut in the market
 
 *2024-12-01 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203936) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
 
 The coconut price is highly valued with the shortage of coconut shortages these days in the market.
 
@@ -378,81 +188,65 @@ The new tax revision is implemented until December 31, while heavy onion prices 
 
 ---
 
-### Steps will be taken to create the Northern Province Investors Forum - Governor Na Vedanayaka
+### Shah Rujan Virgin on International Forum
+
+*2024-12-01 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200185) · `ta`
+
+Sri Lanka won by 131 runs by 131 runs in the Under -19 -year -old Asian Bowens against Afghanistan on Sunday at the Sharjah Cricket Stadium in the United Arab Emirates.
+
+Shanmuganathan Shah Rujan played a major role in Sri Lanka's victory and confirmed the team's semi -final chance in his first Test match.
+
+In the first match against Nepal, Sharujan, the man of the match, won the second consecutive match award by scoring a century in the match.
+
+Sri Lankan junior team stumbles as the opening batsman. (0 - 1 wig.)
+
+However, St. Blessed Team Leader Sharujan was very responsible for Kottanchen and shared 100 runs in the 2nd wicket with Perera.
+
+Wimath Dinsara scored 26 runs and Lakwin Abeysinghe 16 runs.
+
+In reply, Afghanistan lost all wickets in 28.2 overs and curled up for 112 runs.
+
+Nasibulla Amiri (33) and Hamza Ali Gill (32) scored more than 30 runs.
+
+...
+
+[Data](articles/73708e1b.json)
+
+[Extended Data](ext_articles/73708e1b.ext.json)
+
+---
+
+### வடக்கு மாகாண முதலீட்டாளர்கள் மன்றத்தை உருவாக்க நடவடிக்கை எடுக்கப்படும் - ஆளுநர் நா.வேதநாயகன்
 
 *2024-12-01 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200184) · `ta`
 
-Here's a summary of 200 characters:
+வடக்கு மாகாணத்தில் முதலீட்டாளர்கள் மன்றத்தை உருவாக்குவதற்கான நடவடிக்கைகள் எதிர்வரும் காலத்தில் மேற்கொள்ளப்படும் என வடக்கு மாகாண கௌரவ நா.வேதநாயகன் அவர்கள், யாழ் வணிகர் கழகப் பிரதிநிதிகளிடம் தெரிவித்தார்.
 
+யாழ் வணிகர் கழகம் தலைவர் இ.ஜெயசேகரன் தலைமையிலான குழுவினர் வடக்கு மாகாண ஆளுநரை, ஆளுநர் செயலகத்தில் வெள்ளிக்கிழமை 29.11.2024 மாலை சந்தித்துக் கலந்துரையாடினர்.
 
+யாழ். நகரில் அமைந்துள்ள புதிய சந்தைக் கட்டடத் தொகுதியில் மிக நீண்ட காலமாக பயன்பாடில்லாது இருக்கும் தளத்தை சிறிய மற்றும் நடுத்தர தொழில் முயற்சியாளர்களுக்கு வாடகை அடிப்படையில் வழங்குவதன் ஊடாக அவர்களுக்கு நிரந்தர சந்தை வாய்ப்பை ஏற்படுத்த முடியும் என வணிகர் கழப் பிரதிநிதிகள் சுட்டிக்காட்டினர். யாழ். மாநகர சபையுடன் ஆராய்ந்து அதற்கான நடவடிக்கை எடுக்கப்படும் என ஆளுநர் குறிப்பிட்டார்.
 
-Northern Province Investors Forum creation underway. Governor Na Vedanayaka meets Jaffna Merchant Association. Discusses permanent market opportunities, small-medium entrepreneur support, factory establishment challenges, and investor benefits. Proposes annual conferences and refrigerated bus service. Addresses sand shortage, passenger shipping safety, and poverty relief mechanisms.
-
-🟩
-
-Northern Province Hon.
-
-The delegation headed by the Chairman of the Jaffna Merchant, E. Jayasekaran, met the Governor of the Northern Province at the Governor's Secretariat on Friday evening 29.11.2024.
-
-Yall. Merchants representatives pointed out that the site that is not long in the new market building in the city can be made permanent market opportunity by providing a rent to small and medium entrepreneurs on the basis of rent.. Yall. The governor said that action would be taken to investigate with the Municipal Council.
-
-Representatives of the Merchant Association noted that even though many are interested in carrying out small and medium entrepreneurs, they are facing difficulties in obtaining areas and permission to establish factories.
-
-They said that if the appropriate places were allocated to each Divisional Secretariat Division, they would be given a lease basis and would be easy if the officers were regulated on the same roof to obtain permissions.
+சிறிய மற்றும் நடுத்தர தொழில் முயற்சிகளை முன்னெடுக்க பலர் ஆர்வமாக உள்ளபோதும் அவர்களுக்கான தொழிற்சாலைகளை நிறுவுவதற்கான இடங்களையும், அனுமதிகளையும் பெற்றுக்கொள்வதில் இடர்பாடுகளை எதிர்கொள்வதாக வணிகர் கழக பிரதிநிதிகள் குறிப்பிட்டனர்.
 
 ...
 
 [Data](articles/518a6bb6.json)
 
-[Extended Data](ext_articles/518a6bb6.ext.json)
-
 ---
 
-### Sri Lanka to defer imputed rental tax: report
-
-*2024-12-01 20:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-defer-imputed-rental-tax-report-191070/) · `en`
-
-ECONOMYNEXT – A controversial imputed tax on housing promoted by the International Monetary Fund, with rents on second houses already taxed will be deferred, a senior advisor to Sri Lanka President Anura Kumara Dissanayake has said.
-
-The government was also working on a policy of targeted subsidies rather than indiscriminate tax reduction, he said.
-
-The imputed rental tax, which was to have been paid on owner-occupied houses and later adjusted to a second house, has been controversial.
-
-There have been warnings that such a tax may discourage the expansion of housing stock where high taxes are already paid on building materials.
-
-“That will be deferred,” Duminda Hulangamuwa, advisor to the President told a talk show Sri Lanka’s Derana Television.
-
-The tax was expected to bring around 0.2 percent of revenue.
-
-The Head of the Economic Council of the NPP, Anil Jayantha pointed out before the elections that imputed income was not real income.
-
-...
-
-[Data](articles/5127e639.json)
-
-[Extended Data](ext_articles/5127e639.ext.json)
-
----
-
-### Family killed in sword incident in Vavuniya
+### வவுனியாவில் வாள்வெட்டு சம்பவத்தில் குடும்பஸ்தர் பலி!
 
 *2024-12-01 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200183) · `ta`
 
-Family tragedy: Sword attack kills man in Vavuniya. Father of two fatally injured while tending cattle. Victim rushed to hospital but succumbed to injuries. Incident occurred in Omanthai Semamadu area.
+வவுனியா ஓமந்தை சேமமடு பகுதியில் இடம்பெற்ற வாள்வெட்டு சம்பவத்தில் குடும்பஸ்தர் ஒருவர் பலியாகியுள்ளார்.
 
-🟩
+குறித்த பகுதியில் மாடுகளை சாய்த்துக்கொண்டுவந்த குடும்பஸ்தர் மீது குழுவொன்று வாளால் வெட்டியுள்ளது. இதனால் படுகாயமடைந்த அவர் அங்கிருந்தவர்களால் மீட்கப்பட்டு வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
 
-A family member has been killed in a sword incident in the Omanthai Semamadu area in Vavuniya.
-
-A group of swords have been cut on a family member who tilted cows in the area. He was rescued by the victims and was admitted to the Vavuniya Hospital.
-
-The father of two children, Selvaniroyan, aged 46, from Navakkulam, has been killed in the incident.
+சம்பவத்தில் நாவற்குளம் பகுதியை சேர்ந்த செல்வநிரோயன் வயது 46 என்ற இரண்டு பிள்ளைகளின் தந்தையே பலியாகியுள்ளார்.
 
 ◼️
 
 [Data](articles/399ff20b.json)
-
-[Extended Data](ext_articles/399ff20b.ext.json)
 
 ---
 
@@ -702,31 +496,21 @@ A spokesman for the Board said that the preparation of the proposal is in the fi
 
 ---
 
-### Weather-destroyed vegetable cultivation also seek compensation
+### කාලගුණයෙන් විනාශ වූ එළවළු වගාවටත් වන්දි ඉල්ලයි
 
 *2024-12-01 18:42:51* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-විනාශ-වූ-එළවළු-වගාවටත්-වන්දි-ඉල්ලයි/11-413387) · `si`
 
-Upcountry vegetable farmers demand compensation for crop damage due to weather disasters. Government assistance limited to specific crops like paddy and potatoes. Farmers seek support for other affected vegetables like leeks, carrots, beans, and tomatoes.
+අයහපත් කාලගුණයෙන් වගා හානි වූ තමන්ටද  වන්දි මුදලක් ලබා දෙන ලෙස වගා හානියට පත් උඩරට එළවළු ගොවීහු රජයෙන් ඉල්ලා සිටිති.
 
-🟩
+වී, ලොකු ලූනු, අර්තාපල් ඇතුළු බෝග වර්ග හයකට රජයෙන් වන්දි මුදල් ලබා දෙන බව දැනට පවසා ඇති වුවත් අර්තාපල් හැර උඩරට වෙනත් බෝග වගා සඳහා වන්දි මුදලක් ලබා දීමට රජය පියවර ගෙන නොමැති බවත් උඩරට ගොවීහු පවසති.
 
-The farmers of the uprox vegetables are demanded as a result of bad weather.
+තමන් වගා කළ ලීක්ස්, කැරට්, බෝංචි, බීට්රූට්, සලාද, රාබු, නෝ කෝල්, මාළු මිරිස්, තක්කාලි, ගෝවා අතු ගෝවා යනාදී වෙනත් උඩරට එළවළු වර්ග වගා කරන ලද වගා බිම් රැසක් පසුගිය දිනවල පැවති ගංවතුර  හා අනෙකුත් ආපදා හේතුවෙන් විනාශයට පත්ව ඇතයි එළවළු ගොවීහු කියති.
 
-The government has not taken measures to pay compensation for six crops including paddy, big onions, potatoes, but the government has not taken compensation to facilitate other crops.
+කඳපොළ  ප්ර්දේශයේ එළවළු වගාවන්ට  ගංවතුර ගැලීම  හේතුවෙන් දැඩි හානියට පත්ව ඇති බවත්, නුවරඑළිය දිස්ත්රිතක්කයේ අනෙකුත් ප්රාදේශවල උඩරට එළවළු වගා කොට තිබූ පහත් බිම් රැසක් ජලයෙන් යට වී යාම හේතුවෙන් ඒවායේ වගා කොට තිබූ එළවළු වර්ග ද සම්පූර්ණයෙන් විනාශයට පත්ව ඇති ඔවුහු පෙන්වා දෙති.
 
-Vegetable farmers have been destroyed due to the recent floods and other disasters, such as leeks, carrots, beans, beetroot, beetroot, beetroot, beetroet, tomatoes, tomatoes.Says.
-
-They have been severely damaged due to floods in the Kandapola area, and they have been completely destroyed due to floods.
-
-Farmers say they are engaged in vegetable crops and intense helplessly, which has been paid to the banks and the earnings of the banks.
-
-They call upon the government to reach the cultivation of the damage to the damaging damage to the upcountry vegetable ground.
-
-◼️
+...
 
 [Data](articles/5d586632.json)
-
-[Extended Data](ext_articles/5d586632.ext.json)
 
 ---
 
@@ -978,27 +762,21 @@ The rain has left areas in central Chennai, including Korattur, Koyambedu, Virug
 
 ---
 
-### A car on the highway is on fire
+### අධිවේගී මාර්ගයේ දි මෝටර් රථයක් ගිනි ගනී
 
 *2024-12-01 17:26:09* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගයේ-දි-මෝටර්-රථයක්-ගිනි-ගනී/11-413383) · `si`
 
-Car on fire on highway near Galle-Colombo route. Police investigating possible mechanical issue as cause.
+දක්ෂිණ අධිවේගී මාර්ගයේ වැලි පැන්න සහ කුරුඳුගහ හැතැප්ම අතර කිලෝමීටර් 66 දශම 6 ප්‍රදේශයේදී අද (1) සවස පිරිසක් ගමන් ගත් මෝටර් රථයක් හදිසියේ ගිනි ගැනීමට ලක් වූ බව දක්ෂිණ අධිවේගී රථවාහන පොලිසිය කියයි.
 
-🟩
+ගාල්ල දෙස සිට කොළඹ දෙසට ධාවනය වූ මෝටර් රථය හදිසියේ ගිනිගැනීමට ලක්වීී ඇත.
 
-Southern Expressway Police say that a car has fled a sudden death in the 66th kilometers between the Southern Expressway and the Southern Expressway.
+ගින්න ඇති වූ වහාම එම ස්ථානයට පැමිණි අධිවේගී මාර්ග කුරුඳුගහ හැතැක්ම ගිනි නිවීමේ ඒකකය මගින් ගින්න සම්පූර්ණයෙන්ම වැඩ පවත්වා නිවා දැමීමට කටයුතු කළ අතර ඒ වන විටත් මෝටර් රථයේ අඩකට ආසන්න ප්‍රමාණයක් සම්පූර්ණයෙන්ම දැවි ගොස් ඇතැයි පොලිසිය කියයි.
 
-The car traveling from Galle to Colombo has suddenly fires.
-
-According to the Cinnugaha Hagahat Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Hice Fire Delegation was completely implemented and nearly half of the car had already bowed the car.
-
-Police suspect that the fire may have caused fire due to a technical fault in the back of the car. Cinnamage Police are conducting further investigations
+මෝටර් රථයේ පිටුපස පෙදෙසේ  ඇතිවූ කාර්මික දෝෂයක් හේතුවෙන් ගින්න ඇතිවන්නට ඇතැයි පොලිසිය සැක කරයි. අධිවේගී මාර්ග කුරුඳු ගහ හැතැප්ම පොලිසිය පරීක්ෂණ පවත්වයි
 
 ◼️
 
 [Data](articles/dcbe5c61.json)
-
-[Extended Data](ext_articles/dcbe5c61.ext.json)
 
 ---
 
@@ -1146,8 +924,6 @@ Despite its size, Sri Lanka’s location in the Indian Ocean makes it a vital pl
 
 [Data](articles/1a286237.json)
 
-[Extended Data](ext_articles/1a286237.ext.json)
-
 ---
 
 ### Seventories of robbery reveal
@@ -1236,26 +1012,6 @@ The proposed project to develop Galle Harbor as a complete port as a complete po
 
 ---
 
-### Sri Lanka debt relief US$8.4bn to August, banking system outflow $7.3bn
-
-*2024-12-01 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-relief-us8-4bn-to-august-banking-system-outflow-7-3bn-191015/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government has recieved debt relief of around 8.4 billion US dollars from the time a default was declared in April 2022 to August 2024, but the banking system has repaid debt or collected reserves of 7.3 billion dollars, official data show.
-
-The debt relief over banking system repayments was about 1.11 billion US dollars.
-
-Sri Lanka stopped servicing bilateral and commercial debt on April 2022, and the central bank hiked rates previously kept artificially low rates low by printing money, helping ending the worst currency crisis in the 74-year-old history of the agency.
-
-The principal government debt arrears after default from April 2022 to August 2024 was 5.784 billion dollars and past due interest was 2.623 billion, or a total of 8.407 billion dollars, a Finance Ministry report showed.
-
-...
-
-[Data](articles/9e43b6bd.json)
-
-[Extended Data](ext_articles/9e43b6bd.ext.json)
-
----
-
 ### Here's why the AIDS rises among new young people
 
 *2024-12-01 16:27:30* · [`adalk`](https://www.ada.lk/breaking_news/නව-යෞවනයන්-අතර-ඒඩ්ස්-ඉහළ-යන්න-හේතුව-මෙන්න/11-413380) · `si`
@@ -1317,26 +1073,6 @@ After the Magistrate's hearing, the body was placed in the funeral room of the K
 [Data](articles/72f61a55.json)
 
 [Extended Data](ext_articles/72f61a55.ext.json)
-
----
-
-### Will Tibetans be led by a Reincarnated Dalai Lama, or One Picked by China?
-
-*2024-12-01 16:11:00* · [`economynextcom`](https://economynext.com/will-tibetans-be-led-by-a-reincarnated-dalai-lama-or-one-picked-by-china-190282/) · `en`
-
-ECONOMYNEXT – Chemi Lhamo, Campaign Director of Free Tibet would like to see more international support for preserving the Tibetan way of life and Dharma.
-
-Citing The Resolve Tibet Act, which US President Joe Biden signed into law in June this year, Ms Lhamo added that she was optimistic that European countries that constantly speak on human rights would not hesitate to pass similar legislation in support of Tibet.
-
-Tibet has been under the control of China since 1951, with a government in exile, also known as the Central Tibetan Administration being set up in neighbouring India, by the 14th Dalai Lama following the Lhasa uprising of 1959.
-
-Though he divested himself of all political authority in 2011, the Dalai Lama, who turned 89 this year, continues to be the spiritual head of Tibetans, who consider him the living incarnation of the Buddha. The search for a new Dalai Lama begins when he passes away, by senior disciples who look for visions and signs to identify the successor.
-
-...
-
-[Data](articles/6f81d1d7.json)
-
-[Extended Data](ext_articles/6f81d1d7.ext.json)
 
 ---
 
@@ -2494,26 +2230,6 @@ Lalkada Lokuge Sanath Sumantha Sumanasiri is a retired Deputy Principal.
 
 ---
 
-### Sri Lanka extends food tax on potatoes at $200 a tonne, slashes onion levy
-
-*2024-12-01 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-food-tax-on-potatoes-at-200-a-tonne-slashes-onion-levy-190993/) · `en`
-
-ECONOMYNEXT – Sri Lanka has extended a food import tax on potatoes to around 60,000 rupees a tonne (about 205 US dollars) but slashed a tax onion to 10,000 rupees (about 34 dollars) from 40,000 rupees a tonne, according to gazette notice.
-
-The taxes, a so-called special commodity levy, will be applicable from December 01 to December 31.
-
-Sri Lanka has among the highest food taxes int the world, including on rice at 65,000 rupees a tonne, (about 222 US dollars at 292 rupees a dollar) keeping prices among the highest in the world, especially compared to incomes.
-
-In Sri Lanka basic Nadu rice wholesale prices were reported at around 229 rupees a kilo (about 784 dollars a tonne), which is about the FOB price of Vietnam fragrant rice.
-
-India parboiled 5 percent broken rice fell below 500 dollars a tonne to 474 dollars (about 138 rupee a kilo) in October, following the lifting of a minimum export price of 490 dollars, according to November Food and Agricultural Organization data.
-
-...
-
-[Data](articles/7a140ee5.json)
-
----
-
 ### “Don't believe the rumors”
 
 *2024-12-01 11:24:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வதந்திகளை-நம்ப-வேண்டாம்/175-348040) · `ta`
@@ -2533,5 +2249,227 @@ Do not rely on rumors that spread about tsunami disaster. We are very responsibl
 [Data](articles/4b5871a9.json)
 
 [Extended Data](ext_articles/4b5871a9.ext.json)
+
+---
+
+### Trade Facilities for Imported Commodities
+
+*2024-12-01 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203925) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Ministry of Finance reduces import tax on big onions from Rs. 10 to Rs. X. Aim: Protect local farmers, ensure fair prices for consumers. Temporary measure until Dec 31. Future legal actions planned."
+
+🟩
+
+The Ministry of Finance has taken steps to reduce trade goods for a kilogram of imported big onions.
+
+Accordingly, the government has decided to reduce the merchandise of Rs. 10 to Rs.
+
+Accordingly, the Ministry of Finance has taken steps to protect the local farmer and implement a fair price to the consumer as a short term move.
+
+Accordingly, the reduction of these taxes will be implemented until December 31 and action will be taken to act on the appropriate legal measures that will be taken in the future.
+
+◼️
+
+[Data](articles/680d6dcb.json)
+
+[Extended Data](ext_articles/680d6dcb.ext.json)
+
+---
+
+### British citizen arrested over alleged terrorism financing in Colombo and Vanni
+
+*2024-12-01 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103900/british-citizen-arrested-over-alleged-terrorism-financing-in-colombo-and-vanni) · `en`
+
+Sri Lanka Police have arrested a 43-year-old British citizen of Sri Lankan origin for allegedly collecting and distributing funds for a terrorist group.
+
+The suspect, originally from Kilinochchi, had left Sri Lanka in 2009 and later obtained British citizenship.
+
+The arrest was made upon his arrival at Bandaranaike International Airport (BIA) in Katunayake on November 30, 2024.
+
+Authorities from the Immigration and Emigration Department had apprehended the individual, acting on an overseas travel ban issued by the Colombo Magistrate’s Court at the request of the Colombo North Crimes Division. The suspect was subsequently handed over to the Airport Police.
+
+According to police sources, the suspect is accused of raising funds while based in the United Kingdom and channeling the money to individuals in Colombo and the Vanni region.
+
+The Airport Police, in coordination with the Colombo-North Crimes Division, is currently conducting further investigations.
+
+◼️
+
+[Data](articles/ad723a64.json)
+
+[Extended Data](ext_articles/ad723a64.ext.json)
+
+---
+
+### New era in Sri Lanka
+
+*2024-12-01 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200126) · `ta`
+
+N
+
+🟩
+
+The NPP's frequent curse that NPP has referred to as the elite supremacy of national politics is the main milestones on the path towards the "old democracy of Asia".
+
+◼️
+
+[Data](articles/d49a1c10.json)
+
+[Extended Data](ext_articles/d49a1c10.ext.json)
+
+---
+
+### Special Commodity Levy on big onions reduced
+
+*2024-12-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103899/special-commodity-levy-on-big-onions-reduced) · `en`
+
+The Government of Sri Lanka has reduced the Special Commodity Levy imposed on imported big onions to Rs. 10 per kilogram, to be in effect during the period from December 01 to December 31, 2024.
+
+Accordingly, the government has implemented measures to reduce the Special Commodity Levy on big onions from Rs. 30 to Rs. 10, a reduction of Rs. 20.
+
+Meanwhile, it has been decided to keep the Special Commodity Levy imposed on imported potatoes unchanged.
+
+The Ministry of Finance, Planning and Economic Development announced that the relevant tax revisions have been published in a gazette notification dated 2024.11.30 and that the stipulations of the relevant gazette notification will be in effect from December 01 to December 31, 2024.
+
+...
+
+[Data](articles/f5382f6a.json)
+
+[Extended Data](ext_articles/f5382f6a.ext.json)
+
+---
+
+### Pedestrian death
+
+*2024-12-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200123) · `ta`
+
+A fatal accident occurred on Dambulla-Habaranna road when a lorry struck a pedestrian. The victim died, while the driver was hospitalized.
+
+🟩
+
+One person was killed when a lorry crashed into a pedestrian on Saturday (30) at the Inamaluwa area on Dambulla - Habaranna road under the Sigiriya Police Division.
+
+The incident occurred when lorry pedestrians traveling from Dambulla to Habarana collided with a person who crossed the road.
+
+The body has been placed in the funeral room of the Dambulla hospital and the driver of the lorry has been admitted to the Kimbissa Hospital for treatment.
+
+◼️
+
+[Data](articles/e4b8beef.json)
+
+[Extended Data](ext_articles/e4b8beef.ext.json)
+
+---
+
+### Another Defender vehicle meets a garage suspects that assembled illegal
+
+*2024-12-01 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203924) · `si`
+
+Illegal Land Rover assembly discovered in Polgasowita renovation. Vehicle parts sourced from Maharagama, assembled elsewhere. Temple chief involved. Jeep handed to Kesbewa Police for investigation.
+
+🟩
+
+The Land Rover, which assembled as illegally assembled, was found in a renovation of the Polgasowita.
+
+When questioned by the owner of the vehicle repair location, he said that a land rover of the Maharagama, Maharagama, a jeep, four tires and an old engine were brought by a land of the Maharagama.
+
+He has said that the owners were brought to the preparation of the vehicle from time to time.
+
+Accordingly, the chief incumbent of the temple is being given to this place, the police said.
+
+The jeep has been handed over to the Kesbewa Police for further investigations.
+
+◼️
+
+[Data](articles/0f4ce849.json)
+
+[Extended Data](ext_articles/0f4ce849.ext.json)
+
+---
+
+### Adverse weather displaces over 143,000 people across 24 districts
+
+*2024-12-01 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103898/adverse-weather-displaces-over-143000-people-across-24-districts) · `en`
+
+The ongoing adverse weather conditions from a deep depression over the southwest Bay of Bengal have left 143,726 people from 53,888 families displaced, seeking refuge in shelters and relatives’ homes, the Disaster Management Center (DMC) reported.
+
+Of those displaced, 116,209 individuals from 45,418 families are staying with relatives, while 27,517 individuals from 8,470 families are taking shelter in 229 relief centers.
+
+The severe weather has resulted in widespread property damage, with 103 houses completely destroyed and 2,635 houses partially damaged. In total, 479,871 people from 142,624 families across 24 districts have been affected by the extreme weather so far.
+
+Triggered by a deep depression in the southwest Bay of Bengal, heavy rainfall has inundated several provinces in recent days. As a result, sluice gates remain open at multiple reservoirs, including Deduru Oya, Per Aru, Ulhitiya Rathkinda, Polgolla, Nachchaduwa, Rajanganaya, Kalawewa, and Weheragala.
+
+...
+
+[Data](articles/7a0203e2.json)
+
+[Extended Data](ext_articles/7a0203e2.ext.json)
+
+---
+
+### OIC of the Negombo Divisional Criminal Investigation Division seized
+
+*2024-12-01 10:48:51* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-මීගමුව-කොට්ඨාස-අපරාධ-විමර්ශන-අංශයේ-ස්ථානාධිපති-අල්ලයි/11-413371) · `si`
+
+Negombo CID OIC arrested bribery case 270,000/= court production
+
+🟩
+
+The Bribery Commission says that the OIC of the Negombo Divisional Criminal Investigation Division has been arrested in connection with a bribe of Rs 270.000 / =.
+
+The suspect Chief Inspector General Inspector has arrested the suspects and produced before the Negombo Divisional Criminal Investigation Division regarding the loss of a person from a resident of Negombo.
+
+The suspect was backed by the suspect to be liberated by the court.. The suspect was arrested by the officials of the Commission to Investigate Allegations of Bribery or Corruption. The suspect is due to be produced in court.
+
+◼️
+
+[Data](articles/86cd963d.json)
+
+[Extended Data](ext_articles/86cd963d.ext.json)
+
+---
+
+### CAA conducts special raids for festive season
+
+*2024-12-01 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103897/caa-conducts-special-raids-for-festive-season) · `en`
+
+The Consumer Affairs Authority (CAA) has implemented a series of special raids during the upcoming festive season, in a bid to safeguard consumers.
+
+Accordingly, raids will be carried out within retail stores and supermarkets from today (December 1) until January 15.
+
+According to the CAA, all major wholesale outlets and warehouses in all districts will be inspected so as to ensure that expired products will not enter the market, while the CAA will also closely monitor all outlets selling clothes, electronics, and other essential and durable goods.
+
+In carrying out these raids, more attention will be placed on ensuring that regular trade are conducted properly, including the issuance of official invoices for goods sold at the designated prices, as well as ensuring that the prices of the products are displayed and sold at the correct prices.
+
+Other than that, mobile vendors and other stores hosting large seasonal sales are also under supervision, the CAA said.
+
+...
+
+[Data](articles/2ea0f096.json)
+
+[Extended Data](ext_articles/2ea0f096.ext.json)
+
+---
+
+### Sri Lanka cuts Octane 92 price by Rs.2, raises diesel by Rs.3, Kerosine by Rs.5
+
+*2024-12-01 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-octane-92-price-by-rs-2-raises-diesel-by-rs-3-kerosine-by-rs-5-190990/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state fuel retailer Ceylon Petroleum Corporation (CPC) reduced the price of widely used Octane 92 petrol by 2 rupees to 309 rupees per litre while increased diesel by 3 rupees and kerosine by 5 rupees with effect from Dec. 1.
+
+The price of Octane 92 reduced to Rs. 309 while diesel raised to Rs.286 and kerosine to Rs. 188.
+
+The CPC, however, maintained the price of Octane 95 at 371 rupees and Super diesel at 313 rupees.
+
+Private fuel retailers Lanka IOC and Sinopec also adjusted their prices in line with CPC’s revision. (Colombo/December 01/2024)
+
+◼️
+
+[Data](articles/8fac2d5f.json)
+
+[Extended Data](ext_articles/8fac2d5f.ext.json)
 
 ---

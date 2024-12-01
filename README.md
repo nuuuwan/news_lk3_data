@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 17:26:16**
+As of **2024-12-01 17:43:18**
 
 ## Newspaper Stats
 
-*Scraped **57,876** Articles*
+*Scraped **57,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,462
-adaderanalk | 7,013
-tamilmirrorlk | 8,227
+adalk | 5,463
+adaderanalk | 7,014
+tamilmirrorlk | 8,228
 virakesarilk | 9,463
 adaderanasinhalalk | 10,001
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,869 (100.0%) of 57,876 articles have been extended.
+57,869 (100.0%) of 57,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### சுதந்திர தின விழாவில் கலந்து கொள்ள அழைப்பு
+
+*2024-12-01 17:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-விழாவில்-கலந்து-கொள்ள-அழைப்பு/175-348058) · `ta`
+
+அண்மையில் ஜனாதிபதி அனுரகுமார திஸாநாயக்கவிடம் உத்தியோகபூர்வமாக நற்சான்றிதழ்களை கையளித்த புதிய தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்களுக்கு இலங்கையின் சுதந்திர தின விழாவில் கலந்து கொள்ளுமாறு வெளிவிவகார அமைச்சர் விஜித ஹேரத் அழைப்பு விடுத்துள்ளார்.
+
+வெளிவிவகார அமைச்சில் புதிதாக நியமிக்கப்பட்ட ஒன்பது தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர் ஒருவருடனான சந்திப்பின் போது இந்த அழைப்பு விடுக்கப்பட்டுள்ளது.
+
+இராஜதந்திர உறவுகளை வலுப்படுத்தும் நடவடிக்கையாக இலங்கையில் தூதரகங்களை நிறுவுவதற்கு பிரதிநிதிகள் விருப்பம் தெரிவித்தனர்.
+
+இலங்கையுடனான பொருளாதார மற்றும் வர்த்தக உறவுகளை மேம்படுத்த புதிய உடன்படிக்கைகளை எட்டுவதற்கும் பிரதிநிதிகள் முன்மொழிந்தனர்.
+
+புர்கினா பாசோ, போஸ்னியா மற்றும் ஹெர்சகோவினா, அஜர்பைஜான் குடியரசு,ஜோர்ஜியா, பெலாரஸ் குடியரசு, ஆர்மீனியா குடியரசு, ஸ்பெயின் இராச்சியம், கொங்கோ குடியரசு, கினியா குடியரசு மற்றும் புதிய கென்யா குடியரசு ஆகியவற்றைப் பிரதிநிதித்துவப்படுத்தும் புதிய தூதர்கள் மற்றும் புதிய உயர் ஸ்தானிகர்கள் கூட்டத்தில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/a800d0f7.json)
+
+---
 
 ### இலங்கையின் பிரிக்ஸ் உறுப்பினர் நிலை : எதிர்கால வெற்றி இலக்கு
 
@@ -92,6 +112,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Romania’s far right expected to make gains in parliamentary election
+
+*2024-12-01 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103905/romanias-far-right-expected-to-make-gains-in-parliamentary-election) · `en`
+
+Romanians vote in a parliamentary election on Sunday in which the far right is expected to gain from uncertainty over whether the shock result in a presidential election will stand.
+
+Days after far-right politician Calin Georgescu won most votes in the presidential election first round, an opinion poll this week showed the hard-right Alliance for Uniting Romanians (AUR) had a narrow lead over the governing Social Democrats.
+
+Gains by far-right groupings in Sunday’s parliamentary vote after a campaign dominated by voters’ concerns over budget problems and the cost of living could upend Romania’s pro-Western orientation and undermine support for Ukraine, political analysts said.
+
+“People who have serenely voted for Georgescu do not realise we are essentially talking about a total trajectory shift,” political scientist Cristian Pirvulescu said.
+
+...
+
+[Data](articles/98c6f088.json)
+
+---
+
 ### The body of a man in suspicious manner in Hettipola field!
 
 *2024-12-01 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200138) · `ta`
@@ -131,6 +169,24 @@ The patriarchal North and East nationalist politics is in a state of disrepair. 
 [Data](articles/b1bfe996.json)
 
 [Extended Data](ext_articles/b1bfe996.ext.json)
+
+---
+
+### දීග දන්තුගේ හිස කොටස සංරක්ෂණයට, උදරයේ රු. 10 කාසියක්, වල්ගයේ කෙදිත් ගලවාගෙන ගිහින්
+
+*2024-12-01 15:40:52* · [`adalk`](https://www.ada.lk/picture_story/දීග-දන්තුගේ-හිස-කොටස-සංරක්ෂණයට--උදරයේ-රු--10-කාසියක්--වල්ගයේ-කෙදිත්-ගලවාගෙන-ගිහින්/10-413377) · `si`
+
+ගල්කිරියාගම, හිඟුරුවැව ප්‍රදේශයේ දී විදුලි සැර වැදීමෙන් මිය ගිය දීග දන්තු 01 හස්තියාගේ දළ යුගළය සහ හිස කොටස සංරක්ෂණය කිරීමට පියවර ගෙන තිබේ.
+
+ඒ, අනුව එම සතවයාගේ හිස කඳෙන් වෙන්කර ගල්කිරියාගම වනසත්ව අඩවි ආරක්ෂක කාර්යාලය වෙත රැගෙනයාමට වනජීවී නිලධාරීන් ඉකුත් දා (29) රාත්‍රියේ කටයුතු කරනු ලැබීය. සත්ත්වයාගේ පශ්චාත් මරණ පරීක්ෂණයෙන් පසු දළ යුගළය සහිත හිස කොටස කඳෙන් වෙන් කර ගැනීමට වනජීවී නිලධාරීන් කටයුතු කර තිබේ.
+
+ගල්කිරියාගම වනසත්ව අඩවි ආරක්ෂක කාර්යාලය වෙත රැගෙන ගිය එම හිස කොටස ආරක්ෂිතව වළ දැමීමට කටයුතු කර තිබේ. හස්තියාගේ දළ යුගළය ආරක්ෂිතව ගලවා ඉවත් කිරීම සඳහා එම හිස කොටස ඉදිරියේ දී නැවත ගොඩගැනීමට නියමිත බවයි වනජීවී නිලධාරීන් ප්‍රකාශ කළේ.
+
+මෙම සත්ත්වයාගේ මරණය විදුලි සැර වැදීමක් හේතුවෙන්  හදවත අක්‍රිය වීම නිසා මෙම මරණය සිදුව  ඇති බව පශ්චාත් මරණ පරීක්ෂණය මඟින් තහවුරු වූ බවයි අනුරාධපුර පණ්ඩුලගම වනජීවී පශු වෛද්‍ය චන්දන ජයසිංහ මහතා සඳහන් කළේ.
+
+...
+
+[Data](articles/c6ed0b7b.json)
 
 ---
 
@@ -2297,79 +2353,5 @@ The unparalleled victory of JVP/NPP in the national elections of November 14, 20
 [Data](articles/1062e9de.json)
 
 [Extended Data](ext_articles/1062e9de.ext.json)
-
----
-
-### Fine sportsman, great debater, big appetite but weak stomach
-
-*2024-12-01 00:53:00* · [`islandlk`](http://island.lk/fine-sportsman-great-debater-big-appetite-but-weak-stomach/) · `en`
-
-Dudley Senanayake in the short Parliament of March to July 1960
-
-Family and background had been central in Dudley Senanayake’s case too. Greatness had literally been thrust on him when he had been appointed prime minister on the death of his father D S, in 1952. That had been a time of intrigue and maneuvering which had soured the relations between Sir John, his close relative and him.
-
-Sir John had struck back with the Premier Stakes which he later denied having any connection with. So Dudley had been anxious to win his spurs for himself through the hustings as early as possible. And he had proved his legitimacy by winning the 1952 elections handsomely, helped by the sympathy vote created by the death of his father. But his first stint as prime minister did not last long. Plagued by illness, chronic gastritis and the hartal of August 1953 which resulted in police firing and some civilian deaths, Dudley resigned.
-
-...
-
-[Data](articles/5e8fa427.json)
-
-[Extended Data](ext_articles/5e8fa427.ext.json)
-
----
-
-### SHALL WE SHOP TODAY?
-
-*2024-12-01 00:43:00* · [`islandlk`](http://island.lk/shall-we-shop-today/) · `en`
-
-The one phrase calculated to galvanize any young person into flying out of bed is that magic question, “Shall we shop today?”
-
-“Where, where?” To KitKat, my granddaughter, the word ‘shopping’ has a sort of intonation that no other sound can equal. It is an incantation of magic.
-
-Really, I am so crafty I surprise myself. I need KitKat to help me carry a few new books from Vijitha Yapa Bookshop to my car plus a few household necessities.
-
-She bounds out of bed and is ready so fast I have barely time to turn round and catch my breath before casually mentioning that I do need to have a short stop at the Crescat Supermarket before treating ourselves to those Palaces of Delight — namely the new clothes shops opening up all over the city these days. She resigns herself to my perfidy.
-
-“I knew you’d make me pay for this,” says she. “I trust you will make it worth my while,” she adds sternly.
-
-“How much will it take?” I am cautious. KitKat’s ideas of economy do not exactly dovetail with mine.
-
-...
-
-[Data](articles/8da2a79c.json)
-
-[Extended Data](ext_articles/8da2a79c.ext.json)
-
----
-
-### 2024-11-30 (Saturday)
-
-### Three arrested for attempting to suffer the public
-
-*2024-11-30 23:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203915) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 arrested for promoting LTTE via old videos during Mahavairu celebrations. Suspects from Maradana, Chunnakam, Baddegama. Charged with Facebook circulation & internet advertising for banned org. CID & TID conducting further investigations."
-
-🟩
-
-The Criminal Investigations Department (CID) has arrested three suspects regarding the unrest in the event of the LTTE celebrations.
-
-Police said that the suspects were residents of Maradana, Chunnakam and Baddegama areas.
-
-The suspects have been circulated by the LTTE, the leader of the LTTE, who is the banned organization of the island, to the old videos of the LTTE, and the old videos have been made in the years of Mahavairu Celebrations in the years.They have been charged with circulation of Facebook, hiding as celebrations.
-
-Accordingly, the suspects were arrested in terms of the temporary arrangement of false advertisements and advertising on the Internet to promote the activities of the Internet and promote the activities of a banned organization.Have been taken.
-
-The Criminal Investigations Department and the Terrorism Investigation Division conducts further investigations.
-
-◼️
-
-[Data](articles/38c592ec.json)
-
-[Extended Data](ext_articles/38c592ec.ext.json)
 
 ---

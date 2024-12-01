@@ -1,116 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 03:11:25**
+As of **2024-12-02 02:26:21**
 
 ## Newspaper Stats
 
-*Scraped **57,939** Articles*
+*Scraped **57,933** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 442
-colombotelegraphcom | 591
+colombotelegraphcom | 590
 bbccomsinhala | 603
 islandlk | 3,477
 economynextcom | 3,517
-dailyftlk | 4,002
+dailyftlk | 3,999
 dailymirrorlk | 4,733
 adalk | 5,469
 adaderanalk | 7,017
 tamilmirrorlk | 8,229
-virakesarilk | 9,488
+virakesarilk | 9,486
 adaderanasinhalalk | 10,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,936 (100.0%) of 57,939 articles have been extended.
+57,932 (100.0%) of 57,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### Govt. extends warm welcome to newly appointed diplomats, invites for Independence Day celebrations
-
-*2024-12-02 03:04:07* · [`dailyftlk`](https://www.ft.lk/news/Govt-extends-warm-welcome-to-newly-appointed-diplomats-invites-for-Independence-Day-celebrations/56-769970) · `en`
-
-Discussions focus on boosting bilateral relations, economic cooperation, trade partnerships
-
-Foreign Minister Vijitha Herath has extended a formal invitation to the newly appointed Ambassadors and High Commissioners to participate in the upcoming Independence Day celebrations.
-
-The invitation was made during a meeting held at the Foreign Affairs Ministry with nine newly appointed Ambassadors and a High Commissioner, who recently presented their credentials to President Anura Kumara Dissanayake.
-
-The new diplomats represent Burkina Faso, Bosnia and Herzegovina, Azerbaijan, Georgia, Belarus, Armenia, Spain, Congo, Guinea, and Kenya. The meeting served as a platform to discuss opportunities for strengthening bilateral relations and expanding cooperation in the economic and trade sector.
-
-The delegates expressed their intention to establish embassies in Sri Lanka in a move to strengthen diplomatic ties.
-
-...
-
-[Data](articles/0183cf9a.json)
-
----
-
-### Entire SL stands in solidarity with Palestine – Bimal
-
-*2024-12-02 03:01:56* · [`dailyftlk`](https://www.ft.lk/news/Entire-SL-stands-in-solidarity-with-Palestine-Bimal/56-769969) · `en`
-
-Minister Bimal Ratnayake has declared that Sri Lanka stands firmly with Palestine, emphasising widespread support across the nation. He made these remarks during the International Day of Solidarity with the Palestinian People event, held in Colombo over the weekend.
-
-Ratnayake highlighted that the turnout at the event reflected the country’s solidarity with Palestine. He reaffirmed that the new Government, led by President Anura Kumara Dissanayake, will continue to recognise Palestine as a free and sovereign State, working in alignment with established United Nations policies.
-
-The event saw participation from prominent figures, including Archbishop of Colombo Malcolm Cardinal Ranjith, Opposition Leader Sajith Premadasa, religious leaders, diplomats, and other distinguished guests. Samagi Jana Balawegaya (SJB) Chairperson Imthiaz Bakeer Markar, speaking at the event, drew attention to the increasing death toll in Palestine as reported by global media.
-
-...
-
-[Data](articles/44ce233e.json)
-
----
-
-### Fuel prices revised
-
-*2024-12-02 02:58:42* · [`dailyftlk`](https://www.ft.lk/news/Fuel-prices-revised/56-769968) · `en`
-
-The Ceylon Petroleum Corporation (CPC) on Saturday announced a revision of fuel prices effective from 1 December.
-
-Only the price of Petrol 92 Octane was reduced by Rs. 2 to Rs. 309 per litre, while the prices of Auto Diesel and Kerosene were increased. The price of Auto Diesel was increased by Rs. 3 to Rs. 286 per litre, while price of Kerosene was increased by Rs. 5 to Rs. 188.
-
-However, the prices of Petrol 95 Octane and Super Diesel remain unchanged.
-
-Meanwhile, the Lanka IOC too announced that it has decided to revise its fuel prices to match the State-owned CPC prices.
-
-◼️
-
-[Data](articles/a9592bfc.json)
-
----
-
-### Minister of Women and Child Affairs Saroja Savitri Bolraj visits Mannar
-
-*2024-12-02 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200190) · `ta`
-
-Women and Child Affairs Minister Saroja Savitri Bolraj visits flood-affected areas in Mannar, providing relief and addressing public concerns about development and support.
-
-🟩
-
-A team led by Women and Child Affairs Minister Saroja Savitri Bolraj met the people who were constantly affected by the floods in Mannar and continued to stay in security centers.
-
-Deputy Minister of Women and Child Affairs Dr. Namal Lakshamana, Member of Parliament Samanveli Gunasinghe, including the Secretaries of the Ministry of Parliament Samanveli Gunasinghe, and Mannar Nagar Divisional Secretary M Pradeep and Mannar District Secretariat Secretary (Land) SriskandakumarSelvanagar, the Hindu temple here. A visit to Pudukkudiyiruppu and met the people there and provided the medical and essential items brought by the companies.
-
-This was followed by a women's meeting at the party office located on the lower road.
-
-Minister of Women and Child Affairs Saroja Savitri Bolraj addressing the people who visited the visit here;
-
-The government is in charge of the aspiration of the people to do a lot of development work.
-
-...
-
-[Data](articles/29e04b3c.json)
-
-[Extended Data](ext_articles/29e04b3c.ext.json)
-
----
 
 ### New chapter for Sri Lanka: We cannot give something out of nothing
 
@@ -125,8 +45,6 @@ Let’s take Sri Lanka Railways for example. Each year, the State pumps approxim
 ...
 
 [Data](articles/cbb40418.json)
-
-[Extended Data](ext_articles/cbb40418.ext.json)
 
 ---
 
@@ -223,30 +141,6 @@ Combating Corruption: Implement strict measures to eliminate bribery and corrupt
 [Data](articles/19c80f1c.json)
 
 [Extended Data](ext_articles/19c80f1c.ext.json)
-
----
-
-### We have improved to protect human rights of people with AIDS, including AIDS - Prime Minister Harini Amarasuriya
-
-*2024-12-02 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/200189) · `ta`
-
-Improved human rights for those with AIDS: PM Harini Amarasuriya addresses rally on International AIDS Day, highlighting positive changes in societal attitudes towards the disease.
-
-🟩
-
-The social attitude of the disease has changed compared to the attitude of the early days of AIDS.. Prime Minister Harini Amarasuriya said that we have improved the human rights of those who are suffering from AIDS, including AIDS.
-
-Prime Minister Harini Amarasuriya made this statement while addressing a rally on Sunday (1) on the occasion of International AIDS Day.
-
-Compared to the attitude of the early days of AIDS, there is a major change in the social attitude of the disease and the disease -affected parties.. This is the most favorable environment. HIV. The community is in fear and controversy over the virus infected. The victims are rejected.
-
-But at present, we have improved the protection of the human rights of the victims by the new innovations, the development of therapeutic services and the good conversation in the community. This is the most appreciated situation.
-
-...
-
-[Data](articles/26d8c1e5.json)
-
-[Extended Data](ext_articles/26d8c1e5.ext.json)
 
 ---
 
@@ -557,20 +451,6 @@ He added that the police are taking steps to seize other assets and arrest two s
 [Data](articles/28316d82.json)
 
 [Extended Data](ext_articles/28316d82.ext.json)
-
----
-
-### Child’s Guide To Central Bank’s New Monetary Policy Instrument: Overnight Policy Rate
-
-*2024-12-01 20:54:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-central-banks-new-monetary-policy-instrument-overnight-policy-rate/) · `en`
-
-Aseni, whiz kid in economics, has seen the viral news that the Central Bank has moved to a new monetary policy instrument called the Overnight Policy Rate, abbreviated as OPR. There has been a press release from the Central Bank, but it has been in technical jargons. As a result, it has been beyond the comprehension of the ordinary citizens. Aseni herself could not understand it. Hence, she turned to her grandpa, Sarath Mahatthaya, an ex-official of the Ministry of Finance, to elucidate this new instrument to her. This is the conversation between the two.
-
-...
-
-[Data](articles/d963c040.json)
-
-[Extended Data](ext_articles/d963c040.ext.json)
 
 ---
 
@@ -2453,5 +2333,171 @@ He was arrested on the basis of confidential information received by Nikweratiya
 [Data](articles/45623f14.json)
 
 [Extended Data](ext_articles/45623f14.ext.json)
+
+---
+
+### Motorcycle in Ratnapura - Plowing machine accident;Death
+
+*2024-12-01 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200114) · `ta`
+
+Motorcycle crashes into plowing machine in Ratnapura, killing one. Driver dies at hospital. Plowing machine operator arrested.
+
+🟩
+
+One person was killed when a motorcycle crashed into a plowing machine on Saturday (30) in the Bagala area of ​​the Belmadulla Nonagama road in the Ratnapura and Kuttikala police division.
+
+The accident occurred when a motorcycle crashed into the same direction in the back of the plowing machine carrying people towards Noonama.
+
+A motorcycle driver and behind him were admitted to the Chandrikawewa Hospital in Padalangala, and the motorcycle driver died without treatment.
+
+The body has been placed in the funeral room of the Padalangala Chandrikawewa Hospital and the driver of the plowing machine has been arrested.
+
+◼️
+
+[Data](articles/40d1b6b7.json)
+
+[Extended Data](ext_articles/40d1b6b7.ext.json)
+
+---
+
+### Illegally organized vehicle recovery
+
+*2024-12-01 12:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோதமாக-ஒழுங்கமைக்கப்பட்ட-வாகனம்-மீட்பு/175-348045) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Landlord in Polgasovita area caught organizing illegal vehicle recovery. Investigation reveals old Land Rover parts were handed to Maharagama Buddhist Vihara 1.5 years ago. Police to file confession with Prime Minister.
+
+🟩
+
+It is reported that a landlord in the Polgasovita area has been found illegally organized.
+
+The vehicle has been found on the basis of information received by the Western Provincial Intelligence Unit.
+
+An investigation into the Karaj owner revealed that the old Land Rover, Chassis, four tires and machines had been handed over a year and a half ago of the Maharagama Buddhist Vihara.
+
+The owner added that Piku had brought the car parts required to assemble the vehicle from time to time.
+
+Police said that the confession is to be filed with the Prime Minister of the Maharagama Buddhist Vihara.
+
+◼️
+
+[Data](articles/9de054e9.json)
+
+[Extended Data](ext_articles/9de054e9.ext.json)
+
+---
+
+### Land Rover Vehicle Recovery
+
+*2024-12-01 12:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேண்ட்-ரோவர்-வாகனம்-மீட்பு/175-348045) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Landlord found illegally parking old Land Rover in Polgasovita. Vehicle parts assembled over a year. Owner confesses to police, case to be filed with Prime Minister of Maharagama Buddhist Vihara.
+
+🟩
+
+It is reported that a landlord in the Polgasovita area has been found illegally parked.
+
+The vehicle has been found on the basis of information received by the Western Provincial Intelligence Unit.
+
+Investigations carried out by the Karaj owner revealed that the old Land Rover, Chassis, four tires and machine were handed over a year and a half ago of the Maharagama Buddhist Vihara.
+
+The owner added that Piku had brought the car parts required to assemble the vehicle from time to time.
+
+Police said that the confession is to be filed with the Prime Minister of the Maharagama Buddhist Vihara.
+
+◼️
+
+[Data](articles/d41b3141.json)
+
+[Extended Data](ext_articles/d41b3141.ext.json)
+
+---
+
+### Arrested for raising funds for terrorist group
+
+*2024-12-01 12:24:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-குழுவுக்கு-நிதி-திரட்டியவர்-கைது/175-348044) · `ta`
+
+British citizen arrested at Katunayake airport for fundraising for terrorist groups in Sri Lanka. Suspect, 43-year-old from Kilinochchi, distributed funds in Colombo and Vanni areas. Further investigation ongoing.
+
+🟩
+
+A man who raised funds for a terrorist group from Britain has been arrested at the Katunayake airport when he arrived in Sri Lanka.
+
+When the suspect arrived at the Colombo North Crime Division on the orders of the Colombo Northern Crime Division, the Immigration and Customs Implementation Unit had taken him to the airport police on Saturday (30).
+
+The money collected by the suspect has been distributed in Colombo and Vanni area, police said.
+
+The suspect was a 43 -year -old from Kilinochchi, a British citizen, who left the country in 2009.
+
+Further investigations into the incident are being carried out by the airport police and the Colombo North Crime Branch.
+
+◼️
+
+[Data](articles/88491688.json)
+
+[Extended Data](ext_articles/88491688.ext.json)
+
+---
+
+### Special products tax cut for imported large onions!
+
+*2024-12-01 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200129) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Imported large onions tax cut: Rs 30 reduced to Rs 10 per kg. Potato import tax remains at Rs 60/kg. Temporary measure to support local farmers and stabilize prices. Effective until Dec 31, subject to future policy decisions.
+
+🟩
+
+The Ministry of Finance has taken steps to reduce the special products for one kilogram of imported onions.
+
+Accordingly, the government has decided to reduce the special tax on big onions from Rs 30 to Rs 10.
+
+Based on that, the special products of one kilogram of potatoes imported are 60 rupees.
+
+The Ministry of Finance, Planning and Economic Development has announced that the tax amendments have been issued in the Gazette Notification.
+
+Accordingly, the Ministry of Finance has taken steps to implement this as a short -term steps to protect local farmers and ensure a fair price for consumers.
+
+The Ministry of Finance said that the tax cut will be in force until December 31st and action will be taken under the relevant law based on the future policy decisions.
+
+◼️
+
+[Data](articles/45720231.json)
+
+[Extended Data](ext_articles/45720231.ext.json)
+
+---
+
+### Onion tax
+
+*2024-12-01 12:19:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-வரி-குறைப்பு/175-348043) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Finance Ministry reduces onion import tax to 20 rupees till 31st. Implements 60 rupee/kg potato trading tax also valid till 31st."
+
+🟩
+
+The Finance Ministry has decided to reduce the tax on onions for imported onions to 20 rupees. It will be in effect until the 31st of this month. In the same way,
+
+A special trading tax of 60 rupees per kilogram of potatoes will be in effect until the 31st of this month.
+
+◼️
+
+[Data](articles/91585964.json)
+
+[Extended Data](ext_articles/91585964.ext.json)
 
 ---

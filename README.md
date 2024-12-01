@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 18:23:02**
+As of **2024-12-01 17:26:16**
 
 ## Newspaper Stats
 
-*Scraped **57,880** Articles*
+*Scraped **57,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,463
-adaderanalk | 7,015
-tamilmirrorlk | 8,228
+adalk | 5,462
+adaderanalk | 7,013
+tamilmirrorlk | 8,227
 virakesarilk | 9,463
 adaderanasinhalalk | 10,001
 
@@ -26,173 +26,69 @@ adaderanasinhalalk | 10,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,876 (100.0%) of 57,880 articles have been extended.
+57,869 (100.0%) of 57,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### Cyclone Fengal leaves parts of Southern India inundated, claims 2 lives
-
-*2024-12-01 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103906/cyclone-fengal-leaves-parts-of-southern-india-inundated-claims-2-lives-) · `en`
-
-Cyclone Fengal which triggered heavy rains across Sri Lanka, has killed at least 2 people in India and caused flooding in Tamil Nadu state and the Puducherry region after crossing India’s southern coast from the Bay of Bengal on Saturday.
-
-Puducherry had been hit by the heaviest 24-hour rainfall in 30 years, India’s weather office said on Sunday.
-
-The cyclone has left parts of the southern city of Chennai inundated. Flights from the city were temporarily suspended on Saturday, but had resumed as of early Sunday morning, the Indian media reported.
-
-Visuals on local media showed gusty winds and heavy rainfall with roads submerged and boats being used to rescue people. The Indian army was running relief operations in Puducherry for people in the eye of the storm, while rainfall eased in Chennai.
-
-The rain has left areas in central Chennai, including Korattur, Koyambedu, Virugambakkam, Nungambakkam, T. Nagar and Alwarpet, inundated.
-
-...
-
-[Data](articles/8dff49f8.json)
-
----
-
-### Invite to attend the Independence Day Celebration
-
-*2024-12-01 17:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-விழாவில்-கலந்து-கொள்ள-அழைப்பு/175-348058) · `ta`
-
-Sri Lanka Independence Day: Minister Vijitha Herath invites President Anura Kumara Dissanayake. Meeting with Ambassadors strengthens diplomatic relations and proposes new economic agreements with Burkina Faso, Bosnia, Azerbaijan, Georgia, Belarus, Armenia, Congo, Guinea, Kenya.
-
-🟩
-
-Minister of External Affairs Vijitha Herath has recently invited President Anura Kumara Dissanayake to attend the Independence Day celebrations of Sri Lanka's Independence Day.
-
-The call was made during a meeting with nine newly appointed Ambassadors and a High Commissioner at the Foreign Ministry.
-
-Representatives have expressed their willingness to establish embassies in Sri Lanka as an action to strengthen diplomatic relations.
-
-Representatives also proposed to reach new agreements to improve economic and trade ties with Sri Lanka.
-
-Burkina Baso, Bosnia and Hersekovina, Azerbaijan Republic, Georgia, Belarus Republic, Armenia, Kingdom, Kingdom, Congo Republican, Guinea Republic, Guinea Republic and New Kenya Republic were present at the meeting.
-
-◼️
-
-[Data](articles/a800d0f7.json)
-
-[Extended Data](ext_articles/a800d0f7.ext.json)
-
----
-
-### Sri Lanka's BRICS Member Status: The Goal of the Future Success
+### இலங்கையின் பிரிக்ஸ் உறுப்பினர் நிலை : எதிர்கால வெற்றி இலக்கு
 
 *2024-12-01 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200169) · `ta`
 
-Sri Lanka's BRICS membership aims to reshape global finance. New banks and credit systems will challenge existing institutions like World Bank and IMF. This shift may alter international economic conditions and create new opportunities for development.
-
-🟩
-
-Financial Resources and Banks formed by BRICS will cause constant changes to world financial systems. Credit systems of organizations such as the World Bank and the International Monetary Fund are imposing international conditions. Alternatively, organizations such as the new Development Bank will be in high condition.
+பிரிக்ஸ் மூலம் உருவாகும் நிதி வளங்களும் வங்கிகளும், உலக நிதி அமைப்புகளின் மீது நிலையான மாற்றங்களை ஏற்படுத்தும். உலக வங்கி மற்றும் சர்வதேச நாணய நிதியம் போன்ற அமைப்புகளின் கடனிடும் முறைமைகள் சர்வதேச நிபந்தனைகளை அதிகமாகச் சுமத்துகின்றன. இதற்கு மாற்றாக, புதிய மேம்பாட்டு வங்கி போன்ற அமைப்புகள் அதிக நிபந்தனைகள் இல்லாத தன்மையுடன் இருக்கும்.
 
 ◼️
 
 [Data](articles/b718c96a.json)
 
-[Extended Data](ext_articles/b718c96a.ext.json)
-
 ---
 
-### Experience of the Supreme Success Ranil
+### உச்ச வெற்றிகளின் அனுபவம்  ரணிலை அடியொற்றி அநுர..?
 
 *2024-12-01 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200167) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-Supreme Success Ranil faces four intertwined crises: economic, geopolitical, regime, and ethnic issues. A significant gap exists between campaign promises and implementable realities due to the current political environment.
-
-🟩
-
-There is a massive gap between the principles of Anura and the practical reality. Similarly, there is a huge gap between the election promises and the practical environment that can implement it. There is no environment for the present to fulfill any promises they have put forward. The Anura government has to face the four crises that are intertwined with the economic crisis, the geopolitical crisis, the regime crisis and the ethnic problem.
+அநுரவின் கொள்கைகளுக்கும் நடைமுறை யதார்த்தத்திற்கும் இடையே பாரிய இடைவெளி காணப்படுகின்றன. அதேபோல தேர்தல் வாக்குறுதிகளுக்கும் அதனை செயல்படுத்தக்கூடிய நடைமுறை சூழலுக்குமிடையே பாரிய இடைவெளி காணப்படுகின்றது. அவர்கள் முன்வைத்த எந்த வாக்குறுதிகளையும் நிறைவேற்றும் சூழல் தற்போதைக்கு இல்லை. அநுர அரசாங்கம் பொருளாதார நெருக்கடி, புவிசார் - பூகோள அரசியல் நெருக்கடி, ஆட்சியியல் நெருக்கடி, இனப்பிரச்சினை என்கின்ற ஒன்றோடு ஒன்று பின்னிப் பிணைந்த நான்கு நெருக்கடிகளுக்கு முகம் கொடுக்க வேண்டியதாக உள்ளது.
 
 ◼️
 
 [Data](articles/1f8bb288.json)
 
-[Extended Data](ext_articles/1f8bb288.ext.json)
-
 ---
 
-### Seventories of robbery reveal
+### කෝටි හතේ කොල්ලයේ කරුණු රැසක් හෙළිවෙයි
 
 *2024-12-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203931) · `si`
 
-Laggala robbery: 9 arrested, 2 gems, gold recovered. Suspects linked to multiple crimes. Investigation ongoing.
+අවි පෙන්වා බියගන්වා පුද්ගල කණ්ඩායමක් විසින් පසුගියදා කොල්ලකන ලද රුපියල් කෝටි 07කට ආසන්න වටිනාකමකින් යුත් මැණික්, රන් භාණ්ඩ සහ මුදල් සොයාගැනීමට ලග්ගල පොලීසියට අද (01) හැකිවිය.
 
-🟩
+මෙම කොල්ලකෑමට සම්බන්ධ පුද්ගලයන් 9 දෙනෙකු පෙරේදා (29) අත්අඩංගුවට ගත් අතර, ඔවුන්ගෙන් සිදුකළ ප්‍රශ්නකිරීම් වලදී කරුණු රැසක් අනාවරණය කරගැනීමට පොලීසියට හැකිව ඇත.
 
-The Laggala Police Station was able to find nearly Rs.
+ඒ අනුව ඔවුන් විසින් සොරාගන්නා ලද මැණික් ගල් දෙකක් ලක්ෂ 78කට අලෙවිකර තිබියදී සොයාගෙන ඇති අතර, කොල්ලය සඳහා යොදාගත් වෑන් රථයද පොලිස් භාරයට ගෙන තිබේ.
 
-Nine persons were arrested on this robbery (29) and the police could uncover a number of factors during the interrogations.
+එමෙන්ම පවුම් 7ක රත්‍රන් සොයාගැනීමට හැකිව ඇති අතර, කොල්ලකන ලද මැණික් ගලක් කෑලි 7කට කපා ඇති බවත් පොලීසිය පවසයි.
 
-Accordingly, two gem stones have been recovered and the van used for the robbery has also seized the robbery.
+මෙම සැකකරුවන්ගෙන් සිදුකල ප්‍රශ්න කිරීම්වලදී ඔවුන් තවත් අපරාධ රැසකට සම්බන්ධ වූවන් බව හෙළි වී තිබේ.
 
-Police also have been able to find gold in £ 7 and a plundered gem stone cut into seven pieces.
+ඔවුන් විසින් පොතුහැර ප්‍රදේශයේ නිවසකින් පැහැරගත් කිලෝ 60-70 අතර බරකින් යුත් දඹරන් බවට සැකකරන බුද්ධ ප්‍රතිමාවක්ද පොලීසියට සොයාගැනීමට හැකිව ඇත.
 
-In questioning these suspects, they have been involved in many other crimes.
-
-The police also found a Buddha statue who was suspected of a large number of kilograms of kiloled house in Pothuhera.
-
-Police say that there are many crimes in different parts of the island against these robbers.
-
-According to the Laggala Police, the robbery was carried out by 12 people, including a scientist.
-
-11 of them have been arrested on suspicion and investigations have been launched to arrest another.
-
-The monk who was arrested is the mirror and is among the arrested persons.
+මෙම කොල්ලකරුවන්ට විරුද්ධව දිවයිනේ විවිධ ප්‍රදේශවල අපරාධ චෝදනා රැසක් තිබෙන බවද පොලීසිය පවසයි.
 
 ...
 
 [Data](articles/389d91f7.json)
 
-[Extended Data](ext_articles/389d91f7.ext.json)
-
 ---
 
-### The 13th Amendment to the New Constitution will be canceled - Rilvin Silva Specialty
+### புதிய அரசியலமைப்பில் 13 ஆவது   திருத்தம் இரத்துச் செய்யப்படும்   - ரில்வின் சில்வா விசேடசெவ்வி
 
 *2024-12-01 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200163) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-"13th Constitutional Amendment cancellation proposed. Acceptance of new constitution may render provincial councils unnecessary. Abolition planned only after new settlement scheme presented. Clarification needed to prevent misinformation."
-
-🟩
-
-If all the people accept the constitution, there will be no need for the provincial council system or the 13th constitution in the country. It is not necessary for the country. Provincial Council system is a matter of failure in the country with no benefit. So we will not abolish the provincial council system without presenting a new settlement plan. This issue is to be clearly understood. Otherwise, there are opportunities for misconceptions to spread among people.
+அனைத்து மக்களும் ஏற்றுக்கொள்கின்ற அரசியலமைப்பு நிறைவேற்றப்பட்டால், மாகாண சபை முறைமைக்கோ அல்லது 13 ஆவது அரசியலமைப்பிற்குமான தேவைப்பாடு நாட்டில் இருக்காது. அது நாட்டிற்கு தேவையும்படாது. மாகாண சபை முறைமை என்பது, எந்த பலனும் அற்ற, நாட்டில் தோல்வியடைந்த ஒரு விடயமாகும். எனவே புதிய தீர்வுத் திட்டத்தை முன்வைக்காது மாகாண சபை முறைமையை இரத்து செய்ய மாட்டோம். இந்த விடயத்தை தெளிவாக புரிந்துக்கொள்ள வேண்டும். இல்லையென்றால் தவறான கருத்துக்கள் மக்கள் மத்தியில் பரப்பப்டுவதற்கு வாய்ப்புகள் உள்ளன.
 
 ◼️
 
 [Data](articles/4ee3913c.json)
-
-[Extended Data](ext_articles/4ee3913c.ext.json)
-
----
-
-### Romania’s far right expected to make gains in parliamentary election
-
-*2024-12-01 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103905/romanias-far-right-expected-to-make-gains-in-parliamentary-election) · `en`
-
-Romanians vote in a parliamentary election on Sunday in which the far right is expected to gain from uncertainty over whether the shock result in a presidential election will stand.
-
-Days after far-right politician Calin Georgescu won most votes in the presidential election first round, an opinion poll this week showed the hard-right Alliance for Uniting Romanians (AUR) had a narrow lead over the governing Social Democrats.
-
-Gains by far-right groupings in Sunday’s parliamentary vote after a campaign dominated by voters’ concerns over budget problems and the cost of living could upend Romania’s pro-Western orientation and undermine support for Ukraine, political analysts said.
-
-“People who have serenely voted for Georgescu do not realise we are essentially talking about a total trajectory shift,” political scientist Cristian Pirvulescu said.
-
-...
-
-[Data](articles/98c6f088.json)
-
-[Extended Data](ext_articles/98c6f088.ext.json)
 
 ---
 
@@ -235,24 +131,6 @@ The patriarchal North and East nationalist politics is in a state of disrepair. 
 [Data](articles/b1bfe996.json)
 
 [Extended Data](ext_articles/b1bfe996.ext.json)
-
----
-
-### දීග දන්තුගේ හිස කොටස සංරක්ෂණයට, උදරයේ රු. 10 කාසියක්, වල්ගයේ කෙදිත් ගලවාගෙන ගිහින්
-
-*2024-12-01 15:40:52* · [`adalk`](https://www.ada.lk/picture_story/දීග-දන්තුගේ-හිස-කොටස-සංරක්ෂණයට--උදරයේ-රු--10-කාසියක්--වල්ගයේ-කෙදිත්-ගලවාගෙන-ගිහින්/10-413377) · `si`
-
-ගල්කිරියාගම, හිඟුරුවැව ප්‍රදේශයේ දී විදුලි සැර වැදීමෙන් මිය ගිය දීග දන්තු 01 හස්තියාගේ දළ යුගළය සහ හිස කොටස සංරක්ෂණය කිරීමට පියවර ගෙන තිබේ.
-
-ඒ, අනුව එම සතවයාගේ හිස කඳෙන් වෙන්කර ගල්කිරියාගම වනසත්ව අඩවි ආරක්ෂක කාර්යාලය වෙත රැගෙනයාමට වනජීවී නිලධාරීන් ඉකුත් දා (29) රාත්‍රියේ කටයුතු කරනු ලැබීය. සත්ත්වයාගේ පශ්චාත් මරණ පරීක්ෂණයෙන් පසු දළ යුගළය සහිත හිස කොටස කඳෙන් වෙන් කර ගැනීමට වනජීවී නිලධාරීන් කටයුතු කර තිබේ.
-
-ගල්කිරියාගම වනසත්ව අඩවි ආරක්ෂක කාර්යාලය වෙත රැගෙන ගිය එම හිස කොටස ආරක්ෂිතව වළ දැමීමට කටයුතු කර තිබේ. හස්තියාගේ දළ යුගළය ආරක්ෂිතව ගලවා ඉවත් කිරීම සඳහා එම හිස කොටස ඉදිරියේ දී නැවත ගොඩගැනීමට නියමිත බවයි වනජීවී නිලධාරීන් ප්‍රකාශ කළේ.
-
-මෙම සත්ත්වයාගේ මරණය විදුලි සැර වැදීමක් හේතුවෙන්  හදවත අක්‍රිය වීම නිසා මෙම මරණය සිදුව  ඇති බව පශ්චාත් මරණ පරීක්ෂණය මඟින් තහවුරු වූ බවයි අනුරාධපුර පණ්ඩුලගම වනජීවී පශු වෛද්‍ය චන්දන ජයසිංහ මහතා සඳහන් කළේ.
-
-...
-
-[Data](articles/c6ed0b7b.json)
 
 ---
 
@@ -838,37 +716,23 @@ Vedanti Seku is celebrated by the Eastern Muslims. Still many have not seen. In 
 
 ---
 
-### China's plan and Anura's
+### சீனாவின் திட்டமும்   அநுரவின் இலக்கும்
 
 *2024-12-01 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200136) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+ஜனாதிபதி அநுரகுமார திசநாயக்க பாராளுமன்றத்தில், கொள்கை விளக்க உரையை நிகழ்த்திய போது, 8 பில்லியன் டொலர்கள் சுற்றுலா பொருளாதாரத்தை உருவாக்குவது பற்றி குறிப்பிட்டிருந்தார்.
 
+“சுற்றுலாத்துறையில் பெரும் பாய்ச்சலை செய்யக் கூடிய இயலுமை தொடர்பில் அறிந்துள்ளோம். அதற்கான திட்டம் தயாரிக்கப்பட்டுள்ளது. அதன்படி 4 மில்லியன் சுற்றுலாப் பயணிகளை நாட்டுக்கு கொண்டு வருவதற்கான முயற்சிகளை முன்னெடுக்க இருப்பதாக” அவர் தனது உரையில் கூறியிருந்தார்.
 
+ஆனால் அதற்கான திட்டம் குறித்தோ, வழிமுறைகள் குறித்தோ அவர் வேறு எந்த விபரங்களையும் வெளியிட்டிருக்கவில்லை.
 
-Sri Lanka aims to attract 4 million tourists, doubling its current target. China may send 3 million tourists, raising concerns about infrastructure capacity. Tourism is crucial for Sri Lanka's economy, but challenges remain in achieving these ambitious goals.
+2018 ஆம் ஆண்டு, 2.3 மில்லியன் சுற்றுலாப் பயணிகள் வருகை தந்தனர் என்பதை மாத்திரம் சுட்டிக்காட்டியிருந்தார். இலங்கை ஒரே ஆண்டில் அதிகபட்ச சுற்றுலாப் பயணிகளை ஈர்த்த ஆண்டு அது.
 
-🟩
-
-President Anura Kumara Dissanayake presented the policy speech in Parliament, referring to the creation of a tourist economy of $ 8 billion.
-
-“We are aware of the ability to make a huge leap in tourism. The project has been prepared. Accordingly, in his speech, he said he would make efforts to bring 4 million tourists to the country. ”
-
-But he has not released any other details about the plan or the methods.
-
-In 2018, he pointed out that 2.3 million tourists visited. It was the year that Sri Lanka was attracted to the highest tourists in the same year.
-
-He may have wanted to realize that it was not difficult for Sri Lanka to attract 2.3 million tourists six years ago.. But this goal of the president is not easy.
-
-In 2019, the plan was to attract 2.5 million tourists. In the first three months, more than 7.5 lakh tourists arrived in Sri Lanka.
-
-But that year, about 1.9 million tourists were able to bring to Sri Lanka.The Easter Sunday bomb had had a major impact on the arrival of tourists.
+ஆறு ஆண்டுகளுக்கு முன்னர் 2.3 மில்லியன் சுற்றுலா பயணிகளை ஈர்த்த, இலங்கையினால் 4  மில்லியன், சுற்றுலா பயணிகளை ஈர்ப்பது ஒன்றும் கடினம் அல்ல என்பதை அவர் உணர்த்த விரும்பியிருக்கலாம். ஆனால் ஜனாதிபதியின் இந்த இலக்கு இலகுவான ஒன்று அல்ல.
 
 ...
 
 [Data](articles/73d03e08.json)
-
-[Extended Data](ext_articles/73d03e08.ext.json)
 
 ---
 
@@ -2417,5 +2281,95 @@ It is now six months since Ranil Wickramasinghe announced at the Kotagala May Da
 [Data](articles/62a980c2.json)
 
 [Extended Data](ext_articles/62a980c2.ext.json)
+
+---
+
+### National Elections 2024 – a harbinger of a new era
+
+*2024-12-01 01:05:00* · [`islandlk`](http://island.lk/national-elections-2024-a-harbinger-of-a-new-era/) · `en`
+
+(A member of the former Ceylon Civil Service and Retired Senior Professional of the Asian Development Bank, Manila, Philippines)
+
+The unparalleled victory of JVP/NPP in the national elections of November 14, 2024 has created an unprecedented sense of euphoria among Sri Lankans. This was no ordinary achievement as a lot of hard work went into changing the mindset of communities that had hitherto blindly followed the elitist policies of the major political parties. What led to this transformation?
+
+...
+
+[Data](articles/1062e9de.json)
+
+[Extended Data](ext_articles/1062e9de.ext.json)
+
+---
+
+### Fine sportsman, great debater, big appetite but weak stomach
+
+*2024-12-01 00:53:00* · [`islandlk`](http://island.lk/fine-sportsman-great-debater-big-appetite-but-weak-stomach/) · `en`
+
+Dudley Senanayake in the short Parliament of March to July 1960
+
+Family and background had been central in Dudley Senanayake’s case too. Greatness had literally been thrust on him when he had been appointed prime minister on the death of his father D S, in 1952. That had been a time of intrigue and maneuvering which had soured the relations between Sir John, his close relative and him.
+
+Sir John had struck back with the Premier Stakes which he later denied having any connection with. So Dudley had been anxious to win his spurs for himself through the hustings as early as possible. And he had proved his legitimacy by winning the 1952 elections handsomely, helped by the sympathy vote created by the death of his father. But his first stint as prime minister did not last long. Plagued by illness, chronic gastritis and the hartal of August 1953 which resulted in police firing and some civilian deaths, Dudley resigned.
+
+...
+
+[Data](articles/5e8fa427.json)
+
+[Extended Data](ext_articles/5e8fa427.ext.json)
+
+---
+
+### SHALL WE SHOP TODAY?
+
+*2024-12-01 00:43:00* · [`islandlk`](http://island.lk/shall-we-shop-today/) · `en`
+
+The one phrase calculated to galvanize any young person into flying out of bed is that magic question, “Shall we shop today?”
+
+“Where, where?” To KitKat, my granddaughter, the word ‘shopping’ has a sort of intonation that no other sound can equal. It is an incantation of magic.
+
+Really, I am so crafty I surprise myself. I need KitKat to help me carry a few new books from Vijitha Yapa Bookshop to my car plus a few household necessities.
+
+She bounds out of bed and is ready so fast I have barely time to turn round and catch my breath before casually mentioning that I do need to have a short stop at the Crescat Supermarket before treating ourselves to those Palaces of Delight — namely the new clothes shops opening up all over the city these days. She resigns herself to my perfidy.
+
+“I knew you’d make me pay for this,” says she. “I trust you will make it worth my while,” she adds sternly.
+
+“How much will it take?” I am cautious. KitKat’s ideas of economy do not exactly dovetail with mine.
+
+...
+
+[Data](articles/8da2a79c.json)
+
+[Extended Data](ext_articles/8da2a79c.ext.json)
+
+---
+
+### 2024-11-30 (Saturday)
+
+### Three arrested for attempting to suffer the public
+
+*2024-11-30 23:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203915) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"3 arrested for promoting LTTE via old videos during Mahavairu celebrations. Suspects from Maradana, Chunnakam, Baddegama. Charged with Facebook circulation & internet advertising for banned org. CID & TID conducting further investigations."
+
+🟩
+
+The Criminal Investigations Department (CID) has arrested three suspects regarding the unrest in the event of the LTTE celebrations.
+
+Police said that the suspects were residents of Maradana, Chunnakam and Baddegama areas.
+
+The suspects have been circulated by the LTTE, the leader of the LTTE, who is the banned organization of the island, to the old videos of the LTTE, and the old videos have been made in the years of Mahavairu Celebrations in the years.They have been charged with circulation of Facebook, hiding as celebrations.
+
+Accordingly, the suspects were arrested in terms of the temporary arrangement of false advertisements and advertising on the Internet to promote the activities of the Internet and promote the activities of a banned organization.Have been taken.
+
+The Criminal Investigations Department and the Terrorism Investigation Division conducts further investigations.
+
+◼️
+
+[Data](articles/38c592ec.json)
+
+[Extended Data](ext_articles/38c592ec.ext.json)
 
 ---

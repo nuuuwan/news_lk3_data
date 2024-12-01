@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 12:02:03**
+As of **2024-12-01 11:42:59**
 
 ## Newspaper Stats
 
-*Scraped **57,820** Articles*
+*Scraped **57,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 442
 colombotelegraphcom | 588
 bbccomsinhala | 602
 islandlk | 3,477
-economynextcom | 3,513
+economynextcom | 3,512
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,454
-adaderanalk | 7,009
-tamilmirrorlk | 8,219
+adaderanalk | 7,005
+tamilmirrorlk | 8,218
 virakesarilk | 9,437
 adaderanasinhalalk | 9,993
 
@@ -26,169 +26,43 @@ adaderanasinhalalk | 9,993
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,814 (100.0%) of 57,820 articles have been extended.
+57,811 (100.0%) of 57,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### ”கட்சி பேதமின்றி பலஸ்தீன உரிமைகளுக்காக நிற்போம்”
-
-*2024-12-01 11:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-பேதமின்றி-பலஸ்தீன-உரிமைகளுக்காக-நிற்போம்/175-348042) · `ta`
-
-பலஸ்தீன மக்களுக்கு நீதி மற்றும் நியாயத்தை உறுதிப்படுத்துவதற்கு கட்சி, தேசியம், மதம், வர்க்கம் மற்றும் ஏனைய வேறுபாடுகளுக்கு அப்பாற்பட்ட ஒற்றுமை அவசியமானது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச உறுதிப்படுத்தியுள்ளார்.
-
-கொழும்பில் லக்ஷ்மன் கதிர்காமர் மையத்தில் நடைபெற்ற பலஸ்தீன மக்களுடனான ஐக்கிய நாடுகளின் ஒற்றுமைக்கான மாநாட்டில் உரையாற்றிய பாராளுமன்ற உறுப்பினர் பிரேமதாச வாய்ப்பேச்சைக் காட்டிலும் நடவடிக்கை எடுக்க வேண்டியதன் அவசியத்தை வலியுறுத்தினார்.
-
-மனிதநேய ரீதியாக, பாலஸ்தீனியர்கள் நீதியைப் பெற வேண்டும் என்றும், இதை அடைவதற்கு சர்வதேச சமூகத்துடனான தீவிர ஒத்துழைப்பு தேவை என்றும் அவர் கூறினார்.
-
-பலஸ்தீன உரிமைகளுக்கு ஆதரவாக தனது அசைக்க முடியாத நிலைப்பாட்டை அவர் மீண்டும் வலியுறுத்தினார், பலஸ்தீனத்தை தொடர்ந்து பேரழிவிற்கு உட்படுத்தும் அரச பயங்கரவாதத்திற்கு எதிராக நிற்க உறுதிபூண்டார், மேலும் உலகத் தலைவர்கள் பொதுமக்கள் பகுதிகளில் நடாத்தப்படும் குண்டுவீச்சுக்கு எதிராக தீர்க்கமான நடவடிக்கை எடுக்கவும் தமது வார்த்தைகளுக்கு ஈடாக செயற்படவும் வேண்டுமென அழைப்பு விடுத்தார்.
-
-...
-
-[Data](articles/853621d6.json)
-
----
-
-### The government will decide on Laf gas
+### லாஃப் எரிவாயு குறித்து அரசாங்கம் முடிவெடுக்கும்
 
 *2024-12-01 11:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்-எரிவாயு-குறித்து-அரசாங்கம்-முடிவெடுக்கும்/175-348041) · `ta`
 
-Government may import LP gas if Laf case fails; Litro gas supply not affected; decision pending on cylinder changes.
+LP எரிவாயுவை இறக்குமதி செய்து நுகர்வோருக்கு வழங்க லாஃப்ஸ் கேஸ் தவறினால் அரசாங்கம் அது குறித்து தீர்மானம் எடுக்கும் என வர்த்தகம், , உணவுப் பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க இன்று தெரிவித்தார்.
 
-🟩
+லிட்ரோ எரிவாயு மூலம் விநியோகிக்கப்படும் எல்பி எரிவாயுவிற்கு தட்டுப்பாடு இல்லை என அவர் தெரிவித்தார்.
 
-LP Gas is being imported to consumers and the government will decide on it if the Lafs Case fails, ”said Wasantha Samarasinghe, Minister of Commerce, Food Security and Co -operative Development.
+'எங்கள் நாட்டில் லிட்ரோ மற்றும் லாஃப் ஆகிய இரண்டு எல்பி எரிவாயு நிறுவனங்கள் உள்ளன. லிட்ரோ எரிவாயுவிற்கு தற்போது தட்டுப்பாடு இல்லை. லாஃப் கேஸ் சந்தையில் ஏற்பட்டுள்ள பற்றாக்குறைக்கான காரணங்களை விளக்க வேண்டும்.
 
-He said there was no shortage of LP gas supplied by Litro gas.
-
-'There are two LP gas companies in our country Litro and Laf. Litro Gas is currently no shortage. The reasons for the shortage in the Lal Case Market should be explained.
-
-If the government fails to intervene in importing and supply the gas, the government must make a decision. There is plenty of stock in Litro gas. If you want to change gas cylinders to address the problems faced by consumers, the government should decide on it soon. ”
+லாஃப் எரிவாயுவை இறக்குமதி செய்து வழங்குவதில் தலையிடத் தவறினால், அரசாங்கம் ஒரு முடிவை எடுக்க வேண்டும். லிட்ரோ எரிவாயுவில் ஏராளமான கையிருப்பு உள்ளது. நுகர்வோர் எதிர்கொள்ளும் பிரச்னைகளுக்கு தீர்வு காண காஸ் சிலிண்டர்களை மாற்ற வேண்டும் என்றால், அது குறித்து அரசு விரைவில் முடிவெடுக்க வேண்டும்,'' என்றார்.
 
 ◼️
 
 [Data](articles/33c281c0.json)
 
-[Extended Data](ext_articles/33c281c0.ext.json)
-
 ---
 
-### “Don't believe the rumors”
+### “வதந்திகளை நம்ப வேண்டாம்”
 
 *2024-12-01 11:24:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வதந்திகளை-நம்ப-வேண்டாம்/175-348040) · `ta`
 
-"Don't believe rumors: Sea didn't dry up. Panic in Batticaloa. Check official announcements from Disaster Management Center."
+மட்டக்களப்பு மாவட்டத்தில்   சனிக்கிழமை(30) இரவு கடல் வற்றியுள்ளதாகவும், சுனாமி தாக்கம் ஏற்படப்போவதாகவும் தெரிவித்து பெரும் பீதி ஏற்பட்டு  பெரும்பாலான கிராம மக்கள் வீதிக்கு வந்துள்ளனர். கடற்கரையை அண்டியுள்ள மக்களில் சிலர்  இடம்பெயர்ந்தும் உள்ளனர்.
 
-🟩
+இவ்விடையம் குறித்து மட்டக்களப்பு மாவட்ட அனர்த்த முகாமைத்துவ உதவிப் பணிப்பாளரைத் தொடர்பு கொண்ட கேட்டபோது,
 
-Most of the villagers have come to the streets due to a huge panic that the sea has dried up on Saturday night (30) in the Batticaloa district.. Some of the people who are near the coast are displaced.
-
-When contacted by the Director of Disaster Management in Batticaloa District
-
-Do not rely on rumors that spread about tsunami disaster. We are very responsible that the people will be immediately announced through the District Disaster Management Center in the event of a tsunami disaster. ”
+‘சுனாமி அனர்த்தம் தொடர்பில் பரப்பப்படும் வதந்திகளை நம்ப வேண்டாம். மேலும் சுனாமி அனர்த்தம் ஒன்று உருவாகும் பட்சத்தில் மக்களுக்கு அது தொடர்பில் மாவட்ட அனர்த்த முகாமைத்துவ நிலையம் ஊடாக உடனடியாக அறிவிக்கப்படும் என்பதனை மிகவும் பொறுப்புடன் அறியத்தருகின்றோம்” என தெரிவித்தார்.
 
 ◼️
 
 [Data](articles/4b5871a9.json)
-
-[Extended Data](ext_articles/4b5871a9.ext.json)
-
----
-
-### British citizen arrested over alleged terrorism financing in Colombo and Vanni
-
-*2024-12-01 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103900/british-citizen-arrested-over-alleged-terrorism-financing-in-colombo-and-vanni) · `en`
-
-Sri Lanka Police have arrested a 43-year-old British citizen of Sri Lankan origin for allegedly collecting and distributing funds for a terrorist group.
-
-The suspect, originally from Kilinochchi, had left Sri Lanka in 2009 and later obtained British citizenship.
-
-The arrest was made upon his arrival at Bandaranaike International Airport (BIA) in Katunayake on November 30, 2024.
-
-Authorities from the Immigration and Emigration Department had apprehended the individual, acting on an overseas travel ban issued by the Colombo Magistrate’s Court at the request of the Colombo North Crimes Division. The suspect was subsequently handed over to the Airport Police.
-
-According to police sources, the suspect is accused of raising funds while based in the United Kingdom and channeling the money to individuals in Colombo and the Vanni region.
-
-The Airport Police, in coordination with the Colombo-North Crimes Division, is currently conducting further investigations.
-
-◼️
-
-[Data](articles/ad723a64.json)
-
----
-
-### Special Commodity Levy on big onions reduced
-
-*2024-12-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103899/special-commodity-levy-on-big-onions-reduced) · `en`
-
-The Government of Sri Lanka has reduced the Special Commodity Levy imposed on imported big onions to Rs. 10 per kilogram, to be in effect during the period from December 01 to December 31, 2024.
-
-Accordingly, the government has implemented measures to reduce the Special Commodity Levy on big onions from Rs. 30 to Rs. 10, a reduction of Rs. 20.
-
-Meanwhile, it has been decided to keep the Special Commodity Levy imposed on imported potatoes unchanged.
-
-The Ministry of Finance, Planning and Economic Development announced that the relevant tax revisions have been published in a gazette notification dated 2024.11.30 and that the stipulations of the relevant gazette notification will be in effect from December 01 to December 31, 2024.
-
-...
-
-[Data](articles/f5382f6a.json)
-
----
-
-### Adverse weather displaces over 143,000 people across 24 districts
-
-*2024-12-01 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103898/adverse-weather-displaces-over-143000-people-across-24-districts) · `en`
-
-The ongoing adverse weather conditions from a deep depression over the southwest Bay of Bengal have left 143,726 people from 53,888 families displaced, seeking refuge in shelters and relatives’ homes, the Disaster Management Center (DMC) reported.
-
-Of those displaced, 116,209 individuals from 45,418 families are staying with relatives, while 27,517 individuals from 8,470 families are taking shelter in 229 relief centers.
-
-The severe weather has resulted in widespread property damage, with 103 houses completely destroyed and 2,635 houses partially damaged. In total, 479,871 people from 142,624 families across 24 districts have been affected by the extreme weather so far.
-
-Triggered by a deep depression in the southwest Bay of Bengal, heavy rainfall has inundated several provinces in recent days. As a result, sluice gates remain open at multiple reservoirs, including Deduru Oya, Per Aru, Ulhitiya Rathkinda, Polgolla, Nachchaduwa, Rajanganaya, Kalawewa, and Weheragala.
-
-...
-
-[Data](articles/7a0203e2.json)
-
----
-
-### CAA conducts special raids for festive season
-
-*2024-12-01 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103897/caa-conducts-special-raids-for-festive-season) · `en`
-
-The Consumer Affairs Authority (CAA) has implemented a series of special raids during the upcoming festive season, in a bid to safeguard consumers.
-
-Accordingly, raids will be carried out within retail stores and supermarkets from today (December 1) until January 15.
-
-According to the CAA, all major wholesale outlets and warehouses in all districts will be inspected so as to ensure that expired products will not enter the market, while the CAA will also closely monitor all outlets selling clothes, electronics, and other essential and durable goods.
-
-In carrying out these raids, more attention will be placed on ensuring that regular trade are conducted properly, including the issuance of official invoices for goods sold at the designated prices, as well as ensuring that the prices of the products are displayed and sold at the correct prices.
-
-Other than that, mobile vendors and other stores hosting large seasonal sales are also under supervision, the CAA said.
-
-...
-
-[Data](articles/2ea0f096.json)
-
----
-
-### Sri Lanka cuts Octane 92 price by Rs.2, raises diesel by Rs.3, Kerosine by Rs.5
-
-*2024-12-01 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-octane-92-price-by-rs-2-raises-diesel-by-rs-3-kerosine-by-rs-5-190990/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state fuel retailer Ceylon Petroleum Corporation (CPC) reduced the price of widely used Octane 92 petrol by 2 rupees to 309 rupees per litre while increased diesel by 3 rupees and kerosine by 5 rupees with effect from Dec. 1.
-
-The price of Octane 92 reduced to Rs. 309 while diesel raised to Rs.286 and kerosine to Rs. 188.
-
-The CPC, however, maintained the price of Octane 95 at 371 rupees and Super diesel at 313 rupees.
-
-Private fuel retailers Lanka IOC and Sinopec also adjusted their prices in line with CPC’s revision. (Colombo/December 01/2024)
-
-◼️
-
-[Data](articles/8fac2d5f.json)
 
 ---
 
@@ -298,33 +172,21 @@ The suspects have been arrested under the Criminal Law and the Prevention of Ter
 
 ---
 
-### A land lavover is found illegally assembled
+### නීති විරෝධී ලෙස කොටස් එකලස් කළ ලෑන්ඩ් ලෝවර් රථයක් සොයා ගනියි
 
 *2024-12-01 10:08:38* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධී-ලෙස-කොටස්-එකලස්-කළ-ලෑන්ඩ්-ලෝවර්-රථයක්-සොයා-ගනියි/11-413369) · `si`
 
-Land Rover seized illegally assembled Jeep investigation ongoing
+නීති විරෝධී ලෙස කොටස් එකලස් කරන ලද ලෑන්ඩ් රෝවර් වර්ගයේ ජීප් රථයක් පොල්ගස්ඕවිට වාහන අලුත් වැඩියා කරන ස්ථානයක තිබී ඊයේ (30) සොයා ගත් බව ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන අංශය කියයි.
 
-🟩
+බස්නාහිර පළාත් බුද්ධි අංශ නිලධාරීන්ට ලද තොරතුරකට අනුව එම ජීප් රථය පොලිස් භාරයට ගෙන ඇත.
 
-The Mt.
+වාහන අලුත් වැඩියා කරන ස්ථානයේ හිමිකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී මීට වසර එකහමාරකට පමණ ඉහතදී එම ජීප් රථය මහරගම පොලිස් වසමේ අපේක්ෂා බෝධි විහාරාධිපති හේනගම ධම්මදාන හිමියන් විසින්  ලෑන්ඩ් රොවර් වර්ගයේ ජීප් රථයක චැසියක් ටයර් හතරක් , සහ පැරණි එන්ජිමක් ගෙනත් දුන් බවට ප්‍රකාශ කළ බව පොලිසිය කියයි.
 
-According to information received by the Western Province Intelligence Officers, the jeep has been taken into custody.
-
-According to the police, the jeep of the Maharagama Police Division was appointed by the Bodhi Vihara Court in the Maharagama Police Division about a year and a year ago, the jeep of the Maharagama Police Division was brought to the Appendix of the Maharagama Police Division.
-
-The engine said that the owners were tabled in the process of preparing the vehicle from time to time.
-
-The police say that the owner of the vehicle in a mobile phone has presented the owner of the vehicle's name, while a photograph of a registration certificate is said to be in a mobile phone.The garage employee also received statements from the Garaj employee.
-
-Henegama Dhammapadana Thero, who was sent to the new job in the Mthinda, 2 (2), a police officer said that the primary investigations were given to the new job in the Mt..
-
-The Kesbewa Police are responsible for further investigations.
+අනතුරුව වරින්වර එම රථය සකස් කිරීම සඳහා අවශ්‍ය කොටස් එම හිමියන් ගෙනත් දුන් බවත් පසුව මාරවිල ප්‍රදේශයෙන් රුපියල් ලක්ෂ 14-  1/2  ක මුදලකට  එන්ජිමක් ගෙනත් දුන් බවත්  එම ඇන්ජිම මේ වන විට මෙම ජීප් රථයට සවිකර ඇති බවට වැඩිදුරටත් ප්‍රකාශ කළ බව පොලිසියේ සඳහන් කරයි.
 
 ...
 
 [Data](articles/e0234fba.json)
-
-[Extended Data](ext_articles/e0234fba.ext.json)
 
 ---
 
@@ -2475,5 +2337,157 @@ Campaign group Dignity in Dying said the vote was a “historic step towards gre
 [Data](articles/b59c9f5a.json)
 
 [Extended Data](ext_articles/b59c9f5a.ext.json)
+
+---
+
+### Air quality drops in several areas across Sri Lanka - NBRO
+
+*2024-11-30 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103883/air-quality-drops-in-several-areas-across-sri-lanka-nbro) · `en`
+
+The air quality levels have dropped in Colombo and several other areas across the country, the National Building Research Organisation (NBRO) said.
+
+Furthermore, the individuals who are experiencing respiratory difficulties are advised to seek immediate medical attention.
+
+According to the daily air quality report of NBRO’s Environmental Studies and Services Division, the Sri Lanka Air Quality Index (SLAQI) is expected to range between 92 and 120 throughout the day, as a result of the prevailing weather conditions and a border disturbance from the north.
+
+While this range falls within the “moderate” to “slightly harmful” categories, several urban areas are projected to reach unhealthy levels, as per the NBRO.
+
+Meanwhile in Colombo, the air quality is forecasted to range between 108 and 116, while Jaffna and Polonnaruwa are expected to record even higher levels, between 112 and 120 within the day.
+
+...
+
+[Data](articles/d8abcc82.json)
+
+[Extended Data](ext_articles/d8abcc82.ext.json)
+
+---
+
+### 40 lakhs of rupees worth of yellow recovery in Colombo
+
+*2024-11-30 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200065) · `ta`
+
+Colombo raid seizes 765kg yellow consumer goods worth 40 lakhs
+
+🟩
+
+The intelligence officials of the Authority of the Authority of the Yellow Consumer Affairs Authority were seized by 765 kilograms of yellow consumer affairs hidden in a private repository in Colombo 15.
+
+The amount was seized in a raid conducted by the Intelligence Officers of the Consumer Affairs Authority.
+
+The Consumer Affairs Authority said the value of the seized yellow amount was around 40 lakh rupees.
+
+The yellow amount, which was ready to sell in the market without any information, has been seized without any information.
+
+◼️
+
+[Data](articles/e9e2e331.json)
+
+[Extended Data](ext_articles/e9e2e331.ext.json)
+
+---
+
+### Fire in Mullaitivu
+
+*2024-11-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200061) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Elderly man dies in Mullaitivu fire. He lived alone near son's house. Set fire to heat home due to heavy rains. Police report confirms death.
+
+🟩
+
+Mullaitivu police said that an elderly man was killed in a fire in the Mullaitivu - Chilawaturai area.
+
+The deceased elderly lived alone in another house near his son's house.
+
+In this case, he set fire to the house to heat the cold caused by heavy rains.
+
+◼️
+
+[Data](articles/10aeee72.json)
+
+[Extended Data](ext_articles/10aeee72.ext.json)
+
+---
+
+### 141 Indian fishermen in Sri Lankan custody, Indian govt. informs Parliament
+
+*2024-11-30 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103882/141-indian-fishermen-in-sri-lankan-custody-indian-govt-informs-parliament) · `en`
+
+A total of 141 Indian fisherfolk are in Sri Lankan custody, of whom 45 are under trial, the Indian government informed Parliament on Thursday.
+
+India’s Minister of State for External Affairs Kirti Vardhan Singh, in a written response to a query in Rajya Sabha, said with sustained diplomatic efforts, the government has secured the release and repatriation of 351 fisherfolk apprehended this year.
+
+Indian fisherfolk are arrested from time to time by Sri Lankan authorities for allegedly crossing the International Maritime Boundary Line (IMBL) and fishing in Sri Lankan waters, he said.
+
+“As per available information, as of 22 November 2024, 141 Indian fisherfolk are in Sri Lankan custody, of whom 45 fisherfolk are under trial while 96 are currently serving sentences,” he said.
+
+They have been provided with consular and legal assistance by our High Commission in Colombo and Consulate in Jaffna, the Union minister said.
+
+...
+
+[Data](articles/0cd3f39f.json)
+
+[Extended Data](ext_articles/0cd3f39f.ext.json)
+
+---
+
+### 9 arrested for robbing Rs. 6 crores
+
+*2024-11-30 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203889) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"9 arrested for Rs. 6 crore heist. Robbery occurred Nov 10 in Laggala. Suspects from Mawathagama & Polpithigama. Ages 38-49 from various areas."
+
+🟩
+
+Nine persons were arrested yesterday (29) and nine persons involved in a robbery of more than Rs.
+
+The arrest was made regarding a robbery in the Laggala Police Division on November 10.
+
+The suspects have been arrested in Mawathagama and Polpithigama Police Divisions.
+
+The police also seized more than Rs.
+
+Among the arrested suspects is residents of Wattegama, Sapugaskanda, Polpithigama, Kurunegala, Kurunegala and Wilgamuwa areas aged 38 to 49.
+
+◼️
+
+[Data](articles/5ab5c664.json)
+
+[Extended Data](ext_articles/5ab5c664.ext.json)
+
+---
+
+### Death of someone caught in fire due to cold
+
+*2024-11-30 10:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிர்-காரணமாக-தீயில்-சிக்கி-ஒருவர்-மரணம்/175-348009) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+75-year-old man dies in fire in Mullaitivu-Chilawatte. Police suspect cold caused both the fire and death. Body sent for autopsy. Investigation ongoing.
+
+🟩
+
+A man was killed in a fire yesterday afternoon (29) in the Mullaitivu - Chilawatte area, police said.
+
+The deceased is a 75 -year -old from Chilawatte and he lives alone in a house near his son's house.
+
+Police say the death may have been caused by the cold and the fire may have been caused by the cold.
+
+The body has been placed in the funeral room of the Manjolai Hospital for autopsy and the Mullaitivu police are conducting further investigations.. Remble
+
+◼️
+
+[Data](articles/a1df1362.json)
+
+[Extended Data](ext_articles/a1df1362.ext.json)
 
 ---

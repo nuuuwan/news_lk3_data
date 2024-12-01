@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 22:41:47**
+As of **2024-12-01 23:25:49**
 
 ## Newspaper Stats
 
-*Scraped **57,916** Articles*
+*Scraped **57,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,469
-adaderanalk | 7,016
+adaderanalk | 7,017
 tamilmirrorlk | 8,229
-virakesarilk | 9,484
-adaderanasinhalalk | 10,007
+virakesarilk | 9,486
+adaderanasinhalalk | 10,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,911 (100.0%) of 57,916 articles have been extended.
+57,914 (100.0%) of 57,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### Athabitation of a few areas
+
+*2024-12-01 22:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203938) · `si`
+
+<PHIND_TIMEOUT>
+
+🟩
+
+Air quality of the major cities in Jaffna, Kilinochchi and Trincomalee have reached an offensive level today.
+
+With the inclement weather, air pollutants, including India, including India, including India.
+
+According to the internationally recognized IQAIR.com website at 3 pm, 3 high cities in the island have exceeded 151 major cities in the country.
+
+According to the air quality index, its value is 151 to 200, as a harmful situation.
+
+Accordingly, the main cities in Jaffna, Kilinochchi and Trincomalee have exceeded 151 this afternoon.
+
+The National Building Research Institute of the National Building Research Institute will inform the public that the fall of the quality of air quality can cause respiratory difficulties and if it is caused by it, they should be directed to seek medical treatment.
+
+◼️
+
+[Data](articles/43d2914c.json)
+
+[Extended Data](ext_articles/43d2914c.ext.json)
+
+---
+
+### Melbourne Renagades won the Women's Big Bash League Bowl for the first time
+
+*2024-12-01 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200187) · `ta`
+
+The Melbourne Renagates Women's Team won the Champion title for the first time in the Women's Big Bash League Cricket Tournament between the eight teams in Australia.
+
+Duckworth Lewis won the Melbourne Cricket Stadium on Sunday in the final of the final by 7 runs.
+
+West Indies Hailee Mathews shone in all sectors and made the Melbourne Renagates women's team.
+
+Haily Mathews also won the match with 2 wickets and won the match.
+
+Melbourne Renagates, who was first invited to bat first, scored 141 runs for the loss of 9 wickets in 20 overs.
+
+Hailie Mathews scored 69 runs including 8 pounds. Georgia Wehaham scored 21 runs and Nayomi Stoolberg 16 runs.
+
+Charlie Note took 3 wickets for 28 runs and Crescent Parsons took 2 wickets for 29 runs.
+
+The Pirisbane Heat women's team, who won 142 runs, were dismissed at 3.15 pm when the women's team lost 2 wickets in 3.2 overs.
+
+...
+
+[Data](articles/113125e6.json)
+
+[Extended Data](ext_articles/113125e6.ext.json)
+
+---
+
+### யாழில் இரு வாரங்களில் 697.4 மில்லி மீற்றர் மழை
+
+*2024-12-01 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200188) · `ta`
+
+யாழ்ப்பாணத்தில் கடந்த 18ஆம் திகதி முதல் டிசம்பர் மாதம் 01ஆம் திகதிவரையிலான காலப்பகுதியில், 697.4 மில்லி மீற்றர் மழை கிடைக்கப்பெற்றுள்ளது எனவும், அதானல் 21ஆயிரத்து 987 குடும்பங்களை சேர்ந்த 73ஆயிரத்து 693 பேர் பாதிக்கப்பட்டுள்ளனர் எனவும் யாழ். மாவட்ட செயலர் ம.பிரதீபன் தெரிவித்துள்ளார்.
+
+யாழ். மாவட்ட செயலகத்தில் ஞாயிற்றுக்கிழமை (1) நடைபெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+கடந்த 29ஆம் திகதி 82 பாதுகாப்பு நிலையங்களில் 2ஆயிரத்து 163 குடும்பங்களை சேர்ந்த 7ஆயிரத்து 417 பேர் தங்க வைக்கப்பட்டு இருந்தனர். அவர்களில் பலர் தற்போது தமது வீடுகளுக்கு திரும்பிய நிலையில் சில இடங்களில் தற்போதும் வெள்ளம் காணப்படுவதனால், இன்றைய தினம் 01ஆம் திகதி வரையில், 26 பாதுகாப்பு நிலையங்களில் 695 குடும்பங்களை சேர்ந்த 2ஆயிரத்து 393 பேர் தங்க வைக்கப்பட்டுள்ளனர்.
+
+அவர்களுக்கான சமைத்த உணவுகளை தொடர்ந்து வழங்கி வருகிறோம். அவர்கள் பாதுகாப்பு நிலையங்களில் தங்க வைக்கப்பட்டு இருக்கும் கால பகுதி வரையில் அவர்களுக்கான உணவு வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/814ac174.json)
+
+---
 
 ### Kotzi will lose the second Test
 
@@ -59,6 +133,28 @@ He was a bowler who won a lot of attention.
 [Data](articles/07ef36a1.json)
 
 [Extended Data](ext_articles/07ef36a1.ext.json)
+
+---
+
+### New govt. not rushing decisions on SOE restructuring – President’s Economic Advisor
+
+*2024-12-01 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103908/new-govt-not-rushing-decisions-on-soe-restructuring-presidents-economic-advisor) · `en`
+
+Senior Economic Advisor to the President Duminda Hulangamuwa claims that the new government is encouraging the private sector to be at the forefront of economic development in the country.
+
+However, he noted that the government will retain control over strategic sectors of public interest.
+
+Joining Ada Derana’s current affairs program, ‘@HydePark’, Hulangamuwa highlighted that the government is pursuing a liberal market strategy to encourage private sector investment.
+
+Commenting on the restructuring of state-owned enterprises, Hulangamuwa explained that the government is not rushing the process but is carefully analysing which state-owned enterprises (SOEs) are a burden on the treasury.
+
+Responding to a question regarding the government’s stance on SOE restructuring, the Senior Economic Advisor to the President noted that the restructuring of the SOEs can take different forms and that the government is not rushing decisions regarding the matter.
+
+...
+
+[Data](articles/9342dad1.json)
+
+[Extended Data](ext_articles/9342dad1.ext.json)
 
 ---
 
@@ -144,6 +240,10 @@ He added that the police are taking steps to seize other assets and arrest two s
 
 *2024-12-01 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200186) · `ta`
 
+<PHIND_TIMEOUT>
+
+🟩
+
 The brokerage that went to former Minister Kanjana Wijeshekara during the importation of fuel goes to the current government. Survives these people. Ambika Sukuma, a representative of the plantation people, said,
 
 The government headed by President Anura Kumara Dissanayake is implementing the fuel pricing campaign by defrauding the former Power and Power and Energy Minister.
@@ -163,6 +263,10 @@ Two months have passed since President Anuragumara Dissanayake has come to power
 ### A deficit of coconut in the market
 
 *2024-12-01 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203936) · `si`
+
+<PHIND_TIMEOUT>
+
+🟩
 
 The coconut price is highly valued with the shortage of coconut shortages these days in the market.
 
@@ -2387,89 +2491,5 @@ The jeep has been handed over to the Kesbewa Police for further investigations.
 [Data](articles/0f4ce849.json)
 
 [Extended Data](ext_articles/0f4ce849.ext.json)
-
----
-
-### Adverse weather displaces over 143,000 people across 24 districts
-
-*2024-12-01 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103898/adverse-weather-displaces-over-143000-people-across-24-districts) · `en`
-
-The ongoing adverse weather conditions from a deep depression over the southwest Bay of Bengal have left 143,726 people from 53,888 families displaced, seeking refuge in shelters and relatives’ homes, the Disaster Management Center (DMC) reported.
-
-Of those displaced, 116,209 individuals from 45,418 families are staying with relatives, while 27,517 individuals from 8,470 families are taking shelter in 229 relief centers.
-
-The severe weather has resulted in widespread property damage, with 103 houses completely destroyed and 2,635 houses partially damaged. In total, 479,871 people from 142,624 families across 24 districts have been affected by the extreme weather so far.
-
-Triggered by a deep depression in the southwest Bay of Bengal, heavy rainfall has inundated several provinces in recent days. As a result, sluice gates remain open at multiple reservoirs, including Deduru Oya, Per Aru, Ulhitiya Rathkinda, Polgolla, Nachchaduwa, Rajanganaya, Kalawewa, and Weheragala.
-
-...
-
-[Data](articles/7a0203e2.json)
-
-[Extended Data](ext_articles/7a0203e2.ext.json)
-
----
-
-### OIC of the Negombo Divisional Criminal Investigation Division seized
-
-*2024-12-01 10:48:51* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-මීගමුව-කොට්ඨාස-අපරාධ-විමර්ශන-අංශයේ-ස්ථානාධිපති-අල්ලයි/11-413371) · `si`
-
-Negombo CID OIC arrested bribery case 270,000/= court production
-
-🟩
-
-The Bribery Commission says that the OIC of the Negombo Divisional Criminal Investigation Division has been arrested in connection with a bribe of Rs 270.000 / =.
-
-The suspect Chief Inspector General Inspector has arrested the suspects and produced before the Negombo Divisional Criminal Investigation Division regarding the loss of a person from a resident of Negombo.
-
-The suspect was backed by the suspect to be liberated by the court.. The suspect was arrested by the officials of the Commission to Investigate Allegations of Bribery or Corruption. The suspect is due to be produced in court.
-
-◼️
-
-[Data](articles/86cd963d.json)
-
-[Extended Data](ext_articles/86cd963d.ext.json)
-
----
-
-### CAA conducts special raids for festive season
-
-*2024-12-01 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103897/caa-conducts-special-raids-for-festive-season) · `en`
-
-The Consumer Affairs Authority (CAA) has implemented a series of special raids during the upcoming festive season, in a bid to safeguard consumers.
-
-Accordingly, raids will be carried out within retail stores and supermarkets from today (December 1) until January 15.
-
-According to the CAA, all major wholesale outlets and warehouses in all districts will be inspected so as to ensure that expired products will not enter the market, while the CAA will also closely monitor all outlets selling clothes, electronics, and other essential and durable goods.
-
-In carrying out these raids, more attention will be placed on ensuring that regular trade are conducted properly, including the issuance of official invoices for goods sold at the designated prices, as well as ensuring that the prices of the products are displayed and sold at the correct prices.
-
-Other than that, mobile vendors and other stores hosting large seasonal sales are also under supervision, the CAA said.
-
-...
-
-[Data](articles/2ea0f096.json)
-
-[Extended Data](ext_articles/2ea0f096.ext.json)
-
----
-
-### Sri Lanka cuts Octane 92 price by Rs.2, raises diesel by Rs.3, Kerosine by Rs.5
-
-*2024-12-01 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-octane-92-price-by-rs-2-raises-diesel-by-rs-3-kerosine-by-rs-5-190990/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state fuel retailer Ceylon Petroleum Corporation (CPC) reduced the price of widely used Octane 92 petrol by 2 rupees to 309 rupees per litre while increased diesel by 3 rupees and kerosine by 5 rupees with effect from Dec. 1.
-
-The price of Octane 92 reduced to Rs. 309 while diesel raised to Rs.286 and kerosine to Rs. 188.
-
-The CPC, however, maintained the price of Octane 95 at 371 rupees and Super diesel at 313 rupees.
-
-Private fuel retailers Lanka IOC and Sinopec also adjusted their prices in line with CPC’s revision. (Colombo/December 01/2024)
-
-◼️
-
-[Data](articles/8fac2d5f.json)
-
-[Extended Data](ext_articles/8fac2d5f.ext.json)
 
 ---

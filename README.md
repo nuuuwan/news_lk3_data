@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 07:34:59**
+As of **2024-12-01 05:53:18**
 
 ## Newspaper Stats
 
-*Scraped **57,791** Articles*
+*Scraped **57,788** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 442
+dbsjeyarajcom | 441
 colombotelegraphcom | 588
 bbccomsinhala | 602
-islandlk | 3,477
+islandlk | 3,476
 economynextcom | 3,512
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,449
 adaderanalk | 7,002
-tamilmirrorlk | 8,215
+tamilmirrorlk | 8,214
 virakesarilk | 9,433
 adaderanasinhalalk | 9,985
 
@@ -26,33 +26,11 @@ adaderanasinhalalk | 9,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,784 (100.0%) of 57,791 articles have been extended.
+57,781 (100.0%) of 57,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### Extension of flood hazards
-
-*2024-12-01 02:38:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-348030) · `ta`
-
-Flood warning extended: Teduru Oya, Mahaweli Ganga. Low-lying areas affected. 24-hour warning issued. Public and drivers advised to exercise caution.
-
-🟩
-
-The flood warning has been extended to the low -lying areas of Teduru Oya and Mahaweli Ganga.
-
-The Irrigation Department announced yesterday evening that the flood warning will be in force for the next 24 hours.
-
-The public living in the nearby areas of Theduru Oya and the Mahaweli Ganga, and the drivers traveling on the streets through the area have been advised to act with great care.. (A)
-
-◼️
-
-[Data](articles/f87ce08c.json)
-
-[Extended Data](ext_articles/f87ce08c.ext.json)
-
----
 
 ### Random climate: casualties
 
@@ -192,20 +170,6 @@ The thought about the quirks and misdemeanours of most Sri Lankans which ultimat
 
 [Data](articles/783733cd.json)
 
-[Extended Data](ext_articles/783733cd.ext.json)
-
----
-
-### Compensating a ‘parlour’ owner in Cambodia
-
-*2024-12-01 01:27:00* · [`islandlk`](http://island.lk/compensating-a-parlour-owner-in-cambodia/) · `en`
-
-I joined the ADB in Manila in November 2002. The highlight of the new job as a social safeguard specialist was the opportunity to visit and study projects in Asian countries. In 2003, I visited Cambodia to check whether the physically displaced persons of an ADB-funded highway project had received fair compensation for their lost property and adequate assistance to restore and improve their affected livelihoods and income sources.
-
-...
-
-[Data](articles/8c6ddf00.json)
-
 ---
 
 ### Death of ex-wife, building a bridge and contacts with JHU
@@ -221,8 +185,6 @@ It was around 9.00 p.m when Roshanne left the party with Ryan Raymond, who was t
 ...
 
 [Data](articles/3fce93fb.json)
-
-[Extended Data](ext_articles/3fce93fb.ext.json)
 
 ---
 
@@ -883,22 +845,6 @@ Public Administration Provincial Councils and Local Government Minister AHMH on 
 [Data](articles/62c81aa4.json)
 
 [Extended Data](ext_articles/62c81aa4.ext.json)
-
----
-
-### As a result of the Tamil nationalist parties splitting and contesting elections as different factions, the parliamentary representation of Tamils ​​from the north and east has been weakened even more than before. Tamil politicians had ignored the warnings given in advance in this regard.
-
-*2024-11-30 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85150) · `en`
-
-What is the future of Tamil nationalist politics in Sri Lanka? This question, which has arisen in the aftermath of the recent Parliamentary Elections, should not be viewed simply in terms of the future electoral prospects of Tamil parties. It is a question related to the anxiety regarding the prospects for the fulfillment of the legitimate political aspirations of the Tamil people.
-
-The Tamil nationalist political parties that have represented the Tamil people of the north and east in Parliament for more than 15 years since the end of the civil war have suffered a major setback in this Parliamentary Election.
-
-It seems difficult to expect that these parties, which have never shown any moral interest in introspecting on the reasons why the past struggles for the political rights of the Tamil people have not been fruitful, will look back and correct their political path after this defeat.
-
-...
-
-[Data](articles/00191f50.json)
 
 ---
 
@@ -2419,5 +2365,59 @@ The title meaning, ‘Good governance’, fell far short by the time we exposed 
 [Data](articles/a40a222f.json)
 
 [Extended Data](ext_articles/a40a222f.ext.json)
+
+---
+
+### President says “no chance even for a simple mistake”, but officials ready to make big ones
+
+*2024-11-30 04:43:56* · [`dailyftlk`](https://www.ft.lk/columns/President-says-no-chance-even-for-a-simple-mistake-but-officials-ready-to-make-big-ones/4-769908) · `en`
+
+The Government is heading to make a serious mistake unintentionally in another area by lifting the ban on vehicle imports
+
+President Anura Kumara Dissanayake at the inauguration of the first session of the 10th Parliament delivering a speech, said that the NPP Government must go with the IMF framework and the previous administration’s debt restructuring agreements as they have been endorsed by the IMF. It is true. Renegotiating for a new Debt Sustainability Analysis (DSA) is now dead. That is good, because we must end this process as early as possible to enter a new beginning.
+
+If the Net Present Value analysis proves beneficial for us to ensure debt sustainability even under the macro-linked bond mechanism we must finish this process. The NPP Government is going to do it possibly by the end of December this year. It is a great consolation.
+
+...
+
+[Data](articles/df619e00.json)
+
+[Extended Data](ext_articles/df619e00.ext.json)
+
+---
+
+### Japan donates two fully equipped ambulances to BIA and Colombo Port
+
+*2024-11-30 04:39:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-donates-two-fully-equipped-ambulances-to-BIA-and-Colombo-Port/56-769906) · `en`
+
+The Bandaranaike International Airport (BIA) and the Colombo Port received two fully equipped ambulances as part of the ongoing Border Health Project, funded by the Government of Japan and implemented by the International Organisation for Migration (IOM).
+
+On behalf of the Transport, Highways, Ports and Civil Aviation Ministry, the donation was handed to Airport and Aviation Services (Sri Lanka) Ltd. (AASL) Chairman Air Chief Marshal H.D. Abeywickrema (Retd.) by Japanese Embassy Minister/Deputy Head of Mission Kamoshida Naoki in the presence of senior officials of the Ministry, AASL, and IOM.
+
+The ambulances, each valued at approximately $ 100,000, will enhance the emergency health preparedness of the Points of Entry (PoE) in line with International Health Regulations (2005).
+
+...
+
+[Data](articles/ee5d5450.json)
+
+[Extended Data](ext_articles/ee5d5450.ext.json)
+
+---
+
+### International call for education to be centred on Human Rights
+
+*2024-11-30 04:38:42* · [`dailyftlk`](https://www.ft.lk/news/International-call-for-education-to-be-centred-on-Human-Rights/56-769905) · `en`
+
+Announcement of Je’anna Clements and Sifaan Zavahir’s session at INSPIRE Education Summit where Declaration of Child Rights-Centric Education was launched
+
+The Rights Centric Education Network (“RCE Network”), an international movement of Human Rights defenders advocating for Rights in, to, and through education, launched the “Declaration of Child Rights-Centric Education” on the 35th Anniversary of the UN Convention on the Rights of the Child (UNCRC), amplifying the call of the United Nations to centre education on Human Rights.
+
+The Declaration calls for education of children, wherever it takes place and whatever form it takes, to be fundamentally reworked to ensure that it is consistent with human rights values and principles, especially the UNCRC, which, for the first time in history, recognised children as subjects of their own rights.
+
+...
+
+[Data](articles/1a12691d.json)
+
+[Extended Data](ext_articles/1a12691d.ext.json)
 
 ---

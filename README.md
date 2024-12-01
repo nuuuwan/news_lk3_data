@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 18:51:11**
+As of **2024-12-01 19:03:49**
 
 ## Newspaper Stats
 
-*Scraped **57,891** Articles*
+*Scraped **57,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,464
 adaderanalk | 7,015
-tamilmirrorlk | 8,228
+tamilmirrorlk | 8,229
 virakesarilk | 9,471
 adaderanasinhalalk | 10,003
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,890 (100.0%) of 57,891 articles have been extended.
+57,891 (100.0%) of 57,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### 2025இல் நல்ல செய்தி வருமா?
+
+*2024-12-01 18:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025இல்-நல்ல-செய்தி-வருமா/175-348063) · `ta`
+
+மின் கட்டண திருத்த யோசனை எதிர்வரும் 6ஆம் திகதி மின்சார சபையினால் பொதுப் பயன்பாட்டு ஆணைக்குழுவிடம் கையளிக்கப்படவுள்ளது.
+
+இதற்கான முன்மொழிவை தயாரிக்கும் பணிகள் இறுதி கட்டத்தில் உள்ளதாக வாரியத்தின் செய்தித் தொடர்பாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e97b7681.json)
+
+---
 
 ### Motorcycle crashes
 
@@ -2529,29 +2543,5 @@ The public living in the nearby areas of Theduru Oya and the Mahaweli Ganga, and
 [Data](articles/f87ce08c.json)
 
 [Extended Data](ext_articles/f87ce08c.ext.json)
-
----
-
-### Random climate: casualties
-
-*2024-12-01 02:32:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலை-உயிரிழப்பு-உயர்வு/175-348029) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Climate disasters claim 17 lives. 479+871 people affected from 142,624 families. Disaster Management reports rising casualty toll."
-
-🟩
-
-The number of casualties caused by inclement weather in the country has risen to 17.
-
-In addition, 479 and 871 people from 142,624 families have been affected, the Disaster Management Center's renewed report said.. (A)
-
-◼️
-
-[Data](articles/c7da0af3.json)
-
-[Extended Data](ext_articles/c7da0af3.ext.json)
 
 ---

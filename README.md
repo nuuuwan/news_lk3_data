@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 16:00:49**
+As of **2024-12-01 17:26:16**
 
 ## Newspaper Stats
 
-*Scraped **57,852** Articles*
+*Scraped **57,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,195 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,461
+adalk | 5,462
 adaderanalk | 7,013
 tamilmirrorlk | 8,227
-virakesarilk | 9,444
-adaderanasinhalalk | 9,997
+virakesarilk | 9,463
+adaderanasinhalalk | 10,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,849 (100.0%) of 57,852 articles have been extended.
+57,869 (100.0%) of 57,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### இலங்கையின் பிரிக்ஸ் உறுப்பினர் நிலை : எதிர்கால வெற்றி இலக்கு
+
+*2024-12-01 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200169) · `ta`
+
+பிரிக்ஸ் மூலம் உருவாகும் நிதி வளங்களும் வங்கிகளும், உலக நிதி அமைப்புகளின் மீது நிலையான மாற்றங்களை ஏற்படுத்தும். உலக வங்கி மற்றும் சர்வதேச நாணய நிதியம் போன்ற அமைப்புகளின் கடனிடும் முறைமைகள் சர்வதேச நிபந்தனைகளை அதிகமாகச் சுமத்துகின்றன. இதற்கு மாற்றாக, புதிய மேம்பாட்டு வங்கி போன்ற அமைப்புகள் அதிக நிபந்தனைகள் இல்லாத தன்மையுடன் இருக்கும்.
+
+◼️
+
+[Data](articles/b718c96a.json)
+
+---
+
+### உச்ச வெற்றிகளின் அனுபவம்  ரணிலை அடியொற்றி அநுர..?
+
+*2024-12-01 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200167) · `ta`
+
+அநுரவின் கொள்கைகளுக்கும் நடைமுறை யதார்த்தத்திற்கும் இடையே பாரிய இடைவெளி காணப்படுகின்றன. அதேபோல தேர்தல் வாக்குறுதிகளுக்கும் அதனை செயல்படுத்தக்கூடிய நடைமுறை சூழலுக்குமிடையே பாரிய இடைவெளி காணப்படுகின்றது. அவர்கள் முன்வைத்த எந்த வாக்குறுதிகளையும் நிறைவேற்றும் சூழல் தற்போதைக்கு இல்லை. அநுர அரசாங்கம் பொருளாதார நெருக்கடி, புவிசார் - பூகோள அரசியல் நெருக்கடி, ஆட்சியியல் நெருக்கடி, இனப்பிரச்சினை என்கின்ற ஒன்றோடு ஒன்று பின்னிப் பிணைந்த நான்கு நெருக்கடிகளுக்கு முகம் கொடுக்க வேண்டியதாக உள்ளது.
+
+◼️
+
+[Data](articles/1f8bb288.json)
+
+---
+
+### කෝටි හතේ කොල්ලයේ කරුණු රැසක් හෙළිවෙයි
+
+*2024-12-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203931) · `si`
+
+අවි පෙන්වා බියගන්වා පුද්ගල කණ්ඩායමක් විසින් පසුගියදා කොල්ලකන ලද රුපියල් කෝටි 07කට ආසන්න වටිනාකමකින් යුත් මැණික්, රන් භාණ්ඩ සහ මුදල් සොයාගැනීමට ලග්ගල පොලීසියට අද (01) හැකිවිය.
+
+මෙම කොල්ලකෑමට සම්බන්ධ පුද්ගලයන් 9 දෙනෙකු පෙරේදා (29) අත්අඩංගුවට ගත් අතර, ඔවුන්ගෙන් සිදුකළ ප්‍රශ්නකිරීම් වලදී කරුණු රැසක් අනාවරණය කරගැනීමට පොලීසියට හැකිව ඇත.
+
+ඒ අනුව ඔවුන් විසින් සොරාගන්නා ලද මැණික් ගල් දෙකක් ලක්ෂ 78කට අලෙවිකර තිබියදී සොයාගෙන ඇති අතර, කොල්ලය සඳහා යොදාගත් වෑන් රථයද පොලිස් භාරයට ගෙන තිබේ.
+
+එමෙන්ම පවුම් 7ක රත්‍රන් සොයාගැනීමට හැකිව ඇති අතර, කොල්ලකන ලද මැණික් ගලක් කෑලි 7කට කපා ඇති බවත් පොලීසිය පවසයි.
+
+මෙම සැකකරුවන්ගෙන් සිදුකල ප්‍රශ්න කිරීම්වලදී ඔවුන් තවත් අපරාධ රැසකට සම්බන්ධ වූවන් බව හෙළි වී තිබේ.
+
+ඔවුන් විසින් පොතුහැර ප්‍රදේශයේ නිවසකින් පැහැරගත් කිලෝ 60-70 අතර බරකින් යුත් දඹරන් බවට සැකකරන බුද්ධ ප්‍රතිමාවක්ද පොලීසියට සොයාගැනීමට හැකිව ඇත.
+
+මෙම කොල්ලකරුවන්ට විරුද්ධව දිවයිනේ විවිධ ප්‍රදේශවල අපරාධ චෝදනා රැසක් තිබෙන බවද පොලීසිය පවසයි.
+
+...
+
+[Data](articles/389d91f7.json)
+
+---
+
+### புதிய அரசியலமைப்பில் 13 ஆவது   திருத்தம் இரத்துச் செய்யப்படும்   - ரில்வின் சில்வா விசேடசெவ்வி
+
+*2024-12-01 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200163) · `ta`
+
+அனைத்து மக்களும் ஏற்றுக்கொள்கின்ற அரசியலமைப்பு நிறைவேற்றப்பட்டால், மாகாண சபை முறைமைக்கோ அல்லது 13 ஆவது அரசியலமைப்பிற்குமான தேவைப்பாடு நாட்டில் இருக்காது. அது நாட்டிற்கு தேவையும்படாது. மாகாண சபை முறைமை என்பது, எந்த பலனும் அற்ற, நாட்டில் தோல்வியடைந்த ஒரு விடயமாகும். எனவே புதிய தீர்வுத் திட்டத்தை முன்வைக்காது மாகாண சபை முறைமையை இரத்து செய்ய மாட்டோம். இந்த விடயத்தை தெளிவாக புரிந்துக்கொள்ள வேண்டும். இல்லையென்றால் தவறான கருத்துக்கள் மக்கள் மத்தியில் பரப்பப்டுவதற்கு வாய்ப்புகள் உள்ளன.
+
+◼️
+
+[Data](articles/4ee3913c.json)
+
+---
+
+### The body of a man in suspicious manner in Hettipola field!
+
+*2024-12-01 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200138) · `ta`
+
+A man died suspiciously in Hettipola field. Police investigation ongoing. Body sent for autopsy at Kiliyapitiya Hospital after magistrate's inquiry.
+
+🟩
+
+Hettipola police said that one person died suspiciously in the field of the Hettipola police division.
+
+After the Magistrate's hearing, the body was placed in the funeral room of the Kiliyapitiya Hospital for autopsy.
+
+◼️
+
+[Data](articles/72f61a55.json)
+
+[Extended Data](ext_articles/72f61a55.ext.json)
+
+---
+
+### National construction and women
+
+*2024-12-01 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200160) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Patriarchal North and East nationalist politics in disarray due to individual arrogance. Intelligent women needed to revitalize contemporary politics with their insight and success.
+
+🟩
+
+The patriarchal North and East nationalist politics is in a state of disrepair. This is a manifestation of the arrogant politics of the individual. The current need is to originate from the intelligent women with intelligent women who can succeed in this contemporary politics.
+
+◼️
+
+[Data](articles/b1bfe996.json)
+
+[Extended Data](ext_articles/b1bfe996.ext.json)
+
+---
+
+### Repeat MP Pension Loading Bill
+
+*2024-12-01 15:30:08* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-විශ්‍රාම-වැටුප්-අහිමි-කිරීමේ-පනත්-කෙටුම්පත-ළගදීම/11-413376) · `si`
+
+Sri Lanka: Pension reform bill passes. Minister Wasantha Samarasinghe abolishes MP Savings Commission. No government housing for leaders. Focuses on affordable housing for citizens.
+
+🟩
+
+Minister Wasantha Samarasinghe says that the abolition of the Pension Savings Commission of All Members of Parliament will be passed away soon.
+
+The Minister was speaking at the opening ceremony of the Anuradhapura Public Coordinator in Anuradhapura in Anuradhapura in the 55 houses in Anuradhapura.
+
+The Minister said that the President or the Prime Minister do not use any government housing. Minister Wasantha Samarasinghe said that he was addressing the group.
+
+"Former ministers have houses houses, no one of our ministers have been asked for homes and give me three vehicles from Madiwela MP's housing schedule.
+
+But I don't use anything. The Minister said that the pension is abolished if the salary owners. Speaking to the media that the customer should arise in Sri Lanka without exploitation.
+
+◼️
+
+[Data](articles/fa889501.json)
+
+[Extended Data](ext_articles/fa889501.ext.json)
+
+---
+
+### Will the Mawadipalli disaster pass like a lowly?
+
+*2024-12-01 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200154) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+The Mawadipalli disaster raises questions about government responsiveness. Will it be just another forgotten incident? Or will officials take concrete action to address infrastructure issues and prevent future disasters? Only time will tell if this tragedy will spark meaningful change or fade away like a breeze.
+
+🟩
+
+In the case of difficulties, the bridge will be talked about and the rehabilitation of the road will be overcome after the river floods.. Will politicians and officials be concerned even after this time, or will this time pass like a windmill?
+
+◼️
+
+[Data](articles/193cfe9f.json)
+
+[Extended Data](ext_articles/193cfe9f.ext.json)
+
+---
+
+### A man killed in a sharp weapon in Kadirgama!
+
+*2024-12-01 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200146) · `ta`
+
+Man killed with sharp weapon in Kadirgama dispute resolution gone wrong. Suspects identified, police investigation ongoing.
+
+🟩
+
+One person was assaulted by a sharp weapon on Saturday (30) in the Kadirgamam Koombathikana area to go to the Kadirgamam police division.
+
+While staying at the relative's house, some people who had a dispute with the owner of the house had attacked the man, police said.
+
+Investigations have revealed that he was attacked by sharp weapons when he was trying to resolve the conflict and killed the suspects and fled the area.
+
+The suspects have been identified and the Kadirgamam police are involved in the arrest of them.
+
+◼️
+
+[Data](articles/70fa7e13.json)
+
+[Extended Data](ext_articles/70fa7e13.ext.json)
+
+---
 
 ### Increase in prices of vegetables: Throwing in the trash
 
@@ -84,19 +258,51 @@ Meanwhile, police sources say that the police have received voting sources to th
 
 ---
 
-### තායිලන්තයට සහ මැලේසියාවට බලපෑ ගංවතුරෙන් 12 දෙනෙකු මරුට
+### One arrested with heroin in Moratuwa
+
+*2024-12-01 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200142) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Arrest made in Moratuwa: Police detained a suspect in Lunawa on Saturday based on tip-off. 460mg heroin seized.
+
+🟩
+
+A suspect in the Lunawa area of ​​the Moratuwa police division has been arrested by police on Saturday (30).
+
+He was arrested during a roundup on the basis of confidential information received by the Moratuwa police station.
+
+460 milligrams of heroin from the suspect have been seized by the police.
+
+◼️
+
+[Data](articles/190dba68.json)
+
+[Extended Data](ext_articles/190dba68.ext.json)
+
+---
+
+### 12 floods affected by Thailand and Malaysia
 
 *2024-12-01 15:00:56* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයට-සහ-මැලේසියාවට-බලපෑ-ගංවතුරෙන්-12-දෙනෙකු-මරුට/11-413375) · `si`
 
-මැලේසියාවට සහ තායිලන්තයට බලපෑ ගංවතුර තත්ත්වය ​හේතුවෙන් පුද්ගලයන් 12 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Thailand & Malaysia floods: 12 deaths, 122k displaced. Authorities warn of increased rainfall.
 
-උතුරු මැලේසියාවේ 122,000ට වැඩි පිරිසක් අවතැන්ව ඇති අතර, දකුණු තායිලන්තයේ 13,000ක් අවතැන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+🟩
 
-තවදුරටත් අධික වැසි සහා කුණාටු ඇතිවන බැවින් මෙම ප්‍රමාණයන් ඉහළ යා හැකි බවට දෙරටේ බලධාරීන් අනතුරු අඟවා තිබේ.
+12 people died due to floods affected by Malaysia and Thailand.
+
+More than 122,000 people have been displaced in northern Malaysia, and 13,000 IDPs have been displaced.
+
+The authorities of the two countries have warned that the amounts of rain and rains and storms will be increased.
 
 ◼️
 
 [Data](articles/4f268114.json)
+
+[Extended Data](ext_articles/4f268114.ext.json)
 
 ---
 
@@ -166,6 +372,110 @@ Addressing an event held today (01), MP Jayaweera said: “According to the resu
 
 [Data](articles/3e04e6e1.json)
 
+[Extended Data](ext_articles/3e04e6e1.ext.json)
+
+---
+
+### The defeat of the JVP and the political success of the NPP regime
+
+*2024-12-01 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200153) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+JVP defeat allowed NPP regime success. Former JVP leaders blocked Tamil unity, leading Sinhala villages into ethnic war against Tamils during conflict.
+
+🟩
+
+Former JVPs, the former rulers who separated in court, could not even permit the North and East merger of the Tamils, the lowest political aspirations of Tamils.. They are also the ones who have led the Sinhala villages to the ethnic war against Tamils ​​during the war.
+
+◼️
+
+[Data](articles/2b118ce9.json)
+
+[Extended Data](ext_articles/2b118ce9.ext.json)
+
+---
+
+### J Shah Shah begins as Chairman
+
+*2024-12-01 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203930) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Jay Shah becomes ICC Chairman, youngest ever. Former Gujarat Cricket Association member since 2009. Oversaw Ahmedabad's massive cricket stadium. Joined BCCI in 2019, becoming its youngest secretary.
+
+🟩
+
+Juhha, who was elected to be the new Chairman of the International Cricket Council, has commenced his post.
+
+Jay Shah is considered the youngest person who was appointed as the Chairman of the International Cricket Council.
+
+Juka, who started his journey with the Gujarat Cricket Association in 2009, was a wide experience of cricket administration.
+
+The development of the world's largest cricket stadium in Ahmedabad has taken place under the supervision.
+
+In 2019, JJ Shah had joined the Cricket Board (BCCI) and became the youngest secretary.
+
+◼️
+
+[Data](articles/c0ad58ff.json)
+
+[Extended Data](ext_articles/c0ad58ff.ext.json)
+
+---
+
+### Double challenge
+
+*2024-12-01 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200151) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Family home invasion: Thousands of people stormed a single-family residence without warning. The event was unprecedented and caused widespread shock."
+
+🟩
+
+Thousands of people invaded the homes of the family as a family, without any hesitation.
+
+◼️
+
+[Data](articles/48ef7bfc.json)
+
+[Extended Data](ext_articles/48ef7bfc.ext.json)
+
+---
+
+### Fishes in the Vavuniya pond
+
+*2024-12-01 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200147) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Fisheries in Vavuniya pond face competition from water overflow due to heavy rains. Mosquitoes, fish nets, cloth, and veti compete with fishermen for catch. Species like Chilabia, Japan, Finger, and Gaulu are targeted, bringing joy to local anglers.
+
+🟩
+
+It is possible to observe that people are competing with the water in the Vavuniya pond.
+
+Due to heavy rains in Vavuniya, many ponds are flowing and the Vavuniya pond, the main pond near Vavuniya, is also flowing.
+
+As the ponds are largely accommodated with the water flowing water, it is possible to observe that people are competing with fish with mosquitoes, fish web, cloth and veti.
+
+A large number of fish such as Chilabia, Japan, Finger and Gaulu are caught and the holders are happy.
+
+◼️
+
+[Data](articles/276bc271.json)
+
+[Extended Data](ext_articles/276bc271.ext.json)
+
 ---
 
 ### Uptick in AIDS cases reported in Sri Lanka – health officials
@@ -190,6 +500,146 @@ Furthermore, in the local context, Sri Lanka is recognized as a country with a r
 
 ---
 
+### Adani and danger
+
+*2024-12-01 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200150) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Adani deal controversy: Despite Sri Lanka's pro-Adani stance, President Anura Kumara Dissanayake must remain vigilant about the potential risks associated with the Adani Group's involvement in the country's development projects.
+
+🟩
+
+Although President Anura Kumara Dissanayake's visit to India, it is important to keep his hand on the issue, even if the government of Sri Lanka is favorable to the abolition of agreements with the Adani Group.
+
+◼️
+
+[Data](articles/1854b236.json)
+
+[Extended Data](ext_articles/1854b236.ext.json)
+
+---
+
+### The new form of racism
+
+*2024-12-01 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200149) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New racism: JVP focuses on Tamil political rights & homeland. Actions remembered by Tamils. Government acts as master, not Tamil/Muslim representatives in cabinet.
+
+🟩
+
+The JVP is about the political rights of the Tamil people and their homeland theory. The actions taken are never forgotten by the Tamil people in history. The government is looking to behave like the masters who solve all the problems, rather than in the cabinet of Tamils ​​or Muslims from the North and East.
+
+◼️
+
+[Data](articles/02013de0.json)
+
+[Extended Data](ext_articles/02013de0.ext.json)
+
+---
+
+### Old Bad again?
+
+*2024-12-01 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200148) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Government officials must stop making reckless claims about missing individuals' status as dead or alive. This irresponsible behavior undermines investigations and causes unnecessary suffering for families."
+
+🟩
+
+The representatives of the government cannot be recklessly saying that the missing persons are not alive or alive. ”
+
+◼️
+
+[Data](articles/3a680b45.json)
+
+[Extended Data](ext_articles/3a680b45.ext.json)
+
+---
+
+### Tamil parties left Fort
+
+*2024-12-01 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200145) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamil political parties abandoned JVP. Historical context: unclear Tamil stance on war, contributions, and impact.
+
+🟩
+
+JVP. In the past, the clarity of what was the position of the war against the Tamils, what the contribution it was, and the impact of the Tamils ​​was not exactly taken to the Tamil people.
+
+◼️
+
+[Data](articles/586c9406.json)
+
+[Extended Data](ext_articles/586c9406.ext.json)
+
+---
+
+### The only party that has emerged when traditional parties destroyed
+
+*2024-12-01 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203929) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Dilith Jayaweera claims traditional parties destroyed. Only political movement left. Election results: high for UNP, low for SLFP. No clear vision post-American departure. Traditional parties like UNP and JVP weakened. Political corruption prevalent.
+
+🟩
+
+Dilith Jayaweera says that the only political movement of the country is the only political movement in the country as traditional political parties are in the country.
+
+He was addressing the organizer organizer conference.
+
+"This year's election has gone to the highest percentage of the universal power. The lowest percentage of the percentage of the Sri Lanka Cran's Front. The Civil Front had employed all the strength. Gather people who want to get Basil Rajapaksa to stay in politics in politics. There was no vision to the poo. The Mill does not sparkle after the American citizens left the country. "
+
+...
+
+[Data](articles/792c1a0c.json)
+
+[Extended Data](ext_articles/792c1a0c.ext.json)
+
+---
+
+### The stock of expired goods is released to the market
+
+*2024-12-01 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203928) · `si`
+
+Consumer Affairs Authority raids stores, recovers expired goods. Officials seize chemicals, dried chillies. Investigations ongoing against traders selling expired items during festive season.
+
+🟩
+
+The Consumer Affairs Authority has raided some of the imported stores stored in the stores storage of the imported stores which had been prepared to change the information during the coming festive season.
+
+The Authority officials of the Gampaha District Office have also recovered 50 liters of expired chemicals ready to distribute laboratories.
+
+The Authority has enacted the consignment when inspection of storage in the Kelaniya area on the 28th.
+
+The investigation officials have also recovered 4.6 tons of expired dried chilli in Wattala area and expired dried fishing in Wattala area on the 28th.
+
+The Consumer Affairs Authority said that the gazette notification issued by the Consumer Affairs Authority is due to be prosecuted, as the Consumer Affairs Authority is due to be blamed by the Consumer Affairs Authority.
+
+...
+
+[Data](articles/bb50c112.json)
+
+[Extended Data](ext_articles/bb50c112.ext.json)
+
+---
+
 ### Here is the decision of the government of imported big onion trade transplantation
 
 *2024-12-01 13:52:48* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-ලොකු-ලූනු-වෙළඳ-බද්ධ-ගැන-රජය-ගත්ත-තීරණය-මෙන්න/11-413374) · `si`
@@ -211,6 +661,94 @@ Accordingly, the trade graft has been reduced to Rs. 30.
 [Data](articles/57a3258d.json)
 
 [Extended Data](ext_articles/57a3258d.ext.json)
+
+---
+
+### Failurers are pains and Bengal storm
+
+*2024-12-01 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200139) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka faces severe flooding due to the Bengal storm. President Anura Kumara Dissanayake and External Affairs Minister Vijitha Herath are responsible for addressing both drought and rain issues. Opposition parties criticize the government's handling of the disaster, while civil society organizations and NGOs provide relief efforts. The crisis threatens food security, particularly rice shortages.
+
+🟩
+
+Former President Ranil Wickremesinghe congratulated President Anura Kumara Dissanayake and External Affairs Minister Vijitha Herath on Monday, 18th of last month.. Therefore, if it rains or drought, you have to take the responsibility of both. ”
+
+A civilized political culture of the opponent is to congratulate the victory for the success of the political arena. It is generous to senior politician Ranil. The President is facing the consequences of the natural disaster that has now occurred in the country, although he has said that he should accept the responsibility of the two, despite the drought and rain.. This is the challenge that has been given to Anura's management skills. This is because there were no natural disasters mentioned in Ranil's time.
+
+...
+
+[Data](articles/195fc73b.json)
+
+[Extended Data](ext_articles/195fc73b.ext.json)
+
+---
+
+### Segura of Muslim politics
+
+*2024-12-01 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200131) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Seku Isadheen: Muslim politics leader, champion of Muslim rights & nationalism. Founded Muslim Congress, advocated for separate Muslim province. Key figure in Sri Lankan Muslim political history.
+
+🟩
+
+When I heard that Vedanti MH Seku, who is considered to be the commander of the Muslim unique identity politics, heard that Izadeen was ill, it seemed to me that the entire Muslim politics was lying in bed.
+
+Seku Isadheen died a few days ago, speaking and writing about the social liberation, existence and rights, for social liberation, existence and rights.
+
+The death of Seku Istin, which emphasized the unique politics of the Muslims, has been in a state of disrepair, although a section of the Muslim community has begun to move towards the great parties during this period of political disorders for Muslims.
+
+Vedanti Seku is celebrated by the Eastern Muslims. Still many have not seen. In the political environment that day, people did not vote for him and did not choose directly. History is that time appointed him on the national list.
+
+...
+
+[Data](articles/4ecdff37.json)
+
+[Extended Data](ext_articles/4ecdff37.ext.json)
+
+---
+
+### சீனாவின் திட்டமும்   அநுரவின் இலக்கும்
+
+*2024-12-01 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200136) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசநாயக்க பாராளுமன்றத்தில், கொள்கை விளக்க உரையை நிகழ்த்திய போது, 8 பில்லியன் டொலர்கள் சுற்றுலா பொருளாதாரத்தை உருவாக்குவது பற்றி குறிப்பிட்டிருந்தார்.
+
+“சுற்றுலாத்துறையில் பெரும் பாய்ச்சலை செய்யக் கூடிய இயலுமை தொடர்பில் அறிந்துள்ளோம். அதற்கான திட்டம் தயாரிக்கப்பட்டுள்ளது. அதன்படி 4 மில்லியன் சுற்றுலாப் பயணிகளை நாட்டுக்கு கொண்டு வருவதற்கான முயற்சிகளை முன்னெடுக்க இருப்பதாக” அவர் தனது உரையில் கூறியிருந்தார்.
+
+ஆனால் அதற்கான திட்டம் குறித்தோ, வழிமுறைகள் குறித்தோ அவர் வேறு எந்த விபரங்களையும் வெளியிட்டிருக்கவில்லை.
+
+2018 ஆம் ஆண்டு, 2.3 மில்லியன் சுற்றுலாப் பயணிகள் வருகை தந்தனர் என்பதை மாத்திரம் சுட்டிக்காட்டியிருந்தார். இலங்கை ஒரே ஆண்டில் அதிகபட்ச சுற்றுலாப் பயணிகளை ஈர்த்த ஆண்டு அது.
+
+ஆறு ஆண்டுகளுக்கு முன்னர் 2.3 மில்லியன் சுற்றுலா பயணிகளை ஈர்த்த, இலங்கையினால் 4  மில்லியன், சுற்றுலா பயணிகளை ஈர்ப்பது ஒன்றும் கடினம் அல்ல என்பதை அவர் உணர்த்த விரும்பியிருக்கலாம். ஆனால் ஜனாதிபதியின் இந்த இலக்கு இலகுவான ஒன்று அல்ல.
+
+...
+
+[Data](articles/73d03e08.json)
+
+---
+
+### மனிதாபிமானப் பணியாளர்களுக்கு  உலகெங்கும் உயிர் அச்சுறுத்தல்
+
+*2024-12-01 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200133) · `ta`
+
+மனிதாபிமான தொண்டு நிறுவனங்களின் பணியாளர்கள் இந்த வருடத்தில் முன்னெப்போதும் இல்லாத வகையில் அதிகளவில் கொல்லப்பட்டுள்ளதாக ஐக்கிய நாடுகள் சபை வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. உலகெங்கும் உள்ள 19 நாடுகளில் இதுவரை மொத்தம் 281 தொண்டு நிறுவனப் பணியாளர்கள் கொலை செய்யப்பட்டு உள்ளனர். இதுவரையான உலக வரலாற்றில் அதுவே அதிகூடிய எண்ணிக்கையாகும். கடந்த வருடத்தில் இந்த எண்ணிக்கை 280ஆக இருந்தது.
+
+இந்த வருடத்தில் இதுவரை கொலை செய்யப்பட்டுள்ள தொண்டு நிறுவனப் பணியாளர்களுள் 268 பேர் சர்வதேச மற்றும் உள்நாட்டு தொண்டு நிறுவனங்களின் பணிக்கென உள்நாட்டில் வேலைக்கு அமர்த்தப்பட்ட நபர்கள் ஆவர். 13 பேர் சர்வதேச நிறுவனங்களின் நேரடிப் பணியாளர்கள் என்கிறது அறிக்கை.
+
+தொன்டு நிறுவனப் பணியாளர்களின் பாதுகாப்புத் தரவுத்தளம் எனும் அமைப்பு தொண்டு நிறுவனப் பணியாளர்கள் எதிர்கொள்ளும் பாதுகாப்பு அச்சுறுத்தல் உள்ளிட்ட தரவுகளைத் தொடர்ச்சியாகத் திரட்டி வருகின்றது. 1990 ஆண்டு முதல் தரவுகளைத் திரட்டி வழங்கும் இந்த அமைப்பின் புள்ளிவிபரங்களை அடிப்படையாகக் கொண்டு ஐ.நா.சபையில் இந்த விபரங்கள் சமர்ப்பிக்கப்பட்டன.
+
+...
+
+[Data](articles/cb460584.json)
 
 ---
 
@@ -1833,609 +2371,5 @@ The Criminal Investigations Department and the Terrorism Investigation Division 
 [Data](articles/38c592ec.json)
 
 [Extended Data](ext_articles/38c592ec.ext.json)
-
----
-
-### Commendation from Ranil to proceed with the IMF program
-
-*2024-11-30 23:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203914) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former President Ranil Wickremesinghe commends the current government for embracing the IMF program. He spoke at the opening of Amari Kalambo Hotel, praising economic recovery efforts and expressing support for the IMF framework.
-
-🟩
-
-Former President Ranil Wickremesinghe says that the present government praises the President about adapting to the IMF program.
-
-The former President made this observation at the opening of the Amari Kalambo Hotel belonging to the Amager Hotel Network this afternoon.
-
-The Amari Kalambo Hotel Network is the five-star-in-the-one-star-in-the-one-one-entrepreneur in Colombo belonging to a Sri Lankan entrepreneur.
-
-Winthy Gem dominant, Winthy Gem dominant, is Blogged by Winl Gem Governor.
-
-Ranil Wickremesinghe, Minister Vijitha Herath and Opposition Leader Sajith Premadasa and Opposition Leader Sajith Premadasa were present at the opening of the hotel.
-
-"In order to build the economy at the collapse of the economy, it was completely restored in this country. Meeting of Circular President Anura Dissanayake expresses happiness for the presence of the frame of the IMF. Because we can't go out of it. When our current capacity is completed then we have to look for new ways. "
-
-◼️
-
-[Data](articles/045d18ac.json)
-
-[Extended Data](ext_articles/045d18ac.ext.json)
-
----
-
-### Air quality of 12 major cities in the island is unhealthy
-
-*2024-11-30 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203913) · `si`
-
-Unhealthy air quality hits 12 Sri Lankan cities. Colombo, Kalutara, Kandy, Jaffna face severe pollution. NBRO warns sensitive individuals to seek medical help due to poor air quality levels exceeding 100.
-
-🟩
-
-At about 9 pm, around the island and 12 cities and their air quality conditions have reached a negative level of health.
-
-It was in Ratnapura, Kilinochchi, Gampaha, Trincomalee, Colombo, Dambulla, Negombo, Puttalam, Mahiyanganaya, Kurunegala and Kalawewa areas.
-
-The gas quality index is between 0 and 50 value, which is a moderate level between the size of 51 -100.
-
-But the value is distinctive between 101 to 150 and the value is considered as an unfavorable level.
-
-In this backdrop, there was over 101 gases in major cities of the country today as well as today.
-
-The air quality of Colombo was 104 yesterday, and it was 108 to 116 today.
-
-In addition, the air quality status of Kalutara was between 98 and 104.
-
-The National Building Research Organization (NBRO) stated that 106 to 114 at the Kandy-Kandy's gas quality, between 106 and 114 and at least 118.
-
-The air quality of Jaffna in Jaffna was nearly 120.
-
-...
-
-[Data](articles/32b3489a.json)
-
-[Extended Data](ext_articles/32b3489a.ext.json)
-
----
-
-### Sri Lanka better equipped to address future marine disasters - experts
-
-*2024-11-30 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103893/sri-lanka-better-equipped-to-address-future-marine-disasters-experts) · `en`
-
-Marine pollution response experts claim that Sri Lanka is now better equipped with the knowledge and strategies to address future marine disasters, having learnt key lessons in that regard in the fallout of the ‘X-Press Pearl’ and ‘New Diamond’ shipwrecks.
-
-Bethany Graves, a representative from the Ocean Country Partnership Programme at the South Asia Co-operative Environment Programme Symposium in Sri Lanka, emphasized that the shipping disasters in Sri Lankan waters highlight the urgent need for preparedness and response programmes.
-
-W.K. Rathnadeera, Senior Programme Officer at the South Asia Co-operative Environment Programme, noted that funding remains a significant challenge for such programmes.
-
-He also stressed that most disasters cannot be managed by a single country, underscoring the importance of a regional cooperative approach.
-
-...
-
-[Data](articles/c580b9a5.json)
-
-[Extended Data](ext_articles/c580b9a5.ext.json)
-
----
-
-### LAUGFS GAS LAGE IN THE INTERNATION
-
-*2024-11-30 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203912) · `si`
-
-LAUGFS gas shortage hits Sri Lanka. Trade Minister Samarasinghe addresses issue. Flooded terminal and delayed shipment cause distribution problems. Efforts underway to restore supply.
-
-🟩
-
-Minister of Trade, Wasantha Samarasinghe says that the government has paid attention to the shortage of LAUGFS gas created in the country.
-
-The gas dealers noted that LAUGS gas has not been issued to the market since September.
-
-There was a shortage of LAUGFS gas in the country since several weeks.
-
-Customers and traders are due to severe difficulty.
-
-Accordingly, Ada Derana LAUGS Gas was inquired about this.
-
-"The area surrounding the place where the basic pipe terminal was flooded, the distribution was disabled. At the same time, a ship brought to the Hambantota terminal was a delay in a gas. This could not be gaspied in the past. The ship is still going to land. We've been working since yesterday. Distribution in the past 24 hours was carried out. "
-
-◼️
-
-[Data](articles/f8fe0119.json)
-
-[Extended Data](ext_articles/f8fe0119.ext.json)
-
----
-
-### What SIINOPEC is going to buy fuel
-
-*2024-11-30 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203911) · `si`
-
-Sinopec buys fuel; Syinope amends prices; Ceylon Petroleum increases rates; liter price hikes: diesel +286, kerosene +588; other fuels unchanged.
-
-🟩
-
-Syinope has amended its fuel prices as operated from today.
-
-Issuing a statement that the company is amended by the company's fuel prices as the prices of the Ceylon Petroleum Corporation.
-
-The Ceylon Petroleum Corporation had taken steps to amend fuel prices as effective today.
-
-The new price of Rs.
-
-The price of a liter of Sri Lanka has increased by Rs. 286.
-
-The price of a liter of LTTE kerosene has been increased by Rs. 588.
-
-Other fuel prices have not been amended and the prices will be sold at the previous prices.
-
-◼️
-
-[Data](articles/667c59eb.json)
-
-[Extended Data](ext_articles/667c59eb.ext.json)
-
----
-
-### Student reveals how the Ampara Tractor has been shy away
-
-*2024-11-30 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203909) · `si`
-
-Ampara Tractor incident: 8 students killed, 1 missing. Surviving student recounts tragic events: bus overturned, tractor sank, rescue efforts ongoing.
-
-🟩
-
-Police have recovered the bodies of eight of the school children who were killed from the Sadapula area in Kabbalan, Ampara.
-
-One of another body of the missing student was disappeared today.
-
-The Navy, Police and the residents of the area were conducting further investigations.
-
-The student who survived the accident expressed these views regarding the accident.
-
-...
-
-[Data](articles/3cf275d5.json)
-
-[Extended Data](ext_articles/3cf275d5.ext.json)
-
----
-
-### Lanka IOC fuel revisive
-
-*2024-11-30 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203908) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Lanka IOC fuel prices revised: Petrol +Rs.286/liter, Kerosene +Rs.588/liter. Other fuels unchanged. Prices effective from 30th."
-
-🟩
-
-Lanka IOC has also been announced in his fuel prices.
-
-Accordingly, Lanka IOC fuel prices will also be amended under Sipetco fuel prices.
-
-The Ceylon Petroleum Corporation had taken steps to amend fuel prices today (30).
-
-The new price of Rs.
-
-The price of a liter of Sri Lanka has increased by Rs. 286.
-
-The price of a liter of LTTE kerosene has been increased by Rs. 588.
-
-Other fuel prices have not been amended and the prices will be sold at the previous prices.
-
-◼️
-
-[Data](articles/912bd17b.json)
-
-[Extended Data](ext_articles/912bd17b.ext.json)
-
----
-
-### Morgo Media Academy begins
-
-*2024-11-30 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203907) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Morgo Media Academy launched today. Aims to equip students with skills for global media market success. Focuses on new technologies like Muzu Disform for modern cinema and electronic media. Offers diplomas in bio-development, game design, concept art, modeling, and texturing. First batch of 30 students enrolled. Next intake in January 2025. Contact: www.mocoacademy.lk or (011) 728 8300.
-
-🟩
-
-Margo Media Academy commenced today (30).
-
-The main objective of this purpose is to provide the proud skills needed for the victory of the professional global market.
-
-New Technology Muzu Disform Activity is essential for the proceed of modern cinema and electronic media.
-
-The Morgo Media Academy was established with aiming creating skills.
-
-Accordingly, the first team was registered today in Maggo Media Anagram, Colombo 10.
-
-The first group of 30 people accompanies the Diplomamamcent Diploma.
-
-The Moo Media Academy is entitled to study bio-developed, game, concept art, modeling and texting diplom, and all these diplomas are equipped with a year of study period.
-
-They were guidelines through an international qualified qualified staff.
-
-Accordingly, the next team registers 2025, which can be found in January 2025 and calling on the website www.mocoacademy.lk or by addressing the website (011) 728 8300.
-
-◼️
-
-[Data](articles/9508fec5.json)
-
-[Extended Data](ext_articles/9508fec5.ext.json)
-
----
-
-### Changes fuel prices
-
-*2024-11-30 19:51:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-වෙනස්-කරයි/11-413365) · `si`
-
-Fuel price changes: Oil reduced, Octane 95 unchanged at 371, White diesel increased, Lanka Super diesel stable at 313, LTTE kerosene rose by 58 to 188.
-
-🟩
-
-The Ceylon Petroleum Corporation has taken steps to revise the fuel price hike today (30).
-
-The new price of a liter of oil has been reduced by Rs.
-
-The price of a liter of octane 95 petrol does not change and its price is 371.
-
-The new price of a liter of Sri Lanka's white diesel has increased by Rs.
-
-The price of a liter of Lanka Super diesel has not been changed, and the price is 313.
-
-The price of a liter of LTTE kerosene has been increased by Rs. 58 and its new price is 188.
-
-◼️
-
-[Data](articles/2b5eea6d.json)
-
-[Extended Data](ext_articles/2b5eea6d.ext.json)
-
----
-
-### Sri Lanka At The Crossroads: Can The AKD Government Deliver Transformative Change?
-
-*2024-11-30 19:41:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-at-the-crossroads-can-the-akd-government-deliver-transformative-change/) · `en`
-
-The Anura Kumara Dissanayake (AKD) government embodies the culmination of the Aragalaya—a people’s uprising that revealed Sri Lanka’s governance failures rooted in decades of corruption, economic mismanagement, and systemic inefficiency. It emerged as a beacon of hope, symbolizing a rejection of the status quo and a demand for transformative change. However, its success hinges on addressing the deep-rooted flaws of the system it aims to reform.
-
-...
-
-[Data](articles/b9470a2b.json)
-
-[Extended Data](ext_articles/b9470a2b.ext.json)
-
----
-
-### Sudden change in fuel prices
-
-*2024-11-30 19:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருள்-விலைகளில்-திடீர்-மாற்றம்/150-348016) · `ta`
-
-Fuel price changes: 92 petrol reduced, Otto diesel increased, Ceylon Petroleum unchanged.
-
-🟩
-
-According to the monthly fuel prices, the price of fuel has been changed from midnight today.
-
-Accordingly, the price of a liter of 92 petrol, which was 311 rupees, was reduced by Rs.
-
-The price of a liter of Otto diesel from 283 rupees has been increased by 3 rupees and its new price is 286 rupees.
-
-Meanwhile, the Ceylon Petroleum Convention has announced that no change has been made at the price of a liter of petrol and Super Diesel.. Remble
-
-◼️
-
-[Data](articles/38abbc9a.json)
-
-[Extended Data](ext_articles/38abbc9a.ext.json)
-
----
-
-### Liquid goods exchanges from the Hambantota port for the first ship in Sri Lanka
-
-*2024-11-30 19:22:49* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ප්‍රථම-වරට-නැවකින්-නැවකට‍-ද්‍රව-භාණ්ඩ-හුවමාරුව-හම්බන්තොට-වරායෙන්/11-413364) · `si`
-
-Hambantota port initiates liquid goods exchange with first ship. 3,170 metric tons of liquid petroleum transferred successfully.
-
-🟩
-
-The Hambantota port has begun transfer to a ship's first-time vessel. Accordingly, the Ports Authority has issued that the exchange of liquid petroleum exchange has been carried out with Singapore, Sippropur and Maritime.
-
-Accordingly, 3,170 metric tons of liquid petrics have been referred to the ship's ship to the ship, which has been avoided in the country with averted soon.
-
-◼️
-
-[Data](articles/167f7983.json)
-
-[Extended Data](ext_articles/167f7983.ext.json)
-
----
-
-### Fuel prices revised
-
-*2024-11-30 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103892/fuel-prices-revised) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices effective from midnight today (30).
-
-Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 2 to Rs. 309 per litre, while the price of Kerosene has been increased by Rs. 5 to Rs. 188 per litre.
-
-However, the prices of Petrol 95 Octane and Super Diesel remain unchanged, according to Ceypetco.
-
-Meanwhile, the Lanka Indian Oil Corporation (LIOC) too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
-
-◼️
-
-[Data](articles/9e58fe9e.json)
-
-[Extended Data](ext_articles/9e58fe9e.ext.json)
-
----
-
-### Fuel price is revised
-
-*2024-11-30 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203906) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-CPC revises fuel prices: Octane 92 petrol down Rs. 31.09, Octane 95 stable at Rs. 371, Lanka White Diesel up Rs. 286, Lankan Super Diesel unchanged at Rs. 313, LTTE Kerosene up Rs. 58 to Rs. 188.
-
-🟩
-
-The Ceylon Petroleum Corporation has taken steps to revise the fuel price hike today (30).
-
-Accordingly, the price of a liter of Octane 92 petrol has been reduced by Rs.31 309.
-
-The price of a liter of octane 95 petrol does not change and its price is 371.
-
-The price of a liter of Lanka white diesel has been increased by Rs. 286.
-
-The price of a liter of Lankans Super diesel has not been changed, and it is 313.
-
-The price of a liter of LTTE kerosene has been increased by Rs. 58 and its new price is 188.
-
-◼️
-
-[Data](articles/f3c48251.json)
-
-[Extended Data](ext_articles/f3c48251.ext.json)
-
----
-
-### Adverse weather claims 17 lives, nearly 500,000 affected
-
-*2024-11-30 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103891/adverse-weather-claims-17-lives-nearly-500000-affected) · `en`
-
-Adverse weather from a deep depression over the southwest Bay of Bengal has claimed the lives of 17 people in Sri Lanka with 20 injured so far, according to the Disaster Management Centre (DMC).
-
-The DMC said a total of 479,871 persons from 142,624 families have been affected by the prevailing adverse weather in the country.
-
-Meanwhile, 103 houses have been completely damaged while 2,635 have been partially damaged, as per the latest data released by the DMC.
-
-A total of 27,517 individuals from 8,470 families who were affected by the extreme weather conditions are currently in relief centres, according to the DMC.
-
-◼️
-
-[Data](articles/9c604223.json)
-
-[Extended Data](ext_articles/9c604223.ext.json)
-
----
-
-### Fengal warfts in weather
-
-*2024-11-30 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203905) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Fengal weather warning: Heavy rain expected in western, central Sri Lanka. Strong winds forecasted. Storm to weaken as it moves towards India."
-
-🟩
-
-The Department of Meteorology has issued an announcement announcement on Fengal's tustle.
-
-Today (30). In. The announcement issued at 05.00 tomorrow (01). In. The department is valid until 05.00, the Department said.
-
-The Meteorological Department stated to be aware of the deep and shallow sea areas around the island.
-
-Fengles in the Bay of Bay of Bay of Bay of Bengal. At about Rs.
-
-The North West will reach North Western in the evening of November 30th.
-
-This system will move to India and gradually weakness and the impact of the island is further declining.
-
-The northern province is heavy from the walakula and will be at times.
-
-Several spells of showers in the Western, Sabaragamuwa, North Western and North-Central provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers will occur at a few places in the evening or night in the other areas.
-
-...
-
-[Data](articles/d1d2130c.json)
-
-[Extended Data](ext_articles/d1d2130c.ext.json)
-
----
-
-### Ampara tractor accident: Body of another missing boy found
-
-*2024-11-30 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103890/ampara-tractor-accident-body-of-another-missing-boy-found) · `en`
-
-The body of another student out of the six who went missing after the tractor they were traveling on toppled and was swept away by floodwaters at Karaitivu in Ampara District on Tuesday (26), has been discovered.
-
-Accordingly, the bodies of eight individuals including six students have been recovered thus far.
-
-The incident occurred on Tuesday evening when the tractor, which was carrying total of 13 individuals, including 11 school boys, the driver, and assistant, toppled due to strong currents while passing through flood waters.
-
-The incident had occurred near the bridge located close to the Karaitivu bus stand as the group of students were returning home from attending a Madrasa school in Ninthavur.
-
-The missing children are aged between 12 and 16 years while they are residents of Sammanthurai, according to police.
-
-◼️
-
-[Data](articles/813d0317.json)
-
-[Extended Data](ext_articles/813d0317.ext.json)
-
----
-
-### Disaster molestores up to 17 deaths
-
-*2024-11-30 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203904) · `si`
-
-Weather disaster claims 17 lives, injures 20. 479,871 displaced, 103 homes destroyed, 2,635 damaged. 27,570 seek shelter at relief centers.
-
-🟩
-
-The Disaster Management Center (DMC) says that 17 people have died due to inclement weather.
-
-Also, 20 persons were injured in the disaster.
-
-479,871 persons from 142,624 families have been displaced.
-
-103 houses were completely damaged and 2,635 houses were partially damaged.
-
-The center said that 27,570 people were retained at relief centers at 8,470 families.
-
-◼️
-
-[Data](articles/a1e2ae7b.json)
-
-[Extended Data](ext_articles/a1e2ae7b.ext.json)
-
----
-
-### Plowing Mechanical Accident - Another student's body recovery
-
-*2024-11-30 18:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/உழவு-இயந்திர-விபத்து-மற்றுமொரு-மாணவனின்-சடலம்-மீட்பு/74-348015) · `ta`
-
-Body of student recovered after drowning in floods. Navy, police, and residents conducted search operation. Incident occurred when plowing machine crashed into floodwaters. Five students' bodies previously found; three more discovered recently. Total of eight students' bodies recovered so far.
-
-🟩
-
-The body of another student who was drowned in the floods in the Karadivu area in Ampara, has been found dead.
-
-The body of the student was found this morning (30) in a search operation by the navy, police and residents.
-
-On the 26th of this month, the plowing machine from Nintavur area to Samanthurai area crashed into a flood and 14 people were drowned when they were submerged.
-
-In this case, the bodies of 5 students were earlier and the bodies of the plowing machine and the other traveler were recently found.
-
-Accordingly, the bodies of eight students, including school children who died in the incident, have been found so far.. Remble
-
-◼️
-
-[Data](articles/faf10157.json)
-
-[Extended Data](ext_articles/faf10157.ext.json)
-
----
-
-### Flood warnings extended
-
-*2024-11-30 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203903) · `si`
-
-Flood warnings extended: Mahaweli River & Deduru Oya basin. Roads closed due to rising waters. Hartama warning lifted. Irrigation Dept monitors rainfall & river levels. Flood preparations underway.
-
-🟩
-
-The Irrigation Department has taken steps to extend the flood warning notification issued for the Mahaweli River and Deduru Oya basin.
-
-As a result, the department has requested the roads from the public and region of the area residents of the area.
-
-Meanwhile, the Irrigation Department has also taken steps to remove the flood warning notification issued in the Hartama.
-
-The department said that the Department of Image Department is constantly concerned about the changes in rainfalls island wide and the effects Department is constantly concerned about the changes in the river water levels.
-
-The Department of Irrigation has stated that arrangements have been made to pay prior notifications if there is a flood.
-
-◼️
-
-[Data](articles/ccfe033c.json)
-
-[Extended Data](ext_articles/ccfe033c.ext.json)
-
----
-
-### Yall. Sreedharan met the District Government Agent
-
-*2024-11-30 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200100) · `ta`
-
-Sreedharan meets Jaffna District Government Agent Marudalingam Pradeepan. Discusses floods and ongoing efforts.
-
-🟩
-
-Jaffna District Government Agent and District Secretary Marudalingam Pradeepan met Parliamentarian Sivagnanam Sreedharan today (30) at the Government Agent's office.
-
-The meeting was discussed on the current flood conditions and the ongoing activities.
-
-◼️
-
-[Data](articles/e2f0099c.json)
-
-[Extended Data](ext_articles/e2f0099c.ext.json)
-
----
-
-### Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.
-
-*2024-11-30 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85134) · `en`
-
-The Anura “Alai”or wave that engulfed the Tamil nationalist stronghold of Jaffna was the focus of this column published last week. (Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of Jaffna).The Janatha Vimukthi Peramuna (JVP)led National People’s Power(NPP) made history by polling the highest number of votes  in Jaffna  as a single party in the November 2024 parliamentary poll. The NPP won three of the six seats in Jaffna described as the cultural capital of the Sri Lankan Tamils. The November 14 electoral verdict indicated that this  Tamil nationalist fort has been breached and even overwhelmed by a Sinhala dominated nationalist party for the first time in Sri Lanka’s post-independence history. This week’s article will delve in detail into how and why the NPP triumphed in Jaffna.
-
-...
-
-[Data](articles/7b4fd7e2.json)
-
-[Extended Data](ext_articles/7b4fd7e2.ext.json)
-
----
-
-### Yall. Minister Ramalingam Chandrasekhar appointed District Coordinating Committee Chairman
-
-*2024-11-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200093) · `ta`
-
-Minister Ramalingam Chandrasekhar named Chairman of Jaffna District Coordinating Committee. Appointed by President, he's MP and Fisheries Minister. Public Administration Minister AHMH sent letter to Jaffna District Government Agent on 28th last month.
-
-🟩
-
-On the orders of the President, Ramalingam Chandrasekhar, a Member of Parliament and Minister of Fisheries, Aquatic and Marine Resources, has been appointed as the Chairman of the Jaffna District Coordinating Committee.
-
-Public Administration Provincial Councils and Local Government Minister AHMH on this issue. A letter was sent to the Jaffna District Government Agent on the 28th of last month.
-
-◼️
-
-[Data](articles/62c81aa4.json)
-
-[Extended Data](ext_articles/62c81aa4.ext.json)
-
----
-
-### யாழ் தமிழ் தேசியவாதக் கோட்டைக்குள் பலமாக அடித்த “அநுர அலை”:  ஆறு யாழ்ப்பாண ஆசனங்களில் மூன்றில் தேசிய மக்கள் சக்தி வெற்றி.
-
-*2024-11-30 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85145) · `en`
-
-தேசிய மக்கள் சக்தி 2024 நவம்பர் 14  பாராளுமன்ற தேர்தலில் வரலாற்று முக்கியத்துவம் வாய்ந்த ஒரு வெற்றியைப் பதிவு செய்திருக்கிறது. ஜனதா விமுக்தி பெரமுனவை (ஜே.வி.பி.) பிரதான அங்கத்துவக் கட்சியாகக்கொண்டு 21 அரசியல் கட்சிகள், குழுக்கள் மற்றும் தொழிற்சங்கங்களை உளாளடக்கிய ஒரு கூட்டமைப்பே தேசிய மக்கள் சக்தியாகும். அது 6, 863,186 (61.6 சதவீதம் ) வாக்குகளைப் பெற்று 225 ஆசனங்களைக் கொண்ட இலங்கை பாராளுமன்றத்தில் 159 ஆசனங்களைக் கைப்பறாறியிருக்கிறது. இவற்றில் 141 ஆசனங்கள் நேரடியாக மாவட்ட அடிப்படையில் பெறப்பட்டவையாக இருக்கின்ற அதேவேளை  18 ஆசனங்கள் தேசியப்பட்டியல் மூலம் கிடைத்தவை.
-
-...
-
-[Data](articles/f21e5659.json)
-
-[Extended Data](ext_articles/f21e5659.ext.json)
 
 ---

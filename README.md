@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 01:00:10**
+As of **2024-12-02 01:11:31**
 
 ## Newspaper Stats
 
-*Scraped **57,926** Articles*
+*Scraped **57,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 590
 bbccomsinhala | 603
 islandlk | 3,477
 economynextcom | 3,517
-dailyftlk | 3,992
+dailyftlk | 3,995
 dailymirrorlk | 4,733
 adalk | 5,469
 adaderanalk | 7,017
@@ -26,9 +26,63 @@ adaderanasinhalalk | 10,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,926 (100.0%) of 57,926 articles have been extended.
+57,926 (100.0%) of 57,929 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-02 (Monday)
+
+### Sandamini Perera shines in EY Winning Women – Class of 2024
+
+*2024-12-02 00:41:50* · [`dailyftlk`](https://www.ft.lk/business/Sandamini-Perera-shines-in-EY-Winning-Women-Class-of-2024/34-769943) · `en`
+
+Prime Group and Prime Lands Residencies Co-founder and Executive Chairperson Sandamini Perera
+
+The EY Entrepreneurial Winning Women Asia-Pacific Conference recently took place in Kuala Lumpur, Malaysia.
+
+The event brought together inspiring women entrepreneurs under the theme “Future Focused,” exploring key topics such as AI, global expansion, and talent challenges. It provided a valuable platform for networking and knowledge sharing, featuring notable speakers, including Selyn Exporters Founder Sandra Wanduragala, and Director of Business Development Selyna Peiris, from Sri Lanka.
+
+...
+
+[Data](articles/0602f4e9.json)
+
+---
+
+### FTZMA meets new BOI Chairman
+
+*2024-12-02 00:34:46* · [`dailyftlk`](https://www.ft.lk/business/FTZMA-meets-new-BOI-Chairman/34-769942) · `en`
+
+The sole trade chamber of BOI enterprises, Free Trade Zone Manufacturers Association (FTZMA) recently met with the new Chairman of the Board of Investment (BOI) to discuss critical measures needed to enhance investment and trade facilitation in Sri Lanka.
+
+The meeting, held in the BOI Chairman’s boardroom, highlighted the urgent need for a “Single Window” and “One-Stop Shop” to simplify and streamline the investment process.
+
+Empowering BOI: Reinvigorate BOI with powers akin to those held during the GCEC era, aimed at seamless trade facilitation.
+
+Digital Transformation: Accelerate the digitalisation and automation of processes to improve operational efficiency.
+
+Infrastructure and Security Enhancements: Improve infrastructure and increase security measures within BOI zones to bolster investor confidence.
+
+Combating Corruption: Implement strict measures to eliminate bribery and corruption within the BOI.
+
+...
+
+[Data](articles/19c80f1c.json)
+
+---
+
+### Child’s guide to Central Bank’s new monetary policy instrument: Overnight Policy Rate
+
+*2024-12-02 00:15:18* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-Central-Bank-s-new-monetary-policy-instrument-Overnight-Policy-Rate/4-769937) · `en`
+
+When the policy rate of the Central Bank is reduced, the banks immediately cut the deposit rates meaning that they are downward flexible
+
+Since REPO bids should be below OPR and Reverse-REPO bids should be above OPR, they are synonymous with SDFR and SLFR, respectively. Since they should be around OPR, the earlier announced SDFR and SLFR become irrelevant. Also, commercial banks should fix their call rates around OPR. That is how call rates are manipulated by the Central Bank through rules and OPR practices
+
+...
+
+[Data](articles/e8c614f7.json)
+
+---
 
 ### 2024-12-01 (Sunday)
 
@@ -2465,77 +2519,5 @@ If the government fails to intervene in importing and supply the gas, the govern
 [Data](articles/33c281c0.json)
 
 [Extended Data](ext_articles/33c281c0.ext.json)
-
----
-
-### Sanath Priyantha as the new Chairman of the Elpitiya Pradeshiya Sabha
-
-*2024-12-01 11:36:28* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ප්‍රාදේශීය-සභාවේ-නව-සභාපති-ලෙස-සනත්-ප්‍රියන්ත/11-413372) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sanath Priyantha appointed Chairman Elpitiya Pradeshiya Sabha. Nishantha Perera won UNP seat, but Sanath Priyantha named Chairman. Election Commission yet to gazette appointment.
-
-🟩
-
-The recent Elpitiya Pradeshiya Sabha elections have been elected to the UNP, which is the Chairman of Nishantha Perera and issued a special gazette.
-
-Nishantha Perera, who won the parliamentary election, was sent to the party secretary to the party secretary, said that the party was sent to the party secretary. Mr. Sanath Priyantha, who was namedThe Chairman of the party secretary sent to the Election Commission. The name has not been gazetted by the Election Commission.
-
-Nishantha Perera said that Nishantha Perera had been sent to a Member of Parliament.
-
-Lalkada Lokuge Sanath Sumantha Sumanasiri is a retired Deputy Principal.
-
-◼️
-
-[Data](articles/211289e2.json)
-
-[Extended Data](ext_articles/211289e2.ext.json)
-
----
-
-### Sri Lanka extends food tax on potatoes at $200 a tonne, slashes onion levy
-
-*2024-12-01 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-food-tax-on-potatoes-at-200-a-tonne-slashes-onion-levy-190993/) · `en`
-
-ECONOMYNEXT – Sri Lanka has extended a food import tax on potatoes to around 60,000 rupees a tonne (about 205 US dollars) but slashed a tax onion to 10,000 rupees (about 34 dollars) from 40,000 rupees a tonne, according to gazette notice.
-
-The taxes, a so-called special commodity levy, will be applicable from December 01 to December 31.
-
-Sri Lanka has among the highest food taxes int the world, including on rice at 65,000 rupees a tonne, (about 222 US dollars at 292 rupees a dollar) keeping prices among the highest in the world, especially compared to incomes.
-
-In Sri Lanka basic Nadu rice wholesale prices were reported at around 229 rupees a kilo (about 784 dollars a tonne), which is about the FOB price of Vietnam fragrant rice.
-
-India parboiled 5 percent broken rice fell below 500 dollars a tonne to 474 dollars (about 138 rupee a kilo) in October, following the lifting of a minimum export price of 490 dollars, according to November Food and Agricultural Organization data.
-
-...
-
-[Data](articles/7a140ee5.json)
-
-[Extended Data](ext_articles/7a140ee5.ext.json)
-
----
-
-### “Don't believe the rumors”
-
-*2024-12-01 11:24:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வதந்திகளை-நம்ப-வேண்டாம்/175-348040) · `ta`
-
-"Don't believe rumors: Sea didn't dry up. Panic in Batticaloa. Check official announcements from Disaster Management Center."
-
-🟩
-
-Most of the villagers have come to the streets due to a huge panic that the sea has dried up on Saturday night (30) in the Batticaloa district.. Some of the people who are near the coast are displaced.
-
-When contacted by the Director of Disaster Management in Batticaloa District
-
-Do not rely on rumors that spread about tsunami disaster. We are very responsible that the people will be immediately announced through the District Disaster Management Center in the event of a tsunami disaster. ”
-
-◼️
-
-[Data](articles/4b5871a9.json)
-
-[Extended Data](ext_articles/4b5871a9.ext.json)
 
 ---

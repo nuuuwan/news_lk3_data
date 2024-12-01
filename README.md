@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 14:01:44**
+As of **2024-12-01 14:15:01**
 
 ## Newspaper Stats
 
-*Scraped **57,840** Articles*
+*Scraped **57,842** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 442
-colombotelegraphcom | 588
+colombotelegraphcom | 589
 bbccomsinhala | 603
 islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,457
+adalk | 5,458
 adaderanalk | 7,011
 tamilmirrorlk | 8,222
 virakesarilk | 9,444
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,835 (100.0%) of 57,840 articles have been extended.
+57,835 (100.0%) of 57,842 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5e8d1bec.json)
+
+---
+
+### අයි.සී.සී මුල් පුටු​වේ ජේ ෂා වැඩ අරඹයි
+
+*2024-12-01 13:17:32* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී-මුල්-පුටු​වේ-ජේ-ෂා-වැඩ-අරඹයි/9-413373) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ (අයි.සී.සී) සභාපති ලෙද ජේ ෂා අද(01දා) සිට වැඩ ආරම්භ කර තිබේ.
+
+ඔහු ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයේ ලේකම්වරයා ලෙස ඊයේ (30දා) දක්වා කටයුතු කළේය.
+
+◼️
+
+[Data](articles/73563690.json)
 
 ---
 
@@ -1079,6 +1093,18 @@ Strong winds of 50-55 kmph can be expected at times over Northern, North-central
 [Data](articles/b546924b.json)
 
 [Extended Data](ext_articles/b546924b.ext.json)
+
+---
+
+### Reevaluating Cabinet Appointments: Addressing Deficiencies
+
+*2024-12-01 08:19:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reevaluating-cabinet-appointments-addressing-deficiencies/) · `en`
+
+Appointments to the Cabinet of Ministers based purely and simply on meritocracy is unheard of anywhere. Most selections worldwide are broadly based on three criteria viz. experience, affiliation and representation. In general, political exposure and expertise in the relevant Ministerial functions are significant consideration besides qualifications for experiential appointments. Affiliational appointments include those within the personal networks of friendship, party alliances, trust, and loyalty to the President or Prime Minister. In countries where there is social diversity the government in principle align towards representational considerations based on socio-demographics like ethnic, religion, gender, regional and so on. Countries like Canada, Australia and the United Kingdom do have such representational allocations.
+
+...
+
+[Data](articles/83318dae.json)
 
 ---
 
@@ -2397,51 +2423,5 @@ The Navy and the locals were taken to the Vavuniya Hospital, who was seriously i
 [Data](articles/50b4023d.json)
 
 [Extended Data](ext_articles/50b4023d.ext.json)
-
----
-
-### A young family girl burns in a fire in Chettikulam
-
-*2024-11-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200081) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Young girl dies from burns in Chettikulam fire. Woman lived in Periyakulam area of Vavuniya. Rescued by neighbors and admitted to Chettikulam Hospital.
-
-🟩
-
-The woman, who was living in the Periyakulam area of ​​Vavuniya, Chettikulam, has died after being rescued by neighbors and was admitted to the Chettikulam Hospital after being rescued by neighbors.
-
-◼️
-
-[Data](articles/b9aba0a3.json)
-
-[Extended Data](ext_articles/b9aba0a3.ext.json)
-
----
-
-### Landslide warnings issued for 8 districts
-
-*2024-11-30 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103889/landslide-warnings-issued-for-8-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in 8 districts, as heavy rainfall continues in parts of the island.
-
-The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 01).
-
-Accordingly, a Level 2 (Amber) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Kandy, Kegalle, Matale and Nuwara-Eliya districts as follows:
-
-Badulla– Passara, Hali Ela, Meegahakivula and Bandarawela DSDs and surrounding areas
-
-Kandy – Yatinuwara, Udapalatha, Ududumbara, Deltota, Gangawata Koralaya, Patha Hewaheta, Harispatthuwa, Pathadumbara, Medadumbara, Doluwa, Udunuwara, Thumpane, Pujapitiya, Panwila, Pabage Koralaya, Akurana, Hatharaliyadda, Ganga Ihala Koralaya DSDs and surrounding areas
-
-Kegalle – Mawanella, Rambukkana, Warakapola, Ruwanwella, Galigamuwa, Bulathkohupitiya, Aranayake, Yatiyantota DSDs and surrounding areas
-
-...
-
-[Data](articles/50cacc87.json)
-
-[Extended Data](ext_articles/50cacc87.ext.json)
 
 ---

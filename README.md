@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 09:45:38**
+As of **2024-12-01 10:02:00**
 
 ## Newspaper Stats
 
-*Scraped **57,801** Articles*
+*Scraped **57,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,477
 economynextcom | 3,512
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,451
-adaderanalk | 7,004
+adalk | 5,452
+adaderanalk | 7,005
 tamilmirrorlk | 8,215
 virakesarilk | 9,434
 adaderanasinhalalk | 9,990
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,791 (100.0%) of 57,801 articles have been extended.
+57,795 (100.0%) of 57,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
+
+### Three arrested while digging for treasure in Balathotaella
+
+*2024-12-01 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103896/three-arrested-while-digging-for-treasure-in-balathotaella) · `en`
+
+Police have arrested three suspects while carrying out excavations in search of buried treasure.
+
+The suspects were arrested during a raid yesterday (30) in the Balathotaella area of the Welimada Police Division based on information received by officers from the Bandarawela Criminal Investigation Bureau.
+
+The suspects, aged 26, 32, and 56, are residents of Welimada and Mahiyanganaya.
+
+Authorities have also seized excavation tools and ritual items found in the suspects’ possession.
+
+◼️
+
+[Data](articles/765e56e8.json)
+
+---
 
 ### ස්පාඤ්ඤයේ වැලෙන්සියාහි ජනතාව විරෝධතාවක
 
@@ -132,6 +150,24 @@ The indictment is the second major crisis to hit Adani in just two years, sendin
 
 ---
 
+### මහරගම අනතුරු වැලේ ජීප් රියදුරු රිමාන්ඩ්
+
+*2024-12-01 08:54:52* · [`adalk`](https://www.ada.lk/breaking_news/මහරගම-අනතුරු-වැලේ-ජීප්-රියදුරු-රිමාන්ඩ්/11-413366) · `si`
+
+අධික වේගයෙන් සුඛෝභෝගී  ජීප් රථයක් ධාවනය කරමින් මහරගම පමුණුව ප්‍රදේශයේදී වාහන හතක් අනතුරට ලක් කර  පුද්ගලයකු මරණයට පත් කර තවත් පුද්ගලයකුට බරපතල තුවාල සිදු කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත්  සැකකාර ජීප් රථ රියදුරු ගංගොඩවිල අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම මස 13 වෙනි දින දක්වා රිමාන්ඞ් භාරයේ තබන ලෙස වැඩ බලන මහේස්ත්‍රාත් සුනීතා නානායක්කාර  මහත්මිය  නියෝග කළේය.
+
+මෙලෙස රිමාන්ඞ් භාරයට පත් කරන ලද්දේ හොරණ , කුඩා උඩුව, දකුණ උඩුව පදිංචි  ජේ එච් ටි ජයසුන්දර (57) නැමැත්තෙකි.
+
+සැකකාර ජීප් රථ රියදුරු ඉකුත්( 29 ) දින නාවින්න දෙස සිට පතිරගොඩ හරහා පොල්වත්ත  දෙසට සුඛෝපභෝගී ජීප් රථය අධික වේගයෙන් ධාවනය කරමින් සිටියදී  පාලනය කරගත නොහැකි ව පමුණුව හන්දිය ආසන්නයේදී ඉදිරියෙන් ගමන් ගත් මෝටර් රථයක පිටුපස ගැටීමෙන් අනතුරුව ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි මෝටර් රථ හතරක , තීරෝද රථයක සහ යතුරුපැදියක ගැටී මෙම අනතුර සිදුවී තිබිණි.
+
+සිදු වූ අනතුරෙන් යතුරුපැදියේ ගමන් ගත් පිළියන්දල මකුළුදූව ප්‍රදේශයේ පදිංචිව සිටි  වයස අවුරුදු 30 ක පුද්ගලයෙක් මරුමුවට පත්වූ අතර තීරෝද රථ රියදුරු බරපතල තුවාල ලැබීය.
+
+...
+
+[Data](articles/c6a49582.json)
+
+---
+
 ### Cyclonic Storm “FENGAL” enters India, showers and strong winds continue across Sri Lanka
 
 *2024-12-01 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103894/cyclonic-storm-fengal-enters-india-showers-and-strong-winds-continue-across-sri-lanka) · `en`
@@ -154,71 +190,103 @@ Strong winds of 50-55 kmph can be expected at times over Northern, North-central
 
 [Data](articles/b546924b.json)
 
+[Extended Data](ext_articles/b546924b.ext.json)
+
 ---
 
-### මාරක අනතුරු කිහිපයකින් තිදෙනෙක් මරුට
+### Three killed in fatal accidents
 
 *2024-12-01 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203918) · `si`
 
-දිවයින පුරා සිදුවූ මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයන් තිදෙනෙකු මියගොස් තිබේ.
+Here's a summary of 200 characters:
 
-ඊයේ (30) එම අනතුරු සිදුව තිබුණේ,  පෑලියගොඩ, සීගිරිය සහ කුට්ටිගල යන පොලිස් වසම්වලදීය.
 
-කොළඹ - මහනුවර මාර්ගයේ කැලණි පාලම ආසන්න ප්‍රදේශයේදී පාපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකු බරපතළ තුවාල ලබා මාර්ගයේ වැටී සිටින බවට පෑලියගොඩ පොලිස් ස්ථානයට තොරතුරක් ලැබී තිබුණි.
 
-වහාම ක්‍රියාත්මක වූ පොලිස් රථවාහන අංශයේ නිලධාරීන් විසින් තුවාලකරු කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+Fatal accidents claim 3 lives: 2 cyclists & 1 pedestrian killed in separate incidents near Colombo, Sigiriya & Kattigala.
 
-මරණකරු වයස අවුරුදු 49ක් වූ කැලණිය ප්‍රදේශයේ තාවකාලිකව පදිංචිව සිටි අම්පාර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-මේ අතර දඹුල්ල - හබරණ මාර්ගයේ ඉනාමළුව ප්‍රදේශයේදී පදික මාරුවක් මතින් මාර්ගය හරහා ගමන්කළ පදිකයෙකු ලොරි රථයක ගැටී අනතුරක් සිදුව ඇත.
+Three people were killed in several fatal accidents throughout the country.
 
-පැල්මඩුල්ල - නෝනාගම මාර්ගයේ හාගල ප්‍රදේශයේදී යතුරුපැදියක් අත්ට්‍රැක්ටර්කය පිටුපස ගැටී සිදුවූ අනතුරින් පුද්ගලයෙකු මියගොස් තිබේ.
+The accidents occurred yesterday at Peliyagoda, Sigiriya and Kattigala Police Divisions.
 
-එලෙස මියගොස් ඇත්තේ, බෙරලනාතර ප්‍රදේශයේ පදිංචිව සිටි 45 හැවිරිදි අයෙකු බව පොලීසිය පවසයි.
+The Peliyagoda police station was received by a person who was traveling from a bicycle in the Kelani Bridge near the Colombo-Kandy road.
+
+Immediately, the injured police traffic divisions have died in admission to the Colombo National Hospital.
+
+The deceased is a 49 year old resident of Ampara, a resident of Ampara.
+
+Meanwhile, a pedestrian traveling through a pavement from the Dambulla - Habarana road in the Dambulla area on the Habarana road was reported in a lorry.
+
+A motorcycle was killed in a crash, which took place at the Haggala area on the Pelmadulla - Nonagama road.
+
+The deceased has been identified as a 45 year old resident of the Beraladi area.
 
 ◼️
 
 [Data](articles/496e8649.json)
 
+[Extended Data](ext_articles/496e8649.ext.json)
+
 ---
 
-### පුරාවස්තු ලබා ගැනීමේ අරමුණින් කැණීම් කළ තිදෙනෙකු අත්අඩංගුවට
+### Three arrested for excavation to obtain antiquities
 
 *2024-12-01 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203917) · `si`
 
-පුරාවස්තු ලබා ගැනීමේ අරමුණින් කැණීම් කරමින් සිටි සැකකරුවන් තිදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-වැලිමඩ පොලිස් වසමේ බලතොටඇල්ල ප්‍රදේශයේදී බණ්ඩාරවෙල කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත ඊයේ (30) දින සිදුකරන ලද වැටලීමකින් සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 26, 32, හා 56 වයස්වල පසුවන වැලිමඩ සහ මහියංගනය ප්‍රදේශවල පදිංචිකරුවන් වේ.
 
-අත්අඩංගුවට ගත් සැකකරුවන් සන්තකයේ තිබී කැණීම් උපකරණ හා පූජා භාණ්ඩ තොගයක්ද පොලිස් භාරයට ගෙන තිබේ.
+"3 arrested for antiquity excavation in Sri Lanka. Police raided homes in Welimada & Mahiyanganaya, seizing excavation tools. Suspects aged 26, 32, 56."
+
+🟩
+
+Police have arrested three suspects in excavation to obtain antiquities.
+
+The suspects have been arrested by a raid on information received by a team of officers from the Bandarawela Divisional Investigation Bureau of the Welimada police Division.
+
+The suspects are residents of Welimada and Mahiyanganaya areas where the suspects 26, 32, 56 years.
+
+Police have also seized an area of ​​excavation and sacrifices in the possession of the suspects.
 
 ◼️
 
 [Data](articles/68e660b3.json)
 
+[Extended Data](ext_articles/68e660b3.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට අදත් වැසි
+### Showers in several areas today
 
 *2024-12-01 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203916) · `si`
 
-උතුරු පළාතේ අහස වලාකුලින් බරව පවතින අතර විටින් විට වැසි හෝ ගිගුරුම් සහිත ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Here's a summary in 200 characters:
 
-බස්නාහිර, සබරගමුව, වයඹ සහ උතුරු-මැද පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
 
-සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකියි.
 
-උතුරු, උතුරුමැද, වයඹ, බස්නාහිර, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+Heavy rain/thunderstorms expected in northern regions, western, central, and southern provinces. Strong winds (50-55 km/h) possible. Cyclone Fenguella moving west-southwest, affecting island weather.
 
-මේ අතර නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති ෆෙන්ගල් සුළිකුණාටුව 2024 නොවැම්බර් 30 වැනි දින ප.ව. 11.30 වනවිට උතුරු තමිල්නාඩු – පුදුචේරි වෙරළ තීරය හරහා ගමන් කරමින් ඉන්දියාව තුළට ඇතුළු වී ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-එය ඉදිරි පැය 3 තුළදී බටහිර-නිරිත දෙසට සෙමින් ගමන් කර ක්‍රමයෙන් ගැඹුරු පීඩන අවපාතයක් දක්වා දුර්වල වීමට ඉඩ ඇති අතර එම පද්ධතිය මගින් දිවයිනේ කාලගුණයට වන බලපෑම තවදුරටත් අඩු වෙමින් පවතී.
+The Meteorology Department says that the northern sky is heavy from the Walakulas and there are several showers or thundershowers.
+
+Several spells of showers in the Western, Sabaragamuwa, North Western and North-Central provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or thundershowers will occur at several places in the evening or even night.
+
+From time to time in the Northern, North Central, North-central, Western, Central and Southern provinces.. The Met Department further stated that strong winds can occur 50-55.
+
+Meanwhile, the fengel was hit in the Bay of Bengal Bay of Bengal 2024. The Meteorology Department says that at 11.30, the Met Department said that the North Tamil Nadu - Puducheri coastline.
+
+It is slowly traveling to the West-southwest and weaken towards the west-southwest depression in the next 3 hours and is further declining the island weather.
 
 ◼️
 
 [Data](articles/8f948c72.json)
+
+[Extended Data](ext_articles/8f948c72.ext.json)
 
 ---
 
@@ -2359,55 +2427,5 @@ The attack injected new violence into a region experiencing dual wars in Gaza an
 [Data](articles/18d7751d.json)
 
 [Extended Data](ext_articles/18d7751d.ext.json)
-
----
-
-### Cyclonic Storm “FENGAL” weakens, showers and strong winds continue across Sri Lanka
-
-*2024-11-30 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103877/cyclonic-storm-fengal-weakens-showers-and-strong-winds-continue-across-sri-lanka) · `en`
-
-The Meteorology Department says the Cyclonic Storm “FENGAL” over Southwest Bay of Bengal was located about 360 km north of Trincomalee and 280km Northeast of Kankasanthurai at 11.30 p.m. November 29,2024.
-
-It is likely to move west-northwestwards and cross north Tamil Nadu-Puducherry coasts as a cyclonic storm around November 30, afternoon.
-
-Influence of this system on the island’s weather is gradually reducing, the Met. Department said.
-
-Skies will be cloudy and showers or thundershowers will occur at times in Northern province and in Trincomalee district.
-
-Fairly heavy showers above 75 mm are likely at some places in Northern province, it added.
-
-Showers will occur at times in Sabaragamuwa provinces and in Kandy, Nuwara-eliya, Galle and Matara districts. Several spells of showers will occur in Western, North-western and North-central provinces.
-
-Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night, the advisory said.
-
-...
-
-[Data](articles/f306f87b.json)
-
-[Extended Data](ext_articles/f306f87b.ext.json)
-
----
-
-### The latest condition of African swine flu
-
-*2024-11-30 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203886) · `si`
-
-African swine flu: Controlled according to SSP. Steps to ensure safe human consumption. Owners claim complete destruction. Government urged to compensate affected businesses.
-
-🟩
-
-According to the Government Veterinary Office Association, the Government Veterinary Office Association (SSP) says that the African swine flu is controlled.
-
-The President of the Association Dr. Sisira Piyasiri said steps will be taken to deploy for human consumption under the right method of the disease.
-
-The owners point out that there have been completely destroyed by the African swaming flu.
-
-As such, the government should take measures to pay compensation to rebuild its businesses.
-
-◼️
-
-[Data](articles/24af87ee.json)
-
-[Extended Data](ext_articles/24af87ee.ext.json)
 
 ---

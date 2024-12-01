@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 22:01:41**
+As of **2024-12-01 21:42:21**
 
 ## Newspaper Stats
 
-*Scraped **57,914** Articles*
+*Scraped **57,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,197 +16,21 @@ islandlk | 3,477
 economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
-adalk | 5,468
+adalk | 5,467
 adaderanalk | 7,016
 tamilmirrorlk | 8,229
-virakesarilk | 9,484
-adaderanasinhalalk | 10,007
+virakesarilk | 9,477
+adaderanasinhalalk | 10,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,904 (100.0%) of 57,914 articles have been extended.
+57,904 (100.0%) of 57,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
-
-### කොට්සිට දෙවැනි ටෙස්ට් තරගය අහිමිවන ලකුණු
-
-*2024-12-01 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203937) · `si`
-
-දකුණු අප්‍රිකානු ක්‍රිකට් කණ්ඩායමේ ඉදිරිපෙළ පන්දු යවන්නෙකු වන ජෙරල්ඩ් කොට්සිට ශ්‍රී ලංකාවට එරෙහි දෙවැනි ටෙස්ට් තරගය අහිමිවන බව වාර්තා වේ.
-
-කොට්සි ශ්‍රී ලංකාවට එරෙහිව ඩර්බන්හිදී අවසන් වූ පළමු ටෙස්ට් තරගයේ සිව්වන දිනයේ පන්දු යවමින් සිටියදී උකුළ ආසන්නයේ ආබාධයකට ලක්විය.
-
-ඒ සම්බන්ධයෙන් සිදුකළ ස්කෑන් පරීක්ෂාවේදී අනාවරණය වී ඇත්තේ, ඔහු සති 6ක පමණ කාලයක් විවේක ගතයුතු බවයි.
-
-ඒ අනුව මේ මස 5වනදා ආරම්භ වන ශ්‍රී ලංකාවට එරෙහි දෙවන හා අවසන් ටෙස්ට් තරගය මෙන්ම ඉදිරියේදී පාකිස්තානය සමගින් සිය රටේදී පැවැත්වෙන තරගාවලියද කොට්සිට අහිමිවනු ඇත.
-
-මේ අතර කොට්සිගෙන් පුරප්පාඩුවන ස්ථානයට යොවුන් වේගපන්දු යවන්නෙකු වන ක්වේනා මෆාකා කැඳවීමට දකුණු අප්‍රිකානු ක්‍රිකට් තේරිම් කමිටුව තීරණය කර ඇත.
-
-මෆාකා තවමත් ජාත්‍යන්තර විස්සයි20 තරග 3ක් පමණක් ක්‍රීඩාකර ඇති 18 හැවිරිදි යෞවනයෙකු වේ.
-
-ඔහු වැඩි අවධානයක් දිනාගත් පන්දු යවන්නෙකු වූයේ නිමාවූ IPL තරගාවලියේදී මුම්බායි ඉන්දියන්ස් කණ්ඩායම නියෝජනය කිරීමයි.
-
-◼️
-
-[Data](articles/07ef36a1.json)
-
----
-
-### யாழில் போதை மாத்திரைகளுடன் இருவர் கைது !
-
-*2024-12-01 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200179) · `ta`
-
-யாழ்.பொலிஸ்  பிரிவில் , போதை மாத்திரைகளுடன் சந்தேக நபர்கள் இருவர் நேற்று சனிக்கிழமை (30) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-பொலிஸ் விசேட அதிரடிப்படையின் யாழ்ப்பாண முகாமின் அதிகாரிகள் குழுவொன்று மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் 21 மற்றும் 22 வயதுடைய திருநகர் மற்றும் குருநகர் பகுதியைச் சேர்ந்தவர்கள் ஆவர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்களிடம் இருந்து 100 போதை மாத்திரைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-இதனையடுத்து , சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக யாழ்ப்பாணம் பொலிஸ் நிலையத்தில்  ஒப்படைக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/ecf202bf.json)
-
----
-
-### பெரியநீலாவனையில்  ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
-
-*2024-12-01 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200180) · `ta`
-
-கல்முனை - பெரியநீலாவனை பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில், ஐஸ் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (30) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-பொலிஸ் விஷேட அதிரடிப்படையின் கல்முனை முகாமை சேர்ந்த அதிகாரிகள் குழுவொன்று மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் , பொல்கஹவெல பகுதியைச் சேர்ந்த 32 வயதுடையவர் ஆவார்.
-
-சந்தேக நபரிடம் இருந்து , 05 கிராம் 340 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-இதனையடுத்து , சந்தேக நபர் மேலதிக விசாரணைகளுக்காக பெரியநீலாவனை பொலிஸ் நிலையத்தில்  ஒப்படைக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/156ef453.json)
-
----
-
-### மாத்தளையில் கொள்ளைச் சம்பவம் ; பொலிஸார் வெளியிட்ட தகவல் !
-
-*2024-12-01 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200182) · `ta`
-
-மாத்தளை - லக்கல பொலிஸ் பிரிவுப்புட்பட்ட பிரதேசத்தில் , வேனில் சென்ற சந்தேக நபர்கள் வீடொன்றினுள் புகுந்து கொள்ளையடித்த சம்பவம் தொடர்பில் 9 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ தெரிவித்தார்.
-
-நவம்பர் மாதம் 10 திகதி ,  லக்கல பொலிஸ் பிரிவுப்புட்பட்ட பிரதேசத்தில்,  கொள்ளை கும்பலைச் சேர்ந்த சிலர் , வீடொன்றினுள் புகுந்து வீட்டின் உரிமையாளரை கட்டிவைத்து சித்திரவதை செய்துள்ளனர்.
-
-பின்னர், வீட்டில் இருந்து ஒன்றரை கோடி ரூபா பெறுமதியான மாணிக்கக்கல் , இரண்டு கோடி ரூபா பணம் மற்றும் 15 இலட்சம் ரூபா  பெறுமதியான மாணிக்கக்கல் மற்றும் தங்க ஆபரணங்கள் உட்பட ஆறு கோடிக்கும் அதிக பெறுமதியான சொத்துக்கள் கொள்ளையடிக்கப்பட்டுள்ளன.
-
-மேலும் இந்த வீட்டில் உள்ள கார் ஒன்றை எடுத்து அவர்கள் தப்பிச் சென்றுள்ளதாகவும் அந்த காரை கலேவெல பிரதேசத்தில் அதிகாரிகள் கண்டுபிடித்துள்ளதாகவும் பொலிஸ் பேச்சாளர் தெரிவித்தார்.
-
-...
-
-[Data](articles/28316d82.json)
-
----
-
-### எரிபொருள் விலை குறைப்பு நியாயமற்றது இந்த அரசாங்கமும் மக்களை சுரண்டி பிழைக்கிறது - ஒன்றிணைந்த தொழிற்சங்கம் கடும் சாடல்
-
-*2024-12-01 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200186) · `ta`
-
-எரிபொருள் இறக்குமதியின் போது முன்னாள் அமைச்சர் காஞ்சன விஜேசேகரவுக்கு சென்ற தரகுப்பணம் தற்போதைய அரசாங்கத்துக்கும் செல்கிறது. இந்த மக்களை சுரண்டி பிழைக்கிறது. பெருந்தோட்ட மக்களின் பிரதிநிதியான அம்பிகா சுகமா என்று வினவுகிறோம் என ஐக்கிய ஒன்றிணைந்த தொழிற்சங்கத்தின் ஊடக பேச்சாளர் ஆனந்த பாலித்த தெரிவித்தார்.
-
-முன்னாள் மின்சக்தி மற்றும் சக்தி வலு அமைச்சர் மோசடியான முறையில் அமுல்படுத்தி எரிபொருள் விலைச்சூத்திரத்தையே ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான அரசாங்கம் அமுல்படுத்துகிறது.
-
-கைத்தொழில் மற்றும் தொழில் முயற்சியாண்மை அமைச்சர் சுனில் அந்துனெத்தி ஜனாதிபதி தேர்தல் காலத்தில் தமது கட்சி ஆட்சிக்கு வந்தால் 120 ரூபாவுக்கு ஒரு லீற்றர் பெற்றோலை விநியோகிப்பதாகவும், ஓரிரு மாதங்களுக்கு பின்னர் துறைமுகத்துக்கு இறக்குமதி செய்யப்படும் போது நிர்ணயிக்கப்படும் விலைக்கு அமைவாகவே எரிபொருளின் விலை நிர்ணயிக்கப்படும் என்று குறிப்பிட்டார்.
-
-...
-
-[Data](articles/f9bac661.json)
-
----
-
-### වෙළෙඳපොළේ පොල් හිඟයක්
-
-*2024-12-01 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203936) · `si`
-
-වෙළෙඳපොළ තුළ මේ දිනවල උද්ගතව ඇති පොල් හිඟයත් සමග පොල් මිල පවතින්නේ ඉතා ඉහළ අගයකය.
-
-ඒ අනුව මේ වනවිට වෙළෙඳපොළේ පොල් ගෙඩියක මිල රුපියල් 200 සීමාව දක්වා ඉහළ නැග තිබේ.
-
-පාරිභෝගික ජනතාව පවසන්නේ සහල් මෙන්ම පොල් හිඟයක්ද වෙළෙඳපොළේ පවතින බවය.
-
-එවන් පසුබිමක ජනතාව වැඩි වශයෙන් පරිභෝජනය කරන නාඩු, කැකුළු සහල්වලද හිඟයක් පවතී.
-
-එමෙන්ම එක්සත් සහල් නිෂ්පාදකයින්ගේ සංගමය පෙන්වාදෙන්නේ සිල්ලර සහල් අලෙවිය සඳහා රජය පනවා ඇති පාලන මිලද ඉක්මවා සහල් තොග මිල ඉහළගොස් ඇති බවය.
-
-මේ අතර ලොකු ලූනු ආනයන බදු සංශෝධනය කිරිමට වෙළඳ අමාත්‍යංශය තීරණය කර තිබේ.
-
-ඒ අනුව ආනයනික ලොකු ලූනු සඳහා පැවති රුපියල් 30ක් වූ විශේෂ වෙළඳ භාණ්ඩ බද්ද අද (01) සිට ක්‍රියාත්මක වන පරිදි රුපියල් 10ක් දක්වා අඩුකිරීමටත් ආනයනික අර්තාපල් සඳහා මෙතෙක් පැවති රුපියල් 60ක් වූ විශේෂ වෙළඳ භාණ්ඩ බද්ද එලෙසම පවත්වාගැනීමටත් තීරණය කෙරුණි.
-
-...
-
-[Data](articles/efcd6c70.json)
-
----
-
-### சர்வதேச அரங்கில் ஷாருஜன் கன்னிச் சதம்: ஆப்கானையும் வீழ்த்தி அரை இறுதிக்குள் நுழைந்தது  இலங்கை
-
-*2024-12-01 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200185) · `ta`
-
-ஐக்கிய அரபு இராச்சியத்தின் ஷார்ஜா கிரிக்கெட் விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை நடைபெற்ற ஆப்கானிஸ்தானுக்கு எதிரான 19 வயதுக்குட்பட்ட ஆசிய கிண்ண பி குழு போட்டியில் 131 ஓட்டங்களால் இலங்கை மிக இலகுவாக வெற்றி பெற்றது.
-
-தனது முதலாவது டெஸ்ட் போட்டியில் சண்முகநாதன் ஷாருஜன் குவித்த அபார சதம் இலங்கையின் வெற்றியில் பிரதான பங்காற்றியதுடன் அணியின் அரை இறுதி வாய்ப்பையும் உறுதி செய்தது.
-
-நேபாளத்திற்கு எதிரான முதலாவது போட்டியில் அரைச் சதம் குவித்து ஆட்ட நாயகனான ஷாருஜன், இந்தப் போட்டியில் சதம் குவித்ததன் மூலம் எவ்வித சந்தேகத்திற்கும் இடமின்றி இரண்டாவது தொடர்ச்சியான ஆட்டநாயகன் விருதை வென்றெடுத்தார்.
-
-ஆரம்ப வீரர் துல்னித் சிகேரா ஓட்டம் பெறாமல் ஆட்டம் இழந்ததால் இலங்கை இளையோர் அணி தடுமாற்றம் அடைந்தது. (0 - 1 விக்.)
-
-ஆனால், கொட்டாஞ்சேனை புனித ஆசீர்வாதப்பர் அணித் தலைவர் ஷாருஜன் மிகவும் பொறுப்புணர்வுடன் அதேவேளை அனுபவசாலிபோல் துடுப்பெடுத்தாடி புலிந்து பெரேராவுடன் 2ஆவது விக்கெட்டில் 100 ஓட்டங்களைப் பகிர்ந்து அணியைப் பலப்படுத்தினார்.
-
-...
-
-[Data](articles/73708e1b.json)
-
----
-
-### வடக்கு மாகாண முதலீட்டாளர்கள் மன்றத்தை உருவாக்க நடவடிக்கை எடுக்கப்படும் - ஆளுநர் நா.வேதநாயகன்
-
-*2024-12-01 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200184) · `ta`
-
-வடக்கு மாகாணத்தில் முதலீட்டாளர்கள் மன்றத்தை உருவாக்குவதற்கான நடவடிக்கைகள் எதிர்வரும் காலத்தில் மேற்கொள்ளப்படும் என வடக்கு மாகாண கௌரவ நா.வேதநாயகன் அவர்கள், யாழ் வணிகர் கழகப் பிரதிநிதிகளிடம் தெரிவித்தார்.
-
-யாழ் வணிகர் கழகம் தலைவர் இ.ஜெயசேகரன் தலைமையிலான குழுவினர் வடக்கு மாகாண ஆளுநரை, ஆளுநர் செயலகத்தில் வெள்ளிக்கிழமை 29.11.2024 மாலை சந்தித்துக் கலந்துரையாடினர்.
-
-யாழ். நகரில் அமைந்துள்ள புதிய சந்தைக் கட்டடத் தொகுதியில் மிக நீண்ட காலமாக பயன்பாடில்லாது இருக்கும் தளத்தை சிறிய மற்றும் நடுத்தர தொழில் முயற்சியாளர்களுக்கு வாடகை அடிப்படையில் வழங்குவதன் ஊடாக அவர்களுக்கு நிரந்தர சந்தை வாய்ப்பை ஏற்படுத்த முடியும் என வணிகர் கழப் பிரதிநிதிகள் சுட்டிக்காட்டினர். யாழ். மாநகர சபையுடன் ஆராய்ந்து அதற்கான நடவடிக்கை எடுக்கப்படும் என ஆளுநர் குறிப்பிட்டார்.
-
-சிறிய மற்றும் நடுத்தர தொழில் முயற்சிகளை முன்னெடுக்க பலர் ஆர்வமாக உள்ளபோதும் அவர்களுக்கான தொழிற்சாலைகளை நிறுவுவதற்கான இடங்களையும், அனுமதிகளையும் பெற்றுக்கொள்வதில் இடர்பாடுகளை எதிர்கொள்வதாக வணிகர் கழக பிரதிநிதிகள் குறிப்பிட்டனர்.
-
-...
-
-[Data](articles/518a6bb6.json)
-
----
-
-### வவுனியாவில் வாள்வெட்டு சம்பவத்தில் குடும்பஸ்தர் பலி!
-
-*2024-12-01 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200183) · `ta`
-
-வவுனியா ஓமந்தை சேமமடு பகுதியில் இடம்பெற்ற வாள்வெட்டு சம்பவத்தில் குடும்பஸ்தர் ஒருவர் பலியாகியுள்ளார்.
-
-குறித்த பகுதியில் மாடுகளை சாய்த்துக்கொண்டுவந்த குடும்பஸ்தர் மீது குழுவொன்று வாளால் வெட்டியுள்ளது. இதனால் படுகாயமடைந்த அவர் அங்கிருந்தவர்களால் மீட்கப்பட்டு வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
-
-சம்பவத்தில் நாவற்குளம் பகுதியை சேர்ந்த செல்வநிரோயன் வயது 46 என்ற இரண்டு பிள்ளைகளின் தந்தையே பலியாகியுள்ளார்.
-
-◼️
-
-[Data](articles/399ff20b.json)
-
----
 
 ### A plane to Chennai Super Kings
 
@@ -229,28 +53,6 @@ The plane is one of the ETIHAD Airways of the United Arab Emirate.
 [Data](articles/edb33ee8.json)
 
 [Extended Data](ext_articles/edb33ee8.ext.json)
-
----
-
-### Experience of the Supreme Success Ranil
-
-*2024-12-01 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200167) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Supreme Success Ranil faces four intertwined crises: economic, geopolitical, regime, and ethnic issues. A significant gap exists between campaign promises and implementable realities due to the current political environment.
-
-🟩
-
-There is a massive gap between the principles of Anura and the practical reality. Similarly, there is a huge gap between the election promises and the practical environment that can implement it. There is no environment for the present to fulfill any promises they have put forward. The Anura government has to face the four crises that are intertwined with the economic crisis, the geopolitical crisis, the regime crisis and the ethnic problem.
-
-◼️
-
-[Data](articles/1f8bb288.json)
-
-[Extended Data](ext_articles/1f8bb288.ext.json)
 
 ---
 
@@ -702,24 +504,6 @@ The rain has left areas in central Chennai, including Korattur, Koyambedu, Virug
 
 ---
 
-### අධිවේගී මාර්ගයේ දි මෝටර් රථයක් ගිනි ගනී
-
-*2024-12-01 17:26:09* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගයේ-දි-මෝටර්-රථයක්-ගිනි-ගනී/11-413383) · `si`
-
-දක්ෂිණ අධිවේගී මාර්ගයේ වැලි පැන්න සහ කුරුඳුගහ හැතැප්ම අතර කිලෝමීටර් 66 දශම 6 ප්‍රදේශයේදී අද (1) සවස පිරිසක් ගමන් ගත් මෝටර් රථයක් හදිසියේ ගිනි ගැනීමට ලක් වූ බව දක්ෂිණ අධිවේගී රථවාහන පොලිසිය කියයි.
-
-ගාල්ල දෙස සිට කොළඹ දෙසට ධාවනය වූ මෝටර් රථය හදිසියේ ගිනිගැනීමට ලක්වීී ඇත.
-
-ගින්න ඇති වූ වහාම එම ස්ථානයට පැමිණි අධිවේගී මාර්ග කුරුඳුගහ හැතැක්ම ගිනි නිවීමේ ඒකකය මගින් ගින්න සම්පූර්ණයෙන්ම වැඩ පවත්වා නිවා දැමීමට කටයුතු කළ අතර ඒ වන විටත් මෝටර් රථයේ අඩකට ආසන්න ප්‍රමාණයක් සම්පූර්ණයෙන්ම දැවි ගොස් ඇතැයි පොලිසිය කියයි.
-
-මෝටර් රථයේ පිටුපස පෙදෙසේ  ඇතිවූ කාර්මික දෝෂයක් හේතුවෙන් ගින්න ඇතිවන්නට ඇතැයි පොලිසිය සැක කරයි. අධිවේගී මාර්ග කුරුඳු ගහ හැතැප්ම පොලිසිය පරීක්ෂණ පවත්වයි
-
-◼️
-
-[Data](articles/dcbe5c61.json)
-
----
-
 ### Sri Lanka to the semi-finals of the Asian Trophy
 
 *2024-12-01 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203933) · `si`
@@ -821,6 +605,28 @@ Today (01st). From 4.00 pm to tomorrow (02). It is valid until 4.00.
 [Data](articles/5984ea91.json)
 
 [Extended Data](ext_articles/5984ea91.ext.json)
+
+---
+
+### Experience of the Supreme Success Ranil
+
+*2024-12-01 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200167) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Supreme Success Ranil faces four intertwined crises: economic, geopolitical, regime, and ethnic issues. A significant gap exists between campaign promises and implementable realities due to the current political environment.
+
+🟩
+
+There is a massive gap between the principles of Anura and the practical reality. Similarly, there is a huge gap between the election promises and the practical environment that can implement it. There is no environment for the present to fulfill any promises they have put forward. The Anura government has to face the four crises that are intertwined with the economic crisis, the geopolitical crisis, the regime crisis and the ethnic problem.
+
+◼️
+
+[Data](articles/1f8bb288.json)
+
+[Extended Data](ext_articles/1f8bb288.ext.json)
 
 ---
 
@@ -2443,5 +2249,275 @@ According to the engineers, the generation of electricity generation of electric
 [Data](articles/12268987.json)
 
 [Extended Data](ext_articles/12268987.ext.json)
+
+---
+
+### A man arrested with ice drugs in Peliyagoda
+
+*2024-12-01 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200116) · `ta`
+
+Man arrested with ice drugs in Peliyagoda: Police seize 10g of 500mg ice.
+
+🟩
+
+A suspect has been arrested by the police on Saturday (30) in the Navaloka Vadaravuma area belonging to the Peliyagoda Police Division in Colombo.
+
+He was arrested after a roundup of confidential information received by the police officers of the Peliyagoda police station.
+
+10 grams of 500 milligrams of ice from the suspect has been seized by the police.
+
+◼️
+
+[Data](articles/f7927c68.json)
+
+[Extended Data](ext_articles/f7927c68.ext.json)
+
+---
+
+### A large number of people suffer from inclement weather
+
+*2024-12-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203922) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Heavy rainfall affects 479,871 people across 24 districts. 143,826 individuals sheltered, 103 homes destroyed, 2,635 partially damaged. Death toll rises to 17, injuries reported. Disruptions in transportation and infrastructure.
+
+🟩
+
+Due to the inclement weather, 143,826 persons belonging to 53,888 persons belonging to 53,888 families remain in safe locations and cousins.
+
+According to the Disaster Management Center, 116,209 people belonging to 45,418 families have been present at least 27,517 families in 229 safe places.
+
+Meanwhile, 103 houses were completely destroyed and 2635 houses were partially damaged.
+
+The Disaster Management Center (DMC) stated that 479,871 persons belonging to 142,624 families have been affected by 142,624 families in 24 districts.
+
+The deep pressure depression in the Bay of Bay of Bay of Bay of Baying of Bay of Bengal area has been affected by many provinces in the island over the past few days.
+
+ඇදහැලුණ අධික වර්ෂාව හේතුවෙන් දැදුරුඔය, පේරාරු, උල්හිටිය රත්කිඳ, පොල්ගොල්ල, නාච්චදූව, රාජංගනය, කලාවැව සහ වෙහෙරගල ආදි ජලාශවල වාන් දොරටු තවමත් විවෘත කර පවතී.
+
+...
+
+[Data](articles/02f44fea.json)
+
+[Extended Data](ext_articles/02f44fea.ext.json)
+
+---
+
+### Heroes: Three arrested
+
+*2024-12-01 10:17:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-நினைவேந்தல்-குந்தகம்-விளைவித்த-மூவர்-கைது/175-348034) · `ta`
+
+Three arrests made by CIT and DIT for promoting LTTE through social media. Suspects aged 28, 35, 45 from Maradana, Chunnakam, Pathegama. Charged under Criminal Law and PTA for spreading false ads and violent content.
+
+🟩
+
+The Criminal Investigation Department (CIT) and the Terrorism Intelligence Agency (DIT) have arrested three persons, which have led to public peace by carrying out the events of the Liberation Tigers of Tamil Eelam (LTTE).
+
+The suspects aged 28, 35 and 45 are from Maradana, Chunnakam and Pathegama areas, police said.
+
+They have been accused of spreading photos and videos of LTTE leader Velupillai Prabhakaran via social media.
+
+Videos of the previous LTTE heroes with old scenes have been celebrated this year.
+
+The suspects have been arrested under the Criminal Law and the Prevention of Terrorism Act (PTA) for allegedly spreading false advertisements and videos to promote violence and promote the activities of the banned organization.
+
+◼️
+
+[Data](articles/949f02ec.json)
+
+[Extended Data](ext_articles/949f02ec.ext.json)
+
+---
+
+### A land lavover is found illegally assembled
+
+*2024-12-01 10:08:38* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධී-ලෙස-කොටස්-එකලස්-කළ-ලෑන්ඩ්-ලෝවර්-රථයක්-සොයා-ගනියි/11-413369) · `si`
+
+Land Rover seized illegally assembled Jeep investigation ongoing
+
+🟩
+
+The Mt.
+
+According to information received by the Western Province Intelligence Officers, the jeep has been taken into custody.
+
+According to the police, the jeep of the Maharagama Police Division was appointed by the Bodhi Vihara Court in the Maharagama Police Division about a year and a year ago, the jeep of the Maharagama Police Division was brought to the Appendix of the Maharagama Police Division.
+
+The engine said that the owners were tabled in the process of preparing the vehicle from time to time.
+
+The police say that the owner of the vehicle in a mobile phone has presented the owner of the vehicle's name, while a photograph of a registration certificate is said to be in a mobile phone.The garage employee also received statements from the Garaj employee.
+
+Henegama Dhammapadana Thero, who was sent to the new job in the Mthinda, 2 (2), a police officer said that the primary investigations were given to the new job in the Mt..
+
+The Kesbewa Police are responsible for further investigations.
+
+...
+
+[Data](articles/e0234fba.json)
+
+[Extended Data](ext_articles/e0234fba.ext.json)
+
+---
+
+### 12 -year -old girl dies from a mango tree in Trincomalee
+
+*2024-12-01 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200108) · `ta`
+
+12-year-old girl falls from mango tree in Trincomalee, dies. Branch breaks as she climbs to check mangoes. Body taken to hospital for examination.
+
+🟩
+
+A 12-year-old girl was killed at the Van Ela Police Station.
+
+It was reported that the girl fell down from the tree when the tree branch broke when the tree climbed into the tree to investigate the mango area of ​​the Van Ela police division.
+
+Kinniya Sudden Death Investigation Officer. S.. Shafi visited the scene and ordered the police to take the body of the girl to the Trincomalee General Hospital for examination.
+
+◼️
+
+[Data](articles/99e3a9bc.json)
+
+[Extended Data](ext_articles/99e3a9bc.ext.json)
+
+---
+
+### 23,930 acres of field land in Mullaitivu;Immediate compensation to the affected farmers - Ravikaran MP
+
+*2024-12-01 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200111) · `ta`
+
+Heavy rains submerge 23,930 acres in Mullaitivu. Compensation sought for affected farmers. Officials to assess damage and provide aid promptly.
+
+🟩
+
+The Mullaitivu District Assistant Commissioner of Agrarian Development, R. Baraniyakaran said that 23,930 acres of heavy rains in the Mullaitivu district are being submerged due to heavy rains.
+
+Vanni District Parliamentarian Durairasa Ravikaran has said that steps should be taken to immediately provide compensation to the affected farmers.
+
+These issues were addressed at the Special District Coordinating Committee meeting held at the Mullaitivu District Secretariat.
+
+There, the Assistant Commissioner of the Mullaitivu District Agrarian Development Department said,
+
+It is possible to evaluate the impact conditions, as if the flood water continues in the fields.
+
+We hope that the impact of the rainfall is slowing down due to the decrease in the amount of rainfall, and that the flood water has been gradually decreasing.
+
+We accept what the department officials say that it is necessary to evaluate the agricultural impact conditions.
+
+...
+
+[Data](articles/bf85637d.json)
+
+[Extended Data](ext_articles/bf85637d.ext.json)
+
+---
+
+### Special program to target festive season
+
+*2024-12-01 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203921) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Consumer Affairs Authority launches special program for festive season. Retail stores and supermarkets will be raided from Dec 15 to Jan 15. Focus on shops selling costumes, durable goods, equipment, and essentials. Emphasis on proper pricing, billing, and monitoring mobile traders and sail activities. Public informed about market surveillance efforts.
+
+🟩
+
+In the December season, customers have implemented a special program on consumer affairs to prevent the injustice in the market.
+
+Accordingly, the retail stores and supermarket raids will be implemented in this day to January 15 to January 15.
+
+The authority said that special attention is due to pay special attention to shops that sell most of the costume, durable goods, equipment and essential commodities.
+
+In making the raids, the cost of the goods, exhibition and exhibit goods and selling goods, to pay attention to the proper bills of the goods, to pay attention to a proper bill.
+
+In addition, the Authority is also to be monitored by the activities such as mobile traders and sail.
+
+The Consumer Affairs Authority said that the last few days led to the market in the past few days, he is continuously continuing to pay special attention to the market.
+
+The Authority has informed the public that the public can be provided with regard to the publication of the 1977 issue.
+
+◼️
+
+[Data](articles/7c10da32.json)
+
+[Extended Data](ext_articles/7c10da32.ext.json)
+
+---
+
+### Three arrested for illegal excavation activities
+
+*2024-12-01 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200109) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"3 arrested for illegal archaeology excavation in Sri Lanka. Equipment & religious items seized. Suspects from Welimada & Mahiyanganaya, ages 26, 32, 56."
+
+🟩
+
+Police have arrested three suspects for illegal excavation activities for digging the archaeological system.
+
+Three suspects have been arrested in a roundabout carried out in a multi -bodhi area belonging to the Welimada Police Division on Saturday (30) based on information received by a team of officials of the Bandarawela Criminal Investigation Division.
+
+The arrested suspects are from Welimada and Mahiyanganaya, aged 26, 32 and 56.
+
+The police have seized equipment and pooja items used for excavation operations from the arrested suspects.
+
+◼️
+
+[Data](articles/975b76cb.json)
+
+[Extended Data](ext_articles/975b76cb.ext.json)
+
+---
+
+### Three arrested while digging for treasure in Balathotaella
+
+*2024-12-01 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103896/three-arrested-while-digging-for-treasure-in-balathotaella) · `en`
+
+Police have arrested three suspects while carrying out excavations in search of buried treasure.
+
+The suspects were arrested during a raid yesterday (30) in the Balathotaella area of the Welimada Police Division based on information received by officers from the Bandarawela Criminal Investigation Bureau.
+
+The suspects, aged 26, 32, and 56, are residents of Welimada and Mahiyanganaya.
+
+Authorities have also seized excavation tools and ritual items found in the suspects’ possession.
+
+◼️
+
+[Data](articles/765e56e8.json)
+
+[Extended Data](ext_articles/765e56e8.ext.json)
+
+---
+
+### People in Valenzia in Spain
+
+*2024-12-01 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203920) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Valenzia, Spain flooding: Residents accuse authorities of late warnings. State chief acknowledges allegations but refuses resignation.
+
+🟩
+
+The people accused the authorities, accusing the authorities that the terrible flooding in Spain was not issued early warning about the disaster.
+
+Valenzia State of Spain was reported in late October last October.
+
+The state chief has acknowledged the allegations of him, but he refused to resign from office.
+
+◼️
+
+[Data](articles/a5137e9a.json)
+
+[Extended Data](ext_articles/a5137e9a.ext.json)
 
 ---

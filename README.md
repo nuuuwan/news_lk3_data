@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 03:00:16**
+As of **2024-12-02 02:26:21**
 
 ## Newspaper Stats
 
-*Scraped **57,936** Articles*
+*Scraped **57,933** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 442
-colombotelegraphcom | 591
+colombotelegraphcom | 590
 bbccomsinhala | 603
 islandlk | 3,477
 economynextcom | 3,517
@@ -19,44 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,469
 adaderanalk | 7,017
 tamilmirrorlk | 8,229
-virakesarilk | 9,488
+virakesarilk | 9,486
 adaderanasinhalalk | 10,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,934 (100.0%) of 57,936 articles have been extended.
+57,932 (100.0%) of 57,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### Minister of Women and Child Affairs Saroja Savitri Bolraj visits Mannar
-
-*2024-12-02 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200190) · `ta`
-
-Women and Child Affairs Minister Saroja Savitri Bolraj visits flood-affected areas in Mannar, providing relief and addressing public concerns about development and support.
-
-🟩
-
-A team led by Women and Child Affairs Minister Saroja Savitri Bolraj met the people who were constantly affected by the floods in Mannar and continued to stay in security centers.
-
-Deputy Minister of Women and Child Affairs Dr. Namal Lakshamana, Member of Parliament Samanveli Gunasinghe, including the Secretaries of the Ministry of Parliament Samanveli Gunasinghe, and Mannar Nagar Divisional Secretary M Pradeep and Mannar District Secretariat Secretary (Land) SriskandakumarSelvanagar, the Hindu temple here. A visit to Pudukkudiyiruppu and met the people there and provided the medical and essential items brought by the companies.
-
-This was followed by a women's meeting at the party office located on the lower road.
-
-Minister of Women and Child Affairs Saroja Savitri Bolraj addressing the people who visited the visit here;
-
-The government is in charge of the aspiration of the people to do a lot of development work.
-
-...
-
-[Data](articles/29e04b3c.json)
-
-[Extended Data](ext_articles/29e04b3c.ext.json)
-
----
 
 ### New chapter for Sri Lanka: We cannot give something out of nothing
 
@@ -71,8 +45,6 @@ Let’s take Sri Lanka Railways for example. Each year, the State pumps approxim
 ...
 
 [Data](articles/cbb40418.json)
-
-[Extended Data](ext_articles/cbb40418.ext.json)
 
 ---
 
@@ -169,22 +141,6 @@ Combating Corruption: Implement strict measures to eliminate bribery and corrupt
 [Data](articles/19c80f1c.json)
 
 [Extended Data](ext_articles/19c80f1c.ext.json)
-
----
-
-### எயிட்ஸ் உள்ளிட்ட நோய்களால் பாதிக்கப்பட்டவர்களின் மனித உரிமைகளைப் பாதுகாப்பதில் முன்னேற்றமடைந்துள்ளோம் - பிரதமர் ஹரிணி அமரசூரிய
-
-*2024-12-02 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/200189) · `ta`
-
-எயிட்ஸ் நோய் கண்டறியப்பட்ட ஆரம்ப காலத்தில் இருந்த மனோபாவத்துடன் ஒப்பிடுகையில், இந்நோய் தொடர்பான சமூக மனப்பான்மையில் மாற்றம் ஏற்பட்டுள்ளது. அத்தோடு எயிட்ஸ் உள்ளிட்ட நோய்களால் பாதிக்கப்பட்டவர்களின் மனித உரிமைகளைப் பாதுகாப்பதில் முன்னேற்றமடைந்துள்ளோம் என பிரதமர் ஹரிணி அமரசூரிய தெரிவித்தார்.
-
-சர்வதேச எயிட்ஸ் தினத்தை முன்னிட்டு ஞாயிற்றுக்கிழமை (1) இடம்பெற்ற விழிப்புணர்வு பேரணியில் கலந்து கொண்டு உரையாற்றிய போதே பிரதமர் ஹரிணி அமரசூரிய இதனைத் தெரிவித்தார்.
-
-எயிட்ஸ் நோய் கண்டறியப்பட்ட ஆரம்ப காலத்தில் இருந்த மனோபாவத்துடன் ஒப்பிடுகையில், இந்நோய் தொடர்பான சமூக மனப்பான்மையிலும் நோயினால் பாதிக்கப்பட்ட தரப்பினரிலும் பெரும் மாற்றம் காணப்படுகிறது. இது மிகவும் சாதகமான சூழலாகும். எச்.ஐ.வி. வைரஸால் பாதிக்கப்பட்டிருப்பது குறித்து சமூகம் அச்சத்திலும் சர்ச்சையிலும் உள்ளது. இதனால் பாதிக்கப்பட்டவர்கள் நிராகரிக்கப்படுகின்றனர்.
-
-...
-
-[Data](articles/26d8c1e5.json)
 
 ---
 
@@ -495,18 +451,6 @@ He added that the police are taking steps to seize other assets and arrest two s
 [Data](articles/28316d82.json)
 
 [Extended Data](ext_articles/28316d82.ext.json)
-
----
-
-### Child’s Guide To Central Bank’s New Monetary Policy Instrument: Overnight Policy Rate
-
-*2024-12-01 20:54:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-central-banks-new-monetary-policy-instrument-overnight-policy-rate/) · `en`
-
-Aseni, whiz kid in economics, has seen the viral news that the Central Bank has moved to a new monetary policy instrument called the Overnight Policy Rate, abbreviated as OPR. There has been a press release from the Central Bank, but it has been in technical jargons. As a result, it has been beyond the comprehension of the ordinary citizens. Aseni herself could not understand it. Hence, she turned to her grandpa, Sarath Mahatthaya, an ex-official of the Ministry of Finance, to elucidate this new instrument to her. This is the conversation between the two.
-
-...
-
-[Data](articles/d963c040.json)
 
 ---
 
@@ -2473,5 +2417,87 @@ Police said that the confession is to be filed with the Prime Minister of the Ma
 [Data](articles/d41b3141.json)
 
 [Extended Data](ext_articles/d41b3141.ext.json)
+
+---
+
+### Arrested for raising funds for terrorist group
+
+*2024-12-01 12:24:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-குழுவுக்கு-நிதி-திரட்டியவர்-கைது/175-348044) · `ta`
+
+British citizen arrested at Katunayake airport for fundraising for terrorist groups in Sri Lanka. Suspect, 43-year-old from Kilinochchi, distributed funds in Colombo and Vanni areas. Further investigation ongoing.
+
+🟩
+
+A man who raised funds for a terrorist group from Britain has been arrested at the Katunayake airport when he arrived in Sri Lanka.
+
+When the suspect arrived at the Colombo North Crime Division on the orders of the Colombo Northern Crime Division, the Immigration and Customs Implementation Unit had taken him to the airport police on Saturday (30).
+
+The money collected by the suspect has been distributed in Colombo and Vanni area, police said.
+
+The suspect was a 43 -year -old from Kilinochchi, a British citizen, who left the country in 2009.
+
+Further investigations into the incident are being carried out by the airport police and the Colombo North Crime Branch.
+
+◼️
+
+[Data](articles/88491688.json)
+
+[Extended Data](ext_articles/88491688.ext.json)
+
+---
+
+### Special products tax cut for imported large onions!
+
+*2024-12-01 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200129) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Imported large onions tax cut: Rs 30 reduced to Rs 10 per kg. Potato import tax remains at Rs 60/kg. Temporary measure to support local farmers and stabilize prices. Effective until Dec 31, subject to future policy decisions.
+
+🟩
+
+The Ministry of Finance has taken steps to reduce the special products for one kilogram of imported onions.
+
+Accordingly, the government has decided to reduce the special tax on big onions from Rs 30 to Rs 10.
+
+Based on that, the special products of one kilogram of potatoes imported are 60 rupees.
+
+The Ministry of Finance, Planning and Economic Development has announced that the tax amendments have been issued in the Gazette Notification.
+
+Accordingly, the Ministry of Finance has taken steps to implement this as a short -term steps to protect local farmers and ensure a fair price for consumers.
+
+The Ministry of Finance said that the tax cut will be in force until December 31st and action will be taken under the relevant law based on the future policy decisions.
+
+◼️
+
+[Data](articles/45720231.json)
+
+[Extended Data](ext_articles/45720231.ext.json)
+
+---
+
+### Onion tax
+
+*2024-12-01 12:19:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-வரி-குறைப்பு/175-348043) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Finance Ministry reduces onion import tax to 20 rupees till 31st. Implements 60 rupee/kg potato trading tax also valid till 31st."
+
+🟩
+
+The Finance Ministry has decided to reduce the tax on onions for imported onions to 20 rupees. It will be in effect until the 31st of this month. In the same way,
+
+A special trading tax of 60 rupees per kilogram of potatoes will be in effect until the 31st of this month.
+
+◼️
+
+[Data](articles/91585964.json)
+
+[Extended Data](ext_articles/91585964.ext.json)
 
 ---

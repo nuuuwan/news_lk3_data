@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 22:59:45**
+As of **2024-12-01 22:41:47**
 
 ## Newspaper Stats
 
-*Scraped **57,917** Articles*
+*Scraped **57,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,513
 dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,469
-adaderanalk | 7,017
+adaderanalk | 7,016
 tamilmirrorlk | 8,229
 virakesarilk | 9,484
 adaderanasinhalalk | 10,007
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,911 (100.0%) of 57,917 articles have been extended.
+57,911 (100.0%) of 57,916 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,26 +59,6 @@ He was a bowler who won a lot of attention.
 [Data](articles/07ef36a1.json)
 
 [Extended Data](ext_articles/07ef36a1.ext.json)
-
----
-
-### New govt. not rushing decisions on SOE restructuring – President’s Economic Advisor
-
-*2024-12-01 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103908/new-govt-not-rushing-decisions-on-soe-restructuring-presidents-economic-advisor) · `en`
-
-Senior Economic Advisor to the President Duminda Hulangamuwa claims that the new government is encouraging the private sector to be at the forefront of economic development in the country.
-
-However, he noted that the government will retain control over strategic sectors of public interest.
-
-Joining Ada Derana’s current affairs program, ‘@HydePark’, Hulangamuwa highlighted that the government is pursuing a liberal market strategy to encourage private sector investment.
-
-Commenting on the restructuring of state-owned enterprises, Hulangamuwa explained that the government is not rushing the process but is carefully analysing which state-owned enterprises (SOEs) are a burden on the treasury.
-
-Responding to a question regarding the government’s stance on SOE restructuring, the Senior Economic Advisor to the President noted that the restructuring of the SOEs can take different forms and that the government is not rushing decisions regarding the matter.
-
-...
-
-[Data](articles/9342dad1.json)
 
 ---
 
@@ -2471,5 +2451,25 @@ Other than that, mobile vendors and other stores hosting large seasonal sales ar
 [Data](articles/2ea0f096.json)
 
 [Extended Data](ext_articles/2ea0f096.ext.json)
+
+---
+
+### Sri Lanka cuts Octane 92 price by Rs.2, raises diesel by Rs.3, Kerosine by Rs.5
+
+*2024-12-01 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-octane-92-price-by-rs-2-raises-diesel-by-rs-3-kerosine-by-rs-5-190990/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state fuel retailer Ceylon Petroleum Corporation (CPC) reduced the price of widely used Octane 92 petrol by 2 rupees to 309 rupees per litre while increased diesel by 3 rupees and kerosine by 5 rupees with effect from Dec. 1.
+
+The price of Octane 92 reduced to Rs. 309 while diesel raised to Rs.286 and kerosine to Rs. 188.
+
+The CPC, however, maintained the price of Octane 95 at 371 rupees and Super diesel at 313 rupees.
+
+Private fuel retailers Lanka IOC and Sinopec also adjusted their prices in line with CPC’s revision. (Colombo/December 01/2024)
+
+◼️
+
+[Data](articles/8fac2d5f.json)
+
+[Extended Data](ext_articles/8fac2d5f.ext.json)
 
 ---

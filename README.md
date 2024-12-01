@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-01 15:12:00**
+As of **2024-12-01 15:42:32**
 
 ## Newspaper Stats
 
-*Scraped **57,846** Articles*
+*Scraped **57,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,990
 dailymirrorlk | 4,733
 adalk | 5,459
 adaderanalk | 7,012
-tamilmirrorlk | 8,224
+tamilmirrorlk | 8,227
 virakesarilk | 9,444
 adaderanasinhalalk | 9,997
 
@@ -26,35 +26,85 @@ adaderanasinhalalk | 9,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,842 (100.0%) of 57,846 articles have been extended.
+57,845 (100.0%) of 57,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-01 (Sunday)
 
-### பிரபாகரனின் பிறந்த நாளை கொண்டாடிய அறுவரிடம் விசாரணை
+### மரக்கறிகளின் விலை அதிகரிப்பு: குப்பையில் வீசவேண்டிய நிலை
 
-*2024-12-01 15:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனின்-பிறந்த-நாளை-கொண்டாடிய-அறுவரிடம்-விசாரணை/175-348048) · `ta`
+*2024-12-01 15:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிகளின்-விலை-அதிகரிப்பு-குப்பையில்-வீசவேண்டிய-நிலை/76-348049) · `ta`
 
-தமிழீழ விடுதலைப்புலிகளின் தலைவர் வே. பிரபாகரனின் பிறந்த நாள் கொண்டாடப்பட்ட சம்பவம் தொடர்பில் வல்வெட்டித்துறை பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+நாட்டின் பல பகுதிகளில் பெய்த கடும் மழை காரணமாக நாடளாவிய ரீதியில் மரக்கறிகளின் விலை திடீரென அதிகரித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
 
-கடந்த 26ஆம் திகதி புலிகளின் தலைவர் வே. பிரபாகரனின் பிறந்த நாளன்று  முன்னிட்டு வடமாகாண சபையின் முன்னாள் உறுப்பினர் எம்.கே சிவாஜிலிங்கத்தின் ஏற்பாட்டில் , புலிகளின் தலைவரின் பூர்வீக வீடு அமைந்திருந்த காணியில் கேக் வெட்டி , மரநடுகை மேற்கொள்ளப்பட்டு, பிறந்த நாள் கொண்டாடப்பட்டது.
+இந்நிலையில் நுவரெலியா மத்திய சந்தையிலும் வீதியோர மரக்கறி விற்பனை நிலையங்களிலும் ஒரு கிலோகிராம் போஞ்சியின் மொத்த விற்பனை விலை 650  முதல் 750 ரூபா வரையிலும் ஒரு கிலோகிராம் பச்சை மிளகாயின் விற்பனை விலை 1200 முதல் 1300 ரூபா வரையிலும் உயர்ந்துள்ளதுடன் ஏனைய மரக்கறி வகைகளின் விலை அதிகளவில் உயர்ந்த நிலையில் உள்ளதால்  மரக்கறிகளின் விலைகள் நாளுக்கு நாள் அதிகரித்து காணப்படுவதால் வியாபாரிகள் மற்றும் பொதுமக்கள் பாரிய சிக்கல்களை எதிர்நோக்கி வருவதாக  தெரிவிக்கப்படுகின்றது.
 
-அவ்வேளை அங்கு வருகை தந்திருந்த வல்வெட்டித்துறை பொலிஸார் , புலிகளின் தலைவரின் படத்தை அகற்றி விட்டு நிகழ்வை நடத்த அறிவுறுத்தினர்.
-
-அதனை அடுத்து, ஏற்பாட்டாளர்கள் புலிகளின் தலைவரின் படத்தை மறைத்து விட்டு நிகழ்வை முன்னெடுத்து இருந்தனர்.
-
-நிகழ்வின் ஏற்பாட்டாளர் சிவாஜிலிங்கத்தை வாக்கு மூலம் வழங்க பொலிஸ் நிலையம் அழைத்த போது, சுகவீனம் காரணமாக வருகை தர முடியாது என பொலிஸாருக்கு தெரியப்படுத்தியதை அடுத்து, பொலிஸார் சிவாஜிலிங்கம் வீட்டிற்கு சென்று வாக்கு மூலங்களை பெற்றுள்ளனர்.
+நுவரெலியா மத்திய சந்தைக்கு வரும் அதிகமானவர்கள்  மரக்கறிகளின் விலை அதிகரிப்பு காரணமாக நுகர்வோர் மரக்கறிகளை கொள்வனவு செய்வதை தவிர்த்து வருகின்றனர்
 
 ...
 
-[Data](articles/12313cad.json)
+[Data](articles/34d99894.json)
 
 ---
 
-### விசேட வேலைத்திட்டம்
+### Investigating Prabhakaran's birthday
+
+*2024-12-01 15:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனின்-பிறந்த-நாளை-கொண்டாடிய-அறுவரிடம்-விசாரணை/175-348048) · `ta`
+
+Prabhakaran's birthday celebration investigated by Valvettithurai police. LTTE leader's image removed at request. Organizers hid it, advanced event. Police invited MK Sivajilingam to vote, received sources from attendees.
+
+🟩
+
+Liberation Tigers of Tamil Eelam (LTTE). Valvettithurai police are conducting investigations into the incident of Prabhakaran's birthday.
+
+LTTE leader Way on the 26th. On the occasion of Prabhakaran's birthday, the former member of the Northern Provincial Council, MK Sivajilingam, was organized by the LTTE leader's ancestral house.
+
+The Valvettithurai police, who were present at the event, advised the LTTE leader to remove the image of the LTTE leader.
+
+Following that, the organizers hid the image of the LTTE leader and advanced the event.
+
+When the police station invited Sivajilingam to vote for the event, the police had gone to Sivajilingam's house and received voting sources after the police informed the police that he could not visit.
+
+Meanwhile, police sources say that the police have received voting sources to the six people who attended the birthday party.
+
+◼️
+
+[Data](articles/12313cad.json)
+
+[Extended Data](ext_articles/12313cad.ext.json)
+
+---
+
+### Special program
 
 *2024-12-01 14:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வேலைத்திட்டம்/175-348047) · `ta`
+
+Consumer Affairs Authority implements special program to protect consumers during festive season. Raids at retail stores and supermarkets from Jan 1 to 15 focus on essential items, price checks, and monitoring of phone trading. Complaints can be reported to 1977.
+
+🟩
+
+The Consumer Affairs Authority has implemented a special program to prevent the injustices of consumers in the market during the festive season.
+
+Accordingly, raids will be conducted at retail stores and supermarkets from Monday (01) to January 15.
+
+Special attention will be paid to the trade centers that are being purchased by consumers during the festive season, prolonged goods, electric equipment and essential commodities.
+
+When carrying out these tests, more attention will be paid to ensuring that the regular trade is going on by the appropriate receipt when selling the goods to selling goods at specific prices at specific prices.
+
+In addition, the Authority will also conduct monitoring of telephone trading and concession sales.
+
+...
+
+[Data](articles/b41452bb.json)
+
+[Extended Data](ext_articles/b41452bb.ext.json)
+
+---
+
+### நுகர்வோர் விவகார அதிகார சபை விசேட வேலைத்திட்டம்
+
+*2024-12-01 14:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுகர்வோர்-விவகார-அதிகார-சபை-விசேட-வேலைத்திட்டம்/175-348047) · `ta`
 
 பண்டிகைக் காலத்தில் சந்தையில் நுகர்வோருக்கு ஏற்படக்கூடிய அநீதிகளைத் தடுப்பதற்காக நுகர்வோர் விவகார அதிகார சபை விசேட வேலைத்திட்டமொன்றை நடைமுறைப்படுத்தியுள்ளது.
 
@@ -68,7 +118,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/b41452bb.json)
+[Data](articles/cc9afd42.json)
 
 ---
 
@@ -89,6 +139,8 @@ Furthermore, in the local context, Sri Lanka is recognized as a country with a r
 ...
 
 [Data](articles/4ff5dcd1.json)
+
+[Extended Data](ext_articles/4ff5dcd1.ext.json)
 
 ---
 
@@ -293,6 +345,26 @@ Police said that the confession is to be filed with the Prime Minister of the Ma
 [Data](articles/9de054e9.json)
 
 [Extended Data](ext_articles/9de054e9.ext.json)
+
+---
+
+### லேண்ட் ரோவர்  வாகனம் மீட்பு
+
+*2024-12-01 12:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேண்ட்-ரோவர்-வாகனம்-மீட்பு/175-348045) · `ta`
+
+பொல்கசோவிட்ட பகுதியிலுள்ள வாகனத் தரிப்பிடம் ஒன்றில் சட்டவிரோதமான முறையில் நிறுத்தி வைக்கப்பட்டிருந்த லேண்ட் ரோவர் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மேல்மாகாண புலனாய்வுப் பிரிவு அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் இந்த வாகனம் கண்டுபிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மஹரகம பௌத்த விகாரை ஒன்றின் பிரதம பிக்கு ஒன்றரை வருடங்களுக்கு முன்னர் பழைய லேன்ட் ரோவர், சேஸிஸ், நான்கு டயர்கள், இயந்திரம் என்பனவற்றை கையளித்துள்ளதாக கராஜ் உரிமையாளரிடம் மேற்கொள்ளப்பட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+வாகனத்தை அசெம்பிள் செய்வதற்குத் தேவையான கார் பாகங்களையும் பிக்கு அவ்வப்போது கொண்டு வந்ததாக உரிமையாளர் மேலும் தெரிவித்தார்.
+
+இது தொடர்பில் மஹரகம பௌத்த விகாரையின் பிரதம பிக்குவிடம் வாக்குமூலம் பதிவு செய்ய உள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/d41b3141.json)
 
 ---
 
@@ -2343,93 +2415,5 @@ The bodies of eight of the students who were killed in the incident have been re
 [Data](articles/7d432766.json)
 
 [Extended Data](ext_articles/7d432766.ext.json)
-
----
-
-### Professor Training in Kalutara Teaching Hospital
-
-*2024-11-30 17:45:32* · [`adalk`](https://www.ada.lk/breaking_news/මොරටුව-වෛද්‍ය-සිසුන්ට-මහාචාර්ය-පුහුණුව-කලුතර-නාගොඩ--ශික්ෂණ-රෝහලේදී/11-413363) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Kalutara Teaching Hospital: Professor Training Solution Meeting
-
-
-
-Health Minister Dr. Nalinda Jayatissa led discussions to address the shortage of facilities for 400 medical students. The meeting involved universities, hospitals, and government bodies. A plan to start professor training in July next year was proposed, with Neville Fernando Hospital being considered for development as a specialist center.
-
-🟩
-
-Health and Mass Media Dr. Nalinda Jayatissa addressing the immediate solution of the Medical Faculty of the University of Moratuwa.Have.
-
-Accordingly, health and media minister Dr. Nalinda Jayatissa held a special discussion in search of solutions.
-
-The Ministry of Higher Education, Ministry of Health, Ministry of Health, the University of Moratuwa, the University Grants Commission, Kalutara Nagoda Teaching Hospital, the Kalutara Nagoda Hospital, and other organizations.
-
-At the middle of 400 medical students who are studying the Medical Faculty and the four fourth year students should be referred to the Professor Training in the mid-next year.The lack of a facility is a serious problem and the main objective of the discussion was to solve the problem.
-
-...
-
-[Data](articles/e526d4a5.json)
-
-[Extended Data](ext_articles/e526d4a5.ext.json)
-
----
-
-### Landslide Alerts Re -Extension
-
-*2024-11-30 17:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-எச்சரிக்கை-மீண்டும்-நீடிப்பு/175-348014) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Landslide alerts extended: 9 districts warned until 4 PM tomorrow. Secondary risk identified in Badulla, Kandy, Kegalle, Matale, Nuwara Eliya. Landslide warnings issued for Colombo, Gampaha, Kurunegala, Ratnapura districts due to inclement weather.
-
-🟩
-
-Due to inclement weather, the landslide warning issued to 9 districts has been re -extended till 4 pm tomorrow.
-
-Accordingly, the National Building Research Institute has taken steps to put a secondary risk to Badulla, Kandy, Kegalle, Matale and Nuwara Eliya.
-
-In addition, landslides have been issued to areas where the risk of landslides in Colombo, Gampaha, Kurunegala and Ratnapura districts have been issued.. Remble
-
-◼️
-
-[Data](articles/e6b6be9a.json)
-
-[Extended Data](ext_articles/e6b6be9a.ext.json)
-
----
-
-### South Africa wins first Test cricket match
-
-*2024-11-30 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203901) · `si`
-
-South Africa triumphs over Sri Lanka in first Test match by 233 runs. Sri Lanka's Dinesh Chandimal and Dananjaya de Silva score centuries, but South Africa secures victory.
-
-🟩
-
-South Africa won the first Test match against the Sri Lankan team by 233 runs.
-
-South Africa with two matches have won two match tournaments.
-
-Sri Lanka scored 103 runs for the loss of 5 wickets for their second innings.
-
-Dinesh Chandimal and Leader Dananjaya de Silva also scored Sri Lanka's second innings today.
-
-Dinesh Chandimal reported today the 30th half of its Test cricket.
-
-Leader Dhananjaya de Silva recorded the 18th half century in his Test cricket.
-
-Chandimal's and Dananjaya's relationship with Chandimal and Dananjaya's relationship with Leader Kannjaya de Silva was bowled out for 59 runs.
-
-◼️
-
-[Data](articles/5f317a12.json)
-
-[Extended Data](ext_articles/5f317a12.ext.json)
 
 ---

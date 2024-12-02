@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 15:42:35**
+As of **2024-12-02 16:01:26**
 
 ## Newspaper Stats
 
-*Scraped **58,036** Articles*
+*Scraped **58,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,490
 economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,482
-adaderanalk | 7,034
-tamilmirrorlk | 8,249
+adalk | 5,483
+adaderanalk | 7,035
+tamilmirrorlk | 8,250
 virakesarilk | 9,497
 adaderanasinhalalk | 10,027
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 10,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,034 (100.0%) of 58,036 articles have been extended.
+58,036 (100.0%) of 58,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### ’’எமது பாராளுமன்ற குழு இன்று மாலை 5 மணிக்கு கூடும்’’
+
+*2024-12-02 15:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-பாராளுமன்ற-குழு-இன்று-மாலை-5-மணிக்கு-கூடும்/175-348119) · `ta`
+
+நாளை பாராளுமன்றத்தில் நடைபெறவுள்ள ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் கொள்கைப் பிரகடனத்தின் மீதான விவாதத்தில் கலந்துகொள்பவர்கள் மற்றும் எதிர்க்கட்சியின் பிரதம கொறடாவை தெரிவு செய்யும் ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்றக் குழு இன்று மாலை 5 மணிக்கு கூடவுள்ளது.
+
+இந்த முக்கிய தீர்மானங்களை எடுப்பதற்காக எமது பாராளுமன்ற குழு இன்று மாலை 5 மணிக்கு கூடும் என பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+◼️
+
+[Data](articles/9e63f857.json)
+
+---
+
+### මුහුදු කැස්බෑවෙකුගේ මස් අනුභව කළ පුද්ගලයන් 03ක් මරුට - 32ක් රෝහල් ගත කෙරේ
+
+*2024-12-02 15:12:40* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදු-කැස්බෑවෙකුගේ-මස්-අනුභව-කළ-පුද්ගලයන්-03ක්-මරුට---32ක්-රෝහල්-ගත-කෙරේ/11-413398) · `si`
+
+වඳවීමේ තර්ජනයට මුහුණ දී සිටින  මුහුදු කැස්බෑවෙකුගේ මස් අනුභව කළ පිලිපීන ජාතිකයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මීට අමතරව මස් අනුබව කළ තවත් පුද්ගලයන්  32ක් රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙම සිදුවීමත් සමග එම කලාපයේ කැස්බෑවන් දඩයම් කිරීම තහනම් කරන බව එරට ප්‍රාදේශීය මන්ත්‍රීවරයෙකු ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/bd8a2db3.json)
+
+---
+
+### Suspect arrested for promoting LTTE ‘Mahaviru’ celebrations granted bail
+
+*2024-12-02 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103926/suspect-arrested-for-promoting-ltte-mahaviru-celebrations-granted-bail) · `en`
+
+The Colombo Fort Magistrate’s Court has granted bail to Kelum Harshana, who was arrested for allegedly promoting the LTTE ‘Mahaviru’ celebrations.
+
+Commenting to the media following the trial, Attorney-at-Law Manoj Gamage stated that the court granted bail to the suspect on the grounds that the charges did not demonstrate the promotion of terrorism.
+
+On November 30, the Criminal Investigation Department (CID) arrested three individuals in connection with causing public disturbance by promoting LTTE ‘Mahaviru’ celebrations.
+
+The arrested suspects, aged 28, 35, and 45, are from Maradana, Chunnakam and Baddegama areas, the police said.
+
+They were accused of sharing images and video clips of Velupillai Prabhakaran, the leader of the Liberation Tigers of Tamil Eelam (LTTE), which is a proscribed organization in Sri Lanka, through a Facebook account.
+
+Additionally, they were also accused of circulating old video clips from previous LTTE ‘Mahaviru’ celebrations, misrepresenting them as current events.
+
+...
+
+[Data](articles/2069433b.json)
+
+---
 
 ### Elections Commission announced on income scale income reports of candidates
 
@@ -624,27 +676,33 @@ The "Death Clock" processor run by artificial intelligence is said to have been 
 
 ---
 
-### අයිස් මත්ද්‍රව්‍ය කිලෝ 400ක් සමග කොටු වූ සැකකරුවන්ව කොළඹ වරායට ගෙන එයි
+### The trapped suspects joins the Colombo Port with 400 kg of ice drugs
 
 *2024-12-02 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203953) · `si`
 
-පසුගියදා ඉන්දීය මුහුදු සීමාවේදී අත්අඩංගුවට පත් අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබූ මෙරට ධීවර යාත්‍රා දෙක සහ එහි සිටි සැකකරුවන් අද (02) කොළඹ වරායට රැගෙන ආවේය.
+Colombo Port: 2 fishing vessels seized, 400kg ice drugs found. Sri Lanka Navy assisted Indian Navy operation. Suspects arrested on 24-25th. Drugs and vessels handed over on 29th. Operation concluded today with suspects brought ashore.
 
-ශ්‍රී ලංකා නාවික හමුදාවේ ගජභාහු නෞකාව එම කටයුත්ත සඳහා එක්වී තිබුණි.
+🟩
 
-ඉන්දීය නාවික හමුදාව සහ ශ්‍රී ලංකා නාවික හමුදාව අතර සිදුකෙරුණු බුද්ධි තොරතුරු හුවමාරුවකින් අනතුරුව ඉන්දීය නාවික හමුදාව විසින් අදාළ යාත්‍රා දෙක සිය භාරයට ගත්තේය.
+The two-country fishing vessels and the suspects were brought to the port of the Colombo port this morning.
 
-එහි එක් යාත්‍රාවක අයිස් මත්ද්‍රව්‍ය කිලෝ 400ක් පමණ තිබූ බවත් අනෙක් යාත්‍රාව එහි සහායට ගොස් තිබු බවත් සඳහන් ය.
+The vessel of the Sri Lanka Navy had joined the task.
 
-එම බහුදින යාත්‍රා සමඟ ශ්‍රී ලාංකික සැකකරුවන් පිරිස පසුගිය 24 සහ 25 යන දිනයන්හී දී ඉන්දීය නාවික හමුදාව අත්අඩංගුවට ගෙන තිබුණි.
+The Indian Navy took the two vessels after an exchange of intelligence between the Indian Navy and the Sri Lanka Navy.
 
-එම අයිස් මත්ද්‍රව්‍ය තොගය, බහුදින ධීවර යාත්‍රා සහ සැකකරුවන් පසුගිය 29 වනදා ශ්‍රී ලංකා නාවික නෞකා ගජභාහු නෞකාව වෙත ඉන්දීය නාවික හමුදාව විසින් භාර දී තිබුණි.
+One of its vessels had about 400 kg of ice drugs and the other vessel had gone to support it.
 
-ඒ අනුව, නාවික හමුදාව විසින් එම අයිස් මත්‍ද්‍රව්‍ය තොගය, බහුදින ධිවර යාත්‍රා සහ සැකකරුවන් ඉදිරි නීතිමය කටයුතු සඳහා අද (02) ගොඩබිමට රැගෙන ආවේය.
+The Indian Navy was arrested by the Indian Navy on the 24th and 25 of the Sri Lankan suspects with the multi-day vessels.
+
+The Ice Drugs and the Thaguna TVs and the suspects were handed over by the Indian Navy to the ship on the 29th.
+
+Accordingly, the Navy has brought the Ice drugs, multi-day drug vessels and the suspects were brought to the ground today (02).
 
 ◼️
 
 [Data](articles/5e404393.json)
+
+[Extended Data](ext_articles/5e404393.ext.json)
 
 ---
 
@@ -844,25 +902,33 @@ The air quality levels dropped in Colombo and several other areas across the cou
 
 ---
 
-### මුර්දු ප්‍රනාන්දු අගවිනිසුරු ධුරයේ දිවුරුම් දෙයි
+### Fernando sworn in as Chief Justice
 
 *2024-12-02 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203952) · `si`
 
-ශ්‍රී ලංකාවේ නව අගවිනිසුරු ලෙස ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මුර්දු නිරූපා බිඳුෂිණි ප්‍රනාන්දු මහත්මිය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ ජනාධිපති කාර්යාලයේදී අද (02) පෙරවරුවේ දිවුරුම් දුන්නාය.
+Madu Fernando sworn in as 48th Chief Justice of Sri Lanka. She was previously Deputy Solicitor General and joined AG's Dept in 1985. Appointed to Supreme Court in 2018. Graduated from University of Colombo Law Faculty.
 
-මෙරට අගවිනිසුරු ධුරයට පත් දෙවන කාන්තාව ලෙසත්, ශ්‍රී ලංකාවේ  48 වන අගවිනිසුරු ලෙසත් මුර්දු ප්‍රනාන්දු මහත්මිය ඉතිහාසයට එක්වෙයි.
+🟩
 
-අගවිනිසුරු ජයන්ත ජයසූරිය මහතා විශ්‍රාම යෑමෙන් පසු පුරප්පාඩු වූ ධුරය සඳහා ඇයගේ නම ව්‍යවස්ථා සභාව විසින් පසුගියදා අනුමත කරන ලදී.
+Supreme Court judges' Furregenda Fernando, President Anura Kumara Dissanayake, president was sworn in before President Anura Kumara Dissanayake today (02).
 
-1985 වසරේදී නීතිපති දෙපාර්තමේන්තුවට එක් වූ ඇය 1997 වසරේදී නියෝජ්‍ය සොලිසිටර් ජනරාල් ධුරයටත්, 2014 වසරේදී අතිරේක සොලිසිටර් ජනරාල් ධුරයටත් උසස්වීම් ලබා ඇත.
+Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Murdu Fernando, 48th Chief Justice in Sri Lanka.
 
-මුර්දු ප්‍රනාන්දු මහත්මිය රජයේ නීතිඥවරියක ලෙස නීතිපති දෙපාර්තමේන්තුවට බැඳී වසර 30කට වැඩි කාලයක් එහි සේවය කර තිබෙන අතර 2018 මාර්තු මාසයේදී ශ්‍රේෂ්ඨාධිකරණයට පත් කර තිබේ.
+Her name was recently approved by the Constitutional Council for the vacant post after his retirement.
 
-මුර්දු ප්‍රනාන්දු මහත්මිය නීතිපති දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨ අතිරේක සොලිසිටර් ජනරාල්වරිය ලෙස සේවය කළ අතර ශ්‍රේෂ්ඨාධිකරණයේ දැනට සිටින ජ්‍යෙෂ්ඨතම විනිසුරුවරියද වේ.
+In 1985, she joined the Attorney General's Department in 1997 and promoted to the Deputy Solicitor General of the Deputy Solicitor General.
+
+Mrs. Madu Fernando has joined the Attorney General's Department for more than 30 years and has been appointed to the Supreme Court in March 2018.
+
+Mrs. Madu Fernando served as Senior Additional Solicitor General of the Attorney General's Department and is the present Chief Justice of the Supreme Court.
+
+The Mustra Fernando Judge, a pupil of Wales College, Moratuwa, has been graduated by the Faculty of Law, University of Colombo.
 
 ...
 
 [Data](articles/2976643d.json)
+
+[Extended Data](ext_articles/2976643d.ext.json)
 
 ---
 
@@ -2295,59 +2361,5 @@ Additionally, 90 online vendor partners will offer discounts to ComBank credit a
 [Data](articles/e5ec94b0.json)
 
 [Extended Data](ext_articles/e5ec94b0.ext.json)
-
----
-
-### IIHS launches professional bachelors in oral hygiene and dental therapy
-
-*2024-12-02 01:36:00* · [`islandlk`](http://island.lk/iihs-launches-professional-bachelors-in-oral-hygiene-and-dental-therapy/) · `en`
-
-The International Institute of Health Sciences (IIHS) recently celebrated the launch of its pioneering Professional Bachelors in Dental Therapy and Oral Hygiene.
-
-This transformative program is tailored to equip dental professionals with advanced, specialized skills, addressing the evolving needs of oral healthcare within the country and ultimately enhancing public health outcomes.
-
-At the launch, the dignatories included Dr. Ananda Jayalal, Deputy Director General of Health Services at the Ministry of Health, and Prabashini Kamaradiwela, President of the Government School Dental Therapists Association, who emphasized the shared mission of enhancing oral health standards and accessibility.
-
-...
-
-[Data](articles/7d8c0327.json)
-
-[Extended Data](ext_articles/7d8c0327.ext.json)
-
----
-
-### From manifesto to ministry: Practicality of NPP’s appointments
-
-*2024-12-02 01:33:35* · [`dailyftlk`](https://www.ft.lk/columns/From-manifesto-to-ministry-Practicality-of-NPP-s-appointments/4-769954) · `en`
-
-The NPP’s reliance on technocrats and professionals for key ministries underscores its commitment to expertise-driven governance
-
-The National People’s Power (NPP), following its landmark victory in the 2024 General election, has introduced a Cabinet that emphasises professionalism, inclusivity, and a break from traditional politics. While these appointments reflect the core tenets of the NPP manifesto, they also invite scrutiny regarding their feasibility and effectiveness in meeting the nation’s expectations.
-
-...
-
-[Data](articles/c7f57f39.json)
-
-[Extended Data](ext_articles/c7f57f39.ext.json)
-
----
-
-### Empowering Sri Lanka’s economic future: Imperative of strengthening SMEs and entrepreneurship
-
-*2024-12-02 01:27:34* · [`dailyftlk`](https://www.ft.lk/columns/Empowering-Sri-Lanka-s-economic-future-Imperative-of-strengthening-SMEs-and-entrepreneurship/4-769953) · `en`
-
-The recent electoral victory of the National People’s Power (NPP) party, with a two-thirds Parliamentary majority, marks a defining moment for Sri Lanka’s political and economic future. This significant mandate presents an unparalleled opportunity to introduce comprehensive policy reforms. Central to these reforms is the revitalisation of Small and Medium Enterprises (SMEs) and the promotion of entrepreneurship—key drivers for achieving sustainable economic growth and resilience.
-
-Building on previous insights: A holistic perspective on SME development
-
-The importance of fostering SMEs and entrepreneurship is not new to Sri Lanka. These topics have been at the forefront of discussions for years, as reflected in two of my previous articles:
-
-1. “Enabling SME Ecosystem – Part 1: The Need for a Holistic Approach to Develop SMEs”
-
-...
-
-[Data](articles/335b4620.json)
-
-[Extended Data](ext_articles/335b4620.ext.json)
 
 ---

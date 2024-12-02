@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 12:02:26**
+As of **2024-12-02 12:29:42**
 
 ## Newspaper Stats
 
-*Scraped **57,998** Articles*
+*Scraped **58,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 443
 colombotelegraphcom | 591
 bbccomsinhala | 603
 islandlk | 3,490
-economynextcom | 3,520
+economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,475
-adaderanalk | 7,024
-tamilmirrorlk | 8,241
+adalk | 5,477
+adaderanalk | 7,026
+tamilmirrorlk | 8,244
 virakesarilk | 9,493
 adaderanasinhalalk | 10,019
 
@@ -26,15 +26,81 @@ adaderanasinhalalk | 10,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,983 (100.0%) of 57,998 articles have been extended.
+57,986 (100.0%) of 58,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### பிரதேச செயலகத்தை முற்றுகையிட்டனர்
+### மரணத்தை கணிக்கும் ’’மரணக் கடிகாரம்’’
+
+*2024-12-02 12:19:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மரணத்தை-கணிக்கும்-மரணக்-கடிகாரம்/53-348107) · `ta`
+
+செயற்கை நுண்ணறிவு மூலம் இயங்கும் "டெத் க்ளாக்" என்ற அப்ளிகேஷனைப் பற்றி தற்போது பலரும் பேசி வருகின்றனர், இது ஒருவரின் தினசரி வழக்கத்தை வைத்து அவர் இறந்த திகதியை கணிக்க முடியும்.
+
+செயற்கை நுண்ணறிவால் இயங்கும் "Death Clock" செயலி கடந்த ஜூலை மாதம் வெளியிடப்பட்டு 125,000க்கும் அதிகமான பயனர்கள் பதிவிறக்கம் ​செய்துள்ள​ைதாக கூறப்படுகிறது. இந்தத் திட்டம் ஆரோக்கியத்தில் ஆர்வமுள்ளவர்கள் மட்டுமின்றி பொருளாதார நிபுணர்கள் மற்றும் நிதித் திட்டமிடுபவர்களின் கவனத்தையும் ஈர்த்துள்ளதாகக் கூறப்படுகிறது. "மரணக் கடிகாரம்" செயற்கை நுண்ணறிவின் சக்தியைக் கொண்டு மிகவும் துல்லியமான கணிப்புகளைச் செய்ய முடியும் என்று கூறப்படுகிறது.
+
+"மரணக் கடிகாரம்" என்பது "பெரும்பாலான நாட்கள்" உருவாக்கியவரும் தலைமை நிர்வாக அதிகாரியுமான ப்ரென்ட் ஃபிரான்சனின் சிந்தனையில் உருவானது. செயற்கை நுண்ணறிவால் இயங்கும் "மரணக் கடிகாரம்" சுமார் 53 மில்லியன் பங்கேற்பாளர்களுடன் 1,200 க்கும் மேற்பட்ட ஆயுட்காலம் ஆய்வுகளின் தரவுத்தொகுப்பில் பயிற்சியளிக்கப்பட்டுள்ளது .
+
+...
+
+[Data](articles/c3268bc7.json)
+
+---
+
+### නව අගවිනිසුරුවරිය ජනපති ඉදිරියේ දිවුරුම් දෙයි
+
+*2024-12-02 12:03:10* · [`adalk`](https://www.ada.lk/breaking_news/නව-අගවිනිසුරුවරිය-ජනපති-ඉදිරියේ-දිවුරුම්-දෙයි/11-413395) · `si`
+
+මෙරට නව අගවිනිසුරු ලෙස මුර්දු ප්‍රනාන්දු මහත්මිය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද(02දා) දිවුරුම් දෙනු ලැබිණි.
+
+◼️
+
+[Data](articles/c28de484.json)
+
+---
+
+### புலமைப்பரிசில் பரீட்சை: அமைச்சரவை அதிரடி
+
+*2024-12-02 12:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-அமைச்சரவை-அதிரடி/175-348106) · `ta`
+
+ஐந்தாம் தர புலமைப்பரிசில் பரீட்சைக்கு குறித்த மூன்று வினாக்களுக்கு மாணவர்களுக்கு இலவச புள்ளிகளை வழங்குவதன் மூலம் மாணவர்கள் பாதிக்கப்படுவதால் புலமைப்பரிசில் பரீட்சையை மீண்டும் நடத்த வேண்டாம் என அமைச்சரவை தீர்மானித்துள்ளதாக உயர் நீதிமன்றத்தில் சட்டமா அதிபர், திங்கட்கிழமை (02)  அறிவித்துள்ளார்.
+
+மேலும், இது தொடர்பாக தாக்கல் செய்யப்பட்ட மனுவை முழு நீதியரசர்கள் குழு முன்னிலையில் பரிசீலிக்குமாறும் சட்டமா அதிபர் கோரியுள்ளார்.
+
+◼️
+
+[Data](articles/13e54995.json)
+
+---
+
+### Were besieged by the Divisional Secretariat
 
 *2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தை-முற்றுகையிட்டனர்/76-348105) · `ta`
+
+Civilians queue for Aswesa Welfare Benefits at Nuwara Eliya Divisional Secretariat. Public complains about form distribution chaos due to heavy rains in the area.
+
+🟩
+
+A large number of civilians have been waiting in long queues to obtain the new Aswesa Welfare Benefits of the Second Phase at the Nuwara Eliya Divisional Secretariat.
+
+Since Saturday and Sunday Days are holidays, the people of the area have assembled simultaneously to obtain the application forms in front of the Nuwara Eliya Divisional Secretariat.
+
+However, the public accuses the public of distributing the application forms in the office and that no department officials have been acting in the process of regulating the order.
+
+Heavy rains in the Nuwara Eliya district have caused heavy rainfall over the past weeks.
+
+◼️
+
+[Data](articles/27a8703e.json)
+
+[Extended Data](ext_articles/27a8703e.ext.json)
+
+---
+
+### பிரதேச செயலகத்தில் நீண்ட வரிசை
+
+*2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தில்-நீண்ட-வரிசை/76-348105) · `ta`
 
 நுவரெலியா பிரதேச செயலகத்தில் வழங்கப்படும் இரண்டாம் கட்ட புதிய அஸ்வெசும நலன்புரி நன்மைகள் விண்ணப்ப படிவங்கள் பெற்றுக்கொள்வதற்காக ஏராளமான பொதுமக்கள் நீண்ட வரிசையில் காத்திருந்துள்ளனர்.
 
@@ -44,27 +110,59 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/27a8703e.json)
+[Data](articles/37b346f5.json)
 
 ---
 
-### ශිෂ්‍යත්ව විභාගයේ ලකුණු ලබාදීම සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
+### A Notification for Supreme Court in relation to the score of the scholarship examination
 
 *2024-12-02 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203951) · `si`
 
-අවසන් වූ පහ වසර ශිෂ්‍යත්ව විභාගයේ පළමු ප්‍රශ්න පත්‍රයේ කලින් පිටවූ ප්‍රශ්න තුන සඳහා එම විභාගයට ඉදිරිපත් වූ සියලු සිසු සිසුවියන්ට නිදහස් ලකුණු ලබාදීමට අමාත්‍ය මණ්ඩලය නිර්දේශ කර ඇතැයි නීතිපතිවරයා අද (02) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+Supreme Court hears scholarship exam case: Cabinet recommends free marks for 3 students, Solicitor General warns of exam impact, petition rescheduled for Dec 11.
 
-මෙම ප්‍රශ්න පත්‍රය සඳහා විභාගය යළි පැවැත්වීමෙන් සිසු සිසුවියන් පීඩාවට පත්වීමට හැකි බැවින් එම විභාගය යළි පැවැත්වීම නුසුදුසු බව අමාත්‍ය මණ්ඩලය විසින් නිර්දේශ කර තිබෙන බවත් සොලිසිටර් ජෙනරාල් විරාජ් දයාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී ඇත.
+🟩
 
-ශිෂ්‍යත්ව විභාගය පැවති ආකාරය අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් අද යළි කැඳවූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
+The Attorney General has stated that the Cabinet has recommended free marks for the three students who were exhausted for the previous three students on the first question paper of the Year 5 scholarship examination.
 
-එමෙන්ම මෙම පෙත්සම් පූර්ණ ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගන්නා ලෙස ඉල්ලා නීතිපතිවරයා විසින් මෝසමක් ගොනුකර තිබෙන බවත් සොලිසිටර් ජෙනරාල්වරයා දන්වා සිටියේය.
+Solicitor General Viraj Dayaratne has informed the Supreme Court that students can be affected by the resurrection of the examination.
 
-ඉන් අනතුරුව පෙත්සම් විභාගය දෙසැම්බර් මස 11 වනදා පැවැත්වීමටද නියෝග කෙරුණි.
+The notice was made when the fundamental rights petitions have been taken up again today, challenging the scholarship examination.
+
+The Solicitor General also informed the Attorney General's intention was filed by the Attorney General to hear the Presidential Supreme Judiciaries to be heard in front of the heads of the petitions.
+
+The petition was then ordered to be held on December 11.
 
 ◼️
 
 [Data](articles/59f024a0.json)
+
+[Extended Data](ext_articles/59f024a0.ext.json)
+
+---
+
+### Dozens killed in crush at Guinea football match - reports
+
+*2024-12-02 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103917/dozens-killed-in-crush-at-guinea-football-match-reports) · `en`
+
+Dozens of people have died in a crush following clashes at a football match in Guinea’s second-largest city, N’zérékoré, local media report.
+
+Prime Minister Mamadou Oury Bah said a stampede at the event led to a number of victims on Sunday and called for calm.
+
+One doctor, who did not want to be named, told AFP news agency that there were several bodies “lined up” in the local hospital, and the morgue was full.
+
+Local media said police used tear gas after supporters of the visiting team, Labé, threw stones towards the pitch in anger at the referee.
+
+“It all started with a contested decision by the referee. Then fans invaded the pitch,” one witness told AFP.
+
+Videos and images on social media appear to show chaotic scenes outside the stadium, with large crowds attempting to climb over walls and numerous bodies on the ground.
+
+The BBC has not been able to independently verify these videos.
+
+...
+
+[Data](articles/e221038d.json)
+
+[Extended Data](ext_articles/e221038d.ext.json)
 
 ---
 
@@ -87,6 +185,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/77b908fe.json)
+
+---
+
+### Train operations on up-country line resume
+
+*2024-12-02 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103916/train-operations-on-up-country-line-resume) · `en`
+
+Railway operations between the Hali Ela and Uduwara stations on the Up-Country Line have resumed after being disrupted for several days.
+
+Train services were halted due to mounds of earth and rocks falling onto the tracks near the 175/5-mile post.
+
+However, railway authorities confirmed that the debris has been cleared following significant effort, allowing train operations to return to normal.
+
+Meanwhile, the Road Development Authority stated that the Manampitiya- Aralaganwila road, which had been damaged by adverse weather conditions, has already been reopened for traffic following repairing activities.
+
+◼️
+
+[Data](articles/0a63a8dc.json)
+
+---
+
+### Sri Lanka sells extra Rs18.4bn Treasury bonds after auction
+
+*2024-12-02 11:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs18-4bn-treasury-bonds-after-auction-166184/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 18.4 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
+
+The debt office sold 8 million 15 October 2028 maturity bonds (ISIN LKB00428J159) at a weighted average yield rate of 10.62 percent.
+
+The debt office also sold 7.5 million 15 March 2031 maturity bonds (ISIN LKB01231C151) at a weighted average yield rate of 11.28 percent.
+
+The debt office sold 2.9 million 01 November 2033 maturity bonds (ISIN LKB02033K013) at a weighted average yield rate of 11.40 percent.
+
+Date of settlement of the above issuance is 2 December 2024. (Colombo/Dec2/2024)
+
+◼️
+
+[Data](articles/6fe1c0d8.json)
 
 ---
 
@@ -2042,6 +2178,22 @@ Meanwhile, a suspect in the Kottawa Police Division has been arrested yesterday 
 
 ---
 
+### වසර හයක් තිස්සේ දුම්රිය එන්ජින් 78ක් කොට උඩ
+
+*2024-12-01 19:04:07* · [`adalk`](https://www.ada.lk/breaking_news/වසර-හයක්-තිස්සේ-දුම්රිය-එන්ජින්-78ක්-කොට-උඩ/11-413389) · `si`
+
+අලුත්වැඩියා කටයුතු සඳහා යොමු කොට තිබූ දුම්රිය එන්ජින් 78ක් අලුත්වැඩියා  කිරීම සිදු නොකොට, 2017 වර්ෂයේ සිට 2023 දෙසැම්බර් 31 දක්වා වසර 06ක කාලයක් තුළ ධාවනාගාරවල හෝ රත්මලාන ප්‍රධාන දුම්රිය වැඩපළෙහි රඳවා ගෙන තිබූ බව ජාතික විගණන කාර්යාලය මගින් නොවැම්බර් 29 දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+දුම්රිය දෙපාර්තමේන්තුව සතුව M Class එන්ජින් 103 ක් තිබෙන අතර, ඉන් එන්ජින් 47ක් අලුත්වැඩියා කටයුතු සඳහා ධාවනයෙන් ඉවත් කොට ඇත. M Class වර්ගයේ එන්ජිමක වටිනාකම රුපියල් මිලියන 150ත් 765ත් අතර වන බවද එම විගණන වාර්තාවේ සඳහන් වේ.
+
+එමෙන්ම රුපියල් මිලියන 8 සිට 218 අතර දක්වා වටිනාකමට මිලදී ගෙන තිබූ S Class එන්ජින් 133ක් අතුරින් එන්ජින් 31ක් අලුත්වැඩියා සඳහා යොමුකොට වසර 07කට අධික කාලයක සිට අලුත්වැඩියා කටයුතු සිදු නොකොට ධාවනාගාරවල රඳවා ගෙන සිටින බවද විගණනය මගින් අනාවරණය කර ඇත.
+
+...
+
+[Data](articles/5c931282.json)
+
+---
+
 ### Flooding into homes;Snakes around!- The people of Sankanai who fear returns home
 
 *2024-12-01 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200170) · `ta`
@@ -2157,209 +2309,5 @@ They call upon the government to reach the cultivation of the damage to the dama
 ◼️
 
 [Data](articles/7c170dda.json)
-
----
-
-### FBI Head of FBI under Trump
-
-*2024-12-01 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203934) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Donald Trump appointed Christopher Wray as FBI Director during his presidency. Wray succeeded James Comey after Trump fired him in 2017. Wray led the FBI through several high-profile investigations, including probes into Russian interference in the 2016 election and Hillary Clinton's email server.
-
-🟩
-
-US President Donald Trump has been named by the Federal Bureau of Federal Investigation Bureau, the Head of the Federal Investigation Bureau under his government.
-
-Pilgil was also the National Intelligence Director of the President and the National Defense Secretary at the first term of President.
-
-A powerful Trump supporter of the FBI is well known as the role of the FBI's intelligence information from the post.
-
-◼️
-
-[Data](articles/349cb20e.json)
-
-[Extended Data](ext_articles/349cb20e.ext.json)
-
----
-
-### Motorcycle crashes
-
-*2024-12-01 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200165) · `ta`
-
-Motorcycle crash kills woman on Kaduwela-Kaluppiti road. Two women involved, one injured. Accidents occurred on Saturday near Thalangama Police Division.
-
-🟩
-
-A woman was killed when a motorcycle collided with a motorcycle on Saturday (30) on the North of Thalangama on the Kaduwela -Kaluppitti main road belonging to the Thalangama Police Division.
-
-A woman who was traveling from Kaduwala to Battaramulla has crashed into a woman who crossed the road, police said.
-
-The woman who was injured in the accident was admitted to the Thalangama Hospital after she was transferred to the Colombo National Hospital for further treatment.
-
-A motorcycle ride is injured in an accident and is being treated at the Kalubowila Hospital.
-
-◼️
-
-[Data](articles/cd6cdb97.json)
-
-[Extended Data](ext_articles/cd6cdb97.ext.json)
-
----
-
-### Motorcycle motorcycle - car accident;One killed
-
-*2024-12-01 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200159) · `ta`
-
-Motorcycle-car crash kills one in Jaffna. Driver dies, pedestrian hurt. Car driver arrested.
-
-🟩
-
-One person was killed yesterday (30) when he crashed into a motorcycle car at Manipayi Thavadi Road in the Jaffna - Manipay police division.
-
-The motorcycle traveling towards Tavadi crashed into a pedestrian in the same direction and collided with a car coming in the opposite direction.
-
-The motorcycle driver, who was injured in the accident, died after being admitted to the Jaffna Hospital and a pedestrian suffered minor injuries.
-
-The body has been placed in the funeral room of the Jaffna Hospital and the driver of the car has been arrested.
-
-◼️
-
-[Data](articles/a28997ab.json)
-
-[Extended Data](ext_articles/a28997ab.ext.json)
-
----
-
-### One person arrested with ice drugs in Panadura
-
-*2024-12-01 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200157) · `ta`
-
-Person arrested with ice drugs in Panadura. Suspect caught during police operation based on tip from Kalutara Crime Unit. Incident occurred on 30th.
-
-🟩
-
-The suspect who had ice drugs in the area belonging to the Panadura Police Division was arrested by the police yesterday (30).
-
-He was arrested during a roundup of confidential information received by a group of officials of the Kalutara Crime Unit.
-
-◼️
-
-[Data](articles/bdc25770.json)
-
-[Extended Data](ext_articles/bdc25770.ext.json)
-
----
-
-### Electrocafection
-
-*2024-12-01 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200178) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Elderly man (67) dies after electrocution from power supply connected to fence at vegetable garden in Sri Lanka. Incident occurred during monkey chase business. Body recovered and sent for autopsy; forensic investigation ongoing.
-
-🟩
-
-An elderly man was killed in a power supply on Saturday night at the Vedamulla estate in the Kotmalai police division.
-
-In the area, he died of electricity from the power supply connected to the safety fence to protect the vegetable garden from wild animals.
-
-The deceased was involved in the monkey chase business in the same garden, and as usual, he fell into an electric fence and died.
-
-The deceased is 67 -year -old Thangavel Krishnaraj, a resident of Vedamulla estate.
-
-In this case, the Nawalapitiya Magistrate's Court, who visited the scene, recovered the body and ordered the body to be taken to the Nuwara Eliya District General Hospital and ordered the autopsy.
-
-The Nuwara Eliya Forensic Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/043cc91b.json)
-
-[Extended Data](ext_articles/043cc91b.ext.json)
-
----
-
-### Pedestrian death
-
-*2024-12-01 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200155) · `ta`
-
-Bus crash kills pedestrian on Colombo-Kurunegala road. Driver arrested. Body taken to hospital mortuary.
-
-🟩
-
-One person was killed when a bus crashed into a pedestrian on the Colombo -Kurunegala main road under the Polgahawela police division.
-
-A bus traveling from Colombo to Kurunegala crashes into a pedestrian crossing.
-
-The body has been placed in the funeral room of the Polgahawela Hospital and the bus driver has been arrested.
-
-◼️
-
-[Data](articles/a1c02fcf.json)
-
-[Extended Data](ext_articles/a1c02fcf.ext.json)
-
----
-
-### Elephant fence from 2021 to 2023. There is no work even when spent 235 crores
-
-*2024-12-01 18:00:20* · [`adalk`](https://www.ada.lk/breaking_news/2021-සිට-2023-දක්වා-අලි-වැටට-රු--කෝටි-235ක්-වැය-කළත්-වැඩක්-වෙලා-නෑ/11-413385) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Elephant fence project 2021-2023: ₹2,355 crore spent, no results. Audit reveals ₹58.64 crore for recent construction, ₹5,389.97 km fencing. Elephants unaffected."
-
-🟩
-
-The government has spent on the construction of electric fences and the maintenance of electric fences (2021-2023), the National Audit Office, no such hundred and eighty-eight hundred and forty-eight hundred and forty-eight million people (2,355,882,248).A audit report released is stated.
-
-Elephants have not been able to develop electric fences in the past five. The construction of electric fences in the last year has been spent on the construction of electric fences, eight lakhs, forty one hundred and forty-thousand (58,640,147).
-
-The cost of maintaining its maintenance is Rs.The total proportion of electric fences is 5389.97 km.
-
-◼️
-
-[Data](articles/f96c5445.json)
-
-[Extended Data](ext_articles/f96c5445.ext.json)
-
----
-
-### 330 elephants are dead from January 1 to November 30
-
-*2024-12-01 17:49:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-1-දා-සිට-නොවැම්බර්-30-දා-දක්වා-වන-අලි-330ක්-මැරිලා/11-413384) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-330 elephants killed Jan-Nov. Human-elephant conflict causes 400 annual deaths. Tourism impact: 47% visitors saw national parks. Wildlife Conservation protects 15% of land area.
-
-🟩
-
-According to January 1 this year, 330 people have died on Monday (30).
-
-Ali-human co-afforders are the death of a large number of elephants annually, the assets of the association, the shooting of the annual elephant deaths and the garment explosion of the annual elephants.Did.
-
-It was also the largest gains that had been assassinated in the area, the Vicious Gross and Walana, who had been living in the past two years, and the last two years of the past two years.Said.
-
-The Department of Wildlife Conservation and Government Institutions, including the Department of Ceylon Electricity Board and the Police, should be implemented with the Department of Wildlife Conservation, the Department of Wildlife Conservation and Police, including the Department of Wildlife and Police.
-
-In view of the past five years, approximately four hundred elephants have died a year, the human-elephant conflict has occurred about 100 and nearly 100 years a year a year.
-
-...
-
-[Data](articles/2fa1059f.json)
-
-[Extended Data](ext_articles/2fa1059f.ext.json)
 
 ---

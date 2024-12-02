@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 12:02:26**
+As of **2024-12-02 12:18:26**
 
 ## Newspaper Stats
 
-*Scraped **57,998** Articles*
+*Scraped **58,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 443
 colombotelegraphcom | 591
 bbccomsinhala | 603
 islandlk | 3,490
-economynextcom | 3,520
+economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,475
-adaderanalk | 7,024
+adalk | 5,476
+adaderanalk | 7,026
 tamilmirrorlk | 8,241
 virakesarilk | 9,493
 adaderanasinhalalk | 10,019
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,983 (100.0%) of 57,998 articles have been extended.
+57,983 (100.0%) of 58,002 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,6 +68,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Dozens killed in crush at Guinea football match - reports
+
+*2024-12-02 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103917/dozens-killed-in-crush-at-guinea-football-match-reports) · `en`
+
+Dozens of people have died in a crush following clashes at a football match in Guinea’s second-largest city, N’zérékoré, local media report.
+
+Prime Minister Mamadou Oury Bah said a stampede at the event led to a number of victims on Sunday and called for calm.
+
+One doctor, who did not want to be named, told AFP news agency that there were several bodies “lined up” in the local hospital, and the morgue was full.
+
+Local media said police used tear gas after supporters of the visiting team, Labé, threw stones towards the pitch in anger at the referee.
+
+“It all started with a contested decision by the referee. Then fans invaded the pitch,” one witness told AFP.
+
+Videos and images on social media appear to show chaotic scenes outside the stadium, with large crowds attempting to climb over walls and numerous bodies on the ground.
+
+The BBC has not been able to independently verify these videos.
+
+...
+
+[Data](articles/e221038d.json)
+
+---
+
 ### ’தீகதந்து 1’  மரணம்: முகாமையாளர் கைது
 
 *2024-12-02 11:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகதந்து-1-மரணம்-முகாமையாளர்-கைது/175-348100) · `ta`
@@ -87,6 +111,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/77b908fe.json)
+
+---
+
+### Train operations on up-country line resume
+
+*2024-12-02 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103916/train-operations-on-up-country-line-resume) · `en`
+
+Railway operations between the Hali Ela and Uduwara stations on the Up-Country Line have resumed after being disrupted for several days.
+
+Train services were halted due to mounds of earth and rocks falling onto the tracks near the 175/5-mile post.
+
+However, railway authorities confirmed that the debris has been cleared following significant effort, allowing train operations to return to normal.
+
+Meanwhile, the Road Development Authority stated that the Manampitiya- Aralaganwila road, which had been damaged by adverse weather conditions, has already been reopened for traffic following repairing activities.
+
+◼️
+
+[Data](articles/0a63a8dc.json)
+
+---
+
+### Sri Lanka sells extra Rs18.4bn Treasury bonds after auction
+
+*2024-12-02 11:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs18-4bn-treasury-bonds-after-auction-166184/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 18.4 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
+
+The debt office sold 8 million 15 October 2028 maturity bonds (ISIN LKB00428J159) at a weighted average yield rate of 10.62 percent.
+
+The debt office also sold 7.5 million 15 March 2031 maturity bonds (ISIN LKB01231C151) at a weighted average yield rate of 11.28 percent.
+
+The debt office sold 2.9 million 01 November 2033 maturity bonds (ISIN LKB02033K013) at a weighted average yield rate of 11.40 percent.
+
+Date of settlement of the above issuance is 2 December 2024. (Colombo/Dec2/2024)
+
+◼️
+
+[Data](articles/6fe1c0d8.json)
 
 ---
 
@@ -2042,6 +2104,22 @@ Meanwhile, a suspect in the Kottawa Police Division has been arrested yesterday 
 
 ---
 
+### වසර හයක් තිස්සේ දුම්රිය එන්ජින් 78ක් කොට උඩ
+
+*2024-12-01 19:04:07* · [`adalk`](https://www.ada.lk/breaking_news/වසර-හයක්-තිස්සේ-දුම්රිය-එන්ජින්-78ක්-කොට-උඩ/11-413389) · `si`
+
+අලුත්වැඩියා කටයුතු සඳහා යොමු කොට තිබූ දුම්රිය එන්ජින් 78ක් අලුත්වැඩියා  කිරීම සිදු නොකොට, 2017 වර්ෂයේ සිට 2023 දෙසැම්බර් 31 දක්වා වසර 06ක කාලයක් තුළ ධාවනාගාරවල හෝ රත්මලාන ප්‍රධාන දුම්රිය වැඩපළෙහි රඳවා ගෙන තිබූ බව ජාතික විගණන කාර්යාලය මගින් නොවැම්බර් 29 දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+දුම්රිය දෙපාර්තමේන්තුව සතුව M Class එන්ජින් 103 ක් තිබෙන අතර, ඉන් එන්ජින් 47ක් අලුත්වැඩියා කටයුතු සඳහා ධාවනයෙන් ඉවත් කොට ඇත. M Class වර්ගයේ එන්ජිමක වටිනාකම රුපියල් මිලියන 150ත් 765ත් අතර වන බවද එම විගණන වාර්තාවේ සඳහන් වේ.
+
+එමෙන්ම රුපියල් මිලියන 8 සිට 218 අතර දක්වා වටිනාකමට මිලදී ගෙන තිබූ S Class එන්ජින් 133ක් අතුරින් එන්ජින් 31ක් අලුත්වැඩියා සඳහා යොමුකොට වසර 07කට අධික කාලයක සිට අලුත්වැඩියා කටයුතු සිදු නොකොට ධාවනාගාරවල රඳවා ගෙන සිටින බවද විගණනය මගින් අනාවරණය කර ඇත.
+
+...
+
+[Data](articles/5c931282.json)
+
+---
+
 ### Flooding into homes;Snakes around!- The people of Sankanai who fear returns home
 
 *2024-12-01 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200170) · `ta`
@@ -2251,115 +2329,5 @@ He was arrested during a roundup of confidential information received by a group
 [Data](articles/bdc25770.json)
 
 [Extended Data](ext_articles/bdc25770.ext.json)
-
----
-
-### Electrocafection
-
-*2024-12-01 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200178) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Elderly man (67) dies after electrocution from power supply connected to fence at vegetable garden in Sri Lanka. Incident occurred during monkey chase business. Body recovered and sent for autopsy; forensic investigation ongoing.
-
-🟩
-
-An elderly man was killed in a power supply on Saturday night at the Vedamulla estate in the Kotmalai police division.
-
-In the area, he died of electricity from the power supply connected to the safety fence to protect the vegetable garden from wild animals.
-
-The deceased was involved in the monkey chase business in the same garden, and as usual, he fell into an electric fence and died.
-
-The deceased is 67 -year -old Thangavel Krishnaraj, a resident of Vedamulla estate.
-
-In this case, the Nawalapitiya Magistrate's Court, who visited the scene, recovered the body and ordered the body to be taken to the Nuwara Eliya District General Hospital and ordered the autopsy.
-
-The Nuwara Eliya Forensic Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/043cc91b.json)
-
-[Extended Data](ext_articles/043cc91b.ext.json)
-
----
-
-### Pedestrian death
-
-*2024-12-01 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200155) · `ta`
-
-Bus crash kills pedestrian on Colombo-Kurunegala road. Driver arrested. Body taken to hospital mortuary.
-
-🟩
-
-One person was killed when a bus crashed into a pedestrian on the Colombo -Kurunegala main road under the Polgahawela police division.
-
-A bus traveling from Colombo to Kurunegala crashes into a pedestrian crossing.
-
-The body has been placed in the funeral room of the Polgahawela Hospital and the bus driver has been arrested.
-
-◼️
-
-[Data](articles/a1c02fcf.json)
-
-[Extended Data](ext_articles/a1c02fcf.ext.json)
-
----
-
-### Elephant fence from 2021 to 2023. There is no work even when spent 235 crores
-
-*2024-12-01 18:00:20* · [`adalk`](https://www.ada.lk/breaking_news/2021-සිට-2023-දක්වා-අලි-වැටට-රු--කෝටි-235ක්-වැය-කළත්-වැඩක්-වෙලා-නෑ/11-413385) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Elephant fence project 2021-2023: ₹2,355 crore spent, no results. Audit reveals ₹58.64 crore for recent construction, ₹5,389.97 km fencing. Elephants unaffected."
-
-🟩
-
-The government has spent on the construction of electric fences and the maintenance of electric fences (2021-2023), the National Audit Office, no such hundred and eighty-eight hundred and forty-eight hundred and forty-eight million people (2,355,882,248).A audit report released is stated.
-
-Elephants have not been able to develop electric fences in the past five. The construction of electric fences in the last year has been spent on the construction of electric fences, eight lakhs, forty one hundred and forty-thousand (58,640,147).
-
-The cost of maintaining its maintenance is Rs.The total proportion of electric fences is 5389.97 km.
-
-◼️
-
-[Data](articles/f96c5445.json)
-
-[Extended Data](ext_articles/f96c5445.ext.json)
-
----
-
-### 330 elephants are dead from January 1 to November 30
-
-*2024-12-01 17:49:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-1-දා-සිට-නොවැම්බර්-30-දා-දක්වා-වන-අලි-330ක්-මැරිලා/11-413384) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-330 elephants killed Jan-Nov. Human-elephant conflict causes 400 annual deaths. Tourism impact: 47% visitors saw national parks. Wildlife Conservation protects 15% of land area.
-
-🟩
-
-According to January 1 this year, 330 people have died on Monday (30).
-
-Ali-human co-afforders are the death of a large number of elephants annually, the assets of the association, the shooting of the annual elephant deaths and the garment explosion of the annual elephants.Did.
-
-It was also the largest gains that had been assassinated in the area, the Vicious Gross and Walana, who had been living in the past two years, and the last two years of the past two years.Said.
-
-The Department of Wildlife Conservation and Government Institutions, including the Department of Ceylon Electricity Board and the Police, should be implemented with the Department of Wildlife Conservation, the Department of Wildlife Conservation and Police, including the Department of Wildlife and Police.
-
-In view of the past five years, approximately four hundred elephants have died a year, the human-elephant conflict has occurred about 100 and nearly 100 years a year a year.
-
-...
-
-[Data](articles/2fa1059f.json)
-
-[Extended Data](ext_articles/2fa1059f.ext.json)
 
 ---

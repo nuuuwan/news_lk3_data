@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 23:00:42**
+As of **2024-12-02 23:26:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,107 (100.0%) of 58,110 articles have been extended.
+58,110 (100.0%) of 58,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### வவுனியா படுகொலை தொடர்பில் ஒருவர் கைது
+### One arrested in connection with the Vavuniya massacre
 
 *2024-12-02 22:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வவுனியா-படுகொலை-தொடர்பில்-ஒருவர்-கைது/72-348145) · `ta`
 
-வவுனியா, சேமமடு,  இளமருதங்குளம் பகுதியில் நேற்று மாலை ஒருவரை கொலை செய்த சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் ஒருவர்  ஓமந்தைப் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-ஓமந்தை பொலிஸ் பிரிவுக்குட்பட்ட இளமருதங்குளம் பகுதியில் பழைய பகை ஒன்றின் காரணமாக ஐந்து பேர் கொண்ட குழு 46 வயதுடைய குடும்பஸ்தர் ஒருவரை வாளால் வெட்டி கொலை செய்திருந்தனர்.
 
-இவரை வவுனியா நீதிமன்றத்தில் பொலிஸார் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளதுடன், ஏனைய சந்தேக நபர்களும் அடையாளம் காணப்பட்டுள்ளனர். R
+
+Arrest made in Vavuniya massacre: One suspect detained by Omanthai police for murder of 5-year-old family members in Chemamadu and Ilamarathangulam areas due to old grudge. Police to appear in Vavuniya court; other suspects identified.
+
+🟩
+
+One person has been arrested by the Omanthai police on suspicion of murdering a man last evening in Vavuniya, Chemamadu and Ilamarathangulam.
+
+A five -year -old group of five -year -old family members had been hacked to death by a sword due to an old hostility in the Ilamarathangulam area of ​​the Omanthai police division.
+
+The police have taken steps to appear in the Vavuniya court and other suspects have been identified.. Remble
 
 ◼️
 
 [Data](articles/209c9ab1.json)
+
+[Extended Data](ext_articles/209c9ab1.ext.json)
 
 ---
 
@@ -64,37 +74,55 @@ The appointment letter was formally presented to Ms. Olga by the Secretary to th
 
 ---
 
-### கிளிநொச்சி பதில் அரச அதிபருடன் சுவிஸ் தூதரக அதிகாரிகள் கலந்துரையாடல்!
+### Swiss embassy officials discuss with Kilinochchi Reply
 
 *2024-12-02 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200274) · `ta`
 
-இலங்கைக்கான சுவிஸ் தூதரக மற்றும் குடிவரவு - குடியகழ்வுத் திணைக்கள அதிகாரிகள் கிளிநொச்சி மாவட்ட பதில் அரசாங்க அதிபர் எஸ்.முரளிதரன் அவர்களைத் திங்கட்கிழமை (02) நேரில் சந்தித்துக் கலந்துரையாடியுள்ளனர்.
+Swiss embassy officials met with Kilinochchi district authorities to discuss economic conditions, resettlement, mine removal, and asylum seekers.
 
-குறித்த சந்திப்பு கிளிநொச்சி மாவட்ட செயலகத்தில் மாவட்ட அரசாங்க அதிபர் காரியாலயத்தில் நடைபெற்றது.
+🟩
 
-இதன்போது கிளிநொச்சி மாவட்டத்தின் தற்போதைய  நிலைமைகள், பொருளாதார நிலவரங்கள், மீள்குடியேற்றம், கண்ணிவெடி அகற்றல் மற்றும் புகலிடக் கோரிகைகள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் கலந்துரையாடியுள்ளமை குறிப்பிடத்தக்கது.
+Officials of the Swiss Embassy and Immigration and Emigration Department of Sri Lanka have met with the Government Agent S. Muralitharan, the Kilinochchi District Respondent.
 
-இச் சந்திப்பில் இடம்பெயர்வுக்கான மாநில செயலகத்தின் Consultant Meinrad Lindt மற்றும் Country Analyst Andreas Schmid உள்ளிட்ட சுவிஸ் தூதரக அதிகாரிகள் கலந்து கொண்டிருந்தனர்.
+The meeting was held at the Kilinochchi District Secretariat at the District Government Agent's office.
+
+It is noteworthy that the current conditions of the Kilinochchi district, economic conditions, resettlement, mines removal and asylum seekers have been discussed.
+
+The meeting was attended by Swiss embassy officials including Consultant Meinrad Lindt and Country Analyst Andreas Schmid.
 
 ◼️
 
 [Data](articles/79365ce1.json)
 
+[Extended Data](ext_articles/79365ce1.ext.json)
+
 ---
 
-### வேட்புமனுக்கள் குறித்து விசேட கலந்துரையாடல்
+### A special discussion on nominations
 
 *2024-12-02 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200273) · `ta`
 
-சபை முதல்வர் பிமல் ரத்நாயக்க தலைமையில் கட்சித் தலைவர்கள் கூட்டம் செவ்வாய்க்கிழமை (3) பாராளுமன்ற கட்டிடத் தொகுதியில் நடைபெறவுள்ளது. உள்ளுராட்சிமன்றத் தேர்தலுக்காக ஏற்றுக்கொள்ளப்பட்டுள்ள வேட்புமனுக்கள் குறித்து விசேடமாக கலந்துரையாடப்படவுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-உள்ளுராட்சிமன்றத் தேர்தலுக்காக ஏற்றுக்கொள்ளப்பட்ட வேட்புமனுக்களை இரத்துச் செய்து புதிதாக வேட்புமனுக்களை கோருமாறு பல்வேறு அரசியல் கட்சிகள் தொடர்ச்சியாக வலியுறுத்தி வருகின்றன.
 
-உள்ளுராட்சிமன்றத் தேர்தலில் போட்டியிடுவதற்காக வேட்புமனுக்களை தாக்கல் செய்தவர்களில் பெரும்பாலானோர் தற்போது உயிருடன் இல்லை. ஒருசிலர் நாட்டை விட்டு வெளியேறியுள்ளார்கள். போட்டியிடுவதற்காக பெயர் குறிப்பிடப்பட்டிருந்த அரசியல் கட்சியில் இருந்து விலகியுள்ளார்கள். ஆகவே ஏற்றுக் கொள்ளப்பட்ட வேட்புமனுக்களுக்கமைய தேர்தலை நடத்துவது பிரச்சினைக்குரியதாக அமையும் என பெப்ரல் உட்பட தேர்தல் கண்காணிப்பு அமைப்புக்கள் சுட்டிக்காட்டி புதிய வேட்புமனுக்களை கோருமாறு வலியுறுத்தியுள்ளன.
+
+Chief Minister Bimal Ratnayake will chair a party leaders' meeting on Tuesday to discuss cancelling existing nominations for local government elections and seeking new candidates. Political parties have urged this action due to many original nominees no longer being eligible or available. The Elections Commission is ready to act based on Parliament's decision.
+
+🟩
+
+Party leaders' meeting chaired by Chief Minister Bimal Ratnayake will be held on Tuesday (3). The nominations for the local government elections will be held specially.
+
+Various political parties have consistently urged the cancellation of nominations adopted for the local government elections and seeking new nominations.
+
+Most of those who have filed nominations to contest the local government elections are currently not alive. Some have left the country. Withdrawn from the political party that has been named to contest. Therefore, the election monitoring organizations, including February, have urged the new candidates to demand that the election of the election will be a problem.
+
+The Parliament should make a firm decision on accepted nominations. The Elections Commission stated that it is ready to act in accordance with the decision taken by the Parliament.
 
 ...
 
 [Data](articles/7a7821bd.json)
+
+[Extended Data](ext_articles/7a7821bd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 00:18:05**
+As of **2024-12-03 00:02:38**
 
 ## Newspaper Stats
 
-*Scraped **58,116** Articles*
+*Scraped **58,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 592
 bbccomsinhala | 604
 islandlk | 3,490
 economynextcom | 3,528
-dailyftlk | 4,005
+dailyftlk | 4,003
 dailymirrorlk | 4,733
 adalk | 5,496
 adaderanalk | 7,047
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,110 (100.0%) of 58,116 articles have been extended.
+58,110 (100.0%) of 58,114 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -153,38 +153,6 @@ Therefore, the revision of the electricity tariff is 35% and 40 to 40. Because t
 [Data](articles/6b128589.json)
 
 [Extended Data](ext_articles/6b128589.ext.json)
-
----
-
-### nVentures welcomes visionary tech ecosystem leader as new limited partner
-
-*2024-12-02 21:27:43* · [`dailyftlk`](https://www.ft.lk/business/nVentures-welcomes-visionary-tech-ecosystem-leader-as-new-limited-partner/34-769982) · `en`
-
-nVentures has announced that e27 Co-founder and CEO, and Orvel Ventures Partner Mohan Belani, has joined its esteemed group of investors.
-
-This investment brings deep expertise in developing Southeast Asian tech ecosystems and supporting early-stage startups.
-
-With an impressive track record of supporting over 30 early-stage investments across Asia-Pacific and the United States, Belani brings a wealth of experience in helping founders navigate the complex landscape of Southeast Asian tech landscape. His work at e27, Asia’s leading tech and start-up ecosystem platform, has been instrumental in connecting hundreds of startups with critical resources, including fundraising opportunities, media exposure, and strategic business partnerships across Southeast Asia.
-
-...
-
-[Data](articles/3cc5bbab.json)
-
----
-
-### 50 top-tier CEOs to be crowned at Global CEO Awards
-
-*2024-12-02 21:25:27* · [`dailyftlk`](https://www.ft.lk/business/50-top-tier-CEOs-to-be-crowned-at-Global-CEO-Awards/34-769981) · `en`
-
-The much-anticipated Global CEO Awards Night is set to take place on 5 December at the prestigious ITC Ratnadipa.
-
-This event celebrates the transformative leadership and innovative spirit of 50 distinguished CEOs who have propelled their organisations to success amidst challenging times.
-
-This inaugural awards night goes beyond recognising corporate accomplishments. It underscores the critical role of CEOs as drivers of economic stability, innovation, and sustainable growth. Their leadership fosters job creation, attracts investments, and strengthens the foundation of Sri Lanka’s economy. By honouring these visionaries, the event showcases how exceptional leadership can catalyse national progress and inspire others to push boundaries.
-
-...
-
-[Data](articles/f08884c6.json)
 
 ---
 
@@ -2465,5 +2433,55 @@ They are demanding that they attach themselves to the school and confirm the wor
 [Data](articles/34986097.json)
 
 [Extended Data](ext_articles/34986097.ext.json)
+
+---
+
+### Road blocked due to protest opposite Education Ministry
+
+*2024-12-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103922/road-blocked-due-to-protest-opposite-education-ministry-) · `en`
+
+The Kottawa - Borella Road (174 bus route) has been completely blocked for traffic in front of the Ministry of Education due to a protest by Development Officers, Ada Derana reporter said.
+
+The Development Officers are engaged in the demonstration demanding that they be made permanent in the teaching service.
+
+◼️
+
+[Data](articles/6cf4ba84.json)
+
+[Extended Data](ext_articles/6cf4ba84.ext.json)
+
+---
+
+### The statue of two crores
+
+*2024-12-02 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203954) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ancient metallic Buddha statue worth Rs. 2 crore stolen from Karambithigoda temple. Suspects arrested, including a monk from Dompe Viharaya. Two cars seized, case filed in Mawanella Magistrate's Court. Investigation led by Senior DIG Sabaragamuwa Province.
+
+🟩
+
+A total of the ancient metallic Buddha statue of over Rs.
+
+The suspects had been stolen from the metal Buddha statue placed in Karambithigoda, Karambithigoda, Karahampritigigama Ancient Viharaya.
+
+Palagala Rajamaha Viharaya has lodged a complaint with the Mawampiriya Police that a group of over Rs.
+
+Accordingly, Senior DIG Sabaragamuwa Province Senior DIG Sanjeewa Dharmaratne was assigned to the Memorial Investigation Kegalle Divisional Secretariat.
+
+Subsequent investigation, a 28-year-old monk in the temple in Kimbulwilawatta, Kandy, has been arrested by a 28-year-old monk in Kimbulwilawatta, Kandy.
+
+The robbery had been revealed according to the monk of the Dompe Viharaya.
+
+Police have also seized two cars used for theft and the suspects are to be produced before the Mawanella Magistrate's Court.
+
+◼️
+
+[Data](articles/28e3dda5.json)
+
+[Extended Data](ext_articles/28e3dda5.ext.json)
 
 ---

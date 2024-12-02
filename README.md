@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 06:48:51**
+As of **2024-12-02 05:51:43**
 
 ## Newspaper Stats
 
-*Scraped **57,949** Articles*
+*Scraped **57,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 442
 colombotelegraphcom | 591
 bbccomsinhala | 603
-islandlk | 3,483
+islandlk | 3,477
 economynextcom | 3,517
 dailyftlk | 4,003
 dailymirrorlk | 4,733
@@ -20,41 +20,17 @@ adalk | 5,469
 adaderanalk | 7,017
 tamilmirrorlk | 8,231
 virakesarilk | 9,488
-adaderanasinhalalk | 10,009
+adaderanasinhalalk | 10,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,945 (100.0%) of 57,949 articles have been extended.
+57,942 (100.0%) of 57,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### කාලගුණයේ වෙනසක්
-
-*2024-12-02 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203939) · `si`
-
-අද (02) දිනයේ උතුරු පළාතේ වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-උතුරු, උතුරුමැද, වයඹ, බස්නාහිර, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට හමන පැ.කි.මී. 40-45ක පමණ තද සුළං ඇතිවිය හැක.
-
-පුත්තලම සිට කන්කසන්තුරය හරහා ත්‍රිකුණාමලය දක්වාවන මුහුදු ප්‍රදේශවල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
-
-දිවයින වටා වන මුහුදු ප්‍රදේශවල සුළං බස්නාහිර සිට නිරිත දක්වා වන දිශා වලින් හමා එන අතර සුළගේ වේගය පැ.කි.මී. 30-40ක පමණ වන අතර, පුත්තලම සිට කන්කසන්තුරය හරහා ත්‍රිකුණාමලය දක්වා වන මුහුදු ප්‍රදේශවල සුළගේ වේගය ක්ෂණිකව පැ.කි.මී. 60ක් දක්වා ඉහළ යා හැකිය.
-
-පුත්තලම සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් ත්‍රිකුණාමලය දක්වා වන මුහුදු ප්‍රදේශවල සුළගේ වේගය ක්ෂණිකව පැ.කි.මී. 50 පමණ දක්වා ඉහළ යාහැක.
-
-පුත්තලම සිට කන්කසන්තුරය හරහා ත්‍රිකුණාමලය දක්වා වන මුහුදු ප්‍රදේශ විටින් විට රළු විය හැක.
-
-පුත්තලම සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් ත්‍රිකුණාමලය දක්වා වන මුහුදු ප්‍රදේශ විටින් විට තරමක් රළු වේ.
-
-...
-
-[Data](articles/65a4f035.json)
-
----
 
 ### Information Collection of Damaged Roads
 
@@ -226,56 +202,6 @@ Let’s take Sri Lanka Railways for example. Each year, the State pumps approxim
 
 ---
 
-### Asia Asset Finance reports ‘strong’ financial performance in Q2
-
-*2024-12-02 01:53:00* · [`islandlk`](http://island.lk/asia-asset-finance-reports-strong-financial-performance-in-q2/) · `en`
-
-Asia Asset Finance PLC (AAF) has announced robust financial performance for the six months ending in 2024 with strong growth and strategic positioning in the market.The company’s total asset base expanded to LKR 32.28 billion, reflecting a 24.74% year-on-year increase, supported by disciplined asset management and a targeted portfolio expansion strategy. The loan portfolio also saw a significant rise of LKR 5.5 billion, bringing the total to LKR 26.1 billion as AAF continued to focus on high-quality lending while maintaining strict credit standards.
-
-...
-
-[Data](articles/be68af7a.json)
-
-[Extended Data](ext_articles/be68af7a.ext.json)
-
----
-
-### MAS partners UNFPA to advance women’s health and wellbeing in apparel sector
-
-*2024-12-02 01:52:00* · [`islandlk`](http://island.lk/mas-partners-unfpa-to-advance-womens-health-and-wellbeing-in-apparel-sector/) · `en`
-
-Global apparel-tech conglomerate MAS and the United Nations Population Fund (UNFPA),signed a Memorandum of Understanding (MOU) on 28 November. This partnership marks the beginning of a year-long collaboration aimed at supporting women’s health and reproductive health.
-
-The MOU consolidated a shared vision between MAS and UNFPA to increase investment into women’s health and wellbeing. It seeks to empower and encourage women and girls in the apparel sector to speak up and for corporates to create safe public spaces. Through the partnership, both organizations will work together to upgrade medical centers, conduct awareness programs, and establish wellness facilities in BOI zones accessible to employees of the apparel sector.
-
-...
-
-[Data](articles/cd5de5f0.json)
-
-[Extended Data](ext_articles/cd5de5f0.ext.json)
-
----
-
-### Spain Visa Application Centre launched in Colombo by BLS International
-
-*2024-12-02 01:51:00* · [`islandlk`](http://island.lk/spain-visa-application-centre-launched-in-colombo-by-bls-international/) · `en`
-
-BLS International, a global tech-enabled services partner for governments and citizens and a global leader in visa processing and consular services, recently announced the commencement of Spain Visa Operations in Sri Lanka.
-
-This milestone marks a significant step in BLS International’s commitment to enhancing the customer experience and simplifying the visa application process for Sri Lankan residents.
-
-The newly inaugurated Spain Visa Application Centre in Colombo is strategically positioned to cater to the rising demand for Spain visa applications. The facility will accommodate a diverse range of travelers’ needs.
-
-This new centre will not only serve applicants from Colombo but also expand its reach to Maldives, significantly boosting BLS International’s presence and impact in Sri Lanka.
-
-...
-
-[Data](articles/12e9764f.json)
-
-[Extended Data](ext_articles/12e9764f.ext.json)
-
----
-
 ### Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?
 
 *2024-12-02 01:43:07* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-economic-revival-Traditional-8-hour-workday-or-6-hour-workday/4-769956) · `en`
@@ -291,36 +217,6 @@ Labour productivity is a fundamental driver of economic progress, directly influ
 [Data](articles/d2cab081.json)
 
 [Extended Data](ext_articles/d2cab081.ext.json)
-
----
-
-### Seylan Cards partners with FitsAir to continue its swipe and win promo
-
-*2024-12-02 01:38:00* · [`islandlk`](http://island.lk/seylan-cards-partners-with-fitsair-to-continue-its-swipe-and-win-promo/) · `en`
-
-Seylan Cards, the Essential Card for Heartfelt Essentials, has partnered with FitsAir to continue its Swipe and Win promo. This initiative follows the success of previous iterations, where Seylan Cards rewarded customers with airline tickets to exciting destinations such as Singapore and the Maldives. Now, Seylan Card holders have another opportunity to win free airline tickets to Dubai. One lucky Seylan Card holder will have the chance to win two airline tickets to Dubai, on a monthly basis, starting from October 1st till December 31st , 2024.
-
-With 6 tickets for 3 winners up for grabs, Seylan Card holders need to carry out a minimum transaction of Rs. 5,000 using their Seylan Credit Card to enter the draw. The more transactions they make, the higher their chances of winning. Seylan Bank will announce the winners monthly, ensuring transparency and fairness in the selection process.
-
-...
-
-[Data](articles/507278e0.json)
-
----
-
-### IIHS launches professional bachelors in oral hygiene and dental therapy
-
-*2024-12-02 01:36:00* · [`islandlk`](http://island.lk/iihs-launches-professional-bachelors-in-oral-hygiene-and-dental-therapy/) · `en`
-
-The International Institute of Health Sciences (IIHS) recently celebrated the launch of its pioneering Professional Bachelors in Dental Therapy and Oral Hygiene.
-
-This transformative program is tailored to equip dental professionals with advanced, specialized skills, addressing the evolving needs of oral healthcare within the country and ultimately enhancing public health outcomes.
-
-At the launch, the dignatories included Dr. Ananda Jayalal, Deputy Director General of Health Services at the Ministry of Health, and Prabashini Kamaradiwela, President of the Government School Dental Therapists Association, who emphasized the shared mission of enhancing oral health standards and accessibility.
-
-...
-
-[Data](articles/7d8c0327.json)
 
 ---
 
@@ -2403,5 +2299,169 @@ A civilized political culture of the opponent is to congratulate the victory for
 [Data](articles/195fc73b.json)
 
 [Extended Data](ext_articles/195fc73b.ext.json)
+
+---
+
+### Segura of Muslim politics
+
+*2024-12-01 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200131) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Seku Isadheen: Muslim politics leader, champion of Muslim rights & nationalism. Founded Muslim Congress, advocated for separate Muslim province. Key figure in Sri Lankan Muslim political history.
+
+🟩
+
+When I heard that Vedanti MH Seku, who is considered to be the commander of the Muslim unique identity politics, heard that Izadeen was ill, it seemed to me that the entire Muslim politics was lying in bed.
+
+Seku Isadheen died a few days ago, speaking and writing about the social liberation, existence and rights, for social liberation, existence and rights.
+
+The death of Seku Istin, which emphasized the unique politics of the Muslims, has been in a state of disrepair, although a section of the Muslim community has begun to move towards the great parties during this period of political disorders for Muslims.
+
+Vedanti Seku is celebrated by the Eastern Muslims. Still many have not seen. In the political environment that day, people did not vote for him and did not choose directly. History is that time appointed him on the national list.
+
+...
+
+[Data](articles/4ecdff37.json)
+
+[Extended Data](ext_articles/4ecdff37.ext.json)
+
+---
+
+### China's plan and Anura's
+
+*2024-12-01 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200136) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka aims to attract 4 million tourists, doubling its current target. China may send 3 million tourists, raising concerns about infrastructure capacity. Tourism is crucial for Sri Lanka's economy, but challenges remain in achieving these ambitious goals.
+
+🟩
+
+President Anura Kumara Dissanayake presented the policy speech in Parliament, referring to the creation of a tourist economy of $ 8 billion.
+
+“We are aware of the ability to make a huge leap in tourism. The project has been prepared. Accordingly, in his speech, he said he would make efforts to bring 4 million tourists to the country. ”
+
+But he has not released any other details about the plan or the methods.
+
+In 2018, he pointed out that 2.3 million tourists visited. It was the year that Sri Lanka was attracted to the highest tourists in the same year.
+
+He may have wanted to realize that it was not difficult for Sri Lanka to attract 2.3 million tourists six years ago.. But this goal of the president is not easy.
+
+In 2019, the plan was to attract 2.5 million tourists. In the first three months, more than 7.5 lakh tourists arrived in Sri Lanka.
+
+But that year, about 1.9 million tourists were able to bring to Sri Lanka.The Easter Sunday bomb had had a major impact on the arrival of tourists.
+
+...
+
+[Data](articles/73d03e08.json)
+
+[Extended Data](ext_articles/73d03e08.ext.json)
+
+---
+
+### The threat of life all over the world for humanitarian workers
+
+*2024-12-01 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200133) · `ta`
+
+Here's a 200-character summary of the text:
+
+
+
+UN report: 281 charity workers killed globally this year, highest ever. 333 in Gaza since Oct 7, 2023. NGOs provide aid despite threats. International laws protect workers but often violated. Condemnations from UN and world powers ineffective against state actors involved in killings.
+
+🟩
+
+In a statement issued by the United Nations, the employees of humanitarian charity have been killed in an unprecedented way this year.. A total of 281 charity employees have been murdered in 19 countries around the world. That is the highest number of world history so far. The number was 280 last year.
+
+Of the 268 charities who have been murdered this year, 268 are employed at home for the work of international and domestic NGOs. The report says 13 are direct employees of international corporations.
+
+The Safety Database of the Thonda Company is continuously gathering data, including a security threat faced by NGO employees.. These details were submitted to the United Nations based on the statistics of the organization that gathered data from 1990 in 1990.
+
+One -third of the humanitarian workers killed this year have been killed by Israeli soldiers in the Palestinian regions.. Of the 178 murderers, 175 were killed in the Gaza region and three in the West Bank.
+
+...
+
+[Data](articles/cb460584.json)
+
+[Extended Data](ext_articles/cb460584.ext.json)
+
+---
+
+### Increase in AIDS in Sri Lanka compared to last years
+
+*2024-12-01 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203927) · `si`
+
+AIDS cases surge in Sri Lanka: 200-2021 infections increased twofold in 2022-23. Young adults (15-24) account for 15%. Health Ministry organizes march on World AIDS Day. Prime Minister calls for societal commitment to eradicate disease.
+
+🟩
+
+Sri Lanka is considered to be a country of AIDS as compared to the entire world.
+
+However, the health sector points out that this year shows the increase in the distribution of AIDS in this year compared to last years.
+
+Commenting in this regard, the Director of the National STD / AIDS Control Program Director Dr. Vinditi Kharipaleli said that in 2022-23 over the year 2020-21,
+
+"AIDS led to between 200-2021 in 2020-2021.  නමුත් 2022-2023 වසරවල එම තත්ත්වය දෙගුණක් වෙලා තියෙනවා. In the last 10 years, the trend of the increase in the new infectedists of AIDS is seen in the past 10 years. 15% of these patients are young age 15- 24 years old. "
+
+Meanwhile, a march organized by the Ministry of Health has commenced a march organized by the Ministry of Health in parallel to the World AIDS eradication date.
+
+Prime Minister Dr. Welii Amarasuriya stated that it is the responsibility of building a conviction society to eradicate AIDS from the country.
+
+◼️
+
+[Data](articles/5e8d1bec.json)
+
+[Extended Data](ext_articles/5e8d1bec.ext.json)
+
+---
+
+### The ICC roots roots begin chairs J Shah begins work
+
+*2024-12-01 13:17:32* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී-මුල්-පුටු​වේ-ජේ-ෂා-වැඩ-අරඹයි/9-413373) · `si`
+
+Here's a 200-character summary:
+
+
+
+ICC Chairman Lehend starts work today (01). Previously Secretary of Indian Cricket Board.
+
+🟩
+
+The International Cricket Council (ICC) Chairman Lehend has commenced working from today (01).
+
+He worked as the Secretary of the Indian Cricket Board yesterday.
+
+◼️
+
+[Data](articles/73563690.json)
+
+[Extended Data](ext_articles/73563690.ext.json)
+
+---
+
+### Latest Notification of Vehicles
+
+*2024-12-01 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203926) · `si`
+
+CEBS expects vehicle imports to start in Feb 2024. President to discuss import process. Ministry of Finance to create policy. Central Bank allocates funds. IMF approves vehicle imports. Over 600 importers to benefit.
+
+🟩
+
+The Ceylon Vehicle Importers Association (CEBS) says it is expected to be started from February to the next year.
+
+At a press conference held in Colombo, they said that they would look forward to discussing with the President to carry out the process with a proper mechanism.
+
+The President of the Ceylon Vehicle Importers Association Indika Sampath Merriyman said
+
+...
+
+[Data](articles/089bf45e.json)
+
+[Extended Data](ext_articles/089bf45e.ext.json)
 
 ---

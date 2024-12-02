@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 17:44:23**
+As of **2024-12-02 18:03:41**
 
 ## Newspaper Stats
 
-*Scraped **58,064** Articles*
+*Scraped **58,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
 adalk | 5,488
-adaderanalk | 7,037
+adaderanalk | 7,041
 tamilmirrorlk | 8,254
 virakesarilk | 9,500
 adaderanasinhalalk | 10,033
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,056 (100.0%) of 58,064 articles have been extended.
+58,056 (100.0%) of 58,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,6 +68,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Police seek public assistance to trace suspect in ATM fraud
+
+*2024-12-02 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103933/police-seek-public-assistance-to-trace-suspect-in-atm-fraud-) · `en`
+
+Sri Lanka Police is seeking public assistance in apprehending a suspect linked to withdrawal of a large sum of money from a stolen ATM card.
+
+Bandaragama Police had launched an investigation into an incident involving the misappropriation of Rs. 200,000 using a stolen ATM card in the Bandaragama area on August 21.
+
+After reviewing the CCTV footage of the cameras installed near the ATM machine in Bandaragama where the theft occurred, the suspect has been identified.
+
+Accordingly, any information regarding the relevant suspect is requested to be provided through the following contact numbers:
+
+◼️
+
+[Data](articles/58253595.json)
+
+---
+
 ### Special notice on ministers' concessions
 
 *2024-12-02 17:10:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-சலுகைகள்-தொடர்பில்-விசேட-அறிவிப்பு/175-348126) · `ta`
@@ -92,6 +110,28 @@ Prime Minister Harini Amarasuriya and President's Secretary Dr. Nandika Sanath K
 
 ---
 
+### 2024 O/L exam application deadline extended
+
+*2024-12-02 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103932/2024-ol-exam-application-deadline-extended) · `en`
+
+The deadline for accepting applications for the 2024 (2025) G.C.E. Ordinary Level examination has been extended until December 10, 2024, the Department of Examinations announced.
+
+The Commissioner General of Examinations, Amith Jayasundara stated that this decision was made in view of the recent adverse weather conditions that affected communities across the island.
+
+Initially, the relevant applications were called online from November 05 to November 30, 2024.
+
+Meanwhile, the department highlighted that only applications sent online, via its official websites - www.doenets.lk or www.onlineexams.gov.lk/eic will be accepted.
+
+Accordingly, all school applicants must submit their exam applications through their school principals while private applicants are allowed to apply for the examination personally by them.
+
+Any inquiries regarding the submission of applications can be made through hotline 1911 or contact numbers 0112784208/ 0112784537/ 0112785922 or email address: gceolexamsl@gmail.com
+
+◼️
+
+[Data](articles/4aa795d6.json)
+
+---
+
 ### විරෝධතාකරුවන් සිව්දෙනා රක්ෂිත බන්ධනාගාර ගත කෙරේ
 
 *2024-12-02 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203963) · `si`
@@ -107,6 +147,28 @@ Prime Minister Harini Amarasuriya and President's Secretary Dr. Nandika Sanath K
 ◼️
 
 [Data](articles/6438a9b1.json)
+
+---
+
+### Four arrested during development officers’ protest remanded
+
+*2024-12-02 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103931/four-arrested-during-development-officers-protest-remanded) · `en`
+
+The four protestors arrested during a tense situation in front of the Ministry of Education today (02) have been ordered to be remanded until December 10.
+
+This order was issued after they were produced before Kaduwela Magistrate’s Court, Ada Derana reporter said.
+
+A tense situation was reported in front of the Ministry of Education at Isurupaya, Battaramulla as the police attempted to disperse protesting Development Officers this afternoon.
+
+The Development Officers had engaged in the demonstration demanding that they be made permanent in the teaching service.
+
+Earlier, it was reported that the Kottawa - Borella Road (174 bus route) was completely blocked for traffic in front of the Ministry of Education due to the protest by Development Officers.
+
+Meanwhile, three police officers including a Sub-Inspector have reportedly been injured during the incident with one of them in the ICU.
+
+◼️
+
+[Data](articles/b739b9bb.json)
 
 ---
 
@@ -131,6 +193,20 @@ The case was heard by Magistrate's Court Judge K. Krishnan on Monday (02).When K
 [Data](articles/09e30225.json)
 
 [Extended Data](ext_articles/09e30225.ext.json)
+
+---
+
+### Committee report on privileges of MPs and ex-Presidents presented to President
+
+*2024-12-02 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103930/committee-report-on-privileges-of-mps-and-ex-presidents-presented-to-president-) · `en`
+
+The report of the committee which was appointed to review the allowances, perks and privileges provided to Members of Parliament, Ministers and former Presidents has been handed over to President Anura Kumara Dissanayke.
+
+The report of the committee headed by former Supreme Court Justice K.T. Chitrasiri was handed over to the President at the Presidential Secretariat today (02), the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/305db76b.json)
 
 ---
 
@@ -2283,111 +2359,5 @@ The Department of Meteorology has announced that the sea will be temporarily blo
 [Data](articles/99059461.json)
 
 [Extended Data](ext_articles/99059461.ext.json)
-
----
-
-### Fatal accidents that have been killed
-
-*2024-12-02 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203946) · `si`
-
-Here's a summary of the fatal motorcycle accidents in approximately 200 characters:
-
-
-
-Multiple fatal motorcycle accidents reported: 3 deaths in Seeduwa, Pamunugama, Embilipitiya, and Kadawatha. Accidents involved collisions with power lines, lorries, and cabs. Victims aged 26-39. Investigations ongoing.
-
-🟩
-
-Three persons and women were killed in motorcycle accidents yesterday (01).
-
-The accidents occurred in Seeduwa, Pamunugama, Embilipitiya and Kadawatha.
-
-The motorcycle raided at Liyanagemulla on the Colombo-Negombo road was caught up and collided with a power line from the Colombo-Negombo road.
-
-The motorcyclist, who was seriously injured in the accident, the boilway and two young children to the Negombo hospital have died.
-
-The deceased has been identified as a 39-year-old resident of the Marawila area.
-
-Meanwhile, a motorcycle traveling from Thaldland to Negombo on the Negument area on the Negombo road and a motorbike motorbike has collided with the motorcycle to Negombo.
-
-The motorcyclist who was seriously injured in the accident and was killed when he was admitted to Ragama Hospital.
-
-The victim is 26 year old resident of Kotahena.
-
-A motorbike rolling on Embilipitiya to Ratnapura from Embilipitiya to Ratnapura last night, a motorbike was reported in a lorry stopped.
-
-...
-
-[Data](articles/1a38317e.json)
-
-[Extended Data](ext_articles/1a38317e.ext.json)
-
----
-
-### New Chief Justice to take oath today
-
-*2024-12-02 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103910/new-chief-justice-to-take-oath-today) · `en`
-
-Supreme Court judge Justice Murdu Fernando is set to take the oath as Sri Lanka’s new Chief Justice today (02) before President Anura Dissanayake.
-
-This appointment follows the retirement of Chief Justice Jayantha Jayasuriya.
-
-Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
-
-Fernando joined the Attorney General’s Department as a state counsel, where she served for over 30 years having been promoted to senior state counsel, deputy solicitor general, additional solicitor general and senior additional solicitor general.
-
-She was appointed a President’s Counsel while serving as an additional solicitor general.
-
-She was later appointed as a Justice of the Supreme Court by then President Maithripala Sirisena in March 2018.
-
-◼️
-
-[Data](articles/a42406c0.json)
-
-[Extended Data](ext_articles/a42406c0.ext.json)
-
----
-
-### Request of Sajith's Ambassador to the Japanese Ambassador
-
-*2024-12-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203945) · `si`
-
-Sajith Premadasa requests Japanese Ambassador restore development projects in Sri Lanka. Opposition leader seeks to maintain strong ties between countries. Dr. Kavinda Jayawardena present during meeting.
-
-🟩
-
-Opposition Leader Sajith Premadasa has requested the Japanese Ambassador to the restoration of development projects.
-
-The Japanese Ambassador and Opposition Leader Sajith Premadasa was in Colombo, and the opposition leader had made this request, the opposition leader said.
-
-The Leader of the Opposition has requested the Ambassador to maintain a long-standing government duty relationship between Japan and Sri Lanka.
-
-The Opposition Leader has said that he will contribute to it.
-
-Opposition Leader Sajith Premadasa has said that the development projects implemented in Sri Lanka to re-implement the development projects implemented by Japan in the recent past.
-
-Dr. Kavinda Jayawardena represented the unique mass force for this occasion.
-
-◼️
-
-[Data](articles/1992c3fb.json)
-
-[Extended Data](ext_articles/1992c3fb.ext.json)
-
----
-
-### Several spells of showers expected in parts of the country
-
-*2024-12-02 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103909/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
-
-Several spells of showers will occur in Northern Province, the Department of Meteorology says.
-
-Strong winds of 40-45 kmph can be expected at times over Northern, North-central, North-western, Western, Central and Southern provinces.
-
-◼️
-
-[Data](articles/67f4407e.json)
-
-[Extended Data](ext_articles/67f4407e.ext.json)
 
 ---

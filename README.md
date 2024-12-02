@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 23:26:04**
+As of **2024-12-02 23:42:51**
 
 ## Newspaper Stats
 
-*Scraped **58,110** Articles*
+*Scraped **58,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 604
 islandlk | 3,490
-economynextcom | 3,525
+economynextcom | 3,528
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,495
+adalk | 5,496
 adaderanalk | 7,047
 tamilmirrorlk | 8,259
 virakesarilk | 9,518
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,110 (100.0%) of 58,110 articles have been extended.
+58,110 (100.0%) of 58,114 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -658,6 +658,24 @@ The Commission has established special units in all districts to reform the proc
 
 ---
 
+### Sri Lanka leader meets rice millers amid supply shortage risks after floods
+
+*2024-12-02 18:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-meets-rice-millers-amid-supply-shortage-risks-after-floods-191227/) · `en`
+
+ECONOMYNEXT – Facing a possible supply shortage in rice in the first quarter of 2025, Sri Lanka President Anura Kumara Dissanayake met small and medium-scale rice mill owners to discuss continuous and affordable supply of rice to consumers in the coming months, the President’s Media Division (PMD) said.
+
+The meeting comes days after heavy rains destroyed more than 20 percent of the paddy cultivation area in the island including the large paddy farmland districts of Ampara and Anuradhapura.
+
+People have already started grumbling about higher rice prices under the new government of President Dissanayake, who promised to reduce the prices, the local media have said.
+
+“During the discussion, the President emphasized the importance of ensuring a continuous and affordable supply of rice to consumers in the coming months. He engaged with the mill owners to identify immediate measures needed to achieve this goal,” the PMD said in a statement.
+
+...
+
+[Data](articles/cd9a1e17.json)
+
+---
+
 ### New secretary to the Ministry of Women and Child Affairs
 
 *2024-12-02 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203967) · `si`
@@ -789,6 +807,24 @@ The President also focused on the introduction of the QR index system with the a
 [Data](articles/76cc8e8d.json)
 
 [Extended Data](ext_articles/76cc8e8d.ext.json)
+
+---
+
+### ගංවතුර වන්දි වෙනුවෙන් රු. බිලියනයක් වෙන්කළොත් අක්කරයකට ලැබෙන්නේ රු. 2600යි
+
+*2024-12-02 17:42:36* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-වන්දි-වෙනුවෙන්-රු--බිලියනයක්-වෙන්කළොත්-අක්කරයකට-ලැබෙන්නේ-රු--2600යි/11-413411) · `si`
+
+වත්මන් ආණ්ඩුව ගංවතුරෙන් හානි වූ ගොවිබිම් සඳහා රුපියල් බිලියනයක මුදල් වෙන්කරන බවට ප්‍රකාශ කළද, ඉන් අක්කරයකට ලැබෙනුයේ රුපියල් 2600ක් වැනි සුළු මුදල් ප්‍රමාණයක් බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා පැවසීය.
+
+සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ අද (02දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“පසුගිය දිනවල ඇති වුණ ගංවතුර තත්ත්වය හේතුවෙන් රටේ අක්කර තුන් ලක්ෂ අසූදහසකට ආසන්න ගොවිබිම් ප්‍රමාණයක් ජලයෙන් යටවෙලා තිබෙනවා. ගංවතුරෙන් හානියට පත් මෙම ඉඩම් සඳහා වන්දි ලබා දෙන්න රජය රුපියල් බිලියනයක් වෙන්කරලා තිබෙනවා. මේ අනුව එක අක්කරයකට රුපියල් 2600ක් වගේ සොච්චම් මුදලක් තමයි වෙන්කරලා තිබෙන්නේ.
+
+...
+
+[Data](articles/10352515.json)
 
 ---
 
@@ -1211,6 +1247,26 @@ The Central Bank said the real effective exchange rate against the basket of 24 
 [Data](articles/94910f8f.json)
 
 [Extended Data](ext_articles/94910f8f.ext.json)
+
+---
+
+### Sri Lanka rupee closes flat at 290.65/70 to dollar, bonds steady
+
+*2024-12-02 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-290-65-70-to-dollar-bonds-steady-191153/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 290.65/70 to the US dollar on Monday from 290.65/75 to the US dollar on Friday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed at 9.35/45 percent, down from 9.45/60 percent.
+
+A bond maturing on 15.10.2027 closed stable at 10.20/30 percent.
+
+A bond maturing on 15.02.2028 closed down at 10.40/45 percent, from 10.30/45 percent.
+
+A bond maturing on 15.09.2029 closed at 10.85/90 percent, up from 10.70/85 percent. (Colombo/Dec2/2024)
+
+◼️
+
+[Data](articles/7467d1eb.json)
 
 ---
 
@@ -1878,6 +1934,24 @@ Three people who were traveling in the car were injured during the accident and 
 
 ### Sri Lanka eyes mini marinas in 21 fishery harbours to push blue economy
 
+*2024-12-02 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-mini-marinas-in-21-fishery-harbours-to-push-blue-economy-191144/) · `en`
+
+ECONOMYNEXT – Sri Lanka has untapped potential in marine linked activities, with 1,340 kilometres of coastline and two seasons that allow year-round action, and can be expanded into a billion US dollar industry quickly, an industry official said.
+
+“The geographical location offers yacht chartering, boating, whale watching, whatever you call, all the sea-based activities,” Kaushal Rajapaksa, Chairman, Chamber of Marine Industries of Sri Lanka told participants of Voyage Sri Lanka 2024, a forum organized by the island’s Export Development Board.
+
+“You can enjoy the sea year-round as well as sea-based activities. Expanding technological capacity and maritime services, we have advanced capabilities in boat building and whatever the activity is related to maritime.”
+
+Despite the long coastline, and domestic manufacturers of leisure boats, there was a dearth of yacht marinas to get the sector moving.
+
+...
+
+[Data](articles/a77807fa.json)
+
+---
+
+### Sri Lanka eyes mini marinas in 21 fishery harbours to push blue economy
+
 *2024-12-02 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-expand-blue-economy-with-mini-marinas-in-21-fishery-harbours-official-191144/) · `en`
 
 ECONOMYNEXT – Sri Lanka has untapped potential in marine linked activities, with 1,340 kilometres of coastline and two seasons that allow year-round action, and can be expanded into a billion US dollar industry quickly, an industry official said.
@@ -2409,105 +2483,5 @@ Police have also seized two cars used for theft and the suspects are to be produ
 [Data](articles/28e3dda5.json)
 
 [Extended Data](ext_articles/28e3dda5.ext.json)
-
----
-
-### Sri Lanka’s new Chief Justice Murdu Fernando
-
-*2024-12-02 12:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-chief-justice-murdu-fernando-146813/) · `en`
-
-ECONOMYNEXT – Supreme Court justice Murdu Nirupa Bidushinie Fernando was officially sworn in as the chief justice of Sri Lanka before President Anura Dissanayake on Monday.
-
-Fernando assumes office as the 48th chief justice of Sri Lanka, succeeding Jayantha Jayasuriya.
-
-Her appointment received approval from the constitutional council, the president’s media division said in a statement.
-
-She began her career at the Attorney General’s Department in 1985, becoming Deputy Solicitor General in 1997 and Additional Solicitor General in 2014.
-
-She has over three decades of service as a State Counsel, and was appointed to the Supreme Court in March 2018.
-
-She was the most Senior Supreme Court Justice prior to her appointment, and also served as Senior Additional Solicitor General at the Attorney General’s Department.
-
-Fernando earned her Bachelor of Laws degree from the Faculty of Law, University of Colombo.
-
-◼️
-
-[Data](articles/4a4be92a.json)
-
-[Extended Data](ext_articles/4a4be92a.ext.json)
-
----
-
-### Death Clock Clock
-
-*2024-12-02 12:19:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மரணத்தை-கணிக்கும்-மரணக்-கடிகாரம்/53-348107) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-AI-powered "Death Clock" app predicts death dates based on daily routines. Released July 2022, over 125k downloads. Trained on 1,200+ life-threatening surveys with 53 million participants. Predicts death likelihood using diet, exercise, stress, sleep data. Accuracy disputed. Attracted interest from health enthusiasts, economists, and financial planners.
-
-🟩
-
-Many people are currently talking about the "Death Clock" application run by artificial intelligence, which can predict the date of his death with one's daily routine.
-
-The "Death Clock" processor run by artificial intelligence is said to have been released last July and more than 125,000 users downloaded. The scheme is said to have attracted not only those who are interested in health but also the attention of economists and financial planners.. It is said that the "death clock" can make more accurate predictions with the power of artificial intelligence.
-
-"Death Clock" is the creator of "most days" and chief executive officer Brent Francon's thought. Artificial Intelligence "Death Clock" has been trained in the database of over 1,200 life -threatening surveys with about 53 million participants.
-
-...
-
-[Data](articles/c3268bc7.json)
-
-[Extended Data](ext_articles/c3268bc7.ext.json)
-
----
-
-### The trapped suspects joins the Colombo Port with 400 kg of ice drugs
-
-*2024-12-02 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203953) · `si`
-
-Colombo Port: 2 fishing vessels seized, 400kg ice drugs found. Sri Lanka Navy assisted Indian Navy operation. Suspects arrested on 24-25th. Drugs and vessels handed over on 29th. Operation concluded today with suspects brought ashore.
-
-🟩
-
-The two-country fishing vessels and the suspects were brought to the port of the Colombo port this morning.
-
-The vessel of the Sri Lanka Navy had joined the task.
-
-The Indian Navy took the two vessels after an exchange of intelligence between the Indian Navy and the Sri Lanka Navy.
-
-One of its vessels had about 400 kg of ice drugs and the other vessel had gone to support it.
-
-The Indian Navy was arrested by the Indian Navy on the 24th and 25 of the Sri Lankan suspects with the multi-day vessels.
-
-The Ice Drugs and the Thaguna TVs and the suspects were handed over by the Indian Navy to the ship on the 29th.
-
-Accordingly, the Navy has brought the Ice drugs, multi-day drug vessels and the suspects were brought to the ground today (02).
-
-◼️
-
-[Data](articles/5e404393.json)
-
-[Extended Data](ext_articles/5e404393.ext.json)
-
----
-
-### Lohan Ratwatte and wife further remanded
-
-*2024-12-02 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103921/lohan-ratwatte-and-wife-further-remanded) · `en`
-
-Former Minister Lohan Ratwatte and his wife have been further remanded until December 6, by the Nugegoda Magistrate’s Court today (02).
-
-Former Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte, who were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, had previously been remanded in custody until today (December 02) by the Nugegoda Magistrate’s Court.
-
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
-
-...
-
-[Data](articles/7f01148c.json)
-
-[Extended Data](ext_articles/7f01148c.ext.json)
 
 ---

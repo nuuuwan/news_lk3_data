@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 18:23:38**
+As of **2024-12-02 19:03:00**
 
 ## Newspaper Stats
 
-*Scraped **58,068** Articles*
+*Scraped **58,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,153 @@ islandlk | 3,490
 economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,488
+adalk | 5,489
 adaderanalk | 7,041
 tamilmirrorlk | 8,254
-virakesarilk | 9,500
-adaderanasinhalalk | 10,033
+virakesarilk | 9,507
+adaderanasinhalalk | 10,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,060 (100.0%) of 58,068 articles have been extended.
+58,067 (100.0%) of 58,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### New secretary to the Ministry of Women and Child Affairs
+
+*2024-12-02 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203967) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Ms. Olga appointed as Secretary to Ministry of Women and Child Affairs. President Anura Kumara Dissanayake made the appointment. Letter handed over to Presidential Secretariat on 02/2023.
+
+🟩
+
+KDR as Secretary to the Ministry of Women and Child Affairs. Ms. Olga has been appointed.
+
+The appointment was made by President Anura Kumara Dissanayake.
+
+The letter of appointment was handed over to the Presidential Secretariat today (02) at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/9ec7f08c.json)
+
+[Extended Data](ext_articles/9ec7f08c.ext.json)
+
+---
+
+### President discusses a special discussion with rice mill owners
+
+*2024-12-02 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203966) · `si`
+
+Pres. Anura Kumara Dissanayake meets rice mill owners. Discusses immediate rice prices, future consumer needs, & increasing storage capacity. Focuses on reducing stock consumption & promoting nadu rice. Introduces QR code system for fertilizer subsidy collection.
+
+🟩
+
+President Anura Kumara Dissanayake has held a special discussion with SMEs with SME Small and Medium Scale Mill Owners.
+
+The President pointed out to SMEs and medium scale rice mills with the immediate prices of rice and continuous consumers in the coming months.
+
+It was also discussed on the steps to increase storage facilities in the country to give the people without any shortage of rice.
+
+It also focused on the decrease in the necessary stocks for consumption as well as the use of nadu rice.
+
+President Anura Kumara Dissanayake also focused on the introduction of a QR code a system to interactively collecting the fertilizer subsidy.
+
+Trade, Commerce, Food Safety and Co-operative Development Wasantha Samarasinghe, Lak Sathosa Chairman Dr. Society, Dr. Savali Perera and SMEs and small and medium scale rice mills were also present.
+
+◼️
+
+[Data](articles/2880682e.json)
+
+[Extended Data](ext_articles/2880682e.ext.json)
+
+---
+
+### Grama Niladhari arrested for refusing to feed floods in Jaffna
+
+*2024-12-02 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200257) · `ta`
+
+Jaffna: Grama Niladhari arrested for refusing aid during floods. Two individuals detained after alleged conflict over food distribution. Families protest, police promise impartial investigation.
+
+🟩
+
+Two persons have been arrested for allegedly conflicting with the village servant for allegedly refusing to provide food to some families who have been housed in intermediate camps due to flood disaster in Jaffna.
+
+Some families from Vadamarachchi and Kalvovalam area are staying in the interim camps due to floods.
+
+Some of them have been logical as the Grama Niladhari refused to provide food on Sunday (01).
+
+Subsequently, the Grama Niladhari had lodged a complaint at the Point Pedro Police Station that he had disrupted his duty.
+
+The victim's family staged a protest in front of the Vadamarachchi Northern Divisional Secretariat today (02), saying that the victim's families had lied to the reason for their duties and that the police had arrested two persons on the basis of the false complaint.
+
+Subsequently, the Superintendent of Police and the Divisional Secretary of the Point Pedro Police Station promised to carry out a non -partisan inquiries and take appropriate action.
+
+◼️
+
+[Data](articles/a93f8095.json)
+
+[Extended Data](ext_articles/a93f8095.ext.json)
+
+---
+
+### Discussion between President and Small and Central Rice Manufacturers
+
+*2024-12-02 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200260) · `ta`
+
+President discusses rice supply, pricing, and storage with small-medium mill owners. Focuses on maintaining affordable availability and increasing reserve capacity.
+
+🟩
+
+The President pointed out the need for continuous supply of rice to the people at reasonable prices without shortage.
+
+A discussion between President Anura Kumara Dissanayake and the owners of small and medium rice mills was held on Monday (02) at the Presidential Office.
+
+The president, speaking to the owners of small and medium rice mill in the coming months, discussed the need to continue to provide rice at a reasonable price without a shortage of consumers, and discussed the urgent measures to be taken.
+
+It was also discussed about the steps to be taken to increase the repository facilities in the country to provide rice to the people without scarcity.
+
+The use of the country's rice for the value of the products is also focused on the shortage of the reserves required for consumption.
+
+The President also focused on the introduction of the QR index system with the aim of using fertilizer subsidy with the effectiveness of national production.
+
+...
+
+[Data](articles/76cc8e8d.json)
+
+[Extended Data](ext_articles/76cc8e8d.ext.json)
+
+---
+
+### 13 persons arrested for 2.3 tonnes of cocaine
+
+*2024-12-02 17:25:25* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-මෙට්‍රික්-ටොන්-2-3ක්-සමග-පුද්ගලයන්-13-අත්අඩංගුවට/11-413410) · `si`
+
+Australian police arrest 13 individuals for 2.3 tonnes of cocaine, valued at $494 million. This is the largest drug seizure in Australian history.
+
+🟩
+
+The Australian police have arrested 13 people with 2.3 metric tons of cocaine.
+
+Foreign media reports that US $ 494 million is US $ 494 million in the street of cocaine.
+
+This is the largest drug consignment found in Australian history.
+
+◼️
+
+[Data](articles/de476a12.json)
+
+[Extended Data](ext_articles/de476a12.ext.json)
+
+---
 
 ### A Notification for O / L applicants
 
@@ -106,6 +238,86 @@ Accordingly, any information regarding the relevant suspect is requested to be p
 
 ---
 
+### Allu Arjun - Rashmika Mantana's Pushpa 2- 'Peelings'
+
+*2024-12-02 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200248) · `ta`
+
+Here's a 200-character summary of the text:
+
+
+
+"Pushpa 2: The Rule" stars Allu Arjun & Rashmika Mandanna. Directed by Sukumar, it features "Peelings," a popular song composed by Devi Sri Prasad. The film is released in multiple languages and has garnered over two million views for its energetic dance number.
+
+🟩
+
+The song 'Peelings' has been released in the movie 'Pushpa 2- The Rule' starring Allu Arjun Excise, who won the Indian National Award for Best Actor as the first part of 'Pushpa'.
+
+Directed by director Sukumar, Allu Arjun, Rashmika Mantana, Bhagat Fossil, Rao Ramesh, Dali Tananjaya, Sri Leela and many others have starred in the film 'Pushpa 2'. The film, which has been recorded by Kuba Prosec, has composed the film 'Rock Star' Devi Sri Prasad.
+
+Producer Naveen Jenerni and Vaiku on behalf of Maithri Movie Makers Company. Ravi Shankar has co -produced.
+
+The film, which is being released in Tamil, Telugu, Malayalam, Kannada and Hindi, has been released from the fifth day of the world.
+
+The song was written by songwriter Viveka, village music singers and playback singers Rajalakshmi - Senthil Ganesh.. The lyrics and dance featured in this song, which is being developed in the backdrop of an enthusiastic throat, has encouraged fans.
+
+...
+
+[Data](articles/39181780.json)
+
+[Extended Data](ext_articles/39181780.ext.json)
+
+---
+
+### Actor Shanmukha Pandian Vijayakanth's 'Sadi Thalavan'
+
+*2024-12-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200247) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Actor Shanmukha Pandian Vijayakanth stars in "Sivara Thavan" with song "U Mukkam Vaikkal". Directed by U. Shanmukha Pandiyan, featuring music by Ilayaraja. Produced by Sumith Saikal et al. Song written by Music Gnani, sung by Ananya Bhatt. Vikram Prabhu Kumki also stars.
+
+🟩
+
+After a short break, actor Shanmukha Pandian Vijayakanth has been released in the movie 'Sivara Thavan' and a song called 'U Mukkam Vaikkal ..'
+
+The music composer who composed it posted on his web page and congratulated the film crew.
+
+Director U. Shanmukha Pandiyan Vijayakanth, Yamini Chander, director and actor Kasturiraja, A.. Venkatesh, 'Garuda' Ram, Muniskant, Aruldas, Yuki Sethu, Rishi, Srijith Ravi and many others.
+
+S.. R. The film is composed by Sathishkumar and has composed the musician Ilayaraja.The film is being produced by Sumith Saikal - Jeganathan Paramasivam - Raju Kalidas on behalf of Sumith Arts -V Campans - Das Pictures.
+
+The film, which is scheduled to be released soon, has been released by the song 'Um Mukkam Pakkalla ..' and the lyrical video for the song.The song is written by the songwriter 'Music Gnani', written by Ilayaraja, playback singer Ananya Bhatt.
+
+The song, which is being created in the usual enchanting metal of the musician, has attracted his fans.
+
+...
+
+[Data](articles/083cba29.json)
+
+[Extended Data](ext_articles/083cba29.ext.json)
+
+---
+
+### 'இசை அசுரன்'  ஜீ. வி. பிரகாஷ் குமார் நடிக்கும் 'பிளாக்மெயில்' பட அப்டேட்
+
+*2024-12-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200244) · `ta`
+
+தேசிய விருது பெற்ற இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகருமான ஜீ. வி பிரகாஷ் குமார் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'பிளாக்மெயில்' எனும் திரைப்படத்தினை பற்றிய புதிய தகவல்களை படக்குழுவினர் பிரத்யேக புகைப்படத்துடன் வெளியிட்டுள்ளனர்.
+
+இயக்குநர் மு.மாறன் இயக்கத்தில் உருவாகி வரும் 'பிளாக்மெயில்' எனும் திரைப்படத்தில் ஜீ. வி. பிரகாஷ் குமார், தேஜு அஸ்வினி, ஸ்ரீகாந்த் , பிந்துமாதவி  'வேட்டை' முத்து குமார், ரெடின் கிங்ஸ்லி, ரமேஷ் திலக், ஹரி பிரியா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கோகுல் பினோய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார்.  கிரைம் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை ஜெ டி எஸ் ஃபிலிம் ஃபேக்டரி நிறுவனம் சார்பில் தயாரிப்பாளர் ஜெயக்கொடி அமல்ராஜ் தயாரித்திருக்கிறார்.
+
+இப்படத்தின் படப்பிடிப்பு பணிகள் முழுமையாக நிறைவடைந்து விட்டது என்றும், தற்போது இப்படத்தில் டப்பிங் பணிகள் தொடங்கப்பட்டிருக்கிறது என்றும் படக் குழுவினர் பிரத்யேகப் புகைப்படத்தை வெளியிட்டு உற்சாகமாக அறிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/0c03798f.json)
+
+---
+
 ### Special notice on ministers' concessions
 
 *2024-12-02 17:10:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-சலுகைகள்-தொடர்பில்-விசேட-அறிவிப்பு/175-348126) · `ta`
@@ -154,19 +366,19 @@ Any inquiries regarding the submission of applications can be made through hotli
 
 ---
 
-### විරෝධතාකරුවන් සිව්දෙනා රක්ෂිත බන්ධනාගාර ගත කෙරේ
+### අත්අඩංගුවටගත් විරෝධතාකරුවන් රක්ෂිත බන්ධනාගාර ගත කෙරේ
 
 *2024-12-02 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203963) · `si`
 
-අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට උස්ඝෝෂණයක් අතරතුරදී අද (02) අත්අඩංගුවට ගත් විරෝධතාකරුවන් සිව්දෙනා දෙසැම්බර් 10 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් බත්තරමුල්ල පැලවත්ත අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිටදී විරෝධතාවයේ යෙදී  සිටියදී කලාකාරී ලෙස හැසිරුණු බවට අත්අඩංගුවට ගත් පුද්ගලයන් සිව් දෙනෙකු අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු ලබන 10 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කඩුවෙල වැඩබලන මහෙස්ත්‍රාත් කමල් ප්‍රසන්න විජේසිරි මහතා අද (02) නියෝග කළේය.
 
-අදාළ විරෝධතාකරුවන් කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එම නියෝගය නිකුත්කළ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+අයුතු ජන රාශියක සාමාජිකයන්වීම සහ පොලිස් නිලධාරීන්ට තුවාල සිදුකිරීම යන චෝදනා යටතේ තලංගම පොලිසිය විසින් මෙම සැකකරුවන් අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
 
-පාසල්වල ඉගැන්වීම් කටයුතු සිදුකරන සංවර්ධන නිලධාරීන් අධ්‍යාපන අමාත්‍යංශය ඉදිරිපිට ආරම්භකළ විරෝධතාවය අතරතුර දී නොසන්සුන්කාරී තත්ත්වයක් හටගත්තේය.
+සැකකරුවන් අධිකරණයට ඉදිරිපත් කරමින් පොලීසිය පැවසුවේ මෙම සැකකරුවන් කලහකාරී ලෙස හැසිරෙමින් උප පොලිස් පරීක්ෂකවරයෙකු ඇතුළු පොලිස් නිලධාරීන් තිදෙනෙකුට තුවාල සිදුකර ඇති බවත් එම පොලිස් නිලධාරින් තිදෙනා කොළඹ ජාතික රෝහලේ සහ නැගෙනහිර කොළඹ මූලික රෝහලේ ප්‍රතිකාර ලබන බවයි.
 
-එහිදි කලහාකාරී ලෙස හැසිරුනු විරෝධතාකරුවන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+ඒ අනුව කරුණු සලකා බැලූ වැඩබලන මහෙස්ත්‍රාත්වරයා එම සැකකරුවන් සිව්දෙනා ලබන 10 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසත් එදිනට සැකකරුවන් හඳුනාගැනීමේ පෙරට්ටුවක් වෙත යොමුකරන ලෙසත් නියෝග කළේය.
 
-◼️
+...
 
 [Data](articles/6438a9b1.json)
 
@@ -252,6 +464,22 @@ The Central Bank said the real effective exchange rate against the basket of 24 
 
 ---
 
+### தற்போதைய அரசாங்கம் இரத்தத்தாலும் இரும்பினாலும் நசுக்கப்பட்ட வரலாற்று அனுபவத்தை நினைவுகூர்ந்து  பயங்கரவாத தடைச்சட்டத்தை விரைவில் இரத்துச்செய்யவேண்டும்- மக்கள் போராட்ட முன்னணி
+
+*2024-12-02 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200245) · `ta`
+
+தற்போதைய அரசாங்கம் இரத்தத்தாலும் இரும்பினாலும் நசுக்கப்பட்ட வரலாற்று அனுபவத்தை நினைவுகூர்ந்து பாராளுமன்றத்தின் அதிகாரத்தை பயன்படுத்தி பயங்கரவாத தடைச்சட்டத்தை விரைவில் இரத்துச்செய்யவேண்டும் என மக்கள் போராட்ட முன்னணியின் செயற்குழு வேண்டுகோள் விடுத்துள்ளது.
+
+சமூக ஊடகங்கள் மற்றும் பத்திரிகைகளில் வெளியான அறிக்கைகள் மற்றும் கருத்துக்களின் அடிப்படையில் ரத்துச் செய்யப்பட வேண்டிய அடக்குமுறைச் சட்டமான 1979 ஆம் ஆண்டின் 48 ஆம் இலக்க பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் நவம்பர் 30 மற்றும் டிசம்பர் 01 ஆகிய திகதிகளில் பொலிஸார் நான்கு பேரைக் கைது செய்ததோடு அவர்கள் தொடர்பான விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+ஆனால் அந்த நபர்கள் மீது பொதுச் சட்டத்தின் கீழ் குற்றம் சாட்டப்பட்டுள்ளதோடு ஒருவர் பிணையில் விடுவிக்கப்பட்டுள்ளார். தற்போதைய அரசாங்கம் மிகக் குறுகிய காலத்திற்குள் பயங்கரவாதத் தடைச் சட்டத்தைப் பயன்படுத்தி மக்களைக் கைது செய்து தடுத்து வைப்பது இது இரண்டாவது தடவையாகும். முன்னதாகஇ அறுகம் குடா சம்பவம் தொடர்பாக மூவர் கைது செய்யப்பட்டுஇ பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் தடுப்பு உத்தரவு பிறப்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/8a9fada6.json)
+
+---
+
 ### මැති ඇමති සහ හිටපු ජනපතිවරුන්ගේ වරප්‍රසාද ගැන සොයා බැලීමට පත්කළ චිත්‍රසිරි කමිටුවේ වාර්තාව ජනපතිට
 
 *2024-12-02 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203962) · `si`
@@ -285,6 +513,24 @@ The Central Bank said the real effective exchange rate against the basket of 24 
 ◼️
 
 [Data](articles/df881ff0.json)
+
+---
+
+### மோகன்லால் நடிக்கும் ' எம்புரான் ' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-12-02 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200240) · `ta`
+
+மலையாள திரையுலகின் முன்னணி நட்சத்திர நடிகரான மோகன்லால் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'எம்புரான் ' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+முன்னணி நட்சத்திர நடிகரும், இயக்குநருமான பிரித்விராஜ் சுகுமாறன் இயக்கத்தில் உருவாகி வரும் ' எம்புரான் ' எனும் திரைப்படத்தில் மோகன்லால், பிரித்விராஜ் சுகுமாறன், மஞ்சு வாரியர், டொவினோ தோமஸ், இந்திரஜித் சுகுமாறன், சுராஜ் வெஞ்ரமூடு, சானியா ஐயப்பன், சாய்குமார் , பசுபதி, பாபி சிம்ஹா, சைன் டேம் சாக்கோ, அர்ஜுன் தாஸ், ஷஃரப் உதீன், ஜான் விஜய் , மனோஜ் கே. ஜெயன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+சுஜித் வாசுதேவ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு தீபக் தேவ் இசையமைத்திருக்கிறார். எக்சன் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் மற்றும் ஆசீர்வாத் சினிமாஸ் ஆகிய நிறுவனங்கள் இணைந்து பிரம்மாண்டமான பொருட்செலவில் தயாரிக்கிறது.
+
+இப்படத்தின் படப்பிடிப்பு அண்மையில் முழுமையாக நிறைவடைந்தது. தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் தொடங்கப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/c3e7b0e2.json)
 
 ---
 
@@ -586,7 +832,7 @@ Access Engineering saw investor interest; the share closed up at 28.50.
 
 Tokyo Cement was up at 60.60. ACL Cables was up at 95.80. Jat Holdings was up at 21.40. Lanka Aluminium was up at 28.50.
 
-Sierra Cables, for which Iconic Trust has announced a mandatory offer, close down at 10.70.
+Sierra Cables, for which Iconic Trust has announced a mandatory offer, closed down at 10.70.
 
 ...
 
@@ -2139,247 +2385,5 @@ Therefore, it has been reported today (informed that the traffic has been opened
 [Data](articles/24ee5866.json)
 
 [Extended Data](ext_articles/24ee5866.ext.json)
-
----
-
-### Biden says he has pardoned his son, Hunter
-
-*2024-12-02 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103913/biden-says-he-has-pardoned-his-son-hunter) · `en`
-
-U.S. President Joe Biden said on Sunday he had pardoned his son, Hunter Biden, who had been convicted of making false statements on a gun background check and illegally possessing a firearm and pled guilty to federal tax charges.
-
-“Today, I signed a pardon for my son Hunter. From the day I took office, I said I would not interfere with the Justice Department’s decision-making, and I kept my word even as I have watched my son being selectively, and unfairly, prosecuted,” he said in a statement released by the White House.
-
-The White House had said repeatedly that Biden would not pardon or commute the sentences of his son, a recovering drug addict who became a target of Republicans, including President-elect Donald Trump.
-
-“No reasonable person who looks at the facts of Hunter’s cases can reach any other conclusion than Hunter was singled out only because he is my son,” Biden said.
-
-...
-
-[Data](articles/d2b15bea.json)
-
-[Extended Data](ext_articles/d2b15bea.ext.json)
-
----
-
-### Youth murdered by a sharp weapon
-
-*2024-12-02 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200192) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Youth, 17, arrested for murder with sharp weapon in Oyamaduwa-Navodagama area. Investigation ongoing.
-
-🟩
-
-A man was killed in a sharp weapon on Sunday (01) in the Oyamaduwa - Navodagama area.
-
-Investigations have revealed that the murder was attacked by a sharp weapon for violating the two men.
-
-A 17 -year -old youth from the same area has been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/c3620125.json)
-
-[Extended Data](ext_articles/c3620125.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 290.60/80 to dollar, bond yields steady
-
-*2024-12-02 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-290-60-80-to-dollar-bond-yields-steady-191085/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened more or less flat at 290.60/80 to the US dollar on Monday from 290.65/75 to the US dollar on Friday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2027 was quoted at 10.20/35 percent, up from 10.20/30 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.35/45 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 10.70/85 percent.
-
-In equities, the All Share Price Index was up 0.08 percent or 10.06 points, at 13,199. The more liquid S&P SL20 was up 0.03 percent, or 1.17 points, at 3,906.
-
-◼️
-
-[Data](articles/c4f260bb.json)
-
-[Extended Data](ext_articles/c4f260bb.ext.json)
-
----
-
-### Sajith urges Japan to resume halted development projects in SL
-
-*2024-12-02 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103912/-sajith-urges-japan-to-resume-halted-development-projects-in-sl) · `en`
-
-Opposition Leader Sajith Premadasa has urged Japanese Ambassador to Sri Lanka, Akio Isomata, to resume development projects that were halted midway.
-
-A meeting between the Japanese ambassador Akio Isomata and the opposition leader Sajith Premadasa was held in Colombo where the opposition leader made this request, the opposition leader’s media division said.
-
-Sajith Premadasa has requested the ambassador to maintain the strong and long-standing diplomatic ties between Japan and Sri Lanka.
-
-The opposition leader has also called for the reimplementation of Japanese development projects that were previously carried out in Sri Lanka, stating that he will provide all the necessary support for their implementation.
-
-Dr. Kavinda Jayawardena representing the Samagi Jana Balawegaya (SJB) also attended the discussion.
-
-◼️
-
-[Data](articles/b1073012.json)
-
-[Extended Data](ext_articles/b1073012.ext.json)
-
----
-
-### The price of coconut has touched the peak
-
-*2024-12-02 09:28:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-உச்சம்-தொட்டது/175-348087) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Coconut prices soar 200 rupees due to scarcity. Rice manufacturers claim total price exceeds government control, impacting retail costs.
-
-🟩
-
-Coconut prices have risen by up to 200 rupees due to shortage of coconuts in the market.
-
-The United Rice Manufacturers Association has pointed out that the total price of rice has increased over the government's control price for retail rice. Remble
-
-◼️
-
-[Data](articles/88148f1b.json)
-
-[Extended Data](ext_articles/88148f1b.ext.json)
-
----
-
-### 192,500 million rupees for auction
-
-*2024-12-02 09:11:44* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-192-500-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-413391) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Central Bank Sri Lanka auctioned Treasury bills worth 192,500 million rupees. Bids were accepted at 11:00 PM with a minimum amount requirement.
-
-🟩
-
-The Central Bank of Sri Lanka announced that a Treasury bill auction was held on December 4.
-
-The Treasury Bills of Rs. 58,500 million and Rs. 67 million, Rs.
-
-The Central Bank announced that the acceptance of the bids for the auction will be held at 11.00 pm and the minimum amount of Rs.
-
-◼️
-
-[Data](articles/920df3df.json)
-
-[Extended Data](ext_articles/920df3df.ext.json)
-
----
-
-### Announcement on LG Elections postponed until after A/L Exam
-
-*2024-12-02 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103911/announcement-on-lg-elections-postponed-until-after-al-exam) · `en`
-
-It is reported that the announcement regarding the upcoming Local Government (LG) Elections will be issued after the conclusion of the 2024 G.C.E. Advanced Level Examination.
-
-The Election Commission stated that if the announcement is made beforehand, candidates may begin their campaigns during the exam period,
-
-Accordingly, it has been decided not to release the announcement regarding the election until the examination is over as it will disrupt the examination
-
-Due to adverse weather conditions, the examination was postponed for several days, but the relevant activities are expected to resume this week.
-
-Meanwhile, a meeting of party leaders regarding the LG Elections is scheduled for tomorrow (3).
-
-This meeting, which will be chaired by the Leader of the House, Bimal Rathnayake, is scheduled to be held tomorrow afternoon.
-
-A final decision will also be made regarding the calling of the nominations related to the LG Elections again.
-
-...
-
-[Data](articles/810c4e9b.json)
-
-[Extended Data](ext_articles/810c4e9b.ext.json)
-
----
-
-### The new Chief Justice today
-
-*2024-12-02 09:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-நீதியரசர்-இன்று-சத்தியப்பிரமாணம்/175-348086) · `ta`
-
-Sri Lanka: Supreme Court Justice Murdu Fernando sworn in as new Chief Justice today. Replaces Jayantha Jayasuriya. Appointed High Court Judge in 2018. Nominated by President Anura Kumara Dissanayake. Remble
-
-🟩
-
-Supreme Court Justice Murdu Fernando will be sworn in as the new Chief Justice of Sri Lanka today (02) in the presence of President Anura Kumara Dissanayake.
-
-Chief Justice Jayantha Jayasuriya retired, Murdh Fernando was nominated for the post.
-
-He joined the Attorney General's Department in 1985 and was promoted to the Deputy Solicitor General in 1997 and the Additional Solicitor General of 2014.
-
-He was appointed as the High Court Judge in March 2018 and was appointed as the Chief Justice on October 10, 2024.. Remble
-
-◼️
-
-[Data](articles/3951af36.json)
-
-[Extended Data](ext_articles/3951af36.ext.json)
-
----
-
-### Sri Lanka private credit up for the sixth month, credit to govt flat
-
-*2024-12-02 08:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-up-for-the-sixth-month-credit-to-govt-flat-191082/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit expanded for the sixth month in October 2024, rising 74 billion rupees, while credit to government from banks was rose marginally after falling in the previous month, central bank data showed.
-
-Private credit has expanded 493 billion over the past six months as economic activity continued to recover.
-
-Credit to government from commercial banks expanded only 7 billion rupees, after falling in the past two months, as the budget deficit was contained.
-
-◼️
-
-[Data](articles/985bdd9c.json)
-
-[Extended Data](ext_articles/985bdd9c.ext.json)
-
----
-
-### Weather
-
-*2024-12-02 08:43:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலையில்-மீண்டும்-ஏற்பட்ட-மாற்றம்/175-348085) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Northern Province: Rain expected. Galle & Matara: Some rainfall. Strong winds (40-45km/h) in North, Central, South. Thunderstorms in Puttalam-Kankesanthurai area. Turbulent seas from Puttalam to Hambantota. Wave heights 2.5-3m. Stormy conditions in affected areas."
-
-🟩
-
-The Department of Meteorology has predicted rain in the Northern Province several times today.
-
-The new weather forecast has stated that the department has announced that there will be some rainfall in Galle and Matara districts.
-
-In the North, North Central, North Western, Western, Central and Southern Provinces, strong winds may be at speeds of 40-45 km / h.
-
-Rainfall or thundershowers will occur in areas from Puttala to Kankesanthurai via Trincomalee.
-
-The seas from Puttalam to Colombo, Galle and Hambantota via Pottuvil Trincomalee are occasionally somewhat turbulent.
-
-The height of the sea wave in the seas from Puttalam to Hambantota via Galle is likely to increase from about 2.5 - 3.0 meters.
-
-The Department of Meteorology has announced that the sea will be temporarily blowing in the seas with thunderstorms and then the sea areas will be very turbulent for a while.. Remble
-
-◼️
-
-[Data](articles/99059461.json)
-
-[Extended Data](ext_articles/99059461.ext.json)
 
 ---

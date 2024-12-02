@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 10:15:50**
+As of **2024-12-02 09:42:54**
 
 ## Newspaper Stats
 
-*Scraped **57,973** Articles*
+*Scraped **57,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,103 +16,21 @@ islandlk | 3,487
 economynextcom | 3,517
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,472
+adalk | 5,471
 adaderanalk | 7,020
-tamilmirrorlk | 8,236
-virakesarilk | 9,489
-adaderanasinhalalk | 10,017
+tamilmirrorlk | 8,234
+virakesarilk | 9,488
+adaderanasinhalalk | 10,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,970 (100.0%) of 57,973 articles have been extended.
+57,964 (100.0%) of 57,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### ජෝ බයිඩන් සිය පුත්‍රයා ට ජනාධිපති සමාව දෙයි
-
-*2024-12-02 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203948) · `si`
-
-අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සිය පුත්‍රයා වන හන්ටර් බයිඩන් ට සමාව දෙමින් නිල නිවේදනය නිකුත්කර තිබේ.
-
-ඔහු අවි අවභාවිතය සහ බදු පැහැරහැරීමේ චෝදනාවලට වරදකරු වී තිබුණි.
-
-ඒ සම්බන්ධයෙන් දඬුවම් ලබාදීමේ නියෝගය මේ මස නිකුත් කිරීමට නියමිතව තිබුණි.
-
-නමුත් මීට පෙර අමෙරිකානු ජනාධිපතිවරයා පවසා තිබුණේ ඔහු සිය පුත්‍රයාට ජනාධිපති සමාව ලබා නොදෙන බවයි.
-
-එහෙත් ඊයේ (01) සවස ජනපති ජෝ බයිඩන් පැවසුවේ තමා අමෙරිකානු යුක්තිය පසිඳලීමේ ක්‍රමවේදය සම්බන්ධයෙන් විශ්වාස කළද සිය පුත්‍රයාට එරෙහි නඩු විභාගය දේශපාලන බලපෑම්වලින් පිරී තිබුණු බවයි.
-
-හන්ටර් බයිඩන්, බදු චෝදනා සම්බන්ධයෙන් පසුගිය සැප්තැම්බර් මාසයේදී වරද පිළිගත් අතර පසුගිය ජූනි මාසයේදී තහනම් මත්ද්‍රව්‍ය භාවිත කරමින් ගිනිඅවියක් තබා ගැනීම සම්බන්ධයෙන්ද අධිකරණයෙන් වැරදිකරු විය.
-
-සිය පුත්‍රයාට සමාව දෙමින් නියෝගයක් නිකුත් කිරීමට ජෝ බයිඩන් ගත් තීරණය විවේචනය කරමින් මීළඟ ජනපති ලෙස තේරී පත්වී සිටින ඩොනල්ඩ් ට්‍රම්ප් පැවසුවේ, ජෝ බයිඩන් විසින් යුක්තිය අවභාවිත කර ඇති බවයි.
-
-...
-
-[Data](articles/9e1176d4.json)
-
----
-
-### උඩරට දුම්රිය ගමන යථා තත්ත්වයට
-
-*2024-12-02 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203947) · `si`
-
-හාලිඇල හා උඩුවර අතර දුම්රිය මාර්ගය නැවත දුම්රිය ගමනාගමනයට විවෘත කර ඇත.
-
-දිවයිනට බලපා තිබූ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් බදුල්ල - කොළඹ දුම්රිය මාර්ගයේ අංක 175/50 සැතපුම් කණුව ආසන්නයේ පස් කන්දක් කඩා වැටීම හේතුවෙන් දුම්රිය ගමනාගමනය නතර කර තිබූණි.
-
-මේ වන විට එම මාර්ගය දුම්රිය දෙපාර්තමේන්තු නිලධාරීන් විසින් යථා තත්ත්වයට පත් කර තිබේ.
-
-එබැවින් අද (020 දින සිට නැවත දුම්රිය ගමනාගමනය සඳහා විවෘත කර ඇති බව දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/24ee5866.json)
-
----
-
-### ஓயாமடுவ பகுதியில் கூரிய ஆயுதத்தால் தாக்கி இளைஞன் கொலை : சந்தேகநபர் கைது !
-
-*2024-12-02 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200192) · `ta`
-
-ஓயாமடுவ - நவோதகம பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (01) கூரிய ஆயுதத்தால் தாக்கி நபர் ஒருவர் கொலை செய்யப்பட்டுள்ளார்.
-
-இரு நபர்களுக்கு இடையில் ஏற்பட்ட வாக்குவாதம் எல்லை மீறியதால் கூரிய ஆயுதத்தால் தாக்கப்பட்டு இந்த கொலை சம்பவம் இடம்பெற்றுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
-
-குறித்த, சம்பவம் தொடர்பில் அதே பகுதியைச் சேர்ந்த 17 வயதுடைய இளைஞன் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/c3620125.json)
-
----
-
-### The price of coconut has touched the peak
-
-*2024-12-02 09:28:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-உச்சம்-தொட்டது/175-348087) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Coconut prices soar 200 rupees due to scarcity. Rice manufacturers claim total price exceeds government control, impacting retail costs.
-
-🟩
-
-Coconut prices have risen by up to 200 rupees due to shortage of coconuts in the market.
-
-The United Rice Manufacturers Association has pointed out that the total price of rice has increased over the government's control price for retail rice. Remble
-
-◼️
-
-[Data](articles/88148f1b.json)
-
-[Extended Data](ext_articles/88148f1b.ext.json)
-
----
 
 ### Announcement on LG Elections postponed until after A/L Exam
 
@@ -135,32 +53,6 @@ A final decision will also be made regarding the calling of the nominations rela
 ...
 
 [Data](articles/810c4e9b.json)
-
-[Extended Data](ext_articles/810c4e9b.ext.json)
-
----
-
-### The new Chief Justice today
-
-*2024-12-02 09:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-நீதியரசர்-இன்று-சத்தியப்பிரமாணம்/175-348086) · `ta`
-
-Sri Lanka: Supreme Court Justice Murdu Fernando sworn in as new Chief Justice today. Replaces Jayantha Jayasuriya. Appointed High Court Judge in 2018. Nominated by President Anura Kumara Dissanayake. Remble
-
-🟩
-
-Supreme Court Justice Murdu Fernando will be sworn in as the new Chief Justice of Sri Lanka today (02) in the presence of President Anura Kumara Dissanayake.
-
-Chief Justice Jayantha Jayasuriya retired, Murdh Fernando was nominated for the post.
-
-He joined the Attorney General's Department in 1985 and was promoted to the Deputy Solicitor General in 1997 and the Additional Solicitor General of 2014.
-
-He was appointed as the High Court Judge in March 2018 and was appointed as the Chief Justice on October 10, 2024.. Remble
-
-◼️
-
-[Data](articles/3951af36.json)
-
-[Extended Data](ext_articles/3951af36.ext.json)
 
 ---
 
@@ -769,8 +661,6 @@ INSEE Ecocycle, Sri Lanka’s pioneer in sustainable waste management, is contin
 ...
 
 [Data](articles/73b22f67.json)
-
-[Extended Data](ext_articles/73b22f67.ext.json)
 
 ---
 
@@ -1812,36 +1702,6 @@ The body has been placed in the funeral room of the Polgahawela Hospital and the
 
 ---
 
-### 330 elephants are dead from January 1 to November 30
-
-*2024-12-01 17:49:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-1-දා-සිට-නොවැම්බර්-30-දා-දක්වා-වන-අලි-330ක්-මැරිලා/11-413384) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-330 elephants killed Jan-Nov. Human-elephant conflict causes 400 annual deaths. Tourism impact: 47% visitors saw national parks. Wildlife Conservation protects 15% of land area.
-
-🟩
-
-According to January 1 this year, 330 people have died on Monday (30).
-
-Ali-human co-afforders are the death of a large number of elephants annually, the assets of the association, the shooting of the annual elephant deaths and the garment explosion of the annual elephants.Did.
-
-It was also the largest gains that had been assassinated in the area, the Vicious Gross and Walana, who had been living in the past two years, and the last two years of the past two years.Said.
-
-The Department of Wildlife Conservation and Government Institutions, including the Department of Ceylon Electricity Board and the Police, should be implemented with the Department of Wildlife Conservation, the Department of Wildlife Conservation and Police, including the Department of Wildlife and Police.
-
-In view of the past five years, approximately four hundred elephants have died a year, the human-elephant conflict has occurred about 100 and nearly 100 years a year a year.
-
-...
-
-[Data](articles/2fa1059f.json)
-
-[Extended Data](ext_articles/2fa1059f.ext.json)
-
----
-
 ### A man arrested with ice drugs in Kalkisa
 
 *2024-12-01 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200140) · `ta`
@@ -2441,5 +2301,151 @@ But I don't use anything. The Minister said that the pension is abolished if the
 [Data](articles/fa889501.json)
 
 [Extended Data](ext_articles/fa889501.ext.json)
+
+---
+
+### Will the Mawadipalli disaster pass like a lowly?
+
+*2024-12-01 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200154) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+The Mawadipalli disaster raises questions about government responsiveness. Will it be just another forgotten incident? Or will officials take concrete action to address infrastructure issues and prevent future disasters? Only time will tell if this tragedy will spark meaningful change or fade away like a breeze.
+
+🟩
+
+In the case of difficulties, the bridge will be talked about and the rehabilitation of the road will be overcome after the river floods.. Will politicians and officials be concerned even after this time, or will this time pass like a windmill?
+
+◼️
+
+[Data](articles/193cfe9f.json)
+
+[Extended Data](ext_articles/193cfe9f.ext.json)
+
+---
+
+### A man killed in a sharp weapon in Kadirgama!
+
+*2024-12-01 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200146) · `ta`
+
+Man killed with sharp weapon in Kadirgama dispute resolution gone wrong. Suspects identified, police investigation ongoing.
+
+🟩
+
+One person was assaulted by a sharp weapon on Saturday (30) in the Kadirgamam Koombathikana area to go to the Kadirgamam police division.
+
+While staying at the relative's house, some people who had a dispute with the owner of the house had attacked the man, police said.
+
+Investigations have revealed that he was attacked by sharp weapons when he was trying to resolve the conflict and killed the suspects and fled the area.
+
+The suspects have been identified and the Kadirgamam police are involved in the arrest of them.
+
+◼️
+
+[Data](articles/70fa7e13.json)
+
+[Extended Data](ext_articles/70fa7e13.ext.json)
+
+---
+
+### Increase in prices of vegetables: Throwing in the trash
+
+*2024-12-01 15:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிகளின்-விலை-அதிகரிப்பு-குப்பையில்-வீசவேண்டிய-நிலை/76-348049) · `ta`
+
+Vegetable prices surge amid heavy rains, impacting sales and consumer behavior. Green chili prices jump from 650 to 750 Rupees per kg, affecting market demand and trader profits.
+
+🟩
+
+Heavy rains in many parts of the country have suddenly increased the price of vegetables across the country.
+
+In this case, the price of a kilogram of green chilli has risen from Rs 650 to 750 and a kilogram of green chillies at 1200 to 1300 rupees and other vegetable prices are high as the prices of vegetables are increasing day by day.It is reported to be facing.
+
+Most people coming to Nuwara Eliya Central Market are avoiding buying vegetables due to a rise in vegetable prices
+
+In addition, the number of consumers has declined drastically, and the traders who do not business have been dilapidated after two to three days, causing a massive loss, and the vegetable traders have to be dumped daily.
+
+◼️
+
+[Data](articles/34d99894.json)
+
+[Extended Data](ext_articles/34d99894.ext.json)
+
+---
+
+### Investigating Prabhakaran's birthday
+
+*2024-12-01 15:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனின்-பிறந்த-நாளை-கொண்டாடிய-அறுவரிடம்-விசாரணை/175-348048) · `ta`
+
+Prabhakaran's birthday celebration investigated by Valvettithurai police. LTTE leader's image removed at request. Organizers hid it, advanced event. Police invited MK Sivajilingam to vote, received sources from attendees.
+
+🟩
+
+Liberation Tigers of Tamil Eelam (LTTE). Valvettithurai police are conducting investigations into the incident of Prabhakaran's birthday.
+
+LTTE leader Way on the 26th. On the occasion of Prabhakaran's birthday, the former member of the Northern Provincial Council, MK Sivajilingam, was organized by the LTTE leader's ancestral house.
+
+The Valvettithurai police, who were present at the event, advised the LTTE leader to remove the image of the LTTE leader.
+
+Following that, the organizers hid the image of the LTTE leader and advanced the event.
+
+When the police station invited Sivajilingam to vote for the event, the police had gone to Sivajilingam's house and received voting sources after the police informed the police that he could not visit.
+
+Meanwhile, police sources say that the police have received voting sources to the six people who attended the birthday party.
+
+◼️
+
+[Data](articles/12313cad.json)
+
+[Extended Data](ext_articles/12313cad.ext.json)
+
+---
+
+### One arrested with heroin in Moratuwa
+
+*2024-12-01 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200142) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Arrest made in Moratuwa: Police detained a suspect in Lunawa on Saturday based on tip-off. 460mg heroin seized.
+
+🟩
+
+A suspect in the Lunawa area of ​​the Moratuwa police division has been arrested by police on Saturday (30).
+
+He was arrested during a roundup on the basis of confidential information received by the Moratuwa police station.
+
+460 milligrams of heroin from the suspect have been seized by the police.
+
+◼️
+
+[Data](articles/190dba68.json)
+
+[Extended Data](ext_articles/190dba68.ext.json)
+
+---
+
+### 12 floods affected by Thailand and Malaysia
+
+*2024-12-01 15:00:56* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයට-සහ-මැලේසියාවට-බලපෑ-ගංවතුරෙන්-12-දෙනෙකු-මරුට/11-413375) · `si`
+
+Thailand & Malaysia floods: 12 deaths, 122k displaced. Authorities warn of increased rainfall.
+
+🟩
+
+12 people died due to floods affected by Malaysia and Thailand.
+
+More than 122,000 people have been displaced in northern Malaysia, and 13,000 IDPs have been displaced.
+
+The authorities of the two countries have warned that the amounts of rain and rains and storms will be increased.
+
+◼️
+
+[Data](articles/4f268114.json)
+
+[Extended Data](ext_articles/4f268114.ext.json)
 
 ---

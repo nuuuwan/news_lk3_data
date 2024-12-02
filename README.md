@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 11:26:15**
+As of **2024-12-02 11:43:24**
 
 ## Newspaper Stats
 
-*Scraped **57,982** Articles*
+*Scraped **57,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,152 @@ dbsjeyarajcom | 443
 colombotelegraphcom | 591
 bbccomsinhala | 603
 islandlk | 3,490
-economynextcom | 3,517
+economynextcom | 3,520
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,473
+adalk | 5,475
 adaderanalk | 7,022
-tamilmirrorlk | 8,238
-virakesarilk | 9,489
-adaderanasinhalalk | 10,017
+tamilmirrorlk | 8,239
+virakesarilk | 9,493
+adaderanasinhalalk | 10,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,982 (100.0%) of 57,982 articles have been extended.
+57,982 (100.0%) of 57,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### ශිෂ්‍යත්ව විභාගයේ ලකුණු ලබාදීම සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
+
+*2024-12-02 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203951) · `si`
+
+අවසන් වූ පහ වසර ශිෂ්‍යත්ව විභාගයේ පළමු ප්‍රශ්න පත්‍රයේ කලින් පිටවූ ප්‍රශ්න තුන සඳහා එම විභාගයට ඉදිරිපත් වූ සියලු සිසු සිසුවියන්ට නිදහස් ලකුණු ලබාදීමට අමාත්‍ය මණ්ඩලය නිර්දේශ කර ඇතැයි නීතිපතිවරයා අද (02) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+
+මෙම ප්‍රශ්න පත්‍රය සඳහා විභාගය යළි පැවැත්වීමෙන් සිසු සිසුවියන් පීඩාවට පත්වීමට හැකි බැවින් එම විභාගය යළි පැවැත්වීම නුසුදුසු බව අමාත්‍ය මණ්ඩලය විසින් නිර්දේශ කර තිබෙන බවත් සොලිසිටර් ජෙනරාල් විරාජ් දයාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී ඇත.
+
+ශිෂ්‍යත්ව විභාගය පැවති ආකාරය අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් අද යළි කැඳවූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
+
+එමෙන්ම මෙම පෙත්සම් පූර්ණ ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගන්නා ලෙස ඉල්ලා නීතිපතිවරයා විසින් මෝසමක් ගොනුකර තිබෙන බවත් සොලිසිටර් ජෙනරාල්වරයා දන්වා සිටියේය.
+
+ඉන් අනතුරුව පෙත්සම් විභාගය දෙසැම්බර් මස 11 වනදා පැවැත්වීමටද නියෝග කෙරුණි.
+
+◼️
+
+[Data](articles/59f024a0.json)
+
+---
+
+### அமைச்சர்களுக்கு இனி பங்களாக்கள் வழங்கப்படாது
+
+*2024-12-02 11:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களுக்கு-இனி-பங்களாக்கள்-வழங்கப்படாது/175-348099) · `ta`
+
+தேர்தல் விஞ்ஞாபனத்திற்கு அமைய பாராளுமன்ற உறுப்பினர்களுக்கான சலுகைகளை குறைக்கும் நடவடிக்கையில், அமைச்சர்களுக்கு அரச பங்களாக்களை ஒதுக்காது இருக்க அரசாங்கம் தீர்மானித்துள்ளதாக அமைச்சர் ஒருவர் நேற்று தெரிவித்தார்.
+
+மேலும், எம்.பி.க்களுக்கு ஐந்தாண்டுகளுக்கு ஒருமுறை வழங்கப்படும் வரியில்லா வாகன அனுமதிகளும் ரத்து செய்யப்படும்.
+
+கடந்த அரசாங்கங்களில் பதவி வகித்த அமைச்சர்களுக்கு ஒதுக்கப்பட்ட அரச பங்களாக்களை என்ன செய்வது என்பதை அரசாங்கம் தீர்மானிக்கும் என பாராளுமன்ற விவகாரங்களுக்குப் பொறுப்பான பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால நேற்று டெய்லி மிரருக்கு தெரிவித்தார்.
+
+"தற்போதைய அரசாங்கத்தின் எந்த அமைச்சருக்கும் இந்த வீடுகளை நாங்கள் ஒதுக்க மாட்டோம்," என்று அவர் கூறினார்.
+
+வரியின்றி வாகனங்களை இறக்குமதி செய்வதற்கான அனுமதிப் பத்திரங்களுக்குப் பதிலாக, பிரிவைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களுக்கு விலை குறைந்த வாகனங்கள் அரசாங்கத்தினால் வழங்கப்படும் என அமைச்சர் தெரிவித்தார்.
+
+...
+
+[Data](articles/8c6fc066.json)
+
+---
+
+### முச்சந்தியில் நிற்கும் ரணில், சஜித் தரப்புக்களின்   தேசிய பட்டியல் விவகாரம்
+
+*2024-12-02 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200204) · `ta`
+
+பொதுமக்கள் மக்களாட்சியின் மீதான நம்பிக்கையை இழக்காத வகையில் அரசியல் கட்சிகள் செயல்படவேண்டும் என்பது மிக முக்கியம். தேசிய பட்டியலுக்கான உறுப்பினர்களை நியமிப்பதில் பிரதான கட்சிகள் எதிர்கொண்டுள்ள இந்த சிக்கல்கள் இலங்கையின் அரசியல் நிர்வாகம் எவ்வளவு மேம்பட வேண்டும் என்பதைப் பற்றிய கண்ணோட்டத்தையும் வெளிப்படுத்துகிறது. சர்ச்சையின் முடிவுகள் கட்சியின் எதிர்கால பயணத்தை மட்டுமே அன்றி பாராளுமன்றத்தில் எதிர்க்கட்சிகளின் செயற்பாடுகளை பலப்படுத்தக் கூடியவையாகவும் அமைய வேண்டும்.
+
+◼️
+
+[Data](articles/9a78a229.json)
+
+---
+
+### මහ රෑ සිදුවුණ බිහිසුණු අනතුර
+
+*2024-12-02 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203950) · `si`
+
+මාතර, අකුරැස්ස ප්‍රධාන මාර්ගයේ රාහුල මංසන්ධිය අසල දී මෝටර් රථයක් මාර්ගයෙන් ඉවතට පැන බිහිසුණු අනතුරක් සිදුව තිබුණි.
+
+ඊයේ (01) රාත්‍රියේ අදාළ අනතුර සිදුව තිබූ අතර, අනතුරින් මෝටර් රථයේ ගමන් ගත් පුද්ගලයින් තිදෙනෙකු තුවාල ලබා මාතර මහ රෝහලට ඇතුළත් කර ඇත.
+
+මෝටර් රථය අකුරැස්ස සිට මාතර දෙසට ධාවනය කරමින් තිබිය දී රියදුරුට රථය පාලනය කර ගැනීමට නොහැකිව මෙම අනතුර සිදුව තිබූ අතර අනතුරින් රථයට දැඩි හානි සිදුව තිබුණි.
+
+මාර්ගය අයිනේ තිබු විදුලි පහන් කණුවකටද අනතුරින් අලාභ හානි සිදුව ඇති අතර අනතුර සම්බන්ධයෙන් මාතර පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/9bdd1998.json)
+
+---
+
+### උඩරට දුම්රිය ධාවනය සාමාන්‍ය පරිදි
+
+*2024-12-02 11:05:21* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමාන්‍ය-පරිදි/11-413392) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ බදුල්ල දක්වා දුම්රිය ධාවනය  පෙර පරිදි අද (02) සිට ධාවනය කරනු ලබන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.
+
+උඩරට දුම්රිය මාර්ගයට උඩුවර ප්‍රදේශයේ දී නායායෑමට ලක් වු විශාල පස් කන්දක් කඩා වැටීම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ බදුල්ල දක්වා  දුම්රිය ධාවනය දින හයක පමණ කාලයක් සම්පුර්ණයෙන්ම ඇණ හිට පැවැතිණි.
+
+මේ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය ඇල්ල දුම්රිය ස්ථානය දක්වා සීමා වී පැවතිණි.
+
+නායයෑමට ලක්වීමෙන් උඩරට දුම්රිය මාර්ගයේ උඩුවර ප්‍රදේශයේ පැවති  අවහිරතා ඉවත් කොට ඇති බවත්, පෙර පරිදි නියමිත කාලසටහනට අනුව උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය සාමාන්‍ය පරිදි සිදු වන බව නාවලපිටිය දුම්රිය පාලක මැදිරියේ ප්‍රකාශකයෙකු කීය.
+
+◼️
+
+[Data](articles/a42424a1.json)
+
+---
+
+### மோட்டார் சைக்கிள் விபத்தில் ஒருவர் பலி : பெண்ணும் இரு சிறுவர்களும் காயம்
+
+*2024-12-02 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200202) · `ta`
+
+கொழும்பு - நீர்கொழும்பு வீதியில் லியனகேமுல்ல பகுதியில்  நேற்று ஞாயிற்றுக்கிழமை (01) இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளதுடன் பெண்ணொருவரும் இரண்டு சிறுவர்களும் காயமடைந்துள்ளதாக  சீதுவை பொலிஸார் தெரிவித்தனர்.
+
+செலுத்துனரின் கட்டுப்பாட்டை இழந்த மோட்டார் சைக்கிள் ஒன்று வீதியை விட்டு விலகி அருகிலிருந்த மின்கம்பத்தில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தின் போது மோட்டார் சைக்கிளின் செலுத்துனரும் பின்புறத்தில் அமர்ந்திருந்த பெண்ணும் இரண்டு சிறுவர்களும் காயமடைந்துள்ள நிலையில் நீர்கொழும்பு வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மோட்டார் சைக்கிளின் செலுத்துனர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/08347915.json)
+
+---
+
+### சிரியாவின் அலப்போ நகரம் மீண்டும் கிளர்ச்சியாளர்கள் வசம் -   2016 இல் தோற்கடிக்கப்பட்டவர்கள் மீண்டும் புதிய வலுவுடன் போர்க்களத்தில்
+
+*2024-12-02 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200201) · `ta`
+
+பலவருடங்களிற்கு பின்னர் கிளர்ச்சியாளர்கள் சிரிய அரசாங்கத்திற்கு எதிரான இராணுவநடவடிக்கையை புதன் கிழமை ஆரம்பித்தனர்.
+
+கிளர்ச்சியாளர்களின் இந்த எதிர்பாராத நடவடிக்கையை தொடர்ந்து ரஸ்யா அவர்களின் நிலைகள் மீது தாக்குதலை மேற்கொண்டுள்ளது – 2016ம் ஆண்டின் பின்னர் ரஸ்யா கிளர்ச்சியாளர்கள் மீது மேற்கொண்ட முதலாவது தாக்குதல் இது.
+
+ஹயட் டஹ்ரிர் அல் சாம் என்ற இஸ்லாமிய  அலப்போ மீது தாக்குதலை மேற்கொண்டுள்ளது. சிரிய மோதலில் இந்த அமைப்பிற்கு நீண்டகால வரலாறுள்ளமை குறிப்பிடத்தக்கது.
+
+2011 இல் இந்த அமைப்பு ஜபாட் அல் நுஸ்ரா என்ற பெயரில் அல்ஹைதாவின் இணை அமைப்பாக செயற்பட்டது.
+
+ஐஎஸ் அமைப்பின் கொல்லப்பட்ட தலைவர் அபு பக்கர் அல் பக்தாதியும் இந்த அமைப்பின் உருவாக்கத்துடன் தொடர்புபட்டிருந்தார்.
+
+சிரிய ஜனாதிபதிக்கு எதிரான நடவடிக்கைகளில் ஈடுபட்ட குழுக்களில் இந்த குழுவே மிகவும் வலிமை வாய்ந்தத- ஆபத்தான குழுவாக  கருதப்பட்டது.
+
+இந்த அமைப்பின் உந்துசக்தியாக அதன் ஜிகாத் கொள்கைகாணப்பட்டது.புரட்சிகர கொள்கைகளை விட ஜிகாத் உணர்வே மேலோங்கி காணப்பட்டது.
+
+...
+
+[Data](articles/edfd9442.json)
+
+---
 
 ### Action Notification for WhatsApp Users
 
@@ -57,6 +185,50 @@ The hackers then control the WhatsApp account, and send the message as the right
 [Data](articles/dddcae1b.json)
 
 [Extended Data](ext_articles/dddcae1b.ext.json)
+
+---
+
+### வவுனியாவில்  கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை ; இளைஞன் கைது !
+
+*2024-12-02 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200194) · `ta`
+
+வவுனியா, ஓமந்தை, பரசன்குளம் பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (01) மாலை கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்டுள்ளதாக ஓமந்தை பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஓமந்தை, பரசன்குளம் பகுதிக்கு கெப் வாகனத்தில் சென்ற குழு ஒன்று கொலை செய்யப்பட்டவரை கூரிய ஆயுதத்தால் தாக்கியுள்ளனர்.
+
+இதனையடுத்து காயமடைந்தவர் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த சம்பவம் தொடர்பில்  வவுனியா, கூமாங்குளம் பகுதியைச் சேர்ந்த 18 வயதுடைய இளைஞன் ஒருவன் கெப் வாகனத்துடன் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், ஏனைய  சந்தேக நபர்களை கைது செய்வதற்கான மேலதிக விசாரணைகளை ஓமந்தை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/048b34e4.json)
+
+---
+
+### Sri Lanka’s Abans revises its debenture issue
+
+*2024-12-02 10:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-abans-revises-its-debenture-issue-190980/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Abans Plc said it was postponing its debenture issue by a week and changing the issue size due to volatility in the market.
+
+“The Company has decided to postpone the Debenture issue opening date to 10th December 2024 and the Issue Size considering the volatility in the market interest rates,” Abans said in a stock exchange filing.
+
+“The issue size is to be revised to as follows; An initial Issue up to Three Million (3,000,000) Listed, Rated, Unsecured, Senior, Redeemable Debentures.”
+
+The consumer products retailer initially said it will issue 10 million listed, rated, unsecured, senior, redeemable, 5-year debentures at 100 rupees each.
+
+And a further 10 million debentures in the event of an oversubscription of the initial issue to raise a maximum amount of 2 billion.
+
+They will bear a fixed interest rate of 13 percent per annum payable annually (AER 13%), the company said.
+
+The Colombo Stock Exchange has approved the listing in principle. (Colombo/Dec2/2024)
+
+◼️
+
+[Data](articles/bab9d14f.json)
 
 ---
 
@@ -194,6 +366,26 @@ A 17 -year -old youth from the same area has been arrested in connection with th
 
 ---
 
+### Sri Lanka rupee opens flat at 290.60/80 to dollar, bond yields steady
+
+*2024-12-02 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-290-60-80-to-dollar-bond-yields-steady-191085/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened more or less flat at 290.60/80 to the US dollar on Monday from 290.65/75 to the US dollar on Friday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2027 was quoted at 10.20/35 percent, up from 10.20/30 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.35/45 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.70/85 percent.
+
+In equities, the All Share Price Index was up 0.08 percent or 10.06 points, at 13,199. The more liquid S&P SL20 was up 0.03 percent, or 1.17 points, at 3,906.
+
+◼️
+
+[Data](articles/c4f260bb.json)
+
+---
+
 ### Sajith urges Japan to resume halted development projects in SL
 
 *2024-12-02 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103912/-sajith-urges-japan-to-resume-halted-development-projects-in-sl) · `en`
@@ -287,6 +479,22 @@ He was appointed as the High Court Judge in March 2018 and was appointed as the 
 [Data](articles/3951af36.json)
 
 [Extended Data](ext_articles/3951af36.ext.json)
+
+---
+
+### Sri Lanka private credit up for the sixth month, credit to govt flat
+
+*2024-12-02 08:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-up-for-the-sixth-month-credit-to-govt-flat-191082/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private credit expanded for the sixth month in October 2024, rising 74 billion rupees, while credit to government from banks was rose marginally after falling in the previous month, central bank data showed.
+
+Private credit has expanded 493 billion over the past six months as economic activity continued to recover.
+
+Credit to government from commercial banks expanded only 7 billion rupees, after falling in the past two months, as the budget deficit was contained.
+
+◼️
+
+[Data](articles/985bdd9c.json)
 
 ---
 
@@ -1848,6 +2056,26 @@ They call upon the government to reach the cultivation of the damage to the dama
 
 ---
 
+### ඊටීඑෆ් වැඩිවෙලා ඊපීඑෆ් අඩුවෙලා
+
+*2024-12-01 18:35:10* · [`adalk`](https://www.ada.lk/breaking_news/ඊටීඑෆ්-වැඩිවෙලා-ඊපීඑෆ්-අඩුවෙලා/11-413386) · `si`
+
+සේවක අර්ථසාධක අරමුදලේ ලියාපදිංචි වීම පැහැර හරිමින් සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ පමණක් ලියාපදිංචිව සිටින සේවා යෝජකයන් සංඛ්‍යාව 2024නොවැම්බර් මස 15වැනිදා වනවිට25,610 ක් දක්වා ඉහළ ගොස් ඇති බව කම්කරු දෙපාර්තමේන්තුවේ  විගණන අංශය මගින් අනාවරණය කර ඇත.
+
+මෙම සේවායෝජකයන්  හඳුනාගෙන සේවක අර්ථසාධක අරමුදලට බඳවා ගැනීමේ හැකියාව ඇතත් එම කටයුතු ඉතා මන්දගාමී තත්වයකට  පවතින බවද එම විගණන වාර්තාවේ සඳහන්වේ.
+
+2023 වර්ෂය අවසානය වනවිට එසේ  ලියාපදිංචි වී නොමැති සේවා යෝජකයන් සංඛ්‍යාව  29,000 කට ආසන්න  පිරිසක් බවත් ජාතික විගණන කාර්යාලය මගින්  සිදු කරන ලද පරීක්ෂණයකින් අනාවරණය වී ඇත.
+
+ජාතික විගණන කාර්යාලය මගින් එම පරීක්ෂණය 2024 ජූලි මාසයේ දී සිදු කර ඇති අතර එම අවස්ථාවේදී එම සේවායෝජකයන්ගෙන් සේවා නියුක්තියන්ගේ  භාර අරමුදලට  රුපියල් කෝටි 40 කට අධික මුදලක්  බැරවී තිබූ බවද එම විගණන වාර්තාව මගින් අනාවරණය වී ඇත.
+
+මෙම සේවා යෝජකයන් කඩිනමින් සේවක අර්ථ සාධක අරමුදලින් ලියාපදිංචි කිරීමට කටයුතු කර දෙන ලෙස  විගණන කාර්යාලය මගින් කම්කරු  දෙපාර්තමේන්තුවට දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/7c170dda.json)
+
+---
+
 ### FBI Head of FBI under Trump
 
 *2024-12-01 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203934) · `si`
@@ -2149,307 +2377,5 @@ The rain has left areas in central Chennai, including Korattur, Koyambedu, Virug
 [Data](articles/8dff49f8.json)
 
 [Extended Data](ext_articles/8dff49f8.ext.json)
-
----
-
-### A car on the highway is on fire
-
-*2024-12-01 17:26:09* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගයේ-දි-මෝටර්-රථයක්-ගිනි-ගනී/11-413383) · `si`
-
-Car on fire on highway near Galle-Colombo route. Police investigating possible mechanical issue as cause.
-
-🟩
-
-Southern Expressway Police say that a car has fled a sudden death in the 66th kilometers between the Southern Expressway and the Southern Expressway.
-
-The car traveling from Galle to Colombo has suddenly fires.
-
-According to the Cinnugaha Hagahat Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Haggaha Hice Fire Delegation was completely implemented and nearly half of the car had already bowed the car.
-
-Police suspect that the fire may have caused fire due to a technical fault in the back of the car. Cinnamage Police are conducting further investigations
-
-◼️
-
-[Data](articles/dcbe5c61.json)
-
-[Extended Data](ext_articles/dcbe5c61.ext.json)
-
----
-
-### Sri Lanka to the semi-finals of the Asian Trophy
-
-*2024-12-01 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203933) · `si`
-
-Sri Lanka advances to Asian Trophy semis, defeating Afghanistan. Sri Lanka scored 243/7; opener Shahragen Shammugamganathan top-scored with 102. Afghanistan replied with 112/8. Pravees took 3/16, while Newton, Virin, and Victory each claimed 2 wickets.
-
-🟩
-
-Sri Lanka won Sri Lanka today (01) today (01).
-
-Sri Lanka scored 243 runs for the loss of 07 wickets.
-
-Sri Lanka Innings Anchor Shahragen Shammugamugamganathan came to bat first and scored 102 runs.
-
-He opened a centuries to the second wicket with the opening batsense with Piwhundu Perera.
-
-In reply, however, the Afghanistan team was able to score only 112 runs in 28.2 overs.
-
-Hamza Khan scored 32 runs and Nasipalla Ariram scored 33 runs, but it was not sufficient to lose weight in Afghanistan defeat.
-
-Pravees, who played a great bowler for Sri Lanka, took 3 wickets for 16 runs.
-
-In addition, Newton Ranjith (2/28), Virin Charm (2/14) and Victory (2/10) took 2 wickets each.
-
-With this victory, the Sri Lankan team, who played B 'B', is part of the semi-round.
-
-The Sri Lankan team is currently in the forefront of its category.
-
-◼️
-
-[Data](articles/c6abcd9a.json)
-
-[Extended Data](ext_articles/c6abcd9a.ext.json)
-
----
-
-### Invite to attend the Independence Day Celebration
-
-*2024-12-01 17:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-விழாவில்-கலந்து-கொள்ள-அழைப்பு/175-348058) · `ta`
-
-Sri Lanka Independence Day: Minister Vijitha Herath invites President Anura Kumara Dissanayake. Meeting with Ambassadors strengthens diplomatic relations and proposes new economic agreements with Burkina Faso, Bosnia, Azerbaijan, Georgia, Belarus, Armenia, Congo, Guinea, Kenya.
-
-🟩
-
-Minister of External Affairs Vijitha Herath has recently invited President Anura Kumara Dissanayake to attend the Independence Day celebrations of Sri Lanka's Independence Day.
-
-The call was made during a meeting with nine newly appointed Ambassadors and a High Commissioner at the Foreign Ministry.
-
-Representatives have expressed their willingness to establish embassies in Sri Lanka as an action to strengthen diplomatic relations.
-
-Representatives also proposed to reach new agreements to improve economic and trade ties with Sri Lanka.
-
-Burkina Baso, Bosnia and Hersekovina, Azerbaijan Republic, Georgia, Belarus Republic, Armenia, Kingdom, Kingdom, Congo Republican, Guinea Republic, Guinea Republic and New Kenya Republic were present at the meeting.
-
-◼️
-
-[Data](articles/a800d0f7.json)
-
-[Extended Data](ext_articles/a800d0f7.ext.json)
-
----
-
-### Sri Lanka's BRICS Member Status: The Goal of the Future Success
-
-*2024-12-01 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200169) · `ta`
-
-Sri Lanka's BRICS membership aims to reshape global finance. New banks and credit systems will challenge existing institutions like World Bank and IMF. This shift may alter international economic conditions and create new opportunities for development.
-
-🟩
-
-Financial Resources and Banks formed by BRICS will cause constant changes to world financial systems. Credit systems of organizations such as the World Bank and the International Monetary Fund are imposing international conditions. Alternatively, organizations such as the new Development Bank will be in high condition.
-
-◼️
-
-[Data](articles/b718c96a.json)
-
-[Extended Data](ext_articles/b718c96a.ext.json)
-
----
-
-### Landslide warnings imposed in 6 districts further
-
-*2024-12-01 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203932) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Landslide warnings expanded: NBRO extends alerts for 6 districts from 4 PM today to 4 PM tomorrow due to ongoing risk."
-
-🟩
-
-The National Building Research Organization (NBRO) says that landslide warnings imposed on six districts have been extended.
-
-Today (01st). From 4.00 pm to tomorrow (02). It is valid until 4.00.
-
-◼️
-
-[Data](articles/5984ea91.json)
-
-[Extended Data](ext_articles/5984ea91.ext.json)
-
----
-
-### Laggala Gem businessman's Rs. 10 crore loan arrested
-
-*2024-12-01 16:50:16* · [`adalk`](https://www.ada.lk/breaking_news/ලග්ගල-මැණික්-ව්‍යාපාරිකයාගේ-රු--කෝටි-7ක-කොල්ලයට-හිමිනමක්-ඇතුළු-10ක්-අල්ලයි/11-413382) · `si`
-
-Laggala Gem businessman's Rs. 10 crore loan arrest: 10 suspects detained with jewelry and toy pistols. Investigation ongoing.
-
-🟩
-
-The Laggala police stated that 10 suspects were arrested with a gem jewelery with a gem jewelery and Rs.
-
-Allah was arrested in a temple in Mawathagama, Mawathagama, Dambulla, Polpagamuwa, Polpagamuwa, Polpathigama, Kurunegala..
-
-Two toy pistols found a van used for robbery.When questioned by the name of the suspect, the Laggala Police OIC Chief Inspector Dhammika Padmaraj said
-
-Susantha Kumara Attanayake at Laggala Kumara Attanayake at Laggala Kumara Attanayake at Laggala Kumara Attanayake at Laggala Kumara Attanayake at Laggala Kumara Attanayake, Laggala Kumara Attanayake.According to the complaint, these investigations were in place.
-
-In the meantime, a suspicious van was founded in the Laggala area for two days.
-
-Investigations carried out by a few £ seven lakhs, a van and management was arrested by two £ seven lakh gold pawned plastic pistols.
-
-...
-
-[Data](articles/062a7b2f.json)
-
-[Extended Data](ext_articles/062a7b2f.ext.json)
-
----
-
-### Proactive Diplomacy In A Challenging Landscape
-
-*2024-12-01 16:44:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/proactive-diplomacy-in-a-challenging-landscape/) · `en`
-
-Sri Lanka’s recent political shifts and economic woes have created both challenges and opportunities. As you rightly highlight, the emergence of new leadership is a chance to redefine the country’s global image, rebuild trust among creditors, and solidify international partnerships. Proactive diplomacy should prioritize reassuring stakeholders of Sri Lanka’s commitment to economic stability and sovereignty while maintaining strong ties with traditional allies like China and India.
-
-Despite its size, Sri Lanka’s location in the Indian Ocean makes it a vital player in regional and global geopolitics. The growing interest from major powers—whether through China’s Belt and Road Initiative or India’s regional ambitions, controversial initiatives by the QUAD in the region—underscores the need for Sri Lanka to carefully balance its foreign policy. A strategic and neutral stance that benefits national interests while maintaining independence is crucial.
-
-...
-
-[Data](articles/1a286237.json)
-
-[Extended Data](ext_articles/1a286237.ext.json)
-
----
-
-### Seventories of robbery reveal
-
-*2024-12-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203931) · `si`
-
-Laggala robbery: 9 arrested, 2 gems, gold recovered. Suspects linked to multiple crimes. Investigation ongoing.
-
-🟩
-
-The Laggala Police Station was able to find nearly Rs.
-
-Nine persons were arrested on this robbery (29) and the police could uncover a number of factors during the interrogations.
-
-Accordingly, two gem stones have been recovered and the van used for the robbery has also seized the robbery.
-
-Police also have been able to find gold in £ 7 and a plundered gem stone cut into seven pieces.
-
-In questioning these suspects, they have been involved in many other crimes.
-
-The police also found a Buddha statue who was suspected of a large number of kilograms of kiloled house in Pothuhera.
-
-Police say that there are many crimes in different parts of the island against these robbers.
-
-According to the Laggala Police, the robbery was carried out by 12 people, including a scientist.
-
-11 of them have been arrested on suspicion and investigations have been launched to arrest another.
-
-The monk who was arrested is the mirror and is among the arrested persons.
-
-...
-
-[Data](articles/389d91f7.json)
-
-[Extended Data](ext_articles/389d91f7.ext.json)
-
----
-
-### The 13th Amendment to the New Constitution will be canceled - Rilvin Silva Specialty
-
-*2024-12-01 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200163) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"13th Constitutional Amendment cancellation proposed. Acceptance of new constitution may render provincial councils unnecessary. Abolition planned only after new settlement scheme presented. Clarification needed to prevent misinformation."
-
-🟩
-
-If all the people accept the constitution, there will be no need for the provincial council system or the 13th constitution in the country. It is not necessary for the country. Provincial Council system is a matter of failure in the country with no benefit. So we will not abolish the provincial council system without presenting a new settlement plan. This issue is to be clearly understood. Otherwise, there are opportunities for misconceptions to spread among people.
-
-◼️
-
-[Data](articles/4ee3913c.json)
-
-[Extended Data](ext_articles/4ee3913c.ext.json)
-
----
-
-### Public views to propagate the sea reclamation to the development of the Galle Port
-
-*2024-12-01 16:37:59* · [`adalk`](https://www.ada.lk/breaking_news/යෝජිත-ගාලු-වරාය-සංවර්ධනයට-මුහුද-ගොඩ-කිරීම-ගැන-මහජන-අදහස්-විමසයි/11-413381) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Galle Port development: Sea reclamation plan. 45-hectare area reclaimed. Public comments due Dec 28. Environmental impact assessment available in Sinhala, Tamil, English. Project aims to create a full-fledged port.
-
-🟩
-
-The Suppleral Environmental Impact Assessment Report has been presented to the Public Examination by the Coast Conservation Department.
-
-Accordingly, the general public is able to comment the Director General of the Coast Conservation Department on December 28.
-
-This report from 30th November to 30 days from November 28, the CEA, Central Environmental Authority, Municipal Council and Fisheries Resources Department www.coastal.govThe Coast Conservation Department (Test Conservation Department) stated in Sinhala and Tamil and English language.
-
-The proposed project to develop Galle Harbor as a complete port as a complete port of Galle is scheduled to reclaim the sea to 45 hectares with two 45 meters in the port.
-
-◼️
-
-[Data](articles/debede76.json)
-
-[Extended Data](ext_articles/debede76.ext.json)
-
----
-
-### Sri Lanka debt relief US$8.4bn to August, banking system outflow $7.3bn
-
-*2024-12-01 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-relief-us8-4bn-to-august-banking-system-outflow-7-3bn-191015/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government has recieved debt relief of around 8.4 billion US dollars from the time a default was declared in April 2022 to August 2024, but the banking system has repaid debt or collected reserves of 7.3 billion dollars, official data show.
-
-The debt relief over banking system repayments was about 1.11 billion US dollars.
-
-Sri Lanka stopped servicing bilateral and commercial debt on April 2022, and the central bank hiked rates previously kept artificially low rates low by printing money, helping ending the worst currency crisis in the 74-year-old history of the agency.
-
-The principal government debt arrears after default from April 2022 to August 2024 was 5.784 billion dollars and past due interest was 2.623 billion, or a total of 8.407 billion dollars, a Finance Ministry report showed.
-
-...
-
-[Data](articles/9e43b6bd.json)
-
-[Extended Data](ext_articles/9e43b6bd.ext.json)
-
----
-
-### Here's why the AIDS rises among new young people
-
-*2024-12-01 16:27:30* · [`adalk`](https://www.ada.lk/breaking_news/නව-යෞවනයන්-අතර-ඒඩ්ස්-ඉහළ-යන්න-හේතුව-මෙන්න/11-413380) · `si`
-
-AIDS rise among youth: 15% of new cases aged 15-24. Director cites lack of proper sex education and increased partner seeking as factors.
-
-🟩
-
-The National STD / AIDS eradication program says that among the new youths have risen infections of the HIV virus, including the discovery of partners and innovative educational.
-
-Director of Commerce Director of the program, Dr. Windya Kumipaleli, said that 15 percent of HIV infected persons reported in the past year have been younge between 15 and 24 years old. Speaking at a press conference held in the Health Promotion Bureau, Ms. Skaripaleli made these comments.
-
-"Last year, 694 cases of new HVI viruses have been reported in our country. When you look at the data, the number of new people in the HVI virus will increase rapidly. In view of the data between the youth, 15% new teenagers between 15 and 24 years.
-
-We see this about this, we see that this is the reason why we find new contact partners through various source techniques. If not, it is not properly sex education. Among young people adds to the youth addictions among young people. "
-
-◼️
-
-[Data](articles/8bbe41d7.json)
-
-[Extended Data](ext_articles/8bbe41d7.ext.json)
 
 ---

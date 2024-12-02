@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 12:42:36**
+As of **2024-12-02 13:43:17**
 
 ## Newspaper Stats
 
-*Scraped **58,006** Articles*
+*Scraped **58,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,490
 economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,477
-adaderanalk | 7,026
-tamilmirrorlk | 8,244
+adalk | 5,479
+adaderanalk | 7,031
+tamilmirrorlk | 8,247
 virakesarilk | 9,493
 adaderanasinhalalk | 10,019
 
@@ -26,11 +26,139 @@ adaderanasinhalalk | 10,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,991 (100.0%) of 58,006 articles have been extended.
+58,002 (100.0%) of 58,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### Cabinet leak of the Katchativu Agreement and rescinded cabinet decision on Overseas Service
+
+*2024-12-02 13:19:00* · [`islandlk`](http://island.lk/cabinet-leak-of-the-katchativu-agreement-and-rescinded-cabinet-decision-on-overseas-service/) · `en`
+
+“The Prime Minister felt betrayed. She was embarrassed, bitter and angry. She was sensitive to Mrs. Gandhi’s feelings”
+
+Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+Mrs. Bandaranaike had an excellent grasp of foreign affairs. Foreign office veterans like Ambassadors Vernon Mendis, Arthur Basnayake and others would vouch for this. But Prime Ministers are extremely busy people, particularly when they also handled heavy Ministries such as Defence and Foreign Affairs, and Planning. When they sit down to three to four hours of concentrated work, in which time they deal with scores of files and hundreds of issues, they cannot be expected to be sensitive to every nuance.
+
+...
+
+[Data](articles/0f17f44a.json)
+
+[Extended Data](ext_articles/0f17f44a.ext.json)
+
+---
+
+### National Elections 2024 – a harbinger of a new era
+
+*2024-12-02 13:16:00* · [`islandlk`](http://island.lk/national-elections-2024-a-harbinger-of-a-new-era/) · `en`
+
+(A member of the former Ceylon Civil Service and Retired Senior Professional of the Asian Development Bank, Manila, Philippines)
+
+The unparalleled victory of JVP/NPP in the national elections of November 14, 2024 has created an unprecedented sense of euphoria among Sri Lankans. This was no ordinary achievement as a lot of hard work went into changing the mindset of communities that had hitherto blindly followed the elitist policies of the major political parties. What led to this transformation?
+
+...
+
+[Data](articles/1062e9de.json)
+
+[Extended Data](ext_articles/1062e9de.ext.json)
+
+---
+
+### Holding the government to account
+
+*2024-12-02 13:09:00* · [`islandlk`](http://island.lk/holding-the-government-to-account/) · `en`
+
+In his address to parliament last Thursday, Sri Lankan president Anura Kumara Dissanayake called for a political culture free of racism and divisiveness. He said that democracy does not mean forcing everyone to unite under a single umbrella, but rather letting diverse viewpoints and ethnic interests flourish against the backdrop of multi-party politics. “We do not advocate for one-party rule,” he declared. “It is the responsibility of our government to represent and address the needs and aspirations of all citizens – regardless of whether they voted for us or not.”
+
+...
+
+[Data](articles/f2c14ba7.json)
+
+[Extended Data](ext_articles/f2c14ba7.ext.json)
+
+---
+
+### Fine sportsman, great debater, big appetite but weak stomach
+
+*2024-12-02 13:02:00* · [`islandlk`](http://island.lk/fine-sportsman-great-debater-big-appetite-but-weak-stomach/) · `en`
+
+Dudley Senanayake in the short Parliament of March to July 1960
+
+Family and background had been central in Dudley Senanayake’s case too. Greatness had literally been thrust on him when he had been appointed prime minister on the death of his father D S, in 1952. That had been a time of intrigue and maneuvering which had soured the relations between Sir John, his close relative and him.
+
+Sir John had struck back with the Premier Stakes which he later denied having any connection with. So Dudley had been anxious to win his spurs for himself through the hustings as early as possible. And he had proved his legitimacy by winning the 1952 elections handsomely, helped by the sympathy vote created by the death of his father. But his first stint as prime minister did not last long. Plagued by illness, chronic gastritis and the hartal of August 1953 which resulted in police firing and some civilian deaths, Dudley resigned.
+
+...
+
+[Data](articles/5e8fa427.json)
+
+[Extended Data](ext_articles/5e8fa427.ext.json)
+
+---
+
+### Handwriting
+
+*2024-12-02 12:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-இல்லம்-கையளிப்பு/175-348110) · `ta`
+
+R. Sampanthan's official residence handed to Ministry of Justice. Located in Colombo 7, given in 2015. Maintenance previously done by state. Handed over on December 12, 2022.
+
+🟩
+
+Former Opposition Leader R. Sampanthan's official residence has been handed over to the Ministry of Justice, State Administration, Home Affairs, Provincial Council, Local Government and Labor.
+
+The official residence in Malalasekara Mawatha, Colombo 7 was given in 2015.
+
+Subsequently, during the government of goodwill, on February 26, 2019, the Cabinet paper presented by former Minister Gayantha Karunathilaka to be used as long as it was.
+
+The official residence of the Leader of the Opposition is located on one and a half acres of land. All its maintenance work has been carried out by the state in the past.
+
+Sampanthan's daughter had informed the Ministry that the official residence would be handed over to the government on December 12, but it was not handed over that day.
+
+◼️
+
+[Data](articles/7a96b686.json)
+
+[Extended Data](ext_articles/7a96b686.ext.json)
+
+---
+
+### Lohan Ratwatta couple
+
+*2024-12-02 12:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-தம்பதிக்கு-விளக்கமறியல்-நீடிப்பு/175-348108) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Lohan Ratwatta & wife Shashi Prabha remanded till Dec 6 for unregistered luxury vehicle case.
+
+🟩
+
+Former Minister of State Lohan Ratwatta and his wife Shashi Prabha Ratwatta have been remanded until December 6 in the case of an unregistered luxury vehicle.
+
+◼️
+
+[Data](articles/8c0e5c6f.json)
+
+[Extended Data](ext_articles/8c0e5c6f.ext.json)
+
+---
+
+### Road blocked due to protest opposite Education Ministry
+
+*2024-12-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103922/road-blocked-due-to-protest-opposite-education-ministry-) · `en`
+
+The Kottawa - Borella Road (174 bus route) has been completely blocked for traffic in front of the Ministry of Education due to a protest by Development Officers, Ada Derana reporter said.
+
+The Development Officers are engaged in the demonstration demanding that they be made permanent in the teaching service.
+
+◼️
+
+[Data](articles/6cf4ba84.json)
+
+---
 
 ### Death Clock Clock
 
@@ -55,6 +183,44 @@ The "Death Clock" processor run by artificial intelligence is said to have been 
 [Data](articles/c3268bc7.json)
 
 [Extended Data](ext_articles/c3268bc7.ext.json)
+
+---
+
+### Lohan Ratwatte and wife further remanded
+
+*2024-12-02 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103921/lohan-ratwatte-and-wife-further-remanded) · `en`
+
+Former Minister Lohan Ratwatte and his wife have been further remanded until December 6, by the Nugegoda Magistrate’s Court today (02).
+
+Former Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte, who were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, had previously been remanded in custody until today (December 02) by the Nugegoda Magistrate’s Court.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/7f01148c.json)
+
+[Extended Data](ext_articles/7f01148c.ext.json)
+
+---
+
+### Murdu Fernando sworn in as new Chief Justice
+
+*2024-12-02 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103920/murdu-fernando-sworn-in-as-new-chief-justice) · `en`
+
+Supreme Court Judge, Justice Murdu Fernando took oath as Sri Lanka’s new Chief Justice this morning (02) before President Anura Dissanayake.
+
+Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
+
+She assumes office as the 48th Chief Justice of Sri Lanka, succeeding Chief Justice Jayantha Jayasuriya, who recently retired. Her appointment received approval from the Constitutional Council.
+
+She began her career at the Attorney General’s Department in 1985, rising through its ranks to become Deputy Solicitor General in 1997 and Additional Solicitor General in 2014. With over three decades of service as a State Counsel, she was appointed to the Supreme Court in March 2018.
+
+...
+
+[Data](articles/7d847fa8.json)
+
+[Extended Data](ext_articles/7d847fa8.ext.json)
 
 ---
 
@@ -104,6 +270,26 @@ In addition, the Attorney General has requested that the petition filed in this 
 
 ---
 
+### Court informed of govt’s stance on Grade 5 Scholarship Exam issue
+
+*2024-12-02 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103919/court-informed-of-govts-stance-on-grade-5-scholarship-exam-issue) · `en`
+
+The Attorney General (AG) has informed the Supreme Court this morning (02) that the Cabinet of Ministers has recommended to award free marks to all students for the 03 questions which were alleged to have been leaked in the 2024 Grade 5 Scholarship Examination.
+
+Appearing on behalf of the AG, Solicitor General Viraj Dayaratne further stated that the Cabinet of Ministers’ stance was that it is not necessary to re-conduct the examination for this question paper, considering the potential stress it could cause to the students.
+
+Furthermore, the Solicitor General informed that the Attorney General has filed a motion seeking the petition to be taken up for hearing before a full bench of Supreme Court judges.
+
+Later, the petition was ordered to be taken up for hearing on December 11, Ada Derana reporter said.
+
+...
+
+[Data](articles/c8b52e1f.json)
+
+[Extended Data](ext_articles/c8b52e1f.ext.json)
+
+---
+
 ### Were besieged by the Divisional Secretariat
 
 *2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தை-முற்றுகையிட்டனர்/76-348105) · `ta`
@@ -149,6 +335,50 @@ Heavy rains in the Nuwara Eliya district have caused heavy rainfall over the pas
 [Data](articles/37b346f5.json)
 
 [Extended Data](ext_articles/37b346f5.ext.json)
+
+---
+
+### People gathered at the Divisional Secretariat
+
+*2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தில்-மக்கள்-குவிந்தனர்/76-348105) · `ta`
+
+Crowds gather at Nuwara Eliya Divisional Secretariat for Aswesa Welfare Benefits. Long queues form due to weekend closure. Public complains about inefficient distribution and order management. Heavy rains affect the region.
+
+🟩
+
+A large number of civilians have been waiting in long queues to obtain the new Aswesa Welfare Benefits of the Second Phase at the Nuwara Eliya Divisional Secretariat.
+
+Since Saturday and Sunday Days are holidays, the people of the area have assembled simultaneously to obtain the application forms in front of the Nuwara Eliya Divisional Secretariat.
+
+However, the public alleges that the department officials did not act in the process of distributing the application forms in the office and that no department officials were acting in the process of regulating the order.
+
+Heavy rains in the Nuwara Eliya district have caused heavy rainfall over the past weeks.
+
+◼️
+
+[Data](articles/bebaf7e7.json)
+
+[Extended Data](ext_articles/bebaf7e7.ext.json)
+
+---
+
+### Sri Lanka’s air quality gradually improves - CEA
+
+*2024-12-02 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103918/sri-lankas-air-quality-gradually-improves-cea) · `en`
+
+The Central Environmental Authority (CEA) says that the Sri Lanka Air Quality Index (SLAQI) is gradually reaching towards moderate levels across several regions in the country.
+
+Speaking at a media briefing, CEA media spokesperson Dr. Ajith Gunawardena stated that the SLAQI readings in many areas ranged between 100 and 110 as of yesterday (Dec. 01).
+
+Dr. Gunawardena assured the public that the current slightly unhealthy levels of the air quality are temporary and are expected to improve significantly within the next two days.
+
+The air quality levels dropped in Colombo and several other areas across the country during last two days as a result of the recent adverse weather conditions and a border disturbance from the north.
+
+...
+
+[Data](articles/7355b865.json)
+
+[Extended Data](ext_articles/7355b865.ext.json)
 
 ---
 
@@ -248,6 +478,8 @@ Meanwhile, the Road Development Authority stated that the Manampitiya- Aralaganw
 
 [Data](articles/0a63a8dc.json)
 
+[Extended Data](ext_articles/0a63a8dc.ext.json)
+
 ---
 
 ### Sri Lanka sells extra Rs18.4bn Treasury bonds after auction
@@ -267,6 +499,8 @@ Date of settlement of the above issuance is 2 December 2024. (Colombo/Dec2/2024)
 ◼️
 
 [Data](articles/6fe1c0d8.json)
+
+[Extended Data](ext_articles/6fe1c0d8.ext.json)
 
 ---
 
@@ -314,17 +548,43 @@ Meanwhile, in response to a question raised by a journalist whether the corporat
 
 [Data](articles/6abb8788.json)
 
+[Extended Data](ext_articles/6abb8788.ext.json)
+
 ---
 
-### முச்சந்தியில் நிற்கும் ரணில், சஜித் தரப்புக்களின்   தேசிய பட்டியல் விவகாரம்
+### Ranil standing in Muchandi
 
 *2024-12-02 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200204) · `ta`
 
-பொதுமக்கள் மக்களாட்சியின் மீதான நம்பிக்கையை இழக்காத வகையில் அரசியல் கட்சிகள் செயல்படவேண்டும் என்பது மிக முக்கியம். தேசிய பட்டியலுக்கான உறுப்பினர்களை நியமிப்பதில் பிரதான கட்சிகள் எதிர்கொண்டுள்ள இந்த சிக்கல்கள் இலங்கையின் அரசியல் நிர்வாகம் எவ்வளவு மேம்பட வேண்டும் என்பதைப் பற்றிய கண்ணோட்டத்தையும் வெளிப்படுத்துகிறது. சர்ச்சையின் முடிவுகள் கட்சியின் எதிர்கால பயணத்தை மட்டுமே அன்றி பாராளுமன்றத்தில் எதிர்க்கட்சிகளின் செயற்பாடுகளை பலப்படுத்தக் கூடியவையாகவும் அமைய வேண்டும்.
+Here's a summary of 200 characters:
+
+
+
+Ranil stands firm in Muchandi. Political parties must maintain public trust in democracy. National list appointments highlight Sri Lanka's political administration challenges. Controversy impacts party futures and opposition strength in Parliament.
+
+🟩
+
+It is very important that political parties should act so that the public should not lose confidence in democracy. These issues faced by the major parties in the appointment of members to the national list reveal the view of how the political administration of Sri Lanka should improve. The results of controversy should not only be the party's future journey but also strengthen the activities of the opposition parties in Parliament.
 
 ◼️
 
 [Data](articles/9a78a229.json)
+
+[Extended Data](ext_articles/9a78a229.ext.json)
+
+---
+
+### මාතලේ පොල් මිල රු. 230ට යයිමාතලේ පොල් මිල රු. 230ට යයි
+
+*2024-12-02 11:10:20* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පොල්-මිල-රු--230ට-යයිමාතලේ-පොල්-මිල-රු--230ට-යයි/11-413393) · `si`
+
+මාතලේ නගරයේ වෙළදැසල්වල පොල් ගෙඩියක මිල රුපියල් 200ත් 230ත් අතර වන බව පාරිභෝගිකයෝ පවසයි.
+
+ඇතැම් වෙළදසැල්වල පොල් හිගයක් ද පවතින බවත් පොල් මිලදි ගැනිමේදි ඇතැම් වෙළදසැල් හිමියන් තේරිමට ඉඩනොදෙන බවත් විකිණිමට ඇති පොල් මිලදි ගන්නා ලෙස පවසන බවද පාරිභෝගිකයෝ පවසයි.
+
+◼️
+
+[Data](articles/90ac324a.json)
 
 ---
 
@@ -693,6 +953,22 @@ The United Rice Manufacturers Association has pointed out that the total price o
 [Data](articles/88148f1b.json)
 
 [Extended Data](ext_articles/88148f1b.ext.json)
+
+---
+
+### රුපියල් මිලියන 192,500 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් අනිද්දා
+
+*2024-12-02 09:11:44* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-192-500-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-413391) · `si`
+
+රුපියල් මිලියන එක්ලක්ෂ අනූ දෙදහස් පන්සියයක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් දෙසැම්බර්  04  දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 58,500  ක භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 67, 000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 67, 000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව කියයි.
+
+වෙන්දේසිය සඳහා ලංසු භාර ගැනීම දෙසැම්බර්   04  දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි.මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම දෙසැම්බර් 06  දා සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/920df3df.json)
 
 ---
 
@@ -2021,337 +2297,5 @@ The father of two children, Selvaniroyan, aged 46, from Navakkulam, has been kil
 [Data](articles/399ff20b.json)
 
 [Extended Data](ext_articles/399ff20b.ext.json)
-
----
-
-### A plane to Chennai Super Kings
-
-*2024-12-01 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203935) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Chennai Super Kings gets private Etihad flight for IPL convenience.
-
-🟩
-
-Chennai Super Kings, which joins the Indian Premier League cricket team, has been allocated a private flight for the convenience of his players.
-
-The plane is one of the ETIHAD Airways of the United Arab Emirate.
-
-◼️
-
-[Data](articles/edb33ee8.json)
-
-[Extended Data](ext_articles/edb33ee8.ext.json)
-
----
-
-### Experience of the Supreme Success Ranil
-
-*2024-12-01 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200167) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Supreme Success Ranil faces four intertwined crises: economic, geopolitical, regime, and ethnic issues. A significant gap exists between campaign promises and implementable realities due to the current political environment.
-
-🟩
-
-There is a massive gap between the principles of Anura and the practical reality. Similarly, there is a huge gap between the election promises and the practical environment that can implement it. There is no environment for the present to fulfill any promises they have put forward. The Anura government has to face the four crises that are intertwined with the economic crisis, the geopolitical crisis, the regime crisis and the ethnic problem.
-
-◼️
-
-[Data](articles/1f8bb288.json)
-
-[Extended Data](ext_articles/1f8bb288.ext.json)
-
----
-
-### Arrest with illegal cigarettes
-
-*2024-12-01 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200176) · `ta`
-
-Man arrested for illegal cigarettes in three-wheeler during STF raid. Suspect, 36, from Wellawa.
-
-🟩
-
-A man who was traveling in a three -wheeler with cigarettes illegally brought to the country was arrested by police on Saturday (30).
-
-He was arrested following a raid conducted by the Special Task Force of the Police on information received by the Kurunegala camp authorities.
-
-The suspect was 36 years old from Wellawa.
-
-◼️
-
-[Data](articles/bee5adcd.json)
-
-[Extended Data](ext_articles/bee5adcd.ext.json)
-
----
-
-### Action will be taken in connection with the port for Gurunagar - Northern Governor
-
-*2024-12-01 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200175) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Gurunagar port construction announced by Northern Province Governor. Minister of Fisheries to implement. World Fisheries Festival held. Fishermen honored. Port and main road rehabilitation requested. Local officials attend event.
-
-🟩
-
-The Governor of the Northern Province, Navethanayakan, said that the Northern Province Governor Na Vedtanayagan said that the Minister of Fisheries will take appropriate measures to construct a port for Gurunagar, which is the long -standing demand of the people of Gurunagar.
-
-The World Fisheries Festival was organized by the Gurunagar Fisheries Development Association this morning at the Gurunagar Labor Relaxation Hall.
-
-Important pillars of agriculture and fisheries Northern Province. Jaffna for the development of the people of this area. I have done various things during the time I served as the District Secretary.
-
-Sudarshan, who is the Divisional Secretary of your area today and today, has played a key role in this. Hon. E. Chandrasekhar, who has been appointed as the Minister of Fisheries. He will do many for you.
-
-...
-
-[Data](articles/3f6622b6.json)
-
-[Extended Data](ext_articles/3f6622b6.ext.json)
-
----
-
-### Relief packages provided by cricketer Mahesh Dikshana to flood victims in Eravur
-
-*2024-12-01 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200174) · `ta`
-
-Cricketer Mahesh Dikshana provides relief packages to Eravur flood victims with financial assistance from Sri Lankan National Cricket Team.
-
-🟩
-
-The Eravur Young Hero Sports Club has provided 100 packages of relief items with the financial assistance of two lakhs of rupees of the Sri Lankan National Cricket Team's star spinner Mahesh Diksana.
-
-Sri Lankan National Cricket Team's star spinner Mahesh Dikshana told the Senior Member of the Eravur Young Hero Sports Club. Mahesh Dikshana provided financial assistance at the request made through the Najikullah Social Website.
-
-Accordingly, the Young Hero Sports Club selected 100 children in flood -affected families and provided them with packets of milk and other items worth Rs.
-
-Meanwhile, the Sports Club has thanked the Sri Lankan National Cricket Team star Mahesh Diksana for the highest humanitarian work.
-
-◼️
-
-[Data](articles/29a207a1.json)
-
-[Extended Data](ext_articles/29a207a1.ext.json)
-
----
-
-### Malaysia and Thailand flooding kills at least 12
-
-*2024-12-01 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103907/malaysia-and-thailand-flooding-kills-at-least-12) · `en`
-
-Huge flooding caused by heavy rain in Malaysia and neighbouring Thailand has killed at least 12 people, officials say.
-
-More than 122,000 people have been forced out of their homes in northern Malaysia, while in southern Thailand, around 13,000 others have also been displaced.
-
-There are fears the number could rise, as heavy rain and storm warnings remain in place.
-
-Emergency services personnel have been deployed to help rescue stranded residents and shelters are being provided.
-
-The flooding, which began earlier in the week, has seen thousands of residents evacuated in both nations.
-
-Videos on social media and local news show cars and houses submerged, and people wading through waist-deep water.
-
-One video, filmed in Thailand’s Sateng Nok district, showed rescuers carrying a baby out from a roof of a flooded home.
-
-Flooding has impacted nearly 534,000 households in southern Thailand, disaster officials said, and two hospitals had to close to prevent floodwaters from damaging medical facilities.
-
-...
-
-[Data](articles/08f3dd70.json)
-
-[Extended Data](ext_articles/08f3dd70.ext.json)
-
----
-
-### Police investigate the birthday of LTTE leader in Valvettithurai
-
-*2024-12-01 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200173) · `ta`
-
-Police probe LTTE leader birthday celebration in Valvettithurai. Five attendees investigated, including ex-MP MK Sivajilingam. Banner with LTTE leader photo displayed. Police claim no law allows it. Youth arrested for posting image.
-
-🟩
-
-Valvettithurai police have launched an investigation into the 70th birthday of the leader of the Liberation Tigers of Tamil Eelam (LTTE) held in Valvettithurai in Jaffna.
-
-Investigations have been carried out by five persons who participated in a birthday party including former MP MK Sivajilingam.
-
-A banner with a photo of the leader of the Liberation Tigers of Tamil Eelam (LTTE) was printed and displayed for a birthday celebration at the Native House of the Liberation Tigers of Tamil Eelam (LTTE) in Valvettithurai.
-
-The Valvettithurai police, who arrived at the time, said that the photo of the LTTE leader could not be used and that there was no law.
-
-Investigations have begun on the birthday party in Jaffna as a youth from the Uruvil area has been arrested and detained by the Terrorist Prevention Division for allegedly posting a photo of the LTTE leader.
-
-◼️
-
-[Data](articles/11f3451d.json)
-
-[Extended Data](ext_articles/11f3451d.ext.json)
-
----
-
-### Two arrested with ice and heroin in Colombo
-
-*2024-12-01 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200172) · `ta`
-
-Colombo arrests: 2 suspects caught with ice & heroin. Police seized 15g ice & 50g heroin, along with vehicles & phones.
-
-🟩
-
-Two persons have been arrested by police yesterday (30) with ice and heroin drugs during two other rounds in Colombo.
-
-15 grams of 200 milligrams of ice from the suspect has been seized by the police.
-
-Meanwhile, a suspect in the Kottawa Police Division has been arrested yesterday for possessing heroin.
-
-50 grams of 750 milligrams of heroin, car and mobile phone have been seized by the police.
-
-◼️
-
-[Data](articles/cd87202b.json)
-
-[Extended Data](ext_articles/cd87202b.ext.json)
-
----
-
-### වසර හයක් තිස්සේ දුම්රිය එන්ජින් 78ක් කොට උඩ
-
-*2024-12-01 19:04:07* · [`adalk`](https://www.ada.lk/breaking_news/වසර-හයක්-තිස්සේ-දුම්රිය-එන්ජින්-78ක්-කොට-උඩ/11-413389) · `si`
-
-අලුත්වැඩියා කටයුතු සඳහා යොමු කොට තිබූ දුම්රිය එන්ජින් 78ක් අලුත්වැඩියා  කිරීම සිදු නොකොට, 2017 වර්ෂයේ සිට 2023 දෙසැම්බර් 31 දක්වා වසර 06ක කාලයක් තුළ ධාවනාගාරවල හෝ රත්මලාන ප්‍රධාන දුම්රිය වැඩපළෙහි රඳවා ගෙන තිබූ බව ජාතික විගණන කාර්යාලය මගින් නොවැම්බර් 29 දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
-
-දුම්රිය දෙපාර්තමේන්තුව සතුව M Class එන්ජින් 103 ක් තිබෙන අතර, ඉන් එන්ජින් 47ක් අලුත්වැඩියා කටයුතු සඳහා ධාවනයෙන් ඉවත් කොට ඇත. M Class වර්ගයේ එන්ජිමක වටිනාකම රුපියල් මිලියන 150ත් 765ත් අතර වන බවද එම විගණන වාර්තාවේ සඳහන් වේ.
-
-එමෙන්ම රුපියල් මිලියන 8 සිට 218 අතර දක්වා වටිනාකමට මිලදී ගෙන තිබූ S Class එන්ජින් 133ක් අතුරින් එන්ජින් 31ක් අලුත්වැඩියා සඳහා යොමුකොට වසර 07කට අධික කාලයක සිට අලුත්වැඩියා කටයුතු සිදු නොකොට ධාවනාගාරවල රඳවා ගෙන සිටින බවද විගණනය මගින් අනාවරණය කර ඇත.
-
-...
-
-[Data](articles/5c931282.json)
-
----
-
-### Flooding into homes;Snakes around!- The people of Sankanai who fear returns home
-
-*2024-12-01 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200170) · `ta`
-
-Floods displace 20 in Sankanai; snakes reported. Residents seek permanent solution to annual issue.
-
-🟩
-
-20 people from 5 families have been housed at Vaddukoddai Hindu College due to floods.
-
-They are the residents of the J /57 Grama Niladhari Division of the Sanganai Divisional Secretariat.
-
-They say that they have flooded their homes and snakes around the house.
-
-They further stated that such problems occur during the rainy season every year and that it should be resolved.
-
-◼️
-
-[Data](articles/03e2b654.json)
-
-[Extended Data](ext_articles/03e2b654.ext.json)
-
----
-
-### Will you get good news in 2025?
-
-*2024-12-01 18:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025இல்-நல்ல-செய்தி-வருமா/175-348063) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Electricity Board hands plan to Public Utilities Commission on June 6. Spokesman says proposal nearly ready. Will 2025 bring good news?
-
-🟩
-
-The Electricity Board's idea will be handed over to the Public Utilities Commission on the 6th of this month.
-
-A spokesman for the Board said that the preparation of the proposal is in the final stages.
-
-◼️
-
-[Data](articles/e97b7681.json)
-
-[Extended Data](ext_articles/e97b7681.ext.json)
-
----
-
-### Inflation goes down
-
-*2024-12-01 18:49:01* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවත්-පහළට/11-413388) · `si`
-
-Sri Lanka's inflation drops: Colombo area sees -2.1% consumer inflation in Nov 2024, down from -0.8% in Oct. Food inflation decreases to 0.6% in Nov, compared to 1.0% in Oct. Overall food inflation falls from -13.3% to -3.3% in 2024.
-
-🟩
-
-Inflation in Sri Lanka has further fallen. Accordingly, the consumer inflation rate of the Colombo Municipal Community has reduced to-2.1% for November 2024.It was reported to -0.8% for October 2024.
-
-In November 2024, the annual inflation of food category (point) has been reduced to 0.6%, and in October 2024 as 1.0%.
-
-Also, 2024-food annual inflation has been reduced to-3.3% to-13.3% in October 2024.
-
-◼️
-
-[Data](articles/19c420eb.json)
-
-[Extended Data](ext_articles/19c420eb.ext.json)
-
----
-
-### Weather-destroyed vegetable cultivation also seek compensation
-
-*2024-12-01 18:42:51* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-විනාශ-වූ-එළවළු-වගාවටත්-වන්දි-ඉල්ලයි/11-413387) · `si`
-
-Upcountry vegetable farmers demand compensation for crop damage due to weather disasters. Government assistance limited to specific crops like paddy and potatoes. Farmers seek support for other affected vegetables like leeks, carrots, beans, and tomatoes.
-
-🟩
-
-The farmers of the uprox vegetables are demanded as a result of bad weather.
-
-The government has not taken measures to pay compensation for six crops including paddy, big onions, potatoes, but the government has not taken compensation to facilitate other crops.
-
-Vegetable farmers have been destroyed due to the recent floods and other disasters, such as leeks, carrots, beans, beetroot, beetroot, beetroot, beetroet, tomatoes, tomatoes.Says.
-
-They have been severely damaged due to floods in the Kandapola area, and they have been completely destroyed due to floods.
-
-Farmers say they are engaged in vegetable crops and intense helplessly, which has been paid to the banks and the earnings of the banks.
-
-They call upon the government to reach the cultivation of the damage to the damaging damage to the upcountry vegetable ground.
-
-◼️
-
-[Data](articles/5d586632.json)
-
-[Extended Data](ext_articles/5d586632.ext.json)
-
----
-
-### ඊටීඑෆ් වැඩිවෙලා ඊපීඑෆ් අඩුවෙලා
-
-*2024-12-01 18:35:10* · [`adalk`](https://www.ada.lk/breaking_news/ඊටීඑෆ්-වැඩිවෙලා-ඊපීඑෆ්-අඩුවෙලා/11-413386) · `si`
-
-සේවක අර්ථසාධක අරමුදලේ ලියාපදිංචි වීම පැහැර හරිමින් සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ පමණක් ලියාපදිංචිව සිටින සේවා යෝජකයන් සංඛ්‍යාව 2024නොවැම්බර් මස 15වැනිදා වනවිට25,610 ක් දක්වා ඉහළ ගොස් ඇති බව කම්කරු දෙපාර්තමේන්තුවේ  විගණන අංශය මගින් අනාවරණය කර ඇත.
-
-මෙම සේවායෝජකයන්  හඳුනාගෙන සේවක අර්ථසාධක අරමුදලට බඳවා ගැනීමේ හැකියාව ඇතත් එම කටයුතු ඉතා මන්දගාමී තත්වයකට  පවතින බවද එම විගණන වාර්තාවේ සඳහන්වේ.
-
-2023 වර්ෂය අවසානය වනවිට එසේ  ලියාපදිංචි වී නොමැති සේවා යෝජකයන් සංඛ්‍යාව  29,000 කට ආසන්න  පිරිසක් බවත් ජාතික විගණන කාර්යාලය මගින්  සිදු කරන ලද පරීක්ෂණයකින් අනාවරණය වී ඇත.
-
-ජාතික විගණන කාර්යාලය මගින් එම පරීක්ෂණය 2024 ජූලි මාසයේ දී සිදු කර ඇති අතර එම අවස්ථාවේදී එම සේවායෝජකයන්ගෙන් සේවා නියුක්තියන්ගේ  භාර අරමුදලට  රුපියල් කෝටි 40 කට අධික මුදලක්  බැරවී තිබූ බවද එම විගණන වාර්තාව මගින් අනාවරණය වී ඇත.
-
-මෙම සේවා යෝජකයන් කඩිනමින් සේවක අර්ථ සාධක අරමුදලින් ලියාපදිංචි කිරීමට කටයුතු කර දෙන ලෙස  විගණන කාර්යාලය මගින් කම්කරු  දෙපාර්තමේන්තුවට දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/7c170dda.json)
 
 ---

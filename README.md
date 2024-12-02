@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 01:42:03**
+As of **2024-12-03 02:01:28**
 
 ## Newspaper Stats
 
-*Scraped **58,121** Articles*
+*Scraped **58,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,009
 dailymirrorlk | 4,733
 adalk | 5,496
 adaderanalk | 7,047
-tamilmirrorlk | 8,259
+tamilmirrorlk | 8,260
 virakesarilk | 9,519
 adaderanasinhalalk | 10,038
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,121 (100.0%) of 58,121 articles have been extended.
+58,121 (100.0%) of 58,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### ஜப்பான் தூதுவர் செந்தில் தொண்டமானுடன் சந்திப்பு
+
+*2024-12-03 01:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவர்-செந்தில்-தொண்டமானுடன்-சந்திப்பு/175-348146) · `ta`
+
+இலங்கைக்கான ஜப்பானிய தூதுவர் ஸ்சொமடோ அக்கியோவிற்கும் (Isomata Akio) இலங்கை தொழிலாளர் காங்கிரசின் தலைவர் செந்தில் தொண்டமானுக்குமிடையில் மரியாதை நிமித்தமான சந்திப்பு இடம்பெற்றது.
+
+இச்சந்திப்பின் போது, கடந்த காலங்களில் ஜப்பான் தூதரகம் மலையக மக்களுக்கு பாரிய உதவிகளை வழங்கியது குறித்து செந்தில் தொண்டமான் நினைவூட்டியதுடன், தொடர்ந்தும் மலையக மக்களுக்காக  வலுவான உதவிகளை வழங்க வேண்டும் எனவும் கோரிக்கை விடுத்தார்.
+
+மேலும் புதிய ஜப்பான் தூதுவர் தனது கடமைகளை பொறுப்பேற்றுள்ள நிலையில், மலையகத்திற்கு முதல் விஜயம் மேற்கொள்ளுமாறு செந்தில் தொண்டமான் அழைப்பு விடுத்துள்ளார். (a)
+
+◼️
+
+[Data](articles/0278e388.json)
+
+---
 
 ### In Jaffna
 
@@ -2437,41 +2453,5 @@ Sir John had struck back with the Premier Stakes which he later denied having an
 [Data](articles/5e8fa427.json)
 
 [Extended Data](ext_articles/5e8fa427.ext.json)
-
----
-
-### Shahragen Shanmugamganatan: 13 years ago Tony Gray parliamentary
-
-*2024-12-02 13:01:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2y80egdjeo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan cricketer Shahragen Shanmugamganatan's journey from age 4 to becoming a promising young player. His father shares his son's passion for cricket, starting with Tony Greig's commentary. Trained by coaches like Nelson Mendis, he excelled in school cricket and national teams. Favorite players include Kumar Sangakkara and Virat Kohli.
-
-🟩
-
-Shahragen Shanmugamganatan: 13 years ago Tony Gray parliamentary
-
-"Look at it.. A great cover drive blow. Punchi Kumar Sangakkara, "This is a range of words between Sri Lanka and Australia in a Test Commentary Tony Gray Gray Gray Gray.
-
-Tony Greg was about four-year-old little player in the Colombo SSC Stadium.
-
-Kumar Sangakkara, a prosperous batsman, was attacked while playing cricket at a distant child in a distant child.
-
-IPL athletes auction 2025: 13-year-old player for the first time
-
-Tony Greg said that the talk was in the world today and focus on the sports world about the small Shahjan Shanmuganathan.
-
-Shahragen Shanmuganathan is currently being held in the UK Cup, the Asia Cup, the Sri Lankan team to score a half century against the Afghan group against the Afghan group.
-
-Shahjan Shanmuganatan reside in Colombo, Colombo on April 25, 2006. St. Benedictine College, the youngest child of the family, is studying at St. Benedictine College.
-
-...
-
-[Data](articles/3aafb0f5.json)
-
-[Extended Data](ext_articles/3aafb0f5.ext.json)
 
 ---

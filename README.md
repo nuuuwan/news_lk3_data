@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 21:42:45**
+As of **2024-12-02 22:02:08**
 
 ## Newspaper Stats
 
-*Scraped **58,103** Articles*
+*Scraped **58,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 5,494
 adaderanalk | 7,045
 tamilmirrorlk | 8,258
 virakesarilk | 9,516
-adaderanasinhalalk | 10,037
+adaderanasinhalalk | 10,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,100 (100.0%) of 58,103 articles have been extended.
+58,103 (100.0%) of 58,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### උතුරන්න වැස්සත් විදුලි ගාස්තුවට මොකක් වෙයිද?
+
+*2024-12-02 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203970) · `si`
+
+පැවති වැසි සහිත කාලගුණ තත්ත්වය හමුවේ ජල විදුලිය උත්පාදනයට යොදාගැනෙන ජලාශවල ජලමට්ටම් ඉහළ යාමත් සමග මේ වනවිට එම බලාගාරවලින් ඉහළ ධාරිතාවකින් විදුලිය උත්පාදනය කරන බව විදුලිබල මණ්ඩල දත්ත අනාවරණ කර තිබේ.
+
+ඒ අනුව ඊයේ (01) දිනයේදී දිවයිනේ සමස්ත විදුලි අවශ්‍යතාවෙන් 62.2%ක්ම උත්පාදනය කර තිබුණේ ජල විදුලි බලාගාරවලිනි.
+
+මෙවැනි පසුබිමක විදුලි පාවිච්චිකරන්නන්ගේ සංගමයේ ලේකම් සංජීව ධම්මික පවසන්නේ 35% ත් 40%ත් අතර ප්‍රතිශතයකින් විදුලි ගාස්තුව අඩුකළ යුතු බවය.
+
+"මේ වෙනකොට කාර්තු ක්‍රමයට ගත්තාම හතරවෙනි විදුලි සංශෝධනයත් අපි භුක්ති විඳින්න ඕනේ. හැබැයි භුක්ති විඳින්න තියා මේ ආණ්ඩුව මේක ගැන තව හිතලාවත් නැති විදිහක් තමයි අපිට නම් පෙනෙන්නේ. මේ විදුලි බල මණ්ඩලයේ පත් කරපු සභාපතිවරයාට කොන්ත්‍රාත් සමාගමක් තියෙනවා විදුලි බල ක්ෂේත්‍රය ගැන. ඒ වගේම උප සභාපති ඉන්නවා ඔහුටත් කොන්ත්‍රාත් සමාගමක් තියෙනවා විදුලි ක්ෂේත්‍රය ගැන. ඉතිං මේවා තියෙද්දි විදුලි බිල අඩු වෙයිද?"
+
+ඒනිසා මෙවර සංශෝධනයේදී විදුලි බිල අඩුවීමේ ප්‍රතිශතය 35%ත් - 40ත් ලබා දිය යුතුමයි. මොකද විදුලි බල මණ්ඩලය මේ වෙනකොට බිලියන 200කට වඩා ලාබ ලබමින් තමයි තියෙන්නේ.
+
+...
+
+[Data](articles/6b128589.json)
+
+---
 
 ### President stresses need for stable and affordable rice supply in coming months
 
@@ -722,23 +742,29 @@ We would like to inform the public to inform the public as the Sri Lanka Compute
 
 ---
 
-### මැතිවරණ වියදම් වාර්තා නොදෙන අයට කොමිෂමෙන් රතු නිවේදනයක්
+### Commissioner a red announce to those who never record election costs
 
 *2024-12-02 17:18:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-වියදම්-වාර්තා-නොදෙන-අයට-කොමිෂමෙන්-රතු-නිවේදනයක්/11-413408) · `si`
 
-මැතිවරණ වියදම් වාර්තා නියමිත දිනට භාර නොදෙන පාර්ලිමේන්තුවට තරග කළ  දේශපාලන පක්ෂ, ස්වාධීන කණ්ඩායම්  සහ අපෙක්ෂකයන්ට නීති මගින් කටයුතු කරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+Elections Commission warns parties: Submit election cost reports by midnight on 6th. Offices open until 6 PM. Reports must be handed to inquiry officers and Head Office.
 
-මේ  මස 06 වැනි දින  මධ්‍යම රාත්‍රී 12.00 ට පෙර මැතිවරණ ප්‍රචාරක ආදායම් වියදම් වාර්තා භාර දිය යුතු බවත් අදාළ කාලයෙහි වාර්තා භාර නොදීම වරදක් බවත්  මැතිවරණ කොමිෂන් සභාව පෙන්වා දෙයි.
+🟩
 
-වාර්තා භාර දීම සඳහා රාජකාරි දිනවල සවස 6.00 දක්වාත්  මේ මස 06 වැනි දින රාත්‍රී 12.00 දක්වාත් අදාළ කාර්යාල විවෘතව තැබීමට කටයුතු කරන බවද සඳහන් කරයි.
+The Elections Commission states that political parties, independent groups, and candidates who compete in the parliament that will not be handed over to the parliament that will not be handed over to the due date.
 
-මේ අනුව සියලුම දේශපාලන පක්ෂ හා  ස්වාධීන කණ්ඩායම් අපෙක්ෂකයන්  විසින් තරගකරන ලද මැතිවරණ දිස්ත්‍රික්කයේ තේරම්භාර  නිලධාරීන් වෙත අදාළ  භාර දිය යුතු බවද පෙන්වා දෙයි.
+The Elections Commission states that election propaganda income reports should be handed over before 12 midnight on the 6th of this month.
 
-ජාතික ලැයිස්තු අනුව නම් කරන ලද අපෙක්ෂකයන්ගේ  මැතිවරණ ප්‍රචාරක ආදායම් හා වියදම් වාර්තා මැතිවරණ කොමිෂන්  සභාවේ ප්‍රධාන කාර්යාලයට භාර දිය යුතු බවද  සඳහන් කරයි.
+It is said that the offices will be open until 6:00 pm on the duty work on their duty on their duties and 6 pm on the 6th of this month.
+
+It also pointed out that all political parties and independent groups contesting should be delivered to the inquiry officers in the election district.
+
+It is said that the election propaganda revenue and expenditure of the election should be handed over to the Head Office of the Elections Commission.
 
 ◼️
 
 [Data](articles/33ddbadf.json)
+
+[Extended Data](ext_articles/33ddbadf.ext.json)
 
 ---
 
@@ -896,17 +922,27 @@ Any inquiries regarding the submission of applications can be made through hotli
 
 ---
 
-### මැති ඇමති හිටපු ජනපති වරප්‍රසාද ගැන සෙවූ කමිටු වාර්තාව ජනපතිට
+### Committener report to the President's privileges
 
 *2024-12-02 17:01:29* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමති-හිටපු-ජනපති-වරප්‍රසාද-ගැන-සෙවූ-කමිටු-වාර්තාව-ජනපතිට/11-413407) · `si`
 
-මන්ත්‍රීවරුන්, අමාත්‍යවරුන් හා හිටපු ජනාධිපතිවරුන්ට ලබාදෙන දීමනා හා වරප්‍රසාද පිළිබඳ නැවත සලකා බැලීමට පත්කළ කේ. ටී. චිත්‍රසිරි කමිටුවේ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත භාර දී තිබේ.
+Here's a summary of 200 characters:
 
-අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය  සහ ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක එම අවස්ථාවට එක්ව සිටියහ.
+
+
+Committee report: Re-examining perks offered by MPs, ministers, and ex-presidents. Handed to President Anura Kumara Dissanayake. Prime Minister Haritha Amarasuriya and Presidential Secretary Nandika Sanath Kanayake attended.
+
+🟩
+
+Re-considered Ken to reconsider the offers and privileges provided by MPs, Ministers and former Presidents. T. The report of the Phariseiri Committee has been handed over to President Anura Kumara Dissanayake.
+
+Prime Minister Dr. Harathin Amarasuriya and Presidential Secretary Dr. Nandika Sanath Kanayake participated in the event.
 
 ◼️
 
 [Data](articles/d4bfdb1c.json)
+
+[Extended Data](ext_articles/d4bfdb1c.ext.json)
 
 ---
 
@@ -2244,6 +2280,8 @@ Fernando earned her Bachelor of Laws degree from the Faculty of Law, University 
 
 [Data](articles/4a4be92a.json)
 
+[Extended Data](ext_articles/4a4be92a.ext.json)
+
 ---
 
 ### Death Clock Clock
@@ -2451,29 +2489,5 @@ Heavy rains in the Nuwara Eliya district have caused heavy rainfall over the pas
 [Data](articles/37b346f5.json)
 
 [Extended Data](ext_articles/37b346f5.ext.json)
-
----
-
-### People gathered at the Divisional Secretariat
-
-*2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தில்-மக்கள்-குவிந்தனர்/76-348105) · `ta`
-
-Crowds gather at Nuwara Eliya Divisional Secretariat for Aswesa Welfare Benefits. Long queues form due to weekend closure. Public complains about inefficient distribution and order management. Heavy rains affect the region.
-
-🟩
-
-A large number of civilians have been waiting in long queues to obtain the new Aswesa Welfare Benefits of the Second Phase at the Nuwara Eliya Divisional Secretariat.
-
-Since Saturday and Sunday Days are holidays, the people of the area have assembled simultaneously to obtain the application forms in front of the Nuwara Eliya Divisional Secretariat.
-
-However, the public alleges that the department officials did not act in the process of distributing the application forms in the office and that no department officials were acting in the process of regulating the order.
-
-Heavy rains in the Nuwara Eliya district have caused heavy rainfall over the past weeks.
-
-◼️
-
-[Data](articles/bebaf7e7.json)
-
-[Extended Data](ext_articles/bebaf7e7.ext.json)
 
 ---

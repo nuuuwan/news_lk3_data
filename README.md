@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 16:01:26**
+As of **2024-12-02 16:16:51**
 
 ## Newspaper Stats
 
-*Scraped **58,039** Articles*
+*Scraped **58,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,490
 economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,483
+adalk | 5,484
 adaderanalk | 7,035
-tamilmirrorlk | 8,250
+tamilmirrorlk | 8,251
 virakesarilk | 9,497
 adaderanasinhalalk | 10,027
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,036 (100.0%) of 58,039 articles have been extended.
+58,036 (100.0%) of 58,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9e63f857.json)
+
+---
+
+### ’’எமது பாராளுமன்ற குழு இன்று 5 மணிக்கு கூடும்’’
+
+*2024-12-02 15:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-பாராளுமன்ற-குழு-இன்று-5-மணிக்கு-கூடும்/175-348119) · `ta`
+
+நாளை (03)  பாராளுமன்றத்தில் நடைபெறவுள்ள ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் கொள்கைப் பிரகடனத்தின் மீதான விவாதத்தில் கலந்துகொள்பவர்கள் மற்றும் எதிர்க்கட்சியின் பிரதம கொறடாவை தெரிவு செய்யும் ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்றக் குழு இன்று (02)  மாலை 5 மணிக்கு கூடவுள்ளது.
+
+இந்த முக்கிய தீர்மானங்களை எடுப்பதற்காக எமது பாராளுமன்ற குழு இன்று (02) மாலை 5 மணிக்கு கூடும் என பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d5a57b15.json)
+
+---
+
+### දිලීප පීරීස් සහ ශනිල් කුලරත්න ශ්‍රේෂ්ඨාධිකරණ නීතිඥවරු ලෙස දිවුරුම් දෙති
+
+*2024-12-02 15:30:08* · [`adalk`](https://www.ada.lk/breaking_news/දිලීප-පීරීස්-සහ-ශනිල්-කුලරත්න-ශ්‍රේෂ්ඨාධිකරණ-නීතිඥවරු-ලෙස-දිවුරුම්-දෙති/11-413399) · `si`
+
+අතිරේක සොලිසිටර් ජනරාල්වරුන් වන දිලීප පීරීස් සහ ශනිල් කුලරත්න යන මහත්වරු ජනාධිපති නීතීඥවරුන් වශයෙන් ශ්‍රේෂ්ඨාධිකරණයේදී දිව්රුම් දුන්හ.
+
+අගවිනිසුරු ජයන්ත ජයසුරිය මහතා ප්‍රමුඛ ශ්‍රේෂ්ඨාධිකරණ, අභියාචනාධිකරණ ඇතුළු සෙසු අධිකරණ වල විනිසුරුවරුන් ඇතුළු සම්භාවනීය අමුත්තන්ගේ සහභාගීත්වයෙන් ශ්‍රේෂ්ඨාධිකරණයේ පැවැත්වු චාම් උත්සවයකදී ඒ මහත්වරු ජනාධිපති නීතීඥවරුන් වශයෙන් දිව්රුම් දුන්හ.
+
+නීතීපති දෙපාර්තමෙන්තුවට අනුයුක්තව රාජකාරි කරන දිලීප පීරීස් සහ ශනිල් කුලරත්න යන මහත්වරු අතිරේක සොලිසිටර් ජනරාල් ධුරයන්ට උසස් කළ බව නීතීපතිවරයා ජනාධිපති අනුර කුමාර දිසානායක මහතාට කළ දැනුම් දීමකට අනුව ඒ මහත්වරු ජනාධිපති නීතීඥවරුන් වශයෙන් නම් කරන ලදී.
+
+...
+
+[Data](articles/1eb018da.json)
 
 ---
 
@@ -2325,41 +2355,5 @@ In an exciting initiative to bolster Sri Lanka’s tourism industry, the Sri Lan
 [Data](articles/0f556312.json)
 
 [Extended Data](ext_articles/0f556312.ext.json)
-
----
-
-### Seylan Cards partners with FitsAir to continue its swipe and win promo
-
-*2024-12-02 01:38:00* · [`islandlk`](http://island.lk/seylan-cards-partners-with-fitsair-to-continue-its-swipe-and-win-promo/) · `en`
-
-Seylan Cards, the Essential Card for Heartfelt Essentials, has partnered with FitsAir to continue its Swipe and Win promo. This initiative follows the success of previous iterations, where Seylan Cards rewarded customers with airline tickets to exciting destinations such as Singapore and the Maldives. Now, Seylan Card holders have another opportunity to win free airline tickets to Dubai. One lucky Seylan Card holder will have the chance to win two airline tickets to Dubai, on a monthly basis, starting from October 1st till December 31st , 2024.
-
-With 6 tickets for 3 winners up for grabs, Seylan Card holders need to carry out a minimum transaction of Rs. 5,000 using their Seylan Credit Card to enter the draw. The more transactions they make, the higher their chances of winning. Seylan Bank will announce the winners monthly, ensuring transparency and fairness in the selection process.
-
-...
-
-[Data](articles/507278e0.json)
-
-[Extended Data](ext_articles/507278e0.ext.json)
-
----
-
-### ComBank unveils biggest card promo to date
-
-*2024-12-02 01:38:00* · [`islandlk`](http://island.lk/combank-unveils-biggest-card-promo-to-date/) · `en`
-
-The Commercial Bank of Ceylon has unveiled its annual year-end discounts bonanza for credit and debit card holders, heralding another season of great bargains.
-
-The Bank has announced that 4,000 merchant outlets across Sri Lanka will offer discounts of up to 50% on selected days up to 31st December 2024, exclusively to its cardholders.
-
-These discounts will be offered by 187 merchant partners retailing clothing and fashion accessories, 62 lifestyle products partners, 26 partners retailing shoes and leatherware, 74 hotel partners, 22 jewellery partners, 18 healthcare partners, nine salon, spa and cosmetics partners, five supermarket partners, nine automobile partners, six watches and accessories partners, and seven dining partners, the Bank said.
-
-Additionally, 90 online vendor partners will offer discounts to ComBank credit and debit card holders during the promotion period.
-
-...
-
-[Data](articles/e5ec94b0.json)
-
-[Extended Data](ext_articles/e5ec94b0.ext.json)
 
 ---

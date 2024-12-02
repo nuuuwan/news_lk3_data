@@ -1,94 +1,556 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 16:16:51**
+As of **2024-12-02 17:44:23**
 
 ## Newspaper Stats
 
-*Scraped **58,041** Articles*
+*Scraped **58,064** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
-colombotelegraphcom | 591
+colombotelegraphcom | 592
 bbccomsinhala | 603
 islandlk | 3,490
-economynextcom | 3,521
+economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,484
-adaderanalk | 7,035
-tamilmirrorlk | 8,251
-virakesarilk | 9,497
-adaderanasinhalalk | 10,027
+adalk | 5,488
+adaderanalk | 7,037
+tamilmirrorlk | 8,254
+virakesarilk | 9,500
+adaderanasinhalalk | 10,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,036 (100.0%) of 58,041 articles have been extended.
+58,056 (100.0%) of 58,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### ’’எமது பாராளுமன்ற குழு இன்று மாலை 5 மணிக்கு கூடும்’’
+### අපොස සාමාන්‍ය පෙළ අයදුම්කරුවන්ට දැනුම්දීමක්
+
+*2024-12-02 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203965) · `si`
+
+අපොස සාමාන්‍ය පෙළ විභාගය (2024/25) සඳහා අයදුම්පත් කැඳවීමේ දිනය දීර්ඝ කර තිබේ.
+
+මාර්ගගත ක්‍රමවේදය ඔස්සේ එම විභාගය සඳහා අයදුම්කිරීමට නොවැම්බර් 05 වනදා සිට 30 වනදා තෙක් කල් ලබා දී තිබුණි.
+
+නමුත් දිවයිනට බලපෑ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් එම කාලය දෙසැම්බර් 10 වනදා තෙක් දීර්ඝ කර ඇති බව විභාග කොමසාරිස් ජනරාල් එච් ජේ එම් සී අමිත් ජයසුන්දර මහතා නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/1705b2b8.json)
+
+---
+
+### මුදල් ඉල්ලා වට්ස්ඇප් පණිවිඩයක් ඔබටත් ලැබුණාද?
+
+*2024-12-02 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203964) · `si`
+
+වර්ථමානයේ වට්ස්ඇප් ජාලය හරහා විවිධ අකටයුතුකම් සිදුව ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදයේ ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා පවසයි.
+
+ඔහු පැවසුවේ මෙරට විවිධ ප්‍රසිද්ධ පුද්ගලයින්ගේ ගිණුම්වලට අනවරයෙන් ඇතුළු වී ඔහුගේ ග්‍රාහකයන් වෙත මුදල් ඉල්ලමින් පණිවිඩ යවා ඇති බවය.
+
+මේ හේතුවෙන් ඇතැම් පුද්ගලයින් එම තොරතුරු විශ්වාස කරමින් ලබා දී ඇති ගිණුම් අංක වෙත මුදල් තැන්පත් කිරීමේ සිදුවීම්ද වාර්තා වී ඇති බවය.
+
+"මේක සිද්ධ වෙන්නේ ඒ ප්‍රධාන පුද්ගලයාට දුරකථන ඇමතුමක් ලැබෙනවා එසේත් නැතිනම් ලින්ක් එකක් ලැබෙනවා ඔන්ලයින් තාක්ෂණය ඔස්සේ පැවැත්වෙන මීටිමකට ප්‍රවේශ වීමට. එසේත් නැතිනම් දේශනයකට ආරාධනාවක් කරන විදිහට තමයි මුළින්ම ආරාධනාව ලැබෙන්නේ.
+
+ඒ ලැබිලා සුළු මොහොතකට පසුව ඔහුට ලැබෙනවා කෙටි අංකයක්. ඒ අංකය කියන්නේ ඒ ගිණුමට ප්‍රවේශ වීමට ලබා ගන්නා කෙටි යෙදවුම. ඒ ඔස්සේ ගිණුමට ප්‍රවේශවෙලා පණිවිඩයක් යනවා ලබා දෙන ගිණුමට මුදල් ලබා දෙන්න කියලා හදිසි අවශ්‍යතාවක් වෙනුවෙන් කියලා.
+
+...
+
+[Data](articles/ae2701b2.json)
+
+---
+
+### Special notice on ministers' concessions
+
+*2024-12-02 17:10:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-சலுகைகள்-தொடர்பில்-விசேட-அறிவிப்பு/175-348126) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Former Supreme Court Justice KD leads probe into MP/Minister perks. Report handed to President Anura Kumara Dissanayake. Prime Minister Harini Amarasuriya & President's Sec'y attend event.
+
+🟩
+
+Former Supreme Court Justice KD to investigate the reconstruction of allowances and special privileges paid to MPs, Ministers and former Presidents. The report of the committee headed by Chitrasiri was handed over to President Anura Kumara Dissanayake on Monday (02).
+
+Prime Minister Harini Amarasuriya and President's Secretary Dr. Nandika Sanath Kumanayake were also present at the event.
+
+◼️
+
+[Data](articles/c25a0aac.json)
+
+[Extended Data](ext_articles/c25a0aac.ext.json)
+
+---
+
+### විරෝධතාකරුවන් සිව්දෙනා රක්ෂිත බන්ධනාගාර ගත කෙරේ
+
+*2024-12-02 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203963) · `si`
+
+අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට උස්ඝෝෂණයක් අතරතුරදී අද (02) අත්අඩංගුවට ගත් විරෝධතාකරුවන් සිව්දෙනා දෙසැම්බර් 10 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+අදාළ විරෝධතාකරුවන් කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එම නියෝගය නිකුත්කළ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+පාසල්වල ඉගැන්වීම් කටයුතු සිදුකරන සංවර්ධන නිලධාරීන් අධ්‍යාපන අමාත්‍යංශය ඉදිරිපිට ආරම්භකළ විරෝධතාවය අතරතුර දී නොසන්සුන්කාරී තත්ත්වයක් හටගත්තේය.
+
+එහිදි කලහාකාරී ලෙස හැසිරුනු විරෝධතාකරුවන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/6438a9b1.json)
+
+---
+
+### Plowing machine accident;Bail
+
+*2024-12-02 16:50:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உழவு-இயந்திரம்-விபத்து-இருவருக்கு-பிணை/175-348125) · `ta`
+
+N
+
+🟩
+
+The Chancellor and Teacher of the Nindavur Kashibul Ulum College of Nindavur, who was arrested and interrogated in connection with the death of Arab college students, was released on a bail bail of Rs.
+
+On the 26th of last month, eight people, including passengers, were found dead after a flood crashed into a flooding of a plowing machine from Nintavur area to Samanthurai.
+
+The police, who were investigating the incident, were arrested by the Chancellor of the Chancellor of the College, including the Chancellor of the College, and the other two aides were released on bail of Rs 1 lakh each.
+
+The case was heard by Magistrate's Court Judge K. Krishnan on Monday (02).When Karunakaran was taken in the presence of Karunakaran, the principal and teacher of the Arab College had been released on bail of Rs.
+
+◼️
+
+[Data](articles/09e30225.json)
+
+[Extended Data](ext_articles/09e30225.ext.json)
+
+---
+
+### Sri Lanka rupee appreciates against major foreign currencies for 2nd year
+
+*2024-12-02 16:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-appreciates-against-major-foreign-currencies-for-2nd-year-191193/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee currency has seen a sharp appreciation this year and is likely to end up with a significant rise for the second straight year, the central bank data showed, amid curtailed imports and in the absence of debt repayments after declaring bankruptcy.
+
+The rupee has appreciated against US dollar (11.3%), Euro (16.7%), Pound Sterling (11,6%), Chinese Yuan (Renminbi) (13.6%), Japanese Yen (18.4%), Australian Dollar (17.1%), and Indian rupee (13.2%) for this year up to November 29, the central bank data showed.
+
+The rupee saw appreciation against the same currencies in 2023 as well with a range between 6%-19.5%, the data showed.
+
+The Central Bank said the real effective exchange rate against the basket of 24 currencies (REER 24) also appreciated “in line with the nominal appreciation of the Sri Lanka rupee during the year up to October 2024”.
+
+...
+
+[Data](articles/94910f8f.json)
+
+[Extended Data](ext_articles/94910f8f.ext.json)
+
+---
+
+### මැති ඇමති සහ හිටපු ජනපතිවරුන්ගේ වරප්‍රසාද ගැන සොයා බැලීමට පත්කළ චිත්‍රසිරි කමිටුවේ වාර්තාව ජනපතිට
+
+*2024-12-02 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203962) · `si`
+
+මන්ත්‍රීවරුන්, අමාත්‍යවරුන් හා හිටපු ජනාධිපතිවරුන්ට ලබාදෙන දීමනා හා වරප්‍රසාද පිළිබඳ නැවත සලකා බැලීමට පත්කළ කේ. ටී. චිත්‍රසිරි කමිටුවේ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත භාර දී තිබේ.
+
+අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය  සහ ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක එම අවස්ථාවට එක්ව සිටියහ.
+
+මන්ත්‍රීවරුන්, අමාත්‍යවරුන් හා හිටපු ජනාධිපතිවරුන්ට ලබාදෙන දීමනා හා වරප්‍රසාද පිළිබඳ නැවත සලකා බැලීම සඳහා හිටපු ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ.ටී. චිත්‍රසිරි මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා කමිටුවක් පත් කළේය.
+
+◼️
+
+[Data](articles/cb825ae2.json)
+
+---
+
+### දිස්ත්‍රික්ක කිහිපයකට තවදුරටත් නාය යෑමේ අනතුරු ඇඟවීම්
+
+*2024-12-02 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203961) · `si`
+
+දිස්ත්‍රික්ක කිහිපයකට අයත් ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයක් වෙත නායයෑම් පූර්ව අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+එම සංවිධානය පැවසුවේ මෙම අනතුරු ඇඟවීමේ නිවේදනය අද (02) පස්වරු 04.00 සිට හෙට පස්වරු 04.000 දක්වා ක්‍රියාත්මක බවය.
+
+ඒ අනුව අදාළ ප්‍රදේශ සඳහා අනතුරු ඇඟවීමේ මට්ටම නිවේදනයක් නිකුත් කිරීමට එම සංවිධානය පියවර ගෙන තිබේ.
+
+මහනුවර දිස්ත්‍රික්කය: - උඩුදුම්බර, උඩපලාත, දෙල්තොට, ගගවට කෝරළය, පාතහේවාහැට, හාරිස්පත්තුව, පාතදුම්බර, යටිනුවර, මැදදුම්බර, දොළුව, උඩුනුවර, ⁠තුම්පනේ, පූජාපිටිය, පන්විල, පස්බාගෙ කෝරළය, අකුරණ, හතරලියද්ද, ⁠ගග ඉහළ කෝරළය
+
+මාතලේ දිස්ත්‍රික්කය: - අඹන්ගග කෝරළය, රත්තොට, උකුවෙල, විල්ගමුව, නාඋල, ⁠යටවත්ත, පල්ලේපොල, ලග්ගල පල්ලේගම, ⁠මාතලේ
+
+◼️
+
+[Data](articles/df881ff0.json)
+
+---
+
+### Hill rail service impact
+
+*2024-12-02 16:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவை-பாதிப்பு/76-348121) · `ta`
+
+Train derailment blocks Colombo-Badulla route. Passengers affected. Alternative routes announced: Hatton-Colombo and Kandy-Badulla.
+
+🟩
+
+The Nawalapitiya Railway Control Room has said that the passengers traveling from the Colombo fort to Badulla have been blocked due to the derailment of the train.
+
+The Nawalapitiya was interrupted at around 3.15 pm on Monday (02) near the Pensrose Station between the Nawalapitiya Iguroya and the Kalabapa railway stations.
+
+The Railway Control Room has announced that trains from Badulla to Colombo will run from Hatton Railway Station to Colombo and Kandy to Badulla.
+
+◼️
+
+[Data](articles/811fdbf6.json)
+
+[Extended Data](ext_articles/811fdbf6.ext.json)
+
+---
+
+### Fishermen who smuggled ice drugs were brought to Colombo port
+
+*2024-12-02 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200225) · `ta`
+
+Sri Lankan fishermen caught smuggling ice drugs in Indian seas. Two boats seized by Indian Navy. One boat had 400kg ice. Fishermen brought to Colombo port on 2nd. Incident occurred on 29th.
+
+🟩
+
+Sri Lankan fishermen who smuggled ice drugs in two fishing boats in the Indian seas have been brought to the Port of Colombo on Monday (02).
+
+The two boats were seized by the Indian Navy following the intelligence exchange between the Indian Navy and the Sri Lanka Navy.
+
+It has been revealed that one boat had about 400 kg of ice and the other boat had gone for help.
+
+The Indian Navy has taken the fishermen on the 29th of this month.
+
+◼️
+
+[Data](articles/e7474d7f.json)
+
+[Extended Data](ext_articles/e7474d7f.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-12-02 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200238) · `ta`
+
+US dollar exchange rate: Buy 286.40 Rs, Sell 294.97 Rs per USD as per Central Bank rates on 02/2023.
+
+🟩
+
+The US dollar purchasing price was 286.3962 rupees and the sales price were 294.9730 rupees based on the Central Bank's currency exchange rate today (02).
+
+◼️
+
+[Data](articles/208e368b.json)
+
+[Extended Data](ext_articles/208e368b.ext.json)
+
+---
+
+### 2024 General Election: Deadline to submit candidates’ expense reports
+
+*2024-12-02 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103929/2024-general-election-deadline-to-submit-candidates-expense-reports) · `en`
+
+The Election Commission says that candidates who contested in the 2024 General Election, along with the secretaries of the parties they represented and the leaders of the independent groups, are required to submit their expense reports by December 06, 2024.
+
+In a statement, the commission said that the reports should be prepared separately and submitted to the respective District Returning Officer in the districts where the candidates contested, on or before midnight, December 6.
+
+The election regulatory body also stated that candidates on the National Lists must submit their income and expenditure reports to the commission.
+
+To facilitate this process, arrangements have also been made to set up special units in all districts to accept the income and expenditure reports, the election commission added.
+
+...
+
+[Data](articles/db154b90.json)
+
+[Extended Data](ext_articles/db154b90.ext.json)
+
+---
+
+### Upcountry train operations obstructed
+
+*2024-12-02 16:00:37* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියක්-පීලි-පනියි---උඩරට-දුම්රිය-ධාවනයට-බාධා/11-413403) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Upcountry train operations disrupted due to filled bunkers at Nawalapitiya and Galabada Railway Stations. Trains from Badulla to Colombo affected until further notice.
+
+🟩
+
+The Nawalapitiya Railway Control Room said that due to the running of the upcountry trains traveling from Colombo Fort to Badulla, the Nawalapitiya Railway Control Room said.
+
+The filled bunkens occurred at around 3.15 pm at Nawalapitiya and the Galabada Railway Station at around 3.15 pm.
+
+Train to train from Badulla to Colombo until the pilling train will be operated from Badulla to Colombo.
+
+The officer added that the filled trains will be fully accumulated.
+
+◼️
+
+[Data](articles/f43fa4da.json)
+
+[Extended Data](ext_articles/f43fa4da.ext.json)
+
+---
+
+### මගේ රැස්විම් වලට මින් පස්සේ වි.අයි.පි. පුටු එපා
+
+*2024-12-02 15:51:25* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-රැස්විම්-වලට-මින්-පස්සේ-වි-අයි-පි--පුටු-එපා/11-413402) · `si`
+
+ඇමතිවරු, මන්ත්‍රිවරුන් එනවා කියලා මින් පස්සේ කිසිම රැස්විමකට අනවශ්‍ය වියදමක් කරන්න ඒපා. මගේ සියලුම උත්සව වල වියදම අඩු කරන එක ගැන ආයතන දැනුවත් කරන්න සුදානමින් ඉන්නේ. අපිට වි.අයි.පී.පුටු ගෙන්න ඒපා අනිත් අය වාගේ අපිටත්  ප්ලාස්ටික් පුටුවක ඉදගන්න පුළුවන් අය යැයි රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන ඇමති චන්දන අබේරත්න මහතා පැවසිය.
+
+ඇමතිවරයා මේ බව පවසා සිටියේ පුත්තලම දිස්ත්‍රික් සාහිත්‍ය උත්සවය වෙනුවෙන් ආණමඩුව සුදම්පාය ශාලාවේ  සංවිධානය කර තිබු රැස්විමකට එක්වෙමිනි.
+
+වයඹ පළාත් ආණ්ඩුකාර තිස්ස වර්ණසුරීය මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙම රාජ්‍ය සාහිත්‍ය උත්සවය පුත්තලම දිස්ත්‍රික් ලේකම් එච්.එම්.එස්.පී.හේරත් මහතා ඇතුළු පුත්තලම දිස්ත්‍රික් ලේකම් කාර්යාලය සංවිධානය කර තිබුනී.
+
+එහිදි  වැඩි දුරටත් අදහස් දැක්වු රාජ්‍ය පරිපාලන අමාත්‍යවරයා අපිට මේ ආණමඩුව නුහුරු තැනක් නොවේයි.මේ ගහ කොළ වැව් අතීතයෙ සුන්දර තැනක්.ඒ නිසා ඒ පරිසරයෙ හැදි අපි කොච්චර ඉහල තනතුරු වලට ගියත් අපි හිටපු අතීතය අපිට අමතක කරන්න බැහැ.
+
+...
+
+[Data](articles/014b5d31.json)
+
+---
+
+### Three cops injured as development officers’ protest turns violent
+
+*2024-12-02 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103928/three-cops-injured-as-development-officers-protest-turns-violent-) · `en`
+
+Three police officers have been injured and hospitalised following the tense situation during a protest in front of the Ministry of Education at Isurupaya, Battaramulla this afternoon (02).
+
+Accordingly, a Sub-Inspector of Police (SI) and two constables have been injured during the tense situation that prevailed as the police attempted to disperse a group of Development Officers who were protesting in front of the Ministry of Education.
+
+Meanwhile, one of the injured police officers has been transferred to the ICU for further treatment, Ada Derana reporter said.
+
+It was reported that four protesters have been arrested in connection with the incident.
+
+The Development Officers had engaged in the demonstration demanding that they be made permanent in the teaching service.
+
+Earlier, it was reported that the Kottawa - Borella Road (174 bus route) was completely blocked for traffic in front of the Ministry of Education due to the protest by Development Officers.
+
+◼️
+
+[Data](articles/7cca31e6.json)
+
+[Extended Data](ext_articles/7cca31e6.ext.json)
+
+---
+
+### Our parliamentary group will meet at 5 pm today
 
 *2024-12-02 15:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-பாராளுமன்ற-குழு-இன்று-மாலை-5-மணிக்கு-கூடும்/175-348119) · `ta`
 
-நாளை பாராளுமன்றத்தில் நடைபெறவுள்ள ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் கொள்கைப் பிரகடனத்தின் மீதான விவாதத்தில் கலந்துகொள்பவர்கள் மற்றும் எதிர்க்கட்சியின் பிரதம கொறடாவை தெரிவு செய்யும் ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்றக் குழு இன்று மாலை 5 மணிக்கு கூடவுள்ளது.
+Here's a 200-character summary:
 
-இந்த முக்கிய தீர்மானங்களை எடுப்பதற்காக எமது பாராளுமன்ற குழு இன்று மாலை 5 மணிக்கு கூடும் என பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+
+SJB parliamentary committee meets at 5 pm today to discuss policy declaration debate in Parliament tomorrow.
+
+🟩
+
+The United People's Power (SJB) parliamentary committee, which will be attending the debate on the policy declaration of President Anura Kumara Dissanayake, to be held in Parliament tomorrow, will meet today at 5 pm.
+
+Parliamentarian Ajith P. Perera said our parliamentary committee would meet at 5 pm today to make these key decisions.
 
 ◼️
 
 [Data](articles/9e63f857.json)
 
+[Extended Data](ext_articles/9e63f857.ext.json)
+
 ---
 
-### ’’எமது பாராளுமன்ற குழு இன்று 5 மணிக்கு கூடும்’’
+### Our parliamentary group will meet today at 5 pm
 
 *2024-12-02 15:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-பாராளுமன்ற-குழு-இன்று-5-மணிக்கு-கூடும்/175-348119) · `ta`
 
-நாளை (03)  பாராளுமன்றத்தில் நடைபெறவுள்ள ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் கொள்கைப் பிரகடனத்தின் மீதான விவாதத்தில் கலந்துகொள்பவர்கள் மற்றும் எதிர்க்கட்சியின் பிரதம கொறடாவை தெரிவு செய்யும் ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்றக் குழு இன்று (02)  மாலை 5 மணிக்கு கூடவுள்ளது.
+Here's a summary in 200 characters:
 
-இந்த முக்கிய தீர்மானங்களை எடுப்பதற்காக எமது பாராளுமன்ற குழு இன்று (02) மாலை 5 மணிக்கு கூடும் என பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+
+SJB parliamentary committee meets today at 5 pm to prepare for tomorrow's debate on President Anura Kumara Dissanayake's declaration.
+
+🟩
+
+The United People's Power (SJB) parliamentary committee, which will be participating in the debate on the Declaration of President Anura Kumara Dissanayake, to be held in Parliament tomorrow (03), will meet today (02) at 5 pm.
+
+Parliamentarian Ajith P. Perera said that our parliamentary committee will meet today (02) at 5 pm to make these key decisions.
 
 ◼️
 
 [Data](articles/d5a57b15.json)
 
+[Extended Data](ext_articles/d5a57b15.ext.json)
+
 ---
 
-### දිලීප පීරීස් සහ ශනිල් කුලරත්න ශ්‍රේෂ්ඨාධිකරණ නීතිඥවරු ලෙස දිවුරුම් දෙති
+### The new movie is ready for the name of 'Silk Smitha- Queen of South'
+
+*2024-12-02 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200235) · `ta`
+
+"New movie 'Silk Smitha: Queen of South' starring Chandrika Ravi as director Jayaram Sankaran. Produced by SP Vijay Amritraj, SDRI Movies. Film announcement video released on Silk Smitha's birthday."
+
+🟩
+
+The new movie is being made under the name of 'Silk Smita -Quin of South', embraced by actress Silk Smitha, who has been a glamorous virgin in the Indian film industry. The film crew has released a special video on this.
+
+Actress Chandrika Ravi is playing the role of director Jayaram Sankaran in the film 'Silk Smitha King of South'.
+
+The film crew has released the announcement of the film, which is being embarrassed by his autobiography today.. The film is being produced by SP Vijay Amritraj on behalf of SDRI Movies.
+
+The film crew, which has announced that the film will begin in January next year, has been released on a special video released today on his birthday.
+
+Also, Silk Smitha is a luxurious vehicle in a luxurious vehicle and a feeding for pets and his ardent fans are asking him to see the expectation of the film.
+
+◼️
+
+[Data](articles/8accdc94.json)
+
+[Extended Data](ext_articles/8accdc94.ext.json)
+
+---
+
+### Carrom board case against former Minister Mahindananda recalls again
+
+*2024-12-02 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203960) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Case against former Sports Minister Mahindananda Aluthgamage reopens. Bribery Commission accuses him of importing/distributing 14,000 sports equipment items. He claims political revenge, denies wrongdoing. Trial adjourned until Dec 19. Defense seeks permission for medical treatment abroad.
+
+🟩
+
+A case against former Sports Minister Mahindananda Aluthgamage and former Chairman of the CWE and the CWE was taken up again.
+
+The three-member High Court consisting of Pradeep Hettiarachchi Pradeep Abeyratne and Mahen Weeraman.
+
+Bribery Commission filed a loss of Rs..
+
+Former Minister Mahindananda Aluthgamage presented a statement from the Order to the Order.
+
+He said that the Bribery Commission had launched four charges on the importation and distribution of 14,000 cabods and dim tables.
+
+The former Minister said that the importation of the cabode and dum planks had taken place.
+
+Accordingly, the allegations made by the imported and distribution of sports goods were laundering and the importation of the goods had to be imported from the courts.
+
+He said that his party was defeated by the 2015 presidential election and had followed the construction of the Joint Opposition with President Mahinda Rajapaksa.
+
+...
+
+[Data](articles/5413fc41.json)
+
+[Extended Data](ext_articles/5413fc41.ext.json)
+
+---
+
+### ඩෙංගු මර්දනය සඳහා කියුබානු රජයේ සහාය ලබාගැනීමට යයි
+
+*2024-12-02 15:41:30* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-මර්දනය-සඳහා-කියුබානු-රජයේ-සහාය-ලබාගැනීමට-යයි/11-413401) · `si`
+
+වරින් වර හිස ඔසවනු ලබන ඩෙංගු රෝගය සම්පූර්ණයෙන් පාලනය කර ගැනීමට නව රජය සැළසුම් කරන වැඩසටහන තුල ප්‍රතිකාර සේවා ශක්තිමත් කර ගැනීමට, මදුරු කීට බෝවීම මර්දනය කිරීමට සහ විධිමත් ඖෂධ භාවිතාවන් ආදී කරුණු සම්බන්ධව කියුබානු රජයේ විශේෂඥ දැනුම, තාක්ෂණික මෙවලම් සහ අත්දැකීම් සෘජුවම යොදා ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා තීරණය කර ඇත.
+
+මෙම කරුණූ අනාවරණය වූයේ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සහ ශ්‍රී ලංකාවේ කියුබානු තානාපති අන්ද්‍රේස් මාර්සෙලෝ ගොන්සාලෙස් ගොරිඩෝ මහතා  (Andres Marcelo Gonzales Gorrido) අතර පසුගියදා සෞඛ්‍ය අමාත්‍යාංශයේ දී පැවැති විශේෂ හමුවක දීය.
+
+...
+
+[Data](articles/1b08a416.json)
+
+---
+
+### Sri Lanka stocks close up, retail interest in consumer goods segment
+
+*2024-12-02 15:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-retail-interest-in-consumer-goods-segment-191151/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader ASPI closed up 0.30 percent, or 39.93 points, at 13,228; while the more liquid S&P SL20 Index closed up 0.28 percent, or 11.04 points, at 3,916.
+
+Turnover was 2.3 billion. Most of this came from the food, beverage and tobacco sector (Rs645mn).
+
+“We saw local retail interest coming into the consumer good segment,” market participants said.
+
+Lion Brewery was up at 1,114.75, Ceylon Cold Stores was up at 64.90, and Distilleries was up at 31.80.
+
+“Interest was also seen in the construction sector; with news of projects picking up, lots of shares are getting activated.”
+
+Access Engineering saw investor interest; the share closed up at 28.50.
+
+Tokyo Cement was up at 60.60. ACL Cables was up at 95.80. Jat Holdings was up at 21.40. Lanka Aluminium was up at 28.50.
+
+Sierra Cables, for which Iconic Trust has announced a mandatory offer, close down at 10.70.
+
+...
+
+[Data](articles/00a9cfa5.json)
+
+[Extended Data](ext_articles/00a9cfa5.ext.json)
+
+---
+
+### Dileepa Pharisees and Shanil Kularatne sworn in as Supreme Court lawyers
 
 *2024-12-02 15:30:08* · [`adalk`](https://www.ada.lk/breaking_news/දිලීප-පීරීස්-සහ-ශනිල්-කුලරත්න-ශ්‍රේෂ්ඨාධිකරණ-නීතිඥවරු-ලෙස-දිවුරුම්-දෙති/11-413399) · `si`
 
-අතිරේක සොලිසිටර් ජනරාල්වරුන් වන දිලීප පීරීස් සහ ශනිල් කුලරත්න යන මහත්වරු ජනාධිපති නීතීඥවරුන් වශයෙන් ශ්‍රේෂ්ඨාධිකරණයේදී දිව්රුම් දුන්හ.
+Here's a summary of the text in approximately 200 characters:
 
-අගවිනිසුරු ජයන්ත ජයසුරිය මහතා ප්‍රමුඛ ශ්‍රේෂ්ඨාධිකරණ, අභියාචනාධිකරණ ඇතුළු සෙසු අධිකරණ වල විනිසුරුවරුන් ඇතුළු සම්භාවනීය අමුත්තන්ගේ සහභාගීත්වයෙන් ශ්‍රේෂ්ඨාධිකරණයේ පැවැත්වු චාම් උත්සවයකදී ඒ මහත්වරු ජනාධිපති නීතීඥවරුන් වශයෙන් දිව්රුම් දුන්හ.
 
-නීතීපති දෙපාර්තමෙන්තුවට අනුයුක්තව රාජකාරි කරන දිලීප පීරීස් සහ ශනිල් කුලරත්න යන මහත්වරු අතිරේක සොලිසිටර් ජනරාල් ධුරයන්ට උසස් කළ බව නීතීපතිවරයා ජනාධිපති අනුර කුමාර දිසානායක මහතාට කළ දැනුම් දීමකට අනුව ඒ මහත්වරු ජනාධිපති නීතීඥවරුන් වශයෙන් නම් කරන ලදී.
+
+Supreme Court lawyers Dileepa Pharisees and Shanil Kularatne sworn in as President's Counsel. Chief Justice Jayantha Jayasuriya also appointed. Mentioned cases include Avissawella murder, VAT case, Lakshman Kadirgamar assassination, and others.
+
+🟩
+
+Additional Solicitor Generals Dileepa Paripa and Shanil Kularatne sworn in as President's Counsel.
+
+Chief Justice Jayantha Jayasuriya was sworn in as President's Counsel at a champion held in the Supreme Court with the participation of Judges of the Supreme Court including Supreme Court, Court of Appeal.
+
+According to the Attorney General, Dileep Pararatne attached to the Attorney General, the Attorney General has nominated the Attorney General to President Anura Kumara Dissanayake.
+
+The Attorney-at-Law, a student of St. Thomas' College, Mt.Former President Gotabhaya Rajapakse, Tiran Alles Rada, Tiran Alles Rada Kidden Case, Tiran Eknaligoda, was led by the Kidden Case, Journalist.
+
+The student of Shantha Thomas' College, Mount Lavinia was held in 1996 as a lawyer in 1996 and was held in the 2006 lawyer, while the Government Counsel was borrowed over 27 years.He was also a law officer of the Navy Court.
 
 ...
 
 [Data](articles/1eb018da.json)
 
+[Extended Data](ext_articles/1eb018da.ext.json)
+
 ---
 
-### මුහුදු කැස්බෑවෙකුගේ මස් අනුභව කළ පුද්ගලයන් 03ක් මරුට - 32ක් රෝහල් ගත කෙරේ
+### Three killed and 32 killed in a sea turtle
 
 *2024-12-02 15:12:40* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදු-කැස්බෑවෙකුගේ-මස්-අනුභව-කළ-පුද්ගලයන්-03ක්-මරුට---32ක්-රෝහල්-ගත-කෙරේ/11-413398) · `si`
 
-වඳවීමේ තර්ජනයට මුහුණ දී සිටින  මුහුදු කැස්බෑවෙකුගේ මස් අනුභව කළ පිලිපීන ජාතිකයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a summary in 200 characters:
 
-මීට අමතරව මස් අනුබව කළ තවත් පුද්ගලයන්  32ක් රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
 
-මෙම සිදුවීමත් සමග එම කලාපයේ කැස්බෑවන් දඩයම් කිරීම තහනම් කරන බව එරට ප්‍රාදේශීය මන්ත්‍රීවරයෙකු ප්‍රකාශ කර ඇත.
+
+"3 Filipino nationals killed, 32 hospitalized after sea turtle attack. Incident leads to ban on turtles in the area."
+
+🟩
+
+Three Filipin nationals have been killed in a sea turtle, which is endangered.
+
+In addition, 32 others have been admitted to the hospital.
+
+The incident has stated that the turtles in the region will be banned.
 
 ◼️
 
 [Data](articles/bd8a2db3.json)
+
+[Extended Data](ext_articles/bd8a2db3.ext.json)
 
 ---
 
@@ -111,6 +573,8 @@ Additionally, they were also accused of circulating old video clips from previou
 ...
 
 [Data](articles/2069433b.json)
+
+[Extended Data](ext_articles/2069433b.ext.json)
 
 ---
 
@@ -197,6 +661,26 @@ Three people who were traveling in the car were injured during the accident and 
 [Data](articles/ef9a885f.json)
 
 [Extended Data](ext_articles/ef9a885f.ext.json)
+
+---
+
+### Sri Lanka can expand blue economy with mini marinas in 21 fishery harbours: official
+
+*2024-12-02 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-expand-blue-economy-with-mini-marinas-in-21-fishery-harbours-official-191144/) · `en`
+
+ECONOMYNEXT – Sri Lanka has untapped potential in marine linked activities, with 1,340 kilometres of coastline and two seasons that allow year-round action, and can be expanded into a billion US dollar industry quickly, an industry official said.
+
+“The geographical location offers yacht chartering, boating, whale watching, whatever you call, all the sea-based activities,” Kaushal Rajapaksa, Chairman, Chamber of Marine Industries of Sri Lanka told participants of Voyage Sri Lanka 2024, a forum organized by the island’s Export Development Board.
+
+“You can enjoy the sea year-round as well as sea-based activities. Expanding technological capacity and maritime services, we have advanced capabilities in boat building and whatever the activity is related to maritime.”
+
+Despite the long coastline, and domestic manufacturers of leisure boats, there was a dearth of yacht marinas to get the sector moving.
+
+...
+
+[Data](articles/ba341250.json)
+
+[Extended Data](ext_articles/ba341250.ext.json)
 
 ---
 
@@ -680,6 +1164,30 @@ Police have also seized two cars used for theft and the suspects are to be produ
 
 ---
 
+### Sri Lanka’s new Chief Justice Murdu Fernando
+
+*2024-12-02 12:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-chief-justice-murdu-fernando-146813/) · `en`
+
+ECONOMYNEXT – Supreme Court justice Murdu Nirupa Bidushinie Fernando was officially sworn in as the chief justice of Sri Lanka before President Anura Dissanayake on Monday.
+
+Fernando assumes office as the 48th chief justice of Sri Lanka, succeeding Jayantha Jayasuriya.
+
+Her appointment received approval from the constitutional council, the president’s media division said in a statement.
+
+She began her career at the Attorney General’s Department in 1985, becoming Deputy Solicitor General in 1997 and Additional Solicitor General in 2014.
+
+She has over three decades of service as a State Counsel, and was appointed to the Supreme Court in March 2018.
+
+She was the most Senior Supreme Court Justice prior to her appointment, and also served as Senior Additional Solicitor General at the Attorney General’s Department.
+
+Fernando earned her Bachelor of Laws degree from the Faculty of Law, University of Colombo.
+
+◼️
+
+[Data](articles/4a4be92a.json)
+
+---
+
 ### Death Clock Clock
 
 *2024-12-02 12:19:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மரணத்தை-கணிக்கும்-மரணக்-கடிகாரம்/53-348107) · `ta`
@@ -1108,6 +1616,20 @@ Date of settlement of the above issuance is 2 December 2024. (Colombo/Dec2/2024)
 
 ---
 
+### Rebuilding Trust: A Plea For Constructive Engagement From Tamils Worldwide
+
+*2024-12-02 11:20:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rebuilding-trust-a-plea-for-constructive-engagement-from-tamils-worldwide/) · `en`
+
+The decades-long civil conflict in Sri Lanka caused immense suffering across all communities—Tamils, Sinhalese, Muslims, and Burghers. While the magnitude of suffering varied, no group emerged unscathed. For many, the pain persisted not just for a year or two, but for over three decades. Those who left the country experienced their share of hardships, though their suffering was incomparable to those who remained amidst the devastation. This isn’t a contest to determine who endured the most; the focus must be on ensuring such a tragedy never happens again.
+
+...
+
+[Data](articles/0369160d.json)
+
+[Extended Data](ext_articles/0369160d.ext.json)
+
+---
+
 ### Ministers will no longer be provided with bungalows
 
 *2024-12-02 11:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களுக்கு-இனி-பங்களாக்கள்-வழங்கப்படாது/175-348099) · `ta`
@@ -1199,6 +1721,26 @@ Customers say that there is a shortage of coconuts and will not be able to selec
 [Data](articles/90ac324a.json)
 
 [Extended Data](ext_articles/90ac324a.ext.json)
+
+---
+
+### Matale coconut prices of Rs. Goes to 230
+
+*2024-12-02 11:10:20* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පොල්-මිල-රු--230ට-යයි/11-413393) · `si`
+
+Matale coconut prices surge to Rs. 230. Customers report shortage, unable to select coconuts due to high demand and limited supply. Some shop owners struggle to manage prices.
+
+🟩
+
+Customers say the price of a coconut in the Matale town is between Rs. 200 and Rs.
+
+Customers say that there is a shortage of coconuts and will not be able to select the coconut prices and that some shop owners are not able to select the coconut.
+
+◼️
+
+[Data](articles/e8bcc3b3.json)
+
+[Extended Data](ext_articles/e8bcc3b3.ext.json)
 
 ---
 
@@ -1847,513 +2389,5 @@ Strong winds of 40-45 kmph can be expected at times over Northern, North-central
 [Data](articles/67f4407e.json)
 
 [Extended Data](ext_articles/67f4407e.ext.json)
-
----
-
-### Released on holding a little vote after the A / L examination
-
-*2024-12-02 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203944) · `si`
-
-Local government election announcement delayed due to GCE Advanced Level Exam. Election Commission cites exam interference. Weather causes exam postponement. Special party meeting tomorrow to discuss nomination transfers and election call.
-
-🟩
-
-It is reported that the announcement for the local government election is reported to be held under the end of the GCE Advanced Level Examination.
-
-The Elections Commission states that if the announcement is issued, the Elections Commission states that the candidates will begin their propaganda work during the exam.
-
-Since it is a hindrance to the examination, it has been decided not to issue announcement on the election until the examination is over.
-
-Due to the inclement weather, the examination will be postponed several days and will resume this week.
-
-Meanwhile, a special party leader meeting will be held tomorrow (03).
-
-The meeting will be held under the patronage of the Leader of the Leader of the House tomorrow afternoon.
-
-The nomination statement is also taken to make a final decision regarding the call for the calling of the local government election.
-
-...
-
-[Data](articles/f08b4388.json)
-
-[Extended Data](ext_articles/f08b4388.ext.json)
-
----
-
-### Accident in Jaffna: One killed
-
-*2024-12-02 07:57:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-விபத்து-ஒருவர்-பலி/175-348084) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Car-motorcycle collision in Jaffna kills 64-year-old Annalingam Senthil Kumarasan, death registrar. Victim died en route to teaching hospital.
-
-🟩
-
-The deceased is Annalingam Senthil Kumarasan (age 64), a birthplace of death registrar.
-
-Jaffna was injured when a car collided with a motorcycle from Manipayi area to Davadi.. He died on the way to the teaching hospital.
-
-◼️
-
-[Data](articles/4aae519c.json)
-
-[Extended Data](ext_articles/4aae519c.ext.json)
-
----
-
-### Family killed in a sword incident
-
-*2024-12-02 07:36:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்வெட்டுச்-சம்பவத்தில்-குடும்பஸ்தர்-பலி/175-348083) · `ta`
-
-Father of two dies in sword incident in Vavuniya. Family man cuts swords, hospitalized after rescue.
-
-🟩
-
-A family member has died in a sword in the Omanthai - Semamadu area in Vavuniya.
-
-The father of two children, Selvaniroyan (age 46) from Navakkulam, has died.
-
-A group of swords have been cut by a family man who brought cows yesterday evening in Omanthai - Semamadu area. He was rescued by the victims and was admitted to the Vavuniya Hospital.
-
-◼️
-
-[Data](articles/e51d2939.json)
-
-[Extended Data](ext_articles/e51d2939.ext.json)
-
----
-
-### Supreme Court Judge Fernando appointed Chief Justice
-
-*2024-12-02 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203943) · `si`
-
-Supreme Court Judge Murdu Fernando to become Sri Lanka's new Chief Justice, succeeding Jayantha Jayasuriya. She was appointed as a Supreme Court judge in 2018 and acted as Chief Justice since October 2024. This marks her historic appointment as the second female Chief Justice in the country's history.
-
-🟩
-
-The Supreme Court Judge Murdu Fernando is to be sworn in as the new Chief Justice in Sri Lanka.
-
-With the retirement of Chief Justice Jayantha Jayasuriya, Mrs. Murdu Fernando was named for the post.
-
-In 1985, she joined the Attorney General's Department in 1997 to be promoted to the post of Deputy Solicitor General in 1997 and in 2014.
-
-She was appointed as a Supreme Court judge in March 2018 and was appointed acting Chief Justice on October 10, 2024.
-
-Mrs. Murruwara Fernando will join the history as the second woman who was appointed as the Chief Justice of the country.
-
-◼️
-
-[Data](articles/cc5581d3.json)
-
-[Extended Data](ext_articles/cc5581d3.ext.json)
-
----
-
-### Murderous killings in place
-
-*2024-12-02 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203942) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-LTTE attacks kill 2 in separate incidents. Murder in Oyamaduwa: 26yo man killed with sharp object after argument. Teen arrested. Attack in Omanthai-Parasankulam: Group assaulted over private dispute. 18yo suspect detained. Investigations ongoing.
-
-🟩
-
-Two LTTE attacks were killed in two areas, police said.
-
-In Oyamaduwa, Nodol area has been attacked with a sharp instrument and murdered.
-
-The victim was a 26-year-old resident of the Pamadaduwa area.
-
-Investigations have revealed that a heated argument between two in the afternoon had been assaulted by a sharp object.
-
-A resident of the area has been arrested 17 year old resident of the murder.
-
-Meanwhile, a person was attacked with a sharp instrument in the Omanthai-Parasankulam area.
-
-Investigations have revealed that a group of people who came in a cab last evening have been assaulted by a sharp object on a private dispute.
-
-The injured were admitted to the Vavuniya hospital and was admitted to the Vavuniya hospital.
-
-A resident of Vavuniya, Vavuniya, has been arrested along with the murder of 18 year old resident of Vavuniya.
-
-Omantha Police are conducting further investigations to arrest the other suspects.
-
-◼️
-
-[Data](articles/35de1fdb.json)
-
-[Extended Data](ext_articles/35de1fdb.ext.json)
-
----
-
-### Relief for fishermen affected by rain
-
-*2024-12-02 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203941) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Fishermen hit hard by floods. Deputy Minister vows aid. 16 boats wrecked. Relief efforts underway. Damaged roads & bridges assessed. Traffic reopening planned.
-
-🟩
-
-Deputy Minister of Fisheries and Aquatic Resources Ratings Ratna Gamage said that steps will be taken to provide immediate relief to the fishermen affected by the heavy rains.
-
-The Deputy Minister expressed these comments when he visited the influence of the influence of the fishing community in Pottuvil area.
-
-"On the recent disaster situation, the entire masses in this country and the entire masses were severely disturbed in the North and East. Fishermen in those areas faced the crisis. At that time 16 vessels were completely destroyed. Many fishing families lose their way of life. Especially the President had informed. The Ministry of Disaster Management has intervened and prepares to take immediate action. Grama Niladharis to be sent to the Disaster Management Center regarding families who lost their jobs at the moment. We have also been prepared to provide some relief to the damaged fishing vessels. "
-
-...
-
-[Data](articles/9f87fe41.json)
-
-[Extended Data](ext_articles/9f87fe41.ext.json)
-
----
-
-### A change in the weather
-
-*2024-12-02 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203939) · `si`
-
-Weather alert: Showers, thunderstorms, and strong winds expected in northern and central regions. Sea areas may experience rough conditions with wave heights reaching 2.5-3.0 meters.
-
-🟩
-
-Several spells of showers will occur in the Northern Province today (02).
-
-From time to time in the Northern, North Central, North-central, Western, Central and Southern provinces.. There may be 40-45 feet strong winds.
-
-Showers or thundershowers will occur at several places in the sea areas off the Kankesanthurai.
-
-Winds are blow to the southwest areas of the sea areas around the island and the speed of the wind.. The speed of the sea areas off the sea areas off Trincomalee to Trincomalee from Puttalam to Trincomalee via Kankesanthurai is now.. Can rise up to 60.
-
-Winds of windscreens in the sea areas off the sea areas in Puttalam to Colombo, Galle and Hambantota.. Up to 50 up to 50.
-
-Sea areas in Trincomalee to Trincomalee to Trincomalee can be rough at times.
-
-Sea areas in Trincomalee from Puttalam to Colombo, Galle and Hambantota will be slightly rough.
-
-The sea waves in the sea areas off the coast extending from Puttalam to Hambantota via Galle is up to 2.5m - 3.0 m.
-
-...
-
-[Data](articles/65a4f035.json)
-
-[Extended Data](ext_articles/65a4f035.ext.json)
-
----
-
-### Information Collection of Damaged Roads
-
-*2024-12-02 03:10:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேதமடைந்த-வீதிகள்-தொடர்பில்-தகவல்-சேகரிப்பு/175-348079) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Road damage assessment underway after heavy rains. Road Development Authority appoints special committee to survey affected roads and bridges. Reconstruction efforts to follow.
-
-🟩
-
-Action has been initiated by collecting information on roads and bridges damaged by heavy rains.
-
-The Director General of the Road Development Authority SMP Suriyapandara said that a special committee has been appointed for this purpose.
-
-He also said that steps will be taken to reconstruct damaged roads and bridges. (A)
-
-◼️
-
-[Data](articles/b46a798e.json)
-
-[Extended Data](ext_articles/b46a798e.ext.json)
-
----
-
-### Kelum Jayasumana remanded for sharing misleading Maveerar Naal content
-
-*2024-12-02 03:05:43* · [`dailyftlk`](https://www.ft.lk/news/Kelum-Jayasumana-remanded-for-sharing-misleading-Maveerar-Naal-content/56-769971) · `en`
-
-Political and social activist Kelum Jayasumana has been arrested by the Computer Crime Investigation Division under S. 120 of the Penal Code. Jayasumana is accused of sharing old video content of Maaveerar Naal celebrations from previous years on social media, falsely claiming they were from this year which had the potential to incite public unrest. The court has remanded Jayasumana until 4 December.
-
-Jayasumana had also contested in the recently concluded Parliamentary Elections, representing the National Democratic Front (NDF) from the Kurunegala District.
-
-Meanwhile, the Criminal Investigation Department (CID) has apprehended three persons accused of promoting LTTE Heroes’ Day celebrations. The suspects, aged 28, 35, and 45, are residents of Maradana, Chunnakam, and Baddegama, respectively.
-
-...
-
-[Data](articles/775f85d1.json)
-
-[Extended Data](ext_articles/775f85d1.ext.json)
-
----
-
-### Govt. extends warm welcome to newly appointed diplomats, invites for Independence Day celebrations
-
-*2024-12-02 03:04:07* · [`dailyftlk`](https://www.ft.lk/news/Govt-extends-warm-welcome-to-newly-appointed-diplomats-invites-for-Independence-Day-celebrations/56-769970) · `en`
-
-Discussions focus on boosting bilateral relations, economic cooperation, trade partnerships
-
-Foreign Minister Vijitha Herath has extended a formal invitation to the newly appointed Ambassadors and High Commissioners to participate in the upcoming Independence Day celebrations.
-
-The invitation was made during a meeting held at the Foreign Affairs Ministry with nine newly appointed Ambassadors and a High Commissioner, who recently presented their credentials to President Anura Kumara Dissanayake.
-
-The new diplomats represent Burkina Faso, Bosnia and Herzegovina, Azerbaijan, Georgia, Belarus, Armenia, Spain, Congo, Guinea, and Kenya. The meeting served as a platform to discuss opportunities for strengthening bilateral relations and expanding cooperation in the economic and trade sector.
-
-The delegates expressed their intention to establish embassies in Sri Lanka in a move to strengthen diplomatic ties.
-
-...
-
-[Data](articles/0183cf9a.json)
-
-[Extended Data](ext_articles/0183cf9a.ext.json)
-
----
-
-### Entire SL stands in solidarity with Palestine – Bimal
-
-*2024-12-02 03:01:56* · [`dailyftlk`](https://www.ft.lk/news/Entire-SL-stands-in-solidarity-with-Palestine-Bimal/56-769969) · `en`
-
-Minister Bimal Ratnayake has declared that Sri Lanka stands firmly with Palestine, emphasising widespread support across the nation. He made these remarks during the International Day of Solidarity with the Palestinian People event, held in Colombo over the weekend.
-
-Ratnayake highlighted that the turnout at the event reflected the country’s solidarity with Palestine. He reaffirmed that the new Government, led by President Anura Kumara Dissanayake, will continue to recognise Palestine as a free and sovereign State, working in alignment with established United Nations policies.
-
-The event saw participation from prominent figures, including Archbishop of Colombo Malcolm Cardinal Ranjith, Opposition Leader Sajith Premadasa, religious leaders, diplomats, and other distinguished guests. Samagi Jana Balawegaya (SJB) Chairperson Imthiaz Bakeer Markar, speaking at the event, drew attention to the increasing death toll in Palestine as reported by global media.
-
-...
-
-[Data](articles/44ce233e.json)
-
-[Extended Data](ext_articles/44ce233e.ext.json)
-
----
-
-### Fuel prices revised
-
-*2024-12-02 02:58:42* · [`dailyftlk`](https://www.ft.lk/news/Fuel-prices-revised/56-769968) · `en`
-
-The Ceylon Petroleum Corporation (CPC) on Saturday announced a revision of fuel prices effective from 1 December.
-
-Only the price of Petrol 92 Octane was reduced by Rs. 2 to Rs. 309 per litre, while the prices of Auto Diesel and Kerosene were increased. The price of Auto Diesel was increased by Rs. 3 to Rs. 286 per litre, while price of Kerosene was increased by Rs. 5 to Rs. 188.
-
-However, the prices of Petrol 95 Octane and Super Diesel remain unchanged.
-
-Meanwhile, the Lanka IOC too announced that it has decided to revise its fuel prices to match the State-owned CPC prices.
-
-◼️
-
-[Data](articles/a9592bfc.json)
-
-[Extended Data](ext_articles/a9592bfc.ext.json)
-
----
-
-### Red warning in Tamil Nadu
-
-*2024-12-02 02:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-சிவப்பு-எச்சரிக்கை/175-348078) · `ta`
-
-Heavy rain warning in Tamil Nadu: Villupuram, Cuddalore, Kallakurichi districts affected. Thunderstorms forecasted in Chennai. Four deaths reported in Puducherry flood due to cyclone.
-
-🟩
-
-A red warning for heavy rains was issued yesterday to Villupuram, Cuddalore, Kallakurichi districts of Tamil Nadu and Puducherry yesterday.
-
-Meanwhile, the Chennai Meteorological Department has predicted thunderstorms and lightning in a few areas in Chennai.
-
-Meanwhile, four people have been killed in a flood of floods caused by a Fengal storm in Puducherry. (A)
-
-◼️
-
-[Data](articles/3326eb86.json)
-
-[Extended Data](ext_articles/3326eb86.ext.json)
-
----
-
-### Minister of Women and Child Affairs Saroja Savitri Bolraj visits Mannar
-
-*2024-12-02 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200190) · `ta`
-
-Women and Child Affairs Minister Saroja Savitri Bolraj visits flood-affected areas in Mannar, providing relief and addressing public concerns about development and support.
-
-🟩
-
-A team led by Women and Child Affairs Minister Saroja Savitri Bolraj met the people who were constantly affected by the floods in Mannar and continued to stay in security centers.
-
-Deputy Minister of Women and Child Affairs Dr. Namal Lakshamana, Member of Parliament Samanveli Gunasinghe, including the Secretaries of the Ministry of Parliament Samanveli Gunasinghe, and Mannar Nagar Divisional Secretary M Pradeep and Mannar District Secretariat Secretary (Land) SriskandakumarSelvanagar, the Hindu temple here. A visit to Pudukkudiyiruppu and met the people there and provided the medical and essential items brought by the companies.
-
-This was followed by a women's meeting at the party office located on the lower road.
-
-Minister of Women and Child Affairs Saroja Savitri Bolraj addressing the people who visited the visit here;
-
-The government is in charge of the aspiration of the people to do a lot of development work.
-
-...
-
-[Data](articles/29e04b3c.json)
-
-[Extended Data](ext_articles/29e04b3c.ext.json)
-
----
-
-### New chapter for Sri Lanka: We cannot give something out of nothing
-
-*2024-12-02 01:59:38* · [`dailyftlk`](https://www.ft.lk/columns/New-chapter-for-Sri-Lanka-We-cannot-give-something-out-of-nothing/4-769957) · `en`
-
-The railways, historically designed for goods transport, must be reimagined to meet modern needs economically
-
-The nation spoke and a new Government was elected. Now it’s time to unite and work collectively to pull ourselves out of the economic crisis we face. But in doing this, we must not lose sight of the bigger picture. While rooting out corruption is critical, it is not the sole solution to achieving prosperity. To truly transform the country, we must prioritise efficiency and overhaul the sluggish State mechanism, reorganising the way in which it runs.
-
-Let’s take Sri Lanka Railways for example. Each year, the State pumps approximately Rs. 57 billion into the railway system in 2024, while its annual revenue from ticket sales is only a mere Rs. 12 billion. A staggering Rs. 45 billion was lost to the State due to inefficiency.
-
-...
-
-[Data](articles/cbb40418.json)
-
-[Extended Data](ext_articles/cbb40418.ext.json)
-
----
-
-### Asia Asset Finance reports ‘strong’ financial performance in Q2
-
-*2024-12-02 01:53:00* · [`islandlk`](http://island.lk/asia-asset-finance-reports-strong-financial-performance-in-q2/) · `en`
-
-Asia Asset Finance PLC (AAF) has announced robust financial performance for the six months ending in 2024 with strong growth and strategic positioning in the market.The company’s total asset base expanded to LKR 32.28 billion, reflecting a 24.74% year-on-year increase, supported by disciplined asset management and a targeted portfolio expansion strategy. The loan portfolio also saw a significant rise of LKR 5.5 billion, bringing the total to LKR 26.1 billion as AAF continued to focus on high-quality lending while maintaining strict credit standards.
-
-...
-
-[Data](articles/be68af7a.json)
-
-[Extended Data](ext_articles/be68af7a.ext.json)
-
----
-
-### Export earnings up by 7.7% to USD 10,676 mn thus far this year
-
-*2024-12-02 01:52:00* · [`islandlk`](http://island.lk/export-earnings-up-by-7-7-to-usd-10676-mn-thus-far-this-year/) · `en`
-
-The earnings from exports have increased by 7.7 per cent (year-on-year) to US dollars 10,676 mn during the ten months ending October 2024 as a result of increased earnings from a number of commodities, according to the Weekly Economic Indicators report of the Central Bank.
-
-The earnings were mainly from exports of petroleum products [11.4 per cent], textiles and garments (4.3per cent), tea (9.2 per cent), food, beverages and tobacco (22.1per cent), rubber products (10.1per cent), and coconut related products (22.1per cent), among others.
-
-Import expenditure increased by 10.7 per cent (year-on-year) to US dollars 15,421 mn during the ten months ending October 2024, mainly due to higher imports of machinery and equipment (24.9per cent), textiles and textile articles (18.5per cent), chemical products (24.8per cent), and base metals (54.1per cent), among others.
-
-...
-
-[Data](articles/908d0f36.json)
-
-[Extended Data](ext_articles/908d0f36.ext.json)
-
----
-
-### MAS partners UNFPA to advance women’s health and wellbeing in apparel sector
-
-*2024-12-02 01:52:00* · [`islandlk`](http://island.lk/mas-partners-unfpa-to-advance-womens-health-and-wellbeing-in-apparel-sector/) · `en`
-
-Global apparel-tech conglomerate MAS and the United Nations Population Fund (UNFPA),signed a Memorandum of Understanding (MOU) on 28 November. This partnership marks the beginning of a year-long collaboration aimed at supporting women’s health and reproductive health.
-
-The MOU consolidated a shared vision between MAS and UNFPA to increase investment into women’s health and wellbeing. It seeks to empower and encourage women and girls in the apparel sector to speak up and for corporates to create safe public spaces. Through the partnership, both organizations will work together to upgrade medical centers, conduct awareness programs, and establish wellness facilities in BOI zones accessible to employees of the apparel sector.
-
-...
-
-[Data](articles/cd5de5f0.json)
-
-[Extended Data](ext_articles/cd5de5f0.ext.json)
-
----
-
-### Spain Visa Application Centre launched in Colombo by BLS International
-
-*2024-12-02 01:51:00* · [`islandlk`](http://island.lk/spain-visa-application-centre-launched-in-colombo-by-bls-international/) · `en`
-
-BLS International, a global tech-enabled services partner for governments and citizens and a global leader in visa processing and consular services, recently announced the commencement of Spain Visa Operations in Sri Lanka.
-
-This milestone marks a significant step in BLS International’s commitment to enhancing the customer experience and simplifying the visa application process for Sri Lankan residents.
-
-The newly inaugurated Spain Visa Application Centre in Colombo is strategically positioned to cater to the rising demand for Spain visa applications. The facility will accommodate a diverse range of travelers’ needs.
-
-This new centre will not only serve applicants from Colombo but also expand its reach to Maldives, significantly boosting BLS International’s presence and impact in Sri Lanka.
-
-...
-
-[Data](articles/12e9764f.json)
-
-[Extended Data](ext_articles/12e9764f.ext.json)
-
----
-
-### Central Bank aware of upside and downside risks to its inflation projections
-
-*2024-12-02 01:48:00* · [`islandlk`](http://island.lk/central-bank-aware-of-upside-and-downside-risks-to-its-inflation-projections/) · `en`
-
-The Central Bank forecasts the headline inflation to remain negative in the next few months, deeper than previously projected, but expects it to turn positive thereafter and gradually align with the targeted level of 5% over the medium term, aided by appropriate policy measures.
-
-Attributing larger downward adjustments in energy prices and reduction in volatile food prices to the current negative headline inflation, the Central Bank, however, is keeping its eye on upside and downside risks to inflation projections in the near to medium term.
-
-The Bank says possible upward pressures on the headline inflation could stem from six factors; namely:
-
-Possible upward pressures on global food and energy prices amidst geopolitical uncertainty
-
-Possible sticky global inflation due to the policy changes in the USA And in relation to downside risks to inflation projections, the Bank cites two key reasons among others, namely.
-
-...
-
-[Data](articles/6917066b.json)
-
-[Extended Data](ext_articles/6917066b.ext.json)
-
----
-
-### Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?
-
-*2024-12-02 01:43:07* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-economic-revival-Traditional-8-hour-workday-or-6-hour-workday/4-769956) · `en`
-
-Sri Lanka’s path to economic recovery owes much to the commendable leadership of President Anura Kumara Dissanayake (AKD) and his dedicated team. Their focus on structural reforms and anti-corruption measures is laying the foundation for a more resilient and equitable economy.
-
-Amid these transformative efforts, a thought-provoking question emerged on social media recently: Should Sri Lanka retain the traditional eight-hour workday or explore a shorter six-hour workday? This debate touches on broader concerns about labour productivity and its critical role in driving economic growth.
-
-Labour productivity is a fundamental driver of economic progress, directly influencing GDP growth and national prosperity. According to the Solow Growth Model of Economics, long-term economic growth is fuelled by labour growth, capital accumulation, and technological advancements.
-
-...
-
-[Data](articles/d2cab081.json)
-
-[Extended Data](ext_articles/d2cab081.ext.json)
-
----
-
-### INSEE Ecocycle continues beach cleanups to reduce national plastic pollution
-
-*2024-12-02 01:41:00* · [`islandlk`](http://island.lk/insee-ecocycle-continues-beach-cleanups-to-reduce-national-plastic-pollution/) · `en`
-
-INSEE Ecocycle, Sri Lanka’s pioneer in sustainable waste management, is continuing the beach clean-up efforts in line with its commitment to combating coastal plastic pollution through three recent beach clean-ups as part of the Plastic Free Rivers and Seas for South Asia (PLEASE) project. The World Bank funded the PLEASE Project, which was implemented by the South Asia Cooperative Environment Program (SACEP) with support from the United Nations Office for Project Services (UNOPS). It aims to catalyze actions that reduce the flow of plastic pollution into South Asian seas.
-
-...
-
-[Data](articles/73b22f67.json)
-
-[Extended Data](ext_articles/73b22f67.ext.json)
-
----
-
-### Social media influencers from Australia to present engaging digital narratives on SriLanka Tourism
-
-*2024-12-02 01:40:00* · [`islandlk`](http://island.lk/social-media-influencers-from-australia-to-present-engaging-digital-narratives-on-srilanka-tourism/) · `en`
-
-The four influencers ‘hold sway’ over an audience of more than 1.5 million
-
-In an exciting initiative to bolster Sri Lanka’s tourism industry, the Sri Lanka Tourism Promotion Bureau (SLTPB) is set to host four prominent Australian-based social media influencers in December 2024. The campaign aims to capture the allure of Sri Lanka through the eyes of these digital content creators, whose combined reach spans millions of followers across Instagram and TikTok. The endeavor promises to spotlight Sri Lanka as a premier destination for travelers seeking unique cultural, natural, and luxury experiences.
-
-...
-
-[Data](articles/0f556312.json)
-
-[Extended Data](ext_articles/0f556312.ext.json)
 
 ---

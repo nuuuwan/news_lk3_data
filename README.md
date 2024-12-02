@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 10:42:30**
+As of **2024-12-02 11:26:15**
 
 ## Newspaper Stats
 
-*Scraped **57,981** Articles*
+*Scraped **57,982** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 442
+dbsjeyarajcom | 443
 colombotelegraphcom | 591
 bbccomsinhala | 603
 islandlk | 3,490
@@ -26,29 +26,37 @@ adaderanasinhalalk | 10,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,975 (100.0%) of 57,981 articles have been extended.
+57,982 (100.0%) of 57,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### வாட்ஸ்அப் பயனர்களுக்கு அதிரடி அறிவிப்பு
+### Action Notification for WhatsApp Users
 
 *2024-12-02 10:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்ஸ்அப்-பயனர்களுக்கு-அதிரடி-அறிவிப்பு/175-348094) · `ta`
 
-வட்ஸ்அப் கணக்குகளை ஊடுருவி மேற்கொள்ளப்படும் நிதி மோசடிகள் தொடர்பான முறைப்பாடுகள் அதிகரித்துள்ளதால், மூன்றாம் தரப்பினருக்கு அவர்களின் அலைபேசி இலக்கங்களில் பெறப்பட்ட சரிபார்ப்புக் குறியீட்டை வழங்க வேண்டாம் என  இலங்கை கணினி அவசர பதில் மன்றம் கோரிக்கை விடுத்துள்ளது.
+Sri Lanka Computer Emergency Response Council warns against sharing mobile verification codes with third parties to prevent WhatsApp account hacking and financial fraud.
 
-ஹேக்கர்கள் WhatsApp குழுக்களில் இணைந்து பயனர்களின் கணக்குகளை கண்காணிப்பதாகவும் கணக்குகளை ஹேக் செய்த பின்னர்,
+🟩
 
-அவர்கள் கடன் கேட்டு ஹேக் செய்யப்பட அலைபேசியில் உள்ள எண்களுக்கு அவசர செய்திகளை அனுப்புவதாகவும் இலங்கை கணினி அவசர பதில் மன்றத்தின் மூத்த தகவல் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல தெரிவித்தார்.
+The Sri Lanka Computer Emergency Response Council has called for the third parties not to provide the verification code obtained on their mobile number as the complaints relating to financial frauds that infiltrate WhatsApp accounts have increased.
 
-அதன்படி, சமய நிகழ்ச்சிகள், பரிசுகளை வெல்வது அல்லது கல்வி நிகழ்ச்சிகளில் பங்கேற்பது போன்ற வாய்ப்புகளை குறிப்பிட்டு அலைபேசி எண்ணில் பெறப்பட்ட ரகசிய குறியீட்டை அவர்கள் கோருவதாக கூறப்படுகிறது.
+After hackers hacked the accounts and track users' accounts along with WhatsApp Groups,
 
-தங்கள் வாட்ஸ்அப் கணக்கை ஹேக்கர்களிடம் கொடுப்பதன் மூலம் அவர்களுக்கு இலகுவில் தங்கள் கணக்கிலும் உட்செல்ல முடியும் எனவும் கூறப்படுகின்றது.
+Senior Information Safety Engineer of the Sri Lanka Computer Emergency Response Forum, Saruka Tamunubola said that they are sending emergency messages to the numbers on the phone to be hacked.
+
+Accordingly, they are said to require a secret code obtained in the cell phone number, mentioning opportunities such as religious events, winning prizes or participating in educational programs.
+
+It is also said that by giving their WhatsApp account to hackers, they can easily in their account.
+
+The hackers then control the WhatsApp account, and send the message as the right person to send money to the telephone numbers attached to that account.
 
 ...
 
 [Data](articles/dddcae1b.json)
+
+[Extended Data](ext_articles/dddcae1b.ext.json)
 
 ---
 
@@ -203,6 +211,8 @@ Dr. Kavinda Jayawardena representing the Samagi Jana Balawegaya (SJB) also atten
 ◼️
 
 [Data](articles/b1073012.json)
+
+[Extended Data](ext_articles/b1073012.ext.json)
 
 ---
 
@@ -876,6 +886,8 @@ Possible sticky global inflation due to the policy changes in the USA And in rel
 
 [Data](articles/6917066b.json)
 
+[Extended Data](ext_articles/6917066b.ext.json)
+
 ---
 
 ### Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?
@@ -922,6 +934,8 @@ In an exciting initiative to bolster Sri Lanka’s tourism industry, the Sri Lan
 
 [Data](articles/0f556312.json)
 
+[Extended Data](ext_articles/0f556312.ext.json)
+
 ---
 
 ### Seylan Cards partners with FitsAir to continue its swipe and win promo
@@ -955,6 +969,8 @@ Additionally, 90 online vendor partners will offer discounts to ComBank credit a
 ...
 
 [Data](articles/e5ec94b0.json)
+
+[Extended Data](ext_articles/e5ec94b0.ext.json)
 
 ---
 
@@ -1980,19 +1996,29 @@ The body has been placed in the funeral room of the Polgahawela Hospital and the
 
 ---
 
-### 2021 සිට 2023 දක්වා අලි වැටට රු. කෝටි 235ක් වැය කළත් වැඩක් වෙලා නෑ
+### Elephant fence from 2021 to 2023. There is no work even when spent 235 crores
 
 *2024-12-01 18:00:20* · [`adalk`](https://www.ada.lk/breaking_news/2021-සිට-2023-දක්වා-අලි-වැටට-රු--කෝටි-235ක්-වැය-කළත්-වැඩක්-වෙලා-නෑ/11-413385) · `si`
 
-විදුලි වැටවල් ඉදිකිරීම සහ  එහි නඩත්තු කටයුතු සඳහා ඉකුත් වසර (2021-2023)තුනක කාලයෙහිදී රජය විසින් රුපියල් දෙසිය තිස්පන් කෝටි,පනස්අට ලක්ෂ,අසූ දෙදහස් දෙසිය හතළිස් අටක මුදලක් (2,355,882,248)  වැයකොට ඇතත්  අලි මිනිස්  ගැටුම් අවම වීමක් සිදුවි නොමැති බව ජාතික විගණන කාර්යාලය  මගින් නිකුත්කොට ඇති  විගණන වාර්තාවක සඳහන් වේ.
+Here's a summary in 200 characters:
 
-පසුගිය වසර පහ තුළ සිදුවූ  අලි මරණ , මිනිස් මරණ හා  දේපළ හානි සැලකිමේ දූ  විදුලි වැටවල් ඉදිකළද අලි මිනිස්  ගැටුම් අවම වීමක් සිදුවි නොමැත. ඉකුත් වර්ෂයෙහිදී විදුලි වැටවල් ඉදිකිරීම සඳහා  රුපියල් පන්කෝටි, අසුහය ලක්ෂ,හතළිස් දහස් එකසිය හතළිස් හතක මුදලක් (58,640,147)  මුදලක් වැයකොට තිබුණි.
 
-එහි නඩත්තු කටයුතු  සඳහා වැයකොට ඇති මුදල රුපියල්  එක්කෝටි,හතළිස් හතර ලක්ෂ,තිස්තුන් දහස්,පන්සිය පනස් දෙකකි (14,433,552).  විදුලි වැටවල් වල සම්පූර්ණ දිග ප්ර්මාණය  කිලෝමිටර් 5389.97කි.
+
+"Elephant fence project 2021-2023: ₹2,355 crore spent, no results. Audit reveals ₹58.64 crore for recent construction, ₹5,389.97 km fencing. Elephants unaffected."
+
+🟩
+
+The government has spent on the construction of electric fences and the maintenance of electric fences (2021-2023), the National Audit Office, no such hundred and eighty-eight hundred and forty-eight hundred and forty-eight million people (2,355,882,248).A audit report released is stated.
+
+Elephants have not been able to develop electric fences in the past five. The construction of electric fences in the last year has been spent on the construction of electric fences, eight lakhs, forty one hundred and forty-thousand (58,640,147).
+
+The cost of maintaining its maintenance is Rs.The total proportion of electric fences is 5389.97 km.
 
 ◼️
 
 [Data](articles/f96c5445.json)
+
+[Extended Data](ext_articles/f96c5445.ext.json)
 
 ---
 

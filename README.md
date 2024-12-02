@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 19:42:26**
+As of **2024-12-02 20:26:52**
 
 ## Newspaper Stats
 
-*Scraped **58,085** Articles*
+*Scraped **58,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,235 @@ islandlk | 3,490
 economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,491
-adaderanalk | 7,042
-tamilmirrorlk | 8,257
-virakesarilk | 9,507
+adalk | 5,492
+adaderanalk | 7,044
+tamilmirrorlk | 8,258
+virakesarilk | 9,513
 adaderanasinhalalk | 10,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,080 (100.0%) of 58,085 articles have been extended.
+58,089 (100.0%) of 58,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### The International Monetary Fund that emphasizes the safety of poverty and weaker communities
+
+*2024-12-02 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200249) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+IMF prioritizes poverty safety and weaker communities. Governments should protect vulnerable societies as per IMF guidelines. Economists predict 2025 base will meet IMF standards.
+
+🟩
+
+The government should take steps to protect the poverty and weaker society as emphasized by the IMF.. The prediction of economists is that the Base of 2025 can satisfy the International Monetary Fund.
+
+◼️
+
+[Data](articles/93f47a67.json)
+
+[Extended Data](ext_articles/93f47a67.ext.json)
+
+---
+
+### Gayantha Karunathilaka as the Prime Minister of the Opposition
+
+*2024-12-02 19:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சியின்-பிரதம-கொறடாவாக-கயந்த-கருணாதிலக்க/175-348130) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Gayantha Karunathilaka, Opposition Parliamentarian, appointed Chief Minister.
+
+🟩
+
+United People's Power District Parliamentarian Gayantha Karunathilaka has been appointed as the Chief Minister of the Opposition. Remble
+
+◼️
+
+[Data](articles/61ca866a.json)
+
+[Extended Data](ext_articles/61ca866a.ext.json)
+
+---
+
+### Colombo Fort - Badulla Railway Trail
+
+*2024-12-02 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200261) · `ta`
+
+Colombo Fort-Badulla train derails near Nawalapitiya. Service suspended until repairs. Alternative routes from Badulla to Colombo via Nawalapitiya station.
+
+🟩
+
+The Nawalapitiya Railway Control Room said that the passenger train from Colombo fort to Badulla has derailed between Nawalapitiya and Ikuru Oya railway stations.
+
+The railway control room said that the train derailed at 3.15 pm on Monday (02).
+
+All trains from Badulla to Colombo will be operated from Badulla to Colombo until the railway is renovated, and the railway control room official said that the train from Colombo and Kandy to Badulla to the Nawalapitiya railway station.
+
+◼️
+
+[Data](articles/d113832f.json)
+
+[Extended Data](ext_articles/d113832f.ext.json)
+
+---
+
+### Sri Lankan lawyer India's tribute champion
+
+*2024-12-02 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200269) · `ta`
+
+Sri Lankan lawyer Shamil wins men's title, Indian Anjali takes women's crown in Air Force Squash tournament. Over 450 participants from both countries compete in various age groups. Event hosted by Air Force Sports Club at Ratmalana Air Force Base.
+
+🟩
+
+The Shamil Men's Division of Sri Lanka and India's Anjali Women's Division held champion titles in the 16th Air Force Squad Competition held by the Air Force Schosh Association at the Ratmalana Air Force Squad Squad.
+
+The Air Force Scosh Competition organized under the full supervision of the Sri Lanka Schosh Federation was held in various age categories in accordance with the International Schosh Rules.
+
+Indian Air Force players and Sri Lankan players participated in the main open scosh competition.
+
+More than 450 competitors, including the initialists, participated in other categories.
+
+It is a special feature that the public division competitions for both parties were held as international rankings.
+
+Sri Lanka's Shamil lawyer and Methmal Wood clashed in the men's open division final.
+
+Shamil Lawyer 3 - 0 in the finals. H. Mendis took the challenge bowl.
+
+In the women's final, India's Anjali Samuel and Sanitma Sinali of the Sirimavo Bandaranaike Women's Vidyalaya, Colombo.
+
+...
+
+[Data](articles/8f2fc92d.json)
+
+[Extended Data](ext_articles/8f2fc92d.ext.json)
+
+---
+
+### The best world athletes of the year;Siban Hasana, Lettiel Deboko
+
+*2024-12-02 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200268) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Olympic champions Siban Hasan (Netherlands) and Lettiel Deopo (Botswana) won World Athlete of the Year awards. Siban Hasan took home two bronze medals and one gold in track and field events. Lettiel Deopo secured the male athletics award for his gold medal win in the 200m dash.
+
+🟩
+
+Olympic Champions Siban Hasan and Lettiel Deopoko won the awards for the best world athletes of the year.
+
+The awards were presented to the World Athletic Award Ceremony held on Sunday in Monaco.
+
+The Netherlands's Siban Hasan won the award for the best female athlete of the year and won the award for the best outsiders.
+
+Siban Hasan won 2 bronze medals and one gold medal at the Paris 2024 Olympic Games.
+
+Siban Hasan, who won the bronze medals in the women's 5000m and 10000m race, won the gold medal in the Marathon race.
+
+Meanwhile, Botswana's Letchile Deobo was awarded the Best Male Athletics Award for the winning gold medal in 19.46 seconds at the Paris 2024 Olympic Games.
+
+◼️
+
+[Data](articles/cd85a574.json)
+
+[Extended Data](ext_articles/cd85a574.ext.json)
+
+---
+
+### 'சம்பியன்ஸ்' கிண்ணம், எதிர்கால ஐசிசி சுற்றுப் போட்டிகளை ஈரிடங்களில் நடத்த இந்தியா, பாகிஸ்தான் இணக்கம்
+
+*2024-12-02 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200267) · `ta`
+
+சம்பியன்கள் கிண்ணம் (Champions Trophy), எதிர்கால ஐசிசி சுற்றுப் போட்டிகளை ஈரிடங்களில் நடத்தும் முறைமையை இந்திய கிரிக்கெட் கட்டுப்பாட்டுச் சபையும் பாகிஸ்தான் கிரிக்கெட சபையும் ஒப்புக்கொண்டுள்ளதாக செய்தி வெளியாகியுள்ளது.
+
+இதுகாலவரை ஏட்டிக்கு போட்டி மனப்பான்மையுடன் செயல்பட்டு வந்த இந்திய கிரிக்கட் கட்டுப்பாட்டுச் சபையும் பாகிஸ்தான் கிரிக்கட் கட்டுப்பாட்டுச் சபையும் அதிலிருந்து பின்வாங்கி, தங்களுக்கு இடையிலான ஐசிசி போட்டிகளை ஈரிடங்களில் விளையாட ஒப்புக்கொண்டுள்ளன.
+
+இதன் காரணமாக அடுத்த வருடம் நடைபெறவுள்ள சம்பியன்கள் கிண்ண  பொட்டியை நடத்துவதற்கான வழிமுறையை, போட்டி அட்டவணையை தயாரிக்கும் ஐசிசியின் பணி எளிதாக்கப்பட்டுள்ளது.
+
+2025 பெப்ரவரி 19ஆம் திகதியிலிருந்து மார்ச் 9ஆம் திகதிவரை நடைபெறவுள்ள சம்பியன்கள் கிண்ண கிரிக்கெட் போட்டி தொடர்பாக ஆராய்வதற்கான இணையவழி கூட்டம் ஒன்றை சர்வதேச கிரிக்கட் பேரவை கடந்த வெள்ளிக்கிழமை ஏற்பாடு செய்திருந்தது.
+
+...
+
+[Data](articles/732dd048.json)
+
+---
+
+### மட்டக்களப்பில் இடம்பெற்ற அனர்த்த முகாமைத்துவ குழு கூட்டத்தில் மணல் அகழ்விற்கு தற்காலிக தடை!
+
+*2024-12-02 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200266) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தில் செங்கலடி பகுதியில் சட்டவிரோத மணல் அகழ்வில் அதிகமானோர் ஈடுபடுவதனால் வயல் நிலங்கள் பாதிப்புக்குள்ளாகியுள்ளது எனவே  தற்காலிகமாகக் குறித்த பகுதிக்கான மணல் அகழ்வு அனுமதிப்பத்திரங்களை இடைநிறுத்தி வைப்பதற்கான தீர்மானம் எடுக்கப்பட்டுள்ளதாகத் தேசிய மக்கள் சக்தி பிரதியமைச்சரும் மட்டக்களப்பு மாவட்ட அபிவிருத்திக்குழு தலைவருமான அருண் ஹேமசந்திர தெரிவித்தார்.
+
+மட்டக்களப்பு மாவட்ட அரசாங்க அதிபரும் ஐஸ்டினா முரளிதரன் ஒருங்கிணைப்பில் மாவட்ட செயலக மண்டபத்தில் திங்கட்கிழமை (2) அனர்த்த முகாமைத்து குழு கூட்டம்  திங்கட்கிழமை (02) இடம்பெற்றது இதில் பிரதி அமைச்சர் அருண் ஹேமசந்திர மாவட்ட பாராளுமன்ற உறுப்பினர்களான கந்தசாமி பிரபு, இராசமாணிக்கம் சாணக்கியன், ஞானமுத்து சிறிநேசன், வைத்தியர் இளையதம்பி ஸ்ரீநாத், கலாநிதி எம்.எல்.ஏ.எம்.ஹிஸ்புல்லா, முஹம்மட் சாலி நளீம் ஆகியோர் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/39ed29ea.json)
+
+---
+
+### සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් හා ජනපති අතර හමුවක්
+
+*2024-12-02 19:19:38* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-සහල්-මෝල්-හිමියන්-හා-ජනපති-අතර-හමුවක්/11-413415) · `si`
+
+සහල් හිඟයකින් තොරව සාධාරණ මිලට, අඛණ්ඩව ජනතාවට ලබා දීමේ අවශ්‍යතාව ජනපති අවධාරණය කරයි
+
+ජනාධිපති අනුර කුමාර දිසානායක සහ සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් අතර සාකච්ඡාවක් අද (02) ජනාධිපති කාර්යාලයේ දී පැවැත්විණි.
+
+ඉදිරි මාසවලදී සහල් හිඟයකින් තොරව, සාධාරණ මිලට හා අඛණ්ඩව පාරිභෝගික ජනතාවට ලබා දීමේ අවශ්‍යතාව ජනාධිපතිවරයා මෙහිදී සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් වෙත පෙන්වා දුන් අතර ඒ සඳහා ගත යුතු කඩිනම් පියවර පිළිබඳවද ඔවුන් සමඟ සාකච්ඡා කළේය.
+
+සහල් හිඟයකින් තොරව ජනතාව වෙත ලබා දීම වෙනුවෙන් රට තුළ ගබඩා පහසුකම් වැඩි කිරීම සඳහා ගත යුතු පියවර පිළිබඳවද සාකච්ඡා කෙරිණි.
+
+එමෙන්ම නාඩු සහල්, අගය එකතු කළ නිෂ්පාදන සඳහා යොදා ගැනීම නිසා පරිභෝජනය සඳහා අවශ්‍ය තොග අඩු වීම පිළිබඳවද අවධානය යොමු විය.
+
+පොහොර සහනාධාරය ඵලදායී ලෙස ජාතික නිෂ්පාදනය සඳහා එකතු කිරීම අරමුණු කර ගනිමින් QR කේත ක්‍රමයක් හඳුන්වා දීමටද මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක අවධානය යොමු කළේය.
+
+...
+
+[Data](articles/58ffd291.json)
+
+---
+
+### Gayantha Karunatilake appointed Chief Opposition Whip
+
+*2024-12-02 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103936/gayantha-karunatilake-appointed-chief-opposition-whip) · `en`
+
+The Samagi Jana Balayawegaya (SJB) Galle District MP Gayantha Karunatilake has been appointed as the Chief Opposition Whip in Parliament, according to MP Harshana Rajakaruna.
+
+◼️
+
+[Data](articles/fb0c1e9e.json)
+
+---
+
+### Landmark climate change case opens at the top UN court as island nations fear rising seas
+
+*2024-12-02 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103935/landmark-climate-change-case-opens-at-the-top-un-court-as-island-nations-fear-rising-seas) · `en`
+
+The top United Nations court took up the largest case in its history on Monday, hearing the plight of several small island nations helpless in combating the devastating impact of climate change that they feel endangers their very survival. They demand that major polluting nations be held to account.
+
+After years of lobbying by island nations who fear they could simply disappear under rising sea waters, the U.N. General Assembly asked the International Court of Justice last year for an opinion on “the obligations of States in respect of climate change.”
+
+“The stakes could not be higher. The survival of my people and so many others is on the line,” said Arnold Kiel Loughman, attorney-general of the Vanuatu archipelago nation.
+
+“As the principal legal officer of my country, I have come before this court because domestic legal remedies are unable to address a crisis of the scope and magnitude,” he said during the opening session of two weeks of hearings.
+
+...
+
+[Data](articles/a47702a1.json)
+
+---
 
 ### New Secretary Appointment
 
@@ -786,25 +1000,31 @@ The US dollar purchasing price was 286.3962 rupees and the sales price were 294.
 
 ---
 
-### සහල් මෝල් හිමියන් සහල් තොග මිල යළි වැඩිකරයි
+### Rice mill owners reboot the rice stock price
 
 *2024-12-02 16:09:10* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මෝල්-හිමියන්-සහල්-තොග-මිල-යළි-වැඩිකරයි/11-413404) · `si`
 
-සහල් මෝල් හිමියන් විසින් නාඩු, සම්බා සහ කීරි සම්බා සහල් තොග මිල (02) දින වැඩි කර ඇති බව දිවයින පුරා සහල් තොග වෙලෙදුන් වෙත දැනුම් දි ඇත.
+Rice mill owners raise prices: Nadu rice now ₹255/kg, Samba ₹240/kg. Mills advise customers to take loans to afford. Owners claim unable to control prices due to increasing costs.
 
-ඒ අනුව නාඩු සහල් කිලෝවක තොග මිල රු 255, සම්බා සහල් රු 260, කීරි සම්බා රු 275 දක්වා වැඩි කර ඇති බවයි වෙලෙදුන් කියා සිටියේ.
+🟩
 
-එම මිලට අවශ්‍ය සහල් තොග ප්‍රමාණයට මුදල් බැංකුගත කරන ලෙසට සහල් මෝලි හිමියන් විසින් වෙලෙදුන් වෙත උපදෙස් ලබා දි ඇත.
+The rice mill owners have increased the prices of Nadu, Samba and Kary Samba rice (02).
 
-වෙලදපොලේ නාඩු සහල් කිලෝවක පාලන මිල වන රු 220, සම්බා රු 230, කීරි සම්බා රු 260 වන අතර, ඒ මිලට අලෙවි කරන ලෙසට පාරිභෝගික සේවා අධිකාරිය චක්‍රලේකණ නිකුත් කර ඇත.
+The victims have been increased by a kilogram of nadu rice, Rs. 255 and Rs.
 
-සහල් මෝල් හිමියන් වරින් වර සහල් මිල වැඩි කර ලබාදිම නිසා තමන්ට පාලන මිලට සහල් අලෙවි කිරිමට නොහැකි බවයි සහල් තොග සහ සිල්ලර වෙලෙදුන් කියා සිටියේ.
+The rice Malls have advised the custodar to bank to borrow money to the price.
 
-ඉකුත් සතියේ සහල් මෝල් හිමියන් විසින් නාඩු සහල් කිලෝවක් රු 235-240, සම්බා රු 250, කීරි සම්බා රු 260-265වැනි තොග මිලකට වෙලෙදුන් වෙත නිකුත් කර ඇත.
+The cost of Rs.
+
+Rice mill owners have said that they cannot sell rice to control prices, as they increase rice prices from time to time.
+
+Last week, the rice mill owners have been released to a kilo of nadu rice, Rs. 235-240, Samba, Rs.
 
 ◼️
 
 [Data](articles/0f790a05.json)
+
+[Extended Data](ext_articles/0f790a05.ext.json)
 
 ---
 
@@ -856,21 +1076,33 @@ The officer added that the filled trains will be fully accumulated.
 
 ---
 
-### මගේ රැස්විම් වලට මින් පස්සේ වි.අයි.පි. පුටු එපා
+### After all my meetings, WIP. Do not chairs
 
 *2024-12-02 15:51:25* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-රැස්විම්-වලට-මින්-පස්සේ-වි-අයි-පි--පුටු-එපා/11-413402) · `si`
 
-ඇමතිවරු, මන්ත්‍රිවරුන් එනවා කියලා මින් පස්සේ කිසිම රැස්විමකට අනවශ්‍ය වියදමක් කරන්න ඒපා. මගේ සියලුම උත්සව වල වියදම අඩු කරන එක ගැන ආයතන දැනුවත් කරන්න සුදානමින් ඉන්නේ. අපිට වි.අයි.පී.පුටු ගෙන්න ඒපා අනිත් අය වාගේ අපිටත්  ප්ලාස්ටික් පුටුවක ඉදගන්න පුළුවන් අය යැයි රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන ඇමති චන්දන අබේරත්න මහතා පැවසිය.
+Here's a summary of the text in approximately 200 characters:
 
-ඇමතිවරයා මේ බව පවසා සිටියේ පුත්තලම දිස්ත්‍රික් සාහිත්‍ය උත්සවය වෙනුවෙන් ආණමඩුව සුදම්පාය ශාලාවේ  සංවිධානය කර තිබු රැස්විමකට එක්වෙමිනි.
 
-වයඹ පළාත් ආණ්ඩුකාර තිස්ස වර්ණසුරීය මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙම රාජ්‍ය සාහිත්‍ය උත්සවය පුත්තලම දිස්ත්‍රික් ලේකම් එච්.එම්.එස්.පී.හේරත් මහතා ඇතුළු පුත්තලම දිස්ත්‍රික් ලේකම් කාර්යාලය සංවිධානය කර තිබුනී.
 
-එහිදි  වැඩි දුරටත් අදහස් දැක්වු රාජ්‍ය පරිපාලන අමාත්‍යවරයා අපිට මේ ආණමඩුව නුහුරු තැනක් නොවේයි.මේ ගහ කොළ වැව් අතීතයෙ සුන්දර තැනක්.ඒ නිසා ඒ පරිසරයෙ හැදි අපි කොච්චර ඉහල තනතුරු වලට ගියත් අපි හිටපු අතීතය අපිට අමතක කරන්න බැහැ.
+Minister Chandana Abeyratne addresses festival costs at Anamaduwa event. Emphasizes reducing unnecessary expenses. Highlights literary contributions. Awards presented at Puttalam District Lighter Festival.
+
+🟩
+
+After this, the ministers and MPs are coming to none. I am ready to educate the institutions about reducing the cost of reducing the cost of all my festivals. Public Administration Provincial Councils and Local Government Affairs Minister Chandana Abeyratne said that we could have to bring us the WIP.
+
+The Minister was speaking at a meeting organized by the Anamaduwa Sudampayaka hall for the Puttalam District Lighter Festival.
+
+The State Literary Festival, which was chaired by Governor Tissa Warrant, was chaired by Governor Tissa Parisuri.
+
+The Minister of Public Administration is not a beautiful place in the past.
+
+So I don't want to spend anything of the festivals and to waste money to the world. In front of the festivals, you have to spend any such unnecessary spending.
 
 ...
 
 [Data](articles/014b5d31.json)
+
+[Extended Data](ext_articles/014b5d31.ext.json)
 
 ---
 
@@ -1008,17 +1240,25 @@ He said that his party was defeated by the 2015 presidential election and had fo
 
 ---
 
-### ඩෙංගු මර්දනය සඳහා කියුබානු රජයේ සහාය ලබාගැනීමට යයි
+### Cuban government to obtain dengue eradication
 
 *2024-12-02 15:41:30* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-මර්දනය-සඳහා-කියුබානු-රජයේ-සහාය-ලබාගැනීමට-යයි/11-413401) · `si`
 
-වරින් වර හිස ඔසවනු ලබන ඩෙංගු රෝගය සම්පූර්ණයෙන් පාලනය කර ගැනීමට නව රජය සැළසුම් කරන වැඩසටහන තුල ප්‍රතිකාර සේවා ශක්තිමත් කර ගැනීමට, මදුරු කීට බෝවීම මර්දනය කිරීමට සහ විධිමත් ඖෂධ භාවිතාවන් ආදී කරුණු සම්බන්ධව කියුබානු රජයේ විශේෂඥ දැනුම, තාක්ෂණික මෙවලම් සහ අත්දැකීම් සෘජුවම යොදා ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා තීරණය කර ඇත.
+Cuba offers dengue eradication aid to Sri Lanka: strengthening treatments, controlling mosquito breeding, sharing expertise and tools.
 
-මෙම කරුණූ අනාවරණය වූයේ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සහ ශ්‍රී ලංකාවේ කියුබානු තානාපති අන්ද්‍රේස් මාර්සෙලෝ ගොන්සාලෙස් ගොරිඩෝ මහතා  (Andres Marcelo Gonzales Gorrido) අතර පසුගියදා සෞඛ්‍ය අමාත්‍යාංශයේ දී පැවැති විශේෂ හමුවක දීය.
+🟩
+
+The new government is planning to strengthen treatment, consolidate mosquito breeding, and direct medicine, technical tools and experiences to control mosquito breeding and formal use of mosquitoes.Minister Dr. Nalinda Jayatissa has decided.
+
+These roles were revealed at a special meeting held at the Ministry of Health with the Secretary to the Ministry of Health and Mass Media Dr. Nalinda Jayatissa and Sri Lanka's Cuban Ambassador to Sri Lanka.
+
+Cuban dip of Cuban Danapakaya explained the success of the dengue menace in the meeting, said the Cuban government is willing to exchange the necessary expertise in Sri Lanka to eliminate dengue eradication in Sri Lanka.. The Ambassador also served to inform the Health Minister on several products used to repress mosquito larvae.
 
 ...
 
 [Data](articles/1b08a416.json)
+
+[Extended Data](ext_articles/1b08a416.ext.json)
 
 ---
 
@@ -1218,7 +1458,7 @@ Three people who were traveling in the car were injured during the accident and 
 
 ---
 
-### Sri Lanka can expand blue economy with mini marinas in 21 fishery harbours: official
+### Sri Lanka eyes mini marinas in 21 fishery harbours to push blue economy
 
 *2024-12-02 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-expand-blue-economy-with-mini-marinas-in-21-fishery-harbours-official-191144/) · `en`
 
@@ -1554,25 +1794,39 @@ Sir John had struck back with the Premier Stakes which he later denied having an
 
 ---
 
-### ශාරුජන් ෂන්මුගනාදන් : 13 වසරකට පෙර ටෝනි ග්‍රේග් අනාවැකි කියූ පිතිකරු
+### Shahragen Shanmugamganatan: 13 years ago Tony Gray parliamentary
 
 *2024-12-02 13:01:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2y80egdjeo) · `si`
 
-ශාරුජන් ෂන්මුගනාදන් : 13 වසරකට පෙර ටෝනි ග්‍රේග් අනාවැකි කියූ පිතිකරු
+Here's a summary of the text in approximately 200 characters:
 
-"බලන්න ඒ දිහා .. ඉතා විශිෂ්ඨ කවර් ඩ්‍රයිව් පහරක්... පුංචි කුමාර් සංගක්කාර" මේ, මීට වසර 13 කට පෙර ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර පැවති ටෙස්ට් තරගයක් අතර වාරයේදී ප්‍රවීණ ක්‍රිකට් විස්තර විචාරක ටෝනි ග්‍රේග් ගේ මුවින් නික්මුණු වචන පෙළකි.
 
-ටෝනි ග්‍රේග් එදා එලෙස පැවසුවේ කොළඹ SSC ක්‍රීඩාංගණයේ ප්‍රේක්ෂකයින් රැඳී සිටින කොටසේ කුඩා පිත්තක් අතින් ගෙන පිතිකරණයේ යෙදෙමින් සිටි සිව් හැවිරිදි  කුඩා ක්‍රීඩකයෙකු පිළිබඳවයි.
 
-එම කුඩා දරුවා ක්‍රීඩාංගණයේ ඈත කෙළවරක තම සම වයසේ තවත් දරුවන් පිරිසක් සමග ක්‍රිකට් ක්‍රීඩා කරමින් සිටියදී පිටියේ මැද පන්දුවට පහර දෙමින් සිටියේ ශ්‍රී ලංකාවෙන් බිහිවූ අග්‍රගන්‍ය පිතිකරුවෙකු වන කුමාර් සංගක්කාර යි.
+Sri Lankan cricketer Shahragen Shanmugamganatan's journey from age 4 to becoming a promising young player. His father shares his son's passion for cricket, starting with Tony Greig's commentary. Trained by coaches like Nelson Mendis, he excelled in school cricket and national teams. Favorite players include Kumar Sangakkara and Virat Kohli.
 
-IPL ක්‍රීඩක වෙන්දේසිය 2025: 13 හැවිරිදි ක්‍රීඩකයෙක් පළමු වරට IPL තරගාවලියට
+🟩
 
-ටෝනි ග්‍රේග් එදා කියූ ඒ කතාව අද යථාර්තයක් බවට පත් වෙමින් ඒ කුඩා ශාරුජන් ෂන්මුගනාදන් ගැන ක්‍රීඩා ලෝකයේ අවධානය යොමු වී තිබේ.
+Shahragen Shanmugamganatan: 13 years ago Tony Gray parliamentary
+
+"Look at it.. A great cover drive blow. Punchi Kumar Sangakkara, "This is a range of words between Sri Lanka and Australia in a Test Commentary Tony Gray Gray Gray Gray.
+
+Tony Greg was about four-year-old little player in the Colombo SSC Stadium.
+
+Kumar Sangakkara, a prosperous batsman, was attacked while playing cricket at a distant child in a distant child.
+
+IPL athletes auction 2025: 13-year-old player for the first time
+
+Tony Greg said that the talk was in the world today and focus on the sports world about the small Shahjan Shanmuganathan.
+
+Shahragen Shanmuganathan is currently being held in the UK Cup, the Asia Cup, the Sri Lankan team to score a half century against the Afghan group against the Afghan group.
+
+Shahjan Shanmuganatan reside in Colombo, Colombo on April 25, 2006. St. Benedictine College, the youngest child of the family, is studying at St. Benedictine College.
 
 ...
 
 [Data](articles/3aafb0f5.json)
+
+[Extended Data](ext_articles/3aafb0f5.ext.json)
 
 ---
 
@@ -2189,229 +2443,5 @@ Date of settlement of the above issuance is 2 December 2024. (Colombo/Dec2/2024)
 [Data](articles/6fe1c0d8.json)
 
 [Extended Data](ext_articles/6fe1c0d8.ext.json)
-
----
-
-### Rebuilding Trust: A Plea For Constructive Engagement From Tamils Worldwide
-
-*2024-12-02 11:20:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rebuilding-trust-a-plea-for-constructive-engagement-from-tamils-worldwide/) · `en`
-
-The decades-long civil conflict in Sri Lanka caused immense suffering across all communities—Tamils, Sinhalese, Muslims, and Burghers. While the magnitude of suffering varied, no group emerged unscathed. For many, the pain persisted not just for a year or two, but for over three decades. Those who left the country experienced their share of hardships, though their suffering was incomparable to those who remained amidst the devastation. This isn’t a contest to determine who endured the most; the focus must be on ensuring such a tragedy never happens again.
-
-...
-
-[Data](articles/0369160d.json)
-
-[Extended Data](ext_articles/0369160d.ext.json)
-
----
-
-### Ministers will no longer be provided with bungalows
-
-*2024-12-02 11:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களுக்கு-இனி-பங்களாக்கள்-வழங்கப்படாது/175-348099) · `ta`
-
-S:0
-
-🟩
-
-A minister said yesterday that the government has decided to not allocate state bungalows to ministers in the process of reducing the concessions for MPs in accordance with the election manifesto.
-
-In addition, MPs will also cancel tax -free vehicle permits once in five years.
-
-Ananda Wijebala, Minister of Public Security, Ananda Wijepala, who was responsible for parliamentary affairs, told the Daily Mirror yesterday that the government would decide what to do with the allocated state bungalows to ministers in the past governments.
-
-“We will not allocate these houses to any minister of the current government,” he said.
-
-The Minister said that the government will provide cheap vehicles to the MPs of the Division instead of permits for importing vehicles without taxes.
-
-“We will not give MPs a tax free vehicle permit. They will be provided with low cost, fuel economical vehicles, "he said.
-
-...
-
-[Data](articles/8c6fc066.json)
-
-[Extended Data](ext_articles/8c6fc066.ext.json)
-
----
-
-### Central Bank of Sri Lanka explains impact of deflation
-
-*2024-12-02 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103915/central-bank-of-sri-lanka-explains-impact-of-deflation) · `en`
-
-The Assistant Governor of the Central Bank of Sri Lanka (CBSL), Dr. Chandranath Amarasekara says that they do not expect the deflation to continue for a long time to have an impact on country’s production.
-
-He made these remarks during the recent monetary policy review briefing of 2024.
-
-Commenting further, Dr. Amarasekara expressed: “We do not expect deflation to continue for such a long time to have an impact on production. So, I think by the second quarter of the next year, we will see the end of deflation.”
-
-Meanwhile, in response to a question raised by a journalist whether the corporate profitability be impacted if the deflation drags for another year, the Governor of the Central Bank of Sri Lanka Dr. Nandalal Weerasinghe said “the cost of production comes down means the profitability can increase.”
-
-...
-
-[Data](articles/6abb8788.json)
-
-[Extended Data](ext_articles/6abb8788.ext.json)
-
----
-
-### Ranil standing in Muchandi
-
-*2024-12-02 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200204) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil stands firm in Muchandi. Political parties must maintain public trust in democracy. National list appointments highlight Sri Lanka's political administration challenges. Controversy impacts party futures and opposition strength in Parliament.
-
-🟩
-
-It is very important that political parties should act so that the public should not lose confidence in democracy. These issues faced by the major parties in the appointment of members to the national list reveal the view of how the political administration of Sri Lanka should improve. The results of controversy should not only be the party's future journey but also strengthen the activities of the opposition parties in Parliament.
-
-◼️
-
-[Data](articles/9a78a229.json)
-
-[Extended Data](ext_articles/9a78a229.ext.json)
-
----
-
-### Matale coconut prices of Rs. 230 million Years of coconut prices for Rs. Goes to 230
-
-*2024-12-02 11:10:20* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පොල්-මිල-රු--230ට-යයිමාතලේ-පොල්-මිල-රු--230ට-යයි/11-413393) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Matale coconut prices reach Rs. 230 million. Customers report prices between Rs. 200-300. Shortage causes selection issues. Some shops struggle to maintain prices.
-
-🟩
-
-Customers say the price of a coconut in the Matale town is between Rs. 200 and Rs.
-
-Customers say that there is a shortage of coconuts and will not be able to select the coconut prices and that some shop owners are not able to select the coconut.
-
-◼️
-
-[Data](articles/90ac324a.json)
-
-[Extended Data](ext_articles/90ac324a.ext.json)
-
----
-
-### Matale coconut prices of Rs. Goes to 230
-
-*2024-12-02 11:10:20* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පොල්-මිල-රු--230ට-යයි/11-413393) · `si`
-
-Matale coconut prices surge to Rs. 230. Customers report shortage, unable to select coconuts due to high demand and limited supply. Some shop owners struggle to manage prices.
-
-🟩
-
-Customers say the price of a coconut in the Matale town is between Rs. 200 and Rs.
-
-Customers say that there is a shortage of coconuts and will not be able to select the coconut prices and that some shop owners are not able to select the coconut.
-
-◼️
-
-[Data](articles/e8bcc3b3.json)
-
-[Extended Data](ext_articles/e8bcc3b3.ext.json)
-
----
-
-### The horrible accident of the night
-
-*2024-12-02 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203950) · `si`
-
-Car crash near Rahula junction: 3 injured, hospitalized. Driver lost control heading to Matara. Vehicle severely damaged. Police investigating.
-
-🟩
-
-A car had arrapped by a car near the Rahula junction at Akuressa main road.
-
-The accident had occurred last night and three persons who were traveling in the accident were injured and admitted to the Matara General Hospital.
-
-The driver was not able to control the vehicle while the car was driving from Akuressa to Matara and the vehicle was severely damaged.
-
-The Matara Police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/9bdd1998.json)
-
-[Extended Data](ext_articles/9bdd1998.ext.json)
-
----
-
-### Upcountry train runs is normal
-
-*2024-12-02 11:05:21* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමාන්‍ය-පරිදි/11-413392) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Upcountry train services resume after landslide removal on Udurutan railway line. Railway Control Room in Nawalapitiya now operates Kandyan railway line from Badulla.
-
-🟩
-
-The Railway Control Room (UPFA) will be operated from today (02) as a result of the Kandyan railway line.
-
-The Kandyan Railway Lighyorway was a large number of roads to Badulla due to the collapse of a large mountain in the Udunura area.
-
-As a result, the railway line was restricted to the fall station.
-
-The landslide has been removed from the Uduruwara area on the Udurutan railway line and the upcountry railway line is usually done by the Nawalapitiya Railway Control Room.
-
-◼️
-
-[Data](articles/a42424a1.json)
-
-[Extended Data](ext_articles/a42424a1.ext.json)
-
----
-
-### Motorcycle accident
-
-*2024-12-02 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200202) · `ta`
-
-Motorcycle crash kills one, injures three in Liyanagemulla. Driver loses control, hits wire.
-
-🟩
-
-One person was killed in an accident on Sunday (01) in Liyanagemulla area on Colombo -Negombo road, and a woman and two boys were injured, police said.
-
-The accident occurred when a motorcycle lost control of the driver and crashed into a nearby wiring.
-
-The motorcycle driver and two boys were injured when the motorcycle driver and two boys were injured during the accident.
-
-◼️
-
-[Data](articles/08347915.json)
-
-[Extended Data](ext_articles/08347915.ext.json)
-
----
-
-### Govt. to provide immediate relief to fishermen affected by adverse weather
-
-*2024-12-02 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103914/govt-to-provide-immediate-relief-to-fishermen-affected-by-adverse-weather) · `en`
-
-Deputy Minister of Fisheries Rathna Gamage says that measures will be taken to provide immediate relief to fishermen severely affected by the recent adverse weather conditions.
-
-During an observation visit to Pottuvil to assess the impact on the fishing community, the Deputy Minister highlighted that the recent disaster has caused significant hardships to communities across the country, particularly in the northern and eastern provinces.
-
-“Fishermen in these regions were hit the hardest, with 16 fishing vessels destroyed and numerous families losing their livelihoods,” Gamage stated.
-
-He added that President Anura Kumara Dissanayake has directed the Ministry of Disaster Management to expedite assistance for affected communities.
-
-The Deputy Minister also indicated that divisional and district secretaries have been instructed to refer affected families to the Disaster Management Center for assistance, and that measures will be taken to provide some relief for the damaged fishing vessels.
-
-...
-
-[Data](articles/4afe22e2.json)
-
-[Extended Data](ext_articles/4afe22e2.ext.json)
 
 ---

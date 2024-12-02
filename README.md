@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 22:30:57**
+As of **2024-12-02 22:42:31**
 
 ## Newspaper Stats
 
-*Scraped **58,106** Articles*
+*Scraped **58,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,490
 economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,494
+adalk | 5,495
 adaderanalk | 7,047
 tamilmirrorlk | 8,258
 virakesarilk | 9,516
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,104 (100.0%) of 58,106 articles have been extended.
+58,106 (100.0%) of 58,107 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The appointment letter was formally presented to Ms. Olga by the Secretary to th
 ◼️
 
 [Data](articles/7e7fc319.json)
+
+[Extended Data](ext_articles/7e7fc319.ext.json)
 
 ---
 
@@ -93,6 +95,8 @@ The stampede broke out on Sunday afternoon at the stadium in the city of Nzereko
 ...
 
 [Data](articles/fd1dba3d.json)
+
+[Extended Data](ext_articles/fd1dba3d.ext.json)
 
 ---
 
@@ -729,6 +733,24 @@ This is the largest drug consignment found in Australian history.
 [Data](articles/de476a12.json)
 
 [Extended Data](ext_articles/de476a12.ext.json)
+
+---
+
+### ගංවතුර අනතුරු ඇඟවීම ඉවත් කරයි
+
+*2024-12-02 17:22:26* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-අනතුරු-ඇඟවීම-ඉවත්-කරයි/11-413409) · `si`
+
+පසුගිය දිනවල දිවයිනේ බොහෝ ප්‍රදේශවලට ඇති වූ තද වැසි තත්ත්වය සැලකිල්ලට ගෙන  මහවැලි ගඟ හා දැදුරුඔය ආශ්‍රිත ප්‍ර දේශවලට නිකුත් කර තිබූ ගංවතුර අනතුරු ඇඟවීම අද (02දා) ඉවත් කර තිබේ.
+
+වාර්මාර්ග දෙපාර්තමේන්තුවේ  ජලවිද්‍යා  හා ආපදා කළමනාකරණ අංශය මගින්  පසුගිය මස 26 වැනි දින මෙම ගංගා දෙකට අදාළව  ගං වතුර අවදානම් නිවේදන නිකුත් කරනු ලැබීය.
+
+අයහපත් කාලගුණ තත්ත්වය අඩු වී තිබෙන නිසා අනතුරු ඇඟවීමේ නිවේදන  ඊයේ ඉවත් කර තිබෙන අතර ගංගාවල ජල මට්ටම් පිළිබඳව නිරන්තරයෙන් අවධානය යොමු කරමින් කටයුතු කරන බවද එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඉදිරියේදී  ගංවතුර තත්ත්වය පිළිබඳව අවදානමක් පවතිනවා නම්  ඒ ගැන පූර්ව දැනුම්දීමක් සිදුකරන බවද එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/8aa917d4.json)
 
 ---
 
@@ -2465,25 +2487,5 @@ In addition, the Attorney General has requested that the petition filed in this 
 [Data](articles/13e54995.json)
 
 [Extended Data](ext_articles/13e54995.ext.json)
-
----
-
-### Court informed of govt’s stance on Grade 5 Scholarship Exam issue
-
-*2024-12-02 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103919/court-informed-of-govts-stance-on-grade-5-scholarship-exam-issue) · `en`
-
-The Attorney General (AG) has informed the Supreme Court this morning (02) that the Cabinet of Ministers has recommended to award free marks to all students for the 03 questions which were alleged to have been leaked in the 2024 Grade 5 Scholarship Examination.
-
-Appearing on behalf of the AG, Solicitor General Viraj Dayaratne further stated that the Cabinet of Ministers’ stance was that it is not necessary to re-conduct the examination for this question paper, considering the potential stress it could cause to the students.
-
-Furthermore, the Solicitor General informed that the Attorney General has filed a motion seeking the petition to be taken up for hearing before a full bench of Supreme Court judges.
-
-Later, the petition was ordered to be taken up for hearing on December 11, Ada Derana reporter said.
-
-...
-
-[Data](articles/c8b52e1f.json)
-
-[Extended Data](ext_articles/c8b52e1f.ext.json)
 
 ---

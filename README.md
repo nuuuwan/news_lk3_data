@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 20:42:39**
+As of **2024-12-02 21:42:45**
 
 ## Newspaper Stats
 
-*Scraped **58,100** Articles*
+*Scraped **58,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,490
 economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,492
-adaderanalk | 7,044
+adalk | 5,494
+adaderanalk | 7,045
 tamilmirrorlk | 8,258
 virakesarilk | 9,516
 adaderanasinhalalk | 10,037
@@ -26,85 +26,141 @@ adaderanasinhalalk | 10,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,090 (100.0%) of 58,100 articles have been extended.
+58,100 (100.0%) of 58,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### வெலன்சியா மரதன் ஓட்டப் போட்டியி;ல் கென்யாவின் சோவ், எதியோப்பியாவின் அலேமு சம்பியன்களாகினர்
+### President stresses need for stable and affordable rice supply in coming months
 
-*2024-12-02 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200272) · `ta`
+*2024-12-02 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103937/president-stresses-need-for-stable-and-affordable-rice-supply-in-coming-months) · `en`
 
-ஸ்பெயன் தேசத்தின் வெலன்சியா நகரில் ஞாயிற்றுக்கிழமை நடைபெற்ற 2024 வெலன்சியா மரதன் ஓட்டப் போட்டியில் ஆண்கள் பிரிவில் கென்யாவின் செபெஸ்டியன் சோவேயும் பெண்கள் பிரிவில் எதியோப்பியாவின் மெகேர்ட்டு அலேமுவும் வெற்றிபெற்று சம்பியன்களாகினர்.
+A discussion between President Anura Kumara Dissanayake and small and medium-scale rice mill owners took place today (02) at the Presidential Secretariat.
 
-தனது அறிமுக மரதன் ஓட்டப் போட்டியில் பங்குபற்றிய செபெஸ்டியன் சோவெ அப் போட்டியை 2 மணித்தியாலங்கள், 02 நிமிடங்கள், 05 செக்கன்களில் நிறைவுசெய்து வெற்றிபெற்றார்.
+During the discussion, the President emphasized the importance of ensuring a continuous and affordable supply of rice to consumers in the coming months. He engaged with the mill owners to identify immediate measures needed to achieve this goal.
 
-அவர் பதிவு செய்த இந்த நேரப் பெறுதியானது இந்த வருடத்திற்கான அதிசிறந்த நேரப் பெறுதியாகும். அத்துடன் சர்வதேச மரதன் ஓட்டப் போட்டி வரலாற்றில் பதிவான ஐந்தாவது அதிசிறந்த நேரப் பெறுதி இதுவாகும்.
+The meeting also focused on enhancing storage facilities across the country to prevent shortages and ensure a steady rice supply, the President’s Media Division (PMD) said.
 
-அப் போட்டியில் எதியோப்பிய வீரர் டெரேசா ஜெலெட்டா (2:02:38) இரண்டாம் இடத்தையும் கென்ய வீரர் டெனியல் மெட்டெய்க்கோ (2:04:24) மூன்றாம் இடத்தையும் பெற்றனர்.
+Additionally, concerns were raised about the declining availability of Nadu rice for consumption due to its increased use in value-added products.
 
-பெண்களுக்கான ஒட்டப் போட்டியில் 2 நிமிடங்கள் வித்தியாசத்தில் எதியோப்பிய வீராங்கனை மெகேர்ட்டு அலேமு வெற்றிபெற்று சம்பியனானார்.
-
-அவர் அப் போட்டியை 2 மணித்தியாலங்கள், 16 நிமிடங்கள், 49 செக்கன்களில் ஓடி முடித்து முதலிடத்தைப் பெற்றார்.
+President Dissanayake highlighted the potential benefits of introducing a QR code system to streamline the distribution of fertilizer subsidies and boost domestic agricultural production, the PMD added.
 
 ...
 
-[Data](articles/1c014f66.json)
+[Data](articles/532cb452.json)
+
+[Extended Data](ext_articles/532cb452.ext.json)
 
 ---
 
-### புதிய அரசியலமைப்பு உருவாக்கம்: அடுத்தகட்டமாக முன்னெடுக்கவேண்டிய நடவடிக்கைகள் என்ன? கஜேந்திரகுமார் - சிறிதரனுக்கு இடையிலான சந்திப்பில் ஆராய்வு
+### Kenya's Chow, Ethiopia's Alemu Champions
+
+*2024-12-02 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200272) · `ta`
+
+Kenya's Sebastian Chou wins men's category at Valencia Marathon 2024. Ethiopia's Macared Alem takes women's title. Chou sets new personal best of 2:02:05. Alem wins by 2 minutes with time of 2:16:49.
+
+🟩
+
+In the men's category of the men's category and Ethiopia's Macared Alem in the women's category, Ethiopia's Macared Alem was a winning championship in the 2024 Valensia Marathon race held on Sunday in Walensia, Spain.
+
+He won the Sebstian Chow Up competition in his debut Marathon race in 2 hours, 02 minutes and 05 seconds.
+
+This time receiving he registered is the best time for this year. It is also the fifth high time recorded in the history of the International Marathon Rate.
+
+Ethiopian player Teresa Jelletta (2:02:38) won the second place and Kenyan player Deniel Metaiko (2:04:24) came third.
+
+Mcard Alemu won the Ethiopian player by 2 minutes in the women's ads.
+
+He finished the match in 2 hours, 16 minutes and 49 seconds.
+
+Uganda's Stella Sesang (2:18:26) finished second and Ethiopian Drye Mespin (2:18:35) came third.
+
+◼️
+
+[Data](articles/1c014f66.json)
+
+[Extended Data](ext_articles/1c014f66.ext.json)
+
+---
+
+### New Constitution: What are the steps to be taken next?Gajendrakumar - A review at the meeting between Sridharan
 
 *2024-12-02 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200271) · `ta`
 
-புதிய அரசியலமைப்பில் தமிழ் மக்களின் அபிலாஷைகளைப் பூர்த்திசெய்யக்கூடியவகையில் சமஷ்டி அடிப்படையிலான தீர்வு  உள்வாங்கப்படவேண்டியதன் அவசியம் குறித்தும், அதனை இலக்காகக்கொண்டு அடுத்தகட்டமாக முன்னெடுக்கவேண்டிய நடவடிக்கைகள் குறித்தும் பாராளுமன்ற உறுப்பினர்களான கஜேந்திரகுமார் பொன்னம்பலம் மற்றும் சிவஞானம் சிறிதரன் ஆகியோருக்கு இடையிலான சிநேகபூர்வ சந்திப்பின்போது கலந்துரையாடப்பட்டுள்ளது.
+Steps after new constitution: Federal solution implementation, dialogue between TNA leaders, public program approach.
 
-அண்மையில் நடைபெற்றுமுடிந்த பொதுத்தேர்தல் முடிவுகளை அடுத்து, இனிவருங்காலங்களிலேனும் தமிழ்த்தேசிய அரசியல் கட்சிகள் தமிழ் மக்களின் நலனை முன்னிறுத்தி ஒன்றுபட்டுப் பயணிக்கவேண்டும் என்ற விடயம் பல்வேறு தரப்பினராலும் வலியுறுத்தப்பட்டு வருகின்றது.
+🟩
 
-அதன்படி தமிழ் மக்கள் பேரவையினால் தயாரிக்கப்பட்ட தீர்வுத்திட்ட முன்மொழிவை அடிப்படையாகக்கொண்டு ஏனைய தமிழ்த்தேசிய கட்சிகளுடன் பேச்சுவார்த்தைகளை நடத்துவதற்குத் தாம் தயாராக இருப்பதாக அண்மையில் தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்திருந்தார்.
+During the meeting between MPs Gajendrakumar Ponnambalam and Sivagnanam Sridharan on the need to implement a federal -based solution in a way that can be fulfilled in the new constitution and the next step.
+
+In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
+
+According to Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
+
+Meanwhile, Sivagnanam Sridharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), and the parliamentarian of the Democratic Tamil National Alliance (TNA), Selvam Adakkalanathan, stated that he was ready to negotiate beyond the proposal.
 
 ...
 
 [Data](articles/a3475a0b.json)
 
+[Extended Data](ext_articles/a3475a0b.ext.json)
+
 ---
 
-### இலங்கை விவகாரத்தில் முன்னர் கொண்டிருந்த கடப்பாடுகளை இப்போது ஈடேற்றுவீர்களா? - பிரிட்டன் வெளிவிவகார செயலாளர் டேவிட் லெமியிடம் உமா குமரன் எம்.பி கேள்வி
+### Will you now fulfill the previous obligations in the Sri Lankan affair?- Uma Kumaran MP questioned to British Foreign Secretary David Lemi
 
 *2024-12-02 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200270) · `ta`
 
-இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்தல் மற்றும் கடந்தகால மீறல்கள் தொடர்பில் பொறுப்புக்கூறலை உறுதிப்படுத்தல் என்பன குறித்து முன்னர் கொண்டிருந்த கடப்பாடுகளைத் தற்போது நிறைவேற்றுவீர்களா என பிரிட்டனின் வெளிவிவகார செயலாளர் டேவிட் லெமியிடம் அந்நாட்டுப் பாராளுமன்ற உறுப்பினர் உமா குமரன் கேள்வி எழுப்பியுள்ளார்.
+Sri Lanka ICC obligations: Foreign Sec David Lemi responds to UK MP Uma Kumaran's questions about accountability for past human rights violations.
 
-பிரிட்டன் பாராளுமன்றத்தில் கடந்த வாரம் (27) நடைபெற்ற வெளிவிவகாரக்குழுக் கூட்டத்திலேயே இலங்கையைப் பூர்விகமாகக்கொண்ட பிரிட்டன் பாராளுமன்ற உறுப்பினர் உமா குமரன், வெளிவிவகார செயலாளர் டேவிட் லெமியிடம் மேற்கூறப்பட்ட விடயம் தொடர்பில் கேள்வி எழுப்பியிருக்கிறார்.
+🟩
 
-'இன்றை தினம் (27) உலகெங்கிலும் வாழும் தமிழர்களுக்கு முக்கியமான நாளாகும்' என்று சுட்டிக்காட்டிய உமா குமரன், 'கடந்த 2023 ஆம் ஆண்டு தமிழர்களுக்குத் தோள் கொடுக்குமாறும், மிகமோசமான மனித உரிமை மீறல்களுடன் தொடர்புடைய குற்றவாளிகளை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்துமாறு ஐக்கிய நாடுகள் மனித உரிமைகள் உயர்ஸ்தானிகரால் முன்வைக்கப்பட்ட பரிந்துரையை பரிசீலிக்குமாறும் நீங்கள் பிரிட்டன் அரசாங்கத்தை வலியுறுத்தியிருந்தீர்கள்.
+British Foreign Secretary David Lemi has questioned British Foreign Secretary David Lemi whether Sri Lanka will now fulfill its previous obligations on the issue of the International Criminal Court and to ensure accountability on past violations.
+
+British MP Uma Kumaran, a native of Sri Lanka at the Foreign Affairs Committee meeting held in the UK parliament last week (27), has questioned Foreign Secretary David Lemi about the above issue.
+
+Uma Kumaran pointed out that "today (27) is an important day for Tamils ​​around the world," you urged the British government to consider the recommendation of the United Nations Human Rights High Commission to give the Tamils ​​to the Tamils ​​in 2023 and to present the criminals involved in the most casual human rights violations.
 
 ...
 
 [Data](articles/b8353c32.json)
 
+[Extended Data](ext_articles/b8353c32.ext.json)
+
 ---
 
-### දඩයමට විරුද්ධවීම අපේ වගකීමක් - දිලිත්
+### It is our responsibility to oppose the hunt - Dilith
 
 *2024-12-02 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203969) · `si`
 
-එල්.ටී.ටී.ඊ. මහවිරු දින උත්සව සැමරුම් ප්‍රචාර සිදුකර ඇතැයි චෝදනා මත රක්ෂිත බන්ධනාගාරගතව සිටි කැළුම් හර්ෂණ නමැත්තා කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයෙන් ඇප මත මුදාහැරුණි.
+Here's a summary of 200 characters:
 
-එල්.ටී.ටී.ඊ. මහවිරු දින උත්සව සැමරුම් ප්‍රචාර සිදුකරමින් මහජනයා නොසන්සුන් කිරීමේ චෝදනා මත සැකකරුවන් සිව්දෙනෙකු අවස්ථා කිහිපයකදී අත්අඩංගුවට ගැනුණි.
 
-සෙසු සැකකරුවන් අතරින් යාපනය ප්‍රදේශයේදී අත්අඩංගුවට ගත් තැනැත්තා යාපනය මහෙස්ත්‍රාත් අධිකරණයට ඊයේ (01) ඉදිරිපත් කෙරුණු අතර ඔහු දෙසැම්බර් 4 වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
 
-රිමාන්ඩ් භාරයේ පසුවන සෙසු සැකකරුවන් වන්නේ දේශපාලන ක්‍රියාකාරිකයෙකු වන කැලුම් ජයසුමන හා ජනිත් චතුරංග යන අය වේ.
+LTTE suspects arrested over Mahaviru Day. Some bailed, others remanded. Opposition leader Dilith Jayaweera criticizes government control of social media, saying it hampers free speech and national unity.
 
-ඒ අතරින් කැලුම් ජයසුමන මහතාගේ සුවදුක් විමසා බැලීම සඳහා සර්වජන බලය නායක පාර්ලිමේන්තු මන්ත්‍රී ව්‍යවසායක දිලිත් ජයවීර මහතා ඇතුළු පිරිසක් වැලිකඩ බන්ධනාගාර පරිශ්‍රය වෙත අද (02) පැමිණියේය.
+🟩
 
-එහිදී අදහස් දක්වමින් සර්වජන බලයේ නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පවසා සිටියේ, සමාජ මාධ්‍ය භාවිතය අනවශ්‍ය ලෙස පාලනයට රජය කටයුතු කරමින් සිටින බවය.
+The LTTE.. The Colombo Chief Magistrate's Court was released on bail due to the bail of the Mahawaru Day celebrations.
+
+The LTTE.. Four suspects were arrested on several occasions on charges of suffering the Mahaviru Day celebrations.
+
+Among the other suspects were presented to the Jaffna Magistrate's Court yesterday (01), who was remanded until December 4.
+
+The rest of the suspects is Kelum Jayasehana and Janith Chathuranga.
+
+Dilita Jayaweera and several others arrived at the Welikada Prison premises to look into the health of Mr. Kelum Jayasumana.
+
+Headdica MP Dilith Jayaweera said that the government is unnecessarily administered.
+
+He said that it was a profound effect on the freedom of the people's opinion.
 
 ...
 
 [Data](articles/65942d85.json)
+
+[Extended Data](ext_articles/65942d85.ext.json)
 
 ---
 
@@ -264,51 +320,89 @@ Representatives of the Indian Cricket Control Board and the Pakistani Cricket Bo
 
 ---
 
-### மட்டக்களப்பில் இடம்பெற்ற அனர்த்த முகாமைத்துவ குழு கூட்டத்தில் மணல் அகழ்விற்கு தற்காலிக தடை!
+### Temporary ban on sand excavation at the Disaster Management Committee meeting held in Batticaloa
 
 *2024-12-02 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200266) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தில் செங்கலடி பகுதியில் சட்டவிரோத மணல் அகழ்வில் அதிகமானோர் ஈடுபடுவதனால் வயல் நிலங்கள் பாதிப்புக்குள்ளாகியுள்ளது எனவே  தற்காலிகமாகக் குறித்த பகுதிக்கான மணல் அகழ்வு அனுமதிப்பத்திரங்களை இடைநிறுத்தி வைப்பதற்கான தீர்மானம் எடுக்கப்பட்டுள்ளதாகத் தேசிய மக்கள் சக்தி பிரதியமைச்சரும் மட்டக்களப்பு மாவட்ட அபிவிருத்திக்குழு தலைவருமான அருண் ஹேமசந்திர தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-மட்டக்களப்பு மாவட்ட அரசாங்க அதிபரும் ஐஸ்டினா முரளிதரன் ஒருங்கிணைப்பில் மாவட்ட செயலக மண்டபத்தில் திங்கட்கிழமை (2) அனர்த்த முகாமைத்து குழு கூட்டம்  திங்கட்கிழமை (02) இடம்பெற்றது இதில் பிரதி அமைச்சர் அருண் ஹேமசந்திர மாவட்ட பாராளுமன்ற உறுப்பினர்களான கந்தசாமி பிரபு, இராசமாணிக்கம் சாணக்கியன், ஞானமுத்து சிறிநேசன், வைத்தியர் இளையதம்பி ஸ்ரீநாத், கலாநிதி எம்.எல்.ஏ.எம்.ஹிஸ்புல்லா, முஹம்மட் சாலி நளீம் ஆகியோர் கலந்து கொண்டனர்.
+
+
+Batticaloa Disaster Management Committee meeting: Temporary sand excavation ban approved. Criticisms addressed. Future preparedness emphasized. Officials held accountable. Discussions on hospitals, victim compensation, agricultural land estimates. 13th Amendment constitutional reform debate mentioned. Various district officials attended meeting.
+
+🟩
+
+The National People's Power Deputy Minister and Chairman of the Batticaloa District Development Committee, said that the decision to suspend sand excavations for the area has been temporarily affected by the excavation of the field.
+
+The Disaster Management Committee meeting was held on Monday (2) at the District Secretariat at the District Secretariat of Batticaloa District and Istina Muralitharan Coordination..MM Hizbullah and Muhammad Sally Naleem were also present.
+
+There have been various criticisms that various degree answers have been addressed here and the creative answers have been given a variety of criticisms that the disaster may have been more cautious in the area.
+
+In the near future, there is a need to recognize what we need to make more prepared, but the non -informal developments presented in the past are an important factor for this disaster.
+
+Therefore, we are forced to go to a permanent solution in this regard.
 
 ...
 
 [Data](articles/39ed29ea.json)
 
+[Extended Data](ext_articles/39ed29ea.ext.json)
+
 ---
 
-### විපක්ෂයේ ප්‍රධාන සංවිධායක ගයන්ත
+### Chief Whip of Opposition
 
 *2024-12-02 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203968) · `si`
 
-පාර්ලිමේන්තුවේ විපක්ෂයේ ප්‍රධාන සංවිධායක ලෙස සමගි ජනබලවේගයේ ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා පත් කර තිබේ.
+Here's a summary of 200 characters:
+
+
+
+"Gayantha Karunatilake, Galle District MP, named opposition chief whip. This appointment strengthens the opposition's leadership in Sri Lanka's parliament."
+
+🟩
+
+Galle District MP Gayantha Karunatilake has been appointed as the chief organizer of the opposition organizer.
 
 ◼️
 
 [Data](articles/e2f6920b.json)
 
+[Extended Data](ext_articles/e2f6920b.ext.json)
+
 ---
 
-### සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් හා ජනපති අතර හමුවක්
+### Meeting with Small and Medium Scale Mill and President
 
 *2024-12-02 19:19:38* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-සහල්-මෝල්-හිමියන්-හා-ජනපති-අතර-හමුවක්/11-413415) · `si`
 
-සහල් හිඟයකින් තොරව සාධාරණ මිලට, අඛණ්ඩව ජනතාවට ලබා දීමේ අවශ්‍යතාව ජනපති අවධාරණය කරයි
+Here's a summary of 200 characters:
 
-ජනාධිපති අනුර කුමාර දිසානායක සහ සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් අතර සාකච්ඡාවක් අද (02) ජනාධිපති කාර්යාලයේ දී පැවැත්විණි.
 
-ඉදිරි මාසවලදී සහල් හිඟයකින් තොරව, සාධාරණ මිලට හා අඛණ්ඩව පාරිභෝගික ජනතාවට ලබා දීමේ අවශ්‍යතාව ජනාධිපතිවරයා මෙහිදී සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් වෙත පෙන්වා දුන් අතර ඒ සඳහා ගත යුතු කඩිනම් පියවර පිළිබඳවද ඔවුන් සමඟ සාකච්ඡා කළේය.
 
-සහල් හිඟයකින් තොරව ජනතාව වෙත ලබා දීම වෙනුවෙන් රට තුළ ගබඩා පහසුකම් වැඩි කිරීම සඳහා ගත යුතු පියවර පිළිබඳවද සාකච්ඡා කෙරිණි.
+Pres. Anura Kumara Dissanayake met SME rice millers. Discussed fair rice pricing, ensuring no shortages. Proposed increasing storage capacity & reducing stock needs. Introduced QR code system for fertilizer subsidies.
 
-එමෙන්ම නාඩු සහල්, අගය එකතු කළ නිෂ්පාදන සඳහා යොදා ගැනීම නිසා පරිභෝජනය සඳහා අවශ්‍ය තොග අඩු වීම පිළිබඳවද අවධානය යොමු විය.
+🟩
 
-පොහොර සහනාධාරය ඵලදායී ලෙස ජාතික නිෂ්පාදනය සඳහා එකතු කිරීම අරමුණු කර ගනිමින් QR කේත ක්‍රමයක් හඳුන්වා දීමටද මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක අවධානය යොමු කළේය.
+President emphasizes the need to be given to a fair price and continuous people without any shortage of rice
 
-...
+President Anura Kumara Dissanayake and Small and Medium Scale Mill Kumara was held today (02).
+
+The President pointed out to SMEs and medium scale rice mills with the immediate prices of rice and continuous consumers in the coming months.
+
+It was also discussed on the steps to increase storage facilities in the country to give the people without any shortage of rice.
+
+It also focused on the decrease in the necessary stocks for consumption as well as the use of nadu rice.
+
+President Anura Kumara Dissanayake also focused on the introduction of a QR code a system to interactively collecting the fertilizer subsidy.
+
+Trade, Commerce, Food Safety and Co-operative Development Wasantha Samarasinghe, Lak Sathosa Chairman Dr. Society, Dr. Savali Perera and SMEs and small and medium scale rice mills were also present.
+
+◼️
 
 [Data](articles/58ffd291.json)
+
+[Extended Data](ext_articles/58ffd291.ext.json)
 
 ---
 
@@ -321,6 +415,8 @@ The Samagi Jana Balayawegaya (SJB) Galle District MP Gayantha Karunatilake has b
 ◼️
 
 [Data](articles/fb0c1e9e.json)
+
+[Extended Data](ext_articles/fb0c1e9e.ext.json)
 
 ---
 
@@ -339,6 +435,8 @@ After years of lobbying by island nations who fear they could simply disappear u
 ...
 
 [Data](articles/a47702a1.json)
+
+[Extended Data](ext_articles/a47702a1.ext.json)
 
 ---
 
@@ -624,6 +722,26 @@ We would like to inform the public to inform the public as the Sri Lanka Compute
 
 ---
 
+### මැතිවරණ වියදම් වාර්තා නොදෙන අයට කොමිෂමෙන් රතු නිවේදනයක්
+
+*2024-12-02 17:18:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-වියදම්-වාර්තා-නොදෙන-අයට-කොමිෂමෙන්-රතු-නිවේදනයක්/11-413408) · `si`
+
+මැතිවරණ වියදම් වාර්තා නියමිත දිනට භාර නොදෙන පාර්ලිමේන්තුවට තරග කළ  දේශපාලන පක්ෂ, ස්වාධීන කණ්ඩායම්  සහ අපෙක්ෂකයන්ට නීති මගින් කටයුතු කරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+මේ  මස 06 වැනි දින  මධ්‍යම රාත්‍රී 12.00 ට පෙර මැතිවරණ ප්‍රචාරක ආදායම් වියදම් වාර්තා භාර දිය යුතු බවත් අදාළ කාලයෙහි වාර්තා භාර නොදීම වරදක් බවත්  මැතිවරණ කොමිෂන් සභාව පෙන්වා දෙයි.
+
+වාර්තා භාර දීම සඳහා රාජකාරි දිනවල සවස 6.00 දක්වාත්  මේ මස 06 වැනි දින රාත්‍රී 12.00 දක්වාත් අදාළ කාර්යාල විවෘතව තැබීමට කටයුතු කරන බවද සඳහන් කරයි.
+
+මේ අනුව සියලුම දේශපාලන පක්ෂ හා  ස්වාධීන කණ්ඩායම් අපෙක්ෂකයන්  විසින් තරගකරන ලද මැතිවරණ දිස්ත්‍රික්කයේ තේරම්භාර  නිලධාරීන් වෙත අදාළ  භාර දිය යුතු බවද පෙන්වා දෙයි.
+
+ජාතික ලැයිස්තු අනුව නම් කරන ලද අපෙක්ෂකයන්ගේ  මැතිවරණ ප්‍රචාරක ආදායම් හා වියදම් වාර්තා මැතිවරණ කොමිෂන්  සභාවේ ප්‍රධාන කාර්යාලයට භාර දිය යුතු බවද  සඳහන් කරයි.
+
+◼️
+
+[Data](articles/33ddbadf.json)
+
+---
+
 ### Police seek public assistance to trace suspect in ATM fraud
 
 *2024-12-02 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103933/police-seek-public-assistance-to-trace-suspect-in-atm-fraud-) · `en`
@@ -775,6 +893,20 @@ Any inquiries regarding the submission of applications can be made through hotli
 [Data](articles/4aa795d6.json)
 
 [Extended Data](ext_articles/4aa795d6.ext.json)
+
+---
+
+### මැති ඇමති හිටපු ජනපති වරප්‍රසාද ගැන සෙවූ කමිටු වාර්තාව ජනපතිට
+
+*2024-12-02 17:01:29* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමති-හිටපු-ජනපති-වරප්‍රසාද-ගැන-සෙවූ-කමිටු-වාර්තාව-ජනපතිට/11-413407) · `si`
+
+මන්ත්‍රීවරුන්, අමාත්‍යවරුන් හා හිටපු ජනාධිපතිවරුන්ට ලබාදෙන දීමනා හා වරප්‍රසාද පිළිබඳ නැවත සලකා බැලීමට පත්කළ කේ. ටී. චිත්‍රසිරි කමිටුවේ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත භාර දී තිබේ.
+
+අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය  සහ ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක එම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/d4bfdb1c.json)
 
 ---
 
@@ -2343,81 +2475,5 @@ Heavy rains in the Nuwara Eliya district have caused heavy rainfall over the pas
 [Data](articles/bebaf7e7.json)
 
 [Extended Data](ext_articles/bebaf7e7.ext.json)
-
----
-
-### Sri Lanka’s air quality gradually improves - CEA
-
-*2024-12-02 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103918/sri-lankas-air-quality-gradually-improves-cea) · `en`
-
-The Central Environmental Authority (CEA) says that the Sri Lanka Air Quality Index (SLAQI) is gradually reaching towards moderate levels across several regions in the country.
-
-Speaking at a media briefing, CEA media spokesperson Dr. Ajith Gunawardena stated that the SLAQI readings in many areas ranged between 100 and 110 as of yesterday (Dec. 01).
-
-Dr. Gunawardena assured the public that the current slightly unhealthy levels of the air quality are temporary and are expected to improve significantly within the next two days.
-
-The air quality levels dropped in Colombo and several other areas across the country during last two days as a result of the recent adverse weather conditions and a border disturbance from the north.
-
-...
-
-[Data](articles/7355b865.json)
-
-[Extended Data](ext_articles/7355b865.ext.json)
-
----
-
-### Fernando sworn in as Chief Justice
-
-*2024-12-02 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203952) · `si`
-
-Madu Fernando sworn in as 48th Chief Justice of Sri Lanka. She was previously Deputy Solicitor General and joined AG's Dept in 1985. Appointed to Supreme Court in 2018. Graduated from University of Colombo Law Faculty.
-
-🟩
-
-Supreme Court judges' Furregenda Fernando, President Anura Kumara Dissanayake, president was sworn in before President Anura Kumara Dissanayake today (02).
-
-Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Murdu Fernando, 48th Chief Justice in Sri Lanka.
-
-Her name was recently approved by the Constitutional Council for the vacant post after his retirement.
-
-In 1985, she joined the Attorney General's Department in 1997 and promoted to the Deputy Solicitor General of the Deputy Solicitor General.
-
-Mrs. Madu Fernando has joined the Attorney General's Department for more than 30 years and has been appointed to the Supreme Court in March 2018.
-
-Mrs. Madu Fernando served as Senior Additional Solicitor General of the Attorney General's Department and is the present Chief Justice of the Supreme Court.
-
-The Mustra Fernando Judge, a pupil of Wales College, Moratuwa, has been graduated by the Faculty of Law, University of Colombo.
-
-...
-
-[Data](articles/2976643d.json)
-
-[Extended Data](ext_articles/2976643d.ext.json)
-
----
-
-### A Notification for Supreme Court in relation to the score of the scholarship examination
-
-*2024-12-02 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203951) · `si`
-
-Supreme Court hears scholarship exam case: Cabinet recommends free marks for 3 students, Solicitor General warns of exam impact, petition rescheduled for Dec 11.
-
-🟩
-
-The Attorney General has stated that the Cabinet has recommended free marks for the three students who were exhausted for the previous three students on the first question paper of the Year 5 scholarship examination.
-
-Solicitor General Viraj Dayaratne has informed the Supreme Court that students can be affected by the resurrection of the examination.
-
-The notice was made when the fundamental rights petitions have been taken up again today, challenging the scholarship examination.
-
-The Solicitor General also informed the Attorney General's intention was filed by the Attorney General to hear the Presidential Supreme Judiciaries to be heard in front of the heads of the petitions.
-
-The petition was then ordered to be held on December 11.
-
-◼️
-
-[Data](articles/59f024a0.json)
-
-[Extended Data](ext_articles/59f024a0.ext.json)
 
 ---

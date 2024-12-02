@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 15:01:59**
+As of **2024-12-02 15:14:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,024 (100.0%) of 58,035 articles have been extended.
+58,026 (100.0%) of 58,035 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### “எனக்கு VIP கதிரை வேண்டாம்”
+### "I don't want VIP to the Qad"
 
 *2024-12-02 14:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனக்கு-VIP-கதிரை-வேண்டாம்/175-348116) · `ta`
 
-அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள் வருகின்றார்கள் என்பதற்காக, இதற்குப் பிறகு எந்தக் கூட்டத்துக்கும் தேவையில்லாத செலவு செய்யாதீர்கள். எனது அனைத்து நிகழ்வுகளின் செலவைக் குறைப்பது குறித்து நிறுவனங்களுக்குத் தெரிவிக்க தயாராகி வருகிறேன். VIP (விசேட பிரமுகர்கள்)  அமர்வதற்காக கதிரைகளை எமக்கு கொண்டு வர வேண்டாம். நாங்கள் சாதாரண பிளாஸ்டிக் கதிரைகளில் அமர்ந்தவர்கள். அந்த கதிரைகள் போதும்  என பொதுநிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர்  சந்தன அபேரத்ன தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-புத்தளம் மாவட்ட இலக்கிய விழாவிற்காக ஆனமடுவ சுதம்பாய மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்த கூட்டத்தில் கலந்து கொண்டு அமைச்சர் இதனை தெரிவித்தார்.
 
-இந்த அரச இலக்கிய விழா வடமேல் மாகாண ஆளுநர்  திஸ்ஸ வர்ணசூரிய தலைமையில் புத்தளம் மாவட்ட செயலாளர்  எச்.எம்.எஸ்.பி.ஹேரத் உட்பட புத்தளம் மாவட்ட செயலகத்தின் ஏற்பாட்டில் இடம்பெற்றது.
 
-...
+Minister Chandana Abeyratne opposes VIP treatment at events. He emphasizes cost-effectiveness, saying officials use ordinary seating. The statement was made during the Puttalam District Literary Festival.
+
+🟩
+
+Do not spend any unnecessary spending after ministers and parliamentarians.. I am ready to report to companies about the cost of all my events. VIP (Special Persons) Do not bring us the rays to sit. We are sitting on ordinary plastic rays. Provincial Councils and Local Government Minister Chandana Abeyratne said that the rays were enough.
+
+The Minister made this observation at the meeting held at the Anamaduwa Sudambaya Hall for the Puttalam District Literary Festival.
+
+The State Literary Festival was organized by the Puttalam District Secretariat, including Puttalam District Secretary HMSP Herath.
+
+The Minister, as a public administration, is not an unfamiliar territory to us.. So, no show is unnecessarily expensive and wants to waste money.
+
+The literary event was awarded the Kalatini Award to 11 people who showcased the four journalists in various fields, including Rex Harrison, Vilama Sena Namuni, Padma Kumari and Fernando Point, from Puttalam district.
+
+◼️
 
 [Data](articles/b4b211e4.json)
+
+[Extended Data](ext_articles/b4b211e4.ext.json)
 
 ---
 

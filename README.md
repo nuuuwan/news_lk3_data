@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 20:42:39**
+As of **2024-12-02 21:01:21**
 
 ## Newspaper Stats
 
-*Scraped **58,100** Articles*
+*Scraped **58,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,490
 economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,492
-adaderanalk | 7,044
+adalk | 5,493
+adaderanalk | 7,045
 tamilmirrorlk | 8,258
 virakesarilk | 9,516
 adaderanasinhalalk | 10,037
@@ -26,63 +26,105 @@ adaderanasinhalalk | 10,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,090 (100.0%) of 58,100 articles have been extended.
+58,093 (100.0%) of 58,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### வெலன்சியா மரதன் ஓட்டப் போட்டியி;ல் கென்யாவின் சோவ், எதியோப்பியாவின் அலேமு சம்பியன்களாகினர்
+### President stresses need for stable and affordable rice supply in coming months
 
-*2024-12-02 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200272) · `ta`
+*2024-12-02 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103937/president-stresses-need-for-stable-and-affordable-rice-supply-in-coming-months) · `en`
 
-ஸ்பெயன் தேசத்தின் வெலன்சியா நகரில் ஞாயிற்றுக்கிழமை நடைபெற்ற 2024 வெலன்சியா மரதன் ஓட்டப் போட்டியில் ஆண்கள் பிரிவில் கென்யாவின் செபெஸ்டியன் சோவேயும் பெண்கள் பிரிவில் எதியோப்பியாவின் மெகேர்ட்டு அலேமுவும் வெற்றிபெற்று சம்பியன்களாகினர்.
+A discussion between President Anura Kumara Dissanayake and small and medium-scale rice mill owners took place today (02) at the Presidential Secretariat.
 
-தனது அறிமுக மரதன் ஓட்டப் போட்டியில் பங்குபற்றிய செபெஸ்டியன் சோவெ அப் போட்டியை 2 மணித்தியாலங்கள், 02 நிமிடங்கள், 05 செக்கன்களில் நிறைவுசெய்து வெற்றிபெற்றார்.
+During the discussion, the President emphasized the importance of ensuring a continuous and affordable supply of rice to consumers in the coming months. He engaged with the mill owners to identify immediate measures needed to achieve this goal.
 
-அவர் பதிவு செய்த இந்த நேரப் பெறுதியானது இந்த வருடத்திற்கான அதிசிறந்த நேரப் பெறுதியாகும். அத்துடன் சர்வதேச மரதன் ஓட்டப் போட்டி வரலாற்றில் பதிவான ஐந்தாவது அதிசிறந்த நேரப் பெறுதி இதுவாகும்.
+The meeting also focused on enhancing storage facilities across the country to prevent shortages and ensure a steady rice supply, the President’s Media Division (PMD) said.
 
-அப் போட்டியில் எதியோப்பிய வீரர் டெரேசா ஜெலெட்டா (2:02:38) இரண்டாம் இடத்தையும் கென்ய வீரர் டெனியல் மெட்டெய்க்கோ (2:04:24) மூன்றாம் இடத்தையும் பெற்றனர்.
+Additionally, concerns were raised about the declining availability of Nadu rice for consumption due to its increased use in value-added products.
 
-பெண்களுக்கான ஒட்டப் போட்டியில் 2 நிமிடங்கள் வித்தியாசத்தில் எதியோப்பிய வீராங்கனை மெகேர்ட்டு அலேமு வெற்றிபெற்று சம்பியனானார்.
-
-அவர் அப் போட்டியை 2 மணித்தியாலங்கள், 16 நிமிடங்கள், 49 செக்கன்களில் ஓடி முடித்து முதலிடத்தைப் பெற்றார்.
+President Dissanayake highlighted the potential benefits of introducing a QR code system to streamline the distribution of fertilizer subsidies and boost domestic agricultural production, the PMD added.
 
 ...
 
-[Data](articles/1c014f66.json)
+[Data](articles/532cb452.json)
 
 ---
 
-### புதிய அரசியலமைப்பு உருவாக்கம்: அடுத்தகட்டமாக முன்னெடுக்கவேண்டிய நடவடிக்கைகள் என்ன? கஜேந்திரகுமார் - சிறிதரனுக்கு இடையிலான சந்திப்பில் ஆராய்வு
+### Kenya's Chow, Ethiopia's Alemu Champions
+
+*2024-12-02 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200272) · `ta`
+
+Kenya's Sebastian Chou wins men's category at Valencia Marathon 2024. Ethiopia's Macared Alem takes women's title. Chou sets new personal best of 2:02:05. Alem wins by 2 minutes with time of 2:16:49.
+
+🟩
+
+In the men's category of the men's category and Ethiopia's Macared Alem in the women's category, Ethiopia's Macared Alem was a winning championship in the 2024 Valensia Marathon race held on Sunday in Walensia, Spain.
+
+He won the Sebstian Chow Up competition in his debut Marathon race in 2 hours, 02 minutes and 05 seconds.
+
+This time receiving he registered is the best time for this year. It is also the fifth high time recorded in the history of the International Marathon Rate.
+
+Ethiopian player Teresa Jelletta (2:02:38) won the second place and Kenyan player Deniel Metaiko (2:04:24) came third.
+
+Mcard Alemu won the Ethiopian player by 2 minutes in the women's ads.
+
+He finished the match in 2 hours, 16 minutes and 49 seconds.
+
+Uganda's Stella Sesang (2:18:26) finished second and Ethiopian Drye Mespin (2:18:35) came third.
+
+◼️
+
+[Data](articles/1c014f66.json)
+
+[Extended Data](ext_articles/1c014f66.ext.json)
+
+---
+
+### New Constitution: What are the steps to be taken next?Gajendrakumar - A review at the meeting between Sridharan
 
 *2024-12-02 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200271) · `ta`
 
-புதிய அரசியலமைப்பில் தமிழ் மக்களின் அபிலாஷைகளைப் பூர்த்திசெய்யக்கூடியவகையில் சமஷ்டி அடிப்படையிலான தீர்வு  உள்வாங்கப்படவேண்டியதன் அவசியம் குறித்தும், அதனை இலக்காகக்கொண்டு அடுத்தகட்டமாக முன்னெடுக்கவேண்டிய நடவடிக்கைகள் குறித்தும் பாராளுமன்ற உறுப்பினர்களான கஜேந்திரகுமார் பொன்னம்பலம் மற்றும் சிவஞானம் சிறிதரன் ஆகியோருக்கு இடையிலான சிநேகபூர்வ சந்திப்பின்போது கலந்துரையாடப்பட்டுள்ளது.
+Steps after new constitution: Federal solution implementation, dialogue between TNA leaders, public program approach.
 
-அண்மையில் நடைபெற்றுமுடிந்த பொதுத்தேர்தல் முடிவுகளை அடுத்து, இனிவருங்காலங்களிலேனும் தமிழ்த்தேசிய அரசியல் கட்சிகள் தமிழ் மக்களின் நலனை முன்னிறுத்தி ஒன்றுபட்டுப் பயணிக்கவேண்டும் என்ற விடயம் பல்வேறு தரப்பினராலும் வலியுறுத்தப்பட்டு வருகின்றது.
+🟩
 
-அதன்படி தமிழ் மக்கள் பேரவையினால் தயாரிக்கப்பட்ட தீர்வுத்திட்ட முன்மொழிவை அடிப்படையாகக்கொண்டு ஏனைய தமிழ்த்தேசிய கட்சிகளுடன் பேச்சுவார்த்தைகளை நடத்துவதற்குத் தாம் தயாராக இருப்பதாக அண்மையில் தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்திருந்தார்.
+During the meeting between MPs Gajendrakumar Ponnambalam and Sivagnanam Sridharan on the need to implement a federal -based solution in a way that can be fulfilled in the new constitution and the next step.
+
+In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
+
+According to Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
+
+Meanwhile, Sivagnanam Sridharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), and the parliamentarian of the Democratic Tamil National Alliance (TNA), Selvam Adakkalanathan, stated that he was ready to negotiate beyond the proposal.
 
 ...
 
 [Data](articles/a3475a0b.json)
 
+[Extended Data](ext_articles/a3475a0b.ext.json)
+
 ---
 
-### இலங்கை விவகாரத்தில் முன்னர் கொண்டிருந்த கடப்பாடுகளை இப்போது ஈடேற்றுவீர்களா? - பிரிட்டன் வெளிவிவகார செயலாளர் டேவிட் லெமியிடம் உமா குமரன் எம்.பி கேள்வி
+### Will you now fulfill the previous obligations in the Sri Lankan affair?- Uma Kumaran MP questioned to British Foreign Secretary David Lemi
 
 *2024-12-02 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200270) · `ta`
 
-இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்தல் மற்றும் கடந்தகால மீறல்கள் தொடர்பில் பொறுப்புக்கூறலை உறுதிப்படுத்தல் என்பன குறித்து முன்னர் கொண்டிருந்த கடப்பாடுகளைத் தற்போது நிறைவேற்றுவீர்களா என பிரிட்டனின் வெளிவிவகார செயலாளர் டேவிட் லெமியிடம் அந்நாட்டுப் பாராளுமன்ற உறுப்பினர் உமா குமரன் கேள்வி எழுப்பியுள்ளார்.
+Sri Lanka ICC obligations: Foreign Sec David Lemi responds to UK MP Uma Kumaran's questions about accountability for past human rights violations.
 
-பிரிட்டன் பாராளுமன்றத்தில் கடந்த வாரம் (27) நடைபெற்ற வெளிவிவகாரக்குழுக் கூட்டத்திலேயே இலங்கையைப் பூர்விகமாகக்கொண்ட பிரிட்டன் பாராளுமன்ற உறுப்பினர் உமா குமரன், வெளிவிவகார செயலாளர் டேவிட் லெமியிடம் மேற்கூறப்பட்ட விடயம் தொடர்பில் கேள்வி எழுப்பியிருக்கிறார்.
+🟩
 
-'இன்றை தினம் (27) உலகெங்கிலும் வாழும் தமிழர்களுக்கு முக்கியமான நாளாகும்' என்று சுட்டிக்காட்டிய உமா குமரன், 'கடந்த 2023 ஆம் ஆண்டு தமிழர்களுக்குத் தோள் கொடுக்குமாறும், மிகமோசமான மனித உரிமை மீறல்களுடன் தொடர்புடைய குற்றவாளிகளை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்துமாறு ஐக்கிய நாடுகள் மனித உரிமைகள் உயர்ஸ்தானிகரால் முன்வைக்கப்பட்ட பரிந்துரையை பரிசீலிக்குமாறும் நீங்கள் பிரிட்டன் அரசாங்கத்தை வலியுறுத்தியிருந்தீர்கள்.
+British Foreign Secretary David Lemi has questioned British Foreign Secretary David Lemi whether Sri Lanka will now fulfill its previous obligations on the issue of the International Criminal Court and to ensure accountability on past violations.
+
+British MP Uma Kumaran, a native of Sri Lanka at the Foreign Affairs Committee meeting held in the UK parliament last week (27), has questioned Foreign Secretary David Lemi about the above issue.
+
+Uma Kumaran pointed out that "today (27) is an important day for Tamils ​​around the world," you urged the British government to consider the recommendation of the United Nations Human Rights High Commission to give the Tamils ​​to the Tamils ​​in 2023 and to present the criminals involved in the most casual human rights violations.
 
 ...
 
 [Data](articles/b8353c32.json)
+
+[Extended Data](ext_articles/b8353c32.ext.json)
 
 ---
 
@@ -775,6 +817,20 @@ Any inquiries regarding the submission of applications can be made through hotli
 [Data](articles/4aa795d6.json)
 
 [Extended Data](ext_articles/4aa795d6.ext.json)
+
+---
+
+### මැති ඇමති හිටපු ජනපති වරප්‍රසාද ගැන සෙවූ කමිටු වාර්තාව ජනපතිට
+
+*2024-12-02 17:01:29* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමති-හිටපු-ජනපති-වරප්‍රසාද-ගැන-සෙවූ-කමිටු-වාර්තාව-ජනපතිට/11-413407) · `si`
+
+මන්ත්‍රීවරුන්, අමාත්‍යවරුන් හා හිටපු ජනාධිපතිවරුන්ට ලබාදෙන දීමනා හා වරප්‍රසාද පිළිබඳ නැවත සලකා බැලීමට පත්කළ කේ. ටී. චිත්‍රසිරි කමිටුවේ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත භාර දී තිබේ.
+
+අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය  සහ ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක එම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/d4bfdb1c.json)
 
 ---
 
@@ -2363,61 +2419,5 @@ The air quality levels dropped in Colombo and several other areas across the cou
 [Data](articles/7355b865.json)
 
 [Extended Data](ext_articles/7355b865.ext.json)
-
----
-
-### Fernando sworn in as Chief Justice
-
-*2024-12-02 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203952) · `si`
-
-Madu Fernando sworn in as 48th Chief Justice of Sri Lanka. She was previously Deputy Solicitor General and joined AG's Dept in 1985. Appointed to Supreme Court in 2018. Graduated from University of Colombo Law Faculty.
-
-🟩
-
-Supreme Court judges' Furregenda Fernando, President Anura Kumara Dissanayake, president was sworn in before President Anura Kumara Dissanayake today (02).
-
-Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Mrs. Murdu Fernando, 48th Chief Justice in Sri Lanka.
-
-Her name was recently approved by the Constitutional Council for the vacant post after his retirement.
-
-In 1985, she joined the Attorney General's Department in 1997 and promoted to the Deputy Solicitor General of the Deputy Solicitor General.
-
-Mrs. Madu Fernando has joined the Attorney General's Department for more than 30 years and has been appointed to the Supreme Court in March 2018.
-
-Mrs. Madu Fernando served as Senior Additional Solicitor General of the Attorney General's Department and is the present Chief Justice of the Supreme Court.
-
-The Mustra Fernando Judge, a pupil of Wales College, Moratuwa, has been graduated by the Faculty of Law, University of Colombo.
-
-...
-
-[Data](articles/2976643d.json)
-
-[Extended Data](ext_articles/2976643d.ext.json)
-
----
-
-### A Notification for Supreme Court in relation to the score of the scholarship examination
-
-*2024-12-02 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203951) · `si`
-
-Supreme Court hears scholarship exam case: Cabinet recommends free marks for 3 students, Solicitor General warns of exam impact, petition rescheduled for Dec 11.
-
-🟩
-
-The Attorney General has stated that the Cabinet has recommended free marks for the three students who were exhausted for the previous three students on the first question paper of the Year 5 scholarship examination.
-
-Solicitor General Viraj Dayaratne has informed the Supreme Court that students can be affected by the resurrection of the examination.
-
-The notice was made when the fundamental rights petitions have been taken up again today, challenging the scholarship examination.
-
-The Solicitor General also informed the Attorney General's intention was filed by the Attorney General to hear the Presidential Supreme Judiciaries to be heard in front of the heads of the petitions.
-
-The petition was then ordered to be held on December 11.
-
-◼️
-
-[Data](articles/59f024a0.json)
-
-[Extended Data](ext_articles/59f024a0.ext.json)
 
 ---

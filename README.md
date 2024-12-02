@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 08:45:51**
+As of **2024-12-02 09:07:21**
 
 ## Newspaper Stats
 
-*Scraped **57,956** Articles*
+*Scraped **57,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 442
 colombotelegraphcom | 591
 bbccomsinhala | 603
-islandlk | 3,483
+islandlk | 3,484
 economynextcom | 3,517
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,470
-adaderanalk | 7,017
-tamilmirrorlk | 8,233
+adalk | 5,471
+adaderanalk | 7,019
+tamilmirrorlk | 8,234
 virakesarilk | 9,488
 adaderanasinhalalk | 10,013
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 10,013
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,954 (100.0%) of 57,956 articles have been extended.
+57,957 (100.0%) of 57,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### வானிலையில் மீண்டும் ஏற்பட்ட மாற்றம்
+
+*2024-12-02 08:43:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலையில்-மீண்டும்-ஏற்பட்ட-மாற்றம்/175-348085) · `ta`
+
+வட மாகாணத்தில் இன்று (02) பல தடவைகள் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+காலி மற்றும் மாத்தறை மாவட்டங்களில் சிறிதளவு மழை பெய்யக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள புதிய வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+வடக்கு, வடமத்திய, வடமேல், மேற்கு, மத்திய மற்றும் தென் மாகாணங்களில் அவ்வப்போது மணித்தியாலத்திற்கு 40-45 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+
+புத்தளத்திலிருந்து காங்கேசன்துறை ஊடாக திருகோணமலை வரையான பிரதேசங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+புத்தளத்திலிருந்து கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் திருகோணமலை வரையான கடற்பரப்புகள் அவ்வப்போது ஓரளவு கொந்தளிப்பாக காணப்படும்.
+
+புத்தளத்திலிருந்து காலி ஊடாக ஹம்பாந்தோட்டை வரையான கடற்பரப்புகளில் கடல் அலையின் உயரம் சுமார் 2.5 – 3.0 மீற்றர் வரை அதிகரிக்கும் சாத்தியம் காணப்படுகின்றது.
+
+...
+
+[Data](articles/99059461.json)
+
+---
+
+### New Chief Justice to take oath today
+
+*2024-12-02 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103910/new-chief-justice-to-take-oath-today) · `en`
+
+Supreme Court judge Justice Murdu Fernando is set to take the oath as Sri Lanka’s new Chief Justice today (02) before President Anura Dissanayake.
+
+This appointment follows the retirement of Chief Justice Jayantha Jayasuriya.
+
+Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
+
+Fernando joined the Attorney General’s Department as a state counsel, where she served for over 30 years having been promoted to senior state counsel, deputy solicitor general, additional solicitor general and senior additional solicitor general.
+
+She was appointed a President’s Counsel while serving as an additional solicitor general.
+
+She was later appointed as a Justice of the Supreme Court by then President Maithripala Sirisena in March 2018.
+
+◼️
+
+[Data](articles/a42406c0.json)
+
+---
+
+### Several spells of showers expected in parts of the country
+
+*2024-12-02 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103909/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
+
+Several spells of showers will occur in Northern Province, the Department of Meteorology says.
+
+Strong winds of 40-45 kmph can be expected at times over Northern, North-central, North-western, Western, Central and Southern provinces.
+
+◼️
+
+[Data](articles/67f4407e.json)
+
+---
 
 ### Released on holding a little vote after the A / L examination
 
@@ -174,19 +232,29 @@ Omantha Police are conducting further investigations to arrest the other suspect
 
 ---
 
-### වැස්සෙන් පීඩාවට පත් ධීවරයින්ට කඩිනමින් සහන
+### Relief for fishermen affected by rain
 
 *2024-12-02 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203941) · `si`
 
-පැවති අධික වර්ෂාව හේතුවෙන් පීඩාවට පත් ධීවර ජනතාව වෙනුවෙන් කඩිනමින් සහන සැලසීමට පියවර ගන්නා බව ධීවර සහ ජලජ සම්පත් නියෝජ්‍ය අමාත්‍ය රත්න ගමගේ මහතා පවසයි.
+Here's a summary of 200 characters:
 
-අයහපත් කාලගුණයෙන් පොතුවිල් ප්‍රදේශයේ ධීවර ප්‍රජාවට සිදු වු බලපෑම සම්බන්ධයෙන් සොයා බැලීම සඳහා පැමිණි අවස්ථාවේ දී නියෝජ්‍ය අමාත්‍යවරයා මෙම අදහස් පළ කළේය.
 
-"පසුගිය දා ඇති වූ ආපදා තත්ත්වය මත මේ රටේ, සමස්ත ජනතාව මහා පීඩාවකට ලක්වුණා විශේෂයෙන් උතුරු හා නැගෙනහිර පළාත්වල. එම පළාත්වල ධීවරයින් දැඩි ලෙස මේ අර්බුදයට මුහුණපෑවා. ඒ අවස්ථාවේ අපි දැක්කා යාත්‍රා 16ක් මුළුමනින්ම විනාශ වෙලා. ධීවර පවුල් රැසකට තමන්ගේ ජීවන මාර්ගය අහිමිවෙලා. විශේෂයෙන්ම ජනාධිපතිතුමා දැනුම්වත් කරලා තිබුණා. ඒ මත ආපදා කළමනාකරණ අමාත්‍යාංශය මැදිහත් වෙලා මේකට කඩිනම් ක්‍රියාමාර්ග ගන්න සුදානමින් ඉන්නවා. ග්‍රාම නිලධාරීන්ට දැනුම් දුන්නා මේ මොහොතේ තමන්ගේ රැකියා අවස්ථා අහිමි වුණ පවුල් ගැන ප්‍රාදේශීය ලේකම් හා දිස්ත්‍රික් ලේකම්වරුන් වෙතින් ආපදා කළමනාකරණ මධ්‍යස්ථානයට යොමු කරන්න කියලා. ඒ වගේම හානියට පත්වු ධීවර යාත්‍රා ගැනවලට යම් අස්වැසිල්ලක් ලබාදෙන්න අපි සුදානම් වෙලා තියෙනවා."
+
+Fishermen hit hard by floods. Deputy Minister vows aid. 16 boats wrecked. Relief efforts underway. Damaged roads & bridges assessed. Traffic reopening planned.
+
+🟩
+
+Deputy Minister of Fisheries and Aquatic Resources Ratings Ratna Gamage said that steps will be taken to provide immediate relief to the fishermen affected by the heavy rains.
+
+The Deputy Minister expressed these comments when he visited the influence of the influence of the fishing community in Pottuvil area.
+
+"On the recent disaster situation, the entire masses in this country and the entire masses were severely disturbed in the North and East. Fishermen in those areas faced the crisis. At that time 16 vessels were completely destroyed. Many fishing families lose their way of life. Especially the President had informed. The Ministry of Disaster Management has intervened and prepares to take immediate action. Grama Niladharis to be sent to the Disaster Management Center regarding families who lost their jobs at the moment. We have also been prepared to provide some relief to the damaged fishing vessels. "
 
 ...
 
 [Data](articles/9f87fe41.json)
+
+[Extended Data](ext_articles/9f87fe41.ext.json)
 
 ---
 
@@ -1300,19 +1368,25 @@ A spokesman for the Board said that the preparation of the proposal is in the fi
 
 ---
 
-### උද්ධමනය තවත් පහළට
+### Inflation goes down
 
 *2024-12-01 18:49:01* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවත්-පහළට/11-413388) · `si`
 
-මෙරට උද්ධමනය තවදුරටත් පහළ බැස තිබේ. ඒ අනුව  කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය   2024  නොවැම්බර් මාසය සඳහා -2.1% ක් දක්වා අඩු වී ඇත.  එය 2024 ඔක්තෝබර් මාසය සඳහා -0.8% ක් ලෙස වාර්තා වී තිබේ.
+Sri Lanka's inflation drops: Colombo area sees -2.1% consumer inflation in Nov 2024, down from -0.8% in Oct. Food inflation decreases to 0.6% in Nov, compared to 1.0% in Oct. Overall food inflation falls from -13.3% to -3.3% in 2024.
 
-2024 නොවැම්බර් මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය) 0.6% දක්වා අඩු වී ඇති අතර 2024 ඔක්තෝබර් මාසයේ දී එය වාර්තා වුයේ1.0% ක් ලෙසය.
+🟩
 
-එමෙන්ම, 2024 නොවැම්බර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය) -3.3% ක් දක්වා අඩු වී ඇති අතර එය 2024 ඔක්තෝබර් මාසයේ දී -1.6%ක් ලෙස වාර්තා විය.
+Inflation in Sri Lanka has further fallen. Accordingly, the consumer inflation rate of the Colombo Municipal Community has reduced to-2.1% for November 2024.It was reported to -0.8% for October 2024.
+
+In November 2024, the annual inflation of food category (point) has been reduced to 0.6%, and in October 2024 as 1.0%.
+
+Also, 2024-food annual inflation has been reduced to-3.3% to-13.3% in October 2024.
 
 ◼️
 
 [Data](articles/19c420eb.json)
+
+[Extended Data](ext_articles/19c420eb.ext.json)
 
 ---
 
@@ -2008,6 +2082,22 @@ The patriarchal North and East nationalist politics is in a state of disrepair. 
 
 ---
 
+### දුම්රිය රියදුරන්ට 2007 සිට අමුතු විදිහට අතිකාල ගෙවූ හැටි විගණනයකින් හෙළිවෙයි
+
+*2024-12-01 15:56:30* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්ට-2007-සිට-අමුතු-විදිහට-අතිකාල-ගෙවූ-හැටි-විගණනයකින්-හෙළිවෙයි/11-413378) · `si`
+
+දුම්රිය රියදුරන්ට අතිකාල ගෙවිය යුත්තේ සතියට පැය 42 කට වඩා වැඩියෙන් සේවය කරන ලද පැය ගණන පදනම් කර ගෙන වුවත් 2007 වර්ෂයේ සිටම සතියට පැය 42 අඩු කිරීමකින් තොරව අතිකාල ගෙවා තිබෙන බව දුම්රිය දෙපාර්තමේන්තුව සම්බන්ධයෙන් වූ 2023 විගණන වාර්තාවේ සදහන් වේ.
+
+දුම්රිය සාමාන්‍යාධිකාරී විසින් 2007 ජනවාරි 13 දින නිකුත් කරන ලද අංක 4/20/64/2/68 දරණ චක්‍ර ලේඛණයේ හා ආයතන සංග්‍රහයේ Vlllවැනි පරිච්ඡේදයේ 5.6 වගන්තියේ දුම්රිය කාර්යය මණ්ඩලයට අතිකාල ගෙවීම සම්බන්ධයෙන් සදහන් වන බවත් ඊට පටහැනිව දුම්රිය රියදුරන්ට අතිකාල ගෙවා තිබෙන බවත් එම වාර්තාවේ වැඩි දුරටත් සදහන් වේ.
+
+ආයතන සංග්‍රහයේ විධිවිධාන සහ දුම්රිය සාමාන්‍යාධිකාරී චක්‍රලේඛණයට අනුව අතිකාල ගෙවීම් කරන ලෙසද විගණන වාර්තාව මගින් උපදෙස් ලබා දී ඇත.
+
+...
+
+[Data](articles/fea0b77d.json)
+
+---
+
 ### For conservation of the head part of the gate, the stomach Rs. 10 The coin is rescued from the tail
 
 *2024-12-01 15:40:52* · [`adalk`](https://www.ada.lk/picture_story/දීග-දන්තුගේ-හිස-කොටස-සංරක්ෂණයට--උදරයේ-රු--10-කාසියක්--වල්ගයේ-කෙදිත්-ගලවාගෙන-ගිහින්/10-413377) · `si`
@@ -2329,99 +2419,5 @@ In 2019, JJ Shah had joined the Cricket Board (BCCI) and became the youngest sec
 [Data](articles/c0ad58ff.json)
 
 [Extended Data](ext_articles/c0ad58ff.ext.json)
-
----
-
-### Double challenge
-
-*2024-12-01 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200151) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Family home invasion: Thousands of people stormed a single-family residence without warning. The event was unprecedented and caused widespread shock."
-
-🟩
-
-Thousands of people invaded the homes of the family as a family, without any hesitation.
-
-◼️
-
-[Data](articles/48ef7bfc.json)
-
-[Extended Data](ext_articles/48ef7bfc.ext.json)
-
----
-
-### Fishes in the Vavuniya pond
-
-*2024-12-01 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200147) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fisheries in Vavuniya pond face competition from water overflow due to heavy rains. Mosquitoes, fish nets, cloth, and veti compete with fishermen for catch. Species like Chilabia, Japan, Finger, and Gaulu are targeted, bringing joy to local anglers.
-
-🟩
-
-It is possible to observe that people are competing with the water in the Vavuniya pond.
-
-Due to heavy rains in Vavuniya, many ponds are flowing and the Vavuniya pond, the main pond near Vavuniya, is also flowing.
-
-As the ponds are largely accommodated with the water flowing water, it is possible to observe that people are competing with fish with mosquitoes, fish web, cloth and veti.
-
-A large number of fish such as Chilabia, Japan, Finger and Gaulu are caught and the holders are happy.
-
-◼️
-
-[Data](articles/276bc271.json)
-
-[Extended Data](ext_articles/276bc271.ext.json)
-
----
-
-### Uptick in AIDS cases reported in Sri Lanka – health officials
-
-*2024-12-01 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103903/uptick-in-aids-cases-reported-in-sri-lanka-health-officials-) · `en`
-
-World AIDS Day 2024 is observed today (Dec. 1) under the theme “Take the Rights Path: My Health, My Right!”
-
-The World Health Organization (WHO) is emphasizing that the world can end AIDS (Acquired Immuno Deficiency Syndrome) as a public health threat by 2030, provided that human rights are upheld and communities lead the way.
-
-In this year’s campaign, WHO is calling on global leaders and citizens to champion the right to health by addressing the inequalities that hinder progress in ending AIDS.
-
-Although the WHO European Region has made progress in tackling HIV, significant challenges remain in identifying and treating cases, as well as preventing new infections in the first place.
-
-Furthermore, in the local context, Sri Lanka is recognized as a country with a relatively low prevalence of AIDS, despite which recent reports from health officials indicate an alarming rise in AIDS cases within the country, compared to previous years.
-
-...
-
-[Data](articles/4ff5dcd1.json)
-
-[Extended Data](ext_articles/4ff5dcd1.ext.json)
-
----
-
-### Adani and danger
-
-*2024-12-01 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200150) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Adani deal controversy: Despite Sri Lanka's pro-Adani stance, President Anura Kumara Dissanayake must remain vigilant about the potential risks associated with the Adani Group's involvement in the country's development projects.
-
-🟩
-
-Although President Anura Kumara Dissanayake's visit to India, it is important to keep his hand on the issue, even if the government of Sri Lanka is favorable to the abolition of agreements with the Adani Group.
-
-◼️
-
-[Data](articles/1854b236.json)
-
-[Extended Data](ext_articles/1854b236.ext.json)
 
 ---

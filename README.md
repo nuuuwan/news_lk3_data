@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 00:02:38**
+As of **2024-12-03 01:42:03**
 
 ## Newspaper Stats
 
-*Scraped **58,114** Articles*
+*Scraped **58,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,51 @@ colombotelegraphcom | 592
 bbccomsinhala | 604
 islandlk | 3,490
 economynextcom | 3,528
-dailyftlk | 4,003
+dailyftlk | 4,009
 dailymirrorlk | 4,733
 adalk | 5,496
 adaderanalk | 7,047
 tamilmirrorlk | 8,259
-virakesarilk | 9,518
+virakesarilk | 9,519
 adaderanasinhalalk | 10,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,110 (100.0%) of 58,114 articles have been extended.
+58,121 (100.0%) of 58,121 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-03 (Tuesday)
+
+### In Jaffna
+
+*2024-12-03 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200275) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Jaffna: Two men arrested for refusing to feed flood victims. Ordered to explain actions. Protesters gather outside secretariat.
+
+🟩
+
+The Point Pedro Magistrate has ordered the two men who conflicted with the Grama Niladhari to explain the food.
+
+Two persons have been arrested on Sunday (01) for allegedly refusing to provide food to some families who were staying in the interim camps due to flood disaster in Vadamarachchi and Kalovalam areas.
+
+The police, who investigated the two men, ordered the two men to be interrogated on Monday (02) at the Point Pedro Magistrate's Court.
+
+At the same time, the families and relatives of the arrested were engaged in a protest in front of the Vadamarachchi North Divisional Secretariat on Monday (02).
+
+◼️
+
+[Data](articles/6ed6ef97.json)
+
+[Extended Data](ext_articles/6ed6ef97.ext.json)
+
+---
 
 ### 2024-12-02 (Monday)
 
@@ -55,6 +85,42 @@ The police have taken steps to appear in the Vavuniya court and other suspects h
 [Data](articles/209c9ab1.json)
 
 [Extended Data](ext_articles/209c9ab1.ext.json)
+
+---
+
+### What will it take for a (quick) win on anti-corruption?
+
+*2024-12-02 22:37:14* · [`dailyftlk`](https://www.ft.lk/columns/What-will-it-take-for-a-quick-win-on-anti-corruption/4-769992) · `en`
+
+If the executive fails to act, the appropriate oversight committee of Parliament must act
+
+The elements of a solution can be discerned: Use the trial-at-bar and direct appeal to Supreme Court procedure used in Mahanama. Work out a solution, in the form of an amendment to the relevant statute if necessary, to expedite the appeal.
+
+But this will still not put a big fish behind bars within 12 months. But it will get the job done within the term of a government, unlike in the case of Premaratne who served in the 6th Parliament which ended in 2010. The case dragged on through the 7th, 8th, and 9th Parliaments
+
+I was at a meeting where a highly respected and experienced colleague said the Government must conclude a successful prosecution of a “big fish” within the first year or lose all credibility. They rode to power on the corruption narrative and have to deliver, he said.
+
+If he is right, I thought, the Government is in trouble. Unlike my colleague, I had done timelines for the big-fish cases.
+
+...
+
+[Data](articles/4d09883f.json)
+
+[Extended Data](ext_articles/4d09883f.ext.json)
+
+---
+
+### Vote on Account and why
+
+*2024-12-02 22:32:12* · [`dailyftlk`](https://www.ft.lk/columns/Vote-on-Account-and-why/4-769991) · `en`
+
+This is the first time in the history of our legislature since the days of the first State Council of 1931 that a VOA will be proposed on the basis of a law passed by the Parliament. The recently enacted Public Financial Management Act No. 44 effective on 8 August 2024 has built in provisions for the submission of a VOA to the Parliament. Hence the examination of the background and procedure with respect to VOA is important and timely. A major legal deficiency that had been in existence for decades with respect to submission of VOA was circumvented by a law passed by the Parliament in 2024
+
+...
+
+[Data](articles/b980e2fe.json)
+
+[Extended Data](ext_articles/b980e2fe.ext.json)
 
 ---
 
@@ -98,6 +164,20 @@ The meeting was attended by Swiss embassy officials including Consultant Meinrad
 
 ---
 
+### AKD can be Sri Lanka’s Nelson Mandela – just stay the course
+
+*2024-12-02 21:57:33* · [`dailyftlk`](https://www.ft.lk/columns/AKD-can-be-Sri-Lanka-s-Nelson-Mandela-just-stay-the-course/4-769990) · `en`
+
+AKD has an eye for detail, an appreciation for clear systems, processes and procedures, a focus on timelines, a dislike for surprises and a desire for order. Discipline and order are not traits which are usually highlighted in discussions on leadership. Self-discipline, routine, structure and an attention to detail are highly beneficial to any leader. Self-disciplined leaders are well positioned in helping colleagues and teams understand their goals and showing them, what success looks like. The ability of a self-disciplined leader to sift through clutter and chaos, spot errors and to bring structure to processes provides a base for high performance
+
+...
+
+[Data](articles/3ef1d633.json)
+
+[Extended Data](ext_articles/3ef1d633.ext.json)
+
+---
+
 ### A special discussion on nominations
 
 *2024-12-02 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200273) · `ta`
@@ -123,6 +203,26 @@ The Parliament should make a firm decision on accepted nominations. The Election
 [Data](articles/7a7821bd.json)
 
 [Extended Data](ext_articles/7a7821bd.ext.json)
+
+---
+
+### Expectations are many; avenues are way too few
+
+*2024-12-02 21:44:17* · [`dailyftlk`](https://www.ft.lk/columns/Expectations-are-many-avenues-are-way-too-few/4-769989) · `en`
+
+The task entrusted, the confidence placed and the expectations of the voter is massive, mountainous and gigantic
+
+The Government has been given only 1,826 days (five years) to undo what was mis-done, correct what was wrong done and do what was not done during 27,759 days (76 years). The Government is entrusted with the mandate to deliver unmet mountainous expectations and aspirations of a nation. The Government cannot afford to waste a single day or look for excuses and explanations. The Government has to work at a mega speed with a clear destination and direction
+
+In 2022, people of all ranks and files from somewhere, anywhere, nowhere and everywhere gathered to demand and “send entire 225 Members of Parliament (MPs) out.” In 2024 the same people gathered to elect and “send 225 MPs in”.
+
+One columnist has put the change occurred on 14 November as “The much awaited miracle did happen”. This miracle was seen in:
+
+...
+
+[Data](articles/c312ce27.json)
+
+[Extended Data](ext_articles/c312ce27.ext.json)
 
 ---
 
@@ -153,6 +253,42 @@ Therefore, the revision of the electricity tariff is 35% and 40 to 40. Because t
 [Data](articles/6b128589.json)
 
 [Extended Data](ext_articles/6b128589.ext.json)
+
+---
+
+### nVentures welcomes visionary tech ecosystem leader as new limited partner
+
+*2024-12-02 21:27:43* · [`dailyftlk`](https://www.ft.lk/business/nVentures-welcomes-visionary-tech-ecosystem-leader-as-new-limited-partner/34-769982) · `en`
+
+nVentures has announced that e27 Co-founder and CEO, and Orvel Ventures Partner Mohan Belani, has joined its esteemed group of investors.
+
+This investment brings deep expertise in developing Southeast Asian tech ecosystems and supporting early-stage startups.
+
+With an impressive track record of supporting over 30 early-stage investments across Asia-Pacific and the United States, Belani brings a wealth of experience in helping founders navigate the complex landscape of Southeast Asian tech landscape. His work at e27, Asia’s leading tech and start-up ecosystem platform, has been instrumental in connecting hundreds of startups with critical resources, including fundraising opportunities, media exposure, and strategic business partnerships across Southeast Asia.
+
+...
+
+[Data](articles/3cc5bbab.json)
+
+[Extended Data](ext_articles/3cc5bbab.ext.json)
+
+---
+
+### 50 top-tier CEOs to be crowned at Global CEO Awards
+
+*2024-12-02 21:25:27* · [`dailyftlk`](https://www.ft.lk/business/50-top-tier-CEOs-to-be-crowned-at-Global-CEO-Awards/34-769981) · `en`
+
+The much-anticipated Global CEO Awards Night is set to take place on 5 December at the prestigious ITC Ratnadipa.
+
+This event celebrates the transformative leadership and innovative spirit of 50 distinguished CEOs who have propelled their organisations to success amidst challenging times.
+
+This inaugural awards night goes beyond recognising corporate accomplishments. It underscores the critical role of CEOs as drivers of economic stability, innovation, and sustainable growth. Their leadership fosters job creation, attracts investments, and strengthens the foundation of Sri Lanka’s economy. By honouring these visionaries, the event showcases how exceptional leadership can catalyse national progress and inspire others to push boundaries.
+
+...
+
+[Data](articles/f08884c6.json)
+
+[Extended Data](ext_articles/f08884c6.ext.json)
 
 ---
 
@@ -674,6 +810,8 @@ People have already started grumbling about higher rice prices under the new gov
 
 [Data](articles/cd9a1e17.json)
 
+[Extended Data](ext_articles/cd9a1e17.ext.json)
+
 ---
 
 ### New secretary to the Ministry of Women and Child Affairs
@@ -810,21 +948,33 @@ The President also focused on the introduction of the QR index system with the a
 
 ---
 
-### ගංවතුර වන්දි වෙනුවෙන් රු. බිලියනයක් වෙන්කළොත් අක්කරයකට ලැබෙන්නේ රු. 2600යි
+### Rs.. If a billion is separated, an acre receives Rs. 2600
 
 *2024-12-02 17:42:36* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-වන්දි-වෙනුවෙන්-රු--බිලියනයක්-වෙන්කළොත්-අක්කරයකට-ලැබෙන්නේ-රු--2600යි/11-413411) · `si`
 
-වත්මන් ආණ්ඩුව ගංවතුරෙන් හානි වූ ගොවිබිම් සඳහා රුපියල් බිලියනයක මුදල් වෙන්කරන බවට ප්‍රකාශ කළද, ඉන් අක්කරයකට ලැබෙනුයේ රුපියල් 2600ක් වැනි සුළු මුදල් ප්‍රමාණයක් බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා පැවසීය.
+Here's a summary in 200 characters:
 
-සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ අද (02දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා මෙලෙස අදහස් දක්වා සිටියේය.
 
-“පසුගිය දිනවල ඇති වුණ ගංවතුර තත්ත්වය හේතුවෙන් රටේ අක්කර තුන් ලක්ෂ අසූදහසකට ආසන්න ගොවිබිම් ප්‍රමාණයක් ජලයෙන් යටවෙලා තිබෙනවා. ගංවතුරෙන් හානියට පත් මෙම ඉඩම් සඳහා වන්දි ලබා දෙන්න රජය රුපියල් බිලියනයක් වෙන්කරලා තිබෙනවා. මේ අනුව එක අක්කරයකට රුපියල් 2600ක් වගේ සොච්චම් මුදලක් තමයි වෙන්කරලා තිබෙන්නේ.
+Government allocates Rs. 2600 per acre from Rs. 1 billion for flood-hit farms. Critics argue this is insufficient compensation, citing previous damages exceeding Rs. 40,000 per acre.
+
+🟩
+
+Although the present government is declared a billion rupees for farmland, a acre of Rs.
+
+He was speaking at a media briefing held at the Head Office today (02nd).
+
+Speaking further Mr. Nalin Bandara said:
+
+"Nearly 8,000 acres of farms in the country have been flooded due to floods in the recent floods. The government has allocated Rs. 1 billion for compensation for these lands. Accordingly, a meager money has been allocated as Rs. 2600 per acre.
+
+So is a billion rupees enough?I don't know what the billions of Rs. The boasting has allocated 2600 rupees for an acre of Rs. 2600 for an agreement that the government has allocated Rs.. This is not enough. Those people said that Rs. 40,000. We saw that 40,000 was inadequate. Aboriginal Leader Vanni has stated that no one else.
 
 ...
 
 [Data](articles/10352515.json)
+
+[Extended Data](ext_articles/10352515.ext.json)
 
 ---
 
@@ -1267,6 +1417,8 @@ A bond maturing on 15.09.2029 closed at 10.85/90 percent, up from 10.70/85 perce
 ◼️
 
 [Data](articles/7467d1eb.json)
+
+[Extended Data](ext_articles/7467d1eb.ext.json)
 
 ---
 
@@ -1948,6 +2100,8 @@ Despite the long coastline, and domestic manufacturers of leisure boats, there w
 
 [Data](articles/a77807fa.json)
 
+[Extended Data](ext_articles/a77807fa.ext.json)
+
 ---
 
 ### Sri Lanka eyes mini marinas in 21 fishery harbours to push blue economy
@@ -2319,169 +2473,5 @@ Shahjan Shanmuganatan reside in Colombo, Colombo on April 25, 2006. St. Benedict
 [Data](articles/3aafb0f5.json)
 
 [Extended Data](ext_articles/3aafb0f5.ext.json)
-
----
-
-### Two monks and hotel owner arrested for stealing ancient Buddha statue
-
-*2024-12-02 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103923/two-monks-and-hotel-owner-arrested-for-stealing-ancient-buddha-statue) · `en`
-
-Police have arrested two Buddhist monks and a hotel owner in connection with the theft of an ancient metal Buddha statue with a dragon canopy, valued at over Rs. 20 million.
-
-The statue was stolen from the Karahampitigoda Khettarama Purana Viharaya, a temple affiliated with the historic Devanagala Rajamaha Viharaya in Mawanella, the police said.
-
-The Chief Incumbent of the Devanagala Rajamaha Viharaya, Ven. Medirigiriye Punnasara Thero, had filed a complaint with the Mawanella Police, reporting the theft. Acting on the complaint, Senior DIG of Sabaragamuwa Province Sanjeewa Dharmaratne tasked the Kegalle Divisional Crime Investigation Bureau with leading the investigation.
-
-The investigation had revealed that the theft was orchestrated by a 28-year-old monk from a temple in Kimbulwilawatta, Dompe. He was assisted by a monk from Mahaiyawa, Kandy, and the owner of a tourist hotel in Gannoruwa, Peradeniya, according to police.
-
-...
-
-[Data](articles/5159ad6d.json)
-
-[Extended Data](ext_articles/5159ad6d.ext.json)
-
----
-
-### Handwriting
-
-*2024-12-02 12:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-இல்லம்-கையளிப்பு/175-348110) · `ta`
-
-R. Sampanthan's official residence handed to Ministry of Justice. Located in Colombo 7, given in 2015. Maintenance previously done by state. Handed over on December 12, 2022.
-
-🟩
-
-Former Opposition Leader R. Sampanthan's official residence has been handed over to the Ministry of Justice, State Administration, Home Affairs, Provincial Council, Local Government and Labor.
-
-The official residence in Malalasekara Mawatha, Colombo 7 was given in 2015.
-
-Subsequently, during the government of goodwill, on February 26, 2019, the Cabinet paper presented by former Minister Gayantha Karunathilaka to be used as long as it was.
-
-The official residence of the Leader of the Opposition is located on one and a half acres of land. All its maintenance work has been carried out by the state in the past.
-
-Sampanthan's daughter had informed the Ministry that the official residence would be handed over to the government on December 12, but it was not handed over that day.
-
-◼️
-
-[Data](articles/7a96b686.json)
-
-[Extended Data](ext_articles/7a96b686.ext.json)
-
----
-
-### Lohan Ratwatta couple
-
-*2024-12-02 12:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-தம்பதிக்கு-விளக்கமறியல்-நீடிப்பு/175-348108) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Minister Lohan Ratwatta & wife Shashi Prabha remanded till Dec 6 for unregistered luxury vehicle case.
-
-🟩
-
-Former Minister of State Lohan Ratwatta and his wife Shashi Prabha Ratwatta have been remanded until December 6 in the case of an unregistered luxury vehicle.
-
-◼️
-
-[Data](articles/8c0e5c6f.json)
-
-[Extended Data](ext_articles/8c0e5c6f.ext.json)
-
----
-
-### Ratwatte couple remanded again
-
-*2024-12-02 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203956) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Lohan Ratwatte, former minister, and his wife remanded until Dec 6. Arrested over illegally assembled luxury car.
-
-🟩
-
-Former Minister Lohan Ratwatte and his wife further remanded until December 6.
-
-They were arrested in connection with a luxury car that is considered illegally assembled.
-
-◼️
-
-[Data](articles/a559ed47.json)
-
-[Extended Data](ext_articles/a559ed47.ext.json)
-
----
-
-### 174 bus route bloom from the aging
-
-*2024-12-02 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203955) · `si`
-
-174 bus route blocked due to protest near Isurupaya. Protesters, including school development officials, demand attachment to schools and confirmation of work.
-
-🟩
-
-The Bus Galle - Kottawa 174 is completely blocked due to the protest in front of Isurupaya.
-
-Our correspondent said that the protest was organized by development officials who teach schools.
-
-They are demanding that they attach themselves to the school and confirm the work.
-
-◼️
-
-[Data](articles/34986097.json)
-
-[Extended Data](ext_articles/34986097.ext.json)
-
----
-
-### Road blocked due to protest opposite Education Ministry
-
-*2024-12-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103922/road-blocked-due-to-protest-opposite-education-ministry-) · `en`
-
-The Kottawa - Borella Road (174 bus route) has been completely blocked for traffic in front of the Ministry of Education due to a protest by Development Officers, Ada Derana reporter said.
-
-The Development Officers are engaged in the demonstration demanding that they be made permanent in the teaching service.
-
-◼️
-
-[Data](articles/6cf4ba84.json)
-
-[Extended Data](ext_articles/6cf4ba84.ext.json)
-
----
-
-### The statue of two crores
-
-*2024-12-02 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203954) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ancient metallic Buddha statue worth Rs. 2 crore stolen from Karambithigoda temple. Suspects arrested, including a monk from Dompe Viharaya. Two cars seized, case filed in Mawanella Magistrate's Court. Investigation led by Senior DIG Sabaragamuwa Province.
-
-🟩
-
-A total of the ancient metallic Buddha statue of over Rs.
-
-The suspects had been stolen from the metal Buddha statue placed in Karambithigoda, Karambithigoda, Karahampritigigama Ancient Viharaya.
-
-Palagala Rajamaha Viharaya has lodged a complaint with the Mawampiriya Police that a group of over Rs.
-
-Accordingly, Senior DIG Sabaragamuwa Province Senior DIG Sanjeewa Dharmaratne was assigned to the Memorial Investigation Kegalle Divisional Secretariat.
-
-Subsequent investigation, a 28-year-old monk in the temple in Kimbulwilawatta, Kandy, has been arrested by a 28-year-old monk in Kimbulwilawatta, Kandy.
-
-The robbery had been revealed according to the monk of the Dompe Viharaya.
-
-Police have also seized two cars used for theft and the suspects are to be produced before the Mawanella Magistrate's Court.
-
-◼️
-
-[Data](articles/28e3dda5.json)
-
-[Extended Data](ext_articles/28e3dda5.ext.json)
 
 ---

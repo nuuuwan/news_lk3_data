@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 11:43:24**
+As of **2024-12-02 12:02:26**
 
 ## Newspaper Stats
 
-*Scraped **57,994** Articles*
+*Scraped **57,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,520
 dailyftlk | 4,003
 dailymirrorlk | 4,733
 adalk | 5,475
-adaderanalk | 7,022
-tamilmirrorlk | 8,239
+adaderanalk | 7,024
+tamilmirrorlk | 8,241
 virakesarilk | 9,493
 adaderanasinhalalk | 10,019
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,982 (100.0%) of 57,994 articles have been extended.
+57,983 (100.0%) of 57,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### பிரதேச செயலகத்தை முற்றுகையிட்டனர்
+
+*2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தை-முற்றுகையிட்டனர்/76-348105) · `ta`
+
+நுவரெலியா பிரதேச செயலகத்தில் வழங்கப்படும் இரண்டாம் கட்ட புதிய அஸ்வெசும நலன்புரி நன்மைகள் விண்ணப்ப படிவங்கள் பெற்றுக்கொள்வதற்காக ஏராளமான பொதுமக்கள் நீண்ட வரிசையில் காத்திருந்துள்ளனர்.
+
+சனி மற்றும் ஞாயிறு தினங்கள் விடுமுறை என்பதால் திங்கட்கிழமை (02) நுவரெலியா பிரதேச செயலகத்திற்கு முன்னால் அஸ்வெசும நலன்புரி நன்மைகள் விண்ணப்ப படிவங்களை பெற்றுக்கொள்வதற்காக பிரதேச மக்கள் இவ்வாறு ஒரே நேரத்தில் கூடியுள்ளனர்.
+
+எனினும் குறித்த அலுவலகத்தில் விண்ணப்ப படிவங்கள் விநியோகிக்கும் நடவடிக்கை உரிய முறையில் மேற்கொள்ளவில்லை எனவும் வரிசையினை நெறிப்படுத்துவதற்கான செயற்பாடுகளில் திணைக்கள உத்தியோகஸ்த்தர்கள் யாரும் செயற்படவில்லை எனவும், குறித்த நலன்புரி நன்மைகளை பெற்றுக்கொள்வதற்கு சரியான நடைமுறை பின்பற்றபடவில்லை என பொதுமக்கள் குற்றம் சாட்டுகின்றனர்.
+
+...
+
+[Data](articles/27a8703e.json)
+
+---
 
 ### ශිෂ්‍යත්ව විභාගයේ ලකුණු ලබාදීම සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
 
@@ -52,23 +68,71 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### அமைச்சர்களுக்கு இனி பங்களாக்கள் வழங்கப்படாது
+### ’தீகதந்து 1’  மரணம்: முகாமையாளர் கைது
+
+*2024-12-02 11:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகதந்து-1-மரணம்-முகாமையாளர்-கைது/175-348100) · `ta`
+
+பிரபல காப்புறுதி நிறுவனமொன்றின் கெக்கிராவ கிளையின் முகாமையாளர் அண்மையில் இலங்கையின் புகழ்பெற்ற 'தீகதந்து 1' யானையின் மரணம் தொடர்பில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+கடந்த வாரம், கலா வெவ மற்றும் கஹல்ல-பல்லகெல்ல காப்புக்காடுகளுக்கு அடிக்கடி வரும் யானை, சட்டவிரோத மின் வேலியிலிருந்து மின்சாரம் தாக்கியதால் உயிரிழந்தது.
+
+கல்கிரியாகம வனஜீவராசி அலுவலக அதிகாரிகளால் சந்தேகத்தின் பேரில் கல்கிரியாகம பிரதேசத்தைச் சேர்ந்த ஒருவர் கைது செய்யப்பட்டு நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட்டார்.
+
+சம்பவம் தொடர்பில் சந்தேக நபரை எதிர்வரும் டிசம்பர் மாதம் 12 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கெக்கிராவ பதில் நீதவான் உத்தரவிட்டுள்ளார்.
+
+வேலிக்கு பயன்படுத்தப்பட்ட அங்கீகரிக்கப்படாத மின் வயரிங், கார் பேட்டரி மற்றும் மின்சுற்று ஆகியவற்றை மீட்க முடிந்ததாக வனவிலங்கு அதிகாரி நீதிமன்றத்தில் தெரிவித்தார்.
+
+சம்பவம் தொடர்பில் விரிவான விசாரணைகள் நடத்தப்பட வேண்டும் என தெரிவித்த வனவிலங்கு அதிகாரிகள் சந்தேக நபரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றில் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/77b908fe.json)
+
+---
+
+### Ministers will no longer be provided with bungalows
 
 *2024-12-02 11:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களுக்கு-இனி-பங்களாக்கள்-வழங்கப்படாது/175-348099) · `ta`
 
-தேர்தல் விஞ்ஞாபனத்திற்கு அமைய பாராளுமன்ற உறுப்பினர்களுக்கான சலுகைகளை குறைக்கும் நடவடிக்கையில், அமைச்சர்களுக்கு அரச பங்களாக்களை ஒதுக்காது இருக்க அரசாங்கம் தீர்மானித்துள்ளதாக அமைச்சர் ஒருவர் நேற்று தெரிவித்தார்.
+S:0
 
-மேலும், எம்.பி.க்களுக்கு ஐந்தாண்டுகளுக்கு ஒருமுறை வழங்கப்படும் வரியில்லா வாகன அனுமதிகளும் ரத்து செய்யப்படும்.
+🟩
 
-கடந்த அரசாங்கங்களில் பதவி வகித்த அமைச்சர்களுக்கு ஒதுக்கப்பட்ட அரச பங்களாக்களை என்ன செய்வது என்பதை அரசாங்கம் தீர்மானிக்கும் என பாராளுமன்ற விவகாரங்களுக்குப் பொறுப்பான பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால நேற்று டெய்லி மிரருக்கு தெரிவித்தார்.
+A minister said yesterday that the government has decided to not allocate state bungalows to ministers in the process of reducing the concessions for MPs in accordance with the election manifesto.
 
-"தற்போதைய அரசாங்கத்தின் எந்த அமைச்சருக்கும் இந்த வீடுகளை நாங்கள் ஒதுக்க மாட்டோம்," என்று அவர் கூறினார்.
+In addition, MPs will also cancel tax -free vehicle permits once in five years.
 
-வரியின்றி வாகனங்களை இறக்குமதி செய்வதற்கான அனுமதிப் பத்திரங்களுக்குப் பதிலாக, பிரிவைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களுக்கு விலை குறைந்த வாகனங்கள் அரசாங்கத்தினால் வழங்கப்படும் என அமைச்சர் தெரிவித்தார்.
+Ananda Wijebala, Minister of Public Security, Ananda Wijepala, who was responsible for parliamentary affairs, told the Daily Mirror yesterday that the government would decide what to do with the allocated state bungalows to ministers in the past governments.
+
+“We will not allocate these houses to any minister of the current government,” he said.
+
+The Minister said that the government will provide cheap vehicles to the MPs of the Division instead of permits for importing vehicles without taxes.
+
+“We will not give MPs a tax free vehicle permit. They will be provided with low cost, fuel economical vehicles, "he said.
 
 ...
 
 [Data](articles/8c6fc066.json)
+
+[Extended Data](ext_articles/8c6fc066.ext.json)
+
+---
+
+### Central Bank of Sri Lanka explains impact of deflation
+
+*2024-12-02 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103915/central-bank-of-sri-lanka-explains-impact-of-deflation) · `en`
+
+The Assistant Governor of the Central Bank of Sri Lanka (CBSL), Dr. Chandranath Amarasekara says that they do not expect the deflation to continue for a long time to have an impact on country’s production.
+
+He made these remarks during the recent monetary policy review briefing of 2024.
+
+Commenting further, Dr. Amarasekara expressed: “We do not expect deflation to continue for such a long time to have an impact on production. So, I think by the second quarter of the next year, we will see the end of deflation.”
+
+Meanwhile, in response to a question raised by a journalist whether the corporate profitability be impacted if the deflation drags for another year, the Governor of the Central Bank of Sri Lanka Dr. Nandalal Weerasinghe said “the cost of production comes down means the profitability can increase.”
+
+...
+
+[Data](articles/6abb8788.json)
 
 ---
 
@@ -133,6 +197,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/08347915.json)
+
+---
+
+### Govt. to provide immediate relief to fishermen affected by adverse weather
+
+*2024-12-02 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103914/govt-to-provide-immediate-relief-to-fishermen-affected-by-adverse-weather) · `en`
+
+Deputy Minister of Fisheries Rathna Gamage says that measures will be taken to provide immediate relief to fishermen severely affected by the recent adverse weather conditions.
+
+During an observation visit to Pottuvil to assess the impact on the fishing community, the Deputy Minister highlighted that the recent disaster has caused significant hardships to communities across the country, particularly in the northern and eastern provinces.
+
+“Fishermen in these regions were hit the hardest, with 16 fishing vessels destroyed and numerous families losing their livelihoods,” Gamage stated.
+
+He added that President Anura Kumara Dissanayake has directed the Ministry of Disaster Management to expedite assistance for affected communities.
+
+The Deputy Minister also indicated that divisional and district secretaries have been instructed to refer affected families to the Disaster Management Center for assistance, and that measures will be taken to provide some relief for the damaged fishing vessels.
+
+...
+
+[Data](articles/4afe22e2.json)
 
 ---
 
@@ -2277,105 +2361,5 @@ In view of the past five years, approximately four hundred elephants have died a
 [Data](articles/2fa1059f.json)
 
 [Extended Data](ext_articles/2fa1059f.ext.json)
-
----
-
-### A man arrested with ice drugs in Kalkisa
-
-*2024-12-01 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200140) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Man arrested with ice drugs in Kalkisa. Suspect from Ratmalana area, Mount Lavinia Police Division. Arrested on Saturday based on police information.
-
-🟩
-
-A suspect in Ratmalana area belonging to the Mount Lavinia Police Division has been arrested by police on Saturday (30).
-
-He was arrested on the basis of information received by a group of police officers from the Mount Lavinia Police Station.
-
-◼️
-
-[Data](articles/22b9343e.json)
-
-[Extended Data](ext_articles/22b9343e.ext.json)
-
----
-
-### Three arrested for digging treasure in Welimada
-
-*2024-12-01 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200137) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 arrested for treasure hunting in Welimada. Raid conducted by Bandarawela CID. Suspects aged 26, 32, 56 from Welimada & Mahiyanganaya."
-
-🟩
-
-Three persons have been arrested on Saturday (30) for those who were digging treasure in Elladoda, which belongs to the Welimada Police Division.
-
-They have been arrested following a raid carried out on the basis of information received by a group of officials of the Bandarawela Criminal Investigation Division.
-
-The suspects are from Welimada and Mahiyanganaya, aged 26, 32 and 56.
-
-◼️
-
-[Data](articles/383c28fc.json)
-
-[Extended Data](ext_articles/383c28fc.ext.json)
-
----
-
-### Yall. Accident in Sudumalai: Birth - Death Registrar Death
-
-*2024-12-01 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200171) · `ta`
-
-Accident in Sudumalai: Registrar Dies. 64-year-old birth-death registrar killed in motorcycle-car collision. Incident occurred on Tawadi Road at 7:30 PM. Sudden death investigator present.
-
-🟩
-
-Born and death registrar dies in a vehicle accident in Sudumalai in Jaffna.
-
-The 64 -year -old man from Manipay Road, Thavadi East and Kokuvil area has died.
-
-The incident took place at around 7.30 pm on Saturday (30) at Sudumalai area located on Tawadi Road.
-
-The man was riding a motorcycle from Manipayi when he was hit by a car collision.
-
-Subsequently, the patient went to the spot after 30 minutes, though the patient was notified.
-
-A sudden death investigator, A. Jayabalasingham, carried out the deaths of the body.
-
-◼️
-
-[Data](articles/d99c4d5f.json)
-
-[Extended Data](ext_articles/d99c4d5f.ext.json)
-
----
-
-### Cyclone Fengal leaves parts of Southern India inundated, claims 2 lives
-
-*2024-12-01 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103906/cyclone-fengal-leaves-parts-of-southern-india-inundated-claims-2-lives-) · `en`
-
-Cyclone Fengal which triggered heavy rains across Sri Lanka, has killed at least 2 people in India and caused flooding in Tamil Nadu state and the Puducherry region after crossing India’s southern coast from the Bay of Bengal on Saturday.
-
-Puducherry had been hit by the heaviest 24-hour rainfall in 30 years, India’s weather office said on Sunday.
-
-The cyclone has left parts of the southern city of Chennai inundated. Flights from the city were temporarily suspended on Saturday, but had resumed as of early Sunday morning, the Indian media reported.
-
-Visuals on local media showed gusty winds and heavy rainfall with roads submerged and boats being used to rescue people. The Indian army was running relief operations in Puducherry for people in the eye of the storm, while rainfall eased in Chennai.
-
-The rain has left areas in central Chennai, including Korattur, Koyambedu, Virugambakkam, Nungambakkam, T. Nagar and Alwarpet, inundated.
-
-...
-
-[Data](articles/8dff49f8.json)
-
-[Extended Data](ext_articles/8dff49f8.ext.json)
 
 ---

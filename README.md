@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 12:42:36**
+As of **2024-12-02 13:01:32**
 
 ## Newspaper Stats
 
-*Scraped **58,006** Articles*
+*Scraped **58,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
 adalk | 5,477
-adaderanalk | 7,026
-tamilmirrorlk | 8,244
+adaderanalk | 7,030
+tamilmirrorlk | 8,247
 virakesarilk | 9,493
 adaderanasinhalalk | 10,019
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,991 (100.0%) of 58,006 articles have been extended.
+57,995 (100.0%) of 58,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### சம்பந்தனின் இல்லம் கையளிப்பு
+
+*2024-12-02 12:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-இல்லம்-கையளிப்பு/175-348110) · `ta`
+
+முன்னாள் எதிர்க்கட்சித் தலைவர் ஆர். சம்பந்தனின் உத்தியோகபூர்வ இல்லம், அவர் இறந்து ஐந்து மாதங்களின் பின்னர் நீதித்துறை, அரச நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபை, உள்ளூராட்சி மற்றும் தொழிலாளர் அமைச்சிடம் ஒப்படைக்கப்பட்டுள்ளது.
+
+கொழும்பு 7, மலலசேகர மாவத்தையில் உள்ள இந்த உத்தியோகபூர்வ இல்லம் சம்பந்தனுக்கு 2015 ஆம் ஆண்டு வழங்கப்பட்டது.
+
+பின்னர், நல்லாட்சி அரசாங்கத்தின் போது 2019 பெப்ரவரி 26 ஆம் திகதி முன்னாள் அமைச்சர்  கயந்த கருணாதிலகவினால் முன்வைக்கப்பட்ட அமைச்சரவைப் பத்திரத்தின் பிரகாரம், சம்பந்தனுக்கு  இருக்கும் வரையில் பயன்படுத்திக்கொள்ளும் வகையில் வழங்கப்பட்டது.
+
+எதிர்க்கட்சித் தலைவரின் உத்தியோகபூர்வ இல்லம் சுமார் ஒன்றரை ஏக்கர் நிலப்பரப்பில் அமைந்துள்ளது. அதன் பராமரிப்பு பணிகள் அனைத்தும் கடந்த காலத்தில் அரசால் மேற்கொள்ளப்பட்டது.
+
+குறித்த உத்தியோகபூர்வ இல்லம் டிசெம்பர் 12ஆம் திகதி அரசாங்கத்திடம் கையளிக்கப்படும் என சம்பந்தனின் மகள் எழுத்து மூலம் அமைச்சுக்கு அறிவித்திருந்த போதிலும் அன்றைய தினம் அது கையளிக்கப்படவில்லை.
+
+◼️
+
+[Data](articles/7a96b686.json)
+
+---
+
+### லொஹான் ரத்வத்த தம்பதிக்கு விளக்கமறியல் நீடிப்பு
+
+*2024-12-02 12:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-தம்பதிக்கு-விளக்கமறியல்-நீடிப்பு/175-348108) · `ta`
+
+பதிவு செய்யப்படாத சொகுசு வாகனம் தொடர்பான வழக்கில் முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த மற்றும் அவரது மனைவி சஷி பிரபா ரத்வத்த ஆகியோர் டிசம்பர் 6 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/8c0e5c6f.json)
+
+---
 
 ### Death Clock Clock
 
@@ -55,6 +87,40 @@ The "Death Clock" processor run by artificial intelligence is said to have been 
 [Data](articles/c3268bc7.json)
 
 [Extended Data](ext_articles/c3268bc7.ext.json)
+
+---
+
+### Lohan Ratwatte and wife further remanded
+
+*2024-12-02 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103921/lohan-ratwatte-and-wife-further-remanded) · `en`
+
+Former Minister Lohan Ratwatte and his wife have been further remanded until December 6, by the Nugegoda Magistrate’s Court today (02).
+
+Former Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte, who were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, had previously been remanded in custody until today (December 02) by the Nugegoda Magistrate’s Court.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/7f01148c.json)
+
+---
+
+### Murdu Fernando sworn in as new Chief Justice
+
+*2024-12-02 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103920/murdu-fernando-sworn-in-as-new-chief-justice) · `en`
+
+Supreme Court Judge, Justice Murdu Fernando took oath as Sri Lanka’s new Chief Justice this morning (02) before President Anura Dissanayake.
+
+Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
+
+She assumes office as the 48th Chief Justice of Sri Lanka, succeeding Chief Justice Jayantha Jayasuriya, who recently retired. Her appointment received approval from the Constitutional Council.
+
+She began her career at the Attorney General’s Department in 1985, rising through its ranks to become Deputy Solicitor General in 1997 and Additional Solicitor General in 2014. With over three decades of service as a State Counsel, she was appointed to the Supreme Court in March 2018.
+
+...
+
+[Data](articles/7d847fa8.json)
 
 ---
 
@@ -104,6 +170,24 @@ In addition, the Attorney General has requested that the petition filed in this 
 
 ---
 
+### Court informed of govt’s stance on Grade 5 Scholarship Exam issue
+
+*2024-12-02 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103919/court-informed-of-govts-stance-on-grade-5-scholarship-exam-issue) · `en`
+
+The Attorney General (AG) has informed the Supreme Court this morning (02) that the Cabinet of Ministers has recommended to award free marks to all students for the 03 questions which were alleged to have been leaked in the 2024 Grade 5 Scholarship Examination.
+
+Appearing on behalf of the AG, Solicitor General Viraj Dayaratne further stated that the Cabinet of Ministers’ stance was that it is not necessary to re-conduct the examination for this question paper, considering the potential stress it could cause to the students.
+
+Furthermore, the Solicitor General informed that the Attorney General has filed a motion seeking the petition to be taken up for hearing before a full bench of Supreme Court judges.
+
+Later, the petition was ordered to be taken up for hearing on December 11, Ada Derana reporter said.
+
+...
+
+[Data](articles/c8b52e1f.json)
+
+---
+
 ### Were besieged by the Divisional Secretariat
 
 *2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தை-முற்றுகையிட்டனர்/76-348105) · `ta`
@@ -149,6 +233,40 @@ Heavy rains in the Nuwara Eliya district have caused heavy rainfall over the pas
 [Data](articles/37b346f5.json)
 
 [Extended Data](ext_articles/37b346f5.ext.json)
+
+---
+
+### பிரதேச செயலகத்தில் மக்கள் குவிந்தனர்
+
+*2024-12-02 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரதேச-செயலகத்தில்-மக்கள்-குவிந்தனர்/76-348105) · `ta`
+
+நுவரெலியா பிரதேச செயலகத்தில் வழங்கப்படும் இரண்டாம் கட்ட புதிய அஸ்வெசும நலன்புரி நன்மைகள் விண்ணப்ப படிவங்கள் பெற்றுக்கொள்வதற்காக ஏராளமான பொதுமக்கள் நீண்ட வரிசையில் காத்திருந்துள்ளனர்.
+
+சனி மற்றும் ஞாயிறு தினங்கள் விடுமுறை என்பதால் திங்கட்கிழமை (02) நுவரெலியா பிரதேச செயலகத்திற்கு முன்னால் அஸ்வெசும நலன்புரி நன்மைகள் விண்ணப்ப படிவங்களை பெற்றுக்கொள்வதற்காக பிரதேச மக்கள் இவ்வாறு ஒரே நேரத்தில் கூடியுள்ளனர்.
+
+எனினும் குறித்த அலுவலகத்தில் விண்ணப்ப படிவங்கள் விநியோகிக்கும் நடவடிக்கை உரிய முறையில் மேற்கொள்ளவில்லை எனவும் வரிசையினை நெறிப்படுத்துவதற்கான செயற்பாடுகளில் திணைக்கள உத்தியோகஸ்த்தர்கள் யாரும் செயற்படவில்லை எனவும், குறித்த நலன்புரி நன்மைகளை பெற்றுக்கொள்வதற்கு சரியான நடைமுறை பின்பற்றபடவில்லை என பொதுமக்கள் குற்றம் சாட்டுகின்றனர்.
+
+...
+
+[Data](articles/bebaf7e7.json)
+
+---
+
+### Sri Lanka’s air quality gradually improves - CEA
+
+*2024-12-02 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103918/sri-lankas-air-quality-gradually-improves-cea) · `en`
+
+The Central Environmental Authority (CEA) says that the Sri Lanka Air Quality Index (SLAQI) is gradually reaching towards moderate levels across several regions in the country.
+
+Speaking at a media briefing, CEA media spokesperson Dr. Ajith Gunawardena stated that the SLAQI readings in many areas ranged between 100 and 110 as of yesterday (Dec. 01).
+
+Dr. Gunawardena assured the public that the current slightly unhealthy levels of the air quality are temporary and are expected to improve significantly within the next two days.
+
+The air quality levels dropped in Colombo and several other areas across the country during last two days as a result of the recent adverse weather conditions and a border disturbance from the north.
+
+...
+
+[Data](articles/7355b865.json)
 
 ---
 
@@ -248,6 +366,8 @@ Meanwhile, the Road Development Authority stated that the Manampitiya- Aralaganw
 
 [Data](articles/0a63a8dc.json)
 
+[Extended Data](ext_articles/0a63a8dc.ext.json)
+
 ---
 
 ### Sri Lanka sells extra Rs18.4bn Treasury bonds after auction
@@ -267,6 +387,8 @@ Date of settlement of the above issuance is 2 December 2024. (Colombo/Dec2/2024)
 ◼️
 
 [Data](articles/6fe1c0d8.json)
+
+[Extended Data](ext_articles/6fe1c0d8.ext.json)
 
 ---
 
@@ -314,17 +436,29 @@ Meanwhile, in response to a question raised by a journalist whether the corporat
 
 [Data](articles/6abb8788.json)
 
+[Extended Data](ext_articles/6abb8788.ext.json)
+
 ---
 
-### முச்சந்தியில் நிற்கும் ரணில், சஜித் தரப்புக்களின்   தேசிய பட்டியல் விவகாரம்
+### Ranil standing in Muchandi
 
 *2024-12-02 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200204) · `ta`
 
-பொதுமக்கள் மக்களாட்சியின் மீதான நம்பிக்கையை இழக்காத வகையில் அரசியல் கட்சிகள் செயல்படவேண்டும் என்பது மிக முக்கியம். தேசிய பட்டியலுக்கான உறுப்பினர்களை நியமிப்பதில் பிரதான கட்சிகள் எதிர்கொண்டுள்ள இந்த சிக்கல்கள் இலங்கையின் அரசியல் நிர்வாகம் எவ்வளவு மேம்பட வேண்டும் என்பதைப் பற்றிய கண்ணோட்டத்தையும் வெளிப்படுத்துகிறது. சர்ச்சையின் முடிவுகள் கட்சியின் எதிர்கால பயணத்தை மட்டுமே அன்றி பாராளுமன்றத்தில் எதிர்க்கட்சிகளின் செயற்பாடுகளை பலப்படுத்தக் கூடியவையாகவும் அமைய வேண்டும்.
+Here's a summary of 200 characters:
+
+
+
+Ranil stands firm in Muchandi. Political parties must maintain public trust in democracy. National list appointments highlight Sri Lanka's political administration challenges. Controversy impacts party futures and opposition strength in Parliament.
+
+🟩
+
+It is very important that political parties should act so that the public should not lose confidence in democracy. These issues faced by the major parties in the appointment of members to the national list reveal the view of how the political administration of Sri Lanka should improve. The results of controversy should not only be the party's future journey but also strengthen the activities of the opposition parties in Parliament.
 
 ◼️
 
 [Data](articles/9a78a229.json)
+
+[Extended Data](ext_articles/9a78a229.ext.json)
 
 ---
 
@@ -2195,163 +2329,5 @@ Investigations have begun on the birthday party in Jaffna as a youth from the Ur
 [Data](articles/11f3451d.json)
 
 [Extended Data](ext_articles/11f3451d.ext.json)
-
----
-
-### Two arrested with ice and heroin in Colombo
-
-*2024-12-01 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200172) · `ta`
-
-Colombo arrests: 2 suspects caught with ice & heroin. Police seized 15g ice & 50g heroin, along with vehicles & phones.
-
-🟩
-
-Two persons have been arrested by police yesterday (30) with ice and heroin drugs during two other rounds in Colombo.
-
-15 grams of 200 milligrams of ice from the suspect has been seized by the police.
-
-Meanwhile, a suspect in the Kottawa Police Division has been arrested yesterday for possessing heroin.
-
-50 grams of 750 milligrams of heroin, car and mobile phone have been seized by the police.
-
-◼️
-
-[Data](articles/cd87202b.json)
-
-[Extended Data](ext_articles/cd87202b.ext.json)
-
----
-
-### වසර හයක් තිස්සේ දුම්රිය එන්ජින් 78ක් කොට උඩ
-
-*2024-12-01 19:04:07* · [`adalk`](https://www.ada.lk/breaking_news/වසර-හයක්-තිස්සේ-දුම්රිය-එන්ජින්-78ක්-කොට-උඩ/11-413389) · `si`
-
-අලුත්වැඩියා කටයුතු සඳහා යොමු කොට තිබූ දුම්රිය එන්ජින් 78ක් අලුත්වැඩියා  කිරීම සිදු නොකොට, 2017 වර්ෂයේ සිට 2023 දෙසැම්බර් 31 දක්වා වසර 06ක කාලයක් තුළ ධාවනාගාරවල හෝ රත්මලාන ප්‍රධාන දුම්රිය වැඩපළෙහි රඳවා ගෙන තිබූ බව ජාතික විගණන කාර්යාලය මගින් නොවැම්බර් 29 දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
-
-දුම්රිය දෙපාර්තමේන්තුව සතුව M Class එන්ජින් 103 ක් තිබෙන අතර, ඉන් එන්ජින් 47ක් අලුත්වැඩියා කටයුතු සඳහා ධාවනයෙන් ඉවත් කොට ඇත. M Class වර්ගයේ එන්ජිමක වටිනාකම රුපියල් මිලියන 150ත් 765ත් අතර වන බවද එම විගණන වාර්තාවේ සඳහන් වේ.
-
-එමෙන්ම රුපියල් මිලියන 8 සිට 218 අතර දක්වා වටිනාකමට මිලදී ගෙන තිබූ S Class එන්ජින් 133ක් අතුරින් එන්ජින් 31ක් අලුත්වැඩියා සඳහා යොමුකොට වසර 07කට අධික කාලයක සිට අලුත්වැඩියා කටයුතු සිදු නොකොට ධාවනාගාරවල රඳවා ගෙන සිටින බවද විගණනය මගින් අනාවරණය කර ඇත.
-
-...
-
-[Data](articles/5c931282.json)
-
----
-
-### Flooding into homes;Snakes around!- The people of Sankanai who fear returns home
-
-*2024-12-01 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200170) · `ta`
-
-Floods displace 20 in Sankanai; snakes reported. Residents seek permanent solution to annual issue.
-
-🟩
-
-20 people from 5 families have been housed at Vaddukoddai Hindu College due to floods.
-
-They are the residents of the J /57 Grama Niladhari Division of the Sanganai Divisional Secretariat.
-
-They say that they have flooded their homes and snakes around the house.
-
-They further stated that such problems occur during the rainy season every year and that it should be resolved.
-
-◼️
-
-[Data](articles/03e2b654.json)
-
-[Extended Data](ext_articles/03e2b654.ext.json)
-
----
-
-### Will you get good news in 2025?
-
-*2024-12-01 18:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025இல்-நல்ல-செய்தி-வருமா/175-348063) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Electricity Board hands plan to Public Utilities Commission on June 6. Spokesman says proposal nearly ready. Will 2025 bring good news?
-
-🟩
-
-The Electricity Board's idea will be handed over to the Public Utilities Commission on the 6th of this month.
-
-A spokesman for the Board said that the preparation of the proposal is in the final stages.
-
-◼️
-
-[Data](articles/e97b7681.json)
-
-[Extended Data](ext_articles/e97b7681.ext.json)
-
----
-
-### Inflation goes down
-
-*2024-12-01 18:49:01* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවත්-පහළට/11-413388) · `si`
-
-Sri Lanka's inflation drops: Colombo area sees -2.1% consumer inflation in Nov 2024, down from -0.8% in Oct. Food inflation decreases to 0.6% in Nov, compared to 1.0% in Oct. Overall food inflation falls from -13.3% to -3.3% in 2024.
-
-🟩
-
-Inflation in Sri Lanka has further fallen. Accordingly, the consumer inflation rate of the Colombo Municipal Community has reduced to-2.1% for November 2024.It was reported to -0.8% for October 2024.
-
-In November 2024, the annual inflation of food category (point) has been reduced to 0.6%, and in October 2024 as 1.0%.
-
-Also, 2024-food annual inflation has been reduced to-3.3% to-13.3% in October 2024.
-
-◼️
-
-[Data](articles/19c420eb.json)
-
-[Extended Data](ext_articles/19c420eb.ext.json)
-
----
-
-### Weather-destroyed vegetable cultivation also seek compensation
-
-*2024-12-01 18:42:51* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්-විනාශ-වූ-එළවළු-වගාවටත්-වන්දි-ඉල්ලයි/11-413387) · `si`
-
-Upcountry vegetable farmers demand compensation for crop damage due to weather disasters. Government assistance limited to specific crops like paddy and potatoes. Farmers seek support for other affected vegetables like leeks, carrots, beans, and tomatoes.
-
-🟩
-
-The farmers of the uprox vegetables are demanded as a result of bad weather.
-
-The government has not taken measures to pay compensation for six crops including paddy, big onions, potatoes, but the government has not taken compensation to facilitate other crops.
-
-Vegetable farmers have been destroyed due to the recent floods and other disasters, such as leeks, carrots, beans, beetroot, beetroot, beetroot, beetroet, tomatoes, tomatoes.Says.
-
-They have been severely damaged due to floods in the Kandapola area, and they have been completely destroyed due to floods.
-
-Farmers say they are engaged in vegetable crops and intense helplessly, which has been paid to the banks and the earnings of the banks.
-
-They call upon the government to reach the cultivation of the damage to the damaging damage to the upcountry vegetable ground.
-
-◼️
-
-[Data](articles/5d586632.json)
-
-[Extended Data](ext_articles/5d586632.ext.json)
-
----
-
-### ඊටීඑෆ් වැඩිවෙලා ඊපීඑෆ් අඩුවෙලා
-
-*2024-12-01 18:35:10* · [`adalk`](https://www.ada.lk/breaking_news/ඊටීඑෆ්-වැඩිවෙලා-ඊපීඑෆ්-අඩුවෙලා/11-413386) · `si`
-
-සේවක අර්ථසාධක අරමුදලේ ලියාපදිංචි වීම පැහැර හරිමින් සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ පමණක් ලියාපදිංචිව සිටින සේවා යෝජකයන් සංඛ්‍යාව 2024නොවැම්බර් මස 15වැනිදා වනවිට25,610 ක් දක්වා ඉහළ ගොස් ඇති බව කම්කරු දෙපාර්තමේන්තුවේ  විගණන අංශය මගින් අනාවරණය කර ඇත.
-
-මෙම සේවායෝජකයන්  හඳුනාගෙන සේවක අර්ථසාධක අරමුදලට බඳවා ගැනීමේ හැකියාව ඇතත් එම කටයුතු ඉතා මන්දගාමී තත්වයකට  පවතින බවද එම විගණන වාර්තාවේ සඳහන්වේ.
-
-2023 වර්ෂය අවසානය වනවිට එසේ  ලියාපදිංචි වී නොමැති සේවා යෝජකයන් සංඛ්‍යාව  29,000 කට ආසන්න  පිරිසක් බවත් ජාතික විගණන කාර්යාලය මගින්  සිදු කරන ලද පරීක්ෂණයකින් අනාවරණය වී ඇත.
-
-ජාතික විගණන කාර්යාලය මගින් එම පරීක්ෂණය 2024 ජූලි මාසයේ දී සිදු කර ඇති අතර එම අවස්ථාවේදී එම සේවායෝජකයන්ගෙන් සේවා නියුක්තියන්ගේ  භාර අරමුදලට  රුපියල් කෝටි 40 කට අධික මුදලක්  බැරවී තිබූ බවද එම විගණන වාර්තාව මගින් අනාවරණය වී ඇත.
-
-මෙම සේවා යෝජකයන් කඩිනමින් සේවක අර්ථ සාධක අරමුදලින් ලියාපදිංචි කිරීමට කටයුතු කර දෙන ලෙස  විගණන කාර්යාලය මගින් කම්කරු  දෙපාර්තමේන්තුවට දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/7c170dda.json)
 
 ---

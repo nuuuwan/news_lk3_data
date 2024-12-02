@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 02:26:26**
+As of **2024-12-03 02:41:59**
 
 ## Newspaper Stats
 
-*Scraped **58,122** Articles*
+*Scraped **58,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 592
 bbccomsinhala | 604
 islandlk | 3,490
 economynextcom | 3,528
-dailyftlk | 4,009
+dailyftlk | 4,012
 dailymirrorlk | 4,733
 adalk | 5,496
 adaderanalk | 7,047
@@ -26,11 +26,59 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,122 (100.0%) of 58,122 articles have been extended.
+58,122 (100.0%) of 58,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### Baurs celebrates 127 years of progressive growth and innovation
+
+*2024-12-03 02:34:47* · [`dailyftlk`](https://www.ft.lk/business/Baurs-celebrates-127-years-of-progressive-growth-and-innovation/34-770008) · `en`
+
+Baurs CEO/Managing Director Rolf Blaser (third from right) with a group of employees
+
+Baur & Co. Ltd., also known as Baurs, is a name synonymous with diverse industry sectors in Sri Lanka, including a distinctive reputation for being a pioneering and innovative agriculture expert, actively blending both scientific and professional know-how to steer the nation’s future direction.
+
+This year, Baurs celebrates 127 years of continued growth and expansion across its business units.
+
+In 2021, Baurs took on the organic fertiliser challenge when the country decided to move towards organic agriculture, following the company’s long-standing R&D efforts and a collective masterplan for sustainable organic agriculture, together with a team of experts from Switzerland-based FiBL and HAFL and diverse stakeholders across the country’s agriculture sector.
+
+...
+
+[Data](articles/211bd925.json)
+
+---
+
+### CTC honours excellence at annual Distributors Awards ceremony
+
+*2024-12-03 02:33:06* · [`dailyftlk`](https://www.ft.lk/business/CTC-honours-excellence-at-annual-Distributors-Awards-ceremony/34-770007) · `en`
+
+The Ceylon Tobacco Company PLC (CTC), recently held its annual Distributor Awards ceremony on 23 November at the Sri Lanka Exhibition Convention Centre (SLECC), celebrating the outstanding commitment and performance of their distributor network.
+
+The CTC annual Distributor Awards ceremony recognised the extraordinary commitment and accomplishments of CTC’s distributors, celebrating their unwavering commitment and dedication. The awards ceremony was attended by over 2100 distributors and invitees from various regions of Sri Lanka. 135 distributors were recognised and celebrated, across five categories, in line with CTC’s ethos of acknowledging excellence.
+
+...
+
+[Data](articles/82e8503a.json)
+
+---
+
+### Nestlé partners ALFT to pave way for sustainable future in flexible packaging
+
+*2024-12-03 02:31:42* · [`dailyftlk`](https://www.ft.lk/business/Nestlé-partners-ALFT-to-pave-way-for-sustainable-future-in-flexible-packaging/34-770006) · `en`
+
+ALFT Packaging welcomes Nestlé Lanka Managing Director Bernhard Stefan (fifth from left) and senior delegates during their visit, alongside ALFT Chairman Lakshman De Fonseka (fourth from left), MD Chathura Jayatissa (sixth from left), and COO Tissa Gunaratne (third from left)
+
+ALFT Packaging, a pioneering manufacturer of flexible packaging solutions in Sri Lanka, hosted a senior delegation from Nestlé Lanka, led by Managing Director Bernhard Stefan, offering an exclusive tour of its state-of-the-art facility and showcasing the range of industry-leading, world-class flexible packaging solutions.
+
+The visit highlighted the growing partnership between the two companies and demonstrated ALFT’s commitment to innovation, sustainability, and excellence in the flexible packaging technology.
+
+...
+
+[Data](articles/3c2f1e56.json)
+
+---
 
 ### Japanese Ambassador to meet Senthil Thondaman
 
@@ -2395,69 +2443,5 @@ In his address to parliament last Thursday, Sri Lankan president Anura Kumara Di
 [Data](articles/f2c14ba7.json)
 
 [Extended Data](ext_articles/f2c14ba7.ext.json)
-
----
-
-### Jaffna success;Valuable jewelery in the electoral crown of the national people's power
-
-*2024-12-02 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200214) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Jaffna defies history: National People's Power wins, shocking previous presidential election trends. Campaign focused on addressing grievances, securing parliamentary seats.
-
-🟩
-
-Presidential election results shocked Jaffna. Jaffna did not vote for the winner in the 2010, 2019 presidential elections. It was only now that the national people's power was going to win the parliamentary election and how much it would be able to capture seats.. The campaign was launched without a cheerful campaign to vote for the national people's power in the parliamentary elections to address the grievances of the presidential election.
-
-◼️
-
-[Data](articles/3e8ba5e7.json)
-
-[Extended Data](ext_articles/3e8ba5e7.ext.json)
-
----
-
-### Sri Lankan fishing boats seized with ‘Ice’ in Indian waters escorted to Colombo Port
-
-*2024-12-02 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103924/sri-lankan-fishing-boats-seized-with-ice-in-indian-waters-escorted-to-colombo-port) · `en`
-
-Two Sri Lankan fishing vessels that were recently apprehended in Indian waters while transporting a large consignment of crystal methamphetamine, commonly known as ‘Ice’, along with the suspects on board, were escorted ashore to the Colombo Port today (02).
-
-The seizure of the consignment of drugs weighing around 400 kilograms, followed an intelligence-sharing between the Indian and Sri Lankan navies, after which the Indian Navy took custody of the vessels.
-
-One of the trawlers was found to be carrying about 400 kilograms of ‘Ice,’ while the other was assisting, according to Sri Lanka Navy.
-
-The Indian Navy had arrested the Sri Lankan suspects and seized the vessels on November 24 and 25.
-
-Subsequently, the ice drug haul, fishing trawlers, and suspects were handed to the SLNS Gajabahu vessel attached to Sri Lanka Navy on November 29.
-
-Accordingly, the Navy brought the seized drugs, fishing vessels, and suspects ashore today (2) for further legal proceedings.
-
-◼️
-
-[Data](articles/2f200125.json)
-
-[Extended Data](ext_articles/2f200125.ext.json)
-
----
-
-### Fine sportsman, great debater, big appetite but weak stomach
-
-*2024-12-02 13:02:00* · [`islandlk`](http://island.lk/fine-sportsman-great-debater-big-appetite-but-weak-stomach/) · `en`
-
-Dudley Senanayake in the short Parliament of March to July 1960
-
-Family and background had been central in Dudley Senanayake’s case too. Greatness had literally been thrust on him when he had been appointed prime minister on the death of his father D S, in 1952. That had been a time of intrigue and maneuvering which had soured the relations between Sir John, his close relative and him.
-
-Sir John had struck back with the Premier Stakes which he later denied having any connection with. So Dudley had been anxious to win his spurs for himself through the hustings as early as possible. And he had proved his legitimacy by winning the 1952 elections handsomely, helped by the sympathy vote created by the death of his father. But his first stint as prime minister did not last long. Plagued by illness, chronic gastritis and the hartal of August 1953 which resulted in police firing and some civilian deaths, Dudley resigned.
-
-...
-
-[Data](articles/5e8fa427.json)
-
-[Extended Data](ext_articles/5e8fa427.ext.json)
 
 ---

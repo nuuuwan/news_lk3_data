@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 19:27:09**
+As of **2024-12-02 19:03:00**
 
 ## Newspaper Stats
 
-*Scraped **58,085** Articles*
+*Scraped **58,078** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
-bbccomsinhala | 604
+bbccomsinhala | 603
 islandlk | 3,490
 economynextcom | 3,525
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,491
-adaderanalk | 7,042
-tamilmirrorlk | 8,257
+adalk | 5,489
+adaderanalk | 7,041
+tamilmirrorlk | 8,254
 virakesarilk | 9,507
 adaderanasinhalalk | 10,035
 
@@ -26,83 +26,11 @@ adaderanasinhalalk | 10,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,076 (100.0%) of 58,085 articles have been extended.
+58,067 (100.0%) of 58,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### New Secretary Appointment
-
-*2024-12-02 18:58:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்-நியமனம்/175-348129) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anuragumara Dissanayake appoints Mrs. KDR Olga as Sec'y to Min. of Women & Child Affairs. Appointmnt letter handed by Pres. Sec'y Dr. Nandika Sanath Kumanayake at Presidential Secretariat.
-
-🟩
-
-President Anuragumara Dissanayake has officially appointed Mrs. KDR Olga as the Secretary to the Ministry of Women and Child Affairs.
-
-The appointment letter was officially handed over to Mrs. Olga by the Secretary to the President of the President, Dr. Nandika Sanath Kumanayake at the Presidential Secretariat today.
-
-◼️
-
-[Data](articles/2ce65dca.json)
-
-[Extended Data](ext_articles/2ce65dca.ext.json)
-
----
-
-### Special Notice to Ordinary Level Examiners
-
-*2024-12-02 18:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதாரண-தரப்-பரீட்சார்த்திகளுக்கு-விசேட-அறிவிப்பு/175-348128) · `ta`
-
-Deadline extended for GCE Ordinary Level exams due to weather conditions. New date: [TBA]. Registration now open until November 30.
-
-🟩
-
-The Department of Examinations 2024 (2025) has extended the deadline for the GCE Ordinary Level (S/C) exams on the website of the State and Private School Examinations.
-
-The Commissioner General of Examinations HJMC Amit Jayasundera said that the decision has been taken due to inclement weather in the country.
-
-First, it was announced that the postal registration will be announced on November 30.
-
-◼️
-
-[Data](articles/0987f299.json)
-
-[Extended Data](ext_articles/0987f299.ext.json)
-
----
-
-### Special Notification for Candidates
-
-*2024-12-02 18:44:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்களுக்கு-விசேட-அறிவித்தல்/175-348127) · `ta`
-
-Election Commission mandates candidates submit budgets by Dec 6. Failure leads to legal consequences. Reports needed per district, submitted to local Election Officers. Special units established in all districts to streamline process.
-
-🟩
-
-The Election Commission has announced that all candidates must submit their budget and expenditure by December 6.
-
-According to the Commission, this requirement applies to the leaders of candidates, party secretaries and independent groups on the national list.
-
-If you fail to submit the report within the deadline (December 06), those who violate the election costs will have legal consequences, ”the Commission warned.
-
-Reports must be prepared separately for each district where the candidates contested and submitted to the respective District Election Officers.
-
-The Commission has established special units in all districts to reform the process. "These sections work on regular working days until 6:00 pm, and their work hours have been extended till midnight on December 6," it added.
-
-◼️
-
-[Data](articles/e3808481.json)
-
-[Extended Data](ext_articles/e3808481.ext.json)
-
----
 
 ### New secretary to the Ministry of Women and Child Affairs
 
@@ -127,30 +55,6 @@ The letter of appointment was handed over to the Presidential Secretariat today 
 [Data](articles/9ec7f08c.json)
 
 [Extended Data](ext_articles/9ec7f08c.ext.json)
-
----
-
-### Landslide warnings issued for 6 districts
-
-*2024-12-02 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103934/landslide-warnings-issued-for-6-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in 6 districts, as heavy rainfall continues in parts of the island.
-
-The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 03).
-
-Accordingly, a Level 1 (Yellow) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Kandy, Kegalle, Kurunegala, Matale and Nuwara-Eliya districts as follows:
-
-Badulla : Badulla, Hali Ela, Meegahakiwula, Bandarawela and Passara Divisional Secretariat DSDs and surrounding areas
-
-Kandy : Pasbage Korale,  Pathahewaheta,  Pathadumbara,  Gangawata Korale,  Doluwa,  Hatharaliyadda,  Ganga Ihala Korale,  Yatinuwara,  Poojapitiya,  Ududumbara,  Medadumbara, Udapalatha,  Delthota,  Udunuwara,  Panwila,  Harispattuwa,  Akurana and Thumpane DSDs and surrounding areas.
-
-Kegalle: Aranayake, Kegalle, Bulathkohupitiya, Mawanella, Yatiyanthota and Ruwanwella DSDs and surrounding areas.
-
-...
-
-[Data](articles/5974ff05.json)
-
-[Extended Data](ext_articles/5974ff05.ext.json)
 
 ---
 
@@ -396,27 +300,21 @@ The song, which is being created in the usual enchanting metal of the musician, 
 
 ---
 
-### 'Music monster' ji. V.. Prakash Kumar starrer 'Blackmail' movie update
+### 'இசை அசுரன்'  ஜீ. வி. பிரகாஷ் குமார் நடிக்கும் 'பிளாக்மெயில்' பட அப்டேட்
 
 *2024-12-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200244) · `ta`
 
-"Blackmail" movie update: Starring Ji. V.. Prakash Kumar, directed by M Maran. Cast includes Teju Aswini, Srikanth, Bindhumadhavi. Music by Iman, produced by JDS Film Factory. Shooting complete, dubbing underway.
+தேசிய விருது பெற்ற இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகருமான ஜீ. வி பிரகாஷ் குமார் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'பிளாக்மெயில்' எனும் திரைப்படத்தினை பற்றிய புதிய தகவல்களை படக்குழுவினர் பிரத்யேக புகைப்படத்துடன் வெளியிட்டுள்ளனர்.
 
-🟩
+இயக்குநர் மு.மாறன் இயக்கத்தில் உருவாகி வரும் 'பிளாக்மெயில்' எனும் திரைப்படத்தில் ஜீ. வி. பிரகாஷ் குமார், தேஜு அஸ்வினி, ஸ்ரீகாந்த் , பிந்துமாதவி  'வேட்டை' முத்து குமார், ரெடின் கிங்ஸ்லி, ரமேஷ் திலக், ஹரி பிரியா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-National Award -winning composer and leading star star. V Prakash Kumar has released new information about the film 'Blackmail', which is playing the lead role.
+கோகுல் பினோய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார்.  கிரைம் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை ஜெ டி எஸ் ஃபிலிம் ஃபேக்டரி நிறுவனம் சார்பில் தயாரிப்பாளர் ஜெயக்கொடி அமல்ராஜ் தயாரித்திருக்கிறார்.
 
-Directed by Director M Maran in the upcoming film 'Blackmail'. V.. Prakash Kumar, Teju Aswini, Srikanth, Bindhumadhavi 'hunt' Muthu Kumar, Redin Kingsley, Ramesh Tilak, Hari Priya and many others have been cast.
-
-The film has been recorded by Gokul Pinoy. Iman has composed music.The film was produced by JDS Film Factory Company, produced by Jayakody Amalraj.
-
-The film crew has announced that the film's shooting has been completed and that the dubbing has been started in the film.
+இப்படத்தின் படப்பிடிப்பு பணிகள் முழுமையாக நிறைவடைந்து விட்டது என்றும், தற்போது இப்படத்தில் டப்பிங் பணிகள் தொடங்கப்பட்டிருக்கிறது என்றும் படக் குழுவினர் பிரத்யேகப் புகைப்படத்தை வெளியிட்டு உற்சாகமாக அறிவித்துள்ளனர்.
 
 ◼️
 
 [Data](articles/0c03798f.json)
-
-[Extended Data](ext_articles/0c03798f.ext.json)
 
 ---
 
@@ -468,33 +366,21 @@ Any inquiries regarding the submission of applications can be made through hotli
 
 ---
 
-### The arrested protesters remanded
+### අත්අඩංගුවටගත් විරෝධතාකරුවන් රක්ෂිත බන්ධනාගාර ගත කෙරේ
 
 *2024-12-02 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203963) · `si`
 
-Here's a summary of 200 characters:
+ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් බත්තරමුල්ල පැලවත්ත අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිටදී විරෝධතාවයේ යෙදී  සිටියදී කලාකාරී ලෙස හැසිරුණු බවට අත්අඩංගුවට ගත් පුද්ගලයන් සිව් දෙනෙකු අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු ලබන 10 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කඩුවෙල වැඩබලන මහෙස්ත්‍රාත් කමල් ප්‍රසන්න විජේසිරි මහතා අද (02) නියෝග කළේය.
 
+අයුතු ජන රාශියක සාමාජිකයන්වීම සහ පොලිස් නිලධාරීන්ට තුවාල සිදුකිරීම යන චෝදනා යටතේ තලංගම පොලිසිය විසින් මෙම සැකකරුවන් අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
 
+සැකකරුවන් අධිකරණයට ඉදිරිපත් කරමින් පොලීසිය පැවසුවේ මෙම සැකකරුවන් කලහකාරී ලෙස හැසිරෙමින් උප පොලිස් පරීක්ෂකවරයෙකු ඇතුළු පොලිස් නිලධාරීන් තිදෙනෙකුට තුවාල සිදුකර ඇති බවත් එම පොලිස් නිලධාරින් තිදෙනා කොළඹ ජාතික රෝහලේ සහ නැගෙනහිර කොළඹ මූලික රෝහලේ ප්‍රතිකාර ලබන බවයි.
 
-Four protesters arrested, accused of injuring police. Remanded till 10th. Case heard at Ministry of Education courthouse. Attorneys present.
+ඒ අනුව කරුණු සලකා බැලූ වැඩබලන මහෙස්ත්‍රාත්වරයා එම සැකකරුවන් සිව්දෙනා ලබන 10 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසත් එදිනට සැකකරුවන් හඳුනාගැනීමේ පෙරට්ටුවක් වෙත යොමුකරන ලෙසත් නියෝග කළේය.
 
-🟩
-
-Kaduwela Acting Magistrate Kamal Prasanna Wijesiri today (02) ordered that four suspects were presented in the courts before the Ministry of Education in front of the Ministry of Education at the courts.
-
-The suspects were produced before the court on the allegations of a number of people and the injuries of police officers.
-
-The suspects were produced in court and injured three police officers including the Colombo National Hospital and the Colombo National Hospital.
-
-The Acting Magistrate ordered the four suspects to be remanded until the 10th to be remanded until the 10th.
-
-Attorneys, Nuwan Bopage Nuwan Bopage, Nuwan Jayawardena, also came forward with lawyers, Nuwan Jayawardena.
-
-◼️
+...
 
 [Data](articles/6438a9b1.json)
-
-[Extended Data](ext_articles/6438a9b1.ext.json)
 
 ---
 
@@ -517,8 +403,6 @@ Meanwhile, three police officers including a Sub-Inspector have reportedly been 
 ◼️
 
 [Data](articles/b739b9bb.json)
-
-[Extended Data](ext_articles/b739b9bb.ext.json)
 
 ---
 
@@ -558,8 +442,6 @@ The report of the committee headed by former Supreme Court Justice K.T. Chitrasi
 
 [Data](articles/305db76b.json)
 
-[Extended Data](ext_articles/305db76b.ext.json)
-
 ---
 
 ### Sri Lanka rupee appreciates against major foreign currencies for 2nd year
@@ -582,31 +464,19 @@ The Central Bank said the real effective exchange rate against the basket of 24 
 
 ---
 
-### The current government should soon repeal the Terrorism Act to commemorate the historical experience of the blood and iron- the leading of the people's struggle
+### தற்போதைய அரசாங்கம் இரத்தத்தாலும் இரும்பினாலும் நசுக்கப்பட்ட வரலாற்று அனுபவத்தை நினைவுகூர்ந்து  பயங்கரவாத தடைச்சட்டத்தை விரைவில் இரத்துச்செய்யவேண்டும்- மக்கள் போராட்ட முன்னணி
 
 *2024-12-02 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200245) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+தற்போதைய அரசாங்கம் இரத்தத்தாலும் இரும்பினாலும் நசுக்கப்பட்ட வரலாற்று அனுபவத்தை நினைவுகூர்ந்து பாராளுமன்றத்தின் அதிகாரத்தை பயன்படுத்தி பயங்கரவாத தடைச்சட்டத்தை விரைவில் இரத்துச்செய்யவேண்டும் என மக்கள் போராட்ட முன்னணியின் செயற்குழு வேண்டுகோள் விடுத்துள்ளது.
 
+சமூக ஊடகங்கள் மற்றும் பத்திரிகைகளில் வெளியான அறிக்கைகள் மற்றும் கருத்துக்களின் அடிப்படையில் ரத்துச் செய்யப்பட வேண்டிய அடக்குமுறைச் சட்டமான 1979 ஆம் ஆண்டின் 48 ஆம் இலக்க பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் நவம்பர் 30 மற்றும் டிசம்பர் 01 ஆகிய திகதிகளில் பொலிஸார் நான்கு பேரைக் கைது செய்ததோடு அவர்கள் தொடர்பான விசாரணைகளை மேற்கொண்டுள்ளனர்.
 
-
-Current government urged to repeal Terrorism Act. Four arrests made under PTA for social media posts. Law used against Tamil Muslims & political movements. Opponents argue it violates personal freedoms & promotes racism.
-
-🟩
-
-The Executive Committee of the People's Movement has appealed to the current government to abolish the terrorism law to use the power of Parliament to recall the historical experience of the blood and iron.
-
-Police have arrested four people on November 30 and December 01, under the PTA No. 48, 1979, the repressive law, which is to be repealed on the basis of reports and comments published in social media and newspapers.
-
-But the persons have been charged under public law and one has been released on bail. This is the second time that the current government is using the PTA in a short time using the Terrorism Act. Earlier, three persons were arrested in connection with the Augkam Kutta incident and issued a preventive order under the Prevention of Terrorism Act.
-
-The Police Media Division presented information on the arrest of four in the media and media briefing.
+ஆனால் அந்த நபர்கள் மீது பொதுச் சட்டத்தின் கீழ் குற்றம் சாட்டப்பட்டுள்ளதோடு ஒருவர் பிணையில் விடுவிக்கப்பட்டுள்ளார். தற்போதைய அரசாங்கம் மிகக் குறுகிய காலத்திற்குள் பயங்கரவாதத் தடைச் சட்டத்தைப் பயன்படுத்தி மக்களைக் கைது செய்து தடுத்து வைப்பது இது இரண்டாவது தடவையாகும். முன்னதாகஇ அறுகம் குடா சம்பவம் தொடர்பாக மூவர் கைது செய்யப்பட்டுஇ பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் தடுப்பு உத்தரவு பிறப்பிக்கப்பட்டது.
 
 ...
 
 [Data](articles/8a9fada6.json)
-
-[Extended Data](ext_articles/8a9fada6.ext.json)
 
 ---
 
@@ -661,20 +531,6 @@ The Police Media Division presented information on the arrest of four in the med
 ...
 
 [Data](articles/c3e7b0e2.json)
-
----
-
-### ශිෂ්‍යත්වයේ ගැටලුව ගැන කැබිනට් මණ්ඩලයේ ස්ථාවරය අධිකරණයට කියයි
-
-*2024-12-02 16:28:07* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වයේ-ගැටලුව-ගැන-කැබිනට්-මණ්ඩලයේ-ස්ථාවරය-අධිකරණයට-කියයි/11-413405) · `si`
-
-05 වසර ශිෂ්‍යත්ව විභාගයේ පළමු ප්‍රශ්න පත්‍රයේ කලින් පිටවූ ප්‍රශ්න තුන සඳහා විභාගයට ඉදිරිපත් වූ සියලු සිසු සිසුවියන්ට නිදහස් ලකුණු ලබාදීමට කැබිනට් මණ්ඩලය නිර්දේශ කර ඇතැයි නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (02) දැනුම් දුන්නේය.
-
-පහ වසර ශිෂ්‍යත්ව විභාගය යළි පැවැත්වීමෙන් සිසු සිසුවියන්  පීඩාවට පත්වීමට හැකියාව ඇති බැවින් විභාගය යළි පැවැත්වීම නුසුදුසු බවට අමාත්‍ය මණ්ඩලය තීරණය කර ඇති බවත් පහ වසර ශිෂ්‍යත්ව විභාගය යළි පැවැත්වීමට යෑමෙන් සෙසු විභාග පැවැත්වීමේ කටයුතු අවුල් වීමට මෙන්ම 06 වැනි ශ්‍රේණිය සඳහා සිසුන් ඇතුළත් කර ගැනීමේ ක්‍රියාවලියද ප්‍රමාද වීමට හැකියාව ඇති බවට පසුගිය 25 වැනිදා රැස්වු තැබිනට් මණ්ඩලය තීරණය කිරීමෙන් අනතුරුව නිදහස් ලකුණු ලබාදීමට නිර්දේශ කර ඇතැයිද නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි සොලිසිටර් ජෙනරාල් විරාජ් දයාරත්න මහතා මේ බව ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
-
-...
-
-[Data](articles/34ba2e4d.json)
 
 ---
 
@@ -739,28 +595,6 @@ The US dollar purchasing price was 286.3962 rupees and the sales price were 294.
 [Data](articles/208e368b.json)
 
 [Extended Data](ext_articles/208e368b.ext.json)
-
----
-
-### සහල් මෝල් හිමියන් සහල් තොග මිල යළි වැඩිකරයි
-
-*2024-12-02 16:09:10* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මෝල්-හිමියන්-සහල්-තොග-මිල-යළි-වැඩිකරයි/11-413404) · `si`
-
-සහල් මෝල් හිමියන් විසින් නාඩු, සම්බා සහ කීරි සම්බා සහල් තොග මිල (02) දින වැඩි කර ඇති බව දිවයින පුරා සහල් තොග වෙලෙදුන් වෙත දැනුම් දි ඇත.
-
-ඒ අනුව නාඩු සහල් කිලෝවක තොග මිල රු 255, සම්බා සහල් රු 260, කීරි සම්බා රු 275 දක්වා වැඩි කර ඇති බවයි වෙලෙදුන් කියා සිටියේ.
-
-එම මිලට අවශ්‍ය සහල් තොග ප්‍රමාණයට මුදල් බැංකුගත කරන ලෙසට සහල් මෝලි හිමියන් විසින් වෙලෙදුන් වෙත උපදෙස් ලබා දි ඇත.
-
-වෙලදපොලේ නාඩු සහල් කිලෝවක පාලන මිල වන රු 220, සම්බා රු 230, කීරි සම්බා රු 260 වන අතර, ඒ මිලට අලෙවි කරන ලෙසට පාරිභෝගික සේවා අධිකාරිය චක්‍රලේකණ නිකුත් කර ඇත.
-
-සහල් මෝල් හිමියන් වරින් වර සහල් මිල වැඩි කර ලබාදිම නිසා තමන්ට පාලන මිලට සහල් අලෙවි කිරිමට නොහැකි බවයි සහල් තොග සහ සිල්ලර වෙලෙදුන් කියා සිටියේ.
-
-ඉකුත් සතියේ සහල් මෝල් හිමියන් විසින් නාඩු සහල් කිලෝවක් රු 235-240, සම්බා රු 250, කීරි සම්බා රු 260-265වැනි තොග මිලකට වෙලෙදුන් වෙත නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/0f790a05.json)
 
 ---
 
@@ -1507,28 +1341,6 @@ Sir John had struck back with the Premier Stakes which he later denied having an
 [Data](articles/5e8fa427.json)
 
 [Extended Data](ext_articles/5e8fa427.ext.json)
-
----
-
-### ශාරුජන් ෂන්මුගනාදන් : 13 වසරකට පෙර ටෝනි ග්‍රේග් අනාවැකි කියූ පිතිකරු
-
-*2024-12-02 13:01:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2y80egdjeo) · `si`
-
-ශාරුජන් ෂන්මුගනාදන් : 13 වසරකට පෙර ටෝනි ග්‍රේග් අනාවැකි කියූ පිතිකරු
-
-"බලන්න ඒ දිහා .. ඉතා විශිෂ්ඨ කවර් ඩ්‍රයිව් පහරක්... පුංචි කුමාර් සංගක්කාර" මේ, මීට වසර 13 කට පෙර ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර පැවති ටෙස්ට් තරගයක් අතර වාරයේදී ප්‍රවීණ ක්‍රිකට් විස්තර විචාරක ටෝනි ග්‍රේග් ගේ මුවින් නික්මුණු වචන පෙළකි.
-
-ටෝනි ග්‍රේග් එදා එලෙස පැවසුවේ කොළඹ SSC ක්‍රීඩාංගණයේ ප්‍රේක්ෂකයින් රැඳී සිටින කොටසේ කුඩා පිත්තක් අතින් ගෙන පිතිකරණයේ යෙදෙමින් සිටි සිව් හැවිරිදි  කුඩා ක්‍රීඩකයෙකු පිළිබඳවයි.
-
-එම කුඩා දරුවා ක්‍රීඩාංගණයේ ඈත කෙළවරක තම සම වයසේ තවත් දරුවන් පිරිසක් සමග ක්‍රිකට් ක්‍රීඩා කරමින් සිටියදී පිටියේ මැද පන්දුවට පහර දෙමින් සිටියේ ශ්‍රී ලංකාවෙන් බිහිවූ අග්‍රගන්‍ය පිතිකරුවෙකු වන කුමාර් සංගක්කාර යි.
-
-IPL ක්‍රීඩක වෙන්දේසිය 2025: 13 හැවිරිදි ක්‍රීඩකයෙක් පළමු වරට IPL තරගාවලියට
-
-ටෝනි ග්‍රේග් එදා කියූ ඒ කතාව අද යථාර්තයක් බවට පත් වෙමින් ඒ කුඩා ශාරුජන් ෂන්මුගනාදන් ගැන ක්‍රීඩා ලෝකයේ අවධානය යොමු වී තිබේ.
-
-...
-
-[Data](articles/3aafb0f5.json)
 
 ---
 
@@ -2369,5 +2181,209 @@ The Deputy Minister also indicated that divisional and district secretaries have
 [Data](articles/4afe22e2.json)
 
 [Extended Data](ext_articles/4afe22e2.ext.json)
+
+---
+
+### Syria's Aleppo city is back in the hands of rebels - those defeated in 2016 on the battlefield with a new strength
+
+*2024-12-02 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200201) · `ta`
+
+Aleppo rebels regain control after 7 years. Russia attacks rebel positions. Hayat Tahrir al-Sham involved. Syria's civil war officially ended but unrest persists. Idlib ceasefire holds. Four million people live in Aleppo after severe repression. Israel's attacks on Iran helped rebels capture city.
+
+🟩
+
+Many years later, the rebels began military action against the Syrian government on Wednesday.
+
+Following this unexpected action of the rebels, Russia has launched their positions - this is the first attack on Russia rebels since 2016.
+
+Hayat Dahrir al -Sam is attacked by Islamic Aleppo. It is noteworthy that the organization has long history in a small conflict.
+
+In 2011, the organization acted as the co -organization of Alhyida under the name of Jabat al -Nusra.
+
+The killed leader of the IS organization, Abu Bakr al -Bhaktadi, was also involved in the formation of the organization.
+
+This group was considered the most powerful and dangerous group of groups involved in the Syrian president.
+
+Its jihad policy was the driving force of the organization.
+
+The committee had contradicts the policies of the main organization of the banner of independent Syria.
+
+...
+
+[Data](articles/edfd9442.json)
+
+[Extended Data](ext_articles/edfd9442.ext.json)
+
+---
+
+### Action Notification for WhatsApp Users
+
+*2024-12-02 10:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்ஸ்அப்-பயனர்களுக்கு-அதிரடி-அறிவிப்பு/175-348094) · `ta`
+
+Sri Lanka Computer Emergency Response Council warns against sharing mobile verification codes with third parties to prevent WhatsApp account hacking and financial fraud.
+
+🟩
+
+The Sri Lanka Computer Emergency Response Council has called for the third parties not to provide the verification code obtained on their mobile number as the complaints relating to financial frauds that infiltrate WhatsApp accounts have increased.
+
+After hackers hacked the accounts and track users' accounts along with WhatsApp Groups,
+
+Senior Information Safety Engineer of the Sri Lanka Computer Emergency Response Forum, Saruka Tamunubola said that they are sending emergency messages to the numbers on the phone to be hacked.
+
+Accordingly, they are said to require a secret code obtained in the cell phone number, mentioning opportunities such as religious events, winning prizes or participating in educational programs.
+
+It is also said that by giving their WhatsApp account to hackers, they can easily in their account.
+
+The hackers then control the WhatsApp account, and send the message as the right person to send money to the telephone numbers attached to that account.
+
+...
+
+[Data](articles/dddcae1b.json)
+
+[Extended Data](ext_articles/dddcae1b.ext.json)
+
+---
+
+### Murder by a sharp weapon in Vavuniya;Young man arrested!
+
+*2024-12-02 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200194) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Vavuniya: Murder by sharp weapon. Young man killed in Omanthai/Parasankulam. 18-year-old suspect from Koomangulam arrested. Police investigating further."
+
+🟩
+
+Omanthai police said that a man was assassinated by a sharp weapon on Sunday evening (01) evening in the Vavuniya, Omanthai and Parasankulam area.
+
+A group of people in a cab in the Omanthai and Parasankulam area have been assaulted by a sharp weapon.
+
+The victim was subsequently admitted to the Vavuniya Hospital after being admitted to the hospital, police said.
+
+A 18 -year -old youth from Koomangulam, Vavuniya has been arrested in connection with the incident.
+
+In addition, Omanthai police are conducting further investigations to arrest other suspects.
+
+◼️
+
+[Data](articles/048b34e4.json)
+
+[Extended Data](ext_articles/048b34e4.ext.json)
+
+---
+
+### Sri Lanka’s Abans revises its debenture issue
+
+*2024-12-02 10:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-abans-revises-its-debenture-issue-190980/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Abans Plc said it was postponing its debenture issue by a week and changing the issue size due to volatility in the market.
+
+“The Company has decided to postpone the Debenture issue opening date to 10th December 2024 and the Issue Size considering the volatility in the market interest rates,” Abans said in a stock exchange filing.
+
+“The issue size is to be revised to as follows; An initial Issue up to Three Million (3,000,000) Listed, Rated, Unsecured, Senior, Redeemable Debentures.”
+
+The consumer products retailer initially said it will issue 10 million listed, rated, unsecured, senior, redeemable, 5-year debentures at 100 rupees each.
+
+And a further 10 million debentures in the event of an oversubscription of the initial issue to raise a maximum amount of 2 billion.
+
+They will bear a fixed interest rate of 13 percent per annum payable annually (AER 13%), the company said.
+
+The Colombo Stock Exchange has approved the listing in principle. (Colombo/Dec2/2024)
+
+◼️
+
+[Data](articles/bab9d14f.json)
+
+[Extended Data](ext_articles/bab9d14f.ext.json)
+
+---
+
+### The person's death after the monkey falls
+
+*2024-12-02 10:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கு-பறித்த-குரும்பை-விழுந்ததில்-நபர்-மரணம்/175-348092) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+An 81-year-old man died after a monkey fell onto his neck in a field in Western Sri Lanka. The incident occurred on July 27th. The victim was hospitalized and passed away two days later in intensive care.
+
+🟩
+
+A person who died when the monkey fell to the neck of a man, was found in the field of field Kohubitiya, Western Newsmir, Section 3.
+
+The death of a child's 81 -year -old AG Jayasena. Coconut Monkey was caught from the coconut tree on the 27th of last month.. The Kurumbu has then fell into the neck of the man.
+
+Fell on the neck. In the meantime, he was nominated for treatment at the intensive care unit.
+
+Patient was transferred to Kegal Hospital. He died on the 29th after being treated in the intensive care unit
+
+◼️
+
+[Data](articles/b0a49fac.json)
+
+[Extended Data](ext_articles/b0a49fac.ext.json)
+
+---
+
+### Joe Beidan forgives his son to his son
+
+*2024-12-02 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203948) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+US President Joe Biden pardons son Hunter Biden for tax evasion & gun charges. Conviction came under political pressure. Donald Trump criticizes decision, calling it unprecedented.
+
+🟩
+
+US President Joe Biden has issued an official announcement for pardon his son Hunter Biden.
+
+He had been convicted of misunderstanding and tax evasion.
+
+The punishment order was to be issued this month.
+
+However, the American President had said that he would not give a pardon for his son.
+
+However, President Joe Biden said he believed in the technique that he had believed in the US justice, but that the trial against his son was full of political pressure.
+
+The court criminal was found guilty in September last September last September and was found guilty of having a firearm in June last June.
+
+Donald Trump, who is elected to the next president, has been depressed by Joe Biden, criticizing Joe Biden's Decision to Forgive his son.
+
+The first opportunity of criminal charges against a child of Hunter Bidan's incident is the first time a child of an American president.
+
+◼️
+
+[Data](articles/9e1176d4.json)
+
+[Extended Data](ext_articles/9e1176d4.ext.json)
+
+---
+
+### Upcountry train journey restored
+
+*2024-12-02 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203947) · `si`
+
+Train service resumes Haliela-Uduwara after weather-related disruption. Railway officials restore line, reopening at 2:30 PM.
+
+🟩
+
+The railway line between Haliela and Uduwara have reopened to the train.
+
+Due to the bad weather conditions that were affected by the Badulla-Colombo railway station, the train was stopped due to the fall.
+
+The road has been restored by the Railway Department officials.
+
+Therefore, it has been reported today (informed that the traffic has been opened again since the 2:30.
+
+◼️
+
+[Data](articles/24ee5866.json)
+
+[Extended Data](ext_articles/24ee5866.ext.json)
 
 ---

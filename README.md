@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 02:41:59**
+As of **2024-12-03 04:01:24**
 
 ## Newspaper Stats
 
-*Scraped **58,125** Articles*
+*Scraped **58,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,171 @@ colombotelegraphcom | 592
 bbccomsinhala | 604
 islandlk | 3,490
 economynextcom | 3,528
-dailyftlk | 4,012
+dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,496
 adaderanalk | 7,047
 tamilmirrorlk | 8,260
-virakesarilk | 9,519
+virakesarilk | 9,520
 adaderanasinhalalk | 10,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,122 (100.0%) of 58,125 articles have been extended.
+58,132 (100.0%) of 58,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### Rilvin's opinion should be expressed by the government - Dr. P. Sathiyalingam MP
+
+*2024-12-03 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200276) · `ta`
+
+Dr. P. Sathiyalingam MP calls for government clarity on Rilvin Silva's views. Demands implementation of 13th Amendment and a permanent Tamil solution. Criticizes past governments' broken promises. Advocates for Tamil self-determination within a united Sri Lanka.
+
+🟩
+
+The Secretary of the Tamil National Alliance (TNA) and the Member of Parliament that the government should reveal whether JVP's secretary Rilvin Silva's opinion is the government's opinion and position.. He was speaking at a public meeting in Vavuniya today.
+
+The 13th Constitution was brought through the Sri Lanka -India Agreement. This was also brought in the Sri Lankan politics.
+
+The 13th Amendment is being implemented in Sri Lanka because of the fact that the two countries have been implemented in front of the two countries, even though we are not a solution to the Tamils.
+
+In that way, Anura Kumara Dissanayake's election manifesto also claims that the 13th Amendment will be implemented.. In addition, our government will bring about a permanent solution to the Tamil people through a change in the politics.
+
+He said that the 13th Amendment was not a solution for us.
+
+...
+
+[Data](articles/07cb98f1.json)
+
+[Extended Data](ext_articles/07cb98f1.ext.json)
+
+---
+
+### ECSL sets deadline for submission of election expenditure reports
+
+*2024-12-03 02:53:28* · [`dailyftlk`](https://www.ft.lk/news/ECSL-sets-deadline-for-submission-of-election-expenditure-reports/56-770016) · `en`
+
+The Election Commission of Sri Lanka (ECSL) has announced that candidates who contested in the recently concluded Parliamentary Elections, along with party secretaries and independent group leaders, must submit their income and expenditure reports by midnight on 6 December.
+
+The Commission specified that these reports should be prepared separately and submitted to the Returning Officers in the districts where the candidates contested. National List candidates are required to submit their reports directly to the ECSL. To facilitate the process, special units for receiving election income and expenditure reports have been established in all districts.
+
+These units will remain open until 6 p.m. on normal working days and extend their hours until midnight on the final day to accommodate submissions.
+
+The ECSL has warned that failing to submit the required reports by the deadline constitutes an offence under the Election Commission Regulation Act, and legal action will be taken against violators.
+
+◼️
+
+[Data](articles/085701c3.json)
+
+[Extended Data](ext_articles/085701c3.ext.json)
+
+---
+
+### Supreme Court Justice Murdu Fernando takes oath as 48th Chief Justice
+
+*2024-12-03 02:53:00* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-Justice-Murdu-Fernando-takes-oath-as-48th-Chief-Justice/56-770015) · `en`
+
+Supreme Court Justice Murdu Nirupa Bidushinie Fernando was officially sworn in as the Chief Justice of Sri Lanka before President Anura Kumara Dissanayake yesterday at the Presidential Secretariat.
+
+She assumes office as the 48th Chief Justice of Sri Lanka, succeeding Chief Justice Jayantha Jayasuriya, who recently retired. Her appointment received approval from the Constitutional Council.
+
+She began her career at the Attorney General’s Department in 1985, rising through its ranks to become Deputy Solicitor General in 1997 and Additional Solicitor General in 2014. With over three decades of service as a State Counsel, she was appointed to the Supreme Court in March 2018.
+
+As the most Senior Supreme Court Justice prior to her appointment, she has played a significant role in shaping Sri Lanka’s legal landscape. She also served as Senior Additional Solicitor General at the Attorney General’s Department, demonstrating a distinguished career in public service.
+
+...
+
+[Data](articles/5bdf69af.json)
+
+[Extended Data](ext_articles/5bdf69af.ext.json)
+
+---
+
+### Gayantha Karunathilaka appointed Chief Opposition Whip
+
+*2024-12-03 02:50:02* · [`dailyftlk`](https://www.ft.lk/news/Gayantha-Karunathilaka-appointed-Chief-Opposition-Whip/56-770013) · `en`
+
+Samagi Jana Balawegaya (SJB) Galle district MP Gayantha Karunathilaka has been named the Chief Opposition Whip, following a meeting of the SJB Parliamentary group held yesterday evening.
+
+Karunathilaka, a veteran Parliamentarian has previously served as Chief Opposition Whip in January 2020 as well while representing the United National Party (UNP). From 2015 to 2019, he held the position of Chief Government Whip in the UNP-led Good Governance administration.
+
+During the same period, Karunathilaka served as Mass Media Minister and acted as the Cabinet Media Spokesperson. During his political career lasting 24 years he has also held other notable roles, including Lands and Parliamentary Affairs Cabinet Minister.
+
+◼️
+
+[Data](articles/4a9a2c11.json)
+
+[Extended Data](ext_articles/4a9a2c11.ext.json)
+
+---
+
+### K.D.R. Olga appointed Secretary to Ministry of Women and Child Affairs
+
+*2024-12-03 02:47:47* · [`dailyftlk`](https://www.ft.lk/news/K-D-R-Olga-appointed-Secretary-to-Ministry-of-Women-and-Child-Affairs/56-770012) · `en`
+
+President Anura Kumara Dissanayake has appointed K.D.R. Olga as Secretary to the Ministry of Women and Child Affairs.  The appointment letter was formally presented to Olga by Secretary to the President Dr. Nandika Sanath Kumanayake yesterday at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/0d017a2c.json)
+
+[Extended Data](ext_articles/0d017a2c.ext.json)
+
+---
+
+### Committee report on MPs’, Ministers’ and former Presidents’ allowances presented to President
+
+*2024-12-03 02:47:15* · [`dailyftlk`](https://www.ft.lk/news/Committee-report-on-MPs-Ministers-and-former-Presidents-allowances-presented-to-President/56-770011) · `en`
+
+The report of the committee, chaired by former Supreme Court Justice K.T. Chithrasiri, tasked with reviewing the allowances and entitlements of Members of Parliament, Ministers, and former Presidents, was submitted to President Anura Kumara Dissanayake at the Presidential Secretariat yesterday.
+
+Prime Minister Dr. Harini Amarasuriya and Secretary to the President Dr. Nandika Sanath Kumanayake were also in attendance.
+
+◼️
+
+[Data](articles/90427872.json)
+
+[Extended Data](ext_articles/90427872.ext.json)
+
+---
+
+### Transforming industries for economic revival: SLEA Annual International Conference 2024
+
+*2024-12-03 02:44:55* · [`dailyftlk`](https://www.ft.lk/business/Transforming-industries-for-economic-revival-SLEA-Annual-International-Conference-2024/34-770010) · `en`
+
+WBG Joint Country Representative for Sri Lanka and Maldives Gevorg Sargsyan
+
+The Sri Lanka Economic Association (SLEA) is set to host its Annual International Conference 2024, focusing on the theme “Transforming Industries for Economic Revival in Sri Lanka.”
+
+Scheduled for 6 and 7 December at the Sri Lanka Association for the Advancement of Science (SLAAS) Auditorium in Colombo, the event promises to be a platform for dynamic discussions and actionable insights to steer the nation towards sustainable economic recovery.
+
+...
+
+[Data](articles/6df71a94.json)
+
+[Extended Data](ext_articles/6df71a94.ext.json)
+
+---
+
+### Female-led NW Logistics  fuel station tops Colombo district with highest fuel sales
+
+*2024-12-03 02:38:08* · [`dailyftlk`](https://www.ft.lk/business/Female-led-NW-Logistics-fuel-station-tops-Colombo-district-with-highest-fuel-sales/34-770009) · `en`
+
+In a remarkable achievement that reflects both operational excellence and dedication, the NW Logistics and Management Ltd. fuel station, managed by Ninewells Hospital, has reached a significant milestone in fuel distribution. This station has attained the highest fuel sales within the Colombo district and the second-highest fuel sales across the entire island for October 2024. This success is even more noteworthy as the station is fully operated by a team of skilled and dedicated women, showcasing an inspiring commitment to inclusivity and empowerment.
+
+Within just one year in operation, NW Logistics has set a new benchmark in the industry, catering to an average daily sale of 25,000 litres of fuel. The station’s exceptional service and operational efficiency have attracted more than 50 corporate clients, underscoring its reputation as a trusted fuel provider.
+
+...
+
+[Data](articles/41e47bdc.json)
+
+[Extended Data](ext_articles/41e47bdc.ext.json)
+
+---
 
 ### Baurs celebrates 127 years of progressive growth and innovation
 
@@ -48,6 +196,8 @@ In 2021, Baurs took on the organic fertiliser challenge when the country decided
 
 [Data](articles/211bd925.json)
 
+[Extended Data](ext_articles/211bd925.ext.json)
+
 ---
 
 ### CTC honours excellence at annual Distributors Awards ceremony
@@ -61,6 +211,8 @@ The CTC annual Distributor Awards ceremony recognised the extraordinary commitme
 ...
 
 [Data](articles/82e8503a.json)
+
+[Extended Data](ext_articles/82e8503a.ext.json)
 
 ---
 
@@ -2281,167 +2433,5 @@ Several people have been arrested in the protest, accordingly, has been broken.
 [Data](articles/1264b0f9.json)
 
 [Extended Data](ext_articles/1264b0f9.ext.json)
-
----
-
-### One person killed in motorcycle accident
-
-*2024-12-02 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200215) · `ta`
-
-Motorcycle crash kills one on Elakanda-Negombo road. Rider loses control, hits power pole. Driver dies at Ragama Hospital.
-
-🟩
-
-One person was killed when a motorcycle crashed on Sunday (01) on Sunday (01) in the Elakanda -Negombo road.
-
-The motorcycle traveling from Elakandavu to Negombo has lost control of the speed and crashed into the power pole.
-
-The motorcycle driver died after being admitted to the Ragama Hospital and died without treatment.
-
-◼️
-
-[Data](articles/6d5f2c97.json)
-
-[Extended Data](ext_articles/6d5f2c97.ext.json)
-
----
-
-### Tense situation near Education Ministry
-
-*2024-12-02 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103925/tense-situation-near-education-ministry) · `en`
-
-A tense situation has been reported in front of the Ministry of Education at Isurupaya, Battaramulla as the police attempted to disperse protesting Development Officers.
-
-Meanwhile, several police officers have been injured during the incident, while three protestors have reportedly been taken into police custody.
-
-The Development Officers engaged in the demonstration demanding that they be made permanent in the teaching service.
-
-Earlier, it was reported that the Kottawa - Borella Road (174 bus route) was completely blocked for traffic in front of the Ministry of Education due to the protest by Development Officers.
-
-◼️
-
-[Data](articles/c7b8b919.json)
-
-[Extended Data](ext_articles/c7b8b919.ext.json)
-
----
-
-### The body of the person pulled by the first!
-
-*2024-12-02 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200211) · `ta`
-
-Body found after crocodile attack in Pottuvil, Ampara. Man dragged from river during buffalo crossing. Navy assisted police in search operation.
-
-🟩
-
-The body of a man who was dragged by the first of the crocodile rock in Pottuvil, Ampara, has been found, police said.
-
-Last week, police said they were informed that they had been informed of the crocodile dragging the man who had past the buffalo cows and crossed the river.
-
-Subsequently, the body of the Navy was found by the Navy, while police and Navy were involved in the search for the missing man, police said.
-
-◼️
-
-[Data](articles/a2857d1c.json)
-
-[Extended Data](ext_articles/a2857d1c.ext.json)
-
----
-
-### Warm states in dissolving protest in front of the Ministry of Education
-
-*2024-12-02 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203957) · `si`
-
-Police disperse protest near Ministry of Education. Several officers injured, three arrests made. Demonstrators demand government recruit school development officials. Protesters march from Battaramulla to Ministry of Education building.
-
-🟩
-
-The police have already taken steps to dissolve members of the Joint School Development Officer in front of the Ministry of Education.
-
-Several police officers were injured in heated condition and three demonstrators have been arrested.
-
-Joint School Development Officer Together a protest was organized in front of the Ministry of Pelawatta Education.
-
-The government is forced to recruit school development officials to the teachers.
-
-Protesters were protesting in front of the Ministry of Education from Battaramulla to the Ministry of Education.
-
-◼️
-
-[Data](articles/05ab4397.json)
-
-[Extended Data](ext_articles/05ab4397.ext.json)
-
----
-
-### Cabinet leak of the Katchativu Agreement and rescinded cabinet decision on Overseas Service
-
-*2024-12-02 13:19:00* · [`islandlk`](http://island.lk/cabinet-leak-of-the-katchativu-agreement-and-rescinded-cabinet-decision-on-overseas-service/) · `en`
-
-“The Prime Minister felt betrayed. She was embarrassed, bitter and angry. She was sensitive to Mrs. Gandhi’s feelings”
-
-Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-Mrs. Bandaranaike had an excellent grasp of foreign affairs. Foreign office veterans like Ambassadors Vernon Mendis, Arthur Basnayake and others would vouch for this. But Prime Ministers are extremely busy people, particularly when they also handled heavy Ministries such as Defence and Foreign Affairs, and Planning. When they sit down to three to four hours of concentrated work, in which time they deal with scores of files and hundreds of issues, they cannot be expected to be sensitive to every nuance.
-
-...
-
-[Data](articles/0f17f44a.json)
-
-[Extended Data](ext_articles/0f17f44a.ext.json)
-
----
-
-### Lohan and wife remanded again
-
-*2024-12-02 13:18:29* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-සහ-බිරිඳ-යළි-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-413396) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan ex-MP Lohan Ratwatte and wife remanded until June 6th. Case heard at Gangodawila Magistrate's Court on February 2nd.
-
-🟩
-
-Former MP Lohan Ratwatte and his wife remanded until the 6th.
-
-The case was taken up before the Gangodawila Magistrate's Court today (02).
-
-◼️
-
-[Data](articles/ee9b8810.json)
-
-[Extended Data](ext_articles/ee9b8810.ext.json)
-
----
-
-### National Elections 2024 – a harbinger of a new era
-
-*2024-12-02 13:16:00* · [`islandlk`](http://island.lk/national-elections-2024-a-harbinger-of-a-new-era/) · `en`
-
-(A member of the former Ceylon Civil Service and Retired Senior Professional of the Asian Development Bank, Manila, Philippines)
-
-The unparalleled victory of JVP/NPP in the national elections of November 14, 2024 has created an unprecedented sense of euphoria among Sri Lankans. This was no ordinary achievement as a lot of hard work went into changing the mindset of communities that had hitherto blindly followed the elitist policies of the major political parties. What led to this transformation?
-
-...
-
-[Data](articles/1062e9de.json)
-
-[Extended Data](ext_articles/1062e9de.ext.json)
-
----
-
-### Holding the government to account
-
-*2024-12-02 13:09:00* · [`islandlk`](http://island.lk/holding-the-government-to-account/) · `en`
-
-In his address to parliament last Thursday, Sri Lankan president Anura Kumara Dissanayake called for a political culture free of racism and divisiveness. He said that democracy does not mean forcing everyone to unite under a single umbrella, but rather letting diverse viewpoints and ethnic interests flourish against the backdrop of multi-party politics. “We do not advocate for one-party rule,” he declared. “It is the responsibility of our government to represent and address the needs and aspirations of all citizens – regardless of whether they voted for us or not.”
-
-...
-
-[Data](articles/f2c14ba7.json)
-
-[Extended Data](ext_articles/f2c14ba7.ext.json)
 
 ---

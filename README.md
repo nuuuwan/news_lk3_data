@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 10:27:43**
+As of **2024-12-02 09:42:54**
 
 ## Newspaper Stats
 
-*Scraped **57,976** Articles*
+*Scraped **57,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,187 +16,21 @@ islandlk | 3,487
 economynextcom | 3,517
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,472
-adaderanalk | 7,022
-tamilmirrorlk | 8,237
-virakesarilk | 9,489
-adaderanasinhalalk | 10,017
+adalk | 5,471
+adaderanalk | 7,020
+tamilmirrorlk | 8,234
+virakesarilk | 9,488
+adaderanasinhalalk | 10,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,973 (100.0%) of 57,976 articles have been extended.
+57,964 (100.0%) of 57,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### குரங்கு பறித்த குரும்பை விழுந்ததில் நபர் மரணம்
-
-*2024-12-02 10:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கு-பறித்த-குரும்பை-விழுந்ததில்-நபர்-மரணம்/175-348092) · `ta`
-
-குரங்கு பறித்த குரும்பை நபரொருவரின் கழுத்தில் விழுந்ததில், அந்த நபர் உயிரிழந்த சம்பவமொன்று புலத் கொஹுபிட்டிய, மேல் நியூஸ்மீர், பிரிவு இலக்கம் 3 இல்  இடம்பெற்றுள்ளது.
-
-ஒரு பிள்ளையின் தந்தையான 81 வயதான ஏ.ஜி.ஜயசேன  என்பவரே உயிரிழந்துள்ளார். வீட்டுக்கு அருகே இருக்கும் தென்னை மரங்களில் இருந்து விழுந்துகிடந்த தேங்காய்களை கடந்த 27ஆம் திகதியன்று பொறுக்கி கொண்டிருந்த போது,  தென்னை மரத்தில் இருந்து குரும்பை குரங்கு பிடிங்கியுள்ளது. அதன்போதே அந்த குரும்பை, அந்நபரின் கழுத்து பகுதியில் விழுந்துள்ளது.
-
-கழுத்தில் விழுந்தது. பின்னர் குறித்த நபர் கேகாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.இதற்கிடையில், அவர் தீவிர சிகிச்சை பிரிவில் சிகிச்சைக்காக பரிந்துரைக்கப்பட்டார்.
-
-நோயாளி கேகாலை வைத்தியசாலைக்கு மாற்றப்பட்டார். அங்கு  தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வந்த நிலையில், 29ஆம் திகதி உயிரிழந்தார்
-
-◼️
-
-[Data](articles/b0a49fac.json)
-
----
-
-### Joe Beidan forgives his son to his son
-
-*2024-12-02 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203948) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-US President Joe Biden pardons son Hunter Biden for tax evasion & gun charges. Conviction came under political pressure. Donald Trump criticizes decision, calling it unprecedented.
-
-🟩
-
-US President Joe Biden has issued an official announcement for pardon his son Hunter Biden.
-
-He had been convicted of misunderstanding and tax evasion.
-
-The punishment order was to be issued this month.
-
-However, the American President had said that he would not give a pardon for his son.
-
-However, President Joe Biden said he believed in the technique that he had believed in the US justice, but that the trial against his son was full of political pressure.
-
-The court criminal was found guilty in September last September last September and was found guilty of having a firearm in June last June.
-
-Donald Trump, who is elected to the next president, has been depressed by Joe Biden, criticizing Joe Biden's Decision to Forgive his son.
-
-The first opportunity of criminal charges against a child of Hunter Bidan's incident is the first time a child of an American president.
-
-◼️
-
-[Data](articles/9e1176d4.json)
-
-[Extended Data](ext_articles/9e1176d4.ext.json)
-
----
-
-### Upcountry train journey restored
-
-*2024-12-02 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203947) · `si`
-
-Train service resumes Haliela-Uduwara after weather-related disruption. Railway officials restore line, reopening at 2:30 PM.
-
-🟩
-
-The railway line between Haliela and Uduwara have reopened to the train.
-
-Due to the bad weather conditions that were affected by the Badulla-Colombo railway station, the train was stopped due to the fall.
-
-The road has been restored by the Railway Department officials.
-
-Therefore, it has been reported today (informed that the traffic has been opened again since the 2:30.
-
-◼️
-
-[Data](articles/24ee5866.json)
-
-[Extended Data](ext_articles/24ee5866.ext.json)
-
----
-
-### Biden says he has pardoned his son, Hunter
-
-*2024-12-02 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103913/biden-says-he-has-pardoned-his-son-hunter) · `en`
-
-U.S. President Joe Biden said on Sunday he had pardoned his son, Hunter Biden, who had been convicted of making false statements on a gun background check and illegally possessing a firearm and pled guilty to federal tax charges.
-
-“Today, I signed a pardon for my son Hunter. From the day I took office, I said I would not interfere with the Justice Department’s decision-making, and I kept my word even as I have watched my son being selectively, and unfairly, prosecuted,” he said in a statement released by the White House.
-
-The White House had said repeatedly that Biden would not pardon or commute the sentences of his son, a recovering drug addict who became a target of Republicans, including President-elect Donald Trump.
-
-“No reasonable person who looks at the facts of Hunter’s cases can reach any other conclusion than Hunter was singled out only because he is my son,” Biden said.
-
-...
-
-[Data](articles/d2b15bea.json)
-
----
-
-### Youth murdered by a sharp weapon
-
-*2024-12-02 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200192) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Youth, 17, arrested for murder with sharp weapon in Oyamaduwa-Navodagama area. Investigation ongoing.
-
-🟩
-
-A man was killed in a sharp weapon on Sunday (01) in the Oyamaduwa - Navodagama area.
-
-Investigations have revealed that the murder was attacked by a sharp weapon for violating the two men.
-
-A 17 -year -old youth from the same area has been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/c3620125.json)
-
-[Extended Data](ext_articles/c3620125.ext.json)
-
----
-
-### Sajith urges Japan to resume halted development projects in SL
-
-*2024-12-02 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103912/-sajith-urges-japan-to-resume-halted-development-projects-in-sl) · `en`
-
-Opposition Leader Sajith Premadasa has urged Japanese Ambassador to Sri Lanka, Akio Isomata, to resume development projects that were halted midway.
-
-A meeting between the Japanese ambassador Akio Isomata and the opposition leader Sajith Premadasa was held in Colombo where the opposition leader made this request, the opposition leader’s media division said.
-
-Sajith Premadasa has requested the ambassador to maintain the strong and long-standing diplomatic ties between Japan and Sri Lanka.
-
-The opposition leader has also called for the reimplementation of Japanese development projects that were previously carried out in Sri Lanka, stating that he will provide all the necessary support for their implementation.
-
-Dr. Kavinda Jayawardena representing the Samagi Jana Balawegaya (SJB) also attended the discussion.
-
-◼️
-
-[Data](articles/b1073012.json)
-
----
-
-### The price of coconut has touched the peak
-
-*2024-12-02 09:28:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-உச்சம்-தொட்டது/175-348087) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Coconut prices soar 200 rupees due to scarcity. Rice manufacturers claim total price exceeds government control, impacting retail costs.
-
-🟩
-
-Coconut prices have risen by up to 200 rupees due to shortage of coconuts in the market.
-
-The United Rice Manufacturers Association has pointed out that the total price of rice has increased over the government's control price for retail rice. Remble
-
-◼️
-
-[Data](articles/88148f1b.json)
-
-[Extended Data](ext_articles/88148f1b.ext.json)
-
----
 
 ### Announcement on LG Elections postponed until after A/L Exam
 
@@ -219,32 +53,6 @@ A final decision will also be made regarding the calling of the nominations rela
 ...
 
 [Data](articles/810c4e9b.json)
-
-[Extended Data](ext_articles/810c4e9b.ext.json)
-
----
-
-### The new Chief Justice today
-
-*2024-12-02 09:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-நீதியரசர்-இன்று-சத்தியப்பிரமாணம்/175-348086) · `ta`
-
-Sri Lanka: Supreme Court Justice Murdu Fernando sworn in as new Chief Justice today. Replaces Jayantha Jayasuriya. Appointed High Court Judge in 2018. Nominated by President Anura Kumara Dissanayake. Remble
-
-🟩
-
-Supreme Court Justice Murdu Fernando will be sworn in as the new Chief Justice of Sri Lanka today (02) in the presence of President Anura Kumara Dissanayake.
-
-Chief Justice Jayantha Jayasuriya retired, Murdh Fernando was nominated for the post.
-
-He joined the Attorney General's Department in 1985 and was promoted to the Deputy Solicitor General in 1997 and the Additional Solicitor General of 2014.
-
-He was appointed as the High Court Judge in March 2018 and was appointed as the Chief Justice on October 10, 2024.. Remble
-
-◼️
-
-[Data](articles/3951af36.json)
-
-[Extended Data](ext_articles/3951af36.ext.json)
 
 ---
 
@@ -853,8 +661,6 @@ INSEE Ecocycle, Sri Lanka’s pioneer in sustainable waste management, is contin
 ...
 
 [Data](articles/73b22f67.json)
-
-[Extended Data](ext_articles/73b22f67.ext.json)
 
 ---
 
@@ -1896,36 +1702,6 @@ The body has been placed in the funeral room of the Polgahawela Hospital and the
 
 ---
 
-### 330 elephants are dead from January 1 to November 30
-
-*2024-12-01 17:49:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-1-දා-සිට-නොවැම්බර්-30-දා-දක්වා-වන-අලි-330ක්-මැරිලා/11-413384) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-330 elephants killed Jan-Nov. Human-elephant conflict causes 400 annual deaths. Tourism impact: 47% visitors saw national parks. Wildlife Conservation protects 15% of land area.
-
-🟩
-
-According to January 1 this year, 330 people have died on Monday (30).
-
-Ali-human co-afforders are the death of a large number of elephants annually, the assets of the association, the shooting of the annual elephant deaths and the garment explosion of the annual elephants.Did.
-
-It was also the largest gains that had been assassinated in the area, the Vicious Gross and Walana, who had been living in the past two years, and the last two years of the past two years.Said.
-
-The Department of Wildlife Conservation and Government Institutions, including the Department of Ceylon Electricity Board and the Police, should be implemented with the Department of Wildlife Conservation, the Department of Wildlife Conservation and Police, including the Department of Wildlife and Police.
-
-In view of the past five years, approximately four hundred elephants have died a year, the human-elephant conflict has occurred about 100 and nearly 100 years a year a year.
-
-...
-
-[Data](articles/2fa1059f.json)
-
-[Extended Data](ext_articles/2fa1059f.ext.json)
-
----
-
 ### A man arrested with ice drugs in Kalkisa
 
 *2024-12-01 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200140) · `ta`
@@ -2439,5 +2215,237 @@ The patriarchal North and East nationalist politics is in a state of disrepair. 
 [Data](articles/b1bfe996.json)
 
 [Extended Data](ext_articles/b1bfe996.ext.json)
+
+---
+
+### Audit reveals how railway drivers paid oddly from 2007
+
+*2024-12-01 15:56:30* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්ට-2007-සිට-අමුතු-විදිහට-අතිකාල-ගෙවූ-හැටි-විගණනයකින්-හෙළිවෙයි/11-413378) · `si`
+
+Railway driver pay audit reveals discrepancies from 2007. Drivers worked over 42 hours weekly but received minimal compensation. Audit highlights incorrect documentation and unpaid overtime. Railway department must address these issues to prevent future violations and resolve ongoing union disputes.
+
+🟩
+
+The train drivers are based on the week, more than 42 hours of service, more than 42 hours of service, the 2023 Audit Report regarding the weekly reduction in the week.
+
+The Railway Staff (START) in Chapter 5.6, 2007, the General Manager of Railways and Vligibility, the Railway Staff is issued on January 4/20/20/2/68.Furthermore is mentioned.
+
+The Audit Report has also instructed the provisions of the Establishments Code and the General Manager's General Manager Circular.
+
+In addition, the Railway Department has ordered that the Railway Department has ordered the arrival and exit of the Railway Drivers as instructed by the Public / Administrative Circular No. 09/2009, 2009, 2009.The audit report states that steps were not listed in markers.
+
+The audit report has pointed out that the arrival and exit and the arrival of arrival documents have been incorrect.
+
+The number of Rs.Is.
+
+9,23,98,532 per officer in 2021, 2023 and 2023 was paid only Rs. 5 / - per month alone.Happened.
+
+...
+
+[Data](articles/fea0b77d.json)
+
+[Extended Data](ext_articles/fea0b77d.ext.json)
+
+---
+
+### For conservation of the head part of the gate, the stomach Rs. 10 The coin is rescued from the tail
+
+*2024-12-01 15:40:52* · [`adalk`](https://www.ada.lk/picture_story/දීග-දන්තුගේ-හිස-කොටස-සංරක්ෂණයට--උදරයේ-රු--10-කාසියක්--වල්ගයේ-කෙදිත්-ගලවාගෙන-ගිහින්/10-413377) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wildlife officials conserved elephant head after death. Post-mortem revealed cause: electrocution. A 10-rupee coin was found in the abdomen during the exam. The incident occurred during the rainy season in Anuradhapura.
+
+🟩
+
+Steps have been taken to conserve the gross bulk of the office and the head section of the death part of the Dangerous Handuruard and the head part.
+
+That was, the head of the animal was taken to Galkadiyagama forest residents from the trunk of the country.. Wildlife officials have taken measures to separate the head part of the gross death of the animal from the trunk after the post mortem examination.
+
+Gaskiyagama Forests have been taken to the security office safely. Wildlife officials stated that the head of the head is to be recovered in the future to remove the enemy of elephant.
+
+The post mortem was said that the death inspection was confirmed by the death of the animal due to a electricity failure due to a electricity failure.
+
+The manager of an insurance company to be remanded until the 12th of this month, he was produced before the Kekirawa Magistrate's Court to be remanded until the 12th of this month.
+
+...
+
+[Data](articles/c6ed0b7b.json)
+
+[Extended Data](ext_articles/c6ed0b7b.ext.json)
+
+---
+
+### Repeat MP Pension Loading Bill
+
+*2024-12-01 15:30:08* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-විශ්‍රාම-වැටුප්-අහිමි-කිරීමේ-පනත්-කෙටුම්පත-ළගදීම/11-413376) · `si`
+
+Sri Lanka: Pension reform bill passes. Minister Wasantha Samarasinghe abolishes MP Savings Commission. No government housing for leaders. Focuses on affordable housing for citizens.
+
+🟩
+
+Minister Wasantha Samarasinghe says that the abolition of the Pension Savings Commission of All Members of Parliament will be passed away soon.
+
+The Minister was speaking at the opening ceremony of the Anuradhapura Public Coordinator in Anuradhapura in Anuradhapura in the 55 houses in Anuradhapura.
+
+The Minister said that the President or the Prime Minister do not use any government housing. Minister Wasantha Samarasinghe said that he was addressing the group.
+
+"Former ministers have houses houses, no one of our ministers have been asked for homes and give me three vehicles from Madiwela MP's housing schedule.
+
+But I don't use anything. The Minister said that the pension is abolished if the salary owners. Speaking to the media that the customer should arise in Sri Lanka without exploitation.
+
+◼️
+
+[Data](articles/fa889501.json)
+
+[Extended Data](ext_articles/fa889501.ext.json)
+
+---
+
+### Will the Mawadipalli disaster pass like a lowly?
+
+*2024-12-01 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200154) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+The Mawadipalli disaster raises questions about government responsiveness. Will it be just another forgotten incident? Or will officials take concrete action to address infrastructure issues and prevent future disasters? Only time will tell if this tragedy will spark meaningful change or fade away like a breeze.
+
+🟩
+
+In the case of difficulties, the bridge will be talked about and the rehabilitation of the road will be overcome after the river floods.. Will politicians and officials be concerned even after this time, or will this time pass like a windmill?
+
+◼️
+
+[Data](articles/193cfe9f.json)
+
+[Extended Data](ext_articles/193cfe9f.ext.json)
+
+---
+
+### A man killed in a sharp weapon in Kadirgama!
+
+*2024-12-01 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200146) · `ta`
+
+Man killed with sharp weapon in Kadirgama dispute resolution gone wrong. Suspects identified, police investigation ongoing.
+
+🟩
+
+One person was assaulted by a sharp weapon on Saturday (30) in the Kadirgamam Koombathikana area to go to the Kadirgamam police division.
+
+While staying at the relative's house, some people who had a dispute with the owner of the house had attacked the man, police said.
+
+Investigations have revealed that he was attacked by sharp weapons when he was trying to resolve the conflict and killed the suspects and fled the area.
+
+The suspects have been identified and the Kadirgamam police are involved in the arrest of them.
+
+◼️
+
+[Data](articles/70fa7e13.json)
+
+[Extended Data](ext_articles/70fa7e13.ext.json)
+
+---
+
+### Increase in prices of vegetables: Throwing in the trash
+
+*2024-12-01 15:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிகளின்-விலை-அதிகரிப்பு-குப்பையில்-வீசவேண்டிய-நிலை/76-348049) · `ta`
+
+Vegetable prices surge amid heavy rains, impacting sales and consumer behavior. Green chili prices jump from 650 to 750 Rupees per kg, affecting market demand and trader profits.
+
+🟩
+
+Heavy rains in many parts of the country have suddenly increased the price of vegetables across the country.
+
+In this case, the price of a kilogram of green chilli has risen from Rs 650 to 750 and a kilogram of green chillies at 1200 to 1300 rupees and other vegetable prices are high as the prices of vegetables are increasing day by day.It is reported to be facing.
+
+Most people coming to Nuwara Eliya Central Market are avoiding buying vegetables due to a rise in vegetable prices
+
+In addition, the number of consumers has declined drastically, and the traders who do not business have been dilapidated after two to three days, causing a massive loss, and the vegetable traders have to be dumped daily.
+
+◼️
+
+[Data](articles/34d99894.json)
+
+[Extended Data](ext_articles/34d99894.ext.json)
+
+---
+
+### Investigating Prabhakaran's birthday
+
+*2024-12-01 15:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனின்-பிறந்த-நாளை-கொண்டாடிய-அறுவரிடம்-விசாரணை/175-348048) · `ta`
+
+Prabhakaran's birthday celebration investigated by Valvettithurai police. LTTE leader's image removed at request. Organizers hid it, advanced event. Police invited MK Sivajilingam to vote, received sources from attendees.
+
+🟩
+
+Liberation Tigers of Tamil Eelam (LTTE). Valvettithurai police are conducting investigations into the incident of Prabhakaran's birthday.
+
+LTTE leader Way on the 26th. On the occasion of Prabhakaran's birthday, the former member of the Northern Provincial Council, MK Sivajilingam, was organized by the LTTE leader's ancestral house.
+
+The Valvettithurai police, who were present at the event, advised the LTTE leader to remove the image of the LTTE leader.
+
+Following that, the organizers hid the image of the LTTE leader and advanced the event.
+
+When the police station invited Sivajilingam to vote for the event, the police had gone to Sivajilingam's house and received voting sources after the police informed the police that he could not visit.
+
+Meanwhile, police sources say that the police have received voting sources to the six people who attended the birthday party.
+
+◼️
+
+[Data](articles/12313cad.json)
+
+[Extended Data](ext_articles/12313cad.ext.json)
+
+---
+
+### One arrested with heroin in Moratuwa
+
+*2024-12-01 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200142) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Arrest made in Moratuwa: Police detained a suspect in Lunawa on Saturday based on tip-off. 460mg heroin seized.
+
+🟩
+
+A suspect in the Lunawa area of ​​the Moratuwa police division has been arrested by police on Saturday (30).
+
+He was arrested during a roundup on the basis of confidential information received by the Moratuwa police station.
+
+460 milligrams of heroin from the suspect have been seized by the police.
+
+◼️
+
+[Data](articles/190dba68.json)
+
+[Extended Data](ext_articles/190dba68.ext.json)
+
+---
+
+### 12 floods affected by Thailand and Malaysia
+
+*2024-12-01 15:00:56* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයට-සහ-මැලේසියාවට-බලපෑ-ගංවතුරෙන්-12-දෙනෙකු-මරුට/11-413375) · `si`
+
+Thailand & Malaysia floods: 12 deaths, 122k displaced. Authorities warn of increased rainfall.
+
+🟩
+
+12 people died due to floods affected by Malaysia and Thailand.
+
+More than 122,000 people have been displaced in northern Malaysia, and 13,000 IDPs have been displaced.
+
+The authorities of the two countries have warned that the amounts of rain and rains and storms will be increased.
+
+◼️
+
+[Data](articles/4f268114.json)
+
+[Extended Data](ext_articles/4f268114.ext.json)
 
 ---

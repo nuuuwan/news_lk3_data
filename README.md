@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 15:01:59**
+As of **2024-12-02 15:42:35**
 
 ## Newspaper Stats
 
-*Scraped **58,035** Articles*
+*Scraped **58,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,490
 economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,481
+adalk | 5,482
 adaderanalk | 7,034
 tamilmirrorlk | 8,249
 virakesarilk | 9,497
@@ -26,79 +26,123 @@ adaderanasinhalalk | 10,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,024 (100.0%) of 58,035 articles have been extended.
+58,034 (100.0%) of 58,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### අපේක්ෂකයින්ගේ ආදායම් විදයම් වාර්තා ගැන මැතිවරණ කොමිසමෙන් නිවේදනයක්
+### Elections Commission announced on income scale income reports of candidates
 
 *2024-12-02 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203959) · `si`
 
-පාර්ලිමේන්තු මැතිවරණයට ඉදිරිපත් වූ අපේක්ෂකයින්, අපේක්ෂකයින් නියෝජනය කරන ලද පක්ෂවල ලේකම්වරුන් සහ ස්වාධීන කණ්ඩායම් නායකයින් විසින් සිය ආදායම් වියදම් වාර්තා එළැඹෙන 06 වැනි දින භාර දිය යුතු බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Here's a summary of 200 characters:
 
-නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව සඳහන් කර ඇත්තේ එදින රාත්‍රී 12.00ට පෙර හෝ ඊට ප්‍රථම එම වාර්තා වෙන් වෙන්ව සකස් කර අපේක්ෂකයින් තරග කරන ලද දිස්ත්‍රික්කවල තේරිම්භාර නිලධාරීන් වෙත භාර දිය යුතු බවය.
 
-එමෙන්ම ජාතික ලැයිස්තු අපේක්ෂකයින් සිය ආදායම් වියදම් වාර්තා මැතිවරණ මහලේකම් කාර්යාලය වෙත භාර දිය යුතු බවත් මැතිවරණ කොමිසම පවසයි.
 
-තවද අපේක්ෂකයින්ට සහ අපේක්ෂකයින් නියෝජනය කරන ලද පක්ෂවල ලේකම්වරුන්ට ස්වාධීන කණ්ඩායම් නායකයින්ට සහ ජාතික ලැයිස්තු අපේක්ෂකයින්ට මැතිවරණ ආදායම් වියදම් වාර්තා භාර දීමට හැකිවන පරිදි සාමාන්‍ය රාජකාරී දිනවල පස්වරු 6.00 දක්වා සහ එලැඹෙන 06 වැනි දින මධ්‍යම රාත්‍රී 12.00 දක්වා සියලුම දිස්ත්‍රික්කවල මැතිවරණ ආදායම් වියදම් වාර්තා භාර ගැනීමේ විශේෂ ඒකක විවෘතව තැබීමටද කටයුතු කර තිබේ.
+Elections Commission announces income reports deadline for candidates and party officials. National list candidates must submit reports to Elections Secretariat. Legal action threatened under Election Act for non-compliance.
 
-...
+🟩
+
+The Elections Commission says that the secretaries and independent group leaders of the parties representing the parliamentary elections should be handed over by the secretaries and independent group leaders.
+
+The Commission issued an announcement, the commission should be handed over to the officers who were contesting and the candidates who were contesting before 12.00 pm.
+
+The Elections Commission says national list candidates should be handed over to the Elections Secretariat reports.
+
+Special units for independent groups and national list candidates to be handed over to the secretaries of the parties and the party's secretaries to the secretaries representing the candidates and the candidates.Steps have been taken to put it.
+
+The Elections Commission states that the legislation under the Election of Elections Act is also a serious deal of legal action.
+
+◼️
 
 [Data](articles/1f9acdc2.json)
 
+[Extended Data](ext_articles/1f9acdc2.ext.json)
+
 ---
 
-### “எனக்கு VIP கதிரை வேண்டாம்”
+### "I don't want VIP to the Qad"
 
 *2024-12-02 14:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனக்கு-VIP-கதிரை-வேண்டாம்/175-348116) · `ta`
 
-அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள் வருகின்றார்கள் என்பதற்காக, இதற்குப் பிறகு எந்தக் கூட்டத்துக்கும் தேவையில்லாத செலவு செய்யாதீர்கள். எனது அனைத்து நிகழ்வுகளின் செலவைக் குறைப்பது குறித்து நிறுவனங்களுக்குத் தெரிவிக்க தயாராகி வருகிறேன். VIP (விசேட பிரமுகர்கள்)  அமர்வதற்காக கதிரைகளை எமக்கு கொண்டு வர வேண்டாம். நாங்கள் சாதாரண பிளாஸ்டிக் கதிரைகளில் அமர்ந்தவர்கள். அந்த கதிரைகள் போதும்  என பொதுநிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர்  சந்தன அபேரத்ன தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-புத்தளம் மாவட்ட இலக்கிய விழாவிற்காக ஆனமடுவ சுதம்பாய மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்த கூட்டத்தில் கலந்து கொண்டு அமைச்சர் இதனை தெரிவித்தார்.
 
-இந்த அரச இலக்கிய விழா வடமேல் மாகாண ஆளுநர்  திஸ்ஸ வர்ணசூரிய தலைமையில் புத்தளம் மாவட்ட செயலாளர்  எச்.எம்.எஸ்.பி.ஹேரத் உட்பட புத்தளம் மாவட்ட செயலகத்தின் ஏற்பாட்டில் இடம்பெற்றது.
 
-...
+Minister Chandana Abeyratne opposes VIP treatment at events. He emphasizes cost-effectiveness, saying officials use ordinary seating. The statement was made during the Puttalam District Literary Festival.
+
+🟩
+
+Do not spend any unnecessary spending after ministers and parliamentarians.. I am ready to report to companies about the cost of all my events. VIP (Special Persons) Do not bring us the rays to sit. We are sitting on ordinary plastic rays. Provincial Councils and Local Government Minister Chandana Abeyratne said that the rays were enough.
+
+The Minister made this observation at the meeting held at the Anamaduwa Sudambaya Hall for the Puttalam District Literary Festival.
+
+The State Literary Festival was organized by the Puttalam District Secretariat, including Puttalam District Secretary HMSP Herath.
+
+The Minister, as a public administration, is not an unfamiliar territory to us.. So, no show is unnecessarily expensive and wants to waste money.
+
+The literary event was awarded the Kalatini Award to 11 people who showcased the four journalists in various fields, including Rex Harrison, Vilama Sena Namuni, Padma Kumari and Fernando Point, from Puttalam district.
+
+◼️
 
 [Data](articles/b4b211e4.json)
 
+[Extended Data](ext_articles/b4b211e4.ext.json)
+
 ---
 
-### மாத்தறையில் கார் விபத்து ; மூவர் காயம் !
+### Car accident in Matara;The trio is hurt!
 
 *2024-12-02 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200221) · `ta`
 
-மாத்தறை - அக்குரெஸ்ஸ பிரதான வீதியில் ராஹூல சந்திக்கு அருகில் இடம்பெற்ற விபத்தில் மூவர் காயமடைந்துள்ளதாக மாத்தறை பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-சாரதியின் கட்டுப்பாட்டை இழந்த கார் ஒன்று வீதியை விட்டு விலகி மின்கம்பத்தில் மோதியதில் இந்த  விபத்து இடம்பெற்றுள்ளது.
 
-விபத்தின் போது காரில் பயணித்த மூவர் காயமடைந்துள்ள நிலையில் மாத்தறை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+"3 injured in Matara car crash: Accident near Rahula junction on Matara-Akuresa road. Car lost control, hit wiring. Victims hospitalized at Matara General Hospital."
+
+🟩
+
+Three persons were injured in an accident near the Rahula junction on the Matara- Akuresa main road, Matara police said.
+
+The accident occurred when a car lost control of the driver and crashed into the wiring.
+
+Three people who were traveling in the car were injured during the accident and have been admitted to the Matara General Hospital.
 
 ◼️
 
 [Data](articles/ef9a885f.json)
 
+[Extended Data](ext_articles/ef9a885f.ext.json)
+
 ---
 
-### මහවිරු සැමරුම් ප්‍රචාරය කිරීමේ චෝදනාවට අත්අඩංගුවට ගත් අයෙකුට ඇප
+### A suspect arrested for propaganda ceremony
 
 *2024-12-02 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203958) · `si`
 
-එල්.ටී.ටී.ඊ. මහවිරු දින උත්සව සැමරුම් ප්‍රචාර සිදුකළ චෝදනාවට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කැළුම් හර්ෂණ නැමැත්තාට කොටුව ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය ඇප ලබාදී තිබේ.
+Suspect arrested for propagating LTTE ceremonies. Three individuals from Maradana, Chunnakam, and Baddegama bailed due to lack of evidence. Charged with circulating LTTE-related content on Facebook during Mahaveera Celebrations. Case involves promoting activities of a banned organization online.
 
-මෙහිදී අදහස් දක්වමින් නීතිඥ මනෝජ් ගමගේ මහතා පවසා සිටියේ, ත්‍රස්තවාදය ප්‍රවර්ධනය කිරීමක් අදාළ චෝදනා තුළ දක්නට නොලැබෙන බව පවසමින් අධිකරණය සැකකරුට ඇප ලබාදුන් බවය.
+🟩
 
-මහජනයා නොසන්සුන් කිරීම සම්බන්ධව සැකකරුවන් තිදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පසුගිය 30 වනදා අත්අඩංගුවට ගෙන තිබුණි.
+The LTTE.. The Fort Chief Magistrate's Court has been granted bail to the Keek Harror on the courts.
 
-පොලීසිය පැවසුවේ අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 28, 35 හා 45 වයස්වල පසුවන මරදාන, චුන්නාකම් හා බද්දේගම ප්‍රදේශවල පදිංචිකරුවන් බවය.
+Attorney-at-law Manoj Gamage said he was bailed to the suspect saying he was not found in the charges.
 
-සැකකරුවන් දිවයිනේ තහනම් සංවිධානයක් වන එල්.ටී.ටී.ඊ සංවිධානයේ නායක වන වේලුපිල්ලේ ප්‍රභාකරන්ගේ රුව සහිත ජායාරූප හා වීඩියෝපට ෆේස්බුක් සමාජ ජාලා ගිණුමක් මඟින් සංසරණය කිරීම මෙන්ම මීට පෙර වර්ෂයන්වලදී එල්.ටී.ටී.ඊ සංවිධානයේ මහාවිරු සැමරුම්වලදී ලබාගත් පැරණි වීඩියෝපට මෙම වර්ෂයේ සිදුකරන ලද සැමරුම් ලෙස හුවා දක්වමින් ෆේස්බුක් සමාජ මාධ්‍යජාලයේ සංසරණය කිරීම යන චෝදනාවන් ඔවුන්ට එල්ල වී තිබුණි.
+Three suspects have been arrested by the CID on the 30th of this month.
 
-...
+Police said that the suspects were residents of Maradana, Chunnakam and Baddegama areas.
+
+The suspects have been circulated by the LTTE, the leader of the LTTE, the leader of the LTTE, Valeupilla Prabhakaran in the island, and the old Vidyport, who has obtained the LTTE, has been done this year to the old videos obtained in the Mahavairu Celebrations of the LTTE in the years.They were charged with circulation of Facebook, highlighting as celebrations.
+
+Accordingly, the suspects were arrested in terms of the temporary arrangement of false advertisements and advertising on the Internet to promote the activities of the Internet and promote the activities of a banned organization.Had been taken.
+
+◼️
 
 [Data](articles/e90b0223.json)
+
+[Extended Data](ext_articles/e90b0223.ext.json)
 
 ---
 
@@ -228,23 +272,29 @@ Subsequently, the body of the Navy was found by the Navy, while police and Navy 
 
 ---
 
-### අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට විරෝධතාවය විසුරුවාහැරීමේදී උණුසුම් තත්ත්වයක්
+### Warm states in dissolving protest in front of the Ministry of Education
 
 *2024-12-02 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203957) · `si`
 
-අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට විරෝධතාවයේ නිරත වූ ඒකාබද්ධ පාසල් සංවර්ධන නිලධාරී එකමුතුවේ සාමාජිකයින් විසුරුවා හැරීම සඳහා පොලීසිය මේ වනවිට කටයුතු කර තිබේ.
+Police disperse protest near Ministry of Education. Several officers injured, three arrests made. Demonstrators demand government recruit school development officials. Protesters march from Battaramulla to Ministry of Education building.
 
-උණුසුම් තත්ත්වය අතරතුර පොලිස් නිලධාරීන් කිහිපදෙනෙකු තුවාල ලබා ඇති අතර, උද්ඝෝෂකයින් තිදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-ඒකාබද්ධ පාසල් සංවර්ධන නිලධාරී එකමුතුව පැලවත්ත අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට අද දහවල් විරෝධතාවක් සංවිධාන කර තිබුණි.
+The police have already taken steps to dissolve members of the Joint School Development Officer in front of the Ministry of Education.
 
-ඒ, පාසල් සංවර්ධන නිලධාරීන් වහා ගුරුසේවයට බඳවා ගන්නා ලෙස රජයට බලකරමිනි.
+Several police officers were injured in heated condition and three demonstrators have been arrested.
 
-බත්තරමුල්ලේ සිට අධ්‍යාපන අමාත්‍යාංශය වෙත පාගමනින් පැමිණි විරෝධතාකරුවන් අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට විරෝධතාවයේ නිරත වුණි.
+Joint School Development Officer Together a protest was organized in front of the Ministry of Pelawatta Education.
+
+The government is forced to recruit school development officials to the teachers.
+
+Protesters were protesting in front of the Ministry of Education from Battaramulla to the Ministry of Education.
 
 ◼️
 
 [Data](articles/05ab4397.json)
+
+[Extended Data](ext_articles/05ab4397.ext.json)
 
 ---
 
@@ -263,6 +313,30 @@ Mrs. Bandaranaike had an excellent grasp of foreign affairs. Foreign office vete
 [Data](articles/0f17f44a.json)
 
 [Extended Data](ext_articles/0f17f44a.ext.json)
+
+---
+
+### Lohan and wife remanded again
+
+*2024-12-02 13:18:29* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-සහ-බිරිඳ-යළි-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-413396) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan ex-MP Lohan Ratwatte and wife remanded until June 6th. Case heard at Gangodawila Magistrate's Court on February 2nd.
+
+🟩
+
+Former MP Lohan Ratwatte and his wife remanded until the 6th.
+
+The case was taken up before the Gangodawila Magistrate's Court today (02).
+
+◼️
+
+[Data](articles/ee9b8810.json)
+
+[Extended Data](ext_articles/ee9b8810.ext.json)
 
 ---
 
@@ -428,33 +502,49 @@ Former Minister of State Lohan Ratwatta and his wife Shashi Prabha Ratwatta have
 
 ---
 
-### රත්වත්තේ යුවළ යළි රිමාන්ඩ්
+### Ratwatte couple remanded again
 
 *2024-12-02 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203956) · `si`
 
-හිටපු අමාත්‍ය ලොහාන් රත්වත්තේ සහ ඔහුගේ බිරිඳ දෙසැම්බර් 6 වනදා දක්වා යළි රිමාන්ඩ් බන්ධනාගාර ගත කර තිබේ.
+Here's a summary of 200 characters:
 
-නීතිවිරෝධී ලෙස එකලස් කර ඇති බවට සැලකෙන සුඛෝපභෝගී මෝටර් රථයක් සන්තකයේ තබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් ඔවුන්ව අත්අඩංගුවට ගැනුණි.
+
+
+Lohan Ratwatte, former minister, and his wife remanded until Dec 6. Arrested over illegally assembled luxury car.
+
+🟩
+
+Former Minister Lohan Ratwatte and his wife further remanded until December 6.
+
+They were arrested in connection with a luxury car that is considered illegally assembled.
 
 ◼️
 
 [Data](articles/a559ed47.json)
 
+[Extended Data](ext_articles/a559ed47.ext.json)
+
 ---
 
-### උද්ඝෝෂණයෙන් 174 බස් මාර්ගය ඉසුරුපායෙන් අවහිර වෙයි
+### 174 bus route bloom from the aging
 
 *2024-12-02 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203955) · `si`
 
-ඉසුරුපාය ඉදිරිපිට පැවැත්වෙන උද්ඝෝෂණයක් හේතුවෙන් බොරැල්ල - කොට්ටාව 174 බස් මාර්ගය සම්පූර්ණයෙන් ම අවහිර වී තිබේ.
+174 bus route blocked due to protest near Isurupaya. Protesters, including school development officials, demand attachment to schools and confirmation of work.
 
-අප වාර්තාකරු පැවසුවේ පාසල් වල ඉගැන්වීම් කරනු ලබන සංවර්ධන නිලධාරීන් විසින් මෙම උද්ඝෝෂණය සංවිධානය කර ඇති බවයි.
+🟩
 
-ඔවුන් ඉල්ලා සිටින්නේ තමන් ව ගුරුසේවයට අනුයුක්ත කර සේවයේ ස්ථීර කරන ලෙසයි.
+The Bus Galle - Kottawa 174 is completely blocked due to the protest in front of Isurupaya.
+
+Our correspondent said that the protest was organized by development officials who teach schools.
+
+They are demanding that they attach themselves to the school and confirm the work.
 
 ◼️
 
 [Data](articles/34986097.json)
+
+[Extended Data](ext_articles/34986097.ext.json)
 
 ---
 
@@ -474,21 +564,37 @@ The Development Officers are engaged in the demonstration demanding that they be
 
 ---
 
-### කෝටි දෙකක පිළිම සොරකම
+### The statue of two crores
 
 *2024-12-02 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203954) · `si`
 
-රුපියල් කෝටි දෙකකට අධික වටිනාකමකින් යුත් මකර තොරණ සහිත ඉපැරණි ලෝහමය බුදුපිළිමයක් සොරකම් කළ ස්වාමීන් වහන්සේ දෙනමක් සහ සංචාරක හෝටලයක හිමිකරුවෙක් මාවනැල්ල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-සැකකරුවන් විසින් මෙලෙස සොරකම් කර තිබුණේ කරහම්පිටිගොඩ ඛෙත්තාරාම පුරාණ විහාරස්ථානයේ තැන්පත්කර තිබූ ලෝහමය බුදුපිළිමයකි.
 
-මාවනැල්ල දෙවනගල ඓතිහාසික රජමහා විහාරස්ථානයට අයත් කරහම්පිටිගොඩ ඛෙත්තාරාම පුරාණ විහාරස්ථානයේ තැන්පත්කර තිබූ රුපියල් කෝටි දෙකකට අධික වටිනාකමකින් යුත් මකර තොරණ සහිත ඉපැරණි ලෝහමය බුදුපිළිමයක් කිසියම් පිරිසක් සොරකම් කර ඇති බවට දෙවනගල රජමහා විහාරාධිපති පූජ්‍ය මැදිරිගිරියේ පුඤ්ඤසාර හිමි විසින් පසුගියදා මාවනැල්ල පොලිසියට පැමිණිල්ලක් සිදුකර තිබුණි.
 
-ඒ අනුව සබරගමුව පළාතභාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති සංජීව ධර්මරත්න මහතා විසින් සොරකම පිළිබඳ විමර්ශන කෑගල්ල කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශය වෙත පවරනු ලැබීය.
+Ancient metallic Buddha statue worth Rs. 2 crore stolen from Karambithigoda temple. Suspects arrested, including a monk from Dompe Viharaya. Two cars seized, case filed in Mawanella Magistrate's Court. Investigation led by Senior DIG Sabaragamuwa Province.
 
-...
+🟩
+
+A total of the ancient metallic Buddha statue of over Rs.
+
+The suspects had been stolen from the metal Buddha statue placed in Karambithigoda, Karambithigoda, Karahampritigigama Ancient Viharaya.
+
+Palagala Rajamaha Viharaya has lodged a complaint with the Mawampiriya Police that a group of over Rs.
+
+Accordingly, Senior DIG Sabaragamuwa Province Senior DIG Sanjeewa Dharmaratne was assigned to the Memorial Investigation Kegalle Divisional Secretariat.
+
+Subsequent investigation, a 28-year-old monk in the temple in Kimbulwilawatta, Kandy, has been arrested by a 28-year-old monk in Kimbulwilawatta, Kandy.
+
+The robbery had been revealed according to the monk of the Dompe Viharaya.
+
+Police have also seized two cars used for theft and the suspects are to be produced before the Mawanella Magistrate's Court.
+
+◼️
 
 [Data](articles/28e3dda5.json)
+
+[Extended Data](ext_articles/28e3dda5.ext.json)
 
 ---
 
@@ -2243,23 +2349,5 @@ The importance of fostering SMEs and entrepreneurship is not new to Sri Lanka. T
 [Data](articles/335b4620.json)
 
 [Extended Data](ext_articles/335b4620.ext.json)
-
----
-
-### Sandamini Perera shines in EY Winning Women – Class of 2024
-
-*2024-12-02 00:41:50* · [`dailyftlk`](https://www.ft.lk/business/Sandamini-Perera-shines-in-EY-Winning-Women-Class-of-2024/34-769943) · `en`
-
-Prime Group and Prime Lands Residencies Co-founder and Executive Chairperson Sandamini Perera
-
-The EY Entrepreneurial Winning Women Asia-Pacific Conference recently took place in Kuala Lumpur, Malaysia.
-
-The event brought together inspiring women entrepreneurs under the theme “Future Focused,” exploring key topics such as AI, global expansion, and talent challenges. It provided a valuable platform for networking and knowledge sharing, featuring notable speakers, including Selyn Exporters Founder Sandra Wanduragala, and Director of Business Development Selyna Peiris, from Sri Lanka.
-
-...
-
-[Data](articles/0602f4e9.json)
-
-[Extended Data](ext_articles/0602f4e9.ext.json)
 
 ---

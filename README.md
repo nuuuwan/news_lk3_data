@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 09:33:14**
+As of **2024-12-02 09:42:54**
 
 ## Newspaper Stats
 
-*Scraped **57,966** Articles*
+*Scraped **57,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,517
 dailyftlk | 4,003
 dailymirrorlk | 4,733
 adalk | 5,471
-adaderanalk | 7,019
+adaderanalk | 7,020
 tamilmirrorlk | 8,234
 virakesarilk | 9,488
 adaderanasinhalalk | 10,015
@@ -26,11 +26,35 @@ adaderanasinhalalk | 10,015
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,961 (100.0%) of 57,966 articles have been extended.
+57,964 (100.0%) of 57,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### Announcement on LG Elections postponed until after A/L Exam
+
+*2024-12-02 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103911/announcement-on-lg-elections-postponed-until-after-al-exam) · `en`
+
+It is reported that the announcement regarding the upcoming Local Government (LG) Elections will be issued after the conclusion of the 2024 G.C.E. Advanced Level Examination.
+
+The Election Commission stated that if the announcement is made beforehand, candidates may begin their campaigns during the exam period,
+
+Accordingly, it has been decided not to release the announcement regarding the election until the examination is over as it will disrupt the examination
+
+Due to adverse weather conditions, the examination was postponed for several days, but the relevant activities are expected to resume this week.
+
+Meanwhile, a meeting of party leaders regarding the LG Elections is scheduled for tomorrow (3).
+
+This meeting, which will be chaired by the Leader of the House, Bimal Rathnayake, is scheduled to be held tomorrow afternoon.
+
+A final decision will also be made regarding the calling of the nominations related to the LG Elections again.
+
+...
+
+[Data](articles/810c4e9b.json)
+
+---
 
 ### Weather
 
@@ -66,29 +90,41 @@ The Department of Meteorology has announced that the sea will be temporarily blo
 
 ---
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### Fatal accidents that have been killed
 
 *2024-12-02 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203946) · `si`
 
-ප්‍රදේශ කිහිපයක දී ඊයේ (01) සිදුවූ යතුරු පැදි අනතුරු වලින් පුද්ගලයින් තිදෙනෙකු සහ කාන්තාවක් මියගොස් තිබේ.
+Here's a summary of the fatal motorcycle accidents in approximately 200 characters:
 
-මෙම අනතුරු සිදුව ඇත්තේ සීදූව, පමුණුගම, ඇඹිලිපිටිය සහ කඩවත යන ප්‍රදේශවල බව පොලීසිය පවසයි.
 
-ඊයේ පස්වරුවේ කොළඹ - මීගමුව මාර්ගයේ ලියනගේමුල්ල ප්‍රදේශයේදී මීගමුව දෙස සිට කොළඹ දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන විදුලි රැහැන් කණුවක ගැටී අනතුරක් සිදුව ඇත.
 
-අනතුරින් බරපතල තුවාල ලැබූ යතුරු පැදිකරු, පසු පැදිකාරිය සහ කුඩා දරුවන් දෙදෙනෙකු මීගමුව රෝහලට ඇතුලත් කිරීමේදී පැදිකරු මියගොස් තිබේ.
+Multiple fatal motorcycle accidents reported: 3 deaths in Seeduwa, Pamunugama, Embilipitiya, and Kadawatha. Accidents involved collisions with power lines, lorries, and cabs. Victims aged 26-39. Investigations ongoing.
 
-මියගොස් ඇත්තේ අවුරුදු 39 ක් වූ මුදුකටුව, මාරවිල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-මේ අතර, ඇලකන්ද - මීගමුව මාර්ගයේ තල්දියවත්ත ප්‍රදේශයේදී ඇලකන්ද දෙස සිට මීගමුව දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන කම්බි කණුවක ගැටී අනතුරක් සිදුව ඇත.
+Three persons and women were killed in motorcycle accidents yesterday (01).
 
-අනතුරින් බරපතල තුවාල ලැබූ යතුරු පැදිකරු, පසු පැදිකරු රාගම රෝහලට ඇතුලත් කිරීමේදී පැදිකරු මියගොස් තිබේ.
+The accidents occurred in Seeduwa, Pamunugama, Embilipitiya and Kadawatha.
 
-මරණකරු වයස අවුරුදු 26 ක් වූ සංඝමිත්තා මාවත, කොටහේන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The motorcycle raided at Liyanagemulla on the Colombo-Negombo road was caught up and collided with a power line from the Colombo-Negombo road.
+
+The motorcyclist, who was seriously injured in the accident, the boilway and two young children to the Negombo hospital have died.
+
+The deceased has been identified as a 39-year-old resident of the Marawila area.
+
+Meanwhile, a motorcycle traveling from Thaldland to Negombo on the Negument area on the Negombo road and a motorbike motorbike has collided with the motorcycle to Negombo.
+
+The motorcyclist who was seriously injured in the accident and was killed when he was admitted to Ragama Hospital.
+
+The victim is 26 year old resident of Kotahena.
+
+A motorbike rolling on Embilipitiya to Ratnapura from Embilipitiya to Ratnapura last night, a motorbike was reported in a lorry stopped.
 
 ...
 
 [Data](articles/1a38317e.json)
+
+[Extended Data](ext_articles/1a38317e.ext.json)
 
 ---
 
@@ -116,25 +152,31 @@ She was later appointed as a Justice of the Supreme Court by then President Mait
 
 ---
 
-### සජිත් ජපන් තානාපතිගෙන් කළ ඉල්ලීම
+### Request of Sajith's Ambassador to the Japanese Ambassador
 
 *2024-12-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203945) · `si`
 
-අතරමඟ නතර කළ සංවර්ධන ව්‍යාපෘති යළි ක්‍රියාත්මක කරන ලෙස විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ජපාන තානාපතිවරයාගෙන් ඉල්ලීමක් කර තිබේ.
+Sajith Premadasa requests Japanese Ambassador restore development projects in Sri Lanka. Opposition leader seeks to maintain strong ties between countries. Dr. Kavinda Jayawardena present during meeting.
 
-ජපාන තානාපතිවරයා සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අතර හමුවක් කොළඹ දී පැවති අතර එහිදී විපක්ෂ නායකවරයා මෙම ඉල්ලීම සිදුකර ඇති බව විපක්ෂ නායකවරයාගේ මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-ජපානය සහ ශ්‍රී ලංකාව අතර දීර්ඝ කාලයක් පුරා පැවති රාජ්‍ය තාන්ත්‍රක සබඳතාව ඉදිරියටත් පවත්වාගෙන යන ලෙස විපක්ෂ නායකවරයා මෙහිදී තානාපතිවරයාගෙන් ඉල්ලීමක්  කර තිබේ.
+Opposition Leader Sajith Premadasa has requested the Japanese Ambassador to the restoration of development projects.
 
-ඒ සඳහා තමාගේ උපරිම දායකත්වය ලබා දෙන බව විපක්ෂ නායකවරයා පවසා ඇත.
+The Japanese Ambassador and Opposition Leader Sajith Premadasa was in Colombo, and the opposition leader had made this request, the opposition leader said.
 
-එමෙන්ම පසුගිය කාලය තුළ ජපානය විසින් මෙරට තුළ ක්‍රියාත්මක කළ සංවර්ධන ව්‍යාපෘති නැවත ක්‍රියාත්මක කරන ලෙසත් ඒ සඳහා අවශ්‍ය උපරිම සහයෝගය විපක්ෂයේ සිට තමා ලබා දෙන බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා එහිදී පවසා තිබේ.
+The Leader of the Opposition has requested the Ambassador to maintain a long-standing government duty relationship between Japan and Sri Lanka.
 
-මෙම අවස්ථාව සඳහා සමගි ජන බලවේගය නියෝජනය කරමින් වෛද්‍ය කාවින්ද ජයවර්ධන මහතා ද එක්ව සිටියේය.
+The Opposition Leader has said that he will contribute to it.
+
+Opposition Leader Sajith Premadasa has said that the development projects implemented in Sri Lanka to re-implement the development projects implemented by Japan in the recent past.
+
+Dr. Kavinda Jayawardena represented the unique mass force for this occasion.
 
 ◼️
 
 [Data](articles/1992c3fb.json)
+
+[Extended Data](ext_articles/1992c3fb.ext.json)
 
 ---
 
@@ -551,6 +593,8 @@ Import expenditure increased by 10.7 per cent (year-on-year) to US dollars 15,42
 ...
 
 [Data](articles/908d0f36.json)
+
+[Extended Data](ext_articles/908d0f36.ext.json)
 
 ---
 
@@ -2403,31 +2447,5 @@ The authorities of the two countries have warned that the amounts of rain and ra
 [Data](articles/4f268114.json)
 
 [Extended Data](ext_articles/4f268114.ext.json)
-
----
-
-### Special program
-
-*2024-12-01 14:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வேலைத்திட்டம்/175-348047) · `ta`
-
-Consumer Affairs Authority implements special program to protect consumers during festive season. Raids at retail stores and supermarkets from Jan 1 to 15 focus on essential items, price checks, and monitoring of phone trading. Complaints can be reported to 1977.
-
-🟩
-
-The Consumer Affairs Authority has implemented a special program to prevent the injustices of consumers in the market during the festive season.
-
-Accordingly, raids will be conducted at retail stores and supermarkets from Monday (01) to January 15.
-
-Special attention will be paid to the trade centers that are being purchased by consumers during the festive season, prolonged goods, electric equipment and essential commodities.
-
-When carrying out these tests, more attention will be paid to ensuring that the regular trade is going on by the appropriate receipt when selling the goods to selling goods at specific prices at specific prices.
-
-In addition, the Authority will also conduct monitoring of telephone trading and concession sales.
-
-...
-
-[Data](articles/b41452bb.json)
-
-[Extended Data](ext_articles/b41452bb.ext.json)
 
 ---

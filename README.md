@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 09:07:21**
+As of **2024-12-02 09:22:55**
 
 ## Newspaper Stats
 
-*Scraped **57,961** Articles*
+*Scraped **57,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 442
 colombotelegraphcom | 591
 bbccomsinhala | 603
-islandlk | 3,484
+islandlk | 3,486
 economynextcom | 3,517
 dailyftlk | 4,003
 dailymirrorlk | 4,733
@@ -20,37 +20,75 @@ adalk | 5,471
 adaderanalk | 7,019
 tamilmirrorlk | 8,234
 virakesarilk | 9,488
-adaderanasinhalalk | 10,013
+adaderanasinhalalk | 10,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-57,957 (100.0%) of 57,961 articles have been extended.
+57,961 (100.0%) of 57,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### வானிலையில் மீண்டும் ஏற்பட்ட மாற்றம்
+### Weather
 
 *2024-12-02 08:43:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலையில்-மீண்டும்-ஏற்பட்ட-மாற்றம்/175-348085) · `ta`
 
-வட மாகாணத்தில் இன்று (02) பல தடவைகள் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Here's a summary of 200 characters:
 
-காலி மற்றும் மாத்தறை மாவட்டங்களில் சிறிதளவு மழை பெய்யக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள புதிய வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
 
-வடக்கு, வடமத்திய, வடமேல், மேற்கு, மத்திய மற்றும் தென் மாகாணங்களில் அவ்வப்போது மணித்தியாலத்திற்கு 40-45 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
 
-புத்தளத்திலிருந்து காங்கேசன்துறை ஊடாக திருகோணமலை வரையான பிரதேசங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+"Northern Province: Rain expected. Galle & Matara: Some rainfall. Strong winds (40-45km/h) in North, Central, South. Thunderstorms in Puttalam-Kankesanthurai area. Turbulent seas from Puttalam to Hambantota. Wave heights 2.5-3m. Stormy conditions in affected areas."
 
-புத்தளத்திலிருந்து கொழும்பு, காலி மற்றும் ஹம்பாந்தோட்டை ஊடாக பொத்துவில் திருகோணமலை வரையான கடற்பரப்புகள் அவ்வப்போது ஓரளவு கொந்தளிப்பாக காணப்படும்.
+🟩
 
-புத்தளத்திலிருந்து காலி ஊடாக ஹம்பாந்தோட்டை வரையான கடற்பரப்புகளில் கடல் அலையின் உயரம் சுமார் 2.5 – 3.0 மீற்றர் வரை அதிகரிக்கும் சாத்தியம் காணப்படுகின்றது.
+The Department of Meteorology has predicted rain in the Northern Province several times today.
+
+The new weather forecast has stated that the department has announced that there will be some rainfall in Galle and Matara districts.
+
+In the North, North Central, North Western, Western, Central and Southern Provinces, strong winds may be at speeds of 40-45 km / h.
+
+Rainfall or thundershowers will occur in areas from Puttala to Kankesanthurai via Trincomalee.
+
+The seas from Puttalam to Colombo, Galle and Hambantota via Pottuvil Trincomalee are occasionally somewhat turbulent.
+
+The height of the sea wave in the seas from Puttalam to Hambantota via Galle is likely to increase from about 2.5 - 3.0 meters.
+
+The Department of Meteorology has announced that the sea will be temporarily blowing in the seas with thunderstorms and then the sea areas will be very turbulent for a while.. Remble
+
+◼️
+
+[Data](articles/99059461.json)
+
+[Extended Data](ext_articles/99059461.ext.json)
+
+---
+
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-12-02 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203946) · `si`
+
+ප්‍රදේශ කිහිපයක දී ඊයේ (01) සිදුවූ යතුරු පැදි අනතුරු වලින් පුද්ගලයින් තිදෙනෙකු සහ කාන්තාවක් මියගොස් තිබේ.
+
+මෙම අනතුරු සිදුව ඇත්තේ සීදූව, පමුණුගම, ඇඹිලිපිටිය සහ කඩවත යන ප්‍රදේශවල බව පොලීසිය පවසයි.
+
+ඊයේ පස්වරුවේ කොළඹ - මීගමුව මාර්ගයේ ලියනගේමුල්ල ප්‍රදේශයේදී මීගමුව දෙස සිට කොළඹ දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන විදුලි රැහැන් කණුවක ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතල තුවාල ලැබූ යතුරු පැදිකරු, පසු පැදිකාරිය සහ කුඩා දරුවන් දෙදෙනෙකු මීගමුව රෝහලට ඇතුලත් කිරීමේදී පැදිකරු මියගොස් තිබේ.
+
+මියගොස් ඇත්තේ අවුරුදු 39 ක් වූ මුදුකටුව, මාරවිල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මේ අතර, ඇලකන්ද - මීගමුව මාර්ගයේ තල්දියවත්ත ප්‍රදේශයේදී ඇලකන්ද දෙස සිට මීගමුව දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන කම්බි කණුවක ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතල තුවාල ලැබූ යතුරු පැදිකරු, පසු පැදිකරු රාගම රෝහලට ඇතුලත් කිරීමේදී පැදිකරු මියගොස් තිබේ.
+
+මරණකරු වයස අවුරුදු 26 ක් වූ සංඝමිත්තා මාවත, කොටහේන ප්‍රදේශයේ පදිංචිකරුවෙකි.
 
 ...
 
-[Data](articles/99059461.json)
+[Data](articles/1a38317e.json)
 
 ---
 
@@ -74,6 +112,30 @@ She was later appointed as a Justice of the Supreme Court by then President Mait
 
 [Data](articles/a42406c0.json)
 
+[Extended Data](ext_articles/a42406c0.ext.json)
+
+---
+
+### සජිත් ජපන් තානාපතිගෙන් කළ ඉල්ලීම
+
+*2024-12-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203945) · `si`
+
+අතරමඟ නතර කළ සංවර්ධන ව්‍යාපෘති යළි ක්‍රියාත්මක කරන ලෙස විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ජපාන තානාපතිවරයාගෙන් ඉල්ලීමක් කර තිබේ.
+
+ජපාන තානාපතිවරයා සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අතර හමුවක් කොළඹ දී පැවති අතර එහිදී විපක්ෂ නායකවරයා මෙම ඉල්ලීම සිදුකර ඇති බව විපක්ෂ නායකවරයාගේ මාධ්‍ය අංශය සඳහන් කළේය.
+
+ජපානය සහ ශ්‍රී ලංකාව අතර දීර්ඝ කාලයක් පුරා පැවති රාජ්‍ය තාන්ත්‍රක සබඳතාව ඉදිරියටත් පවත්වාගෙන යන ලෙස විපක්ෂ නායකවරයා මෙහිදී තානාපතිවරයාගෙන් ඉල්ලීමක්  කර තිබේ.
+
+ඒ සඳහා තමාගේ උපරිම දායකත්වය ලබා දෙන බව විපක්ෂ නායකවරයා පවසා ඇත.
+
+එමෙන්ම පසුගිය කාලය තුළ ජපානය විසින් මෙරට තුළ ක්‍රියාත්මක කළ සංවර්ධන ව්‍යාපෘති නැවත ක්‍රියාත්මක කරන ලෙසත් ඒ සඳහා අවශ්‍ය උපරිම සහයෝගය විපක්ෂයේ සිට තමා ලබා දෙන බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා එහිදී පවසා තිබේ.
+
+මෙම අවස්ථාව සඳහා සමගි ජන බලවේගය නියෝජනය කරමින් වෛද්‍ය කාවින්ද ජයවර්ධන මහතා ද එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/1992c3fb.json)
+
 ---
 
 ### Several spells of showers expected in parts of the country
@@ -87,6 +149,8 @@ Strong winds of 40-45 kmph can be expected at times over Northern, North-central
 ◼️
 
 [Data](articles/67f4407e.json)
+
+[Extended Data](ext_articles/67f4407e.ext.json)
 
 ---
 
@@ -474,6 +538,22 @@ Asia Asset Finance PLC (AAF) has announced robust financial performance for the 
 
 ---
 
+### Export earnings up by 7.7% to USD 10,676 mn thus far this year
+
+*2024-12-02 01:52:00* · [`islandlk`](http://island.lk/export-earnings-up-by-7-7-to-usd-10676-mn-thus-far-this-year/) · `en`
+
+The earnings from exports have increased by 7.7 per cent (year-on-year) to US dollars 10,676 mn during the ten months ending October 2024 as a result of increased earnings from a number of commodities, according to the Weekly Economic Indicators report of the Central Bank.
+
+The earnings were mainly from exports of petroleum products [11.4 per cent], textiles and garments (4.3per cent), tea (9.2 per cent), food, beverages and tobacco (22.1per cent), rubber products (10.1per cent), and coconut related products (22.1per cent), among others.
+
+Import expenditure increased by 10.7 per cent (year-on-year) to US dollars 15,421 mn during the ten months ending October 2024, mainly due to higher imports of machinery and equipment (24.9per cent), textiles and textile articles (18.5per cent), chemical products (24.8per cent), and base metals (54.1per cent), among others.
+
+...
+
+[Data](articles/908d0f36.json)
+
+---
+
 ### MAS partners UNFPA to advance women’s health and wellbeing in apparel sector
 
 *2024-12-02 01:52:00* · [`islandlk`](http://island.lk/mas-partners-unfpa-to-advance-womens-health-and-wellbeing-in-apparel-sector/) · `en`
@@ -525,6 +605,18 @@ Labour productivity is a fundamental driver of economic progress, directly influ
 [Data](articles/d2cab081.json)
 
 [Extended Data](ext_articles/d2cab081.ext.json)
+
+---
+
+### INSEE Ecocycle continues beach cleanups to reduce national plastic pollution
+
+*2024-12-02 01:41:00* · [`islandlk`](http://island.lk/insee-ecocycle-continues-beach-cleanups-to-reduce-national-plastic-pollution/) · `en`
+
+INSEE Ecocycle, Sri Lanka’s pioneer in sustainable waste management, is continuing the beach clean-up efforts in line with its commitment to combating coastal plastic pollution through three recent beach clean-ups as part of the Plastic Free Rivers and Seas for South Asia (PLEASE) project. The World Bank funded the PLEASE Project, which was implemented by the South Asia Cooperative Environment Program (SACEP) with support from the United Nations Office for Project Services (UNOPS). It aims to catalyze actions that reduce the flow of plastic pollution into South Asian seas.
+
+...
+
+[Data](articles/73b22f67.json)
 
 ---
 
@@ -2082,19 +2174,33 @@ The patriarchal North and East nationalist politics is in a state of disrepair. 
 
 ---
 
-### දුම්රිය රියදුරන්ට 2007 සිට අමුතු විදිහට අතිකාල ගෙවූ හැටි විගණනයකින් හෙළිවෙයි
+### Audit reveals how railway drivers paid oddly from 2007
 
 *2024-12-01 15:56:30* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්ට-2007-සිට-අමුතු-විදිහට-අතිකාල-ගෙවූ-හැටි-විගණනයකින්-හෙළිවෙයි/11-413378) · `si`
 
-දුම්රිය රියදුරන්ට අතිකාල ගෙවිය යුත්තේ සතියට පැය 42 කට වඩා වැඩියෙන් සේවය කරන ලද පැය ගණන පදනම් කර ගෙන වුවත් 2007 වර්ෂයේ සිටම සතියට පැය 42 අඩු කිරීමකින් තොරව අතිකාල ගෙවා තිබෙන බව දුම්රිය දෙපාර්තමේන්තුව සම්බන්ධයෙන් වූ 2023 විගණන වාර්තාවේ සදහන් වේ.
+Railway driver pay audit reveals discrepancies from 2007. Drivers worked over 42 hours weekly but received minimal compensation. Audit highlights incorrect documentation and unpaid overtime. Railway department must address these issues to prevent future violations and resolve ongoing union disputes.
 
-දුම්රිය සාමාන්‍යාධිකාරී විසින් 2007 ජනවාරි 13 දින නිකුත් කරන ලද අංක 4/20/64/2/68 දරණ චක්‍ර ලේඛණයේ හා ආයතන සංග්‍රහයේ Vlllවැනි පරිච්ඡේදයේ 5.6 වගන්තියේ දුම්රිය කාර්යය මණ්ඩලයට අතිකාල ගෙවීම සම්බන්ධයෙන් සදහන් වන බවත් ඊට පටහැනිව දුම්රිය රියදුරන්ට අතිකාල ගෙවා තිබෙන බවත් එම වාර්තාවේ වැඩි දුරටත් සදහන් වේ.
+🟩
 
-ආයතන සංග්‍රහයේ විධිවිධාන සහ දුම්රිය සාමාන්‍යාධිකාරී චක්‍රලේඛණයට අනුව අතිකාල ගෙවීම් කරන ලෙසද විගණන වාර්තාව මගින් උපදෙස් ලබා දී ඇත.
+The train drivers are based on the week, more than 42 hours of service, more than 42 hours of service, the 2023 Audit Report regarding the weekly reduction in the week.
+
+The Railway Staff (START) in Chapter 5.6, 2007, the General Manager of Railways and Vligibility, the Railway Staff is issued on January 4/20/20/2/68.Furthermore is mentioned.
+
+The Audit Report has also instructed the provisions of the Establishments Code and the General Manager's General Manager Circular.
+
+In addition, the Railway Department has ordered that the Railway Department has ordered the arrival and exit of the Railway Drivers as instructed by the Public / Administrative Circular No. 09/2009, 2009, 2009.The audit report states that steps were not listed in markers.
+
+The audit report has pointed out that the arrival and exit and the arrival of arrival documents have been incorrect.
+
+The number of Rs.Is.
+
+9,23,98,532 per officer in 2021, 2023 and 2023 was paid only Rs. 5 / - per month alone.Happened.
 
 ...
 
 [Data](articles/fea0b77d.json)
+
+[Extended Data](ext_articles/fea0b77d.ext.json)
 
 ---
 
@@ -2323,101 +2429,5 @@ In addition, the Authority will also conduct monitoring of telephone trading and
 [Data](articles/b41452bb.json)
 
 [Extended Data](ext_articles/b41452bb.ext.json)
-
----
-
-### Consumer Affairs Authority Special Program
-
-*2024-12-01 14:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுகர்வோர்-விவகார-அதிகார-சபை-விசேட-வேலைத்திட்டம்/175-348047) · `ta`
-
-Consumer Affairs Authority implements special program to protect consumers during festive season. Raids at retail stores and supermarkets from Dec 1 to Jan 15, focusing on essential goods and price monitoring. Complaints can be reported to 1977.
-
-🟩
-
-The Consumer Affairs Authority has implemented a special program to prevent the injustices of consumers in the market during the festive season.
-
-Accordingly, raids will be conducted at retail stores and supermarkets from Monday (01) to January 15.
-
-Special attention will be paid to the trade centers that are being purchased by consumers during the festive season, prolonged goods, electric equipment and essential commodities.
-
-When carrying out these tests, more attention will be paid to ensuring that the regular trade is going on by the appropriate receipt when selling the goods to selling goods at specific prices at specific prices.
-
-In addition, the Authority will also conduct monitoring of telephone trading and concession sales.
-
-...
-
-[Data](articles/cc9afd42.json)
-
-[Extended Data](ext_articles/cc9afd42.ext.json)
-
----
-
-### ‘Sarvajana Balaya’ stands alone amid fragmenting traditional political parties - Dilith Jayaweera
-
-*2024-12-01 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103904/sarvajana-balaya-stands-alone-amid-fragmenting-traditional-political-parties-dilith-jayaweera) · `en`
-
-While traditional political parties are being fragmented, the only emerging political movement left in the country is ‘Sarvajana Balaya’, says its leader, Member of Parliament Dilith Jayaweera.
-
-Addressing an event held today (01), MP Jayaweera said: “According to the results of the last election, the ‘Sarvajana Balaya’ has advanced by the highest percentage, while the Sri Lanka Podujana Peramuna (SLPP) has advanced by the lowest percentage.”
-
-“The Podujana Peramuna used all their strength. The Pohottuwa [SLPP] was created solely to gather the necessary support to keep Basil Rajapaksa in politics. However, the Pohottuwa had no vision. Now that the American citizen has left the country, the mill is no longer turning.”
-
-...
-
-[Data](articles/3e04e6e1.json)
-
-[Extended Data](ext_articles/3e04e6e1.ext.json)
-
----
-
-### The defeat of the JVP and the political success of the NPP regime
-
-*2024-12-01 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200153) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-JVP defeat allowed NPP regime success. Former JVP leaders blocked Tamil unity, leading Sinhala villages into ethnic war against Tamils during conflict.
-
-🟩
-
-Former JVPs, the former rulers who separated in court, could not even permit the North and East merger of the Tamils, the lowest political aspirations of Tamils.. They are also the ones who have led the Sinhala villages to the ethnic war against Tamils ​​during the war.
-
-◼️
-
-[Data](articles/2b118ce9.json)
-
-[Extended Data](ext_articles/2b118ce9.ext.json)
-
----
-
-### J Shah Shah begins as Chairman
-
-*2024-12-01 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203930) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Jay Shah becomes ICC Chairman, youngest ever. Former Gujarat Cricket Association member since 2009. Oversaw Ahmedabad's massive cricket stadium. Joined BCCI in 2019, becoming its youngest secretary.
-
-🟩
-
-Juhha, who was elected to be the new Chairman of the International Cricket Council, has commenced his post.
-
-Jay Shah is considered the youngest person who was appointed as the Chairman of the International Cricket Council.
-
-Juka, who started his journey with the Gujarat Cricket Association in 2009, was a wide experience of cricket administration.
-
-The development of the world's largest cricket stadium in Ahmedabad has taken place under the supervision.
-
-In 2019, JJ Shah had joined the Cricket Board (BCCI) and became the youngest secretary.
-
-◼️
-
-[Data](articles/c0ad58ff.json)
-
-[Extended Data](ext_articles/c0ad58ff.ext.json)
 
 ---

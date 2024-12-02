@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 18:03:41**
+As of **2024-12-02 18:23:38**
 
 ## Newspaper Stats
 
@@ -26,45 +26,63 @@ adaderanasinhalalk | 10,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,056 (100.0%) of 58,068 articles have been extended.
+58,060 (100.0%) of 58,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
 
-### අපොස සාමාන්‍ය පෙළ අයදුම්කරුවන්ට දැනුම්දීමක්
+### A Notification for O / L applicants
 
 *2024-12-02 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203965) · `si`
 
-අපොස සාමාන්‍ය පෙළ විභාගය (2024/25) සඳහා අයදුම්පත් කැඳවීමේ දිනය දීර්ඝ කර තිබේ.
+GCE Ordinary Level exam application deadline extended to Nov 30 due to weather conditions. Online exam available.
 
-මාර්ගගත ක්‍රමවේදය ඔස්සේ එම විභාගය සඳහා අයදුම්කිරීමට නොවැම්බර් 05 වනදා සිට 30 වනදා තෙක් කල් ලබා දී තිබුණි.
+🟩
 
-නමුත් දිවයිනට බලපෑ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් එම කාලය දෙසැම්බර් 10 වනදා තෙක් දීර්ඝ කර ඇති බව විභාග කොමසාරිස් ජනරාල් එච් ජේ එම් සී අමිත් ජයසුන්දර මහතා නිවේදනය කරයි.
+Application date has been extended to the GCE Ordinary Level examination (2024/25).
+
+Online method, the exam was given to the same exam to 30 November to 30.
+
+However, the Commissioner General of Examinations H JM M SM Amit Jayasundara has announced that the time had been extended to the island due to the adverse weather conditions.
 
 ◼️
 
 [Data](articles/1705b2b8.json)
 
+[Extended Data](ext_articles/1705b2b8.ext.json)
+
 ---
 
-### මුදල් ඉල්ලා වට්ස්ඇප් පණිවිඩයක් ඔබටත් ලැබුණාද?
+### Did you get whatsapp message requested for money?
 
 *2024-12-02 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203964) · `si`
 
-වර්ථමානයේ වට්ස්ඇප් ජාලය හරහා විවිධ අකටයුතුකම් සිදුව ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදයේ ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා පවසයි.
+Here's a summary in 200 characters:
 
-ඔහු පැවසුවේ මෙරට විවිධ ප්‍රසිද්ධ පුද්ගලයින්ගේ ගිණුම්වලට අනවරයෙන් ඇතුළු වී ඔහුගේ ග්‍රාහකයන් වෙත මුදල් ඉල්ලමින් පණිවිඩ යවා ඇති බවය.
 
-මේ හේතුවෙන් ඇතැම් පුද්ගලයින් එම තොරතුරු විශ්වාස කරමින් ලබා දී ඇති ගිණුම් අංක වෙත මුදල් තැන්පත් කිරීමේ සිදුවීම්ද වාර්තා වී ඇති බවය.
 
-"මේක සිද්ධ වෙන්නේ ඒ ප්‍රධාන පුද්ගලයාට දුරකථන ඇමතුමක් ලැබෙනවා එසේත් නැතිනම් ලින්ක් එකක් ලැබෙනවා ඔන්ලයින් තාක්ෂණය ඔස්සේ පැවැත්වෙන මීටිමකට ප්‍රවේශ වීමට. එසේත් නැතිනම් දේශනයකට ආරාධනාවක් කරන විදිහට තමයි මුළින්ම ආරාධනාව ලැබෙන්නේ.
+"Scam alert: Fake WhatsApp messages asking for money. Don't share OTPs or pay without verification. Report suspicious activity to Sri Lanka Computer Emergency Response Team."
 
-ඒ ලැබිලා සුළු මොහොතකට පසුව ඔහුට ලැබෙනවා කෙටි අංකයක්. ඒ අංකය කියන්නේ ඒ ගිණුමට ප්‍රවේශ වීමට ලබා ගන්නා කෙටි යෙදවුම. ඒ ඔස්සේ ගිණුමට ප්‍රවේශවෙලා පණිවිඩයක් යනවා ලබා දෙන ගිණුමට මුදල් ලබා දෙන්න කියලා හදිසි අවශ්‍යතාවක් වෙනුවෙන් කියලා.
+🟩
+
+Chief Information Security Officer, Security Officer, Health Officer, Norroche Ananda, says that the SLC is reported via the VATSApp network.
+
+He said that the accounts of various famous people in their famous people in their famous people in the country have been unaware and sent messages to his subscribers.
+
+As a result, the events of depositing events to deposit money to the account numbers that some people have believed in that information.
+
+"This happens to the chief person, or a link will be accessed online. Or is the most invitation that is invited to a lecture.
+
+A short number of moments later, he gets a brief number. The short application is available to access that account. It is for an urgent need to give money to the account that is approved and going to a message.
+
+We would like to inform the public to inform the public as the Sri Lanka Computer Emergency Response to Guideline, but this number, or not to give the OTP number at all times.
 
 ...
 
 [Data](articles/ae2701b2.json)
+
+[Extended Data](ext_articles/ae2701b2.ext.json)
 
 ---
 
@@ -83,6 +101,8 @@ Accordingly, any information regarding the relevant suspect is requested to be p
 ◼️
 
 [Data](articles/58253595.json)
+
+[Extended Data](ext_articles/58253595.ext.json)
 
 ---
 
@@ -129,6 +149,8 @@ Any inquiries regarding the submission of applications can be made through hotli
 ◼️
 
 [Data](articles/4aa795d6.json)
+
+[Extended Data](ext_articles/4aa795d6.ext.json)
 
 ---
 

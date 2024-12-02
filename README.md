@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 16:28:06**
+As of **2024-12-02 16:16:51**
 
 ## Newspaper Stats
 
-*Scraped **58,045** Articles*
+*Scraped **58,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,484
 adaderanalk | 7,035
 tamilmirrorlk | 8,251
-virakesarilk | 9,500
-adaderanasinhalalk | 10,028
+virakesarilk | 9,497
+adaderanasinhalalk | 10,027
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,036 (100.0%) of 58,045 articles have been extended.
+58,036 (100.0%) of 58,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
-
-### ஐஸ் போதைப்பொருளை கடத்திச் சென்ற மீனவர்கள் கொழும்பு துறைமுகத்திற்கு அழைத்து வரப்பட்டனர்
-
-*2024-12-02 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200225) · `ta`
-
-இந்திய கடற்பரப்பில் இரண்டு மீன்பிடி படகுகளில் ஐஸ் போதைப்பொருளை கடத்திச் சென்ற இலங்கை மீனவர்கள் கொழும்பு துறைமுகத்துக்கு இன்று திங்கட்கிழமை (02) அழைத்து வரப்பட்டுள்ளனர்.
-
-இந்திய கடற்படைக்கும் இலங்கை கடற்படைக்கும் இடையிலான உளவுத்துறை பரிமாற்றத்தை தொடர்ந்து இந்த இரண்டு படகுகளும் இந்திய கடற்படையினரால் கைப்பற்றப்பட்டன.
-
-ஒரு படகில் சுமார் 400 கிலோ ஐஸ் போதைப்பொருள் இருந்ததாகவும், மற்றைய படகு உதவிக்காக சென்றுள்ளதாகவும் தெரியவந்துள்ளது.
-
-இந்திய கடற்படையினர் கடந்த 29ஆம் திகதி இந்த மீனவர்களை இலங்கை கடற்படைக்குச் சொந்தமான கஜபாகு கப்பலில் சேர்த்துள்ளனர்.
-
-◼️
-
-[Data](articles/e7474d7f.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2024-12-02 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200238) · `ta`
-
-இன்று திங்கட்கிழமை (02) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 286.3962 ரூபாவாகவும் விற்பனை விலை 294.9730 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/208e368b.json)
-
----
 
 ### ’’எமது பாராளுமன்ற குழு இன்று மாலை 5 மணிக்கு கூடும்’’
 
@@ -87,44 +57,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d5a57b15.json)
-
----
-
-### 'சில்க் ஸ்மிதா- குயின் ஆஃப் சவுத்' பெயரில் தயாராகும் புதிய திரைப்படம்
-
-*2024-12-02 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200235) · `ta`
-
-இந்திய திரையுலகில் கடந்த கால தசாப்தங்களில் கவர்ச்சி கன்னியாக திகழ்ந்த நடிகை சில்க் ஸ்மிதாவின் வாழ்க்கை வரலாறை தழுவி 'சில்க் ஸ்மிதா -குயின் ஆஃப் சவுத் 'எனும் பெயரில் புதிய திரைப்படம் தயாராகிறது. இது தொடர்பான பிரத்யேக காணொளியை படக் குழுவினர் வெளியிட்டுள்ளனர்.
-
-இயக்குநர் ஜெயராம் சங்கரன் இயக்கத்தில் உருவாகும் 'சில்க் ஸ்மிதா கிங் ஆஃப் சவுத்' எனும் திரைப்படத்தில் நடிகை சந்திரிகா ரவி சில்க் ஸ்மிதாவின் கதாபாத்திரத்தில் நடிக்கிறார்.
-
-அவரது பிறந்த நாளான இன்று அவரது சுயசரிதையை தழுவி தயாராகும் இந்த திரைப்படத்தைப் பற்றிய அறிவிப்பை பிரத்யேக காணொளி மூலம் படக் குழுவினர் வெளியிட்டுள்ளனர். இந்த திரைப்படத்தை எஸ் டி ஆர் ஐ மூவிஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் எஸ்பி விஜய் அமிர்தராஜ் தயாரிக்கிறார்.
-
-இப்படத்தின் பணிகள் அடுத்த ஆண்டு ஜனவரியில் தொடங்கப்படும் என தெரிவித்திருக்கும் படக் குழு அவரது பிறந்த நாளை முன்னிட்டு இன்று வெளியிட்டிருக்கும் பிரத்யேக காணொளியில் சில்க் ஸ்மிதாவை பற்றி அன்றைய காலகட்டத்திய இந்திய பிரதமர் இந்திரா காந்தி அவருடைய உதவியாளரிடம் விசாரிப்பது போல் காட்சிகள் இடம் பிடித்திருக்கிறது.
-
-...
-
-[Data](articles/8accdc94.json)
-
----
-
-### හිටපු අමාත්‍ය මහින්දානන්දට එරෙහි කැරම් බෝඩ් නඩුව අද යළි කැඳවයි
-
-*2024-12-02 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203960) · `si`
-
-හිටපු ක්‍රීඩා අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ සහ ස.තො.ස ආයතනයේ හිටපු සභාපති සහ හිටපු වෙළඳ අමාත්‍ය නලින් ප්‍රනාන්දු යන මහත්වරුන්ට එරෙහිව ගොනු කර තිබූ නඩුවක් අද යළි විභාගයට ගැනුණි.
-
-ඒ ප්‍රදීප් හෙට්ටිආරච්චි ප්‍රදීප් අබේරත්න සහ මහේන් වීරමන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ දීය.
-
-2015 වසරේ පැවති ජනාධිපතිවරණය සමයේ ස.තො.ස ආයතනය මගින් කැරම් බෝඩ් සහ දාම් ලෑලි 14,000 ක් බැගින් ආනයනය කොට ක්‍රීඩා සංගම් අතර බෙදාදීම තුළින් රජයට රුපියල් මිලියන 5 කට අධික පාඩුවක් සිදු කළේ යැයි චෝදනා කරමින් අල්ලස් කොමිසම විසින් හිටපු අමාත්‍යවරුන්ට එරෙහිව මෙම නඩුව ගොනු කර තිබුණි.
-
-එහිදී විත්තිකාර හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතා විත්ති කූඩුවේ සිට ප්‍රකාශයක් ඉදිරිපත් කළේය.
-
-එහිදි ඔහු පැවසුවේ මෙම නඩුවට පාදක වන කැරම්බෝඩ් හා දාම් ලෑලි 14,000 බැගින් ආනයනය කිරීම සහ බෙදා හැරීම සම්බන්ධයෙන් තමන්ට අල්ලස් කොමිසම විසින් චෝදනා හතරක් එල්ල කර ඇති බවය.
-
-...
-
-[Data](articles/5413fc41.json)
 
 ---
 
@@ -2353,5 +2285,75 @@ This new centre will not only serve applicants from Colombo but also expand its 
 [Data](articles/12e9764f.json)
 
 [Extended Data](ext_articles/12e9764f.ext.json)
+
+---
+
+### Central Bank aware of upside and downside risks to its inflation projections
+
+*2024-12-02 01:48:00* · [`islandlk`](http://island.lk/central-bank-aware-of-upside-and-downside-risks-to-its-inflation-projections/) · `en`
+
+The Central Bank forecasts the headline inflation to remain negative in the next few months, deeper than previously projected, but expects it to turn positive thereafter and gradually align with the targeted level of 5% over the medium term, aided by appropriate policy measures.
+
+Attributing larger downward adjustments in energy prices and reduction in volatile food prices to the current negative headline inflation, the Central Bank, however, is keeping its eye on upside and downside risks to inflation projections in the near to medium term.
+
+The Bank says possible upward pressures on the headline inflation could stem from six factors; namely:
+
+Possible upward pressures on global food and energy prices amidst geopolitical uncertainty
+
+Possible sticky global inflation due to the policy changes in the USA And in relation to downside risks to inflation projections, the Bank cites two key reasons among others, namely.
+
+...
+
+[Data](articles/6917066b.json)
+
+[Extended Data](ext_articles/6917066b.ext.json)
+
+---
+
+### Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?
+
+*2024-12-02 01:43:07* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-economic-revival-Traditional-8-hour-workday-or-6-hour-workday/4-769956) · `en`
+
+Sri Lanka’s path to economic recovery owes much to the commendable leadership of President Anura Kumara Dissanayake (AKD) and his dedicated team. Their focus on structural reforms and anti-corruption measures is laying the foundation for a more resilient and equitable economy.
+
+Amid these transformative efforts, a thought-provoking question emerged on social media recently: Should Sri Lanka retain the traditional eight-hour workday or explore a shorter six-hour workday? This debate touches on broader concerns about labour productivity and its critical role in driving economic growth.
+
+Labour productivity is a fundamental driver of economic progress, directly influencing GDP growth and national prosperity. According to the Solow Growth Model of Economics, long-term economic growth is fuelled by labour growth, capital accumulation, and technological advancements.
+
+...
+
+[Data](articles/d2cab081.json)
+
+[Extended Data](ext_articles/d2cab081.ext.json)
+
+---
+
+### INSEE Ecocycle continues beach cleanups to reduce national plastic pollution
+
+*2024-12-02 01:41:00* · [`islandlk`](http://island.lk/insee-ecocycle-continues-beach-cleanups-to-reduce-national-plastic-pollution/) · `en`
+
+INSEE Ecocycle, Sri Lanka’s pioneer in sustainable waste management, is continuing the beach clean-up efforts in line with its commitment to combating coastal plastic pollution through three recent beach clean-ups as part of the Plastic Free Rivers and Seas for South Asia (PLEASE) project. The World Bank funded the PLEASE Project, which was implemented by the South Asia Cooperative Environment Program (SACEP) with support from the United Nations Office for Project Services (UNOPS). It aims to catalyze actions that reduce the flow of plastic pollution into South Asian seas.
+
+...
+
+[Data](articles/73b22f67.json)
+
+[Extended Data](ext_articles/73b22f67.ext.json)
+
+---
+
+### Social media influencers from Australia to present engaging digital narratives on SriLanka Tourism
+
+*2024-12-02 01:40:00* · [`islandlk`](http://island.lk/social-media-influencers-from-australia-to-present-engaging-digital-narratives-on-srilanka-tourism/) · `en`
+
+The four influencers ‘hold sway’ over an audience of more than 1.5 million
+
+In an exciting initiative to bolster Sri Lanka’s tourism industry, the Sri Lanka Tourism Promotion Bureau (SLTPB) is set to host four prominent Australian-based social media influencers in December 2024. The campaign aims to capture the allure of Sri Lanka through the eyes of these digital content creators, whose combined reach spans millions of followers across Instagram and TikTok. The endeavor promises to spotlight Sri Lanka as a premier destination for travelers seeking unique cultural, natural, and luxury experiences.
+
+...
+
+[Data](articles/0f556312.json)
+
+[Extended Data](ext_articles/0f556312.ext.json)
 
 ---

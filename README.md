@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 02:01:28**
+As of **2024-12-03 02:26:26**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,121 (100.0%) of 58,122 articles have been extended.
+58,122 (100.0%) of 58,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### ஜப்பான் தூதுவர் செந்தில் தொண்டமானுடன் சந்திப்பு
+### Japanese Ambassador to meet Senthil Thondaman
 
 *2024-12-03 01:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவர்-செந்தில்-தொண்டமானுடன்-சந்திப்பு/175-348146) · `ta`
 
-இலங்கைக்கான ஜப்பானிய தூதுவர் ஸ்சொமடோ அக்கியோவிற்கும் (Isomata Akio) இலங்கை தொழிலாளர் காங்கிரசின் தலைவர் செந்தில் தொண்டமானுக்குமிடையில் மரியாதை நிமித்தமான சந்திப்பு இடம்பெற்றது.
+Japanese Ambassador ISOMATA AKIO meets Senthil Thondaman. Thondaman recalls Japan's aid to hill country residents and requests continued support. He invites the ambassador to visit the region.
 
-இச்சந்திப்பின் போது, கடந்த காலங்களில் ஜப்பான் தூதரகம் மலையக மக்களுக்கு பாரிய உதவிகளை வழங்கியது குறித்து செந்தில் தொண்டமான் நினைவூட்டியதுடன், தொடர்ந்தும் மலையக மக்களுக்காக  வலுவான உதவிகளை வழங்க வேண்டும் எனவும் கோரிக்கை விடுத்தார்.
+🟩
 
-மேலும் புதிய ஜப்பான் தூதுவர் தனது கடமைகளை பொறுப்பேற்றுள்ள நிலையில், மலையகத்திற்கு முதல் விஜயம் மேற்கொள்ளுமாறு செந்தில் தொண்டமான் அழைப்பு விடுத்துள்ளார். (a)
+The Japanese Ambassador to Sri Lanka, Somato Akio (ISOMATA AKIO), was held in honor of the Sri Lanka Workers Congress President Senthil Thondaman.
+
+During the meeting, Senthil Thondaman recalled that the Japanese embassy had provided massive assistance to the people of the hill country and demanded that strong assistance be provided to the people of the hill country.
+
+Senthil Thondaman has called for the first visit to the hill country as the new Japanese Ambassador is in charge of his duties.. (A)
 
 ◼️
 
 [Data](articles/0278e388.json)
+
+[Extended Data](ext_articles/0278e388.ext.json)
 
 ---
 

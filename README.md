@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-02 13:43:17**
+As of **2024-12-02 14:29:14**
 
 ## Newspaper Stats
 
-*Scraped **58,016** Articles*
+*Scraped **58,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,147 @@ islandlk | 3,490
 economynextcom | 3,521
 dailyftlk | 4,003
 dailymirrorlk | 4,733
-adalk | 5,479
-adaderanalk | 7,031
-tamilmirrorlk | 8,247
-virakesarilk | 9,493
+adalk | 5,481
+adaderanalk | 7,034
+tamilmirrorlk | 8,248
+virakesarilk | 9,496
 adaderanasinhalalk | 10,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,002 (100.0%) of 58,016 articles have been extended.
+58,017 (100.0%) of 58,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-02 (Monday)
+
+### Tension before the Ministry of Education
+
+*2024-12-02 13:51:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியமைச்சுக்கு-முன்பாக-பதற்றம்/175-348114) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tensions rise near Ministry of Education as protesters demand teacher hiring and permanent appointments. Police injuries and arrests reported. Traffic severely impacted on Borella-Kottawa 174 bus route.
+
+🟩
+
+A tense situation has arisen in the area due to a demonstration in front of Izurupaya demanding the hiring of the Teacher Service and the Permanent Appointment.
+
+It is reported that some police officers have been injured and three persons have been arrested in connection with the incident.
+
+It is also reported that traffic on Borella - Kottawa 174 bus road has been completely affected. Remble
+
+◼️
+
+[Data](articles/a4fe7742.json)
+
+[Extended Data](ext_articles/a4fe7742.ext.json)
+
+---
+
+### Sri Lankans must improve to render system change successful
+
+*2024-12-02 13:46:00* · [`islandlk`](http://island.lk/sri-lankans-must-improve-to-render-system-change-successful/) · `en`
+
+“It is not possible to develop a country without the moral development of man. Let us develop the country along with moral development (of man)” So pronounced Most Ven Madihe Pannaseeha Maha Nayaka Thero. This translation from Sinhala is by Ven Vajiraramaya Nanaseeha Thera – previously Deshabandhu Olcott Gunasekera – who was one who assisted the venerable bhikkhu to establish the Dharmavijaya Foundation in 1977. The Foundation later adopted this truth as its mission statement. Moral development connotes character building.
+
+The thought about the quirks and misdemeanours of most Sri Lankans which ultimately tarnish the wellbeing and image of the country has long been in mind and discussed frequently when we older generations meet and grow nostalgic of how things were back then. We most definitely had a much better life, though sans TV and all these advances, since peace and general goodness prevailed.
+
+...
+
+[Data](articles/783733cd.json)
+
+[Extended Data](ext_articles/783733cd.ext.json)
+
+---
+
+### There is a hot situation in front of the Ministry of Education
+
+*2024-12-02 13:33:52* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශය-ඉදිරිපිට-උණුසුම්-තත්ත්වයක්/11-413397) · `si`
+
+Protest outside Ministry of Education: Combined School Development Officer members arrested by police today.
+
+🟩
+
+Members of the Combined School Development Officer have commenced a protest in front of the Ministry of Education today (02) and the police have come to dissolve members of the protest.
+
+Several people have been arrested in the protest, accordingly, has been broken.
+
+◼️
+
+[Data](articles/1264b0f9.json)
+
+[Extended Data](ext_articles/1264b0f9.ext.json)
+
+---
+
+### One person killed in motorcycle accident
+
+*2024-12-02 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200215) · `ta`
+
+Motorcycle crash kills one on Elakanda-Negombo road. Rider loses control, hits power pole. Driver dies at Ragama Hospital.
+
+🟩
+
+One person was killed when a motorcycle crashed on Sunday (01) on Sunday (01) in the Elakanda -Negombo road.
+
+The motorcycle traveling from Elakandavu to Negombo has lost control of the speed and crashed into the power pole.
+
+The motorcycle driver died after being admitted to the Ragama Hospital and died without treatment.
+
+◼️
+
+[Data](articles/6d5f2c97.json)
+
+[Extended Data](ext_articles/6d5f2c97.ext.json)
+
+---
+
+### Tense situation near Education Ministry
+
+*2024-12-02 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103925/tense-situation-near-education-ministry) · `en`
+
+A tense situation has been reported in front of the Ministry of Education at Isurupaya, Battaramulla as the police attempted to disperse protesting Development Officers.
+
+Meanwhile, several police officers have been injured during the incident, while three protestors have reportedly been taken into police custody.
+
+The Development Officers engaged in the demonstration demanding that they be made permanent in the teaching service.
+
+Earlier, it was reported that the Kottawa - Borella Road (174 bus route) was completely blocked for traffic in front of the Ministry of Education due to the protest by Development Officers.
+
+◼️
+
+[Data](articles/c7b8b919.json)
+
+[Extended Data](ext_articles/c7b8b919.ext.json)
+
+---
+
+### The body of the person pulled by the first!
+
+*2024-12-02 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200211) · `ta`
+
+Body found after crocodile attack in Pottuvil, Ampara. Man dragged from river during buffalo crossing. Navy assisted police in search operation.
+
+🟩
+
+The body of a man who was dragged by the first of the crocodile rock in Pottuvil, Ampara, has been found, police said.
+
+Last week, police said they were informed that they had been informed of the crocodile dragging the man who had past the buffalo cows and crossed the river.
+
+Subsequently, the body of the Navy was found by the Navy, while police and Navy were involved in the search for the missing man, police said.
+
+◼️
+
+[Data](articles/a2857d1c.json)
+
+[Extended Data](ext_articles/a2857d1c.ext.json)
+
+---
 
 ### Cabinet leak of the Katchativu Agreement and rescinded cabinet decision on Overseas Service
 
@@ -80,6 +206,52 @@ In his address to parliament last Thursday, Sri Lankan president Anura Kumara Di
 
 ---
 
+### Jaffna success;Valuable jewelery in the electoral crown of the national people's power
+
+*2024-12-02 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200214) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Jaffna defies history: National People's Power wins, shocking previous presidential election trends. Campaign focused on addressing grievances, securing parliamentary seats.
+
+🟩
+
+Presidential election results shocked Jaffna. Jaffna did not vote for the winner in the 2010, 2019 presidential elections. It was only now that the national people's power was going to win the parliamentary election and how much it would be able to capture seats.. The campaign was launched without a cheerful campaign to vote for the national people's power in the parliamentary elections to address the grievances of the presidential election.
+
+◼️
+
+[Data](articles/3e8ba5e7.json)
+
+[Extended Data](ext_articles/3e8ba5e7.ext.json)
+
+---
+
+### Sri Lankan fishing boats seized with ‘Ice’ in Indian waters escorted to Colombo Port
+
+*2024-12-02 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103924/sri-lankan-fishing-boats-seized-with-ice-in-indian-waters-escorted-to-colombo-port) · `en`
+
+Two Sri Lankan fishing vessels that were recently apprehended in Indian waters while transporting a large consignment of crystal methamphetamine, commonly known as ‘Ice’, along with the suspects on board, were escorted ashore to the Colombo Port today (02).
+
+The seizure of the consignment of drugs weighing around 400 kilograms, followed an intelligence-sharing between the Indian and Sri Lankan navies, after which the Indian Navy took custody of the vessels.
+
+One of the trawlers was found to be carrying about 400 kilograms of ‘Ice,’ while the other was assisting, according to Sri Lanka Navy.
+
+The Indian Navy had arrested the Sri Lankan suspects and seized the vessels on November 24 and 25.
+
+Subsequently, the ice drug haul, fishing trawlers, and suspects were handed to the SLNS Gajabahu vessel attached to Sri Lanka Navy on November 29.
+
+Accordingly, the Navy brought the seized drugs, fishing vessels, and suspects ashore today (2) for further legal proceedings.
+
+◼️
+
+[Data](articles/2f200125.json)
+
+[Extended Data](ext_articles/2f200125.ext.json)
+
+---
+
 ### Fine sportsman, great debater, big appetite but weak stomach
 
 *2024-12-02 13:02:00* · [`islandlk`](http://island.lk/fine-sportsman-great-debater-big-appetite-but-weak-stomach/) · `en`
@@ -95,6 +267,26 @@ Sir John had struck back with the Premier Stakes which he later denied having an
 [Data](articles/5e8fa427.json)
 
 [Extended Data](ext_articles/5e8fa427.ext.json)
+
+---
+
+### Two monks and hotel owner arrested for stealing ancient Buddha statue
+
+*2024-12-02 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103923/two-monks-and-hotel-owner-arrested-for-stealing-ancient-buddha-statue) · `en`
+
+Police have arrested two Buddhist monks and a hotel owner in connection with the theft of an ancient metal Buddha statue with a dragon canopy, valued at over Rs. 20 million.
+
+The statue was stolen from the Karahampitigoda Khettarama Purana Viharaya, a temple affiliated with the historic Devanagala Rajamaha Viharaya in Mawanella, the police said.
+
+The Chief Incumbent of the Devanagala Rajamaha Viharaya, Ven. Medirigiriye Punnasara Thero, had filed a complaint with the Mawanella Police, reporting the theft. Acting on the complaint, Senior DIG of Sabaragamuwa Province Sanjeewa Dharmaratne tasked the Kegalle Divisional Crime Investigation Bureau with leading the investigation.
+
+The investigation had revealed that the theft was orchestrated by a 28-year-old monk from a temple in Kimbulwilawatta, Dompe. He was assisted by a monk from Mahaiyawa, Kandy, and the owner of a tourist hotel in Gannoruwa, Peradeniya, according to police.
+
+...
+
+[Data](articles/5159ad6d.json)
+
+[Extended Data](ext_articles/5159ad6d.ext.json)
 
 ---
 
@@ -157,6 +349,8 @@ The Development Officers are engaged in the demonstration demanding that they be
 ◼️
 
 [Data](articles/6cf4ba84.json)
+
+[Extended Data](ext_articles/6cf4ba84.ext.json)
 
 ---
 
@@ -462,6 +656,30 @@ Wildlife officials have asked the court to keep the suspect in detention.
 
 ---
 
+### Deputy Minister of Madiwela to reject ministerial residence
+
+*2024-12-02 11:25:42* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-නිල-නිවස-ප්‍රතික්ෂේප-කර-මාදිවෙල-මන්ත්‍රි-නිවාසයකට-යන-නියෝජ්‍ය-ඇමති/11-413394) · `si`
+
+Deputy Minister Arung Hemachandra rejects ministerial quarters, citing focus on economic empowerment and relief for the masses. He prioritizes budget allocation for deputy minister duties over personal accommodation.
+
+🟩
+
+Deputy Minister and Foreign Employment Deputy Minister and MP Arung Hemachandra said that they had refused to use the Ministerial Quarters in Madiwela Parliamentarian official residence to the Members of Parliament..
+
+The Deputy Minister said that it is empowered to provide relief to the masses with the mandate of the economic affilment and empowered the masses in the economy.
+
+Accordingly, the other MP, who was elected from the national propagation of the country's force in the Kalutara District.. The Deputy Minister said that both had been determined to act on behalf of Roshan Priyanika.
+
+Deputy Minister Arung Hemachandra added that he has decided to employ the budget heading of the budget for the budget of the Budget for the budget of his deputy minister.
+
+◼️
+
+[Data](articles/c3dc855d.json)
+
+[Extended Data](ext_articles/c3dc855d.ext.json)
+
+---
+
 ### Train operations on up-country line resume
 
 *2024-12-02 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103916/train-operations-on-up-country-line-resume) · `en`
@@ -574,69 +792,101 @@ It is very important that political parties should act so that the public should
 
 ---
 
-### මාතලේ පොල් මිල රු. 230ට යයිමාතලේ පොල් මිල රු. 230ට යයි
+### Matale coconut prices of Rs. 230 million Years of coconut prices for Rs. Goes to 230
 
 *2024-12-02 11:10:20* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-පොල්-මිල-රු--230ට-යයිමාතලේ-පොල්-මිල-රු--230ට-යයි/11-413393) · `si`
 
-මාතලේ නගරයේ වෙළදැසල්වල පොල් ගෙඩියක මිල රුපියල් 200ත් 230ත් අතර වන බව පාරිභෝගිකයෝ පවසයි.
+Here's a summary of 200 characters:
 
-ඇතැම් වෙළදසැල්වල පොල් හිගයක් ද පවතින බවත් පොල් මිලදි ගැනිමේදි ඇතැම් වෙළදසැල් හිමියන් තේරිමට ඉඩනොදෙන බවත් විකිණිමට ඇති පොල් මිලදි ගන්නා ලෙස පවසන බවද පාරිභෝගිකයෝ පවසයි.
+
+
+Matale coconut prices reach Rs. 230 million. Customers report prices between Rs. 200-300. Shortage causes selection issues. Some shops struggle to maintain prices.
+
+🟩
+
+Customers say the price of a coconut in the Matale town is between Rs. 200 and Rs.
+
+Customers say that there is a shortage of coconuts and will not be able to select the coconut prices and that some shop owners are not able to select the coconut.
 
 ◼️
 
 [Data](articles/90ac324a.json)
 
+[Extended Data](ext_articles/90ac324a.ext.json)
+
 ---
 
-### මහ රෑ සිදුවුණ බිහිසුණු අනතුර
+### The horrible accident of the night
 
 *2024-12-02 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203950) · `si`
 
-මාතර, අකුරැස්ස ප්‍රධාන මාර්ගයේ රාහුල මංසන්ධිය අසල දී මෝටර් රථයක් මාර්ගයෙන් ඉවතට පැන බිහිසුණු අනතුරක් සිදුව තිබුණි.
+Car crash near Rahula junction: 3 injured, hospitalized. Driver lost control heading to Matara. Vehicle severely damaged. Police investigating.
 
-ඊයේ (01) රාත්‍රියේ අදාළ අනතුර සිදුව තිබූ අතර, අනතුරින් මෝටර් රථයේ ගමන් ගත් පුද්ගලයින් තිදෙනෙකු තුවාල ලබා මාතර මහ රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-මෝටර් රථය අකුරැස්ස සිට මාතර දෙසට ධාවනය කරමින් තිබිය දී රියදුරුට රථය පාලනය කර ගැනීමට නොහැකිව මෙම අනතුර සිදුව තිබූ අතර අනතුරින් රථයට දැඩි හානි සිදුව තිබුණි.
+A car had arrapped by a car near the Rahula junction at Akuressa main road.
 
-මාර්ගය අයිනේ තිබු විදුලි පහන් කණුවකටද අනතුරින් අලාභ හානි සිදුව ඇති අතර අනතුර සම්බන්ධයෙන් මාතර පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+The accident had occurred last night and three persons who were traveling in the accident were injured and admitted to the Matara General Hospital.
+
+The driver was not able to control the vehicle while the car was driving from Akuressa to Matara and the vehicle was severely damaged.
+
+The Matara Police are conducting further investigations into the accident.
 
 ◼️
 
 [Data](articles/9bdd1998.json)
 
+[Extended Data](ext_articles/9bdd1998.ext.json)
+
 ---
 
-### උඩරට දුම්රිය ධාවනය සාමාන්‍ය පරිදි
+### Upcountry train runs is normal
 
 *2024-12-02 11:05:21* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමාන්‍ය-පරිදි/11-413392) · `si`
 
-උඩරට දුම්රිය මාර්ගයේ බදුල්ල දක්වා දුම්රිය ධාවනය  පෙර පරිදි අද (02) සිට ධාවනය කරනු ලබන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.
+Here's a summary in 200 characters:
 
-උඩරට දුම්රිය මාර්ගයට උඩුවර ප්‍රදේශයේ දී නායායෑමට ලක් වු විශාල පස් කන්දක් කඩා වැටීම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ බදුල්ල දක්වා  දුම්රිය ධාවනය දින හයක පමණ කාලයක් සම්පුර්ණයෙන්ම ඇණ හිට පැවැතිණි.
 
-මේ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය ඇල්ල දුම්රිය ස්ථානය දක්වා සීමා වී පැවතිණි.
 
-නායයෑමට ලක්වීමෙන් උඩරට දුම්රිය මාර්ගයේ උඩුවර ප්‍රදේශයේ පැවති  අවහිරතා ඉවත් කොට ඇති බවත්, පෙර පරිදි නියමිත කාලසටහනට අනුව උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනය සාමාන්‍ය පරිදි සිදු වන බව නාවලපිටිය දුම්රිය පාලක මැදිරියේ ප්‍රකාශකයෙකු කීය.
+Upcountry train services resume after landslide removal on Udurutan railway line. Railway Control Room in Nawalapitiya now operates Kandyan railway line from Badulla.
+
+🟩
+
+The Railway Control Room (UPFA) will be operated from today (02) as a result of the Kandyan railway line.
+
+The Kandyan Railway Lighyorway was a large number of roads to Badulla due to the collapse of a large mountain in the Udunura area.
+
+As a result, the railway line was restricted to the fall station.
+
+The landslide has been removed from the Uduruwara area on the Udurutan railway line and the upcountry railway line is usually done by the Nawalapitiya Railway Control Room.
 
 ◼️
 
 [Data](articles/a42424a1.json)
 
+[Extended Data](ext_articles/a42424a1.ext.json)
+
 ---
 
-### மோட்டார் சைக்கிள் விபத்தில் ஒருவர் பலி : பெண்ணும் இரு சிறுவர்களும் காயம்
+### Motorcycle accident
 
 *2024-12-02 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200202) · `ta`
 
-கொழும்பு - நீர்கொழும்பு வீதியில் லியனகேமுல்ல பகுதியில்  நேற்று ஞாயிற்றுக்கிழமை (01) இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளதுடன் பெண்ணொருவரும் இரண்டு சிறுவர்களும் காயமடைந்துள்ளதாக  சீதுவை பொலிஸார் தெரிவித்தனர்.
+Motorcycle crash kills one, injures three in Liyanagemulla. Driver loses control, hits wire.
 
-செலுத்துனரின் கட்டுப்பாட்டை இழந்த மோட்டார் சைக்கிள் ஒன்று வீதியை விட்டு விலகி அருகிலிருந்த மின்கம்பத்தில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தின் போது மோட்டார் சைக்கிளின் செலுத்துனரும் பின்புறத்தில் அமர்ந்திருந்த பெண்ணும் இரண்டு சிறுவர்களும் காயமடைந்துள்ள நிலையில் நீர்கொழும்பு வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மோட்டார் சைக்கிளின் செலுத்துனர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+One person was killed in an accident on Sunday (01) in Liyanagemulla area on Colombo -Negombo road, and a woman and two boys were injured, police said.
+
+The accident occurred when a motorcycle lost control of the driver and crashed into a nearby wiring.
+
+The motorcycle driver and two boys were injured when the motorcycle driver and two boys were injured during the accident.
 
 ◼️
 
 [Data](articles/08347915.json)
+
+[Extended Data](ext_articles/08347915.ext.json)
 
 ---
 
@@ -657,6 +907,8 @@ The Deputy Minister also indicated that divisional and district secretaries have
 ...
 
 [Data](articles/4afe22e2.json)
+
+[Extended Data](ext_articles/4afe22e2.ext.json)
 
 ---
 
@@ -2045,257 +2297,5 @@ He was a bowler who won a lot of attention.
 [Data](articles/07ef36a1.json)
 
 [Extended Data](ext_articles/07ef36a1.ext.json)
-
----
-
-### New govt. not rushing decisions on SOE restructuring – President’s Economic Advisor
-
-*2024-12-01 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103908/new-govt-not-rushing-decisions-on-soe-restructuring-presidents-economic-advisor) · `en`
-
-Senior Economic Advisor to the President Duminda Hulangamuwa claims that the new government is encouraging the private sector to be at the forefront of economic development in the country.
-
-However, he noted that the government will retain control over strategic sectors of public interest.
-
-Joining Ada Derana’s current affairs program, ‘@HydePark’, Hulangamuwa highlighted that the government is pursuing a liberal market strategy to encourage private sector investment.
-
-Commenting on the restructuring of state-owned enterprises, Hulangamuwa explained that the government is not rushing the process but is carefully analysing which state-owned enterprises (SOEs) are a burden on the treasury.
-
-Responding to a question regarding the government’s stance on SOE restructuring, the Senior Economic Advisor to the President noted that the restructuring of the SOEs can take different forms and that the government is not rushing decisions regarding the matter.
-
-...
-
-[Data](articles/9342dad1.json)
-
-[Extended Data](ext_articles/9342dad1.ext.json)
-
----
-
-### Two arrested with drug pills in Jaffna
-
-*2024-12-01 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200179) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-In the Jaffna Police Division, two suspects with drug pills were arrested by police on Saturday (30).
-
-They were arrested during a raid conducted by a group of officers of the Jaffna Camp of the Police Special Task Force.
-
-The arrested suspects are from Thirunagar and Kurunagar, aged 21 and 22.
-
-100 narcotics pills have been seized by police from the arrested suspects.
-
-Subsequently, the suspects have been handed over to the Jaffna Police Station for further investigations.
-
-◼️
-
-[Data](articles/ecf202bf.json)
-
-[Extended Data](ext_articles/ecf202bf.ext.json)
-
----
-
-### One person arrested with ice drugs
-
-*2024-12-01 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200180) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-A suspect in the Kalmunai - Periyaruwanai police division in the area of ​​the police division has been arrested by police on Saturday (30).
-
-He was arrested during a raid conducted by a group of officers from the Kalmunai Camp of the Police Special Task Force.
-
-The suspect was 32 years old from Polgahawela.
-
-From the suspect, 05 g 340 milligrams of ice have been seized by the police.
-
-Subsequently, the suspect has been handed over to the Periyaruwana police station for further investigations.
-
-◼️
-
-[Data](articles/156ef453.json)
-
-[Extended Data](ext_articles/156ef453.ext.json)
-
----
-
-### Robbery in Mattala;Information by the police!
-
-*2024-12-01 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200182) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-Police Media Spokesperson Nihal Dalduwa said that nine persons have been arrested in connection with the robbery of the suspects in a van in the Matale -Lakkala police division.
-
-On November 10, some members of the robbery gang in the area of ​​the Lakkala police division have entered a house and built the owner of the house.
-
-Since then, more than six crores of assets have been looted from the house, including a gem of Rs.
-
-The police spokesman said that they had taken a car in the house and that the car was found in Galewela area.
-
-Meanwhile, the police spokesman said that the gem was divided into 7 pieces of Rs.
-
-Nine robbers have been arrested during a roundup of the Matale Police Crime Unit and the Lakkala police.
-
-He added that the police are taking steps to seize other assets and arrest two suspects.
-
-◼️
-
-[Data](articles/28316d82.json)
-
-[Extended Data](ext_articles/28316d82.ext.json)
-
----
-
-### Child’s Guide To Central Bank’s New Monetary Policy Instrument: Overnight Policy Rate
-
-*2024-12-01 20:54:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-central-banks-new-monetary-policy-instrument-overnight-policy-rate/) · `en`
-
-Aseni, whiz kid in economics, has seen the viral news that the Central Bank has moved to a new monetary policy instrument called the Overnight Policy Rate, abbreviated as OPR. There has been a press release from the Central Bank, but it has been in technical jargons. As a result, it has been beyond the comprehension of the ordinary citizens. Aseni herself could not understand it. Hence, she turned to her grandpa, Sarath Mahatthaya, an ex-official of the Ministry of Finance, to elucidate this new instrument to her. This is the conversation between the two.
-
-...
-
-[Data](articles/d963c040.json)
-
-[Extended Data](ext_articles/d963c040.ext.json)
-
----
-
-### Fuel pricing reduction is unreasonable this government also exploits the people - the union union
-
-*2024-12-01 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200186) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-The brokerage that went to former Minister Kanjana Wijeshekara during the importation of fuel goes to the current government. Survives these people. Ambika Sukuma, a representative of the plantation people, said,
-
-The government headed by President Anura Kumara Dissanayake is implementing the fuel pricing campaign by defrauding the former Power and Power and Energy Minister.
-
-Minister of Industry and Entrepreneurship Sunil Anduunethi said that if his party comes to power during the presidential election, he will distribute the parents of one liter of Rs.
-
-Two months have passed since President Anuragumara Dissanayake has come to power in 24 hours.. The government must understand that there is mutual differences between speaking in election campaigns and carrying out the state administration.
-
-...
-
-[Data](articles/f9bac661.json)
-
-[Extended Data](ext_articles/f9bac661.ext.json)
-
----
-
-### A deficit of coconut in the market
-
-*2024-12-01 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203936) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-The coconut price is highly valued with the shortage of coconut shortages these days in the market.
-
-Accordingly, the price of a coconut in the market has increased to Rs. 200.
-
-Consumers say that a rice and coconut shortage is in the market.
-
-There is also a shortage of nadu and ridges that are consumed in such a background.
-
-The United Kingdom Manufacturers Association (Sahal Manufacturers Association) The rice bulk prices have increased over the government's control price.
-
-The Ministry of Trade has decided to revise big onion imports.
-
-Accordingly, the Special Commodity Tax of Rs.
-
-The new tax revision is implemented until December 31, while heavy onion prices were increased in the market and the festive season, the Ministry of Finance, Planning and Economic Development said.
-
-◼️
-
-[Data](articles/efcd6c70.json)
-
-[Extended Data](ext_articles/efcd6c70.ext.json)
-
----
-
-### Steps will be taken to create the Northern Province Investors Forum - Governor Na Vedanayaka
-
-*2024-12-01 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200184) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Northern Province Investors Forum creation underway. Governor Na Vedanayaka meets Jaffna Merchant Association. Discusses permanent market opportunities, small-medium entrepreneur support, factory establishment challenges, and investor benefits. Proposes annual conferences and refrigerated bus service. Addresses sand shortage, passenger shipping safety, and poverty relief mechanisms.
-
-🟩
-
-Northern Province Hon.
-
-The delegation headed by the Chairman of the Jaffna Merchant, E. Jayasekaran, met the Governor of the Northern Province at the Governor's Secretariat on Friday evening 29.11.2024.
-
-Yall. Merchants representatives pointed out that the site that is not long in the new market building in the city can be made permanent market opportunity by providing a rent to small and medium entrepreneurs on the basis of rent.. Yall. The governor said that action would be taken to investigate with the Municipal Council.
-
-Representatives of the Merchant Association noted that even though many are interested in carrying out small and medium entrepreneurs, they are facing difficulties in obtaining areas and permission to establish factories.
-
-They said that if the appropriate places were allocated to each Divisional Secretariat Division, they would be given a lease basis and would be easy if the officers were regulated on the same roof to obtain permissions.
-
-...
-
-[Data](articles/518a6bb6.json)
-
-[Extended Data](ext_articles/518a6bb6.ext.json)
-
----
-
-### Sri Lanka to defer imputed rental tax: report
-
-*2024-12-01 20:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-defer-imputed-rental-tax-report-191070/) · `en`
-
-ECONOMYNEXT – A controversial imputed tax on housing promoted by the International Monetary Fund, with rents on second houses already taxed will be deferred, a senior advisor to Sri Lanka President Anura Kumara Dissanayake has said.
-
-The government was also working on a policy of targeted subsidies rather than indiscriminate tax reduction, he said.
-
-The imputed rental tax, which was to have been paid on owner-occupied houses and later adjusted to a second house, has been controversial.
-
-There have been warnings that such a tax may discourage the expansion of housing stock where high taxes are already paid on building materials.
-
-“That will be deferred,” Duminda Hulangamuwa, advisor to the President told a talk show Sri Lanka’s Derana Television.
-
-The tax was expected to bring around 0.2 percent of revenue.
-
-The Head of the Economic Council of the NPP, Anil Jayantha pointed out before the elections that imputed income was not real income.
-
-...
-
-[Data](articles/5127e639.json)
-
-[Extended Data](ext_articles/5127e639.ext.json)
-
----
-
-### Family killed in sword incident in Vavuniya
-
-*2024-12-01 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200183) · `ta`
-
-Family tragedy: Sword attack kills man in Vavuniya. Father of two fatally injured while tending cattle. Victim rushed to hospital but succumbed to injuries. Incident occurred in Omanthai Semamadu area.
-
-🟩
-
-A family member has been killed in a sword incident in the Omanthai Semamadu area in Vavuniya.
-
-A group of swords have been cut on a family member who tilted cows in the area. He was rescued by the victims and was admitted to the Vavuniya Hospital.
-
-The father of two children, Selvaniroyan, aged 46, from Navakkulam, has been killed in the incident.
-
-◼️
-
-[Data](articles/399ff20b.json)
-
-[Extended Data](ext_articles/399ff20b.ext.json)
 
 ---

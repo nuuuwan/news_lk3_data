@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 11:43:20**
+As of **2024-12-03 12:02:27**
 
 ## Newspaper Stats
 
-*Scraped **58,184** Articles*
+*Scraped **58,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,497
 economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,502
-adaderanalk | 7,057
-tamilmirrorlk | 8,271
+adalk | 5,503
+adaderanalk | 7,061
+tamilmirrorlk | 8,276
 virakesarilk | 9,520
 adaderanasinhalalk | 10,052
 
@@ -26,11 +26,145 @@ adaderanasinhalalk | 10,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,184 (100.0%) of 58,184 articles have been extended.
+58,184 (100.0%) of 58,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### மு.கா.எம்.பியாக நளீம் சத்தியப்பிரமாணம்
+
+*2024-12-03 11:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-எம்-பியாக-நளீம்-சத்தியப்பிரமாணம்/175-348165) · `ta`
+
+ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸ் கட்சியை பிரதிநிதித்துவப்படுத்தி தேசிய பட்டியலினூடாக பாராளுமன்ற உறுப்பினராக தெரிவு செய்யப்பட்ட மொஹமட் சாலி நளீம், சபாநாயகர் (கலாநிதி) அசோக சபுமல் ரன்வல முன்னிலையில் செவ்வாய்க்கிழமை (03) சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+கடந்த பொதுத் தேர்தலில் முஸ்லிம் காங்கிரஸ் போட்டியிட்டு 87,038 வாக்குகளை பெற்று 2 ஆசனங்களை வென்றது. இந்நிலையில், கட்சிக்கான தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் பதவிக்கான ஒரு வெற்றிடத்துக்கு இவர் கட்சியால் நியமிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b1e36dfd.json)
+
+---
+
+### பொலிஸ் ஊடகப் பணிப்பாளர் நியமனம்
+
+*2024-12-03 11:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-ஊடகப்-பணிப்பாளர்-நியமனம்/175-348164) · `ta`
+
+பொலிஸ் ஊடகப் பிரிவின் புதிய பணிப்பாளராகவும், பொலிஸ் ஊடகப் பேச்சாளராகவும், பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவாவுக்குப் பதிலாக சிரேஷ்ட பொலிஸ் அத்தியட்சகர் (எஸ்எஸ்பி) கே.பி.மனதுங்க நியமிக்கப்பட்டுள்ளார்.
+
+SSP மானதுங்க கந்தளே பிரிவில் இருந்து இடமாற்றம் செய்யப்பட்டுள்ளார், அதே நேரத்தில்  தல்துவ குற்றப் பிரிவு டிஐஜியாக பதவியில் நீடிப்பார்.
+
+இதேவேளை, பரீட்சை பிரிவின் பணிப்பாளராக இருந்து விலகி கொழும்பு குற்றத்தடுப்பு பிரிவின் பணிப்பாளராக சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஐ.யு.கே லொக்குஹெட்டி இடமாற்றம் செய்யப்பட்டுள்ளார்.
+
+பயங்கரவாத தடுப்பு மற்றும் புலனாய்வு பிரிவின் புதிய பணிப்பாளராக சிரேஷ்ட பொலிஸ் அத்தியட்சகர் எச்.டி.கே.எஸ் பெரேரா நியமிக்கப்பட்டு, கொழும்பு மோசடி விசாரணை பிரிவில் இருந்து இடமாற்றம் செய்யப்பட்டுள்ளார்.
+
+மேலும், பொலிஸ் அத்தியட்சகர் கே.ஏ.உதய குமார, புத்தளம் பிரிவில் இருந்து வலான ஊழல் தடுப்புப் பிரிவின் பணிப்பாளராக இடமாற்றம் செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/3b7ec527.json)
+
+---
+
+### முக்கிய பதவிகளில் மாற்றம்
+
+*2024-12-03 11:41:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-பதவிகளில்-மாற்றம்/175-348163) · `ta`
+
+பொலிஸ் ஊடகப் பிரிவின் புதிய பணிப்பாளராகவும், பொலிஸ் ஊடகப் பேச்சாளராகவும் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் (SSP) கே.பி. மனதுங்க நியமிக்கப்பட்டுள்ளானர்.
+
+இதேவேளை முன்னாள் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ குற்றத்தடுப்புப் பிரிவின் பிரதிப் பொலிஸ் மா அதிபர் பதவியில் நீடிப்பார். R
+
+◼️
+
+[Data](articles/b08b0280.json)
+
+---
+
+### மொகமது சாலி நஹீம் எம்.பியாக சத்தியப்பிரமாணம்
+
+*2024-12-03 11:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொகமது-சாலி-நஹீம்-எம்-பியாக-சத்தியப்பிரமாணம்/175-348162) · `ta`
+
+மொகமது சாலி நஹீம் சற்று முன்னர் சபாநாயகர் அசோக ரன்வல முன்னிலையில் பாராளுமன்ற உறுப்பினராக சத்தியப்பிரமாணம் செய்து கொண்டார்.
+
+◼️
+
+[Data](articles/8a76466e.json)
+
+---
+
+### Sri Lankan migrants brought to UK from Diego Garcia
+
+*2024-12-03 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103955/sri-lankan-migrants-brought-to-uk-from-diego-garcia) · `en`
+
+Migrants stranded for more than three years on the remote Indian Ocean island of Diego Garcia have been brought to the UK.
+
+The Sri Lankan Tamils are permitted to remain in the country for six months, with financial support from the Foreign Office, according to documents seen by the BBC.
+
+Their journey to the UK marks the end of years of complex legal battles waged over thousands of miles over their fate, but their long-term future remains uncertain.
+
+Most of the group of around 60 migrants have been living in a makeshift camp on Diego Garcia - the site of a strategic UK-US military base - since October 2021, when they became the first people ever to file asylum claims there.
+
+On Monday, a government spokesperson described the move as a “one-off, due to the exceptional nature of these cases and in the interests of their welfare”.
+
+“This government inherited a deeply troubling situation that remained unresolved under the last administration for years,” the spokesperson said.
+
+...
+
+[Data](articles/a18e3d11.json)
+
+---
+
+### New Police Spokesman appointed
+
+*2024-12-03 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103954/new-police-spokesman-appointed-) · `en`
+
+Senior Superintendent of Police (SSP) K.B. Manathunga has been appointed as the Director Police Media and the Police Spokesman.
+
+Meanwhile, former Spokesman DIG Nihal Thalduwa will continue in his capacity as the DIG of Crimes Range, according to Sri Lanka Police.
+
+◼️
+
+[Data](articles/3d037563.json)
+
+---
+
+### Litro Gas to announce December price revisions tomorrow
+
+*2024-12-03 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103953/litro-gas-to-announce-december-price-revisions-tomorrow) · `en`
+
+The Litro Gas Company says that the LP gas price revision for the month of December will be announced tomorrow (04).
+
+A spokesperson of the company mentioned that the price revision will be carried out based on the current global market’s LP gas prices.
+
+Furthermore, it was reported that although the gas prices have risen internationally leading to an expected increase in local prices, negotiations are ongoing to keep the local prices stable to provide relief to the people.
+
+The price revision proposal related to the matter has reportedly forwarded to the Ministry of Finance.
+
+No LP gas price revision took place last month, and the most recent price revision was in October.
+
+◼️
+
+[Data](articles/eb5f308f.json)
+
+---
+
+### Iraqi fighters head to Syria to battle rebels but Lebanon’s Hezbollah stays out, sources say
+
+*2024-12-03 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103952/iraqi-fighters-head-to-syria-to-battle-rebels-but-lebanons-hezbollah-stays-out-sources-say) · `en`
+
+Hundreds of Iran-backed Iraqi fighters crossed into Syria on Monday to help the government fight rebels who seized Aleppo last week, but Lebanon’s Hezbollah has no plans for now to join them, according to sources.
+
+Iran’s constellation of allied regional militia groups, aided by Russian air power, has been integral to the success of pro-government forces in subduing rebels in Syria who rose up against President Bashar al-Assad in 2011.
+
+But that alliance faces a new test after last week’s lightning advance by rebels in northwest Syria, with Russia focused on war in Ukraine and Hezbollah’s leadership decimated by a war with Israel that ended in a ceasefire last week.
+
+The rebel storm of Aleppo is the biggest success of anti-Assad fighters for years. Government forces had held complete control of Aleppo since capturing what was then Syria’s largest city in a siege in 2016, one of the major turning points of a war that has killed hundreds of thousands of people.
+
+...
+
+[Data](articles/055375f7.json)
+
+---
 
 ### 13 Affairs: Opportunity to talk to the president
 
@@ -133,6 +267,28 @@ Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
 [Data](articles/063f261b.json)
 
 [Extended Data](ext_articles/063f261b.ext.json)
+
+---
+
+### அரிசியின் மொத்த  விலை அதிகரிப்பு
+
+*2024-12-03 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியின்-மொத்த-விலை-அதிகரிப்பு/150-348158) · `ta`
+
+நாடு, சம்பா மற்றும் கீரி சம்பா அரிசியின் மொத்த விலையை அதிகரித்துள்ளதாக அரிசி ஆலை உரிமையாளர்கள் நாடளாவிய ரீதியில் உள்ள அரிசி மொத்த வியாபாரிகளுக்கு அறிவித்துள்ளனர்.
+
+அதன்படி, ஒரு கிலோ கிராம் நாட்டு அரிசியின் மொத்த விலை 255 ரூபாயாகவும், சம்பா அரிசி 260 ரூபாயாகவும், கீரி சம்பா 275 ரூபாயாகவும் அதிகரிக்கப்பட்டுள்ளது.
+
+அந்த விலைக்கு தேவையான அரிசியின் அளவுக்கான கட்டணத்தை வங்கியில் செலுத்துமாறு அரிசி ஆலை உரிமையாளர்கள் வியாபாரிகளுக்கு அறிவுறுத்தியுள்ளனர்.
+
+சந்தையில் நாட்டு அரிசியின் கட்டுப்பாட்டு விலை ரூ.220, சம்பா ரூ.230, கீரி சம்பா ரூ.260, அந்த விலைக்கு விற்பனை செய்ய நுகர்வோர் சேவை அதிகாரசபை சுற்றறிக்கையை வெளியிட்டுள்ளது.
+
+அரிசி ஆலை உரிமையாளர்கள்? அரிசியின் விலையை அவ்வப்போது அதிகரிப்பதால் கட்டுப்பாட்டு விலையில் அரிசியை விற்க முடியாமல் தவிப்பதாக அரிசி மொத்த வியாபாரிகள் மற்றும் சில்லறை விற்பனையாளர்கள் தெரிவித்தனர்.
+
+கடந்த வாரம் அரிசி ஆலை உரிமையாளர்கள் நாடு அரிசியை ரூ.235-240, சம்பா ரூ.250, கீரி சம்பா ரூ.260-265 என மொத்த விலையில் வியாபாரிகளுக்கு வழங்கியுள்ளனர்.
+
+◼️
+
+[Data](articles/43ad3ada.json)
 
 ---
 
@@ -371,6 +527,22 @@ It is also planned to establish the PS member of the 10th Parliament today.
 [Data](articles/b5f73610.json)
 
 [Extended Data](ext_articles/b5f73610.ext.json)
+
+---
+
+### අනුරාධ ජයරත්නට හිමිවු නායකත්වයඅනුරාධ ජයරත්නට හිමිවු නායකත්වය
+
+*2024-12-03 09:26:14* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධ-ජයරත්නට-හිමිවු-නායකත්වයඅනුරාධ-ජයරත්නට-හිමිවු-නායකත්වය/11-413417) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායක ලෙස මහනුවර දිස්ත්‍රික් මන්ත්‍රී නීතීඥ අනුරාධ ජයරත්න මහතා නම් කර තිබේ.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායක ලෙස අනුරාධ ජයරත්න මහතා පිළිගන්නා ලෙස ඉල්ලමින් ලිඛිත දැනුම් දීම ඊයේ (2දා) රාත්‍රියේ කථානායක ආචාර්ය අශෝක රන්වල මහතාට යොමු කිරීමට පියවර ගෙන ඇත.
+
+අටවන විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේ ඊයේ පැවති නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ සහ එක්සත් ජාතික පක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී ඉහත තීරණයට එළඹියේය.
+
+◼️
+
+[Data](articles/75b0e50d.json)
 
 ---
 
@@ -2143,261 +2315,5 @@ The Commission has established special units in all districts to reform the proc
 [Data](articles/e3808481.json)
 
 [Extended Data](ext_articles/e3808481.ext.json)
-
----
-
-### Sri Lanka leader meets rice millers amid supply shortage risks after floods
-
-*2024-12-02 18:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-meets-rice-millers-amid-supply-shortage-risks-after-floods-191227/) · `en`
-
-ECONOMYNEXT – Facing a possible supply shortage in rice in the first quarter of 2025, Sri Lanka President Anura Kumara Dissanayake met small and medium-scale rice mill owners to discuss continuous and affordable supply of rice to consumers in the coming months, the President’s Media Division (PMD) said.
-
-The meeting comes days after heavy rains destroyed more than 20 percent of the paddy cultivation area in the island including the large paddy farmland districts of Ampara and Anuradhapura.
-
-People have already started grumbling about higher rice prices under the new government of President Dissanayake, who promised to reduce the prices, the local media have said.
-
-“During the discussion, the President emphasized the importance of ensuring a continuous and affordable supply of rice to consumers in the coming months. He engaged with the mill owners to identify immediate measures needed to achieve this goal,” the PMD said in a statement.
-
-...
-
-[Data](articles/cd9a1e17.json)
-
-[Extended Data](ext_articles/cd9a1e17.ext.json)
-
----
-
-### New secretary to the Ministry of Women and Child Affairs
-
-*2024-12-02 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203967) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ms. Olga appointed as Secretary to Ministry of Women and Child Affairs. President Anura Kumara Dissanayake made the appointment. Letter handed over to Presidential Secretariat on 02/2023.
-
-🟩
-
-KDR as Secretary to the Ministry of Women and Child Affairs. Ms. Olga has been appointed.
-
-The appointment was made by President Anura Kumara Dissanayake.
-
-The letter of appointment was handed over to the Presidential Secretariat today (02) at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/9ec7f08c.json)
-
-[Extended Data](ext_articles/9ec7f08c.ext.json)
-
----
-
-### Landslide warnings issued for 6 districts
-
-*2024-12-02 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103934/landslide-warnings-issued-for-6-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in 6 districts, as heavy rainfall continues in parts of the island.
-
-The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 03).
-
-Accordingly, a Level 1 (Yellow) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Kandy, Kegalle, Kurunegala, Matale and Nuwara-Eliya districts as follows:
-
-Badulla : Badulla, Hali Ela, Meegahakiwula, Bandarawela and Passara Divisional Secretariat DSDs and surrounding areas
-
-Kandy : Pasbage Korale,  Pathahewaheta,  Pathadumbara,  Gangawata Korale,  Doluwa,  Hatharaliyadda,  Ganga Ihala Korale,  Yatinuwara,  Poojapitiya,  Ududumbara,  Medadumbara, Udapalatha,  Delthota,  Udunuwara,  Panwila,  Harispattuwa,  Akurana and Thumpane DSDs and surrounding areas.
-
-Kegalle: Aranayake, Kegalle, Bulathkohupitiya, Mawanella, Yatiyanthota and Ruwanwella DSDs and surrounding areas.
-
-...
-
-[Data](articles/5974ff05.json)
-
-[Extended Data](ext_articles/5974ff05.ext.json)
-
----
-
-### President discusses a special discussion with rice mill owners
-
-*2024-12-02 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203966) · `si`
-
-Pres. Anura Kumara Dissanayake meets rice mill owners. Discusses immediate rice prices, future consumer needs, & increasing storage capacity. Focuses on reducing stock consumption & promoting nadu rice. Introduces QR code system for fertilizer subsidy collection.
-
-🟩
-
-President Anura Kumara Dissanayake has held a special discussion with SMEs with SME Small and Medium Scale Mill Owners.
-
-The President pointed out to SMEs and medium scale rice mills with the immediate prices of rice and continuous consumers in the coming months.
-
-It was also discussed on the steps to increase storage facilities in the country to give the people without any shortage of rice.
-
-It also focused on the decrease in the necessary stocks for consumption as well as the use of nadu rice.
-
-President Anura Kumara Dissanayake also focused on the introduction of a QR code a system to interactively collecting the fertilizer subsidy.
-
-Trade, Commerce, Food Safety and Co-operative Development Wasantha Samarasinghe, Lak Sathosa Chairman Dr. Society, Dr. Savali Perera and SMEs and small and medium scale rice mills were also present.
-
-◼️
-
-[Data](articles/2880682e.json)
-
-[Extended Data](ext_articles/2880682e.ext.json)
-
----
-
-### Grama Niladhari arrested for refusing to feed floods in Jaffna
-
-*2024-12-02 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200257) · `ta`
-
-Jaffna: Grama Niladhari arrested for refusing aid during floods. Two individuals detained after alleged conflict over food distribution. Families protest, police promise impartial investigation.
-
-🟩
-
-Two persons have been arrested for allegedly conflicting with the village servant for allegedly refusing to provide food to some families who have been housed in intermediate camps due to flood disaster in Jaffna.
-
-Some families from Vadamarachchi and Kalvovalam area are staying in the interim camps due to floods.
-
-Some of them have been logical as the Grama Niladhari refused to provide food on Sunday (01).
-
-Subsequently, the Grama Niladhari had lodged a complaint at the Point Pedro Police Station that he had disrupted his duty.
-
-The victim's family staged a protest in front of the Vadamarachchi Northern Divisional Secretariat today (02), saying that the victim's families had lied to the reason for their duties and that the police had arrested two persons on the basis of the false complaint.
-
-Subsequently, the Superintendent of Police and the Divisional Secretary of the Point Pedro Police Station promised to carry out a non -partisan inquiries and take appropriate action.
-
-◼️
-
-[Data](articles/a93f8095.json)
-
-[Extended Data](ext_articles/a93f8095.ext.json)
-
----
-
-### Discussion between President and Small and Central Rice Manufacturers
-
-*2024-12-02 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200260) · `ta`
-
-President discusses rice supply, pricing, and storage with small-medium mill owners. Focuses on maintaining affordable availability and increasing reserve capacity.
-
-🟩
-
-The President pointed out the need for continuous supply of rice to the people at reasonable prices without shortage.
-
-A discussion between President Anura Kumara Dissanayake and the owners of small and medium rice mills was held on Monday (02) at the Presidential Office.
-
-The president, speaking to the owners of small and medium rice mill in the coming months, discussed the need to continue to provide rice at a reasonable price without a shortage of consumers, and discussed the urgent measures to be taken.
-
-It was also discussed about the steps to be taken to increase the repository facilities in the country to provide rice to the people without scarcity.
-
-The use of the country's rice for the value of the products is also focused on the shortage of the reserves required for consumption.
-
-The President also focused on the introduction of the QR index system with the aim of using fertilizer subsidy with the effectiveness of national production.
-
-...
-
-[Data](articles/76cc8e8d.json)
-
-[Extended Data](ext_articles/76cc8e8d.ext.json)
-
----
-
-### Rs.. If a billion is separated, an acre receives Rs. 2600
-
-*2024-12-02 17:42:36* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-වන්දි-වෙනුවෙන්-රු--බිලියනයක්-වෙන්කළොත්-අක්කරයකට-ලැබෙන්නේ-රු--2600යි/11-413411) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Government allocates Rs. 2600 per acre from Rs. 1 billion for flood-hit farms. Critics argue this is insufficient compensation, citing previous damages exceeding Rs. 40,000 per acre.
-
-🟩
-
-Although the present government is declared a billion rupees for farmland, a acre of Rs.
-
-He was speaking at a media briefing held at the Head Office today (02nd).
-
-Speaking further Mr. Nalin Bandara said:
-
-"Nearly 8,000 acres of farms in the country have been flooded due to floods in the recent floods. The government has allocated Rs. 1 billion for compensation for these lands. Accordingly, a meager money has been allocated as Rs. 2600 per acre.
-
-So is a billion rupees enough?I don't know what the billions of Rs. The boasting has allocated 2600 rupees for an acre of Rs. 2600 for an agreement that the government has allocated Rs.. This is not enough. Those people said that Rs. 40,000. We saw that 40,000 was inadequate. Aboriginal Leader Vanni has stated that no one else.
-
-...
-
-[Data](articles/10352515.json)
-
-[Extended Data](ext_articles/10352515.ext.json)
-
----
-
-### 13 persons arrested for 2.3 tonnes of cocaine
-
-*2024-12-02 17:25:25* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-මෙට්‍රික්-ටොන්-2-3ක්-සමග-පුද්ගලයන්-13-අත්අඩංගුවට/11-413410) · `si`
-
-Australian police arrest 13 individuals for 2.3 tonnes of cocaine, valued at $494 million. This is the largest drug seizure in Australian history.
-
-🟩
-
-The Australian police have arrested 13 people with 2.3 metric tons of cocaine.
-
-Foreign media reports that US $ 494 million is US $ 494 million in the street of cocaine.
-
-This is the largest drug consignment found in Australian history.
-
-◼️
-
-[Data](articles/de476a12.json)
-
-[Extended Data](ext_articles/de476a12.ext.json)
-
----
-
-### Floods remove the warning
-
-*2024-12-02 17:22:26* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-අනතුරු-ඇඟවීම-ඉවත්-කරයි/11-413409) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Flood warnings for Mahaweli River and Deduru Oya removed. Issued on 26th, cancelled yesterday. Water levels being monitored. Future flood risks will be assessed."
-
-🟩
-
-The floods issued to the Mahaweli River and Deduru Oya have been removed today (02).
-
-The Hydrogiology and Disaster Management Division of the Department of Irrigation and the Disaster Management Division released floods in relation to the two rivers on the 26th.
-
-The deviation announcements have been removed yesterday, and the warning announcements have been removed yesterday, and is constantly focusing on water levels in the river.
-
-The Department points out that if there is a risk of flooding in the future, the Department points out.
-
-◼️
-
-[Data](articles/8aa917d4.json)
-
-[Extended Data](ext_articles/8aa917d4.ext.json)
-
----
-
-### A Notification for O / L applicants
-
-*2024-12-02 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203965) · `si`
-
-GCE Ordinary Level exam application deadline extended to Nov 30 due to weather conditions. Online exam available.
-
-🟩
-
-Application date has been extended to the GCE Ordinary Level examination (2024/25).
-
-Online method, the exam was given to the same exam to 30 November to 30.
-
-However, the Commissioner General of Examinations H JM M SM Amit Jayasundara has announced that the time had been extended to the island due to the adverse weather conditions.
-
-◼️
-
-[Data](articles/1705b2b8.json)
-
-[Extended Data](ext_articles/1705b2b8.ext.json)
 
 ---

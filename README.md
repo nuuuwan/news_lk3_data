@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 16:17:00**
+As of **2024-12-03 16:01:31**
 
 ## Newspaper Stats
 
-*Scraped **58,255** Articles*
+*Scraped **58,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,21 @@ islandlk | 3,497
 economynextcom | 3,535
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,510
+adalk | 5,507
 adaderanalk | 7,073
 tamilmirrorlk | 8,289
 virakesarilk | 9,529
-adaderanasinhalalk | 10,066
+adaderanasinhalalk | 10,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,237 (100.0%) of 58,255 articles have been extended.
+58,237 (100.0%) of 58,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
-
-### වරප්‍රසාද සීමා කිරීමට චිත්‍රසිරි වාර්තාව අධ්‍යයනය කරමින් සිටිනවා -  නලින්ද ජයතිස්ස
-
-*2024-12-03 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203999) · `si`
-
-මැතිඇමතිවරුන් සහ හිටපු ජනාධිපතිවරුන්ගේ වරප්‍රසාද සීමා කිරීමට අදාළව කේ. ටී. චිත්‍රසිරි කමිටු වාර්තාව අධ්‍යයනය කරමින් සිටින බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා අද (03) සඳහන් කළේය.
-
-කැබිනට් තීරණ දැනුම්දීම සඳහා අද කැඳවා තිබූ මාධ්‍ය හමුවේදී අදහස් දක්වමින් ඔහු ඒ බව පැවසීය.
-
-"ජනාධිපතිවරයා පත්වූ පසු කමිටුවක් පත් කළා..මැතිඇමතිවරුන්ගේ වරප්‍රසාද සම්බන්ධයෙන් විමර්ශනය කිරීමට. හිටපු ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ. ටී. චිත්‍රසිරි මහතාගේ සභාපතීත්වයෙන්. ඔවුන්ගේ වාර්තාව ඊයේ ජනාධිපතිතුමාට බාර දුන්නා. ඒ ගැන අධ්‍යයනය කරමින් ඉන්නවා."
-
-"ඒ වාර්තාවේ සඳහන් වෙනවා. ඔවුන් නිර්දේශ කරලා තියෙනවා යම් යම් වරප්‍රසාද කොහොමද සීමා කරන්නේ කියන එක පිළිබඳව. මේ සියල්ල අපි එකට සලකා බලන්නේ."
-
-මන්ත්‍රීවරුන්, අමාත්‍යවරුන් හා හිටපු ජනාධිපතිවරුන්ට ලබාදෙන දීමනා හා වරප්‍රසාද පිළිබඳ නැවත සලකා බැලීමට පත්කළ කේ. ටී. චිත්‍රසිරි කමිටුවේ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත ඊයේ (02) භාරදී තිබුණි.
-
-◼️
-
-[Data](articles/568c8822.json)
-
----
-
-### බලපත්‍ර ලබා ගැනීමකින් තොරව සහල් ආනයනය කිරීමට අවසර
-
-*2024-12-03 15:46:45* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-ලබා-ගැනීමකින්-තොරව-සහල්-ආනයනය-කිරීමට-අවසර/11-413425) · `si`
-
-දේශීය වෙළඳපොලේ දැනට පවතින නාඩු සහල් හා අනෙකුත් සහල් වර්ග හිඟය මෙන්ම පසුගිය දිනවල පැවැති අධික වර්ෂාපතනය හේතුවෙන් වී වගාව සඳහා සිදුවී ඇති හානිය සැලකිල්ලට ගනිමින් සහල් ආනයනය කිරීම සඳහා දැනට පවතින සීමාවන් තාවකාලිකව ඉවත් කිරීමේ යෝග්‍යතාව අමාත්‍ය මණ්ඩලය විසින් සලකා බලා තිබේ.
-
-ඒ අනුව ආනයන පාලන බලපත්‍ර ලබා ගැනීමකින් තොරව 12/20 දින දක්වා මෙරටට සහල් ආනයනය කිරීම සඳහා වහම ක්‍රියාත්මක වන පරිදි අවසර ලබාදීමට තීරණය කර තිබේ.
-
-◼️
-
-[Data](articles/a9a7acbc.json)
-
----
 
 ### Sri Lanka stocks close up, driven by F&B, tobacco sector
 
@@ -103,22 +69,6 @@ Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minis
 ...
 
 [Data](articles/ed825c9c.json)
-
----
-
-### දුම්රිය සේවකයෙක් දුම්රියක ගැටී මරුට
-
-*2024-12-03 15:37:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයෙක්-දුම්රියක-ගැටී-මරුට/11-413424) · `si`
-
-මහනුවර දුම්රිය ස්ථානයේ සේවයේ නියුතු දුම්රිය මාර්ග අංශයේ සේවකයෙකු මහනුවර දුම්රිය ස්ථානය තුළදී දුම්රියක ගැටී මිය යාමේ සිද්ධියක් වාර්තා වේ.
-
-එසේ මියගොස් ඇත්තේ දුම්රිය මාර්ග අංශයේ කම්කරුවකු ලෙස සේවය කළ ශ්‍රී ලාල් ප්‍රේමරත්න (58) නමැතියෙකි.
-
-ඔහු තේ පානය කිරීම සඳහා දුම්රිය ස්ථානයේ ආපනශාලාව වෙත දුම්රිය මාර්ගය මත ගමන් කරමින් සිටියදී පේරාදෙණිය දෙසින් මහනුවර කොළඹ සීඝ්‍රගාමී දුම්රිය පැමිණීම හේතුවෙන් වෙනත් දුම්රිය මාර්ගයකට මාරු වූ අවස්ථාවේදී එම මාර්ගය ඔස්සේ පැමිණි දුම්රිය එන්ජිමක ඔහු ගැටී ඇති අතර ඉන් ඔහු බරපතල තුවාල ලබා මහනුවර ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු මිය ගොස් තිබේ.
-
-◼️
-
-[Data](articles/765de10a.json)
 
 ---
 
@@ -199,20 +149,6 @@ This transformative initiative, which is guided by the new government’s vision
 ...
 
 [Data](articles/5023a34e.json)
-
----
-
-### හෙට පාර්ලිමේන්තුව රාත්‍රී 9.30 තෙක්
-
-*2024-12-03 15:18:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාර්ලිමේන්තුව-රාත්‍රී-9-30-තෙක්/11-413423) · `si`
-
-පසුගිය දිනවල පැවති අයහපත් කාලගුණය හේතුවෙන් ඇති වී ඇති ආපදා තත්ත්වය පිළිබඳ සභාව කල්තැබීමේ විවාදයක් හෙට (04) ප.ව 5.30 සිට ප.ව 9.30 දක්වා පැවැත්වීමට අද (03) පාර්ලිමේන්තුවේදී කථානායක ආචාර්ය අසෝක රන්වල මහතාගේ ප්‍රධානත්වයෙන් පැවති පක්ෂ නායක රැස්වීමේදී තීරණය වී තිබේ.
-
-මේ අනුව පෙර තීරණය කළ පරිදි ජනාධිපතිවරයා විසින් පසුගියදා පාර්ලිමේන්තුවේදී ඉදිරිපත් කළ ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශයට අදාළ යෝජනාව පිළිබඳ විවාදය හෙට පෙ.ව 9.30 සිට ප.ව 5.00 දක්වා පැවැත්වේ. අනතුරුව ප.ව 5.00 ට පැවැත්වීමට නියමිත ඡන්ද විමසීමෙන් අනතුරුව ප.ව 5.30 ට විරුද්ධ පාර්ශ්වය විසින් ‍ගෙනෙනු ලබන යෝජනාවක් ලෙස මෙම  සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී එකඟත්වය පළ වී ඇත.
-
-◼️
-
-[Data](articles/6fde3981.json)
 
 ---
 
@@ -2375,5 +2311,111 @@ The Commissioner General of Examinations said that the subjects on the days of n
 [Data](articles/779d6bac.json)
 
 [Extended Data](ext_articles/779d6bac.ext.json)
+
+---
+
+### It may be raining today
+
+*2024-12-03 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை-பெய்யக்-கூடும்/175-348150) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rainfall warning issued for parts of Sri Lanka today. Coastal areas from Batticaloa to Kankesanthurai may experience rain. Rest of the country expects mostly clear skies.
+
+🟩
+
+The Department of Meteorology has said that some parts of the country are likely to experience a little rain today.
+
+There is a possibility of rainfall in some places beyond the coastal coastal areas from Batticaloa to Kankesanthurai via Trincomalee.
+
+The rest of the country is expected to be mainly uniform. (A)
+
+◼️
+
+[Data](articles/a7df9f1a.json)
+
+[Extended Data](ext_articles/a7df9f1a.ext.json)
+
+---
+
+### Parliament may meet today
+
+*2024-12-03 08:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-இன்று-கூடும்/175-348149) · `ta`
+
+Parliament meets today at 9:30 AM. Speaker Ashoka Ranwala leads the session. Initial meeting on Nov 21 included Speaker, Deputy Speaker, Committee Chair selection, and member confirmation. President's policy speech follows.
+
+🟩
+
+The Parliament will convene today at 9.30 am under the leadership of Speaker Ashoka Ranwala.
+
+The initial session of the 10th Parliament was held on November 21st. On that day, the selection of the Speaker, the Deputy Speaker's Selection, the Deputy Chairman of the Committees and the Confirmation of Members of Parliament.
+
+Thereafter the president's policy speech was held after the adjournment of the council. (A)
+
+◼️
+
+[Data](articles/fe25abfd.json)
+
+[Extended Data](ext_articles/fe25abfd.ext.json)
+
+---
+
+### Sri Lanka on behalf of Sri Lanka on the evening of the US State Department Assistant Secretary
+
+*2024-12-03 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203976) · `si`
+
+US State Department official Donald Lu visits Sri Lanka, India, Nepal to strengthen regional ties and discuss economic reforms with new Sri Lankan government leaders.
+
+🟩
+
+Mr. Donald on the Southern and Central Institutional Department of America Donald Lune is to visit Sri Lanka.
+
+He is due to visit India while traveling in India and Nepal.
+
+Donald Luh is due to arrive in Sri Lanka (05).
+
+Donald Lu's visit is aimed at strengthening cooperation with the main partners in South Asia to promote the pre-prosperity prosperity and security.
+
+The US State Department stated that plans have been made to discuss the economic reforms with the new government heads of Sri Lanka.
+
+After India, Donald Luader, who arrived in the country, is also scheduled to visit Nepal.
+
+◼️
+
+[Data](articles/c3863ed7.json)
+
+[Extended Data](ext_articles/c3863ed7.ext.json)
+
+---
+
+### Transfers to many of the police chairs
+
+*2024-12-03 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203975) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Police transfers: 54 officers moved, including 5 DIGs & 5 SSPs. CID changes: HWS Muthumla new Director, EMMS Developed transferred to Nugegoda Division.
+
+🟩
+
+54 police officers including DIGs have been transferred.
+
+Five DIGs, five senior Superintendents of Police have been transferred with immediate effect, according to the National Police Commission.
+
+In addition, 7 Superintendents of Police and 7 Assistants have also given places.
+
+According to the Deputy Director of the Criminal Investigation Department (CID) HWS Muthumla has been appointed as the Director of the Criminal Investigation Department.
+
+Senior Superintendent of Police (CID) EMMS Developsed has been transferred as the Nugegoda Divisional Officer of Nugegoda.
+
+◼️
+
+[Data](articles/956e6b86.json)
+
+[Extended Data](ext_articles/956e6b86.ext.json)
 
 ---

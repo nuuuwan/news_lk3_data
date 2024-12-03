@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 12:24:12**
+As of **2024-12-03 12:42:27**
 
 ## Newspaper Stats
 
-*Scraped **58,207** Articles*
+*Scraped **58,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,101 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,504
 adaderanalk | 7,061
-tamilmirrorlk | 8,278
+tamilmirrorlk | 8,280
 virakesarilk | 9,527
-adaderanasinhalalk | 10,055
+adaderanasinhalalk | 10,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,194 (100.0%) of 58,207 articles have been extended.
+58,198 (100.0%) of 58,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### 88 arrested for staying at school
+
+*2024-12-03 12:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பள்ளிவாசலில்-தங்கியிருந்த-08-பேர்-கைது/76-348172) · `ta`
+
+8 Indonesians arrested in Nuwara Eliya for overstaying visas. Police investigating 191 more visitors.
+
+🟩
+
+Nuwara Eliya police said that eight Indonesian citizens who were staying at a school in Nuwara Eliya without a flight permit and a visa were arrested on Monday afternoon.
+
+Based on the information received by the Nuwara Eliya Police Station, they went to Sri Lanka on a tourist visa two months ago and have handed over all the documents to the embassy in Sri Lanka to renew the visa.
+
+According to reports, the three suspects who were arrested have visited Hatton and Nawalapitiya before Nuwara Eliya arrived.
+
+The suspects have reported that 191 more people have come to Sri Lanka and visited various areas.
+
+The Indonesian embassy officials in this country have been informed about the suspects and the suspects will be produced before the Nuwara Eliya Magistrate and 191 others who came to Sri Lanka have begun investigations.
+
+◼️
+
+[Data](articles/a452b3b7.json)
+
+[Extended Data](ext_articles/a452b3b7.ext.json)
+
+---
+
+### 36 years later
+
+*2024-12-03 12:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-வருடங்களுக்குப்-பின்-வீதி-ஒப்படைப்பு/175-348171) · `ta`
+
+Road opening in Trincomalee after 36 years, benefiting locals and tourists alike. Military camp established during British rule, continued post-independence. Bus service closure for city schools until 1988. Steps underway to open 22nd Brigade road, expected completion within two months. Part of reconciliation efforts by National People's Power Government.
+
+🟩
+
+The road, which was surrounded by Uvarmalai Banana Tip, Trincomalee, was opened by the military on Sunday (01) for the use of the people 36 years later.
+
+During the British rule, a military camp was set up in this center, which is a natural center, for the protection of the Trincomalee Pradeshiya Sabha.
+
+The Sri Lankan army's camp continues to be opened after independence.
+
+About 36 years later, the journey of the people has been opened for the use of the people.
+
+This is the closure of a bus service for city school students until 1988.
+
+You can visit the area and other natural beauty of Trincomalee.
+
+It has also been reported that steps are being taken to open the road along the 22nd Brigade and that it will be opened for the benefit of the people within the next two months.
+
+If this road is opened, all the coastal roads in Uvarmalai will be around the people of the area.. This is one of the reconciliation process by the National People's Power Government.
+
+◼️
+
+[Data](articles/80b0c3c4.json)
+
+[Extended Data](ext_articles/80b0c3c4.ext.json)
+
+---
+
+### Allowance for helpless school children
+
+*2024-12-03 12:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203989) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Government approves allowance for needy schoolchildren. Chief Whip Nalinda Jayatissa confirms Cabinet proposal endorsed by Prime Minister. Amount not specified. Initiative aims to support vulnerable students.
+
+🟩
+
+The Government has decided to grant Rs.
+
+Chief Government Whip Mr. Nalinda Jayatissa said the cabinet proposal was approved by the Prime Minister yesterday (02).
+
+◼️
+
+[Data](articles/85833d58.json)
+
+[Extended Data](ext_articles/85833d58.ext.json)
+
+---
 
 ### Popular drug trafficker "Polwatte Janaka" arrested
 
@@ -254,21 +336,33 @@ Mohammed Sally Nahim was sworn in as a Member of Parliament in the presence of S
 
 ---
 
-### டியாகோகார்சியாவில் சிக்குண்டிருந்த இலங்கை தமிழ் புகலிடக்கோரிக்கையாளர்கள்  பிரிட்டன் அழைத்து செல்லப்பட்டனர் - ஆறு மாதங்கள் தங்கியிருக்க அனுமதி- பிபிசி
+### Sri Lankan Tamil asylum seekers in Tiocarcia
 
 *2024-12-03 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200297) · `ta`
 
-பிரிட்டனின் வெளிவிவகார அமைச்சின் நிதி உதவியுடன் அவர்கள் ஆறு மாதங்களிற்கு பிரிட்டனில் தங்கியிருப்பதற்கு அனுமதிக்கப்படுவார்கள் என தான் பார்வையிட்ட ஆவணங்கள் மூலம் தெரியவந்துள்ளதாக பிபிசி தெரிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-பிரிட்டனிற்கான அவர்களின் பயணத்துடன் அவர்களது தலைவிதியை தீர்மானிப்பதற்காக கடல்கடந்து இடம்பெற்ற சட்டபோராட்டங்கள் முடிவிற்கு வந்துள்ளன என தெரிவித்துள்ள பிபிசி எனினும் அவர்களின் எதிர்காலம் குறித்து நிச்சயமற்ற தன்மை நிலவுவதாக குறிப்பிட்டுள்ளது.
 
-இலங்கையை சேர்ந்த 60 புகலிடக்கோரிக்கையாளர்கள் கடந்த மூன்று வருடகாலமாக இங்கிலாந்து அமெரிக்காவின் மூலோபாய ரீதியில் முக்கியத்துவம் வாய்ந்த இராணுவம் தளம் அமைந்துள்ள டியாகோ கார்சியா தீவில் சிக்குண்டிருந்தனர், தற்காலிக முகாமில் வசித்துவந்தனர்.
 
-புகலிடக்கோரிக்கையாளர்களை பிரிட்டனிற்கு அழைத்து சென்றுள்ளமை குறித்து கருத்து தெரிவித்துள்ள பிரிட்டன் அரசாங்கத்தின் பேச்சாளர் இந்த விவகாரத்தில் விதிவிலக்கான தன்மை காரணமாக இந்த முடிவை எடுத்ததாக தெரிவித்துள்ளார்.
+Sri Lankan Tamil asylum seekers in Tiocharcia: 60 refugees on Diego Garcia face uncertain futures after UK allows them to stay temporarily. Legal battles settled, but long-term solutions remain elusive.
+
+🟩
+
+The BBC said that the documents he visited, with the financial assistance of the British Foreign Ministry, they would be allowed to stay in Britain for six months.
+
+The BBC said that the legal battles of the sea have come to an end to determine their fate with their journey to Britain, but that there is uncertainty about their future.
+
+60 Sri Lankan asylum seekers have been on the island of Diego Garcia, where the US strategic military has been strategically important in the United States of America, and lived in a temporary camp.
+
+Commenting on the taking of asylum seekers to Britain, the British government spokesman said the decision was taken due to exceptional nature of the matter.
+
+He noted that this government has taken over the situation where a deep complex has not been resolved under the earliest royal paradigm.
 
 ...
 
 [Data](articles/81158642.json)
+
+[Extended Data](ext_articles/81158642.ext.json)
 
 ---
 
@@ -2221,71 +2315,5 @@ He said that it was a profound effect on the freedom of the people's opinion.
 [Data](articles/65942d85.json)
 
 [Extended Data](ext_articles/65942d85.ext.json)
-
----
-
-### The International Monetary Fund that emphasizes the safety of poverty and weaker communities
-
-*2024-12-02 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200249) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-IMF prioritizes poverty safety and weaker communities. Governments should protect vulnerable societies as per IMF guidelines. Economists predict 2025 base will meet IMF standards.
-
-🟩
-
-The government should take steps to protect the poverty and weaker society as emphasized by the IMF.. The prediction of economists is that the Base of 2025 can satisfy the International Monetary Fund.
-
-◼️
-
-[Data](articles/93f47a67.json)
-
-[Extended Data](ext_articles/93f47a67.ext.json)
-
----
-
-### Gayantha Karunathilaka as the Prime Minister of the Opposition
-
-*2024-12-02 19:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சியின்-பிரதம-கொறடாவாக-கயந்த-கருணாதிலக்க/175-348130) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Gayantha Karunathilaka, Opposition Parliamentarian, appointed Chief Minister.
-
-🟩
-
-United People's Power District Parliamentarian Gayantha Karunathilaka has been appointed as the Chief Minister of the Opposition. Remble
-
-◼️
-
-[Data](articles/61ca866a.json)
-
-[Extended Data](ext_articles/61ca866a.ext.json)
-
----
-
-### Colombo Fort - Badulla Railway Trail
-
-*2024-12-02 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200261) · `ta`
-
-Colombo Fort-Badulla train derails near Nawalapitiya. Service suspended until repairs. Alternative routes from Badulla to Colombo via Nawalapitiya station.
-
-🟩
-
-The Nawalapitiya Railway Control Room said that the passenger train from Colombo fort to Badulla has derailed between Nawalapitiya and Ikuru Oya railway stations.
-
-The railway control room said that the train derailed at 3.15 pm on Monday (02).
-
-All trains from Badulla to Colombo will be operated from Badulla to Colombo until the railway is renovated, and the railway control room official said that the train from Colombo and Kandy to Badulla to the Nawalapitiya railway station.
-
-◼️
-
-[Data](articles/d113832f.json)
-
-[Extended Data](ext_articles/d113832f.ext.json)
 
 ---

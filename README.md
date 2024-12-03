@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 23:01:07**
+As of **2024-12-03 23:26:42**
 
 ## Newspaper Stats
 
-*Scraped **58,299** Articles*
+*Scraped **58,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
-tamilmirrorlk | 8,293
+tamilmirrorlk | 8,294
 virakesarilk | 9,536
 adaderanasinhalalk | 10,071
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,299 (100.0%) of 58,299 articles have been extended.
+58,300 (100.0%) of 58,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### The train collided with the car;Many people are injured
+
+*2024-12-03 23:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-மீது-மோதிய-ரயில்-பலர்-படுகாயம்/175-348208) · `ta`
+
+Train crashes into car at unsafe crossing, injuring four. Two boys among victims. Incident occurred near Galle Sudarmarama Vihara.
+
+🟩
+
+Four people have been injured when a train crashed into a car that tried to cross an unsafe railway crossing near the Galle Sudarmarama Vihara.
+
+Two boys were reportedly injured in the accident that took place tonight.
+
+The car has been reported to have been hit by a train traveling from Galle to Matara. Remble
+
+◼️
+
+[Data](articles/efa981aa.json)
+
+[Extended Data](ext_articles/efa981aa.ext.json)
+
+---
 
 ### South Asia Agri Forum 2025 to be held in Sri Lanka
 
@@ -2489,21 +2511,5 @@ Indian arrivals were by far the highest, overtaking visitors from the Russian Fe
 [Data](articles/aff6440f.json)
 
 [Extended Data](ext_articles/aff6440f.ext.json)
-
----
-
-### New Police Spokesman appointed
-
-*2024-12-03 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103954/new-police-spokesman-appointed-) · `en`
-
-Senior Superintendent of Police (SSP) K.B. Manathunga has been appointed as the Director Police Media and the Police Spokesman.
-
-Meanwhile, former Spokesman DIG Nihal Thalduwa will continue in his capacity as the DIG of Crimes Range, according to Sri Lanka Police.
-
-◼️
-
-[Data](articles/3d037563.json)
-
-[Extended Data](ext_articles/3d037563.ext.json)
 
 ---

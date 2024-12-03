@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 14:28:52**
+As of **2024-12-03 14:42:28**
 
 ## Newspaper Stats
 
-*Scraped **58,222** Articles*
+*Scraped **58,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,506
 adaderanalk | 7,066
-tamilmirrorlk | 8,285
+tamilmirrorlk | 8,286
 virakesarilk | 9,527
 adaderanasinhalalk | 10,056
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,221 (100.0%) of 58,222 articles have been extended.
+58,221 (100.0%) of 58,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### ஆறுதல் அஸ்வெசும கொடுப்பனவு அதிகரிப்பு
+
+*2024-12-03 14:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறுதல்-அஸ்வெசும-கொடுப்பனவு-அதிகரிப்பு/175-348182) · `ta`
+
+ஆறுதல் (அஸ்வெசும) நலன்புரி நன்மைகள் கொடுப்பனவு முறைமை 2023.07.01 ஆம் திகதி தொடக்கம் நடைமுறைப்படுத்தப்பட்டுள்ளதுடன், 2384/30 ஆம் இலக்க அதிவிசேட வர்த்தமானி அறிவித்தல் மூலம் மீண்டும் திருத்தம் செய்யப்பட்டு 2024.07.01 ஆம் திகதி தொடக்கம் நடைமுறைப்படுத்தப்பட்டுள்ளது.
+
+குறித்த உத்தேச திட்டத்தின் கீழ் ஆறுதல் (அஸ்வெசும) நலன்புரிப் பயனாளிகள் குடும்பங்கள் 04 வகையான சமூகப் பிரிவின் கீழ் கொடுப்பனவுகள் வழங்கப்படுகின்றன.
+
+பொருளாதார நெருக்கடிகளின் தாக்கங்கள் முழுமையாக நீங்காமையால், நிலையற்றவர்;கள் மற்றும் ஆபத்துக்கு உட்பட்டவர்கள் ஆகிய சமூகப் பிரிவினர்களுக்குரிய முதலாம் சுற்று விண்ணப்பங்களுக்குரிய தேர்ந்தெடுக்கப்பட்ட குடும்பங்களுக்கு தொடர்ந்து சில காலங்களுக்கு நிவாரணங்களை வழங்க வேண்டுமெனக் கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/622c823f.json)
+
+---
 
 ### உயர் தரப் பரீட்சைகள் மீள ஆரம்பம்
 
@@ -2343,29 +2359,5 @@ The appointment letter was formally presented to Ms. Olga by the Secretary to th
 [Data](articles/7e7fc319.json)
 
 [Extended Data](ext_articles/7e7fc319.ext.json)
-
----
-
-### Swiss embassy officials discuss with Kilinochchi Reply
-
-*2024-12-02 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200274) · `ta`
-
-Swiss embassy officials met with Kilinochchi district authorities to discuss economic conditions, resettlement, mine removal, and asylum seekers.
-
-🟩
-
-Officials of the Swiss Embassy and Immigration and Emigration Department of Sri Lanka have met with the Government Agent S. Muralitharan, the Kilinochchi District Respondent.
-
-The meeting was held at the Kilinochchi District Secretariat at the District Government Agent's office.
-
-It is noteworthy that the current conditions of the Kilinochchi district, economic conditions, resettlement, mines removal and asylum seekers have been discussed.
-
-The meeting was attended by Swiss embassy officials including Consultant Meinrad Lindt and Country Analyst Andreas Schmid.
-
-◼️
-
-[Data](articles/79365ce1.json)
-
-[Extended Data](ext_articles/79365ce1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 02:01:27**
+As of **2024-12-04 02:26:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,304 (100.0%) of 58,309 articles have been extended.
+58,307 (100.0%) of 58,309 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,19 +110,25 @@ The car has been reported to have been hit by a train traveling from Galle to Ma
 
 ---
 
-### මත්ද්‍රව්‍ය සමග කොටුවූ 11දෙනා රඳවාගෙන ප්‍රශ්න කරයි
+### Details with drugs and interrogates
 
 *2024-12-03 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204011) · `si`
 
-අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 355කට අධික ප්‍රමාණයක් ප්‍රවාහනය කරමින් සිටියදී ඉන්දීය මුහුදු සීමාවේදී අත්අඩංගුවට ගත් මෙරට ධීවර යාත්‍රා දෙකක සිටි සැකකරුවන් 11දෙනෙකු රඳවාගෙන ප්‍රශ්න කිරීමට අද (03) අධිකරණයෙන් අවසර හිමිවුණි.
+Court detains 11 suspects for drug trafficking. Police seized over 355kg of ice from fishing vessels. Suspects remanded until 9th.
 
-ඒ, සැකකරුවන් පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය විසින් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ය.
+🟩
 
-එහිදී මහෙස්ත්‍රාත්වරයා නියෝග කළේ සැකකරුවන් එළඹෙන 9 වනදා දා දක්වා රඳවාගෙන ප්‍රශ්න කිරීමට ය.
+The court was appointed to retain 11 suspects in the country's fishing vessels while transporting more than 355 kilograms of ice.
+
+The suspects were produced before the Colombo Chief Magistrate by the Police Narcotics Bureau.
+
+The Magistrate ordered the suspects to be detained until the 9th 9th.
 
 ◼️
 
 [Data](articles/bdb448ab.json)
+
+[Extended Data](ext_articles/bdb448ab.ext.json)
 
 ---
 
@@ -144,47 +150,59 @@ South Asia’s agricultural sector is experiencing significant growth, driven by
 
 ---
 
-### ලොවම හෙල්ලූ බිලියනපතිනිය මරණ දඬුවමින් ගැලවීමට ගත් උත්සාහය
+### The two-billion-headlent attempt to escape death sentence
 
 *2024-12-03 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204010) · `si`
 
-වියට්නාමයේ දේපොළ අලෙවි ක්ෂේත්‍රයේ දැවැන්තයෙක් ලෙස ප්‍රකටව සිටි ත්‍රොන්ග් මායි ලාන් ට දුන් මරණ දඬුවම ඉවත්කරන්නැයි ඇය කළ අභියාචනය වියට්නාම ඉහළ අධිකරණය හමුවේ පරාජයට පත්වී තිබේ.
+Vietnam's Syigon Commercial Bank faces $12 billion fraud charges. The bank, once Vietnam's 5th largest lender, is accused of embezzling funds over 10 years. An estimated 85 individuals are involved. The fraud represents about 3% of Vietnam's GDP. Efforts to recover stolen funds are underway, with 75% of losses potentially reimbursed under current law.
 
-ඒ ලොව විශාලතම බැංකු වංචාව ලෙස සැලකෙන සයිගොන් වාණිජ බැංකුව රහසිගතව පාලනය කරමින් අමෙරිකානු ඩොලර් බිලියන 12 ඉක්මවූ මුදලක් වංචා කිරීමේ චෝදනාව යටතේ ය.
+🟩
 
-සයිගොන් වාණිජ බැංකුව වියට්නාමයේ ඇති පස්වැනි විශාලතම ණය දෙන්නා වන අතර, වසර 10ක පමණ කාලයක් පුරා එය පාලනය රහසිගතව පවත්වාගනිමින් ඉන් ණය සහ මුදල් ලබාගෙන ඇති බව මායි ලාන් ට එරෙහි චෝදනා එල්ලවී තිබුණි.
+Her appeal to the removal of the death penalty given as Tristong's property as a giant in Vietnam was defeated before Vietnam.
 
-එහිදී අමෙරිකානු ඩොලර් බිලියන 12ක පමණ මුදලක් වංචා කිරීමට අමතරව තවත් බිලියන 27කට වැඩි මුදලක් අවභාවිත කිරීමේ චෝදනා ඇය ඇතුළු 85කට ආසන්න පිරිසකට එල්ල වුණි.
+Syigon commercial bank, which is considered the world's largest bank fraud, is in charge of defrauding US $ 12 billion.
 
-ඔවුන් එලෙස වංචා කළ මුදල ඉතිහාසයට එක්වන්නේ වියට්නාම දළ දේශීය නිෂ්පාදිතයෙන් සියයට 3කට ආසන්න මුදලක් ලෙසය.
+The commercial bank of Saigon is the fifth largest lender in Vietnam and has been accused of remaining control over 10 years and have obtained loans and money.
 
-මේ අතර වියට්නාම නීතියට අනුව තමන් වංචා කළ මුදලින් සියයට 75ක් ආපසු ගෙවුවහොත්, ලබාදී ඇති මරණ දඬුවම, ජීවිතාන්තය දක්වා සිරදඬුවම් ලෙස අඩු කිරීමේ අවස්ථාව පවතී.
+In addition to cheating more than $ 12 billion, she and nearly 85 people were accused of inspiration.
 
-ඒ අනුව තමන් වංචා කළ මුදල ආපසු ගෙවීමට ඇය උත්සාහ කරන බව වාර්තා වෙයි.
+The money they cheated will be added to history as nearly 3 percent of Vietnamese gross domestic product.
+
+In the meantime, if the Vietnamese law has returned, 75 percent of the money he had cheated.
+
+It is reported that she is attempting to refund the amount he cheated.
 
 ◼️
 
 [Data](articles/c451d801.json)
 
+[Extended Data](ext_articles/c451d801.ext.json)
+
 ---
 
-### මෝටර් රථයක් දුම්රියක ගැටී බරපතළ අනතුරක්
+### A car accident hit by train
 
 *2024-12-03 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204009) · `si`
 
-දුම්රිය හරස් මාර්ගයකදී මෝටර් රථයක් දුම්රියක ගැටීමෙන් අනතුරක් සිදුවී තිබේ.
+Car accident at railway crossing: 4 injured, including 2 children, rushed to hospital after collision with train.
 
-අද (03) රාත්‍රීයේ සිදුවූ එම අනතුරෙන් මෝටර් රථයේ ගමන් කළ සිව්දෙනෙකු බරපතළ තුවාල ලබා ගාල්ල රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-ගාල්ල සුදර්මාරාම පන්සල අසල පිහිටි අනාරක්ෂිත දුම්රිය හරස් මාර්ගයේදී මෙම අනතුර සිදුවී ඇත.
+An accident occurred when a car collided with a railway crossing.
 
-අප වාර්තාකරු සඳහන් කළේ තුවාල ලැබූ සිව්දෙනා අතර දරුවන් දෙදෙනෙකු සිටින බවය.
+Four persons traveling in the car today (03) were seriously injured and rushed to the Galle Hospital.
 
-මෝටර් රථය ගැටී ඇත්තේ ගාල්ල සිට මාතර බලා ධාවනය වූ දුම්රියක ය.
+The accident occurred at the unprotected railway crossing near the Sudharmarama Temple, Galle.
+
+Our correspondent stated that there were two children among the wounded four.
+
+The car has hit a train traveling from Galle to Matara.
 
 ◼️
 
 [Data](articles/f0f07684.json)
+
+[Extended Data](ext_articles/f0f07684.ext.json)
 
 ---
 

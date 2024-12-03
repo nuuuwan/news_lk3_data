@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 03:26:14**
+As of **2024-12-04 04:26:23**
 
 ## Newspaper Stats
 
-*Scraped **58,323** Articles*
+*Scraped **58,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
-tamilmirrorlk | 8,297
-virakesarilk | 9,549
+tamilmirrorlk | 8,299
+virakesarilk | 9,552
 adaderanasinhalalk | 10,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,316 (100.0%) of 58,323 articles have been extended.
+58,322 (100.0%) of 58,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### ரயில் கடவையை கடக்க முயற்ற காரின் மீது ரயில் மோதி கோர விபத்து!
+
+*2024-12-04 03:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200370) · `ta`
+
+புகையிரத கடவையை கடக்க முயற்ற கார் ஒன்றின் மீது ரயில் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+3ஆம் திகதி செவ்வாய்க்கிழமை இரவு இடம்பெற்ற குறித்த விபத்தில் 4 பேர் படுகாயமடைந்து காலி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+காலி சுதர்மாராம விகாரைக்கு அருகில் உள்ள பாதுகாப்பற்ற ரயில் கடவையில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/321f0ffc.json)
+
+---
+
+### இன்று இரவு 9.30 வரையில் பாராளுமன்ற அமர்வு
+
+*2024-12-04 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200369) · `ta`
+
+நாட்டில்  நிலவிய மோசமான காலநிலை காரணமாக ஏற்பட்ட அனர்த்த நிலைமைகள் தொடர்பான சபை ஒத்திவைப்பு விவாதம் இன்று புதன்கிழமை (4) மாலை. 05.30 மணிமுதல் இரவு 09.30 மணிவரை நடைபெறவுள்ளது.
+
+சபாநாயகர் அசோக ரன்வல தலைமையில் செவ்வாய்க்கிழமை (03) அன்று நடைபெற்ற கட்சித் தலைவர்கள் கூட்டத்தில் இத்தீர்மானம் எடுக்கப்பட்டது.
+
+இதன்படி, முன்னர் தீர்மானிக்கப்பட்டபடி, ஜனாதிபதியினால் பாராளுமன்றத்தில் முன்வைக்கப்பட்ட அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பான விவாதம் புதன்கிழமை (4)  காலை 9.30 மணி முதல் மாலை 5 மணி வரை நடைபெறவுள்ளது.
+
+இதனைத் தொடர்ந்து இது தொடர்பான வாக்கெடுப்பு மாலை 05 மணிக்கு இடம்பெறும். வாக்கெடுப்பு முடிவடைந்ததும் மாலை  5.30 மணிக்கு எதிர்க்கட்சியினால் கொண்டுவரப்படும் அனர்த்த நிலைமைகள் குறித்த சபை ஒத்திவைப்பு விவாதத்தை இரவு 9.30 மணிவரை முன்னெடுக்கத் தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f0809f91.json)
+
+---
+
+### கடந்த அரசாங்கத்தின் தவறை தொடர்வதற்கு தயாரில்லை; பிரதி அமைச்சர் மஹிந்த ஜயசிங்க
+
+*2024-12-04 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200368) · `ta`
+
+அபிவிருத்தி உத்தியோகஸ்தர்களின் பிரச்சினைகளுக்கு சிறந்த தீர்வு பெற்றுக்கொடுப்போம் கடந்த அரசாங்கம்  செய்த தவறை செய்வதற்காக மக்கள் எம்மை தெரிவு செய்யவில்லை. என தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் (03) செவ்வாய்க்கிழமை அன்று நடைபெற்ற ஜனாதிபதியின் கொள்கை பிரகடனம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அவர், ஆசிரியர் - அதிபர் சேவையில் காணப்படும்  அடிப்படை பிரச்சினைகளுக்கு வெகுவிரைவில் தீர்வு  எட்டப்படும். கல்வி அமைச்சின் முன்பாக இடம்பெற்ற அபிவிருத்தி உத்தியோகஸ்த்தர்களின் போராட்டம்  பற்றி குறிப்பிட வேண்டும்.
+
+இந்த போராட்டத்தின் போது மூன்று பொலிஸ் உத்தியோகஸ்த்தர்கள் மீது தாக்குதல்கள் நடத்தப்பட்டுள்ளது.  தொழில் உரிமைகளுக்காக நாங்களும் கடந்த காலங்களில் போராட்டங்களில் ஈடுபட்டோம். ஒருபோதும் இவ்வாறு செயற்படவில்லை.
+
+...
+
+[Data](articles/7056e6b5.json)
+
+---
 
 ### The struggle of education development officials did not suppress;Prime Minister Harini
 
@@ -152,6 +204,22 @@ It is also noteworthy that the person was summoned by the Trincomalee Terrorism 
 
 ---
 
+### ’ஊடக அடக்கு முறைகளில் ஈடுபடுவதை ஏற்கமுடியாது’
+
+*2024-12-04 01:33:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடக-அடக்கு-முறைகளில்-ஈடுபடுவதை-ஏற்கமுடியாது/175-348213) · `ta`
+
+பயங்கரவாதத் தடைச் சட்டத்தை முற்றாக நீக்குவோம் எனக் கூறி ஆட்சிக்கு வந்த அரசு  இந்தச் சட்டத்தை பயன்படுத்தி பேச்சுச் சுதந்திரம், ஊடக சுதந்திரம் மற்றும் சிவில் உரிமைகளைப் பறித்து  வருகிறது.பயங்கரவாதத் தடைச் சட்டத்தை பயன்படுத்தி ஊடக அடக்கு முறைகளில் ஈடுபடுவதை ஏற்கமுடியாது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03)  இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன  உரை மீதான விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்த அவர் தொடர்ந்து உரையாற்றுகையில்,
+
+தேர்தல் மேடைகளில் தற்போதைய அரசாங்கம் சொன்னதைச் செய்ய வேண்டிய நேரம் வந்துவிட்டது. இவ்வாறு நீங்கள் கூறிய  விடயங்களைச் செய்யும் போது அது மக்கள் சார்பாக, மக்களுக்கு சாதகமாக அமைந்தால் எதிர்க்கட்சியின் ஆதரவை அதற்குப் பெற்றுத் தருவோம்.
+
+...
+
+[Data](articles/a4d8c2e6.json)
+
+---
+
 ### Wednesday session will be held until 9.30pm
 
 *2024-12-04 01:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதன்-அமர்வு-இரவு-9-30-வரை-இடம்பெறும்/175-348212) · `ta`
@@ -175,6 +243,32 @@ This is followed by a referendum in this evening. Will be featured. The adjournm
 [Data](articles/29ddca3c.json)
 
 [Extended Data](ext_articles/29ddca3c.ext.json)
+
+---
+
+### We want to live with the identity of the model
+
+*2024-12-04 01:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளத்தோடு-வாழ-விரும்புகிறோம்/175-348211) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan Tamil leader calls for modern approach to ethnic issues, urging government to address decades-old problems and recognize Tamil rights as co-owners of the island.
+
+🟩
+
+Even though we and you are one of the nations, we want to live with the identity of two ethnic groups. Abandon the historical ideas of the pre -Christian period and approach the ethnic problem according to the 21st century modern thought. The Government of Sri Lanka should be prepared to approach a new politics with the attitude of the Sinhala people, the Tamil speaking people, the co -owners of the Sri Lankan island and the co -partners.. District MP Sivagnanam Sreedharan said.
+
+He was speaking at a debate on the President's Declaration of Policy on Tuesday in Parliament.
+
+Although the president has said many things in his policy speech, it is unfortunate that he has not spoken a word about the ethnic problem that has been raised on this soil for 80 years, and in his speech, the effort of the Tamil people is the most important issue.
+
+...
+
+[Data](articles/a81da2e7.json)
+
+[Extended Data](ext_articles/a81da2e7.ext.json)
 
 ---
 
@@ -272,21 +366,35 @@ Bangladesh team under 17: 51 - 4 wig when the game ended. (Sethima Seneviratne 5
 
 ### 2024-12-03 (Tuesday)
 
-### மந்தகதி ஓவர் வீதத்திற்கு இங்கிலாந்து மற்றும் நியூசிலாந்து அணிகளுக்கு அபராதம்
+### England and New Zealand teams fined
 
 *2024-12-03 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200360) · `ta`
 
-கிறைஸ்ட்சேர்ச் ஹெக்லி ஓவல் விளையாட்டரங்கில் கடந்த வாரம் நடைபெற்ற முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் ஓவர் வீதத்தை மந்தகதியில்பேணியதற்காக இங்கிலாந்து, நியூஸிலாந்து ஆகிய இரண்டு அணிகளுக்கும் அபராதம் விதிக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இரண்டு அணிகளுக்கும் போட்டிக் கட்டணத்தில் 15 சதவீத அபராதம் விதிக்கப்பட்டுள்ளதுடன்  உலக டெஸ்ட் சாம்பியன்ஷிப் போட்டி புள்ளிகளில் தண்டனையாக 3 புள்ளிகள் குறைக்கப்பட்டும் உள்ளது.
 
-உலக டெஸ்ட் சம்பியன்ஷிப் புள்ளிகள் குறைக்கபட்டதால் அணிகள் நிலையில் 4ஆம் இடத்திலிருந்த நியூஸிலாந்து இப்போது 5ஆம் இடத்திற்கு பின்தள்ளப்பட்டுள்ளது.
 
-பென் ஸ்டோக்ஸ் மற்றும் டொம் லெதம் ஆகிய இருவரினது அணிகளும் நிர்ணயிக்கப்பட்ட நேரத்திற்கு மேலதிகமாக வழங்கப்பட்ட சலுகை நேர முடிவில் 3  ஓவர்கள் குறைவாக வீசியிருந்ததாக எமிரேட்ஸ் ஐசிசி உயரடுக்கு போட்டி தீர்ப்பாளர் டேவிட் பூன் தீர்ப்பளித்து அபராதங்களை விதித்தார்.
+England & New Zealand fined 15% competition fees for playing extra Test match overs. World Test Championship points reduced. ICC judge ruled teams bowled out under 3 overs. Teams pleaded guilty, accepted punishments. Total World Test Championship points deducted 6 for both teams.
+
+🟩
+
+Both England and New Zealand have been fined for playing over the first Test cricket match last week at the Christchurch Hegli Oval Stadium.
+
+Both teams have been fined 15 percent of the competition fees and the World Test Championships have been reduced to 3 points at the World Test championship points.
+
+New Zealand, 4th, is now back in 5th place as the teams have reduced the World Test championship points.
+
+Emirates ICC elite ruling judge David Bhon ruled that the teams of Ben Stokes and Tom Leadam were bowled out for less than 3 overs at the end of the concessionary time.
+
+The recommendation of the ICC Immigration for the players and the players of the players and the players is associated with the recession over the recession over the rates, which will be fined five per cent of the players' competitive fees.
+
+Moreover, the ICC World Test Championships are awarded one point for each team for the recommendation of 16.11.2.
 
 ...
 
 [Data](articles/4cb982d0.json)
+
+[Extended Data](ext_articles/4cb982d0.ext.json)
 
 ---
 
@@ -514,21 +622,31 @@ Therefore, it is sufficient to submit one application, representing all members 
 
 ---
 
-### நாட்டை கட்டியெழுப்ப இலங்கையர்களாக ஒன்றுபட வேண்டும்; பிரதி அமைச்சர் முனீர்
+### To build the country to be united as Sri Lankans;Deputy Minister Munir
 
 *2024-12-03 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200358) · `ta`
 
-நாட்டை கட்டியெழுப்பவும் எமது எதிர்கால சந்ததியினருக்கு சிறந்ததொரு நாட்டை ஏற்படுத்தவும் அனைவரும் இலங்கையர்களாக ஒன்றுபட்டு செயற்ட முன்வரவேண்டும் என்று  தேசிய ஒருமைப்பாடு பிரதி அமைச்சர் முனீர் முழப்பர் தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (12) அன்று இடம்பெற்ற ஜனாதிபதியின் கொள்கை  விளக்க உரை மீதான விவாத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
 
-எமது நாட்டின் நீண்டகால பிராத்தனையாக இருந்தது தேசிய ஐக்கியமாகும். கடந்த காலங்களில் அதிகாரத்தை தக்கவைத்துக்கொள்வதற்காக இனங்களுக்கிடையில் பிரிவினையை ஏற்படுத்தவும் மதங்களுக்கிடையில் மோதலை ஏற்படுத்தவும் முயற்சித்து வந்ததை எமக்கு காணக்கூடியதாக இருந்தது என்றும் அவர் குறிப்பிட்டார்
 
-சமூகவலைத்தளங்களை ஊடகங்களை அடக்க முற்படுவதாக தெரிவிக்கப்படுகிறது. இனவாதத்தை தோற்கடிக்க வேண்டும் என்றே ஜனாதிபதி எப்போதும் தெரிவித்து வருகிறார். மக்களை தூண்டி. மக்களை பிளவுபடுத்தும் விடயங்களை சுதந்திரமாக மேற்கொள்ள இடமளித்தால், அரசாங்கம் எதிர்பார்க்கும் தேசிய ஐக்கியத்தை ஏற்படுத்த எமக்கு முடியுமா என்பது கேள்விக்குறியாகும் என்றும் அவர் கூறினார்.
+Sri Lanka Deputy Minister Munir calls for national unity. He criticizes past divisions based on ethnicity and religion. Urges collective effort to build a better future. President emphasizes defeating communalism and promoting national unity.
+
+🟩
+
+The Deputy Minister of National Integration Munir Muppar said that everyone should come together as Sri Lankans to build the country and make a better country for our future generations.
+
+He said this while addressing the president's policy speech held in Parliament on Tuesday (12).
+
+The national unity was the longest prayer of our country. He said that we were trying to create a division of ethnicities and to confront the religions to maintain power in the past.
+
+It is reported that social networks are trying to suppress the media. The president has always said that the defeat of communalism. Trigger people. He said, "If we are free to do things that are dividing the people, it is questionable whether the government can create national unity that the government is expecting."
 
 ◼️
 
 [Data](articles/c89ce822.json)
+
+[Extended Data](ext_articles/c89ce822.ext.json)
 
 ---
 
@@ -578,53 +696,89 @@ Yoon said he had no choice but to resort to such a measure in order to safeguard
 
 ---
 
-### இயற்கை அனர்த்தங்களில் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்க அரசாங்கம் 345 மில்லியன் ரூபா ஒதுக்கீடு - பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகர
+### Government allocated 345 million rupees to provide relief to people affected by natural disasters - Deputy Minister of Defense Aruna Jayasekara
 
 *2024-12-03 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200345) · `ta`
 
-கடும் மழையுடனான சீரற்ற கால நிலையினால் நாட்டில் 24 மாவட்டங்களில் 1, 39,439 குடும்பங்களைச் சேர்ந்த 4 இலட்சத்து 69 ஆயிரத்து 872 பேர் பாதிக்கப்பட்டுள்ளனர். 18 பேர் பலியாகியுள்ளளர். பாதிக்கப்பட்டுள்ள மக்களுக்கு நிவாரணம் வழங்குவதற்காக அரசாங்கம் 345 மில்லியன் ரூபாவை ஒதுக்கியுள்ளதாக பாதுகாப்பு பிரதியமைச்சர் அருண ஜயசேகர தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03)  நாட்டில் கடந்த சில தினங்களாக நிலவிய சீரற்ற காலநிலை மற்றும் அதன் பாதிப்புகள் அது தொடர்பில் அரசாங்கம் மேற்கொண்டுள்ள நடவடிக்கைகள் தொடர்பில் விளக்கமளித்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
 
-சீரற்ற காலநிலை காரணமாக ஏற்பட்ட அனர்த்தங்களில் மரணமடைந்தவர்களின் குடும்பத்தினருக்கு ஜனாதிபதி மற்றும் அரசாங்கத்தின் சார்பில் ஆழ்ந்த அனுதாபங்களைத் தெரிவித்துக் கொள்கின்றேன்.
+
+"Govt allocates 345M rupees relief aid after heavy rains affect 469k+ people in 24 districts. 18 killed, 38k sheltered in welfare centers."
+
+🟩
+
+4 lakhs 69 thousand 872 people from 1, 39,439 families in 24 districts in the country have been affected by heavy rains. 18 people have been killed. Defense Deputy Minister Aruna Jayasekara said the government has allocated 345 million rupees to provide relief to the affected people.
+
+He said this while addressing the government's actions on the inclement weather and its impacts in the country on Tuesday (03) in Parliament.
+
+I extend my deepest sympathies to the families of those who died in disasters due to inclement weather.
+
+Hundreds of thousands of people directly and indirectly have been affected by the disaster.The impacts have been reported in many districts including the Northern, Eastern, Central and North Central Provinces. This is due to heavy rains in the country.
+
+The government has allocated 345 million rupees to provide relief to people affected by heavy rains.
 
 ...
 
 [Data](articles/934c7e93.json)
 
+[Extended Data](ext_articles/934c7e93.ext.json)
+
 ---
 
-### வெள்ள அனர்த்தத்தால் பாதிக்கப்பட்டவர்களுக்கு உடனடியாக நிவாரணம் வழங்க வேண்டும்  -  எதிர்க்கட்சித் தலைவர் சஜித்
+### Immediate relief to victims of flood disaster - Opposition Leader Sajith
 
 *2024-12-03 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200329) · `ta`
 
-ஏற்பட்ட அனர்த்தம் காரணமாக சுமார் 5 இலட்சம் மக்கள் துயரத்தினாலும் அழுத்தத்தினாலும் பாதிக்கப்பட்டுள்ளனர். அதனால்  அனர்த்த  முகாமைத்துவ தேசிய சபையை விரைவாக கூட்டி, இதுதொடர்பில் நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith calls for swift action from National Council of Disaster Management to address flood relief efforts affecting 5 million people. He urges emergency programs, modern weather monitoring systems, and proper crop damage assessment. Additionally, he criticizes the government's fertilizer subsidy plan and rice shortage handling.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03) இடம்பெற்ற ஜனாதிபதியின் கொள்கை  விளக்க உரை மீதான விவாத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் அண்மைக்காலமாக நிலவி வரும் மோசமான காலநிலையினால் ஏற்பட்ட அனர்த்தம் காரணமாக சுமார் 5 இலட்சம் மக்கள் துயரத்தினாலும் அழுத்தத்தினாலும் பாதிக்கப்பட்டுள்ளனர். அரசாங்கம் இவர்களுக்கு நிவாரணம் வழங்குவதற்கான அவசர வேலைத்திட்டத்தை முன்னெடுக்க வேண்டும்.
+About 5 million people have been affected by the tragedy and pressure due to the disaster. Opposition Leader Sajith Premadasa said that the National Council of Disaster Management should be convened quickly and take action in this regard.
 
-அனர்த்த முகாமைத்துவ சட்டத்தின்படி, அனர்த்த  முகாமைத்துவ தேசிய சபையை கூட்டி, இதுதொடர்பில் நடவடிக்கை எடுக்க வேண்டும்.
+He said this while addressing the debate on the President's policy speech held in Parliament on Tuesday (03).
+
+Nearly 5 million people have been affected by misery and pressure due to the recent bad weather conditions in the country.. The government should carry out an emergency program to provide them with relief.
+
+According to the Disaster Management Act, the National Council of Disaster Management should be summoned and action should be taken in this regard.
+
+Provide relief to victims and establish modern technical structures to obtain new weather sources. The World Bank and Japan are ready to provide technical equipment for this. So you have to get these.
 
 ...
 
 [Data](articles/3ba9c09e.json)
 
+[Extended Data](ext_articles/3ba9c09e.ext.json)
+
 ---
 
-### அம்பாறையில் வெள்ளத்தில் மூழ்கிய மாணவர்களை பாதுகாக்க நடவடிக்கை எடுக்க தவறிய பொலிஸார் மீது விசாரணை நடத்த வேண்டும் : ரிஷாத் அரசாங்கத்திடம் கோரிக்கை
+### Investigate police for failing to take action to protect flooded students in Ampara: Rishad government demands
 
 *2024-12-03 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200322) · `ta`
 
-அம்பாறையில் இடம்பெற்ற வெள்ள அனர்த்தத்தின்போது கடமையில் இருந்த பொலிஸார் முறையாக செயற்பட தவறியுள்ளர். இது தொடர்பில் சுயாதீன விசாரணை ஒன்றை மேற்கொள்ள வேண்டும் என எதிர்க்கட்சி உறுப்பினர் ரிஷாத் பதியுதீன் தெரிவித்தார்.
+Ampara flood: Police criticized for inaction; 8 deaths reported; opposition calls for probe; minister vows investigation.
 
-அம்பாறையில் இடம்பெற்ற வெள்ள அனர்த்தத்தின்போது உலவு இயந்திரம் கவிழ்ந்து விழுந்ததில் 8பேர் மரணித்துள்ளனர். இந்த சம்பவம் இடம்பெறும்போது அந்த இடத்தில் பொலிஸார் இருந்துள்ளனர்.நீரில் மூழ்கிய மாணவர்களை பாதுகாக்க நடவடிக்கை எடுக்குமாறு அருகில் இருந்தவர்கள் பொலிஸாரை கேட்டு கதரியபோதும் பொலிஸார் எந்த நடவடிக்கையும் எடுக்காமல் இருந்துள்ளனர்.அங்கிருந்த பொலிஸார் பாதுகாப்பு தடை ஒன்றை ஏற்படுத்தி இருந்தால், குறித்த உலவு இயந்திரம் பயணித்திருக்காது.
+🟩
 
-அதேநேரம் அந்த சந்தர்ப்பத்தில் அந்த இடத்தில் அனர்த்த முகாமைத்து நடவடிக்கை செயற்படாமல் இருந்துள்ளது.பொலிஸார் பல மணி நேரம் அந்த இடத்தில இருந்தும் கடற்படையினர் வரும்வரை எந்த நடவடிக்கையும் எடுக்காமல் இருந்துள்ளனர்.
+During the flood disaster in Ampara, police failed to function properly. Opposition member Rishad Bathiudeen said an independent inquiry should be conducted in this regard.
+
+Eight people died when a browsing machine collapsed during a flood disaster in Ampara. The police were present at the site of the incident.
+
+At the same time, the disaster management was not in operation on the occasion.
+
+Only a few people in the neighboring village act immediately and protected two people. Otherwise, two more people would die.
+
+When asked the police to take action to protect the victims, they asked the police to lodge a complaint.
+
+When the people then went to the police to present a complaint, they were waiting for an hour to write the complaint. They then arrested the Principal of the Matarasa School.
+
+But the incident has taken place and the police who are on duty there should be an independent inquiry into the absence of any action and I urge you to take action to prevent such measures in the future.
 
 ...
 
 [Data](articles/9ea06815.json)
+
+[Extended Data](ext_articles/9ea06815.ext.json)
 
 ---
 
@@ -2357,107 +2511,5 @@ These include berthing facilities to passenger vessels of 300m in length and car
 [Data](articles/3a6e70a4.json)
 
 [Extended Data](ext_articles/3a6e70a4.ext.json)
-
----
-
-### We will not allow racism to be headed
-
-*2024-12-03 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200311) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National People's Power MP Nalinda Jayatissa warns against racism and religious extremism ahead of elections. He accuses certain groups of provoking communalism and questions their motives in spreading such narratives.
-
-🟩
-
-The National People's Power Member of Parliament, Nalinda Jayatissa, said that those who used racism and religious extremism against us are currently trying to provoke communalism during the election.
-
-Ask your conscience how racism and religious extremism used against us before the election.
-
-Those who spread these stories are now trying to instigate communalism against us who are unable to follow their religious beliefs if they choose us.
-
-◼️
-
-[Data](articles/accfc434.json)
-
-[Extended Data](ext_articles/accfc434.ext.json)
-
----
-
-### Tomorrow’s Parliamentary session extended until 9.30 p.m.
-
-*2024-12-03 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103961/tomorrows-parliamentary-session-extended-until-930-pm) · `en`
-
-It has been decided during the party leaders’ meeting to conduct tomorrow’s (Dec. 04) parliamentary session until 09.30 p.m.
-
-Accordingly, the adjournment debate regarding the disaster situation caused by the recent adverse weather conditions will be held from 05.30 p.m. to 09.30 p.m. on Wednesday, the Parliamentary Communications Department said.
-
-◼️
-
-[Data](articles/feb595f6.json)
-
-[Extended Data](ext_articles/feb595f6.ext.json)
-
----
-
-### Govt to provide allowance for children of ‘Aswesuma’ beneficiaries
-
-*2024-12-03 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103960/govt-to-provide-allowance-for-children-of-aswesuma-beneficiaries) · `en`
-
-The government has decided to provide an allowance of Rs. 6,000 to assist parents who are unable to afford school stationery and equipment for their children.
-
-Accordingly, the relevant allowance will be provided for the school children of the “Aswesuma” beneficiaries, whose parents are disabled, who live in orphanages and are helpless under special circumstances.
-
-The Chief Government Whip, Minister Nalinda Jayatissa stated that this decision will come into effect from the upcoming school term.
-
-Furthermore, he expressed that the Cabinet of Ministers approved the proposal pertaining to the matter, presented by Prime Minister Harini Amarasuriya yesterday (02).
-
-◼️
-
-[Data](articles/917a50cc.json)
-
-[Extended Data](ext_articles/917a50cc.ext.json)
-
----
-
-### Parliament to be held tomorrow night
-
-*2024-12-03 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203990) · `si`
-
-Parliament meeting tomorrow at 9:30 PM. Adjournment debate on weather from 5:30 to 9:30 PM.
-
-🟩
-
-Parliament has decided to hold the Parliament tomorrow at 9.30 pm.
-
-Accordingly, the Adjournment Debate on the recent adverse weather conditions was decided to hold the president of 5.30 pm to 9.30 pm, said the Parliamentary Communication Department.
-
-◼️
-
-[Data](articles/e4edeccb.json)
-
-[Extended Data](ext_articles/e4edeccb.ext.json)
-
----
-
-### Sajith criticizes govt. of using PTA to oppress social media
-
-*2024-12-03 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103959/sajith-criticizes-govt-of-using-pta-to-oppress-social-media) · `en`
-
-Opposition Leader Sajith Premadasa criticized the government for allegedly using the Prevention of Terrorism Act (PTA) to suppress social media freedom, despite promising to abolish the controversial legislation before coming to power.
-
-Speaking in Parliament today (03), Premadasa pointed out that social media played a significant role in securing the current government’s large electoral mandate. He added that however, after coming to power, the government is using the very Act it had promised to repeal to suppress social media activists.
-
-“Is this fair to engage in a media crackdown using the Prevention of Terrorism Act? You received immense support from the social media sector received immense. Yet now, social media activists are being targeted under the same Act you vowed to repeal,” Premadasa expressed.
-
-“We suggest if you do what is said, stop this repression. You have to walk the talk”, the opposition leader stressed.
-
-◼️
-
-[Data](articles/a2fef890.json)
-
-[Extended Data](ext_articles/a2fef890.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 19:03:24**
+As of **2024-12-03 19:27:15**
 
 ## Newspaper Stats
 
-*Scraped **58,282** Articles*
+*Scraped **58,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,498
 economynextcom | 3,541
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,517
+adalk | 5,518
 adaderanalk | 7,076
 tamilmirrorlk | 8,291
 virakesarilk | 9,533
@@ -26,43 +26,59 @@ adaderanasinhalalk | 10,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,270 (100.0%) of 58,282 articles have been extended.
+58,277 (100.0%) of 58,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### துப்பாக்கி சூட்டுக்கு இலக்காகி இளைஞன் காயம் !
+### Young man hurts to be targeted for firing!
 
 *2024-12-03 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200337) · `ta`
 
-குருணாகல், பொல்பித்திகம பொலிஸ் பிரிவுக்குட்பட்ட அமுனகொலே பகுதியில் நேற்று திங்கட்கிழமை (02) துப்பாக்கி சூட்டுக்கு இலக்காகி இளைஞன் ஒருவன் காயமடைந்துள்ளதாக பொல்பித்திகம பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-காயமடைந்த  இளைஞன் நேற்றைய தினம் மாலை வனப்பகுதி ஒன்றிற்கு சென்ற போது இனந்தெரியாத நபரொருவரினால் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டுக்கு இலக்காகி காயமடைந்துள்ளார்.
 
-துப்பாக்கி சூட்டை நடத்திய சந்தேக நபர் தொடர்பில் இதுவரை எவ்வித தகவலும் கிடைக்கவில்லை என பொலிஸார் தெரிவித்தனர்.
+
+Youth hurt in Kurunegala shooting; police seek suspect.
+
+🟩
+
+A youth was injured when a young man was injured in the shooting of the Amunagole area in the Kurunegala and Polpithigama police division on Monday (02).
+
+The injured young man was injured when an unidentified man went to a forest yesterday evening.
+
+Police said they have not yet received any information about the suspect who carried out the shooting.
 
 ◼️
 
 [Data](articles/76239682.json)
 
+[Extended Data](ext_articles/76239682.ext.json)
+
 ---
 
-### அநுராதபுரத்தில் ஹெரோயின் போதைப்பொருளுடன் ஒருவர் கைது !
+### One person arrested with heroin drugs in Anuradhapura
 
 *2024-12-03 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200330) · `ta`
 
-அநுராதபும் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (02) கைது செய்யப்பட்டுள்ளதாக அநுராதபும் பொலிஸார் தெரிவித்தனர்.
+Arrest made in Anuradhapura: 31-year-old suspect caught with 510ml heroin during police operation.
 
-அநுராதபும் பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின் போதே  சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் அநுராதபும் மஹாவிலாச்சிய பிரதேசத்தைச் சேர்ந்த 31 வயதுடையவர் ஆவார்.
+A suspect has been arrested on Monday (02) with heroin in the area of ​​the police division, police said.
 
-சந்தேக நபரிடம் இருந்து 08 கிராம் 510 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+The suspect has been arrested during a roundup on the basis of confidential information received by the police.
+
+The arrested suspect is 31 years old from Mahavilachiya.
+
+The drug has been seized by the police by the suspect, 510 ml of heroin.
 
 ◼️
 
 [Data](articles/13788a17.json)
+
+[Extended Data](ext_articles/13788a17.ext.json)
 
 ---
 
@@ -220,6 +236,20 @@ In the event of an oversubscription of the initial issue and the second tranche 
 
 ---
 
+### කොත්මලේ මඩ සොරොව්ව විවෘත කරයි
+
+*2024-12-03 17:19:36* · [`adalk`](https://www.ada.lk/breaking_news/කොත්මලේ-මඩ-සොරොව්ව-විවෘත-කරයි/11-413432) · `si`
+
+කොත්මලේ ජලාශයේ වාන් දොරටු විවෘත කිරීමට සමගාමීව එහි මඩ සොරොව්ව අද (03) විවෘත කිරීමට පියවර ගත් බව ජලාශය භාර ඉංජිනේරු අනුර සෙනෙවිරත්න මහතා පැවැසීය.
+
+ජලාශයේ ජල පෝෂක ප්‍රදේශවලට පසුගිය දිනවල ඇද හැලුණු අධික වර්ෂාව හේතුවෙන් ජලාශයේ වාන් දොරටු පසුගිය 27 දින ස්වයංක්‍රීයව විවෘත වු බවත්, වසර කීපයකට පසු ජලාශයේ මඩ සොරොව්ව ද මෙසේ විවෘත කිරීමට පියවර ගෙන ඇති බව සෙනෙවිරත්න මහතා කීය.
+
+◼️
+
+[Data](articles/94ebcb49.json)
+
+---
+
 ### Reubiotic Cuki Kelu Saule Kenusa Ruwan. 11 student
 
 *2024-12-03 17:15:32* · [`adalk`](https://www.ada.lk/picture_story/රූබික්-කියුබි-1200කින්-ජනපතිගේ-රුව-සකසා-වෝලන්-ලෝක-වාර්තාවක්-තැබූ-අවු--11ක-සිසුවා/10-413431) · `si`
@@ -274,7 +304,7 @@ The Cabinet Spokesman further stated that the committee has presented recommenda
 
 ---
 
-### Air Ceilao seeks Sri Lanka approval to operate domestic, international charter flights
+### Air Ceilao seeks Sri Lanka approval for domestic, international charter flights
 
 *2024-12-03 16:56:00* · [`economynextcom`](https://economynext.com/air-ceilao-seeks-sri-lanka-approval-to-operate-domestic-international-charter-flights-191591/) · `en`
 
@@ -330,77 +360,123 @@ Ranasinghe said that US financing had not been finalised, and added that it was 
 
 [Data](articles/c12ef8e9.json)
 
+[Extended Data](ext_articles/c12ef8e9.ext.json)
+
 ---
 
-### පළාත් පාලන මැතිවරණයේ නාම යෝජනා ආපසු කැඳවයි
+### Nominations for the local government election is recalled
 
 *2024-12-03 16:50:00* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණයේ-නාම-යෝජනා-ආපසු-කැඳවයි/11-413430) · `si`
 
-2023 වසරේ පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ආයතන ඡන්ද විමසීම සඳහා කැඳවන ලද නාමයෝජනා ආපසු කැඳවීමටත් නව නාම යෝජනා කැඳවීමටත් අවශ්‍ය විධිවිධාන සැලසීම සඳහා කැබිනට් අනුමැතිය ලැබී තිබේ.මේ අනුව පළාත් පාලන ආයතන ඡන්ද විමසීම් (විශේෂ විධිවිධාන) පනත් කෙටුම්පක් සකස් කිරීම සඳහා නීති කෙටුම්පත් සම්පාදකට 2024/09/02 පැවැති අමාත්‍ය මණ්ඩල රැස්වීහේ තීරණය කර තිබේ.
+Cabinet approves recalling local government election nominations. Special provisions bill to be prepared for new nominations process.
 
-එසේම මේ පිළිබඳව 2024/11/25 දින පාර්ලිමේන්තුවේ කථානායකවරයාගේ ප්‍රධානත්වයෙන් පවත්වනලද පිළිගත් දේශපාලන පක්ෂ නායකයින් ද සහභාගී වී ඇති පක්ෂ නායක රැස්වීමේදී 2023 වර්ෂයේ කැඳවන ලස නාම යෝජනා අවලංගු කර අලුතින් නාම යෝජනා කැඳවා ඉදිරිපත් පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්විය යුතු බවට එකඟතාවයට පැමිණ තිබේ.
+🟩
 
-...
+The Cabinet approval has been obtained to recall the nominations that have been called for the vote in 2023 to the election of the local government bodies.The Cabinet Meeting held at 09/02.
+
+The National Political Party leaders who have been held under the patronage of the Speaker of Parliament at the party leaders 'leadership, the Speaker of Parliament participated in the event of the party leaders' meeting, the local government bullet should be held.
+
+Accordingly, the existing local government band's election to the election of all elections and the youth community of the LTTE will be able to recall the nominations for the election and provoke provisions to educate the new nomination.The Cabinet paper has been approved by the Cabinet paper to instruct the Ministerial Administration, Provincial Councils and the Local Government to instruct the Legal Draft Force to prepare the Legal Draft Force to prepare the Bills (Special Provisions).
+
+◼️
 
 [Data](articles/4e8cfdd1.json)
 
+[Extended Data](ext_articles/4e8cfdd1.ext.json)
+
 ---
 
-### ජංගම දුරකථනයක ආරවුලකට ඥාති සහෝදරයා ඝාතනය කරලා
+### Brother has been assassinated to a complaint on a mobile phone
 
 *2024-12-03 16:41:10* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථනයක-ආරවුලකට-ඥාති-සහෝදරයා-ඝාතනය-කරලා/11-413429) · `si`
 
-ජංගම දුරකථනයක් සම්බන්ධයෙන් ඇති වූ ආරවුලක් දුර දිග යාම හේතුවෙන්  17 හැවිරිදි ඥාති සහෝදරයෙකු එල්ල කල පිහි පහරකින් 26 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්වීමේ සිද්ධියක්  ඔයා මඩුව පොලිසිස් වසමෙන් වාර්තාවේ.
+Here's a 200-character summary:
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 13 කණුව , බණ්ඩාරගම පේමඩුව පදිංචිව සිටි  එදිරිසිංහ ආරච්චිලාගේ ජය සංඛ පද්ම කුමාර නැමැති 26 හැවිරිදි තරුණයෙකි.
 
-සැකකරු සහ මරණකරු ඉකුත් 1දා  කුඹුරක වැඩ කරමින් සිටියදී ජංගම දුරකථනයක් සම්බන්ධයෙන්  ඇති වූ  ආරවුලක් දුරදිග යාමෙන්  දෙදෙනා පොර බදා ඇති අතර  පසුව සැකකරු සඟවා ගෙන සිටි පිහියක් රැගෙන  මරණකරුට බරපතල තුවාල  සිදු කර තිබූ බව පොලිසිය කියයි.
 
-සැකකරු  සහ මරණකරු පොර බදින අවස්ථාවේදී එම ස්ථානයට දිව ගොස් ඇති කුඹුරේ හිමිකරු  සැකකරුට ප්ලාස්ටික් බටයකින් පහරක්  එල්ල කර ඔහු අත තිබූ පිහිය  උදුරා ගෙන මරණකරු ඇලයාපත්තුව  රෝහලට රැගෙන ගිය අවස්ථාවේදී ජීවිතක්ෂයට පත්ව ඇති බවද පොලීසිය වැඩි දුරටත් සඳහන් කළේය
+Brother assassinated over mobile phone complaint. Teen cousin kills 26-year-old with knife. Victim identified as Edirisinghe Arachchilage, 13th post. Police arrested suspect Sandaruwan. Investigation ongoing under OIC Inspector Ratnayake.
 
-මෙම ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 17  එදිරිසිංහ ආරච්චිලාගේ තරුෂ සඳරුවන් නැමති සැකකරු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+🟩
 
-...
+A 17-year-old cousin is a 17-year-old boy's knives on a blow to death, a 26-year-old man dies in a clay girl.
+
+The deceased has been identified as the 13th post, King Edirisinghe Arachchilage, a resident of Bandaragama Piyadda Kumara, a 26 year old youth.
+
+The two were also trying to dispute a mobile phone while working on a paddy and the deceased on a paddy field.
+
+The police said that the owner of the bomb had a blow to the suspect and taken his knife to the suspect and took him to the deceased to the deceased.
+
+The suspect was arrested by Edirisinghe Arachchilage's Youth Sandaruwan, who was arrested in connection with the murder.
+
+OKA OIC Inspector RMS. C. A team of officials are conducting further investigations on the instructions of Ratnayake.
+
+◼️
 
 [Data](articles/4c4e05be.json)
 
+[Extended Data](ext_articles/4c4e05be.ext.json)
+
 ---
 
-### රජය සතු අධි සුඛෝපභෝගී වාහන ඉවත්කිරීමට යයි
+### Government owned high luxury is to be removed
 
 *2024-12-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204001) · `si`
 
-රාජ්‍ය ආයතනවලට විශාල වැය බරක් වන අධි සුඛෝපභෝගී වාහන විධිමත් ක්‍රමවේදයකට අනුව ඉවත්කිරීමට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
+Here's a 200-character summary:
 
-අද (03) පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේදී කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඒ බව පැවසීය.
 
-රාජ්‍ය ආයතනවල භාවිත වන ඇතැම් අධි සුඛෝපභෝගී වාහනවල නඩත්තු හා ඉන්ධන සඳහා වැය වන අධික පිරිවැය සැලකිල්ලට ගෙන මෙම තීරණය ගෙන තිබේ.
 
-එවැනි අධි සුඛෝපභෝගී වාහන අපහරණය කිරීම ආර්ථිකව වඩාත් ඵලදායි වන බව පෙනී ගොස් ඇති බවයි අමාත්‍යවරයා පැවසුවේ.
+Government removes luxury vehicles due to high maintenance and fuel costs. Cabinet approves formal procedure to study and replace vehicles in government institutions. Decision aims to reduce economic burden and promote cost-effectiveness.
 
-...
+🟩
+
+Cabinet approval has been given to remove the larger cost-cost vehicles in accordance with a formal procedure.
+
+Cabinet spokesperson Minister Nalinda Jayatissa said that today (03).
+
+This decision has been taken into account the cost of the maintenance and fuel that cost the maintenance and fuel of certain high luxury vehicles in government institutions.
+
+The Minister said that the abuse of such high luxury is economically more effective.
+
+Accordingly, a formal study of the vehicles of all government institutions and follow vehicles and diesel engine capacity over the customs encryption.The proposal submitted by the Cabinet of the Treasury was approved by the Chief Accounting Officers to be abolished and to release the relevant circular instructions to report the relevant circular advice before 2025-03.
+
+◼️
 
 [Data](articles/8b6ba182.json)
 
+[Extended Data](ext_articles/8b6ba182.ext.json)
+
 ---
 
-### சித்தார்த் நடிக்கும் 'மிஸ் யூ' படத்தின் புதிய வெளியீட்டு திகதி அறிவிப்பு
+### Siddharth starrer 'Miss You'
 
 *2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200334) · `ta`
 
-தமிழ் திரையுலகின் நட்சத்திர நடிகராக திகழும் சித்தார்த் காதல் நாயகனாக நடித்திருக்கும் 'மிஸ் யூ' எனும் திரைப்படத்தின் புதிய வெளியீட்டு திகதி அறிவிக்கப்பட்டிருக்கிறது.
+Here's a summary of 200 characters:
 
-இயக்குநர் என். ராஜசேகர் இயக்கத்தில் உருவாகி இருக்கும் 'மிஸ் யூ' எனும் திரைப்படத்தில் சித்தார்த், ஆஷிகா ரங்கநாத், கருணாகரன், பால சரவணன், ஷா ரா, 'லொள்ளு சபா' மாறன், சஷ்டிகா, பொன்வண்ணன், ஜெயப்பிரகாஷ், ரவி மரியா, சரத் லோகித்ஸ்வா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-கே. ஜி. வெங்கடேஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைத்திருக்கிறார். காதலை கொண்டாடும் இந்த திரைப்படத்தை 7 மைல்ஸ் பர் செகண்ட் புரொடக்ஷன்ஸ் நிறுவனம் தயாரித்திருக்கிறது.
 
-கடந்த மாதம் வெளியாகும் என அறிவிக்கப்பட்ட இந்த திரைப்படம் தமிழகத்தில் வீசிய புயல் மற்றும் மழை காரணமாக திட்டமிட்டபடி வெளியாகவில்லை. அதன் பிறகு இப்படத்தின் புதிய வெளியீட்டு திகதி பின்னர் அறிவிக்கப்படும் என தயாரிப்பு நிறுவனம் தெரிவித்தது.
+Siddharth stars in 'Miss You', directed by Rajasekhar. Also featuring Ashika Ranganath, Karunakaran. Music by Venkatesh. Produced by 7 Miles Bur Second Productions. Delayed due to weather issues. Expected to appeal to young audiences with a love story theme.
 
-அந்த வகையில் இந்த திரைப்படம் எதிர்வரும் 13 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என அறிவித்திருக்கிறார்கள்.
+🟩
 
-...
+Siddharth, who is the star of the Tamil film industry, has been announced on the new release date of the movie 'Miss You'.
+
+Director n. The upcoming film 'Miss You', directed by Rajasekhar, stars Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, Shah Rao, 'Loku Saba' Maran, Sashtika, Ponvannan, Jayaprakash, Ravi Maria, Sarath Lokitswa.
+
+K. G. The film has been composed by Venkatesh and has composed the film.. The film is being produced by 7 Miles Bur Second Productions.
+
+The film, which was announced last month, has not been released due to the storm and rain that hit Tamil Nadu. The production company said that the new release date of the film will be announced later.
+
+The film has been announced on the 13th of this month at the film House.
+
+The film is expected to attract the younger generation fans as he talks about the love of the hero who falls and falls in love with a woman who does not like.
+
+◼️
 
 [Data](articles/3f0327fe.json)
+
+[Extended Data](ext_articles/3f0327fe.ext.json)
 
 ---
 
@@ -1728,7 +1804,7 @@ SSP PGS Gunathilaka has been transferred to the Director of the Medical Services
 
 එසේ අධ්‍යක්ෂවරිය ලෙස පත් කර ඇත්තේ එම දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ ධුරයේ කටයුතු කළ පළමු නිලධාරිනිය වු කාන්තා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ඉමේෂා මුතුමාල යි.
 
-2007 වසරේ දී කාන්තා සහකාර පොලිස් අධිකාරි තනතුරෙන් පොලිස් සේවයට එක් වී ඇති ඇය, මෙරට පොලිස් ඉතිහාසයේ කාන්තා සහකාර පොලිස් අධිකාරි නිලයට පත්වු නිලධාරිනියන් තිදෙනාගෙන් එක් අයෙකි.
+2008 වසරේ දී කාන්තා සහකාර පොලිස් අධිකාරි තනතුරෙන් පොලිස් සේවයට එක් වී ඇති ඇය, මෙරට පොලිස් ඉතිහාසයේ කාන්තා සහකාර පොලිස් අධිකාරි නිලයට පත්වු නිලධාරිනියන් තිදෙනාගෙන් අයෙකි.
 
 ...
 
@@ -2391,31 +2467,5 @@ Due to this, the Railway Department further stated that the train services may b
 [Data](articles/ec683eb9.json)
 
 [Extended Data](ext_articles/ec683eb9.ext.json)
-
----
-
-### Monthly Gas Prices tomorrow
-
-*2024-12-03 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203984) · `si`
-
-Litro Company announces gas price revision tomorrow. Price increase due to global market rise. Proposal sent to Ministry of Finance. Last amendment in October.
-
-🟩
-
-According to the monthly gas price revision, the price revision will be announced tomorrow (04), Litro Company said.
-
-A spokesperson of it stated that the price of gas prices and amendment will be revised this year's gas.
-
-The gas prices of the world market have gone up and the price of gas should be increased in the country, but it is underway to maintain a stable gas prices.
-
-It is said that the proposals have been forwarded to the Ministry of Finance.
-
-Last month, a gas priced amendment was not amended and the last time a gas priced amendment took place last October.
-
-◼️
-
-[Data](articles/f785888c.json)
-
-[Extended Data](ext_articles/f785888c.ext.json)
 
 ---

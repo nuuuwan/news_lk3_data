@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 14:02:11**
+As of **2024-12-03 14:16:33**
 
 ## Newspaper Stats
 
-*Scraped **58,220** Articles*
+*Scraped **58,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,506
 adaderanalk | 7,066
-tamilmirrorlk | 8,283
+tamilmirrorlk | 8,284
 virakesarilk | 9,527
 adaderanasinhalalk | 10,056
 
@@ -26,23 +26,49 @@ adaderanasinhalalk | 10,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,218 (100.0%) of 58,220 articles have been extended.
+58,220 (100.0%) of 58,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### மாணவர்களுக்கு 6,000 ரூபாய் கொடுப்பனவு
+### சொன்னதைச் செய்யுங்கள்;சஜித்
+
+*2024-12-03 14:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொன்னதைச்-செய்யுங்கள்-சஜித்/175-348179) · `ta`
+
+கடன் ஒப்பந்தங்கள் மற்றும் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தம் தொடர்பாக தேர்தல் மேடையில் உறுதியளித்ததை அரசாங்கம் நிறைவேற்ற வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"தற்போதைய அரசாங்கத்தில் இருப்பவர்கள் தேர்தல் பிரச்சார மேடையில் கடன் நிலைத்தன்மை ஒப்பந்தங்கள் மற்றும் பிற ஒப்பந்தங்களில் திருத்தம் செய்வதாக உறுதியளித்தனர். இருப்பினும், அரசாங்கம் உறுதியளித்ததைச் செய்யத் தயாராக இல்லை" என்று அவர் கூறினார்.
+
+"கருத்துச் சுதந்திரத்தை உறுதி செய்வதாக நீங்கள் உறுதியளித்தீர்கள், ஆனால் சமூக ஊடகங்களில் பல்வேறு பதிவுகளை பதிவேற்றிய சிலரை நீங்கள் கைது செய்திருக்கிறீர்கள். உங்கள் கருத்துகளுக்கு இணங்க நீங்கள் நடக்க வேண்டும்" என்று பிரேமதாச அரசாங்கத்திடம் கூறினார்.
+
+◼️
+
+[Data](articles/e979cc87.json)
+
+---
+
+### 6,000 Rs.
 
 *2024-12-03 13:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-6-000-ரூபாய்-கொடுப்பனவு/175-348178) · `ta`
 
-அஸ்வெஸ்ம கொடுப்பனவு கிடைக்கும் குடும்பங்கள், மாற்றுத்திறனாளிகள் மற்றும் விசேட காரணங்களுக்காக அனாதை இல்லங்களில் உள்ள  பாடசாலை மாணவர்களுக்கான பாடசாலைப் புத்தகங்களை கொள்வனவு செய்வதற்கு 6,000 ரூபாய் கொடுப்பனவை நடைமுறைப்படுத்த அரசாங்கம் தீர்மானித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-பிரதமர் ஹரிணி அமரசூரியவினால் அமைச்சரவையில் முன்வைக்கப்பட்ட பிரேரணைக்கு அங்கீகாரம் கிடைத்துள்ளதாகவும் ஆளும் கட்சியின் பிரதான அமைப்பாளரான அமைச்சர் நளிந்த ஜயதிஸ்ஸ   பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (03) தெரிவித்தார்.
+
+
+"Government approves Rs. 6,000 allowance. Minister Nalinda Jayadissa announced in Parliament. Proposal initiated by PM Harini Amarasuriya in Cabinet meeting."
+
+🟩
+
+The government has decided to implement a allowance of Rs.
+
+Minister Nalinda Jayadissa, the chief organizer of the ruling party, said in Parliament on Tuesday (03) that the proposal put forward by Prime Minister Harini Amarasuriya in the Cabinet.
 
 ◼️
 
 [Data](articles/598296eb.json)
+
+[Extended Data](ext_articles/598296eb.ext.json)
 
 ---
 
@@ -868,15 +894,25 @@ Further measures against these companies will be determined based on the judgmen
 
 ---
 
-### පොලීසියේ ඉහළම පුටු 41ක වෙනසක් CID හා SIU අධ්‍යක්ෂ පුටු වලට කාන්තාවන්
+### Women in 41 highest chairs of police CID and SIU Director Chairs
 
 *2024-12-03 10:22:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ඉහළම-පුටු-41ක-වෙනසක්-CID-හා-SIU-අධ්‍යක්ෂ-පුටු-වලට-කාන්තාවන්/11-413420) · `si`
 
-නියොජ්‍ය පොලිස්පතිවරුන්ද ඇතුළත්ව පොලිස් දෙපාර්තතමේන්තුවේ ඉහළම පුටු 41ක වෙනසක් සිදු කිරිමට කටයුතු කර තිබේ. මෙහිදි කැපි පෙනෙනම වෙනස්කම් වන්නේ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ හා පොලිස් විශේෂ විමර්ශණ ඒකකවල අධ්‍යක්ෂ ධුර සඳහා කාන්තා පොලිස් නිලධාරිනියන් පත්කිරිමයි.
+Here's a 200-character summary:
+
+
+
+Women now hold 41 top police CID and SIU director positions. The Department of Police has appointed female officers to head Criminal Investigation Departments and Police Investigations Units, marking significant changes in leadership roles.
+
+🟩
+
+The Department of Police Department (IGP) has made a change in 41 heads of the Police Department.. Sud of Changes The appointment of women police officers for the director of the Criminal Investigation Department and Police Investigations Units.
 
 ◼️
 
 [Data](articles/56583077.json)
+
+[Extended Data](ext_articles/56583077.ext.json)
 
 ---
 
@@ -2321,33 +2357,5 @@ AKD has an eye for detail, an appreciation for clear systems, processes and proc
 [Data](articles/3ef1d633.json)
 
 [Extended Data](ext_articles/3ef1d633.ext.json)
-
----
-
-### A special discussion on nominations
-
-*2024-12-02 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200273) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Chief Minister Bimal Ratnayake will chair a party leaders' meeting on Tuesday to discuss cancelling existing nominations for local government elections and seeking new candidates. Political parties have urged this action due to many original nominees no longer being eligible or available. The Elections Commission is ready to act based on Parliament's decision.
-
-🟩
-
-Party leaders' meeting chaired by Chief Minister Bimal Ratnayake will be held on Tuesday (3). The nominations for the local government elections will be held specially.
-
-Various political parties have consistently urged the cancellation of nominations adopted for the local government elections and seeking new nominations.
-
-Most of those who have filed nominations to contest the local government elections are currently not alive. Some have left the country. Withdrawn from the political party that has been named to contest. Therefore, the election monitoring organizations, including February, have urged the new candidates to demand that the election of the election will be a problem.
-
-The Parliament should make a firm decision on accepted nominations. The Elections Commission stated that it is ready to act in accordance with the decision taken by the Parliament.
-
-...
-
-[Data](articles/7a7821bd.json)
-
-[Extended Data](ext_articles/7a7821bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 21:42:40**
+As of **2024-12-03 22:41:56**
 
 ## Newspaper Stats
 
-*Scraped **58,295** Articles*
+*Scraped **58,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,499
 economynextcom | 3,541
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,520
-adaderanalk | 7,078
+adalk | 5,522
+adaderanalk | 7,080
 tamilmirrorlk | 8,293
 virakesarilk | 9,536
 adaderanasinhalalk | 10,071
@@ -26,31 +26,81 @@ adaderanasinhalalk | 10,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,294 (100.0%) of 58,295 articles have been extended.
+58,299 (100.0%) of 58,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### අස්වැසුම ප්‍රතිලාභීන්ට විශේෂ නිවේදනයක්
+### South Asia Agri Forum 2025 to be held in Sri Lanka
 
-*2024-12-03 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204006) · `si`
+*2024-12-03 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103975/south-asia-agri-forum-2025-to-be-held-in-sri-lanka) · `en`
 
-2024 වසරේ පෙබරවාරි මස ඉල්ලුම් කරන ලද පවුල් හා පුද්ගලයන් විසින්  අස්වැසුම දෙවන අදියරය සඳහා නැවත් අයදුම්පත් යොමු කිරීමට අවශ්‍ය නොමැති බව මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශයේ සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
+Bharat Subcontinental Agri Foundation (BSAF) is scheduled to organise South Asia Agri Forum – an event discussing the evolving scenario of pulses, grains, dry fruits, and spices in South Asia – from 15-16 January 2025 in Shangri-La Hotel in Colombo, Sri Lanka.
 
-නිවේදනයක නිකුත් කරමින් සුබසාධක ප්‍රතිලාභ මණ්ඩලය පෙන්වා දී ඇත්තේ එම පවුල්වල අයදුම්පත් මේ වනවිටත් පද්ධතියට ඇතුළත් කර ඇති බවය.
+The event would be attended by industry stakeholders, experts and public & private enterprises such as National Agricultural Cooperative Marketing Federation of India (NAFED), Wheat Products Promotion Society (WPPS), All India Roller Floor Millers Association, and Uttar Pradesh Floor Millers Association.
 
-අස්වැසුම සුබසාධක ප්‍රතිලාභ වැඩසටහන සඳහා මේ දක්වා ඉල්ලුම්කිරීමට නොහැකි පවුල් හා පුද්ගලයන්ට ඉල්ලුම් කිරීම සඳහා දෙසැම්බර් මස 09 දක්වා සහන කාලයක් ලබාදී ඇත.
-
-මේ අවස්ථාවේදී අදාළ වැඩසටහනට ඉල්ලුම් කිරීමට හැකියාව ඇත්තේ මෙතෙක් අස්වැසුම වැඩසටහනට අයඳුම්පත්‍ර ඉදිරිපත් කිරීමට නොහැකි වූ පවුල්වලට පමණි.
-
-නිවේදනයේ සඳහන් වන්නේ මෙම වසරේ පෙබරවාරි මස ඉල්ලුම් කරන ලද පවුල් හා තැනැත්තන් ද නැවත් අස්වැසුම වැඩසටහනට අයඳුම්පත් ලබාදීමට ප්‍රාදේශීය ලේකම්කාර්යාල වෙත පැමිණෙන බවට වාර්තා වන බවය.
-
-එමෙන්ම එකම පවුලේ සාමාජිකයන් වෙන් වෙන් වශයෙන් අස්වැසුම සුබසාධක ප්‍රතිලාභ වැඩසටහනට ඉල්ලුම්කිරීම සඳහා ප්‍රාදේශීය ලේකම් කාර්යාල වෙත අයඳුම්පත්‍ර භාරදීමට උත්සාහ දරන බවද වාර්තා වී ඇති බව දැනුම් දී තිබේ.
+South Asia’s agricultural sector is experiencing significant growth, driven by rising domestic demand and increasing export potential. Engaging in this forum allows exporters to gain insights into market trends, regulatory updates, and technological advancements. Moreover, direct interactions with industry leaders, policymakers, and potential business partners can facilitate strategic partnerships and market entry strategies.
 
 ...
 
+[Data](articles/82ceb3ee.json)
+
+[Extended Data](ext_articles/82ceb3ee.ext.json)
+
+---
+
+### MP Archchuna Ramanathan alleges assault in Parliament
+
+*2024-12-03 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103974/mp-archchuna-ramanathan-alleges-assault-in-parliament) · `en`
+
+Jaffna District Independent Member of Parliament Dr. Archchuna Ramanathan has alleged that he was assaulted today (03) within the premises of the Opposition Leader’s Office in the Parliament Complex.
+
+Addressing the House during the parliamentary session today (03), he claimed the attacker was an individual named ‘Sujith’.
+
+In his statement to Parliament, Dr. Archuna stated that: “I went to the opposition leader’s office at around 2:30 p.m. I inquired about the time allocation (to speak). Nothing was communicated to me today. I went to ask if I have time tomorrow or not. There were officials there. They took me to another room. They said they can allocate the time for around 4.00 p.m. tomorrow”
+
+Jaffna District MP further explained that when he inquired from them as to how they are allowed to make such decisions, he was told to speak to a person named ‘Sujith’ and another individual, as they the ones responsible for making such decisions.
+
+...
+
+[Data](articles/66b817b3.json)
+
+[Extended Data](ext_articles/66b817b3.ext.json)
+
+---
+
+### A special announcement for the beneficiary beneficiaries
+
+*2024-12-03 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204006) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Welfare Benefit Board: No relief needed for 2024 Phase 2. Applications already processed. Revenue welfare program open Dec 9. Apply once for entire family. Avoid submitting separate applications to Divisional Secretariats.
+
+🟩
+
+The Welfare Benefit Board of the Ministry of Finance, Planning and Economic Development stated that the relief is not necessary for the second phase of the year 2024.
+
+The Welfare Benefit Board has pointed out that the applications of these families have already been included in the system.
+
+The revenue welfare benefit program has been given a concession from 9th December to apply for families and individuals.
+
+The program can only apply for the families that are not able to submit the applications to the reconciliation program.
+
+The announcement states that the relevant families and persons who applied for Families and persons who applied for the revenue program will be reached to Divisional Secretariat.
+
+It has been reported that it is reported that the same family members are reportedly trying to hand over the banks to the Divisional Secretariats to apply for the Welfare Benefit Program.
+
+Therefore, it is sufficient to submit one application, representing all members as per the family.
+
+◼️
+
 [Data](articles/a0473532.json)
+
+[Extended Data](ext_articles/a0473532.ext.json)
 
 ---
 
@@ -246,6 +296,28 @@ The operation resulted in the seizure of 01 Indian fishing boat and the apprehen
 
 ---
 
+### 291 267 people who registered and went to work in November
+
+*2024-12-03 18:46:22* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-අවසන්වන-විට-ලියාපදිංචි-වී-වීදෙස්-රැකියාවට-ගිය-පිරිස-291-267ක්/11-413439) · `si`
+
+Sri Lanka: 22685 registered for foreign employment in Nov 2024. 291,267 went abroad, 6.9% increase from 2023. Most jobs in Kuwait (71,210), UAE (48,330), Qatar (4,346), Japan (7,983), South Korea (6,925). 172,746 male, 18,821 female workers. Special program launched for children of working parents.
+
+🟩
+
+22685 Sri Lankans registered with the Sri Lanka Bureau of Foreign Employment in November, 2024. By the end of the November of 2024, 291,267 persons have gone abroad to employed at $ 6.9% over 2023. Accordingly 274,265 persons have left for work from January to November 2023.
+
+178,914 workers abroad from January to November from January to November.And 81 159 leaving for low skilled jobs. 2024 out of the abroad, the number of male workers is a172,746. The number of female workers is a18,821.
+
+Meanwhile, most of the highest number of jobs from January to November this year, the largest employment is located to Kuwait, which is 71 210. The United Arab Emirates 48888,48,30 008 and Qatar has left for 4346 for the Kingdom of Qatar, 7983 for Japan and 6925 for South Korea.
+
+...
+
+[Data](articles/3d3d0c31.json)
+
+[Extended Data](ext_articles/3d3d0c31.ext.json)
+
+---
+
 ### Young man hurts to be targeted for firing!
 
 *2024-12-03 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200337) · `ta`
@@ -269,6 +341,26 @@ Police said they have not yet received any information about the suspect who car
 [Data](articles/76239682.json)
 
 [Extended Data](ext_articles/76239682.ext.json)
+
+---
+
+### Litro gas prices do not change
+
+*2024-12-03 18:31:03* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-වෙනස්-නොවෙයි/11-413437) · `si`
+
+Litro gas prices remain unchanged in December. Despite international market increases, the company decided against raising local prices.
+
+🟩
+
+Litro Company says Litro domestic gas prices do not change for December month.
+
+The company says that LP gas prices have increased in the international market, but the people decided not to increase the price of gas.
+
+◼️
+
+[Data](articles/58f6ab12.json)
+
+[Extended Data](ext_articles/58f6ab12.ext.json)
 
 ---
 
@@ -2413,97 +2505,5 @@ Meanwhile, former Spokesman DIG Nihal Thalduwa will continue in his capacity as 
 [Data](articles/3d037563.json)
 
 [Extended Data](ext_articles/3d037563.ext.json)
-
----
-
-### 54 senior police officers, including Deputy Police Principals
-
-*2024-12-03 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200279) · `ta`
-
-Senior police transfers: 54 officers moved, 5 DIGs to National Police Commission, 7 officers to assistant roles. Key appointments: HW IS Mudumala as CID Director, EMMS Tehiteniya transferred.
-
-🟩
-
-54 senior police officers, including Deputy Police Principals, have been transferred.
-
-Five Deputy Inspector General of Police and 35 senior police officers have been transferred to the National Police Commission immediately, the police headquarters said.
-
-Meanwhile, 7 police officers and 7 assistant police officers have been transferred.
-
-The Senior Police Officer of the Women's Division, HW IS Mudumala, who served as the Deputy Director of the Criminal Investigation Department, has been appointed as the Director of the Criminal Investigation Department, police headquarters said.
-
-In addition, Senior Police Officer EMMS Tehiteniya, who served as the Director of the Criminal Investigation Department as the Officer in charge of the Nugegoda Police Division, has been transferred.
-
-◼️
-
-[Data](articles/8453f5d2.json)
-
-[Extended Data](ext_articles/8453f5d2.ext.json)
-
----
-
-### Litro Gas to announce December price revisions tomorrow
-
-*2024-12-03 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103953/litro-gas-to-announce-december-price-revisions-tomorrow) · `en`
-
-The Litro Gas Company says that the LP gas price revision for the month of December will be announced tomorrow (04).
-
-A spokesperson of the company mentioned that the price revision will be carried out based on the current global market’s LP gas prices.
-
-Furthermore, it was reported that although the gas prices have risen internationally leading to an expected increase in local prices, negotiations are ongoing to keep the local prices stable to provide relief to the people.
-
-The price revision proposal related to the matter has reportedly forwarded to the Ministry of Finance.
-
-No LP gas price revision took place last month, and the most recent price revision was in October.
-
-◼️
-
-[Data](articles/eb5f308f.json)
-
-[Extended Data](ext_articles/eb5f308f.ext.json)
-
----
-
-### Iraqi fighters head to Syria to battle rebels but Lebanon’s Hezbollah stays out, sources say
-
-*2024-12-03 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103952/iraqi-fighters-head-to-syria-to-battle-rebels-but-lebanons-hezbollah-stays-out-sources-say) · `en`
-
-Hundreds of Iran-backed Iraqi fighters crossed into Syria on Monday to help the government fight rebels who seized Aleppo last week, but Lebanon’s Hezbollah has no plans for now to join them, according to sources.
-
-Iran’s constellation of allied regional militia groups, aided by Russian air power, has been integral to the success of pro-government forces in subduing rebels in Syria who rose up against President Bashar al-Assad in 2011.
-
-But that alliance faces a new test after last week’s lightning advance by rebels in northwest Syria, with Russia focused on war in Ukraine and Hezbollah’s leadership decimated by a war with Israel that ended in a ceasefire last week.
-
-The rebel storm of Aleppo is the biggest success of anti-Assad fighters for years. Government forces had held complete control of Aleppo since capturing what was then Syria’s largest city in a siege in 2016, one of the major turning points of a war that has killed hundreds of thousands of people.
-
-...
-
-[Data](articles/055375f7.json)
-
-[Extended Data](ext_articles/055375f7.ext.json)
-
----
-
-### 13 Affairs: Opportunity to talk to the president
-
-*2024-12-03 10:51:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-விவகாரம்-ஜனாதிபதியுடன்-பேச-வாய்ப்பு/175-348160) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Chief Minister Bimal Ratnayake announces Parliament session to discuss 13th Constitutional Amendment this week."
-
-🟩
-
-The Chief Minister of the House, Minister Bimal Ratnayake, said that this week will be given time to discuss the 13th Amendment to the Constitution.
-
-Minister Bimal Ratnayake said in response to the issue of order raised by MP Rasamanikam Chanakyan at a session in Parliament.
-
-◼️
-
-[Data](articles/3aca4a87.json)
-
-[Extended Data](ext_articles/3aca4a87.ext.json)
 
 ---

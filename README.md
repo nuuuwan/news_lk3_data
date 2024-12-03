@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 23:26:42**
+As of **2024-12-03 23:42:59**
 
 ## Newspaper Stats
 
-*Scraped **58,300** Articles*
+*Scraped **58,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 607
 islandlk | 3,499
-economynextcom | 3,541
+economynextcom | 3,543
 dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,522
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,300 (100.0%) of 58,300 articles have been extended.
+58,300 (100.0%) of 58,302 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -466,6 +466,28 @@ Jaffna Independent Member said he came to the office of the opposition leader an
 
 ---
 
+### Sri Lanka’s Lion Brewery eyes export boost with innovation plant
+
+*2024-12-03 17:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-eyes-export-boost-with-innovation-plant-191708/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Lion Brewery (Ceylon) Plc is planning to boost exports with the help of a newly set up plant, where new beers will be developed and tested, targeting foreign markets, Chief Executive Rajiv Meewakkala said.
+
+Lion Brewery already exports about 20 million dollars of beer to the Maldives, where it is the market leader, the Middle East and East Africa.
+
+In the Maldives Lion Brewery also has rights to export Carlsberg which it produces under license in addition to its own brand.
+
+Over the next five years the firm expects to boost exports to 35 million dollars or 20 percent of its output.
+
+The domestic market had been hit by currency collapses and tax hikes and is usually grows only 2 to 3 percent a year.
+
+Lion Brewery has a plant with an annual capacity of 200 million litres, of which only 160 million is utilized at the moment leaving spare capacity. About 15 percent of the product is already exported.
+
+...
+
+[Data](articles/9f2f04ae.json)
+
+---
+
 ### Allowance to take schools
 
 *2024-12-03 17:53:01* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පොත්-පත්-ගන්න-දරුවන්ට-දීමනාවක්/11-413434) · `si`
@@ -709,6 +731,22 @@ The CAASL said it would proceed with the certification process of the applicatio
 [Data](articles/38aff798.json)
 
 [Extended Data](ext_articles/38aff798.ext.json)
+
+---
+
+### Air Ceilao seeks Sri Lanka approval for domestic, international charter flights
+
+*2024-12-03 16:56:00* · [`economynextcom`](https://economynext.com/air-ceilao-seeks-sri-lanka-approval-for-domestic-international-charter-flights-191591/) · `en`
+
+ECONOMYNEXT – Air Ceilao, a new private aircraft operator, has sought approval from the Civil Aviation Authority of Sri Lanka, to operate domestic and international charter flights to transport passengers and cargo, an official document showed.
+
+The CAASL in a public notice said Air Ceilao, a new operator, has sought “an Air Operator Certificate and Airline Licence to engage in domestic charter and regular transport operations and international charter and regular transport operations carrying passengers, cargo, and mail in compliance with Civil Aviation Act..”
+
+The CAASL said it would proceed with the certification process of the application after January 8, 2025 to examine the degree of Air Ceilao’s compliance with the applicable legislative provisions.
+
+...
+
+[Data](articles/4976e912.json)
 
 ---
 
@@ -2465,51 +2503,5 @@ She also said in parliament today that the people who have given the people shou
 [Data](articles/df6f4e02.json)
 
 [Extended Data](ext_articles/df6f4e02.ext.json)
-
----
-
-### Sri Lankan migrants brought to UK from Diego Garcia
-
-*2024-12-03 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103955/sri-lankan-migrants-brought-to-uk-from-diego-garcia) · `en`
-
-Migrants stranded for more than three years on the remote Indian Ocean island of Diego Garcia have been brought to the UK.
-
-The Sri Lankan Tamils are permitted to remain in the country for six months, with financial support from the Foreign Office, according to documents seen by the BBC.
-
-Their journey to the UK marks the end of years of complex legal battles waged over thousands of miles over their fate, but their long-term future remains uncertain.
-
-Most of the group of around 60 migrants have been living in a makeshift camp on Diego Garcia - the site of a strategic UK-US military base - since October 2021, when they became the first people ever to file asylum claims there.
-
-On Monday, a government spokesperson described the move as a “one-off, due to the exceptional nature of these cases and in the interests of their welfare”.
-
-“This government inherited a deeply troubling situation that remained unresolved under the last administration for years,” the spokesperson said.
-
-...
-
-[Data](articles/a18e3d11.json)
-
-[Extended Data](ext_articles/a18e3d11.ext.json)
-
----
-
-### Sri Lanka tourist arrivals up 21.56-pct in November, despite travel warnings
-
-*2024-12-03 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-21-56-pct-in-november-despite-travel-warnings-191101/) · `en`
-
-ECONOMYNEXT – Tourist arrivals into Sri Lanka rose 21.56 on a year-on-year basis in November, despite travel advisories by six countries in effect during the month, data from Sri Lanka Tourism Development Authority showed.
-
-Despite a US-led travel advisory being in effect in the first two weeks of the month, an inflow of tourists have been reported as the sector continues to recover.
-
-Sri Lanka tourist indicators have grown from 151,496 in November 2023 to 184,158   in November 2024, mostly led by Indian tourists.
-
-The total number of Indian tourists visiting Sri Lanka monthly rose to 41,120 from 36,417, an 11.4 percent increase.
-
-Indian arrivals were by far the highest, overtaking visitors from the Russian Federation at 29,053, United Kingdom at 12,912, Germany at 12,593, Australia at 7,937 and China at 7,696.
-
-...
-
-[Data](articles/aff6440f.json)
-
-[Extended Data](ext_articles/aff6440f.ext.json)
 
 ---

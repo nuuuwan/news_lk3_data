@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 17:11:32**
+As of **2024-12-03 16:01:31**
 
 ## Newspaper Stats
 
-*Scraped **58,259** Articles*
+*Scraped **58,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,159 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 606
-islandlk | 3,498
+islandlk | 3,497
 economynextcom | 3,535
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,513
+adalk | 5,507
 adaderanalk | 7,073
 tamilmirrorlk | 8,289
 virakesarilk | 9,529
-adaderanasinhalalk | 10,066
+adaderanasinhalalk | 10,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,255 (100.0%) of 58,259 articles have been extended.
+58,237 (100.0%) of 58,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
-
-### What happened to the master to stabbed the master today
-
-*2024-12-03 16:22:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියටම-ඇවිත්-ස්වාමියාට-පිහියෙන්-ඇන්න-බිරිඳට-අද-සිදුවූ-දේ/11-413428) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Woman (42) stabs husband in Ratnapura. Arrested by police. Victim hospitalized. Suspect to appear in court. Further investigation by Children's & Women's Bureau.
-
-🟩
-
-The woman arrested by the police arrested the woman had arrested a person with a knife in the Ratnapura Police.
-
-The arrested persons were 42 year old woman from Pitawatte, Ratnapura.
-
-The man who claimed to be a complaint with a child and a woman in Ratnapura, the wife was arrested by the wife and the woman were arrested by the wife, the wife of the police and women.
-
-A resident of the Ratnapura Hospital 7 hospital is currently receiving treatment at the Ratnapura Hospital 7 Hospital.
-
-The suspect is due to be produced before the court today.
-
-Further investigations will be conducted by the Children's and Women's Bureau on the instructions of Mamal Abeysiri, Ratnapura.(I J)
-
-◼️
-
-[Data](articles/21edf7d2.json)
-
-[Extended Data](ext_articles/21edf7d2.ext.json)
-
----
-
-### Cabinet approval to remove government high luxury vehicles
-
-*2024-12-03 16:17:06* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-අධි-සුඛෝපභෝගී-වාහන-ඉවත්-කිරීමට-කැබිනට්-අනුමැතිය/11-413427) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Cabinet approves removal of luxury vehicles from government institutions due to high maintenance and fuel costs. Decision aims to optimize resources and reduce expenses.
-
-🟩
-
-Cabinet approval has been approved to abolidate such high luxury vehicles, considering the cost of maintenance and fuel that costs the maintenance and fuel that costs the maintenance and fuel used in government institutions.. It is also taken into consideration that the abolition of vehicles will be more effective to the government.
-
-Accordingly, the formal engine capacity of the vehicles of all state tensions has been conducted in 87.03 vehicles and diesel engine capacity of Rs.To be abused.
-
-The Cabinet proposal submitted to the Treasury to report the cycle to the Treasury to report to the Treasury to report to the Treasury to report to the Treasury to report to the Treasury.
-
-◼️
-
-[Data](articles/f9093155.json)
-
-[Extended Data](ext_articles/f9093155.ext.json)
-
----
-
-### Two committees to solve the problems of graduates in the public service
-
-*2024-12-03 15:58:33* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-සිටින-උපාධිධාරීන්ගේ-ගැටලු-විසඳීමට-කමිටු-දෙකක්/11-413426) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Two committees formed to address graduate issues in public service: Ministerial Officer Committee to identify and resolve problems faced by officers in various positions. Cabinet approval granted for appointments.
-
-🟩
-
-Minister of Ministers and Officers Committee to identify and resolve problems with officers in various positions in public service as a bachelor of public service as a Bachelor of Public Service as a Bachelor of Public Service as a Bachelor of Public Service.Cabinet approval has been granted to appoint.
-
-◼️
-
-[Data](articles/a246e84e.json)
-
-[Extended Data](ext_articles/a246e84e.ext.json)
-
----
-
-### Privileges are studying the newsiri report to limit privileges - Nalinda Jayatissa
-
-*2024-12-03 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203999) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nalinda Jayatissa: Committee studying newsiri report on limiting privileges for ministers, former presidents. Chithrasiri Committee report handed to President Anura Kumara Dissanayake yesterday. Recommendations include reconsidering offers and privileges provided to MPs, Ministers, and former Presidents.
-
-🟩
-
-Related to Ministers and the privileges of former presidents. T. Cabinet Spokesperson Minister Nalinda Jayatissa said that the Artiri Committee was studying the report of the Article Committee today.
-
-Speaking at a press conference held today, he said that at a press conference held today for the Cabinet decisions.
-
-"After the president was appointed, a committee was appointed to investigate the privileges of announced. Former Supreme Court Judge K. T. Chairman of Mr. Chitrasiri. Their report was handed over to the President yesterday. We are studying. "
-
-"The report states. They recommend how to limit certain privileges. We will consider all these things together. "
-
-Re-considered Ken to reconsider the offers and privileges provided by MPs, Ministers and former Presidents. T. The report of the Chithrasiri Committee was handed over to President Anura Kumara Dissanayake yesterday (02).
-
-◼️
-
-[Data](articles/568c8822.json)
-
-[Extended Data](ext_articles/568c8822.ext.json)
-
----
-
-### Permission to Import Rice without License
-
-*2024-12-03 15:46:45* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-ලබා-ගැනීමකින්-තොරව-සහල්-ආනයනය-කිරීමට-අවසර/11-413425) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Cabinet removes rice import restrictions due to cultivation deficit from heavy rainfall. Permission granted to import rice without licenses until 12/20 days.
-
-🟩
-
-The Cabinet has consumed the temporary removal of existing limitations for the importation of rice in the local market and the deficit of rice cultivation due to heavy rainfall.
-
-Accordingly, up to 12/20 days without obtaining the import control licenses, it has been decided to provide permission to the country to import rice.
-
-◼️
-
-[Data](articles/a9a7acbc.json)
-
-[Extended Data](ext_articles/a9a7acbc.ext.json)
-
----
 
 ### Sri Lanka stocks close up, driven by F&B, tobacco sector
 
@@ -172,7 +38,7 @@ Accordingly, up to 12/20 days without obtaining the import control licenses, it 
 
 ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
 
-The broader ASPI closed up 0.84 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
+The broader ASPI closed up 0.96 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
 
 Turnover was 3.2 billion. Most of this came from the food, beverage and tobacco sector (Rs783mn).
 
@@ -187,8 +53,6 @@ Top positive contributors to the ASPI were LOLC Holdings (up at 459.25), Central
 ◼️
 
 [Data](articles/61a53ce8.json)
-
-[Extended Data](ext_articles/61a53ce8.ext.json)
 
 ---
 
@@ -205,30 +69,6 @@ Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minis
 ...
 
 [Data](articles/ed825c9c.json)
-
-[Extended Data](ext_articles/ed825c9c.ext.json)
-
----
-
-### The railway employees killed in train accident
-
-*2024-12-03 15:37:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයෙක්-දුම්රියක-ගැටී-මරුට/11-413424) · `si`
-
-Sri Lal Premaratne (58), a railway worker, died after colliding with a locomotive at Kandy Railway Station.
-
-🟩
-
-An employee of the Railway Station at Kandy Railway Station
-
-The deceased has been identified as Sri Lal Premaratne (58) serving as a worker in the Railway Road.
-
-He had collided with a locomotive of the road to another railway train while he was train to another railway train while he was trained in the railway station at the railway station.Have died.
-
-◼️
-
-[Data](articles/765de10a.json)
-
-[Extended Data](ext_articles/765de10a.ext.json)
 
 ---
 
@@ -309,32 +149,6 @@ This transformative initiative, which is guided by the new government’s vision
 ...
 
 [Data](articles/5023a34e.json)
-
-[Extended Data](ext_articles/5023a34e.ext.json)
-
----
-
-### Parliament tomorrow parliament until 9:30 pm
-
-*2024-12-03 15:18:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාර්ලිමේන්තුව-රාත්‍රී-9-30-තෙක්/11-413423) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Parliament meets tomorrow until 9:30 PM. Church adjourned due to adverse weather. President's policy statement debate from 9:30 AM to 5:00 PM. Postponement proposal to be discussed after 5:30 PM election.
-
-🟩
-
-Deciding on the recent adverse weather has decided to adjourn the church to the post of Adverse Weather, held at the party leaders' meeting chaired by Speaker Dr. Asoka Ranwala underway.
-
-Accordingly, the proposal on the proposal to the President's policy statement by the President in Parliament will be held from 9.30 am to 5:00 pm. The council has agreed to hold the post of postponement as a proposal to be taken by the party after the election to be held at 5.30 pm.
-
-◼️
-
-[Data](articles/6fde3981.json)
-
-[Extended Data](ext_articles/6fde3981.ext.json)
 
 ---
 
@@ -434,8 +248,6 @@ Accordingly, it has been decided to grant permission to import rice into the cou
 
 [Data](articles/225f2696.json)
 
-[Extended Data](ext_articles/225f2696.ext.json)
-
 ---
 
 ### Sri Lanka to remove restrictions on rice imports till Dec20
@@ -444,21 +256,15 @@ Accordingly, it has been decided to grant permission to import rice into the cou
 
 ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers will temporarily remove existing restrictions on the import of rice, Health Minister Nalinda Jayatissa has said.
 
-On November 20, Trade Minister Wasantha Samarasinghe said the government will import 70,000 metric tonnes of nadu rice to address a shortfall in the market, through two state agencies.
-
-Sathosa and the State Trading Corporation will import 52,000 metrics tonnes of this.
-
-“In addition to this, the government decided to temporarily remove existing restrictions on the import of rice
-
-“Considering the current shortage of some types of rice in the local market, as well as the damage caused to paddy cultivation due to the heavy rains of the past few days, the Cabinet approved temporarily removing the existing restrictions on the import of rice,” Jayatissa told reporters on Tuesday.
+“Considering the current shortage of Nadu rice and other types of rice in the local market, as well as the damage caused to paddy cultivation due to the heavy rains of the past few days, the Cabinet approved temporarily removing the existing restrictions on the import of rice,” Jayatissa told reporters on Tuesday.
 
 He said the Cabinet decided to grant permission to import rice until December 20, without obtaining import control licenses.
+
+On November 20, Trade Minister Wasantha Samarasinghe said the government will import 70,000 metric tonnes of rice to address a shortfall in the market, through two state agencies, Sathosa and the State Trading Corporation. (Colombo/Dec9/2024)
 
 ◼️
 
 [Data](articles/56b31998.json)
-
-[Extended Data](ext_articles/56b31998.ext.json)
 
 ---
 
@@ -474,33 +280,21 @@ The approval has been granted to the proposal submitted by President Anura Kumar
 
 [Data](articles/0129ea10.json)
 
-[Extended Data](ext_articles/0129ea10.ext.json)
-
 ---
 
-### Clean Sri Lanka Program Cabinet approval
+### Clean Sri Lanka වැඩසටහනට කැබිනට් අනුමැතිය
 
 *2024-12-03 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203996) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+Clean Sri Lanka අරමුදලක් පිහිටුවීමට සහ එහි කළමනාකරණය සඳහා ජනාධිපති කාර්ය සාධක බළකායක් පිහිටුවීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
 
+'පොහොසත් රටක් ලස්සන ජීවිතයක්' යන නව රජයේ දැක්ම අනුව මෙහෙයවනු බලන මෙම පරිවර්තනීය මුල පිරීම සාමාජිය, පාරිසරික හා ආචාරධර්මීය පිබිදීමක් ඉලක්ක කර ගනිමින් ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
 
-
-Clean Sri Lanka Program approved. President Anura Kumara Dissanayake establishes Clean Sri Lanka Fund and Presidential Task Force. Aims for social, environmental, ethical awakening. National initiative for economic, political, social development.
-
-🟩
-
-The proposal made by President Anura Kumara Dissanayake has approved the resolution of President Anura Kumara Dissanayake to establish a Clean Sri Lanka Fund and set up a Presidential Task Force to establish a fund.
-
-The initiative, which leads to the new government vision, is to be implemented targeting the social, environmental and ethical awakening.
-
-The government is planning to implement this program as a national operation to achieve the national anticipatory, reconciliation and standardization of Sri Lanka not only economically but also a significant downturn in Sri Lanka but also in political, social, social, social, social, social, social, social, social, social..
+ශ්‍රී ලංකාව ආර්ථිකමය වශයෙන් පමණක් නොව දේශපාලනික, සාමාජීය, ආධ්‍යාත්මක මෙන්ම පාරිසරික වශයෙන්ද සැලකිය යුතු පසුබෑමකට ලක්වීම සැලකිල්ලට ගෙන මෙරට ජනතාවගේ යහපැවැත්ම, සංහිඳියාව සහ ප්‍රමණය තහවුරු කිරීම තුලින් ජාතික අපේක්ෂාව සාක්ෂාත් කර ගැනීම සඳහා සිදු කරනු ලබන ජාතික මෙහෙයුමක් ලෙස මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට රජය සැලසුම් කර තිබේ.
 
 ◼️
 
 [Data](articles/25784651.json)
-
-[Extended Data](ext_articles/25784651.ext.json)
 
 ---
 
@@ -517,8 +311,6 @@ Accordingly, the Ministry of Health and Mass Media has prepared 04 lists of medi
 ...
 
 [Data](articles/bfc71224.json)
-
-[Extended Data](ext_articles/bfc71224.ext.json)
 
 ---
 
@@ -866,8 +658,6 @@ These include berthing facilities to passenger vessels of 300m in length and car
 
 [Data](articles/144038f1.json)
 
-[Extended Data](ext_articles/144038f1.ext.json)
-
 ---
 
 ### We will not allow racism to be headed
@@ -932,23 +722,17 @@ Furthermore, he expressed that the Cabinet of Ministers approved the proposal pe
 
 ---
 
-### Parliament to be held tomorrow night
+### පාර්ලිමේන්තුව හෙට රාත්‍රී 9 තෙක් පැවැත්වීමට තීරණයක්
 
 *2024-12-03 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203990) · `si`
 
-Parliament meeting tomorrow at 9:30 PM. Adjournment debate on weather from 5:30 to 9:30 PM.
+හෙට දිනයේදී පාර්ලිමේන්තුව රාත්‍රී 9.30 තෙක් පැවැත්වීමට පක්ෂ නායක රැස්වීමේදී තිරණය වී තිබේ.
 
-🟩
-
-Parliament has decided to hold the Parliament tomorrow at 9.30 pm.
-
-Accordingly, the Adjournment Debate on the recent adverse weather conditions was decided to hold the president of 5.30 pm to 9.30 pm, said the Parliamentary Communication Department.
+ඒ අනුව පසුගිය දිනවල පැවැති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතිවූ ආපදා තත්ත්වය පිළිබඳ සභාව කල් තැබීමේ විවාදය හෙට පස්වරු 5.30 සිට පස්වරු 9.30 දක්වා පැවැත්වීමට තීරණය වූ බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසීය.
 
 ◼️
 
 [Data](articles/e4edeccb.json)
-
-[Extended Data](ext_articles/e4edeccb.ext.json)
 
 ---
 
@@ -1367,8 +1151,6 @@ Sri Lanka is yet to present a budget for next year’s expenditure. One is sched
 ...
 
 [Data](articles/de3f6e64.json)
-
-[Extended Data](ext_articles/de3f6e64.ext.json)
 
 ---
 
@@ -2473,5 +2255,167 @@ The victim was admitted to the Matara hospital and died on admission to the Kara
 [Data](articles/a8e092eb.json)
 
 [Extended Data](ext_articles/a8e092eb.ext.json)
+
+---
+
+### Several senior police officers transferred
+
+*2024-12-03 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103941/several-senior-police-officers-transferred) · `en`
+
+The Police Media Division said that several senior Police officers, including Deputy Inspector Generals of Police (DIGs) have been transferred.
+
+Director CID SSP E.M.M.S. Dehideniya has been transferred to Nugegoda Division and Female SSP H.W.I.S. Muthumala takes over as Director of CID.
+
+◼️
+
+[Data](articles/915f1d4e.json)
+
+[Extended Data](ext_articles/915f1d4e.ext.json)
+
+---
+
+### Misty conditions expected during the morning
+
+*2024-12-03 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103940/misty-conditions-expected-during-the-morning) · `en`
+
+A few showers will occur in Eastern provinces, says the Department of Meteorology.
+
+Misty conditions can be expected most places of the island during the morning, it said.
+
+◼️
+
+[Data](articles/8e9f8cb7.json)
+
+[Extended Data](ext_articles/8e9f8cb7.ext.json)
+
+---
+
+### A / L examination will be rescued from tomorrow
+
+*2024-12-03 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203977) · `si`
+
+GCE A/L exam resumes tomorrow after weather delay. Originally started on 25th, heavy rain caused suspension. Commissioner says affected subjects will be rescheduled soon.
+
+🟩
+
+The Advanced Level Examination of the 2024 GCE Advanced Level Examination will be resumed from tomorrow due to inclement weather.
+
+This time the GCE A / L examination commenced on the 25th and the heavy rains were temporarily suspended.
+
+The Examinations Commissioner General of Examinations said that the examination will be resumed from tomorrow and the examination will be held tomorrow.
+
+The Commissioner General of Examinations said that the subjects on the days of not the examination were scheduled to be held in the coming days.
+
+◼️
+
+[Data](articles/779d6bac.json)
+
+[Extended Data](ext_articles/779d6bac.ext.json)
+
+---
+
+### It may be raining today
+
+*2024-12-03 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை-பெய்யக்-கூடும்/175-348150) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rainfall warning issued for parts of Sri Lanka today. Coastal areas from Batticaloa to Kankesanthurai may experience rain. Rest of the country expects mostly clear skies.
+
+🟩
+
+The Department of Meteorology has said that some parts of the country are likely to experience a little rain today.
+
+There is a possibility of rainfall in some places beyond the coastal coastal areas from Batticaloa to Kankesanthurai via Trincomalee.
+
+The rest of the country is expected to be mainly uniform. (A)
+
+◼️
+
+[Data](articles/a7df9f1a.json)
+
+[Extended Data](ext_articles/a7df9f1a.ext.json)
+
+---
+
+### Parliament may meet today
+
+*2024-12-03 08:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-இன்று-கூடும்/175-348149) · `ta`
+
+Parliament meets today at 9:30 AM. Speaker Ashoka Ranwala leads the session. Initial meeting on Nov 21 included Speaker, Deputy Speaker, Committee Chair selection, and member confirmation. President's policy speech follows.
+
+🟩
+
+The Parliament will convene today at 9.30 am under the leadership of Speaker Ashoka Ranwala.
+
+The initial session of the 10th Parliament was held on November 21st. On that day, the selection of the Speaker, the Deputy Speaker's Selection, the Deputy Chairman of the Committees and the Confirmation of Members of Parliament.
+
+Thereafter the president's policy speech was held after the adjournment of the council. (A)
+
+◼️
+
+[Data](articles/fe25abfd.json)
+
+[Extended Data](ext_articles/fe25abfd.ext.json)
+
+---
+
+### Sri Lanka on behalf of Sri Lanka on the evening of the US State Department Assistant Secretary
+
+*2024-12-03 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203976) · `si`
+
+US State Department official Donald Lu visits Sri Lanka, India, Nepal to strengthen regional ties and discuss economic reforms with new Sri Lankan government leaders.
+
+🟩
+
+Mr. Donald on the Southern and Central Institutional Department of America Donald Lune is to visit Sri Lanka.
+
+He is due to visit India while traveling in India and Nepal.
+
+Donald Luh is due to arrive in Sri Lanka (05).
+
+Donald Lu's visit is aimed at strengthening cooperation with the main partners in South Asia to promote the pre-prosperity prosperity and security.
+
+The US State Department stated that plans have been made to discuss the economic reforms with the new government heads of Sri Lanka.
+
+After India, Donald Luader, who arrived in the country, is also scheduled to visit Nepal.
+
+◼️
+
+[Data](articles/c3863ed7.json)
+
+[Extended Data](ext_articles/c3863ed7.ext.json)
+
+---
+
+### Transfers to many of the police chairs
+
+*2024-12-03 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203975) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Police transfers: 54 officers moved, including 5 DIGs & 5 SSPs. CID changes: HWS Muthumla new Director, EMMS Developed transferred to Nugegoda Division.
+
+🟩
+
+54 police officers including DIGs have been transferred.
+
+Five DIGs, five senior Superintendents of Police have been transferred with immediate effect, according to the National Police Commission.
+
+In addition, 7 Superintendents of Police and 7 Assistants have also given places.
+
+According to the Deputy Director of the Criminal Investigation Department (CID) HWS Muthumla has been appointed as the Director of the Criminal Investigation Department.
+
+Senior Superintendent of Police (CID) EMMS Developsed has been transferred as the Nugegoda Divisional Officer of Nugegoda.
+
+◼️
+
+[Data](articles/956e6b86.json)
+
+[Extended Data](ext_articles/956e6b86.ext.json)
 
 ---

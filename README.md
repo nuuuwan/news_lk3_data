@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 03:26:14**
+As of **2024-12-04 04:15:12**
 
 ## Newspaper Stats
 
-*Scraped **58,323** Articles*
+*Scraped **58,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
-tamilmirrorlk | 8,297
+tamilmirrorlk | 8,298
 virakesarilk | 9,549
 adaderanasinhalalk | 10,076
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,316 (100.0%) of 58,323 articles have been extended.
+58,320 (100.0%) of 58,324 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,6 +178,32 @@ This is followed by a referendum in this evening. Will be featured. The adjournm
 
 ---
 
+### We want to live with the identity of the model
+
+*2024-12-04 01:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளத்தோடு-வாழ-விரும்புகிறோம்/175-348211) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan Tamil leader calls for modern approach to ethnic issues, urging government to address decades-old problems and recognize Tamil rights as co-owners of the island.
+
+🟩
+
+Even though we and you are one of the nations, we want to live with the identity of two ethnic groups. Abandon the historical ideas of the pre -Christian period and approach the ethnic problem according to the 21st century modern thought. The Government of Sri Lanka should be prepared to approach a new politics with the attitude of the Sinhala people, the Tamil speaking people, the co -owners of the Sri Lankan island and the co -partners.. District MP Sivagnanam Sreedharan said.
+
+He was speaking at a debate on the President's Declaration of Policy on Tuesday in Parliament.
+
+Although the president has said many things in his policy speech, it is unfortunate that he has not spoken a word about the ethnic problem that has been raised on this soil for 80 years, and in his speech, the effort of the Tamil people is the most important issue.
+
+...
+
+[Data](articles/a81da2e7.json)
+
+[Extended Data](ext_articles/a81da2e7.ext.json)
+
+---
+
 ### Can't accommodate national integrity
 
 *2024-12-04 01:25:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-ஒருமைப்பாட்டை-பலவீனப்படுத்த-இடமளிக்க-முடியாது/175-348210) · `ta`
@@ -272,21 +298,35 @@ Bangladesh team under 17: 51 - 4 wig when the game ended. (Sethima Seneviratne 5
 
 ### 2024-12-03 (Tuesday)
 
-### மந்தகதி ஓவர் வீதத்திற்கு இங்கிலாந்து மற்றும் நியூசிலாந்து அணிகளுக்கு அபராதம்
+### England and New Zealand teams fined
 
 *2024-12-03 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200360) · `ta`
 
-கிறைஸ்ட்சேர்ச் ஹெக்லி ஓவல் விளையாட்டரங்கில் கடந்த வாரம் நடைபெற்ற முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் ஓவர் வீதத்தை மந்தகதியில்பேணியதற்காக இங்கிலாந்து, நியூஸிலாந்து ஆகிய இரண்டு அணிகளுக்கும் அபராதம் விதிக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இரண்டு அணிகளுக்கும் போட்டிக் கட்டணத்தில் 15 சதவீத அபராதம் விதிக்கப்பட்டுள்ளதுடன்  உலக டெஸ்ட் சாம்பியன்ஷிப் போட்டி புள்ளிகளில் தண்டனையாக 3 புள்ளிகள் குறைக்கப்பட்டும் உள்ளது.
 
-உலக டெஸ்ட் சம்பியன்ஷிப் புள்ளிகள் குறைக்கபட்டதால் அணிகள் நிலையில் 4ஆம் இடத்திலிருந்த நியூஸிலாந்து இப்போது 5ஆம் இடத்திற்கு பின்தள்ளப்பட்டுள்ளது.
 
-பென் ஸ்டோக்ஸ் மற்றும் டொம் லெதம் ஆகிய இருவரினது அணிகளும் நிர்ணயிக்கப்பட்ட நேரத்திற்கு மேலதிகமாக வழங்கப்பட்ட சலுகை நேர முடிவில் 3  ஓவர்கள் குறைவாக வீசியிருந்ததாக எமிரேட்ஸ் ஐசிசி உயரடுக்கு போட்டி தீர்ப்பாளர் டேவிட் பூன் தீர்ப்பளித்து அபராதங்களை விதித்தார்.
+England & New Zealand fined 15% competition fees for playing extra Test match overs. World Test Championship points reduced. ICC judge ruled teams bowled out under 3 overs. Teams pleaded guilty, accepted punishments. Total World Test Championship points deducted 6 for both teams.
+
+🟩
+
+Both England and New Zealand have been fined for playing over the first Test cricket match last week at the Christchurch Hegli Oval Stadium.
+
+Both teams have been fined 15 percent of the competition fees and the World Test Championships have been reduced to 3 points at the World Test championship points.
+
+New Zealand, 4th, is now back in 5th place as the teams have reduced the World Test championship points.
+
+Emirates ICC elite ruling judge David Bhon ruled that the teams of Ben Stokes and Tom Leadam were bowled out for less than 3 overs at the end of the concessionary time.
+
+The recommendation of the ICC Immigration for the players and the players of the players and the players is associated with the recession over the recession over the rates, which will be fined five per cent of the players' competitive fees.
+
+Moreover, the ICC World Test Championships are awarded one point for each team for the recommendation of 16.11.2.
 
 ...
 
 [Data](articles/4cb982d0.json)
+
+[Extended Data](ext_articles/4cb982d0.ext.json)
 
 ---
 
@@ -514,21 +554,31 @@ Therefore, it is sufficient to submit one application, representing all members 
 
 ---
 
-### நாட்டை கட்டியெழுப்ப இலங்கையர்களாக ஒன்றுபட வேண்டும்; பிரதி அமைச்சர் முனீர்
+### To build the country to be united as Sri Lankans;Deputy Minister Munir
 
 *2024-12-03 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200358) · `ta`
 
-நாட்டை கட்டியெழுப்பவும் எமது எதிர்கால சந்ததியினருக்கு சிறந்ததொரு நாட்டை ஏற்படுத்தவும் அனைவரும் இலங்கையர்களாக ஒன்றுபட்டு செயற்ட முன்வரவேண்டும் என்று  தேசிய ஒருமைப்பாடு பிரதி அமைச்சர் முனீர் முழப்பர் தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (12) அன்று இடம்பெற்ற ஜனாதிபதியின் கொள்கை  விளக்க உரை மீதான விவாத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
 
-எமது நாட்டின் நீண்டகால பிராத்தனையாக இருந்தது தேசிய ஐக்கியமாகும். கடந்த காலங்களில் அதிகாரத்தை தக்கவைத்துக்கொள்வதற்காக இனங்களுக்கிடையில் பிரிவினையை ஏற்படுத்தவும் மதங்களுக்கிடையில் மோதலை ஏற்படுத்தவும் முயற்சித்து வந்ததை எமக்கு காணக்கூடியதாக இருந்தது என்றும் அவர் குறிப்பிட்டார்
 
-சமூகவலைத்தளங்களை ஊடகங்களை அடக்க முற்படுவதாக தெரிவிக்கப்படுகிறது. இனவாதத்தை தோற்கடிக்க வேண்டும் என்றே ஜனாதிபதி எப்போதும் தெரிவித்து வருகிறார். மக்களை தூண்டி. மக்களை பிளவுபடுத்தும் விடயங்களை சுதந்திரமாக மேற்கொள்ள இடமளித்தால், அரசாங்கம் எதிர்பார்க்கும் தேசிய ஐக்கியத்தை ஏற்படுத்த எமக்கு முடியுமா என்பது கேள்விக்குறியாகும் என்றும் அவர் கூறினார்.
+Sri Lanka Deputy Minister Munir calls for national unity. He criticizes past divisions based on ethnicity and religion. Urges collective effort to build a better future. President emphasizes defeating communalism and promoting national unity.
+
+🟩
+
+The Deputy Minister of National Integration Munir Muppar said that everyone should come together as Sri Lankans to build the country and make a better country for our future generations.
+
+He said this while addressing the president's policy speech held in Parliament on Tuesday (12).
+
+The national unity was the longest prayer of our country. He said that we were trying to create a division of ethnicities and to confront the religions to maintain power in the past.
+
+It is reported that social networks are trying to suppress the media. The president has always said that the defeat of communalism. Trigger people. He said, "If we are free to do things that are dividing the people, it is questionable whether the government can create national unity that the government is expecting."
 
 ◼️
 
 [Data](articles/c89ce822.json)
+
+[Extended Data](ext_articles/c89ce822.ext.json)
 
 ---
 
@@ -578,19 +628,33 @@ Yoon said he had no choice but to resort to such a measure in order to safeguard
 
 ---
 
-### இயற்கை அனர்த்தங்களில் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்க அரசாங்கம் 345 மில்லியன் ரூபா ஒதுக்கீடு - பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகர
+### Government allocated 345 million rupees to provide relief to people affected by natural disasters - Deputy Minister of Defense Aruna Jayasekara
 
 *2024-12-03 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200345) · `ta`
 
-கடும் மழையுடனான சீரற்ற கால நிலையினால் நாட்டில் 24 மாவட்டங்களில் 1, 39,439 குடும்பங்களைச் சேர்ந்த 4 இலட்சத்து 69 ஆயிரத்து 872 பேர் பாதிக்கப்பட்டுள்ளனர். 18 பேர் பலியாகியுள்ளளர். பாதிக்கப்பட்டுள்ள மக்களுக்கு நிவாரணம் வழங்குவதற்காக அரசாங்கம் 345 மில்லியன் ரூபாவை ஒதுக்கியுள்ளதாக பாதுகாப்பு பிரதியமைச்சர் அருண ஜயசேகர தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03)  நாட்டில் கடந்த சில தினங்களாக நிலவிய சீரற்ற காலநிலை மற்றும் அதன் பாதிப்புகள் அது தொடர்பில் அரசாங்கம் மேற்கொண்டுள்ள நடவடிக்கைகள் தொடர்பில் விளக்கமளித்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
 
-சீரற்ற காலநிலை காரணமாக ஏற்பட்ட அனர்த்தங்களில் மரணமடைந்தவர்களின் குடும்பத்தினருக்கு ஜனாதிபதி மற்றும் அரசாங்கத்தின் சார்பில் ஆழ்ந்த அனுதாபங்களைத் தெரிவித்துக் கொள்கின்றேன்.
+
+"Govt allocates 345M rupees relief aid after heavy rains affect 469k+ people in 24 districts. 18 killed, 38k sheltered in welfare centers."
+
+🟩
+
+4 lakhs 69 thousand 872 people from 1, 39,439 families in 24 districts in the country have been affected by heavy rains. 18 people have been killed. Defense Deputy Minister Aruna Jayasekara said the government has allocated 345 million rupees to provide relief to the affected people.
+
+He said this while addressing the government's actions on the inclement weather and its impacts in the country on Tuesday (03) in Parliament.
+
+I extend my deepest sympathies to the families of those who died in disasters due to inclement weather.
+
+Hundreds of thousands of people directly and indirectly have been affected by the disaster.The impacts have been reported in many districts including the Northern, Eastern, Central and North Central Provinces. This is due to heavy rains in the country.
+
+The government has allocated 345 million rupees to provide relief to people affected by heavy rains.
 
 ...
 
 [Data](articles/934c7e93.json)
+
+[Extended Data](ext_articles/934c7e93.ext.json)
 
 ---
 
@@ -2439,25 +2503,5 @@ Accordingly, the Adjournment Debate on the recent adverse weather conditions was
 [Data](articles/e4edeccb.json)
 
 [Extended Data](ext_articles/e4edeccb.ext.json)
-
----
-
-### Sajith criticizes govt. of using PTA to oppress social media
-
-*2024-12-03 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103959/sajith-criticizes-govt-of-using-pta-to-oppress-social-media) · `en`
-
-Opposition Leader Sajith Premadasa criticized the government for allegedly using the Prevention of Terrorism Act (PTA) to suppress social media freedom, despite promising to abolish the controversial legislation before coming to power.
-
-Speaking in Parliament today (03), Premadasa pointed out that social media played a significant role in securing the current government’s large electoral mandate. He added that however, after coming to power, the government is using the very Act it had promised to repeal to suppress social media activists.
-
-“Is this fair to engage in a media crackdown using the Prevention of Terrorism Act? You received immense support from the social media sector received immense. Yet now, social media activists are being targeted under the same Act you vowed to repeal,” Premadasa expressed.
-
-“We suggest if you do what is said, stop this repression. You have to walk the talk”, the opposition leader stressed.
-
-◼️
-
-[Data](articles/a2fef890.json)
-
-[Extended Data](ext_articles/a2fef890.ext.json)
 
 ---

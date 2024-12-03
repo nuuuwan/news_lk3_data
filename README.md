@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 11:43:20**
+As of **2024-12-03 12:24:12**
 
 ## Newspaper Stats
 
-*Scraped **58,184** Articles*
+*Scraped **58,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,389 @@ islandlk | 3,497
 economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,502
-adaderanalk | 7,057
-tamilmirrorlk | 8,271
-virakesarilk | 9,520
-adaderanasinhalalk | 10,052
+adalk | 5,504
+adaderanalk | 7,061
+tamilmirrorlk | 8,278
+virakesarilk | 9,527
+adaderanasinhalalk | 10,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,184 (100.0%) of 58,184 articles have been extended.
+58,194 (100.0%) of 58,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### Popular drug trafficker "Polwatte Janaka" arrested
+
+*2024-12-03 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200295) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Popular drug trafficker Polwatte Janaka arrested by Kalutara police. Found with foreign-made gun and bullets. 31-year-old from Moratuwa. Arrested in Panadura Mottara area during police operation.
+
+🟩
+
+Kalutara police have been arrested by the Kalutara police with a gun and five bullets made abroad.
+
+The suspect has been arrested during a roundup of the Panadura Mottara area on information received by the Kalutara police.
+
+The suspect was the 31 -year -old from Moratuwa, Moratuwa.
+
+Police investigations revealed that the seized gun and bullets were made in Brazil.
+
+◼️
+
+[Data](articles/291dc706.json)
+
+[Extended Data](ext_articles/291dc706.ext.json)
+
+---
+
+### Arrest
+
+*2024-12-03 12:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அழகுசாதனப்-பொருட்களைக்-கடத்த-முயன்றவர்-கைது/175-348169) · `ta`
+
+Sri Lankan man arrested at Bandaranaike Intl Airport for smuggling 5 million worth of cosmetics. Customs officials detained 34-year-old suspect from Batticaloa who frequently travels as trader. Products found packed with cosmetics.
+
+🟩
+
+Sri Lankan flight passenger at Bandaranaike International Airport Rs.. He was arrested while trying to smuggle 5 million worth of cosmetics.
+
+A 34 -year -old suspect from Batticaloa has been arrested by customs officials in the airport visit.
+
+Customs investigation revealed that the suspect is frequently travelers and traders and that he has come from Mumbai, India.. It was discovered that his products were packed with cosmetics.
+
+◼️
+
+[Data](articles/ca395441.json)
+
+[Extended Data](ext_articles/ca395441.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-12-03 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200299) · `ta`
+
+Here's a summary of the currency exchange rate in 200 characters:
+
+
+
+US Dollar: 286.3884 INR (buying) / 294.9861 INR (selling) on Tuesday, March 3rd.
+
+🟩
+
+The US dollar purchasing price was 286.3884 rupees and the sales price were 294.9861 on Tuesday (03).
+
+◼️
+
+[Data](articles/ecc513e6.json)
+
+[Extended Data](ext_articles/ecc513e6.ext.json)
+
+---
+
+### Appointment of several female officers to high positions
+
+*2024-12-03 11:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-பதவிகளுக்கு-பல-பெண்-அதிகாரிகள்-நியமனம்/175-348167) · `ta`
+
+Sri Lanka police appoints first female officers to top positions including Criminal Investigation Department Director and Special Investigation Division Director. Four Deputy Inspector Generals among 54 transfers. Historical milestone in gender equality within force.
+
+🟩
+
+For the first time in the history of the Sri Lankan police, several female officers have been appointed to the top posts of key sections, including the Criminal Investigation Department (CIT), including the Special Investigation Division.
+
+54 senior police officers, including four women, have been transferred to the implementation of the National Police Commission. Transfers include four Deputy Inspector General (DIG).
+
+In female appointments, SSP H.W.I.S. Mudumala, the former Deputy Director of the CIT, has been promoted to the Director of the Criminal Investigation Division instead of SSP EMMS Tehitenia.
+
+Senior Superintendent of Police, HMLR Amaraseena, of the Police Headquarters, has been appointed Director of the Special Investigation Division.
+
+SSP RAD Kumari of Cyber ​​Criminal Investigation Division has been appointed as Commanding Officer of the Police Field Corps Headquarters.
+
+SSP PGS Gunathilaka has been transferred to the Director of the Medical Services Division.
+
+◼️
+
+[Data](articles/aa2e8874.json)
+
+[Extended Data](ext_articles/aa2e8874.ext.json)
+
+---
+
+### Naleem's Satyaprama
+
+*2024-12-03 11:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-எம்-பியாக-நளீம்-சத்தியப்பிரமாணம்/175-348165) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Mohamed Sally Naleem, Sri Lanka Muslim Congress MP, sworn in. Party won 2 seats with 87,038 votes in last general election. Appointed via National List vacancy.
+
+🟩
+
+Mohamed Sally Naleem, who represented the Sri Lanka Muslim Congress Party and elected as a Member of Parliament through the National List, took oaths on Tuesday (03) in the presence of Asoka Sabumal Ranwala.
+
+The Muslim Congress contested the last general election and won 2 seats with 87,038 votes. In this case, he has been appointed by the party for a vacuum for the National List of the party.
+
+◼️
+
+[Data](articles/b1e36dfd.json)
+
+[Extended Data](ext_articles/b1e36dfd.ext.json)
+
+---
+
+### Appointment of Director of Police Media
+
+*2024-12-03 11:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-ஊடகப்-பணிப்பாளர்-நியமனம்/175-348164) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+KP Manandunga: New Director of Police Media Division. Transferred from Kantale Division. IUK Lokuhetti: Director Colombo Crime Branch & Examination Division. HDKS Perera: Prevention of Terrorism Investigation Division. KA Udaya Kumara: Corruption Prevention Unit Director.
+
+🟩
+
+Senior Superintendent of Police (SSP) KP Manadunga has been appointed as the new Director of the Police Media Division and the Police Media Spokesperson.
+
+The SSP has been transferred from the Kantale Division, while the Talatuwa Crime Division will remain in office as DIG.
+
+Meanwhile, Senior Superintendent of Police, IUK Lokuhetti has been transferred as the Director of the Colombo Crime Branch and the Director of the Examination Division.
+
+Senior Superintendent of Police, HDKS Perera, has been appointed as the new Director of the Prevention of Terrorism and Investigation Division and transferred from the Colombo Fraud Investigation Division.
+
+In addition, the Superintendent of Police, KA Udaya Kumara, has been transferred from the Puttalam Division as the Director of the Corruption Prevention Unit.
+
+◼️
+
+[Data](articles/3b7ec527.json)
+
+[Extended Data](ext_articles/3b7ec527.ext.json)
+
+---
+
+### Change in key positions
+
+*2024-12-03 11:41:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-பதவிகளில்-மாற்றம்/175-348163) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+KP promoted to SSP Director & Police Media Spokesman. Former spokesperson Nihal Talduwa remains Deputy Inspector General of Police.
+
+🟩
+
+Senior Superintendent of Police (SSP) KP as the new Director and Police Media Spokesman of the Police Media Division. Has been appointed.
+
+Meanwhile, former Media Spokesperson Deputy Inspector General of Police Nihal Talduwa will remain the Deputy Inspector General of Police.. Remble
+
+◼️
+
+[Data](articles/b08b0280.json)
+
+[Extended Data](ext_articles/b08b0280.ext.json)
+
+---
+
+### Sajith accuses of suppressing social media activists
+
+*2024-12-03 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203988) · `si`
+
+Sajith Premadasa accuses govt of suppressing social media activists. He claims Prevention of Terrorism Act used against supporters who gained traction online. Opposition leader questions fairness of using anti-terrorism law against social media users.
+
+🟩
+
+Opposition Leader Sajith Premadasa alleges that the current government is abolishing the Prevention of Terrorism Act before the arrival of the Terrorism Act.
+
+Speaking in Parliament today (03), he said that the government helped social media to get a large mandate to the government, but the act was suppressed by social media activists.
+
+Is this fair, it is reasonable to use a media hunting using the Prevention of Terrorism Act? You received a lot of support in the field of Social Media Section. But these social media activists hunt these social media activists using the Prevention of Terrorism Act. Stop this repression if we say what we say. "
+
+◼️
+
+[Data](articles/aa7378f7.json)
+
+[Extended Data](ext_articles/aa7378f7.ext.json)
+
+---
+
+### Mohammed Sally Nahim MP
+
+*2024-12-03 11:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொகமது-சாலி-நஹீம்-எம்-பியாக-சத்தியப்பிரமாணம்/175-348162) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mohammed Sally Nahim MP sworn in Speaker Ashoka Ranwala presence
+
+🟩
+
+Mohammed Sally Nahim was sworn in as a Member of Parliament in the presence of Speaker Ashoka Ranwala.
+
+◼️
+
+[Data](articles/8a76466e.json)
+
+[Extended Data](ext_articles/8a76466e.ext.json)
+
+---
+
+### டியாகோகார்சியாவில் சிக்குண்டிருந்த இலங்கை தமிழ் புகலிடக்கோரிக்கையாளர்கள்  பிரிட்டன் அழைத்து செல்லப்பட்டனர் - ஆறு மாதங்கள் தங்கியிருக்க அனுமதி- பிபிசி
+
+*2024-12-03 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200297) · `ta`
+
+பிரிட்டனின் வெளிவிவகார அமைச்சின் நிதி உதவியுடன் அவர்கள் ஆறு மாதங்களிற்கு பிரிட்டனில் தங்கியிருப்பதற்கு அனுமதிக்கப்படுவார்கள் என தான் பார்வையிட்ட ஆவணங்கள் மூலம் தெரியவந்துள்ளதாக பிபிசி தெரிவித்துள்ளது.
+
+பிரிட்டனிற்கான அவர்களின் பயணத்துடன் அவர்களது தலைவிதியை தீர்மானிப்பதற்காக கடல்கடந்து இடம்பெற்ற சட்டபோராட்டங்கள் முடிவிற்கு வந்துள்ளன என தெரிவித்துள்ள பிபிசி எனினும் அவர்களின் எதிர்காலம் குறித்து நிச்சயமற்ற தன்மை நிலவுவதாக குறிப்பிட்டுள்ளது.
+
+இலங்கையை சேர்ந்த 60 புகலிடக்கோரிக்கையாளர்கள் கடந்த மூன்று வருடகாலமாக இங்கிலாந்து அமெரிக்காவின் மூலோபாய ரீதியில் முக்கியத்துவம் வாய்ந்த இராணுவம் தளம் அமைந்துள்ள டியாகோ கார்சியா தீவில் சிக்குண்டிருந்தனர், தற்காலிக முகாமில் வசித்துவந்தனர்.
+
+புகலிடக்கோரிக்கையாளர்களை பிரிட்டனிற்கு அழைத்து சென்றுள்ளமை குறித்து கருத்து தெரிவித்துள்ள பிரிட்டன் அரசாங்கத்தின் பேச்சாளர் இந்த விவகாரத்தில் விதிவிலக்கான தன்மை காரணமாக இந்த முடிவை எடுத்ததாக தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/81158642.json)
+
+---
+
+### නව පොලිස් මාධ්‍ය ප්‍රකාශකවරයෙක්
+
+*2024-12-03 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203987) · `si`
+
+ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.බී. මනතුංග මහතා පොලිස් මාධ්‍ය අධ්‍යක්ෂ සහ පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස පත් කර තිබේ.
+
+මේ අතර හිටපු පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා අපරාධ විමර්ශන අංශයේ නියෝජ්‍ය පොලිස්පතිවරයා ලෙස තවදුරටත් කටයුතු කරනු ඇති බවත් පොලිස් මූලස්ථානය පවසයි.
+
+◼️
+
+[Data](articles/cad67e31.json)
+
+---
+
+### ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස කටයුතු කරනවා - අගමැති හරිනි
+
+*2024-12-03 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203986) · `si`
+
+ඓතිහාසික ජන වරමක් ලැබූ ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස වර්ථමාන ආණ්ඩුව කටයුතු කරන බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+
+අද (03) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඇය පැවසුවේ මෙරට ජනතාව ඔවුන් සතුව ඇති පරමාධිපත්‍ය බලය තුළින් මෙතෙක් කලක් ආණ්ඩු කළ සාම්ප්‍රදායික දේශපාලනය ප්‍රතික්ෂේප කරමින් නව දේශපාලන සංස්කෘතියක් වෙනුවෙන් පෙළ ගැසුණු බවය.
+
+එමෙන්ම ජනතාව ලබා දී ඇති මෙම පණිවිඩය මැනවින් තේරුම් ගනිමින් කටයුතු කළ යුතු බවත් ඇය අද පාර්ලිමේන්තුවේදී පැවසුවාය.
+
+"අපේ රටේ ඡන්දදායකයා මොකක්ද පෙන්නුම් කළේ. දේශපාලනය නෙමෙයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ ඒ දූෂිත බලය අවභාවිතා කරන ඒ දේශපාලන සංස්කෘතියයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ. ඒ වෙනුවට අලුත් දේශපාලන සංස්කෘතියක් නියෝජනය කරන ජනතාවාදී සහභාගීත්ව, ප්‍රජාතන්ත්‍රවාදය තියෙන දේශපාලන ව්‍යාපාරයක් ගොඩනගා ගන්නත්, ඒ වෙනුවෙන් ක්‍රියාත්මක වෙන්නත්, දේශපාලනිකව ඒකට මැදිහත් වෙලා ඒකට විසඳුම් සොයා ගන්නත් අපේ රටේ ජනතාව තුළ ඒ බුද්ධිය, සහ අපේ රටේ ඒ දේශපාලන පරිනතභාවට තියෙන බව ඔවුන් ඔප්පු කරලා තියෙනවා.
+
+...
+
+[Data](articles/df6f4e02.json)
+
+---
+
+### Sri Lankan migrants brought to UK from Diego Garcia
+
+*2024-12-03 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103955/sri-lankan-migrants-brought-to-uk-from-diego-garcia) · `en`
+
+Migrants stranded for more than three years on the remote Indian Ocean island of Diego Garcia have been brought to the UK.
+
+The Sri Lankan Tamils are permitted to remain in the country for six months, with financial support from the Foreign Office, according to documents seen by the BBC.
+
+Their journey to the UK marks the end of years of complex legal battles waged over thousands of miles over their fate, but their long-term future remains uncertain.
+
+Most of the group of around 60 migrants have been living in a makeshift camp on Diego Garcia - the site of a strategic UK-US military base - since October 2021, when they became the first people ever to file asylum claims there.
+
+On Monday, a government spokesperson described the move as a “one-off, due to the exceptional nature of these cases and in the interests of their welfare”.
+
+“This government inherited a deeply troubling situation that remained unresolved under the last administration for years,” the spokesperson said.
+
+...
+
+[Data](articles/a18e3d11.json)
+
+[Extended Data](ext_articles/a18e3d11.ext.json)
+
+---
+
+### New Police Spokesman appointed
+
+*2024-12-03 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103954/new-police-spokesman-appointed-) · `en`
+
+Senior Superintendent of Police (SSP) K.B. Manathunga has been appointed as the Director Police Media and the Police Spokesman.
+
+Meanwhile, former Spokesman DIG Nihal Thalduwa will continue in his capacity as the DIG of Crimes Range, according to Sri Lanka Police.
+
+◼️
+
+[Data](articles/3d037563.json)
+
+---
+
+### பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம்
+
+*2024-12-03 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200279) · `ta`
+
+பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+
+தேசிய பொலிஸ் ஆணைக்குழுவினால் உடனடியாக அமுலுக்கு வரும் வகையில் 5 பிரதி பொலிஸ் மா அதிபர்கள் மற்றும் 35 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+இதேவேளை, 7 பொலிஸ் அதிகாரிகள் மற்றும் 7 உதவி பொலிஸ் அதிகாரிகளும் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+
+குற்றப் புலனாய்வுத் திணைக்களத்தின் பிரதிப் பணிப்பாளராக கடமையாற்றிய மகளிர் பிரிவின் சிரேஷ்ட பொலிஸ் அதிகாரி எச்.டபிள்யூ.ஐ.எஸ்.முதுமால குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக நியமிக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+மேலும், நுகேகொடை பொலிஸ் பிரிவுக்கு பொறுப்பான அதிகாரியாக குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளராக கடமையாற்றிய சிரேஷ்ட பொலிஸ் அதிகாரி ஈ.எம்.எம்.எஸ் தெஹிதெனிய இடமாற்றம் செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/8453f5d2.json)
+
+---
+
+### Litro Gas to announce December price revisions tomorrow
+
+*2024-12-03 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103953/litro-gas-to-announce-december-price-revisions-tomorrow) · `en`
+
+The Litro Gas Company says that the LP gas price revision for the month of December will be announced tomorrow (04).
+
+A spokesperson of the company mentioned that the price revision will be carried out based on the current global market’s LP gas prices.
+
+Furthermore, it was reported that although the gas prices have risen internationally leading to an expected increase in local prices, negotiations are ongoing to keep the local prices stable to provide relief to the people.
+
+The price revision proposal related to the matter has reportedly forwarded to the Ministry of Finance.
+
+No LP gas price revision took place last month, and the most recent price revision was in October.
+
+◼️
+
+[Data](articles/eb5f308f.json)
+
+---
+
+### Iraqi fighters head to Syria to battle rebels but Lebanon’s Hezbollah stays out, sources say
+
+*2024-12-03 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103952/iraqi-fighters-head-to-syria-to-battle-rebels-but-lebanons-hezbollah-stays-out-sources-say) · `en`
+
+Hundreds of Iran-backed Iraqi fighters crossed into Syria on Monday to help the government fight rebels who seized Aleppo last week, but Lebanon’s Hezbollah has no plans for now to join them, according to sources.
+
+Iran’s constellation of allied regional militia groups, aided by Russian air power, has been integral to the success of pro-government forces in subduing rebels in Syria who rose up against President Bashar al-Assad in 2011.
+
+But that alliance faces a new test after last week’s lightning advance by rebels in northwest Syria, with Russia focused on war in Ukraine and Hezbollah’s leadership decimated by a war with Israel that ended in a ceasefire last week.
+
+The rebel storm of Aleppo is the biggest success of anti-Assad fighters for years. Government forces had held complete control of Aleppo since capturing what was then Syria’s largest city in a siege in 2016, one of the major turning points of a war that has killed hundreds of thousands of people.
+
+...
+
+[Data](articles/055375f7.json)
+
+---
 
 ### 13 Affairs: Opportunity to talk to the president
 
@@ -136,6 +504,28 @@ Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
 
 ---
 
+### அரிசியின் மொத்த  விலை அதிகரிப்பு
+
+*2024-12-03 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியின்-மொத்த-விலை-அதிகரிப்பு/150-348158) · `ta`
+
+நாடு, சம்பா மற்றும் கீரி சம்பா அரிசியின் மொத்த விலையை அதிகரித்துள்ளதாக அரிசி ஆலை உரிமையாளர்கள் நாடளாவிய ரீதியில் உள்ள அரிசி மொத்த வியாபாரிகளுக்கு அறிவித்துள்ளனர்.
+
+அதன்படி, ஒரு கிலோ கிராம் நாட்டு அரிசியின் மொத்த விலை 255 ரூபாயாகவும், சம்பா அரிசி 260 ரூபாயாகவும், கீரி சம்பா 275 ரூபாயாகவும் அதிகரிக்கப்பட்டுள்ளது.
+
+அந்த விலைக்கு தேவையான அரிசியின் அளவுக்கான கட்டணத்தை வங்கியில் செலுத்துமாறு அரிசி ஆலை உரிமையாளர்கள் வியாபாரிகளுக்கு அறிவுறுத்தியுள்ளனர்.
+
+சந்தையில் நாட்டு அரிசியின் கட்டுப்பாட்டு விலை ரூ.220, சம்பா ரூ.230, கீரி சம்பா ரூ.260, அந்த விலைக்கு விற்பனை செய்ய நுகர்வோர் சேவை அதிகாரசபை சுற்றறிக்கையை வெளியிட்டுள்ளது.
+
+அரிசி ஆலை உரிமையாளர்கள்? அரிசியின் விலையை அவ்வப்போது அதிகரிப்பதால் கட்டுப்பாட்டு விலையில் அரிசியை விற்க முடியாமல் தவிப்பதாக அரிசி மொத்த வியாபாரிகள் மற்றும் சில்லறை விற்பனையாளர்கள் தெரிவித்தனர்.
+
+கடந்த வாரம் அரிசி ஆலை உரிமையாளர்கள் நாடு அரிசியை ரூ.235-240, சம்பா ரூ.250, கீரி சம்பா ரூ.260-265 என மொத்த விலையில் வியாபாரிகளுக்கு வழங்கியுள்ளனர்.
+
+◼️
+
+[Data](articles/43ad3ada.json)
+
+---
+
 ### State attention to providing relief to the centers straight and indirectly affected by the disaster
 
 *2024-12-03 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203985) · `si`
@@ -188,6 +578,22 @@ Further measures against these companies will be determined based on the judgmen
 
 ---
 
+### க.பொ.த சாதாரண தர பரீட்சைக்கான விண்ணப்ப காலம் நீடிப்பு
+
+*2024-12-03 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200284) · `ta`
+
+2 2024 (2025) ஆம் ஆண்டு க.பொ.த சாதாரண தரப் பரீட்சைக்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் இம்மாதம் 10ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம்  அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+க.பொ.த சாதாரண தரப் பரீட்சைக்கான இணையவழியூடாக விண்ணப்பங்களை சமர்ப்பிப்பதற்கான காலவகாசம் நவம்பர் மாதம் 5 ஆம் திகதி முதல் 30 ஆம் திகதி வரை வழங்கப்பட்டிருந்த நிலையில் நாட்டில் நிலவும் மோசமான வானிலை காரணமாக விண்ணப்பங்களை சமர்ப்பிக்கும் கால அவகாசம் தற்போது நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் தெரிவித்தார்.
+
+இது தொடர்பிலான மேலதிக தகவல்களை  1911, 0112784208, 0112784537, 0112786616, 0112786200, 0112786201 மற்றும் 0112786202 ஆகிய தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொண்டு பெற்றுக்கொள்ள முடியும் என பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/eeefd601.json)
+
+---
+
 ### SLMC’s National List MP takes oath
 
 *2024-12-03 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103949/slmcs-national-list-mp-takes-oath) · `en`
@@ -203,6 +609,24 @@ Mohamed Sally Naleem has previously served as the former Chairman of Eravur Urba
 [Data](articles/48b621b4.json)
 
 [Extended Data](ext_articles/48b621b4.ext.json)
+
+---
+
+### கரையோர மற்றும் சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
+
+*2024-12-03 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200281) · `ta`
+
+கரையோர மற்றும் சிலாபம் ரயில் மார்க்கத்தில் இன்று செவ்வாய்க்கிழமை (03) ரயில் சேவைகள் தாமதமடைந்துள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+அளுத்கமவிலிருந்து பயணித்த ரயில் ஒன்று இரத்மலானை ரயில் நிலையத்திற்கு அருகில் வைத்து தொழினுட்ப கோளாறுக்கு உள்ளாகியுள்ளது. இதனால் கரையோர ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதமடைந்துள்ளன.
+
+அத்துடன்,  நீர்கொழும்பு ரயில் நிலையத்தில் ஏற்பட்ட சமிக்ஞை கோளாறு காரணமாக சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளன.
+
+இதன் காரணமாக சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகலாம் என ரயில்வே திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/ec683eb9.json)
 
 ---
 
@@ -374,6 +798,22 @@ It is also planned to establish the PS member of the 10th Parliament today.
 
 ---
 
+### අනුරාධ ජයරත්නට හිමිවු නායකත්වයඅනුරාධ ජයරත්නට හිමිවු නායකත්වය
+
+*2024-12-03 09:26:14* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධ-ජයරත්නට-හිමිවු-නායකත්වයඅනුරාධ-ජයරත්නට-හිමිවු-නායකත්වය/11-413417) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායක ලෙස මහනුවර දිස්ත්‍රික් මන්ත්‍රී නීතීඥ අනුරාධ ජයරත්න මහතා නම් කර තිබේ.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායක ලෙස අනුරාධ ජයරත්න මහතා පිළිගන්නා ලෙස ඉල්ලමින් ලිඛිත දැනුම් දීම ඊයේ (2දා) රාත්‍රියේ කථානායක ආචාර්ය අශෝක රන්වල මහතාට යොමු කිරීමට පියවර ගෙන ඇත.
+
+අටවන විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේ ඊයේ පැවති නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ සහ එක්සත් ජාතික පක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී ඉහත තීරණයට එළඹියේය.
+
+◼️
+
+[Data](articles/75b0e50d.json)
+
+---
+
 ### Anuradha Jayaratne appointed leader of NDF parliamentary group
 
 *2024-12-03 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103947/anuradha-jayaratne-appointed-leader-of-ndf-parliamentary-group) · `en`
@@ -409,6 +849,24 @@ The Railway Department said that the train service at the coastal railway line h
 [Data](articles/5a14bc11.json)
 
 [Extended Data](ext_articles/5a14bc11.ext.json)
+
+---
+
+### தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவி செயலாளர் டொனால்ட் லூ இலங்கைக்கு விஜயம் !
+
+*2024-12-03 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200280) · `ta`
+
+தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ இலங்கைக்கான விஜயத்தை மேற்கொண்டுள்ளார்.
+
+இம் மாதம் ஆம் திகதி முதல் 10 ஆம் திகதி வரை இந்தியா, இலங்கை மற்றும் நேபாளத்திற்கான விஜயத்தை மேற்கொண்டுள்ளார்.
+
+டொனால்ட் லூவின் விஜயமானது தென் ஆசியாவிலுள்ள முக்கிய பங்குதாரர்களுடன் ஒத்துழைப்பை வலுப்படுத்தி, பிராந்திய வளர்ச்சி மற்றும் பாதுகாப்பை ஊக்குவிக்கவுள்ளது.
+
+அமெரிக்காவின் உதவி செயலாளர் டொனால்ட் லூ , இந்தியா மற்றும் ஐக்கிய அமெரிக்காவுக்கு இடையிலான ஒத்துழைப்பை ஆதரித்தும், இந்தோ-பசிபிக் பிராந்தியத்தின் முக்கியத்தும் குறித்து  இந்தியாவின் புதுடில்லியில் இடம்பெறும் முக்கிய சந்திப்புகளில் பங்கேற்கின்றார்.
+
+...
+
+[Data](articles/5e36e6ce.json)
 
 ---
 
@@ -1829,575 +2287,5 @@ All trains from Badulla to Colombo will be operated from Badulla to Colombo unti
 [Data](articles/d113832f.json)
 
 [Extended Data](ext_articles/d113832f.ext.json)
-
----
-
-### Sri Lankan lawyer India's tribute champion
-
-*2024-12-02 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200269) · `ta`
-
-Sri Lankan lawyer Shamil wins men's title, Indian Anjali takes women's crown in Air Force Squash tournament. Over 450 participants from both countries compete in various age groups. Event hosted by Air Force Sports Club at Ratmalana Air Force Base.
-
-🟩
-
-The Shamil Men's Division of Sri Lanka and India's Anjali Women's Division held champion titles in the 16th Air Force Squad Competition held by the Air Force Schosh Association at the Ratmalana Air Force Squad Squad.
-
-The Air Force Scosh Competition organized under the full supervision of the Sri Lanka Schosh Federation was held in various age categories in accordance with the International Schosh Rules.
-
-Indian Air Force players and Sri Lankan players participated in the main open scosh competition.
-
-More than 450 competitors, including the initialists, participated in other categories.
-
-It is a special feature that the public division competitions for both parties were held as international rankings.
-
-Sri Lanka's Shamil lawyer and Methmal Wood clashed in the men's open division final.
-
-Shamil Lawyer 3 - 0 in the finals. H. Mendis took the challenge bowl.
-
-In the women's final, India's Anjali Samuel and Sanitma Sinali of the Sirimavo Bandaranaike Women's Vidyalaya, Colombo.
-
-...
-
-[Data](articles/8f2fc92d.json)
-
-[Extended Data](ext_articles/8f2fc92d.ext.json)
-
----
-
-### The best world athletes of the year;Siban Hasana, Lettiel Deboko
-
-*2024-12-02 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200268) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Olympic champions Siban Hasan (Netherlands) and Lettiel Deopo (Botswana) won World Athlete of the Year awards. Siban Hasan took home two bronze medals and one gold in track and field events. Lettiel Deopo secured the male athletics award for his gold medal win in the 200m dash.
-
-🟩
-
-Olympic Champions Siban Hasan and Lettiel Deopoko won the awards for the best world athletes of the year.
-
-The awards were presented to the World Athletic Award Ceremony held on Sunday in Monaco.
-
-The Netherlands's Siban Hasan won the award for the best female athlete of the year and won the award for the best outsiders.
-
-Siban Hasan won 2 bronze medals and one gold medal at the Paris 2024 Olympic Games.
-
-Siban Hasan, who won the bronze medals in the women's 5000m and 10000m race, won the gold medal in the Marathon race.
-
-Meanwhile, Botswana's Letchile Deobo was awarded the Best Male Athletics Award for the winning gold medal in 19.46 seconds at the Paris 2024 Olympic Games.
-
-◼️
-
-[Data](articles/cd85a574.json)
-
-[Extended Data](ext_articles/cd85a574.ext.json)
-
----
-
-### India and Pakistan to hold the 'Champions' bowl and future ICC tournament
-
-*2024-12-02 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200267) · `ta`
-
-India and Pakistan agree to host ICC Champions Trophy. Both boards withdraw from Y4:0 competition. ICC schedules tournament Feb 19-Mar 9, 2025. Pakistan requests India visit for security guarantees. ICC meeting delayed due to UAE National Day. India's influence on ICC revenue distribution questioned.
-
-🟩
-
-It has been reported that the Champions Trophy has agreed with the Indian Cricket Control Board and the Pakistan Cricket Board to hold the future ICC tournament.
-
-The Indian Cricket Control Board and the Pakistan Cricket Control Board, which have been a competitive attitude to the Yati, have withdrawn from it and agreed to play the ICC matches between them.
-
-Due to this, the work of the ICC, which produces a competitive schedule, has been ease of the process of running the bowls of champions next year.
-
-The International Cricket Council (ICC) organized an e -commerce meeting to investigate the Champions Bowl Cricket Tournament, which is scheduled to be held from 19th February 2025 to March 9, 2025.
-
-Representatives of the Indian Cricket Control Board and the Pakistani Cricket Board held talks on Saturday at the conclusion of the Identity System.
-
-...
-
-[Data](articles/732dd048.json)
-
-[Extended Data](ext_articles/732dd048.ext.json)
-
----
-
-### Temporary ban on sand excavation at the Disaster Management Committee meeting held in Batticaloa
-
-*2024-12-02 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200266) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Batticaloa Disaster Management Committee meeting: Temporary sand excavation ban approved. Criticisms addressed. Future preparedness emphasized. Officials held accountable. Discussions on hospitals, victim compensation, agricultural land estimates. 13th Amendment constitutional reform debate mentioned. Various district officials attended meeting.
-
-🟩
-
-The National People's Power Deputy Minister and Chairman of the Batticaloa District Development Committee, said that the decision to suspend sand excavations for the area has been temporarily affected by the excavation of the field.
-
-The Disaster Management Committee meeting was held on Monday (2) at the District Secretariat at the District Secretariat of Batticaloa District and Istina Muralitharan Coordination..MM Hizbullah and Muhammad Sally Naleem were also present.
-
-There have been various criticisms that various degree answers have been addressed here and the creative answers have been given a variety of criticisms that the disaster may have been more cautious in the area.
-
-In the near future, there is a need to recognize what we need to make more prepared, but the non -informal developments presented in the past are an important factor for this disaster.
-
-Therefore, we are forced to go to a permanent solution in this regard.
-
-...
-
-[Data](articles/39ed29ea.json)
-
-[Extended Data](ext_articles/39ed29ea.ext.json)
-
----
-
-### Chief Whip of Opposition
-
-*2024-12-02 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203968) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Gayantha Karunatilake, Galle District MP, named opposition chief whip. This appointment strengthens the opposition's leadership in Sri Lanka's parliament."
-
-🟩
-
-Galle District MP Gayantha Karunatilake has been appointed as the chief organizer of the opposition organizer.
-
-◼️
-
-[Data](articles/e2f6920b.json)
-
-[Extended Data](ext_articles/e2f6920b.ext.json)
-
----
-
-### Meeting with Small and Medium Scale Mill and President
-
-*2024-12-02 19:19:38* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-සහල්-මෝල්-හිමියන්-හා-ජනපති-අතර-හමුවක්/11-413415) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake met SME rice millers. Discussed fair rice pricing, ensuring no shortages. Proposed increasing storage capacity & reducing stock needs. Introduced QR code system for fertilizer subsidies.
-
-🟩
-
-President emphasizes the need to be given to a fair price and continuous people without any shortage of rice
-
-President Anura Kumara Dissanayake and Small and Medium Scale Mill Kumara was held today (02).
-
-The President pointed out to SMEs and medium scale rice mills with the immediate prices of rice and continuous consumers in the coming months.
-
-It was also discussed on the steps to increase storage facilities in the country to give the people without any shortage of rice.
-
-It also focused on the decrease in the necessary stocks for consumption as well as the use of nadu rice.
-
-President Anura Kumara Dissanayake also focused on the introduction of a QR code a system to interactively collecting the fertilizer subsidy.
-
-Trade, Commerce, Food Safety and Co-operative Development Wasantha Samarasinghe, Lak Sathosa Chairman Dr. Society, Dr. Savali Perera and SMEs and small and medium scale rice mills were also present.
-
-◼️
-
-[Data](articles/58ffd291.json)
-
-[Extended Data](ext_articles/58ffd291.ext.json)
-
----
-
-### Gayantha Karunatilake appointed Chief Opposition Whip
-
-*2024-12-02 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103936/gayantha-karunatilake-appointed-chief-opposition-whip) · `en`
-
-The Samagi Jana Balayawegaya (SJB) Galle District MP Gayantha Karunatilake has been appointed as the Chief Opposition Whip in Parliament, according to MP Harshana Rajakaruna.
-
-◼️
-
-[Data](articles/fb0c1e9e.json)
-
-[Extended Data](ext_articles/fb0c1e9e.ext.json)
-
----
-
-### Landmark climate change case opens at the top UN court as island nations fear rising seas
-
-*2024-12-02 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103935/landmark-climate-change-case-opens-at-the-top-un-court-as-island-nations-fear-rising-seas) · `en`
-
-The top United Nations court took up the largest case in its history on Monday, hearing the plight of several small island nations helpless in combating the devastating impact of climate change that they feel endangers their very survival. They demand that major polluting nations be held to account.
-
-After years of lobbying by island nations who fear they could simply disappear under rising sea waters, the U.N. General Assembly asked the International Court of Justice last year for an opinion on “the obligations of States in respect of climate change.”
-
-“The stakes could not be higher. The survival of my people and so many others is on the line,” said Arnold Kiel Loughman, attorney-general of the Vanuatu archipelago nation.
-
-“As the principal legal officer of my country, I have come before this court because domestic legal remedies are unable to address a crisis of the scope and magnitude,” he said during the opening session of two weeks of hearings.
-
-...
-
-[Data](articles/a47702a1.json)
-
-[Extended Data](ext_articles/a47702a1.ext.json)
-
----
-
-### Production in an Excise Unique Liquor Manufacturing
-
-*2024-12-02 18:58:42* · [`adalk`](https://www.ada.lk/breaking_news/සුරාබදු-නොගෙවූ-මත්පැන්-නිෂ්පාදනාගාරයක-නිෂ්පාදන-කටයුතු-අත්හිටුවයි/11-413414) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Excise Department: Arrears payment deadline set for Valikamam factory. Legal action against non-functioning breweries. Production licenses suspended. 23 liquor products affected. Excise not payable on due dates.
-
-🟩
-
-The Department of Excise states that the preparation of the preparation of the arrears of the Valikamam factory in the disunity of the Ven.
-
-The Department issued a press release to the 30th of this month to pay the deficit deficit.
-
-Welisara WM Mendis and Company, Kurunegala, is said to have been converted to the Excise Department in the Mecalam Brewery owned by Meegoda Makalam Brewery (not currently function).
-
-It is said that steps will be taken to ensure the ownership of companies that are not functioning to those cases.The statement has stated that legal action is due to be taken to recover.
-
-It is said that the properties of excise applications on the existing legal provisions of the Excise Ordinance will be suspended and the production license will not be extended to the next year.
-
-The announcement further shows that 23 liquor products have been issued for 23 liquor products regarding this year and that the excise will not be paid on due dates.
-
-◼️
-
-[Data](articles/18891fe6.json)
-
-[Extended Data](ext_articles/18891fe6.ext.json)
-
----
-
-### New Secretary Appointment
-
-*2024-12-02 18:58:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்-நியமனம்/175-348129) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anuragumara Dissanayake appoints Mrs. KDR Olga as Sec'y to Min. of Women & Child Affairs. Appointmnt letter handed by Pres. Sec'y Dr. Nandika Sanath Kumanayake at Presidential Secretariat.
-
-🟩
-
-President Anuragumara Dissanayake has officially appointed Mrs. KDR Olga as the Secretary to the Ministry of Women and Child Affairs.
-
-The appointment letter was officially handed over to Mrs. Olga by the Secretary to the President of the President, Dr. Nandika Sanath Kumanayake at the Presidential Secretariat today.
-
-◼️
-
-[Data](articles/2ce65dca.json)
-
-[Extended Data](ext_articles/2ce65dca.ext.json)
-
----
-
-### Special Notice to Ordinary Level Examiners
-
-*2024-12-02 18:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதாரண-தரப்-பரீட்சார்த்திகளுக்கு-விசேட-அறிவிப்பு/175-348128) · `ta`
-
-Deadline extended for GCE Ordinary Level exams due to weather conditions. New date: [TBA]. Registration now open until November 30.
-
-🟩
-
-The Department of Examinations 2024 (2025) has extended the deadline for the GCE Ordinary Level (S/C) exams on the website of the State and Private School Examinations.
-
-The Commissioner General of Examinations HJMC Amit Jayasundera said that the decision has been taken due to inclement weather in the country.
-
-First, it was announced that the postal registration will be announced on November 30.
-
-◼️
-
-[Data](articles/0987f299.json)
-
-[Extended Data](ext_articles/0987f299.ext.json)
-
----
-
-### Special Notification for Candidates
-
-*2024-12-02 18:44:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்களுக்கு-விசேட-அறிவித்தல்/175-348127) · `ta`
-
-Election Commission mandates candidates submit budgets by Dec 6. Failure leads to legal consequences. Reports needed per district, submitted to local Election Officers. Special units established in all districts to streamline process.
-
-🟩
-
-The Election Commission has announced that all candidates must submit their budget and expenditure by December 6.
-
-According to the Commission, this requirement applies to the leaders of candidates, party secretaries and independent groups on the national list.
-
-If you fail to submit the report within the deadline (December 06), those who violate the election costs will have legal consequences, ”the Commission warned.
-
-Reports must be prepared separately for each district where the candidates contested and submitted to the respective District Election Officers.
-
-The Commission has established special units in all districts to reform the process. "These sections work on regular working days until 6:00 pm, and their work hours have been extended till midnight on December 6," it added.
-
-◼️
-
-[Data](articles/e3808481.json)
-
-[Extended Data](ext_articles/e3808481.ext.json)
-
----
-
-### Sri Lanka leader meets rice millers amid supply shortage risks after floods
-
-*2024-12-02 18:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-meets-rice-millers-amid-supply-shortage-risks-after-floods-191227/) · `en`
-
-ECONOMYNEXT – Facing a possible supply shortage in rice in the first quarter of 2025, Sri Lanka President Anura Kumara Dissanayake met small and medium-scale rice mill owners to discuss continuous and affordable supply of rice to consumers in the coming months, the President’s Media Division (PMD) said.
-
-The meeting comes days after heavy rains destroyed more than 20 percent of the paddy cultivation area in the island including the large paddy farmland districts of Ampara and Anuradhapura.
-
-People have already started grumbling about higher rice prices under the new government of President Dissanayake, who promised to reduce the prices, the local media have said.
-
-“During the discussion, the President emphasized the importance of ensuring a continuous and affordable supply of rice to consumers in the coming months. He engaged with the mill owners to identify immediate measures needed to achieve this goal,” the PMD said in a statement.
-
-...
-
-[Data](articles/cd9a1e17.json)
-
-[Extended Data](ext_articles/cd9a1e17.ext.json)
-
----
-
-### New secretary to the Ministry of Women and Child Affairs
-
-*2024-12-02 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203967) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ms. Olga appointed as Secretary to Ministry of Women and Child Affairs. President Anura Kumara Dissanayake made the appointment. Letter handed over to Presidential Secretariat on 02/2023.
-
-🟩
-
-KDR as Secretary to the Ministry of Women and Child Affairs. Ms. Olga has been appointed.
-
-The appointment was made by President Anura Kumara Dissanayake.
-
-The letter of appointment was handed over to the Presidential Secretariat today (02) at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/9ec7f08c.json)
-
-[Extended Data](ext_articles/9ec7f08c.ext.json)
-
----
-
-### Landslide warnings issued for 6 districts
-
-*2024-12-02 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103934/landslide-warnings-issued-for-6-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in 6 districts, as heavy rainfall continues in parts of the island.
-
-The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 03).
-
-Accordingly, a Level 1 (Yellow) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Kandy, Kegalle, Kurunegala, Matale and Nuwara-Eliya districts as follows:
-
-Badulla : Badulla, Hali Ela, Meegahakiwula, Bandarawela and Passara Divisional Secretariat DSDs and surrounding areas
-
-Kandy : Pasbage Korale,  Pathahewaheta,  Pathadumbara,  Gangawata Korale,  Doluwa,  Hatharaliyadda,  Ganga Ihala Korale,  Yatinuwara,  Poojapitiya,  Ududumbara,  Medadumbara, Udapalatha,  Delthota,  Udunuwara,  Panwila,  Harispattuwa,  Akurana and Thumpane DSDs and surrounding areas.
-
-Kegalle: Aranayake, Kegalle, Bulathkohupitiya, Mawanella, Yatiyanthota and Ruwanwella DSDs and surrounding areas.
-
-...
-
-[Data](articles/5974ff05.json)
-
-[Extended Data](ext_articles/5974ff05.ext.json)
-
----
-
-### President discusses a special discussion with rice mill owners
-
-*2024-12-02 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203966) · `si`
-
-Pres. Anura Kumara Dissanayake meets rice mill owners. Discusses immediate rice prices, future consumer needs, & increasing storage capacity. Focuses on reducing stock consumption & promoting nadu rice. Introduces QR code system for fertilizer subsidy collection.
-
-🟩
-
-President Anura Kumara Dissanayake has held a special discussion with SMEs with SME Small and Medium Scale Mill Owners.
-
-The President pointed out to SMEs and medium scale rice mills with the immediate prices of rice and continuous consumers in the coming months.
-
-It was also discussed on the steps to increase storage facilities in the country to give the people without any shortage of rice.
-
-It also focused on the decrease in the necessary stocks for consumption as well as the use of nadu rice.
-
-President Anura Kumara Dissanayake also focused on the introduction of a QR code a system to interactively collecting the fertilizer subsidy.
-
-Trade, Commerce, Food Safety and Co-operative Development Wasantha Samarasinghe, Lak Sathosa Chairman Dr. Society, Dr. Savali Perera and SMEs and small and medium scale rice mills were also present.
-
-◼️
-
-[Data](articles/2880682e.json)
-
-[Extended Data](ext_articles/2880682e.ext.json)
-
----
-
-### Grama Niladhari arrested for refusing to feed floods in Jaffna
-
-*2024-12-02 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200257) · `ta`
-
-Jaffna: Grama Niladhari arrested for refusing aid during floods. Two individuals detained after alleged conflict over food distribution. Families protest, police promise impartial investigation.
-
-🟩
-
-Two persons have been arrested for allegedly conflicting with the village servant for allegedly refusing to provide food to some families who have been housed in intermediate camps due to flood disaster in Jaffna.
-
-Some families from Vadamarachchi and Kalvovalam area are staying in the interim camps due to floods.
-
-Some of them have been logical as the Grama Niladhari refused to provide food on Sunday (01).
-
-Subsequently, the Grama Niladhari had lodged a complaint at the Point Pedro Police Station that he had disrupted his duty.
-
-The victim's family staged a protest in front of the Vadamarachchi Northern Divisional Secretariat today (02), saying that the victim's families had lied to the reason for their duties and that the police had arrested two persons on the basis of the false complaint.
-
-Subsequently, the Superintendent of Police and the Divisional Secretary of the Point Pedro Police Station promised to carry out a non -partisan inquiries and take appropriate action.
-
-◼️
-
-[Data](articles/a93f8095.json)
-
-[Extended Data](ext_articles/a93f8095.ext.json)
-
----
-
-### Discussion between President and Small and Central Rice Manufacturers
-
-*2024-12-02 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200260) · `ta`
-
-President discusses rice supply, pricing, and storage with small-medium mill owners. Focuses on maintaining affordable availability and increasing reserve capacity.
-
-🟩
-
-The President pointed out the need for continuous supply of rice to the people at reasonable prices without shortage.
-
-A discussion between President Anura Kumara Dissanayake and the owners of small and medium rice mills was held on Monday (02) at the Presidential Office.
-
-The president, speaking to the owners of small and medium rice mill in the coming months, discussed the need to continue to provide rice at a reasonable price without a shortage of consumers, and discussed the urgent measures to be taken.
-
-It was also discussed about the steps to be taken to increase the repository facilities in the country to provide rice to the people without scarcity.
-
-The use of the country's rice for the value of the products is also focused on the shortage of the reserves required for consumption.
-
-The President also focused on the introduction of the QR index system with the aim of using fertilizer subsidy with the effectiveness of national production.
-
-...
-
-[Data](articles/76cc8e8d.json)
-
-[Extended Data](ext_articles/76cc8e8d.ext.json)
-
----
-
-### Rs.. If a billion is separated, an acre receives Rs. 2600
-
-*2024-12-02 17:42:36* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-වන්දි-වෙනුවෙන්-රු--බිලියනයක්-වෙන්කළොත්-අක්කරයකට-ලැබෙන්නේ-රු--2600යි/11-413411) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Government allocates Rs. 2600 per acre from Rs. 1 billion for flood-hit farms. Critics argue this is insufficient compensation, citing previous damages exceeding Rs. 40,000 per acre.
-
-🟩
-
-Although the present government is declared a billion rupees for farmland, a acre of Rs.
-
-He was speaking at a media briefing held at the Head Office today (02nd).
-
-Speaking further Mr. Nalin Bandara said:
-
-"Nearly 8,000 acres of farms in the country have been flooded due to floods in the recent floods. The government has allocated Rs. 1 billion for compensation for these lands. Accordingly, a meager money has been allocated as Rs. 2600 per acre.
-
-So is a billion rupees enough?I don't know what the billions of Rs. The boasting has allocated 2600 rupees for an acre of Rs. 2600 for an agreement that the government has allocated Rs.. This is not enough. Those people said that Rs. 40,000. We saw that 40,000 was inadequate. Aboriginal Leader Vanni has stated that no one else.
-
-...
-
-[Data](articles/10352515.json)
-
-[Extended Data](ext_articles/10352515.ext.json)
-
----
-
-### 13 persons arrested for 2.3 tonnes of cocaine
-
-*2024-12-02 17:25:25* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-මෙට්‍රික්-ටොන්-2-3ක්-සමග-පුද්ගලයන්-13-අත්අඩංගුවට/11-413410) · `si`
-
-Australian police arrest 13 individuals for 2.3 tonnes of cocaine, valued at $494 million. This is the largest drug seizure in Australian history.
-
-🟩
-
-The Australian police have arrested 13 people with 2.3 metric tons of cocaine.
-
-Foreign media reports that US $ 494 million is US $ 494 million in the street of cocaine.
-
-This is the largest drug consignment found in Australian history.
-
-◼️
-
-[Data](articles/de476a12.json)
-
-[Extended Data](ext_articles/de476a12.ext.json)
-
----
-
-### Floods remove the warning
-
-*2024-12-02 17:22:26* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-අනතුරු-ඇඟවීම-ඉවත්-කරයි/11-413409) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Flood warnings for Mahaweli River and Deduru Oya removed. Issued on 26th, cancelled yesterday. Water levels being monitored. Future flood risks will be assessed."
-
-🟩
-
-The floods issued to the Mahaweli River and Deduru Oya have been removed today (02).
-
-The Hydrogiology and Disaster Management Division of the Department of Irrigation and the Disaster Management Division released floods in relation to the two rivers on the 26th.
-
-The deviation announcements have been removed yesterday, and the warning announcements have been removed yesterday, and is constantly focusing on water levels in the river.
-
-The Department points out that if there is a risk of flooding in the future, the Department points out.
-
-◼️
-
-[Data](articles/8aa917d4.json)
-
-[Extended Data](ext_articles/8aa917d4.ext.json)
-
----
-
-### A Notification for O / L applicants
-
-*2024-12-02 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203965) · `si`
-
-GCE Ordinary Level exam application deadline extended to Nov 30 due to weather conditions. Online exam available.
-
-🟩
-
-Application date has been extended to the GCE Ordinary Level examination (2024/25).
-
-Online method, the exam was given to the same exam to 30 November to 30.
-
-However, the Commissioner General of Examinations H JM M SM Amit Jayasundara has announced that the time had been extended to the island due to the adverse weather conditions.
-
-◼️
-
-[Data](articles/1705b2b8.json)
-
-[Extended Data](ext_articles/1705b2b8.ext.json)
 
 ---

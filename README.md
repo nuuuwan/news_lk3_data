@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 20:01:19**
+As of **2024-12-03 21:14:26**
 
 ## Newspaper Stats
 
-*Scraped **58,287** Articles*
+*Scraped **58,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,53 +12,195 @@ newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 607
-islandlk | 3,498
+islandlk | 3,499
 economynextcom | 3,541
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,519
-adaderanalk | 7,077
+adalk | 5,520
+adaderanalk | 7,078
 tamilmirrorlk | 8,293
-virakesarilk | 9,533
-adaderanasinhalalk | 10,069
+virakesarilk | 9,536
+adaderanasinhalalk | 10,070
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,284 (100.0%) of 58,287 articles have been extended.
+58,294 (100.0%) of 58,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### 8 மாணவர்கள் வைத்தியசாலையில் அனுமதி
+### Cabinet approval for permission for imports of rice
+
+*2024-12-03 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200357) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Cabinet approves rice imports due to domestic shortage. Eliminates import limits until 20th without license.
+
+🟩
+
+Considering the shortage of naturisi and other rice varieties in the domestic market, the Cabinet considers that it is appropriate to eliminate the limits that are currently being imported to the government.
+
+Accordingly, it has been decided to grant permission for the importation of rice to our country until the 20th of this month without the import control license.
+
+◼️
+
+[Data](articles/3359780e.json)
+
+[Extended Data](ext_articles/3359780e.ext.json)
+
+---
+
+### South Korea President declares emergency martial law
+
+*2024-12-03 20:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103973/south-korea-president-declares-emergency-martial-law) · `en`
+
+South Korean President Yoon Suk Yeol on Tuesday declared martial law in an unannounced late night address broadcast live on YTN television, claiming he would eradicate “shameless pro-North Korean anti-state forces”.
+
+He did not cite any specific threat from the nuclear-armed North, however, instead focusing on his domestic political opponents.
+
+The surprise move sent shockwaves through the country, which had a series of authoritarian leaders early in its history but has been considered democratic since the 1980s. The Korean won was down sharply against the U.S. dollar.
+
+The White House did not immediately respond to a request for comment.
+
+Yoon said he had no choice but to resort to such a measure in order to safeguard free and constitutional order, saying opposition parties have taken hostage of the parliamentary process to throw the country into a crisis.
+
+...
+
+[Data](articles/c5a5b7e0.json)
+
+[Extended Data](ext_articles/c5a5b7e0.ext.json)
+
+---
+
+### South Korea's war releases
+
+*2024-12-03 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204003) · `si`
+
+Here's a 200-character summary:
+
+
+
+South Korean Pres. Yoon Suk Yeol imposes military law, citing threat from North Korea. Decision opposed by his party. Emergency measures aim to protect against communist aggression.
+
+🟩
+
+International media reports that the President of the South Korean has imposed military law.
+
+The South Korean President YOON Suk YEL launching the emergency military and said that the decision would be taken to destroy the country from the North Korean Communist Societies.
+
+The decision of the President of South Korea was against the opposition and his party.
+
+◼️
+
+[Data](articles/110f7b9b.json)
+
+[Extended Data](ext_articles/110f7b9b.ext.json)
+
+---
+
+### 8 students are admitted to the hospital
 
 *2024-12-03 19:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/175-348194) · `ta`
 
-மாவனெல்லை பல்கலைக்கழகத்தில் 8 மாணவர்கள் வாந்தி மற்றும் பேதி காரணமாக மாவனல்லை ஆரம்ப வைத்தியசாலையில் இன்று (03) பிற்பகல் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Here's a summary in 200 characters:
 
-குறித்த பகுதியில் மாதிரி மருத்துவ பகுதியில் உள்ள மருத்துவச் செடியின் பழங்களை சாப்பிட்டதாகக் கூறப்படுகின்றது.
 
-காலை 10.30 மணியளவில் மரத்தில் இருந்து பழங்களை பறித்து சாப்பிட்டதாகவும், பாடசாலை முடிந்து வீடு திரும்பிய மாணவர்கள் வாந்தி, பேதி காரணமாக மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாகவும் மருத்துவமனையின் பேச்சாளர் தெரிவித்தார். R
+
+8 students hospitalized after eating unknown fruits near campus. Symptoms: vomiting, panic. Incident occurred around 10:30 AM. Students were admitted to Mawanella Primary Hospital. Cause remains unclear.
+
+🟩
+
+Eight students at the University of Mawanella have been admitted to the Mawanella Primary Hospital this afternoon due to vomiting and panic.
+
+The sample area is said to have been eaten by the fruits of the medical plant.
+
+The hospital spokesman said that the fruit was eaten from the tree at around 10.30 am and the students who returned home after the school had been vomiting and hospitalized.. Remble
 
 ◼️
 
 [Data](articles/530886f6.json)
 
+[Extended Data](ext_articles/530886f6.ext.json)
+
 ---
 
-### லிட்ரோ கேஸ் விலைகள் திருத்தப்படாது
+### Litro Case prices will not be edited
 
 *2024-12-03 19:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-கேஸ்-விலைகள்-திருத்தப்படாது/175-348193) · `ta`
 
-லிட்ரோ எரிவாயு விலைச் சூத்திரத்தின் பிரகாரம் நவம்பர் மாதம் லிட்ரோ எரிவாயுவின் விலைகள் திருத்தப்படாது என லிட்ரோ எரிவாயு நிறுவனத்தின் தலைவர் சன்ன குணவர்தன இன்று (3) தெரிவித்தார்.
+Litro gas prices unchanged in November. 12.5kg cylinder costs Rs 3,690, 5kg Rs 1,482, 2.3kg Rs 694.
 
-12.5 கிலோ கிராம் லிட்ரோ எரிவாயு சிலிண்டரின் விலை 3,690 ரூபாவாகவும், 5 கிலோகிராம் சிலிண்டரின் விலை 1,482 ரூபாயாகவும், 2.3 கிலோகிராம் சிலிண்டரின் விலை 694 ரூபாவாகவும் உள்ளதாக தலைவர் மேலும் தெரிவித்தார். R
+🟩
+
+Litro gas prices will not be corrected in November, according to the Litro Gas Price Sutra, Litro G Gunawardena today (3) said.
+
+The price of 12.5 kg of Litro gas cylinder was Rs 3,690, the price of 5 kilograms of cylinder was Rs 1,482 and 2.3 kilograms of cylinder was 694 rupees.. Remble
 
 ◼️
 
 [Data](articles/d0aa8575.json)
+
+[Extended Data](ext_articles/d0aa8575.ext.json)
+
+---
+
+### The new constitution should also include a solution to the problems of the people of the hill country - Velusamy Radhakrishnan
+
+*2024-12-03 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200356) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New constitution must address hill country issues - Velusamy Radhakrishnan. Opposes changing 13th Amendment to appease India or China. Supports solving ethnic problems through new constitution.
+
+🟩
+
+When the new constitution is created. Opposition member Velusamy Radhakrishnan said that by changing the 13th Amendment, he could not achieve anything with India or to achieve anything with China.
+
+He said this while addressing the discussion on the President's policy speech held in Parliament on Tuesday (3).
+
+At the same time, he pointed out that India is the most important country for us, globally, that it is not possible to achieve anything with India or achieve anything with China by changing the 13th Amendment.
+
+He said this while addressing the first day's parliamentary debate on the President's Policy Declaration.
+
+It is a matter of admiration that national people's power has created this government with the intention of having a racist country. This time the voting of the election has taken place without racial discrimination. Our expectation is that this should be followed. It is my opinion that this is the best omen to solve the country's ethnic problem.
+
+...
+
+[Data](articles/10bc0752.json)
+
+[Extended Data](ext_articles/10bc0752.ext.json)
+
+---
+
+### Allow Rice imports without import control permit - Cabinet approval
+
+*2024-12-03 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200355) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Cabinet approves unrestricted rice imports until 20th due to domestic shortages. Eliminates need for import control permits to address supply issues.
+
+🟩
+
+Considering the shortage of naturisi and other rice varieties in the domestic market, the Cabinet considers that it is appropriate to eliminate the limits that are currently being imported to the government.
+
+Accordingly, it has been decided to grant permission for the importation of rice to our country until the 20th of this month without the import control license.
+
+◼️
+
+[Data](articles/6cee6370.json)
+
+[Extended Data](ext_articles/6cee6370.ext.json)
 
 ---
 
@@ -188,6 +330,34 @@ Jaffna Independent Member said he came to the office of the opposition leader an
 
 ---
 
+### Allowance to take schools
+
+*2024-12-03 17:53:01* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පොත්-පත්-ගන්න-දරුවන්ට-දීමනාවක්/11-413434) · `si`
+
+Here's a 200-character summary:
+
+
+
+Government grants school children storage materials allowance. Affects 55% of students due to economic crisis. Cabinet approves plan to minimize impact on education.
+
+🟩
+
+The government has decided to grant school children to obtain school storage materials.
+
+Accordingly, a allowance of Rs.
+
+Allowance of the children, mother, or father who have lost children who are not included in the properties of parents, children, children of child home children and special reasons for special causes of children.It has been decided to be provided through the Ministry of Higher Education and Professional Education.
+
+Due to the adverse effects of the economic crisis has had a negative impact on the education of schoolchildren and that the 55% of school children has affected the education of the school children.
+
+...
+
+[Data](articles/91dfd191.json)
+
+[Extended Data](ext_articles/91dfd191.ext.json)
+
+---
+
 ### I hit me in Parliament - MP Archuna
 
 *2024-12-03 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204002) · `si`
@@ -286,21 +456,31 @@ In the event of an oversubscription of the initial issue and the second tranche 
 
 ---
 
-### ඖෂධ 337ක් දේශීයව මිලදී ගනියි
+### 337 drugs purchased locally
 
 *2024-12-03 17:24:40* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-337ක්-දේශීයව-මිලදී-ගනියි/11-413433) · `si`
 
-රාජ්‍ය ඖෂධ නිෂ්පාදන සංස්ථාව සහ දේශීය ඖෂධ නිෂ්පාදකයින් වෙතින් අත්‍යවශ්‍ය වෛද්‍ය සැපයීම් ප්‍රසම්පාදනය සඳහා කැබිනට් අනුමැතිය ලැබී තිබේ.
+Here's a summary in 200 characters:
 
-දේශීයව නිෂ්පාදනය කරනු ලබන ඖෂධ සහ වෛද්‍ය සැපයීම් ඉදිරි වසරක කාලයක් සඳහා හඳුනාගනු ලැබ ඇති දේශීය නිෂ්පාදකයින් වෙතින් මිල දී ගැනීම පිණිස 2024-10-14 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී ඇත.
 
-ඒ අනුව, රාජ්‍ය ඖෂධ නිෂ්පාදන සංස්ථාව, රාජ්‍ය ඖෂධ නිෂ්පාදන සංස්ථාව සමඟ බද්ධ ව්‍යාපාර ගිවිසුම් අත්සන් කරනු ලැබ ඇති දේශීය නිෂ්පාදකයින්, සෞඛ්‍ය අමාත්‍යාංශය සමඟ පසු මිල දී ගැනීමේ ගිවිසුම් අත්සන් කරනු ලැබ ඇති දේශීය නිෂ්පාදකයින් සහ දැනට ගිවිසුම්ගත වී නොමැති දේශීය නිෂ්පාදකයින් විසින් සැපයිය හැකි ඖෂධ වර්ග ලැයිස්තු 4 ක් සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යාංශය විසින් සකස් කර තිබේ.
 
-එම ලැයිස්තු 4 පරීක්ෂා කර අමාත්‍ය මණ්ඩලය විසින් පත් කරන ලද ස්ථාවර ප්‍රසම්පාදන කමිටුව ඉදිරිපත් කරනු ලැබ ඇති නිර්දේශ මත පදනම්ව, පහත සඳහන් පරිදි ප්‍රසම්පාදනයන් පිරිනැමීම පිණිස සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර ඇත.
+"337 drugs procured locally: 42 from State Pharmaceutical Manufacturing Corporation (Rs 5,398.83M), 131 from joint venture partners (Rs 16,611.42M), 36 from new local manufacturers (Rs 9,022.10M), and 130 from newly selected manufacturers (Rs 13,655M)."
+
+🟩
+
+Cabinet approval has been granted to procure essential medical supply from the State Pharmaceutical Manufacturing Corporation and local pharmaceuticals.
+
+The approval was granted at the Cabinet Meeting held on 14-10-10 to the next year, to purchase local manufacturers who were identified for a next year.
+
+Accordingly, the State Pharmaceutical Manufacturing Corporation has signed the joint venture agreements to be signed with the Ministry of Pharmaceful Manufacturers, the local manufacturers who have signed the joint venture agreements and the drug types of domestic manufacturers who have already been uncontractive.4 The Ministry of Health and the Ministry of Health and the Ministry of Health has been prepared.
+
+The Motion presented by the Cabinet of Health and Mass Media has been approved by the Cabinet of Health and Mass Media to offer the following procurements based on these 4 lists.
 
 ...
 
 [Data](articles/b9c2f79a.json)
+
+[Extended Data](ext_articles/b9c2f79a.ext.json)
 
 ---
 
@@ -2327,173 +2507,5 @@ He was informed by Speaker Asoka Ranwala today (3rd).
 [Data](articles/a4050c3d.json)
 
 [Extended Data](ext_articles/a4050c3d.ext.json)
-
----
-
-### Vegetable prices down in Dambulla
-
-*2024-12-03 10:50:52* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-එළවළු-මිල-පහළට/11-413421) · `si`
-
-Dambulla vegetable prices drop; bean kg price range Rs. 650-700; tomato 300 for Rs. 350; carrot kg Rs. 100; leek kg Rs. 80; coconut Rs. 150 per piece. Silver traders blame retail price hike for market fluctuations.
-
-🟩
-
-Representatives of vegetables except the Dambulla Special Economic Center, except for the past three days, says.
-
-Accordingly, the bulkies of a kilogram of beans have sold between Rs. 650 and Rs.
-
-They also emphasize that the price of the bean market is a limited number of prices and the lower quality of vegetables is declining.
-
-Amamiris, who was sold under high prices, had fallen between 150 rupees on the day, which was sold under high billions of days. 300 tomatoes sold for 350 rupees sold at a cost of Rs. 150 and 200 rupees
-
-A kilo of carrots from the Kandyan areas is a marketing of Rs.
-
-Accordingly, a kilo of leeks were sold at a price of Rs.Businessing pointed out that the stock person has fallen from the Kandyan areas and vegetables from the following country areas
-
-The coconut stock prices of a coconut in the Dambulla Economic Center were able to see a single tumor of Rs. 150.
-
-Silver traders point out that the vegetable retail price is the main reason for the rapid increase.
-
-◼️
-
-[Data](articles/022d463b.json)
-
-[Extended Data](ext_articles/022d463b.ext.json)
-
----
-
-### Trump is a serious warning for Hamas
-
-*2024-12-03 10:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸுக்கு-ட்ரம்ப்-கடும்-எச்சரிக்கை/50-348159) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Donald Trump warns Hamas to release Israeli hostages in Gaza before his inauguration. He threatens severe consequences if not met, referencing historical attacks. The situation involves over 1,200 deaths in Israel and 43,500 casualties in Gaza.
-
-🟩
-
-Donald Trump has strongly warned that he should release the hostages held in Gaza before he was sworn in as US president.
-
-Donald Trump has said on his own social network Truth Social Site: Everyone is talking about hostage in the most violent, inhumane, inhumane manner in the Middle East and against the wishes of the entire world.. But they are all just talk. No action.
-
-I must release the Israeli hostage in Gaza before January 25, 2025, the day I am proudly sworn in as the US President. If not, the Middle East and those who have committed such atrocities against mankind will have to pay a huge price.
-
-The biggest attacks will be done in American history. Release the hostage immediately. Thus said Trump.
-
-...
-
-[Data](articles/998b60be.json)
-
-[Extended Data](ext_articles/998b60be.ext.json)
-
----
-
-### Increase of the total price of rice
-
-*2024-12-03 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியின்-மொத்த-விலை-அதிகரிப்பு/175-348158) · `ta`
-
-Rice price hike: Mill owners raise rates, wholesalers pass on costs. Consumer body sets controlled prices, but traders struggle to sell at these levels.
-
-🟩
-
-Rice mill owners have informed the country's rice wholesalers around the country that the total price of the country, samba and kiri samba rice has increased.
-
-Accordingly, the total price of a kilogram of rice has been increased to Rs.
-
-Rice mill owners have advised the merchants to pay the cost of the rice required for that price.
-
-The Consumer Service Authority has issued a circular to sell the country's rice control prices at Rs 220, Samba Rs.
-
-Owners of rice mill?Rice wholesale traders and retailers said that the price of rice occasionally increases, unable to sell rice at control prices.
-
-Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
-
-◼️
-
-[Data](articles/063f261b.json)
-
-[Extended Data](ext_articles/063f261b.ext.json)
-
----
-
-### Increase of the total price of rice
-
-*2024-12-03 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியின்-மொத்த-விலை-அதிகரிப்பு/150-348158) · `ta`
-
-Rice price hike: Mill owners raise rates, wholesalers pass on costs. Consumer body sets controlled prices but traders struggle to maintain them due to higher procurement costs.
-
-🟩
-
-Rice mill owners have informed the country's rice wholesalers around the country that the total price of the country, samba and kiri samba rice has increased.
-
-Accordingly, the total price of a kilogram of rice has been increased to Rs.
-
-Rice mill owners have advised the merchants to pay the cost of the rice required for that price.
-
-The Consumer Service Authority has issued a circular to sell the country's rice control prices at Rs 220, Samba Rs.
-
-Owners of rice mill?Rice wholesale traders and retailers said that the price of rice occasionally increases, unable to sell rice at control prices.
-
-Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
-
-◼️
-
-[Data](articles/43ad3ada.json)
-
-[Extended Data](ext_articles/43ad3ada.ext.json)
-
----
-
-### State attention to providing relief to the centers straight and indirectly affected by the disaster
-
-*2024-12-03 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203985) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Defense Deputy Minister Aruna Jayasekara addresses Parliament about disaster relief efforts. The government focuses on aiding both directly and indirectly affected individuals. 139,439 families displaced, 469,899,872 persons affected, 8 deaths reported. 12,348 families in shelters, with 394 released. Special attention given to disaster relief and post-disaster support.
-
-🟩
-
-Deputy Minister of Defense Aruna Jayasekara says that special attention has been paid direct attention to the public and indirectly affected people directly and indirectly affected by the disaster.
-
-Speaking in Parliament today (03), he said that the President was instructed to use the necessary skills to liberate the victims of the affected people.
-
-The Deputy Minister said in parliament today as the President has instructed the relevant aspects to provide all necessary funds from the Treasury.
-
-The Deputy Minister said 139,439 families have been displaced and 469,89,872 persons have been displaced and 8 deaths and 20 deaths have been reported.
-
-The Deputy Minister said that 12,348 families were detained in 247 security centers, but 394 families have been launched.
-
-However, the Deputy Minister further stated that the government has paid special attention to the disaster relief and post disaster relief, as the disaster victims are higher than these values ​​due to the disaster situation.
-
-◼️
-
-[Data](articles/cff108c7.json)
-
-[Extended Data](ext_articles/cff108c7.ext.json)
-
----
-
-### Excise Dept. to suspend licenses of tax defaulting liquor manufacturers
-
-*2024-12-03 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103950/excise-dept-to-suspend-licenses-of-tax-defaulting-liquor-manufacturers) · `en`
-
-The Excise Department has announced that strict actions under the Excise Ordinance will be taken to suspend the production activities of companies that continue to default on excise duty arrears, with their licenses for 2025 withheld.
-
-The Department of Excise revealed that out of the 23 alcohol manufacturing companies licensed for production this year, all but three have cleared their dues before the deadline on November 30.
-
-Accordingly,the department said that legal proceedings will be initiated against the defaulters—W.M. Mendis & Co. Limited, Kurunegala Royal Ceylon Distilleries Private Limited, and Meegoda McCallum Brewery Limited.
-
-Further measures against these companies will be determined based on the judgments of the legal proceedings, the department added.
-
-...
-
-[Data](articles/bd651536.json)
-
-[Extended Data](ext_articles/bd651536.ext.json)
 
 ---

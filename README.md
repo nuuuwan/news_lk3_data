@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 06:48:00**
+As of **2024-12-03 07:31:01**
 
 ## Newspaper Stats
 
-*Scraped **58,141** Articles*
+*Scraped **58,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,496
 adaderanalk | 7,047
-tamilmirrorlk | 8,261
+tamilmirrorlk | 8,262
 virakesarilk | 9,520
 adaderanasinhalalk | 10,038
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,135 (100.0%) of 58,141 articles have been extended.
+58,135 (100.0%) of 58,142 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -231,6 +231,24 @@ The visit highlighted the growing partnership between the two companies and demo
 [Data](articles/3c2f1e56.json)
 
 [Extended Data](ext_articles/3c2f1e56.ext.json)
+
+---
+
+### இந்திய உயர்ஸ்தானிகர் சபாநாயகருடன் சந்திப்பு
+
+*2024-12-03 02:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-சபாநாயகருடன்-சந்திப்பு/175-348148) · `ta`
+
+சபாநாயகர் கலாநிதி அசோக ரன்வல மற்றும் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோருக்கிடையிலான சந்திப்பொன்று நேற்று பாராளுமன்ற கட்டடத் தொகுதியில் இடம்பெற்றுள்ளது.
+
+இலங்கை மற்றும் இந்தியா இடையிலான நீண்டகால உறவுகள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டதாக பாராளுமன்ற தொடர்பாடல் திணைக்களம் தெரிவித்துள்ளது.
+
+அத்துடன், இரு நாடுகளுக்கும் இடையிலான பொருளாதார, வர்த்தக விவகாரங்கள் மற்றும் தொழில்நுட்ப அறிவு பரிமாற்றம் உள்ளிட்ட பல முக்கிய விடயங்கள் குறித்தும் கவனம் செலுத்தப்பட்டதாகக் குறிப்பிடப்படுகிறது.
+
+இந்த நிலையில், பாராளுமன்ற உறுப்பினர்கள் மற்றும் ஊழியர்களுக்கான கருத்து பரிமாற்ற நிகழ்வுகளை நடத்துவதற்கு எதிர்பார்த்துள்ளதாக இந்திய உயர்ஸ்தானிகர் தெரிவித்துள்ளார் என பாராளுமன்ற தொடர்பாடல் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e5f1847f.json)
 
 ---
 
@@ -2401,25 +2419,5 @@ Three people who were traveling in the car were injured during the accident and 
 [Data](articles/ef9a885f.json)
 
 [Extended Data](ext_articles/ef9a885f.ext.json)
-
----
-
-### Sri Lanka eyes mini marinas in 21 fishery harbours to push blue economy
-
-*2024-12-02 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-mini-marinas-in-21-fishery-harbours-to-push-blue-economy-191144/) · `en`
-
-ECONOMYNEXT – Sri Lanka has untapped potential in marine linked activities, with 1,340 kilometres of coastline and two seasons that allow year-round action, and can be expanded into a billion US dollar industry quickly, an industry official said.
-
-“The geographical location offers yacht chartering, boating, whale watching, whatever you call, all the sea-based activities,” Kaushal Rajapaksa, Chairman, Chamber of Marine Industries of Sri Lanka told participants of Voyage Sri Lanka 2024, a forum organized by the island’s Export Development Board.
-
-“You can enjoy the sea year-round as well as sea-based activities. Expanding technological capacity and maritime services, we have advanced capabilities in boat building and whatever the activity is related to maritime.”
-
-Despite the long coastline, and domestic manufacturers of leisure boats, there was a dearth of yacht marinas to get the sector moving.
-
-...
-
-[Data](articles/a77807fa.json)
-
-[Extended Data](ext_articles/a77807fa.ext.json)
 
 ---

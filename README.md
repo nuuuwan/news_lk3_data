@@ -1,68 +1,558 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 14:42:28**
+As of **2024-12-03 16:01:31**
 
 ## Newspaper Stats
 
-*Scraped **58,223** Articles*
+*Scraped **58,251** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
-bbccomsinhala | 605
+bbccomsinhala | 606
 islandlk | 3,497
-economynextcom | 3,530
+economynextcom | 3,535
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,506
-adaderanalk | 7,066
-tamilmirrorlk | 8,286
-virakesarilk | 9,527
-adaderanasinhalalk | 10,056
+adalk | 5,507
+adaderanalk | 7,073
+tamilmirrorlk | 8,289
+virakesarilk | 9,529
+adaderanasinhalalk | 10,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,221 (100.0%) of 58,223 articles have been extended.
+58,237 (100.0%) of 58,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### ஆறுதல் அஸ்வெசும கொடுப்பனவு அதிகரிப்பு
+### Sri Lanka stocks close up, driven by F&B, tobacco sector
+
+*2024-12-03 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-fb-tobacco-sector-125162/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader ASPI closed up 0.96 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
+
+Turnover was 3.2 billion. Most of this came from the food, beverage and tobacco sector (Rs783mn).
+
+Agarapatana Plantations saw investor interest; the share closed up at 9.00.
+
+Other plantation stocks saw mixed interest; Kotagala (up at 6.70), Talawakella (up at 128.00) and Namunukula (up at 376.50), Agalawatte (down at 41.50), Elpitiya (down at 111.25), and Balangoda (down at 71.60).
+
+Sunshine Holdings, which announced it was amalgamating Sunshine Packaging Lanka Limited, closed up at 73.80.
+
+Top positive contributors to the ASPI were LOLC Holdings (up at 459.25), Central Finance Company (up at 135.75), Royal Ceramics (up at 34.50), Hatton National Bank (up at 235.25), and Dipped Products (up at 45.90). (Colombo/Dec3/2024)
+
+◼️
+
+[Data](articles/61a53ce8.json)
+
+---
+
+### Cabinet approves increase in “Aswesuma” benefits, extension of payment period
+
+*2024-12-03 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103968/cabinet-approves-increase-in-aswesuma-benefits-extension-of-payment-period-) · `en`
+
+The Cabinet of Ministers has approved amendments to the “Aswesuma” welfare benefits program while increasing the welfare benefit payments and extending the period of payments for certain vulnerable groups.
+
+The “Aswesuma” welfare benefits program has been implemented from 01 July 2023 and was revised by the Extraordinary Gazette Notification No. 2384/30 which came into effect from 01 July 2024. Under this welfare benefits program, the beneficiary families are entitled to benefit under 04 categories.
+
+Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said since the impact of the economic crisis has not completely receded, there is a need to provide further short-term relief to families selected in the first round of applications for the program, in relation to transitional and vulnerable categories and families selected in the second round of applications for which the selection processes have commenced.
+
+...
+
+[Data](articles/ed825c9c.json)
+
+---
+
+### 23 Indian fishermen released conditional
+
+*2024-12-03 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200320) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+23 Indian fishermen arrested for fishing in Neduntivu Sea. Released on bail after paying fines & serving sentences. Three face additional 6-month imprisonment if fines unpaid.
+
+🟩
+
+23 Indian fishermen arrested. The Kayts Magistrate's Court has been released today (03).
+
+On November 10, 23 Indian fishermen arrested by the Navy have been released on conditions on charges of fishing in the Neduntivu Sea on the 10th of November.
+
+These 23 people today (03) Jaffna. In the presence of Magistrate Nalina Subhaskaran, the prison officials were produced before the Kayts Magistrate's Court.
+
+The magistrate, who examined the case, sentenced the Indian fishermen to 2 years in prison for six years.
+
+He also paid a fine of Rs 4 million each, as 3 of these 23 were sailboats and ordered them to be further sentenced to 6 months in prison.
+
+Failure to pay the fine should be sentenced to 6 months in prison for 3 months in prison.
+
+◼️
+
+[Data](articles/381ce708.json)
+
+[Extended Data](ext_articles/381ce708.ext.json)
+
+---
+
+### Several posts in the Prime Minister and the Opposition Leader Secretariat
+
+*2024-12-03 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203998) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Cabinet approves appointments for two PM's Office vacancies. JMRK Jayasundera & Chandani Sagaica Bogage named. Jayasundera serves as Additional District Secretary. Bogage is Ministry of Finance director. Ranasinghe appointed Opposition Secretary.
+
+🟩
+
+Cabinet approval has been given to appoint appointments for two vacancies for two vacancies in the Prime Minister's Office.
+
+The proposal made by Prime Minister Dr. Hairini Amarasuriya has approved the proposal.
+
+Accordingly, the officer in Sri Lanka Administrative Service Special Grade JMRK. Mr. Jayasundera and Officer of the Sri Lanka Planning Service I Mrs. Chandani Sagaica Bogage have been named for the posts.
+
+JMRK Jayasundara is currently serving as an Additional District Secretary of the Kurunegala District Secretariat.
+
+Ms. Chandani Sagaica Bogalat is currently serving as a director of the Ministry of Finance, Planning and Economic Development.
+
+The Cabinet decision notification statement further states that she has proposed to appoint a full-time work in the post.
+
+...
+
+[Data](articles/352eacac.json)
+
+[Extended Data](ext_articles/352eacac.ext.json)
+
+---
+
+### Cabinet nod to establish ‘Clean Sri Lanka Fund’, appoint task force
+
+*2024-12-03 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103967/cabinet-nod-to-establish-clean-sri-lanka-fund-appoint-task-force) · `en`
+
+The Cabinet of Ministers has greenlighted the proposal to establish a ‘Clean Sri Lanka’ Fund and appoint a Presidential Task Force for its management.
+
+Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said considering the fact that Sri Lanka is currently experiencing significant setbacks not only economically but also politically, socially, spiritually and environmentally, the program called “Clean Sri Lanka” has been planned to be implemented as a national mission to achieve the national aspiration by ensuring the well-being, reconciliation and progress of the people of the country.
+
+This transformative initiative, which is guided by the new government’s vision of “A Prosperous Country, a Beautiful Life” , will be implemented with the aim of achieving social, environmental and ethical awakening, the Minister added.
+
+...
+
+[Data](articles/5023a34e.json)
+
+---
+
+### Australian citizen jumped from the floor
+
+*2024-12-03 15:16:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-குதித்த-அவுஸ்திரேலிய-பிரஜை/175-348185) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+A 51-year-old Australian citizen jumped from the 7th floor of an apartment building in Kaluppitti Crescent on Tuesday. Police stated he was temporarily residing in the foreigner-owned building.
+
+🟩
+
+It is reported that an Australian citizen (51 years old) has jumped from the Kaluppitti Crescent apartment on Tuesday (03).
+
+Police said they were temporarily staying on the 7th floor of the dual citizen's foreigner building.
+
+◼️
+
+[Data](articles/a6deb9f7.json)
+
+[Extended Data](ext_articles/a6deb9f7.ext.json)
+
+---
+
+### Government decisions relating to recruit development officers to teacher work
+
+*2024-12-03 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203997) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+PM forms committee to address development officer recruitment issues. Over 15,800 officers teach in national/provincial schools. Committee to analyze problems and propose solutions within 7 weeks.
+
+🟩
+
+Development Officers have decided to appoint a ministerial committee headed by the Prime Minister to provide sustainable solutions to the issues of recruitment of development officers.
+
+Cabinet spokesman, Minister Nalinda Jayatissa said that at the Cabinet press conference held today (03).
+
+More than 15,800 development officers are engaged in teaching in national schools and provincial schools.
+
+Accordingly, the administrative proceedings of the development officers and identifying various issues that have been identified today, a ministerial committee will be appointed as the Prime Minister of Prime Minister to analyze these issues and present these issues.
+
+Cabinet Spokesperson, Minister Nalinda Jayatissa added that the Prime Minister's secretary has been approved by the Cabinet of the Prime Minister's Secretary to appoint a ministerial committee consisting of Ministers / Deputy Ministers and the proposal of the Prime Minister's Secretary to assist the committee.
+
+...
+
+[Data](articles/24ff2501.json)
+
+[Extended Data](ext_articles/24ff2501.ext.json)
+
+---
+
+### The death of Madarasa students;Rishad Sad
+
+*2024-12-03 15:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதரஸா-மாணவர்களின்-உயிரிழப்பு-ரிஷாட்-விசனம்/175-348184) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rishad Bathiudeen urges independent probe into deaths of 8 including Madarasa students in Ampara flood. Blames police negligence & delays in rescue efforts. Requests Public Security Minister to investigate.
+
+🟩
+
+All Ceylon People's Congress leader and parliamentarian Rishad Bathiudeen on Tuesday (03) urged the council to hold an independent investigation into the death of eight people, including Madarasa students, on the Karativu -Mavadipalli road, the plowing machine collapsed and flooded.
+
+“Eight people were killed in a recent flood disaster in Mavadipalli in Ampara district. I had visited their homes. At the time, the relatives of the deceased were accused of the tragedy of the incident.
+
+In particular, the police have been on duty when the incident took place. The Madarasa administration has sent students into the plowing machine because of the lack of way to leave Madrasa due to flooding.
+
+When they were traveling on the road, the police were flooded, and the police did not close the road and allowed the traffic to be reckless.. Must stop them and explain the situation.
+
+...
+
+[Data](articles/a4f50c5a.json)
+
+[Extended Data](ext_articles/a4f50c5a.ext.json)
+
+---
+
+### Cabinet approval to allow rice imports without permits
+
+*2024-12-03 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103966/cabinet-approval-to-allow-rice-imports-without-permits) · `en`
+
+The Cabinet of Ministers has approved the proposal to allow the import of rice without import control permits until 20 December, 2024.
+
+Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that the Cabinet considered the advisability of temporarily lifting the existing restrictions on the import of rice, in view of the current shortages of rice, including Nadu and other rice varieties in the domestic market as well as the damage caused to paddy cultivation due to the recent adverse weather conditions.
+
+Accordingly, it has been decided to grant permission to import rice into the country without obtaining import control permits up until 20 December, 2024, with immediate effect.
+
+◼️
+
+[Data](articles/225f2696.json)
+
+---
+
+### Sri Lanka to remove restrictions on rice imports till Dec20
+
+*2024-12-03 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-remove-restrictions-on-rice-imports-till-dec20-125853/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers will temporarily remove existing restrictions on the import of rice, Health Minister Nalinda Jayatissa has said.
+
+“Considering the current shortage of Nadu rice and other types of rice in the local market, as well as the damage caused to paddy cultivation due to the heavy rains of the past few days, the Cabinet approved temporarily removing the existing restrictions on the import of rice,” Jayatissa told reporters on Tuesday.
+
+He said the Cabinet decided to grant permission to import rice until December 20, without obtaining import control licenses.
+
+On November 20, Trade Minister Wasantha Samarasinghe said the government will import 70,000 metric tonnes of rice to address a shortfall in the market, through two state agencies, Sathosa and the State Trading Corporation. (Colombo/Dec9/2024)
+
+◼️
+
+[Data](articles/56b31998.json)
+
+---
+
+### Govt. to dispose of super luxury vehicles in govt institutions
+
+*2024-12-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103965/govt-to-dispose-of-super-luxury-vehicles-in-govt-institutions) · `en`
+
+The Cabinet of Ministers has approved a proposal to conduct a study on vehicles used in all government institutions and systematically dispose of super luxury vehicles that incur high maintenance and fuel costs in government institutions by selling them in order to reduce government spending.
+
+The approval has been granted to the proposal submitted by President Anura Kumara Dissanayake to assess and streamline the government vehicle fleet, focusing on those with higher engine capacities, which contribute to rising maintenance expenses.
+
+...
+
+[Data](articles/0129ea10.json)
+
+---
+
+### Clean Sri Lanka වැඩසටහනට කැබිනට් අනුමැතිය
+
+*2024-12-03 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203996) · `si`
+
+Clean Sri Lanka අරමුදලක් පිහිටුවීමට සහ එහි කළමනාකරණය සඳහා ජනාධිපති කාර්ය සාධක බළකායක් පිහිටුවීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+'පොහොසත් රටක් ලස්සන ජීවිතයක්' යන නව රජයේ දැක්ම අනුව මෙහෙයවනු බලන මෙම පරිවර්තනීය මුල පිරීම සාමාජිය, පාරිසරික හා ආචාරධර්මීය පිබිදීමක් ඉලක්ක කර ගනිමින් ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
+
+ශ්‍රී ලංකාව ආර්ථිකමය වශයෙන් පමණක් නොව දේශපාලනික, සාමාජීය, ආධ්‍යාත්මක මෙන්ම පාරිසරික වශයෙන්ද සැලකිය යුතු පසුබෑමකට ලක්වීම සැලකිල්ලට ගෙන මෙරට ජනතාවගේ යහපැවැත්ම, සංහිඳියාව සහ ප්‍රමණය තහවුරු කිරීම තුලින් ජාතික අපේක්ෂාව සාක්ෂාත් කර ගැනීම සඳහා සිදු කරනු ලබන ජාතික මෙහෙයුමක් ලෙස මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට රජය සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/25784651.json)
+
+---
+
+### Govt. awards procurement for over 300 medicine types to local manufacturers
+
+*2024-12-03 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103964/govt-awards-procurement-for-over-300-medicine-types-to-local-manufacturers) · `en`
+
+The Cabinet of Ministers has granted approval for the list of medicines and medical supplies to be procured from identified local manufacturers for a period of one year.
+
+Speaking at the Cabinet press conference held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that the approval has been granted at the Cabinet meeting held on 14 October 2024 to purchase locally manufactured medicines and medical supplies from identified local manufacturers for a period of one year.
+
+Accordingly, the Ministry of Health and Mass Media has prepared 04 lists of medicines that can be supplied by the State Pharmaceuticals Manufacturing Corporation (SPMC), local manufacturers who have signed joint venture agreements with the SPMC, local manufacturers who have signed buy back agreements with the Ministry of Health and local manufacturers who are not currently contracted.
+
+...
+
+[Data](articles/bfc71224.json)
+
+---
+
+### Decision to cancel local government nominations
+
+*2024-12-03 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203995) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Cabinet approves cancellation of local government nominations for 2023 elections. Political party leaders agree to recall nominations. Election Commission to provide new nomination provisions.
+
+🟩
+
+Cabinet approval has been approved by the Cabinet approval to advise a legal drafting provision to conclude a nomination of the local government bodies for the election of 2023.
+
+Angeled political party leaders who were chaired by the Speaker on the 25th of this month were agreed to cancel the nominations of the Speaker in Parliament on the 25th of the party leader.
+
+Accordingly, the local government bodies to be recalled to the Elections for the Elections for the Elections and the Election Commission to educate the provision of provision for provision of provisional nominations for provision of provision of new nominations (Special Provisions)The proposal made by the Minister of Public Administration, Provincial Councils and Local Government, has been approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/6a376a99.json)
+
+[Extended Data](ext_articles/6a376a99.ext.json)
+
+---
+
+### Scattered cement bags
+
+*2024-12-03 14:37:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிதறிக்-கிடக்கும்-சீமெந்து-பைகள்/175-348183) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Cement bags spilled from lorry, scattering broken ones along parliament road.
+
+🟩
+
+As the cement bags fell out of the lorry carrying cement bags, many broken cement bags were scattered along the side of the parliament road.
+
+◼️
+
+[Data](articles/9af12ffd.json)
+
+[Extended Data](ext_articles/9af12ffd.ext.json)
+
+---
+
+### A statement on Litro gas prices
+
+*2024-12-03 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203994) · `si`
+
+Litro gas prices unchanged Dec 2024 despite intl market increases. Company decides against domestic price hike.
+
+🟩
+
+It states that Litro household gas prices do not change for December 2024.
+
+The company says that LP gas prices have increased in the international market, but the people decided not to increase the price of gas.
+
+◼️
+
+[Data](articles/dbc73f4b.json)
+
+[Extended Data](ext_articles/dbc73f4b.ext.json)
+
+---
+
+### Increase of comfort aswell
 
 *2024-12-03 14:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறுதல்-அஸ்வெசும-கொடுப்பனவு-அதிகரிப்பு/175-348182) · `ta`
 
-ஆறுதல் (அஸ்வெசும) நலன்புரி நன்மைகள் கொடுப்பனவு முறைமை 2023.07.01 ஆம் திகதி தொடக்கம் நடைமுறைப்படுத்தப்பட்டுள்ளதுடன், 2384/30 ஆம் இலக்க அதிவிசேட வர்த்தமானி அறிவித்தல் மூலம் மீண்டும் திருத்தம் செய்யப்பட்டு 2024.07.01 ஆம் திகதி தொடக்கம் நடைமுறைப்படுத்தப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-குறித்த உத்தேச திட்டத்தின் கீழ் ஆறுதல் (அஸ்வெசும) நலன்புரிப் பயனாளிகள் குடும்பங்கள் 04 வகையான சமூகப் பிரிவின் கீழ் கொடுப்பனவுகள் வழங்கப்படுகின்றன.
 
-பொருளாதார நெருக்கடிகளின் தாக்கங்கள் முழுமையாக நீங்காமையால், நிலையற்றவர்;கள் மற்றும் ஆபத்துக்கு உட்பட்டவர்கள் ஆகிய சமூகப் பிரிவினர்களுக்குரிய முதலாம் சுற்று விண்ணப்பங்களுக்குரிய தேர்ந்தெடுக்கப்பட்ட குடும்பங்களுக்கு தொடர்ந்து சில காலங்களுக்கு நிவாரணங்களை வழங்க வேண்டுமெனக் கண்டறியப்பட்டுள்ளது.
+
+"Comfort Welfare Benefit System launched July 30, 2023. Benefits divided into 4 social categories. Economic crisis impacts reduced. Cabinet approves increase in monthly payments for poor until December 31, 2025. Validity extended to March 31, 2025."
+
+🟩
+
+The Comfort (Aswesum) Welfare Benefit Payment System has been implemented on 01.07.01.07.07.07.07.07.07.30.
+
+Under the proposed scheme, the consolation (Aswesuma) welfare beneficiaries are given allowances under 04 types of social division.
+
+Since the impacts of the economic crisis are completely eliminated, it has been found that the first round of applications for the first round of applications for social and dangerous community has been found to be relieved for some time.
+
+In addition, the current payments are not enough to consider the cost of living.. Accordingly, the Cabinet has approved the proposal submitted by President Anura Kumara Dissanayake to establish under the Ministry of Finance, Planning and Economic Development for the following amendment to the existing consolation (Ashemu) Welfare Benefits Payment System.
+
+The monthly welfare payments of the poor and the most poor are increasing the monthly welfare payments of Rs.
+
+• Excessive period of validity until 2025.03.31
 
 ...
 
 [Data](articles/622c823f.json)
 
+[Extended Data](ext_articles/622c823f.ext.json)
+
 ---
 
-### உயர் தரப் பரீட்சைகள் மீள ஆரம்பம்
+### Cabinet approves drafting of bill to allow recalling of LG Election nominations
+
+*2024-12-03 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103963/cabinet-approves-drafting-of-bill-to-allow-recalling-of-lg-election-nominations) · `en`
+
+The Cabinet of Ministers has granted approval to draft the Local Government Elections (Special Provisions) Bill in order to make necessary provisions for the recalling of nominations for Local Government (LG) Elections.
+
+Speaking at the Cabinet press conference held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that it has been decided at the Cabinet meeting held on 02 September 2024 to instruct the Legal Draftsman to prepare the Local Government Elections (Special Provisions) Bill to recall the nominations called for the Local Government Elections scheduled to be held in 2023 and to make arrangements for calling new nominations.
+
+He highlighted that during the party leaders’ meeting held on 25 November 2024 under the patronage of the Speaker of Parliament in which recognized political party leaders also participated, it was agreed that the nominations called in the year 2023 should be cancelled and new nominations should be called for the upcoming LG Elections.
+
+...
+
+[Data](articles/12f4cb13.json)
+
+[Extended Data](ext_articles/12f4cb13.ext.json)
+
+---
+
+### No change in Litro Gas prices for December
+
+*2024-12-03 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103962/no-change-in-litro-gas-prices-for-december) · `en`
+
+The Litro Gas Company says that the prices of its domestic LP Gas cylinders will remain unchanged for the month of December 2024.
+
+The Chairman of the Litro Gas Company, Channa Gunawardena stated that the company decided to keep the prices of LP gas cylinders unchanged despite the price hike in the global market, in order to provide relief to the consumers.
+
+Accordingly, the prices of Litro LP gas domestic gas cylinders will remain unchanged as follows:
+
+No LP gas price revision took place last month as well, and the most recent price revision was in October.
+
+◼️
+
+[Data](articles/cbd3c7b5.json)
+
+[Extended Data](ext_articles/cbd3c7b5.ext.json)
+
+---
+
+### Pharmaceutical supplies for a year to domestic manufacturers
+
+*2024-12-03 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203993) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Cabinet approves pharmaceutical supply deals for local manufacturers. State Pharmaceutical Manufacturing Corp procures 42 drug varieties worth Rs. 5,398.83 million. Local partners sign agreements for 131 drugs (Rs. 16,611.42 million) and 36 drugs (Rs. 9,022.10 million). New local manufacturers selected for 130 drugs (Rs. 13,374.65 million).
+
+🟩
+
+Cabinet approval has been approved to purchase local manufacturers from local manufacturers for the next year.
+
+Accordingly, the State Pharmaceutical Manufacturing Corporation, the Public Manufacturers who have signed the Joint Business Agreements with the Ministry of Pharmace and the Ministry of Pharmaceutical ProductsThe Ministry has been prepared.
+
+The Cabinet of Health and Mass Meditiya has been approved by the Health and Mass Meditiya Minister to present the procurements made by the Cabinet of Procurement Committee appointed by the Cabinet.
+
+01. Procurement of 42 varieties of drugs to be presented to the State Pharmaceutical Manufacturing Corporation for Rs. 5,398.83 million.
+
+02. Procurement of 131 drugs towards Rs. 16,611.42 million to local manufacturers who have signed joint ventures with the State Pharmaceutical Manufacturing Corporation.
+
+03. Procurement of 36 types of drugs is awarded to local manufacturers who have signed up to Rs. 9,022.10 million.
+
+...
+
+[Data](articles/19b8d12e.json)
+
+[Extended Data](ext_articles/19b8d12e.ext.json)
+
+---
+
+### Retrieval
 
 *2024-12-03 14:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-தரப்-பரீட்சைகள்-மீள-ஆரம்பம்/175-348181) · `ta`
 
-சீரற்ற காலநிலை காரணமாக ஒத்திவைக்கப்பட்ட 2024 க.பொ.த உயர்தர (உ/த) பரீட்சைகள் நாளை (4) மீண்டும் ஆரம்பமாகவுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-திருத்தப்பட்ட கால அட்டவணையின்படி, முதலில் டிசம்பர் 4 ஆம் திகதி பாடங்கள் திட்டமிட்டபடி நடத்தப்படும். வேதியியல் முதல் தாள், தொழில்நுட்ப அறிவியல் முதல் தாள் மற்றும் நாடகம் முதல் தாள் (மூன்று மொழிகளில்) காலையிலும், அரசியல் அறிவியல் முதல் தாள் பிற்பகலும் நடைபெறும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
 
-புதுப்பிக்கப்பட்ட பரீட்சை கால அட்டவணையை அனைத்து பரீட்சார்த்திகளுக்கும் விநியோகிக்க திணைக்களம் நடவடிக்கை எடுத்துள்ளது. வெள்ளைத் தாளில் அச்சிடப்பட்ட அசல் கால அட்டவணையில் இருந்து வேறுபடுத்தும் வகையில் புதிய கால அட்டவணை வேறு நிறத்தில் அச்சிடப்படும். திருத்தப்பட்ட அட்டவணை குறித்து செய்தித்தாள் அறிவிப்புகள் மற்றும் பிற ஊடக சேனல்கள் மூலமாகவும் பரீட்சார்த்திகளுக்கு அறிவிக்கப்படும்.
 
-பரீட்சார்த்திகள் தங்களின் புதுப்பிக்கப்பட்ட கால அட்டவணைகளை பரீட்சை திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளத்திலிருந்து பதிவிறக்கம் செய்துகொள்ள முடியும்.
+GCE A/L exams resume Dec 4 due to weather. Revised schedule includes chemistry, technical science, languages, political science. New timetable printed differently. Examiners notified via website, newspapers. No exams Dec 24-26. Security measures for question papers.
+
+🟩
+
+The Department of Examinations has announced that the 2024 GCE Advanced Level (U/T) exams will be resumed tomorrow (4) due to inclement weather.
+
+According to the revised schedule, the lessons will be conducted as planned on December 4. The Department of Examinations said that the first sheet of chemistry, the first sheet of technical science and the first sheet of play (in three languages) and the first sheet of political science will be held in the afternoon.
+
+The Department has taken steps to distribute the renewed exam schedule to all examiners. The new timetable will be printed in a different color to distinguish from the original schedule printed on the white paper. Examiners will also be notified by newspaper announcements and other media channels on the revised schedule.
+
+Examiners can download their updated schedules from the official website of the Examination Department.
+
+Examinations will not be held on December 24, 25 and 26. All selection stations will be closed these days.
 
 ...
 
 [Data](articles/f268c4ee.json)
+
+[Extended Data](ext_articles/f268c4ee.ext.json)
+
+---
+
+### Cabinet press conference here
+
+*2024-12-03 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203992) · `si`
+
+Here's a summary of the cabinet press conference announcements in approximately 200 characters:
+
+
+
+Rice shortage resolved until Dec 20, 2024. Poor rate limit raised to Rs. 10,000, extreme poverty threshold to Rs. 17,500. High-end vehicle ban proposed. Local elections: nomination process reopened. Two committees formed for graduate solutions in public services. Drug shortages addressed through local manufacturing support. Weather relief program approved. 17-member ministerial subcommittee established for 2025 organizational purposes.
+
+🟩
+
+Allowance of Rs.
+
+The shortage of rice is temporarily removed as a solution to December 20, 2024, permits rice.
+
+The revenue of the poor rates will be increased to Rs. 10,000.
+
+The revenue of the extreme poverty classification is increased to Rs. 17,500.
+
+A proposal to abolish high luxury vehicles.
+
+Local Government Elections Special
+
+At the party leaders meeting agreed at the meeting, the nominations have been called again and call for nominations.
+
+Approval to appoint 2 committees to obtain a permanent solution of graduates in the public service locations.
+
+More opportunities for local manufacturers as a remedy to the shortage of drugs in government hospitals.
+
+A program to provide relief to affected families in the face of the good weather.
+
+Approval to appoint a 17-member ministerial subcommittee for the organizational purposes of the year 2025.
+
+◼️
+
+[Data](articles/b2c3ee01.json)
+
+[Extended Data](ext_articles/b2c3ee01.ext.json)
 
 ---
 
@@ -88,6 +578,42 @@ Opposition leader Sajith Premadasa told parliament today that the government sho
 
 ---
 
+### Selaketagama murdered to spy police
+
+*2024-12-03 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203991) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Murder in Selakatagama: 39-year-old man killed during dispute. Residents protest nightly, demanding justice. Police claim arresting suspects linked to drug trade.
+
+🟩
+
+Residents of the area have been protesting at night with the remains of a victim.
+
+Requesting justice to the killing of the drug dealers.
+
+The victim was a 39 year old resident of the Sellakaragama area.
+
+While the murder was in his friend, a group of people had resulted in a dispute with the owner of the house.
+
+"Near the Victory Devalaya is that this dog has been killed as a dog and take swords. I am always against this Kataragama police. Any jamk, I respectfully remove the cannabis and powder of this village.
+
+Meanwhile, the victim of the victim has been handed over to relatives last night.
+
+The suspects involved in the murder were to arrest the murder as a revenge of the drug dealers.
+
+However, the Kataragama Police said that these allegations leveled against the villagers say that two suspects have been arrested in this regard.
+
+◼️
+
+[Data](articles/2d861a14.json)
+
+[Extended Data](ext_articles/2d861a14.ext.json)
+
+---
+
 ### 6,000 Rs.
 
 *2024-12-03 13:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-6-000-ரூபாய்-கொடுப்பனவு/175-348178) · `ta`
@@ -109,6 +635,54 @@ Minister Nalinda Jayadissa, the chief organizer of the ruling party, said in Par
 [Data](articles/598296eb.json)
 
 [Extended Data](ext_articles/598296eb.ext.json)
+
+---
+
+### Sri Lanka calls for public comments on EIA to develop Galle harbour
+
+*2024-12-03 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-develop-galle-harbour-calls-for-public-comments-on-eia-127954/) · `en`
+
+ECONOMYNEXT – Sri Lanka has called for public feedback on the environmental impact assessment (EIA) report on the land reclamation to be done under the proposed Galle harbour development project.
+
+The EIA report is available on the official website of the Department of Coastal Conservation.
+
+Public can provide feedback for a period of one month, a government statement said.
+
+Proposals to develop the natural harbour located in the south-western coast of the island as a commercial and tourist port were first made two years ago.
+
+The Sri Lanka Ports Authority’s proposed development includes providing a fully fledged yacht marina to attract more yachts.
+
+These include berthing facilities to passenger vessels of 300m in length and cargo vessels of 200m in length which have a depth of 10m and 10.9m respectively, the SLPA has said. (Colombo/Dec3/2024)
+
+◼️
+
+[Data](articles/144038f1.json)
+
+---
+
+### We will not allow racism to be headed
+
+*2024-12-03 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200311) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+National People's Power MP Nalinda Jayatissa warns against racism and religious extremism ahead of elections. He accuses certain groups of provoking communalism and questions their motives in spreading such narratives.
+
+🟩
+
+The National People's Power Member of Parliament, Nalinda Jayatissa, said that those who used racism and religious extremism against us are currently trying to provoke communalism during the election.
+
+Ask your conscience how racism and religious extremism used against us before the election.
+
+Those who spread these stories are now trying to instigate communalism against us who are unable to follow their religious beliefs if they choose us.
+
+◼️
+
+[Data](articles/accfc434.json)
+
+[Extended Data](ext_articles/accfc434.ext.json)
 
 ---
 
@@ -145,6 +719,20 @@ Furthermore, he expressed that the Cabinet of Ministers approved the proposal pe
 [Data](articles/917a50cc.json)
 
 [Extended Data](ext_articles/917a50cc.ext.json)
+
+---
+
+### පාර්ලිමේන්තුව හෙට රාත්‍රී 9 තෙක් පැවැත්වීමට තීරණයක්
+
+*2024-12-03 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203990) · `si`
+
+හෙට දිනයේදී පාර්ලිමේන්තුව රාත්‍රී 9.30 තෙක් පැවැත්වීමට පක්ෂ නායක රැස්වීමේදී තිරණය වී තිබේ.
+
+ඒ අනුව පසුගිය දිනවල පැවැති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතිවූ ආපදා තත්ත්වය පිළිබඳ සභාව කල් තැබීමේ විවාදය හෙට පස්වරු 5.30 සිට පස්වරු 9.30 දක්වා පැවැත්වීමට තීරණය වූ බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/e4edeccb.json)
 
 ---
 
@@ -542,6 +1130,30 @@ Is this fair, it is reasonable to use a media hunting using the Prevention of Te
 
 ---
 
+### Sri Lanka to extend Aswesuma welfare programme: Minister
+
+*2024-12-03 11:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-extend-aswesuma-welfare-programme-minister-145423/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has decided to extend the Aswesuma welfare programme, Minister of Health Nalinda Jayatissa said in parliament.
+
+“The Cabinet decided yesterday to extend aid to Aswesuma beneficiaries. Accordingly 400,000 people in the transition category, who were to cease receiving aid by December 31, will continue to receive it till March 31,” Jayatissa said.
+
+He was speaking in parliament during the debate on the government’s economic policy statement on Tuesday.
+
+“The 400,000 people in the at risk category will continue to get benefits for another year.”
+
+The government will increase the 8,500 rupees given now to beneficiaries to 10,000 rupees instead, he said.
+
+400,000 people in the extreme poverty category getting 15,000 rupees at present will get 17,500 rupees instead he said.
+
+Sri Lanka is yet to present a budget for next year’s expenditure. One is scheduled in February.
+
+...
+
+[Data](articles/de3f6e64.json)
+
+---
+
 ### Mohammed Sally Nahim MP
 
 *2024-12-03 11:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொகமது-சாலி-நஹீம்-எம்-பியாக-சத்தியப்பிரமாணம்/175-348162) · `ta`
@@ -663,6 +1275,26 @@ On Monday, a government spokesperson described the move as a “one-off, due to 
 [Data](articles/a18e3d11.json)
 
 [Extended Data](ext_articles/a18e3d11.ext.json)
+
+---
+
+### Sri Lanka tourist arrivals up 21.56-pct in November, despite travel warnings
+
+*2024-12-03 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-21-56-pct-in-november-despite-travel-warnings-191101/) · `en`
+
+ECONOMYNEXT – Tourist arrivals into Sri Lanka rose 21.56 on a year-on-year basis in November, despite travel advisories by six countries in effect during the month, data from Sri Lanka Tourism Development Authority showed.
+
+Despite a US-led travel advisory being in effect in the first two weeks of the month, an inflow of tourists have been reported as the sector continues to recover.
+
+Sri Lanka tourist indicators have grown from 151,496 in November 2023 to 184,158   in November 2024, mostly led by Indian tourists.
+
+The total number of Indian tourists visiting Sri Lanka monthly rose to 41,120 from 36,417, an 11.4 percent increase.
+
+Indian arrivals were by far the highest, overtaking visitors from the Russian Federation at 29,053, United Kingdom at 12,912, Germany at 12,593, Australia at 7,937 and China at 7,696.
+
+...
+
+[Data](articles/aff6440f.json)
 
 ---
 
@@ -795,6 +1427,26 @@ He was informed by Speaker Asoka Ranwala today (3rd).
 [Data](articles/a4050c3d.json)
 
 [Extended Data](ext_articles/a4050c3d.ext.json)
+
+---
+
+### දඹුල්ලේ එළවළු මිල පහළට
+
+*2024-12-03 10:50:52* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-එළවළු-මිල-පහළට/11-413421) · `si`
+
+ඉකුත් දින කිහිපයට සාපේක්ෂව 03 දින දඹුල්ල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ බෝංචි හැර අනෙකුත් එළවළු වර්ග වල තොග මිල පහත වැටී ඇතැයි ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ නියෝජිතයෝ පවසති.
+
+ඒ අනුව දඹුල්ල ආර්ථික වෙළඳ මධ්‍යස්ථානය තුළ 03  දින උදෑසන බෝංචි කිලෝවක තොග මිල රුපියල් 650 ත් 700 ත් අතර ඉහළ අගයකට අලෙවි වූ බව වෙළෙන්දෝ පෙන්වා දෙති්
+
+එමෙන්ම මෙදින බෝංචි වෙළඳපළට ලැබීම ඉතාමත් සීමිත ප්‍රමාණයක් වීම නිසාවෙන් මිල ඉහළ යෑම සිදුවන බවත් එළවළු බහුතරයක ගුණාත්මක තත්වය  පහළ වැටීම නිසා අනෙකුත් එළවළු මිල පහත වැටීම සිදුවන බව ඔවුහු අවධාරණය කරති
+
+ඉකුත් දිනවලින් ඉහල මිල ගණන් ද යටතේ අලෙවි වූ අමුමිරිස් කිලෝව මෙදින රුපියල් 150 ක් 200 ත් අතර පහත වැටී තිබිණිි. රුපියල් 300ක් 350කට අලෙවි වූ තක්කාලි කිලෝ එක මෙදින අලෙවි වූයේ රුපියල් 150ත් 200 ත්   වැනි මිලකට ත්  වට්ටක්කා කිලෝව රුපියල් අනුවත් සීයක් අතර මිලකට අලෙවි වෙයි
+
+විශේෂයෙන් කන්ද උඩරට ප්‍රදේශවලින් ලැබෙන කැරට් කිලෝවක් 03 දින දහවල් වන විට රුපියල් හැටේ සිට රුපියල් සියය දක්වා වූ මිල ගණන් යටතේ අලෙවිවීම විශේෂත්වයකි
+
+...
+
+[Data](articles/022d463b.json)
 
 ---
 
@@ -1217,6 +1869,30 @@ It is also planned to establish the PS member of the 10th Parliament today.
 [Data](articles/b5f73610.json)
 
 [Extended Data](ext_articles/b5f73610.ext.json)
+
+---
+
+### දයාසිරි ජයසේකරගේ ප්‍රශ්නයෙන් උණුසුම් වූ 10 වන පාර්ලිමේන්තුවේ පළමු සභා වාරය
+
+*2024-12-03 09:26:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c938pp0nw2wo) · `si`
+
+දයාසිරි ජයසේකරගේ ප්‍රශ්නයෙන් උණුසුම් වූ 10 වන පාර්ලිමේන්තුවේ පළමු සභා වාරය
+
+ආපදා තත්ත්වය නිසා කුඹුරු විනාශ වූ ගොවීන්ට සහන සැලසීම සම්බන්ධයෙන් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මතු කළ ප්‍රශ්නයක් නිසා ඔහු සහ සභානායක බිමල් රත්නායක අතර මත ගැටුමක් ඇති විය.
+
+දස වැනි පාර්ලිමේන්තුවේ පළමු සභා වාරය අද (දෙසැම්බර් 03) ආරම්භ විය. එහිදී ආපදා නිසා සිදු වූ හානිය සහ රජය ගෙන ඇති පියවර ගැන ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර පාර්ලිමේන්තුව දැනුවත් කළේ ය.
+
+ඉන් අනතුරුව දයාසිරි ජයසේකර නගන ලද ප්‍රශ්නය ස්ථාවර නියෝගවලට පටහැනි බව ආණ්ඩු පක්ෂයේ අදහස විය.
+
+මේ අතර, මුදල් අතුරු සම්මත ගිණුම ඉදිරිපත් කිරීම සම්බන්ධයෙන් නිසි ක්‍රමවේදය අනුගමනය නොකළ බවට රාවුෆ් හකීම්, ආචාර්ය හර්ෂ ද සිල්වා සහ ගයන්ත කරුණාතිලක සභාවට දැනුම් දුන්හ.
+
+ඊට අදාළ ඉදිරිපත් කිරීමක් කතානායකවරයා වෙනුවට සභානයකවරයා ඉදිරිපත් කිරීම එම ප්‍රශ්නයට හේතු විය.
+
+ඊට පිළිතුරු දුන් සභානායක බිමල් රත්නායක පෙන්වා දුන්නේ, ලේකම් මණ්ඩලයෙන් ලැබුණු උපදෙසක් නිසා එය සිදු වූ බවත් පසුව එය කතානායකවරයා නිවැරදි කළ බවත් ය.
+
+◼️
+
+[Data](articles/680a7c53.json)
 
 ---
 
@@ -1741,623 +2417,5 @@ Senior Superintendent of Police (CID) EMMS Developsed has been transferred as th
 [Data](articles/956e6b86.json)
 
 [Extended Data](ext_articles/956e6b86.ext.json)
-
----
-
-### Sri Lanka’s China-backed Hambantota Port to start feeder service with Colombo
-
-*2024-12-03 07:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambantota-port-to-start-feeder-service-with-colombo-191233/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hambantota Port is boosting its container handling volume to one million twenty-foot equivalent unit (TEUs) a year with new equipment and a feeder service with Colombo is expected shortly, a statement said.
-
-The port has spent 41 million dollars on 4 new quay cranes and 13 rubber tyred gantry cranes (RTGs), adding to the existing 2 quay cranes and 3 RTGs.
-
-“Our investment in these new cranes will considerably enhance HIP’s container handling capabilities, positioning us as a fully-fledged multipurpose port for Sri Lanka,” Wilson Qu, Chief Executive of Hambantota International Port Group said.
-
-“This capacity building is crucial for our transshipment operations and will attract potential investors looking to establish manufacturing plants in our industrial zone.”
-
-“In addition to that, our marketing team is committed to promoting these developments globally to engage the right partners for our initiatives.”
-
-...
-
-[Data](articles/48e15ecb.json)
-
-[Extended Data](ext_articles/48e15ecb.ext.json)
-
----
-
-### Eight foreigners arrested for visa
-
-*2024-12-03 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203974) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"8 Indonesian nationals (28-65) arrested in Nuwara Eliya for entering Sri Lanka without visas."
-
-🟩
-
-Eight foreigners have been arrested without visa.
-
-The suspects have been arrested in the Havariya area in the Nuwara Eliya Police Division last evening.
-
-The suspects are Indonesians who are between 28 and 65 years.
-
-◼️
-
-[Data](articles/dea14c4d.json)
-
-[Extended Data](ext_articles/dea14c4d.ext.json)
-
----
-
-### Parliament to meet today
-
-*2024-12-03 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203973) · `si`
-
-Parliament meets today under Speaker Ashoka Ranwala. President Anura Kumara Dissanayake presents proposal. Secretary General meeting scheduled today and tomorrow. Election set for 5 PM tomorrow. Parliament session continues until December 6th. Debate planned for December 5-6. Select Committee formation announced. Opposition leaders propose Dr. Harsha De Silva as Chairman. New Democratic Front agrees to appoint several opposition parties. Dr. Harsha de Silva previously chaired Cash Committee twice.
-
-🟩
-
-Parliament is scheduled to meet by Speaker Ashoka Ranwala.
-
-The Parliament is due to meet the proposal to be presented by President Anura Kumara Dissanayake today.
-
-The Secretary General of the Secretariat is scheduled to be held today and tomorrow, and the election is scheduled to be held tomorrow at 5 pm tomorrow.
-
-The Parliament will be held until the 6th this week, and the proposal to the first four months of the first four months of the year 2025 is due to be presented to Parliament on 5th December.
-
-The debate will be held on December 5 and 6th Day.
-
-It also plans to establish the Select Committee of the 10th Parliament.
-
-Meanwhile, opposition leaders have decided to propose Mr. Dr. Harsha De Silva, MP Dr. Harsha De Silva, the Chairman of the Committee of Parliament.
-
-It is said that the New Democratic Front has agreed to appoint several opposition parties including the UNP.
-
-Dr. Harsha de Silva was the Chairman of the Cash Committee on two previous occasions.
-
-◼️
-
-[Data](articles/081335bb.json)
-
-[Extended Data](ext_articles/081335bb.ext.json)
-
----
-
-### Weather today
-
-*2024-12-03 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203972) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Eastern Province: Showers today. Other areas: Rainy weather. Coastal winds: 20-30 km/h. Sea conditions: Normal.
-
-🟩
-
-The Meteorology Department says that showers in the Eastern Province today (03).
-
-The department states that in other areas, there will be a rainy weather.
-
-Meanwhile, there will be showers at a few places in the sea areas off the Kankasanthura through Batticaloa to Trincomalee.
-
-Winds around the coastal areas around the island and the speed will be the speed of the wind.. Is about (20-30).
-
-The sea areas around the island can remain in normal nature, the Met Department added.
-
-◼️
-
-[Data](articles/67bee004.json)
-
-[Extended Data](ext_articles/67bee004.ext.json)
-
----
-
-### Rilvin's opinion should be expressed by the government - Dr. P. Sathiyalingam MP
-
-*2024-12-03 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200276) · `ta`
-
-Dr. P. Sathiyalingam MP calls for government clarity on Rilvin Silva's views. Demands implementation of 13th Amendment and a permanent Tamil solution. Criticizes past governments' broken promises. Advocates for Tamil self-determination within a united Sri Lanka.
-
-🟩
-
-The Secretary of the Tamil National Alliance (TNA) and the Member of Parliament that the government should reveal whether JVP's secretary Rilvin Silva's opinion is the government's opinion and position.. He was speaking at a public meeting in Vavuniya today.
-
-The 13th Constitution was brought through the Sri Lanka -India Agreement. This was also brought in the Sri Lankan politics.
-
-The 13th Amendment is being implemented in Sri Lanka because of the fact that the two countries have been implemented in front of the two countries, even though we are not a solution to the Tamils.
-
-In that way, Anura Kumara Dissanayake's election manifesto also claims that the 13th Amendment will be implemented.. In addition, our government will bring about a permanent solution to the Tamil people through a change in the politics.
-
-He said that the 13th Amendment was not a solution for us.
-
-...
-
-[Data](articles/07cb98f1.json)
-
-[Extended Data](ext_articles/07cb98f1.ext.json)
-
----
-
-### ECSL sets deadline for submission of election expenditure reports
-
-*2024-12-03 02:53:28* · [`dailyftlk`](https://www.ft.lk/news/ECSL-sets-deadline-for-submission-of-election-expenditure-reports/56-770016) · `en`
-
-The Election Commission of Sri Lanka (ECSL) has announced that candidates who contested in the recently concluded Parliamentary Elections, along with party secretaries and independent group leaders, must submit their income and expenditure reports by midnight on 6 December.
-
-The Commission specified that these reports should be prepared separately and submitted to the Returning Officers in the districts where the candidates contested. National List candidates are required to submit their reports directly to the ECSL. To facilitate the process, special units for receiving election income and expenditure reports have been established in all districts.
-
-These units will remain open until 6 p.m. on normal working days and extend their hours until midnight on the final day to accommodate submissions.
-
-The ECSL has warned that failing to submit the required reports by the deadline constitutes an offence under the Election Commission Regulation Act, and legal action will be taken against violators.
-
-◼️
-
-[Data](articles/085701c3.json)
-
-[Extended Data](ext_articles/085701c3.ext.json)
-
----
-
-### Supreme Court Justice Murdu Fernando takes oath as 48th Chief Justice
-
-*2024-12-03 02:53:00* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-Justice-Murdu-Fernando-takes-oath-as-48th-Chief-Justice/56-770015) · `en`
-
-Supreme Court Justice Murdu Nirupa Bidushinie Fernando was officially sworn in as the Chief Justice of Sri Lanka before President Anura Kumara Dissanayake yesterday at the Presidential Secretariat.
-
-She assumes office as the 48th Chief Justice of Sri Lanka, succeeding Chief Justice Jayantha Jayasuriya, who recently retired. Her appointment received approval from the Constitutional Council.
-
-She began her career at the Attorney General’s Department in 1985, rising through its ranks to become Deputy Solicitor General in 1997 and Additional Solicitor General in 2014. With over three decades of service as a State Counsel, she was appointed to the Supreme Court in March 2018.
-
-As the most Senior Supreme Court Justice prior to her appointment, she has played a significant role in shaping Sri Lanka’s legal landscape. She also served as Senior Additional Solicitor General at the Attorney General’s Department, demonstrating a distinguished career in public service.
-
-...
-
-[Data](articles/5bdf69af.json)
-
-[Extended Data](ext_articles/5bdf69af.ext.json)
-
----
-
-### Gayantha Karunathilaka appointed Chief Opposition Whip
-
-*2024-12-03 02:50:02* · [`dailyftlk`](https://www.ft.lk/news/Gayantha-Karunathilaka-appointed-Chief-Opposition-Whip/56-770013) · `en`
-
-Samagi Jana Balawegaya (SJB) Galle district MP Gayantha Karunathilaka has been named the Chief Opposition Whip, following a meeting of the SJB Parliamentary group held yesterday evening.
-
-Karunathilaka, a veteran Parliamentarian has previously served as Chief Opposition Whip in January 2020 as well while representing the United National Party (UNP). From 2015 to 2019, he held the position of Chief Government Whip in the UNP-led Good Governance administration.
-
-During the same period, Karunathilaka served as Mass Media Minister and acted as the Cabinet Media Spokesperson. During his political career lasting 24 years he has also held other notable roles, including Lands and Parliamentary Affairs Cabinet Minister.
-
-◼️
-
-[Data](articles/4a9a2c11.json)
-
-[Extended Data](ext_articles/4a9a2c11.ext.json)
-
----
-
-### K.D.R. Olga appointed Secretary to Ministry of Women and Child Affairs
-
-*2024-12-03 02:47:47* · [`dailyftlk`](https://www.ft.lk/news/K-D-R-Olga-appointed-Secretary-to-Ministry-of-Women-and-Child-Affairs/56-770012) · `en`
-
-President Anura Kumara Dissanayake has appointed K.D.R. Olga as Secretary to the Ministry of Women and Child Affairs.  The appointment letter was formally presented to Olga by Secretary to the President Dr. Nandika Sanath Kumanayake yesterday at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/0d017a2c.json)
-
-[Extended Data](ext_articles/0d017a2c.ext.json)
-
----
-
-### Committee report on MPs’, Ministers’ and former Presidents’ allowances presented to President
-
-*2024-12-03 02:47:15* · [`dailyftlk`](https://www.ft.lk/news/Committee-report-on-MPs-Ministers-and-former-Presidents-allowances-presented-to-President/56-770011) · `en`
-
-The report of the committee, chaired by former Supreme Court Justice K.T. Chithrasiri, tasked with reviewing the allowances and entitlements of Members of Parliament, Ministers, and former Presidents, was submitted to President Anura Kumara Dissanayake at the Presidential Secretariat yesterday.
-
-Prime Minister Dr. Harini Amarasuriya and Secretary to the President Dr. Nandika Sanath Kumanayake were also in attendance.
-
-◼️
-
-[Data](articles/90427872.json)
-
-[Extended Data](ext_articles/90427872.ext.json)
-
----
-
-### Transforming industries for economic revival: SLEA Annual International Conference 2024
-
-*2024-12-03 02:44:55* · [`dailyftlk`](https://www.ft.lk/business/Transforming-industries-for-economic-revival-SLEA-Annual-International-Conference-2024/34-770010) · `en`
-
-WBG Joint Country Representative for Sri Lanka and Maldives Gevorg Sargsyan
-
-The Sri Lanka Economic Association (SLEA) is set to host its Annual International Conference 2024, focusing on the theme “Transforming Industries for Economic Revival in Sri Lanka.”
-
-Scheduled for 6 and 7 December at the Sri Lanka Association for the Advancement of Science (SLAAS) Auditorium in Colombo, the event promises to be a platform for dynamic discussions and actionable insights to steer the nation towards sustainable economic recovery.
-
-...
-
-[Data](articles/6df71a94.json)
-
-[Extended Data](ext_articles/6df71a94.ext.json)
-
----
-
-### Female-led NW Logistics  fuel station tops Colombo district with highest fuel sales
-
-*2024-12-03 02:38:08* · [`dailyftlk`](https://www.ft.lk/business/Female-led-NW-Logistics-fuel-station-tops-Colombo-district-with-highest-fuel-sales/34-770009) · `en`
-
-In a remarkable achievement that reflects both operational excellence and dedication, the NW Logistics and Management Ltd. fuel station, managed by Ninewells Hospital, has reached a significant milestone in fuel distribution. This station has attained the highest fuel sales within the Colombo district and the second-highest fuel sales across the entire island for October 2024. This success is even more noteworthy as the station is fully operated by a team of skilled and dedicated women, showcasing an inspiring commitment to inclusivity and empowerment.
-
-Within just one year in operation, NW Logistics has set a new benchmark in the industry, catering to an average daily sale of 25,000 litres of fuel. The station’s exceptional service and operational efficiency have attracted more than 50 corporate clients, underscoring its reputation as a trusted fuel provider.
-
-...
-
-[Data](articles/41e47bdc.json)
-
-[Extended Data](ext_articles/41e47bdc.ext.json)
-
----
-
-### Baurs celebrates 127 years of progressive growth and innovation
-
-*2024-12-03 02:34:47* · [`dailyftlk`](https://www.ft.lk/business/Baurs-celebrates-127-years-of-progressive-growth-and-innovation/34-770008) · `en`
-
-Baurs CEO/Managing Director Rolf Blaser (third from right) with a group of employees
-
-Baur & Co. Ltd., also known as Baurs, is a name synonymous with diverse industry sectors in Sri Lanka, including a distinctive reputation for being a pioneering and innovative agriculture expert, actively blending both scientific and professional know-how to steer the nation’s future direction.
-
-This year, Baurs celebrates 127 years of continued growth and expansion across its business units.
-
-In 2021, Baurs took on the organic fertiliser challenge when the country decided to move towards organic agriculture, following the company’s long-standing R&D efforts and a collective masterplan for sustainable organic agriculture, together with a team of experts from Switzerland-based FiBL and HAFL and diverse stakeholders across the country’s agriculture sector.
-
-...
-
-[Data](articles/211bd925.json)
-
-[Extended Data](ext_articles/211bd925.ext.json)
-
----
-
-### CTC honours excellence at annual Distributors Awards ceremony
-
-*2024-12-03 02:33:06* · [`dailyftlk`](https://www.ft.lk/business/CTC-honours-excellence-at-annual-Distributors-Awards-ceremony/34-770007) · `en`
-
-The Ceylon Tobacco Company PLC (CTC), recently held its annual Distributor Awards ceremony on 23 November at the Sri Lanka Exhibition Convention Centre (SLECC), celebrating the outstanding commitment and performance of their distributor network.
-
-The CTC annual Distributor Awards ceremony recognised the extraordinary commitment and accomplishments of CTC’s distributors, celebrating their unwavering commitment and dedication. The awards ceremony was attended by over 2100 distributors and invitees from various regions of Sri Lanka. 135 distributors were recognised and celebrated, across five categories, in line with CTC’s ethos of acknowledging excellence.
-
-...
-
-[Data](articles/82e8503a.json)
-
-[Extended Data](ext_articles/82e8503a.ext.json)
-
----
-
-### Nestlé partners ALFT to pave way for sustainable future in flexible packaging
-
-*2024-12-03 02:31:42* · [`dailyftlk`](https://www.ft.lk/business/Nestlé-partners-ALFT-to-pave-way-for-sustainable-future-in-flexible-packaging/34-770006) · `en`
-
-ALFT Packaging welcomes Nestlé Lanka Managing Director Bernhard Stefan (fifth from left) and senior delegates during their visit, alongside ALFT Chairman Lakshman De Fonseka (fourth from left), MD Chathura Jayatissa (sixth from left), and COO Tissa Gunaratne (third from left)
-
-ALFT Packaging, a pioneering manufacturer of flexible packaging solutions in Sri Lanka, hosted a senior delegation from Nestlé Lanka, led by Managing Director Bernhard Stefan, offering an exclusive tour of its state-of-the-art facility and showcasing the range of industry-leading, world-class flexible packaging solutions.
-
-The visit highlighted the growing partnership between the two companies and demonstrated ALFT’s commitment to innovation, sustainability, and excellence in the flexible packaging technology.
-
-...
-
-[Data](articles/3c2f1e56.json)
-
-[Extended Data](ext_articles/3c2f1e56.ext.json)
-
----
-
-### Meeting with Indian High Commissioner Speaker
-
-*2024-12-03 02:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-சபாநாயகருடன்-சந்திப்பு/175-348148) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Asoka Ranwala met Indian High Commissioner Santosh Ja. They discussed long-term relations, economic & trade affairs, and technical knowledge exchange between Sri Lanka and India. The High Commissioner plans to organize a conversation event for parliamentarians and staff.
-
-🟩
-
-A meeting between Speaker Dr. Asoka Ranwala and Indian High Commissioner Santosh Ja was held in the Parliament building yesterday.
-
-The Parliamentary Communications Department said that the long -term relations between Sri Lanka and India were discussed.
-
-In addition, a number of important issues, including economic, trade affairs and technical knowledge exchange between the two countries, have been focused.
-
-The Department of Parliamentary Communication has stated that the Indian High Commissioner has stated that he is looking forward to conducting a conversion event for parliamentarians and employees.. (A)
-
-◼️
-
-[Data](articles/e5f1847f.json)
-
-[Extended Data](ext_articles/e5f1847f.ext.json)
-
----
-
-### President Meeting Rice Manufacturers
-
-*2024-12-03 02:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-உற்பத்தியாளர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-348147) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake met rice mill owners. Discussed: maintaining affordable rice prices, increasing storage capacity, promoting local rice in value-added products, implementing QR system for fertilizer subsidies, introducing index system.
-
-🟩
-
-A discussion between President Anura Kumara Dissanayake and the owners of small and medium rice mills was held yesterday at the Presidential Office.
-
-The president, speaking to the owners of small and medium rice mill in the coming months, discussed the need to continue to provide rice at a reasonable price without a shortage of consumers, and discussed the urgent measures to be taken.
-
-It was also discussed about the steps to be taken to increase the repository facilities in the country to provide rice to the people without scarcity.
-
-In addition, the use of the country's rice for value added products is also focused on the shortage of the reserves required for consumption.
-
-QR to use the fertilizer subsidy with the use of national products. The President also focused on the introduction of the index system. (A)
-
-◼️
-
-[Data](articles/03aad2c1.json)
-
-[Extended Data](ext_articles/03aad2c1.ext.json)
-
----
-
-### Japanese Ambassador to meet Senthil Thondaman
-
-*2024-12-03 01:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவர்-செந்தில்-தொண்டமானுடன்-சந்திப்பு/175-348146) · `ta`
-
-Japanese Ambassador ISOMATA AKIO meets Senthil Thondaman. Thondaman recalls Japan's aid to hill country residents and requests continued support. He invites the ambassador to visit the region.
-
-🟩
-
-The Japanese Ambassador to Sri Lanka, Somato Akio (ISOMATA AKIO), was held in honor of the Sri Lanka Workers Congress President Senthil Thondaman.
-
-During the meeting, Senthil Thondaman recalled that the Japanese embassy had provided massive assistance to the people of the hill country and demanded that strong assistance be provided to the people of the hill country.
-
-Senthil Thondaman has called for the first visit to the hill country as the new Japanese Ambassador is in charge of his duties.. (A)
-
-◼️
-
-[Data](articles/0278e388.json)
-
-[Extended Data](ext_articles/0278e388.ext.json)
-
----
-
-### What's this Tax Return?What will happen to thousands of causes of tax returns?
-
-*2024-12-03 01:27:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyvld25ly0o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Thousands face issues filing tax returns. Deadline was Nov 30. Website problems prevented many from submitting. Penalty: 5% income tax + 1% per month. Simplified report available for those with only one job/income. General report required otherwise. PIN issues common. Revenue Department requests email updates.
-
-🟩
-
-What's this Tax Return?What will happen to thousands of causes of tax returns?
-
-"I tear the two or a road. The systome didn't work, there was Carayi cordions. I gave up work, "Attempts to file revenue tax returns on November 30 told the Flavi to Sinhala.
-
-The BBC said to the Sinhala work that he was not able to provide the busy and unable to prepare the required file files, whether he knew that he was able to file tax returns from October to meet the bus records.
-
-"There are many people I have, so that it can't file this, think that there is a concession," he said.
-
-We observed that many others were unable to file tax records.
-
-2023/2024 Revenue taxes related to the year should have to end up on November 30.
-
-The media reports that nearly 16,000 people have been visited by the Department of Inland Revenue website to file a tax return on the last day.
-
-The Department of Inquiry was inquired by the Department of Inquiry as an extension of any concessionary or time to the tax returns to the due date.
-
-...
-
-[Data](articles/8de1aa26.json)
-
-[Extended Data](ext_articles/8de1aa26.ext.json)
-
----
-
-### In Jaffna
-
-*2024-12-03 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200275) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Jaffna: Two men arrested for refusing to feed flood victims. Ordered to explain actions. Protesters gather outside secretariat.
-
-🟩
-
-The Point Pedro Magistrate has ordered the two men who conflicted with the Grama Niladhari to explain the food.
-
-Two persons have been arrested on Sunday (01) for allegedly refusing to provide food to some families who were staying in the interim camps due to flood disaster in Vadamarachchi and Kalovalam areas.
-
-The police, who investigated the two men, ordered the two men to be interrogated on Monday (02) at the Point Pedro Magistrate's Court.
-
-At the same time, the families and relatives of the arrested were engaged in a protest in front of the Vadamarachchi North Divisional Secretariat on Monday (02).
-
-◼️
-
-[Data](articles/6ed6ef97.json)
-
-[Extended Data](ext_articles/6ed6ef97.ext.json)
-
----
-
-### 2024-12-02 (Monday)
-
-### One arrested in connection with the Vavuniya massacre
-
-*2024-12-02 22:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வவுனியா-படுகொலை-தொடர்பில்-ஒருவர்-கைது/72-348145) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Vavuniya massacre: One suspect detained by Omanthai police for murder of 5-year-old family members in Chemamadu and Ilamarathangulam areas due to old grudge. Police to appear in Vavuniya court; other suspects identified.
-
-🟩
-
-One person has been arrested by the Omanthai police on suspicion of murdering a man last evening in Vavuniya, Chemamadu and Ilamarathangulam.
-
-A five -year -old group of five -year -old family members had been hacked to death by a sword due to an old hostility in the Ilamarathangulam area of ​​the Omanthai police division.
-
-The police have taken steps to appear in the Vavuniya court and other suspects have been identified.. Remble
-
-◼️
-
-[Data](articles/209c9ab1.json)
-
-[Extended Data](ext_articles/209c9ab1.ext.json)
-
----
-
-### What will it take for a (quick) win on anti-corruption?
-
-*2024-12-02 22:37:14* · [`dailyftlk`](https://www.ft.lk/columns/What-will-it-take-for-a-quick-win-on-anti-corruption/4-769992) · `en`
-
-If the executive fails to act, the appropriate oversight committee of Parliament must act
-
-The elements of a solution can be discerned: Use the trial-at-bar and direct appeal to Supreme Court procedure used in Mahanama. Work out a solution, in the form of an amendment to the relevant statute if necessary, to expedite the appeal.
-
-But this will still not put a big fish behind bars within 12 months. But it will get the job done within the term of a government, unlike in the case of Premaratne who served in the 6th Parliament which ended in 2010. The case dragged on through the 7th, 8th, and 9th Parliaments
-
-I was at a meeting where a highly respected and experienced colleague said the Government must conclude a successful prosecution of a “big fish” within the first year or lose all credibility. They rode to power on the corruption narrative and have to deliver, he said.
-
-If he is right, I thought, the Government is in trouble. Unlike my colleague, I had done timelines for the big-fish cases.
-
-...
-
-[Data](articles/4d09883f.json)
-
-[Extended Data](ext_articles/4d09883f.ext.json)
-
----
-
-### History in the making!
-
-*2024-12-02 22:35:00* · [`islandlk`](http://island.lk/history-in-the-making/) · `en`
-
-Singer/composer Rajiv Sebastian says he has created history with the release of his latest music video, which is in the form of a duet with the veteran classical vocalist Bandula Wijeweera.
-
-Says Rajiv: “With the demise of the gutty Sunil Perera (of Gypsies fame), people assumed that there will be no celebrity to criticize Sri Lankan politicians, and my new music video, with Bandula Wijeweera, changes that misconception.”
-
-, according to Rajiv, is a surprising masterpiece in filling that vacuum.
-
-Rajiv, of course, has shared his creativity with many well-known singers, including the late Desmond De Silva, also the late Sunil Perera, Annesley, Sohan, Corrine (remember ‘Mage Konde Nathath’), Falan, as well as Yohani (‘Halmessa’), and his contributions have been well received over the past three decades.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/9d26b008.json)
-
-[Extended Data](ext_articles/9d26b008.ext.json)
-
----
-
-### Vote on Account and why
-
-*2024-12-02 22:32:12* · [`dailyftlk`](https://www.ft.lk/columns/Vote-on-Account-and-why/4-769991) · `en`
-
-This is the first time in the history of our legislature since the days of the first State Council of 1931 that a VOA will be proposed on the basis of a law passed by the Parliament. The recently enacted Public Financial Management Act No. 44 effective on 8 August 2024 has built in provisions for the submission of a VOA to the Parliament. Hence the examination of the background and procedure with respect to VOA is important and timely. A major legal deficiency that had been in existence for decades with respect to submission of VOA was circumvented by a law passed by the Parliament in 2024
-
-...
-
-[Data](articles/b980e2fe.json)
-
-[Extended Data](ext_articles/b980e2fe.ext.json)
-
----
-
-### How Yogendra Duraiswamy stood up to power and shone in public service
-
-*2024-12-02 22:21:00* · [`islandlk`](http://island.lk/how-yogendra-duraiswamy-stood-up-to-power-and-shone-in-public-service/) · `en`
-
-The right-thinking of Sri Lanka and the world over continue to recoil with horror on recollecting the vandalizing and burning of the Jaffna Public Library in the lead-up to the District Development Council (DDC) election in Northern Sri Lanka in mid-1981. The outrage was an acid test of the integrity of the J.R. Jayewardene regime of the time as well that of the country’s law-enforcers and public officials.
-
-The regime concerned and sections of those entrusted with keeping the law emerged from the veritable hell fires which were the torching of the Library, utterly disgraced. But this was not the case with, Yogendra Duraiswamy (YD), the senior public servant and Returning Officer in charge of conducting the relevant poll.
-
-...
-
-[Data](articles/1f494001.json)
-
-[Extended Data](ext_articles/1f494001.ext.json)
-
----
-
-### Bangladesh Employers’ Federation praises Employers’ Federation of Ceylon
-
-*2024-12-02 22:20:00* · [`islandlk`](http://island.lk/bangladesh-employers-federation-praises-employers-federation-of-ceylon/) · `en`
-
-A delegation representing the Bangladesh Employers Federation (BEF) recently concluded a two-day exchange program in Sri Lanka, organized under the initiative of the Bureau for Employers’ Activities (ACT/EMP) Dheli of the International Labour Organization (ILO) hosted by the Employers’ Federation of Ceylon (EFC).
-
-The delegation comprised of six officials from BEF, accompanied by three ILO officials. The purpose of the program was to provide a comprehensive understanding of how the Federation works and strengthens its legal services by catering to the requirements of its membership.
-
-During the visit, the delegation was introduced to the activities of the EFC, its membership strength and the broad spectrum of services provided by it, with special focus on litigation services.
-
-...
-
-[Data](articles/3b75eb3a.json)
-
-[Extended Data](ext_articles/3b75eb3a.ext.json)
-
----
-
-### Market volatility forces Abans to postpone debenture issue by a week
-
-*2024-12-02 22:17:00* · [`islandlk`](http://island.lk/market-volatility-forces-abans-to-postpone-debenture-issue-by-a-week/) · `en`
-
-Abans PLC said it was postponing its debenture issue by a week and changing the issue size due to market volatility.
-
-“The company has decided to postpone the debenture issue opening date to 10th December 2024 and the Issue Size considering the volatility in the market interest rates, CSE sources said.
-
-“The issue size is to be revised as follows; an initial Issue up to 3,000,000 listed, rated, unsecured, senior, redeemable debentures, they said.
-
-The consumer products retailer initially said it will issue 10 million listed, rated, unsecured, senior, redeemable, 5-year debentures at Rs 100 each.
-
-A further 10 million debentures was to be issues in the event of an oversubscription of the initial issue to raise a maximum amount of 2 billion, sources said.
-
-...
-
-[Data](articles/5d64351e.json)
-
-[Extended Data](ext_articles/5d64351e.ext.json)
-
----
-
-### New Secretary to Ministry of Women and Child Affairs appointed
-
-*2024-12-02 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103939/new-secretary-to-ministry-of-women-and-child-affairs-appointed) · `en`
-
-President Anura Kumara Dissanayake has officially appointed K.D.R. Olga as the Secretary to the Ministry of Women and Child Affairs, the President’s Media Division (PMD) reported.
-
-The appointment letter was formally presented to Ms. Olga by the Secretary to the President, Dr. Nandika Sanath Kumanayake today (02) at the Presidential Secretariat in Colombo.
-
-◼️
-
-[Data](articles/7e7fc319.json)
-
-[Extended Data](ext_articles/7e7fc319.ext.json)
 
 ---

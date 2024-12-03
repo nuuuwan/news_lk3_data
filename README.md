@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 05:52:19**
+As of **2024-12-03 06:48:00**
 
 ## Newspaper Stats
 
-*Scraped **58,140** Articles*
+*Scraped **58,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,496
 adaderanalk | 7,047
-tamilmirrorlk | 8,260
+tamilmirrorlk | 8,261
 virakesarilk | 9,520
 adaderanasinhalalk | 10,038
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,133 (100.0%) of 58,140 articles have been extended.
+58,135 (100.0%) of 58,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,6 +234,26 @@ The visit highlighted the growing partnership between the two companies and demo
 
 ---
 
+### அரிசி உற்பத்தியாளர்களுடன் ஜனாதிபதி சந்திப்பு
+
+*2024-12-03 02:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-உற்பத்தியாளர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-348147) · `ta`
+
+ஜனாதிபதி அநுரகுமார திஸநாயக்கவிற்கும் சிறிய மற்றும் நடுத்தர அரிசி ஆலை உரிமையாளர்களுக்கும் இடையிலான கலந்துரையாடல் நேற்று ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+எதிர்வரும் மாதங்களில் நுகர்வோருக்கு தட்டுப்பாடின்றி நியாயமான விலையில் தொடர்ச்சியாக அரிசி வழங்க வேண்டியதன் அவசியத்தை சிறு மற்றும் நடுத்தர அரிசி ஆலை உரிமையாளர்களிடம் எடுத்துரைத்த ஜனாதிபதி, அதற்காக எடுக்க வேண்டிய அவசர நடவடிக்கைகள் குறித்தும் அவர்களுடன் கலந்துரையாடினார்.
+
+மக்களுக்கு தட்டுப்பாடின்றி அரிசியை வழங்கும் வகையில் நாட்டில் களஞ்சிய வசதிகளை அதிகரிப்பதற்கு மேற்கொள்ளப்பட வேண்டிய நடவடிக்கைகள் தொடர்பிலும் இதன் போது கலந்துரையாடப்பட்டது.
+
+அத்தோடு, பெறுமதி சேர்க்கும் உற்பத்திகளுக்கு நாட்டு அரிசியை பயன்படுத்துவதால், நுகர்வுக்கு தேவையான இருப்புகளில் தட்டுப்பாடு நிலவுவது குறித்தும் இங்கு கவனம் செலுத்தப்பட்டது.
+
+உர மானியத்தை தேசிய உற்பத்திக்கான செயற்திறனுடன் பயன்படுத்தும் நோக்கில் கியூ.ஆர். குறியீட்டு முறைமை அறிமுகப்படுத்துவது தொடர்பிலும் இதன்போது ஜனாதிபதி கவனம் செலுத்தினார். (a)
+
+◼️
+
+[Data](articles/03aad2c1.json)
+
+---
+
 ### Japanese Ambassador to meet Senthil Thondaman
 
 *2024-12-03 01:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவர்-செந்தில்-தொண்டமானுடன்-சந்திப்பு/175-348146) · `ta`
@@ -354,6 +374,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/9d26b008.json)
 
+[Extended Data](ext_articles/9d26b008.ext.json)
+
 ---
 
 ### Vote on Account and why
@@ -381,6 +403,8 @@ The regime concerned and sections of those entrusted with keeping the law emerge
 ...
 
 [Data](articles/1f494001.json)
+
+[Extended Data](ext_articles/1f494001.ext.json)
 
 ---
 
@@ -2397,25 +2421,5 @@ Despite the long coastline, and domestic manufacturers of leisure boats, there w
 [Data](articles/a77807fa.json)
 
 [Extended Data](ext_articles/a77807fa.ext.json)
-
----
-
-### Sri Lanka eyes mini marinas in 21 fishery harbours to push blue economy
-
-*2024-12-02 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-expand-blue-economy-with-mini-marinas-in-21-fishery-harbours-official-191144/) · `en`
-
-ECONOMYNEXT – Sri Lanka has untapped potential in marine linked activities, with 1,340 kilometres of coastline and two seasons that allow year-round action, and can be expanded into a billion US dollar industry quickly, an industry official said.
-
-“The geographical location offers yacht chartering, boating, whale watching, whatever you call, all the sea-based activities,” Kaushal Rajapaksa, Chairman, Chamber of Marine Industries of Sri Lanka told participants of Voyage Sri Lanka 2024, a forum organized by the island’s Export Development Board.
-
-“You can enjoy the sea year-round as well as sea-based activities. Expanding technological capacity and maritime services, we have advanced capabilities in boat building and whatever the activity is related to maritime.”
-
-Despite the long coastline, and domestic manufacturers of leisure boats, there was a dearth of yacht marinas to get the sector moving.
-
-...
-
-[Data](articles/ba341250.json)
-
-[Extended Data](ext_articles/ba341250.ext.json)
 
 ---

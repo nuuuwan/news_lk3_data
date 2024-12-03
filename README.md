@@ -1,36 +1,322 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 07:31:01**
+As of **2024-12-03 09:01:37**
 
 ## Newspaper Stats
 
-*Scraped **58,142** Articles*
+*Scraped **58,159** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
-bbccomsinhala | 604
+bbccomsinhala | 605
 islandlk | 3,497
 economynextcom | 3,528
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,496
-adaderanalk | 7,047
-tamilmirrorlk | 8,262
+adalk | 5,498
+adaderanalk | 7,052
+tamilmirrorlk | 8,264
 virakesarilk | 9,520
-adaderanasinhalalk | 10,038
+adaderanasinhalalk | 10,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,135 (100.0%) of 58,142 articles have been extended.
+58,143 (100.0%) of 58,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### US Assistant Secretary of State to visit Sri Lanka
+
+*2024-12-03 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103944/us-assistant-secretary-of-state-to-visit-sri-lanka) · `en`
+
+US Assistant Secretary of State for the Bureau of South and Central Asian Affairs Donald Lu is scheduled to travel to India, Sri Lanka, and Nepal from December 3 to December 10, the US Embassy in Colombo said in a statement.
+
+His trip will strengthen cooperation with key partners in South Asia to promote regional prosperity and security, the US Embassy said.
+
+In New Delhi, India, Assistant Secretary Lu will support U.S.-India collaboration in the Indo-Pacific and beyond.
+
+He will join Assistant Secretary of State for the Bureau of East Asian and Pacific Affairs Daniel Kritenbrink to lead U.S. participation in the U.S.-India East Asia Consultations.
+
+The Consultations, along with separate meetings with senior Indian officials, will provide an opportunity to exchange perspectives on global and regional issues, the statement added.
+
+...
+
+[Data](articles/4f112bfd.json)
+
+---
+
+### Parliament to debate govt’s policy statement today
+
+*2024-12-03 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103943/parliament-to-debate-govts-policy-statement-today) · `en`
+
+The Parliament is scheduled to convene at 9.30 a.m. today (03), presided over by Speaker Dr. Asoka Ranwala.
+
+The debate on the government’s policy statement is scheduled to take place today, and will continue tomorrow (04).
+
+Accordingly, the motion on the statement of the Government Policy presented recently in Parliament by the President will be debated from 9:30 a.m. to 5:30 p.m. today.
+
+Meanwhile, a division on the Motion has been scheduled for at 5.00 p.m. tomorrow, the Parliamentary Communications Department said.
+
+The debate on the Resolution on the Vote on Account with regard to the first four months of 2025 will be carried out on December 05 and 06 from 9:30 a.m. to 5:30 p.m.
+
+◼️
+
+[Data](articles/a00c4889.json)
+
+---
+
+### Eight Indonesians arrested without valid visas
+
+*2024-12-03 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103942/eight-indonesians-arrested-without-valid-visas) · `en`
+
+Eight foreign nationals who were residing in the country without valid visas in violation of immigration and emigration regulations have been arrested.
+
+The relevant group of suspects was arrested last evening (02) in the Hawa Eliya area in Nuwara Eliya police division.
+
+The group includes eight Indonesian nationals aged between 28 and 65 years, according to police.
+
+Nuwara Eliya police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/9ec44090.json)
+
+---
+
+### Five dies of accidents
+
+*2024-12-03 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203978) · `si`
+
+5 die in road accidents across island. 3 women among victims. Collisions reported in Kahathuduwa, Hanwella, Matara, Pallama. Pedestrian, bus passenger, motorcyclist killed.
+
+🟩
+
+Five persons including three women were killed in road accidents in several parts of the island.
+
+The accident had occurred at the police division of Kahathuduwa, Hanwella, Hanwella, Matara and Pallama.
+
+A car collided with a pedestrian rode from the junction of the Kottawa-Talagala road on the road.
+
+The victim was taken to the Homagama hospital and was admitted to the Homagama Hospital.
+
+The deceased has been identified as a 74 year old resident of Homagama.
+
+Meanwhile, a private bus slippled with a private bus near the city of Hanwella town on the Colombo Old Road
+
+Pedestrian woman who was seriously injured in the accident has died in admission to the hallway room
+
+A safari head on the Kirindawela - Kirinda main road was killed in a motorcycle accident.
+
+Meanwhile, a car traveled by a car traveled by a car through the junction of the Matara-Hakmana road.
+
+The victim was admitted to the Matara hospital and died on admission to the Karapitiya Hospital for further treatment.
+
+...
+
+[Data](articles/a8e092eb.json)
+
+[Extended Data](ext_articles/a8e092eb.ext.json)
+
+---
+
+### Several senior police officers transferred
+
+*2024-12-03 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103941/several-senior-police-officers-transferred) · `en`
+
+The Police Media Division said that several senior Police officers, including Deputy Inspector Generals of Police (DIGs) have been transferred.
+
+Director CID SSP E.M.M.S. Dehideniya has been transferred to Nugegoda Division and Female SSP H.W.I.S. Muthumala takes over as Director of CID.
+
+◼️
+
+[Data](articles/915f1d4e.json)
+
+---
+
+### Misty conditions expected during the morning
+
+*2024-12-03 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103940/misty-conditions-expected-during-the-morning) · `en`
+
+A few showers will occur in Eastern provinces, says the Department of Meteorology.
+
+Misty conditions can be expected most places of the island during the morning, it said.
+
+◼️
+
+[Data](articles/8e9f8cb7.json)
+
+---
+
+### A / L examination will be rescued from tomorrow
+
+*2024-12-03 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203977) · `si`
+
+GCE A/L exam resumes tomorrow after weather delay. Originally started on 25th, heavy rain caused suspension. Commissioner says affected subjects will be rescheduled soon.
+
+🟩
+
+The Advanced Level Examination of the 2024 GCE Advanced Level Examination will be resumed from tomorrow due to inclement weather.
+
+This time the GCE A / L examination commenced on the 25th and the heavy rains were temporarily suspended.
+
+The Examinations Commissioner General of Examinations said that the examination will be resumed from tomorrow and the examination will be held tomorrow.
+
+The Commissioner General of Examinations said that the subjects on the days of not the examination were scheduled to be held in the coming days.
+
+◼️
+
+[Data](articles/779d6bac.json)
+
+[Extended Data](ext_articles/779d6bac.ext.json)
+
+---
+
+### இன்றும் மழை பெய்யக் கூடும்
+
+*2024-12-03 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை-பெய்யக்-கூடும்/175-348150) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று சிறிதளவில் மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மட்டக்களப்பிலிருந்து திருகோணமலை ஊடாக காங்கேசந்துறை வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளில் சில பல இடங்களில் மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பிரதானமாகச் சீரான வானிலை நிலவும் என எதிர்பார்க்கப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/a7df9f1a.json)
+
+---
+
+### பாராளுமன்றம் இன்று கூடும்
+
+*2024-12-03 08:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-இன்று-கூடும்/175-348149) · `ta`
+
+பாராளுமன்றம் இன்று செவ்வாய்க்கிழமை முற்பகல் 9.30 மணிக்கு சபாநாயகர் அசோக ரன்வல தலைமையில் கூடுகின்றது.
+
+10 ஆவது பாராளுமன்றத்தின் ஆரம்ப அமர்வு நவம்பர் 21 ஆம் திகதி நடைபெற்றது. அன்றையதினம் சபாநாயகர் தெரிவு, பிரதி சபாநாயகர் தெரிவு, குழுக்களின் பிரதி தவிசாளர் தெரிவு, பாராளுமன்ற உறுப்பினர்களின் உறுதியேற்பு என்பன இடம்பெற்றன.
+
+அதன்பின்னர் சபை ஒத்திவைக்கப்பட்ட பிறகு ஜனாதிபதியின் கொள்கை விளக்க உரை இடம்பெற்றிருந்தது. (a)
+
+◼️
+
+[Data](articles/fe25abfd.json)
+
+---
+
+### Sri Lanka on behalf of Sri Lanka on the evening of the US State Department Assistant Secretary
+
+*2024-12-03 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203976) · `si`
+
+US State Department official Donald Lu visits Sri Lanka, India, Nepal to strengthen regional ties and discuss economic reforms with new Sri Lankan government leaders.
+
+🟩
+
+Mr. Donald on the Southern and Central Institutional Department of America Donald Lune is to visit Sri Lanka.
+
+He is due to visit India while traveling in India and Nepal.
+
+Donald Luh is due to arrive in Sri Lanka (05).
+
+Donald Lu's visit is aimed at strengthening cooperation with the main partners in South Asia to promote the pre-prosperity prosperity and security.
+
+The US State Department stated that plans have been made to discuss the economic reforms with the new government heads of Sri Lanka.
+
+After India, Donald Luader, who arrived in the country, is also scheduled to visit Nepal.
+
+◼️
+
+[Data](articles/c3863ed7.json)
+
+[Extended Data](ext_articles/c3863ed7.ext.json)
+
+---
+
+### පොලීසියේ ඉහළ පුටු රැසකට ස්ථානමාරු
+
+*2024-12-03 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203975) · `si`
+
+නියෝජ්‍ය පොලිස්පතිවරුන් ඇතුළු ජ්‍යෙෂ්ඨ පොලිස් නිලධාරින් 54 දෙනෙකුට ස්ථාන මාරුවීම් ලබා දී තිබේ.
+
+ජාතික පොලිස් කොමිෂන් සභාව මගින් වහාම ක්‍රියාත්මක වන පරිදි නියෝජ්‍ය පොලිස්පතිවරුන් 5 දෙනෙකු, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන් 35 දෙනෙකුට ස්ථාන මාරුවීම් ලබාදී ඇති බව පොලිස් මූලස්ථානය පැවසීය.
+
+ඊට අමතරව පොලිස් අධිකාරීවරුන් 7 දෙනෙකු සහ සහකාර පොලිස් අධිකාරීවරුන් 7 දෙනෙකුට ද ස්ථාන මරුවීම් ලබාදී තිබේ.
+
+ඒ අනුව, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂක තනතුරේ සිටි කාන්තා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී එච්.ඩබ්ලිව්.අයි.එස් මුතුමාල මහත්මිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ලෙස පත්කර ඇති බව පොලිස් මූලස්ථානය පැවසීය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ලෙස කටයුතු කළ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ඊ.එම්.එම්.එස් දෙහිදෙණිය මහතා නුගේගොඩ කොට්ඨාස භාර නිලධාරීවරයා ලෙස මාරුකර තිබේ.
+
+◼️
+
+[Data](articles/956e6b86.json)
+
+---
+
+### වීසා නැතිව සිටි විදේශිකයින් 08ක් අත්අඩංගුවට
+
+*2024-12-03 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203974) · `si`
+
+වීසා නොමැතිව මෙරට රැඳී සිටි විදේශිකයන් 08 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ 02) සවස් කාලයේ නුවරඑළිය පොලිස් වසමේ හාවාඑළිය ප්‍රදේශයේදී එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 28 ත් 65 ත් අතර වයස්වල පසු වන ඉන්දුනීසියානු ජාතිකයින් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/dea14c4d.json)
+
+---
+
+### පාර්ලිමේන්තුව අද රැස්වෙයි
+
+*2024-12-03 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203973) · `si`
+
+පාර්ලිමේන්තුව අද (03) කථානායක අශෝක රංවල මහතාගේ ප්‍රධානත්වයෙන් රැස්වීමට නියමිතව තිබේ.
+
+අද පෙරවරු 09.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර එහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද යෝජනාව පිළිබද විවාදය සිදුකිරීමට නියමිතය.
+
+පාර්ලිමේන්තු මහ ලේකම් කාර්යාලය පැවසුවේ අදාළ විවාදය අද සහ හෙට යන දෙදින තුළ පැවැත්වීමට නියමිත අතර ඊට අදාළ ඡන්ද විමසීම හෙට පස්වරු 5ට පැවැත්වීමට සැලසුම් කර ඇති බවය.
+
+මෙම සතිය තුළ පාර්ලිමේන්තුව ලබන 6 වන දින දක්වා පැවැත්වීමට නියමිත අතර 2025 වසරේ පළමු මාස 4 සදහා වන ආණ්ඩුවේ අතුරු සම්මත ගිණුමට අදාළ යෝජනාව දෙසැම්බර් මස 5 වන දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+ඊට අදාළ විවාදය දෙසැම්බර් 5 සහ 6 යන දෙදින පැවැත්වීමට නියමිතය.
+
+එමෙන්ම 10 වන පාර්ලිමේන්තුවේ තේරීම්කාරක සභාව ස්ථාපිත කිරීම ද අද සිදුකිරීමට සැලසුම් කර තිබේ.
+
+මේ අතර පාර්ලිමේන්තුවේ මුදල් කාරක සභාවේ සභාපති ධුරයට සමගි ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී  ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ නම යෝජනා කිරීමට විපක්ෂයේ පක්ෂ නායකයින් තීරණය කර තිබේ.
+
+...
+
+[Data](articles/081335bb.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-12-03 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203972) · `si`
+
+නැගෙනහිර පළාතේ අද (03) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සෙසු ප්‍රදේශවල ප්‍රධාන  වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පැවතිය හැකි බවය.
+
+මේ අතර මඩකලපුව සිට  සිට  ත්‍රිකුණාමලය හරහා  කන්කසන්තුරය දක්වාවන මුහුදු ප්‍රදේශවල  ස්ථාන ස්වල්පයක වැසි ඇති වේ.
+
+දිවයින වටා වන මුහුදු ප්‍රදේශවල සුළං නිශ්චිත දිශාවකින් තොරව හමන අතර සුළං වේගය පැ.කි.මී. (20-30) පමණ වේ.
+
+දිවයින වටා වන මුහුදු ප්‍රදේශ සාමාන්‍ය ස්වභාවයේ පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/67bee004.json)
+
+---
 
 ### Rilvin's opinion should be expressed by the government - Dr. P. Sathiyalingam MP
 
@@ -234,41 +520,61 @@ The visit highlighted the growing partnership between the two companies and demo
 
 ---
 
-### இந்திய உயர்ஸ்தானிகர் சபாநாயகருடன் சந்திப்பு
+### Meeting with Indian High Commissioner Speaker
 
 *2024-12-03 02:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-சபாநாயகருடன்-சந்திப்பு/175-348148) · `ta`
 
-சபாநாயகர் கலாநிதி அசோக ரன்வல மற்றும் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோருக்கிடையிலான சந்திப்பொன்று நேற்று பாராளுமன்ற கட்டடத் தொகுதியில் இடம்பெற்றுள்ளது.
+Here's a summary of 200 characters:
 
-இலங்கை மற்றும் இந்தியா இடையிலான நீண்டகால உறவுகள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டதாக பாராளுமன்ற தொடர்பாடல் திணைக்களம் தெரிவித்துள்ளது.
 
-அத்துடன், இரு நாடுகளுக்கும் இடையிலான பொருளாதார, வர்த்தக விவகாரங்கள் மற்றும் தொழில்நுட்ப அறிவு பரிமாற்றம் உள்ளிட்ட பல முக்கிய விடயங்கள் குறித்தும் கவனம் செலுத்தப்பட்டதாகக் குறிப்பிடப்படுகிறது.
 
-இந்த நிலையில், பாராளுமன்ற உறுப்பினர்கள் மற்றும் ஊழியர்களுக்கான கருத்து பரிமாற்ற நிகழ்வுகளை நடத்துவதற்கு எதிர்பார்த்துள்ளதாக இந்திய உயர்ஸ்தானிகர் தெரிவித்துள்ளார் என பாராளுமன்ற தொடர்பாடல் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+Dr. Asoka Ranwala met Indian High Commissioner Santosh Ja. They discussed long-term relations, economic & trade affairs, and technical knowledge exchange between Sri Lanka and India. The High Commissioner plans to organize a conversation event for parliamentarians and staff.
+
+🟩
+
+A meeting between Speaker Dr. Asoka Ranwala and Indian High Commissioner Santosh Ja was held in the Parliament building yesterday.
+
+The Parliamentary Communications Department said that the long -term relations between Sri Lanka and India were discussed.
+
+In addition, a number of important issues, including economic, trade affairs and technical knowledge exchange between the two countries, have been focused.
+
+The Department of Parliamentary Communication has stated that the Indian High Commissioner has stated that he is looking forward to conducting a conversion event for parliamentarians and employees.. (A)
 
 ◼️
 
 [Data](articles/e5f1847f.json)
 
+[Extended Data](ext_articles/e5f1847f.ext.json)
+
 ---
 
-### அரிசி உற்பத்தியாளர்களுடன் ஜனாதிபதி சந்திப்பு
+### President Meeting Rice Manufacturers
 
 *2024-12-03 02:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-உற்பத்தியாளர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-348147) · `ta`
 
-ஜனாதிபதி அநுரகுமார திஸநாயக்கவிற்கும் சிறிய மற்றும் நடுத்தர அரிசி ஆலை உரிமையாளர்களுக்கும் இடையிலான கலந்துரையாடல் நேற்று ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+Here's a summary of 200 characters:
 
-எதிர்வரும் மாதங்களில் நுகர்வோருக்கு தட்டுப்பாடின்றி நியாயமான விலையில் தொடர்ச்சியாக அரிசி வழங்க வேண்டியதன் அவசியத்தை சிறு மற்றும் நடுத்தர அரிசி ஆலை உரிமையாளர்களிடம் எடுத்துரைத்த ஜனாதிபதி, அதற்காக எடுக்க வேண்டிய அவசர நடவடிக்கைகள் குறித்தும் அவர்களுடன் கலந்துரையாடினார்.
 
-மக்களுக்கு தட்டுப்பாடின்றி அரிசியை வழங்கும் வகையில் நாட்டில் களஞ்சிய வசதிகளை அதிகரிப்பதற்கு மேற்கொள்ளப்பட வேண்டிய நடவடிக்கைகள் தொடர்பிலும் இதன் போது கலந்துரையாடப்பட்டது.
 
-அத்தோடு, பெறுமதி சேர்க்கும் உற்பத்திகளுக்கு நாட்டு அரிசியை பயன்படுத்துவதால், நுகர்வுக்கு தேவையான இருப்புகளில் தட்டுப்பாடு நிலவுவது குறித்தும் இங்கு கவனம் செலுத்தப்பட்டது.
+Pres. Anura Kumara Dissanayake met rice mill owners. Discussed: maintaining affordable rice prices, increasing storage capacity, promoting local rice in value-added products, implementing QR system for fertilizer subsidies, introducing index system.
 
-உர மானியத்தை தேசிய உற்பத்திக்கான செயற்திறனுடன் பயன்படுத்தும் நோக்கில் கியூ.ஆர். குறியீட்டு முறைமை அறிமுகப்படுத்துவது தொடர்பிலும் இதன்போது ஜனாதிபதி கவனம் செலுத்தினார். (a)
+🟩
+
+A discussion between President Anura Kumara Dissanayake and the owners of small and medium rice mills was held yesterday at the Presidential Office.
+
+The president, speaking to the owners of small and medium rice mill in the coming months, discussed the need to continue to provide rice at a reasonable price without a shortage of consumers, and discussed the urgent measures to be taken.
+
+It was also discussed about the steps to be taken to increase the repository facilities in the country to provide rice to the people without scarcity.
+
+In addition, the use of the country's rice for value added products is also focused on the shortage of the reserves required for consumption.
+
+QR to use the fertilizer subsidy with the use of national products. The President also focused on the introduction of the index system. (A)
 
 ◼️
 
 [Data](articles/03aad2c1.json)
+
+[Extended Data](ext_articles/03aad2c1.ext.json)
 
 ---
 
@@ -291,6 +597,28 @@ Senthil Thondaman has called for the first visit to the hill country as the new 
 [Data](articles/0278e388.json)
 
 [Extended Data](ext_articles/0278e388.ext.json)
+
+---
+
+### මොකක් ද මේ Tax Return? බදු වාර්තා ගොනු කරන්න බැරිවුණු දහස් ගණනකට කුමක් වෙයි ද?
+
+*2024-12-03 01:27:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyvld25ly0o) · `si`
+
+මොකක් ද මේ Tax Return? බදු වාර්තා ගොනු කරන්න බැරිවුණු දහස් ගණනකට කුමක් වෙයි ද?
+
+“මම දෙතුන් පාරක් ට්‍රයි කරලා බැලුවා. සිස්ටම් එක වැඩ කළේ නැහැ, කැරකි කැරකි තිබුණා. මම වැඩේ අතඇරලා දැම්මා,” යි නොවැම්බර් 30 වන දා ආදායම් බදු වාර්තා ගොනු කිරීමට ගත් උත්සහය අසාර්ථක වූ චතුර බීබීසී සිංහල සේවයට පැවසීය.
+
+පෞද්ගලික බැංකුවක රැකියාවේ නියුතු ඔහු ඔක්තෝබර් මාසයේ සිට බදු වාර්තා ගොනු කිරිමට හැකි බව දැන සිටිය ද කාර්ය බහුලත්වය හා අවශ්‍ය ලිපි ගොනු සකස් කර ගැනීමට නොහැකි වීම මත අවසන් දිනට පෙර වාර්තා ලබා දීමට නොහැකි වී යැයි බීබීසි සිංහල සේවයට සඳහන් කළේ ය.
+
+“මම වගේ හුඟක් අය ඉන්නවා මේක ෆයිල් කර ගන්න බැරි වෙච්ච ඒ නිසා මොකක් හරි සහනයක් ලැබෙයි කියලා හිතනවා,” යි චතුර කියා සිටියේ ය.
+
+තවත් බොහෝ පිරිසකට බදු වාර්තා ගොනු කර ගැනීමට නොහැකි වී ඇති බව අපට නිරීක්ෂණය විය.
+
+2023/2024 වර්ෂයට අදාළ ආදායම් බදු වාර්තා නොවැම්බර් 30 වන දා වන විට ගොනු කර අවසන් විය යුතුව තිබිණි.
+
+...
+
+[Data](articles/8de1aa26.json)
 
 ---
 
@@ -440,6 +768,8 @@ During the visit, the delegation was introduced to the activities of the EFC, it
 
 [Data](articles/3b75eb3a.json)
 
+[Extended Data](ext_articles/3b75eb3a.ext.json)
+
 ---
 
 ### Market volatility forces Abans to postpone debenture issue by a week
@@ -459,6 +789,8 @@ A further 10 million debentures was to be issues in the event of an oversubscrip
 ...
 
 [Data](articles/5d64351e.json)
+
+[Extended Data](ext_articles/5d64351e.ext.json)
 
 ---
 
@@ -1057,6 +1389,24 @@ After years of lobbying by island nations who fear they could simply disappear u
 [Data](articles/a47702a1.json)
 
 [Extended Data](ext_articles/a47702a1.ext.json)
+
+---
+
+### සුරාබදු නොගෙවූ මත්පැන් නිෂ්පාදනාගාරයක නිෂ්පාදන කටයුතු අත්හිටුවයි
+
+*2024-12-02 18:58:42* · [`adalk`](https://www.ada.lk/breaking_news/සුරාබදු-නොගෙවූ-මත්පැන්-නිෂ්පාදනාගාරයක-නිෂ්පාදන-කටයුතු-අත්හිටුවයි/11-413414) · `si`
+
+වංකානෛ පිහිටි වලිකාමම් මත්පැන් නිෂ්‍පාදනාගාරයට අදාළව හිඟ සුරාබදු ගෙවන තෙක් මල්පැන් නිෂ්පාදන කටයුතු අත්හිටුවීමට කටයුතු කර තිබෙන බව සුරාබදු දෙපර්තමේන්තුව සඳහන් කරයි.
+
+නියමිත බදු නොගෙවූ ආයතනයන්ට හිඟ බදු මුදල් ගෙවා නිමකිරීම සඳහා පසුගිය 30වන දින දක්වා කාලය ලබා දී තිබූ බවද එම දෙපාර්තමේන්තුව අද (02දා) මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේය.
+
+වැලිසර ඩබ්ලිව්.එම්.මෙන්ඩිස් සහ සමාගම, කුරුණෑගල රෝයල් සිලෝන් ඩිස්ටිලරිස් පුද්ගලික සමාගම, මීගොඩ මැකලම් බෲවරි සමාගම (දැනට ක්‍රියාත්මක නැත) විසින් ගෙවිය යුතු හිඟ බදු අධිභාර සම්බන්ධයෙන් සුරාබදු දෙපාර්තමේන්තුවට එරෙහිව අධිකරණමය ක්‍රියාවලියකට යොමු වී තිබෙන බවද පෙන්වා දී ඇත.
+
+එම නඩු කෘත්‍යන්ට අදාළ නඩු තීන්දු අනුව ඉදිරි පියවර ගන්නා බවද සඳහන් කරයි.දැනට ක්‍රියාත්මක නොවන ලුණුවිල ග්ලෝබ් බ්ලෙන්ඩර්ස් හා වයඹ ස්ප්‍රිතු සමාගම  හා පයාගත සමුපකාර මත්පැන් නිෂ්‍පාදනාගාරවලට අදාළ සමාගම් සම්බන්ධ අයිතිය තහවුරු කර ගැනීම් කටයුතු මේ වන විට අරඹා තිබෙන අතර, ඉන්පසුව එම සමාගම්වලට අදාළ හිඟ බදු අයකර ගැනීම් සඳහා නීතිමය පියවර ගැනීමට නියමිත බවද එම නිවේදනයේ සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/18891fe6.json)
 
 ---
 
@@ -1989,435 +2339,5 @@ Last week, the rice mill owners have been released to a kilo of nadu rice, Rs. 2
 [Data](articles/0f790a05.json)
 
 [Extended Data](ext_articles/0f790a05.ext.json)
-
----
-
-### 2024 General Election: Deadline to submit candidates’ expense reports
-
-*2024-12-02 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103929/2024-general-election-deadline-to-submit-candidates-expense-reports) · `en`
-
-The Election Commission says that candidates who contested in the 2024 General Election, along with the secretaries of the parties they represented and the leaders of the independent groups, are required to submit their expense reports by December 06, 2024.
-
-In a statement, the commission said that the reports should be prepared separately and submitted to the respective District Returning Officer in the districts where the candidates contested, on or before midnight, December 6.
-
-The election regulatory body also stated that candidates on the National Lists must submit their income and expenditure reports to the commission.
-
-To facilitate this process, arrangements have also been made to set up special units in all districts to accept the income and expenditure reports, the election commission added.
-
-...
-
-[Data](articles/db154b90.json)
-
-[Extended Data](ext_articles/db154b90.ext.json)
-
----
-
-### Upcountry train operations obstructed
-
-*2024-12-02 16:00:37* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියක්-පීලි-පනියි---උඩරට-දුම්රිය-ධාවනයට-බාධා/11-413403) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Upcountry train operations disrupted due to filled bunkers at Nawalapitiya and Galabada Railway Stations. Trains from Badulla to Colombo affected until further notice.
-
-🟩
-
-The Nawalapitiya Railway Control Room said that due to the running of the upcountry trains traveling from Colombo Fort to Badulla, the Nawalapitiya Railway Control Room said.
-
-The filled bunkens occurred at around 3.15 pm at Nawalapitiya and the Galabada Railway Station at around 3.15 pm.
-
-Train to train from Badulla to Colombo until the pilling train will be operated from Badulla to Colombo.
-
-The officer added that the filled trains will be fully accumulated.
-
-◼️
-
-[Data](articles/f43fa4da.json)
-
-[Extended Data](ext_articles/f43fa4da.ext.json)
-
----
-
-### After all my meetings, WIP. Do not chairs
-
-*2024-12-02 15:51:25* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-රැස්විම්-වලට-මින්-පස්සේ-වි-අයි-පි--පුටු-එපා/11-413402) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Minister Chandana Abeyratne addresses festival costs at Anamaduwa event. Emphasizes reducing unnecessary expenses. Highlights literary contributions. Awards presented at Puttalam District Lighter Festival.
-
-🟩
-
-After this, the ministers and MPs are coming to none. I am ready to educate the institutions about reducing the cost of reducing the cost of all my festivals. Public Administration Provincial Councils and Local Government Affairs Minister Chandana Abeyratne said that we could have to bring us the WIP.
-
-The Minister was speaking at a meeting organized by the Anamaduwa Sudampayaka hall for the Puttalam District Lighter Festival.
-
-The State Literary Festival, which was chaired by Governor Tissa Warrant, was chaired by Governor Tissa Parisuri.
-
-The Minister of Public Administration is not a beautiful place in the past.
-
-So I don't want to spend anything of the festivals and to waste money to the world. In front of the festivals, you have to spend any such unnecessary spending.
-
-...
-
-[Data](articles/014b5d31.json)
-
-[Extended Data](ext_articles/014b5d31.ext.json)
-
----
-
-### Three cops injured as development officers’ protest turns violent
-
-*2024-12-02 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103928/three-cops-injured-as-development-officers-protest-turns-violent-) · `en`
-
-Three police officers have been injured and hospitalised following the tense situation during a protest in front of the Ministry of Education at Isurupaya, Battaramulla this afternoon (02).
-
-Accordingly, a Sub-Inspector of Police (SI) and two constables have been injured during the tense situation that prevailed as the police attempted to disperse a group of Development Officers who were protesting in front of the Ministry of Education.
-
-Meanwhile, one of the injured police officers has been transferred to the ICU for further treatment, Ada Derana reporter said.
-
-It was reported that four protesters have been arrested in connection with the incident.
-
-The Development Officers had engaged in the demonstration demanding that they be made permanent in the teaching service.
-
-Earlier, it was reported that the Kottawa - Borella Road (174 bus route) was completely blocked for traffic in front of the Ministry of Education due to the protest by Development Officers.
-
-◼️
-
-[Data](articles/7cca31e6.json)
-
-[Extended Data](ext_articles/7cca31e6.ext.json)
-
----
-
-### Our parliamentary group will meet at 5 pm today
-
-*2024-12-02 15:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-பாராளுமன்ற-குழு-இன்று-மாலை-5-மணிக்கு-கூடும்/175-348119) · `ta`
-
-Here's a 200-character summary:
-
-
-
-SJB parliamentary committee meets at 5 pm today to discuss policy declaration debate in Parliament tomorrow.
-
-🟩
-
-The United People's Power (SJB) parliamentary committee, which will be attending the debate on the policy declaration of President Anura Kumara Dissanayake, to be held in Parliament tomorrow, will meet today at 5 pm.
-
-Parliamentarian Ajith P. Perera said our parliamentary committee would meet at 5 pm today to make these key decisions.
-
-◼️
-
-[Data](articles/9e63f857.json)
-
-[Extended Data](ext_articles/9e63f857.ext.json)
-
----
-
-### Our parliamentary group will meet today at 5 pm
-
-*2024-12-02 15:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-பாராளுமன்ற-குழு-இன்று-5-மணிக்கு-கூடும்/175-348119) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-SJB parliamentary committee meets today at 5 pm to prepare for tomorrow's debate on President Anura Kumara Dissanayake's declaration.
-
-🟩
-
-The United People's Power (SJB) parliamentary committee, which will be participating in the debate on the Declaration of President Anura Kumara Dissanayake, to be held in Parliament tomorrow (03), will meet today (02) at 5 pm.
-
-Parliamentarian Ajith P. Perera said that our parliamentary committee will meet today (02) at 5 pm to make these key decisions.
-
-◼️
-
-[Data](articles/d5a57b15.json)
-
-[Extended Data](ext_articles/d5a57b15.ext.json)
-
----
-
-### The new movie is ready for the name of 'Silk Smitha- Queen of South'
-
-*2024-12-02 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200235) · `ta`
-
-"New movie 'Silk Smitha: Queen of South' starring Chandrika Ravi as director Jayaram Sankaran. Produced by SP Vijay Amritraj, SDRI Movies. Film announcement video released on Silk Smitha's birthday."
-
-🟩
-
-The new movie is being made under the name of 'Silk Smita -Quin of South', embraced by actress Silk Smitha, who has been a glamorous virgin in the Indian film industry. The film crew has released a special video on this.
-
-Actress Chandrika Ravi is playing the role of director Jayaram Sankaran in the film 'Silk Smitha King of South'.
-
-The film crew has released the announcement of the film, which is being embarrassed by his autobiography today.. The film is being produced by SP Vijay Amritraj on behalf of SDRI Movies.
-
-The film crew, which has announced that the film will begin in January next year, has been released on a special video released today on his birthday.
-
-Also, Silk Smitha is a luxurious vehicle in a luxurious vehicle and a feeding for pets and his ardent fans are asking him to see the expectation of the film.
-
-◼️
-
-[Data](articles/8accdc94.json)
-
-[Extended Data](ext_articles/8accdc94.ext.json)
-
----
-
-### Carrom board case against former Minister Mahindananda recalls again
-
-*2024-12-02 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203960) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Case against former Sports Minister Mahindananda Aluthgamage reopens. Bribery Commission accuses him of importing/distributing 14,000 sports equipment items. He claims political revenge, denies wrongdoing. Trial adjourned until Dec 19. Defense seeks permission for medical treatment abroad.
-
-🟩
-
-A case against former Sports Minister Mahindananda Aluthgamage and former Chairman of the CWE and the CWE was taken up again.
-
-The three-member High Court consisting of Pradeep Hettiarachchi Pradeep Abeyratne and Mahen Weeraman.
-
-Bribery Commission filed a loss of Rs..
-
-Former Minister Mahindananda Aluthgamage presented a statement from the Order to the Order.
-
-He said that the Bribery Commission had launched four charges on the importation and distribution of 14,000 cabods and dim tables.
-
-The former Minister said that the importation of the cabode and dum planks had taken place.
-
-Accordingly, the allegations made by the imported and distribution of sports goods were laundering and the importation of the goods had to be imported from the courts.
-
-He said that his party was defeated by the 2015 presidential election and had followed the construction of the Joint Opposition with President Mahinda Rajapaksa.
-
-...
-
-[Data](articles/5413fc41.json)
-
-[Extended Data](ext_articles/5413fc41.ext.json)
-
----
-
-### Cuban government to obtain dengue eradication
-
-*2024-12-02 15:41:30* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-මර්දනය-සඳහා-කියුබානු-රජයේ-සහාය-ලබාගැනීමට-යයි/11-413401) · `si`
-
-Cuba offers dengue eradication aid to Sri Lanka: strengthening treatments, controlling mosquito breeding, sharing expertise and tools.
-
-🟩
-
-The new government is planning to strengthen treatment, consolidate mosquito breeding, and direct medicine, technical tools and experiences to control mosquito breeding and formal use of mosquitoes.Minister Dr. Nalinda Jayatissa has decided.
-
-These roles were revealed at a special meeting held at the Ministry of Health with the Secretary to the Ministry of Health and Mass Media Dr. Nalinda Jayatissa and Sri Lanka's Cuban Ambassador to Sri Lanka.
-
-Cuban dip of Cuban Danapakaya explained the success of the dengue menace in the meeting, said the Cuban government is willing to exchange the necessary expertise in Sri Lanka to eliminate dengue eradication in Sri Lanka.. The Ambassador also served to inform the Health Minister on several products used to repress mosquito larvae.
-
-...
-
-[Data](articles/1b08a416.json)
-
-[Extended Data](ext_articles/1b08a416.ext.json)
-
----
-
-### Sri Lanka stocks close up, retail interest in consumer goods segment
-
-*2024-12-02 15:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-retail-interest-in-consumer-goods-segment-191151/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader ASPI closed up 0.30 percent, or 39.93 points, at 13,228; while the more liquid S&P SL20 Index closed up 0.28 percent, or 11.04 points, at 3,916.
-
-Turnover was 2.3 billion. Most of this came from the food, beverage and tobacco sector (Rs645mn).
-
-“We saw local retail interest coming into the consumer good segment,” market participants said.
-
-Lion Brewery was up at 1,114.75, Ceylon Cold Stores was up at 64.90, and Distilleries was up at 31.80.
-
-“Interest was also seen in the construction sector; with news of projects picking up, lots of shares are getting activated.”
-
-Access Engineering saw investor interest; the share closed up at 28.50.
-
-Tokyo Cement was up at 60.60. ACL Cables was up at 95.80. Jat Holdings was up at 21.40. Lanka Aluminium was up at 28.50.
-
-Sierra Cables, for which Iconic Trust has announced a mandatory offer, closed down at 10.70.
-
-...
-
-[Data](articles/00a9cfa5.json)
-
-[Extended Data](ext_articles/00a9cfa5.ext.json)
-
----
-
-### Dileepa Pharisees and Shanil Kularatne sworn in as Supreme Court lawyers
-
-*2024-12-02 15:30:08* · [`adalk`](https://www.ada.lk/breaking_news/දිලීප-පීරීස්-සහ-ශනිල්-කුලරත්න-ශ්‍රේෂ්ඨාධිකරණ-නීතිඥවරු-ලෙස-දිවුරුම්-දෙති/11-413399) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Supreme Court lawyers Dileepa Pharisees and Shanil Kularatne sworn in as President's Counsel. Chief Justice Jayantha Jayasuriya also appointed. Mentioned cases include Avissawella murder, VAT case, Lakshman Kadirgamar assassination, and others.
-
-🟩
-
-Additional Solicitor Generals Dileepa Paripa and Shanil Kularatne sworn in as President's Counsel.
-
-Chief Justice Jayantha Jayasuriya was sworn in as President's Counsel at a champion held in the Supreme Court with the participation of Judges of the Supreme Court including Supreme Court, Court of Appeal.
-
-According to the Attorney General, Dileep Pararatne attached to the Attorney General, the Attorney General has nominated the Attorney General to President Anura Kumara Dissanayake.
-
-The Attorney-at-Law, a student of St. Thomas' College, Mt.Former President Gotabhaya Rajapakse, Tiran Alles Rada, Tiran Alles Rada Kidden Case, Tiran Eknaligoda, was led by the Kidden Case, Journalist.
-
-The student of Shantha Thomas' College, Mount Lavinia was held in 1996 as a lawyer in 1996 and was held in the 2006 lawyer, while the Government Counsel was borrowed over 27 years.He was also a law officer of the Navy Court.
-
-...
-
-[Data](articles/1eb018da.json)
-
-[Extended Data](ext_articles/1eb018da.ext.json)
-
----
-
-### Three killed and 32 killed in a sea turtle
-
-*2024-12-02 15:12:40* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදු-කැස්බෑවෙකුගේ-මස්-අනුභව-කළ-පුද්ගලයන්-03ක්-මරුට---32ක්-රෝහල්-ගත-කෙරේ/11-413398) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"3 Filipino nationals killed, 32 hospitalized after sea turtle attack. Incident leads to ban on turtles in the area."
-
-🟩
-
-Three Filipin nationals have been killed in a sea turtle, which is endangered.
-
-In addition, 32 others have been admitted to the hospital.
-
-The incident has stated that the turtles in the region will be banned.
-
-◼️
-
-[Data](articles/bd8a2db3.json)
-
-[Extended Data](ext_articles/bd8a2db3.ext.json)
-
----
-
-### Suspect arrested for promoting LTTE ‘Mahaviru’ celebrations granted bail
-
-*2024-12-02 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103926/suspect-arrested-for-promoting-ltte-mahaviru-celebrations-granted-bail) · `en`
-
-The Colombo Fort Magistrate’s Court has granted bail to Kelum Harshana, who was arrested for allegedly promoting the LTTE ‘Mahaviru’ celebrations.
-
-Commenting to the media following the trial, Attorney-at-Law Manoj Gamage stated that the court granted bail to the suspect on the grounds that the charges did not demonstrate the promotion of terrorism.
-
-On November 30, the Criminal Investigation Department (CID) arrested three individuals in connection with causing public disturbance by promoting LTTE ‘Mahaviru’ celebrations.
-
-The arrested suspects, aged 28, 35, and 45, are from Maradana, Chunnakam and Baddegama areas, the police said.
-
-They were accused of sharing images and video clips of Velupillai Prabhakaran, the leader of the Liberation Tigers of Tamil Eelam (LTTE), which is a proscribed organization in Sri Lanka, through a Facebook account.
-
-Additionally, they were also accused of circulating old video clips from previous LTTE ‘Mahaviru’ celebrations, misrepresenting them as current events.
-
-...
-
-[Data](articles/2069433b.json)
-
-[Extended Data](ext_articles/2069433b.ext.json)
-
----
-
-### Elections Commission announced on income scale income reports of candidates
-
-*2024-12-02 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203959) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Elections Commission announces income reports deadline for candidates and party officials. National list candidates must submit reports to Elections Secretariat. Legal action threatened under Election Act for non-compliance.
-
-🟩
-
-The Elections Commission says that the secretaries and independent group leaders of the parties representing the parliamentary elections should be handed over by the secretaries and independent group leaders.
-
-The Commission issued an announcement, the commission should be handed over to the officers who were contesting and the candidates who were contesting before 12.00 pm.
-
-The Elections Commission says national list candidates should be handed over to the Elections Secretariat reports.
-
-Special units for independent groups and national list candidates to be handed over to the secretaries of the parties and the party's secretaries to the secretaries representing the candidates and the candidates.Steps have been taken to put it.
-
-The Elections Commission states that the legislation under the Election of Elections Act is also a serious deal of legal action.
-
-◼️
-
-[Data](articles/1f9acdc2.json)
-
-[Extended Data](ext_articles/1f9acdc2.ext.json)
-
----
-
-### "I don't want VIP to the Qad"
-
-*2024-12-02 14:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனக்கு-VIP-கதிரை-வேண்டாம்/175-348116) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Chandana Abeyratne opposes VIP treatment at events. He emphasizes cost-effectiveness, saying officials use ordinary seating. The statement was made during the Puttalam District Literary Festival.
-
-🟩
-
-Do not spend any unnecessary spending after ministers and parliamentarians.. I am ready to report to companies about the cost of all my events. VIP (Special Persons) Do not bring us the rays to sit. We are sitting on ordinary plastic rays. Provincial Councils and Local Government Minister Chandana Abeyratne said that the rays were enough.
-
-The Minister made this observation at the meeting held at the Anamaduwa Sudambaya Hall for the Puttalam District Literary Festival.
-
-The State Literary Festival was organized by the Puttalam District Secretariat, including Puttalam District Secretary HMSP Herath.
-
-The Minister, as a public administration, is not an unfamiliar territory to us.. So, no show is unnecessarily expensive and wants to waste money.
-
-The literary event was awarded the Kalatini Award to 11 people who showcased the four journalists in various fields, including Rex Harrison, Vilama Sena Namuni, Padma Kumari and Fernando Point, from Puttalam district.
-
-◼️
-
-[Data](articles/b4b211e4.json)
-
-[Extended Data](ext_articles/b4b211e4.ext.json)
-
----
-
-### Car accident in Matara;The trio is hurt!
-
-*2024-12-02 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200221) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 injured in Matara car crash: Accident near Rahula junction on Matara-Akuresa road. Car lost control, hit wiring. Victims hospitalized at Matara General Hospital."
-
-🟩
-
-Three persons were injured in an accident near the Rahula junction on the Matara- Akuresa main road, Matara police said.
-
-The accident occurred when a car lost control of the driver and crashed into the wiring.
-
-Three people who were traveling in the car were injured during the accident and have been admitted to the Matara General Hospital.
-
-◼️
-
-[Data](articles/ef9a885f.json)
-
-[Extended Data](ext_articles/ef9a885f.ext.json)
 
 ---

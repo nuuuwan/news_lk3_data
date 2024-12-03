@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 11:14:47**
+As of **2024-12-03 11:01:01**
 
 ## Newspaper Stats
 
-*Scraped **58,183** Articles*
+*Scraped **58,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,49 +16,21 @@ islandlk | 3,497
 economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,501
-adaderanalk | 7,057
-tamilmirrorlk | 8,271
+adalk | 5,500
+adaderanalk | 7,056
+tamilmirrorlk | 8,270
 virakesarilk | 9,520
-adaderanasinhalalk | 10,052
+adaderanasinhalalk | 10,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,173 (100.0%) of 58,183 articles have been extended.
+58,173 (100.0%) of 58,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
-
-### 13 விவகாரம்: ஜனாதிபதியுடன் பேச வாய்ப்பு
-
-*2024-12-03 10:51:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-விவகாரம்-ஜனாதிபதியுடன்-பேச-வாய்ப்பு/175-348160) · `ta`
-
-அரசியலமைப்பின் 13வது திருத்தம் தொடர்பில், ஜனாதிபதி அனுரகுமார திசாநாயக்க உடன் கலந்துரையாடுவதற்கு, இவ்வாரம் நேரம் ஒதுக்கி தரப்படும் என்று தெரிவித்த சபை முதல்வர் அமைச்சர் பிமல் ரத்நாயக்க, அவருடன் பேச்சுவார்த்தை நடத்தலாம் என்றார்.
-
-பாராளுமன்றத்தில் தற்போது நடைபெற்றுக் கொண்டிருக்கும் அமர்வில், பாராளுமன்ற உறுப்பினர் இராசமாணிக்கம் சாணக்கியன் எழுப்பிய ஒழுங்கு பிரச்சினைக்கு பதிலளிக்கும் போதே அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
-
-◼️
-
-[Data](articles/3aca4a87.json)
-
----
-
-### ගයන්ත කරුණාතිලකට අලුත් තනතුරක්
-
-*2024-12-03 10:51:21* · [`adalk`](https://www.ada.lk/breaking_news/ගයන්ත-කරුණාතිලකට-අලුත්-තනතුරක්/11-413422) · `si`
-
-විපක්ෂයේ ප්‍රධාන සංවිධායක ධුරය සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතාට ලබා දී තිබේ.
-
-ඒ් බව අද (03දා) කථානායක අසෝක රන්වල මහතා විසින් පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
-
-◼️
-
-[Data](articles/a4050c3d.json)
-
----
 
 ### ஹமாஸுக்கு ட்ரம்ப் கடும் எச்சரிக்கை
 
@@ -98,44 +70,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ආපදාවෙන් සෘජු හා වක්‍රව පීඩාවට පිරිසට සහන සැලසීමට රජයේ අවධානය
-
-*2024-12-03 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203985) · `si`
-
-පසුගිය දින කිහිපයේ පැවැති ආපදා තත්ත්වය හේතුවෙන් සෘජුව සහ වක්‍රව පීඩාවට පත් ජනතාව සහන සැලසීම වෙනුවෙන් රජයේ විශේෂ අවධානයක් යොමුව ඇති බව ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතා පවසයි.
-
-අද (03) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු පැවසුවේ ආපදාවට පත්ව ඇති ජනතාව ඉන් මුදා ගැනීම සඳහා කඩිනමින් අවශ්‍ය පිළිවෙත් යොදන ලෙසත් ජනාධිපතිවරයා උපදෙස් ලබා දුන් බවය.
-
-ඒ සඳහා අවශ්‍ය සියලු ප්‍රතිපාදන මහා භාණ්ඩාගාරයෙන් ලබා දෙන ලෙස ජනාධිපතිවරයා අදාල අංශ වෙත උපදෙස් ලබා දුන් බවත් නියෝජ්‍ය අමාත්‍යවරයා අද පාර්ලිමේන්තුවේදී පැවසුවේය.
-
-නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ පැවැති ආපදා තත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක 24ක පවුල් 139,439 සහ පුද්ගලයින් 469,872ක් අවතැන්ව ඇති බවත් මරණ 18ක්, තුවාල වීම් 20ක්ද වාර්තා වී ඇති බවය.
-
-මේ වන සුරක්ෂිත මධ්‍යස්ථාන 247ක මුළු පවුල් සංඛ්‍යාව 12,348 පුද්ගලයින් 38,616ක්  රඳවා සිටි නමුත් මේ වන විට එම සංඛ්‍යාව නිෂ්චිත මධ්‍යස්ථාන 79ක් සහ පවුල් 2494ක් සහ පුද්ගලයින් 7946ක ර﻿ඳවා සිටින බවත් නියෝජ්‍ය අමාත්‍යවරයා පැවසීය.
-
-...
-
-[Data](articles/cff108c7.json)
-
----
-
-### Excise Dept. to suspend licenses of tax defaulting liquor manufacturers
-
-*2024-12-03 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103950/excise-dept-to-suspend-licenses-of-tax-defaulting-liquor-manufacturers) · `en`
-
-The Excise Department has announced that strict actions under the Excise Ordinance will be taken to suspend the production activities of companies that continue to default on excise duty arrears, with their licenses for 2025 withheld.
-
-The Department of Excise revealed that out of the 23 alcohol manufacturing companies licensed for production this year, all but three have cleared their dues before the deadline on November 30.
-
-Accordingly,the department said that legal proceedings will be initiated against the defaulters—W.M. Mendis & Co. Limited, Kurunegala Royal Ceylon Distilleries Private Limited, and Meegoda McCallum Brewery Limited.
-
-Further measures against these companies will be determined based on the judgments of the legal proceedings, the department added.
-
-...
-
-[Data](articles/bd651536.json)
-
----
-
 ### SLMC’s National List MP takes oath
 
 *2024-12-03 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103949/slmcs-national-list-mp-takes-oath) · `en`
@@ -149,26 +83,6 @@ Mohamed Sally Naleem has previously served as the former Chairman of Eravur Urba
 ◼️
 
 [Data](articles/48b621b4.json)
-
----
-
-### මාසික ගෑස් මිල සංශෝධනය හෙට
-
-*2024-12-03 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203984) · `si`
-
-මාසික ගෑස් මිල සංශෝධනයට අනුව දෙසැම්බර් මාසයේ මිල සංශෝධනය හෙට (04) දිනයේ ප්‍රකාශයට පත්කරන බව ලිට්‍රෝ සමාගම පවසයි.
-
-එහි ප්‍රකාශකයෙකු සඳහන් කළේ ලෝක වෙළදපළේ පවතින ගෑස් මිල හා සංසංදනය කර මෙවර ගෑස් මිල සංශෝධනය කිරීමට නියමිත බවය.
-
-මේ වන විට ලෝක වෙළදපළේ ගෑස් මිල ඉහළ ගොස් ඇති අතර ඒ අනුව මෙරට ගෑස් මිලෙහි ද වැඩිවීමක් සිදුවිය යුතු වුවත් ජනතාවට සහනයක් ලබාදීමේ අරමුණින් ගෑස් මිල ස්ථාවර මට්ටමක පවත්වාගෙන යාමට සාකච්ඡා සිදුවෙමින් පවතින බවද වාර්තා වේ.
-
-ඒ සදහා වු යෝජනා මුදල් අමාත්‍යංශය වෙත යොමුකර ඇති බව සදහන් වේ.
-
-පසුගිය මාසයේ ද ගෑස් මිල සංශෝධනයක් සිදු නොවු අතර අවසන් වරට ගෑස් මිල සංශෝධනයක් සිදුවුයේ පසුගිය ඔක්තෝබර් මාසයේ දීය.
-
-◼️
-
-[Data](articles/f785888c.json)
 
 ---
 
@@ -193,24 +107,6 @@ In equities, the All Share Price Index was up 0.19 percent or 24.63 points, at 1
 [Data](articles/64b38607.json)
 
 [Extended Data](ext_articles/64b38607.ext.json)
-
----
-
-### මුස්ලිම් කොංග්‍රසයේ ජාතික ලැයිස්තු මන්ත්‍රී දිවුරුම් දෙයි
-
-*2024-12-03 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203983) · `si`
-
-මුස්ලිම් කොංග්‍රසය නියෝජනය කරමින් ජාතික ලැයිස්තු මන්ත්‍රීධුරයට පත් එස්. එම් නලීම්  මහතා අද (03) පාර්ලිමේන්තුවේදී දිවුරුම් දුන්නේය.
-
-පසුගිය මහමැතිවරණට ඉදිරිපත් වූ ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය ඡන්ද 87,038ක් ලබා ගනිමින් ආසන 2ක් හිමි කරගත්තේය.
-
-ඒ අනුව එම පක්ෂයට එක් ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් හිමි වූ අතර එම මන්ත්‍රී ධුරය සඳහා ඒ මහතා නම් කිරීමට එම පක්ෂය තීරණය කර තිබුණි.
-
-ඔහු මින් පෙර එරාවුර් නගර සභාවේ හිටපු සභාපතිවරයා ලෙසද කටයුතු කළේය.
-
-◼️
-
-[Data](articles/d71ce908.json)
 
 ---
 
@@ -281,20 +177,6 @@ Dr. Harsha Silva has held the post of Chairman of the Committee twice.
 [Data](articles/0bfa92df.json)
 
 [Extended Data](ext_articles/0bfa92df.ext.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි - සජීවි විකාශය
-
-*2024-12-03 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203982) · `si`
-
-අද දිනයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද යෝජනාව පිළිබඳ විවාදය සිදු කිරීමට නියමිතය.
-
-තවද 10 වන පාර්ලිමේන්තුවේ තේරිම්කාරක සභාව ස්ථාපිත කිරීමට අද දිනයේ සැලසුම් කර තිබේ.
-
-◼️
-
-[Data](articles/b5f73610.json)
 
 ---
 
@@ -2325,5 +2207,185 @@ We would like to inform the public to inform the public as the Sri Lanka Compute
 [Data](articles/ae2701b2.json)
 
 [Extended Data](ext_articles/ae2701b2.ext.json)
+
+---
+
+### Commissioner a red announce to those who never record election costs
+
+*2024-12-02 17:18:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-වියදම්-වාර්තා-නොදෙන-අයට-කොමිෂමෙන්-රතු-නිවේදනයක්/11-413408) · `si`
+
+Elections Commission warns parties: Submit election cost reports by midnight on 6th. Offices open until 6 PM. Reports must be handed to inquiry officers and Head Office.
+
+🟩
+
+The Elections Commission states that political parties, independent groups, and candidates who compete in the parliament that will not be handed over to the parliament that will not be handed over to the due date.
+
+The Elections Commission states that election propaganda income reports should be handed over before 12 midnight on the 6th of this month.
+
+It is said that the offices will be open until 6:00 pm on the duty work on their duty on their duties and 6 pm on the 6th of this month.
+
+It also pointed out that all political parties and independent groups contesting should be delivered to the inquiry officers in the election district.
+
+It is said that the election propaganda revenue and expenditure of the election should be handed over to the Head Office of the Elections Commission.
+
+◼️
+
+[Data](articles/33ddbadf.json)
+
+[Extended Data](ext_articles/33ddbadf.ext.json)
+
+---
+
+### Police seek public assistance to trace suspect in ATM fraud
+
+*2024-12-02 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103933/police-seek-public-assistance-to-trace-suspect-in-atm-fraud-) · `en`
+
+Sri Lanka Police is seeking public assistance in apprehending a suspect linked to withdrawal of a large sum of money from a stolen ATM card.
+
+Bandaragama Police had launched an investigation into an incident involving the misappropriation of Rs. 200,000 using a stolen ATM card in the Bandaragama area on August 21.
+
+After reviewing the CCTV footage of the cameras installed near the ATM machine in Bandaragama where the theft occurred, the suspect has been identified.
+
+Accordingly, any information regarding the relevant suspect is requested to be provided through the following contact numbers:
+
+◼️
+
+[Data](articles/58253595.json)
+
+[Extended Data](ext_articles/58253595.ext.json)
+
+---
+
+### Allu Arjun - Rashmika Mantana's Pushpa 2- 'Peelings'
+
+*2024-12-02 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200248) · `ta`
+
+Here's a 200-character summary of the text:
+
+
+
+"Pushpa 2: The Rule" stars Allu Arjun & Rashmika Mandanna. Directed by Sukumar, it features "Peelings," a popular song composed by Devi Sri Prasad. The film is released in multiple languages and has garnered over two million views for its energetic dance number.
+
+🟩
+
+The song 'Peelings' has been released in the movie 'Pushpa 2- The Rule' starring Allu Arjun Excise, who won the Indian National Award for Best Actor as the first part of 'Pushpa'.
+
+Directed by director Sukumar, Allu Arjun, Rashmika Mantana, Bhagat Fossil, Rao Ramesh, Dali Tananjaya, Sri Leela and many others have starred in the film 'Pushpa 2'. The film, which has been recorded by Kuba Prosec, has composed the film 'Rock Star' Devi Sri Prasad.
+
+Producer Naveen Jenerni and Vaiku on behalf of Maithri Movie Makers Company. Ravi Shankar has co -produced.
+
+The film, which is being released in Tamil, Telugu, Malayalam, Kannada and Hindi, has been released from the fifth day of the world.
+
+The song was written by songwriter Viveka, village music singers and playback singers Rajalakshmi - Senthil Ganesh.. The lyrics and dance featured in this song, which is being developed in the backdrop of an enthusiastic throat, has encouraged fans.
+
+...
+
+[Data](articles/39181780.json)
+
+[Extended Data](ext_articles/39181780.ext.json)
+
+---
+
+### Actor Shanmukha Pandian Vijayakanth's 'Sadi Thalavan'
+
+*2024-12-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200247) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Actor Shanmukha Pandian Vijayakanth stars in "Sivara Thavan" with song "U Mukkam Vaikkal". Directed by U. Shanmukha Pandiyan, featuring music by Ilayaraja. Produced by Sumith Saikal et al. Song written by Music Gnani, sung by Ananya Bhatt. Vikram Prabhu Kumki also stars.
+
+🟩
+
+After a short break, actor Shanmukha Pandian Vijayakanth has been released in the movie 'Sivara Thavan' and a song called 'U Mukkam Vaikkal ..'
+
+The music composer who composed it posted on his web page and congratulated the film crew.
+
+Director U. Shanmukha Pandiyan Vijayakanth, Yamini Chander, director and actor Kasturiraja, A.. Venkatesh, 'Garuda' Ram, Muniskant, Aruldas, Yuki Sethu, Rishi, Srijith Ravi and many others.
+
+S.. R. The film is composed by Sathishkumar and has composed the musician Ilayaraja.The film is being produced by Sumith Saikal - Jeganathan Paramasivam - Raju Kalidas on behalf of Sumith Arts -V Campans - Das Pictures.
+
+The film, which is scheduled to be released soon, has been released by the song 'Um Mukkam Pakkalla ..' and the lyrical video for the song.The song is written by the songwriter 'Music Gnani', written by Ilayaraja, playback singer Ananya Bhatt.
+
+The song, which is being created in the usual enchanting metal of the musician, has attracted his fans.
+
+...
+
+[Data](articles/083cba29.json)
+
+[Extended Data](ext_articles/083cba29.ext.json)
+
+---
+
+### 'Music monster' ji. V.. Prakash Kumar starrer 'Blackmail' movie update
+
+*2024-12-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200244) · `ta`
+
+"Blackmail" movie update: Starring Ji. V.. Prakash Kumar, directed by M Maran. Cast includes Teju Aswini, Srikanth, Bindhumadhavi. Music by Iman, produced by JDS Film Factory. Shooting complete, dubbing underway.
+
+🟩
+
+National Award -winning composer and leading star star. V Prakash Kumar has released new information about the film 'Blackmail', which is playing the lead role.
+
+Directed by Director M Maran in the upcoming film 'Blackmail'. V.. Prakash Kumar, Teju Aswini, Srikanth, Bindhumadhavi 'hunt' Muthu Kumar, Redin Kingsley, Ramesh Tilak, Hari Priya and many others have been cast.
+
+The film has been recorded by Gokul Pinoy. Iman has composed music.The film was produced by JDS Film Factory Company, produced by Jayakody Amalraj.
+
+The film crew has announced that the film's shooting has been completed and that the dubbing has been started in the film.
+
+◼️
+
+[Data](articles/0c03798f.json)
+
+[Extended Data](ext_articles/0c03798f.ext.json)
+
+---
+
+### Special notice on ministers' concessions
+
+*2024-12-02 17:10:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-சலுகைகள்-தொடர்பில்-விசேட-அறிவிப்பு/175-348126) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Former Supreme Court Justice KD leads probe into MP/Minister perks. Report handed to President Anura Kumara Dissanayake. Prime Minister Harini Amarasuriya & President's Sec'y attend event.
+
+🟩
+
+Former Supreme Court Justice KD to investigate the reconstruction of allowances and special privileges paid to MPs, Ministers and former Presidents. The report of the committee headed by Chitrasiri was handed over to President Anura Kumara Dissanayake on Monday (02).
+
+Prime Minister Harini Amarasuriya and President's Secretary Dr. Nandika Sanath Kumanayake were also present at the event.
+
+◼️
+
+[Data](articles/c25a0aac.json)
+
+[Extended Data](ext_articles/c25a0aac.ext.json)
+
+---
+
+### 2024 O/L exam application deadline extended
+
+*2024-12-02 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103932/2024-ol-exam-application-deadline-extended) · `en`
+
+The deadline for accepting applications for the 2024 (2025) G.C.E. Ordinary Level examination has been extended until December 10, 2024, the Department of Examinations announced.
+
+The Commissioner General of Examinations, Amith Jayasundara stated that this decision was made in view of the recent adverse weather conditions that affected communities across the island.
+
+Initially, the relevant applications were called online from November 05 to November 30, 2024.
+
+Meanwhile, the department highlighted that only applications sent online, via its official websites - www.doenets.lk or www.onlineexams.gov.lk/eic will be accepted.
+
+Accordingly, all school applicants must submit their exam applications through their school principals while private applicants are allowed to apply for the examination personally by them.
+
+Any inquiries regarding the submission of applications can be made through hotline 1911 or contact numbers 0112784208/ 0112784537/ 0112785922 or email address: gceolexamsl@gmail.com
+
+◼️
+
+[Data](articles/4aa795d6.json)
+
+[Extended Data](ext_articles/4aa795d6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 16:01:31**
+As of **2024-12-03 16:28:07**
 
 ## Newspaper Stats
 
-*Scraped **58,251** Articles*
+*Scraped **58,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 3,497
 economynextcom | 3,535
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,507
+adalk | 5,512
 adaderanalk | 7,073
 tamilmirrorlk | 8,289
 virakesarilk | 9,529
-adaderanasinhalalk | 10,065
+adaderanasinhalalk | 10,066
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,237 (100.0%) of 58,251 articles have been extended.
+58,240 (100.0%) of 58,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### රජයේ අධි සුඛෝපභෝගී වාහන ඉවත් කිරීමට කැබිනට් අනුමැතිය
+
+*2024-12-03 16:17:06* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-අධි-සුඛෝපභෝගී-වාහන-ඉවත්-කිරීමට-කැබිනට්-අනුමැතිය/11-413427) · `si`
+
+රාජ්‍ය ආයතනවල භාවිත වන ඇතැම් අධි සුඛෝපභෝගී වාහනවල නඩත්තු හා ඉන්ධන සඳහා වැය වන අධික පිරිවැය සැලකිල්ලට ගෙන එවැනි අධි සුඛෝපභෝගී වාහන අපහරණය කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ. එසේ වාහන අපහරණය කිරීම රජයට වඩාත් ඵලදායි වනු ඇති බවටද සැලකිල්ලට ගෙන තිබේ.
+
+ඒ අනුව සියලුම රාජ්‍ය ආතනවල පවතින වාහන පිළිබඳ විධිමත් අධ්‍යනයක් සිදුකර රේගු සංකේතාංක 87.03 යටතට ගැනෙන පෙට්‍රල් එංජින් ධාරිතාව 1800cc වැඩි වාහන හා ඩීසල් එන්ජින් ධාරිතාව 2300cc වැඩි වාහන (ඩබල් කැබ්, සිංගල් කැබ්, වෑන් රථ, බස් රථ හැර) නියමිත ප්‍රසම්පාදනය ක්‍රම වේදය අනුගමනය කරමින් මෙසේ අපහරණය කිරීමට නියමිතය.
+
+මෙහිදී 2025-3-1 දිනට පෙර අදාළ ප්‍රධාන ගණන්දීමේ නිලධාරීන් විසින් අපහරණය කිරීමටත් ඒ අනුව කටයුතු කර මහා භාණ්ඩාගාරයේ කොම්ප්ටෝලර් ජනරාල් වෙත වාර්තා කිරීම සඳහා අදාළ චක්‍ර ලේඛ උපදෙස් නිකුත් කිරීම පිණිස භාණ්ඩාගායේ ලේකම් වෙත බලය පැවැරීමට මෙසේ ජනපතිවරයා ඉදිරිපත් කළ කැබිනට් යෝජනවට අනුමැතිය ලැබී තබේ.
+
+◼️
+
+[Data](articles/f9093155.json)
+
+---
+
+### රාජ්‍ය සේවයේ සිටින උපාධිධාරීන්ගේ ගැටලු විසඳීමට කමිටු දෙකක්
+
+*2024-12-03 15:58:33* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-සිටින-උපාධිධාරීන්ගේ-ගැටලු-විසඳීමට-කමිටු-දෙකක්/11-413426) · `si`
+
+රාජ්‍ය සේවයේ නියතු සංවර්ධන නිලධාරීන්, ආශ්‍රිත සේවාගණවල නිලධාරීන් රාජ්‍ය සේවයට ඇතුළත් වීමට මූලික සුදුසුකමක් ලෙස උපාධිය සලකා නොබලන නමුත් උපාධියක් සහිතව රාජ්‍ය සේවයේ විවිධ තනතුරුවල දැනටමත් ඇතුළත්වී සිටින නිලධාරීන් හා රාජ්‍ය සේවයට ප්‍ර වේශ වීමට අපේක්ෂාවන් සිටින උපාධිධාරීන් ආශ්‍රිතව පවතින ගැටලු හඳුනාගෙන නිරාකරණය කිරීමට අමාත්‍ය කමිටුවක් හා නිලධාරී කමිටුවක් පත්කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+◼️
+
+[Data](articles/a246e84e.json)
+
+---
+
+### Privileges are studying the newsiri report to limit privileges - Nalinda Jayatissa
+
+*2024-12-03 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203999) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Nalinda Jayatissa: Committee studying newsiri report on limiting privileges for ministers, former presidents. Chithrasiri Committee report handed to President Anura Kumara Dissanayake yesterday. Recommendations include reconsidering offers and privileges provided to MPs, Ministers, and former Presidents.
+
+🟩
+
+Related to Ministers and the privileges of former presidents. T. Cabinet Spokesperson Minister Nalinda Jayatissa said that the Artiri Committee was studying the report of the Article Committee today.
+
+Speaking at a press conference held today, he said that at a press conference held today for the Cabinet decisions.
+
+"After the president was appointed, a committee was appointed to investigate the privileges of announced. Former Supreme Court Judge K. T. Chairman of Mr. Chitrasiri. Their report was handed over to the President yesterday. We are studying. "
+
+"The report states. They recommend how to limit certain privileges. We will consider all these things together. "
+
+Re-considered Ken to reconsider the offers and privileges provided by MPs, Ministers and former Presidents. T. The report of the Chithrasiri Committee was handed over to President Anura Kumara Dissanayake yesterday (02).
+
+◼️
+
+[Data](articles/568c8822.json)
+
+[Extended Data](ext_articles/568c8822.ext.json)
+
+---
+
+### Permission to Import Rice without License
+
+*2024-12-03 15:46:45* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-ලබා-ගැනීමකින්-තොරව-සහල්-ආනයනය-කිරීමට-අවසර/11-413425) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Cabinet removes rice import restrictions due to cultivation deficit from heavy rainfall. Permission granted to import rice without licenses until 12/20 days.
+
+🟩
+
+The Cabinet has consumed the temporary removal of existing limitations for the importation of rice in the local market and the deficit of rice cultivation due to heavy rainfall.
+
+Accordingly, up to 12/20 days without obtaining the import control licenses, it has been decided to provide permission to the country to import rice.
+
+◼️
+
+[Data](articles/a9a7acbc.json)
+
+[Extended Data](ext_articles/a9a7acbc.ext.json)
+
+---
 
 ### Sri Lanka stocks close up, driven by F&B, tobacco sector
 
@@ -38,7 +120,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
 
-The broader ASPI closed up 0.96 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
+The broader ASPI closed up 0.84 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
 
 Turnover was 3.2 billion. Most of this came from the food, beverage and tobacco sector (Rs783mn).
 
@@ -53,6 +135,8 @@ Top positive contributors to the ASPI were LOLC Holdings (up at 459.25), Central
 ◼️
 
 [Data](articles/61a53ce8.json)
+
+[Extended Data](ext_articles/61a53ce8.ext.json)
 
 ---
 
@@ -69,6 +153,22 @@ Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minis
 ...
 
 [Data](articles/ed825c9c.json)
+
+---
+
+### දුම්රිය සේවකයෙක් දුම්රියක ගැටී මරුට
+
+*2024-12-03 15:37:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයෙක්-දුම්රියක-ගැටී-මරුට/11-413424) · `si`
+
+මහනුවර දුම්රිය ස්ථානයේ සේවයේ නියුතු දුම්රිය මාර්ග අංශයේ සේවකයෙකු මහනුවර දුම්රිය ස්ථානය තුළදී දුම්රියක ගැටී මිය යාමේ සිද්ධියක් වාර්තා වේ.
+
+එසේ මියගොස් ඇත්තේ දුම්රිය මාර්ග අංශයේ කම්කරුවකු ලෙස සේවය කළ ශ්‍රී ලාල් ප්‍රේමරත්න (58) නමැතියෙකි.
+
+ඔහු තේ පානය කිරීම සඳහා දුම්රිය ස්ථානයේ ආපනශාලාව වෙත දුම්රිය මාර්ගය මත ගමන් කරමින් සිටියදී පේරාදෙණිය දෙසින් මහනුවර කොළඹ සීඝ්‍රගාමී දුම්රිය පැමිණීම හේතුවෙන් වෙනත් දුම්රිය මාර්ගයකට මාරු වූ අවස්ථාවේදී එම මාර්ගය ඔස්සේ පැමිණි දුම්රිය එන්ජිමක ඔහු ගැටී ඇති අතර ඉන් ඔහු බරපතල තුවාල ලබා මහනුවර ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු මිය ගොස් තිබේ.
+
+◼️
+
+[Data](articles/765de10a.json)
 
 ---
 
@@ -149,6 +249,20 @@ This transformative initiative, which is guided by the new government’s vision
 ...
 
 [Data](articles/5023a34e.json)
+
+---
+
+### හෙට පාර්ලිමේන්තුව රාත්‍රී 9.30 තෙක්
+
+*2024-12-03 15:18:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාර්ලිමේන්තුව-රාත්‍රී-9-30-තෙක්/11-413423) · `si`
+
+පසුගිය දිනවල පැවති අයහපත් කාලගුණය හේතුවෙන් ඇති වී ඇති ආපදා තත්ත්වය පිළිබඳ සභාව කල්තැබීමේ විවාදයක් හෙට (04) ප.ව 5.30 සිට ප.ව 9.30 දක්වා පැවැත්වීමට අද (03) පාර්ලිමේන්තුවේදී කථානායක ආචාර්ය අසෝක රන්වල මහතාගේ ප්‍රධානත්වයෙන් පැවති පක්ෂ නායක රැස්වීමේදී තීරණය වී තිබේ.
+
+මේ අනුව පෙර තීරණය කළ පරිදි ජනාධිපතිවරයා විසින් පසුගියදා පාර්ලිමේන්තුවේදී ඉදිරිපත් කළ ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශයට අදාළ යෝජනාව පිළිබඳ විවාදය හෙට පෙ.ව 9.30 සිට ප.ව 5.00 දක්වා පැවැත්වේ. අනතුරුව ප.ව 5.00 ට පැවැත්වීමට නියමිත ඡන්ද විමසීමෙන් අනතුරුව ප.ව 5.30 ට විරුද්ධ පාර්ශ්වය විසින් ‍ගෙනෙනු ලබන යෝජනාවක් ලෙස මෙම  සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී එකඟත්වය පළ වී ඇත.
+
+◼️
+
+[Data](articles/6fde3981.json)
 
 ---
 
@@ -256,11 +370,15 @@ Accordingly, it has been decided to grant permission to import rice into the cou
 
 ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers will temporarily remove existing restrictions on the import of rice, Health Minister Nalinda Jayatissa has said.
 
-“Considering the current shortage of Nadu rice and other types of rice in the local market, as well as the damage caused to paddy cultivation due to the heavy rains of the past few days, the Cabinet approved temporarily removing the existing restrictions on the import of rice,” Jayatissa told reporters on Tuesday.
+On November 20, Trade Minister Wasantha Samarasinghe said the government will import 70,000 metric tonnes of nadu rice to address a shortfall in the market, through two state agencies.
+
+Sathosa and the State Trading Corporation will import 52,000 metrics tonnes of this.
+
+“In addition to this, the government decided to temporarily remove existing restrictions on the import of rice
+
+“Considering the current shortage of some types of rice in the local market, as well as the damage caused to paddy cultivation due to the heavy rains of the past few days, the Cabinet approved temporarily removing the existing restrictions on the import of rice,” Jayatissa told reporters on Tuesday.
 
 He said the Cabinet decided to grant permission to import rice until December 20, without obtaining import control licenses.
-
-On November 20, Trade Minister Wasantha Samarasinghe said the government will import 70,000 metric tonnes of rice to address a shortfall in the market, through two state agencies, Sathosa and the State Trading Corporation. (Colombo/Dec9/2024)
 
 ◼️
 
@@ -2271,151 +2389,5 @@ Director CID SSP E.M.M.S. Dehideniya has been transferred to Nugegoda Division a
 [Data](articles/915f1d4e.json)
 
 [Extended Data](ext_articles/915f1d4e.ext.json)
-
----
-
-### Misty conditions expected during the morning
-
-*2024-12-03 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103940/misty-conditions-expected-during-the-morning) · `en`
-
-A few showers will occur in Eastern provinces, says the Department of Meteorology.
-
-Misty conditions can be expected most places of the island during the morning, it said.
-
-◼️
-
-[Data](articles/8e9f8cb7.json)
-
-[Extended Data](ext_articles/8e9f8cb7.ext.json)
-
----
-
-### A / L examination will be rescued from tomorrow
-
-*2024-12-03 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203977) · `si`
-
-GCE A/L exam resumes tomorrow after weather delay. Originally started on 25th, heavy rain caused suspension. Commissioner says affected subjects will be rescheduled soon.
-
-🟩
-
-The Advanced Level Examination of the 2024 GCE Advanced Level Examination will be resumed from tomorrow due to inclement weather.
-
-This time the GCE A / L examination commenced on the 25th and the heavy rains were temporarily suspended.
-
-The Examinations Commissioner General of Examinations said that the examination will be resumed from tomorrow and the examination will be held tomorrow.
-
-The Commissioner General of Examinations said that the subjects on the days of not the examination were scheduled to be held in the coming days.
-
-◼️
-
-[Data](articles/779d6bac.json)
-
-[Extended Data](ext_articles/779d6bac.ext.json)
-
----
-
-### It may be raining today
-
-*2024-12-03 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை-பெய்யக்-கூடும்/175-348150) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rainfall warning issued for parts of Sri Lanka today. Coastal areas from Batticaloa to Kankesanthurai may experience rain. Rest of the country expects mostly clear skies.
-
-🟩
-
-The Department of Meteorology has said that some parts of the country are likely to experience a little rain today.
-
-There is a possibility of rainfall in some places beyond the coastal coastal areas from Batticaloa to Kankesanthurai via Trincomalee.
-
-The rest of the country is expected to be mainly uniform. (A)
-
-◼️
-
-[Data](articles/a7df9f1a.json)
-
-[Extended Data](ext_articles/a7df9f1a.ext.json)
-
----
-
-### Parliament may meet today
-
-*2024-12-03 08:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-இன்று-கூடும்/175-348149) · `ta`
-
-Parliament meets today at 9:30 AM. Speaker Ashoka Ranwala leads the session. Initial meeting on Nov 21 included Speaker, Deputy Speaker, Committee Chair selection, and member confirmation. President's policy speech follows.
-
-🟩
-
-The Parliament will convene today at 9.30 am under the leadership of Speaker Ashoka Ranwala.
-
-The initial session of the 10th Parliament was held on November 21st. On that day, the selection of the Speaker, the Deputy Speaker's Selection, the Deputy Chairman of the Committees and the Confirmation of Members of Parliament.
-
-Thereafter the president's policy speech was held after the adjournment of the council. (A)
-
-◼️
-
-[Data](articles/fe25abfd.json)
-
-[Extended Data](ext_articles/fe25abfd.ext.json)
-
----
-
-### Sri Lanka on behalf of Sri Lanka on the evening of the US State Department Assistant Secretary
-
-*2024-12-03 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203976) · `si`
-
-US State Department official Donald Lu visits Sri Lanka, India, Nepal to strengthen regional ties and discuss economic reforms with new Sri Lankan government leaders.
-
-🟩
-
-Mr. Donald on the Southern and Central Institutional Department of America Donald Lune is to visit Sri Lanka.
-
-He is due to visit India while traveling in India and Nepal.
-
-Donald Luh is due to arrive in Sri Lanka (05).
-
-Donald Lu's visit is aimed at strengthening cooperation with the main partners in South Asia to promote the pre-prosperity prosperity and security.
-
-The US State Department stated that plans have been made to discuss the economic reforms with the new government heads of Sri Lanka.
-
-After India, Donald Luader, who arrived in the country, is also scheduled to visit Nepal.
-
-◼️
-
-[Data](articles/c3863ed7.json)
-
-[Extended Data](ext_articles/c3863ed7.ext.json)
-
----
-
-### Transfers to many of the police chairs
-
-*2024-12-03 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203975) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police transfers: 54 officers moved, including 5 DIGs & 5 SSPs. CID changes: HWS Muthumla new Director, EMMS Developed transferred to Nugegoda Division.
-
-🟩
-
-54 police officers including DIGs have been transferred.
-
-Five DIGs, five senior Superintendents of Police have been transferred with immediate effect, according to the National Police Commission.
-
-In addition, 7 Superintendents of Police and 7 Assistants have also given places.
-
-According to the Deputy Director of the Criminal Investigation Department (CID) HWS Muthumla has been appointed as the Director of the Criminal Investigation Department.
-
-Senior Superintendent of Police (CID) EMMS Developsed has been transferred as the Nugegoda Divisional Officer of Nugegoda.
-
-◼️
-
-[Data](articles/956e6b86.json)
-
-[Extended Data](ext_articles/956e6b86.ext.json)
 
 ---

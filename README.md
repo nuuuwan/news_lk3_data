@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 09:19:56**
+As of **2024-12-03 09:01:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,147 (100.0%) of 58,159 articles have been extended.
+58,143 (100.0%) of 58,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -238,123 +238,83 @@ After India, Donald Luader, who arrived in the country, is also scheduled to vis
 
 ---
 
-### Transfers to many of the police chairs
+### පොලීසියේ ඉහළ පුටු රැසකට ස්ථානමාරු
 
 *2024-12-03 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203975) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+නියෝජ්‍ය පොලිස්පතිවරුන් ඇතුළු ජ්‍යෙෂ්ඨ පොලිස් නිලධාරින් 54 දෙනෙකුට ස්ථාන මාරුවීම් ලබා දී තිබේ.
 
+ජාතික පොලිස් කොමිෂන් සභාව මගින් වහාම ක්‍රියාත්මක වන පරිදි නියෝජ්‍ය පොලිස්පතිවරුන් 5 දෙනෙකු, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන් 35 දෙනෙකුට ස්ථාන මාරුවීම් ලබාදී ඇති බව පොලිස් මූලස්ථානය පැවසීය.
 
+ඊට අමතරව පොලිස් අධිකාරීවරුන් 7 දෙනෙකු සහ සහකාර පොලිස් අධිකාරීවරුන් 7 දෙනෙකුට ද ස්ථාන මරුවීම් ලබාදී තිබේ.
 
-Police transfers: 54 officers moved, including 5 DIGs & 5 SSPs. CID changes: HWS Muthumla new Director, EMMS Developed transferred to Nugegoda Division.
+ඒ අනුව, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂක තනතුරේ සිටි කාන්තා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී එච්.ඩබ්ලිව්.අයි.එස් මුතුමාල මහත්මිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ලෙස පත්කර ඇති බව පොලිස් මූලස්ථානය පැවසීය.
 
-🟩
-
-54 police officers including DIGs have been transferred.
-
-Five DIGs, five senior Superintendents of Police have been transferred with immediate effect, according to the National Police Commission.
-
-In addition, 7 Superintendents of Police and 7 Assistants have also given places.
-
-According to the Deputy Director of the Criminal Investigation Department (CID) HWS Muthumla has been appointed as the Director of the Criminal Investigation Department.
-
-Senior Superintendent of Police (CID) EMMS Developsed has been transferred as the Nugegoda Divisional Officer of Nugegoda.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ලෙස කටයුතු කළ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ඊ.එම්.එම්.එස් දෙහිදෙණිය මහතා නුගේගොඩ කොට්ඨාස භාර නිලධාරීවරයා ලෙස මාරුකර තිබේ.
 
 ◼️
 
 [Data](articles/956e6b86.json)
 
-[Extended Data](ext_articles/956e6b86.ext.json)
-
 ---
 
-### Eight foreigners arrested for visa
+### වීසා නැතිව සිටි විදේශිකයින් 08ක් අත්අඩංගුවට
 
 *2024-12-03 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203974) · `si`
 
-Here's a summary of 200 characters:
+වීසා නොමැතිව මෙරට රැඳී සිටි විදේශිකයන් 08 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
 
+ඊයේ 02) සවස් කාලයේ නුවරඑළිය පොලිස් වසමේ හාවාඑළිය ප්‍රදේශයේදී එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
 
-
-"8 Indonesian nationals (28-65) arrested in Nuwara Eliya for entering Sri Lanka without visas."
-
-🟩
-
-Eight foreigners have been arrested without visa.
-
-The suspects have been arrested in the Havariya area in the Nuwara Eliya Police Division last evening.
-
-The suspects are Indonesians who are between 28 and 65 years.
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 28 ත් 65 ත් අතර වයස්වල පසු වන ඉන්දුනීසියානු ජාතිකයින් බව පොලීසිය පවසයි.
 
 ◼️
 
 [Data](articles/dea14c4d.json)
 
-[Extended Data](ext_articles/dea14c4d.ext.json)
-
 ---
 
-### Parliament to meet today
+### පාර්ලිමේන්තුව අද රැස්වෙයි
 
 *2024-12-03 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203973) · `si`
 
-Parliament meets today under Speaker Ashoka Ranwala. President Anura Kumara Dissanayake presents proposal. Secretary General meeting scheduled today and tomorrow. Election set for 5 PM tomorrow. Parliament session continues until December 6th. Debate planned for December 5-6. Select Committee formation announced. Opposition leaders propose Dr. Harsha De Silva as Chairman. New Democratic Front agrees to appoint several opposition parties. Dr. Harsha de Silva previously chaired Cash Committee twice.
+පාර්ලිමේන්තුව අද (03) කථානායක අශෝක රංවල මහතාගේ ප්‍රධානත්වයෙන් රැස්වීමට නියමිතව තිබේ.
 
-🟩
+අද පෙරවරු 09.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර එහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද යෝජනාව පිළිබද විවාදය සිදුකිරීමට නියමිතය.
 
-Parliament is scheduled to meet by Speaker Ashoka Ranwala.
+පාර්ලිමේන්තු මහ ලේකම් කාර්යාලය පැවසුවේ අදාළ විවාදය අද සහ හෙට යන දෙදින තුළ පැවැත්වීමට නියමිත අතර ඊට අදාළ ඡන්ද විමසීම හෙට පස්වරු 5ට පැවැත්වීමට සැලසුම් කර ඇති බවය.
 
-The Parliament is due to meet the proposal to be presented by President Anura Kumara Dissanayake today.
+මෙම සතිය තුළ පාර්ලිමේන්තුව ලබන 6 වන දින දක්වා පැවැත්වීමට නියමිත අතර 2025 වසරේ පළමු මාස 4 සදහා වන ආණ්ඩුවේ අතුරු සම්මත ගිණුමට අදාළ යෝජනාව දෙසැම්බර් මස 5 වන දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
 
-The Secretary General of the Secretariat is scheduled to be held today and tomorrow, and the election is scheduled to be held tomorrow at 5 pm tomorrow.
+ඊට අදාළ විවාදය දෙසැම්බර් 5 සහ 6 යන දෙදින පැවැත්වීමට නියමිතය.
 
-The Parliament will be held until the 6th this week, and the proposal to the first four months of the first four months of the year 2025 is due to be presented to Parliament on 5th December.
+එමෙන්ම 10 වන පාර්ලිමේන්තුවේ තේරීම්කාරක සභාව ස්ථාපිත කිරීම ද අද සිදුකිරීමට සැලසුම් කර තිබේ.
 
-The debate will be held on December 5 and 6th Day.
+මේ අතර පාර්ලිමේන්තුවේ මුදල් කාරක සභාවේ සභාපති ධුරයට සමගි ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී  ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ නම යෝජනා කිරීමට විපක්ෂයේ පක්ෂ නායකයින් තීරණය කර තිබේ.
 
-It also plans to establish the Select Committee of the 10th Parliament.
-
-Meanwhile, opposition leaders have decided to propose Mr. Dr. Harsha De Silva, MP Dr. Harsha De Silva, the Chairman of the Committee of Parliament.
-
-It is said that the New Democratic Front has agreed to appoint several opposition parties including the UNP.
-
-Dr. Harsha de Silva was the Chairman of the Cash Committee on two previous occasions.
-
-◼️
+...
 
 [Data](articles/081335bb.json)
 
-[Extended Data](ext_articles/081335bb.ext.json)
-
 ---
 
-### Weather today
+### අද කාලගුණය
 
 *2024-12-03 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203972) · `si`
 
-Here's a summary in 200 characters:
+නැගෙනහිර පළාතේ අද (03) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සෙසු ප්‍රදේශවල ප්‍රධාන  වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පැවතිය හැකි බවය.
 
+මේ අතර මඩකලපුව සිට  සිට  ත්‍රිකුණාමලය හරහා  කන්කසන්තුරය දක්වාවන මුහුදු ප්‍රදේශවල  ස්ථාන ස්වල්පයක වැසි ඇති වේ.
 
-Eastern Province: Showers today. Other areas: Rainy weather. Coastal winds: 20-30 km/h. Sea conditions: Normal.
+දිවයින වටා වන මුහුදු ප්‍රදේශවල සුළං නිශ්චිත දිශාවකින් තොරව හමන අතර සුළං වේගය පැ.කි.මී. (20-30) පමණ වේ.
 
-🟩
-
-The Meteorology Department says that showers in the Eastern Province today (03).
-
-The department states that in other areas, there will be a rainy weather.
-
-Meanwhile, there will be showers at a few places in the sea areas off the Kankasanthura through Batticaloa to Trincomalee.
-
-Winds around the coastal areas around the island and the speed will be the speed of the wind.. Is about (20-30).
-
-The sea areas around the island can remain in normal nature, the Met Department added.
+දිවයින වටා වන මුහුදු ප්‍රදේශ සාමාන්‍ය ස්වභාවයේ පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
 
 ◼️
 
 [Data](articles/67bee004.json)
-
-[Extended Data](ext_articles/67bee004.ext.json)
 
 ---
 

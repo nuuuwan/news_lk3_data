@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 10:42:29**
+As of **2024-12-03 11:01:01**
 
 ## Newspaper Stats
 
-*Scraped **58,173** Articles*
+*Scraped **58,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,500
-adaderanalk | 7,055
-tamilmirrorlk | 8,268
+adaderanalk | 7,056
+tamilmirrorlk | 8,270
 virakesarilk | 9,520
 adaderanasinhalalk | 10,048
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 10,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,171 (100.0%) of 58,173 articles have been extended.
+58,173 (100.0%) of 58,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### ஹமாஸுக்கு ட்ரம்ப் கடும் எச்சரிக்கை
+
+*2024-12-03 10:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸுக்கு-ட்ரம்ப்-கடும்-எச்சரிக்கை/50-348159) · `ta`
+
+தான் அமெரிக்க அதிபராக பதவியேற்பதற்கு முன்பாகவே காசாவில் பிடித்து வைக்கப்பட்டுள்ள பிணைக் கைதிகளை விடுவிக்க வேண்டும் என்று டொனால்ட் ட்ரம்ப் கடுமையாக எச்சரித்துள்ளார்.
+
+இது குறித்து டொனால்ட் ட்ரம்ப் தனது சொந்த சமூக வலைதளமான ட்ரூத் சோஷியல் தளத்தில் கூறியிருப்பதாவது: மத்திய கிழக்கில் மிகவும் வன்முறையான, மனிதாபிமானமற்ற முறையிலும், ஒட்டுமொத்த உலக நாடுகளின் விருப்பத்திற்கு எதிராகவும் பிடித்து வைக்கப்பட்டுள்ள பிணைக் கைதிகளைப் பற்றி எல்லோரும் பேசுகிறார்கள். ஆனால் அவை எல்லாம் வெறும் பேச்சளவிலேயே இருக்கிறது. எந்த நடவடிக்கையும் இல்லை.
+
+நான் அமெரிக்காவின் அதிபராக பெருமையுடன் பதவியேற்கும் நாளான 2025 ஜனவரி 25, க்கு முன்பாக காசாவில் இருக்கும் இஸ்ரேலிய பிணைக் கைதிகளை விடுவிக்க வேண்டும். அவ்வாறு செய்யவில்லை என்றால் மத்திய கிழக்கும், மனிதகுலத்துக்கு எதிராக இத்தகையை அட்டூழியங்களை செய்து கொண்டிருப்பவர்களும் மிகப்பெரிய விலையை கொடுக்க வேண்டியிருக்கும்.
+
+...
+
+[Data](articles/998b60be.json)
+
+---
+
+### அரிசியின் மொத்த  விலை அதிகரிப்பு
+
+*2024-12-03 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியின்-மொத்த-விலை-அதிகரிப்பு/175-348158) · `ta`
+
+நாடு, சம்பா மற்றும் கீரி சம்பா அரிசியின் மொத்த விலையை அதிகரித்துள்ளதாக அரிசி ஆலை உரிமையாளர்கள் நாடளாவிய ரீதியில் உள்ள அரிசி மொத்த வியாபாரிகளுக்கு அறிவித்துள்ளனர்.
+
+அதன்படி, ஒரு கிலோ கிராம் நாட்டு அரிசியின் மொத்த விலை 255 ரூபாயாகவும், சம்பா அரிசி 260 ரூபாயாகவும், கீரி சம்பா 275 ரூபாயாகவும் அதிகரிக்கப்பட்டுள்ளது.
+
+அந்த விலைக்கு தேவையான அரிசியின் அளவுக்கான கட்டணத்தை வங்கியில் செலுத்துமாறு அரிசி ஆலை உரிமையாளர்கள் வியாபாரிகளுக்கு அறிவுறுத்தியுள்ளனர்.
+
+சந்தையில் நாட்டு அரிசியின் கட்டுப்பாட்டு விலை ரூ.220, சம்பா ரூ.230, கீரி சம்பா ரூ.260, அந்த விலைக்கு விற்பனை செய்ய நுகர்வோர் சேவை அதிகாரசபை சுற்றறிக்கையை வெளியிட்டுள்ளது.
+
+அரிசி ஆலை உரிமையாளர்கள்? அரிசியின் விலையை அவ்வப்போது அதிகரிப்பதால் கட்டுப்பாட்டு விலையில் அரிசியை விற்க முடியாமல் தவிப்பதாக அரிசி மொத்த வியாபாரிகள் மற்றும் சில்லறை விற்பனையாளர்கள் தெரிவித்தனர்.
+
+கடந்த வாரம் அரிசி ஆலை உரிமையாளர்கள் நாடு அரிசியை ரூ.235-240, சம்பா ரூ.250, கீரி சம்பா ரூ.260-265 என மொத்த விலையில் வியாபாரிகளுக்கு வழங்கியுள்ளனர்.
+
+◼️
+
+[Data](articles/063f261b.json)
+
+---
+
+### SLMC’s National List MP takes oath
+
+*2024-12-03 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103949/slmcs-national-list-mp-takes-oath) · `en`
+
+M.S. Naleem took oath as the National List MP of the Sri Lanka Muslim Congress (SLMC) before the Speaker of the House Dr. Asoka Ranwala.
+
+The SLMC MP took oath at the commencement of the Parliamentary proceedings this morning (03).
+
+Mohamed Sally Naleem has previously served as the former Chairman of Eravur Urban Council.
+
+◼️
+
+[Data](articles/48b621b4.json)
+
+---
 
 ### Sri Lanka rupee opens stronger at 290.60/65 to dollar, bonds steady
 
@@ -98,21 +152,31 @@ The order has been issued due to the lack of a report for a lawsuit filed agains
 
 ---
 
-### මුදල් කාරක සභාවේ සභාපතිධුරයට හර්ෂගේ නම යෝජනා වෙයි
+### Harsha's name is proposed to be held in the Chairman of the Cash Committee
 
 *2024-12-03 09:30:18* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-කාරක-සභාවේ-සභාපතිධුරයට-හර්ෂගේ-නම-යෝජනා-වෙයි/11-413418) · `si`
 
-පාර්ලිමේන්තුවේ මුදල් කාරක සභාවේ සභාපති ධුරයට සමගි ජන බලවේගයේ කොළඹ දිස්ත්‍රික් මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ නම යෝජනා කිරීමට විපක්ෂයේ පක්ෂ නායකයින්  කිහිප දෙනෙක් තීරණය කර තිබේ.
+Here's a summary in 200 characters:
 
-ඒ අනුව මුදල් කාරක සභාවේ සභාපති ධුරය සඳහා ආචාර්ය හර්ෂද සිල්වා මහතාගේ නම අද (3දා) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
 
-පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මුදල් කාරක සභාවේ සභාපති ධුරයට පත් කිරීමට නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ ,එක්සත් ජාතික පක්ෂය ඇතුළු විපක්ෂයේ පක්ෂ වල එකඟතාවය පළ වූ බව පාර්ලිමේන්තු මන්ත්‍රී  අනුරාධ ජයරත්න මහතා කීවේය.
 
-ආචාර්ය හර්ෂද සිල්වා මහතා මීට පෙර දෙවතාවක් මුදල් කාරක සභාවේ සභාපති ධුරය දරා තිබේ.
+Harsha De Silva named for Cash Committee Chair. Party leaders propose him. To be presented in Parliament today. He's served as Chair twice before. Opposition supports his candidacy.
+
+🟩
+
+Several party leaders have decided to propose Mr. Harsha District MP Dr. Harsha De Silva, Colombo District MP Dr. Harsha De Silva, the Chairman of the Committee of Parliament.
+
+Accordingly, Dr. Harsha Silva's name is to be tabled in Parliament today (3) for the post of Chairman of the Cash Committee.
+
+MP Dr. Harsha De Silva agreed to the post of Chairman of the Purpose Committee and the opposition parties including the UNP, said MP Anuradha Jayaratne said.
+
+Dr. Harsha Silva has held the post of Chairman of the Committee twice.
 
 ◼️
 
 [Data](articles/0bfa92df.json)
+
+[Extended Data](ext_articles/0bfa92df.ext.json)
 
 ---
 
@@ -2323,83 +2387,5 @@ Any inquiries regarding the submission of applications can be made through hotli
 [Data](articles/4aa795d6.json)
 
 [Extended Data](ext_articles/4aa795d6.ext.json)
-
----
-
-### Committener report to the President's privileges
-
-*2024-12-02 17:01:29* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමති-හිටපු-ජනපති-වරප්‍රසාද-ගැන-සෙවූ-කමිටු-වාර්තාව-ජනපතිට/11-413407) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Committee report: Re-examining perks offered by MPs, ministers, and ex-presidents. Handed to President Anura Kumara Dissanayake. Prime Minister Haritha Amarasuriya and Presidential Secretary Nandika Sanath Kanayake attended.
-
-🟩
-
-Re-considered Ken to reconsider the offers and privileges provided by MPs, Ministers and former Presidents. T. The report of the Phariseiri Committee has been handed over to President Anura Kumara Dissanayake.
-
-Prime Minister Dr. Harathin Amarasuriya and Presidential Secretary Dr. Nandika Sanath Kanayake participated in the event.
-
-◼️
-
-[Data](articles/d4bfdb1c.json)
-
-[Extended Data](ext_articles/d4bfdb1c.ext.json)
-
----
-
-### The arrested protesters remanded
-
-*2024-12-02 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203963) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Four protesters arrested, accused of injuring police. Remanded till 10th. Case heard at Ministry of Education courthouse. Attorneys present.
-
-🟩
-
-Kaduwela Acting Magistrate Kamal Prasanna Wijesiri today (02) ordered that four suspects were presented in the courts before the Ministry of Education in front of the Ministry of Education at the courts.
-
-The suspects were produced before the court on the allegations of a number of people and the injuries of police officers.
-
-The suspects were produced in court and injured three police officers including the Colombo National Hospital and the Colombo National Hospital.
-
-The Acting Magistrate ordered the four suspects to be remanded until the 10th to be remanded until the 10th.
-
-Attorneys, Nuwan Bopage Nuwan Bopage, Nuwan Jayawardena, also came forward with lawyers, Nuwan Jayawardena.
-
-◼️
-
-[Data](articles/6438a9b1.json)
-
-[Extended Data](ext_articles/6438a9b1.ext.json)
-
----
-
-### Four arrested during development officers’ protest remanded
-
-*2024-12-02 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103931/four-arrested-during-development-officers-protest-remanded) · `en`
-
-The four protestors arrested during a tense situation in front of the Ministry of Education today (02) have been ordered to be remanded until December 10.
-
-This order was issued after they were produced before Kaduwela Magistrate’s Court, Ada Derana reporter said.
-
-A tense situation was reported in front of the Ministry of Education at Isurupaya, Battaramulla as the police attempted to disperse protesting Development Officers this afternoon.
-
-The Development Officers had engaged in the demonstration demanding that they be made permanent in the teaching service.
-
-Earlier, it was reported that the Kottawa - Borella Road (174 bus route) was completely blocked for traffic in front of the Ministry of Education due to the protest by Development Officers.
-
-Meanwhile, three police officers including a Sub-Inspector have reportedly been injured during the incident with one of them in the ICU.
-
-◼️
-
-[Data](articles/b739b9bb.json)
-
-[Extended Data](ext_articles/b739b9bb.ext.json)
 
 ---

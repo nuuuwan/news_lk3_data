@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 13:26:00**
+As of **2024-12-03 12:42:27**
 
 ## Newspaper Stats
 
-*Scraped **58,213** Articles*
+*Scraped **58,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,497
 economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,505
+adalk | 5,504
 adaderanalk | 7,061
-tamilmirrorlk | 8,282
+tamilmirrorlk | 8,280
 virakesarilk | 9,527
 adaderanasinhalalk | 10,056
 
@@ -26,59 +26,11 @@ adaderanasinhalalk | 10,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,210 (100.0%) of 58,213 articles have been extended.
+58,198 (100.0%) of 58,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
-
-### Wife killed in accident;The husband hurt
-
-*2024-12-03 12:43:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மனைவி-பலி-கணவன்-காயம்/175-348176) · `ta`
-
-Woman dies in motorcycle accident; Husband injured
-
-🟩
-
-A woman has died in a vehicle accident in Pallama, Adammana area on Monday (2) and has been admitted to hospital with injuries.
-
-A married woman, A. Indra (age 30) from Madambai, Madambai, has died and her husband, 32, has been admitted to the Chilaw Hospital for treatment.
-
-It is reported that the couple were traveling on a motorcycle on a motorcycle in Uriyawa, Uriyawa, Anamaduwa.
-
-The accident occurred when the husband and wife were traveling in a motorcycle and a cab which was traveling from Chilaw to Anamaduwa area, police said.
-
-◼️
-
-[Data](articles/60c79b5f.json)
-
-[Extended Data](ext_articles/60c79b5f.ext.json)
-
----
-
-### Gas price revision announcement tomorrow
-
-*2024-12-03 12:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலை-திருத்தம்-நாளை-அறிவிப்பு/175-348175) · `ta`
-
-Litro announces gas price revision for December on Wednesday. Price adjustment based on global market costs. Possible price increase due to rising global prices, but discussions ongoing to maintain current rates for public relief.
-
-🟩
-
-According to the monthly gas prices amendment, the December Price Correction will be announced on Wednesday (04), Litro said.
-
-It is reported that the price of gas will be corrected this year, comparing the cost of gas in the world market.
-
-Currently, the price of gas in the world market has increased and the price of gas in this country should be increased.
-
-However, with the aim of providing relief to the people, there are also discussions to maintain the price of gas.
-
-◼️
-
-[Data](articles/e6b00322.json)
-
-[Extended Data](ext_articles/e6b00322.ext.json)
-
----
 
 ### 88 arrested for staying at school
 
@@ -414,51 +366,35 @@ He noted that this government has taken over the situation where a deep complex 
 
 ---
 
-### A new Police Media Spokesman
+### නව පොලිස් මාධ්‍ය ප්‍රකාශකවරයෙක්
 
 *2024-12-03 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203987) · `si`
 
-New Police Media Director: Senior Superintendent Manatunga appointed. Former spokesperson DIG Nimael Talduuwa remains as DIG of Criminal Investigation Division.
+ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.බී. මනතුංග මහතා පොලිස් මාධ්‍ය අධ්‍යක්ෂ සහ පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස පත් කර තිබේ.
 
-🟩
-
-Senior Superintendent of Police. Mr. Manatunga has been appointed Police Media Director and Police Media Spokesman.
-
-Meanwhile, former Police Media Spokesperson, DIG Nimael Talduuwa will continue to be the DIG of the Criminal Investigation Division.
+මේ අතර හිටපු පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා අපරාධ විමර්ශන අංශයේ නියෝජ්‍ය පොලිස්පතිවරයා ලෙස තවදුරටත් කටයුතු කරනු ඇති බවත් පොලිස් මූලස්ථානය පවසයි.
 
 ◼️
 
 [Data](articles/cad67e31.json)
 
-[Extended Data](ext_articles/cad67e31.ext.json)
-
 ---
 
-### Prime Minister Harinini is a historic transformation
+### ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස කටයුතු කරනවා - අගමැති හරිනි
 
 *2024-12-03 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203986) · `si`
 
-Here's a summary of 200 characters:
+ඓතිහාසික ජන වරමක් ලැබූ ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස වර්ථමාන ආණ්ඩුව කටයුතු කරන බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
 
+අද (03) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඇය පැවසුවේ මෙරට ජනතාව ඔවුන් සතුව ඇති පරමාධිපත්‍ය බලය තුළින් මෙතෙක් කලක් ආණ්ඩු කළ සාම්ප්‍රදායික දේශපාලනය ප්‍රතික්ෂේප කරමින් නව දේශපාලන සංස්කෘතියක් වෙනුවෙන් පෙළ ගැසුණු බවය.
 
+එමෙන්ම ජනතාව ලබා දී ඇති මෙම පණිවිඩය මැනවින් තේරුම් ගනිමින් කටයුතු කළ යුතු බවත් ඇය අද පාර්ලිමේන්තුවේදී පැවසුවාය.
 
-PM Harinini: New political culture rejects corruption. Voters chose intelligence over traditional politics. Government represents people's will, reflecting national change.
-
-🟩
-
-The present government is acting as a government representing a historical translation.
-
-Speaking in Parliament today (03), she said that the people of this country racked a new political culture, rejecting the traditional politics that has already gone through the sovereignty of the country.
-
-She also said in parliament today that the people who have given the people should be well understood.
-
-"What did the voter in our country showed. It is not politics, but they deny that political culture that exercise corrupt power. Instead, they have proven that the intelligence of our country have matters politically, and that the political movement of the people who represent a new political culture.
+"අපේ රටේ ඡන්දදායකයා මොකක්ද පෙන්නුම් කළේ. දේශපාලනය නෙමෙයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ ඒ දූෂිත බලය අවභාවිතා කරන ඒ දේශපාලන සංස්කෘතියයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ. ඒ වෙනුවට අලුත් දේශපාලන සංස්කෘතියක් නියෝජනය කරන ජනතාවාදී සහභාගීත්ව, ප්‍රජාතන්ත්‍රවාදය තියෙන දේශපාලන ව්‍යාපාරයක් ගොඩනගා ගන්නත්, ඒ වෙනුවෙන් ක්‍රියාත්මක වෙන්නත්, දේශපාලනිකව ඒකට මැදිහත් වෙලා ඒකට විසඳුම් සොයා ගන්නත් අපේ රටේ ජනතාව තුළ ඒ බුද්ධිය, සහ අපේ රටේ ඒ දේශපාලන පරිනතභාවට තියෙන බව ඔවුන් ඔප්පු කරලා තියෙනවා.
 
 ...
 
 [Data](articles/df6f4e02.json)
-
-[Extended Data](ext_articles/df6f4e02.ext.json)
 
 ---
 
@@ -498,33 +434,25 @@ Meanwhile, former Spokesman DIG Nihal Thalduwa will continue in his capacity as 
 
 [Data](articles/3d037563.json)
 
-[Extended Data](ext_articles/3d037563.ext.json)
-
 ---
 
-### 54 senior police officers, including Deputy Police Principals
+### பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம்
 
 *2024-12-03 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200279) · `ta`
 
-Senior police transfers: 54 officers moved, 5 DIGs to National Police Commission, 7 officers to assistant roles. Key appointments: HW IS Mudumala as CID Director, EMMS Tehiteniya transferred.
+பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
 
-🟩
+தேசிய பொலிஸ் ஆணைக்குழுவினால் உடனடியாக அமுலுக்கு வரும் வகையில் 5 பிரதி பொலிஸ் மா அதிபர்கள் மற்றும் 35 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
 
-54 senior police officers, including Deputy Police Principals, have been transferred.
+இதேவேளை, 7 பொலிஸ் அதிகாரிகள் மற்றும் 7 உதவி பொலிஸ் அதிகாரிகளும் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
 
-Five Deputy Inspector General of Police and 35 senior police officers have been transferred to the National Police Commission immediately, the police headquarters said.
+குற்றப் புலனாய்வுத் திணைக்களத்தின் பிரதிப் பணிப்பாளராக கடமையாற்றிய மகளிர் பிரிவின் சிரேஷ்ட பொலிஸ் அதிகாரி எச்.டபிள்யூ.ஐ.எஸ்.முதுமால குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக நியமிக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
 
-Meanwhile, 7 police officers and 7 assistant police officers have been transferred.
-
-The Senior Police Officer of the Women's Division, HW IS Mudumala, who served as the Deputy Director of the Criminal Investigation Department, has been appointed as the Director of the Criminal Investigation Department, police headquarters said.
-
-In addition, Senior Police Officer EMMS Tehiteniya, who served as the Director of the Criminal Investigation Department as the Officer in charge of the Nugegoda Police Division, has been transferred.
+மேலும், நுகேகொடை பொலிஸ் பிரிவுக்கு பொறுப்பான அதிகாரியாக குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளராக கடமையாற்றிய சிரேஷ்ட பொலிஸ் அதிகாரி ஈ.எம்.எம்.எஸ் தெஹிதெனிய இடமாற்றம் செய்யப்பட்டுள்ளார்.
 
 ◼️
 
 [Data](articles/8453f5d2.json)
-
-[Extended Data](ext_articles/8453f5d2.ext.json)
 
 ---
 
@@ -546,8 +474,6 @@ No LP gas price revision took place last month, and the most recent price revisi
 
 [Data](articles/eb5f308f.json)
 
-[Extended Data](ext_articles/eb5f308f.ext.json)
-
 ---
 
 ### Iraqi fighters head to Syria to battle rebels but Lebanon’s Hezbollah stays out, sources say
@@ -565,8 +491,6 @@ The rebel storm of Aleppo is the biggest success of anti-Assad fighters for year
 ...
 
 [Data](articles/055375f7.json)
-
-[Extended Data](ext_articles/055375f7.ext.json)
 
 ---
 
@@ -674,31 +598,25 @@ Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
 
 ---
 
-### Increase of the total price of rice
+### அரிசியின் மொத்த  விலை அதிகரிப்பு
 
 *2024-12-03 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியின்-மொத்த-விலை-அதிகரிப்பு/150-348158) · `ta`
 
-Rice price hike: Mill owners raise rates, wholesalers pass on costs. Consumer body sets controlled prices but traders struggle to maintain them due to higher procurement costs.
+நாடு, சம்பா மற்றும் கீரி சம்பா அரிசியின் மொத்த விலையை அதிகரித்துள்ளதாக அரிசி ஆலை உரிமையாளர்கள் நாடளாவிய ரீதியில் உள்ள அரிசி மொத்த வியாபாரிகளுக்கு அறிவித்துள்ளனர்.
 
-🟩
+அதன்படி, ஒரு கிலோ கிராம் நாட்டு அரிசியின் மொத்த விலை 255 ரூபாயாகவும், சம்பா அரிசி 260 ரூபாயாகவும், கீரி சம்பா 275 ரூபாயாகவும் அதிகரிக்கப்பட்டுள்ளது.
 
-Rice mill owners have informed the country's rice wholesalers around the country that the total price of the country, samba and kiri samba rice has increased.
+அந்த விலைக்கு தேவையான அரிசியின் அளவுக்கான கட்டணத்தை வங்கியில் செலுத்துமாறு அரிசி ஆலை உரிமையாளர்கள் வியாபாரிகளுக்கு அறிவுறுத்தியுள்ளனர்.
 
-Accordingly, the total price of a kilogram of rice has been increased to Rs.
+சந்தையில் நாட்டு அரிசியின் கட்டுப்பாட்டு விலை ரூ.220, சம்பா ரூ.230, கீரி சம்பா ரூ.260, அந்த விலைக்கு விற்பனை செய்ய நுகர்வோர் சேவை அதிகாரசபை சுற்றறிக்கையை வெளியிட்டுள்ளது.
 
-Rice mill owners have advised the merchants to pay the cost of the rice required for that price.
+அரிசி ஆலை உரிமையாளர்கள்? அரிசியின் விலையை அவ்வப்போது அதிகரிப்பதால் கட்டுப்பாட்டு விலையில் அரிசியை விற்க முடியாமல் தவிப்பதாக அரிசி மொத்த வியாபாரிகள் மற்றும் சில்லறை விற்பனையாளர்கள் தெரிவித்தனர்.
 
-The Consumer Service Authority has issued a circular to sell the country's rice control prices at Rs 220, Samba Rs.
-
-Owners of rice mill?Rice wholesale traders and retailers said that the price of rice occasionally increases, unable to sell rice at control prices.
-
-Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
+கடந்த வாரம் அரிசி ஆலை உரிமையாளர்கள் நாடு அரிசியை ரூ.235-240, சம்பா ரூ.250, கீரி சம்பா ரூ.260-265 என மொத்த விலையில் வியாபாரிகளுக்கு வழங்கியுள்ளனர்.
 
 ◼️
 
 [Data](articles/43ad3ada.json)
-
-[Extended Data](ext_articles/43ad3ada.ext.json)
 
 ---
 
@@ -754,25 +672,19 @@ Further measures against these companies will be determined based on the judgmen
 
 ---
 
-### GCE Ordinary Level Examination
+### க.பொ.த சாதாரண தர பரீட்சைக்கான விண்ணப்ப காலம் நீடிப்பு
 
 *2024-12-03 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200284) · `ta`
 
-GCE Ordinary Level Exam application deadline extended to 10th of this month. Apply from Nov 5 to 30. Contact: 1911, 0112784208, 0112784537, 0112786616, 0112786200, 0112786201, 0112786202.
+2 2024 (2025) ஆம் ஆண்டு க.பொ.த சாதாரண தரப் பரீட்சைக்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் இம்மாதம் 10ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம்  அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
 
-🟩
+க.பொ.த சாதாரண தரப் பரீட்சைக்கான இணையவழியூடாக விண்ணப்பங்களை சமர்ப்பிப்பதற்கான காலவகாசம் நவம்பர் மாதம் 5 ஆம் திகதி முதல் 30 ஆம் திகதி வரை வழங்கப்பட்டிருந்த நிலையில் நாட்டில் நிலவும் மோசமான வானிலை காரணமாக விண்ணப்பங்களை சமர்ப்பிக்கும் கால அவகாசம் தற்போது நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் தெரிவித்தார்.
 
-2 2024 (2025) The deadline for accepting applications for the GCE Ordinary Level Examination has been extended till the 10th of this month, the Commissioner General of Examinations Amit Jayasundara said.
-
-The Commissioner General of Examinations said that the deadline for submitting applications through the GCE Ordinary Level Examination has been issued from November 5 to 30.
-
-Further information on this can be obtained from the telephone numbers of 1911, 0112784208, 0112784537, 0112786616, 0112786200, 0112786201 and 0112786202.
+இது தொடர்பிலான மேலதிக தகவல்களை  1911, 0112784208, 0112784537, 0112786616, 0112786200, 0112786201 மற்றும் 0112786202 ஆகிய தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொண்டு பெற்றுக்கொள்ள முடியும் என பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர மேலும் தெரிவித்துள்ளார்.
 
 ◼️
 
 [Data](articles/eeefd601.json)
-
-[Extended Data](ext_articles/eeefd601.ext.json)
 
 ---
 
@@ -794,27 +706,21 @@ Mohamed Sally Naleem has previously served as the former Chairman of Eravur Urba
 
 ---
 
-### Train services delay at coastal and Chilaw railway
+### கரையோர மற்றும் சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
 
 *2024-12-03 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200281) · `ta`
 
-Train delays reported on coastal & Chilaw railways: Aluthgama train technical issue near Ratmalana; Chilaw affected by signal problem at Negombo station.
+கரையோர மற்றும் சிலாபம் ரயில் மார்க்கத்தில் இன்று செவ்வாய்க்கிழமை (03) ரயில் சேவைகள் தாமதமடைந்துள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
 
-🟩
+அளுத்கமவிலிருந்து பயணித்த ரயில் ஒன்று இரத்மலானை ரயில் நிலையத்திற்கு அருகில் வைத்து தொழினுட்ப கோளாறுக்கு உள்ளாகியுள்ளது. இதனால் கரையோர ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதமடைந்துள்ளன.
 
-The Railway Department said that the train services were delayed on Tuesday (03) at the coastal and Chilaw railway line.
+அத்துடன்,  நீர்கொழும்பு ரயில் நிலையத்தில் ஏற்பட்ட சமிக்ஞை கோளாறு காரணமாக சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளன.
 
-A train traveling from Aluthgama has been subjected to a technical disorder near Ratmalana railway station. As a result, train services have been delayed on the coastal railway line.
-
-In addition, train services at Chilaw Railway Station have been affected due to a signal problem at the Negombo railway station.
-
-Due to this, the Railway Department further stated that the train services may be delayed at Chilaw Railway.
+இதன் காரணமாக சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகலாம் என ரயில்வே திணைக்களம் மேலும் தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/ec683eb9.json)
-
-[Extended Data](ext_articles/ec683eb9.ext.json)
 
 ---
 
@@ -865,38 +771,6 @@ In equities, the All Share Price Index was up 0.19 percent or 24.63 points, at 1
 [Data](articles/64b38607.json)
 
 [Extended Data](ext_articles/64b38607.ext.json)
-
----
-
-### 8 Indonesians arrested - Over 191
-
-*2024-12-03 09:43:41* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනිසියානු-ජාතිකයන්-8ක්-අල්ලයි---තවත්-191ක්-ගැන-තොරතුරු-හොයයි/11-413419) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Eight Indonesian nationals arrested in Nuwara Eliya for being in a mosque without passports/visas. They were visiting Hatton and Nawalapitiya before arrest. Ages ranged from 25-65. Investigation ongoing; 191 others also under scrutiny. Suspects to appear in court.
-
-🟩
-
-An official of the Nuwara Eliya Police said that eight Indonesians who were in a mosque of the Nuwara Eliya without a passport and visa were arrested on suspicion of the day.
-
-On information received by the Nuwara Eliya Police Station and inspect the eight Indonesians and inspect the air passport or visa at the time of the arrest of the suspects.Police officers said that the suspects have handed over all documents to the embassy in Sri Lanka to renew the visa due to the propedity.
-
-It has been revealed that the eight arrested suspects visited Hatton and Nawalapitiya areas before the Nuwara Eliya.
-
-The suspects have come to the Sri Lankan and they have come to travel in different areas of the country between 25-65 years.
-
-A investigation has also been investigated by the 191 other 191 other visitors to Sri Lanka.
-
-The suspects have been made aware of the suspects in the arrested suspects and the suspects are produced before the Nuwara Eliya Magistrate's Court on the Colombo Magistrate's Court.
-
-◼️
-
-[Data](articles/b9e1afb4.json)
-
-[Extended Data](ext_articles/b9e1afb4.ext.json)
 
 ---
 
@@ -2361,5 +2235,85 @@ Uganda's Stella Sesang (2:18:26) finished second and Ethiopian Drye Mespin (2:18
 [Data](articles/1c014f66.json)
 
 [Extended Data](ext_articles/1c014f66.ext.json)
+
+---
+
+### New Constitution: What are the steps to be taken next?Gajendrakumar - A review at the meeting between Sridharan
+
+*2024-12-02 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200271) · `ta`
+
+Steps after new constitution: Federal solution implementation, dialogue between TNA leaders, public program approach.
+
+🟩
+
+During the meeting between MPs Gajendrakumar Ponnambalam and Sivagnanam Sridharan on the need to implement a federal -based solution in a way that can be fulfilled in the new constitution and the next step.
+
+In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
+
+According to Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
+
+Meanwhile, Sivagnanam Sridharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), and the parliamentarian of the Democratic Tamil National Alliance (TNA), Selvam Adakkalanathan, stated that he was ready to negotiate beyond the proposal.
+
+...
+
+[Data](articles/a3475a0b.json)
+
+[Extended Data](ext_articles/a3475a0b.ext.json)
+
+---
+
+### Will you now fulfill the previous obligations in the Sri Lankan affair?- Uma Kumaran MP questioned to British Foreign Secretary David Lemi
+
+*2024-12-02 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200270) · `ta`
+
+Sri Lanka ICC obligations: Foreign Sec David Lemi responds to UK MP Uma Kumaran's questions about accountability for past human rights violations.
+
+🟩
+
+British Foreign Secretary David Lemi has questioned British Foreign Secretary David Lemi whether Sri Lanka will now fulfill its previous obligations on the issue of the International Criminal Court and to ensure accountability on past violations.
+
+British MP Uma Kumaran, a native of Sri Lanka at the Foreign Affairs Committee meeting held in the UK parliament last week (27), has questioned Foreign Secretary David Lemi about the above issue.
+
+Uma Kumaran pointed out that "today (27) is an important day for Tamils ​​around the world," you urged the British government to consider the recommendation of the United Nations Human Rights High Commission to give the Tamils ​​to the Tamils ​​in 2023 and to present the criminals involved in the most casual human rights violations.
+
+...
+
+[Data](articles/b8353c32.json)
+
+[Extended Data](ext_articles/b8353c32.ext.json)
+
+---
+
+### It is our responsibility to oppose the hunt - Dilith
+
+*2024-12-02 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203969) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+LTTE suspects arrested over Mahaviru Day. Some bailed, others remanded. Opposition leader Dilith Jayaweera criticizes government control of social media, saying it hampers free speech and national unity.
+
+🟩
+
+The LTTE.. The Colombo Chief Magistrate's Court was released on bail due to the bail of the Mahawaru Day celebrations.
+
+The LTTE.. Four suspects were arrested on several occasions on charges of suffering the Mahaviru Day celebrations.
+
+Among the other suspects were presented to the Jaffna Magistrate's Court yesterday (01), who was remanded until December 4.
+
+The rest of the suspects is Kelum Jayasehana and Janith Chathuranga.
+
+Dilita Jayaweera and several others arrived at the Welikada Prison premises to look into the health of Mr. Kelum Jayasumana.
+
+Headdica MP Dilith Jayaweera said that the government is unnecessarily administered.
+
+He said that it was a profound effect on the freedom of the people's opinion.
+
+...
+
+[Data](articles/65942d85.json)
+
+[Extended Data](ext_articles/65942d85.ext.json)
 
 ---

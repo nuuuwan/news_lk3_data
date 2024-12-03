@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 13:43:21**
+As of **2024-12-03 14:02:11**
 
 ## Newspaper Stats
 
-*Scraped **58,219** Articles*
+*Scraped **58,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,506
 adaderanalk | 7,066
-tamilmirrorlk | 8,282
+tamilmirrorlk | 8,283
 virakesarilk | 9,527
 adaderanasinhalalk | 10,056
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,213 (100.0%) of 58,219 articles have been extended.
+58,218 (100.0%) of 58,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### மாணவர்களுக்கு 6,000 ரூபாய் கொடுப்பனவு
+
+*2024-12-03 13:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-6-000-ரூபாய்-கொடுப்பனவு/175-348178) · `ta`
+
+அஸ்வெஸ்ம கொடுப்பனவு கிடைக்கும் குடும்பங்கள், மாற்றுத்திறனாளிகள் மற்றும் விசேட காரணங்களுக்காக அனாதை இல்லங்களில் உள்ள  பாடசாலை மாணவர்களுக்கான பாடசாலைப் புத்தகங்களை கொள்வனவு செய்வதற்கு 6,000 ரூபாய் கொடுப்பனவை நடைமுறைப்படுத்த அரசாங்கம் தீர்மானித்துள்ளது.
+
+பிரதமர் ஹரிணி அமரசூரியவினால் அமைச்சரவையில் முன்வைக்கப்பட்ட பிரேரணைக்கு அங்கீகாரம் கிடைத்துள்ளதாகவும் ஆளும் கட்சியின் பிரதான அமைப்பாளரான அமைச்சர் நளிந்த ஜயதிஸ்ஸ   பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (03) தெரிவித்தார்.
+
+◼️
+
+[Data](articles/598296eb.json)
+
+---
 
 ### Tomorrow’s Parliamentary session extended until 9.30 p.m.
 
@@ -43,6 +57,8 @@ Accordingly, the adjournment debate regarding the disaster situation caused by t
 ◼️
 
 [Data](articles/feb595f6.json)
+
+[Extended Data](ext_articles/feb595f6.ext.json)
 
 ---
 
@@ -62,6 +78,8 @@ Furthermore, he expressed that the Cabinet of Ministers approved the proposal pe
 
 [Data](articles/917a50cc.json)
 
+[Extended Data](ext_articles/917a50cc.ext.json)
+
 ---
 
 ### Sajith criticizes govt. of using PTA to oppress social media
@@ -79,6 +97,8 @@ Speaking in Parliament today (03), Premadasa pointed out that social media playe
 ◼️
 
 [Data](articles/a2fef890.json)
+
+[Extended Data](ext_articles/a2fef890.ext.json)
 
 ---
 
@@ -102,6 +122,8 @@ Accordingly, the judge ordered that the accused be sentenced to life imprisonmen
 
 [Data](articles/90201360.json)
 
+[Extended Data](ext_articles/90201360.ext.json)
+
 ---
 
 ### Govt. pledges relief to direct and indirect weather-affected communities
@@ -119,6 +141,8 @@ Additionally, 12,348 families—amounting to 38,616 individuals—were initially
 ...
 
 [Data](articles/b1015d0e.json)
+
+[Extended Data](ext_articles/b1015d0e.ext.json)
 
 ---
 
@@ -2325,25 +2349,5 @@ The Parliament should make a firm decision on accepted nominations. The Election
 [Data](articles/7a7821bd.json)
 
 [Extended Data](ext_articles/7a7821bd.ext.json)
-
----
-
-### Expectations are many; avenues are way too few
-
-*2024-12-02 21:44:17* · [`dailyftlk`](https://www.ft.lk/columns/Expectations-are-many-avenues-are-way-too-few/4-769989) · `en`
-
-The task entrusted, the confidence placed and the expectations of the voter is massive, mountainous and gigantic
-
-The Government has been given only 1,826 days (five years) to undo what was mis-done, correct what was wrong done and do what was not done during 27,759 days (76 years). The Government is entrusted with the mandate to deliver unmet mountainous expectations and aspirations of a nation. The Government cannot afford to waste a single day or look for excuses and explanations. The Government has to work at a mega speed with a clear destination and direction
-
-In 2022, people of all ranks and files from somewhere, anywhere, nowhere and everywhere gathered to demand and “send entire 225 Members of Parliament (MPs) out.” In 2024 the same people gathered to elect and “send 225 MPs in”.
-
-One columnist has put the change occurred on 14 November as “The much awaited miracle did happen”. This miracle was seen in:
-
-...
-
-[Data](articles/c312ce27.json)
-
-[Extended Data](ext_articles/c312ce27.ext.json)
 
 ---

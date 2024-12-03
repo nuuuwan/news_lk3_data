@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 17:43:51**
+As of **2024-12-03 18:03:15**
 
 ## Newspaper Stats
 
-*Scraped **58,266** Articles*
+*Scraped **58,271** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
-bbccomsinhala | 606
+bbccomsinhala | 607
 islandlk | 3,498
 economynextcom | 3,540
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,513
-adaderanalk | 7,074
-tamilmirrorlk | 8,290
+adalk | 5,514
+adaderanalk | 7,076
+tamilmirrorlk | 8,291
 virakesarilk | 9,529
 adaderanasinhalalk | 10,066
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,260 (100.0%) of 58,266 articles have been extended.
+58,260 (100.0%) of 58,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### அர்ச்சுனாவின் குற்றச்சாட்டை மறுத்தார் சுஜித்
+
+*2024-12-03 17:56:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவின்-குற்றச்சாட்டை-மறுத்தார்-சுஜித்/175-348191) · `ta`
+
+தாம் யாரையும் தாக்கவில்லை என கேகாலை மாவட்ட ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் சுஜித் சஞ்சய் பெரேரா   தெரிவித்தார்.
+
+யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனாவின் குற்றச்சாட்டுக்கு பதிலளிக்கையிலேயே  சஞ்சய் பெரேரா மேற்கண்டவாறு தெரிவித்தார்.
+
+யாழ்.மாட்ட சுயேச்சை உறுப்பினர் எதிர்க்கட்சித் தலைவரின் அலுவலகத்திற்கு வந்து மிகவும் அநாகரீகமாக நடந்துகொண்டார் என்றார்.
+
+◼️
+
+[Data](articles/060acf04.json)
+
+---
 
 ### ​​SJB எம்.பி என்னைத் தாக்கினார்;அர்ச்சுனா புதிய குற்றச்சாட்டு
 
@@ -74,6 +90,24 @@ The issue is subject to Colombo Stock Exchange and central bank  approvals.
 
 ---
 
+### Committee report on privileges of MPs and ex-Presidents currently under study - Govt
+
+*2024-12-03 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103971/committee-report-on-privileges-of-mps-and-ex-presidents-currently-under-study-govt) · `en`
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that the report of the committee headed by former Supreme Court Justice K.T. Chitrasiri, which was appointed to review the allowances, perks and privileges provided to Members of Parliament, Ministers and former Presidents, is currently being studied.
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa communicated this during the Cabinet press briefing held today (03).
+
+“After the president was elected, a committee was appointed to investigate the privileges of the Ministers which was headed by the former Supreme Court Justice K.T. Chitrasiri .Their report was handed over to the President yesterday. Its recommendations are currently being studied,” he added.
+
+The Cabinet Spokesman further stated that the committee has presented recommendations to assess and review the limitation of claims, allowances and privileges granted to Members of Parliament (MPs), Ministers, and former Presidents.
+
+...
+
+[Data](articles/15f5a665.json)
+
+---
+
 ### Air Ceilao seeks Sri Lanka approval to operate domestic, international charter flights
 
 *2024-12-03 16:56:00* · [`economynextcom`](https://economynext.com/air-ceilao-seeks-sri-lanka-approval-to-operate-domestic-international-charter-flights-191591/) · `en`
@@ -105,6 +139,46 @@ A bond maturing on 15.09.2029 closed at 10.80/90 percent, down from 10.85/90 per
 ◼️
 
 [Data](articles/18ccc8cf.json)
+
+---
+
+### Colombo Port expansion led by Adani Group progressing as planned, says official
+
+*2024-12-03 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103970/colombo-port-expansion-led-by-adani-group-progressing-as-planned-says-official) · `en`
+
+Sri Lanka’s port expansion project led by Indian conglomerate Adani Group is progressing as planned, an official was reported as saying on Tuesday.
+
+“Construction at the Colombo West International Terminal remains ongoing, with phase one of the project still set for completion in early 2025,” Sirimevan Ranasinghe, chairman of the Sri Lanka Ports Authority, told Bloomberg.
+
+Ranasinghe is also a minority shareholder in the project. He informed the news agency that the project would be continuing as per their agreement inked with Adani Ports and Special Economic Zone.
+
+Adani Group is playing a prominent part in expanding the country’s port infrastructure. The Colombo terminal project, which involves a infusion of $1-billion, marks the largest foreign direct investment in Sri Lanka’s port sector.
+
+Ranasinghe said that US financing had not been finalised, and added that it was up to the joint-venture company developing the project to procure the requisite financing.
+
+...
+
+[Data](articles/c12ef8e9.json)
+
+---
+
+### ජංගම දුරකථනයක ආරවුලකට ඥාති සහෝදරයා ඝාතනය කරලා
+
+*2024-12-03 16:41:10* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථනයක-ආරවුලකට-ඥාති-සහෝදරයා-ඝාතනය-කරලා/11-413429) · `si`
+
+ජංගම දුරකථනයක් සම්බන්ධයෙන් ඇති වූ ආරවුලක් දුර දිග යාම හේතුවෙන්  17 හැවිරිදි ඥාති සහෝදරයෙකු එල්ල කල පිහි පහරකින් 26 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්වීමේ සිද්ධියක්  ඔයා මඩුව පොලිසිස් වසමෙන් වාර්තාවේ.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 13 කණුව , බණ්ඩාරගම පේමඩුව පදිංචිව සිටි  එදිරිසිංහ ආරච්චිලාගේ ජය සංඛ පද්ම කුමාර නැමැති 26 හැවිරිදි තරුණයෙකි.
+
+සැකකරු සහ මරණකරු ඉකුත් 1දා  කුඹුරක වැඩ කරමින් සිටියදී ජංගම දුරකථනයක් සම්බන්ධයෙන්  ඇති වූ  ආරවුලක් දුරදිග යාමෙන්  දෙදෙනා පොර බදා ඇති අතර  පසුව සැකකරු සඟවා ගෙන සිටි පිහියක් රැගෙන  මරණකරුට බරපතල තුවාල  සිදු කර තිබූ බව පොලිසිය කියයි.
+
+සැකකරු  සහ මරණකරු පොර බදින අවස්ථාවේදී එම ස්ථානයට දිව ගොස් ඇති කුඹුරේ හිමිකරු  සැකකරුට ප්ලාස්ටික් බටයකින් පහරක්  එල්ල කර ඔහු අත තිබූ පිහිය  උදුරා ගෙන මරණකරු ඇලයාපත්තුව  රෝහලට රැගෙන ගිය අවස්ථාවේදී ජීවිතක්ෂයට පත්ව ඇති බවද පොලීසිය වැඩි දුරටත් සඳහන් කළේය
+
+මෙම ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 17  එදිරිසිංහ ආරච්චිලාගේ තරුෂ සඳරුවන් නැමති සැකකරු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+...
+
+[Data](articles/4c4e05be.json)
 
 ---
 
@@ -1382,6 +1456,28 @@ SSP PGS Gunathilaka has been transferred to the Director of the Medical Services
 
 ---
 
+### පොලිසියේ ලොකු පුටු මාරුවෙන් කාන්තා නිලධාරිනියන්ට ලොකු වගකීම්
+
+*2024-12-03 11:52:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgndn1el3vo) · `si`
+
+ජාතික පොලිස් කොමිෂන් සභාව වහාම ක්‍රියාත්මක වන පරිදි නියෝජ්‍ය පොලිස්පතිවරුන් ඇතුළු ජ්‍යෙෂ්ඨ පොලිස් නිලධාරින් 54 දෙනෙකුට ස්ථාන මාරුවීම් ලබා දී  අත්තේ ජ්‍යෙෂ්ඨ නිලධාරිනියන් පිරිසකට ද නව වගකීම් පවරමිනි.
+
+එසේ ස්ථාන මාරුවිම් ලැබු පොලිස් ජ්‍යෙෂ්ඨයන් අතර නියෝජ්‍ය පොලිස්පතිවරුන් 5 දෙනෙකු, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන් 35 දෙනෙකු සිටින අතර ඊට අමතරව පොලිස් අධිකාරීවරුන් 7 දෙනෙකු සහ සහකාර පොලිස් අධිකාරීවරුන් 7 දෙනෙකු ඇතුළත් වේ.
+
+කොස්තාපල් නිලයේ සිට වැඩබලන පොලිස්පති දක්වා පැමිණි ප්‍රියන්ත වීරසූරිය කවුද?
+
+මෙම ස්ථාන මාරුවේදී පළමු වතාවට පොලිස් නිලධාරිනියක් අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ (CID) අධ්‍යක්ෂ ධුරයට පත් කර තිබීම මෙරට පොලිස් ඉතිහාසයේ සුවිශේෂි සිදුවීමකි.
+
+එසේ අධ්‍යක්ෂවරිය ලෙස පත් කර ඇත්තේ එම දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ ධුරයේ කටයුතු කළ පළමු නිලධාරිනිය වු කාන්තා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ඉමේෂා මුතුමාල යි.
+
+2007 වසරේ දී කාන්තා සහකාර පොලිස් අධිකාරි තනතුරෙන් පොලිස් සේවයට එක් වී ඇති ඇය, මෙරට පොලිස් ඉතිහාසයේ කාන්තා සහකාර පොලිස් අධිකාරි නිලයට පත්වු නිලධාරිනියන් තිදෙනාගෙන් එක් අයෙකි.
+
+...
+
+[Data](articles/56aa9b42.json)
+
+---
+
 ### Naleem's Satyaprama
 
 *2024-12-03 11:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-எம்-பியாக-நளீம்-சத்தியப்பிரமாணம்/175-348165) · `ta`
@@ -2335,141 +2431,5 @@ The Railway Department said that the train service at the coastal railway line h
 [Data](articles/5a14bc11.json)
 
 [Extended Data](ext_articles/5a14bc11.ext.json)
-
----
-
-### US Assistant Secretary to South and Central Asian Affairs Donald Lu visit Sri Lanka
-
-*2024-12-03 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200280) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-US Assistant Secretary Donald Lu visits Sri Lanka, strengthening ties on anti-corruption efforts and economic development.
-
-🟩
-
-US Assistant Secretary to South and Central Asian Affairs Donald Lu has made a visit to Sri Lanka.
-
-He has made a visit to India, Sri Lanka and Nepal from the month of the month.
-
-Donald Lu's visit will strengthen cooperation with key shareholders in South Asia and promote regional growth and safety.
-
-US Assistant Secretary of State Donald Lu is participating in key meetings in New Delhi in India, supporting the cooperation between India and the United States and the importance of the Indo-Pacific region.
-
-Donald Lu, along with Daniel Cridenpiring, Employees of the Eastern Asia and Pacific Region, will lead the United States of America East Asia Consultations (U.S. -India East Asia Consultations). These suggestions and separate meetings with senior officials of the Indian government will play an important role in world and regional matters.
-
-...
-
-[Data](articles/5e36e6ce.json)
-
-[Extended Data](ext_articles/5e36e6ce.ext.json)
-
----
-
-### Action of the National Police Commission
-
-*2024-12-03 09:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பொலிஸ்-ஆணைக்குழுவின்-அதிரடி-நடவடிக்கை/175-348151) · `ta`
-
-National Police Commission transfers senior officers. Deputy Inspector Generals moved to implementation roles. Director of Criminal Investigation Department position filled by Senior Superintendent of Police Muthumala.
-
-🟩
-
-Several senior police officers, including Deputy Inspector Generals of Police, have been transferred to implementation immediately.
-
-Accordingly, the Director of the Criminal Investigation Department, Senior Superintendent of Police, EMMS. Senior Superintendent of Police. Muthumala has been appointed as the Director of the Criminal Investigation Department. Remble
-
-◼️
-
-[Data](articles/2c62ea57.json)
-
-[Extended Data](ext_articles/2c62ea57.ext.json)
-
----
-
-### Rugby wins in 54 years
-
-*2024-12-03 09:18:38* · [`adalk`](https://www.ada.lk/sports/වසර-54කින්-ලංකාව-ලබාගත්-රග්බි-ජය/9-413416) · `si`
-
-Sri Lanka's rugby team returns after 54 years, competing in Dubai tournament with international teams.
-
-🟩
-
-"Sri Lions' rugby team to the International Rugby Tournament came to the Katunayake Airport on 54 years after the first time in the history of Sri Lanka.
-
-The International Rugby Championship was held in Dubai until the participation of 18 countries in the world, "Dubai-07 countries from 18 countries from 18 countries from the world.
-
-"Sri Lions' Rugby team was competed in the 'Open Men' (International Open Mens Open, the highest competitive sector of the tournament.
-
-The Sri Lions has played five players representing the Sri Lankan national team.
-
-The 'Sri Lions' Rugby team has been the first Sri Lankan team to be the first Sri Lankan team to represent Sri Lanka in the event.
-
-A group of Sri Lankan players Fiji, Australia, South Africa, and Tona kingdom were also present.
-
-Sri Lion's rugby players from Dubai to 10.10 pm on Dubai on 22/02 to the Emirates Airport on Dubai."A group of Rugby Sports Club officers also arrived at the airport.
-
-◼️
-
-[Data](articles/9630c66d.json)
-
-[Extended Data](ext_articles/9630c66d.ext.json)
-
----
-
-### Products of Excise Payments have been suspended
-
-*2024-12-03 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203981) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Excise payments suspended: Liquor licenses extended. 23 companies affected. Tax deadline Nov 30. Unpaid companies face action. Ownership checks ongoing. Liquor production halted in Northern Province.
-
-🟩
-
-According to the Excise Ordinance, the Excise Ordinance will be suspended and the production license will be taken to extend the next year, says the Excise Department.
-
-The department has pointed out that the product license has been issued for 23 liquor companies regarding this year.
-
-Excise had been granted until November 30 was given to the payment of taxes until November 30 and all other companies have paid out excise applications for liquor licenses.
-
-Accordingly, Welisara W. M. The company said that the company is not paid by Royal Ceylon Distributor Company and Meegoda Macclum Company and Meegoda Macclum Company has been paid.
-
-Accordingly, action will be taken regarding the procedures on the verdict.
-
-The Excise Department has commenced to ensure the ownership of companies relating to Lunuwila Glow, Wayamba, Western Spiritiff, and the relevant companies.
-
-In addition, steps have been taken to suspend the liquor production in the Wagara in the Northern Province.
-
-◼️
-
-[Data](articles/3b3ff698.json)
-
-[Extended Data](ext_articles/3b3ff698.ext.json)
-
----
-
-### Suspended 2024 A/L Exam resumes tomorrow
-
-*2024-12-03 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103946/suspended-2024-al-exam-resumes-tomorrow) · `en`
-
-The 2024 G.C.E. Advanced Level examination which was temporarily suspended due to recent adverse weather conditions is scheduled to recommence tomorrow (Dec. 04).
-
-The 2024 A/L examination commenced on November 25, and was later suspended temporarily on November 27 due to extreme weather conditions that affected the communities across the island.
-
-Accordingly, the Department of Examinations said that the exam will recommence tomorrow and will continue according to the usual time table that has already been provided to the students.
-
-Furthermore, the Commissioner General of Examinations Amith Jayasundara stated that the subjects which were scheduled to be held on the dates, in which the exam had been suspended, will be held in the upcoming days.
-
-The new time table related to the said dates will be provided to the students at the examination centres in the coming days, Jayasundara added.
-
-◼️
-
-[Data](articles/cef36e71.json)
-
-[Extended Data](ext_articles/cef36e71.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 17:26:19**
+As of **2024-12-03 16:01:31**
 
 ## Newspaper Stats
 
-*Scraped **58,260** Articles*
+*Scraped **58,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,177 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 606
-islandlk | 3,498
+islandlk | 3,497
 economynextcom | 3,535
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,513
-adaderanalk | 7,074
+adalk | 5,507
+adaderanalk | 7,073
 tamilmirrorlk | 8,289
 virakesarilk | 9,529
-adaderanasinhalalk | 10,066
+adaderanasinhalalk | 10,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,258 (100.0%) of 58,260 articles have been extended.
+58,237 (100.0%) of 58,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
-
-### What happened to the master to stabbed the master today
-
-*2024-12-03 16:22:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියටම-ඇවිත්-ස්වාමියාට-පිහියෙන්-ඇන්න-බිරිඳට-අද-සිදුවූ-දේ/11-413428) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Woman (42) stabs husband in Ratnapura. Arrested by police. Victim hospitalized. Suspect to appear in court. Further investigation by Children's & Women's Bureau.
-
-🟩
-
-The woman arrested by the police arrested the woman had arrested a person with a knife in the Ratnapura Police.
-
-The arrested persons were 42 year old woman from Pitawatte, Ratnapura.
-
-The man who claimed to be a complaint with a child and a woman in Ratnapura, the wife was arrested by the wife and the woman were arrested by the wife, the wife of the police and women.
-
-A resident of the Ratnapura Hospital 7 hospital is currently receiving treatment at the Ratnapura Hospital 7 Hospital.
-
-The suspect is due to be produced before the court today.
-
-Further investigations will be conducted by the Children's and Women's Bureau on the instructions of Mamal Abeysiri, Ratnapura.(I J)
-
-◼️
-
-[Data](articles/21edf7d2.json)
-
-[Extended Data](ext_articles/21edf7d2.ext.json)
-
----
-
-### Ministerial committee on recruiting development officers into teaching service
-
-*2024-12-03 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103969/ministerial-committee-on-recruiting-development-officers-into-teaching-service) · `en`
-
-The Government of Sri Lanka has decided to appoint a ministerial committee led by Prime Minister Dr. Harini Amarasuriya to provide sustainable solutions to the issues pertaining to the recruitment of school development officers for the teaching service.
-
-The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa communicated this during the Cabinet press briefing held today (03).
-
-Currently, more than 15,800 development officers are engaged in teaching in both national and provincial schools.
-
-Accordingly, a ministerial committee chaired by the Prime Minister will be appointed to identify various problems that have arisen in relation to the performance of the development officers as well as the administrative work, analyze the problems and propose sustainable solutions for them.
-
-...
-
-[Data](articles/5c774e7d.json)
-
----
-
-### Cabinet approval to remove government high luxury vehicles
-
-*2024-12-03 16:17:06* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-අධි-සුඛෝපභෝගී-වාහන-ඉවත්-කිරීමට-කැබිනට්-අනුමැතිය/11-413427) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Cabinet approves removal of luxury vehicles from government institutions due to high maintenance and fuel costs. Decision aims to optimize resources and reduce expenses.
-
-🟩
-
-Cabinet approval has been approved to abolidate such high luxury vehicles, considering the cost of maintenance and fuel that costs the maintenance and fuel that costs the maintenance and fuel used in government institutions.. It is also taken into consideration that the abolition of vehicles will be more effective to the government.
-
-Accordingly, the formal engine capacity of the vehicles of all state tensions has been conducted in 87.03 vehicles and diesel engine capacity of Rs.To be abused.
-
-The Cabinet proposal submitted to the Treasury to report the cycle to the Treasury to report to the Treasury to report to the Treasury to report to the Treasury to report to the Treasury.
-
-◼️
-
-[Data](articles/f9093155.json)
-
-[Extended Data](ext_articles/f9093155.ext.json)
-
----
-
-### Two committees to solve the problems of graduates in the public service
-
-*2024-12-03 15:58:33* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-සිටින-උපාධිධාරීන්ගේ-ගැටලු-විසඳීමට-කමිටු-දෙකක්/11-413426) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Two committees formed to address graduate issues in public service: Ministerial Officer Committee to identify and resolve problems faced by officers in various positions. Cabinet approval granted for appointments.
-
-🟩
-
-Minister of Ministers and Officers Committee to identify and resolve problems with officers in various positions in public service as a bachelor of public service as a Bachelor of Public Service as a Bachelor of Public Service as a Bachelor of Public Service.Cabinet approval has been granted to appoint.
-
-◼️
-
-[Data](articles/a246e84e.json)
-
-[Extended Data](ext_articles/a246e84e.ext.json)
-
----
-
-### Privileges are studying the newsiri report to limit privileges - Nalinda Jayatissa
-
-*2024-12-03 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203999) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nalinda Jayatissa: Committee studying newsiri report on limiting privileges for ministers, former presidents. Chithrasiri Committee report handed to President Anura Kumara Dissanayake yesterday. Recommendations include reconsidering offers and privileges provided to MPs, Ministers, and former Presidents.
-
-🟩
-
-Related to Ministers and the privileges of former presidents. T. Cabinet Spokesperson Minister Nalinda Jayatissa said that the Artiri Committee was studying the report of the Article Committee today.
-
-Speaking at a press conference held today, he said that at a press conference held today for the Cabinet decisions.
-
-"After the president was appointed, a committee was appointed to investigate the privileges of announced. Former Supreme Court Judge K. T. Chairman of Mr. Chitrasiri. Their report was handed over to the President yesterday. We are studying. "
-
-"The report states. They recommend how to limit certain privileges. We will consider all these things together. "
-
-Re-considered Ken to reconsider the offers and privileges provided by MPs, Ministers and former Presidents. T. The report of the Chithrasiri Committee was handed over to President Anura Kumara Dissanayake yesterday (02).
-
-◼️
-
-[Data](articles/568c8822.json)
-
-[Extended Data](ext_articles/568c8822.ext.json)
-
----
-
-### Permission to Import Rice without License
-
-*2024-12-03 15:46:45* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-ලබා-ගැනීමකින්-තොරව-සහල්-ආනයනය-කිරීමට-අවසර/11-413425) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Cabinet removes rice import restrictions due to cultivation deficit from heavy rainfall. Permission granted to import rice without licenses until 12/20 days.
-
-🟩
-
-The Cabinet has consumed the temporary removal of existing limitations for the importation of rice in the local market and the deficit of rice cultivation due to heavy rainfall.
-
-Accordingly, up to 12/20 days without obtaining the import control licenses, it has been decided to provide permission to the country to import rice.
-
-◼️
-
-[Data](articles/a9a7acbc.json)
-
-[Extended Data](ext_articles/a9a7acbc.ext.json)
-
----
 
 ### Sri Lanka stocks close up, driven by F&B, tobacco sector
 
@@ -190,23 +38,21 @@ Accordingly, up to 12/20 days without obtaining the import control licenses, it 
 
 ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
 
-The broader ASPI closed up 0.84 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
+The broader ASPI closed up 0.96 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
 
 Turnover was 3.2 billion. Most of this came from the food, beverage and tobacco sector (Rs783mn).
 
-Top turnover generators were Agarapatana Plantations (up at 9.00), Dipped Products (up at 45.90), Hatton National Bank (up at 235.25), Central Finance Company (up at 135.75), and ACL Cables (up at 98.50).
+Agarapatana Plantations saw investor interest; the share closed up at 9.00.
 
-Plantation stocks saw mixed interest; Kotagala (up at 6.70), Talawakelle (up at 128.00) and Namunukula (up at 376.50), Agalawatte (down at 41.50), Elpitiya (down at 111.25), and Balangoda (down at 71.60).
+Other plantation stocks saw mixed interest; Kotagala (up at 6.70), Talawakella (up at 128.00) and Namunukula (up at 376.50), Agalawatte (down at 41.50), Elpitiya (down at 111.25), and Balangoda (down at 71.60).
 
 Sunshine Holdings, which announced it was amalgamating Sunshine Packaging Lanka Limited, closed up at 73.80.
 
-LOLC Holdings (up at 459.25) and Royal Ceramics (up at 34.50) were among the top positive contributors to the ASPI.
+Top positive contributors to the ASPI were LOLC Holdings (up at 459.25), Central Finance Company (up at 135.75), Royal Ceramics (up at 34.50), Hatton National Bank (up at 235.25), and Dipped Products (up at 45.90). (Colombo/Dec3/2024)
 
-...
+◼️
 
 [Data](articles/61a53ce8.json)
-
-[Extended Data](ext_articles/61a53ce8.ext.json)
 
 ---
 
@@ -223,30 +69,6 @@ Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minis
 ...
 
 [Data](articles/ed825c9c.json)
-
-[Extended Data](ext_articles/ed825c9c.ext.json)
-
----
-
-### The railway employees killed in train accident
-
-*2024-12-03 15:37:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයෙක්-දුම්රියක-ගැටී-මරුට/11-413424) · `si`
-
-Sri Lal Premaratne (58), a railway worker, died after colliding with a locomotive at Kandy Railway Station.
-
-🟩
-
-An employee of the Railway Station at Kandy Railway Station
-
-The deceased has been identified as Sri Lal Premaratne (58) serving as a worker in the Railway Road.
-
-He had collided with a locomotive of the road to another railway train while he was train to another railway train while he was trained in the railway station at the railway station.Have died.
-
-◼️
-
-[Data](articles/765de10a.json)
-
-[Extended Data](ext_articles/765de10a.ext.json)
 
 ---
 
@@ -327,32 +149,6 @@ This transformative initiative, which is guided by the new government’s vision
 ...
 
 [Data](articles/5023a34e.json)
-
-[Extended Data](ext_articles/5023a34e.ext.json)
-
----
-
-### Parliament tomorrow parliament until 9:30 pm
-
-*2024-12-03 15:18:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාර්ලිමේන්තුව-රාත්‍රී-9-30-තෙක්/11-413423) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Parliament meets tomorrow until 9:30 PM. Church adjourned due to adverse weather. President's policy statement debate from 9:30 AM to 5:00 PM. Postponement proposal to be discussed after 5:30 PM election.
-
-🟩
-
-Deciding on the recent adverse weather has decided to adjourn the church to the post of Adverse Weather, held at the party leaders' meeting chaired by Speaker Dr. Asoka Ranwala underway.
-
-Accordingly, the proposal on the proposal to the President's policy statement by the President in Parliament will be held from 9.30 am to 5:00 pm. The council has agreed to hold the post of postponement as a proposal to be taken by the party after the election to be held at 5.30 pm.
-
-◼️
-
-[Data](articles/6fde3981.json)
-
-[Extended Data](ext_articles/6fde3981.ext.json)
 
 ---
 
@@ -452,29 +248,23 @@ Accordingly, it has been decided to grant permission to import rice into the cou
 
 [Data](articles/225f2696.json)
 
-[Extended Data](ext_articles/225f2696.ext.json)
-
 ---
 
-### Sri Lanka to allow rice imports without licenses till December 20: Statement
+### Sri Lanka to remove restrictions on rice imports till Dec20
 
 *2024-12-03 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-remove-restrictions-on-rice-imports-till-dec20-125853/) · `en`
 
-ECONOMYNEXT – Sri Lanka will allow rice to be imported without import control license till December 20, a government statement said amid rising prices and a crop damage due to rain.
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers will temporarily remove existing restrictions on the import of rice, Health Minister Nalinda Jayatissa has said.
 
-Sri Lanka had earlier allowed 70,000 metric tonnes of Nadu (par-boiled rice) to be imported to counter rising prices of the grade. The import was allowed only by two state run companies.
+“Considering the current shortage of Nadu rice and other types of rice in the local market, as well as the damage caused to paddy cultivation due to the heavy rains of the past few days, the Cabinet approved temporarily removing the existing restrictions on the import of rice,” Jayatissa told reporters on Tuesday.
 
-“In addition to this, the government decided to temporarily remove existing restrictions on the import of rice,” Jayatissa told reporters Friday.
+He said the Cabinet decided to grant permission to import rice until December 20, without obtaining import control licenses.
 
-“The intention of the government is to make all types of rice available to the people.”
-
-There was no decision to reduce a 65 rupee a kilo tax on rice (about 200 US dollars a tonne) he said. (Colombo/Dec03/2024)
+On November 20, Trade Minister Wasantha Samarasinghe said the government will import 70,000 metric tonnes of rice to address a shortfall in the market, through two state agencies, Sathosa and the State Trading Corporation. (Colombo/Dec9/2024)
 
 ◼️
 
 [Data](articles/56b31998.json)
-
-[Extended Data](ext_articles/56b31998.ext.json)
 
 ---
 
@@ -490,33 +280,21 @@ The approval has been granted to the proposal submitted by President Anura Kumar
 
 [Data](articles/0129ea10.json)
 
-[Extended Data](ext_articles/0129ea10.ext.json)
-
 ---
 
-### Clean Sri Lanka Program Cabinet approval
+### Clean Sri Lanka වැඩසටහනට කැබිනට් අනුමැතිය
 
 *2024-12-03 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203996) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+Clean Sri Lanka අරමුදලක් පිහිටුවීමට සහ එහි කළමනාකරණය සඳහා ජනාධිපති කාර්ය සාධක බළකායක් පිහිටුවීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
 
+'පොහොසත් රටක් ලස්සන ජීවිතයක්' යන නව රජයේ දැක්ම අනුව මෙහෙයවනු බලන මෙම පරිවර්තනීය මුල පිරීම සාමාජිය, පාරිසරික හා ආචාරධර්මීය පිබිදීමක් ඉලක්ක කර ගනිමින් ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
 
-
-Clean Sri Lanka Program approved. President Anura Kumara Dissanayake establishes Clean Sri Lanka Fund and Presidential Task Force. Aims for social, environmental, ethical awakening. National initiative for economic, political, social development.
-
-🟩
-
-The proposal made by President Anura Kumara Dissanayake has approved the resolution of President Anura Kumara Dissanayake to establish a Clean Sri Lanka Fund and set up a Presidential Task Force to establish a fund.
-
-The initiative, which leads to the new government vision, is to be implemented targeting the social, environmental and ethical awakening.
-
-The government is planning to implement this program as a national operation to achieve the national anticipatory, reconciliation and standardization of Sri Lanka not only economically but also a significant downturn in Sri Lanka but also in political, social, social, social, social, social, social, social, social, social..
+ශ්‍රී ලංකාව ආර්ථිකමය වශයෙන් පමණක් නොව දේශපාලනික, සාමාජීය, ආධ්‍යාත්මක මෙන්ම පාරිසරික වශයෙන්ද සැලකිය යුතු පසුබෑමකට ලක්වීම සැලකිල්ලට ගෙන මෙරට ජනතාවගේ යහපැවැත්ම, සංහිඳියාව සහ ප්‍රමණය තහවුරු කිරීම තුලින් ජාතික අපේක්ෂාව සාක්ෂාත් කර ගැනීම සඳහා සිදු කරනු ලබන ජාතික මෙහෙයුමක් ලෙස මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට රජය සැලසුම් කර තිබේ.
 
 ◼️
 
 [Data](articles/25784651.json)
-
-[Extended Data](ext_articles/25784651.ext.json)
 
 ---
 
@@ -533,8 +311,6 @@ Accordingly, the Ministry of Health and Mass Media has prepared 04 lists of medi
 ...
 
 [Data](articles/bfc71224.json)
-
-[Extended Data](ext_articles/bfc71224.ext.json)
 
 ---
 
@@ -882,8 +658,6 @@ These include berthing facilities to passenger vessels of 300m in length and car
 
 [Data](articles/144038f1.json)
 
-[Extended Data](ext_articles/144038f1.ext.json)
-
 ---
 
 ### We will not allow racism to be headed
@@ -948,23 +722,17 @@ Furthermore, he expressed that the Cabinet of Ministers approved the proposal pe
 
 ---
 
-### Parliament to be held tomorrow night
+### පාර්ලිමේන්තුව හෙට රාත්‍රී 9 තෙක් පැවැත්වීමට තීරණයක්
 
 *2024-12-03 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203990) · `si`
 
-Parliament meeting tomorrow at 9:30 PM. Adjournment debate on weather from 5:30 to 9:30 PM.
+හෙට දිනයේදී පාර්ලිමේන්තුව රාත්‍රී 9.30 තෙක් පැවැත්වීමට පක්ෂ නායක රැස්වීමේදී තිරණය වී තිබේ.
 
-🟩
-
-Parliament has decided to hold the Parliament tomorrow at 9.30 pm.
-
-Accordingly, the Adjournment Debate on the recent adverse weather conditions was decided to hold the president of 5.30 pm to 9.30 pm, said the Parliamentary Communication Department.
+ඒ අනුව පසුගිය දිනවල පැවැති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතිවූ ආපදා තත්ත්වය පිළිබඳ සභාව කල් තැබීමේ විවාදය හෙට පස්වරු 5.30 සිට පස්වරු 9.30 දක්වා පැවැත්වීමට තීරණය වූ බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසීය.
 
 ◼️
 
 [Data](articles/e4edeccb.json)
-
-[Extended Data](ext_articles/e4edeccb.ext.json)
 
 ---
 
@@ -1384,8 +1152,6 @@ Sri Lanka is yet to present a budget for next year’s expenditure. One is sched
 
 [Data](articles/de3f6e64.json)
 
-[Extended Data](ext_articles/de3f6e64.ext.json)
-
 ---
 
 ### Mohammed Sally Nahim MP
@@ -1530,8 +1296,6 @@ Indian arrivals were by far the highest, overtaking visitors from the Russian Fe
 
 [Data](articles/aff6440f.json)
 
-[Extended Data](ext_articles/aff6440f.ext.json)
-
 ---
 
 ### New Police Spokesman appointed
@@ -1666,35 +1430,23 @@ He was informed by Speaker Asoka Ranwala today (3rd).
 
 ---
 
-### Vegetable prices down in Dambulla
+### දඹුල්ලේ එළවළු මිල පහළට
 
 *2024-12-03 10:50:52* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-එළවළු-මිල-පහළට/11-413421) · `si`
 
-Dambulla vegetable prices drop; bean kg price range Rs. 650-700; tomato 300 for Rs. 350; carrot kg Rs. 100; leek kg Rs. 80; coconut Rs. 150 per piece. Silver traders blame retail price hike for market fluctuations.
+ඉකුත් දින කිහිපයට සාපේක්ෂව 03 දින දඹුල්ල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ බෝංචි හැර අනෙකුත් එළවළු වර්ග වල තොග මිල පහත වැටී ඇතැයි ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ නියෝජිතයෝ පවසති.
 
-🟩
+ඒ අනුව දඹුල්ල ආර්ථික වෙළඳ මධ්‍යස්ථානය තුළ 03  දින උදෑසන බෝංචි කිලෝවක තොග මිල රුපියල් 650 ත් 700 ත් අතර ඉහළ අගයකට අලෙවි වූ බව වෙළෙන්දෝ පෙන්වා දෙති්
 
-Representatives of vegetables except the Dambulla Special Economic Center, except for the past three days, says.
+එමෙන්ම මෙදින බෝංචි වෙළඳපළට ලැබීම ඉතාමත් සීමිත ප්‍රමාණයක් වීම නිසාවෙන් මිල ඉහළ යෑම සිදුවන බවත් එළවළු බහුතරයක ගුණාත්මක තත්වය  පහළ වැටීම නිසා අනෙකුත් එළවළු මිල පහත වැටීම සිදුවන බව ඔවුහු අවධාරණය කරති
 
-Accordingly, the bulkies of a kilogram of beans have sold between Rs. 650 and Rs.
+ඉකුත් දිනවලින් ඉහල මිල ගණන් ද යටතේ අලෙවි වූ අමුමිරිස් කිලෝව මෙදින රුපියල් 150 ක් 200 ත් අතර පහත වැටී තිබිණිි. රුපියල් 300ක් 350කට අලෙවි වූ තක්කාලි කිලෝ එක මෙදින අලෙවි වූයේ රුපියල් 150ත් 200 ත්   වැනි මිලකට ත්  වට්ටක්කා කිලෝව රුපියල් අනුවත් සීයක් අතර මිලකට අලෙවි වෙයි
 
-They also emphasize that the price of the bean market is a limited number of prices and the lower quality of vegetables is declining.
+විශේෂයෙන් කන්ද උඩරට ප්‍රදේශවලින් ලැබෙන කැරට් කිලෝවක් 03 දින දහවල් වන විට රුපියල් හැටේ සිට රුපියල් සියය දක්වා වූ මිල ගණන් යටතේ අලෙවිවීම විශේෂත්වයකි
 
-Amamiris, who was sold under high prices, had fallen between 150 rupees on the day, which was sold under high billions of days. 300 tomatoes sold for 350 rupees sold at a cost of Rs. 150 and 200 rupees
-
-A kilo of carrots from the Kandyan areas is a marketing of Rs.
-
-Accordingly, a kilo of leeks were sold at a price of Rs.Businessing pointed out that the stock person has fallen from the Kandyan areas and vegetables from the following country areas
-
-The coconut stock prices of a coconut in the Dambulla Economic Center were able to see a single tumor of Rs. 150.
-
-Silver traders point out that the vegetable retail price is the main reason for the rapid increase.
-
-◼️
+...
 
 [Data](articles/022d463b.json)
-
-[Extended Data](ext_articles/022d463b.ext.json)
 
 ---
 
@@ -2120,37 +1872,27 @@ It is also planned to establish the PS member of the 10th Parliament today.
 
 ---
 
-### Dayasiri Jayasekara was the first session of the 10th Parliament
+### දයාසිරි ජයසේකරගේ ප්‍රශ්නයෙන් උණුසුම් වූ 10 වන පාර්ලිමේන්තුවේ පළමු සභා වාරය
 
 *2024-12-03 09:26:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c938pp0nw2wo) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+දයාසිරි ජයසේකරගේ ප්‍රශ්නයෙන් උණුසුම් වූ 10 වන පාර්ලිමේන්තුවේ පළමු සභා වාරය
 
+ආපදා තත්ත්වය නිසා කුඹුරු විනාශ වූ ගොවීන්ට සහන සැලසීම සම්බන්ධයෙන් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මතු කළ ප්‍රශ්නයක් නිසා ඔහු සහ සභානායක බිමල් රත්නායක අතර මත ගැටුමක් ඇති විය.
 
+දස වැනි පාර්ලිමේන්තුවේ පළමු සභා වාරය අද (දෙසැම්බර් 03) ආරම්භ විය. එහිදී ආපදා නිසා සිදු වූ හානිය සහ රජය ගෙන ඇති පියවර ගැන ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර පාර්ලිමේන්තුව දැනුවත් කළේ ය.
 
-Dayasiri Jayasekara sparked controversy in Parliament's first session. His question led to a diagnosis issue. Deputy Minister Aruna Jayasekara discussed disaster relief. Standing orders were contradicted. Harsha De Silva and Gayantha Karunatilake questioned procedure. A submission was made to the Speaker instead of the House. Minister Rathnayake addressed the Secretary's counsel and corrected the Speaker.
+ඉන් අනතුරුව දයාසිරි ජයසේකර නගන ලද ප්‍රශ්නය ස්ථාවර නියෝගවලට පටහැනි බව ආණ්ඩු පක්ෂයේ අදහස විය.
 
-🟩
+මේ අතර, මුදල් අතුරු සම්මත ගිණුම ඉදිරිපත් කිරීම සම්බන්ධයෙන් නිසි ක්‍රමවේදය අනුගමනය නොකළ බවට රාවුෆ් හකීම්, ආචාර්ය හර්ෂ ද සිල්වා සහ ගයන්ත කරුණාතිලක සභාවට දැනුම් දුන්හ.
 
-Dayasiri Jayasekara was the first session of the 10th Parliament
+ඊට අදාළ ඉදිරිපත් කිරීමක් කතානායකවරයා වෙනුවට සභානයකවරයා ඉදිරිපත් කිරීම එම ප්‍රශ්නයට හේතු විය.
 
-Due to a question raised by MP Dayasiri Jayasekera, the MP Dayasiri Jayasekera has been diagnosed with the Hon.
-
-Season 1st Season of Parliament commenced today (Dec. 03). The Deputy Minister Aruna Jayasekara informed the Parliament regarding the damage caused by the disaster and the government's step.
-
-The government's view that Dayasiri Jayasekera was then contradicted to standing orders.
-
-Rawff Harsha De Silva, Dr. Harsha De Silva and Gayantha Karunatilake also informed the House that they did not follow the proper procedure.
-
-The presentation was given the same question that a submission was submitted to the Speaker instead of the Speaker.
-
-He was responding to the House, led by Minister Rathnayake, the counsel received by the Secretary of the Council and that the Speaker was corrected.
+ඊට පිළිතුරු දුන් සභානායක බිමල් රත්නායක පෙන්වා දුන්නේ, ලේකම් මණ්ඩලයෙන් ලැබුණු උපදෙසක් නිසා එය සිදු වූ බවත් පසුව එය කතානායකවරයා නිවැරදි කළ බවත් ය.
 
 ◼️
 
 [Data](articles/680a7c53.json)
-
-[Extended Data](ext_articles/680a7c53.ext.json)
 
 ---
 
@@ -2477,5 +2219,203 @@ Nuwara Eliya police is conducting further investigations into the incident.
 [Data](articles/9ec44090.json)
 
 [Extended Data](ext_articles/9ec44090.ext.json)
+
+---
+
+### Five dies of accidents
+
+*2024-12-03 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203978) · `si`
+
+5 die in road accidents across island. 3 women among victims. Collisions reported in Kahathuduwa, Hanwella, Matara, Pallama. Pedestrian, bus passenger, motorcyclist killed.
+
+🟩
+
+Five persons including three women were killed in road accidents in several parts of the island.
+
+The accident had occurred at the police division of Kahathuduwa, Hanwella, Hanwella, Matara and Pallama.
+
+A car collided with a pedestrian rode from the junction of the Kottawa-Talagala road on the road.
+
+The victim was taken to the Homagama hospital and was admitted to the Homagama Hospital.
+
+The deceased has been identified as a 74 year old resident of Homagama.
+
+Meanwhile, a private bus slippled with a private bus near the city of Hanwella town on the Colombo Old Road
+
+Pedestrian woman who was seriously injured in the accident has died in admission to the hallway room
+
+A safari head on the Kirindawela - Kirinda main road was killed in a motorcycle accident.
+
+Meanwhile, a car traveled by a car traveled by a car through the junction of the Matara-Hakmana road.
+
+The victim was admitted to the Matara hospital and died on admission to the Karapitiya Hospital for further treatment.
+
+...
+
+[Data](articles/a8e092eb.json)
+
+[Extended Data](ext_articles/a8e092eb.ext.json)
+
+---
+
+### Several senior police officers transferred
+
+*2024-12-03 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103941/several-senior-police-officers-transferred) · `en`
+
+The Police Media Division said that several senior Police officers, including Deputy Inspector Generals of Police (DIGs) have been transferred.
+
+Director CID SSP E.M.M.S. Dehideniya has been transferred to Nugegoda Division and Female SSP H.W.I.S. Muthumala takes over as Director of CID.
+
+◼️
+
+[Data](articles/915f1d4e.json)
+
+[Extended Data](ext_articles/915f1d4e.ext.json)
+
+---
+
+### Misty conditions expected during the morning
+
+*2024-12-03 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103940/misty-conditions-expected-during-the-morning) · `en`
+
+A few showers will occur in Eastern provinces, says the Department of Meteorology.
+
+Misty conditions can be expected most places of the island during the morning, it said.
+
+◼️
+
+[Data](articles/8e9f8cb7.json)
+
+[Extended Data](ext_articles/8e9f8cb7.ext.json)
+
+---
+
+### A / L examination will be rescued from tomorrow
+
+*2024-12-03 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203977) · `si`
+
+GCE A/L exam resumes tomorrow after weather delay. Originally started on 25th, heavy rain caused suspension. Commissioner says affected subjects will be rescheduled soon.
+
+🟩
+
+The Advanced Level Examination of the 2024 GCE Advanced Level Examination will be resumed from tomorrow due to inclement weather.
+
+This time the GCE A / L examination commenced on the 25th and the heavy rains were temporarily suspended.
+
+The Examinations Commissioner General of Examinations said that the examination will be resumed from tomorrow and the examination will be held tomorrow.
+
+The Commissioner General of Examinations said that the subjects on the days of not the examination were scheduled to be held in the coming days.
+
+◼️
+
+[Data](articles/779d6bac.json)
+
+[Extended Data](ext_articles/779d6bac.ext.json)
+
+---
+
+### It may be raining today
+
+*2024-12-03 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை-பெய்யக்-கூடும்/175-348150) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rainfall warning issued for parts of Sri Lanka today. Coastal areas from Batticaloa to Kankesanthurai may experience rain. Rest of the country expects mostly clear skies.
+
+🟩
+
+The Department of Meteorology has said that some parts of the country are likely to experience a little rain today.
+
+There is a possibility of rainfall in some places beyond the coastal coastal areas from Batticaloa to Kankesanthurai via Trincomalee.
+
+The rest of the country is expected to be mainly uniform. (A)
+
+◼️
+
+[Data](articles/a7df9f1a.json)
+
+[Extended Data](ext_articles/a7df9f1a.ext.json)
+
+---
+
+### Parliament may meet today
+
+*2024-12-03 08:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-இன்று-கூடும்/175-348149) · `ta`
+
+Parliament meets today at 9:30 AM. Speaker Ashoka Ranwala leads the session. Initial meeting on Nov 21 included Speaker, Deputy Speaker, Committee Chair selection, and member confirmation. President's policy speech follows.
+
+🟩
+
+The Parliament will convene today at 9.30 am under the leadership of Speaker Ashoka Ranwala.
+
+The initial session of the 10th Parliament was held on November 21st. On that day, the selection of the Speaker, the Deputy Speaker's Selection, the Deputy Chairman of the Committees and the Confirmation of Members of Parliament.
+
+Thereafter the president's policy speech was held after the adjournment of the council. (A)
+
+◼️
+
+[Data](articles/fe25abfd.json)
+
+[Extended Data](ext_articles/fe25abfd.ext.json)
+
+---
+
+### Sri Lanka on behalf of Sri Lanka on the evening of the US State Department Assistant Secretary
+
+*2024-12-03 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203976) · `si`
+
+US State Department official Donald Lu visits Sri Lanka, India, Nepal to strengthen regional ties and discuss economic reforms with new Sri Lankan government leaders.
+
+🟩
+
+Mr. Donald on the Southern and Central Institutional Department of America Donald Lune is to visit Sri Lanka.
+
+He is due to visit India while traveling in India and Nepal.
+
+Donald Luh is due to arrive in Sri Lanka (05).
+
+Donald Lu's visit is aimed at strengthening cooperation with the main partners in South Asia to promote the pre-prosperity prosperity and security.
+
+The US State Department stated that plans have been made to discuss the economic reforms with the new government heads of Sri Lanka.
+
+After India, Donald Luader, who arrived in the country, is also scheduled to visit Nepal.
+
+◼️
+
+[Data](articles/c3863ed7.json)
+
+[Extended Data](ext_articles/c3863ed7.ext.json)
+
+---
+
+### Transfers to many of the police chairs
+
+*2024-12-03 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203975) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Police transfers: 54 officers moved, including 5 DIGs & 5 SSPs. CID changes: HWS Muthumla new Director, EMMS Developed transferred to Nugegoda Division.
+
+🟩
+
+54 police officers including DIGs have been transferred.
+
+Five DIGs, five senior Superintendents of Police have been transferred with immediate effect, according to the National Police Commission.
+
+In addition, 7 Superintendents of Police and 7 Assistants have also given places.
+
+According to the Deputy Director of the Criminal Investigation Department (CID) HWS Muthumla has been appointed as the Director of the Criminal Investigation Department.
+
+Senior Superintendent of Police (CID) EMMS Developsed has been transferred as the Nugegoda Divisional Officer of Nugegoda.
+
+◼️
+
+[Data](articles/956e6b86.json)
+
+[Extended Data](ext_articles/956e6b86.ext.json)
 
 ---

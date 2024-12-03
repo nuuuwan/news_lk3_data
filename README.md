@@ -1,56 +1,158 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 17:43:51**
+As of **2024-12-03 18:39:48**
 
 ## Newspaper Stats
 
-*Scraped **58,266** Articles*
+*Scraped **58,278** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
-bbccomsinhala | 606
+bbccomsinhala | 607
 islandlk | 3,498
-economynextcom | 3,540
+economynextcom | 3,541
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,513
-adaderanalk | 7,074
-tamilmirrorlk | 8,290
+adalk | 5,517
+adaderanalk | 7,076
+tamilmirrorlk | 8,291
 virakesarilk | 9,529
-adaderanasinhalalk | 10,066
+adaderanasinhalalk | 10,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,260 (100.0%) of 58,266 articles have been extended.
+58,265 (100.0%) of 58,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### ​​SJB எம்.பி என்னைத் தாக்கினார்;அர்ச்சுனா புதிய குற்றச்சாட்டு
+### The person called Sujith hit me - MP Archuna
+
+*2024-12-03 18:01:46* · [`adalk`](https://www.ada.lk/breaking_news/සුජිත්-කියන-පුද්ගලයා-මට-ගැහුවා---මන්ත්‍රී-අර්චුනා/11-413435) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Opposition MP Archuna Ramanathan claims assault by MP Sujith Sanjaya in Parliament. Sujith denies attack. Speaker lodged complaint. Parliamentarians debate incident, calling for protection measures.
+
+🟩
+
+Speaker Dr. Asoka Ranwala has lodged a complaint with the opposition MP to assassinate another opposition MP.
+
+UNP Jaffna District Independent MP Archuhane Ramanathan said that he was assaulted by MP Sujith Sanjaya.
+
+Sujith Sanjaya Skin said he would deny that he was attacked.
+
+There are MPstock who plays Tiktok that plays this Parliament in Parliament. We saw a Member of Parliament from Jaffna district. If MPs who sat in the chair of the Opposition's chair, you will take the necessary steps to protect the supreme that this Parliament cannot protect this Parliament. Don't let her go to work.
+
+Independent MP Archuvuna Ramanathan - I have come to the first time. I went to talk to the Opposition's office. See the time to me. Then the man named Sujith was hit me. If this happens in Parliament, how do we go on the roads?
+
+Deputy Chairman of Committees, Heerasekera - A complaint to Speaker.
+
+Independent MP Archuvan Ramanathan - this guy hit me because of the chair.
+
+...
+
+[Data](articles/26d593fd.json)
+
+[Extended Data](ext_articles/26d593fd.ext.json)
+
+---
+
+### Sujith denied Archana's accusation
+
+*2024-12-03 17:56:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவின்-குற்றச்சாட்டை-மறுத்தார்-சுஜித்/175-348191) · `ta`
+
+Sujith denies Archana's claim, says he didn't attack anyone. United People's Power MP responds to Jaffna MP's accusation of brutality.
+
+🟩
+
+Sujith Sanjay Perera, United People's Power MP of the Kegalle District, said he did not attack anyone.
+
+Sanjay Perera was responding to the allegation of Jaffna MP Ramanathan Archana.
+
+Jaffna Independent Member said he came to the office of the opposition leader and behaved very brutally.
+
+◼️
+
+[Data](articles/060acf04.json)
+
+[Extended Data](ext_articles/060acf04.ext.json)
+
+---
+
+### පාර්ලිමේන්තුවේදී මට ගැහුවා - මන්ත්‍රී අර්චුනා
+
+*2024-12-03 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204002) · `si`
+
+අද (03) පාර්ලිමේන්තුවේ විපක්ෂ නායක කාර්යාල පරිශ්‍රයේදී තමන්ට පහරදීමක් සිදුකළ බව යාපනය දිස්ත්‍රික් ස්වාධීන පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය රාමනාදන් අර්චුනා මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේදී ප්‍රකාශයක් සිදුකරමින් ඔහු සඳහන් කළේ සුජිත් නමැති පුද්ගලයෙක් තමන්ට පහරදුන් බවය.
+
+"මම 2:30ට විතර විපක්ෂ නායක කාර්යාලයට ගියා. මම ඇහුවා කොහොමද මේ ටයිම් එක allocate කරන්නේ කියලා. අද දවසේ මට කිසි දෙයක් සන්නිවේදනය කරලා තිබුණේ නැහැ. හෙට මගේ වෙලාව තියෙනවාද ? නැද්ද ? කියලා අහන්න ගියා. එතන නිලධාරීන් හිටියා. ඔවුන් වෙනත් කාමරයකට මාව එක්කන් ගියා. ඒගොල්ලෝ කිව්වා හෙට හවස 4ට වගේ මට දෙන්න පුළුවන් කියලා."
+
+"මං ඇහුවා ඒ පිළිවෙල ඕගොල්ලෝ කොහොමද හදන්නේ කියලා. එතකොට සුජිත් කියලා පුද්ගලයාටයි තව කෙනෙකුටයි ගිහින් කතා කරන්න කිව්වා. ඒගොල්ලෝ තමයි තීරණය කරන්නේ කියලා."
+
+"එතකොට මං කිව්වා ඒගොල්ලොන්ට තනි තීරණයක් ගන්න බැහැ. පක්ෂ නායකයෙක් විදියට මට ඒකට උත්තර දෙන්න ඕනේ කියලා. එතකොට සුජිත් කියන පුද්ගලයා මට ගැහුවා. මට මෙයාට ගහන්න ඕනේ නැහැ. මෙයා මගේ තාත්තාගේ වයස. ඒ නිසා ගැහුවේ නැහැ."
+
+...
+
+[Data](articles/152884c5.json)
+
+---
+
+### Foreigners bet on Sri Lanka papers for 11th straight week
+
+*2024-12-03 17:39:00* · [`economynextcom`](https://economynext.com/foreigners-bet-on-sri-lanka-papers-for-11th-straight-week-191683/) · `en`
+
+ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the 11th straight week ended on November 29, the Central Bank data showed.
+
+Analysts said the island nation’s deflationary policies and import curbs amid declining interest rates have made some investors buy before making some profits due to appreciation of the rupee currency.
+
+Sri Lanka saw 2.86 billion rupees ($9.86 million at 1 US dollar = 290 LKR) inflow into government securities in the week ended on November 29, extending the total inflows into treasury bonds and bills to 19.1 billion rupees ($65.7 mln) in the last 11 straight weeks, the official data showed.
+
+The value of government securities held by foreign investors was at 58,405 million rupees by November 29.
+
+“As foreign investors expected, there was a policy rate cut last week and the rupee is still under appreciation pressure. This means they can now have their capital gains on their investment,” a currency dealer told EconomyNext.
+
+...
+
+[Data](articles/1eb0bde1.json)
+
+---
+
+### SJB MP attacked me; Archana's new accusation
 
 *2024-12-03 17:31:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SJB-எம்-பி-என்னைத்-தாக்கினார்-அர்ச்சுனா-புதிய-குற்றச்சாட்டு/175-348188) · `ta`
 
-எதிர்க்கட்சித் தலைவரின் அலுவலகத்திற்குச் சென்றபோது, ​​SJB பாராளுமன்ற உறுப்பினர் சுஜித் சஞ்சய பெரேராவால் தாக்கப்பட்டதாக யாழ் மாவட்ட சுயேட்சை பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா தெரிவித்துள்ளார்.
+SJB MP Sujith Sanjaya Perera accused of attack by Archana. She claims he was assaulted while visiting opposition leader's office. SJB's Nalin Bandara defends Perera, calling Archana's actions inappropriate. Perera denies allegations, claims Archana threatened him.
 
-​​எதிர்க்கட்சித் தலைவரின் அலுவலகத்திற்கு தனது பாராளுமன்ற உரைக்கு ஒதுக்கப்பட்ட நேரம் குறித்து விசாரிப்பதற்காக சென்றதாக அர்ச்சுனா கூறினார்.
+🟩
 
-"பாராளுமன்ற வளாகத்திற்குள் இதுபோன்ற சம்பவங்கள் நடந்தால், நாங்கள் எப்படி தெருவில் நடமாட முடியும்?' என்று அவர் கேள்வி எழுப்பினார்.
+Jaffna District Independent Parliamentarian Ramanathan Archana says that SJB parliamentarian Sujith Sanjaya Perera was attacked when he went to the office of the opposition leader.
 
-இந்த விடயம் தொடர்பில் சபாநாயகரிடம் முறைப்பாடு செய்யுமாறு அவைத் தலைவர் எம்.பியிடம் கோரிக்கை விடுத்தார்.
+Archana said she had gone to inquire about the time allotted to his parliamentary speech to the office of the opposition leader.
 
-இதேவேளை, பாராளுமன்ற உறுப்பினர் அர்ச்சுனா எதிர்கட்சித் தலைவர்களின் செயலாளருக்கு முன்பாக அநாகரீகமான முறையில் நடந்து கொண்டதுடன், பாராளுமன்றத்திற்குப் புறம்பான வார்த்தைகளை உதிர்த்ததாகவும் SJB பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்துள்ளார்.
+"If such incidents occur inside the parliamentary complex, how can we walk on the street?"He questioned.
 
-பாராளுமன்ற உறுப்பினர் சுஜித் சஞ்சய பெரேரா, குற்றச்சாட்டை நிராகரிப்பதாகவும், பாராளுமன்ற உறுப்பினர் அர்ச்சுனாவே தன்னை அச்சுறுத்தியதாகவும் தெரிவித்துள்ளார்.
+The Chairman MP asked the Speaker to lodge a complaint about the matter.
+
+Meanwhile, SJB Parliamentarian Nalin Bandara has said that Parliamentarian Archana has behaved in front of the Opposition Leaders Secretary of the Opposition and that the words that are out of Parliament have been abolished.
+
+Parliamentarian Sujith Sanjaya Perera has said that he has rejected the allegation and that MP Archana has threatened him.
 
 ◼️
 
 [Data](articles/9d1a5471.json)
+
+[Extended Data](ext_articles/9d1a5471.ext.json)
 
 ---
 
@@ -66,11 +168,49 @@ With an option to increase this by a further 2 billion rupees by issuing another
 
 In the event of an oversubscription of the initial issue and the second tranche issuance, the bank will issue another 30 million debentures to raise 3 billion more, it said.
 
-The issue is subject to Colombo Stock Exchange and central bank  approvals.
-
 ...
 
 [Data](articles/e7af54af.json)
+
+[Extended Data](ext_articles/e7af54af.ext.json)
+
+---
+
+### රූබික් කියුබි 1200කින් ජනපතිගේ රුව සකසා වෝලන් ලෝක වාර්තාවක් තැබූ අවු. 11ක සිසුවා
+
+*2024-12-03 17:15:32* · [`adalk`](https://www.ada.lk/picture_story/රූබික්-කියුබි-1200කින්-ජනපතිගේ-රුව-සකසා-වෝලන්-ලෝක-වාර්තාවක්-තැබූ-අවු--11ක-සිසුවා/10-413431) · `si`
+
+රූබික් කියුබ් 1200 ක් භාවිත කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ රුව නිර්මාණය කොට " චෝලන් "  ලෝක වාර්තාවක් තැබීමට වයස  අවුරුදු 11දරුවෙකු සමත්විය.
+
+කොළඹ රාජකීය විද්‍යාලයේ 6 ශ්‍රේණියේ ඉගෙනුම ලබන එච්.ඩී.සස්නුල සෙහන්ස ලක්මාල් නමැති දරුවා විසින් අගල් 91 × අගල් 68 ප්‍රමාණයේ රාමුවක් භාවිතා කරමින්  පැය 3 විනාඩි 13 තත්පර 7 ක කාලයක් තුල රුව නිර්මාණය කරමින් ඊයේ  (3) මෙම වාර්තාව තැබීම සිදු කළේය.
+
+යක්කල රණවිරු ඇපරල් ආයතනයේදී රුව නිර්මාණය කරමින් වාර්තාව තුබූ අතර යුරෝපය ඇතුලු ලෝකයේ රටවල්  26 ක නියෝජනය සහිත වන  Cholan Book Of World Records  (CBWR) සංවිධානයේ අධීක්‍ෂණය යටතේ මෙය සිදු කෙරිණි.
+
+මෙවන් ලෝක වාර්තාවක් තැබීම සම්බන්ධයෙන් චෝලන් බුක් ඔෆ් වර්ල්ඩ් රෙකෝඩ් සංවිධානයේ ශ්‍රී ලංකා ශාඛාවෙහි සභාපති කපිතාන් ඉන්ද්‍රනාත් පෙරේරා මහතා අදහස් දක්වමින් සදහන් කර සිටියේ මෙම වයසේ දරුවෙකු විසින් රූබික් කියුබ් භාවිතා කරමින් විශාල ප්‍රමාණයේ රාමුවක් තුල මෙවන්
+
+...
+
+[Data](articles/6a9dbd64.json)
+
+---
+
+### Committee report on privileges of MPs and ex-Presidents currently under study - Govt
+
+*2024-12-03 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103971/committee-report-on-privileges-of-mps-and-ex-presidents-currently-under-study-govt) · `en`
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that the report of the committee headed by former Supreme Court Justice K.T. Chitrasiri, which was appointed to review the allowances, perks and privileges provided to Members of Parliament, Ministers and former Presidents, is currently being studied.
+
+The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa communicated this during the Cabinet press briefing held today (03).
+
+“After the president was elected, a committee was appointed to investigate the privileges of the Ministers which was headed by the former Supreme Court Justice K.T. Chitrasiri .Their report was handed over to the President yesterday. Its recommendations are currently being studied,” he added.
+
+The Cabinet Spokesman further stated that the committee has presented recommendations to assess and review the limitation of claims, allowances and privileges granted to Members of Parliament (MPs), Ministers, and former Presidents.
+
+...
+
+[Data](articles/15f5a665.json)
+
+[Extended Data](ext_articles/15f5a665.ext.json)
 
 ---
 
@@ -105,6 +245,98 @@ A bond maturing on 15.09.2029 closed at 10.80/90 percent, down from 10.85/90 per
 ◼️
 
 [Data](articles/18ccc8cf.json)
+
+---
+
+### Colombo Port expansion led by Adani Group progressing as planned, says official
+
+*2024-12-03 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103970/colombo-port-expansion-led-by-adani-group-progressing-as-planned-says-official) · `en`
+
+Sri Lanka’s port expansion project led by Indian conglomerate Adani Group is progressing as planned, an official was reported as saying on Tuesday.
+
+“Construction at the Colombo West International Terminal remains ongoing, with phase one of the project still set for completion in early 2025,” Sirimevan Ranasinghe, chairman of the Sri Lanka Ports Authority, told Bloomberg.
+
+Ranasinghe is also a minority shareholder in the project. He informed the news agency that the project would be continuing as per their agreement inked with Adani Ports and Special Economic Zone.
+
+Adani Group is playing a prominent part in expanding the country’s port infrastructure. The Colombo terminal project, which involves a infusion of $1-billion, marks the largest foreign direct investment in Sri Lanka’s port sector.
+
+Ranasinghe said that US financing had not been finalised, and added that it was up to the joint-venture company developing the project to procure the requisite financing.
+
+...
+
+[Data](articles/c12ef8e9.json)
+
+---
+
+### පළාත් පාලන මැතිවරණයේ නාම යෝජනා ආපසු කැඳවයි
+
+*2024-12-03 16:50:00* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණයේ-නාම-යෝජනා-ආපසු-කැඳවයි/11-413430) · `si`
+
+2023 වසරේ පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ආයතන ඡන්ද විමසීම සඳහා කැඳවන ලද නාමයෝජනා ආපසු කැඳවීමටත් නව නාම යෝජනා කැඳවීමටත් අවශ්‍ය විධිවිධාන සැලසීම සඳහා කැබිනට් අනුමැතිය ලැබී තිබේ.මේ අනුව පළාත් පාලන ආයතන ඡන්ද විමසීම් (විශේෂ විධිවිධාන) පනත් කෙටුම්පක් සකස් කිරීම සඳහා නීති කෙටුම්පත් සම්පාදකට 2024/09/02 පැවැති අමාත්‍ය මණ්ඩල රැස්වීහේ තීරණය කර තිබේ.
+
+එසේම මේ පිළිබඳව 2024/11/25 දින පාර්ලිමේන්තුවේ කථානායකවරයාගේ ප්‍රධානත්වයෙන් පවත්වනලද පිළිගත් දේශපාලන පක්ෂ නායකයින් ද සහභාගී වී ඇති පක්ෂ නායක රැස්වීමේදී 2023 වර්ෂයේ කැඳවන ලස නාම යෝජනා අවලංගු කර අලුතින් නාම යෝජනා කැඳවා ඉදිරිපත් පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්විය යුතු බවට එකඟතාවයට පැමිණ තිබේ.
+
+...
+
+[Data](articles/4e8cfdd1.json)
+
+---
+
+### ජංගම දුරකථනයක ආරවුලකට ඥාති සහෝදරයා ඝාතනය කරලා
+
+*2024-12-03 16:41:10* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථනයක-ආරවුලකට-ඥාති-සහෝදරයා-ඝාතනය-කරලා/11-413429) · `si`
+
+ජංගම දුරකථනයක් සම්බන්ධයෙන් ඇති වූ ආරවුලක් දුර දිග යාම හේතුවෙන්  17 හැවිරිදි ඥාති සහෝදරයෙකු එල්ල කල පිහි පහරකින් 26 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්වීමේ සිද්ධියක්  ඔයා මඩුව පොලිසිස් වසමෙන් වාර්තාවේ.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 13 කණුව , බණ්ඩාරගම පේමඩුව පදිංචිව සිටි  එදිරිසිංහ ආරච්චිලාගේ ජය සංඛ පද්ම කුමාර නැමැති 26 හැවිරිදි තරුණයෙකි.
+
+සැකකරු සහ මරණකරු ඉකුත් 1දා  කුඹුරක වැඩ කරමින් සිටියදී ජංගම දුරකථනයක් සම්බන්ධයෙන්  ඇති වූ  ආරවුලක් දුරදිග යාමෙන්  දෙදෙනා පොර බදා ඇති අතර  පසුව සැකකරු සඟවා ගෙන සිටි පිහියක් රැගෙන  මරණකරුට බරපතල තුවාල  සිදු කර තිබූ බව පොලිසිය කියයි.
+
+සැකකරු  සහ මරණකරු පොර බදින අවස්ථාවේදී එම ස්ථානයට දිව ගොස් ඇති කුඹුරේ හිමිකරු  සැකකරුට ප්ලාස්ටික් බටයකින් පහරක්  එල්ල කර ඔහු අත තිබූ පිහිය  උදුරා ගෙන මරණකරු ඇලයාපත්තුව  රෝහලට රැගෙන ගිය අවස්ථාවේදී ජීවිතක්ෂයට පත්ව ඇති බවද පොලීසිය වැඩි දුරටත් සඳහන් කළේය
+
+මෙම ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 17  එදිරිසිංහ ආරච්චිලාගේ තරුෂ සඳරුවන් නැමති සැකකරු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+...
+
+[Data](articles/4c4e05be.json)
+
+---
+
+### රජය සතු අධි සුඛෝපභෝගී වාහන ඉවත්කිරීමට යයි
+
+*2024-12-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204001) · `si`
+
+රාජ්‍ය ආයතනවලට විශාල වැය බරක් වන අධි සුඛෝපභෝගී වාහන විධිමත් ක්‍රමවේදයකට අනුව ඉවත්කිරීමට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
+
+අද (03) පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේදී කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඒ බව පැවසීය.
+
+රාජ්‍ය ආයතනවල භාවිත වන ඇතැම් අධි සුඛෝපභෝගී වාහනවල නඩත්තු හා ඉන්ධන සඳහා වැය වන අධික පිරිවැය සැලකිල්ලට ගෙන මෙම තීරණය ගෙන තිබේ.
+
+එවැනි අධි සුඛෝපභෝගී වාහන අපහරණය කිරීම ආර්ථිකව වඩාත් ඵලදායි වන බව පෙනී ගොස් ඇති බවයි අමාත්‍යවරයා පැවසුවේ.
+
+...
+
+[Data](articles/8b6ba182.json)
+
+---
+
+### එක්ස්ප්‍රස් පර්ල් - දත්ත ගබඩාව අක්‍රිය වෙලා
+
+*2024-12-03 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204000) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියේ විමර්ශනවලට භාජනය වී තිබෙන ඊමේල් පණිවිඩවලට අදාළ දත්ත මකා දැමීමේ සිද්ධිය සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළ පැමිණිල්ල යළි අප්‍රේල් මස 29 වනදා කැඳවන ලෙසට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+මෙම පැමිණිල්ල අද (03) කොළඹ අතිරේක මහෙස්ත්‍රාත් කේමින්ද පෙරේරා මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී මෙම නඩුවේ සැකකරුවන් වශයෙන් නම්කර සිටින අදාළ නෞකාවේ දේශීය නියෝජිත සමාගමේ සේවකයින් 07දෙනා අධිකරණය හමුවේ පෙනී සිටියේය.
+
+එහිදී විමර්ශන සිදුකරන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් මාධව තෙන්නකෝන් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම විමර්ශනවලදී ඇතැම් ඊමේල් පණිවිඩවලට අදාළ දත්ත මකාදමා තිබෙන බවට කරුණු අනාවරණය වී ඇති බව පවසා ඇත.
+
+මෙම ප්‍රශ්නගත ඊමේල් පණිවිඩවලට අදාළ දත්ත රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවේ ඩිජිටල් විද්‍යාගාරයේ තිබෙන දත්ත ගබඩාවේ රඳවා තිබෙන බවත් තාක්ෂණික දෝෂයක් හේතුවෙන් එම දත්ත ගබඩාව අක්‍රිය වී ඇති බැවින් එම පිටපත් ලබාගැනීමට නොහැකි තත්ත්වයක් උද්ගත වී ඇති බවත් සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/4a89229a.json)
 
 ---
 
@@ -1382,6 +1614,28 @@ SSP PGS Gunathilaka has been transferred to the Director of the Medical Services
 
 ---
 
+### පොලිසියේ ලොකු පුටු මාරුවෙන් කාන්තා නිලධාරිනියන්ට ලොකු වගකීම්
+
+*2024-12-03 11:52:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgndn1el3vo) · `si`
+
+ජාතික පොලිස් කොමිෂන් සභාව වහාම ක්‍රියාත්මක වන පරිදි නියෝජ්‍ය පොලිස්පතිවරුන් ඇතුළු ජ්‍යෙෂ්ඨ පොලිස් නිලධාරින් 54 දෙනෙකුට ස්ථාන මාරුවීම් ලබා දී  අත්තේ ජ්‍යෙෂ්ඨ නිලධාරිනියන් පිරිසකට ද නව වගකීම් පවරමිනි.
+
+එසේ ස්ථාන මාරුවිම් ලැබු පොලිස් ජ්‍යෙෂ්ඨයන් අතර නියෝජ්‍ය පොලිස්පතිවරුන් 5 දෙනෙකු, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන් 35 දෙනෙකු සිටින අතර ඊට අමතරව පොලිස් අධිකාරීවරුන් 7 දෙනෙකු සහ සහකාර පොලිස් අධිකාරීවරුන් 7 දෙනෙකු ඇතුළත් වේ.
+
+කොස්තාපල් නිලයේ සිට වැඩබලන පොලිස්පති දක්වා පැමිණි ප්‍රියන්ත වීරසූරිය කවුද?
+
+මෙම ස්ථාන මාරුවේදී පළමු වතාවට පොලිස් නිලධාරිනියක් අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ (CID) අධ්‍යක්ෂ ධුරයට පත් කර තිබීම මෙරට පොලිස් ඉතිහාසයේ සුවිශේෂි සිදුවීමකි.
+
+එසේ අධ්‍යක්ෂවරිය ලෙස පත් කර ඇත්තේ එම දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ ධුරයේ කටයුතු කළ පළමු නිලධාරිනිය වු කාන්තා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ඉමේෂා මුතුමාල යි.
+
+2007 වසරේ දී කාන්තා සහකාර පොලිස් අධිකාරි තනතුරෙන් පොලිස් සේවයට එක් වී ඇති ඇය, මෙරට පොලිස් ඉතිහාසයේ කාන්තා සහකාර පොලිස් අධිකාරි නිලයට පත්වු නිලධාරිනියන් තිදෙනාගෙන් එක් අයෙකි.
+
+...
+
+[Data](articles/56aa9b42.json)
+
+---
+
 ### Naleem's Satyaprama
 
 *2024-12-03 11:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-எம்-பியாக-நளீம்-சத்தியப்பிரமாணம்/175-348165) · `ta`
@@ -2161,315 +2415,5 @@ Chilaw police are investigating the foot of a small child who was dragged by a d
 [Data](articles/9ecf5ac8.json)
 
 [Extended Data](ext_articles/9ecf5ac8.ext.json)
-
----
-
-### Invitation to the Commissioner of Internal
-
-*2024-12-03 09:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டு-இறைவரி-ஆணையாளருக்கு-அழைப்பாணை/175-348153) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Colombo Additional Magistrate Bandara Ilangasinghe orders Civil Religious Commissioner to court on Jan 7 due to lack of report on lawsuit against untaxed private companies.
-
-🟩
-
-Colombo Additional Magistrate Bandara Ilangasinghe has ordered the Civil Religious Commissioner to appear before the court on January 7.
-
-The order has been issued due to the lack of a report for a lawsuit filed against private companies that are not taxed.R
-
-◼️
-
-[Data](articles/ffc31adb.json)
-
-[Extended Data](ext_articles/ffc31adb.ext.json)
-
----
-
-### Harsha's name is proposed to be held in the Chairman of the Cash Committee
-
-*2024-12-03 09:30:18* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-කාරක-සභාවේ-සභාපතිධුරයට-හර්ෂගේ-නම-යෝජනා-වෙයි/11-413418) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Harsha De Silva named for Cash Committee Chair. Party leaders propose him. To be presented in Parliament today. He's served as Chair twice before. Opposition supports his candidacy.
-
-🟩
-
-Several party leaders have decided to propose Mr. Harsha District MP Dr. Harsha De Silva, Colombo District MP Dr. Harsha De Silva, the Chairman of the Committee of Parliament.
-
-Accordingly, Dr. Harsha Silva's name is to be tabled in Parliament today (3) for the post of Chairman of the Cash Committee.
-
-MP Dr. Harsha De Silva agreed to the post of Chairman of the Purpose Committee and the opposition parties including the UNP, said MP Anuradha Jayaratne said.
-
-Dr. Harsha Silva has held the post of Chairman of the Committee twice.
-
-◼️
-
-[Data](articles/0bfa92df.json)
-
-[Extended Data](ext_articles/0bfa92df.ext.json)
-
----
-
-### Parliament commences - Live broadcast
-
-*2024-12-03 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203982) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Parliament begins live broadcast. Debate on President Anura Kumara Dissanayake's proposal scheduled today. Also, 10th Parliament's PS member establishment planned for today.
-
-🟩
-
-The debate on the proposal presented by President Anura Kumara Dissanayake is due to take place today.
-
-It is also planned to establish the PS member of the 10th Parliament today.
-
-◼️
-
-[Data](articles/b5f73610.json)
-
-[Extended Data](ext_articles/b5f73610.ext.json)
-
----
-
-### Dayasiri Jayasekara was the first session of the 10th Parliament
-
-*2024-12-03 09:26:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c938pp0nw2wo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dayasiri Jayasekara sparked controversy in Parliament's first session. His question led to a diagnosis issue. Deputy Minister Aruna Jayasekara discussed disaster relief. Standing orders were contradicted. Harsha De Silva and Gayantha Karunatilake questioned procedure. A submission was made to the Speaker instead of the House. Minister Rathnayake addressed the Secretary's counsel and corrected the Speaker.
-
-🟩
-
-Dayasiri Jayasekara was the first session of the 10th Parliament
-
-Due to a question raised by MP Dayasiri Jayasekera, the MP Dayasiri Jayasekera has been diagnosed with the Hon.
-
-Season 1st Season of Parliament commenced today (Dec. 03). The Deputy Minister Aruna Jayasekara informed the Parliament regarding the damage caused by the disaster and the government's step.
-
-The government's view that Dayasiri Jayasekera was then contradicted to standing orders.
-
-Rawff Harsha De Silva, Dr. Harsha De Silva and Gayantha Karunatilake also informed the House that they did not follow the proper procedure.
-
-The presentation was given the same question that a submission was submitted to the Speaker instead of the Speaker.
-
-He was responding to the House, led by Minister Rathnayake, the counsel received by the Secretary of the Council and that the Speaker was corrected.
-
-◼️
-
-[Data](articles/680a7c53.json)
-
-[Extended Data](ext_articles/680a7c53.ext.json)
-
----
-
-### Anuradha Jayaratne was leading Anuradha Jayaratne
-
-*2024-12-03 09:26:14* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධ-ජයරත්නට-හිමිවු-නායකත්වයඅනුරාධ-ජයරත්නට-හිමිවු-නායකත්වය/11-413417) · `si`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Anuradha Jayaratne nominated leader New Democratic Front. Written notice sent Speaker requesting appointment. Ceremony held at Flower Front office under Ranil Wickremesinghe's patronage.
-
-🟩
-
-Anuradha Jayaratne has been nominated as the leader of the New Democratic Front.
-
-The written notice was to be sent to Speaker at night yesterday (2), requesting the Speaker at the New Democratic Front.
-
-The appointment of the new Democratic Front held at the political office on Flower Front and the UNP members of the political office on the Colombo Flower Front under the patronage of eighth Executive President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/75b0e50d.json)
-
-[Extended Data](ext_articles/75b0e50d.ext.json)
-
----
-
-### Anuradha Jayaratne appointed leader of NDF parliamentary group
-
-*2024-12-03 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103947/anuradha-jayaratne-appointed-leader-of-ndf-parliamentary-group) · `en`
-
-The New Democratic Front (NDF) Kandy District Member of Parliament Anuradha Jayaratne has been appointed the leader of the NDF parliamentary group.
-
-This decision has been made during a meeting of the NDF’s Parliamentarians held last evening (02) under the leadership of former President Ranil Wickremesinghe.
-
-Meanwhile, it was reported that this appointment has been communicated to the Speaker of the House Dr. Asoka Ranwala.
-
-MP Anuradha Jayaratne is the son of former Prime Minister D.M. Jayaratne.
-
-◼️
-
-[Data](articles/46213b1f.json)
-
-[Extended Data](ext_articles/46213b1f.ext.json)
-
----
-
-### Delay in the train service
-
-*2024-12-03 09:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவையில்-தாமதம்/175-348152) · `ta`
-
-Train service delay: Coastal railway affected by signal failures at Ratmalana and Chilaw stations.
-
-🟩
-
-The Railway Department said that the train service at the coastal railway line has been delayed due to a signal failure at Ratmalana and Chilaw Railway.. Remble
-
-◼️
-
-[Data](articles/5a14bc11.json)
-
-[Extended Data](ext_articles/5a14bc11.ext.json)
-
----
-
-### US Assistant Secretary to South and Central Asian Affairs Donald Lu visit Sri Lanka
-
-*2024-12-03 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200280) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-US Assistant Secretary Donald Lu visits Sri Lanka, strengthening ties on anti-corruption efforts and economic development.
-
-🟩
-
-US Assistant Secretary to South and Central Asian Affairs Donald Lu has made a visit to Sri Lanka.
-
-He has made a visit to India, Sri Lanka and Nepal from the month of the month.
-
-Donald Lu's visit will strengthen cooperation with key shareholders in South Asia and promote regional growth and safety.
-
-US Assistant Secretary of State Donald Lu is participating in key meetings in New Delhi in India, supporting the cooperation between India and the United States and the importance of the Indo-Pacific region.
-
-Donald Lu, along with Daniel Cridenpiring, Employees of the Eastern Asia and Pacific Region, will lead the United States of America East Asia Consultations (U.S. -India East Asia Consultations). These suggestions and separate meetings with senior officials of the Indian government will play an important role in world and regional matters.
-
-...
-
-[Data](articles/5e36e6ce.json)
-
-[Extended Data](ext_articles/5e36e6ce.ext.json)
-
----
-
-### Action of the National Police Commission
-
-*2024-12-03 09:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பொலிஸ்-ஆணைக்குழுவின்-அதிரடி-நடவடிக்கை/175-348151) · `ta`
-
-National Police Commission transfers senior officers. Deputy Inspector Generals moved to implementation roles. Director of Criminal Investigation Department position filled by Senior Superintendent of Police Muthumala.
-
-🟩
-
-Several senior police officers, including Deputy Inspector Generals of Police, have been transferred to implementation immediately.
-
-Accordingly, the Director of the Criminal Investigation Department, Senior Superintendent of Police, EMMS. Senior Superintendent of Police. Muthumala has been appointed as the Director of the Criminal Investigation Department. Remble
-
-◼️
-
-[Data](articles/2c62ea57.json)
-
-[Extended Data](ext_articles/2c62ea57.ext.json)
-
----
-
-### Rugby wins in 54 years
-
-*2024-12-03 09:18:38* · [`adalk`](https://www.ada.lk/sports/වසර-54කින්-ලංකාව-ලබාගත්-රග්බි-ජය/9-413416) · `si`
-
-Sri Lanka's rugby team returns after 54 years, competing in Dubai tournament with international teams.
-
-🟩
-
-"Sri Lions' rugby team to the International Rugby Tournament came to the Katunayake Airport on 54 years after the first time in the history of Sri Lanka.
-
-The International Rugby Championship was held in Dubai until the participation of 18 countries in the world, "Dubai-07 countries from 18 countries from 18 countries from the world.
-
-"Sri Lions' Rugby team was competed in the 'Open Men' (International Open Mens Open, the highest competitive sector of the tournament.
-
-The Sri Lions has played five players representing the Sri Lankan national team.
-
-The 'Sri Lions' Rugby team has been the first Sri Lankan team to be the first Sri Lankan team to represent Sri Lanka in the event.
-
-A group of Sri Lankan players Fiji, Australia, South Africa, and Tona kingdom were also present.
-
-Sri Lion's rugby players from Dubai to 10.10 pm on Dubai on 22/02 to the Emirates Airport on Dubai."A group of Rugby Sports Club officers also arrived at the airport.
-
-◼️
-
-[Data](articles/9630c66d.json)
-
-[Extended Data](ext_articles/9630c66d.ext.json)
-
----
-
-### Products of Excise Payments have been suspended
-
-*2024-12-03 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203981) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Excise payments suspended: Liquor licenses extended. 23 companies affected. Tax deadline Nov 30. Unpaid companies face action. Ownership checks ongoing. Liquor production halted in Northern Province.
-
-🟩
-
-According to the Excise Ordinance, the Excise Ordinance will be suspended and the production license will be taken to extend the next year, says the Excise Department.
-
-The department has pointed out that the product license has been issued for 23 liquor companies regarding this year.
-
-Excise had been granted until November 30 was given to the payment of taxes until November 30 and all other companies have paid out excise applications for liquor licenses.
-
-Accordingly, Welisara W. M. The company said that the company is not paid by Royal Ceylon Distributor Company and Meegoda Macclum Company and Meegoda Macclum Company has been paid.
-
-Accordingly, action will be taken regarding the procedures on the verdict.
-
-The Excise Department has commenced to ensure the ownership of companies relating to Lunuwila Glow, Wayamba, Western Spiritiff, and the relevant companies.
-
-In addition, steps have been taken to suspend the liquor production in the Wagara in the Northern Province.
-
-◼️
-
-[Data](articles/3b3ff698.json)
-
-[Extended Data](ext_articles/3b3ff698.ext.json)
-
----
-
-### Suspended 2024 A/L Exam resumes tomorrow
-
-*2024-12-03 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103946/suspended-2024-al-exam-resumes-tomorrow) · `en`
-
-The 2024 G.C.E. Advanced Level examination which was temporarily suspended due to recent adverse weather conditions is scheduled to recommence tomorrow (Dec. 04).
-
-The 2024 A/L examination commenced on November 25, and was later suspended temporarily on November 27 due to extreme weather conditions that affected the communities across the island.
-
-Accordingly, the Department of Examinations said that the exam will recommence tomorrow and will continue according to the usual time table that has already been provided to the students.
-
-Furthermore, the Commissioner General of Examinations Amith Jayasundara stated that the subjects which were scheduled to be held on the dates, in which the exam had been suspended, will be held in the upcoming days.
-
-The new time table related to the said dates will be provided to the students at the examination centres in the coming days, Jayasundara added.
-
-◼️
-
-[Data](articles/cef36e71.json)
-
-[Extended Data](ext_articles/cef36e71.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 02:26:22**
+As of **2024-12-04 02:42:05**
 
 ## Newspaper Stats
 
-*Scraped **58,309** Articles*
+*Scraped **58,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
-tamilmirrorlk | 8,296
+tamilmirrorlk | 8,297
 virakesarilk | 9,536
 adaderanasinhalalk | 10,076
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,307 (100.0%) of 58,309 articles have been extended.
+58,307 (100.0%) of 58,310 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,24 @@ This is followed by a referendum in this evening. Will be featured. The adjournm
 [Data](articles/29ddca3c.json)
 
 [Extended Data](ext_articles/29ddca3c.ext.json)
+
+---
+
+### ’தேசிய ஒருமைப்பாட்டை பலவீனப்படுத்த இடமளிக்க முடியாது’
+
+*2024-12-04 01:25:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-ஒருமைப்பாட்டை-பலவீனப்படுத்த-இடமளிக்க-முடியாது/175-348210) · `ta`
+
+தேசிய ஒருமைப்பாட்டை பலவீனப்படுத்தும் வகையில் ஒரு தரப்பினர் திட்டமிட்ட வகையில் செயற்படுகிறார்கள். இவ்வாறானவர்கள்  செயற்பாடுகளுக்கு ஒருபோதும் இடமளிக்க முடியாது என வெளிவிவகார மற்றும்  வெளிநாட்டு வேலைவாய்ப்புக்கள் பிரதி அமைச்சர் அருண் ஹேமசந்திர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03) இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன  உரை மீதான விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்த அவர் தொடர்ந்து உரையாற்றுகையில்,
+
+வெளிவிவகார மற்றும்  வெளிநாட்டு தொழில்வாய்ப்பு துறைகளில்  காணப்படும் அடிப்படை  பிரச்சினைகளுக்கு  தீர்வு காண்போம் .  தூதுவர் நியமனம் மற்றும் இராஜதந்திர நியமனத்தில் காணப்படும் முறைகேடுகள் ஆராயப்படும்.  வெளிநாட்டு  நியமனங்களை  முற்றாக  மறுசீரமைக்க உள்ளோம்.
+
+வெளிநாட்டு தொழில் வாய்ப்பு விவகாரத்தில் பல பிரச்சினைகள் தோற்றம் பெற்றுள்ளன. கடந்த அரசாங்கத்தின் ஒரு சில தீர்மானங்களால் பிரச்சினைகள் தீவிரமடைந்துள்ளன. இவற்றுக்கும் பதில் சொல்ல வேண்டிய கடப்பாடு எமக்குள்ளது .
+
+...
+
+[Data](articles/24a7937f.json)
 
 ---
 
@@ -2477,35 +2495,5 @@ The Muslim Congress contested the last general election and won 2 seats with 87,
 [Data](articles/b1e36dfd.json)
 
 [Extended Data](ext_articles/b1e36dfd.ext.json)
-
----
-
-### Appointment of Director of Police Media
-
-*2024-12-03 11:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-ஊடகப்-பணிப்பாளர்-நியமனம்/175-348164) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-KP Manandunga: New Director of Police Media Division. Transferred from Kantale Division. IUK Lokuhetti: Director Colombo Crime Branch & Examination Division. HDKS Perera: Prevention of Terrorism Investigation Division. KA Udaya Kumara: Corruption Prevention Unit Director.
-
-🟩
-
-Senior Superintendent of Police (SSP) KP Manadunga has been appointed as the new Director of the Police Media Division and the Police Media Spokesperson.
-
-The SSP has been transferred from the Kantale Division, while the Talatuwa Crime Division will remain in office as DIG.
-
-Meanwhile, Senior Superintendent of Police, IUK Lokuhetti has been transferred as the Director of the Colombo Crime Branch and the Director of the Examination Division.
-
-Senior Superintendent of Police, HDKS Perera, has been appointed as the new Director of the Prevention of Terrorism and Investigation Division and transferred from the Colombo Fraud Investigation Division.
-
-In addition, the Superintendent of Police, KA Udaya Kumara, has been transferred from the Puttalam Division as the Director of the Corruption Prevention Unit.
-
-◼️
-
-[Data](articles/3b7ec527.json)
-
-[Extended Data](ext_articles/3b7ec527.ext.json)
 
 ---

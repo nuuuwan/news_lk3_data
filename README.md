@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 14:42:28**
+As of **2024-12-03 15:13:57**
 
 ## Newspaper Stats
 
-*Scraped **58,223** Articles*
+*Scraped **58,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,248 @@ economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,506
-adaderanalk | 7,066
-tamilmirrorlk | 8,286
-virakesarilk | 9,527
-adaderanasinhalalk | 10,056
+adaderanalk | 7,068
+tamilmirrorlk | 8,287
+virakesarilk | 9,528
+adaderanasinhalalk | 10,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,221 (100.0%) of 58,223 articles have been extended.
+58,229 (100.0%) of 58,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### ஆறுதல் அஸ்வெசும கொடுப்பனவு அதிகரிப்பு
+### Decision to cancel local government nominations
+
+*2024-12-03 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203995) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Cabinet approves cancellation of local government nominations for 2023 elections. Political party leaders agree to recall nominations. Election Commission to provide new nomination provisions.
+
+🟩
+
+Cabinet approval has been approved by the Cabinet approval to advise a legal drafting provision to conclude a nomination of the local government bodies for the election of 2023.
+
+Angeled political party leaders who were chaired by the Speaker on the 25th of this month were agreed to cancel the nominations of the Speaker in Parliament on the 25th of the party leader.
+
+Accordingly, the local government bodies to be recalled to the Elections for the Elections for the Elections and the Election Commission to educate the provision of provision for provision of provisional nominations for provision of provision of new nominations (Special Provisions)The proposal made by the Minister of Public Administration, Provincial Councils and Local Government, has been approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/6a376a99.json)
+
+[Extended Data](ext_articles/6a376a99.ext.json)
+
+---
+
+### Scattered cement bags
+
+*2024-12-03 14:37:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிதறிக்-கிடக்கும்-சீமெந்து-பைகள்/175-348183) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Cement bags spilled from lorry, scattering broken ones along parliament road.
+
+🟩
+
+As the cement bags fell out of the lorry carrying cement bags, many broken cement bags were scattered along the side of the parliament road.
+
+◼️
+
+[Data](articles/9af12ffd.json)
+
+[Extended Data](ext_articles/9af12ffd.ext.json)
+
+---
+
+### A statement on Litro gas prices
+
+*2024-12-03 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203994) · `si`
+
+Litro gas prices unchanged Dec 2024 despite intl market increases. Company decides against domestic price hike.
+
+🟩
+
+It states that Litro household gas prices do not change for December 2024.
+
+The company says that LP gas prices have increased in the international market, but the people decided not to increase the price of gas.
+
+◼️
+
+[Data](articles/dbc73f4b.json)
+
+[Extended Data](ext_articles/dbc73f4b.ext.json)
+
+---
+
+### Increase of comfort aswell
 
 *2024-12-03 14:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறுதல்-அஸ்வெசும-கொடுப்பனவு-அதிகரிப்பு/175-348182) · `ta`
 
-ஆறுதல் (அஸ்வெசும) நலன்புரி நன்மைகள் கொடுப்பனவு முறைமை 2023.07.01 ஆம் திகதி தொடக்கம் நடைமுறைப்படுத்தப்பட்டுள்ளதுடன், 2384/30 ஆம் இலக்க அதிவிசேட வர்த்தமானி அறிவித்தல் மூலம் மீண்டும் திருத்தம் செய்யப்பட்டு 2024.07.01 ஆம் திகதி தொடக்கம் நடைமுறைப்படுத்தப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-குறித்த உத்தேச திட்டத்தின் கீழ் ஆறுதல் (அஸ்வெசும) நலன்புரிப் பயனாளிகள் குடும்பங்கள் 04 வகையான சமூகப் பிரிவின் கீழ் கொடுப்பனவுகள் வழங்கப்படுகின்றன.
 
-பொருளாதார நெருக்கடிகளின் தாக்கங்கள் முழுமையாக நீங்காமையால், நிலையற்றவர்;கள் மற்றும் ஆபத்துக்கு உட்பட்டவர்கள் ஆகிய சமூகப் பிரிவினர்களுக்குரிய முதலாம் சுற்று விண்ணப்பங்களுக்குரிய தேர்ந்தெடுக்கப்பட்ட குடும்பங்களுக்கு தொடர்ந்து சில காலங்களுக்கு நிவாரணங்களை வழங்க வேண்டுமெனக் கண்டறியப்பட்டுள்ளது.
+
+"Comfort Welfare Benefit System launched July 30, 2023. Benefits divided into 4 social categories. Economic crisis impacts reduced. Cabinet approves increase in monthly payments for poor until December 31, 2025. Validity extended to March 31, 2025."
+
+🟩
+
+The Comfort (Aswesum) Welfare Benefit Payment System has been implemented on 01.07.01.07.07.07.07.07.07.30.
+
+Under the proposed scheme, the consolation (Aswesuma) welfare beneficiaries are given allowances under 04 types of social division.
+
+Since the impacts of the economic crisis are completely eliminated, it has been found that the first round of applications for the first round of applications for social and dangerous community has been found to be relieved for some time.
+
+In addition, the current payments are not enough to consider the cost of living.. Accordingly, the Cabinet has approved the proposal submitted by President Anura Kumara Dissanayake to establish under the Ministry of Finance, Planning and Economic Development for the following amendment to the existing consolation (Ashemu) Welfare Benefits Payment System.
+
+The monthly welfare payments of the poor and the most poor are increasing the monthly welfare payments of Rs.
+
+• Excessive period of validity until 2025.03.31
 
 ...
 
 [Data](articles/622c823f.json)
 
+[Extended Data](ext_articles/622c823f.ext.json)
+
 ---
 
-### உயர் தரப் பரீட்சைகள் மீள ஆரம்பம்
+### Cabinet approves drafting of bill to allow recalling of LG Election nominations
+
+*2024-12-03 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103963/cabinet-approves-drafting-of-bill-to-allow-recalling-of-lg-election-nominations) · `en`
+
+The Cabinet of Ministers has granted approval to draft the Local Government Elections (Special Provisions) Bill in order to make necessary provisions for the recalling of nominations for Local Government (LG) Elections.
+
+Speaking at the Cabinet press conference held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that it has been decided at the Cabinet meeting held on 02 September 2024 to instruct the Legal Draftsman to prepare the Local Government Elections (Special Provisions) Bill to recall the nominations called for the Local Government Elections scheduled to be held in 2023 and to make arrangements for calling new nominations.
+
+He highlighted that during the party leaders’ meeting held on 25 November 2024 under the patronage of the Speaker of Parliament in which recognized political party leaders also participated, it was agreed that the nominations called in the year 2023 should be cancelled and new nominations should be called for the upcoming LG Elections.
+
+...
+
+[Data](articles/12f4cb13.json)
+
+[Extended Data](ext_articles/12f4cb13.ext.json)
+
+---
+
+### No change in Litro Gas prices for December
+
+*2024-12-03 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103962/no-change-in-litro-gas-prices-for-december) · `en`
+
+The Litro Gas Company says that the prices of its domestic LP Gas cylinders will remain unchanged for the month of December 2024.
+
+The Chairman of the Litro Gas Company, Channa Gunawardena stated that the company decided to keep the prices of LP gas cylinders unchanged despite the price hike in the global market, in order to provide relief to the consumers.
+
+Accordingly, the prices of Litro LP gas domestic gas cylinders will remain unchanged as follows:
+
+No LP gas price revision took place last month as well, and the most recent price revision was in October.
+
+◼️
+
+[Data](articles/cbd3c7b5.json)
+
+[Extended Data](ext_articles/cbd3c7b5.ext.json)
+
+---
+
+### Pharmaceutical supplies for a year to domestic manufacturers
+
+*2024-12-03 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203993) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Cabinet approves pharmaceutical supply deals for local manufacturers. State Pharmaceutical Manufacturing Corp procures 42 drug varieties worth Rs. 5,398.83 million. Local partners sign agreements for 131 drugs (Rs. 16,611.42 million) and 36 drugs (Rs. 9,022.10 million). New local manufacturers selected for 130 drugs (Rs. 13,374.65 million).
+
+🟩
+
+Cabinet approval has been approved to purchase local manufacturers from local manufacturers for the next year.
+
+Accordingly, the State Pharmaceutical Manufacturing Corporation, the Public Manufacturers who have signed the Joint Business Agreements with the Ministry of Pharmace and the Ministry of Pharmaceutical ProductsThe Ministry has been prepared.
+
+The Cabinet of Health and Mass Meditiya has been approved by the Health and Mass Meditiya Minister to present the procurements made by the Cabinet of Procurement Committee appointed by the Cabinet.
+
+01. Procurement of 42 varieties of drugs to be presented to the State Pharmaceutical Manufacturing Corporation for Rs. 5,398.83 million.
+
+02. Procurement of 131 drugs towards Rs. 16,611.42 million to local manufacturers who have signed joint ventures with the State Pharmaceutical Manufacturing Corporation.
+
+03. Procurement of 36 types of drugs is awarded to local manufacturers who have signed up to Rs. 9,022.10 million.
+
+...
+
+[Data](articles/19b8d12e.json)
+
+[Extended Data](ext_articles/19b8d12e.ext.json)
+
+---
+
+### Retrieval
 
 *2024-12-03 14:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-தரப்-பரீட்சைகள்-மீள-ஆரம்பம்/175-348181) · `ta`
 
-சீரற்ற காலநிலை காரணமாக ஒத்திவைக்கப்பட்ட 2024 க.பொ.த உயர்தர (உ/த) பரீட்சைகள் நாளை (4) மீண்டும் ஆரம்பமாகவுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-திருத்தப்பட்ட கால அட்டவணையின்படி, முதலில் டிசம்பர் 4 ஆம் திகதி பாடங்கள் திட்டமிட்டபடி நடத்தப்படும். வேதியியல் முதல் தாள், தொழில்நுட்ப அறிவியல் முதல் தாள் மற்றும் நாடகம் முதல் தாள் (மூன்று மொழிகளில்) காலையிலும், அரசியல் அறிவியல் முதல் தாள் பிற்பகலும் நடைபெறும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
 
-புதுப்பிக்கப்பட்ட பரீட்சை கால அட்டவணையை அனைத்து பரீட்சார்த்திகளுக்கும் விநியோகிக்க திணைக்களம் நடவடிக்கை எடுத்துள்ளது. வெள்ளைத் தாளில் அச்சிடப்பட்ட அசல் கால அட்டவணையில் இருந்து வேறுபடுத்தும் வகையில் புதிய கால அட்டவணை வேறு நிறத்தில் அச்சிடப்படும். திருத்தப்பட்ட அட்டவணை குறித்து செய்தித்தாள் அறிவிப்புகள் மற்றும் பிற ஊடக சேனல்கள் மூலமாகவும் பரீட்சார்த்திகளுக்கு அறிவிக்கப்படும்.
 
-பரீட்சார்த்திகள் தங்களின் புதுப்பிக்கப்பட்ட கால அட்டவணைகளை பரீட்சை திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளத்திலிருந்து பதிவிறக்கம் செய்துகொள்ள முடியும்.
+GCE A/L exams resume Dec 4 due to weather. Revised schedule includes chemistry, technical science, languages, political science. New timetable printed differently. Examiners notified via website, newspapers. No exams Dec 24-26. Security measures for question papers.
+
+🟩
+
+The Department of Examinations has announced that the 2024 GCE Advanced Level (U/T) exams will be resumed tomorrow (4) due to inclement weather.
+
+According to the revised schedule, the lessons will be conducted as planned on December 4. The Department of Examinations said that the first sheet of chemistry, the first sheet of technical science and the first sheet of play (in three languages) and the first sheet of political science will be held in the afternoon.
+
+The Department has taken steps to distribute the renewed exam schedule to all examiners. The new timetable will be printed in a different color to distinguish from the original schedule printed on the white paper. Examiners will also be notified by newspaper announcements and other media channels on the revised schedule.
+
+Examiners can download their updated schedules from the official website of the Examination Department.
+
+Examinations will not be held on December 24, 25 and 26. All selection stations will be closed these days.
 
 ...
 
 [Data](articles/f268c4ee.json)
+
+[Extended Data](ext_articles/f268c4ee.ext.json)
+
+---
+
+### කැබිනට් මාධ්‍ය හමුව මෙතැනින්
+
+*2024-12-03 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203992) · `si`
+
+අස්වැසුම හිමි පවුල්වල දරුවන් සඳහා පාසල් ලිපිද්‍රව්‍ය ලබාගැනීමට එක් දරුවෙකුට රු 6000ක දීමනාවක්.
+
+සහල් හිඟයට විසඳුමක් ලෙස ඇතැම් ආනයන සීමාවන් තාවකාලිකව ඉවත් කර 2024 දෙසැම්බර් 20 දක්වා සහල් ආනයනය සඳහා අවසර.
+
+දුප්පත් වර්ගීකරණය යටතේ හිමිවූ අස්වැසුම  රු 10,000 දක්වා වැඩි කෙරේ.
+
+අන්ත දිළිඳු වර්ගීකරණය යටතේ හිමිවූ අස්වැසුම රු 17,500 දක්වා වැඩි කෙරේ.
+
+රාජ්‍ය ආයතනවලට අධික වැය බරක් වන අධි සුඛෝපභෝගී වාහන අපහරණය කිරීමට යෝජනාවක්.
+
+පළාත් පාලන ඡන්ද විමසීම විශේෂ විධිවිධාන පනත් කෙටුම්පත සකස් කර නීති කෙටුම්පත් සම්පාදක වෙත උපදෙස් ලබාදීමට ඉදිරිපත් කළ යෝජනාවට අනුමැතිය.
+
+පක්ෂ නායක රැස්වීමේදී එකඟ වුණා දැනට කැඳවා තිබෙන නාමයෝජනා යළි කැඳවා අලුතින් නාමයෝජනා කැඳවීමට.
+
+අවිධමත් ලෙස බඳවාගෙන රාජ්‍ය සේවයේ තැන් තැන්වල ඉන්න උපාධිධාරීන් පිළිබඳ ස්ථීර විසඳුමක් ලබාගැනීමට කමිටු 2ක් පත් කිරීමට අනුමැතිය.
+
+රජයේ රෝහල්වල, සායනවල පවතින ඖෂධ හිඟයට පිළියමක් ලෙස දේශීය නිෂ්පාදකයින් සඳහා වැඩි අවස්ථාව.
+
+පැවැති යහපත් කාලගුණය හමුවේ ආපදාවලින් පීඩාවට පත් පවුල් වෙනුවෙන් සහන සැලසීමට වැඩපිළිවෙලක්.
+
+...
+
+[Data](articles/b2c3ee01.json)
 
 ---
 
@@ -88,6 +284,30 @@ Opposition leader Sajith Premadasa told parliament today that the government sho
 
 ---
 
+### පොලීසියට ඔත්තු දුන්නැයි සෙල්ලකතරගමදී අයෙකු ඝාතනය කරයි
+
+*2024-12-03 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203991) · `si`
+
+ඝාතනයට ලක්වූ පුද්ගලයෙකුගේ දේහය රැගෙන ප්‍රදේශවාසීන් පිරිසක් ඊයේ (02)  රාත්‍රියේ විරෝධතාවයක නිරත ව තිබේ.
+
+ඒ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් පිරිසක් විසින් සිදුකළ බව කියන මෙම ඝාතනයට සාධාරණයක් ඉටු කරන ලෙස ඉල්ලමින්.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ සෙල්ලකතරගම ප්‍රදේශයේ පදිංචි 39 හැවිරිදි අයෙකි.
+
+ඝාතනයට ලක් වූ පුද්ගලයා සිය හිතවතෙකුගේ නිවසේ රැඳි සිටියදී එහි පැමිණි පිරිසක් නිවසේ හිමිකරු සමග ආරවුලක් ඇති කරගෙන තිබේ.
+
+"විශ්ණු දේවාලය අසලදී තමයි මේ බල්ලෙක් වගේ මරලා දාලා තියෙන්නේ චණ්ඩි පිරිසක් ඇවිල්ලා කඩු අරගෙන. මම මේ කතරගම පොලීසියත් එක්ක නිතරම විරුද්ධයි. ඕන ජාමෙක මම ගරු කරනවා පොලීසියිට මේ ගමේ ගංජා, කුඩු නැති කළොත්.
+
+මේ අතර ඝාතනයට ලක්වූ පුද්ගලයාගේ දේහය මරණ පරීක්ෂණ කටයුතුවලින් පසු ඊයේ රාත්‍රියේ ඥාතීන්ට භාර දී ඇති අතර එය සෙල්ලකතරගම නගරයට රැගෙන ආ ඥාතීන් විරෝධතාවක නිතර වී තිබේ.
+
+ඒ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් පිළිබඳ පොලීසියට දැනුම්දීමේ සිද්ධියකට පළි ගැනීමක් ලෙස සිදුකළ මෙම ඝාතනයට සම්බන්ධ සැකකරුවන් වහා අත්අඩංගුවට ගන්නා ලෙස බලකරමින්.
+
+...
+
+[Data](articles/2d861a14.json)
+
+---
+
 ### 6,000 Rs.
 
 *2024-12-03 13:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-6-000-ரூபாய்-கொடுப்பனவு/175-348178) · `ta`
@@ -109,6 +329,22 @@ Minister Nalinda Jayadissa, the chief organizer of the ruling party, said in Par
 [Data](articles/598296eb.json)
 
 [Extended Data](ext_articles/598296eb.ext.json)
+
+---
+
+### இனவாதம் தலைதூக்குவதற்கு அனுமதிக்கமாட்டோம்  - நளிந்த ஜெயதிஸ்ஸ
+
+*2024-12-03 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200311) · `ta`
+
+தேர்தல் காலத்தில் இனவாதத்தையும் மததீவிரவாதத்தையும் எங்களிற்கு எதிராக பயன்படுத்தியவர்கள் தற்போது இனவாதத்தை தூண்ட முயல்கின்றனர் என தெரிவித்துள்ள தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர்அமைச்சர் நளிந்த ஜெயதிஸ்ஸ எந்தகாரணத்திற்காகவும் இனவாதம் தலைதூக்குவதற்கு அனுமதிக்கமாட்டோம்  என குறிப்பிட்டுள்ளார்.
+
+தேர்தல் காலத்தில் இனவாதத்தையும் மததீவிரவாதத்தையும் எங்களிற்கு எதிராக எப்படி தேர்தல்வாக்களிப்பிற்கு முன்னர் பயன்படுத்தினார்கள் என உங்கள் மனச்சாட்சியை கேட்டுப்பாருங்கள்.
+
+எங்களை தெரிவு செய்தால் மக்கள் தங்கள் மதநம்பிக்கைகளை பின்பற்ற முடியாத நிலை ஏற்படும்  எங்களிற்கு எதிராக இந்த கதைகளை பரப்பியவர்கள் தற்போது இனவாதத்தை தூண்ட முயல்கின்றனர்.
+
+◼️
+
+[Data](articles/accfc434.json)
 
 ---
 
@@ -145,6 +381,20 @@ Furthermore, he expressed that the Cabinet of Ministers approved the proposal pe
 [Data](articles/917a50cc.json)
 
 [Extended Data](ext_articles/917a50cc.ext.json)
+
+---
+
+### පාර්ලිමේන්තුව හෙට රාත්‍රී 9 තෙක් පැවැත්වීමට තීරණයක්
+
+*2024-12-03 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203990) · `si`
+
+හෙට දිනයේදී පාර්ලිමේන්තුව රාත්‍රී 9.30 තෙක් පැවැත්වීමට පක්ෂ නායක රැස්වීමේදී තිරණය වී තිබේ.
+
+ඒ අනුව පසුගිය දිනවල පැවැති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතිවූ ආපදා තත්ත්වය පිළිබඳ සභාව කල් තැබීමේ විවාදය හෙට පස්වරු 5.30 සිට පස්වරු 9.30 දක්වා පැවැත්වීමට තීරණය වූ බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/e4edeccb.json)
 
 ---
 
@@ -2135,229 +2385,5 @@ Senthil Thondaman has called for the first visit to the hill country as the new 
 [Data](articles/0278e388.json)
 
 [Extended Data](ext_articles/0278e388.ext.json)
-
----
-
-### What's this Tax Return?What will happen to thousands of causes of tax returns?
-
-*2024-12-03 01:27:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyvld25ly0o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Thousands face issues filing tax returns. Deadline was Nov 30. Website problems prevented many from submitting. Penalty: 5% income tax + 1% per month. Simplified report available for those with only one job/income. General report required otherwise. PIN issues common. Revenue Department requests email updates.
-
-🟩
-
-What's this Tax Return?What will happen to thousands of causes of tax returns?
-
-"I tear the two or a road. The systome didn't work, there was Carayi cordions. I gave up work, "Attempts to file revenue tax returns on November 30 told the Flavi to Sinhala.
-
-The BBC said to the Sinhala work that he was not able to provide the busy and unable to prepare the required file files, whether he knew that he was able to file tax returns from October to meet the bus records.
-
-"There are many people I have, so that it can't file this, think that there is a concession," he said.
-
-We observed that many others were unable to file tax records.
-
-2023/2024 Revenue taxes related to the year should have to end up on November 30.
-
-The media reports that nearly 16,000 people have been visited by the Department of Inland Revenue website to file a tax return on the last day.
-
-The Department of Inquiry was inquired by the Department of Inquiry as an extension of any concessionary or time to the tax returns to the due date.
-
-...
-
-[Data](articles/8de1aa26.json)
-
-[Extended Data](ext_articles/8de1aa26.ext.json)
-
----
-
-### In Jaffna
-
-*2024-12-03 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200275) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Jaffna: Two men arrested for refusing to feed flood victims. Ordered to explain actions. Protesters gather outside secretariat.
-
-🟩
-
-The Point Pedro Magistrate has ordered the two men who conflicted with the Grama Niladhari to explain the food.
-
-Two persons have been arrested on Sunday (01) for allegedly refusing to provide food to some families who were staying in the interim camps due to flood disaster in Vadamarachchi and Kalovalam areas.
-
-The police, who investigated the two men, ordered the two men to be interrogated on Monday (02) at the Point Pedro Magistrate's Court.
-
-At the same time, the families and relatives of the arrested were engaged in a protest in front of the Vadamarachchi North Divisional Secretariat on Monday (02).
-
-◼️
-
-[Data](articles/6ed6ef97.json)
-
-[Extended Data](ext_articles/6ed6ef97.ext.json)
-
----
-
-### 2024-12-02 (Monday)
-
-### One arrested in connection with the Vavuniya massacre
-
-*2024-12-02 22:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வவுனியா-படுகொலை-தொடர்பில்-ஒருவர்-கைது/72-348145) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Vavuniya massacre: One suspect detained by Omanthai police for murder of 5-year-old family members in Chemamadu and Ilamarathangulam areas due to old grudge. Police to appear in Vavuniya court; other suspects identified.
-
-🟩
-
-One person has been arrested by the Omanthai police on suspicion of murdering a man last evening in Vavuniya, Chemamadu and Ilamarathangulam.
-
-A five -year -old group of five -year -old family members had been hacked to death by a sword due to an old hostility in the Ilamarathangulam area of ​​the Omanthai police division.
-
-The police have taken steps to appear in the Vavuniya court and other suspects have been identified.. Remble
-
-◼️
-
-[Data](articles/209c9ab1.json)
-
-[Extended Data](ext_articles/209c9ab1.ext.json)
-
----
-
-### What will it take for a (quick) win on anti-corruption?
-
-*2024-12-02 22:37:14* · [`dailyftlk`](https://www.ft.lk/columns/What-will-it-take-for-a-quick-win-on-anti-corruption/4-769992) · `en`
-
-If the executive fails to act, the appropriate oversight committee of Parliament must act
-
-The elements of a solution can be discerned: Use the trial-at-bar and direct appeal to Supreme Court procedure used in Mahanama. Work out a solution, in the form of an amendment to the relevant statute if necessary, to expedite the appeal.
-
-But this will still not put a big fish behind bars within 12 months. But it will get the job done within the term of a government, unlike in the case of Premaratne who served in the 6th Parliament which ended in 2010. The case dragged on through the 7th, 8th, and 9th Parliaments
-
-I was at a meeting where a highly respected and experienced colleague said the Government must conclude a successful prosecution of a “big fish” within the first year or lose all credibility. They rode to power on the corruption narrative and have to deliver, he said.
-
-If he is right, I thought, the Government is in trouble. Unlike my colleague, I had done timelines for the big-fish cases.
-
-...
-
-[Data](articles/4d09883f.json)
-
-[Extended Data](ext_articles/4d09883f.ext.json)
-
----
-
-### History in the making!
-
-*2024-12-02 22:35:00* · [`islandlk`](http://island.lk/history-in-the-making/) · `en`
-
-Singer/composer Rajiv Sebastian says he has created history with the release of his latest music video, which is in the form of a duet with the veteran classical vocalist Bandula Wijeweera.
-
-Says Rajiv: “With the demise of the gutty Sunil Perera (of Gypsies fame), people assumed that there will be no celebrity to criticize Sri Lankan politicians, and my new music video, with Bandula Wijeweera, changes that misconception.”
-
-, according to Rajiv, is a surprising masterpiece in filling that vacuum.
-
-Rajiv, of course, has shared his creativity with many well-known singers, including the late Desmond De Silva, also the late Sunil Perera, Annesley, Sohan, Corrine (remember ‘Mage Konde Nathath’), Falan, as well as Yohani (‘Halmessa’), and his contributions have been well received over the past three decades.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/9d26b008.json)
-
-[Extended Data](ext_articles/9d26b008.ext.json)
-
----
-
-### Vote on Account and why
-
-*2024-12-02 22:32:12* · [`dailyftlk`](https://www.ft.lk/columns/Vote-on-Account-and-why/4-769991) · `en`
-
-This is the first time in the history of our legislature since the days of the first State Council of 1931 that a VOA will be proposed on the basis of a law passed by the Parliament. The recently enacted Public Financial Management Act No. 44 effective on 8 August 2024 has built in provisions for the submission of a VOA to the Parliament. Hence the examination of the background and procedure with respect to VOA is important and timely. A major legal deficiency that had been in existence for decades with respect to submission of VOA was circumvented by a law passed by the Parliament in 2024
-
-...
-
-[Data](articles/b980e2fe.json)
-
-[Extended Data](ext_articles/b980e2fe.ext.json)
-
----
-
-### How Yogendra Duraiswamy stood up to power and shone in public service
-
-*2024-12-02 22:21:00* · [`islandlk`](http://island.lk/how-yogendra-duraiswamy-stood-up-to-power-and-shone-in-public-service/) · `en`
-
-The right-thinking of Sri Lanka and the world over continue to recoil with horror on recollecting the vandalizing and burning of the Jaffna Public Library in the lead-up to the District Development Council (DDC) election in Northern Sri Lanka in mid-1981. The outrage was an acid test of the integrity of the J.R. Jayewardene regime of the time as well that of the country’s law-enforcers and public officials.
-
-The regime concerned and sections of those entrusted with keeping the law emerged from the veritable hell fires which were the torching of the Library, utterly disgraced. But this was not the case with, Yogendra Duraiswamy (YD), the senior public servant and Returning Officer in charge of conducting the relevant poll.
-
-...
-
-[Data](articles/1f494001.json)
-
-[Extended Data](ext_articles/1f494001.ext.json)
-
----
-
-### Bangladesh Employers’ Federation praises Employers’ Federation of Ceylon
-
-*2024-12-02 22:20:00* · [`islandlk`](http://island.lk/bangladesh-employers-federation-praises-employers-federation-of-ceylon/) · `en`
-
-A delegation representing the Bangladesh Employers Federation (BEF) recently concluded a two-day exchange program in Sri Lanka, organized under the initiative of the Bureau for Employers’ Activities (ACT/EMP) Dheli of the International Labour Organization (ILO) hosted by the Employers’ Federation of Ceylon (EFC).
-
-The delegation comprised of six officials from BEF, accompanied by three ILO officials. The purpose of the program was to provide a comprehensive understanding of how the Federation works and strengthens its legal services by catering to the requirements of its membership.
-
-During the visit, the delegation was introduced to the activities of the EFC, its membership strength and the broad spectrum of services provided by it, with special focus on litigation services.
-
-...
-
-[Data](articles/3b75eb3a.json)
-
-[Extended Data](ext_articles/3b75eb3a.ext.json)
-
----
-
-### Market volatility forces Abans to postpone debenture issue by a week
-
-*2024-12-02 22:17:00* · [`islandlk`](http://island.lk/market-volatility-forces-abans-to-postpone-debenture-issue-by-a-week/) · `en`
-
-Abans PLC said it was postponing its debenture issue by a week and changing the issue size due to market volatility.
-
-“The company has decided to postpone the debenture issue opening date to 10th December 2024 and the Issue Size considering the volatility in the market interest rates, CSE sources said.
-
-“The issue size is to be revised as follows; an initial Issue up to 3,000,000 listed, rated, unsecured, senior, redeemable debentures, they said.
-
-The consumer products retailer initially said it will issue 10 million listed, rated, unsecured, senior, redeemable, 5-year debentures at Rs 100 each.
-
-A further 10 million debentures was to be issues in the event of an oversubscription of the initial issue to raise a maximum amount of 2 billion, sources said.
-
-...
-
-[Data](articles/5d64351e.json)
-
-[Extended Data](ext_articles/5d64351e.ext.json)
-
----
-
-### New Secretary to Ministry of Women and Child Affairs appointed
-
-*2024-12-02 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103939/new-secretary-to-ministry-of-women-and-child-affairs-appointed) · `en`
-
-President Anura Kumara Dissanayake has officially appointed K.D.R. Olga as the Secretary to the Ministry of Women and Child Affairs, the President’s Media Division (PMD) reported.
-
-The appointment letter was formally presented to Ms. Olga by the Secretary to the President, Dr. Nandika Sanath Kumanayake today (02) at the Presidential Secretariat in Colombo.
-
-◼️
-
-[Data](articles/7e7fc319.json)
-
-[Extended Data](ext_articles/7e7fc319.ext.json)
 
 ---

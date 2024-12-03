@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 09:42:40**
+As of **2024-12-03 10:15:56**
 
 ## Newspaper Stats
 
-*Scraped **58,166** Articles*
+*Scraped **58,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 605
 islandlk | 3,497
-economynextcom | 3,528
+economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,498
+adalk | 5,499
 adaderanalk | 7,054
-tamilmirrorlk | 8,266
+tamilmirrorlk | 8,268
 virakesarilk | 9,520
 adaderanasinhalalk | 10,048
 
@@ -26,55 +26,145 @@ adaderanasinhalalk | 10,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,155 (100.0%) of 58,166 articles have been extended.
+58,165 (100.0%) of 58,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### ரயில் சேவையில் தாமதம்
+### Sri Lanka rupee opens stronger at 290.60/65 to dollar, bonds steady
+
+*2024-12-03 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-60-65-to-dollar-bonds-steady-191288/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.60/65 to the US dollar on Tuesday from 290.65/70 to the US dollar on Monday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/50 percent, up from 9.35/45 percent.
+
+A bond maturing on 15.12.2027 was quoted at 10.25/35 percent.
+
+A bond maturing on 15.03.2028 was quoted at 10.48/50 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.85/90 percent. (Colombo/Dec3/2024)
+
+◼️
+
+[Data](articles/64b38607.json)
+
+[Extended Data](ext_articles/64b38607.ext.json)
+
+---
+
+### Investigation into the leg that the dog was dragged
+
+*2024-12-03 09:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-இழுத்துச்-சென்ற-கால்-தொடர்பில்-விசாரணை/175-348154) · `ta`
+
+Chilaw police investigate incident where dog dragged small child at beach on Monday.
+
+🟩
+
+Chilaw police are investigating the foot of a small child who was dragged by a dog on Monday (2) at Chilaw beach.
+
+◼️
+
+[Data](articles/9ecf5ac8.json)
+
+[Extended Data](ext_articles/9ecf5ac8.ext.json)
+
+---
+
+### Invitation to the Commissioner of Internal
+
+*2024-12-03 09:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டு-இறைவரி-ஆணையாளருக்கு-அழைப்பாணை/175-348153) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Colombo Additional Magistrate Bandara Ilangasinghe orders Civil Religious Commissioner to court on Jan 7 due to lack of report on lawsuit against untaxed private companies.
+
+🟩
+
+Colombo Additional Magistrate Bandara Ilangasinghe has ordered the Civil Religious Commissioner to appear before the court on January 7.
+
+The order has been issued due to the lack of a report for a lawsuit filed against private companies that are not taxed.R
+
+◼️
+
+[Data](articles/ffc31adb.json)
+
+[Extended Data](ext_articles/ffc31adb.ext.json)
+
+---
+
+### Delay in the train service
 
 *2024-12-03 09:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவையில்-தாமதம்/175-348152) · `ta`
 
-இரத்மலானை மற்றும் சிலாபம் ரயில் மார்க்கத்தில் ஏற்பட்டுள்ள சமிக்ஞை கோளாறு காரணமாக கரையோர ரயில் மார்க்கத்தில் ரயில் சேவை தாமதமாகியுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+Train service delay: Coastal railway affected by signal failures at Ratmalana and Chilaw stations.
+
+🟩
+
+The Railway Department said that the train service at the coastal railway line has been delayed due to a signal failure at Ratmalana and Chilaw Railway.. Remble
 
 ◼️
 
 [Data](articles/5a14bc11.json)
 
+[Extended Data](ext_articles/5a14bc11.ext.json)
+
 ---
 
-### தேசிய பொலிஸ் ஆணைக்குழுவின் அதிரடி நடவடிக்கை
+### Action of the National Police Commission
 
 *2024-12-03 09:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பொலிஸ்-ஆணைக்குழுவின்-அதிரடி-நடவடிக்கை/175-348151) · `ta`
 
-பிரதி பொலிஸ்மா அதிபர்கள் உட்பட சிரேஷ்ட பொலிஸ் அதிகாரிகள் பலர் உடனடியாக அமுலுக்கு வரும் வகையில் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+National Police Commission transfers senior officers. Deputy Inspector Generals moved to implementation roles. Director of Criminal Investigation Department position filled by Senior Superintendent of Police Muthumala.
 
-இதன்படி, குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளர், சிரேஷ்ட பொலிஸ் அத்தியட்சகர் இ.எம்.எம்.எஸ். தெஹிதெனிய நுகேகொட பிரிவுக்கு இடமாற்றம் செய்யப்பட்டு சிரேஷ்ட பொலிஸ் அத்தியட்சகர் எச்.டபிள்யூ.ஐ.எஸ். முத்துமால குற்றப் புலனாய்வுத் திணைக்கள பணிப்பாளராக நியமிக்கப்பட்டுள்ளார். R
+🟩
+
+Several senior police officers, including Deputy Inspector Generals of Police, have been transferred to implementation immediately.
+
+Accordingly, the Director of the Criminal Investigation Department, Senior Superintendent of Police, EMMS. Senior Superintendent of Police. Muthumala has been appointed as the Director of the Criminal Investigation Department. Remble
 
 ◼️
 
 [Data](articles/2c62ea57.json)
 
+[Extended Data](ext_articles/2c62ea57.ext.json)
+
 ---
 
-### සුරාබදු ගෙවීම් පැහැර හැර ඇති සමාගම්වල නිෂ්පාදන අත්හිටුවයි
+### Products of Excise Payments have been suspended
 
 *2024-12-03 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203981) · `si`
 
-සුරාබදු ආඥා පනතට අනුව සුරාබදු ගෙවීම් තවදුරටත් පැහැර හරින සමාගම්වල නිෂ්පාදන කටයුතු අත්හිටුවීමටත් නිෂ්පාදන බලපත්‍ර ඊලඟ වර්ෂය සඳහා දීර්ඝ නොකිරීමටත් පියවර ගන්නා බව සුරාබදු දෙපාර්තමේන්තුව පවසයි.
+Here's a summary of 200 characters:
 
-එම දෙපාර්තමේන්තුව පෙන්වා දී ඇත්තේ මෙම වර්ෂයට අදාළ ව මත්පැන් නිෂ්පාදන සමාගම් 23ක් සඳහා නිෂ්පාදන බලපත්‍ර නිකුත් කර ඇති බවය.
 
-සුරාබදු නොගෙවූ සමාගම්වලට හිඟ බදු ගෙවීම සඳහා නොවැම්බර් මස 30 වන දින දක්වා කාලය ලබාදී තිබු අතර සමාගම් තුනක් හැර අනෙක් සියලු සමාගම් මත්පැන් බලපත්‍රවලට අදාළ හිඟ සුරාබදු ගෙවා ඇති බව සඳහන් වේ.
 
-ඒ අනුව වැලිසර ඩබ්ලිව්. එම්. මෙන්ඩිස් සහ සමාගම, කුරුණෑගල රෝයල් සිලෝන් ඩිස්ටලරීස් පුද්ගලික සමාගම සහ මීගොඩ මැකලම් බෘවරි සමාගම යන සමාගම් බදු මුදල් නොගෙවා ඇති බැවින් එම සමාගම්වලට එරෙහිව අධිකරණ ක්‍රියාවලියකට යොමුවී ඇති බවද සුරාබදු දෙපාර්තමේන්තුව පැවසීය.
+Excise payments suspended: Liquor licenses extended. 23 companies affected. Tax deadline Nov 30. Unpaid companies face action. Ownership checks ongoing. Liquor production halted in Northern Province.
 
-අදාළ නඩු තීන්දුවලට අනුව එම සමාගම් සම්බන්ධයෙන් ඉදිරි ක්‍රියාමාර්ග ගැනීමට ද නියමිතය.
+🟩
 
-...
+According to the Excise Ordinance, the Excise Ordinance will be suspended and the production license will be taken to extend the next year, says the Excise Department.
+
+The department has pointed out that the product license has been issued for 23 liquor companies regarding this year.
+
+Excise had been granted until November 30 was given to the payment of taxes until November 30 and all other companies have paid out excise applications for liquor licenses.
+
+Accordingly, Welisara W. M. The company said that the company is not paid by Royal Ceylon Distributor Company and Meegoda Macclum Company and Meegoda Macclum Company has been paid.
+
+Accordingly, action will be taken regarding the procedures on the verdict.
+
+The Excise Department has commenced to ensure the ownership of companies relating to Lunuwila Glow, Wayamba, Western Spiritiff, and the relevant companies.
+
+In addition, steps have been taken to suspend the liquor production in the Wagara in the Northern Province.
+
+◼️
 
 [Data](articles/3b3ff698.json)
+
+[Extended Data](ext_articles/3b3ff698.ext.json)
 
 ---
 
@@ -96,19 +186,27 @@ The new time table related to the said dates will be provided to the students at
 
 [Data](articles/cef36e71.json)
 
+[Extended Data](ext_articles/cef36e71.ext.json)
+
 ---
 
-### සිලින්ඩරයේ පාර්ලිමේන්තු කණ්ඩායම් නායකත්වය අනුරාධට
+### Parliaments in cylinder leads to Anuradha
 
 *2024-12-03 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203980) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායකයා ලෙස මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අනුරාධ ජයරත්න මහතා නම්කර තිබේ.
+Anuradha Jayaratne named leader of New Democratic Front. Decision made at party meeting chaired by Ranil Wickremesinghe.
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (02) පස්වරුවේ පැවති නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ මන්ත්‍රී කණ්ඩායම් රැස්වීමේ දී එම තීරණය ගෙන ඇති බව වාර්තා වෙයි.
+🟩
+
+Kandy District Parliamentarian Anuradha Jayaratne has been nominated as leader of the New Democratic Front.
+
+The decision was taken at a meeting of the new Democratic Front held yesterday (02) under the patronage of former President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/f99aa4ff.json)
+
+[Extended Data](ext_articles/f99aa4ff.ext.json)
 
 ---
 
@@ -125,6 +223,8 @@ Meanwhile, the train services on the Chilaw Line also remain disrupted due to a 
 ◼️
 
 [Data](articles/9e9d5ac7.json)
+
+[Extended Data](ext_articles/9e9d5ac7.ext.json)
 
 ---
 
@@ -172,21 +272,27 @@ The debate on the Resolution on the Vote on Account with regard to the first fou
 
 ---
 
-### දුම්රිය ප්‍රමාදයක් ගැන දැනුම්දීමක්
+### Notice of a train delay
 
 *2024-12-03 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203979) · `si`
 
-මුහුදුබඩ සහ හලාවත දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+Train delays: Coastal Chilaw line affected. Aluthgama-Aluthgama train stopped at Ratmalana. Chilaw line disrupted due to Negombo signal error. Trains may be delayed.
 
-අලුත්ගම සිට පැමිණි දුම්රියක් අද (03) පෙරවරුවේ රත්මලාන දුම්රිය ස්ථානය ආසන්නයේ දී කාර්මික දෝෂයකට ලක්ව ඇති බැවින් මුහුදු බඩ දුම්රිය මාර්ගයේ දුම්රිය ධානය ප්‍රමාද වී ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-එමෙන්ම මීගමුව දුම්රිය ස්ථානයේ ඇතිවූ සංඥා දෝෂයක් හේතුවෙන් හලාවත මාර්ගයේ දුම්රිය ධාවනයට ද බාධා එල්ල වී තිබේ.
+The train on the coastal and Chilaw railway line has been disrupted.
 
-මේ හේතුවෙන් හලාවත දුම්රිය මාර්ගයේ ද දුම්රිය ධාවනය ප්‍රමාද විය හැකි බව එම දෙපාර්තමේන්තුව පැවසීය.
+A train from Aluthgama has been subjected to the Ratmalana Railway Station this morning, the Railway Department said.
+
+The train on the Chilaw road has also been interrupted due to a signal error in Negombo.
+
+As a result of this, the trains of the Chilaw railway can be delayed.
 
 ◼️
 
 [Data](articles/23e6f5ec.json)
+
+[Extended Data](ext_articles/23e6f5ec.ext.json)
 
 ---
 
@@ -405,6 +511,26 @@ Senior Superintendent of Police (CID) EMMS Developsed has been transferred as th
 [Data](articles/956e6b86.json)
 
 [Extended Data](ext_articles/956e6b86.ext.json)
+
+---
+
+### Sri Lanka’s China-backed Hambantota Port to start feeder service with Colombo
+
+*2024-12-03 07:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambantota-port-to-start-feeder-service-with-colombo-191233/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hambantota Port is boosting its container handling volume to one million twenty-foot equivalent unit (TEUs) a year with new equipment and a feeder service with Colombo is expected shortly, a statement said.
+
+The port has spent 41 million dollars on 4 new quay cranes and 13 rubber tyred gantry cranes (RTGs), adding to the existing 2 quay cranes and 3 RTGs.
+
+“Our investment in these new cranes will considerably enhance HIP’s container handling capabilities, positioning us as a fully-fledged multipurpose port for Sri Lanka,” Wilson Qu, Chief Executive of Hambantota International Port Group said.
+
+“This capacity building is crucial for our transshipment operations and will attract potential investors looking to establish manufacturing plants in our industrial zone.”
+
+“In addition to that, our marketing team is committed to promoting these developments globally to engage the right partners for our initiatives.”
+
+...
+
+[Data](articles/48e15ecb.json)
 
 ---
 
@@ -2259,101 +2385,5 @@ The report of the committee headed by former Supreme Court Justice K.T. Chitrasi
 [Data](articles/305db76b.json)
 
 [Extended Data](ext_articles/305db76b.ext.json)
-
----
-
-### Sri Lanka rupee appreciates against major foreign currencies for 2nd year
-
-*2024-12-02 16:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-appreciates-against-major-foreign-currencies-for-2nd-year-191193/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee currency has seen a sharp appreciation this year and is likely to end up with a significant rise for the second straight year, the central bank data showed, amid curtailed imports and in the absence of debt repayments after declaring bankruptcy.
-
-The rupee has appreciated against US dollar (11.3%), Euro (16.7%), Pound Sterling (11,6%), Chinese Yuan (Renminbi) (13.6%), Japanese Yen (18.4%), Australian Dollar (17.1%), and Indian rupee (13.2%) for this year up to November 29, the central bank data showed.
-
-The rupee saw appreciation against the same currencies in 2023 as well with a range between 6%-19.5%, the data showed.
-
-The Central Bank said the real effective exchange rate against the basket of 24 currencies (REER 24) also appreciated “in line with the nominal appreciation of the Sri Lanka rupee during the year up to October 2024”.
-
-...
-
-[Data](articles/94910f8f.json)
-
-[Extended Data](ext_articles/94910f8f.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 290.65/70 to dollar, bonds steady
-
-*2024-12-02 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-290-65-70-to-dollar-bonds-steady-191153/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 290.65/70 to the US dollar on Monday from 290.65/75 to the US dollar on Friday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 9.35/45 percent, down from 9.45/60 percent.
-
-A bond maturing on 15.10.2027 closed stable at 10.20/30 percent.
-
-A bond maturing on 15.02.2028 closed down at 10.40/45 percent, from 10.30/45 percent.
-
-A bond maturing on 15.09.2029 closed at 10.85/90 percent, up from 10.70/85 percent. (Colombo/Dec2/2024)
-
-◼️
-
-[Data](articles/7467d1eb.json)
-
-[Extended Data](ext_articles/7467d1eb.ext.json)
-
----
-
-### The current government should soon repeal the Terrorism Act to commemorate the historical experience of the blood and iron- the leading of the people's struggle
-
-*2024-12-02 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200245) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Current government urged to repeal Terrorism Act. Four arrests made under PTA for social media posts. Law used against Tamil Muslims & political movements. Opponents argue it violates personal freedoms & promotes racism.
-
-🟩
-
-The Executive Committee of the People's Movement has appealed to the current government to abolish the terrorism law to use the power of Parliament to recall the historical experience of the blood and iron.
-
-Police have arrested four people on November 30 and December 01, under the PTA No. 48, 1979, the repressive law, which is to be repealed on the basis of reports and comments published in social media and newspapers.
-
-But the persons have been charged under public law and one has been released on bail. This is the second time that the current government is using the PTA in a short time using the Terrorism Act. Earlier, three persons were arrested in connection with the Augkam Kutta incident and issued a preventive order under the Prevention of Terrorism Act.
-
-The Police Media Division presented information on the arrest of four in the media and media briefing.
-
-...
-
-[Data](articles/8a9fada6.json)
-
-[Extended Data](ext_articles/8a9fada6.ext.json)
-
----
-
-### Chairisiri Committee appointed to look into the privileges of MPs and former Presidents
-
-*2024-12-02 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203962) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Charitiri Committee reviews MP/President perks. Report to Prez Anura Kumara Dissanayake. PM & Pres Sec attend. Former SC Judge leads review.
-
-🟩
-
-Re-considered Ken to reconsider the offers and privileges provided by MPs, Ministers and former Presidents. T. The report of the Phariseiri Committee has been handed over to President Anura Kumara Dissanayake.
-
-Prime Minister Dr. Harathin Amarasuriya and Presidential Secretary Dr. Nandika Sanath Kanayake participated in the event.
-
-Former Supreme Court Judge KT to reconsider the offers and privileges given to MPs, Ministers and former Presidents. Charitiri appointed a committee recently.
-
-◼️
-
-[Data](articles/cb825ae2.json)
-
-[Extended Data](ext_articles/cb825ae2.ext.json)
 
 ---

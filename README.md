@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 13:13:19**
+As of **2024-12-03 12:42:27**
 
 ## Newspaper Stats
 
-*Scraped **58,213** Articles*
+*Scraped **58,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,497
 economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,505
+adalk | 5,504
 adaderanalk | 7,061
-tamilmirrorlk | 8,282
+tamilmirrorlk | 8,280
 virakesarilk | 9,527
 adaderanasinhalalk | 10,056
 
@@ -26,59 +26,11 @@ adaderanasinhalalk | 10,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,206 (100.0%) of 58,213 articles have been extended.
+58,198 (100.0%) of 58,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
-
-### Wife killed in accident;The husband hurt
-
-*2024-12-03 12:43:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மனைவி-பலி-கணவன்-காயம்/175-348176) · `ta`
-
-Woman dies in motorcycle accident; Husband injured
-
-🟩
-
-A woman has died in a vehicle accident in Pallama, Adammana area on Monday (2) and has been admitted to hospital with injuries.
-
-A married woman, A. Indra (age 30) from Madambai, Madambai, has died and her husband, 32, has been admitted to the Chilaw Hospital for treatment.
-
-It is reported that the couple were traveling on a motorcycle on a motorcycle in Uriyawa, Uriyawa, Anamaduwa.
-
-The accident occurred when the husband and wife were traveling in a motorcycle and a cab which was traveling from Chilaw to Anamaduwa area, police said.
-
-◼️
-
-[Data](articles/60c79b5f.json)
-
-[Extended Data](ext_articles/60c79b5f.ext.json)
-
----
-
-### Gas price revision announcement tomorrow
-
-*2024-12-03 12:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலை-திருத்தம்-நாளை-அறிவிப்பு/175-348175) · `ta`
-
-Litro announces gas price revision for December on Wednesday. Price adjustment based on global market costs. Possible price increase due to rising global prices, but discussions ongoing to maintain current rates for public relief.
-
-🟩
-
-According to the monthly gas prices amendment, the December Price Correction will be announced on Wednesday (04), Litro said.
-
-It is reported that the price of gas will be corrected this year, comparing the cost of gas in the world market.
-
-Currently, the price of gas in the world market has increased and the price of gas in this country should be increased.
-
-However, with the aim of providing relief to the people, there are also discussions to maintain the price of gas.
-
-◼️
-
-[Data](articles/e6b00322.json)
-
-[Extended Data](ext_articles/e6b00322.ext.json)
-
----
 
 ### 88 arrested for staying at school
 
@@ -414,51 +366,35 @@ He noted that this government has taken over the situation where a deep complex 
 
 ---
 
-### A new Police Media Spokesman
+### නව පොලිස් මාධ්‍ය ප්‍රකාශකවරයෙක්
 
 *2024-12-03 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203987) · `si`
 
-New Police Media Director: Senior Superintendent Manatunga appointed. Former spokesperson DIG Nimael Talduuwa remains as DIG of Criminal Investigation Division.
+ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.බී. මනතුංග මහතා පොලිස් මාධ්‍ය අධ්‍යක්ෂ සහ පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස පත් කර තිබේ.
 
-🟩
-
-Senior Superintendent of Police. Mr. Manatunga has been appointed Police Media Director and Police Media Spokesman.
-
-Meanwhile, former Police Media Spokesperson, DIG Nimael Talduuwa will continue to be the DIG of the Criminal Investigation Division.
+මේ අතර හිටපු පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා අපරාධ විමර්ශන අංශයේ නියෝජ්‍ය පොලිස්පතිවරයා ලෙස තවදුරටත් කටයුතු කරනු ඇති බවත් පොලිස් මූලස්ථානය පවසයි.
 
 ◼️
 
 [Data](articles/cad67e31.json)
 
-[Extended Data](ext_articles/cad67e31.ext.json)
-
 ---
 
-### Prime Minister Harinini is a historic transformation
+### ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස කටයුතු කරනවා - අගමැති හරිනි
 
 *2024-12-03 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203986) · `si`
 
-Here's a summary of 200 characters:
+ඓතිහාසික ජන වරමක් ලැබූ ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස වර්ථමාන ආණ්ඩුව කටයුතු කරන බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
 
+අද (03) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඇය පැවසුවේ මෙරට ජනතාව ඔවුන් සතුව ඇති පරමාධිපත්‍ය බලය තුළින් මෙතෙක් කලක් ආණ්ඩු කළ සාම්ප්‍රදායික දේශපාලනය ප්‍රතික්ෂේප කරමින් නව දේශපාලන සංස්කෘතියක් වෙනුවෙන් පෙළ ගැසුණු බවය.
 
+එමෙන්ම ජනතාව ලබා දී ඇති මෙම පණිවිඩය මැනවින් තේරුම් ගනිමින් කටයුතු කළ යුතු බවත් ඇය අද පාර්ලිමේන්තුවේදී පැවසුවාය.
 
-PM Harinini: New political culture rejects corruption. Voters chose intelligence over traditional politics. Government represents people's will, reflecting national change.
-
-🟩
-
-The present government is acting as a government representing a historical translation.
-
-Speaking in Parliament today (03), she said that the people of this country racked a new political culture, rejecting the traditional politics that has already gone through the sovereignty of the country.
-
-She also said in parliament today that the people who have given the people should be well understood.
-
-"What did the voter in our country showed. It is not politics, but they deny that political culture that exercise corrupt power. Instead, they have proven that the intelligence of our country have matters politically, and that the political movement of the people who represent a new political culture.
+"අපේ රටේ ඡන්දදායකයා මොකක්ද පෙන්නුම් කළේ. දේශපාලනය නෙමෙයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ ඒ දූෂිත බලය අවභාවිතා කරන ඒ දේශපාලන සංස්කෘතියයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ. ඒ වෙනුවට අලුත් දේශපාලන සංස්කෘතියක් නියෝජනය කරන ජනතාවාදී සහභාගීත්ව, ප්‍රජාතන්ත්‍රවාදය තියෙන දේශපාලන ව්‍යාපාරයක් ගොඩනගා ගන්නත්, ඒ වෙනුවෙන් ක්‍රියාත්මක වෙන්නත්, දේශපාලනිකව ඒකට මැදිහත් වෙලා ඒකට විසඳුම් සොයා ගන්නත් අපේ රටේ ජනතාව තුළ ඒ බුද්ධිය, සහ අපේ රටේ ඒ දේශපාලන පරිනතභාවට තියෙන බව ඔවුන් ඔප්පු කරලා තියෙනවා.
 
 ...
 
 [Data](articles/df6f4e02.json)
-
-[Extended Data](ext_articles/df6f4e02.ext.json)
 
 ---
 
@@ -498,33 +434,25 @@ Meanwhile, former Spokesman DIG Nihal Thalduwa will continue in his capacity as 
 
 [Data](articles/3d037563.json)
 
-[Extended Data](ext_articles/3d037563.ext.json)
-
 ---
 
-### 54 senior police officers, including Deputy Police Principals
+### பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம்
 
 *2024-12-03 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200279) · `ta`
 
-Senior police transfers: 54 officers moved, 5 DIGs to National Police Commission, 7 officers to assistant roles. Key appointments: HW IS Mudumala as CID Director, EMMS Tehiteniya transferred.
+பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
 
-🟩
+தேசிய பொலிஸ் ஆணைக்குழுவினால் உடனடியாக அமுலுக்கு வரும் வகையில் 5 பிரதி பொலிஸ் மா அதிபர்கள் மற்றும் 35 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
 
-54 senior police officers, including Deputy Police Principals, have been transferred.
+இதேவேளை, 7 பொலிஸ் அதிகாரிகள் மற்றும் 7 உதவி பொலிஸ் அதிகாரிகளும் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
 
-Five Deputy Inspector General of Police and 35 senior police officers have been transferred to the National Police Commission immediately, the police headquarters said.
+குற்றப் புலனாய்வுத் திணைக்களத்தின் பிரதிப் பணிப்பாளராக கடமையாற்றிய மகளிர் பிரிவின் சிரேஷ்ட பொலிஸ் அதிகாரி எச்.டபிள்யூ.ஐ.எஸ்.முதுமால குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக நியமிக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
 
-Meanwhile, 7 police officers and 7 assistant police officers have been transferred.
-
-The Senior Police Officer of the Women's Division, HW IS Mudumala, who served as the Deputy Director of the Criminal Investigation Department, has been appointed as the Director of the Criminal Investigation Department, police headquarters said.
-
-In addition, Senior Police Officer EMMS Tehiteniya, who served as the Director of the Criminal Investigation Department as the Officer in charge of the Nugegoda Police Division, has been transferred.
+மேலும், நுகேகொடை பொலிஸ் பிரிவுக்கு பொறுப்பான அதிகாரியாக குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளராக கடமையாற்றிய சிரேஷ்ட பொலிஸ் அதிகாரி ஈ.எம்.எம்.எஸ் தெஹிதெனிய இடமாற்றம் செய்யப்பட்டுள்ளார்.
 
 ◼️
 
 [Data](articles/8453f5d2.json)
-
-[Extended Data](ext_articles/8453f5d2.ext.json)
 
 ---
 
@@ -546,8 +474,6 @@ No LP gas price revision took place last month, and the most recent price revisi
 
 [Data](articles/eb5f308f.json)
 
-[Extended Data](ext_articles/eb5f308f.ext.json)
-
 ---
 
 ### Iraqi fighters head to Syria to battle rebels but Lebanon’s Hezbollah stays out, sources say
@@ -565,8 +491,6 @@ The rebel storm of Aleppo is the biggest success of anti-Assad fighters for year
 ...
 
 [Data](articles/055375f7.json)
-
-[Extended Data](ext_articles/055375f7.ext.json)
 
 ---
 
@@ -847,24 +771,6 @@ In equities, the All Share Price Index was up 0.19 percent or 24.63 points, at 1
 [Data](articles/64b38607.json)
 
 [Extended Data](ext_articles/64b38607.ext.json)
-
----
-
-### ඉන්දුනිසියානු ජාතිකයන් 8ක් අල්ලයි - තවත් 191ක් ගැන තොරතුරු හොයයි
-
-*2024-12-03 09:43:41* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනිසියානු-ජාතිකයන්-8ක්-අල්ලයි---තවත්-191ක්-ගැන-තොරතුරු-හොයයි/11-413419) · `si`
-
-ගුවන් ගමන් බලපත්‍රයක් සහ වීසා නොමැතිව නුවරඑලිය මුස්ලිම් පල්ලියක රැදි සිටි ඉන්දුනිසියානු ජාතිකයන් 08 දෙනෙකු (02) දින පස්වරුවේ සැකපිට අත්අඩංගුවට ගත් බව නුවරඑලිය පොලිසියේ නිලධාරියෙකු පැවසිය.
-
-නුවරඑලිය පොලිස් ස්ථානය වෙත ලද තොරතුරක් මත එම පල්ලිය වෙත ගොස් ඉන්දුනිසියානු ජාතිකයන් 08 දෙනා අත්අඩංගුවට ගෙන පරික්ෂා කර බැලිමේදි ඔවුන් සංචාරක වීසා මත මිට මාස දෙකකට ප්‍රථම දිවයිනට පැමිණ ඇති බවත්, සැකකරුවන් අත්අඩංගුවට ගන්නා අවස්තාවේ ඔවුන් සන්තකයේ ගුවන් ගමන් බලපත්‍රය හෝ වීසා නොතිබුණු බවත්, වීසා කල් ඉකුත් වි ඇති නිසා වීසා අලුත් කිරිමට සියළු ලියකියවිලි මෙරට තම තනාපති කාර්යාලය වෙත භාරදුන් බව සැකකරුවන් පවසා සිටි බවයි පොලිස් නිලධාරින් කියා සිටියේ.
-
-අත්අඩංගුවට ගත් සැකකරුවන් 08 දෙනා නුවරඑලිය ප්‍රදේශයට පැමිණිමට ප්‍රථම හැටන් සහ නාවලපිටිය ප්‍රදේශවල සංචාරය කර ඇති බවට තොරතුරු අනාවරණය වි ඇත.
-
-අවු 25-65 අතර වයස් කාණ්ඩ වල පසුවන සැකකරුවන් සමග තවත් 191 දෙනෙකු මෙරට පැමිණ ඔවුන් දිවයිනේ විවිධ ප්‍රදේශවල සංචාරය සදහා යොමු වි ඇති බවට සැකකරුවන් පවසා ඇත.
-
-...
-
-[Data](articles/b9e1afb4.json)
 
 ---
 
@@ -2329,5 +2235,85 @@ Uganda's Stella Sesang (2:18:26) finished second and Ethiopian Drye Mespin (2:18
 [Data](articles/1c014f66.json)
 
 [Extended Data](ext_articles/1c014f66.ext.json)
+
+---
+
+### New Constitution: What are the steps to be taken next?Gajendrakumar - A review at the meeting between Sridharan
+
+*2024-12-02 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200271) · `ta`
+
+Steps after new constitution: Federal solution implementation, dialogue between TNA leaders, public program approach.
+
+🟩
+
+During the meeting between MPs Gajendrakumar Ponnambalam and Sivagnanam Sridharan on the need to implement a federal -based solution in a way that can be fulfilled in the new constitution and the next step.
+
+In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
+
+According to Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
+
+Meanwhile, Sivagnanam Sridharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), and the parliamentarian of the Democratic Tamil National Alliance (TNA), Selvam Adakkalanathan, stated that he was ready to negotiate beyond the proposal.
+
+...
+
+[Data](articles/a3475a0b.json)
+
+[Extended Data](ext_articles/a3475a0b.ext.json)
+
+---
+
+### Will you now fulfill the previous obligations in the Sri Lankan affair?- Uma Kumaran MP questioned to British Foreign Secretary David Lemi
+
+*2024-12-02 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200270) · `ta`
+
+Sri Lanka ICC obligations: Foreign Sec David Lemi responds to UK MP Uma Kumaran's questions about accountability for past human rights violations.
+
+🟩
+
+British Foreign Secretary David Lemi has questioned British Foreign Secretary David Lemi whether Sri Lanka will now fulfill its previous obligations on the issue of the International Criminal Court and to ensure accountability on past violations.
+
+British MP Uma Kumaran, a native of Sri Lanka at the Foreign Affairs Committee meeting held in the UK parliament last week (27), has questioned Foreign Secretary David Lemi about the above issue.
+
+Uma Kumaran pointed out that "today (27) is an important day for Tamils ​​around the world," you urged the British government to consider the recommendation of the United Nations Human Rights High Commission to give the Tamils ​​to the Tamils ​​in 2023 and to present the criminals involved in the most casual human rights violations.
+
+...
+
+[Data](articles/b8353c32.json)
+
+[Extended Data](ext_articles/b8353c32.ext.json)
+
+---
+
+### It is our responsibility to oppose the hunt - Dilith
+
+*2024-12-02 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203969) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+LTTE suspects arrested over Mahaviru Day. Some bailed, others remanded. Opposition leader Dilith Jayaweera criticizes government control of social media, saying it hampers free speech and national unity.
+
+🟩
+
+The LTTE.. The Colombo Chief Magistrate's Court was released on bail due to the bail of the Mahawaru Day celebrations.
+
+The LTTE.. Four suspects were arrested on several occasions on charges of suffering the Mahaviru Day celebrations.
+
+Among the other suspects were presented to the Jaffna Magistrate's Court yesterday (01), who was remanded until December 4.
+
+The rest of the suspects is Kelum Jayasehana and Janith Chathuranga.
+
+Dilita Jayaweera and several others arrived at the Welikada Prison premises to look into the health of Mr. Kelum Jayasumana.
+
+Headdica MP Dilith Jayaweera said that the government is unnecessarily administered.
+
+He said that it was a profound effect on the freedom of the people's opinion.
+
+...
+
+[Data](articles/65942d85.json)
+
+[Extended Data](ext_articles/65942d85.ext.json)
 
 ---

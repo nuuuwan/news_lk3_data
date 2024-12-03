@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 12:42:27**
+As of **2024-12-03 13:43:21**
 
 ## Newspaper Stats
 
-*Scraped **58,210** Articles*
+*Scraped **58,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,497
 economynextcom | 3,530
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,504
-adaderanalk | 7,061
-tamilmirrorlk | 8,280
+adalk | 5,506
+adaderanalk | 7,066
+tamilmirrorlk | 8,282
 virakesarilk | 9,527
 adaderanasinhalalk | 10,056
 
@@ -26,11 +26,149 @@ adaderanasinhalalk | 10,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,198 (100.0%) of 58,210 articles have been extended.
+58,213 (100.0%) of 58,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
+
+### Tomorrow’s Parliamentary session extended until 9.30 p.m.
+
+*2024-12-03 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103961/tomorrows-parliamentary-session-extended-until-930-pm) · `en`
+
+It has been decided during the party leaders’ meeting to conduct tomorrow’s (Dec. 04) parliamentary session until 09.30 p.m.
+
+Accordingly, the adjournment debate regarding the disaster situation caused by the recent adverse weather conditions will be held from 05.30 p.m. to 09.30 p.m. on Wednesday, the Parliamentary Communications Department said.
+
+◼️
+
+[Data](articles/feb595f6.json)
+
+---
+
+### Govt to provide allowance for children of ‘Aswesuma’ beneficiaries
+
+*2024-12-03 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103960/govt-to-provide-allowance-for-children-of-aswesuma-beneficiaries) · `en`
+
+The government has decided to provide an allowance of Rs. 6,000 to assist parents who are unable to afford school stationery and equipment for their children.
+
+Accordingly, the relevant allowance will be provided for the school children of the “Aswesuma” beneficiaries, whose parents are disabled, who live in orphanages and are helpless under special circumstances.
+
+The Chief Government Whip, Minister Nalinda Jayatissa stated that this decision will come into effect from the upcoming school term.
+
+Furthermore, he expressed that the Cabinet of Ministers approved the proposal pertaining to the matter, presented by Prime Minister Harini Amarasuriya yesterday (02).
+
+◼️
+
+[Data](articles/917a50cc.json)
+
+---
+
+### Sajith criticizes govt. of using PTA to oppress social media
+
+*2024-12-03 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103959/sajith-criticizes-govt-of-using-pta-to-oppress-social-media) · `en`
+
+Opposition Leader Sajith Premadasa criticized the government for allegedly using the Prevention of Terrorism Act (PTA) to suppress social media freedom, despite promising to abolish the controversial legislation before coming to power.
+
+Speaking in Parliament today (03), Premadasa pointed out that social media played a significant role in securing the current government’s large electoral mandate. He added that however, after coming to power, the government is using the very Act it had promised to repeal to suppress social media activists.
+
+“Is this fair to engage in a media crackdown using the Prevention of Terrorism Act? You received immense support from the social media sector received immense. Yet now, social media activists are being targeted under the same Act you vowed to repeal,” Premadasa expressed.
+
+“We suggest if you do what is said, stop this repression. You have to walk the talk”, the opposition leader stressed.
+
+◼️
+
+[Data](articles/a2fef890.json)
+
+---
+
+### Person sentenced to life in prison over drug possession
+
+*2024-12-03 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103958/person-sentenced-to-life-in-prison-over-drug-possession) · `en`
+
+The Colombo High Court sentenced to life in prison a person who was found guilty of being in possession of 6.5 grams of heroin intended for distribution.
+
+This verdict was delivered by Colombo High Court judge Adithya Patabendige today (03).
+
+The accused had been arrested by police during a raid carried out in the Sri Wickremapura area of Mattakkuliya on 21 June 2021 along with 6.5 grams of heroin.
+
+Later, the Attorney General filed charges against the accused for possession and trafficking of heroin.
+
+The judge, who declared the verdict after a lengthy trial, stated that the charges leveled by the prosecution against the accused have been proved beyond reasonable doubt.
+
+Accordingly, the judge ordered that the accused be sentenced to life imprisonment.
+
+◼️
+
+[Data](articles/90201360.json)
+
+---
+
+### Govt. pledges relief to direct and indirect weather-affected communities
+
+*2024-12-03 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103957/govt-pledges-relief-to-direct-and-indirect-weather-affected-communities) · `en`
+
+Deputy Minister of Defence Aruna Jayasekara stated that the government is committed to providing assistance to individuals and families who have been directly and indirectly impacted by recent adverse weather conditions.
+
+Speaking during today’s (03) parliamentary session, the Deputy Minister he confirmed that the President has instructed relevant authorities to take all necessary measures to rescue and support affected communities.
+
+Jayasekara further revealed that 139,439 families and 469,872 individuals across 24 districts have been displaced, with 18 fatalities and 20 injuries recorded.
+
+Additionally, 12,348 families—amounting to 38,616 individuals—were initially relocated to 247 relief centers. Of these, 79 designated centers continue to shelter 2,494 families, comprising 7,946 individuals, the Deputy Minister said.
+
+...
+
+[Data](articles/b1015d0e.json)
+
+---
+
+### Wife killed in accident;The husband hurt
+
+*2024-12-03 12:43:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மனைவி-பலி-கணவன்-காயம்/175-348176) · `ta`
+
+Woman dies in motorcycle accident; Husband injured
+
+🟩
+
+A woman has died in a vehicle accident in Pallama, Adammana area on Monday (2) and has been admitted to hospital with injuries.
+
+A married woman, A. Indra (age 30) from Madambai, Madambai, has died and her husband, 32, has been admitted to the Chilaw Hospital for treatment.
+
+It is reported that the couple were traveling on a motorcycle on a motorcycle in Uriyawa, Uriyawa, Anamaduwa.
+
+The accident occurred when the husband and wife were traveling in a motorcycle and a cab which was traveling from Chilaw to Anamaduwa area, police said.
+
+◼️
+
+[Data](articles/60c79b5f.json)
+
+[Extended Data](ext_articles/60c79b5f.ext.json)
+
+---
+
+### Gas price revision announcement tomorrow
+
+*2024-12-03 12:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலை-திருத்தம்-நாளை-அறிவிப்பு/175-348175) · `ta`
+
+Litro announces gas price revision for December on Wednesday. Price adjustment based on global market costs. Possible price increase due to rising global prices, but discussions ongoing to maintain current rates for public relief.
+
+🟩
+
+According to the monthly gas prices amendment, the December Price Correction will be announced on Wednesday (04), Litro said.
+
+It is reported that the price of gas will be corrected this year, comparing the cost of gas in the world market.
+
+Currently, the price of gas in the world market has increased and the price of gas in this country should be increased.
+
+However, with the aim of providing relief to the people, there are also discussions to maintain the price of gas.
+
+◼️
+
+[Data](articles/e6b00322.json)
+
+[Extended Data](ext_articles/e6b00322.ext.json)
+
+---
 
 ### 88 arrested for staying at school
 
@@ -366,35 +504,51 @@ He noted that this government has taken over the situation where a deep complex 
 
 ---
 
-### නව පොලිස් මාධ්‍ය ප්‍රකාශකවරයෙක්
+### A new Police Media Spokesman
 
 *2024-12-03 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203987) · `si`
 
-ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.බී. මනතුංග මහතා පොලිස් මාධ්‍ය අධ්‍යක්ෂ සහ පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස පත් කර තිබේ.
+New Police Media Director: Senior Superintendent Manatunga appointed. Former spokesperson DIG Nimael Talduuwa remains as DIG of Criminal Investigation Division.
 
-මේ අතර හිටපු පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා අපරාධ විමර්ශන අංශයේ නියෝජ්‍ය පොලිස්පතිවරයා ලෙස තවදුරටත් කටයුතු කරනු ඇති බවත් පොලිස් මූලස්ථානය පවසයි.
+🟩
+
+Senior Superintendent of Police. Mr. Manatunga has been appointed Police Media Director and Police Media Spokesman.
+
+Meanwhile, former Police Media Spokesperson, DIG Nimael Talduuwa will continue to be the DIG of the Criminal Investigation Division.
 
 ◼️
 
 [Data](articles/cad67e31.json)
 
+[Extended Data](ext_articles/cad67e31.ext.json)
+
 ---
 
-### ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස කටයුතු කරනවා - අගමැති හරිනි
+### Prime Minister Harinini is a historic transformation
 
 *2024-12-03 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203986) · `si`
 
-ඓතිහාසික ජන වරමක් ලැබූ ඓතිහාසික පරිවර්ථනය නියෝජනය කරන ආණ්ඩුවක් ලෙස වර්ථමාන ආණ්ඩුව කටයුතු කරන බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+Here's a summary of 200 characters:
 
-අද (03) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඇය පැවසුවේ මෙරට ජනතාව ඔවුන් සතුව ඇති පරමාධිපත්‍ය බලය තුළින් මෙතෙක් කලක් ආණ්ඩු කළ සාම්ප්‍රදායික දේශපාලනය ප්‍රතික්ෂේප කරමින් නව දේශපාලන සංස්කෘතියක් වෙනුවෙන් පෙළ ගැසුණු බවය.
 
-එමෙන්ම ජනතාව ලබා දී ඇති මෙම පණිවිඩය මැනවින් තේරුම් ගනිමින් කටයුතු කළ යුතු බවත් ඇය අද පාර්ලිමේන්තුවේදී පැවසුවාය.
 
-"අපේ රටේ ඡන්දදායකයා මොකක්ද පෙන්නුම් කළේ. දේශපාලනය නෙමෙයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ ඒ දූෂිත බලය අවභාවිතා කරන ඒ දේශපාලන සංස්කෘතියයි ඔවුන් ප්‍රතික්ෂේප කරන්නේ. ඒ වෙනුවට අලුත් දේශපාලන සංස්කෘතියක් නියෝජනය කරන ජනතාවාදී සහභාගීත්ව, ප්‍රජාතන්ත්‍රවාදය තියෙන දේශපාලන ව්‍යාපාරයක් ගොඩනගා ගන්නත්, ඒ වෙනුවෙන් ක්‍රියාත්මක වෙන්නත්, දේශපාලනිකව ඒකට මැදිහත් වෙලා ඒකට විසඳුම් සොයා ගන්නත් අපේ රටේ ජනතාව තුළ ඒ බුද්ධිය, සහ අපේ රටේ ඒ දේශපාලන පරිනතභාවට තියෙන බව ඔවුන් ඔප්පු කරලා තියෙනවා.
+PM Harinini: New political culture rejects corruption. Voters chose intelligence over traditional politics. Government represents people's will, reflecting national change.
+
+🟩
+
+The present government is acting as a government representing a historical translation.
+
+Speaking in Parliament today (03), she said that the people of this country racked a new political culture, rejecting the traditional politics that has already gone through the sovereignty of the country.
+
+She also said in parliament today that the people who have given the people should be well understood.
+
+"What did the voter in our country showed. It is not politics, but they deny that political culture that exercise corrupt power. Instead, they have proven that the intelligence of our country have matters politically, and that the political movement of the people who represent a new political culture.
 
 ...
 
 [Data](articles/df6f4e02.json)
+
+[Extended Data](ext_articles/df6f4e02.ext.json)
 
 ---
 
@@ -434,25 +588,33 @@ Meanwhile, former Spokesman DIG Nihal Thalduwa will continue in his capacity as 
 
 [Data](articles/3d037563.json)
 
+[Extended Data](ext_articles/3d037563.ext.json)
+
 ---
 
-### பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம்
+### 54 senior police officers, including Deputy Police Principals
 
 *2024-12-03 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200279) · `ta`
 
-பிரதி பொலிஸ்மா அதிபர்கள் உட்பட 54 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+Senior police transfers: 54 officers moved, 5 DIGs to National Police Commission, 7 officers to assistant roles. Key appointments: HW IS Mudumala as CID Director, EMMS Tehiteniya transferred.
 
-தேசிய பொலிஸ் ஆணைக்குழுவினால் உடனடியாக அமுலுக்கு வரும் வகையில் 5 பிரதி பொலிஸ் மா அதிபர்கள் மற்றும் 35 சிரேஷ்ட பொலிஸ் அதிகாரிகள் இடமாற்றம் செய்யப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+🟩
 
-இதேவேளை, 7 பொலிஸ் அதிகாரிகள் மற்றும் 7 உதவி பொலிஸ் அதிகாரிகளும் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+54 senior police officers, including Deputy Police Principals, have been transferred.
 
-குற்றப் புலனாய்வுத் திணைக்களத்தின் பிரதிப் பணிப்பாளராக கடமையாற்றிய மகளிர் பிரிவின் சிரேஷ்ட பொலிஸ் அதிகாரி எச்.டபிள்யூ.ஐ.எஸ்.முதுமால குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக நியமிக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+Five Deputy Inspector General of Police and 35 senior police officers have been transferred to the National Police Commission immediately, the police headquarters said.
 
-மேலும், நுகேகொடை பொலிஸ் பிரிவுக்கு பொறுப்பான அதிகாரியாக குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளராக கடமையாற்றிய சிரேஷ்ட பொலிஸ் அதிகாரி ஈ.எம்.எம்.எஸ் தெஹிதெனிய இடமாற்றம் செய்யப்பட்டுள்ளார்.
+Meanwhile, 7 police officers and 7 assistant police officers have been transferred.
+
+The Senior Police Officer of the Women's Division, HW IS Mudumala, who served as the Deputy Director of the Criminal Investigation Department, has been appointed as the Director of the Criminal Investigation Department, police headquarters said.
+
+In addition, Senior Police Officer EMMS Tehiteniya, who served as the Director of the Criminal Investigation Department as the Officer in charge of the Nugegoda Police Division, has been transferred.
 
 ◼️
 
 [Data](articles/8453f5d2.json)
+
+[Extended Data](ext_articles/8453f5d2.ext.json)
 
 ---
 
@@ -474,6 +636,8 @@ No LP gas price revision took place last month, and the most recent price revisi
 
 [Data](articles/eb5f308f.json)
 
+[Extended Data](ext_articles/eb5f308f.ext.json)
+
 ---
 
 ### Iraqi fighters head to Syria to battle rebels but Lebanon’s Hezbollah stays out, sources say
@@ -491,6 +655,8 @@ The rebel storm of Aleppo is the biggest success of anti-Assad fighters for year
 ...
 
 [Data](articles/055375f7.json)
+
+[Extended Data](ext_articles/055375f7.ext.json)
 
 ---
 
@@ -598,25 +764,31 @@ Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
 
 ---
 
-### அரிசியின் மொத்த  விலை அதிகரிப்பு
+### Increase of the total price of rice
 
 *2024-12-03 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியின்-மொத்த-விலை-அதிகரிப்பு/150-348158) · `ta`
 
-நாடு, சம்பா மற்றும் கீரி சம்பா அரிசியின் மொத்த விலையை அதிகரித்துள்ளதாக அரிசி ஆலை உரிமையாளர்கள் நாடளாவிய ரீதியில் உள்ள அரிசி மொத்த வியாபாரிகளுக்கு அறிவித்துள்ளனர்.
+Rice price hike: Mill owners raise rates, wholesalers pass on costs. Consumer body sets controlled prices but traders struggle to maintain them due to higher procurement costs.
 
-அதன்படி, ஒரு கிலோ கிராம் நாட்டு அரிசியின் மொத்த விலை 255 ரூபாயாகவும், சம்பா அரிசி 260 ரூபாயாகவும், கீரி சம்பா 275 ரூபாயாகவும் அதிகரிக்கப்பட்டுள்ளது.
+🟩
 
-அந்த விலைக்கு தேவையான அரிசியின் அளவுக்கான கட்டணத்தை வங்கியில் செலுத்துமாறு அரிசி ஆலை உரிமையாளர்கள் வியாபாரிகளுக்கு அறிவுறுத்தியுள்ளனர்.
+Rice mill owners have informed the country's rice wholesalers around the country that the total price of the country, samba and kiri samba rice has increased.
 
-சந்தையில் நாட்டு அரிசியின் கட்டுப்பாட்டு விலை ரூ.220, சம்பா ரூ.230, கீரி சம்பா ரூ.260, அந்த விலைக்கு விற்பனை செய்ய நுகர்வோர் சேவை அதிகாரசபை சுற்றறிக்கையை வெளியிட்டுள்ளது.
+Accordingly, the total price of a kilogram of rice has been increased to Rs.
 
-அரிசி ஆலை உரிமையாளர்கள்? அரிசியின் விலையை அவ்வப்போது அதிகரிப்பதால் கட்டுப்பாட்டு விலையில் அரிசியை விற்க முடியாமல் தவிப்பதாக அரிசி மொத்த வியாபாரிகள் மற்றும் சில்லறை விற்பனையாளர்கள் தெரிவித்தனர்.
+Rice mill owners have advised the merchants to pay the cost of the rice required for that price.
 
-கடந்த வாரம் அரிசி ஆலை உரிமையாளர்கள் நாடு அரிசியை ரூ.235-240, சம்பா ரூ.250, கீரி சம்பா ரூ.260-265 என மொத்த விலையில் வியாபாரிகளுக்கு வழங்கியுள்ளனர்.
+The Consumer Service Authority has issued a circular to sell the country's rice control prices at Rs 220, Samba Rs.
+
+Owners of rice mill?Rice wholesale traders and retailers said that the price of rice occasionally increases, unable to sell rice at control prices.
+
+Last week, the owners of the rice mill were given rice at Rs 235-240, Samba Rs.
 
 ◼️
 
 [Data](articles/43ad3ada.json)
+
+[Extended Data](ext_articles/43ad3ada.ext.json)
 
 ---
 
@@ -672,19 +844,37 @@ Further measures against these companies will be determined based on the judgmen
 
 ---
 
-### க.பொ.த சாதாரண தர பரீட்சைக்கான விண்ணப்ப காலம் நீடிப்பு
+### පොලීසියේ ඉහළම පුටු 41ක වෙනසක් CID හා SIU අධ්‍යක්ෂ පුටු වලට කාන්තාවන්
+
+*2024-12-03 10:22:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ඉහළම-පුටු-41ක-වෙනසක්-CID-හා-SIU-අධ්‍යක්ෂ-පුටු-වලට-කාන්තාවන්/11-413420) · `si`
+
+නියොජ්‍ය පොලිස්පතිවරුන්ද ඇතුළත්ව පොලිස් දෙපාර්තතමේන්තුවේ ඉහළම පුටු 41ක වෙනසක් සිදු කිරිමට කටයුතු කර තිබේ. මෙහිදි කැපි පෙනෙනම වෙනස්කම් වන්නේ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ හා පොලිස් විශේෂ විමර්ශණ ඒකකවල අධ්‍යක්ෂ ධුර සඳහා කාන්තා පොලිස් නිලධාරිනියන් පත්කිරිමයි.
+
+◼️
+
+[Data](articles/56583077.json)
+
+---
+
+### GCE Ordinary Level Examination
 
 *2024-12-03 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200284) · `ta`
 
-2 2024 (2025) ஆம் ஆண்டு க.பொ.த சாதாரண தரப் பரீட்சைக்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் இம்மாதம் 10ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம்  அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+GCE Ordinary Level Exam application deadline extended to 10th of this month. Apply from Nov 5 to 30. Contact: 1911, 0112784208, 0112784537, 0112786616, 0112786200, 0112786201, 0112786202.
 
-க.பொ.த சாதாரண தரப் பரீட்சைக்கான இணையவழியூடாக விண்ணப்பங்களை சமர்ப்பிப்பதற்கான காலவகாசம் நவம்பர் மாதம் 5 ஆம் திகதி முதல் 30 ஆம் திகதி வரை வழங்கப்பட்டிருந்த நிலையில் நாட்டில் நிலவும் மோசமான வானிலை காரணமாக விண்ணப்பங்களை சமர்ப்பிக்கும் கால அவகாசம் தற்போது நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் தெரிவித்தார்.
+🟩
 
-இது தொடர்பிலான மேலதிக தகவல்களை  1911, 0112784208, 0112784537, 0112786616, 0112786200, 0112786201 மற்றும் 0112786202 ஆகிய தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொண்டு பெற்றுக்கொள்ள முடியும் என பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர மேலும் தெரிவித்துள்ளார்.
+2 2024 (2025) The deadline for accepting applications for the GCE Ordinary Level Examination has been extended till the 10th of this month, the Commissioner General of Examinations Amit Jayasundara said.
+
+The Commissioner General of Examinations said that the deadline for submitting applications through the GCE Ordinary Level Examination has been issued from November 5 to 30.
+
+Further information on this can be obtained from the telephone numbers of 1911, 0112784208, 0112784537, 0112786616, 0112786200, 0112786201 and 0112786202.
 
 ◼️
 
 [Data](articles/eeefd601.json)
+
+[Extended Data](ext_articles/eeefd601.ext.json)
 
 ---
 
@@ -706,21 +896,27 @@ Mohamed Sally Naleem has previously served as the former Chairman of Eravur Urba
 
 ---
 
-### கரையோர மற்றும் சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
+### Train services delay at coastal and Chilaw railway
 
 *2024-12-03 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200281) · `ta`
 
-கரையோர மற்றும் சிலாபம் ரயில் மார்க்கத்தில் இன்று செவ்வாய்க்கிழமை (03) ரயில் சேவைகள் தாமதமடைந்துள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Train delays reported on coastal & Chilaw railways: Aluthgama train technical issue near Ratmalana; Chilaw affected by signal problem at Negombo station.
 
-அளுத்கமவிலிருந்து பயணித்த ரயில் ஒன்று இரத்மலானை ரயில் நிலையத்திற்கு அருகில் வைத்து தொழினுட்ப கோளாறுக்கு உள்ளாகியுள்ளது. இதனால் கரையோர ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதமடைந்துள்ளன.
+🟩
 
-அத்துடன்,  நீர்கொழும்பு ரயில் நிலையத்தில் ஏற்பட்ட சமிக்ஞை கோளாறு காரணமாக சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளன.
+The Railway Department said that the train services were delayed on Tuesday (03) at the coastal and Chilaw railway line.
 
-இதன் காரணமாக சிலாபம் ரயில் மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகலாம் என ரயில்வே திணைக்களம் மேலும் தெரிவித்துள்ளது.
+A train traveling from Aluthgama has been subjected to a technical disorder near Ratmalana railway station. As a result, train services have been delayed on the coastal railway line.
+
+In addition, train services at Chilaw Railway Station have been affected due to a signal problem at the Negombo railway station.
+
+Due to this, the Railway Department further stated that the train services may be delayed at Chilaw Railway.
 
 ◼️
 
 [Data](articles/ec683eb9.json)
+
+[Extended Data](ext_articles/ec683eb9.ext.json)
 
 ---
 
@@ -771,6 +967,38 @@ In equities, the All Share Price Index was up 0.19 percent or 24.63 points, at 1
 [Data](articles/64b38607.json)
 
 [Extended Data](ext_articles/64b38607.ext.json)
+
+---
+
+### 8 Indonesians arrested - Over 191
+
+*2024-12-03 09:43:41* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනිසියානු-ජාතිකයන්-8ක්-අල්ලයි---තවත්-191ක්-ගැන-තොරතුරු-හොයයි/11-413419) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Eight Indonesian nationals arrested in Nuwara Eliya for being in a mosque without passports/visas. They were visiting Hatton and Nawalapitiya before arrest. Ages ranged from 25-65. Investigation ongoing; 191 others also under scrutiny. Suspects to appear in court.
+
+🟩
+
+An official of the Nuwara Eliya Police said that eight Indonesians who were in a mosque of the Nuwara Eliya without a passport and visa were arrested on suspicion of the day.
+
+On information received by the Nuwara Eliya Police Station and inspect the eight Indonesians and inspect the air passport or visa at the time of the arrest of the suspects.Police officers said that the suspects have handed over all documents to the embassy in Sri Lanka to renew the visa due to the propedity.
+
+It has been revealed that the eight arrested suspects visited Hatton and Nawalapitiya areas before the Nuwara Eliya.
+
+The suspects have come to the Sri Lankan and they have come to travel in different areas of the country between 25-65 years.
+
+A investigation has also been investigated by the 191 other 191 other visitors to Sri Lanka.
+
+The suspects have been made aware of the suspects in the arrested suspects and the suspects are produced before the Nuwara Eliya Magistrate's Court on the Colombo Magistrate's Court.
+
+◼️
+
+[Data](articles/b9e1afb4.json)
+
+[Extended Data](ext_articles/b9e1afb4.ext.json)
 
 ---
 
@@ -892,19 +1120,29 @@ It is also planned to establish the PS member of the 10th Parliament today.
 
 ---
 
-### අනුරාධ ජයරත්නට හිමිවු නායකත්වයඅනුරාධ ජයරත්නට හිමිවු නායකත්වය
+### Anuradha Jayaratne was leading Anuradha Jayaratne
 
 *2024-12-03 09:26:14* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධ-ජයරත්නට-හිමිවු-නායකත්වයඅනුරාධ-ජයරත්නට-හිමිවු-නායකත්වය/11-413417) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායක ලෙස මහනුවර දිස්ත්‍රික් මන්ත්‍රී නීතීඥ අනුරාධ ජයරත්න මහතා නම් කර තිබේ.
+Here's a summary in approximately 200 characters:
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායක ලෙස අනුරාධ ජයරත්න මහතා පිළිගන්නා ලෙස ඉල්ලමින් ලිඛිත දැනුම් දීම ඊයේ (2දා) රාත්‍රියේ කථානායක ආචාර්ය අශෝක රන්වල මහතාට යොමු කිරීමට පියවර ගෙන ඇත.
 
-අටවන විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේ ඊයේ පැවති නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ සහ එක්සත් ජාතික පක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී ඉහත තීරණයට එළඹියේය.
+
+Anuradha Jayaratne nominated leader New Democratic Front. Written notice sent Speaker requesting appointment. Ceremony held at Flower Front office under Ranil Wickremesinghe's patronage.
+
+🟩
+
+Anuradha Jayaratne has been nominated as the leader of the New Democratic Front.
+
+The written notice was to be sent to Speaker at night yesterday (2), requesting the Speaker at the New Democratic Front.
+
+The appointment of the new Democratic Front held at the political office on Flower Front and the UNP members of the political office on the Colombo Flower Front under the patronage of eighth Executive President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/75b0e50d.json)
+
+[Extended Data](ext_articles/75b0e50d.ext.json)
 
 ---
 
@@ -946,21 +1184,33 @@ The Railway Department said that the train service at the coastal railway line h
 
 ---
 
-### தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவி செயலாளர் டொனால்ட் லூ இலங்கைக்கு விஜயம் !
+### US Assistant Secretary to South and Central Asian Affairs Donald Lu visit Sri Lanka
 
 *2024-12-03 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200280) · `ta`
 
-தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ இலங்கைக்கான விஜயத்தை மேற்கொண்டுள்ளார்.
+Here's a summary in 200 characters:
 
-இம் மாதம் ஆம் திகதி முதல் 10 ஆம் திகதி வரை இந்தியா, இலங்கை மற்றும் நேபாளத்திற்கான விஜயத்தை மேற்கொண்டுள்ளார்.
 
-டொனால்ட் லூவின் விஜயமானது தென் ஆசியாவிலுள்ள முக்கிய பங்குதாரர்களுடன் ஒத்துழைப்பை வலுப்படுத்தி, பிராந்திய வளர்ச்சி மற்றும் பாதுகாப்பை ஊக்குவிக்கவுள்ளது.
 
-அமெரிக்காவின் உதவி செயலாளர் டொனால்ட் லூ , இந்தியா மற்றும் ஐக்கிய அமெரிக்காவுக்கு இடையிலான ஒத்துழைப்பை ஆதரித்தும், இந்தோ-பசிபிக் பிராந்தியத்தின் முக்கியத்தும் குறித்து  இந்தியாவின் புதுடில்லியில் இடம்பெறும் முக்கிய சந்திப்புகளில் பங்கேற்கின்றார்.
+US Assistant Secretary Donald Lu visits Sri Lanka, strengthening ties on anti-corruption efforts and economic development.
+
+🟩
+
+US Assistant Secretary to South and Central Asian Affairs Donald Lu has made a visit to Sri Lanka.
+
+He has made a visit to India, Sri Lanka and Nepal from the month of the month.
+
+Donald Lu's visit will strengthen cooperation with key shareholders in South Asia and promote regional growth and safety.
+
+US Assistant Secretary of State Donald Lu is participating in key meetings in New Delhi in India, supporting the cooperation between India and the United States and the importance of the Indo-Pacific region.
+
+Donald Lu, along with Daniel Cridenpiring, Employees of the Eastern Asia and Pacific Region, will lead the United States of America East Asia Consultations (U.S. -India East Asia Consultations). These suggestions and separate meetings with senior officials of the Indian government will play an important role in world and regional matters.
 
 ...
 
 [Data](articles/5e36e6ce.json)
+
+[Extended Data](ext_articles/5e36e6ce.ext.json)
 
 ---
 
@@ -2095,225 +2345,5 @@ One columnist has put the change occurred on 14 November as “The much awaited 
 [Data](articles/c312ce27.json)
 
 [Extended Data](ext_articles/c312ce27.ext.json)
-
----
-
-### What will the rainfall costs and electricity?
-
-*2024-12-02 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203970) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Rainfall boosts hydroelectric power generation, meeting 62.2% of island's electricity needs. Electricity tariff revision proposed at 35-40%. CEB explores 200 billion loss. Rainfall increases Ceylon Electricity Board revenue by 6%. Utility commission expected to approve reduction by end of December or early January.
-
-🟩
-
-With the increase in the water stations in the reservoirs in the face of the rainy weather, the water plants will be generated from a higher capacity of the power plants.
-
-Accordingly, 62.2% of the island's electricity requirement was generated by hydroelectric power plants.
-
-Sanjeewa Dhammika says that the Secretary of the Electrician Users Association (Test User Users) should be reduced by 35% to 40%.
-
-"We have to enjoy the fourth electric age of the fourth electricity when the quarter. But enjoying the Veriya this government is a note of this government, but we see. The Chairman appointed on the CEB has a contract company about the electricity sector. There is Vice President and he too has a contract company about electric sector. Will it decrease the electricity bill at the time? "
-
-Therefore, the revision of the electricity tariff is 35% and 40 to 40. Because the CEB has explored more than 200 billion.
-
-...
-
-[Data](articles/6b128589.json)
-
-[Extended Data](ext_articles/6b128589.ext.json)
-
----
-
-### nVentures welcomes visionary tech ecosystem leader as new limited partner
-
-*2024-12-02 21:27:43* · [`dailyftlk`](https://www.ft.lk/business/nVentures-welcomes-visionary-tech-ecosystem-leader-as-new-limited-partner/34-769982) · `en`
-
-nVentures has announced that e27 Co-founder and CEO, and Orvel Ventures Partner Mohan Belani, has joined its esteemed group of investors.
-
-This investment brings deep expertise in developing Southeast Asian tech ecosystems and supporting early-stage startups.
-
-With an impressive track record of supporting over 30 early-stage investments across Asia-Pacific and the United States, Belani brings a wealth of experience in helping founders navigate the complex landscape of Southeast Asian tech landscape. His work at e27, Asia’s leading tech and start-up ecosystem platform, has been instrumental in connecting hundreds of startups with critical resources, including fundraising opportunities, media exposure, and strategic business partnerships across Southeast Asia.
-
-...
-
-[Data](articles/3cc5bbab.json)
-
-[Extended Data](ext_articles/3cc5bbab.ext.json)
-
----
-
-### 50 top-tier CEOs to be crowned at Global CEO Awards
-
-*2024-12-02 21:25:27* · [`dailyftlk`](https://www.ft.lk/business/50-top-tier-CEOs-to-be-crowned-at-Global-CEO-Awards/34-769981) · `en`
-
-The much-anticipated Global CEO Awards Night is set to take place on 5 December at the prestigious ITC Ratnadipa.
-
-This event celebrates the transformative leadership and innovative spirit of 50 distinguished CEOs who have propelled their organisations to success amidst challenging times.
-
-This inaugural awards night goes beyond recognising corporate accomplishments. It underscores the critical role of CEOs as drivers of economic stability, innovation, and sustainable growth. Their leadership fosters job creation, attracts investments, and strengthens the foundation of Sri Lanka’s economy. By honouring these visionaries, the event showcases how exceptional leadership can catalyse national progress and inspire others to push boundaries.
-
-...
-
-[Data](articles/f08884c6.json)
-
-[Extended Data](ext_articles/f08884c6.ext.json)
-
----
-
-### 56 people killed in stampede following clashes at Guinea soccer match
-
-*2024-12-02 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103938/56-people-killed-in-stampede-following-clashes-at-guinea-soccer-match) · `en`
-
-Fifty-six people were killed and several injured in a stampede at a soccer stadium in southern Guinea, following clashes between fans, Guinea’s government said Monday.
-
-Authorities are conducting an investigation to establish those responsible for the stampede on Sunday, Communications Minister Fana Soumah said in a statement read on national television.
-
-Among the victims are several children according to local media and a coalition of political parties.
-
-The stampede broke out on Sunday afternoon at the stadium in the city of Nzerekore during the final of a local tournament between the Labe and Nzerekore teams in honor of Guinea’s military leader, Mamadi Doumbouya, Guinea’s Prime Minister Amadou Oury Bah said on the X platform.
-
-“During the stampede, victims were recorded,” Bah said, without giving details. The regional authorities are working to restore calm in the area, he added.
-
-...
-
-[Data](articles/fd1dba3d.json)
-
-[Extended Data](ext_articles/fd1dba3d.ext.json)
-
----
-
-### President stresses need for stable and affordable rice supply in coming months
-
-*2024-12-02 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103937/president-stresses-need-for-stable-and-affordable-rice-supply-in-coming-months) · `en`
-
-A discussion between President Anura Kumara Dissanayake and small and medium-scale rice mill owners took place today (02) at the Presidential Secretariat.
-
-During the discussion, the President emphasized the importance of ensuring a continuous and affordable supply of rice to consumers in the coming months. He engaged with the mill owners to identify immediate measures needed to achieve this goal.
-
-The meeting also focused on enhancing storage facilities across the country to prevent shortages and ensure a steady rice supply, the President’s Media Division (PMD) said.
-
-Additionally, concerns were raised about the declining availability of Nadu rice for consumption due to its increased use in value-added products.
-
-President Dissanayake highlighted the potential benefits of introducing a QR code system to streamline the distribution of fertilizer subsidies and boost domestic agricultural production, the PMD added.
-
-...
-
-[Data](articles/532cb452.json)
-
-[Extended Data](ext_articles/532cb452.ext.json)
-
----
-
-### Kenya's Chow, Ethiopia's Alemu Champions
-
-*2024-12-02 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200272) · `ta`
-
-Kenya's Sebastian Chou wins men's category at Valencia Marathon 2024. Ethiopia's Macared Alem takes women's title. Chou sets new personal best of 2:02:05. Alem wins by 2 minutes with time of 2:16:49.
-
-🟩
-
-In the men's category of the men's category and Ethiopia's Macared Alem in the women's category, Ethiopia's Macared Alem was a winning championship in the 2024 Valensia Marathon race held on Sunday in Walensia, Spain.
-
-He won the Sebstian Chow Up competition in his debut Marathon race in 2 hours, 02 minutes and 05 seconds.
-
-This time receiving he registered is the best time for this year. It is also the fifth high time recorded in the history of the International Marathon Rate.
-
-Ethiopian player Teresa Jelletta (2:02:38) won the second place and Kenyan player Deniel Metaiko (2:04:24) came third.
-
-Mcard Alemu won the Ethiopian player by 2 minutes in the women's ads.
-
-He finished the match in 2 hours, 16 minutes and 49 seconds.
-
-Uganda's Stella Sesang (2:18:26) finished second and Ethiopian Drye Mespin (2:18:35) came third.
-
-◼️
-
-[Data](articles/1c014f66.json)
-
-[Extended Data](ext_articles/1c014f66.ext.json)
-
----
-
-### New Constitution: What are the steps to be taken next?Gajendrakumar - A review at the meeting between Sridharan
-
-*2024-12-02 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200271) · `ta`
-
-Steps after new constitution: Federal solution implementation, dialogue between TNA leaders, public program approach.
-
-🟩
-
-During the meeting between MPs Gajendrakumar Ponnambalam and Sivagnanam Sridharan on the need to implement a federal -based solution in a way that can be fulfilled in the new constitution and the next step.
-
-In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
-
-According to Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
-
-Meanwhile, Sivagnanam Sridharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), and the parliamentarian of the Democratic Tamil National Alliance (TNA), Selvam Adakkalanathan, stated that he was ready to negotiate beyond the proposal.
-
-...
-
-[Data](articles/a3475a0b.json)
-
-[Extended Data](ext_articles/a3475a0b.ext.json)
-
----
-
-### Will you now fulfill the previous obligations in the Sri Lankan affair?- Uma Kumaran MP questioned to British Foreign Secretary David Lemi
-
-*2024-12-02 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200270) · `ta`
-
-Sri Lanka ICC obligations: Foreign Sec David Lemi responds to UK MP Uma Kumaran's questions about accountability for past human rights violations.
-
-🟩
-
-British Foreign Secretary David Lemi has questioned British Foreign Secretary David Lemi whether Sri Lanka will now fulfill its previous obligations on the issue of the International Criminal Court and to ensure accountability on past violations.
-
-British MP Uma Kumaran, a native of Sri Lanka at the Foreign Affairs Committee meeting held in the UK parliament last week (27), has questioned Foreign Secretary David Lemi about the above issue.
-
-Uma Kumaran pointed out that "today (27) is an important day for Tamils ​​around the world," you urged the British government to consider the recommendation of the United Nations Human Rights High Commission to give the Tamils ​​to the Tamils ​​in 2023 and to present the criminals involved in the most casual human rights violations.
-
-...
-
-[Data](articles/b8353c32.json)
-
-[Extended Data](ext_articles/b8353c32.ext.json)
-
----
-
-### It is our responsibility to oppose the hunt - Dilith
-
-*2024-12-02 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203969) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-LTTE suspects arrested over Mahaviru Day. Some bailed, others remanded. Opposition leader Dilith Jayaweera criticizes government control of social media, saying it hampers free speech and national unity.
-
-🟩
-
-The LTTE.. The Colombo Chief Magistrate's Court was released on bail due to the bail of the Mahawaru Day celebrations.
-
-The LTTE.. Four suspects were arrested on several occasions on charges of suffering the Mahaviru Day celebrations.
-
-Among the other suspects were presented to the Jaffna Magistrate's Court yesterday (01), who was remanded until December 4.
-
-The rest of the suspects is Kelum Jayasehana and Janith Chathuranga.
-
-Dilita Jayaweera and several others arrived at the Welikada Prison premises to look into the health of Mr. Kelum Jayasumana.
-
-Headdica MP Dilith Jayaweera said that the government is unnecessarily administered.
-
-He said that it was a profound effect on the freedom of the people's opinion.
-
-...
-
-[Data](articles/65942d85.json)
-
-[Extended Data](ext_articles/65942d85.ext.json)
 
 ---

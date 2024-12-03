@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 03:26:14**
+As of **2024-12-04 04:00:50**
 
 ## Newspaper Stats
 
-*Scraped **58,323** Articles*
+*Scraped **58,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
-tamilmirrorlk | 8,297
+tamilmirrorlk | 8,298
 virakesarilk | 9,549
 adaderanasinhalalk | 10,076
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,316 (100.0%) of 58,323 articles have been extended.
+58,317 (100.0%) of 58,324 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -175,6 +175,32 @@ This is followed by a referendum in this evening. Will be featured. The adjournm
 [Data](articles/29ddca3c.json)
 
 [Extended Data](ext_articles/29ddca3c.ext.json)
+
+---
+
+### We want to live with the identity of the model
+
+*2024-12-04 01:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளத்தோடு-வாழ-விரும்புகிறோம்/175-348211) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan Tamil leader calls for modern approach to ethnic issues, urging government to address decades-old problems and recognize Tamil rights as co-owners of the island.
+
+🟩
+
+Even though we and you are one of the nations, we want to live with the identity of two ethnic groups. Abandon the historical ideas of the pre -Christian period and approach the ethnic problem according to the 21st century modern thought. The Government of Sri Lanka should be prepared to approach a new politics with the attitude of the Sinhala people, the Tamil speaking people, the co -owners of the Sri Lankan island and the co -partners.. District MP Sivagnanam Sreedharan said.
+
+He was speaking at a debate on the President's Declaration of Policy on Tuesday in Parliament.
+
+Although the president has said many things in his policy speech, it is unfortunate that he has not spoken a word about the ethnic problem that has been raised on this soil for 80 years, and in his speech, the effort of the Tamil people is the most important issue.
+
+...
+
+[Data](articles/a81da2e7.json)
+
+[Extended Data](ext_articles/a81da2e7.ext.json)
 
 ---
 
@@ -2439,25 +2465,5 @@ Accordingly, the Adjournment Debate on the recent adverse weather conditions was
 [Data](articles/e4edeccb.json)
 
 [Extended Data](ext_articles/e4edeccb.ext.json)
-
----
-
-### Sajith criticizes govt. of using PTA to oppress social media
-
-*2024-12-03 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103959/sajith-criticizes-govt-of-using-pta-to-oppress-social-media) · `en`
-
-Opposition Leader Sajith Premadasa criticized the government for allegedly using the Prevention of Terrorism Act (PTA) to suppress social media freedom, despite promising to abolish the controversial legislation before coming to power.
-
-Speaking in Parliament today (03), Premadasa pointed out that social media played a significant role in securing the current government’s large electoral mandate. He added that however, after coming to power, the government is using the very Act it had promised to repeal to suppress social media activists.
-
-“Is this fair to engage in a media crackdown using the Prevention of Terrorism Act? You received immense support from the social media sector received immense. Yet now, social media activists are being targeted under the same Act you vowed to repeal,” Premadasa expressed.
-
-“We suggest if you do what is said, stop this repression. You have to walk the talk”, the opposition leader stressed.
-
-◼️
-
-[Data](articles/a2fef890.json)
-
-[Extended Data](ext_articles/a2fef890.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 03:42:14**
+As of **2024-12-04 03:26:14**
 
 ## Newspaper Stats
 
-*Scraped **58,324** Articles*
+*Scraped **58,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
-tamilmirrorlk | 8,298
+tamilmirrorlk | 8,297
 virakesarilk | 9,549
 adaderanasinhalalk | 10,076
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,316 (100.0%) of 58,324 articles have been extended.
+58,316 (100.0%) of 58,323 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -175,20 +175,6 @@ This is followed by a referendum in this evening. Will be featured. The adjournm
 [Data](articles/29ddca3c.json)
 
 [Extended Data](ext_articles/29ddca3c.ext.json)
-
----
-
-### ’அடையாளத்தோடு வாழ  விரும்புகிறோம்’
-
-*2024-12-04 01:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளத்தோடு-வாழ-விரும்புகிறோம்/175-348211) · `ta`
-
-நாங்களும் நீங்களும் தேசத்தில் ஒன்றாக இருந்தாலும் இரண்டுபட்ட தேசங்களுக்குறிய இரண்டுபட்ட  இனக்குழுமங்கள் என்ற அடையாளத்துடன் வாழ்வதற்கு நாங்கள் விரும்புகின்றோம். கிறிஸ்துவுக்கு முற்பட்ட காலத்து வரலாற்று சிந்தனைகளை கைவிட்டு 21 ஆம் நூற்றாண்டிற்குரிய  நவீன சிந்தனையின் படி இனப்பிரச்சினையை  அணுக வேண்டும். சிங்கள மக்களும் தமிழ் பேசும் மக்களும் இலங்கைத் தீவின் இணை உரிமையாளர்களும் இணைப் பங்காளர்களும் என்ற மனப்பாங்குடன் ஒரு புதிய அரசியலை அணுக அரசு தயாராக வேண்டும் என இலங்கை தமிழரசு கட்சியின் யாழ். மாவட்ட எம்.பி.யான சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
-
-பாராளுமன்றத்தில் நேற்று  செவ்வாய்க்கிழமை இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன  உரை மீதான விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்த அவர் தொடர்ந்து உரையாற்றுகையில்,
-
-...
-
-[Data](articles/a81da2e7.json)
 
 ---
 
@@ -2453,5 +2439,25 @@ Accordingly, the Adjournment Debate on the recent adverse weather conditions was
 [Data](articles/e4edeccb.json)
 
 [Extended Data](ext_articles/e4edeccb.ext.json)
+
+---
+
+### Sajith criticizes govt. of using PTA to oppress social media
+
+*2024-12-03 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103959/sajith-criticizes-govt-of-using-pta-to-oppress-social-media) · `en`
+
+Opposition Leader Sajith Premadasa criticized the government for allegedly using the Prevention of Terrorism Act (PTA) to suppress social media freedom, despite promising to abolish the controversial legislation before coming to power.
+
+Speaking in Parliament today (03), Premadasa pointed out that social media played a significant role in securing the current government’s large electoral mandate. He added that however, after coming to power, the government is using the very Act it had promised to repeal to suppress social media activists.
+
+“Is this fair to engage in a media crackdown using the Prevention of Terrorism Act? You received immense support from the social media sector received immense. Yet now, social media activists are being targeted under the same Act you vowed to repeal,” Premadasa expressed.
+
+“We suggest if you do what is said, stop this repression. You have to walk the talk”, the opposition leader stressed.
+
+◼️
+
+[Data](articles/a2fef890.json)
+
+[Extended Data](ext_articles/a2fef890.ext.json)
 
 ---

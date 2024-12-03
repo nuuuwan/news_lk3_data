@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 05:13:08**
+As of **2024-12-03 05:52:19**
 
 ## Newspaper Stats
 
-*Scraped **58,133** Articles*
+*Scraped **58,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 604
-islandlk | 3,490
+islandlk | 3,497
 economynextcom | 3,528
 dailyftlk | 4,019
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,133 (100.0%) of 58,133 articles have been extended.
+58,133 (100.0%) of 58,140 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -334,6 +334,28 @@ If he is right, I thought, the Government is in trouble. Unlike my colleague, I 
 
 ---
 
+### History in the making!
+
+*2024-12-02 22:35:00* · [`islandlk`](http://island.lk/history-in-the-making/) · `en`
+
+Singer/composer Rajiv Sebastian says he has created history with the release of his latest music video, which is in the form of a duet with the veteran classical vocalist Bandula Wijeweera.
+
+Says Rajiv: “With the demise of the gutty Sunil Perera (of Gypsies fame), people assumed that there will be no celebrity to criticize Sri Lankan politicians, and my new music video, with Bandula Wijeweera, changes that misconception.”
+
+, according to Rajiv, is a surprising masterpiece in filling that vacuum.
+
+Rajiv, of course, has shared his creativity with many well-known singers, including the late Desmond De Silva, also the late Sunil Perera, Annesley, Sohan, Corrine (remember ‘Mage Konde Nathath’), Falan, as well as Yohani (‘Halmessa’), and his contributions have been well received over the past three decades.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/9d26b008.json)
+
+---
+
 ### Vote on Account and why
 
 *2024-12-02 22:32:12* · [`dailyftlk`](https://www.ft.lk/columns/Vote-on-Account-and-why/4-769991) · `en`
@@ -345,6 +367,56 @@ This is the first time in the history of our legislature since the days of the f
 [Data](articles/b980e2fe.json)
 
 [Extended Data](ext_articles/b980e2fe.ext.json)
+
+---
+
+### How Yogendra Duraiswamy stood up to power and shone in public service
+
+*2024-12-02 22:21:00* · [`islandlk`](http://island.lk/how-yogendra-duraiswamy-stood-up-to-power-and-shone-in-public-service/) · `en`
+
+The right-thinking of Sri Lanka and the world over continue to recoil with horror on recollecting the vandalizing and burning of the Jaffna Public Library in the lead-up to the District Development Council (DDC) election in Northern Sri Lanka in mid-1981. The outrage was an acid test of the integrity of the J.R. Jayewardene regime of the time as well that of the country’s law-enforcers and public officials.
+
+The regime concerned and sections of those entrusted with keeping the law emerged from the veritable hell fires which were the torching of the Library, utterly disgraced. But this was not the case with, Yogendra Duraiswamy (YD), the senior public servant and Returning Officer in charge of conducting the relevant poll.
+
+...
+
+[Data](articles/1f494001.json)
+
+---
+
+### Bangladesh Employers’ Federation praises Employers’ Federation of Ceylon
+
+*2024-12-02 22:20:00* · [`islandlk`](http://island.lk/bangladesh-employers-federation-praises-employers-federation-of-ceylon/) · `en`
+
+A delegation representing the Bangladesh Employers Federation (BEF) recently concluded a two-day exchange program in Sri Lanka, organized under the initiative of the Bureau for Employers’ Activities (ACT/EMP) Dheli of the International Labour Organization (ILO) hosted by the Employers’ Federation of Ceylon (EFC).
+
+The delegation comprised of six officials from BEF, accompanied by three ILO officials. The purpose of the program was to provide a comprehensive understanding of how the Federation works and strengthens its legal services by catering to the requirements of its membership.
+
+During the visit, the delegation was introduced to the activities of the EFC, its membership strength and the broad spectrum of services provided by it, with special focus on litigation services.
+
+...
+
+[Data](articles/3b75eb3a.json)
+
+---
+
+### Market volatility forces Abans to postpone debenture issue by a week
+
+*2024-12-02 22:17:00* · [`islandlk`](http://island.lk/market-volatility-forces-abans-to-postpone-debenture-issue-by-a-week/) · `en`
+
+Abans PLC said it was postponing its debenture issue by a week and changing the issue size due to market volatility.
+
+“The company has decided to postpone the debenture issue opening date to 10th December 2024 and the Issue Size considering the volatility in the market interest rates, CSE sources said.
+
+“The issue size is to be revised as follows; an initial Issue up to 3,000,000 listed, rated, unsecured, senior, redeemable debentures, they said.
+
+The consumer products retailer initially said it will issue 10 million listed, rated, unsecured, senior, redeemable, 5-year debentures at Rs 100 each.
+
+A further 10 million debentures was to be issues in the event of an oversubscription of the initial issue to raise a maximum amount of 2 billion, sources said.
+
+...
+
+[Data](articles/5d64351e.json)
 
 ---
 
@@ -2345,95 +2417,5 @@ Despite the long coastline, and domestic manufacturers of leisure boats, there w
 [Data](articles/ba341250.json)
 
 [Extended Data](ext_articles/ba341250.ext.json)
-
----
-
-### A suspect arrested for propaganda ceremony
-
-*2024-12-02 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203958) · `si`
-
-Suspect arrested for propagating LTTE ceremonies. Three individuals from Maradana, Chunnakam, and Baddegama bailed due to lack of evidence. Charged with circulating LTTE-related content on Facebook during Mahaveera Celebrations. Case involves promoting activities of a banned organization online.
-
-🟩
-
-The LTTE.. The Fort Chief Magistrate's Court has been granted bail to the Keek Harror on the courts.
-
-Attorney-at-law Manoj Gamage said he was bailed to the suspect saying he was not found in the charges.
-
-Three suspects have been arrested by the CID on the 30th of this month.
-
-Police said that the suspects were residents of Maradana, Chunnakam and Baddegama areas.
-
-The suspects have been circulated by the LTTE, the leader of the LTTE, the leader of the LTTE, Valeupilla Prabhakaran in the island, and the old Vidyport, who has obtained the LTTE, has been done this year to the old videos obtained in the Mahavairu Celebrations of the LTTE in the years.They were charged with circulation of Facebook, highlighting as celebrations.
-
-Accordingly, the suspects were arrested in terms of the temporary arrangement of false advertisements and advertising on the Internet to promote the activities of the Internet and promote the activities of a banned organization.Had been taken.
-
-◼️
-
-[Data](articles/e90b0223.json)
-
-[Extended Data](ext_articles/e90b0223.ext.json)
-
----
-
-### Tension before the Ministry of Education
-
-*2024-12-02 13:51:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியமைச்சுக்கு-முன்பாக-பதற்றம்/175-348114) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tensions rise near Ministry of Education as protesters demand teacher hiring and permanent appointments. Police injuries and arrests reported. Traffic severely impacted on Borella-Kottawa 174 bus route.
-
-🟩
-
-A tense situation has arisen in the area due to a demonstration in front of Izurupaya demanding the hiring of the Teacher Service and the Permanent Appointment.
-
-It is reported that some police officers have been injured and three persons have been arrested in connection with the incident.
-
-It is also reported that traffic on Borella - Kottawa 174 bus road has been completely affected. Remble
-
-◼️
-
-[Data](articles/a4fe7742.json)
-
-[Extended Data](ext_articles/a4fe7742.ext.json)
-
----
-
-### Sri Lankans must improve to render system change successful
-
-*2024-12-02 13:46:00* · [`islandlk`](http://island.lk/sri-lankans-must-improve-to-render-system-change-successful/) · `en`
-
-“It is not possible to develop a country without the moral development of man. Let us develop the country along with moral development (of man)” So pronounced Most Ven Madihe Pannaseeha Maha Nayaka Thero. This translation from Sinhala is by Ven Vajiraramaya Nanaseeha Thera – previously Deshabandhu Olcott Gunasekera – who was one who assisted the venerable bhikkhu to establish the Dharmavijaya Foundation in 1977. The Foundation later adopted this truth as its mission statement. Moral development connotes character building.
-
-The thought about the quirks and misdemeanours of most Sri Lankans which ultimately tarnish the wellbeing and image of the country has long been in mind and discussed frequently when we older generations meet and grow nostalgic of how things were back then. We most definitely had a much better life, though sans TV and all these advances, since peace and general goodness prevailed.
-
-...
-
-[Data](articles/783733cd.json)
-
-[Extended Data](ext_articles/783733cd.ext.json)
-
----
-
-### There is a hot situation in front of the Ministry of Education
-
-*2024-12-02 13:33:52* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශය-ඉදිරිපිට-උණුසුම්-තත්ත්වයක්/11-413397) · `si`
-
-Protest outside Ministry of Education: Combined School Development Officer members arrested by police today.
-
-🟩
-
-Members of the Combined School Development Officer have commenced a protest in front of the Ministry of Education today (02) and the police have come to dissolve members of the protest.
-
-Several people have been arrested in the protest, accordingly, has been broken.
-
-◼️
-
-[Data](articles/1264b0f9.json)
-
-[Extended Data](ext_articles/1264b0f9.ext.json)
 
 ---

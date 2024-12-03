@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 19:42:06**
+As of **2024-12-03 19:03:24**
 
 ## Newspaper Stats
 
-*Scraped **58,284** Articles*
+*Scraped **58,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,498
 economynextcom | 3,541
 dailyftlk | 4,019
 dailymirrorlk | 4,733
-adalk | 5,518
-adaderanalk | 7,077
+adalk | 5,517
+adaderanalk | 7,076
 tamilmirrorlk | 8,291
 virakesarilk | 9,533
 adaderanasinhalalk | 10,069
@@ -26,77 +26,43 @@ adaderanasinhalalk | 10,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,281 (100.0%) of 58,284 articles have been extended.
+58,270 (100.0%) of 58,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
 
-### 18 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-12-03 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103972/18-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-A special operation conducted by the Sri Lanka Navy has led to the seizure of an Indian fishing boat and the apprehension of 18 Indian fishermen, poaching in Sri Lankan waters.
-
-This special operation was conducted off Veththalakerni, Jaffna on Monday (December 02). When the apprehension was made, the fishing boat had crossed the International Maritime Boundary Line by approximately 30 nautical miles, entering Sri Lankan waters.
-
-The Navy said the Northern Naval Command deployed Fast Attack Craft attached to the Command to send away a cluster of Indian fishing boats, having spotted they were engaging in illegal fishing in Sri Lankan waters off Veththalakerni.
-
-The operation resulted in the seizure of 01 Indian fishing boat and the apprehension of 18 Indian fishermen continued to remain in Sri Lankan waters.
-
-...
-
-[Data](articles/cb9e21da.json)
-
----
-
-### Young man hurts to be targeted for firing!
+### துப்பாக்கி சூட்டுக்கு இலக்காகி இளைஞன் காயம் !
 
 *2024-12-03 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200337) · `ta`
 
-Here's a summary of 200 characters:
+குருணாகல், பொல்பித்திகம பொலிஸ் பிரிவுக்குட்பட்ட அமுனகொலே பகுதியில் நேற்று திங்கட்கிழமை (02) துப்பாக்கி சூட்டுக்கு இலக்காகி இளைஞன் ஒருவன் காயமடைந்துள்ளதாக பொல்பித்திகம பொலிஸார் தெரிவித்தனர்.
 
+காயமடைந்த  இளைஞன் நேற்றைய தினம் மாலை வனப்பகுதி ஒன்றிற்கு சென்ற போது இனந்தெரியாத நபரொருவரினால் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டுக்கு இலக்காகி காயமடைந்துள்ளார்.
 
-
-Youth hurt in Kurunegala shooting; police seek suspect.
-
-🟩
-
-A youth was injured when a young man was injured in the shooting of the Amunagole area in the Kurunegala and Polpithigama police division on Monday (02).
-
-The injured young man was injured when an unidentified man went to a forest yesterday evening.
-
-Police said they have not yet received any information about the suspect who carried out the shooting.
+துப்பாக்கி சூட்டை நடத்திய சந்தேக நபர் தொடர்பில் இதுவரை எவ்வித தகவலும் கிடைக்கவில்லை என பொலிஸார் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/76239682.json)
 
-[Extended Data](ext_articles/76239682.ext.json)
-
 ---
 
-### One person arrested with heroin drugs in Anuradhapura
+### அநுராதபுரத்தில் ஹெரோயின் போதைப்பொருளுடன் ஒருவர் கைது !
 
 *2024-12-03 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200330) · `ta`
 
-Arrest made in Anuradhapura: 31-year-old suspect caught with 510ml heroin during police operation.
+அநுராதபும் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (02) கைது செய்யப்பட்டுள்ளதாக அநுராதபும் பொலிஸார் தெரிவித்தனர்.
 
-🟩
+அநுராதபும் பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின் போதே  சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
 
-A suspect has been arrested on Monday (02) with heroin in the area of ​​the police division, police said.
+கைது செய்யப்பட்ட சந்தேக நபர் அநுராதபும் மஹாவிலாச்சிய பிரதேசத்தைச் சேர்ந்த 31 வயதுடையவர் ஆவார்.
 
-The suspect has been arrested during a roundup on the basis of confidential information received by the police.
-
-The arrested suspect is 31 years old from Mahavilachiya.
-
-The drug has been seized by the police by the suspect, 510 ml of heroin.
+சந்தேக நபரிடம் இருந்து 08 கிராம் 510 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/13788a17.json)
-
-[Extended Data](ext_articles/13788a17.ext.json)
 
 ---
 
@@ -254,26 +220,6 @@ In the event of an oversubscription of the initial issue and the second tranche 
 
 ---
 
-### Opens Kotmale muddy sluice
-
-*2024-12-03 17:19:36* · [`adalk`](https://www.ada.lk/breaking_news/කොත්මලේ-මඩ-සොරොව්ව-විවෘත-කරයි/11-413432) · `si`
-
-Kotmale Reservoir sluice gates opened automatically due to heavy rains. Anura Seneviratne from Mannar reported this incident on 03.
-
-🟩
-
-Anura Seneviratne, Mannar, said that the sluice gates of the Kotmale Reservoir have been opened today (03).
-
-The sluice gates of the reservoir were automatically opened due to the heavy rains of the reservoir.
-
-◼️
-
-[Data](articles/94ebcb49.json)
-
-[Extended Data](ext_articles/94ebcb49.ext.json)
-
----
-
 ### Reubiotic Cuki Kelu Saule Kenusa Ruwan. 11 student
 
 *2024-12-03 17:15:32* · [`adalk`](https://www.ada.lk/picture_story/රූබික්-කියුබි-1200කින්-ජනපතිගේ-රුව-සකසා-වෝලන්-ලෝක-වාර්තාවක්-තැබූ-අවු--11ක-සිසුවා/10-413431) · `si`
@@ -328,7 +274,7 @@ The Cabinet Spokesman further stated that the committee has presented recommenda
 
 ---
 
-### Air Ceilao seeks Sri Lanka approval for domestic, international charter flights
+### Air Ceilao seeks Sri Lanka approval to operate domestic, international charter flights
 
 *2024-12-03 16:56:00* · [`economynextcom`](https://economynext.com/air-ceilao-seeks-sri-lanka-approval-to-operate-domestic-international-charter-flights-191591/) · `en`
 
@@ -384,181 +330,113 @@ Ranasinghe said that US financing had not been finalised, and added that it was 
 
 [Data](articles/c12ef8e9.json)
 
-[Extended Data](ext_articles/c12ef8e9.ext.json)
-
 ---
 
-### Nominations for the local government election is recalled
+### පළාත් පාලන මැතිවරණයේ නාම යෝජනා ආපසු කැඳවයි
 
 *2024-12-03 16:50:00* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණයේ-නාම-යෝජනා-ආපසු-කැඳවයි/11-413430) · `si`
 
-Cabinet approves recalling local government election nominations. Special provisions bill to be prepared for new nominations process.
+2023 වසරේ පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ආයතන ඡන්ද විමසීම සඳහා කැඳවන ලද නාමයෝජනා ආපසු කැඳවීමටත් නව නාම යෝජනා කැඳවීමටත් අවශ්‍ය විධිවිධාන සැලසීම සඳහා කැබිනට් අනුමැතිය ලැබී තිබේ.මේ අනුව පළාත් පාලන ආයතන ඡන්ද විමසීම් (විශේෂ විධිවිධාන) පනත් කෙටුම්පක් සකස් කිරීම සඳහා නීති කෙටුම්පත් සම්පාදකට 2024/09/02 පැවැති අමාත්‍ය මණ්ඩල රැස්වීහේ තීරණය කර තිබේ.
 
-🟩
+එසේම මේ පිළිබඳව 2024/11/25 දින පාර්ලිමේන්තුවේ කථානායකවරයාගේ ප්‍රධානත්වයෙන් පවත්වනලද පිළිගත් දේශපාලන පක්ෂ නායකයින් ද සහභාගී වී ඇති පක්ෂ නායක රැස්වීමේදී 2023 වර්ෂයේ කැඳවන ලස නාම යෝජනා අවලංගු කර අලුතින් නාම යෝජනා කැඳවා ඉදිරිපත් පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්විය යුතු බවට එකඟතාවයට පැමිණ තිබේ.
 
-The Cabinet approval has been obtained to recall the nominations that have been called for the vote in 2023 to the election of the local government bodies.The Cabinet Meeting held at 09/02.
-
-The National Political Party leaders who have been held under the patronage of the Speaker of Parliament at the party leaders 'leadership, the Speaker of Parliament participated in the event of the party leaders' meeting, the local government bullet should be held.
-
-Accordingly, the existing local government band's election to the election of all elections and the youth community of the LTTE will be able to recall the nominations for the election and provoke provisions to educate the new nomination.The Cabinet paper has been approved by the Cabinet paper to instruct the Ministerial Administration, Provincial Councils and the Local Government to instruct the Legal Draft Force to prepare the Legal Draft Force to prepare the Bills (Special Provisions).
-
-◼️
+...
 
 [Data](articles/4e8cfdd1.json)
 
-[Extended Data](ext_articles/4e8cfdd1.ext.json)
-
 ---
 
-### Brother has been assassinated to a complaint on a mobile phone
+### ජංගම දුරකථනයක ආරවුලකට ඥාති සහෝදරයා ඝාතනය කරලා
 
 *2024-12-03 16:41:10* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථනයක-ආරවුලකට-ඥාති-සහෝදරයා-ඝාතනය-කරලා/11-413429) · `si`
 
-Here's a 200-character summary:
+ජංගම දුරකථනයක් සම්බන්ධයෙන් ඇති වූ ආරවුලක් දුර දිග යාම හේතුවෙන්  17 හැවිරිදි ඥාති සහෝදරයෙකු එල්ල කල පිහි පහරකින් 26 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්වීමේ සිද්ධියක්  ඔයා මඩුව පොලිසිස් වසමෙන් වාර්තාවේ.
 
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 13 කණුව , බණ්ඩාරගම පේමඩුව පදිංචිව සිටි  එදිරිසිංහ ආරච්චිලාගේ ජය සංඛ පද්ම කුමාර නැමැති 26 හැවිරිදි තරුණයෙකි.
 
+සැකකරු සහ මරණකරු ඉකුත් 1දා  කුඹුරක වැඩ කරමින් සිටියදී ජංගම දුරකථනයක් සම්බන්ධයෙන්  ඇති වූ  ආරවුලක් දුරදිග යාමෙන්  දෙදෙනා පොර බදා ඇති අතර  පසුව සැකකරු සඟවා ගෙන සිටි පිහියක් රැගෙන  මරණකරුට බරපතල තුවාල  සිදු කර තිබූ බව පොලිසිය කියයි.
 
-Brother assassinated over mobile phone complaint. Teen cousin kills 26-year-old with knife. Victim identified as Edirisinghe Arachchilage, 13th post. Police arrested suspect Sandaruwan. Investigation ongoing under OIC Inspector Ratnayake.
+සැකකරු  සහ මරණකරු පොර බදින අවස්ථාවේදී එම ස්ථානයට දිව ගොස් ඇති කුඹුරේ හිමිකරු  සැකකරුට ප්ලාස්ටික් බටයකින් පහරක්  එල්ල කර ඔහු අත තිබූ පිහිය  උදුරා ගෙන මරණකරු ඇලයාපත්තුව  රෝහලට රැගෙන ගිය අවස්ථාවේදී ජීවිතක්ෂයට පත්ව ඇති බවද පොලීසිය වැඩි දුරටත් සඳහන් කළේය
 
-🟩
+මෙම ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 17  එදිරිසිංහ ආරච්චිලාගේ තරුෂ සඳරුවන් නැමති සැකකරු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
 
-A 17-year-old cousin is a 17-year-old boy's knives on a blow to death, a 26-year-old man dies in a clay girl.
-
-The deceased has been identified as the 13th post, King Edirisinghe Arachchilage, a resident of Bandaragama Piyadda Kumara, a 26 year old youth.
-
-The two were also trying to dispute a mobile phone while working on a paddy and the deceased on a paddy field.
-
-The police said that the owner of the bomb had a blow to the suspect and taken his knife to the suspect and took him to the deceased to the deceased.
-
-The suspect was arrested by Edirisinghe Arachchilage's Youth Sandaruwan, who was arrested in connection with the murder.
-
-OKA OIC Inspector RMS. C. A team of officials are conducting further investigations on the instructions of Ratnayake.
-
-◼️
+...
 
 [Data](articles/4c4e05be.json)
 
-[Extended Data](ext_articles/4c4e05be.ext.json)
-
 ---
 
-### Government owned high luxury is to be removed
+### රජය සතු අධි සුඛෝපභෝගී වාහන ඉවත්කිරීමට යයි
 
 *2024-12-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204001) · `si`
 
-Here's a 200-character summary:
+රාජ්‍ය ආයතනවලට විශාල වැය බරක් වන අධි සුඛෝපභෝගී වාහන විධිමත් ක්‍රමවේදයකට අනුව ඉවත්කිරීමට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
 
+අද (03) පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේදී කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඒ බව පැවසීය.
 
+රාජ්‍ය ආයතනවල භාවිත වන ඇතැම් අධි සුඛෝපභෝගී වාහනවල නඩත්තු හා ඉන්ධන සඳහා වැය වන අධික පිරිවැය සැලකිල්ලට ගෙන මෙම තීරණය ගෙන තිබේ.
 
-Government removes luxury vehicles due to high maintenance and fuel costs. Cabinet approves formal procedure to study and replace vehicles in government institutions. Decision aims to reduce economic burden and promote cost-effectiveness.
+එවැනි අධි සුඛෝපභෝගී වාහන අපහරණය කිරීම ආර්ථිකව වඩාත් ඵලදායි වන බව පෙනී ගොස් ඇති බවයි අමාත්‍යවරයා පැවසුවේ.
 
-🟩
-
-Cabinet approval has been given to remove the larger cost-cost vehicles in accordance with a formal procedure.
-
-Cabinet spokesperson Minister Nalinda Jayatissa said that today (03).
-
-This decision has been taken into account the cost of the maintenance and fuel that cost the maintenance and fuel of certain high luxury vehicles in government institutions.
-
-The Minister said that the abuse of such high luxury is economically more effective.
-
-Accordingly, a formal study of the vehicles of all government institutions and follow vehicles and diesel engine capacity over the customs encryption.The proposal submitted by the Cabinet of the Treasury was approved by the Chief Accounting Officers to be abolished and to release the relevant circular instructions to report the relevant circular advice before 2025-03.
-
-◼️
+...
 
 [Data](articles/8b6ba182.json)
 
-[Extended Data](ext_articles/8b6ba182.ext.json)
-
 ---
 
-### Siddharth starrer 'Miss You'
+### சித்தார்த் நடிக்கும் 'மிஸ் யூ' படத்தின் புதிய வெளியீட்டு திகதி அறிவிப்பு
 
 *2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200334) · `ta`
 
-Here's a summary of 200 characters:
+தமிழ் திரையுலகின் நட்சத்திர நடிகராக திகழும் சித்தார்த் காதல் நாயகனாக நடித்திருக்கும் 'மிஸ் யூ' எனும் திரைப்படத்தின் புதிய வெளியீட்டு திகதி அறிவிக்கப்பட்டிருக்கிறது.
 
+இயக்குநர் என். ராஜசேகர் இயக்கத்தில் உருவாகி இருக்கும் 'மிஸ் யூ' எனும் திரைப்படத்தில் சித்தார்த், ஆஷிகா ரங்கநாத், கருணாகரன், பால சரவணன், ஷா ரா, 'லொள்ளு சபா' மாறன், சஷ்டிகா, பொன்வண்ணன், ஜெயப்பிரகாஷ், ரவி மரியா, சரத் லோகித்ஸ்வா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
+கே. ஜி. வெங்கடேஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைத்திருக்கிறார். காதலை கொண்டாடும் இந்த திரைப்படத்தை 7 மைல்ஸ் பர் செகண்ட் புரொடக்ஷன்ஸ் நிறுவனம் தயாரித்திருக்கிறது.
 
-Siddharth stars in 'Miss You', directed by Rajasekhar. Also featuring Ashika Ranganath, Karunakaran. Music by Venkatesh. Produced by 7 Miles Bur Second Productions. Delayed due to weather issues. Expected to appeal to young audiences with a love story theme.
+கடந்த மாதம் வெளியாகும் என அறிவிக்கப்பட்ட இந்த திரைப்படம் தமிழகத்தில் வீசிய புயல் மற்றும் மழை காரணமாக திட்டமிட்டபடி வெளியாகவில்லை. அதன் பிறகு இப்படத்தின் புதிய வெளியீட்டு திகதி பின்னர் அறிவிக்கப்படும் என தயாரிப்பு நிறுவனம் தெரிவித்தது.
 
-🟩
+அந்த வகையில் இந்த திரைப்படம் எதிர்வரும் 13 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என அறிவித்திருக்கிறார்கள்.
 
-Siddharth, who is the star of the Tamil film industry, has been announced on the new release date of the movie 'Miss You'.
-
-Director n. The upcoming film 'Miss You', directed by Rajasekhar, stars Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, Shah Rao, 'Loku Saba' Maran, Sashtika, Ponvannan, Jayaprakash, Ravi Maria, Sarath Lokitswa.
-
-K. G. The film has been composed by Venkatesh and has composed the film.. The film is being produced by 7 Miles Bur Second Productions.
-
-The film, which was announced last month, has not been released due to the storm and rain that hit Tamil Nadu. The production company said that the new release date of the film will be announced later.
-
-The film has been announced on the 13th of this month at the film House.
-
-The film is expected to attract the younger generation fans as he talks about the love of the hero who falls and falls in love with a woman who does not like.
-
-◼️
+...
 
 [Data](articles/3f0327fe.json)
 
-[Extended Data](ext_articles/3f0327fe.ext.json)
-
 ---
 
-### Actor Guna Finance Starring 'Alanku'
+### நடிகர் குணா நிதி நடிக்கும் ' அலங்கு' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
 
 *2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200333) · `ta`
 
-"Alanku" starring Guna Finance releases 27th. Director: S.B. Sakthivel. Cast: Gunanidhi, Shanmugam Muthusamy, Kali Venkat. Music: Ajis. Producers: T.Sabarish, Sangamitra Chaumia Anumani. Based on health & environmental issues.
+2022 ஆம் ஆண்டில் வெளியான 'செல்ஃபி' படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் அறிமுகமாகி பிரபலமான நடிகர் குணா நிதி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் ' அலங்கு 'எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக பிரத்யேக புகைப்படத்துடன் அறிவிக்கப்பட்டிருக்கிறது.
 
-🟩
+இயக்குநர் எஸ். பி. சக்திவேல் இயக்கத்தில் உருவாகி இருக்கும் ' அலங்கு ' எனும் திரைப்படத்தில் குணாநிதி, சண்முகம் முத்துச்சாமி, காளி வெங்கட்,  செம்பன் வினோத் ஜோஸ், சரத் அப்பாணி,  ரெஜின் ரோஸ், ஸ்ரீ ரேகா, கொற்றவை உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-The release date of the film 'Alanku' has been officially announced with a special photo of the popular actor Guna Finance Story, which made his debut in Tamil fans with 'Selphy' released in 2022.
+எஸ் .பாண்டி குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அஜீஸ் இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை டி ஜி ஃபிலிம் கம்பனி மற்றும் மேக்னஸ் புரொடக்ஷன்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் டி .சபரிஷ் மற்றும் சங்கமித்ரா சௌமியா அன்புமணி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
 
-Director S.. B.. Sakthivel's upcoming film 'Alanku' has staged many others including Gunanidhi, Shanmugam Muthusamy, Kali Venkat, Semban Vinod Jose, Sarath Appani, Regin Rose, Sri Rekha, Kothavai.
-
-Ajis has composed the film, which has been recorded by S. Pandi Kumar. The film was co -produced by producers T.Sabarish and Sangamitra Chaumia Anumani on behalf of DG Film Company and Magnus Productions.
-
-All the tasks of the film were completed and waited for the release. The film has been announced on the 27th of this month at the film House.
-
-The film is based on the danger of the inauguration of the health and the environmental waste for the health and the environmental waste.
-
-The film has also recorded a huge anticipation among the audience as the film has also recorded the life of the diaspora.
-
-◼️
+...
 
 [Data](articles/c69330b0.json)
 
-[Extended Data](ext_articles/c69330b0.ext.json)
-
 ---
 
-### Express Pearl - Database is off
+### එක්ස්ප්‍රස් පර්ල් - දත්ත ගබඩාව අක්‍රිය වෙලා
 
 *2024-12-03 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204000) · `si`
 
-Colombo Magistrate's Court orders investigation into Express Pearl case. CID deletes email data, database disabled due to technical issues. Deputy Solicitor General requests three months for investigation. Suspects' lawyers argue against unfair treatment. Magistrate warns suspects should appear in court.
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියේ විමර්ශනවලට භාජනය වී තිබෙන ඊමේල් පණිවිඩවලට අදාළ දත්ත මකා දැමීමේ සිද්ධිය සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළ පැමිණිල්ල යළි අප්‍රේල් මස 29 වනදා කැඳවන ලෙසට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
 
-🟩
+මෙම පැමිණිල්ල අද (03) කොළඹ අතිරේක මහෙස්ත්‍රාත් කේමින්ද පෙරේරා මහතා ඉදිරියේ කැඳවනු ලැබීය.
 
-The Colombo Magistrate's Court ordered the investigation into the investigation into the details of the Express Pearl of Express Pearl.
+එම අවස්ථාවේදී මෙම නඩුවේ සැකකරුවන් වශයෙන් නම්කර සිටින අදාළ නෞකාවේ දේශීය නියෝජිත සමාගමේ සේවකයින් 07දෙනා අධිකරණය හමුවේ පෙනී සිටියේය.
 
-The complaint was called before Colombo Additional Magistrate Kammada Perera today (03).
+එහිදී විමර්ශන සිදුකරන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් මාධව තෙන්නකෝන් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම විමර්ශනවලදී ඇතැම් ඊමේල් පණිවිඩවලට අදාළ දත්ත මකාදමා තිබෙන බවට කරුණු අනාවරණය වී ඇති බව පවසා ඇත.
 
-The seven employees of the local delegation, who are named in the case, appeared in court.
-
-Deputy Solicitor General, Madhawa Tennakoon, appearing on behalf of the Criminal Investigations Department (CID) has said that these investigations have deleted the data related to some emails.
-
-The data on the Digital Laboratories in the Digital Laboratory in the Digital Laboratory in the Digital Laborator of the Questionant Email Message has been retained and that the database has been disabled due to a technical fare.
-
-It is estimated that the database will cost about Rs.
-
-Accordingly, the Deputy Solicitor General has asked the court to grant him over three months.
+මෙම ප්‍රශ්නගත ඊමේල් පණිවිඩවලට අදාළ දත්ත රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවේ ඩිජිටල් විද්‍යාගාරයේ තිබෙන දත්ත ගබඩාවේ රඳවා තිබෙන බවත් තාක්ෂණික දෝෂයක් හේතුවෙන් එම දත්ත ගබඩාව අක්‍රිය වී ඇති බැවින් එම පිටපත් ලබාගැනීමට නොහැකි තත්ත්වයක් උද්ගත වී ඇති බවත් සඳහන් කර තිබේ.
 
 ...
 
 [Data](articles/4a89229a.json)
-
-[Extended Data](ext_articles/4a89229a.ext.json)
 
 ---
 
@@ -1027,8 +905,6 @@ There was no decision to reduce a 65 rupee a kilo tax on rice (about 200 US doll
 ◼️
 
 [Data](articles/debe8a5f.json)
-
-[Extended Data](ext_articles/debe8a5f.ext.json)
 
 ---
 
@@ -2491,5 +2367,55 @@ Mohamed Sally Naleem has previously served as the former Chairman of Eravur Urba
 [Data](articles/48b621b4.json)
 
 [Extended Data](ext_articles/48b621b4.ext.json)
+
+---
+
+### Train services delay at coastal and Chilaw railway
+
+*2024-12-03 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200281) · `ta`
+
+Train delays reported on coastal & Chilaw railways: Aluthgama train technical issue near Ratmalana; Chilaw affected by signal problem at Negombo station.
+
+🟩
+
+The Railway Department said that the train services were delayed on Tuesday (03) at the coastal and Chilaw railway line.
+
+A train traveling from Aluthgama has been subjected to a technical disorder near Ratmalana railway station. As a result, train services have been delayed on the coastal railway line.
+
+In addition, train services at Chilaw Railway Station have been affected due to a signal problem at the Negombo railway station.
+
+Due to this, the Railway Department further stated that the train services may be delayed at Chilaw Railway.
+
+◼️
+
+[Data](articles/ec683eb9.json)
+
+[Extended Data](ext_articles/ec683eb9.ext.json)
+
+---
+
+### Monthly Gas Prices tomorrow
+
+*2024-12-03 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203984) · `si`
+
+Litro Company announces gas price revision tomorrow. Price increase due to global market rise. Proposal sent to Ministry of Finance. Last amendment in October.
+
+🟩
+
+According to the monthly gas price revision, the price revision will be announced tomorrow (04), Litro Company said.
+
+A spokesperson of it stated that the price of gas prices and amendment will be revised this year's gas.
+
+The gas prices of the world market have gone up and the price of gas should be increased in the country, but it is underway to maintain a stable gas prices.
+
+It is said that the proposals have been forwarded to the Ministry of Finance.
+
+Last month, a gas priced amendment was not amended and the last time a gas priced amendment took place last October.
+
+◼️
+
+[Data](articles/f785888c.json)
+
+[Extended Data](ext_articles/f785888c.ext.json)
 
 ---

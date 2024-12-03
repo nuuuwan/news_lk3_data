@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 23:42:59**
+As of **2024-12-04 00:02:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,300 (100.0%) of 58,302 articles have been extended.
+58,302 (100.0%) of 58,302 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -486,6 +486,8 @@ Lion Brewery has a plant with an annual capacity of 200 million litres, of which
 
 [Data](articles/9f2f04ae.json)
 
+[Extended Data](ext_articles/9f2f04ae.ext.json)
+
 ---
 
 ### Allowance to take schools
@@ -747,6 +749,8 @@ The CAASL said it would proceed with the certification process of the applicatio
 ...
 
 [Data](articles/4976e912.json)
+
+[Extended Data](ext_articles/4976e912.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-03 09:31:29**
+As of **2024-12-03 09:01:37**
 
 ## Newspaper Stats
 
-*Scraped **58,164** Articles*
+*Scraped **58,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,79 +18,19 @@ dailyftlk | 4,019
 dailymirrorlk | 4,733
 adalk | 5,498
 adaderanalk | 7,052
-tamilmirrorlk | 8,266
+tamilmirrorlk | 8,264
 virakesarilk | 9,520
-adaderanasinhalalk | 10,048
+adaderanasinhalalk | 10,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,150 (100.0%) of 58,164 articles have been extended.
+58,143 (100.0%) of 58,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-03 (Tuesday)
-
-### ரயில் சேவையில் தாமதம்
-
-*2024-12-03 09:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவையில்-தாமதம்/175-348152) · `ta`
-
-இரத்மலானை மற்றும் சிலாபம் ரயில் மார்க்கத்தில் ஏற்பட்டுள்ள சமிக்ஞை கோளாறு காரணமாக கரையோர ரயில் மார்க்கத்தில் ரயில் சேவை தாமதமாகியுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/5a14bc11.json)
-
----
-
-### தேசிய பொலிஸ் ஆணைக்குழுவின் அதிரடி நடவடிக்கை
-
-*2024-12-03 09:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பொலிஸ்-ஆணைக்குழுவின்-அதிரடி-நடவடிக்கை/175-348151) · `ta`
-
-பிரதி பொலிஸ்மா அதிபர்கள் உட்பட சிரேஷ்ட பொலிஸ் அதிகாரிகள் பலர் உடனடியாக அமுலுக்கு வரும் வகையில் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
-
-இதன்படி, குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளர், சிரேஷ்ட பொலிஸ் அத்தியட்சகர் இ.எம்.எம்.எஸ். தெஹிதெனிய நுகேகொட பிரிவுக்கு இடமாற்றம் செய்யப்பட்டு சிரேஷ்ட பொலிஸ் அத்தியட்சகர் எச்.டபிள்யூ.ஐ.எஸ். முத்துமால குற்றப் புலனாய்வுத் திணைக்கள பணிப்பாளராக நியமிக்கப்பட்டுள்ளார். R
-
-◼️
-
-[Data](articles/2c62ea57.json)
-
----
-
-### සුරාබදු ගෙවීම් පැහැර හැර ඇති සමාගම්වල නිෂ්පාදන අත්හිටුවයි
-
-*2024-12-03 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203981) · `si`
-
-සුරාබදු ආඥා පනතට අනුව සුරාබදු ගෙවීම් තවදුරටත් පැහැර හරින සමාගම්වල නිෂ්පාදන කටයුතු අත්හිටුවීමටත් නිෂ්පාදන බලපත්‍ර ඊලඟ වර්ෂය සඳහා දීර්ඝ නොකිරීමටත් පියවර ගන්නා බව සුරාබදු දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව පෙන්වා දී ඇත්තේ මෙම වර්ෂයට අදාළ ව මත්පැන් නිෂ්පාදන සමාගම් 23ක් සඳහා නිෂ්පාදන බලපත්‍ර නිකුත් කර ඇති බවය.
-
-සුරාබදු නොගෙවූ සමාගම්වලට හිඟ බදු ගෙවීම සඳහා නොවැම්බර් මස 30 වන දින දක්වා කාලය ලබාදී තිබු අතර සමාගම් තුනක් හැර අනෙක් සියලු සමාගම් මත්පැන් බලපත්‍රවලට අදාළ හිඟ සුරාබදු ගෙවා ඇති බව සඳහන් වේ.
-
-ඒ අනුව වැලිසර ඩබ්ලිව්. එම්. මෙන්ඩිස් සහ සමාගම, කුරුණෑගල රෝයල් සිලෝන් ඩිස්ටලරීස් පුද්ගලික සමාගම සහ මීගොඩ මැකලම් බෘවරි සමාගම යන සමාගම් බදු මුදල් නොගෙවා ඇති බැවින් එම සමාගම්වලට එරෙහිව අධිකරණ ක්‍රියාවලියකට යොමුවී ඇති බවද සුරාබදු දෙපාර්තමේන්තුව පැවසීය.
-
-අදාළ නඩු තීන්දුවලට අනුව එම සමාගම් සම්බන්ධයෙන් ඉදිරි ක්‍රියාමාර්ග ගැනීමට ද නියමිතය.
-
-...
-
-[Data](articles/3b3ff698.json)
-
----
-
-### සිලින්ඩරයේ පාර්ලිමේන්තු කණ්ඩායම් නායකත්වය අනුරාධට
-
-*2024-12-03 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203980) · `si`
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් නායකයා ලෙස මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අනුරාධ ජයරත්න මහතා නම්කර තිබේ.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (02) පස්වරුවේ පැවති නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ මන්ත්‍රී කණ්ඩායම් රැස්වීමේ දී එම තීරණය ගෙන ඇති බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/f99aa4ff.json)
-
----
 
 ### US Assistant Secretary of State to visit Sri Lanka
 
@@ -109,8 +49,6 @@ The Consultations, along with separate meetings with senior Indian officials, wi
 ...
 
 [Data](articles/4f112bfd.json)
-
-[Extended Data](ext_articles/4f112bfd.ext.json)
 
 ---
 
@@ -132,26 +70,6 @@ The debate on the Resolution on the Vote on Account with regard to the first fou
 
 [Data](articles/a00c4889.json)
 
-[Extended Data](ext_articles/a00c4889.ext.json)
-
----
-
-### දුම්රිය ප්‍රමාදයක් ගැන දැනුම්දීමක්
-
-*2024-12-03 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203979) · `si`
-
-මුහුදුබඩ සහ හලාවත දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
-
-අලුත්ගම සිට පැමිණි දුම්රියක් අද (03) පෙරවරුවේ රත්මලාන දුම්රිය ස්ථානය ආසන්නයේ දී කාර්මික දෝෂයකට ලක්ව ඇති බැවින් මුහුදු බඩ දුම්රිය මාර්ගයේ දුම්රිය ධානය ප්‍රමාද වී ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-එමෙන්ම මීගමුව දුම්රිය ස්ථානයේ ඇතිවූ සංඥා දෝෂයක් හේතුවෙන් හලාවත මාර්ගයේ දුම්රිය ධාවනයට ද බාධා එල්ල වී තිබේ.
-
-මේ හේතුවෙන් හලාවත දුම්රිය මාර්ගයේ ද දුම්රිය ධාවනය ප්‍රමාද විය හැකි බව එම දෙපාර්තමේන්තුව පැවසීය.
-
-◼️
-
-[Data](articles/23e6f5ec.json)
-
 ---
 
 ### Eight Indonesians arrested without valid visas
@@ -169,8 +87,6 @@ Nuwara Eliya police is conducting further investigations into the incident.
 ◼️
 
 [Data](articles/9ec44090.json)
-
-[Extended Data](ext_articles/9ec44090.ext.json)
 
 ---
 
@@ -322,123 +238,83 @@ After India, Donald Luader, who arrived in the country, is also scheduled to vis
 
 ---
 
-### Transfers to many of the police chairs
+### පොලීසියේ ඉහළ පුටු රැසකට ස්ථානමාරු
 
 *2024-12-03 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203975) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+නියෝජ්‍ය පොලිස්පතිවරුන් ඇතුළු ජ්‍යෙෂ්ඨ පොලිස් නිලධාරින් 54 දෙනෙකුට ස්ථාන මාරුවීම් ලබා දී තිබේ.
 
+ජාතික පොලිස් කොමිෂන් සභාව මගින් වහාම ක්‍රියාත්මක වන පරිදි නියෝජ්‍ය පොලිස්පතිවරුන් 5 දෙනෙකු, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන් 35 දෙනෙකුට ස්ථාන මාරුවීම් ලබාදී ඇති බව පොලිස් මූලස්ථානය පැවසීය.
 
+ඊට අමතරව පොලිස් අධිකාරීවරුන් 7 දෙනෙකු සහ සහකාර පොලිස් අධිකාරීවරුන් 7 දෙනෙකුට ද ස්ථාන මරුවීම් ලබාදී තිබේ.
 
-Police transfers: 54 officers moved, including 5 DIGs & 5 SSPs. CID changes: HWS Muthumla new Director, EMMS Developed transferred to Nugegoda Division.
+ඒ අනුව, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂක තනතුරේ සිටි කාන්තා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී එච්.ඩබ්ලිව්.අයි.එස් මුතුමාල මහත්මිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ලෙස පත්කර ඇති බව පොලිස් මූලස්ථානය පැවසීය.
 
-🟩
-
-54 police officers including DIGs have been transferred.
-
-Five DIGs, five senior Superintendents of Police have been transferred with immediate effect, according to the National Police Commission.
-
-In addition, 7 Superintendents of Police and 7 Assistants have also given places.
-
-According to the Deputy Director of the Criminal Investigation Department (CID) HWS Muthumla has been appointed as the Director of the Criminal Investigation Department.
-
-Senior Superintendent of Police (CID) EMMS Developsed has been transferred as the Nugegoda Divisional Officer of Nugegoda.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ලෙස කටයුතු කළ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ඊ.එම්.එම්.එස් දෙහිදෙණිය මහතා නුගේගොඩ කොට්ඨාස භාර නිලධාරීවරයා ලෙස මාරුකර තිබේ.
 
 ◼️
 
 [Data](articles/956e6b86.json)
 
-[Extended Data](ext_articles/956e6b86.ext.json)
-
 ---
 
-### Eight foreigners arrested for visa
+### වීසා නැතිව සිටි විදේශිකයින් 08ක් අත්අඩංගුවට
 
 *2024-12-03 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203974) · `si`
 
-Here's a summary of 200 characters:
+වීසා නොමැතිව මෙරට රැඳී සිටි විදේශිකයන් 08 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
 
+ඊයේ 02) සවස් කාලයේ නුවරඑළිය පොලිස් වසමේ හාවාඑළිය ප්‍රදේශයේදී එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
 
-
-"8 Indonesian nationals (28-65) arrested in Nuwara Eliya for entering Sri Lanka without visas."
-
-🟩
-
-Eight foreigners have been arrested without visa.
-
-The suspects have been arrested in the Havariya area in the Nuwara Eliya Police Division last evening.
-
-The suspects are Indonesians who are between 28 and 65 years.
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 28 ත් 65 ත් අතර වයස්වල පසු වන ඉන්දුනීසියානු ජාතිකයින් බව පොලීසිය පවසයි.
 
 ◼️
 
 [Data](articles/dea14c4d.json)
 
-[Extended Data](ext_articles/dea14c4d.ext.json)
-
 ---
 
-### Parliament to meet today
+### පාර්ලිමේන්තුව අද රැස්වෙයි
 
 *2024-12-03 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203973) · `si`
 
-Parliament meets today under Speaker Ashoka Ranwala. President Anura Kumara Dissanayake presents proposal. Secretary General meeting scheduled today and tomorrow. Election set for 5 PM tomorrow. Parliament session continues until December 6th. Debate planned for December 5-6. Select Committee formation announced. Opposition leaders propose Dr. Harsha De Silva as Chairman. New Democratic Front agrees to appoint several opposition parties. Dr. Harsha de Silva previously chaired Cash Committee twice.
+පාර්ලිමේන්තුව අද (03) කථානායක අශෝක රංවල මහතාගේ ප්‍රධානත්වයෙන් රැස්වීමට නියමිතව තිබේ.
 
-🟩
+අද පෙරවරු 09.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර එහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද යෝජනාව පිළිබද විවාදය සිදුකිරීමට නියමිතය.
 
-Parliament is scheduled to meet by Speaker Ashoka Ranwala.
+පාර්ලිමේන්තු මහ ලේකම් කාර්යාලය පැවසුවේ අදාළ විවාදය අද සහ හෙට යන දෙදින තුළ පැවැත්වීමට නියමිත අතර ඊට අදාළ ඡන්ද විමසීම හෙට පස්වරු 5ට පැවැත්වීමට සැලසුම් කර ඇති බවය.
 
-The Parliament is due to meet the proposal to be presented by President Anura Kumara Dissanayake today.
+මෙම සතිය තුළ පාර්ලිමේන්තුව ලබන 6 වන දින දක්වා පැවැත්වීමට නියමිත අතර 2025 වසරේ පළමු මාස 4 සදහා වන ආණ්ඩුවේ අතුරු සම්මත ගිණුමට අදාළ යෝජනාව දෙසැම්බර් මස 5 වන දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
 
-The Secretary General of the Secretariat is scheduled to be held today and tomorrow, and the election is scheduled to be held tomorrow at 5 pm tomorrow.
+ඊට අදාළ විවාදය දෙසැම්බර් 5 සහ 6 යන දෙදින පැවැත්වීමට නියමිතය.
 
-The Parliament will be held until the 6th this week, and the proposal to the first four months of the first four months of the year 2025 is due to be presented to Parliament on 5th December.
+එමෙන්ම 10 වන පාර්ලිමේන්තුවේ තේරීම්කාරක සභාව ස්ථාපිත කිරීම ද අද සිදුකිරීමට සැලසුම් කර තිබේ.
 
-The debate will be held on December 5 and 6th Day.
+මේ අතර පාර්ලිමේන්තුවේ මුදල් කාරක සභාවේ සභාපති ධුරයට සමගි ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී  ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ නම යෝජනා කිරීමට විපක්ෂයේ පක්ෂ නායකයින් තීරණය කර තිබේ.
 
-It also plans to establish the Select Committee of the 10th Parliament.
-
-Meanwhile, opposition leaders have decided to propose Mr. Dr. Harsha De Silva, MP Dr. Harsha De Silva, the Chairman of the Committee of Parliament.
-
-It is said that the New Democratic Front has agreed to appoint several opposition parties including the UNP.
-
-Dr. Harsha de Silva was the Chairman of the Cash Committee on two previous occasions.
-
-◼️
+...
 
 [Data](articles/081335bb.json)
 
-[Extended Data](ext_articles/081335bb.ext.json)
-
 ---
 
-### Weather today
+### අද කාලගුණය
 
 *2024-12-03 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203972) · `si`
 
-Here's a summary in 200 characters:
+නැගෙනහිර පළාතේ අද (03) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සෙසු ප්‍රදේශවල ප්‍රධාන  වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පැවතිය හැකි බවය.
 
+මේ අතර මඩකලපුව සිට  සිට  ත්‍රිකුණාමලය හරහා  කන්කසන්තුරය දක්වාවන මුහුදු ප්‍රදේශවල  ස්ථාන ස්වල්පයක වැසි ඇති වේ.
 
-Eastern Province: Showers today. Other areas: Rainy weather. Coastal winds: 20-30 km/h. Sea conditions: Normal.
+දිවයින වටා වන මුහුදු ප්‍රදේශවල සුළං නිශ්චිත දිශාවකින් තොරව හමන අතර සුළං වේගය පැ.කි.මී. (20-30) පමණ වේ.
 
-🟩
-
-The Meteorology Department says that showers in the Eastern Province today (03).
-
-The department states that in other areas, there will be a rainy weather.
-
-Meanwhile, there will be showers at a few places in the sea areas off the Kankasanthura through Batticaloa to Trincomalee.
-
-Winds around the coastal areas around the island and the speed will be the speed of the wind.. Is about (20-30).
-
-The sea areas around the island can remain in normal nature, the Met Department added.
+දිවයින වටා වන මුහුදු ප්‍රදේශ සාමාන්‍ය ස්වභාවයේ පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
 
 ◼️
 
 [Data](articles/67bee004.json)
-
-[Extended Data](ext_articles/67bee004.ext.json)
 
 ---
 
@@ -2343,5 +2219,125 @@ Meanwhile, the film crew has stated that this is the second part of the film 'Lu
 [Data](articles/c3e7b0e2.json)
 
 [Extended Data](ext_articles/c3e7b0e2.ext.json)
+
+---
+
+### Cabinet's stand on scholarship is told in court
+
+*2024-12-02 16:28:07* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වයේ-ගැටලුව-ගැන-කැබිනට්-මණ්ඩලයේ-ස්ථාවරය-අධිකරණයට-කියයි/11-413405) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Cabinet recommends students for past three scholarship exams. Attorney General states this in Supreme Court. Students affected by Grade 5 Scholarship Exam return. Solicitor General Viraj Dayaratne represents AG. Case heard by Judges Surasena, Akala Vengapulu, Mahinda Samayawardena.
+
+🟩
+
+The Attorney General said that the Cabinet has been recommended for the past three scholarship examination.
+
+The Cabinet has decided that the students have been inaugurated as the students will be affected by the return of the Grade 5 Scholarship Examination.Solicitor General Viraj Dayaratne appearing on behalf of the Attorney General, the Attorney General has stated to the Supreme Court.
+
+The students who sat the first question paper of the Year 05 scholarship examination were told when they were taken into the Supreme Court when three questions were taken into external examination.
+
+The petition was taken up before the Supreme Court Judge Surasena, Akala Vengapulu and Mahinda Samayawardena.Mr. Mr.
+
+◼️
+
+[Data](articles/34ba2e4d.json)
+
+[Extended Data](ext_articles/34ba2e4d.ext.json)
+
+---
+
+### Hill rail service impact
+
+*2024-12-02 16:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவை-பாதிப்பு/76-348121) · `ta`
+
+Train derailment blocks Colombo-Badulla route. Passengers affected. Alternative routes announced: Hatton-Colombo and Kandy-Badulla.
+
+🟩
+
+The Nawalapitiya Railway Control Room has said that the passengers traveling from the Colombo fort to Badulla have been blocked due to the derailment of the train.
+
+The Nawalapitiya was interrupted at around 3.15 pm on Monday (02) near the Pensrose Station between the Nawalapitiya Iguroya and the Kalabapa railway stations.
+
+The Railway Control Room has announced that trains from Badulla to Colombo will run from Hatton Railway Station to Colombo and Kandy to Badulla.
+
+◼️
+
+[Data](articles/811fdbf6.json)
+
+[Extended Data](ext_articles/811fdbf6.ext.json)
+
+---
+
+### Fishermen who smuggled ice drugs were brought to Colombo port
+
+*2024-12-02 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200225) · `ta`
+
+Sri Lankan fishermen caught smuggling ice drugs in Indian seas. Two boats seized by Indian Navy. One boat had 400kg ice. Fishermen brought to Colombo port on 2nd. Incident occurred on 29th.
+
+🟩
+
+Sri Lankan fishermen who smuggled ice drugs in two fishing boats in the Indian seas have been brought to the Port of Colombo on Monday (02).
+
+The two boats were seized by the Indian Navy following the intelligence exchange between the Indian Navy and the Sri Lanka Navy.
+
+It has been revealed that one boat had about 400 kg of ice and the other boat had gone for help.
+
+The Indian Navy has taken the fishermen on the 29th of this month.
+
+◼️
+
+[Data](articles/e7474d7f.json)
+
+[Extended Data](ext_articles/e7474d7f.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-12-02 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200238) · `ta`
+
+US dollar exchange rate: Buy 286.40 Rs, Sell 294.97 Rs per USD as per Central Bank rates on 02/2023.
+
+🟩
+
+The US dollar purchasing price was 286.3962 rupees and the sales price were 294.9730 rupees based on the Central Bank's currency exchange rate today (02).
+
+◼️
+
+[Data](articles/208e368b.json)
+
+[Extended Data](ext_articles/208e368b.ext.json)
+
+---
+
+### Rice mill owners reboot the rice stock price
+
+*2024-12-02 16:09:10* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මෝල්-හිමියන්-සහල්-තොග-මිල-යළි-වැඩිකරයි/11-413404) · `si`
+
+Rice mill owners raise prices: Nadu rice now ₹255/kg, Samba ₹240/kg. Mills advise customers to take loans to afford. Owners claim unable to control prices due to increasing costs.
+
+🟩
+
+The rice mill owners have increased the prices of Nadu, Samba and Kary Samba rice (02).
+
+The victims have been increased by a kilogram of nadu rice, Rs. 255 and Rs.
+
+The rice Malls have advised the custodar to bank to borrow money to the price.
+
+The cost of Rs.
+
+Rice mill owners have said that they cannot sell rice to control prices, as they increase rice prices from time to time.
+
+Last week, the rice mill owners have been released to a kilo of nadu rice, Rs. 235-240, Samba, Rs.
+
+◼️
+
+[Data](articles/0f790a05.json)
+
+[Extended Data](ext_articles/0f790a05.ext.json)
 
 ---

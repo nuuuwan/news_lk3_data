@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 12:02:25**
+As of **2024-12-04 12:42:36**
 
 ## Newspaper Stats
 
-*Scraped **58,394** Articles*
+*Scraped **58,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,87 @@ adalk | 5,527
 adaderanalk | 7,088
 tamilmirrorlk | 8,309
 virakesarilk | 9,556
-adaderanasinhalalk | 10,086
+adaderanasinhalalk | 10,088
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,380 (100.0%) of 58,394 articles have been extended.
+58,388 (100.0%) of 58,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### மாவீரர் விவகாரம்: இளைஞனுக்கு பிணை
+### ජීවිත ආරක්ෂාව වෙනුවෙන් එක් අයෙකුට එක් ගිනිඅවියක් පමණයි
+
+*2024-12-04 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204025) · `si`
+
+පුද්ගලයෙකුගේ ජීවිත ආරක්ෂාව සඳහා එක් ගිනිඅවියක් පමණක් ලබාදීමට තීරණය කර ඇති බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+
+ගිනිඅවි සම්බන්ධයෙන් සිදුකළ සමීක්ෂණයකින් අනතුරුව මෙම පියවර ගෙන ඇති බව එම අමාත්‍යංශය සඳහන් කළේය.
+
+එක් පුද්ගලයෙකු සඳහා එක් ගිනිඅවියකට වැඩියෙන් භාවිත කිරීමට අවශ්‍ය වන්නේ නම්, ඒ සම්බන්ධයෙන් ආරක්ෂක විශ්ලේෂණයක් සිදුකර අවශ්‍ය ක්‍රියාමාර්ග ගැනීමට නියමිතය.
+
+කෙසේවෙතත් එම විශ්ලේෂණයෙන් අනතුරුව තවත් ගිනිඅවියක් නිකුත් කරන්නේ ද? නැද්ද? යන්න අවසන් තීරණය ගැනීම ආරක්ෂක අමාත්‍යංශය සතු බව ද ඔවුන් සඳහන් කළේය.
+
+සිවිල් පුද්ගලයින්ට නිකුත් කර ඇති ගිනිඅවි පිළිබද සමීක්ෂණ මේ වන විට ආරක්ෂක අමාත්‍යංශ පරිශ්‍රයේ දී සිදුකෙරේ.
+
+සිවිල් පුද්ගලයින් සඳහා ගිනිඅවි 1,500කට වැඩි ප්‍රමාණයක් නිකුත් කර ඇති අතර ඇතැම් පුද්ගලයින්ට එක් ගිනිඅවියකට වඩා වැඩි සංඛ්‍යාවක් නිකුත් කර ඇති බවට ද තොරුතුරු අනාවරණය වී තිබේ.
+
+සිවිල් පුද්ගලයින්ට නිකුත් කර ඇති ගිනිඅවි යළි ලබා දෙන ලෙස මීට පෙර ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබුණි.
+
+◼️
+
+[Data](articles/ec993f6a.json)
+
+---
+
+### Heroes affair: Bail for young man
 
 *2024-12-04 11:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-விவகாரம்-இளைஞனுக்கு-பிணை/175-348227) · `ta`
 
-தமிழீழ மாவீரர் தினத்தை முன்னிட்டு தனது முகநூல் பக்கத்தில் பொய்யான தகவல்களை வெளியிட்ட குற்றச்சாட்டின் பேரில் விளக்கமறியலில் வைக்கப்பட்டிருந்த சமூக ஆர்வலர் கெலும் ஜயசுமனவை பிணையில் விடுவிக்க கொழும்பு நீதவான் திலின கமகே, புதன்கிழமை (04) உத்தரவிட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-சமூக ஊடகங்களில் பொது ஒழுங்கை மீறும் வகையிலும், இனங்களுக்கு இடையிலான நல்லிணக்கத்தை சீர்குலைக்கும் வகையிலும் செய்திகள் பரப்பப்பட்டமைக்கு எதிராக குற்றப் புலனாய்வுப் பிரிவு பொலிஸாரின் இணைய ஊடுருவல் புலனாய்வுப் பிரிவினரால் சந்தேகநபர் கைது செய்யப்பட்டு நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து,  முன்வைக்கப்பட்ட உண்மைகளை ஆராய்ந்த நீதவான் பிணை வழங்கியுள்ளார்.
 
-சந்தேகநபர் தொடர்பில் மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும், சந்தேக நபரை விளக்கமறியலில் வைக்குமாறும் குற்றப் புலனாய்வுப் பிரிவினர் கோரியுள்ளனர்.
 
-...
+Colombo Magistrate releases social activist Kelum Jayasumana on bail. Charged with spreading false info on Facebook. CID opposed release but magistrate granted bail without evidence due to lack of public disruption proof.
+
+🟩
+
+Colombo Magistrate Thilina Kamage on Wednesday (04) has ordered the release of social activist Kelum Jayasumana, who was detained on the allegations of false information on his Facebook page on his Facebook page.
+
+The magistrate has granted bail on the fact that the suspect was arrested and produced in court by the Criminal Investigation Investigation Unit of the Criminal Investigation Department (CID) against the spread of news spreading public order on social media and disrupting inter -ethnic harmony.
+
+The Criminal Investigation Department has demanded that further investigations into the suspect and the suspect be kept in detention.
+
+Asked how the suspect could be interrogated in the absence of evidence of public disruption, the magistrate ordered the bail to be granted without evidence.
+
+The Magistrate ordered the release of the suspect on two bail
+
+◼️
 
 [Data](articles/e2b7b16e.json)
+
+[Extended Data](ext_articles/e2b7b16e.ext.json)
+
+---
+
+### බූස්ස බන්ධනාගාර රෝහලෙන් දුරකථන උපාංග තොගයක් හමුවෙයි
+
+*2024-12-04 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204024) · `si`
+
+බූස්ස ‍බන්ධනාගාර රෝහල් පරිශ්‍රයේ සහ බන්ධනාගාර පරිශ්‍රය තුළ තිබී දුරකථන උපාංග තොගයක් සොයාගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බලකා බූස්ස අධිආරක්ෂිත බන්ධනාගාර කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව බන්ධනාගාර රෝහල් භූමිය තුළ සිදුකළ සෝදිසි මෙහෙයුමක දී එම උපකරණ තොගය සොයාගෙන ඇති බව සඳහන්ය.
+
+එහි දී බන්ධනාගාර රෝහළ තුළ හා බන්ධනාගාරය තුළ තිබී ජංගම දුරකථන චාජර් 05ක්, ඩේටා කේබල් 08ක් සොයාගෙන ඇති බව සඳහන්ය.
+
+සොයාගත් දුරකථන උපාංග තොගය වැඩිදුර විමර්ශන කටයුතු සඳහා බන්ධනාගාර පාලනාධිකාරිය වෙත භාර දී ඇති බව පොලිස් විශේෂ කාර්ය බළකාය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6bfeb9b3.json)
 
 ---
 
@@ -240,7 +296,11 @@ Social activist Kelum Jayasumana who was arrested for sharing Mahaviru commemora
 
 He has been ordered to be released on bail after he was produced before Colombo Magistrate’s Court, Ada Derana reporter said.
 
-◼️
+During the trial, the officers of the Criminal Investigation Department (CID) stated before the court that the suspect had downloaded and reposted a picture which was initially posted by a French woman on Facebook that contained the proscribed symbols of the LTTE organization.
+
+Stating that this had disrupted public order and ethnic harmony, the officers also stated that no such event had been held in the North. Since the investigation has not been completed, the officers of the CID requested that the suspect be further remanded in custody.
+
+...
 
 [Data](articles/9db9e622.json)
 
@@ -422,17 +482,29 @@ In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 1
 
 ---
 
-### මම අර්ච්චුනාට ගැහුවේ නෑ...සජබ මන්ත්‍රී චෝදනා ප්‍රතික්ෂේප කරයි
+### I didn't hit the arrival of the arrival ... Commendation denies the allegations
 
 *2024-12-04 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204020) · `si`
 
-පාර්ලිමේන්තුවේ විපක්ෂ නායක කාර්යාලය තුළදී ස්වාධීන මන්ත්‍රී රාමනාදන් අර්චුනා මහතාට පහර දුන් බවට කරන චෝදනා ප්‍රතික්ෂේප කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සුජිත් සංජය පෙරේරා මහතා පවසයි.
+Here's a summary in 200 characters:
 
-ඊයේ (03) පාර්ලිමේන්තු රැස්වීමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+
+Sujith Sanjaya Perera denies assault claim against Ramanathan Archuna. Incident occurred at Opposition Leader's office. Archuna alleges assault, apologizes for racist remarks in Parliament.
+
+🟩
+
+Parliamentarian PS member Sujith Sanjaya Perera says that he will deny the allegations that Independent MP Ramanathan Archuna was assaulted by the Opposition Leader of the Opposition.
+
+He was speaking to the media yesterday (03).
+
+"No problem. The newly named Achchutach had made a statement that I was attacked by him. In no case I didn't work to attack him. However, there was a incident at the Opposition's Office. He came to the Opposition Leader's office and saw an argument with the opposition leader.. The elephants were sitting at the chair. The Alawatuwa MP was speaking and told him to talk to the Speaker with party leaders and to resolve the Speaker. But he did not accept that. There he said that he was not with you, but I was not talking. There I said what we know that we knew that it was not fair to do this to the opposition leader, but the opposition leader in the opposition, or even to the Opposition Board.. He said you said this would not apply to this. There was an argument. "
 
 ...
 
 [Data](articles/701fd457.json)
+
+[Extended Data](ext_articles/701fd457.ext.json)
 
 ---
 
@@ -544,23 +616,29 @@ The exam will be held from December 21 to December 31, the Commissioner General 
 
 ---
 
-### ඉදිරි සති දෙකේ සහල් ආනයනය නොකළොත් ප්‍රශ්න ගොඩක්
+### If the rice is not imported next two weeks, a lot of questions
 
 *2024-12-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204019) · `si`
 
-ඉදිරි සති දෙක ඇතුළත සහල් ආනයන කිරීම සඳහා රජය පියවර නොගත් හොත් දැඩි සහල් හිඟයක් ඇති වන බව සමස්ත ලංකා සුළු හා මධ්‍ය පරිමාණ වීමෝල් හිමියන්ගේ සංගමය පවසයි.
+Rice shortage looms: Gov urged to act within 2 weeks. CPAs warn of crisis if imports fail. Long-term solutions sought; short-term market control proposed. Flood relief shifted to reconstruction efforts.
 
-එහි සභාපති යූ. කේ. සේමසිංහ මහතා සඳහන් කළේ, මෙම ගැටලුව විසඳීම සඳහා දීර්ඝ කාලීන වැඩපිළිවලක් සකස් කිරීම රජයේ වගකීමක් බවය.
+🟩
 
-"දීර්ඝ කාලීන විසඳුමකට යා යුතුයි. එසේ නොගියොත් නැවත නැවත මේ අර්බුදයට යා හැකි වෙනවා. යල කන්නයේ වී මිලදී ගැනීමට වී අලෙවි මණ්ඩලය මඟින් මේ අර්බුදය යටපත් කිරීමට ක්‍රමවත් වැඩපිළිවෙලක් සකස් කළ යුතුයි. ඒ වගේම කෙටි කාලීන විසඳුමක් ලෙස රජය විසින් ඉතා ඉක්මනින් විදෙස් රටවලින් සහල් ආනයනය නොකළහොත් මේ තත්ත්වය තුළ වෙළෙඳපොළේ දැඩි සහල් හි﻿ඟයක් ඇති විය හැකිය."
+All CPAs Small and Medium Scaleholdoreholders Association says that if the government does not take measures to import rice within the next two weeks, the entire Lanka Small and Medium Scaleholdoleholds Association says.
 
-ඔහු සඳහන් කළේ බියර් සහ සත්ත්ව ආහාර නිෂ්පාදනය කිරීම සඳහා සහල් ලබා දීමේදී එය නියාමනය කිරීම ඉතා වැදගත් කාරණයක් බවය.
+Its Chairman U. K. Semasinghe said that it is the responsibility of the government to develop a long term program to solve this problem.
 
-මේ අතර පැවති ගංවතුර තත්ත්වයෙන් හානියට පත්වූ කුඹුරු සඳහා වන්දි ලබාදීම වෙනුවට ඒවා යළි වගා කිරීමට පියවර ගතයුතු බව හිටපු කෘෂිකර්ම අධ්‍යක්ෂ කේ. බී. ගුණරත්න මහතා පවසයි.
+"Should go to a long-term solution. If not, you can go back to this crisis. Paddy Marketing Board should be prepared by the Paddy Marketing Board to buy paddy in Yala season. If the government does not import rice from foreign countries, as a short-term solution, the government may have a sole in the market in the market. "
+
+He said that it is very important to regulate the rice to produce beer and vegan.
+
+Meanwhile, instead of compensation for the floods affected by the flood victims, steps should be taken to reconstruct them. B. Says Mr. Gunaratne.
 
 ◼️
 
 [Data](articles/08d8be4b.json)
+
+[Extended Data](ext_articles/08d8be4b.ext.json)
 
 ---
 
@@ -584,23 +662,35 @@ The main opposition Democratic Party called for Yoon, who has been in office sin
 
 ---
 
-### සිරිපාදේ ප්‍රතිසංස්කරණයට යැයි පවසා මුදල් ගරන ජාවාරමක් ?
+### A crench racket called for renovation?
 
 *2024-12-04 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204018) · `si`
 
-ශ්‍රී පාදස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු සඳහා බව පවසමින් මුදල් රැස්කිරීමේ සංවිධානයක් පිළිබඳ තොරතුරු අනාවරණය වී ඇති බව ගෞතම ශ්‍රී පාදස්ථානාධිපති පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-උන්වහන්සේ පවසන්නේ 'සමනල කන්ද රසික එකමුතුව' යැයි  සඳහන් සංවිධානයක් විසින් මෙම මුදල් රැස්කිරීම් සිදුකර ඇති බවය.
 
-"ඒ අය පරිසරය රකින්න කියලත් එක එක විදියට යෝජනා කරනවා. ඒ යෝජනා කරන අතරේ කූඨ ලෙස මිනිසුන් නොමඟ යවලා, ලක්ෂ ගණනක් ආධාර ලබාගන්න කටයුතු කරලා තියෙනවා. ඒ කිසිම කෙනෙකුට වැටේ තීන්ත ගාන්න හෝ ශ්‍රී පාදස්ථානය සුද්ධ පවිත්‍ර කරලා තීන්ත ආලේප කරන්න හෝ අපි භාරදීලා නෑ. ඒ හැමකෙනෙක්ම මහ දිසාපතිතුමාගෙන් අවසර ගන්න ඕනේ එහෙම නැත්නම් ඒ භාරකාරත්වයෙන් අවසර ගන්න ඕනේ. අවසර නොලබා කිසිවෙක් කරන්නේ නෑ. උඩ මලුවේ කරන වැඩ සම්මාදම් කිරීමෙන් තොරව සිදුකරන්නේ."
 
-නොයෙක් සංවිධානවලට මුදල් ලබා දීමෙන් වළකින ලෙස පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි ජනතාවගෙන් ඉල්ලා සිටියේය.
+Organization claims environmental protection, but critics argue misleading public. Renovation plans disputed, especially for Hatton-Nallutuwa Road. Butterfly Money Facebook group shares information about Siripada Pilgrimage.
 
-කෙසේ වෙතත් මෙම චෝදනාව සම්බන්ධයෙන් අදාළ සංවිධානය මුහුණුපොතේ සටහනක් තබමින් සඳහන් කර ඇත්තේ, තම සංවිධානය අදාළ චෝදනාව තරයේ ප්‍රතික්ෂේප කරන බවය.
+🟩
+
+Mr. Bengamage Dhammala Dhammala Dhammala Dhammala Dhammawardena, Ven
+
+The Thera says that the money has been made by the organization.
+
+"They suggest that they want to protect the environment. While suggesting, clients have mislead people, hundreds of thousands of assistance. We have not accepted any one to paint the fall or clean the Sri Leader. All of them need to get permission to take permission if it should be allowed. No one will do without permission. Do not make the work of the above flower. "
+
+Ven
+
+However, the organization has stated that the organization has noted a note in the face or organization.
+
+We reject the Group of Hatton Nallutunnewa road, which is named after the "Samanala Money", who is not permission to be done without permission from the public sector.. We see that the leader of the monks have been condemned and blamed by another group of people.
 
 ...
 
 [Data](articles/e1860513.json)
+
+[Extended Data](ext_articles/e1860513.ext.json)
 
 ---
 
@@ -646,37 +736,53 @@ The new time table related to the said dates will be provided to the students at
 
 ---
 
-### ඔක්තෝබරයේ අපනයන ඉහළට
+### Exports on October
 
 *2024-12-04 07:45:48* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්තෝබරයේ-අපනයන-ඉහළට/11-413443) · `si`
 
-2024 ඔක්තෝම්බර් මාසයේදී වෙළඳ භාණ්ඩ අපනයන කාර්ය සාධනය ඇමෙරිකානු ඩොලර් මිලියන 1,097.1 ක් වූ අතර එය 2023 ඔක්තෝබර් මාසයට සාපේක්ෂව 18.22% ක වර්ධනයක් ෙපන්නුම් කරන බව ශ්‍රී ලංකා රේගුව නිකුත් කළ තාවකාලික දත්තවලට අනුව පෙන්වයි.
+Here's a summary of the text in approximately 200 characters:
 
-එසේම 2024 සැප්තැම්බර් මාසයට සාපේක්ෂව 2024 ඔක්තෝම්බර් මාසයේදී අපනයන කාර්ය සාධනය 8.44% කින් වැඩි විය.
 
-2024 ඔක්තෝබර් මාසය සඳහා සේවා අපනයනවල ඇස්තමේන්තුගත වටිනාකම ඇමෙරිකානු ඩොලර් මිලියන 323.17 ක් වූ අතර එය 2023 අනුරූප කාලපරිච්ඡේදයට වඩා 19.75% කින් වැඩි විය.
 
-එහි ප්‍රතිඵලයක් වශයෙන්, 2024 ඔක්තෝම්බර් මාසය සඳහා වෙළඳ භාණ්ඩ සහ සේවා යන දෙකම ඇතුළුව මුළු අපනයනය, 2023 අනුරූප කාලපරිච්ඡේදයට වඩා 18.57% ක වර්ධනයක් සහිතව, ඇමෙරිකානු ඩොලර් මිලියන 1,420.27 ක් ලෙස වාර්තා විය.
+"Oct '24: Commodity exports $1,097.1M (+18.22% vs Oct '23). Service exports $323.17M (+19.75%). Total exports $18,420.27M (+18.57%). Export growth outperforms Sept '24 (+8.44%). Strong overall export performance."
+
+🟩
+
+In October 2024, the exports of commodities was US $ 1,097.1 million, which would increase 18.22% over October 2023.
+
+Export performance increased by 8.44% over October 2024 compared to September 2024.
+
+The estimated value of the service for October 2024 was US $ 323.17 million, increased by 19.75% more than 2023 corresponding period.
+
+As a result, 2024, the total exports, including both merchants and services for October, was $ 18,420.27 million grew by 18.57% over the corresponding period.
 
 ◼️
 
 [Data](articles/9a87f00b.json)
 
+[Extended Data](ext_articles/9a87f00b.ext.json)
+
 ---
 
-### අහංගම ද්විත්ව මනුෂ්‍ය ඝාතනයට සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested for murder of Ahangama
 
 *2024-12-04 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204016) · `si`
 
-අහංගම පොලිස් වසමේ වැල්හෙන්ගොඩ ප්‍රදේශයේ නිවසක යුවළකගේ ගෙල කපා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+A suspect was arrested in Ahangama for murdering a couple whose bodies were found in a house. The incident occurred on October 4. Police officers from the Ahangama division made the arrest in Fort area after reviewing the case.
 
-පොලීසිය පැවසුවේ, පසුගිය ඔක්තෝබර් මස 4 වනදා මෙම ඝාතනයන් සිදුව තිබූ බවය.
+🟩
 
-ඒ අනුව සිදුකළ විමර්ශනවලින් අනතුරුව ඊයේ (03) දහවල් ගාල්ල කොටුව ප්‍රදේශයේ දී අහංගම පොලීසියේ නිලධාරීන් විසින් අදාළ සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested regarding the death of a couple of a house of a house of a house in Welhangagoda, Ahangama Police Division.
+
+The police said that the killings had occurred on October 4.
+
+Accordingly, the suspects were arrested by the Ahangama police officers in the Fort area in Fort area following the review.
 
 ◼️
 
 [Data](articles/36c12e54.json)
+
+[Extended Data](ext_articles/36c12e54.ext.json)
 
 ---
 
@@ -702,21 +808,31 @@ When reserves were hitting negative territory during the last currency crisis, t
 
 ---
 
-### ඊ පාස්පෝට් මිලියන පහක් මිලදී ගැනීමේ සිද්ධිය ගැන අධිකරණයට දැනුම්දීමක්
+### An informed of court on purchasing five million purchases
 
 *2024-12-04 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204015) · `si`
 
-ඉකුත් රජය සමයේ ආගමන හා විගමන දෙපාර්තමේන්තුවට "ඊ විදේශ ගමන් බලපත්‍ර" මිලියන 05ක් මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විසින් විමර්ශනයක් සිදුකරන බව නීතිපතිවරයා අභියාචනාධිකරණයට දැනුම් දී තිබේ.
+Court case summary: Attorney General informs Court of Appeal about immigration department investigation. Additional Solicitor General requests time to submit observations on purchasing tender probe. Court orders examination on January 23.
 
-එම විදේශ ගමන් බලපත්‍ර මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය අභියෝගයට ලක් කරමින් එපික් ලංකා පුද්ගලික සමාගම විසින් ඉදිරිපත් කළ පෙත්සම ඊයේ (03) මෝසමක් මාර්ගයෙන් කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් සුමති ධර්මවර්ධන මහතා මෙම දැනුම් දීම සිදුකළේය.
+🟩
 
-මෙම පෙත්සම මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The Attorney General has informed the Court of Appeal that the Department of Immigration and Emigration has been investigated by the Department of Immigration and Emigration.
 
-එහිදී අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින් කියා සිටියේ, මෙම ඊ විදේශ ගමන් බලපත්‍ර මිලියන පහක් මිලදී ගැනීමේ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විසින් විමර්ශනයක් ආරම්භ කර තිබෙන බවය.
+Additional Sumitar General Sumathi Dharma Dharma Dharmawardena appearing on behalf of the Attorney General yesterday challenged the Attorney General.
+
+This petition is Mohammed Lafar Thahaire and P. The Court of Appeal consisting of Kumaran Ratnam was called before the judge.
+
+Additional Sumathi Dharmadawardena, Sumathi Dharmawardena, said the National Procurement Committee has launched an investigation into how the purchasing tender was awarded the purchasing tender.
+
+Additional Solicitor General said that the committee had requested a week to submit the observations on the investigation.
+
+He also requested the court to give a date to inform the progress of the activities.
 
 ...
 
 [Data](articles/cbaeecd7.json)
+
+[Extended Data](ext_articles/cbaeecd7.ext.json)
 
 ---
 
@@ -744,27 +860,33 @@ In addition, in other parts of the country, a balanced weather is said. (A)
 
 ---
 
-### උසස් පෙළ විභාගයේ දෙවන අදියර අද සිට ඇරඹේ
+### The second phase of the GCE Advanced Level Exam begins today
 
 *2024-12-04 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204014) · `si`
 
-කල්දැමූ අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ දෙවන අදියර අද (04) සිට යළි ආරම්භ වීමට නියමිතය.
+GCE Advanced Level Exam Phase 2 resumes today after weather delay. Original schedule reinstated until Dec 20. Candidates should report to nearest center if roads impassable.
 
-දිවයිනට බලපා තිබූ අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් නොවැම්බර් මස 27 වන දින සිට දින 06ක කාලයක් උසස් පෙළ විභාගය කල්දැමීමට විභාග දෙපාර්තමේන්තුව පියවර ගත්තේය.
+🟩
 
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කළේ, විභාග කාලසටහනේ සඳහන් පරිදි අද සිට විභාග කටයුතු සිදුකෙරෙන බවය.
+The second phase of the Advanced Level Examination will be resumed today (04).
 
-ඒ අනුව අද සිට දෙසැම්බර් මස 20 වන දින දක්වා මීට පෙර නිකුත් කළ කාලසටහන අනුව විභාගය පැවැත්වෙනු ඇත.
+The Examinations Department took steps to postpone the GCE A / L examination for six days from the April 27 due to inclement weather.
 
-විභාගය නොපවැත්වු දිනයන් සඳහා දෙසැම්බර් 21 වනදා දක්වා දෙසැම්බර් 31 වනදා දක්වා විභාගය පැවැත්වෙන බව ද විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+Commissioner General of Examinations Amitith Jayasundara said that the examination will be held today as stated in the examination scheme.
 
-ඒ අනුව නව කාලසටහන දෙසැම්බර් මස 7 වන සෙනසුරාදා සියලු විභාග අපේක්ෂකයින් වෙත ලබාදීමට නියමිතය.
+Accordingly, the examination will be held on the previous timetable from today to December 20.
 
-මේ අතර තවදුරටත් මාර්ග අවහිරතා ඇති ප්‍රදේශවල දරුවන්ට ළඟම විභාග මධ්‍යස්ථානය වෙත ගොස් විභාගයට පෙනී සිටීමට හැකියාව පවතින බව ද විභාග කොමසාරිස්වරයා වැඩිදුරටත් පැවසීය.
+The Examinations Commissioner General of Examinations Amit Jayasundara said that the examination will be held on December 31st for December 31.
+
+Accordingly, Saturday, Saturday, 7th of December is due to candidates.
+
+The Examinations Commissioner added that the roadblounted areas have gone to the closest examination center and sit the hearing.
 
 ◼️
 
 [Data](articles/f4f34cb8.json)
+
+[Extended Data](ext_articles/f4f34cb8.ext.json)
 
 ---
 
@@ -2289,47 +2411,5 @@ Accordingly, it has been decided to grant permission for the importation of rice
 [Data](articles/6cee6370.json)
 
 [Extended Data](ext_articles/6cee6370.ext.json)
-
----
-
-### 18 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-12-03 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103972/18-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-A special operation conducted by the Sri Lanka Navy has led to the seizure of an Indian fishing boat and the apprehension of 18 Indian fishermen, poaching in Sri Lankan waters.
-
-This special operation was conducted off Veththalakerni, Jaffna on Monday (December 02). When the apprehension was made, the fishing boat had crossed the International Maritime Boundary Line by approximately 30 nautical miles, entering Sri Lankan waters.
-
-The Navy said the Northern Naval Command deployed Fast Attack Craft attached to the Command to send away a cluster of Indian fishing boats, having spotted they were engaging in illegal fishing in Sri Lankan waters off Veththalakerni.
-
-The operation resulted in the seizure of 01 Indian fishing boat and the apprehension of 18 Indian fishermen continued to remain in Sri Lankan waters.
-
-...
-
-[Data](articles/cb9e21da.json)
-
-[Extended Data](ext_articles/cb9e21da.ext.json)
-
----
-
-### 291 267 people who registered and went to work in November
-
-*2024-12-03 18:46:22* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-අවසන්වන-විට-ලියාපදිංචි-වී-වීදෙස්-රැකියාවට-ගිය-පිරිස-291-267ක්/11-413439) · `si`
-
-Sri Lanka: 22685 registered for foreign employment in Nov 2024. 291,267 went abroad, 6.9% increase from 2023. Most jobs in Kuwait (71,210), UAE (48,330), Qatar (4,346), Japan (7,983), South Korea (6,925). 172,746 male, 18,821 female workers. Special program launched for children of working parents.
-
-🟩
-
-22685 Sri Lankans registered with the Sri Lanka Bureau of Foreign Employment in November, 2024. By the end of the November of 2024, 291,267 persons have gone abroad to employed at $ 6.9% over 2023. Accordingly 274,265 persons have left for work from January to November 2023.
-
-178,914 workers abroad from January to November from January to November.And 81 159 leaving for low skilled jobs. 2024 out of the abroad, the number of male workers is a172,746. The number of female workers is a18,821.
-
-Meanwhile, most of the highest number of jobs from January to November this year, the largest employment is located to Kuwait, which is 71 210. The United Arab Emirates 48888,48,30 008 and Qatar has left for 4346 for the Kingdom of Qatar, 7983 for Japan and 6925 for South Korea.
-
-...
-
-[Data](articles/3d3d0c31.json)
-
-[Extended Data](ext_articles/3d3d0c31.ext.json)
 
 ---

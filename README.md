@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 15:26:35**
+As of **2024-12-04 15:42:42**
 
 ## Newspaper Stats
 
-*Scraped **58,413** Articles*
+*Scraped **58,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,531
 adaderanalk | 7,091
-tamilmirrorlk | 8,317
+tamilmirrorlk | 8,318
 virakesarilk | 9,556
 adaderanasinhalalk | 10,089
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,411 (100.0%) of 58,413 articles have been extended.
+58,411 (100.0%) of 58,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### சதொச தேங்காய் ரூ.130
+
+*2024-12-04 15:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-தேங்காய்-ரூ-130/175-348241) · `ta`
+
+எதிர்வரும் இரண்டு வாரங்களுக்குள் சதொச ஊடாக தேங்காய் ஒன்று 130 ரூபாவிற்கு விற்பனை செய்யப்படும் என வர்த்தக, உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர்  வசந்த சமரசிங்க பாராளுமன்றத்தில் தெரிவித்தார்.
+
+“தேங்காய் உற்பத்தி தொடர்பாக அரசுக்கு சொந்தமான நிறுவனங்களின் அமைப்பு உள்ளது.அரசு தோட்டங்களில் உள்ள தென்னை பொருட்களை நகர்ப்புற மக்களுக்கு 130 ரூபாய்க்கு விற்பனை செய்ய நடவடிக்கை எடுத்து வருகிறோம்.
+
+மேலும், 220 ரூபாய் விலையில் இரண்டு இலட்சம் கிலோ கிராம் அரிசியை நாளொன்றுக்கு  விடுவிப்பதற்கு அரிசி ஆலை உரிமையாளர்கள் இணங்கியுள்ளதாகவும் அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/9f86af6f.json)
+
+---
 
 ### பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் தலைவி தெரிவு
 
@@ -2449,29 +2465,5 @@ It is reported that social networks are trying to suppress the media. The presid
 [Data](articles/c89ce822.json)
 
 [Extended Data](ext_articles/c89ce822.ext.json)
-
----
-
-### Cabinet approval for permission for imports of rice
-
-*2024-12-03 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200357) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Cabinet approves rice imports due to domestic shortage. Eliminates import limits until 20th without license.
-
-🟩
-
-Considering the shortage of naturisi and other rice varieties in the domestic market, the Cabinet considers that it is appropriate to eliminate the limits that are currently being imported to the government.
-
-Accordingly, it has been decided to grant permission for the importation of rice to our country until the 20th of this month without the import control license.
-
-◼️
-
-[Data](articles/3359780e.json)
-
-[Extended Data](ext_articles/3359780e.ext.json)
 
 ---

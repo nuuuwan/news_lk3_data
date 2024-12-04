@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 17:00:24**
+As of **2024-12-04 17:26:12**
 
 ## Newspaper Stats
 
-*Scraped **58,441** Articles*
+*Scraped **58,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,535
 adaderanalk | 7,097
-tamilmirrorlk | 8,320
+tamilmirrorlk | 8,321
 virakesarilk | 9,558
 adaderanasinhalalk | 10,095
 
@@ -26,27 +26,59 @@ adaderanasinhalalk | 10,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,426 (100.0%) of 58,441 articles have been extended.
+58,430 (100.0%) of 58,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### රුමි 75ක කේරළ ගංජා උතුරු මුහුදෙන් හමුවෙයි
+### Do you know who this sir?
+
+*2024-12-04 16:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-ஐயா-யாரென-தெரியுதா/175-348246) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+A video on national people's power social media features a speaker named Parthinkadane Anuradha Kama. He discusses a competition game, smiling occasionally. The exact context or payment isn't specified in the voice-over.
+
+🟩
+
+On the social websites of the national people's power, do you know who this sir is?Titled, a video is browsing.
+
+In it, the person who spoke said, "Parthinkadane Anuradha Kama. This is how the competition game. How is it? ”He smiles from time to time.
+
+It is not known exactly which payment in the video. Likewise, the voice -over person does not say any payment.
+
+◼️
+
+[Data](articles/7b6477dd.json)
+
+[Extended Data](ext_articles/7b6477dd.ext.json)
+
+---
+
+### Korala Cannabis found in the North Sea
 
 *2024-12-04 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204033) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව අද (4) අළුයම යාපනය ගුරුනගර් ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදේ සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී කේරළ ගංජා කිලෝ 188යි ග්‍රෑම් 350ක තොගයක් රැගත් ඩිංගි යාත්‍රාවක් සිය භාරයට ගෙන තිබේ.
+Sri Lanka Navy seizes 188 kg Kerala cannabis worth Rs. 75 million from vessel in North Sea during special search operation.
 
-උතුරු නාවික විධානයේ ශ්‍රී ලංකා නාවික නෞකා වේළුසුමන ආයතනය විසින් සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී මෙම යාත්‍රාව පරීක්‍ෂා කර ඇත.
+🟩
 
-එහිදී ගමන් මලු හතක මෙම කේරළ ගංජා තොගය තිබී ඇති අතර, එම තොගයේ වටිනාකම රුපියල් මිලියන 75කට අධික බව නාවික හමුදාව පවසයි.
+The Sri Lanka Navy has taken over 188 kilos of Kerala cannabis in a special search operation conducted in the sea today (4).
 
-නාවික හමුදා භාරයට ගත් කේරළ ගංජා තොගය හා ඩිංගි යාත්‍රාව ඉදිරි නීතිමය හා විමර්ශන කටයුතු සඳහා යාපනය පොලිස් ස්ථානය වෙත භාරදී තිබේ.
+The vessel has been inspected in a special search operation conducted by the Sri Lanka Navy Naval Venerans in the Northern Naval Network.
+
+The stock of luggage was found in four baggage, and the value of the stock was Rs. 75 million.
+
+The stock of Kerala cannabis and the Dingi vessel has been handed over to the Jaffna Police for further legal and investigation into the Navy.
 
 ◼️
 
 [Data](articles/d8ca1ed8.json)
+
+[Extended Data](ext_articles/d8ca1ed8.ext.json)
 
 ---
 
@@ -65,6 +97,8 @@ The arrested suspect is a 41-year-old resident of the Unawatuna area.
 ◼️
 
 [Data](articles/607b6a2a.json)
+
+[Extended Data](ext_articles/607b6a2a.ext.json)
 
 ---
 
@@ -190,21 +224,31 @@ The three month and one year maturities were offered on tap after the auction. (
 
 ---
 
-### හාල්, පොල් ගැටලුවට විසඳුම් ඇමති කියයි
+### Resolved Minister Solves Problem
 
 *2024-12-04 15:52:28* · [`adalk`](https://www.ada.lk/breaking_news/හාල්--පොල්-ගැටලුවට-විසඳුම්-ඇමති-කියයි/11-413450) · `si`
 
-රට තුළ පවතින පොල් මිල අර්බුදයට විසඳුමක් ලෙස ඉදිරි සති 2ක ඇතුළත සතොස හරහා පොල් ගෙඩි මිලියනයක් බෙදාහැරීමට රජය තීරණය කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අනුව එක පොල්ගෙඩියක් රුපියල් 130ක මිලකට සතොස හරහා ලබාදීමට කටයුතු කරන බව අමාත්‍ය වසන්ත සමරසිංහ මහතා අද (04) පාර්ලිමේන්තුවේදී පැවසීය.
 
-රජයට අයිති වතුවල තිබෙන පොල් නිෂ්පාදන මෙලෙස අඩු මිලට අලෙවි කිරීමට නියමිතය.
 
-මේ අතර සහල් හිඟයට විසඳුමක් ලෙස දිනකට හාල් කිලෝ ලක්ෂ දෙක බැගින් පාලන මිලට වෙළඳපොළට නිකුත් කිරීමට සහල් මෝල් හිමියන් එකඟ වී ඇති බවද ඔහු වැඩිදුරටත් සඳහන් කළේය.
+Government distributes 1 million coconuts via Sathosa within 2 weeks to address price crisis. Coconut price set at Rs. 130 per kilo. State-owned estates to sell coconut products at lower costs. Rice release details pending.
+
+🟩
+
+The Government has decided to distribute a million coconut prices through Sathosa within the next two weeks as a solution to the coconut price crisis in the country.
+
+Accordingly, Minister Wasantha Samarasinghe said that the Sathosantha today (04) is awarded to Sathosa at Rs. 130.
+
+The coconut products in the government's estates are to be sold at low cost.
+
+Meanwhile, he has agreed to release the rice to the market at Rs.
 
 ◼️
 
 [Data](articles/8b961989.json)
+
+[Extended Data](ext_articles/8b961989.ext.json)
 
 ---
 
@@ -2307,35 +2351,5 @@ She is also training on the supervision of a karate consultant and a judge.
 [Data](articles/1f0d746d.json)
 
 [Extended Data](ext_articles/1f0d746d.ext.json)
-
----
-
-### Not ready to continue the mistake of the last government;Deputy Minister Mahinda Jayasinghe
-
-*2024-12-04 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200368) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Deputy Minister Mahinda Jayasinghe addresses Parliament, criticizing past government mistakes. He pledges to resolve core issues in teacher and chancellor services. Development officers protest outside Ministry of Education without permission, demanding proper service status.
-
-🟩
-
-The best solution to the problems of development officers will be the people's wrongdoing. Deputy Minister of Labor Mahinda Jayasinghe said.
-
-Speaking at a debate on the President's Policy Declaration held on Tuesday in Parliament (03).
-
-He will soon be resolved to the basic problems found in the Teacher and Chancellor's service. The struggle of the development officials in front of the Ministry of Education should be mentioned.
-
-Three police officers have been attacked during the protest.We too engaged in struggles in the past for professional rights. Never act.
-
-Development officials gathered in front of the Ministry of Education without any permission.Development Officers insist on joining the service contrary to the Teacher Service. He said the people did not choose us to make a mistake made by the last government.
-
-◼️
-
-[Data](articles/7056e6b5.json)
-
-[Extended Data](ext_articles/7056e6b5.ext.json)
 
 ---

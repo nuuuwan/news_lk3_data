@@ -1,36 +1,88 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 13:43:09**
+As of **2024-12-04 14:29:24**
 
 ## Newspaper Stats
 
-*Scraped **58,404** Articles*
+*Scraped **58,408** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 592
-bbccomsinhala | 609
+bbccomsinhala | 610
 islandlk | 3,506
 economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,529
 adaderanalk | 7,090
-tamilmirrorlk | 8,313
+tamilmirrorlk | 8,315
 virakesarilk | 9,556
-adaderanasinhalalk | 10,088
+adaderanasinhalalk | 10,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,402 (100.0%) of 58,404 articles have been extended.
+58,407 (100.0%) of 58,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### 500 substandard drugs: patients in danger
+
+*2024-12-04 13:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/500-தரக்குறைவான-மருந்துகள்-ஆபத்தில்-நோயாளர்கள்/175-348236) · `ta`
+
+Dangerous unregistered drugs flood market; 500+ found; 40% of hospital purchases include illegal medications; regulatory authority criticized for arbitrary pricing and poor oversight.
+
+🟩
+
+Hospital sources say that more than five hundred non -standard drugs are in circulation in the country without the registration certificate of the National Drug Regulatory Authority.
+
+According to the Director of Hospital Directors, 40 percent of the emergency purchases in the state hospitals include unregistered drugs in this country.
+
+Many hospital directors have pointed out these figures to the Head of Head of Health at the Pharmaceutical Inspection Meetings.
+
+Health department sources said that the Chief Executive Officer arbitrarily regulated the prices of the Pharmaceutical Regulatory Authority and the certificates of newly registered drugs.
+
+In countries with pharmaceuticals as a profession, there are a separate independent company to control the price of drugs and many separate companies to regulate the quality of the drug.
+
+When we asked Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital, he said that there was such a situation.
+
+...
+
+[Data](articles/1337a10e.json)
+
+[Extended Data](ext_articles/1337a10e.ext.json)
+
+---
+
+### One killed when part of the security wall collapsed
+
+*2024-12-04 13:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புச்-சுவரின்-பகுதி-இடிந்து-விழுந்ததில்-ஒருவர்-பலி/175-348235) · `ta`
+
+Security wall collapse kills 1: 53-year-old man dies on birthday after part of safety barrier demolishes house in Welikada.
+
+🟩
+
+Welikada police say that a portion of the safety wall that was built around the house was demolished and the Painer had died.
+
+53 -year -old Sumith Kumara, a 53 -year -old man from Bandaragama Raigama Kahambiliyawatte, died on his birthday on the 2nd.
+
+The deceased, along with his son, has removed the old iron fence on the front wall of a house on Sri Jayawardenapura Parliament Road, Welikada, police said.
+
+Police investigations revealed that when the son of the deceased went to a nearby shop, the rest of the security wall was demolished.
+
+◼️
+
+[Data](articles/0e211954.json)
+
+[Extended Data](ext_articles/0e211954.ext.json)
+
+---
 
 ### Chola is a world record for creating the president's image
 
@@ -61,6 +113,30 @@ To recognize the record of Sansulin, the trophy was awarded to the organizers an
 [Data](articles/808cb3fb.json)
 
 [Extended Data](ext_articles/808cb3fb.ext.json)
+
+---
+
+### කොල්ලුපිටියේ ප්‍රසිද්ධ කැසිනෝ ශාලාවක් වටලයි
+
+*2024-12-04 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204026) · `si`
+
+නීතිවිරෝධී අයුරින් මත්පැන් කවුන්ටර පවත්වාගෙන ගිය කොල්ලුපිටියේ පිහිටි සුප්‍රසිද්ධ කැසිනෝ ශාලාවක් සුරාබුදු දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් වටලා තිබේ.
+
+සුරාබදු කොමසාරිස් ජනරාල්වරයාට ලද තොරතුරකට අනුව එම වැටලීම සිදුකර තිබුණි.
+
+එහිදී තීරුබදු නොගෙවූ විදෙස් මත්පැන් බෝතල් 100ක් සොයාගත් අතර ඒවායේ වටිනාකම රුපියල් ලක්ෂ 25කට අධිකයි.
+
+මහල් පහකින් සමන්විත අදාළ කැසිනෝ ශාලාවේ සෑම මහලකම පිහිටි කවුන්ටර මඟින් ඊට පැමිණෙන සාමාජිකයන්ට නොමිලේ මත්පැන් ලබාදීම සිදුකෙරේ.
+
+එහෙත් අදාළ ස්ථානයට නිකුත් කර ඇති මත්පැන් බලපත්‍රය මඟින් පවත්වාගෙන යා හැක්කේ එක් මත්පැන් කවුන්ටරයක් පමණක් බව සුරාබදු දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඒ අනුව මෙමඟින් රට විශාල බදු හානියක් සිදුවන බවද එම නිලධාරීන් සඳහන් කළේය.
+
+සුරාබදු කොමසාරිස් ජනරාල්වරයාගේ උපදෙස් මත මෙම වැටලීම ප්‍රධාන කාර්යාලයේ නිලධාරීන් සහ කොළඹ නගරය සුරාබදු කාර්යාලයේ ඇතුළු නිලධාරීන් රැසක් එක්ව සිදුකරනු ලැබීය.
+
+◼️
+
+[Data](articles/3c347adc.json)
 
 ---
 
@@ -644,17 +720,27 @@ In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 1
 
 ---
 
-### වෛද්‍ය සභාව වංගු ගහපු හැටි විගණනයකින් හෙළිවෙයි
+### Audit reveals how a windaging in the medical council
 
 *2024-12-04 09:43:12* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-සභාව-වංගු-ගහපු-හැටි-විගණනයකින්-හෙළිවෙයි/11-413445) · `si`
 
-ශ්‍රී ලංකා වෛද්‍ය සභාව එහි සේවකයින්ට සේවය කරන ලද වසරකට මාසය බැගින් 2007 වර්ෂයේ සිටම පාරිතෝෂික ගෙවා තිබෙන බව ශ්‍රි ලංකා වෛද්‍ය සභාව සම්බන්ධයෙන් වූ 2023 විගණන වාර්තාවේ සදහන් වේ. 1983 අංක 12 දරණ පාරිතෝෂික ගෙවීම් පනතට අනුව සේවකයින් සදහා පාරිතෝෂික ගෙවීමේදී සම්පූර්ණයෙන් සේවය කරන ලද එක් එක් වර්ෂය සදහා මාස ½ ක වැටුපට සමාන මුදලක් පමණක් පාරිතෝෂික ගෙවිය යුතු බවද එම විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
+Sri Lanka Medical Council audit reveals improper bonus payments and lack of compliance with regulations since 2007.
 
-2018 අංක 19 දරණ ජාතික විගණන පනත සහ 1971 අංක 38 දරණ මුදල් පනත අනුව ශ්‍රී ලංකා වෛද්‍ය සභාවේ 2023.12.31 දක්වා කටයුතු සම්බන්ධයෙන් ජාතික විගණන මහ ලේකම් කාර්යාලය මගින් සිදු කරන ලද විගණන මූල්‍ය ප්‍රකාශනයේ මේ බව සදහන් වේ.
+🟩
+
+The Sri Lanka Medical Council has paid bonuses since 2007, since 2007, has paid bonuses since 2007 a year after its employees.. According to the gratuity payment Act, No. 12 of 1983, the bonus payments should be paid only equally equal to each year in order to each year.
+
+The National Audit Secretary's Secretariat is said to be held on the National Audit Act No. 19 of 2018 and the National Audit Secretariat.
+
+According to a decision of the Management Committee on 15th of the Management Committee on 15, the year 2007 to 2023, it was twice the gratuity for each employee for 16 years.. The Medical Council has not made any clear of millions of rupees paid by the Sri Lanka Medical Council.
+
+In April 2023, all employees have been paid as bonuses in April, 2023, a monthly salary of Rs.. The Governing Body has not provided the power to determine the power and allowances of the Management Circular No. 02 of the Management Circular No. 02 of 18.07.2018.
 
 ...
 
 [Data](articles/a2b1c8ed.json)
+
+[Extended Data](ext_articles/a2b1c8ed.ext.json)
 
 ---
 
@@ -987,6 +1073,42 @@ Accordingly, the suspects were arrested by the Ahangama police officers in the F
 [Data](articles/36c12e54.json)
 
 [Extended Data](ext_articles/36c12e54.ext.json)
+
+---
+
+### PTA: Can the new government not to abolish the Prevention of Terrorism Act?
+
+*2024-12-04 07:32:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c62wg3ywg2zo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New Sri Lankan government vows to repeal controversial Prevention of Terrorism Act, citing human rights concerns and misuse against minorities. Critics argue law remains in place despite promises, calling for full abolition rather than amendment.
+
+🟩
+
+PTA: Can the new government not to abolish the Prevention of Terrorism Act?
+
+The Prevention of Terrorism Act (PTA) is the act of speaking among the Acting Bills in Sri Lanka.
+
+The Prevention of Terrorism Act (Pvt) of the Prevention of Terrorism Act in 1979 is a law.
+
+Did you know these facts about the Prevention of Terrorism Bill and Emergency Status?
+
+The Terrorism Prevention Act is also known as an internationally and internationally, and in addition to terrorist suspects, the existing government is used to suppress political oppositionists, as well as to suppress a religious or religious attitude.
+
+The powerful national folk force is known as a serious voice against the prevention of terrorism during the period of the opposition period.
+
+The Sandun Tudugala, the Director of the Law and Social Trust, said: "The Terrorism Prevention Act is a badly used bill in Sri Lanka.
+
+"This PTA is a bad endopy bill in Sri Lanka. The government is a repressive law used to suppress all enemies of their state. "
+
+...
+
+[Data](articles/072ce1e7.json)
+
+[Extended Data](ext_articles/072ce1e7.ext.json)
 
 ---
 
@@ -2327,107 +2449,5 @@ The government has allocated 345 million rupees to provide relief to people affe
 [Data](articles/934c7e93.json)
 
 [Extended Data](ext_articles/934c7e93.ext.json)
-
----
-
-### Immediate relief to victims of flood disaster - Opposition Leader Sajith
-
-*2024-12-03 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200329) · `ta`
-
-Opposition Leader Sajith calls for swift action from National Council of Disaster Management to address flood relief efforts affecting 5 million people. He urges emergency programs, modern weather monitoring systems, and proper crop damage assessment. Additionally, he criticizes the government's fertilizer subsidy plan and rice shortage handling.
-
-🟩
-
-About 5 million people have been affected by the tragedy and pressure due to the disaster. Opposition Leader Sajith Premadasa said that the National Council of Disaster Management should be convened quickly and take action in this regard.
-
-He said this while addressing the debate on the President's policy speech held in Parliament on Tuesday (03).
-
-Nearly 5 million people have been affected by misery and pressure due to the recent bad weather conditions in the country.. The government should carry out an emergency program to provide them with relief.
-
-According to the Disaster Management Act, the National Council of Disaster Management should be summoned and action should be taken in this regard.
-
-Provide relief to victims and establish modern technical structures to obtain new weather sources. The World Bank and Japan are ready to provide technical equipment for this. So you have to get these.
-
-...
-
-[Data](articles/3ba9c09e.json)
-
-[Extended Data](ext_articles/3ba9c09e.ext.json)
-
----
-
-### Investigate police for failing to take action to protect flooded students in Ampara: Rishad government demands
-
-*2024-12-03 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200322) · `ta`
-
-Ampara flood: Police criticized for inaction; 8 deaths reported; opposition calls for probe; minister vows investigation.
-
-🟩
-
-During the flood disaster in Ampara, police failed to function properly. Opposition member Rishad Bathiudeen said an independent inquiry should be conducted in this regard.
-
-Eight people died when a browsing machine collapsed during a flood disaster in Ampara. The police were present at the site of the incident.
-
-At the same time, the disaster management was not in operation on the occasion.
-
-Only a few people in the neighboring village act immediately and protected two people. Otherwise, two more people would die.
-
-When asked the police to take action to protect the victims, they asked the police to lodge a complaint.
-
-When the people then went to the police to present a complaint, they were waiting for an hour to write the complaint. They then arrested the Principal of the Matarasa School.
-
-But the incident has taken place and the police who are on duty there should be an independent inquiry into the absence of any action and I urge you to take action to prevent such measures in the future.
-
-...
-
-[Data](articles/9ea06815.json)
-
-[Extended Data](ext_articles/9ea06815.ext.json)
-
----
-
-### Strong action against activities that provoke communalism - Prime Minister
-
-*2024-12-03 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200312) · `ta`
-
-Prime Minister vows strong action against communalism, emphasizing unity and rejection of racism. New government committed to protecting people's trust and fulfilling democratic responsibilities.
-
-🟩
-
-The period that has been different from the provinces and the people for politics has ended. In this country, racism is no longer going to accommodate. Those who have failed in politics are trying to instigate racism again.We will take stringent measures to defeat communal activities. Historical special opportunity to merge all ethnic groups. Prime Minister Harini Amarasuriya said that we are not going to defile this opportunity.
-
-He was speaking at the president's policy proposal at a session held in Parliament on Tuesday (03).
-
-With the presidential election results, the people have ended corruption politics and abuse of power.. We have united all ethnic groups and established a new government with the people.
-
-The President presents the responsibility of the government that has created the people with the best change. We have a responsibility to protect people's confidence.
-
-...
-
-[Data](articles/59a2948f.json)
-
-[Extended Data](ext_articles/59a2948f.ext.json)
-
----
-
-### Tourist arrivals in November 184 158
-
-*2024-12-03 19:51:31* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බරයේදී-සංචාරකයන්-184-158ක්-ඇවිත්/11-413442) · `si`
-
-Sri Lanka tourist arrivals summary: 1,804,873 visitors by Nov 30, 2023, up 21.5% from 1,514,996 in 2018, exceeding 2 million this year.
-
-🟩
-
-Sri Lanka Tourism Development Authority says that tourists arrived in Sri Lanka in November 158. The value of 151 496 reported 2023 was an increase of 21.5 percent.
-
-Sri Lanka has arrived in Sri Lanka by November 30 this year 1 804 873. Sri Lanka has come to Sri Lanka in 2018 and is 2 333 796.
-
-This year, Sri Lanka has more than two million tourists.
-
-◼️
-
-[Data](articles/dc68f000.json)
-
-[Extended Data](ext_articles/dc68f000.ext.json)
 
 ---

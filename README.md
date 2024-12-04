@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 02:42:04**
+As of **2024-12-05 03:16:29**
 
 ## Newspaper Stats
 
-*Scraped **58,515** Articles*
+*Scraped **58,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,130 @@ dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
 tamilmirrorlk | 8,329
-virakesarilk | 9,574
+virakesarilk | 9,581
 adaderanasinhalalk | 10,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,512 (100.0%) of 58,515 articles have been extended.
+58,517 (100.0%) of 58,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### The process of creating the new constitution must be carried out through the Alliance -Douglas Devananda
+
+*2024-12-05 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200455) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Douglas Devananda: New constitution via Alliance, retain 13th Amendment, oppose abolishing provincial councils.
+
+🟩
+
+Douglas Devananda, the leader and former minister of the Eelam Democratic Party, has stated that the 13th Amendment to the Constitution should never be abolished and the new constitutional systems should be carried out through the Alliance.
+
+The General Secretary of the Janatha Vimukthi Peramuna (JVP) said in a special commentary on the weekly release of the Janatha Vimukthi Peramuna (JVP).
+
+Douglas Devananda urged the media meeting organized by the Eelam Democratic Party in Colombo on Wednesday (4), emphasizing the need to strengthen the 13th Amendment to the Constitution.
+
+“It is now being talked about the abolition of the provincial council system, which was signed in 1987 as a political solution to the problems faced by the Tamil people in Sri Lanka.
+
+...
+
+[Data](articles/1b496584.json)
+
+[Extended Data](ext_articles/1b496584.ext.json)
+
+---
+
+### The government should maintain the best relationship with India and the Middle East to build the country's economy -Rishad Bathiudeen
+
+*2024-12-05 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200454) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Maintain strong ties with India & Middle East to boost economy. Government should act on promises & protect essential commodity prices. Unite all communities for national progress. Allocate funds for development projects.
+
+🟩
+
+India and the Middle East have helped us when the country is economically affected. Rishad Bathiudeen said the government should take steps to maintain the best relationship with those countries to build the country's economy.
+
+He was speaking on the second day of debate on the President's policy speech held in Parliament on Wednesday (4).
+
+If the President takes action to fulfill the promises made to the people, we are ready to cooperate. Therefore, the government should take steps to take the necessary measures to make the people the oldest issues, not the political platform.
+
+The price of essential commodities in the market has increased and people are very hard. The government should keep the cost of 10 essential commodities used by people daily. To protect it, a committee under the President or Prime Minister should be taken to the weekly and to take steps to protect people from hunger.
+
+...
+
+[Data](articles/86a1d94c.json)
+
+[Extended Data](ext_articles/86a1d94c.ext.json)
+
+---
+
+### புதிய அரசியலமைப்பு வரும் வரை 13 ஆம் திருத்தம் தொடரும் ; தமிழரசுக்கட்சிப் பாராளுமன்ற உறுப்பினர்களிடம் ஜனாதிபதி உத்தரவாதம்
+
+*2024-12-05 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200453) · `ta`
+
+புதிய அரசியலமைப்பு உருவாக்கப்படும் வரை 13 ஆம் திருத்தச்சட்டமும், மாகாணசபை முறைமையும் தொடரும் எனவும், அதற்கமைய எதிர்வரும் 2025 ஆம் ஆண்டின் இறுதிப்பகுதியில் மாகாணசபைத்தேர்தல்கள் நடாத்தப்படும் எனவும் இலங்கைத் தமிழரசுக்கட்சி பாராளுமன்ற உறுப்பினர்களிடம் ஜனாதிபதி அநுரகுமார திஸாநாயக்க உறுதியளித்துள்ளார்.
+
+அதுமாத்திரமன்றி புதிய அரசியலமைப்பிலேயே தமிழ் மக்களால் ஏற்றுக்கொள்ளப்படக்கூடிய அரசியல் தீர்வை உள்வாங்கமுடியும் எனவும், அதுபற்றி தமிழ்த்தேசிய கட்சிகளின் பிரதிநிதிகளுடன் நிச்சயம் கலந்துரையாடப்படும் எனவும் உத்தரவாதமளித்துள்ள ஜனாதிபதி, இனிவரக்கூடிய புதிய அரசியலமைப்பானது பிரிவினைக்கானதாகவன்றி, இலங்கை எனும் ஒருமித்த நாட்டை இலக்காகக்கொண்டதாக இருக்கும் என்றும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/5e489c47.json)
+
+---
+
+### அகதி அந்தஸ்த்து கோரல் செயன்முறை கடினமாக்கப்பட்டுள்ளது; விளம்பர பிரசாரத்தை ஆரம்பித்தது கனடா
+
+*2024-12-05 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200452) · `ta`
+
+சர்வதேச ரீதியில் புலம்பெயர்வோரையும், அகதிகளையும் பெரும் எண்ணிக்கையில் உள்வாங்கும் நாடாக இருந்துவரும் கனடா, தற்போது அகதி அந்தஸ்த்து கோரும் செயன்முறை கடினமாக்கப்பட்டிருப்பதாக எச்சரிக்கும் வகையிலான இணையவழி விளம்பர பிரசாரமொன்றை உலகளாவிய ரீதியில் ஆரம்பித்துள்ளது.
+
+இந்த விளம்பர பிரசாரமானது ஸ்பானியமொழி, உருது, உக்ரேனிய மொழி, இந்தி மற்றும் தமிழ் உள்ளடங்கலாக 11 மொழிகளில் எதிர்வரும் மார்ச் மாதம் வரை முன்னெடுக்கப்படவிருப்பதாக கனடாவின் குடிவரவுத்திணைக்களம் 'ரொயிட்டர்' செய்திச்சேவைக்குத் தெரிவித்துள்ளது.
+
+அகதி அந்தஸ்த்து கோரலை மட்டுப்படுத்தும் நோக்கிலேயே பிரதமர் ஜஸ்டின் ட்ரூடோ தலைமையிலான அரசாங்கத்தினால் இப்பிரசாரம் முன்னெடுக்கப்படவுள்ளது.
+
+இந்த 4 மாத இணையவழி விளம்பர பிரசாரத்துக்காக கடந்த 7 வருடங்களுக்கும் மேலாக இதனைப்போன்ற விளம்பரங்களுக்காக செலவிடப்பட்ட மொத்தத்தொகையில் மூன்று பங்கு தொகை ஒதுக்கீடு செய்யப்பட்டிருப்பதாகவும் செய்திகள் வெளியாகியுள்ளன.
+
+◼️
+
+[Data](articles/0c8c37da.json)
+
+---
+
+### ஓட்டமாவடி - நாவலடியில் விபத்து: ஒருவர் பலி; மூவர் காயம்!
+
+*2024-12-05 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200451) · `ta`
+
+ஓட்டமாவடி - நாவலடி பகுதியில் இடம்பெற்ற வாகன விபத்தில் நபரொருவர் பலியாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்தச் சம்பவம் வியாழக்கிழமை (4) மாலை நாவலடி - கொழும்பு பிரதான வீதியில் இடம்பெற்றுள்ளது.
+
+நாவலடி பிரதான வீதியாக பொலன்னறுவை பகுதியை நோக்கிப் பயணம் செய்த ரிப்பர் வாகனமொன்று எதிரே வந்த முச்சக்கர வண்டியில் மோதியுள்ளது.
+
+இவ் விபத்தில் முச்சக்கர வண்டியில் பயணம் செய்த ஓமனியாமடு பகுதியைச் சேர்ந்த குடும்பஸ்தர் ஒருவர் பலியாகியுள்ளார்.
+
+அத்துடன்,  முச்சக்கர வண்டி சாரதி உட்பட அதில் பயணம் செய்த மூவர் காயங்களுடன் வாழைச்சேனை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+விபத்தில் பலியான நபரின் உடல் பிரேதப் பரிசோதனைக்காக வாழைச்சேனை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+
+விபத்தை ஏற்படுத்திய ரிப்பர் சாரதி வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளதுடன், இவ் விபத்து தொடர்பான மேலதிக விசாரணைகளை வாழைச்சேனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/fd4a0db8.json)
+
+---
 
 ### Why in the Heroes affair?Double position
 
@@ -57,6 +169,32 @@ The government says that there is no room for racism. Will give you complete coo
 [Data](articles/66f8db67.json)
 
 [Extended Data](ext_articles/66f8db67.ext.json)
+
+---
+
+### State policy declaration
+
+*2024-12-05 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200445) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Parliament unanimously passes government policy declaration without referendum. Debate held on Nov 3-4. President Anura Kumara Dissanayake presented on Nov 21.
+
+🟩
+
+The resolution on the government's policy declaration was unanimously passed in Parliament without a referendum on Wednesday (04).
+
+The debate on the government's policy declaration was held on Tuesday (03) from 9.30 am to 5.30 pm and Wednesday (04) from 9.30 am to 5.00 pm.
+
+President Anura Kumara Dissanayake presented the government's policy declaration in Parliament on November 21.
+
+◼️
+
+[Data](articles/e350eb77.json)
+
+[Extended Data](ext_articles/e350eb77.ext.json)
 
 ---
 
@@ -278,19 +416,61 @@ Act II: President Gotabaya Rajapaksa ignores the ‘China card’ of ongoing dis
 
 ---
 
-### நாட்டின் நலன் கருதி அரசாங்கம் எடுக்கும் சிறந்த  தீர்மானங்களுக்கு முழுமையான ஆதரவு  வழங்குவோம் -எம்.எல்.ஏ.எம். ஹிஸ்புல்லா
+### We will fully support the best decisions taken by the government for the welfare of the country -MLAM. Hisbullah
 
 *2024-12-05 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200435) · `ta`
 
-159 ஆசனங்களுடன் அரசாங்கம் ஆட்சியமைத்துள்ளது.  மக்களின் வாழ்க்கையில் புதிய மாற்றம் ஏற்பட வேண்டும். மக்களின் எதிர்பார்ப்புக்கள் அனைத்தும் நிறைவேற வேண்டும்.  நாட்டின் நலன் கருதி அரசாங்கம்  எடுக்கும் சிறந்த தீர்மானங்களுக்கு முழுமையான ஒத்துழைப்பு வழங்குவோம் என  ஸ்ரீ லங்கா முஸ்லிம் காங்கிரசின் பாராளுமன்ற உறுப்பினர் எம்.எல்.ஏ.எம். ஹிஸ்புல்லா தெரிவித்தார்.
+Sri Lanka Muslim Congress MP MLAM MLA supports government decisions for national welfare. Government aims to fulfill public expectations and develop IT sector. Focus on STEM education to boost employment and revenue. Addressing infrastructure issues in flood-affected areas.
 
-பாராளுமன்றத்தில் புதன்கிழமை (04) நடைபெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பத்தாவது பாராளுமன்றத்துக்கு  மீண்டும் வருகை தந்துள்ளேன். முதற்கண் எல்லாம் வல்லா அல்லாவுக்கு  நன்றி தெரிவித்துக் கொள்கிறேன். மட்டக்களப்பு மாவட்ட மக்கள் பாரிய சவால்களுக்கு மத்தியில் எனது வெற்றிக்காக பாடுப்பட்டார்கள். ஆகவே எனக்கு ஒத்துழைப்பு வழங்கிய அனைவருக்கும் மனமார்ந்த நன்றியை தெரிவித்துக் கொள்கிறேன்.
+The government has ruled with 159 seats.To make a new change in the lives of people. All the expectations of the people must be fulfilled.Sri Lanka Muslim Congress MP MLAM MLA said that the government will cooperate with the best decisions taken by the government for the welfare of the country.. Hizbullah said.
+
+He was speaking at the second day's debate on the President's Policy Declaration held in Parliament on Wednesday (04).
+
+I have visited the Tenth Parliament again. I thank Allah Allala. The people of Batticaloa district have been working for my success in the midst of massive challenges. So I would like to express my sincere gratitude to all those who cooperated with me.
+
+The government has ruled with 159 seats.To make a new change in the lives of people. All the expectations of the people must be fulfilled.We will cooperate fully with the best decisions taken by the government for the welfare of the country.
 
 ...
 
 [Data](articles/6f8fd360.json)
+
+[Extended Data](ext_articles/6f8fd360.ext.json)
+
+---
+
+### வடக்கில் தண்டனை சட்டக்கோவை தெற்கில் பயங்கரவாத தடைச் சட்டம் ஏன் இரட்டை நிலைப்பாடு - தயாசிறி  ஜயசேகர
+
+*2024-12-05 00:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200429) · `ta`
+
+வடக்கில் சிவாஜிலிங்கம் தண்டனை சட்டகோவையின் பிரகாரம் கைது செய்யப்படுகிறார். தெற்கில்  பயங்கரவாத தடைச்சட்டத்தின் கீழ் சமூக செயற்பாட்டாளர்கள் கைது செய்யப்படுகிறார்கள். ஏன் இந்த இரட்டை நிலைப்பாடு. இவ்வாறான கைதுகளின் போது சட்டமா அதிபரிடம் ஆலோசனை கோருங்கள்.இனவாதத்தை இல்லாதொழிக்க வேண்டுமாயின் பொதுத்தன்மையுடன் செயற்பட வேண்டும் என பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (04) நடைபெற்ற ஜனாதிபதியின் கொள்கை பிரகடன மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க  தலைமையிலான அரசாங்கத்துக்கு வாழ்த்து தெரிவித்துக் கொள்கிறேன். க அதேபோல் பாரிய அரசியல் சவால்களுக்கு மத்தியில் எனக்கு ஆதரவு வழங்கிய குருநாகல் தேர்தல் மாவட்ட மக்களுக்கும் நன்றி தெரிவித்துக் கொள்கிறேன்.
+
+...
+
+[Data](articles/29322a98.json)
+
+---
+
+### புதிய அரசியலமைப்பில் தமிழர்களின் சமவுரிமையை உறுதிப்படுத்த வேண்டும்  - சாணக்கியன் வலியுறுத்தல்
+
+*2024-12-05 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200421) · `ta`
+
+தமிழ் மக்களுக்கும்  இந்த நாட்டில்  சம உரிமையுள்ளது.   உத்தேச புதிய அரசியலமைப்பில்  தமிழர்களின்  சமவுரிமை உறுதிப்படுத்தப்பட வேண்டும்.இந்த  அரசை வீழ்த்துவதோ அல்லது பலவீனப்படுத்துவதோ எமது நோக்கமல்ல  . சிறந்த தீர்மானங்களுக்கு ஒத்துழைப்பு வழங்குவோம் என இலங்கை தமிழரசுக்  கட்சியின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (04)  இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடனம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+தேசிய மக்கள் சக்திக்கு எவ்வாறு நாடு முழுவதும் மக்கள் ஆணை கிடைத்ததோ அதேபோன்று வடக்கு கிழக்கில் தமிழரசு கட்சிக்கே மக்கள் ஆணை கிடைத்துள்ளது. அத்துடன் அநுர சுனாமியை எமது மட்டக்களப்பு மாவட்டம் மடடமே தைரியமாக எதிர்த்து நின்றது. அதனால்தான் அங்கு நாம் வரலாற்று வெற்றியைப் பெற்றோம்.
+
+தமிழ் மக்களை பொறுத்தவரையில் தீர்க்கப்படாத பல பிரச்சினைகள் உள்ளன. பயங்கரவாத தடைச்சட்டத்தின் கீழ் கைது செய்யப்பட்ட அரசியல் கைதிகள் இன்னும் விடுதலை  செய்யப்படவில்லை. ஆகவே   அரசியல் கைதிகளை  உடனடியாக விடுவிக்க வேண்டும்.
+
+...
+
+[Data](articles/594f6670.json)
 
 ---
 
@@ -324,6 +504,8 @@ D. Samson & Sons Ltd., widely known as DSI, is a leading homegrown brand and man
 
 [Data](articles/0c106e61.json)
 
+[Extended Data](ext_articles/0c106e61.ext.json)
+
 ---
 
 ### Hayleys Fentons unveils first immersive Experience Centre
@@ -339,6 +521,8 @@ Equipped with advanced technologies, the Experience Centre offers interactive pr
 ...
 
 [Data](articles/c73449bb.json)
+
+[Extended Data](ext_articles/c73449bb.ext.json)
 
 ---
 
@@ -971,32 +1155,6 @@ Also, some representatives of the ruling party as well as supporters were also a
 [Data](articles/0e6b20d2.json)
 
 [Extended Data](ext_articles/0e6b20d2.ext.json)
-
----
-
-### State policy declaration
-
-*2024-12-04 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200445) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Parliament unanimously passes government policy declaration without referendum. Debate held on Nov 3-4. President Anura Kumara Dissanayake presented on Nov 21.
-
-🟩
-
-The resolution on the government's policy declaration was unanimously passed in Parliament without a referendum on Wednesday (04).
-
-The debate on the government's policy declaration was held on Tuesday (03) from 9.30 am to 5.30 pm and Wednesday (04) from 9.30 am to 5.00 pm.
-
-President Anura Kumara Dissanayake presented the government's policy declaration in Parliament on November 21.
-
-◼️
-
-[Data](articles/e350eb77.json)
-
-[Extended Data](ext_articles/e350eb77.ext.json)
 
 ---
 
@@ -2307,173 +2465,5 @@ However, heavy rains, floods, landslides, and strong winds since November 23 hav
 [Data](articles/d4c33f17.json)
 
 [Extended Data](ext_articles/d4c33f17.ext.json)
-
----
-
-### Millers agree to supply rice at controlled price to market
-
-*2024-12-04 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103987/millers-agree-to-supply-rice-at-controlled-price-to-market-) · `en`
-
-Rice millers have agreed to supply 200,000 kilograms of rice daily to the market through the ‘Lanka Sathosa’, at a controlled price effective from today (04),
-
-This was confirmed by Minister of Trade Wasantha Samarasinghe during today’s (04) parliamentary session.
-
-Samarasinghe said that accordingly, the consumers will be able to buy rice at a price of Rs. 220 per kilogram.
-
-“During the recent discussion with the rice mill owners, they claimed that the rice stocks in the mills cannot be released to the market due to an issue with the banks. So, yesterday, we provided them with a solution for that issue”, he added.
-
-Meanwhile, the Trade Minister also assured that one million coconuts will be sold through Sathosa outlets in the suburbs at a price of Rs. 130 per coconut, over the next two weeks.
-
-He added that coconut products obtained from government-owned plantations will be sold at low prices in this manner.
-
-◼️
-
-[Data](articles/deb4cc0a.json)
-
-[Extended Data](ext_articles/deb4cc0a.ext.json)
-
----
-
-### “We have information on Easter attacks”
-
-*2024-12-04 14:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-தாக்குதல்கள்-பற்றிய-தகவல்கள்-எங்களிடம்-உள்ளன/175-348237) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan MP Sanakian Rasamanikam revealed new details about the 2019 Easter attacks. He called for a full investigation, citing additional information shared with defense officials. Rasamanikam also mentioned unresolved issues related to Sivanesathurai Chandrakanthan (Pillaiyan) and urged the current PM to address these matters.
-
-🟩
-
-Parliamentarian Sanakian Rasamanikam said he had further information on the 2019 Easter Sunday attacks, which had been killed by more than 250 lives.
-
-The Batticaloa District Parliamentarian addressed the parliament that the government should fully investigate information on the 2019 terrorist attacks.
-
-“This government has a great responsibility for the Easter attack. We have found that the child was investigated in this regard. On top of that, we won't tell whom to arrest. That is the responsibility of the police. However, we have more information about Easter Sunday attacks, ”he said.
-
-“I have informed the Secretary of Defense on this. The Defense Minister is also here. Give us a chance. We have discussed many things about the Tripoli Regiment within Parliament. We will integrate these groups to get more evidence, ”Rasamanikam said.
-
-...
-
-[Data](articles/f77c320b.json)
-
-[Extended Data](ext_articles/f77c320b.ext.json)
-
----
-
-### Stock of mobile phone accessories discovered at Boossa Prison Hospital
-
-*2024-12-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103986/stock-of-mobile-phone-accessories-discovered-at-boossa-prison-hospital) · `en`
-
-A cache of mobile phone and electronic accessories has been discovered at the Boossa High-Security Prison during a search operation conducted by the Police Special Task Force (STF).
-
-The discovery was made within the prison hospital and adjacent premises based on information received by STF officers stationed at the prison.
-
-The operation yielded five mobile phone chargers and eight data cables, the police said.
-
-The seized items have been handed over to the prison administration, which has initiated further investigations to determine how the items were smuggled into the high-security facility.
-
-The Boossa High-Security Prison is known for housing high-profile inmates, and authorities have repeatedly emphasized the need to prevent the entry of unauthorized items that could compromise security.
-
-◼️
-
-[Data](articles/c4e5c2b3.json)
-
-[Extended Data](ext_articles/c4e5c2b3.ext.json)
-
----
-
-### Here is what the government is going to do to re-charge the stolen assets
-
-*2024-12-04 14:37:52* · [`adalk`](https://www.ada.lk/breaking_news/සොරකම්-කළ-වත්කම්-නැවත-අය-කරගන්න-ආණ්ඩුව-කරන්න-යන-දේ-මෙන්න/11-413448) · `si`
-
-Government plans to recover stolen assets through three parliamentary bills next year, according to Minister of Justice Harshana Nanayakkara. Action will be taken to retrieve misappropriated funds and properties.
-
-🟩
-
-Minister of Justice Harshana Nanayakkara said that three bills are presented to parliament next year.
-
-He said in Parliament today (04), he said that action will be taken to recover the stolen assets.
-
-◼️
-
-[Data](articles/532c3954.json)
-
-[Extended Data](ext_articles/532c3954.ext.json)
-
----
-
-### Hirunika released from contempt of court
-
-*2024-12-04 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204027) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Hirunika Premachandra released from contempt of court order. Appeal Court quashed case against her for criticizing judiciary. Decision made after lawyer informed she wouldn't attend press conference. Case heard by Judges Nissanka Bandula Karunaratne and Shashi Mahendran.
-
-🟩
-
-The Court of Appeal today (4) ordered the extinguisher of Hirunika Premachandra who was filed against Hirunika Premachandra who was filed against the judiciary.
-
-The order has been issued after he was notified by his lawyer that he would not be made in a press conference regarding a press conference to a press conference.
-
-The petition of the appeal was called before Judge Nissanka Bandula Karunaratne and Shashi Mahendran.
-
-◼️
-
-[Data](articles/f691acda.json)
-
-[Extended Data](ext_articles/f691acda.ext.json)
-
----
-
-### Ceylon Chamber awards Sri Lanka’s best corporate citizens
-
-*2024-12-04 14:15:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-awards-sri-lankas-best-corporate-citizens-122358/) · `en`
-
-ECONOMYNEXT – Aitken Spence won the Best Corporate Citizen Sustainability Award 2024 at the Ceylon Chamber’s Best Corporate Citizen Sustainability Awards, while Nestlé Lanka and Sampath Bank were adjudged first and second runners up respectively.
-
-The annual BCCS Awards, which recognizes corporate citizenship, was held at the Cinnamon Grand Hotel Colombo on Tuesday.
-
-“The Awards promote corporate citizen sustainability ownership and initiatives that deliver social and environmental benefits while pursuing profits,” the chamber said.
-
-Aitken Spence also won the Grand Slam, awarded to companies that have won the Best Corporate Citizen Award in five different years, and the Award for Best Presented Application.
-
-...
-
-[Data](articles/a49de921.json)
-
-[Extended Data](ext_articles/a49de921.ext.json)
-
----
-
-### 500 substandard drugs: patients in danger
-
-*2024-12-04 13:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/500-தரக்குறைவான-மருந்துகள்-ஆபத்தில்-நோயாளர்கள்/175-348236) · `ta`
-
-Dangerous unregistered drugs flood market; 500+ found; 40% of hospital purchases include illegal medications; regulatory authority criticized for arbitrary pricing and poor oversight.
-
-🟩
-
-Hospital sources say that more than five hundred non -standard drugs are in circulation in the country without the registration certificate of the National Drug Regulatory Authority.
-
-According to the Director of Hospital Directors, 40 percent of the emergency purchases in the state hospitals include unregistered drugs in this country.
-
-Many hospital directors have pointed out these figures to the Head of Head of Health at the Pharmaceutical Inspection Meetings.
-
-Health department sources said that the Chief Executive Officer arbitrarily regulated the prices of the Pharmaceutical Regulatory Authority and the certificates of newly registered drugs.
-
-In countries with pharmaceuticals as a profession, there are a separate independent company to control the price of drugs and many separate companies to regulate the quality of the drug.
-
-When we asked Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospital, he said that there was such a situation.
-
-...
-
-[Data](articles/1337a10e.json)
-
-[Extended Data](ext_articles/1337a10e.ext.json)
 
 ---

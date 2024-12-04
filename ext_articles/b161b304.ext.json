@@ -1,0 +1,23 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0d85\u0daf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba",
+      "body_lines": [
+        "\u0db8\u0db0\u0dca\u0dba\u0db8, \u0dc0\u0dba\u0db9, \u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0dc3\u0dc4 va \u0db4\u0dc5 \u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd \u0dc3\u0dc0\u0dc3 \u0dc4\u0ddd \u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd3 \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0dc0\u0dd2\u0daf\u0dca\u0dba\u0dcf \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0dc0\u0dc3\u0dca \u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0dc4\u0ddd \u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba\u0dda \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc4\u0ddd \u0d9c\u0dd2\u0d9c\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dd0\u0dc3\u0dd2 \u0d87\u0dad\u0dd2 \u0dc0\u0dd3 \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0d8a\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0, \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dda \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0db4\u0dca\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd \u0dc3\u0db8\u0db6\u0dbb \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca \u0db4\u0dc0\u0dc3\u0dba\u0dd2. (\u0d85)"
+      ]
+    },
+    "en": {
+      "title": "Today's weather announcement",
+      "body_lines": [
+        "The Department of Meteorology has forecast rain or thunderstorms in the evening or night in some parts of the Central, North Western, North Central and Uva provinces.",
+        "In addition, in other parts of the country, a balanced weather is said. (A)"
+      ]
+    }
+  },
+  "summary_lines": [
+    "Here's a summary of the weather announcement in approximately 200 characters:",
+    "",
+    "Rain/thunderstorms forecasted for Central, North Western, North Central & Uva provinces in the evening/night. Balanced weather expected elsewhere."
+  ]
+}

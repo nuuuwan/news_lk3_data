@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 00:43:46**
+As of **2024-12-05 00:18:15**
 
 ## Newspaper Stats
 
-*Scraped **58,503** Articles*
+*Scraped **58,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 592
 bbccomsinhala | 611
 islandlk | 3,506
 economynextcom | 3,558
-dailyftlk | 4,038
+dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
@@ -26,75 +26,11 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,499 (100.0%) of 58,503 articles have been extended.
+58,496 (100.0%) of 58,499 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-12-05 (Thursday)
-
-### AKD’s rightward neoliberal pivot: Dark debt deal, Tiger tribute coverup
-
-*2024-12-05 00:19:43* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-rightward-neoliberal-pivot-Dark-debt-deal-Tiger-tribute-coverup/4-770108) · `en`
-
-AKD with Senior Economic Advisor and Chairman, Ceylon Chamber of Commerce
-
-“For sweetest things turn sourest by their deeds; Lilies that fester smell far worse than weeds.”
-
-Act I: Ranil Wickremesinghe (and his CBSL chief) turn the debt problem into a ticking debt-bomb with the ISB surge at tail-end of Prime Ministerial tenure (2015-2019). (https://thediplomat.com/2023/03/the-real-cause-of-sri-lankas-debt-trap/)
-
-Act II: President Gotabaya Rajapaksa ignores the ‘China card’ of ongoing discussions for debt-rollover, inducts new technocrats and pivots to the IMF option. Ranil Wickremesinghe, nominated not elected to Parliament, is appointed by besieged Gotabaya as PM and selected by the SLPP-dominated parliament as President, defeating the competing candidate-- their dissenting colleague and Mahinda’s ideologue in 2005 and 2010, Dullas Alahapperuma. (Insiders say RW was Basil and Gota’s choice; Mahinda tells media he voted for Dullas.)
-
-...
-
-[Data](articles/728c4c42.json)
-
----
-
 ### 2024-12-04 (Wednesday)
-
-### Ethnic reconciliation to win economic struggle
-
-*2024-12-04 23:52:35* · [`dailyftlk`](https://www.ft.lk/columns/Ethnic-reconciliation-to-win-economic-struggle/4-770107) · `en`
-
-Without ethnic reconciliation, economic growth and prosperity would be stunted at best or retarded at worst
-
-If there is one political leader and one political party that could reverse this trend of intercommunal disconnection, dissatisfaction and discontent and bring them all together under the umbrella of a united Sri Lanka that leader would be Anura Kumara Dissanayake (AKD) and that party would be NPP. The support his party received from Tamil and Muslim voters from the north and east would vouch for this
-
-...
-
-[Data](articles/cf3910a1.json)
-
----
-
-### DSI obtains enjoining order against infringement of ‘Fun Souls’ brand
-
-*2024-12-04 23:34:57* · [`dailyftlk`](https://www.ft.lk/business/DSI-obtains-enjoining-order-against-infringement-of-Fun-Souls-brand/34-770100) · `en`
-
-Action was filed in the Commercial High Court of Colombo by DSI through their Attorneys Sudath Perera Associates against the entity Lakpa Footwear Ltd., with its headquarters based in Horana. The action was filed for the infringement of DSI’s ‘Fun Souls’ trademark and brand and the shoe design on the basis of trademark infringement, unfair competition, and passing-off.
-
-D. Samson & Sons Ltd., widely known as DSI, is a leading homegrown brand and manufacturer of footwear, apparel, and bicycle tyres across the country and has established a strong reputation for quality products in Sri Lanka since its inception. In 2016, DSI introduced and developed the brand ‘Fun Souls’ with a youth identity, to offer a range of unique shoes and bags, including infant shoes, toddler shoes, boys’ and girls’ footwear, and accessories. This ‘Fun Souls’ shoe design was an original concept presented by the DSI brand family.
-
-...
-
-[Data](articles/0c106e61.json)
-
----
-
-### Hayleys Fentons unveils first immersive Experience Centre
-
-*2024-12-04 23:33:52* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-unveils-first-immersive-Experience-Centre/34-770099) · `en`
-
-Hayleys Fentons Ltd. announced the opening of its inaugural Experience Centre located at 223B, Nawala Road, Nugegoda.
-
-This pioneering facility is designed to provide an immersive, hands-on exploration of the company’s cutting-edge solutions across 12 key sectors: Solar Power, ICT, Security and Communication, Audio-Visual Integration (AVI), Electrical and Lighting, Fire Safety Solutions, Air Conditioning and Ventilation, Plumbing and Gas, Facilities Management, Uninterrupted Power Supply and Battery Backups, Architectural Drawings and 3D Visualisation, and Industrial Accessories Trading.
-
-Equipped with advanced technologies, the Experience Centre offers interactive product demonstrations, visually dynamic installations, and dedicated spaces for training, collaboration, and knowledge-sharing. It enables visitors to explore and engage with Hayleys Fentons’ innovative services in a hands-on environment.
-
-...
-
-[Data](articles/c73449bb.json)
-
----
 
 ### What did the President say about the Terrorism Act?
 
@@ -152,33 +88,21 @@ According to police reports, 244 commemoration events were held in the north, wi
 
 ---
 
-### ITAK MPs reveal to the President's request
+### ITAK මන්ත්‍රීවරු ජනපතිගෙන් කළ ඉල්ලීම සානක්කියන් හෙළිකරයි
 
 *2024-12-04 22:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204047) · `si`
 
-Here's a summary of 200 characters:
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ඉලංගෙයි තමිල් අරසු කච්චි (ITAK) පාර්ලිමේන්තු මන්ත්‍රීවරුන් අතර අද (04) සාකච්ඡාවක් පැවැත්වුණි.
 
+ඉන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ පාර්ලිමේන්තු මන්ත්‍රී සානක්කියන් රාසමාණික්කම් මහතා සඳහන් කළේ, බලය බෙදීම  ඇතුළු කරුණු රැසක් පිළිබඳව සාකච්ඡා කළ බවය.
 
+"අපේ සාකච්ඡාවේදී ඉදිරි අනාගතයේදී අලුත් ව්‍යවස්ථාවක් තුළින් දේශපාලන විසඳුමක් සම්බන්ධව, බලය බෙදීම පිළිබඳව, වගේම අතුරුදන් වූවන් පිළිබඳව, ඉඩම් ආරවුල් සම්බන්ධව, හමුදා කඳවුරුවලින් ඉඩම් අත්පත් කරගෙන තිබීම ගැන සාකච්ඡා කළා.
 
-Sri Lanka: ITAK MPs meet President Anura Kumara Dissanayake. Discussed devolution, land disputes, disappearances, and Prevention of Terrorism Act. Requested maximum power devolution in North and East. President agreed to further discuss these issues.
+ඒ වගේම දෙමළ ජාතික සන්ධානයේ දේශපාලන ස්ථාවරය කොහොමද කියන එක සාකච්ඡා කළා. උතුරේ සහ නැගෙනහිර උපරිම බලය බෙදීම පිළිබඳව අපි ඉල්ලීම් කරලා තියෙනවා.
 
-🟩
-
-President Anura Kumara Dissanayake and Ilangai Tamil Arasu Kachchi (ITAK) discussions were held today (04).
-
-Speaking to the media, MP Sanakkir Rasorem said that he discussed a number of devolution of devolution.
-
-"In the next future, a new constitution discussed the land disputing, the acquisition of devolution, and the disappearances, and the disappearances.
-
-And discussed how the TNA's political stand. We have requested the maximum devolution of power in the North and East.
-
-The president told us that it could be discussed at length in the future. Also, the Prevention of Terrorism Act.. It was also used as a necessity to eliminate this racism because this was a necessity to eliminate communalism, but that the Prevention of Terrorism Act. The President wanted to find out whether the political prisoners could bail. "
-
-◼️
+...
 
 [Data](articles/c206c563.json)
-
-[Extended Data](ext_articles/c206c563.ext.json)
 
 ---
 
@@ -1346,8 +1270,6 @@ A bond maturing on 15.09.2029 closed at 10.80/95 percent, from 10.80/90 percent.
 
 [Data](articles/c6f780a0.json)
 
-[Extended Data](ext_articles/c6f780a0.ext.json)
-
 ---
 
 ### Hirunika released
@@ -1529,8 +1451,6 @@ John Keells Holdings saw investor interest; the share closed up at 20.60.
 ...
 
 [Data](articles/dd11bfc1.json)
-
-[Extended Data](ext_articles/dd11bfc1.ext.json)
 
 ---
 
@@ -2533,5 +2453,101 @@ The consignment of the telephone device has been handed over to the prison manag
 [Data](articles/6bfeb9b3.json)
 
 [Extended Data](ext_articles/6bfeb9b3.ext.json)
+
+---
+
+### Look for whom to see: the evening knows
+
+*2024-12-04 11:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/யாருக்கு-பார்-அனுமதி-பத்திரம்-மாலை-தெரியும்/150-348226) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Health Minister Nalinda Jayatissa to present Liquor Studies (Bar) permit in Parliament tonight. Responding to illegal bargaining concerns last season.
+
+🟩
+
+The ruling party's chief organizer of the Health Minister Nalinda Jayatissa told Parliament that the Liquor Studies (Bar) permit will be presented in Parliament this evening.
+
+Responding to a question raised by Batticaloa district council member Rasamanikam Chanakyan on the illegal bargaining persons last season, Nalinda Jayatissa said this.
+
+◼️
+
+[Data](articles/45f26151.json)
+
+[Extended Data](ext_articles/45f26151.ext.json)
+
+---
+
+### For whom look permits: know the evening
+
+*2024-12-04 11:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-பார்-அனுமதி-பத்திரம்-மாலை-தெரியும்/175-348226) · `ta`
+
+Health Minister Nalinda Jayatissa to present Liquor Studies permit in Parliament this evening.
+
+🟩
+
+The ruling party's chief organizer of the Health Minister Nalinda Jayatissa told Parliament that the Liquor Studies (Bar) permit will be presented in Parliament this evening.
+
+Responding to a question raised by Batticaloa district council member Rasamanikam Chanakyan on the illegal bargaining persons last season, Nalinda Jayatissa said this.
+
+◼️
+
+[Data](articles/552654f7.json)
+
+[Extended Data](ext_articles/552654f7.ext.json)
+
+---
+
+### Another of lives at risk
+
+*2024-12-04 11:29:29* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-අවදානමක-සිටින-තවත්-ඇතෙක්/11-413447) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wild elephant attacks rising in Mahailuppallam. Elephants breaking into homes and farmland near electric fences. Recent incident at Kavuwewa Assistant 01's garden highlights risk. Local residents concerned about safety due to increasing elephant-human conflicts.
+
+🟩
+
+The Mahailuppallam area report on another ruling tree in which the use of electricity.
+
+With a well-rough pair of gross, the Grossy Ilanpelama and home gardens and farmland are constantly roaming these days.
+
+The most common fences that have been constructed by the worst elephants and livestock are also common to protect these crops and elephants, due to Mahailuppallama.
+
+The villagers say that the elephants entering the elephant these days are constantly on the rise to the houses and farm.
+
+Lavinia Foundation states that this elephant is a major risk of electricity in a variety of private fences.  පුද්ගලික විදුලි වැටවල් බහුල ප්‍රෙද්ශයක නිරන්තරයෙන් සැරිසරමින් ජීවිත අවධානමට ලක්ව සිටින එම දළ ඇතා ඊයෙ (03) රාත්‍රියේ ද මහඉලුප්පල්ලම ප්‍රෙද්ශයේ ගෙවත්තකට කඩා වැදී එම නිවස ආසන්නයේම සැරිසරණ අයුරු ද දක්නට ලැබේ.
+
+...
+
+[Data](articles/61d48e00.json)
+
+[Extended Data](ext_articles/61d48e00.ext.json)
+
+---
+
+### Three new bills to recover stolen assets
+
+*2024-12-04 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204023) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Justice Minister Harshana Nanayakkara announced three new bills to Parliament aimed at recovering stolen assets in the current quarter."
+
+🟩
+
+Minister of Justice, Minister of Justice, Minister Harshana Nanayakkara told Parliament that three new bills were presented to the reorigning the stolen assets in the quarter.
+
+◼️
+
+[Data](articles/e3b1942d.json)
+
+[Extended Data](ext_articles/e3b1942d.ext.json)
 
 ---

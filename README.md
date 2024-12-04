@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 09:42:59**
+As of **2024-12-04 10:42:33**
 
 ## Newspaper Stats
 
-*Scraped **58,363** Articles*
+*Scraped **58,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 609
 islandlk | 3,506
-economynextcom | 3,543
-dailyftlk | 4,033
+economynextcom | 3,546
+dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,525
+adalk | 5,526
 adaderanalk | 7,083
-tamilmirrorlk | 8,303
+tamilmirrorlk | 8,304
 virakesarilk | 9,554
 adaderanasinhalalk | 10,076
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,352 (100.0%) of 58,363 articles have been extended.
+58,361 (100.0%) of 58,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### Arrested postman who distributed drugs
+
+*2024-12-04 10:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-விநியோகித்த-தபால்காரர்-கைது/175-348219) · `ta`
+
+Postman arrested for distributing drugs worth over 20 lakhs. Police found the illegal substance hidden in letters. A 32-year-old suspect was detained after a tip-off about suspicious activities in Borella Vanathamulla area.
+
+🟩
+
+Borella police said that the letter of the Post Office of Kottanchenai was arrested with a drug worth more than Rs 20 lakh.
+
+He was arrested on information received by the letter distributor at a post office, that he was wandering around with uniform and distributing drugs in the Borella Vanathamulla area.
+
+The suspect was arrested by a special police team and during the raid, police said that the drug was found hidden in the letter.
+
+A Senior Police Officer said that a special police team was sent on Tuesday night to carry out special raids at the arrested suspect's Kottanchena home.. The arrested suspect is 32 years old.
+
+◼️
+
+[Data](articles/83cd4666.json)
+
+[Extended Data](ext_articles/83cd4666.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.45/65 to dollar
+
+*2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-125231/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said.
+
+An auction of Rs 192,500 million treasury bills was ongoing.
+
+In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 13,370. The more liquid S&P SL20 was up 0.22 percent, or 8.64 points, at 3,950.
+
+◼️
+
+[Data](articles/9b4c2152.json)
+
+---
 
 ### There will be severe shortage of rice in Sri Lanka;Issued warning
 
@@ -82,23 +122,35 @@ Accordingly, the court adjourned the hearing on January 23.
 
 ---
 
-### இந்தியாவின் 15 முதலீட்டார்கள் யாழ் வருகைதரவுள்ளனர் - துணை தூதரக முதன்மை நிர்வாக  அதிகாரி ராம் மகேஷ் தெரிவிப்பு
+### India's 15 investors arrives in Jaffna - Deputy Embassy Chief Executive Officer Ram Mahesh
 
 *2024-12-04 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200372) · `ta`
 
-யாழ்ப்பாணத்திற்கு 15 முதலீட்டாளர்கள்  வருகை தர உள்ளார்கள் என்று  யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரக முதன்மை நிர்வாக  அதிகாரி ராம் மகேஷ் தெரிவித்தார்.
+Here's a 200-character summary:
 
-வடக்கு மாகாண தொழிற்துறைத் திணைக்களம் யாழ் இந்தியத் துணைத் தூதரகம் இணைந்து நடத்தும் வடமாகாண தொழில்துறை வர்த்தகச் சந்தை நேற்று செவ்வாய்க்கிழமை (03)  காலை ஆரம்பமானது .
 
-மூன்று நாட்கள் நடைபெற உள்ள வட மாகாண தொழில்துறை வர்த்தகச் சந்தை நிகழ்வில் பிரதம விருந்தினராக கலந்து கொண்டு நாடா வெட்டி திறந்து வைத்து உரையாற்றும்போதே அவர் இதனை தெரிவித்தார்.
 
-வடக்கு மாகாண தொழிற்துறைத் திணைக்களம் பல்வேறு முயற்சிகளை செய்து உற்பத்தியாளர்களை ஊக்கப்படுத்தி வருகிறது. இதற்கு இந்திய துணை தூதரகம் உதவிகளை செய்து வருகிறது. உற்பத்திகளை சந்தைப்படுத்துகின்ற போது தான் உள்ளூர் உற்பத்தி வளர்ச்சி அடையும்.
+15 Indian investors visit Jaffna for trade fair. Embassy supports local production, education, culture & business. Exhibition features weaving, food, apparel, agricultural products. Free entry and permits.
 
-அதற்கு இத்தகைய சந்தை வாய்ப்புகள், கண்காட்சிகள் உதவும். இவை மூலம் உற்பத்திகளை அதிகரிக்க செய்வதுடன் உற்பத்திகளை அடுத்த தரத்திற்கு கொண்டு செல்வதற்கு ஊக்கப்படுத்த கூடியதாக இருக்கும்.
+🟩
+
+Ram Mahesh, Chief Executive Officer of the Indian Embassy in Jaffna, said that 15 investors will visit Jaffna.
+
+The Northern Provincial Industrial Trade Market, hosted by the Northern Provincial Department of Industry, Jaffna's Indian Embassy, ​​commenced on Tuesday morning.
+
+He was speaking at the Northern Province Industrial Trade Market, which was held as the chief guest at the Northern Provincial Trade Market.
+
+The Northern Provincial Department of Labor has made various efforts to encourage manufacturers. The Indian Consulate for assistance for this. Local production growth is only when market is marketed.
+
+Such market opportunities and exhibitions will help. These will increase the products and encourage the products to bring the products to the next grade.
+
+The Indian Embassy is doing a variety of assistance. Especially educational, culture, business and embassy assistance. Especially next year, 2025 will be helping business events and entrepreneurship.
 
 ...
 
 [Data](articles/e2566f99.json)
+
+[Extended Data](ext_articles/e2566f99.ext.json)
 
 ---
 
@@ -190,6 +242,26 @@ The new time table related to the said dates will be provided to the students at
 
 ---
 
+### Sri Lanka central bank net foreign reserves just above zero
+
+*2024-12-04 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-foreign-reserves-just-above-zero-191861/) · `en`
+
+ECONOMYNEXT – Sri Lanka net foreign reserves moved to positive territory in October 2024, with about 63 million over its reserve related liabilities, official data shows, after two years of deflationary policy with interest rates to match.
+
+Sri Lanka’s central bank’s reserves became negative by 4.6 billion after rate cuts were enforced by inflationary direct and open market operations.
+
+The central bank also borrowed reserves through swaps, and also busted a special drawing rights allocation (a type ‘reserve’ created by the International Monetary Fund) in the course of mistargeting rates through a policy rate which ended in a sovereign default.
+
+A ‘transmission mechanism’ then spreads the mis-targeted rates along the yield curve.
+
+When reserves were hitting negative territory during the last currency crisis, the central bank already had loans from the International Monetary Fund taken during currency crises triggered by earlier rate cuts.
+
+...
+
+[Data](articles/a0be26e2.json)
+
+---
+
 ### Today's weather announcement
 
 *2024-12-04 07:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-அறிவிப்பு/175-348214) · `ta`
@@ -236,15 +308,23 @@ The accident occurred at an unsafe railway crossing near the Galle Sudarmarama V
 
 ---
 
-### நம்பிக்கை வைப்பதற்கான ஒரு நேரம் ; காப்பாற்றுவதற்கு ஒரு உறுதிமொழி
+### A time of trust;A pledge to save
 
 *2024-12-04 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200363) · `ta`
 
-செப்டெம்பர் ஜனாதிபதி தேர்தலையும் நவம்பர் பாராளுமன்ற தேர்தலையும் தொடர்ந்து இலங்கையில் ஏற்பட்ட அண்மைய அரசியல் நிலைமாறுதல் பாகுபாடு காட்டுகின்ற போக்கின் விளைவாக தோன்றிய ஆழமான பிரச்சினைகளை கையாளுவதற்கு ஒரு திருப்புமுனை வாய்ப்பை தருகிறது. பத்தாவது பாராளுமன்றத்தின் கூட்டத்தொடரை ஆரம்பித்து வைத்து தனது அரசாங்கத்தின் கொள்கை விளக்கவுரையை நிகழ்த்திய ஜனாதிபதி அநுரா குமார திசாநாயக்க இலங்கையில் இனவாதத்தையும் மதத் தீவிரவாதத்தையும் தடுப்பதில் கொண்டிருக்கும் உறுதிப்பாட்டை அழுத்திக் கூறினார்.
+Sri Lanka's new president vows to combat racism and extremism, promising justice and equality for all citizens. His government aims to heal historical wounds and unite the nation. Challenges remain, but early signs suggest a shift towards inclusivity and reconciliation.
+
+🟩
+
+Following the September presidential election and the November parliamentary election, the recent political transformation in Sri Lanka gives a turning point to deal with the deeper problems that emerged as a result of discrimination.. President Anura Kumara Dissanayake, who inaugurated his government's policy briefing in the session of the Tenth Parliament, pressed the commitment to prevent racism and religious extremism in Sri Lanka.
+
+He said that his government would not allow communal politics and religious extremism to re -intervene, he said that he would establish a fearless democratic state.. The president, who emphasized the importance of the rule of law, is confirmed that there is no individual nor politician that is more than the law. He promised to investigate controversial crimes and provide justice to the victims and restore confidence in legalism.
 
 ...
 
 [Data](articles/b6693be7.json)
+
+[Extended Data](ext_articles/b6693be7.ext.json)
 
 ---
 
@@ -267,6 +347,28 @@ Co-organised by the International Trade Centre (ITC) and the Sri Lanka Export De
 [Data](articles/1cf71680.json)
 
 [Extended Data](ext_articles/1cf71680.ext.json)
+
+---
+
+### UK-Sri Lanka Trade Mission empowers women entrepreneurs; boosts bilateral ties
+
+*2024-12-04 05:50:48* · [`dailyftlk`](https://www.ft.lk/business/UK-Sri-Lanka-Trade-Mission-empowers-women-entrepreneurs-boosts-bilateral-ties/34-770054) · `en`
+
+Connects 13 UK firms with 45 Sri Lankan women entrepreneurs to explore business opportunities
+
+Aims to expand Sri Lankan women-led enterprises’ access to UK market; whilst providing UK companies new sourcing destinations
+
+UK companies to conduct field visits in Colombo, Kurunegala and Jaffna for deeper market insights
+
+The United Kingdom-Sri Lanka Trade Mission, a key initiative under the UK Government-funded SheTrades Commonwealth+ Program, is fostering economic collaboration between the two countries from 2-6 December.
+
+Co-organised by the International Trade Centre (ITC) and the Sri Lanka Export Development Board (EDB), the mission brings together 13 UK companies and 45 Sri Lankan women entrepreneurs to explore business opportunities in the textiles, apparel and processed agrifood sectors.
+
+...
+
+[Data](articles/9566bcc8.json)
+
+[Extended Data](ext_articles/9566bcc8.ext.json)
 
 ---
 
@@ -1268,6 +1370,8 @@ Facilitated by the renowned HR expert, C. Hewapattini, Chartered Fellow CIPM, th
 
 [Data](articles/8fe7e696.json)
 
+[Extended Data](ext_articles/8fe7e696.ext.json)
+
 ---
 
 ### Manufacturing sector counters feed bullish trend in bourse
@@ -1283,6 +1387,8 @@ Those crossings were reported in Agarapathana Plantations, where 10 million shar
 ...
 
 [Data](articles/1b0afde6.json)
+
+[Extended Data](ext_articles/1b0afde6.ext.json)
 
 ---
 
@@ -1418,6 +1524,22 @@ The President presents the responsibility of the government that has created the
 
 ---
 
+### නොවැම්බරයේදී සංචාරකයන් 184 158ක් ඇවිත්
+
+*2024-12-03 19:51:31* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බරයේදී-සංචාරකයන්-184-158ක්-ඇවිත්/11-413442) · `si`
+
+නොවැම්බර් මාසයේදී ශ්‍රි ලංකාවට සංචාරකයන් 184 158ක් පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි. මෙය 2023 වාර්තා වූ 151 496ක් වූ අගය සැසදීමේසී සියයට 21.5ක වර්ධනයකි.
+
+එසේම මේ වසරේදී නොවැම්බර් 30 දා වන විට ශ්‍රී ලංකාවට සංචාරකයන් 1 804 873ක් පැමිණ තිබේ. ශ්‍රී ලංකාවට වැඩිම සංචාරක පිරිසක් පැමිණ ඇත්තේ 2018 වසරේදී වන අතර එම අගය 2 333 796කි.
+
+මේ වසරේදී ශ්‍රී ලංකාවට සංචාරකයන් මිලයන දෙකක් ඉක්මවා පැමිණීමට වැඩි ඉඩක් පවතී.
+
+◼️
+
+[Data](articles/dc68f000.json)
+
+---
+
 ### South Korea's war releases
 
 *2024-12-03 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204003) · `si`
@@ -1512,19 +1634,29 @@ Similarly, Sri Lanka's High Commissioner Senarath Dissanayake has said that the 
 
 ---
 
-### පාස්පෝට් ටෙන්ඩරය ගැන විමර්ශනයක් අරඹයි
+### Passport begins investigations
 
 *2024-12-03 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ටෙන්ඩරය-ගැන-විමර්ශනයක්-අරඹයි/11-413441) · `si`
 
-ආගමන විගමන දෙපාර්තමේන්තුවට විද්‍යුත් විදේශ ගමන් බලපත්‍ර (ඊ-විදේශ ගමන් බලපත්‍ර) මිලියන 5ක් මිලදී ගැනීම සඳහා පසුගිය පාලන සමයේ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විමර්ශනයක් ආරම්භ කර ඇතැයි නීතිපතිවරයා අභියාචනාධිකරණයට පෙරේදා (02ද) දැනුම් දුන්නේය.
+National Procurement Committee investigates E-Passport launch. Attorney General petitions Court of Appeal. Judges summon National Procurement Committee for observations. President's Counsel requests removal of interim injunction. Case adjourned until January 23rd.
 
-විද්‍යුත් විදේශ ගමන් බලපත්‍ර මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා ඇති ආකාරය අභියෝගයට ලක් කරමින් එපික් ලංකා පුද්ගලික සමාගම ගොනු කර තිබූ පෙත්සම මෝසමක් මගින් කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතිඥ සුමති ධර්මවර්ධන මහතා එසේ දැනුම් දුන්නේය.
+🟩
 
-අභියාචනාධිකරණ විනිසුරුවරුන් වන මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල හමුවේ සලකා බැලිණ.මෝසමකට අනුව අදාළ පෙත්සම කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා කරුණු දක්වමින් ඊ-විදේශ ගමන් බලපත්‍ර මිලියන පහක් මිලදී ගැනීමේ ටෙන්ඩරය පිරිනමා ඇති ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විමර්ශනයක් ආරම්භ කර ඇතැයි කීය.
+The Attorney General has informed the Court of Appeal that the National Procurement Committee has launched an investigation into how the Television of the Immigration and Emigration (E-Passport) has been launched.
 
-...
+Addressing the Attorney General, Sumathi Dharma Dharmawardena appearing on behalf of the Attorney General, the petition filed by the Attorney General was summoned by a motion on a motion.
+
+Judges Judges Judges Judges Mohammed Lafar Thahanier and P. The panel of judges comprising of Kumaran Ratnam was found in the panel.Much, he said.
+
+Mr. Sumathi Dharmawardena called for a week to inform the National Procurement Committee for a week to submit the observations relating to investigation.
+
+President's Counsel Archisharan, who appeared for respondents, asked the request of its clients to remove the interim injunction to be removed by the Court of Justice to remove the interim injunction. To investigate the petitionHe was sentenced to January 23rd.
+
+◼️
 
 [Data](articles/777b21ba.json)
+
+[Extended Data](ext_articles/777b21ba.ext.json)
 
 ---
 
@@ -1558,21 +1690,33 @@ It is a matter of admiration that national people's power has created this gover
 
 ---
 
-### ඇල්ල ඔඩිසියේ සිට සෙල්ෆි ගන්න ඉරාන සංචාරිකාව බංගෙයක ගැටෙයි
+### Iranian tour from the Ella Ordice to take Selphi
 
 *2024-12-03 19:00:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-ඔඩිසියේ-සිට-සෙල්ෆි-ගන්න-ඉරාන-සංචාරිකාව-බංගෙයක-ගැටෙයි/11-413440) · `si`
 
-ඇල්ල සිට කොළඹ කොටුව බලා ගමන් ගත් ඇල්ල ඔඩිසි සංචාරක දුම්රියේ ගමන් ගත් ඉරාන ජාතික විදේශික සංචාරක කාන්තාවක සෙල්ෆි ජායාරූප ගැනිමට යාමෙදි ඔහිය ඉදල්ගස්හින්න දුම්රිය ස්ථාන අතර අංක 20 දුම්රිය බිංගෙයි ගැටී දුම්රියේ න් ඇද වැටී බරපතළ තුවාල ලබා නුවරඑළිය රෝහලට ඇතුළත් කළ බව හපුතලේ පොලිසිය පවසයි .
+Here's a summary of the text in approximately 200 characters:
 
-ඉරානයේ සිට මෙරට සංචාරයක් සදහා පැමිණ ඇති     37 හැවිරිදි ඉරාන ජාතික විදේශික කාන්තාවක මෙසේ තුවාල ලබා ඇතැයි පොලිසිය කීය .
 
-මැය  තවත් කිහිපදෙනක් සමඟ ඇල්ල සිට කොළඹ කොටුව බලා ධාවනය වූ ඇල්ල ඕඩ්සි සංචාරක දුම්රියේ න් නානුඔය බලා  ගමන් කරමින් සිටියදී දුම්රියේ පාපුවරුවේ එල්ලී සෙල්ෆි ජායාරූප ගැනීමට යාමෙදි     ඔහීය  ඉදල්ගස්හින්න අතර පිහිටි දුම්රිය බිංගෙයි ගැටී ධාවනය වෙමින් තිබූ දුම්රියේ න් ඇද වැටී ඇති බවත් පොලිසිය පැවසීය .
 
-පසුව එම දුම්රියේ දමා ගෙන මැය නානුඔය දුම්රිය ස්ථානය ට රැගෙන ගොස් පසුව 1990 ගිලන් රථයක දමා ගෙන නුවරඑළිය රෝහලට රැගෙන ගොස් ඇතුළත් කළ බවද පොලිසිය සදහන් කළේය .
+Train accidents in Sri Lanka: Foreign tourists injured. Woman from Iran hurt near Ella. Koreans and Americans also affected. Haputale police warn against taking photos during train rides.
+
+🟩
+
+The Haputale Police said that the number of train was gone on the train, which was traveling at the Fall from Fall from Fall from the Colombo Fort.
+
+A 37-year-old national foreign woman has been injured in a tour of Sri Lanka to Sri Lanka from Iran.
+
+The police said that when the train was to take photographs of the train while traveling to Nanu Odezi Travel Travel, while traveling with several other train on the train while traveling to Nanu Oddi Travel Travel.
+
+The police said that the police were taken to the Nanu Oya Railway Station.
+
+Meanwhile, in Jamk, a large number of travelers who were traveling between Badulla Fort and night post train in the recent past have been admitted to the Badulla Teaching Hospital.
 
 ...
 
 [Data](articles/d30e29d8.json)
+
+[Extended Data](ext_articles/d30e29d8.ext.json)
 
 ---
 
@@ -1668,23 +1812,31 @@ Police said they have not yet received any information about the suspect who car
 
 ---
 
-### උසස් පෙළ අද සිට යළි ඇරඹෙයි
+### Advanced Level will be resumed today
 
 *2024-12-03 18:35:55* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-අද-සිට-යළි-ඇරඹෙයි/11-413438) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් කල් දැමූ උසස් පෙළ විභාගය අද (04දා) සිට ආරම්භ වන  බව  විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+Advanced Level exams resume today due to weather. Subjects: Chemistry, Technology, Arts, Sinhala, Tamil, English. New schedule available on Examination Department website. Public test on December 7.
 
-රට තුළ පැවැති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පසුගිය 27, 28 29යන තෙදින තුළ උසස් පෙළ නොපැවැත්වීමට මුලින් තීරණය කර තිබුණි.
+🟩
 
-ඉන් පසුව විභාගය පැවැත්වීම ඊයේ (3දා) දක්වා අත්හිටුවිමට කටයුතු කළ අතර මේ වන විට කාලගුණ තත්ත්වය සමාන්‍ය තත්ත්වයට පත් වි තිබෙන නිසා අද සිට විභාගය ආරම්භ වන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර  මහතා සඳහන් කළේය.
+The Advanced Level Examination will commence today (04) due to the inclement weather.
 
-මේ අනුව අද( 4 දිනට) අදාළ කාලසටහනේ නියමිත විෂයන් ඒ අයුරින්ම ආරම්භ වන බවත්, මේ ආකාරයට මේ මස 20 වැනි දින දක්වා දිනවල විෂයන්වලට අදාළව විභාගය  ඒ ආකාරයටම  පත්වන බවද  ද පවසා සිටියේය.
+At the time of the bad weather conditions in the country, the 27th, 28 29, had decided not to hold A / L.
 
-මේ වනවිට නිකුත් කර ඇති කාලසටහන අනුව අද උදේ වරුවේ රසායන විද්‍යාව පළමු පත්‍රය හා තාක්ෂණවේදයේ පළමු පත්‍රය, නාට්‍ය හා රංග කලාව සඳහා සිංහල, දෙමළ හා ඉංග්‍රීසි පළමු පත්‍ර, සවස් වරුවේ දේශපාලන විද්‍යාව පළමු පත්‍රය පැවැත්වේ.
+The examination was suspended yesterday (3), and the examination will commence today.
+
+Accordingly, the subjects will be launched today (4 days) and that the examination will be held on the 20th of this month.
+
+According to the period of time, the first sheet of chemistry and the first sheet of chemistry and the first leafleo of technology and the arts of technology is the first sheet of the first leaflets of Sinhala, Tamil and English.
+
+Tuesday on November 27: Thursday, December 23, on November 23, the subjects that were not on November 28 on November 28, the subjects not on December 28, December 28, December 28, December 28, December 28On Tuesday, on Tuesday, is scheduled to be held on December 31st December
 
 ...
 
 [Data](articles/5439276c.json)
+
+[Extended Data](ext_articles/5439276c.ext.json)
 
 ---
 
@@ -1809,6 +1961,28 @@ Lion Brewery has a plant with an annual capacity of 200 million litres, of which
 [Data](articles/9f2f04ae.json)
 
 [Extended Data](ext_articles/9f2f04ae.ext.json)
+
+---
+
+### Sri Lanka’s Lion Brewery eyes export boost with innovative beers
+
+*2024-12-03 17:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-eyes-export-boost-with-innovative-beers-191708/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Lion Brewery (Ceylon) Plc is planning to boost exports with the help of a newly set up plant, where new beers will be developed and tested, targeting foreign markets, Chief Executive Rajiv Meewakkala said.
+
+Lion Brewery already exports about 20 million dollars of beer to the Maldives, where it is the market leader, the Middle East and East Africa.
+
+In the Maldives Lion Brewery also has rights to export Carlsberg which it produces under license in addition to its own brand.
+
+Over the next five years the firm expects to boost exports to 35 million dollars or 20 percent of its output.
+
+The domestic market had been hit by currency collapses and tax hikes and is usually grows only 2 to 3 percent a year.
+
+Lion Brewery has a plant with an annual capacity of 200 million litres, of which only 160 million is utilized at the moment leaving spare capacity. About 15 percent of the product is already exported.
+
+...
+
+[Data](articles/afd2225f.json)
 
 ---
 
@@ -2259,165 +2433,5 @@ The film has also recorded a huge anticipation among the audience as the film ha
 [Data](articles/c69330b0.json)
 
 [Extended Data](ext_articles/c69330b0.ext.json)
-
----
-
-### Express Pearl - Database is off
-
-*2024-12-03 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204000) · `si`
-
-Colombo Magistrate's Court orders investigation into Express Pearl case. CID deletes email data, database disabled due to technical issues. Deputy Solicitor General requests three months for investigation. Suspects' lawyers argue against unfair treatment. Magistrate warns suspects should appear in court.
-
-🟩
-
-The Colombo Magistrate's Court ordered the investigation into the investigation into the details of the Express Pearl of Express Pearl.
-
-The complaint was called before Colombo Additional Magistrate Kammada Perera today (03).
-
-The seven employees of the local delegation, who are named in the case, appeared in court.
-
-Deputy Solicitor General, Madhawa Tennakoon, appearing on behalf of the Criminal Investigations Department (CID) has said that these investigations have deleted the data related to some emails.
-
-The data on the Digital Laboratories in the Digital Laboratory in the Digital Laboratory in the Digital Laborator of the Questionant Email Message has been retained and that the database has been disabled due to a technical fare.
-
-It is estimated that the database will cost about Rs.
-
-Accordingly, the Deputy Solicitor General has asked the court to grant him over three months.
-
-...
-
-[Data](articles/4a89229a.json)
-
-[Extended Data](ext_articles/4a89229a.ext.json)
-
----
-
-### What happened to the master to stabbed the master today
-
-*2024-12-03 16:22:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියටම-ඇවිත්-ස්වාමියාට-පිහියෙන්-ඇන්න-බිරිඳට-අද-සිදුවූ-දේ/11-413428) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Woman (42) stabs husband in Ratnapura. Arrested by police. Victim hospitalized. Suspect to appear in court. Further investigation by Children's & Women's Bureau.
-
-🟩
-
-The woman arrested by the police arrested the woman had arrested a person with a knife in the Ratnapura Police.
-
-The arrested persons were 42 year old woman from Pitawatte, Ratnapura.
-
-The man who claimed to be a complaint with a child and a woman in Ratnapura, the wife was arrested by the wife and the woman were arrested by the wife, the wife of the police and women.
-
-A resident of the Ratnapura Hospital 7 hospital is currently receiving treatment at the Ratnapura Hospital 7 Hospital.
-
-The suspect is due to be produced before the court today.
-
-Further investigations will be conducted by the Children's and Women's Bureau on the instructions of Mamal Abeysiri, Ratnapura.(I J)
-
-◼️
-
-[Data](articles/21edf7d2.json)
-
-[Extended Data](ext_articles/21edf7d2.ext.json)
-
----
-
-### Ministerial committee on recruiting development officers into teaching service
-
-*2024-12-03 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103969/ministerial-committee-on-recruiting-development-officers-into-teaching-service) · `en`
-
-The Government of Sri Lanka has decided to appoint a ministerial committee led by Prime Minister Dr. Harini Amarasuriya to provide sustainable solutions to the issues pertaining to the recruitment of school development officers for the teaching service.
-
-The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa communicated this during the Cabinet press briefing held today (03).
-
-Currently, more than 15,800 development officers are engaged in teaching in both national and provincial schools.
-
-Accordingly, a ministerial committee chaired by the Prime Minister will be appointed to identify various problems that have arisen in relation to the performance of the development officers as well as the administrative work, analyze the problems and propose sustainable solutions for them.
-
-...
-
-[Data](articles/5c774e7d.json)
-
-[Extended Data](ext_articles/5c774e7d.ext.json)
-
----
-
-### Cabinet approval to remove government high luxury vehicles
-
-*2024-12-03 16:17:06* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-අධි-සුඛෝපභෝගී-වාහන-ඉවත්-කිරීමට-කැබිනට්-අනුමැතිය/11-413427) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Cabinet approves removal of luxury vehicles from government institutions due to high maintenance and fuel costs. Decision aims to optimize resources and reduce expenses.
-
-🟩
-
-Cabinet approval has been approved to abolidate such high luxury vehicles, considering the cost of maintenance and fuel that costs the maintenance and fuel that costs the maintenance and fuel used in government institutions.. It is also taken into consideration that the abolition of vehicles will be more effective to the government.
-
-Accordingly, the formal engine capacity of the vehicles of all state tensions has been conducted in 87.03 vehicles and diesel engine capacity of Rs.To be abused.
-
-The Cabinet proposal submitted to the Treasury to report the cycle to the Treasury to report to the Treasury to report to the Treasury to report to the Treasury to report to the Treasury.
-
-◼️
-
-[Data](articles/f9093155.json)
-
-[Extended Data](ext_articles/f9093155.ext.json)
-
----
-
-### Two committees to solve the problems of graduates in the public service
-
-*2024-12-03 15:58:33* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-සිටින-උපාධිධාරීන්ගේ-ගැටලු-විසඳීමට-කමිටු-දෙකක්/11-413426) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Two committees formed to address graduate issues in public service: Ministerial Officer Committee to identify and resolve problems faced by officers in various positions. Cabinet approval granted for appointments.
-
-🟩
-
-Minister of Ministers and Officers Committee to identify and resolve problems with officers in various positions in public service as a bachelor of public service as a Bachelor of Public Service as a Bachelor of Public Service as a Bachelor of Public Service.Cabinet approval has been granted to appoint.
-
-◼️
-
-[Data](articles/a246e84e.json)
-
-[Extended Data](ext_articles/a246e84e.ext.json)
-
----
-
-### Privileges are studying the newsiri report to limit privileges - Nalinda Jayatissa
-
-*2024-12-03 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203999) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nalinda Jayatissa: Committee studying newsiri report on limiting privileges for ministers, former presidents. Chithrasiri Committee report handed to President Anura Kumara Dissanayake yesterday. Recommendations include reconsidering offers and privileges provided to MPs, Ministers, and former Presidents.
-
-🟩
-
-Related to Ministers and the privileges of former presidents. T. Cabinet Spokesperson Minister Nalinda Jayatissa said that the Artiri Committee was studying the report of the Article Committee today.
-
-Speaking at a press conference held today, he said that at a press conference held today for the Cabinet decisions.
-
-"After the president was appointed, a committee was appointed to investigate the privileges of announced. Former Supreme Court Judge K. T. Chairman of Mr. Chitrasiri. Their report was handed over to the President yesterday. We are studying. "
-
-"The report states. They recommend how to limit certain privileges. We will consider all these things together. "
-
-Re-considered Ken to reconsider the offers and privileges provided by MPs, Ministers and former Presidents. T. The report of the Chithrasiri Committee was handed over to President Anura Kumara Dissanayake yesterday (02).
-
-◼️
-
-[Data](articles/568c8822.json)
-
-[Extended Data](ext_articles/568c8822.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 03:42:32**
+As of **2024-12-05 05:27:21**
 
 ## Newspaper Stats
 
-*Scraped **58,529** Articles*
+*Scraped **58,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
-tamilmirrorlk | 8,330
+tamilmirrorlk | 8,333
 virakesarilk | 9,584
 adaderanasinhalalk | 10,108
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,520 (100.0%) of 58,529 articles have been extended.
+58,531 (100.0%) of 58,532 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -166,63 +166,157 @@ At the request of the Sri Lankan Tamil Nadu, the President of the Tamil National
 
 ---
 
-### அகதி அந்தஸ்த்து கோரல் செயன்முறை கடினமாக்கப்பட்டுள்ளது; விளம்பர பிரசாரத்தை ஆரம்பித்தது கனடா
+### ’மலையக மக்களின் பிரச்சினைகளுக்கு தீர்வு’
+
+*2024-12-05 02:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களின்-பிரச்சினைகளுக்கு-தீர்வு/175-348260) · `ta`
+
+மலையக மக்கள் 75 வருடங்களாக எதிர்நோக்கும்   அனைத்து முக்கிய பிரச்சினைகளுக்கும் தீர்வு பெற்றுக் கொடுக்க தேசிய மக்கள் சக்தி அரசாங்கம் வேலைத் திட்டங்களை முன்னெடுக்கும் என அக் கட்சியின் பதுளை மாவட்ட எம் பி.யான  அம்பிகா சாமுவேல்  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (04) இடம் பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்த அவர்  மேலும் பேசுகையில்,
+
+காணிப் பிரச்சினை, வீட்டுப் பிரச்சினை, சம்பளப் பிரச்சினை என பல்வேறு பிரச்சினைகள் தொடர்கின்ற நிலையில் அவற்றுக்குத் தீர்வு காண்பதற்கான வேலைத்திட்டங்களை தேசிய மக்கள் சக்தி அரசாங்கம் கொள்கைப் பிரகடனத்தில் உள்ளடக்கியுள்ளது
+
+மலையகத்தின் பதுளை மாவட்டத்திலிருந்து பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டுள்ள முதலாவது தமிழ் பெண் உறுப்பினர் என்ற வகையில் நான் மகிழ்ச்சியடைகின்றேன். அதற்காக பதுளை மாவட்ட மக்களுக்கு நான் நன்றி தெரிவித்துக் கொள்கின்றேன் .
+
+...
+
+[Data](articles/0b276097.json)
+
+---
+
+### Is it an attempt to confuse the north and the south?
+
+*2024-12-05 02:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கையும்-தெற்கையும்-குழப்பும்-முயற்சியா/175-348259) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lankan government aims to combat racism, protect religious freedom. Minister proposes anti-terrorism law & asset recovery bills. Focuses on national unity over reconciliation measures.
+
+🟩
+
+Do they upload false propaganda and fake information on social media, confused the north and the south, and repeat the communal war for the Heroes Day?Minister of Justice and National Integration Minister Harshana Nanayakkara said, "We accept that the Terrorism Act should be lifted."
+
+To create an anti -terrorism law in accordance with international law programs. So until the law is prepared and implemented, the country has to take action to suppress racism and religion.
+
+Speaking on the second day of debate on the President's Policy Declaration held in Parliament on Wednesday (04), he said.
+
+The main expectation of the people is to ensure the rule of the law and establish the law against the fraudsters who destroyed the country's resources.
+
+...
+
+[Data](articles/2c1dd7ac.json)
+
+[Extended Data](ext_articles/2c1dd7ac.ext.json)
+
+---
+
+### Refugee status has been made difficult;Canada started advertising campaign
 
 *2024-12-05 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200452) · `ta`
 
-சர்வதேச ரீதியில் புலம்பெயர்வோரையும், அகதிகளையும் பெரும் எண்ணிக்கையில் உள்வாங்கும் நாடாக இருந்துவரும் கனடா, தற்போது அகதி அந்தஸ்த்து கோரும் செயன்முறை கடினமாக்கப்பட்டிருப்பதாக எச்சரிக்கும் வகையிலான இணையவழி விளம்பர பிரசாரமொன்றை உலகளாவிய ரீதியில் ஆரம்பித்துள்ளது.
+Canada launches ad campaign warning refugees about difficulties in obtaining status. The campaign will be in 11 languages and is part of efforts led by Prime Minister Justin Trudeau to restrict refugee access. The total budget for this 4-month campaign equals the annual refugee allocation for the past 7 years.
 
-இந்த விளம்பர பிரசாரமானது ஸ்பானியமொழி, உருது, உக்ரேனிய மொழி, இந்தி மற்றும் தமிழ் உள்ளடங்கலாக 11 மொழிகளில் எதிர்வரும் மார்ச் மாதம் வரை முன்னெடுக்கப்படவிருப்பதாக கனடாவின் குடிவரவுத்திணைக்களம் 'ரொயிட்டர்' செய்திச்சேவைக்குத் தெரிவித்துள்ளது.
+🟩
 
-அகதி அந்தஸ்த்து கோரலை மட்டுப்படுத்தும் நோக்கிலேயே பிரதமர் ஜஸ்டின் ட்ரூடோ தலைமையிலான அரசாங்கத்தினால் இப்பிரசாரம் முன்னெடுக்கப்படவுள்ளது.
+Canada, which has been a large number of immigrants and refugees, has launched an online advertising campaign to warn that the refugee status is now difficult.
 
-இந்த 4 மாத இணையவழி விளம்பர பிரசாரத்துக்காக கடந்த 7 வருடங்களுக்கும் மேலாக இதனைப்போன்ற விளம்பரங்களுக்காக செலவிடப்பட்ட மொத்தத்தொகையில் மூன்று பங்கு தொகை ஒதுக்கீடு செய்யப்பட்டிருப்பதாகவும் செய்திகள் வெளியாகியுள்ளன.
+The advertising campaign will be launched in 11 languages, including Spanish, Urdu, Ukrainian, Hindi and Tamil, to the Canada Department, 'Right' news service.
+
+The campaign is to be carried out by the government led by Prime Minister Justin Trudeau to restrict refugee status.
+
+It has also been reported that the total amount of money spent on such advertising has been allocated for the last 7 years for this 4 -month e -commerce campaign.
 
 ◼️
 
 [Data](articles/0c8c37da.json)
 
+[Extended Data](ext_articles/0c8c37da.ext.json)
+
 ---
 
-### 361 பார்களுக்கு ‘அரசியல் இலஞ்சம்’
+### Trying to create ethnic conflicts
 
-*2024-12-05 01:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/361-பார்களுக்கு-அரசியல்-இலஞ்சம்/175-348257) · `ta`
+*2024-12-05 01:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன-முரண்பாடுகளை-ஏற்படுத்த-முயற்சி/175-348258) · `ta`
 
-கடந்த அரசாங்கத்தில் நாடு முழுவதும் 361 மதுபான சாலைகளுக்கான அரசியல் இலஞ்சமாக அனுமதி வழங்கப்பட்டுள்ளது என சபை முதல்வரும் அமைச்சருமான பிமல் ரத்னாயக்க, பாராளுமன்றத்தில், புதன்கிழமை (04)தெரிவித்தார்.
+Sri Lanka: Ethnic conflict fueled by social media misinformation. Government warns against distorting Heroes Day celebrations to provoke tensions between North and South.
 
-அதில், வடக்கு மாகாணத்திற்கு 32 மதுபான சாலைகளுக்கான அனுமதிகளும் கிழக்கு மாகாணத்திற்கு 22 மதுபான சாலைகளுக்கான அனுமதிகளும் வழங்கப்பட்டுள்ளன.
+🟩
 
-கடந்த அரசில் அரசியல் இலஞ்சமாக பலருக்கு மதுபான சாலைகளுக்கான அனுமதிப்பத்திரங்கள் வழங்கப்பட்டுள்ளன  .அவற்றை வெளியிடும் எனக் கூறியிருந்தோம்.அதற்கமைய அந்த விபரங்களை இந்த சபைக்கு சமர்ப்பிக்கின்றேன். இதனை சகலரும் அறிந்து கொள்ள முடியும்
+Public Security and Parliamentary Affairs Minister Ananda Wijepala said that two of the new Democratic Front activists were the activists of the new Democratic Front, who had uploaded photographs and videos on social networks to deliberately distort the Heroes Day observances in the North and East and create communal conflicts between the North and South.
 
-இந்த விபரத்தின்படி மேல் மாகாணத்தில் 110 மதுபானசாலைகளுக்கான அனுமதிகளும் தென்மாகாணத்தில் 48, வடக்கு மாகாணத்தில் 32, கிழக்கு மாகாணத்தில் 22,மத்திய மாகாணத்தில் 45,வட மத்திய மாகாணத்தில் 14,ஊவா மாகாணத்தில் 30 ,வடமேல் மாகாணத்தில் 30 சப்ரகமுவ மாகாணத்தில் 30 என 361 மதுபானசாலைகளுக்கான அனுமதிகள் அரசியல் இலஞ்சமாக வழங்கப்பட்டுள்ளன.
+He said this while addressing a special statement in Parliament on Wednesday (04).
+
+I have informed the council to announce the reasons for the last two weeks in the country.
+
+The Heroes Day Analyst in the North and East is the main speech in the country. Everyone has the right to remember their dead relationships. All provinces, including the North and East and the South, have this right. We are still in this position today.
 
 ...
 
-[Data](articles/b68bf717.json)
+[Data](articles/76f992ef.json)
+
+[Extended Data](ext_articles/76f992ef.ext.json)
 
 ---
 
-### ஓட்டமாவடி - நாவலடியில் விபத்து: ஒருவர் பலி; மூவர் காயம்!
+### Political bribery for 361 bars
+
+*2024-12-05 01:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/361-பார்களுக்கு-அரசியல்-இலஞ்சம்/175-348257) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"361 liquor licenses granted across provinces: 110 Western, 48 Southern, 32 Northern, 22 Eastern, 45 Central, 14 North Central, 30 each Uva & North Western. Specific numbers for major districts also mentioned."
+
+🟩
+
+Councilor and Minister Bimal Ratnayake said in Parliament on Wednesday (04)
+
+Of these, 32 liquor roads have been granted to the Northern Province and 22 liquor roads for the Eastern Province.
+
+In the last government, many people have been granted licenses for liquor roads. We have said that they will be published.. All can know this
+
+According to this details, the permits for 110 liquor stores in the Western Province have been granted for 361 liquor schools, 48 ​​in the Southern Province, 32 in the Northern Province, 22 in the Eastern Province, 45 in the Central Province, 14 in the North Central Province, 30 in Uva Province and 30 in the North Western Province.
+
+Similarly, Colombo 2, Gampaha 8, Kalutara 8, Galle 9, Matara 5, Jaffna 5, Jaffna 5, Kilinochchi 16, Vavuniya 2, Mannar 2, Trincomalee 2, Batticaloa 1, Batticaloa 1, Ampara 5, Kandy 58, Anuradhapura 4, Polonnaruwa 3, Puttalam 6, Kurunegala 8, Badulla 9, Moneragala 7, Ratnapura 6, Kegalle 2. He said it was not given to Mullaitivu.
+
+◼️
+
+[Data](articles/b68bf717.json)
+
+[Extended Data](ext_articles/b68bf717.ext.json)
+
+---
+
+### Ottamavadi - accident in Naval: One killed;The trio is hurt!
 
 *2024-12-05 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200451) · `ta`
 
-ஓட்டமாவடி - நாவலடி பகுதியில் இடம்பெற்ற வாகன விபத்தில் நபரொருவர் பலியாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Vehicle accident in Ottamavadi kills one, injures three. Driver arrested. Police investigating.
 
-இந்தச் சம்பவம் வியாழக்கிழமை (4) மாலை நாவலடி - கொழும்பு பிரதான வீதியில் இடம்பெற்றுள்ளது.
+🟩
 
-நாவலடி பிரதான வீதியாக பொலன்னறுவை பகுதியை நோக்கிப் பயணம் செய்த ரிப்பர் வாகனமொன்று எதிரே வந்த முச்சக்கர வண்டியில் மோதியுள்ளது.
+A man was killed in a vehicle accident in Ottamavadi - Nawaladi area, police said.
 
-இவ் விபத்தில் முச்சக்கர வண்டியில் பயணம் செய்த ஓமனியாமடு பகுதியைச் சேர்ந்த குடும்பஸ்தர் ஒருவர் பலியாகியுள்ளார்.
+The incident took place on Thursday evening (4) on the Navaladi -Colombo main road.
 
-அத்துடன்,  முச்சக்கர வண்டி சாரதி உட்பட அதில் பயணம் செய்த மூவர் காயங்களுடன் வாழைச்சேனை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A ripper vehicle traveling towards the Polonnaruwa area as the main road of Nawaladi has crashed into a three -wheeler.
 
-விபத்தில் பலியான நபரின் உடல் பிரேதப் பரிசோதனைக்காக வாழைச்சேனை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+A family member from Omaniyamadu area was killed in the accident.
 
-விபத்தை ஏற்படுத்திய ரிப்பர் சாரதி வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளதுடன், இவ் விபத்து தொடர்பான மேலதிக விசாரணைகளை வாழைச்சேனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+In addition, three people, including a three -wheeler driver, have been admitted to the Valaichenai Resource Hospital with injuries.
+
+The body of the victim has been placed at the Valaichenai Resource Hospital for autopsy.
+
+Ripper driver who caused the accident has been arrested by the Valaichenai police and further investigations into the accident are being carried out by the Valaichenai police.
 
 ◼️
 
 [Data](articles/fd4a0db8.json)
+
+[Extended Data](ext_articles/fd4a0db8.ext.json)
 
 ---
 
@@ -522,53 +616,87 @@ The government has ruled with 159 seats.To make a new change in the lives of peo
 
 ---
 
-### வடக்கில் தண்டனை சட்டக்கோவை தெற்கில் பயங்கரவாத தடைச் சட்டம் ஏன் இரட்டை நிலைப்பாடு - தயாசிறி  ஜயசேகர
+### Why Dual Stability of Terrorism Act in the North
 
 *2024-12-05 00:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200429) · `ta`
 
-வடக்கில் சிவாஜிலிங்கம் தண்டனை சட்டகோவையின் பிரகாரம் கைது செய்யப்படுகிறார். தெற்கில்  பயங்கரவாத தடைச்சட்டத்தின் கீழ் சமூக செயற்பாட்டாளர்கள் கைது செய்யப்படுகிறார்கள். ஏன் இந்த இரட்டை நிலைப்பாடு. இவ்வாறான கைதுகளின் போது சட்டமா அதிபரிடம் ஆலோசனை கோருங்கள்.இனவாதத்தை இல்லாதொழிக்க வேண்டுமாயின் பொதுத்தன்மையுடன் செயற்பட வேண்டும் என பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில் புதன்கிழமை (04) நடைபெற்ற ஜனாதிபதியின் கொள்கை பிரகடன மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க  தலைமையிலான அரசாங்கத்துக்கு வாழ்த்து தெரிவித்துக் கொள்கிறேன். க அதேபோல் பாரிய அரசியல் சவால்களுக்கு மத்தியில் எனக்கு ஆதரவு வழங்கிய குருநாகல் தேர்தல் மாவட்ட மக்களுக்கும் நன்றி தெரிவித்துக் கொள்கிறேன்.
+
+Dual treatment of terrorism: Sivajilingam in North vs social activists in South. Attorney General consulted during arrests. National People's Power promises reduced fuel/electricity costs but fails to deliver. Government vows to combat racism and corruption.
+
+🟩
+
+Sivajilingam in the north. Social activists are arrested under the Terrorism Act in the South. Why this dual stand. Consult the Attorney General during these arrests.
+
+He was speaking at a debate on the President's Policy Declaration held in Parliament on Wednesday (04).
+
+I congratulate the government headed by President Anura Kumara Dissanayake. I also thank the people of Kurunegala Electoral District who supported me amidst massive political challenges.
+
+Prior to 2015, a massive voice was raised among the people on racism, religion and corruption. If the Ranil -Maithri government came to power in 2015, the country would have improved.
+
+Religious leaders advised Gotabhaya Rajapakse to manage this country to become Hitler. But he was spontaneously stupid. In the end, the country opposed the worst crises.
+
+It was in this context that the people of the country formed the power -led government. Remember that there is no way. The authority is like swing.
 
 ...
 
 [Data](articles/29322a98.json)
 
+[Extended Data](ext_articles/29322a98.ext.json)
+
 ---
 
-### மாவீரர் தினத்தில் இனமுரண்பாட்டை தோற்றுவிக்க முயற்சித்தவர்களில் இருவர் சிலிண்டர் சின்னத்தின் செயற்பாட்டாளர்கள் - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
+### Activists of the cylinder symbol - the Minister of Public Safety
 
 *2024-12-05 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200422) · `ta`
 
-வடக்கு மற்றும் கிழக்கில் இடம்பெற்ற மாவீரர் தின அனுஸ்டிப்புக்களை திட்டமிட்ட வகையில் திரிபுபடுத்தி வடக்கு - தெற்குக்கிடையில் முரண்பாடுகளை ஏற்படுத்தும் வகையில் சமூக வலைதளங்களில் புகைப்படம் மற்றும் காணொளிகளை பதிவேற்றம் செய்தவர்களில் இருவர் புதிய ஜனநாயக முன்னணியின் செயற்பாட்டாளர்கள். ஊடகங்களை அடக்க வேண்டிய அவசியம் அரசாங்கத்துக்கு கிடையாது. ஒருவரின் உரிமை பிறிதொருவருக்கு இடையூறாக அமைய கூடாது என்பதை அனைவரும் நினைவில் வைத்துக் கொள்ள வேண்டும் என  பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில் புதன்கிழமை (04) நடைபெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-கடந்த இருவார காலப்பகுதியில் இடம்பெற்ற கைதுகள் மற்றும் அதற்கான காரணங்களை சபைக்கு அறிவிக்க எதிர்பார்க்கிறேன்.
+
+Activists distort Heroes Day observations on social media, creating conflicts between North and South. Minister Ananda Wijepala warns against misinformation, emphasizes media freedom while protecting national integrity. Police action taken against LTTE symbol usage and false reporting.
+
+🟩
+
+Two of the new Democratic Front activists who have uploaded photos and videos on social networks to deliberately distort the Heroes Day observations in the North and East and create conflicts between the North and South.. The government does not need to suppress the media. Minister of Public Security and Parliamentary Affairs Ananda Wijepala said that everyone should remember that one's rights should not be a disruption to another.
+
+He was speaking at a special statement during a session held in Parliament on Wednesday (04).
+
+I expect to announce the reasons for the arrests and the reasons that have taken place over the past two weeks.
+
+The national people's power was received against racism. All ethnic groups have received a decree for national people's power to ensure national integrity. So we will act against racism and religion.
 
 ...
 
 [Data](articles/ee300e12.json)
 
+[Extended Data](ext_articles/ee300e12.ext.json)
+
 ---
 
-### புதிய அரசியலமைப்பில் தமிழர்களின் சமவுரிமையை உறுதிப்படுத்த வேண்டும்  - சாணக்கியன் வலியுறுத்தல்
+### To ensure the equality of Tamils ​​in the new Constitution - Chanakyan emphasizes
 
 *2024-12-05 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200421) · `ta`
 
-தமிழ் மக்களுக்கும்  இந்த நாட்டில்  சம உரிமையுள்ளது.   உத்தேச புதிய அரசியலமைப்பில்  தமிழர்களின்  சமவுரிமை உறுதிப்படுத்தப்பட வேண்டும்.இந்த  அரசை வீழ்த்துவதோ அல்லது பலவீனப்படுத்துவதோ எமது நோக்கமல்ல  . சிறந்த தீர்மானங்களுக்கு ஒத்துழைப்பு வழங்குவோம் என இலங்கை தமிழரசுக்  கட்சியின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+Chanakyan emphasizes ensuring Tamil equality in the new Constitution. He calls for releasing political prisoners, removing military camps, and resolving land issues. The TNA seeks equal rights for Tamils in the new constitution and transparency regarding alcohol permits.
 
-பாராளுமன்றத்தில் புதன்கிழமை (04)  இடம்பெற்ற ஜனாதிபதியின் கொள்கை பிரகடனம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-தேசிய மக்கள் சக்திக்கு எவ்வாறு நாடு முழுவதும் மக்கள் ஆணை கிடைத்ததோ அதேபோன்று வடக்கு கிழக்கில் தமிழரசு கட்சிக்கே மக்கள் ஆணை கிடைத்துள்ளது. அத்துடன் அநுர சுனாமியை எமது மட்டக்களப்பு மாவட்டம் மடடமே தைரியமாக எதிர்த்து நின்றது. அதனால்தான் அங்கு நாம் வரலாற்று வெற்றியைப் பெற்றோம்.
+The Tamil people have equal rights in this country.The proposed new constitution must be ensured the equality of Tamils.. Sri Lanka Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that we will cooperate with the best decisions.
 
-தமிழ் மக்களை பொறுத்தவரையில் தீர்க்கப்படாத பல பிரச்சினைகள் உள்ளன. பயங்கரவாத தடைச்சட்டத்தின் கீழ் கைது செய்யப்பட்ட அரசியல் கைதிகள் இன்னும் விடுதலை  செய்யப்படவில்லை. ஆகவே   அரசியல் கைதிகளை  உடனடியாக விடுவிக்க வேண்டும்.
+He was speaking at a debate on the President's Policy Declaration held in Parliament on Wednesday (04).
+
+The Tamil people in the North and East have received the people's mandate as the national People's Power. Also, the tsunami of our Batticaloa district boldly resisted. That is why we have a historical success there.
+
+There are many unresolved problems for the Tamil people. Political prisoners arrested under the Terrorism Act have not yet been released. Therefore, political prisoners should be released immediately.
 
 ...
 
 [Data](articles/594f6670.json)
+
+[Extended Data](ext_articles/594f6670.ext.json)
 
 ---
 
@@ -796,6 +924,8 @@ Last week, the Court of Appeal dismissed an appeal by the People’s Bank challe
 
 [Data](articles/22027ffa.json)
 
+[Extended Data](ext_articles/22027ffa.ext.json)
+
 ---
 
 ### If you have a money laundering fraud using the name of the PA and the name of Namal Rajapaksa - Make a complaint with the police - Geetanath Kasilingam
@@ -875,6 +1005,8 @@ The Church had known at the highest level about the sexual abuse in 2013. Welby 
 ...
 
 [Data](articles/e4e132b0.json)
+
+[Extended Data](ext_articles/e4e132b0.ext.json)
 
 ---
 
@@ -1397,6 +1529,8 @@ The recent political transition in Sri Lanka, following the presidential and par
 ...
 
 [Data](articles/c6ef5c1f.json)
+
+[Extended Data](ext_articles/c6ef5c1f.ext.json)
 
 ---
 
@@ -2377,65 +2511,5 @@ It is exceeding the limit of 13,462.4 all the highest share price index value in
 [Data](articles/1a6efd21.json)
 
 [Extended Data](ext_articles/1a6efd21.ext.json)
-
----
-
-### Jeff Paul, Isabelle Mauny join Sri Lanka’s WSO2
-
-*2024-12-04 15:45:00* · [`economynextcom`](https://economynext.com/jeff-paul-isabelle-mauny-join-sri-lankas-wso2-121939/) · `en`
-
-ECONOMYNEXT – Jeff Paul has been appointed senior vice president and global head of sales, and Isabelle Mauny as vice president and chief developer advocate at Sri Lankan-based WSO2.
-
-They will play “strategic roles in expanding global adoption of WSO2’s offerings via initiatives aimed at customer advocacy, education, and counsel,” the technology company said.
-
-Jeff Paul brings more than two decades of technology sales experience, including vice president roles at Red Hat, Intel and IBM.
-
-Isabelle Mauny has 25-plus years of integration and API industry experience, including roles as a 42Crunch co-founder and WSO2 vice president of product management.
-
-“Their deep knowledge of the digital opportunities and challenges facing organizations today will be invaluable in helping customers navigate their transformation journeys,” WSO2 founder and CEO Dr Sanjiva Weerawarana said.
-
-...
-
-[Data](articles/ace9d8af.json)
-
-[Extended Data](ext_articles/ace9d8af.ext.json)
-
----
-
-### The chosen children, no children to accept her body
-
-*2024-12-04 15:44:43* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-පස්දෙනෙක්-බිහිකළත්-ඇගේ-සිරුර-භාරගැනීමට-නොආ-දරුවන්/11-413449) · `si`
-
-Elderly mother hospitalized alone, no visitors. Children abandoned her. Hospital staff cared for her. Five children found dead. Religious leaders and officials helped bury her.
-
-🟩
-
-An elderly mother of the Horowpothana government hospital was included in ill health. No one came to visit the sick mother and a mother of five children, she recently sighed the final signing in the hospital without anyone.
-
-The mother in Horowpothana introduced his children to children was a child, and he also identified the mother and disappeared.Did not return. From the time of the hospital, the hospital staff, nurses, as well as other staff, was committed to treating the treatment and bail to be bailed and loved.
-
-Five children who created five cups of the cups, hospitals were led by the hospital's morgue of the hospital's morgue.
-
-...
-
-[Data](articles/fde5f46f.json)
-
-[Extended Data](ext_articles/fde5f46f.ext.json)
-
----
-
-### CSE’s All Share Price Index records all-time high
-
-*2024-12-04 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103989/cses-all-share-price-index-records-all-time-high-) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange has reached all-time high today (04), surpassing the previous record set on 19 January 2022.
-
-Accordingly, the index has increased by 171.69 points within the day to close at 13,511.73.
-
-◼️
-
-[Data](articles/c5d0df4d.json)
-
-[Extended Data](ext_articles/c5d0df4d.ext.json)
 
 ---

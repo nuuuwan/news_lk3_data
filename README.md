@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 08:09:53**
+As of **2024-12-04 08:59:00**
 
 ## Newspaper Stats
 
-*Scraped **58,352** Articles*
+*Scraped **58,358** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
-bbccomsinhala | 608
+bbccomsinhala | 609
 islandlk | 3,506
 economynextcom | 3,543
 dailyftlk | 4,033
 dailymirrorlk | 4,733
-adalk | 5,523
-adaderanalk | 7,080
-tamilmirrorlk | 8,300
+adalk | 5,524
+adaderanalk | 7,083
+tamilmirrorlk | 8,301
 virakesarilk | 9,552
 adaderanasinhalalk | 10,076
 
@@ -26,11 +26,89 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,339 (100.0%) of 58,352 articles have been extended.
+58,345 (100.0%) of 58,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### A/L  பரீட்சை இன்று மீண்டும் ஆரம்பம்
+
+*2024-12-04 08:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-இன்று-மீண்டும்-ஆரம்பம்/175-348216) · `ta`
+
+சீரற்ற வானிலை காரணமாக ஒத்திவைக்கப்பட்ட கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சையின் இரண்டாம் கட்டப் பரீட்சை இன்று (04) மீண்டும் ஆரம்பமாகியுள்ளது.
+
+நவம்பர் 27ஆம் திகதி முதல் 06 நாட்களுக்கு ஒத்திவைக்க பரீட்சை திணைக்களம் நடவடிக்கை எடுத்திருந்தது.
+
+பரீட்சை அட்டவணையில் குறிப்பிடப்பட்டுள்ளவாறு இன்று முதல் பரீட்சை நடவடிக்கைகள் இடம்பெறும் என பரீட்சைகள் ஆணையாளர் நாயகம்  அமித் ஜயசுந்தர குறிப்பிட்டுள்ளார்.
+
+அதன்படி, முன்னதாக வெளியிடப்பட்ட அட்டவணைப்படி இன்று முதல் டிசம்பர் 20 ஆம் திகதி வரை பரீட்சை நடைபெறும்.
+
+பரீட்சை இடம்பெறாத தினங்களுக்கு டிசம்பர் 21 முதல் டிசம்பர் 31 வரை பரீட்சை நடைபெறும் என்றும் பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/9ba4183a.json)
+
+---
+
+### South Korea’s President Yoon reverses martial law after lawmakers defy him
+
+*2024-12-04 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103978/south-koreas-president-yoon-reverses-martial-law-after-lawmakers-defy-him) · `en`
+
+South Korean President Yoon Suk Yeol said on Wednesday he would lift a surprise martial law declaration he had imposed just hours before, backing down in a standoff with parliament which roundly rejected his attempt to ban political activity and censor the media.
+
+In South Korea’s biggest political crisis in decades, Yoon shocked the nation and declared martial law on Tuesday night to thwart “anti-state forces” among his domestic political opponents. But outraged lawmakers unanimously rejected the decree. Yonhap news agency said the cabinet had agreed early on Wednesday to scrap the martial law.
+
+Protesters outside the National Assembly parliament shouted and clapped. “We won!” they chanted, and one demonstrator banged on a drum.
+
+The main opposition Democratic Party called for Yoon, who has been in office since 2022, to resign or face impeachment.
+
+...
+
+[Data](articles/4722e6b8.json)
+
+---
+
+### Fair weather prevails across most areas; morning mist expected
+
+*2024-12-04 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103977/fair-weather-prevails-across-most-areas-morning-mist-expected) · `en`
+
+The Department of Meteorology says that several spells of showers will occur in Northern and Eastern provinces today (04).
+
+Showers  or  thundershowers  may  occur  at  a few  places  in  Central, North-western,  North-central and Uva provinces during the evening or night, it added.
+
+Meanwhile, mainly fair weather will prevail elsewhere, while misty conditions can be expected in most places of the island during the morning, according to the department.
+
+The sea areas around the island will be slight, the Met. Department added.
+
+◼️
+
+[Data](articles/00afe0b6.json)
+
+---
+
+### 2024 A/L exam resumes
+
+*2024-12-04 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103976/2024-al-exam-resumes) · `en`
+
+The 2024 G.C.E. Advanced Level examination which was temporarily suspended due to recent adverse weather conditions recommences today (Dec. 04).
+
+The 2024 A/L examination commenced on November 25, and was later suspended temporarily on November 27 due to extreme weather conditions that affected the communities across the island.
+
+Accordingly, the Department of Examinations said that the exam will recommence tomorrow and will continue according to the usual time table that has already been provided to the students.
+
+Furthermore, the Commissioner General of Examinations Amith Jayasundara stated that the subjects which were scheduled to be held on the dates, in which the exam had been suspended, will be held in the upcoming days.
+
+The new time table related to the said dates will be provided to the students at the examination centres on Saturday (Dec. 07), Jayasundara added.
+
+...
+
+[Data](articles/d5e1ba16.json)
+
+[Extended Data](ext_articles/d5e1ba16.ext.json)
+
+---
 
 ### Today's weather announcement
 
@@ -188,6 +266,8 @@ Some Inland Revenue Department (IRD) officers have misunderstood that contractor
 
 [Data](articles/88b2ef53.json)
 
+[Extended Data](ext_articles/88b2ef53.ext.json)
+
 ---
 
 ### PM vows NPP will seize historic opportunity to represent all citizens
@@ -208,6 +288,8 @@ Speaking during the opening of the Parliamentary debate on the President’s pol
 
 [Data](articles/e22af96e.json)
 
+[Extended Data](ext_articles/e22af96e.ext.json)
+
 ---
 
 ### New Constitution to be introduced in three years: Cabinet Spokesman
@@ -225,6 +307,8 @@ On 5 September, during a campaign rally in Jaffna, President Anura Kumara Dissan
 ...
 
 [Data](articles/a8de5ae5.json)
+
+[Extended Data](ext_articles/a8de5ae5.ext.json)
 
 ---
 
@@ -245,6 +329,8 @@ The bill aims to nullify the nominations called for the election initially sched
 ...
 
 [Data](articles/8268bae3.json)
+
+[Extended Data](ext_articles/8268bae3.ext.json)
 
 ---
 
@@ -367,6 +453,24 @@ The referendum will be held at 05 pm. The adjournment debate on the disaster con
 [Data](articles/f0809f91.json)
 
 [Extended Data](ext_articles/f0809f91.ext.json)
+
+---
+
+### 'මම ගහන කුළුගෙඩි පහරට වඩා ක්‍රීඩිකාවක ලෙස මගේ දුව ශක්තිමත්'
+
+*2024-12-04 02:59:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1ln4g1j835o) · `si`
+
+කුස මත තබා කළු ගල් කැඩීමට අදාළව ලෝක වාර්තාවක් පිහිටුවීමට පුහුණුවීම්වල නිරත වෙමින් සිටින බව කළු පටි ශ්‍රේණිධාරී කරාතේ ක්‍රීඩිකාවක වන විශ්මි නවෝද්‍යා මායාදුන්න පවසන්නීය.
+
+ජාතික සහ ජාත්‍යන්තර තරග 50කට අධික සංඛ්‍යාවක් ජයග්‍රහණය කර ඇති ඇය, වයස අවුරුදු 12දී කළු පටි ශ්‍රේණිධාරියක වූවා ය.
+
+මේ වන විට 14 වන වියේ පසු වන විශ්මි, කුරුණෑගල, නාරම්මල මයුරපාද කනිෂ්ඨ විද්‍යාලයේ 9 ශ්‍රේණියේ අධ්‍යාපනය ලබයි.
+
+කරාතේ උපදේශකවරයෙකු හා විනිසුරුවරයෙකු වන සිය පියාගේ අධීක්ෂණය මත ඇය පුහුණු කටයුතුවල නිරත වෙයි.
+
+◼️
+
+[Data](articles/1f0d746d.json)
 
 ---
 
@@ -496,25 +600,37 @@ Meanwhile, the exams to be held on Monday, December 2, are scheduled to be held 
 
 ---
 
-### හුදෙකලා හමුදා දූපතක රඳවා සිටි ශ්‍රී ලාංකික සරණාගතයින් පිරිසක් බ්‍රිතාන්‍යයට
+### British refugees in lone military island
 
 *2024-12-04 02:04:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpq9z9l9yrqo) · `si`
 
-හුදෙකලා හමුදා දූපතක රඳවා සිටි ශ්‍රී ලාංකික සරණාගතයින් පිරිසක් බ්‍රිතාන්‍යයට
+Here's a summary of the article in approximately 200 characters:
 
-වසර තුනකට වැඩි කාලයක් ඉන්දියන් සාගරයේ දූරස්ථ දූපතක් වන දියෙගෝ ගාර්සියාහි අතරමංව සිටි සංක්‍රමණිකයන් එක්සත් රාජධානියට ගෙන එනු ලැබ තිබේ.
 
-මෙම ශ්‍රී ලාංකික දෙමළ සංක්‍රමණිකයින්ට බ්‍රිතාන්‍ය විදේශ කාර්යාලයේ මූල්‍ය අනුග්‍රහය ඇතිව  මාස හයක් රට තුළ රැඳී සිටීමට අවසර ඇති බව බීබීසීය විසින් අනාවරණය කර ගත් ලේඛනවල දැක්වේ.
 
-ඔවුන් එක්සත් රාජධානියට ගිය ගමන ඔවුන්ගේ ඉරණම සම්බන්ධයෙන් සැතපුම් දහස් ගණනක් පුරා ගෙන ගිය සංකීර්ණ නීතිමය සටන්වල ​​අවසානය සනිටුහන් කරන නමුත් ඔවුන්ගේ දිගුකාලීන අනාගතය අවිනිශ්චිතව පවතී.
+British Tamil refugees stranded on Diego Garcia island for over 3 years. UK government allows temporary entry with financial sponsors. Future uncertain as they face challenges like sexual abuse allegations and uncertain long-term status. The situation has sparked legal battles and international attention.
 
-සංක්‍රමණිකයින් 60 දෙනෙකුගෙන් යුත් මෙම කණ්ඩායමේ වැඩි දෙනෙක් 2021 ඔක්තෝම්බර් මාසයේ සිට, දියෙගෝ ගාර්සියා  හි තාවකාලික කඳවුරක වාසය කරති. උපායමාර්ගික වශයෙන් වැදගත් වන එක්සත් රාජධානි-එක්සත් ජනපද හමුදා කඳවුරක් පිහිටි දියෙගෝ ගාර්සියාහි  සරණාගත ඉල්ලීම් ගොනු කළ පළමු සංක්‍රමණිකයින් වන්නේ මොවුන් ය.
+🟩
 
-සඳුදා, බ්‍රිතාන්‍ය රජයේ ප්‍රකාශකයෙකු මෙම ක්‍රියාමාර්ගය විස්තර කළේ “මෙම නඩුවල සුවිශේෂී ස්වභාවය සහ ඔවුන්ගේ සුබසාධනය සඳහා ගත් පියවරක් ලෙස” ය.
+British refugees in lone military island
+
+The immigrants stranded in the Indian Ocean for more than three years, migrants were brought to the UK.
+
+These Sri Lankan Tamils ​​are allowed to stay in the country for six months with financial sponsors of the British Foreign Office.
+
+Their journey to the UK marks the end of the complex legal battles over thousands of miles, but their long-term future is uncertain.
+
+Most of the migrants of 60 immigrants live in a temporary camp in Diago Garcia. They are the first immigrants who filed refugee demands in Diyago Garcia, which is strategically important.
+
+On Monday, a British government spokesman described this course of action: "As a step in these cases, as a step to their welfare."
+
+"Under the past rule, the government had to take over to this government for many years," the publisher said. The UK Legal Company, a UK Legal Company representing some migrants, said that this is the only sensitive solution to the humanitarian crisis in the island.
 
 ...
 
 [Data](articles/4fe1a835.json)
+
+[Extended Data](ext_articles/4fe1a835.ext.json)
 
 ---
 
@@ -1432,6 +1548,26 @@ Police said they have not yet received any information about the suspect who car
 
 ---
 
+### උසස් පෙළ අද සිට යළි ඇරඹෙයි
+
+*2024-12-03 18:35:55* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-අද-සිට-යළි-ඇරඹෙයි/11-413438) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් කල් දැමූ උසස් පෙළ විභාගය අද (04දා) සිට ආරම්භ වන  බව  විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+රට තුළ පැවැති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පසුගිය 27, 28 29යන තෙදින තුළ උසස් පෙළ නොපැවැත්වීමට මුලින් තීරණය කර තිබුණි.
+
+ඉන් පසුව විභාගය පැවැත්වීම ඊයේ (3දා) දක්වා අත්හිටුවිමට කටයුතු කළ අතර මේ වන විට කාලගුණ තත්ත්වය සමාන්‍ය තත්ත්වයට පත් වි තිබෙන නිසා අද සිට විභාගය ආරම්භ වන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර  මහතා සඳහන් කළේය.
+
+මේ අනුව අද( 4 දිනට) අදාළ කාලසටහනේ නියමිත විෂයන් ඒ අයුරින්ම ආරම්භ වන බවත්, මේ ආකාරයට මේ මස 20 වැනි දින දක්වා දිනවල විෂයන්වලට අදාළව විභාගය  ඒ ආකාරයටම  පත්වන බවද  ද පවසා සිටියේය.
+
+මේ වනවිට නිකුත් කර ඇති කාලසටහන අනුව අද උදේ වරුවේ රසායන විද්‍යාව පළමු පත්‍රය හා තාක්ෂණවේදයේ පළමු පත්‍රය, නාට්‍ය හා රංග කලාව සඳහා සිංහල, දෙමළ හා ඉංග්‍රීසි පළමු පත්‍ර, සවස් වරුවේ දේශපාලන විද්‍යාව පළමු පත්‍රය පැවැත්වේ.
+
+...
+
+[Data](articles/5439276c.json)
+
+---
+
 ### Litro gas prices do not change
 
 *2024-12-03 18:31:03* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-වෙනස්-නොවෙයි/11-413437) · `si`
@@ -2285,161 +2421,5 @@ Failure to pay the fine should be sentenced to 6 months in prison for 3 months i
 [Data](articles/381ce708.json)
 
 [Extended Data](ext_articles/381ce708.ext.json)
-
----
-
-### Several posts in the Prime Minister and the Opposition Leader Secretariat
-
-*2024-12-03 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203998) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Cabinet approves appointments for two PM's Office vacancies. JMRK Jayasundera & Chandani Sagaica Bogage named. Jayasundera serves as Additional District Secretary. Bogage is Ministry of Finance director. Ranasinghe appointed Opposition Secretary.
-
-🟩
-
-Cabinet approval has been given to appoint appointments for two vacancies for two vacancies in the Prime Minister's Office.
-
-The proposal made by Prime Minister Dr. Hairini Amarasuriya has approved the proposal.
-
-Accordingly, the officer in Sri Lanka Administrative Service Special Grade JMRK. Mr. Jayasundera and Officer of the Sri Lanka Planning Service I Mrs. Chandani Sagaica Bogage have been named for the posts.
-
-JMRK Jayasundara is currently serving as an Additional District Secretary of the Kurunegala District Secretariat.
-
-Ms. Chandani Sagaica Bogalat is currently serving as a director of the Ministry of Finance, Planning and Economic Development.
-
-The Cabinet decision notification statement further states that she has proposed to appoint a full-time work in the post.
-
-...
-
-[Data](articles/352eacac.json)
-
-[Extended Data](ext_articles/352eacac.ext.json)
-
----
-
-### Cabinet nod to establish ‘Clean Sri Lanka Fund’, appoint task force
-
-*2024-12-03 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103967/cabinet-nod-to-establish-clean-sri-lanka-fund-appoint-task-force) · `en`
-
-The Cabinet of Ministers has greenlighted the proposal to establish a ‘Clean Sri Lanka’ Fund and appoint a Presidential Task Force for its management.
-
-Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said considering the fact that Sri Lanka is currently experiencing significant setbacks not only economically but also politically, socially, spiritually and environmentally, the program called “Clean Sri Lanka” has been planned to be implemented as a national mission to achieve the national aspiration by ensuring the well-being, reconciliation and progress of the people of the country.
-
-This transformative initiative, which is guided by the new government’s vision of “A Prosperous Country, a Beautiful Life” , will be implemented with the aim of achieving social, environmental and ethical awakening, the Minister added.
-
-...
-
-[Data](articles/5023a34e.json)
-
-[Extended Data](ext_articles/5023a34e.ext.json)
-
----
-
-### Parliament tomorrow parliament until 9:30 pm
-
-*2024-12-03 15:18:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාර්ලිමේන්තුව-රාත්‍රී-9-30-තෙක්/11-413423) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Parliament meets tomorrow until 9:30 PM. Church adjourned due to adverse weather. President's policy statement debate from 9:30 AM to 5:00 PM. Postponement proposal to be discussed after 5:30 PM election.
-
-🟩
-
-Deciding on the recent adverse weather has decided to adjourn the church to the post of Adverse Weather, held at the party leaders' meeting chaired by Speaker Dr. Asoka Ranwala underway.
-
-Accordingly, the proposal on the proposal to the President's policy statement by the President in Parliament will be held from 9.30 am to 5:00 pm. The council has agreed to hold the post of postponement as a proposal to be taken by the party after the election to be held at 5.30 pm.
-
-◼️
-
-[Data](articles/6fde3981.json)
-
-[Extended Data](ext_articles/6fde3981.ext.json)
-
----
-
-### Australian citizen jumped from the floor
-
-*2024-12-03 15:16:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாடியில்-இருந்து-குதித்த-அவுஸ்திரேலிய-பிரஜை/175-348185) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-A 51-year-old Australian citizen jumped from the 7th floor of an apartment building in Kaluppitti Crescent on Tuesday. Police stated he was temporarily residing in the foreigner-owned building.
-
-🟩
-
-It is reported that an Australian citizen (51 years old) has jumped from the Kaluppitti Crescent apartment on Tuesday (03).
-
-Police said they were temporarily staying on the 7th floor of the dual citizen's foreigner building.
-
-◼️
-
-[Data](articles/a6deb9f7.json)
-
-[Extended Data](ext_articles/a6deb9f7.ext.json)
-
----
-
-### Government decisions relating to recruit development officers to teacher work
-
-*2024-12-03 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203997) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-PM forms committee to address development officer recruitment issues. Over 15,800 officers teach in national/provincial schools. Committee to analyze problems and propose solutions within 7 weeks.
-
-🟩
-
-Development Officers have decided to appoint a ministerial committee headed by the Prime Minister to provide sustainable solutions to the issues of recruitment of development officers.
-
-Cabinet spokesman, Minister Nalinda Jayatissa said that at the Cabinet press conference held today (03).
-
-More than 15,800 development officers are engaged in teaching in national schools and provincial schools.
-
-Accordingly, the administrative proceedings of the development officers and identifying various issues that have been identified today, a ministerial committee will be appointed as the Prime Minister of Prime Minister to analyze these issues and present these issues.
-
-Cabinet Spokesperson, Minister Nalinda Jayatissa added that the Prime Minister's secretary has been approved by the Cabinet of the Prime Minister's Secretary to appoint a ministerial committee consisting of Ministers / Deputy Ministers and the proposal of the Prime Minister's Secretary to assist the committee.
-
-...
-
-[Data](articles/24ff2501.json)
-
-[Extended Data](ext_articles/24ff2501.ext.json)
-
----
-
-### The death of Madarasa students;Rishad Sad
-
-*2024-12-03 15:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதரஸா-மாணவர்களின்-உயிரிழப்பு-ரிஷாட்-விசனம்/175-348184) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rishad Bathiudeen urges independent probe into deaths of 8 including Madarasa students in Ampara flood. Blames police negligence & delays in rescue efforts. Requests Public Security Minister to investigate.
-
-🟩
-
-All Ceylon People's Congress leader and parliamentarian Rishad Bathiudeen on Tuesday (03) urged the council to hold an independent investigation into the death of eight people, including Madarasa students, on the Karativu -Mavadipalli road, the plowing machine collapsed and flooded.
-
-“Eight people were killed in a recent flood disaster in Mavadipalli in Ampara district. I had visited their homes. At the time, the relatives of the deceased were accused of the tragedy of the incident.
-
-In particular, the police have been on duty when the incident took place. The Madarasa administration has sent students into the plowing machine because of the lack of way to leave Madrasa due to flooding.
-
-When they were traveling on the road, the police were flooded, and the police did not close the road and allowed the traffic to be reckless.. Must stop them and explain the situation.
-
-...
-
-[Data](articles/a4f50c5a.json)
-
-[Extended Data](ext_articles/a4f50c5a.ext.json)
 
 ---

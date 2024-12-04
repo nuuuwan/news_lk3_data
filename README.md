@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 16:43:02**
+As of **2024-12-04 17:00:24**
 
 ## Newspaper Stats
 
-*Scraped **58,438** Articles*
+*Scraped **58,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 3,506
 economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,534
-adaderanalk | 7,096
+adalk | 5,535
+adaderanalk | 7,097
 tamilmirrorlk | 8,320
 virakesarilk | 9,558
-adaderanasinhalalk | 10,094
+adaderanasinhalalk | 10,095
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,419 (100.0%) of 58,438 articles have been extended.
+58,426 (100.0%) of 58,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### රුමි 75ක කේරළ ගංජා උතුරු මුහුදෙන් හමුවෙයි
+
+*2024-12-04 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204033) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව අද (4) අළුයම යාපනය ගුරුනගර් ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදේ සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී කේරළ ගංජා කිලෝ 188යි ග්‍රෑම් 350ක තොගයක් රැගත් ඩිංගි යාත්‍රාවක් සිය භාරයට ගෙන තිබේ.
+
+උතුරු නාවික විධානයේ ශ්‍රී ලංකා නාවික නෞකා වේළුසුමන ආයතනය විසින් සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී මෙම යාත්‍රාව පරීක්‍ෂා කර ඇත.
+
+එහිදී ගමන් මලු හතක මෙම කේරළ ගංජා තොගය තිබී ඇති අතර, එම තොගයේ වටිනාකම රුපියල් මිලියන 75කට අධික බව නාවික හමුදාව පවසයි.
+
+නාවික හමුදා භාරයට ගත් කේරළ ගංජා තොගය හා ඩිංගි යාත්‍රාව ඉදිරි නීතිමය හා විමර්ශන කටයුතු සඳහා යාපනය පොලිස් ස්ථානය වෙත භාරදී තිබේ.
+
+◼️
+
+[Data](articles/d8ca1ed8.json)
+
+---
+
+### Suspect arrested over Ahangama double murder
+
+*2024-12-04 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103994/suspect-arrested-over-ahangama-double-murder) · `en`
+
+A suspect has been arrested in connection with the murder of an elderly couple inside their home at Welhengoda in the Ahangama police division.
+
+The incident had occurred on October 4, police said. The elderly couple was found dead in their house with their throats slit.
+
+After the investigations were conducted accordingly, the concerned suspect was arrested by the Ahangama Police last afternoon (03) in the Galle Fort area.
+
+The arrested suspect is a 41-year-old resident of the Unawatuna area.
+
+◼️
+
+[Data](articles/607b6a2a.json)
+
+---
 
 ### 9,60,500 crore for 4 months
 
@@ -110,6 +146,8 @@ The raid was carried out under the direction of the Commissioner General of Exci
 
 [Data](articles/c645cb1d.json)
 
+[Extended Data](ext_articles/c645cb1d.ext.json)
+
 ---
 
 ### Hirunika acquitted from contempt of court charges
@@ -125,6 +163,8 @@ The petition was called before the Appellate Court bench consisting of Justice N
 ◼️
 
 [Data](articles/dbea69c5.json)
+
+[Extended Data](ext_articles/dbea69c5.ext.json)
 
 ---
 
@@ -146,21 +186,47 @@ The three month and one year maturities were offered on tap after the auction. (
 
 [Data](articles/b1f5d974.json)
 
+[Extended Data](ext_articles/b1f5d974.ext.json)
+
 ---
 
-### කොටස් වෙළෙඳපොළෙන් වාර්තාවක්
+### හාල්, පොල් ගැටලුවට විසඳුම් ඇමති කියයි
+
+*2024-12-04 15:52:28* · [`adalk`](https://www.ada.lk/breaking_news/හාල්--පොල්-ගැටලුවට-විසඳුම්-ඇමති-කියයි/11-413450) · `si`
+
+රට තුළ පවතින පොල් මිල අර්බුදයට විසඳුමක් ලෙස ඉදිරි සති 2ක ඇතුළත සතොස හරහා පොල් ගෙඩි මිලියනයක් බෙදාහැරීමට රජය තීරණය කර තිබේ.
+
+ඒ අනුව එක පොල්ගෙඩියක් රුපියල් 130ක මිලකට සතොස හරහා ලබාදීමට කටයුතු කරන බව අමාත්‍ය වසන්ත සමරසිංහ මහතා අද (04) පාර්ලිමේන්තුවේදී පැවසීය.
+
+රජයට අයිති වතුවල තිබෙන පොල් නිෂ්පාදන මෙලෙස අඩු මිලට අලෙවි කිරීමට නියමිතය.
+
+මේ අතර සහල් හිඟයට විසඳුමක් ලෙස දිනකට හාල් කිලෝ ලක්ෂ දෙක බැගින් පාලන මිලට වෙළඳපොළට නිකුත් කිරීමට සහල් මෝල් හිමියන් එකඟ වී ඇති බවද ඔහු වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8b961989.json)
+
+---
+
+### Report from stock market
 
 *2024-12-04 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204031) · `si`
 
-කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය (ASPI) ඉතිහාසයේ ඉහළම අගය අද (04) දින වාර්තා කළේය.
+Colombo Stock Exchange ASPI records highest value ever today. Index increases by 171.69 units to 13,511.73 points, surpassing previous record of 13,462.4.
 
-ඒ අනුව දිනයේ ගනුදෙනු අවසානයේ දී සියලු කොටස් මිල දර්ශක අගය ඒකක 171.69කින් ඉහළ ගොස් ඒකක 13,511.73ක් ලෙසින් සටහන් විය.
+🟩
 
-එය මෙතෙක් ඉතිහාසයේ වාර්තා වූ ඉහළම සියලු කොටස් මිල දර්ශක අගය වන ඒකක 13,462.4 සීමාව ඉක්මවා යාමකි.
+The highest value of the history of the Colombo Stock Exchange (ASPI) recorded the highest value in history today (04).
+
+Accordingly, at the end of transactions, all stock price index value increased by 171.69 units and 13,511.73 points.
+
+It is exceeding the limit of 13,462.4 all the highest share price index value in history.
 
 ◼️
 
 [Data](articles/1a6efd21.json)
+
+[Extended Data](ext_articles/1a6efd21.ext.json)
 
 ---
 
@@ -182,21 +248,29 @@ Isabelle Mauny has 25-plus years of integration and API industry experience, inc
 
 [Data](articles/ace9d8af.json)
 
+[Extended Data](ext_articles/ace9d8af.ext.json)
+
 ---
 
-### දරුවන් පස්දෙනෙක් බිහිකළත් ඇගේ සිරුර භාරගැනීමට නොආ දරුවන්
+### The chosen children, no children to accept her body
 
 *2024-12-04 15:44:43* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-පස්දෙනෙක්-බිහිකළත්-ඇගේ-සිරුර-භාරගැනීමට-නොආ-දරුවන්/11-413449) · `si`
 
-හොරොව්පොතාන රජයේ රෝහලට මාස ගණනකට  පෙර අසනීප තත්වයනේ පසුවන වයෝවෘද්ධ මවක් ඇතුලත් කර කර තිබිණි. මෙම අසනීප මව බැලීමට කිසිවෙකු පැමිණ  නැති අතර දරුවන් පස් දෙනෙකුගේ මවක් වූ ඇය පසුගිය දා කාත් කවුරුත් නොමැතිව රෝහල තුලම අවසන් සුසුම් හෙලීය.
+Elderly mother hospitalized alone, no visitors. Children abandoned her. Hospital staff cared for her. Five children found dead. Religious leaders and officials helped bury her.
 
-හොරොව්පොතාන ලේවාසපිරිවැව ගමේ පදිංචිවී සිටි මෙම මව මියගිය බවට දරුවන් දැනුවත් කළ ද  පැමිණියේ එක දරුවෙකු වන අතර ඔහු ද මව හඳුනාගෙන  සුළු වෙලාවකින් අතුරුදහන් විය.  නැවත පැමිණියේ නැත. රෝහල් ගත වූ දින සිටම රෝහල්  කාර්යය මණ්ඩලයේ වෛද්‍යවරුන්, හෙද හෙදියන් මෙන්ම අනෙකුත් කාර්යය මණ්ඩලය ද මෙම මවට ඉතා ආදරයෙන්  අවශ්‍ය ප්‍රතිකාර සහ ඇප උපස්ථාන සිදු කළ අතර රෝගී තත්වයෙන් මිය යන තෙක්ම ඔවුන්ගේ නොමද ආදරය ලැබීමට තරම් භාග්‍ය විය.
+🟩
 
-සිය කුසින් බිහිකළ  දරුවන් පස් දෙනෙකුම අහක බැලූවත් රෝහල් කාර්යය මණ්ඩලය එම මව වෙනුවෙන් රෝහලේ  මෘත ශරීරාගාරය තුලම පැන් වඩා පාංශුකූලය දීම සිදු කරන ලදි.
+An elderly mother of the Horowpothana government hospital was included in ill health. No one came to visit the sick mother and a mother of five children, she recently sighed the final signing in the hospital without anyone.
+
+The mother in Horowpothana introduced his children to children was a child, and he also identified the mother and disappeared.Did not return. From the time of the hospital, the hospital staff, nurses, as well as other staff, was committed to treating the treatment and bail to be bailed and loved.
+
+Five children who created five cups of the cups, hospitals were led by the hospital's morgue of the hospital's morgue.
 
 ...
 
 [Data](articles/fde5f46f.json)
+
+[Extended Data](ext_articles/fde5f46f.ext.json)
 
 ---
 
@@ -212,13 +286,15 @@ Accordingly, the index has increased by 171.69 points within the day to close at
 
 [Data](articles/c5d0df4d.json)
 
+[Extended Data](ext_articles/c5d0df4d.ext.json)
+
 ---
 
 ### අද සිට සහල් කිලෝ ලක්ෂ 2ක් සතොස හරහා අලෙවි කරයි
 
 *2024-12-04 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204029) · `si`
 
-වෙළෙඳපොළ තුළ පවතින සහල් අර්බුදයට විසඳුමක් ලෙස අද (04) සිට සහල් කිලෝ ලක්ෂ 2ක් සතොස හරහා ජනතාවට අලෙවි කෙරෙන බව වෙළෙඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
+වෙළෙඳපොළ තුළ පවතින සහල් අර්බුදයට විසඳුමක් ලෙස අද (04) සිට දිනකට සහල් කිලෝ ලක්ෂ 2ක් සතොස හරහා ජනතාවට අලෙවි කෙරෙන බව වෙළෙඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
 
 අද පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු වැඩිදුරටත් සඳහන් කළේ එම සහල් කිලෝවක් රුපියල් 220ක මිලක් යටතේ ජනතාවට මිලදී ගත හැකි බවය.
 
@@ -2261,77 +2337,5 @@ Development officials gathered in front of the Ministry of Education without any
 [Data](articles/7056e6b5.json)
 
 [Extended Data](ext_articles/7056e6b5.ext.json)
-
----
-
-### The struggle of education development officials did not suppress;Prime Minister Harini
-
-*2024-12-04 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200367) · `ta`
-
-Education officials' struggles continue despite government efforts. Prime Minister Harini Amarasuriya states police intervention controlled unrest at the Ministry of Education. She guarantees justice for affected parties and promises solutions to development officers' problems.
-
-🟩
-
-The government did not suppress the struggle in front of the Ministry of Education. Prime Minister and Minister of Education, Dr. Harini Amarasuriya, said that the police have intervened to control the unrest.
-
-In response to questions raised by the opposition members about the struggle of the development officials during the session on Tuesday in Parliament (03).
-
-I was in talks a month ago of Education Development Officers. Representatives of the Development Officers and the Deputy Minister of Education held talks twice. We guaranteed that we would intervene to give justice to the affected parties. This is why I submitted the Cabinet paper.
-
-...
-
-[Data](articles/cf28aef2.json)
-
-[Extended Data](ext_articles/cf28aef2.ext.json)
-
----
-
-### The government should be prepared to access new politics;Member of Parliament
-
-*2024-12-04 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200366) · `ta`
-
-Sri Lankan government urged to adopt new politics embracing Sinhalese, Tamil, and all islanders. TNA MP criticizes president's silence on 80-year ethnic issue. Calls for addressing historical Tamil political settlement.
-
-🟩
-
-The Sinhalese Tamil National Alliance (TNA) parliamentarian S. Siritharan said that the government should be prepared to approach a new politics with the attitude of the Sinhala people, the Tamil speaking people and the co -owners of the island of Sri Lanka.
-
-He was speaking at a debate on the President's Policy Declaration of Parliament on Tuesday (12-03).
-
-He pointed out that it was unfortunate that although the president had mentioned many things in his policy speech, he had not spoken a word on the ethnic problem that had been in this soil for 80 years.
-
-Gotabhaya Rajapaksa, who was elected president in the same parliament in 2019, and in an interview with the Hindu newspaper when he went to India, he went to India to avoid any words about the political settlement for the Tamil people on the issue of the Tamil people.. He added that you should once again see the history that that avoidance has made him unidentified in this country.
-
-...
-
-[Data](articles/2b7e4b13.json)
-
-[Extended Data](ext_articles/2b7e4b13.ext.json)
-
----
-
-### A special committee headed by the Prime Minister to identify the problems of development officers
-
-*2024-12-04 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200365) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prime Minister-led committee identifies issues affecting development officers' performance. Over 150,000 development officers serve under central and provincial governments. Recruitment lacks skill assessment, leading to inadequate training. 15,800 engage in teaching roles, causing administrative challenges. Committee aims to address these problems.
-
-🟩
-
-Although the development officers of the public service do not consider graduation as the basic qualifications of the government service, the Cabinet has decided to provide solutions to the issues that are expected to join the current officials and the graduates who are expected to join the public service.
-
-From 1994 to 2020, more than 150,000 people are serving under the Central Government and Provincial Councils, including the development officers who have been recruited in public service through various proposals.
-
-Development Officers have been recruited to the public service without the proper assessment of the skills and industrial qualifications of the development officers. It is impossible for them to achieve the expected action of the officers, as they are not properly provided with initial internal exercises and the obligations and responsibilities of such positions.
-
-...
-
-[Data](articles/f914a790.json)
-
-[Extended Data](ext_articles/f914a790.ext.json)
 
 ---

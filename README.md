@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 06:48:21**
+As of **2024-12-04 08:09:53**
 
 ## Newspaper Stats
 
-*Scraped **58,349** Articles*
+*Scraped **58,352** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
-bbccomsinhala | 607
+bbccomsinhala | 608
 islandlk | 3,506
 economynextcom | 3,543
 dailyftlk | 4,033
 dailymirrorlk | 4,733
-adalk | 5,522
+adalk | 5,523
 adaderanalk | 7,080
-tamilmirrorlk | 8,299
+tamilmirrorlk | 8,300
 virakesarilk | 9,552
 adaderanasinhalalk | 10,076
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,333 (100.0%) of 58,349 articles have been extended.
+58,339 (100.0%) of 58,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### Today's weather announcement
+
+*2024-12-04 07:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-அறிவிப்பு/175-348214) · `ta`
+
+Here's a summary of the weather announcement in approximately 200 characters:
+
+
+
+Rain/thunderstorms forecasted for Central, North Western, North Central & Uva provinces in the evening/night. Balanced weather expected elsewhere.
+
+🟩
+
+The Department of Meteorology has forecast rain or thunderstorms in the evening or night in some parts of the Central, North Western, North Central and Uva provinces.
+
+In addition, in other parts of the country, a balanced weather is said. (A)
+
+◼️
+
+[Data](articles/b161b304.json)
+
+[Extended Data](ext_articles/b161b304.ext.json)
+
+---
 
 ### UK-Sri Lanka Trade Mission empowers women entrepreneurs; boosts bilateral ties
 
@@ -72,6 +96,8 @@ Addressing Parliament yesterday during a debate on President Anura Kumara Dissan
 
 [Data](articles/0cb12ab8.json)
 
+[Extended Data](ext_articles/0cb12ab8.ext.json)
+
 ---
 
 ### Shanakiyan urges Govt. to clarify stance on Provincial Councils
@@ -87,6 +113,8 @@ Leader of the House Bimal Rathnayake responded by reaffirming the Government’s
 ...
 
 [Data](articles/ebf83f2e.json)
+
+[Extended Data](ext_articles/ebf83f2e.ext.json)
 
 ---
 
@@ -108,6 +136,8 @@ The matter of repealing the PTA has been a longstanding issue, he noted, adding 
 
 [Data](articles/297c62a2.json)
 
+[Extended Data](ext_articles/297c62a2.ext.json)
+
 ---
 
 ### US Assistant Secretary to visit Sri Lanka tomorrow
@@ -126,6 +156,8 @@ USAID Deputy Assistant Administrator Anjali Kaur and Department of the Treasury 
 
 [Data](articles/8a188a61.json)
 
+[Extended Data](ext_articles/8a188a61.ext.json)
+
 ---
 
 ### New Government faces tough questions over IMF U-turn
@@ -139,6 +171,8 @@ When the NPP party swept into power just a couple of months ago, it did so on a 
 ...
 
 [Data](articles/4d26ec63.json)
+
+[Extended Data](ext_articles/4d26ec63.ext.json)
 
 ---
 
@@ -459,6 +493,28 @@ Meanwhile, the exams to be held on Monday, December 2, are scheduled to be held 
 [Data](articles/83b07e72.json)
 
 [Extended Data](ext_articles/83b07e72.ext.json)
+
+---
+
+### හුදෙකලා හමුදා දූපතක රඳවා සිටි ශ්‍රී ලාංකික සරණාගතයින් පිරිසක් බ්‍රිතාන්‍යයට
+
+*2024-12-04 02:04:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpq9z9l9yrqo) · `si`
+
+හුදෙකලා හමුදා දූපතක රඳවා සිටි ශ්‍රී ලාංකික සරණාගතයින් පිරිසක් බ්‍රිතාන්‍යයට
+
+වසර තුනකට වැඩි කාලයක් ඉන්දියන් සාගරයේ දූරස්ථ දූපතක් වන දියෙගෝ ගාර්සියාහි අතරමංව සිටි සංක්‍රමණිකයන් එක්සත් රාජධානියට ගෙන එනු ලැබ තිබේ.
+
+මෙම ශ්‍රී ලාංකික දෙමළ සංක්‍රමණිකයින්ට බ්‍රිතාන්‍ය විදේශ කාර්යාලයේ මූල්‍ය අනුග්‍රහය ඇතිව  මාස හයක් රට තුළ රැඳී සිටීමට අවසර ඇති බව බීබීසීය විසින් අනාවරණය කර ගත් ලේඛනවල දැක්වේ.
+
+ඔවුන් එක්සත් රාජධානියට ගිය ගමන ඔවුන්ගේ ඉරණම සම්බන්ධයෙන් සැතපුම් දහස් ගණනක් පුරා ගෙන ගිය සංකීර්ණ නීතිමය සටන්වල ​​අවසානය සනිටුහන් කරන නමුත් ඔවුන්ගේ දිගුකාලීන අනාගතය අවිනිශ්චිතව පවතී.
+
+සංක්‍රමණිකයින් 60 දෙනෙකුගෙන් යුත් මෙම කණ්ඩායමේ වැඩි දෙනෙක් 2021 ඔක්තෝම්බර් මාසයේ සිට, දියෙගෝ ගාර්සියා  හි තාවකාලික කඳවුරක වාසය කරති. උපායමාර්ගික වශයෙන් වැදගත් වන එක්සත් රාජධානි-එක්සත් ජනපද හමුදා කඳවුරක් පිහිටි දියෙගෝ ගාර්සියාහි  සරණාගත ඉල්ලීම් ගොනු කළ පළමු සංක්‍රමණිකයින් වන්නේ මොවුන් ය.
+
+සඳුදා, බ්‍රිතාන්‍ය රජයේ ප්‍රකාශකයෙකු මෙම ක්‍රියාමාර්ගය විස්තර කළේ “මෙම නඩුවල සුවිශේෂී ස්වභාවය සහ ඔවුන්ගේ සුබසාධනය සඳහා ගත් පියවරක් ලෙස” ය.
+
+...
+
+[Data](articles/4fe1a835.json)
 
 ---
 
@@ -1266,6 +1322,24 @@ It is a matter of admiration that national people's power has created this gover
 
 ---
 
+### ඇල්ල ඔඩිසියේ සිට සෙල්ෆි ගන්න ඉරාන සංචාරිකාව බංගෙයක ගැටෙයි
+
+*2024-12-03 19:00:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-ඔඩිසියේ-සිට-සෙල්ෆි-ගන්න-ඉරාන-සංචාරිකාව-බංගෙයක-ගැටෙයි/11-413440) · `si`
+
+ඇල්ල සිට කොළඹ කොටුව බලා ගමන් ගත් ඇල්ල ඔඩිසි සංචාරක දුම්රියේ ගමන් ගත් ඉරාන ජාතික විදේශික සංචාරක කාන්තාවක සෙල්ෆි ජායාරූප ගැනිමට යාමෙදි ඔහිය ඉදල්ගස්හින්න දුම්රිය ස්ථාන අතර අංක 20 දුම්රිය බිංගෙයි ගැටී දුම්රියේ න් ඇද වැටී බරපතළ තුවාල ලබා නුවරඑළිය රෝහලට ඇතුළත් කළ බව හපුතලේ පොලිසිය පවසයි .
+
+ඉරානයේ සිට මෙරට සංචාරයක් සදහා පැමිණ ඇති     37 හැවිරිදි ඉරාන ජාතික විදේශික කාන්තාවක මෙසේ තුවාල ලබා ඇතැයි පොලිසිය කීය .
+
+මැය  තවත් කිහිපදෙනක් සමඟ ඇල්ල සිට කොළඹ කොටුව බලා ධාවනය වූ ඇල්ල ඕඩ්සි සංචාරක දුම්රියේ න් නානුඔය බලා  ගමන් කරමින් සිටියදී දුම්රියේ පාපුවරුවේ එල්ලී සෙල්ෆි ජායාරූප ගැනීමට යාමෙදි     ඔහීය  ඉදල්ගස්හින්න අතර පිහිටි දුම්රිය බිංගෙයි ගැටී ධාවනය වෙමින් තිබූ දුම්රියේ න් ඇද වැටී ඇති බවත් පොලිසිය පැවසීය .
+
+පසුව එම දුම්රියේ දමා ගෙන මැය නානුඔය දුම්රිය ස්ථානය ට රැගෙන ගොස් පසුව 1990 ගිලන් රථයක දමා ගෙන නුවරඑළිය රෝහලට රැගෙන ගොස් ඇතුළත් කළ බවද පොලිසිය සදහන් කළේය .
+
+...
+
+[Data](articles/d30e29d8.json)
+
+---
+
 ### Allow Rice imports without import control permit - Cabinet approval
 
 *2024-12-03 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200355) · `ta`
@@ -1458,7 +1532,7 @@ Jaffna Independent Member said he came to the office of the opposition leader an
 
 ---
 
-### Sri Lanka’s Lion Brewery eyes export boost with innovation plant
+### Sri Lanka’s Lion Brewery eyes export boost with innovative beers
 
 *2024-12-03 17:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-eyes-export-boost-with-innovation-plant-191708/) · `en`
 
@@ -2367,67 +2441,5 @@ When they were traveling on the road, the police were flooded, and the police di
 [Data](articles/a4f50c5a.json)
 
 [Extended Data](ext_articles/a4f50c5a.ext.json)
-
----
-
-### Cabinet approval to allow rice imports without permits
-
-*2024-12-03 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103966/cabinet-approval-to-allow-rice-imports-without-permits) · `en`
-
-The Cabinet of Ministers has approved the proposal to allow the import of rice without import control permits until 20 December, 2024.
-
-Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that the Cabinet considered the advisability of temporarily lifting the existing restrictions on the import of rice, in view of the current shortages of rice, including Nadu and other rice varieties in the domestic market as well as the damage caused to paddy cultivation due to the recent adverse weather conditions.
-
-Accordingly, it has been decided to grant permission to import rice into the country without obtaining import control permits up until 20 December, 2024, with immediate effect.
-
-◼️
-
-[Data](articles/225f2696.json)
-
-[Extended Data](ext_articles/225f2696.ext.json)
-
----
-
-### Sri Lanka to allow rice imports without licenses till December 20: Statement
-
-*2024-12-03 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-remove-restrictions-on-rice-imports-till-dec20-125853/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow rice to be imported without import control license till December 20, a government statement said amid rising prices and a crop damage due to rain.
-
-Sri Lanka had earlier allowed 70,000 metric tonnes of Nadu (par-boiled rice) to be imported to counter rising prices of the grade. The import was allowed only by two state run companies.
-
-“In addition to this, the government decided to temporarily remove existing restrictions on the import of rice,” Jayatissa told reporters Friday.
-
-“The intention of the government is to make all types of rice available to the people.”
-
-There was no decision to reduce a 65 rupee a kilo tax on rice (about 200 US dollars a tonne) he said. (Colombo/Dec03/2024)
-
-◼️
-
-[Data](articles/56b31998.json)
-
-[Extended Data](ext_articles/56b31998.ext.json)
-
----
-
-### Sri Lanka to allow rice imports without licenses till December 20: Statement
-
-*2024-12-03 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-rice-imports-without-licenses-till-december-20-statement-125853/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow rice to be imported without import control license till December 20, a government statement said amid rising prices and a crop damage due to rain.
-
-Sri Lanka had earlier allowed 70,000 metric tonnes of Nadu (par-boiled rice) to be imported to counter rising prices of the grade. The import was allowed only by two state run companies.
-
-“In addition to this, the government decided to temporarily remove existing restrictions on the import of rice,” Jayatissa told reporters Friday.
-
-“The intention of the government is to make all types of rice available to the people.”
-
-There was no decision to reduce a 65 rupee a kilo tax on rice (about 200 US dollars a tonne) he said. (Colombo/Dec03/2024)
-
-◼️
-
-[Data](articles/debe8a5f.json)
-
-[Extended Data](ext_articles/debe8a5f.ext.json)
 
 ---

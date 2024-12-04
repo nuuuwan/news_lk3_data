@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 17:44:16**
+As of **2024-12-04 19:03:14**
 
 ## Newspaper Stats
 
-*Scraped **58,452** Articles*
+*Scraped **58,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,119 +16,359 @@ islandlk | 3,506
 economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,536
-adaderanalk | 7,097
-tamilmirrorlk | 8,321
-virakesarilk | 9,565
-adaderanasinhalalk | 10,097
+adalk | 5,538
+adaderanalk | 7,100
+tamilmirrorlk | 8,322
+virakesarilk | 9,566
+adaderanasinhalalk | 10,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,436 (100.0%) of 58,452 articles have been extended.
+58,448 (100.0%) of 58,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### யாழ். குடத்தனையில் நெற்பயிர்களுக்கு மடிச்சுக்கட்டி நோய் தாக்கம்!
+### The government policy statement was unanimously accomplished
+
+*2024-12-04 18:25:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-கொள்கை-அறிக்கை-ஏகமனதாக-நிறைவேற்றப்பட்டது/175-348248) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Government policy report unanimously approved in Parliament on Nov 21. Debate lasted two days, from 9:30 AM to 5:30 PM each day. President Anura Kumara Dissanayake presented the report.
+
+🟩
+
+The resolution on the Government Policy Report presented in Parliament on November 21 by President Anura Kumara Dissanayake was unanimously passed in Parliament without a referendum.
+
+The debate on the government policy report was held from 9.30 am to 5.30 pm and today from 9.30 am to 5.00 pm.
+
+◼️
+
+[Data](articles/9f5d1dca.json)
+
+[Extended Data](ext_articles/9f5d1dca.ext.json)
+
+---
+
+### W.M. Mendis’ liquor manufacturing license to be suspended
+
+*2024-12-04 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103998/wm-mendis-liquor-manufacturing-license-to-be-suspended) · `en`
+
+The liquor manufacturing license issued to W.M. Mendis & Co. Limited will be suspended from tomorrow (December 5) due to their failure to pay Rs. 5.7 billion in excise taxes and surcharges, the Excise department said.
+
+Accordingly, as per the provisions Excise Ordinance Act, the Commissioner General of Excise has ordered to suspend the liquor manufacturing license issued to W.M. Mendis & Co. Limited effective from tomorrow.
+
+The department further stated that measures have been taken to suspend the liquor manufacturing process from tomorrow (December 5) and to not renew the other licenses issued to the company from December 31 onwards if the company continues non-payment of tax arrears and surcharges.
+
+◼️
+
+[Data](articles/69125751.json)
+
+[Extended Data](ext_articles/69125751.ext.json)
+
+---
+
+### ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඡන්ද විමසීමකින් තොරව සම්මතයි
+
+*2024-12-04 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204039) · `si`
+
+ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශයට අදාළ යෝජනාව අද (04) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව ඒකමතිකව සම්මත විය.
+
+ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශයට අදාළ විවාදය ඊයේ (03) පෙ.ව 9.30 සිට ප.ව 5.30 දක්වාත් අද (04) පෙ.ව 9.30 සිට ප.ව 5.00 දක්වාත් දෙදින විවාදයක් ලෙස පැවැත්විණි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පසුගිය නොවැම්බර් 21 වනදා පාර්ලිමේන්තුවේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කළේය.
+
+◼️
+
+[Data](articles/c704995e.json)
+
+---
+
+### මෙන්ඩිස් සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය අත්හිටුවයි
+
+*2024-12-04 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204038) · `si`
+
+ඩබ්ලිව්. එම්. මෙන්ඩිස් සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය අත්හිටුවීමට සුරාබදු දෙපාර්තමේන්තුව පියවර ගෙන ඇත.
+
+මත්පැන් නිෂ්පාදනය මත සුරාබදු දෙපාර්තමේන්තුව වෙත ගෙවිය යුතු සුරාබද්ද හා ඊට අදාළව 3%ක මාසිකව ගෙවිය යුතු අධිභාරය වන රුපියල් බිලියන 5.7ක මුදල ගෙවීම පැහැරහැරීම හේතුවෙන් මෙම පියවර ගත්බව සුරාබදු දෙපාර්තමේන්තුව පවසයි.
+
+මේ සම්බන්ධයෙන් නිවේදනයක් නිකුත් කරමින් සුරාබදු දෙපාර්තමේන්තුව පවසා සිටියේ, සුරාබදු ආඥා පනතේ නෛතික විධිවිධාන ප්‍රකාරව හෙට (5) දිනයේ සිට ඩබ්ලිව්. එම්. මෙන්ඩිස් සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් අත්හිටු වූ බවයි.
+
+ඒ අනුව දෙසැම්බර් මස 5 වනදා සිට මත්පැතන් නිෂ්පාදන ක්‍රියාවලිය අත්හිටුවීමටත්, එම හිඟ බදු මුදල් හා අධිභාරය තවදුරටත් ගෙවීම පැහැර හරින්නේ නම් එම සමාගමට නිකුත්කර ඇති සියලුම සුරාබදු මත්පැන් බලපත්‍ර ද දෙසැම්බර් මස 31 දිනෙන් ඔබ්බට දීර්ඝ නොකිරීමටත් සුරාබදු දෙපාර්තමේන්තුව පියවර ගන්නා බවද එම නිවේදනයේ සඳහන්ය.
+
+◼️
+
+[Data](articles/fd1b40b3.json)
+
+---
+
+### We are dissatisfied with the cylinder - former Minister of State
+
+*2024-12-04 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200443) · `ta`
+
+Former Defense Minister Pramitha Bandara Tennakoon expresses dissatisfaction with the allocation of national list seats. He advocates for former Minister Kanjana Wijesekera to receive a seat, citing the need for young politicians to take leadership roles.
+
+🟩
+
+During the presidential election and the general election, we allied with the New Democratic Front and worked for its victory. Former Defense Minister Pramitha Bandara Tennakoon has said that it is dissatisfied with the delay in giving a national list seat on behalf of M.
+
+He further stated that he was speaking to the media after attending a meeting between former ministers and parliamentarians in Colombo on Wednesday (4).
+
+Today's meeting on how to field the upcoming elections. We are in dissatisfaction with the cylinder. One of the two seats available cannot be accepted by one who spontaneously selected. The lesson should be learned from the power of the national people in this regard.
+
+...
+
+[Data](articles/1c795763.json)
+
+[Extended Data](ext_articles/1c795763.ext.json)
+
+---
+
+### Between the second semi-final between Sri Lanka and India
+
+*2024-12-04 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204037) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Asia Cup: Sri Lanka advances to semis, faces India. UAE eliminated. Bangladesh wins inaugural title. India leads overall champs count. Sri Lanka runners-up 5 times.
+
+🟩
+
+All the matches of the Asia Cup completes all the matches of the Under 19 cricket tournament today (04).
+
+Sri Lanka entered the semi-finished semi-finished semi-finals.
+
+Accordingly, they are to play a second semi-final with India with the second semi-final.
+
+Accordingly, the United Arab Emirates were easily defeated in the critical match today.
+
+The United Arab Emirates won the runner round over the event.
+
+Meanwhile, the first semi-final will be held in Dubai, which won the second section of 'B' in the same day.
+
+Bangladesh is the current champions of this, and they ended 2023.
+
+It is India who has won the championship at every other time (7) in the history of Afghanistan as Asian Champions in 2017.
+
+Although Sri Lanka is eligible for the final in five occasions, but it was well enough to be runner-up.
+
+◼️
+
+[Data](articles/626c46ef.json)
+
+[Extended Data](ext_articles/626c46ef.ext.json)
+
+---
+
+### Yall. Paddy fields in the kuttanai
 
 *2024-12-04 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200427) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி கிழக்கு குடத்தனை பகுதியில் தற்போது நெற்பயிர்களுக்கு மடிச்சுக்கட்டி நோய் பரவி வருகிறது.
+Here's a summary of the text in approximately 200 characters:
 
-அண்மையில் நாட்டில் பெய்த கன மழையின் பின்னரே பயிர்களிடத்தில் இந்நோய்த் தாக்கம் ஏற்பட்டுள்ளது.
 
-கடும் மழை காரணமாக பல இடங்களில் நெல் வயல்கள் அழிந்து நாசமாகியிருந்த நிலையில், தற்போது இயற்கை அனர்த்தங்களிலிருந்து தப்பித்த ஒரு சில வயல்களில் நெற்பயிர்களுக்கு மடிச்சுக்கட்டி நோய் தாக்கம் ஏற்பட்டுள்ளது.
+
+Heavy rains damage paddy fields in Jaffna's Vadamarachchi East Kudana area. Disease spreads through affected fields, threatening crops.
+
+🟩
+
+In the Vadamarachchi East Kudana area, Jaffna is currently spreading the disease to paddy fields.
+
+The disease has suffered from the recent heavy rains in the country.
+
+Due to heavy rains, paddy fields have been destroyed and destroyed, and now a few fields that have escaped natural disasters have been affected by paddy fields.
 
 ◼️
 
 [Data](articles/8892dc82.json)
 
+[Extended Data](ext_articles/8892dc82.ext.json)
+
 ---
 
-### கற்கோவளம் உணவுப் பிரச்சினை ; கைதான இருவருக்கும் பிணை!
+### Kerala cannabis worth over Rs. 75 mln seized in Guru Nagar
+
+*2024-12-04 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103997/kerala-cannabis-worth-over-rs-75-mln-seized-in-guru-nagar) · `en`
+
+The Sri Lanka Navy has seized around 188 kilograms and 350 grams of Kerala cannabis from a dinghy, during a special search operation conducted in the sea area off Guru Nagar, Jaffna in the wee hours of today (04).
+
+The operation, conducted by SLNS Welusumana of the Northern Naval Command, took place in the sea area off Guru Nagar.
+
+During the operation, naval personnel spotted a suspicious dinghy in the sea area.
+
+Upon inspection of the dinghy, they have recovered seven (07) travelling bags, containing Kerala cannabis weighing approximately 188 kilograms and 350 grams, the navy said.
+
+Consequently, the stock of Kerala cannabis and the dinghy were taken into naval custody.
+
+The gross street value of Kerala cannabis held in this operation is believed to be over Rs. 75 million.
+
+The haul of Kerala cannabis together with the dingy was handed over to the Jaffna Police for onward investigation and legal action.
+
+◼️
+
+[Data](articles/3c95e8bc.json)
+
+[Extended Data](ext_articles/3c95e8bc.ext.json)
+
+---
+
+### The problem of food;Bail for both arrested!
 
 *2024-12-04 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200425) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி வடக்கு பருத்தித்துறை கற்கோவளம் பகுதியில் கிராமசேவகர் உணவு நிவாரணம் வழங்கியபோது பொதுமக்களுடன் ஏற்பட்ட தகராறு தொடர்பாக பொலிஸாருக்கு அளித்த முறைப்பாட்டின் அடிப்படையில் கடந்த 01ஆம் திகதி கைது செய்யப்பட்ட இரண்டு இளைஞர்களுக்கும் புதன்கிழமை (04) பருத்தித்துறை நீதிமன்றம் பிணை வழங்கியிருந்தது.
+Food relief dispute: Two youths granted bail after arrest over public argument during distribution in Point Pedro.
 
-கடந்த 01ஆம் திகதி கைது செய்யப்பட்டு திங்கட்கிழமை (02) நீதிமன்றில் முற்படுத்தப்பட்ட நிலையில் இன்று (04) வரை தடுப்புக்காவலில் வைக்கப்பட்டனர்.
+🟩
 
-இவ்வழக்குக்கு சட்டத்தரணி விஸ்வலிங்கம் மணிவண்ணன் தலைமையிலான சட்டத்தரணிகள் மன்றுக்கு முன்வைத்த விவாதத்தின் அடிப்படையில் கைதான இருவருக்கும் பருத்தித்துறை நீதிமன்றம் பிணை வழங்கியுள்ளது.
+The Point Pedro Court on Wednesday (04) was granted bail to the two youths who were arrested on Wednesday (04) on the basis of a complaint lodged by the police regarding a dispute with the public when the Grama Sevakkar provided food relief in Vadamarachchi North Point Pedro.
 
-கடந்த நவம்பர் 30ஆம் திகதி கற்கோவளம் பகுதியில் உணவு நிவாரணம் வழங்கச் சென்ற கிராம சேவகரிடம் பிள்ளைகளுக்காக உணவு கோரிய வேளை முரண்பாடு ஏற்பட்டுள்ளது.
+They were arrested on Monday (02) and filed in court on Monday (02).
 
-இதன் காரணமாக அந்த கிராமசேவகர் பருத்தித்துறை காவல் நிலையத்தில் முறைப்பாடு செய்ததன் அடிப்படையிலேயே இந்த இருவரும் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+The Point Pedro Court has granted bail to the two arrested on the basis of a debate made by lawyers led by Attorney Wiswalingam Manivannan.
+
+On November 30 last year, the Grama Niladhari, who was providing food relief in the Kalovalam area, had a conflict with the children.
+
+As a result, the two were arrested on the basis of a complaint at the Grama Sevaka police station.
 
 ◼️
 
 [Data](articles/aaa2a509.json)
 
+[Extended Data](ext_articles/aaa2a509.ext.json)
+
 ---
 
-### மெகா ஸ்டார்' சிரஞ்சீவியை இயக்கும் இயக்குநர் ஸ்ரீகாந்த்
+### Director of Mega Star 'Chiranjeevi
 
 *2024-12-04 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200438) · `ta`
 
-தெலுங்கின் முன்னணி நட்சத்திர நடிகரான மெகா ஸ்டார் சிரஞ்சீவி நடிக்கும்  பெயரிடப்படாத புதிய படத்தின் அதிகாரப்பூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of 200 characters:
 
-நடிகர் நானி நடிப்பில் வெளியாகி விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் பாரிய வெற்றியைப் பெற்ற 'தசரா' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் ஸ்ரீகாந்த் ஓடேலா இயக்கத்தில் தயாராகும் பெயரிடப்படாத திரைப்படத்தில் 'மெகா ஸ்டார்' சிரஞ்சீவி கதாநாயகனாக நடிக்கிறார். இந்த திரைப்படத்தை எஸ் எல் வி சினிமாஸ் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் சுதாகர் செருகுரி தயாரிக்கிறார். இந்த திரைப்படத்தை நடிகர் நானியின் சொந்த பட நிறுவனமான யுனானிமஸ் புரொடக்ஷன்ஸ் நிறுவனம் வழங்குகிறது.
 
-இப்படத்திற்கான அதிகாரப்பூர்வமான அறிவிப்பு பிரத்யேக போஸ்டர் மூலம் வெளியிடப்பட்டுள்ளது. அதில் 'வன்முறையில் அவர் அமைதியை காண்கிறார்' என்ற வாசகம் இடம் பிடித்திருப்பதாலும், அவை சிவப்பு வண்ண பின்னணியில் இடம் பிடித்திருப்பதால் இந்த திரைப்படம் அதிரடி எக்சன் திரில்லர் திரைப்படமாக இருக்கும் என்ற எதிர்பார்ப்பு ரசிகர்களிடத்தில் ஏற்பட்டிருக்கிறது.
 
-...
+Chiranjeevi stars in new film. Directed by Srikanth Odela (Dasara). Produced by Sudhakar Parkuri (SLV Cinemas) and Nani's Ununimas Productions. Red-themed poster released. Odela also works on "The Paradise" with Natural Star.
+
+🟩
+
+The official announcement of the unnamed new film starring Telugu star actor Mega Star Chiranjeevi has been released.
+
+Director Srikanth Odela, who directed the film 'Dasara' which was a critically successful and grossly successful film starring actor Nani. The film is being produced by producer Sudhakar Parkuri on behalf of SLV Cinemas. The film is provided by actor Nani's own film company, Ununimas Productions.
+
+The official announcement for the film has been released by a special poster. The film is said to be a red color background, as the film is said to be a red color background, as it is said to be a red color background.
+
+Meanwhile, director Srikanth Odela is currently working on the film 'The Paradise' starring 'Natural Star', which will begin the work of the film, and that the film will be released after the film's work will begin.
+
+◼️
 
 [Data](articles/545c1f5c.json)
 
+[Extended Data](ext_articles/545c1f5c.ext.json)
+
 ---
 
-### நடிகர் குரு சோமசுந்தரம் நடிக்கும் 'போத்தல் ( பாட்டில் )ராதா' திரைப்படத்தின் புதிய பாடல் வெளியீடு
+### Actor Guru Somasundaram starrer 'Bottal (Batil) Radha'
 
 *2024-12-04 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200436) · `ta`
 
-தமிழ் திரையுலகின் ஒப்பற்ற குணசித்திர நடிகரான குரு சோமசுந்தரம் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'போத்தல் ராதா' எனும் திரைப்படத்தில் இடம்பெற்ற 'நானா குடிகாரன்..' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of the text in approximately 200 characters:
 
-இயக்குநர் தினகரன் சிவலிங்கம் இயக்கத்தில் உருவாகி வரும் 'போத்தல் ராதா 'எனும் திரைப்படத்தில் குரு சோமசுந்தரம், சஞ்சனா நடராஜன், ஜான் விஜய், மாறன், அந்தோணி, பாரி இளவழகன், ஆறுமுக வேல், அபி ராமையா, ஜேபி குமார், கே எஸ் கர்ணா பிரசாத் , மாலதி அசோக் நவீன், சுகாசினி சஞ்சீவ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரூபேஷ் ஷாஜி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை நீலம் புரொடக்ஷன்ஸ் மற்றும் பலூன் பிக்சர்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் பா. ரஞ்சித் மற்றும் டி. என் .அருண் பாலாஜி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
 
-...
+
+Tamil film "Bottal (Batil) Radha" stars Guru Somasundaram. Features song "Nana Kudikkaran" by lyricist/singer. Directed by Shawn Roldan, produced by Neelam Productions and Balloon Pictures.
+
+🟩
+
+Guru Somasundaram, the unique character of the Tamil film, has been released as the hero of the story and the song 'Nana Kudikkaran ..' featured in the film 'Bottal Radha' and the lyrical video for the song.
+
+Guru Somasundaram, Sanjana Natarajan, John Vijay, Maran, Bari Ilavalakan, Arumuga Vale, Abhi Ramaiah, JP Ramaiah, JP Ramaiah, KS Karna Prasad, Malathi Ashok NavinHave played. Shawn Roldan has composed the film, which has been recorded by Rupesh Shaji. The film was made on behalf of Neelam Productions and Balloon Pictures. Ranjith and D. N. Arun Balaji has co -produced.
+
+The film will be released on the twentieth day of the film, which will be released in the film House, 'Nana Kudikkaran ..'. This song is written and sung by the songwriter. The song is a great popular fans because of the songs about alcohol lovers.
+
+◼️
 
 [Data](articles/0cde9eab.json)
 
+[Extended Data](ext_articles/0cde9eab.ext.json)
+
 ---
 
-### 'இசை ஞானி' இளையராஜா இசையில் திரைப்படமாக உருவாகும் 'திருக்குறள்'
+### 'Music Gnani'
 
 *2024-12-04 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200434) · `ta`
 
-புதுமுக நடிகர் கலைச்சோழன் , நடிகை தனலட்சுமி, திருவள்ளுவர்,திருமதி வாசுகி திருவள்ளுவராக நடிக்க ' திருக்குறள் ' எனும் பெயரில் திரைப்படம் ஒன்று உருவாகி வருகிறது.
+Here's a summary in 200 characters:
 
-பெருந்தலைவர் காமராஜரின் வாழ்க்கை வரலாற்றைத் தழுவி 'காமராஜ்' எனும் பெயரில் திரைப்படத்தை இயக்கிய இயக்குநர் ஏ. ஜெ. பாலகிருஷ்ணன் இயக்கத்தில் உருவாகும் 'திருக்குறள்' எனும் திரைப்படத்தில் கலைச்சோழன், தனலட்சுமி, ஓ. ஏ. கே. சுந்தர், சுப்பிரமணிய சிவா, கொட்டாச்சி, குணா பாபு ,பாடினி குமார் உள்ளிட்ட பலர் நடிக்கிறார்கள். எட்வின் சகாய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை ஞானி' இளையராஜா இசையமைத்திருக்கிறார்.
 
-...
+
+"Thirukkural" film stars newcomers & veterans. Directed by Balakrishnan, music by "Music Gnani" Ilayaraja. Story based on Thiruvalluvar's life & Tamil history. Produced by Ramana Communications.
+
+🟩
+
+A film is being made under the name of 'Thirukkural' to play the role of newcomer Kalachozhan, actress Dhanalakshmi, Thiruvalluvar and Mrs. Vasuki Thiruvalluvar.
+
+Director A.. M. Kalachchozhan, Dhanalakshmi, Oh in the movie 'Thirukkural' directed by Balakrishnan. A.. K. Sundar, Subramanya Siva, Kottachi, Guna Babu, Badini Kumar and many others star in. The film, which has been recorded by Edwin Sahai, has composed the music of 'Music Gnani' Ilayaraja.
+
+The story of the film, which is centered on the life of the author and the life of the Tamils ​​over the past two thousand years, through the book Thirukkural. Jayaraj has written. Madurai DP Rajendran and VIT University. It was produced by Ramana Communications with the contribution of Viswanathan.
+
+'Music Gnani' has written and composed songs for the film 'Music Gnani'. Tamil activists have been expecting the film as 'Thirukkural' in the musician's handicraft.
+
+◼️
 
 [Data](articles/8015c9f5.json)
 
+[Extended Data](ext_articles/8015c9f5.ext.json)
+
 ---
 
-### வருமான வரி கணக்கை சமர்ப்பிப்பதற்கான கால அவகாசம் நீடிப்பு
+### Extension of Time for Submission of Income Tax Account
 
 *2024-12-04 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200426) · `ta`
 
-வருமான வரி கணக்கை சமர்ப்பிப்பதற்கான கால அவகாசத்தை நீடிப்பதாக உள்நாட்டு இறைவரி திணைக்களம் தெரிவித்துள்ளது.
+Income tax account submission deadline extended to Dec 7, 2023. No penalties for submissions before this date. Weather-related delays considered.
 
-அதற்கமைய 2023 - 2024 ஆண்டுக்கான வருமான வரிக் கணக்கைச் சமர்ப்பிப்பதற்கான கால அவகாசம் டிசம்பர் 7ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+🟩
 
-ஆரம்பத்தில், உள்நாட்டு இறைவரி திணைக்களத்தினால் வருமான வரிக் கணக்கைச் சமர்ப்பிப்பதற்கு நவம்பர் 30ஆம் திகதி வரை கால அவகாசம் வழங்கப்பட்டிருந்தது.
+The Department of Home Affairs has said that the deadline for submitting an income tax account will prolong the time.
 
-எவ்வாறிருப்பினும், சீரற்ற வானிலை காரணமாக பல பகுதிகளில் ஏற்பட்ட பாதிப்புகளை கருத்தில் கொண்டு, அந்த கால அவகாசத்தை நீடிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Accordingly, the deadline for submitting an income tax account for 2023 - 2024 has been extended till December 7.
 
-வரி செலுத்துவோர் புதிய காலக்கெடுவுக்குள் அல்லது அதற்கு முன்னதாக சமர்ப்பித்தால் அபராதம் அல்லது சட்ட நடவடிக்கையை எதிர்கொள்ளமாட்டார்கள் என்று திணைக்களம் குறிப்பிட்டுள்ளது.
+Initially, the deadline for submitting an Income Tax Account by the Department of Home Affairs was granted till November 30.
+
+However, considering the impact of many areas due to inclement weather, it has been decided to extend the time.
+
+The department notes that the taxpayer will not face fines or legal action if they submit to or before the new deadline.
 
 ◼️
 
 [Data](articles/4910aac4.json)
+
+[Extended Data](ext_articles/4910aac4.ext.json)
+
+---
+
+### Court rejects W.M. Mendis’ petition challenging Excise license suspension
+
+*2024-12-04 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103995/court-rejects-wm-mendis-petition-challenging-excise-license-suspension) · `en`
+
+The Court of Appeal has ordered the dismissal of a petition filed by the W.M. Mendis & Co. Limited today (04) without taking it up for hearing.
+
+W. M. Mendis Distilleries had filed the petition seeking an order invalidating the letter issued by the Department of Excise informing that steps will be taken to suspend the excise licenses issued to the company if the outstanding excise duties were not settled before 30 November 2024.
+
+This order was issued by the Appeals Court judge bench consisting of Justices Sobhitha Rajakaruna and Mahen Gopallawa following an extended consideration of facts, declaring that the petition does not reveal any prima facie case.
+
+...
+
+[Data](articles/514f32c1.json)
+
+[Extended Data](ext_articles/514f32c1.ext.json)
 
 ---
 
@@ -190,6 +430,24 @@ It is not known exactly which payment in the video. Likewise, the voice -over pe
 
 ---
 
+### පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේ සභාපති සරෝජා සාවිත්‍රි
+
+*2024-12-04 16:55:28* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රීවරියන්ගේ-සංසදයේ-සභාපති-සරෝජා-සාවිත්‍රි/11-413457) · `si`
+
+මහජන ජන්දයෙන් කාන්තාවන් සැලකියයුතු ප්‍රතිශතයකින් මන්ත්‍රීවරියන් ලෙස පාර්ලිමේන්තුවට තේරීපත්වීම සුවිශේෂී ජයග්‍රහණයක් -  අග්‍රාමාත්‍යවරිය පවසයි.
+
+මෙරට සෑම කාන්තාවක්ම සුරක්ෂිතවෙන රටක් නිර්මාණය කිරීම අපේ අපේක්ෂාවයි - සංසදයේ සභාපතිවරිය පවසයි.
+
+පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය ඊයේ (03) පළමු වරට අග්‍රාමාත්‍ය ,ආචාර්ය හරිනි අමරසුරියගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේදී පැවැත්විණි. මේ අවස්ථාව සඳහා නියෝජ්‍ය කාරක සභා සභාපති පාර්ලිමේන්තු මන්ත්‍රී හේමාලි වීරසේකර සහ පාර්ලිමේන්තුවේ මහලේකම් සහ පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේ ලේකම් කුෂානි රෝහණදීර යන මහත්මීන්ද එක්ව සිටියහ.
+
+මෙහිදී පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේ නව සභාපති ලෙස කාන්තා හා ළමා කටයුතු අමාත්‍ය ය සරෝජා සාවිත්‍රි පෝල්රාජ් මහත්මිය තේරීපත්විය. ඒ සඳහා වන නම පාර්ලිමේන්තු මන්ත්‍රී සමන්මලී ගුණසිංහ මහත්මිය විසින් යෝජනා කළ අතර පාර්ලිමේන්තු මන්ත්‍රී අනුෂ්කා තිලකරත්න මහත්මිය විසින් එම යෝජනාව ස්ථිර කලාය.
+
+...
+
+[Data](articles/a271a313.json)
+
+---
+
 ### Korala Cannabis found in the North Sea
 
 *2024-12-04 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204033) · `si`
@@ -229,6 +487,24 @@ The stock of Kerala cannabis and the Dingi vessel has been handed over to the Ja
 ◼️
 
 [Data](articles/99137c32.json)
+
+---
+
+### මඩේ එරුණු ඇතින්න සතියකට පසු මියයයි‍
+
+*2024-12-04 16:26:39* · [`adalk`](https://www.ada.lk/picture_story/මඩේ-එරුණු-ඇතින්න-සතියකට-පසු-මියයයි‍/10-413453) · `si`
+
+වව්නියාව කුඩාකච්චකොඩිය ප්‍රදේශයේ පිහිටි කුඹුරක මඩේ එරීම හේතුවෙන් දැඩි සෙයින් දුර්වලව සිටි ඇතින්න සතියකට පසුව අද (04) දින මිය ගොස් ඇතැයි වව්නියාව වනජීවි නිලධාරී කර්යාලය පැවසීය.
+
+මිය ගිය ඇතින්නගේ අවසන් කටයුතු උතුරු පලාත් වනජීවි පශුවෛද්‍ය බී.ගිරිධරන් මහතා ඇතුලු වනජීවි නිලධාරීන් සහ ප්‍රදේශභාර ග්‍රාමසේවක වරයාගේද සහභාගීත්වයෙන් සිදුකිරීමට පියවර ගෙන තිබුණි.
+
+මඩේ එරුනු ඇතින්නගේ ජීවිතය බේරාගැනීම සඳහා පශුවෛද්‍ය වරයා ඇතුලු වනජීවි නිලධාරීන් විසින් සතියක කාලයක් පුරා ප්‍රතිකාර මේනම සේලයින්ද ලබාදෙමින් දැඩි උත්සහයක් දැරුවද ඇතින්න‌ගේ ජීවිතය බේරාගැනීමට නොහැකි විය.
+
+අවුරුදු 50 කට වඩා වයසින් යුතු මෙම ඇතින්න දෙවරක් පමණ ගැබ්බර වී ඇති බවටත් වයසින් වැඩි ඉතා දුර්වල තත්වයේ සිටියදී අධික වර්ෂාව හමුවේ කුඹුර මතින් යාමේදී මඩේ එරීම නිසා ඇතින්න තවත් දැඩි සෙයින් දුර්වල වීම හේතුවෙන් ඇවිදීමට වාරු නොමැතිව ආහාර ගැනීමට පවා නොහැකිව සිටි බවට උතුරු පලාත් වනජීවි පශුවෛද්‍ය කාර්යාලය පැවසීය.
+
+...
+
+[Data](articles/af068055.json)
 
 ---
 
@@ -2147,215 +2423,5 @@ The Examinations Commissioner added that the roadblounted areas have gone to the
 [Data](articles/f4f34cb8.json)
 
 [Extended Data](ext_articles/f4f34cb8.ext.json)
-
----
-
-### Weather today
-
-*2024-12-04 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204012) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Rainy weather forecast: Showers/thundershowers expected in Northwest, North Central, Uva provinces tonight. Department of Meteorology warns of major rainfall in other areas. Morning may be stable across island."
-
-🟩
-
-Showers or nights thundershowers in the evening or night in the middle, Northwest, North Central and Uva provinces.
-
-The Department of Meteorological was announced that there is a major rainy weather in other areas.
-
-In many parts of the island, there may be a stability in the morning.
-
-◼️
-
-[Data](articles/8d925eec.json)
-
-[Extended Data](ext_articles/8d925eec.ext.json)
-
----
-
-### Train crashes into a car that tries to cross the railway crossing
-
-*2024-12-04 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200370) · `ta`
-
-Train crashes into car at unsafe railway crossing; four injured.
-
-🟩
-
-A train crashed into a car that was not trying to cross the railway crossing.
-
-Four people were injured and admitted to the vacant hospital on Tuesday night.
-
-The accident occurred at an unsafe railway crossing near the Galle Sudarmarama Vihara.
-
-◼️
-
-[Data](articles/321f0ffc.json)
-
-[Extended Data](ext_articles/321f0ffc.ext.json)
-
----
-
-### A time of trust;A pledge to save
-
-*2024-12-04 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200363) · `ta`
-
-Sri Lanka's new president vows to combat racism and extremism, promising justice and equality for all citizens. His government aims to heal historical wounds and unite the nation. Challenges remain, but early signs suggest a shift towards inclusivity and reconciliation.
-
-🟩
-
-Following the September presidential election and the November parliamentary election, the recent political transformation in Sri Lanka gives a turning point to deal with the deeper problems that emerged as a result of discrimination.. President Anura Kumara Dissanayake, who inaugurated his government's policy briefing in the session of the Tenth Parliament, pressed the commitment to prevent racism and religious extremism in Sri Lanka.
-
-He said that his government would not allow communal politics and religious extremism to re -intervene, he said that he would establish a fearless democratic state.. The president, who emphasized the importance of the rule of law, is confirmed that there is no individual nor politician that is more than the law. He promised to investigate controversial crimes and provide justice to the victims and restore confidence in legalism.
-
-...
-
-[Data](articles/b6693be7.json)
-
-[Extended Data](ext_articles/b6693be7.ext.json)
-
----
-
-### UK-Sri Lanka Trade Mission empowers women entrepreneurs; boosts bilateral ties
-
-*2024-12-04 05:50:48* · [`dailyftlk`](https://www.ft.lk/news/UK-Sri-Lanka-Trade-Mission-empowers-women-entrepreneurs-boosts-bilateral-ties/56-770054) · `en`
-
-Connects 13 UK firms with 45 Sri Lankan women entrepreneurs to explore business opportunities
-
-Aims to expand Sri Lankan women-led enterprises’ access to UK market; whilst providing UK companies new sourcing destinations
-
-UK companies to conduct field visits in Colombo, Kurunegala and Jaffna for deeper market insights
-
-The United Kingdom-Sri Lanka Trade Mission, a key initiative under the UK Government-funded SheTrades Commonwealth+ Program, is fostering economic collaboration between the two countries from 2-6 December.
-
-Co-organised by the International Trade Centre (ITC) and the Sri Lanka Export Development Board (EDB), the mission brings together 13 UK companies and 45 Sri Lankan women entrepreneurs to explore business opportunities in the textiles, apparel and processed agrifood sectors.
-
-...
-
-[Data](articles/1cf71680.json)
-
-[Extended Data](ext_articles/1cf71680.ext.json)
-
----
-
-### UK-Sri Lanka Trade Mission empowers women entrepreneurs; boosts bilateral ties
-
-*2024-12-04 05:50:48* · [`dailyftlk`](https://www.ft.lk/business/UK-Sri-Lanka-Trade-Mission-empowers-women-entrepreneurs-boosts-bilateral-ties/34-770054) · `en`
-
-Connects 13 UK firms with 45 Sri Lankan women entrepreneurs to explore business opportunities
-
-Aims to expand Sri Lankan women-led enterprises’ access to UK market; whilst providing UK companies new sourcing destinations
-
-UK companies to conduct field visits in Colombo, Kurunegala and Jaffna for deeper market insights
-
-The United Kingdom-Sri Lanka Trade Mission, a key initiative under the UK Government-funded SheTrades Commonwealth+ Program, is fostering economic collaboration between the two countries from 2-6 December.
-
-Co-organised by the International Trade Centre (ITC) and the Sri Lanka Export Development Board (EDB), the mission brings together 13 UK companies and 45 Sri Lankan women entrepreneurs to explore business opportunities in the textiles, apparel and processed agrifood sectors.
-
-...
-
-[Data](articles/9566bcc8.json)
-
-[Extended Data](ext_articles/9566bcc8.ext.json)
-
----
-
-### Sajith Premadasa accuses Govt. of using PTA to suppress activists
-
-*2024-12-04 05:49:15* · [`dailyftlk`](https://www.ft.lk/news/Sajith-Premadasa-accuses-Govt-of-using-PTA-to-suppress-activists/56-770053) · `en`
-
-Slams Govt. for contradicting pre-election promises by using PTA to suppress media and social media activists
-
-Claims activists who supported AKD’s campaign are being hunted under the law
-
-Urges Govt. to align its actions with its promises and says it must walk the talk
-
-Opposition leader Sajith Premadasa has accused the Government of contradicting its pre-election promises by using the Prevention of Terrorism Act (PTA) to suppress media and social media activists.
-
-Addressing Parliament yesterday during a debate on President Anura Kumara Dissanayake’s policy statement, Premadasa criticised the Government for continuing to enforce the controversial legislation it had vowed to repeal before coming to power.
-
-...
-
-[Data](articles/0cb12ab8.json)
-
-[Extended Data](ext_articles/0cb12ab8.ext.json)
-
----
-
-### Shanakiyan urges Govt. to clarify stance on Provincial Councils
-
-*2024-12-04 05:48:08* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-urges-Govt-to-clarify-stance-on-Provincial-Councils/56-770052) · `en`
-
-Illankai Tamil Arasu Kadchi (ITAK) MP Shanakiyan Rasamanickam has urged the Government led by President Anura Kumara Dissanayake to clarify its position on the future of the Provincial Council system.
-
-Citing recent remarks to the media by Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva, who has suggested the system might be abolished, Rasamanickam called for an official response on the matter. The MP raised the question prior to yesterday’s Parliamentary debate on the President’s policy statement, emphasising that the issue is of national significance and has sparked widespread public concern.
-
-Leader of the House Bimal Rathnayake responded by reaffirming the Government’s respect for Rasamanickam but noted that the matter was not directly relevant to the day’s Parliamentary agenda. “Do not be spoiled by those around you,” Rathnayake said.
-
-...
-
-[Data](articles/ebf83f2e.json)
-
-[Extended Data](ext_articles/ebf83f2e.ext.json)
-
----
-
-### Govt. vows to prevent resurgence of racist politics; religious extremism
-
-*2024-12-04 05:47:15* · [`dailyftlk`](https://www.ft.lk/news/Govt-vows-to-prevent-resurgence-of-racist-politics-religious-extremism/56-770051) · `en`
-
-The Government yesterday reaffirmed its commitment to preventing the resurgence of any divisive racist politics or religious extremism.
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa disclosed that intelligence services have observed attempts to stir such sentiments, particularly via social media, and the Government is prepared to take all necessary actions, including introducing new legislation, to address the issue.
-
-“No one will be allowed to use nationalist or religious rhetoric as a means to gain political power in this country again,” Dr. Jayatissa said during the weekly post-Cabinet meeting media briefing.
-
-Noting that the Government has expressed its intent to repeal the Prevention of Terrorism Act (PTA), Dr. Jayatissa acknowledged that the existing law will remain in force until new legislation is introduced.
-
-The matter of repealing the PTA has been a longstanding issue, he noted, adding that will be discussed as Parliament progresses.
-
-...
-
-[Data](articles/297c62a2.json)
-
-[Extended Data](ext_articles/297c62a2.ext.json)
-
----
-
-### US Assistant Secretary to visit Sri Lanka tomorrow
-
-*2024-12-04 05:46:03* · [`dailyftlk`](https://www.ft.lk/news/US-Assistant-Secretary-to-visit-Sri-Lanka-tomorrow/56-770050) · `en`
-
-Assistant Secretary of State for the Bureau of South and Central Asian Affairs Donald Lu is scheduled to arrive in Sri Lanka tomorrow (5).
-
-Issuing a statement, the US State Department said the US Assistant Secretary will also travel to India and Nepal from 3-10 December. His trip will strengthen cooperation with key partners in South Asia to promote regional prosperity and security.
-
-Assistant Secretary Lu’s visit aims to advance US-Sri Lankan joint efforts to promote sustainable economic growth, combat corruption, and strengthen people-to-people ties.
-
-USAID Deputy Assistant Administrator Anjali Kaur and Department of the Treasury Deputy Assistant Secretary Robert Kaproth will join the Assistant Secretary to meet with senior Government officials from new administration and representatives from civil society.
-
-...
-
-[Data](articles/8a188a61.json)
-
-[Extended Data](ext_articles/8a188a61.ext.json)
-
----
-
-### New Government faces tough questions over IMF U-turn
-
-*2024-12-04 05:41:59* · [`dailyftlk`](https://www.ft.lk/columns/New-Government-faces-tough-questions-over-IMF-U-turn/4-770049) · `en`
-
-Can the Government implement the IMF’s reforms in a way that minimises their impact on vulnerable populations?
-
-When the NPP party swept into power just a couple of months ago, it did so on a wave of hope and promises of change. President Anura Kumara Dissanayake’s campaign was built on sharp critiques of past economic mismanagement and vows to steer the country towards a more equitable future. Yet, in a move that has surprised many supporters, the new Government has chosen to accept the IMF bailout terms negotiated by its predecessor—a decision that underscores the scale of the challenges it faces.
-
-...
-
-[Data](articles/4d26ec63.json)
-
-[Extended Data](ext_articles/4d26ec63.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 21:43:04**
+As of **2024-12-04 22:17:55**
 
 ## Newspaper Stats
 
-*Scraped **58,478** Articles*
+*Scraped **58,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,543
-adaderanalk | 7,102
+adaderanalk | 7,103
 tamilmirrorlk | 8,325
 virakesarilk | 9,568
 adaderanasinhalalk | 10,104
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,477 (100.0%) of 58,478 articles have been extended.
+58,479 (100.0%) of 58,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### CEO of UnitedHealthcare fatally shot in New York City
+
+*2024-12-04 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104001/ceo-of-unitedhealthcare-fatally-shot-in-new-york-city) · `en`
+
+The head of US insurance company UnitedHealthcare has been shot and killed in New York City, according to the BBC’s US partner CBS News.
+
+Chief executive Brian Thompson was fatally shot in the chest just before 07:00 EST (12:00 GMT) on Wednesday outside the Hilton Hotel in Midtown Manhattan, where he was scheduled to speak at an investor conference later in the day.
+
+The 50-year-old was taken to the hospital, where he was pronounced dead, officials said.
+
+A suspect fled the scene and remains at large, the New York Police Department said.
+
+Thompson appeared to be targeted in the attack, with the suspect waiting for him outside wearing a ski mask and cream jacket, police said.
+
+Investigators said they have video footage of the shooting, but they did not know the suspect’s motive. Nothing was taken from the victim, they added.
+
+Thompson was named chief executive of UnitedHealthcare in April 2021. He earned $10.2m (£8m) working for the company last year.
+
+...
+
+[Data](articles/e125a7b9.json)
+
+[Extended Data](ext_articles/e125a7b9.ext.json)
+
+---
 
 ### President Dissanayake engages in discussion with ITAK MPs
 
@@ -428,23 +454,29 @@ President Anura Kumara Dissanayake presented the government's policy statement o
 
 ---
 
-### ගුවන් හමුදා බලගණ නායකවරයෙක් අල්ලයි
+### SLAF Stalistic Leader arrested
 
 *2024-12-04 18:13:40* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බලගණ-නායකවරයෙක්-අල්ලයි/11-413462) · `si`
 
-බීමතින් මෝටර් රථයක් පැදවීමේ චෝදනාවට අධිකරණය මගහැර විවෘත වරෙන්තු ලැබ සිටි ගුවන් හමුදා බළගණ නායක නිලධාරියෙකු අත්අඩංගුවට ගත් බව නාරාහේන්පිට පොලීසිය පවසයි.
+SLAF officer arrested for drunk driving. Released on bond, failed to appear in court. Warrant issued. To be produced in court soon.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ, කිලිනොච්චි ඉරණමඩු ගුවන් හමුදා කඳවුරට අයත් නිලධාරියෙකි.
+🟩
 
-මොහු බීමතින් මෝටර් රථයක් පදවමින් සිටියදී නාරහේන්පිට පොලීසිය මගින් අත්අඩංගුවට ගෙන අධිකරණයේ පෙනී සිටින ලෙසට දන්වා බැඳුම්කරයක් මත මුදා හැර ඇතැයි පොලිසිය සඳහන් කරයි.
+Narahenpita police said that the SLAF Aragnetic official was arrested in avert to the charge of driving a drunken car.
 
-අධිකරණය දිනයේ සැකකාර ගුවන් හමුදා නිලධාරියා අධිකරණය හමුවේ පෙනී නොසිටීම හේතුවෙන් ඔහුට විවෘත වරෙන්තු නිකුත් කර ඇත.
+The suspect was a officer from the Air Force Base of Iranamadu.
 
-එම විවෘත වරෙන්තුව මත ඊයේ (03දා) පස්වරුවේ ඔහු අත්අඩංගුවට ගත් බව පොලීසිය සඳහන් කරයි. සැකකරු අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇත.
+The police said that he had been arrested by police and be released on a bonding in announced as Narahenpita was arrested and appeared in court while he was driving a drunk car.
+
+He has issued open warrants as the suspect officer is not appearing in court on the day of the judiciary.
+
+He was arrested last evening on the open warrant.. The suspect is due to be produced in court.
 
 ◼️
 
 [Data](articles/553c40cc.json)
+
+[Extended Data](ext_articles/553c40cc.ext.json)
 
 ---
 
@@ -2495,31 +2527,5 @@ The greatest problem in the health sector is increasing non-communicable patient
 [Data](articles/1cc2be25.json)
 
 [Extended Data](ext_articles/1cc2be25.ext.json)
-
----
-
-### I didn't hit the arrival of the arrival ... Commendation denies the allegations
-
-*2024-12-04 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204020) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sujith Sanjaya Perera denies assault claim against Ramanathan Archuna. Incident occurred at Opposition Leader's office. Archuna alleges assault, apologizes for racist remarks in Parliament.
-
-🟩
-
-Parliamentarian PS member Sujith Sanjaya Perera says that he will deny the allegations that Independent MP Ramanathan Archuna was assaulted by the Opposition Leader of the Opposition.
-
-He was speaking to the media yesterday (03).
-
-"No problem. The newly named Achchutach had made a statement that I was attacked by him. In no case I didn't work to attack him. However, there was a incident at the Opposition's Office. He came to the Opposition Leader's office and saw an argument with the opposition leader.. The elephants were sitting at the chair. The Alawatuwa MP was speaking and told him to talk to the Speaker with party leaders and to resolve the Speaker. But he did not accept that. There he said that he was not with you, but I was not talking. There I said what we know that we knew that it was not fair to do this to the opposition leader, but the opposition leader in the opposition, or even to the Opposition Board.. He said you said this would not apply to this. There was an argument. "
-
-...
-
-[Data](articles/701fd457.json)
-
-[Extended Data](ext_articles/701fd457.ext.json)
 
 ---

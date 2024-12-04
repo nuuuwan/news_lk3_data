@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 08:35:41**
+As of **2024-12-04 08:09:53**
 
 ## Newspaper Stats
 
-*Scraped **58,353** Articles*
+*Scraped **58,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,543
 dailyftlk | 4,033
 dailymirrorlk | 4,733
 adalk | 5,523
-adaderanalk | 7,081
+adaderanalk | 7,080
 tamilmirrorlk | 8,300
 virakesarilk | 9,552
 adaderanasinhalalk | 10,076
@@ -26,31 +26,11 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,341 (100.0%) of 58,353 articles have been extended.
+58,339 (100.0%) of 58,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
-
-### 2024 A/L exam resumes
-
-*2024-12-04 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103976/2024-al-exam-resumes) · `en`
-
-The 2024 G.C.E. Advanced Level examination which was temporarily suspended due to recent adverse weather conditions recommences today (Dec. 04).
-
-The 2024 A/L examination commenced on November 25, and was later suspended temporarily on November 27 due to extreme weather conditions that affected the communities across the island.
-
-Accordingly, the Department of Examinations said that the exam will recommence tomorrow and will continue according to the usual time table that has already been provided to the students.
-
-Furthermore, the Commissioner General of Examinations Amith Jayasundara stated that the subjects which were scheduled to be held on the dates, in which the exam had been suspended, will be held in the upcoming days.
-
-The new time table related to the said dates will be provided to the students at the examination centres on Saturday (Dec. 07), Jayasundara added.
-
-...
-
-[Data](articles/d5e1ba16.json)
-
----
 
 ### Today's weather announcement
 
@@ -208,8 +188,6 @@ Some Inland Revenue Department (IRD) officers have misunderstood that contractor
 
 [Data](articles/88b2ef53.json)
 
-[Extended Data](ext_articles/88b2ef53.ext.json)
-
 ---
 
 ### PM vows NPP will seize historic opportunity to represent all citizens
@@ -229,8 +207,6 @@ Speaking during the opening of the Parliamentary debate on the President’s pol
 ...
 
 [Data](articles/e22af96e.json)
-
-[Extended Data](ext_articles/e22af96e.ext.json)
 
 ---
 
@@ -2437,5 +2413,33 @@ Cabinet Spokesperson, Minister Nalinda Jayatissa added that the Prime Minister's
 [Data](articles/24ff2501.json)
 
 [Extended Data](ext_articles/24ff2501.ext.json)
+
+---
+
+### The death of Madarasa students;Rishad Sad
+
+*2024-12-03 15:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதரஸா-மாணவர்களின்-உயிரிழப்பு-ரிஷாட்-விசனம்/175-348184) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rishad Bathiudeen urges independent probe into deaths of 8 including Madarasa students in Ampara flood. Blames police negligence & delays in rescue efforts. Requests Public Security Minister to investigate.
+
+🟩
+
+All Ceylon People's Congress leader and parliamentarian Rishad Bathiudeen on Tuesday (03) urged the council to hold an independent investigation into the death of eight people, including Madarasa students, on the Karativu -Mavadipalli road, the plowing machine collapsed and flooded.
+
+“Eight people were killed in a recent flood disaster in Mavadipalli in Ampara district. I had visited their homes. At the time, the relatives of the deceased were accused of the tragedy of the incident.
+
+In particular, the police have been on duty when the incident took place. The Madarasa administration has sent students into the plowing machine because of the lack of way to leave Madrasa due to flooding.
+
+When they were traveling on the road, the police were flooded, and the police did not close the road and allowed the traffic to be reckless.. Must stop them and explain the situation.
+
+...
+
+[Data](articles/a4f50c5a.json)
+
+[Extended Data](ext_articles/a4f50c5a.ext.json)
 
 ---

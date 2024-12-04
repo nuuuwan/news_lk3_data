@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 12:02:25**
+As of **2024-12-04 12:29:23**
 
 ## Newspaper Stats
 
@@ -26,25 +26,39 @@ adaderanasinhalalk | 10,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,380 (100.0%) of 58,394 articles have been extended.
+58,384 (100.0%) of 58,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### மாவீரர் விவகாரம்: இளைஞனுக்கு பிணை
+### Heroes affair: Bail for young man
 
 *2024-12-04 11:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-விவகாரம்-இளைஞனுக்கு-பிணை/175-348227) · `ta`
 
-தமிழீழ மாவீரர் தினத்தை முன்னிட்டு தனது முகநூல் பக்கத்தில் பொய்யான தகவல்களை வெளியிட்ட குற்றச்சாட்டின் பேரில் விளக்கமறியலில் வைக்கப்பட்டிருந்த சமூக ஆர்வலர் கெலும் ஜயசுமனவை பிணையில் விடுவிக்க கொழும்பு நீதவான் திலின கமகே, புதன்கிழமை (04) உத்தரவிட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-சமூக ஊடகங்களில் பொது ஒழுங்கை மீறும் வகையிலும், இனங்களுக்கு இடையிலான நல்லிணக்கத்தை சீர்குலைக்கும் வகையிலும் செய்திகள் பரப்பப்பட்டமைக்கு எதிராக குற்றப் புலனாய்வுப் பிரிவு பொலிஸாரின் இணைய ஊடுருவல் புலனாய்வுப் பிரிவினரால் சந்தேகநபர் கைது செய்யப்பட்டு நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து,  முன்வைக்கப்பட்ட உண்மைகளை ஆராய்ந்த நீதவான் பிணை வழங்கியுள்ளார்.
 
-சந்தேகநபர் தொடர்பில் மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும், சந்தேக நபரை விளக்கமறியலில் வைக்குமாறும் குற்றப் புலனாய்வுப் பிரிவினர் கோரியுள்ளனர்.
 
-...
+Colombo Magistrate releases social activist Kelum Jayasumana on bail. Charged with spreading false info on Facebook. CID opposed release but magistrate granted bail without evidence due to lack of public disruption proof.
+
+🟩
+
+Colombo Magistrate Thilina Kamage on Wednesday (04) has ordered the release of social activist Kelum Jayasumana, who was detained on the allegations of false information on his Facebook page on his Facebook page.
+
+The magistrate has granted bail on the fact that the suspect was arrested and produced in court by the Criminal Investigation Investigation Unit of the Criminal Investigation Department (CID) against the spread of news spreading public order on social media and disrupting inter -ethnic harmony.
+
+The Criminal Investigation Department has demanded that further investigations into the suspect and the suspect be kept in detention.
+
+Asked how the suspect could be interrogated in the absence of evidence of public disruption, the magistrate ordered the bail to be granted without evidence.
+
+The Magistrate ordered the release of the suspect on two bail
+
+◼️
 
 [Data](articles/e2b7b16e.json)
+
+[Extended Data](ext_articles/e2b7b16e.ext.json)
 
 ---
 
@@ -240,7 +254,11 @@ Social activist Kelum Jayasumana who was arrested for sharing Mahaviru commemora
 
 He has been ordered to be released on bail after he was produced before Colombo Magistrate’s Court, Ada Derana reporter said.
 
-◼️
+During the trial, the officers of the Criminal Investigation Department (CID) stated before the court that the suspect had downloaded and reposted a picture which was initially posted by a French woman on Facebook that contained the proscribed symbols of the LTTE organization.
+
+Stating that this had disrupted public order and ethnic harmony, the officers also stated that no such event had been held in the North. Since the investigation has not been completed, the officers of the CID requested that the suspect be further remanded in custody.
+
+...
 
 [Data](articles/9db9e622.json)
 
@@ -422,17 +440,29 @@ In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 1
 
 ---
 
-### මම අර්ච්චුනාට ගැහුවේ නෑ...සජබ මන්ත්‍රී චෝදනා ප්‍රතික්ෂේප කරයි
+### I didn't hit the arrival of the arrival ... Commendation denies the allegations
 
 *2024-12-04 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204020) · `si`
 
-පාර්ලිමේන්තුවේ විපක්ෂ නායක කාර්යාලය තුළදී ස්වාධීන මන්ත්‍රී රාමනාදන් අර්චුනා මහතාට පහර දුන් බවට කරන චෝදනා ප්‍රතික්ෂේප කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සුජිත් සංජය පෙරේරා මහතා පවසයි.
+Here's a summary in 200 characters:
 
-ඊයේ (03) පාර්ලිමේන්තු රැස්වීමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+
+Sujith Sanjaya Perera denies assault claim against Ramanathan Archuna. Incident occurred at Opposition Leader's office. Archuna alleges assault, apologizes for racist remarks in Parliament.
+
+🟩
+
+Parliamentarian PS member Sujith Sanjaya Perera says that he will deny the allegations that Independent MP Ramanathan Archuna was assaulted by the Opposition Leader of the Opposition.
+
+He was speaking to the media yesterday (03).
+
+"No problem. The newly named Achchutach had made a statement that I was attacked by him. In no case I didn't work to attack him. However, there was a incident at the Opposition's Office. He came to the Opposition Leader's office and saw an argument with the opposition leader.. The elephants were sitting at the chair. The Alawatuwa MP was speaking and told him to talk to the Speaker with party leaders and to resolve the Speaker. But he did not accept that. There he said that he was not with you, but I was not talking. There I said what we know that we knew that it was not fair to do this to the opposition leader, but the opposition leader in the opposition, or even to the Opposition Board.. He said you said this would not apply to this. There was an argument. "
 
 ...
 
 [Data](articles/701fd457.json)
+
+[Extended Data](ext_articles/701fd457.ext.json)
 
 ---
 
@@ -544,23 +574,29 @@ The exam will be held from December 21 to December 31, the Commissioner General 
 
 ---
 
-### ඉදිරි සති දෙකේ සහල් ආනයනය නොකළොත් ප්‍රශ්න ගොඩක්
+### If the rice is not imported next two weeks, a lot of questions
 
 *2024-12-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204019) · `si`
 
-ඉදිරි සති දෙක ඇතුළත සහල් ආනයන කිරීම සඳහා රජය පියවර නොගත් හොත් දැඩි සහල් හිඟයක් ඇති වන බව සමස්ත ලංකා සුළු හා මධ්‍ය පරිමාණ වීමෝල් හිමියන්ගේ සංගමය පවසයි.
+Rice shortage looms: Gov urged to act within 2 weeks. CPAs warn of crisis if imports fail. Long-term solutions sought; short-term market control proposed. Flood relief shifted to reconstruction efforts.
 
-එහි සභාපති යූ. කේ. සේමසිංහ මහතා සඳහන් කළේ, මෙම ගැටලුව විසඳීම සඳහා දීර්ඝ කාලීන වැඩපිළිවලක් සකස් කිරීම රජයේ වගකීමක් බවය.
+🟩
 
-"දීර්ඝ කාලීන විසඳුමකට යා යුතුයි. එසේ නොගියොත් නැවත නැවත මේ අර්බුදයට යා හැකි වෙනවා. යල කන්නයේ වී මිලදී ගැනීමට වී අලෙවි මණ්ඩලය මඟින් මේ අර්බුදය යටපත් කිරීමට ක්‍රමවත් වැඩපිළිවෙලක් සකස් කළ යුතුයි. ඒ වගේම කෙටි කාලීන විසඳුමක් ලෙස රජය විසින් ඉතා ඉක්මනින් විදෙස් රටවලින් සහල් ආනයනය නොකළහොත් මේ තත්ත්වය තුළ වෙළෙඳපොළේ දැඩි සහල් හි﻿ඟයක් ඇති විය හැකිය."
+All CPAs Small and Medium Scaleholdoreholders Association says that if the government does not take measures to import rice within the next two weeks, the entire Lanka Small and Medium Scaleholdoleholds Association says.
 
-ඔහු සඳහන් කළේ බියර් සහ සත්ත්ව ආහාර නිෂ්පාදනය කිරීම සඳහා සහල් ලබා දීමේදී එය නියාමනය කිරීම ඉතා වැදගත් කාරණයක් බවය.
+Its Chairman U. K. Semasinghe said that it is the responsibility of the government to develop a long term program to solve this problem.
 
-මේ අතර පැවති ගංවතුර තත්ත්වයෙන් හානියට පත්වූ කුඹුරු සඳහා වන්දි ලබාදීම වෙනුවට ඒවා යළි වගා කිරීමට පියවර ගතයුතු බව හිටපු කෘෂිකර්ම අධ්‍යක්ෂ කේ. බී. ගුණරත්න මහතා පවසයි.
+"Should go to a long-term solution. If not, you can go back to this crisis. Paddy Marketing Board should be prepared by the Paddy Marketing Board to buy paddy in Yala season. If the government does not import rice from foreign countries, as a short-term solution, the government may have a sole in the market in the market. "
+
+He said that it is very important to regulate the rice to produce beer and vegan.
+
+Meanwhile, instead of compensation for the floods affected by the flood victims, steps should be taken to reconstruct them. B. Says Mr. Gunaratne.
 
 ◼️
 
 [Data](articles/08d8be4b.json)
+
+[Extended Data](ext_articles/08d8be4b.ext.json)
 
 ---
 
@@ -584,23 +620,35 @@ The main opposition Democratic Party called for Yoon, who has been in office sin
 
 ---
 
-### සිරිපාදේ ප්‍රතිසංස්කරණයට යැයි පවසා මුදල් ගරන ජාවාරමක් ?
+### A crench racket called for renovation?
 
 *2024-12-04 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204018) · `si`
 
-ශ්‍රී පාදස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු සඳහා බව පවසමින් මුදල් රැස්කිරීමේ සංවිධානයක් පිළිබඳ තොරතුරු අනාවරණය වී ඇති බව ගෞතම ශ්‍රී පාදස්ථානාධිපති පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-උන්වහන්සේ පවසන්නේ 'සමනල කන්ද රසික එකමුතුව' යැයි  සඳහන් සංවිධානයක් විසින් මෙම මුදල් රැස්කිරීම් සිදුකර ඇති බවය.
 
-"ඒ අය පරිසරය රකින්න කියලත් එක එක විදියට යෝජනා කරනවා. ඒ යෝජනා කරන අතරේ කූඨ ලෙස මිනිසුන් නොමඟ යවලා, ලක්ෂ ගණනක් ආධාර ලබාගන්න කටයුතු කරලා තියෙනවා. ඒ කිසිම කෙනෙකුට වැටේ තීන්ත ගාන්න හෝ ශ්‍රී පාදස්ථානය සුද්ධ පවිත්‍ර කරලා තීන්ත ආලේප කරන්න හෝ අපි භාරදීලා නෑ. ඒ හැමකෙනෙක්ම මහ දිසාපතිතුමාගෙන් අවසර ගන්න ඕනේ එහෙම නැත්නම් ඒ භාරකාරත්වයෙන් අවසර ගන්න ඕනේ. අවසර නොලබා කිසිවෙක් කරන්නේ නෑ. උඩ මලුවේ කරන වැඩ සම්මාදම් කිරීමෙන් තොරව සිදුකරන්නේ."
 
-නොයෙක් සංවිධානවලට මුදල් ලබා දීමෙන් වළකින ලෙස පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි ජනතාවගෙන් ඉල්ලා සිටියේය.
+Organization claims environmental protection, but critics argue misleading public. Renovation plans disputed, especially for Hatton-Nallutuwa Road. Butterfly Money Facebook group shares information about Siripada Pilgrimage.
 
-කෙසේ වෙතත් මෙම චෝදනාව සම්බන්ධයෙන් අදාළ සංවිධානය මුහුණුපොතේ සටහනක් තබමින් සඳහන් කර ඇත්තේ, තම සංවිධානය අදාළ චෝදනාව තරයේ ප්‍රතික්ෂේප කරන බවය.
+🟩
+
+Mr. Bengamage Dhammala Dhammala Dhammala Dhammala Dhammawardena, Ven
+
+The Thera says that the money has been made by the organization.
+
+"They suggest that they want to protect the environment. While suggesting, clients have mislead people, hundreds of thousands of assistance. We have not accepted any one to paint the fall or clean the Sri Leader. All of them need to get permission to take permission if it should be allowed. No one will do without permission. Do not make the work of the above flower. "
+
+Ven
+
+However, the organization has stated that the organization has noted a note in the face or organization.
+
+We reject the Group of Hatton Nallutunnewa road, which is named after the "Samanala Money", who is not permission to be done without permission from the public sector.. We see that the leader of the monks have been condemned and blamed by another group of people.
 
 ...
 
 [Data](articles/e1860513.json)
+
+[Extended Data](ext_articles/e1860513.ext.json)
 
 ---
 

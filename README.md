@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 08:59:00**
+As of **2024-12-04 09:31:07**
 
 ## Newspaper Stats
 
-*Scraped **58,358** Articles*
+*Scraped **58,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,033
 dailymirrorlk | 4,733
 adalk | 5,524
 adaderanalk | 7,083
-tamilmirrorlk | 8,301
+tamilmirrorlk | 8,303
 virakesarilk | 9,552
 adaderanasinhalalk | 10,076
 
@@ -26,29 +26,85 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,345 (100.0%) of 58,358 articles have been extended.
+58,349 (100.0%) of 58,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### A/L  பரீட்சை இன்று மீண்டும் ஆரம்பம்
+### There will be severe shortage of rice in Sri Lanka;Issued warning
+
+*2024-12-04 09:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அரிசிக்கு-கடும்-தட்டுப்பாடு-வரும்-விடுக்கப்பட்ட-எச்சரிக்கை/175-348218) · `ta`
+
+Sri Lanka faces severe rice shortage warning. Government urged to import rice within two weeks to avoid crisis. Long-term solutions needed to prevent future shortages.
+
+🟩
+
+The All Ceylon Small and Medium Plant Owners Association has said that if the government does not take steps to import rice within the next two weeks, there will be a severe shortage of rice.
+
+It is the responsibility of the government to prepare a long -term program to resolve the issue.. K. Semasinghe noted.
+
+"We have to see a long -term solution. If not, we can go back to this crisis again. To suppress this crisis, the rice marketing board must prepare a formal plan, and the government should soon import rice from abroad as a short -term solution. If not, there will be a severe shortage of rice in the market. Remble
+
+◼️
+
+[Data](articles/502d7362.json)
+
+[Extended Data](ext_articles/502d7362.ext.json)
+
+---
+
+### Investigations on e-Passport
+
+*2024-12-04 09:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-பாஸ்போர்ட்-விதம்-தொடர்பில்-விசாரணைகள்-முன்னெடுப்பு/175-348217) · `ta`
+
+National Procurement Committee investigates e-Passport price. Court grants one-week delay for inquiry update. Defendant companies seek removal of interim passport purchase ban. Hearing rescheduled for January 23.
+
+🟩
+
+The Attorney General has informed the Court of Appeal that the National Procurement Committee is conducting inquiries into the price of the Department of Immigration and Emigration for the Department of Immigration and Emigration during the previous government.
+
+The announcement was made by the Additional Solicitor General of the Attorney General, who appeared on behalf of the Attorney General, when a petition filed by the Epic Lanka Private Company was summoned yesterday (03).
+
+The Additional Solicitor General said that the committee had asked for a week's time to submit surveillance on the investigation.
+
+Accordingly, he requested the court to receive a date to announce the progress of these actions.
+
+President's Attorney K. Kanakeeswaran, who represented defendant companies to consider the request of their customers to remove the interim order issued by the court to prevent the purchase of passports. "
+
+Accordingly, the court adjourned the hearing on January 23.
+
+◼️
+
+[Data](articles/267a2a81.json)
+
+[Extended Data](ext_articles/267a2a81.ext.json)
+
+---
+
+### A/L Examination Today Re -Start
 
 *2024-12-04 08:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-இன்று-மீண்டும்-ஆரம்பம்/175-348216) · `ta`
 
-சீரற்ற வானிலை காரணமாக ஒத்திவைக்கப்பட்ட கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சையின் இரண்டாம் கட்டப் பரீட்சை இன்று (04) மீண்டும் ஆரம்பமாகியுள்ளது.
+GCE A/L exam resumes today after weather delay. Postponed 6 days from Nov 27. Runs till Dec 20, then Dec 21-31.
 
-நவம்பர் 27ஆம் திகதி முதல் 06 நாட்களுக்கு ஒத்திவைக்க பரீட்சை திணைக்களம் நடவடிக்கை எடுத்திருந்தது.
+🟩
 
-பரீட்சை அட்டவணையில் குறிப்பிடப்பட்டுள்ளவாறு இன்று முதல் பரீட்சை நடவடிக்கைகள் இடம்பெறும் என பரீட்சைகள் ஆணையாளர் நாயகம்  அமித் ஜயசுந்தர குறிப்பிட்டுள்ளார்.
+The second phase of the GCE Advanced Level Examination, which was postponed due to inclement weather, has resumed today (04).
 
-அதன்படி, முன்னதாக வெளியிடப்பட்ட அட்டவணைப்படி இன்று முதல் டிசம்பர் 20 ஆம் திகதி வரை பரீட்சை நடைபெறும்.
+The Department of Examinations has taken steps to postpone the 6 days from November 27.
 
-பரீட்சை இடம்பெறாத தினங்களுக்கு டிசம்பர் 21 முதல் டிசம்பர் 31 வரை பரீட்சை நடைபெறும் என்றும் பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார். R
+The Commissioner General of Examinations Amit Jayasundara said that the examinations will be held from today as mentioned in the examination table.
+
+Accordingly, the exam will be held from today to December 20th.
+
+The exam will be held from December 21 to December 31, the Commissioner General of Examination Amit Jayasundara said that the exams are not held.. Remble
 
 ◼️
 
 [Data](articles/9ba4183a.json)
+
+[Extended Data](ext_articles/9ba4183a.ext.json)
 
 ---
 
@@ -67,6 +123,8 @@ The main opposition Democratic Party called for Yoon, who has been in office sin
 ...
 
 [Data](articles/4722e6b8.json)
+
+[Extended Data](ext_articles/4722e6b8.ext.json)
 
 ---
 
@@ -2367,59 +2425,5 @@ Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minis
 [Data](articles/ed825c9c.json)
 
 [Extended Data](ext_articles/ed825c9c.ext.json)
-
----
-
-### The railway employees killed in train accident
-
-*2024-12-03 15:37:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයෙක්-දුම්රියක-ගැටී-මරුට/11-413424) · `si`
-
-Sri Lal Premaratne (58), a railway worker, died after colliding with a locomotive at Kandy Railway Station.
-
-🟩
-
-An employee of the Railway Station at Kandy Railway Station
-
-The deceased has been identified as Sri Lal Premaratne (58) serving as a worker in the Railway Road.
-
-He had collided with a locomotive of the road to another railway train while he was train to another railway train while he was trained in the railway station at the railway station.Have died.
-
-◼️
-
-[Data](articles/765de10a.json)
-
-[Extended Data](ext_articles/765de10a.ext.json)
-
----
-
-### 23 Indian fishermen released conditional
-
-*2024-12-03 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200320) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-23 Indian fishermen arrested for fishing in Neduntivu Sea. Released on bail after paying fines & serving sentences. Three face additional 6-month imprisonment if fines unpaid.
-
-🟩
-
-23 Indian fishermen arrested. The Kayts Magistrate's Court has been released today (03).
-
-On November 10, 23 Indian fishermen arrested by the Navy have been released on conditions on charges of fishing in the Neduntivu Sea on the 10th of November.
-
-These 23 people today (03) Jaffna. In the presence of Magistrate Nalina Subhaskaran, the prison officials were produced before the Kayts Magistrate's Court.
-
-The magistrate, who examined the case, sentenced the Indian fishermen to 2 years in prison for six years.
-
-He also paid a fine of Rs 4 million each, as 3 of these 23 were sailboats and ordered them to be further sentenced to 6 months in prison.
-
-Failure to pay the fine should be sentenced to 6 months in prison for 3 months in prison.
-
-◼️
-
-[Data](articles/381ce708.json)
-
-[Extended Data](ext_articles/381ce708.ext.json)
 
 ---

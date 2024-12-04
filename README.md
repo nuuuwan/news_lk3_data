@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 23:43:03**
+As of **2024-12-05 00:02:39**
 
 ## Newspaper Stats
 
-*Scraped **58,498** Articles*
+*Scraped **58,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 5,544
 adaderanalk | 7,105
 tamilmirrorlk | 8,327
 virakesarilk | 9,573
-adaderanasinhalalk | 10,107
+adaderanasinhalalk | 10,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,492 (100.0%) of 58,498 articles have been extended.
+58,496 (100.0%) of 58,499 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,24 @@ According to police reports, 244 commemoration events were held in the north, wi
 [Data](articles/46c278d9.json)
 
 [Extended Data](ext_articles/46c278d9.ext.json)
+
+---
+
+### ITAK මන්ත්‍රීවරු ජනපතිගෙන් කළ ඉල්ලීම සානක්කියන් හෙළිකරයි
+
+*2024-12-04 22:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204047) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ඉලංගෙයි තමිල් අරසු කච්චි (ITAK) පාර්ලිමේන්තු මන්ත්‍රීවරුන් අතර අද (04) සාකච්ඡාවක් පැවැත්වුණි.
+
+ඉන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ පාර්ලිමේන්තු මන්ත්‍රී සානක්කියන් රාසමාණික්කම් මහතා සඳහන් කළේ, බලය බෙදීම  ඇතුළු කරුණු රැසක් පිළිබඳව සාකච්ඡා කළ බවය.
+
+"අපේ සාකච්ඡාවේදී ඉදිරි අනාගතයේදී අලුත් ව්‍යවස්ථාවක් තුළින් දේශපාලන විසඳුමක් සම්බන්ධව, බලය බෙදීම පිළිබඳව, වගේම අතුරුදන් වූවන් පිළිබඳව, ඉඩම් ආරවුල් සම්බන්ධව, හමුදා කඳවුරුවලින් ඉඩම් අත්පත් කරගෙන තිබීම ගැන සාකච්ඡා කළා.
+
+ඒ වගේම දෙමළ ජාතික සන්ධානයේ දේශපාලන ස්ථාවරය කොහොමද කියන එක සාකච්ඡා කළා. උතුරේ සහ නැගෙනහිර උපරිම බලය බෙදීම පිළිබඳව අපි ඉල්ලීම් කරලා තියෙනවා.
+
+...
+
+[Data](articles/c206c563.json)
 
 ---
 
@@ -364,6 +382,8 @@ Out of the total 8,361 candidates, around 24 percent or 1,985 have submitted the
 
 [Data](articles/06ccb542.json)
 
+[Extended Data](ext_articles/06ccb542.ext.json)
+
 ---
 
 ### Meeting between President and TNA MPs
@@ -497,6 +517,8 @@ The policy statement also covered the key changes the government wants to introd
 ◼️
 
 [Data](articles/ea6df0c7.json)
+
+[Extended Data](ext_articles/ea6df0c7.ext.json)
 
 ---
 
@@ -700,6 +722,8 @@ During the meeting Iyer affirmed that all ongoing World Bank-backed projects in 
 
 [Data](articles/5974e0dd.json)
 
+[Extended Data](ext_articles/5974e0dd.ext.json)
+
 ---
 
 ### W.M. Mendis & Company's license suspension
@@ -769,6 +793,8 @@ The ruling NPP has been continuing most of the IMF-led economic reforms despite 
 ...
 
 [Data](articles/59fbe0df.json)
+
+[Extended Data](ext_articles/59fbe0df.ext.json)
 
 ---
 
@@ -2523,29 +2549,5 @@ Minister of Justice, Minister of Justice, Minister Harshana Nanayakkara told Par
 [Data](articles/e3b1942d.json)
 
 [Extended Data](ext_articles/e3b1942d.ext.json)
-
----
-
-### The couple's neck was cut and murdered in Ahangama;Suspect arrested
-
-*2024-12-04 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200382) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Couple murdered in Ahangama. Suspect arrested in Colombo. Investigation ongoing.
-
-🟩
-
-Ahangama police said that a suspect was arrested on Tuesday (03) in connection with the murder of a couple in a house in the Welhenkoda area of ​​the Ahangama police division.
-
-The suspect has been arrested in Colombo, Fort, during an investigation into the murder.
-
-◼️
-
-[Data](articles/2e0556aa.json)
-
-[Extended Data](ext_articles/2e0556aa.ext.json)
 
 ---

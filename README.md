@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 01:11:53**
+As of **2024-12-05 01:42:54**
 
 ## Newspaper Stats
 
-*Scraped **58,507** Articles*
+*Scraped **58,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 592
 bbccomsinhala | 611
 islandlk | 3,506
 economynextcom | 3,558
-dailyftlk | 4,041
+dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
@@ -26,11 +26,113 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,501 (100.0%) of 58,507 articles have been extended.
+58,503 (100.0%) of 58,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### Hirunika withdraws statement made in respect of Magistrate Court proceedings against Hardy Jamaldeen
+
+*2024-12-05 01:34:13* · [`dailyftlk`](https://www.ft.lk/news/Hirunika-withdraws-statement-made-in-respect-of-Magistrate-Court-proceedings-against-Hardy-Jamaldeen/56-770127) · `en`
+
+Court of Appeal advises accused on future statements and discharges her from Contemptproceedings
+
+The Court of Appeal, on 11 September, ordered former Member of Parliament Hirunika Premachandra to appear in person before the Court of Appeal yesterday for an inquiry into a Contempt of Court application filed against her by young business leader Hardy Jamaldeen.
+
+In the application, Jamaldeen claimed that Premachandra committed the offence of Contempt of Court by criticising an order issued by the Mount Lavinia Magistrate’s Court concerning him during a press conference held on International Women’s Day. He further alleged that her actions amounted to interference with the due administration of justice.
+
+...
+
+[Data](articles/e2866558.json)
+
+---
+
+### Rice millers agree to supply at controlled price: Trade Minister
+
+*2024-12-05 01:30:05* · [`dailyftlk`](https://www.ft.lk/news/Rice-millers-agree-to-supply-at-controlled-price-Trade-Minister/56-770126) · `en`
+
+Rice millers agreed to supply 200,000 kilograms of rice daily to the market through ‘Lanka Sathosa’ at a controlled price of Rs. 220 per kilo, effective from yesterday.
+
+The move was confirmed by Trade Minister Wasantha Samarasinghe during the Parliament session yesterday.
+
+“During the recent discussion with rice mill owners, they claimed that the rice stocks in the mills cannot be released to the market due to an issue with the banks. On Tuesday, we provided them with a solution for that issue,” he added.
+
+The Trade Minister also assured that 1 million coconuts will be sold through Sathosa outlets in the suburbs at a price of Rs. 130 per coconut, over the next two weeks.
+
+Samarasinghe added that coconut products obtained from State-owned plantations will be sold at low prices in this manner.
+
+◼️
+
+[Data](articles/cce2b901.json)
+
+---
+
+### Jaffna youth and Colombo political activist released on bail over Maveerar Naal SM posts
+
+*2024-12-05 01:27:28* · [`dailyftlk`](https://www.ft.lk/news/Jaffna-youth-and-Colombo-political-activist-released-on-bail-over-Maveerar-Naal-SM-posts/56-770125) · `en`
+
+The Jaffna Magistrate’s Court yesterday granted bail to a suspect arrested under the Prevention of Terrorism Act (PTA) for posting a photograph of Liberation Tigers of Tamil Eelam (LTTE) leader late Velupillai Prabhakaran on a social media platform to coincide with Maveerar Naal commemorations.
+
+The youth, identified as Manoharan Kajendraroopan, a resident of Inuvil West, Chunnakam, was apprehended by the Police Terrorism Investigation Division (TID) and had been in remand custody for 72 hours before being presented to Magistrate A.A. Anandaraja. Represented by lawyer Kanagaratnam Sugash, he was granted bail with a foreign travel ban and a bail amount set at Rs. 200,000.
+
+...
+
+[Data](articles/69c7c244.json)
+
+---
+
+### CoA upholds citizens’ right to scrutinise public expenditure under RTI
+
+*2024-12-05 01:26:35* · [`dailyftlk`](https://www.ft.lk/news/CoA-upholds-citizens-right-to-scrutinise-public-expenditure-under-RTI/56-770124) · `en`
+
+Court orders People’s Bank to disclose funds donated by its Anuradhapura Regional Branch Buddhist Society for the 2022 Poson Poya Charity and Bathi Gee Festival
+
+Says Buddhist Society is part of People’s Bank and not an independent entity, making records subject to RTI scrutiny
+
+Notes public funds must be made available for examination by citizens in the interest of transparency
+
+The Court of Appeal (CoA) this week ruled that the scope of the Right to Information (RTI) Act must be expanded to ensure accountability for any expenditure by a public authority, affirming that such information should be made available for public inspection upon request.
+
+The ruling was delivered in response to an appeal by People’s Bank, which contested a decision by the Right to Information Commission to disclose details of funds donated by the Anuradhapura Regional Branch Buddhist Society of the People’s Bank for the 2022 Poson Poya Charity and Poson Bathi Gee Festival.
+
+...
+
+[Data](articles/36a4d925.json)
+
+---
+
+### W.M. Mendis’ liquor licence to be suspended today over Rs. 5 b tax arrears
+
+*2024-12-05 01:25:28* · [`dailyftlk`](https://www.ft.lk/news/W-M-Mendis-liquor-licence-to-be-suspended-today-over-Rs-5-b-tax-arrears/56-770123) · `en`
+
+The Department of Excise will suspend the liquor manufacturing licence of W.M. Mendis & Co. Ltd., effective today (5), due to the company’s failure to settle excise taxes and surcharges amounting to Rs. 5.7 billion.
+
+The Commissioner General of Excise announced the decision under provisions of the Excise Ordinance Act, citing the company’s prolonged tax default.
+
+In addition to halting the company’s liquor production, the department said that other licences issued to W.M. Mendis & Co. will not be renewed beyond 31 December unless the tax arrears are cleared. Currently, eight out of the 10 liquor manufacturing licences issued to the company have already been suspended. The issue came to light during proceedings at the Court of Appeal yesterday.
+
+...
+
+[Data](articles/3664f681.json)
+
+---
+
+### Sri Lanka – Korea Business Council holds 29th Annual General Meeting
+
+*2024-12-05 01:03:51* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Korea-Business-Council-holds-29th-Annual-General-Meeting/34-770117) · `en`
+
+Seated (from left): Yashodha Fernando (The Ceylon Chamber of Commerce), SLKBC Vice President Shamil Mendis, Korean Ambassador Miyon Lee, SLKBC President Asitha Martis, K. Kunendran (Abans)
+
+Standing (from left): SLKBC Immediate Past President Priyantha Mendis, Vidura Palihakkara (Senok Trade Combine), SLKBC Vice President Rohitha Mendis, Korean Embassy Deputy Head of Mission Jung Sohngyee, SLKBC Treasurer Patali Karunarathne, Korean Resident Association President Byun Sung Chul, Mahesh Pasqual (Isuru Engineering), Gayan Maddumarachchi (MAC Holdings), and Sylvester Jayasundera (Transmarine)
+
+The Sri Lanka – Korea Business Council of The Ceylon Chamber of Commerce (SLKBC) recently held its 29th Annual General Meeting at The Ceylon Chamber of Commerce, with Ambassador of the Republic of Korea to Sri Lanka Miyon Lee participating in the occasion as Chief Guest.
+
+...
+
+[Data](articles/620699ad.json)
+
+---
 
 ### Sri Lanka-Russia Business Council holds 21st  Annual General Meeting
 
@@ -48,6 +150,8 @@ The keynote speaker, Export Development Board Chairman and Chief Executive Offic
 
 [Data](articles/d8123802.json)
 
+[Extended Data](ext_articles/d8123802.ext.json)
+
 ---
 
 ### Compounding of capital market offences: Call for balanced regulation
@@ -63,6 +167,8 @@ To settle (a matter) by a money payment, in lieu of other liability;
 ...
 
 [Data](articles/bc9b7afb.json)
+
+[Extended Data](ext_articles/bc9b7afb.ext.json)
 
 ---
 
@@ -2341,161 +2447,5 @@ The US dollar purchasing price was 286.1920 rupees and the sales price were 294.
 [Data](articles/f1630da6.json)
 
 [Extended Data](ext_articles/f1630da6.ext.json)
-
----
-
-### Chola is a world record for creating the president's image
-
-*2024-12-04 13:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-உருவத்தை-உருவாக்கி-சோழன்-உலக-சாதனை/175-348234) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Youngster breaks world record: 11-year-old Sansul Sehansha Lakmal creates massive 91-inch tall, 68-inch wide portrait of President Anura Kumara Dissanayake using 1200 Rubik's cubes in 3 hours, 13 minutes, and 7 seconds. Event organized by Cholan Book of World Records and People's Helping People Foundation.
-
-🟩
-
-Sansul Sehansha Lakmal, an 11 -year -old boy, has made a world record by creating a massive portrait of President Anura Kumara Dissanayake, a 91 -inch high and 68 -inch wide, using 1,200 Rubix cubes.
-
-He made this record in 3 hours, 13 minutes and 7 seconds in the world record.
-
-The event was organized yesterday by the Cholan Book of World Records and People's Helping People Foundation.
-
-The achievement was held in the presence of Brigadier Maha Dwakar, Commander of the Camp at Ranaviru Dress Swimming in Yakkala, and Deputy Commander Brigadier Vasage.
-
-Cholan World Records General Secretary, Indranath Perera, Vice President Sri Nagavani Raja, Director of Steps, Francis Jesudasan, Chairman of the Cholan Book of World RecordsMonitored.
-
-To recognize the record of Sansulin, the trophy was awarded to the organizers and the military officials, with the certificate, the gold medal, the memorial shield and the identity card.
-
-◼️
-
-[Data](articles/808cb3fb.json)
-
-[Extended Data](ext_articles/808cb3fb.ext.json)
-
----
-
-### Colpetty raided a famous casino
-
-*2024-12-04 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204026) · `si`
-
-Casino raid yields 100+ bottles of liquor worth 25 lakhs. Free alcohol served across floors violates single-counter license, causing tax loss.
-
-🟩
-
-A well-known casino in Kollupitiya has been raided by the Officers of the Excise Department.
-
-The raid was carried out according to information received by the Commissioner General of Excise.
-
-There were 100 bottles of foreign liquor, which was worth over 25 lakhs.
-
-Alcohol provides free alcohol to attend members from the counters of every floor of the five-storey casino.
-
-However, the liquor license issued to the site is only one liquor counter, the Excise Department said.
-
-Accordingly, the country has caused great tax damage.
-
-The raid was conducted by the Head Office Officers and other officials, including the Colombo City Office on the instructions of the Commissioner General of Excise.
-
-◼️
-
-[Data](articles/3c347adc.json)
-
-[Extended Data](ext_articles/3c347adc.ext.json)
-
----
-
-### Hacking the website of the Department of Meteorology
-
-*2024-12-04 12:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-இணையத்தளம்-ஹேக்/175-348230) · `ta`
-
-Department of Meteorology website hacked twice. Authorities working to restore site and prevent future attacks. Incident occurred November 1, 2024.
-
-🟩
-
-The official website of the Department of Meteorology has been hacked for the second time in the short term.
-
-According to the authorities, efforts are currently underway to restore the website and protect its operation.
-
-It is noteworthy that the incident took place on November 1, 2024 after a similar hack.
-
-◼️
-
-[Data](articles/40e16372.json)
-
-[Extended Data](ext_articles/40e16372.ext.json)
-
----
-
-### Plan to submit three Bills; Justice Minister
-
-*2024-12-04 12:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-சட்டமூலங்களை-சமர்ப்பிக்க-திட்டம்-நீதியமைச்சர்/175-348229) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Government plans 3 bills: anti-money laundering, drug trafficking prevention, asset recovery. Justice Minister Harshana Nanayakkara aims to submit these laws in Q1 2024."
-
-🟩
-
-Justice Minister Harshana Nanayakkara said that the government is planning to submit three bills in Parliament within the first quarter of next year to prevent stolen assets, money laundering, drug trafficking and related crimes.
-
-The Minister said this while addressing the debate on the government's policy statement submitted by the President.
-
-He said he had the idea of ​​introducing three bills of stolen assets, money laundering, drug trafficking and all relevant crimes effectively.
-
-The Minister said that the bankruptcy law and the censorship law would improve the confidence of the lender and protect the creditors' rights, the minister said.
-
-◼️
-
-[Data](articles/a1074b6d.json)
-
-[Extended Data](ext_articles/a1074b6d.ext.json)
-
----
-
-### Ministry of Defense limits civilian firearm issuance to one per individual
-
-*2024-12-04 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103985/ministry-of-defense-limits-civilian-firearm-issuance-to-one-per-individual-) · `en`
-
-The Ministry of Defense has announced a new policy limiting the issuance of firearms for self-defence to only one per individual.
-
-This decision follows a comprehensive survey conducted to assess the distribution and usage of firearms among civilians, the Defence Ministry said.
-
-The Ministry clarified that exceptions to the one-firearm rule will be considered only after a thorough security analysis. However, the final decision in such cases will rest with the Ministry of Defense, according to the ministry.
-
-Current surveys on firearms issued to firearms are ongoing at the Defence Ministry premises. Preliminary findings have revealed that over 1,500 firearms have been issued to civilians, with some individuals possessing more than one weapon.
-
-On October 04, the Ministry of Defence had announced that all firearms and ammunition provided to civilians for self-defence will be acquired by the government and that they must be handed over to the relevant authorities before 07 November.
-
-...
-
-[Data](articles/fa13c2fd.json)
-
-[Extended Data](ext_articles/fa13c2fd.ext.json)
-
----
-
-### Sri Lanka goods exports rise 18.22-pct in October 2024, apparels, tea, rubber, coconut up
-
-*2024-12-04 12:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-rise-18-22-pct-in-october-2024-apparels-tea-rubber-coconut-up-122870/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s goods exports grew 18.22 percent from a year ago to 1.09 billion dollars in October 2024, the island’s export promotion office said, helped by a spike in exports of apparel and textiles, tea, rubber based products, coconut based products, and spics and concentrates.
-
-Apparel and textiles rose 21.77 percent from last year to 430.21 million dollars in October 2024. Exports to the USA and UK increased 23.28 percent and 23.26 percent respectively from last October, Sri Lanka’s Export Development Board said.
-
-During the ten months to October exports rose 7.04 percent to 10.6 billion dollars.
-
-In the month of October, tea grew 32.6 percent to 126.81 million dollars, rubber products grew 6.26 percent to 84.69 million, and coconut products grew 29.27 to 77.16 million.
-
-Export earnings from seafood decreased by 16.46 percent to 19.95 million dollars, with poor performance in frozen fish and shrimps.
-
-...
-
-[Data](articles/5b7249e6.json)
-
-[Extended Data](ext_articles/5b7249e6.ext.json)
 
 ---

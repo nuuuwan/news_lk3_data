@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 12:02:25**
+As of **2024-12-04 12:18:30**
 
 ## Newspaper Stats
 
@@ -240,7 +240,11 @@ Social activist Kelum Jayasumana who was arrested for sharing Mahaviru commemora
 
 He has been ordered to be released on bail after he was produced before Colombo Magistrate’s Court, Ada Derana reporter said.
 
-◼️
+During the trial, the officers of the Criminal Investigation Department (CID) stated before the court that the suspect had downloaded and reposted a picture which was initially posted by a French woman on Facebook that contained the proscribed symbols of the LTTE organization.
+
+Stating that this had disrupted public order and ethnic harmony, the officers also stated that no such event had been held in the North. Since the investigation has not been completed, the officers of the CID requested that the suspect be further remanded in custody.
+
+...
 
 [Data](articles/9db9e622.json)
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 22:17:55**
+As of **2024-12-04 22:42:01**
 
 ## Newspaper Stats
 
-*Scraped **58,479** Articles*
+*Scraped **58,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,118 @@ dailymirrorlk | 4,733
 adalk | 5,543
 adaderanalk | 7,103
 tamilmirrorlk | 8,325
-virakesarilk | 9,568
-adaderanasinhalalk | 10,104
+virakesarilk | 9,573
+adaderanasinhalalk | 10,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,479 (100.0%) of 58,479 articles have been extended.
+58,481 (100.0%) of 58,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### An appeal of Rashad
+
+*2024-12-04 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204046) · `si`
+
+Rashad appeals to Taliban leaders about women's rights and education. He emphasizes maintaining Islamic teachings while stressing women's knowledge importance. This aligns with his previous stance against restrictions on women's education and healthcare.
+
+🟩
+
+Afghanistan's super cricketer Rashid, Rashid, has requested the Taliban of Afghanistan.
+
+Taliban leader HiSathunda issued a decree to prohibit medical training and semi-vocational training to obtain semi-vocational training last Monday.
+
+Ruad has made this request through his 'X' account, responding to his order.
+
+The Taliban Organizing the power of Afghanistan in 2021, heavy restrictions to women.
+
+It was the key to the public and banning sports.
+
+However, the Afghanistan women have no ban to do medical training so far.
+
+It was the last option left for women to have higher education.
+
+The Taliban government banned schools in 2022, and after the 6th grade, girls had banned secondary education.
+
+The Taliban has also prohibited women from Afghanistan, and to receive treatment from men's medical professionals.
+
+According to the Human Rights Watch, the Organization of Human Rights Watch also points out that women's health workers are scarce with this new order.
+
+...
+
+[Data](articles/b7ba1100.json)
+
+[Extended Data](ext_articles/b7ba1100.ext.json)
+
+---
+
+### If you have a money laundering fraud using the name of the PA and the name of Namal Rajapaksa - Make a complaint with the police - Geetanath Kasilingam
+
+*2024-12-04 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200450) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+PA member Geetanath Kasilingam warns against money laundering fraud using party name and Namal Rajapaksa's name. He advises victims to file police complaints. Kasilingam denies false claims about Namal Rajapaksa's gold business involvement.
+
+🟩
+
+Jaffna District Organizer Geetanath Kasalingam, the organizer of the PA, said that if the name of the PA and Namal Rajapaksa's name, Namal Rajapaksa's name is carried out in Jaffna, to make complaints at himself or police stations.
+
+In the past, we have received information that some people have been involved in the use of Namal Rajapaksa's name and the party's name in the past, using land issues, money laundering, fraudulently involved in sending abroad, and constructing panchayat.
+
+We went to the homes of the victims in this regard and we were investigating. A complaint has been lodged with the Manipay Police Station regarding such a home.
+
+You, as a people who are using the party's name, must file a complaint at the police station. If you are afraid of something like that, you can contact us.
+
+We have started engaging in full -time politics in Jaffna. I think such activities have been the cause of our party's failure in the past. It is my duty to eliminate such allegations.
+
+...
+
+[Data](articles/161b4b68.json)
+
+[Extended Data](ext_articles/161b4b68.ext.json)
+
+---
+
+### Clean Sri Lanka වැඩසටහනට ලෝක බැංකුවේ සහාය
+
+*2024-12-04 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204045) · `si`
+
+රජයේ Clean Sri Lanka වැඩසටහනට ලෝක බැංකුවේ සහාය ලබාදෙන බව ලෝක බැංකුවේ විධායක අධ්‍යක්ෂ Parameswaran Iyer මහතා පවසයි.
+
+ලෝක බැංකුවේ විධායක අධ්‍යක්ෂවරයා මේ බව සඳහන් කළේ ජනාධිපති අනුර කුමාර දිසානායක මහතාව අද (04) ජනාධිපති කාර්යාලයේදී හමුවූ අවස්ථාවේදීය.
+
+ජනපති ප්‍රමුඛ නව රජයට සුබපැතුම් එක් කළ ලෝක බැංකු විධායක අධ්‍යක්ෂවරයා, දැනට ලෝක බැංකුවේ සහාය ලබාදෙන සියලුම ව්‍යාපෘති ඉදිරියටත් එලෙසින්ම ක්‍රියාත්මක කරන බව පවසා තිබේ.
+
+එසේම නව රජයේ ඉදිරි සංවර්ධන සැලසුම් මෙන්ම, ග්‍රාමීය දුප්පත්කම පිටුදැකීම සඳහා වන සැලසුම්, ආර්ථික ඩිජිටල්කරණ වැඩසටහනට සමගාමීව ක්‍රියාත්මක ඩිජිටල් හැඳුනුම්පත් ව්‍යාපෘතිය ආදී ව්‍යාපෘති හා සැලසුම් පිළිබඳව ද ජනාධිපතිවරයා මෙහිදී දීර්ඝ ලෙස කරුණු සාකච්ඡා කර තිබේ.
+
+වතුකරයේ ජනතාවගේ ඉඩම් හා නිවාස ගැටලුව ඇතුළු උතුරු සහ නැගෙනහිර ජනතාව දීර්ඝ කාලයක් පුරා මුහුණදී සිටින ගැටලුවලට  විසඳුම් සෙවීම පිළිබඳව ද මෙහිදී දීර්ඝ ලෙස කතාබහට ලක්වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+...
+
+[Data](articles/140f0962.json)
+
+---
+
+### උතුරේ මහවිරු සැමරුම් 244ක් පවත්වා ඇති බවට තොරතුරු
+
+*2024-12-04 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204044) · `si`
+
+උතුරේ පැවැත්වූ මහවිරු සැමරුම් 244ක් අතුරින් 10ක LTTE සංකේත ප්‍රදර්ශනය කර ඇති බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා අද (04) පාර්ලිමේන්තුවේදී ප්‍රකාශ කළේය.
+
+"පසුගිය නොවැම්බර් 21ත් 27ත් මහවිරු සතිය තුළ උතුරේ සැමරුම් උත්සව 244ක් සිදුකළ බවට පොලීසිය වාර්තා කර තිබුණා. ඉන් 10ක පමණක් යම් යම් LTTE සංකේත ප්‍රදර්ශනය කර තිබුණා. මේ සම්බන්ධයෙන් පොලීසිය නීතිය ක්‍රියාත්මක කර තිබෙනවා."
+
+◼️
+
+[Data](articles/0d904fc0.json)
+
+---
 
 ### CEO of UnitedHealthcare fatally shot in New York City
 
@@ -58,6 +158,40 @@ Thompson was named chief executive of UnitedHealthcare in April 2021. He earned 
 
 ---
 
+### பெருந்தோட்டம் மற்றும் சமூக உட்கட்டமைப்பு அமைச்சின் கீழ் இயங்கும் நிறுவனங்களை மீளாய்வு செய்வதற்கான கலந்துரையாடல்
+
+*2024-12-04 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200449) · `ta`
+
+பெருந்தோட்டம் மற்றும் சமூக உட்கட்டமைப்பு அமைச்சின் கீழ் இயங்கும் நிறுவனங்களுடன் அவற்றின் தற்போதைய நிலையை மீளாய்வு செய்வதற்கான கலந்துரையாடல் செவ்வாய்க்கிழமை (03) அமைச்சின் அலுவலகதில் இடம்பெற்றிருந்தது.
+
+இதன் போது, தேசிய பொருளாதாரத்திற்கு மேலும் குறிப்பிடத்தக்க பங்களிப்பை வழங்குவதற்கு இந்த நிறுவனங்களின் செயல்திறனை மேம்படுத்துதல், திறமையான பொது சேவையின் மூலம் பொதுமக்களின் எதிர்பார்ப்புகளை நிறைவேற்றுதல் மற்றும் வரவு செலவுத் திட்டங்கள் போன்ற விடயங்களை நிவர்த்தி செய்தல் ஆகியவை கலந்துரையாடலின் மையமாக இருந்தது.
+
+இக்கலந்துரையாடலில் அமைச்சர் K.V சமந்த விதயாரத்ன, பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் அமைச்சின் செயலாளர் மற்றும் பின்வரும் நிறுவனங்களின் பிரதிநிதிகள் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/6ce13c1e.json)
+
+---
+
+### ஜனாதிபதி மற்றும் உலக வங்கியின் நிறைவேற்று பணிப்பாளருக்கு இடையில் சந்திப்பு
+
+*2024-12-04 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200448) · `ta`
+
+அரசாங்கத்தின் Clean Sri Lanka வேலைத்திட்டத்திற்கு உலக வங்கியின் உதவிகள் வழங்கப்படுமென உலக வங்கியின் நிறைவேற்றுப் பணிப்பாளர் பரமேஷ்வரன் ஐயர் (Parameswaran Iyer) தெரிவித்தார்.
+
+உலக வங்கியின் நிறைவேற்று பணிப்பாளர் புதன்கிழமை (04) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்து கலந்துரையாடியபோதே இதனைத் தெரிவித்தார்.
+
+ஜனாதிபதி தலைமையிலான புதிய அரசாங்கத்துக்கு வாழ்த்து தெரிவித்த உலக வங்கியின் நிறைவேற்றுப் பணிப்பாளர், உலக வங்கியின் ஒத்துழைப்புடன் முன்னெடுக்கப்படும் அனைத்துத் திட்டங்களும் எதிர்காலத்திலும் அவ்வண்ணமே முன்னெடுக்கப்படும் என்றும் உறுதியளித்தார்.
+
+அதேபோல் புதிய அரசாங்கத்தின் அபிவிருத்தி திட்டம், கிராமிய வறுமையை ஒழித்தலுக்கான திட்டங்கள், பொருளாதார டிஜிட்டல் மயமாக்கல் வேலைத்திட்டத்துக்கு இணையான டிஜிட்டல் அடையாள அட்டை வழங்குவதற்கான வேலைத்திட்டம் என்பன குறித்தும் ஜனாதிபதி நீண்ட கலந்துரையாடலில் ஈடுபட்டார்.
+
+...
+
+[Data](articles/d2064e4c.json)
+
+---
+
 ### President Dissanayake engages in discussion with ITAK MPs
 
 *2024-12-04 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104000/president-dissanayake-engages-in-discussion-with-itak-mps) · `en`
@@ -73,6 +207,22 @@ Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmugam Ku
 [Data](articles/9218dd70.json)
 
 [Extended Data](ext_articles/9218dd70.ext.json)
+
+---
+
+### ஜனாதிபதிக்கும் தமிழரசுக் கட்சி பாராளுமன்ற உறுப்பினர்களுக்கும் இடையான சந்திப்பு
+
+*2024-12-04 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200447) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் இலங்கை தமிழரசுக் கட்சி (ITAK) பாராளுமன்ற உறுப்பினர்களுக்கு இடையிலான சந்திப்பு புதன்கிழமை (04) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+இதன்போது இலங்கை தமிழரசுக் கட்சி உறுப்பினர்கள் நீண்ட காலமாக வடக்கு மற்றும் கிழக்கு மக்கள் முகம்கொடுத்து வரும் பிரச்சினைகள் குறித்து ஜனாதிபதியிடம் விளக்கமளித்தனர்.
+
+சாணக்கியன் ராசமாணிக்கம், சிவஞானம் சிறீதரன், பத்மநாதன் சத்தியலிங்கம், சண்முகநாதன் குகதாசன், ஞானமுத்து ஸ்ரீநேசன்,கவீந்திரன் கோடீஸ்வரன், இளயதம்பி சிறிநாத்,துரைராசா ரவிகரன் ஆகியோர் இதன்போது கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/8adc9996.json)
 
 ---
 
@@ -103,6 +253,26 @@ He added that 172 of the liquor have been given the liquor retail (wine Stose) o
 [Data](articles/f28b4263.json)
 
 [Extended Data](ext_articles/f28b4263.ext.json)
+
+---
+
+### 19 வயதுக்குட்பட்ட ஆசிய கிண்ண கிரிக்கெட்: ஏ குழுவில் இந்தியா, பாகிஸ்தான் அணிகளுக்கு இலகுவான வெற்றி
+
+*2024-12-04 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200446) · `ta`
+
+ஐக்கிய அரபு இராச்சியத்தில் நடைபெற்றுவரும் 19 வயதுக்குட்பட்ட ஆசிய கிண்ண கிரிக்கெட்டின் இரண்டாவது அரை இறுதிப் போட்டியில் இலங்கை - இந்திய அணிகள் விளையாடவுள்ளன. முதலாவது அரை இறுதிப் போட்டியில் பாகிஸ்தானை பங்களாதேஷ் எதிர்த்தாடும்.
+
+இன்று நடைபெற்ற ஏ குழுவுக்கான கடைசி இரண்டு போட்டிகளில் பாகிஸ்தானும் இந்தியாவும் வெற்றிபெற்றதை அடுத்து அரை இறுதிப் போட்டிகளில் எந்தெந்த  அணிகளை   எந்தெந்த  அணிகள்   எதிர்த்தாடும் என்பது தீர்மானிக்கப்பட்டது.
+
+எட்டு அணிகள் பங்குபற்றிய 19 வயதுக்குட்பட்ட ஆசியக் கிண்ண கிரிக்கெட் போட்டியில் பி குழுவில் இடம்பெற்ற இலங்கையும் ஏ குழுவில் இடம்பெற்ற பாகிஸ்தானும் மாத்திரமே தோல்வி அடையாத அணிகளாக அரை இறுதிகளில் விளையாட தகுதிபெற்றன.
+
+இந்த இரண்டு குழுக்களிலிருந்து முறையே பங்களாதேஷும் இந்தியாவும் தலா ஒரு தோல்வியுடன் அரை இறுதிக்கு முன்னேறின.
+
+இந்தியாவுக்கும் ஐக்கிய அரபு இராச்சியத்துக்கும் இடையில் ஷார்ஜா கிரிக்கெட் விளையாட்டரங்கில் இன்று நடைபெற்ற ஏ குழு போட்டியில் இந்தியா 10 விக்கெட்களால் இலகுவாக வெற்றிபெற்றது.
+
+...
+
+[Data](articles/fd3a1d8a.json)
 
 ---
 
@@ -2335,197 +2505,5 @@ The minister said that a political party had done such a political party in inve
 [Data](articles/9f8a7077.json)
 
 [Extended Data](ext_articles/9f8a7077.ext.json)
-
----
-
-### Sri Lanka’s Lion Brewery in talks with Diageo to license foreign brands
-
-*2024-12-04 10:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-in-talks-with-diageo-to-license-foreign-brands-191924/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Lion Brewery (Ceylon) Plc, the island’s top beer producer has initiated talks with UK-based Diageo Plc to produce international spirit brands under license, Chief Executive Rajiv Meewakkala said.
-
-Lion already has about 90 percent of the local market which is growing slowly and has also started exporting to boost the market.
-
-Expanding into spirits will open up new market for the firm.
-
-“One of the main things what we will be looking at is trying to manufacture the international brands locally, that means Vat 69, Smirnoff, all those international brands of Diageo,” Meewakkala said.
-
-“So, we have started conversations with them and it’s positive. Now we are currently looking at the feasibility and the commercial feasibility, so whatever comes out will be in 26.”
-
-Lion Brewery already license produces Guinness, a beer brand owned by Diageo. Expanding into spirits will take the firm to Gin, Brandy and Vodka segments.
-
-...
-
-[Data](articles/b8a1c149.json)
-
-[Extended Data](ext_articles/b8a1c149.ext.json)
-
----
-
-### Mill owners warn of looming rice shortage
-
-*2024-12-04 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103980/mill-owners-warn-of-looming-rice-shortage-) · `en`
-
-The All Ceylon Small and Medium Scale Mill Owners’ Association warns of a looming rice shortage if the government fails to import rice within the next two weeks.
-
-President of the Association U. K. Semasinghe emphasized the urgent need for a long-term strategy to address the recurring issue.
-
-“A systematic plan through the Paddy Marketing Board must be implemented during the’ Yala season’ to avoid future crises. Immediate steps to import rice are important as a short-term measure to mitigate the current shortage,” he stated.
-
-Semasinghe also highlighted the need for stricter regulation of rice used in beer production and animal feed, underscoring its impact on the nation’s food security.
-
-Adding to the discussion, former Director of Agriculture K. B. Gunaratne recommended replanting flood-hit paddy fields instead of merely providing compensation to affected farmers.
-
-◼️
-
-[Data](articles/6ac48a29.json)
-
-[Extended Data](ext_articles/6ac48a29.ext.json)
-
----
-
-### Arrested postman who distributed drugs
-
-*2024-12-04 10:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-விநியோகித்த-தபால்காரர்-கைது/175-348219) · `ta`
-
-Postman arrested for distributing drugs worth over 20 lakhs. Police found the illegal substance hidden in letters. A 32-year-old suspect was detained after a tip-off about suspicious activities in Borella Vanathamulla area.
-
-🟩
-
-Borella police said that the letter of the Post Office of Kottanchenai was arrested with a drug worth more than Rs 20 lakh.
-
-He was arrested on information received by the letter distributor at a post office, that he was wandering around with uniform and distributing drugs in the Borella Vanathamulla area.
-
-The suspect was arrested by a special police team and during the raid, police said that the drug was found hidden in the letter.
-
-A Senior Police Officer said that a special police team was sent on Tuesday night to carry out special raids at the arrested suspect's Kottanchena home.. The arrested suspect is 32 years old.
-
-◼️
-
-[Data](articles/83cd4666.json)
-
-[Extended Data](ext_articles/83cd4666.ext.json)
-
----
-
-### National Procurement Commission probing e-passport tender issue, court told
-
-*2024-12-04 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103979/national-procurement-commission-probing-e-passport-tender-issue-court-told) · `en`
-
-The Attorney General (AG) has informed the Court of Appeal that the National Procurement Commission of Sri Lanka is conducting an investigation into the method in which the previous government has granted the tender related to purchasing 5 million electronic passports for the Department of Immigration and Emigration.
-
-This was communicated to the court by Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of the Attorney General, when the petition filed by Epic Lanka Private Limited challenging the previous government’s decision to purchase 750,000 normal passports and 5 million e-passports from two foreign firms, was taken up on Tuesday (03).
-
-Furthermore, the Additional Solicitor General mentioned that the National Procurement Commission has requested a period of one week to submit observations related to the investigation. Therefore, he requested the court for a date to inform the progress of the relevant investigation.
-
-...
-
-[Data](articles/1ff385f6.json)
-
-[Extended Data](ext_articles/1ff385f6.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.45/65 to dollar, bonds steady
-
-*2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-125231/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were steady.
-
-An auction of Rs 192,500 million treasury bills was ongoing.
-
-A bond maturing on 15.12.2026 was quoted stable at 9.40/50 percent.
-
-A bond maturing on 15.10.2027 was quoted at 10.22/25 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.03.2028 was quoted stable at 10.50/55 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, up from 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 13,370. The more liquid S&P SL20 was up 0.22 percent, or 8.64 points, at 3,950.
-
-◼️
-
-[Data](articles/9b4c2152.json)
-
-[Extended Data](ext_articles/9b4c2152.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.45/65 to dollar, bonds steady
-
-*2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-bonds-steady-125231/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were steady.
-
-An auction of Rs 192,500 million treasury bills was ongoing.
-
-A bond maturing on 15.12.2026 was quoted stable at 9.40/50 percent.
-
-A bond maturing on 15.10.2027 was quoted at 10.22/25 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.03.2028 was quoted stable at 10.50/55 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, up from 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 13,370. The more liquid S&P SL20 was up 0.22 percent, or 8.64 points, at 3,950.
-
-◼️
-
-[Data](articles/b87790a3.json)
-
-[Extended Data](ext_articles/b87790a3.ext.json)
-
----
-
-### Audit reveals how a windaging in the medical council
-
-*2024-12-04 09:43:12* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-සභාව-වංගු-ගහපු-හැටි-විගණනයකින්-හෙළිවෙයි/11-413445) · `si`
-
-Sri Lanka Medical Council audit reveals improper bonus payments and lack of compliance with regulations since 2007.
-
-🟩
-
-The Sri Lanka Medical Council has paid bonuses since 2007, since 2007, has paid bonuses since 2007 a year after its employees.. According to the gratuity payment Act, No. 12 of 1983, the bonus payments should be paid only equally equal to each year in order to each year.
-
-The National Audit Secretary's Secretariat is said to be held on the National Audit Act No. 19 of 2018 and the National Audit Secretariat.
-
-According to a decision of the Management Committee on 15th of the Management Committee on 15, the year 2007 to 2023, it was twice the gratuity for each employee for 16 years.. The Medical Council has not made any clear of millions of rupees paid by the Sri Lanka Medical Council.
-
-In April 2023, all employees have been paid as bonuses in April, 2023, a monthly salary of Rs.. The Governing Body has not provided the power to determine the power and allowances of the Management Circular No. 02 of the Management Circular No. 02 of 18.07.2018.
-
-...
-
-[Data](articles/a2b1c8ed.json)
-
-[Extended Data](ext_articles/a2b1c8ed.ext.json)
-
----
-
-### The cause of non-communicable diseases is distorted food pattern
-
-*2024-12-04 09:25:58* · [`adalk`](https://www.ada.lk/breaking_news/බෝනොවන-රෝග-වලට-හේතුව-විකෘති-ආහාර-රටාවයි/11-413444) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Non-communicable diseases cause 85% of deaths in Sri Lanka. A medical officer reports 37% of patients suffer from non-communicable diseases. The health sector faces increasing challenges from these diseases, potentially requiring community halls to be converted into hospitals if left unaddressed.
-
-🟩
-
-Medical Officer of the Matale District Infectious Disease Control Unit says that 85% of the deaths in Sri Lanka are due to non-communicable disease.
-
-The doctor, who was organized by the Udaweeragama Isuru Rural Development Society in the Mekotuwa, was 37% of non-communicable patients and 25% suffering from 37% of over 37%.
-
-The doctor states that the doctor has increased to control non-communicable diseases and that the health of health is due to non-communicable diseases.
-
-The greatest problem in the health sector is increasing non-communicable patients. It also pointed out that if not arranged to control non-communicable diseases, even the community hall will be made into hospitals.
-
-◼️
-
-[Data](articles/1cc2be25.json)
-
-[Extended Data](ext_articles/1cc2be25.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 10:15:57**
+As of **2024-12-04 09:42:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,356 (100.0%) of 58,363 articles have been extended.
+58,352 (100.0%) of 58,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,35 +82,23 @@ Accordingly, the court adjourned the hearing on January 23.
 
 ---
 
-### India's 15 investors arrives in Jaffna - Deputy Embassy Chief Executive Officer Ram Mahesh
+### இந்தியாவின் 15 முதலீட்டார்கள் யாழ் வருகைதரவுள்ளனர் - துணை தூதரக முதன்மை நிர்வாக  அதிகாரி ராம் மகேஷ் தெரிவிப்பு
 
 *2024-12-04 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200372) · `ta`
 
-Here's a 200-character summary:
+யாழ்ப்பாணத்திற்கு 15 முதலீட்டாளர்கள்  வருகை தர உள்ளார்கள் என்று  யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரக முதன்மை நிர்வாக  அதிகாரி ராம் மகேஷ் தெரிவித்தார்.
 
+வடக்கு மாகாண தொழிற்துறைத் திணைக்களம் யாழ் இந்தியத் துணைத் தூதரகம் இணைந்து நடத்தும் வடமாகாண தொழில்துறை வர்த்தகச் சந்தை நேற்று செவ்வாய்க்கிழமை (03)  காலை ஆரம்பமானது .
 
+மூன்று நாட்கள் நடைபெற உள்ள வட மாகாண தொழில்துறை வர்த்தகச் சந்தை நிகழ்வில் பிரதம விருந்தினராக கலந்து கொண்டு நாடா வெட்டி திறந்து வைத்து உரையாற்றும்போதே அவர் இதனை தெரிவித்தார்.
 
-15 Indian investors visit Jaffna for trade fair. Embassy supports local production, education, culture & business. Exhibition features weaving, food, apparel, agricultural products. Free entry and permits.
+வடக்கு மாகாண தொழிற்துறைத் திணைக்களம் பல்வேறு முயற்சிகளை செய்து உற்பத்தியாளர்களை ஊக்கப்படுத்தி வருகிறது. இதற்கு இந்திய துணை தூதரகம் உதவிகளை செய்து வருகிறது. உற்பத்திகளை சந்தைப்படுத்துகின்ற போது தான் உள்ளூர் உற்பத்தி வளர்ச்சி அடையும்.
 
-🟩
-
-Ram Mahesh, Chief Executive Officer of the Indian Embassy in Jaffna, said that 15 investors will visit Jaffna.
-
-The Northern Provincial Industrial Trade Market, hosted by the Northern Provincial Department of Industry, Jaffna's Indian Embassy, ​​commenced on Tuesday morning.
-
-He was speaking at the Northern Province Industrial Trade Market, which was held as the chief guest at the Northern Provincial Trade Market.
-
-The Northern Provincial Department of Labor has made various efforts to encourage manufacturers. The Indian Consulate for assistance for this. Local production growth is only when market is marketed.
-
-Such market opportunities and exhibitions will help. These will increase the products and encourage the products to bring the products to the next grade.
-
-The Indian Embassy is doing a variety of assistance. Especially educational, culture, business and embassy assistance. Especially next year, 2025 will be helping business events and entrepreneurship.
+அதற்கு இத்தகைய சந்தை வாய்ப்புகள், கண்காட்சிகள் உதவும். இவை மூலம் உற்பத்திகளை அதிகரிக்க செய்வதுடன் உற்பத்திகளை அடுத்த தரத்திற்கு கொண்டு செல்வதற்கு ஊக்கப்படுத்த கூடியதாக இருக்கும்.
 
 ...
 
 [Data](articles/e2566f99.json)
-
-[Extended Data](ext_articles/e2566f99.ext.json)
 
 ---
 
@@ -248,23 +236,15 @@ The accident occurred at an unsafe railway crossing near the Galle Sudarmarama V
 
 ---
 
-### A time of trust;A pledge to save
+### நம்பிக்கை வைப்பதற்கான ஒரு நேரம் ; காப்பாற்றுவதற்கு ஒரு உறுதிமொழி
 
 *2024-12-04 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200363) · `ta`
 
-Sri Lanka's new president vows to combat racism and extremism, promising justice and equality for all citizens. His government aims to heal historical wounds and unite the nation. Challenges remain, but early signs suggest a shift towards inclusivity and reconciliation.
-
-🟩
-
-Following the September presidential election and the November parliamentary election, the recent political transformation in Sri Lanka gives a turning point to deal with the deeper problems that emerged as a result of discrimination.. President Anura Kumara Dissanayake, who inaugurated his government's policy briefing in the session of the Tenth Parliament, pressed the commitment to prevent racism and religious extremism in Sri Lanka.
-
-He said that his government would not allow communal politics and religious extremism to re -intervene, he said that he would establish a fearless democratic state.. The president, who emphasized the importance of the rule of law, is confirmed that there is no individual nor politician that is more than the law. He promised to investigate controversial crimes and provide justice to the victims and restore confidence in legalism.
+செப்டெம்பர் ஜனாதிபதி தேர்தலையும் நவம்பர் பாராளுமன்ற தேர்தலையும் தொடர்ந்து இலங்கையில் ஏற்பட்ட அண்மைய அரசியல் நிலைமாறுதல் பாகுபாடு காட்டுகின்ற போக்கின் விளைவாக தோன்றிய ஆழமான பிரச்சினைகளை கையாளுவதற்கு ஒரு திருப்புமுனை வாய்ப்பை தருகிறது. பத்தாவது பாராளுமன்றத்தின் கூட்டத்தொடரை ஆரம்பித்து வைத்து தனது அரசாங்கத்தின் கொள்கை விளக்கவுரையை நிகழ்த்திய ஜனாதிபதி அநுரா குமார திசாநாயக்க இலங்கையில் இனவாதத்தையும் மதத் தீவிரவாதத்தையும் தடுப்பதில் கொண்டிருக்கும் உறுதிப்பாட்டை அழுத்திக் கூறினார்.
 
 ...
 
 [Data](articles/b6693be7.json)
-
-[Extended Data](ext_articles/b6693be7.ext.json)
 
 ---
 
@@ -1288,8 +1268,6 @@ Facilitated by the renowned HR expert, C. Hewapattini, Chartered Fellow CIPM, th
 
 [Data](articles/8fe7e696.json)
 
-[Extended Data](ext_articles/8fe7e696.ext.json)
-
 ---
 
 ### Manufacturing sector counters feed bullish trend in bourse
@@ -1305,8 +1283,6 @@ Those crossings were reported in Agarapathana Plantations, where 10 million shar
 ...
 
 [Data](articles/1b0afde6.json)
-
-[Extended Data](ext_articles/1b0afde6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 19:03:14**
+As of **2024-12-04 19:17:14**
 
 ## Newspaper Stats
 
-*Scraped **58,462** Articles*
+*Scraped **58,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,113 @@ dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,538
 adaderanalk | 7,100
-tamilmirrorlk | 8,322
-virakesarilk | 9,566
-adaderanasinhalalk | 10,100
+tamilmirrorlk | 8,324
+virakesarilk | 9,568
+adaderanasinhalalk | 10,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,448 (100.0%) of 58,462 articles have been extended.
+58,452 (100.0%) of 58,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### වහාම ධුරයෙන් ඉල්ලා අස්වන්නැයි දකුණු කොරියාවේ ජනපතිට එරෙහි විරෝධතා
+
+*2024-12-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204040) · `si`
+
+රට තුළ දේශපාලන සහ පාර්ලිමේන්තු ක්‍රියාකාරකම් සියල්ල තහනම් කරමින් රටට හමුදා නීතිය පැනවීමට දකුණු කොරියානු ජනාධිපතිවරයා ගත් තීන්දුව ඔහු විසින්ම හකුලාගෙන තිබේ.
+
+ඒ ඊට එරෙහිව එරට පාර්ලිමේන්තුව විසින් ගෙන ආ යෝජනාවක් සම්මත වීමෙන් අනතුරුවය.
+
+උතුරු කොරියාවේ කොමියුනිස්ට් බලවේග මගින් ඇතිවිය හැකි ආපදාවලින් රට ආරක්ෂා කිරීම සඳහා රටට හමුදා නීතිය පනවන බව දකුණු කොරියානු ජනාධිපති යුන් සුක් යෝල් හදිසියේ නිවේදනය කළේ ඊයේ (03) රාත්‍රියේ දීය.
+
+ඒ යටතේ රට තුළ සියලු දේශපාලන සහ පාර්ලිමේන්තු ක්‍රියාකාරකම් තහනම් කෙරුණු අතර, වරෙන්තු නොමැතිව ඕනෑම අයෙක් අත්අඩංගුවට ගැනීමේ බලයද හමුදාව වෙත පැවරුණි.
+
+එමෙන්ම ඉන් භාෂණයේ නිදහසද සීමා කෙරුණු අතර, මාධ්‍ය සඳහා ද දැඩි නීති පැනවීය.
+
+මේ සමගින් එරට සෝල් හි පිහිටි පාර්ලිමේන්තුවට පිවිසීම අවහිර කරමින් හමුදාව ඒ වටා ස්ථානගත කෙරුණේ, විපක්ෂයේ සහ මහජනතාවගේ ප්‍රබල විරෝධය මධ්‍යයේ දීය.
+
+පුවත සැලවීමත් සමග විපක්ෂ දේශපාලනඥයින් මෙන්ම ආධාරකරුවන් ඊයේ රාත්‍රියේම පාර්ලිමේන්තුව අවට රැස්වී ජනාධිපතිවරයාට බලකර සිටියේ මෙම නීතිවිරෝධී හමුදා නීතිය වහාම ඉවත් කරන ලෙසය.
+
+...
+
+[Data](articles/0e6b20d2.json)
+
+---
+
+### அரசின் கொள்கைப் பிரகடனம் வாக்கெடுப்பு இன்றி ஏகமனதாக நிறைவேற்றம்
+
+*2024-12-04 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200445) · `ta`
+
+அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பான தீர்மானம் புதன்கிழமை (04) பாராளுமன்றத்தில் வாக்கெடுப்பு இன்றி ஏகமனதாக நிறைவேற்றப்பட்டது.
+
+அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பான விவாதம் செவ்வாய்க்கிழமை (03) காலை 9.30 மணி முதல் மாலை 5.30 மணி வரையும், புதன்கிழமை (04)  காலை 9.30 மணி முதல் மாலை 5.00 மணி வரையும் இரண்டு நாள் விவாதமாக நடைபெற்றது.
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்க கடந்த நவம்பர் 21ஆம் திகதி அரசாங்கத்தின் கொள்கைப் பிரகடனத்தை பாராளுமன்றத்தில் சமர்ப்பித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e350eb77.json)
+
+---
+
+### தாஜுதீன் படுகொலை தொடர்பில் முறையான விசாரணை - அமைச்சர்  நளிந்த ஜயதிஸ்ஸ
+
+*2024-12-04 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200444) · `ta`
+
+தாஜுதீன் படுகொலை உட்பட சர்ச்சைக்குரிய படுகொலைகள் தொடர்பில் முறையான விசாரணைகளை மேற்கொண்டு  குற்றவாளிகளுக்கு தண்டனை வழங்குவோம் என ஆளும் தரப்பின் பிரதம கொறடாவான அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (4) நடைபெற்ற அரசாங்கத்தின் கொள்கை பிரகடனத்தின் மீதான விவாதத்தில் உரையாற்றிய முஜிபூர் ரஹ்மான் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல்கள் சம்பவம், தாஜுதீன் படுகொலை  தொடர்பில் குறிப்பிட்டார்.
+
+பாராளுமன்ற உறுப்பினர் முஜிபூர் ரஹ்மானின் உரையை தொடர்ந்து எழுந்து உரையாற்றிய ஆளும் தரப்பின் பிரதம கொறடாவான நளிந்த ஜயதிஸ்ஸ,கடந்த காலங்களில் சர்சைக்குரியதாக பேசப்பட்ட தாஜூதின் படுகொலை, உட்பட ஏனைய படுகொலைகள் தொடர்பில்  முறையான விசாரணைகளை மேற்கொண்டுள்ளோம்.
+
+தொழில்நுட்ப காரணிகளால் கடந்த காலங்களில் குறித்த தரவுகளை பெற்றுக்கொள்வதில் மாதம் ஏற்பட்டது. ஆனால் தற்போது அந்த தரவுகள் கிடைக்கப் பெற்றுள்ளன.  ஆகவே முறையான விசாரணைகள் மேற்கொள்ளப்பட்டு குற்றவாளிகளுக்கு தண்டனை வழங்கப்படும்  என்றார்.
+
+◼️
+
+[Data](articles/de8bef07.json)
+
+---
+
+### W.M.மென்டிஸ் அன்ட் கம்பெனியின் உரிமம் இடைநிறுத்தம்
+
+*2024-12-04 18:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/W-M-மென்டிஸ்-அன்ட்-கம்பெனியின்-உரிமம்-இடைநிறுத்தம்/175-348250) · `ta`
+
+ரூபாய் 5.7 பில்லியன் வரி மற்றும் பிற கட்டணங்களைச் செலுத்தத் தவறியதன் பொருட்டு டபிள்யூ.எம்.மென்டிஸ் அன்ட் கம்பெனியின் மது உற்பத்தி உரிமம் டிசெம்பர் 5ஆம் திகதி முதல் தற்காலிகமாக நிறுத்தப்பட்டுள்ளதாக கலால் திணைக்களம் அறிவித்துள்ளது.
+
+மேலும் வரியை  செலுத்தத் தவறும் நிலை தொடரும் பட்சத்தில் டிசம்பர் 31 க்குப் பின்னர் நிறுவனத்தின் பிற உரிமங்களும் இடைநிறுத்தப்படும் என திணைக்களம் எச்சரித்தது.
+
+மேன்முறையீட்டு நீதிமன்றத்தில் நடைபெற்ற விசாரணைகளின் போது இந்த விடயம் தெரிய வந்ததுடன், WM Mendis & Co. நிறுவனத்திற்கு வழங்கப்பட்ட 10 மதுபான உற்பத்தி உரிமங்களில் 8 ஏற்கனவே இடைநிறுத்தப்பட்டிருந்தமை தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/d1d9a033.json)
+
+---
+
+### தேங்காய் விலையுயர்வு குறித்து அமைச்சர் கருத்து
+
+*2024-12-04 18:35:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலையுயர்வு-குறித்து-அமைச்சர்-கருத்து/175-348249) · `ta`
+
+எதிர்வரும் பண்டிகைக் காலத்தில் அத்தியாவசிய உணவுப் பொருட்களை தட்டுப்பாடின்றி வழங்குவதற்கு எடுக்கப்பட்டுள்ள நடவடிக்கைகள் குறித்து வர்த்தக அமைச்சர் வசந்த சமரசிங்க தெரிவித்துள்ளார்.
+
+இன்று (டிசம்பர் 04) முதல் அமுலுக்கு வரும் வகையில் நாளாந்தம் 200,000 கிலோ அரிசியை வழங்க அரிசி ஆலைகள் இணக்கம் தெரிவித்துள்ளதாக அமைச்சர் சமரசிங்க இன்று பாராளுமன்றத்தில் உரையாற்றினார்.
+
+அரசாங்கத்திற்கு சொந்தமான சில்லறை விற்பனை நிறுவனமான லங்கா சதொச ஊடாக உள்ளூர் சந்தைக்கு இந்த அரிசி கட்டுப்பாட்டு விலையில் வழங்கப்படவுள்ளதாக அவர் கூறினார்.
+
+புறநகர் பகுதிகளில் உள்ள சதொச விற்பனை நிலையங்கள் ஊடாகவும் ஒரு மில்லியன் தேங்காய் விற்பனை செய்யப்படும் என வர்த்தக அமைச்சர் மேலும் தெரிவித்தார்.
+
+அடுத்த இரண்டு வாரங்களில் தேங்காய்கள் 130 ரூபாய்க்கு விற்பனை செய்யப்படும் என அமைச்சர் சமரசிங்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/83c94121.json)
+
+---
 
 ### The government policy statement was unanimously accomplished
 
@@ -74,37 +168,53 @@ The department further stated that measures have been taken to suspend the liquo
 
 ---
 
-### ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඡන්ද විමසීමකින් තොරව සම්මතයි
+### The government's policy statement passed without a poll
 
 *2024-12-04 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204039) · `si`
 
-ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශයට අදාළ යෝජනාව අද (04) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව ඒකමතිකව සම්මත විය.
+Government's policy statement passed unanimously in Parliament without vote. Debate lasted from 9:30 AM to 5:30 PM. President Anura Kumara Dissanayake presented on November 21.
 
-ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශයට අදාළ විවාදය ඊයේ (03) පෙ.ව 9.30 සිට ප.ව 5.30 දක්වාත් අද (04) පෙ.ව 9.30 සිට ප.ව 5.00 දක්වාත් දෙදින විවාදයක් ලෙස පැවැත්විණි.
+🟩
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පසුගිය නොවැම්බර් 21 වනදා පාර්ලිමේන්තුවේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කළේය.
+The proposal to the government's policy statement was unanimously passed today without a vote in Parliament today (04).
+
+The debate on the policy statement was held from 9.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 pm and 5.30 pm to 5.30 pm.
+
+President Anura Kumara Dissanayake presented the government's policy statement on November 21.
 
 ◼️
 
 [Data](articles/c704995e.json)
 
+[Extended Data](ext_articles/c704995e.ext.json)
+
 ---
 
-### මෙන්ඩිස් සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය අත්හිටුවයි
+### Mendis suspended liquor production license
 
 *2024-12-04 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204038) · `si`
 
-ඩබ්ලිව්. එම්. මෙන්ඩිස් සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය අත්හිටුවීමට සුරාබදු දෙපාර්තමේන්තුව පියවර ගෙන ඇත.
+Here's a summary in 200 characters:
 
-මත්පැන් නිෂ්පාදනය මත සුරාබදු දෙපාර්තමේන්තුව වෙත ගෙවිය යුතු සුරාබද්ද හා ඊට අදාළව 3%ක මාසිකව ගෙවිය යුතු අධිභාරය වන රුපියල් බිලියන 5.7ක මුදල ගෙවීම පැහැරහැරීම හේතුවෙන් මෙම පියවර ගත්බව සුරාබදු දෙපාර්තමේන්තුව පවසයි.
 
-මේ සම්බන්ධයෙන් නිවේදනයක් නිකුත් කරමින් සුරාබදු දෙපාර්තමේන්තුව පවසා සිටියේ, සුරාබදු ආඥා පනතේ නෛතික විධිවිධාන ප්‍රකාරව හෙට (5) දිනයේ සිට ඩබ්ලිව්. එම්. මෙන්ඩිස් සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් අත්හිටු වූ බවයි.
 
-ඒ අනුව දෙසැම්බර් මස 5 වනදා සිට මත්පැතන් නිෂ්පාදන ක්‍රියාවලිය අත්හිටුවීමටත්, එම හිඟ බදු මුදල් හා අධිභාරය තවදුරටත් ගෙවීම පැහැර හරින්නේ නම් එම සමාගමට නිකුත්කර ඇති සියලුම සුරාබදු මත්පැන් බලපත්‍ර ද දෙසැම්බර් මස 31 දිනෙන් ඔබ්බට දීර්ඝ නොකිරීමටත් සුරාබදු දෙපාර්තමේන්තුව පියවර ගන්නා බවද එම නිවේදනයේ සඳහන්ය.
+"Excise Department suspends liquor production license. Action taken due to high costs. Statement from Commissioner General. Steps to prevent alcohol production and determine surcharges."
+
+🟩
+
+W. M. The Excise Department has taken steps to suspend the liquor production license.
+
+The cost of the Excise Department on alcohol production, this step is due to the Excise Department of Excise.
+
+Excise Department said in a statement. M. The Commissioner General of Excise was suspended by the Commissioner General of Excise.
+
+According to the announcement, the Excise Department will take steps to prevent alcohol production process and the determination of alcoholism and surcharges.
 
 ◼️
 
 [Data](articles/fd1b40b3.json)
+
+[Extended Data](ext_articles/fd1b40b3.ext.json)
 
 ---
 
@@ -372,35 +482,51 @@ This order was issued by the Appeals Court judge bench consisting of Justices So
 
 ---
 
-### කමිඳු ශ්‍රේණිගත කිරීම්හි ඉදිරියට
+### Forward in the kinob rating
 
 *2024-12-04 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204036) · `si`
 
-නවතම ටෙස්ට් ක්‍රිකට් පිතිකරණ ශ්‍රේණිගත කිරීම් හි හත්වන ස්ථානය දක්වා ඉදිරියට පැමිණීමට ශ්‍රී ලංකා කණ්ඩායමේ කමිඳු මෙන්ඩිස් සමත්ව තිබේ.
+Sri Lanka's cricket team ranks 7th globally. Kumindu Mendis shines in 5th Test. Joe Root leads England. Harry Brook and Kane Williamson top New Zealand.
 
-ශ්‍රේණිගත කිරීම් හි 09 වෙනි ස්ථානයේ රැදී සිටි කමිඳු මෙන්ඩිස් පසුගිය ටෙස්ට් තරග සංචාරයන් හී දී දැක්වු දක්ෂතා මත ඉදිරියට පැමිණ ඇති බව සඳහන් වේ.
+🟩
 
-අයි.සී.සී ටෙස්ට් ක්‍රිකට් පිතිකරණ ශ්‍රේණිගත කිරීම් හි තවදුරටත් පෙරමුණේ රැඳී සිටින්නේ එංගලන්ත කණ්ඩායමේ ජෝ රූට් ය.
+Sri Lanka's group of Sri Lankan team has been able to proceed to the seventh place in the latest Test Cricket Ratings.
 
-එහි පිළිවෙලින් දෙවන ස්ථානය එංගලන්ත කණ්ඩායමේ හැරී බෘක්ට සහ තෙවන ස්ථානය නවසීලන්ත කණ්ඩායමේ කේන් විලියම්සන්ට හිමිව තිබේ.
+It is said that the Kumindu Mendis had come forward on the skills in the 5th Test.
+
+The ICC Test-Cricket Exhibition Rankings continue to lead the Joe Root of the England team.
+
+In its respective, Harry Brook and Third Place, Cane Williamsan, has been owned by New Zealand team.
 
 ◼️
 
 [Data](articles/72497c1b.json)
 
+[Extended Data](ext_articles/72497c1b.ext.json)
+
 ---
 
-### ආදරය සම්බන්ධයෙන් උගන්වන්නැයි චීනය ඉල්ලයි
+### China asks for teaching in love
 
 *2024-12-04 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204034) · `si`
 
-රට තුළ උපත් අනුපාතිකය අඩුවීමට පිළියමක් වශයෙන් විශ්වවිද්‍යාල සහ අනෙකුත් අධ්‍යාපනික ආයතන වෙත චීන බලධාරීන් අපූරු උපදෙසක් දී තිබේ.
+Here's a summary of 200 characters:
 
-ආදරය, විවාහය, සශ්‍රිකත්වය සහ පවුල සම්බන්ධයෙන් ධනාත්මක දේ සිසු සිසුවියන් ට ඉගැන්වීම මගින් චීනය මුහුණ දෙන අඩු උපත් අනුපාතිකයට ප්‍රතිකර්මයක් සපයාගත හැකි බව එරට බලධාරීන් පවසයි.
+
+
+Chinese authorities suggest universities teach love, marriage, and family values to combat low birth rates. This approach aims to encourage young couples to start families. The initiative focuses on promoting emotional intelligence and relationship skills among students.
+
+🟩
+
+The Chinese authorities have given a wonderful advice to universities and other educational institutions as a remedy to decrease the birth rate in the country.
+
+Authorities say that the students of China can provide a remedy to the low-birth rate of China by teaching love, marriage, prickness and family members.
 
 ◼️
 
 [Data](articles/d3c06a57.json)
+
+[Extended Data](ext_articles/d3c06a57.ext.json)
 
 ---
 
@@ -2283,145 +2409,5 @@ Accordingly, the suspects were arrested by the Ahangama police officers in the F
 [Data](articles/36c12e54.json)
 
 [Extended Data](ext_articles/36c12e54.ext.json)
-
----
-
-### PTA: Can the new government not to abolish the Prevention of Terrorism Act?
-
-*2024-12-04 07:32:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c62wg3ywg2zo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New Sri Lankan government vows to repeal controversial Prevention of Terrorism Act, citing human rights concerns and misuse against minorities. Critics argue law remains in place despite promises, calling for full abolition rather than amendment.
-
-🟩
-
-PTA: Can the new government not to abolish the Prevention of Terrorism Act?
-
-The Prevention of Terrorism Act (PTA) is the act of speaking among the Acting Bills in Sri Lanka.
-
-The Prevention of Terrorism Act (Pvt) of the Prevention of Terrorism Act in 1979 is a law.
-
-Did you know these facts about the Prevention of Terrorism Bill and Emergency Status?
-
-The Terrorism Prevention Act is also known as an internationally and internationally, and in addition to terrorist suspects, the existing government is used to suppress political oppositionists, as well as to suppress a religious or religious attitude.
-
-The powerful national folk force is known as a serious voice against the prevention of terrorism during the period of the opposition period.
-
-The Sandun Tudugala, the Director of the Law and Social Trust, said: "The Terrorism Prevention Act is a badly used bill in Sri Lanka.
-
-"This PTA is a bad endopy bill in Sri Lanka. The government is a repressive law used to suppress all enemies of their state. "
-
-...
-
-[Data](articles/072ce1e7.json)
-
-[Extended Data](ext_articles/072ce1e7.ext.json)
-
----
-
-### Sri Lanka central bank net foreign reserves just above zero
-
-*2024-12-04 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-foreign-reserves-just-above-zero-191861/) · `en`
-
-ECONOMYNEXT – Sri Lanka net foreign assets moved to positive territory in October 2024, with about 63 million dollars over its reserve related liabilities, official data shows, after two years of deflationary policy with interest rates to match.
-
-Sri Lanka’s central bank’s reserves became negative by 4.6 billion after rate cuts were enforced by inflationary direct and open market operations.
-
-The central bank also borrowed reserves through swaps, and also busted a special drawing rights allocation (a type ‘reserve’ created by the International Monetary Fund) in the course of mistargeting rates through a policy rate which ended in a sovereign default.
-
-A ‘transmission mechanism’ then spreads the mis-targeted rates along the yield curve.
-
-When reserves were hitting negative territory during the last currency crisis, the central bank already had loans from the International Monetary Fund taken during currency crises triggered by earlier rate cuts.
-
-...
-
-[Data](articles/a0be26e2.json)
-
-[Extended Data](ext_articles/a0be26e2.ext.json)
-
----
-
-### An informed of court on purchasing five million purchases
-
-*2024-12-04 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204015) · `si`
-
-Court case summary: Attorney General informs Court of Appeal about immigration department investigation. Additional Solicitor General requests time to submit observations on purchasing tender probe. Court orders examination on January 23.
-
-🟩
-
-The Attorney General has informed the Court of Appeal that the Department of Immigration and Emigration has been investigated by the Department of Immigration and Emigration.
-
-Additional Sumitar General Sumathi Dharma Dharma Dharmawardena appearing on behalf of the Attorney General yesterday challenged the Attorney General.
-
-This petition is Mohammed Lafar Thahaire and P. The Court of Appeal consisting of Kumaran Ratnam was called before the judge.
-
-Additional Sumathi Dharmadawardena, Sumathi Dharmawardena, said the National Procurement Committee has launched an investigation into how the purchasing tender was awarded the purchasing tender.
-
-Additional Solicitor General said that the committee had requested a week to submit the observations on the investigation.
-
-He also requested the court to give a date to inform the progress of the activities.
-
-...
-
-[Data](articles/cbaeecd7.json)
-
-[Extended Data](ext_articles/cbaeecd7.ext.json)
-
----
-
-### Today's weather announcement
-
-*2024-12-04 07:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-அறிவிப்பு/175-348214) · `ta`
-
-Here's a summary of the weather announcement in approximately 200 characters:
-
-
-
-Rain/thunderstorms forecasted for Central, North Western, North Central & Uva provinces in the evening/night. Balanced weather expected elsewhere.
-
-🟩
-
-The Department of Meteorology has forecast rain or thunderstorms in the evening or night in some parts of the Central, North Western, North Central and Uva provinces.
-
-In addition, in other parts of the country, a balanced weather is said. (A)
-
-◼️
-
-[Data](articles/b161b304.json)
-
-[Extended Data](ext_articles/b161b304.ext.json)
-
----
-
-### The second phase of the GCE Advanced Level Exam begins today
-
-*2024-12-04 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204014) · `si`
-
-GCE Advanced Level Exam Phase 2 resumes today after weather delay. Original schedule reinstated until Dec 20. Candidates should report to nearest center if roads impassable.
-
-🟩
-
-The second phase of the Advanced Level Examination will be resumed today (04).
-
-The Examinations Department took steps to postpone the GCE A / L examination for six days from the April 27 due to inclement weather.
-
-Commissioner General of Examinations Amitith Jayasundara said that the examination will be held today as stated in the examination scheme.
-
-Accordingly, the examination will be held on the previous timetable from today to December 20.
-
-The Examinations Commissioner General of Examinations Amit Jayasundara said that the examination will be held on December 31st for December 31.
-
-Accordingly, Saturday, Saturday, 7th of December is due to candidates.
-
-The Examinations Commissioner added that the roadblounted areas have gone to the closest examination center and sit the hearing.
-
-◼️
-
-[Data](articles/f4f34cb8.json)
-
-[Extended Data](ext_articles/f4f34cb8.ext.json)
 
 ---

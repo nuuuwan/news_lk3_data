@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 14:29:24**
+As of **2024-12-04 14:42:52**
 
 ## Newspaper Stats
 
-*Scraped **58,408** Articles*
+*Scraped **58,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,506
 economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,529
+adalk | 5,530
 adaderanalk | 7,090
 tamilmirrorlk | 8,315
 virakesarilk | 9,556
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,407 (100.0%) of 58,408 articles have been extended.
+58,407 (100.0%) of 58,409 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -523,6 +523,24 @@ In response, MP Perera clarified his stance today, stating: “There is no probl
 [Data](articles/12398b96.json)
 
 [Extended Data](ext_articles/12398b96.ext.json)
+
+---
+
+### බූස්ස බන්ධනාගාරයෙන් දුරකතන උපාංග සොයා ගනියි
+
+*2024-12-04 10:48:52* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-බන්ධනාගාරයෙන්-දුරකතන-උපාංග-සොයා-ගනියි/11-413446) · `si`
+
+අධි ආරක්ෂිත බුස්ස බන්ධනාගාරයේ රෝහල් පරිශ්‍රයේ සහ බන්ධනාගාර පරිශ්‍රය තුළ තිබී  දුරකතන උපාංග තොගයක් ඊයේ (3දා) සොයා ගත් බව පොලිස් විශේෂ කාර්ය බලකාය කියයි.
+
+පොලිස් විශේෂ කාර්ය බලකාය බූස්ස අධිආරක්ෂිත බන්ධනාගාර කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව මෙම වැටලිම සිදුකර තිබුණි.
+
+එහි දී බන්ධනාගාර රෝහල තුළ හා බන්ධනාගාර රෝහල් භූමිය තුළ තිබි දුරකතක චාජර් 05, Type C වර්ගයේ ඩේටා කේබල් 08 ක්, ලයිටර් 02 ක් හා පිටත ආවරණය ඉවත් කර වයර් කැබලි 02 ක් යොදා සකස් කරන ලද චාජර් 01 ක්  පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරීන් අත්අඩංගුවට ගෙන  තිබේ.
+
+දුරකතන උපාංග වැඩිදුර විමර්ශන කටයුතු සඳහා  අධි ආරක්ෂිත බූස්ස බන්ධනාගාර පාලනාධිකාරිය වෙත භාර දීමට පොලිස් විශේෂ කාර්ය බලකාය විසින් පියවර ගන්නා ලදි.
+
+◼️
+
+[Data](articles/6add0711.json)
 
 ---
 
@@ -2419,35 +2437,5 @@ Yoon said he had no choice but to resort to such a measure in order to safeguard
 [Data](articles/c5a5b7e0.json)
 
 [Extended Data](ext_articles/c5a5b7e0.ext.json)
-
----
-
-### Government allocated 345 million rupees to provide relief to people affected by natural disasters - Deputy Minister of Defense Aruna Jayasekara
-
-*2024-12-03 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200345) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Govt allocates 345M rupees relief aid after heavy rains affect 469k+ people in 24 districts. 18 killed, 38k sheltered in welfare centers."
-
-🟩
-
-4 lakhs 69 thousand 872 people from 1, 39,439 families in 24 districts in the country have been affected by heavy rains. 18 people have been killed. Defense Deputy Minister Aruna Jayasekara said the government has allocated 345 million rupees to provide relief to the affected people.
-
-He said this while addressing the government's actions on the inclement weather and its impacts in the country on Tuesday (03) in Parliament.
-
-I extend my deepest sympathies to the families of those who died in disasters due to inclement weather.
-
-Hundreds of thousands of people directly and indirectly have been affected by the disaster.The impacts have been reported in many districts including the Northern, Eastern, Central and North Central Provinces. This is due to heavy rains in the country.
-
-The government has allocated 345 million rupees to provide relief to people affected by heavy rains.
-
-...
-
-[Data](articles/934c7e93.json)
-
-[Extended Data](ext_articles/934c7e93.ext.json)
 
 ---

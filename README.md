@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 17:11:41**
+As of **2024-12-04 17:00:24**
 
 ## Newspaper Stats
 
-*Scraped **58,442** Articles*
+*Scraped **58,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,535
 adaderanalk | 7,097
-tamilmirrorlk | 8,321
+tamilmirrorlk | 8,320
 virakesarilk | 9,558
 adaderanasinhalalk | 10,095
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 10,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,426 (100.0%) of 58,442 articles have been extended.
+58,426 (100.0%) of 58,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
-
-### இந்த ஐயா யாரென தெரியுதா?
-
-*2024-12-04 16:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-ஐயா-யாரென-தெரியுதா/175-348246) · `ta`
-
-தேசிய மக்கள் சக்தியின் சமூக வலைத்தளங்களில், இந்த ஐயா யாரென தெரியுதா? என தலைப்பிட்டு, வீடியோ​ ஒன்று உலாவிக்கொண்டிருக்கிறது.
-
-அதில், பேசிய நபர், “பார்த்திங்கதானே அனுரட கேம, அடிச்ச அடியில பாருங்க பேமென்ட்ல வந்து அப்பிள் வாங்குறாங்க​க, இதுக்குத்தான் சொல்றது. இதுக்குத்தான் சொல்றது எப்படி போட்ட கேம். எப்படி அனுரட கேம்” என்று அவ்வப்போது சிரித்துக்கொண்டே சொல்கின்றார்.
-
-வீடியோவில் எந்த பேமெண்டு என்று சரியாக தெரியவில்லை. அதேபோல, குரல்கொடுத்த நபரும், எந்த பேமெண்டு என்று கூறவே இல்லை.
-
-◼️
-
-[Data](articles/7b6477dd.json)
-
----
 
 ### රුමි 75ක කේරළ ගංජා උතුරු මුහුදෙන් හමුවෙයි
 
@@ -2323,5 +2307,35 @@ She is also training on the supervision of a karate consultant and a judge.
 [Data](articles/1f0d746d.json)
 
 [Extended Data](ext_articles/1f0d746d.ext.json)
+
+---
+
+### Not ready to continue the mistake of the last government;Deputy Minister Mahinda Jayasinghe
+
+*2024-12-04 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200368) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Deputy Minister Mahinda Jayasinghe addresses Parliament, criticizing past government mistakes. He pledges to resolve core issues in teacher and chancellor services. Development officers protest outside Ministry of Education without permission, demanding proper service status.
+
+🟩
+
+The best solution to the problems of development officers will be the people's wrongdoing. Deputy Minister of Labor Mahinda Jayasinghe said.
+
+Speaking at a debate on the President's Policy Declaration held on Tuesday in Parliament (03).
+
+He will soon be resolved to the basic problems found in the Teacher and Chancellor's service. The struggle of the development officials in front of the Ministry of Education should be mentioned.
+
+Three police officers have been attacked during the protest.We too engaged in struggles in the past for professional rights. Never act.
+
+Development officials gathered in front of the Ministry of Education without any permission.Development Officers insist on joining the service contrary to the Teacher Service. He said the people did not choose us to make a mistake made by the last government.
+
+◼️
+
+[Data](articles/7056e6b5.json)
+
+[Extended Data](ext_articles/7056e6b5.ext.json)
 
 ---

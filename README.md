@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 08:59:00**
+As of **2024-12-04 09:42:59**
 
 ## Newspaper Stats
 
-*Scraped **58,358** Articles*
+*Scraped **58,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,115 @@ islandlk | 3,506
 economynextcom | 3,543
 dailyftlk | 4,033
 dailymirrorlk | 4,733
-adalk | 5,524
+adalk | 5,525
 adaderanalk | 7,083
-tamilmirrorlk | 8,301
-virakesarilk | 9,552
+tamilmirrorlk | 8,303
+virakesarilk | 9,554
 adaderanasinhalalk | 10,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,345 (100.0%) of 58,358 articles have been extended.
+58,352 (100.0%) of 58,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### A/L  பரீட்சை இன்று மீண்டும் ஆரம்பம்
+### There will be severe shortage of rice in Sri Lanka;Issued warning
+
+*2024-12-04 09:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அரிசிக்கு-கடும்-தட்டுப்பாடு-வரும்-விடுக்கப்பட்ட-எச்சரிக்கை/175-348218) · `ta`
+
+Sri Lanka faces severe rice shortage warning. Government urged to import rice within two weeks to avoid crisis. Long-term solutions needed to prevent future shortages.
+
+🟩
+
+The All Ceylon Small and Medium Plant Owners Association has said that if the government does not take steps to import rice within the next two weeks, there will be a severe shortage of rice.
+
+It is the responsibility of the government to prepare a long -term program to resolve the issue.. K. Semasinghe noted.
+
+"We have to see a long -term solution. If not, we can go back to this crisis again. To suppress this crisis, the rice marketing board must prepare a formal plan, and the government should soon import rice from abroad as a short -term solution. If not, there will be a severe shortage of rice in the market. Remble
+
+◼️
+
+[Data](articles/502d7362.json)
+
+[Extended Data](ext_articles/502d7362.ext.json)
+
+---
+
+### Investigations on e-Passport
+
+*2024-12-04 09:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-பாஸ்போர்ட்-விதம்-தொடர்பில்-விசாரணைகள்-முன்னெடுப்பு/175-348217) · `ta`
+
+National Procurement Committee investigates e-Passport price. Court grants one-week delay for inquiry update. Defendant companies seek removal of interim passport purchase ban. Hearing rescheduled for January 23.
+
+🟩
+
+The Attorney General has informed the Court of Appeal that the National Procurement Committee is conducting inquiries into the price of the Department of Immigration and Emigration for the Department of Immigration and Emigration during the previous government.
+
+The announcement was made by the Additional Solicitor General of the Attorney General, who appeared on behalf of the Attorney General, when a petition filed by the Epic Lanka Private Company was summoned yesterday (03).
+
+The Additional Solicitor General said that the committee had asked for a week's time to submit surveillance on the investigation.
+
+Accordingly, he requested the court to receive a date to announce the progress of these actions.
+
+President's Attorney K. Kanakeeswaran, who represented defendant companies to consider the request of their customers to remove the interim order issued by the court to prevent the purchase of passports. "
+
+Accordingly, the court adjourned the hearing on January 23.
+
+◼️
+
+[Data](articles/267a2a81.json)
+
+[Extended Data](ext_articles/267a2a81.ext.json)
+
+---
+
+### இந்தியாவின் 15 முதலீட்டார்கள் யாழ் வருகைதரவுள்ளனர் - துணை தூதரக முதன்மை நிர்வாக  அதிகாரி ராம் மகேஷ் தெரிவிப்பு
+
+*2024-12-04 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200372) · `ta`
+
+யாழ்ப்பாணத்திற்கு 15 முதலீட்டாளர்கள்  வருகை தர உள்ளார்கள் என்று  யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரக முதன்மை நிர்வாக  அதிகாரி ராம் மகேஷ் தெரிவித்தார்.
+
+வடக்கு மாகாண தொழிற்துறைத் திணைக்களம் யாழ் இந்தியத் துணைத் தூதரகம் இணைந்து நடத்தும் வடமாகாண தொழில்துறை வர்த்தகச் சந்தை நேற்று செவ்வாய்க்கிழமை (03)  காலை ஆரம்பமானது .
+
+மூன்று நாட்கள் நடைபெற உள்ள வட மாகாண தொழில்துறை வர்த்தகச் சந்தை நிகழ்வில் பிரதம விருந்தினராக கலந்து கொண்டு நாடா வெட்டி திறந்து வைத்து உரையாற்றும்போதே அவர் இதனை தெரிவித்தார்.
+
+வடக்கு மாகாண தொழிற்துறைத் திணைக்களம் பல்வேறு முயற்சிகளை செய்து உற்பத்தியாளர்களை ஊக்கப்படுத்தி வருகிறது. இதற்கு இந்திய துணை தூதரகம் உதவிகளை செய்து வருகிறது. உற்பத்திகளை சந்தைப்படுத்துகின்ற போது தான் உள்ளூர் உற்பத்தி வளர்ச்சி அடையும்.
+
+அதற்கு இத்தகைய சந்தை வாய்ப்புகள், கண்காட்சிகள் உதவும். இவை மூலம் உற்பத்திகளை அதிகரிக்க செய்வதுடன் உற்பத்திகளை அடுத்த தரத்திற்கு கொண்டு செல்வதற்கு ஊக்கப்படுத்த கூடியதாக இருக்கும்.
+
+...
+
+[Data](articles/e2566f99.json)
+
+---
+
+### A/L Examination Today Re -Start
 
 *2024-12-04 08:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-இன்று-மீண்டும்-ஆரம்பம்/175-348216) · `ta`
 
-சீரற்ற வானிலை காரணமாக ஒத்திவைக்கப்பட்ட கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சையின் இரண்டாம் கட்டப் பரீட்சை இன்று (04) மீண்டும் ஆரம்பமாகியுள்ளது.
+GCE A/L exam resumes today after weather delay. Postponed 6 days from Nov 27. Runs till Dec 20, then Dec 21-31.
 
-நவம்பர் 27ஆம் திகதி முதல் 06 நாட்களுக்கு ஒத்திவைக்க பரீட்சை திணைக்களம் நடவடிக்கை எடுத்திருந்தது.
+🟩
 
-பரீட்சை அட்டவணையில் குறிப்பிடப்பட்டுள்ளவாறு இன்று முதல் பரீட்சை நடவடிக்கைகள் இடம்பெறும் என பரீட்சைகள் ஆணையாளர் நாயகம்  அமித் ஜயசுந்தர குறிப்பிட்டுள்ளார்.
+The second phase of the GCE Advanced Level Examination, which was postponed due to inclement weather, has resumed today (04).
 
-அதன்படி, முன்னதாக வெளியிடப்பட்ட அட்டவணைப்படி இன்று முதல் டிசம்பர் 20 ஆம் திகதி வரை பரீட்சை நடைபெறும்.
+The Department of Examinations has taken steps to postpone the 6 days from November 27.
 
-பரீட்சை இடம்பெறாத தினங்களுக்கு டிசம்பர் 21 முதல் டிசம்பர் 31 வரை பரீட்சை நடைபெறும் என்றும் பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார். R
+The Commissioner General of Examinations Amit Jayasundara said that the examinations will be held from today as mentioned in the examination table.
+
+Accordingly, the exam will be held from today to December 20th.
+
+The exam will be held from December 21 to December 31, the Commissioner General of Examination Amit Jayasundara said that the exams are not held.. Remble
 
 ◼️
 
 [Data](articles/9ba4183a.json)
+
+[Extended Data](ext_articles/9ba4183a.ext.json)
 
 ---
 
@@ -68,6 +144,8 @@ The main opposition Democratic Party called for Yoon, who has been in office sin
 
 [Data](articles/4722e6b8.json)
 
+[Extended Data](ext_articles/4722e6b8.ext.json)
+
 ---
 
 ### Fair weather prevails across most areas; morning mist expected
@@ -85,6 +163,8 @@ The sea areas around the island will be slight, the Met. Department added.
 ◼️
 
 [Data](articles/00afe0b6.json)
+
+[Extended Data](ext_articles/00afe0b6.ext.json)
 
 ---
 
@@ -131,6 +211,40 @@ In addition, in other parts of the country, a balanced weather is said. (A)
 [Data](articles/b161b304.json)
 
 [Extended Data](ext_articles/b161b304.ext.json)
+
+---
+
+### Train crashes into a car that tries to cross the railway crossing
+
+*2024-12-04 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200370) · `ta`
+
+Train crashes into car at unsafe railway crossing; four injured.
+
+🟩
+
+A train crashed into a car that was not trying to cross the railway crossing.
+
+Four people were injured and admitted to the vacant hospital on Tuesday night.
+
+The accident occurred at an unsafe railway crossing near the Galle Sudarmarama Vihara.
+
+◼️
+
+[Data](articles/321f0ffc.json)
+
+[Extended Data](ext_articles/321f0ffc.ext.json)
+
+---
+
+### நம்பிக்கை வைப்பதற்கான ஒரு நேரம் ; காப்பாற்றுவதற்கு ஒரு உறுதிமொழி
+
+*2024-12-04 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200363) · `ta`
+
+செப்டெம்பர் ஜனாதிபதி தேர்தலையும் நவம்பர் பாராளுமன்ற தேர்தலையும் தொடர்ந்து இலங்கையில் ஏற்பட்ட அண்மைய அரசியல் நிலைமாறுதல் பாகுபாடு காட்டுகின்ற போக்கின் விளைவாக தோன்றிய ஆழமான பிரச்சினைகளை கையாளுவதற்கு ஒரு திருப்புமுனை வாய்ப்பை தருகிறது. பத்தாவது பாராளுமன்றத்தின் கூட்டத்தொடரை ஆரம்பித்து வைத்து தனது அரசாங்கத்தின் கொள்கை விளக்கவுரையை நிகழ்த்திய ஜனாதிபதி அநுரா குமார திசாநாயக்க இலங்கையில் இனவாதத்தையும் மதத் தீவிரவாதத்தையும் தடுப்பதில் கொண்டிருக்கும் உறுதிப்பாட்டை அழுத்திக் கூறினார்.
+
+...
+
+[Data](articles/b6693be7.json)
 
 ---
 
@@ -406,28 +520,6 @@ Presenting facts before Colombo Additional Magistrate Keminda Perera, Tennakoon 
 
 ---
 
-### Train crashes into a car that tries to cross the railway crossing
-
-*2024-12-04 03:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200370) · `ta`
-
-Train crashes into car at unsafe railway crossing; four injured.
-
-🟩
-
-A train crashed into a car that was not trying to cross the railway crossing.
-
-Four people were injured and admitted to the vacant hospital on Tuesday night.
-
-The accident occurred at an unsafe railway crossing near the Galle Sudarmarama Vihara.
-
-◼️
-
-[Data](articles/321f0ffc.json)
-
-[Extended Data](ext_articles/321f0ffc.ext.json)
-
----
-
 ### Parliamentary Session till 9.30pm tonight
 
 *2024-12-04 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200369) · `ta`
@@ -456,21 +548,31 @@ The referendum will be held at 05 pm. The adjournment debate on the disaster con
 
 ---
 
-### 'මම ගහන කුළුගෙඩි පහරට වඩා ක්‍රීඩිකාවක ලෙස මගේ දුව ශක්තිමත්'
+### 'My daughter is strong as a player than the copy of the kills
 
 *2024-12-04 02:59:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1ln4g1j835o) · `si`
 
-කුස මත තබා කළු ගල් කැඩීමට අදාළව ලෝක වාර්තාවක් පිහිටුවීමට පුහුණුවීම්වල නිරත වෙමින් සිටින බව කළු පටි ශ්‍රේණිධාරී කරාතේ ක්‍රීඩිකාවක වන විශ්මි නවෝද්‍යා මායාදුන්න පවසන්නීය.
+Here's a summary of the text in approximately 200 characters:
 
-ජාතික සහ ජාත්‍යන්තර තරග 50කට අධික සංඛ්‍යාවක් ජයග්‍රහණය කර ඇති ඇය, වයස අවුරුදු 12දී කළු පටි ශ්‍රේණිධාරියක වූවා ය.
 
-මේ වන විට 14 වන වියේ පසු වන විශ්මි, කුරුණෑගල, නාරම්මල මයුරපාද කනිෂ්ඨ විද්‍යාලයේ 9 ශ්‍රේණියේ අධ්‍යාපනය ලබයි.
 
-කරාතේ උපදේශකවරයෙකු හා විනිසුරුවරයෙකු වන සිය පියාගේ අධීක්ෂණය මත ඇය පුහුණු කටයුතුවල නිරත වෙයි.
+"My daughter excels in martial arts. She's won over 50 competitions, earned a black belt at 12, and is now in Grade 9. She trains under a karate consultant and judge."
+
+🟩
+
+A player of the Black Shop Nawodya Mayadunu say that it is being practiced on the womb on the womb.
+
+She won over 50 national and international competitions, she was a black belt grade at the age of 12.
+
+The 14th-year-old is now educated in Grade 9 of the Narammala Maurapeada Kanarka, Kurunegala.
+
+She is also training on the supervision of a karate consultant and a judge.
 
 ◼️
 
 [Data](articles/1f0d746d.json)
+
+[Extended Data](ext_articles/1f0d746d.ext.json)
 
 ---
 
@@ -1150,6 +1252,8 @@ During the 11.11 campaign, Audio, Skincare, Women’s Fashion, Beauty Tools, and
 
 [Data](articles/317bb8c4.json)
 
+[Extended Data](ext_articles/317bb8c4.ext.json)
+
 ---
 
 ### CIPM Sri Lanka concludes successful workshop on feedback and KPI mastery
@@ -1405,6 +1509,22 @@ Similarly, Sri Lanka's High Commissioner Senarath Dissanayake has said that the 
 [Data](articles/424e6bfb.json)
 
 [Extended Data](ext_articles/424e6bfb.ext.json)
+
+---
+
+### පාස්පෝට් ටෙන්ඩරය ගැන විමර්ශනයක් අරඹයි
+
+*2024-12-03 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ටෙන්ඩරය-ගැන-විමර්ශනයක්-අරඹයි/11-413441) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තුවට විද්‍යුත් විදේශ ගමන් බලපත්‍ර (ඊ-විදේශ ගමන් බලපත්‍ර) මිලියන 5ක් මිලදී ගැනීම සඳහා පසුගිය පාලන සමයේ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විමර්ශනයක් ආරම්භ කර ඇතැයි නීතිපතිවරයා අභියාචනාධිකරණයට පෙරේදා (02ද) දැනුම් දුන්නේය.
+
+විද්‍යුත් විදේශ ගමන් බලපත්‍ර මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා ඇති ආකාරය අභියෝගයට ලක් කරමින් එපික් ලංකා පුද්ගලික සමාගම ගොනු කර තිබූ පෙත්සම මෝසමක් මගින් කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතිඥ සුමති ධර්මවර්ධන මහතා එසේ දැනුම් දුන්නේය.
+
+අභියාචනාධිකරණ විනිසුරුවරුන් වන මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල හමුවේ සලකා බැලිණ.මෝසමකට අනුව අදාළ පෙත්සම කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා කරුණු දක්වමින් ඊ-විදේශ ගමන් බලපත්‍ර මිලියන පහක් මිලදී ගැනීමේ ටෙන්ඩරය පිරිනමා ඇති ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විමර්ශනයක් ආරම්භ කර ඇතැයි කීය.
+
+...
+
+[Data](articles/777b21ba.json)
 
 ---
 
@@ -2299,127 +2419,5 @@ Re-considered Ken to reconsider the offers and privileges provided by MPs, Minis
 [Data](articles/568c8822.json)
 
 [Extended Data](ext_articles/568c8822.ext.json)
-
----
-
-### Permission to Import Rice without License
-
-*2024-12-03 15:46:45* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-ලබා-ගැනීමකින්-තොරව-සහල්-ආනයනය-කිරීමට-අවසර/11-413425) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Cabinet removes rice import restrictions due to cultivation deficit from heavy rainfall. Permission granted to import rice without licenses until 12/20 days.
-
-🟩
-
-The Cabinet has consumed the temporary removal of existing limitations for the importation of rice in the local market and the deficit of rice cultivation due to heavy rainfall.
-
-Accordingly, up to 12/20 days without obtaining the import control licenses, it has been decided to provide permission to the country to import rice.
-
-◼️
-
-[Data](articles/a9a7acbc.json)
-
-[Extended Data](ext_articles/a9a7acbc.ext.json)
-
----
-
-### Sri Lanka stocks close up, driven by F&B, tobacco sector
-
-*2024-12-03 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-fb-tobacco-sector-125162/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader ASPI closed up 0.84 percent, or 126.97 points, at 13,355; while the more liquid S&P SL20 Index closed up 1.01 percent, or 39.39 points, at 3,949.
-
-Turnover was 3.2 billion. Most of this came from the food, beverage and tobacco sector (Rs783mn).
-
-Top turnover generators were Agarapatana Plantations (up at 9.00), Dipped Products (up at 45.90), Hatton National Bank (up at 235.25), Central Finance Company (up at 135.75), and ACL Cables (up at 98.50).
-
-Plantation stocks saw mixed interest; Kotagala (up at 6.70), Talawakelle (up at 128.00) and Namunukula (up at 376.50), Agalawatte (down at 41.50), Elpitiya (down at 111.25), and Balangoda (down at 71.60).
-
-Sunshine Holdings, which announced it was amalgamating Sunshine Packaging Lanka Limited, closed up at 73.80.
-
-LOLC Holdings (up at 459.25) and Royal Ceramics (up at 34.50) were among the top positive contributors to the ASPI.
-
-...
-
-[Data](articles/61a53ce8.json)
-
-[Extended Data](ext_articles/61a53ce8.ext.json)
-
----
-
-### Cabinet approves increase in “Aswesuma” benefits, extension of payment period
-
-*2024-12-03 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103968/cabinet-approves-increase-in-aswesuma-benefits-extension-of-payment-period-) · `en`
-
-The Cabinet of Ministers has approved amendments to the “Aswesuma” welfare benefits program while increasing the welfare benefit payments and extending the period of payments for certain vulnerable groups.
-
-The “Aswesuma” welfare benefits program has been implemented from 01 July 2023 and was revised by the Extraordinary Gazette Notification No. 2384/30 which came into effect from 01 July 2024. Under this welfare benefits program, the beneficiary families are entitled to benefit under 04 categories.
-
-Speaking at the Cabinet press briefing held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said since the impact of the economic crisis has not completely receded, there is a need to provide further short-term relief to families selected in the first round of applications for the program, in relation to transitional and vulnerable categories and families selected in the second round of applications for which the selection processes have commenced.
-
-...
-
-[Data](articles/ed825c9c.json)
-
-[Extended Data](ext_articles/ed825c9c.ext.json)
-
----
-
-### The railway employees killed in train accident
-
-*2024-12-03 15:37:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයෙක්-දුම්රියක-ගැටී-මරුට/11-413424) · `si`
-
-Sri Lal Premaratne (58), a railway worker, died after colliding with a locomotive at Kandy Railway Station.
-
-🟩
-
-An employee of the Railway Station at Kandy Railway Station
-
-The deceased has been identified as Sri Lal Premaratne (58) serving as a worker in the Railway Road.
-
-He had collided with a locomotive of the road to another railway train while he was train to another railway train while he was trained in the railway station at the railway station.Have died.
-
-◼️
-
-[Data](articles/765de10a.json)
-
-[Extended Data](ext_articles/765de10a.ext.json)
-
----
-
-### 23 Indian fishermen released conditional
-
-*2024-12-03 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200320) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-23 Indian fishermen arrested for fishing in Neduntivu Sea. Released on bail after paying fines & serving sentences. Three face additional 6-month imprisonment if fines unpaid.
-
-🟩
-
-23 Indian fishermen arrested. The Kayts Magistrate's Court has been released today (03).
-
-On November 10, 23 Indian fishermen arrested by the Navy have been released on conditions on charges of fishing in the Neduntivu Sea on the 10th of November.
-
-These 23 people today (03) Jaffna. In the presence of Magistrate Nalina Subhaskaran, the prison officials were produced before the Kayts Magistrate's Court.
-
-The magistrate, who examined the case, sentenced the Indian fishermen to 2 years in prison for six years.
-
-He also paid a fine of Rs 4 million each, as 3 of these 23 were sailboats and ordered them to be further sentenced to 6 months in prison.
-
-Failure to pay the fine should be sentenced to 6 months in prison for 3 months in prison.
-
-◼️
-
-[Data](articles/381ce708.json)
-
-[Extended Data](ext_articles/381ce708.ext.json)
 
 ---

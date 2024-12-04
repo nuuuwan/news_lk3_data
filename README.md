@@ -1,36 +1,322 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 10:42:33**
+As of **2024-12-04 11:43:33**
 
 ## Newspaper Stats
 
-*Scraped **58,369** Articles*
+*Scraped **58,393** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 443
+dbsjeyarajcom | 445
 colombotelegraphcom | 592
 bbccomsinhala | 609
 islandlk | 3,506
 economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,526
-adaderanalk | 7,083
-tamilmirrorlk | 8,304
-virakesarilk | 9,554
-adaderanasinhalalk | 10,076
+adalk | 5,527
+adaderanalk | 7,088
+tamilmirrorlk | 8,308
+virakesarilk | 9,556
+adaderanasinhalalk | 10,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,361 (100.0%) of 58,369 articles have been extended.
+58,376 (100.0%) of 58,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### யாருக்கு பார் அனுமதி பத்திரம்: மாலை தெரியும்
+
+*2024-12-04 11:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-பார்-அனுமதி-பத்திரம்-மாலை-தெரியும்/175-348226) · `ta`
+
+மதுபானசாலைகள் (பார்) அனுமதி பட்டியல் இன்று(04) மாலை பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என சுகாதார அமைச்சரின் ஆளும் கட்சியின் பிரதான அமைப்பாளர் நளிந்த ஜயதிஸ்ஸ பாராளுமன்றத்தில் தெரிவித்தார்.
+
+கடந்த சீசனில் சட்டவிரோதமாக பார் அனுமதி பெற்றவர்கள் தொடர்பில் மட்டக்களப்பு மாவட்ட சபை உறுப்பினர்  இராசமாணிக்கம் சாணக்கியன் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே நளிந்த ஜயதிஸ்ஸ மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/552654f7.json)
+
+---
+
+### Three new bills to recover stolen assets
+
+*2024-12-04 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204023) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Justice Minister Harshana Nanayakkara announced three new bills to Parliament aimed at recovering stolen assets in the current quarter."
+
+🟩
+
+Minister of Justice, Minister of Justice, Minister Harshana Nanayakkara told Parliament that three new bills were presented to the reorigning the stolen assets in the quarter.
+
+◼️
+
+[Data](articles/e3b1942d.json)
+
+[Extended Data](ext_articles/e3b1942d.ext.json)
+
+---
+
+### The couple's neck was cut and murdered in Ahangama;Suspect arrested
+
+*2024-12-04 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200382) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Couple murdered in Ahangama. Suspect arrested in Colombo. Investigation ongoing.
+
+🟩
+
+Ahangama police said that a suspect was arrested on Tuesday (03) in connection with the murder of a couple in a house in the Welhenkoda area of ​​the Ahangama police division.
+
+The suspect has been arrested in Colombo, Fort, during an investigation into the murder.
+
+◼️
+
+[Data](articles/2e0556aa.json)
+
+[Extended Data](ext_articles/2e0556aa.ext.json)
+
+---
+
+### Emergency Declaration in South Korea: Overnight withdrawn
+
+*2024-12-04 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்கொரியாவில்-அவசரநிலை-பிரகடனம்-ஒரே-நாளில்-வாபஸ்/50-348224) · `ta`
+
+South Korea emergency declaration cancelled after opposition protests. First use of Emergency Act in 50 years sparks widespread demonstrations and clashes between protesters and military.
+
+🟩
+
+It has been announced that it has been canceled by the opposition parties' struggle within a few hours of an emergency declared in South Korea.
+
+Speaking to the public yesterday (Dec. 03), South Korean President Yun Zak Yol announced that an emergency is being declared in the country to expel North Korean supporters from the country and suppress the anti -state forces.
+
+This is the first time the Emergency Act has been implemented in South Korea in 50 years. 190 MPs voted against this Emergency Act. They continued to protest in the parliamentary complex. Thousands of people gathered at the entrance of Parliament to protest the law and chanted slogans against South Korean President Yun Suk Yol.. The soldiers were immediately concentrated there.
+
+...
+
+[Data](articles/a3db18f3.json)
+
+[Extended Data](ext_articles/a3db18f3.ext.json)
+
+---
+
+### Legislation to recover stolen assets, deter money laundering & drug trafficking
+
+*2024-12-04 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103983/legislation-to-recover-stolen-assets-deter-money-laundering-drug-trafficking) · `en`
+
+Minister of Justice Harshana Nanayakkara stated that the Proceeds of Crime Bill, Rescue, Rehabilitation and Insolvency Bill and the amendments to the Audit Bill will be presented to the Parliament at the beginning of the next quarter.
+
+Meanwhile, the Justice Minister also mentioned that these legislations are aimed at recovering stolen assets, effectively deterring money laundering and drug trafficking.
+
+Furthermore, he added that the amendments to the Audit Act will improve creditor confidence and protect debtors’ rights.
+
+◼️
+
+[Data](articles/9470bf7c.json)
+
+---
+
+### ஒரு நிமிட மௌன அஞ்சலி...
+
+*2024-12-04 10:54:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஒரு-நிமிட-மௌன-அஞ்சலி/46-348223) · `ta`
+
+இலங்கை வரலாற்றில் மிக மோசமான விமான விபத்து  இடம்பெற்ற 50 வருட  பூர்த்தியை ஒட்டி  நோட்டன்பிரிட்ஜ் விமலசுரேந்திர நீர்த்தேக்கத்திற்கு அருகில் நிர்மாணிக்கப்பட்டுள்ள  நினைவுத் தூபியில், விபத்தில் உயிரிழந்தவர்களை நினைவு கூட்டி ஒரு நிமிட மௌன அஞ்சலி செலுத்தப்பட்டது.
+
+நோட்டன் பிரிட்ஜ் பொலிஸார் மற்றும்முச்சக்கரவண்டி சங்க உறுப்பினர்கள் இணைந்து இந்த நிகழ்வை ஏற்பாடு செய்திருந்தனர்.
+
+டிசம்பர் 4, 1974 அன்று, மார்ட்டின் ஏர் விமான நிறுவனத்திற்கு சொந்தமான  DC 08 விமானம்  இந்தோனேசியாவின் சுரவேயார் விமான நிலையத்திலிருந்து மக்காவை நோக்கி பயணித்துக்கொண்டிருந்த நிலையில்  இரவு 10:10 மணியளவில்,  நோட்டன் பிரிட்ஜ் ஏழு கன்னியர் மலை உச்சியில் மோதியதில் அதில் பயணித்த 182 பேர் மற்றும் 09 ஊழியர்கள் உயிரிழந்தனர்.
+
+அந்த விமானத்தின் ஒரு டயர் நோட்டன் பிரிட்ஜ் விமலசுரேந்திர நீர்த்தேக்கத்திற்கு அருகில் நினைவுச் சின்னமாக  வைக்கப்பட்டுள்ளதுடன் அதன் கீழ் பகுதியில்   ஊழியர்களின்  பெயர்கள் குறிப்பிடப்பட்டுள்ளன.
+
+மேலும் இதன் போது நினைவிடம் முன் மலர் தூவி, மெழுகுவர்த்தி ஏற்றி , இறந்தவர்களுக்கு ஒரு நிமிடம் மவுன அஞ்சலி செலுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/751aa36c.json)
+
+---
+
+### One minute silent tribute ...
+
+*2024-12-04 10:54:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒரு-நிமிட-மௌன-அஞ்சலி/76-348223) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Minute's silence honored victims of 1974 Martin Air crash near Wimalasurendra Reservoir. Organized by police and Muslim association. 182 passengers and 9 crew died when DC-8 plane crashed into trees. Memorial features aircraft tire and staff names. Flowers and candles added as tributes.
+
+🟩
+
+A minute's silent tribute was paid to the Memorial in the Memorial, constructed near the Notenpiridge Wimalasurendra Reservoir in the 50 years of the worst flight of Sri Lankan history.
+
+The event was organized by the Norton Bridge Police and members of the Muhammadal Association.
+
+On December 4, 1974, at around 10:10 pm, 182 people and 09 employees were killed when Martin Air Airlines owned DC 08 flight from Indonesia's Suraveyar airport crashed into a seven nuns.
+
+A tire of the aircraft is placed near the Wimalasurendra Reservoir, and the names of the staff are mentioned in the lower part.
+
+Also, the flower sprinkled in front of the memorial, lit the candle and paid a silent tribute to the dead.
+
+◼️
+
+[Data](articles/8c220a3e.json)
+
+[Extended Data](ext_articles/8c220a3e.ext.json)
+
+---
+
+### MP Sujith Sanjay Perera refutes assault allegations by MP Archchuna Ramanathan
+
+*2024-12-04 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103982/mp-sujith-sanjay-perera-refutes-assault-allegations-by-mp-archchuna-ramanathan) · `en`
+
+Samagi Jana Balawegaya (SJB) parliamentarian Sujith Sanjaya Perera has denied allegations of assault leveled against him by Jaffna District Independent MP Dr. Archchuna Ramanathan.
+
+The claims arose during the parliamentary session yesterday (03), where Dr. Archchuna alleged he was assaulted at the Opposition Leader’s Office in the Parliament Complex by MP Sujith Sanjaya Perera.
+
+In response, MP Perera clarified his stance today, stating: “There is no problem. The new MP Archchuna has made a statement that I attacked him. I never attacked him. However, an incident did occur at the office of the Leader of the Opposition. He came to the office and had an argument with the secretary of the leader of the opposition.  At that time, MP Alawathuwala and I sat nearby. I asked him to talk to the party leaders or the Speaker to resolve it. He said, ‘I did not come to talk to you,’ whereas I responded, mentioning I told you what we know.”
+
+...
+
+[Data](articles/12398b96.json)
+
+---
+
+### Kelum Jayasumana granted bail
+
+*2024-12-04 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103981/kelum-jayasumana-granted-bail) · `en`
+
+Social activist Kelum Jayasumana who was arrested for sharing Mahaviru commemoration posts on social media has been granted bail.
+
+He has been ordered to be released on bail after he was produced before Colombo Magistrate’s Court, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/9db9e622.json)
+
+[Extended Data](ext_articles/9db9e622.ext.json)
+
+---
+
+### Railway Track Surveillance Employee
+
+*2024-12-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200375) · `ta`
+
+A 58-year-old railway track surveillance employee died after being struck by a train while on duty in Kandy. He was drinking tea when he was hit by a train coming from Peradeniya to Kandy. The victim succumbed to injuries at Kandy National Hospital.
+
+🟩
+
+An employee who is engaged in railway surveillance at the railway station in Kandy has died.
+
+The deceased is a 58 -year -old man who works as a duck comparison from Kallalla, Kallalla, police said.
+
+While he was on duty, he came through the train to drink tea. At that time, he saw a railway train coming from Peradeniya to Kandy, and he has become a mutant to another train.
+
+It was reported that the train was traveling on the train engine and was admitted to the Kandy National Hospital and died without treatment.
+
+◼️
+
+[Data](articles/e0898ef5.json)
+
+[Extended Data](ext_articles/e0898ef5.ext.json)
+
+---
+
+### Kearumu commemoration commands
+
+*2024-12-04 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204022) · `si`
+
+Colombo Magistrate's Court releases social activist on bail over Mahaviu commemoration claims. Suspect accused of distributing false information about a banned event in the North. Court questions lack of evidence and CID's failure to submit statements.
+
+🟩
+
+The Colombo Magistrate's Court ordered Kelum Jayasumana, a social activist who was in charge of the distribution of Mahaviu commemoration in the North, was released on bail.
+
+The complaint was called before Colombo Major Magistrate Thilina Gamage today (04).
+
+The suspect had previously published a photograph of the Tigers who were banned by a woman in French by a woman in France.
+
+The officers mentioned that there was no such ceremony in the North.
+
+The suspects were further remanded as investigations were not completed and the CID officials demanded the officers of the CID.
+
+The Magistrate also asked the Criminal Investigation Department officials and asked whether the act was submitted to court.
+
+Responding to this, the CID officials said that such statements were not submitted to court.
+
+The Magistrate asked how the suspect would be remanded without evidence that a public turb was to be remanded without evidence.
+
+...
+
+[Data](articles/8a5efe56.json)
+
+[Extended Data](ext_articles/8a5efe56.ext.json)
+
+---
+
+### Cylinder's political bins a serious accusation of the conspiracy of racism
+
+*2024-12-04 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204021) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: Defense Minister accuses political party of racism conspiracy. Arrests made in North, South. Social media used to spread false information about ethnic tensions. Investigation ongoing involving multiple political groups.
+
+🟩
+
+The Minister of Defense and Parliamentary Affairs Ananda Wijepala said that there were photographies of Mahaviu commemorations in the North.
+
+This was stated in parliament today (04).
+
+The minister said that a political party had done such a political party in investigation into the incident.
+
+"One person in the North. A resident of Baddegama has been arrested and remanded until December 29. In addition, a man arrested in Maradana who mislead the masses in foreign countries to mislead the people.. The man arrested next to Boralesgamuwa remanded till today. He was a person who voted on the mark of the South's cylinder. In a campaign to prepare the background conflict to a confrontation of the North with the objective of organizing the government organized..  විශේෂයෙන්ම අත්අඩංගුවට ගත් පුද්ගලයින් දෙදෙනෙකුම සිලින්ඩරේ ලකුණින් ක්‍රියාකාරීන් විදියට ඉන්නවා. Who propagated these over the social media to an investigation. There is information that many political groups are involved in these. "
+
+◼️
+
+[Data](articles/9f8a7077.json)
+
+[Extended Data](ext_articles/9f8a7077.ext.json)
+
+---
+
+### Mill owners warn of looming rice shortage
+
+*2024-12-04 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103980/mill-owners-warn-of-looming-rice-shortage-) · `en`
+
+The All Ceylon Small and Medium Scale Mill Owners’ Association warns of a looming rice shortage if the government fails to import rice within the next two weeks.
+
+President of the Association U. K. Semasinghe emphasized the urgent need for a long-term strategy to address the recurring issue.
+
+“A systematic plan through the Paddy Marketing Board must be implemented during the’ Yala season’ to avoid future crises. Immediate steps to import rice are important as a short-term measure to mitigate the current shortage,” he stated.
+
+Semasinghe also highlighted the need for stricter regulation of rice used in beer production and animal feed, underscoring its impact on the nation’s food security.
+
+Adding to the discussion, former Director of Agriculture K. B. Gunaratne recommended replanting flood-hit paddy fields instead of merely providing compensation to affected farmers.
+
+◼️
+
+[Data](articles/6ac48a29.json)
+
+[Extended Data](ext_articles/6ac48a29.ext.json)
+
+---
 
 ### Arrested postman who distributed drugs
 
@@ -56,19 +342,61 @@ A Senior Police Officer said that a special police team was sent on Tuesday nigh
 
 ---
 
-### Sri Lanka rupee opens stronger at 290.45/65 to dollar
+### National Procurement Commission probing e-passport tender issue, court told
+
+*2024-12-04 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103979/national-procurement-commission-probing-e-passport-tender-issue-court-told) · `en`
+
+The Attorney General (AG) has informed the Court of Appeal that the National Procurement Commission of Sri Lanka is conducting an investigation into the method in which the previous government has granted the tender related to purchasing 5 million electronic passports for the Department of Immigration and Emigration.
+
+This was communicated to the court by Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of the Attorney General, when the petition filed by Epic Lanka Private Limited challenging the previous government’s decision to purchase 750,000 normal passports and 5 million e-passports from two foreign firms, was taken up on Tuesday (03).
+
+Furthermore, the Additional Solicitor General mentioned that the National Procurement Commission has requested a period of one week to submit observations related to the investigation. Therefore, he requested the court for a date to inform the progress of the relevant investigation.
+
+...
+
+[Data](articles/1ff385f6.json)
+
+[Extended Data](ext_articles/1ff385f6.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.45/65 to dollar, bonds steady
 
 *2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-125231/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said.
+ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were steady.
 
 An auction of Rs 192,500 million treasury bills was ongoing.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.40/50 percent.
+
+A bond maturing on 15.10.2027 was quoted at 10.22/25 percent, down from 10.25/35 percent.
+
+A bond maturing on 15.03.2028 was quoted stable at 10.50/55 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, up from 10.80/90 percent.
 
 In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 13,370. The more liquid S&P SL20 was up 0.22 percent, or 8.64 points, at 3,950.
 
 ◼️
 
 [Data](articles/9b4c2152.json)
+
+[Extended Data](ext_articles/9b4c2152.ext.json)
+
+---
+
+### මම අර්ච්චුනාට ගැහුවේ නෑ...සජබ මන්ත්‍රී චෝදනා ප්‍රතික්ෂේප කරයි
+
+*2024-12-04 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204020) · `si`
+
+පාර්ලිමේන්තුවේ විපක්ෂ නායක කාර්යාලය තුළදී ස්වාධීන මන්ත්‍රී රාමනාදන් අර්චුනා මහතාට පහර දුන් බවට කරන චෝදනා ප්‍රතික්ෂේප කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සුජිත් සංජය පෙරේරා මහතා පවසයි.
+
+ඊයේ (03) පාර්ලිමේන්තු රැස්වීමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/701fd457.json)
 
 ---
 
@@ -180,6 +508,26 @@ The exam will be held from December 21 to December 31, the Commissioner General 
 
 ---
 
+### ඉදිරි සති දෙකේ සහල් ආනයනය නොකළොත් ප්‍රශ්න ගොඩක්
+
+*2024-12-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204019) · `si`
+
+ඉදිරි සති දෙක ඇතුළත සහල් ආනයන කිරීම සඳහා රජය පියවර නොගත් හොත් දැඩි සහල් හිඟයක් ඇති වන බව සමස්ත ලංකා සුළු හා මධ්‍ය පරිමාණ වීමෝල් හිමියන්ගේ සංගමය පවසයි.
+
+එහි සභාපති යූ. කේ. සේමසිංහ මහතා සඳහන් කළේ, මෙම ගැටලුව විසඳීම සඳහා දීර්ඝ කාලීන වැඩපිළිවලක් සකස් කිරීම රජයේ වගකීමක් බවය.
+
+"දීර්ඝ කාලීන විසඳුමකට යා යුතුයි. එසේ නොගියොත් නැවත නැවත මේ අර්බුදයට යා හැකි වෙනවා. යල කන්නයේ වී මිලදී ගැනීමට වී අලෙවි මණ්ඩලය මඟින් මේ අර්බුදය යටපත් කිරීමට ක්‍රමවත් වැඩපිළිවෙලක් සකස් කළ යුතුයි. ඒ වගේම කෙටි කාලීන විසඳුමක් ලෙස රජය විසින් ඉතා ඉක්මනින් විදෙස් රටවලින් සහල් ආනයනය නොකළහොත් මේ තත්ත්වය තුළ වෙළෙඳපොළේ දැඩි සහල් හි﻿ඟයක් ඇති විය හැකිය."
+
+ඔහු සඳහන් කළේ බියර් සහ සත්ත්ව ආහාර නිෂ්පාදනය කිරීම සඳහා සහල් ලබා දීමේදී එය නියාමනය කිරීම ඉතා වැදගත් කාරණයක් බවය.
+
+මේ අතර පැවති ගංවතුර තත්ත්වයෙන් හානියට පත්වූ කුඹුරු සඳහා වන්දි ලබාදීම වෙනුවට ඒවා යළි වගා කිරීමට පියවර ගතයුතු බව හිටපු කෘෂිකර්ම අධ්‍යක්ෂ කේ. බී. ගුණරත්න මහතා පවසයි.
+
+◼️
+
+[Data](articles/08d8be4b.json)
+
+---
+
 ### South Korea’s President Yoon reverses martial law after lawmakers defy him
 
 *2024-12-04 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103978/south-koreas-president-yoon-reverses-martial-law-after-lawmakers-defy-him) · `en`
@@ -197,6 +545,26 @@ The main opposition Democratic Party called for Yoon, who has been in office sin
 [Data](articles/4722e6b8.json)
 
 [Extended Data](ext_articles/4722e6b8.ext.json)
+
+---
+
+### සිරිපාදේ ප්‍රතිසංස්කරණයට යැයි පවසා මුදල් ගරන ජාවාරමක් ?
+
+*2024-12-04 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204018) · `si`
+
+ශ්‍රී පාදස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු සඳහා බව පවසමින් මුදල් රැස්කිරීමේ සංවිධානයක් පිළිබඳ තොරතුරු අනාවරණය වී ඇති බව ගෞතම ශ්‍රී පාදස්ථානාධිපති පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි පවසයි.
+
+උන්වහන්සේ පවසන්නේ 'සමනල කන්ද රසික එකමුතුව' යැයි  සඳහන් සංවිධානයක් විසින් මෙම මුදල් රැස්කිරීම් සිදුකර ඇති බවය.
+
+"ඒ අය පරිසරය රකින්න කියලත් එක එක විදියට යෝජනා කරනවා. ඒ යෝජනා කරන අතරේ කූඨ ලෙස මිනිසුන් නොමඟ යවලා, ලක්ෂ ගණනක් ආධාර ලබාගන්න කටයුතු කරලා තියෙනවා. ඒ කිසිම කෙනෙකුට වැටේ තීන්ත ගාන්න හෝ ශ්‍රී පාදස්ථානය සුද්ධ පවිත්‍ර කරලා තීන්ත ආලේප කරන්න හෝ අපි භාරදීලා නෑ. ඒ හැමකෙනෙක්ම මහ දිසාපතිතුමාගෙන් අවසර ගන්න ඕනේ එහෙම නැත්නම් ඒ භාරකාරත්වයෙන් අවසර ගන්න ඕනේ. අවසර නොලබා කිසිවෙක් කරන්නේ නෑ. උඩ මලුවේ කරන වැඩ සම්මාදම් කිරීමෙන් තොරව සිදුකරන්නේ."
+
+නොයෙක් සංවිධානවලට මුදල් ලබා දීමෙන් වළකින ලෙස පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි ජනතාවගෙන් ඉල්ලා සිටියේය.
+
+කෙසේ වෙතත් මෙම චෝදනාව සම්බන්ධයෙන් අදාළ සංවිධානය මුහුණුපොතේ සටහනක් තබමින් සඳහන් කර ඇත්තේ, තම සංවිධානය අදාළ චෝදනාව තරයේ ප්‍රතික්ෂේප කරන බවය.
+
+...
+
+[Data](articles/e1860513.json)
 
 ---
 
@@ -242,11 +610,45 @@ The new time table related to the said dates will be provided to the students at
 
 ---
 
+### ඔක්තෝබරයේ අපනයන ඉහළට
+
+*2024-12-04 07:45:48* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්තෝබරයේ-අපනයන-ඉහළට/11-413443) · `si`
+
+2024 ඔක්තෝම්බර් මාසයේදී වෙළඳ භාණ්ඩ අපනයන කාර්ය සාධනය ඇමෙරිකානු ඩොලර් මිලියන 1,097.1 ක් වූ අතර එය 2023 ඔක්තෝබර් මාසයට සාපේක්ෂව 18.22% ක වර්ධනයක් ෙපන්නුම් කරන බව ශ්‍රී ලංකා රේගුව නිකුත් කළ තාවකාලික දත්තවලට අනුව පෙන්වයි.
+
+එසේම 2024 සැප්තැම්බර් මාසයට සාපේක්ෂව 2024 ඔක්තෝම්බර් මාසයේදී අපනයන කාර්ය සාධනය 8.44% කින් වැඩි විය.
+
+2024 ඔක්තෝබර් මාසය සඳහා සේවා අපනයනවල ඇස්තමේන්තුගත වටිනාකම ඇමෙරිකානු ඩොලර් මිලියන 323.17 ක් වූ අතර එය 2023 අනුරූප කාලපරිච්ඡේදයට වඩා 19.75% කින් වැඩි විය.
+
+එහි ප්‍රතිඵලයක් වශයෙන්, 2024 ඔක්තෝම්බර් මාසය සඳහා වෙළඳ භාණ්ඩ සහ සේවා යන දෙකම ඇතුළුව මුළු අපනයනය, 2023 අනුරූප කාලපරිච්ඡේදයට වඩා 18.57% ක වර්ධනයක් සහිතව, ඇමෙරිකානු ඩොලර් මිලියන 1,420.27 ක් ලෙස වාර්තා විය.
+
+◼️
+
+[Data](articles/9a87f00b.json)
+
+---
+
+### අහංගම ද්විත්ව මනුෂ්‍ය ඝාතනයට සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-12-04 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204016) · `si`
+
+අහංගම පොලිස් වසමේ වැල්හෙන්ගොඩ ප්‍රදේශයේ නිවසක යුවළකගේ ගෙල කපා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, පසුගිය ඔක්තෝබර් මස 4 වනදා මෙම ඝාතනයන් සිදුව තිබූ බවය.
+
+ඒ අනුව සිදුකළ විමර්ශනවලින් අනතුරුව ඊයේ (03) දහවල් ගාල්ල කොටුව ප්‍රදේශයේ දී අහංගම පොලීසියේ නිලධාරීන් විසින් අදාළ සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/36c12e54.json)
+
+---
+
 ### Sri Lanka central bank net foreign reserves just above zero
 
 *2024-12-04 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-foreign-reserves-just-above-zero-191861/) · `en`
 
-ECONOMYNEXT – Sri Lanka net foreign reserves moved to positive territory in October 2024, with about 63 million over its reserve related liabilities, official data shows, after two years of deflationary policy with interest rates to match.
+ECONOMYNEXT – Sri Lanka net foreign assets moved to positive territory in October 2024, with about 63 million dollars over its reserve related liabilities, official data shows, after two years of deflationary policy with interest rates to match.
 
 Sri Lanka’s central bank’s reserves became negative by 4.6 billion after rate cuts were enforced by inflationary direct and open market operations.
 
@@ -259,6 +661,26 @@ When reserves were hitting negative territory during the last currency crisis, t
 ...
 
 [Data](articles/a0be26e2.json)
+
+[Extended Data](ext_articles/a0be26e2.ext.json)
+
+---
+
+### ඊ පාස්පෝට් මිලියන පහක් මිලදී ගැනීමේ සිද්ධිය ගැන අධිකරණයට දැනුම්දීමක්
+
+*2024-12-04 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204015) · `si`
+
+ඉකුත් රජය සමයේ ආගමන හා විගමන දෙපාර්තමේන්තුවට "ඊ විදේශ ගමන් බලපත්‍ර" මිලියන 05ක් මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විසින් විමර්ශනයක් සිදුකරන බව නීතිපතිවරයා අභියාචනාධිකරණයට දැනුම් දී තිබේ.
+
+එම විදේශ ගමන් බලපත්‍ර මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය අභියෝගයට ලක් කරමින් එපික් ලංකා පුද්ගලික සමාගම විසින් ඉදිරිපත් කළ පෙත්සම ඊයේ (03) මෝසමක් මාර්ගයෙන් කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් සුමති ධර්මවර්ධන මහතා මෙම දැනුම් දීම සිදුකළේය.
+
+මෙම පෙත්සම මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින් කියා සිටියේ, මෙම ඊ විදේශ ගමන් බලපත්‍ර මිලියන පහක් මිලදී ගැනීමේ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විසින් විමර්ශනයක් ආරම්භ කර තිබෙන බවය.
+
+...
+
+[Data](articles/cbaeecd7.json)
 
 ---
 
@@ -283,6 +705,46 @@ In addition, in other parts of the country, a balanced weather is said. (A)
 [Data](articles/b161b304.json)
 
 [Extended Data](ext_articles/b161b304.ext.json)
+
+---
+
+### උසස් පෙළ විභාගයේ දෙවන අදියර අද සිට ඇරඹේ
+
+*2024-12-04 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204014) · `si`
+
+කල්දැමූ අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ දෙවන අදියර අද (04) සිට යළි ආරම්භ වීමට නියමිතය.
+
+දිවයිනට බලපා තිබූ අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් නොවැම්බර් මස 27 වන දින සිට දින 06ක කාලයක් උසස් පෙළ විභාගය කල්දැමීමට විභාග දෙපාර්තමේන්තුව පියවර ගත්තේය.
+
+විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කළේ, විභාග කාලසටහනේ සඳහන් පරිදි අද සිට විභාග කටයුතු සිදුකෙරෙන බවය.
+
+ඒ අනුව අද සිට දෙසැම්බර් මස 20 වන දින දක්වා මීට පෙර නිකුත් කළ කාලසටහන අනුව විභාගය පැවැත්වෙනු ඇත.
+
+විභාගය නොපවැත්වු දිනයන් සඳහා දෙසැම්බර් 21 වනදා දක්වා දෙසැම්බර් 31 වනදා දක්වා විභාගය පැවැත්වෙන බව ද විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+
+ඒ අනුව නව කාලසටහන දෙසැම්බර් මස 7 වන සෙනසුරාදා සියලු විභාග අපේක්ෂකයින් වෙත ලබාදීමට නියමිතය.
+
+මේ අතර තවදුරටත් මාර්ග අවහිරතා ඇති ප්‍රදේශවල දරුවන්ට ළඟම විභාග මධ්‍යස්ථානය වෙත ගොස් විභාගයට පෙනී සිටීමට හැකියාව පවතින බව ද විභාග කොමසාරිස්වරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/f4f34cb8.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-12-04 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204012) · `si`
+
+මධ්‍යම, වයඹ, උතුරු මැද සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවය.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+◼️
+
+[Data](articles/8d925eec.json)
 
 ---
 
@@ -995,6 +1457,56 @@ We have set up a new government with the people of all ethnic groups. The govern
 [Data](articles/8724ca2d.json)
 
 [Extended Data](ext_articles/8724ca2d.ext.json)
+
+---
+
+### Will Anura Kumara  Dissanayake’s NPP Govt  Order an Official  Probe Into the  “Unofficial Execution”  of JVP  Founder – Leader  Rohana Wijeweera 35 Years ago?
+
+*2024-12-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85154) · `en`
+
+November 13 is a date of great significance as far as the  Janatha  Vimukthi Peramuna(JVP)  – known as the Makkal Viduthalai Munnani in Tamil and People’s Liberation Front in English-is concerned. It was on  13 November 1989 that the JVP’s charismatic founder-leader  Rohana Wijeweera.  Since 1994 the JVP has been annually conducting an  event to commemorate Wijeweera and the lives of thousands of JVP cadres killede in the two insurgencies of 1971 and 1987-89. The commemoration of heroes event called “Il Maha Viru Samaruwa” is a blend of speeches and songs and is usually held on the 13th of November..
+
+...
+
+[Data](articles/90becc03.json)
+
+[Extended Data](ext_articles/90becc03.ext.json)
+
+---
+
+### The Serial stupidity of  SJB leader Sajith Premadasa whose decision to run against Ranil Wickremesinghe in Presidential election assured the mutual destruction of both and played into the hands of the NPP and Anura Kumara Dissanayake.
+
+*2024-12-04 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85165) · `en`
+
+The political Opposition in this country has yet again reduced to insignificance. This is a precarious existence for politics and the country at large, though this has been a recurrent phenomenon throughout the 2010s. Only the travails have incrementally worsened:
+
+In 2010, during the second term of Mahinda Rajapaksa’s presidency, the UPFA won 144 seats, a tad short of the two-thirds majority, which was compensated with the pole vaulters from the Opposition to pass the 18th Amendment to the Constitution, which decimated the independent commissions and removed the term limits of the presidency.
+
+The same misfortune was revisited in 2020 when the Sri Lanka People’s Freedom Alliance, led by Pohottuwa, won 145 seats against Samagi Jana Balawegaya’s 54 seats. Bolstered by the overwhelming parliamentary majority, Gotabaya Rajapaksa instituted some of the stupidest policy decisions, effectively bringing the economy crashing down to the ground.
+
+...
+
+[Data](articles/967ba6b4.json)
+
+[Extended Data](ext_articles/967ba6b4.ext.json)
+
+---
+
+### If Chabad-Lubavitch Movement is given a legal foothold in Arugam Bay, it may not be long before our own Muslims are accused of antisemitism and of igniting a pogrom! Imagine with what glee the BBS/Sinhala Ravaya types would hop on that bandwagon.
+
+*2024-12-04 00:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85161) · `en`
+
+“Don’t let it happen. It depends on you.” – George  Orwell (1984)
+
+They are back, creeping out  of the woodwork. The gathering outside Colombo’s main railway station was mercifully small, just the mandatory monk and a handful of civilians. Having offered flowers to a statue of the Buddha, they proceeded to violate his teachings by trying to ignite an ethno-religious fire.
+
+Their target was the welcome decision by the NPP/JVP Government to release some of the military-occupied land in the north to their original owners.
+
+The monk accused President Anura Kumara Dissanayake of being a diaspora agent trying to rejuvenate the Tigers and start the next Eelam War. Madubhashana Prabath, the secretary of Sinhala Ravaya, called the new president King Elara of Tambuttegama and promised to struggle till the ‘last drop of blood’ to ‘save the nation’. (https://www.youtube.com/watch?v=oc613tLk3Cs).
+
+...
+
+[Data](articles/a3f01d20.json)
 
 ---
 
@@ -1809,629 +2321,5 @@ Police said they have not yet received any information about the suspect who car
 [Data](articles/76239682.json)
 
 [Extended Data](ext_articles/76239682.ext.json)
-
----
-
-### Advanced Level will be resumed today
-
-*2024-12-03 18:35:55* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-අද-සිට-යළි-ඇරඹෙයි/11-413438) · `si`
-
-Advanced Level exams resume today due to weather. Subjects: Chemistry, Technology, Arts, Sinhala, Tamil, English. New schedule available on Examination Department website. Public test on December 7.
-
-🟩
-
-The Advanced Level Examination will commence today (04) due to the inclement weather.
-
-At the time of the bad weather conditions in the country, the 27th, 28 29, had decided not to hold A / L.
-
-The examination was suspended yesterday (3), and the examination will commence today.
-
-Accordingly, the subjects will be launched today (4 days) and that the examination will be held on the 20th of this month.
-
-According to the period of time, the first sheet of chemistry and the first sheet of chemistry and the first leafleo of technology and the arts of technology is the first sheet of the first leaflets of Sinhala, Tamil and English.
-
-Tuesday on November 27: Thursday, December 23, on November 23, the subjects that were not on November 28 on November 28, the subjects not on December 28, December 28, December 28, December 28, December 28On Tuesday, on Tuesday, is scheduled to be held on December 31st December
-
-...
-
-[Data](articles/5439276c.json)
-
-[Extended Data](ext_articles/5439276c.ext.json)
-
----
-
-### Litro gas prices do not change
-
-*2024-12-03 18:31:03* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-වෙනස්-නොවෙයි/11-413437) · `si`
-
-Litro gas prices remain unchanged in December. Despite international market increases, the company decided against raising local prices.
-
-🟩
-
-Litro Company says Litro domestic gas prices do not change for December month.
-
-The company says that LP gas prices have increased in the international market, but the people decided not to increase the price of gas.
-
-◼️
-
-[Data](articles/58f6ab12.json)
-
-[Extended Data](ext_articles/58f6ab12.ext.json)
-
----
-
-### One person arrested with heroin drugs in Anuradhapura
-
-*2024-12-03 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200330) · `ta`
-
-Arrest made in Anuradhapura: 31-year-old suspect caught with 510ml heroin during police operation.
-
-🟩
-
-A suspect has been arrested on Monday (02) with heroin in the area of ​​the police division, police said.
-
-The suspect has been arrested during a roundup on the basis of confidential information received by the police.
-
-The arrested suspect is 31 years old from Mahavilachiya.
-
-The drug has been seized by the police by the suspect, 510 ml of heroin.
-
-◼️
-
-[Data](articles/13788a17.json)
-
-[Extended Data](ext_articles/13788a17.ext.json)
-
----
-
-### The person called Sujith hit me - MP Archuna
-
-*2024-12-03 18:01:46* · [`adalk`](https://www.ada.lk/breaking_news/සුජිත්-කියන-පුද්ගලයා-මට-ගැහුවා---මන්ත්‍රී-අර්චුනා/11-413435) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Opposition MP Archuna Ramanathan claims assault by MP Sujith Sanjaya in Parliament. Sujith denies attack. Speaker lodged complaint. Parliamentarians debate incident, calling for protection measures.
-
-🟩
-
-Speaker Dr. Asoka Ranwala has lodged a complaint with the opposition MP to assassinate another opposition MP.
-
-UNP Jaffna District Independent MP Archuhane Ramanathan said that he was assaulted by MP Sujith Sanjaya.
-
-Sujith Sanjaya Skin said he would deny that he was attacked.
-
-There are MPstock who plays Tiktok that plays this Parliament in Parliament. We saw a Member of Parliament from Jaffna district. If MPs who sat in the chair of the Opposition's chair, you will take the necessary steps to protect the supreme that this Parliament cannot protect this Parliament. Don't let her go to work.
-
-Independent MP Archuvuna Ramanathan - I have come to the first time. I went to talk to the Opposition's office. See the time to me. Then the man named Sujith was hit me. If this happens in Parliament, how do we go on the roads?
-
-Deputy Chairman of Committees, Heerasekera - A complaint to Speaker.
-
-Independent MP Archuvan Ramanathan - this guy hit me because of the chair.
-
-...
-
-[Data](articles/26d593fd.json)
-
-[Extended Data](ext_articles/26d593fd.ext.json)
-
----
-
-### Sujith denied Archana's accusation
-
-*2024-12-03 17:56:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவின்-குற்றச்சாட்டை-மறுத்தார்-சுஜித்/175-348191) · `ta`
-
-Sujith denies Archana's claim, says he didn't attack anyone. United People's Power MP responds to Jaffna MP's accusation of brutality.
-
-🟩
-
-Sujith Sanjay Perera, United People's Power MP of the Kegalle District, said he did not attack anyone.
-
-Sanjay Perera was responding to the allegation of Jaffna MP Ramanathan Archana.
-
-Jaffna Independent Member said he came to the office of the opposition leader and behaved very brutally.
-
-◼️
-
-[Data](articles/060acf04.json)
-
-[Extended Data](ext_articles/060acf04.ext.json)
-
----
-
-### Sri Lanka’s Lion Brewery eyes export boost with innovative beers
-
-*2024-12-03 17:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-eyes-export-boost-with-innovation-plant-191708/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Lion Brewery (Ceylon) Plc is planning to boost exports with the help of a newly set up plant, where new beers will be developed and tested, targeting foreign markets, Chief Executive Rajiv Meewakkala said.
-
-Lion Brewery already exports about 20 million dollars of beer to the Maldives, where it is the market leader, the Middle East and East Africa.
-
-In the Maldives Lion Brewery also has rights to export Carlsberg which it produces under license in addition to its own brand.
-
-Over the next five years the firm expects to boost exports to 35 million dollars or 20 percent of its output.
-
-The domestic market had been hit by currency collapses and tax hikes and is usually grows only 2 to 3 percent a year.
-
-Lion Brewery has a plant with an annual capacity of 200 million litres, of which only 160 million is utilized at the moment leaving spare capacity. About 15 percent of the product is already exported.
-
-...
-
-[Data](articles/9f2f04ae.json)
-
-[Extended Data](ext_articles/9f2f04ae.ext.json)
-
----
-
-### Sri Lanka’s Lion Brewery eyes export boost with innovative beers
-
-*2024-12-03 17:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-eyes-export-boost-with-innovative-beers-191708/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Lion Brewery (Ceylon) Plc is planning to boost exports with the help of a newly set up plant, where new beers will be developed and tested, targeting foreign markets, Chief Executive Rajiv Meewakkala said.
-
-Lion Brewery already exports about 20 million dollars of beer to the Maldives, where it is the market leader, the Middle East and East Africa.
-
-In the Maldives Lion Brewery also has rights to export Carlsberg which it produces under license in addition to its own brand.
-
-Over the next five years the firm expects to boost exports to 35 million dollars or 20 percent of its output.
-
-The domestic market had been hit by currency collapses and tax hikes and is usually grows only 2 to 3 percent a year.
-
-Lion Brewery has a plant with an annual capacity of 200 million litres, of which only 160 million is utilized at the moment leaving spare capacity. About 15 percent of the product is already exported.
-
-...
-
-[Data](articles/afd2225f.json)
-
----
-
-### Allowance to take schools
-
-*2024-12-03 17:53:01* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පොත්-පත්-ගන්න-දරුවන්ට-දීමනාවක්/11-413434) · `si`
-
-Here's a 200-character summary:
-
-
-
-Government grants school children storage materials allowance. Affects 55% of students due to economic crisis. Cabinet approves plan to minimize impact on education.
-
-🟩
-
-The government has decided to grant school children to obtain school storage materials.
-
-Accordingly, a allowance of Rs.
-
-Allowance of the children, mother, or father who have lost children who are not included in the properties of parents, children, children of child home children and special reasons for special causes of children.It has been decided to be provided through the Ministry of Higher Education and Professional Education.
-
-Due to the adverse effects of the economic crisis has had a negative impact on the education of schoolchildren and that the 55% of school children has affected the education of the school children.
-
-...
-
-[Data](articles/91dfd191.json)
-
-[Extended Data](ext_articles/91dfd191.ext.json)
-
----
-
-### I hit me in Parliament - MP Archuna
-
-*2024-12-03 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204002) · `si`
-
-MP Archuna assaulted in Parliament office dispute resolution apology
-
-🟩
-
-Jaffna District Independent MP Dr. Ramanathan Archuna said he had assaulted him at the Opposition Leader's Office in the Opposition Office.
-
-He said that a man named Sujith was assaulted by a statement in Parliament.
-
-"I went to the Opposition Leader's Office at about 2:30. I asked how to allocate this time. I hadn't communicated to me today. Do you have my time tomorrow?Not?Went to ask. There were officers there. They took me to another room. They said I could give me like 4 in the afterm of four. "
-
-"I asked how that order how you would be. Then Manujith was told to go to the man and another. They decide. "
-
-"Then I said they can't make a single decision. As a party leader, I need to answer that. Then the man named Sujith hit me. I don't want to hit him. He's my father's age. So didn't hit. "
-
-When the MP was sitting in the Opposition Leader's seat, he was now sitting at the Opposition Leader's seat.
-
-...
-
-[Data](articles/152884c5.json)
-
-[Extended Data](ext_articles/152884c5.ext.json)
-
----
-
-### Foreigners bet on Sri Lanka papers for 11th straight week
-
-*2024-12-03 17:39:00* · [`economynextcom`](https://economynext.com/foreigners-bet-on-sri-lanka-papers-for-11th-straight-week-191683/) · `en`
-
-ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the 11th straight week ended on November 29, the Central Bank data showed.
-
-Analysts said the island nation’s deflationary policies and import curbs amid declining interest rates have made some investors buy before making some profits due to appreciation of the rupee currency.
-
-Sri Lanka saw 2.86 billion rupees ($9.86 million at 1 US dollar = 290 LKR) inflow into government securities in the week ended on November 29, extending the total inflows into treasury bonds and bills to 19.1 billion rupees ($65.7 mln) in the last 11 straight weeks, the official data showed.
-
-The value of government securities held by foreign investors was at 58,405 million rupees by November 29.
-
-“As foreign investors expected, there was a policy rate cut last week and the rupee is still under appreciation pressure. This means they can now have their capital gains on their investment,” a currency dealer told EconomyNext.
-
-...
-
-[Data](articles/1eb0bde1.json)
-
-[Extended Data](ext_articles/1eb0bde1.ext.json)
-
----
-
-### SJB MP attacked me; Archana's new accusation
-
-*2024-12-03 17:31:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SJB-எம்-பி-என்னைத்-தாக்கினார்-அர்ச்சுனா-புதிய-குற்றச்சாட்டு/175-348188) · `ta`
-
-SJB MP Sujith Sanjaya Perera accused of attack by Archana. She claims he was assaulted while visiting opposition leader's office. SJB's Nalin Bandara defends Perera, calling Archana's actions inappropriate. Perera denies allegations, claims Archana threatened him.
-
-🟩
-
-Jaffna District Independent Parliamentarian Ramanathan Archana says that SJB parliamentarian Sujith Sanjaya Perera was attacked when he went to the office of the opposition leader.
-
-Archana said she had gone to inquire about the time allotted to his parliamentary speech to the office of the opposition leader.
-
-"If such incidents occur inside the parliamentary complex, how can we walk on the street?"He questioned.
-
-The Chairman MP asked the Speaker to lodge a complaint about the matter.
-
-Meanwhile, SJB Parliamentarian Nalin Bandara has said that Parliamentarian Archana has behaved in front of the Opposition Leaders Secretary of the Opposition and that the words that are out of Parliament have been abolished.
-
-Parliamentarian Sujith Sanjaya Perera has said that he has rejected the allegation and that MP Archana has threatened him.
-
-◼️
-
-[Data](articles/9d1a5471.json)
-
-[Extended Data](ext_articles/9d1a5471.ext.json)
-
----
-
-### Sri Lanka’s Sampath Bank to raise Rs10bn in debenture issue
-
-*2024-12-03 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-to-raise-rs10bn-in-debenture-issue-124522/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Sampath Bank said it plans to raise up to 10 billion rupees through an issue of 100 million debentures at 100 rupees each, to strengthen its Tier 2 Capital Base.
-
-The bank said it will initially issue 50 million Basel III compliant – tier 2, listed, rated, unsecured, subordinated, redeemable 5-year debentures with a non-viability conversion feature to raise 5 billion rupees.
-
-With an option to increase this by a further 2 billion rupees by issuing another 20 million debentures “at the discretion of the Bank in the event of an over subscription of the initial issue,” the bank said in a stock exchange filing.
-
-In the event of an oversubscription of the initial issue and the second tranche issuance, the bank will issue another 30 million debentures to raise 3 billion more, it said.
-
-...
-
-[Data](articles/e7af54af.json)
-
-[Extended Data](ext_articles/e7af54af.ext.json)
-
----
-
-### 337 drugs purchased locally
-
-*2024-12-03 17:24:40* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-337ක්-දේශීයව-මිලදී-ගනියි/11-413433) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"337 drugs procured locally: 42 from State Pharmaceutical Manufacturing Corporation (Rs 5,398.83M), 131 from joint venture partners (Rs 16,611.42M), 36 from new local manufacturers (Rs 9,022.10M), and 130 from newly selected manufacturers (Rs 13,655M)."
-
-🟩
-
-Cabinet approval has been granted to procure essential medical supply from the State Pharmaceutical Manufacturing Corporation and local pharmaceuticals.
-
-The approval was granted at the Cabinet Meeting held on 14-10-10 to the next year, to purchase local manufacturers who were identified for a next year.
-
-Accordingly, the State Pharmaceutical Manufacturing Corporation has signed the joint venture agreements to be signed with the Ministry of Pharmaceful Manufacturers, the local manufacturers who have signed the joint venture agreements and the drug types of domestic manufacturers who have already been uncontractive.4 The Ministry of Health and the Ministry of Health and the Ministry of Health has been prepared.
-
-The Motion presented by the Cabinet of Health and Mass Media has been approved by the Cabinet of Health and Mass Media to offer the following procurements based on these 4 lists.
-
-...
-
-[Data](articles/b9c2f79a.json)
-
-[Extended Data](ext_articles/b9c2f79a.ext.json)
-
----
-
-### Opens Kotmale muddy sluice
-
-*2024-12-03 17:19:36* · [`adalk`](https://www.ada.lk/breaking_news/කොත්මලේ-මඩ-සොරොව්ව-විවෘත-කරයි/11-413432) · `si`
-
-Kotmale Reservoir sluice gates opened automatically due to heavy rains. Anura Seneviratne from Mannar reported this incident on 03.
-
-🟩
-
-Anura Seneviratne, Mannar, said that the sluice gates of the Kotmale Reservoir have been opened today (03).
-
-The sluice gates of the reservoir were automatically opened due to the heavy rains of the reservoir.
-
-◼️
-
-[Data](articles/94ebcb49.json)
-
-[Extended Data](ext_articles/94ebcb49.ext.json)
-
----
-
-### Reubiotic Cuki Kelu Saule Kenusa Ruwan. 11 student
-
-*2024-12-03 17:15:32* · [`adalk`](https://www.ada.lk/picture_story/රූබික්-කියුබි-1200කින්-ජනපතිගේ-රුව-සකසා-වෝලන්-ලෝක-වාර්තාවක්-තැබූ-අවු--11ක-සිසුවා/10-413431) · `si`
-
-Here's a 200-character summary:
-
-
-
-11-year-old boy sets Rubik's Cube world record. Creates 1200-cube structure in 61x58 hours. Supervised by 26 countries. Royal College, Colombo. Parents and family members present.
-
-🟩
-
-The 11-year-old boy was able to create a 'Cholan "world record using 1200 Rubet Cube.
-
-The report was placed in the Royal College, Royal College, Colombo, creating a 61 × 58 hours using a 61 × 58 hours.
-
-The report was created in the Yakkala Ranaviru Apparel and this was done under the supervision of 26 countries in the world, including Europe.
-
-Captain Indranath Indranath Indranath Perera, chairman of the Sri Lankan Bau of the Sri Lanka (A child), said:
-
-The creation of the establishment of a global report by the Vice President of the Chock Book of World Book Kapunani Raja, Sri Lanka Branch Chairman Kaparans Samuel, Chairman of the Sri Lanka Branch of Germany, were named Vince Seaplane.
-
-The oldest child, Amunugoda child, has been included in Royal College, Colombo five runs.
-
-Sasnula composed the Sasnula, the father of the child, Tricky Lakmal, the father of the child, Tricky Lakmal, the father of the child, is Ms. Deepika Kumari.Family members were together.
-
-◼️
-
-[Data](articles/6a9dbd64.json)
-
-[Extended Data](ext_articles/6a9dbd64.ext.json)
-
----
-
-### Committee report on privileges of MPs and ex-Presidents currently under study - Govt
-
-*2024-12-03 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103971/committee-report-on-privileges-of-mps-and-ex-presidents-currently-under-study-govt) · `en`
-
-The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that the report of the committee headed by former Supreme Court Justice K.T. Chitrasiri, which was appointed to review the allowances, perks and privileges provided to Members of Parliament, Ministers and former Presidents, is currently being studied.
-
-The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa communicated this during the Cabinet press briefing held today (03).
-
-“After the president was elected, a committee was appointed to investigate the privileges of the Ministers which was headed by the former Supreme Court Justice K.T. Chitrasiri .Their report was handed over to the President yesterday. Its recommendations are currently being studied,” he added.
-
-The Cabinet Spokesman further stated that the committee has presented recommendations to assess and review the limitation of claims, allowances and privileges granted to Members of Parliament (MPs), Ministers, and former Presidents.
-
-...
-
-[Data](articles/15f5a665.json)
-
-[Extended Data](ext_articles/15f5a665.ext.json)
-
----
-
-### Air Ceilao seeks Sri Lanka approval for domestic, international charter flights
-
-*2024-12-03 16:56:00* · [`economynextcom`](https://economynext.com/air-ceilao-seeks-sri-lanka-approval-to-operate-domestic-international-charter-flights-191591/) · `en`
-
-ECONOMYNEXT – Air Ceilao, a new private aircraft operator, has sought approval from the Civil Aviation Authority of Sri Lanka, to operate domestic and international charter flights to transport passengers and cargo, an official document showed.
-
-The CAASL in a public notice said Air Ceilao, a new operator, has sought “an Air Operator Certificate and Airline Licence to engage in domestic charter and regular transport operations and international charter and regular transport operations carrying passengers, cargo, and mail in compliance with Civil Aviation Act..”
-
-The CAASL said it would proceed with the certification process of the application after January 8, 2025 to examine the degree of Air Ceilao’s compliance with the applicable legislative provisions.
-
-...
-
-[Data](articles/38aff798.json)
-
-[Extended Data](ext_articles/38aff798.ext.json)
-
----
-
-### Air Ceilao seeks Sri Lanka approval for domestic, international charter flights
-
-*2024-12-03 16:56:00* · [`economynextcom`](https://economynext.com/air-ceilao-seeks-sri-lanka-approval-for-domestic-international-charter-flights-191591/) · `en`
-
-ECONOMYNEXT – Air Ceilao, a new private aircraft operator, has sought approval from the Civil Aviation Authority of Sri Lanka, to operate domestic and international charter flights to transport passengers and cargo, an official document showed.
-
-The CAASL in a public notice said Air Ceilao, a new operator, has sought “an Air Operator Certificate and Airline Licence to engage in domestic charter and regular transport operations and international charter and regular transport operations carrying passengers, cargo, and mail in compliance with Civil Aviation Act..”
-
-The CAASL said it would proceed with the certification process of the application after January 8, 2025 to examine the degree of Air Ceilao’s compliance with the applicable legislative provisions.
-
-...
-
-[Data](articles/4976e912.json)
-
-[Extended Data](ext_articles/4976e912.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.50/55 to dollar, bonds steady
-
-*2024-12-03 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-50-55-to-dollar-bonds-steady-124533/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.50/55 to the US dollar on Tuesday from 290.65/70 to the US dollar on Monday dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/50 percent, up from 9.35/45 percent.
-
-A bond maturing on 15.10.2027 closed at 10.25/35 percent, up from 10.20/30 percent.
-
-A bond maturing on 15.09.2029 closed at 10.80/90 percent, down from 10.85/90 percent. (Colombo/Dec3/2024)
-
-◼️
-
-[Data](articles/18ccc8cf.json)
-
-[Extended Data](ext_articles/18ccc8cf.ext.json)
-
----
-
-### Colombo Port expansion led by Adani Group progressing as planned, says official
-
-*2024-12-03 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103970/colombo-port-expansion-led-by-adani-group-progressing-as-planned-says-official) · `en`
-
-Sri Lanka’s port expansion project led by Indian conglomerate Adani Group is progressing as planned, an official was reported as saying on Tuesday.
-
-“Construction at the Colombo West International Terminal remains ongoing, with phase one of the project still set for completion in early 2025,” Sirimevan Ranasinghe, chairman of the Sri Lanka Ports Authority, told Bloomberg.
-
-Ranasinghe is also a minority shareholder in the project. He informed the news agency that the project would be continuing as per their agreement inked with Adani Ports and Special Economic Zone.
-
-Adani Group is playing a prominent part in expanding the country’s port infrastructure. The Colombo terminal project, which involves a infusion of $1-billion, marks the largest foreign direct investment in Sri Lanka’s port sector.
-
-Ranasinghe said that US financing had not been finalised, and added that it was up to the joint-venture company developing the project to procure the requisite financing.
-
-...
-
-[Data](articles/c12ef8e9.json)
-
-[Extended Data](ext_articles/c12ef8e9.ext.json)
-
----
-
-### Nominations for the local government election is recalled
-
-*2024-12-03 16:50:00* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණයේ-නාම-යෝජනා-ආපසු-කැඳවයි/11-413430) · `si`
-
-Cabinet approves recalling local government election nominations. Special provisions bill to be prepared for new nominations process.
-
-🟩
-
-The Cabinet approval has been obtained to recall the nominations that have been called for the vote in 2023 to the election of the local government bodies.The Cabinet Meeting held at 09/02.
-
-The National Political Party leaders who have been held under the patronage of the Speaker of Parliament at the party leaders 'leadership, the Speaker of Parliament participated in the event of the party leaders' meeting, the local government bullet should be held.
-
-Accordingly, the existing local government band's election to the election of all elections and the youth community of the LTTE will be able to recall the nominations for the election and provoke provisions to educate the new nomination.The Cabinet paper has been approved by the Cabinet paper to instruct the Ministerial Administration, Provincial Councils and the Local Government to instruct the Legal Draft Force to prepare the Legal Draft Force to prepare the Bills (Special Provisions).
-
-◼️
-
-[Data](articles/4e8cfdd1.json)
-
-[Extended Data](ext_articles/4e8cfdd1.ext.json)
-
----
-
-### Brother has been assassinated to a complaint on a mobile phone
-
-*2024-12-03 16:41:10* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථනයක-ආරවුලකට-ඥාති-සහෝදරයා-ඝාතනය-කරලා/11-413429) · `si`
-
-Here's a 200-character summary:
-
-
-
-Brother assassinated over mobile phone complaint. Teen cousin kills 26-year-old with knife. Victim identified as Edirisinghe Arachchilage, 13th post. Police arrested suspect Sandaruwan. Investigation ongoing under OIC Inspector Ratnayake.
-
-🟩
-
-A 17-year-old cousin is a 17-year-old boy's knives on a blow to death, a 26-year-old man dies in a clay girl.
-
-The deceased has been identified as the 13th post, King Edirisinghe Arachchilage, a resident of Bandaragama Piyadda Kumara, a 26 year old youth.
-
-The two were also trying to dispute a mobile phone while working on a paddy and the deceased on a paddy field.
-
-The police said that the owner of the bomb had a blow to the suspect and taken his knife to the suspect and took him to the deceased to the deceased.
-
-The suspect was arrested by Edirisinghe Arachchilage's Youth Sandaruwan, who was arrested in connection with the murder.
-
-OKA OIC Inspector RMS. C. A team of officials are conducting further investigations on the instructions of Ratnayake.
-
-◼️
-
-[Data](articles/4c4e05be.json)
-
-[Extended Data](ext_articles/4c4e05be.ext.json)
-
----
-
-### Government owned high luxury is to be removed
-
-*2024-12-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204001) · `si`
-
-Here's a 200-character summary:
-
-
-
-Government removes luxury vehicles due to high maintenance and fuel costs. Cabinet approves formal procedure to study and replace vehicles in government institutions. Decision aims to reduce economic burden and promote cost-effectiveness.
-
-🟩
-
-Cabinet approval has been given to remove the larger cost-cost vehicles in accordance with a formal procedure.
-
-Cabinet spokesperson Minister Nalinda Jayatissa said that today (03).
-
-This decision has been taken into account the cost of the maintenance and fuel that cost the maintenance and fuel of certain high luxury vehicles in government institutions.
-
-The Minister said that the abuse of such high luxury is economically more effective.
-
-Accordingly, a formal study of the vehicles of all government institutions and follow vehicles and diesel engine capacity over the customs encryption.The proposal submitted by the Cabinet of the Treasury was approved by the Chief Accounting Officers to be abolished and to release the relevant circular instructions to report the relevant circular advice before 2025-03.
-
-◼️
-
-[Data](articles/8b6ba182.json)
-
-[Extended Data](ext_articles/8b6ba182.ext.json)
-
----
-
-### Siddharth starrer 'Miss You'
-
-*2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200334) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Siddharth stars in 'Miss You', directed by Rajasekhar. Also featuring Ashika Ranganath, Karunakaran. Music by Venkatesh. Produced by 7 Miles Bur Second Productions. Delayed due to weather issues. Expected to appeal to young audiences with a love story theme.
-
-🟩
-
-Siddharth, who is the star of the Tamil film industry, has been announced on the new release date of the movie 'Miss You'.
-
-Director n. The upcoming film 'Miss You', directed by Rajasekhar, stars Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, Shah Rao, 'Loku Saba' Maran, Sashtika, Ponvannan, Jayaprakash, Ravi Maria, Sarath Lokitswa.
-
-K. G. The film has been composed by Venkatesh and has composed the film.. The film is being produced by 7 Miles Bur Second Productions.
-
-The film, which was announced last month, has not been released due to the storm and rain that hit Tamil Nadu. The production company said that the new release date of the film will be announced later.
-
-The film has been announced on the 13th of this month at the film House.
-
-The film is expected to attract the younger generation fans as he talks about the love of the hero who falls and falls in love with a woman who does not like.
-
-◼️
-
-[Data](articles/3f0327fe.json)
-
-[Extended Data](ext_articles/3f0327fe.ext.json)
-
----
-
-### Actor Guna Finance Starring 'Alanku'
-
-*2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200333) · `ta`
-
-"Alanku" starring Guna Finance releases 27th. Director: S.B. Sakthivel. Cast: Gunanidhi, Shanmugam Muthusamy, Kali Venkat. Music: Ajis. Producers: T.Sabarish, Sangamitra Chaumia Anumani. Based on health & environmental issues.
-
-🟩
-
-The release date of the film 'Alanku' has been officially announced with a special photo of the popular actor Guna Finance Story, which made his debut in Tamil fans with 'Selphy' released in 2022.
-
-Director S.. B.. Sakthivel's upcoming film 'Alanku' has staged many others including Gunanidhi, Shanmugam Muthusamy, Kali Venkat, Semban Vinod Jose, Sarath Appani, Regin Rose, Sri Rekha, Kothavai.
-
-Ajis has composed the film, which has been recorded by S. Pandi Kumar. The film was co -produced by producers T.Sabarish and Sangamitra Chaumia Anumani on behalf of DG Film Company and Magnus Productions.
-
-All the tasks of the film were completed and waited for the release. The film has been announced on the 27th of this month at the film House.
-
-The film is based on the danger of the inauguration of the health and the environmental waste for the health and the environmental waste.
-
-The film has also recorded a huge anticipation among the audience as the film has also recorded the life of the diaspora.
-
-◼️
-
-[Data](articles/c69330b0.json)
-
-[Extended Data](ext_articles/c69330b0.ext.json)
 
 ---

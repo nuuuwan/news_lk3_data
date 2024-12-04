@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 06:15:28**
+As of **2024-12-04 05:51:09**
 
 ## Newspaper Stats
 
-*Scraped **58,349** Articles*
+*Scraped **58,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 607
-islandlk | 3,506
+islandlk | 3,499
 economynextcom | 3,543
-dailyftlk | 4,033
+dailyftlk | 4,023
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
@@ -26,191 +26,11 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,332 (100.0%) of 58,349 articles have been extended.
+58,332 (100.0%) of 58,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
-
-### UK-Sri Lanka Trade Mission empowers women entrepreneurs; boosts bilateral ties
-
-*2024-12-04 05:50:48* · [`dailyftlk`](https://www.ft.lk/news/UK-Sri-Lanka-Trade-Mission-empowers-women-entrepreneurs-boosts-bilateral-ties/56-770054) · `en`
-
-Connects 13 UK firms with 45 Sri Lankan women entrepreneurs to explore business opportunities
-
-Aims to expand Sri Lankan women-led enterprises’ access to UK market; whilst providing UK companies new sourcing destinations
-
-UK companies to conduct field visits in Colombo, Kurunegala and Jaffna for deeper market insights
-
-The United Kingdom-Sri Lanka Trade Mission, a key initiative under the UK Government-funded SheTrades Commonwealth+ Program, is fostering economic collaboration between the two countries from 2-6 December.
-
-Co-organised by the International Trade Centre (ITC) and the Sri Lanka Export Development Board (EDB), the mission brings together 13 UK companies and 45 Sri Lankan women entrepreneurs to explore business opportunities in the textiles, apparel and processed agrifood sectors.
-
-...
-
-[Data](articles/1cf71680.json)
-
----
-
-### Sajith Premadasa accuses Govt. of using PTA to suppress activists
-
-*2024-12-04 05:49:15* · [`dailyftlk`](https://www.ft.lk/news/Sajith-Premadasa-accuses-Govt-of-using-PTA-to-suppress-activists/56-770053) · `en`
-
-Slams Govt. for contradicting pre-election promises by using PTA to suppress media and social media activists
-
-Claims activists who supported AKD’s campaign are being hunted under the law
-
-Urges Govt. to align its actions with its promises and says it must walk the talk
-
-Opposition leader Sajith Premadasa has accused the Government of contradicting its pre-election promises by using the Prevention of Terrorism Act (PTA) to suppress media and social media activists.
-
-Addressing Parliament yesterday during a debate on President Anura Kumara Dissanayake’s policy statement, Premadasa criticised the Government for continuing to enforce the controversial legislation it had vowed to repeal before coming to power.
-
-...
-
-[Data](articles/0cb12ab8.json)
-
----
-
-### Shanakiyan urges Govt. to clarify stance on Provincial Councils
-
-*2024-12-04 05:48:08* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-urges-Govt-to-clarify-stance-on-Provincial-Councils/56-770052) · `en`
-
-Illankai Tamil Arasu Kadchi (ITAK) MP Shanakiyan Rasamanickam has urged the Government led by President Anura Kumara Dissanayake to clarify its position on the future of the Provincial Council system.
-
-Citing recent remarks to the media by Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva, who has suggested the system might be abolished, Rasamanickam called for an official response on the matter. The MP raised the question prior to yesterday’s Parliamentary debate on the President’s policy statement, emphasising that the issue is of national significance and has sparked widespread public concern.
-
-Leader of the House Bimal Rathnayake responded by reaffirming the Government’s respect for Rasamanickam but noted that the matter was not directly relevant to the day’s Parliamentary agenda. “Do not be spoiled by those around you,” Rathnayake said.
-
-...
-
-[Data](articles/ebf83f2e.json)
-
----
-
-### Govt. vows to prevent resurgence of racist politics; religious extremism
-
-*2024-12-04 05:47:15* · [`dailyftlk`](https://www.ft.lk/news/Govt-vows-to-prevent-resurgence-of-racist-politics-religious-extremism/56-770051) · `en`
-
-The Government yesterday reaffirmed its commitment to preventing the resurgence of any divisive racist politics or religious extremism.
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa disclosed that intelligence services have observed attempts to stir such sentiments, particularly via social media, and the Government is prepared to take all necessary actions, including introducing new legislation, to address the issue.
-
-“No one will be allowed to use nationalist or religious rhetoric as a means to gain political power in this country again,” Dr. Jayatissa said during the weekly post-Cabinet meeting media briefing.
-
-Noting that the Government has expressed its intent to repeal the Prevention of Terrorism Act (PTA), Dr. Jayatissa acknowledged that the existing law will remain in force until new legislation is introduced.
-
-The matter of repealing the PTA has been a longstanding issue, he noted, adding that will be discussed as Parliament progresses.
-
-...
-
-[Data](articles/297c62a2.json)
-
----
-
-### US Assistant Secretary to visit Sri Lanka tomorrow
-
-*2024-12-04 05:46:03* · [`dailyftlk`](https://www.ft.lk/news/US-Assistant-Secretary-to-visit-Sri-Lanka-tomorrow/56-770050) · `en`
-
-Assistant Secretary of State for the Bureau of South and Central Asian Affairs Donald Lu is scheduled to arrive in Sri Lanka tomorrow (5).
-
-Issuing a statement, the US State Department said the US Assistant Secretary will also travel to India and Nepal from 3-10 December. His trip will strengthen cooperation with key partners in South Asia to promote regional prosperity and security.
-
-Assistant Secretary Lu’s visit aims to advance US-Sri Lankan joint efforts to promote sustainable economic growth, combat corruption, and strengthen people-to-people ties.
-
-USAID Deputy Assistant Administrator Anjali Kaur and Department of the Treasury Deputy Assistant Secretary Robert Kaproth will join the Assistant Secretary to meet with senior Government officials from new administration and representatives from civil society.
-
-...
-
-[Data](articles/8a188a61.json)
-
----
-
-### New Government faces tough questions over IMF U-turn
-
-*2024-12-04 05:41:59* · [`dailyftlk`](https://www.ft.lk/columns/New-Government-faces-tough-questions-over-IMF-U-turn/4-770049) · `en`
-
-Can the Government implement the IMF’s reforms in a way that minimises their impact on vulnerable populations?
-
-When the NPP party swept into power just a couple of months ago, it did so on a wave of hope and promises of change. President Anura Kumara Dissanayake’s campaign was built on sharp critiques of past economic mismanagement and vows to steer the country towards a more equitable future. Yet, in a move that has surprised many supporters, the new Government has chosen to accept the IMF bailout terms negotiated by its predecessor—a decision that underscores the scale of the challenges it faces.
-
-...
-
-[Data](articles/4d26ec63.json)
-
----
-
-### Inland Revenue Dept. should understand plight of contractors
-
-*2024-12-04 05:38:18* · [`dailyftlk`](https://www.ft.lk/columns/Inland-Revenue-Dept-should-understand-plight-of-contractors/4-770047) · `en`
-
-VAT payments in the construction industry work in strange and sometimes unfair ways
-
-Some Inland Revenue Department (IRD) officers have misunderstood that contractors’ bills have been settled as per their satisfaction. This is a myth, because although a portion of contractors’ dues have been paid by previous Governments, these bills have been stagnant for two or three years. By that time, bank interests have eaten up all of their profits and have pushed them towards great losses. Further, many bills remain uncertified and these have not been settled for contractors. In such a context, some IRD officers have quoted statements regarding the settlement of these old dues to pursue contractors for tax payments within unreasonable time periods.
-
-...
-
-[Data](articles/88b2ef53.json)
-
----
-
-### PM vows NPP will seize historic opportunity to represent all citizens
-
-*2024-12-04 05:34:20* · [`dailyftlk`](https://www.ft.lk/news/PM-vows-NPP-will-seize-historic-opportunity-to-represent-all-citizens/56-770046) · `en`
-
-Says current Parliament reflects people’s rejection of SL’s traditional elite political system
-
-Emphasises public has not rejected politics itself but a corrupt political culture characterised by misuse of power and corruption
-
-Highlights collective effort behind President’s policy statement and says it’s a result of consistent and collaborative development over years
-
-Prime Minister Dr. Harini Amarasuriya has declared that the current Parliament represents a historic mandate, marking the people’s rejection of the traditional elite political system.
-
-Speaking during the opening of the Parliamentary debate on the President’s policy statement yesterday, Dr. Amarasuriya stressed that the public has not rejected politics itself but a corrupt political culture that misuses power.
-
-...
-
-[Data](articles/e22af96e.json)
-
----
-
-### New Constitution to be introduced in three years: Cabinet Spokesman
-
-*2024-12-04 05:33:05* · [`dailyftlk`](https://www.ft.lk/news/New-Constitution-to-be-introduced-in-three-years-Cabinet-Spokesman/56-770045) · `en`
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday confirmed that the new Constitution will be introduced in three years, following an extensive dialogue with the public.
-
-Responding to a query at the weekly post-Cabinet meeting media briefing, he asserted the Government’s commitment to ensuring widespread consultation and participatory governance.
-
-“We are planning to allow enough time for a dialogue with all the people,” Dr. Jayatissa said.
-
-On 5 September, during a campaign rally in Jaffna, President Anura Kumara Dissanayake pledged that a National People’s Power (NPP) Government would draft a new Constitution grounded in equality, democracy and participatory governance. He promised a referendum on the proposed Constitution and vowed to hold delayed Provincial Council and Local Government polls within a year. Additionally, he announced plans to establish a committee to investigate and address discrimination.
-
-...
-
-[Data](articles/a8de5ae5.json)
-
----
-
-### Cabinet approves new bill to recall and reopen nominations for LG polls
-
-*2024-12-04 05:32:49* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-new-bill-to-recall-and-reopen-nominations-for-LG-polls/56-770044) · `en`
-
-The Cabinet of Ministers on Monday approved drafting a special bill enabling the recall of nominations submitted for the postponed 2023 Local Government Election.
-
-The new legislation will also provide for fresh nominations, ensuring the rights of voters and the inclusion of youth candidates.
-
-Addressing the weekly post-Cabinet meeting media briefing, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa stated this move safeguards the rights of all voters, while securing opportunities for youth participation in the election.
-
-The proposal builds on a previous decision made at the Cabinet meeting on 2 September to instruct the Legal Draftsman to formulate the Local Government Election (Special Provisions) bill.
-
-The bill aims to nullify the nominations called for the election initially scheduled for 2023 and create provisions for new nominations. A consensus to proceed with this approach was reached at a party leaders’ meeting chaired by the Speaker of Parliament on 25 November.
-
-...
-
-[Data](articles/8268bae3.json)
-
----
 
 ### Dual committees to address recruitment challenges in teaching service
 
@@ -961,50 +781,6 @@ Accordingly, it has been decided to grant permission for the importation of rice
 [Data](articles/3359780e.json)
 
 [Extended Data](ext_articles/3359780e.ext.json)
-
----
-
-### Daraz 11.11: Transforming shopping habits and boosting local businesses across Sri Lanka
-
-*2024-12-03 20:14:00* · [`islandlk`](http://island.lk/daraz-11-11-transforming-shopping-habits-and-boosting-local-businesses-across-sri-lanka/) · `en`
-
-Daraz Sri Lanka has successfully concluded 11.11 Biggest Sale Of The Year on November 17. The event brought together customers, sellers, and brands in a celebration of unbeatable discounts of up to LKR 150 million, exclusive promotions, and the lowest prices of the year. Highlighting the growing adoption of e-commerce, this year’s 11.11 showcased Daraz’s pivotal role in transforming the shopping habits of millions of consumers across Sri Lanka and creating significant growth opportunities for sellers across the country.
-
-During the 11.11 campaign, Audio, Skincare, Women’s Fashion, Beauty Tools, and Smartwatches emerged as the most popular categories among Sri Lankan consumers, indicating a growing inclination toward self-care, modern lifestyle choices, and adopting wearable technology to enhance daily life.
-
-...
-
-[Data](articles/317bb8c4.json)
-
----
-
-### CIPM Sri Lanka concludes successful workshop on feedback and KPI mastery
-
-*2024-12-03 20:13:00* · [`islandlk`](http://island.lk/cipm-sri-lanka-concludes-successful-workshop-on-feedback-and-kpi-mastery/) · `en`
-
-The Chartered Institute of Personnel Management (CIPM) Sri Lanka proudly concluded its sold-out workshop, “Feedback Playbook and KPI Mastery for Success in 2025” held on November 29, 2024, at Marino Beach Colombo. The highly anticipated event brought together senior HR professionals and line managers from leading organizations, delivering transformative insights into effective KPI setting and structured feedback.
-
-Facilitated by the renowned HR expert, C. Hewapattini, Chartered Fellow CIPM, the workshop equipped participants with practical tools to align individual performance with organizational goals. The interactive sessions, combining role plays, case studies, and real-world simulations, left attendees with actionable strategies to tackle the challenges of performance management in 2025 and beyond.
-
-...
-
-[Data](articles/8fe7e696.json)
-
----
-
-### Manufacturing sector counters feed bullish trend in bourse
-
-*2024-12-03 20:10:00* · [`islandlk`](http://island.lk/manufacturing-sector-counters-feed-bullish-trend-in-bourse/) · `en`
-
-Manufacturing sector counters dominated the stock market yesterday, especially Dipped Products and ACL Cables. Consequently, market activities were bullish throughout the day, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 126.97 points while S and P SL20 rose by 39.3 points. Turnover stood at Rs 3.2 billion with six crossings.
-
-Those crossings were reported in Agarapathana Plantations, where 10 million shares crossed to the tune of Rs 90 million; its shares traded at Rs 9, HNB 362,000 shares crossed for Rs 85.2 million; its shares traded at Rs 235, Keells Hotels 1.5 million shares crossed for Rs 28.5 million; its shares sold at Rs 18, Vallibel One 500,000 shares crossed for Rs 27.7 million; its shares traded at Rs 55.5, Dipped Products 605,000 shares crossed for Rs 27.5 million; its shares traded at Rs 45.50 and CIC Holdings 250,000 shares crossed to the tune of Rs 20 million; its shares traded at Rs 80.
-
-...
-
-[Data](articles/1b0afde6.json)
 
 ---
 
@@ -2427,5 +2203,329 @@ There was no decision to reduce a 65 rupee a kilo tax on rice (about 200 US doll
 [Data](articles/debe8a5f.json)
 
 [Extended Data](ext_articles/debe8a5f.ext.json)
+
+---
+
+### Govt. to dispose of super luxury vehicles in govt institutions
+
+*2024-12-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103965/govt-to-dispose-of-super-luxury-vehicles-in-govt-institutions) · `en`
+
+The Cabinet of Ministers has approved a proposal to conduct a study on vehicles used in all government institutions and systematically dispose of super luxury vehicles that incur high maintenance and fuel costs in government institutions by selling them in order to reduce government spending.
+
+The approval has been granted to the proposal submitted by President Anura Kumara Dissanayake to assess and streamline the government vehicle fleet, focusing on those with higher engine capacities, which contribute to rising maintenance expenses.
+
+...
+
+[Data](articles/0129ea10.json)
+
+[Extended Data](ext_articles/0129ea10.ext.json)
+
+---
+
+### Clean Sri Lanka Program Cabinet approval
+
+*2024-12-03 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203996) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Clean Sri Lanka Program approved. President Anura Kumara Dissanayake establishes Clean Sri Lanka Fund and Presidential Task Force. Aims for social, environmental, ethical awakening. National initiative for economic, political, social development.
+
+🟩
+
+The proposal made by President Anura Kumara Dissanayake has approved the resolution of President Anura Kumara Dissanayake to establish a Clean Sri Lanka Fund and set up a Presidential Task Force to establish a fund.
+
+The initiative, which leads to the new government vision, is to be implemented targeting the social, environmental and ethical awakening.
+
+The government is planning to implement this program as a national operation to achieve the national anticipatory, reconciliation and standardization of Sri Lanka not only economically but also a significant downturn in Sri Lanka but also in political, social, social, social, social, social, social, social, social, social..
+
+◼️
+
+[Data](articles/25784651.json)
+
+[Extended Data](ext_articles/25784651.ext.json)
+
+---
+
+### Govt. awards procurement for over 300 medicine types to local manufacturers
+
+*2024-12-03 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103964/govt-awards-procurement-for-over-300-medicine-types-to-local-manufacturers) · `en`
+
+The Cabinet of Ministers has granted approval for the list of medicines and medical supplies to be procured from identified local manufacturers for a period of one year.
+
+Speaking at the Cabinet press conference held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that the approval has been granted at the Cabinet meeting held on 14 October 2024 to purchase locally manufactured medicines and medical supplies from identified local manufacturers for a period of one year.
+
+Accordingly, the Ministry of Health and Mass Media has prepared 04 lists of medicines that can be supplied by the State Pharmaceuticals Manufacturing Corporation (SPMC), local manufacturers who have signed joint venture agreements with the SPMC, local manufacturers who have signed buy back agreements with the Ministry of Health and local manufacturers who are not currently contracted.
+
+...
+
+[Data](articles/bfc71224.json)
+
+[Extended Data](ext_articles/bfc71224.ext.json)
+
+---
+
+### Decision to cancel local government nominations
+
+*2024-12-03 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203995) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Cabinet approves cancellation of local government nominations for 2023 elections. Political party leaders agree to recall nominations. Election Commission to provide new nomination provisions.
+
+🟩
+
+Cabinet approval has been approved by the Cabinet approval to advise a legal drafting provision to conclude a nomination of the local government bodies for the election of 2023.
+
+Angeled political party leaders who were chaired by the Speaker on the 25th of this month were agreed to cancel the nominations of the Speaker in Parliament on the 25th of the party leader.
+
+Accordingly, the local government bodies to be recalled to the Elections for the Elections for the Elections and the Election Commission to educate the provision of provision for provision of provisional nominations for provision of provision of new nominations (Special Provisions)The proposal made by the Minister of Public Administration, Provincial Councils and Local Government, has been approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/6a376a99.json)
+
+[Extended Data](ext_articles/6a376a99.ext.json)
+
+---
+
+### Scattered cement bags
+
+*2024-12-03 14:37:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிதறிக்-கிடக்கும்-சீமெந்து-பைகள்/175-348183) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Cement bags spilled from lorry, scattering broken ones along parliament road.
+
+🟩
+
+As the cement bags fell out of the lorry carrying cement bags, many broken cement bags were scattered along the side of the parliament road.
+
+◼️
+
+[Data](articles/9af12ffd.json)
+
+[Extended Data](ext_articles/9af12ffd.ext.json)
+
+---
+
+### A statement on Litro gas prices
+
+*2024-12-03 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203994) · `si`
+
+Litro gas prices unchanged Dec 2024 despite intl market increases. Company decides against domestic price hike.
+
+🟩
+
+It states that Litro household gas prices do not change for December 2024.
+
+The company says that LP gas prices have increased in the international market, but the people decided not to increase the price of gas.
+
+◼️
+
+[Data](articles/dbc73f4b.json)
+
+[Extended Data](ext_articles/dbc73f4b.ext.json)
+
+---
+
+### Increase of comfort aswell
+
+*2024-12-03 14:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறுதல்-அஸ்வெசும-கொடுப்பனவு-அதிகரிப்பு/175-348182) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Comfort Welfare Benefit System launched July 30, 2023. Benefits divided into 4 social categories. Economic crisis impacts reduced. Cabinet approves increase in monthly payments for poor until December 31, 2025. Validity extended to March 31, 2025."
+
+🟩
+
+The Comfort (Aswesum) Welfare Benefit Payment System has been implemented on 01.07.01.07.07.07.07.07.07.30.
+
+Under the proposed scheme, the consolation (Aswesuma) welfare beneficiaries are given allowances under 04 types of social division.
+
+Since the impacts of the economic crisis are completely eliminated, it has been found that the first round of applications for the first round of applications for social and dangerous community has been found to be relieved for some time.
+
+In addition, the current payments are not enough to consider the cost of living.. Accordingly, the Cabinet has approved the proposal submitted by President Anura Kumara Dissanayake to establish under the Ministry of Finance, Planning and Economic Development for the following amendment to the existing consolation (Ashemu) Welfare Benefits Payment System.
+
+The monthly welfare payments of the poor and the most poor are increasing the monthly welfare payments of Rs.
+
+• Excessive period of validity until 2025.03.31
+
+...
+
+[Data](articles/622c823f.json)
+
+[Extended Data](ext_articles/622c823f.ext.json)
+
+---
+
+### Cabinet approves drafting of bill to allow recalling of LG Election nominations
+
+*2024-12-03 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103963/cabinet-approves-drafting-of-bill-to-allow-recalling-of-lg-election-nominations) · `en`
+
+The Cabinet of Ministers has granted approval to draft the Local Government Elections (Special Provisions) Bill in order to make necessary provisions for the recalling of nominations for Local Government (LG) Elections.
+
+Speaking at the Cabinet press conference held today (03), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that it has been decided at the Cabinet meeting held on 02 September 2024 to instruct the Legal Draftsman to prepare the Local Government Elections (Special Provisions) Bill to recall the nominations called for the Local Government Elections scheduled to be held in 2023 and to make arrangements for calling new nominations.
+
+He highlighted that during the party leaders’ meeting held on 25 November 2024 under the patronage of the Speaker of Parliament in which recognized political party leaders also participated, it was agreed that the nominations called in the year 2023 should be cancelled and new nominations should be called for the upcoming LG Elections.
+
+...
+
+[Data](articles/12f4cb13.json)
+
+[Extended Data](ext_articles/12f4cb13.ext.json)
+
+---
+
+### No change in Litro Gas prices for December
+
+*2024-12-03 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103962/no-change-in-litro-gas-prices-for-december) · `en`
+
+The Litro Gas Company says that the prices of its domestic LP Gas cylinders will remain unchanged for the month of December 2024.
+
+The Chairman of the Litro Gas Company, Channa Gunawardena stated that the company decided to keep the prices of LP gas cylinders unchanged despite the price hike in the global market, in order to provide relief to the consumers.
+
+Accordingly, the prices of Litro LP gas domestic gas cylinders will remain unchanged as follows:
+
+No LP gas price revision took place last month as well, and the most recent price revision was in October.
+
+◼️
+
+[Data](articles/cbd3c7b5.json)
+
+[Extended Data](ext_articles/cbd3c7b5.ext.json)
+
+---
+
+### Pharmaceutical supplies for a year to domestic manufacturers
+
+*2024-12-03 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203993) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Cabinet approves pharmaceutical supply deals for local manufacturers. State Pharmaceutical Manufacturing Corp procures 42 drug varieties worth Rs. 5,398.83 million. Local partners sign agreements for 131 drugs (Rs. 16,611.42 million) and 36 drugs (Rs. 9,022.10 million). New local manufacturers selected for 130 drugs (Rs. 13,374.65 million).
+
+🟩
+
+Cabinet approval has been approved to purchase local manufacturers from local manufacturers for the next year.
+
+Accordingly, the State Pharmaceutical Manufacturing Corporation, the Public Manufacturers who have signed the Joint Business Agreements with the Ministry of Pharmace and the Ministry of Pharmaceutical ProductsThe Ministry has been prepared.
+
+The Cabinet of Health and Mass Meditiya has been approved by the Health and Mass Meditiya Minister to present the procurements made by the Cabinet of Procurement Committee appointed by the Cabinet.
+
+01. Procurement of 42 varieties of drugs to be presented to the State Pharmaceutical Manufacturing Corporation for Rs. 5,398.83 million.
+
+02. Procurement of 131 drugs towards Rs. 16,611.42 million to local manufacturers who have signed joint ventures with the State Pharmaceutical Manufacturing Corporation.
+
+03. Procurement of 36 types of drugs is awarded to local manufacturers who have signed up to Rs. 9,022.10 million.
+
+...
+
+[Data](articles/19b8d12e.json)
+
+[Extended Data](ext_articles/19b8d12e.ext.json)
+
+---
+
+### Retrieval
+
+*2024-12-03 14:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-தரப்-பரீட்சைகள்-மீள-ஆரம்பம்/175-348181) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+GCE A/L exams resume Dec 4 due to weather. Revised schedule includes chemistry, technical science, languages, political science. New timetable printed differently. Examiners notified via website, newspapers. No exams Dec 24-26. Security measures for question papers.
+
+🟩
+
+The Department of Examinations has announced that the 2024 GCE Advanced Level (U/T) exams will be resumed tomorrow (4) due to inclement weather.
+
+According to the revised schedule, the lessons will be conducted as planned on December 4. The Department of Examinations said that the first sheet of chemistry, the first sheet of technical science and the first sheet of play (in three languages) and the first sheet of political science will be held in the afternoon.
+
+The Department has taken steps to distribute the renewed exam schedule to all examiners. The new timetable will be printed in a different color to distinguish from the original schedule printed on the white paper. Examiners will also be notified by newspaper announcements and other media channels on the revised schedule.
+
+Examiners can download their updated schedules from the official website of the Examination Department.
+
+Examinations will not be held on December 24, 25 and 26. All selection stations will be closed these days.
+
+...
+
+[Data](articles/f268c4ee.json)
+
+[Extended Data](ext_articles/f268c4ee.ext.json)
+
+---
+
+### Cabinet press conference here
+
+*2024-12-03 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203992) · `si`
+
+Here's a summary of the cabinet press conference announcements in approximately 200 characters:
+
+
+
+Rice shortage resolved until Dec 20, 2024. Poor rate limit raised to Rs. 10,000, extreme poverty threshold to Rs. 17,500. High-end vehicle ban proposed. Local elections: nomination process reopened. Two committees formed for graduate solutions in public services. Drug shortages addressed through local manufacturing support. Weather relief program approved. 17-member ministerial subcommittee established for 2025 organizational purposes.
+
+🟩
+
+Allowance of Rs.
+
+The shortage of rice is temporarily removed as a solution to December 20, 2024, permits rice.
+
+The revenue of the poor rates will be increased to Rs. 10,000.
+
+The revenue of the extreme poverty classification is increased to Rs. 17,500.
+
+A proposal to abolish high luxury vehicles.
+
+Local Government Elections Special
+
+At the party leaders meeting agreed at the meeting, the nominations have been called again and call for nominations.
+
+Approval to appoint 2 committees to obtain a permanent solution of graduates in the public service locations.
+
+More opportunities for local manufacturers as a remedy to the shortage of drugs in government hospitals.
+
+A program to provide relief to affected families in the face of the good weather.
+
+Approval to appoint a 17-member ministerial subcommittee for the organizational purposes of the year 2025.
+
+◼️
+
+[Data](articles/b2c3ee01.json)
+
+[Extended Data](ext_articles/b2c3ee01.ext.json)
+
+---
+
+### Do what you said; Sajith
+
+*2024-12-03 14:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொன்னதைச்-செய்யுங்கள்-சஜித்/175-348179) · `ta`
+
+Sajith Premadasa criticizes govt over unfulfilled election promises on debt agreements & IMF deals. He accuses them of arresting social media users despite promising free speech.
+
+🟩
+
+Opposition leader Sajith Premadasa told parliament today that the government should fulfill its assurance on the election platform on the Debt Agreement and the International Monetary Fund Agreement.
+
+“Those in the current government promised to revise credit stability agreements and other agreements on the election campaign platform. However, the government is not ready to do what has promised, ”he said.
+
+"You promised to ensure freedom of expression, but you have arrested some people who uploaded various records on social media. You have to walk in accordance with your comments, ”he told the government.
+
+◼️
+
+[Data](articles/e979cc87.json)
+
+[Extended Data](ext_articles/e979cc87.ext.json)
 
 ---

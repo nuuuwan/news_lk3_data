@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 10:01:42**
+As of **2024-12-04 09:42:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,354 (100.0%) of 58,363 articles have been extended.
+58,352 (100.0%) of 58,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1268,8 +1268,6 @@ Facilitated by the renowned HR expert, C. Hewapattini, Chartered Fellow CIPM, th
 
 [Data](articles/8fe7e696.json)
 
-[Extended Data](ext_articles/8fe7e696.ext.json)
-
 ---
 
 ### Manufacturing sector counters feed bullish trend in bourse
@@ -1285,8 +1283,6 @@ Those crossings were reported in Agarapathana Plantations, where 10 million shar
 ...
 
 [Data](articles/1b0afde6.json)
-
-[Extended Data](ext_articles/1b0afde6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 22:17:55**
+As of **2024-12-04 23:43:03**
 
 ## Newspaper Stats
 
-*Scraped **58,479** Articles*
+*Scraped **58,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,240 @@ dbsjeyarajcom | 445
 colombotelegraphcom | 592
 bbccomsinhala | 611
 islandlk | 3,506
-economynextcom | 3,552
+economynextcom | 3,558
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,543
-adaderanalk | 7,103
-tamilmirrorlk | 8,325
-virakesarilk | 9,568
-adaderanasinhalalk | 10,104
+adalk | 5,544
+adaderanalk | 7,105
+tamilmirrorlk | 8,327
+virakesarilk | 9,573
+adaderanasinhalalk | 10,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,479 (100.0%) of 58,479 articles have been extended.
+58,492 (100.0%) of 58,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### What did the President say about the Terrorism Act?
+
+*2024-12-04 23:09:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தடைச்சட்டம்-குறித்து-ஜனாதிபதி-கூறியது-என்ன/175-348254) · `ta`
+
+Sri Lanka: President opposes future implementation of Terrorism Act, cites communal needs. Discusses North-East solutions, political prisoner releases, and justice for disappeared individuals.
+
+🟩
+
+President Anura Kumara Dissanayaka has told him that he does not want to implement the terrorism law in the future, said the Sri Lanka Tamil National Party's Batticaloa district parliamentarian Rasamanikam Chanakyan.
+
+He said the president said that some communal ideas were needed to use it.
+
+He made this statement during a meeting between President Anura Kumara Dissanayake and the Sri Lanka Tamil National Alliance (TNA) parliamentarians today.
+
+At the same time, Chanakyan said that he had discussed with the President on a number of issues, including the Samasti -based solution of the North and East, the release of political prisoners, the anti -terrorism law, the land grabbing and the justice for the disappeared.R
+
+◼️
+
+[Data](articles/d1189657.json)
+
+[Extended Data](ext_articles/d1189657.ext.json)
+
+---
+
+### Defense Minister clarified on the commemoration of Heroes
+
+*2024-12-04 23:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-நினைவேந்தல்-குறித்து-பாதுகாப்பு-அமைச்சர்-விளக்கம்/175-348253) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Defense Minister clarifies Heroes Day commemorations: 244 events in North, 10 LTTE symbols displayed. Government respects memorials but prohibits LTTE-related visuals. Investigations ongoing.
+
+🟩
+
+Public Security Minister Ananda Wijepala told Parliament today that the LTTE symbols were displayed in 10 places during the 244 Heroes Day event in the North.
+
+According to police, 244 memories were held in the north during the Heroes Day week from 21 to 27 last November.
+
+He said the government respects the right of all citizens to commemorate the death of those who love the north or in the south.
+
+However, he outlined that any memory, which includes visuality of flags, symbols or symbols associated with the prohibited organization, LTTE, is unacceptable.
+
+Recently, a report issued in the Kalkamuwa area was misunderstood by the newspaper.
+
+According to police reports, 244 commemoration events were held in the north, with 10 LTTE symbols.. Investigations are underway into these events.
+
+...
+
+[Data](articles/46c278d9.json)
+
+[Extended Data](ext_articles/46c278d9.ext.json)
+
+---
+
+### 244 ‘Mahaviru’ celebrations in North, LTTE symbols displayed at 10
+
+*2024-12-04 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104003/244-mahaviru-celebrations-in-north-ltte-symbols-displayed-at-10) · `en`
+
+Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, informed the Parliament today (04) that out of 244 ‘Mahaviru’ (Maaveerar Naal) commemoration events held in the Northern Province, LTTE-related symbols were displayed at 10 of them.
+
+Accordingly, he further stated that, “The police had reported that 244 commemoration events were held in North during ‘Mahaviru’ Week from November 21 to 27.”
+
+“Only 10 of them had some LTTE symbols displayed. The police have taken legal action in response to these incidents,” he said.
+
+◼️
+
+[Data](articles/4862fa43.json)
+
+[Extended Data](ext_articles/4862fa43.ext.json)
+
+---
+
+### An appeal of Rashad
+
+*2024-12-04 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204046) · `si`
+
+Rashad appeals to Taliban leaders about women's rights and education. He emphasizes maintaining Islamic teachings while stressing women's knowledge importance. This aligns with his previous stance against restrictions on women's education and healthcare.
+
+🟩
+
+Afghanistan's super cricketer Rashid, Rashid, has requested the Taliban of Afghanistan.
+
+Taliban leader HiSathunda issued a decree to prohibit medical training and semi-vocational training to obtain semi-vocational training last Monday.
+
+Ruad has made this request through his 'X' account, responding to his order.
+
+The Taliban Organizing the power of Afghanistan in 2021, heavy restrictions to women.
+
+It was the key to the public and banning sports.
+
+However, the Afghanistan women have no ban to do medical training so far.
+
+It was the last option left for women to have higher education.
+
+The Taliban government banned schools in 2022, and after the 6th grade, girls had banned secondary education.
+
+The Taliban has also prohibited women from Afghanistan, and to receive treatment from men's medical professionals.
+
+According to the Human Rights Watch, the Organization of Human Rights Watch also points out that women's health workers are scarce with this new order.
+
+...
+
+[Data](articles/b7ba1100.json)
+
+[Extended Data](ext_articles/b7ba1100.ext.json)
+
+---
+
+### South Korea’s President faces impeachment after martial law debacle
+
+*2024-12-04 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104002/south-koreas-president-faces-impeachment-after-martial-law-debacle) · `en`
+
+South Korean lawmakers on Wednesday proposed impeaching President Yoon Suk Yeol for his sudden decision to declare martial law, which he rescinded after a chaotic standoff between parliament and the army that damaged the country’s standing.
+
+Yoon’s declaration of martial law late on Tuesday attempted to ban political activity and censor the media in South Korea, which has Asia’s fourth largest economy and is a key U.S. ally.
+
+Washington had no advance notice of the decision, U.S. Secretary of State Antony Blinken told Reuters, adding that he expected to speak with his South Korean counterpart in the coming days.
+
+Armed troops had forced their way into the National Assembly building in Seoul but stood back when parliamentary aides sprayed them with fire extinguishers. Lawmakers rejected the martial law decision while protesters scuffled with police outside.
+
+...
+
+[Data](articles/9ac74474.json)
+
+[Extended Data](ext_articles/9ac74474.ext.json)
+
+---
+
+### If you have a money laundering fraud using the name of the PA and the name of Namal Rajapaksa - Make a complaint with the police - Geetanath Kasilingam
+
+*2024-12-04 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200450) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+PA member Geetanath Kasilingam warns against money laundering fraud using party name and Namal Rajapaksa's name. He advises victims to file police complaints. Kasilingam denies false claims about Namal Rajapaksa's gold business involvement.
+
+🟩
+
+Jaffna District Organizer Geetanath Kasalingam, the organizer of the PA, said that if the name of the PA and Namal Rajapaksa's name, Namal Rajapaksa's name is carried out in Jaffna, to make complaints at himself or police stations.
+
+In the past, we have received information that some people have been involved in the use of Namal Rajapaksa's name and the party's name in the past, using land issues, money laundering, fraudulently involved in sending abroad, and constructing panchayat.
+
+We went to the homes of the victims in this regard and we were investigating. A complaint has been lodged with the Manipay Police Station regarding such a home.
+
+You, as a people who are using the party's name, must file a complaint at the police station. If you are afraid of something like that, you can contact us.
+
+We have started engaging in full -time politics in Jaffna. I think such activities have been the cause of our party's failure in the past. It is my duty to eliminate such allegations.
+
+...
+
+[Data](articles/161b4b68.json)
+
+[Extended Data](ext_articles/161b4b68.ext.json)
+
+---
+
+### World Bank supports Clean Sri Lanka
+
+*2024-12-04 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204045) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+World Bank supports Clean Sri Lanka program. Executive Director Paaraswaran Iyyer met President Anura Kumara Dissanayake at Presidential Secretariat. Discussed project extensions, rural poverty reduction, Digital Identity Card, land housing issues in Northern Eastern Provinces. Government priorities: agriculture, fisheries, tourism, education, health. World Bank evaluates program implementation.
+
+🟩
+
+The World Bank Executive Director Paaraswaran Iyyer says that the World Bank is supporting the Government Clean Sri Lanka program.
+
+The World Bank Executive Director was held at the Presidential Secretariat today (04) at the Presidential Secretariat.
+
+The World Bank Executive Director, who joined the new government, has been assisted with all the projects that support the World Bank.
+
+The President has also discussed extension on projects and plans, such as the development of new government and the development of rural poverty, the Digital Identity Card Project in line with the Economic Digitalization Program.
+
+The Northern and Eastern Provinces, including the land and housing problem in the plantation plantation, the Presidential Media Unit said that the people of the North and the East were also discussed at a long time.
+
+President Anura Kumara Dissanayake has said that the government's priorities are focused on developing agriculture, fisheries, tourism, education and health.
+
+...
+
+[Data](articles/140f0962.json)
+
+[Extended Data](ext_articles/140f0962.ext.json)
+
+---
+
+### 244 Mahaviu Celebrations in the North have been conducted
+
+*2024-12-04 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204044) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+244 Mahaviu Celebrations in Northern Sri Lanka were held. Police reported 10 showed LTTE symbols. Law enforcement actions taken.
+
+🟩
+
+According to the Public Defense Minister Ananda Wijepala said in parliament today (4) of the total number of Mahaviu Celebrations in the North.
+
+"The police had reportedly carried out 244 celebrations in the Mahavirus week under the Mahavirus week last 21 and 27. Only 10 of them had exhibited some LTTE symbols. The police have implemented the law. "
+
+◼️
+
+[Data](articles/0d904fc0.json)
+
+[Extended Data](ext_articles/0d904fc0.ext.json)
+
+---
 
 ### CEO of UnitedHealthcare fatally shot in New York City
 
@@ -58,6 +274,62 @@ Thompson was named chief executive of UnitedHealthcare in April 2021. He earned 
 
 ---
 
+### Discussion for reviewing companies running under the Ministry of Plant and Social Infrastructure
+
+*2024-12-04 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200449) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Review of companies under Ministry of Plantation & Social Infrastructure. Discussion focused on improving company performance, meeting public expectations, and addressing budgets. Key officials including Minister K.V Samantha Vidyaratne and Deputy Minister Sundaralingam Pradeep attended the meeting.
+
+🟩
+
+Discussions were held on Tuesday (03) to review their current status with companies operating under the Ministry of Plantation and Social Infrastructure.
+
+During this time, the focus of the discussion was to improve the performance of these companies, meet the expectations of the public through a skilled public service, and to address the budgets.
+
+Minister K.V Samantha Vidyaratne, Deputy Minister Sundaralingam Pradeep Ministry Secretary and Representatives of the following institutions were present at the meeting.
+
+◼️
+
+[Data](articles/6ce13c1e.json)
+
+[Extended Data](ext_articles/6ce13c1e.ext.json)
+
+---
+
+### Meeting between the President and the Executive Director of the World Bank
+
+*2024-12-04 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200448) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+World Bank Executive Director Parameswaran Iyer met President Anura Kumara Dissanayake to discuss Clean Sri Lanka program support and future development projects. Topics included rural poverty eradication, Digital Identity Card, land housing issues, agriculture, fisheries, tourism, education, health sector development, and cooperation on next government initiatives.
+
+🟩
+
+World Bank Executive Director Parameswaran Iyer said the government's Clean Sri Lanka program would be provided with the World Bank.
+
+The Executive Director of the World Bank made this statement while addressing the President's Office at the Presidential Office on Wednesday.
+
+The Executive Director of the World Bank congratulated the new government led by the President and promised that all the plans will be carried out in the future with the cooperation of the World Bank.
+
+Similarly, the President also discussed a long discussion on the development of the new government, the eradication of rural poverty, and the issuance of the Digital Identity Card, which is parallel to the economic digital digitalization program.
+
+It was also talked about the land and housing issues of the plantation and the long -standing problems of the people of the North and East.
+
+...
+
+[Data](articles/d2064e4c.json)
+
+[Extended Data](ext_articles/d2064e4c.ext.json)
+
+---
+
 ### President Dissanayake engages in discussion with ITAK MPs
 
 *2024-12-04 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104000/president-dissanayake-engages-in-discussion-with-itak-mps) · `en`
@@ -73,6 +345,50 @@ Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmugam Ku
 [Data](articles/9218dd70.json)
 
 [Extended Data](ext_articles/9218dd70.ext.json)
+
+---
+
+### Few Sri Lanka candidates, political groups submit expense reports so far: EC
+
+*2024-12-04 20:23:00* · [`economynextcom`](https://economynext.com/few-sri-lanka-candidates-political-groups-submit-expense-reports-so-far-ec-192192/) · `en`
+
+ECONOMYNEXT – Only a few Sri Lankan candidates and political groups have submitted their income and expenditures related to the recently concluded parliament election campaign with only two days remaining before the deadline, the island nation’s Election Commission data showed.
+
+The Election Commission has set deadline to submit the income and expenditure reports for Friday, December 06, 2024.
+
+The Election Commission said in terms the Regulation of Election Expenditure Act enacted last year, failure to submit election expenditure reports on or before 12:00 midnight on December 06, 2024 “constitutes an offence and action will be taken in accordance with the law”.
+
+Out of the total 8,361 candidates, around 24 percent or 1,985 have submitted their reports to the Election Commission as at 3 pm on Tuesday (03), the Commission said in a statement.
+
+...
+
+[Data](articles/06ccb542.json)
+
+---
+
+### Meeting between President and TNA MPs
+
+*2024-12-04 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200447) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake met TNA MPs at the Presidential Office. TNA representatives discussed issues affecting Northern and Eastern regions. Attendees included Chanakyan Rasamanikam, Sivagnanam Sreedharan, and others."
+
+🟩
+
+The meeting between President Anura Kumara Dissanayake and the Sri Lanka Tamil National Alliance (ITAK) MPs was held at the Presidential Office on Wednesday afternoon.
+
+Meanwhile, members of the Sri Lankan Tamil National Alliance (TNA) have long explained to the President on the problems faced by the people of the North and East.
+
+Chanakyan Rasamanikam, Sivagnanam Sreedharan, Pathmanathan Sathiyalingam, Shanmuganathan Kukadasan, Gnanamuthu Srinasan, Kavindran Koteeswaran, Ilayadambi Sirinath, Durairasa Ravikaran were also present.
+
+◼️
+
+[Data](articles/8adc9996.json)
+
+[Extended Data](ext_articles/8adc9996.ext.json)
 
 ---
 
@@ -106,6 +422,44 @@ He added that 172 of the liquor have been given the liquor retail (wine Stose) o
 
 ---
 
+### Asian Bowl Cricket under the age of 19
+
+*2024-12-04 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200446) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Under-19 Asian Cup cricket: Sri Lanka vs India & Pakistan vs Bangladesh in semi-finals. India crushed UAE by 10 wickets, Pakistan thrashed Japan by 180 runs. Semi-finals tomorrow in Sharjah and Dubai.
+
+🟩
+
+Sri Lanka and Indian teams will play in the second semi -finals of the UAE's 19 -year -old Asian Cup cricket.. Bangladesh will oppose Pakistan in the first semi -final.
+
+After Pakistan and India won the last two matches for the A group today, it was decided which teams would oppose the semi -finals.
+
+Sri Lanka and Pakistan in the B Group in the Under -19 Asian Cup cricket match, which were participating in eight teams, were eligible to play in the semi -finals.
+
+Bangladesh and India advanced to the semi -finals with a defeat of these two groups respectively.
+
+India won by 10 wickets in a group match today at the Sharjah Cricket Stadium between India and the United Arab Emirates.
+
+The UAE scored 137 runs for the loss of all wickets in 44 overs.
+
+Muhammad Rayan (36) and Akshad Roy (26) were among the two.
+
+In reply, India won by 143 runs in 16.1 overs.
+
+Vaibhav Suryavanshi did not bowl with 76 balls with 3 fours and 6 sixes and Ayush Muhadri 67 runs.
+
+...
+
+[Data](articles/fd3a1d8a.json)
+
+[Extended Data](ext_articles/fd3a1d8a.ext.json)
+
+---
+
 ### Member Junction reminds the past
 
 *2024-12-04 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204042) · `si`
@@ -127,6 +481,22 @@ Jaffna District Independent MP Dr. Ramanathan Allechchi said a talk in Parliamen
 [Data](articles/b78f5001.json)
 
 [Extended Data](ext_articles/b78f5001.ext.json)
+
+---
+
+### Sri Lanka new govt’s policy statement passed in parliament unanimously
+
+*2024-12-04 19:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govts-policy-statement-passed-in-parliament-unanimously-192176/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissnayake’s policy statement for the new government was passed in the parliament without a vote on Wednesday (04) after two days of debate.
+
+In the statement, President Dissanayake outlined the major policies he intended to carry out in his five year tenure along with more than a two-third parliament majority for his Marxixts-leaned National People’s Power (NPP).
+
+The policy statement also covered the key changes the government wants to introduce aiming to eradicate corruption and ensure social justice while focusing on a modern economy. (Colombo/December 04/2024)
+
+◼️
+
+[Data](articles/ea6df0c7.json)
 
 ---
 
@@ -314,6 +684,24 @@ The month has been made in obtaining data in the past by technical factors. But 
 
 ---
 
+### Sri Lanka President discusses new govt’s policy priorities with World Bank ED
+
+*2024-12-04 18:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-new-govts-policy-priorities-with-world-bank-ed-192172/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake discussed the new government’s policy priorities with visiting World Bank Executive Director Parameswaran Iyer on Wednesday (04) including key sectors and Clean Sri Lanka project, the President’s Media Division (PMD) said.
+
+During the meeting Iyer affirmed that all ongoing World Bank-backed projects in Sri Lanka will continue uninterrupted, the PMD said.
+
+“President Dissanayake emphasised the government’s primary focus areas, which include advancing the agriculture, fisheries, tourism, education, and health sectors. He underscored the importance of these sectors in fostering national development and improving livelihoods,” the PMD said in a statement.
+
+“In response, Mr. Iyer stated that the World Bank is prepared to convene an advisory group to explore initial steps for supporting the government’s development priorities. He also commended the President’s “Clean Sri Lanka” programme.”
+
+...
+
+[Data](articles/5974e0dd.json)
+
+---
+
 ### W.M. Mendis & Company's license suspension
 
 *2024-12-04 18:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/W-M-மென்டிஸ்-அன்ட்-கம்பெனியின்-உரிமம்-இடைநிறுத்தம்/175-348250) · `ta`
@@ -363,6 +751,24 @@ Minister Samarasinghe said that coconuts will be sold for 130 rupees in the next
 [Data](articles/83c94121.json)
 
 [Extended Data](ext_articles/83c94121.ext.json)
+
+---
+
+### Sri Lanka’s ruling NPP never said to change DSA: Legislator
+
+*2024-12-04 18:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-ruling-npp-never-said-to-change-dsa-legislator-192169/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ruling Marxists-leaned National People’s Power (NPP) has never said to change the International Monetary Fund’s (IMF) Debt Sustainability Analysis (DSA) and only said it will discuss on a new DSA, Deputy Minister of Industries Chathuranga Abeysinghe told the parliament on Wednesday.
+
+Abeysinghe revealed this when opposition legislator Dayasiri Jayasekera accused the government of implementing policies contrary to what was promised before the elections.
+
+“We have clearly said in our policy document that we will put forward a new DSA for discussion and we never said that we will change the current DSA,” Abeysinghe said.
+
+The ruling NPP has been continuing most of the IMF-led economic reforms despite its members criticizing them during the election campaigns.
+
+...
+
+[Data](articles/59fbe0df.json)
 
 ---
 
@@ -559,6 +965,40 @@ Trade, Commerce, Food Security and Co-operative Development Wasantha Samarasingh
 [Data](articles/a63e6ab6.json)
 
 [Extended Data](ext_articles/a63e6ab6.ext.json)
+
+---
+
+### Mendis rejects the petition of the company
+
+*2024-12-04 17:39:37* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමේ-පෙත්සම-ප්‍රතික්ෂේප-කරයි/11-413459) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Court rejects Mendis Company's petition. Excise Dept threatens excavation order if arrears unpaid by Nov 30. Appeals Court dismisses case citing lack of disclosed issues. Liquor permits suspended; company seeks interim injunction. Attorney General opposes, arguing no legal basis for maintaining petition.
+
+🟩
+
+If the arrears are not paid before November 30, the Excise Department demands the excavation order issued by the Department of Examination. The Court of Appeal refused to hear the petition filed by Mendis Company.
+
+The Badulla Bench, the Court of Appeal, was considered by the Court of Appeal Judge Judges after a long matter.
+
+Judge Madulla said that it was not disclosed by the issues set out in the petition as stated in the petition.
+
+President's Counsel Naveen Marapana appeared before the petitioner before the petition was taken to the petition before November 30 was completed before November 30.That the letter is completely contrary to the law.
+
+The Presidential Counsel said that although he had issued a license to the liquor production until December 31, the Presidential Counsel said.
+
+The President's Counsel said that 10 liquor permits have been issued to his company to be suspended from today.
+
+The Presidential Counsel, the Fisheries of Parapchel Trason, has been able to pay more than Rs.
+
+...
+
+[Data](articles/f10d208b.json)
+
+[Extended Data](ext_articles/f10d208b.ext.json)
 
 ---
 
@@ -786,6 +1226,26 @@ The department notes that the taxpayer will not face fines or legal action if th
 
 ---
 
+### Sri Lanka rupee closes stronger at 290.40/50 to dollar, bonds down
+
+*2024-12-04 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-40-50-to-dollar-bonds-down-121722/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.40/50 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 9.35/45 percent, down from 9.40/50 percent.
+
+A bond maturing on 15.10.2027 closed at 10.15/25 percent, down from 10.25/35 percent.
+
+A bond maturing on 15.03.2028 closed at 10.45/55 percent, down from 10.50/55 percent.
+
+A bond maturing on 15.09.2029 closed at 10.80/95 percent, from 10.80/90 percent. (Colombo/Dec4/2024)
+
+◼️
+
+[Data](articles/c6f780a0.json)
+
+---
+
 ### Hirunika released
 
 *2024-12-04 17:09:32* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකා-නිදහස්/11-413458) · `si`
@@ -937,6 +1397,34 @@ Minister of Women and Child Affairs, Minister of Women and Child Affairs was ele
 [Data](articles/a271a313.json)
 
 [Extended Data](ext_articles/a271a313.ext.json)
+
+---
+
+### Sri Lanka stocks close up, ASPI reaches all-time high
+
+*2024-12-04 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-aspi-reaches-all-time-high-192120/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI closed up 1.29 percent, or 171.69 points, at 13,511; while the more liquid S&P SL20 Index closed up 1.90 percent, or 74.80 points, at 4,016.
+
+“The ASPI reached an all-time high,” market participants pointed out, with the S&P SL20 also breaching the 4,000 mark.
+
+Turnover was 5.2 billion. Most of this came from capital goods (Rs1.16bn) and banks sectors (Rs1.18bn).
+
+“The market is extremely bullish, and rates are supporting this.
+
+“There is fresh buying interest as the debt restructuring nears completion.”
+
+Investor interest was seen in banking and bluechip stocks, they said.
+
+Banking stocks saw interest: Commercial Bank (up at 127.00), Sampath Bank (up at 99.80), Hatton National Bank (up at 238.00), DFCC Bank (up at 88.00), and National Development Bank (up at 85.30).
+
+John Keells Holdings saw investor interest; the share closed up at 20.60.
+
+...
+
+[Data](articles/dd11bfc1.json)
 
 ---
 
@@ -2059,473 +2547,5 @@ The suspect has been arrested in Colombo, Fort, during an investigation into the
 [Data](articles/2e0556aa.json)
 
 [Extended Data](ext_articles/2e0556aa.ext.json)
-
----
-
-### Emergency Declaration in South Korea: Overnight withdrawn
-
-*2024-12-04 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்கொரியாவில்-அவசரநிலை-பிரகடனம்-ஒரே-நாளில்-வாபஸ்/50-348224) · `ta`
-
-South Korea emergency declaration cancelled after opposition protests. First use of Emergency Act in 50 years sparks widespread demonstrations and clashes between protesters and military.
-
-🟩
-
-It has been announced that it has been canceled by the opposition parties' struggle within a few hours of an emergency declared in South Korea.
-
-Speaking to the public yesterday (Dec. 03), South Korean President Yun Zak Yol announced that an emergency is being declared in the country to expel North Korean supporters from the country and suppress the anti -state forces.
-
-This is the first time the Emergency Act has been implemented in South Korea in 50 years. 190 MPs voted against this Emergency Act. They continued to protest in the parliamentary complex. Thousands of people gathered at the entrance of Parliament to protest the law and chanted slogans against South Korean President Yun Suk Yol.. The soldiers were immediately concentrated there.
-
-...
-
-[Data](articles/a3db18f3.json)
-
-[Extended Data](ext_articles/a3db18f3.ext.json)
-
----
-
-### Legislation to recover stolen assets, deter money laundering & drug trafficking
-
-*2024-12-04 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103983/legislation-to-recover-stolen-assets-deter-money-laundering-drug-trafficking) · `en`
-
-Minister of Justice Harshana Nanayakkara stated that the Proceeds of Crime Bill, Rescue, Rehabilitation and Insolvency Bill and the amendments to the Audit Bill will be presented to the Parliament at the beginning of the next quarter.
-
-Meanwhile, the Justice Minister also mentioned that these legislations are aimed at recovering stolen assets, effectively deterring money laundering and drug trafficking.
-
-Furthermore, he added that the amendments to the Audit Act will improve creditor confidence and protect debtors’ rights.
-
-◼️
-
-[Data](articles/9470bf7c.json)
-
-[Extended Data](ext_articles/9470bf7c.ext.json)
-
----
-
-### One minute silent tribute ...
-
-*2024-12-04 10:54:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஒரு-நிமிட-மௌன-அஞ்சலி/46-348223) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Minute's silence honored victims of Martin Air DC-8 crash, Dec 4, 1974, near Wimalasurendra Reservoir. Organized by police & Muhammadal Association. Memorial dedicated to 182 passengers & 9 crew members who died when plane crashed into seven nuns. Flowers, candles lit as tribute.
-
-🟩
-
-A minute's silent tribute was paid to the Memorial in the Memorial, constructed near the Notenpiridge Wimalasurendra Reservoir in the 50 years of the worst flight of Sri Lankan history.
-
-The event was organized by the Norton Bridge Police and members of the Muhammadal Association.
-
-On December 4, 1974, at around 10:10 pm, 182 people and 09 employees were killed when Martin Air Airlines owned DC 08 flight from Indonesia's Suraveyar airport crashed into a seven nuns.
-
-A tire of the aircraft is placed near the Wimalasurendra Reservoir, and the names of the staff are mentioned in the lower part.
-
-Also, the flower sprinkled in front of the memorial, lit the candle and paid a silent tribute to the dead.
-
-◼️
-
-[Data](articles/751aa36c.json)
-
-[Extended Data](ext_articles/751aa36c.ext.json)
-
----
-
-### One minute silent tribute ...
-
-*2024-12-04 10:54:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒரு-நிமிட-மௌன-அஞ்சலி/76-348223) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Minute's silence honored victims of 1974 Martin Air crash near Wimalasurendra Reservoir. Organized by police and Muslim association. 182 passengers and 9 crew died when DC-8 plane crashed into trees. Memorial features aircraft tire and staff names. Flowers and candles added as tributes.
-
-🟩
-
-A minute's silent tribute was paid to the Memorial in the Memorial, constructed near the Notenpiridge Wimalasurendra Reservoir in the 50 years of the worst flight of Sri Lankan history.
-
-The event was organized by the Norton Bridge Police and members of the Muhammadal Association.
-
-On December 4, 1974, at around 10:10 pm, 182 people and 09 employees were killed when Martin Air Airlines owned DC 08 flight from Indonesia's Suraveyar airport crashed into a seven nuns.
-
-A tire of the aircraft is placed near the Wimalasurendra Reservoir, and the names of the staff are mentioned in the lower part.
-
-Also, the flower sprinkled in front of the memorial, lit the candle and paid a silent tribute to the dead.
-
-◼️
-
-[Data](articles/8c220a3e.json)
-
-[Extended Data](ext_articles/8c220a3e.ext.json)
-
----
-
-### MP Sujith Sanjay Perera refutes assault allegations by MP Archchuna Ramanathan
-
-*2024-12-04 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103982/mp-sujith-sanjay-perera-refutes-assault-allegations-by-mp-archchuna-ramanathan) · `en`
-
-Samagi Jana Balawegaya (SJB) parliamentarian Sujith Sanjaya Perera has denied allegations of assault leveled against him by Jaffna District Independent MP Dr. Archchuna Ramanathan.
-
-The claims arose during the parliamentary session yesterday (03), where Dr. Archchuna alleged he was assaulted at the Opposition Leader’s Office in the Parliament Complex by MP Sujith Sanjaya Perera.
-
-In response, MP Perera clarified his stance today, stating: “There is no problem. The new MP Archchuna has made a statement that I attacked him. I never attacked him. However, an incident did occur at the office of the Leader of the Opposition. He came to the office and had an argument with the secretary of the leader of the opposition.  At that time, MP Alawathuwala and I sat nearby. I asked him to talk to the party leaders or the Speaker to resolve it. He said, ‘I did not come to talk to you,’ whereas I responded, mentioning I told you what we know.”
-
-...
-
-[Data](articles/12398b96.json)
-
-[Extended Data](ext_articles/12398b96.ext.json)
-
----
-
-### Boossa Prison finds telephone devices
-
-*2024-12-04 10:48:52* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-බන්ධනාගාරයෙන්-දුරකතන-උපාංග-සොයා-ගනියි/11-413446) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Boossa Prison raid finds phone devices. Police Special Task Force arrests chargers. Investigation ongoing."
-
-🟩
-
-Police Special Task Force says that a stock of telephone devices found at the Hath Buzabembara Prison and the prison premises were found yesterday (3).
-
-The raid was conducted according to the officers of the Police Special Task Force Boossa High Security Prison Base.
-
-Police have arrested eight chargers and 1 charger to remove two lighters and two outside walls in the Prison Hospital and the prison hospital premises..
-
-The Police Special Task Force took steps to hand over the telephone control over the telephone administration for further investigations.
-
-◼️
-
-[Data](articles/6add0711.json)
-
-[Extended Data](ext_articles/6add0711.ext.json)
-
----
-
-### Kelum Jayasumana granted bail
-
-*2024-12-04 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103981/kelum-jayasumana-granted-bail) · `en`
-
-Social activist Kelum Jayasumana who was arrested for sharing Mahaviru commemoration posts on social media has been granted bail.
-
-He has been ordered to be released on bail after he was produced before Colombo Magistrate’s Court, Ada Derana reporter said.
-
-During the trial, the officers of the Criminal Investigation Department (CID) stated before the court that the suspect had downloaded and reposted a picture which was initially posted by a French woman on Facebook that contained the proscribed symbols of the LTTE organization.
-
-Stating that this had disrupted public order and ethnic harmony, the officers also stated that no such event had been held in the North. Since the investigation has not been completed, the officers of the CID requested that the suspect be further remanded in custody.
-
-...
-
-[Data](articles/9db9e622.json)
-
-[Extended Data](ext_articles/9db9e622.ext.json)
-
----
-
-### Sivaghillengam in the North is one law. Is there another law to the right? '
-
-*2024-12-04 10:36:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgmlz4z2p7o) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-MP Dayasiri Jayasekera questions Prevention of Terrorism Act implementation. Police Minister Ananda Wijepala cites government prosecution. Justice Minister intervenes due to unsatisfactory response.
-
-🟩
-
-Parliamentarian Dayasiri Jayasekera, MP Dayasiri Jayasekera, questioned as to why the Prevention of Terrorism Act (December 04) under the Penal Code.
-
-The Police Minister Ananda Wijepala responded that the prosecution is being carried out by the government.
-
-However, the Minister of Justice had also intervened as Dayasiri Jayasekara was not satisfied with the answer.
-
-◼️
-
-[Data](articles/0fa5783e.json)
-
-[Extended Data](ext_articles/0fa5783e.ext.json)
-
----
-
-### Railway Track Surveillance Employee
-
-*2024-12-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200375) · `ta`
-
-A 58-year-old railway track surveillance employee died after being struck by a train while on duty in Kandy. He was drinking tea when he was hit by a train coming from Peradeniya to Kandy. The victim succumbed to injuries at Kandy National Hospital.
-
-🟩
-
-An employee who is engaged in railway surveillance at the railway station in Kandy has died.
-
-The deceased is a 58 -year -old man who works as a duck comparison from Kallalla, Kallalla, police said.
-
-While he was on duty, he came through the train to drink tea. At that time, he saw a railway train coming from Peradeniya to Kandy, and he has become a mutant to another train.
-
-It was reported that the train was traveling on the train engine and was admitted to the Kandy National Hospital and died without treatment.
-
-◼️
-
-[Data](articles/e0898ef5.json)
-
-[Extended Data](ext_articles/e0898ef5.ext.json)
-
----
-
-### Kearumu commemoration commands
-
-*2024-12-04 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204022) · `si`
-
-Colombo Magistrate's Court releases social activist on bail over Mahaviu commemoration claims. Suspect accused of distributing false information about a banned event in the North. Court questions lack of evidence and CID's failure to submit statements.
-
-🟩
-
-The Colombo Magistrate's Court ordered Kelum Jayasumana, a social activist who was in charge of the distribution of Mahaviu commemoration in the North, was released on bail.
-
-The complaint was called before Colombo Major Magistrate Thilina Gamage today (04).
-
-The suspect had previously published a photograph of the Tigers who were banned by a woman in French by a woman in France.
-
-The officers mentioned that there was no such ceremony in the North.
-
-The suspects were further remanded as investigations were not completed and the CID officials demanded the officers of the CID.
-
-The Magistrate also asked the Criminal Investigation Department officials and asked whether the act was submitted to court.
-
-Responding to this, the CID officials said that such statements were not submitted to court.
-
-The Magistrate asked how the suspect would be remanded without evidence that a public turb was to be remanded without evidence.
-
-...
-
-[Data](articles/8a5efe56.json)
-
-[Extended Data](ext_articles/8a5efe56.ext.json)
-
----
-
-### Cylinder's political bins a serious accusation of the conspiracy of racism
-
-*2024-12-04 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204021) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: Defense Minister accuses political party of racism conspiracy. Arrests made in North, South. Social media used to spread false information about ethnic tensions. Investigation ongoing involving multiple political groups.
-
-🟩
-
-The Minister of Defense and Parliamentary Affairs Ananda Wijepala said that there were photographies of Mahaviu commemorations in the North.
-
-This was stated in parliament today (04).
-
-The minister said that a political party had done such a political party in investigation into the incident.
-
-"One person in the North. A resident of Baddegama has been arrested and remanded until December 29. In addition, a man arrested in Maradana who mislead the masses in foreign countries to mislead the people.. The man arrested next to Boralesgamuwa remanded till today. He was a person who voted on the mark of the South's cylinder. In a campaign to prepare the background conflict to a confrontation of the North with the objective of organizing the government organized..  විශේෂයෙන්ම අත්අඩංගුවට ගත් පුද්ගලයින් දෙදෙනෙකුම සිලින්ඩරේ ලකුණින් ක්‍රියාකාරීන් විදියට ඉන්නවා. Who propagated these over the social media to an investigation. There is information that many political groups are involved in these. "
-
-◼️
-
-[Data](articles/9f8a7077.json)
-
-[Extended Data](ext_articles/9f8a7077.ext.json)
-
----
-
-### Sri Lanka’s Lion Brewery in talks with Diageo to license foreign brands
-
-*2024-12-04 10:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-in-talks-with-diageo-to-license-foreign-brands-191924/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Lion Brewery (Ceylon) Plc, the island’s top beer producer has initiated talks with UK-based Diageo Plc to produce international spirit brands under license, Chief Executive Rajiv Meewakkala said.
-
-Lion already has about 90 percent of the local market which is growing slowly and has also started exporting to boost the market.
-
-Expanding into spirits will open up new market for the firm.
-
-“One of the main things what we will be looking at is trying to manufacture the international brands locally, that means Vat 69, Smirnoff, all those international brands of Diageo,” Meewakkala said.
-
-“So, we have started conversations with them and it’s positive. Now we are currently looking at the feasibility and the commercial feasibility, so whatever comes out will be in 26.”
-
-Lion Brewery already license produces Guinness, a beer brand owned by Diageo. Expanding into spirits will take the firm to Gin, Brandy and Vodka segments.
-
-...
-
-[Data](articles/b8a1c149.json)
-
-[Extended Data](ext_articles/b8a1c149.ext.json)
-
----
-
-### Mill owners warn of looming rice shortage
-
-*2024-12-04 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103980/mill-owners-warn-of-looming-rice-shortage-) · `en`
-
-The All Ceylon Small and Medium Scale Mill Owners’ Association warns of a looming rice shortage if the government fails to import rice within the next two weeks.
-
-President of the Association U. K. Semasinghe emphasized the urgent need for a long-term strategy to address the recurring issue.
-
-“A systematic plan through the Paddy Marketing Board must be implemented during the’ Yala season’ to avoid future crises. Immediate steps to import rice are important as a short-term measure to mitigate the current shortage,” he stated.
-
-Semasinghe also highlighted the need for stricter regulation of rice used in beer production and animal feed, underscoring its impact on the nation’s food security.
-
-Adding to the discussion, former Director of Agriculture K. B. Gunaratne recommended replanting flood-hit paddy fields instead of merely providing compensation to affected farmers.
-
-◼️
-
-[Data](articles/6ac48a29.json)
-
-[Extended Data](ext_articles/6ac48a29.ext.json)
-
----
-
-### Arrested postman who distributed drugs
-
-*2024-12-04 10:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-விநியோகித்த-தபால்காரர்-கைது/175-348219) · `ta`
-
-Postman arrested for distributing drugs worth over 20 lakhs. Police found the illegal substance hidden in letters. A 32-year-old suspect was detained after a tip-off about suspicious activities in Borella Vanathamulla area.
-
-🟩
-
-Borella police said that the letter of the Post Office of Kottanchenai was arrested with a drug worth more than Rs 20 lakh.
-
-He was arrested on information received by the letter distributor at a post office, that he was wandering around with uniform and distributing drugs in the Borella Vanathamulla area.
-
-The suspect was arrested by a special police team and during the raid, police said that the drug was found hidden in the letter.
-
-A Senior Police Officer said that a special police team was sent on Tuesday night to carry out special raids at the arrested suspect's Kottanchena home.. The arrested suspect is 32 years old.
-
-◼️
-
-[Data](articles/83cd4666.json)
-
-[Extended Data](ext_articles/83cd4666.ext.json)
-
----
-
-### National Procurement Commission probing e-passport tender issue, court told
-
-*2024-12-04 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103979/national-procurement-commission-probing-e-passport-tender-issue-court-told) · `en`
-
-The Attorney General (AG) has informed the Court of Appeal that the National Procurement Commission of Sri Lanka is conducting an investigation into the method in which the previous government has granted the tender related to purchasing 5 million electronic passports for the Department of Immigration and Emigration.
-
-This was communicated to the court by Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of the Attorney General, when the petition filed by Epic Lanka Private Limited challenging the previous government’s decision to purchase 750,000 normal passports and 5 million e-passports from two foreign firms, was taken up on Tuesday (03).
-
-Furthermore, the Additional Solicitor General mentioned that the National Procurement Commission has requested a period of one week to submit observations related to the investigation. Therefore, he requested the court for a date to inform the progress of the relevant investigation.
-
-...
-
-[Data](articles/1ff385f6.json)
-
-[Extended Data](ext_articles/1ff385f6.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.45/65 to dollar, bonds steady
-
-*2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-125231/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were steady.
-
-An auction of Rs 192,500 million treasury bills was ongoing.
-
-A bond maturing on 15.12.2026 was quoted stable at 9.40/50 percent.
-
-A bond maturing on 15.10.2027 was quoted at 10.22/25 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.03.2028 was quoted stable at 10.50/55 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, up from 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 13,370. The more liquid S&P SL20 was up 0.22 percent, or 8.64 points, at 3,950.
-
-◼️
-
-[Data](articles/9b4c2152.json)
-
-[Extended Data](ext_articles/9b4c2152.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.45/65 to dollar, bonds steady
-
-*2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-bonds-steady-125231/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were steady.
-
-An auction of Rs 192,500 million treasury bills was ongoing.
-
-A bond maturing on 15.12.2026 was quoted stable at 9.40/50 percent.
-
-A bond maturing on 15.10.2027 was quoted at 10.22/25 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.03.2028 was quoted stable at 10.50/55 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, up from 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 13,370. The more liquid S&P SL20 was up 0.22 percent, or 8.64 points, at 3,950.
-
-◼️
-
-[Data](articles/b87790a3.json)
-
-[Extended Data](ext_articles/b87790a3.ext.json)
-
----
-
-### Audit reveals how a windaging in the medical council
-
-*2024-12-04 09:43:12* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-සභාව-වංගු-ගහපු-හැටි-විගණනයකින්-හෙළිවෙයි/11-413445) · `si`
-
-Sri Lanka Medical Council audit reveals improper bonus payments and lack of compliance with regulations since 2007.
-
-🟩
-
-The Sri Lanka Medical Council has paid bonuses since 2007, since 2007, has paid bonuses since 2007 a year after its employees.. According to the gratuity payment Act, No. 12 of 1983, the bonus payments should be paid only equally equal to each year in order to each year.
-
-The National Audit Secretary's Secretariat is said to be held on the National Audit Act No. 19 of 2018 and the National Audit Secretariat.
-
-According to a decision of the Management Committee on 15th of the Management Committee on 15, the year 2007 to 2023, it was twice the gratuity for each employee for 16 years.. The Medical Council has not made any clear of millions of rupees paid by the Sri Lanka Medical Council.
-
-In April 2023, all employees have been paid as bonuses in April, 2023, a monthly salary of Rs.. The Governing Body has not provided the power to determine the power and allowances of the Management Circular No. 02 of the Management Circular No. 02 of 18.07.2018.
-
-...
-
-[Data](articles/a2b1c8ed.json)
-
-[Extended Data](ext_articles/a2b1c8ed.ext.json)
-
----
-
-### The cause of non-communicable diseases is distorted food pattern
-
-*2024-12-04 09:25:58* · [`adalk`](https://www.ada.lk/breaking_news/බෝනොවන-රෝග-වලට-හේතුව-විකෘති-ආහාර-රටාවයි/11-413444) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Non-communicable diseases cause 85% of deaths in Sri Lanka. A medical officer reports 37% of patients suffer from non-communicable diseases. The health sector faces increasing challenges from these diseases, potentially requiring community halls to be converted into hospitals if left unaddressed.
-
-🟩
-
-Medical Officer of the Matale District Infectious Disease Control Unit says that 85% of the deaths in Sri Lanka are due to non-communicable disease.
-
-The doctor, who was organized by the Udaweeragama Isuru Rural Development Society in the Mekotuwa, was 37% of non-communicable patients and 25% suffering from 37% of over 37%.
-
-The doctor states that the doctor has increased to control non-communicable diseases and that the health of health is due to non-communicable diseases.
-
-The greatest problem in the health sector is increasing non-communicable patients. It also pointed out that if not arranged to control non-communicable diseases, even the community hall will be made into hospitals.
-
-◼️
-
-[Data](articles/1cc2be25.json)
-
-[Extended Data](ext_articles/1cc2be25.ext.json)
 
 ---

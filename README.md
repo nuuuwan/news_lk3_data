@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 15:01:34**
+As of **2024-12-04 15:26:35**
 
 ## Newspaper Stats
 
-*Scraped **58,410** Articles*
+*Scraped **58,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,506
 economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,530
-adaderanalk | 7,090
-tamilmirrorlk | 8,316
+adalk | 5,531
+adaderanalk | 7,091
+tamilmirrorlk | 8,317
 virakesarilk | 9,556
 adaderanasinhalalk | 10,089
 
@@ -26,27 +26,71 @@ adaderanasinhalalk | 10,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,409 (100.0%) of 58,410 articles have been extended.
+58,411 (100.0%) of 58,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### ”ஈஸ்டர் தாக்குதல்கள் பற்றிய தகவல்கள் எங்களிடம் உள்ளன”
+### பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் தலைவி தெரிவு
+
+*2024-12-04 15:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பாராளுமன்ற-உறுப்பினர்கள்-ஒன்றியத்தின்-தலைவி-தெரிவு/175-348239) · `ta`
+
+பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியம் பிரதமர் கலாநிதி ஹரினி அமரசூரிய தலைமையில் முதல் தடவையாகப் பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03)  கூடியது. இதில் பாராளுமன்ற குழுக்களின் பிரதித் தவிசாளர் பாராளுமன்ற உறுப்பினர் ஹேமாலி வீரசேகர, பாராளுமன்ற செயலாளர் நாயகமும், ஒன்றியத்தின் செயலாளருமான குஷானி ரோஹனதீர உள்ளிட்டோர் கலந்துகொண்டனர்.
+
+இதில் பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் புதிய தலைவியாக பெண்கள் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவுசெய்யப்பட்டார். அவருடைய பெயரை பாராளுமன்ற உறுப்பினர் சமன்மலி குணசிங்க முன்மொழிந்ததுடன், பாராளுமன்ற உறுப்பினர் அனுஷ்கா திலகரத்ன வழிமொழிந்தார்.
+
+...
+
+[Data](articles/f0b22662.json)
+
+---
+
+### “We have information on Easter attacks”
 
 *2024-12-04 14:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-தாக்குதல்கள்-பற்றிய-தகவல்கள்-எங்களிடம்-உள்ளன/175-348237) · `ta`
 
-250 இற்கும் அதிகமான உயிர்களை பலிகொண்ட 2019 ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பான மேலதிக தகவல்கள் தன்னிடம் இருப்பதாக பாராளுமன்ற உறுப்பினர் சானக்கியன் இராசமாணிக்கம் தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-2019 ஆம் ஆண்டு இடம்பெற்ற பயங்கரவாதத் தாக்குதலுடன் தொடர்பிலான தகவல்களை அரசாங்கம் முழுமையாக ஆராய வேண்டும் என மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் பாராளுமன்றத்தில் உரையாற்றினார்.
 
-“ஈஸ்டர் தாக்குதல் தொடர்பாக இந்த அரசாங்கத்திற்கு பெரும் பொறுப்பு உள்ளது. இவ்விடயம் தொடர்பில் பிள்ளையானிடம் விசாரணை நடத்தப்பட்டதைக் கண்டோம். அதற்கு மேல், யாரை கைது செய்ய வேண்டும் என்பதை நாங்கள் சொல்ல மாட்டோம். அது பொலிஸாரின் பொறுப்பாகும். எவ்வாறாயினும், ஈஸ்டர் ஞாயிறு தாக்குதல்கள் பற்றிய கூடுதல் தகவல்கள் எங்களிடம் உள்ளன, ”என்று அவர் கூறினார்.
 
-“இது குறித்து நான் பாதுகாப்புச் செயலாளருக்கு அறிவித்துள்ளேன். பாதுகாப்பு அமைச்சரும் இங்கே இருக்கிறார். எங்களுக்கு ஒரு வாய்ப்பு கொடுங்கள். பாராளுமன்றத்திற்குள் திரிபோலி படைப்பிரிவு பற்றி பல விஷயங்களை விவாதித்துள்ளோம். மேலும் ஆதாரங்களைப் பெற இந்த குழுக்களை ஒருங்கிணைப்போம்” என்று ராசமாணிக்கம் கூறினார்.
+Sri Lankan MP Sanakian Rasamanikam revealed new details about the 2019 Easter attacks. He called for a full investigation, citing additional information shared with defense officials. Rasamanikam also mentioned unresolved issues related to Sivanesathurai Chandrakanthan (Pillaiyan) and urged the current PM to address these matters.
+
+🟩
+
+Parliamentarian Sanakian Rasamanikam said he had further information on the 2019 Easter Sunday attacks, which had been killed by more than 250 lives.
+
+The Batticaloa District Parliamentarian addressed the parliament that the government should fully investigate information on the 2019 terrorist attacks.
+
+“This government has a great responsibility for the Easter attack. We have found that the child was investigated in this regard. On top of that, we won't tell whom to arrest. That is the responsibility of the police. However, we have more information about Easter Sunday attacks, ”he said.
+
+“I have informed the Secretary of Defense on this. The Defense Minister is also here. Give us a chance. We have discussed many things about the Tripoli Regiment within Parliament. We will integrate these groups to get more evidence, ”Rasamanikam said.
 
 ...
 
 [Data](articles/f77c320b.json)
+
+[Extended Data](ext_articles/f77c320b.ext.json)
+
+---
+
+### Stock of mobile phone accessories discovered at Boossa Prison Hospital
+
+*2024-12-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103986/stock-of-mobile-phone-accessories-discovered-at-boossa-prison-hospital) · `en`
+
+A cache of mobile phone and electronic accessories has been discovered at the Boossa High-Security Prison during a search operation conducted by the Police Special Task Force (STF).
+
+The discovery was made within the prison hospital and adjacent premises based on information received by STF officers stationed at the prison.
+
+The operation yielded five mobile phone chargers and eight data cables, the police said.
+
+The seized items have been handed over to the prison administration, which has initiated further investigations to determine how the items were smuggled into the high-security facility.
+
+The Boossa High-Security Prison is known for housing high-profile inmates, and authorities have repeatedly emphasized the need to prevent the entry of unauthorized items that could compromise security.
+
+◼️
+
+[Data](articles/c4e5c2b3.json)
 
 ---
 
@@ -383,6 +427,36 @@ Responding to a question raised by Batticaloa district council member Rasamanika
 [Data](articles/552654f7.json)
 
 [Extended Data](ext_articles/552654f7.ext.json)
+
+---
+
+### Another of lives at risk
+
+*2024-12-04 11:29:29* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-අවදානමක-සිටින-තවත්-ඇතෙක්/11-413447) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wild elephant attacks rising in Mahailuppallam. Elephants breaking into homes and farmland near electric fences. Recent incident at Kavuwewa Assistant 01's garden highlights risk. Local residents concerned about safety due to increasing elephant-human conflicts.
+
+🟩
+
+The Mahailuppallam area report on another ruling tree in which the use of electricity.
+
+With a well-rough pair of gross, the Grossy Ilanpelama and home gardens and farmland are constantly roaming these days.
+
+The most common fences that have been constructed by the worst elephants and livestock are also common to protect these crops and elephants, due to Mahailuppallama.
+
+The villagers say that the elephants entering the elephant these days are constantly on the rise to the houses and farm.
+
+Lavinia Foundation states that this elephant is a major risk of electricity in a variety of private fences.  පුද්ගලික විදුලි වැටවල් බහුල ප්‍රෙද්ශයක නිරන්තරයෙන් සැරිසරමින් ජීවිත අවධානමට ලක්ව සිටින එම දළ ඇතා ඊයෙ (03) රාත්‍රියේ ද මහඉලුප්පල්ලම ප්‍රෙද්ශයේ ගෙවත්තකට කඩා වැදී එම නිවස ආසන්නයේම සැරිසරණ අයුරු ද දක්නට ලැබේ.
+
+...
+
+[Data](articles/61d48e00.json)
+
+[Extended Data](ext_articles/61d48e00.ext.json)
 
 ---
 
@@ -2399,55 +2473,5 @@ Accordingly, it has been decided to grant permission for the importation of rice
 [Data](articles/3359780e.json)
 
 [Extended Data](ext_articles/3359780e.ext.json)
-
----
-
-### Daraz 11.11: Transforming shopping habits and boosting local businesses across Sri Lanka
-
-*2024-12-03 20:14:00* · [`islandlk`](http://island.lk/daraz-11-11-transforming-shopping-habits-and-boosting-local-businesses-across-sri-lanka/) · `en`
-
-Daraz Sri Lanka has successfully concluded 11.11 Biggest Sale Of The Year on November 17. The event brought together customers, sellers, and brands in a celebration of unbeatable discounts of up to LKR 150 million, exclusive promotions, and the lowest prices of the year. Highlighting the growing adoption of e-commerce, this year’s 11.11 showcased Daraz’s pivotal role in transforming the shopping habits of millions of consumers across Sri Lanka and creating significant growth opportunities for sellers across the country.
-
-During the 11.11 campaign, Audio, Skincare, Women’s Fashion, Beauty Tools, and Smartwatches emerged as the most popular categories among Sri Lankan consumers, indicating a growing inclination toward self-care, modern lifestyle choices, and adopting wearable technology to enhance daily life.
-
-...
-
-[Data](articles/317bb8c4.json)
-
-[Extended Data](ext_articles/317bb8c4.ext.json)
-
----
-
-### CIPM Sri Lanka concludes successful workshop on feedback and KPI mastery
-
-*2024-12-03 20:13:00* · [`islandlk`](http://island.lk/cipm-sri-lanka-concludes-successful-workshop-on-feedback-and-kpi-mastery/) · `en`
-
-The Chartered Institute of Personnel Management (CIPM) Sri Lanka proudly concluded its sold-out workshop, “Feedback Playbook and KPI Mastery for Success in 2025” held on November 29, 2024, at Marino Beach Colombo. The highly anticipated event brought together senior HR professionals and line managers from leading organizations, delivering transformative insights into effective KPI setting and structured feedback.
-
-Facilitated by the renowned HR expert, C. Hewapattini, Chartered Fellow CIPM, the workshop equipped participants with practical tools to align individual performance with organizational goals. The interactive sessions, combining role plays, case studies, and real-world simulations, left attendees with actionable strategies to tackle the challenges of performance management in 2025 and beyond.
-
-...
-
-[Data](articles/8fe7e696.json)
-
-[Extended Data](ext_articles/8fe7e696.ext.json)
-
----
-
-### Manufacturing sector counters feed bullish trend in bourse
-
-*2024-12-03 20:10:00* · [`islandlk`](http://island.lk/manufacturing-sector-counters-feed-bullish-trend-in-bourse/) · `en`
-
-Manufacturing sector counters dominated the stock market yesterday, especially Dipped Products and ACL Cables. Consequently, market activities were bullish throughout the day, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 126.97 points while S and P SL20 rose by 39.3 points. Turnover stood at Rs 3.2 billion with six crossings.
-
-Those crossings were reported in Agarapathana Plantations, where 10 million shares crossed to the tune of Rs 90 million; its shares traded at Rs 9, HNB 362,000 shares crossed for Rs 85.2 million; its shares traded at Rs 235, Keells Hotels 1.5 million shares crossed for Rs 28.5 million; its shares sold at Rs 18, Vallibel One 500,000 shares crossed for Rs 27.7 million; its shares traded at Rs 55.5, Dipped Products 605,000 shares crossed for Rs 27.5 million; its shares traded at Rs 45.50 and CIC Holdings 250,000 shares crossed to the tune of Rs 20 million; its shares traded at Rs 80.
-
-...
-
-[Data](articles/1b0afde6.json)
-
-[Extended Data](ext_articles/1b0afde6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 12:02:25**
+As of **2024-12-04 13:43:09**
 
 ## Newspaper Stats
 
-*Scraped **58,394** Articles*
+*Scraped **58,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,253 @@ islandlk | 3,506
 economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,527
-adaderanalk | 7,088
-tamilmirrorlk | 8,309
+adalk | 5,529
+adaderanalk | 7,090
+tamilmirrorlk | 8,313
 virakesarilk | 9,556
-adaderanasinhalalk | 10,086
+adaderanasinhalalk | 10,088
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,380 (100.0%) of 58,394 articles have been extended.
+58,402 (100.0%) of 58,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### மாவீரர் விவகாரம்: இளைஞனுக்கு பிணை
+### Chola is a world record for creating the president's image
 
-*2024-12-04 11:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-விவகாரம்-இளைஞனுக்கு-பிணை/175-348227) · `ta`
+*2024-12-04 13:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-உருவத்தை-உருவாக்கி-சோழன்-உலக-சாதனை/175-348234) · `ta`
 
-தமிழீழ மாவீரர் தினத்தை முன்னிட்டு தனது முகநூல் பக்கத்தில் பொய்யான தகவல்களை வெளியிட்ட குற்றச்சாட்டின் பேரில் விளக்கமறியலில் வைக்கப்பட்டிருந்த சமூக ஆர்வலர் கெலும் ஜயசுமனவை பிணையில் விடுவிக்க கொழும்பு நீதவான் திலின கமகே, புதன்கிழமை (04) உத்தரவிட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-சமூக ஊடகங்களில் பொது ஒழுங்கை மீறும் வகையிலும், இனங்களுக்கு இடையிலான நல்லிணக்கத்தை சீர்குலைக்கும் வகையிலும் செய்திகள் பரப்பப்பட்டமைக்கு எதிராக குற்றப் புலனாய்வுப் பிரிவு பொலிஸாரின் இணைய ஊடுருவல் புலனாய்வுப் பிரிவினரால் சந்தேகநபர் கைது செய்யப்பட்டு நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து,  முன்வைக்கப்பட்ட உண்மைகளை ஆராய்ந்த நீதவான் பிணை வழங்கியுள்ளார்.
 
-சந்தேகநபர் தொடர்பில் மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும், சந்தேக நபரை விளக்கமறியலில் வைக்குமாறும் குற்றப் புலனாய்வுப் பிரிவினர் கோரியுள்ளனர்.
+
+Youngster breaks world record: 11-year-old Sansul Sehansha Lakmal creates massive 91-inch tall, 68-inch wide portrait of President Anura Kumara Dissanayake using 1200 Rubik's cubes in 3 hours, 13 minutes, and 7 seconds. Event organized by Cholan Book of World Records and People's Helping People Foundation.
+
+🟩
+
+Sansul Sehansha Lakmal, an 11 -year -old boy, has made a world record by creating a massive portrait of President Anura Kumara Dissanayake, a 91 -inch high and 68 -inch wide, using 1,200 Rubix cubes.
+
+He made this record in 3 hours, 13 minutes and 7 seconds in the world record.
+
+The event was organized yesterday by the Cholan Book of World Records and People's Helping People Foundation.
+
+The achievement was held in the presence of Brigadier Maha Dwakar, Commander of the Camp at Ranaviru Dress Swimming in Yakkala, and Deputy Commander Brigadier Vasage.
+
+Cholan World Records General Secretary, Indranath Perera, Vice President Sri Nagavani Raja, Director of Steps, Francis Jesudasan, Chairman of the Cholan Book of World RecordsMonitored.
+
+To recognize the record of Sansulin, the trophy was awarded to the organizers and the military officials, with the certificate, the gold medal, the memorial shield and the identity card.
+
+◼️
+
+[Data](articles/808cb3fb.json)
+
+[Extended Data](ext_articles/808cb3fb.ext.json)
+
+---
+
+### Hacking the website of the Department of Meteorology
+
+*2024-12-04 12:44:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-இணையத்தளம்-ஹேக்/175-348230) · `ta`
+
+Department of Meteorology website hacked twice. Authorities working to restore site and prevent future attacks. Incident occurred November 1, 2024.
+
+🟩
+
+The official website of the Department of Meteorology has been hacked for the second time in the short term.
+
+According to the authorities, efforts are currently underway to restore the website and protect its operation.
+
+It is noteworthy that the incident took place on November 1, 2024 after a similar hack.
+
+◼️
+
+[Data](articles/40e16372.json)
+
+[Extended Data](ext_articles/40e16372.ext.json)
+
+---
+
+### Plan to submit three Bills; Justice Minister
+
+*2024-12-04 12:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-சட்டமூலங்களை-சமர்ப்பிக்க-திட்டம்-நீதியமைச்சர்/175-348229) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Government plans 3 bills: anti-money laundering, drug trafficking prevention, asset recovery. Justice Minister Harshana Nanayakkara aims to submit these laws in Q1 2024."
+
+🟩
+
+Justice Minister Harshana Nanayakkara said that the government is planning to submit three bills in Parliament within the first quarter of next year to prevent stolen assets, money laundering, drug trafficking and related crimes.
+
+The Minister said this while addressing the debate on the government's policy statement submitted by the President.
+
+He said he had the idea of ​​introducing three bills of stolen assets, money laundering, drug trafficking and all relevant crimes effectively.
+
+The Minister said that the bankruptcy law and the censorship law would improve the confidence of the lender and protect the creditors' rights, the minister said.
+
+◼️
+
+[Data](articles/a1074b6d.json)
+
+[Extended Data](ext_articles/a1074b6d.ext.json)
+
+---
+
+### Ministry of Defense limits civilian firearm issuance to one per individual
+
+*2024-12-04 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103985/ministry-of-defense-limits-civilian-firearm-issuance-to-one-per-individual-) · `en`
+
+The Ministry of Defense has announced a new policy limiting the issuance of firearms for self-defence to only one per individual.
+
+This decision follows a comprehensive survey conducted to assess the distribution and usage of firearms among civilians, the Defence Ministry said.
+
+The Ministry clarified that exceptions to the one-firearm rule will be considered only after a thorough security analysis. However, the final decision in such cases will rest with the Ministry of Defense, according to the ministry.
+
+Current surveys on firearms issued to firearms are ongoing at the Defence Ministry premises. Preliminary findings have revealed that over 1,500 firearms have been issued to civilians, with some individuals possessing more than one weapon.
+
+On October 04, the Ministry of Defence had announced that all firearms and ammunition provided to civilians for self-defence will be acquired by the government and that they must be handed over to the relevant authorities before 07 November.
 
 ...
 
+[Data](articles/fa13c2fd.json)
+
+[Extended Data](ext_articles/fa13c2fd.ext.json)
+
+---
+
+### Only one fireman for the lives of life
+
+*2024-12-04 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204025) · `si`
+
+Defense Ministry limits civilian firearms to one per person. Survey conducted; additional weapons require security analysis. Final decision rests with ministry. Over 1500 firearms already issued to civilians.
+
+🟩
+
+The Defense Ministry has decided to provide only one firearm to protect a person's life.
+
+The move has taken after a survey conducted regarding firearms, the ministry said.
+
+If you want to use more than one firearm for one person, the security analysis is to be carried out and take necessary action.
+
+However, after that analysis, another fire produce is issued?Not?They also said that the Defense Ministry has the final decision to go.
+
+Survey of firearms issued to civilians is currently conducting at the Defense Ministry premises.
+
+More than 1,500 firearms have been issued for civilians and some people have issued more than one firemen.
+
+The Defense Ministry had informed the firearms issued to civilians.
+
+◼️
+
+[Data](articles/ec993f6a.json)
+
+[Extended Data](ext_articles/ec993f6a.ext.json)
+
+---
+
+### ‘Plot to create division between North and South’: Public Security Minister on LTTE ‘Mahaviru’ celebration claims
+
+*2024-12-04 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103984/plot-to-create-division-between-north-and-south-public-security-minister-on-ltte-mahaviru-celebration-claims) · `en`
+
+Minister of Public Security and Parliamentary Affairs Ananda Wijepala has alleges that photographs from the past  LTTE ‘Mahaviru’ celebrations that were held in other countries had been circulated on social media, to create the impression that similar events were taking place in the Northern Province of Sri Lanka under the current administration.
+
+Making a special statement in the Parliament today (04), the minister warned that such actions are part of a larger campaign aiming to create division and conflict between the North and South of the country, highlighting the manipulative intent behind the false narratives.
+
+The Minister accused a specific political party of orchestrating the campaign, confirming that investigations had identified their involvement. He revealed that several arrests have already been made in connection with the dissemination of false claims.
+
+...
+
+[Data](articles/15279d7b.json)
+
+[Extended Data](ext_articles/15279d7b.ext.json)
+
+---
+
+### Heroes affair: Bail for young man
+
+*2024-12-04 11:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-விவகாரம்-இளைஞனுக்கு-பிணை/175-348227) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Colombo Magistrate releases social activist Kelum Jayasumana on bail. Charged with spreading false info on Facebook. CID opposed release but magistrate granted bail without evidence due to lack of public disruption proof.
+
+🟩
+
+Colombo Magistrate Thilina Kamage on Wednesday (04) has ordered the release of social activist Kelum Jayasumana, who was detained on the allegations of false information on his Facebook page on his Facebook page.
+
+The magistrate has granted bail on the fact that the suspect was arrested and produced in court by the Criminal Investigation Investigation Unit of the Criminal Investigation Department (CID) against the spread of news spreading public order on social media and disrupting inter -ethnic harmony.
+
+The Criminal Investigation Department has demanded that further investigations into the suspect and the suspect be kept in detention.
+
+Asked how the suspect could be interrogated in the absence of evidence of public disruption, the magistrate ordered the bail to be granted without evidence.
+
+The Magistrate ordered the release of the suspect on two bail
+
+◼️
+
 [Data](articles/e2b7b16e.json)
+
+[Extended Data](ext_articles/e2b7b16e.ext.json)
+
+---
+
+### Tok Prison Hospital meets telephone accessories
+
+*2024-12-04 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204024) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Contraband phones seized: Five mobile chargers discovered at Tok Prison Hospital during a search operation. Equipment handed over to prison authorities for investigation."
+
+🟩
+
+A stock of telephone devices were found at the Boossa Prison Hospital premises and prison premises.
+
+According to the Special Task Force Boossa HEA, the equipment was recovered in a search operation conducted in the prison hospital premises.
+
+There were five mobile phone chargers, five mobile charges in prison and prison in the prison.
+
+The consignment of the telephone device has been handed over to the prison management for further investigations.
+
+◼️
+
+[Data](articles/6bfeb9b3.json)
+
+[Extended Data](ext_articles/6bfeb9b3.ext.json)
+
+---
+
+### Look for whom to see: the evening knows
+
+*2024-12-04 11:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/யாருக்கு-பார்-அனுமதி-பத்திரம்-மாலை-தெரியும்/150-348226) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Health Minister Nalinda Jayatissa to present Liquor Studies (Bar) permit in Parliament tonight. Responding to illegal bargaining concerns last season.
+
+🟩
+
+The ruling party's chief organizer of the Health Minister Nalinda Jayatissa told Parliament that the Liquor Studies (Bar) permit will be presented in Parliament this evening.
+
+Responding to a question raised by Batticaloa district council member Rasamanikam Chanakyan on the illegal bargaining persons last season, Nalinda Jayatissa said this.
+
+◼️
+
+[Data](articles/45f26151.json)
+
+[Extended Data](ext_articles/45f26151.ext.json)
 
 ---
 
@@ -240,7 +458,11 @@ Social activist Kelum Jayasumana who was arrested for sharing Mahaviru commemora
 
 He has been ordered to be released on bail after he was produced before Colombo Magistrate’s Court, Ada Derana reporter said.
 
-◼️
+During the trial, the officers of the Criminal Investigation Department (CID) stated before the court that the suspect had downloaded and reposted a picture which was initially posted by a French woman on Facebook that contained the proscribed symbols of the LTTE organization.
+
+Stating that this had disrupted public order and ethnic harmony, the officers also stated that no such event had been held in the North. Since the investigation has not been completed, the officers of the CID requested that the suspect be further remanded in custody.
+
+...
 
 [Data](articles/9db9e622.json)
 
@@ -422,17 +644,71 @@ In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 1
 
 ---
 
-### මම අර්ච්චුනාට ගැහුවේ නෑ...සජබ මන්ත්‍රී චෝදනා ප්‍රතික්ෂේප කරයි
+### වෛද්‍ය සභාව වංගු ගහපු හැටි විගණනයකින් හෙළිවෙයි
+
+*2024-12-04 09:43:12* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-සභාව-වංගු-ගහපු-හැටි-විගණනයකින්-හෙළිවෙයි/11-413445) · `si`
+
+ශ්‍රී ලංකා වෛද්‍ය සභාව එහි සේවකයින්ට සේවය කරන ලද වසරකට මාසය බැගින් 2007 වර්ෂයේ සිටම පාරිතෝෂික ගෙවා තිබෙන බව ශ්‍රි ලංකා වෛද්‍ය සභාව සම්බන්ධයෙන් වූ 2023 විගණන වාර්තාවේ සදහන් වේ. 1983 අංක 12 දරණ පාරිතෝෂික ගෙවීම් පනතට අනුව සේවකයින් සදහා පාරිතෝෂික ගෙවීමේදී සම්පූර්ණයෙන් සේවය කරන ලද එක් එක් වර්ෂය සදහා මාස ½ ක වැටුපට සමාන මුදලක් පමණක් පාරිතෝෂික ගෙවිය යුතු බවද එම විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
+
+2018 අංක 19 දරණ ජාතික විගණන පනත සහ 1971 අංක 38 දරණ මුදල් පනත අනුව ශ්‍රී ලංකා වෛද්‍ය සභාවේ 2023.12.31 දක්වා කටයුතු සම්බන්ධයෙන් ජාතික විගණන මහ ලේකම් කාර්යාලය මගින් සිදු කරන ලද විගණන මූල්‍ය ප්‍රකාශනයේ මේ බව සදහන් වේ.
+
+...
+
+[Data](articles/a2b1c8ed.json)
+
+---
+
+### The cause of non-communicable diseases is distorted food pattern
+
+*2024-12-04 09:25:58* · [`adalk`](https://www.ada.lk/breaking_news/බෝනොවන-රෝග-වලට-හේතුව-විකෘති-ආහාර-රටාවයි/11-413444) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Non-communicable diseases cause 85% of deaths in Sri Lanka. A medical officer reports 37% of patients suffer from non-communicable diseases. The health sector faces increasing challenges from these diseases, potentially requiring community halls to be converted into hospitals if left unaddressed.
+
+🟩
+
+Medical Officer of the Matale District Infectious Disease Control Unit says that 85% of the deaths in Sri Lanka are due to non-communicable disease.
+
+The doctor, who was organized by the Udaweeragama Isuru Rural Development Society in the Mekotuwa, was 37% of non-communicable patients and 25% suffering from 37% of over 37%.
+
+The doctor states that the doctor has increased to control non-communicable diseases and that the health of health is due to non-communicable diseases.
+
+The greatest problem in the health sector is increasing non-communicable patients. It also pointed out that if not arranged to control non-communicable diseases, even the community hall will be made into hospitals.
+
+◼️
+
+[Data](articles/1cc2be25.json)
+
+[Extended Data](ext_articles/1cc2be25.ext.json)
+
+---
+
+### I didn't hit the arrival of the arrival ... Commendation denies the allegations
 
 *2024-12-04 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204020) · `si`
 
-පාර්ලිමේන්තුවේ විපක්ෂ නායක කාර්යාලය තුළදී ස්වාධීන මන්ත්‍රී රාමනාදන් අර්චුනා මහතාට පහර දුන් බවට කරන චෝදනා ප්‍රතික්ෂේප කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී සුජිත් සංජය පෙරේරා මහතා පවසයි.
+Here's a summary in 200 characters:
 
-ඊයේ (03) පාර්ලිමේන්තු රැස්වීමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+
+Sujith Sanjaya Perera denies assault claim against Ramanathan Archuna. Incident occurred at Opposition Leader's office. Archuna alleges assault, apologizes for racist remarks in Parliament.
+
+🟩
+
+Parliamentarian PS member Sujith Sanjaya Perera says that he will deny the allegations that Independent MP Ramanathan Archuna was assaulted by the Opposition Leader of the Opposition.
+
+He was speaking to the media yesterday (03).
+
+"No problem. The newly named Achchutach had made a statement that I was attacked by him. In no case I didn't work to attack him. However, there was a incident at the Opposition's Office. He came to the Opposition Leader's office and saw an argument with the opposition leader.. The elephants were sitting at the chair. The Alawatuwa MP was speaking and told him to talk to the Speaker with party leaders and to resolve the Speaker. But he did not accept that. There he said that he was not with you, but I was not talking. There I said what we know that we knew that it was not fair to do this to the opposition leader, but the opposition leader in the opposition, or even to the Opposition Board.. He said you said this would not apply to this. There was an argument. "
 
 ...
 
 [Data](articles/701fd457.json)
+
+[Extended Data](ext_articles/701fd457.ext.json)
 
 ---
 
@@ -544,23 +820,29 @@ The exam will be held from December 21 to December 31, the Commissioner General 
 
 ---
 
-### ඉදිරි සති දෙකේ සහල් ආනයනය නොකළොත් ප්‍රශ්න ගොඩක්
+### If the rice is not imported next two weeks, a lot of questions
 
 *2024-12-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204019) · `si`
 
-ඉදිරි සති දෙක ඇතුළත සහල් ආනයන කිරීම සඳහා රජය පියවර නොගත් හොත් දැඩි සහල් හිඟයක් ඇති වන බව සමස්ත ලංකා සුළු හා මධ්‍ය පරිමාණ වීමෝල් හිමියන්ගේ සංගමය පවසයි.
+Rice shortage looms: Gov urged to act within 2 weeks. CPAs warn of crisis if imports fail. Long-term solutions sought; short-term market control proposed. Flood relief shifted to reconstruction efforts.
 
-එහි සභාපති යූ. කේ. සේමසිංහ මහතා සඳහන් කළේ, මෙම ගැටලුව විසඳීම සඳහා දීර්ඝ කාලීන වැඩපිළිවලක් සකස් කිරීම රජයේ වගකීමක් බවය.
+🟩
 
-"දීර්ඝ කාලීන විසඳුමකට යා යුතුයි. එසේ නොගියොත් නැවත නැවත මේ අර්බුදයට යා හැකි වෙනවා. යල කන්නයේ වී මිලදී ගැනීමට වී අලෙවි මණ්ඩලය මඟින් මේ අර්බුදය යටපත් කිරීමට ක්‍රමවත් වැඩපිළිවෙලක් සකස් කළ යුතුයි. ඒ වගේම කෙටි කාලීන විසඳුමක් ලෙස රජය විසින් ඉතා ඉක්මනින් විදෙස් රටවලින් සහල් ආනයනය නොකළහොත් මේ තත්ත්වය තුළ වෙළෙඳපොළේ දැඩි සහල් හි﻿ඟයක් ඇති විය හැකිය."
+All CPAs Small and Medium Scaleholdoreholders Association says that if the government does not take measures to import rice within the next two weeks, the entire Lanka Small and Medium Scaleholdoleholds Association says.
 
-ඔහු සඳහන් කළේ බියර් සහ සත්ත්ව ආහාර නිෂ්පාදනය කිරීම සඳහා සහල් ලබා දීමේදී එය නියාමනය කිරීම ඉතා වැදගත් කාරණයක් බවය.
+Its Chairman U. K. Semasinghe said that it is the responsibility of the government to develop a long term program to solve this problem.
 
-මේ අතර පැවති ගංවතුර තත්ත්වයෙන් හානියට පත්වූ කුඹුරු සඳහා වන්දි ලබාදීම වෙනුවට ඒවා යළි වගා කිරීමට පියවර ගතයුතු බව හිටපු කෘෂිකර්ම අධ්‍යක්ෂ කේ. බී. ගුණරත්න මහතා පවසයි.
+"Should go to a long-term solution. If not, you can go back to this crisis. Paddy Marketing Board should be prepared by the Paddy Marketing Board to buy paddy in Yala season. If the government does not import rice from foreign countries, as a short-term solution, the government may have a sole in the market in the market. "
+
+He said that it is very important to regulate the rice to produce beer and vegan.
+
+Meanwhile, instead of compensation for the floods affected by the flood victims, steps should be taken to reconstruct them. B. Says Mr. Gunaratne.
 
 ◼️
 
 [Data](articles/08d8be4b.json)
+
+[Extended Data](ext_articles/08d8be4b.ext.json)
 
 ---
 
@@ -584,23 +866,35 @@ The main opposition Democratic Party called for Yoon, who has been in office sin
 
 ---
 
-### සිරිපාදේ ප්‍රතිසංස්කරණයට යැයි පවසා මුදල් ගරන ජාවාරමක් ?
+### A crench racket called for renovation?
 
 *2024-12-04 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204018) · `si`
 
-ශ්‍රී පාදස්ථානයේ ප්‍රතිසංස්කරණ කටයුතු සඳහා බව පවසමින් මුදල් රැස්කිරීමේ සංවිධානයක් පිළිබඳ තොරතුරු අනාවරණය වී ඇති බව ගෞතම ශ්‍රී පාදස්ථානාධිපති පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-උන්වහන්සේ පවසන්නේ 'සමනල කන්ද රසික එකමුතුව' යැයි  සඳහන් සංවිධානයක් විසින් මෙම මුදල් රැස්කිරීම් සිදුකර ඇති බවය.
 
-"ඒ අය පරිසරය රකින්න කියලත් එක එක විදියට යෝජනා කරනවා. ඒ යෝජනා කරන අතරේ කූඨ ලෙස මිනිසුන් නොමඟ යවලා, ලක්ෂ ගණනක් ආධාර ලබාගන්න කටයුතු කරලා තියෙනවා. ඒ කිසිම කෙනෙකුට වැටේ තීන්ත ගාන්න හෝ ශ්‍රී පාදස්ථානය සුද්ධ පවිත්‍ර කරලා තීන්ත ආලේප කරන්න හෝ අපි භාරදීලා නෑ. ඒ හැමකෙනෙක්ම මහ දිසාපතිතුමාගෙන් අවසර ගන්න ඕනේ එහෙම නැත්නම් ඒ භාරකාරත්වයෙන් අවසර ගන්න ඕනේ. අවසර නොලබා කිසිවෙක් කරන්නේ නෑ. උඩ මලුවේ කරන වැඩ සම්මාදම් කිරීමෙන් තොරව සිදුකරන්නේ."
 
-නොයෙක් සංවිධානවලට මුදල් ලබා දීමෙන් වළකින ලෙස පූජ්‍ය බෙන්ගමුවේ ධම්මදින්න හිමි ජනතාවගෙන් ඉල්ලා සිටියේය.
+Organization claims environmental protection, but critics argue misleading public. Renovation plans disputed, especially for Hatton-Nallutuwa Road. Butterfly Money Facebook group shares information about Siripada Pilgrimage.
 
-කෙසේ වෙතත් මෙම චෝදනාව සම්බන්ධයෙන් අදාළ සංවිධානය මුහුණුපොතේ සටහනක් තබමින් සඳහන් කර ඇත්තේ, තම සංවිධානය අදාළ චෝදනාව තරයේ ප්‍රතික්ෂේප කරන බවය.
+🟩
+
+Mr. Bengamage Dhammala Dhammala Dhammala Dhammala Dhammawardena, Ven
+
+The Thera says that the money has been made by the organization.
+
+"They suggest that they want to protect the environment. While suggesting, clients have mislead people, hundreds of thousands of assistance. We have not accepted any one to paint the fall or clean the Sri Leader. All of them need to get permission to take permission if it should be allowed. No one will do without permission. Do not make the work of the above flower. "
+
+Ven
+
+However, the organization has stated that the organization has noted a note in the face or organization.
+
+We reject the Group of Hatton Nallutunnewa road, which is named after the "Samanala Money", who is not permission to be done without permission from the public sector.. We see that the leader of the monks have been condemned and blamed by another group of people.
 
 ...
 
 [Data](articles/e1860513.json)
+
+[Extended Data](ext_articles/e1860513.ext.json)
 
 ---
 
@@ -646,37 +940,53 @@ The new time table related to the said dates will be provided to the students at
 
 ---
 
-### ඔක්තෝබරයේ අපනයන ඉහළට
+### Exports on October
 
 *2024-12-04 07:45:48* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්තෝබරයේ-අපනයන-ඉහළට/11-413443) · `si`
 
-2024 ඔක්තෝම්බර් මාසයේදී වෙළඳ භාණ්ඩ අපනයන කාර්ය සාධනය ඇමෙරිකානු ඩොලර් මිලියන 1,097.1 ක් වූ අතර එය 2023 ඔක්තෝබර් මාසයට සාපේක්ෂව 18.22% ක වර්ධනයක් ෙපන්නුම් කරන බව ශ්‍රී ලංකා රේගුව නිකුත් කළ තාවකාලික දත්තවලට අනුව පෙන්වයි.
+Here's a summary of the text in approximately 200 characters:
 
-එසේම 2024 සැප්තැම්බර් මාසයට සාපේක්ෂව 2024 ඔක්තෝම්බර් මාසයේදී අපනයන කාර්ය සාධනය 8.44% කින් වැඩි විය.
 
-2024 ඔක්තෝබර් මාසය සඳහා සේවා අපනයනවල ඇස්තමේන්තුගත වටිනාකම ඇමෙරිකානු ඩොලර් මිලියන 323.17 ක් වූ අතර එය 2023 අනුරූප කාලපරිච්ඡේදයට වඩා 19.75% කින් වැඩි විය.
 
-එහි ප්‍රතිඵලයක් වශයෙන්, 2024 ඔක්තෝම්බර් මාසය සඳහා වෙළඳ භාණ්ඩ සහ සේවා යන දෙකම ඇතුළුව මුළු අපනයනය, 2023 අනුරූප කාලපරිච්ඡේදයට වඩා 18.57% ක වර්ධනයක් සහිතව, ඇමෙරිකානු ඩොලර් මිලියන 1,420.27 ක් ලෙස වාර්තා විය.
+"Oct '24: Commodity exports $1,097.1M (+18.22% vs Oct '23). Service exports $323.17M (+19.75%). Total exports $18,420.27M (+18.57%). Export growth outperforms Sept '24 (+8.44%). Strong overall export performance."
+
+🟩
+
+In October 2024, the exports of commodities was US $ 1,097.1 million, which would increase 18.22% over October 2023.
+
+Export performance increased by 8.44% over October 2024 compared to September 2024.
+
+The estimated value of the service for October 2024 was US $ 323.17 million, increased by 19.75% more than 2023 corresponding period.
+
+As a result, 2024, the total exports, including both merchants and services for October, was $ 18,420.27 million grew by 18.57% over the corresponding period.
 
 ◼️
 
 [Data](articles/9a87f00b.json)
 
+[Extended Data](ext_articles/9a87f00b.ext.json)
+
 ---
 
-### අහංගම ද්විත්ව මනුෂ්‍ය ඝාතනයට සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested for murder of Ahangama
 
 *2024-12-04 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204016) · `si`
 
-අහංගම පොලිස් වසමේ වැල්හෙන්ගොඩ ප්‍රදේශයේ නිවසක යුවළකගේ ගෙල කපා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+A suspect was arrested in Ahangama for murdering a couple whose bodies were found in a house. The incident occurred on October 4. Police officers from the Ahangama division made the arrest in Fort area after reviewing the case.
 
-පොලීසිය පැවසුවේ, පසුගිය ඔක්තෝබර් මස 4 වනදා මෙම ඝාතනයන් සිදුව තිබූ බවය.
+🟩
 
-ඒ අනුව සිදුකළ විමර්ශනවලින් අනතුරුව ඊයේ (03) දහවල් ගාල්ල කොටුව ප්‍රදේශයේ දී අහංගම පොලීසියේ නිලධාරීන් විසින් අදාළ සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested regarding the death of a couple of a house of a house of a house in Welhangagoda, Ahangama Police Division.
+
+The police said that the killings had occurred on October 4.
+
+Accordingly, the suspects were arrested by the Ahangama police officers in the Fort area in Fort area following the review.
 
 ◼️
 
 [Data](articles/36c12e54.json)
+
+[Extended Data](ext_articles/36c12e54.ext.json)
 
 ---
 
@@ -702,21 +1012,31 @@ When reserves were hitting negative territory during the last currency crisis, t
 
 ---
 
-### ඊ පාස්පෝට් මිලියන පහක් මිලදී ගැනීමේ සිද්ධිය ගැන අධිකරණයට දැනුම්දීමක්
+### An informed of court on purchasing five million purchases
 
 *2024-12-04 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204015) · `si`
 
-ඉකුත් රජය සමයේ ආගමන හා විගමන දෙපාර්තමේන්තුවට "ඊ විදේශ ගමන් බලපත්‍ර" මිලියන 05ක් මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විසින් විමර්ශනයක් සිදුකරන බව නීතිපතිවරයා අභියාචනාධිකරණයට දැනුම් දී තිබේ.
+Court case summary: Attorney General informs Court of Appeal about immigration department investigation. Additional Solicitor General requests time to submit observations on purchasing tender probe. Court orders examination on January 23.
 
-එම විදේශ ගමන් බලපත්‍ර මිලදී ගැනීමට අදාළ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය අභියෝගයට ලක් කරමින් එපික් ලංකා පුද්ගලික සමාගම විසින් ඉදිරිපත් කළ පෙත්සම ඊයේ (03) මෝසමක් මාර්ගයෙන් කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් සුමති ධර්මවර්ධන මහතා මෙම දැනුම් දීම සිදුකළේය.
+🟩
 
-මෙම පෙත්සම මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The Attorney General has informed the Court of Appeal that the Department of Immigration and Emigration has been investigated by the Department of Immigration and Emigration.
 
-එහිදී අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින් කියා සිටියේ, මෙම ඊ විදේශ ගමන් බලපත්‍ර මිලියන පහක් මිලදී ගැනීමේ ටෙන්ඩරය පිරිනමා තිබෙන ආකාරය පිළිබඳව ජාතික ප්‍රසම්පාදන කමිටුව විසින් විමර්ශනයක් ආරම්භ කර තිබෙන බවය.
+Additional Sumitar General Sumathi Dharma Dharma Dharmawardena appearing on behalf of the Attorney General yesterday challenged the Attorney General.
+
+This petition is Mohammed Lafar Thahaire and P. The Court of Appeal consisting of Kumaran Ratnam was called before the judge.
+
+Additional Sumathi Dharmadawardena, Sumathi Dharmawardena, said the National Procurement Committee has launched an investigation into how the purchasing tender was awarded the purchasing tender.
+
+Additional Solicitor General said that the committee had requested a week to submit the observations on the investigation.
+
+He also requested the court to give a date to inform the progress of the activities.
 
 ...
 
 [Data](articles/cbaeecd7.json)
+
+[Extended Data](ext_articles/cbaeecd7.ext.json)
 
 ---
 
@@ -744,43 +1064,59 @@ In addition, in other parts of the country, a balanced weather is said. (A)
 
 ---
 
-### උසස් පෙළ විභාගයේ දෙවන අදියර අද සිට ඇරඹේ
+### The second phase of the GCE Advanced Level Exam begins today
 
 *2024-12-04 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204014) · `si`
 
-කල්දැමූ අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ දෙවන අදියර අද (04) සිට යළි ආරම්භ වීමට නියමිතය.
+GCE Advanced Level Exam Phase 2 resumes today after weather delay. Original schedule reinstated until Dec 20. Candidates should report to nearest center if roads impassable.
 
-දිවයිනට බලපා තිබූ අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් නොවැම්බර් මස 27 වන දින සිට දින 06ක කාලයක් උසස් පෙළ විභාගය කල්දැමීමට විභාග දෙපාර්තමේන්තුව පියවර ගත්තේය.
+🟩
 
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කළේ, විභාග කාලසටහනේ සඳහන් පරිදි අද සිට විභාග කටයුතු සිදුකෙරෙන බවය.
+The second phase of the Advanced Level Examination will be resumed today (04).
 
-ඒ අනුව අද සිට දෙසැම්බර් මස 20 වන දින දක්වා මීට පෙර නිකුත් කළ කාලසටහන අනුව විභාගය පැවැත්වෙනු ඇත.
+The Examinations Department took steps to postpone the GCE A / L examination for six days from the April 27 due to inclement weather.
 
-විභාගය නොපවැත්වු දිනයන් සඳහා දෙසැම්බර් 21 වනදා දක්වා දෙසැම්බර් 31 වනදා දක්වා විභාගය පැවැත්වෙන බව ද විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+Commissioner General of Examinations Amitith Jayasundara said that the examination will be held today as stated in the examination scheme.
 
-ඒ අනුව නව කාලසටහන දෙසැම්බර් මස 7 වන සෙනසුරාදා සියලු විභාග අපේක්ෂකයින් වෙත ලබාදීමට නියමිතය.
+Accordingly, the examination will be held on the previous timetable from today to December 20.
 
-මේ අතර තවදුරටත් මාර්ග අවහිරතා ඇති ප්‍රදේශවල දරුවන්ට ළඟම විභාග මධ්‍යස්ථානය වෙත ගොස් විභාගයට පෙනී සිටීමට හැකියාව පවතින බව ද විභාග කොමසාරිස්වරයා වැඩිදුරටත් පැවසීය.
+The Examinations Commissioner General of Examinations Amit Jayasundara said that the examination will be held on December 31st for December 31.
+
+Accordingly, Saturday, Saturday, 7th of December is due to candidates.
+
+The Examinations Commissioner added that the roadblounted areas have gone to the closest examination center and sit the hearing.
 
 ◼️
 
 [Data](articles/f4f34cb8.json)
 
+[Extended Data](ext_articles/f4f34cb8.ext.json)
+
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-12-04 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204012) · `si`
 
-මධ්‍යම, වයඹ, උතුරු මැද සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක සවස් කාලයේ හෝ රාත්‍රී කාලයේ වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Here's a summary in 200 characters:
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවය.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+"Rainy weather forecast: Showers/thundershowers expected in Northwest, North Central, Uva provinces tonight. Department of Meteorology warns of major rainfall in other areas. Morning may be stable across island."
+
+🟩
+
+Showers or nights thundershowers in the evening or night in the middle, Northwest, North Central and Uva provinces.
+
+The Department of Meteorological was announced that there is a major rainy weather in other areas.
+
+In many parts of the island, there may be a stability in the morning.
 
 ◼️
 
 [Data](articles/8d925eec.json)
+
+[Extended Data](ext_articles/8d925eec.ext.json)
 
 ---
 
@@ -1544,6 +1880,8 @@ The monk accused President Anura Kumara Dissanayake of being a diaspora agent tr
 
 [Data](articles/a3f01d20.json)
 
+[Extended Data](ext_articles/a3f01d20.ext.json)
+
 ---
 
 ### Sri Lanka under the age of 17 - Bangladesh does not fail a win
@@ -2072,264 +2410,24 @@ The President presents the responsibility of the government that has created the
 
 ---
 
-### නොවැම්බරයේදී සංචාරකයන් 184 158ක් ඇවිත්
+### Tourist arrivals in November 184 158
 
 *2024-12-03 19:51:31* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බරයේදී-සංචාරකයන්-184-158ක්-ඇවිත්/11-413442) · `si`
 
-නොවැම්බර් මාසයේදී ශ්‍රි ලංකාවට සංචාරකයන් 184 158ක් පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි. මෙය 2023 වාර්තා වූ 151 496ක් වූ අගය සැසදීමේසී සියයට 21.5ක වර්ධනයකි.
+Sri Lanka tourist arrivals summary: 1,804,873 visitors by Nov 30, 2023, up 21.5% from 1,514,996 in 2018, exceeding 2 million this year.
 
-එසේම මේ වසරේදී නොවැම්බර් 30 දා වන විට ශ්‍රී ලංකාවට සංචාරකයන් 1 804 873ක් පැමිණ තිබේ. ශ්‍රී ලංකාවට වැඩිම සංචාරක පිරිසක් පැමිණ ඇත්තේ 2018 වසරේදී වන අතර එම අගය 2 333 796කි.
+🟩
 
-මේ වසරේදී ශ්‍රී ලංකාවට සංචාරකයන් මිලයන දෙකක් ඉක්මවා පැමිණීමට වැඩි ඉඩක් පවතී.
+Sri Lanka Tourism Development Authority says that tourists arrived in Sri Lanka in November 158. The value of 151 496 reported 2023 was an increase of 21.5 percent.
+
+Sri Lanka has arrived in Sri Lanka by November 30 this year 1 804 873. Sri Lanka has come to Sri Lanka in 2018 and is 2 333 796.
+
+This year, Sri Lanka has more than two million tourists.
 
 ◼️
 
 [Data](articles/dc68f000.json)
 
----
-
-### South Korea's war releases
-
-*2024-12-03 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204003) · `si`
-
-Here's a 200-character summary:
-
-
-
-South Korean Pres. Yoon Suk Yeol imposes military law, citing threat from North Korea. Decision opposed by his party. Emergency measures aim to protect against communist aggression.
-
-🟩
-
-International media reports that the President of the South Korean has imposed military law.
-
-The South Korean President YOON Suk YEL launching the emergency military and said that the decision would be taken to destroy the country from the North Korean Communist Societies.
-
-The decision of the President of South Korea was against the opposition and his party.
-
-◼️
-
-[Data](articles/110f7b9b.json)
-
-[Extended Data](ext_articles/110f7b9b.ext.json)
-
----
-
-### 8 students are admitted to the hospital
-
-*2024-12-03 19:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/175-348194) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-8 students hospitalized after eating unknown fruits near campus. Symptoms: vomiting, panic. Incident occurred around 10:30 AM. Students were admitted to Mawanella Primary Hospital. Cause remains unclear.
-
-🟩
-
-Eight students at the University of Mawanella have been admitted to the Mawanella Primary Hospital this afternoon due to vomiting and panic.
-
-The sample area is said to have been eaten by the fruits of the medical plant.
-
-The hospital spokesman said that the fruit was eaten from the tree at around 10.30 am and the students who returned home after the school had been vomiting and hospitalized.. Remble
-
-◼️
-
-[Data](articles/530886f6.json)
-
-[Extended Data](ext_articles/530886f6.ext.json)
-
----
-
-### Litro Case prices will not be edited
-
-*2024-12-03 19:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-கேஸ்-விலைகள்-திருத்தப்படாது/175-348193) · `ta`
-
-Litro gas prices unchanged in November. 12.5kg cylinder costs Rs 3,690, 5kg Rs 1,482, 2.3kg Rs 694.
-
-🟩
-
-Litro gas prices will not be corrected in November, according to the Litro Gas Price Sutra, Litro G Gunawardena today (3) said.
-
-The price of 12.5 kg of Litro gas cylinder was Rs 3,690, the price of 5 kilograms of cylinder was Rs 1,482 and 2.3 kilograms of cylinder was 694 rupees.. Remble
-
-◼️
-
-[Data](articles/d0aa8575.json)
-
-[Extended Data](ext_articles/d0aa8575.ext.json)
-
----
-
-### Special discussion on strengthening multi -faceted cooperation between Sri Lanka and Singapore
-
-*2024-12-03 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200348) · `ta`
-
-Sum: Sri Lanka-Singapore ties strengthen. High Commissioner meets Minister, discusses national dev't, urban planning, tech coop. Focus on sustainability, housing, digital econ. Challenges in land use addressed. Visit planned to share best practices.
-
-🟩
-
-Sri Lanka's High Commissioner to Singapore recently met with Singapore's National Development, Communication and Information Minister Dan Kiyar Hewa and discussed further strengthening national development, city construction and technical cooperation between the two countries.
-
-In particular, High Commissioner Senarath Dissanayake assured the Minister of State Dan Kiyar Holla that he was ready to expand the cooperation with Singapore in advance of the further improving the country's national development program and all other sectors.
-
-Similarly, Sri Lanka's High Commissioner Senarath Dissanayake has said that the new government has paid special attention to the development of Sri Lanka's sustainability, the use of housing development, the use of land effectively and the digital economy.
-
-...
-
-[Data](articles/424e6bfb.json)
-
-[Extended Data](ext_articles/424e6bfb.ext.json)
-
----
-
-### Passport begins investigations
-
-*2024-12-03 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ටෙන්ඩරය-ගැන-විමර්ශනයක්-අරඹයි/11-413441) · `si`
-
-National Procurement Committee investigates E-Passport launch. Attorney General petitions Court of Appeal. Judges summon National Procurement Committee for observations. President's Counsel requests removal of interim injunction. Case adjourned until January 23rd.
-
-🟩
-
-The Attorney General has informed the Court of Appeal that the National Procurement Committee has launched an investigation into how the Television of the Immigration and Emigration (E-Passport) has been launched.
-
-Addressing the Attorney General, Sumathi Dharma Dharmawardena appearing on behalf of the Attorney General, the petition filed by the Attorney General was summoned by a motion on a motion.
-
-Judges Judges Judges Judges Mohammed Lafar Thahanier and P. The panel of judges comprising of Kumaran Ratnam was found in the panel.Much, he said.
-
-Mr. Sumathi Dharmawardena called for a week to inform the National Procurement Committee for a week to submit the observations relating to investigation.
-
-President's Counsel Archisharan, who appeared for respondents, asked the request of its clients to remove the interim injunction to be removed by the Court of Justice to remove the interim injunction. To investigate the petitionHe was sentenced to January 23rd.
-
-◼️
-
-[Data](articles/777b21ba.json)
-
-[Extended Data](ext_articles/777b21ba.ext.json)
-
----
-
-### The new constitution should also include a solution to the problems of the people of the hill country - Velusamy Radhakrishnan
-
-*2024-12-03 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200356) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New constitution must address hill country issues - Velusamy Radhakrishnan. Opposes changing 13th Amendment to appease India or China. Supports solving ethnic problems through new constitution.
-
-🟩
-
-When the new constitution is created. Opposition member Velusamy Radhakrishnan said that by changing the 13th Amendment, he could not achieve anything with India or to achieve anything with China.
-
-He said this while addressing the discussion on the President's policy speech held in Parliament on Tuesday (3).
-
-At the same time, he pointed out that India is the most important country for us, globally, that it is not possible to achieve anything with India or achieve anything with China by changing the 13th Amendment.
-
-He said this while addressing the first day's parliamentary debate on the President's Policy Declaration.
-
-It is a matter of admiration that national people's power has created this government with the intention of having a racist country. This time the voting of the election has taken place without racial discrimination. Our expectation is that this should be followed. It is my opinion that this is the best omen to solve the country's ethnic problem.
-
-...
-
-[Data](articles/10bc0752.json)
-
-[Extended Data](ext_articles/10bc0752.ext.json)
-
----
-
-### Iranian tour from the Ella Ordice to take Selphi
-
-*2024-12-03 19:00:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-ඔඩිසියේ-සිට-සෙල්ෆි-ගන්න-ඉරාන-සංචාරිකාව-බංගෙයක-ගැටෙයි/11-413440) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Train accidents in Sri Lanka: Foreign tourists injured. Woman from Iran hurt near Ella. Koreans and Americans also affected. Haputale police warn against taking photos during train rides.
-
-🟩
-
-The Haputale Police said that the number of train was gone on the train, which was traveling at the Fall from Fall from Fall from the Colombo Fort.
-
-A 37-year-old national foreign woman has been injured in a tour of Sri Lanka to Sri Lanka from Iran.
-
-The police said that when the train was to take photographs of the train while traveling to Nanu Odezi Travel Travel, while traveling with several other train on the train while traveling to Nanu Oddi Travel Travel.
-
-The police said that the police were taken to the Nanu Oya Railway Station.
-
-Meanwhile, in Jamk, a large number of travelers who were traveling between Badulla Fort and night post train in the recent past have been admitted to the Badulla Teaching Hospital.
-
-...
-
-[Data](articles/d30e29d8.json)
-
-[Extended Data](ext_articles/d30e29d8.ext.json)
-
----
-
-### Allow Rice imports without import control permit - Cabinet approval
-
-*2024-12-03 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200355) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Cabinet approves unrestricted rice imports until 20th due to domestic shortages. Eliminates need for import control permits to address supply issues.
-
-🟩
-
-Considering the shortage of naturisi and other rice varieties in the domestic market, the Cabinet considers that it is appropriate to eliminate the limits that are currently being imported to the government.
-
-Accordingly, it has been decided to grant permission for the importation of rice to our country until the 20th of this month without the import control license.
-
-◼️
-
-[Data](articles/6cee6370.json)
-
-[Extended Data](ext_articles/6cee6370.ext.json)
-
----
-
-### 18 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-12-03 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103972/18-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-A special operation conducted by the Sri Lanka Navy has led to the seizure of an Indian fishing boat and the apprehension of 18 Indian fishermen, poaching in Sri Lankan waters.
-
-This special operation was conducted off Veththalakerni, Jaffna on Monday (December 02). When the apprehension was made, the fishing boat had crossed the International Maritime Boundary Line by approximately 30 nautical miles, entering Sri Lankan waters.
-
-The Navy said the Northern Naval Command deployed Fast Attack Craft attached to the Command to send away a cluster of Indian fishing boats, having spotted they were engaging in illegal fishing in Sri Lankan waters off Veththalakerni.
-
-The operation resulted in the seizure of 01 Indian fishing boat and the apprehension of 18 Indian fishermen continued to remain in Sri Lankan waters.
-
-...
-
-[Data](articles/cb9e21da.json)
-
-[Extended Data](ext_articles/cb9e21da.ext.json)
-
----
-
-### 291 267 people who registered and went to work in November
-
-*2024-12-03 18:46:22* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-අවසන්වන-විට-ලියාපදිංචි-වී-වීදෙස්-රැකියාවට-ගිය-පිරිස-291-267ක්/11-413439) · `si`
-
-Sri Lanka: 22685 registered for foreign employment in Nov 2024. 291,267 went abroad, 6.9% increase from 2023. Most jobs in Kuwait (71,210), UAE (48,330), Qatar (4,346), Japan (7,983), South Korea (6,925). 172,746 male, 18,821 female workers. Special program launched for children of working parents.
-
-🟩
-
-22685 Sri Lankans registered with the Sri Lanka Bureau of Foreign Employment in November, 2024. By the end of the November of 2024, 291,267 persons have gone abroad to employed at $ 6.9% over 2023. Accordingly 274,265 persons have left for work from January to November 2023.
-
-178,914 workers abroad from January to November from January to November.And 81 159 leaving for low skilled jobs. 2024 out of the abroad, the number of male workers is a172,746. The number of female workers is a18,821.
-
-Meanwhile, most of the highest number of jobs from January to November this year, the largest employment is located to Kuwait, which is 71 210. The United Arab Emirates 48888,48,30 008 and Qatar has left for 4346 for the Kingdom of Qatar, 7983 for Japan and 6925 for South Korea.
-
-...
-
-[Data](articles/3d3d0c31.json)
-
-[Extended Data](ext_articles/3d3d0c31.ext.json)
+[Extended Data](ext_articles/dc68f000.ext.json)
 
 ---

@@ -1,36 +1,132 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 16:16:51**
+As of **2024-12-04 16:43:02**
 
 ## Newspaper Stats
 
-*Scraped **58,424** Articles*
+*Scraped **58,438** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 592
-bbccomsinhala | 610
+bbccomsinhala | 611
 islandlk | 3,506
 economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,533
-adaderanalk | 7,093
-tamilmirrorlk | 8,318
-virakesarilk | 9,556
-adaderanasinhalalk | 10,089
+adalk | 5,534
+adaderanalk | 7,096
+tamilmirrorlk | 8,320
+virakesarilk | 9,558
+adaderanasinhalalk | 10,094
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,417 (100.0%) of 58,424 articles have been extended.
+58,419 (100.0%) of 58,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### 9,60,500 crore for 4 months
+
+*2024-12-04 16:21:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாதங்களுக்கு-9-60-500-கோடி-ரூபாய்-ஒதுக்கீடு/175-348243) · `ta`
+
+Here's a summary in approximately 200 characters:
+
+
+
+9,60,500 crore allocated to Sri Lanka's National People's Power govt (Jan 2025 - Apr 2025). Breakdown: Defense/Public Security (20,801 crore), Health/Media (16,199 crore), Education (9,200 crore), Buddha Sasana (323 crore 63 lakhs), Foreign Employment (592 crore 7,350,000). Other ministries receive varying amounts.
+
+🟩
+
+9,60,500 crore has been allocated to the government of the National People's Power, led by President Anura Kumara Dissanayake, from 1st January 2025 to April 30, 2025.
+
+20,801 crore 9,575,000 has been allocated to the Ministry of Defense and the Ministry of Public Security.
+
+In addition, Rs.
+
+Rs 16,199 crore for the Ministry of Health and Media, Rs 9,998,000, Rs 9,200 crore for the Ministry of Education and Higher Education, Rs.
+
+Similarly, the Ministry of Buddha Sasana has allocated 323 crores 63 lakhs and Rs 592 crore 7,350,000 to the Ministry of Foreign and Foreign Employment.
+
+88 crore 57 lakh rupees for the Ministry of Transport, 22,007 crores and Rs. Ministry365 crores of rupees and other ministries have been allocated to other ministries.
+
+◼️
+
+[Data](articles/03665556.json)
+
+[Extended Data](ext_articles/03665556.ext.json)
+
+---
+
+### The Court of Appeal reflect a petition of Mendis
+
+*2024-12-04 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204032) · `si`
+
+Court of Appeal rejects Mendis' petition. Excise Department demands payment by Nov 30. Liquor license suspension challenged.
+
+🟩
+
+W. M. The Court of Appeal today (04) as the Court of Appeal decided not to examine a petition filed by Mendis.
+
+If the excise owing excise will not be paid before November 30, the letter issued by the Excise Department to be released to the company before November 30, the Excise Department demands a powers to give a potential decision. M. The petition was filed by Mendis.
+
+The Court of Appeal was issued by the Court of Appeal of Sobhuthha Rajakaruna and Mahen Gopallawa after considering a long matter.
+
+The panel of judges was revealed that it would not be heard without cases as it was disclosed in the petition as stated in the petition.
+
+Attorney-at-Law, Nawan Marapana, who appeared in the courts before November 30 was completed before November 30, the Excise Department issued to his client to suspend the liquor production license.The article is completely contrary to the law.
+
+...
+
+[Data](articles/448f4d8e.json)
+
+[Extended Data](ext_articles/448f4d8e.ext.json)
+
+---
+
+### Excise officers raid popular casino in Kollupitiya
+
+*2024-12-04 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103992/excise-officers-raid-popular-casino-in-kollupitiya) · `en`
+
+The officials of the Excise Department have conducted a raid at a well-known casino located in the Kollupitiya area, for allegedly illegally maintaining liquor counters.
+
+The raid was carried out based on a tip-off received by the Commissioner General of Excise.
+
+During the operation, around 100 bottles of illegally imported foreign liquor, valued at over Rs. 2.5 million, were also discovered.
+
+The casino was found to be operating multiple liquor counters across its five floors, issuing free alcohol to its members.
+
+The Excise Department says that the casino’s liquor license permits only a single counter, and the additional operations are causing significant tax losses to the country.
+
+The raid was carried out under the direction of the Commissioner General of Excise, with support from both the head office and the Excise Department’s Colombo City Office.
+
+◼️
+
+[Data](articles/c645cb1d.json)
+
+---
+
+### Hirunika acquitted from contempt of court charges
+
+*2024-12-04 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103991/hirunika-acquitted-from-contempt-of-court-charges) · `en`
+
+After concluding the hearing of the petition filed against former Member of Parliament Hirunika Premachandra accusing her of contempt of court, the Appeals Court today ordered to acquit her of those charges.
+
+This order was issued today (04) after Hirunika Premachandra, through her lawyer, made an undertaking to the court that she will withdraw the statement that she had made at a press conference regarding an order issued by the Mount Lavinia Magistrate’s Court and that she would refrain from making similar statements in the future.
+
+The petition was called before the Appellate Court bench consisting of Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran.
+
+◼️
+
+[Data](articles/dbea69c5.json)
+
+---
 
 ### Sri Lanka sells Rs192.5bn in treasury bills, 6-month yield down
 
@@ -49,6 +145,22 @@ The three month and one year maturities were offered on tap after the auction. (
 ◼️
 
 [Data](articles/b1f5d974.json)
+
+---
+
+### කොටස් වෙළෙඳපොළෙන් වාර්තාවක්
+
+*2024-12-04 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204031) · `si`
+
+කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය (ASPI) ඉතිහාසයේ ඉහළම අගය අද (04) දින වාර්තා කළේය.
+
+ඒ අනුව දිනයේ ගනුදෙනු අවසානයේ දී සියලු කොටස් මිල දර්ශක අගය ඒකක 171.69කින් ඉහළ ගොස් ඒකක 13,511.73ක් ලෙසින් සටහන් විය.
+
+එය මෙතෙක් ඉතිහාසයේ වාර්තා වූ ඉහළම සියලු කොටස් මිල දර්ශක අගය වන ඒකක 13,462.4 සීමාව ඉක්මවා යාමකි.
+
+◼️
+
+[Data](articles/1a6efd21.json)
 
 ---
 
@@ -88,6 +200,54 @@ Isabelle Mauny has 25-plus years of integration and API industry experience, inc
 
 ---
 
+### CSE’s All Share Price Index records all-time high
+
+*2024-12-04 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103989/cses-all-share-price-index-records-all-time-high-) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange has reached all-time high today (04), surpassing the previous record set on 19 January 2022.
+
+Accordingly, the index has increased by 171.69 points within the day to close at 13,511.73.
+
+◼️
+
+[Data](articles/c5d0df4d.json)
+
+---
+
+### අද සිට සහල් කිලෝ ලක්ෂ 2ක් සතොස හරහා අලෙවි කරයි
+
+*2024-12-04 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204029) · `si`
+
+වෙළෙඳපොළ තුළ පවතින සහල් අර්බුදයට විසඳුමක් ලෙස අද (04) සිට සහල් කිලෝ ලක්ෂ 2ක් සතොස හරහා ජනතාවට අලෙවි කෙරෙන බව වෙළෙඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
+
+අද පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු වැඩිදුරටත් සඳහන් කළේ එම සහල් කිලෝවක් රුපියල් 220ක මිලක් යටතේ ජනතාවට මිලදී ගත හැකි බවය.
+
+වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ මහතා,
+
+"අද (04) සිට මෝල්හිමියන් අපිත් සමග එකඟ වුණා දිනකට සහල් කිලෝ ලක්ෂ 2ක් සතොස හරහා සියලුම ජනතාවට රුපියල් 220ක වෙළෙඳපොළ මිල යටතේ ලබාදීමට."
+
+"මෝල්හිමියන් ගෙන්වා රජය සිදුකළ සාකච්ඡාවේදී මෝල්වල තිබෙන සහල් නිදහස් කරන්න බැරි බැංකුවල ප්‍රශ්නයක් තියෙන නිසා කියලා කිව්වා. අන්න ඒකට අපි ඊයේ උත්තරයක් හොයලා දුන්නා. ඒ නිසා අද සිට ඔවුන් අපිට එකඟවෙලා තිබෙනවා දිනකට සහල් කිලෝ ලක්ෂ 2ක් සතොස හරහා සියලුම ජනතාවට රුපියල් 220ක වෙළෙඳපොළ මිලට ලබාදීමට."
+
+◼️
+
+[Data](articles/d9ecffb4.json)
+
+---
+
+### தேசிய மக்கள் சக்தியின் ஆட்சி என்பது வட கிழக்கு தமிழர்களின் அரசியலுக்கு எதிரான உக்கிரமான அரசியல் போர்க்காலமாக இருக்கும் - அருட்தந்தை மா.சத்திவேல்
+
+*2024-12-04 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200403) · `ta`
+
+தேசிய மக்கள் சக்தியின் ஆட்சிக்காலம் என்பது வட கிழக்கு தமிழர்களின் அரசியலுக்கு எதிரான உக்கிரமான அரசியல் போர்க்காலமாக இருக்கும் என்பதற்கான அறிகுறிகள் தென்பட தொடங்கியுள்ளன என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+
+தேசிய மக்கள் சக்தியின் ஆட்சிக்காலம் என்பது வட கிழக்கு தமிழர்களின் அரசியலுக்கு எதிரான உக்கிரமான அரசியல் போர்க்காலமாக இருக்கும் என்பதற்கான அறிகுறிகள் தென்படத் தொடங்கியுள்ளன. அரசியல் களச் சூழ்நிலை அறிந்து எமக்கிடையிலான பலமான அரசியல் கூட்டு கட்டமைப்பு உருவாக்கினால் மட்டுமே நாம் எதிர்நோக்கும்  அரசியல் போரினை எதிர்கொள்ள முடியும்.
+
+...
+
+[Data](articles/fc6cd5c5.json)
+
+---
+
 ### Sathosa Coconut Rs.130
 
 *2024-12-04 15:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-தேங்காய்-ரூ-130/175-348241) · `ta`
@@ -107,6 +267,20 @@ The Minister also said that the owners of the rice mill had agreed to release tw
 [Data](articles/9f86af6f.json)
 
 [Extended Data](ext_articles/9f86af6f.ext.json)
+
+---
+
+### பெண் பாராளுமன்ற ஒன்றியத்தின் தலைவி
+
+*2024-12-04 15:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பாராளுமன்ற-ஒன்றியத்தின்-தலைவி/175-348239) · `ta`
+
+பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியம் பிரதமர் கலாநிதி ஹரினி அமரசூரிய தலைமையில் முதல் தடவையாகப் பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03)  கூடியது. இதில் பாராளுமன்ற குழுக்களின் பிரதித் தவிசாளர் பாராளுமன்ற உறுப்பினர் ஹேமாலி வீரசேகர, பாராளுமன்ற செயலாளர் நாயகமும், ஒன்றியத்தின் செயலாளருமான குஷானி ரோஹனதீர உள்ளிட்டோர் கலந்துகொண்டனர்.
+
+இதில் பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் புதிய தலைவியாக பெண்கள் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவுசெய்யப்பட்டார். அவருடைய பெயரை பாராளுமன்ற உறுப்பினர் சமன்மலி குணசிங்க முன்மொழிந்ததுடன், பாராளுமன்ற உறுப்பினர் அனுஷ்கா திலகரத்ன வழிமொழிந்தார்.
+
+...
+
+[Data](articles/3322cfb6.json)
 
 ---
 
@@ -133,6 +307,22 @@ In addition, two were elected as the Deputy Chairman of the Female Parliamentary
 [Data](articles/f0b22662.json)
 
 [Extended Data](ext_articles/f0b22662.ext.json)
+
+---
+
+### රුපියල් 130ට පොල් දෙන බව ඇමති වසන්ත කියයි
+
+*2024-12-04 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204028) · `si`
+
+රට තුළ පවතින පොල් මිල අර්බුදයට විසඳුමක් ලෙස ඉදිරි සති 2ක ඇතුළත තදාසන්න ප්‍රදේශවලට පොල් ගෙඩි ලක්ෂ 10ක් බෙදාහැරීමට රජය තීරණය කර තිබේ.
+
+ඒ අනුව එක පොල්ගෙඩියක් රුපියල් 130ක මිලකට සතොස හරහා ලබාදීමට කටයුතු කරන බව අමාත්‍ය වසන්ත සමරසිංහ මහතා අද (04) පාර්ලිමේන්තුවේදී පැවසීය.
+
+ඒ, රජයට අයිති වතුවල තිබෙන පොල් නිෂ්පාදන මෙලෙස අඩු මිලට අලෙවි කිරීමට නියමිත බව වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/c319ec94.json)
 
 ---
 
@@ -250,6 +440,22 @@ He said in Parliament today (04), he said that action will be taken to recover t
 
 ---
 
+### අධිකරණයට අපහාස කිරීමේ චෝදනාවෙන් හිරුණිකා නිදහස්
+
+*2024-12-04 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204027) · `si`
+
+අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රීනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට එරෙහිව ගොනුකර තිබූ පෙත්සමක විභාගය අවසන් කළ අභියාචනාධිකරණය ඇයව එම චෝදනාවලින් නිදහස් කිරීමට අද (04) නියෝග කළේය.
+
+ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය විසින් දුන් නියෝගයක් සම්බන්ධයෙන් තමන් ප්‍රවෘත්ති සාකච්ඡාවකදී පලකළ ප්‍රකාශය ඉල්ලා අස්කර ගන්නා බවත් මින් ඉදිරියට එවැනි ප්‍රකාශ සිදු නොකරන බවටත් හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය සිය නීතිඥවරයා මාර්ගයෙන් දැනුම් දීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කර ඇත.
+
+මෙම පෙත්සම අභියාචනාදීකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්ධුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/f691acda.json)
+
+---
+
 ### Ceylon Chamber awards Sri Lanka’s best corporate citizens
 
 *2024-12-04 14:15:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-awards-sri-lankas-best-corporate-citizens-122358/) · `en`
@@ -317,6 +523,18 @@ Police investigations revealed that when the son of the deceased went to a nearb
 [Data](articles/0e211954.json)
 
 [Extended Data](ext_articles/0e211954.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-12-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200400) · `ta`
+
+இன்று புதன்கிழமை (04) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 286.1920 ரூபாவாகவும் விற்பனை விலை  294.8080  ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f1630da6.json)
 
 ---
 
@@ -863,6 +1081,22 @@ Stating that this had disrupted public order and ethnic harmony, the officers al
 [Data](articles/9db9e622.json)
 
 [Extended Data](ext_articles/9db9e622.ext.json)
+
+---
+
+### 'උතුරේ සිවාජිලින්ගම්ට එක නීතියක්. දකුණට වෙන නීතියක් ද?'
+
+*2024-12-04 10:36:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgmlz4z2p7o) · `si`
+
+දණ්ඩ නීති සංග්‍රහය යටතේ උතුරේ නඩු පවරන සිදුවීම්වලට දකුණේ ත්‍රස්තවාදය වැළැක්වීමේ පනත යොදා ගන්නේ ඇයි දැයි සමගි ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර අද (දෙසැම්බර් 04) පාර්ලිමේන්තුවේ දී ආණ්ඩු පක්ෂයෙන් ප්‍රශ්න කළේය.
+
+විමර්ශන සිදුකර නඩු පැවරීම් සිදු කරන්නේ පොලීසිය වන අතර ඊට රජය දේශපාලන මැදිහත් වීම් නොකරන බව ඊට පිළිතුරු දුන් මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල පැවසුවේය.
+
+නමුත් දයාසිරි ජයසේකර මන්ත්‍රීවරයා එම පිළිතුරෙන් සැහීමකට පත් නොවීම නිසා අධිකරණ ඇමතිවරයා ද ඊට මැදිහත් විය.
+
+◼️
+
+[Data](articles/0fa5783e.json)
 
 ---
 
@@ -2099,343 +2333,5 @@ Development Officers have been recruited to the public service without the prope
 [Data](articles/f914a790.json)
 
 [Extended Data](ext_articles/f914a790.ext.json)
-
----
-
-### High Quality Examinations Today
-
-*2024-12-04 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200364) · `ta`
-
-Exams resume today after weather delay. New schedule Dec 21-31: chemistry, tech, dance, drama, politics. Specific dates: Nov 27, 28, 29, 30; Dec 2, 3, 30, 31. Full revised schedule to be distributed to students.
-
-🟩
-
-The high -level exams that were temporarily suspended due to inclement weather were resumed on Wednesday (4). The exam will be held today according to the timetable of the already issued.
-
-The new timetable for exams will be held from December 21 to 31. This morning, there will be a chemical area, a technology area, a part of the dance and the drama (trilingualism) and a political part of the afternoon.
-
-The exams will be held on November 27, the exams to be held on December 21, the exams on November 28, and the exams on November 29, and the exams on November 29, and the exams on November 30, are scheduled to be held on November 30.
-
-Meanwhile, the exams to be held on Monday, December 2, are scheduled to be held on December 30 and the exams to be held on Tuesday 3th December 31.. The Department of Examinations added that the renewed complete schedule will be provided to all students.
-
-◼️
-
-[Data](articles/83b07e72.json)
-
-[Extended Data](ext_articles/83b07e72.ext.json)
-
----
-
-### British refugees in lone military island
-
-*2024-12-04 02:04:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpq9z9l9yrqo) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-British Tamil refugees stranded on Diego Garcia island for over 3 years. UK government allows temporary entry with financial sponsors. Future uncertain as they face challenges like sexual abuse allegations and uncertain long-term status. The situation has sparked legal battles and international attention.
-
-🟩
-
-British refugees in lone military island
-
-The immigrants stranded in the Indian Ocean for more than three years, migrants were brought to the UK.
-
-These Sri Lankan Tamils ​​are allowed to stay in the country for six months with financial sponsors of the British Foreign Office.
-
-Their journey to the UK marks the end of the complex legal battles over thousands of miles, but their long-term future is uncertain.
-
-Most of the migrants of 60 immigrants live in a temporary camp in Diago Garcia. They are the first immigrants who filed refugee demands in Diyago Garcia, which is strategically important.
-
-On Monday, a British government spokesman described this course of action: "As a step in these cases, as a step to their welfare."
-
-"Under the past rule, the government had to take over to this government for many years," the publisher said. The UK Legal Company, a UK Legal Company representing some migrants, said that this is the only sensitive solution to the humanitarian crisis in the island.
-
-...
-
-[Data](articles/4fe1a835.json)
-
-[Extended Data](ext_articles/4fe1a835.ext.json)
-
----
-
-### CID calls for female social activist Anjali Devi by CID
-
-*2024-12-04 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200362) · `ta`
-
-CID summons female social activist Anjali Devi for questioning. She was previously called on Feb 7 last year. The investigation is ongoing.
-
-🟩
-
-A female social activist from Muttur has been summoned on Wednesday (04) by CID.
-
-Social activist Navarathinarasa Anjali Devi (60 years old) from Muttur Munambodiwette has been invited by the Trincomalee Terrorism Prevention and Investigation Division.
-
-The Terrorism Prevention and Investigation Division, located in the Old Police Station at the Old Police Station in Trincomalee at 10.00 am on Wednesday (04), has been notified in writing.
-
-It is also noteworthy that the person was summoned by the Trincomalee Terrorism and Investigation Unit on February 7 last year.
-
-◼️
-
-[Data](articles/f09a8dd8.json)
-
-[Extended Data](ext_articles/f09a8dd8.ext.json)
-
----
-
-### The involvement of media repression is unacceptable
-
-*2024-12-04 01:33:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடக-அடக்கு-முறைகளில்-ஈடுபடுவதை-ஏற்கமுடியாது/175-348213) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Opposition leader criticizes government's use of Terrorism Act to restrict freedoms. Calls for abolishing act, addressing economic & climate issues, healthcare shortages, and rice/fuel price concerns. Demands action on election promises and proper implementation of policies.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the government, which came to power, claimed that the government would completely abolish the Terrorism Act, using the law to take over the use of freedom of speech, freedom and civil rights.
-
-He was speaking at a debate on the President's Declaration of Policy on Tuesday (03) in Parliament.
-
-The time has come to do what the current government has said on the election platforms. When you do what you have said, we will get the support of the opposition if it takes advantage of the people and the people.
-
-...
-
-[Data](articles/a4d8c2e6.json)
-
-[Extended Data](ext_articles/a4d8c2e6.ext.json)
-
----
-
-### Wednesday session will be held until 9.30pm
-
-*2024-12-04 01:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதன்-அமர்வு-இரவு-9-30-வரை-இடம்பெறும்/175-348212) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Wednesday: Party leaders meet 5:30-9:30 PM; debate 9:30 AM-5 PM; referendum evening; adjournment debate 9:30 PM.
-
-🟩
-
-At a meeting of party leaders chaired by Speaker Asoka Ranwala to hold a postponement debate on Wednesday (04) at 5.30 pm to 9.30 pm
-
-Accordingly, as previously decided, the debate on the Government's Policy Declaration presented in Parliament by the President will be held from 9.30 am to 5 pm.
-
-This is followed by a referendum in this evening. Will be featured. The adjournment debate on the disaster conditions that will be brought by the Opposition at 5.30 pm at the end of the referendum will be held at 9.30 pm.
-
-◼️
-
-[Data](articles/29ddca3c.json)
-
-[Extended Data](ext_articles/29ddca3c.ext.json)
-
----
-
-### We want to live with the identity of the model
-
-*2024-12-04 01:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளத்தோடு-வாழ-விரும்புகிறோம்/175-348211) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Tamil leader calls for modern approach to ethnic issues, urging government to address decades-old problems and recognize Tamil rights as co-owners of the island.
-
-🟩
-
-Even though we and you are one of the nations, we want to live with the identity of two ethnic groups. Abandon the historical ideas of the pre -Christian period and approach the ethnic problem according to the 21st century modern thought. The Government of Sri Lanka should be prepared to approach a new politics with the attitude of the Sinhala people, the Tamil speaking people, the co -owners of the Sri Lankan island and the co -partners.. District MP Sivagnanam Sreedharan said.
-
-He was speaking at a debate on the President's Declaration of Policy on Tuesday in Parliament.
-
-Although the president has said many things in his policy speech, it is unfortunate that he has not spoken a word about the ethnic problem that has been raised on this soil for 80 years, and in his speech, the effort of the Tamil people is the most important issue.
-
-...
-
-[Data](articles/a81da2e7.json)
-
-[Extended Data](ext_articles/a81da2e7.ext.json)
-
----
-
-### Can't accommodate national integrity
-
-*2024-12-04 01:25:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-ஒருமைப்பாட்டை-பலவீனப்படுத்த-இடமளிக்க-முடியாது/175-348210) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National integrity threatened: Party actions undermine unity. Deputy Minister warns against accommodating divisive activities. Government vows to address foreign employment issues and reform diplomatic appointments. National integrity strengthened through people's power and political change.
-
-🟩
-
-A party systematically acts in order to weaken national integrity. Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra said that such people can never accommodate the activities.
-
-He was speaking at a debate on the President's Declaration of Policy on Tuesday (03) in Parliament.
-
-We will address the basic problems found in the fields of foreign and foreign employment.The irregularities found in the appointment of Ambassador and diplomatic appointment will be investigated.We are going to completely restructure foreign appointments.
-
-There have been many issues on the issue of foreign employment opportunities. The issues intensified by a few resolutions of the past government. We have an obligation to answer these.
-
-The president is planning to weaken the national unity of the country with the success of the parliamentary election. The activities that affect national integrity can never be accommodated.
-
-...
-
-[Data](articles/24a7937f.json)
-
-[Extended Data](ext_articles/24a7937f.ext.json)
-
----
-
-### Trying to instigate racism
-
-*2024-12-04 01:23:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனவாதத்தை-தூண்டிவிட-முயற்சி/175-348209) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-PM Harini Amarasuriya warns against racism, says failed politicians are trying to revive it. Emphasizes unity and protecting public trust. Promises action against communal activities and vows to merge all ethnic groups.
-
-🟩
-
-Those who have failed in politics are trying to re -instigate racism.Prime Minister Harini Amarasuriya said that the period of distinguishing the people and the provinces for politics has come to an end.
-
-He was speaking in Parliament on Tuesday (03).
-
-The President has put forward the responsibility of the government created by the people by making a better change. The government has a responsibility to protect the confidence of the people.
-
-We have set up a new government with the people of all ethnic groups. The government has a responsibility to exercise power in the best of democracy.We will fulfill the expectation of the people.
-
-...
-
-[Data](articles/8724ca2d.json)
-
-[Extended Data](ext_articles/8724ca2d.ext.json)
-
----
-
-### Will Anura Kumara  Dissanayake’s NPP Govt  Order an Official  Probe Into the  “Unofficial Execution”  of JVP  Founder – Leader  Rohana Wijeweera 35 Years ago?
-
-*2024-12-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85154) · `en`
-
-November 13 is a date of great significance as far as the  Janatha  Vimukthi Peramuna(JVP)  – known as the Makkal Viduthalai Munnani in Tamil and People’s Liberation Front in English-is concerned. It was on  13 November 1989 that the JVP’s charismatic founder-leader  Rohana Wijeweera.  Since 1994 the JVP has been annually conducting an  event to commemorate Wijeweera and the lives of thousands of JVP cadres killede in the two insurgencies of 1971 and 1987-89. The commemoration of heroes event called “Il Maha Viru Samaruwa” is a blend of speeches and songs and is usually held on the 13th of November..
-
-...
-
-[Data](articles/90becc03.json)
-
-[Extended Data](ext_articles/90becc03.ext.json)
-
----
-
-### The Serial stupidity of  SJB leader Sajith Premadasa whose decision to run against Ranil Wickremesinghe in Presidential election assured the mutual destruction of both and played into the hands of the NPP and Anura Kumara Dissanayake.
-
-*2024-12-04 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85165) · `en`
-
-The political Opposition in this country has yet again reduced to insignificance. This is a precarious existence for politics and the country at large, though this has been a recurrent phenomenon throughout the 2010s. Only the travails have incrementally worsened:
-
-In 2010, during the second term of Mahinda Rajapaksa’s presidency, the UPFA won 144 seats, a tad short of the two-thirds majority, which was compensated with the pole vaulters from the Opposition to pass the 18th Amendment to the Constitution, which decimated the independent commissions and removed the term limits of the presidency.
-
-The same misfortune was revisited in 2020 when the Sri Lanka People’s Freedom Alliance, led by Pohottuwa, won 145 seats against Samagi Jana Balawegaya’s 54 seats. Bolstered by the overwhelming parliamentary majority, Gotabaya Rajapaksa instituted some of the stupidest policy decisions, effectively bringing the economy crashing down to the ground.
-
-...
-
-[Data](articles/967ba6b4.json)
-
-[Extended Data](ext_articles/967ba6b4.ext.json)
-
----
-
-### If Chabad-Lubavitch Movement is given a legal foothold in Arugam Bay, it may not be long before our own Muslims are accused of antisemitism and of igniting a pogrom! Imagine with what glee the BBS/Sinhala Ravaya types would hop on that bandwagon.
-
-*2024-12-04 00:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85161) · `en`
-
-“Don’t let it happen. It depends on you.” – George  Orwell (1984)
-
-They are back, creeping out  of the woodwork. The gathering outside Colombo’s main railway station was mercifully small, just the mandatory monk and a handful of civilians. Having offered flowers to a statue of the Buddha, they proceeded to violate his teachings by trying to ignite an ethno-religious fire.
-
-Their target was the welcome decision by the NPP/JVP Government to release some of the military-occupied land in the north to their original owners.
-
-The monk accused President Anura Kumara Dissanayake of being a diaspora agent trying to rejuvenate the Tigers and start the next Eelam War. Madubhashana Prabath, the secretary of Sinhala Ravaya, called the new president King Elara of Tambuttegama and promised to struggle till the ‘last drop of blood’ to ‘save the nation’. (https://www.youtube.com/watch?v=oc613tLk3Cs).
-
-...
-
-[Data](articles/a3f01d20.json)
-
-[Extended Data](ext_articles/a3f01d20.ext.json)
-
----
-
-### Sri Lanka under the age of 17 - Bangladesh does not fail a win
-
-*2024-12-04 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200361) · `ta`
-
-Sri Lanka U17 vs Bangladesh U17 cricket match summary: Sri Lanka won by over 260 runs. Key performances: Jason Fernando (98), Joshua Sebastian (53), Kithma Vidanapatrana (164). Bangladesh struggled, dismissed for 51 in second innings.
-
-🟩
-
-The first 3 -day cricket match between Sri Lanka and Bangladesh under the age of 17 ended on Tuesday (03) at the Galle International Stadium.
-
-In the first innings of the upting match, Jason Fernando, Joshua Sebstian and Kimhana Rajapaksa scored half -centuries and Rasid Nimsara recorded 4 wickets.
-
-In the first innings, Jason Fernando Joshua Sebstian shared 102 runs in the 5th wicket.
-
-In the second innings, team captain Kithma Vidanapatrana received half a decimal with Senuja Vagunagoda.
-
-Sri Lanka scored more than 280 runs in 2 innings.
-
-Sri Lankan team of 17 years. Diclayat (Jason Fernando 98, Joshua Sebstion 53, Kimhanna Rasanjana 51, Ashanul Haq Mahim 32 - 2 Vic.
-
-Under the age of 17. Vigneshwaran Akash 46 - 1 wig.)
-
-Sri Lankan team of 17 years: 317 - 7 wig. Diclayat (Kithma Vidhanapatrana 164, Senuja Vegunagoda 80, Rahman Akash 81 - 3 Vic.)
-
-Bangladesh team under 17: 51 - 4 wig when the game ended. (Sethima Seneviratne 5 - 1 Vig., Rasith Nimsara 5 - 1 Vig.
-
-◼️
-
-[Data](articles/1db2b905.json)
-
-[Extended Data](ext_articles/1db2b905.ext.json)
-
----
-
-### 2024-12-03 (Tuesday)
-
-### England and New Zealand teams fined
-
-*2024-12-03 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/200360) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-England & New Zealand fined 15% competition fees for playing extra Test match overs. World Test Championship points reduced. ICC judge ruled teams bowled out under 3 overs. Teams pleaded guilty, accepted punishments. Total World Test Championship points deducted 6 for both teams.
-
-🟩
-
-Both England and New Zealand have been fined for playing over the first Test cricket match last week at the Christchurch Hegli Oval Stadium.
-
-Both teams have been fined 15 percent of the competition fees and the World Test Championships have been reduced to 3 points at the World Test championship points.
-
-New Zealand, 4th, is now back in 5th place as the teams have reduced the World Test championship points.
-
-Emirates ICC elite ruling judge David Bhon ruled that the teams of Ben Stokes and Tom Leadam were bowled out for less than 3 overs at the end of the concessionary time.
-
-The recommendation of the ICC Immigration for the players and the players of the players and the players is associated with the recession over the recession over the rates, which will be fined five per cent of the players' competitive fees.
-
-Moreover, the ICC World Test Championships are awarded one point for each team for the recommendation of 16.11.2.
-
-...
-
-[Data](articles/4cb982d0.json)
-
-[Extended Data](ext_articles/4cb982d0.ext.json)
 
 ---

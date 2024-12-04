@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 02:26:43**
+As of **2024-12-05 01:42:54**
 
 ## Newspaper Stats
 
-*Scraped **58,515** Articles*
+*Scraped **58,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
-tamilmirrorlk | 8,329
+tamilmirrorlk | 8,327
 virakesarilk | 9,574
 adaderanasinhalalk | 10,108
 
@@ -26,55 +26,11 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,510 (100.0%) of 58,515 articles have been extended.
+58,503 (100.0%) of 58,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
-
-### மாவீரர் விவகாரத்தில் ஏன்? இரட்டை நிலைப்பாடு
-
-*2024-12-05 01:52:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-விவகாரத்தில்-ஏன்-இரட்டை-நிலைப்பாடு/175-348256) · `ta`
-
-வடக்கில் மாவீரர்களை  நினைவுகூர்ந்த சிவாஜிலிங்கம் தண்டனை சட்டக் கோவையின் கீழ்  கைது செய்யப்படுகிறார். மாவீரர்களை  நினைவுகூர்ந்ததை வெளிப்படுத்திய சமூக செயற்பாட்டாளர்கள் தெற்கில்  பயங்கரவாத தடைச்சட்டத்தின் கீழ் கைது செய்யப்படுகிறார்கள். ஏன் இந்த இரட்டை நிலைப்பாடு என ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான தயாசிறி ஜயசேகர கேள்வி எழுப்பினார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (04)  நடைபெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரைமீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு கேள்வி எழுப்பினார்.
-
-கடந்த பாராளுமன்றத்தில்    225 உறுப்பினர்களும் திருடர்கள் என்று  முத்திரை குத்தப்பட்டார்கள் . ஆகவே உண்மையான திருடர்களை சட்டத்தின் முன்னிலையில் நிறுத்தும் பொறுப்பு அரசாங்கத்துக்கு உண்டு. ஆட்சிக்கு வந்தவுடன்  முன்னாள் ஜனாதிபதிகளின்  சிறப்புரிமைகளை இரத்து செய்வதாகவும்,  பாராளுமன்ற உறுப்பினர்களின் கொடுப்பனவுகளை இரத்து செய்வதாகவும், குடும்ப ஆட்சியை முடிவுக்கு கொண்டு வருவதாகவும் கூறப்பட்டது. ஆனால்  சபை முதல்வர் பிமல் ரத்நாயக்கவின் மனைவி  அரசாங்கத்தில் உள்ளார்.
-
-...
-
-[Data](articles/66f8db67.json)
-
----
-
-### Archana praised the power of the national people
-
-*2024-12-05 01:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-புகழ்ந்தார்-அர்ச்சுனா/175-348255) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Archana: National people defeated Tamil politicians, giving 3 seats to national power. Claims racism exists in all previous governments. Opposition accused of racism, denies communalism.
-
-🟩
-
-That is why the people have defeated the Tamil politicians in the North and gave them 3 seats to the national people's power.. Ramanathan Archana said.
-
-In the second day's debate on the president's policy speech in Parliament on Wednesday (04), the UNP MP Dayasiri Jayasekara and the Chief Minister of the Council and Minister Bimal Ratnayaka said in a sudden controversy over who was racist.
-
-Racism was in all the last states. The Tamils ​​have seen us.. That is why the Northern people defeated the Tamil politicians who lied and gave them 3 seats to the national people's power. And the independent group made me win.
-
-Opposition parties are now carrying out racism. He said the national people did not carry out communalism.
-
-◼️
-
-[Data](articles/1ca4d5c5.json)
-
-[Extended Data](ext_articles/1ca4d5c5.ext.json)
-
----
 
 ### Hirunika withdraws statement made in respect of Magistrate Court proceedings against Hardy Jamaldeen
 
@@ -89,8 +45,6 @@ In the application, Jamaldeen claimed that Premachandra committed the offence of
 ...
 
 [Data](articles/e2866558.json)
-
-[Extended Data](ext_articles/e2866558.ext.json)
 
 ---
 
@@ -112,8 +66,6 @@ Samarasinghe added that coconut products obtained from State-owned plantations w
 
 [Data](articles/cce2b901.json)
 
-[Extended Data](ext_articles/cce2b901.ext.json)
-
 ---
 
 ### Jaffna youth and Colombo political activist released on bail over Maveerar Naal SM posts
@@ -127,8 +79,6 @@ The youth, identified as Manoharan Kajendraroopan, a resident of Inuvil West, Ch
 ...
 
 [Data](articles/69c7c244.json)
-
-[Extended Data](ext_articles/69c7c244.ext.json)
 
 ---
 
@@ -150,8 +100,6 @@ The ruling was delivered in response to an appeal by People’s Bank, which cont
 
 [Data](articles/36a4d925.json)
 
-[Extended Data](ext_articles/36a4d925.ext.json)
-
 ---
 
 ### W.M. Mendis’ liquor licence to be suspended today over Rs. 5 b tax arrears
@@ -168,8 +116,6 @@ In addition to halting the company’s liquor production, the department said th
 
 [Data](articles/3664f681.json)
 
-[Extended Data](ext_articles/3664f681.ext.json)
-
 ---
 
 ### Sri Lanka – Korea Business Council holds 29th Annual General Meeting
@@ -185,8 +131,6 @@ The Sri Lanka – Korea Business Council of The Ceylon Chamber of Commerce (SLKB
 ...
 
 [Data](articles/620699ad.json)
-
-[Extended Data](ext_articles/620699ad.ext.json)
 
 ---
 
@@ -2461,5 +2405,47 @@ When we asked Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospi
 [Data](articles/1337a10e.json)
 
 [Extended Data](ext_articles/1337a10e.ext.json)
+
+---
+
+### One killed when part of the security wall collapsed
+
+*2024-12-04 13:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புச்-சுவரின்-பகுதி-இடிந்து-விழுந்ததில்-ஒருவர்-பலி/175-348235) · `ta`
+
+Security wall collapse kills 1: 53-year-old man dies on birthday after part of safety barrier demolishes house in Welikada.
+
+🟩
+
+Welikada police say that a portion of the safety wall that was built around the house was demolished and the Painer had died.
+
+53 -year -old Sumith Kumara, a 53 -year -old man from Bandaragama Raigama Kahambiliyawatte, died on his birthday on the 2nd.
+
+The deceased, along with his son, has removed the old iron fence on the front wall of a house on Sri Jayawardenapura Parliament Road, Welikada, police said.
+
+Police investigations revealed that when the son of the deceased went to a nearby shop, the rest of the security wall was demolished.
+
+◼️
+
+[Data](articles/0e211954.json)
+
+[Extended Data](ext_articles/0e211954.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-12-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200400) · `ta`
+
+US dollar exchange rate: 286.1920 rupees buying, 294.8080 selling.
+
+🟩
+
+The US dollar purchasing price was 286.1920 rupees and the sales price were 294.8080 rupees based on a currency exchange rate released by the Central Bank on Wednesday (04).
+
+◼️
+
+[Data](articles/f1630da6.json)
+
+[Extended Data](ext_articles/f1630da6.ext.json)
 
 ---

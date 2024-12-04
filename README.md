@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 01:42:54**
+As of **2024-12-05 02:14:24**
 
 ## Newspaper Stats
 
-*Scraped **58,513** Articles*
+*Scraped **58,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
-tamilmirrorlk | 8,327
+tamilmirrorlk | 8,328
 virakesarilk | 9,574
 adaderanasinhalalk | 10,108
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,503 (100.0%) of 58,513 articles have been extended.
+58,508 (100.0%) of 58,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### Archana praised the power of the national people
+
+*2024-12-05 01:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-புகழ்ந்தார்-அர்ச்சுனா/175-348255) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Archana: National people defeated Tamil politicians, giving 3 seats to national power. Claims racism exists in all previous governments. Opposition accused of racism, denies communalism.
+
+🟩
+
+That is why the people have defeated the Tamil politicians in the North and gave them 3 seats to the national people's power.. Ramanathan Archana said.
+
+In the second day's debate on the president's policy speech in Parliament on Wednesday (04), the UNP MP Dayasiri Jayasekara and the Chief Minister of the Council and Minister Bimal Ratnayaka said in a sudden controversy over who was racist.
+
+Racism was in all the last states. The Tamils ​​have seen us.. That is why the Northern people defeated the Tamil politicians who lied and gave them 3 seats to the national people's power. And the independent group made me win.
+
+Opposition parties are now carrying out racism. He said the national people did not carry out communalism.
+
+◼️
+
+[Data](articles/1ca4d5c5.json)
+
+[Extended Data](ext_articles/1ca4d5c5.ext.json)
+
+---
 
 ### Hirunika withdraws statement made in respect of Magistrate Court proceedings against Hardy Jamaldeen
 
@@ -45,6 +73,8 @@ In the application, Jamaldeen claimed that Premachandra committed the offence of
 ...
 
 [Data](articles/e2866558.json)
+
+[Extended Data](ext_articles/e2866558.ext.json)
 
 ---
 
@@ -66,6 +96,8 @@ Samarasinghe added that coconut products obtained from State-owned plantations w
 
 [Data](articles/cce2b901.json)
 
+[Extended Data](ext_articles/cce2b901.ext.json)
+
 ---
 
 ### Jaffna youth and Colombo political activist released on bail over Maveerar Naal SM posts
@@ -79,6 +111,8 @@ The youth, identified as Manoharan Kajendraroopan, a resident of Inuvil West, Ch
 ...
 
 [Data](articles/69c7c244.json)
+
+[Extended Data](ext_articles/69c7c244.ext.json)
 
 ---
 
@@ -99,6 +133,8 @@ The ruling was delivered in response to an appeal by People’s Bank, which cont
 ...
 
 [Data](articles/36a4d925.json)
+
+[Extended Data](ext_articles/36a4d925.ext.json)
 
 ---
 
@@ -2429,23 +2465,5 @@ Police investigations revealed that when the son of the deceased went to a nearb
 [Data](articles/0e211954.json)
 
 [Extended Data](ext_articles/0e211954.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-12-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200400) · `ta`
-
-US dollar exchange rate: 286.1920 rupees buying, 294.8080 selling.
-
-🟩
-
-The US dollar purchasing price was 286.1920 rupees and the sales price were 294.8080 rupees based on a currency exchange rate released by the Central Bank on Wednesday (04).
-
-◼️
-
-[Data](articles/f1630da6.json)
-
-[Extended Data](ext_articles/f1630da6.ext.json)
 
 ---

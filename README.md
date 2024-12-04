@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 17:44:16**
+As of **2024-12-04 18:23:31**
 
 ## Newspaper Stats
 
-*Scraped **58,452** Articles*
+*Scraped **58,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,84 +17,190 @@ economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,536
-adaderanalk | 7,097
+adaderanalk | 7,099
 tamilmirrorlk | 8,321
-virakesarilk | 9,565
-adaderanasinhalalk | 10,097
+virakesarilk | 9,566
+adaderanasinhalalk | 10,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,436 (100.0%) of 58,452 articles have been extended.
+58,440 (100.0%) of 58,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### யாழ். குடத்தனையில் நெற்பயிர்களுக்கு மடிச்சுக்கட்டி நோய் தாக்கம்!
+### சிலிண்டர் மீது அதிருப்தியில் இருக்கின்றோம் - முன்னாள் இராஜாங்க அமைச்சர் பிரமித பண்டார
+
+*2024-12-04 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200443) · `ta`
+
+ஜனாதிபதித் தேர்தலின் போதும், பொதுத் தேர்தலின் போதும் புதிய ஜனநாயக முன்னணியுடன் கூட்டணியமைத்து அதன் வெற்றிக்காக பாடுபட்டோம். அவ்வாறிருக்கையில் எம் சார்பில் ஒருவருக்கு தேசிய பட்டியல் ஆசனத்தை வழங்குவதற்கு காலம் தாழ்த்திக் கொண்டிருப்பது அதிருப்தியளிப்பதாக முன்னாள் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித பண்டார தென்னகோன் தெரிவித்துள்ளார்.
+
+புதன்கிழமை (4) கொழும்பில் முன்னாள் அமைச்சர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்களுக்கிடையில் இடம்பெற்ற சந்திப்பொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+எதிர்வரும் தேர்தல்களில் எவ்வாறு களமிறங்குவது தொடர்பில் இன்றைய சந்திப்பில் அவதானம் செலுத்தப்பட்டது. சிலிண்டர் தொடர்பில் அதிருப்தியுடனேயே இருக்கின்றோம். கிடைக்கப் பெற்ற இரு ஆசனங்களில் ஒன்றுக்கு தன்னிச்சையாக ஒருவர் தெரிவு செய்யப்பட்டமையை ஏற்றுக் கொள்ள முடியாது. இந்த விடயத்தில் தேசிய மக்கள் சக்தியிடமிருந்து பாடம் கற்றுக் கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/1c795763.json)
+
+---
+
+### දෙවන අවසන් පූර්ව තරගය ශ්‍රී ලංකාව හා ඉන්දියාව අතර
+
+*2024-12-04 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204037) · `si`
+
+ආසියානු කුසලාන වයස 19න් පහළ ක්‍රිකට් තරගාවලියේ මූලික වටයේ 'A' කාණ්ඩයේ සියලු තරග අද (04) අවසන් වූ අතර, ඒ සමග අවසන් පූර්ව වටයේ දී තරගවදින කණ්ඩායම් තේරී පත්විය.
+
+මෙම තරගාවලියේ මූලික වටයේ 'B'කාණ්ඩයෙන් තරගකළ ශ්‍රී ලංකාව අපරාජිතවම අවසන් පූර්ව වටයට පිවිසියේය.
+
+ඒ අනුව ඔවුන් 'A' කාණ්ඩයේ ප්‍රසාද ලකුණු සටහන අනුව එහි දෙවැනි ස්ථානය හිමිකරගත් ඉන්දියාව සමගින් දෙවන අවසන් පූර්ව තරගයට ක්‍රීඩා කිරීමට නියමිතව ඇත.
+
+ඒ අනුව ඔවුන් අද පැවති තීරණාත්මක තරගයෙන් එක්සත් අරාබි එමීර් රාජ්‍ය කණ්ඩායම පහසුවෙන් පරාජය කළේය.
+
+එක්සත් අරාබි එමීර් රාජ්‍යය මෙම තරගාවලියේ පසුගියවර අනුශූරතාව දිනාගැනීමට සමත් විය.
+
+මේ අතර මෙහි පළමු අවසන් පූර්ව තරගයද එදිනම 'B'කාණ්ඩයේ දෙවනි ස්ථානය දිනාගත් බංග්ලාදේශය හා පාකිස්තානය අතර ඩුබායිහිදී පැවැත්වේ.
+
+බංග්ලාදේශය මෙහි වත්මන් ශූරයන් වන අතර, ඔවුන් අවසන්වරට 2023 වසරේ පැවැති අදියර ජයගත්තේය.
+
+එමෙන්ම 2017 වසරේදී ආසියානු ශූරයන් ලෙස ඇෆ්ගනිස්තානය කිරුළු පැළඳීම හැරෙන්න තරග ඉතිහාසයේ අනෙක් සෑම අවස්ථාවකදීම (අවස්ථා 7) ශූරතාව දිනාගැනීමට සමත්ව ඇත්තේ ඉන්දියාවයි.
+
+...
+
+[Data](articles/626c46ef.json)
+
+---
+
+### Yall. Paddy fields in the kuttanai
 
 *2024-12-04 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200427) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி கிழக்கு குடத்தனை பகுதியில் தற்போது நெற்பயிர்களுக்கு மடிச்சுக்கட்டி நோய் பரவி வருகிறது.
+Here's a summary of the text in approximately 200 characters:
 
-அண்மையில் நாட்டில் பெய்த கன மழையின் பின்னரே பயிர்களிடத்தில் இந்நோய்த் தாக்கம் ஏற்பட்டுள்ளது.
 
-கடும் மழை காரணமாக பல இடங்களில் நெல் வயல்கள் அழிந்து நாசமாகியிருந்த நிலையில், தற்போது இயற்கை அனர்த்தங்களிலிருந்து தப்பித்த ஒரு சில வயல்களில் நெற்பயிர்களுக்கு மடிச்சுக்கட்டி நோய் தாக்கம் ஏற்பட்டுள்ளது.
+
+Heavy rains damage paddy fields in Jaffna's Vadamarachchi East Kudana area. Disease spreads through affected fields, threatening crops.
+
+🟩
+
+In the Vadamarachchi East Kudana area, Jaffna is currently spreading the disease to paddy fields.
+
+The disease has suffered from the recent heavy rains in the country.
+
+Due to heavy rains, paddy fields have been destroyed and destroyed, and now a few fields that have escaped natural disasters have been affected by paddy fields.
 
 ◼️
 
 [Data](articles/8892dc82.json)
 
+[Extended Data](ext_articles/8892dc82.ext.json)
+
 ---
 
-### கற்கோவளம் உணவுப் பிரச்சினை ; கைதான இருவருக்கும் பிணை!
+### Kerala cannabis worth over Rs. 75 mln seized in Guru Nagar
+
+*2024-12-04 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103997/kerala-cannabis-worth-over-rs-75-mln-seized-in-guru-nagar) · `en`
+
+The Sri Lanka Navy has seized around 188 kilograms and 350 grams of Kerala cannabis from a dinghy, during a special search operation conducted in the sea area off Guru Nagar, Jaffna in the wee hours of today (04).
+
+The operation, conducted by SLNS Welusumana of the Northern Naval Command, took place in the sea area off Guru Nagar.
+
+During the operation, naval personnel spotted a suspicious dinghy in the sea area.
+
+Upon inspection of the dinghy, they have recovered seven (07) travelling bags, containing Kerala cannabis weighing approximately 188 kilograms and 350 grams, the navy said.
+
+Consequently, the stock of Kerala cannabis and the dinghy were taken into naval custody.
+
+The gross street value of Kerala cannabis held in this operation is believed to be over Rs. 75 million.
+
+The haul of Kerala cannabis together with the dingy was handed over to the Jaffna Police for onward investigation and legal action.
+
+◼️
+
+[Data](articles/3c95e8bc.json)
+
+---
+
+### The problem of food;Bail for both arrested!
 
 *2024-12-04 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200425) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி வடக்கு பருத்தித்துறை கற்கோவளம் பகுதியில் கிராமசேவகர் உணவு நிவாரணம் வழங்கியபோது பொதுமக்களுடன் ஏற்பட்ட தகராறு தொடர்பாக பொலிஸாருக்கு அளித்த முறைப்பாட்டின் அடிப்படையில் கடந்த 01ஆம் திகதி கைது செய்யப்பட்ட இரண்டு இளைஞர்களுக்கும் புதன்கிழமை (04) பருத்தித்துறை நீதிமன்றம் பிணை வழங்கியிருந்தது.
+Food relief dispute: Two youths granted bail after arrest over public argument during distribution in Point Pedro.
 
-கடந்த 01ஆம் திகதி கைது செய்யப்பட்டு திங்கட்கிழமை (02) நீதிமன்றில் முற்படுத்தப்பட்ட நிலையில் இன்று (04) வரை தடுப்புக்காவலில் வைக்கப்பட்டனர்.
+🟩
 
-இவ்வழக்குக்கு சட்டத்தரணி விஸ்வலிங்கம் மணிவண்ணன் தலைமையிலான சட்டத்தரணிகள் மன்றுக்கு முன்வைத்த விவாதத்தின் அடிப்படையில் கைதான இருவருக்கும் பருத்தித்துறை நீதிமன்றம் பிணை வழங்கியுள்ளது.
+The Point Pedro Court on Wednesday (04) was granted bail to the two youths who were arrested on Wednesday (04) on the basis of a complaint lodged by the police regarding a dispute with the public when the Grama Sevakkar provided food relief in Vadamarachchi North Point Pedro.
 
-கடந்த நவம்பர் 30ஆம் திகதி கற்கோவளம் பகுதியில் உணவு நிவாரணம் வழங்கச் சென்ற கிராம சேவகரிடம் பிள்ளைகளுக்காக உணவு கோரிய வேளை முரண்பாடு ஏற்பட்டுள்ளது.
+They were arrested on Monday (02) and filed in court on Monday (02).
 
-இதன் காரணமாக அந்த கிராமசேவகர் பருத்தித்துறை காவல் நிலையத்தில் முறைப்பாடு செய்ததன் அடிப்படையிலேயே இந்த இருவரும் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+The Point Pedro Court has granted bail to the two arrested on the basis of a debate made by lawyers led by Attorney Wiswalingam Manivannan.
+
+On November 30 last year, the Grama Niladhari, who was providing food relief in the Kalovalam area, had a conflict with the children.
+
+As a result, the two were arrested on the basis of a complaint at the Grama Sevaka police station.
 
 ◼️
 
 [Data](articles/aaa2a509.json)
 
+[Extended Data](ext_articles/aaa2a509.ext.json)
+
 ---
 
-### மெகா ஸ்டார்' சிரஞ்சீவியை இயக்கும் இயக்குநர் ஸ்ரீகாந்த்
+### Director of Mega Star 'Chiranjeevi
 
 *2024-12-04 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200438) · `ta`
 
-தெலுங்கின் முன்னணி நட்சத்திர நடிகரான மெகா ஸ்டார் சிரஞ்சீவி நடிக்கும்  பெயரிடப்படாத புதிய படத்தின் அதிகாரப்பூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of 200 characters:
 
-நடிகர் நானி நடிப்பில் வெளியாகி விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் பாரிய வெற்றியைப் பெற்ற 'தசரா' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் ஸ்ரீகாந்த் ஓடேலா இயக்கத்தில் தயாராகும் பெயரிடப்படாத திரைப்படத்தில் 'மெகா ஸ்டார்' சிரஞ்சீவி கதாநாயகனாக நடிக்கிறார். இந்த திரைப்படத்தை எஸ் எல் வி சினிமாஸ் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் சுதாகர் செருகுரி தயாரிக்கிறார். இந்த திரைப்படத்தை நடிகர் நானியின் சொந்த பட நிறுவனமான யுனானிமஸ் புரொடக்ஷன்ஸ் நிறுவனம் வழங்குகிறது.
 
-இப்படத்திற்கான அதிகாரப்பூர்வமான அறிவிப்பு பிரத்யேக போஸ்டர் மூலம் வெளியிடப்பட்டுள்ளது. அதில் 'வன்முறையில் அவர் அமைதியை காண்கிறார்' என்ற வாசகம் இடம் பிடித்திருப்பதாலும், அவை சிவப்பு வண்ண பின்னணியில் இடம் பிடித்திருப்பதால் இந்த திரைப்படம் அதிரடி எக்சன் திரில்லர் திரைப்படமாக இருக்கும் என்ற எதிர்பார்ப்பு ரசிகர்களிடத்தில் ஏற்பட்டிருக்கிறது.
 
-...
+Chiranjeevi stars in new film. Directed by Srikanth Odela (Dasara). Produced by Sudhakar Parkuri (SLV Cinemas) and Nani's Ununimas Productions. Red-themed poster released. Odela also works on "The Paradise" with Natural Star.
+
+🟩
+
+The official announcement of the unnamed new film starring Telugu star actor Mega Star Chiranjeevi has been released.
+
+Director Srikanth Odela, who directed the film 'Dasara' which was a critically successful and grossly successful film starring actor Nani. The film is being produced by producer Sudhakar Parkuri on behalf of SLV Cinemas. The film is provided by actor Nani's own film company, Ununimas Productions.
+
+The official announcement for the film has been released by a special poster. The film is said to be a red color background, as the film is said to be a red color background, as it is said to be a red color background.
+
+Meanwhile, director Srikanth Odela is currently working on the film 'The Paradise' starring 'Natural Star', which will begin the work of the film, and that the film will be released after the film's work will begin.
+
+◼️
 
 [Data](articles/545c1f5c.json)
 
+[Extended Data](ext_articles/545c1f5c.ext.json)
+
 ---
 
-### நடிகர் குரு சோமசுந்தரம் நடிக்கும் 'போத்தல் ( பாட்டில் )ராதா' திரைப்படத்தின் புதிய பாடல் வெளியீடு
+### Actor Guru Somasundaram starrer 'Bottal (Batil) Radha'
 
 *2024-12-04 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200436) · `ta`
 
-தமிழ் திரையுலகின் ஒப்பற்ற குணசித்திர நடிகரான குரு சோமசுந்தரம் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'போத்தல் ராதா' எனும் திரைப்படத்தில் இடம்பெற்ற 'நானா குடிகாரன்..' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of the text in approximately 200 characters:
 
-இயக்குநர் தினகரன் சிவலிங்கம் இயக்கத்தில் உருவாகி வரும் 'போத்தல் ராதா 'எனும் திரைப்படத்தில் குரு சோமசுந்தரம், சஞ்சனா நடராஜன், ஜான் விஜய், மாறன், அந்தோணி, பாரி இளவழகன், ஆறுமுக வேல், அபி ராமையா, ஜேபி குமார், கே எஸ் கர்ணா பிரசாத் , மாலதி அசோக் நவீன், சுகாசினி சஞ்சீவ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரூபேஷ் ஷாஜி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை நீலம் புரொடக்ஷன்ஸ் மற்றும் பலூன் பிக்சர்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் பா. ரஞ்சித் மற்றும் டி. என் .அருண் பாலாஜி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
 
-...
+
+Tamil film "Bottal (Batil) Radha" stars Guru Somasundaram. Features song "Nana Kudikkaran" by lyricist/singer. Directed by Shawn Roldan, produced by Neelam Productions and Balloon Pictures.
+
+🟩
+
+Guru Somasundaram, the unique character of the Tamil film, has been released as the hero of the story and the song 'Nana Kudikkaran ..' featured in the film 'Bottal Radha' and the lyrical video for the song.
+
+Guru Somasundaram, Sanjana Natarajan, John Vijay, Maran, Bari Ilavalakan, Arumuga Vale, Abhi Ramaiah, JP Ramaiah, JP Ramaiah, KS Karna Prasad, Malathi Ashok NavinHave played. Shawn Roldan has composed the film, which has been recorded by Rupesh Shaji. The film was made on behalf of Neelam Productions and Balloon Pictures. Ranjith and D. N. Arun Balaji has co -produced.
+
+The film will be released on the twentieth day of the film, which will be released in the film House, 'Nana Kudikkaran ..'. This song is written and sung by the songwriter. The song is a great popular fans because of the songs about alcohol lovers.
+
+◼️
 
 [Data](articles/0cde9eab.json)
+
+[Extended Data](ext_articles/0cde9eab.ext.json)
 
 ---
 
@@ -129,6 +235,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4910aac4.json)
+
+---
+
+### Court rejects W.M. Mendis’ petition challenging Excise license suspension
+
+*2024-12-04 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103995/court-rejects-wm-mendis-petition-challenging-excise-license-suspension) · `en`
+
+The Court of Appeal has ordered the dismissal of a petition filed by the W.M. Mendis & Co. Limited today (04) without taking it up for hearing.
+
+W. M. Mendis Distilleries had filed the petition seeking an order invalidating the letter issued by the Department of Excise informing that steps will be taken to suspend the excise licenses issued to the company if the outstanding excise duties were not settled before 30 November 2024.
+
+This order was issued by the Appeals Court judge bench consisting of Justices Sobhitha Rajakaruna and Mahen Gopallawa following an extended consideration of facts, declaring that the petition does not reveal any prima facie case.
+
+...
+
+[Data](articles/514f32c1.json)
 
 ---
 
@@ -2281,81 +2403,5 @@ Addressing Parliament yesterday during a debate on President Anura Kumara Dissan
 [Data](articles/0cb12ab8.json)
 
 [Extended Data](ext_articles/0cb12ab8.ext.json)
-
----
-
-### Shanakiyan urges Govt. to clarify stance on Provincial Councils
-
-*2024-12-04 05:48:08* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-urges-Govt-to-clarify-stance-on-Provincial-Councils/56-770052) · `en`
-
-Illankai Tamil Arasu Kadchi (ITAK) MP Shanakiyan Rasamanickam has urged the Government led by President Anura Kumara Dissanayake to clarify its position on the future of the Provincial Council system.
-
-Citing recent remarks to the media by Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva, who has suggested the system might be abolished, Rasamanickam called for an official response on the matter. The MP raised the question prior to yesterday’s Parliamentary debate on the President’s policy statement, emphasising that the issue is of national significance and has sparked widespread public concern.
-
-Leader of the House Bimal Rathnayake responded by reaffirming the Government’s respect for Rasamanickam but noted that the matter was not directly relevant to the day’s Parliamentary agenda. “Do not be spoiled by those around you,” Rathnayake said.
-
-...
-
-[Data](articles/ebf83f2e.json)
-
-[Extended Data](ext_articles/ebf83f2e.ext.json)
-
----
-
-### Govt. vows to prevent resurgence of racist politics; religious extremism
-
-*2024-12-04 05:47:15* · [`dailyftlk`](https://www.ft.lk/news/Govt-vows-to-prevent-resurgence-of-racist-politics-religious-extremism/56-770051) · `en`
-
-The Government yesterday reaffirmed its commitment to preventing the resurgence of any divisive racist politics or religious extremism.
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa disclosed that intelligence services have observed attempts to stir such sentiments, particularly via social media, and the Government is prepared to take all necessary actions, including introducing new legislation, to address the issue.
-
-“No one will be allowed to use nationalist or religious rhetoric as a means to gain political power in this country again,” Dr. Jayatissa said during the weekly post-Cabinet meeting media briefing.
-
-Noting that the Government has expressed its intent to repeal the Prevention of Terrorism Act (PTA), Dr. Jayatissa acknowledged that the existing law will remain in force until new legislation is introduced.
-
-The matter of repealing the PTA has been a longstanding issue, he noted, adding that will be discussed as Parliament progresses.
-
-...
-
-[Data](articles/297c62a2.json)
-
-[Extended Data](ext_articles/297c62a2.ext.json)
-
----
-
-### US Assistant Secretary to visit Sri Lanka tomorrow
-
-*2024-12-04 05:46:03* · [`dailyftlk`](https://www.ft.lk/news/US-Assistant-Secretary-to-visit-Sri-Lanka-tomorrow/56-770050) · `en`
-
-Assistant Secretary of State for the Bureau of South and Central Asian Affairs Donald Lu is scheduled to arrive in Sri Lanka tomorrow (5).
-
-Issuing a statement, the US State Department said the US Assistant Secretary will also travel to India and Nepal from 3-10 December. His trip will strengthen cooperation with key partners in South Asia to promote regional prosperity and security.
-
-Assistant Secretary Lu’s visit aims to advance US-Sri Lankan joint efforts to promote sustainable economic growth, combat corruption, and strengthen people-to-people ties.
-
-USAID Deputy Assistant Administrator Anjali Kaur and Department of the Treasury Deputy Assistant Secretary Robert Kaproth will join the Assistant Secretary to meet with senior Government officials from new administration and representatives from civil society.
-
-...
-
-[Data](articles/8a188a61.json)
-
-[Extended Data](ext_articles/8a188a61.ext.json)
-
----
-
-### New Government faces tough questions over IMF U-turn
-
-*2024-12-04 05:41:59* · [`dailyftlk`](https://www.ft.lk/columns/New-Government-faces-tough-questions-over-IMF-U-turn/4-770049) · `en`
-
-Can the Government implement the IMF’s reforms in a way that minimises their impact on vulnerable populations?
-
-When the NPP party swept into power just a couple of months ago, it did so on a wave of hope and promises of change. President Anura Kumara Dissanayake’s campaign was built on sharp critiques of past economic mismanagement and vows to steer the country towards a more equitable future. Yet, in a move that has surprised many supporters, the new Government has chosen to accept the IMF bailout terms negotiated by its predecessor—a decision that underscores the scale of the challenges it faces.
-
-...
-
-[Data](articles/4d26ec63.json)
-
-[Extended Data](ext_articles/4d26ec63.ext.json)
 
 ---

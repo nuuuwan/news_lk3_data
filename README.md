@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 03:16:29**
+As of **2024-12-05 03:42:32**
 
 ## Newspaper Stats
 
-*Scraped **58,522** Articles*
+*Scraped **58,529** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
-colombotelegraphcom | 592
+colombotelegraphcom | 595
 bbccomsinhala | 611
 islandlk | 3,506
 economynextcom | 3,558
@@ -18,19 +18,71 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
-tamilmirrorlk | 8,329
-virakesarilk | 9,581
+tamilmirrorlk | 8,330
+virakesarilk | 9,584
 adaderanasinhalalk | 10,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,517 (100.0%) of 58,522 articles have been extended.
+58,520 (100.0%) of 58,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### Gajendrakumar meets wealth at the end of this week
+
+*2024-12-05 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/200457) · `ta`
+
+Gajendrakumar Ponnambalam meets Tamil leaders this week to discuss unity and federal solutions for Tamil welfare.
+
+🟩
+
+Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA), and the leader of the Tamil National Alliance (TNA), will meet the President of the Democratic Tamil National Alliance (TNA), Selvam Adaikkalanathana Mannar this week.
+
+In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
+
+According to Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
+
+Meanwhile, Sivagnanam Sridharan, the leader of the Sri Lanka Tamil National Alliance (TNA) parliamentary committee, and Selvam Adakkalanathan, the leader of the Democratic Tamil National Alliance (TNA), said they were ready to negotiate beyond the proposal.
+
+...
+
+[Data](articles/7edc71a2.json)
+
+[Extended Data](ext_articles/7edc71a2.ext.json)
+
+---
+
+### 361 Liquor Permits as Political Bribery
+
+*2024-12-05 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200456) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Ranil Wickremesinghe's govt issues 361 liquor permits across Sri Lanka, sparking allegations of political bribery. Breakdown: 110 Western, 48 Southern, 32 Northern, 22 Eastern, 45 North Central, 30 each in Uva, North Western Provinces.
+
+🟩
+
+Former President Ranil Wickremesinghe's government has issued a political bribe to the Northern Province for 32 liquor schools and 22 liquor school permits to the Eastern Province.. In addition, 361 liquor schools have been granted permissions across the country.
+
+During the speech on the Government's Declaration of the Government on Wednesday (4) in Parliament, he addressed the council to submit the documents relating to the permit.
+
+The last government has issued a political bribery for many people for liquor roads.We have said that they will publish them.. All can know this
+
+According to the document, the permits for the Western Province are 110 liquor stores, 48 ​​in the Southern Province, 32 in the Northern Province, 22 in the Eastern Province, 45 in the North Central Province, 30 in the Uva Province, 30 in the North Western Province, 30 in the North Western Province, 30 permits for 9 provinces.Have been provided.
+
+...
+
+[Data](articles/07311894.json)
+
+[Extended Data](ext_articles/07311894.ext.json)
+
+---
 
 ### The process of creating the new constitution must be carried out through the Alliance -Douglas Devananda
 
@@ -88,17 +140,29 @@ The price of essential commodities in the market has increased and people are ve
 
 ---
 
-### புதிய அரசியலமைப்பு வரும் வரை 13 ஆம் திருத்தம் தொடரும் ; தமிழரசுக்கட்சிப் பாராளுமன்ற உறுப்பினர்களிடம் ஜனாதிபதி உத்தரவாதம்
+### The 13th Amendment will continue until the new constitution comes;President guarantees Tamil party parliamentarians
 
 *2024-12-05 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200453) · `ta`
 
-புதிய அரசியலமைப்பு உருவாக்கப்படும் வரை 13 ஆம் திருத்தச்சட்டமும், மாகாணசபை முறைமையும் தொடரும் எனவும், அதற்கமைய எதிர்வரும் 2025 ஆம் ஆண்டின் இறுதிப்பகுதியில் மாகாணசபைத்தேர்தல்கள் நடாத்தப்படும் எனவும் இலங்கைத் தமிழரசுக்கட்சி பாராளுமன்ற உறுப்பினர்களிடம் ஜனாதிபதி அநுரகுமார திஸாநாயக்க உறுதியளித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-அதுமாத்திரமன்றி புதிய அரசியலமைப்பிலேயே தமிழ் மக்களால் ஏற்றுக்கொள்ளப்படக்கூடிய அரசியல் தீர்வை உள்வாங்கமுடியும் எனவும், அதுபற்றி தமிழ்த்தேசிய கட்சிகளின் பிரதிநிதிகளுடன் நிச்சயம் கலந்துரையாடப்படும் எனவும் உத்தரவாதமளித்துள்ள ஜனாதிபதி, இனிவரக்கூடிய புதிய அரசியலமைப்பானது பிரிவினைக்கானதாகவன்றி, இலங்கை எனும் ஒருமித்த நாட்டை இலக்காகக்கொண்டதாக இருக்கும் என்றும் தெரிவித்துள்ளார்.
+
+
+Sri Lankan President Anura Kumara Dissanayake meets Tamil party leaders. Assures continuation of 13th Amendment until new constitution. Promises provincial council elections by end of 2025. Addresses issues like missing persons, land disputes, and political prisoners. Emphasizes unity over separation in new constitution.
+
+🟩
+
+President Anura Kumara Dissanayake has assured the Sri Lankan Tamil party parliamentarians that the 13th Amendment and the Provincial Council system will continue until the new constitution is created and the provincial council elections will be held by the end of 2025.
+
+The president, who has assured that the political solution that the Tamil people can be accepted by the Tamil people can be accepted in the new constitution and that it will be discussed with representatives of the Tamil national parties, said the new constitution would be aimed at the unity of Sri Lanka, rather than for the separation.
+
+At the request of the Sri Lankan Tamil Nadu, the President of the Tamil National Alliance (TMC) Held at the Presidential Secretariat.
 
 ...
 
 [Data](articles/5e489c47.json)
+
+[Extended Data](ext_articles/5e489c47.ext.json)
 
 ---
 
@@ -117,6 +181,24 @@ The price of essential commodities in the market has increased and people are ve
 ◼️
 
 [Data](articles/0c8c37da.json)
+
+---
+
+### 361 பார்களுக்கு ‘அரசியல் இலஞ்சம்’
+
+*2024-12-05 01:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/361-பார்களுக்கு-அரசியல்-இலஞ்சம்/175-348257) · `ta`
+
+கடந்த அரசாங்கத்தில் நாடு முழுவதும் 361 மதுபான சாலைகளுக்கான அரசியல் இலஞ்சமாக அனுமதி வழங்கப்பட்டுள்ளது என சபை முதல்வரும் அமைச்சருமான பிமல் ரத்னாயக்க, பாராளுமன்றத்தில், புதன்கிழமை (04)தெரிவித்தார்.
+
+அதில், வடக்கு மாகாணத்திற்கு 32 மதுபான சாலைகளுக்கான அனுமதிகளும் கிழக்கு மாகாணத்திற்கு 22 மதுபான சாலைகளுக்கான அனுமதிகளும் வழங்கப்பட்டுள்ளன.
+
+கடந்த அரசில் அரசியல் இலஞ்சமாக பலருக்கு மதுபான சாலைகளுக்கான அனுமதிப்பத்திரங்கள் வழங்கப்பட்டுள்ளன  .அவற்றை வெளியிடும் எனக் கூறியிருந்தோம்.அதற்கமைய அந்த விபரங்களை இந்த சபைக்கு சமர்ப்பிக்கின்றேன். இதனை சகலரும் அறிந்து கொள்ள முடியும்
+
+இந்த விபரத்தின்படி மேல் மாகாணத்தில் 110 மதுபானசாலைகளுக்கான அனுமதிகளும் தென்மாகாணத்தில் 48, வடக்கு மாகாணத்தில் 32, கிழக்கு மாகாணத்தில் 22,மத்திய மாகாணத்தில் 45,வட மத்திய மாகாணத்தில் 14,ஊவா மாகாணத்தில் 30 ,வடமேல் மாகாணத்தில் 30 சப்ரகமுவ மாகாணத்தில் 30 என 361 மதுபானசாலைகளுக்கான அனுமதிகள் அரசியல் இலஞ்சமாக வழங்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/b68bf717.json)
 
 ---
 
@@ -456,6 +538,22 @@ The government has ruled with 159 seats.To make a new change in the lives of peo
 
 ---
 
+### மாவீரர் தினத்தில் இனமுரண்பாட்டை தோற்றுவிக்க முயற்சித்தவர்களில் இருவர் சிலிண்டர் சின்னத்தின் செயற்பாட்டாளர்கள் - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
+
+*2024-12-05 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200422) · `ta`
+
+வடக்கு மற்றும் கிழக்கில் இடம்பெற்ற மாவீரர் தின அனுஸ்டிப்புக்களை திட்டமிட்ட வகையில் திரிபுபடுத்தி வடக்கு - தெற்குக்கிடையில் முரண்பாடுகளை ஏற்படுத்தும் வகையில் சமூக வலைதளங்களில் புகைப்படம் மற்றும் காணொளிகளை பதிவேற்றம் செய்தவர்களில் இருவர் புதிய ஜனநாயக முன்னணியின் செயற்பாட்டாளர்கள். ஊடகங்களை அடக்க வேண்டிய அவசியம் அரசாங்கத்துக்கு கிடையாது. ஒருவரின் உரிமை பிறிதொருவருக்கு இடையூறாக அமைய கூடாது என்பதை அனைவரும் நினைவில் வைத்துக் கொள்ள வேண்டும் என  பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (04) நடைபெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கடந்த இருவார காலப்பகுதியில் இடம்பெற்ற கைதுகள் மற்றும் அதற்கான காரணங்களை சபைக்கு அறிவிக்க எதிர்பார்க்கிறேன்.
+
+...
+
+[Data](articles/ee300e12.json)
+
+---
+
 ### புதிய அரசியலமைப்பில் தமிழர்களின் சமவுரிமையை உறுதிப்படுத்த வேண்டும்  - சாணக்கியன் வலியுறுத்தல்
 
 *2024-12-05 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200421) · `ta`
@@ -686,6 +784,20 @@ Armed troops had forced their way into the National Assembly building in Seoul b
 
 ---
 
+### Sri Lanka State Banks Forced To Reveal Info On Suspect Transactions, Comes Under RTI Microscope
+
+*2024-12-04 21:55:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-state-banks-forced-to-reveal-info-on-suspect-transactions-comes-under-rti-microscope/) · `en`
+
+Lawyers and transparency activists monitoring Sri Lanka’s state banking sector have welcomed two significant decisions of the Right to Information Commission of Sri Lanka bringing key state banks, the Bank of Ceylon and the Peoples Bank, under the Right to Information (RTI) microscope to account for use of state funds to, among others, politically favoured persons.
+
+Last week, the Court of Appeal dismissed an appeal by the People’s Bank challenging a decision of the Commission directing to release info on moneys spent on a Buddhist religious event by its Anuradhapura branch in 2002 when a past employee of the Bank demanded to know the amount of money and to whom the payments had been made, alleging large scale irregularities.
+
+...
+
+[Data](articles/22027ffa.json)
+
+---
+
 ### If you have a money laundering fraud using the name of the PA and the name of Namal Rajapaksa - Make a complaint with the police - Geetanath Kasilingam
 
 *2024-12-04 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200450) · `ta`
@@ -745,6 +857,24 @@ President Anura Kumara Dissanayake has said that the government's priorities are
 [Data](articles/140f0962.json)
 
 [Extended Data](ext_articles/140f0962.ext.json)
+
+---
+
+### Archbishop Of Canterbury’s Resignation – Uncomfortably Close To The Church of Ceylon
+
+*2024-12-04 21:23:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/archbishop-of-canterburys-resignation-uncomfortably-close-to-the-church-of-ceylon/) · `en`
+
+Reuters (12.11.2024) announced that Justin Welby, the Archbishop of Canterbury, the spiritual leader of Anglicans worldwide, resigned “in sorrow” on Tuesday, saying he had failed to ensure a proper investigation into allegations of abuse at Christian summer camps decades ago after a report the previous week found he had insufficiently acted to stop one of the Church’s most prolific serial abusers.
+
+The report said British lawyer John Smyth had subjected more than 100 boys and young men to “brutal and horrific” physical and sexual abuse over 40-years. Smyth would beat victims with up to 800 strokes of a cane, and drape himself over his victims, kissing them on the neck or back.
+
+He ran Christian camps in Dorset, England, where Welby also worked before his ordination. Smyth died in 2018.
+
+The Church had known at the highest level about the sexual abuse in 2013. Welby became aware, at the latest, the same year, after becoming archbishop.
+
+...
+
+[Data](articles/e4e132b0.json)
 
 ---
 
@@ -1255,6 +1385,18 @@ Minister Samarasinghe said that coconuts will be sold for 130 rupees in the next
 [Data](articles/83c94121.json)
 
 [Extended Data](ext_articles/83c94121.ext.json)
+
+---
+
+### President’s Vision For A Peacefully United Sri Lanka
+
+*2024-12-04 18:27:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidents-vision-for-a-peacefully-united-sri-lanka/) · `en`
+
+The recent political transition in Sri Lanka, following the presidential and parliamentary elections of September and November, offers a pivotal opportunity to address entrenched issues of exclusion. In his inaugural speech at the 10th Parliament, President Anura Kumara Dissanayake emphasized his commitment to preventing racism and religious extremism in Sri Lanka. He asserted that his government would not allow racist politics to reemerge and pledged to establish a democratic state free from fear and suspicion. The president highlighted the importance of the rule of law, ensuring that no individual or politician is above it. His address also included a promise to investigate controversial crimes, deliver justice to victims, and rebuild public trust in the legal system.
+
+...
+
+[Data](articles/c6ef5c1f.json)
 
 ---
 
@@ -2295,175 +2437,5 @@ Accordingly, the index has increased by 171.69 points within the day to close at
 [Data](articles/c5d0df4d.json)
 
 [Extended Data](ext_articles/c5d0df4d.ext.json)
-
----
-
-### Two kg of rice marketed through Sathosa
-
-*2024-12-04 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204029) · `si`
-
-Sathosa sells 2kg rice at Rs. 440; Minister Wasantha Samarasinghe announces solution to rice crisis
-
-🟩
-
-Minister of Trade Minister Wasantha Samarasinghe said that a solution to the rice crisis in the market will be sold across Sathosa today (04).
-
-Speaking in parliament today, he added that a kilo of rice can be purchased at Rs. 220.
-
-Wasantha Samarasinghe, Minister of Trade, Commerce, Food Safety and Co-operative Development,
-
-"The Malhemiian has agreed with us today (04) to give all the rice at Rs.
-
-"At the time of the government's discussion, the banks unable to release the rice free of the mills. We've been looking for the answer yesterday. Therefore, they have agreed to us today to buy the cost of Rs.
-
-◼️
-
-[Data](articles/d9ecffb4.json)
-
-[Extended Data](ext_articles/d9ecffb4.ext.json)
-
----
-
-### The rule of the national people's power will be the fierce political war against the politics of the Tamil East - Blessed
-
-*2024-12-04 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200403) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National People's Power rules with fierce political war against Tamil East politics. Activists warn of intensified conflict post-local & provincial elections. Tamil diaspora urged to support political efforts. Joint Tamil People's Council proposed to address various issues. State force expansion and land acquisition criticized. Tamil nationalists emphasize future political welfare over past betrayals.
-
-🟩
-
-Social justice activist and co -ordinator of the National Organization for the release of political prisoners have begun to see that the reign of the National People's Power is a fierce political war against the politics of the North and East Tamils.
-
-There have been signs that the reign of the national people's power will be a fierce political war against the politics of the North and East Tamils.. We can face the political war we face only if we create a strong political collective structure between us to know the political situation.
-
-Tamil National Front leader Gajendrakumar Ponnambalam and TNA leader Sreedharan will welcome the talks to begin talks focusing on the political proposals put forward by the Tamil People's Forum and the meeting should be strengthened within the parliament and outside the parliament.
-
-To be expanded. Diaspora organizations must support the political obligation in the field and the field.
-
-...
-
-[Data](articles/fc6cd5c5.json)
-
-[Extended Data](ext_articles/fc6cd5c5.ext.json)
-
----
-
-### Sathosa Coconut Rs.130
-
-*2024-12-04 15:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-தேங்காய்-ரூ-130/175-348241) · `ta`
-
-Coconut price set at 130 Rupees via Sathosa; Rice mill owners agree to supply 200,000 kg daily at 220 Rupees per kg.
-
-🟩
-
-Minister of Commerce, Food Security and Co -operative Development Wasantha Samarasinghe told Parliament that a coconut will be sold for 130 rupees through Sathosa within the next two weeks.
-
-“There is a system of state -owned companies on coconut production.
-
-The Minister also said that the owners of the rice mill had agreed to release two lakh kg of rice per day at a price of 220 rupees.
-
-◼️
-
-[Data](articles/9f86af6f.json)
-
-[Extended Data](ext_articles/9f86af6f.ext.json)
-
----
-
-### The head of the female parliamentary union
-
-*2024-12-04 15:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பாராளுமன்ற-ஒன்றியத்தின்-தலைவி/175-348239) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Female Parliamentarians Union meets PM Harini Amarasuriya. Hemali Weerasekera & Kushani Rohanadeera elected leaders. Union aims to create safe country for women. Gender-based violence awareness day on June 6th.
-
-🟩
-
-Female Parliamentarians Union met with Prime Minister Harini Amarasuriya for the first time in Parliament on Tuesday (03). Hemali Weerasekera, Deputy Chairman of Parliamentary Committees, Kushani Rohanadeera, Secretary General of Parliament and Union Secretary, Kushani Rohanadeera.
-
-Minister of Women and Child Affairs. His name was proposed by MP Samanali Gunasinghe and MP Anushka Tilakaratne proposed.
-
-In addition, two were elected as the Deputy Chairman of the Female Parliamentary Union. Accordingly, Parliamentarian Samindrani Bandara Giri Ele was elected as the Deputy Chairman and his name was proposed by Rohini Wijeratne and proposed MP Dushari Jayasinghe.. MP Samanali Gunasinghe was elected as the other deputy co -chairman, and his name was proposed by MP Krishnan Kalachelvi and proposed the Member of Parliament Deepti Vasalake.
-
-...
-
-[Data](articles/3322cfb6.json)
-
-[Extended Data](ext_articles/3322cfb6.ext.json)
-
----
-
-### The head of the female parliamentarians
-
-*2024-12-04 15:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பாராளுமன்ற-உறுப்பினர்கள்-ஒன்றியத்தின்-தலைவி-தெரிவு/175-348239) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Female Parliamentarians Union met Prime Minister Harini Amarasuriya. Hemali Weerasekera elected Deputy Chairman. Kushani Rohanadeera named Secretary General. Samindrani Bandara Giri Ele and Samanali Gunasinghe chosen as Deputy Co-Chairmen. Prime Minister praised public vote selection of women MPs. Union aims to create safe country for all women. Gender violence awareness day set for June 6th.
-
-🟩
-
-Female Parliamentarians Union met with Prime Minister Harini Amarasuriya for the first time in Parliament on Tuesday (03). Hemali Weerasekera, Deputy Chairman of Parliamentary Committees, Kushani Rohanadeera, Secretary General of Parliament and Union Secretary, Kushani Rohanadeera.
-
-Minister of Women and Child Affairs. His name was proposed by MP Samanali Gunasinghe and MP Anushka Tilakaratne proposed.
-
-In addition, two were elected as the Deputy Chairman of the Female Parliamentary Union. Accordingly, Parliamentarian Samindrani Bandara Giri Ele was elected as the Deputy Chairman and his name was proposed by Rohini Wijeratne and proposed MP Dushari Jayasinghe.. MP Samanali Gunasinghe was elected as the other deputy co -chairman, and his name was proposed by MP Krishnan Kalachelvi and proposed the Member of Parliament Deepti Vasalake.
-
-...
-
-[Data](articles/f0b22662.json)
-
-[Extended Data](ext_articles/f0b22662.ext.json)
-
----
-
-### Minister of Ministers tells that coconut will be paid at Rs. 130
-
-*2024-12-04 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204028) · `si`
-
-Coconut price set at Rs. 130; 10 lakh distributed in suburbs; government aims to sell coconut products at low cost
-
-🟩
-
-The government has decided to distribute 10 lakhs of coconuts in the suburbs as a solution to the crisis in the country.
-
-Accordingly, Minister Wasantha Samarasinghe said that the Sathosantha today (04) is awarded to Sathosa at Rs. 130.
-
-The Minister of Trade, Commerce, Food Safety and Co-operative Development Wasantha Samarasinghe added that the coconut products of the government is due to be sold at low cost.
-
-◼️
-
-[Data](articles/c319ec94.json)
-
-[Extended Data](ext_articles/c319ec94.ext.json)
-
----
-
-### Deadline extended for filing income tax returns
-
-*2024-12-04 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103988/deadline-extended-for-filing-income-tax-returns) · `en`
-
-The Inland Revenue Department (IRD) has extended the deadline for filing Income Tax Returns for the Year of Assessment 2023/2024, offering relief to taxpayers and approved accountants affected by recent severe weather events.
-
-Under the Inland Revenue Act, No. 24 of 2017, taxpayers are required to file their returns within eight months following the end of each assessment year. This year’s deadline, November 30, 2024, fell on a Saturday.
-
-Accordingly, the IRD had made arrangements to remain open on the weekend, providing technical assistance for online filings and additional support for senior citizens, the Commissioner General of the IRD said in a statement.
-
-However, heavy rains, floods, landslides, and strong winds since November 23 have disrupted normal life across many parts of Sri Lanka, creating significant challenges for taxpayers and accountants in meeting the deadline, the statement mentioned.
-
-...
-
-[Data](articles/d4c33f17.json)
-
-[Extended Data](ext_articles/d4c33f17.ext.json)
 
 ---

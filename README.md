@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 06:48:21**
+As of **2024-12-04 07:30:49**
 
 ## Newspaper Stats
 
-*Scraped **58,349** Articles*
+*Scraped **58,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,033
 dailymirrorlk | 4,733
 adalk | 5,522
 adaderanalk | 7,080
-tamilmirrorlk | 8,299
+tamilmirrorlk | 8,300
 virakesarilk | 9,552
 adaderanasinhalalk | 10,076
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,333 (100.0%) of 58,349 articles have been extended.
+58,335 (100.0%) of 58,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### இன்றைய வானிலை அறிவிப்பு
+
+*2024-12-04 07:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-அறிவிப்பு/175-348214) · `ta`
+
+மத்திய, வடமேல், வடமத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அத்துடன், நாட்டின் ஏனைய பகுதிகளில் சீரான வானிலையே நிலவும் என குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/b161b304.json)
+
+---
 
 ### UK-Sri Lanka Trade Mission empowers women entrepreneurs; boosts bilateral ties
 
@@ -72,6 +86,8 @@ Addressing Parliament yesterday during a debate on President Anura Kumara Dissan
 
 [Data](articles/0cb12ab8.json)
 
+[Extended Data](ext_articles/0cb12ab8.ext.json)
+
 ---
 
 ### Shanakiyan urges Govt. to clarify stance on Provincial Councils
@@ -87,6 +103,8 @@ Leader of the House Bimal Rathnayake responded by reaffirming the Government’s
 ...
 
 [Data](articles/ebf83f2e.json)
+
+[Extended Data](ext_articles/ebf83f2e.ext.json)
 
 ---
 
@@ -1458,7 +1476,7 @@ Jaffna Independent Member said he came to the office of the opposition leader an
 
 ---
 
-### Sri Lanka’s Lion Brewery eyes export boost with innovation plant
+### Sri Lanka’s Lion Brewery eyes export boost with innovative beers
 
 *2024-12-03 17:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-eyes-export-boost-with-innovation-plant-191708/) · `en`
 
@@ -2407,27 +2425,5 @@ There was no decision to reduce a 65 rupee a kilo tax on rice (about 200 US doll
 [Data](articles/56b31998.json)
 
 [Extended Data](ext_articles/56b31998.ext.json)
-
----
-
-### Sri Lanka to allow rice imports without licenses till December 20: Statement
-
-*2024-12-03 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-rice-imports-without-licenses-till-december-20-statement-125853/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow rice to be imported without import control license till December 20, a government statement said amid rising prices and a crop damage due to rain.
-
-Sri Lanka had earlier allowed 70,000 metric tonnes of Nadu (par-boiled rice) to be imported to counter rising prices of the grade. The import was allowed only by two state run companies.
-
-“In addition to this, the government decided to temporarily remove existing restrictions on the import of rice,” Jayatissa told reporters Friday.
-
-“The intention of the government is to make all types of rice available to the people.”
-
-There was no decision to reduce a 65 rupee a kilo tax on rice (about 200 US dollars a tonne) he said. (Colombo/Dec03/2024)
-
-◼️
-
-[Data](articles/debe8a5f.json)
-
-[Extended Data](ext_articles/debe8a5f.ext.json)
 
 ---

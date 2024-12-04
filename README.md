@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 21:26:40**
+As of **2024-12-04 21:43:04**
 
 ## Newspaper Stats
 
-*Scraped **58,477** Articles*
+*Scraped **58,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,506
 economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,542
+adalk | 5,543
 adaderanalk | 7,102
 tamilmirrorlk | 8,325
 virakesarilk | 9,568
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,477 (100.0%) of 58,477 articles have been extended.
+58,477 (100.0%) of 58,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -425,6 +425,26 @@ President Anura Kumara Dissanayake presented the government's policy statement o
 [Data](articles/c704995e.json)
 
 [Extended Data](ext_articles/c704995e.ext.json)
+
+---
+
+### ගුවන් හමුදා බලගණ නායකවරයෙක් අල්ලයි
+
+*2024-12-04 18:13:40* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බලගණ-නායකවරයෙක්-අල්ලයි/11-413462) · `si`
+
+බීමතින් මෝටර් රථයක් පැදවීමේ චෝදනාවට අධිකරණය මගහැර විවෘත වරෙන්තු ලැබ සිටි ගුවන් හමුදා බළගණ නායක නිලධාරියෙකු අත්අඩංගුවට ගත් බව නාරාහේන්පිට පොලීසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ, කිලිනොච්චි ඉරණමඩු ගුවන් හමුදා කඳවුරට අයත් නිලධාරියෙකි.
+
+මොහු බීමතින් මෝටර් රථයක් පදවමින් සිටියදී නාරහේන්පිට පොලීසිය මගින් අත්අඩංගුවට ගෙන අධිකරණයේ පෙනී සිටින ලෙසට දන්වා බැඳුම්කරයක් මත මුදා හැර ඇතැයි පොලිසිය සඳහන් කරයි.
+
+අධිකරණය දිනයේ සැකකාර ගුවන් හමුදා නිලධාරියා අධිකරණය හමුවේ පෙනී නොසිටීම හේතුවෙන් ඔහුට විවෘත වරෙන්තු නිකුත් කර ඇත.
+
+එම විවෘත වරෙන්තුව මත ඊයේ (03දා) පස්වරුවේ ඔහු අත්අඩංගුවට ගත් බව පොලීසිය සඳහන් කරයි. සැකකරු අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/553c40cc.json)
 
 ---
 
@@ -2501,27 +2521,5 @@ He was speaking to the media yesterday (03).
 [Data](articles/701fd457.json)
 
 [Extended Data](ext_articles/701fd457.ext.json)
-
----
-
-### There will be severe shortage of rice in Sri Lanka;Issued warning
-
-*2024-12-04 09:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அரிசிக்கு-கடும்-தட்டுப்பாடு-வரும்-விடுக்கப்பட்ட-எச்சரிக்கை/175-348218) · `ta`
-
-Sri Lanka faces severe rice shortage warning. Government urged to import rice within two weeks to avoid crisis. Long-term solutions needed to prevent future shortages.
-
-🟩
-
-The All Ceylon Small and Medium Plant Owners Association has said that if the government does not take steps to import rice within the next two weeks, there will be a severe shortage of rice.
-
-It is the responsibility of the government to prepare a long -term program to resolve the issue.. K. Semasinghe noted.
-
-"We have to see a long -term solution. If not, we can go back to this crisis again. To suppress this crisis, the rice marketing board must prepare a formal plan, and the government should soon import rice from abroad as a short -term solution. If not, there will be a severe shortage of rice in the market. Remble
-
-◼️
-
-[Data](articles/502d7362.json)
-
-[Extended Data](ext_articles/502d7362.ext.json)
 
 ---

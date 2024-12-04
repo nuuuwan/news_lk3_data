@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 21:14:32**
+As of **2024-12-04 21:26:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,476 (100.0%) of 58,477 articles have been extended.
+58,477 (100.0%) of 58,477 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -478,25 +478,35 @@ Today's meeting on how to field the upcoming elections. We are in dissatisfactio
 
 ---
 
-### පොහොර සහනාධාරයට QR කේත ක්‍රමයක්
+### QR code method for fertilizer subsidy
 
 *2024-12-04 17:47:22* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරයට-QR-කේත-ක්‍රමයක්/11-413460) · `si`
 
-පොහොර සහනාධාරය ඵලදායී ලෙස ජාතික නිෂ්පාදනය සඳහා එකතු කිරීම අරමුණු කර ගනිමින් QR කේත ක්‍රමයක් හඳුන්වා දීමට රජයේ අවධානය යොමු කර තිබේ.
+Here's a summary of 200 characters:
 
-ජනාධිපති අනුර කුමාර දිසානායක සහ සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
 
-ඉදිරි මාසවලදී සහල් හිඟයකින් තොරව, සාධාරණ මිලට හා අඛණ්ඩව පාරිභෝගික ජනතාවට ලබා දීමේ අවශ්‍යතාව ජනාධිපතිවරයා මෙහිදී සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් වෙත පෙන්වා දුන් අතර, ඒ සඳහා ගත යුතු කඩිනම් පියවර පිළිබඳවද ඔවුන් සමග සාකච්ඡා කළේය.
 
-සහල් හිඟයකින් තොරව ජනතාව වෙත ලබා දීම වෙනුවෙන් රට තුළ ගබඩා පහසුකම් වැඩි කිරීම සඳහා ගත යුතු පියවර පිළිබඳවද සාකච්ඡා කෙරිණි.
+"Government introduces QR code system for fertilizer subsidies. President discusses measures with SMEs to ensure timely delivery and address potential shortages. Focus on increasing storage capacity and promoting local rice varieties."
 
-එමෙන්ම නාඩු සහල්, අගය එකතු කළ නිෂ්පාදන සඳහා යොදා ගැනීම නිසා  පරිභෝජනය සඳහා අවශ්‍ය තොග අඩු වීම පිළිබඳවද අවධානය යොමු විය.
+🟩
 
-වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමුපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ, ලක් සතොස සභාපති ආචාර්ය සමිත පෙරේරා ඇතුළු නිලධාරීන් සහ කුඩා හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් ඇතුළු පිරිසක් මෙම සාකච්ඡාවට එක්ව සිටියහ.
+The government has focused on introducing a QR code method for effectively to add the fertilizer subsidy.
+
+President Anura Kumara Dissanayake and SMEs were held at the Presidential Secretariat.
+
+The President pointed out to SMEs to the SMEs, the SMEs and the immediate measures to be given to the consumers in the coming months and also discussed the accelerated measures taken.
+
+It was also discussed on the steps to increase storage facilities in the country to give the people without any shortage of rice.
+
+It also focused on the decrease in the necessary stocks for consumption as well as the use of nadu rice.
+
+Trade, Commerce, Food Security and Co-operative Development Wasantha Samarasinghe, Lak Sathosa Chairman Dr. Society, Dr. Savali Chairman and SMEs and small and medium scale rice millers were also present.
 
 ◼️
 
 [Data](articles/a63e6ab6.json)
+
+[Extended Data](ext_articles/a63e6ab6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 15:42:42**
+As of **2024-12-04 16:16:51**
 
 ## Newspaper Stats
 
-*Scraped **58,414** Articles*
+*Scraped **58,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 445
 colombotelegraphcom | 592
 bbccomsinhala | 610
 islandlk | 3,506
-economynextcom | 3,546
+economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,531
-adaderanalk | 7,091
+adalk | 5,533
+adaderanalk | 7,093
 tamilmirrorlk | 8,318
 virakesarilk | 9,556
 adaderanasinhalalk | 10,089
@@ -26,39 +26,157 @@ adaderanasinhalalk | 10,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,411 (100.0%) of 58,414 articles have been extended.
+58,417 (100.0%) of 58,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### சதொச தேங்காய் ரூ.130
+### Sri Lanka sells Rs192.5bn in treasury bills, 6-month yield down
+
+*2024-12-04 16:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs192-5bn-in-treasury-bills-6-month-yield-down-192112/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were steady across the short term and long term maturities at Wednesday’s auction, with all offered 192.5 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield held steady at 8.73 percent, with all offered 58.5 billion rupees of bills sold.
+
+The 6-month yield was down 3 basis points at 8.94 percent, with 67 billion offered 85.9 billion rupees of bills sold.
+
+The 12-month bills held steady at 9.08 percent, with 67 billion offered and 48 billion rupees of bills sold.
+
+The three month and one year maturities were offered on tap after the auction. (Colombo/Dec4/2024)
+
+◼️
+
+[Data](articles/b1f5d974.json)
+
+---
+
+### Jeff Paul, Isabelle Mauny join Sri Lanka’s WSO2
+
+*2024-12-04 15:45:00* · [`economynextcom`](https://economynext.com/jeff-paul-isabelle-mauny-join-sri-lankas-wso2-121939/) · `en`
+
+ECONOMYNEXT – Jeff Paul has been appointed senior vice president and global head of sales, and Isabelle Mauny as vice president and chief developer advocate at Sri Lankan-based WSO2.
+
+They will play “strategic roles in expanding global adoption of WSO2’s offerings via initiatives aimed at customer advocacy, education, and counsel,” the technology company said.
+
+Jeff Paul brings more than two decades of technology sales experience, including vice president roles at Red Hat, Intel and IBM.
+
+Isabelle Mauny has 25-plus years of integration and API industry experience, including roles as a 42Crunch co-founder and WSO2 vice president of product management.
+
+“Their deep knowledge of the digital opportunities and challenges facing organizations today will be invaluable in helping customers navigate their transformation journeys,” WSO2 founder and CEO Dr Sanjiva Weerawarana said.
+
+...
+
+[Data](articles/ace9d8af.json)
+
+---
+
+### දරුවන් පස්දෙනෙක් බිහිකළත් ඇගේ සිරුර භාරගැනීමට නොආ දරුවන්
+
+*2024-12-04 15:44:43* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-පස්දෙනෙක්-බිහිකළත්-ඇගේ-සිරුර-භාරගැනීමට-නොආ-දරුවන්/11-413449) · `si`
+
+හොරොව්පොතාන රජයේ රෝහලට මාස ගණනකට  පෙර අසනීප තත්වයනේ පසුවන වයෝවෘද්ධ මවක් ඇතුලත් කර කර තිබිණි. මෙම අසනීප මව බැලීමට කිසිවෙකු පැමිණ  නැති අතර දරුවන් පස් දෙනෙකුගේ මවක් වූ ඇය පසුගිය දා කාත් කවුරුත් නොමැතිව රෝහල තුලම අවසන් සුසුම් හෙලීය.
+
+හොරොව්පොතාන ලේවාසපිරිවැව ගමේ පදිංචිවී සිටි මෙම මව මියගිය බවට දරුවන් දැනුවත් කළ ද  පැමිණියේ එක දරුවෙකු වන අතර ඔහු ද මව හඳුනාගෙන  සුළු වෙලාවකින් අතුරුදහන් විය.  නැවත පැමිණියේ නැත. රෝහල් ගත වූ දින සිටම රෝහල්  කාර්යය මණ්ඩලයේ වෛද්‍යවරුන්, හෙද හෙදියන් මෙන්ම අනෙකුත් කාර්යය මණ්ඩලය ද මෙම මවට ඉතා ආදරයෙන්  අවශ්‍ය ප්‍රතිකාර සහ ඇප උපස්ථාන සිදු කළ අතර රෝගී තත්වයෙන් මිය යන තෙක්ම ඔවුන්ගේ නොමද ආදරය ලැබීමට තරම් භාග්‍ය විය.
+
+සිය කුසින් බිහිකළ  දරුවන් පස් දෙනෙකුම අහක බැලූවත් රෝහල් කාර්යය මණ්ඩලය එම මව වෙනුවෙන් රෝහලේ  මෘත ශරීරාගාරය තුලම පැන් වඩා පාංශුකූලය දීම සිදු කරන ලදි.
+
+...
+
+[Data](articles/fde5f46f.json)
+
+---
+
+### Sathosa Coconut Rs.130
 
 *2024-12-04 15:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-தேங்காய்-ரூ-130/175-348241) · `ta`
 
-எதிர்வரும் இரண்டு வாரங்களுக்குள் சதொச ஊடாக தேங்காய் ஒன்று 130 ரூபாவிற்கு விற்பனை செய்யப்படும் என வர்த்தக, உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர்  வசந்த சமரசிங்க பாராளுமன்றத்தில் தெரிவித்தார்.
+Coconut price set at 130 Rupees via Sathosa; Rice mill owners agree to supply 200,000 kg daily at 220 Rupees per kg.
 
-“தேங்காய் உற்பத்தி தொடர்பாக அரசுக்கு சொந்தமான நிறுவனங்களின் அமைப்பு உள்ளது.அரசு தோட்டங்களில் உள்ள தென்னை பொருட்களை நகர்ப்புற மக்களுக்கு 130 ரூபாய்க்கு விற்பனை செய்ய நடவடிக்கை எடுத்து வருகிறோம்.
+🟩
 
-மேலும், 220 ரூபாய் விலையில் இரண்டு இலட்சம் கிலோ கிராம் அரிசியை நாளொன்றுக்கு  விடுவிப்பதற்கு அரிசி ஆலை உரிமையாளர்கள் இணங்கியுள்ளதாகவும் அமைச்சர் கூறினார்.
+Minister of Commerce, Food Security and Co -operative Development Wasantha Samarasinghe told Parliament that a coconut will be sold for 130 rupees through Sathosa within the next two weeks.
+
+“There is a system of state -owned companies on coconut production.
+
+The Minister also said that the owners of the rice mill had agreed to release two lakh kg of rice per day at a price of 220 rupees.
 
 ◼️
 
 [Data](articles/9f86af6f.json)
 
+[Extended Data](ext_articles/9f86af6f.ext.json)
+
 ---
 
-### பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் தலைவி தெரிவு
+### The head of the female parliamentarians
 
 *2024-12-04 15:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பாராளுமன்ற-உறுப்பினர்கள்-ஒன்றியத்தின்-தலைவி-தெரிவு/175-348239) · `ta`
 
-பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியம் பிரதமர் கலாநிதி ஹரினி அமரசூரிய தலைமையில் முதல் தடவையாகப் பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (03)  கூடியது. இதில் பாராளுமன்ற குழுக்களின் பிரதித் தவிசாளர் பாராளுமன்ற உறுப்பினர் ஹேமாலி வீரசேகர, பாராளுமன்ற செயலாளர் நாயகமும், ஒன்றியத்தின் செயலாளருமான குஷானி ரோஹனதீர உள்ளிட்டோர் கலந்துகொண்டனர்.
+Here's a summary of 200 characters:
 
-இதில் பெண் பாராளுமன்ற உறுப்பினர்கள் ஒன்றியத்தின் புதிய தலைவியாக பெண்கள் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவுசெய்யப்பட்டார். அவருடைய பெயரை பாராளுமன்ற உறுப்பினர் சமன்மலி குணசிங்க முன்மொழிந்ததுடன், பாராளுமன்ற உறுப்பினர் அனுஷ்கா திலகரத்ன வழிமொழிந்தார்.
+
+
+Female Parliamentarians Union met Prime Minister Harini Amarasuriya. Hemali Weerasekera elected Deputy Chairman. Kushani Rohanadeera named Secretary General. Samindrani Bandara Giri Ele and Samanali Gunasinghe chosen as Deputy Co-Chairmen. Prime Minister praised public vote selection of women MPs. Union aims to create safe country for all women. Gender violence awareness day set for June 6th.
+
+🟩
+
+Female Parliamentarians Union met with Prime Minister Harini Amarasuriya for the first time in Parliament on Tuesday (03). Hemali Weerasekera, Deputy Chairman of Parliamentary Committees, Kushani Rohanadeera, Secretary General of Parliament and Union Secretary, Kushani Rohanadeera.
+
+Minister of Women and Child Affairs. His name was proposed by MP Samanali Gunasinghe and MP Anushka Tilakaratne proposed.
+
+In addition, two were elected as the Deputy Chairman of the Female Parliamentary Union. Accordingly, Parliamentarian Samindrani Bandara Giri Ele was elected as the Deputy Chairman and his name was proposed by Rohini Wijeratne and proposed MP Dushari Jayasinghe.. MP Samanali Gunasinghe was elected as the other deputy co -chairman, and his name was proposed by MP Krishnan Kalachelvi and proposed the Member of Parliament Deepti Vasalake.
 
 ...
 
 [Data](articles/f0b22662.json)
+
+[Extended Data](ext_articles/f0b22662.ext.json)
+
+---
+
+### Deadline extended for filing income tax returns
+
+*2024-12-04 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103988/deadline-extended-for-filing-income-tax-returns) · `en`
+
+The Inland Revenue Department (IRD) has extended the deadline for filing Income Tax Returns for the Year of Assessment 2023/2024, offering relief to taxpayers and approved accountants affected by recent severe weather events.
+
+Under the Inland Revenue Act, No. 24 of 2017, taxpayers are required to file their returns within eight months following the end of each assessment year. This year’s deadline, November 30, 2024, fell on a Saturday.
+
+Accordingly, the IRD had made arrangements to remain open on the weekend, providing technical assistance for online filings and additional support for senior citizens, the Commissioner General of the IRD said in a statement.
+
+However, heavy rains, floods, landslides, and strong winds since November 23 have disrupted normal life across many parts of Sri Lanka, creating significant challenges for taxpayers and accountants in meeting the deadline, the statement mentioned.
+
+...
+
+[Data](articles/d4c33f17.json)
+
+[Extended Data](ext_articles/d4c33f17.ext.json)
+
+---
+
+### Millers agree to supply rice at controlled price to market
+
+*2024-12-04 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103987/millers-agree-to-supply-rice-at-controlled-price-to-market-) · `en`
+
+Rice millers have agreed to supply 200,000 kilograms of rice daily to the market through the ‘Lanka Sathosa’, at a controlled price effective from today (04),
+
+This was confirmed by Minister of Trade Wasantha Samarasinghe during today’s (04) parliamentary session.
+
+Samarasinghe said that accordingly, the consumers will be able to buy rice at a price of Rs. 220 per kilogram.
+
+“During the recent discussion with the rice mill owners, they claimed that the rice stocks in the mills cannot be released to the market due to an issue with the banks. So, yesterday, we provided them with a solution for that issue”, he added.
+
+Meanwhile, the Trade Minister also assured that one million coconuts will be sold through Sathosa outlets in the suburbs at a price of Rs. 130 per coconut, over the next two weeks.
+
+He added that coconut products obtained from government-owned plantations will be sold at low prices in this manner.
+
+◼️
+
+[Data](articles/deb4cc0a.json)
+
+[Extended Data](ext_articles/deb4cc0a.ext.json)
 
 ---
 
@@ -107,6 +225,46 @@ The Boossa High-Security Prison is known for housing high-profile inmates, and a
 ◼️
 
 [Data](articles/c4e5c2b3.json)
+
+[Extended Data](ext_articles/c4e5c2b3.ext.json)
+
+---
+
+### Here is what the government is going to do to re-charge the stolen assets
+
+*2024-12-04 14:37:52* · [`adalk`](https://www.ada.lk/breaking_news/සොරකම්-කළ-වත්කම්-නැවත-අය-කරගන්න-ආණ්ඩුව-කරන්න-යන-දේ-මෙන්න/11-413448) · `si`
+
+Government plans to recover stolen assets through three parliamentary bills next year, according to Minister of Justice Harshana Nanayakkara. Action will be taken to retrieve misappropriated funds and properties.
+
+🟩
+
+Minister of Justice Harshana Nanayakkara said that three bills are presented to parliament next year.
+
+He said in Parliament today (04), he said that action will be taken to recover the stolen assets.
+
+◼️
+
+[Data](articles/532c3954.json)
+
+[Extended Data](ext_articles/532c3954.ext.json)
+
+---
+
+### Ceylon Chamber awards Sri Lanka’s best corporate citizens
+
+*2024-12-04 14:15:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-awards-sri-lankas-best-corporate-citizens-122358/) · `en`
+
+ECONOMYNEXT – Aitken Spence won the Best Corporate Citizen Sustainability Award 2024 at the Ceylon Chamber’s Best Corporate Citizen Sustainability Awards, while Nestlé Lanka and Sampath Bank were adjudged first and second runners up respectively.
+
+The annual BCCS Awards, which recognizes corporate citizenship, was held at the Cinnamon Grand Hotel Colombo on Tuesday.
+
+“The Awards promote corporate citizen sustainability ownership and initiatives that deliver social and environmental benefits while pursuing profits,” the chamber said.
+
+Aitken Spence also won the Grand Slam, awarded to companies that have won the Best Corporate Citizen Award in five different years, and the Award for Best Presented Application.
+
+...
+
+[Data](articles/a49de921.json)
 
 ---
 
@@ -293,6 +451,26 @@ On October 04, the Ministry of Defence had announced that all firearms and ammun
 [Data](articles/fa13c2fd.json)
 
 [Extended Data](ext_articles/fa13c2fd.ext.json)
+
+---
+
+### Sri Lanka goods exports rise 18.22-pct in October 2024, apparels, tea, rubber, coconut up
+
+*2024-12-04 12:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-rise-18-22-pct-in-october-2024-apparels-tea-rubber-coconut-up-122870/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s goods exports grew 18.22 percent from a year ago to 1.09 billion dollars in October 2024, the island’s export promotion office said, helped by a spike in exports of apparel and textiles, tea, rubber based products, coconut based products, and spics and concentrates.
+
+Apparel and textiles rose 21.77 percent from last year to 430.21 million dollars in October 2024. Exports to the USA and UK increased 23.28 percent and 23.26 percent respectively from last October, Sri Lanka’s Export Development Board said.
+
+During the ten months to October exports rose 7.04 percent to 10.6 billion dollars.
+
+In the month of October, tea grew 32.6 percent to 126.81 million dollars, rubber products grew 6.26 percent to 84.69 million, and coconut products grew 29.27 to 77.16 million.
+
+Export earnings from seafood decreased by 16.46 percent to 19.95 million dollars, with poor performance in frozen fish and shrimps.
+
+...
+
+[Data](articles/5b7249e6.json)
 
 ---
 
@@ -772,6 +950,28 @@ The minister said that a political party had done such a political party in inve
 
 ---
 
+### Sri Lanka’s Lion Brewery in talks with Diageo to license foreign brands
+
+*2024-12-04 10:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-lion-brewery-in-talks-with-diageo-to-license-foreign-brands-191924/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Lion Brewery (Ceylon) Plc, the island’s top beer producer has initiated talks with UK-based Diageo Plc to produce international spirit brands under license, Chief Executive Rajiv Meewakkala said.
+
+Lion already has about 90 percent of the local market which is growing slowly and has also started exporting to boost the market.
+
+Expanding into spirits will open up new market for the firm.
+
+“One of the main things what we will be looking at is trying to manufacture the international brands locally, that means Vat 69, Smirnoff, all those international brands of Diageo,” Meewakkala said.
+
+“So, we have started conversations with them and it’s positive. Now we are currently looking at the feasibility and the commercial feasibility, so whatever comes out will be in 26.”
+
+Lion Brewery already license produces Guinness, a beer brand owned by Diageo. Expanding into spirits will take the firm to Gin, Brandy and Vodka segments.
+
+...
+
+[Data](articles/b8a1c149.json)
+
+---
+
 ### Mill owners warn of looming rice shortage
 
 *2024-12-04 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103980/mill-owners-warn-of-looming-rice-shortage-) · `en`
@@ -859,6 +1059,30 @@ In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 1
 [Data](articles/9b4c2152.json)
 
 [Extended Data](ext_articles/9b4c2152.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.45/65 to dollar, bonds steady
+
+*2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-bonds-steady-125231/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.45/55 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were steady.
+
+An auction of Rs 192,500 million treasury bills was ongoing.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.40/50 percent.
+
+A bond maturing on 15.10.2027 was quoted at 10.22/25 percent, down from 10.25/35 percent.
+
+A bond maturing on 15.03.2028 was quoted stable at 10.50/55 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.90/11.00 percent, up from 10.80/90 percent.
+
+In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 13,370. The more liquid S&P SL20 was up 0.22 percent, or 8.64 points, at 3,950.
+
+◼️
+
+[Data](articles/b87790a3.json)
 
 ---
 
@@ -2213,257 +2437,5 @@ Moreover, the ICC World Test Championships are awarded one point for each team f
 [Data](articles/4cb982d0.json)
 
 [Extended Data](ext_articles/4cb982d0.ext.json)
-
----
-
-### The train collided with the car;Many people are injured
-
-*2024-12-03 23:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-மீது-மோதிய-ரயில்-பலர்-படுகாயம்/175-348208) · `ta`
-
-Train crashes into car at unsafe crossing, injuring four. Two boys among victims. Incident occurred near Galle Sudarmarama Vihara.
-
-🟩
-
-Four people have been injured when a train crashed into a car that tried to cross an unsafe railway crossing near the Galle Sudarmarama Vihara.
-
-Two boys were reportedly injured in the accident that took place tonight.
-
-The car has been reported to have been hit by a train traveling from Galle to Matara. Remble
-
-◼️
-
-[Data](articles/efa981aa.json)
-
-[Extended Data](ext_articles/efa981aa.ext.json)
-
----
-
-### Details with drugs and interrogates
-
-*2024-12-03 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204011) · `si`
-
-Court detains 11 suspects for drug trafficking. Police seized over 355kg of ice from fishing vessels. Suspects remanded until 9th.
-
-🟩
-
-The court was appointed to retain 11 suspects in the country's fishing vessels while transporting more than 355 kilograms of ice.
-
-The suspects were produced before the Colombo Chief Magistrate by the Police Narcotics Bureau.
-
-The Magistrate ordered the suspects to be detained until the 9th 9th.
-
-◼️
-
-[Data](articles/bdb448ab.json)
-
-[Extended Data](ext_articles/bdb448ab.ext.json)
-
----
-
-### South Asia Agri Forum 2025 to be held in Sri Lanka
-
-*2024-12-03 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103975/south-asia-agri-forum-2025-to-be-held-in-sri-lanka) · `en`
-
-Bharat Subcontinental Agri Foundation (BSAF) is scheduled to organise South Asia Agri Forum – an event discussing the evolving scenario of pulses, grains, dry fruits, and spices in South Asia – from 15-16 January 2025 in Shangri-La Hotel in Colombo, Sri Lanka.
-
-The event would be attended by industry stakeholders, experts and public & private enterprises such as National Agricultural Cooperative Marketing Federation of India (NAFED), Wheat Products Promotion Society (WPPS), All India Roller Floor Millers Association, and Uttar Pradesh Floor Millers Association.
-
-South Asia’s agricultural sector is experiencing significant growth, driven by rising domestic demand and increasing export potential. Engaging in this forum allows exporters to gain insights into market trends, regulatory updates, and technological advancements. Moreover, direct interactions with industry leaders, policymakers, and potential business partners can facilitate strategic partnerships and market entry strategies.
-
-...
-
-[Data](articles/82ceb3ee.json)
-
-[Extended Data](ext_articles/82ceb3ee.ext.json)
-
----
-
-### The two-billion-headlent attempt to escape death sentence
-
-*2024-12-03 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204010) · `si`
-
-Vietnam's Syigon Commercial Bank faces $12 billion fraud charges. The bank, once Vietnam's 5th largest lender, is accused of embezzling funds over 10 years. An estimated 85 individuals are involved. The fraud represents about 3% of Vietnam's GDP. Efforts to recover stolen funds are underway, with 75% of losses potentially reimbursed under current law.
-
-🟩
-
-Her appeal to the removal of the death penalty given as Tristong's property as a giant in Vietnam was defeated before Vietnam.
-
-Syigon commercial bank, which is considered the world's largest bank fraud, is in charge of defrauding US $ 12 billion.
-
-The commercial bank of Saigon is the fifth largest lender in Vietnam and has been accused of remaining control over 10 years and have obtained loans and money.
-
-In addition to cheating more than $ 12 billion, she and nearly 85 people were accused of inspiration.
-
-The money they cheated will be added to history as nearly 3 percent of Vietnamese gross domestic product.
-
-In the meantime, if the Vietnamese law has returned, 75 percent of the money he had cheated.
-
-It is reported that she is attempting to refund the amount he cheated.
-
-◼️
-
-[Data](articles/c451d801.json)
-
-[Extended Data](ext_articles/c451d801.ext.json)
-
----
-
-### A car accident hit by train
-
-*2024-12-03 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204009) · `si`
-
-Car accident at railway crossing: 4 injured, including 2 children, rushed to hospital after collision with train.
-
-🟩
-
-An accident occurred when a car collided with a railway crossing.
-
-Four persons traveling in the car today (03) were seriously injured and rushed to the Galle Hospital.
-
-The accident occurred at the unprotected railway crossing near the Sudharmarama Temple, Galle.
-
-Our correspondent stated that there were two children among the wounded four.
-
-The car has hit a train traveling from Galle to Matara.
-
-◼️
-
-[Data](articles/f0f07684.json)
-
-[Extended Data](ext_articles/f0f07684.ext.json)
-
----
-
-### Youth remanded for posing about Mahavihara commemoration
-
-*2024-12-03 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204008) · `si`
-
-Youth remanded for posing about Mahavihara commemoration: 28-year-old Elisuri Maddumage Janitha Chathuranga arrested from Matara Computer Crime Division, remanded until 17th Mahawardoon commemoration.
-
-🟩
-
-The youth who was arrested from the Matara Computer Crime Division of the Matara Computer Crime Division has been remanded until the 17th of the Mahawardoon commemoration.
-
-The suspect was produced before the Baddegama District Judge / Magistrate Sanath Nanath Nanath Nanath Nanath Nanath Nance.
-
-The suspect was a 28 year old youth named Elisuri Maddumage Janitha Chathuranga, a resident of Baddegama.
-
-Meanwhile, the suspect was brought to the Magistrate's court premises at the Passaragama Magistrate's court premises.
-
-◼️
-
-[Data](articles/93abd3ca.json)
-
-[Extended Data](ext_articles/93abd3ca.ext.json)
-
----
-
-### Notice to candidates over the A / L examination
-
-*2024-12-03 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204007) · `si`
-
-GCE Advanced Level exam rescheduled due to weather. Second phase begins Dec 4-20, then Dec 21-31. Candidates advised to check transport arrangements. Exam centers may change if needed.
-
-🟩
-
-The second phase of the GCE Advanced Level examination will be launched tomorrow (04).
-
-Due to the adverse weather conditions of the island, the GCE Advanced Level Examination was not held for six days from November 27.
-
-Speaking at a press conference held today, Commissioner General of Examinations Amit Jayasundara said that the examination schedule will be conducted from tomorrow.
-
-He said that if further transportation and roads in the roads, they will be resolved to solve all of the problems.
-
-He said that the relevant officers have been instructed in this regard.
-
-"The examination will be held from December 4 to December 20 to December 20, according to the previously planned schedule. Accordingly, the candidates will be at the time of the time period with the ticket, up to December 20. So the candidates will not cause any problematic condition. The examination will be held from December 21 to 31st. The examination will be held on 21,23,27,28,30 and 31. "
-
-...
-
-[Data](articles/fb48c2db.json)
-
-[Extended Data](ext_articles/fb48c2db.ext.json)
-
----
-
-### MP Archchuna Ramanathan alleges assault in Parliament
-
-*2024-12-03 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103974/mp-archchuna-ramanathan-alleges-assault-in-parliament) · `en`
-
-Jaffna District Independent Member of Parliament Dr. Archchuna Ramanathan has alleged that he was assaulted today (03) within the premises of the Opposition Leader’s Office in the Parliament Complex.
-
-Addressing the House during the parliamentary session today (03), he claimed the attacker was an individual named ‘Sujith’.
-
-In his statement to Parliament, Dr. Archuna stated that: “I went to the opposition leader’s office at around 2:30 p.m. I inquired about the time allocation (to speak). Nothing was communicated to me today. I went to ask if I have time tomorrow or not. There were officials there. They took me to another room. They said they can allocate the time for around 4.00 p.m. tomorrow”
-
-Jaffna District MP further explained that when he inquired from them as to how they are allowed to make such decisions, he was told to speak to a person named ‘Sujith’ and another individual, as they the ones responsible for making such decisions.
-
-...
-
-[Data](articles/66b817b3.json)
-
-[Extended Data](ext_articles/66b817b3.ext.json)
-
----
-
-### A special announcement for the beneficiary beneficiaries
-
-*2024-12-03 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204006) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Welfare Benefit Board: No relief needed for 2024 Phase 2. Applications already processed. Revenue welfare program open Dec 9. Apply once for entire family. Avoid submitting separate applications to Divisional Secretariats.
-
-🟩
-
-The Welfare Benefit Board of the Ministry of Finance, Planning and Economic Development stated that the relief is not necessary for the second phase of the year 2024.
-
-The Welfare Benefit Board has pointed out that the applications of these families have already been included in the system.
-
-The revenue welfare benefit program has been given a concession from 9th December to apply for families and individuals.
-
-The program can only apply for the families that are not able to submit the applications to the reconciliation program.
-
-The announcement states that the relevant families and persons who applied for Families and persons who applied for the revenue program will be reached to Divisional Secretariat.
-
-It has been reported that it is reported that the same family members are reportedly trying to hand over the banks to the Divisional Secretariats to apply for the Welfare Benefit Program.
-
-Therefore, it is sufficient to submit one application, representing all members as per the family.
-
-◼️
-
-[Data](articles/a0473532.json)
-
-[Extended Data](ext_articles/a0473532.ext.json)
-
----
-
-### To build the country to be united as Sri Lankans;Deputy Minister Munir
-
-*2024-12-03 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200358) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka Deputy Minister Munir calls for national unity. He criticizes past divisions based on ethnicity and religion. Urges collective effort to build a better future. President emphasizes defeating communalism and promoting national unity.
-
-🟩
-
-The Deputy Minister of National Integration Munir Muppar said that everyone should come together as Sri Lankans to build the country and make a better country for our future generations.
-
-He said this while addressing the president's policy speech held in Parliament on Tuesday (12).
-
-The national unity was the longest prayer of our country. He said that we were trying to create a division of ethnicities and to confront the religions to maintain power in the past.
-
-It is reported that social networks are trying to suppress the media. The president has always said that the defeat of communalism. Trigger people. He said, "If we are free to do things that are dividing the people, it is questionable whether the government can create national unity that the government is expecting."
-
-◼️
-
-[Data](articles/c89ce822.json)
-
-[Extended Data](ext_articles/c89ce822.ext.json)
 
 ---

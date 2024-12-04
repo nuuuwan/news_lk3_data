@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 11:00:55**
+As of **2024-12-04 10:42:33**
 
 ## Newspaper Stats
 
-*Scraped **58,373** Articles*
+*Scraped **58,369** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 444
+dbsjeyarajcom | 443
 colombotelegraphcom | 592
 bbccomsinhala | 609
 islandlk | 3,506
@@ -17,58 +17,20 @@ economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,526
-adaderanalk | 7,085
+adaderanalk | 7,083
 tamilmirrorlk | 8,304
-virakesarilk | 9,555
+virakesarilk | 9,554
 adaderanasinhalalk | 10,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,363 (100.0%) of 58,373 articles have been extended.
+58,361 (100.0%) of 58,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
-
-### ரயில் பாதை கண்காணிப்பு ஊழியர் ரயிலில் மோதி உயிரிழப்பு!
-
-*2024-12-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200375) · `ta`
-
-கண்டி ரயில் நிலையத்தில் புகையிரத பாதை கண்காணிப்புப் பணிகளில் ஈடுபடும் ஊழியர் ஒருவர் ரயிலில் மோதி உயிரிழந்துள்ளார்.
-
-உயிரிழந்தவர் அளவத்தேகம, கல்லேல்ல என்ற பகுதியைச் சேர்ந்த டக் ஒப்பரேட்டராக பணிபுரியும் 58 வயது நபர் என பொலிஸார் தெரிவித்தனர்.
-
-அவர் கடமையில் ஈடுபட்டிருந்த வேளையில் தேநீர் குடிப்பதற்காக ரயில் மார்க்கத்தின் வழியாக வந்துள்ளார். அச்சமயம் கடுகதி ரயிலொன்று பேராதனையிலிருந்து கண்டி நோக்கி வருவதைக் கண்டு, அவர் மற்றொரு ரயில் ஓடும்  மார்க்கத்துக்கு சடுதியாக மாறியுள்ளார்.
-
-அவ்வேளை அந்த மார்க்கத்தில் பயணித்த ரயில் எஞ்சினில் மோதுண்டு கடும் காயங்களுக்கு உள்ளான நிலையில், கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டதுடன் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/e0898ef5.json)
-
----
-
-### Mill owners warn of looming rice shortage
-
-*2024-12-04 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103980/mill-owners-warn-of-looming-rice-shortage-) · `en`
-
-The All Ceylon Small and Medium Scale Mill Owners’ Association warns of a looming rice shortage if the government fails to import rice within the next two weeks.
-
-President of the Association U. K. Semasinghe emphasized the urgent need for a long-term strategy to address the recurring issue.
-
-“A systematic plan through the Paddy Marketing Board must be implemented during the’ Yala season’ to avoid future crises. Immediate steps to import rice are important as a short-term measure to mitigate the current shortage,” he stated.
-
-Semasinghe also highlighted the need for stricter regulation of rice used in beer production and animal feed, underscoring its impact on the nation’s food security.
-
-Adding to the discussion, former Director of Agriculture K. B. Gunaratne recommended replanting flood-hit paddy fields instead of merely providing compensation to affected farmers.
-
-◼️
-
-[Data](articles/6ac48a29.json)
-
----
 
 ### Arrested postman who distributed drugs
 
@@ -91,22 +53,6 @@ A Senior Police Officer said that a special police team was sent on Tuesday nigh
 [Data](articles/83cd4666.json)
 
 [Extended Data](ext_articles/83cd4666.ext.json)
-
----
-
-### National Procurement Commission probing e-passport tender issue, court told
-
-*2024-12-04 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103979/national-procurement-commission-probing-e-passport-tender-issue-court-told) · `en`
-
-The Attorney General (AG) has informed the Court of Appeal that the National Procurement Commission of Sri Lanka is conducting an investigation into the method in which the previous government has granted the tender related to purchasing 5 million electronic passports for the Department of Immigration and Emigration.
-
-This was communicated to the court by Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of the Attorney General, when the petition filed by Epic Lanka Private Limited challenging the previous government’s decision to purchase 750,000 normal passports and 5 million e-passports from two foreign firms, was taken up on Tuesday (03).
-
-Furthermore, the Additional Solicitor General mentioned that the National Procurement Commission has requested a period of one week to submit observations related to the investigation. Therefore, he requested the court for a date to inform the progress of the relevant investigation.
-
-...
-
-[Data](articles/1ff385f6.json)
 
 ---
 
@@ -1049,24 +995,6 @@ We have set up a new government with the people of all ethnic groups. The govern
 [Data](articles/8724ca2d.json)
 
 [Extended Data](ext_articles/8724ca2d.ext.json)
-
----
-
-### If Chabad-Lubavitch Movement is given a legal foothold in Arugam Bay, it may not be long before our own Muslims are accused of antisemitism and of igniting a pogrom! Imagine with what glee the BBS/Sinhala Ravaya types would hop on that bandwagon.
-
-*2024-12-04 00:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85161) · `en`
-
-“Don’t let it happen. It depends on you.” – George  Orwell (1984)
-
-They are back, creeping out  of the woodwork. The gathering outside Colombo’s main railway station was mercifully small, just the mandatory monk and a handful of civilians. Having offered flowers to a statue of the Buddha, they proceeded to violate his teachings by trying to ignite an ethno-religious fire.
-
-Their target was the welcome decision by the NPP/JVP Government to release some of the military-occupied land in the north to their original owners.
-
-The monk accused President Anura Kumara Dissanayake of being a diaspora agent trying to rejuvenate the Tigers and start the next Eelam War. Madubhashana Prabath, the secretary of Sinhala Ravaya, called the new president King Elara of Tambuttegama and promised to struggle till the ‘last drop of blood’ to ‘save the nation’. (https://www.youtube.com/watch?v=oc613tLk3Cs).
-
-...
-
-[Data](articles/a3f01d20.json)
 
 ---
 
@@ -2383,5 +2311,127 @@ Accordingly, the existing local government band's election to the election of al
 [Data](articles/4e8cfdd1.json)
 
 [Extended Data](ext_articles/4e8cfdd1.ext.json)
+
+---
+
+### Brother has been assassinated to a complaint on a mobile phone
+
+*2024-12-03 16:41:10* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථනයක-ආරවුලකට-ඥාති-සහෝදරයා-ඝාතනය-කරලා/11-413429) · `si`
+
+Here's a 200-character summary:
+
+
+
+Brother assassinated over mobile phone complaint. Teen cousin kills 26-year-old with knife. Victim identified as Edirisinghe Arachchilage, 13th post. Police arrested suspect Sandaruwan. Investigation ongoing under OIC Inspector Ratnayake.
+
+🟩
+
+A 17-year-old cousin is a 17-year-old boy's knives on a blow to death, a 26-year-old man dies in a clay girl.
+
+The deceased has been identified as the 13th post, King Edirisinghe Arachchilage, a resident of Bandaragama Piyadda Kumara, a 26 year old youth.
+
+The two were also trying to dispute a mobile phone while working on a paddy and the deceased on a paddy field.
+
+The police said that the owner of the bomb had a blow to the suspect and taken his knife to the suspect and took him to the deceased to the deceased.
+
+The suspect was arrested by Edirisinghe Arachchilage's Youth Sandaruwan, who was arrested in connection with the murder.
+
+OKA OIC Inspector RMS. C. A team of officials are conducting further investigations on the instructions of Ratnayake.
+
+◼️
+
+[Data](articles/4c4e05be.json)
+
+[Extended Data](ext_articles/4c4e05be.ext.json)
+
+---
+
+### Government owned high luxury is to be removed
+
+*2024-12-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204001) · `si`
+
+Here's a 200-character summary:
+
+
+
+Government removes luxury vehicles due to high maintenance and fuel costs. Cabinet approves formal procedure to study and replace vehicles in government institutions. Decision aims to reduce economic burden and promote cost-effectiveness.
+
+🟩
+
+Cabinet approval has been given to remove the larger cost-cost vehicles in accordance with a formal procedure.
+
+Cabinet spokesperson Minister Nalinda Jayatissa said that today (03).
+
+This decision has been taken into account the cost of the maintenance and fuel that cost the maintenance and fuel of certain high luxury vehicles in government institutions.
+
+The Minister said that the abuse of such high luxury is economically more effective.
+
+Accordingly, a formal study of the vehicles of all government institutions and follow vehicles and diesel engine capacity over the customs encryption.The proposal submitted by the Cabinet of the Treasury was approved by the Chief Accounting Officers to be abolished and to release the relevant circular instructions to report the relevant circular advice before 2025-03.
+
+◼️
+
+[Data](articles/8b6ba182.json)
+
+[Extended Data](ext_articles/8b6ba182.ext.json)
+
+---
+
+### Siddharth starrer 'Miss You'
+
+*2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200334) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Siddharth stars in 'Miss You', directed by Rajasekhar. Also featuring Ashika Ranganath, Karunakaran. Music by Venkatesh. Produced by 7 Miles Bur Second Productions. Delayed due to weather issues. Expected to appeal to young audiences with a love story theme.
+
+🟩
+
+Siddharth, who is the star of the Tamil film industry, has been announced on the new release date of the movie 'Miss You'.
+
+Director n. The upcoming film 'Miss You', directed by Rajasekhar, stars Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, Shah Rao, 'Loku Saba' Maran, Sashtika, Ponvannan, Jayaprakash, Ravi Maria, Sarath Lokitswa.
+
+K. G. The film has been composed by Venkatesh and has composed the film.. The film is being produced by 7 Miles Bur Second Productions.
+
+The film, which was announced last month, has not been released due to the storm and rain that hit Tamil Nadu. The production company said that the new release date of the film will be announced later.
+
+The film has been announced on the 13th of this month at the film House.
+
+The film is expected to attract the younger generation fans as he talks about the love of the hero who falls and falls in love with a woman who does not like.
+
+◼️
+
+[Data](articles/3f0327fe.json)
+
+[Extended Data](ext_articles/3f0327fe.ext.json)
+
+---
+
+### Actor Guna Finance Starring 'Alanku'
+
+*2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200333) · `ta`
+
+"Alanku" starring Guna Finance releases 27th. Director: S.B. Sakthivel. Cast: Gunanidhi, Shanmugam Muthusamy, Kali Venkat. Music: Ajis. Producers: T.Sabarish, Sangamitra Chaumia Anumani. Based on health & environmental issues.
+
+🟩
+
+The release date of the film 'Alanku' has been officially announced with a special photo of the popular actor Guna Finance Story, which made his debut in Tamil fans with 'Selphy' released in 2022.
+
+Director S.. B.. Sakthivel's upcoming film 'Alanku' has staged many others including Gunanidhi, Shanmugam Muthusamy, Kali Venkat, Semban Vinod Jose, Sarath Appani, Regin Rose, Sri Rekha, Kothavai.
+
+Ajis has composed the film, which has been recorded by S. Pandi Kumar. The film was co -produced by producers T.Sabarish and Sangamitra Chaumia Anumani on behalf of DG Film Company and Magnus Productions.
+
+All the tasks of the film were completed and waited for the release. The film has been announced on the 27th of this month at the film House.
+
+The film is based on the danger of the inauguration of the health and the environmental waste for the health and the environmental waste.
+
+The film has also recorded a huge anticipation among the audience as the film has also recorded the life of the diaspora.
+
+◼️
+
+[Data](articles/c69330b0.json)
+
+[Extended Data](ext_articles/c69330b0.ext.json)
 
 ---

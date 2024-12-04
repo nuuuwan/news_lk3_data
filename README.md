@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 01:42:54**
+As of **2024-12-05 02:42:04**
 
 ## Newspaper Stats
 
-*Scraped **58,513** Articles*
+*Scraped **58,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
-tamilmirrorlk | 8,327
+tamilmirrorlk | 8,329
 virakesarilk | 9,574
 adaderanasinhalalk | 10,108
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,503 (100.0%) of 58,513 articles have been extended.
+58,512 (100.0%) of 58,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### Why in the Heroes affair?Double position
+
+*2024-12-05 01:52:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-விவகாரத்தில்-ஏன்-இரட்டை-நிலைப்பாடு/175-348256) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Dual treatment of heroes: Sivajilingam arrested under Penal Code in North, social activists under Terrorism Act in South. Dayasiri questions disparity. Government claims anti-racism stance but applies different laws in different regions.
+
+🟩
+
+Sivajilingam, who remembers the heroes in the north, is arrested under the Penal Code. Social activists who reveal the Knights are arrested under the Terrorism Act in the South. Dayasiri Jayasekera, the United People's Power MP, questioned why this dual position was.
+
+He questioned the President's Policy Declaration on Wednesday (04) in Parliament.
+
+In the last parliament, 225 members were branded as thieves. So the government has the responsibility to put true thieves in the presence of law. It was reported that the former presidents would cancel the privileges of the former presidents, cancel the allowances of MPs and end the family rule.. But the wife of the council Chief Minister Bimal Ratnayake is in the government.
+
+The government says that there is no room for racism. Will give you complete cooperation to eliminate racism. Never apologize to racists. To be punished for severe punishment.
+
+...
+
+[Data](articles/66f8db67.json)
+
+[Extended Data](ext_articles/66f8db67.ext.json)
+
+---
+
+### Archana praised the power of the national people
+
+*2024-12-05 01:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-புகழ்ந்தார்-அர்ச்சுனா/175-348255) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Archana: National people defeated Tamil politicians, giving 3 seats to national power. Claims racism exists in all previous governments. Opposition accused of racism, denies communalism.
+
+🟩
+
+That is why the people have defeated the Tamil politicians in the North and gave them 3 seats to the national people's power.. Ramanathan Archana said.
+
+In the second day's debate on the president's policy speech in Parliament on Wednesday (04), the UNP MP Dayasiri Jayasekara and the Chief Minister of the Council and Minister Bimal Ratnayaka said in a sudden controversy over who was racist.
+
+Racism was in all the last states. The Tamils ​​have seen us.. That is why the Northern people defeated the Tamil politicians who lied and gave them 3 seats to the national people's power. And the independent group made me win.
+
+Opposition parties are now carrying out racism. He said the national people did not carry out communalism.
+
+◼️
+
+[Data](articles/1ca4d5c5.json)
+
+[Extended Data](ext_articles/1ca4d5c5.ext.json)
+
+---
 
 ### Hirunika withdraws statement made in respect of Magistrate Court proceedings against Hardy Jamaldeen
 
@@ -45,6 +101,8 @@ In the application, Jamaldeen claimed that Premachandra committed the offence of
 ...
 
 [Data](articles/e2866558.json)
+
+[Extended Data](ext_articles/e2866558.ext.json)
 
 ---
 
@@ -66,6 +124,8 @@ Samarasinghe added that coconut products obtained from State-owned plantations w
 
 [Data](articles/cce2b901.json)
 
+[Extended Data](ext_articles/cce2b901.ext.json)
+
 ---
 
 ### Jaffna youth and Colombo political activist released on bail over Maveerar Naal SM posts
@@ -79,6 +139,8 @@ The youth, identified as Manoharan Kajendraroopan, a resident of Inuvil West, Ch
 ...
 
 [Data](articles/69c7c244.json)
+
+[Extended Data](ext_articles/69c7c244.ext.json)
 
 ---
 
@@ -100,6 +162,8 @@ The ruling was delivered in response to an appeal by People’s Bank, which cont
 
 [Data](articles/36a4d925.json)
 
+[Extended Data](ext_articles/36a4d925.ext.json)
+
 ---
 
 ### W.M. Mendis’ liquor licence to be suspended today over Rs. 5 b tax arrears
@@ -116,6 +180,8 @@ In addition to halting the company’s liquor production, the department said th
 
 [Data](articles/3664f681.json)
 
+[Extended Data](ext_articles/3664f681.ext.json)
+
 ---
 
 ### Sri Lanka – Korea Business Council holds 29th Annual General Meeting
@@ -131,6 +197,8 @@ The Sri Lanka – Korea Business Council of The Ceylon Chamber of Commerce (SLKB
 ...
 
 [Data](articles/620699ad.json)
+
+[Extended Data](ext_articles/620699ad.ext.json)
 
 ---
 
@@ -185,6 +253,8 @@ However, it is important to stress at the outset, that while the terrain is fami
 ...
 
 [Data](articles/75bd8a8c.json)
+
+[Extended Data](ext_articles/75bd8a8c.ext.json)
 
 ---
 
@@ -2405,47 +2475,5 @@ When we asked Dr. Rukshan Bellana, Deputy Director of the Colombo National Hospi
 [Data](articles/1337a10e.json)
 
 [Extended Data](ext_articles/1337a10e.ext.json)
-
----
-
-### One killed when part of the security wall collapsed
-
-*2024-12-04 13:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புச்-சுவரின்-பகுதி-இடிந்து-விழுந்ததில்-ஒருவர்-பலி/175-348235) · `ta`
-
-Security wall collapse kills 1: 53-year-old man dies on birthday after part of safety barrier demolishes house in Welikada.
-
-🟩
-
-Welikada police say that a portion of the safety wall that was built around the house was demolished and the Painer had died.
-
-53 -year -old Sumith Kumara, a 53 -year -old man from Bandaragama Raigama Kahambiliyawatte, died on his birthday on the 2nd.
-
-The deceased, along with his son, has removed the old iron fence on the front wall of a house on Sri Jayawardenapura Parliament Road, Welikada, police said.
-
-Police investigations revealed that when the son of the deceased went to a nearby shop, the rest of the security wall was demolished.
-
-◼️
-
-[Data](articles/0e211954.json)
-
-[Extended Data](ext_articles/0e211954.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-12-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200400) · `ta`
-
-US dollar exchange rate: 286.1920 rupees buying, 294.8080 selling.
-
-🟩
-
-The US dollar purchasing price was 286.1920 rupees and the sales price were 294.8080 rupees based on a currency exchange rate released by the Central Bank on Wednesday (04).
-
-◼️
-
-[Data](articles/f1630da6.json)
-
-[Extended Data](ext_articles/f1630da6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 20:42:49**
+As of **2024-12-04 21:14:32**
 
 ## Newspaper Stats
 
-*Scraped **58,472** Articles*
+*Scraped **58,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,119 @@ islandlk | 3,506
 economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,541
-adaderanalk | 7,101
+adalk | 5,542
+adaderanalk | 7,102
 tamilmirrorlk | 8,325
 virakesarilk | 9,568
-adaderanasinhalalk | 10,101
+adaderanasinhalalk | 10,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,472 (100.0%) of 58,472 articles have been extended.
+58,476 (100.0%) of 58,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### President Dissanayake engages in discussion with ITAK MPs
+
+*2024-12-04 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104000/president-dissanayake-engages-in-discussion-with-itak-mps) · `en`
+
+President Anura Kumara Dissanayake has met with Parliamentarians from the Illankai Tamil Arasu Kadchi (ITAK) at the Presidential Secretariat in Colombo today (04).
+
+During the discussion, the ITAK MPs brought to the President’s attention the longstanding challenges faced by the people in the Northern and Eastern regions, the the President’s Media Division (PMD) reported.
+
+Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmugam Kugathasan, Shanakiyan Rasamanickam, Gnanamuthu Srineshan, Kaveenthiran Kodeeswaran, Elayathamby Srinath, and Thurairasa Raviharan also attended the meeting.
+
+◼️
+
+[Data](articles/9218dd70.json)
+
+[Extended Data](ext_articles/9218dd70.ext.json)
+
+---
+
+### Ranil's bars were revealed in Parliament in Parliament
+
+*2024-12-04 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204043) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Excise Dept grants 361 liquor licenses. Highest in Western Province (110). Southern & Northern Provinces receive fewer. 172 for retail/wine stores. Opposition claims political bribery by former President Ranil Wickremesinghe.
+
+🟩
+
+At present, the Excise Department (EBC) has been given 361 liquor licenses today (4th) in Parliament today.
+
+He said that the highest licenses were provided in the Western Province, and 110 was 110.
+
+In addition, the Southern Province has been given 48 permits, 32 to the northwest, 30 to the North West, 30 North Western and 30 North Western Province.
+
+He added that 172 of the liquor have been given the liquor retail (wine Stose) or FL-4, he said.
+
+"These licenses would clearly say that former President Ranil Wickremesinghe granted former President Ranil Wickremesinghe to transfer parties as political bribes."
+
+◼️
+
+[Data](articles/f28b4263.json)
+
+[Extended Data](ext_articles/f28b4263.ext.json)
+
+---
+
+### Member Junction reminds the past
+
+*2024-12-04 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204042) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dr. Ramanathan Allechchi recalls his father's past in Parliament. He mentions his father leading Sri Lanka's police football team in 1966 and their move to Jaffna in 1983 due to the LTTE situation. He also mentions his father going missing from hospital in May 2009.
+
+🟩
+
+Jaffna District Independent MP Dr. Ramanathan Allechchi said a talk in Parliament today (04).
+
+"I would like to remind my father at this time. He was the leader of the Sri Lankan police football team in 1966. Our family had to go to Jaffna with the situation in 1983. Two decades of the LTTE worked at the LTTE. In May 2009, my father went missing from hospital. "
+
+◼️
+
+[Data](articles/b78f5001.json)
+
+[Extended Data](ext_articles/b78f5001.ext.json)
+
+---
+
+### President meets MPK
+
+*2024-12-04 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204041) · `si`
+
+Here's a 200-character summary:
+
+
+
+"President Anura Kumara Dissanayake met ITAK MPs today at the Presidential Secretariat. MPs discussed ongoing issues with the President."
+
+🟩
+
+President Anura Kumara Dissanayake and Ilangai Thamil Arasu Kachchi (ITAK) have been held today (04) at the Presidential Secretariat.
+
+Illangai Tamil Arasu Kachchi MPs informed the President for a long time, the Presidential Media Unit said.
+
+MPs Sivagneam Sridharan Sridharan Sridhalanam, Sivamunathan Sithilangam, Sunamunathan Kugadana Kugathaka, Kaukaiyan Kawanath Kawanath Kawanath and Ravindha Ravigaran.
+
+◼️
+
+[Data](articles/45bf15d6.json)
+
+[Extended Data](ext_articles/45bf15d6.ext.json)
+
+---
 
 ### The President meets MPs
 
@@ -377,6 +475,28 @@ Today's meeting on how to field the upcoming elections. We are in dissatisfactio
 [Data](articles/1c795763.json)
 
 [Extended Data](ext_articles/1c795763.ext.json)
+
+---
+
+### පොහොර සහනාධාරයට QR කේත ක්‍රමයක්
+
+*2024-12-04 17:47:22* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරයට-QR-කේත-ක්‍රමයක්/11-413460) · `si`
+
+පොහොර සහනාධාරය ඵලදායී ලෙස ජාතික නිෂ්පාදනය සඳහා එකතු කිරීම අරමුණු කර ගනිමින් QR කේත ක්‍රමයක් හඳුන්වා දීමට රජයේ අවධානය යොමු කර තිබේ.
+
+ජනාධිපති අනුර කුමාර දිසානායක සහ සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+ඉදිරි මාසවලදී සහල් හිඟයකින් තොරව, සාධාරණ මිලට හා අඛණ්ඩව පාරිභෝගික ජනතාවට ලබා දීමේ අවශ්‍යතාව ජනාධිපතිවරයා මෙහිදී සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් වෙත පෙන්වා දුන් අතර, ඒ සඳහා ගත යුතු කඩිනම් පියවර පිළිබඳවද ඔවුන් සමග සාකච්ඡා කළේය.
+
+සහල් හිඟයකින් තොරව ජනතාව වෙත ලබා දීම වෙනුවෙන් රට තුළ ගබඩා පහසුකම් වැඩි කිරීම සඳහා ගත යුතු පියවර පිළිබඳවද සාකච්ඡා කෙරිණි.
+
+එමෙන්ම නාඩු සහල්, අගය එකතු කළ නිෂ්පාදන සඳහා යොදා ගැනීම නිසා  පරිභෝජනය සඳහා අවශ්‍ය තොග අඩු වීම පිළිබඳවද අවධානය යොමු විය.
+
+වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමුපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ, ලක් සතොස සභාපති ආචාර්ය සමිත පෙරේරා ඇතුළු නිලධාරීන් සහ කුඩා හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් ඇතුළු පිරිසක් මෙම සාකච්ඡාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/a63e6ab6.json)
 
 ---
 
@@ -2393,137 +2513,5 @@ It is the responsibility of the government to prepare a long -term program to re
 [Data](articles/502d7362.json)
 
 [Extended Data](ext_articles/502d7362.ext.json)
-
----
-
-### Investigations on e-Passport
-
-*2024-12-04 09:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-பாஸ்போர்ட்-விதம்-தொடர்பில்-விசாரணைகள்-முன்னெடுப்பு/175-348217) · `ta`
-
-National Procurement Committee investigates e-Passport price. Court grants one-week delay for inquiry update. Defendant companies seek removal of interim passport purchase ban. Hearing rescheduled for January 23.
-
-🟩
-
-The Attorney General has informed the Court of Appeal that the National Procurement Committee is conducting inquiries into the price of the Department of Immigration and Emigration for the Department of Immigration and Emigration during the previous government.
-
-The announcement was made by the Additional Solicitor General of the Attorney General, who appeared on behalf of the Attorney General, when a petition filed by the Epic Lanka Private Company was summoned yesterday (03).
-
-The Additional Solicitor General said that the committee had asked for a week's time to submit surveillance on the investigation.
-
-Accordingly, he requested the court to receive a date to announce the progress of these actions.
-
-President's Attorney K. Kanakeeswaran, who represented defendant companies to consider the request of their customers to remove the interim order issued by the court to prevent the purchase of passports. "
-
-Accordingly, the court adjourned the hearing on January 23.
-
-◼️
-
-[Data](articles/267a2a81.json)
-
-[Extended Data](ext_articles/267a2a81.ext.json)
-
----
-
-### India's 15 investors arrives in Jaffna - Deputy Embassy Chief Executive Officer Ram Mahesh
-
-*2024-12-04 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200372) · `ta`
-
-Here's a 200-character summary:
-
-
-
-15 Indian investors visit Jaffna for trade fair. Embassy supports local production, education, culture & business. Exhibition features weaving, food, apparel, agricultural products. Free entry and permits.
-
-🟩
-
-Ram Mahesh, Chief Executive Officer of the Indian Embassy in Jaffna, said that 15 investors will visit Jaffna.
-
-The Northern Provincial Industrial Trade Market, hosted by the Northern Provincial Department of Industry, Jaffna's Indian Embassy, ​​commenced on Tuesday morning.
-
-He was speaking at the Northern Province Industrial Trade Market, which was held as the chief guest at the Northern Provincial Trade Market.
-
-The Northern Provincial Department of Labor has made various efforts to encourage manufacturers. The Indian Consulate for assistance for this. Local production growth is only when market is marketed.
-
-Such market opportunities and exhibitions will help. These will increase the products and encourage the products to bring the products to the next grade.
-
-The Indian Embassy is doing a variety of assistance. Especially educational, culture, business and embassy assistance. Especially next year, 2025 will be helping business events and entrepreneurship.
-
-...
-
-[Data](articles/e2566f99.json)
-
-[Extended Data](ext_articles/e2566f99.ext.json)
-
----
-
-### A/L Examination Today Re -Start
-
-*2024-12-04 08:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-இன்று-மீண்டும்-ஆரம்பம்/175-348216) · `ta`
-
-GCE A/L exam resumes today after weather delay. Postponed 6 days from Nov 27. Runs till Dec 20, then Dec 21-31.
-
-🟩
-
-The second phase of the GCE Advanced Level Examination, which was postponed due to inclement weather, has resumed today (04).
-
-The Department of Examinations has taken steps to postpone the 6 days from November 27.
-
-The Commissioner General of Examinations Amit Jayasundara said that the examinations will be held from today as mentioned in the examination table.
-
-Accordingly, the exam will be held from today to December 20th.
-
-The exam will be held from December 21 to December 31, the Commissioner General of Examination Amit Jayasundara said that the exams are not held.. Remble
-
-◼️
-
-[Data](articles/9ba4183a.json)
-
-[Extended Data](ext_articles/9ba4183a.ext.json)
-
----
-
-### If the rice is not imported next two weeks, a lot of questions
-
-*2024-12-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204019) · `si`
-
-Rice shortage looms: Gov urged to act within 2 weeks. CPAs warn of crisis if imports fail. Long-term solutions sought; short-term market control proposed. Flood relief shifted to reconstruction efforts.
-
-🟩
-
-All CPAs Small and Medium Scaleholdoreholders Association says that if the government does not take measures to import rice within the next two weeks, the entire Lanka Small and Medium Scaleholdoleholds Association says.
-
-Its Chairman U. K. Semasinghe said that it is the responsibility of the government to develop a long term program to solve this problem.
-
-"Should go to a long-term solution. If not, you can go back to this crisis. Paddy Marketing Board should be prepared by the Paddy Marketing Board to buy paddy in Yala season. If the government does not import rice from foreign countries, as a short-term solution, the government may have a sole in the market in the market. "
-
-He said that it is very important to regulate the rice to produce beer and vegan.
-
-Meanwhile, instead of compensation for the floods affected by the flood victims, steps should be taken to reconstruct them. B. Says Mr. Gunaratne.
-
-◼️
-
-[Data](articles/08d8be4b.json)
-
-[Extended Data](ext_articles/08d8be4b.ext.json)
-
----
-
-### South Korea’s President Yoon reverses martial law after lawmakers defy him
-
-*2024-12-04 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103978/south-koreas-president-yoon-reverses-martial-law-after-lawmakers-defy-him) · `en`
-
-South Korean President Yoon Suk Yeol said on Wednesday he would lift a surprise martial law declaration he had imposed just hours before, backing down in a standoff with parliament which roundly rejected his attempt to ban political activity and censor the media.
-
-In South Korea’s biggest political crisis in decades, Yoon shocked the nation and declared martial law on Tuesday night to thwart “anti-state forces” among his domestic political opponents. But outraged lawmakers unanimously rejected the decree. Yonhap news agency said the cabinet had agreed early on Wednesday to scrap the martial law.
-
-Protesters outside the National Assembly parliament shouted and clapped. “We won!” they chanted, and one demonstrator banged on a drum.
-
-The main opposition Democratic Party called for Yoon, who has been in office since 2022, to resign or face impeachment.
-
-...
-
-[Data](articles/4722e6b8.json)
-
-[Extended Data](ext_articles/4722e6b8.ext.json)
 
 ---

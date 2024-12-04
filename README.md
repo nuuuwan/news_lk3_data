@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 10:42:33**
+As of **2024-12-04 11:14:37**
 
 ## Newspaper Stats
 
-*Scraped **58,369** Articles*
+*Scraped **58,376** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 443
+dbsjeyarajcom | 445
 colombotelegraphcom | 592
 bbccomsinhala | 609
 islandlk | 3,506
@@ -17,20 +17,102 @@ economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
 adalk | 5,526
-adaderanalk | 7,083
-tamilmirrorlk | 8,304
-virakesarilk | 9,554
+adaderanalk | 7,085
+tamilmirrorlk | 8,306
+virakesarilk | 9,555
 adaderanasinhalalk | 10,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,361 (100.0%) of 58,369 articles have been extended.
+58,368 (100.0%) of 58,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
+
+### தென்கொரியாவில் அவசரநிலை பிரகடனம்:  ஒரே நாளில் வாபஸ்
+
+*2024-12-04 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்கொரியாவில்-அவசரநிலை-பிரகடனம்-ஒரே-நாளில்-வாபஸ்/50-348224) · `ta`
+
+தென்கொரியாவில் அவசரநிலை பிரகடனப்படுத்தப்பட்ட ஒரு சில மணி நேரங்களில் எதிர்கட்சிகளின் போராட்டத்தால் அது ரத்து செய்யப்பட்டதாக அறிவிக்கப்பட்டுள்ளது.
+
+தொலைகாட்சி வாயிலாக நேற்று (டிச.03) பொதுமக்களிடம் உரையாற்றிய தென்கொரிய அதிபர் யூன் சாக் யோல் நாட்டில் வடகொரிய ஆதரவாளர்களை நாட்டிலிருந்து வெளியேற்றுவதற்காகவும், அரசுக்கு எதிரான சக்திகளை ஒடுக்குவதற்காகவும் நாட்டில் அவசரநிலை பிரகடனப்படுத்தப்படுவதாக அறிவித்தார்.
+
+50 ஆண்டுகளில் தென்கொரியாவில் அவசரநிலை சட்டம் அமல்படுத்தப்பட்டது இதுவே முதல்முறை. இந்த அவசரநிலை சட்டத்துக்கு எதிராக அந்நாட்டு நாடாளுமன்றத்தில் 190 எம்.பி.க்கள் வாக்களித்தனர். தொடர்ந்து நாடாளுமன்ற வளாகத்திலேயே போராட்டத்திலும் ஈடுபட்டனர். இந்த சட்டத்துக்கு எதிர்ப்பு தெரிவிக்கும் வகையில் நாடாளுமன்ற நுழைவாயிலில் ஆயிரக்கணக்கான மக்கள் குவிந்து தென் கொரிய அதிபர் யூன் சுக் யோலுக்கு எதிராக கோஷங்களை எழுப்பினர். உடனடியாக அங்கு ராணுவ வீரர்கள் குவிக்கப்பட்டனர்.
+
+...
+
+[Data](articles/a3db18f3.json)
+
+---
+
+### ஒரு நிமிட மௌன அஞ்சலி...
+
+*2024-12-04 10:54:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒரு-நிமிட-மௌன-அஞ்சலி/76-348223) · `ta`
+
+இலங்கை வரலாற்றில் மிக மோசமான விமான விபத்து  இடம்பெற்ற 50 வருட  பூர்த்தியை ஒட்டி  நோட்டன்பிரிட்ஜ் விமலசுரேந்திர நீர்த்தேக்கத்திற்கு அருகில் நிர்மாணிக்கப்பட்டுள்ள  நினைவுத் தூபியில், விபத்தில் உயிரிழந்தவர்களை நினைவு கூட்டி ஒரு நிமிட மௌன அஞ்சலி செலுத்தப்பட்டது.
+
+நோட்டன் பிரிட்ஜ் பொலிஸார் மற்றும்முச்சக்கரவண்டி சங்க உறுப்பினர்கள் இணைந்து இந்த நிகழ்வை ஏற்பாடு செய்திருந்தனர்.
+
+டிசம்பர் 4, 1974 அன்று, மார்ட்டின் ஏர் விமான நிறுவனத்திற்கு சொந்தமான  DC 08 விமானம்  இந்தோனேசியாவின் சுரவேயார் விமான நிலையத்திலிருந்து மக்காவை நோக்கி பயணித்துக்கொண்டிருந்த நிலையில்  இரவு 10:10 மணியளவில்,  நோட்டன் பிரிட்ஜ் ஏழு கன்னியர் மலை உச்சியில் மோதியதில் அதில் பயணித்த 182 பேர் மற்றும் 09 ஊழியர்கள் உயிரிழந்தனர்.
+
+அந்த விமானத்தின் ஒரு டயர் நோட்டன் பிரிட்ஜ் விமலசுரேந்திர நீர்த்தேக்கத்திற்கு அருகில் நினைவுச் சின்னமாக  வைக்கப்பட்டுள்ளதுடன் அதன் கீழ் பகுதியில்   ஊழியர்களின்  பெயர்கள் குறிப்பிடப்பட்டுள்ளன.
+
+மேலும் இதன் போது நினைவிடம் முன் மலர் தூவி, மெழுகுவர்த்தி ஏற்றி , இறந்தவர்களுக்கு ஒரு நிமிடம் மவுன அஞ்சலி செலுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/8c220a3e.json)
+
+---
+
+### Railway Track Surveillance Employee
+
+*2024-12-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200375) · `ta`
+
+A 58-year-old railway track surveillance employee died after being struck by a train while on duty in Kandy. He was drinking tea when he was hit by a train coming from Peradeniya to Kandy. The victim succumbed to injuries at Kandy National Hospital.
+
+🟩
+
+An employee who is engaged in railway surveillance at the railway station in Kandy has died.
+
+The deceased is a 58 -year -old man who works as a duck comparison from Kallalla, Kallalla, police said.
+
+While he was on duty, he came through the train to drink tea. At that time, he saw a railway train coming from Peradeniya to Kandy, and he has become a mutant to another train.
+
+It was reported that the train was traveling on the train engine and was admitted to the Kandy National Hospital and died without treatment.
+
+◼️
+
+[Data](articles/e0898ef5.json)
+
+[Extended Data](ext_articles/e0898ef5.ext.json)
+
+---
+
+### Mill owners warn of looming rice shortage
+
+*2024-12-04 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103980/mill-owners-warn-of-looming-rice-shortage-) · `en`
+
+The All Ceylon Small and Medium Scale Mill Owners’ Association warns of a looming rice shortage if the government fails to import rice within the next two weeks.
+
+President of the Association U. K. Semasinghe emphasized the urgent need for a long-term strategy to address the recurring issue.
+
+“A systematic plan through the Paddy Marketing Board must be implemented during the’ Yala season’ to avoid future crises. Immediate steps to import rice are important as a short-term measure to mitigate the current shortage,” he stated.
+
+Semasinghe also highlighted the need for stricter regulation of rice used in beer production and animal feed, underscoring its impact on the nation’s food security.
+
+Adding to the discussion, former Director of Agriculture K. B. Gunaratne recommended replanting flood-hit paddy fields instead of merely providing compensation to affected farmers.
+
+◼️
+
+[Data](articles/6ac48a29.json)
+
+[Extended Data](ext_articles/6ac48a29.ext.json)
+
+---
 
 ### Arrested postman who distributed drugs
 
@@ -56,6 +138,24 @@ A Senior Police Officer said that a special police team was sent on Tuesday nigh
 
 ---
 
+### National Procurement Commission probing e-passport tender issue, court told
+
+*2024-12-04 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103979/national-procurement-commission-probing-e-passport-tender-issue-court-told) · `en`
+
+The Attorney General (AG) has informed the Court of Appeal that the National Procurement Commission of Sri Lanka is conducting an investigation into the method in which the previous government has granted the tender related to purchasing 5 million electronic passports for the Department of Immigration and Emigration.
+
+This was communicated to the court by Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of the Attorney General, when the petition filed by Epic Lanka Private Limited challenging the previous government’s decision to purchase 750,000 normal passports and 5 million e-passports from two foreign firms, was taken up on Tuesday (03).
+
+Furthermore, the Additional Solicitor General mentioned that the National Procurement Commission has requested a period of one week to submit observations related to the investigation. Therefore, he requested the court for a date to inform the progress of the relevant investigation.
+
+...
+
+[Data](articles/1ff385f6.json)
+
+[Extended Data](ext_articles/1ff385f6.ext.json)
+
+---
+
 ### Sri Lanka rupee opens stronger at 290.45/65 to dollar
 
 *2024-12-04 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-45-65-to-dollar-125231/) · `en`
@@ -69,6 +169,8 @@ In equities, the All Share Price Index was up 0.23 percent or 30.08 points, at 1
 ◼️
 
 [Data](articles/9b4c2152.json)
+
+[Extended Data](ext_articles/9b4c2152.ext.json)
 
 ---
 
@@ -259,6 +361,8 @@ When reserves were hitting negative territory during the last currency crisis, t
 ...
 
 [Data](articles/a0be26e2.json)
+
+[Extended Data](ext_articles/a0be26e2.ext.json)
 
 ---
 
@@ -995,6 +1099,54 @@ We have set up a new government with the people of all ethnic groups. The govern
 [Data](articles/8724ca2d.json)
 
 [Extended Data](ext_articles/8724ca2d.ext.json)
+
+---
+
+### Will Anura Kumara  Dissanayake’s NPP Govt  Order an Official  Probe Into the  “Unofficial Execution”  of JVP  Founder – Leader  Rohana Wijeweera 35 Years ago?
+
+*2024-12-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85154) · `en`
+
+November 13 is a date of great significance as far as the  Janatha  Vimukthi Peramuna(JVP)  – known as the Makkal Viduthalai Munnani in Tamil and People’s Liberation Front in English-is concerned. It was on  13 November 1989 that the JVP’s charismatic founder-leader  Rohana Wijeweera.  Since 1994 the JVP has been annually conducting an  event to commemorate Wijeweera and the lives of thousands of JVP cadres killede in the two insurgencies of 1971 and 1987-89. The commemoration of heroes event called “Il Maha Viru Samaruwa” is a blend of speeches and songs and is usually held on the 13th of November..
+
+...
+
+[Data](articles/90becc03.json)
+
+[Extended Data](ext_articles/90becc03.ext.json)
+
+---
+
+### The Serial stupidity of  SJB leader Sajith Premadasa whose decision to run against Ranil Wickremesinghe in Presidential election assured the mutual destruction of both and played into the hands of the NPP and Anura Kumara Dissanayake.
+
+*2024-12-04 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85165) · `en`
+
+The political Opposition in this country has yet again reduced to insignificance. This is a precarious existence for politics and the country at large, though this has been a recurrent phenomenon throughout the 2010s. Only the travails have incrementally worsened:
+
+In 2010, during the second term of Mahinda Rajapaksa’s presidency, the UPFA won 144 seats, a tad short of the two-thirds majority, which was compensated with the pole vaulters from the Opposition to pass the 18th Amendment to the Constitution, which decimated the independent commissions and removed the term limits of the presidency.
+
+The same misfortune was revisited in 2020 when the Sri Lanka People’s Freedom Alliance, led by Pohottuwa, won 145 seats against Samagi Jana Balawegaya’s 54 seats. Bolstered by the overwhelming parliamentary majority, Gotabaya Rajapaksa instituted some of the stupidest policy decisions, effectively bringing the economy crashing down to the ground.
+
+...
+
+[Data](articles/967ba6b4.json)
+
+---
+
+### If Chabad-Lubavitch Movement is given a legal foothold in Arugam Bay, it may not be long before our own Muslims are accused of antisemitism and of igniting a pogrom! Imagine with what glee the BBS/Sinhala Ravaya types would hop on that bandwagon.
+
+*2024-12-04 00:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85161) · `en`
+
+“Don’t let it happen. It depends on you.” – George  Orwell (1984)
+
+They are back, creeping out  of the woodwork. The gathering outside Colombo’s main railway station was mercifully small, just the mandatory monk and a handful of civilians. Having offered flowers to a statue of the Buddha, they proceeded to violate his teachings by trying to ignite an ethno-religious fire.
+
+Their target was the welcome decision by the NPP/JVP Government to release some of the military-occupied land in the north to their original owners.
+
+The monk accused President Anura Kumara Dissanayake of being a diaspora agent trying to rejuvenate the Tigers and start the next Eelam War. Madubhashana Prabath, the secretary of Sinhala Ravaya, called the new president King Elara of Tambuttegama and promised to struggle till the ‘last drop of blood’ to ‘save the nation’. (https://www.youtube.com/watch?v=oc613tLk3Cs).
+
+...
+
+[Data](articles/a3f01d20.json)
 
 ---
 
@@ -2229,209 +2381,5 @@ The CAASL said it would proceed with the certification process of the applicatio
 [Data](articles/38aff798.json)
 
 [Extended Data](ext_articles/38aff798.ext.json)
-
----
-
-### Air Ceilao seeks Sri Lanka approval for domestic, international charter flights
-
-*2024-12-03 16:56:00* · [`economynextcom`](https://economynext.com/air-ceilao-seeks-sri-lanka-approval-for-domestic-international-charter-flights-191591/) · `en`
-
-ECONOMYNEXT – Air Ceilao, a new private aircraft operator, has sought approval from the Civil Aviation Authority of Sri Lanka, to operate domestic and international charter flights to transport passengers and cargo, an official document showed.
-
-The CAASL in a public notice said Air Ceilao, a new operator, has sought “an Air Operator Certificate and Airline Licence to engage in domestic charter and regular transport operations and international charter and regular transport operations carrying passengers, cargo, and mail in compliance with Civil Aviation Act..”
-
-The CAASL said it would proceed with the certification process of the application after January 8, 2025 to examine the degree of Air Ceilao’s compliance with the applicable legislative provisions.
-
-...
-
-[Data](articles/4976e912.json)
-
-[Extended Data](ext_articles/4976e912.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.50/55 to dollar, bonds steady
-
-*2024-12-03 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-50-55-to-dollar-bonds-steady-124533/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.50/55 to the US dollar on Tuesday from 290.65/70 to the US dollar on Monday dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/50 percent, up from 9.35/45 percent.
-
-A bond maturing on 15.10.2027 closed at 10.25/35 percent, up from 10.20/30 percent.
-
-A bond maturing on 15.09.2029 closed at 10.80/90 percent, down from 10.85/90 percent. (Colombo/Dec3/2024)
-
-◼️
-
-[Data](articles/18ccc8cf.json)
-
-[Extended Data](ext_articles/18ccc8cf.ext.json)
-
----
-
-### Colombo Port expansion led by Adani Group progressing as planned, says official
-
-*2024-12-03 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103970/colombo-port-expansion-led-by-adani-group-progressing-as-planned-says-official) · `en`
-
-Sri Lanka’s port expansion project led by Indian conglomerate Adani Group is progressing as planned, an official was reported as saying on Tuesday.
-
-“Construction at the Colombo West International Terminal remains ongoing, with phase one of the project still set for completion in early 2025,” Sirimevan Ranasinghe, chairman of the Sri Lanka Ports Authority, told Bloomberg.
-
-Ranasinghe is also a minority shareholder in the project. He informed the news agency that the project would be continuing as per their agreement inked with Adani Ports and Special Economic Zone.
-
-Adani Group is playing a prominent part in expanding the country’s port infrastructure. The Colombo terminal project, which involves a infusion of $1-billion, marks the largest foreign direct investment in Sri Lanka’s port sector.
-
-Ranasinghe said that US financing had not been finalised, and added that it was up to the joint-venture company developing the project to procure the requisite financing.
-
-...
-
-[Data](articles/c12ef8e9.json)
-
-[Extended Data](ext_articles/c12ef8e9.ext.json)
-
----
-
-### Nominations for the local government election is recalled
-
-*2024-12-03 16:50:00* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණයේ-නාම-යෝජනා-ආපසු-කැඳවයි/11-413430) · `si`
-
-Cabinet approves recalling local government election nominations. Special provisions bill to be prepared for new nominations process.
-
-🟩
-
-The Cabinet approval has been obtained to recall the nominations that have been called for the vote in 2023 to the election of the local government bodies.The Cabinet Meeting held at 09/02.
-
-The National Political Party leaders who have been held under the patronage of the Speaker of Parliament at the party leaders 'leadership, the Speaker of Parliament participated in the event of the party leaders' meeting, the local government bullet should be held.
-
-Accordingly, the existing local government band's election to the election of all elections and the youth community of the LTTE will be able to recall the nominations for the election and provoke provisions to educate the new nomination.The Cabinet paper has been approved by the Cabinet paper to instruct the Ministerial Administration, Provincial Councils and the Local Government to instruct the Legal Draft Force to prepare the Legal Draft Force to prepare the Bills (Special Provisions).
-
-◼️
-
-[Data](articles/4e8cfdd1.json)
-
-[Extended Data](ext_articles/4e8cfdd1.ext.json)
-
----
-
-### Brother has been assassinated to a complaint on a mobile phone
-
-*2024-12-03 16:41:10* · [`adalk`](https://www.ada.lk/breaking_news/ජංගම-දුරකථනයක-ආරවුලකට-ඥාති-සහෝදරයා-ඝාතනය-කරලා/11-413429) · `si`
-
-Here's a 200-character summary:
-
-
-
-Brother assassinated over mobile phone complaint. Teen cousin kills 26-year-old with knife. Victim identified as Edirisinghe Arachchilage, 13th post. Police arrested suspect Sandaruwan. Investigation ongoing under OIC Inspector Ratnayake.
-
-🟩
-
-A 17-year-old cousin is a 17-year-old boy's knives on a blow to death, a 26-year-old man dies in a clay girl.
-
-The deceased has been identified as the 13th post, King Edirisinghe Arachchilage, a resident of Bandaragama Piyadda Kumara, a 26 year old youth.
-
-The two were also trying to dispute a mobile phone while working on a paddy and the deceased on a paddy field.
-
-The police said that the owner of the bomb had a blow to the suspect and taken his knife to the suspect and took him to the deceased to the deceased.
-
-The suspect was arrested by Edirisinghe Arachchilage's Youth Sandaruwan, who was arrested in connection with the murder.
-
-OKA OIC Inspector RMS. C. A team of officials are conducting further investigations on the instructions of Ratnayake.
-
-◼️
-
-[Data](articles/4c4e05be.json)
-
-[Extended Data](ext_articles/4c4e05be.ext.json)
-
----
-
-### Government owned high luxury is to be removed
-
-*2024-12-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204001) · `si`
-
-Here's a 200-character summary:
-
-
-
-Government removes luxury vehicles due to high maintenance and fuel costs. Cabinet approves formal procedure to study and replace vehicles in government institutions. Decision aims to reduce economic burden and promote cost-effectiveness.
-
-🟩
-
-Cabinet approval has been given to remove the larger cost-cost vehicles in accordance with a formal procedure.
-
-Cabinet spokesperson Minister Nalinda Jayatissa said that today (03).
-
-This decision has been taken into account the cost of the maintenance and fuel that cost the maintenance and fuel of certain high luxury vehicles in government institutions.
-
-The Minister said that the abuse of such high luxury is economically more effective.
-
-Accordingly, a formal study of the vehicles of all government institutions and follow vehicles and diesel engine capacity over the customs encryption.The proposal submitted by the Cabinet of the Treasury was approved by the Chief Accounting Officers to be abolished and to release the relevant circular instructions to report the relevant circular advice before 2025-03.
-
-◼️
-
-[Data](articles/8b6ba182.json)
-
-[Extended Data](ext_articles/8b6ba182.ext.json)
-
----
-
-### Siddharth starrer 'Miss You'
-
-*2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200334) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Siddharth stars in 'Miss You', directed by Rajasekhar. Also featuring Ashika Ranganath, Karunakaran. Music by Venkatesh. Produced by 7 Miles Bur Second Productions. Delayed due to weather issues. Expected to appeal to young audiences with a love story theme.
-
-🟩
-
-Siddharth, who is the star of the Tamil film industry, has been announced on the new release date of the movie 'Miss You'.
-
-Director n. The upcoming film 'Miss You', directed by Rajasekhar, stars Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, Shah Rao, 'Loku Saba' Maran, Sashtika, Ponvannan, Jayaprakash, Ravi Maria, Sarath Lokitswa.
-
-K. G. The film has been composed by Venkatesh and has composed the film.. The film is being produced by 7 Miles Bur Second Productions.
-
-The film, which was announced last month, has not been released due to the storm and rain that hit Tamil Nadu. The production company said that the new release date of the film will be announced later.
-
-The film has been announced on the 13th of this month at the film House.
-
-The film is expected to attract the younger generation fans as he talks about the love of the hero who falls and falls in love with a woman who does not like.
-
-◼️
-
-[Data](articles/3f0327fe.json)
-
-[Extended Data](ext_articles/3f0327fe.ext.json)
-
----
-
-### Actor Guna Finance Starring 'Alanku'
-
-*2024-12-03 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200333) · `ta`
-
-"Alanku" starring Guna Finance releases 27th. Director: S.B. Sakthivel. Cast: Gunanidhi, Shanmugam Muthusamy, Kali Venkat. Music: Ajis. Producers: T.Sabarish, Sangamitra Chaumia Anumani. Based on health & environmental issues.
-
-🟩
-
-The release date of the film 'Alanku' has been officially announced with a special photo of the popular actor Guna Finance Story, which made his debut in Tamil fans with 'Selphy' released in 2022.
-
-Director S.. B.. Sakthivel's upcoming film 'Alanku' has staged many others including Gunanidhi, Shanmugam Muthusamy, Kali Venkat, Semban Vinod Jose, Sarath Appani, Regin Rose, Sri Rekha, Kothavai.
-
-Ajis has composed the film, which has been recorded by S. Pandi Kumar. The film was co -produced by producers T.Sabarish and Sangamitra Chaumia Anumani on behalf of DG Film Company and Magnus Productions.
-
-All the tasks of the film were completed and waited for the release. The film has been announced on the 27th of this month at the film House.
-
-The film is based on the danger of the inauguration of the health and the environmental waste for the health and the environmental waste.
-
-The film has also recorded a huge anticipation among the audience as the film has also recorded the life of the diaspora.
-
-◼️
-
-[Data](articles/c69330b0.json)
-
-[Extended Data](ext_articles/c69330b0.ext.json)
 
 ---

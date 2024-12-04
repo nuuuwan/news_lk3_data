@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 19:17:14**
+As of **2024-12-04 20:15:55**
 
 ## Newspaper Stats
 
-*Scraped **58,467** Articles*
+*Scraped **58,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,506
 economynextcom | 3,552
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,538
-adaderanalk | 7,100
-tamilmirrorlk | 8,324
+adalk | 5,541
+adaderanalk | 7,101
+tamilmirrorlk | 8,325
 virakesarilk | 9,568
 adaderanasinhalalk | 10,101
 
@@ -26,103 +26,219 @@ adaderanasinhalalk | 10,101
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,452 (100.0%) of 58,467 articles have been extended.
+58,465 (100.0%) of 58,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-04 (Wednesday)
 
-### වහාම ධුරයෙන් ඉල්ලා අස්වන්නැයි දකුණු කොරියාවේ ජනපතිට එරෙහි විරෝධතා
+### The President meets MPs
+
+*2024-12-04 19:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-எம்-பிக்களை-சந்தித்தார்-ஜனாதிபதி/175-348251) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+President Anura Kumara Dissanayake met TNA MPs today. They discussed issues affecting Northern and Eastern regions. The meeting took place at the Presidential Office.
+
+🟩
+
+The meeting between President Anura Kumara Dissanayake and the Sri Lanka Tamil National Alliance (TNA) parliamentarians was held this afternoon at the Presidential Office.
+
+The members of the Sri Lanka Tamil National Alliance (TNA) have long explained to the President on the problems faced by the people of the North and East.. Remble
+
+◼️
+
+[Data](articles/7f85d81e.json)
+
+[Extended Data](ext_articles/7f85d81e.ext.json)
+
+---
+
+### Government Policy Statement passed in Parliament
+
+*2024-12-04 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103999/government-policy-statement-passed-in-parliament) · `en`
+
+The resolution on the statement of the Government Policy, which was presented by President Anura Kumara Dissanayake in Parliament on November 21, was passed unanimously in Parliament today (04) without a vote.
+
+The debate on the statement of the Government Policy was held as a two-day debate from 9.30 am to 5.30 pm yesterday (03) and from 9.30 am to 5.00 pm today (04).
+
+◼️
+
+[Data](articles/4b605719.json)
+
+[Extended Data](ext_articles/4b605719.ext.json)
+
+---
+
+### The victims of the victim's bar-permit were out in Parliament
+
+*2024-12-04 19:17:15* · [`adalk`](https://www.ada.lk/breaking_news/ගිය-ආණ්ඩුවෙන්-බාර්-පර්මිට්-ගත්ත-අයගේ-නම්-පාර්ලිමේන්තුවේදී-එළියට/11-413465) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former President Ranil Wickremesinghe claims 361 excise licenses issued since January 2024, including 172 wine store permits. He accuses these of being used as political bribes.
+
+🟩
+
+Former President Ranil Wickremesinghe has been provided with 361 excise targets from 1st January 2024, with 172 permits.
+
+He made this statement before Parliament today (04).. Speaking further Leader of the House Minister Bimal Ratnayake said:
+
+30 in the North Western Province, 32 in the North Western Province, 32 in the North Western Province, 48 in the North Western province, 32 in the North Western Province, 48 in the Wayamba.361 overall excise licenses have been issued during this period.
+
+Retail, especially in the retail, we say that FL 4: Licenses of Wine Stose. Such permits have been issued 172 during this period. Accordingly, the Colombo 22, 18, Kalutara, 8 in Kalutara for sale in Kalutara. Five Matara, 05 in Matara, 24, Matale, 02, Trincomalee, 02 in Trincomalee, 05, Hambantota, 5 in Jaffna
+
+...
+
+[Data](articles/44941895.json)
+
+[Extended Data](ext_articles/44941895.ext.json)
+
+---
+
+### Protests against President South Korea to resign after post
 
 *2024-12-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204040) · `si`
 
-රට තුළ දේශපාලන සහ පාර්ලිමේන්තු ක්‍රියාකාරකම් සියල්ල තහනම් කරමින් රටට හමුදා නීතිය පැනවීමට දකුණු කොරියානු ජනාධිපතිවරයා ගත් තීන්දුව ඔහු විසින්ම හකුලාගෙන තිබේ.
+Here's a summary in 200 characters:
 
-ඒ ඊට එරෙහිව එරට පාර්ලිමේන්තුව විසින් ගෙන ආ යෝජනාවක් සම්මත වීමෙන් අනතුරුවය.
 
-උතුරු කොරියාවේ කොමියුනිස්ට් බලවේග මගින් ඇතිවිය හැකි ආපදාවලින් රට ආරක්ෂා කිරීම සඳහා රටට හමුදා නීතිය පනවන බව දකුණු කොරියානු ජනාධිපති යුන් සුක් යෝල් හදිසියේ නිවේදනය කළේ ඊයේ (03) රාත්‍රියේ දීය.
 
-ඒ යටතේ රට තුළ සියලු දේශපාලන සහ පාර්ලිමේන්තු ක්‍රියාකාරකම් තහනම් කෙරුණු අතර, වරෙන්තු නොමැතිව ඕනෑම අයෙක් අත්අඩංගුවට ගැනීමේ බලයද හමුදාව වෙත පැවරුණි.
+South Korean President faces protests after imposing military law. Opposition demands resignation. Parliament passes proposal to repeal law. Protests continue as president refuses to step down.
 
-එමෙන්ම ඉන් භාෂණයේ නිදහසද සීමා කෙරුණු අතර, මාධ්‍ය සඳහා ද දැඩි නීති පැනවීය.
+🟩
 
-මේ සමගින් එරට සෝල් හි පිහිටි පාර්ලිමේන්තුවට පිවිසීම අවහිර කරමින් හමුදාව ඒ වටා ස්ථානගත කෙරුණේ, විපක්ෂයේ සහ මහජනතාවගේ ප්‍රබල විරෝධය මධ්‍යයේ දීය.
+He has acted the verdict of the South Korean President to prohibit all political and parliamentary activities in the country.
 
-පුවත සැලවීමත් සමග විපක්ෂ දේශපාලනඥයින් මෙන්ම ආධාරකරුවන් ඊයේ රාත්‍රියේම පාර්ලිමේන්තුව අවට රැස්වී ජනාධිපතිවරයාට බලකර සිටියේ මෙම නීතිවිරෝධී හමුදා නීතිය වහාම ඉවත් කරන ලෙසය.
+It was after the passage of a proposal brought by the Parliament against it.
+
+South Korean President Yugore was announced that the country eats militarily to protect the country from the disasters caused by the Communist Forces in North Korea.
+
+Under this, all political and parliamentary activities were banned and the power to arrest anyone without warrants.
+
+Also, freedom of speech was restricted and strict rules were also launched for the media.
+
+The army was blocked by the army, without the power of the opposition and the masses in the country.
+
+With the news, opposition politicians, supporters were assembled to the president last night and demanded the president to remove the illegal military law.
+
+Also, some representatives of the ruling party as well as supporters were also assisted.
 
 ...
 
 [Data](articles/0e6b20d2.json)
 
+[Extended Data](ext_articles/0e6b20d2.ext.json)
+
 ---
 
-### அரசின் கொள்கைப் பிரகடனம் வாக்கெடுப்பு இன்றி ஏகமனதாக நிறைவேற்றம்
+### State policy declaration
 
 *2024-12-04 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200445) · `ta`
 
-அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பான தீர்மானம் புதன்கிழமை (04) பாராளுமன்றத்தில் வாக்கெடுப்பு இன்றி ஏகமனதாக நிறைவேற்றப்பட்டது.
+Here's a summary of 200 characters:
 
-அரசாங்கத்தின் கொள்கைப் பிரகடனம் தொடர்பான விவாதம் செவ்வாய்க்கிழமை (03) காலை 9.30 மணி முதல் மாலை 5.30 மணி வரையும், புதன்கிழமை (04)  காலை 9.30 மணி முதல் மாலை 5.00 மணி வரையும் இரண்டு நாள் விவாதமாக நடைபெற்றது.
 
-ஜனாதிபதி அனுரகுமார திஸாநாயக்க கடந்த நவம்பர் 21ஆம் திகதி அரசாங்கத்தின் கொள்கைப் பிரகடனத்தை பாராளுமன்றத்தில் சமர்ப்பித்தமை குறிப்பிடத்தக்கது.
+
+Parliament unanimously passes government policy declaration without referendum. Debate held on Nov 3-4. President Anura Kumara Dissanayake presented on Nov 21.
+
+🟩
+
+The resolution on the government's policy declaration was unanimously passed in Parliament without a referendum on Wednesday (04).
+
+The debate on the government's policy declaration was held on Tuesday (03) from 9.30 am to 5.30 pm and Wednesday (04) from 9.30 am to 5.00 pm.
+
+President Anura Kumara Dissanayake presented the government's policy declaration in Parliament on November 21.
 
 ◼️
 
 [Data](articles/e350eb77.json)
 
+[Extended Data](ext_articles/e350eb77.ext.json)
+
 ---
 
-### தாஜுதீன் படுகொலை தொடர்பில் முறையான விசாரணை - அமைச்சர்  நளிந்த ஜயதிஸ்ஸ
+### Proper inquiry into the assassination of Tajuddin - Minister Nalinda Jayatissa
 
 *2024-12-04 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200444) · `ta`
 
-தாஜுதீன் படுகொலை உட்பட சர்ச்சைக்குரிய படுகொலைகள் தொடர்பில் முறையான விசாரணைகளை மேற்கொண்டு  குற்றவாளிகளுக்கு தண்டனை வழங்குவோம் என ஆளும் தரப்பின் பிரதம கொறடாவான அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் புதன்கிழமை (4) நடைபெற்ற அரசாங்கத்தின் கொள்கை பிரகடனத்தின் மீதான விவாதத்தில் உரையாற்றிய முஜிபூர் ரஹ்மான் உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல்கள் சம்பவம், தாஜுதீன் படுகொலை  தொடர்பில் குறிப்பிட்டார்.
 
-பாராளுமன்ற உறுப்பினர் முஜிபூர் ரஹ்மானின் உரையை தொடர்ந்து எழுந்து உரையாற்றிய ஆளும் தரப்பின் பிரதம கொறடாவான நளிந்த ஜயதிஸ்ஸ,கடந்த காலங்களில் சர்சைக்குரியதாக பேசப்பட்ட தாஜூதின் படுகொலை, உட்பட ஏனைய படுகொலைகள் தொடர்பில்  முறையான விசாரணைகளை மேற்கொண்டுள்ளோம்.
 
-தொழில்நுட்ப காரணிகளால் கடந்த காலங்களில் குறித்த தரவுகளை பெற்றுக்கொள்வதில் மாதம் ஏற்பட்டது. ஆனால் தற்போது அந்த தரவுகள் கிடைக்கப் பெற்றுள்ளன.  ஆகவே முறையான விசாரணைகள் மேற்கொள்ளப்பட்டு குற்றவாளிகளுக்கு தண்டனை வழங்கப்படும்  என்றார்.
+Minister Nalinda Jayatissa vows to investigate Tajuddin's assassination and punish culprits. Inquiry ongoing after MP Mujibur Rahman's speech in Parliament. Data previously unavailable now accessible for thorough investigation.
+
+🟩
+
+Minister Nalinda Jayadissa, the chief minister of the ruling party, said that proper investigations into the controversial assassinations, including the assassination of Tajuddin, will be punished.
+
+Addressing a debate on the government's policy declaration in Parliament on Wednesday (4), Mujibur Rahman referred to the alive Sunday bomb blasts and the assassination of Tajuddin.
+
+Following the speech of MP Mujibur Rahman, we have been conducting a formal inquiry into other assassinations, including the ruling party, Nalinda Jayatissa, who has been ruling in the past, including the assassination of Tajuddin, who has spoken in the past.
+
+The month has been made in obtaining data in the past by technical factors. But now that data is available.He said proper investigations would be conducted and the culprits would be punished.
 
 ◼️
 
 [Data](articles/de8bef07.json)
 
+[Extended Data](ext_articles/de8bef07.ext.json)
+
 ---
 
-### W.M.மென்டிஸ் அன்ட் கம்பெனியின் உரிமம் இடைநிறுத்தம்
+### W.M. Mendis & Company's license suspension
 
 *2024-12-04 18:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/W-M-மென்டிஸ்-அன்ட்-கம்பெனியின்-உரிமம்-இடைநிறுத்தம்/175-348250) · `ta`
 
-ரூபாய் 5.7 பில்லியன் வரி மற்றும் பிற கட்டணங்களைச் செலுத்தத் தவறியதன் பொருட்டு டபிள்யூ.எம்.மென்டிஸ் அன்ட் கம்பெனியின் மது உற்பத்தி உரிமம் டிசெம்பர் 5ஆம் திகதி முதல் தற்காலிகமாக நிறுத்தப்பட்டுள்ளதாக கலால் திணைக்களம் அறிவித்துள்ளது.
+W.M. Mendis & Company faces license suspension due to tax failures. Alcohol production halted since Dec 5. Additional licenses may be suspended by Dec 31 if tax issues persist. This decision made public during WM Mendis & Co.'s Court of Appeal hearing.
 
-மேலும் வரியை  செலுத்தத் தவறும் நிலை தொடரும் பட்சத்தில் டிசம்பர் 31 க்குப் பின்னர் நிறுவனத்தின் பிற உரிமங்களும் இடைநிறுத்தப்படும் என திணைக்களம் எச்சரித்தது.
+🟩
 
-மேன்முறையீட்டு நீதிமன்றத்தில் நடைபெற்ற விசாரணைகளின் போது இந்த விடயம் தெரிய வந்ததுடன், WM Mendis & Co. நிறுவனத்திற்கு வழங்கப்பட்ட 10 மதுபான உற்பத்தி உரிமங்களில் 8 ஏற்கனவே இடைநிறுத்தப்பட்டிருந்தமை தெரியவந்துள்ளது.
+The Department of WM's alcohol production has been suspended from December 5, the Department of Excise said.
+
+The department warned that if the failure of the tax continues, other licenses of the company will be suspended after December 31.
+
+The matter was revealed during the hearing of the Court of Appeal, WM Mendis & Co.. Eight of the 10 liquor production licenses granted to the company have already been suspended.
 
 ◼️
 
 [Data](articles/d1d9a033.json)
 
+[Extended Data](ext_articles/d1d9a033.ext.json)
+
 ---
 
-### தேங்காய் விலையுயர்வு குறித்து அமைச்சர் கருத்து
+### Minister comment on coconut prices
 
 *2024-12-04 18:35:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலையுயர்வு-குறித்து-அமைச்சர்-கருத்து/175-348249) · `ta`
 
-எதிர்வரும் பண்டிகைக் காலத்தில் அத்தியாவசிய உணவுப் பொருட்களை தட்டுப்பாடின்றி வழங்குவதற்கு எடுக்கப்பட்டுள்ள நடவடிக்கைகள் குறித்து வர்த்தக அமைச்சர் வசந்த சமரசிங்க தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-இன்று (டிசம்பர் 04) முதல் அமுலுக்கு வரும் வகையில் நாளாந்தம் 200,000 கிலோ அரிசியை வழங்க அரிசி ஆலைகள் இணக்கம் தெரிவித்துள்ளதாக அமைச்சர் சமரசிங்க இன்று பாராளுமன்றத்தில் உரையாற்றினார்.
 
-அரசாங்கத்திற்கு சொந்தமான சில்லறை விற்பனை நிறுவனமான லங்கா சதொச ஊடாக உள்ளூர் சந்தைக்கு இந்த அரிசி கட்டுப்பாட்டு விலையில் வழங்கப்படவுள்ளதாக அவர் கூறினார்.
 
-புறநகர் பகுதிகளில் உள்ள சதொச விற்பனை நிலையங்கள் ஊடாகவும் ஒரு மில்லியன் தேங்காய் விற்பனை செய்யப்படும் என வர்த்தக அமைச்சர் மேலும் தெரிவித்தார்.
+Commerce Minister Wasantha Samarasinghe announced steps for festive season food supply. Rice mills agreed to provide 200,000 kg daily through Lanka Sathosa. One million coconuts will be sold at 130 rupees each in two weeks.
 
-அடுத்த இரண்டு வாரங்களில் தேங்காய்கள் 130 ரூபாய்க்கு விற்பனை செய்யப்படும் என அமைச்சர் சமரசிங்க தெரிவித்தார்.
+🟩
+
+Commerce Minister Wasantha Samarasinghe said the steps taken to provide essential food items in the coming festive season.
+
+Minister Samarasinghe addressed the parliament today that the rice mills have agreed to provide 200,000 kg of rice daily (December 04).
+
+He said the rice would be supplied to the local market through the government -owned retail company, Lanka Sathosa.
+
+The Minister of Commerce added that one million coconuts will be sold through Sathosa outlets in the suburbs.
+
+Minister Samarasinghe said that coconuts will be sold for 130 rupees in the next two weeks.
 
 ◼️
 
 [Data](articles/83c94121.json)
+
+[Extended Data](ext_articles/83c94121.ext.json)
 
 ---
 
@@ -147,6 +263,30 @@ The debate on the government policy report was held from 9.30 am to 5.30 pm and 
 [Data](articles/9f5d1dca.json)
 
 [Extended Data](ext_articles/9f5d1dca.ext.json)
+
+---
+
+### The government's policy statement passed without a poll
+
+*2024-12-04 18:22:20* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-ප්‍රතිපත්ති-ප්‍රකාශය-ඡන්ද-විමසීමකින්-තොරව-සම්මතයි/11-413463) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Government policy statement passes unanimously in parliament without vote. President Anura Kumara Dissanayake presents on Nov 21. Debate lasts from 9:30 AM to 5:30 PM.
+
+🟩
+
+President Anura Kumara Dissanayake presented in parliament on November 21st Parliament yesterday (04) was unanimously passed without a poll.
+
+The debate on the policy statement was held at 9.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 pm to 5.30 pm to 5.30 pm to 5.30 pm to 5.30 am to 5.30 pm.
+
+◼️
+
+[Data](articles/51ab2537.json)
+
+[Extended Data](ext_articles/51ab2537.ext.json)
 
 ---
 
@@ -464,6 +604,40 @@ The department notes that the taxpayer will not face fines or legal action if th
 
 ---
 
+### Hirunika released
+
+*2024-12-04 17:09:32* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකා-නිදහස්/11-413458) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Court of Appeal releases Hirunika Premachandra from accusations. Judges Nissanka Bandula Karunaratne and Shashi Mahendran presided over the case. Attorney Nishan Premathiratne represented Hirunika, promising to settle matters amicably. The petition examination was concluded based on this agreement.
+
+🟩
+
+The last Appeal to release her from the allegations of Hirunika Premachandra, who was contempted to take an examination by the Mount Lavinia Magistrate's Court, to release him from the accusation of the accused of the Parliament.Did.
+
+The Court of Appeal was determined to release the executive MP Hiranika Premachandra to withdraw the statement he had to withdraw such a statement.
+
+The complaint was considered by the Court of Appeal Nissanka Bandula Karunaratne and the Court of Appeal Judge Shashi Mahendran.
+
+Ms. Hirunika Premachandra appeared in court on a notice issued by the court.
+
+Attorney-at-Law Nishan Premathiratne appearing on behalf of former Parliamentarian Hirunika Premachandra, he made a promise to the judiciary and told her that the defendant was prepared to settle it.
+
+The lawyer added that the petitioner could end the examination that there is no objection.
+
+President's Counsel Ferman Kasim appeared in court for the defendant Hirunika Premachandra.
+
+...
+
+[Data](articles/35666eee.json)
+
+[Extended Data](ext_articles/35666eee.ext.json)
+
+---
+
 ### Court rejects W.M. Mendis’ petition challenging Excise license suspension
 
 *2024-12-04 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103995/court-rejects-wm-mendis-petition-challenging-excise-license-suspension) · `en`
@@ -556,21 +730,31 @@ It is not known exactly which payment in the video. Likewise, the voice -over pe
 
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේ සභාපති සරෝජා සාවිත්‍රි
+### MP Saroja Saroja Savitra
 
 *2024-12-04 16:55:28* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රීවරියන්ගේ-සංසදයේ-සභාපති-සරෝජා-සාවිත්‍රි/11-413457) · `si`
 
-මහජන ජන්දයෙන් කාන්තාවන් සැලකියයුතු ප්‍රතිශතයකින් මන්ත්‍රීවරියන් ලෙස පාර්ලිමේන්තුවට තේරීපත්වීම සුවිශේෂී ජයග්‍රහණයක් -  අග්‍රාමාත්‍යවරිය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-මෙරට සෑම කාන්තාවක්ම සුරක්ෂිතවෙන රටක් නිර්මාණය කිරීම අපේ අපේක්ෂාවයි - සංසදයේ සභාපතිවරිය පවසයි.
 
-පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය ඊයේ (03) පළමු වරට අග්‍රාමාත්‍ය ,ආචාර්ය හරිනි අමරසුරියගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේදී පැවැත්විණි. මේ අවස්ථාව සඳහා නියෝජ්‍ය කාරක සභා සභාපති පාර්ලිමේන්තු මන්ත්‍රී හේමාලි වීරසේකර සහ පාර්ලිමේන්තුවේ මහලේකම් සහ පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේ ලේකම් කුෂානි රෝහණදීර යන මහත්මීන්ද එක්ව සිටියහ.
 
-මෙහිදී පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේ නව සභාපති ලෙස කාන්තා හා ළමා කටයුතු අමාත්‍ය ය සරෝජා සාවිත්‍රි පෝල්රාජ් මහත්මිය තේරීපත්විය. ඒ සඳහා වන නම පාර්ලිමේන්තු මන්ත්‍රී සමන්මලී ගුණසිංහ මහත්මිය විසින් යෝජනා කළ අතර පාර්ලිමේන්තු මන්ත්‍රී අනුෂ්කා තිලකරත්න මහත්මිය විසින් එම යෝජනාව ස්ථිර කලාය.
+Sri Lankan PM highlights parliamentary vulnerabilities. New forum aims to secure all women. Key roles filled: Chairwoman Samanmali Gunasinghe, Deputy Chairs Rohini Wijeratne & Thushari Jayasinghe. Focus on gender equality and non-partisan approach.
+
+🟩
+
+Parliamentary vulnerabilities is a significant achievement as MPs - says the Prime Minister.
+
+Our prospect is to create a country where every woman in Sri Lanka is secured - President's Chairman of the Forum.
+
+Parliamentarian's forum was held yesterday (03) under the patronage of Prime Minister, Dr. Harini Amarasuriya. Deputy Chairman of Committees, MP Helde Weerasekera and the General Secretary General of Parliament and the Members of Parliament and the Members of Parliament and Members of Parliament were also present at the occasion.
+
+Minister of Women and Child Affairs, Minister of Women and Child Affairs was elected to the new Chairman of the Members of Parliament.. Parliamentarian Samanmali Gunasinghe, MP Samanmali Gunasinghe proposed, and MP Mr. Anushka Tilakaratne confirmed that proposal.
 
 ...
 
 [Data](articles/a271a313.json)
+
+[Extended Data](ext_articles/a271a313.ext.json)
 
 ---
 
@@ -598,39 +782,61 @@ The stock of Kerala cannabis and the Dingi vessel has been handed over to the Ja
 
 ---
 
-### வீட்டின் மதில் இடிந்து விழுந்ததில் ஒருவர் பலி !
+### One person killed in a house wall
 
 *2024-12-04 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200417) · `ta`
 
-வெலிக்கடை பிரதேசத்தில் உள்ள வீடொன்றின் மதில் இடிந்து விழுந்ததில் ஒருவர் உயிரிழந்துள்ளதாக வெலிக்கடை பொலிஸார் தெரிவித்தனர்.
+Here's a summary in 200 characters:
 
-பண்டாரகமை, கஹம்பிலியாவத்த பகுதியைச் சேர்ந்த 53 வயதுடைய சுமித் குமார என்ற நபரே உயிரிழந்துள்ளார்.
 
-உயிரிழந்தவர் தனது மகனுடன் இணைந்து வீட்டின் மதிலில் இருந்த பழைய இரும்பு வேலியை அகற்றி புதிய இரும்பு வேலியை அமைத்து கொண்டிருந்துள்ளார்.
 
-இதன்போது உயிரிழந்தவரின் மகன் அருகில் உள்ள கடைக்கு சென்றுள்ள நிலையில், இவர் தனியாக இரும்பு வேலியை அமைத்து கொண்டிருந்த போது மதில் இடிந்து விழுந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+1 person killed as house wall collapses in Welikada. Victim: Sumit Kumara (53) from Bandaragama. Incident occurred while son was setting up new iron fence. Police investigating.
+
+🟩
+
+Welikada police said that one person was killed when a wall of a house in Welikada area collapsed.
+
+Sumit Kumara, 53, from Kahambiliyawatta, Bandaragama, has died.
+
+The deceased, along with his son, removed the old iron fence from the house of the house and set up a new iron fence.
+
+The son of the deceased has gone to a nearby shop and the wall has collapsed while he was setting up an iron fence.
 
 ◼️
 
 [Data](articles/99137c32.json)
 
+[Extended Data](ext_articles/99137c32.ext.json)
+
 ---
 
-### මඩේ එරුණු ඇතින්න සතියකට පසු මියයයි‍
+### A week after entering the mud
 
 *2024-12-04 16:26:39* · [`adalk`](https://www.ada.lk/picture_story/මඩේ-එරුණු-ඇතින්න-සතියකට-පසු-මියයයි‍/10-413453) · `si`
 
-වව්නියාව කුඩාකච්චකොඩිය ප්‍රදේශයේ පිහිටි කුඹුරක මඩේ එරීම හේතුවෙන් දැඩි සෙයින් දුර්වලව සිටි ඇතින්න සතියකට පසුව අද (04) දින මිය ගොස් ඇතැයි වව්නියාව වනජීවි නිලධාරී කර්යාලය පැවසීය.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wildlife officer dies after getting stuck in mud in Vavuniya. Rescue efforts involved wildlife officials and local residents. The officer couldn't escape due to muddy terrain and heavy equipment assistance. Cause of death attributed to asphyxiation from mud.
+
+🟩
+
+The Vavuniya Wildlife Officer is said to have died after a weekly weak mud in the small area of ​​Kumbukkachchagoda area in Vavuniya.
 
 මිය ගිය ඇතින්නගේ අවසන් කටයුතු උතුරු පලාත් වනජීවි පශුවෛද්‍ය බී.ගිරිධරන් මහතා ඇතුලු වනජීවි නිලධාරීන් සහ ප්‍රදේශභාර ග්‍රාමසේවක වරයාගේද සහභාගීත්වයෙන් සිදුකිරීමට පියවර ගෙන තිබුණි.
 
-මඩේ එරුනු ඇතින්නගේ ජීවිතය බේරාගැනීම සඳහා පශුවෛද්‍ය වරයා ඇතුලු වනජීවි නිලධාරීන් විසින් සතියක කාලයක් පුරා ප්‍රතිකාර මේනම සේලයින්ද ලබාදෙමින් දැඩි උත්සහයක් දැරුවද ඇතින්න‌ගේ ජීවිතය බේරාගැනීමට නොහැකි විය.
+Wildlife officials, including the vestin to save the lives of the mud, and a hard attempt to save the lives of the capture.
 
-අවුරුදු 50 කට වඩා වයසින් යුතු මෙම ඇතින්න දෙවරක් පමණ ගැබ්බර වී ඇති බවටත් වයසින් වැඩි ඉතා දුර්වල තත්වයේ සිටියදී අධික වර්ෂාව හමුවේ කුඹුර මතින් යාමේදී මඩේ එරීම නිසා ඇතින්න තවත් දැඩි සෙයින් දුර්වල වීම හේතුවෙන් ඇවිදීමට වාරු නොමැතිව ආහාර ගැනීමට පවා නොහැකිව සිටි බවට උතුරු පලාත් වනජීවි පශුවෛද්‍ය කාර්යාලය පැවසීය.
+Northern provinces' office of the Northern Province Wildlife Veterinary Office that he could not even eat without a walk in the paddy in the paddy of the paddy fields.Said.
 
-...
+The Vavuniya Wildlife Office has said that due to the assistance of a backhoe before the help of a backhoe, he was killed and the victim was dead.
+
+◼️
 
 [Data](articles/af068055.json)
+
+[Extended Data](ext_articles/af068055.ext.json)
 
 ---
 
@@ -2285,129 +2491,5 @@ The main opposition Democratic Party called for Yoon, who has been in office sin
 [Data](articles/4722e6b8.json)
 
 [Extended Data](ext_articles/4722e6b8.ext.json)
-
----
-
-### A crench racket called for renovation?
-
-*2024-12-04 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204018) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Organization claims environmental protection, but critics argue misleading public. Renovation plans disputed, especially for Hatton-Nallutuwa Road. Butterfly Money Facebook group shares information about Siripada Pilgrimage.
-
-🟩
-
-Mr. Bengamage Dhammala Dhammala Dhammala Dhammala Dhammawardena, Ven
-
-The Thera says that the money has been made by the organization.
-
-"They suggest that they want to protect the environment. While suggesting, clients have mislead people, hundreds of thousands of assistance. We have not accepted any one to paint the fall or clean the Sri Leader. All of them need to get permission to take permission if it should be allowed. No one will do without permission. Do not make the work of the above flower. "
-
-Ven
-
-However, the organization has stated that the organization has noted a note in the face or organization.
-
-We reject the Group of Hatton Nallutunnewa road, which is named after the "Samanala Money", who is not permission to be done without permission from the public sector.. We see that the leader of the monks have been condemned and blamed by another group of people.
-
-...
-
-[Data](articles/e1860513.json)
-
-[Extended Data](ext_articles/e1860513.ext.json)
-
----
-
-### Fair weather prevails across most areas; morning mist expected
-
-*2024-12-04 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103977/fair-weather-prevails-across-most-areas-morning-mist-expected) · `en`
-
-The Department of Meteorology says that several spells of showers will occur in Northern and Eastern provinces today (04).
-
-Showers  or  thundershowers  may  occur  at  a few  places  in  Central, North-western,  North-central and Uva provinces during the evening or night, it added.
-
-Meanwhile, mainly fair weather will prevail elsewhere, while misty conditions can be expected in most places of the island during the morning, according to the department.
-
-The sea areas around the island will be slight, the Met. Department added.
-
-◼️
-
-[Data](articles/00afe0b6.json)
-
-[Extended Data](ext_articles/00afe0b6.ext.json)
-
----
-
-### 2024 A/L exam resumes
-
-*2024-12-04 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103976/2024-al-exam-resumes) · `en`
-
-The 2024 G.C.E. Advanced Level examination which was temporarily suspended due to recent adverse weather conditions recommences today (Dec. 04).
-
-The 2024 A/L examination commenced on November 25, and was later suspended temporarily on November 27 due to extreme weather conditions that affected the communities across the island.
-
-Accordingly, the Department of Examinations said that the exam will recommence tomorrow and will continue according to the usual time table that has already been provided to the students.
-
-Furthermore, the Commissioner General of Examinations Amith Jayasundara stated that the subjects which were scheduled to be held on the dates, in which the exam had been suspended, will be held in the upcoming days.
-
-The new time table related to the said dates will be provided to the students at the examination centres on Saturday (Dec. 07), Jayasundara added.
-
-...
-
-[Data](articles/d5e1ba16.json)
-
-[Extended Data](ext_articles/d5e1ba16.ext.json)
-
----
-
-### Exports on October
-
-*2024-12-04 07:45:48* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්තෝබරයේ-අපනයන-ඉහළට/11-413443) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Oct '24: Commodity exports $1,097.1M (+18.22% vs Oct '23). Service exports $323.17M (+19.75%). Total exports $18,420.27M (+18.57%). Export growth outperforms Sept '24 (+8.44%). Strong overall export performance."
-
-🟩
-
-In October 2024, the exports of commodities was US $ 1,097.1 million, which would increase 18.22% over October 2023.
-
-Export performance increased by 8.44% over October 2024 compared to September 2024.
-
-The estimated value of the service for October 2024 was US $ 323.17 million, increased by 19.75% more than 2023 corresponding period.
-
-As a result, 2024, the total exports, including both merchants and services for October, was $ 18,420.27 million grew by 18.57% over the corresponding period.
-
-◼️
-
-[Data](articles/9a87f00b.json)
-
-[Extended Data](ext_articles/9a87f00b.ext.json)
-
----
-
-### Suspect arrested for murder of Ahangama
-
-*2024-12-04 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204016) · `si`
-
-A suspect was arrested in Ahangama for murdering a couple whose bodies were found in a house. The incident occurred on October 4. Police officers from the Ahangama division made the arrest in Fort area after reviewing the case.
-
-🟩
-
-The suspect was arrested regarding the death of a couple of a house of a house of a house in Welhangagoda, Ahangama Police Division.
-
-The police said that the killings had occurred on October 4.
-
-Accordingly, the suspects were arrested by the Ahangama police officers in the Fort area in Fort area following the review.
-
-◼️
-
-[Data](articles/36c12e54.json)
-
-[Extended Data](ext_articles/36c12e54.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-04 15:01:34**
+As of **2024-12-04 15:14:19**
 
 ## Newspaper Stats
 
-*Scraped **58,410** Articles*
+*Scraped **58,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,506
 economynextcom | 3,546
 dailyftlk | 4,034
 dailymirrorlk | 4,733
-adalk | 5,530
+adalk | 5,531
 adaderanalk | 7,090
 tamilmirrorlk | 8,316
 virakesarilk | 9,556
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,409 (100.0%) of 58,410 articles have been extended.
+58,409 (100.0%) of 58,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -383,6 +383,24 @@ Responding to a question raised by Batticaloa district council member Rasamanika
 [Data](articles/552654f7.json)
 
 [Extended Data](ext_articles/552654f7.ext.json)
+
+---
+
+### ජීවිත අවදානමක සිටින තවත් ඇතෙක්
+
+*2024-12-04 11:29:29* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-අවදානමක-සිටින-තවත්-ඇතෙක්/11-413447) · `si`
+
+විදුලිසැර වැදීමකට ලක්වීමේ දැඩි අවධානමකට ලක්ව ඇති තවත් දළ ඇතකු සම්බන්ධයෙන් මහඉලුප්පල්ලම ප්‍රෙද්ශයේන් වාර්ථාවේ.
+
+හොදින් වැඩුනු දළ යුගලයක් සහිත මෙම දළ ඇතා මහ ඉලුප්පල්ලම හා ඒ අවට ගම්මානවල නිවාස ගෙවතු හා ගොවිබිම් ආශ්‍රිතව මේ දිනවල නිරන්තරයෙන් රාත්‍රී කාලයේ සැරිසරණ බව එම ප්‍රෙද්ශවාසීහු පවසති.
+
+මහඉලුප්පල්ලම ඇතුලු අවට ප්‍රෙද්ශවලට මේ දිනවල පවතින උග්‍ර වන අලි තර්ජනය හේතුකොට ගෙන සිය වගාවන් හා ජිවිත වන අලින්ගෙන් ආරක්ෂාකර ගැනීම වෙනුවෙන් ප්‍රෙද්ශවාසීන් ඉදිකර ඇති පුද්ගලික විදුලි වැටවල් ද බහුල වශයෙන් එම ප්‍රෙද්ශයේ දක්නට ලැබේ.
+
+මෙම ඇතා ඇතුළු වන අලි රංචු මේ දිනවල රාත්‍රී කාලයේ එම නිවාස ගෙවතු හා ගොවිබිම් වෙත කඩා පැනීම නිරන්තරයෙන් සිදු වෙන බව ගම්වාසීහු පවසති.
+
+...
+
+[Data](articles/61d48e00.json)
 
 ---
 
@@ -2431,23 +2449,5 @@ Facilitated by the renowned HR expert, C. Hewapattini, Chartered Fellow CIPM, th
 [Data](articles/8fe7e696.json)
 
 [Extended Data](ext_articles/8fe7e696.ext.json)
-
----
-
-### Manufacturing sector counters feed bullish trend in bourse
-
-*2024-12-03 20:10:00* · [`islandlk`](http://island.lk/manufacturing-sector-counters-feed-bullish-trend-in-bourse/) · `en`
-
-Manufacturing sector counters dominated the stock market yesterday, especially Dipped Products and ACL Cables. Consequently, market activities were bullish throughout the day, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 126.97 points while S and P SL20 rose by 39.3 points. Turnover stood at Rs 3.2 billion with six crossings.
-
-Those crossings were reported in Agarapathana Plantations, where 10 million shares crossed to the tune of Rs 90 million; its shares traded at Rs 9, HNB 362,000 shares crossed for Rs 85.2 million; its shares traded at Rs 235, Keells Hotels 1.5 million shares crossed for Rs 28.5 million; its shares sold at Rs 18, Vallibel One 500,000 shares crossed for Rs 27.7 million; its shares traded at Rs 55.5, Dipped Products 605,000 shares crossed for Rs 27.5 million; its shares traded at Rs 45.50 and CIC Holdings 250,000 shares crossed to the tune of Rs 20 million; its shares traded at Rs 80.
-
-...
-
-[Data](articles/1b0afde6.json)
-
-[Extended Data](ext_articles/1b0afde6.ext.json)
 
 ---

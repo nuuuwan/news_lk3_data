@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 05:27:21**
+As of **2024-12-05 05:51:29**
 
 ## Newspaper Stats
 
-*Scraped **58,532** Articles*
+*Scraped **58,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 595
 bbccomsinhala | 611
-islandlk | 3,506
+islandlk | 3,518
 economynextcom | 3,558
 dailyftlk | 4,047
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,531 (100.0%) of 58,532 articles have been extended.
+58,532 (100.0%) of 58,544 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -166,21 +166,29 @@ At the request of the Sri Lankan Tamil Nadu, the President of the Tamil National
 
 ---
 
-### ’மலையக மக்களின் பிரச்சினைகளுக்கு தீர்வு’
+### The solution to the problems of the hill people
 
 *2024-12-05 02:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களின்-பிரச்சினைகளுக்கு-தீர்வு/175-348260) · `ta`
 
-மலையக மக்கள் 75 வருடங்களாக எதிர்நோக்கும்   அனைத்து முக்கிய பிரச்சினைகளுக்கும் தீர்வு பெற்றுக் கொடுக்க தேசிய மக்கள் சக்தி அரசாங்கம் வேலைத் திட்டங்களை முன்னெடுக்கும் என அக் கட்சியின் பதுளை மாவட்ட எம் பி.யான  அம்பிகா சாமுவேல்  தெரிவித்தார்.
+National People's Power Government addresses hill people issues: land, housing, salaries, education, healthcare. Focuses on poverty eradication, recognition as Sri Lankan Tamils, improving education and addressing soil erosion.
 
-பாராளுமன்றத்தில் புதன்கிழமை (04) இடம் பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்த அவர்  மேலும் பேசுகையில்,
+🟩
 
-காணிப் பிரச்சினை, வீட்டுப் பிரச்சினை, சம்பளப் பிரச்சினை என பல்வேறு பிரச்சினைகள் தொடர்கின்ற நிலையில் அவற்றுக்குத் தீர்வு காண்பதற்கான வேலைத்திட்டங்களை தேசிய மக்கள் சக்தி அரசாங்கம் கொள்கைப் பிரகடனத்தில் உள்ளடக்கியுள்ளது
+Ambika Samuel, Badulla district MP, Badulla district, said that the National People's Power Government will carry out programs to address all the major issues facing the upland people for 75 years.
 
-மலையகத்தின் பதுளை மாவட்டத்திலிருந்து பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டுள்ள முதலாவது தமிழ் பெண் உறுப்பினர் என்ற வகையில் நான் மகிழ்ச்சியடைகின்றேன். அதற்காக பதுளை மாவட்ட மக்களுக்கு நான் நன்றி தெரிவித்துக் கொள்கின்றேன் .
+He further stated that he was speaking at the second day of debate on the President's Declaration of Policy on Wednesday (04) in Parliament.
+
+The National People's Energy Government Policy Declaration includes programs to address the issue, such as land issue, housing and salary issue.
+
+I am happy to be the first Tamil woman member to be elected to Parliament from the Badulla district of the hill country.. I thank the people of Badulla district for that.
+
+In the last parliamentary election, the National People's Power in the last parliamentary election was the support of the people of the North, the East and the East.. It should be noted that such a choice is also in the hill country. The party also chose a man with an alternative to give the rights to the disabled.
 
 ...
 
 [Data](articles/0b276097.json)
+
+[Extended Data](ext_articles/0b276097.ext.json)
 
 ---
 
@@ -752,6 +760,20 @@ Equipped with advanced technologies, the Experience Centre offers interactive pr
 
 ---
 
+### A safe, supportive, caring and confidential space for men
+
+*2024-12-04 23:18:00* · [`islandlk`](http://island.lk/a-safe-supportive-caring-and-confidential-space-for-men/) · `en`
+
+Many men often struggle to connect with their emotions, and unlike women, seldom have access to ‘safe’ spaces where they can freely express what’s truly going on inside. A ‘safe space’ is a trusted environment devoid of judgments, for people to be themselves without fear of rejection or ridicule. A place with freedom, to share thoughts, ideas, feelings and experiences, to unlock inhibitions and grow. A place of encouragement, acknowledgement and genuine support to explore who you really are.
+
+To address the stigma surrounding men’s mental health and encourage open discussions about it, including toxic masculinity and ego.
+
+...
+
+[Data](articles/b9fb0ee5.json)
+
+---
+
 ### What did the President say about the Terrorism Act?
 
 *2024-12-04 23:09:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தடைச்சட்டம்-குறித்து-ஜனாதிபதி-கூறியது-என்ன/175-348254) · `ta`
@@ -808,6 +830,46 @@ According to police reports, 244 commemoration events were held in the north, wi
 
 ---
 
+### HNB General Insurance and Commercial Bank enter strategic bancassurance partnership
+
+*2024-12-04 22:57:00* · [`islandlk`](http://island.lk/hnb-general-insurance-and-commercial-bank-enter-strategic-bancassurance-partnership/) · `en`
+
+HNB General Insurance (HNBGI) recently entered into a bancassurance partnership with Commercial Bank of Ceylon PLC, one of Sri Lanka’s largest and most reputed private banks. This strategic partnership marks a milestone in their shared mission to provide innovative, customer-centric insurance solutions.
+
+The partnership was formalized by Sanath Manatunge, Managing Director / Chief Executive Officer of Commercial Bank, and Sithumina Jayasundara, CEO of HNB General Insurance, during a ceremonial signing. This strategic partnership alliance leverages the strengths of both institutions to deliver unparalleled convenience and tailored insurance options for their customers.
+
+...
+
+[Data](articles/cd0c291f.json)
+
+---
+
+### A quarter century of progress: Raffles’ story of resilience and innovation
+
+*2024-12-04 22:56:00* · [`islandlk`](http://island.lk/a-quarter-century-of-progress-raffles-story-of-resilience-and-innovation/) · `en`
+
+Raffles Consolidated (Pvt) Ltd, a leading name in Sri Lanka’s hospitality industry, celebrated its 25th anniversary on December 1, 2024. To mark this momentous occasion, the company revealed a number of significant plans made to usher in a new era of growth in the coming years.
+
+...
+
+[Data](articles/6be480e8.json)
+
+---
+
+### Sri Lanka–Bangladesh Business Council holds 1st Annual General Meeting
+
+*2024-12-04 22:55:00* · [`islandlk`](http://island.lk/sri-lanka-bangladesh-business-council-holds-1st-annual-general-meeting/) · `en`
+
+The Sri Lanka–Bangladesh Business Council (SLBBC) of The Ceylon Chamber of Commerce held its 1st Annual General Meeting (AGM) on November 28, 2024, at the Hilton Colombo Residence. Dr. Asanka Ratnayake, a seasoned business leader, was re-elected as President of the Council for the 2024/2025 term.
+
+Andalib Elias, High Commissioner of Bangladesh to Sri Lanka, graced the event as the Chief Guest. In his address, High Commissioner Elias shared insightful perspectives on Bangladesh’s current political and economic landscape, emphasising opportunities for deeper collaboration between the two nations. He also highlighted the recent progress in Bangladesh under its interim government and outlined avenues for trade, investment, and tourism.
+
+...
+
+[Data](articles/36c1b2df.json)
+
+---
+
 ### ITAK MPs reveal to the President's request
 
 *2024-12-04 22:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204047) · `si`
@@ -835,6 +897,34 @@ The president told us that it could be discussed at length in the future. Also, 
 [Data](articles/c206c563.json)
 
 [Extended Data](ext_articles/c206c563.ext.json)
+
+---
+
+### ComBank ranked Strongest Bank in Sri Lanka in TAB Global 1000 strength index 2024
+
+*2024-12-04 22:54:00* · [`islandlk`](http://island.lk/combank-ranked-strongest-bank-in-sri-lanka-in-tab-global-1000-strength-index-2024/) · `en`
+
+The Commercial Bank of Ceylon has once again been assessed as the ‘Strongest Bank in Sri Lanka,’ taking its place in a prestigious global ranking published annually by TAB Insights, the global research and consulting subsidiary of TAB Global, the parent company of The Asian Banker magazine.
+
+The Strongest Banks rankings are based on a detailed and transparent scorecard that ranks banks and financial holding companies on six criteria of balance sheet performance – the ability to scale, balance sheet growth, risk profile, profitability, asset quality and liquidity, covered by 14 specific key performance indicators.
+
+...
+
+[Data](articles/230a6598.json)
+
+---
+
+### MMBL-Pathfinder partners with HCLTech to accelerate technology talent development in Sri Lanka
+
+*2024-12-04 22:53:00* · [`islandlk`](http://island.lk/mmbl-pathfinder-partners-with-hcltech-to-accelerate-technology-talent-development-in-sri-lanka/) · `en`
+
+MMBL-Pathfinder Group has entered into a strategic partnership with HCLTech, a leading global technology company, to introduce innovative IT training programs in Sri Lanka. This collaboration is set to be a game-changer, with the newly established Pathfinder EdTech Institute at its core, aimed at creating a skilled workforce ready for the digital age.
+
+Central to this partnership is the HCLTech Career Shaper™ platform, designed to seamlessly connect academic learning with industry requirements. By incorporating HCLTech’s acclaimed training methods, expertly curated curriculum and state-of-the-art tech tools, this initiative promises to equip individuals with practical, job-ready skills.
+
+...
+
+[Data](articles/77951dcf.json)
 
 ---
 
@@ -2371,145 +2461,5 @@ Attorney-at-Law, Nawan Marapana, who appeared in the courts before November 30 w
 [Data](articles/448f4d8e.json)
 
 [Extended Data](ext_articles/448f4d8e.ext.json)
-
----
-
-### Excise officers raid popular casino in Kollupitiya
-
-*2024-12-04 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103992/excise-officers-raid-popular-casino-in-kollupitiya) · `en`
-
-The officials of the Excise Department have conducted a raid at a well-known casino located in the Kollupitiya area, for allegedly illegally maintaining liquor counters.
-
-The raid was carried out based on a tip-off received by the Commissioner General of Excise.
-
-During the operation, around 100 bottles of illegally imported foreign liquor, valued at over Rs. 2.5 million, were also discovered.
-
-The casino was found to be operating multiple liquor counters across its five floors, issuing free alcohol to its members.
-
-The Excise Department says that the casino’s liquor license permits only a single counter, and the additional operations are causing significant tax losses to the country.
-
-The raid was carried out under the direction of the Commissioner General of Excise, with support from both the head office and the Excise Department’s Colombo City Office.
-
-◼️
-
-[Data](articles/c645cb1d.json)
-
-[Extended Data](ext_articles/c645cb1d.ext.json)
-
----
-
-### Proper evaluation of projects implemented in International Organization Health Service
-
-*2024-12-04 16:04:53* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-සංවිධාන-සෞඛ්‍ය-සේවාවේ-ක්‍රියාත්මක-කරන-ව්‍යාපෘති-නිසි-ඇගයීමකට/11-413451) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's Health Ministry collaborates with WHO to enhance healthcare technology and facilities. Projects aim to improve public health, cultural, and scientific sectors. WHO representative emphasizes ongoing cooperation and commitment to establishing a regular operational mechanism.
-
-🟩
-
-Due to proper international organizations, including the World Health Organization in Sri Lanka, is being prepared to prepare a plan to develop more effective technology, providing more effective facilities to provide more effective technology using extensive facilities.Says Jayatissa.
-
-The Minister of Health was revealed by the Minister of Health Dr. Nalinda Jayatissa and the Sri Lankan Representative of the World Health Organization.
-
-The Health Minister has said that the Health Health Organization, the World Health Organization, such as the World Health Organization, World Health Organization, such as the World Health Organization, UNICEF, have already been conducting the health of the people's health care, cultural and scientific segment is aimed at the progress of the country.It is said that many have already been agreed to continue the projects implemented in the country's health care system.
-
-...
-
-[Data](articles/eab938a0.json)
-
-[Extended Data](ext_articles/eab938a0.ext.json)
-
----
-
-### Hirunika acquitted from contempt of court charges
-
-*2024-12-04 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103991/hirunika-acquitted-from-contempt-of-court-charges) · `en`
-
-After concluding the hearing of the petition filed against former Member of Parliament Hirunika Premachandra accusing her of contempt of court, the Appeals Court today ordered to acquit her of those charges.
-
-This order was issued today (04) after Hirunika Premachandra, through her lawyer, made an undertaking to the court that she will withdraw the statement that she had made at a press conference regarding an order issued by the Mount Lavinia Magistrate’s Court and that she would refrain from making similar statements in the future.
-
-The petition was called before the Appellate Court bench consisting of Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran.
-
-◼️
-
-[Data](articles/dbea69c5.json)
-
-[Extended Data](ext_articles/dbea69c5.ext.json)
-
----
-
-### Sri Lanka sells Rs192.5bn in treasury bills, 6-month yield down
-
-*2024-12-04 16:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs192-5bn-in-treasury-bills-6-month-yield-down-192112/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were steady across the short term and long term maturities at Wednesday’s auction, with all offered 192.5 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield held steady at 8.73 percent, with all offered 58.5 billion rupees of bills sold.
-
-The 6-month yield was down 3 basis points at 8.94 percent, with 67 billion offered 85.9 billion rupees of bills sold.
-
-The 12-month bills held steady at 9.08 percent, with 67 billion offered and 48 billion rupees of bills sold.
-
-The three month and one year maturities were offered on tap after the auction. (Colombo/Dec4/2024)
-
-◼️
-
-[Data](articles/b1f5d974.json)
-
-[Extended Data](ext_articles/b1f5d974.ext.json)
-
----
-
-### Resolved Minister Solves Problem
-
-*2024-12-04 15:52:28* · [`adalk`](https://www.ada.lk/breaking_news/හාල්--පොල්-ගැටලුවට-විසඳුම්-ඇමති-කියයි/11-413450) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Government distributes 1 million coconuts via Sathosa within 2 weeks to address price crisis. Coconut price set at Rs. 130 per kilo. State-owned estates to sell coconut products at lower costs. Rice release details pending.
-
-🟩
-
-The Government has decided to distribute a million coconut prices through Sathosa within the next two weeks as a solution to the coconut price crisis in the country.
-
-Accordingly, Minister Wasantha Samarasinghe said that the Sathosantha today (04) is awarded to Sathosa at Rs. 130.
-
-The coconut products in the government's estates are to be sold at low cost.
-
-Meanwhile, he has agreed to release the rice to the market at Rs.
-
-◼️
-
-[Data](articles/8b961989.json)
-
-[Extended Data](ext_articles/8b961989.ext.json)
-
----
-
-### Report from stock market
-
-*2024-12-04 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204031) · `si`
-
-Colombo Stock Exchange ASPI records highest value ever today. Index increases by 171.69 units to 13,511.73 points, surpassing previous record of 13,462.4.
-
-🟩
-
-The highest value of the history of the Colombo Stock Exchange (ASPI) recorded the highest value in history today (04).
-
-Accordingly, at the end of transactions, all stock price index value increased by 171.69 units and 13,511.73 points.
-
-It is exceeding the limit of 13,462.4 all the highest share price index value in history.
-
-◼️
-
-[Data](articles/1a6efd21.json)
-
-[Extended Data](ext_articles/1a6efd21.ext.json)
 
 ---

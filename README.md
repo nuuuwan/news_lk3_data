@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 14:28:58**
+As of **2024-12-05 14:16:56**
 
 ## Newspaper Stats
 
-*Scraped **58,624** Articles*
+*Scraped **58,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,19 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,554
 adaderanalk | 7,120
-tamilmirrorlk | 8,350
-virakesarilk | 9,598
+tamilmirrorlk | 8,349
+virakesarilk | 9,597
 adaderanasinhalalk | 10,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,606 (100.0%) of 58,624 articles have been extended.
+58,606 (100.0%) of 58,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
-
-### சுரங்கத்தில் இருந்து ஆணின் சடலம் மீட்பு
-
-*2024-12-05 14:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுரங்கத்தில்-இருந்து-ஆணின்-சடலம்-மீட்பு/76-348281) · `ta`
-
-தெமோதர புகையிரத நிலையத்திற்கு அருகில் உள்ள 42வது சுரங்கத்தில் இருந்து வியாழக்கிழமை (05) காலை சடலமொன்று மீட்கப்பட்டதாக எல்ல பொலிஸார் தெரிவித்தனர்.
-
-தெமோதர ரயில் நிலையத்தின் கண்காணிப்பு பிரிவினர், சடலத்தை கண்டதும், ரயில் நிலைய அதிபருக்குத் தகவல் தெரிவித்தனர்.
-
-உயிரிழந்தவர் தெமோதர தொழிற்சாலைத் பிரிவைச் சேர்ந்த ராமகிருஸ்ணன் கிருஷ்ணகுமார் (வயது 27) என அடையாளம் காணப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-புதன்கிழமை (04) இரவு அவர் வீட்டில் இல்லை என பிரதேசவாசிகள் பொலிஸாரிடம் தெரிவித்துள்ளனர். மரணத்திற்கான காரணம் இதுவரை வெளியாகவில்லை என்பதுடன் எல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/d11bf81e.json)
-
----
-
-### மாலம்பேயில் ஹெரோயின், 4 இலட்சம் ரூபா பணத்துடன் ஒருவர் கைது
-
-*2024-12-05 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200481) · `ta`
-
-மாலம்பே பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் நபர் ஒருவர் நேற்று புதன்கிழமை (04) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-மாலம்பே பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட நபரிடமிருந்து 13 கிராம் 320 மில்லிகிராம் ஹெரோயின் மற்றும் போதைப்பொருள் கடத்தல் மூலம் சம்பாதிக்கப்பட்ட 436,770 ரூபா பணம் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/07972988.json)
-
----
 
 ### ஹந்தானையில் வழி தவறிய 10 மாணவர்கள் மீட்பு
 
@@ -2431,5 +2397,61 @@ It was in this context that the people of the country formed the power -led gove
 [Data](articles/29322a98.json)
 
 [Extended Data](ext_articles/29322a98.ext.json)
+
+---
+
+### The Terrorism Act will be lifted and the new law will be introduced
+
+*2024-12-05 00:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200424) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New anti-terrorism law to replace Terrorism Act. Government vows to combat racism and religious extremism. Plans to introduce bills for asset recovery and criminal justice reform. Emphasizes rule of law and investor confidence.
+
+🟩
+
+The Terrorism Act is a law to be abolished. We accept. Our plan is to set up an anti -terrorism law in accordance with international law programs. So, until this law is allowed, the country has to take action to suppress racism and religiousism in the country.. Minister of Justice and National Integration Harshana Nanayakkara said that steps will be taken to submit three new Bill of Parliament on the recovery of stolen assets in the first quarter of the next year.
+
+He was speaking on the second day of debate on the President's policy speech held in Parliament on Wednesday (03).
+
+We will defend and fulfill the promises we made to the people and the issues made by the Presidential Council in the Declaration of the President.
+
+The main expectation of the people is to ensure the rule of law and establish law against fraudsters who destroyed the country's resources. We make the promise to the people that we will do these two matters.
+
+...
+
+[Data](articles/57e1ea88.json)
+
+[Extended Data](ext_articles/57e1ea88.ext.json)
+
+---
+
+### Activists of the cylinder symbol - the Minister of Public Safety
+
+*2024-12-05 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200422) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Activists distort Heroes Day observations on social media, creating conflicts between North and South. Minister Ananda Wijepala warns against misinformation, emphasizes media freedom while protecting national integrity. Police action taken against LTTE symbol usage and false reporting.
+
+🟩
+
+Two of the new Democratic Front activists who have uploaded photos and videos on social networks to deliberately distort the Heroes Day observations in the North and East and create conflicts between the North and South.. The government does not need to suppress the media. Minister of Public Security and Parliamentary Affairs Ananda Wijepala said that everyone should remember that one's rights should not be a disruption to another.
+
+He was speaking at a special statement during a session held in Parliament on Wednesday (04).
+
+I expect to announce the reasons for the arrests and the reasons that have taken place over the past two weeks.
+
+The national people's power was received against racism. All ethnic groups have received a decree for national people's power to ensure national integrity. So we will act against racism and religion.
+
+...
+
+[Data](articles/ee300e12.json)
+
+[Extended Data](ext_articles/ee300e12.ext.json)
 
 ---

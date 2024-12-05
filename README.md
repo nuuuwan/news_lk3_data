@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 10:42:41**
+As of **2024-12-05 10:16:14**
 
 ## Newspaper Stats
 
-*Scraped **58,579** Articles*
+*Scraped **58,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,139 +16,33 @@ islandlk | 3,518
 economynextcom | 3,558
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,549
-adaderanalk | 7,112
+adalk | 5,548
+adaderanalk | 7,110
 tamilmirrorlk | 8,338
-virakesarilk | 9,591
-adaderanasinhalalk | 10,118
+virakesarilk | 9,589
+adaderanasinhalalk | 10,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,563 (100.0%) of 58,579 articles have been extended.
+58,558 (100.0%) of 58,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### The debate on the interim account begins
-
-*2024-12-05 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204058) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Interim Standard Account presented to Parliament. Aims to maintain government functions and loan services for first four months of 2025. Minister Anil Jayantha Fernando disclosed details about the interim account.
-
-🟩
-
-The Interim Standard Account has been presented to Parliament today (05) to continue government functions and loan services for the first four months of 2025.
-
-Minister Anil Jayantha Fernando, Minister Anil Jayantha Fernando, revealed the information on the interim account.
-
-◼️
-
-[Data](articles/38daf2db.json)
-
-[Extended Data](ext_articles/38daf2db.ext.json)
-
----
-
-### A audit of electrical vehicles issued to foreign workers
-
-*2024-12-05 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204057) · `si`
-
-Audit of electric vehicles for foreign workers concludes. Report to be presented to Parliament today. Review focuses on implementation from January 1, 2023 to September 15, 2023.
-
-🟩
-
-A special audit has made a special audit regarding the proposals implemented to import full electrical vehicles.
-
-Speaker Ashoka Ranwala said that the report will be presented to Parliament today (05).
-
-The audit has been carried out regarding the proposal which was implemented through the proposal of 2023 to September 15, 2023 to September 15, 2023.
-
-◼️
-
-[Data](articles/3cff0a96.json)
-
-[Extended Data](ext_articles/3cff0a96.ext.json)
-
----
-
-### The French government collapsed in three months
+### மூன்றே மாதத்தில் கவிழ்ந்தது பிரான்ஸ் அரசு
 
 *2024-12-05 10:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மூன்றே-மாதத்தில்-கவிழ்ந்தது-பிரான்ஸ்-அரசு/50-348265) · `ta`
 
-French government collapses after 3 months. No-confidence vote ousts PM Michel Barnier. First time in 60 years a French PM loses office so quickly. Macron's party wins parliamentary election but rules as minority. Opposition fierce against 2025 Social Security Budget. PM resigns after losing vote, opposition demands Chancellor's resignation.
+பிரான்ஸ் பாராளுமன்றத்தில் அரசுக்கு எதிராகக் கொண்டுவரப்பட்ட நம்பிக்கையில்லா தீர்மானம் வெற்றி பெற்றது. இதனால், பிரதமரான மூன்றே மாதத்தில் பதவியை இழந்தார் மிஷேல் பார்னியர். பிரான்ஸ் வரலாற்றில் 60 ஆண்டுகளில் முதல் முறையாக ஒரு பிரதமரின் ஆட்சி கவிழ்க்கப்பட்டுள்ளது குறிப்பிடத்தக்கது. மேலும், பார்னியர் 91 நாட்கள் மட்டுமே பிரதமராக இருந்துள்ளார். அந்நாட்டின் அரசியல் வரலாற்றில் இத்தகைய குறுகிய காலத்தில் பிரதமர் பதவியை இழந்தவராக மிஷேல் பார்னியர் அறியப்படுகிறார்.
 
-🟩
-
-The no -confidence motion brought against the state in the France Parliament won. Thus, Michelle Barnier lost his post in three months as prime minister. It is worth noting that a Prime Minister's rule has been toppled for the first time in 60 years in France's history. Also, Bornier has been the Prime Minister only 91 days. Michelle Barnier is known as the Prime Minister in such a short time in the political history of the country.
-
-The parliamentary elections were held in France a few months ago. Chancellor Emmanuel Macron held an early election for parliament.
+பிரான்ஸ் நாட்டில் கடந்த சில மாதங்களுக்கு முன்னர் பாராளுமன்றத் தேர்தல் நடைபெற்றது. அதிபர் இம்மானுவேல் மேக்ரான், பாராளுமன்றத்துக்கு முன்கூட்டியே தேர்தலை நடத்தினார்.
 
 ...
 
 [Data](articles/cd965147.json)
-
-[Extended Data](ext_articles/cd965147.ext.json)
-
----
-
-### Revised terms of IMF agreement to be included in upcoming Budget
-
-*2024-12-05 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104010/revised-terms-of-imf-agreement-to-be-included-in-upcoming-budget) · `en`
-
-The Leader of the House Minister Bimal Rathnayake stated that the revised terms of the agreement reached with the International Monetary Fund (IMF) will be included in the upcoming Budget.
-
-Rathnayake made these comments during the debate in parliament on the government’s policy statement.
-
-“We said that we will have to work within the framework of the International Monetary Fund in the next three years. Within that, we hope to make revisions. Yes, we have made revisions. We have discussed with them and presented the revisions. The people of the country will know those revised terms through the Budget,” he explained.
-
-Addressing claims made by former president Ranil Wickremesinghe, who said that the government had lied about reducing VAT, Rathnayake mentioned that VAT would indeed be lowered and he further explained that any reduction in taxes can only be implemented through a parliamentary bill.
-
-...
-
-[Data](articles/aaa87425.json)
-
----
-
-### SLPP’s Administrative Secretary Renuka Perera arrested
-
-*2024-12-05 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104009/slpps-administrative-secretary-renuka-perera-arrested-) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Administrative Secretary Renuka Perera has been arrested by the Criminal Investigation Department (CID) for allegedly posting false information on ‘Mahaviru’ commemorations in the North through social media, police said.
-
-◼️
-
-[Data](articles/bdac64f4.json)
-
----
-
-### Governing Secretary arrested in Poight
-
-*2024-12-05 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204056) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Governor's aide arrested in Poight: CID detains official linked to social media posts during Mahaviru celebrations."
-
-🟩
-
-The Criminal Investigations Department (CID) has been arrested by the CID.
-
-He was arrested in connection with the social media in the North 'Mahaviru' celebrations.
-
-◼️
-
-[Data](articles/5b249767.json)
-
-[Extended Data](ext_articles/5b249767.ext.json)
 
 ---
 
@@ -178,52 +72,6 @@ You must lodge a complaint at the police station, as the people are using the na
 
 ---
 
-### Over 1000 leprosy patients over the first 10 months of this year
-
-*2024-12-05 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204055) · `si`
-
-Over 1000 leprosy cases identified in first 10 months of the year, mostly in Colombo district. Leprosy affects about 68% of those diagnosed. Experts warn against unnecessary antibiotic use.
-
-🟩
-
-More than a thousand leprosy patients have been identified in the first 10 months of this year, the Leather Control Movement says.
-
-Director of the Director Dr. Namawa Palletta said that 1,084 persons have been identified during that period.
-
-It is said that about 68 percent of them could bother.
-
-Most of the identified lepers have been reported from the Colombo district and 115 is 115.
-
-According to the Director of the Ladawan Palletta, the Director of the Ladawan Palletta said that about 1,500 leprosy patients have been identified in the country.
-
-Meanwhile, the Deputy Director General of the Laboratory Services Dr. Priyantha Atapattuttu, Deputy Director General of Laboratory Services should be abstain from using antibiotics.
-
-Addressing a media bureau called at the Health Services Promotion Bureau, he said that the use of antibiotics would not be responding to healthy.
-
-◼️
-
-[Data](articles/7cd499ed.json)
-
-[Extended Data](ext_articles/7cd499ed.ext.json)
-
----
-
-### தமிழ் மக்களுக்கான அதிகாரப்பகிர்வை ஏற்குமா அநுர அரசு ?  - சுரேஷ் பிரேமச்சந்திரன் கேள்வி
-
-*2024-12-05 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200464) · `ta`
-
-மாகாண சபைகள் சம்பந்தமாக ஜனாதிபதி அநுரகுமார தெரிவிக்கும் கருத்துக்களும் அவரது கட்சியினர் கூறும் கருத்துக்களும் முரண்படுகின்றதோடு தமிழ் மக்களுக்கான அதிகாரப்பகிர்வினை அரசாங்கம் ஏற்றுக்கொண்டுள்ளதா  என்பதை பகிரங்கப்படுத்த வேண்டும் என்று ஈழமக்கள் புரட்சிகர விடுதலை முன்னணியின் தலைவரும் ஜனநாயக தமிழ் தேசிய கூட்டணியின் பேச்சாளருமான சுரேஷ் க. பிரேமச்சந்திரன் வெளியிட்டுள்ளார்.
-
-ஜே.வி.பி மற்றும் தேசிய மக்கள் சக்தியினர் மாகாணசபை தொடர்பாக அண்மையில் வெளிப்படுத்திவரும் கருத்துகளுக்கு பதிலளிக்கும் வகையில் வெளியிட்டுள்ள ஊடக அறிக்கையிலேயே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
-
-ஜனாதிபதி தேர்தல் பிரசாரத்தின்பொழுது மாகாணசபை முறைமைகள் பாதுகாக்கப்படும் என்றும் அதற்கான தேர்தல் விரைவாக நடத்தப்படும் என்றும் அதிலுள்ள அதிகாரங்கள் முழுமையாக நடைமுறைப்படுத்தப்படும் என்றும் ஜனாதிபதியினாலும் அவருடன் இருக்கக்கூடிய ஏனைய கட்சி உறுப்பினர்களாலும் பிரசாரம் செய்யப்பட்டது.
-
-...
-
-[Data](articles/117b756c.json)
-
----
-
 ### Final decision on NDF’s National List MP seat to be announced tomorrow
 
 *2024-12-05 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104008/final-decision-on-ndfs-national-list-mp-seat-to-be-announced-tomorrow) · `en`
@@ -239,24 +87,6 @@ Meanwhile, a special meeting was held last afternoon (04) attended by former Sri
 [Data](articles/f20cc7d8.json)
 
 [Extended Data](ext_articles/f20cc7d8.ext.json)
-
----
-
-### ரஷ்ய இராணுவத்தில் வலுக்கட்டாயமாக  இணைக்கப்பட்ட உறவுகளை மீட்டுத்தாருங்கள் :  ஜனாதிபதி, பிரதமர் உள்ளிட்டோருக்கு மகஜர்
-
-*2024-12-05 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200463) · `ta`
-
-வலுக்கட்டாயமாக ரஷ்ய இராணுவத்தில் இணைக்கப்பட்டுள்ள தமது உறவுகளை உடன் மீட்டுத்தருமாறு, பாதிக்கப்பட்டவர்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க பிரதமர் ஹரிணி அமரசூரிய மற்றும் வெளிவிவகார அமைச்சர் விஜித ஹேரத் ஆகியோருக்கு மகஜர் வழங்கப்பட்டுள்ளது.
-
-அத்துடன், இலங்கை மனித உரிமைகள் ஆணைக்குழுவிலும் முறைப்பாடு செய்யப்பட்டுள்ளபோதும் ரஷ்ய தூதரகம் அவர்களின் மகஜரை பெற்றுக்கொள்வதற்கு மறுப்புத் தெரிவித்துள்ளது.
-
-பிரான்ஸ் மற்றும் பெல்ஜியம் ஆகிய நாடுகளுக்குச் செல்வதற்காக எமது உறவினர்கள் முகவர் ஊடாக பணம் செலுத்தி கடந்த மாதம் பயணமாகியிருந்தனர். அவர்களை கொழும்பு கட்டுநாயக்கவிலிருந்து ரஷ்யாவுக்கு கொண்டு செல்வதாகவும் பின்னர் அங்கிருந்து ஐரோப்பியாவுக்கு அழைத்துச் செல்வதாகவும் உறுதியளிக்கப்பட்டது.
-
-அதற்கு அமைவாக, அவர்களுக்கு 60இலட்சம் முதல் 70இலட்சம் வரையிலான பணம் வழங்கப்பட்டுள்ளது. எனினும் எமது உறவினர்கள் ரஷ்ய விமான நிலையத்தில் இருந்து ரஷ்யாவுக்குள் அழைத்துச் செல்லப்பட்டு பின்னர் அவர்களுக்கு இராணுவப்பயிற்சி அளிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/8504fc87.json)
 
 ---
 
@@ -2399,5 +2229,189 @@ The recent political transition in Sri Lanka, following the presidential and par
 [Data](articles/c6ef5c1f.json)
 
 [Extended Data](ext_articles/c6ef5c1f.ext.json)
+
+---
+
+### Sri Lanka’s ruling NPP never said to change DSA: Legislator
+
+*2024-12-04 18:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-ruling-npp-never-said-to-change-dsa-legislator-192169/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ruling Marxists-leaned National People’s Power (NPP) has never said to change the International Monetary Fund’s (IMF) Debt Sustainability Analysis (DSA) and only said it will discuss on a new DSA, Deputy Minister of Industries Chathuranga Abeysinghe told the parliament on Wednesday.
+
+Abeysinghe revealed this when opposition legislator Dayasiri Jayasekera accused the government of implementing policies contrary to what was promised before the elections.
+
+“We have clearly said in our policy document that we will put forward a new DSA for discussion and we never said that we will change the current DSA,” Abeysinghe said.
+
+The ruling NPP has been continuing most of the IMF-led economic reforms despite its members criticizing them during the election campaigns.
+
+...
+
+[Data](articles/59fbe0df.json)
+
+[Extended Data](ext_articles/59fbe0df.ext.json)
+
+---
+
+### The government policy statement was unanimously accomplished
+
+*2024-12-04 18:25:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-கொள்கை-அறிக்கை-ஏகமனதாக-நிறைவேற்றப்பட்டது/175-348248) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Government policy report unanimously approved in Parliament on Nov 21. Debate lasted two days, from 9:30 AM to 5:30 PM each day. President Anura Kumara Dissanayake presented the report.
+
+🟩
+
+The resolution on the Government Policy Report presented in Parliament on November 21 by President Anura Kumara Dissanayake was unanimously passed in Parliament without a referendum.
+
+The debate on the government policy report was held from 9.30 am to 5.30 pm and today from 9.30 am to 5.00 pm.
+
+◼️
+
+[Data](articles/9f5d1dca.json)
+
+[Extended Data](ext_articles/9f5d1dca.ext.json)
+
+---
+
+### The government's policy statement passed without a poll
+
+*2024-12-04 18:22:20* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-ප්‍රතිපත්ති-ප්‍රකාශය-ඡන්ද-විමසීමකින්-තොරව-සම්මතයි/11-413463) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Government policy statement passes unanimously in parliament without vote. President Anura Kumara Dissanayake presents on Nov 21. Debate lasts from 9:30 AM to 5:30 PM.
+
+🟩
+
+President Anura Kumara Dissanayake presented in parliament on November 21st Parliament yesterday (04) was unanimously passed without a poll.
+
+The debate on the policy statement was held at 9.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 pm to 5.30 pm to 5.30 pm to 5.30 pm to 5.30 am to 5.30 pm.
+
+◼️
+
+[Data](articles/51ab2537.json)
+
+[Extended Data](ext_articles/51ab2537.ext.json)
+
+---
+
+### W.M. Mendis’ liquor manufacturing license to be suspended
+
+*2024-12-04 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103998/wm-mendis-liquor-manufacturing-license-to-be-suspended) · `en`
+
+The liquor manufacturing license issued to W.M. Mendis & Co. Limited will be suspended from tomorrow (December 5) due to their failure to pay Rs. 5.7 billion in excise taxes and surcharges, the Excise department said.
+
+Accordingly, as per the provisions Excise Ordinance Act, the Commissioner General of Excise has ordered to suspend the liquor manufacturing license issued to W.M. Mendis & Co. Limited effective from tomorrow.
+
+The department further stated that measures have been taken to suspend the liquor manufacturing process from tomorrow (December 5) and to not renew the other licenses issued to the company from December 31 onwards if the company continues non-payment of tax arrears and surcharges.
+
+◼️
+
+[Data](articles/69125751.json)
+
+[Extended Data](ext_articles/69125751.ext.json)
+
+---
+
+### The government's policy statement passed without a poll
+
+*2024-12-04 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204039) · `si`
+
+Government's policy statement passed unanimously in Parliament without vote. Debate lasted from 9:30 AM to 5:30 PM. President Anura Kumara Dissanayake presented on November 21.
+
+🟩
+
+The proposal to the government's policy statement was unanimously passed today without a vote in Parliament today (04).
+
+The debate on the policy statement was held from 9.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 pm and 5.30 pm to 5.30 pm.
+
+President Anura Kumara Dissanayake presented the government's policy statement on November 21.
+
+◼️
+
+[Data](articles/c704995e.json)
+
+[Extended Data](ext_articles/c704995e.ext.json)
+
+---
+
+### SLAF Stalistic Leader arrested
+
+*2024-12-04 18:13:40* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බලගණ-නායකවරයෙක්-අල්ලයි/11-413462) · `si`
+
+SLAF officer arrested for drunk driving. Released on bond, failed to appear in court. Warrant issued. To be produced in court soon.
+
+🟩
+
+Narahenpita police said that the SLAF Aragnetic official was arrested in avert to the charge of driving a drunken car.
+
+The suspect was a officer from the Air Force Base of Iranamadu.
+
+The police said that he had been arrested by police and be released on a bonding in announced as Narahenpita was arrested and appeared in court while he was driving a drunk car.
+
+He has issued open warrants as the suspect officer is not appearing in court on the day of the judiciary.
+
+He was arrested last evening on the open warrant.. The suspect is due to be produced in court.
+
+◼️
+
+[Data](articles/553c40cc.json)
+
+[Extended Data](ext_articles/553c40cc.ext.json)
+
+---
+
+### Mendis suspended liquor production license
+
+*2024-12-04 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204038) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Excise Department suspends liquor production license. Action taken due to high costs. Statement from Commissioner General. Steps to prevent alcohol production and determine surcharges."
+
+🟩
+
+W. M. The Excise Department has taken steps to suspend the liquor production license.
+
+The cost of the Excise Department on alcohol production, this step is due to the Excise Department of Excise.
+
+Excise Department said in a statement. M. The Commissioner General of Excise was suspended by the Commissioner General of Excise.
+
+According to the announcement, the Excise Department will take steps to prevent alcohol production process and the determination of alcoholism and surcharges.
+
+◼️
+
+[Data](articles/fd1b40b3.json)
+
+[Extended Data](ext_articles/fd1b40b3.ext.json)
+
+---
+
+### We are dissatisfied with the cylinder - former Minister of State
+
+*2024-12-04 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200443) · `ta`
+
+Former Defense Minister Pramitha Bandara Tennakoon expresses dissatisfaction with the allocation of national list seats. He advocates for former Minister Kanjana Wijesekera to receive a seat, citing the need for young politicians to take leadership roles.
+
+🟩
+
+During the presidential election and the general election, we allied with the New Democratic Front and worked for its victory. Former Defense Minister Pramitha Bandara Tennakoon has said that it is dissatisfied with the delay in giving a national list seat on behalf of M.
+
+He further stated that he was speaking to the media after attending a meeting between former ministers and parliamentarians in Colombo on Wednesday (4).
+
+Today's meeting on how to field the upcoming elections. We are in dissatisfaction with the cylinder. One of the two seats available cannot be accepted by one who spontaneously selected. The lesson should be learned from the power of the national people in this regard.
+
+...
+
+[Data](articles/1c795763.json)
+
+[Extended Data](ext_articles/1c795763.ext.json)
 
 ---

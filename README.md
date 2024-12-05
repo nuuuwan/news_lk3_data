@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 04:15:12**
+As of **2024-12-06 04:26:36**
 
 ## Newspaper Stats
 
-*Scraped **58,722** Articles*
+*Scraped **58,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,569
 adaderanalk | 7,131
-tamilmirrorlk | 8,367
+tamilmirrorlk | 8,368
 virakesarilk | 9,625
 adaderanasinhalalk | 10,140
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,722 (100.0%) of 58,722 articles have been extended.
+58,722 (100.0%) of 58,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### ’ஆடையுடன் பயணித்தார் ரணில்: ஆடையின்றி அனுர’
+
+*2024-12-06 02:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையுடன்-பயணித்தார்-ரணில்-ஆடையின்றி-அனுர/175-348331) · `ta`
+
+அப்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆடையுடன் தொங்கு பாலத்தில் பயணித்தார் . தற்போதைய ஜனாதிபதி  ஆடையில்லாமல் தொங்கு பாலத்தில் பயணிக்கின்றார் இதுதான் இவர்களின் மாற்றம்  என தெரிவித்த  ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான  கபீர் ஹாசிம்,    வணிக கடன் தொடர்பான ஒப்பந்தத்தில் அரசாங்கம்  ஆடை அணிந்து  கொண்டா  கைச்சாத்திட போகிறது எனவும் கேள்வி எழுப்பினார்
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (05)  இடம்பெற்ற கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி மெழுப்பிய  அவர் மேலும் உரையாற்றுகையில்,
+
+தேசிய மக்கள் சக்தி சார்பில் இம்முறை பாராளுமன்றத்துக்கு பெருமளவிலான கலாநிதிகள், பேராசிரியர்கள், பட்டதாரிகள்  மற்றும் தொழிற்றுறை நிபுணர்கள் தெரிவு  செய்யப்பட்டுள்ளார்கள். இவர்கள் அனைவரும்  74 ஆண்டு கால அரசியல் கட்டமைப்பை விமர்சித்துக் கொண்டு    இலவச கல்வியின் ஊடாக பயனடைந்தவர்கள்
+
+...
+
+[Data](articles/ccca9c4e.json)
+
+---
 
 ### Investment opportunities will not be provided by the phone.
 
@@ -2515,37 +2531,5 @@ Police had found the luxury car in question during an inspection carried out bas
 [Data](articles/851d5734.json)
 
 [Extended Data](ext_articles/851d5734.ext.json)
-
----
-
-### Lohan Ratwatte and wife released on bail
-
-*2024-12-05 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204065) · `si`
-
-Lohan Ratwatte and wife released on bail, fined Rs. 25000 each. Lohan banned from foreign travel. Case related to illegal vehicle arrest.
-
-🟩
-
-Former State Minister Lohan Ratwatte and his wife Rashi Prabh Ratwatte released on bail today (05).
-
-The suspects were produced before the Nugegoda Magistrate's Court.
-
-Accordingly, both have been sentenced to Rs. 25,000 each and one bail of Rs.
-
-In addition, Lohan Ratwatte has also banned a foreign travel ban, police said.
-
-Former State Minister Lohan Ratwatte's wife Rashi Prabha Ratwatte, the wife of Rashi Prabha Ratwatte, was found recently.
-
-Investigations carried out in connection with the Sihiya police have revealed that it was an illegal vehicle.
-
-The car was charged on October 30, at the Mirihana Police, Katugastota and produced before courts.
-
-Ms. Rathi Prabha Ratwatte was also arrested in such a background and was arrested on November 4.Had ordered.
-
-◼️
-
-[Data](articles/cc21918d.json)
-
-[Extended Data](ext_articles/cc21918d.ext.json)
 
 ---

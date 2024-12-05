@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 20:15:40**
+As of **2024-12-05 20:42:37**
 
 ## Newspaper Stats
 
-*Scraped **58,681** Articles*
+*Scraped **58,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,566
 adaderanalk | 7,129
-tamilmirrorlk | 8,362
+tamilmirrorlk | 8,363
 virakesarilk | 9,609
 adaderanasinhalalk | 10,137
 
@@ -26,29 +26,67 @@ adaderanasinhalalk | 10,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,669 (100.0%) of 58,681 articles have been extended.
+58,672 (100.0%) of 58,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### මාධ්‍ය නිදහස අඩපණ කරන්න දෙන්නේ නෑ
+### Massive fire at the hotel in the fort area
+
+*2024-12-05 20:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-பகுதியில்-உள்ள-ஹோட்டலில்-பாரிய-தீ/175-348326) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Large fire at Stuart Hotel in Fort, Colombo. 12 fire trucks, 41 officers deployed. Some affected, but exact number unknown."
+
+🟩
+
+Firefighters said that the fire broke out this evening at the Stuart Hotel in Fort, Colombo.
+
+An official of the Colombo Fire Unit told the Daily Mirror that 12 fire trucks and 41 officers were sent to the scene to bring the fire under control.
+
+According to the officer, some are affected. ;However, the exact number has not yet been confirmed.
+
+◼️
+
+[Data](articles/83fdcce7.json)
+
+[Extended Data](ext_articles/83fdcce7.ext.json)
+
+---
+
+### Media freedom is not allowed
 
 *2024-12-05 19:55:06* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-නිදහස-අඩපණ-කරන්න-දෙන්නේ-නෑ/11-413491) · `si`
 
-වඩා හොඳ රාජ්‍යයක් ගොඩනඟමින් සියලු පුරවැසියන්ට මීට වඩා හොද ජීවිතයක් ලබා දීමේ කාර්යයේදී මාධ්‍ය එහි පිටස්තරයන් නොව එහිම කොටස්කරුවන් ලෙස තමා සලකන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+Here's a summary in 200 characters:
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ අද (05) ජනාධිපති කාර්යාලයේ දී විද්‍යුත් මාධ්‍ය ආයතන ප්‍රධානීන් සමඟ පැවති හමුවේදීය.
 
-ජනතාව යහපත් දේශපාලන සංස්කෘතියක් අපේක්ෂා කරන බවත්, ඒ වෙනුවෙන් ඔවුන්වත්මන් රජය පත් කර ගත් බවත් මෙහිදී සඳහන් කළ ජනාධිපතිවරයා ජනතාව අපේක්ෂා කරන එම නව දේශපාලන, සමාජ සහ ආර්ථික වෙනස රට තුළ ඇති කිරිමට එක් වන ලෙස
 
-දේශපාලන සහ ආර්ථික කරුණුවලට අදාළව ඕනෑම අවස්ථාවක ආණ්ඩුව  ප්‍රශ්න කිරීමට හෝ  විවේචනය කිරීමට මාධ්‍යයට කිසිදු බාධාවක් නොමැති වුවද ජාතික සමගියට හානිදායක වන අසත්‍ය තොරතුරු වාර්තා නොකරන ලෙස ද ජනාධිපති අනුර කුමාර
+Sri Lankan President Anura Kumara Dissanayake addresses media heads, emphasizing media freedom and combating misinformation harmful to national unity. He calls for a better political culture and economic development.
 
-රටක් ලෙස දශක ගණනාවක යුද්ධයකට අප  මුහුණ දුන් බව සිහිපත් කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා  නැවත කිසිසේත් ජාතිවාදයට ඉඩ නොතබන බව අවධාරණය කළ  අතර ජනමාධ්‍ය නිදහස කිසිඳු අයුරකින් අඩපණ කිරීමට හෝ කප්පාදු කිරීමට
+🟩
+
+President Anura Kumara Dissanayake said that he is not as part of the media, but also partners as partners in the service of all citizens to build a better state.
+
+The President was speaking at the Presidential Secretariat today (05) with the heads of electronic media institutions.
+
+The President is expected to expect a good political culture and the President is one of the new political, social and economic difference in the country.
+
+President Anura Kumara is also not able to report false information that is harmful to national unity
+
+Foreign Anura Kumara Dissanayake who remembers that we were faced by racism as a country as a country, we would never allow racism and to cut the media's freedom or pruning
+
+The President expressed the government's stand on several topics that have been discussed in the country.
 
 ...
 
 [Data](articles/9c6d60d3.json)
+
+[Extended Data](ext_articles/9c6d60d3.ext.json)
 
 ---
 
@@ -690,27 +728,39 @@ A small pile of coconut, which sold for 40 rupees to Rs 60, a few months ago, ha
 
 ---
 
-### සුරාබදු අයකර ගැනීමේ නීති පිළිබඳ ජනපතිගේ අවධානයට
+### President to pay attention to Excise Defitive Laws
 
 *2024-12-05 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204075) · `si`
 
-සුරාබදු බලපත්‍ර ලබාදීමේ දී විධිමත් ක්‍රමවේදයක් අනුගමනය කරන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා නිලධාරින්ට උපදෙස් දී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-සුරාබදු දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨ නිලධාරීන් සමග අද (05) ජනාධිපති කාර්යාලයේ පැවැති සාකච්ඡාවේදී මෙම උපදෙස් ලබා දී ඇත.
 
-තම බලය භාවිතා කරමින් නීතියට පටහැනිව කටයුතු නොකළ යුතු බවත්, සෑම විටම නීතිය ක්‍රියාත්මක කිරීම අත්‍යවශ්‍ය බවත් සුරාබදු ජ්‍යෙෂ්ඨ නිලධාරීන්ට ජනාධිපතිවරයා පවසා තිබේ.
 
-එමෙන්ම නිසි වේලාවට බදු අයකර ගැනීමට පියවර ගන්නා ලෙසත්, සුරාබදු අයකර ගැනීමේ අපහසුතා සහ එහිදී සිදුවන අක්‍රමිකතා පිළිබඳවත් මෙහිදී අවධානය යොමුකර ඇත.
+Presidential instructions: Systematic excise permit process, tax recovery focus, addressing weaknesses in tax collection, maintaining economic stability. Officials discuss product packaging, artificial damage concerns.
 
-ඒ අනුව අයවිය යුතු බදු ප්‍රමාණය අයකර ගැනීම, අසාදුගත ආයතන මෙන්ම බදු අයකර ගත නොහැකි ආයතනවල බලපත්‍ර තහනම් කිරිම වැනි නව ක්‍රමවේද පිළිබඳව දෙපාර්ශ්වය පුළුල් ලෙස සාකච්ඡා කර තිබේ.
+🟩
 
-බදු අයකර ගැනීමේදී පවතින නීති රීති ප්‍රමාණවත් නොවීම පිළිබඳවත් මෙහිදී සාකච්ඡාවට ලක්ව ඇත.
+President Anura Kumara Dissanayake has instructed the officials to follow a systematic procedure in an excise permit.
 
-ඒ අනුව බදු අයකර ගැනීමේදී මතුව ඇති ගැටලු සහ සුරාබදු නිලධාරීන් බදවා ගැනීමේ ක්‍රමවේදයේ පවතින දුර්වලතා පිළිබඳ  ජනාධිපතිවරයා සිය අවධානය යොමුකර තිබේ.
+The advice was given in a meeting held at the Presidential Secretariat today (05) with senior officers of the Excise Department.
+
+The President has told senior senior senior senior senior officials of Excise Officers using their power.
+
+It also focuses on taking steps to recover taxes on time and difficulty recovering and the disorders of excise.
+
+Accordingly, both parties have been widely discussed in new procedures, such as recovering the amount of taxes, fabulous agencies and non-tax institutions.
+
+The discussion has also been discussed in the absence of the rules of the taxes.
+
+Accordingly, the President has focused on the weaknesses in the recruitment of the issues and Excise Officers in the release of taxes.
+
+The President told the officials that the people of the Excise Department had no good attitude to officials that they should maintain the economy of the country.
 
 ...
 
 [Data](articles/816c59b6.json)
+
+[Extended Data](ext_articles/816c59b6.ext.json)
 
 ---
 
@@ -2419,25 +2469,5 @@ Addressing claims made by former president Ranil Wickremesinghe, who said that t
 [Data](articles/aaa87425.json)
 
 [Extended Data](ext_articles/aaa87425.ext.json)
-
----
-
-### SLPP’s Administrative Secretary Renuka Perera arrested
-
-*2024-12-05 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104009/slpps-administrative-secretary-renuka-perera-arrested) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Administrative Secretary Renuka Perera has been arrested by the Criminal Investigation Department (CID) for allegedly posting false information on ‘Mahaviru’ commemorations in the North through social media, police said.
-
-A team of CID officers had visited Renuka Perera’s residence this morning (05) and took him into custody after recording a statement.
-
-Police stated that the CID is conducting further investigations regarding the arrest of Renuka Perera.
-
-Meanwhile, Minister Ananda Wijepala alleged yesterday (04) that photographs from past LTTE ‘Mahaviru’ celebrations that were held in other countries had been circulated on social media, to create the impression that similar events were taking place in the Northern Province of Sri Lanka under the current administration.
-
-...
-
-[Data](articles/a3e86299.json)
-
-[Extended Data](ext_articles/a3e86299.ext.json)
 
 ---

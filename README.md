@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 19:17:31**
+As of **2024-12-05 19:03:12**
 
 ## Newspaper Stats
 
-*Scraped **58,674** Articles*
+*Scraped **58,672** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
-colombotelegraphcom | 596
+colombotelegraphcom | 595
 bbccomsinhala | 614
 islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,564
+adalk | 5,563
 adaderanalk | 7,128
 tamilmirrorlk | 8,360
 virakesarilk | 9,609
@@ -26,81 +26,61 @@ adaderanasinhalalk | 10,136
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,656 (100.0%) of 58,674 articles have been extended.
+58,653 (100.0%) of 58,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### I speak to the president about the release of 10 political prisoners;Mark Andrew Franjam Tamil National People's Front leader Gajendrakumar
+### அரசியல் கைதிகள் 10 பேரின் விடுதலை குறித்து ஜனாதிபதியுடன் பேசுகிறேன்; மார்க் அன்ட்ரூ பிரென்ஞ் தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவர் கஜேந்திரகுமாரிடம் உறுதி
 
 *2024-12-05 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200532) · `ta`
 
-Gajendrakumar Ponnambalam meets UN Resident Mark Andrew Franjam to discuss political prisoners and government reforms in Sri Lanka.
+நீண்டகாலமாக தடுப்புக்காவலில் வைக்கப்பட்டிருக்கும் அரசியல் கைதிகள் 10 பேரின் விடுதலை குறித்து ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுடன் பேசுவதாக தமிழ்த்தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலத்திடம் ஐக்கிய நாடுகள் சபையின் இலங்கைக்கான வதிவிடப்பிரதிநிதி மார்க் அன்ட்ரூ பிரென்ஞ் வாக்குறுதியளித்துள்ளார்.
 
-🟩
+தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலத்துக்கும், ஐக்கிய நாடுகள் சபையின் இலங்கைக்கான வதிவிடப்பிரதிநிதி மார்க் அன்ட்ரூ பிரென்ஞ்சுக்கும் இடையிலான சந்திப்பு  வியாழக்கிழமை (05) கொழும்பில் நடைபெற்றது.
 
-Tamil National Alliance (TNA) parliamentarian Gajendrakumar Ponnambalam has promised to speak to President Anura Kumara Dissanayake on the release of 10 political prisoners who have long been detention.
-
-The meeting between Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA) and Member of Parliament, and the United Nations Residents of Sri Lanka, Mark Andrew French, were held in Colombo on Thursday (05).
-
-At the invitation of UN Resident Mark Andrew Franjin, Resident Gajendrakumar asked Ponnambalam about the contemporary status of the country, the activities of the new government, and the government's ability to continue the country.
-
-Responding to this, Gajendrakumar said he was confident that corruption would be reduced during the new government's regime.
+ஐ.நா வதிவிடப்பிரதிநிதி மார்க் அன்ட்ரூ பிரென்ஞ்சின் அழைப்பின்பேரில் இடம்பெற்ற இச்சந்திப்பின்போது, நாட்டின் சமகால நிலைவரம், புதிய அரசாங்கத்தின் செயற்பாடுகள், நாட்டை தொடர்ந்து முன்கொண்டுசெல்வதற்கு அரசாங்கம் கொண்டிருக்கும் இயலுமை உள்ளிட்ட விடயங்கள் பற்றி வதிவிடப்பிரதிநிதி கஜேந்திரகுமார் பொன்னம்பலத்திடம் கேட்டறிந்தார்.
 
 ...
 
 [Data](articles/0999d8d5.json)
 
-[Extended Data](ext_articles/0999d8d5.ext.json)
-
 ---
 
-### Three -and -a -half -year -old child dies to take a pencil in the reservoir
+### நீர்த்தேக்கத்தில் வீழ்ந்த பென்சிலை எடுக்க  இறங்கிய மூன்றரை வயது குழந்தை மரணம்!
 
 *2024-12-05 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200531) · `ta`
 
-3.5-year-old child drowns in reservoir while trying to retrieve fallen pencil. Incident occurred in Point Pedro-Thirumalapuram, Vallipuram area. Child named Rajeevan Sujee pronounced dead upon rescue.
+நீர்த்தேக்கத்தில்  வீழ்ந்த பென்சிலை எடுக்க இறங்கிய மூன்றரை வயது குழந்தை ஒன்று உயிரிழந்துள்ளது.
 
-🟩
+குறித்த சம்பவம் பருத்தித்துறை - திருமால்புரம், வல்லிபுரம் பகுதியில் 05 ஆம் திகதி வியாழக்கிழமை பிற்பகல்  இடம்பெற்றுள்ளது. இதில் ரஜீவன் சுஜீ என்கின்ற குழந்தையே உயிரிழந்துள்ளது.
 
-A three -and -a -half -year -old child died after landing in the reservoir.
+குறித்த குழந்தை தனது கையில் பென்சில் ஒன்றுடன் சென்றுகொண்டிருந்தபோது பென்சில் தவறி நீர்தேக்கத்தில் வீழ்ந்துள்ளது.
 
-The incident took place on Thursday afternoon at Point Pedro - Thirumalapuram, Vallipuram area. In this case, the child named Rajeevan Sujee has died.
-
-The pencil fell into the water as the child was going with a pencil in her hand.
-
-The baby drowned in the water reservoir to take it. Doctors said the baby had already died while the child was rescued and taken to the Point Pedro Hospital.
+அதனை எடுப்பதற்காக குறித்த நீர்த் தேக்கத்தில் இறங்கிய வேளை குழந்தை நீரில் மூழ்கியது. குழந்தையை மீட்டு பருத்தித்துறை ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டவேளை குழந்தை ஏற்கனவே இறந்துள்ளதாக மருத்துவர்கள் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/9a932be5.json)
 
-[Extended Data](ext_articles/9a932be5.ext.json)
-
 ---
 
-### Increase in prices of big onions and coconut!
+### பெரிய வெங்காயம், தேங்காயின் விலைகள் அதிகரிப்பு!
 
 *2024-12-05 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200527) · `ta`
 
-Prices surge: Indian onions $11/kg, coconuts $5.10 each. Local onions $4-$4.50/kg. Coconut pile now $180, up from $40-$60 previously.
+ஒரு கிலோ இந்திய பெரிய வெங்காயத்தின் விலை 500 முதல் 550 ரூபா வரை அதிகரிக்கப்பட்டுள்ளதாகவும், தேங்காய் ஒன்றின் விலை 180 முதல் 230 ரூபா வரை அதிகரிக்கப்பட்டுள்ளதாகவும் பொதுமக்கள் இன்று வியாழக்கிழமை (05) தெரிவித்தனர்.
 
-🟩
+பாகிஸ்தான் பெரிய வெங்காயம் மற்றும் ஏனைய பெரிய வெங்காய வகைகளின் விலை கிலோ ஒன்றுக்கு 400 முதல் 450 ரூபா வரை உள்ளதாகவும், வெங்காயத்தின் விலை தொடர்ந்து அதிகரித்து வருவதாகவும் மக்கள் தெரிவித்தனர்.
 
-The public said on Thursday (05) that the price of one kg of Indian large onions had been increased from 500 to 550 rupees and the price of coconuts had been increased from 180 to 230 rupees.
+கொழும்பு புறக்கோட்டை மொத்த விற்பனை சந்தையில் இந்திய பெரிய வெங்காய தட்டுப்பாடு ஏற்பட்டுள்ளதாகவும், ஒரு கிலோ வெங்காயத்தின் மொத்த விலை 400 ரூபாவாக உயர்ந்துள்ளதாகவும் வியாபாரிகள் தெரிவித்தனர்.
 
-Pakistan's large onions and other large onions are ranging from 400 to 450 rupees per kg and onion prices are continuing.
-
-Merchants said that the Indian big onion shortage in the outsourcing of the Colombo Fort has risen to 400 rupees.
-
-Coconut vendors further stated that the price of a small pile of coconut, which sold for 40 rupees to 60 rupees a few months ago, is currently three times and is being sold to 180 rupees.
+சில மாதங்களுக்கு முன் 40 ரூபா முதல் 60 ரூபா வரை விற்பனையான ஒரு சிறிய குவியல் தேங்காயின் விலை, தற்போது மூன்று மடங்காக அதிகரிக்கப்பட்டு, 180 ரூபாவாக விற்பனை செய்யப்பட்டு வருவதாக தேங்காய் விற்பனையாளர்கள் மேலும் தெரவித்தனர்.
 
 ◼️
 
 [Data](articles/bd317c6a.json)
-
-[Extended Data](ext_articles/bd317c6a.ext.json)
 
 ---
 
@@ -387,24 +367,6 @@ Responding to the question of Parliamentarian Rohitha Abeygunawardena, who urged
 [Data](articles/e62544a7.json)
 
 [Extended Data](ext_articles/e62544a7.ext.json)
-
----
-
-### රිදියගම බෙංගාලි ව්‍යාඝ්‍රයා මියයාමේ අවසන් වාර්තාව ප්‍රමාදයි
-
-*2024-12-05 17:46:48* · [`adalk`](https://www.ada.lk/breaking_news/රිදියගම-බෙංගාලි-ව්‍යාඝ්‍රයා-මියයාමේ-අවසන්-වාර්තාව-ප්‍රමාදයි/11-413480) · `si`
-
-ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව සතු රිදියගම සෆාරි උද්‍යානයයේ සිටියදී ඉකුත් වසර මුලදී විෂ ශරීර ගතවීමකින් බෙංගාලි ව්‍යාඝ්‍රයකු හදිසියේ මියයාම පිළිබඳ  විමර්ශන කටයුතු තවමත් අවසන් කර නැතැයි ජාතික විගණන කාර්යාලය විගණන වාර්තාවකින්  අනාවරණය කරයි.
-
-සෆාරි උද්‍යානයේ සිටි මෙම ව්‍යාඝ්‍රයාගේ මරණය පිළිබඳව 2023 ජුනි 02 දා  සිදුකළ මරණ පරීක්ෂණයේ වාර්තාව අනුව එම සත්වයා විෂ ශරීර ගතවීමකින් මරණයට පත්ව තිබූ බව විගණනයෙන් පෙන්වා දෙයි.
-
-සෆාරි උද්‍යානයේ රැකවරණය යටතේ සිටි මෙම ව්‍යාඝ්‍රයා ස්වාභාවික නොවන මරණයකට ගොදුරුවීම සම්බන්ධයෙන් විමර්ශන කටයුතු කඩිනමින් අවසන් කිරීමට කටයුතු කළ යුතු බවට විගණන කාර්යාලය නිර්දේශයක්ද ලබා දී තිබේ.
-
-මේ සම්බන්ධයෙන් 2023 දී විමර්ශන කමිටුවක් පත්කළ බවත්  එම ව්‍යාඝ්‍රයාගේ පටක සාම්පල පිළිබඳව රස පරීක්ෂක වාර්තා මෙතෙක් නොලැබීම නිසා අවසන් විමර්ශන වාර්තාව ප්‍රමාදවී ඇතැයි සත්වෝද්‍යාන දෙපාර්තමේන්තුව විගණන කාර්යාලට දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/00fc3ab9.json)
 
 ---
 
@@ -1137,20 +1099,6 @@ South Africa won the first Test match between the two countries by 233 runs.
 [Data](articles/118ac361.json)
 
 [Extended Data](ext_articles/118ac361.ext.json)
-
----
-
-### Lawyers Collective On A Legislative Agenda For New Government & Parliament & Rule Of Law Issues
-
-*2024-12-05 13:29:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lawyers-collective-on-a-legislative-agenda-for-new-government-parliament-rule-of-law-issues/) · `en`
-
-“We remind the government and the representatives in the legislature that it is important to adopt a transparent and inclusive process of policy and law-making that is proportionate and responsive to the needs of the people. Dialogue and communication with the sovereign people of this country will deepen legitimacy and public trust in governance,” says the Lawyers’ Collective.
-
-The Lawyers’ Collective writes to the new Cabinet of Ministers and all members of the newly elected 10th Parliament of Sri Lanka on the importance of recognizing the legislative mandate signalled by the people at this election. We congratulate all elected representatives of the new parliament and emphasize that the mandate given is a clarion call to ensure that the legislative agenda reflects the sovereign will of the people.
-
-...
-
-[Data](articles/1f50f823.json)
 
 ---
 
@@ -2381,5 +2329,59 @@ Sri Lanka is expecting to present a formal budget for 2025 in line with an Inter
 [Data](articles/db7e0592.json)
 
 [Extended Data](ext_articles/db7e0592.ext.json)
+
+---
+
+### Restore forcibly connected relations in the Russian Army: Mahajar to President and Prime Minister
+
+*2024-12-05 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200463) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan citizens forcibly recruited into Russian army. Paid large sums to travel to Europe but sent to fight in Ukraine instead. Requesting protection and safe return due to ongoing conflict.
+
+🟩
+
+The Mahajar has been given to President Anura Kumara Dissanayake Prime Minister Harini Amarasuriya and External Affairs Minister Vijitha Herath to forcibly restore their relations in the Russian army.
+
+The Russian Embassy has refused to obtain the Major, despite the complaints of the Human Rights Commission of Sri Lanka.
+
+Our relatives were traveling through the agents to travel to France and Belgium last month.. It was promised to take them from Colombo to Russia and then take them from there to Europe.
+
+In accordance with that, they have been paid Rs 60 lakh to 70 lakhs. However, our relatives were taken from the Russian airport to Russia and then they have been given military training.
+
+They have been taken to war against Ukraine after 15 days of training. In this case, it is impossible to have contacts with the money laundering agents to take it to Europe.
+
+...
+
+[Data](articles/8504fc87.json)
+
+[Extended Data](ext_articles/8504fc87.ext.json)
+
+---
+
+### 23-year-old woman clubbed to death in Ketawala
+
+*2024-12-05 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104007/23-year-old-woman-clubbed-to-death-in-ketawala) · `en`
+
+A young woman has been clubbed to death by a person in the Ketawala area of Siripagama police division.
+
+The incident had occurred last morning (04) and the girl who was injured in the attack was admitted to the Gilimale Hospital.
+
+She was later pronounced dead after being transferred to Ratnapura Teaching Hospital for further treatment.
+
+The investigation has revealed that the victim was involved in a romantic relationship with the suspect who carried out the attack and she was clubbed to death following a dispute between them.
+
+The body is currently kept in the Ratnapura Hospital morgue for the post mortem while it is reported that the suspect has fled the area after the incident.
+
+Siripagama Police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/a7327891.json)
+
+[Extended Data](ext_articles/a7327891.ext.json)
 
 ---

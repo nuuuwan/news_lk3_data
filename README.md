@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 12:29:26**
+As of **2024-12-05 12:02:39**
 
 ## Newspaper Stats
 
-*Scraped **58,602** Articles*
+*Scraped **58,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,177 +16,37 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,552
-adaderanalk | 7,115
-tamilmirrorlk | 8,342
-virakesarilk | 9,596
-adaderanasinhalalk | 10,123
+adalk | 5,551
+adaderanalk | 7,112
+tamilmirrorlk | 8,340
+virakesarilk | 9,593
+adaderanasinhalalk | 10,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,585 (100.0%) of 58,602 articles have been extended.
+58,581 (100.0%) of 58,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### හන්තානේ අතරමං වූ පාසල් සිසුන්
-
-*2024-12-05 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204063) · `si`
-
-කොළඹ ප්‍රදේශයේ ප්‍රධාන පාසලක ඉගෙනුම ලබන සිසුන් 10 දෙනෙකුගෙන් යුත් පිරිසක් හන්තාන කන්ද නැරඹීමට ගොස් අතරමං වී ඇතැයි යුද හමුදාව පවසයි.
-
-පසුව එම පිරිස නිරුපද්‍රිතව මුදා ගැනීමට යුද හමුදා භට පිරිස් සමත්ව ඇත.
-
-ඔවුන් හන්තාන කන්ද නැරඹීමට ගොස් එය තරණය කර පසුව එහි අනාරක්ෂිත ප්‍රදේශයක් නැරඹීමට ගොස් ඇත.
-
-එහිදී එක් අයෙකුගේ කකුලේ ඇති වු මස්පිඬු පෙරළීමක් හේතුවෙන් හා පැවති මීදුම හේතුවෙන් මාර්ගය සොයා ගැනීමට අපහසු වී නැවත පැමිණීමට නොහැකිව අතරමංවී ඇතැයි යුද හමුදාව පැවසීය.
-
-මේ සම්බන්ධයෙන් යුද හමුදාවේ භට පිරිස් වෙත සැලවීමෙන් පසු එම පිරිස ආරක‍්ෂිතව මුදවා ගැනීමට 111 බලසේනා මුලස්ථානය හා 2 ශ්‍රී ලංකා සිංහ රෙජිමේන්තුවේ භට පිරිස් මෙහෙයුමක් ආරම්භ කෙරිණි.
-
-ඒ අනුව රාත්‍රී 8ට පමණ මෙම සිසුන් මුඳවා ගැනීම ආරම්භ කර ඇති අතර, අලුයම් කාලය වන විට එම සිසු පිරිස ආරක්‍ෂිතව පහළට රැගෙන ඒමට යුද හමුදා භට පිරිස් කටයුතු කර ඇත.
-
-◼️
-
-[Data](articles/c732420c.json)
-
----
-
-### මාස 4කට රනිල් ට වෙන්කළ මුදලම ජනාධිපති අනුරටත් වෙන්කරලා - කබීර්ගෙන් චෝදනාවක්
-
-*2024-12-05 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204062) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට 2024 මුල් මාස හතර සඳහා වෙන්කර තිබූ මුදලට සමාන මුදලක් අද (05) ඉදිරිපත්කළ අතුරු සම්මත ගිණුම මගින් 2025 මුල් මාස හතර සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා ට ද වෙන්කර ඇති බව සජබ පාර්ලිමේන්තු මන්ත්‍රී කබීර් හෂීම් මහතා පවසයි.
-
-අද පාර්ලිමේන්තුවේදී අතුරු සම්මත ගිණුම සඳහා වූ විවාදයට එක වෙමින් එම මහතා පැවසුවේ එසේ වෙන්කර ඇති මුදල රුපියල් ට්‍රිලියන 1.4ක් බවයි.
-
-...
-
-[Data](articles/8ee5c804.json)
-
----
-
-### 10 rupee coin in the stomach of 1 elephant
-
-*2024-12-05 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகதந்து-1-யானையின்-வயிற்றில்-10-ரூபாய்-நாணயம்/175-348271) · `ta`
-
-Elephant found with 10-rupee coin in stomach during autopsy. Coin discovered after elephant electrocuted, aged 45-50. Insurance manager arrested for elephant's death. Ivory recovered and buried safely.
-
-🟩
-
-During the autopsy of the elephant 1 elephant, a 10 -rupee coin was found in its stomach, said Sandana Jayasinghe, a veterinary surgery of the Department of Wildlife Conservation.
-
-He told the Daily Mirror that the elephant was killed by electricity. Steps have been taken to protect its ivory and head. The elephant between the ages of 45 to 50, which is 9 feet 2 inches tall, was transferred to the Kahalla Pallekela Sanctuary due to heavy rains in the Kala Veva reservoir.
-
-On November 29, wildlife officers removed the elephant's head with ivory and took them to the Calgiriyagama Wildlife Conservation Office.
-
-After the autopsy, the head was buried safely. Officials are planning to dig in to safely recover the ivory.
-
-Dr. Jayasinghe confirmed the death of the elephant due to a heart attack caused by electricity.
-
-...
-
-[Data](articles/814b5254.json)
-
-[Extended Data](ext_articles/814b5254.ext.json)
-
----
-
-### 30,000 மெட்ரிக் தொன் அரிசி முன்பதிவு!
-
-*2024-12-05 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200469) · `ta`
-
-அரிசி தட்டுப்பாட்டுக்கு உடனடி தீர்வு காண்பதற்கு புறக்கோட்டையில் உள்ள இறக்குமதியாளர்கள், இந்தியாவிலிருந்து 25,000 முதல் 30,000 மெட்ரிக் தொன் அரிசியை முன்பதிவு செய்துள்ளதாக அத்தியாவசிய உணவுப் பொருட்களின் இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
-
-அரிசி இறக்குமதிக்கு வழங்கப்பட்டுள்ள கால அவகாசம் குறைவாக இருப்பதால், குறைந்த அளவு அரிசியை இறக்குமதி செய்ய முடியும் என இறக்குமதியாளர்கள் தெரிவிக்கின்றனர்.
-
-இதேவேளை, நாடு, பச்சை, சம்பா ஆகிய அரிசி வகைகள் இறக்குமதி செய்யப்படுவதாகவும் அத்தியாவசிய உணவுப் பொருட்களின் இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/554d1b82.json)
-
----
-
-### சட்டவிரோதமாக துப்பாக்கி தொழிற்சாலை நடத்தி வந்த வர்த்தகர் கைது !
-
-*2024-12-05 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200472) · `ta`
-
-இரத்தினபுரி, ரக்வானை பிரதேசத்தில் சட்டவிரோதமாக துப்பாக்கி தொழிற்சாலை நடத்தி வந்த வர்த்தகர் ஒருவர் பொலிஸ் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளார்.
-
-பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர் கைது செய்யப்படடுள்ளார்.
-
-சந்தேக நபரான வர்த்தகரிடமிருந்து துப்பாக்கிகளை தயாரிப்பதற்கு பயன்படுத்தப்படும் பொருட்கள்,  சுத்தியல்  ,இரண்டு உலோக சுத்தியல்கள் உள்ளிட்ட பல்வேறு பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/6877651f.json)
-
----
-
-### Navy arrests 14 Indian fishing boats
+### ඉන්දීය ධීවර යාත්‍රා 2ක් සමග 14 දෙනෙක් නාවික හමුදා භාරයට
 
 *2024-12-05 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204061) · `si`
 
-Sri Lanka Navy arrests 14 Indian fishing boats, detains 7 crew members for unauthorized fishing in SL waters. Operation brings total detained fishermen to 529. Boats and crew handed over to local authorities for legal action.
+මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා 02ක් සමග එහි සිටි 14 දෙනෙකු මන්නාරම උතුරු මුහුදේදී නාවික හමුදා භාරයට ගෙන තිබේ.
 
-🟩
+ශ්‍රී ලංකා නාවික හමුදාව සඳහන් කළේ ඊයේ (04) රාත්‍රියේ මෙම විශේෂ සෝදිසි මෙහෙයුම දියත් කළ බවය.
 
-Seven persons were taken into custody with two Indian fishing boats with unauthorized fishing in Sri Lankan waters.
+ඉන්දීය ධීවර යාත්‍රා 02ක සහ ධීවරයින් 14 දෙනා තලෛමන්නාරම ජැටිය වෙත රැගෙනවිත් ඇති අතර ඉදිරි නීතිමය කටයුතු සඳහා මන්නාරම ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාරදීමට නියමිතය.
 
-The Sri Lanka Navy stated that the special search operation was launched last night.
-
-Two Indian fishing boats and the 14 Indian fishermen were brought to Taaticamamannar jawatt and will be handed over to the Mannar Fisheries Inspector Office for future legal action.
-
-With this operation, unauthorized fishermen and 529 Indian fishermen have been taken into custody.
+මෙම මෙහෙයුමත් සමග 2024 වර්ෂයේ මේ දක්වා සිදුකළ මෙහෙයුම්වලින් මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා 68ක් සහ ඉන්දීය ධීවරයින්529 දෙනෙකු නාවික හමුදා භාරයට ගෙන ඉදිරි නීතිමය කටයුතු සඳහා යොමු කර තිබේ.
 
 ◼️
 
 [Data](articles/6d63285a.json)
-
-[Extended Data](ext_articles/6d63285a.ext.json)
-
----
-
-### Special audit on electric vehicle imports for expat workers
-
-*2024-12-05 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104013/special-audit-on-electric-vehicle-imports-for-expat-workers-) · `en`
-
-A special audit has been carried out on the scheme introduced to import fully electric vehicles for expatriate workers.
-
-The Speaker of Parliament Ashoka Ranwala stated that the relevant audit report would be presented to the Parliament today (05).
-
-Accordingly, the related audit has been conducted regarding the issuance of permits through the scheme which was implemented from May 01, 2022, to September 15, 2023.
-
-◼️
-
-[Data](articles/389fd996.json)
-
-[Extended Data](ext_articles/389fd996.ext.json)
-
----
-
-### Lover
-
-*2024-12-05 11:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-மரக்கட்டையால்-அடித்துக்-கொன்ற-காதலன்/175-348269) · `ta`
-
-Siripagama police investigating murder of 23-year-old woman in Kedawala. Suspect arrested after argument with girlfriend.
-
-🟩
-
-Siripagama police have launched an investigation into the arrest of a suspect in connection with the murder of a 23 -year -old girlfriend in Kedawala area on Wednesday.
-
-Police said the man had been assaulted by a woman during the argument yesterday evening.
-
-Preliminary inquiries revealed that the woman and the suspect had been involved in a romantic relationship and that the argument was over.
-
-◼️
-
-[Data](articles/e0f52e45.json)
-
-[Extended Data](ext_articles/e0f52e45.ext.json)
 
 ---
 
@@ -213,42 +73,6 @@ Preliminary inquiries revealed that the woman and the suspect had been involved 
 [Data](articles/f872a149.json)
 
 [Extended Data](ext_articles/f872a149.ext.json)
-
----
-
-### US Assistant Secretary of State Donald Lu visits Sri Lanka
-
-*2024-12-05 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104012/us-assistant-secretary-of-state-donald-lu-visits-sri-lanka) · `en`
-
-The United States Assistant Secretary of State for the Bureau of South and Central Asian Affairs, Donald Lu, has arrived in Sri Lanka today (05) as part of an official delegation.
-
-Accompanied by another senior official from the U.S. Department of State, Assistant Secretary Lu reached Bandaranaike International Airport (BIA) at 2:55 a.m. today onboard Qatar Airways flight QR-662 from Doha.
-
-Representatives from the U.S. Embassy in Sri Lanka and officials from Sri Lanka’s Ministry of Foreign Affairs were present at the airport to welcome the delegation.
-
-In a statement issued on December 2, the U.S. Embassy in Sri Lanka said that during his visit to Colombo, Assistant Secretary Lu’s engagements would advance U.S.-Sri Lankan joint efforts to promote sustainable economic growth, combat corruption, and strengthen people-to-people ties.
-
-...
-
-[Data](articles/5c436a9c.json)
-
----
-
-### தலைமன்னார் கடற்பரப்பில் 14 ராமேஸ்வரம் மீனவர்கள் கைது
-
-*2024-12-05 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200471) · `ta`
-
-இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன்பிடியில் ஈடுபட்ட 14 இராமேஸ்வரத்தைச் சேர்ந்த மீனவர்கள் இன்று வியாழக்கிழமை (5) அதிகாலை இலங்கை கடற்பரப்பில் வைத்து கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
-
-ராமேஸ்வரம் மீன்பிடித் துறைமுகத்திலிருந்து புதன்கிழமை (4) காலை மீன் பிடிக்க வந்த மீனவர்கள் இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்துக்கொண்டிருந்தபோதே தலைமன்னார் கடற்படையினரால் கைது செய்யப்பட்டனர்.
-
-கைது செய்யப்பட்ட 14 மீனவர்களும் இரண்டு இந்திய இழுவைப் படகுகளில் மீன் பிடித்துக்கொண்டிருந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட மீனவர்களும் இழுவைப் படகுகளும் தலைமன்னார் கடற்படை முகாமில் ஒப்படைக்கப்பட்டதையடுத்து, அந்த மீனவர்களிடம் தலைமன்னார் கடற்படையினர் விசாரணை நடத்தி வருகின்றனர்.
-
-◼️
-
-[Data](articles/ea7ad215.json)
 
 ---
 
@@ -351,42 +175,6 @@ Renuka Perera was accused of posing photos of Liberation Tigers of Tamil Eelam (
 [Data](articles/67b44183.json)
 
 [Extended Data](ext_articles/67b44183.ext.json)
-
----
-
-### Debate on Vote on Account begins in Parliament
-
-*2024-12-05 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104011/debate-on-vote-on-account-begins-in-parliament) · `en`
-
-The Vote on Account for the first four months of the year 2025, including government recurrent and capital expenditure, public debt servicing and debt restructuring expenses has been presented to Parliament today (05).
-
-Minister Anil Jayantha Fernando opened the debate on the Vote on Account by disclosing the following information:
-
-“For the first four months of the Vote on Account, Rs. 1,000 billion excluding recurring expenses, Rs. 425 billion for capital expenditure and Rs. 1,175 billion for foreign debt restructuring and other debt servicing are required,” he stated.
-
-The minister further added “Accordingly, the total estimate is Rs. 2,600 billion. The government’s revenue estimate is Rs. 1,600 billion. The basic borrowing limit is Rs. 1,000 billion.”
-
-Regarding foreign debt restructuring, he stated: “Especially on the basis of an agreement with the bilateral creditors and sovereign bonds, we have to present new debt papers. We aim to complete this process before December 31”.
-
-...
-
-[Data](articles/65ef985c.json)
-
----
-
-### ජනපති හා අයිටැක් මන්ත්‍රිවරු අතර හමුවක්
-
-*2024-12-05 10:33:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-අයිටැක්-මන්ත්‍රිවරු-අතර-හමුවක්/11-413467) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ඉලංගෙයි තමිල් අරසු කච්චි (ITAK) පාර්ලිමේන්තු මන්ත්‍රීවරුන් අතර සාකච්ඡාවක් ඊයේ (04) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
-
-මෙම හමුවේදී ඉලංගෙයි තමිල් අරසු කච්චි පාර්ලිමේන්තු මන්ත්‍රීවරු දීර්ඝ කාලයක සිට උතුරු නැගෙනහිර ජනතාව මුහුණ දෙමින් සිටින ගැටලු පිළිබඳව ජනාධිපතිවරයා දැනුම්වත් කළහ.*
-
-සිවඥානම් ශ්‍රීධරන්, පත්මනාදන් සත්‍යලිංගම්, සන්මුගම් කුගදාසන්, ෂානක්කියන් රාසමාණික්කම්, ඥානමුත්තු ශ්‍රීනේසන්, කවීන්දිරන් කෝඩීස්වරන්, ඉලයතම්බි ශ්‍රීනාත්, තුරෙයිරාසා රවිහරන් යන පාර්ලිමේන්තු මන්ත්‍රීවරු මේ අවස්ථාවට සහභාගී වූහ.
-
-◼️
-
-[Data](articles/ab2e0a80.json)
 
 ---
 
@@ -2375,5 +2163,285 @@ The Church had known at the highest level about the sexual abuse in 2013. Welby 
 [Data](articles/e4e132b0.json)
 
 [Extended Data](ext_articles/e4e132b0.ext.json)
+
+---
+
+### 244 Mahaviu Celebrations in the North have been conducted
+
+*2024-12-04 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204044) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+244 Mahaviu Celebrations in Northern Sri Lanka were held. Police reported 10 showed LTTE symbols. Law enforcement actions taken.
+
+🟩
+
+According to the Public Defense Minister Ananda Wijepala said in parliament today (4) of the total number of Mahaviu Celebrations in the North.
+
+"The police had reportedly carried out 244 celebrations in the Mahavirus week under the Mahavirus week last 21 and 27. Only 10 of them had exhibited some LTTE symbols. The police have implemented the law. "
+
+◼️
+
+[Data](articles/0d904fc0.json)
+
+[Extended Data](ext_articles/0d904fc0.ext.json)
+
+---
+
+### CEO of UnitedHealthcare fatally shot in New York City
+
+*2024-12-04 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104001/ceo-of-unitedhealthcare-fatally-shot-in-new-york-city) · `en`
+
+The head of US insurance company UnitedHealthcare has been shot and killed in New York City, according to the BBC’s US partner CBS News.
+
+Chief executive Brian Thompson was fatally shot in the chest just before 07:00 EST (12:00 GMT) on Wednesday outside the Hilton Hotel in Midtown Manhattan, where he was scheduled to speak at an investor conference later in the day.
+
+The 50-year-old was taken to the hospital, where he was pronounced dead, officials said.
+
+A suspect fled the scene and remains at large, the New York Police Department said.
+
+Thompson appeared to be targeted in the attack, with the suspect waiting for him outside wearing a ski mask and cream jacket, police said.
+
+Investigators said they have video footage of the shooting, but they did not know the suspect’s motive. Nothing was taken from the victim, they added.
+
+Thompson was named chief executive of UnitedHealthcare in April 2021. He earned $10.2m (£8m) working for the company last year.
+
+...
+
+[Data](articles/e125a7b9.json)
+
+[Extended Data](ext_articles/e125a7b9.ext.json)
+
+---
+
+### Discussion for reviewing companies running under the Ministry of Plant and Social Infrastructure
+
+*2024-12-04 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200449) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Review of companies under Ministry of Plantation & Social Infrastructure. Discussion focused on improving company performance, meeting public expectations, and addressing budgets. Key officials including Minister K.V Samantha Vidyaratne and Deputy Minister Sundaralingam Pradeep attended the meeting.
+
+🟩
+
+Discussions were held on Tuesday (03) to review their current status with companies operating under the Ministry of Plantation and Social Infrastructure.
+
+During this time, the focus of the discussion was to improve the performance of these companies, meet the expectations of the public through a skilled public service, and to address the budgets.
+
+Minister K.V Samantha Vidyaratne, Deputy Minister Sundaralingam Pradeep Ministry Secretary and Representatives of the following institutions were present at the meeting.
+
+◼️
+
+[Data](articles/6ce13c1e.json)
+
+[Extended Data](ext_articles/6ce13c1e.ext.json)
+
+---
+
+### Meeting between the President and the Executive Director of the World Bank
+
+*2024-12-04 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200448) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+World Bank Executive Director Parameswaran Iyer met President Anura Kumara Dissanayake to discuss Clean Sri Lanka program support and future development projects. Topics included rural poverty eradication, Digital Identity Card, land housing issues, agriculture, fisheries, tourism, education, health sector development, and cooperation on next government initiatives.
+
+🟩
+
+World Bank Executive Director Parameswaran Iyer said the government's Clean Sri Lanka program would be provided with the World Bank.
+
+The Executive Director of the World Bank made this statement while addressing the President's Office at the Presidential Office on Wednesday.
+
+The Executive Director of the World Bank congratulated the new government led by the President and promised that all the plans will be carried out in the future with the cooperation of the World Bank.
+
+Similarly, the President also discussed a long discussion on the development of the new government, the eradication of rural poverty, and the issuance of the Digital Identity Card, which is parallel to the economic digital digitalization program.
+
+It was also talked about the land and housing issues of the plantation and the long -standing problems of the people of the North and East.
+
+...
+
+[Data](articles/d2064e4c.json)
+
+[Extended Data](ext_articles/d2064e4c.ext.json)
+
+---
+
+### President Dissanayake engages in discussion with ITAK MPs
+
+*2024-12-04 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104000/president-dissanayake-engages-in-discussion-with-itak-mps) · `en`
+
+President Anura Kumara Dissanayake has met with Parliamentarians from the Illankai Tamil Arasu Kadchi (ITAK) at the Presidential Secretariat in Colombo today (04).
+
+During the discussion, the ITAK MPs brought to the President’s attention the longstanding challenges faced by the people in the Northern and Eastern regions, the the President’s Media Division (PMD) reported.
+
+Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmugam Kugathasan, Shanakiyan Rasamanickam, Gnanamuthu Srineshan, Kaveenthiran Kodeeswaran, Elayathamby Srinath, and Thurairasa Raviharan also attended the meeting.
+
+◼️
+
+[Data](articles/9218dd70.json)
+
+[Extended Data](ext_articles/9218dd70.ext.json)
+
+---
+
+### Few Sri Lanka candidates, political groups submit expense reports so far: EC
+
+*2024-12-04 20:23:00* · [`economynextcom`](https://economynext.com/few-sri-lanka-candidates-political-groups-submit-expense-reports-so-far-ec-192192/) · `en`
+
+ECONOMYNEXT – Only a few Sri Lankan candidates and political groups have submitted their income and expenditures related to the recently concluded parliament election campaign with only two days remaining before the deadline, the island nation’s Election Commission data showed.
+
+The Election Commission has set deadline to submit the income and expenditure reports for Friday, December 06, 2024.
+
+The Election Commission said in terms the Regulation of Election Expenditure Act enacted last year, failure to submit election expenditure reports on or before 12:00 midnight on December 06, 2024 “constitutes an offence and action will be taken in accordance with the law”.
+
+Out of the total 8,361 candidates, around 24 percent or 1,985 have submitted their reports to the Election Commission as at 3 pm on Tuesday (03), the Commission said in a statement.
+
+...
+
+[Data](articles/06ccb542.json)
+
+[Extended Data](ext_articles/06ccb542.ext.json)
+
+---
+
+### Meeting between President and TNA MPs
+
+*2024-12-04 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200447) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake met TNA MPs at the Presidential Office. TNA representatives discussed issues affecting Northern and Eastern regions. Attendees included Chanakyan Rasamanikam, Sivagnanam Sreedharan, and others."
+
+🟩
+
+The meeting between President Anura Kumara Dissanayake and the Sri Lanka Tamil National Alliance (ITAK) MPs was held at the Presidential Office on Wednesday afternoon.
+
+Meanwhile, members of the Sri Lankan Tamil National Alliance (TNA) have long explained to the President on the problems faced by the people of the North and East.
+
+Chanakyan Rasamanikam, Sivagnanam Sreedharan, Pathmanathan Sathiyalingam, Shanmuganathan Kukadasan, Gnanamuthu Srinasan, Kavindran Koteeswaran, Ilayadambi Sirinath, Durairasa Ravikaran were also present.
+
+◼️
+
+[Data](articles/8adc9996.json)
+
+[Extended Data](ext_articles/8adc9996.ext.json)
+
+---
+
+### Ranil's bars were revealed in Parliament in Parliament
+
+*2024-12-04 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204043) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Excise Dept grants 361 liquor licenses. Highest in Western Province (110). Southern & Northern Provinces receive fewer. 172 for retail/wine stores. Opposition claims political bribery by former President Ranil Wickremesinghe.
+
+🟩
+
+At present, the Excise Department (EBC) has been given 361 liquor licenses today (4th) in Parliament today.
+
+He said that the highest licenses were provided in the Western Province, and 110 was 110.
+
+In addition, the Southern Province has been given 48 permits, 32 to the northwest, 30 to the North West, 30 North Western and 30 North Western Province.
+
+He added that 172 of the liquor have been given the liquor retail (wine Stose) or FL-4, he said.
+
+"These licenses would clearly say that former President Ranil Wickremesinghe granted former President Ranil Wickremesinghe to transfer parties as political bribes."
+
+◼️
+
+[Data](articles/f28b4263.json)
+
+[Extended Data](ext_articles/f28b4263.ext.json)
+
+---
+
+### Asian Bowl Cricket under the age of 19
+
+*2024-12-04 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200446) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Under-19 Asian Cup cricket: Sri Lanka vs India & Pakistan vs Bangladesh in semi-finals. India crushed UAE by 10 wickets, Pakistan thrashed Japan by 180 runs. Semi-finals tomorrow in Sharjah and Dubai.
+
+🟩
+
+Sri Lanka and Indian teams will play in the second semi -finals of the UAE's 19 -year -old Asian Cup cricket.. Bangladesh will oppose Pakistan in the first semi -final.
+
+After Pakistan and India won the last two matches for the A group today, it was decided which teams would oppose the semi -finals.
+
+Sri Lanka and Pakistan in the B Group in the Under -19 Asian Cup cricket match, which were participating in eight teams, were eligible to play in the semi -finals.
+
+Bangladesh and India advanced to the semi -finals with a defeat of these two groups respectively.
+
+India won by 10 wickets in a group match today at the Sharjah Cricket Stadium between India and the United Arab Emirates.
+
+The UAE scored 137 runs for the loss of all wickets in 44 overs.
+
+Muhammad Rayan (36) and Akshad Roy (26) were among the two.
+
+In reply, India won by 143 runs in 16.1 overs.
+
+Vaibhav Suryavanshi did not bowl with 76 balls with 3 fours and 6 sixes and Ayush Muhadri 67 runs.
+
+...
+
+[Data](articles/fd3a1d8a.json)
+
+[Extended Data](ext_articles/fd3a1d8a.ext.json)
+
+---
+
+### Member Junction reminds the past
+
+*2024-12-04 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204042) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dr. Ramanathan Allechchi recalls his father's past in Parliament. He mentions his father leading Sri Lanka's police football team in 1966 and their move to Jaffna in 1983 due to the LTTE situation. He also mentions his father going missing from hospital in May 2009.
+
+🟩
+
+Jaffna District Independent MP Dr. Ramanathan Allechchi said a talk in Parliament today (04).
+
+"I would like to remind my father at this time. He was the leader of the Sri Lankan police football team in 1966. Our family had to go to Jaffna with the situation in 1983. Two decades of the LTTE worked at the LTTE. In May 2009, my father went missing from hospital. "
+
+◼️
+
+[Data](articles/b78f5001.json)
+
+[Extended Data](ext_articles/b78f5001.ext.json)
+
+---
+
+### Sri Lanka new govt’s policy statement passed in parliament unanimously
+
+*2024-12-04 19:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govts-policy-statement-passed-in-parliament-unanimously-192176/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissnayake’s policy statement for the new government was passed in the parliament without a vote on Wednesday (04) after two days of debate.
+
+In the statement, President Dissanayake outlined the major policies he intended to carry out in his five year tenure along with more than a two-third parliament majority for his Marxixts-leaned National People’s Power (NPP).
+
+The policy statement also covered the key changes the government wants to introduce aiming to eradicate corruption and ensure social justice while focusing on a modern economy. (Colombo/December 04/2024)
+
+◼️
+
+[Data](articles/ea6df0c7.json)
+
+[Extended Data](ext_articles/ea6df0c7.ext.json)
 
 ---

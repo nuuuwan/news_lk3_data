@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 10:27:59**
+As of **2024-12-05 10:16:14**
 
 ## Newspaper Stats
 
-*Scraped **58,576** Articles*
+*Scraped **58,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,548
 adaderanalk | 7,110
 tamilmirrorlk | 8,338
-virakesarilk | 9,591
-adaderanasinhalalk | 10,118
+virakesarilk | 9,589
+adaderanasinhalalk | 10,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,558 (100.0%) of 58,576 articles have been extended.
+58,558 (100.0%) of 58,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
-
-### අතුරු සම්මත ගිණුම ගැන විවාදය ඇරඹෙයි
-
-*2024-12-05 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204058) · `si`
-
-2025 වර්ෂයේ පළමු මාස 04 සඳහා රජයේ කාර්යයන් සහ ණය සේවාකරණය අඛණ්ඩව කරගෙන යාම සඳහා අතුරු සම්මත ගිණුම අද (05) පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබේ.
-
-අතුරු සම්මත ගිණුම සම්බන්ධයෙන් අමාත්‍ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා තොරතුරු හෙළිකරමින් ඊට අදාළ විවාදය ආරම්භ කළේය.
-
-◼️
-
-[Data](articles/38daf2db.json)
-
----
-
-### විදෙස්ගත ශ්‍රමිකයින්ට නිකුත්කළ විද්‍යුත් වාහන ආනයන බලපත්‍ර ගැන විගණනයක්
-
-*2024-12-05 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204057) · `si`
-
-විදෙස්ගත ශ්‍රමිකයින්ට සම්පූර්ණ විද්‍යුත් වාහන ආනයනය කිරීමට ක්‍රියාත්මක කළ යෝජනාක්‍රමය සම්බන්ධයෙන් විශේෂ විගණනයක් සිදුකර තිබේ.
-
-එම වාර්තාව පාර්ලිමේන්තුවට ඉදිරිපත්කරන බව කථානායක අශෝක රන්වල මහතා අද (05) පැවසීය.
-
-ඒ සම්බන්ධයෙන් 2022 මැයි 01 වනදා සිට 2023 සැප්තැම්බර් 15 වනදා දක්වා ක්‍රියාත්මක කළ එම යෝජනාක්‍රමය ඔස්සේ බලපත්‍ර ලබාදීම සම්බන්ධයෙන් එම විගණනය සිදුකර තිබේ.
-
-◼️
-
-[Data](articles/3cff0a96.json)
-
----
 
 ### மூன்றே மாதத்தில் கவிழ்ந்தது பிரான்ஸ் அரசு
 
@@ -73,20 +43,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cd965147.json)
-
----
-
-### පොහොට්ටුවේ පාලක ලේකම් අත්අඩංගුවට
-
-*2024-12-05 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204056) · `si`
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ  පාලක ලේකම් රේණුක පෙරේරාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-උතුරේ 'මහවිරු' සැමරුම් සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ අසත්‍ය තොරතුරු ප්‍රචාරණය කිරීම සම්බන්ධයෙන් ඔහුව මෙලෙස  අත්අඩංගුවට ගත්බව පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/5b249767.json)
 
 ---
 
@@ -116,46 +72,6 @@ You must lodge a complaint at the police station, as the people are using the na
 
 ---
 
-### මේ වසරේ මුල් මාස 10 තුළ ලාදුරු රෝගීන් 1000 ඉක්මවයි
-
-*2024-12-05 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204055) · `si`
-
-මේ වසරේ මුල් මාස 10 තුළ ලාදුරු රෝගීන් දහසකට අධික සංඛ්‍යාවක් හඳුනාගෙන ඇති බව ලාදුරු මර්දන ව්‍යාපාරය පවසයි.
-
-එහි අධ්‍යක්ෂිකා වෛද්‍ය නිරූපා පල්ලෙවත්ත මහත්මිය සඳහන් කළේ, එම කාලය තුළ රෝගීන් 1,084 දෙනෙකු හඳුනාගෙන ඇති බවය.
-
-ඒ අතරින් සියයට 68ක් පමණ රෝගය තවත් අයෙකුට බෝකළ හැකි පුද්ගලයින් වන බව සඳහන්ය.
-
-එමෙන්ම හඳුනාගත් ලාදුරු රෝගීන් අතරින් වැඩි සංඛ්‍යාවක් කොළඹ දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති අතර එම සංඛ්‍යාව 115ක් වේ.
-
-පසුගිය වසර තුළ මෙරටින් ලාදුරු රෝගීන් 1,500ක පමණ පිරිසක් හඳුනාගෙන ඇති බව ද ලාදුරු මර්දන ව්‍යාපාරයේ අධ්‍යක්ෂිකා නිරූපා පල්ලෙවත්ත මහත්මිය සඳහන් කළේය.
-
-මේ අතර රෝගයක් සඳහා ප්‍රතිකාර ලබාගැනීමේදී අනවශ්‍ය ලෙස ප්‍රතිජීවක ඖෂධ භාවිත කිරීමෙන් වැළකී සිටිය යුතු බව රසායනාගාර සේවා නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් වෛද්‍ය ප්‍රියන්ත අතපත්තු මහතා පවසයි.
-
-සෞඛ්‍ය සේවා ප්‍රවර්ධන කාර්යාංශය කැඳවා තිබු මාධ්‍ය හමුවකට එක්වෙමින් ඔහු සඳහන් කළේ, අනවශ්‍ය ලෙස ප්‍රතිජීවක ඖෂධ භාවිත කිරීම හේතුවෙන් රෝග සුවපත් වීම සඳහා ඖෂධවල ප්‍රතිචාර දැක්වීම සිදුනොවන බවය.
-
-◼️
-
-[Data](articles/7cd499ed.json)
-
----
-
-### தமிழ் மக்களுக்கான அதிகாரப்பகிர்வை ஏற்குமா அநுர அரசு ?  - சுரேஷ் பிரேமச்சந்திரன் கேள்வி
-
-*2024-12-05 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200464) · `ta`
-
-மாகாண சபைகள் சம்பந்தமாக ஜனாதிபதி அநுரகுமார தெரிவிக்கும் கருத்துக்களும் அவரது கட்சியினர் கூறும் கருத்துக்களும் முரண்படுகின்றதோடு தமிழ் மக்களுக்கான அதிகாரப்பகிர்வினை அரசாங்கம் ஏற்றுக்கொண்டுள்ளதா  என்பதை பகிரங்கப்படுத்த வேண்டும் என்று ஈழமக்கள் புரட்சிகர விடுதலை முன்னணியின் தலைவரும் ஜனநாயக தமிழ் தேசிய கூட்டணியின் பேச்சாளருமான சுரேஷ் க. பிரேமச்சந்திரன் வெளியிட்டுள்ளார்.
-
-ஜே.வி.பி மற்றும் தேசிய மக்கள் சக்தியினர் மாகாணசபை தொடர்பாக அண்மையில் வெளிப்படுத்திவரும் கருத்துகளுக்கு பதிலளிக்கும் வகையில் வெளியிட்டுள்ள ஊடக அறிக்கையிலேயே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
-
-ஜனாதிபதி தேர்தல் பிரசாரத்தின்பொழுது மாகாணசபை முறைமைகள் பாதுகாக்கப்படும் என்றும் அதற்கான தேர்தல் விரைவாக நடத்தப்படும் என்றும் அதிலுள்ள அதிகாரங்கள் முழுமையாக நடைமுறைப்படுத்தப்படும் என்றும் ஜனாதிபதியினாலும் அவருடன் இருக்கக்கூடிய ஏனைய கட்சி உறுப்பினர்களாலும் பிரசாரம் செய்யப்பட்டது.
-
-...
-
-[Data](articles/117b756c.json)
-
----
-
 ### Final decision on NDF’s National List MP seat to be announced tomorrow
 
 *2024-12-05 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104008/final-decision-on-ndfs-national-list-mp-seat-to-be-announced-tomorrow) · `en`
@@ -171,24 +87,6 @@ Meanwhile, a special meeting was held last afternoon (04) attended by former Sri
 [Data](articles/f20cc7d8.json)
 
 [Extended Data](ext_articles/f20cc7d8.ext.json)
-
----
-
-### ரஷ்ய இராணுவத்தில் வலுக்கட்டாயமாக  இணைக்கப்பட்ட உறவுகளை மீட்டுத்தாருங்கள் :  ஜனாதிபதி, பிரதமர் உள்ளிட்டோருக்கு மகஜர்
-
-*2024-12-05 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200463) · `ta`
-
-வலுக்கட்டாயமாக ரஷ்ய இராணுவத்தில் இணைக்கப்பட்டுள்ள தமது உறவுகளை உடன் மீட்டுத்தருமாறு, பாதிக்கப்பட்டவர்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க பிரதமர் ஹரிணி அமரசூரிய மற்றும் வெளிவிவகார அமைச்சர் விஜித ஹேரத் ஆகியோருக்கு மகஜர் வழங்கப்பட்டுள்ளது.
-
-அத்துடன், இலங்கை மனித உரிமைகள் ஆணைக்குழுவிலும் முறைப்பாடு செய்யப்பட்டுள்ளபோதும் ரஷ்ய தூதரகம் அவர்களின் மகஜரை பெற்றுக்கொள்வதற்கு மறுப்புத் தெரிவித்துள்ளது.
-
-பிரான்ஸ் மற்றும் பெல்ஜியம் ஆகிய நாடுகளுக்குச் செல்வதற்காக எமது உறவினர்கள் முகவர் ஊடாக பணம் செலுத்தி கடந்த மாதம் பயணமாகியிருந்தனர். அவர்களை கொழும்பு கட்டுநாயக்கவிலிருந்து ரஷ்யாவுக்கு கொண்டு செல்வதாகவும் பின்னர் அங்கிருந்து ஐரோப்பியாவுக்கு அழைத்துச் செல்வதாகவும் உறுதியளிக்கப்பட்டது.
-
-அதற்கு அமைவாக, அவர்களுக்கு 60இலட்சம் முதல் 70இலட்சம் வரையிலான பணம் வழங்கப்பட்டுள்ளது. எனினும் எமது உறவினர்கள் ரஷ்ய விமான நிலையத்தில் இருந்து ரஷ்யாவுக்குள் அழைத்துச் செல்லப்பட்டு பின்னர் அவர்களுக்கு இராணுவப்பயிற்சி அளிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/8504fc87.json)
 
 ---
 
@@ -2375,5 +2273,145 @@ The debate on the government policy report was held from 9.30 am to 5.30 pm and 
 [Data](articles/9f5d1dca.json)
 
 [Extended Data](ext_articles/9f5d1dca.ext.json)
+
+---
+
+### The government's policy statement passed without a poll
+
+*2024-12-04 18:22:20* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-ප්‍රතිපත්ති-ප්‍රකාශය-ඡන්ද-විමසීමකින්-තොරව-සම්මතයි/11-413463) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Government policy statement passes unanimously in parliament without vote. President Anura Kumara Dissanayake presents on Nov 21. Debate lasts from 9:30 AM to 5:30 PM.
+
+🟩
+
+President Anura Kumara Dissanayake presented in parliament on November 21st Parliament yesterday (04) was unanimously passed without a poll.
+
+The debate on the policy statement was held at 9.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 pm to 5.30 pm to 5.30 pm to 5.30 pm to 5.30 am to 5.30 pm.
+
+◼️
+
+[Data](articles/51ab2537.json)
+
+[Extended Data](ext_articles/51ab2537.ext.json)
+
+---
+
+### W.M. Mendis’ liquor manufacturing license to be suspended
+
+*2024-12-04 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103998/wm-mendis-liquor-manufacturing-license-to-be-suspended) · `en`
+
+The liquor manufacturing license issued to W.M. Mendis & Co. Limited will be suspended from tomorrow (December 5) due to their failure to pay Rs. 5.7 billion in excise taxes and surcharges, the Excise department said.
+
+Accordingly, as per the provisions Excise Ordinance Act, the Commissioner General of Excise has ordered to suspend the liquor manufacturing license issued to W.M. Mendis & Co. Limited effective from tomorrow.
+
+The department further stated that measures have been taken to suspend the liquor manufacturing process from tomorrow (December 5) and to not renew the other licenses issued to the company from December 31 onwards if the company continues non-payment of tax arrears and surcharges.
+
+◼️
+
+[Data](articles/69125751.json)
+
+[Extended Data](ext_articles/69125751.ext.json)
+
+---
+
+### The government's policy statement passed without a poll
+
+*2024-12-04 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204039) · `si`
+
+Government's policy statement passed unanimously in Parliament without vote. Debate lasted from 9:30 AM to 5:30 PM. President Anura Kumara Dissanayake presented on November 21.
+
+🟩
+
+The proposal to the government's policy statement was unanimously passed today without a vote in Parliament today (04).
+
+The debate on the policy statement was held from 9.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 am to 5.30 pm and 5.30 pm to 5.30 pm.
+
+President Anura Kumara Dissanayake presented the government's policy statement on November 21.
+
+◼️
+
+[Data](articles/c704995e.json)
+
+[Extended Data](ext_articles/c704995e.ext.json)
+
+---
+
+### SLAF Stalistic Leader arrested
+
+*2024-12-04 18:13:40* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බලගණ-නායකවරයෙක්-අල්ලයි/11-413462) · `si`
+
+SLAF officer arrested for drunk driving. Released on bond, failed to appear in court. Warrant issued. To be produced in court soon.
+
+🟩
+
+Narahenpita police said that the SLAF Aragnetic official was arrested in avert to the charge of driving a drunken car.
+
+The suspect was a officer from the Air Force Base of Iranamadu.
+
+The police said that he had been arrested by police and be released on a bonding in announced as Narahenpita was arrested and appeared in court while he was driving a drunk car.
+
+He has issued open warrants as the suspect officer is not appearing in court on the day of the judiciary.
+
+He was arrested last evening on the open warrant.. The suspect is due to be produced in court.
+
+◼️
+
+[Data](articles/553c40cc.json)
+
+[Extended Data](ext_articles/553c40cc.ext.json)
+
+---
+
+### Mendis suspended liquor production license
+
+*2024-12-04 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204038) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Excise Department suspends liquor production license. Action taken due to high costs. Statement from Commissioner General. Steps to prevent alcohol production and determine surcharges."
+
+🟩
+
+W. M. The Excise Department has taken steps to suspend the liquor production license.
+
+The cost of the Excise Department on alcohol production, this step is due to the Excise Department of Excise.
+
+Excise Department said in a statement. M. The Commissioner General of Excise was suspended by the Commissioner General of Excise.
+
+According to the announcement, the Excise Department will take steps to prevent alcohol production process and the determination of alcoholism and surcharges.
+
+◼️
+
+[Data](articles/fd1b40b3.json)
+
+[Extended Data](ext_articles/fd1b40b3.ext.json)
+
+---
+
+### We are dissatisfied with the cylinder - former Minister of State
+
+*2024-12-04 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200443) · `ta`
+
+Former Defense Minister Pramitha Bandara Tennakoon expresses dissatisfaction with the allocation of national list seats. He advocates for former Minister Kanjana Wijesekera to receive a seat, citing the need for young politicians to take leadership roles.
+
+🟩
+
+During the presidential election and the general election, we allied with the New Democratic Front and worked for its victory. Former Defense Minister Pramitha Bandara Tennakoon has said that it is dissatisfied with the delay in giving a national list seat on behalf of M.
+
+He further stated that he was speaking to the media after attending a meeting between former ministers and parliamentarians in Colombo on Wednesday (4).
+
+Today's meeting on how to field the upcoming elections. We are in dissatisfaction with the cylinder. One of the two seats available cannot be accepted by one who spontaneously selected. The lesson should be learned from the power of the national people in this regard.
+
+...
+
+[Data](articles/1c795763.json)
+
+[Extended Data](ext_articles/1c795763.ext.json)
 
 ---

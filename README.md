@@ -1,36 +1,150 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 13:01:16**
+As of **2024-12-05 13:43:11**
 
 ## Newspaper Stats
 
-*Scraped **58,611** Articles*
+*Scraped **58,619** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 595
-bbccomsinhala | 612
+bbccomsinhala | 613
 islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,553
-adaderanalk | 7,119
-tamilmirrorlk | 8,346
-virakesarilk | 9,596
-adaderanasinhalalk | 10,123
+adalk | 5,554
+adaderanalk | 7,120
+tamilmirrorlk | 8,348
+virakesarilk | 9,597
+adaderanasinhalalk | 10,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,593 (100.0%) of 58,611 articles have been extended.
+58,598 (100.0%) of 58,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### லொஹான் தம்பதிக்கு பிணை
+
+*2024-12-05 13:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-தம்பதிக்கு-பிணை/175-348277) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த மற்றும் அவரது மனைவி சஷி பிரபா ரத்வத்த ஆகியோருக்கு நுகேகொட நீதவான் நீதிமன்றம், வியாழக்கிழமை (05) பிணை வழங்கியுள்ளது.
+
+இலங்கையில் சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட சொகுசு காரை பயன்படுத்திய குற்றச்சாட்டில் லொஹான் ரத்வத்தே மற்றும் அவரது மனைவி ஆகியோர் கைது செய்யப்பட்டு டிசம்பர் 06 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/07c0fe62.json)
+
+---
+
+### 27 people affected by the Israeli war returned to the country
+
+*2024-12-05 13:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-யுத்ததால்-பாதிக்கப்பட்ட-27-பேர்-நாடு-திரும்பினர்/175-348275) · `ta`
+
+27 Sri Lankans return home after Israel-Lebanon conflict, including 5 children, 3 women, 19 men, arriving at Katunayake airport on Emirates flight EK-648.
+
+🟩
+
+27 Sri Lankans staying in Lebanon due to the Lebanon-Israeli war in the Middle East arrived at the Katunayake airport on Wednesday (04).
+
+The arrival of the Katunayake airport included 05 small children, 03 women and 19 men.
+
+The International Organization for Migration, Sri Lanka Embassy in Lebanon and officials of the Sri Lankan Foreign Ministry have taken steps to send these Sri Lankans to Sri Lanka.
+
+Similarly, a group of Sri Lankans have been brought to Sri Lanka on 11/06, 11/12, 11/28 and 12/01.
+
+These 27 Sri Lankans arrived at the Katunayake airport from Dubai at 11.30 pm on Wednesday (04) at the Emirates Airlines flight, EK-648.
+
+◼️
+
+[Data](articles/75b73143.json)
+
+[Extended Data](ext_articles/75b73143.ext.json)
+
+---
+
+### Lohan Ratwatte and wife granted bail
+
+*2024-12-05 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104018/lohan-ratwatte-and-wife-granted-bail) · `en`
+
+Former State Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte have been granted bail today (05) by the Nugegoda Magistrate’s Court.
+
+Lohan Ratwatte and his wife were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, while they had previously been remanded in custody until December 06 by the Nugegoda Magistrate’s Court.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/851d5734.json)
+
+---
+
+### Lohan Ratwatte and wife released on bail
+
+*2024-12-05 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204065) · `si`
+
+Lohan Ratwatte and wife released on bail, fined Rs. 25000 each. Lohan banned from foreign travel. Case related to illegal vehicle arrest.
+
+🟩
+
+Former State Minister Lohan Ratwatte and his wife Rashi Prabh Ratwatte released on bail today (05).
+
+The suspects were produced before the Nugegoda Magistrate's Court.
+
+Accordingly, both have been sentenced to Rs. 25,000 each and one bail of Rs.
+
+In addition, Lohan Ratwatte has also banned a foreign travel ban, police said.
+
+Former State Minister Lohan Ratwatte's wife Rashi Prabha Ratwatte, the wife of Rashi Prabha Ratwatte, was found recently.
+
+Investigations carried out in connection with the Sihiya police have revealed that it was an illegal vehicle.
+
+The car was charged on October 30, at the Mirihana Police, Katugastota and produced before courts.
+
+Ms. Rathi Prabha Ratwatte was also arrested in such a background and was arrested on November 4.Had ordered.
+
+◼️
+
+[Data](articles/cc21918d.json)
+
+[Extended Data](ext_articles/cc21918d.ext.json)
+
+---
+
+### 14 Rameshwaram fishermen arrested in Talaimannar seas
+
+*2024-12-05 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200471) · `ta`
+
+14 Rameshwaram fishermen arrested in Talaimannar seas. Arrested while fishing in Sri Lankan waters. Investigation ongoing.
+
+🟩
+
+Fishermen from 14 Rameswaram have been arrested by the Navy in the Sri Lankan waters today (5).
+
+The fishermen who came to fish from the Rameshwaram fishing port on Wednesday (4) were arrested by the Talaimannar Navy while they were fishing in the Sri Lankan waters.
+
+The 14 arrested fishermen were fishing in two Indian drag boats, police said.
+
+The fishermen are being investigated by the fishermen after the arrested fishermen and drag boats were handed over to the Talaimannar Naval Camp.
+
+So far, 68 Indian fishing boats have been seized and 529 Indian fishermen have been arrested by the Navy in connection with illegal fishing activities within the country.
+
+◼️
+
+[Data](articles/ea7ad215.json)
+
+[Extended Data](ext_articles/ea7ad215.ext.json)
+
+---
 
 ### “The government must obtain parliamentary permission for it”
 
@@ -60,6 +174,38 @@ Rs.. 3 billion loan has been allocated for consistency and a further Rs.. He als
 
 ---
 
+### Arrested in drug trafficking under the guise of a postman
+
+*2024-12-05 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200476) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Postman caught smuggling heroin in Borella. 34-year-old suspect from Kottanchenai. Police seized over Rs 20 lakh worth of drugs. Arrested after 12 years of trafficking. Detained for 7 days pending investigation.
+
+🟩
+
+A suspect in the Borella police has been arrested by the Borella police for allegedly smuggling heroin under the guise of a postman in Vanathamulla area in Borella.
+
+The suspect has been arrested in connection with the information received by the Borella police.
+
+The suspect was 34 years old from Kottanchenai, Colombo.
+
+Heroin drug has been seized by the police at more than Rs 20 lakh from the suspect.
+
+Police investigations have revealed that the suspect has been involved in heroin trafficking for about 12 years under the guise of the postman.
+
+Subsequently, the court has ordered an inquiry to be detained for seven days after the suspect was produced before the Magistrate's Court.
+
+◼️
+
+[Data](articles/0b4819bc.json)
+
+[Extended Data](ext_articles/0b4819bc.ext.json)
+
+---
+
 ### Sri Lanka to ink debt deals by year’s end - Minister
 
 *2024-12-05 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104017/sri-lanka-to-ink-debt-deals-by-years-end-minister) · `en`
@@ -77,6 +223,8 @@ Economic development deputy minister Anil Jayantha Fernando said debt restructur
 ...
 
 [Data](articles/c4766bb9.json)
+
+[Extended Data](ext_articles/c4766bb9.ext.json)
 
 ---
 
@@ -105,6 +253,24 @@ Katunayake Police, Negombo Hospital, Seethawa Health Officer's Office and Divisi
 [Data](articles/1591af1e.json)
 
 [Extended Data](ext_articles/1591af1e.ext.json)
+
+---
+
+### අතුරු සම්මත ගිණුමෙන් මුදල් වෙන්කර ඇති ආකාරය මෙන්න
+
+*2024-12-05 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204064) · `si`
+
+2025 වසරේ පළමු මාස 04 සඳහා ඉදිරිපත් කළ අතුරු සම්මත ගිණුමෙන් රජයේ කටයුතු පවත්වාගෙන යාම සහ දැනට ආරම්භ කර ඇති ව්‍යාපෘති නොනවත්වා ඉදිරියට පවත්වාගෙන යාම සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 1,402කට ආසන්න ය.
+
+ඒ අනුව වැඩිම මුදලක් වෙන්කර ඇති අමාත්‍යාංශය වන්නේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයටය.
+
+මුදල් ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 186.02ක්ද, රාජ්‍ය පරිපාලන පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 170.47ක්, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය සඳහා රුපියල් බිලියන 161.99ක්ද, ආරක්ෂක අමාත්‍යාංශය සඳහා රුපියල් බිලියන 142.95ක්ද මෙම අතුරු සම්මත ගිණුමෙන් වෙන්කර තිබේ.
+
+අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 92ක් වන අතර කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍යාංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 67.36කි.
+
+◼️
+
+[Data](articles/c506803f.json)
 
 ---
 
@@ -424,24 +590,6 @@ In a statement issued on December 2, the U.S. Embassy in Sri Lanka said that dur
 
 ---
 
-### தலைமன்னார் கடற்பரப்பில் 14 ராமேஸ்வரம் மீனவர்கள் கைது
-
-*2024-12-05 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200471) · `ta`
-
-இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன்பிடியில் ஈடுபட்ட 14 இராமேஸ்வரத்தைச் சேர்ந்த மீனவர்கள் இன்று வியாழக்கிழமை (5) அதிகாலை இலங்கை கடற்பரப்பில் வைத்து கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
-
-ராமேஸ்வரம் மீன்பிடித் துறைமுகத்திலிருந்து புதன்கிழமை (4) காலை மீன் பிடிக்க வந்த மீனவர்கள் இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்துக்கொண்டிருந்தபோதே தலைமன்னார் கடற்படையினரால் கைது செய்யப்பட்டனர்.
-
-கைது செய்யப்பட்ட 14 மீனவர்களும் இரண்டு இந்திய இழுவைப் படகுகளில் மீன் பிடித்துக்கொண்டிருந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட மீனவர்களும் இழுவைப் படகுகளும் தலைமன்னார் கடற்படை முகாமில் ஒப்படைக்கப்பட்டதையடுத்து, அந்த மீனவர்களிடம் தலைமன்னார் கடற்படையினர் விசாரணை நடத்தி வருகின்றனர்.
-
-◼️
-
-[Data](articles/ea7ad215.json)
-
----
-
 ### The order to the petition against the Secretary of the Sri Lanka Olympic Committee
 
 *2024-12-05 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204060) · `si`
@@ -561,6 +709,22 @@ Regarding foreign debt restructuring, he stated: “Especially on the basis of a
 ...
 
 [Data](articles/65ef985c.json)
+
+---
+
+### තොග වෙලෙදුන්ට වඩා සිල්ලර වෙලදුන් පොල් වලින් වැඩි ලාභයක් උපයයි.
+
+*2024-12-05 10:50:30* · [`adalk`](https://www.ada.lk/breaking_news/තොග-වෙලෙදුන්ට-වඩා-සිල්ලර-වෙලදුන්-පොල්-වලින්-වැඩි-ලාභයක්-උපයයි-/11-413469) · `si`
+
+හැටන් නගරයට (05) දින දිවයිනේ විවිධ ප්‍රදේශවල සිට පොල් තොග වශයෙන් අලෙවි කිරිමට විශාල තොග වෙලෙදුන් පිරිසක් පැමිණ සිටිහ.
+
+එම වෙලෙදුන් ප්‍රමාණයෙන් විශාල පොල් ගෙඩියක් රු 160 ක තොග මිලකට සිල්ලර වෙලෙදුන්ට අලෙවි කලද, සිල්ලර වෙලෙදුන් විසින් වැඩි ලාභයක් උපයා ගැනිමේ අරමුණින් පොල් ගෙඩියක් රු 180-220 දක්වා වු විවිධ සිල්ලර මිල ගණන් යටතේ අලෙවි කරනු ලබයි.
+
+සිල්ලර වෙලෙදුන් කියා සිටින්නේ තොග වෙලෙදුන්ගෙන් ලබාගන්නා පොල් වලින් පොල් ගෙඩි කිහිපයක් නරක් වන බවත්, එහි පාඩුව පිරිමහ ගැනිම සදහා පොල් ගෙඩියකින් රු 30-40 ලාභයක් තබන බවයි.
+
+◼️
+
+[Data](articles/43f8cf65.json)
 
 ---
 
@@ -776,7 +940,13 @@ Addressing claims made by former president Ranil Wickremesinghe, who said that t
 
 Sri Lanka Podujana Peramuna (SLPP) Administrative Secretary Renuka Perera has been arrested by the Criminal Investigation Department (CID) for allegedly posting false information on ‘Mahaviru’ commemorations in the North through social media, police said.
 
-◼️
+A team of CID officers had visited Renuka Perera’s residence this morning (05) and took him into custody after recording a statement.
+
+Police stated that the CID is conducting further investigations regarding the arrest of Renuka Perera.
+
+Meanwhile, Minister Ananda Wijepala alleged yesterday (04) that photographs from past LTTE ‘Mahaviru’ celebrations that were held in other countries had been circulated on social media, to create the impression that similar events were taking place in the Northern Province of Sri Lanka under the current administration.
+
+...
 
 [Data](articles/bdac64f4.json)
 
@@ -1227,6 +1397,28 @@ Uniform weather in other parts of the country. The Department of Meteorology has
 [Data](articles/f86c7df8.json)
 
 [Extended Data](ext_articles/f86c7df8.ext.json)
+
+---
+
+### මහර බන්ධනාගාර ගැටුම: ‘සැකකරුවන් නිදැල්ලේ හැරීමට නීතිපති ගත් පියවරට’ අධිකරණයේදී වුණු දේ
+
+*2024-12-05 07:08:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cql5rd9l277o) · `si`
+
+මහර බන්ධනාගාර ගැටුම: ‘සැකකරුවන් නිදැල්ලේ හැරීමට නීතිපති ගත් පියවරට’ අධිකරණයේදී වුණු දේ
+
+2020 වසරේ මහර බන්ධනාගාරය තුළ ඇති වූ ගැටුම්වලින් සිරකරුවන් මරණයට පත්වීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගෙන ඔවුන්ට එරෙහිව නඩු පවරන ලෙස නීතිපතිවරයාට නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකර ඇති පෙත්සම සලකා බැලීමට අභියාචනාධිකරණය අද තීන්දු කළේ ය.
+
+ඒ අනුව, අභියාචනාධිකරණය නියම කළේ, පෙත්සමේ කරුණු තහවුරු කිරීම සඳහා මාර්තු මස 17 වන දා නැවත කැඳවන බව ය.
+
+අදාළ ගැටුමේදී මිය ගිය සිරකරුවෙකු වන සම්පත් පුෂ්පකුමාර නමැත්තාගේ බිරිඳ වන මෙහෙනුවර වසන්ති නමැත්තිය මෙම ඉදිරිපත් කර තිබිණි.
+
+පෙත්සම කැඳවූ අවස්ථාවේදී පෙත්සම්කාර පාර්ශවය වෙනුවෙන් පෙනී සිටි නීතිඥ ලක්ෂාන් ඩයස් අධිකරණය හමුවේ කරුණු දක්වමින්, මෙම සිද්ධියට සම්බන්ධ සැකකරුවන් හඳුනාගෙන අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස වැලිසර මහේස්ත්‍රාත්වරයා විසින් නියෝගයක් නිකුත් කරනු ලැබ තිබෙන බව සඳහන් කළේ ය.
+
+ඒ අනුව කටයුතු කරමින් සිද්ධියට සම්බන්ධ සැකකරුවන්ට එරෙහිව අධිචෝදනා ඉදිරිපත් කරන බවට නීතිපතිවරයා මීට පෙර අධිකරණයට දැනුම් දී තිබූ බව ද නීතිඥ ලක්ෂාන් ඩයස් පෙන්වා දුන්නේ ය.
+
+...
+
+[Data](articles/172fc373.json)
 
 ---
 
@@ -2231,171 +2423,5 @@ D. Samson & Sons Ltd., widely known as DSI, is a leading homegrown brand and man
 [Data](articles/0c106e61.json)
 
 [Extended Data](ext_articles/0c106e61.ext.json)
-
----
-
-### Hayleys Fentons unveils first immersive Experience Centre
-
-*2024-12-04 23:33:52* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-unveils-first-immersive-Experience-Centre/34-770099) · `en`
-
-Hayleys Fentons Ltd. announced the opening of its inaugural Experience Centre located at 223B, Nawala Road, Nugegoda.
-
-This pioneering facility is designed to provide an immersive, hands-on exploration of the company’s cutting-edge solutions across 12 key sectors: Solar Power, ICT, Security and Communication, Audio-Visual Integration (AVI), Electrical and Lighting, Fire Safety Solutions, Air Conditioning and Ventilation, Plumbing and Gas, Facilities Management, Uninterrupted Power Supply and Battery Backups, Architectural Drawings and 3D Visualisation, and Industrial Accessories Trading.
-
-Equipped with advanced technologies, the Experience Centre offers interactive product demonstrations, visually dynamic installations, and dedicated spaces for training, collaboration, and knowledge-sharing. It enables visitors to explore and engage with Hayleys Fentons’ innovative services in a hands-on environment.
-
-...
-
-[Data](articles/c73449bb.json)
-
-[Extended Data](ext_articles/c73449bb.ext.json)
-
----
-
-### A safe, supportive, caring and confidential space for men
-
-*2024-12-04 23:18:00* · [`islandlk`](http://island.lk/a-safe-supportive-caring-and-confidential-space-for-men/) · `en`
-
-Many men often struggle to connect with their emotions, and unlike women, seldom have access to ‘safe’ spaces where they can freely express what’s truly going on inside. A ‘safe space’ is a trusted environment devoid of judgments, for people to be themselves without fear of rejection or ridicule. A place with freedom, to share thoughts, ideas, feelings and experiences, to unlock inhibitions and grow. A place of encouragement, acknowledgement and genuine support to explore who you really are.
-
-To address the stigma surrounding men’s mental health and encourage open discussions about it, including toxic masculinity and ego.
-
-...
-
-[Data](articles/b9fb0ee5.json)
-
-[Extended Data](ext_articles/b9fb0ee5.ext.json)
-
----
-
-### What did the President say about the Terrorism Act?
-
-*2024-12-04 23:09:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தடைச்சட்டம்-குறித்து-ஜனாதிபதி-கூறியது-என்ன/175-348254) · `ta`
-
-Sri Lanka: President opposes future implementation of Terrorism Act, cites communal needs. Discusses North-East solutions, political prisoner releases, and justice for disappeared individuals.
-
-🟩
-
-President Anura Kumara Dissanayaka has told him that he does not want to implement the terrorism law in the future, said the Sri Lanka Tamil National Party's Batticaloa district parliamentarian Rasamanikam Chanakyan.
-
-He said the president said that some communal ideas were needed to use it.
-
-He made this statement during a meeting between President Anura Kumara Dissanayake and the Sri Lanka Tamil National Alliance (TNA) parliamentarians today.
-
-At the same time, Chanakyan said that he had discussed with the President on a number of issues, including the Samasti -based solution of the North and East, the release of political prisoners, the anti -terrorism law, the land grabbing and the justice for the disappeared.R
-
-◼️
-
-[Data](articles/d1189657.json)
-
-[Extended Data](ext_articles/d1189657.ext.json)
-
----
-
-### Defense Minister clarified on the commemoration of Heroes
-
-*2024-12-04 23:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-நினைவேந்தல்-குறித்து-பாதுகாப்பு-அமைச்சர்-விளக்கம்/175-348253) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Defense Minister clarifies Heroes Day commemorations: 244 events in North, 10 LTTE symbols displayed. Government respects memorials but prohibits LTTE-related visuals. Investigations ongoing.
-
-🟩
-
-Public Security Minister Ananda Wijepala told Parliament today that the LTTE symbols were displayed in 10 places during the 244 Heroes Day event in the North.
-
-According to police, 244 memories were held in the north during the Heroes Day week from 21 to 27 last November.
-
-He said the government respects the right of all citizens to commemorate the death of those who love the north or in the south.
-
-However, he outlined that any memory, which includes visuality of flags, symbols or symbols associated with the prohibited organization, LTTE, is unacceptable.
-
-Recently, a report issued in the Kalkamuwa area was misunderstood by the newspaper.
-
-According to police reports, 244 commemoration events were held in the north, with 10 LTTE symbols.. Investigations are underway into these events.
-
-...
-
-[Data](articles/46c278d9.json)
-
-[Extended Data](ext_articles/46c278d9.ext.json)
-
----
-
-### HNB General Insurance and Commercial Bank enter strategic bancassurance partnership
-
-*2024-12-04 22:57:00* · [`islandlk`](http://island.lk/hnb-general-insurance-and-commercial-bank-enter-strategic-bancassurance-partnership/) · `en`
-
-HNB General Insurance (HNBGI) recently entered into a bancassurance partnership with Commercial Bank of Ceylon PLC, one of Sri Lanka’s largest and most reputed private banks. This strategic partnership marks a milestone in their shared mission to provide innovative, customer-centric insurance solutions.
-
-The partnership was formalized by Sanath Manatunge, Managing Director / Chief Executive Officer of Commercial Bank, and Sithumina Jayasundara, CEO of HNB General Insurance, during a ceremonial signing. This strategic partnership alliance leverages the strengths of both institutions to deliver unparalleled convenience and tailored insurance options for their customers.
-
-...
-
-[Data](articles/cd0c291f.json)
-
-[Extended Data](ext_articles/cd0c291f.ext.json)
-
----
-
-### A quarter century of progress: Raffles’ story of resilience and innovation
-
-*2024-12-04 22:56:00* · [`islandlk`](http://island.lk/a-quarter-century-of-progress-raffles-story-of-resilience-and-innovation/) · `en`
-
-Raffles Consolidated (Pvt) Ltd, a leading name in Sri Lanka’s hospitality industry, celebrated its 25th anniversary on December 1, 2024. To mark this momentous occasion, the company revealed a number of significant plans made to usher in a new era of growth in the coming years.
-
-...
-
-[Data](articles/6be480e8.json)
-
-[Extended Data](ext_articles/6be480e8.ext.json)
-
----
-
-### Sri Lanka–Bangladesh Business Council holds 1st Annual General Meeting
-
-*2024-12-04 22:55:00* · [`islandlk`](http://island.lk/sri-lanka-bangladesh-business-council-holds-1st-annual-general-meeting/) · `en`
-
-The Sri Lanka–Bangladesh Business Council (SLBBC) of The Ceylon Chamber of Commerce held its 1st Annual General Meeting (AGM) on November 28, 2024, at the Hilton Colombo Residence. Dr. Asanka Ratnayake, a seasoned business leader, was re-elected as President of the Council for the 2024/2025 term.
-
-Andalib Elias, High Commissioner of Bangladesh to Sri Lanka, graced the event as the Chief Guest. In his address, High Commissioner Elias shared insightful perspectives on Bangladesh’s current political and economic landscape, emphasising opportunities for deeper collaboration between the two nations. He also highlighted the recent progress in Bangladesh under its interim government and outlined avenues for trade, investment, and tourism.
-
-...
-
-[Data](articles/36c1b2df.json)
-
-[Extended Data](ext_articles/36c1b2df.ext.json)
-
----
-
-### ITAK MPs reveal to the President's request
-
-*2024-12-04 22:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204047) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: ITAK MPs meet President Anura Kumara Dissanayake. Discussed devolution, land disputes, disappearances, and Prevention of Terrorism Act. Requested maximum power devolution in North and East. President agreed to further discuss these issues.
-
-🟩
-
-President Anura Kumara Dissanayake and Ilangai Tamil Arasu Kachchi (ITAK) discussions were held today (04).
-
-Speaking to the media, MP Sanakkir Rasorem said that he discussed a number of devolution of devolution.
-
-"In the next future, a new constitution discussed the land disputing, the acquisition of devolution, and the disappearances, and the disappearances.
-
-And discussed how the TNA's political stand. We have requested the maximum devolution of power in the North and East.
-
-The president told us that it could be discussed at length in the future. Also, the Prevention of Terrorism Act.. It was also used as a necessity to eliminate this racism because this was a necessity to eliminate communalism, but that the Prevention of Terrorism Act. The President wanted to find out whether the political prisoners could bail. "
-
-◼️
-
-[Data](articles/c206c563.json)
-
-[Extended Data](ext_articles/c206c563.ext.json)
 
 ---

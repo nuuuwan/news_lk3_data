@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 14:16:56**
+As of **2024-12-05 14:42:52**
 
 ## Newspaper Stats
 
-*Scraped **58,622** Articles*
+*Scraped **58,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,131 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,554
+adalk | 5,555
 adaderanalk | 7,120
-tamilmirrorlk | 8,349
-virakesarilk | 9,597
-adaderanasinhalalk | 10,127
+tamilmirrorlk | 8,350
+virakesarilk | 9,598
+adaderanasinhalalk | 10,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,606 (100.0%) of 58,622 articles have been extended.
+58,610 (100.0%) of 58,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### ஹந்தானையில் வழி தவறிய 10 மாணவர்கள் மீட்பு
+### 09 වනදා සිට ආපසු වැස්ස ?
+
+*2024-12-05 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204069) · `si`
+
+එළැඹෙන 09, 10, 11, 12 වැනි දිනයන් වල නැවත වරක් වැසි තත්ත්වයේ වර්ධනයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් අතුල කරුණානායක මහතා අද (05) මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැහැදිලි කළේය.
+
+නිරිතදිග බෙංගාල බොක්කේ දකුණු අන්දමන් දූපත් අසල නැවත වරක් කැළඹෙන ස්වභාවයක් උද්ගත වී ඇති බැවින් එහි බලපෑම ගැන ඉදිරියේදී දැනුම් දෙන කාලගුණ අනාවැකි සම්බන්ධයෙන් අවධානයෙන් සිටින ලෙසට ඒ මහතා වැඩදුරටත් ජනතාවගෙන් ඉල්ලා සිටියි.
+
+...
+
+[Data](articles/edc00b34.json)
+
+---
+
+### The corpse of the man from the tunnel
+
+*2024-12-05 14:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுரங்கத்தில்-இருந்து-ஆணின்-சடலம்-மீட்பு/76-348281) · `ta`
+
+Body found in 42nd tunnel near Temodara Railway Station. Identified as Ramakrishnan Krishnakumar, 27, missing since Wednesday night. Cause of death unknown; police investigating.
+
+🟩
+
+Ella police said that a body was recovered from the 42nd tunnel near the Temodara Railway Station on Thursday morning.
+
+The surveillance unit of the Temodara railway station informed the railway principal when he saw the body.
+
+The deceased was identified as Ramakrishnan Krishnakumar (age 27) of the Temodara Factory Division, police said.
+
+Residents told police that he was not at home on Wednesday night (04) night. The cause of the death has not yet been revealed and all the police are conducting further investigations.
+
+◼️
+
+[Data](articles/d11bf81e.json)
+
+[Extended Data](ext_articles/d11bf81e.ext.json)
+
+---
+
+### වසර 105කට පසු ඔක්ස්ෆර්ඩ් යන අපේ හාමුදුරුවෝ
+
+*2024-12-05 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204068) · `si`
+
+වසර 105කට පසුව බ්‍රිතාන්‍යයේ ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ අධ්‍යාපනය ලැබීම සඳහා ශ්‍රී ලාංකික භික්ෂූන් වහන්සේ නමක් සුදුසුකම් ලබා තිබේ.
+
+එම අවස්ථාව හිමිවී ඇත්තේ පූජ්‍ය වඩිගල සමිතරතන ස්වාමීන් වහන්සේ ට ය.
+
+උන්වහන්සේට දර්ශනපති උපාධිය හැදෑරීම සඳහා ශිෂ්‍යත්වයක් ලැබී ඇති අතර ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයට සහ ශ්‍රී ලංකාවට සුවිශේෂී අවස්ථාවක් බව එම විශ්වවිද්‍යාලය පවසයි.
+
+මීට පෙර ශ්‍රී ලාංකික භික්ෂුන් වහන්සේ නමක් ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ අධ්‍යාපන වරම් හිමිකරගත්තේ 1919 වසරේදී ය. ඒ පූජ්‍ය සූරියගොඩ සුමංගල හිමියන් ය.
+
+◼️
+
+[Data](articles/101198a3.json)
+
+---
+
+### Heroin in Malampay with 4 lakhs of rupees
+
+*2024-12-05 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200481) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Man arrested in Malabe with 436,770 rupees worth of heroin. Police seized 13 grams of drugs. Arrest made based on confidential tip.
+
+🟩
+
+A man was arrested by police on Wednesday (04) with heroin drugs in the Malambe Police Division.
+
+He was arrested on the basis of confidential information received by the Malabe police station.
+
+The police have seized 436,770 rupees earned by 13 grams of heroin and drug trafficking from the arrested person.
+
+◼️
+
+[Data](articles/07972988.json)
+
+[Extended Data](ext_articles/07972988.ext.json)
+
+---
+
+### 10 students who missed the way in Handana
 
 *2024-12-05 13:47:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹந்தானையில்-வழி-தவறிய-10-மாணவர்கள்-மீட்பு/76-348279) · `ta`
 
-கண்டி ஹந்தானை மலையில் வழி தவறி காணாமல் போன பாடசாலை மாணவர்கள் 10 பேர் அடங்கிய  குழுவொன்று   வியாழக்கிழமை (05) காலை பொலிஸார் மற்றும் இராணுவத்தினரால் மீட்கப்பட்டுள்ளது.
+Here's a 200-character summary:
 
-கொழும்பு மற்றும் கிரிபத்கொடை ஆகிய  பிரதேசங்களைச் சேர்ந்த 16 முதல் 17 வயதுக்குட்பட்ட பாடசாலை மாணவர்கள் குழுவொன்று  புதன்கிழமை (04) காலை பேராதனை பொலிஸ் பிரிவுக்கு உட்பட்ட சரசவிகம பிரதேசத்தில் இருந்து ஹந்தானை மலைக்கு சுற்றுலா சென்றுள்ளனர்.
 
-மலையில் ஏறிக்கொண்டிருந்த போது கடும் பனிமூட்டம் மற்றும் குளிர் காரணமாக வழி தவறி காணாமல் போயுள்ளனர்.
 
-காணாமல் போனவர்கள் குழு இது தொடர்பில் பொலிஸ் அவசர தொலைபேசி இலக்கத்திற்கு தகவல் வழங்கியுள்ள நிலையில் சம்பவ இடத்திற்கு விரைந்த பொலிஸார் மற்றும் இராணுவத்தினர் அந்த மாணவர்கைளை மீட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+10 students (16-17) missing while climbing Handana mountain due to snow & cold. Rescued by police & military on Thursday morning after search efforts.
+
+🟩
+
+A group of 10 school students who went missing from Handan on Handan on Handan have been rescued by police and military personnel on Thursday morning (05).
+
+A group of students between the ages of 16 to 17 in Colombo and Kiribathgodai have traveled from Sarasavigama area to Handanai on Wednesday morning (04).
+
+While climbing the mountain, they have gone missing due to heavy snow and cold.
+
+Police and soldiers rushed to the scene and the students have rescued the students as the police have informed the emergency telephone number.
 
 ◼️
 
 [Data](articles/f61858ba.json)
+
+[Extended Data](ext_articles/f61858ba.ext.json)
 
 ---
 
@@ -780,6 +874,24 @@ Renuka Perera was accused of posing photos of Liberation Tigers of Tamil Eelam (
 
 ---
 
+### ඇමෙරිකාවේ ඉහළ රාජ්‍ය නිලධාරියෙක් ලංකාවට
+
+*2024-12-05 10:59:32* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-ඉහළ-රාජ්‍ය-නිලධාරියෙක්-ලංකාවට/11-413470) · `si`
+
+ඇමෙරිකා එක්සත් ජනපදයේ රාජ්‍ය දෙපාර්තමේන්තුවේ දකුණු හා මධ්‍යම ආසියානු කටයුතු කාර්යාංශයේ සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා 12/05 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය .
+
+ඩොනල්ඩ් ලූ මහතා සමග එරට රාජ්‍ය දෙපාර්තමේන්තුවේ තවත් උසස් නිලධාරීවරයෙකු ද දූත පිරිස ලෙස කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+ඔවුන් 12/05 දින අලුයම 02.55 ට දෝහා නුවර සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 662 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+ඔවුන් පිළිගැනීම සදහා ශ්‍රී ලංකාවේ ඇමෙරිකානු තානාපති කාර්යාලයේ නිලධාරීන් පිරිසක් සහ ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+◼️
+
+[Data](articles/06b3bf80.json)
+
+---
+
 ### Debate on Vote on Account begins in Parliament
 
 *2024-12-05 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104011/debate-on-vote-on-account-begins-in-parliament) · `en`
@@ -797,6 +909,8 @@ Regarding foreign debt restructuring, he stated: “Especially on the basis of a
 ...
 
 [Data](articles/65ef985c.json)
+
+[Extended Data](ext_articles/65ef985c.ext.json)
 
 ---
 
@@ -2323,135 +2437,5 @@ However, it is important to stress at the outset, that while the terrain is fami
 [Data](articles/75bd8a8c.json)
 
 [Extended Data](ext_articles/75bd8a8c.ext.json)
-
----
-
-### AKD’s rightward neoliberal pivot: Dark debt deal, Tiger tribute coverup
-
-*2024-12-05 00:19:43* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-rightward-neoliberal-pivot-Dark-debt-deal-Tiger-tribute-coverup/4-770108) · `en`
-
-AKD with Senior Economic Advisor and Chairman, Ceylon Chamber of Commerce
-
-Act I: Ranil Wickremesinghe (and his CBSL chief) turn the debt problem into a ticking debt-bomb with the ISB surge at tail-end of Prime Ministerial tenure (2015-2019). (https://thediplomat.com/2023/03/the-real-cause-of-sri-lankas-debt-trap/)
-
-Act II: President Gotabaya Rajapaksa ignores the ‘China card’ of ongoing discussions for debt-rollover, inducts new technocrats and pivots to the IMF option. Ranil Wickremesinghe, nominated not elected to Parliament, is appointed by besieged Gotabaya as PM and selected by the SLPP-dominated parliament as President, defeating the competing candidate-- their dissenting colleague and Mahinda’s ideologue in 2005 and 2010, Dullas Alahapperuma. (Insiders say RW was Basil and Gota’s choice; Mahinda tells media he voted for Dullas.)
-
-...
-
-[Data](articles/728c4c42.json)
-
-[Extended Data](ext_articles/728c4c42.ext.json)
-
----
-
-### We will fully support the best decisions taken by the government for the welfare of the country -MLAM. Hisbullah
-
-*2024-12-05 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200435) · `ta`
-
-Sri Lanka Muslim Congress MP MLAM MLA supports government decisions for national welfare. Government aims to fulfill public expectations and develop IT sector. Focus on STEM education to boost employment and revenue. Addressing infrastructure issues in flood-affected areas.
-
-🟩
-
-The government has ruled with 159 seats.To make a new change in the lives of people. All the expectations of the people must be fulfilled.Sri Lanka Muslim Congress MP MLAM MLA said that the government will cooperate with the best decisions taken by the government for the welfare of the country.. Hizbullah said.
-
-He was speaking at the second day's debate on the President's Policy Declaration held in Parliament on Wednesday (04).
-
-I have visited the Tenth Parliament again. I thank Allah Allala. The people of Batticaloa district have been working for my success in the midst of massive challenges. So I would like to express my sincere gratitude to all those who cooperated with me.
-
-The government has ruled with 159 seats.To make a new change in the lives of people. All the expectations of the people must be fulfilled.We will cooperate fully with the best decisions taken by the government for the welfare of the country.
-
-...
-
-[Data](articles/6f8fd360.json)
-
-[Extended Data](ext_articles/6f8fd360.ext.json)
-
----
-
-### Why Dual Stability of Terrorism Act in the North
-
-*2024-12-05 00:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200429) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dual treatment of terrorism: Sivajilingam in North vs social activists in South. Attorney General consulted during arrests. National People's Power promises reduced fuel/electricity costs but fails to deliver. Government vows to combat racism and corruption.
-
-🟩
-
-Sivajilingam in the north. Social activists are arrested under the Terrorism Act in the South. Why this dual stand. Consult the Attorney General during these arrests.
-
-He was speaking at a debate on the President's Policy Declaration held in Parliament on Wednesday (04).
-
-I congratulate the government headed by President Anura Kumara Dissanayake. I also thank the people of Kurunegala Electoral District who supported me amidst massive political challenges.
-
-Prior to 2015, a massive voice was raised among the people on racism, religion and corruption. If the Ranil -Maithri government came to power in 2015, the country would have improved.
-
-Religious leaders advised Gotabhaya Rajapakse to manage this country to become Hitler. But he was spontaneously stupid. In the end, the country opposed the worst crises.
-
-It was in this context that the people of the country formed the power -led government. Remember that there is no way. The authority is like swing.
-
-...
-
-[Data](articles/29322a98.json)
-
-[Extended Data](ext_articles/29322a98.ext.json)
-
----
-
-### The Terrorism Act will be lifted and the new law will be introduced
-
-*2024-12-05 00:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200424) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New anti-terrorism law to replace Terrorism Act. Government vows to combat racism and religious extremism. Plans to introduce bills for asset recovery and criminal justice reform. Emphasizes rule of law and investor confidence.
-
-🟩
-
-The Terrorism Act is a law to be abolished. We accept. Our plan is to set up an anti -terrorism law in accordance with international law programs. So, until this law is allowed, the country has to take action to suppress racism and religiousism in the country.. Minister of Justice and National Integration Harshana Nanayakkara said that steps will be taken to submit three new Bill of Parliament on the recovery of stolen assets in the first quarter of the next year.
-
-He was speaking on the second day of debate on the President's policy speech held in Parliament on Wednesday (03).
-
-We will defend and fulfill the promises we made to the people and the issues made by the Presidential Council in the Declaration of the President.
-
-The main expectation of the people is to ensure the rule of law and establish law against fraudsters who destroyed the country's resources. We make the promise to the people that we will do these two matters.
-
-...
-
-[Data](articles/57e1ea88.json)
-
-[Extended Data](ext_articles/57e1ea88.ext.json)
-
----
-
-### Activists of the cylinder symbol - the Minister of Public Safety
-
-*2024-12-05 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200422) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Activists distort Heroes Day observations on social media, creating conflicts between North and South. Minister Ananda Wijepala warns against misinformation, emphasizes media freedom while protecting national integrity. Police action taken against LTTE symbol usage and false reporting.
-
-🟩
-
-Two of the new Democratic Front activists who have uploaded photos and videos on social networks to deliberately distort the Heroes Day observations in the North and East and create conflicts between the North and South.. The government does not need to suppress the media. Minister of Public Security and Parliamentary Affairs Ananda Wijepala said that everyone should remember that one's rights should not be a disruption to another.
-
-He was speaking at a special statement during a session held in Parliament on Wednesday (04).
-
-I expect to announce the reasons for the arrests and the reasons that have taken place over the past two weeks.
-
-The national people's power was received against racism. All ethnic groups have received a decree for national people's power to ensure national integrity. So we will act against racism and religion.
-
-...
-
-[Data](articles/ee300e12.json)
-
-[Extended Data](ext_articles/ee300e12.ext.json)
 
 ---

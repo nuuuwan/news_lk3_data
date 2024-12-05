@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 22:17:51**
+As of **2024-12-05 21:42:56**
 
 ## Newspaper Stats
 
-*Scraped **58,694** Articles*
+*Scraped **58,693** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
-colombotelegraphcom | 598
+colombotelegraphcom | 597
 bbccomsinhala | 614
 islandlk | 3,518
 economynextcom | 3,561
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,685 (100.0%) of 58,694 articles have been extended.
+58,684 (100.0%) of 58,693 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,8 +47,6 @@ Three sources told Reuters on Wednesday that Macron aimed to appoint a replaceme
 ...
 
 [Data](articles/3573f91e.json)
-
-[Extended Data](ext_articles/3573f91e.ext.json)
 
 ---
 
@@ -1215,18 +1213,6 @@ Secretary to the President Dr. Nandika Sanath Kanaratu, Chairman of the Board of
 [Data](articles/0c5c75f7.json)
 
 [Extended Data](ext_articles/0c5c75f7.ext.json)
-
----
-
-### Should The Left Embrace Capitalism Today?
-
-*2024-12-05 16:34:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-left-embrace-capitalism-today/) · `en`
-
-As we know, the primary aspiration of leftists has always been the establishment of a socialist society. In contrast, right-wing ideologies aim to construct a capitalist economic system. Now that a group claiming to be socialists and Marxists, who have fought for their ideals over a long period, holds state power in Sri Lanka, a just question arises: Will the new government operate under socialism or capitalism?
-
-...
-
-[Data](articles/243e9fa4.json)
 
 ---
 
@@ -2483,5 +2469,29 @@ Renuka Perera was accused of posing photos of Liberation Tigers of Tamil Eelam (
 [Data](articles/67b44183.json)
 
 [Extended Data](ext_articles/67b44183.ext.json)
+
+---
+
+### Sri Lanka's top government official in US
+
+*2024-12-05 10:59:32* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-ඉහළ-රාජ්‍ය-නිලධාරියෙක්-ලංකාවට/11-413470) · `si`
+
+Donald Lu, U.S. Deputy Assistant Secretary of State for South and Central Asian Affairs, arrives at Bandaranaike International Airport on April 12, 2023. He is accompanied by other State Department officials and embassy staff from both countries.
+
+🟩
+
+The South and Central Asian Affairs Bureau of the State Department in the United States Donald Lie arrived at the Bandaranaike International Airport on April 12/05.
+
+Along with Donald Lu, another senior officer of the State Department and the delegation was also present at the Katunayake airport.
+
+They were 12.55 on the morning of 02.55 am on 02.55 am.
+
+A group of officers of the US embassy in Sri Lanka and a group of officers of the Sri Lanka Embassy in Sri Lanka were also present at the Katunayake airport.
+
+◼️
+
+[Data](articles/06b3bf80.json)
+
+[Extended Data](ext_articles/06b3bf80.ext.json)
 
 ---

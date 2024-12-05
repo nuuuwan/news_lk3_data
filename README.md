@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 08:59:46**
+As of **2024-12-05 09:31:19**
 
 ## Newspaper Stats
 
-*Scraped **58,564** Articles*
+*Scraped **58,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,518
 economynextcom | 3,558
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,547
+adalk | 5,548
 adaderanalk | 7,108
 tamilmirrorlk | 8,335
 virakesarilk | 9,589
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,544 (100.0%) of 58,564 articles have been extended.
+58,549 (100.0%) of 58,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### World Bank supports Clean Sri Lanka
+
+*2024-12-05 08:39:52* · [`adalk`](https://www.ada.lk/breaking_news/Clean-Sri-Lanka-වැඩසටහනට-ලෝක-බැංකුවේ-සහාය/11-413466) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+World Bank supports Clean Sri Lanka. Exec Dir Parameswaran Iyer met Pres Anura Kumara Dissanayake. Discussed project extensions, rural poverty, North-East development. Govt focuses on agri, fisheries, tourism, edn & health. Ready to implement future dev plans.
+
+🟩
+
+The World Bank Executive Director Paramesquaran Iyer said that the support of the Government of Clean Sri Lanka will be supported by the World Bank.
+
+The Executive Director of the World Bank said this when he met President Anura Kumara Dissanayake yesterday at the Presidential Secretariat.
+
+The World Bank Executive Director said that the World Bank Executive Director, who was congratulated to the new government, will continue to implement all the support of the world Bank.
+
+The President also discussed the extension of projects and plans, such as the future development plans for the new government and the development of rural poverty.
+
+The people of the North and the East were also discussed at the long time to solve the people of the North and East.
+
+President Anura Kumara Dissanayake said that the government focuses on the development of agriculture, fisheries, tourism, education and health.
+
+...
+
+[Data](articles/0ddeadc1.json)
+
+[Extended Data](ext_articles/0ddeadc1.ext.json)
+
+---
 
 ### Vote on Account to be presented in Parliament today
 
@@ -49,6 +81,8 @@ Additionally, Speaker of the House Minister Bimal Rathnayake stated that the rev
 ...
 
 [Data](articles/b861897c.json)
+
+[Extended Data](ext_articles/b861897c.ext.json)
 
 ---
 
@@ -118,6 +152,8 @@ Barnier is now obliged to present the resignation of his government, and the bud
 
 [Data](articles/f42301ae.json)
 
+[Extended Data](ext_articles/f42301ae.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -162,23 +198,33 @@ In September, President Iimauuel McCron appointed Prime Minister, as the Prime M
 
 ---
 
-### ජීවිතයක් බිලිගත් ප්‍රේම කතාව
+### The love story of kills life
 
 *2024-12-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204051) · `si`
 
-සිරිපාගම පොලිස් වසමේ කැටවල ප්‍රදේශයේ දී පුද්ගලයෙකු විසින් තරුණියකට පොල්ලකින් පහරදී ඝාතනය කර තිබේ.
+Here's a summary in 200 characters:
 
-ඊයේ (04) උදෑසන මෙය සිදුව තිබූ අතර පහරදීමෙන් තුවාල ලැබූ තරුණියව ගිලීමලේ රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර  සඳහා රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
 
-පහරදීම සිදුකළ පුද්ගලයා සමග මියගිය තරුණිය ප්‍රේම සබඳතාවයක් පවත්වාගෙන ගොස් ඇති අතර දෙදෙනා අතර ඇති වූ බහින්බස් වීමක් දුරදිග යෑමෙන් පොල්ලකින් පහර දී ඝාතනය කර ඇති බව විමර්ශනවලදී අනාවරණය වී තිබේ.
 
-මෘත ශරීරය රත්නපුරය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධියෙන් පසු සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇත.
+Assault in Ketawala: Girl attacks man with stick. Victim hospitalized, suspect flees. Police investigating.
 
-සැකකරු අත්අඩංගුවට ගැනීම සඳහා සිරිපාගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+🟩
+
+A person has been assaulted by a girl with a stick in the Ketawala area in Siriwala area.
+
+The victim was admitted to the Ginkle Hospital and was admitted to the Ratnapura Hospital for further treatment.
+
+Investigations have revealed that the girl who was killed with the assault and had been assaulted by a stick and murdered a stick.
+
+The remains are placed at the Ratnapura hospital morgue and the suspect had fled the area after the incident.
+
+Siripatuna Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/228b6e19.json)
+
+[Extended Data](ext_articles/228b6e19.ext.json)
 
 ---
 
@@ -478,27 +524,37 @@ The price of essential commodities in the market has increased and people are ve
 
 ---
 
-### සහල් අර්බුදය: නත්තල් වෙද්දි හාල් මිල අහස උසට යයි ද?
+### The rice crisis: rice prices go back to heaven?
 
 *2024-12-05 02:21:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0x3p8zrklo) · `si`
 
-එක හාල් ඇටයක්ව පිටරටින් ආනයනය නොකරන බවට දුන් මැතිවරණ පොරොන්දුව කඩ කිරීමට රජයට සිදුව තිබේ. ඒ සහල් හිඟය හේතුවෙනි.
+Here's a summary of the text in approximately 200 characters:
 
-එයට විසඳුමක් ලෙස පිටරටින් සහල් ආනයනය කිරීමට රජය ප්‍රතිපත්තිමය තීරණයක් ගනු ලැබුවේ පසුගිය නොවැම්බර් මාසයේ දී ය.
 
-කෙසේ වෙතත් මෙතෙක් වෙළඳපලේ සහල් හිඟය අවසන් වී නොමැති අතර සහල් මිල ද පාලනයකින් තොරව ඉහල යමින් තිබේ.
 
-සහල් ආනයනය පහසු කිරිමට මෙන්ම සහල් හිඟය ඉක්මනින් අවසන් කිරිමට එක් පියවරක් ලෙස සහල් ආනයනයට පවතින සීමා තාවකාලිකව ඉවත් කිරිමට කැබිනට් මණ්ඩලය තීරණය කර ඇත.
+Rice crisis: Govt violates election promise, imports rice to address shortage. Prices rise despite imports. Disagreement between small mills and large exporters on pricing. Government aims to resolve crisis by Dec 20, 2023.
 
-එම තීරණයට අනුව 2024/12/20 දක්වා ආනයන පාලන බලපත්‍ර ලබා ගැනිමෙන් තොරව මෙරටට සහල් ගෙන්වීමට අවසර ලබා දී තිබේ.
+🟩
 
-පවතින අර්බුදකාරී තත්ත්වය හමුවේ ඉදිරි උත්සවය සමය වන විට මෙරට සහල් හිඟයට විසඳුමක් ලැබුණු ඇති දැයි බීබීසි සිංහල විසින් සොයා බලන ලදි.
+The government has to violate the election promise that one rice has not imported abroad. That's the shortage of rice.
 
-සුළු හා මධ්‍ය පරිමාණ මෝල් හිමියන්ගේ සංගමය පවසන්නේ සහල් ආනයනය කිරිමට රජය ගත් තීරණය මීට පෙර ගත යුතුව තිබු බවයි.
+The government made policy decision to import rice abroad as a solution.
+
+However, the shortage of rice in the market has not yet been completed and rice prices are also gone.
+
+The Cabinet has decided to temporarily remove the importance of rice as one step to facilitate the importation of rice as well as the shortage of rice shortly.
+
+According to the decision, it was permitted to import rice without obtaining the import control license to 2024/12/20.
+
+In the event of the prevailing crisis, BBC was found whether the lack of rice was found.
+
+Small and Medium Scale Mill Thera says the government has taken the decision to import rice.
 
 ...
 
 [Data](articles/5a3ae179.json)
+
+[Extended Data](ext_articles/5a3ae179.ext.json)
 
 ---
 
@@ -2375,31 +2431,5 @@ The haul of Kerala cannabis together with the dingy was handed over to the Jaffn
 [Data](articles/3c95e8bc.json)
 
 [Extended Data](ext_articles/3c95e8bc.ext.json)
-
----
-
-### The problem of food;Bail for both arrested!
-
-*2024-12-04 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200425) · `ta`
-
-Food relief dispute: Two youths granted bail after arrest over public argument during distribution in Point Pedro.
-
-🟩
-
-The Point Pedro Court on Wednesday (04) was granted bail to the two youths who were arrested on Wednesday (04) on the basis of a complaint lodged by the police regarding a dispute with the public when the Grama Sevakkar provided food relief in Vadamarachchi North Point Pedro.
-
-They were arrested on Monday (02) and filed in court on Monday (02).
-
-The Point Pedro Court has granted bail to the two arrested on the basis of a debate made by lawyers led by Attorney Wiswalingam Manivannan.
-
-On November 30 last year, the Grama Niladhari, who was providing food relief in the Kalovalam area, had a conflict with the children.
-
-As a result, the two were arrested on the basis of a complaint at the Grama Sevaka police station.
-
-◼️
-
-[Data](articles/aaa2a509.json)
-
-[Extended Data](ext_articles/aaa2a509.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 03:42:21**
+As of **2024-12-06 04:00:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,721 (100.0%) of 58,722 articles have been extended.
+58,722 (100.0%) of 58,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### ’ பக்கச்சார்பாக முதலீட்டு வாய்ப்புகள் வழங்கப்படாது.
+### Investment opportunities will not be provided by the phone.
 
 *2024-12-06 02:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பக்கச்சார்பாக-முதலீட்டு-வாய்ப்புகள்-வழங்கப்படாது/175-348330) · `ta`
 
-நாட்டில் ஏற்பட்டுள்ள அரசியல் ஸ்திரத்தன்மையுடன் முதலீடு செய்வதற்கு உகந்த சூழல் உருவாகியுள்ளது என ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+Sri Lanka offers stable political climate for investments, says President Anura Kumara Dissanayake. He emphasizes financial stability and independence for the Investment Board to attract clean investments. The President promises proper allocation of funds in the upcoming budget to enhance the board's execution capacity.
 
-புதிய முதலீட்டு வாய்ப்புகளை வழங்குகையில் அரசியல் பக்கச்சார்பு அடிப்படையில்  சந்தர்ப்பம் வழங்குதல் போன்ற எந்தவோர் அரசியல் அழுத்தங்களும் இனிமேல் இடம்பெறாது. நாட்டுக்கு உகந்த தூய்மையான முதலீடுகளை நாட்டுக்குள் கொண்டு வருவதற்கான முழுச் சுதந்திரத்தை இலங்கை முதலீட்டுச் சபைக்கு வழங்குவதாகவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-இலங்கை முதலீட்டுச் சபையின் உயர்மட்ட அதிகாரிகளுடன் வியாழக்கிழமை (05) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+President Anura Kumara Dissanayake said that there is a conducive environment for investing with the political stability in the country.
 
-அரசியல் ஸ்திரத்தன்மையை போலவே நாட்டுக்குள் நிதி ஸ்திரத்தன்மையையும் உறுதிப்படுத்திக்கொள்ள வேண்டும் என சுட்டிக்காட்டிய ஜனாதிபதி அநுரகுமார திசாநாயக்க, அது தொடர்பிலான பாரிய பொறுப்பு முதலீட்டுச் சபைக்கு உள்ளது என்றும் சுட்டிக்காட்டினார்.
+Political tensions will no longer take place, such as providing new investment opportunities. The President also said that the Sri Lanka Investment Board is giving the full independence to bring the country's clean investments into the country.
+
+The President made this statement during a discussion held at the Presidential Office on Thursday (05) with top officials of the Sri Lanka Investment Board.
+
+President Anura Kumara Dissanayake pointed out that the country should ensure financial stability in the country, like political stability, and that the Investment Council has a huge responsibility.
+
+The President promised to dedicate the responsibility of the Investment Council properly and that the Investment Council would be fully independent to bring in the country's conducive investment.
 
 ...
 
 [Data](articles/2faca229.json)
+
+[Extended Data](ext_articles/2faca229.ext.json)
 
 ---
 

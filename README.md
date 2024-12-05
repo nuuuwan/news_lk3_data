@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 23:26:36**
+As of **2024-12-06 00:02:44**
 
 ## Newspaper Stats
 
-*Scraped **58,701** Articles*
+*Scraped **58,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 445
 colombotelegraphcom | 598
 bbccomsinhala | 614
 islandlk | 3,518
-economynextcom | 3,561
+economynextcom | 3,572
 dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,569
-adaderanalk | 7,130
+adaderanalk | 7,131
 tamilmirrorlk | 8,365
 virakesarilk | 9,618
 adaderanasinhalalk | 10,140
@@ -26,11 +26,51 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,692 (100.0%) of 58,701 articles have been extended.
+58,694 (100.0%) of 58,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### President assures media freedom will not be compromised or restricted in any way
+
+*2024-12-05 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104030/president-assures-media-freedom-will-not-be-compromised-or-restricted-in-any-way) · `en`
+
+President Anura Kumara Dissanayake emphasized that he regards the media not as outsiders but as an integral part of the effort to build a better state and improve the lives of all citizens.
+
+He made these remarks during a meeting held today (05) with the heads of electronic media organizations at the Presidential Secretariat in Colombo, the President’s Media Division (PMD) reported.
+
+The President highlighted that the people expect a good political culture and elected the current government to fulfill that expectation. He invited all media organizations to collaborate in fostering the new political, social, and economic changes that the people desire.
+
+Additionally, President Dissanayake urged media heads to refrain from reporting false information that could harm national harmony. While affirming that the media has the right to question or criticize the government on political and economic matters, he stressed the importance of responsible reporting.
+
+...
+
+[Data](articles/a5b8a49f.json)
+
+[Extended Data](ext_articles/a5b8a49f.ext.json)
+
+---
+
+### Sri Lanka Lawyers Collective call for end to executive presidency, online policing law, PTA
+
+*2024-12-05 22:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-lawyers-collective-call-for-end-to-executive-presidency-online-policing-law-pta-192409/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Lawyers Collective has called on the National Poeople’s Power administration to abolish of the executive presidency, repeal an anti-terror law and an online policing law.
+
+“The autocratic rule made possible in the role of the executive president has been extremely damaging to democracy, the rule of law and the independence of institutions including the judiciary,” the lawyers said in a statement.
+
+“The abuse of power and undermining of all public institutions and the corruption that has accompanied this have been witnessed by citizens for decades, especially in 2009-2024.
+
+Lawyers Collective on a Legislative Agenda for the New Government and Parliament and Rule of Law Issues
+
+...
+
+[Data](articles/d9dd024f.json)
+
+[Extended Data](ext_articles/d9dd024f.ext.json)
+
+---
 
 ### Riclton century, a half -century of South Africa
 
@@ -1386,6 +1426,62 @@ The Venerable Thero was awarded the ‘National First Prize’ (with a Korean Go
 
 ---
 
+### Sri Lanka leader assures autonomy to BOI, no political favoritism for new investments
+
+*2024-12-05 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-assures-autonomy-to-boi-no-political-favoritism-for-new-investments-192389/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has assured autonomy for the state-run Board of Investment (BOI) in attracting clean investments without any political favoritism, his office said.
+
+Sri Lanka has been lower ranked in ease of doing business due to several layers of red tapes, bribes, and political favoritism in attracting foreign direct investment (FDI) in the past.
+
+Government sources have told EconomyNext, the government is in the process of digitizing FDI applications to minimize corruptions and red tapes with some developed nations pledging significant FDI, if the island nation reduces the red tapes and corruption.
+
+President Dissanayake during a discussion held with senior officials of the BOI has said with the political stability after the new government, “an environment suitable for investment has been created”.
+
+...
+
+[Data](articles/002869b0.json)
+
+---
+
+### Dr Nilupul Perera appointed chairman of Lanka Hospitals
+
+*2024-12-05 16:48:00* · [`economynextcom`](https://economynext.com/dr-nilupul-perera-appointed-chairman-of-lanka-hospitals-192394/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Lanka Hospitals Corporation has appointed Dr M Nilupul Perera as Group Chairman of the company, effective Thursday.
+
+Dr Perera is a consultant neurologist with over 18 years of clinical experience
+
+He has been a key advocator in advancing patient care and institutional excellence in his professional career, the company said in a stock exchange filing.
+
+He holds MBBS and Doctor of Medicine qualifications from the University of Colombo and is a Board-certified consultant in Neurology. (Colombo/Dec5/2024)
+
+◼️
+
+[Data](articles/3b7829f4.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 290.30/40 to dollar, bonds steady
+
+*2024-12-05 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-30-40-to-dollar-bonds-steady-192385/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.30/40 to the US dollar on Thursday from 290.40/50 to the US dollar on Wednesday dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.40/50 percent, up from 9.35/45 percent.
+
+A bond maturing on 15.10.2027 closed at 10.10/25 percent, down from 10.15/25 percent.
+
+A bond maturing on 15.03.2028 closed stable at 10.45/55 percent.
+
+A bond maturing on 15.09.2029 closed at 10.82/90 percent, from 10.80/95 percent. (Colombo/Dec5/2024)
+
+◼️
+
+[Data](articles/85b4ae6e.json)
+
+---
+
 ### Political friends cannot be provided
 
 *2024-12-05 16:47:39* · [`adalk`](https://www.ada.lk/breaking_news/ආයෝජන-අවස්ථා-ලබාදීමේදී-දේශපාලන-හිතවත්කම්-බෑ/11-413476) · `si`
@@ -1490,6 +1586,30 @@ The man was collided with the rice train from Colombo to Badulla yesterday (04) 
 
 ---
 
+### Sri Lanka stocks close up, ASPI climbs further
+
+*2024-12-05 16:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-aspi-climbs-further-121005/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader ASPI reached a new  reached a new historic peak to close up 0.35 percent, or 47.68 points, at 13,559.
+
+The more liquid S&P SL20 Index closed up 0.91 percent, or 36.43 points, at 4,053.
+
+Turnover was 4.4 billion. Most of this came from capital goods (Rs1.07bn) and banks sectors (Rs1.28bn).
+
+Top positive contributors to the ASPI were Commercial Bank (up at 129.00), Sampath Bank (up at 101.25), Melstacorp (up at 106.00), Hatton National Bank (up at 240.25), and John Keells Holdings (up at 20.80).
+
+Other banking stocks also fared well; DFCC Bank (up at 88.10), and National Development Bank (up at 85.80), and Nations Trust Bank (up at 158.25).
+
+Shares that saw interest included Access Engineering (up at 30.00), JKH, and Lankem Developments (up at 21.90).
+
+...
+
+[Data](articles/a43641e1.json)
+
+---
+
 ### 10 rupees coin in an elephant's stomach
 
 *2024-12-05 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200492) · `ta`
@@ -1553,6 +1673,42 @@ The London-based rights organisation said its findings were based on “dehumani
 [Data](articles/52555725.json)
 
 [Extended Data](ext_articles/52555725.ext.json)
+
+---
+
+### Over 60 Sri Lankans in ITJP list for sanctions, travel bans for economic and human rights crimes
+
+*2024-12-05 15:54:00* · [`economynextcom`](https://economynext.com/over-60-sri-lankans-in-itjp-list-for-sanctions-travel-bans-for-economic-and-human-rights-crimes-192318/) · `en`
+
+ECONOMYNEXT – More than 60 Sri Lankans, including military officials, have been included in a list submitted by the International Truth and Justice Project (ITJP) seeking sanctions and travel bans for human rights and economic crimes in the country and multiple universal jurisdiction cases.
+
+The submissions have been sent to the governments of the United States, United Kingdom, Australia, and Canada as well as the European Union and the United Nations, the ITJP said in a statement.
+
+“In the absence of any criminal accountability to date, it is vital to continue to document past and current crimes, analyse the evidence and use every channel to keep on asserting the truth,” Yasmin Sooka, executive director of ITJP said.
+
+“We hope the new government in the UK will sanction Sri Lankans on Human Rights Day this year (10 December) for their alleged role in war crimes during the end of the country’s conflict,” she said.
+
+...
+
+[Data](articles/016f74c6.json)
+
+---
+
+### US Treasury Deputy Asst Secretary meets Sri Lanka’s Finance Ministry Secretary
+
+*2024-12-05 15:53:00* · [`economynextcom`](https://economynext.com/us-treasury-deputy-asst-secretary-meets-sri-lankas-finance-ministry-secretary-192358/) · `en`
+
+ECONOMYNEXT – The US Department of the Treasury’s Deputy Assistant Secretary for Asia Robert Kaproth met with Sri Lanka’s Ministry of Finance secretary Mahinda Siriwardene.
+
+Kaproth met with Siriwardene “to discuss how the United States can support Sri Lanka’s economic reforms and growth goals,” US Ambassador to Sri Lanka Julie Chung said.
+
+They “explored opportunities for stronger U.S.-Sri Lanka collaboration to strengthen fiscal resilience,” Chung said on social media platform X.
+
+Sri Lanka’s new government passed  a vote on accounts yesterday in parliament. A budget is scheduled to be tabled in February 2025. (Colombo/Dec5/2024)
+
+◼️
+
+[Data](articles/9841d88a.json)
 
 ---
 
@@ -1627,6 +1783,28 @@ Chanakyan MP on this issue. And I had discussed with Sathiyalingam MP. I have al
 [Data](articles/8c4cfed2.json)
 
 [Extended Data](ext_articles/8c4cfed2.ext.json)
+
+---
+
+### SAARC group adopts recommendations for implementing Thimphu Statement
+
+*2024-12-05 15:37:00* · [`economynextcom`](https://economynext.com/saarc-group-adopts-recommendations-for-implementing-thimphu-statement-192325/) · `en`
+
+ECONOMYNEXT – A set of recommendations to facilitate the full implementation of the Thimphu Statement was adopted at a SAARC Inter-Governmental Expert Group on Climate Change meeting in Sri Lanka.
+
+The Fifth Meeting of SAARC Inter-Governmental Expert Group on Climate Change was held in Colombo from 3-4 December.
+
+The forum sought to assess the implementation of the Thimphu Statement on Climate Change, the Foreign Ministry said in a statement.
+
+“At the end of the two-day meeting, a set of recommendations for the way forward to facilitate the full implementation of the Thimphu Statement was adopted.”
+
+The Thimphu Statement recognizes the need for effective response formulated and implemented at regional and international levels to combat the adverse effects of climate change.
+
+It was adopted by leaders of SAARC member states at the 16th SAARC Summit in April 2010. (Colombo/Dec5/2024)
+
+◼️
+
+[Data](articles/540ae19a.json)
 
 ---
 
@@ -1741,6 +1919,26 @@ Govt. allocates nearly Rs. 1,402 billion through Vote on Account by Adaderana On
 [Data](articles/d8bfce14.json)
 
 [Extended Data](ext_articles/d8bfce14.ext.json)
+
+---
+
+### Sri Lanka’s Bank of Ceylon upgraded to CCC- on reduced failure risk: Fitch
+
+*2024-12-05 14:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-upgraded-to-ccc-on-reduced-failure-risk-fitch-192314/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it upgraded the long term rating of Bank of Ceylon to CCC- from CC and also upgraded a viability rating (VR) and removed a rating watch negative (RWN).
+
+“The removal of the RWN and the upgrade of the VR reflects our view that risk of failure – as per Fitch’s Bank Rating Criteria – stemming from capital deficiencies has declined significantly,” Fitch said.
+
+“The action reflects the advanced stages of the government’s efforts to restructure the debt granted to a stateowned entity. We do not expect the estimated losses from this restructuring to be sufficiently large to require extraordinary support to restore viability.”
+
+Fitch Upgrades Bank of Ceylon’s Foreign-Currency IDR and VR to ‘CCC-‘/’ccc-‘; Removes RWN on VR
+
+Fitch Ratings – Singapore/Colombo – 05 Dec 2024: Fitch Ratings has upgraded Bank of Ceylon’s (BOC) Long-Term Foreign Currency Issuer Default Rating (IDR) to ‘CCC-‘ from ‘CC’.
+
+...
+
+[Data](articles/236dee3f.json)
 
 ---
 
@@ -2273,241 +2471,5 @@ The Navy said, as an extension of these operations, the North Central Naval Comm
 [Data](articles/cf08e6c0.json)
 
 [Extended Data](ext_articles/cf08e6c0.ext.json)
-
----
-
-### School students from Hantane
-
-*2024-12-05 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204063) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Colombo school group stranded in Hanthana. Soldiers rescued after protest. Students entered unsecured area. Army cited fog as reason for delay. 111 Brigade and 2 Sri Lanka Lions Regiment involved in rescue operation.
-
-🟩
-
-A group of 10 students from a major school in Colombo has been stranded to visit Hanthana.
-
-The soldiers were later able to liberate their group in protest.
-
-They went to watch Hanthana and crossed it and followed a unsecured area.
-
-The Army said that due to the fog of the mascaditorium in the leg, the road was unable to return to the fog.
-
-After the troops of the Army, the 111 Brigade Headquarters and 2 Sri Lanka Lions Regiment (Sri Lanka) launched.
-
-Accordingly, the meeting was commenced at around 8 pm and the students have taken measures to protect the students safely.
-
-◼️
-
-[Data](articles/c732420c.json)
-
-[Extended Data](ext_articles/c732420c.ext.json)
-
----
-
-### 14 Tamil Nadu fishermen arrested
-
-*2024-12-05 12:14:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-14-பேர்-கைது/175-348272) · `ta`
-
-Sri Lankan navy arrests 14 Tamil Nadu fishermen; total arrests since Jan: 529. Two fishing boats seized near Kachchativu.
-
-🟩
-
-The Sri Lankan navy arrested 14 fishermen on Thursday (05).
-
-More than three thousand fishermen from Rameswaram fishing port went to sea on Wednesday (04). The Sri Lankan navy seized two fishing boats belonging to British and Majo, who were fishing near Kachchativu on Thursday morning.
-
-Fourteen fishermen were arrested from two boats - Ripoxon, Raja Prabhu, Aravind, Robinston, Muniswaran, Prashant, Health, Pedrik Nathan, Job, John Immarasan, Arul Britain, Nishad, Vineith and Anthony Lisbon.
-
-Earlier, from January to the present, the Sri Lankan navy has arrested 529 fishermen by capturing 67 Tamil Nadu fishermen.
-
-◼️
-
-[Data](articles/a4be92cb.json)
-
-[Extended Data](ext_articles/a4be92cb.ext.json)
-
----
-
-### President alleges the money allocated to Ranil for 4 months - Kabir charged
-
-*2024-12-05 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204062) · `si`
-
-Here's a 200-character summary:
-
-
-
-President accuses Ranil Wickremesinghe of misusing Rs. 1.4 trillion allocated in 2025 budget. Claims IMF agreement compliance differs from previous framework, criticizes neo-liberal approach.
-
-🟩
-
-The Hon.
-
-He said that the debate for the interim account for the interim account in Parliament today, he said that the amount allocated was Rs. 1.4 trillion.
-
-"In 2024, Ranil Wickremesinghe has allocated Rs. 1.4 trillion in the President's budgetary speech. In 2025, President of Anura Kumara Dissanayake has allocated 4 months from January to April and Rs. 1.4 trillion. There are no difference in that number. What's the difference is reduced from. The System Anura Change Anura Change. Explain to us. The President said at the Chairperson's speech IMF agreement says IMF agreement executes a singer. That's good. We said that the IMF agreement was up to the framework that some of the contents of the compliance. But today you are more neo-liberal. "
-
-◼️
-
-[Data](articles/8ee5c804.json)
-
-[Extended Data](ext_articles/8ee5c804.ext.json)
-
----
-
-### 10 rupee coin in the stomach of 1 elephant
-
-*2024-12-05 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகதந்து-1-யானையின்-வயிற்றில்-10-ரூபாய்-நாணயம்/175-348271) · `ta`
-
-Elephant found with 10-rupee coin in stomach during autopsy. Coin discovered after elephant electrocuted, aged 45-50. Insurance manager arrested for elephant's death. Ivory recovered and buried safely.
-
-🟩
-
-During the autopsy of the elephant 1 elephant, a 10 -rupee coin was found in its stomach, said Sandana Jayasinghe, a veterinary surgery of the Department of Wildlife Conservation.
-
-He told the Daily Mirror that the elephant was killed by electricity. Steps have been taken to protect its ivory and head. The elephant between the ages of 45 to 50, which is 9 feet 2 inches tall, was transferred to the Kahalla Pallekela Sanctuary due to heavy rains in the Kala Veva reservoir.
-
-On November 29, wildlife officers removed the elephant's head with ivory and took them to the Calgiriyagama Wildlife Conservation Office.
-
-After the autopsy, the head was buried safely. Officials are planning to dig in to safely recover the ivory.
-
-Dr. Jayasinghe confirmed the death of the elephant due to a heart attack caused by electricity.
-
-...
-
-[Data](articles/814b5254.json)
-
-[Extended Data](ext_articles/814b5254.ext.json)
-
----
-
-### Booking of 30,000 metric tons of rice!
-
-*2024-12-05 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200469) · `ta`
-
-Rice import surge: 25,000-30,000 metric tons from India booked to address shortage. Green and Samba varieties imported. Low quantities due to time constraints.
-
-🟩
-
-Importers in the back of the fort have booked 25,000 to 30,000 metric tonnes of rice from India to find an immediate solution to the shortage of rice, according to the Essential Food Importers Association.
-
-Importers say that due to the lack of time for the import of rice, it can be imported with low amounts of rice.
-
-Meanwhile, the importers of the Essential Food Importers Association said the country, green and samba were imported.
-
-◼️
-
-[Data](articles/554d1b82.json)
-
-[Extended Data](ext_articles/554d1b82.ext.json)
-
----
-
-### Petition against National Olympic Committee’s Secretary General deferred
-
-*2024-12-05 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104014/petition-against-national-olympic-committees-secretary-general-deferred-) · `en`
-
-The Colombo District Court today (05) ordered that the petition seeking an injunction to suspend the activities of the Secretary General of the National Olympic Committee of Sri Lanka, Maxwell De Silva, be recalled on December 18.
-
-The petition was filed by the former Secretary of the Cycling Federation of Sri Lanka, Nalin Adhikariarchchige,  and the President of the Handball Federation of Sri Lanka (HFSL), Upali Rajapaksa.
-
-When the case was taken up today, legal representatives for some of the respondents requested additional time to submit objections.
-
-Granting their request, the court ordered the case to be taken up again on December 18 and instructed all parties to file their objections and related written submissions prior to the next hearing date.
-
-...
-
-[Data](articles/dfa6b152.json)
-
-[Extended Data](ext_articles/dfa6b152.ext.json)
-
----
-
-### Trader arrested for illegally operating gun factory
-
-*2024-12-05 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200472) · `ta`
-
-Trader arrested for illegal gun factory operation in Ratnapura. Special Task Force seized items including hammers. Suspect detained based on received information.
-
-🟩
-
-A businessman who illegally operates a gun factory in the Raghwanai area in Ratnapura has been arrested by the Special Task Force.
-
-The suspect has been arrested in connection with information received by the Special Task Force.
-
-Various items, including the products used to make guns from the suspect, have been seized, including hammer and two metal hammer.
-
-◼️
-
-[Data](articles/6877651f.json)
-
-[Extended Data](ext_articles/6877651f.ext.json)
-
----
-
-### Navy arrests 14 Indian fishing boats
-
-*2024-12-05 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204061) · `si`
-
-Sri Lanka Navy arrests 14 Indian fishing boats, detains 7 crew members for unauthorized fishing in SL waters. Operation brings total detained fishermen to 529. Boats and crew handed over to local authorities for legal action.
-
-🟩
-
-Seven persons were taken into custody with two Indian fishing boats with unauthorized fishing in Sri Lankan waters.
-
-The Sri Lanka Navy stated that the special search operation was launched last night.
-
-Two Indian fishing boats and the 14 Indian fishermen were brought to Taaticamamannar jawatt and will be handed over to the Mannar Fisheries Inspector Office for future legal action.
-
-With this operation, unauthorized fishermen and 529 Indian fishermen have been taken into custody.
-
-◼️
-
-[Data](articles/6d63285a.json)
-
-[Extended Data](ext_articles/6d63285a.ext.json)
-
----
-
-### Special audit on electric vehicle imports for expat workers
-
-*2024-12-05 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104013/special-audit-on-electric-vehicle-imports-for-expat-workers-) · `en`
-
-A special audit has been carried out on the scheme introduced to import fully electric vehicles for expatriate workers.
-
-The Speaker of Parliament Ashoka Ranwala stated that the relevant audit report would be presented to the Parliament today (05).
-
-Accordingly, the related audit has been conducted regarding the issuance of permits through the scheme which was implemented from May 01, 2022, to September 15, 2023.
-
-◼️
-
-[Data](articles/389fd996.json)
-
-[Extended Data](ext_articles/389fd996.ext.json)
-
----
-
-### Lover
-
-*2024-12-05 11:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-மரக்கட்டையால்-அடித்துக்-கொன்ற-காதலன்/175-348269) · `ta`
-
-Siripagama police investigating murder of 23-year-old woman in Kedawala. Suspect arrested after argument with girlfriend.
-
-🟩
-
-Siripagama police have launched an investigation into the arrest of a suspect in connection with the murder of a 23 -year -old girlfriend in Kedawala area on Wednesday.
-
-Police said the man had been assaulted by a woman during the argument yesterday evening.
-
-Preliminary inquiries revealed that the woman and the suspect had been involved in a romantic relationship and that the argument was over.
-
-◼️
-
-[Data](articles/e0f52e45.json)
-
-[Extended Data](ext_articles/e0f52e45.ext.json)
 
 ---

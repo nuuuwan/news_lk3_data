@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 11:43:26**
+As of **2024-12-05 12:02:39**
 
 ## Newspaper Stats
 
-*Scraped **58,590** Articles*
+*Scraped **58,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,59 @@ adalk | 5,551
 adaderanalk | 7,112
 tamilmirrorlk | 8,340
 virakesarilk | 9,593
-adaderanasinhalalk | 10,120
+adaderanasinhalalk | 10,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,576 (100.0%) of 58,590 articles have been extended.
+58,581 (100.0%) of 58,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### காதலியைக் மரக்கட்டையால் அடித்துக் கொன்ற காதலன்
+### ඉන්දීය ධීවර යාත්‍රා 2ක් සමග 14 දෙනෙක් නාවික හමුදා භාරයට
+
+*2024-12-05 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204061) · `si`
+
+මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා 02ක් සමග එහි සිටි 14 දෙනෙකු මන්නාරම උතුරු මුහුදේදී නාවික හමුදා භාරයට ගෙන තිබේ.
+
+ශ්‍රී ලංකා නාවික හමුදාව සඳහන් කළේ ඊයේ (04) රාත්‍රියේ මෙම විශේෂ සෝදිසි මෙහෙයුම දියත් කළ බවය.
+
+ඉන්දීය ධීවර යාත්‍රා 02ක සහ ධීවරයින් 14 දෙනා තලෛමන්නාරම ජැටිය වෙත රැගෙනවිත් ඇති අතර ඉදිරි නීතිමය කටයුතු සඳහා මන්නාරම ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාරදීමට නියමිතය.
+
+මෙම මෙහෙයුමත් සමග 2024 වර්ෂයේ මේ දක්වා සිදුකළ මෙහෙයුම්වලින් මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා 68ක් සහ ඉන්දීය ධීවරයින්529 දෙනෙකු නාවික හමුදා භාරයට ගෙන ඉදිරි නීතිමය කටයුතු සඳහා යොමු කර තිබේ.
+
+◼️
+
+[Data](articles/6d63285a.json)
+
+---
+
+### Lover
 
 *2024-12-05 11:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியைக்-மரக்கட்டையால்-அடித்துக்-கொன்ற-காதலன்/175-348269) · `ta`
 
-கெடவல பிரதேசத்தில் நேற்று புதன்கிழமை 23 வயதுடைய காதலியை கொலை செய்த சம்பவம் தொடர்பில் தேடப்பட்டு வரும் சந்தேகநபரை கைது செய்வதற்கான விசாரணைகளை சிறிபாகம பொலிஸார் ஆரம்பித்துள்ளனர்.
+Here's a summary of 200 characters:
 
-நேற்று மாலை ஏற்பட்ட வாக்குவாதத்தின் போது குறித்த நபர் பெண்ணை மரக்கட்டையால் தாக்கியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-முதற்கட்ட விசாரணையில், குறித்த பெண்ணும் சந்தேக நபரான ஆணும் காதல் உறவில் ஈடுபட்டு வந்ததாகவும், வாக்குவாதம் முற்றியதையடுத்து காதலியை தாக்கியுள்ளதாகவும் தெரியவந்துள்ளது.
+
+Siripagama police investigating murder of 23-year-old girlfriend in Kedawala. Suspect arrested after assault during argument over romantic relationship.
+
+🟩
+
+Siripagama police have launched an investigation into the arrest of a suspect in connection with the murder of a 23 -year -old girlfriend in Kedawala area on Wednesday.
+
+Police said the man had been assaulted by a woman during the argument yesterday evening.
+
+Preliminary inquiries revealed that the woman and the suspect had been involved in a romantic relationship and that the argument was over.
 
 ◼️
 
 [Data](articles/f872a149.json)
+
+[Extended Data](ext_articles/f872a149.ext.json)
 
 ---
 
@@ -126,17 +154,27 @@ A group of missing students later informed the police emergency telephone number
 
 ---
 
-### மொட்டுவின் நிர்வாக செயலாளர் கைது
+### Mottu's Executive Secretary arrested
 
 *2024-12-05 11:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-நிர்வாக-செயலாளர்-கைது/175-348267) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நிர்வாக செயலாளர் ரேணுகா பெரேரா குற்றப் புலனாய்வுப் பிரிவினரால் சில நிமிடங்களுக்கு முன்னர் கைது செய்யப்பட்டதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-தமிழீழ விடுதலைப் புலிகளின் தலைவர் வேலுப்பிள்ளை பிரபாகரனின் புகைப்படங்களை சமூக ஊடகங்களில் வெளியிட்டதாக   ரேணுகா பெரேரா மீது குற்றம் சுமத்தப்பட்டு, அந்தக் குற்றச்சாட்டின் பேரில் அவர் கைது செய்யப்பட்டதாக சிரேஷ்ட பொலிஸ் அதிகாரி தெரிவித்தார்.
+
+
+Sri Lanka: Renuka Perera, Mottu's Executive Secretary, arrested by CID for posting LTTE leader Velupillai Prabhakaran photos on social media.
+
+🟩
+
+A senior police official said that Renuka Perera, the executive secretary of the Sri Lanka PA, was arrested by the Criminal Investigation Division a few minutes ago.
+
+Renuka Perera was accused of posing photos of Liberation Tigers of Tamil Eelam (LTTE) leader Velupillai Prabhakaran on social media.
 
 ◼️
 
 [Data](articles/67b44183.json)
+
+[Extended Data](ext_articles/67b44183.ext.json)
 
 ---
 
@@ -245,6 +283,8 @@ The more liquid S&P SL20 was up 0.48 percent, or 19.12 points, at 4,035.
 ◼️
 
 [Data](articles/fe535a1a.json)
+
+[Extended Data](ext_articles/fe535a1a.ext.json)
 
 ---
 
@@ -468,6 +508,8 @@ Sri Lanka is expecting to present a formal budget for 2025 in line with an Inter
 
 [Data](articles/db7e0592.json)
 
+[Extended Data](ext_articles/db7e0592.ext.json)
+
 ---
 
 ### Restore forcibly connected relations in the Russian Army: Mahajar to President and Prime Minister
@@ -681,6 +723,8 @@ The 1400 meter West Terminal Two will require changes to the breakwater, all of 
 ...
 
 [Data](articles/92fd9d86.json)
+
+[Extended Data](ext_articles/92fd9d86.ext.json)
 
 ---
 
@@ -1570,8 +1614,6 @@ However, it is important to stress at the outset, that while the terrain is fami
 
 AKD with Senior Economic Advisor and Chairman, Ceylon Chamber of Commerce
 
-“For sweetest things turn sourest by their deeds; Lilies that fester smell far worse than weeds.”
-
 Act I: Ranil Wickremesinghe (and his CBSL chief) turn the debt problem into a ticking debt-bomb with the ISB surge at tail-end of Prime Ministerial tenure (2015-2019). (https://thediplomat.com/2023/03/the-real-cause-of-sri-lankas-debt-trap/)
 
 Act II: President Gotabaya Rajapaksa ignores the ‘China card’ of ongoing discussions for debt-rollover, inducts new technocrats and pivots to the IMF option. Ranil Wickremesinghe, nominated not elected to Parliament, is appointed by besieged Gotabaya as PM and selected by the SLPP-dominated parliament as President, defeating the competing candidate-- their dissenting colleague and Mahinda’s ideologue in 2005 and 2010, Dullas Alahapperuma. (Insiders say RW was Basil and Gota’s choice; Mahinda tells media he voted for Dullas.)
@@ -2401,31 +2443,5 @@ The policy statement also covered the key changes the government wants to introd
 [Data](articles/ea6df0c7.json)
 
 [Extended Data](ext_articles/ea6df0c7.ext.json)
-
----
-
-### President meets MPK
-
-*2024-12-04 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204041) · `si`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Kumara Dissanayake met ITAK MPs today at the Presidential Secretariat. MPs discussed ongoing issues with the President."
-
-🟩
-
-President Anura Kumara Dissanayake and Ilangai Thamil Arasu Kachchi (ITAK) have been held today (04) at the Presidential Secretariat.
-
-Illangai Tamil Arasu Kachchi MPs informed the President for a long time, the Presidential Media Unit said.
-
-MPs Sivagneam Sridharan Sridharan Sridhalanam, Sivamunathan Sithilangam, Sunamunathan Kugadana Kugathaka, Kaukaiyan Kawanath Kawanath Kawanath and Ravindha Ravigaran.
-
-◼️
-
-[Data](articles/45bf15d6.json)
-
-[Extended Data](ext_articles/45bf15d6.ext.json)
 
 ---

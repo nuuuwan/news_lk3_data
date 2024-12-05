@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 12:02:39**
+As of **2024-12-05 13:01:16**
 
 ## Newspaper Stats
 
-*Scraped **58,591** Articles*
+*Scraped **58,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,367 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,551
-adaderanalk | 7,112
-tamilmirrorlk | 8,340
-virakesarilk | 9,593
-adaderanasinhalalk | 10,121
+adalk | 5,553
+adaderanalk | 7,119
+tamilmirrorlk | 8,346
+virakesarilk | 9,596
+adaderanasinhalalk | 10,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,581 (100.0%) of 58,591 articles have been extended.
+58,593 (100.0%) of 58,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### ඉන්දීය ධීවර යාත්‍රා 2ක් සමග 14 දෙනෙක් නාවික හමුදා භාරයට
+### “The government must obtain parliamentary permission for it”
+
+*2024-12-05 12:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-அதற்கு-பாராளுமன்ற-அனுமதியைப்-பெற-வேண்டும்/175-348274) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"MP Kabir Hasim: Govt needs Parl't approval for credit stability deal. Wants clarity on new or continued agreement. Rs. 3 billion loan allocated. Legal fees for debt restructuring program."
+
+🟩
+
+United People's Power MP Kabir Hasim today told parliament that the government should obtain parliamentary permission before implementing the credit stability agreement with the International Sovereignty Declaration holders.
+
+Speaking at the debate on the referendum in the House today, MP Hashim said that MPs should know the details of the credit stability agreement.
+
+“We would like to know if you are continuing the agreement made by the previous government or whether you have embarked on a new agreement,” he said.
+
+Rs.. 3 billion loan has been allocated for consistency and a further Rs.. He also said that the fee for legal counseling associated with the 3 billion debt restructuring program has been allocated.
+
+◼️
+
+[Data](articles/f3359bfd.json)
+
+[Extended Data](ext_articles/f3359bfd.ext.json)
+
+---
+
+### Sri Lanka to ink debt deals by year’s end - Minister
+
+*2024-12-05 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104017/sri-lanka-to-ink-debt-deals-by-years-end-minister) · `en`
+
+Sri Lanka vowed Thursday to complete its long-delayed foreign debt restructure within the month before a 2025 budget adhering to strict revenue targets set by the International Monetary Fund.
+
+The island nation defaulted on its $46 billion external debt in April 2022 after running out of foreign exchange to finance even the most essential imports such as food and fuel.
+
+Its economy has recovered after getting an IMF rescue package and imposing austerity reforms aimed at repairing the government’s ruined finances.
+
+Economic development deputy minister Anil Jayantha Fernando said debt restructuring had been delayed by more than two years, costing the country an additional $1.7 billion in accumulated interest.
+
+“We are hoping to complete the restructure of bilateral debt and international sovereign bonds by December 31,” Fernando said.
+
+...
+
+[Data](articles/c4766bb9.json)
+
+---
+
+### 50 people infected with food allergies
+
+*2024-12-05 12:28:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-50-பேர்-பாதிப்பு/175-348273) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Food allergy outbreak: 50 garment factory workers hospitalized in Sri Lanka with symptoms including fainting, vomiting, and diarrhea. Investigations ongoing.
+
+🟩
+
+About 50 employees working in a garment industry in the Katunayake Investment Promotion Zone were sick at 09.00 am on Thursday (05) after they had breakfast and were admitted to the Negombo General Hospital.
+
+These employees are currently receiving treatment at the Ward No. 02 and No. 03 of the Negombo General Hospital.
+
+Hospital sources said the sick employees had fainting, vomiting and diarrhea.
+
+Katunayake Police, Negombo Hospital, Seethawa Health Officer's Office and Divisional Public Health Inspectors are conducting further investigations.
+
+◼️
+
+[Data](articles/1591af1e.json)
+
+[Extended Data](ext_articles/1591af1e.ext.json)
+
+---
+
+### World Bank pledges support for govt’s “Clean Sri Lanka” programme
+
+*2024-12-05 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104016/world-bank-pledges-support-for-govts-clean-sri-lanka-programme) · `en`
+
+The World Bank has expressed its commitment to supporting the Government of Sri Lanka’s “Clean Sri Lanka” programme, as announced by World Bank Executive Director Parameswaran Iyer during a meeting with President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (04).
+
+Congratulating the President on forming the new government, Mr. Iyer affirmed that all ongoing World Bank-supported projects in Sri Lanka will continue uninterrupted.
+
+The meeting also provided an opportunity for President Dissanayake to outline his administration’s future development agenda. Key topics of discussion included efforts to alleviate rural poverty, plans for economic digitalization, highlighted by the Digital Identity Card initiative, the President’s Media Division (PMD) said.
+
+A comprehensive discussion was held on addressing the longstanding challenges faced by the people in the North and East, with a particular focus on resolving land and housing issues affecting the plantation community
+
+...
+
+[Data](articles/e9bddd5d.json)
+
+---
+
+### 14 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-12-05 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104015/14-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+A special operation conducted by the Sri Lanka Navy has led to the seizure of two Indian fishing boats and the apprehension of 14 Indian fishermen, poaching in Sri Lankan waters.
+
+This special operation was conducted in the sea area north of Mannar in the early hours of yesterday (04).
+
+The Navy continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing boats, taking into account the impact of those practices on the livelihood of local fishermen.
+
+The Navy said, as an extension of these operations, the North Central Naval Command spotted a cluster of Indian fishing boats engaging in illegal fishing in Sri Lankan waters. In response, the Northern Naval Command deployed its Fast Attack Craft and North Central Naval Command its Inshore Patrol Craft to drive away those Indian fishing boats poaching in the sea area north of Mannar.
+
+...
+
+[Data](articles/cf08e6c0.json)
+
+[Extended Data](ext_articles/cf08e6c0.ext.json)
+
+---
+
+### School students from Hantane
+
+*2024-12-05 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204063) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Colombo school group stranded in Hanthana. Soldiers rescued after protest. Students entered unsecured area. Army cited fog as reason for delay. 111 Brigade and 2 Sri Lanka Lions Regiment involved in rescue operation.
+
+🟩
+
+A group of 10 students from a major school in Colombo has been stranded to visit Hanthana.
+
+The soldiers were later able to liberate their group in protest.
+
+They went to watch Hanthana and crossed it and followed a unsecured area.
+
+The Army said that due to the fog of the mascaditorium in the leg, the road was unable to return to the fog.
+
+After the troops of the Army, the 111 Brigade Headquarters and 2 Sri Lanka Lions Regiment (Sri Lanka) launched.
+
+Accordingly, the meeting was commenced at around 8 pm and the students have taken measures to protect the students safely.
+
+◼️
+
+[Data](articles/c732420c.json)
+
+[Extended Data](ext_articles/c732420c.ext.json)
+
+---
+
+### 14 Tamil Nadu fishermen arrested
+
+*2024-12-05 12:14:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-14-பேர்-கைது/175-348272) · `ta`
+
+Sri Lankan navy arrests 14 Tamil Nadu fishermen; total arrests since Jan: 529. Two fishing boats seized near Kachchativu.
+
+🟩
+
+The Sri Lankan navy arrested 14 fishermen on Thursday (05).
+
+More than three thousand fishermen from Rameswaram fishing port went to sea on Wednesday (04). The Sri Lankan navy seized two fishing boats belonging to British and Majo, who were fishing near Kachchativu on Thursday morning.
+
+Fourteen fishermen were arrested from two boats - Ripoxon, Raja Prabhu, Aravind, Robinston, Muniswaran, Prashant, Health, Pedrik Nathan, Job, John Immarasan, Arul Britain, Nishad, Vineith and Anthony Lisbon.
+
+Earlier, from January to the present, the Sri Lankan navy has arrested 529 fishermen by capturing 67 Tamil Nadu fishermen.
+
+◼️
+
+[Data](articles/a4be92cb.json)
+
+[Extended Data](ext_articles/a4be92cb.ext.json)
+
+---
+
+### President alleges the money allocated to Ranil for 4 months - Kabir charged
+
+*2024-12-05 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204062) · `si`
+
+Here's a 200-character summary:
+
+
+
+President accuses Ranil Wickremesinghe of misusing Rs. 1.4 trillion allocated in 2025 budget. Claims IMF agreement compliance differs from previous framework, criticizes neo-liberal approach.
+
+🟩
+
+The Hon.
+
+He said that the debate for the interim account for the interim account in Parliament today, he said that the amount allocated was Rs. 1.4 trillion.
+
+"In 2024, Ranil Wickremesinghe has allocated Rs. 1.4 trillion in the President's budgetary speech. In 2025, President of Anura Kumara Dissanayake has allocated 4 months from January to April and Rs. 1.4 trillion. There are no difference in that number. What's the difference is reduced from. The System Anura Change Anura Change. Explain to us. The President said at the Chairperson's speech IMF agreement says IMF agreement executes a singer. That's good. We said that the IMF agreement was up to the framework that some of the contents of the compliance. But today you are more neo-liberal. "
+
+◼️
+
+[Data](articles/8ee5c804.json)
+
+[Extended Data](ext_articles/8ee5c804.ext.json)
+
+---
+
+### 10 rupee coin in the stomach of 1 elephant
+
+*2024-12-05 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகதந்து-1-யானையின்-வயிற்றில்-10-ரூபாய்-நாணயம்/175-348271) · `ta`
+
+Elephant found with 10-rupee coin in stomach during autopsy. Coin discovered after elephant electrocuted, aged 45-50. Insurance manager arrested for elephant's death. Ivory recovered and buried safely.
+
+🟩
+
+During the autopsy of the elephant 1 elephant, a 10 -rupee coin was found in its stomach, said Sandana Jayasinghe, a veterinary surgery of the Department of Wildlife Conservation.
+
+He told the Daily Mirror that the elephant was killed by electricity. Steps have been taken to protect its ivory and head. The elephant between the ages of 45 to 50, which is 9 feet 2 inches tall, was transferred to the Kahalla Pallekela Sanctuary due to heavy rains in the Kala Veva reservoir.
+
+On November 29, wildlife officers removed the elephant's head with ivory and took them to the Calgiriyagama Wildlife Conservation Office.
+
+After the autopsy, the head was buried safely. Officials are planning to dig in to safely recover the ivory.
+
+Dr. Jayasinghe confirmed the death of the elephant due to a heart attack caused by electricity.
+
+...
+
+[Data](articles/814b5254.json)
+
+[Extended Data](ext_articles/814b5254.ext.json)
+
+---
+
+### Booking of 30,000 metric tons of rice!
+
+*2024-12-05 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200469) · `ta`
+
+Rice import surge: 25,000-30,000 metric tons from India booked to address shortage. Green and Samba varieties imported. Low quantities due to time constraints.
+
+🟩
+
+Importers in the back of the fort have booked 25,000 to 30,000 metric tonnes of rice from India to find an immediate solution to the shortage of rice, according to the Essential Food Importers Association.
+
+Importers say that due to the lack of time for the import of rice, it can be imported with low amounts of rice.
+
+Meanwhile, the importers of the Essential Food Importers Association said the country, green and samba were imported.
+
+◼️
+
+[Data](articles/554d1b82.json)
+
+[Extended Data](ext_articles/554d1b82.ext.json)
+
+---
+
+### Petition against National Olympic Committee’s Secretary General deferred
+
+*2024-12-05 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104014/petition-against-national-olympic-committees-secretary-general-deferred-) · `en`
+
+The Colombo District Court today (05) ordered that the petition seeking an injunction to suspend the activities of the Secretary General of the National Olympic Committee of Sri Lanka, Maxwell De Silva, be recalled on December 18.
+
+The petition was filed by the former Secretary of the Cycling Federation of Sri Lanka, Nalin Adhikariarchchige,  and the President of the Handball Federation of Sri Lanka (HFSL), Upali Rajapaksa.
+
+When the case was taken up today, legal representatives for some of the respondents requested additional time to submit objections.
+
+Granting their request, the court ordered the case to be taken up again on December 18 and instructed all parties to file their objections and related written submissions prior to the next hearing date.
+
+...
+
+[Data](articles/dfa6b152.json)
+
+---
+
+### Trader arrested for illegally operating gun factory
+
+*2024-12-05 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200472) · `ta`
+
+Trader arrested for illegal gun factory operation in Ratnapura. Special Task Force seized items including hammers. Suspect detained based on received information.
+
+🟩
+
+A businessman who illegally operates a gun factory in the Raghwanai area in Ratnapura has been arrested by the Special Task Force.
+
+The suspect has been arrested in connection with information received by the Special Task Force.
+
+Various items, including the products used to make guns from the suspect, have been seized, including hammer and two metal hammer.
+
+◼️
+
+[Data](articles/6877651f.json)
+
+[Extended Data](ext_articles/6877651f.ext.json)
+
+---
+
+### Navy arrests 14 Indian fishing boats
 
 *2024-12-05 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204061) · `si`
 
-මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා 02ක් සමග එහි සිටි 14 දෙනෙකු මන්නාරම උතුරු මුහුදේදී නාවික හමුදා භාරයට ගෙන තිබේ.
+Sri Lanka Navy arrests 14 Indian fishing boats, detains 7 crew members for unauthorized fishing in SL waters. Operation brings total detained fishermen to 529. Boats and crew handed over to local authorities for legal action.
 
-ශ්‍රී ලංකා නාවික හමුදාව සඳහන් කළේ ඊයේ (04) රාත්‍රියේ මෙම විශේෂ සෝදිසි මෙහෙයුම දියත් කළ බවය.
+🟩
 
-ඉන්දීය ධීවර යාත්‍රා 02ක සහ ධීවරයින් 14 දෙනා තලෛමන්නාරම ජැටිය වෙත රැගෙනවිත් ඇති අතර ඉදිරි නීතිමය කටයුතු සඳහා මන්නාරම ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාරදීමට නියමිතය.
+Seven persons were taken into custody with two Indian fishing boats with unauthorized fishing in Sri Lankan waters.
 
-මෙම මෙහෙයුමත් සමග 2024 වර්ෂයේ මේ දක්වා සිදුකළ මෙහෙයුම්වලින් මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා 68ක් සහ ඉන්දීය ධීවරයින්529 දෙනෙකු නාවික හමුදා භාරයට ගෙන ඉදිරි නීතිමය කටයුතු සඳහා යොමු කර තිබේ.
+The Sri Lanka Navy stated that the special search operation was launched last night.
+
+Two Indian fishing boats and the 14 Indian fishermen were brought to Taaticamamannar jawatt and will be handed over to the Mannar Fisheries Inspector Office for future legal action.
+
+With this operation, unauthorized fishermen and 529 Indian fishermen have been taken into custody.
 
 ◼️
 
 [Data](articles/6d63285a.json)
+
+[Extended Data](ext_articles/6d63285a.ext.json)
+
+---
+
+### Special audit on electric vehicle imports for expat workers
+
+*2024-12-05 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104013/special-audit-on-electric-vehicle-imports-for-expat-workers-) · `en`
+
+A special audit has been carried out on the scheme introduced to import fully electric vehicles for expatriate workers.
+
+The Speaker of Parliament Ashoka Ranwala stated that the relevant audit report would be presented to the Parliament today (05).
+
+Accordingly, the related audit has been conducted regarding the issuance of permits through the scheme which was implemented from May 01, 2022, to September 15, 2023.
+
+◼️
+
+[Data](articles/389fd996.json)
+
+[Extended Data](ext_articles/389fd996.ext.json)
+
+---
+
+### Lover
+
+*2024-12-05 11:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-மரக்கட்டையால்-அடித்துக்-கொன்ற-காதலன்/175-348269) · `ta`
+
+Siripagama police investigating murder of 23-year-old woman in Kedawala. Suspect arrested after argument with girlfriend.
+
+🟩
+
+Siripagama police have launched an investigation into the arrest of a suspect in connection with the murder of a 23 -year -old girlfriend in Kedawala area on Wednesday.
+
+Police said the man had been assaulted by a woman during the argument yesterday evening.
+
+Preliminary inquiries revealed that the woman and the suspect had been involved in a romantic relationship and that the argument was over.
+
+◼️
+
+[Data](articles/e0f52e45.json)
+
+[Extended Data](ext_articles/e0f52e45.ext.json)
 
 ---
 
@@ -73,6 +403,42 @@ Preliminary inquiries revealed that the woman and the suspect had been involved 
 [Data](articles/f872a149.json)
 
 [Extended Data](ext_articles/f872a149.ext.json)
+
+---
+
+### US Assistant Secretary of State Donald Lu visits Sri Lanka
+
+*2024-12-05 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104012/us-assistant-secretary-of-state-donald-lu-visits-sri-lanka) · `en`
+
+The United States Assistant Secretary of State for the Bureau of South and Central Asian Affairs, Donald Lu, has arrived in Sri Lanka today (05) as part of an official delegation.
+
+Accompanied by another senior official from the U.S. Department of State, Assistant Secretary Lu reached Bandaranaike International Airport (BIA) at 2:55 a.m. today onboard Qatar Airways flight QR-662 from Doha.
+
+Representatives from the U.S. Embassy in Sri Lanka and officials from Sri Lanka’s Ministry of Foreign Affairs were present at the airport to welcome the delegation.
+
+In a statement issued on December 2, the U.S. Embassy in Sri Lanka said that during his visit to Colombo, Assistant Secretary Lu’s engagements would advance U.S.-Sri Lankan joint efforts to promote sustainable economic growth, combat corruption, and strengthen people-to-people ties.
+
+...
+
+[Data](articles/5c436a9c.json)
+
+---
+
+### தலைமன்னார் கடற்பரப்பில் 14 ராமேஸ்வரம் மீனவர்கள் கைது
+
+*2024-12-05 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200471) · `ta`
+
+இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன்பிடியில் ஈடுபட்ட 14 இராமேஸ்வரத்தைச் சேர்ந்த மீனவர்கள் இன்று வியாழக்கிழமை (5) அதிகாலை இலங்கை கடற்பரப்பில் வைத்து கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+ராமேஸ்வரம் மீன்பிடித் துறைமுகத்திலிருந்து புதன்கிழமை (4) காலை மீன் பிடிக்க வந்த மீனவர்கள் இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்துக்கொண்டிருந்தபோதே தலைமன்னார் கடற்படையினரால் கைது செய்யப்பட்டனர்.
+
+கைது செய்யப்பட்ட 14 மீனவர்களும் இரண்டு இந்திய இழுவைப் படகுகளில் மீன் பிடித்துக்கொண்டிருந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட மீனவர்களும் இழுவைப் படகுகளும் தலைமன்னார் கடற்படை முகாமில் ஒப்படைக்கப்பட்டதையடுத்து, அந்த மீனவர்களிடம் தலைமன்னார் கடற்படையினர் விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/ea7ad215.json)
 
 ---
 
@@ -175,6 +541,60 @@ Renuka Perera was accused of posing photos of Liberation Tigers of Tamil Eelam (
 [Data](articles/67b44183.json)
 
 [Extended Data](ext_articles/67b44183.ext.json)
+
+---
+
+### Debate on Vote on Account begins in Parliament
+
+*2024-12-05 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104011/debate-on-vote-on-account-begins-in-parliament) · `en`
+
+The Vote on Account for the first four months of the year 2025, including government recurrent and capital expenditure, public debt servicing and debt restructuring expenses has been presented to Parliament today (05).
+
+Minister Anil Jayantha Fernando opened the debate on the Vote on Account by disclosing the following information:
+
+“For the first four months of the Vote on Account, Rs. 1,000 billion excluding recurring expenses, Rs. 425 billion for capital expenditure and Rs. 1,175 billion for foreign debt restructuring and other debt servicing are required,” he stated.
+
+The minister further added “Accordingly, the total estimate is Rs. 2,600 billion. The government’s revenue estimate is Rs. 1,600 billion. The basic borrowing limit is Rs. 1,000 billion.”
+
+Regarding foreign debt restructuring, he stated: “Especially on the basis of an agreement with the bilateral creditors and sovereign bonds, we have to present new debt papers. We aim to complete this process before December 31”.
+
+...
+
+[Data](articles/65ef985c.json)
+
+---
+
+### සුජීවගේ වී 8 රථයට අදාළව රංගාගෙන් අත්සන් සාම්පල් 40ක් ගනියි
+
+*2024-12-05 10:41:18* · [`adalk`](https://www.ada.lk/breaking_news/සුජීවගේ-වී-8-රථයට-අදාළව-රංගාගෙන්-අත්සන්-සාම්පල්-40ක්-ගනියි/11-413468) · `si`
+
+අධිකරණ නියෝග මත  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවා තිබියදී අධිකරණ කටයුතු පිළිබඳ හිටපු නියෝජ්‍ය ඇමතිවරයකු මෙන්ම සමගි ජන බලවේගයේ ජාතික සංවිධායක සුජීව සේනසිංහ මහතාට බැඳුම්කරයක් මත මුදා හැරී වි 8  සුඛෝභෝගී  ප්‍රශ්නගත මෝටර් රථය සම්බන්ධයෙන් සිදු කරන විමර්ශනවලට අදාළව හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජේ ශ්‍රී රංගා මහතාගෙන්  අත්සන් සාම්පල් 40 කට ආසන්න ප්‍රමාණයක් පෙරේදා (3) ලබාගත් බව  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එම අත්සන් සාම්පල රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවේ සැකකටයුතු ලේඛන පරීක්ෂකවරයා වෙත සඳහා යොමු කිරීමට නියමිත ඇතැයිද  දැනගන්නට ඇත.
+
+හිටපු මන්ත්‍රී ජේ ශ්‍රී රංගා මහතාගෙන් එදින පැය හතරකට ආසන්න කාලයක් ප්‍රශ්න කර ප්‍රකාශ සටහන් කර ගැනීමටද කටයුතු කර තිබිණි.
+
+එම  මෝටර් ලියාපදිංචි කිරීම සඳහා  පාර්ලිමේන්තු මන්ත්‍රී සුජීව සේනසිංහ මහතා මෝටර් රථ ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව වෙත  ඉදිරිපත් කරන ලද පැවරුම් ලේඛනයේ ( එම් ටි ඒ -6 ෆෝරමයේ) ඇත්තේ තමාගේ අත්සන නොවන බවට මීට පෙර ප්‍රකාශ කර තිබිණි.
+
+...
+
+[Data](articles/8f2a0acf.json)
+
+---
+
+### ජනපති හා අයිටැක් මන්ත්‍රිවරු අතර හමුවක්
+
+*2024-12-05 10:33:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-අයිටැක්-මන්ත්‍රිවරු-අතර-හමුවක්/11-413467) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ඉලංගෙයි තමිල් අරසු කච්චි (ITAK) පාර්ලිමේන්තු මන්ත්‍රීවරුන් අතර සාකච්ඡාවක් ඊයේ (04) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+මෙම හමුවේදී ඉලංගෙයි තමිල් අරසු කච්චි පාර්ලිමේන්තු මන්ත්‍රීවරු දීර්ඝ කාලයක සිට උතුරු නැගෙනහිර ජනතාව මුහුණ දෙමින් සිටින ගැටලු පිළිබඳව ජනාධිපතිවරයා දැනුම්වත් කළහ.*
+
+සිවඥානම් ශ්‍රීධරන්, පත්මනාදන් සත්‍යලිංගම්, සන්මුගම් කුගදාසන්, ෂානක්කියන් රාසමාණික්කම්, ඥානමුත්තු ශ්‍රීනේසන්, කවීන්දිරන් කෝඩීස්වරන්, ඉලයතම්බි ශ්‍රීනාත්, තුරෙයිරාසා රවිහරන් යන පාර්ලිමේන්තු මන්ත්‍රීවරු මේ අවස්ථාවට සහභාගී වූහ.
+
+◼️
+
+[Data](articles/ab2e0a80.json)
 
 ---
 
@@ -1192,6 +1612,24 @@ In the last parliamentary election, the National People's Power in the last parl
 
 ---
 
+### ’மலையக மக்களின் பிரச்சினைகளுக்கு தீர்வு’
+
+*2024-12-05 02:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-மக்களின்-பிரச்சினைகளுக்கு-தீர்வு/76-348260) · `ta`
+
+மலையக மக்கள் 75 வருடங்களாக எதிர்நோக்கும்   அனைத்து முக்கிய பிரச்சினைகளுக்கும் தீர்வு பெற்றுக் கொடுக்க தேசிய மக்கள் சக்தி அரசாங்கம் வேலைத் திட்டங்களை முன்னெடுக்கும் என அக் கட்சியின் பதுளை மாவட்ட எம் பி.யான  அம்பிகா சாமுவேல்  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (04) இடம் பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்த அவர்  மேலும் பேசுகையில்,
+
+காணிப் பிரச்சினை, வீட்டுப் பிரச்சினை, சம்பளப் பிரச்சினை என பல்வேறு பிரச்சினைகள் தொடர்கின்ற நிலையில் அவற்றுக்குத் தீர்வு காண்பதற்கான வேலைத்திட்டங்களை தேசிய மக்கள் சக்தி அரசாங்கம் கொள்கைப் பிரகடனத்தில் உள்ளடக்கியுள்ளது
+
+மலையகத்தின் பதுளை மாவட்டத்திலிருந்து பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டுள்ள முதலாவது தமிழ் பெண் உறுப்பினர் என்ற வகையில் நான் மகிழ்ச்சியடைகின்றேன். அதற்காக பதுளை மாவட்ட மக்களுக்கு நான் நன்றி தெரிவித்துக் கொள்கின்றேன் .
+
+...
+
+[Data](articles/9e088339.json)
+
+---
+
 ### Is it an attempt to confuse the north and the south?
 
 *2024-12-05 02:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கையும்-தெற்கையும்-குழப்பும்-முயற்சியா/175-348259) · `ta`
@@ -1959,489 +2397,5 @@ The president told us that it could be discussed at length in the future. Also, 
 [Data](articles/c206c563.json)
 
 [Extended Data](ext_articles/c206c563.ext.json)
-
----
-
-### ComBank ranked Strongest Bank in Sri Lanka in TAB Global 1000 strength index 2024
-
-*2024-12-04 22:54:00* · [`islandlk`](http://island.lk/combank-ranked-strongest-bank-in-sri-lanka-in-tab-global-1000-strength-index-2024/) · `en`
-
-The Commercial Bank of Ceylon has once again been assessed as the ‘Strongest Bank in Sri Lanka,’ taking its place in a prestigious global ranking published annually by TAB Insights, the global research and consulting subsidiary of TAB Global, the parent company of The Asian Banker magazine.
-
-The Strongest Banks rankings are based on a detailed and transparent scorecard that ranks banks and financial holding companies on six criteria of balance sheet performance – the ability to scale, balance sheet growth, risk profile, profitability, asset quality and liquidity, covered by 14 specific key performance indicators.
-
-...
-
-[Data](articles/230a6598.json)
-
-[Extended Data](ext_articles/230a6598.ext.json)
-
----
-
-### MMBL-Pathfinder partners with HCLTech to accelerate technology talent development in Sri Lanka
-
-*2024-12-04 22:53:00* · [`islandlk`](http://island.lk/mmbl-pathfinder-partners-with-hcltech-to-accelerate-technology-talent-development-in-sri-lanka/) · `en`
-
-MMBL-Pathfinder Group has entered into a strategic partnership with HCLTech, a leading global technology company, to introduce innovative IT training programs in Sri Lanka. This collaboration is set to be a game-changer, with the newly established Pathfinder EdTech Institute at its core, aimed at creating a skilled workforce ready for the digital age.
-
-Central to this partnership is the HCLTech Career Shaper™ platform, designed to seamlessly connect academic learning with industry requirements. By incorporating HCLTech’s acclaimed training methods, expertly curated curriculum and state-of-the-art tech tools, this initiative promises to equip individuals with practical, job-ready skills.
-
-...
-
-[Data](articles/77951dcf.json)
-
-[Extended Data](ext_articles/77951dcf.ext.json)
-
----
-
-### 244 ‘Mahaviru’ celebrations in North, LTTE symbols displayed at 10
-
-*2024-12-04 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104003/244-mahaviru-celebrations-in-north-ltte-symbols-displayed-at-10) · `en`
-
-Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, informed the Parliament today (04) that out of 244 ‘Mahaviru’ (Maaveerar Naal) commemoration events held in the Northern Province, LTTE-related symbols were displayed at 10 of them.
-
-Accordingly, he further stated that, “The police had reported that 244 commemoration events were held in North during ‘Mahaviru’ Week from November 21 to 27.”
-
-“Only 10 of them had some LTTE symbols displayed. The police have taken legal action in response to these incidents,” he said.
-
-◼️
-
-[Data](articles/4862fa43.json)
-
-[Extended Data](ext_articles/4862fa43.ext.json)
-
----
-
-### An appeal of Rashad
-
-*2024-12-04 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204046) · `si`
-
-Rashad appeals to Taliban leaders about women's rights and education. He emphasizes maintaining Islamic teachings while stressing women's knowledge importance. This aligns with his previous stance against restrictions on women's education and healthcare.
-
-🟩
-
-Afghanistan's super cricketer Rashid, Rashid, has requested the Taliban of Afghanistan.
-
-Taliban leader HiSathunda issued a decree to prohibit medical training and semi-vocational training to obtain semi-vocational training last Monday.
-
-Ruad has made this request through his 'X' account, responding to his order.
-
-The Taliban Organizing the power of Afghanistan in 2021, heavy restrictions to women.
-
-It was the key to the public and banning sports.
-
-However, the Afghanistan women have no ban to do medical training so far.
-
-It was the last option left for women to have higher education.
-
-The Taliban government banned schools in 2022, and after the 6th grade, girls had banned secondary education.
-
-The Taliban has also prohibited women from Afghanistan, and to receive treatment from men's medical professionals.
-
-According to the Human Rights Watch, the Organization of Human Rights Watch also points out that women's health workers are scarce with this new order.
-
-...
-
-[Data](articles/b7ba1100.json)
-
-[Extended Data](ext_articles/b7ba1100.ext.json)
-
----
-
-### South Korea’s President faces impeachment after martial law debacle
-
-*2024-12-04 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104002/south-koreas-president-faces-impeachment-after-martial-law-debacle) · `en`
-
-South Korean lawmakers on Wednesday proposed impeaching President Yoon Suk Yeol for his sudden decision to declare martial law, which he rescinded after a chaotic standoff between parliament and the army that damaged the country’s standing.
-
-Yoon’s declaration of martial law late on Tuesday attempted to ban political activity and censor the media in South Korea, which has Asia’s fourth largest economy and is a key U.S. ally.
-
-Washington had no advance notice of the decision, U.S. Secretary of State Antony Blinken told Reuters, adding that he expected to speak with his South Korean counterpart in the coming days.
-
-Armed troops had forced their way into the National Assembly building in Seoul but stood back when parliamentary aides sprayed them with fire extinguishers. Lawmakers rejected the martial law decision while protesters scuffled with police outside.
-
-...
-
-[Data](articles/9ac74474.json)
-
-[Extended Data](ext_articles/9ac74474.ext.json)
-
----
-
-### Sri Lanka State Banks Forced To Reveal Info On Suspect Transactions, Comes Under RTI Microscope
-
-*2024-12-04 21:55:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-state-banks-forced-to-reveal-info-on-suspect-transactions-comes-under-rti-microscope/) · `en`
-
-Lawyers and transparency activists monitoring Sri Lanka’s state banking sector have welcomed two significant decisions of the Right to Information Commission of Sri Lanka bringing key state banks, the Bank of Ceylon and the Peoples Bank, under the Right to Information (RTI) microscope to account for use of state funds to, among others, politically favoured persons.
-
-Last week, the Court of Appeal dismissed an appeal by the People’s Bank challenging a decision of the Commission directing to release info on moneys spent on a Buddhist religious event by its Anuradhapura branch in 2002 when a past employee of the Bank demanded to know the amount of money and to whom the payments had been made, alleging large scale irregularities.
-
-...
-
-[Data](articles/22027ffa.json)
-
-[Extended Data](ext_articles/22027ffa.ext.json)
-
----
-
-### If you have a money laundering fraud using the name of the PA and the name of Namal Rajapaksa - Make a complaint with the police - Geetanath Kasilingam
-
-*2024-12-04 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200450) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-PA member Geetanath Kasilingam warns against money laundering fraud using party name and Namal Rajapaksa's name. He advises victims to file police complaints. Kasilingam denies false claims about Namal Rajapaksa's gold business involvement.
-
-🟩
-
-Jaffna District Organizer Geetanath Kasalingam, the organizer of the PA, said that if the name of the PA and Namal Rajapaksa's name, Namal Rajapaksa's name is carried out in Jaffna, to make complaints at himself or police stations.
-
-In the past, we have received information that some people have been involved in the use of Namal Rajapaksa's name and the party's name in the past, using land issues, money laundering, fraudulently involved in sending abroad, and constructing panchayat.
-
-We went to the homes of the victims in this regard and we were investigating. A complaint has been lodged with the Manipay Police Station regarding such a home.
-
-You, as a people who are using the party's name, must file a complaint at the police station. If you are afraid of something like that, you can contact us.
-
-We have started engaging in full -time politics in Jaffna. I think such activities have been the cause of our party's failure in the past. It is my duty to eliminate such allegations.
-
-...
-
-[Data](articles/161b4b68.json)
-
-[Extended Data](ext_articles/161b4b68.ext.json)
-
----
-
-### World Bank supports Clean Sri Lanka
-
-*2024-12-04 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204045) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-World Bank supports Clean Sri Lanka program. Executive Director Paaraswaran Iyyer met President Anura Kumara Dissanayake at Presidential Secretariat. Discussed project extensions, rural poverty reduction, Digital Identity Card, land housing issues in Northern Eastern Provinces. Government priorities: agriculture, fisheries, tourism, education, health. World Bank evaluates program implementation.
-
-🟩
-
-The World Bank Executive Director Paaraswaran Iyyer says that the World Bank is supporting the Government Clean Sri Lanka program.
-
-The World Bank Executive Director was held at the Presidential Secretariat today (04) at the Presidential Secretariat.
-
-The World Bank Executive Director, who joined the new government, has been assisted with all the projects that support the World Bank.
-
-The President has also discussed extension on projects and plans, such as the development of new government and the development of rural poverty, the Digital Identity Card Project in line with the Economic Digitalization Program.
-
-The Northern and Eastern Provinces, including the land and housing problem in the plantation plantation, the Presidential Media Unit said that the people of the North and the East were also discussed at a long time.
-
-President Anura Kumara Dissanayake has said that the government's priorities are focused on developing agriculture, fisheries, tourism, education and health.
-
-...
-
-[Data](articles/140f0962.json)
-
-[Extended Data](ext_articles/140f0962.ext.json)
-
----
-
-### Archbishop Of Canterbury’s Resignation – Uncomfortably Close To The Church of Ceylon
-
-*2024-12-04 21:23:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/archbishop-of-canterburys-resignation-uncomfortably-close-to-the-church-of-ceylon/) · `en`
-
-Reuters (12.11.2024) announced that Justin Welby, the Archbishop of Canterbury, the spiritual leader of Anglicans worldwide, resigned “in sorrow” on Tuesday, saying he had failed to ensure a proper investigation into allegations of abuse at Christian summer camps decades ago after a report the previous week found he had insufficiently acted to stop one of the Church’s most prolific serial abusers.
-
-The report said British lawyer John Smyth had subjected more than 100 boys and young men to “brutal and horrific” physical and sexual abuse over 40-years. Smyth would beat victims with up to 800 strokes of a cane, and drape himself over his victims, kissing them on the neck or back.
-
-He ran Christian camps in Dorset, England, where Welby also worked before his ordination. Smyth died in 2018.
-
-The Church had known at the highest level about the sexual abuse in 2013. Welby became aware, at the latest, the same year, after becoming archbishop.
-
-...
-
-[Data](articles/e4e132b0.json)
-
-[Extended Data](ext_articles/e4e132b0.ext.json)
-
----
-
-### 244 Mahaviu Celebrations in the North have been conducted
-
-*2024-12-04 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204044) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-244 Mahaviu Celebrations in Northern Sri Lanka were held. Police reported 10 showed LTTE symbols. Law enforcement actions taken.
-
-🟩
-
-According to the Public Defense Minister Ananda Wijepala said in parliament today (4) of the total number of Mahaviu Celebrations in the North.
-
-"The police had reportedly carried out 244 celebrations in the Mahavirus week under the Mahavirus week last 21 and 27. Only 10 of them had exhibited some LTTE symbols. The police have implemented the law. "
-
-◼️
-
-[Data](articles/0d904fc0.json)
-
-[Extended Data](ext_articles/0d904fc0.ext.json)
-
----
-
-### CEO of UnitedHealthcare fatally shot in New York City
-
-*2024-12-04 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104001/ceo-of-unitedhealthcare-fatally-shot-in-new-york-city) · `en`
-
-The head of US insurance company UnitedHealthcare has been shot and killed in New York City, according to the BBC’s US partner CBS News.
-
-Chief executive Brian Thompson was fatally shot in the chest just before 07:00 EST (12:00 GMT) on Wednesday outside the Hilton Hotel in Midtown Manhattan, where he was scheduled to speak at an investor conference later in the day.
-
-The 50-year-old was taken to the hospital, where he was pronounced dead, officials said.
-
-A suspect fled the scene and remains at large, the New York Police Department said.
-
-Thompson appeared to be targeted in the attack, with the suspect waiting for him outside wearing a ski mask and cream jacket, police said.
-
-Investigators said they have video footage of the shooting, but they did not know the suspect’s motive. Nothing was taken from the victim, they added.
-
-Thompson was named chief executive of UnitedHealthcare in April 2021. He earned $10.2m (£8m) working for the company last year.
-
-...
-
-[Data](articles/e125a7b9.json)
-
-[Extended Data](ext_articles/e125a7b9.ext.json)
-
----
-
-### Discussion for reviewing companies running under the Ministry of Plant and Social Infrastructure
-
-*2024-12-04 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200449) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Review of companies under Ministry of Plantation & Social Infrastructure. Discussion focused on improving company performance, meeting public expectations, and addressing budgets. Key officials including Minister K.V Samantha Vidyaratne and Deputy Minister Sundaralingam Pradeep attended the meeting.
-
-🟩
-
-Discussions were held on Tuesday (03) to review their current status with companies operating under the Ministry of Plantation and Social Infrastructure.
-
-During this time, the focus of the discussion was to improve the performance of these companies, meet the expectations of the public through a skilled public service, and to address the budgets.
-
-Minister K.V Samantha Vidyaratne, Deputy Minister Sundaralingam Pradeep Ministry Secretary and Representatives of the following institutions were present at the meeting.
-
-◼️
-
-[Data](articles/6ce13c1e.json)
-
-[Extended Data](ext_articles/6ce13c1e.ext.json)
-
----
-
-### Meeting between the President and the Executive Director of the World Bank
-
-*2024-12-04 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200448) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-World Bank Executive Director Parameswaran Iyer met President Anura Kumara Dissanayake to discuss Clean Sri Lanka program support and future development projects. Topics included rural poverty eradication, Digital Identity Card, land housing issues, agriculture, fisheries, tourism, education, health sector development, and cooperation on next government initiatives.
-
-🟩
-
-World Bank Executive Director Parameswaran Iyer said the government's Clean Sri Lanka program would be provided with the World Bank.
-
-The Executive Director of the World Bank made this statement while addressing the President's Office at the Presidential Office on Wednesday.
-
-The Executive Director of the World Bank congratulated the new government led by the President and promised that all the plans will be carried out in the future with the cooperation of the World Bank.
-
-Similarly, the President also discussed a long discussion on the development of the new government, the eradication of rural poverty, and the issuance of the Digital Identity Card, which is parallel to the economic digital digitalization program.
-
-It was also talked about the land and housing issues of the plantation and the long -standing problems of the people of the North and East.
-
-...
-
-[Data](articles/d2064e4c.json)
-
-[Extended Data](ext_articles/d2064e4c.ext.json)
-
----
-
-### President Dissanayake engages in discussion with ITAK MPs
-
-*2024-12-04 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104000/president-dissanayake-engages-in-discussion-with-itak-mps) · `en`
-
-President Anura Kumara Dissanayake has met with Parliamentarians from the Illankai Tamil Arasu Kadchi (ITAK) at the Presidential Secretariat in Colombo today (04).
-
-During the discussion, the ITAK MPs brought to the President’s attention the longstanding challenges faced by the people in the Northern and Eastern regions, the the President’s Media Division (PMD) reported.
-
-Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmugam Kugathasan, Shanakiyan Rasamanickam, Gnanamuthu Srineshan, Kaveenthiran Kodeeswaran, Elayathamby Srinath, and Thurairasa Raviharan also attended the meeting.
-
-◼️
-
-[Data](articles/9218dd70.json)
-
-[Extended Data](ext_articles/9218dd70.ext.json)
-
----
-
-### Few Sri Lanka candidates, political groups submit expense reports so far: EC
-
-*2024-12-04 20:23:00* · [`economynextcom`](https://economynext.com/few-sri-lanka-candidates-political-groups-submit-expense-reports-so-far-ec-192192/) · `en`
-
-ECONOMYNEXT – Only a few Sri Lankan candidates and political groups have submitted their income and expenditures related to the recently concluded parliament election campaign with only two days remaining before the deadline, the island nation’s Election Commission data showed.
-
-The Election Commission has set deadline to submit the income and expenditure reports for Friday, December 06, 2024.
-
-The Election Commission said in terms the Regulation of Election Expenditure Act enacted last year, failure to submit election expenditure reports on or before 12:00 midnight on December 06, 2024 “constitutes an offence and action will be taken in accordance with the law”.
-
-Out of the total 8,361 candidates, around 24 percent or 1,985 have submitted their reports to the Election Commission as at 3 pm on Tuesday (03), the Commission said in a statement.
-
-...
-
-[Data](articles/06ccb542.json)
-
-[Extended Data](ext_articles/06ccb542.ext.json)
-
----
-
-### Meeting between President and TNA MPs
-
-*2024-12-04 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200447) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"President Anura Kumara Dissanayake met TNA MPs at the Presidential Office. TNA representatives discussed issues affecting Northern and Eastern regions. Attendees included Chanakyan Rasamanikam, Sivagnanam Sreedharan, and others."
-
-🟩
-
-The meeting between President Anura Kumara Dissanayake and the Sri Lanka Tamil National Alliance (ITAK) MPs was held at the Presidential Office on Wednesday afternoon.
-
-Meanwhile, members of the Sri Lankan Tamil National Alliance (TNA) have long explained to the President on the problems faced by the people of the North and East.
-
-Chanakyan Rasamanikam, Sivagnanam Sreedharan, Pathmanathan Sathiyalingam, Shanmuganathan Kukadasan, Gnanamuthu Srinasan, Kavindran Koteeswaran, Ilayadambi Sirinath, Durairasa Ravikaran were also present.
-
-◼️
-
-[Data](articles/8adc9996.json)
-
-[Extended Data](ext_articles/8adc9996.ext.json)
-
----
-
-### Ranil's bars were revealed in Parliament in Parliament
-
-*2024-12-04 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204043) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Excise Dept grants 361 liquor licenses. Highest in Western Province (110). Southern & Northern Provinces receive fewer. 172 for retail/wine stores. Opposition claims political bribery by former President Ranil Wickremesinghe.
-
-🟩
-
-At present, the Excise Department (EBC) has been given 361 liquor licenses today (4th) in Parliament today.
-
-He said that the highest licenses were provided in the Western Province, and 110 was 110.
-
-In addition, the Southern Province has been given 48 permits, 32 to the northwest, 30 to the North West, 30 North Western and 30 North Western Province.
-
-He added that 172 of the liquor have been given the liquor retail (wine Stose) or FL-4, he said.
-
-"These licenses would clearly say that former President Ranil Wickremesinghe granted former President Ranil Wickremesinghe to transfer parties as political bribes."
-
-◼️
-
-[Data](articles/f28b4263.json)
-
-[Extended Data](ext_articles/f28b4263.ext.json)
-
----
-
-### Asian Bowl Cricket under the age of 19
-
-*2024-12-04 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200446) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Under-19 Asian Cup cricket: Sri Lanka vs India & Pakistan vs Bangladesh in semi-finals. India crushed UAE by 10 wickets, Pakistan thrashed Japan by 180 runs. Semi-finals tomorrow in Sharjah and Dubai.
-
-🟩
-
-Sri Lanka and Indian teams will play in the second semi -finals of the UAE's 19 -year -old Asian Cup cricket.. Bangladesh will oppose Pakistan in the first semi -final.
-
-After Pakistan and India won the last two matches for the A group today, it was decided which teams would oppose the semi -finals.
-
-Sri Lanka and Pakistan in the B Group in the Under -19 Asian Cup cricket match, which were participating in eight teams, were eligible to play in the semi -finals.
-
-Bangladesh and India advanced to the semi -finals with a defeat of these two groups respectively.
-
-India won by 10 wickets in a group match today at the Sharjah Cricket Stadium between India and the United Arab Emirates.
-
-The UAE scored 137 runs for the loss of all wickets in 44 overs.
-
-Muhammad Rayan (36) and Akshad Roy (26) were among the two.
-
-In reply, India won by 143 runs in 16.1 overs.
-
-Vaibhav Suryavanshi did not bowl with 76 balls with 3 fours and 6 sixes and Ayush Muhadri 67 runs.
-
-...
-
-[Data](articles/fd3a1d8a.json)
-
-[Extended Data](ext_articles/fd3a1d8a.ext.json)
-
----
-
-### Member Junction reminds the past
-
-*2024-12-04 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204042) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dr. Ramanathan Allechchi recalls his father's past in Parliament. He mentions his father leading Sri Lanka's police football team in 1966 and their move to Jaffna in 1983 due to the LTTE situation. He also mentions his father going missing from hospital in May 2009.
-
-🟩
-
-Jaffna District Independent MP Dr. Ramanathan Allechchi said a talk in Parliament today (04).
-
-"I would like to remind my father at this time. He was the leader of the Sri Lankan police football team in 1966. Our family had to go to Jaffna with the situation in 1983. Two decades of the LTTE worked at the LTTE. In May 2009, my father went missing from hospital. "
-
-◼️
-
-[Data](articles/b78f5001.json)
-
-[Extended Data](ext_articles/b78f5001.ext.json)
-
----
-
-### Sri Lanka new govt’s policy statement passed in parliament unanimously
-
-*2024-12-04 19:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govts-policy-statement-passed-in-parliament-unanimously-192176/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissnayake’s policy statement for the new government was passed in the parliament without a vote on Wednesday (04) after two days of debate.
-
-In the statement, President Dissanayake outlined the major policies he intended to carry out in his five year tenure along with more than a two-third parliament majority for his Marxixts-leaned National People’s Power (NPP).
-
-The policy statement also covered the key changes the government wants to introduce aiming to eradicate corruption and ensure social justice while focusing on a modern economy. (Colombo/December 04/2024)
-
-◼️
-
-[Data](articles/ea6df0c7.json)
-
-[Extended Data](ext_articles/ea6df0c7.ext.json)
 
 ---

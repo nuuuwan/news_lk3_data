@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 11:01:02**
+As of **2024-12-05 11:43:26**
 
 ## Newspaper Stats
 
-*Scraped **58,581** Articles*
+*Scraped **58,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,64 +13,192 @@ dbsjeyarajcom | 445
 colombotelegraphcom | 595
 bbccomsinhala | 612
 islandlk | 3,518
-economynextcom | 3,558
+economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,549
+adalk | 5,551
 adaderanalk | 7,112
-tamilmirrorlk | 8,338
-virakesarilk | 9,592
-adaderanasinhalalk | 10,119
+tamilmirrorlk | 8,340
+virakesarilk | 9,593
+adaderanasinhalalk | 10,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,566 (100.0%) of 58,581 articles have been extended.
+58,576 (100.0%) of 58,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### ඩොනල්ඩ් ලූ දිවයිනට
+### காதலியைக் மரக்கட்டையால் அடித்துக் கொன்ற காதலன்
+
+*2024-12-05 11:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியைக்-மரக்கட்டையால்-அடித்துக்-கொன்ற-காதலன்/175-348269) · `ta`
+
+கெடவல பிரதேசத்தில் நேற்று புதன்கிழமை 23 வயதுடைய காதலியை கொலை செய்த சம்பவம் தொடர்பில் தேடப்பட்டு வரும் சந்தேகநபரை கைது செய்வதற்கான விசாரணைகளை சிறிபாகம பொலிஸார் ஆரம்பித்துள்ளனர்.
+
+நேற்று மாலை ஏற்பட்ட வாக்குவாதத்தின் போது குறித்த நபர் பெண்ணை மரக்கட்டையால் தாக்கியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+முதற்கட்ட விசாரணையில், குறித்த பெண்ணும் சந்தேக நபரான ஆணும் காதல் உறவில் ஈடுபட்டு வந்ததாகவும், வாக்குவாதம் முற்றியதையடுத்து காதலியை தாக்கியுள்ளதாகவும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/f872a149.json)
+
+---
+
+### The order to the petition against the Secretary of the Sri Lanka Olympic Committee
+
+*2024-12-05 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204060) · `si`
+
+Sri Lanka Olympic Committee Secretary faces corruption charges. Petition filed seeking suspension. Case adjourned until 18th for further submissions.
+
+🟩
+
+The Colombo District Court today (05), the petition filed by the Sri Lanka Olympic Committee Secretary Macswal De Silva.
+
+The petition was presented by former secretary Nalin Superintendent of Sri Lanka Sunday Federation.
+
+When the petition was called today (05), the lawyers who appeared for the respondents have requested the court to pay their time to file protests.
+
+Accordingly, the party ordered the parties to submit the protests and the written lectures that the case had been sent back on the 18th of this month.
+
+The petitioners say that the secretary of the relevant committee has been charged with corruption.
+
+Therefore, the petition had been submitted to issue a suspension of suspension.
+
+◼️
+
+[Data](articles/435bd81d.json)
+
+[Extended Data](ext_articles/435bd81d.ext.json)
+
+---
+
+### Governing Secretary Renuka Perera arrested in Poight
+
+*2024-12-05 11:12:50* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-පාලක-ලේකම්-රේණුක-පෙරේරා-අත්අඩංගුවට/11-413471) · `si`
+
+Renuka Perera, Sri Lanka's Filling Secretary, arrested by CID for publishing false propaganda about Mahaviu commemoration. Arrest made after CID officers visited his residence.
+
+🟩
+
+The General Assembly Secretary of the Sri Lanka Filling Secretary Renuka Perera has been arrested by the CID.
+
+The arrests have been made on charges of publishing false propaganda on the Mahaviu commemoration.
+
+The arrest was made following a group of officers of the CID to visit his residence this morning.
+
+◼️
+
+[Data](articles/c50814a1.json)
+
+[Extended Data](ext_articles/c50814a1.ext.json)
+
+---
+
+### 10 schoolchildren rescued
+
+*2024-12-05 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200467) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"10 schoolchildren aged 16-17 rescued after going missing while hiking in Handan Mountains due to heavy snow and cold. They called police emergency number, prompting rescue efforts."
+
+🟩
+
+A group of school children who went missing in Handan Mountains have been rescued by police and military personnel on Thursday morning, police said.
+
+A group of students between the ages of 16 and 17 from the Colombo and Kiribathgodai areas have traveled from Sarasavigama area to Handanai hill from the Peradeniya Police Division on Wednesday morning.
+
+A group of students who were climbing the mountain were missing due to heavy snow and cold.
+
+A group of missing students later informed the police emergency telephone number and the police rushed to the scene and rescued the students, police said.
+
+◼️
+
+[Data](articles/b2c30a00.json)
+
+[Extended Data](ext_articles/b2c30a00.ext.json)
+
+---
+
+### மொட்டுவின் நிர்வாக செயலாளர் கைது
+
+*2024-12-05 11:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-நிர்வாக-செயலாளர்-கைது/175-348267) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நிர்வாக செயலாளர் ரேணுகா பெரேரா குற்றப் புலனாய்வுப் பிரிவினரால் சில நிமிடங்களுக்கு முன்னர் கைது செய்யப்பட்டதாக சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+
+தமிழீழ விடுதலைப் புலிகளின் தலைவர் வேலுப்பிள்ளை பிரபாகரனின் புகைப்படங்களை சமூக ஊடகங்களில் வெளியிட்டதாக   ரேணுகா பெரேரா மீது குற்றம் சுமத்தப்பட்டு, அந்தக் குற்றச்சாட்டின் பேரில் அவர் கைது செய்யப்பட்டதாக சிரேஷ்ட பொலிஸ் அதிகாரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/67b44183.json)
+
+---
+
+### To Donald Lie
 
 *2024-12-05 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204059) · `si`
 
-අමෙරිකා එක්සත් ජනපදයේ දකුණු හා මධ්‍යම ආසියානු කටයුතු පිළිබඳ කාර්යාංශයේ සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා දිවයිනට පැමිණ තිබේ.
+Donald Lu visits Sri Lanka to promote economic growth, combat corruption, and strengthen ties between the US and Sri Lanka. He will meet with government officials and civil society to discuss potential US assistance for economic reforms.
 
-ඩොනල්ඩ් ලූ මහතා සමග එරට රාජ්‍ය දෙපාර්තමේන්තුවේ තවත් උසස් නිලධාරීවරයෙකු ද දූත පිරිස ලෙස කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ සිටියහ.
+🟩
 
-ඔවුන් අද (05) අලුයම 02.55ට දෝහා නුවර සිට කටාර් ගුවන් සේවයේ කිව්.ආර් - 662 දරන ගුවන් යානයෙන් මෙරටට පැමිණියේය.
+Assistant Secretary of State for Southern and Central Asian Affairs Dr. Donald on the island.
 
-ඔවුන් පිළිගැනීම සදහා ශ්‍රී ලංකාවේ ඇමෙරිකානු තානාපති කාර්යාලයේ නිලධාරීන් පිරිසක් සහ ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් පිරිසක් ද කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ සිටියහ.
+Along with Donald Lu, another senior official of the State Department and the delegation was also present at the Katunayake airport.
 
-තිරසාර ආර්ථික වර්ධනයක් ප්‍රවර්ධනය කිරීම, දූෂණයට එරෙහිව සටන් කිරීම සහ මිනිසුන් අතර සබඳතා ශක්තිමත් කිරීම සහ අමෙරිකාව සහ ශ්‍රී ලංකාව අතර ඒකාබද්ධ ප්‍රයත්නයන් ඉදිරියට ගෙන යාම ඩොනල්ඩ් ලූ මහතාගේ ශ්‍රී ලංකා සංචාරයේ අරමුණ බව වාර්තා වේ.
+They arrived at the plane at Poo, Qatar, Qatar, Qatar.
 
-අමෙරිකානු සහකාර රාජ්‍ය ලේකම්වරයා දෙසැම්බර් 10 වන දින දක්වා ඉන්දියාව, ශ්‍රී ලංකාව සහ නේපාලය යන රටවල සංචාරය කිරීමට නියමිතය.
+A group of officials of the US embassy in Sri Lanka and officials of the Sri Lanka Ministry of External Affairs were also present at the Katunayake airport.
+
+It is reported that Donald Lu's visit to Sri Lanka to promote sustainable economic growth, promote corruption and strengthening and strengthening and strengthening people and the US and Sri Lanka.
+
+The US Assistant Secretary of State is due to visit India, Sri Lanka and Nepal until December 10.
+
+The objective of this visit is to strengthen cooperation with the main partners in South Asia to promote regional prosperity and security.
+
+The US delegation is due to meet senior government officials and civil society in Sri Lanka.
 
 ...
 
 [Data](articles/1b624dcd.json)
 
+[Extended Data](ext_articles/1b624dcd.ext.json)
+
 ---
 
-### பொல்லால் தாக்கப்பட்டு காதலி கொலை ;  காதலன் தப்பியோட்டம்
+### Murder of girlfriend;Lover escape
 
 *2024-12-05 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200466) · `ta`
 
-இரத்தினபுரி, சிறிபாகம பொலிஸ் பிரிவிற்கு உட்பட்ட கெடவல பகுதியில் காதலனால் பொல்லால் தாக்கப்பட்டு காதலி கொலை செய்யப்பட்டுள்ளதாக சிறிபாகம பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-கொலை செய்யப்பட்ட காதலியும் சந்தேக நபரான காதலனும் நீண்ட நாட்களாக காதல் உறவில் ஈடுபட்டிருந்துள்ள நிலையில் சம்பவத்தன்று இருவருக்கும் இடையில் தகராறு ஏற்பட்டுள்ளது.
 
-காயமடைந்த காதலி கிலிமலை வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக இரத்தினபுரி வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
 
-உயிரிழந்த காதலியின் சடலம் இரத்தினபுரி வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Girlfriend murdered by boyfriend in Kedawala. Suspect's current whereabouts unknown. Victim hospitalized, body at Ratnapura Hospital. Police investigating.
 
-இதனையடுத்து, சந்தேக நபரான காதலன் பிரதேசத்தை விட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
+
+Siripagama police said that the girlfriend was assassinated by a lover and murdered by a boyfriend in the Kedawala area belonging to the Siripagama Police Division in Ratnapura.
+
+The murdered girlfriend and the suspect's girlfriend have been involved in a romantic relationship for a long time.
+
+The injured girlfriend was admitted to the Kilimalai Hospital and was transferred to the Ratnapura Hospital for further treatment.
+
+The body of the deceased girlfriend was placed in the funeral room of the Ratnapura Hospital, police said.
+
+Subsequently, police said that the suspect had fled the area.
 
 ◼️
 
 [Data](articles/45ddb673.json)
+
+[Extended Data](ext_articles/45ddb673.ext.json)
 
 ---
 
@@ -95,6 +223,28 @@ Minister Anil Jayantha Fernando, Minister Anil Jayantha Fernando, revealed the i
 [Data](articles/38daf2db.json)
 
 [Extended Data](ext_articles/38daf2db.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.35/40 to dollar, bonds down
+
+*2024-12-05 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-35-40-to-dollar-bonds-down-192208/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened marginally stronger at 290.35/40 to the US dollar on Thursday from 290.40/50 to the US dollar on Wednesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2027 was quoted at 10.10/15 percent.
+
+A bond maturing on 15.03.2028 was quoted at 10.35/45 percent, down 10.45/55 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.75/85 percent, down from 10.80/95 percent.
+
+In equities, the All Share Price Index was up 0.29 percent or 38.72 points, at 13,550.
+
+The more liquid S&P SL20 was up 0.48 percent, or 19.12 points, at 4,035.
+
+◼️
+
+[Data](articles/fe535a1a.json)
 
 ---
 
@@ -300,21 +450,53 @@ Meanwhile, a special meeting was held last afternoon (04) attended by former Sri
 
 ---
 
-### ரஷ்ய இராணுவத்தில் வலுக்கட்டாயமாக  இணைக்கப்பட்ட உறவுகளை மீட்டுத்தாருங்கள் :  ஜனாதிபதி, பிரதமர் உள்ளிட்டோருக்கு மகஜர்
+### Sri Lanka to present mini-budget with Rs4,000bn borrowing limit
+
+*2024-12-05 09:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-mini-budget-with-rs4000bn-borrowing-limit-192212/) · `en`
+
+ECONOMYNEXT – Sri Lanka is to present a mini-budget with a 4,000 billion rupee borrowing limit on Thursday accounting to a resolution distributed to legislators which also allocates funds for ministries till April 2025.
+
+Ministries have been allocated 1,402 billion rupees for the period.
+
+The resolution seeks parliamentary authority for 4,197 billion rupees to be paid out of the consolidated fund, including for debt service and repayment.
+
+The resolution also seeks authority to raise up to 4,000 billion rupees locally or abroad.
+
+Sri Lanka is expecting to present a formal budget for 2025 in line with an International Monetary Fund program in February 2025.
+
+◼️
+
+[Data](articles/db7e0592.json)
+
+---
+
+### Restore forcibly connected relations in the Russian Army: Mahajar to President and Prime Minister
 
 *2024-12-05 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200463) · `ta`
 
-வலுக்கட்டாயமாக ரஷ்ய இராணுவத்தில் இணைக்கப்பட்டுள்ள தமது உறவுகளை உடன் மீட்டுத்தருமாறு, பாதிக்கப்பட்டவர்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க பிரதமர் ஹரிணி அமரசூரிய மற்றும் வெளிவிவகார அமைச்சர் விஜித ஹேரத் ஆகியோருக்கு மகஜர் வழங்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-அத்துடன், இலங்கை மனித உரிமைகள் ஆணைக்குழுவிலும் முறைப்பாடு செய்யப்பட்டுள்ளபோதும் ரஷ்ய தூதரகம் அவர்களின் மகஜரை பெற்றுக்கொள்வதற்கு மறுப்புத் தெரிவித்துள்ளது.
 
-பிரான்ஸ் மற்றும் பெல்ஜியம் ஆகிய நாடுகளுக்குச் செல்வதற்காக எமது உறவினர்கள் முகவர் ஊடாக பணம் செலுத்தி கடந்த மாதம் பயணமாகியிருந்தனர். அவர்களை கொழும்பு கட்டுநாயக்கவிலிருந்து ரஷ்யாவுக்கு கொண்டு செல்வதாகவும் பின்னர் அங்கிருந்து ஐரோப்பியாவுக்கு அழைத்துச் செல்வதாகவும் உறுதியளிக்கப்பட்டது.
 
-அதற்கு அமைவாக, அவர்களுக்கு 60இலட்சம் முதல் 70இலட்சம் வரையிலான பணம் வழங்கப்பட்டுள்ளது. எனினும் எமது உறவினர்கள் ரஷ்ய விமான நிலையத்தில் இருந்து ரஷ்யாவுக்குள் அழைத்துச் செல்லப்பட்டு பின்னர் அவர்களுக்கு இராணுவப்பயிற்சி அளிக்கப்பட்டுள்ளது.
+Sri Lankan citizens forcibly recruited into Russian army. Paid large sums to travel to Europe but sent to fight in Ukraine instead. Requesting protection and safe return due to ongoing conflict.
+
+🟩
+
+The Mahajar has been given to President Anura Kumara Dissanayake Prime Minister Harini Amarasuriya and External Affairs Minister Vijitha Herath to forcibly restore their relations in the Russian army.
+
+The Russian Embassy has refused to obtain the Major, despite the complaints of the Human Rights Commission of Sri Lanka.
+
+Our relatives were traveling through the agents to travel to France and Belgium last month.. It was promised to take them from Colombo to Russia and then take them from there to Europe.
+
+In accordance with that, they have been paid Rs 60 lakh to 70 lakhs. However, our relatives were taken from the Russian airport to Russia and then they have been given military training.
+
+They have been taken to war against Ukraine after 15 days of training. In this case, it is impossible to have contacts with the money laundering agents to take it to Europe.
 
 ...
 
 [Data](articles/8504fc87.json)
+
+[Extended Data](ext_articles/8504fc87.ext.json)
 
 ---
 
@@ -481,6 +663,24 @@ Misty conditions can be expected in most places of the island during the morning
 [Data](articles/491c507f.json)
 
 [Extended Data](ext_articles/491c507f.ext.json)
+
+---
+
+### Sri Lanka starts study on Colombo West Container Terminal 2
+
+*2024-12-05 07:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-starts-study-on-colombo-west-container-terminal-2-192201/) · `en`
+
+ECONOMYNEXT – Sri Lanka Ports Authority has begun studying West Terminal Two, which planned to become operational after East Terminal and West Colombo International Terminals are completed in 2026, official said.
+
+The SLPA has appointed consultants to make a detailed study of West Terminal II, which is to be an extension of the quay wall of the CWIT which is now being built, Chairman Admiral Sirimevan Ranasinghe told a forum organized by the Export Development Board.
+
+The Colombo Port now has a capacity of about 8.3 million twenty foot equivalent units (TEUs) with the Jaye Terminals, South Asia Gateway Terminal, Colombo International Container Terminals and the first phase of East Terminal with 6 gantry cranes.
+
+The 1400 meter West Terminal Two will require changes to the breakwater, all of which will be studied.
+
+...
+
+[Data](articles/92fd9d86.json)
 
 ---
 
@@ -1732,6 +1932,8 @@ The Strongest Banks rankings are based on a detailed and transparent scorecard t
 
 [Data](articles/230a6598.json)
 
+[Extended Data](ext_articles/230a6598.ext.json)
+
 ---
 
 ### MMBL-Pathfinder partners with HCLTech to accelerate technology talent development in Sri Lanka
@@ -1745,6 +1947,8 @@ Central to this partnership is the HCLTech Career Shaper™ platform, designed t
 ...
 
 [Data](articles/77951dcf.json)
+
+[Extended Data](ext_articles/77951dcf.ext.json)
 
 ---
 
@@ -2223,195 +2427,5 @@ MPs Sivagneam Sridharan Sridharan Sridhalanam, Sivamunathan Sithilangam, Sunamun
 [Data](articles/45bf15d6.json)
 
 [Extended Data](ext_articles/45bf15d6.ext.json)
-
----
-
-### The President meets MPs
-
-*2024-12-04 19:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-எம்-பிக்களை-சந்தித்தார்-ஜனாதிபதி/175-348251) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-President Anura Kumara Dissanayake met TNA MPs today. They discussed issues affecting Northern and Eastern regions. The meeting took place at the Presidential Office.
-
-🟩
-
-The meeting between President Anura Kumara Dissanayake and the Sri Lanka Tamil National Alliance (TNA) parliamentarians was held this afternoon at the Presidential Office.
-
-The members of the Sri Lanka Tamil National Alliance (TNA) have long explained to the President on the problems faced by the people of the North and East.. Remble
-
-◼️
-
-[Data](articles/7f85d81e.json)
-
-[Extended Data](ext_articles/7f85d81e.ext.json)
-
----
-
-### Government Policy Statement passed in Parliament
-
-*2024-12-04 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103999/government-policy-statement-passed-in-parliament) · `en`
-
-The resolution on the statement of the Government Policy, which was presented by President Anura Kumara Dissanayake in Parliament on November 21, was passed unanimously in Parliament today (04) without a vote.
-
-The debate on the statement of the Government Policy was held as a two-day debate from 9.30 am to 5.30 pm yesterday (03) and from 9.30 am to 5.00 pm today (04).
-
-◼️
-
-[Data](articles/4b605719.json)
-
-[Extended Data](ext_articles/4b605719.ext.json)
-
----
-
-### The victims of the victim's bar-permit were out in Parliament
-
-*2024-12-04 19:17:15* · [`adalk`](https://www.ada.lk/breaking_news/ගිය-ආණ්ඩුවෙන්-බාර්-පර්මිට්-ගත්ත-අයගේ-නම්-පාර්ලිමේන්තුවේදී-එළියට/11-413465) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former President Ranil Wickremesinghe claims 361 excise licenses issued since January 2024, including 172 wine store permits. He accuses these of being used as political bribes.
-
-🟩
-
-Former President Ranil Wickremesinghe has been provided with 361 excise targets from 1st January 2024, with 172 permits.
-
-He made this statement before Parliament today (04).. Speaking further Leader of the House Minister Bimal Ratnayake said:
-
-30 in the North Western Province, 32 in the North Western Province, 32 in the North Western Province, 48 in the North Western province, 32 in the North Western Province, 48 in the Wayamba.361 overall excise licenses have been issued during this period.
-
-Retail, especially in the retail, we say that FL 4: Licenses of Wine Stose. Such permits have been issued 172 during this period. Accordingly, the Colombo 22, 18, Kalutara, 8 in Kalutara for sale in Kalutara. Five Matara, 05 in Matara, 24, Matale, 02, Trincomalee, 02 in Trincomalee, 05, Hambantota, 5 in Jaffna
-
-...
-
-[Data](articles/44941895.json)
-
-[Extended Data](ext_articles/44941895.ext.json)
-
----
-
-### Protests against President South Korea to resign after post
-
-*2024-12-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204040) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-South Korean President faces protests after imposing military law. Opposition demands resignation. Parliament passes proposal to repeal law. Protests continue as president refuses to step down.
-
-🟩
-
-He has acted the verdict of the South Korean President to prohibit all political and parliamentary activities in the country.
-
-It was after the passage of a proposal brought by the Parliament against it.
-
-South Korean President Yugore was announced that the country eats militarily to protect the country from the disasters caused by the Communist Forces in North Korea.
-
-Under this, all political and parliamentary activities were banned and the power to arrest anyone without warrants.
-
-Also, freedom of speech was restricted and strict rules were also launched for the media.
-
-The army was blocked by the army, without the power of the opposition and the masses in the country.
-
-With the news, opposition politicians, supporters were assembled to the president last night and demanded the president to remove the illegal military law.
-
-Also, some representatives of the ruling party as well as supporters were also assisted.
-
-...
-
-[Data](articles/0e6b20d2.json)
-
-[Extended Data](ext_articles/0e6b20d2.ext.json)
-
----
-
-### Proper inquiry into the assassination of Tajuddin - Minister Nalinda Jayatissa
-
-*2024-12-04 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/200444) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Nalinda Jayatissa vows to investigate Tajuddin's assassination and punish culprits. Inquiry ongoing after MP Mujibur Rahman's speech in Parliament. Data previously unavailable now accessible for thorough investigation.
-
-🟩
-
-Minister Nalinda Jayadissa, the chief minister of the ruling party, said that proper investigations into the controversial assassinations, including the assassination of Tajuddin, will be punished.
-
-Addressing a debate on the government's policy declaration in Parliament on Wednesday (4), Mujibur Rahman referred to the alive Sunday bomb blasts and the assassination of Tajuddin.
-
-Following the speech of MP Mujibur Rahman, we have been conducting a formal inquiry into other assassinations, including the ruling party, Nalinda Jayatissa, who has been ruling in the past, including the assassination of Tajuddin, who has spoken in the past.
-
-The month has been made in obtaining data in the past by technical factors. But now that data is available.He said proper investigations would be conducted and the culprits would be punished.
-
-◼️
-
-[Data](articles/de8bef07.json)
-
-[Extended Data](ext_articles/de8bef07.ext.json)
-
----
-
-### Sri Lanka President discusses new govt’s policy priorities with World Bank ED
-
-*2024-12-04 18:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-new-govts-policy-priorities-with-world-bank-ed-192172/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake discussed the new government’s policy priorities with visiting World Bank Executive Director Parameswaran Iyer on Wednesday (04) including key sectors and Clean Sri Lanka project, the President’s Media Division (PMD) said.
-
-During the meeting Iyer affirmed that all ongoing World Bank-backed projects in Sri Lanka will continue uninterrupted, the PMD said.
-
-“President Dissanayake emphasised the government’s primary focus areas, which include advancing the agriculture, fisheries, tourism, education, and health sectors. He underscored the importance of these sectors in fostering national development and improving livelihoods,” the PMD said in a statement.
-
-“In response, Mr. Iyer stated that the World Bank is prepared to convene an advisory group to explore initial steps for supporting the government’s development priorities. He also commended the President’s “Clean Sri Lanka” programme.”
-
-...
-
-[Data](articles/5974e0dd.json)
-
-[Extended Data](ext_articles/5974e0dd.ext.json)
-
----
-
-### W.M. Mendis & Company's license suspension
-
-*2024-12-04 18:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/W-M-மென்டிஸ்-அன்ட்-கம்பெனியின்-உரிமம்-இடைநிறுத்தம்/175-348250) · `ta`
-
-W.M. Mendis & Company faces license suspension due to tax failures. Alcohol production halted since Dec 5. Additional licenses may be suspended by Dec 31 if tax issues persist. This decision made public during WM Mendis & Co.'s Court of Appeal hearing.
-
-🟩
-
-The Department of WM's alcohol production has been suspended from December 5, the Department of Excise said.
-
-The department warned that if the failure of the tax continues, other licenses of the company will be suspended after December 31.
-
-The matter was revealed during the hearing of the Court of Appeal, WM Mendis & Co.. Eight of the 10 liquor production licenses granted to the company have already been suspended.
-
-◼️
-
-[Data](articles/d1d9a033.json)
-
-[Extended Data](ext_articles/d1d9a033.ext.json)
-
----
-
-### මෙන්ඩිස් සමාගමේ බලපත්‍රය අත්හිටුවයි
-
-*2024-12-04 18:35:24* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමේ-බලපත්‍රය-අත්හිටුවයි/11-413464) · `si`
-
-ඩබ්ලිව්.එම්. මෙන්ඩිස් සහ සමාගම විසින් ගෙවිය යුතු හිඟ සුරාබද්ද හා ඊට අදාළව 3% මාසිකව ගෙවිය යුතු අධිභාර නොගෙවීම නිසා මත්පැන් නිෂ්පාදන බලපත්‍රය අද (05දා) සිට අත්හිටුවන බව සුරාබදු දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-මෙම සමාගම විසින් ගෙවිය යුතු රුපියල් බිලියන පහයි දශම හතක මුදල ගෙවීම පැහැර හැරීම නිසා සුරාබදු ආඥා පනතේ නෛතික විධිවිධාන ප්‍රකාරව මෙම සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය අද සිට අත්හිටුවීමට තීරණය කර තිබෙන බවද එම දෙපාර්තමේන්තුව මාධ්‍ය නිවේදනයක් නිකුත් කරමින් ඊයේ (04දා) සඳහන් කළේය.
-
-මේ අනුව අද සිට මත්පැන් නිෂ්‍පාදන ක්‍රියාවලිය අත්හිටුවීමටත් හිඟ බදු හා අධිභාරය තවදුරටත් ගෙවීම පැහැර හරින්නේ නම් එම සමාගමට නිකුත් කර ඇති සියලුම සුරාබදු මත්පැන් බලපත්‍ර මේ මස 31 දිනෙන් ඔබ්බට දීර්ඝ නොකිරීමටත් කටයුතු කරන බවද එම නිවේදනය මගින් පෙන්වා දී ඇත.
-
-◼️
-
-[Data](articles/00069b84.json)
 
 ---

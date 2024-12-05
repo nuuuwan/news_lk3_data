@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 00:02:44**
+As of **2024-12-06 01:11:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,694 (100.0%) of 58,713 articles have been extended.
+58,708 (100.0%) of 58,713 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -492,21 +492,35 @@ Around 10 fire trucks had been dispatched to douse the flames after a fire erupt
 
 ---
 
-### පොලීසිය කොස්තාපල්ට පරාදයි
+### Police lose constable
 
 *2024-12-05 19:16:59* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-කොස්තාපල්ට-පරාදයි/11-413487) · `si`
 
-බටපොළ පොලීසියේ රථවාහන අංශය විසින් රත්ගම පොලීසියේ සේවය කළ පොලිස් කොස්තාපල්වරයෙකුට එරෙහිව පවරා තිබූ රථවාහන නඩුවෙන් පොලිස් කොස්තාපල්වරයා සියලුම චෝදනාවලින් නිදොස් කොට නිදහස් කරන ලෙස බළපිටිය මහේස්ත්‍රාත් ආර්.ඩී.ජනක මහතා අද (05දා) නියෝග කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-වසර පහක් තිස්සේ විභාග වූ මේ නඩුවේ සියලුම චෝදනාවලින් නිදොස් කොට නිදහස් කරනු ලැබූවේ, රිය අනතුර සිදුවන අවස්ථාවේදී රත්ගම පොලීසියේ හා වත්මන් අම්බලන්ගොඩ පොලීසියේ සේවය කරන කේ.එම්.ජී.ඉන්ද්‍රජිත් (85314) නමැති පොලිස් කොස්තාපල්වරයාය.
 
-2019 මැයි 21 හෝ ඊට ආසන්න දිනයකදී  බටපොළ කොබෙයිතුඩුව ප්‍රදේශයේදී සිදුවූ රිය අනතුරකදී එවකට රත්ගම පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කරන ලද පොලිස් කොස්තාපල් කේ.එම්.ජී.ඉන්ද්‍රජිත් නිලධාරියාට එරෙහිව බටපොළ පොලීසිය විසින් රථවාහන නීති කඩ කළේ යැයි කියමින් බළපිටිය අධිකරණයේ නඩු පවරන ලදී.
 
-එහිදී මෙම පොලිස් කොස්තාපල්වරයාට එරෙහිව අනතුරක් වළක්වා නොගැනීම, රිය වමෙන් ධාවනය නොකිරීම යන චෝදනා දෙක යටතේ බටපොළ පොලීසිය විසින් මෙම නඩු ගොනුකොට තිබිණි.
+Magistrate orders acquittal of police constable accused of negligence. Incident occurred on May 21, 2019. Officer hospitalized after motorcycle accident. Case dismissed due to lack of evidence.
+
+🟩
+
+The Batapitiya Magistrate RDD today (05) ordered the disposal of the police constable against a police constable assigned by the Battapola police constable.
+
+The accusations have been acquitted in acquitted of the three years and released the Rangama Police and the Police Constable, who serves in the Ambalangoda Police and the current Ambalangoda Police.
+
+In the Batapola, Batapola police were assigned to the Ratgama Police Station at the Batapola Police Station at the time of May 21, 2019, claimed to be deployed by the Batapola Police.
+
+The Batapola Police were filed by the Batapola Police under the two charges not to avoid accidents against the police constable.
+
+The police constable KMG Sathya KMG Sathyajith has been hospitalized after his motorcycle on his home from his home.
+
+The police officers were filed by the Chief Inspector General of Police Chief Inspector Tenth Silva regarding the incident.
 
 ...
 
 [Data](articles/c2231f8e.json)
+
+[Extended Data](ext_articles/c2231f8e.ext.json)
 
 ---
 
@@ -668,21 +682,31 @@ In this statement, the citizens of each country have investigated the expression
 
 ---
 
-### பெரும்பான்மை உள்ளதால் தன்னிச்சையாக செயற்பட வேண்டாம் : தயாசிறி அரசாங்கத்துக்கு அறிவுறுத்தல்
+### Do not act spontaneously because of the majority:
 
 *2024-12-05 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200486) · `ta`
 
-குறை நிரப்பு  பிரேரணை  நிறைவேற்றப்படாத நிலையில் தான் இடைக்கால வாக்கு கணக்கு பதிவை சமர்ப்பிக்க முடியும். பெரும்பான்மை உள்ளதால் அரசாங்கம் தன்னிச்சையாக செயற்படுகிறது. எதிர்தரப்பில் 66 உறுப்பினர்கள் உள்ளார்கள். ஆகவே குறைப்பாடுகளை சுட்டிக்காட்ட இடமளியுங்கள் என  எதிரணியின் பாராளுமன்ற  உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+Here's a summary in approximately 200 characters:
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (05) நடைபெற்ற அமர்வின் போது சிறப்புரிமை மீறல் பிரச்சினையை முன்வைத்து உரையாற்ற அனுமதி கோரினார்.
 
-இதன்போது சபைக்கு தலைமை தாங்கிய சபாநாயகர்  கலாநிதி அசோக ரன்வல, நீங்கள் (தயாசிறி ஜயசேகரவை நோக்கி ) முன்வைத்த சிறப்புரிமை மீறல் பிரச்சினை இன்று காலை 09.25 மணியளவில்   கிடைக்கப் பெற்றது. அத்துடன்  பத்திரத்தில் திகதியும் குறிப்பிடப்படவில்லை. ஆகவே இவ்விடயம் தொடர்பில் உங்களிடம் கலந்துரையாட தீர்மானித்திருந்தேன் என்றார்.
 
-இதன்போது தொடர்ந்து உரையாற்றிய பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர,  பாராளுமன்ற அமர்வு ஆரம்பிப்பதற்கு  முன்னர் அதாவது  09.30  மணிக்கு முன்னர் சிறப்புரிமை மீறல் பிரச்சினையை முன்வைக்கலாம்.
+Opposition MP Dayasiri Jayasekara raised concerns about privilege violation during a parliamentary session. He criticized the government's arbitrary actions due to its majority. The interim report was presented under the State Finance Management Act, but the opposition argues it violates procedures.
+
+🟩
+
+The interim voting account can be submitted only when the proposal is not fulfilled. The government acts spontaneously because there is a majority. There are 66 members in the opposition. Therefore, the opposition parliamentarian Dayasiri Jayasekara said, "Let us point out the reduction."
+
+During the session held in Parliament on Thursday (05), he sought permission to present the issue of privilege violation.
+
+Speaker Dr. Ashoka Ranwala, who presided over the House, presided over the issue of privilege (towards Dayasiri Jayasekara) at 09.25 am. As well as the date of the bond is not specified. So I had decided to discuss this on this issue.
+
+Speaking on the occasion, Member of Parliament Dayasiri Jayasekara said that the issue of privilege can be presented before the inauguration of the parliamentary session at 09.30 am.
 
 ...
 
 [Data](articles/278946c8.json)
+
+[Extended Data](ext_articles/278946c8.ext.json)
 
 ---
 
@@ -768,19 +792,33 @@ The officers informed the President on the issues of the production and packagin
 
 ---
 
-### வீடுகளிலிருந்து வரி செலுத்த முடியுமான வேலைத்திட்டத்தை முன்னெடுப்போம் - அமைச்சர் சுனில் ஹந்துன்னெத்தி
+### We will carry out a program that can pay taxes from homes - Minister Sunil Handunnethi
 
 *2024-12-05 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200499) · `ta`
 
-மக்கள் செலுத்தும் வரி பணத்தினால் அரசாங்கம் முன்னெடுக்கும் வேலைத்திட்டத்தை  தொழிற்சாலைகள் மற்றும் வரி செலுத்தும் மக்கள் ஏற்றுக்கொண்டுள்ளனர். அதனால் அவர்கள் சுயமாக வரி செலுத்த முன்வருகிறார்கள். அத்துடன் எதிர்காலத்தில் வீடுகளில் இருந்து வரி செலுத்த முடியுமான வேலைத்திட்டத்தை முன்னெடுப்போம் என  கைத்தொழில் மற்றும் தொழில் முயற்சிகள் அமைச்சர் சுனில் ஹந்துன்னெத்தி தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (05) அரசாங்கத்தினால் சமர்ப்பிக்கப்பட்ட இடைக்கால வாக்குப்பதி கணக்கறிக்கை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
 
-மக்கள் செலுத்தும் வரி பணத்தை பாதுகாத்து அதன் மூலம் முன்னெடுக்கும் வேலைத்திட்டத்தை நாங்கள் முன்வைத்திருக்கிறோம். எமது வேலைத்திட்டத்தை தொழிற்சாலை உரிமையாளர்கள் வரி செலுத்தும் மக்கள் ஏற்றுக்கொண்டுள்ளார்கள்.
+
+Minister Sunil Handunnethi announces a new tax payment program from homes. Factories and taxpayers support it. Steps taken to protect people's tax money and reduce unnecessary expenses.
+
+🟩
+
+Factories and taxpayers have adopted the government's program of government -paying tax money. So they come forward to pay tax. Minister of Industry and Entrepreneurs Sunil Handunnetti said that we will carry out a program that can be taxed from homes in the future.
+
+He said this while addressing the debate on the interim voting account submitted by the government on Thursday (05) in Parliament.
+
+We have put forward a program that protects people paying tax money. Factory owners have accepted our program.
+
+So taxpayers are very eagerly paying for self. We had introduced a final date for non -taxpayers to pay before September 30. He has been in line to pay taxes during that period.
+
+People are ready to pay tax. But they were unaware of what the programs they were paying for the tax money they were paying. So the taxpayers avoided paying it.
 
 ...
 
 [Data](articles/b59075b7.json)
+
+[Extended Data](ext_articles/b59075b7.ext.json)
 
 ---
 
@@ -910,21 +948,33 @@ President Dissanayake emphasized the importance of achieving both political and 
 
 ---
 
-### வடக்கு, கிழக்கு தனிநாட்டு கருத்தியலை நிராகரிக்கின்றோம் ;  பெருந்தோட்ட மக்களின் காணி, வீட்டுரிமை கனவை நனவாக்குவோம்  - கிட்ணன் செல்வராஜ்
+### We reject the North and East individual ideology;Plantation People's Land and Home Rights Dream - Kidnan Selvaraj
 
 *2024-12-05 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200522) · `ta`
 
-வடக்கையும்,  கிழக்கையும் இணைத்து தனி நாட்டு  கருத்தியலை முன்வைப்பதை  முழுமையாக நிராகரிக்கிறோம். தேசிய  ஒற்றுமையை கட்டியெழுப்புவதற்கும், அதனூடான தமிழ், முஸ்லிம்,  சிங்களம் என ஒட்டுமொத்த மக்களின் நலனையும், வாழ்வியலையும் மேம்படுத்த தேசிய மக்கள் சக்தி கடமைப்பட்டுள்ளது. பெருந்தோட்ட மக்களின் காணி மற்றும் காணி உரிமையை  பெற்றுக்கொடுக்க உரிய நடவடிக்கைகைள முன்னெடுப்போம் என தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  கிட்ணன் செல்வராஜ் தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (05) நடைபெற்ற இடைக்கால கணக்கறிக்கை மீதான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-பதுளை  தேர்தல் மாவட்டத்தில்  தேசிய மக்கள் சக்திக்கு அமோக வெற்றியை பெற்றுக் கொடுத்த தமிழ், சிங்கள மற்றும் முஸ்லிம் மக்களுக்கு முதற்கண் நன்றியை தெரிவித்துக் கொள்கிறேன்.  எதிர்க்கட்சியினர் காலம் கடந்த பல்லவியை மாத்திரம் பாடிக் கொண்டு விமர்சனங்களை மாத்திரம் முன்வைக்கிறார்கள்.
 
-எமது மலையக சமூகம் 200 ஆண்டுகால  பின்னணியை கொண்டுள்ளது. 21 ஆம் நூற்றாண்டிலும் நாங்கள் பல்வேறு  பிரச்சினைகளுக்கு முகங்கொடுத்துள்ளோம்.
+Rejects North-East separation. National People's Power aims for unity among Tamil, Muslim, and Sinhala. Promises action on plantation land rights. Mentions historical struggles and discrimination against upcountry Tamils. Opposes separatism, supports equal rights and welfare for all communities.
+
+🟩
+
+We completely reject the proposal of a separate country by combining the North and East. The National People's Power is obligated to build national unity and improve the welfare and life of the entire people of Tamil, Muslim and Sinhala.. The National People's Power Member Kidnan Selvaraj said that we will take appropriate steps to get the land and land rights of the plantation people.
+
+He was speaking at a debate on the interim report on Thursday (05) in Parliament.
+
+I am grateful to the Tamil, Sinhala and Muslim people for gaining a great success for the national people's power in the Badulla election district.The opposition parties only sing the criticism of the past Pallavi.
+
+Our upstart community has a 200 -year background. In the 21st century, we face various problems.
+
+The upcountry community has been embedded only within the principles of rights and just the principles.The national people's power has given us political rights.
 
 ...
 
 [Data](articles/39c5dc33.json)
+
+[Extended Data](ext_articles/39c5dc33.ext.json)
 
 ---
 
@@ -1442,6 +1492,8 @@ President Dissanayake during a discussion held with senior officials of the BOI 
 
 [Data](articles/002869b0.json)
 
+[Extended Data](ext_articles/002869b0.ext.json)
+
 ---
 
 ### Dr Nilupul Perera appointed chairman of Lanka Hospitals
@@ -1459,6 +1511,8 @@ He holds MBBS and Doctor of Medicine qualifications from the University of Colom
 ◼️
 
 [Data](articles/3b7829f4.json)
+
+[Extended Data](ext_articles/3b7829f4.ext.json)
 
 ---
 
@@ -1479,6 +1533,8 @@ A bond maturing on 15.09.2029 closed at 10.82/90 percent, from 10.80/95 percent.
 ◼️
 
 [Data](articles/85b4ae6e.json)
+
+[Extended Data](ext_articles/85b4ae6e.ext.json)
 
 ---
 
@@ -1525,6 +1581,8 @@ As we know, the primary aspiration of leftists has always been the establishment
 ...
 
 [Data](articles/243e9fa4.json)
+
+[Extended Data](ext_articles/243e9fa4.ext.json)
 
 ---
 
@@ -1607,6 +1665,8 @@ Shares that saw interest included Access Engineering (up at 30.00), JKH, and Lan
 ...
 
 [Data](articles/a43641e1.json)
+
+[Extended Data](ext_articles/a43641e1.ext.json)
 
 ---
 
@@ -1692,6 +1752,8 @@ The submissions have been sent to the governments of the United States, United K
 
 [Data](articles/016f74c6.json)
 
+[Extended Data](ext_articles/016f74c6.ext.json)
+
 ---
 
 ### US Treasury Deputy Asst Secretary meets Sri Lanka’s Finance Ministry Secretary
@@ -1709,6 +1771,8 @@ Sri Lanka’s new government passed  a vote on accounts yesterday in parliament.
 ◼️
 
 [Data](articles/9841d88a.json)
+
+[Extended Data](ext_articles/9841d88a.ext.json)
 
 ---
 
@@ -1806,21 +1870,29 @@ It was adopted by leaders of SAARC member states at the 16th SAARC Summit in Apr
 
 [Data](articles/540ae19a.json)
 
+[Extended Data](ext_articles/540ae19a.ext.json)
+
 ---
 
-### රේණුක පෙරේරාට ඇප
+### Renuka Perera released on bail
 
 *2024-12-05 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204070) · `si`
 
-උතුරේ මහවිරු සැමරුම පිළිබඳව අසත්‍ය ප්‍රචාරයන් සමාජ මාධ්‍යන් ඔස්සේ පළ කිරීමේ චෝදනාව මත අත්අඩංගුවට ගනු ලැබූ රේණුක පෙරේරා මහතාට කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් ඇප ලබාදී ඇත.
+Renuka Perera arrested for false propaganda about Mahaviu commemoration. Released on bail after CID investigation. Ruling secretary of Sri Lanka General Front.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාලක ලේකම් ලෙස කටයුතු කරන රේණුක පෙරේරා, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (5) පෙරවරුවේ අත්අඩංගුවට ගනු ලැබීය.
+🟩
 
-ඒ, අපරාධ පරීක්ෂණ දෙපාර්තම්න්තුවේ නිලධාරීන් පිරිසක් අද උදෑසන ඒ මහතාගේ නිවසට ගොස් ප්‍රකාශයක් ලබා ගැනීමෙන් අනතුරුවය.
+Renuka Perera was arrested by the Colombo Magistrate's Court on charges of posting false propaganda about the Mahaviu commemoration in the North.
+
+Renuka Perera, the ruling secretary of the Sri Lanka General Front, was arrested by the CID this morning.
+
+The CID officers visited his residence this morning after obtaining a statement.
 
 ◼️
 
 [Data](articles/c61457ff.json)
+
+[Extended Data](ext_articles/c61457ff.ext.json)
 
 ---
 
@@ -1939,6 +2011,8 @@ Fitch Ratings – Singapore/Colombo – 05 Dec 2024: Fitch Ratings has upgraded 
 ...
 
 [Data](articles/236dee3f.json)
+
+[Extended Data](ext_articles/236dee3f.ext.json)
 
 ---
 

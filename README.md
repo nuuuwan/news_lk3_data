@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 16:01:24**
+As of **2024-12-05 14:42:52**
 
 ## Newspaper Stats
 
-*Scraped **58,633** Articles*
+*Scraped **58,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,557
-adaderanalk | 7,122
-tamilmirrorlk | 8,352
+adalk | 5,555
+adaderanalk | 7,120
+tamilmirrorlk | 8,350
 virakesarilk | 9,598
 adaderanasinhalalk | 10,129
 
@@ -26,139 +26,25 @@ adaderanasinhalalk | 10,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,625 (100.0%) of 58,633 articles have been extended.
+58,610 (100.0%) of 58,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### கலந்துரையாடி பிரச்சினையை தீர்ப்போம்
-
-*2024-12-05 15:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலந்துரையாடி-பிரச்சினையை-தீர்ப்போம்/175-348283) · `ta`
-
-கல்முனை பிரதேச செயலகம் தொடர்பில் அந்த பிரதேசத்தில் வாழும் முஸ்லிம் மக்களுக்கும் பிரச்சினை இருப்பதால்  கலந்துரையாடி  இந்த பிரச்சினையை எவ்வாறு தீர்த்துக்கொள்வது என்பது தொடர்பில் ஒரு முடிவுக்கு வர முடியும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் எம்.பி.யுமான  ரவூப் ஹக்கீம் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (05) அரசினால் சமர்ப்பிக்கப்பட்ட கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில்  உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர்  தொடர்ந்து உரையாற்றுகையில்,
-
-இலங்கைத் தமிழரசுக்கட்சியினர்   ஜனாதிபதி அநுரகுமாரவை  சந்தித்து கலந்துரையாடியுள்ளனர். இக் கலந்துரையாடலுக்கு பின்னரும் பாராளுமன்றத்திலும் அது தொடர்பான விடயங்கள் பேசப்பட்டன . குறிப்பாக கல்முனை பிரதேச செயலக தொகுதி தொடர்பான பிரச்சினையை தீர்ப்பதற்கு ஜனாதிபதி தலையிடுவதாக வாக்குறுதி வழங்கியதாகத்   தெரிவிக்கப்பட்டது.
-
-...
-
-[Data](articles/8c4cfed2.json)
-
----
-
-### රිලා ත්‍රස්තවාදයක් - වගා බිමේදී ඕනෑම දෙයක් කරන්න
-
-*2024-12-05 15:19:05* · [`adalk`](https://www.ada.lk/breaking_news/රිලා-ත්‍රස්තවාදයක්---වගා-බිමේදී-ඕනෑම-දෙයක්-කරන්න/11-413473) · `si`
-
-වන සතුන්ගෙන් වගාවලට සිදුවන හානිය ශ්‍රී ලංකාවේ බරපතල ප්‍රශ්නයක් පැන නැගී ඇති බවත් මේ වන විට රිලවුන්ගෙන් වගා වලට සිදුවන හානිය රිලා ත්‍රස්තවාදයක් බවට පත්ව ඇති බවත් කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා පැවැසීය.
-
-අද පාර්ලිමේන්තුවේදී ඔහු පැවැසුවේ තම වගාවන් සඳහා වගා බිමේදී වන සතුන් සිදුකරන හානි වෙනුවෙන් ඕනෑම ක්‍රියාමාර්ගයක් ගැනීමට ගොවීන්ට බාධාවක් නොමැති බවත් ඔහු පැවැසීය.
-
-◼️
-
-[Data](articles/33d724f7.json)
-
----
-
-### “Don't use antibiotics unnecessarily”
-
-*2024-12-05 14:54:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநாவசியமாக-நுண்ணுயிர்-எதிர்ப்பிகளை-பயன்படுத்த-வேண்டாம்/175-348282) · `ta`
-
-"Don't misuse antibiotics: Use only under doctor's guidance, adhere to dosage & duration. Avoid self-medication. Proper use reduces costs and hospital admissions."
-
-🟩
-
-Director General of Health Services Dr. Asela Gunawardena has requested the public to avoid using antibiotics.
-
-He made this request during a media briefing held at the Health Development Bureau yesterday on the occasion of the World Anti -Anti -Anti -Week.
-
-In addition, the antibiotics should be taken only under the guidance of a qualified medical trainer and that the recommended amount and duration must be adhered to.
-
-Pointing out that some people have obtained antibiotics from pharmacies, Dr. Gunawardena said that the habit of taking medication and pharmacies without proper pharmaceuticals is wrong.
-
-He added that it is inappropriate to consume antibiotics for less than for less than prescribed or to continue them beyond the recommended period.
-
-The Director General of Health Services said that proper adherence to the use of antibiotics can significantly reduce costs and reduce the need for admission to the hospital.
-
-◼️
-
-[Data](articles/4c433620.json)
-
-[Extended Data](ext_articles/4c433620.ext.json)
-
----
-
-### 10 students stranded in Hanthana mountain range rescued
-
-*2024-12-05 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104020/10-students-stranded-in-hanthana-mountain-range-rescued) · `en`
-
-The Sri Lanka Army says that a group of 10 students from a leading school in Colombo, who were stranded while trekking in the Hanthana mountain range, have been rescued by army troops.
-
-The students, aged between 16 and 17, had been trekking in the Hanthana mountain range and had later ventured into an unsafe area.
-
-Sri Lanka Army stated that due to one student suffering a sprained leg and the heavy fog, the group became stranded and were unable to find their way back.
-
-After being notified, a joint rescue operation was launched by the 111 Brigade headquarters and the troops of the 2nd Sri Lanka Sinha Regiment (SLSR) to rescue the group safely.
-
-The rescue mission had commenced at around 8.00 p.m. and the troops had escorted the students to safety by dawn.
-
-◼️
-
-[Data](articles/b516c934.json)
-
----
-
-### Govt. allocates nearly Rs. 1,402 billion through Vote on Account
-
-*2024-12-05 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104019/govt-allocates-nearly-rs-1402-billion-through-vote-on-account-) · `en`
-
-The government has presented an interim Vote on Account for the initial four months of 2025, allocating close to Rs. 1,402 billion for maintaining state affairs and continuing ongoing projects.
-
-The Ministry of Transport, Highways, Ports, and Civil Aviation has received the highest allocation, amounting to Rs. 220.06 billion.
-
-Rs. 186.02 billion for the Ministry of Finance, Planning, and Economic Development.
-
-Rs. 170.47 billion for the Ministry of Public Administration, Provincial Councils, and Local Government.
-
-Rs. 161.99 billion for the Ministry of Health and Mass Media.
-
-Rs. 92 billion for the Ministry of Education, Higher Education, and Vocational Education.
-
-Rs. 67.36 billion for the Ministry of Agriculture, Lands, Livestock, and Irrigation.
-
-Govt. allocates nearly Rs. 1,402 billion through Vote on Account by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/d8bfce14.json)
-
----
-
-### Rain back from 9th?
+### 09 වනදා සිට ආපසු වැස්ස ?
 
 *2024-12-05 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204069) · `si`
 
-Here's a summary in 200 characters:
+එළැඹෙන 09, 10, 11, 12 වැනි දිනයන් වල නැවත වරක් වැසි තත්ත්වයේ වර්ධනයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
+එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් අතුල කරුණානායක මහතා අද (05) මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැහැදිලි කළේය.
 
-
-Heavy rainfall warning issued for Jan 9-12. Meteorological Dept predicts possible cyclone formation in Bay of Bengal. Director General warns of southwestern monsoon impact on southern islands.
-
-🟩
-
-The Meteorological Department says that there may be a growth of rain condition on January 09, 11, 11, 12.
-
-The Director General of the Department Athula Karunanayake said this to the media today (05).
-
-He is also asked to be aware of the impact of the southwestern Bay of South and the South and the South and the South and the South East islands.
+නිරිතදිග බෙංගාල බොක්කේ දකුණු අන්දමන් දූපත් අසල නැවත වරක් කැළඹෙන ස්වභාවයක් උද්ගත වී ඇති බැවින් එහි බලපෑම ගැන ඉදිරියේදී දැනුම් දෙන කාලගුණ අනාවැකි සම්බන්ධයෙන් අවධානයෙන් සිටින ලෙසට ඒ මහතා වැඩදුරටත් ජනතාවගෙන් ඉල්ලා සිටියි.
 
 ...
 
 [Data](articles/edc00b34.json)
-
-[Extended Data](ext_articles/edc00b34.ext.json)
 
 ---
 
@@ -186,27 +72,21 @@ Residents told police that he was not at home on Wednesday night (04) night. The
 
 ---
 
-### Oxford, after 105 years, our monk
+### වසර 105කට පසු ඔක්ස්ෆර්ඩ් යන අපේ හාමුදුරුවෝ
 
 *2024-12-05 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204068) · `si`
 
-Sri Lankan monk studies at Oxford after 105 years. First since Ven. Sooriyagoda Sumangala Thera in 1919. Receives scholarship for mild degree. Occasion marked at Vadigala Society Center.
+වසර 105කට පසුව බ්‍රිතාන්‍යයේ ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ අධ්‍යාපනය ලැබීම සඳහා ශ්‍රී ලාංකික භික්ෂූන් වහන්සේ නමක් සුදුසුකම් ලබා තිබේ.
 
-🟩
+එම අවස්ථාව හිමිවී ඇත්තේ පූජ්‍ය වඩිගල සමිතරතන ස්වාමීන් වහන්සේ ට ය.
 
-A Sri Lankan monk is eligible to study at the University of Oxford in the UK 105 years later.
+උන්වහන්සේට දර්ශනපති උපාධිය හැදෑරීම සඳහා ශිෂ්‍යත්වයක් ලැබී ඇති අතර ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයට සහ ශ්‍රී ලංකාවට සුවිශේෂී අවස්ථාවක් බව එම විශ්වවිද්‍යාලය පවසයි.
 
-The occasion was the monk Vadigala Society Center.
-
-He has received a scholarship to study the mild degree and the University of Oxford and Sri Lanka.
-
-Earlier in 1919, Oxford University educates a Sri Lankan bhikkus before. That was Ven. Sooriyagoda Sumangala Thera.
+මීට පෙර ශ්‍රී ලාංකික භික්ෂුන් වහන්සේ නමක් ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ අධ්‍යාපන වරම් හිමිකරගත්තේ 1919 වසරේදී ය. ඒ පූජ්‍ය සූරියගොඩ සුමංගල හිමියන් ය.
 
 ◼️
 
 [Data](articles/101198a3.json)
-
-[Extended Data](ext_articles/101198a3.ext.json)
 
 ---
 
@@ -892,22 +772,6 @@ In a statement issued on December 2, the U.S. Embassy in Sri Lanka said that dur
 
 ---
 
-### හන්තාගේ අතරමං වූ සිසුන් සොයා ගැනෙයි
-
-*2024-12-05 11:18:27* · [`adalk`](https://www.ada.lk/breaking_news/හන්තාගේ-අතරමං-වූ-සිසුන්-සොයා-ගැනෙයි/11-413472) · `si`
-
-කොළඹ සහ කිරිබත්ගොඩ ප්‍රදේශයෙන් පැමිණි පාසල් සිසුන් පිරිසක් හන්තාන කන්ද තරණය කරමින් සිටියදී ඔවුන් එහි අතරමංව සිටින බව පොලිස් හදිසි ඇමතුම් ඒකකයට දැනුම්දීමකින් අනතුරුව පොලිසිය සහ යුද හමුදාව එක්ව මහත් පරිශ්‍රමයක් දරා ඔවුන් බේරා ගත් බව පොලිසිය කියයි.
-
-මේ දිනවල පාසල් නිවාඩු කාලය බැවින් කොළඹ සහ කිරිබත්ගොඩ ප්‍රදේශයේ දස දෙනෙකුගෙන් යුත් වයස අවුරුදු 16-17 වයසේ පාසල් සිසුන් කණ්ඩායමක් ඊයේ (04) පෙරවරුවේ පේරාදෙණිය පොලිස් වසමේ සරසවිගම ප්‍රදේශයෙන් හන්තාන කන්ද තරණය කොට ඇති අතර සවස 6.00 පමණ වන විට අධික මීදුම සහ ශීතල හේතුවෙන් සිසුන් කිහිප දෙනෙකුගේ කෙන්ඩා පෙරළි ගමන් මාර්ගය සොයා ගැනීම අපහසු වී තිබේ.
-
-පසුව එම සිසුන් පොලිස් හදිසි ඇමතුම් ඒකකයට දැනුම් දීමෙන් පසු පොලිසිය සහ දෙවැනි සිංහ රෙජිමේන්තුවේ සොල්දාදුවන් එක්ව මහත් පරිශ්‍රමයක් දරා ඊයේ (05) අළුයම් කාලයේ සරසවිගම ප්‍රදේශයෙන් එම සිසුන් ආරක්ෂිතව පහළට රැගෙන විත් තිබේ.
-
-...
-
-[Data](articles/d60ee1aa.json)
-
----
-
 ### The order to the petition against the Secretary of the Sri Lanka Olympic Committee
 
 *2024-12-05 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204060) · `si`
@@ -1010,27 +874,21 @@ Renuka Perera was accused of posing photos of Liberation Tigers of Tamil Eelam (
 
 ---
 
-### Sri Lanka's top government official in US
+### ඇමෙරිකාවේ ඉහළ රාජ්‍ය නිලධාරියෙක් ලංකාවට
 
 *2024-12-05 10:59:32* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-ඉහළ-රාජ්‍ය-නිලධාරියෙක්-ලංකාවට/11-413470) · `si`
 
-Donald Lu, U.S. Deputy Assistant Secretary of State for South and Central Asian Affairs, arrives at Bandaranaike International Airport on April 12, 2023. He is accompanied by other State Department officials and embassy staff from both countries.
+ඇමෙරිකා එක්සත් ජනපදයේ රාජ්‍ය දෙපාර්තමේන්තුවේ දකුණු හා මධ්‍යම ආසියානු කටයුතු කාර්යාංශයේ සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලූ මහතා 12/05 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය .
 
-🟩
+ඩොනල්ඩ් ලූ මහතා සමග එරට රාජ්‍ය දෙපාර්තමේන්තුවේ තවත් උසස් නිලධාරීවරයෙකු ද දූත පිරිස ලෙස කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
 
-The South and Central Asian Affairs Bureau of the State Department in the United States Donald Lie arrived at the Bandaranaike International Airport on April 12/05.
+ඔවුන් 12/05 දින අලුයම 02.55 ට දෝහා නුවර සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 662 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
 
-Along with Donald Lu, another senior officer of the State Department and the delegation was also present at the Katunayake airport.
-
-They were 12.55 on the morning of 02.55 am on 02.55 am.
-
-A group of officers of the US embassy in Sri Lanka and a group of officers of the Sri Lanka Embassy in Sri Lanka were also present at the Katunayake airport.
+ඔවුන් පිළිගැනීම සදහා ශ්‍රී ලංකාවේ ඇමෙරිකානු තානාපති කාර්යාලයේ නිලධාරීන් පිරිසක් සහ ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
 
 ◼️
 
 [Data](articles/06b3bf80.json)
-
-[Extended Data](ext_articles/06b3bf80.ext.json)
 
 ---
 
@@ -1056,81 +914,53 @@ Regarding foreign debt restructuring, he stated: “Especially on the basis of a
 
 ---
 
-### Retail traders earns more profits than in those wholesale welcomes.
+### තොග වෙලෙදුන්ට වඩා සිල්ලර වෙලදුන් පොල් වලින් වැඩි ලාභයක් උපයයි.
 
 *2024-12-05 10:50:30* · [`adalk`](https://www.ada.lk/breaking_news/තොග-වෙලෙදුන්ට-වඩා-සිල්ලර-වෙලදුන්-පොල්-වලින්-වැඩි-ලාභයක්-උපයයි-/11-413469) · `si`
 
-Retail traders outperform wholesalers in profit. Many wholesalers arrived in Hatton from across the country. Coconut oil sales are significant at Rs. Retailers claim coconuts spoil quickly, affecting coconut costs.
+හැටන් නගරයට (05) දින දිවයිනේ විවිධ ප්‍රදේශවල සිට පොල් තොග වශයෙන් අලෙවි කිරිමට විශාල තොග වෙලෙදුන් පිරිසක් පැමිණ සිටිහ.
 
-🟩
+එම වෙලෙදුන් ප්‍රමාණයෙන් විශාල පොල් ගෙඩියක් රු 160 ක තොග මිලකට සිල්ලර වෙලෙදුන්ට අලෙවි කලද, සිල්ලර වෙලෙදුන් විසින් වැඩි ලාභයක් උපයා ගැනිමේ අරමුණින් පොල් ගෙඩියක් රු 180-220 දක්වා වු විවිධ සිල්ලර මිල ගණන් යටතේ අලෙවි කරනු ලබයි.
 
-A large number of wholesalers came to the town of Hatton to Hatton from various parts of the country.
-
-A large number of coconut oil is sold at Rs.
-
-Retail Sales said that coconuts from the coconut obtained from the coconut are spoiled and a cost of coconut in a coconut.
+සිල්ලර වෙලෙදුන් කියා සිටින්නේ තොග වෙලෙදුන්ගෙන් ලබාගන්නා පොල් වලින් පොල් ගෙඩි කිහිපයක් නරක් වන බවත්, එහි පාඩුව පිරිමහ ගැනිම සදහා පොල් ගෙඩියකින් රු 30-40 ලාභයක් තබන බවයි.
 
 ◼️
 
 [Data](articles/43f8cf65.json)
 
-[Extended Data](ext_articles/43f8cf65.ext.json)
-
 ---
 
-### Sujeewa's paddy takes 40 Sample of Signature
+### සුජීවගේ වී 8 රථයට අදාළව රංගාගෙන් අත්සන් සාම්පල් 40ක් ගනියි
 
 *2024-12-05 10:41:18* · [`adalk`](https://www.ada.lk/breaking_news/සුජීවගේ-වී-8-රථයට-අදාළව-රංගාගෙන්-අත්සන්-සාම්පල්-40ක්-ගනියි/11-413468) · `si`
 
-Here's a summary of the given text in approximately 200 characters:
+අධිකරණ නියෝග මත  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවා තිබියදී අධිකරණ කටයුතු පිළිබඳ හිටපු නියෝජ්‍ය ඇමතිවරයකු මෙන්ම සමගි ජන බලවේගයේ ජාතික සංවිධායක සුජීව සේනසිංහ මහතාට බැඳුම්කරයක් මත මුදා හැරී වි 8  සුඛෝභෝගී  ප්‍රශ්නගත මෝටර් රථය සම්බන්ධයෙන් සිදු කරන විමර්ශනවලට අදාළව හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජේ ශ්‍රී රංගා මහතාගෙන්  අත්සන් සාම්පල් 40 කට ආසන්න ප්‍රමාණයක් පෙරේදා (3) ලබාගත් බව  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සඳහන් කරයි.
 
+එම අත්සන් සාම්පල රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවේ සැකකටයුතු ලේඛන පරීක්ෂකවරයා වෙත සඳහා යොමු කිරීමට නියමිත ඇතැයිද  දැනගන්නට ඇත.
 
+හිටපු මන්ත්‍රී ජේ ශ්‍රී රංගා මහතාගෙන් එදින පැය හතරකට ආසන්න කාලයක් ප්‍රශ්න කර ප්‍රකාශ සටහන් කර ගැනීමටද කටයුතු කර තිබිණි.
 
-Sujeewa Senasinghe's paddy fields involve 40 signature samples. Former Deputy Justice Minister questioned over court orders related to Criminal Investigations Department releases. CID mentions quantity obtained. Signature sample sent to Government Analyst's Documentary Writers' Inspector. Former MP J Sri Ranga questioned for hours. Sujeewa denies signature in Motor Traffic transfer. Vehicle number released on orders.
+එම  මෝටර් ලියාපදිංචි කිරීම සඳහා  පාර්ලිමේන්තු මන්ත්‍රී සුජීව සේනසිංහ මහතා මෝටර් රථ ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව වෙත  ඉදිරිපත් කරන ලද පැවරුම් ලේඛනයේ ( එම් ටි ඒ -6 ෆෝරමයේ) ඇත්තේ තමාගේ අත්සන නොවන බවට මීට පෙර ප්‍රකාශ කර තිබිණි.
 
-🟩
-
-Former Deputy Minister of Justice on Judicial Department of Criminal Investigations on court orders, the National Organizer of the Criminal Investigation has been released on a bond.The Criminal Investigations Department (CID) said that the number of persons had obtained a quantity.
-
-The signature sample is to be referred to the Documentary Writers' Inspector of the Government Analyst's Department.
-
-Former MP J Sri Ranga had been questioned for nearly four hours and record statements.
-
-Parliamentarian Sujeewa Senasinghe has previously stated that he is not his signature in the transfer of the Motor Traffic (MTA A-6).
-
-Releasing the number of the vehicle on its orders on the orders of Rs.
-
-◼️
+...
 
 [Data](articles/8f2a0acf.json)
 
-[Extended Data](ext_articles/8f2a0acf.ext.json)
-
 ---
 
-### President and Its MP meets MPs
+### ජනපති හා අයිටැක් මන්ත්‍රිවරු අතර හමුවක්
 
 *2024-12-05 10:33:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-අයිටැක්-මන්ත්‍රිවරු-අතර-හමුවක්/11-413467) · `si`
 
-Here's a summary of 200 characters:
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ඉලංගෙයි තමිල් අරසු කච්චි (ITAK) පාර්ලිමේන්තු මන්ත්‍රීවරුන් අතර සාකච්ඡාවක් ඊයේ (04) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
 
+මෙම හමුවේදී ඉලංගෙයි තමිල් අරසු කච්චි පාර්ලිමේන්තු මන්ත්‍රීවරු දීර්ඝ කාලයක සිට උතුරු නැගෙනහිර ජනතාව මුහුණ දෙමින් සිටින ගැටලු පිළිබඳව ජනාධිපතිවරයා දැනුම්වත් කළහ.*
 
-
-"President Anura Kumara Dissanayake met ITAK MPs at Presidential Secretariat. Discussed issues affecting North and East regions. Attendees included Sivagamanam Sridharan, Pathmanathan Saturlingam, Sharankian RSZSon, Kaikandan Corderswaran, Euraimbi Srinesan, Ravi Raviyan."
-
-🟩
-
-President Anura Kumara Dissanayake and Ilangai Tamil Arasu Kachchi (ITAK) were held at the Presidential Secretariat yesterday (04).
-
-The President informed the Illangai Tamil Arasu Kachchi MPs from long as MPs in the North and East. *
-
-MPs Sivagamanam Sridharan, Pathmanathan Saturlingam, Sharankian RSZSon, Kaikandan Corderswaran, Euraimbi Srinesan and Ravi Ravi Raviyan were also present.
+සිවඥානම් ශ්‍රීධරන්, පත්මනාදන් සත්‍යලිංගම්, සන්මුගම් කුගදාසන්, ෂානක්කියන් රාසමාණික්කම්, ඥානමුත්තු ශ්‍රීනේසන්, කවීන්දිරන් කෝඩීස්වරන්, ඉලයතම්බි ශ්‍රීනාත්, තුරෙයිරාසා රවිහරන් යන පාර්ලිමේන්තු මන්ත්‍රීවරු මේ අවස්ථාවට සහභාගී වූහ.
 
 ◼️
 
 [Data](articles/ab2e0a80.json)
-
-[Extended Data](ext_articles/ab2e0a80.ext.json)
 
 ---
 
@@ -1772,37 +1602,25 @@ Uniform weather in other parts of the country. The Department of Meteorology has
 
 ---
 
-### Mahara Prison clash: 'Step' in court
+### මහර බන්ධනාගාර ගැටුම: ‘සැකකරුවන් නිදැල්ලේ හැරීමට නීතිපති ගත් පියවරට’ අධිකරණයේදී වුණු දේ
 
 *2024-12-05 07:08:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cql5rd9l277o) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+මහර බන්ධනාගාර ගැටුම: ‘සැකකරුවන් නිදැල්ලේ හැරීමට නීතිපති ගත් පියවරට’ අධිකරණයේදී වුණු දේ
 
+2020 වසරේ මහර බන්ධනාගාරය තුළ ඇති වූ ගැටුම්වලින් සිරකරුවන් මරණයට පත්වීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගෙන ඔවුන්ට එරෙහිව නඩු පවරන ලෙස නීතිපතිවරයාට නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකර ඇති පෙත්සම සලකා බැලීමට අභියාචනාධිකරණය අද තීන්දු කළේ ය.
 
+ඒ අනුව, අභියාචනාධිකරණය නියම කළේ, පෙත්සමේ කරුණු තහවුරු කිරීම සඳහා මාර්තු මස 17 වන දා නැවත කැඳවන බව ය.
 
-Court of Appeal considers petition over 2020 Mahara Prison clash. Case adjourned until March 17. Petitioner seeks justice for 11 dead inmates and 115 injured.
+අදාළ ගැටුමේදී මිය ගිය සිරකරුවෙකු වන සම්පත් පුෂ්පකුමාර නමැත්තාගේ බිරිඳ වන මෙහෙනුවර වසන්ති නමැත්තිය මෙම ඉදිරිපත් කර තිබිණි.
 
-🟩
+පෙත්සම කැඳවූ අවස්ථාවේදී පෙත්සම්කාර පාර්ශවය වෙනුවෙන් පෙනී සිටි නීතිඥ ලක්ෂාන් ඩයස් අධිකරණය හමුවේ කරුණු දක්වමින්, මෙම සිද්ධියට සම්බන්ධ සැකකරුවන් හඳුනාගෙන අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස වැලිසර මහේස්ත්‍රාත්වරයා විසින් නියෝගයක් නිකුත් කරනු ලැබ තිබෙන බව සඳහන් කළේ ය.
 
-Mahara Prison clash: 'Step' in court
-
-The Court of Appeal decided to consider the petition asking for the Attorney General's death to the Attorney General to issue an order to the Attorney General for the deaths in the 2020s.
-
-Accordingly, the Court of Appeal ordered that the petition would be called again on March 17.
-
-The wife of a prisoner who died in the confrontation, the wife of Ven.
-
-Attorney Lakshan Dias appearing on behalf of the petitioner when the petition was taken up, the atroader Lakshan Dias appearing on behalf of the petitioner, the suspects had been identified and submitted to the court.
-
-Attorney General, Attorney Lakshan Dias pointed out that the Attorney General had informed the court before the suspects.
-
-Deputy Solicitor General Shakah, appearing on behalf of the Attorney General, said that the suspects had difficulty identifying the suspects, the Attorney General has decided not to carry out the case.
+ඒ අනුව කටයුතු කරමින් සිද්ධියට සම්බන්ධ සැකකරුවන්ට එරෙහිව අධිචෝදනා ඉදිරිපත් කරන බවට නීතිපතිවරයා මීට පෙර අධිකරණයට දැනුම් දී තිබූ බව ද නීතිඥ ලක්ෂාන් ඩයස් පෙන්වා දුන්නේ ය.
 
 ...
 
 [Data](articles/172fc373.json)
-
-[Extended Data](ext_articles/172fc373.ext.json)
 
 ---
 
@@ -2188,33 +2006,21 @@ In the last parliamentary election, the National People's Power in the last parl
 
 ---
 
-### The solution to the problems of the hill people
+### ’மலையக மக்களின் பிரச்சினைகளுக்கு தீர்வு’
 
 *2024-12-05 02:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-மக்களின்-பிரச்சினைகளுக்கு-தீர்வு/76-348260) · `ta`
 
-Here's a summary of 200 characters:
+மலையக மக்கள் 75 வருடங்களாக எதிர்நோக்கும்   அனைத்து முக்கிய பிரச்சினைகளுக்கும் தீர்வு பெற்றுக் கொடுக்க தேசிய மக்கள் சக்தி அரசாங்கம் வேலைத் திட்டங்களை முன்னெடுக்கும் என அக் கட்சியின் பதுளை மாவட்ட எம் பி.யான  அம்பிகா சாமுவேல்  தெரிவித்தார்.
 
+பாராளுமன்றத்தில் புதன்கிழமை (04) இடம் பெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு தெரிவித்த அவர்  மேலும் பேசுகையில்,
 
+காணிப் பிரச்சினை, வீட்டுப் பிரச்சினை, சம்பளப் பிரச்சினை என பல்வேறு பிரச்சினைகள் தொடர்கின்ற நிலையில் அவற்றுக்குத் தீர்வு காண்பதற்கான வேலைத்திட்டங்களை தேசிய மக்கள் சக்தி அரசாங்கம் கொள்கைப் பிரகடனத்தில் உள்ளடக்கியுள்ளது
 
-National People's Power addresses hill people issues: land, housing, wages. Focuses on education, healthcare, poverty eradication. Recognizes upcountry Tamils' identity. Plans to improve infrastructure and women's economic status.
-
-🟩
-
-Ambika Samuel, Badulla district MP, Badulla district, said that the National People's Power Government will carry out programs to address all the major issues facing the upland people for 75 years.
-
-He further stated that he was speaking at the second day of debate on the President's Declaration of Policy on Wednesday (04) in Parliament.
-
-The National People's Energy Government Policy Declaration includes programs to address the issue, such as land issue, housing and salary issue.
-
-I am happy to be the first Tamil woman member to be elected to Parliament from the Badulla district of the hill country.. I thank the people of Badulla district for that.
-
-In the last parliamentary election, the National People's Power in the last parliamentary election was the support of the people of the North, the East and the East.. It should be noted that such a choice is also located in the hill country. The party also chose a man with an alternative to give the rights to the disabled.
+மலையகத்தின் பதுளை மாவட்டத்திலிருந்து பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டுள்ள முதலாவது தமிழ் பெண் உறுப்பினர் என்ற வகையில் நான் மகிழ்ச்சியடைகின்றேன். அதற்காக பதுளை மாவட்ட மக்களுக்கு நான் நன்றி தெரிவித்துக் கொள்கின்றேன் .
 
 ...
 
 [Data](articles/9e088339.json)
-
-[Extended Data](ext_articles/9e088339.ext.json)
 
 ---
 
@@ -2517,5 +2323,119 @@ The youth, identified as Manoharan Kajendraroopan, a resident of Inuvil West, Ch
 [Data](articles/69c7c244.json)
 
 [Extended Data](ext_articles/69c7c244.ext.json)
+
+---
+
+### CoA upholds citizens’ right to scrutinise public expenditure under RTI
+
+*2024-12-05 01:26:35* · [`dailyftlk`](https://www.ft.lk/news/CoA-upholds-citizens-right-to-scrutinise-public-expenditure-under-RTI/56-770124) · `en`
+
+Court orders People’s Bank to disclose funds donated by its Anuradhapura Regional Branch Buddhist Society for the 2022 Poson Poya Charity and Bathi Gee Festival
+
+Says Buddhist Society is part of People’s Bank and not an independent entity, making records subject to RTI scrutiny
+
+Notes public funds must be made available for examination by citizens in the interest of transparency
+
+The Court of Appeal (CoA) this week ruled that the scope of the Right to Information (RTI) Act must be expanded to ensure accountability for any expenditure by a public authority, affirming that such information should be made available for public inspection upon request.
+
+The ruling was delivered in response to an appeal by People’s Bank, which contested a decision by the Right to Information Commission to disclose details of funds donated by the Anuradhapura Regional Branch Buddhist Society of the People’s Bank for the 2022 Poson Poya Charity and Poson Bathi Gee Festival.
+
+...
+
+[Data](articles/36a4d925.json)
+
+[Extended Data](ext_articles/36a4d925.ext.json)
+
+---
+
+### W.M. Mendis’ liquor licence to be suspended today over Rs. 5 b tax arrears
+
+*2024-12-05 01:25:28* · [`dailyftlk`](https://www.ft.lk/news/W-M-Mendis-liquor-licence-to-be-suspended-today-over-Rs-5-b-tax-arrears/56-770123) · `en`
+
+The Department of Excise will suspend the liquor manufacturing licence of W.M. Mendis & Co. Ltd., effective today (5), due to the company’s failure to settle excise taxes and surcharges amounting to Rs. 5.7 billion.
+
+The Commissioner General of Excise announced the decision under provisions of the Excise Ordinance Act, citing the company’s prolonged tax default.
+
+In addition to halting the company’s liquor production, the department said that other licences issued to W.M. Mendis & Co. will not be renewed beyond 31 December unless the tax arrears are cleared. Currently, eight out of the 10 liquor manufacturing licences issued to the company have already been suspended. The issue came to light during proceedings at the Court of Appeal yesterday.
+
+...
+
+[Data](articles/3664f681.json)
+
+[Extended Data](ext_articles/3664f681.ext.json)
+
+---
+
+### Sri Lanka – Korea Business Council holds 29th Annual General Meeting
+
+*2024-12-05 01:03:51* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Korea-Business-Council-holds-29th-Annual-General-Meeting/34-770117) · `en`
+
+Seated (from left): Yashodha Fernando (The Ceylon Chamber of Commerce), SLKBC Vice President Shamil Mendis, Korean Ambassador Miyon Lee, SLKBC President Asitha Martis, K. Kunendran (Abans)
+
+Standing (from left): SLKBC Immediate Past President Priyantha Mendis, Vidura Palihakkara (Senok Trade Combine), SLKBC Vice President Rohitha Mendis, Korean Embassy Deputy Head of Mission Jung Sohngyee, SLKBC Treasurer Patali Karunarathne, Korean Resident Association President Byun Sung Chul, Mahesh Pasqual (Isuru Engineering), Gayan Maddumarachchi (MAC Holdings), and Sylvester Jayasundera (Transmarine)
+
+The Sri Lanka – Korea Business Council of The Ceylon Chamber of Commerce (SLKBC) recently held its 29th Annual General Meeting at The Ceylon Chamber of Commerce, with Ambassador of the Republic of Korea to Sri Lanka Miyon Lee participating in the occasion as Chief Guest.
+
+...
+
+[Data](articles/620699ad.json)
+
+[Extended Data](ext_articles/620699ad.ext.json)
+
+---
+
+### Sri Lanka-Russia Business Council holds 21st  Annual General Meeting
+
+*2024-12-05 01:00:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Russia-Business-Council-holds-21st-Annual-General-Meeting/34-770116) · `en`
+
+The 21st Annual General Meeting of the Sri Lanka-Russia Business Council (SLRBC) of The Ceylon Chamber of Commerce was held recently at the Cinnamon Grand, Colombo 3.
+
+The event was graced by the presence of Chief Guest Russian Ambassador to Sri Lanka and Maldives Levan Dzhagaryan.
+
+Delivering his address, Ambassador Dzhagaryan highlighted the significant trade, tourism, and cultural collaborations between Sri Lanka and Russia, emphasising that Russia continues to play a pivotal role in Sri Lanka’s tourism sector and export trade.
+
+The keynote speaker, Export Development Board Chairman and Chief Executive Officer Mangala Wijesinghe, discussed strategies to enhance Sri Lanka’s export potential and foster stronger economic ties with Russia. His address included insights on Sri Lanka’s ambitious targets for merchandise and service exports, as well as initiatives to bolster the small and medium enterprise (SME) sector.
+
+...
+
+[Data](articles/d8123802.json)
+
+[Extended Data](ext_articles/d8123802.ext.json)
+
+---
+
+### Compounding of capital market offences: Call for balanced regulation
+
+*2024-12-05 00:46:17* · [`dailyftlk`](https://www.ft.lk/columns/Compounding-of-capital-market-offences-Call-for-balanced-regulation/4-770113) · `en`
+
+Consider reforms aimed at expediting judicial processes in financial crime cases, such as the establishment of specialised courts or streamlined procedures
+
+The legal landscape surrounding capital market offences in Sri Lanka has tightened significantly due to recent amendments to the Securities and Exchange Commission Act (SEC Act). These amendments introduce stringent penalties, including mandatory imprisonment for major offences, and eliminate the option to compound five major offences. While this reflects a serious stance against capital market offences, the removal of compounding raises important concerns regarding the practical enforcement of these laws and the potential benefits of reintroducing compounding under controlled circumstances.
+
+To settle (a matter) by a money payment, in lieu of other liability;
+
+...
+
+[Data](articles/bc9b7afb.json)
+
+[Extended Data](ext_articles/bc9b7afb.ext.json)
+
+---
+
+### Road much travelled: Identical paths towards fiscal distress in Sri Lanka and the Maldives
+
+*2024-12-05 00:44:17* · [`dailyftlk`](https://www.ft.lk/columns/Road-much-travelled-Identical-paths-towards-fiscal-distress-in-Sri-Lanka-and-the-Maldives/4-770112) · `en`
+
+Though our economy be bruised, the external economic context and our innate geographic blessings, when bound with sound fiscal policies, shall certainly prevent a repeat of the ills that visited the Lankan economy in 2022
+
+This article attempts an analysis of the eerily similar roads travelled in both Sri Lanka and the Maldives towards a fiscal cliff. Even though, we here in the Maldives, have not slipped off the precipice, the landscape is familiar and the dangers real and tangible.
+
+However, it is important to stress at the outset, that while the terrain is familiar, it is not inevitable that we here in the Maldives too, tumble down the fiscal cliff into ‘white waters’ of internal turmoil, collapse of the political system and of an economic meltdown.
+
+...
+
+[Data](articles/75bd8a8c.json)
+
+[Extended Data](ext_articles/75bd8a8c.ext.json)
 
 ---

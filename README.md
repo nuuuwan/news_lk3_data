@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 09:43:43**
+As of **2024-12-05 10:01:54**
 
 ## Newspaper Stats
 
-*Scraped **58,568** Articles*
+*Scraped **58,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,548
 adaderanalk | 7,110
-tamilmirrorlk | 8,336
+tamilmirrorlk | 8,337
 virakesarilk | 9,589
 adaderanasinhalalk | 10,114
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,552 (100.0%) of 58,568 articles have been extended.
+58,555 (100.0%) of 58,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### நாமலின் பெயரை பயன்படுத்தி நிதி மோசடி
+### Financial fraud using Namal's name
 
 *2024-12-05 09:36:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-பெயரை-பயன்படுத்தி-நிதி-மோசடி/175-348263) · `ta`
 
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவின் பெயரை பயன்படுத்தி நிதி மோசடிகள் இடம் பெற்று வருவதாகவும் அவ்வாறு பொய் கூறி வருபவர்களை நம்ப வேண்டாம் என பொதுஜன பெரமுனவின் யாழ்ப்பாண மாவட்ட அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
+Namal Rajapaksa accused of financial fraud in Jaffna district. Party organizer claims misuse of his name for scams and land deals. Police investigation ongoing. Party vows to eliminate such allegations and remove those using its name for fraud.
 
-மானிப்பாய் பொலிஸ் நிலையத்திற்கு விசாரணைக்கு சென்று வந்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கடந்த காலங்களில் நாமல் ராஜபக்ஷவின் பெயரை பயன்படுத்தி காணி பிடிப்பது,கட்டப் பஞ்சாயத்து செய்வது போன்ற செயல்பாடுகளில் சிலர் ஈடுபட்டு வந்தனர் என்ற குற்றச்சாட்டு காணப்படுகின்றது. இது தொடர்பாக பாதிக்கப்பட்டவர்களின் வீடுகளுக்கு சென்று நாங்கள் விசாரிப்பது வழமை. அப்படி ஒரு வீட்டுக்கு சென்றது சம்பந்தமாக தான் எனக்கு எதிராக மானிப்பாய் பொலிஸ் நிலையத்திற்கு முறைப்பாடு வந்தது.
+Jaffna District Organizer Geetanath Kasilingam, Jaffna District Organizer of the PA, said that the financial frauds are being used by MP Namal Rajapaksa's name.
+
+He was speaking to the media after he was in trial to the Manipay police station.. There he further stated,
+
+In the past, it is alleged that some people were involved in the use of Namal Rajapaksa's name and making a land panchayat.. It is customary to go to the homes of the victims. I had lodged a complaint with the Manipay police station against me about going to such a house.
+
+The Manipay Police Station Superintendent was investigating today and gave him full cooperation and informed the authority that the victims we had discussed and gave us the complaints or allegations.
+
+You must lodge a complaint at the police station, as the people are using the name of our party. If you are afraid of something like that, you can contact us.
 
 ...
 
 [Data](articles/0014428b.json)
+
+[Extended Data](ext_articles/0014428b.ext.json)
 
 ---
 
@@ -61,6 +71,8 @@ Meanwhile, a special meeting was held last afternoon (04) attended by former Sri
 ◼️
 
 [Data](articles/f20cc7d8.json)
+
+[Extended Data](ext_articles/f20cc7d8.ext.json)
 
 ---
 
@@ -83,6 +95,8 @@ Siripagama Police are conducting further investigations to arrest the suspect.
 ◼️
 
 [Data](articles/a7327891.json)
+
+[Extended Data](ext_articles/a7327891.ext.json)
 
 ---
 
@@ -765,6 +779,24 @@ The Heroes Day Analyst in the North and East is the main speech in the country. 
 [Data](articles/76f992ef.json)
 
 [Extended Data](ext_articles/76f992ef.ext.json)
+
+---
+
+### ’’இன முரண்பாடுகளை ஏற்படுத்த முயற்சி’’
+
+*2024-12-05 01:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இன-முரண்பாடுகளை-ஏற்படுத்த-முயற்சி/150-348258) · `ta`
+
+வடக்கு , கிழக்கில் இடம்பெற்ற மாவீரர் தின அனுஸ்டிப்புக்களை திட்டமிட்ட வகையில் திரிபுபடுத்தி வடக்கு - தெற்குக்கிடையில் இனவாத முரண்பாடுகளை ஏற்படுத்தும் வகையில் சமூக வலைதளங்களில் புகைப்படம் மற்றும் காணொளிகளை பதிவேற்றம் செய்தவர்களில் இருவர் புதிய ஜனநாயக முன்னணியின் செயற்பாட்டாளர்கள் என  பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை(04)    விசேட கூற்றை முன்வைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் உரையாற்றுகையில்,
+
+நாட்டில் கடந்த இரு வாரங்களில்  இடம்பெற்ற கைதுகள் மற்றும் அதற்கான காரணங்களை சபைக்கு அறிவிப்பதாகத் தெரிவித்திருந்தேன்.
+
+வடக்கு,கிழக்கில் அண்மையில் இடம்பெற்ற மாவீரர் தின அனுஸ்டிப்பு நாட்டில்  பிரதான பேசுபொருளாகவுள்ளது. உயிரிழந்த  தமது உறவுகளை நினைவுக்கூரும் உரிமை அனைவருக்கும் உண்டு. வடக்கு மற்றும் கிழக்கு, தெற்கு உட்பட அனைத்து மாகாணங்களுக்கும் இந்த உரிமை உண்டு. நாங்கள் இன்றும் இந்த நிலைப்பாட்டில்தான்  உள்ளோம்.
+
+...
+
+[Data](articles/a295df4d.json)
 
 ---
 
@@ -2385,39 +2417,5 @@ Trade, Commerce, Food Security and Co-operative Development Wasantha Samarasingh
 [Data](articles/a63e6ab6.json)
 
 [Extended Data](ext_articles/a63e6ab6.ext.json)
-
----
-
-### Mendis rejects the petition of the company
-
-*2024-12-04 17:39:37* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමේ-පෙත්සම-ප්‍රතික්ෂේප-කරයි/11-413459) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court rejects Mendis Company's petition. Excise Dept threatens excavation order if arrears unpaid by Nov 30. Appeals Court dismisses case citing lack of disclosed issues. Liquor permits suspended; company seeks interim injunction. Attorney General opposes, arguing no legal basis for maintaining petition.
-
-🟩
-
-If the arrears are not paid before November 30, the Excise Department demands the excavation order issued by the Department of Examination. The Court of Appeal refused to hear the petition filed by Mendis Company.
-
-The Badulla Bench, the Court of Appeal, was considered by the Court of Appeal Judge Judges after a long matter.
-
-Judge Madulla said that it was not disclosed by the issues set out in the petition as stated in the petition.
-
-President's Counsel Naveen Marapana appeared before the petitioner before the petition was taken to the petition before November 30 was completed before November 30.That the letter is completely contrary to the law.
-
-The Presidential Counsel said that although he had issued a license to the liquor production until December 31, the Presidential Counsel said.
-
-The President's Counsel said that 10 liquor permits have been issued to his company to be suspended from today.
-
-The Presidential Counsel, the Fisheries of Parapchel Trason, has been able to pay more than Rs.
-
-...
-
-[Data](articles/f10d208b.json)
-
-[Extended Data](ext_articles/f10d208b.ext.json)
 
 ---

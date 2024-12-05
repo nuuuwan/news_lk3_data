@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 16:16:37**
+As of **2024-12-05 16:42:24**
 
 ## Newspaper Stats
 
-*Scraped **58,634** Articles*
+*Scraped **58,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,557
+adalk | 5,558
 adaderanalk | 7,123
 tamilmirrorlk | 8,352
 virakesarilk | 9,598
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,627 (100.0%) of 58,634 articles have been extended.
+58,631 (100.0%) of 58,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,35 +46,53 @@ A team of CID officers had visited Renuka Perera’s residence this morning (05)
 
 [Data](articles/1effa434.json)
 
+[Extended Data](ext_articles/1effa434.ext.json)
+
 ---
 
-### கலந்துரையாடி பிரச்சினையை தீர்ப்போம்
+### Discussion will solve the issue
 
 *2024-12-05 15:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலந்துரையாடி-பிரச்சினையை-தீர்ப்போம்/175-348283) · `ta`
 
-கல்முனை பிரதேச செயலகம் தொடர்பில் அந்த பிரதேசத்தில் வாழும் முஸ்லிம் மக்களுக்கும் பிரச்சினை இருப்பதால்  கலந்துரையாடி  இந்த பிரச்சினையை எவ்வாறு தீர்த்துக்கொள்வது என்பது தொடர்பில் ஒரு முடிவுக்கு வர முடியும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் எம்.பி.யுமான  ரவூப் ஹக்கீம் தெரிவித்தார்.
+Sri Lanka Muslim Congress leader Rauf Hakeem discusses Muslim issues in Kalmunai Divisional Secretariat. TNA meets President Anuradhapura on intervention. Discussions ongoing to resolve conflicts and boundary disputes.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (05) அரசினால் சமர்ப்பிக்கப்பட்ட கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில்  உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர்  தொடர்ந்து உரையாற்றுகையில்,
+🟩
 
-இலங்கைத் தமிழரசுக்கட்சியினர்   ஜனாதிபதி அநுரகுமாரவை  சந்தித்து கலந்துரையாடியுள்ளனர். இக் கலந்துரையாடலுக்கு பின்னரும் பாராளுமன்றத்திலும் அது தொடர்பான விடயங்கள் பேசப்பட்டன . குறிப்பாக கல்முனை பிரதேச செயலக தொகுதி தொடர்பான பிரச்சினையை தீர்ப்பதற்கு ஜனாதிபதி தலையிடுவதாக வாக்குறுதி வழங்கியதாகத்   தெரிவிக்கப்பட்டது.
+Sri Lanka Muslim Congress leader and MP Rauf Hakeem said that there is a problem with the Muslim people living in the Kalmunai Divisional Secretariat and how to solve the issue.
+
+He said this while addressing the debate on the polls voted by the government on Thursday (05) in Parliament.
+
+The Sri Lankan Tamil National Alliance (TNA) meets President Anurakumara. Even after this discussion. It was reported that the president had promised to intervene in resolving the issue of the Kalmunai Divisional Secretariat.
+
+There is also a problem with Muslims living in the area regarding the Kalmunai Divisional Secretariat.. Through the discussion, you can decide how to solve this issue.
+
+Chanakyan MP on this issue. And I had discussed with Sathiyalingam MP. I have also discussed with them on the issue of the people.. So we will solve these issues through discussions on conflicts.
 
 ...
 
 [Data](articles/8c4cfed2.json)
 
+[Extended Data](ext_articles/8c4cfed2.ext.json)
+
 ---
 
-### රිලා ත්‍රස්තවාදයක් - වගා බිමේදී ඕනෑම දෙයක් කරන්න
+### Ramila terror - do anything on the ground
 
 *2024-12-05 15:19:05* · [`adalk`](https://www.ada.lk/breaking_news/රිලා-ත්‍රස්තවාදයක්---වගා-බිමේදී-ඕනෑම-දෙයක්-කරන්න/11-413473) · `si`
 
-වන සතුන්ගෙන් වගාවලට සිදුවන හානිය ශ්‍රී ලංකාවේ බරපතල ප්‍රශ්නයක් පැන නැගී ඇති බවත් මේ වන විට රිලවුන්ගෙන් වගා වලට සිදුවන හානිය රිලා ත්‍රස්තවාදයක් බවට පත්ව ඇති බවත් කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා පැවැසීය.
+Sri Lanka: Wildlife damages crops, farmers face obstacles. Minister KD Lal Kanthe addresses issue in Parliament.
 
-අද පාර්ලිමේන්තුවේදී ඔහු පැවැසුවේ තම වගාවන් සඳහා වගා බිමේදී වන සතුන් සිදුකරන හානි වෙනුවෙන් ඕනෑම ක්‍රියාමාර්ගයක් ගැනීමට ගොවීන්ට බාධාවක් නොමැති බවත් ඔහු පැවැසීය.
+🟩
+
+Minister of Agriculture KD of a serious problem in Sri Lanka has arisen to cultivation damage from wildlife. Mr. Lal Kanthe said.
+
+In Parliament today, he said that the farmers had no obstacle for the damages of wildlife on the ground of cultivation.
 
 ◼️
 
 [Data](articles/33d724f7.json)
+
+[Extended Data](ext_articles/33d724f7.ext.json)
 
 ---
 
@@ -123,6 +141,8 @@ The rescue mission had commenced at around 8.00 p.m. and the troops had escorted
 ◼️
 
 [Data](articles/b516c934.json)
+
+[Extended Data](ext_articles/b516c934.ext.json)
 
 ---
 

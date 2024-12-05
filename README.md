@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 18:23:51**
+As of **2024-12-05 18:40:15**
 
 ## Newspaper Stats
 
-*Scraped **58,651** Articles*
+*Scraped **58,654** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 595
-bbccomsinhala | 613
+bbccomsinhala | 614
 islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,562
+adalk | 5,563
 adaderanalk | 7,127
-tamilmirrorlk | 8,359
+tamilmirrorlk | 8,360
 virakesarilk | 9,599
 adaderanasinhalalk | 10,129
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,646 (100.0%) of 58,651 articles have been extended.
+58,646 (100.0%) of 58,654 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/32b93f7c.json)
+
+---
+
+### சதொசவில் ஒருவருக்கு 3 தேங்காய்,5 கிலோ அரிசி
+
+*2024-12-05 18:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொசவில்-ஒருவருக்கு-3-தேங்காய்-5-கிலோ-அரிசி/175-348295) · `ta`
+
+பண்டிகைக் காலத்தில் அரிசி மற்றும் தேங்காய் விநியோகத்தை தொடர்ந்து வழங்குவதை உறுதி செய்வதற்காக வர்த்தக அமைச்சரினால்  அண்மையில்அறிவிக்கப்பட்ட கட்டுப்பாட்டு விலையில் அரிசி மற்றும் தேங்காய் விற்பனையை உறுதி செய்வதற்கான நடவடிக்கைகளை லங்கா சதொச அறிவித்துள்ளது.
+
+அரிசி ஆலைகள் நாளாந்தம் 200,000 கிலோ கிராம் அரிசியை வழங்குவதற்கு இணக்கம் தெரிவித்ததுடன், ஒரு மில்லியன் தேங்காய்களும் 130 ரூபாவிற்கு சதொச விற்பனை நிலையங்கள் மூலம் விற்பனை செய்யப்படும் என அமைச்சர் வசந்த சமரசிங்க  பாராளுமன்றத்தில் நேற்று(04)  தெரிவித்தார்.
+
+அரிசி மற்றும் தேங்காய்களை சதொச விற்பனை நிலையங்களுக்கு இன்று விநியோகிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக லங்கா சதொச தலைவர் டொக்டர் சமித்த பெரேரா தெரிவித்துள்ளார்.
+
+எவ்வாறாயினும், ஒரு வாடிக்கையாளருக்கு 03 தேங்காய் மற்றும் 05 கிலோ அரிசியை மாத்திரமே கொள்வனவு செய்ய அனுமதி வழங்கப்படும் என அவர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/41590618.json)
 
 ---
 
@@ -81,6 +99,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/63ea9631.json)
+
+---
+
+### රේණුක පෙරේරාට ඇප
+
+*2024-12-05 17:56:05* · [`adalk`](https://www.ada.lk/breaking_news/රේණුක-පෙරේරාට-ඇප/11-413481) · `si`
+
+මහවිරු සැමරුම පිළිබඳව සමාජ මාධ්‍යන් ඔස්සේ අසත්‍ය ප්‍රචාරයන්  පළ කිරීමේ චෝදනාව මත අත්අඩංගුවට ගනු ලැබූ රේණුක පෙරේරා මහතා ඇප මත මුදා හැරීමට කොළඹ අතිරේක මහේස්ත්‍රාත් මංජුල රත්නායක මහතා නියෝග කළේය .
+
+සැකකරු ශෙයාර් කර ඇති වීඩියෝ පටය නිර්මාණය කළ පුද්ගලයින් හා ඒවා පළ කළ පුද්ගලයින් පිළිබඳව විමර්ශනයක්  නොකර වීඩියෝව හුවමාරු කළ පුද්ගලයින් අත්අඩංගුවට ගැනීම පණිවිඩකරුට වෙඩි තැබීම හා සමාන යැයි පෙන්වා දුන් මහේස්ත්‍රාත්වරයාරු පියල් ලක්ෂ 10 බැගින් වටිනා ඇපකරුවන් දෙදෙනෙකුගේ ශරීර ඇප මත සැකකාර රේණුක පෙරේරා මහතා මුදා හැරිණි.
+
+තහනම් සංවිධානයක් වන එල්ටීටීඊ සංවිධානය මහවිරු සමරුවක් පවත්වා ඇති බවට අසත්‍ය තොරතුරු හා වීඩියෝ දර්ශන ෆේස්බුක් මාධ්‍ය ජලයේ පළ  කරන ලදයිි කියමින් රහස් පොලිස් නිලධාරීන් අද උදෑසන රේණුක පෙරේරා මහතා ඔහුගේ නිවසේදී අද අත්අඩංගුවට ගන්නා ලදී.
+
+අත්අඩංගුවට පත් සැකකාර රේණුක පෙරේරා මහතා  පස්වරු 2.30ට පමණ මහේස්ත්‍රාත්වරයාගේ නිල මැදිරියට ඉදිරිපත් කෙරිණි.
+
+...
+
+[Data](articles/9d9e0f1e.json)
 
 ---
 
@@ -837,6 +873,28 @@ Rs.. 3 billion loan has been allocated for consistency and a further Rs.. He als
 [Data](articles/f3359bfd.json)
 
 [Extended Data](ext_articles/f3359bfd.ext.json)
+
+---
+
+### අතුරු සම්මත ගිණුම: 'අනුරත් රනිල්ගේ මුදල ම වෙන් කරගෙන' ද? කබීර් ප්‍රශ්න කරයි
+
+*2024-12-05 12:35:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c98ldpl9py5o) · `si`
+
+අතුරු සම්මත ගිණුම: 'අනුරත් රනිල්ගේ මුදල ම වෙන් කරගෙන' ද? කබීර් ප්‍රශ්න කරයි
+
+නව රජයේ පළමු අතුරු සම්මත ගිණුම අද (දෙසැ. 5) පාර්ලිමේන්තුවට ඉදිරිපත් කෙරිණි. 2025 වසරේ පළමු මාස 4 සඳහා රජයේ කාර්යයන් සහ ණය සේවාකරණය කටයුතු සඳහා වෙන් කර ඇති මුදල රුපියල් බිලියන 1,402කි.
+
+නොවැම්බර් මස 25 වන දා මෙම අතුරු සම්මත ගිණුමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වූ අතර, මේ සම්බන්ධයෙන් වන විවාදය අද (දෙසැ. 5) සහ හෙට (දෙසැ. 6) යන දිනවලදී පැවැත්වෙයි.
+
+සම්මත වූ වාර්ෂික අයවැයක් නොමැති තත්ත්වයක් යටතේ කෙටිකාලීන වශයෙන් වියදම් දැරීමේ විධික්‍රමයක් ලෙස අතුරු සම්මත ගිණුම් ක්‍රමය භාවිත කෙරෙයි.
+
+සම්මත වූ අයවැයක් නොමැති තත්ත්වයක රාජ්‍ය සේවා බිඳ වැටීම වළක්වා ගනිමින් අත්‍යවශ්‍ය සේවා අඛණ්ඩව මහජනතාවට ලබා දීම සඳහා මෙම කෙටිකාලීන වියදම් කිරීමේ විධික්‍රමය යොදා ගැනේ.
+
+ඉදිරි මුදල් වර්ෂය සඳහා අයවැයක් ව්‍යවස්ථාදායකය විසින් සම්මත කරනු ලැබ නොමැති අවස්ථාවක ඒකාබද්ධ අරමුදලින් මුදල් ලබාගැනීම සඳහා පාර්ලිමේන්තුවේ අවසරය ලබා දීමේ විශේෂිත වැඩපිළිවෙළක් ලෙස ද අතුරු සම්මත ගිණුම සැලකිය හැකියි.
+
+...
+
+[Data](articles/9d10d958.json)
 
 ---
 
@@ -2397,89 +2455,5 @@ Meanwhile, Sivagnanam Sridharan, the leader of the Sri Lanka Tamil National Alli
 [Data](articles/7edc71a2.json)
 
 [Extended Data](ext_articles/7edc71a2.ext.json)
-
----
-
-### 361 Liquor Permits as Political Bribery
-
-*2024-12-05 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200456) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil Wickremesinghe's govt issues 361 liquor permits across Sri Lanka, sparking allegations of political bribery. Breakdown: 110 Western, 48 Southern, 32 Northern, 22 Eastern, 45 North Central, 30 each in Uva, North Western Provinces.
-
-🟩
-
-Former President Ranil Wickremesinghe's government has issued a political bribe to the Northern Province for 32 liquor schools and 22 liquor school permits to the Eastern Province.. In addition, 361 liquor schools have been granted permissions across the country.
-
-During the speech on the Government's Declaration of the Government on Wednesday (4) in Parliament, he addressed the council to submit the documents relating to the permit.
-
-The last government has issued a political bribery for many people for liquor roads.We have said that they will publish them.. All can know this
-
-According to the document, the permits for the Western Province are 110 liquor stores, 48 ​​in the Southern Province, 32 in the Northern Province, 22 in the Eastern Province, 45 in the North Central Province, 30 in the Uva Province, 30 in the North Western Province, 30 in the North Western Province, 30 permits for 9 provinces.Have been provided.
-
-...
-
-[Data](articles/07311894.json)
-
-[Extended Data](ext_articles/07311894.ext.json)
-
----
-
-### The process of creating the new constitution must be carried out through the Alliance -Douglas Devananda
-
-*2024-12-05 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200455) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Douglas Devananda: New constitution via Alliance, retain 13th Amendment, oppose abolishing provincial councils.
-
-🟩
-
-Douglas Devananda, the leader and former minister of the Eelam Democratic Party, has stated that the 13th Amendment to the Constitution should never be abolished and the new constitutional systems should be carried out through the Alliance.
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) said in a special commentary on the weekly release of the Janatha Vimukthi Peramuna (JVP).
-
-Douglas Devananda urged the media meeting organized by the Eelam Democratic Party in Colombo on Wednesday (4), emphasizing the need to strengthen the 13th Amendment to the Constitution.
-
-“It is now being talked about the abolition of the provincial council system, which was signed in 1987 as a political solution to the problems faced by the Tamil people in Sri Lanka.
-
-...
-
-[Data](articles/1b496584.json)
-
-[Extended Data](ext_articles/1b496584.ext.json)
-
----
-
-### The government should maintain the best relationship with India and the Middle East to build the country's economy -Rishad Bathiudeen
-
-*2024-12-05 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200454) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Maintain strong ties with India & Middle East to boost economy. Government should act on promises & protect essential commodity prices. Unite all communities for national progress. Allocate funds for development projects.
-
-🟩
-
-India and the Middle East have helped us when the country is economically affected. Rishad Bathiudeen said the government should take steps to maintain the best relationship with those countries to build the country's economy.
-
-He was speaking on the second day of debate on the President's policy speech held in Parliament on Wednesday (4).
-
-If the President takes action to fulfill the promises made to the people, we are ready to cooperate. Therefore, the government should take steps to take the necessary measures to make the people the oldest issues, not the political platform.
-
-The price of essential commodities in the market has increased and people are very hard. The government should keep the cost of 10 essential commodities used by people daily. To protect it, a committee under the President or Prime Minister should be taken to the weekly and to take steps to protect people from hunger.
-
-...
-
-[Data](articles/86a1d94c.json)
-
-[Extended Data](ext_articles/86a1d94c.ext.json)
 
 ---

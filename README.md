@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 13:43:11**
+As of **2024-12-05 14:16:56**
 
 ## Newspaper Stats
 
-*Scraped **58,619** Articles*
+*Scraped **58,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,101 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,554
 adaderanalk | 7,120
-tamilmirrorlk | 8,348
+tamilmirrorlk | 8,349
 virakesarilk | 9,597
-adaderanasinhalalk | 10,125
+adaderanasinhalalk | 10,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,598 (100.0%) of 58,619 articles have been extended.
+58,606 (100.0%) of 58,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### லொஹான் தம்பதிக்கு பிணை
+### ஹந்தானையில் வழி தவறிய 10 மாணவர்கள் மீட்பு
+
+*2024-12-05 13:47:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹந்தானையில்-வழி-தவறிய-10-மாணவர்கள்-மீட்பு/76-348279) · `ta`
+
+கண்டி ஹந்தானை மலையில் வழி தவறி காணாமல் போன பாடசாலை மாணவர்கள் 10 பேர் அடங்கிய  குழுவொன்று   வியாழக்கிழமை (05) காலை பொலிஸார் மற்றும் இராணுவத்தினரால் மீட்கப்பட்டுள்ளது.
+
+கொழும்பு மற்றும் கிரிபத்கொடை ஆகிய  பிரதேசங்களைச் சேர்ந்த 16 முதல் 17 வயதுக்குட்பட்ட பாடசாலை மாணவர்கள் குழுவொன்று  புதன்கிழமை (04) காலை பேராதனை பொலிஸ் பிரிவுக்கு உட்பட்ட சரசவிகம பிரதேசத்தில் இருந்து ஹந்தானை மலைக்கு சுற்றுலா சென்றுள்ளனர்.
+
+மலையில் ஏறிக்கொண்டிருந்த போது கடும் பனிமூட்டம் மற்றும் குளிர் காரணமாக வழி தவறி காணாமல் போயுள்ளனர்.
+
+காணாமல் போனவர்கள் குழு இது தொடர்பில் பொலிஸ் அவசர தொலைபேசி இலக்கத்திற்கு தகவல் வழங்கியுள்ள நிலையில் சம்பவ இடத்திற்கு விரைந்த பொலிஸார் மற்றும் இராணுவத்தினர் அந்த மாணவர்கைளை மீட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f61858ba.json)
+
+---
+
+### Sathosen three coconuts and 5 kg of rice
+
+*2024-12-05 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204067) · `si`
+
+Sathosa offers 3 coconuts + 5kg rice for Rs. 130. Available at all Colombo branches starting tomorrow.
+
+🟩
+
+The SWEM Chairman Dr. Samath Perera says that the rice will be obtained from the CWE to Rs. 130.
+
+He added that one person can obtain 3 coconuts and 5 kg of rice at a time.
+
+Accordingly, Sathosa branches from the Sathosa branches around Colombo can be purchased from tomorrow (06) from Colombo tomorrow.
+
+"The Sathosura sends of coconuts around Colombo is sending coconuts. Showing the plants in Colombo after Hawess. Halhthem paths make nadu rice to these branches. "
+
+◼️
+
+[Data](articles/31a36e3e.json)
+
+[Extended Data](ext_articles/31a36e3e.ext.json)
+
+---
+
+### South Africa toss in the second Test
+
+*2024-12-05 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204066) · `si`
+
+South Africa wins coin toss in second Test vs Sri Lanka. Chose to bat first after winning first Test by 233 runs.
+
+🟩
+
+The second Test match between the Tourism Sri Lanka and South Africa will be held today (05).
+
+South Africa won the advantage of its coin, and he decided to bat first.
+
+South Africa won the first Test match between the two countries by 233 runs.
+
+◼️
+
+[Data](articles/118ac361.json)
+
+[Extended Data](ext_articles/118ac361.ext.json)
+
+---
+
+### Bail for Lohan couple
 
 *2024-12-05 13:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-தம்பதிக்கு-பிணை/175-348277) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த மற்றும் அவரது மனைவி சஷி பிரபா ரத்வத்த ஆகியோருக்கு நுகேகொட நீதவான் நீதிமன்றம், வியாழக்கிழமை (05) பிணை வழங்கியுள்ளது.
+N
 
-இலங்கையில் சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட சொகுசு காரை பயன்படுத்திய குற்றச்சாட்டில் லொஹான் ரத்வத்தே மற்றும் அவரது மனைவி ஆகியோர் கைது செய்யப்பட்டு டிசம்பர் 06 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+🟩
+
+The Nugegoda Magistrate's Court on Thursday (05) granted bail to former State Minister Lohan Ratwatta and his wife Sashi Prabha Ratwatta.
+
+Lohan Ratwatte and his wife have been arrested on charges of using an illegal imported luxury car in Sri Lanka and have been remanded until December 6.
 
 ◼️
 
 [Data](articles/07c0fe62.json)
+
+[Extended Data](ext_articles/07c0fe62.ext.json)
 
 ---
 
@@ -78,6 +148,10 @@ These 27 Sri Lankans arrived at the Katunayake airport from Dubai at 11.30 pm on
 
 Former State Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte have been granted bail today (05) by the Nugegoda Magistrate’s Court.
 
+Accordingly, the court set a cash bail of Rs. 25,000 for each individual, along with two personal bonds of Rs. 1 million each.
+
+Additionally, the police confirmed that the court has issued an overseas travel ban on Lohan Ratwatte.
+
 Lohan Ratwatte and his wife were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, while they had previously been remanded in custody until December 06 by the Nugegoda Magistrate’s Court.
 
 Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
@@ -85,6 +159,8 @@ Police had found the luxury car in question during an inspection carried out bas
 ...
 
 [Data](articles/851d5734.json)
+
+[Extended Data](ext_articles/851d5734.ext.json)
 
 ---
 
@@ -256,21 +332,27 @@ Katunayake Police, Negombo Hospital, Seethawa Health Officer's Office and Divisi
 
 ---
 
-### අතුරු සම්මත ගිණුමෙන් මුදල් වෙන්කර ඇති ආකාරය මෙන්න
+### Here is how money has been allocated from the Interim Standardized Account
 
 *2024-12-05 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204064) · `si`
 
-2025 වසරේ පළමු මාස 04 සඳහා ඉදිරිපත් කළ අතුරු සම්මත ගිණුමෙන් රජයේ කටයුතු පවත්වාගෙන යාම සහ දැනට ආරම්භ කර ඇති ව්‍යාපෘති නොනවත්වා ඉදිරියට පවත්වාගෙන යාම සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 1,402කට ආසන්න ය.
+Money allocation summary: Ministry of Transport leads with 186.99 billion, followed by Finance (161.95 billion), Health (161.95 billion), Defense (161.95 billion), Education (92 billion), Agriculture (67.36 billion). Total continuous projects budget: Rs. 1,402 billion.
 
-ඒ අනුව වැඩිම මුදලක් වෙන්කර ඇති අමාත්‍යාංශය වන්නේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයටය.
+🟩
 
-මුදල් ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 186.02ක්ද, රාජ්‍ය පරිපාලන පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 170.47ක්, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය සඳහා රුපියල් බිලියන 161.99ක්ද, ආරක්ෂක අමාත්‍යාංශය සඳහා රුපියල් බිලියන 142.95ක්ද මෙම අතුරු සම්මත ගිණුමෙන් වෙන්කර තිබේ.
+Also, maintaining government proceedings from the Votering Account of the first four months of 2025, the amount allocated to maintain continuously commenced projects nearly Rs. 1,402 billion.
 
-අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 92ක් වන අතර කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍යාංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 67.36කි.
+Accordingly, the highest amount of money is the Ministry of Transport, Highways, Ports and Civil Aviation.
+
+186.99 billion for the Ministry of Finance and Economic Development, the Ministry of Health and Massestines is Rs. 161.95 billion for the Ministry of Defense and the Ministry of Defense.
+
+The Ministry of Education, Higher Education and Vocational Education is Rs. 92 billion and the agriculture, livestock, land and irrigation has allocated Rs 67.36 billion.
 
 ◼️
 
 [Data](articles/c506803f.json)
+
+[Extended Data](ext_articles/c506803f.ext.json)
 
 ---
 
@@ -289,6 +371,8 @@ A comprehensive discussion was held on addressing the longstanding challenges fa
 ...
 
 [Data](articles/e9bddd5d.json)
+
+[Extended Data](ext_articles/e9bddd5d.ext.json)
 
 ---
 
@@ -458,6 +542,8 @@ Granting their request, the court ordered the case to be taken up again on Decem
 
 [Data](articles/dfa6b152.json)
 
+[Extended Data](ext_articles/dfa6b152.ext.json)
+
 ---
 
 ### Trader arrested for illegally operating gun factory
@@ -587,6 +673,8 @@ In a statement issued on December 2, the U.S. Embassy in Sri Lanka said that dur
 ...
 
 [Data](articles/5c436a9c.json)
+
+[Extended Data](ext_articles/5c436a9c.ext.json)
 
 ---
 
@@ -2365,63 +2453,5 @@ The national people's power was received against racism. All ethnic groups have 
 [Data](articles/ee300e12.json)
 
 [Extended Data](ext_articles/ee300e12.ext.json)
-
----
-
-### To ensure the equality of Tamils ​​in the new Constitution - Chanakyan emphasizes
-
-*2024-12-05 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200421) · `ta`
-
-Chanakyan emphasizes ensuring Tamil equality in the new Constitution. He calls for releasing political prisoners, removing military camps, and resolving land issues. The TNA seeks equal rights for Tamils in the new constitution and transparency regarding alcohol permits.
-
-🟩
-
-The Tamil people have equal rights in this country.The proposed new constitution must be ensured the equality of Tamils.. Sri Lanka Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that we will cooperate with the best decisions.
-
-He was speaking at a debate on the President's Policy Declaration held in Parliament on Wednesday (04).
-
-The Tamil people in the North and East have received the people's mandate as the national People's Power. Also, the tsunami of our Batticaloa district boldly resisted. That is why we have a historical success there.
-
-There are many unresolved problems for the Tamil people. Political prisoners arrested under the Terrorism Act have not yet been released. Therefore, political prisoners should be released immediately.
-
-...
-
-[Data](articles/594f6670.json)
-
-[Extended Data](ext_articles/594f6670.ext.json)
-
----
-
-### 2024-12-04 (Wednesday)
-
-### Ethnic reconciliation to win economic struggle
-
-*2024-12-04 23:52:35* · [`dailyftlk`](https://www.ft.lk/columns/Ethnic-reconciliation-to-win-economic-struggle/4-770107) · `en`
-
-Without ethnic reconciliation, economic growth and prosperity would be stunted at best or retarded at worst
-
-If there is one political leader and one political party that could reverse this trend of intercommunal disconnection, dissatisfaction and discontent and bring them all together under the umbrella of a united Sri Lanka that leader would be Anura Kumara Dissanayake (AKD) and that party would be NPP. The support his party received from Tamil and Muslim voters from the north and east would vouch for this
-
-...
-
-[Data](articles/cf3910a1.json)
-
-[Extended Data](ext_articles/cf3910a1.ext.json)
-
----
-
-### DSI obtains enjoining order against infringement of ‘Fun Souls’ brand
-
-*2024-12-04 23:34:57* · [`dailyftlk`](https://www.ft.lk/business/DSI-obtains-enjoining-order-against-infringement-of-Fun-Souls-brand/34-770100) · `en`
-
-Action was filed in the Commercial High Court of Colombo by DSI through their Attorneys Sudath Perera Associates against the entity Lakpa Footwear Ltd., with its headquarters based in Horana. The action was filed for the infringement of DSI’s ‘Fun Souls’ trademark and brand and the shoe design on the basis of trademark infringement, unfair competition, and passing-off.
-
-D. Samson & Sons Ltd., widely known as DSI, is a leading homegrown brand and manufacturer of footwear, apparel, and bicycle tyres across the country and has established a strong reputation for quality products in Sri Lanka since its inception. In 2016, DSI introduced and developed the brand ‘Fun Souls’ with a youth identity, to offer a range of unique shoes and bags, including infant shoes, toddler shoes, boys’ and girls’ footwear, and accessories. This ‘Fun Souls’ shoe design was an original concept presented by the DSI brand family.
-
-...
-
-[Data](articles/0c106e61.json)
-
-[Extended Data](ext_articles/0c106e61.ext.json)
 
 ---

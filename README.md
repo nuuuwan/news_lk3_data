@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 05:51:29**
+As of **2024-12-05 06:48:01**
 
 ## Newspaper Stats
 
-*Scraped **58,544** Articles*
+*Scraped **58,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,544
 adaderanalk | 7,105
-tamilmirrorlk | 8,333
+tamilmirrorlk | 8,334
 virakesarilk | 9,584
 adaderanasinhalalk | 10,108
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,532 (100.0%) of 58,544 articles have been extended.
+58,534 (100.0%) of 58,545 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -163,6 +163,22 @@ At the request of the Sri Lankan Tamil Nadu, the President of the Tamil National
 [Data](articles/5e489c47.json)
 
 [Extended Data](ext_articles/5e489c47.ext.json)
+
+---
+
+### ’சம உரிமையை உறுதிப்படுத்தவும்’
+
+*2024-12-05 02:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம-உரிமையை-உறுதிப்படுத்தவும்/175-348261) · `ta`
+
+தமிழ் மக்களுக்கும் இந்த நாட்டில் சம உரிமையுள்ளது. எனவே, அந்த சம உரிமைகள்  தேசிய மக்கள் சக்தி அரசினால் உருவாக்கப்படவுள்ள புதிய அரசியலமைப்பில் உறுதிப்படுத்தப்பட வேண்டும் என வலியுறுத்திய    இரா. சாணக்கியன் எம்.பி, இந்த  அரசை வீழ்த்துவதோ எதிர்ப்பதோ எமது நோக்கம் அல்ல. அரசின்  முற்போக்கான நடவடிக்கைளுக்காகக்  காத்திருக்கின்றோம் என்றார்.
+
+பாராளுமன்றத்தில்   புதன்கிழமை (04)  இடம்பெற்ற ஜனாதிபதியின் கொள்கை  விளக்க உரை மீதான இரண்டாம் நாள் விவாதத்தில்  உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+தேசிய மக்கள் சக்திக்கு எவ்வாறு நாடு முழுவதும் மக்கள் ஆணை கிடைத்ததோ அதேபோன்று வடக்கு, கிழக்கில் தமிழரசுக்கட்சிக்கே மக்கள் ஆணை கிடைத்துள்ளது. அத்துடன் அநுர சுனாமியை எமது மட்டக்களப்பு மாவட்டம் மட்டுமே தைரியமாக எதிர்த்து நின்றது. அதனால்தான் அங்கு நாம் வரலாற்று வெற்றியைப்பெற்றோம்.
+
+...
+
+[Data](articles/685aac15.json)
 
 ---
 
@@ -772,6 +788,8 @@ To address the stigma surrounding men’s mental health and encourage open discu
 
 [Data](articles/b9fb0ee5.json)
 
+[Extended Data](ext_articles/b9fb0ee5.ext.json)
+
 ---
 
 ### What did the President say about the Terrorism Act?
@@ -841,6 +859,8 @@ The partnership was formalized by Sanath Manatunge, Managing Director / Chief Ex
 ...
 
 [Data](articles/cd0c291f.json)
+
+[Extended Data](ext_articles/cd0c291f.ext.json)
 
 ---
 
@@ -2435,31 +2455,5 @@ Similarly, the Ministry of Buddha Sasana has allocated 323 crores 63 lakhs and R
 [Data](articles/03665556.json)
 
 [Extended Data](ext_articles/03665556.ext.json)
-
----
-
-### The Court of Appeal reflect a petition of Mendis
-
-*2024-12-04 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204032) · `si`
-
-Court of Appeal rejects Mendis' petition. Excise Department demands payment by Nov 30. Liquor license suspension challenged.
-
-🟩
-
-W. M. The Court of Appeal today (04) as the Court of Appeal decided not to examine a petition filed by Mendis.
-
-If the excise owing excise will not be paid before November 30, the letter issued by the Excise Department to be released to the company before November 30, the Excise Department demands a powers to give a potential decision. M. The petition was filed by Mendis.
-
-The Court of Appeal was issued by the Court of Appeal of Sobhuthha Rajakaruna and Mahen Gopallawa after considering a long matter.
-
-The panel of judges was revealed that it would not be heard without cases as it was disclosed in the petition as stated in the petition.
-
-Attorney-at-Law, Nawan Marapana, who appeared in the courts before November 30 was completed before November 30, the Excise Department issued to his client to suspend the liquor production license.The article is completely contrary to the law.
-
-...
-
-[Data](articles/448f4d8e.json)
-
-[Extended Data](ext_articles/448f4d8e.ext.json)
 
 ---

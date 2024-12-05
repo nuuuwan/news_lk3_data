@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 20:15:40**
+As of **2024-12-05 20:26:48**
 
 ## Newspaper Stats
 
-*Scraped **58,681** Articles*
+*Scraped **58,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,566
 adaderanalk | 7,129
-tamilmirrorlk | 8,362
+tamilmirrorlk | 8,363
 virakesarilk | 9,609
 adaderanasinhalalk | 10,137
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,669 (100.0%) of 58,681 articles have been extended.
+58,669 (100.0%) of 58,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### கோட்டை பகுதியில் உள்ள ஹோட்டலில் பாரிய தீ
+
+*2024-12-05 20:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-பகுதியில்-உள்ள-ஹோட்டலில்-பாரிய-தீ/175-348326) · `ta`
+
+கொழும்பு கோட்டை பகுதியில் அமைந்துள்ள ஸ்டூவர்ட் ஹோட்டலில் இன்று மாலை தீ பரவியுள்ளதாக தீயணைப்புப் பிரிவினர் தெரிவித்துள்ளனர்.
+
+தீயை கட்டுக்குள் கொண்டு வர 12 தீயணைப்பு வாகனங்கள் மற்றும் 41 அதிகாரிகள் சம்பவ இடத்திற்கு அனுப்பி வைக்கப்பட்டனர் என்று கொழும்பு தீயணைப்புப் பிரிவின் அதிகாரி ஒருவர் டெய்லி மிரருக்குத் தெரிவித்தார்.
+
+அதிகாரியின் கூற்றுப்படி, சிலர் பாதிக்கப்பட்டுள்ளனர். ; இருப்பினும், சரியான எண்ணிக்கை இன்னும் உறுதிப்படுத்தப்படவில்லை.
+
+◼️
+
+[Data](articles/83fdcce7.json)
+
+---
 
 ### මාධ්‍ය නිදහස අඩපණ කරන්න දෙන්නේ නෑ
 
@@ -2419,25 +2435,5 @@ Addressing claims made by former president Ranil Wickremesinghe, who said that t
 [Data](articles/aaa87425.json)
 
 [Extended Data](ext_articles/aaa87425.ext.json)
-
----
-
-### SLPP’s Administrative Secretary Renuka Perera arrested
-
-*2024-12-05 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104009/slpps-administrative-secretary-renuka-perera-arrested) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Administrative Secretary Renuka Perera has been arrested by the Criminal Investigation Department (CID) for allegedly posting false information on ‘Mahaviru’ commemorations in the North through social media, police said.
-
-A team of CID officers had visited Renuka Perera’s residence this morning (05) and took him into custody after recording a statement.
-
-Police stated that the CID is conducting further investigations regarding the arrest of Renuka Perera.
-
-Meanwhile, Minister Ananda Wijepala alleged yesterday (04) that photographs from past LTTE ‘Mahaviru’ celebrations that were held in other countries had been circulated on social media, to create the impression that similar events were taking place in the Northern Province of Sri Lanka under the current administration.
-
-...
-
-[Data](articles/a3e86299.json)
-
-[Extended Data](ext_articles/a3e86299.ext.json)
 
 ---

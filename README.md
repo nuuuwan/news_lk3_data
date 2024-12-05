@@ -1,176 +1,120 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 19:27:16**
+As of **2024-12-05 19:03:12**
 
 ## Newspaper Stats
 
-*Scraped **58,675** Articles*
+*Scraped **58,672** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
-colombotelegraphcom | 596
+colombotelegraphcom | 595
 bbccomsinhala | 614
 islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,564
+adalk | 5,563
 adaderanalk | 7,128
 tamilmirrorlk | 8,360
 virakesarilk | 9,609
-adaderanasinhalalk | 10,137
+adaderanasinhalalk | 10,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,659 (100.0%) of 58,675 articles have been extended.
+58,653 (100.0%) of 58,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### මෙන්ඩිස් සමාගමට මුද්‍රා තැබේ
-
-*2024-12-05 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204077) · `si`
-
-ඩබ්ලිව්. එම්. මෙන්ඩිස් සහ සමාගමේ නාගොඩ, වැලිසර පිහිටි නිෂ්පාදනාගාරයට අද (5) මුද්‍රා තැබීය.
-
-මෙන්ඩිස් සමාගම ගෙවිය යුතු සුරාබද්ද හා ඊට අදාළ 3%ක අධිභාරය වන රුපියල් බිලියන 5.7ක මුදල ගෙවීම පැහැර හැරීම හේතුවෙන් සුරාබදු ආඥා පනතේ නෛතික විධිවිධාන ප්‍රකාරව එහි මත්පැන් නිෂ්පාදන බලපත්‍රය අද (5) සිට අත්හිටුවීමට සුරාබදු කොමසාරිස් ජනරාල්වරයා නියෝග කර තිබුණි.
-
-එම නියෝගය ප්‍රකාරව සුරාබදු දෙපාර්තමේන්තුවේ ජාඇළ සහ ගම්පහ සුරාබදු අධිකාරීවරුන් හා නිලධාරීන් කණ්ඩායමක් විසින් මෙම මුද්‍රා තැබීම සිදු කළේය.
-
-ඒ පැය හයකට වැඩි කාලයක් එහි සිදුකළ නිරීක්ෂණ කටයුතුවලින් අනතුරුවය.
-
-ජාඇළ සහ ගම්පහ සුරාබදු අධිකාරීවරුන් පැවසුවේ අද සිට ඩබ්ලිව්. එම්. මෙන්ඩිස් සහ සමාගමේ සියලුම නිෂ්පාදන හා බෙදාහැරීම් කටයුතු සිදුකළ නොහැකි බවයි.
-
-හිඟ බදු ගෙවීම පැහැරහැර තිබෙන මත්පැන් නිෂ්පාදන සමාගම්වල බලපත්‍ර ඉකුත් නොවැම්බර් මස 30 වැනිදා සිට අත්හිටුවීමට රජය ප්‍රතිපත්තිමය තීරණයක් ගෙන තිබුණි.
-
-...
-
-[Data](articles/8ef9490d.json)
-
----
-
-### I speak to the president about the release of 10 political prisoners;Mark Andrew Franjam Tamil National People's Front leader Gajendrakumar
+### அரசியல் கைதிகள் 10 பேரின் விடுதலை குறித்து ஜனாதிபதியுடன் பேசுகிறேன்; மார்க் அன்ட்ரூ பிரென்ஞ் தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவர் கஜேந்திரகுமாரிடம் உறுதி
 
 *2024-12-05 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200532) · `ta`
 
-Gajendrakumar Ponnambalam meets UN Resident Mark Andrew Franjam to discuss political prisoners and government reforms in Sri Lanka.
+நீண்டகாலமாக தடுப்புக்காவலில் வைக்கப்பட்டிருக்கும் அரசியல் கைதிகள் 10 பேரின் விடுதலை குறித்து ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுடன் பேசுவதாக தமிழ்த்தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலத்திடம் ஐக்கிய நாடுகள் சபையின் இலங்கைக்கான வதிவிடப்பிரதிநிதி மார்க் அன்ட்ரூ பிரென்ஞ் வாக்குறுதியளித்துள்ளார்.
 
-🟩
+தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலத்துக்கும், ஐக்கிய நாடுகள் சபையின் இலங்கைக்கான வதிவிடப்பிரதிநிதி மார்க் அன்ட்ரூ பிரென்ஞ்சுக்கும் இடையிலான சந்திப்பு  வியாழக்கிழமை (05) கொழும்பில் நடைபெற்றது.
 
-Tamil National Alliance (TNA) parliamentarian Gajendrakumar Ponnambalam has promised to speak to President Anura Kumara Dissanayake on the release of 10 political prisoners who have long been detention.
-
-The meeting between Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA) and Member of Parliament, and the United Nations Residents of Sri Lanka, Mark Andrew French, were held in Colombo on Thursday (05).
-
-At the invitation of UN Resident Mark Andrew Franjin, Resident Gajendrakumar asked Ponnambalam about the contemporary status of the country, the activities of the new government, and the government's ability to continue the country.
-
-Responding to this, Gajendrakumar said he was confident that corruption would be reduced during the new government's regime.
+ஐ.நா வதிவிடப்பிரதிநிதி மார்க் அன்ட்ரூ பிரென்ஞ்சின் அழைப்பின்பேரில் இடம்பெற்ற இச்சந்திப்பின்போது, நாட்டின் சமகால நிலைவரம், புதிய அரசாங்கத்தின் செயற்பாடுகள், நாட்டை தொடர்ந்து முன்கொண்டுசெல்வதற்கு அரசாங்கம் கொண்டிருக்கும் இயலுமை உள்ளிட்ட விடயங்கள் பற்றி வதிவிடப்பிரதிநிதி கஜேந்திரகுமார் பொன்னம்பலத்திடம் கேட்டறிந்தார்.
 
 ...
 
 [Data](articles/0999d8d5.json)
 
-[Extended Data](ext_articles/0999d8d5.ext.json)
-
 ---
 
-### Three -and -a -half -year -old child dies to take a pencil in the reservoir
+### நீர்த்தேக்கத்தில் வீழ்ந்த பென்சிலை எடுக்க  இறங்கிய மூன்றரை வயது குழந்தை மரணம்!
 
 *2024-12-05 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200531) · `ta`
 
-3.5-year-old child drowns in reservoir while trying to retrieve fallen pencil. Incident occurred in Point Pedro-Thirumalapuram, Vallipuram area. Child named Rajeevan Sujee pronounced dead upon rescue.
+நீர்த்தேக்கத்தில்  வீழ்ந்த பென்சிலை எடுக்க இறங்கிய மூன்றரை வயது குழந்தை ஒன்று உயிரிழந்துள்ளது.
 
-🟩
+குறித்த சம்பவம் பருத்தித்துறை - திருமால்புரம், வல்லிபுரம் பகுதியில் 05 ஆம் திகதி வியாழக்கிழமை பிற்பகல்  இடம்பெற்றுள்ளது. இதில் ரஜீவன் சுஜீ என்கின்ற குழந்தையே உயிரிழந்துள்ளது.
 
-A three -and -a -half -year -old child died after landing in the reservoir.
+குறித்த குழந்தை தனது கையில் பென்சில் ஒன்றுடன் சென்றுகொண்டிருந்தபோது பென்சில் தவறி நீர்தேக்கத்தில் வீழ்ந்துள்ளது.
 
-The incident took place on Thursday afternoon at Point Pedro - Thirumalapuram, Vallipuram area. In this case, the child named Rajeevan Sujee has died.
-
-The pencil fell into the water as the child was going with a pencil in her hand.
-
-The baby drowned in the water reservoir to take it. Doctors said the baby had already died while the child was rescued and taken to the Point Pedro Hospital.
+அதனை எடுப்பதற்காக குறித்த நீர்த் தேக்கத்தில் இறங்கிய வேளை குழந்தை நீரில் மூழ்கியது. குழந்தையை மீட்டு பருத்தித்துறை ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டவேளை குழந்தை ஏற்கனவே இறந்துள்ளதாக மருத்துவர்கள் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/9a932be5.json)
 
-[Extended Data](ext_articles/9a932be5.ext.json)
-
 ---
 
-### Increase in prices of big onions and coconut!
+### பெரிய வெங்காயம், தேங்காயின் விலைகள் அதிகரிப்பு!
 
 *2024-12-05 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200527) · `ta`
 
-Prices surge: Indian onions $11/kg, coconuts $5.10 each. Local onions $4-$4.50/kg. Coconut pile now $180, up from $40-$60 previously.
+ஒரு கிலோ இந்திய பெரிய வெங்காயத்தின் விலை 500 முதல் 550 ரூபா வரை அதிகரிக்கப்பட்டுள்ளதாகவும், தேங்காய் ஒன்றின் விலை 180 முதல் 230 ரூபா வரை அதிகரிக்கப்பட்டுள்ளதாகவும் பொதுமக்கள் இன்று வியாழக்கிழமை (05) தெரிவித்தனர்.
 
-🟩
+பாகிஸ்தான் பெரிய வெங்காயம் மற்றும் ஏனைய பெரிய வெங்காய வகைகளின் விலை கிலோ ஒன்றுக்கு 400 முதல் 450 ரூபா வரை உள்ளதாகவும், வெங்காயத்தின் விலை தொடர்ந்து அதிகரித்து வருவதாகவும் மக்கள் தெரிவித்தனர்.
 
-The public said on Thursday (05) that the price of one kg of Indian large onions had been increased from 500 to 550 rupees and the price of coconuts had been increased from 180 to 230 rupees.
+கொழும்பு புறக்கோட்டை மொத்த விற்பனை சந்தையில் இந்திய பெரிய வெங்காய தட்டுப்பாடு ஏற்பட்டுள்ளதாகவும், ஒரு கிலோ வெங்காயத்தின் மொத்த விலை 400 ரூபாவாக உயர்ந்துள்ளதாகவும் வியாபாரிகள் தெரிவித்தனர்.
 
-Pakistan's large onions and other large onions are ranging from 400 to 450 rupees per kg and onion prices are continuing.
-
-Merchants said that the Indian big onion shortage in the outsourcing of the Colombo Fort has risen to 400 rupees.
-
-Coconut vendors further stated that the price of a small pile of coconut, which sold for 40 rupees to 60 rupees a few months ago, is currently three times and is being sold to 180 rupees.
+சில மாதங்களுக்கு முன் 40 ரூபா முதல் 60 ரூபா வரை விற்பனையான ஒரு சிறிய குவியல் தேங்காயின் விலை, தற்போது மூன்று மடங்காக அதிகரிக்கப்பட்டு, 180 ரூபாவாக விற்பனை செய்யப்பட்டு வருவதாக தேங்காய் விற்பனையாளர்கள் மேலும் தெரவித்தனர்.
 
 ◼️
 
 [Data](articles/bd317c6a.json)
 
-[Extended Data](ext_articles/bd317c6a.ext.json)
-
 ---
 
-### Sri Lanka 'suppresses' the gap for civil operations;Tamil journalists are targeted
+### சிவில் செயற்பாடுகளுக்கான இடைவெளியை 'ஒடுக்குகிறது' இலங்கை; தமிழ் ஊடகவியலாளர்கள் இலக்குவைக்கப்பட்டதாக - சிவிகஸ் மொனிட்டர் சர்வதேச அமைப்பு விசனம்
 
 *2024-12-05 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200529) · `ta`
 
-Sri Lanka suppresses civil operations gap; Tamil journalists targeted. International Human Rights Organization reports civic activities limited, especially in Asian Pacific region. Police use tear gas and water cannons to disperse protests. Tamil journalists face threats, arrests, and court restrictions after war's end.
+இவ்வாண்டு இலங்கையில் சிவில் செயற்பாடுகளுக்கான இடைவெளி 'ஒடுக்கப்பட்டதாக' தமது வருடாந்த ஆய்வறிக்கையில் சுட்டிக்காட்டியிருக்கும் 'சிவிகஸ் மொனிட்டர்' எனும் சர்வதேச மனித உரிமைகள் அமைப்பு, இவ்வருடம் ஆர்ப்பாட்டங்கள் திட்டமிட்டு முடக்கப்பட்டதாகவும், தமிழ் ஊடகவியலாளர்கள் அவர்களது தொழில் நிமித்தம் இலக்குவைக்கப்பட்டதாகவும் கரிசனை வெளியிட்டுள்ளது.
 
-🟩
+'சிவிகஸ் மொனிட்டர்' எனும் சர்வதேச மனித உரிமைகள் அமைப்பானது 2024 ஆம் ஆண்டு உலகளாவிய ரீதியில் 198 நாடுகளில் நிலவும் சிவில் செயற்பாடுகளுக்கான இடைவெளியின் தன்மையை ஆராய்ந்து 'தாக்குதலுக்கு உள்ளாகும் நிலையில் மக்கள் அதிகாரம்' எனும் தலைப்பில் அதன் வருடாந்த ஆய்வறிக்கையை வெளியிட்டுள்ளது.
 
-The International Human Rights Organization, the International Human Rights Organization, which has pointed out in its annual study that the interval of civil operations in Sri Lanka has been 'oppressed', has issued a garden that the Tamil journalists have been deliberately paralyzed this year and that Tamil journalists have been targeted for their career.
-
-The International Human Rights Organization, the International Human Rights Organization, 'Civicus Monitar', has published its annual report titled 'People's Power', which has been exploring the nature of civil activities in 198 countries worldwide in 2024.
-
-In this statement, the citizens of each country have investigated the expression of the expression of the country and the freedom of gathering. According to the Civigus Monitar organization, most of the countries in the Asian and Pacific region have greatly limited the gap for the civilian activities of their citizens.
+இவ்வறிக்கையில் ஒவ்வொரு நாட்டினதும் பிரஜைகள் அந்நாட்டில் கொண்டிருக்கும் கருத்து வெளிப்பாட்டுச்சுதந்திரம், ஒன்றுகூடுவதற்கான சுதந்திரம் என்பன பற்றி ஆராயப்பட்டுள்ளது. அதன்படி குறிப்பாக ஆசிய, பசுபிக் பிராந்தியத்திலுள்ள பெரும்பாலான நாடுகள் தமது பிரஜைகளின் சிவில் செயற்பாடுகளுக்கான இடைவெளியை வெகுவாக மட்டுப்படுத்தியிருப்பதாக சிவிகஸ் மொனிட்டர் அமைப்பு தெரிவித்துள்ளது.
 
 ...
 
 [Data](articles/91a34f6c.json)
 
-[Extended Data](ext_articles/91a34f6c.ext.json)
-
 ---
 
-### Will the liquor bargains issued in political bribery be canceled?- Chanakyan question
+### அரசியல் இலஞ்சமாக வழங்கப்பட்ட மதுபானசாலை அனுமதிப்பத்திரங்கள் இரத்துச் செய்யப்படுமா ?  - சாணக்கியன் கேள்வி
 
 *2024-12-05 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200484) · `ta`
 
-Sri Lanka: TNA MP questions cancellation of 361 liquor licenses issued via political bribery. Government silent on investigation and permit revocation.
+கடந்த அரசாங்கத்தில்  அரசியல் இலஞ்சமாக வழங்கப்பட்ட 361 மதுபானசாலை அனுமதிகளின் உரிமையாளர்கள், சிபார்சு செய்தவர்கள் தொடர்பில் விசாரணைகள் நடத்தப்படுமா, வழங்கப்பட்ட  அனுமதி பத்திரங்கள் இரத்துச் செய்யப்படுமா   என இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற  உறுப்பினர்   இரா. சாணக்கியன் அரசாங்கத்திடம் கேள்வியெழுப்பினார்.
 
-🟩
+பாராளுமன்றத்தில் வியாழக்கிழமை (05)  நடைபெற்ற  அமர்வின் போது  ஒழுங்குப்பிரச்சினை    முன்வைத்து  மேற்கண்டவாறு கேள்வியெழுப்பினார்.
 
-The Sri Lankan TNA parliamentarian will not be able to investigate and cancel the permits issued by the owners and recommendations of the 361 liquor bargains issued in the last government.. Chanakyan questioned the government.
+கடந்த அரசாங்கத்தால்  அரசியல்    இலஞ்சமாக   மதுபானசாலைகளுக்கான அனுமதிகளை பெற்றவர்களின் விபரங்களை அரசாங்கம்  சபையில் சமர்ப்பித்தமை பாராட்டுக்குரியது.
 
-During the session held in Parliament on Thursday (05), he questioned the issue.
+அதேவேளை இந்த மதுபானசாலைகளின் உரிமையாளர்கள்,  இவற்றுக்கான அனுமதிகளுக்கு  சிபார்சு செய்தவர்கள் தொடர்பில் அரசு விசாரணை நடத்துமா? அத்துடன் அரசியல் இலஞ்சமாக வழங்கப்பட்ட இந்த மதுபான சாலைகளுக்கான அனுமதிகளை அரசாங்கம்  இரத்துச் செய்யுமா ,
 
-It is commendable that the government has submitted the details of those who have received permissions for liquor schools by the previous government.
-
-At the same time, will the government investigate the owners of these liquor schools and those who have recommended the permits?Will the government cancel the permits for these liquor roads issued by political bribery?
-
-The government is asking us about the permits for these 361 liquor stalls because the public is asking us so that the government should explain the next step to the Minister and Minister Bimal Ratnayaka.. However, no one responded from the state side.
-
-◼️
+...
 
 [Data](articles/a58d2442.json)
-
-[Extended Data](ext_articles/a58d2442.ext.json)
 
 ---
 
@@ -267,8 +211,6 @@ President Dissanayake emphasized the importance of achieving both political and 
 ...
 
 [Data](articles/c3c50f03.json)
-
-[Extended Data](ext_articles/c3c50f03.ext.json)
 
 ---
 
@@ -425,24 +367,6 @@ Responding to the question of Parliamentarian Rohitha Abeygunawardena, who urged
 [Data](articles/e62544a7.json)
 
 [Extended Data](ext_articles/e62544a7.ext.json)
-
----
-
-### රිදියගම බෙංගාලි ව්‍යාඝ්‍රයා මියයාමේ අවසන් වාර්තාව ප්‍රමාදයි
-
-*2024-12-05 17:46:48* · [`adalk`](https://www.ada.lk/breaking_news/රිදියගම-බෙංගාලි-ව්‍යාඝ්‍රයා-මියයාමේ-අවසන්-වාර්තාව-ප්‍රමාදයි/11-413480) · `si`
-
-ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව සතු රිදියගම සෆාරි උද්‍යානයයේ සිටියදී ඉකුත් වසර මුලදී විෂ ශරීර ගතවීමකින් බෙංගාලි ව්‍යාඝ්‍රයකු හදිසියේ මියයාම පිළිබඳ  විමර්ශන කටයුතු තවමත් අවසන් කර නැතැයි ජාතික විගණන කාර්යාලය විගණන වාර්තාවකින්  අනාවරණය කරයි.
-
-සෆාරි උද්‍යානයේ සිටි මෙම ව්‍යාඝ්‍රයාගේ මරණය පිළිබඳව 2023 ජුනි 02 දා  සිදුකළ මරණ පරීක්ෂණයේ වාර්තාව අනුව එම සත්වයා විෂ ශරීර ගතවීමකින් මරණයට පත්ව තිබූ බව විගණනයෙන් පෙන්වා දෙයි.
-
-සෆාරි උද්‍යානයේ රැකවරණය යටතේ සිටි මෙම ව්‍යාඝ්‍රයා ස්වාභාවික නොවන මරණයකට ගොදුරුවීම සම්බන්ධයෙන් විමර්ශන කටයුතු කඩිනමින් අවසන් කිරීමට කටයුතු කළ යුතු බවට විගණන කාර්යාලය නිර්දේශයක්ද ලබා දී තිබේ.
-
-මේ සම්බන්ධයෙන් 2023 දී විමර්ශන කමිටුවක් පත්කළ බවත්  එම ව්‍යාඝ්‍රයාගේ පටක සාම්පල පිළිබඳව රස පරීක්ෂක වාර්තා මෙතෙක් නොලැබීම නිසා අවසන් විමර්ශන වාර්තාව ප්‍රමාදවී ඇතැයි සත්වෝද්‍යාන දෙපාර්තමේන්තුව විගණන කාර්යාලට දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/00fc3ab9.json)
 
 ---
 
@@ -1175,20 +1099,6 @@ South Africa won the first Test match between the two countries by 233 runs.
 [Data](articles/118ac361.json)
 
 [Extended Data](ext_articles/118ac361.ext.json)
-
----
-
-### Lawyers Collective On A Legislative Agenda For New Government & Parliament & Rule Of Law Issues
-
-*2024-12-05 13:29:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lawyers-collective-on-a-legislative-agenda-for-new-government-parliament-rule-of-law-issues/) · `en`
-
-“We remind the government and the representatives in the legislature that it is important to adopt a transparent and inclusive process of policy and law-making that is proportionate and responsive to the needs of the people. Dialogue and communication with the sovereign people of this country will deepen legitimacy and public trust in governance,” says the Lawyers’ Collective.
-
-The Lawyers’ Collective writes to the new Cabinet of Ministers and all members of the newly elected 10th Parliament of Sri Lanka on the importance of recognizing the legislative mandate signalled by the people at this election. We congratulate all elected representatives of the new parliament and emphasize that the mandate given is a clarion call to ensure that the legislative agenda reflects the sovereign will of the people.
-
-...
-
-[Data](articles/1f50f823.json)
 
 ---
 
@@ -2397,5 +2307,81 @@ Meanwhile, a special meeting was held last afternoon (04) attended by former Sri
 [Data](articles/f20cc7d8.json)
 
 [Extended Data](ext_articles/f20cc7d8.ext.json)
+
+---
+
+### Sri Lanka to present mini-budget with Rs4,000bn borrowing limit
+
+*2024-12-05 09:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-mini-budget-with-rs4000bn-borrowing-limit-192212/) · `en`
+
+ECONOMYNEXT – Sri Lanka is to present a mini-budget with a 4,000 billion rupee borrowing limit on Thursday accounting to a resolution distributed to legislators which also allocates funds for ministries till April 2025.
+
+Ministries have been allocated 1,402 billion rupees for the period.
+
+The resolution seeks parliamentary authority for 4,197 billion rupees to be paid out of the consolidated fund, including for debt service and repayment.
+
+The resolution also seeks authority to raise up to 4,000 billion rupees locally or abroad.
+
+Sri Lanka is expecting to present a formal budget for 2025 in line with an International Monetary Fund program in February 2025.
+
+◼️
+
+[Data](articles/db7e0592.json)
+
+[Extended Data](ext_articles/db7e0592.ext.json)
+
+---
+
+### Restore forcibly connected relations in the Russian Army: Mahajar to President and Prime Minister
+
+*2024-12-05 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200463) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan citizens forcibly recruited into Russian army. Paid large sums to travel to Europe but sent to fight in Ukraine instead. Requesting protection and safe return due to ongoing conflict.
+
+🟩
+
+The Mahajar has been given to President Anura Kumara Dissanayake Prime Minister Harini Amarasuriya and External Affairs Minister Vijitha Herath to forcibly restore their relations in the Russian army.
+
+The Russian Embassy has refused to obtain the Major, despite the complaints of the Human Rights Commission of Sri Lanka.
+
+Our relatives were traveling through the agents to travel to France and Belgium last month.. It was promised to take them from Colombo to Russia and then take them from there to Europe.
+
+In accordance with that, they have been paid Rs 60 lakh to 70 lakhs. However, our relatives were taken from the Russian airport to Russia and then they have been given military training.
+
+They have been taken to war against Ukraine after 15 days of training. In this case, it is impossible to have contacts with the money laundering agents to take it to Europe.
+
+...
+
+[Data](articles/8504fc87.json)
+
+[Extended Data](ext_articles/8504fc87.ext.json)
+
+---
+
+### 23-year-old woman clubbed to death in Ketawala
+
+*2024-12-05 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104007/23-year-old-woman-clubbed-to-death-in-ketawala) · `en`
+
+A young woman has been clubbed to death by a person in the Ketawala area of Siripagama police division.
+
+The incident had occurred last morning (04) and the girl who was injured in the attack was admitted to the Gilimale Hospital.
+
+She was later pronounced dead after being transferred to Ratnapura Teaching Hospital for further treatment.
+
+The investigation has revealed that the victim was involved in a romantic relationship with the suspect who carried out the attack and she was clubbed to death following a dispute between them.
+
+The body is currently kept in the Ratnapura Hospital morgue for the post mortem while it is reported that the suspect has fled the area after the incident.
+
+Siripagama Police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/a7327891.json)
+
+[Extended Data](ext_articles/a7327891.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 00:02:44**
+As of **2024-12-06 00:16:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,694 (100.0%) of 58,713 articles have been extended.
+58,696 (100.0%) of 58,713 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -492,21 +492,35 @@ Around 10 fire trucks had been dispatched to douse the flames after a fire erupt
 
 ---
 
-### පොලීසිය කොස්තාපල්ට පරාදයි
+### Police lose constable
 
 *2024-12-05 19:16:59* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-කොස්තාපල්ට-පරාදයි/11-413487) · `si`
 
-බටපොළ පොලීසියේ රථවාහන අංශය විසින් රත්ගම පොලීසියේ සේවය කළ පොලිස් කොස්තාපල්වරයෙකුට එරෙහිව පවරා තිබූ රථවාහන නඩුවෙන් පොලිස් කොස්තාපල්වරයා සියලුම චෝදනාවලින් නිදොස් කොට නිදහස් කරන ලෙස බළපිටිය මහේස්ත්‍රාත් ආර්.ඩී.ජනක මහතා අද (05දා) නියෝග කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-වසර පහක් තිස්සේ විභාග වූ මේ නඩුවේ සියලුම චෝදනාවලින් නිදොස් කොට නිදහස් කරනු ලැබූවේ, රිය අනතුර සිදුවන අවස්ථාවේදී රත්ගම පොලීසියේ හා වත්මන් අම්බලන්ගොඩ පොලීසියේ සේවය කරන කේ.එම්.ජී.ඉන්ද්‍රජිත් (85314) නමැති පොලිස් කොස්තාපල්වරයාය.
 
-2019 මැයි 21 හෝ ඊට ආසන්න දිනයකදී  බටපොළ කොබෙයිතුඩුව ප්‍රදේශයේදී සිදුවූ රිය අනතුරකදී එවකට රත්ගම පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කරන ලද පොලිස් කොස්තාපල් කේ.එම්.ජී.ඉන්ද්‍රජිත් නිලධාරියාට එරෙහිව බටපොළ පොලීසිය විසින් රථවාහන නීති කඩ කළේ යැයි කියමින් බළපිටිය අධිකරණයේ නඩු පවරන ලදී.
 
-එහිදී මෙම පොලිස් කොස්තාපල්වරයාට එරෙහිව අනතුරක් වළක්වා නොගැනීම, රිය වමෙන් ධාවනය නොකිරීම යන චෝදනා දෙක යටතේ බටපොළ පොලීසිය විසින් මෙම නඩු ගොනුකොට තිබිණි.
+Magistrate orders acquittal of police constable accused of negligence. Incident occurred on May 21, 2019. Officer hospitalized after motorcycle accident. Case dismissed due to lack of evidence.
+
+🟩
+
+The Batapitiya Magistrate RDD today (05) ordered the disposal of the police constable against a police constable assigned by the Battapola police constable.
+
+The accusations have been acquitted in acquitted of the three years and released the Rangama Police and the Police Constable, who serves in the Ambalangoda Police and the current Ambalangoda Police.
+
+In the Batapola, Batapola police were assigned to the Ratgama Police Station at the Batapola Police Station at the time of May 21, 2019, claimed to be deployed by the Batapola Police.
+
+The Batapola Police were filed by the Batapola Police under the two charges not to avoid accidents against the police constable.
+
+The police constable KMG Sathya KMG Sathyajith has been hospitalized after his motorcycle on his home from his home.
+
+The police officers were filed by the Chief Inspector General of Police Chief Inspector Tenth Silva regarding the incident.
 
 ...
 
 [Data](articles/c2231f8e.json)
+
+[Extended Data](ext_articles/c2231f8e.ext.json)
 
 ---
 
@@ -668,21 +682,31 @@ In this statement, the citizens of each country have investigated the expression
 
 ---
 
-### பெரும்பான்மை உள்ளதால் தன்னிச்சையாக செயற்பட வேண்டாம் : தயாசிறி அரசாங்கத்துக்கு அறிவுறுத்தல்
+### Do not act spontaneously because of the majority:
 
 *2024-12-05 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200486) · `ta`
 
-குறை நிரப்பு  பிரேரணை  நிறைவேற்றப்படாத நிலையில் தான் இடைக்கால வாக்கு கணக்கு பதிவை சமர்ப்பிக்க முடியும். பெரும்பான்மை உள்ளதால் அரசாங்கம் தன்னிச்சையாக செயற்படுகிறது. எதிர்தரப்பில் 66 உறுப்பினர்கள் உள்ளார்கள். ஆகவே குறைப்பாடுகளை சுட்டிக்காட்ட இடமளியுங்கள் என  எதிரணியின் பாராளுமன்ற  உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+Here's a summary in approximately 200 characters:
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (05) நடைபெற்ற அமர்வின் போது சிறப்புரிமை மீறல் பிரச்சினையை முன்வைத்து உரையாற்ற அனுமதி கோரினார்.
 
-இதன்போது சபைக்கு தலைமை தாங்கிய சபாநாயகர்  கலாநிதி அசோக ரன்வல, நீங்கள் (தயாசிறி ஜயசேகரவை நோக்கி ) முன்வைத்த சிறப்புரிமை மீறல் பிரச்சினை இன்று காலை 09.25 மணியளவில்   கிடைக்கப் பெற்றது. அத்துடன்  பத்திரத்தில் திகதியும் குறிப்பிடப்படவில்லை. ஆகவே இவ்விடயம் தொடர்பில் உங்களிடம் கலந்துரையாட தீர்மானித்திருந்தேன் என்றார்.
 
-இதன்போது தொடர்ந்து உரையாற்றிய பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர,  பாராளுமன்ற அமர்வு ஆரம்பிப்பதற்கு  முன்னர் அதாவது  09.30  மணிக்கு முன்னர் சிறப்புரிமை மீறல் பிரச்சினையை முன்வைக்கலாம்.
+Opposition MP Dayasiri Jayasekara raised concerns about privilege violation during a parliamentary session. He criticized the government's arbitrary actions due to its majority. The interim report was presented under the State Finance Management Act, but the opposition argues it violates procedures.
+
+🟩
+
+The interim voting account can be submitted only when the proposal is not fulfilled. The government acts spontaneously because there is a majority. There are 66 members in the opposition. Therefore, the opposition parliamentarian Dayasiri Jayasekara said, "Let us point out the reduction."
+
+During the session held in Parliament on Thursday (05), he sought permission to present the issue of privilege violation.
+
+Speaker Dr. Ashoka Ranwala, who presided over the House, presided over the issue of privilege (towards Dayasiri Jayasekara) at 09.25 am. As well as the date of the bond is not specified. So I had decided to discuss this on this issue.
+
+Speaking on the occasion, Member of Parliament Dayasiri Jayasekara said that the issue of privilege can be presented before the inauguration of the parliamentary session at 09.30 am.
 
 ...
 
 [Data](articles/278946c8.json)
+
+[Extended Data](ext_articles/278946c8.ext.json)
 
 ---
 

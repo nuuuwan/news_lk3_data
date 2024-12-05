@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 01:42:44**
+As of **2024-12-06 02:42:21**
 
 ## Newspaper Stats
 
-*Scraped **58,720** Articles*
+*Scraped **58,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,569
 adaderanalk | 7,131
-tamilmirrorlk | 8,365
+tamilmirrorlk | 8,366
 virakesarilk | 9,625
 adaderanasinhalalk | 10,140
 
@@ -26,107 +26,189 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,710 (100.0%) of 58,720 articles have been extended.
+58,721 (100.0%) of 58,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### மோசடி என்று விமர்சித்த தேசிய மக்கள் சக்தி அரசாங்கம் ஒப்பந்தம் கைச்சாத்திடுவதற்கு முன்னரே கடன் செலுத்தலுக்கு நிதி ஒதுக்கியுள்ளது - கபீர் ஹாசிம்
+### The government acts arbitrarily
+
+*2024-12-06 02:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-தன்னிச்சையாக-செயற்படுகிறது/175-348329) · `ta`
+
+Government acts arbitrarily: MP accuses lack of fulfillment of proposals. Parliament session rules ignored. State Financial Management Act not followed. Grievances need correction.
+
+🟩
+
+The polls can be put forward only when the proposal has been put forward and not fulfilled.. United People's Power MP Dayasiri Jayasekara accused the government of acting arbitrarily as he has a majority.
+
+Parliament met at 9.30 am on Thursday (05) under the leadership of Speaker Asoka Ranwala. Dayasiri Jayasekara MPHe sought permission from the Speaker to raise the issue of privilege violation.
+
+However, the issue of privilege you put forward on Thursday (05) was available at 9.25 am and the date was not mentioned on the date.. So I had to discuss this on this issue.
+
+Responding to this, Dayasiri Jayasekara MP said that before the inauguration of the parliamentary session, the issue could be presented at 9.30 am.
+
+...
+
+[Data](articles/20539388.json)
+
+[Extended Data](ext_articles/20539388.ext.json)
+
+---
+
+### The National People's Power Government has allocated funds for debt before the government has been signed - Kabir Hashim
 
 *2024-12-06 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200540) · `ta`
 
-சர்வதேச பிணைமுறி பத்திரங்களில் இருந்து பெற்றுக்கொண்ட கடன்கள் மோசடியானது என்று விமர்சித்த தேசிய மக்கள் சக்தி அரசாங்கம் ஒப்பந்தம் கைச்சாத்திடுவதற்கு முன்னரே கடன் செலுத்தலுக்கு நிதி ஒதுக்கியுள்ளது.  ஆடை அணிந்துக் கொண்டா வணிக கடன் தொடர்பான ஒப்பந்தத்தை அரசாங்கம் கைச்சாத்திட போகிறது என்று கேட்க தோன்றுகிறது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கபீர் ஹாசிம் தெரிவித்தார்.
+National People's Power Government allocates funds for loans before agreement. Criticizes international bail bonds. Kabir Hashim speaks against system changes in agriculture and industry. No clear economic plan or cost management. Privileges for former President Ranil Wickremesinghe unchanged despite claims.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (5) நடைபெற்ற அரசாங்கத்தின் இடைக்கால கணக்கறிக்கை மீதான  விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-தேசிய மக்கள் சக்தியின் நிர்வாகத்தில் முறைமை மாற்றம் எதனையும் எதிர்பார்க்க  முடியவில்லை. பாரம்பரிய விவசாய முறைமை தவறு என்றால்  கூட்டு விவசாய முறைமைக்கு செல்ல வேண்டும். அதேபோல் கைத்தொழில் துறை தவறு என்றால் அரச கட்டமைப்புடனான கைத்தொழில் துறைக்கு செல்ல வேண்டும்.
+The National People's Power Government has allocated funds for loans before the signing of the agreement, which criticized the loans from international bail bonds.United People's Power MP Kabir Hashim said that the government seems to be going to sign a business loan agreement.
+
+He was speaking at the debate on the government's interim report on Thursday (5) in Parliament.
+
+Can't expect any system change in the administration of national people's power. If the traditional agricultural system is wrong to go to the joint agricultural system. Similarly, if the industrial sector is wrong, you have to go to the state -owned industrial industry.
+
+There is no change in the president's policy speech and the interim reports that are currently put forward. Economic Deputy Minister presented the interim report. But the need for millions of funds and the cost management is not clarified to the council.
 
 ...
 
 [Data](articles/6234dd4b.json)
 
+[Extended Data](ext_articles/6234dd4b.ext.json)
+
 ---
 
-### சவூதி அரேபியா, உச்சி மாநாடுகளின் காப்பகம் மற்றும் உலகின் திசைகாட்டி
+### Saudi Arabia, Archive of Summit Conferences and the world's compass
 
 *2024-12-06 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200538) · `ta`
 
-சவூதி அரேபியா என்பது, அரபு, இஸ்லாமிய மற்றும் சர்வதேச அரங்குகளில் சர்வதேச உச்சிமாநாடுகள் மற்றும் மாநாடுகளை நடத்துவதில் அதன் தலைமையை நிலைநிறுத்தியுள்ளது, உரையாடலின் கலங்கரை விளக்கமாக, முடிவெடுக்கும் தளமாக, மற்றும் ஒவ்வொரு மன்றத்திலும் பின்பற்றப்பட்டு சுட்டிக்காட்டப்பட வேண்டிய ஒரு முன்மாதிரியாக மாறியுள்ள ஒரு தேசமாகும்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Saudi Arabia hosts numerous international summits and conferences, showcasing its leadership in politics, economics, defense, and environment. Recent events include Arab-Islamic summits, mining conferences, real estate forums, aviation gatherings, fintech meetings, logistics forums, and UNIDO industrial policy councils. These events attract global leaders, fostering cooperation and economic growth.
+
+🟩
+
+Saudi Arabia has established its leadership in the Arabian, Islamic and international halls, which has established its leadership in the holding of international summit and conferences, a nation that has become a lighthouse, a decision -making site, and a nation that has been followed in every forum.
+
+For decades, Saudi Arabia has held many summits with the participation of presidents and world leaders of the world, discussing international issues and presenting effective solutions to common challenges. Thus, Saudi Arabia is holding from Arabia, Islamic, Arab and International Conferences and Meetings. These summits and conferences are different types of. And Saudi Arabia is the main standard axis, and it is at the forefront of working countries aimed at creating peace and sustainable development. It also serves as a manner in which humanity will benefit the welfare of the people of the world.
 
 ...
 
 [Data](articles/36a3b008.json)
 
+[Extended Data](ext_articles/36a3b008.ext.json)
+
 ---
 
 ### 2024-12-05 (Thursday)
 
-### மீள் புதுப்பிக்கத்தக்க வலுசக்தி மூலங்கள் தொடர்பில் விசேட அவதானம் செலுத்துமாறு ஜனாதிபதி ஆலோசனை
+### The President's advisory to pay special attention to renewable renewal sources
 
 *2024-12-05 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200542) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் வலுசக்தி அமைச்சின் அதிகாரிகளுக்கு இடையிலான சந்திப்பொன்று வியாழக்கிழமை (05) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+President emphasizes renewable energy focus: Meeting discusses solar power expansion and contract review.
 
-இந்த சந்திப்பில் மீள்புதுப்பிக்கத்தக்க வலுசக்தி குறித்து விசேட அவதானம் செலுத்தப்பட்டதுடன், சூரிய சக்திகள வேலைத்திட்டம் தொடர்பிலும் விரிவாக ஆராயப்பட்டது. ஒப்பந்தம் செய்யப்பட்ட வேலைத்திட்டங்களை மீளாய்வு செய்து அவற்றில் பயனுள்ள வேலைத்திட்டங்களை விரைவில் ஆரம்பிக்குமாறு வலியுறுத்திய ஜனாதிபதி, ஒப்பந்தம் செய்யப்பட்ட வேலைத்திட்டங்கள் செயல்திறன் அற்றவையாக காணப்படும் பட்சத்தில் அவை தொடர்பில் உரிய நடவடிக்கைகளை மேற்கொள்ளுமாறும் அறிவுறுத்தினார்.
+🟩
 
-வலுசக்தி அமைச்சர் மின் பொறியியலாளர் குமார ஜயகொடி, இலங்கை மின்சார சபையின் தலைவர் கலாநிதி திலக் சியம்பலாபிட்டிய, இலங்கை நிலைபெறுதகு வலு அதிகார சபையின் தலைவர் பேராசிரியர் டீ.எம்.டபிள்யூ.ஜே.பண்டார, இலங்கை மின்சாரம் (தனியார்) நிறுவன தலைவர் பொறியியலாளர் ஜனக அலுத்கே, இலங்கைப்  பெற்றோலியக் கூட்டுத்தாபனத்தின் தலைவர் டீ.ஜே.ராஜகருணா   உள்ளிட்ட சிரேஷ்ட அதிகாரிகள் பலர் இந்தக் கலந்துரையாடலில் கலந்துகொண்டிருந்தனர்.
+A meeting between President Anura Kumara Dissanayake and officials of the Ministry of Power was held at the Presidential Office on Thursday afternoon.
+
+Special attention was paid to the reinforcement of the reinforcement and the solar power program was extensively investigated.. The President insisted that the contracting programs would be reviewed and the useful programs of the contracting programs were to be launched soon and advised to take appropriate measures if the contracting programs were ineffective.
+
+Minister of Electricity Engineer Kumara JayakodySeveral senior officials, including Rajakaruna, were present at the discussion.
 
 ◼️
 
 [Data](articles/d54ca4a7.json)
 
+[Extended Data](ext_articles/d54ca4a7.ext.json)
+
 ---
 
-### ரேணுக பெரேராவின் கைது அரசியல் பழிவாங்கல்; பொதுஜனபெரமுன
+### Renuka Perera's arrest political revenge;Popresta
 
 *2024-12-05 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200541) · `ta`
 
-1980 களில் மக்கள் விடுதலை முன்னணி இனவாதத்தை முன்னிலைப்படுத்தி  மக்களை கொலை செய்யும் போது அதற்கு எதிராக ரேணுக பெரேரா முன் நின்றவர். அவ்வாறான ஒருவரை இந்த அரசாங்கம் கைது செய்வது அரசியல் பழிவாங்கலாகவே நாம் பார்க்கிறோம்.
+Here's a summary of 200 characters:
 
-நாட்டு மக்களுக்கு பொய்க்கூறி அதிகாரத்துக்கு வந்த அநுரகுமார திசாநாயக்க தலைமையிலான  அரசாங்கம் தற்போது வழங்கிய வாக்குறுதிகளை நிறைவேற்ற முடியாமல் மக்களை திசை திருப்பவே இவ்வாறு  கைதுகளை  மேற்கொள்கிறது என பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்துள்ளார்
 
-கொழும்பில் அமைந்துள்ள கட்சியின் தலைமை அலுவலகத்தில் வியாழக்கிழமை (5) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது,
 
-கட்சியின் நிர்வாக உறுப்பினர் ரேணுக பெரேராவின் கைது தொடர்பில் ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+Renuka Perera's arrest seen as political revenge by PA. Gov't accused of distracting public from unfulfilled promises. Opposition claims suppression attempt targeting PA specifically. Government feared of PA's influence.
 
-...
+🟩
+
+In the 1980s. We see this government's arrest as a political revenge.
+
+The General Secretary of the PA is being committed to distracting the people, unable to fulfill the promises made by the Government of Anuragumara Dissanayake, who came to power to the nation.
+
+During a media briefing held at the party headquarters in Colombo on Thursday (5)
+
+He was responding to a question raised by journalists regarding the arrest of party executive member Renuka Perera.
+
+Renuka Perera is not a racist.. This is an attempt to suppress the parties who are acting against them.
+
+There are many oppositions in Parliament. But the People's Liberation Front has targeted the PA. The government is afraid of the PA.. The Minister of Parliament told Parliament that Heroes Day was celebrated in support of the LTTE in many parts of the North.
+
+It is clear that the government has made political revenge without respecting the law even when the court has issued a directive.
+
+◼️
 
 [Data](articles/1f1cc88b.json)
 
+[Extended Data](ext_articles/1f1cc88b.ext.json)
+
 ---
 
-### இலங்கையின் பொருளாதார மறுசீரமைப்பு அமெரிக்கா எத்தகைய உதவிகளை வழங்கலாம்? - இருநாட்டு உயர்மட்டப்பிரதிநிதிகளுக்கு இடையிலான சந்திப்பில் ஆராய்வு
+### What assistance can the US provide the economic reform of Sri Lanka?- A review at a junction between two foreign high -level representatives
 
 *2024-12-05 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200539) · `ta`
 
-நாட்டின் பொருளாதார மறுசீரமைப்பு மற்றும் வளர்ச்சி இலக்குகளை அடைந்துகொள்வதற்கு அமெரிக்காவினால் எத்தகைய உதவிகளை வழங்கமுடியும் என்பது குறித்து இருநாடுகளுக்கும் இடையிலான உயர்மட்ட பிரதிநிதிகளின் சந்திப்பில் ஆராயப்பட்டுள்ளது.
+US assistance for Sri Lanka's economic reform: US officials met to discuss potential aid for restructuring and development. Topics included strengthening financial ties and supporting economic goals.
 
-தெற்கு மற்றும் மத்திய ஆசிய விவகாரங்களுக்குப் பொறுப்பான அமெரிக்க இராஜாங்க உதவிச்செயலர் டொனால்ட் லூ தலைமையில் சர்வதேச அபிவிருத்திக்கான அமெரிக்க முகவரகத்தின் பிரதி உதவிப்பணிப்பாளர் அஞ்சலி கௌர் மற்றும் திறைசேரியின் பிரதி உதவிச்செயலர் ரொபர்ட் கப்ரொத் ஆகியோர் அடங்கிய அமெரிக்க உயர்மட்டப்பிரதிநிதிகள் குழுவினர் வியாழக்கிழமை (5) காலை கொழும்பு பண்டாரநாயக்க சர்வதேச விமானநிலையத்தின் ஊடாக நாட்டை வந்தடைந்தனர்.
+🟩
 
-அதன்படி அமெரிக்க திறைசேரியின் பிரதி உதவிச்செயலர் ரொபர்ட் கப்ரொத் மற்றும் திறைசேரியின் செயலாளர் மஹிந்த சிறிவர்தன ஆகியோருக்கு இடையிலான சந்திப்பு நேற்றைய தினம் நிதியமைச்சில் நடைபெற்றது. இச்சந்திப்பில் இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங்கும் கலந்துகொண்டிருந்தார்.
+The meeting of top -level representatives between the two countries has been investigated on what assistance the US can provide to achieve the country's economic restructuring and development goals.
+
+The US High Commission's Assistant Assistant Director of International Development, Anjali Gaur and Treasury's Deputy Assistant Secretary Robert Kaprooth, headed by US State Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, arrived in the Bandaranaike International Airport on Thursday morning.
+
+Accordingly, a meeting between US Treasury Deputy Assistant Secretary Robert Caproth and Treasury Secretary Mahinda Siriwardena held a meeting with the Finance Ministry yesterday.. US Ambassador to Sri Lanka Julie Sangam was also present at the meeting.
 
 ...
 
 [Data](articles/51723abc.json)
 
+[Extended Data](ext_articles/51723abc.ext.json)
+
 ---
 
-### சிறந்த அரசொன்றைக் கட்டியெழுப்புவதில் ஊடகங்களை, வெளிநபர்களாக அன்றி பங்குதாரர்களாகவே கருதுகிறோம் - ஜனாதிபதி
+### In building a better state, we consider the media as foreigners as foreigners - the President
 
 *2024-12-05 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200537) · `ta`
 
-மிகச்சிறந்த அரசொன்றைக் கட்டியெழுப்பி அனைத்து பிரஜைகளுக்கும் சிறந்த வாழ்க்கைத்தரத்தை ஏற்படுத்தும் பணியில் ஊடகங்களை வெளிநபர்களாக அன்றி பங்குதாரர்களாக தான் கருதுவதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-இலத்திரனியல் ஊடக நிறுவனங்களின் பிரதானிகளுடன் வியாழக்கிழமை (05) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற சந்திப்பின் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
 
-சிறந்த அரசியல் கலாசாரத்தை மக்கள் எதிர்பார்ப்பதாகவும், அதற்காகவே தற்போதைய அரசாங்கத்தை மக்கள் தெரிவு செய்துள்ளதாகவும், மக்கள் எதிர்பார்க்கும் புதிய அரசியல், சமூக மற்றும் பொருளாதார மாற்றத்தை ஏற்படுத்துவதற்கு இணையுமாறு அனைத்து ஊடக நிறுவனங்களுக்கும் அழைப்பு விடுத்ததாகவும் ஜனாதிபதி குறிப்பிட்டார்.
 
-அரசியல் மற்றும் பொருளாதார விடயங்கள் தொடர்பில் எந்த நேரத்திலும் அரசாங்கத்தை கேள்விக்குட்படுத்தவோ விமர்சிக்கவோ ஊடகங்களுக்கு எந்த தடையும் இல்லையென்றாலும் தேசிய ஒருமைப்பாட்டிற்கு பாதகமான பொய்யான தகவல்களை வெளியிட வேண்டாம் என  ஊடக நிறுவன பிரதானிகளிடம் ஜனாதிபதி அநுரகுமார திசாநாயக்க கோரிக்கை விடுத்தார்.
+Pres. Anura Kumara Dissanayake views media as partners in nation-building. He seeks cooperation to improve political culture & economy. Emphasizes truth in reporting, opposes communalism, supports media freedom. Discusses anti-poverty programs & Clean Sri Lanka initiative.
+
+🟩
+
+President Anura Kumara Dissanayake said that he considers the media to be a partner, not just foreigners in the task of building a great state and making all citizens a better standard of living.
+
+The President made this statement during a meeting held at the Presidential Office on Thursday (05) with the chiefs of electronic media institutions.
+
+The President said that the people are expecting a better political culture and that the people have elected the current government, and that all media institutions have invited all media institutions to make a new political, social and economic change.
+
+President Anura Kumara Dissanayake has asked the media company chiefs not to publish false information on national integrity, even if there is no restriction on the media to question or criticize the government at any time on political and economic matters.
 
 ...
 
 [Data](articles/ea24893e.json)
+
+[Extended Data](ext_articles/ea24893e.ext.json)
 
 ---
 
@@ -780,17 +862,29 @@ In this statement, the citizens of each country have investigated the expression
 
 ---
 
-### மனிதஉரிமை மீறல் குற்றவாளிகளுக்கு எதிராகத் தடைவிதிக்குமாறு கோரி  மேற்குலக நாடுகளுக்கு ஆவணங்களை அனுப்பியது உண்மை, நீதிக்கான செயற்திட்டம்
+### It is true that documents sent to the West demanding a ban on human rights violations
 
 *2024-12-05 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200490) · `ta`
 
-இலங்கையில் மனித குலத்துக்கு எதிரான மிகமோசமான மீறல் குற்றங்களிலும், ஊழல் மோசடிகளிலும் ஈடுபட்ட அரச மற்றும் பாதுகாப்புத்துறை அதிகாரிகளுக்கு எதிராக தடைகளையும், நுழைவு அனுமதித்தடையையும் விதிக்குமாறு வலியுறுத்தி அதனுடன் தொடர்புடைய 60 க்கும் மேற்பட்ட கோரிக்கைகளையும், ஆவணங்களையும் அமெரிக்கா, பிரிட்டன், அவுஸ்திரேலியா, கனடா, ஐரோப்பிய ஒன்றியம் ஆகியவற்றின் அரசாங்கங்களுக்கும், ஐ.நா சபைக்கும் சர்வதேச உண்மை மற்றும் நீதிக்கான செயற்திட்டம் அனுப்பிவைத்திருக்கிறது.
+Here's a summary of 200 characters:
 
-ஜொஹனஸ்பேர்க்கை தளமாகக்கொண்டு யஸ்மின் சூக்கா தலைமையில் இயங்கிவரும் சர்வதேச மனித உரிமைகள் அமைப்பான உண்மை மற்றும் நீதிக்கான செயற்திட்டமானது இலங்கையின் அரச மற்றும் பாதுகாப்புத்துறை அதிகாரிகளுக்கு எதிரான தடைகள் மற்றும் விசா அனுமதி தடைகள் தொடர்பான 60 க்கும் மேற்பட்ட கோரிக்கைகளைச் சமர்ப்பித்திருப்பதுடன் உலகளாவிய சட்ட வரம்பெல்லையின் பிரகாரம் வழக்குப்பதிவுகளையும் கோரியிருக்கிறது.
+
+
+International Human Rights Organization submits 60+ demands to US, UK, Australia, Canada, EU against Sri Lanka officials for human rights violations & corruption. Demands sanctions, visa bans, legal action. Focuses on past war crimes, torture, sexual violence, illegal arrests.
+
+🟩
+
+The United Nations, Britain, Australia, Canada and the European Union have urged the government, Australia, Canada and the European Union to impose obstacles and sanctions against state and security officials involved in corruption crimes and corruption scandals in Sri Lanka.The project for justice has been sent.
+
+The International Human Rights Organization, the International Human Rights Organization, headed by Yasmin Sukka, has submitted more than 60 demands relating to banning and visa clearance against Sri Lanka's state and security officials and demanding suit in accordance with the global limit.
+
+These demands and documents, prepared on the Human Rights Day (10th), have been sent to the governments of the United States, Britain, Australia, Canada and the European Union.
 
 ...
 
 [Data](articles/644bc76f.json)
+
+[Extended Data](ext_articles/644bc76f.ext.json)
 
 ---
 
@@ -2453,33 +2547,5 @@ So far, 68 Indian fishing boats have been seized and 529 Indian fishermen have b
 [Data](articles/ea7ad215.json)
 
 [Extended Data](ext_articles/ea7ad215.ext.json)
-
----
-
-### “The government must obtain parliamentary permission for it”
-
-*2024-12-05 12:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-அதற்கு-பாராளுமன்ற-அனுமதியைப்-பெற-வேண்டும்/175-348274) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"MP Kabir Hasim: Govt needs Parl't approval for credit stability deal. Wants clarity on new or continued agreement. Rs. 3 billion loan allocated. Legal fees for debt restructuring program."
-
-🟩
-
-United People's Power MP Kabir Hasim today told parliament that the government should obtain parliamentary permission before implementing the credit stability agreement with the International Sovereignty Declaration holders.
-
-Speaking at the debate on the referendum in the House today, MP Hashim said that MPs should know the details of the credit stability agreement.
-
-“We would like to know if you are continuing the agreement made by the previous government or whether you have embarked on a new agreement,” he said.
-
-Rs.. 3 billion loan has been allocated for consistency and a further Rs.. He also said that the fee for legal counseling associated with the 3 billion debt restructuring program has been allocated.
-
-◼️
-
-[Data](articles/f3359bfd.json)
-
-[Extended Data](ext_articles/f3359bfd.ext.json)
 
 ---

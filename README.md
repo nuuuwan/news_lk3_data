@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 04:26:36**
+As of **2024-12-06 04:42:49**
 
 ## Newspaper Stats
 
-*Scraped **58,723** Articles*
+*Scraped **58,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 598
 bbccomsinhala | 614
 islandlk | 3,518
 economynextcom | 3,572
-dailyftlk | 4,047
+dailyftlk | 4,049
 dailymirrorlk | 4,733
 adalk | 5,569
 adaderanalk | 7,131
@@ -26,11 +26,39 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,722 (100.0%) of 58,723 articles have been extended.
+58,722 (100.0%) of 58,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### Marikkar questions Govt. on PAYE tax and promised relief measures
+
+*2024-12-06 04:23:28* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-questions-Govt-on-PAYE-tax-and-promised-relief-measures/56-770147) · `en`
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday raised concerns in Parliament regarding the Government’s tax policies, particularly the Pay-As-You-Earn (PAYE) tax and the promises made by the National People’s Power (NPP) during the elections to provide tax relief.
+
+...
+
+[Data](articles/55f3c0bb.json)
+
+---
+
+### ITAK MPs call on President
+
+*2024-12-06 04:21:56* · [`dailyftlk`](https://www.ft.lk/news/ITAK-MPs-call-on-President/56-770146) · `en`
+
+The Illankai Tamil ArasuKadchi (ITAK) Parliamentarians on Wednesday called on President Anura Kumara Dissanayake at the Presidential Secretariat.
+
+During the discussion, the ITAK Parliamentarians brought to the President’s attention the longstanding challenges faced by the people in the Northern and Eastern regions.
+
+ITAK Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmugam Kugathasan, Shanakiyan Rasamanickam, Gnanamuthu Srineshan, Kaveenthiran Kodeeswaran, Elayathamby Srinath, and Thurairasa Raviharan also attended the meeting.
+
+◼️
+
+[Data](articles/0ba80f59.json)
+
+---
 
 ### ’ஆடையுடன் பயணித்தார் ரணில்: ஆடையின்றி அனுர’
 
@@ -2483,53 +2511,5 @@ Lohan Ratwatte and his wife have been arrested on charges of using an illegal im
 [Data](articles/07c0fe62.json)
 
 [Extended Data](ext_articles/07c0fe62.ext.json)
-
----
-
-### 27 people affected by the Israeli war returned to the country
-
-*2024-12-05 13:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-யுத்ததால்-பாதிக்கப்பட்ட-27-பேர்-நாடு-திரும்பினர்/175-348275) · `ta`
-
-27 Sri Lankans return home after Israel-Lebanon conflict, including 5 children, 3 women, 19 men, arriving at Katunayake airport on Emirates flight EK-648.
-
-🟩
-
-27 Sri Lankans staying in Lebanon due to the Lebanon-Israeli war in the Middle East arrived at the Katunayake airport on Wednesday (04).
-
-The arrival of the Katunayake airport included 05 small children, 03 women and 19 men.
-
-The International Organization for Migration, Sri Lanka Embassy in Lebanon and officials of the Sri Lankan Foreign Ministry have taken steps to send these Sri Lankans to Sri Lanka.
-
-Similarly, a group of Sri Lankans have been brought to Sri Lanka on 11/06, 11/12, 11/28 and 12/01.
-
-These 27 Sri Lankans arrived at the Katunayake airport from Dubai at 11.30 pm on Wednesday (04) at the Emirates Airlines flight, EK-648.
-
-◼️
-
-[Data](articles/75b73143.json)
-
-[Extended Data](ext_articles/75b73143.ext.json)
-
----
-
-### Lohan Ratwatte and wife granted bail
-
-*2024-12-05 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104018/lohan-ratwatte-and-wife-granted-bail) · `en`
-
-Former State Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte have been granted bail today (05) by the Nugegoda Magistrate’s Court.
-
-Accordingly, the court set a cash bail of Rs. 25,000 for each individual, along with two personal bonds of Rs. 1 million each.
-
-Additionally, the police confirmed that the court has issued an overseas travel ban on Lohan Ratwatte.
-
-Lohan Ratwatte and his wife were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, while they had previously been remanded in custody until December 06 by the Nugegoda Magistrate’s Court.
-
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
-
-...
-
-[Data](articles/851d5734.json)
-
-[Extended Data](ext_articles/851d5734.ext.json)
 
 ---

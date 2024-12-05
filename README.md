@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 01:42:44**
+As of **2024-12-06 02:14:10**
 
 ## Newspaper Stats
 
@@ -26,37 +26,57 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,710 (100.0%) of 58,720 articles have been extended.
+58,715 (100.0%) of 58,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### மோசடி என்று விமர்சித்த தேசிய மக்கள் சக்தி அரசாங்கம் ஒப்பந்தம் கைச்சாத்திடுவதற்கு முன்னரே கடன் செலுத்தலுக்கு நிதி ஒதுக்கியுள்ளது - கபீர் ஹாசிம்
+### The National People's Power Government has allocated funds for debt before the government has been signed - Kabir Hashim
 
 *2024-12-06 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200540) · `ta`
 
-சர்வதேச பிணைமுறி பத்திரங்களில் இருந்து பெற்றுக்கொண்ட கடன்கள் மோசடியானது என்று விமர்சித்த தேசிய மக்கள் சக்தி அரசாங்கம் ஒப்பந்தம் கைச்சாத்திடுவதற்கு முன்னரே கடன் செலுத்தலுக்கு நிதி ஒதுக்கியுள்ளது.  ஆடை அணிந்துக் கொண்டா வணிக கடன் தொடர்பான ஒப்பந்தத்தை அரசாங்கம் கைச்சாத்திட போகிறது என்று கேட்க தோன்றுகிறது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கபீர் ஹாசிம் தெரிவித்தார்.
+National People's Power Government allocates funds for loans before agreement. Criticizes international bail bonds. Kabir Hashim speaks against system changes in agriculture and industry. No clear economic plan or cost management. Privileges for former President Ranil Wickremesinghe unchanged despite claims.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (5) நடைபெற்ற அரசாங்கத்தின் இடைக்கால கணக்கறிக்கை மீதான  விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-தேசிய மக்கள் சக்தியின் நிர்வாகத்தில் முறைமை மாற்றம் எதனையும் எதிர்பார்க்க  முடியவில்லை. பாரம்பரிய விவசாய முறைமை தவறு என்றால்  கூட்டு விவசாய முறைமைக்கு செல்ல வேண்டும். அதேபோல் கைத்தொழில் துறை தவறு என்றால் அரச கட்டமைப்புடனான கைத்தொழில் துறைக்கு செல்ல வேண்டும்.
+The National People's Power Government has allocated funds for loans before the signing of the agreement, which criticized the loans from international bail bonds.United People's Power MP Kabir Hashim said that the government seems to be going to sign a business loan agreement.
+
+He was speaking at the debate on the government's interim report on Thursday (5) in Parliament.
+
+Can't expect any system change in the administration of national people's power. If the traditional agricultural system is wrong to go to the joint agricultural system. Similarly, if the industrial sector is wrong, you have to go to the state -owned industrial industry.
+
+There is no change in the president's policy speech and the interim reports that are currently put forward. Economic Deputy Minister presented the interim report. But the need for millions of funds and the cost management is not clarified to the council.
 
 ...
 
 [Data](articles/6234dd4b.json)
 
+[Extended Data](ext_articles/6234dd4b.ext.json)
+
 ---
 
-### சவூதி அரேபியா, உச்சி மாநாடுகளின் காப்பகம் மற்றும் உலகின் திசைகாட்டி
+### Saudi Arabia, Archive of Summit Conferences and the world's compass
 
 *2024-12-06 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200538) · `ta`
 
-சவூதி அரேபியா என்பது, அரபு, இஸ்லாமிய மற்றும் சர்வதேச அரங்குகளில் சர்வதேச உச்சிமாநாடுகள் மற்றும் மாநாடுகளை நடத்துவதில் அதன் தலைமையை நிலைநிறுத்தியுள்ளது, உரையாடலின் கலங்கரை விளக்கமாக, முடிவெடுக்கும் தளமாக, மற்றும் ஒவ்வொரு மன்றத்திலும் பின்பற்றப்பட்டு சுட்டிக்காட்டப்பட வேண்டிய ஒரு முன்மாதிரியாக மாறியுள்ள ஒரு தேசமாகும்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Saudi Arabia hosts numerous international summits and conferences, showcasing its leadership in politics, economics, defense, and environment. Recent events include Arab-Islamic summits, mining conferences, real estate forums, aviation gatherings, fintech meetings, logistics forums, and UNIDO industrial policy councils. These events attract global leaders, fostering cooperation and economic growth.
+
+🟩
+
+Saudi Arabia has established its leadership in the Arabian, Islamic and international halls, which has established its leadership in the holding of international summit and conferences, a nation that has become a lighthouse, a decision -making site, and a nation that has been followed in every forum.
+
+For decades, Saudi Arabia has held many summits with the participation of presidents and world leaders of the world, discussing international issues and presenting effective solutions to common challenges. Thus, Saudi Arabia is holding from Arabia, Islamic, Arab and International Conferences and Meetings. These summits and conferences are different types of. And Saudi Arabia is the main standard axis, and it is at the forefront of working countries aimed at creating peace and sustainable development. It also serves as a manner in which humanity will benefit the welfare of the people of the world.
 
 ...
 
 [Data](articles/36a3b008.json)
+
+[Extended Data](ext_articles/36a3b008.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 08:09:44**
+As of **2024-12-05 08:59:46**
 
 ## Newspaper Stats
 
-*Scraped **58,555** Articles*
+*Scraped **58,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,171 @@ islandlk | 3,518
 economynextcom | 3,558
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,545
-adaderanalk | 7,105
+adalk | 5,547
+adaderanalk | 7,108
 tamilmirrorlk | 8,335
 virakesarilk | 9,589
-adaderanasinhalalk | 10,110
+adaderanasinhalalk | 10,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,538 (100.0%) of 58,555 articles have been extended.
+58,544 (100.0%) of 58,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### Vote on Account to be presented in Parliament today
+
+*2024-12-05 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104006/vote-on-account-to-be-presented-in-parliament-today) · `en`
+
+The Vote on Account for the first 04 months of the year 2025, including government recurrent and capital expenditure, public debt servicing and debt restructuring expenses is scheduled to be presented to Parliament today (05).
+
+Prime Minister Dr Harini Amarasuriya will present the Vote on Account to the Parliament, with a related debate scheduled for today and tomorrow (06).
+
+Accordingly, an Interim Vote on Account will be presented to Parliament for the allocation of funds required to maintain ongoing projects and public services for the first 04 months of the year 2025.
+
+On November 25, the Cabinet of Ministers approved the proposal presented by President Anura Kumara Dissanayake regarding the preparation of the Vote on Account.
+
+Additionally, Speaker of the House Minister Bimal Rathnayake stated that the revised terms of the agreement with the International Monetary Fund (IMF) will be included in the upcoming budget.
+
+...
+
+[Data](articles/b861897c.json)
+
+---
+
+### Final decision on National List MP's in gas cylinder
+
+*2024-12-05 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204054) · `si`
+
+National List MP selection: NDF to announce final decision tomorrow. Former Minister Kanchana Wijesekera proposed for MP list. Sri Lanka General Front holds special meeting at Sri Lanka Civil Aryn Front.
+
+🟩
+
+The final verdict on the remaining national lists of the New Democratic Front will be announced tomorrow (06).
+
+He said that the name of former Minister Kanchana Wijesekera has been proposed for the post of MP list.
+
+A special discussion of the members of the Sri Lanka General Front was held at the Sri Lanka Civil Aryn Front (04).
+
+◼️
+
+[Data](articles/079e7466.json)
+
+[Extended Data](ext_articles/079e7466.ext.json)
+
+---
+
+### A statement from the government that the IMF agreement has been revised
+
+*2024-12-05 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204053) · `si`
+
+Government revises IMF agreement; amendments in future budget, says Minister Bimal Ratnayake during policy debate.
+
+🟩
+
+Leader Minister Bimal Ratnayake says that the amendments made with the International Monetary Fund can be found in a future budget.
+
+Bimal Ratnayake made these comments participating in the debate on the government's policy statement.
+
+"We mean that the International Monetary Fund has been in the framework of the next three years, and we have to work to work. We hope to make amendments inside. Yes, there is amendment. Amendments have been made to discuss with them. These amendments can be found in the publication of the people of this amendment. He has money power to Parliament. Experienced Ranil Wickremesinghe everywhere was we lied to the VAT not reduced. Need to reduce the vate. Reduces the vate. Who can reduce it?It's a cash bill. He also introduced tuition to our Prime Minister. Only a parliamentary act can be reduced. The first plan is running with the budget. "
+
+◼️
+
+[Data](articles/f78f5276.json)
+
+[Extended Data](ext_articles/f78f5276.ext.json)
+
+---
+
+### French government collapses in no-confidence vote
+
+*2024-12-05 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104005/french-government-collapses-in-no-confidence-vote) · `en`
+
+The French government has collapsed after Prime Minister Michel Barnier was ousted in a no-confidence vote.
+
+MPs voted overwhelmingly in support of the motion against him - just three months after he was appointed by President Emmanuel Macron.
+
+Opposition parties had tabled the motion after the former Brexit negotiator controversially used special powers to force through his budget without a vote.
+
+It marks the first time the country’s government has collapsed in a no-confidence vote since 1962.
+
+The development will further France’s political instability, after snap elections in summer led to no single group having a majority in parliament.
+
+MPs were required to either vote yes or abstain from Wednesday’s vote, with 288 votes needed for the motion to pass. A total of 331 voted in support of the motion.
+
+Barnier is now obliged to present the resignation of his government, and the budget which triggered his downfall is defunct.
+
+...
+
+[Data](articles/f42301ae.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-12-05 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104004/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+Several spells of showers will occur in Northern and Eastern provinces and in Anuradhapura district, the Department of Meteorology says.
+
+Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and Southern provinces and in Nuwara-Eliya, Kandy, Kurunegala, Galle and Matara districts during the evening or night.
+
+Misty conditions can be expected in most places of the island during the morning.
+
+◼️
+
+[Data](articles/491c507f.json)
+
+---
+
+### No-confidence motion against the French government
+
+*2024-12-05 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204052) · `si`
+
+French govt faces no-confidence vote, PM Barner loses. First such motion since 1962. Cabinet resignation expected. Macron appointed PM in Sept.
+
+🟩
+
+The no-confidence in the cabinet, including the French Prime Minister Michael Barner, has won the no-confidence board.
+
+At the election held yesterday (04), 288 votes were needed to win the no-confidence in the proposal.
+
+This is the first time that a no-confidence in the France, 1962.
+
+After defeating the no-confidence, the Prime Minister and the Cabinet of Cabinet will resign today (05).
+
+In September, President Iimauuel McCron appointed Prime Minister, as the Prime Minister of France.
+
+◼️
+
+[Data](articles/9f460f5c.json)
+
+[Extended Data](ext_articles/9f460f5c.ext.json)
+
+---
+
+### ජීවිතයක් බිලිගත් ප්‍රේම කතාව
+
+*2024-12-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204051) · `si`
+
+සිරිපාගම පොලිස් වසමේ කැටවල ප්‍රදේශයේ දී පුද්ගලයෙකු විසින් තරුණියකට පොල්ලකින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (04) උදෑසන මෙය සිදුව තිබූ අතර පහරදීමෙන් තුවාල ලැබූ තරුණියව ගිලීමලේ රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර  සඳහා රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+
+පහරදීම සිදුකළ පුද්ගලයා සමග මියගිය තරුණිය ප්‍රේම සබඳතාවයක් පවත්වාගෙන ගොස් ඇති අතර දෙදෙනා අතර ඇති වූ බහින්බස් වීමක් දුරදිග යෑමෙන් පොල්ලකින් පහර දී ඝාතනය කර ඇති බව විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+මෘත ශරීරය රත්නපුරය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධියෙන් පසු සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇත.
+
+සැකකරු අත්අඩංගුවට ගැනීම සඳහා සිරිපාගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/228b6e19.json)
+
+---
 
 ### May be raining in some areas
 
@@ -150,49 +300,73 @@ The All Ceylon Tamil Congress depends on the identity of the Sri Lankan.However,
 
 ---
 
-### மலையகத்தின் 200 வருட கால பிரச்சினைகளுக்கு  ஓரிரு இரவில் தீர்வு காண முடியாது - திகாம்பரம்
+### The 200-year problems of the hill country cannot be solved in a nightly- Thikambaram
 
 *2024-12-05 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200460) · `ta`
 
-மலையகத்தின் 200 வருடகால பிரச்சினைகளுக்கு ஓரிரு இரவில் தீர்வு காண முடியாது. கட்டம் கட்டமாகவே தீர்வு காண முடியும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் பழனி திகாம்பரம் தெரிவித்தார்.
+N
 
-பாராளுமன்றத்தில் புதன்கிழமை (4) நடைபெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நான்காவது தடவையாகவும் என்னை பாராளுமன்றத்துக்கு தெரிவு செய்த நுவரெலியா மாவட்ட மக்களுக்கு  நன்றி தெரிவித்துக் கொள்கிறேன்.  பாரிய அரசியல் மாற்றம் ஏற்பட்டுள்ளது. ஜனாதிபதிக்கும், புதிய அரசாங்கத்துக்கும வாழ்த்து தெரிவித்துக் கொள்கிறோம்.
+One night cannot be solved for the 200 -year problems of the hill country. United People's Power MP Palani Thikambaram said that the phase can only be resolved.
 
-நாட்டு மக்களின் நலன் கருதி அரசாங்கம் எடுக்கும் சிறந்த தீர்மானங்களுக்கு ஒத்துழைப்பு வழங்குவோம். அதேபோல் மக்களுக்கு எதிராக எடுக்கும் தீர்மானங்களுக்கு கடுமையாக எதிர்ப்பு தெரிவிப்போம்.  இனவாதம் மற்றும் மதவாதம் இல்லாத அரச சூழலை உருவாக்குவதாக ஜனாதிபதி குறிப்பிடுவதை வரவேற்கிறேன்.
+He was speaking at the second day debate on the President's Declaration of Policy on Wednesday (4) in Parliament.
+
+For the fourth time, I thank the people of the Nuwara Eliya district who elected me to Parliament.Have caused a massive political change. We congratulate the President and the new government.
+
+We will cooperate with the best decisions taken by the government for the welfare of the people. Similarly, we strongly oppose the decisions taken against the people.The President welcomes the fact that it is creating a state environment without racism and religion.
+
+The country faced many crises because the rulers of the past were promoting racism and communalism. So this situation should no longer change. The plantation people have supported President Anura Kumara Dissanayake.
 
 ...
 
 [Data](articles/01b248b5.json)
 
+[Extended Data](ext_articles/01b248b5.ext.json)
+
 ---
 
-### கிளிநொச்சி பூநகரி செல்லையா தீவு பகுதியில் ஆண் ஒருவரின் சடலம் மீட்பு
+### The body of a man in Kilinochchi Poonakari Selvaya Island area recovered
 
 *2024-12-05 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200459) · `ta`
 
-கிளிநொச்சி பூநகரி செல்லையா தீவு பகுதியில் நீர்நிலையில் ஆண்ஒருவரின்  சடலம் சற்று முன்னர் அடையாளம் காணப்பட்டுள்ளது.
+Body found in Kilinochchi: Man identified in Poonakari water area near Cheliya Island School.
 
-பூநகரி பிரதேச செயலாளர் பிரிவிற்குட்பட்ட பூநகரி பரந்தன் வீதியில் செல்லையா தீவு பாடசாலை அருகில் புதன்கிழமை (4) பிற்பகல் குறித்த சடலம் அடையாளம் காணப்பட்டுள்ளது.
+🟩
+
+The body of a man has been identified a while ago in the water area of ​​Poonakari Poonakari, Kilinochchi.
+
+The body was identified on Wednesday afternoon near the Cheliya Island School on Poonakari Paradhan Road, which belongs to the Poonakari Divisional Secretariat Division.
 
 ◼️
 
 [Data](articles/568f4507.json)
 
+[Extended Data](ext_articles/568f4507.ext.json)
+
 ---
 
-### அரசாங்கத்தின் இடைக்கால கணக்கு வாக்குப்பதிவாக 9,60,500 கோடி ரூபா ஒதுக்கீடு
+### 9,60,500 crores of rupees as the government's interim account
 
 *2024-12-05 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200458) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க அரசின் 2025 ஜனவரி  1 ஆம்  திகதியிலிருந்து  2025 ஆம் ஆண்டு ஏப்ரல் 30 ஆம்  திகதி வரையான 4 மாத காலப் பகுதிக்கான கணக்கு வாக்குப்பதிவாக 9,60,500 கோடி ரூபா  ஒதுக்கப்பட்டுள்ளது. இதில் பாதுகாப்பு அமைச்சு மற்றும் பொதுமக்கள் பாதுகாப்பு அமைச்சுக்களுக்கென 20801 கோடியே 95,75000 ரூபா ஒதுக்கப்பட்டுள்ளது.
+Here's a summary of 200 characters:
 
-அத்துடன் இந்த நிதியிலிருந்து ஜனாதிபதியின் செயல்முறை மற்றும் அபிவிருத்தி செயற்பாடுகளுக்காக 127 கோடியே 99,40000 ரூபாவும் பிரதமர் அலுவலகத்துக்காக 37 கோடியே 80 இலட்சம் ரூபாவும் நிதி அமைச்சுக்காக 18603 கோடியே 18,12000 ரூபாவும் பாதுகாப்பு அமைச்சுக்காக 14295கோடியே 50 இலட்சம் ரூபாவும் நீதி,தேசிய ஒருமைப்பாட்டு அமைச்சுக்காக 1727 கோடியே 31,60000 ரூபாவும் சுகாதாரம் மற்றும் ஊடகத்துறை அமைச்சுக்காக 16199 கோடியே 99,98000 ரூபாவும் கல்வி,உயர்கல்வி அமைச்சுக்காக 9200 கோடி ரூபாவும் பொது நிர்வாக ,மாகாணசபைகள் அமைச்சுக்காக 17047 கோடியே 64,15000 ரூபாவும் பொது மக்கள் பாதுகாப்பு அமைச்சுக்காக 6506 கோடியே 45,75000 ரூபாவும் ஒதுக்கப்பட்டுள்ளன.
+
+
+₹9,60,500 crore allocated for Jan 1, 2025 - Apr 30, 2025. Key allocations: ₹2,0801 crore for Defense & Public Security, ₹127 crore for Presidential Affairs, ₹37 crore for PM's Office, ₹18,603 crore for Finance Ministry, ₹14,295 crore for Justice Ministry, ₹9,200 crore for Education Ministry.
+
+🟩
+
+9,60,500 crores has been allocated for the 4 -month period from January 1, 2025 to April 30, 2025, President Anura Kumara Dissanayake.. 20801 crore 95,75,000 rupees has been allocated to the Ministry of Defense and the Ministry of Public Security.
+
+In addition, 127 crores 99,40000 rupees for the President's Process and Development Process, 37 crores 80 lakhs for the Prime Minister's Office, 18603 crores for the Ministry of Finance, 14295 crores 50 lakhs for the Ministry of Defense and the Ministry of Justice and the Ministry of Justice and the Ministry of Justice and the Ministry of Justice and the Ministry of Justice16199 crores 99,98000 rupees, Rs 9200 crore for the Ministry of Education and Higher Education, Rs.
 
 ...
 
 [Data](articles/c44c96f4.json)
+
+[Extended Data](ext_articles/c44c96f4.ext.json)
 
 ---
 
@@ -1804,6 +1978,22 @@ The matter was revealed during the hearing of the Court of Appeal, WM Mendis & C
 
 ---
 
+### මෙන්ඩිස් සමාගමේ බලපත්‍රය අත්හිටුවයි
+
+*2024-12-04 18:35:24* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමේ-බලපත්‍රය-අත්හිටුවයි/11-413464) · `si`
+
+ඩබ්ලිව්.එම්. මෙන්ඩිස් සහ සමාගම විසින් ගෙවිය යුතු හිඟ සුරාබද්ද හා ඊට අදාළව 3% මාසිකව ගෙවිය යුතු අධිභාර නොගෙවීම නිසා මත්පැන් නිෂ්පාදන බලපත්‍රය අද (05දා) සිට අත්හිටුවන බව සුරාබදු දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මෙම සමාගම විසින් ගෙවිය යුතු රුපියල් බිලියන පහයි දශම හතක මුදල ගෙවීම පැහැර හැරීම නිසා සුරාබදු ආඥා පනතේ නෛතික විධිවිධාන ප්‍රකාරව මෙම සමාගමේ මත්පැන් නිෂ්පාදන බලපත්‍රය අද සිට අත්හිටුවීමට තීරණය කර තිබෙන බවද එම දෙපාර්තමේන්තුව මාධ්‍ය නිවේදනයක් නිකුත් කරමින් ඊයේ (04දා) සඳහන් කළේය.
+
+මේ අනුව අද සිට මත්පැන් නිෂ්‍පාදන ක්‍රියාවලිය අත්හිටුවීමටත් හිඟ බදු හා අධිභාරය තවදුරටත් ගෙවීම පැහැර හරින්නේ නම් එම සමාගමට නිකුත් කර ඇති සියලුම සුරාබදු මත්පැන් බලපත්‍ර මේ මස 31 දිනෙන් ඔබ්බට දීර්ඝ නොකිරීමටත් කටයුතු කරන බවද එම නිවේදනය මගින් පෙන්වා දී ඇත.
+
+◼️
+
+[Data](articles/00069b84.json)
+
+---
+
 ### Minister comment on coconut prices
 
 *2024-12-04 18:35:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலையுயர்வு-குறித்து-அமைச்சர்-கருத்து/175-348249) · `ta`
@@ -2211,211 +2401,5 @@ As a result, the two were arrested on the basis of a complaint at the Grama Seva
 [Data](articles/aaa2a509.json)
 
 [Extended Data](ext_articles/aaa2a509.ext.json)
-
----
-
-### Director of Mega Star 'Chiranjeevi
-
-*2024-12-04 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200438) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Chiranjeevi stars in new film. Directed by Srikanth Odela (Dasara). Produced by Sudhakar Parkuri (SLV Cinemas) and Nani's Ununimas Productions. Red-themed poster released. Odela also works on "The Paradise" with Natural Star.
-
-🟩
-
-The official announcement of the unnamed new film starring Telugu star actor Mega Star Chiranjeevi has been released.
-
-Director Srikanth Odela, who directed the film 'Dasara' which was a critically successful and grossly successful film starring actor Nani. The film is being produced by producer Sudhakar Parkuri on behalf of SLV Cinemas. The film is provided by actor Nani's own film company, Ununimas Productions.
-
-The official announcement for the film has been released by a special poster. The film is said to be a red color background, as the film is said to be a red color background, as it is said to be a red color background.
-
-Meanwhile, director Srikanth Odela is currently working on the film 'The Paradise' starring 'Natural Star', which will begin the work of the film, and that the film will be released after the film's work will begin.
-
-◼️
-
-[Data](articles/545c1f5c.json)
-
-[Extended Data](ext_articles/545c1f5c.ext.json)
-
----
-
-### Actor Guru Somasundaram starrer 'Bottal (Batil) Radha'
-
-*2024-12-04 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200436) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil film "Bottal (Batil) Radha" stars Guru Somasundaram. Features song "Nana Kudikkaran" by lyricist/singer. Directed by Shawn Roldan, produced by Neelam Productions and Balloon Pictures.
-
-🟩
-
-Guru Somasundaram, the unique character of the Tamil film, has been released as the hero of the story and the song 'Nana Kudikkaran ..' featured in the film 'Bottal Radha' and the lyrical video for the song.
-
-Guru Somasundaram, Sanjana Natarajan, John Vijay, Maran, Bari Ilavalakan, Arumuga Vale, Abhi Ramaiah, JP Ramaiah, JP Ramaiah, KS Karna Prasad, Malathi Ashok NavinHave played. Shawn Roldan has composed the film, which has been recorded by Rupesh Shaji. The film was made on behalf of Neelam Productions and Balloon Pictures. Ranjith and D. N. Arun Balaji has co -produced.
-
-The film will be released on the twentieth day of the film, which will be released in the film House, 'Nana Kudikkaran ..'. This song is written and sung by the songwriter. The song is a great popular fans because of the songs about alcohol lovers.
-
-◼️
-
-[Data](articles/0cde9eab.json)
-
-[Extended Data](ext_articles/0cde9eab.ext.json)
-
----
-
-### 'Music Gnani'
-
-*2024-12-04 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200434) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Thirukkural" film stars newcomers & veterans. Directed by Balakrishnan, music by "Music Gnani" Ilayaraja. Story based on Thiruvalluvar's life & Tamil history. Produced by Ramana Communications.
-
-🟩
-
-A film is being made under the name of 'Thirukkural' to play the role of newcomer Kalachozhan, actress Dhanalakshmi, Thiruvalluvar and Mrs. Vasuki Thiruvalluvar.
-
-Director A.. M. Kalachchozhan, Dhanalakshmi, Oh in the movie 'Thirukkural' directed by Balakrishnan. A.. K. Sundar, Subramanya Siva, Kottachi, Guna Babu, Badini Kumar and many others star in. The film, which has been recorded by Edwin Sahai, has composed the music of 'Music Gnani' Ilayaraja.
-
-The story of the film, which is centered on the life of the author and the life of the Tamils ​​over the past two thousand years, through the book Thirukkural. Jayaraj has written. Madurai DP Rajendran and VIT University. It was produced by Ramana Communications with the contribution of Viswanathan.
-
-'Music Gnani' has written and composed songs for the film 'Music Gnani'. Tamil activists have been expecting the film as 'Thirukkural' in the musician's handicraft.
-
-◼️
-
-[Data](articles/8015c9f5.json)
-
-[Extended Data](ext_articles/8015c9f5.ext.json)
-
----
-
-### Extension of Time for Submission of Income Tax Account
-
-*2024-12-04 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200426) · `ta`
-
-Income tax account submission deadline extended to Dec 7, 2023. No penalties for submissions before this date. Weather-related delays considered.
-
-🟩
-
-The Department of Home Affairs has said that the deadline for submitting an income tax account will prolong the time.
-
-Accordingly, the deadline for submitting an income tax account for 2023 - 2024 has been extended till December 7.
-
-Initially, the deadline for submitting an Income Tax Account by the Department of Home Affairs was granted till November 30.
-
-However, considering the impact of many areas due to inclement weather, it has been decided to extend the time.
-
-The department notes that the taxpayer will not face fines or legal action if they submit to or before the new deadline.
-
-◼️
-
-[Data](articles/4910aac4.json)
-
-[Extended Data](ext_articles/4910aac4.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.40/50 to dollar, bonds down
-
-*2024-12-04 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-40-50-to-dollar-bonds-down-121722/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.40/50 to the US dollar on Wednesday from 290.50/55 to the US dollar on Tuesday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 9.35/45 percent, down from 9.40/50 percent.
-
-A bond maturing on 15.10.2027 closed at 10.15/25 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.03.2028 closed at 10.45/55 percent, down from 10.50/55 percent.
-
-A bond maturing on 15.09.2029 closed at 10.80/95 percent, from 10.80/90 percent. (Colombo/Dec4/2024)
-
-◼️
-
-[Data](articles/c6f780a0.json)
-
-[Extended Data](ext_articles/c6f780a0.ext.json)
-
----
-
-### Hirunika released
-
-*2024-12-04 17:09:32* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකා-නිදහස්/11-413458) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court of Appeal releases Hirunika Premachandra from accusations. Judges Nissanka Bandula Karunaratne and Shashi Mahendran presided over the case. Attorney Nishan Premathiratne represented Hirunika, promising to settle matters amicably. The petition examination was concluded based on this agreement.
-
-🟩
-
-The last Appeal to release her from the allegations of Hirunika Premachandra, who was contempted to take an examination by the Mount Lavinia Magistrate's Court, to release him from the accusation of the accused of the Parliament.Did.
-
-The Court of Appeal was determined to release the executive MP Hiranika Premachandra to withdraw the statement he had to withdraw such a statement.
-
-The complaint was considered by the Court of Appeal Nissanka Bandula Karunaratne and the Court of Appeal Judge Shashi Mahendran.
-
-Ms. Hirunika Premachandra appeared in court on a notice issued by the court.
-
-Attorney-at-Law Nishan Premathiratne appearing on behalf of former Parliamentarian Hirunika Premachandra, he made a promise to the judiciary and told her that the defendant was prepared to settle it.
-
-The lawyer added that the petitioner could end the examination that there is no objection.
-
-President's Counsel Ferman Kasim appeared in court for the defendant Hirunika Premachandra.
-
-...
-
-[Data](articles/35666eee.json)
-
-[Extended Data](ext_articles/35666eee.ext.json)
-
----
-
-### Court rejects W.M. Mendis’ petition challenging Excise license suspension
-
-*2024-12-04 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103995/court-rejects-wm-mendis-petition-challenging-excise-license-suspension) · `en`
-
-The Court of Appeal has ordered the dismissal of a petition filed by the W.M. Mendis & Co. Limited today (04) without taking it up for hearing.
-
-W. M. Mendis Distilleries had filed the petition seeking an order invalidating the letter issued by the Department of Excise informing that steps will be taken to suspend the excise licenses issued to the company if the outstanding excise duties were not settled before 30 November 2024.
-
-This order was issued by the Appeals Court judge bench consisting of Justices Sobhitha Rajakaruna and Mahen Gopallawa following an extended consideration of facts, declaring that the petition does not reveal any prima facie case.
-
-...
-
-[Data](articles/514f32c1.json)
-
-[Extended Data](ext_articles/514f32c1.ext.json)
-
----
-
-### Forward in the kinob rating
-
-*2024-12-04 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204036) · `si`
-
-Sri Lanka's cricket team ranks 7th globally. Kumindu Mendis shines in 5th Test. Joe Root leads England. Harry Brook and Kane Williamson top New Zealand.
-
-🟩
-
-Sri Lanka's group of Sri Lankan team has been able to proceed to the seventh place in the latest Test Cricket Ratings.
-
-It is said that the Kumindu Mendis had come forward on the skills in the 5th Test.
-
-The ICC Test-Cricket Exhibition Rankings continue to lead the Joe Root of the England team.
-
-In its respective, Harry Brook and Third Place, Cane Williamsan, has been owned by New Zealand team.
-
-◼️
-
-[Data](articles/72497c1b.json)
-
-[Extended Data](ext_articles/72497c1b.ext.json)
 
 ---

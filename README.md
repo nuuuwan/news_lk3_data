@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 17:44:16**
+As of **2024-12-05 18:23:51**
 
 ## Newspaper Stats
 
-*Scraped **58,643** Articles*
+*Scraped **58,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,560
+adalk | 5,562
 adaderanalk | 7,127
-tamilmirrorlk | 8,353
+tamilmirrorlk | 8,359
 virakesarilk | 9,599
 adaderanasinhalalk | 10,129
 
@@ -26,11 +26,131 @@ adaderanasinhalalk | 10,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,642 (100.0%) of 58,643 articles have been extended.
+58,646 (100.0%) of 58,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### தரமற்ற 3,000 தண்ணீர் போத்தல் சிக்கின
+
+*2024-12-05 18:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தரமற்ற-3-000-தண்ணீர்-போத்தல்-சிக்கின/76-348296) · `ta`
+
+சுகாதார அமைச்சினால் வழங்கப்பட்ட பதிவு சான்றிதழ் காலாவதியான நிலையில் போலியான தகவல்களை பயன்படுத்தி குடிநீர் போத்தல்கள் தயாரிக்கப்பட்டுள்ளமை மாவனெல்ல ஹென்மதகம பிரதேசத்தில் உள்ள நிறுவனமொன்றில் இருந்து நுகர்வோர் அதிகார சபை கைப்பற்றியுள்ளது.
+
+விநியோகிப்பதற்கு தயாராக இருந்த 500 மில்லி தண்ணீர் போத்தல்கள்1,904, ஒரு லீட்டர்  தண்ணீர் போத்தல்கள் 484, ஒன்றரை லீட்டர் தண்ணீர் போத்தல்கள் 576 19 லீட்டர் தண்ணீர் போத்தல்கள் 34 கைப்பற்றப்பட்டுள்ளன.
+
+தமக்கு இல்லாத தரநிலை அல்லது அனுசரணை இருப்பதாக பொய்யாக கூறுவது நுகர்வோர் விவகார அதிகாரசபை சட்டத்தின் பிரகாரம் தவறு எனவும், சம்பந்தப்பட்ட வர்த்தக நிறுவனத்திற்கு எதிராக வழக்குத் தாக்கல் செய்யவுள்ளதாக அதிகாரசபை மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/32b93f7c.json)
+
+---
+
+### சதொசவில் ஒரு வாடிக்கையாளருக்கு 3 தேங்காய்,5 கிலோ அரிசி
+
+*2024-12-05 18:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொசவில்-ஒரு-வாடிக்கையாளருக்கு-3-தேங்காய்-5-கிலோ-அரிசி/175-348295) · `ta`
+
+பண்டிகைக் காலத்தில் அரிசி மற்றும் தேங்காய் விநியோகத்தை தொடர்ந்து வழங்குவதை உறுதி செய்வதற்காக அண்மையில் வர்த்தக அமைச்சரினால் அறிவிக்கப்பட்ட கட்டுப்பாட்டு விலையில் அரிசி மற்றும் தேங்காய் விற்பனையை உறுதி செய்வதற்கான நடவடிக்கைகளை லங்கா சதொச அறிவித்துள்ளது.
+
+அரிசி ஆலைகள் நாளாந்தம் 200,000 கிலோ அரிசியை வழங்குவதற்கு இணக்கம் தெரிவித்ததுடன், ஒரு மில்லியன் தேங்காய்களும் 130 ரூபாவிற்கு சதொச விற்பனை நிலையங்கள் மூலம் விற்பனை செய்யப்படும் என அமைச்சர் வசந்த சமரசிங்க நேற்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+அரிசி மற்றும் தேங்காய்களை சதொச விற்பனை நிலையங்களுக்கு இன்று விநியோகிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக லங்கா சதொச தலைவர் டொக்டர் சமித்த பெரேரா தெரிவித்துள்ளார்.
+
+எவ்வாறாயினும், ஒரு வாடிக்கையாளருக்கு 03 தேங்காய் மற்றும் 05 கிலோ அரிசியை மாத்திரமே கொள்வனவு செய்ய அனுமதி வழங்கப்படும் என அவர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/9568dff1.json)
+
+---
+
+### ”வரி செலுத்த மக்கள் வரிசையில் நிற்கின்றனர்”
+
+*2024-12-05 18:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்த-மக்கள்-வரிசையில்-நிற்கின்றனர்/175-348294) · `ta`
+
+உள்நாட்டு இறைவரித் திணைக்களத்தின் ஒன்லைன் செயலியில் அதிகளவானோர் உள்நுழைய முயன்றதால் நெரிசல் ஏற்பட்டதையடுத்து, செப்டம்பர் 31ஆம் திகதி மக்கள், தொழிலதிபர்கள் மற்றும் தொழில்முனைவோர் என திணைக்களத்தின் முன்பாக வரி செலுத்துவதற்காக நீண்ட வரிசையில் நின்றதாக அமைச்சர் சுனில் ஹந்துன்நெத்தி இன்று தெரிவித்தார்.
+
+அரசாங்கத்தின் திட்டத்திற்கு வரி செலுத்துவோர் விருப்பத்துடன் வரி செலுத்த முன்வந்துள்ளதாகவும் அது மிகப்பெரும் பலம் எனவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+செப்டம்பர் 15 முதல் 30 வரையான காலப்பகுதிக்குள் குறித்த செயலியின் நெரிசல் காரணமாக வரி செலுத்த வங்கிகளில் பிரத்யேக கருமபீடங்களைத் திறக்க நடவடிக்கை எடுக்குமாறு தொழில் அதிபர் சிலர் தன்னிடம் கோரிக்கை விடுத்ததாக அமைச்சர் கூறினார்.
+
+தொழிலதிபர்கள் வரி செலுத்தத் தயங்கவில்லை, ஆனால் அவர்களின் வரிப்பணத்திற்கு என்ன நடக்கும் என்பதில் அவர்களுக்கு நம்பிக்கை இல்லை என்பதே பிரச்சினை என்று அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/63ea9631.json)
+
+---
+
+### Child killed in well
+
+*2024-12-05 17:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றில்-தவறி-விழுந்த-குழந்தை-பலி/175-348293) · `ta`
+
+3-year-old boy dies after falling into well in Thirumalapuram. Child was playing with a balloon that entered the well. Rescue efforts led to hospital admission, where he succumbed to injuries. Incident occurred in Point Pedro Police Division area.
+
+🟩
+
+The death of a three -year -old boy who fell into the well took place on Thursday afternoon at the Thirumalapuram, Vallipuram area, which belongs to the Point Pedro Police Division.
+
+It was reported that the child died when the child was rescued and admitted to the Pedro Base Hospital.
+
+The baby was playing with the balloon in the house yard and the balloon was found in the well.
+
+Neighbors say they may have failed when the balloon fell into the well and tried to recover it.
+
+◼️
+
+[Data](articles/31582a1f.json)
+
+[Extended Data](ext_articles/31582a1f.ext.json)
+
+---
+
+### “The name of the recommended people will be published”
+
+*2024-12-05 17:54:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரிந்துரைத்தவர்களின்-பெயர்-வெளியிடப்படும்/175-348292) · `ta`
+
+Government promises to publish names of politicians recommending liquor permits after investigation.
+
+🟩
+
+The government has today promised that the list of politicians who recommended the liquor permit will be released after investigations.
+
+The Chief Minister and Minister of the government, Dr. Nalinda Jayatissa, told Parliament that the Finance Ministry is carrying out investigations into the issue of liquor licensing and that the list of politicians who recommended the permit will be presented to all people.
+
+Responding to the question of Parliamentarian Rohitha Abeygunawardena, who urged the minister to release the names of the Members of Parliament, Ministers or People's Representatives, who recommended the issue of liquor licenses, like the names of the permit recipients.
+
+◼️
+
+[Data](articles/e62544a7.json)
+
+[Extended Data](ext_articles/e62544a7.ext.json)
+
+---
+
+### Bail for Renuka Perera
+
+*2024-12-05 17:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரேணுகா-பெரேராவுக்குப்-பிணை/175-348291) · `ta`
+
+Renuka Perera, Sri Lanka PA executive, arrested for spreading false Heroes Day info, released on bail after court appearance.
+
+🟩
+
+Renuka Perera, Executive Secretary of the Sri Lanka PA, who was arrested on charges of spreading false information on the recent Heroes Day, has been released on bail.
+
+The Colombo Magistrate's Court has granted bail to Renuka Perera, who was produced in court today.
+
+Renuka Perera was arrested today (December 05) by the Criminal Investigation Department officials on charges of spreading false information through social media regarding the recent Heroes' Day in the North.
+
+◼️
+
+[Data](articles/b8e98cfa.json)
+
+[Extended Data](ext_articles/b8e98cfa.ext.json)
+
+---
 
 ### Onion prices also rise
 
@@ -53,6 +173,50 @@ A small pile of coconut, which sold for 40 rupees to Rs 60, a few months ago, ha
 [Data](articles/3a90fea7.json)
 
 [Extended Data](ext_articles/3a90fea7.ext.json)
+
+---
+
+### ලෙබනන - ඊශ්‍රායෙල යුද්ධය නිසා අසරණ වූ ලාංකිකයන් පිරිසක් දිවයිනට
+
+*2024-12-05 17:14:37* · [`adalk`](https://www.ada.lk/breaking_news/ලෙබනන---ඊශ්‍රායෙල-යුද්ධය-නිසා-අසරණ-වූ-ලාංකිකයන්-පිරිසක්-දිවයිනට/11-413479) · `si`
+
+මැදපෙරදිග ලෙබනන - ඊශ්‍රායල යුද්ධය නිසා  අසරණ වූ ලෙබනනයේ රැදී සිටි ශ්‍රී ලාංකිකයන් 27 දෙනෙකු 12/04 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+කුඩා ළමයින් 05 දෙනෙකු , කාන්තාවන් 03 දෙනෙකු සහ පිරිමි පුද්ගලයන් 19 දෙනෙකු මෙසේ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි පිරිසට අයත් වී තිබුණි.
+
+මෙම ශ්‍රී ලාංකිකයන් පිරිස මෙරටට එවීම සදහා සංක්‍රමණය සදහා වන ජාත්‍යන්තර සංවිධානය ( International Organization for Migration ), ලෙබනනයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ නිලධාරීන් සහ ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් එක්ව පියවර ගෙන තිබුණි.
+
+මේ ආකාරයට ඉකුත් 11/06, 11/12 , 11/28 , 12/01 දින දින ද ශ්‍රී ලාංකිකයන් පිරිසක් මෙරටට ගෙන්වා ගැනීමට කටයුතු කර තිබුණි .
+
+ඒ අනුව මේ වනවිට ලෙබනනයේ රැදී සිටි ශ්‍රී ලාංකිකයන් 53 දෙනෙකු මේ අකාරට රැගෙන විත් තිබේ .
+
+මෙම ශ්‍රී ලාංකිකයන් 27 දෙනා 12/04 දින රාත්‍රී 11.30 ට ඩුබායි සිට , එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 648 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+◼️
+
+[Data](articles/c3134d77.json)
+
+---
+
+### Lohan and wife released on bail
+
+*2024-12-05 17:01:41* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්ට-හා-බිරිඳට-ඇප/11-413478) · `si`
+
+S:0
+
+🟩
+
+Former State Minister Lohan Ratwatte and his wife Rashi Prabha Ratwatte were released on bail due to the possession of the number plates.
+
+The suspects were produced before the Nugegoda Magistrate's Court.
+
+Both of them have paid a cash of Rs.. In addition, Lohan Ratwatte also imposed a foreign travel ban.
+
+◼️
+
+[Data](articles/b7d23b83.json)
+
+[Extended Data](ext_articles/b7d23b83.ext.json)
 
 ---
 
@@ -2317,223 +2481,5 @@ The price of essential commodities in the market has increased and people are ve
 [Data](articles/86a1d94c.json)
 
 [Extended Data](ext_articles/86a1d94c.ext.json)
-
----
-
-### The rice crisis: rice prices go back to heaven?
-
-*2024-12-05 02:21:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0x3p8zrklo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rice crisis: Govt violates election promise, imports rice to address shortage. Prices rise despite imports. Disagreement between small mills and large exporters on pricing. Government aims to resolve crisis by Dec 20, 2023.
-
-🟩
-
-The government has to violate the election promise that one rice has not imported abroad. That's the shortage of rice.
-
-The government made policy decision to import rice abroad as a solution.
-
-However, the shortage of rice in the market has not yet been completed and rice prices are also gone.
-
-The Cabinet has decided to temporarily remove the importance of rice as one step to facilitate the importation of rice as well as the shortage of rice shortly.
-
-According to the decision, it was permitted to import rice without obtaining the import control license to 2024/12/20.
-
-In the event of the prevailing crisis, BBC was found whether the lack of rice was found.
-
-Small and Medium Scale Mill Thera says the government has taken the decision to import rice.
-
-...
-
-[Data](articles/5a3ae179.json)
-
-[Extended Data](ext_articles/5a3ae179.ext.json)
-
----
-
-### The 13th Amendment will continue until the new constitution comes;President guarantees Tamil party parliamentarians
-
-*2024-12-05 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200453) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake meets Tamil party leaders. Assures continuation of 13th Amendment until new constitution. Promises provincial council elections by end of 2025. Addresses issues like missing persons, land disputes, and political prisoners. Emphasizes unity over separation in new constitution.
-
-🟩
-
-President Anura Kumara Dissanayake has assured the Sri Lankan Tamil party parliamentarians that the 13th Amendment and the Provincial Council system will continue until the new constitution is created and the provincial council elections will be held by the end of 2025.
-
-The president, who has assured that the political solution that the Tamil people can be accepted by the Tamil people can be accepted in the new constitution and that it will be discussed with representatives of the Tamil national parties, said the new constitution would be aimed at the unity of Sri Lanka, rather than for the separation.
-
-At the request of the Sri Lankan Tamil Nadu, the President of the Tamil National Alliance (TMC) Held at the Presidential Secretariat.
-
-...
-
-[Data](articles/5e489c47.json)
-
-[Extended Data](ext_articles/5e489c47.ext.json)
-
----
-
-### Confirm the equal rights of the model
-
-*2024-12-05 02:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம-உரிமையை-உறுதிப்படுத்தவும்/175-348261) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil rights emphasized in parliament debate. Equal rights stressed for constitution creation. Historical resistance noted. Political prisoner release urged. Government action sought on unresolved Tamil issues.
-
-🟩
-
-Tamil people have equal rights in this country. Therefore, that equal rights should not be urged to ensure that the new constitution is to be created by the National People's Power.. The Chanakyan MP is not our aim for bringing down or opposing this state. We are waiting for the government's progressive actions.
-
-He said this while addressing the second day of debate on the president's policy speech held in Parliament on Wednesday (04).
-
-Just as the people of the country have received the people's mandate for the national people's power, the Tamil party has received the orders of the Tamil party in the North and East.. And only our Batticaloa district boldly resisted the tsunami. That is why we have a historical success.
-
-...
-
-[Data](articles/685aac15.json)
-
-[Extended Data](ext_articles/685aac15.ext.json)
-
----
-
-### The solution to the problems of the hill people
-
-*2024-12-05 02:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மக்களின்-பிரச்சினைகளுக்கு-தீர்வு/175-348260) · `ta`
-
-National People's Power Government addresses hill people issues: land, housing, salaries, education, healthcare. Focuses on poverty eradication, recognition as Sri Lankan Tamils, improving education and addressing soil erosion.
-
-🟩
-
-Ambika Samuel, Badulla district MP, Badulla district, said that the National People's Power Government will carry out programs to address all the major issues facing the upland people for 75 years.
-
-He further stated that he was speaking at the second day of debate on the President's Declaration of Policy on Wednesday (04) in Parliament.
-
-The National People's Energy Government Policy Declaration includes programs to address the issue, such as land issue, housing and salary issue.
-
-I am happy to be the first Tamil woman member to be elected to Parliament from the Badulla district of the hill country.. I thank the people of Badulla district for that.
-
-In the last parliamentary election, the National People's Power in the last parliamentary election was the support of the people of the North, the East and the East.. It should be noted that such a choice is also in the hill country. The party also chose a man with an alternative to give the rights to the disabled.
-
-...
-
-[Data](articles/0b276097.json)
-
-[Extended Data](ext_articles/0b276097.ext.json)
-
----
-
-### The solution to the problems of the hill people
-
-*2024-12-05 02:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-மக்களின்-பிரச்சினைகளுக்கு-தீர்வு/76-348260) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National People's Power addresses hill people issues: land, housing, wages. Focuses on education, healthcare, poverty eradication. Recognizes upcountry Tamils' identity. Plans to improve infrastructure and women's economic status.
-
-🟩
-
-Ambika Samuel, Badulla district MP, Badulla district, said that the National People's Power Government will carry out programs to address all the major issues facing the upland people for 75 years.
-
-He further stated that he was speaking at the second day of debate on the President's Declaration of Policy on Wednesday (04) in Parliament.
-
-The National People's Energy Government Policy Declaration includes programs to address the issue, such as land issue, housing and salary issue.
-
-I am happy to be the first Tamil woman member to be elected to Parliament from the Badulla district of the hill country.. I thank the people of Badulla district for that.
-
-In the last parliamentary election, the National People's Power in the last parliamentary election was the support of the people of the North, the East and the East.. It should be noted that such a choice is also located in the hill country. The party also chose a man with an alternative to give the rights to the disabled.
-
-...
-
-[Data](articles/9e088339.json)
-
-[Extended Data](ext_articles/9e088339.ext.json)
-
----
-
-### Is it an attempt to confuse the north and the south?
-
-*2024-12-05 02:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கையும்-தெற்கையும்-குழப்பும்-முயற்சியா/175-348259) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankan government aims to combat racism, protect religious freedom. Minister proposes anti-terrorism law & asset recovery bills. Focuses on national unity over reconciliation measures.
-
-🟩
-
-Do they upload false propaganda and fake information on social media, confused the north and the south, and repeat the communal war for the Heroes Day?Minister of Justice and National Integration Minister Harshana Nanayakkara said, "We accept that the Terrorism Act should be lifted."
-
-To create an anti -terrorism law in accordance with international law programs. So until the law is prepared and implemented, the country has to take action to suppress racism and religion.
-
-Speaking on the second day of debate on the President's Policy Declaration held in Parliament on Wednesday (04), he said.
-
-The main expectation of the people is to ensure the rule of the law and establish the law against the fraudsters who destroyed the country's resources.
-
-...
-
-[Data](articles/2c1dd7ac.json)
-
-[Extended Data](ext_articles/2c1dd7ac.ext.json)
-
----
-
-### Refugee status has been made difficult;Canada started advertising campaign
-
-*2024-12-05 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200452) · `ta`
-
-Canada launches ad campaign warning refugees about difficulties in obtaining status. The campaign will be in 11 languages and is part of efforts led by Prime Minister Justin Trudeau to restrict refugee access. The total budget for this 4-month campaign equals the annual refugee allocation for the past 7 years.
-
-🟩
-
-Canada, which has been a large number of immigrants and refugees, has launched an online advertising campaign to warn that the refugee status is now difficult.
-
-The advertising campaign will be launched in 11 languages, including Spanish, Urdu, Ukrainian, Hindi and Tamil, to the Canada Department, 'Right' news service.
-
-The campaign is to be carried out by the government led by Prime Minister Justin Trudeau to restrict refugee status.
-
-It has also been reported that the total amount of money spent on such advertising has been allocated for the last 7 years for this 4 -month e -commerce campaign.
-
-◼️
-
-[Data](articles/0c8c37da.json)
-
-[Extended Data](ext_articles/0c8c37da.ext.json)
-
----
-
-### Trying to create ethnic conflicts
-
-*2024-12-05 01:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன-முரண்பாடுகளை-ஏற்படுத்த-முயற்சி/175-348258) · `ta`
-
-Sri Lanka: Ethnic conflict fueled by social media misinformation. Government warns against distorting Heroes Day celebrations to provoke tensions between North and South.
-
-🟩
-
-Public Security and Parliamentary Affairs Minister Ananda Wijepala said that two of the new Democratic Front activists were the activists of the new Democratic Front, who had uploaded photographs and videos on social networks to deliberately distort the Heroes Day observances in the North and East and create communal conflicts between the North and South.
-
-He said this while addressing a special statement in Parliament on Wednesday (04).
-
-I have informed the council to announce the reasons for the last two weeks in the country.
-
-The Heroes Day Analyst in the North and East is the main speech in the country. Everyone has the right to remember their dead relationships. All provinces, including the North and East and the South, have this right. We are still in this position today.
-
-...
-
-[Data](articles/76f992ef.json)
-
-[Extended Data](ext_articles/76f992ef.ext.json)
 
 ---

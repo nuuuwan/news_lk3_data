@@ -1,36 +1,200 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 06:48:01**
+As of **2024-12-05 08:09:44**
 
 ## Newspaper Stats
 
-*Scraped **58,545** Articles*
+*Scraped **58,555** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 595
-bbccomsinhala | 611
+bbccomsinhala | 612
 islandlk | 3,518
 economynextcom | 3,558
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,544
+adalk | 5,545
 adaderanalk | 7,105
-tamilmirrorlk | 8,334
-virakesarilk | 9,584
-adaderanasinhalalk | 10,108
+tamilmirrorlk | 8,335
+virakesarilk | 9,589
+adaderanasinhalalk | 10,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,534 (100.0%) of 58,545 articles have been extended.
+58,538 (100.0%) of 58,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### May be raining in some areas
+
+*2024-12-05 07:17:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-மழை-பெய்யக்கூடும்/175-348262) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Rainfall forecast: Northern, Eastern Provinces & Anuradhapura; thunderstorms in Sabaragamuwa, Upper, Southern Provinces evening/night. Snowfall expected in most areas morning."
+
+🟩
+
+The Department of Meteorology has forecast rainfall in the Northern and Eastern Provinces and Anuradhapura districts today.
+
+Rainfall or thunderstorms will occur in some parts of the Sabaragamuwa, Upper and Southern Provinces in the evening or night.
+
+Uniform weather in other parts of the country. The Department of Meteorology has predicted that in most parts of the country there will be snowfall in the morning. (A)
+
+◼️
+
+[Data](articles/f86c7df8.json)
+
+[Extended Data](ext_articles/f86c7df8.ext.json)
+
+---
+
+### • Standardized Account to be taken to Parliament today
+
+*2024-12-05 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204050) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Interim Standard Account to be presented to Parliament today, covering govt functions & loans for Jan-Mar 2025. Approved by Cabinet Nov 25. IMF amendments may be included in future budget. Disaster relief program planned."
+
+🟩
+
+The Interim Standard Account is to be presented to Parliament today (05) to continue government functions and loan services for the first four months of 2025.
+
+The interim account is to be tabled by Prime Minister Dr. Weli Amarasuriya to parliament today and tomorrow (06) will be held today.
+
+The interim account is being allocated for the first 4 months of next year.
+
+The proposal made by President Anura Kumara Dissanayake was approved by the Cabinet of Ministers on November 25.
+
+Meanwhile, Leader Minister Bimal Ratnayake says that the amendments made with the International Monetary Fund can be considered in a future budget.
+
+Meanwhile, the councilor adjourning the meeting was held in parliament yesterday afternoon on the recent disaster situation.
+
+The adaptation debate was held on a proposal made by MP Rishard Bathiudeen.
+
+Deputy Minister Namal Karunaratne said that a systematic program will be implemented to increase the reliefs to the people affected by disasters.
+
+◼️
+
+[Data](articles/f6363065.json)
+
+[Extended Data](ext_articles/f6363065.ext.json)
+
+---
+
+### Showers in several areas
+
+*2024-12-05 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204049) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Showers forecast: Northern/Eastern Provinces & Anuradhapura; thundershowers in Western/Sabaragamuwa/Kurunegala/Galle/Matara; instability in many areas."
+
+🟩
+
+The Department of Meteorology states that several showers may occur in the Northern and Eastern Provinces and several showers in the Anuradhapura district.
+
+Thundershowers will develop at several places in the Western, Sabaragamuwa, Kurunegala, Kurunegala, Galle and Matara districts, or even nights.
+
+In many parts of the island, there may be a stability in the morning.
+
+◼️
+
+[Data](articles/8a7a9fc5.json)
+
+[Extended Data](ext_articles/8a7a9fc5.ext.json)
+
+---
+
+### The identity of Sri Lankans is only used;Gajendrakumar
+
+*2024-12-05 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200461) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan identity key: Gajendrakumar Ponnambalam calls for transparency in human rights policies. Criticizes previous govts for highlighting communalism. Demands abolition of Terrorism Act. Urges fair investigations & commemoration of war dead.
+
+🟩
+
+The government must act in a new policy for transparency in human rights issue. Parliamentarian Gajendrakumar Ponnambalam said that the identity of Sri Lankans is only used.
+
+He was speaking at the second day debate on the President's Declaration of Policy on Wednesday (4) in Parliament.
+
+Congratulations to the great success of the National People's Power. In the last parliament, our party and the president's national power did not negotiate with the then president.. We also avoided participation in useless negotiations.
+
+In the President's Policy Declaration, we have to note that we are referring to the abolition of religion and religiousism.. We also expect the same. If the rights are well distributed, there will be no odds.
+
+The All Ceylon Tamil Congress depends on the identity of the Sri Lankan.However, it is important to investigate whether proper rights are obtained when operating from the identity of Sri Lankans. The identity of Sri Lankans is only used.
+
+...
+
+[Data](articles/6e7836e4.json)
+
+[Extended Data](ext_articles/6e7836e4.ext.json)
+
+---
+
+### மலையகத்தின் 200 வருட கால பிரச்சினைகளுக்கு  ஓரிரு இரவில் தீர்வு காண முடியாது - திகாம்பரம்
+
+*2024-12-05 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200460) · `ta`
+
+மலையகத்தின் 200 வருடகால பிரச்சினைகளுக்கு ஓரிரு இரவில் தீர்வு காண முடியாது. கட்டம் கட்டமாகவே தீர்வு காண முடியும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் பழனி திகாம்பரம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (4) நடைபெற்ற ஜனாதிபதியின் கொள்கை பிரகடன உரை மீதான  இரண்டாம் நாள்  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நான்காவது தடவையாகவும் என்னை பாராளுமன்றத்துக்கு தெரிவு செய்த நுவரெலியா மாவட்ட மக்களுக்கு  நன்றி தெரிவித்துக் கொள்கிறேன்.  பாரிய அரசியல் மாற்றம் ஏற்பட்டுள்ளது. ஜனாதிபதிக்கும், புதிய அரசாங்கத்துக்கும வாழ்த்து தெரிவித்துக் கொள்கிறோம்.
+
+நாட்டு மக்களின் நலன் கருதி அரசாங்கம் எடுக்கும் சிறந்த தீர்மானங்களுக்கு ஒத்துழைப்பு வழங்குவோம். அதேபோல் மக்களுக்கு எதிராக எடுக்கும் தீர்மானங்களுக்கு கடுமையாக எதிர்ப்பு தெரிவிப்போம்.  இனவாதம் மற்றும் மதவாதம் இல்லாத அரச சூழலை உருவாக்குவதாக ஜனாதிபதி குறிப்பிடுவதை வரவேற்கிறேன்.
+
+...
+
+[Data](articles/01b248b5.json)
+
+---
+
+### கிளிநொச்சி பூநகரி செல்லையா தீவு பகுதியில் ஆண் ஒருவரின் சடலம் மீட்பு
+
+*2024-12-05 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200459) · `ta`
+
+கிளிநொச்சி பூநகரி செல்லையா தீவு பகுதியில் நீர்நிலையில் ஆண்ஒருவரின்  சடலம் சற்று முன்னர் அடையாளம் காணப்பட்டுள்ளது.
+
+பூநகரி பிரதேச செயலாளர் பிரிவிற்குட்பட்ட பூநகரி பரந்தன் வீதியில் செல்லையா தீவு பாடசாலை அருகில் புதன்கிழமை (4) பிற்பகல் குறித்த சடலம் அடையாளம் காணப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/568f4507.json)
+
+---
+
+### அரசாங்கத்தின் இடைக்கால கணக்கு வாக்குப்பதிவாக 9,60,500 கோடி ரூபா ஒதுக்கீடு
+
+*2024-12-05 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200458) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க அரசின் 2025 ஜனவரி  1 ஆம்  திகதியிலிருந்து  2025 ஆம் ஆண்டு ஏப்ரல் 30 ஆம்  திகதி வரையான 4 மாத காலப் பகுதிக்கான கணக்கு வாக்குப்பதிவாக 9,60,500 கோடி ரூபா  ஒதுக்கப்பட்டுள்ளது. இதில் பாதுகாப்பு அமைச்சு மற்றும் பொதுமக்கள் பாதுகாப்பு அமைச்சுக்களுக்கென 20801 கோடியே 95,75000 ரூபா ஒதுக்கப்பட்டுள்ளது.
+
+அத்துடன் இந்த நிதியிலிருந்து ஜனாதிபதியின் செயல்முறை மற்றும் அபிவிருத்தி செயற்பாடுகளுக்காக 127 கோடியே 99,40000 ரூபாவும் பிரதமர் அலுவலகத்துக்காக 37 கோடியே 80 இலட்சம் ரூபாவும் நிதி அமைச்சுக்காக 18603 கோடியே 18,12000 ரூபாவும் பாதுகாப்பு அமைச்சுக்காக 14295கோடியே 50 இலட்சம் ரூபாவும் நீதி,தேசிய ஒருமைப்பாட்டு அமைச்சுக்காக 1727 கோடியே 31,60000 ரூபாவும் சுகாதாரம் மற்றும் ஊடகத்துறை அமைச்சுக்காக 16199 கோடியே 99,98000 ரூபாவும் கல்வி,உயர்கல்வி அமைச்சுக்காக 9200 கோடி ரூபாவும் பொது நிர்வாக ,மாகாணசபைகள் அமைச்சுக்காக 17047 கோடியே 64,15000 ரூபாவும் பொது மக்கள் பாதுகாப்பு அமைச்சுக்காக 6506 கோடியே 45,75000 ரூபாவும் ஒதுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/c44c96f4.json)
+
+---
 
 ### Gajendrakumar meets wealth at the end of this week
 
@@ -137,6 +301,30 @@ The price of essential commodities in the market has increased and people are ve
 [Data](articles/86a1d94c.json)
 
 [Extended Data](ext_articles/86a1d94c.ext.json)
+
+---
+
+### සහල් අර්බුදය: නත්තල් වෙද්දි හාල් මිල අහස උසට යයි ද?
+
+*2024-12-05 02:21:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0x3p8zrklo) · `si`
+
+එක හාල් ඇටයක්ව පිටරටින් ආනයනය නොකරන බවට දුන් මැතිවරණ පොරොන්දුව කඩ කිරීමට රජයට සිදුව තිබේ. ඒ සහල් හිඟය හේතුවෙනි.
+
+එයට විසඳුමක් ලෙස පිටරටින් සහල් ආනයනය කිරීමට රජය ප්‍රතිපත්තිමය තීරණයක් ගනු ලැබුවේ පසුගිය නොවැම්බර් මාසයේ දී ය.
+
+කෙසේ වෙතත් මෙතෙක් වෙළඳපලේ සහල් හිඟය අවසන් වී නොමැති අතර සහල් මිල ද පාලනයකින් තොරව ඉහල යමින් තිබේ.
+
+සහල් ආනයනය පහසු කිරිමට මෙන්ම සහල් හිඟය ඉක්මනින් අවසන් කිරිමට එක් පියවරක් ලෙස සහල් ආනයනයට පවතින සීමා තාවකාලිකව ඉවත් කිරිමට කැබිනට් මණ්ඩලය තීරණය කර ඇත.
+
+එම තීරණයට අනුව 2024/12/20 දක්වා ආනයන පාලන බලපත්‍ර ලබා ගැනිමෙන් තොරව මෙරටට සහල් ගෙන්වීමට අවසර ලබා දී තිබේ.
+
+පවතින අර්බුදකාරී තත්ත්වය හමුවේ ඉදිරි උත්සවය සමය වන විට මෙරට සහල් හිඟයට විසඳුමක් ලැබුණු ඇති දැයි බීබීසි සිංහල විසින් සොයා බලන ලදි.
+
+සුළු හා මධ්‍ය පරිමාණ මෝල් හිමියන්ගේ සංගමය පවසන්නේ සහල් ආනයනය කිරිමට රජය ගත් තීරණය මීට පෙර ගත යුතුව තිබු බවයි.
+
+...
+
+[Data](articles/5a3ae179.json)
 
 ---
 
@@ -669,6 +857,22 @@ It was in this context that the people of the country formed the power -led gove
 [Data](articles/29322a98.json)
 
 [Extended Data](ext_articles/29322a98.ext.json)
+
+---
+
+### பயங்கரவாத தடைச்சட்டம் நீக்கப்பட்டு புதிய சட்டம் கொண்டு வரப்படும் : நீதி அமைச்சர் ஹர்ஷன நாணயக்கார
+
+*2024-12-05 00:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200424) · `ta`
+
+பயங்கரவாத தடைச்சட்டம் நீக்கப்படவேண்டியதொரு சட்டமாகும். என்பதை நாங்கள் ஏற்றுக்கொள்கிறோம். சர்வதேச சட்ட திட்டங்களுக்கு அமைவாக பயங்கரவாத எதிர்ப்பு சட்டம் ஒன்றை அமைத்துக்கொள்வதே எமது திட்டம். அதனால் இந்த சட்டத்தை ஏற்படுத்தி அனுமதித்துக்கொள்ளும்வரை நாட்டில் இனவாதம், மதவாதம் தலைதூக்கும்போது அதனை அடக்குவதற்கு தற்போதுள்ள சட்டத்தின் பிரகாரமே நடவடிக்கை எடுக்க வேண்டி ஏற்படுகிறது. அத்துடன் அடுத்தவருடம் முதல் காலாண்டில் திருடப்பட்ட சொத்துக்களை மீட்பது தொடர்பான 3 புதிய சட்டமூலங்களை பாராளுமன்றத்தில் சமர்ப்பிக்க நடவடிக்கை எடுப்பேன் என நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (03) இடம்பெற்ற ஜனாதிபதியின் கொள்கை  விளக்க உரை மீதான இரண்டாம் நாள் விவாத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மக்கள் எமக்கு வழங்கிய ஆணையின் பிரகாரம் நாங்கள் மக்களுக்கு வழங்கிய வாக்குறுதிகளையும் ஜனாதிபதி சபைக்கு சமர்ப்பித்த கொள்கை பிரகடன உரையில் தெரிவித்த விடயங்களையும் அவ்வாறே பாதுகாத்து நிறைவேற்றுவோம்.
+
+...
+
+[Data](articles/57e1ea88.json)
 
 ---
 
@@ -2213,247 +2417,5 @@ In its respective, Harry Brook and Third Place, Cane Williamsan, has been owned 
 [Data](articles/72497c1b.json)
 
 [Extended Data](ext_articles/72497c1b.ext.json)
-
----
-
-### China asks for teaching in love
-
-*2024-12-04 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204034) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Chinese authorities suggest universities teach love, marriage, and family values to combat low birth rates. This approach aims to encourage young couples to start families. The initiative focuses on promoting emotional intelligence and relationship skills among students.
-
-🟩
-
-The Chinese authorities have given a wonderful advice to universities and other educational institutions as a remedy to decrease the birth rate in the country.
-
-Authorities say that the students of China can provide a remedy to the low-birth rate of China by teaching love, marriage, prickness and family members.
-
-◼️
-
-[Data](articles/d3c06a57.json)
-
-[Extended Data](ext_articles/d3c06a57.ext.json)
-
----
-
-### Do you know who this sir?
-
-*2024-12-04 16:55:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-ஐயா-யாரென-தெரியுதா/175-348246) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-A video on national people's power social media features a speaker named Parthinkadane Anuradha Kama. He discusses a competition game, smiling occasionally. The exact context or payment isn't specified in the voice-over.
-
-🟩
-
-On the social websites of the national people's power, do you know who this sir is?Titled, a video is browsing.
-
-In it, the person who spoke said, "Parthinkadane Anuradha Kama. This is how the competition game. How is it? ”He smiles from time to time.
-
-It is not known exactly which payment in the video. Likewise, the voice -over person does not say any payment.
-
-◼️
-
-[Data](articles/7b6477dd.json)
-
-[Extended Data](ext_articles/7b6477dd.ext.json)
-
----
-
-### MP Saroja Saroja Savitra
-
-*2024-12-04 16:55:28* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රීවරියන්ගේ-සංසදයේ-සභාපති-සරෝජා-සාවිත්‍රි/11-413457) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan PM highlights parliamentary vulnerabilities. New forum aims to secure all women. Key roles filled: Chairwoman Samanmali Gunasinghe, Deputy Chairs Rohini Wijeratne & Thushari Jayasinghe. Focus on gender equality and non-partisan approach.
-
-🟩
-
-Parliamentary vulnerabilities is a significant achievement as MPs - says the Prime Minister.
-
-Our prospect is to create a country where every woman in Sri Lanka is secured - President's Chairman of the Forum.
-
-Parliamentarian's forum was held yesterday (03) under the patronage of Prime Minister, Dr. Harini Amarasuriya. Deputy Chairman of Committees, MP Helde Weerasekera and the General Secretary General of Parliament and the Members of Parliament and the Members of Parliament and Members of Parliament were also present at the occasion.
-
-Minister of Women and Child Affairs, Minister of Women and Child Affairs was elected to the new Chairman of the Members of Parliament.. Parliamentarian Samanmali Gunasinghe, MP Samanmali Gunasinghe proposed, and MP Mr. Anushka Tilakaratne confirmed that proposal.
-
-...
-
-[Data](articles/a271a313.json)
-
-[Extended Data](ext_articles/a271a313.ext.json)
-
----
-
-### Sri Lanka stocks close up, ASPI reaches all-time high
-
-*2024-12-04 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-aspi-reaches-all-time-high-192120/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader ASPI closed up 1.29 percent, or 171.69 points, at 13,511; while the more liquid S&P SL20 Index closed up 1.90 percent, or 74.80 points, at 4,016.
-
-“The ASPI reached an all-time high,” market participants pointed out, with the S&P SL20 also breaching the 4,000 mark.
-
-Turnover was 5.2 billion. Most of this came from capital goods (Rs1.16bn) and banks sectors (Rs1.18bn).
-
-“The market is extremely bullish, and rates are supporting this.
-
-“There is fresh buying interest as the debt restructuring nears completion.”
-
-Investor interest was seen in banking and bluechip stocks, they said.
-
-Banking stocks saw interest: Commercial Bank (up at 127.00), Sampath Bank (up at 99.80), Hatton National Bank (up at 238.00), DFCC Bank (up at 88.00), and National Development Bank (up at 85.30).
-
-John Keells Holdings saw investor interest; the share closed up at 20.60.
-
-...
-
-[Data](articles/dd11bfc1.json)
-
-[Extended Data](ext_articles/dd11bfc1.ext.json)
-
----
-
-### Korala Cannabis found in the North Sea
-
-*2024-12-04 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204033) · `si`
-
-Sri Lanka Navy seizes 188 kg Kerala cannabis worth Rs. 75 million from vessel in North Sea during special search operation.
-
-🟩
-
-The Sri Lanka Navy has taken over 188 kilos of Kerala cannabis in a special search operation conducted in the sea today (4).
-
-The vessel has been inspected in a special search operation conducted by the Sri Lanka Navy Naval Venerans in the Northern Naval Network.
-
-The stock of luggage was found in four baggage, and the value of the stock was Rs. 75 million.
-
-The stock of Kerala cannabis and the Dingi vessel has been handed over to the Jaffna Police for further legal and investigation into the Navy.
-
-◼️
-
-[Data](articles/d8ca1ed8.json)
-
-[Extended Data](ext_articles/d8ca1ed8.ext.json)
-
----
-
-### One person killed in a house wall
-
-*2024-12-04 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200417) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-1 person killed as house wall collapses in Welikada. Victim: Sumit Kumara (53) from Bandaragama. Incident occurred while son was setting up new iron fence. Police investigating.
-
-🟩
-
-Welikada police said that one person was killed when a wall of a house in Welikada area collapsed.
-
-Sumit Kumara, 53, from Kahambiliyawatta, Bandaragama, has died.
-
-The deceased, along with his son, removed the old iron fence from the house of the house and set up a new iron fence.
-
-The son of the deceased has gone to a nearby shop and the wall has collapsed while he was setting up an iron fence.
-
-◼️
-
-[Data](articles/99137c32.json)
-
-[Extended Data](ext_articles/99137c32.ext.json)
-
----
-
-### A week after entering the mud
-
-*2024-12-04 16:26:39* · [`adalk`](https://www.ada.lk/picture_story/මඩේ-එරුණු-ඇතින්න-සතියකට-පසු-මියයයි‍/10-413453) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Wildlife officer dies after getting stuck in mud in Vavuniya. Rescue efforts involved wildlife officials and local residents. The officer couldn't escape due to muddy terrain and heavy equipment assistance. Cause of death attributed to asphyxiation from mud.
-
-🟩
-
-The Vavuniya Wildlife Officer is said to have died after a weekly weak mud in the small area of ​​Kumbukkachchagoda area in Vavuniya.
-
-මිය ගිය ඇතින්නගේ අවසන් කටයුතු උතුරු පලාත් වනජීවි පශුවෛද්‍ය බී.ගිරිධරන් මහතා ඇතුලු වනජීවි නිලධාරීන් සහ ප්‍රදේශභාර ග්‍රාමසේවක වරයාගේද සහභාගීත්වයෙන් සිදුකිරීමට පියවර ගෙන තිබුණි.
-
-Wildlife officials, including the vestin to save the lives of the mud, and a hard attempt to save the lives of the capture.
-
-Northern provinces' office of the Northern Province Wildlife Veterinary Office that he could not even eat without a walk in the paddy in the paddy of the paddy fields.Said.
-
-The Vavuniya Wildlife Office has said that due to the assistance of a backhoe before the help of a backhoe, he was killed and the victim was dead.
-
-◼️
-
-[Data](articles/af068055.json)
-
-[Extended Data](ext_articles/af068055.ext.json)
-
----
-
-### Suspect arrested over Ahangama double murder
-
-*2024-12-04 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103994/suspect-arrested-over-ahangama-double-murder) · `en`
-
-A suspect has been arrested in connection with the murder of an elderly couple inside their home at Welhengoda in the Ahangama police division.
-
-The incident had occurred on October 4, police said. The elderly couple was found dead in their house with their throats slit.
-
-After the investigations were conducted accordingly, the concerned suspect was arrested by the Ahangama Police last afternoon (03) in the Galle Fort area.
-
-The arrested suspect is a 41-year-old resident of the Unawatuna area.
-
-◼️
-
-[Data](articles/607b6a2a.json)
-
-[Extended Data](ext_articles/607b6a2a.ext.json)
-
----
-
-### 9,60,500 crore for 4 months
-
-*2024-12-04 16:21:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாதங்களுக்கு-9-60-500-கோடி-ரூபாய்-ஒதுக்கீடு/175-348243) · `ta`
-
-Here's a summary in approximately 200 characters:
-
-
-
-9,60,500 crore allocated to Sri Lanka's National People's Power govt (Jan 2025 - Apr 2025). Breakdown: Defense/Public Security (20,801 crore), Health/Media (16,199 crore), Education (9,200 crore), Buddha Sasana (323 crore 63 lakhs), Foreign Employment (592 crore 7,350,000). Other ministries receive varying amounts.
-
-🟩
-
-9,60,500 crore has been allocated to the government of the National People's Power, led by President Anura Kumara Dissanayake, from 1st January 2025 to April 30, 2025.
-
-20,801 crore 9,575,000 has been allocated to the Ministry of Defense and the Ministry of Public Security.
-
-In addition, Rs.
-
-Rs 16,199 crore for the Ministry of Health and Media, Rs 9,998,000, Rs 9,200 crore for the Ministry of Education and Higher Education, Rs.
-
-Similarly, the Ministry of Buddha Sasana has allocated 323 crores 63 lakhs and Rs 592 crore 7,350,000 to the Ministry of Foreign and Foreign Employment.
-
-88 crore 57 lakh rupees for the Ministry of Transport, 22,007 crores and Rs. Ministry365 crores of rupees and other ministries have been allocated to other ministries.
-
-◼️
-
-[Data](articles/03665556.json)
-
-[Extended Data](ext_articles/03665556.ext.json)
 
 ---

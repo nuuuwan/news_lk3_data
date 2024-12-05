@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 09:43:43**
+As of **2024-12-05 10:16:14**
 
 ## Newspaper Stats
 
-*Scraped **58,568** Articles*
+*Scraped **58,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,548
 adaderanalk | 7,110
-tamilmirrorlk | 8,336
+tamilmirrorlk | 8,338
 virakesarilk | 9,589
 adaderanasinhalalk | 10,114
 
@@ -26,25 +26,49 @@ adaderanasinhalalk | 10,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,552 (100.0%) of 58,568 articles have been extended.
+58,558 (100.0%) of 58,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### நாமலின் பெயரை பயன்படுத்தி நிதி மோசடி
+### மூன்றே மாதத்தில் கவிழ்ந்தது பிரான்ஸ் அரசு
+
+*2024-12-05 10:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மூன்றே-மாதத்தில்-கவிழ்ந்தது-பிரான்ஸ்-அரசு/50-348265) · `ta`
+
+பிரான்ஸ் பாராளுமன்றத்தில் அரசுக்கு எதிராகக் கொண்டுவரப்பட்ட நம்பிக்கையில்லா தீர்மானம் வெற்றி பெற்றது. இதனால், பிரதமரான மூன்றே மாதத்தில் பதவியை இழந்தார் மிஷேல் பார்னியர். பிரான்ஸ் வரலாற்றில் 60 ஆண்டுகளில் முதல் முறையாக ஒரு பிரதமரின் ஆட்சி கவிழ்க்கப்பட்டுள்ளது குறிப்பிடத்தக்கது. மேலும், பார்னியர் 91 நாட்கள் மட்டுமே பிரதமராக இருந்துள்ளார். அந்நாட்டின் அரசியல் வரலாற்றில் இத்தகைய குறுகிய காலத்தில் பிரதமர் பதவியை இழந்தவராக மிஷேல் பார்னியர் அறியப்படுகிறார்.
+
+பிரான்ஸ் நாட்டில் கடந்த சில மாதங்களுக்கு முன்னர் பாராளுமன்றத் தேர்தல் நடைபெற்றது. அதிபர் இம்மானுவேல் மேக்ரான், பாராளுமன்றத்துக்கு முன்கூட்டியே தேர்தலை நடத்தினார்.
+
+...
+
+[Data](articles/cd965147.json)
+
+---
+
+### Financial fraud using Namal's name
 
 *2024-12-05 09:36:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-பெயரை-பயன்படுத்தி-நிதி-மோசடி/175-348263) · `ta`
 
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவின் பெயரை பயன்படுத்தி நிதி மோசடிகள் இடம் பெற்று வருவதாகவும் அவ்வாறு பொய் கூறி வருபவர்களை நம்ப வேண்டாம் என பொதுஜன பெரமுனவின் யாழ்ப்பாண மாவட்ட அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
+Namal Rajapaksa accused of financial fraud in Jaffna district. Party organizer claims misuse of his name for scams and land deals. Police investigation ongoing. Party vows to eliminate such allegations and remove those using its name for fraud.
 
-மானிப்பாய் பொலிஸ் நிலையத்திற்கு விசாரணைக்கு சென்று வந்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கடந்த காலங்களில் நாமல் ராஜபக்ஷவின் பெயரை பயன்படுத்தி காணி பிடிப்பது,கட்டப் பஞ்சாயத்து செய்வது போன்ற செயல்பாடுகளில் சிலர் ஈடுபட்டு வந்தனர் என்ற குற்றச்சாட்டு காணப்படுகின்றது. இது தொடர்பாக பாதிக்கப்பட்டவர்களின் வீடுகளுக்கு சென்று நாங்கள் விசாரிப்பது வழமை. அப்படி ஒரு வீட்டுக்கு சென்றது சம்பந்தமாக தான் எனக்கு எதிராக மானிப்பாய் பொலிஸ் நிலையத்திற்கு முறைப்பாடு வந்தது.
+Jaffna District Organizer Geetanath Kasilingam, Jaffna District Organizer of the PA, said that the financial frauds are being used by MP Namal Rajapaksa's name.
+
+He was speaking to the media after he was in trial to the Manipay police station.. There he further stated,
+
+In the past, it is alleged that some people were involved in the use of Namal Rajapaksa's name and making a land panchayat.. It is customary to go to the homes of the victims. I had lodged a complaint with the Manipay police station against me about going to such a house.
+
+The Manipay Police Station Superintendent was investigating today and gave him full cooperation and informed the authority that the victims we had discussed and gave us the complaints or allegations.
+
+You must lodge a complaint at the police station, as the people are using the name of our party. If you are afraid of something like that, you can contact us.
 
 ...
 
 [Data](articles/0014428b.json)
+
+[Extended Data](ext_articles/0014428b.ext.json)
 
 ---
 
@@ -61,6 +85,8 @@ Meanwhile, a special meeting was held last afternoon (04) attended by former Sri
 ◼️
 
 [Data](articles/f20cc7d8.json)
+
+[Extended Data](ext_articles/f20cc7d8.ext.json)
 
 ---
 
@@ -83,6 +109,8 @@ Siripagama Police are conducting further investigations to arrest the suspect.
 ◼️
 
 [Data](articles/a7327891.json)
+
+[Extended Data](ext_articles/a7327891.ext.json)
 
 ---
 
@@ -130,7 +158,7 @@ Accordingly, an Interim Vote on Account will be presented to Parliament for the 
 
 On November 25, the Cabinet of Ministers approved the proposal presented by President Anura Kumara Dissanayake regarding the preparation of the Vote on Account.
 
-Additionally, Speaker of the House Minister Bimal Rathnayake stated that the revised terms of the agreement with the International Monetary Fund (IMF) will be included in the upcoming budget.
+Additionally, Leader of the House Minister Bimal Rathnayake stated that the revised terms of the agreement with the International Monetary Fund (IMF) will be included in the upcoming budget.
 
 ...
 
@@ -768,6 +796,34 @@ The Heroes Day Analyst in the North and East is the main speech in the country. 
 
 ---
 
+### Trying to create ethnic conflicts
+
+*2024-12-05 01:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இன-முரண்பாடுகளை-ஏற்படுத்த-முயற்சி/150-348258) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan minister accuses individuals of uploading manipulated content on social media to create ethnic conflicts during Heroes Day celebrations in the North and East.
+
+🟩
+
+Public Security and Parliamentary Affairs Minister Ananda Wijepala said that two of those who have uploaded photographs and videos on social networks on social networks to deliberately distort the Heroes Day observances in the North and East and create communal conflicts between the North and South.
+
+He said this while addressing a special statement in Parliament on Wednesday (04).
+
+I have informed the council to announce the reasons for the last two weeks in the country.
+
+The Heroes Day Analyst in the North and East is the main speech in the country. Everyone has the right to remember their dead relationships. All provinces, including the North and East and the South, have this right. We are still in this position today.
+
+...
+
+[Data](articles/a295df4d.json)
+
+[Extended Data](ext_articles/a295df4d.ext.json)
+
+---
+
 ### Political bribery for 361 bars
 
 *2024-12-05 01:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/361-பார்களுக்கு-அரசியல்-இலஞ்சம்/175-348257) · `ta`
@@ -1386,6 +1442,8 @@ Raffles Consolidated (Pvt) Ltd, a leading name in Sri Lanka’s hospitality indu
 
 [Data](articles/6be480e8.json)
 
+[Extended Data](ext_articles/6be480e8.ext.json)
+
 ---
 
 ### Sri Lanka–Bangladesh Business Council holds 1st Annual General Meeting
@@ -1399,6 +1457,8 @@ Andalib Elias, High Commissioner of Bangladesh to Sri Lanka, graced the event as
 ...
 
 [Data](articles/36c1b2df.json)
+
+[Extended Data](ext_articles/36c1b2df.ext.json)
 
 ---
 
@@ -2353,71 +2413,5 @@ Today's meeting on how to field the upcoming elections. We are in dissatisfactio
 [Data](articles/1c795763.json)
 
 [Extended Data](ext_articles/1c795763.ext.json)
-
----
-
-### QR code method for fertilizer subsidy
-
-*2024-12-04 17:47:22* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරයට-QR-කේත-ක්‍රමයක්/11-413460) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Government introduces QR code system for fertilizer subsidies. President discusses measures with SMEs to ensure timely delivery and address potential shortages. Focus on increasing storage capacity and promoting local rice varieties."
-
-🟩
-
-The government has focused on introducing a QR code method for effectively to add the fertilizer subsidy.
-
-President Anura Kumara Dissanayake and SMEs were held at the Presidential Secretariat.
-
-The President pointed out to SMEs to the SMEs, the SMEs and the immediate measures to be given to the consumers in the coming months and also discussed the accelerated measures taken.
-
-It was also discussed on the steps to increase storage facilities in the country to give the people without any shortage of rice.
-
-It also focused on the decrease in the necessary stocks for consumption as well as the use of nadu rice.
-
-Trade, Commerce, Food Security and Co-operative Development Wasantha Samarasinghe, Lak Sathosa Chairman Dr. Society, Dr. Savali Chairman and SMEs and small and medium scale rice millers were also present.
-
-◼️
-
-[Data](articles/a63e6ab6.json)
-
-[Extended Data](ext_articles/a63e6ab6.ext.json)
-
----
-
-### Mendis rejects the petition of the company
-
-*2024-12-04 17:39:37* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමේ-පෙත්සම-ප්‍රතික්ෂේප-කරයි/11-413459) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court rejects Mendis Company's petition. Excise Dept threatens excavation order if arrears unpaid by Nov 30. Appeals Court dismisses case citing lack of disclosed issues. Liquor permits suspended; company seeks interim injunction. Attorney General opposes, arguing no legal basis for maintaining petition.
-
-🟩
-
-If the arrears are not paid before November 30, the Excise Department demands the excavation order issued by the Department of Examination. The Court of Appeal refused to hear the petition filed by Mendis Company.
-
-The Badulla Bench, the Court of Appeal, was considered by the Court of Appeal Judge Judges after a long matter.
-
-Judge Madulla said that it was not disclosed by the issues set out in the petition as stated in the petition.
-
-President's Counsel Naveen Marapana appeared before the petitioner before the petition was taken to the petition before November 30 was completed before November 30.That the letter is completely contrary to the law.
-
-The Presidential Counsel said that although he had issued a license to the liquor production until December 31, the Presidential Counsel said.
-
-The President's Counsel said that 10 liquor permits have been issued to his company to be suspended from today.
-
-The Presidential Counsel, the Fisheries of Parapchel Trason, has been able to pay more than Rs.
-
-...
-
-[Data](articles/f10d208b.json)
-
-[Extended Data](ext_articles/f10d208b.ext.json)
 
 ---

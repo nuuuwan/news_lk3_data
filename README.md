@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 15:42:52**
+As of **2024-12-05 16:16:37**
 
 ## Newspaper Stats
 
-*Scraped **58,629** Articles*
+*Scraped **58,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,555
-adaderanalk | 7,121
-tamilmirrorlk | 8,351
+adalk | 5,557
+adaderanalk | 7,123
+tamilmirrorlk | 8,352
 virakesarilk | 9,598
 adaderanasinhalalk | 10,129
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 10,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,625 (100.0%) of 58,629 articles have been extended.
+58,627 (100.0%) of 58,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### SLPP’s Administrative Secretary Renuka Perera granted bail
+
+*2024-12-05 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104021/slpps-administrative-secretary-renuka-perera-granted-bail) · `en`
+
+The Administrative Secretary of the Sri Lanka Podujana Peramuna (SLPP) Renuka Perera has been released on bail by the Colombo Magistrate’s Court.
+
+He was arrested by the Criminal Investigation Department (CID) for allegedly posting false information on social media regarding ‘Mahaviru’ (Maaveerar Naal) commemorations in the North.
+
+A team of CID officers had visited Renuka Perera’s residence this morning (05) and took him into custody after recording a statement regarding the matter. He was subsequently produced before the Colombo Magistrate’s Court.
+
+◼️
+
+[Data](articles/1effa434.json)
+
+---
+
+### கலந்துரையாடி பிரச்சினையை தீர்ப்போம்
+
+*2024-12-05 15:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலந்துரையாடி-பிரச்சினையை-தீர்ப்போம்/175-348283) · `ta`
+
+கல்முனை பிரதேச செயலகம் தொடர்பில் அந்த பிரதேசத்தில் வாழும் முஸ்லிம் மக்களுக்கும் பிரச்சினை இருப்பதால்  கலந்துரையாடி  இந்த பிரச்சினையை எவ்வாறு தீர்த்துக்கொள்வது என்பது தொடர்பில் ஒரு முடிவுக்கு வர முடியும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் எம்.பி.யுமான  ரவூப் ஹக்கீம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (05) அரசினால் சமர்ப்பிக்கப்பட்ட கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில்  உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர்  தொடர்ந்து உரையாற்றுகையில்,
+
+இலங்கைத் தமிழரசுக்கட்சியினர்   ஜனாதிபதி அநுரகுமாரவை  சந்தித்து கலந்துரையாடியுள்ளனர். இக் கலந்துரையாடலுக்கு பின்னரும் பாராளுமன்றத்திலும் அது தொடர்பான விடயங்கள் பேசப்பட்டன . குறிப்பாக கல்முனை பிரதேச செயலக தொகுதி தொடர்பான பிரச்சினையை தீர்ப்பதற்கு ஜனாதிபதி தலையிடுவதாக வாக்குறுதி வழங்கியதாகத்   தெரிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/8c4cfed2.json)
+
+---
+
+### රිලා ත්‍රස්තවාදයක් - වගා බිමේදී ඕනෑම දෙයක් කරන්න
+
+*2024-12-05 15:19:05* · [`adalk`](https://www.ada.lk/breaking_news/රිලා-ත්‍රස්තවාදයක්---වගා-බිමේදී-ඕනෑම-දෙයක්-කරන්න/11-413473) · `si`
+
+වන සතුන්ගෙන් වගාවලට සිදුවන හානිය ශ්‍රී ලංකාවේ බරපතල ප්‍රශ්නයක් පැන නැගී ඇති බවත් මේ වන විට රිලවුන්ගෙන් වගා වලට සිදුවන හානිය රිලා ත්‍රස්තවාදයක් බවට පත්ව ඇති බවත් කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා පැවැසීය.
+
+අද පාර්ලිමේන්තුවේදී ඔහු පැවැසුවේ තම වගාවන් සඳහා වගා බිමේදී වන සතුන් සිදුකරන හානි වෙනුවෙන් ඕනෑම ක්‍රියාමාර්ගයක් ගැනීමට ගොවීන්ට බාධාවක් නොමැති බවත් ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/33d724f7.json)
+
+---
 
 ### “Don't use antibiotics unnecessarily”
 
@@ -60,6 +106,26 @@ The Director General of Health Services said that proper adherence to the use of
 
 ---
 
+### 10 students stranded in Hanthana mountain range rescued
+
+*2024-12-05 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104020/10-students-stranded-in-hanthana-mountain-range-rescued) · `en`
+
+The Sri Lanka Army says that a group of 10 students from a leading school in Colombo, who were stranded while trekking in the Hanthana mountain range, have been rescued by army troops.
+
+The students, aged between 16 and 17, had been trekking in the Hanthana mountain range and had later ventured into an unsafe area.
+
+Sri Lanka Army stated that due to one student suffering a sprained leg and the heavy fog, the group became stranded and were unable to find their way back.
+
+After being notified, a joint rescue operation was launched by the 111 Brigade headquarters and the troops of the 2nd Sri Lanka Sinha Regiment (SLSR) to rescue the group safely.
+
+The rescue mission had commenced at around 8.00 p.m. and the troops had escorted the students to safety by dawn.
+
+◼️
+
+[Data](articles/b516c934.json)
+
+---
+
 ### Govt. allocates nearly Rs. 1,402 billion through Vote on Account
 
 *2024-12-05 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104019/govt-allocates-nearly-rs-1402-billion-through-vote-on-account-) · `en`
@@ -83,6 +149,8 @@ Govt. allocates nearly Rs. 1,402 billion through Vote on Account by Adaderana On
 ◼️
 
 [Data](articles/d8bfce14.json)
+
+[Extended Data](ext_articles/d8bfce14.ext.json)
 
 ---
 
@@ -839,6 +907,22 @@ In a statement issued on December 2, the U.S. Embassy in Sri Lanka said that dur
 [Data](articles/5c436a9c.json)
 
 [Extended Data](ext_articles/5c436a9c.ext.json)
+
+---
+
+### හන්තාගේ අතරමං වූ සිසුන් සොයා ගැනෙයි
+
+*2024-12-05 11:18:27* · [`adalk`](https://www.ada.lk/breaking_news/හන්තාගේ-අතරමං-වූ-සිසුන්-සොයා-ගැනෙයි/11-413472) · `si`
+
+කොළඹ සහ කිරිබත්ගොඩ ප්‍රදේශයෙන් පැමිණි පාසල් සිසුන් පිරිසක් හන්තාන කන්ද තරණය කරමින් සිටියදී ඔවුන් එහි අතරමංව සිටින බව පොලිස් හදිසි ඇමතුම් ඒකකයට දැනුම්දීමකින් අනතුරුව පොලිසිය සහ යුද හමුදාව එක්ව මහත් පරිශ්‍රමයක් දරා ඔවුන් බේරා ගත් බව පොලිසිය කියයි.
+
+මේ දිනවල පාසල් නිවාඩු කාලය බැවින් කොළඹ සහ කිරිබත්ගොඩ ප්‍රදේශයේ දස දෙනෙකුගෙන් යුත් වයස අවුරුදු 16-17 වයසේ පාසල් සිසුන් කණ්ඩායමක් ඊයේ (04) පෙරවරුවේ පේරාදෙණිය පොලිස් වසමේ සරසවිගම ප්‍රදේශයෙන් හන්තාන කන්ද තරණය කොට ඇති අතර සවස 6.00 පමණ වන විට අධික මීදුම සහ ශීතල හේතුවෙන් සිසුන් කිහිප දෙනෙකුගේ කෙන්ඩා පෙරළි ගමන් මාර්ගය සොයා ගැනීම අපහසු වී තිබේ.
+
+පසුව එම සිසුන් පොලිස් හදිසි ඇමතුම් ඒකකයට දැනුම් දීමෙන් පසු පොලිසිය සහ දෙවැනි සිංහ රෙජිමේන්තුවේ සොල්දාදුවන් එක්ව මහත් පරිශ්‍රමයක් දරා ඊයේ (05) අළුයම් කාලයේ සරසවිගම ප්‍රදේශයෙන් එම සිසුන් ආරක්ෂිතව පහළට රැගෙන විත් තිබේ.
+
+...
+
+[Data](articles/d60ee1aa.json)
 
 ---
 
@@ -2435,99 +2519,5 @@ Samarasinghe added that coconut products obtained from State-owned plantations w
 [Data](articles/cce2b901.json)
 
 [Extended Data](ext_articles/cce2b901.ext.json)
-
----
-
-### Jaffna youth and Colombo political activist released on bail over Maveerar Naal SM posts
-
-*2024-12-05 01:27:28* · [`dailyftlk`](https://www.ft.lk/news/Jaffna-youth-and-Colombo-political-activist-released-on-bail-over-Maveerar-Naal-SM-posts/56-770125) · `en`
-
-The Jaffna Magistrate’s Court yesterday granted bail to a suspect arrested under the Prevention of Terrorism Act (PTA) for posting a photograph of Liberation Tigers of Tamil Eelam (LTTE) leader late Velupillai Prabhakaran on a social media platform to coincide with Maveerar Naal commemorations.
-
-The youth, identified as Manoharan Kajendraroopan, a resident of Inuvil West, Chunnakam, was apprehended by the Police Terrorism Investigation Division (TID) and had been in remand custody for 72 hours before being presented to Magistrate A.A. Anandaraja. Represented by lawyer Kanagaratnam Sugash, he was granted bail with a foreign travel ban and a bail amount set at Rs. 200,000.
-
-...
-
-[Data](articles/69c7c244.json)
-
-[Extended Data](ext_articles/69c7c244.ext.json)
-
----
-
-### CoA upholds citizens’ right to scrutinise public expenditure under RTI
-
-*2024-12-05 01:26:35* · [`dailyftlk`](https://www.ft.lk/news/CoA-upholds-citizens-right-to-scrutinise-public-expenditure-under-RTI/56-770124) · `en`
-
-Court orders People’s Bank to disclose funds donated by its Anuradhapura Regional Branch Buddhist Society for the 2022 Poson Poya Charity and Bathi Gee Festival
-
-Says Buddhist Society is part of People’s Bank and not an independent entity, making records subject to RTI scrutiny
-
-Notes public funds must be made available for examination by citizens in the interest of transparency
-
-The Court of Appeal (CoA) this week ruled that the scope of the Right to Information (RTI) Act must be expanded to ensure accountability for any expenditure by a public authority, affirming that such information should be made available for public inspection upon request.
-
-The ruling was delivered in response to an appeal by People’s Bank, which contested a decision by the Right to Information Commission to disclose details of funds donated by the Anuradhapura Regional Branch Buddhist Society of the People’s Bank for the 2022 Poson Poya Charity and Poson Bathi Gee Festival.
-
-...
-
-[Data](articles/36a4d925.json)
-
-[Extended Data](ext_articles/36a4d925.ext.json)
-
----
-
-### W.M. Mendis’ liquor licence to be suspended today over Rs. 5 b tax arrears
-
-*2024-12-05 01:25:28* · [`dailyftlk`](https://www.ft.lk/news/W-M-Mendis-liquor-licence-to-be-suspended-today-over-Rs-5-b-tax-arrears/56-770123) · `en`
-
-The Department of Excise will suspend the liquor manufacturing licence of W.M. Mendis & Co. Ltd., effective today (5), due to the company’s failure to settle excise taxes and surcharges amounting to Rs. 5.7 billion.
-
-The Commissioner General of Excise announced the decision under provisions of the Excise Ordinance Act, citing the company’s prolonged tax default.
-
-In addition to halting the company’s liquor production, the department said that other licences issued to W.M. Mendis & Co. will not be renewed beyond 31 December unless the tax arrears are cleared. Currently, eight out of the 10 liquor manufacturing licences issued to the company have already been suspended. The issue came to light during proceedings at the Court of Appeal yesterday.
-
-...
-
-[Data](articles/3664f681.json)
-
-[Extended Data](ext_articles/3664f681.ext.json)
-
----
-
-### Sri Lanka – Korea Business Council holds 29th Annual General Meeting
-
-*2024-12-05 01:03:51* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Korea-Business-Council-holds-29th-Annual-General-Meeting/34-770117) · `en`
-
-Seated (from left): Yashodha Fernando (The Ceylon Chamber of Commerce), SLKBC Vice President Shamil Mendis, Korean Ambassador Miyon Lee, SLKBC President Asitha Martis, K. Kunendran (Abans)
-
-Standing (from left): SLKBC Immediate Past President Priyantha Mendis, Vidura Palihakkara (Senok Trade Combine), SLKBC Vice President Rohitha Mendis, Korean Embassy Deputy Head of Mission Jung Sohngyee, SLKBC Treasurer Patali Karunarathne, Korean Resident Association President Byun Sung Chul, Mahesh Pasqual (Isuru Engineering), Gayan Maddumarachchi (MAC Holdings), and Sylvester Jayasundera (Transmarine)
-
-The Sri Lanka – Korea Business Council of The Ceylon Chamber of Commerce (SLKBC) recently held its 29th Annual General Meeting at The Ceylon Chamber of Commerce, with Ambassador of the Republic of Korea to Sri Lanka Miyon Lee participating in the occasion as Chief Guest.
-
-...
-
-[Data](articles/620699ad.json)
-
-[Extended Data](ext_articles/620699ad.ext.json)
-
----
-
-### Sri Lanka-Russia Business Council holds 21st  Annual General Meeting
-
-*2024-12-05 01:00:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Russia-Business-Council-holds-21st-Annual-General-Meeting/34-770116) · `en`
-
-The 21st Annual General Meeting of the Sri Lanka-Russia Business Council (SLRBC) of The Ceylon Chamber of Commerce was held recently at the Cinnamon Grand, Colombo 3.
-
-The event was graced by the presence of Chief Guest Russian Ambassador to Sri Lanka and Maldives Levan Dzhagaryan.
-
-Delivering his address, Ambassador Dzhagaryan highlighted the significant trade, tourism, and cultural collaborations between Sri Lanka and Russia, emphasising that Russia continues to play a pivotal role in Sri Lanka’s tourism sector and export trade.
-
-The keynote speaker, Export Development Board Chairman and Chief Executive Officer Mangala Wijesinghe, discussed strategies to enhance Sri Lanka’s export potential and foster stronger economic ties with Russia. His address included insights on Sri Lanka’s ambitious targets for merchandise and service exports, as well as initiatives to bolster the small and medium enterprise (SME) sector.
-
-...
-
-[Data](articles/d8123802.json)
-
-[Extended Data](ext_articles/d8123802.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 08:59:46**
+As of **2024-12-05 09:43:43**
 
 ## Newspaper Stats
 
-*Scraped **58,564** Articles*
+*Scraped **58,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,518
 economynextcom | 3,558
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,547
-adaderanalk | 7,108
-tamilmirrorlk | 8,335
+adalk | 5,548
+adaderanalk | 7,110
+tamilmirrorlk | 8,336
 virakesarilk | 9,589
 adaderanasinhalalk | 10,114
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 10,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,544 (100.0%) of 58,564 articles have been extended.
+58,552 (100.0%) of 58,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### நாமலின் பெயரை பயன்படுத்தி நிதி மோசடி
+
+*2024-12-05 09:36:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-பெயரை-பயன்படுத்தி-நிதி-மோசடி/175-348263) · `ta`
+
+பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவின் பெயரை பயன்படுத்தி நிதி மோசடிகள் இடம் பெற்று வருவதாகவும் அவ்வாறு பொய் கூறி வருபவர்களை நம்ப வேண்டாம் என பொதுஜன பெரமுனவின் யாழ்ப்பாண மாவட்ட அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
+
+மானிப்பாய் பொலிஸ் நிலையத்திற்கு விசாரணைக்கு சென்று வந்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+
+கடந்த காலங்களில் நாமல் ராஜபக்ஷவின் பெயரை பயன்படுத்தி காணி பிடிப்பது,கட்டப் பஞ்சாயத்து செய்வது போன்ற செயல்பாடுகளில் சிலர் ஈடுபட்டு வந்தனர் என்ற குற்றச்சாட்டு காணப்படுகின்றது. இது தொடர்பாக பாதிக்கப்பட்டவர்களின் வீடுகளுக்கு சென்று நாங்கள் விசாரிப்பது வழமை. அப்படி ஒரு வீட்டுக்கு சென்றது சம்பந்தமாக தான் எனக்கு எதிராக மானிப்பாய் பொலிஸ் நிலையத்திற்கு முறைப்பாடு வந்தது.
+
+...
+
+[Data](articles/0014428b.json)
+
+---
+
+### Final decision on NDF’s National List MP seat to be announced tomorrow
+
+*2024-12-05 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104008/final-decision-on-ndfs-national-list-mp-seat-to-be-announced-tomorrow) · `en`
+
+Member of Parliament Rohitha Abeygunawardena has stated that the final decision regarding the remaining National List MP seat of the New Democratic Front (NDF) will be revealed tomorrow (06).
+
+He also mentioned that former minister Kanchana Wijesekera has been nominated for the remaining National List seat.
+
+Meanwhile, a special meeting was held last afternoon (04) attended by former Sri Lanka Podujana Peramuna (SLPP) members who pledged their support for the New Democratic Front (NDF).
+
+◼️
+
+[Data](articles/f20cc7d8.json)
+
+---
+
+### 23-year-old woman clubbed to death in Ketawala
+
+*2024-12-05 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104007/23-year-old-woman-clubbed-to-death-in-ketawala) · `en`
+
+A young woman has been clubbed to death by a person in the Ketawala area of Siripagama police division.
+
+The incident had occurred last morning (04) and the girl who was injured in the attack was admitted to the Gilimale Hospital.
+
+She was later pronounced dead after being transferred to Ratnapura Teaching Hospital for further treatment.
+
+The investigation has revealed that the victim was involved in a romantic relationship with the suspect who carried out the attack and she was clubbed to death following a dispute between them.
+
+The body is currently kept in the Ratnapura Hospital morgue for the post mortem while it is reported that the suspect has fled the area after the incident.
+
+Siripagama Police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/a7327891.json)
+
+---
+
+### World Bank supports Clean Sri Lanka
+
+*2024-12-05 08:39:52* · [`adalk`](https://www.ada.lk/breaking_news/Clean-Sri-Lanka-වැඩසටහනට-ලෝක-බැංකුවේ-සහාය/11-413466) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+World Bank supports Clean Sri Lanka. Exec Dir Parameswaran Iyer met Pres Anura Kumara Dissanayake. Discussed project extensions, rural poverty, North-East development. Govt focuses on agri, fisheries, tourism, edn & health. Ready to implement future dev plans.
+
+🟩
+
+The World Bank Executive Director Paramesquaran Iyer said that the support of the Government of Clean Sri Lanka will be supported by the World Bank.
+
+The Executive Director of the World Bank said this when he met President Anura Kumara Dissanayake yesterday at the Presidential Secretariat.
+
+The World Bank Executive Director said that the World Bank Executive Director, who was congratulated to the new government, will continue to implement all the support of the world Bank.
+
+The President also discussed the extension of projects and plans, such as the future development plans for the new government and the development of rural poverty.
+
+The people of the North and the East were also discussed at the long time to solve the people of the North and East.
+
+President Anura Kumara Dissanayake said that the government focuses on the development of agriculture, fisheries, tourism, education and health.
+
+...
+
+[Data](articles/0ddeadc1.json)
+
+[Extended Data](ext_articles/0ddeadc1.ext.json)
+
+---
 
 ### Vote on Account to be presented in Parliament today
 
@@ -49,6 +135,8 @@ Additionally, Speaker of the House Minister Bimal Rathnayake stated that the rev
 ...
 
 [Data](articles/b861897c.json)
+
+[Extended Data](ext_articles/b861897c.ext.json)
 
 ---
 
@@ -118,6 +206,8 @@ Barnier is now obliged to present the resignation of his government, and the bud
 
 [Data](articles/f42301ae.json)
 
+[Extended Data](ext_articles/f42301ae.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -133,6 +223,8 @@ Misty conditions can be expected in most places of the island during the morning
 ◼️
 
 [Data](articles/491c507f.json)
+
+[Extended Data](ext_articles/491c507f.ext.json)
 
 ---
 
@@ -162,23 +254,33 @@ In September, President Iimauuel McCron appointed Prime Minister, as the Prime M
 
 ---
 
-### ජීවිතයක් බිලිගත් ප්‍රේම කතාව
+### The love story of kills life
 
 *2024-12-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204051) · `si`
 
-සිරිපාගම පොලිස් වසමේ කැටවල ප්‍රදේශයේ දී පුද්ගලයෙකු විසින් තරුණියකට පොල්ලකින් පහරදී ඝාතනය කර තිබේ.
+Here's a summary in 200 characters:
 
-ඊයේ (04) උදෑසන මෙය සිදුව තිබූ අතර පහරදීමෙන් තුවාල ලැබූ තරුණියව ගිලීමලේ රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර  සඳහා රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
 
-පහරදීම සිදුකළ පුද්ගලයා සමග මියගිය තරුණිය ප්‍රේම සබඳතාවයක් පවත්වාගෙන ගොස් ඇති අතර දෙදෙනා අතර ඇති වූ බහින්බස් වීමක් දුරදිග යෑමෙන් පොල්ලකින් පහර දී ඝාතනය කර ඇති බව විමර්ශනවලදී අනාවරණය වී තිබේ.
 
-මෘත ශරීරය රත්නපුරය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධියෙන් පසු සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇත.
+Assault in Ketawala: Girl attacks man with stick. Victim hospitalized, suspect flees. Police investigating.
 
-සැකකරු අත්අඩංගුවට ගැනීම සඳහා සිරිපාගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+🟩
+
+A person has been assaulted by a girl with a stick in the Ketawala area in Siriwala area.
+
+The victim was admitted to the Ginkle Hospital and was admitted to the Ratnapura Hospital for further treatment.
+
+Investigations have revealed that the girl who was killed with the assault and had been assaulted by a stick and murdered a stick.
+
+The remains are placed at the Ratnapura hospital morgue and the suspect had fled the area after the incident.
+
+Siripatuna Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/228b6e19.json)
+
+[Extended Data](ext_articles/228b6e19.ext.json)
 
 ---
 
@@ -478,27 +580,37 @@ The price of essential commodities in the market has increased and people are ve
 
 ---
 
-### සහල් අර්බුදය: නත්තල් වෙද්දි හාල් මිල අහස උසට යයි ද?
+### The rice crisis: rice prices go back to heaven?
 
 *2024-12-05 02:21:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0x3p8zrklo) · `si`
 
-එක හාල් ඇටයක්ව පිටරටින් ආනයනය නොකරන බවට දුන් මැතිවරණ පොරොන්දුව කඩ කිරීමට රජයට සිදුව තිබේ. ඒ සහල් හිඟය හේතුවෙනි.
+Here's a summary of the text in approximately 200 characters:
 
-එයට විසඳුමක් ලෙස පිටරටින් සහල් ආනයනය කිරීමට රජය ප්‍රතිපත්තිමය තීරණයක් ගනු ලැබුවේ පසුගිය නොවැම්බර් මාසයේ දී ය.
 
-කෙසේ වෙතත් මෙතෙක් වෙළඳපලේ සහල් හිඟය අවසන් වී නොමැති අතර සහල් මිල ද පාලනයකින් තොරව ඉහල යමින් තිබේ.
 
-සහල් ආනයනය පහසු කිරිමට මෙන්ම සහල් හිඟය ඉක්මනින් අවසන් කිරිමට එක් පියවරක් ලෙස සහල් ආනයනයට පවතින සීමා තාවකාලිකව ඉවත් කිරිමට කැබිනට් මණ්ඩලය තීරණය කර ඇත.
+Rice crisis: Govt violates election promise, imports rice to address shortage. Prices rise despite imports. Disagreement between small mills and large exporters on pricing. Government aims to resolve crisis by Dec 20, 2023.
 
-එම තීරණයට අනුව 2024/12/20 දක්වා ආනයන පාලන බලපත්‍ර ලබා ගැනිමෙන් තොරව මෙරටට සහල් ගෙන්වීමට අවසර ලබා දී තිබේ.
+🟩
 
-පවතින අර්බුදකාරී තත්ත්වය හමුවේ ඉදිරි උත්සවය සමය වන විට මෙරට සහල් හිඟයට විසඳුමක් ලැබුණු ඇති දැයි බීබීසි සිංහල විසින් සොයා බලන ලදි.
+The government has to violate the election promise that one rice has not imported abroad. That's the shortage of rice.
 
-සුළු හා මධ්‍ය පරිමාණ මෝල් හිමියන්ගේ සංගමය පවසන්නේ සහල් ආනයනය කිරිමට රජය ගත් තීරණය මීට පෙර ගත යුතුව තිබු බවයි.
+The government made policy decision to import rice abroad as a solution.
+
+However, the shortage of rice in the market has not yet been completed and rice prices are also gone.
+
+The Cabinet has decided to temporarily remove the importance of rice as one step to facilitate the importation of rice as well as the shortage of rice shortly.
+
+According to the decision, it was permitted to import rice without obtaining the import control license to 2024/12/20.
+
+In the event of the prevailing crisis, BBC was found whether the lack of rice was found.
+
+Small and Medium Scale Mill Thera says the government has taken the decision to import rice.
 
 ...
 
 [Data](articles/5a3ae179.json)
+
+[Extended Data](ext_articles/5a3ae179.ext.json)
 
 ---
 
@@ -528,19 +640,29 @@ At the request of the Sri Lankan Tamil Nadu, the President of the Tamil National
 
 ---
 
-### ’சம உரிமையை உறுதிப்படுத்தவும்’
+### Confirm the equal rights of the model
 
 *2024-12-05 02:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம-உரிமையை-உறுதிப்படுத்தவும்/175-348261) · `ta`
 
-தமிழ் மக்களுக்கும் இந்த நாட்டில் சம உரிமையுள்ளது. எனவே, அந்த சம உரிமைகள்  தேசிய மக்கள் சக்தி அரசினால் உருவாக்கப்படவுள்ள புதிய அரசியலமைப்பில் உறுதிப்படுத்தப்பட வேண்டும் என வலியுறுத்திய    இரா. சாணக்கியன் எம்.பி, இந்த  அரசை வீழ்த்துவதோ எதிர்ப்பதோ எமது நோக்கம் அல்ல. அரசின்  முற்போக்கான நடவடிக்கைளுக்காகக்  காத்திருக்கின்றோம் என்றார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில்   புதன்கிழமை (04)  இடம்பெற்ற ஜனாதிபதியின் கொள்கை  விளக்க உரை மீதான இரண்டாம் நாள் விவாதத்தில்  உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
 
-தேசிய மக்கள் சக்திக்கு எவ்வாறு நாடு முழுவதும் மக்கள் ஆணை கிடைத்ததோ அதேபோன்று வடக்கு, கிழக்கில் தமிழரசுக்கட்சிக்கே மக்கள் ஆணை கிடைத்துள்ளது. அத்துடன் அநுர சுனாமியை எமது மட்டக்களப்பு மாவட்டம் மட்டுமே தைரியமாக எதிர்த்து நின்றது. அதனால்தான் அங்கு நாம் வரலாற்று வெற்றியைப்பெற்றோம்.
+
+Tamil rights emphasized in parliament debate. Equal rights stressed for constitution creation. Historical resistance noted. Political prisoner release urged. Government action sought on unresolved Tamil issues.
+
+🟩
+
+Tamil people have equal rights in this country. Therefore, that equal rights should not be urged to ensure that the new constitution is to be created by the National People's Power.. The Chanakyan MP is not our aim for bringing down or opposing this state. We are waiting for the government's progressive actions.
+
+He said this while addressing the second day of debate on the president's policy speech held in Parliament on Wednesday (04).
+
+Just as the people of the country have received the people's mandate for the national people's power, the Tamil party has received the orders of the Tamil party in the North and East.. And only our Batticaloa district boldly resisted the tsunami. That is why we have a historical success.
 
 ...
 
 [Data](articles/685aac15.json)
+
+[Extended Data](ext_articles/685aac15.ext.json)
 
 ---
 
@@ -1034,19 +1156,31 @@ It was in this context that the people of the country formed the power -led gove
 
 ---
 
-### பயங்கரவாத தடைச்சட்டம் நீக்கப்பட்டு புதிய சட்டம் கொண்டு வரப்படும் : நீதி அமைச்சர் ஹர்ஷன நாணயக்கார
+### The Terrorism Act will be lifted and the new law will be introduced
 
 *2024-12-05 00:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200424) · `ta`
 
-பயங்கரவாத தடைச்சட்டம் நீக்கப்படவேண்டியதொரு சட்டமாகும். என்பதை நாங்கள் ஏற்றுக்கொள்கிறோம். சர்வதேச சட்ட திட்டங்களுக்கு அமைவாக பயங்கரவாத எதிர்ப்பு சட்டம் ஒன்றை அமைத்துக்கொள்வதே எமது திட்டம். அதனால் இந்த சட்டத்தை ஏற்படுத்தி அனுமதித்துக்கொள்ளும்வரை நாட்டில் இனவாதம், மதவாதம் தலைதூக்கும்போது அதனை அடக்குவதற்கு தற்போதுள்ள சட்டத்தின் பிரகாரமே நடவடிக்கை எடுக்க வேண்டி ஏற்படுகிறது. அத்துடன் அடுத்தவருடம் முதல் காலாண்டில் திருடப்பட்ட சொத்துக்களை மீட்பது தொடர்பான 3 புதிய சட்டமூலங்களை பாராளுமன்றத்தில் சமர்ப்பிக்க நடவடிக்கை எடுப்பேன் என நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில் புதன்கிழமை (03) இடம்பெற்ற ஜனாதிபதியின் கொள்கை  விளக்க உரை மீதான இரண்டாம் நாள் விவாத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
 
-மக்கள் எமக்கு வழங்கிய ஆணையின் பிரகாரம் நாங்கள் மக்களுக்கு வழங்கிய வாக்குறுதிகளையும் ஜனாதிபதி சபைக்கு சமர்ப்பித்த கொள்கை பிரகடன உரையில் தெரிவித்த விடயங்களையும் அவ்வாறே பாதுகாத்து நிறைவேற்றுவோம்.
+
+New anti-terrorism law to replace Terrorism Act. Government vows to combat racism and religious extremism. Plans to introduce bills for asset recovery and criminal justice reform. Emphasizes rule of law and investor confidence.
+
+🟩
+
+The Terrorism Act is a law to be abolished. We accept. Our plan is to set up an anti -terrorism law in accordance with international law programs. So, until this law is allowed, the country has to take action to suppress racism and religiousism in the country.. Minister of Justice and National Integration Harshana Nanayakkara said that steps will be taken to submit three new Bill of Parliament on the recovery of stolen assets in the first quarter of the next year.
+
+He was speaking on the second day of debate on the President's policy speech held in Parliament on Wednesday (03).
+
+We will defend and fulfill the promises we made to the people and the issues made by the Presidential Council in the Declaration of the President.
+
+The main expectation of the people is to ensure the rule of law and establish law against fraudsters who destroyed the country's resources. We make the promise to the people that we will do these two matters.
 
 ...
 
 [Data](articles/57e1ea88.json)
+
+[Extended Data](ext_articles/57e1ea88.ext.json)
 
 ---
 
@@ -2285,121 +2419,5 @@ The Presidential Counsel, the Fisheries of Parapchel Trason, has been able to pa
 [Data](articles/f10d208b.json)
 
 [Extended Data](ext_articles/f10d208b.ext.json)
-
----
-
-### Between the second semi-final between Sri Lanka and India
-
-*2024-12-04 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204037) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Asia Cup: Sri Lanka advances to semis, faces India. UAE eliminated. Bangladesh wins inaugural title. India leads overall champs count. Sri Lanka runners-up 5 times.
-
-🟩
-
-All the matches of the Asia Cup completes all the matches of the Under 19 cricket tournament today (04).
-
-Sri Lanka entered the semi-finished semi-finished semi-finals.
-
-Accordingly, they are to play a second semi-final with India with the second semi-final.
-
-Accordingly, the United Arab Emirates were easily defeated in the critical match today.
-
-The United Arab Emirates won the runner round over the event.
-
-Meanwhile, the first semi-final will be held in Dubai, which won the second section of 'B' in the same day.
-
-Bangladesh is the current champions of this, and they ended 2023.
-
-It is India who has won the championship at every other time (7) in the history of Afghanistan as Asian Champions in 2017.
-
-Although Sri Lanka is eligible for the final in five occasions, but it was well enough to be runner-up.
-
-◼️
-
-[Data](articles/626c46ef.json)
-
-[Extended Data](ext_articles/626c46ef.ext.json)
-
----
-
-### Yall. Paddy fields in the kuttanai
-
-*2024-12-04 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200427) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Heavy rains damage paddy fields in Jaffna's Vadamarachchi East Kudana area. Disease spreads through affected fields, threatening crops.
-
-🟩
-
-In the Vadamarachchi East Kudana area, Jaffna is currently spreading the disease to paddy fields.
-
-The disease has suffered from the recent heavy rains in the country.
-
-Due to heavy rains, paddy fields have been destroyed and destroyed, and now a few fields that have escaped natural disasters have been affected by paddy fields.
-
-◼️
-
-[Data](articles/8892dc82.json)
-
-[Extended Data](ext_articles/8892dc82.ext.json)
-
----
-
-### Kerala cannabis worth over Rs. 75 mln seized in Guru Nagar
-
-*2024-12-04 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103997/kerala-cannabis-worth-over-rs-75-mln-seized-in-guru-nagar) · `en`
-
-The Sri Lanka Navy has seized around 188 kilograms and 350 grams of Kerala cannabis from a dinghy, during a special search operation conducted in the sea area off Guru Nagar, Jaffna in the wee hours of today (04).
-
-The operation, conducted by SLNS Welusumana of the Northern Naval Command, took place in the sea area off Guru Nagar.
-
-During the operation, naval personnel spotted a suspicious dinghy in the sea area.
-
-Upon inspection of the dinghy, they have recovered seven (07) travelling bags, containing Kerala cannabis weighing approximately 188 kilograms and 350 grams, the navy said.
-
-Consequently, the stock of Kerala cannabis and the dinghy were taken into naval custody.
-
-The gross street value of Kerala cannabis held in this operation is believed to be over Rs. 75 million.
-
-The haul of Kerala cannabis together with the dingy was handed over to the Jaffna Police for onward investigation and legal action.
-
-◼️
-
-[Data](articles/3c95e8bc.json)
-
-[Extended Data](ext_articles/3c95e8bc.ext.json)
-
----
-
-### The problem of food;Bail for both arrested!
-
-*2024-12-04 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200425) · `ta`
-
-Food relief dispute: Two youths granted bail after arrest over public argument during distribution in Point Pedro.
-
-🟩
-
-The Point Pedro Court on Wednesday (04) was granted bail to the two youths who were arrested on Wednesday (04) on the basis of a complaint lodged by the police regarding a dispute with the public when the Grama Sevakkar provided food relief in Vadamarachchi North Point Pedro.
-
-They were arrested on Monday (02) and filed in court on Monday (02).
-
-The Point Pedro Court has granted bail to the two arrested on the basis of a debate made by lawyers led by Attorney Wiswalingam Manivannan.
-
-On November 30 last year, the Grama Niladhari, who was providing food relief in the Kalovalam area, had a conflict with the children.
-
-As a result, the two were arrested on the basis of a complaint at the Grama Sevaka police station.
-
-◼️
-
-[Data](articles/aaa2a509.json)
-
-[Extended Data](ext_articles/aaa2a509.ext.json)
 
 ---

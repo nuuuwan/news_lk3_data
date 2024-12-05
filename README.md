@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 17:26:15**
+As of **2024-12-05 17:44:16**
 
 ## Newspaper Stats
 
-*Scraped **58,640** Articles*
+*Scraped **58,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
 adalk | 5,560
-adaderanalk | 7,125
-tamilmirrorlk | 8,352
+adaderanalk | 7,127
+tamilmirrorlk | 8,353
 virakesarilk | 9,599
 adaderanasinhalalk | 10,129
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 10,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,639 (100.0%) of 58,640 articles have been extended.
+58,642 (100.0%) of 58,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### Onion prices also rise
+
+*2024-12-05 17:37:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-விலையும்-எகிறியது/175-348290) · `ta`
+
+Onion & coconut prices surge: Indian onions now ₹550/kg (up from ₹500), coconuts ₹230 (from ₹180). Pakistani onions range from ₹400-₹450/kg. Wholesale market sees ₹400/kg onions. Coconut prices tripled to ₹60/pile.
+
+🟩
+
+Consumers say the price of one kilogram of Indian onion has increased from Rs 500 to Rs 550 today and the price of coconut has increased from 180 to 230 rupees.
+
+Pakistan's large onions and other large onions are between 400 and 450 rupees per kg and the price of onion continues to rise.
+
+Merchants say that the total price of Indian onion is in the wholesale market in Pettah, and the total price of one kilogram of onion has risen to 400 rupees.
+
+A small pile of coconut, which sold for 40 rupees to Rs 60, a few months ago, has three times the price of coconuts, according to coconut vendors.
+
+◼️
+
+[Data](articles/3a90fea7.json)
+
+[Extended Data](ext_articles/3a90fea7.ext.json)
+
+---
+
+### Sri Lankan Buddhist monk to study at Oxford after 105 years
+
+*2024-12-05 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104024/sri-lankan-buddhist-monk-to-study-at-oxford-after-105-years-) · `en`
+
+Venerable Wadigala Samitharathana Thero has become the first Sri Lankan Buddhist monk to study at Britain’s prestigious University of Oxford in 105 years.
+
+He is currently reading for an MPhil in Buddhist Studies as a Glorisun Scholar at St Cross College, University of Oxford.
+
+He studied oriental languages (Sinhala, Pāli, and Sanskrit) and other co-related literature (philology, etymology, grammar, semantics, metrics and prosody, logic and reasoning, ethics, epistemology, metaphysics, etc.) at Siri Sunanda Pirivena, Beliatta and Mahāvihāra Maha Pirivena, Kandy in Sri Lanka.
+
+The Venerable Thero was awarded the ‘National First Prize’ (with a Korean Government Scholarship) for the highest marks in the Buddhist Religious Final Examination in 2013 and the academic honour of ‘Royal Paṇḍita’ remarking the successful completion of oriental studies in Ceylon in 2016.
+
+...
+
+[Data](articles/3458e430.json)
+
+[Extended Data](ext_articles/3458e430.ext.json)
+
+---
 
 ### Political friends cannot be provided
 
@@ -1488,6 +1532,26 @@ Addressing claims made by former president Ranil Wickremesinghe, who said that t
 
 ### SLPP’s Administrative Secretary Renuka Perera arrested
 
+*2024-12-05 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104009/slpps-administrative-secretary-renuka-perera-arrested) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Administrative Secretary Renuka Perera has been arrested by the Criminal Investigation Department (CID) for allegedly posting false information on ‘Mahaviru’ commemorations in the North through social media, police said.
+
+A team of CID officers had visited Renuka Perera’s residence this morning (05) and took him into custody after recording a statement.
+
+Police stated that the CID is conducting further investigations regarding the arrest of Renuka Perera.
+
+Meanwhile, Minister Ananda Wijepala alleged yesterday (04) that photographs from past LTTE ‘Mahaviru’ celebrations that were held in other countries had been circulated on social media, to create the impression that similar events were taking place in the Northern Province of Sri Lanka under the current administration.
+
+...
+
+[Data](articles/a3e86299.json)
+
+[Extended Data](ext_articles/a3e86299.ext.json)
+
+---
+
+### SLPP’s Administrative Secretary Renuka Perera arrested
+
 *2024-12-05 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104009/slpps-administrative-secretary-renuka-perera-arrested-) · `en`
 
 Sri Lanka Podujana Peramuna (SLPP) Administrative Secretary Renuka Perera has been arrested by the Criminal Investigation Department (CID) for allegedly posting false information on ‘Mahaviru’ commemorations in the North through social media, police said.
@@ -2471,93 +2535,5 @@ The Heroes Day Analyst in the North and East is the main speech in the country. 
 [Data](articles/76f992ef.json)
 
 [Extended Data](ext_articles/76f992ef.ext.json)
-
----
-
-### Trying to create ethnic conflicts
-
-*2024-12-05 01:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இன-முரண்பாடுகளை-ஏற்படுத்த-முயற்சி/150-348258) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan minister accuses individuals of uploading manipulated content on social media to create ethnic conflicts during Heroes Day celebrations in the North and East.
-
-🟩
-
-Public Security and Parliamentary Affairs Minister Ananda Wijepala said that two of those who have uploaded photographs and videos on social networks on social networks to deliberately distort the Heroes Day observances in the North and East and create communal conflicts between the North and South.
-
-He said this while addressing a special statement in Parliament on Wednesday (04).
-
-I have informed the council to announce the reasons for the last two weeks in the country.
-
-The Heroes Day Analyst in the North and East is the main speech in the country. Everyone has the right to remember their dead relationships. All provinces, including the North and East and the South, have this right. We are still in this position today.
-
-...
-
-[Data](articles/a295df4d.json)
-
-[Extended Data](ext_articles/a295df4d.ext.json)
-
----
-
-### Political bribery for 361 bars
-
-*2024-12-05 01:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/361-பார்களுக்கு-அரசியல்-இலஞ்சம்/175-348257) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"361 liquor licenses granted across provinces: 110 Western, 48 Southern, 32 Northern, 22 Eastern, 45 Central, 14 North Central, 30 each Uva & North Western. Specific numbers for major districts also mentioned."
-
-🟩
-
-Councilor and Minister Bimal Ratnayake said in Parliament on Wednesday (04)
-
-Of these, 32 liquor roads have been granted to the Northern Province and 22 liquor roads for the Eastern Province.
-
-In the last government, many people have been granted licenses for liquor roads. We have said that they will be published.. All can know this
-
-According to this details, the permits for 110 liquor stores in the Western Province have been granted for 361 liquor schools, 48 ​​in the Southern Province, 32 in the Northern Province, 22 in the Eastern Province, 45 in the Central Province, 14 in the North Central Province, 30 in Uva Province and 30 in the North Western Province.
-
-Similarly, Colombo 2, Gampaha 8, Kalutara 8, Galle 9, Matara 5, Jaffna 5, Jaffna 5, Kilinochchi 16, Vavuniya 2, Mannar 2, Trincomalee 2, Batticaloa 1, Batticaloa 1, Ampara 5, Kandy 58, Anuradhapura 4, Polonnaruwa 3, Puttalam 6, Kurunegala 8, Badulla 9, Moneragala 7, Ratnapura 6, Kegalle 2. He said it was not given to Mullaitivu.
-
-◼️
-
-[Data](articles/b68bf717.json)
-
-[Extended Data](ext_articles/b68bf717.ext.json)
-
----
-
-### Ottamavadi - accident in Naval: One killed;The trio is hurt!
-
-*2024-12-05 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200451) · `ta`
-
-Vehicle accident in Ottamavadi kills one, injures three. Driver arrested. Police investigating.
-
-🟩
-
-A man was killed in a vehicle accident in Ottamavadi - Nawaladi area, police said.
-
-The incident took place on Thursday evening (4) on the Navaladi -Colombo main road.
-
-A ripper vehicle traveling towards the Polonnaruwa area as the main road of Nawaladi has crashed into a three -wheeler.
-
-A family member from Omaniyamadu area was killed in the accident.
-
-In addition, three people, including a three -wheeler driver, have been admitted to the Valaichenai Resource Hospital with injuries.
-
-The body of the victim has been placed at the Valaichenai Resource Hospital for autopsy.
-
-Ripper driver who caused the accident has been arrested by the Valaichenai police and further investigations into the accident are being carried out by the Valaichenai police.
-
-◼️
-
-[Data](articles/fd4a0db8.json)
-
-[Extended Data](ext_articles/fd4a0db8.ext.json)
 
 ---

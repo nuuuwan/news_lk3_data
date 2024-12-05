@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 16:42:24**
+As of **2024-12-05 17:26:15**
 
 ## Newspaper Stats
 
-*Scraped **58,635** Articles*
+*Scraped **58,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ islandlk | 3,518
 economynextcom | 3,561
 dailyftlk | 4,047
 dailymirrorlk | 4,733
-adalk | 5,558
-adaderanalk | 7,123
+adalk | 5,560
+adaderanalk | 7,125
 tamilmirrorlk | 8,352
-virakesarilk | 9,598
+virakesarilk | 9,599
 adaderanasinhalalk | 10,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,631 (100.0%) of 58,635 articles have been extended.
+58,639 (100.0%) of 58,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
+
+### Political friends cannot be provided
+
+*2024-12-05 16:47:39* · [`adalk`](https://www.ada.lk/breaking_news/ආයෝජන-අවස්ථා-ලබාදීමේදී-දේශපාලන-හිතවත්කම්-බෑ/11-413476) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake vows no political interference in investments. He promises full autonomy to the Board of Investment and plans 5 new zones next year. Stability is key for economic growth.
+
+🟩
+
+President Anura Kumara Dissanayake says that no political influence will be carried out on political affiliations on providing new investment opportunities.
+
+The President also stated that the full independence of the Sri Lanka Investment to the Board of Investment will be released to the country.
+
+He was speaking at a discussion held today with the top officials of the Board of Investment of Sri Lanka (05).
+
+The President also said that it is in focus on building 5 new investment zones in the country next year.
+
+The President emphasized that political stability and financial stability should also be achieved in the country.
+
+Therefore, it is committed to the Board of Investment to fulfill the responsibility of the Board of Investment in the next budget.
+
+Secretary to the President Dr. Nandika Sanath Kanaratu, Chairman of the Board of Investment of Sri Lanka (BOI)
+
+◼️
+
+[Data](articles/0c5c75f7.json)
+
+[Extended Data](ext_articles/0c5c75f7.ext.json)
+
+---
+
+### 10 rupees coin in an elephant's stomach
+
+*2024-12-05 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200492) · `ta`
+
+Elephant found dead in electric fence. Autopsy reveals 10-rupee coin in its stomach. Coin discovered during examination of elephant's remains. Insurance company manager arrested in connection with incident.
+
+🟩
+
+During an autopsy of the elephant, which was found trapped in an electric fence last week at the Kalawawawai National Park, a 10 -rupee currency from the elephant's stomach has been taken, said the veterinary department of the Wildlife Conservation Department Chandana Jayasinghe.
+
+The 45 to 50 -year -old elephant, which is 9 feet 2 inches tall, died in an electric fence that was fitted around a house near the Kalawawi National Park.
+
+Dr. Jayasinghe has confirmed that the elephant died of a heart attack caused by electricity.
+
+Later, the Department of Wildlife Protection Department removed the elephant's head with ivory and brought the remaining trunk to the Calgiriyagama Wildlife Department.
+
+During the autopsy conducted there, a 10 -rupee coin was taken from the stomach of the elephant.
+
+It is noteworthy that the manager of an insurance company has been arrested in connection with the death till December 12, after the manager of an insurance company has been arrested.
+
+◼️
+
+[Data](articles/113f5434.json)
+
+[Extended Data](ext_articles/113f5434.ext.json)
+
+---
+
+### 55 vulnerable Sri Lankans evacuated from Lebanon
+
+*2024-12-05 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104023/55-vulnerable-sri-lankans-evacuated-from-lebanon) · `en`
+
+The Embassy of Sri Lanka in Lebanon in association with the International Organization of Migration (IOM) has arranged to evacuate a total number of 55 vulnerable Sri Lankan workers from Lebanon on group basis.
+
+Accordingly, the latest group of 26 arrived in Colombo on 04 December in the evening, the Embassy of Sri Lanka in Beirut said.
+
+The Embassy of Sri Lanka in Lebanon further said it admires the IOM in Lebanon for its support  to evacuate the vulnerable Sri Lankans, and hopes to work together to continue to facilitate the most needy Sri Lankans despite the tense situation in Lebanon.
+
+◼️
+
+[Data](articles/fc130711.json)
+
+[Extended Data](ext_articles/fc130711.ext.json)
+
+---
+
+### Amnesty International report says Israel is committing genocide in Gaza
+
+*2024-12-05 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104022/amnesty-international-report-says-israel-is-committing-genocide-in-gaza) · `en`
+
+Amnesty International on Thursday accused Israel of “committing genocide“ against Palestinians in Gaza since the start of the war last year, saying its new report was a “wake-up call” for the international community.
+
+The London-based rights organisation said its findings were based on “dehumanising and genocidal statements by Israeli government and military officials”, satellite images documenting devastation, fieldwork and ground reports from Gazans.
+
+“Month after month, Israel has treated Palestinians in Gaza as a subhuman group unworthy of human rights and dignity, demonstrating its intent to physically destroy them,” Amnesty chief Agnes Callamard said in a statement.
+
+“Our damning findings must serve as a wake-up call to the international community: this is genocide. It must stop now,” she added.
+
+...
+
+[Data](articles/52555725.json)
+
+[Extended Data](ext_articles/52555725.ext.json)
+
+---
 
 ### SLPP’s Administrative Secretary Renuka Perera granted bail
 
@@ -42,11 +142,41 @@ He was arrested by the Criminal Investigation Department (CID) for allegedly pos
 
 A team of CID officers had visited Renuka Perera’s residence this morning (05) and took him into custody after recording a statement regarding the matter. He was subsequently produced before the Colombo Magistrate’s Court.
 
-◼️
+Accordingly, the Colombo Additional Magistrate, Manjula Ratnayake, has ordered the release of the suspect on two personal bonds of Rs. 01 million each.
+
+The Magistrate also directed the Criminal Investigation Department (CID) to investigate individuals involved in organizing the ‘Mahaviru’ (Maaveerar Naal) commemorations. The CID was instructed to identify and arrest those responsible and present them before the court.
+
+...
 
 [Data](articles/1effa434.json)
 
 [Extended Data](ext_articles/1effa434.ext.json)
+
+---
+
+### Sri Lanka third place in Visually Handicapped Twenty20 World Cup
+
+*2024-12-05 15:39:53* · [`adalk`](https://www.ada.lk/breaking_news/දෘශ්‍යාබාධිත-විස්සයි20-ලෝක-කුසලානයේ-තෙවැනි-ස්ථානය-ලංකාවට/11-413474) · `si`
+
+Sri Lanka's Visually Impaired cricket team won third place in the T20 World Cup. Tournament held in Vittane from 13/23 to 12/03. Damith Sabhas named Man of the Tournament. Players arrived at Katunayake Airport from Dubai.
+
+🟩
+
+Sri Lanka Visually Attack Cricket team won the third place on the Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty20 World Cup.
+
+The tournament was held in Vittane, with visually impaired cricket teams from 7 countries from 13/23 to 12/03.
+
+The Damith Sabhas, Sri Lanka's Visually Amweighted man of the tournament, were named after three matches in the tournament.
+
+Sri Lanka arrived at the Katunayake Airport on Flay Dubai, Flay Dubai, who came from Dubai to 12.45 am on April 12/05.
+
+Although relatives of these players arrived at the Bandaranaike International Airport, they were not entering the airport's attendance terminal.
+
+◼️
+
+[Data](articles/07e5ad2d.json)
+
+[Extended Data](ext_articles/07e5ad2d.ext.json)
 
 ---
 
@@ -930,19 +1060,31 @@ In a statement issued on December 2, the U.S. Embassy in Sri Lanka said that dur
 
 ---
 
-### හන්තාගේ අතරමං වූ සිසුන් සොයා ගැනෙයි
+### Hantha's lost students find out
 
 *2024-12-05 11:18:27* · [`adalk`](https://www.ada.lk/breaking_news/හන්තාගේ-අතරමං-වූ-සිසුන්-සොයා-ගැනෙයි/11-413472) · `si`
 
-කොළඹ සහ කිරිබත්ගොඩ ප්‍රදේශයෙන් පැමිණි පාසල් සිසුන් පිරිසක් හන්තාන කන්ද තරණය කරමින් සිටියදී ඔවුන් එහි අතරමංව සිටින බව පොලිස් හදිසි ඇමතුම් ඒකකයට දැනුම්දීමකින් අනතුරුව පොලිසිය සහ යුද හමුදාව එක්ව මහත් පරිශ්‍රමයක් දරා ඔවුන් බේරා ගත් බව පොලිසිය කියයි.
+Here's a summary of the text in approximately 200 characters:
 
-මේ දිනවල පාසල් නිවාඩු කාලය බැවින් කොළඹ සහ කිරිබත්ගොඩ ප්‍රදේශයේ දස දෙනෙකුගෙන් යුත් වයස අවුරුදු 16-17 වයසේ පාසල් සිසුන් කණ්ඩායමක් ඊයේ (04) පෙරවරුවේ පේරාදෙණිය පොලිස් වසමේ සරසවිගම ප්‍රදේශයෙන් හන්තාන කන්ද තරණය කොට ඇති අතර සවස 6.00 පමණ වන විට අධික මීදුම සහ ශීතල හේතුවෙන් සිසුන් කිහිප දෙනෙකුගේ කෙන්ඩා පෙරළි ගමන් මාර්ගය සොයා ගැනීම අපහසු වී තිබේ.
 
-පසුව එම සිසුන් පොලිස් හදිසි ඇමතුම් ඒකකයට දැනුම් දීමෙන් පසු පොලිසිය සහ දෙවැනි සිංහ රෙජිමේන්තුවේ සොල්දාදුවන් එක්ව මහත් පරිශ්‍රමයක් දරා ඊයේ (05) අළුයම් කාලයේ සරසවිගම ප්‍රදේශයෙන් එම සිසුන් ආරක්ෂිතව පහළට රැගෙන විත් තිබේ.
 
-...
+Lost students found: Police & Army rescue operation in Colombo & Kiribathgoda. Students crossed Peradeniya Police Div at 4 PM. Soldiers from Sinha Regiment searched Saraswagama area. Police advised against crossing Hanthana in December, especially before 3 PM due to fog.
+
+🟩
+
+The police and the army were rescued by the police and the army after a group of students from Colombo and Kiribathgoda.
+
+A group of ten-year-old school children have been crossed at the Peradeniya Police Division, Colombo and Kiribathgoda Police Division, Colombo and 4 pm yesterday (04).It has been difficult to find the Kinda Perfuition of Kenta Pathway.
+
+The soldiers of the police and the second Sinha Regiment have taken their efforts from the Saraswigama area yesterday after the students were notified to the police emergency unit.
+
+The police informed Hanthana not to cross Hanthana in December and to cross Hanthana as the police are informed and obtain a suitable assistant before Hanthana is crossing Hanthana.. Police say that at least 3.00 pm should begin at least 3.00 pm before the fog falls after Hanthana.
+
+◼️
 
 [Data](articles/d60ee1aa.json)
+
+[Extended Data](ext_articles/d60ee1aa.ext.json)
 
 ---
 
@@ -2417,127 +2559,5 @@ Ripper driver who caused the accident has been arrested by the Valaichenai polic
 [Data](articles/fd4a0db8.json)
 
 [Extended Data](ext_articles/fd4a0db8.ext.json)
-
----
-
-### Why in the Heroes affair?Double position
-
-*2024-12-05 01:52:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவீரர்-விவகாரத்தில்-ஏன்-இரட்டை-நிலைப்பாடு/175-348256) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Dual treatment of heroes: Sivajilingam arrested under Penal Code in North, social activists under Terrorism Act in South. Dayasiri questions disparity. Government claims anti-racism stance but applies different laws in different regions.
-
-🟩
-
-Sivajilingam, who remembers the heroes in the north, is arrested under the Penal Code. Social activists who reveal the Knights are arrested under the Terrorism Act in the South. Dayasiri Jayasekera, the United People's Power MP, questioned why this dual position was.
-
-He questioned the President's Policy Declaration on Wednesday (04) in Parliament.
-
-In the last parliament, 225 members were branded as thieves. So the government has the responsibility to put true thieves in the presence of law. It was reported that the former presidents would cancel the privileges of the former presidents, cancel the allowances of MPs and end the family rule.. But the wife of the council Chief Minister Bimal Ratnayake is in the government.
-
-The government says that there is no room for racism. Will give you complete cooperation to eliminate racism. Never apologize to racists. To be punished for severe punishment.
-
-...
-
-[Data](articles/66f8db67.json)
-
-[Extended Data](ext_articles/66f8db67.ext.json)
-
----
-
-### State policy declaration
-
-*2024-12-05 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200445) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Parliament unanimously passes government policy declaration without referendum. Debate held on Nov 3-4. President Anura Kumara Dissanayake presented on Nov 21.
-
-🟩
-
-The resolution on the government's policy declaration was unanimously passed in Parliament without a referendum on Wednesday (04).
-
-The debate on the government's policy declaration was held on Tuesday (03) from 9.30 am to 5.30 pm and Wednesday (04) from 9.30 am to 5.00 pm.
-
-President Anura Kumara Dissanayake presented the government's policy declaration in Parliament on November 21.
-
-◼️
-
-[Data](articles/e350eb77.json)
-
-[Extended Data](ext_articles/e350eb77.ext.json)
-
----
-
-### Archana praised the power of the national people
-
-*2024-12-05 01:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-புகழ்ந்தார்-அர்ச்சுனா/175-348255) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Archana: National people defeated Tamil politicians, giving 3 seats to national power. Claims racism exists in all previous governments. Opposition accused of racism, denies communalism.
-
-🟩
-
-That is why the people have defeated the Tamil politicians in the North and gave them 3 seats to the national people's power.. Ramanathan Archana said.
-
-In the second day's debate on the president's policy speech in Parliament on Wednesday (04), the UNP MP Dayasiri Jayasekara and the Chief Minister of the Council and Minister Bimal Ratnayaka said in a sudden controversy over who was racist.
-
-Racism was in all the last states. The Tamils ​​have seen us.. That is why the Northern people defeated the Tamil politicians who lied and gave them 3 seats to the national people's power. And the independent group made me win.
-
-Opposition parties are now carrying out racism. He said the national people did not carry out communalism.
-
-◼️
-
-[Data](articles/1ca4d5c5.json)
-
-[Extended Data](ext_articles/1ca4d5c5.ext.json)
-
----
-
-### Hirunika withdraws statement made in respect of Magistrate Court proceedings against Hardy Jamaldeen
-
-*2024-12-05 01:34:13* · [`dailyftlk`](https://www.ft.lk/news/Hirunika-withdraws-statement-made-in-respect-of-Magistrate-Court-proceedings-against-Hardy-Jamaldeen/56-770127) · `en`
-
-Court of Appeal advises accused on future statements and discharges her from Contemptproceedings
-
-The Court of Appeal, on 11 September, ordered former Member of Parliament Hirunika Premachandra to appear in person before the Court of Appeal yesterday for an inquiry into a Contempt of Court application filed against her by young business leader Hardy Jamaldeen.
-
-In the application, Jamaldeen claimed that Premachandra committed the offence of Contempt of Court by criticising an order issued by the Mount Lavinia Magistrate’s Court concerning him during a press conference held on International Women’s Day. He further alleged that her actions amounted to interference with the due administration of justice.
-
-...
-
-[Data](articles/e2866558.json)
-
-[Extended Data](ext_articles/e2866558.ext.json)
-
----
-
-### Rice millers agree to supply at controlled price: Trade Minister
-
-*2024-12-05 01:30:05* · [`dailyftlk`](https://www.ft.lk/news/Rice-millers-agree-to-supply-at-controlled-price-Trade-Minister/56-770126) · `en`
-
-Rice millers agreed to supply 200,000 kilograms of rice daily to the market through ‘Lanka Sathosa’ at a controlled price of Rs. 220 per kilo, effective from yesterday.
-
-The move was confirmed by Trade Minister Wasantha Samarasinghe during the Parliament session yesterday.
-
-“During the recent discussion with rice mill owners, they claimed that the rice stocks in the mills cannot be released to the market due to an issue with the banks. On Tuesday, we provided them with a solution for that issue,” he added.
-
-The Trade Minister also assured that 1 million coconuts will be sold through Sathosa outlets in the suburbs at a price of Rs. 130 per coconut, over the next two weeks.
-
-Samarasinghe added that coconut products obtained from State-owned plantations will be sold at low prices in this manner.
-
-◼️
-
-[Data](articles/cce2b901.json)
-
-[Extended Data](ext_articles/cce2b901.ext.json)
 
 ---

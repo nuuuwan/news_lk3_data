@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-05 14:02:06**
+As of **2024-12-05 13:43:11**
 
 ## Newspaper Stats
 
-*Scraped **58,621** Articles*
+*Scraped **58,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,69 +20,29 @@ adalk | 5,554
 adaderanalk | 7,120
 tamilmirrorlk | 8,348
 virakesarilk | 9,597
-adaderanasinhalalk | 10,127
+adaderanasinhalalk | 10,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,602 (100.0%) of 58,621 articles have been extended.
+58,598 (100.0%) of 58,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-05 (Thursday)
 
-### සතොසෙන් පොල් තුනයි හාල් කිලෝ 5යි
-
-*2024-12-05 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204067) · `si`
-
-සතොස හරහා ගෙඩියක් රුපියල් 130 ට අලෙවි කරන පොල් තොග සහ වෙළෙඳපොළට බෙදාහරින සහල් අද (05) දහවල් කාලයේ දී සතොස අලෙවිසැල් වෙත ලැබීමට සලස්වන බව ලංකා සතොස සභාපති ආචාර්ය සමිත පෙරේරා මහතා පවසයි.
-
-එහිදී, එක් අයකුට වරකට පොල්ගෙඩි 3ක් සහ සහල් කිලෝ 5ක් බැගින් ලබාගත හැකි බව බව ඒ මහතා ප්‍රකාශ කළේය.
-
-ඒ අනුව, කොළඹ අවට ඇති සතොස ශාඛාවලින් අද දින සිටත් කොළඹින් බැහැර ප්‍රදේශවල සතොස ශාඛාවලින් හෙට (06) දින සිටත් පොල් සහ සහල් මිලදී ගත හැකිය.
-
-"දැනට කොළඹ අවට සතොස ශාඛාවලට පොල් යවමින් පවතිනවා. හවස්වනවිට කොළඹ තියෙන ශාකාවලට දෙන්න සලස්වනවා. හාලුත් දවල්වන විට මේ ශාඛාවලට නාඩු සහල් ලබා දීමට සලස්වනවා. "
-
-◼️
-
-[Data](articles/31a36e3e.json)
-
----
-
-### දෙවන ටෙස්ට් තරගයේ කාසියේ වාසිය දකුණු අප්‍රිකාවට
-
-*2024-12-05 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204066) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකාව අතර දෙවන ටෙස්ට් ක්‍රිකට් තරගය අද (05) පැවැත් වෙයි.
-
-එහි කාසියේ වාසිය දිනාගැනීමට දකුණු අප්‍රිකාව සමත්වූ අතර ඔහුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමටය.
-
-දෙරට අතර පැවැති පළමු ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 233කින් ජය ගැනීමට දකුණු අප්‍රිකාව සමත් විය.
-
-◼️
-
-[Data](articles/118ac361.json)
-
----
-
-### Bail for Lohan couple
+### லொஹான் தம்பதிக்கு பிணை
 
 *2024-12-05 13:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-தம்பதிக்கு-பிணை/175-348277) · `ta`
 
-N
+முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த மற்றும் அவரது மனைவி சஷி பிரபா ரத்வத்த ஆகியோருக்கு நுகேகொட நீதவான் நீதிமன்றம், வியாழக்கிழமை (05) பிணை வழங்கியுள்ளது.
 
-🟩
-
-The Nugegoda Magistrate's Court on Thursday (05) granted bail to former State Minister Lohan Ratwatta and his wife Sashi Prabha Ratwatta.
-
-Lohan Ratwatte and his wife have been arrested on charges of using an illegal imported luxury car in Sri Lanka and have been remanded until December 6.
+இலங்கையில் சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட சொகுசு காரை பயன்படுத்திய குற்றச்சாட்டில் லொஹான் ரத்வத்தே மற்றும் அவரது மனைவி ஆகியோர் கைது செய்யப்பட்டு டிசம்பர் 06 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/07c0fe62.json)
-
-[Extended Data](ext_articles/07c0fe62.ext.json)
 
 ---
 
@@ -125,8 +85,6 @@ Police had found the luxury car in question during an inspection carried out bas
 ...
 
 [Data](articles/851d5734.json)
-
-[Extended Data](ext_articles/851d5734.ext.json)
 
 ---
 
@@ -298,27 +256,21 @@ Katunayake Police, Negombo Hospital, Seethawa Health Officer's Office and Divisi
 
 ---
 
-### Here is how money has been allocated from the Interim Standardized Account
+### අතුරු සම්මත ගිණුමෙන් මුදල් වෙන්කර ඇති ආකාරය මෙන්න
 
 *2024-12-05 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204064) · `si`
 
-Money allocation summary: Ministry of Transport leads with 186.99 billion, followed by Finance (161.95 billion), Health (161.95 billion), Defense (161.95 billion), Education (92 billion), Agriculture (67.36 billion). Total continuous projects budget: Rs. 1,402 billion.
+2025 වසරේ පළමු මාස 04 සඳහා ඉදිරිපත් කළ අතුරු සම්මත ගිණුමෙන් රජයේ කටයුතු පවත්වාගෙන යාම සහ දැනට ආරම්භ කර ඇති ව්‍යාපෘති නොනවත්වා ඉදිරියට පවත්වාගෙන යාම සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 1,402කට ආසන්න ය.
 
-🟩
+ඒ අනුව වැඩිම මුදලක් වෙන්කර ඇති අමාත්‍යාංශය වන්නේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයටය.
 
-Also, maintaining government proceedings from the Votering Account of the first four months of 2025, the amount allocated to maintain continuously commenced projects nearly Rs. 1,402 billion.
+මුදල් ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 186.02ක්ද, රාජ්‍ය පරිපාලන පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 170.47ක්, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය සඳහා රුපියල් බිලියන 161.99ක්ද, ආරක්ෂක අමාත්‍යාංශය සඳහා රුපියල් බිලියන 142.95ක්ද මෙම අතුරු සම්මත ගිණුමෙන් වෙන්කර තිබේ.
 
-Accordingly, the highest amount of money is the Ministry of Transport, Highways, Ports and Civil Aviation.
-
-186.99 billion for the Ministry of Finance and Economic Development, the Ministry of Health and Massestines is Rs. 161.95 billion for the Ministry of Defense and the Ministry of Defense.
-
-The Ministry of Education, Higher Education and Vocational Education is Rs. 92 billion and the agriculture, livestock, land and irrigation has allocated Rs 67.36 billion.
+අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 92ක් වන අතර කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍යාංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 67.36කි.
 
 ◼️
 
 [Data](articles/c506803f.json)
-
-[Extended Data](ext_articles/c506803f.ext.json)
 
 ---
 
@@ -337,8 +289,6 @@ A comprehensive discussion was held on addressing the longstanding challenges fa
 ...
 
 [Data](articles/e9bddd5d.json)
-
-[Extended Data](ext_articles/e9bddd5d.ext.json)
 
 ---
 
@@ -2439,5 +2389,39 @@ There are many unresolved problems for the Tamil people. Political prisoners arr
 [Data](articles/594f6670.json)
 
 [Extended Data](ext_articles/594f6670.ext.json)
+
+---
+
+### 2024-12-04 (Wednesday)
+
+### Ethnic reconciliation to win economic struggle
+
+*2024-12-04 23:52:35* · [`dailyftlk`](https://www.ft.lk/columns/Ethnic-reconciliation-to-win-economic-struggle/4-770107) · `en`
+
+Without ethnic reconciliation, economic growth and prosperity would be stunted at best or retarded at worst
+
+If there is one political leader and one political party that could reverse this trend of intercommunal disconnection, dissatisfaction and discontent and bring them all together under the umbrella of a united Sri Lanka that leader would be Anura Kumara Dissanayake (AKD) and that party would be NPP. The support his party received from Tamil and Muslim voters from the north and east would vouch for this
+
+...
+
+[Data](articles/cf3910a1.json)
+
+[Extended Data](ext_articles/cf3910a1.ext.json)
+
+---
+
+### DSI obtains enjoining order against infringement of ‘Fun Souls’ brand
+
+*2024-12-04 23:34:57* · [`dailyftlk`](https://www.ft.lk/business/DSI-obtains-enjoining-order-against-infringement-of-Fun-Souls-brand/34-770100) · `en`
+
+Action was filed in the Commercial High Court of Colombo by DSI through their Attorneys Sudath Perera Associates against the entity Lakpa Footwear Ltd., with its headquarters based in Horana. The action was filed for the infringement of DSI’s ‘Fun Souls’ trademark and brand and the shoe design on the basis of trademark infringement, unfair competition, and passing-off.
+
+D. Samson & Sons Ltd., widely known as DSI, is a leading homegrown brand and manufacturer of footwear, apparel, and bicycle tyres across the country and has established a strong reputation for quality products in Sri Lanka since its inception. In 2016, DSI introduced and developed the brand ‘Fun Souls’ with a youth identity, to offer a range of unique shoes and bags, including infant shoes, toddler shoes, boys’ and girls’ footwear, and accessories. This ‘Fun Souls’ shoe design was an original concept presented by the DSI brand family.
+
+...
+
+[Data](articles/0c106e61.json)
+
+[Extended Data](ext_articles/0c106e61.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 18:39:48**
+As of **2024-12-06 19:02:57**
 
 ## Newspaper Stats
 
-*Scraped **58,853** Articles*
+*Scraped **58,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,534
 economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,577
+adalk | 5,579
 adaderanalk | 7,148
 tamilmirrorlk | 8,390
 virakesarilk | 9,637
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,838 (100.0%) of 58,853 articles have been extended.
+58,846 (100.0%) of 58,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### පොල් බෑය රු. 100ට 120ට යයි
+
+*2024-12-06 18:31:02* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-බෑය-රු--100ට-120ට-යයි/11-413496) · `si`
+
+නාගරික ප්‍රදේශ රැසක පොල් ගෙඩියක මිල රුපියල් 200ක් දක්වා ඉහළ ගොස් තිබේ. ග්‍රාමීය ප්‍රදේශවලද පොල් ගෙඩියක් අලෙවි කෙරෙන්නේ රුපියල් 160 ඉක්මවු මිලකටයි.හබරාදුව නගරයේ සහා ඒ අශ්‍රිත ප්‍ර දේශවල මේ වනවිට පොල් ගෙඩියක මිල 180 ක් වේ. වෙළෙඳුන් පවසන්නේ ප්‍රමාණවත් පරිදි පොල් තොග නොලැබීම නිසා මෙලෙස මිල ඉහළ ගොස් ඇති බවයි.
+
+කොළඹ ඇතැම් ප්‍රදේශවල පොල් බෑයක් රුපියල් 100-120 ත් අතර මිලකට අලෙවි කරයි. පොල් මිල තවදුරටත් ඉහළ යනු ඇතැයිද වෙළෙඳපොළ ආරංචිමාර්ග පවසයි. පොල් අස්වනු නෙළීම අඩුවීම, පොල් ආශ්‍රිත අපනයන සඳහා පොල් වැඩි වශයෙන් යොදා ගැනීමත් නිසා මෙලෙස පොල් මිල ඉහල යාමට බලපා තිබේ.
+
+◼️
+
+[Data](articles/4f4211b0.json)
+
+---
 
 ### Vote on Account passed in Parliament without a vote
 
@@ -48,39 +62,61 @@ Following the conclusion of today’s debate, the Vote on Account was passed wit
 
 [Data](articles/ed1e45ca.json)
 
+[Extended Data](ext_articles/ed1e45ca.ext.json)
+
 ---
 
-### ආණ්ඩුවේ අතුරු සම්මත ගිණුම ඡන්ද විමසීමකින් තොරව සම්මතයි
+### Government's interim account passed without polls
 
 *2024-12-06 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204109) · `si`
 
-2025 වස‍රේ පළමු මාස 4 සඳහා වන ආණ්ඩුවේ අතුරු සම්මත ගිණුමට අදාළ යෝජනා සම්මතය අද (06) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සම්මත විය.
+Here's a summary of 200 characters:
 
-රජයේ කාර්යයන් සහ ණය සේවාකරණය අඛණ්ඩව කරගෙන යාම සඳහා වූ අතුරු සම්මත ගිණුම පසුගිය 3 වනදා පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
 
-ඊයේ (05) සහ අද ඒ සඳහා වූ විවාදය පාර්ලිමේන්තුවේ දී පෙ.ව 9.30 සිට ප.ව 5.30 දක්වා පැවැත්විණි. ඒ අනුව අද පැවති විවාදයෙන් අනතුරුව,  අතුරු සම්මත ගිණුම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+"Parliament passes 2025 interim budget without vote. Debate on government functions account concluded yesterday, approved today."
+
+🟩
+
+The proposal for the first four months of the year of 2025 was passed in parliament today (06) without polling.
+
+The interim standard account for continuing government functions was presented to parliament on the 3rd.
+
+The debate yesterday (05) and the debate on this was held in Parliament from 9.30 am to 5.30 pm. Accordingly, following the debate today, the interim standard was passed without a poll.
 
 ◼️
 
 [Data](articles/f4eaacbb.json)
 
+[Extended Data](ext_articles/f4eaacbb.ext.json)
+
 ---
 
-### ව්‍යවස්ථාදායක සභාවේ නියෝජිතයන් නම් කෙරේ
+### The delegation of the Legislative Council is named
 
 *2024-12-06 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204108) · `si`
 
-ඒ අනුව ආණ්ඩු පක්ෂය නියෝජනය කිරීම සඳහා පාර්ලිමේන්තු මන්ත්‍රී අබු බකර් අතම්බාවා මහතා පත් කර තිබේ.
+Here's a 200-character summary:
 
-විපක්ෂය නියෝජනය කරමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පත් කර ඇති අතර ඔහුගේ නියෝජිතයා ලෙස සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී පෙරේරා මහතා නම් කර තිබේ.
 
-එමෙන්ම සුළු පක්ෂ නියෝජනය කිරීම සඳහා ඉලංගෙයි තමිල් අරුසු කච්චි පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ශ්‍රීධරන් පත් කිරීමටද පියවර ගෙන තිබේ.
 
-ඒ අනුව ව්‍යවස්ථාධායක සභාවට තව පත් කිරීමට ඇත්තේ ජනාධිපතිවරයාගේ නියෝජිතයා පමණි.
+Legislative Council delegation named: Abu Baka Kamamba (government), Sajith Premadasa (opposition), Ajith P. Perera (representative). Minor parties represented by Ilangai Thamil Arasu Kachchi Sri Lanka. President's representative appointed to SHP.
+
+🟩
+
+Accordingly, Parliamentarian Abu Baka Kamamba has been appointed to represent the government.
+
+Opposition Leader Sajith Premadasa has been appointed as his representative and his representative has been named MP Ajith P. Perera.
+
+Steps have also been taken to appoint Ilangai Thamil Arasu Kachchi Sri Lanka to represent the minor parties.
+
+Accordingly, the President's representative has to be appointed to the SHP.
 
 ◼️
 
 [Data](articles/ee7114c4.json)
+
+[Extended Data](ext_articles/ee7114c4.ext.json)
 
 ---
 
@@ -112,39 +148,55 @@ Sunil Handunnetti said that the red sugar is classified as an essential substanc
 
 ---
 
-### මාලිමාවේ ජනවරම ගැන මංගල කතාවේදීම වචන තුනෙන් දිලිත් කිව්ව කතාව
+### The speech of three words in the wedding speech about the mandate of the compress
 
 *2024-12-06 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204107) · `si`
 
-ඉදිරි වසර 5 තුළ රජය නිවැරදි මාවතක ගමන් කරවීම සඳහා සර්වජන බලය කටයුතු කරන බව සර්වජන බලයේ නායක, ව්‍යවසායක, පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-අද (06) පාර්ලිමේන්තුවේදී සිය මංගල කතාව ඉදිරිපත් කරමින් ඔහු පැවසුවේ, පසුගිය මහ මැතිවරණයේදී විපක්ෂය කටයුතු කළ ආකාරයට ජනතාවට විකල්පයක් නොමැතිව ගිය බවය.
 
-මැතිවරණයේදී ජනතාව ලබා දුන් මෙම තීන්දුව කලකිරීම, විකල්පයක් නැතිවීම, අසත්‍ය නම් කරුණු තුන තුළින් නිරූපණය වන බවත් දිලිත් ජයවීර මහතා පැවසීය.
 
-"තිබුණු දේශපාලන සංස්කෘතිය සහ ඒ වටා තිබුණු දූෂණ චෝදනා ඒ සංස්කෘතිය වටා ගොඩනැගුණු දහසක් චිත්ත රූප නිසා ලංකාවේ සුවහසක් දේශප්‍රේමී ශ්‍රී ලාංකිකයින්ට මේ වාමවාදී දේශපාලන කඳවුරට සැමදා ආදරය කරපු අයට කලකිරුණා. ඒ කලකිරීමේ ඡන්දය තමයි ලබාදුන්නේ. ඒ නිසා ඔබ මොහොතකට වත් හිතන්න එපා ඔබගේ ප්‍රතිපත්ති ප්‍රකාශය කියවලාවත්, ඔබගේ පන්ති පහට ගිහිල්ලාවත්, ඔබගේ මේ දේශපාලනය අවබෝධ කරගෙනවත් නෙමෙයි කියන එක.
+MP Dilith Jayaweera speaks about the government's path forward. He criticizes political culture and corruption, saying the opposition lacks strong alternatives. He urges support for the current government, stating there's no alternative for the people.
+
+🟩
+
+The leader of the universal power, entrepreneur, MP Dilith Jayarawara says that the government will work on the right path to trave the right path towards the next five years.
+
+He said that he was speaking in parliament today (06), that the opposition went to the people as the opposition across the past general election.
+
+Dilith Jayaweera said that the alternatives, loss of alternatives, the loss of alternatives and false were depicting the people.
+
+"Political culture and the corruption surrounding that culture were frustrated to the famous patriotic Sri Lankans in Sri Lanka because of thousands of corruption around the culture.. The voting vote was given. So don't think a moment don't think about your policy statement, not even to understand your politics.
 
 ...
 
 [Data](articles/595bcf99.json)
 
+[Extended Data](ext_articles/595bcf99.ext.json)
+
 ---
 
-### අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කරයි
+### Children under 12 prohibit the advertising of advertising
 
 *2024-12-06 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204106) · `si`
 
-ජනවාරි 01 වැනිදා සිට අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කිරීමට පියවර ගන්නා බව සෞඛ්‍ය සහ ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හසංක විජේමුණි මහතා පවසයි.
+Sri Lanka bans child advertising under 12. Health Minister promises enforcement starting Jan 1.
 
-අද (01) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ ඒ සඳහා වූ ගැසට් නිවේදනය බලාත්මක කිරීමට සියලු කටයුතු මේ වන විට යොදා ඇති බවය.
+🟩
 
-"විශේෂයෙන් අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරය සඳහා යොදා ගැනීම අපි ජනවාරි 01 වැනිදා සිට නවත්වනවා. ඒ සඳහා වූ ගැසට් පත්‍රය බලාත්මක කිරීමට සියලු කටයුතු අපි යොදලා ඉවරයි.
+Health and Mass Media Deputy Minister Dr. Hawkin Wijesanka Wijesank Wijesanki says that steps will be taken to promote the use of children under 12 years from January 1 to 12 years.
 
-මොකද පසුගිය රජයන් තුළින් අවුරුදු 7-8ක් තිස්සේ ඕක පස්සට දාදා හිටියා. අපි ගිය සතියේ තීරණයක් ගත්තා අපි ඒක පස්සට දාන්නේ නෑ අපි ජනවාරි 01 වැනිදා ඉඳලා මෙය බලාත්මක කරනවා කියන කාරණය."
+Speaking in Parliament today (01), the Deputy Minister said that all arrangements have been made to enforce the gazette notification.
+
+"We stop using children under 12 in 12 years of advertising.. We have used all the work to enforce the gazette.
+
+Because the last governments have been on the same day. We made a decision last week and we don't turn it back on January 1 and it is being implemented. "
 
 ◼️
 
 [Data](articles/08b8b5bc.json)
+
+[Extended Data](ext_articles/08b8b5bc.ext.json)
 
 ---
 
@@ -231,6 +283,20 @@ The petitioners requested the court to issue a directive to relevant authorities
 [Data](articles/4af66725.json)
 
 [Extended Data](ext_articles/4af66725.ext.json)
+
+---
+
+### වෘත්තීය අයිතිවාසිකම් කප්පාදු කිරීම නව රජයේ ප්‍රතිපත්තිය නොවෙයි
+
+*2024-12-06 16:23:07* · [`adalk`](https://www.ada.lk/breaking_news/වෘත්තීය-අයිතිවාසිකම්-කප්පාදු-කිරීම-නව-රජයේ-ප්‍රතිපත්තිය-නොවෙයි/11-413495) · `si`
+
+වෘත්තීය අයිතිවාසිකම් කප්පාදු කිරීම හෝ වෘත්තීය සමිති මර්දනය කිරීම නව රජයේ ප්‍රතිපත්තිය නොවන බවත්, සියලු වෘත්තීන් වල වෘත්තීමය ගරුත්වය ආරක්ෂා කරමින් හැකි අයුරින් වෘත්තීය සමිතිවල සාධාරණ ඉල්ලීම් ඉටු කිරීමට තම රජය කැපවන බවත්, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා මෙම අදහස් දැක්වූයේ  සිය ධූරයේ රාජකාරී කටයුතු ආරම්භ කිරීමෙන් පසු සෞඛ්‍ය සේවාවේ සියළු වෘත්තීය සමිති සමග සාකච්ඡා සිදු කරමින් එම වෘත්තිකයින් මුහුණ දෙන වෘත්තීය ගැටළු පිළිබදව විමසා බැලීමේ සහ සෞඛ්‍ය සේවාවේ ප්‍රගමනය උදෙසා වෘත්තීය සමිති සතු අදහස්, යෝජනා හා දායකත්වය ලබාගැනීමේ සාකච්ඡාමය වැඩසටහන අතරතුර දීය.
+
+...
+
+[Data](articles/41e45bd6.json)
 
 ---
 
@@ -495,6 +561,8 @@ R M A L Ratnayake, the Chairman of the EC said only few have submitted their rep
 ...
 
 [Data](articles/d7a5ff60.json)
+
+[Extended Data](ext_articles/d7a5ff60.ext.json)
 
 ---
 
@@ -810,6 +878,8 @@ The delegation led by Lu, who is the Assistant Secretary of the US Bureau Of Sou
 
 [Data](articles/357b82f3.json)
 
+[Extended Data](ext_articles/357b82f3.ext.json)
+
 ---
 
 ### US Assistant Secretary Donald Lu calls on Sri Lanka’s foreign minister
@@ -1037,6 +1107,8 @@ Sri Lanka had made remarkable progress in restoring its economy by “implementi
 ...
 
 [Data](articles/0f4a5c60.json)
+
+[Extended Data](ext_articles/0f4a5c60.ext.json)
 
 ---
 
@@ -2355,37 +2427,5 @@ However, the present government begins importing vehicles from next year?If it i
 [Data](articles/b7dae44f.json)
 
 [Extended Data](ext_articles/b7dae44f.ext.json)
-
----
-
-### CTTA celebrates 130 years with “Honouring Legends” of industry
-
-*2024-12-06 05:42:06* · [`dailyftlk`](https://www.ft.lk/business/CTTA-celebrates-130-years-with-Honouring-Legends-of-industry/34-770148) · `en`
-
-The Colombo Tea Traders’ Association (CTTA) continued its 130th anniversary celebrations with a grand event titled ‘Honouring Legends.’
-
-The occasion, held at the Colombo Rowing Club on Saturday, 30 November, brought together a distinguished gathering of the industry’s most senior and esteemed members representing all stakeholders, namely, Producers, Manufacturers, Exporters, and Brokers of tea.
-
-This landmark event recognised extraordinary individuals who have dedicated decades of service to the tea industry, shaping the legacy of ‘Ceylon Tea.’ The celebration reflected not only the rich heritage of the CTTA but also its commitment to honouring those whose contributions have sculpted the Ceylon tea industry into a global benchmark of excellence.
-
-...
-
-[Data](articles/d17738be.json)
-
-[Extended Data](ext_articles/d17738be.ext.json)
-
----
-
-### Marikkar questions Govt. on PAYE tax and promised relief measures
-
-*2024-12-06 04:23:28* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-questions-Govt-on-PAYE-tax-and-promised-relief-measures/56-770147) · `en`
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday raised concerns in Parliament regarding the Government’s tax policies, particularly the Pay-As-You-Earn (PAYE) tax and the promises made by the National People’s Power (NPP) during the elections to provide tax relief.
-
-...
-
-[Data](articles/55f3c0bb.json)
-
-[Extended Data](ext_articles/55f3c0bb.ext.json)
 
 ---

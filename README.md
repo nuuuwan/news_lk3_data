@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 06:48:07**
+As of **2024-12-06 05:51:26**
 
 ## Newspaper Stats
 
-*Scraped **58,754** Articles*
+*Scraped **58,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 598
 bbccomsinhala | 614
-islandlk | 3,534
+islandlk | 3,531
 economynextcom | 3,572
-dailyftlk | 4,057
+dailyftlk | 4,050
 dailymirrorlk | 4,733
 adalk | 5,569
 adaderanalk | 7,131
-tamilmirrorlk | 8,373
+tamilmirrorlk | 8,371
 virakesarilk | 9,625
 adaderanasinhalalk | 10,140
 
@@ -26,127 +26,11 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,728 (100.0%) of 58,754 articles have been extended.
+58,726 (100.0%) of 58,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
-
-### Lawyers’ Collective urges immediate action on legislative reforms
-
-*2024-12-06 06:04:52* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-Collective-urges-immediate-action-on-legislative-reforms/56-770156) · `en`
-
-Says Parliament and Cabinet must prioritise a progressive legislative agenda to reflect people’s mandate
-
-Stresses delays or inaction could erode public trust and hinder vital reforms
-
-Calls for abolishment of Executive Presidency and repealing of PTA and OSA
-
-Urges legislature to adopt transparent, inclusive approach to policy and law-making
-
-The Lawyers’ Collective has called on the newly elected 10th Parliament and Cabinet of Ministers to urgently prioritise a legislative agenda reflecting the clear mandate of the people. In a statement issued yesterday the organisation emphasised the need for transformative reforms to uphold democracy, the Rule of Law, and the sovereignty of the people.
-
-Congratulating the newly elected representatives, the Lawyers’ Collective underscored the historic opportunity to advance a progressive legislative agenda. It warned that delays or inaction could erode public trust and impede the realisation of vital reforms.
-
-...
-
-[Data](articles/98a7015d.json)
-
-[Extended Data](ext_articles/98a7015d.ext.json)
-
----
-
-### ITJP seeks sanctions on over 60 Sri Lankans for war crimes and corruption
-
-*2024-12-06 06:04:01* · [`dailyftlk`](https://www.ft.lk/news/ITJP-seeks-sanctions-on-over-60-Sri-Lankans-for-war-crimes-and-corruption/56-770155) · `en`
-
-The International Truth and Justice Project (ITJP) has submitted a detailed dossier to international governments and organisations, urging sanctions and travel bans on more than 60 Sri Lankans, including senior military personnel, Tamil paramilitaries, civil servants, and former ministers.
-
-The submissions highlight gross human rights violations, corruption during and after Sri Lanka’s armed conflict, and economic crimes that have deepened the nation’s financial crisis. The requests were sent to the governments of the United States, United Kingdom, Australia, Canada, the European Union, and the United Nations.
-
-“In the absence of any criminal accountability to date, it is vital to document past and current crimes, analyse evidence, and use every available channel to assert the truth. We hope the UK will impose sanctions on Human Rights Day this year for alleged war crimes committed during the country’s conflict,” ITJP Executive Director Yasmin Sooka said.
-
-...
-
-[Data](articles/762a825f.json)
-
-[Extended Data](ext_articles/762a825f.ext.json)
-
----
-
-### National security only through national harmony
-
-*2024-12-06 06:02:22* · [`dailyftlk`](https://www.ft.lk/columns/National-security-only-through-national-harmony/4-770154) · `en`
-
-They may still feel trapped in the same plight, and unless that perception is acknowledged, addressed, and their aspirations realised, the resurgence of dissent is not merely possible but inevitable
-
-It is now 15 years since the end of a brutal 30-year conflict. Yet, we remain trapped in a cycle of grief, division, and mistrust. This cannot continue. If we do, we will head down a path to ruin.
-
-A rare and golden opportunity stands before us now. The recently concluded general elections have sent a powerful message: our communities are ready to rise above the shackles of communal politics and chart a new course toward unity and hope.
-
-Addressing the matter now has profound significance in view of the ‘Maaveerar Naal’ (Great Heroes Day) that fell on 27 November, and comments made by a newly appointed independent MP representing the Jaffna District. Both are related.
-
-...
-
-[Data](articles/77a82abd.json)
-
----
-
-### What we know about Flexible Inflation Targeting
-
-*2024-12-06 05:57:15* · [`dailyftlk`](https://www.ft.lk/columns/What-we-know-about-Flexible-Inflation-Targeting/4-770152) · `en`
-
-A successful FIT framework relies on the central bank’s credibility in maintaining inflation within its target range
-
-The Monetary Policy Board of the Central Bank of Sri Lanka announced that the bank is moving to a single policy interest rate mechanism, transitioning from its dual policy interest rate mechanism, with effect from 27 November 2024. This change marks another step in implementing a Flexible Inflation Targeting (FIT) framework. Accordingly, the Central Bank introduced a new policy rate known as the Overnight Policy Rate (OPR), as the primary monetary policy tool to signal and operationalise its monetary policy stance.
-
-...
-
-[Data](articles/a4856132.json)
-
----
-
-### UK-Sri Lanka Trade Mission highlights export potential of women-led businesses in Jaffna
-
-*2024-12-06 05:49:04* · [`dailyftlk`](https://www.ft.lk/business/UK-Sri-Lanka-Trade-Mission-highlights-export-potential-of-women-led-businesses-in-Jaffna/34-770151) · `en`
-
-The United Kingdom (UK)-Sri Lanka Trade Mission, co-organised by the International Trade Centre (ITC) and the Sri Lanka Export Development Board (EDB), successfully concluded its Jaffna program on 4 December 2024. This initiative highlighted the export potential of women-led businesses in Sri Lanka, particularly in the Northern region.
-
-The program, part of the UK Government-funded SheTrades Commonwealth+ program, provided a platform for women entrepreneurs in Sri Lanka to connect with UK buyers and explore new trade opportunities. It aimed to empower women-led businesses to diversify their export markets, enhance their competitiveness, and drive sustainable economic growth in the country.
-
-...
-
-[Data](articles/0bc48190.json)
-
----
-
-### Aitken Spence Printing celebrates wins at Asian Packaging Excellence Awards, Vietnam and Asian Print Awards, Indonesia
-
-*2024-12-06 05:46:38* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Printing-celebrates-wins-at-Asian-Packaging-Excellence-Awards-Vietnam-and-Asian-Print-Awards-Indonesia/34-770150) · `en`
-
-Deputy General Manager Nalindra Fonseka receiving the award at the Asian Print Awards 2024 ceremony held in Indonesia
-
-In an impressive display of excellence, Aitken Spence Printing received two ‘Bronze’ awards in the Digital Printing category at two prestigious industry events held in Vietnam and Indonesia. Notably, this recognition is an achievement among other competitors in the South-East Asian region.
-
-...
-
-[Data](articles/50c1dd5c.json)
-
----
-
-### CBL Global Foods and  USAID partner to boost  Sri Lanka’s coconut industry
-
-*2024-12-06 05:45:22* · [`dailyftlk`](https://www.ft.lk/business/CBL-Global-Foods-and-USAID-partner-to-boost-Sri-Lanka-s-coconut-industry/34-770149) · `en`
-
-In a move to bolster Sri Lanka’s coconut industry, CBL Global Foods Ltd. (CBL GFL) a key player in Sri Lanka’s agribusiness sector and a subsidiary of the CBL Group – one of the leading food conglomerates in the countryand the United States Agency for International Development (USAID) have launched a comprehensive handbook on best practices in coconut cultivation.
-
-The initiative, supported by USAID’s CATALYZE Private Sector Development (PSD) Activity’s Food Solutions Program, aims to address productivity challenges and improve the livelihoods of farming communities. The program will also bridge supply gap by boosting productivity and improving market access for farmers.
-
-...
-
-[Data](articles/57f6291c.json)
-
----
 
 ### CTTA celebrates 130 years with “Honouring Legends” of industry
 
@@ -193,36 +77,6 @@ ITAK Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmug
 [Data](articles/0ba80f59.json)
 
 [Extended Data](ext_articles/0ba80f59.ext.json)
-
----
-
-### ’வரி செலுத்த இலகு வழி வரும்’
-
-*2024-12-06 03:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்த-இலகு-வழி-வரும்/175-348336) · `ta`
-
-மக்கள் எங்கள் மீது நம்பிக்கை வைத்து வரிப் பணத்தை செலுத்தி வருகிறார்கள். இந்த வரி செலுத்தும் நடவடிக்கையை மேலும் இலகுபடுத்துவதற்காக வரி செலுத்துவோர் தங்களின் வீடுகளில் இருந்தவாறே  வரி செலுத்த தேவையான வேலைத்திட்டம்  முன்னெடுக்கப்படும்  எனத் தெரிவித்த   கைத்தொழில் மற்றும் தொழில் முயற்சிகள் அமைச்சர் சுனில் ஹந்துன்னெத்தி வாடகைக்  கட்டிடங்களில் இருக்கும் அனைத்து அமைச்சுக்களின் நிறுவனங்களையும் அரச கட்டிடங்களின் கீழ் கொண்டுவர  நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் கூறினார்.
-
-பாராளுமன்றத்தில்  வியாழக்கிழமை (05)சமர்ப்பிக்கப்பட்ட கணக்குவாக்குப்பதிவு  மீதான விவாதத்தில்   உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர்  தொடர்ந்து உரையாற்றுகையில்,
-
-...
-
-[Data](articles/9a5fbc6d.json)
-
----
-
-### ’குரங்குகளை குற்றவாளிகளாக்க வேண்டாம்’
-
-*2024-12-06 03:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளை-குற்றவாளிகளாக்க-வேண்டாம்/175-348335) · `ta`
-
-குரங்குகள் தேங்காய்களை உண்பதால் தேங்காய் தட்டுப்பாடு ஏற்பட்டுள்ளதாக  இந்த அரசு கூறுகிறது . அவ்வாறானால்  கடந்த ஆண்டு நாட்டில் குரங்குகள் வாழவில்லையா? எனவே குரங்குகளை குற்றவாளிகளாக்க வேண்டாம் என  ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் எம்.பி.யான டி.வி.சானக தெரிவித்தார்.
-
-பாராளுமன்றத்தில்   வியாழக்கிழமை (05)  இடம்பெற்ற  கணக்கு வாக்குப்பதிவு  மீதான  விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் உரையாற்றுகையில்,
-
-நாடு முழுவதும் கடந்த வாரம் ஏற்பட்ட  மழையுடனான காலநிலையால் பெருமளவிலான விவசாய நிலங்கள் முழுமையாகவும், பகுதியளவிலும் பாதிக்கப்பட்டுள்ளன.   பாதிக்கப்பட்டுள்ள விவசாயிகளுக்கு 40 ஆயிரம் ரூபா நஷ்டஈடு வழங்குவதாக அரசாங்கம் கூறுவதை  ஏற்றுக் கொள்ள முடியாது.  விவசாயிகள் அதிகளவில் செலவழித்துள்ள நிலையில் 40 ஆயிரம் ரூபாய் வழங்குவது அநீதி.
-
-...
-
-[Data](articles/3864a7a8.json)
 
 ---
 
@@ -430,20 +284,6 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 
 ---
 
-### Microsoft hosts ‘Scaling AI at Work’ to drive AI-first innovation for Sri Lankan businesses
-
-*2024-12-06 02:22:00* · [`islandlk`](http://island.lk/microsoft-hosts-scaling-ai-at-work-to-drive-ai-first-innovation-for-sri-lankan-businesses/) · `en`
-
-Microsoft ignited the ‘Scaling AI at Work’ event in Sri Lanka on 26 November 2024, providing a dynamic platform for key customers and partners to delve into the transformative potential of AI. The event showed how Microsoft AI is sparking success among its customers, effectively enriching employee experience and driving business processes with the use of an AI platform that is secure, safe, and private.
-
-Dr. Rohini Srivathsa, Chief Technology Officer for Microsoft India and South Asia, led a power track on ‘The Art of Possible with AI for Productivity’. In her session, Dr. Srivathsa discussed the extensive suite of AI models accessible through the Microsoft platform, emphasizing that unlocking its true potential hinges not only on the prompts customers use, but also the context of one’s work. She elaborated on how AI is reshaping business transformation and the critical importance of responsible AI practices, reaffirming Microsoft’s stance on protecting customer data.
-
-...
-
-[Data](articles/015d8233.json)
-
----
-
 ### The government acts arbitrarily
 
 *2024-12-06 02:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-தன்னிச்சையாக-செயற்படுகிறது/175-348329) · `ta`
@@ -477,36 +317,6 @@ HUTCH will unveil an exciting new podcast series titled “Meet the Tech Titans�
 ...
 
 [Data](articles/d2ad616c.json)
-
----
-
-### The George Keyt Foundation unveils a distinguished line-up of Sri Lankan artists for upcoming auction conducted by Sotheby’s
-
-*2024-12-06 01:40:00* · [`islandlk`](http://island.lk/the-george-keyt-foundation-unveils-a-distinguished-line-up-of-sri-lankan-artists-for-upcoming-auction-conducted-by-sothebys/) · `en`
-
-Sotheby’s conducts its first ever Auction celebrating contemporary and modern Sri Lankan artists
-
-The eagerly anticipated first-ever art auction conducted by Sotheby’s in Sri Lanka, presented by the George Keyt Foundation, continues to generate excitement with the unveiling of the distinguished line-up of artists.
-
-The landmark event aims to bring together an extraordinary constellation of Sri Lanka’s most celebrated contemporary and modern artists whose works will be showcased and sold in an unprecedented charity auction.
-
-...
-
-[Data](articles/dc13063f.json)
-
----
-
-### NDB Kotahena branch sets a new benchmark with record-breaking CEO’s Club achievement
-
-*2024-12-06 01:39:00* · [`islandlk`](http://island.lk/ndb-kotahena-branch-sets-a-new-benchmark-with-record-breaking-ceos-club-achievement/) · `en`
-
-NDB Bank proudly celebrates the exceptional performance of its Kotahena Branch, which has achieved a monumental milestone in the bank’s history. The branch has become the first in NDB’s history to produce an unprecedented all 12 branch staff members qualify for the elite CEO’s Club members in a single year 2024 with a remarkable YTD achievement of Rs.37 million, cementing its position as the highest performer across the entire network.
-
-This historic achievement is a testament to the Kotahena Branch team’s relentless dedication, exceptional teamwork, and commitment to delivering customer-centric solutions. By placing the needs of customers at the forefront, the team has demonstrated the true spirit of excellence that NDB strives for.
-
-...
-
-[Data](articles/1e317f5c.json)
 
 ---
 
@@ -2353,5 +2163,279 @@ Shares that saw interest included Access Engineering (up at 30.00), JKH, and Lan
 [Data](articles/a43641e1.json)
 
 [Extended Data](ext_articles/a43641e1.ext.json)
+
+---
+
+### 10 rupees coin in an elephant's stomach
+
+*2024-12-05 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200492) · `ta`
+
+Elephant found dead in electric fence. Autopsy reveals 10-rupee coin in its stomach. Coin discovered during examination of elephant's remains. Insurance company manager arrested in connection with incident.
+
+🟩
+
+During an autopsy of the elephant, which was found trapped in an electric fence last week at the Kalawawawai National Park, a 10 -rupee currency from the elephant's stomach has been taken, said the veterinary department of the Wildlife Conservation Department Chandana Jayasinghe.
+
+The 45 to 50 -year -old elephant, which is 9 feet 2 inches tall, died in an electric fence that was fitted around a house near the Kalawawi National Park.
+
+Dr. Jayasinghe has confirmed that the elephant died of a heart attack caused by electricity.
+
+Later, the Department of Wildlife Protection Department removed the elephant's head with ivory and brought the remaining trunk to the Calgiriyagama Wildlife Department.
+
+During the autopsy conducted there, a 10 -rupee coin was taken from the stomach of the elephant.
+
+It is noteworthy that the manager of an insurance company has been arrested in connection with the death till December 12, after the manager of an insurance company has been arrested.
+
+◼️
+
+[Data](articles/113f5434.json)
+
+[Extended Data](ext_articles/113f5434.ext.json)
+
+---
+
+### 55 vulnerable Sri Lankans evacuated from Lebanon
+
+*2024-12-05 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104023/55-vulnerable-sri-lankans-evacuated-from-lebanon) · `en`
+
+The Embassy of Sri Lanka in Lebanon in association with the International Organization of Migration (IOM) has arranged to evacuate a total number of 55 vulnerable Sri Lankan workers from Lebanon on group basis.
+
+Accordingly, the latest group of 26 arrived in Colombo on 04 December in the evening, the Embassy of Sri Lanka in Beirut said.
+
+The Embassy of Sri Lanka in Lebanon further said it admires the IOM in Lebanon for its support  to evacuate the vulnerable Sri Lankans, and hopes to work together to continue to facilitate the most needy Sri Lankans despite the tense situation in Lebanon.
+
+◼️
+
+[Data](articles/fc130711.json)
+
+[Extended Data](ext_articles/fc130711.ext.json)
+
+---
+
+### Amnesty International report says Israel is committing genocide in Gaza
+
+*2024-12-05 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104022/amnesty-international-report-says-israel-is-committing-genocide-in-gaza) · `en`
+
+Amnesty International on Thursday accused Israel of “committing genocide“ against Palestinians in Gaza since the start of the war last year, saying its new report was a “wake-up call” for the international community.
+
+The London-based rights organisation said its findings were based on “dehumanising and genocidal statements by Israeli government and military officials”, satellite images documenting devastation, fieldwork and ground reports from Gazans.
+
+“Month after month, Israel has treated Palestinians in Gaza as a subhuman group unworthy of human rights and dignity, demonstrating its intent to physically destroy them,” Amnesty chief Agnes Callamard said in a statement.
+
+“Our damning findings must serve as a wake-up call to the international community: this is genocide. It must stop now,” she added.
+
+...
+
+[Data](articles/52555725.json)
+
+[Extended Data](ext_articles/52555725.ext.json)
+
+---
+
+### Over 60 Sri Lankans in ITJP list for sanctions, travel bans for economic and human rights crimes
+
+*2024-12-05 15:54:00* · [`economynextcom`](https://economynext.com/over-60-sri-lankans-in-itjp-list-for-sanctions-travel-bans-for-economic-and-human-rights-crimes-192318/) · `en`
+
+ECONOMYNEXT – More than 60 Sri Lankans, including military officials, have been included in a list submitted by the International Truth and Justice Project (ITJP) seeking sanctions and travel bans for human rights and economic crimes in the country and multiple universal jurisdiction cases.
+
+The submissions have been sent to the governments of the United States, United Kingdom, Australia, and Canada as well as the European Union and the United Nations, the ITJP said in a statement.
+
+“In the absence of any criminal accountability to date, it is vital to continue to document past and current crimes, analyse the evidence and use every channel to keep on asserting the truth,” Yasmin Sooka, executive director of ITJP said.
+
+“We hope the new government in the UK will sanction Sri Lankans on Human Rights Day this year (10 December) for their alleged role in war crimes during the end of the country’s conflict,” she said.
+
+...
+
+[Data](articles/016f74c6.json)
+
+[Extended Data](ext_articles/016f74c6.ext.json)
+
+---
+
+### US Treasury Deputy Asst Secretary meets Sri Lanka’s Finance Ministry Secretary
+
+*2024-12-05 15:53:00* · [`economynextcom`](https://economynext.com/us-treasury-deputy-asst-secretary-meets-sri-lankas-finance-ministry-secretary-192358/) · `en`
+
+ECONOMYNEXT – The US Department of the Treasury’s Deputy Assistant Secretary for Asia Robert Kaproth met with Sri Lanka’s Ministry of Finance secretary Mahinda Siriwardene.
+
+Kaproth met with Siriwardene “to discuss how the United States can support Sri Lanka’s economic reforms and growth goals,” US Ambassador to Sri Lanka Julie Chung said.
+
+They “explored opportunities for stronger U.S.-Sri Lanka collaboration to strengthen fiscal resilience,” Chung said on social media platform X.
+
+Sri Lanka’s new government passed  a vote on accounts yesterday in parliament. A budget is scheduled to be tabled in February 2025. (Colombo/Dec5/2024)
+
+◼️
+
+[Data](articles/9841d88a.json)
+
+[Extended Data](ext_articles/9841d88a.ext.json)
+
+---
+
+### SLPP’s Administrative Secretary Renuka Perera granted bail
+
+*2024-12-05 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104021/slpps-administrative-secretary-renuka-perera-granted-bail) · `en`
+
+The Administrative Secretary of the Sri Lanka Podujana Peramuna (SLPP) Renuka Perera has been released on bail by the Colombo Magistrate’s Court.
+
+He was arrested by the Criminal Investigation Department (CID) for allegedly posting false information on social media regarding ‘Mahaviru’ (Maaveerar Naal) commemorations in the North.
+
+A team of CID officers had visited Renuka Perera’s residence this morning (05) and took him into custody after recording a statement regarding the matter. He was subsequently produced before the Colombo Magistrate’s Court.
+
+Accordingly, the Colombo Additional Magistrate, Manjula Ratnayake, has ordered the release of the suspect on two personal bonds of Rs. 01 million each.
+
+The Magistrate also directed the Criminal Investigation Department (CID) to investigate individuals involved in organizing the ‘Mahaviru’ (Maaveerar Naal) commemorations. The CID was instructed to identify and arrest those responsible and present them before the court.
+
+...
+
+[Data](articles/1effa434.json)
+
+[Extended Data](ext_articles/1effa434.ext.json)
+
+---
+
+### Sri Lanka third place in Visually Handicapped Twenty20 World Cup
+
+*2024-12-05 15:39:53* · [`adalk`](https://www.ada.lk/breaking_news/දෘශ්‍යාබාධිත-විස්සයි20-ලෝක-කුසලානයේ-තෙවැනි-ස්ථානය-ලංකාවට/11-413474) · `si`
+
+Sri Lanka's Visually Impaired cricket team won third place in the T20 World Cup. Tournament held in Vittane from 13/23 to 12/03. Damith Sabhas named Man of the Tournament. Players arrived at Katunayake Airport from Dubai.
+
+🟩
+
+Sri Lanka Visually Attack Cricket team won the third place on the Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty20 World Cup.
+
+The tournament was held in Vittane, with visually impaired cricket teams from 7 countries from 13/23 to 12/03.
+
+The Damith Sabhas, Sri Lanka's Visually Amweighted man of the tournament, were named after three matches in the tournament.
+
+Sri Lanka arrived at the Katunayake Airport on Flay Dubai, Flay Dubai, who came from Dubai to 12.45 am on April 12/05.
+
+Although relatives of these players arrived at the Bandaranaike International Airport, they were not entering the airport's attendance terminal.
+
+◼️
+
+[Data](articles/07e5ad2d.json)
+
+[Extended Data](ext_articles/07e5ad2d.ext.json)
+
+---
+
+### Discussion will solve the issue
+
+*2024-12-05 15:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலந்துரையாடி-பிரச்சினையை-தீர்ப்போம்/175-348283) · `ta`
+
+Sri Lanka Muslim Congress leader Rauf Hakeem discusses Muslim issues in Kalmunai Divisional Secretariat. TNA meets President Anuradhapura on intervention. Discussions ongoing to resolve conflicts and boundary disputes.
+
+🟩
+
+Sri Lanka Muslim Congress leader and MP Rauf Hakeem said that there is a problem with the Muslim people living in the Kalmunai Divisional Secretariat and how to solve the issue.
+
+He said this while addressing the debate on the polls voted by the government on Thursday (05) in Parliament.
+
+The Sri Lankan Tamil National Alliance (TNA) meets President Anurakumara. Even after this discussion. It was reported that the president had promised to intervene in resolving the issue of the Kalmunai Divisional Secretariat.
+
+There is also a problem with Muslims living in the area regarding the Kalmunai Divisional Secretariat.. Through the discussion, you can decide how to solve this issue.
+
+Chanakyan MP on this issue. And I had discussed with Sathiyalingam MP. I have also discussed with them on the issue of the people.. So we will solve these issues through discussions on conflicts.
+
+...
+
+[Data](articles/8c4cfed2.json)
+
+[Extended Data](ext_articles/8c4cfed2.ext.json)
+
+---
+
+### SAARC group adopts recommendations for implementing Thimphu Statement
+
+*2024-12-05 15:37:00* · [`economynextcom`](https://economynext.com/saarc-group-adopts-recommendations-for-implementing-thimphu-statement-192325/) · `en`
+
+ECONOMYNEXT – A set of recommendations to facilitate the full implementation of the Thimphu Statement was adopted at a SAARC Inter-Governmental Expert Group on Climate Change meeting in Sri Lanka.
+
+The Fifth Meeting of SAARC Inter-Governmental Expert Group on Climate Change was held in Colombo from 3-4 December.
+
+The forum sought to assess the implementation of the Thimphu Statement on Climate Change, the Foreign Ministry said in a statement.
+
+“At the end of the two-day meeting, a set of recommendations for the way forward to facilitate the full implementation of the Thimphu Statement was adopted.”
+
+The Thimphu Statement recognizes the need for effective response formulated and implemented at regional and international levels to combat the adverse effects of climate change.
+
+It was adopted by leaders of SAARC member states at the 16th SAARC Summit in April 2010. (Colombo/Dec5/2024)
+
+◼️
+
+[Data](articles/540ae19a.json)
+
+[Extended Data](ext_articles/540ae19a.ext.json)
+
+---
+
+### Renuka Perera released on bail
+
+*2024-12-05 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204070) · `si`
+
+Renuka Perera arrested for false propaganda about Mahaviu commemoration. Released on bail after CID investigation. Ruling secretary of Sri Lanka General Front.
+
+🟩
+
+Renuka Perera was arrested by the Colombo Magistrate's Court on charges of posting false propaganda about the Mahaviu commemoration in the North.
+
+Renuka Perera, the ruling secretary of the Sri Lanka General Front, was arrested by the CID this morning.
+
+The CID officers visited his residence this morning after obtaining a statement.
+
+◼️
+
+[Data](articles/c61457ff.json)
+
+[Extended Data](ext_articles/c61457ff.ext.json)
+
+---
+
+### Ramila terror - do anything on the ground
+
+*2024-12-05 15:19:05* · [`adalk`](https://www.ada.lk/breaking_news/රිලා-ත්‍රස්තවාදයක්---වගා-බිමේදී-ඕනෑම-දෙයක්-කරන්න/11-413473) · `si`
+
+Sri Lanka: Wildlife damages crops, farmers face obstacles. Minister KD Lal Kanthe addresses issue in Parliament.
+
+🟩
+
+Minister of Agriculture KD of a serious problem in Sri Lanka has arisen to cultivation damage from wildlife. Mr. Lal Kanthe said.
+
+In Parliament today, he said that the farmers had no obstacle for the damages of wildlife on the ground of cultivation.
+
+◼️
+
+[Data](articles/33d724f7.json)
+
+[Extended Data](ext_articles/33d724f7.ext.json)
+
+---
+
+### “Don't use antibiotics unnecessarily”
+
+*2024-12-05 14:54:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநாவசியமாக-நுண்ணுயிர்-எதிர்ப்பிகளை-பயன்படுத்த-வேண்டாம்/175-348282) · `ta`
+
+"Don't misuse antibiotics: Use only under doctor's guidance, adhere to dosage & duration. Avoid self-medication. Proper use reduces costs and hospital admissions."
+
+🟩
+
+Director General of Health Services Dr. Asela Gunawardena has requested the public to avoid using antibiotics.
+
+He made this request during a media briefing held at the Health Development Bureau yesterday on the occasion of the World Anti -Anti -Anti -Week.
+
+In addition, the antibiotics should be taken only under the guidance of a qualified medical trainer and that the recommended amount and duration must be adhered to.
+
+Pointing out that some people have obtained antibiotics from pharmacies, Dr. Gunawardena said that the habit of taking medication and pharmacies without proper pharmaceuticals is wrong.
+
+He added that it is inappropriate to consume antibiotics for less than for less than prescribed or to continue them beyond the recommended period.
+
+The Director General of Health Services said that proper adherence to the use of antibiotics can significantly reduce costs and reduce the need for admission to the hospital.
+
+◼️
+
+[Data](articles/4c433620.json)
+
+[Extended Data](ext_articles/4c433620.ext.json)
 
 ---

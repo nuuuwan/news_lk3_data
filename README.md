@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 12:42:28**
+As of **2024-12-06 13:01:26**
 
 ## Newspaper Stats
 
-*Scraped **58,808** Articles*
+*Scraped **58,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,56 +19,90 @@ dailymirrorlk | 4,733
 adalk | 5,574
 adaderanalk | 7,141
 tamilmirrorlk | 8,385
-virakesarilk | 9,631
+virakesarilk | 9,632
 adaderanasinhalalk | 10,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,779 (100.0%) of 58,808 articles have been extended.
+58,782 (100.0%) of 58,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### தென், மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ - வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் சந்திப்பு
+### US Assistant Secretary to South and Central Asian Affairs Donald Lu - Foreign Minister Vijitha Herath meets
 
-*2024-12-06 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200569) · `ta`
+*2024-12-06 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200569) · `ta`
 
-தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ, வெளிவிவகார அமைச்சர் விஜித்த ஹேரத்தை சந்தித்தார்.
+Donald Lu, US Assistant Secretary for South & Central Asian Affairs, met Sri Lankan Foreign Minister Vijitha Herath. They discussed cooperation on economic reforms, skills development, and technical assistance to benefit Sri Lanka's people.
 
-இது குறித்து தனது எக்ஸ் பக்கதில் பதிவிட்டுள்ள இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜூலி சங்,
+🟩
 
-இலங்கையின் மீட்புக்கு முக்கிய பங்காற்றிய யுஎஸ்எயிட் மற்றும் அமெரிக்க திறைசேரி திணைக்களத்தைப் பிரதிநிதித்துவப்படுத்தி தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ, இலங்கையின் வெளிவிவகார அமைச்சருடன் சந்திப்பை மேற்கொண்டார்.
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu met Foreign Minister Vijitha Herath.
 
-இதன்போது, இலங்கையின் புதிய அரசாங்கத்திற்கு வாழ்த்துக்களை தெரிவித்ததுடன் பொதுவான முக்கிய விடயங்கள் பற்றி கலந்துரையாடினோம். மேலும், இலங்கையின் மக்கள் நலனுக்காக பொருளாதார மற்றும் நிர்வாக சீர்திருத்தங்களை ஆதரிக்கத் தகுந்த திட்டங்கள், திறன் வளர்ச்சி மற்றும் தொழில்நுட்ப உதவிகள் மூலம் நாம் இணைந்து செயல்படக்கூடிய வழிகளை இதன்போது ஆராய்ந்தோம் என குறிப்பிட்டுள்ளார்.
+US Ambassador to Sri Lanka, Julie Sung, posted on his X page
+
+Representing the USAID and the US Treasury Department, which played a key role in Sri Lanka's rescue, Donald Lu, the Assistant Secretary of the United States for South and Central Asian Affairs, met with the Sri Lankan Foreign Minister.
+
+We congratulated the new government of Sri Lanka and discussed the common issues. He also stated that we can work together through the projects, skills development and technical assistance that will support economic and administrative reforms for the welfare of the people of Sri Lanka.
 
 ◼️
 
 [Data](articles/b987adc2.json)
 
+[Extended Data](ext_articles/b987adc2.ext.json)
+
 ---
 
-### රග්බි සම්මේලනයට එරෙහිව ගොනුකර තිබූ පෙත්සමක් සමථයට
+### விபத்தினை ஏற்படுத்திவிட்டு காரில் தப்பிச் சென்ற நால்வர் கைது !
+
+*2024-12-06 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200566) · `ta`
+
+இரத்மலானை பிரதேசத்தில் மோட்டார் சைக்கிள் ஒன்றை மோதி விபத்தினை ஏற்படுத்திவிட்டு காரில் தப்பிச் சென்ற நான்கு சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸ் விசேட அதிரடிப்படையின் அதிகாரிகள் சிலர் விபத்தினை ஏற்படுத்திச் தப்பிச் சென்ற காரை மோட்டார் சைக்கிளில் துரத்திச் சென்று சந்தேக நபர்களை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உடுகமுவ பிரதேசத்தில் வசிக்கும் 24 வயதுடைய காரின் சாரதியும் உடுகம்பொல மற்றும் கித்துல்கல பிரதேசங்களில் வசிக்கும் 19, 20 மற்றும் 26 வயதுடைய மூவருமே கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட காரின் சாரதியிடம் மேற்கொள்ளப்பட்ட விசாரணையில், விபத்தின் போது அவர் மது அருந்தியிருந்தமை தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/bbeac26d.json)
+
+---
+
+### Petition filed against the rugby conference
 
 *2024-12-06 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204094) · `si`
 
-ශ්‍රී ලංකා රග්බි සම්මේලනය සඳහා නව ව්‍යවස්ථාවක් සම්පාදනය කිරීමට එරෙහිව ගොනුකර තිබූ පෙත්සමක් ඊයේ (5) අභියාචනාධිකරණය හමුවේ සමථයට පත්කෙරුණි.
+Sri Lanka Rugby Federation constitution change petition settled. Court approves new committee selection process. Petitioner agrees to terms.
 
-බස්නාහිර පළාත් රග්බි සංගමයේ ලේකම් රොෂාන් ඩීන් මහතා විසින් මෙම පෙත්සම ගොනු කර තිබුණි.
+🟩
 
-එම පෙත්සම මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගේ සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ඊයේ කැඳවනු ලැබීය.
+A petition filed against the arrival of a new constitution to the Sri Lanka Rugby Football Federation was settled in court yesterday (5).
 
-පෙත්සම කැඳවූ අවස්ථාවේදී වගඋත්තරකරුවන් වෙනුවෙන් පෙනීසිටි අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින්, ශ්‍රී ලංකා රග්බි සම්මේලනය සඳහා නිලධාරීන් පත්කර ගැනීම සඳහා නිලවරණය පැවැත්වීමට ක්‍රීඩා අමාත්‍යංශයේ ලේකම්වරයා තීරණය කර ඇති බව සඳහන් කළේය.
+The petition was filed by the Secretary of the Western Province Rugby Foot Association, Roshan Deen.
 
-ඒ සඳහා රග්බි සංගමයේ සහ ඔලිම්පික් කමිටුවේ සාමාජිකයකු ඇතුළු තුන්දෙනෙකුගෙන් සමන්විත කමිටුවක් පත්කිරීමට නියමිත බවත් ඔහු පැවසීය.
+The petition is Mohammed Lafar Thahaire and P. Kodule was summoned before the Court of Appeal of Kumaran Ratnam.
 
-එම කමිටුව විසින් නිලවරණයේ ඡන්ද හිමියන්ගේ නාමලේඛනය අනුමත කිරීමට නියමිත අතර, ඉන් පසුව නිලධාරින් තෝරා ගැනීමට නියමිත බවත් ඔහු සඳහන් කළේය.
+Additional Sumathi Dharma Dharmawardena appearing on behalf of the respondents, Sumathi Dharmawardena has decided to appoint officials for the Sri Lanka Rugby Football Federation.
 
-...
+He said that a committee consisting of three persons including a Rugby Association and a member of the Olympic Committee will be appointed.
+
+He added that the committee is to be approved by the election and the officers will be elected.
+
+After selecting the officers, they have the ability to amend the constitution of the Rugby Federation, Additional Solicitor General.
+
+After the departure of both sides, the petition was ordered after consenting the terms.
+
+◼️
 
 [Data](articles/5b06cbb0.json)
+
+[Extended Data](ext_articles/5b06cbb0.ext.json)
 
 ---
 
@@ -126,15 +160,21 @@ Subsequently, all five youths have been transferred to the Batticaloa Teaching H
 
 ---
 
-### இலங்கைக்கான புதிய வாய்ப்புக்களுக்கு கதவை திறந்துள்ள பிரித்தானியா
+### Britain has opened the door for new opportunities for Sri Lanka
 
 *2024-12-06 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200562) · `ta`
 
-இங்­கி­லாந்து அர­சாங்கம் வர்த்­தகம் மற்றும் அபி­வி­ருத்தி ஆகிய இரு விட­யங்­க­ளிலும் மிகவும் தீவி­ர­மாகக் கவனஞ் செலுத்தி வரு­கின்­றது. உல­க­ளவில் அபி­வி­ருத்தி அடைந்து வரும் நாடு­க­ளுக்கு வர்த்­த­கத்தின் சாத­க­மாக விளை­வு­களை மேம்­ப­டுத்­து­வதை நோக்­க­மாகக் கொண்டு உறு­தி­யான வர்த்­த­கத்தை நான் முன்­நின்று வழி­ந­டத்­து­கிறேன். கட்­ட­ணங்­களைக் குறைப்­பதன் மூலமும் விதி­மு­றை­களை எளி­தாக்­கு­வதன் மூலமும், அபி­வி­ருத்தி அடைந்­து­வரும் இலங்கை போன்ற நாடு­களின் ஏற்­று­ம­தி­க­ளுக்கு இங்­கி­லாந்து தனது சந்­தை­களைத் திறப்­ப­தற்­கான ஏற்­பா­டு­களை நாம் முன்­னெ­டுக்­க­வுள்ளோம். உலகப் பொரு­ளா­தா­ரத்தில் திறம்­பட போட்­டி­யி­டு­வ­தற்கு தேவை­யான போது­மான தொழில்­நுட்ப உத­விகள் மற்றும் வர்த்­தக ரீதி­யான ஒத்­து­ழைப்­பினை இலங்­கையின் அர­சாங்­கத்­துக்கும் இலங்கை வணி­கங்­க­ளுக்கும் நாம் வழங்­கு­கிறோம்.
+UK opens doors for Sri Lanka: Trade & Development focus. Reducing fees, easing export rules. Providing technical assistance & commercial cooperation to boost Sri Lankan competitiveness globally.
+
+🟩
+
+The UK government is focusing on both trade and development.. I will lead a firm trading aimed at improving the effects of trade for the worldwide developed countries worldwide. We will make arrangements to open its markets for exports of countries such as Sri Lanka, which are developing, by reducing fees and facilitating the rules.. We provide adequate technical assistance and commercial cooperation to the Sri Lankan government and Sri Lankan businesses to compete effectively in the global economy.
 
 ◼️
 
 [Data](articles/ec655ba4.json)
+
+[Extended Data](ext_articles/ec655ba4.ext.json)
 
 ---
 
@@ -2233,33 +2273,5 @@ The President expressed the government's stand on several topics that have been 
 [Data](articles/9c6d60d3.json)
 
 [Extended Data](ext_articles/9c6d60d3.ext.json)
-
----
-
-### Racism is not going to be allowed to repeat;President
-
-*2024-12-05 19:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனவாதத்தை-மீண்டும்-அனுமதிக்கப்-போவதில்லை-ஜனாதிபதி/175-348308) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake vows against racism, ensures media freedom. Promises better political culture & economic change. Emphasizes anti-poverty & Clean Sri Lanka programs.
-
-🟩
-
-President Anura Kumara Dissanayake today (05) said that he would never allow communalism again and that he was not prepared to prevent or limit media freedom in any way.
-
-The President made this statement during a meeting held at the Presidential Office with the chiefs of electronic media institutions.
-
-The President said that the people are expecting a better political culture and that the people have elected the current government, and that all media institutions have invited all media institutions to make a new political, social and economic change.
-
-President Anura Kumara Dissanayake has asked the media company chiefs not to publish false information on national integrity, even if there is no restriction on the media to question or criticize the government at any time on political and economic matters.
-
-...
-
-[Data](articles/9778c9ed.json)
-
-[Extended Data](ext_articles/9778c9ed.ext.json)
 
 ---

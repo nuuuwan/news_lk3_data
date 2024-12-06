@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 08:56:57**
+As of **2024-12-06 09:19:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,736 (99.9%) of 58,767 articles have been extended.
+58,739 (100.0%) of 58,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,47 +186,61 @@ The President said that the measures needed to break the current running rice.
 
 ---
 
-### විදුලි ගාස්තු සංශෝධන යෝජනාව අද මහජන උපයෝගීතා කොමිසමට
+### Electricity tariff resolution to public utility commission today
 
 *2024-12-06 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204083) · `si`
 
-විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් වන යෝජනාව අද (06) දිනයේ මහජන උපයෝගීතා කොමිෂන් සභාව වෙත ලබාදෙන බව විදුලිබල මණ්ඩලය පවසයි.
+Ceylon Electricity Board submits electricity tariff proposal to Public Utility Commission today. Revision planned for first half of 2024, implementation from mid-January. Previous proposal in October faced rejection; CEB given additional time to resubmit.
 
-අද දෙරණ කළ විමසීමකදී එහි සභාපති ආචාර්ය තිලක් සියඹලාපිටිය මහතා පැවසුවේ අදාළ යෝජනාවලිය අද දිනයේ ලබාදීමට කටයුතු කරන බවය.
+🟩
 
-පසුගිය ආණ්ඩුව සමයේ වාර්ෂිකව සිව් වතාවක් විදුලි ගාස්තු සංශෝධනය සිදුකළ යුතු බවට යෝජනා වී තිබුණි.
+The Ceylon Electricity Board (CEB) says that the proposal is given to the Public Utility Commission this day.
 
-එහෙත් 2023 වසරේදී තෙවරක් සහ මෙම වර්ෂයේදී දෙවරක් විදුලි ගාස්තු සංශෝධනය සිදු කෙරුණි.
+When contacted, Dr. Thilak Siyambalapitiya said the proposal would be given today.
 
-කෙසේවෙතත් වත්මන් ආණ්ඩුව වසරකට දෙවරක් විදුලි ගාස්තු සංශෝධනය කිරීමට සැලසුම් කර තිබේ.
+The past government had to revise the electricity tariff ann to the end of the government.
 
-ඒ අනුව අද දිනයේ ඉදිරිපත් වන යෝජනාවෙන් ලබන වසරේ පළමු මාස 06 සඳහා වන ගාස්තු සංශෝධනය සිදුකෙරෙණු ඇති බව සඳහන් ය.
+But in the year 2023 and a revision of the electricity tariffs during the year.
 
-අද දිනයේ මහජන උපයෝගීතා කොමිසම වෙත ලබාදීමට නියමිත එම යෝජනාව ලබන වසරේ ජනවාරි මස තුන්වන සතියේ සිට ක්‍රියාත්මක කිරීමට බොහෝ දුරට හැකියාව පවතී.
+However, the present government has planned to revise electricity tariffs twice a year.
 
-මේ අතර මෙම වසරේ දෙසැම්බර් මස සිට ක්‍රියාත්මක කිරීම සඳහා විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් වන යෝජනාව ඔක්තෝබර් මාසයේදී ලංකා විදුලිබල මණ්ඩලය විසින් මහජන උපයෝගීතා කොමිසම වෙත ලබාදී තිබුණි.
+Accordingly, the proposal will be revised for the first six months of next year.
+
+The proposal to be given to the Public Utilities Commission today is largely capable of implementing from the third week of January next year.
+
+Meanwhile, in October, the Ceylon Electricity Board (CEB) had been given to the Public Utilities Commission in October to implement the electricity tariff revision from December this year.
+
+It was reported that 6% of the electricity tariff had been proposed to reduce electricity tariffs.
 
 ...
 
 [Data](articles/8ccb6a3c.json)
 
+[Extended Data](ext_articles/8ccb6a3c.ext.json)
+
 ---
 
-### අද වැස්ස ගැන කාලගුණයෙන් දැනුම්දීමක්
+### A notification of the weather for the rain today
 
 *2024-12-06 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204082) · `si`
 
-අද (6) දිනයේ උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Rain expected in North, East today. Thunderstorms in West, South, Central hills. Strong winds and lightning possible. Public advised to be cautious.
 
-එමෙන්ම බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එම දෙපාර්තමේන්තුව පැවසීය.
+Several times in the North and the East can occur in the Northern and Eastern Provinces today (6).
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටියි.
+Thundershowers will develop at several places in the Western, Sabaragamuwa and Southern provinces and in the Nuwara Eliya and Kandy districts.
+
+In many parts of the island, there is a stability in the morning, the department.
+
+The public is kindly requested to take necessary measures to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/9e255655.json)
+
+[Extended Data](ext_articles/9e255655.ext.json)
 
 ---
 
@@ -261,6 +275,8 @@ This collaboration aims to provide an opportunity for ICCSSL Members to become m
 ...
 
 [Data](articles/30432435.json)
+
+[Extended Data](ext_articles/30432435.ext.json)
 
 ---
 

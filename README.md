@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 14:42:33**
+As of **2024-12-06 15:42:44**
 
 ## Newspaper Stats
 
-*Scraped **58,818** Articles*
+*Scraped **58,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,191 @@ islandlk | 3,534
 economynextcom | 3,575
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,574
-adaderanalk | 7,142
-tamilmirrorlk | 8,387
+adalk | 5,576
+adaderanalk | 7,144
+tamilmirrorlk | 8,388
 virakesarilk | 9,633
-adaderanasinhalalk | 10,157
+adaderanasinhalalk | 10,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,801 (100.0%) of 58,818 articles have been extended.
+58,812 (100.0%) of 58,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### මත්පැන් බලපත්‍ර සම්බන්ධ ගැසට් නිවේදනයකට අතුරු නියෝගයක්
+### ද අප්‍රිකානු පළමු ඉනිම ලකුණු 358යි
 
-*2024-12-06 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204098) · `si`
+*2024-12-06 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204101) · `si`
 
-ඉකුත් රජය සමයේ මත්පැන් අලෙවි බලපත්‍ර සඳහා වන වාර්ෂික ගාස්තු වැඩිකරමින් නිකුත් කළ ගැසට් නිවේදනයක් ක්‍රියාත්මකකිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අද (6) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ පළමු ඉනිම ක්‍රීඩා කළ දකුණු අප්‍රිකාව සියලුදෙනා දැවී ලකුණු 358ක් රැස්කර ගත්තේය.
 
-ශ්‍රී ලංකා මත්පැන් අලෙවි බලපත්‍ර හිමියන්ගේ සංගමය විසින්  ගොනුකළ තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ඒ. එච්. එම්. ඩී. නවාස්, කුමුදුනී වික්‍රමසිංහ සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+දකුණු අප්‍රිකානු ඉනිම ඔසවා තැබූ රයන් රිකල්ටන් සිය ටෙස්ට් ක්‍රිකට් දිවියේ පළමු ශතකය රැස්කරමින් ලකුණු 101ක් ඉනිමට එක් කළේය.
 
-ශ්‍රී ලංකා මත්පැන් අලෙවි බලපත්‍රලාභීන්ගේ සංගමය විසින් ගොනුකර තිබූ මෙම පෙත්සමෙහි වගඋත්තරකරුවන් වශයෙන් මුදල් අමාත්‍යාංශයේ ලේකම්වරයා ඇතුළු පිරිසක් නම් කර තිබුණි.
+පන්දු 250කට මුහුණදුන් රිකල්ටන්ගේ ඉනිම තුළ හතරේ පහර 11ක් ඇතුළත් විය.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ 2024/1 දරන ගැසට් නිවේදනය මගින් මත්පැන් බලපත්‍ර සඳහා වන වාර්ෂික ගාස්තුව රුපියල් මිලියන 20 දක්වා වැඩිකළ බවයි.
+ඔහුට අමතරව මෙම තරගයේදී ද සාර්ථක වූ නායක ටෙම්බා බවුමා ලකුණු 78ක් රැස්කිරීමට සමත් විය.
 
-මෙම බලපත්‍ර වාර්ෂික බලපත්‍ර ගාස්තු වැඩිකිරීම තුළින් තමන්ට දැඩි අසාධාරණයක් සිදුවූ බවත්, ඒ තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙසත් ඉල්ලා මෙම පෙත්සම ගොනු කර තිබුණි.
+පන්දු යැවීමේ දී ළහිරු කුමාර ලකුණු 79කට කඩුලු 4ක් දවාගත් අතර, අසිත ප්‍රනාන්දු ලකුණු 102කට කඩුලු 3ක්ද, විශ්ව ප්‍රනාන්දු ලකුණු 65කට කඩුලු 2ක් දවාගත්හ.
+
+◼️
+
+[Data](articles/2f59a954.json)
+
+---
+
+### A foreigner commits suicide by jumping in apartment complex in Kollupitiya
+
+*2024-12-06 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204100) · `si`
+
+Foreigner jumps to death in Kollupitiya apartment complex. 51-year-old Australian had mental health issues. Police investigation ongoing after assault claims.
+
+🟩
+
+A foreigner jailed at apartment complex in Kollupitiya
+
+The police said that a 51 year old Australian was a 51 year old Australian.
+
+He was also observed that he was a person with any mental disorder, police said.
+
+The police had been able to receive information that the person who had resided to be flying from its 7th flight.
+
+However, he had also been assaulted by the police officers and jumping suicide.
+
+Investigations have revealed that the deceased foreign national had been damaged in the market.
+
+◼️
+
+[Data](articles/59b1ebe0.json)
+
+[Extended Data](ext_articles/59b1ebe0.ext.json)
+
+---
+
+### Coconut in the Kataragama Devalaya down 90%
+
+*2024-12-06 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204099) · `si`
+
+Kataragama Devalaya coconut cover drops 90%. High prices deter devotees from bringing coconuts. Coconut oil shortage affects temple lamps. Devotees consider alternatives like oranges.
+
+🟩
+
+The coconut cover in front of Kataragama Devalaya has reduced a 90 percent.
+
+Many devotees who serve to worship Kataragama sacred area do not forget to take a coconut with the sacred image.
+
+The coconut occupies at the Patistry also in the coconut. It is generally normalized to find someone who did not find a coconut in Kataragama.
+
+The coconut tree is before God, one of the best interests of the treasures. Others, the life of others, the coconut tree.
+
+However, our correspondent said that today's high coconut prices in the country refrain from coconut.
+
+A coconut boast of the Kataragama area is sold at Rs. 160.
+
+The coconut oil has also increased due to coconut shortages and the lamps of religious places have also been reduced.
+
+Lord Janaka Dissanayake, who is colal in the Kathu Kataragama River, said that devotees would be orange instead of coconut.
+
+◼️
+
+[Data](articles/71bdd6f8.json)
+
+[Extended Data](ext_articles/71bdd6f8.ext.json)
+
+---
+
+### Religion
+
+*2024-12-06 14:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதங்களுக்கு-இடையில்-நல்லிணக்கத்துக்கான-ஆ-ரம்பம்/175-348354) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Religious event: Deputy Minister Sundaralingam Pradeepam attended pooja rituals. Chairman P.Sundharalingam honored him with a golden wrap. Director Anirudha from Hindu Religious and Cultural Affairs department was also present.
+
+🟩
+
+Deputy Minister of Plantation and Social Infrastructure, Sundaralingam Pradeepam and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure
+
+The Chairman of the Board of Trustees, P.Sundharalingam, had organized a special pooja rituals and honored the ministers with a golden wrap.
+
+Director of the Department of Hindu Religious and Cultural Affairs. Anirudna was also present.
+
+◼️
+
+[Data](articles/2221f21a.json)
+
+[Extended Data](ext_articles/2221f21a.ext.json)
+
+---
+
+### පින්නවල වලස් ජෝඩුවට හා දිවියන්ට වර්ගයා බෝකරන්න  වයස හරස් වෙලා
+
+*2024-12-06 14:35:49* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-වලස්-ජෝඩුවට-හා-දිවියන්ට-වර්ගයා-බෝකරන්න--වයස-හරස්-වෙලා/11-413493) · `si`
+
+වඳවීයාමේ තර්ජනයට ලක්ව ඇති මෙරටට අවේණික සත්ව විශේෂ සුරැකීමේ අරමුණින් පිහිටවූ පින්නවල සත්වෝද්‍යානයේ සිටින  මෙරටට  ආවේණික  ගැහැණු හා පිරිමි වලසුන් දෙදෙනා සහ දිවියන් පස්දෙනා අතර පවතින වයස් පරතරයන් ඇතුළු  නොගැලපීම් හේතුවෙන් ඔවුන්ගේ පැටවුන් බිහිවී නොමැති බව ජාතික විගණන කාර්යාලය ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව වෙනුවෙන් නිකුත්කළ විගණන වාර්තාවක් මගින්  අනාවරණය කරයි.
+
+මේ පිළිබඳව අදහස් දක්වමින් ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව විගණනයට දැනුම් දී ඇත්තේ පිරිමි වලසාට සුදුසු ගැහැණු වලසුන් ලබා ගැනීමට වනජීවී දෙපාර්තමේන්තුවට ඉල්ලුම් කර ඇතත් අධිකරණමය තීන්දුවක් හේතුවෙන් එවැනි  ගැහැණු වලසුන් වනයෙන් ලබා ගැනීමට නොහැකිවී ඇති බවයි.
+
+අභිජනනයට සුදුසු දිවියන් සිටියද ඔවුන් ස්වභාවික අභිජනනය මගින් පැටවුන් බිහිවීම නොකිරීම නිසා කෘත්රිම සිංචනයෙන් දිවියන් බෝකර ගැනීමට වැඩ සටහනක් ආරම්භ කරන බවද එම දෙපාර්තමේන්තුව විගණනය වෙත  වැඩි දුරටත් දන්වා  ඇත.
+
+◼️
+
+[Data](articles/c313e70b.json)
+
+---
+
+### Pakistan’s jailed former PM Imran Khan threatens civil disobedience movement
+
+*2024-12-06 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104043/pakistans-jailed-former-pm-imran-khan-threatens-civil-disobedience-movement) · `en`
+
+Pakistan’s jailed former Prime Minister Imran Khan has called on his supporters to hold a rally next week and threatened to start a civil disobedience movement days after his party led a deadly protest march in Islamabad.
+
+In a post on X on Thursday, Khan asked supporters to converge on Dec. 13 in the northwestern city of Peshawar, the capital of Khyber Pakhtunkhwa province which is ruled by his Pakistan Tehreek-e-Insaf (PTI) party.
+
+He demanded a judicial probe into the crackdown on the Nov 25 protest march which he said killed at least 12 of his supporters and violence on May 9 last year which killed 8. All arrested political workers should also be released, he said.
+
+“If these two demands are not met, a civil disobedience movement will start from December 14, and the government will be held responsible for any consequences,” Khan said.
+
+The government denies any deaths during the Nov 25 protest march, and says that Khan’s supporters had attacked military installations on May 9 last year.
 
 ...
 
+[Data](articles/02facaf0.json)
+
+[Extended Data](ext_articles/02facaf0.ext.json)
+
+---
+
+### Interim order per gazette notification on liquor licenses
+
+*2024-12-06 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204098) · `si`
+
+Supreme Court halts gazette notification increasing liquor license fees. Three-judge bench allows fundamental rights petition filed by Liquor License Holders Association. Annual fee hike from Rs. 20 million challenged. Order prevents implementation until further notice.
+
+🟩
+
+The Supreme Court today (6) awarded the Supreme Court today (6), preventing the implementation of a gazette notification for the annual fee for the end of the year.
+
+Allowing a fundamental rights petition filed by the Liquarates License holders Association of Sri Lanka. H. M. D. The order was issued by a three-member judge with a three-member judge with Nawaz, Kumudhi Wickremasinghe and Priyantha Fernando.
+
+The Secretary to the Ministry of Finance, the Secretary to the Ministry of Finance, had been named as respondents on the Liqual Local Licensee (Liquarates Licensee) Association.
+
+The petitioners claim that the annual fee for liquor licenses increased from Rs. 20 million.
+
+The petition had been filed asking him to increase the annual license fee.
+
+In addition, the petition has been requested to issue an order to be charged by the gazette for sale in 2017.
+
+◼️
+
 [Data](articles/afc6ce12.json)
+
+[Extended Data](ext_articles/afc6ce12.ext.json)
 
 ---
 
@@ -93,6 +245,26 @@ Accordingly, the Indian team won 174 runs.
 [Data](articles/0b966a62.json)
 
 [Extended Data](ext_articles/0b966a62.ext.json)
+
+---
+
+### US Assistant Secretary Donald Lu calls on Sri Lanka’s foreign minister
+
+*2024-12-06 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104042/us-assistant-secretary-donald-lu-calls-on-sri-lankas-foreign-minister) · `en`
+
+A U.S. delegation led by Assistant Secretary of State for the Bureau of South and Central Asian Affairs (SCA), Donald Lu, met with Sri Lanka’s Foreign Minister, Vijitha Herath today (06).
+
+The delegation included representatives of key agencies such as the United States Agency for International Development (USAID) and the U.S. Department of Treasury, which have played integral roles in Sri Lanka’s economic recovery.
+
+“We congratulated Sri Lanka’s new administration and discussed shared priorities, and explored ways we can work together through tailored programs, capacity-building, and technical assistance to support Sri Lanka’s economic and governance reforms to benefit the Sri Lankan people,” U.S. Ambassador to Sri Lanka, Julie Chung said in a post on ‘X’ (formerly Twitter).
+
+The delegation also included the USAID Deputy Assistant Administrator Anjali Kaur and Deputy Assistant Secretary of the US Department of the Treasury, Robert Kaproth.
+
+...
+
+[Data](articles/9c1bd7ff.json)
+
+[Extended Data](ext_articles/9c1bd7ff.ext.json)
 
 ---
 
@@ -1950,6 +2122,8 @@ Dr. Rohini Srivathsa, Chief Technology Officer for Microsoft India and South Asi
 
 [Data](articles/015d8233.json)
 
+[Extended Data](ext_articles/015d8233.ext.json)
+
 ---
 
 ### The government acts arbitrarily
@@ -1986,6 +2160,8 @@ HUTCH will unveil an exciting new podcast series titled “Meet the Tech Titans�
 
 [Data](articles/d2ad616c.json)
 
+[Extended Data](ext_articles/d2ad616c.ext.json)
+
 ---
 
 ### The George Keyt Foundation unveils a distinguished line-up of Sri Lankan artists for upcoming auction conducted by Sotheby’s
@@ -2002,6 +2178,8 @@ The landmark event aims to bring together an extraordinary constellation of Sri 
 
 [Data](articles/dc13063f.json)
 
+[Extended Data](ext_articles/dc13063f.ext.json)
+
 ---
 
 ### NDB Kotahena branch sets a new benchmark with record-breaking CEO’s Club achievement
@@ -2016,6 +2194,8 @@ This historic achievement is a testament to the Kotahena Branch team’s relentl
 
 [Data](articles/1e317f5c.json)
 
+[Extended Data](ext_articles/1e317f5c.ext.json)
+
 ---
 
 ### யாழ்ப்பாண வெற்றி  தேசிய மக்கள் சக்தியின் தேர்தல் கிரீடத்தில் பெறுமதியான  அணிகலன்: யாழ்ப்பாணத்தில் தேசிய மககள் சக்தி ஏன், எவ்வாறு வெற்றி பெற்றது?
@@ -2029,6 +2209,8 @@ This historic achievement is a testament to the Kotahena Branch team’s relentl
 ...
 
 [Data](articles/16647881.json)
+
+[Extended Data](ext_articles/16647881.ext.json)
 
 ---
 
@@ -2127,189 +2309,5 @@ Minister of Electricity Engineer Kumara JayakodySeveral senior officials, includ
 [Data](articles/d54ca4a7.json)
 
 [Extended Data](ext_articles/d54ca4a7.ext.json)
-
----
-
-### Renuka Perera's arrest political revenge;Popresta
-
-*2024-12-05 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200541) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Renuka Perera's arrest seen as political revenge by PA. Gov't accused of distracting public from unfulfilled promises. Opposition claims suppression attempt targeting PA specifically. Government feared of PA's influence.
-
-🟩
-
-In the 1980s. We see this government's arrest as a political revenge.
-
-The General Secretary of the PA is being committed to distracting the people, unable to fulfill the promises made by the Government of Anuragumara Dissanayake, who came to power to the nation.
-
-During a media briefing held at the party headquarters in Colombo on Thursday (5)
-
-He was responding to a question raised by journalists regarding the arrest of party executive member Renuka Perera.
-
-Renuka Perera is not a racist.. This is an attempt to suppress the parties who are acting against them.
-
-There are many oppositions in Parliament. But the People's Liberation Front has targeted the PA. The government is afraid of the PA.. The Minister of Parliament told Parliament that Heroes Day was celebrated in support of the LTTE in many parts of the North.
-
-It is clear that the government has made political revenge without respecting the law even when the court has issued a directive.
-
-◼️
-
-[Data](articles/1f1cc88b.json)
-
-[Extended Data](ext_articles/1f1cc88b.ext.json)
-
----
-
-### What assistance can the US provide the economic reform of Sri Lanka?- A review at a junction between two foreign high -level representatives
-
-*2024-12-05 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200539) · `ta`
-
-US assistance for Sri Lanka's economic reform: US officials met to discuss potential aid for restructuring and development. Topics included strengthening financial ties and supporting economic goals.
-
-🟩
-
-The meeting of top -level representatives between the two countries has been investigated on what assistance the US can provide to achieve the country's economic restructuring and development goals.
-
-The US High Commission's Assistant Assistant Director of International Development, Anjali Gaur and Treasury's Deputy Assistant Secretary Robert Kaprooth, headed by US State Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, arrived in the Bandaranaike International Airport on Thursday morning.
-
-Accordingly, a meeting between US Treasury Deputy Assistant Secretary Robert Caproth and Treasury Secretary Mahinda Siriwardena held a meeting with the Finance Ministry yesterday.. US Ambassador to Sri Lanka Julie Sangam was also present at the meeting.
-
-...
-
-[Data](articles/51723abc.json)
-
-[Extended Data](ext_articles/51723abc.ext.json)
-
----
-
-### In building a better state, we consider the media as foreigners as foreigners - the President
-
-*2024-12-05 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200537) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake views media as partners in nation-building. He seeks cooperation to improve political culture & economy. Emphasizes truth in reporting, opposes communalism, supports media freedom. Discusses anti-poverty programs & Clean Sri Lanka initiative.
-
-🟩
-
-President Anura Kumara Dissanayake said that he considers the media to be a partner, not just foreigners in the task of building a great state and making all citizens a better standard of living.
-
-The President made this statement during a meeting held at the Presidential Office on Thursday (05) with the chiefs of electronic media institutions.
-
-The President said that the people are expecting a better political culture and that the people have elected the current government, and that all media institutions have invited all media institutions to make a new political, social and economic change.
-
-President Anura Kumara Dissanayake has asked the media company chiefs not to publish false information on national integrity, even if there is no restriction on the media to question or criticize the government at any time on political and economic matters.
-
-...
-
-[Data](articles/ea24893e.json)
-
-[Extended Data](ext_articles/ea24893e.ext.json)
-
----
-
-### President assures media freedom will not be compromised or restricted in any way
-
-*2024-12-05 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104030/president-assures-media-freedom-will-not-be-compromised-or-restricted-in-any-way) · `en`
-
-President Anura Kumara Dissanayake emphasized that he regards the media not as outsiders but as an integral part of the effort to build a better state and improve the lives of all citizens.
-
-He made these remarks during a meeting held today (05) with the heads of electronic media organizations at the Presidential Secretariat in Colombo, the President’s Media Division (PMD) reported.
-
-The President highlighted that the people expect a good political culture and elected the current government to fulfill that expectation. He invited all media organizations to collaborate in fostering the new political, social, and economic changes that the people desire.
-
-Additionally, President Dissanayake urged media heads to refrain from reporting false information that could harm national harmony. While affirming that the media has the right to question or criticize the government on political and economic matters, he stressed the importance of responsible reporting.
-
-...
-
-[Data](articles/a5b8a49f.json)
-
-[Extended Data](ext_articles/a5b8a49f.ext.json)
-
----
-
-### Sri Lanka Lawyers Collective call for end to executive presidency, online policing law, PTA
-
-*2024-12-05 22:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-lawyers-collective-call-for-end-to-executive-presidency-online-policing-law-pta-192409/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Lawyers Collective has called on the National Poeople’s Power administration to abolish of the executive presidency, repeal an anti-terror law and an online policing law.
-
-“The autocratic rule made possible in the role of the executive president has been extremely damaging to democracy, the rule of law and the independence of institutions including the judiciary,” the lawyers said in a statement.
-
-“The abuse of power and undermining of all public institutions and the corruption that has accompanied this have been witnessed by citizens for decades, especially in 2009-2024.
-
-Lawyers Collective on a Legislative Agenda for the New Government and Parliament and Rule of Law Issues
-
-...
-
-[Data](articles/d9dd024f.json)
-
-[Extended Data](ext_articles/d9dd024f.ext.json)
-
----
-
-### Riclton century, a half -century of South Africa
-
-*2024-12-05 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200536) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-South Africa lost 269 runs in the first innings on Day 1. Riclton scored a century, sharing partnerships with Temba Bavuma. The team faced challenges from Asitha Fernando and Lahiru Kumara's bowling.
-
-🟩
-
-South Africa lost 269 runs in its first innings at the end of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the match, Port Elizabeth and Port Elizabeth and St. George Park Geberha.
-
-Initially faced with a minor stumbling block, South Africa was aimed at Ryan Riclon's gum and a half -century of team captain Tempa Bauma.
-
-The two teams clash in the Test cricket match with the aim of qualifying to play in the World Test Championship final.
-
-South Africa's beginning, which decided to bat first after winning the currency cycle, was not good.
-
-South Africa lost 3 wickets for 44 runs at one point, faced by stumbling blocking in the skilled bowls of Asitha Fernando and Lahiru Kumara.
-
-Tony de Sorsi (0), Aiden Margram (20) and Triston Stubs (4) failed to shine in the field.
-
-...
-
-[Data](articles/fcbadb1d.json)
-
-[Extended Data](ext_articles/fcbadb1d.ext.json)
-
----
-
-### Sealed for Mendis Company
-
-*2024-12-05 22:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெண்டிஸ்-நிறுவனத்திற்கு-சீல்-வைக்கப்பட்டது/175-348328) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Madhuvari Commissioner suspends Mendis Company's liquor license due to unpaid taxes (Rs 5.7 billion). Production and distribution halted. Government cancels licenses of manufacturers who failed to pay taxes from November 30."
-
-🟩
-
-W.. M.. Mendis was also sealed today (5).
-
-The Madhuvari Commissioner General has ordered the suspension of its liquor production license from today (5) as per the rules of the Liquor Ordinance, as Mendis failed to pay Rs 5.7 billion, including the liquor and 3 percent additional fees.
-
-First W.. M.. Ja-Ela and Gampaha Madhuvari Superintendents said that all production and distribution of Mendis Company cannot be carried out.
-
-It is noteworthy that the government has decided to cancel the license of liquor manufacturers who failed to pay taxes from November 30.. Remble
-
-◼️
-
-[Data](articles/b27a4c2c.json)
-
-[Extended Data](ext_articles/b27a4c2c.ext.json)
 
 ---

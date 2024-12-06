@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 23:43:11**
+As of **2024-12-07 00:02:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,889 (100.0%) of 58,891 articles have been extended.
+58,891 (100.0%) of 58,891 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -708,6 +708,8 @@ It will continue to produce radial tires, solid tires and assemblies.
 
 [Data](articles/e9825be9.json)
 
+[Extended Data](ext_articles/e9825be9.ext.json)
+
 ---
 
 ### Unanimously fulfill
@@ -805,6 +807,8 @@ Bigger business and foreign investors were also expecting more transparent work 
 ◼️
 
 [Data](articles/46e67af4.json)
+
+[Extended Data](ext_articles/46e67af4.ext.json)
 
 ---
 

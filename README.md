@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 18:23:58**
+As of **2024-12-06 18:39:48**
 
 ## Newspaper Stats
 
-*Scraped **58,852** Articles*
+*Scraped **58,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,577
-adaderanalk | 7,147
+adaderanalk | 7,148
 tamilmirrorlk | 8,390
 virakesarilk | 9,637
 adaderanasinhalalk | 10,167
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,838 (100.0%) of 58,852 articles have been extended.
+58,838 (100.0%) of 58,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### Vote on Account passed in Parliament without a vote
+
+*2024-12-06 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104048/vote-on-account-passed-in-parliament-without-a-vote) · `en`
+
+The Resolution on the Vote on Account for the first four months of 2025 was passed in Parliament today (6) without a vote.
+
+The Resolution on the Vote on Account, which facilitates the uninterrupted continuation of government operations and debt servicing for the first quarter of 2025, were presented to Parliament on 03 December.
+
+The debate on the Resolution on the Vote on Account was held in Parliament on the 05 and 06 December from 9:30 a.m. to 5:30 p.m.
+
+Following the conclusion of today’s debate, the Vote on Account was passed without a vote.
+
+◼️
+
+[Data](articles/ed1e45ca.json)
+
+---
 
 ### ආණ්ඩුවේ අතුරු සම්මත ගිණුම ඡන්ද විමසීමකින් තොරව සම්මතයි
 
@@ -2369,23 +2387,5 @@ Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday raised concerns in Parli
 [Data](articles/55f3c0bb.json)
 
 [Extended Data](ext_articles/55f3c0bb.ext.json)
-
----
-
-### ITAK MPs call on President
-
-*2024-12-06 04:21:56* · [`dailyftlk`](https://www.ft.lk/news/ITAK-MPs-call-on-President/56-770146) · `en`
-
-The Illankai Tamil ArasuKadchi (ITAK) Parliamentarians on Wednesday called on President Anura Kumara Dissanayake at the Presidential Secretariat.
-
-During the discussion, the ITAK Parliamentarians brought to the President’s attention the longstanding challenges faced by the people in the Northern and Eastern regions.
-
-ITAK Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmugam Kugathasan, Shanakiyan Rasamanickam, Gnanamuthu Srineshan, Kaveenthiran Kodeeswaran, Elayathamby Srinath, and Thurairasa Raviharan also attended the meeting.
-
-◼️
-
-[Data](articles/0ba80f59.json)
-
-[Extended Data](ext_articles/0ba80f59.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 17:26:33**
+As of **2024-12-06 17:43:49**
 
 ## Newspaper Stats
 
-*Scraped **58,837** Articles*
+*Scraped **58,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 446
 colombotelegraphcom | 598
 bbccomsinhala | 615
 islandlk | 3,534
-economynextcom | 3,575
+economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,577
-adaderanalk | 7,146
+adaderanalk | 7,147
 tamilmirrorlk | 8,389
 virakesarilk | 9,637
 adaderanasinhalalk | 10,163
@@ -26,11 +26,77 @@ adaderanasinhalalk | 10,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,832 (100.0%) of 58,837 articles have been extended.
+58,835 (100.0%) of 58,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### Kerala cannabis worth over Rs. 18 mln found adrift off Delft
+
+*2024-12-06 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104046/kerala-cannabis-worth-over-rs-18-mln-found-adrift-off-delft) · `en`
+
+The Sri Lanka Navy has seized approximately 45.5 kg of Kerala cannabis found adrift in the waters during a special operation conducted in the sea area near Delft Island, Jaffna.
+
+The operation was carried out by SLNS Wasabha of the Northern Naval Command, deploying an Inshore Patrol Craft, last night (05).
+
+During the operation, naval personnel discovered two suspicious polythene sacks drifting in the Delft sea area. Upon inspection, the sacks were found to contain approximately 45.5 kg of Kerala cannabis packed into 20 parcels, the Navy said.
+
+It is suspected that smugglers may have abandoned the consignment of Kerala cannabis due to the Navy’s persistent operations, which likely hindered their efforts to bring the contraband ashore, the Sri Lanka Navy said.
+
+The gross street value of the seized Kerala cannabis is estimated to be over Rs. 18 million.
+
+...
+
+[Data](articles/6e67b098.json)
+
+[Extended Data](ext_articles/6e67b098.ext.json)
+
+---
+
+### Sri Lanka’s Asia Asset Finance to raise Rs2bn in debentures
+
+*2024-12-06 16:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-to-raise-rs2bn-in-debentures-118488/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Asia Asset Finance said it plans to raise up to 2 billion rupees through an issue of 20 million debentures at 100 rupees each.
+
+The finance company said it will initially issue 10 million listed, rated, unsecured, senior, redeemable, 3-year (2024/2027) and 5-year (2024/2029) debentures to raise 1 billion rupees.
+
+“With an option to issue up to a further 10 million of the said debentures in the event of an oversubscription of the initial tranche to raise up to a maximum of Sri Lankan rupees two billion,” the bank said in a stock exchange filing.
+
+The Colombo Stock Exchange has approved the listing of the debt securities in principle.
+
+Capital Alliance Partners Limited are managers to the issue. (Colombo/Dec6/2024)
+
+◼️
+
+[Data](articles/1ac62cfb.json)
+
+[Extended Data](ext_articles/1ac62cfb.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 290.40/48 to dollar, bonds steady
+
+*2024-12-06 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-40-48-to-dollar-bonds-steady-117735/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.40/48 to the US dollar on Friday from 290.30/40 to the US dollar on Thursday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.45/50 percent, up from 9.40/50 percent.
+
+A bond maturing on 15.10.2027 closed at 10.10/20 percent, down from 10.10/25 percent.
+
+A bond maturing on 15.03.2028 closed at 10.40/50 percent, down from 10.45/55 percent.
+
+A bond maturing on 15.05.2030 closed at 11.00/20 percent. (Colombo/Dec6/2024)
+
+◼️
+
+[Data](articles/3a50e639.json)
+
+[Extended Data](ext_articles/3a50e639.ext.json)
+
+---
 
 ### Interim order issued against increasing liquor license fees
 
@@ -79,6 +145,30 @@ Subsequently, the police, who were investigating, arrested the two suspects on t
 [Data](articles/7189d1b8.json)
 
 [Extended Data](ext_articles/7189d1b8.ext.json)
+
+---
+
+### Sri Lanka stocks close up, momentum continues
+
+*2024-12-06 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-momentum-continues-118572/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 0.40 percent, or 53.96 points, at 13,613; while the more liquid S&P SL20 Index closed up 0.41 percent, or 16.54 points, at 4,069.
+
+Turnover was 4.9 billion. Major contributing sectors were food beverage and tobacco (Rs1.36bn), capital goods (Rs1.13bn) and diversified financials sectors (Rs1.14bn).
+
+“Market is moving upward broadly due to expectations, with the momentum continuing,” market participants said.
+
+“After the vote on accounts was passed, the perception is that everything is progressing positively.”
+
+Large volumes were traded in HNB Finance (down at 4.20), Agarapatana Plantations (up at 10.6), Kotagala Plantations (up at 8.60), John Keells Hotels (down at 20.70), Access Engineering (up at 31.20).
+
+“Rubber prices and palm oil prices have appreciated, so investors are probably expecting better profits ahead.”
+
+...
+
+[Data](articles/29b4ecda.json)
 
 ---
 
@@ -241,6 +331,50 @@ The film was directed by M.. Priyanka Arul Mohan, Rao Ramesh and V TV Ganesh wit
 [Data](articles/9d69b302.json)
 
 [Extended Data](ext_articles/9d69b302.ext.json)
+
+---
+
+### Sri Lanka minister plans to lift VAT on brown sugar made at expropriated SOE plants
+
+*2024-12-06 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-plans-to-lift-vat-on-brown-sugar-made-at-expropriated-soe-plants-192644/) · `en`
+
+ECONOMYNEXT – Industries Minister Sunil Handunetti said cabinet approval will be sought to lift value added tax from brown sugar made at Lanka Sugar, a state enterprise made from firms including once-listed Pelwatte Sugar, expropriated during a Rajapaksa regime in 2011.
+
+Unsold stocks of sugar are stuck at Pelwatte and Sevenagala plants of Lanka Sugar, Moneragala legislator, R M Jayawardhana told parliament.
+
+Sri Lanka is charging 18 percent value added tax from brown sugar made at Lanka Sugar, but imported white sugar is not subjected to VAT, Industries Minister Handunetti said.
+
+Brown Sugar made at the SOE is also charged a 2.5 percent social security levy, he said.
+
+“As a result, brown sugar costs about 300 rupees a kilo when it comes out of the factory, compared to 220 rupees for imported white sugar,” Minister Handunetti said.
+
+“If we are to get rid of the stocks we definitely require a tax concession.  I am planning to present a proposal to cabinet to lift VAT from brown sugar.”
+
+...
+
+[Data](articles/31673067.json)
+
+---
+
+### Sri Lanka EC warns of legal action against candidates not compiling expense report
+
+*2024-12-06 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-warns-of-legal-action-against-candidates-not-compiling-expense-report-192645/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission (EC) has warned all candidates who have failed to submit their election campaign income and expenditure after contested in the November 14 parliament polls.
+
+The Election Commission has set a deadline to submit the income and expenditure reports for 12 midnight on Friday, December 06, 2024.
+
+R M A L Ratnayake, the Chairman of the EC said only few have submitted their reports so far.
+
+“It is not only for those who have elected to the parliament, but those all who contested the election. They all should file their expenditure reports, Ratnayake told in a video clip circulated by the EC.
+
+“I specially urge all candidates to fulfil this obligation without facing any legal actions.”
+
+“In the event of a legal action, those candidates who face legal action are sometimes likely to lose their opportunity of contesting in local government or provincial council polls.”
+
+...
+
+[Data](articles/d7a5ff60.json)
 
 ---
 
@@ -542,6 +676,22 @@ Accordingly, the Indian team won 174 runs.
 
 ---
 
+### US diplomat Donald Lu discusses programs, technical assistance with Sri Lanka
+
+*2024-12-06 13:35:00* · [`economynextcom`](https://economynext.com/us-diplomat-donald-lu-discusses-programs-technical-assistance-with-sri-lanka-118579/) · `en`
+
+ECONOMYNEXT – US diplomat Donald Lu has met Sri Lanka’s Foreign Minister Vijitha Herath to discuss tailored programs, capacity-building, and technical assistance.
+
+The delegation led by Lu, who is the Assistant Secretary of the US Bureau Of South And Central Asian Affairs, discussed shared priorities with Sri Lanka’s new administration, US ambassador Julie Chung said.
+
+“And explored ways we can work together through tailored programs, capacity-building, and technical assistance to support Sri Lanka’s economic and governance reforms to benefit the Sri Lankan people.” (Colombo/Dec6/2024)
+
+◼️
+
+[Data](articles/357b82f3.json)
+
+---
+
 ### US Assistant Secretary Donald Lu calls on Sri Lanka’s foreign minister
 
 *2024-12-06 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104042/us-assistant-secretary-donald-lu-calls-on-sri-lankas-foreign-minister) · `en`
@@ -752,6 +902,24 @@ Police have secured the crime scene, and a magisterial inquiry will be conducted
 
 ---
 
+### Sri Lanka must conclude bond exchange in December to sustain momentum: Former Minister
+
+*2024-12-06 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-must-conclude-bond-exchange-in-december-to-sustain-momentum-former-minister-119138/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government must conclude the bond exchange in December to sustain momentum and unlock further growth opportunities, a former state minister of finance has said.
+
+“It is crucial for the government to conclude the bond exchange in December to sustain this momentum and unlock further growth opportunities,” Shehan Semasinghe said on X.
+
+Sri Lanka had made remarkable progress in restoring its economy by “implementing critical decisions, including the successful conclusion of debt restructuring with bilateral and commercial creditors,” Semasinghe, who participated in discussions with the International Monetary Fund, said.
+
+“This achievement paves the way for international rating agencies to consider a rating upgrade, boosting confidence and fostering economic stability.”
+
+...
+
+[Data](articles/0f4a5c60.json)
+
+---
+
 ### Petition filed against the rugby conference
 
 *2024-12-06 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204094) · `si`
@@ -807,6 +975,26 @@ Subsequently, the suspect's mother's mother's second husband has been arrested b
 [Data](articles/289a2cc3.json)
 
 [Extended Data](ext_articles/289a2cc3.ext.json)
+
+---
+
+### Addressing irregularities key to restoring public trust in Sri Lanka’s Excise Dept: President
+
+*2024-12-06 12:05:00* · [`economynextcom`](https://economynext.com/addressing-irregularities-key-to-restoring-public-trust-in-sri-lankas-excise-dept-president-192489/) · `en`
+
+ECONOMYNEXT – Revamping processes, addressing irregularities, and tackling artificial toddy issues were key to restoring public trust in the Excise Department, Sri Lanka’s President Anura Dissanayake has said.
+
+“I instructed the Excise Department to ensure transparency and lawfulness in issuing licenses and tax collection,” Dissanayake said on X after meeting department officials on Thursday.
+
+“Revamping processes, addressing irregularities, and tackling artificial toddy issues are key to restoring public trust and boosting the economy.”
+
+Challenges in collecting excise taxes and the irregularities that arise in the process were discussed at the meeting, the president’s media division said.
+
+The Excise Department is one of the key revenue departments of the government, along with Customs and Inland Revenue.
+
+...
+
+[Data](articles/c64e7c47.json)
 
 ---
 
@@ -2215,191 +2403,5 @@ The government should explain the permits for these 361 liquor schools and asked
 [Data](articles/1da044b9.json)
 
 [Extended Data](ext_articles/1da044b9.ext.json)
-
----
-
-### Ranil traveled with a dress:
-
-*2024-12-06 02:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையுடன்-பயணித்தார்-ரணில்-ஆடையின்றி-அனுர/175-348331) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ranil Wickremesinghe visited a hanging bridge wearing a dress. Kabir Hashim questioned the government's business loan plans. Many professionals were elected to Parliament, criticizing the 74-year political structure. There's no expected system change under National People's Power. The president's speech lacked changes in the current account voting record.
-
-🟩
-
-The then President Ranil Wickremesinghe traveled to the hanging bridge with the dress. United People's Power MP Kabir Hashim, who said that this is the change in the hung bridge without the present president, questioned that the government is going to sign a business loan contract.
-
-Speaking at a debate on the polling polls held in Parliament on Thursday (05), he further addressed the question.
-
-A large number of doctors, professors, graduates and professional experts have been elected to Parliament this time on behalf of the National People's Power. They all benefited from free education criticizing the 74 -year political structure
-
-Could not expect any system change in the administration of national people's power. If the traditional agricultural system is wrong to go to the joint agricultural system. Similarly, if the industrial sector is wrong, you have to go to the state -owned industry.
-
-...
-
-[Data](articles/ccca9c4e.json)
-
-[Extended Data](ext_articles/ccca9c4e.ext.json)
-
----
-
-### Ranil travels with a garment: Anura travels without garment
-
-*2024-12-06 02:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையுடன்-பயணித்தார்-ரணில்-ஆடையின்றி-பயணிக்கிறார்-அனுர/175-348331) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil Wickremesinghe travels with garment; Anura without. Kabir Hashim questions government's business loan deal. National People's Power elected professionals criticize 74-year political structure. No system change expected under new administration. Traditional agricultural and industrial systems criticized. President's policy speech lacks voting record changes. IMF project implementation questioned without content examination.
-
-🟩
-
-The then President Ranil Wickremesinghe traveled to the hanging bridge with the dress. United People's Power MP Kabir Hashim, who said that this is the change in the hung bridge without the present president, questioned that the government is going to sign a business loan contract.
-
-Speaking at a debate on the polling polls held in Parliament on Thursday (05), he further addressed the question.
-
-A large number of doctors, professors, graduates and professional experts have been elected to Parliament this time on behalf of the National People's Power. They all benefited from free education criticizing the 74 -year political structure
-
-Could not expect any system change in the administration of national people's power. If the traditional agricultural system is wrong to go to the joint agricultural system. Similarly, if the industrial sector is wrong, you have to go to the state -owned industry.
-
-...
-
-[Data](articles/d84454c0.json)
-
-[Extended Data](ext_articles/d84454c0.ext.json)
-
----
-
-### Digital transactions via LankaPay outpace GDP of Sri Lanka
-
-*2024-12-06 02:32:00* · [`islandlk`](http://island.lk/digital-transactions-via-lankapay-outpace-gdp-of-sri-lanka/) · `en`
-
-Contrary to the popular belief that the country is way behind in its digital transformation, Sri Lanka’s economic heartbeat now pulses digitally with LankaPay as its lifeblood. Transcending its original role as a mere payment system, LankaPay has emerged as the country’s digital backbone, laying the foundation for rapid economic growth.
-
-In 2023, LankaPay’s digital transactions exceeded the nation’s GDP, emphasizing the transformative impact of digital payments on the economy. Nearly half of Sri Lanka’s economic output was transacted via real-time payment transactions through LankaPay’s interbank fund transfers. By operating 24X7X365 and prioritizing security, speed and accessibility, LankaPay empowers both businesses and individuals: businesses benefit from efficiency, faster operations and market reach, while individuals gain quicker access to funds stimulating economic activity nationwide.
-
-...
-
-[Data](articles/487ee4cd.json)
-
-[Extended Data](ext_articles/487ee4cd.ext.json)
-
----
-
-### BOC’s FCY ratings upgraded to “CCC-” by Fitch
-
-*2024-12-06 02:32:00* · [`islandlk`](http://island.lk/bocs-fcy-ratings-upgraded-to-ccc-by-fitch/) · `en`
-
-Bank of Ceylon’s (BOC) Long-Term Foreign Currency Issuer Default Rating (IDR) has been upgraded to ‘CCC-’ from ‘CC’ by Fitch Ratings (Fitch) in their latest rating review. Further, the Viability Rating (VR) was also upgraded to ‘ccc-’ from ‘cc’ by removing the Rating Watch Negative (RWN) on VR.
-
-This rating upgrade signifies the Bank’s stability amidst the challenging operating environment and the Bank’s ratings are further positioned above the country ratings showcasing the resilience of the Bank.
-
-According to the latest announcement made by Fitch by upgrading BOC’s international rating, Fitch has considered the following factors in order to support their rating action;
-
-...
-
-[Data](articles/62aec96b.json)
-
-[Extended Data](ext_articles/62aec96b.ext.json)
-
----
-
-### Nestlé Lanka donates to communities impacted by recent floods
-
-*2024-12-06 02:29:00* · [`islandlk`](http://island.lk/nestle-lanka-donates-to-communities-impacted-by-recent-floods/) · `en`
-
-Nestlé Lanka recently donated food and beverage products to communities worst impacted by the recent floods through the Disaster Management Centre.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/f881c339.json)
-
-[Extended Data](ext_articles/f881c339.ext.json)
-
----
-
-### LOLC Finance Jaffna metro branch relocates to new premises
-
-*2024-12-06 02:28:00* · [`islandlk`](http://island.lk/lolc-finance-jaffna-metro-branch-relocates-to-new-premises/) · `en`
-
-LOLC Finance PLC, Sri Lanka’s premier Non-Banking Financial Institution (NBFI), proudly announces the relocation of its Jaffna metro branch to its very own premises at No. 584, Hospital Road, Jaffna. This strategic move reflects the company’s commitment to enhancing accessibility and delivering innovative, customer-focused financial solutions to the vibrant community of Jaffna and its surrounding areas.
-
-From its rich cultural heritage to its growing prominence as an economic hub in the northernmost region of Sri Lanka, Jaffna embodies a harmonious blend of tradition and progress. The relocation of LOLC Finance’s second Jaffna branch too, to its own modern facility reflects the company’s dedication to empowering businesses, uplifting the community, and driving sustainable development in the region.
-
-Plans to boost foreign reserves to US$ 10 billion in 2025 trigger bull-run at bourse
-
-...
-
-[Data](articles/cc732ff5.json)
-
-[Extended Data](ext_articles/cc732ff5.ext.json)
-
----
-
-### Investment opportunities will not be provided by the phone.
-
-*2024-12-06 02:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பக்கச்சார்பாக-முதலீட்டு-வாய்ப்புகள்-வழங்கப்படாது/175-348330) · `ta`
-
-Sri Lanka offers stable political climate for investments, says President Anura Kumara Dissanayake. He emphasizes financial stability and independence for the Investment Board to attract clean investments. The President promises proper allocation of funds in the upcoming budget to enhance the board's execution capacity.
-
-🟩
-
-President Anura Kumara Dissanayake said that there is a conducive environment for investing with the political stability in the country.
-
-Political tensions will no longer take place, such as providing new investment opportunities. The President also said that the Sri Lanka Investment Board is giving the full independence to bring the country's clean investments into the country.
-
-The President made this statement during a discussion held at the Presidential Office on Thursday (05) with top officials of the Sri Lanka Investment Board.
-
-President Anura Kumara Dissanayake pointed out that the country should ensure financial stability in the country, like political stability, and that the Investment Council has a huge responsibility.
-
-The President promised to dedicate the responsibility of the Investment Council properly and that the Investment Council would be fully independent to bring in the country's conducive investment.
-
-...
-
-[Data](articles/2faca229.json)
-
-[Extended Data](ext_articles/2faca229.ext.json)
-
----
-
-### Empowering women by celebrating men with Eva Sri Lanka’s #TellHim initiative
-
-*2024-12-06 02:24:00* · [`islandlk`](http://island.lk/empowering-women-by-celebrating-men-with-eva-sri-lankas-tellhim-initiative/) · `en`
-
-This International Men’s Day, Eva, Sri Lanka’s leading feminine hygiene brand, made history by celebrating the men who empower women. Launching the bold and heartfelt campaign #TellHim, Eva became the first feminine hygiene brand to honour men on this day. The campaign paid tribute to the quiet champions—fathers, brothers, husbands, friends, and colleagues—who support women to lead with confidence and break barriers.
-
-Developed in partnership with the creative agency DEFY, the #TellHim campaign resonated deeply with audiences, amassing over half a million views across digital platforms in just days. Featuring real stories and heartfelt messaging, the initiative inspired thousands of comments, shares, and stories of gratitude, creating a nationwide conversation about shared empowerment.
-
-...
-
-[Data](articles/30e28a84.json)
-
-[Extended Data](ext_articles/30e28a84.ext.json)
-
----
-
-### Plans to boost foreign reserves to US$ 10 billion in 2025 trigger bull-run at bourse
-
-*2024-12-06 02:24:00* · [`islandlk`](http://island.lk/plans-to-boost-foreign-reserves-to-us-10-billion-in-2025-trigger-bull-run-at-bourse/) · `en`
-
-The stock market was extremely bullish yesterday due to Central Bank Governor Dr Nandalal Weerasinghe’s comment to the media that the CBSL intends to increase the current foreign reserve to US $ 10 billion next year.
-
-‘All these years the government temporarily halted imports due to the foreign reserve crisis but at present the country’s foreign reserves have grown to US $ 7 billion. However, this amount will be increased to US $ 10 billion very soon. This gave an impetus to yesterday’s stock market, analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 64.6 points while the S and P SL20 rose by 40.1 points. Turnover stood at Rs 4.4 billion with 13 crossings.
-
-...
-
-[Data](articles/9a6f28f9.json)
-
-[Extended Data](ext_articles/9a6f28f9.ext.json)
 
 ---

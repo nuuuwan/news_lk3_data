@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 12:29:45**
+As of **2024-12-06 12:02:30**
 
 ## Newspaper Stats
 
-*Scraped **58,799** Articles*
+*Scraped **58,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,574
 adaderanalk | 7,141
-tamilmirrorlk | 8,385
+tamilmirrorlk | 8,383
 virakesarilk | 9,629
 adaderanasinhalalk | 10,146
 
@@ -26,65 +26,11 @@ adaderanasinhalalk | 10,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,777 (100.0%) of 58,799 articles have been extended.
+58,772 (100.0%) of 58,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
-
-### Arrested for killing a foster daughter
-
-*2024-12-06 12:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளர்ப்பு-மகளை-கொன்று-மலசல-குழியில்-வீசியவர்-கைது/175-348351) · `ta`
-
-Mother arrested for foster daughter's murder in Gampaha. Body found in sewage pit after disappearance. Second husband suspected.
-
-🟩
-
-Gampaha police said that the mother of the mother of a girl who was allegedly killed in a sewage cavity has been arrested.
-
-Her mother has lodged a complaint at the Gampaha Police Station on Thursday (05) that her daughter has disappeared since the 02nd.
-
-Following the investigation, the police found the body of the girl from the sewage cavity in a house.
-
-Police investigations revealed that the girl's mother's second husband was murdered and threw the body into a sewage cavity.
-
-Subsequently, the suspect's mother's mother's second husband has been arrested by the police.
-
-◼️
-
-[Data](articles/289a2cc3.json)
-
-[Extended Data](ext_articles/289a2cc3.ext.json)
-
----
-
-### Young people who collide with buffaloes;Buffalo death: five hurt
-
-*2024-12-06 11:56:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எருமைகளில்-மோதிய-இளைஞர்கள்-எருமை-உயிரிழப்பு-ஐவர்-காயம்/175-348350) · `ta`
-
-Motorcycle collision with buffaloes: 5 youths injured, 1 buffalo killed on Pasikuda main road.
-
-🟩
-
-Police said the youth had been admitted to the hospital with injuries in a motorcycle accident.
-
-The accident took place on Thursday night (05) on the Pasikuda main road under the Calcutta Police Division.
-
-Five of the three motorcycles crashed with buffaloes standing on the street while traveling high speed.
-
-Of these, a buffalo died and four buffaloes were reportedly injured.
-
-Five youths traveling on motorcycles have been admitted to the Valaichenai Resource Hospital after being injured.
-
-Subsequently, all five youths have been transferred to the Batticaloa Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/6aaa8c80.json)
-
-[Extended Data](ext_articles/6aaa8c80.ext.json)
-
----
 
 ### Sri Lanka rupee traders flat at 290.35/40 to dollar, bonds steady
 
@@ -108,8 +54,6 @@ The more liquid S&P SL20 was up 0.29 percent, or 11.91 points, at 4,064.
 
 [Data](articles/69366959.json)
 
-[Extended Data](ext_articles/69366959.ext.json)
-
 ---
 
 ### COPA chairmanship to be given to opposition, COPE chair from ruling party
@@ -129,8 +73,6 @@ The Minister further clarified that the ruling party will take the chairmanship 
 ...
 
 [Data](articles/83402bcf.json)
-
-[Extended Data](ext_articles/83402bcf.ext.json)
 
 ---
 
@@ -811,8 +753,6 @@ Colombo Dockyard was keeping the market informed of its moves following a going 
 ...
 
 [Data](articles/d3e12cc2.json)
-
-[Extended Data](ext_articles/d3e12cc2.ext.json)
 
 ---
 
@@ -2285,5 +2225,59 @@ WM in such a background. The Court of Appeal yesterday decided not to examine th
 [Data](articles/8ef9490d.json)
 
 [Extended Data](ext_articles/8ef9490d.ext.json)
+
+---
+
+### Doit of the train online ticket fraud
+
+*2024-12-05 19:10:21* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-ඔන්ලයින්-ටිකට්-වංචාවට-තිත/11-413486) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Online train ticket fraud prevention: Compulsory inclusion of National ID or passport number for seat booking. Aimed at preventing ticket allocation to multiple people and irregularities.
+
+🟩
+
+It is compulsory to include the National Identity Card number or the passport number of the railway seats on the online method.
+
+The methodology states that this method is followed to prevent the inconveniences and irregularities caused by distinguishing tickets.
+
+Events that have been allocated by some people of more people, such as the falls of the falls.. This decision has been taken as a solution to these situations.
+
+◼️
+
+[Data](articles/9eba2b7f.json)
+
+[Extended Data](ext_articles/9eba2b7f.ext.json)
+
+---
+
+### Tobacco farmers Rs. Businessman who laid Rs. 6 crores arrested
+
+*2024-12-05 19:04:09* · [`adalk`](https://www.ada.lk/breaking_news/දුම්කොළ-ගොවීන්ට-රු--කෝටි-6ක්-තැබූ-ව්‍යාපාරිකයෙක්-අල්ලයි/11-413485) · `si`
+
+Businessman cheats tobacco farmers: Arrested for fraud.
+
+🟩
+
+A businessman who abandoned the tobacco from Jaffna and Kayts tobacco farmers were arrested by the Special Criminal Investigation Unit of the Vavuniya bus stop at the Vavuniya bus stand.
+
+The suspects have been opened in connection with 14 cases of tobacco frauds.
+
+The suspect is gaining tobacco from Kayts and Jaffna farmers in 2013 and cheat and hide without money.
+
+The 59-year-old suspect has received 14 complaints against the Jaffna Special Criminal Investigation Unit that has received 14 complaints against the Jaffna Special Criminal Investigation Unit.
+
+The suspect, a resident of Kayts, has been hiding in various parts of the area for several years.
+
+The suspect has been arrested following tips to the Jaffna Special Criminal Investigation Unit at the Vavuniya bus stand for the Jaffna bus stand on the Vavuniya bus stand by the suspect.
+
+...
+
+[Data](articles/13589cd6.json)
+
+[Extended Data](ext_articles/13589cd6.ext.json)
 
 ---

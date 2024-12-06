@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 00:02:25**
+As of **2024-12-07 00:18:22**
 
 ## Newspaper Stats
 
-*Scraped **58,891** Articles*
+*Scraped **58,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 598
 bbccomsinhala | 616
 islandlk | 3,534
 economynextcom | 3,585
-dailyftlk | 4,061
+dailyftlk | 4,062
 dailymirrorlk | 4,733
 adalk | 5,581
 adaderanalk | 7,152
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,891 (100.0%) of 58,891 articles have been extended.
+58,891 (100.0%) of 58,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### Blueprint for new Constitution
+
+*2024-12-06 23:56:04* · [`dailyftlk`](https://www.ft.lk/columns/Blueprint-for-new-Constitution/4-770198) · `en`
+
+The Constitution, which is the supreme and fundamental law, must be sufficiently flexible to enable different shades of political opinion to be developed and implemented from time to time
+
+When the citizens agree to be governed, what they insist in return from the rulers is that their rights and freedoms be effectively guaranteed. The Constitution should provide, as it does in many other countries, that an international human rights treaty, when ratified, will have the force of law, superseding any inconsistent existing law. If the Government is unwilling to do so, why ratify a treaty at all? Alternatively, at least the provisions of the two international human rights covenants should be incorporated in the Constitution. That is not only a matter of sound commonsense and prudent governance; it is also a solemn treaty obligation
+
+...
+
+[Data](articles/e53a54da.json)
+
+---
 
 ### Matthews exceeds 8000 Tests
 
@@ -2591,27 +2605,5 @@ He noted that there are many problems with the cleanliness of food and drinks wi
 [Data](articles/31fb5e4f.json)
 
 [Extended Data](ext_articles/31fb5e4f.ext.json)
-
----
-
-### Electricity tariff amendments today handed over
-
-*2024-12-06 10:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டண-திருத்த-யோசனைகள்-இன்று-கையளிப்பு/175-348344) · `ta`
-
-CEB submits revised electricity tariff proposal to PUC today. PUC to review and act on proposed reductions.
-
-🟩
-
-The Ceylon Electricity Board (CEB) will present the idea of ​​reducing electricity tariffs to the Public Utilities Commission today.
-
-After handing over the revised proposal, the Public Utilities Commission should take further steps on the reduction of the electricity tariff.
-
-The Public Utilities Commission said that the Ceylon Electricity Board had previously submitted the proposal to reduce electricity tariffs, but it should be revised and submitted.
-
-◼️
-
-[Data](articles/86842bfe.json)
-
-[Extended Data](ext_articles/86842bfe.ext.json)
 
 ---

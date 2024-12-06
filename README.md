@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 10:16:20**
+As of **2024-12-06 11:43:22**
 
 ## Newspaper Stats
 
-*Scraped **58,780** Articles*
+*Scraped **58,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,68 +13,356 @@ dbsjeyarajcom | 445
 colombotelegraphcom | 598
 bbccomsinhala | 614
 islandlk | 3,534
-economynextcom | 3,572
+economynextcom | 3,575
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,572
-adaderanalk | 7,138
-tamilmirrorlk | 8,379
-virakesarilk | 9,625
+adalk | 5,574
+adaderanalk | 7,141
+tamilmirrorlk | 8,383
+virakesarilk | 9,629
 adaderanasinhalalk | 10,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,751 (100.0%) of 58,780 articles have been extended.
+58,768 (100.0%) of 58,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### மின்சார கட்டண திருத்த யோசனைகள் இன்று கையளிப்பு
+### Sri Lanka rupee traders flat at 290.35/40 to dollar, bonds steady
+
+*2024-12-06 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-traders-flat-at-290-35-40-to-dollar-bonds-steady-121003/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading relatively flat at 290.30/35 to the US dollar on Friday from 290.30/40 to the US dollar on Thursday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 9.45/50 percent, up from 9.40/50 percent.
+
+A bond maturing on 15.12.2027 was quoted at 10.10/20 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.40/50 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.80/90 percent, from 10.82/90 percent.
+
+In equities, the All Share Price Index was up 0.27 percent or 36.21 points, at 13,595.
+
+The more liquid S&P SL20 was up 0.29 percent, or 11.91 points, at 4,064.
+
+◼️
+
+[Data](articles/69366959.json)
+
+---
+
+### COPA chairmanship to be given to opposition, COPE chair from ruling party
+
+*2024-12-06 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104040/copa-chairmanship-to-be-given-to-opposition-cope-chair-fromrulingparty) · `en`
+
+Leader of the House, Minister Bimal Rathnayake, announced today (6) that the position of Chairman of the Committee on Public Accounts (COPA) will be granted to the opposition.
+
+He made this statement in response to a query in Parliament regarding the Parliamentary Affairs Committee or the Party Leaders’ meeting.
+
+Minister Rathnayake said, “We have decided to give the position of Chairman of the Committee on Public Accounts (COPA) to the opposition. It is not something you requested. Also, the number of members of the Public Accounts Committee has been increased beyond the standing orders.”
+
+The Minister further clarified that the ruling party will take the chairmanship of the Committee on Public Enterprises (COPE), as it is necessary to examine the affairs of the previous government.
+
+“We do not want a minister from the former government to come and become the chairman of the COPE. That is not ethical,” he added.
+
+...
+
+[Data](articles/83402bcf.json)
+
+---
+
+### Control in rice and coconut purchasing - Sathosa Notification
+
+*2024-12-06 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200550) · `ta`
+
+Sathosa offers rice (5kg for 220 LKR) and coconuts (3 for 130 LKR). Sales started in Colombo on Thursday, nationwide from Friday.
+
+🟩
+
+Sri Lanka's Chairman Dr. Samitha Perera said that the Sri Lankan Sathosa sales conditions in the outdoors have taken steps to sell the country's rice and coconuts for consumers from Friday (6).
+
+Accordingly, a consumer can get five kilos of rice at a rate of 220 rupees and three coconuts at a rate of 130 rupees, he said.
+
+The President of Lanka Sathosa added that the process of selling rice and coconuts to consumers through Sathosa was launched in Colombo on Thursday (5).
+
+◼️
+
+[Data](articles/84aca12c.json)
+
+[Extended Data](ext_articles/84aca12c.ext.json)
+
+---
+
+### Cash fraud through the website;Suspect arrested
+
+*2024-12-06 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200554) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"22-year-old suspect from Digana arrested by North Western Province Computer Criminal Investigation Department for online cash fraud. Further investigations ongoing."
+
+
+
+This summary captures the main points of the original text in a concise manner within the 200-character limit.
+
+🟩
+
+The North Western Province Computer Criminal Investigation Department (North) has arrested a suspect for allegedly defrauding money through the Internet.
+
+The suspect was 22 years old from Digana.
+
+The suspect has defrauded more than Rs.
+
+Further investigations are being carried out by the North Western Provincial Criminal Investigation Division.
+
+◼️
+
+[Data](articles/fc67ab9b.json)
+
+[Extended Data](ext_articles/fc67ab9b.ext.json)
+
+---
+
+### Nuwara Eliya Depot Security Officer murdered
+
+*2024-12-06 10:37:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-டிப்போ-பாதுகாப்பு-உத்தியோகத்தர்-கொலை/76-348347) · `ta`
+
+Murder at Nuwara Eliya Depot: Guard killed, Rs. 900k stolen. Police investigate theft and homicide.
+
+🟩
+
+Nuwara Eliya Police have launched an investigation into the incident of the murder of a guard who was on duty at the Nuwara Eliya Sri Lanka Depot and stole about nine lakhs of rupees.
+
+K. Lokeswaran, an 85 -year -old man from Kalpaya, Nuwara Eliya, who worked as a police officer at Depot, was murdered.
+
+Preliminary inquiries revealed that some people killed the guard and took about nine lakhs of rupees from the cupboard in the depot.
+
+The guard waited in his security room, and some gangs or a person attacked the head with a sharp weapon and took the money.
+
+Nuwara Eliya Police, who are investigating the murder, said that the officer in charge of the depot and the cashier was staying in the depot, but they were sleeping while they were sleeping.
+
+The depot official said that the income of buses that ran from the Nuwara Eliya Sri Lanka Depot on Thursday afternoon (05).
+
+◼️
+
+[Data](articles/d5be7c5d.json)
+
+[Extended Data](ext_articles/d5be7c5d.ext.json)
+
+---
+
+### Sri Lankan Tamils ​​who have been trapped in Diocarcia about the arrival of Britain
+
+*2024-12-06 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200552) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan Tamil refugees arrive in Britain after 3 years on Diego Garcia. 47 asylum seekers land, greeted by lawyers. They escaped harsh conditions, risking lives at sea. Legal battles over their detention resolved.
+
+🟩
+
+Sri Lankan Tamil asylum seekers who have been on the island of Diocarcia for three years have been relieved that the UK has reached the UK.
+
+Those who have come to Britain have come to the British, who have come to Britain in the worst of the distant Diego Garcia, the distant country of the Hindus.
+
+47 Sri Lankan Tamils ​​arrived in Britain on Monday night as lawyers and voices welcomed them as a great day for justice. Meanwhile, eight more people from Rwanda have arrived in Britain.
+
+They are currently staying at a hotel in the suburbs of London.
+
+They are relieved to be relieved of the cold cold.
+
+One cannot believe that we have come to Britain and feel like we have reached.
+
+The boat that they poured in Canada was in the middle of the sea and they were cook in Tycocarcia.
+
+Another Sri Lankan Tamils ​​said that if the life of our country was good, we would not have made a dangerous journey through the boat we would be on.
+
+...
+
+[Data](articles/3903e7a6.json)
+
+[Extended Data](ext_articles/3903e7a6.ext.json)
+
+---
+
+### Sri Lanka to develop new nation branding tourism strategy
+
+*2024-12-06 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104039/sri-lanka-to-develop-new-nation-branding-tourism-strategy) · `en`
+
+Sri Lankan authorities are bringing together all stakeholders in tourism at a conference in January to finalise a nation branding strategy to propel the industry which is enjoying a period of growth, officials said.
+
+The campaign tagline ‘You will come back for more’ devised some time back, will be discontinued and instead a nation branding strategy developed, Sri Lanka Tourism chairman Buddhika Hewawasam told TTG Asia this week. Hewawasam took over as chairman of the NTO a few weeks after a new government was installed in power following parliamentary elections on November 14.
+
+“With input from the industry at this meeting in January, we want to develop one national brand (while) also piggybacking on the success and the popularity of Ceylon tea and Sri Lanka in the cricket field,” he said. In the future, tourism in Sri Lanka will focus on promoting cricket and its tea, two things which Sri Lanka is famous for.
+
+...
+
+[Data](articles/5bc41e69.json)
+
+[Extended Data](ext_articles/5bc41e69.ext.json)
+
+---
+
+### Two persons arrested for allegedly snatching a foreign citizen's cell phone
+
+*2024-12-06 10:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெளிநாட்டு-பிரஜையின்-அலைபேசியை-பறித்த-இருவர்-கைது/76-348346) · `ta`
+
+Two arrests made for stealing foreigner's iPhone. Woman reported assault and theft at tourism police station. Suspects aged 23 & 26 from Rossella & Wickton estates. Case heard at Hatton Magistrate's Court.
+
+🟩
+
+Two youths have seized an iPhone worth Rs.
+
+The woman had lodged a complaint at the Ella Tourism Police Station that she had beaten with a small stick and snatched the mobile phone.
+
+The mobile phone was found when two youths were searched in Rosella area.
+
+Two suspects aged 23 and 26, aged 23 and 26, from Rossella and Wickton estates, who were arrested in connection with the incident, were produced before the Hatton Magistrate's Court until the 18th.
+
+The police summoned the woman to the Vattawala Police Station on Thursday (05).
+
+◼️
+
+[Data](articles/9aa65b1c.json)
+
+[Extended Data](ext_articles/9aa65b1c.ext.json)
+
+---
+
+### பதவிய பகுதியில் துப்பாக்கிச் சூடு ; வயோதிபப் பெண் பலி
+
+*2024-12-06 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200548) · `ta`
+
+அநுராதபுரம், பதவிய பொலிஸ் பிரிவுக்குட்பட்ட போகஹவெவ பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் வயோதிபப் பெண் ஒருவர் உயிரிழந்துள்ளதாக பதவிய பொலிஸார் தெரிவித்தனர்.
+
+பதவிய,போகஹவெவ பிரதேசத்தி ற்கு மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் வீடொன்றில் இருந்த பெண் ஒருவர் மீது துப்பாக்கிச் சூட்டை நடத்தி அங்கிருந்து தப்பிச் சென்றிருந்தனர்.
+
+துப்பாக்கிச் சூட்டில் காயமடைந்த பெண், பதவிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+இந்த துப்பாக்கிச் சூட்டுக்காக ரி - 56 துப்பாக்கி பயன்படுத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+மேலும் , துப்பாக்கிச் சூட்டுக்கான காரணம் மற்றும் சந்தேக நபர்கள் தொடர்பில் இதுவரை எந்தத் தகவல்களும் கிடைக்கவில்லை.
+
+◼️
+
+[Data](articles/10af1dc1.json)
+
+---
+
+### 2,000 officers field for special testing
+
+*2024-12-06 10:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சோதனைக்காக-2-000-உத்தியோகத்தர்கள்-களமிறக்கம்/175-348345) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+2,000 officers nationwide for special testing. Focus: Inspecting cooked foods in restaurants. Concerns: Food/drink cleanliness issues due to rain, increasing infectious disease cases.
+
+🟩
+
+The Public Health Inspectors Association said that 2000 officers have been deployed across the country for special testing during the festive season.
+
+During the tests, the process of inspecting cooked foods in restaurants will be mainly implemented, its secretary Samil Mududa said.
+
+He noted that there are many problems with the cleanliness of food and drinks with the prevailing rainfall at present and many infectious diseases have been diagnosed.. Those
+
+◼️
+
+[Data](articles/31fb5e4f.json)
+
+[Extended Data](ext_articles/31fb5e4f.ext.json)
+
+---
+
+### Electricity tariff amendments today handed over
 
 *2024-12-06 10:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டண-திருத்த-யோசனைகள்-இன்று-கையளிப்பு/175-348344) · `ta`
 
-மின்சார கட்டணத்தை குறைப்பது தொடர்பான யோசனையை இலங்கை மின்சார சபை, இன்று (6), பொது பயன்பாட்டு ஆணைக்குழுவிடம் சமர்ப்பிக்கவுள்ளது.
+CEB submits revised electricity tariff proposal to PUC today. PUC to review and act on proposed reductions.
 
-திருத்தப்பட்ட பிரேரணையை கையளித்த பின்னர், மின்சாரக் கட்டணக் குறைப்பு தொடர்பான மேலதிக நடவடிக்கைகளை பொதுப் பயன்பாடுகள் ஆணைக்குழு மேற்கொள்ள வேண்டும்.
+🟩
 
-இலங்கை மின்சார சபை மின்சார கட்டணத்தை குறைப்பது தொடர்பான பிரேரணையை முன்னர் சமர்ப்பித்திருந்த போதிலும், அதனை திருத்தியமைத்து, மீண்டும் சமர்ப்பிக்க வேண்டுமென, பொது பயன்பாட்டு ஆணைக்குழு தெரிவித்திருந்தது.
+The Ceylon Electricity Board (CEB) will present the idea of ​​reducing electricity tariffs to the Public Utilities Commission today.
+
+After handing over the revised proposal, the Public Utilities Commission should take further steps on the reduction of the electricity tariff.
+
+The Public Utilities Commission said that the Ceylon Electricity Board had previously submitted the proposal to reduce electricity tariffs, but it should be revised and submitted.
 
 ◼️
 
 [Data](articles/86842bfe.json)
 
+[Extended Data](ext_articles/86842bfe.ext.json)
+
 ---
 
-### உப்பு தட்டுப்பாடு ஏற்படும் அபாயம்?
+### The risk of salt shortage?
 
 *2024-12-06 10:02:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உப்பு-தட்டுப்பாடு-ஏற்படும்-அபாயம்/175-348343) · `ta`
 
-இதற்கு காரணம், கடந்த காலங்களில் மோசமான வானிலையால் உள்ளூர் உப்பு உற்பத்தி வெகுவாக குறைந்துள்ளது.
+Salt shortage risk: Local production decline due to extreme weather. Authorities' focus may lead to scarcity in the future.
 
-இதன்படி, தற்போதுள்ள நிலைமை தொடர்பில் உரிய அதிகாரிகள் கவனம் செலுத்தி உடனடியாக நடவடிக்கை எடுக்காவிட்டால், எதிர்காலத்தில் நாட்டில் உப்பு தட்டுப்பாடு ஏற்படும் அபாயம் உள்ளதாக, சந்தைகள் வட்டாரத் தகவல்கள் தெரிவிக்கின்றன.AN
+🟩
+
+The reason for this is that in the past, local salt production has been drastically reduced due to the worst weather.
+
+Accordingly, markets sources say that if the relevant authorities are focused on the existing situation, there is a risk of salt shortage in the country in the future.
 
 ◼️
 
 [Data](articles/89b67a03.json)
 
+[Extended Data](ext_articles/89b67a03.ext.json)
+
 ---
 
-### அரிசி, தேங்காய் தட்டுப்பாட்டை குறைக்க நடவடிக்கை
+### Action to reduce rice, coconut shortage
 
 *2024-12-06 09:58:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-தேங்காய்-தட்டுப்பாட்டை-குறைக்க-நடவடிக்கை/175-348342) · `ta`
 
-இறக்குமதி செய்யப்பட்ட அரிசியை துறைமுகத்தில் இறக்கி 04 மணித்தியாலங்களுக்குள் விடுவிப்பதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக,  இலங்கை சுங்கத் திணைக்களம் தெரிவித்துள்ளது.
+Sri Lanka Customs speeds up rice import unloading. Minister Samarasinghe addresses coconut price surge.
 
-இறக்குமதி செய்யப்பட்ட அரிசியை விரைவில் சந்தைக்கு வெளியிட வேண்டியதன் அவசியத்தின் காரணமாக, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக, சுங்க ஊடகப் பேச்சாளர் மேலதிக பணிப்பாளர் நாயகம் சிவலி அருக்கொட தெரிவித்தார்.
+🟩
 
-இதேவேளை, சந்தையில் தேங்காய் விலை உயர்வைக் கட்டுப்படுத்த தேவையான நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாக, வர்த்தக, உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க தெரிவித்துள்ளார். AN
+The Sri Lanka Customs Department said that necessary steps have been taken to unload imported rice at the port within four hours.
+
+The decision was taken due to the need to release the imported rice to the market as soon as possible, the Customs Media Spokesperson Sivali Arukoda said.
+
+Meanwhile, Minister of Commerce, Food Security and Co -operative Development Wasantha Samarasinghe said that necessary steps are being taken to control the rise in the price of coconuts in the market.An
 
 ◼️
 
 [Data](articles/f6724f68.json)
+
+[Extended Data](ext_articles/f6724f68.ext.json)
+
+---
+
+### Parliamentary debate on Vote on Account continues for second day
+
+*2024-12-06 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104038/parliamentary-debate-on-vote-on-account-continues-for-second-day-) · `en`
+
+The parliamentary session commenced at 09:30 a.m. today (06), chaired by Speaker Ashoka Ranwala.
+
+The debate on the Vote on Account for the first four months of 2025 entered its second day in Parliament.
+
+The Vote on Account, covering government recurrent and capital expenditure, public debt servicing, and debt restructuring expenses, was presented to Parliament yesterday (05).
+
+◼️
+
+[Data](articles/37365a36.json)
+
+[Extended Data](ext_articles/37365a36.ext.json)
 
 ---
 
@@ -438,6 +726,26 @@ It was reported that 6% of the electricity tariff had been proposed to reduce el
 
 ---
 
+### Sri Lanka’s Colombo Dockyard seeking strategic investment
+
+*2024-12-06 06:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-dockyard-seeking-strategic-investment-192413/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Dockyard Plc said it is ‘actively seeking’ potential investors who can ensure its long-term sustainability, after the firm lost money as if failed to deliver vessels during a currency crisis triggered by central bank rate cuts.
+
+“Considering the financial distress the Company is facing, the Board of Directors are actively seeking potential investors who can revitalize the company and ensure its long-term sustainability,’ the firm said in a letter to the Colombo Stock Exchange.
+
+“The Company’s goal is to secure and investment that will help the Company navigate this difficult period and assist its future growth and success.”
+
+“The Board of Directors are committed to transparency and will keep the market updated of any significant developments regarding this search for strategic investment.”
+
+Colombo Dockyard was keeping the market informed of its moves following a going concern caution raised by the firm’s auditors in the last accounts.
+
+...
+
+[Data](articles/d3e12cc2.json)
+
+---
+
 ### A notification of the weather for the rain today
 
 *2024-12-06 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204082) · `si`
@@ -459,6 +767,26 @@ The public is kindly requested to take necessary measures to reduce temporary st
 [Data](articles/9e255655.json)
 
 [Extended Data](ext_articles/9e255655.ext.json)
+
+---
+
+### Vietnam Pho Day in Sri Lanka on December 07
+
+*2024-12-06 06:23:00* · [`economynextcom`](https://economynext.com/vietnam-pho-day-in-sri-lanka-on-december-07-192432/) · `en`
+
+ECONOMYNEXT – A ‘Pho’s Day’, marking the celebration of Vietnam cuisine featuring an iconic noodle soup, will be held on Saturday December 07, the Vietnamese embassy in Colombo said.
+
+“Phở in Vietnamese or Pho in English (pronounced “fuh”) stands as the crown jewel of Vietnamese cuisine as well as the country’s national dish,” the embassy said in a statement.
+
+“This aromatic noodle soup graces tables across Viet Nam, from humble household kitchens to bustling street stalls and elegant restaurants.”
+
+The dish will be at the Viet Nam stall, in ‘International Bazaar and Cultural Extravaganza 2024’ at the  Colombo Racecourse, organized by the Ministry of Foreign Affairs, Foreign Employment and Tourism, Sri Lanka Foreign Service Association and Good Market.
+
+The opening ceremony will be held at 1000 am, the Foreign Ministry said.
+
+...
+
+[Data](articles/8295ca53.json)
 
 ---
 
@@ -636,6 +964,8 @@ In an impressive display of excellence, Aitken Spence Printing received two ‘B
 
 [Data](articles/50c1dd5c.json)
 
+[Extended Data](ext_articles/50c1dd5c.ext.json)
+
 ---
 
 ### CBL Global Foods and  USAID partner to boost  Sri Lanka’s coconut industry
@@ -649,6 +979,8 @@ The initiative, supported by USAID’s CATALYZE Private Sector Development (PSD)
 ...
 
 [Data](articles/57f6291c.json)
+
+[Extended Data](ext_articles/57f6291c.ext.json)
 
 ---
 
@@ -665,6 +997,8 @@ This landmark event recognised extraordinary individuals who have dedicated deca
 ...
 
 [Data](articles/d17738be.json)
+
+[Extended Data](ext_articles/d17738be.ext.json)
 
 ---
 
@@ -700,51 +1034,83 @@ ITAK Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmug
 
 ---
 
-### ’வரி செலுத்த இலகு வழி வரும்’
+### Light way to pay taxes
 
 *2024-12-06 03:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்த-இலகு-வழி-வரும்/175-348336) · `ta`
 
-மக்கள் எங்கள் மீது நம்பிக்கை வைத்து வரிப் பணத்தை செலுத்தி வருகிறார்கள். இந்த வரி செலுத்தும் நடவடிக்கையை மேலும் இலகுபடுத்துவதற்காக வரி செலுத்துவோர் தங்களின் வீடுகளில் இருந்தவாறே  வரி செலுத்த தேவையான வேலைத்திட்டம்  முன்னெடுக்கப்படும்  எனத் தெரிவித்த   கைத்தொழில் மற்றும் தொழில் முயற்சிகள் அமைச்சர் சுனில் ஹந்துன்னெத்தி வாடகைக்  கட்டிடங்களில் இருக்கும் அனைத்து அமைச்சுக்களின் நிறுவனங்களையும் அரச கட்டிடங்களின் கீழ் கொண்டுவர  நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் கூறினார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (05)சமர்ப்பிக்கப்பட்ட கணக்குவாக்குப்பதிவு  மீதான விவாதத்தில்   உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர்  தொடர்ந்து உரையாற்றுகையில்,
+
+
+Taxpayers encouraged to pay easily. Government simplifies tax process. Protects citizens' money from misuse. Reduces unnecessary expenses like high rents. Addresses criticism about lawyer fees, explaining legal obligations.
+
+🟩
+
+People believe in us and pay tax money. Minister of Industry and Entrepreneurs, Minister of Entrepreneurs and Entrepreneurs, said that the taxpayers were in their homes to further ease the taxpayer.
+
+He said this while addressing the debate on the accounting record submitted in Parliament on Thursday (05).
+
+We had introduced a final date for non -taxpayers to pay before September 30. People are ready to pay tax on people in line to pay taxes during that period. But they were unaware of what the programs they were paying for the tax money they were paying. So the taxpayers avoided paying it.
+
+But now people are paying trusted with us and paying tax money. To further ease this taxpayer, the taxpayer will be carried out in their homes as they are in their homes.
 
 ...
 
 [Data](articles/9a5fbc6d.json)
 
+[Extended Data](ext_articles/9a5fbc6d.ext.json)
+
 ---
 
-### ’குரங்குகளை குற்றவாளிகளாக்க வேண்டாம்’
+### Do not make monkeys criminal
 
 *2024-12-06 03:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளை-குற்றவாளிகளாக்க-வேண்டாம்/175-348335) · `ta`
 
-குரங்குகள் தேங்காய்களை உண்பதால் தேங்காய் தட்டுப்பாடு ஏற்பட்டுள்ளதாக  இந்த அரசு கூறுகிறது . அவ்வாறானால்  கடந்த ஆண்டு நாட்டில் குரங்குகள் வாழவில்லையா? எனவே குரங்குகளை குற்றவாளிகளாக்க வேண்டாம் என  ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் எம்.பி.யான டி.வி.சானக தெரிவித்தார்.
+Monkeys accused of eating coconuts during shortage. Government claims 40k compensation insufficient for farmers. Minister cites past changes in policies. Uncontrolled mafia activities in food prices criticized.
 
-பாராளுமன்றத்தில்   வியாழக்கிழமை (05)  இடம்பெற்ற  கணக்கு வாக்குப்பதிவு  மீதான  விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் உரையாற்றுகையில்,
+🟩
 
-நாடு முழுவதும் கடந்த வாரம் ஏற்பட்ட  மழையுடனான காலநிலையால் பெருமளவிலான விவசாய நிலங்கள் முழுமையாகவும், பகுதியளவிலும் பாதிக்கப்பட்டுள்ளன.   பாதிக்கப்பட்டுள்ள விவசாயிகளுக்கு 40 ஆயிரம் ரூபா நஷ்டஈடு வழங்குவதாக அரசாங்கம் கூறுவதை  ஏற்றுக் கொள்ள முடியாது.  விவசாயிகள் அதிகளவில் செலவழித்துள்ள நிலையில் 40 ஆயிரம் ரூபாய் வழங்குவது அநீதி.
+The government says that the monkeys eat coconuts due to the shortage of coconuts. If so, did the monkeys live in the country last year?DV Sanaka, the MP of the Sri Lanka PA, said that the monkeys should not be guilty.
+
+He said this while addressing the debate on the polling polls held in Parliament on Thursday (05).
+
+A large number of agricultural lands have been completely and partially affected by the rainy weather in the country last week.The government's claim that 40 thousand rupees compensation to the affected farmers cannot be accepted.It is injustice to provide 40 thousand rupees as farmers have spent much.
+
+When asked the Minister in charge of the matter to the farmers, he replied, "This is the time of 2012,2014 and 2019."Mentioned that everything is changed through a signature. But they say that the resolutions already implemented today
 
 ...
 
 [Data](articles/3864a7a8.json)
 
+[Extended Data](ext_articles/3864a7a8.ext.json)
+
 ---
 
-### ’மௌலானாவின் சாட்சியங்களை ஆராய்ந்தால்   உண்மைகள் வெளிவரும்’
+### Explosion of Maulana's testimony
 
 *2024-12-06 03:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மௌலானாவின்-சாட்சியங்களை-ஆராய்ந்தால்-உண்மைகள்-வெளிவரும்/175-348334) · `ta`
 
-உயிர்த்த ஞாயிறு குண்டுத் தாக்குதல்  தொடர்பில்  ஆசாத்  மௌலானா  என்பவர் தெரிவித்த சாட்சியங்கள்  ஆராயப்படுமானால்   உண்மைக் குற்றவாளிகளை,சூத்திரதாரிகளை  கண்டுகொள்ள  முடியும் எனத் தெரிவித்த  இலங்கைத் தமிழரசுக் கட்சியின்  மட்டக்களப்பு  மாவட்ட எம்.பி.யான ஸ்ரீநேசன்,  மயிலந்தனை, மாதவனையில்  அத்துமீறிய  குடியேற்றங்கள்  தொடர்பில்  நீதிமன்றம்  3 தடவைகள் அளித்த தீர்ப்புகள் அமுல்படுத்தப்படாத நிலையில் இந்த ஆட்சியில் அங்கு சட்டவாட்சி உறுதிப்படுத்தப்பட வேண்டும் எனவும் வலியுறுத்தினார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில்   வியாழக்கிழமை (05)  இடம்பெற்ற கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் உரையாற்றுகையில்,
 
-ஜனாதிபதி தனது கொள்கைப் பிரகடன  உரையில்  சட்டவாட்சியை  பலப்படுத்த வேண்டும் என கூறியுள்ளார்.
 
-ஆகவே சட்டவாட்சி இங்கு பலவீனமாக இருக்கிறது என்பதனை  அவர் உணர்ந்துள்ளார்.  சட்டவாட்சி  பலவீனமாக  இருந்த  காரணத்தினால்  பல குற்றச்செயல்கள்  நடந்துள்ளன உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் கூட சட்டவாட்சியின் பலவீனத்தினால்தான் நடந்தது.
+Sri Lankan MP calls for strengthening laws after Azad Maulana's bombing testimony. Cites past injustices under Mahinda Rajapaksa, including journalist murders. Demands accountability for criminals and proper investigation of Maulana's claims.
+
+🟩
+
+Srinasan, the Sri Lankan Tamil National Alliance (TNA) MP, Srinasan, Mayilandana and Madhavan, said that if the testimony of Azad Maulana on the bombing of the lifeblood was examined if the testimony was examined, the court's decisions were not to be implemented in this case.He also stressed.
+
+He said this while addressing the debate on the polling polls held in Parliament on Thursday (05).
+
+The president said in his policy declaration that the law should be strengthened.
+
+So he realizes that the legislature is weak here.There are many crimes due to the weakness of the legislature.
 
 ...
 
 [Data](articles/f623093d.json)
+
+[Extended Data](ext_articles/f623093d.ext.json)
 
 ---
 
@@ -813,6 +1179,22 @@ Could not expect any system change in the administration of national people's po
 [Data](articles/ccca9c4e.json)
 
 [Extended Data](ext_articles/ccca9c4e.ext.json)
+
+---
+
+### ’ஆடையுடன் பயணித்தார் ரணில்: ஆடையின்றி பயணிக்கிறார் அனுர’
+
+*2024-12-06 02:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையுடன்-பயணித்தார்-ரணில்-ஆடையின்றி-பயணிக்கிறார்-அனுர/175-348331) · `ta`
+
+அப்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆடையுடன் தொங்கு பாலத்தில் பயணித்தார் . தற்போதைய ஜனாதிபதி  ஆடையில்லாமல் தொங்கு பாலத்தில் பயணிக்கின்றார் இதுதான் இவர்களின் மாற்றம்  என தெரிவித்த  ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான  கபீர் ஹாசிம்,    வணிக கடன் தொடர்பான ஒப்பந்தத்தில் அரசாங்கம்  ஆடை அணிந்து  கொண்டா  கைச்சாத்திட போகிறது எனவும் கேள்வி எழுப்பினார்
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (05)  இடம்பெற்ற கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி மெழுப்பிய  அவர் மேலும் உரையாற்றுகையில்,
+
+தேசிய மக்கள் சக்தி சார்பில் இம்முறை பாராளுமன்றத்துக்கு பெருமளவிலான கலாநிதிகள், பேராசிரியர்கள், பட்டதாரிகள்  மற்றும் தொழிற்றுறை நிபுணர்கள் தெரிவு  செய்யப்பட்டுள்ளார்கள். இவர்கள் அனைவரும்  74 ஆண்டு கால அரசியல் கட்டமைப்பை விமர்சித்துக் கொண்டு    இலவச கல்வியின் ஊடாக பயனடைந்தவர்கள்
+
+...
+
+[Data](articles/d84454c0.json)
 
 ---
 
@@ -1602,6 +1984,24 @@ President Anura Kumara Dissanayake has asked the media company chiefs not to pub
 
 ---
 
+### වරායට ගොඩබාන සහල් පැය හතරකින් රේගුවෙන් නිදහස්
+
+*2024-12-05 19:32:21* · [`adalk`](https://www.ada.lk/breaking_news/වරායට-ගොඩබාන-සහල්-පැය-හතරකින්-රේගුවෙන්-නිදහස්/11-413489) · `si`
+
+රජයේ තීරණයට අනුව වරායට ගොඩබාන සහල් පැය හතරක් තුළ රේගු කටයුතු අවසන් කර නිදහස් කිරීමට කටයුතු කරන බව රේගු දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මේ අනුව ඉදිරි දිනවල වරායට පැමිණීමට නියමිත නැව්වලින් ගෙන එන සහල් ගොඩබෑමෙන් පසු රේගු කටයුතු කඩිනමින් අවසන් කිරීමට අද (06දා) සිට වැඩපිළිවෙළක් සකස් කර තිබෙන බවද රේගු මාධ්‍ය ප්‍රකාශක අතිරේක අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ මහතා සඳහන් කළේය.
+
+මීට අමතරව බහලුම් පරික්ෂා කර නිදහස් කිරීමේදී ඇතිවන ප්‍රමාදය වළක්වා ගැනීම සඳහා ලබන සතියේ සිට තවත් කන්ටේනර් පරික්ෂා කරන අංගණයක්  ස්ථාපිත කරන බවද පැවසීය.
+
+ප්‍රමාදයන් වළක්වා ගැනීම සඳහා වරායේ තවත් දොරටුවක් රාත්‍රී කාලයේදී විවෘත කිරීමටත් කටයුතු කරන බවත්, විදේශ රටවලින් දෛනිකව බහලුම් එක්දහස් පන්සියයක පමණ ප්‍රමාණයක් වරායට පැමිණෙන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/cde6c768.json)
+
+---
+
 ### Ravi Karunanayake welcomes the President's comment that the Currency Fund is going on the same way - Ravi Karunanayake
 
 *2024-12-05 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200534) · `ta`
@@ -1625,6 +2025,24 @@ At the time of the country's bankruptcy, we were able to take action on our debt
 [Data](articles/5f973ba8.json)
 
 [Extended Data](ext_articles/5f973ba8.ext.json)
+
+---
+
+### මත්පැන් බලපත්‍ර ගැන රනිල්ගෙන් සතිඅන්තයේදී ප්‍රකාශයක්
+
+*2024-12-05 19:26:10* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-බලපත්‍ර-ගැන-රනිල්ගෙන්-සතිඅන්තයේදී-ප්‍රකාශයක්/11-413488) · `si`
+
+පසුගිය රජය සමයේ මත්පැන් බලපත් ලබාදීමේ චෝදනාව සම්බන්ධයෙන් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ විසින් එළඹෙන සතිඅන්තයේදී සවිස්තරාත්මක ප්‍රකාශයක් සිදු කිරීමට නියමිතය.
+
+අදාළ බලපත් ලබාදුන් ක්‍රමවේදය සම්බන්ධයෙන් එම ප්‍රකාශයේදී දීර්ඝ වශයෙන් විස්තර කිරීමට නියමිත බව නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ පවසයි.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ මේ බව පවසන්නේ, ඉකුත් ඡන්ද සමයේදී විවිධ මත්පැන් බලපත්‍ර 361ක් නිකුත් කිරීම සම්බන්ධයෙන් සභානායක අමාත්‍ය බිමල් රත්නායක මහතා පාර්ලිමේන්තුවේදී කළ ප්‍රකාශයකට පිළිතුරු වශයෙනි.
+
+පසුගිය රජය විසින් නිකුත් කෙරුණු මත්පැන් බලපත්‍ර ලැයිස්තුව බිමල් රත්නායක මහතා එහිදී පාර්ලිමේන්තුවේ සභාගත කළේය.
+
+◼️
+
+[Data](articles/feed0c7c.json)
 
 ---
 
@@ -1831,421 +2249,5 @@ Responding to this, Gajendrakumar said he was confident that corruption would be
 [Data](articles/0999d8d5.json)
 
 [Extended Data](ext_articles/0999d8d5.ext.json)
-
----
-
-### Increase in prices of big onions and coconut!
-
-*2024-12-05 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200527) · `ta`
-
-Prices surge: Indian onions $11/kg, coconuts $5.10 each. Local onions $4-$4.50/kg. Coconut pile now $180, up from $40-$60 previously.
-
-🟩
-
-The public said on Thursday (05) that the price of one kg of Indian large onions had been increased from 500 to 550 rupees and the price of coconuts had been increased from 180 to 230 rupees.
-
-Pakistan's large onions and other large onions are ranging from 400 to 450 rupees per kg and onion prices are continuing.
-
-Merchants said that the Indian big onion shortage in the outsourcing of the Colombo Fort has risen to 400 rupees.
-
-Coconut vendors further stated that the price of a small pile of coconut, which sold for 40 rupees to 60 rupees a few months ago, is currently three times and is being sold to 180 rupees.
-
-◼️
-
-[Data](articles/bd317c6a.json)
-
-[Extended Data](ext_articles/bd317c6a.ext.json)
-
----
-
-### Sri Lanka 'suppresses' the gap for civil operations;Tamil journalists are targeted
-
-*2024-12-05 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200529) · `ta`
-
-Sri Lanka suppresses civil operations gap; Tamil journalists targeted. International Human Rights Organization reports civic activities limited, especially in Asian Pacific region. Police use tear gas and water cannons to disperse protests. Tamil journalists face threats, arrests, and court restrictions after war's end.
-
-🟩
-
-The International Human Rights Organization, the International Human Rights Organization, which has pointed out in its annual study that the interval of civil operations in Sri Lanka has been 'oppressed', has issued a garden that the Tamil journalists have been deliberately paralyzed this year and that Tamil journalists have been targeted for their career.
-
-The International Human Rights Organization, the International Human Rights Organization, 'Civicus Monitar', has published its annual report titled 'People's Power', which has been exploring the nature of civil activities in 198 countries worldwide in 2024.
-
-In this statement, the citizens of each country have investigated the expression of the expression of the country and the freedom of gathering. According to the Civigus Monitar organization, most of the countries in the Asian and Pacific region have greatly limited the gap for the civilian activities of their citizens.
-
-...
-
-[Data](articles/91a34f6c.json)
-
-[Extended Data](ext_articles/91a34f6c.ext.json)
-
----
-
-### අතුරු සම්මත ගිණුමෙන් වැඩිම මුදල බිමල්ට
-
-*2024-12-05 18:36:33* · [`adalk`](https://www.ada.lk/breaking_news/අතුරු-සම්මත-ගිණුමෙන්-වැඩිම-මුදල-බිමල්ට/11-413484) · `si`
-
-2025 ජනවාරි 01 වැනිදා සිට 2025 අප්‍රේල් 30 වැනිදා දක්වා මාස 04ක් සඳහා රජයේ වියදම් ඇතුළත් රුපියල් බිලියන 1,402ක (රු.1,402,886,263,000) අතුරු සම්මත ගිණුම සභානායක අමාත්‍ය බිමල් රත්නායක මහතා අද (05දා) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
-
-මෙහි රුපියල් බිලියන 976ක්(රු.976,074,263,000) පුනරාවර්තන වියදම් ලෙස වෙන් කර ඇත.
-
-මෙම අතුරු සම්මත ගිණුම මගින් වැඩිම මුදලක් වෙන් කර ඇත්තේ ප්‍රවාහන, මහාමාර්ග,වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය (අමාත්‍යවරයා වන්නේ බිමල් රත්නායක) වන අතර එම මුදල රුපියල් බිලියන220ක් වේ.
-
-එමෙන්ම මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශයට රුපියල් බිලියන 186ක්, රාජ්‍ය පරිපාලන, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශයට රුපියල් බිලියන 170.4ක්, සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යාංශ - රුපියල් බිලියන 161.9ක් සහ ආරක්ෂක අමාත්‍යාංශය -රුපියල් බිලියන 142.9ක් ලෙස මෙමගින් වැඩි වශයෙන් මුදල් වෙන් කර ඇත.
-
-මීට අමතරව රුපියල් බිලියන 92.0ක මුදලක් මෙම අතරු සම්මත ගිණුම හරහා අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයට වෙන් කර තිබේ.
-
-...
-
-[Data](articles/c701c3cd.json)
-
----
-
-### It is true that documents sent to the West demanding a ban on human rights violations
-
-*2024-12-05 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200490) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-International Human Rights Organization submits 60+ demands to US, UK, Australia, Canada, EU against Sri Lanka officials for human rights violations & corruption. Demands sanctions, visa bans, legal action. Focuses on past war crimes, torture, sexual violence, illegal arrests.
-
-🟩
-
-The United Nations, Britain, Australia, Canada and the European Union have urged the government, Australia, Canada and the European Union to impose obstacles and sanctions against state and security officials involved in corruption crimes and corruption scandals in Sri Lanka.The project for justice has been sent.
-
-The International Human Rights Organization, the International Human Rights Organization, headed by Yasmin Sukka, has submitted more than 60 demands relating to banning and visa clearance against Sri Lanka's state and security officials and demanding suit in accordance with the global limit.
-
-These demands and documents, prepared on the Human Rights Day (10th), have been sent to the governments of the United States, Britain, Australia, Canada and the European Union.
-
-...
-
-[Data](articles/644bc76f.json)
-
-[Extended Data](ext_articles/644bc76f.ext.json)
-
----
-
-### Do not act spontaneously because of the majority:
-
-*2024-12-05 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200486) · `ta`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Opposition MP Dayasiri Jayasekara raised concerns about privilege violation during a parliamentary session. He criticized the government's arbitrary actions due to its majority. The interim report was presented under the State Finance Management Act, but the opposition argues it violates procedures.
-
-🟩
-
-The interim voting account can be submitted only when the proposal is not fulfilled. The government acts spontaneously because there is a majority. There are 66 members in the opposition. Therefore, the opposition parliamentarian Dayasiri Jayasekara said, "Let us point out the reduction."
-
-During the session held in Parliament on Thursday (05), he sought permission to present the issue of privilege violation.
-
-Speaker Dr. Ashoka Ranwala, who presided over the House, presided over the issue of privilege (towards Dayasiri Jayasekara) at 09.25 am. As well as the date of the bond is not specified. So I had decided to discuss this on this issue.
-
-Speaking on the occasion, Member of Parliament Dayasiri Jayasekara said that the issue of privilege can be presented before the inauguration of the parliamentary session at 09.30 am.
-
-...
-
-[Data](articles/278946c8.json)
-
-[Extended Data](ext_articles/278946c8.ext.json)
-
----
-
-### Will the liquor bargains issued in political bribery be canceled?- Chanakyan question
-
-*2024-12-05 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200484) · `ta`
-
-Sri Lanka: TNA MP questions cancellation of 361 liquor licenses issued via political bribery. Government silent on investigation and permit revocation.
-
-🟩
-
-The Sri Lankan TNA parliamentarian will not be able to investigate and cancel the permits issued by the owners and recommendations of the 361 liquor bargains issued in the last government.. Chanakyan questioned the government.
-
-During the session held in Parliament on Thursday (05), he questioned the issue.
-
-It is commendable that the government has submitted the details of those who have received permissions for liquor schools by the previous government.
-
-At the same time, will the government investigate the owners of these liquor schools and those who have recommended the permits?Will the government cancel the permits for these liquor roads issued by political bribery?
-
-The government is asking us about the permits for these 361 liquor stalls because the public is asking us so that the government should explain the next step to the Minister and Minister Bimal Ratnayaka.. However, no one responded from the state side.
-
-◼️
-
-[Data](articles/a58d2442.json)
-
-[Extended Data](ext_articles/a58d2442.ext.json)
-
----
-
-### 3,000 water trapped
-
-*2024-12-05 18:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தரமற்ற-3-000-தண்ணீர்-போத்தல்-சிக்கின/76-348296) · `ta`
-
-Consumer Affairs Authority seizes company in Mawanella. 3,000 water bottles seized: 500ml, 1L, 1.5L, 19L. CEB denies wrongdoing.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has seized a company in the Hemadagama area of ​​Mawanella.
-
-500 ml of water bottles ready to distribute, 1,904, one liter of water bottles 484, one and a half liters of water bottles 576 19 liters of water bottles have been seized.
-
-The Consumer Affairs Authority (CEB) has said that it is wrong to sue the concerned business.
-
-◼️
-
-[Data](articles/32b93f7c.json)
-
-[Extended Data](ext_articles/32b93f7c.ext.json)
-
----
-
-### A systematic procedure should be followed in an Excise permit
-
-*2024-12-05 18:14:25* · [`adalk`](https://www.ada.lk/breaking_news/සුරාබදු-බලපත්‍ර-ලබාදීමේ-දී-විධිමත්-ක්‍රමවේදයක්-අනුගමනය-කළ-යුතුයි/11-413483) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake instructs officials to follow a systematic excise permit procedure. Emphasizes law enforcement, tax recovery, and economic stability. Discusses production, packaging issues, and artificial toddy concerns with Excise Department officials.
-
-🟩
-
-President Anura Kumara Dissanayake instructed the officials to follow a systematic procedure in an excise permit.
-
-The President also gave these instructions at the Presidential Secretariat with senior officers of the Excise Department today (05).
-
-The official instructed the officials that the President emphasized the law using their power and always emphasizes the law.
-
-The focus of the excise sufferers was widely discussed and the recovery of taxes, recovering the amount of taxes, and the prohibition of non-taxes.
-
-The President also addressed the lack of the rules of taxes on taxes.
-
-President Anura Kumara Dissanayake also emphasized the need to maintain the economy of the country's economy.
-
-The officers informed the President on the issues of the production and packaging process and the attention of the people due to artificial toddy.
-
-...
-
-[Data](articles/7f69150b.json)
-
-[Extended Data](ext_articles/7f69150b.ext.json)
-
----
-
-### We will carry out a program that can pay taxes from homes - Minister Sunil Handunnethi
-
-*2024-12-05 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200499) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Minister Sunil Handunnethi announces a new tax payment program from homes. Factories and taxpayers support it. Steps taken to protect people's tax money and reduce unnecessary expenses.
-
-🟩
-
-Factories and taxpayers have adopted the government's program of government -paying tax money. So they come forward to pay tax. Minister of Industry and Entrepreneurs Sunil Handunnetti said that we will carry out a program that can be taxed from homes in the future.
-
-He said this while addressing the debate on the interim voting account submitted by the government on Thursday (05) in Parliament.
-
-We have put forward a program that protects people paying tax money. Factory owners have accepted our program.
-
-So taxpayers are very eagerly paying for self. We had introduced a final date for non -taxpayers to pay before September 30. He has been in line to pay taxes during that period.
-
-People are ready to pay tax. But they were unaware of what the programs they were paying for the tax money they were paying. So the taxpayers avoided paying it.
-
-...
-
-[Data](articles/b59075b7.json)
-
-[Extended Data](ext_articles/b59075b7.ext.json)
-
----
-
-### We are not on the road to Ranil - Dr. Najith Indika
-
-*2024-12-05 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200502) · `ta`
-
-Najith Indika criticizes 74-year regime's economic impact, denies stirring hatred. Opponents claim current gov't follows Ranil Wickremesinghe's path, citing privatization policies.
-
-🟩
-
-We do not curse 74 years of politics. Instead we point out the economic crises of the 74 -year regime. National People's Power MP Najith Indika said the government did not go on the path of former President Ranil Wickremesinghe.
-
-He was speaking at a debate on the interim report on Thursday (05) in Parliament.
-
-Opposition parties say that the National People's Power has stirred hatred among the people during the election. If the national popular power comes to power. The disgust that the rights of the Tamil and Muslim community will be denied. The opponents said so.
-
-Never triggered hatred for election victory. Did not refer to 74 years of political curse. Instead, we criticized the economic impact of the 74 -year regime. Therefore, the opposition must avoid referring to misconceptions among the people.
-
-...
-
-[Data](articles/9c6c82c1.json)
-
-[Extended Data](ext_articles/9c6c82c1.ext.json)
-
----
-
-### 3 coconuts per person in Sathosa, 5 kg of rice
-
-*2024-12-05 18:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொசவில்-ஒருவருக்கு-3-தேங்காய்-5-கிலோ-அரிசி/175-348295) · `ta`
-
-Sathosa limits: 3 coconuts, 5kg rice. Daily 200k rice, 1m coconuts @130LKR. Distribution starts today in Colombo, Dec 6 suburbs.
-
-🟩
-
-Lanka Sathosa has announced measures to ensure the sale of rice and coconut at a recently announced control price by the Minister of Commerce to ensure continued supply of rice and coconut during the festive season.
-
-Minister Wasantha Samarasinghe told Parliament yesterday (04) that the rice mills agreed to provide 200,000 kg of rice daily and that one million coconuts will be sold for 130 rupees through Sathosa outlets.
-
-Sri Lanka Sathosa Chairman Dr. Samitha Perera said that steps have been taken to distribute rice and coconuts to Sathosa outlets today.
-
-However, he added that a customer will be allowed to buy only 03 coconut and 05 kg of rice.
-
-Dr. Samitha Perera said the public could get rice and coconuts at Sathosa outlets in Colombo and tomorrow (December 06) in the suburbs.
-
-◼️
-
-[Data](articles/41590618.json)
-
-[Extended Data](ext_articles/41590618.ext.json)
-
----
-
-### 3 coconuts per customer in Sathosa, 5 kg of rice
-
-*2024-12-05 18:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொசவில்-ஒரு-வாடிக்கையாளருக்கு-3-தேங்காய்-5-கிலோ-அரிசி/175-348295) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sathosa limits: 3 coconuts, 5kg rice per customer. Daily rice supply: 200,000kg. Coconut price: 130LKR. Distribution starts today in Colombo, tomorrow in suburbs.
-
-🟩
-
-Lanka Sathosa has announced steps to ensure the sale of rice and coconut at the recent control price announced by the Minister of Commerce to ensure continued supply of rice and coconut during the festive season.
-
-Minister Wasantha Samarasinghe told Parliament yesterday that the rice mills agreed to provide 200,000 kg of rice daily and one million coconuts will be sold for 130 rupees through Sathosa outlets.
-
-Sri Lanka Sathosa Chairman Dr. Samitha Perera said that steps have been taken to distribute rice and coconuts to Sathosa outlets today.
-
-However, he added that a customer will be allowed to buy only 03 coconut and 05 kg of rice.
-
-Dr. Samitha Perera said the public could get rice and coconuts at Sathosa outlets in Colombo and tomorrow (December 06) in the suburbs.
-
-◼️
-
-[Data](articles/9568dff1.json)
-
-[Extended Data](ext_articles/9568dff1.ext.json)
-
----
-
-### We will solve the issue of Kalmunai Divisional Secretariat - Rauf Hakeem
-
-*2024-12-05 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200506) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rauf Hakeem addresses Kalmunai Divisional Secretariat issue in Parliament. Muslim residents face problems. Hakeem discusses with Tamil party members. President promises intervention. Case filed, border determination groups involved. Resolution proposed to address all issues.
-
-🟩
-
-There is also a problem with Muslims living in the area regarding the Kalmunai Divisional Secretariat. Sri Lanka Muslim Congress leader Rauf Hakeem said that we can discuss this and decide how to solve this issue.
-
-He said this while addressing the debate on the interim voting account submitted by the government on Thursday (05) in Parliament.
-
-Some members of the Tamil state party have met with the president. Comments were reported in Parliament even after the discussion. It was reported in the House that the president had promised to intervene in resolving the issue of the Kalmunai Divisional Secretariat.
-
-...
-
-[Data](articles/74ad6f62.json)
-
-[Extended Data](ext_articles/74ad6f62.ext.json)
-
----
-
-### No political favoritism in granting new investment opportunities - President to BOI officials
-
-*2024-12-05 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104025/no-political-favoritism-in-granting-new-investment-opportunities-president-to-boi-officials) · `en`
-
-President Anura Kumara Dissanayake stated that with the political stability that has prevailed in the country today, an environment suitable for investment has been created.
-
-He further emphasized that there will be no political influence in granting new investment opportunities, such as those based on political affiliations. The President assured that the Board of Investment of Sri Lanka (BOI) would be granted full autonomy to attract clean investments that are beneficial to the country.
-
-The President made these remarks during a discussion held with senior officials of the BOI at the Presidential Secretariat in Colombo today (05), according to the President’s Media Division (PMD).
-
-President Dissanayake emphasized the importance of achieving both political and financial stability in the country. He stated that the Board of Investment bears a significant responsibility in this regard.
-
-...
-
-[Data](articles/c3c50f03.json)
-
-[Extended Data](ext_articles/c3c50f03.ext.json)
-
----
-
-### We reject the North and East individual ideology;Plantation People's Land and Home Rights Dream - Kidnan Selvaraj
-
-*2024-12-05 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200522) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rejects North-East separation. National People's Power aims for unity among Tamil, Muslim, and Sinhala. Promises action on plantation land rights. Mentions historical struggles and discrimination against upcountry Tamils. Opposes separatism, supports equal rights and welfare for all communities.
-
-🟩
-
-We completely reject the proposal of a separate country by combining the North and East. The National People's Power is obligated to build national unity and improve the welfare and life of the entire people of Tamil, Muslim and Sinhala.. The National People's Power Member Kidnan Selvaraj said that we will take appropriate steps to get the land and land rights of the plantation people.
-
-He was speaking at a debate on the interim report on Thursday (05) in Parliament.
-
-I am grateful to the Tamil, Sinhala and Muslim people for gaining a great success for the national people's power in the Badulla election district.The opposition parties only sing the criticism of the past Pallavi.
-
-Our upstart community has a 200 -year background. In the 21st century, we face various problems.
-
-The upcountry community has been embedded only within the principles of rights and just the principles.The national people's power has given us political rights.
-
-...
-
-[Data](articles/39c5dc33.json)
-
-[Extended Data](ext_articles/39c5dc33.ext.json)
-
----
-
-### “People stand in line to pay taxes”
-
-*2024-12-05 18:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்த-மக்கள்-வரிசையில்-நிற்கின்றனர்/175-348294) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Long queues form as taxpayers wait to pay taxes. Minister Sunil Handunnetti addresses Parliament about congestion in the Department of Home Affairs' online system. Businessmen request exclusive bank services to alleviate processing delays."
-
-🟩
-
-Minister Sunil Handunnetti said today that the people, entrepreneurs and entrepreneurs have been in a long line to pay taxes on September 31, after a congestion caused by a large number of people trying to log in the online processor of the Department of Home Affairs.
-
-He told Parliament that the government's plan has come forward to pay taxes with the will of the taxpayer.
-
-The Minister said that some businessmen had requested him to take steps to open exclusive blacksmiths in banks due to the congestion of the processor within 15 to 30 September.
-
-The minister said the issue was that businessmen did not hesitate to pay taxes, but they did not believe what would happen to their taxpayer.
-
-◼️
-
-[Data](articles/63ea9631.json)
-
-[Extended Data](ext_articles/63ea9631.ext.json)
 
 ---

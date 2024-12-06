@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 10:16:20**
+As of **2024-12-06 10:27:41**
 
 ## Newspaper Stats
 
-*Scraped **58,780** Articles*
+*Scraped **58,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,572
 adaderanalk | 7,138
-tamilmirrorlk | 8,379
+tamilmirrorlk | 8,382
 virakesarilk | 9,625
 adaderanasinhalalk | 10,146
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 10,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,751 (100.0%) of 58,780 articles have been extended.
+58,751 (99.9%) of 58,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### வெளிநாட்டு பிரஜையின்  அலைபேசியை பறித்த இருவர் கைது
+
+*2024-12-06 10:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெளிநாட்டு-பிரஜையின்-அலைபேசியை-பறித்த-இருவர்-கைது/76-348346) · `ta`
+
+கொழும்பு கோட்டையிலிருந்து பதுளை நோக்கி புதன்கிழமை (04) பயணித்த உடரட்ட மெனிகே ரயிலில் பயணித்த ஸ்பெயின் யுவதியொருவரின் 5 இலட்சம் ரூபாய் பெறுமதியான iphone-ஐ இளைஞர்கள் இருவர் பறித்துள்ளனர்.
+
+சிறிய தடியொன்றால் அடித்துவிட்டு கையடக்கத் தொலைபேசியை பறித்ததாக குறித்த யுவதி எல்ல சுற்றுலா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+
+ரோந்து பணியில் ஈடுபட்டிருந்த பொலிஸார் ரொசெல்ல பிரதேசத்தில் இரு இளைஞர்களை சோதனையிட்ட போது குறித்த கையடக்கத் தொலைபேசி கண்டுபிடிக்கப்பட்டது.
+
+இதையடுத்து சம்பவம் தொடர்பில் கைது செய்யப்பட்ட வட்டவளை ரொசெல்ல மற்றும் விக்டன் தோட்டங்களை சேர்ந்த 23 மற்றும் 26 வயதுடைய இரு சந்தேக நபர்கள் ஹட்டன் நீதவான் நீதிமன்றில் ஆஜர்படுத்தபட்டதையடுத்து எதிர்வரும் 18ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+யுவதியை வட்டவளை பொலிஸ் நிலையத்திற்கு வியாழக்கிழமை (05) வரவழைத்த பொலிஸார் குறித்த கையடக்கத் தொலைபேசியை அவரிடம் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/9aa65b1c.json)
+
+---
+
+### விசேட சோதனைக்காக 2,000 உத்தியோகத்தர்கள் களமிறக்கம்
+
+*2024-12-06 10:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சோதனைக்காக-2-000-உத்தியோகத்தர்கள்-களமிறக்கம்/175-348345) · `ta`
+
+எதிர்வரும் பண்டிகைக் காலத்தில்,  விசேட சோதனை நடவடிக்கைகளுக்காக நாடளாவிய ரீதியில் 2000 உத்தியோகத்தர்கள் கடமையில் ஈடுபடுத்தப்பட்டுள்ளதாக, பொது சுகாதார பரிசோதகர்கள் சங்கம் தெரிவித்துள்ளது.
+
+அந்தச் சோதனைகளின் போது உணவகங்களில் உள்ள சமைத்த உணவுகளை பரிசோதிக்கும் பணியே பிரதானமாக இடம்பெறவுள்ளதாக, அதன் செயலாளர் சமில் முதுகுடா குறிப்பிட்டார்.
+
+தற்போது நிலவும் மழையுடன் கூடிய காலநிலையுடன் உணவு மற்றும் பானங்களின் தூய்மை தொடர்பில் பல பிரச்சினைகள் ஏற்பட்டுள்ளதாகவும் இதன் காரணமாக பல தொற்று நோய்கள் கண்டறியப்பட்டுள்ளதாகவும், அவர் குறிப்பிட்டுள்ளார். AN
+
+◼️
+
+[Data](articles/31fb5e4f.json)
+
+---
 
 ### மின்சார கட்டண திருத்த யோசனைகள் இன்று கையளிப்பு
 
@@ -813,6 +849,22 @@ Could not expect any system change in the administration of national people's po
 [Data](articles/ccca9c4e.json)
 
 [Extended Data](ext_articles/ccca9c4e.ext.json)
+
+---
+
+### ’ஆடையுடன் பயணித்தார் ரணில்: ஆடையின்றி பயணிக்கிறார் அனுர’
+
+*2024-12-06 02:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையுடன்-பயணித்தார்-ரணில்-ஆடையின்றி-பயணிக்கிறார்-அனுர/175-348331) · `ta`
+
+அப்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆடையுடன் தொங்கு பாலத்தில் பயணித்தார் . தற்போதைய ஜனாதிபதி  ஆடையில்லாமல் தொங்கு பாலத்தில் பயணிக்கின்றார் இதுதான் இவர்களின் மாற்றம்  என தெரிவித்த  ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான  கபீர் ஹாசிம்,    வணிக கடன் தொடர்பான ஒப்பந்தத்தில் அரசாங்கம்  ஆடை அணிந்து  கொண்டா  கைச்சாத்திட போகிறது எனவும் கேள்வி எழுப்பினார்
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (05)  இடம்பெற்ற கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி மெழுப்பிய  அவர் மேலும் உரையாற்றுகையில்,
+
+தேசிய மக்கள் சக்தி சார்பில் இம்முறை பாராளுமன்றத்துக்கு பெருமளவிலான கலாநிதிகள், பேராசிரியர்கள், பட்டதாரிகள்  மற்றும் தொழிற்றுறை நிபுணர்கள் தெரிவு  செய்யப்பட்டுள்ளார்கள். இவர்கள் அனைவரும்  74 ஆண்டு கால அரசியல் கட்டமைப்பை விமர்சித்துக் கொண்டு    இலவச கல்வியின் ஊடாக பயனடைந்தவர்கள்
+
+...
+
+[Data](articles/d84454c0.json)
 
 ---
 
@@ -2169,83 +2221,5 @@ Some members of the Tamil state party have met with the president. Comments were
 [Data](articles/74ad6f62.json)
 
 [Extended Data](ext_articles/74ad6f62.ext.json)
-
----
-
-### No political favoritism in granting new investment opportunities - President to BOI officials
-
-*2024-12-05 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104025/no-political-favoritism-in-granting-new-investment-opportunities-president-to-boi-officials) · `en`
-
-President Anura Kumara Dissanayake stated that with the political stability that has prevailed in the country today, an environment suitable for investment has been created.
-
-He further emphasized that there will be no political influence in granting new investment opportunities, such as those based on political affiliations. The President assured that the Board of Investment of Sri Lanka (BOI) would be granted full autonomy to attract clean investments that are beneficial to the country.
-
-The President made these remarks during a discussion held with senior officials of the BOI at the Presidential Secretariat in Colombo today (05), according to the President’s Media Division (PMD).
-
-President Dissanayake emphasized the importance of achieving both political and financial stability in the country. He stated that the Board of Investment bears a significant responsibility in this regard.
-
-...
-
-[Data](articles/c3c50f03.json)
-
-[Extended Data](ext_articles/c3c50f03.ext.json)
-
----
-
-### We reject the North and East individual ideology;Plantation People's Land and Home Rights Dream - Kidnan Selvaraj
-
-*2024-12-05 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200522) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rejects North-East separation. National People's Power aims for unity among Tamil, Muslim, and Sinhala. Promises action on plantation land rights. Mentions historical struggles and discrimination against upcountry Tamils. Opposes separatism, supports equal rights and welfare for all communities.
-
-🟩
-
-We completely reject the proposal of a separate country by combining the North and East. The National People's Power is obligated to build national unity and improve the welfare and life of the entire people of Tamil, Muslim and Sinhala.. The National People's Power Member Kidnan Selvaraj said that we will take appropriate steps to get the land and land rights of the plantation people.
-
-He was speaking at a debate on the interim report on Thursday (05) in Parliament.
-
-I am grateful to the Tamil, Sinhala and Muslim people for gaining a great success for the national people's power in the Badulla election district.The opposition parties only sing the criticism of the past Pallavi.
-
-Our upstart community has a 200 -year background. In the 21st century, we face various problems.
-
-The upcountry community has been embedded only within the principles of rights and just the principles.The national people's power has given us political rights.
-
-...
-
-[Data](articles/39c5dc33.json)
-
-[Extended Data](ext_articles/39c5dc33.ext.json)
-
----
-
-### “People stand in line to pay taxes”
-
-*2024-12-05 18:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்த-மக்கள்-வரிசையில்-நிற்கின்றனர்/175-348294) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Long queues form as taxpayers wait to pay taxes. Minister Sunil Handunnetti addresses Parliament about congestion in the Department of Home Affairs' online system. Businessmen request exclusive bank services to alleviate processing delays."
-
-🟩
-
-Minister Sunil Handunnetti said today that the people, entrepreneurs and entrepreneurs have been in a long line to pay taxes on September 31, after a congestion caused by a large number of people trying to log in the online processor of the Department of Home Affairs.
-
-He told Parliament that the government's plan has come forward to pay taxes with the will of the taxpayer.
-
-The Minister said that some businessmen had requested him to take steps to open exclusive blacksmiths in banks due to the congestion of the processor within 15 to 30 September.
-
-The minister said the issue was that businessmen did not hesitate to pay taxes, but they did not believe what would happen to their taxpayer.
-
-◼️
-
-[Data](articles/63ea9631.json)
-
-[Extended Data](ext_articles/63ea9631.ext.json)
 
 ---

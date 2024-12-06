@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 17:43:49**
+As of **2024-12-06 18:03:33**
 
 ## Newspaper Stats
 
-*Scraped **58,846** Articles*
+*Scraped **58,848** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 598
-bbccomsinhala | 615
+bbccomsinhala | 616
 islandlk | 3,534
 economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,577
 adaderanalk | 7,147
-tamilmirrorlk | 8,389
+tamilmirrorlk | 8,390
 virakesarilk | 9,637
 adaderanasinhalalk | 10,163
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,835 (100.0%) of 58,846 articles have been extended.
+58,835 (100.0%) of 58,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### சிவப்பு சீனியின் வெட் வரியை நீக்க அமைச்சரவை பத்திரம்
+
+*2024-12-06 17:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-சீனியின்-வெட்-வரியை-நீக்க-அமைச்சரவை-பத்திரம்/175-348357) · `ta`
+
+சிகப்பு சீனி மீதான வட் வரியை நீக்குவதற்கான அமைச்சரவைப் பத்திரம் அடுத்த வாரம் சமர்ப்பிக்கப்படும் என, கைத்தொழில் மற்றும் தொழில் முயற்சி அபிவிருத்தி அமைச்சர் சுனில் ஹந்துன்நெத்தி, பாராளுமன்றத்தில், இன்று தெரிவித்தார்.
+
+இலங்கைக்கு வெளியில் இருந்து இறக்குமதி செய்யப்படும் வெள்ளை சீனிக்கு வட் வரி அறவிடப்படுவதில்லை என்றும், இலங்கையில் உற்பத்தி செய்யப்படும் பழுப்பு சர்க்கரைக்கு 18% வட் மற்றும் 2.5% வரி விதிக்கப்படுவதாகவும் அமைச்சர் கூறினார்.
+
+தொழிற்சாலையில் இருந்து வெளிவரும் போது ஒரு கிலோ சிகப்பு சீனி 300 ரூபாவாகவும் சந்தையில் ஒரு கிலோ வெள்ளை சீனி 220 ரூபாவாகவும் காணப்படுவதாக அமைச்சர் குறிப்பிட்டார்.
+
+சிகப்பு சீனி அத்தியாவசியமற்ற பொருளாக வகைப்படுத்தப்பட்டுள்ளதாகவும், இலங்கைக்கு வெளியில் இருந்து கொண்டு வரப்படும் வெள்ளை சீனி அத்தியாவசியப் பொருளாக குறிப்பிடப்பட்டுள்ளதாகவும் சுனில் ஹந்துன்நெத்தி தெரிவித்தார்.AN
+
+◼️
+
+[Data](articles/71d1e1f2.json)
+
+---
 
 ### Kerala cannabis worth over Rs. 18 mln found adrift off Delft
 
@@ -917,6 +935,30 @@ Sri Lanka had made remarkable progress in restoring its economy by “implementi
 ...
 
 [Data](articles/0f4a5c60.json)
+
+---
+
+### IPL ළාබාලතම ක්‍රීඩකයා ශ්‍රී ලංකා 19න් පහළ ක්‍රිකට් ආසියානු කුසලාන සිහිනය බොඳ කරයි
+
+*2024-12-06 12:13:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c99xrze1g7lo) · `si`
+
+IPL ළාබාලතම ක්‍රීඩකයා ශ්‍රී ලංකා 19න් පහළ ක්‍රිකට් ආසියානු කුසලාන සිහිනය බොඳ කරයි
+
+අවුරුදු 19න් පහළ ආසියානු කුසලාන දෙවන අවසන් පූර්ව වටයේ තරගයෙන් ශ්‍රී ලංකාව පරාජය කරමින් ඉන්දියාව කඩුලු 07ක ජයග්‍රහණයක් වාර්තා කිරීමට සමත් විය.
+
+IPL ක්‍රීඩක වෙන්දේසි ඉතිහාසයේ අලෙවි වූ ළාබාලතම ක්‍රීඩකයා වන වෛභව් සුර්යවංශි අද (දෙසැම්බර් 06) තරගයේදී ශ්‍රී ලංකා පන්දු යවන්නන්ට එරෙහිව ප්‍රවේගකාරී පිතිහරඹයක නිරත විය.
+
+කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහරදීමට තීරණය කරන ලදී.
+
+අවුරුදු 19න් පහළ ආසියානු කුසලාන තරගාවලියේදී අපරාජිතව පැමිණි ශ්‍රී ලංකා කණ්ඩායම ඉන්දීය පන්දු යවන්නන් හමුවේ දැක්වූයේ දුර්වල ක්‍රීඩා විලාසයකි.
+
+ඉන්දීය පන්දු යවන්නන් හමුවේ ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුලු 03 දැවී ගියේ ඉතා අඩු ලකුණු මට්ටමකට ය. ශ්‍රී ලංකා ඉනිමේ ලකුණු පුවරුව පන්දු වාර 3යි පන්දු 04 කදී දිස්වූයේ ලකුණු 08 කට කඩුලු 03ක් ලෙස ය.
+
+කඩා වැටුණු ශ්‍රී ලංකා ඉනිමට ජීවයක් ගෙන දුන් ලක්වින් අබේසිංහ සහ ශාරුජන් ෂන්මුගනාදන් සිව් වන කඩුල්ල වෙනුවෙන් ලකුණු 93ක සබඳතාවක් ගොඩනැගීමට සමත් විය.
+
+...
+
+[Data](articles/eba08b97.json)
 
 ---
 
@@ -2355,53 +2397,5 @@ So he realizes that the legislature is weak here.There are many crimes due to th
 [Data](articles/f623093d.json)
 
 [Extended Data](ext_articles/f623093d.ext.json)
-
----
-
-### Discuss the Kalmunai Divisional Secretariat
-
-*2024-12-06 02:44:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-பிரதேச-செயலகம்-குறித்து-கலந்துரையாடவும்/175-348333) · `ta`
-
-Kalmunai Divisional Secretariat: Muslim issues debated by Rauf Hakeem and TNA. President Anura Kumara promises intervention. Case filed, border disputes ongoing. Resolution sought through discussions.
-
-🟩
-
-Sri Lanka Muslim Congress leader and MP Rauf Hakeem said that there is a problem with the Muslim people living in the Kalmunai Divisional Secretariat and how to solve the issue.
-
-He was speaking at a debate on the polls on the account of the polls on Thursday (05) in Parliament.
-
-Sri Lankan Tamil National Alliance (TNA) meets President Anura Kumara. Even after this discussion. In particular, it was reported that the president had promised to intervene in resolving the issue of Kalmunai Divisional Secretariat.
-
-There is also a problem with Muslims living in the area regarding the Kalmunai Divisional Secretariat.. Through the discussion it can be decided on how to solve this issue. Chanakyan and Satyalingam discussed this issue with MPs. I have also discussed with them on the issue of the people.. So we will solve these issues through discussions on conflicts.
-
-...
-
-[Data](articles/1e28ad95.json)
-
-[Extended Data](ext_articles/1e28ad95.ext.json)
-
----
-
-### Do you investigate those who recommended?
-
-*2024-12-06 02:40:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிபார்சித்தவர்களை-விசாரிப்பீர்களா/175-348332) · `ta`
-
-Sri Lanka TNA MP questions liquor permit investigation. Government accused of ignoring 361 liquor stall approvals. Political influence suspected.
-
-🟩
-
-Batticaloa District MP Batticaloa District MP of the Sri Lanka Tamil National Alliance (TNA). Elephant. Chanakyan questioned the state.
-
-R. Sanakiyan MP on Thursday (05) in Parliament. In addition to the further,
-
-It is commendable that the permits for 361 liquor stalls in the last government have been submitted to the Government House. At the same time, the government will investigate the owners of these liquor schools and the recommendations for the permits, and will the government cancel the permits for these political bribery roads?
-
-The government should explain the permits for these 361 liquor schools and asked the Minister and Minister Bimal Ratnayaka.. However, the government has not responded.
-
-◼️
-
-[Data](articles/1da044b9.json)
-
-[Extended Data](ext_articles/1da044b9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 15:13:45**
+As of **2024-12-06 14:42:33**
 
 ## Newspaper Stats
 
-*Scraped **58,821** Articles*
+*Scraped **58,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,534
 economynextcom | 3,575
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,575
-adaderanalk | 7,143
-tamilmirrorlk | 8,388
+adalk | 5,574
+adaderanalk | 7,142
+tamilmirrorlk | 8,387
 virakesarilk | 9,633
 adaderanasinhalalk | 10,157
 
@@ -26,63 +26,29 @@ adaderanasinhalalk | 10,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,807 (100.0%) of 58,821 articles have been extended.
+58,801 (100.0%) of 58,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### Religion
-
-*2024-12-06 14:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதங்களுக்கு-இடையில்-நல்லிணக்கத்துக்கான-ஆ-ரம்பம்/175-348354) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Religious event: Deputy Minister Sundaralingam Pradeepam attended pooja rituals. Chairman P.Sundharalingam honored him with a golden wrap. Director Anirudha from Hindu Religious and Cultural Affairs department was also present.
-
-🟩
-
-Deputy Minister of Plantation and Social Infrastructure, Sundaralingam Pradeepam and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure
-
-The Chairman of the Board of Trustees, P.Sundharalingam, had organized a special pooja rituals and honored the ministers with a golden wrap.
-
-Director of the Department of Hindu Religious and Cultural Affairs. Anirudna was also present.
-
-◼️
-
-[Data](articles/2221f21a.json)
-
-[Extended Data](ext_articles/2221f21a.ext.json)
-
----
-
-### Interim order per gazette notification on liquor licenses
+### මත්පැන් බලපත්‍ර සම්බන්ධ ගැසට් නිවේදනයකට අතුරු නියෝගයක්
 
 *2024-12-06 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204098) · `si`
 
-Supreme Court halts gazette notification increasing liquor license fees. Three-judge bench allows fundamental rights petition filed by Liquor License Holders Association. Annual fee hike from Rs. 20 million challenged. Order prevents implementation until further notice.
+ඉකුත් රජය සමයේ මත්පැන් අලෙවි බලපත්‍ර සඳහා වන වාර්ෂික ගාස්තු වැඩිකරමින් නිකුත් කළ ගැසට් නිවේදනයක් ක්‍රියාත්මකකිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අද (6) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
 
-🟩
+ශ්‍රී ලංකා මත්පැන් අලෙවි බලපත්‍ර හිමියන්ගේ සංගමය විසින්  ගොනුකළ තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ඒ. එච්. එම්. ඩී. නවාස්, කුමුදුනී වික්‍රමසිංහ සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
 
-The Supreme Court today (6) awarded the Supreme Court today (6), preventing the implementation of a gazette notification for the annual fee for the end of the year.
+ශ්‍රී ලංකා මත්පැන් අලෙවි බලපත්‍රලාභීන්ගේ සංගමය විසින් ගොනුකර තිබූ මෙම පෙත්සමෙහි වගඋත්තරකරුවන් වශයෙන් මුදල් අමාත්‍යාංශයේ ලේකම්වරයා ඇතුළු පිරිසක් නම් කර තිබුණි.
 
-Allowing a fundamental rights petition filed by the Liquarates License holders Association of Sri Lanka. H. M. D. The order was issued by a three-member judge with a three-member judge with Nawaz, Kumudhi Wickremasinghe and Priyantha Fernando.
+පෙත්සම්කරුවන් කියා සිටින්නේ 2024/1 දරන ගැසට් නිවේදනය මගින් මත්පැන් බලපත්‍ර සඳහා වන වාර්ෂික ගාස්තුව රුපියල් මිලියන 20 දක්වා වැඩිකළ බවයි.
 
-The Secretary to the Ministry of Finance, the Secretary to the Ministry of Finance, had been named as respondents on the Liqual Local Licensee (Liquarates Licensee) Association.
+මෙම බලපත්‍ර වාර්ෂික බලපත්‍ර ගාස්තු වැඩිකිරීම තුළින් තමන්ට දැඩි අසාධාරණයක් සිදුවූ බවත්, ඒ තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙසත් ඉල්ලා මෙම පෙත්සම ගොනු කර තිබුණි.
 
-The petitioners claim that the annual fee for liquor licenses increased from Rs. 20 million.
-
-The petition had been filed asking him to increase the annual license fee.
-
-In addition, the petition has been requested to issue an order to be charged by the gazette for sale in 2017.
-
-◼️
+...
 
 [Data](articles/afc6ce12.json)
-
-[Extended Data](ext_articles/afc6ce12.ext.json)
 
 ---
 
@@ -127,26 +93,6 @@ Accordingly, the Indian team won 174 runs.
 [Data](articles/0b966a62.json)
 
 [Extended Data](ext_articles/0b966a62.ext.json)
-
----
-
-### US Assistant Secretary Donald Lu calls on Sri Lanka’s foreign minister
-
-*2024-12-06 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104042/us-assistant-secretary-donald-lu-calls-on-sri-lankas-foreign-minister) · `en`
-
-A U.S. delegation led by Assistant Secretary of State for the Bureau of South and Central Asian Affairs (SCA), Donald Lu, met with Sri Lanka’s Foreign Minister, Vijitha Herath today (06).
-
-The delegation included representatives of key agencies such as the United States Agency for International Development (USAID) and the U.S. Department of Treasury, which have played integral roles in Sri Lanka’s economic recovery.
-
-“We congratulated Sri Lanka’s new administration and discussed shared priorities, and explored ways we can work together through tailored programs, capacity-building, and technical assistance to support Sri Lanka’s economic and governance reforms to benefit the Sri Lankan people,” U.S. Ambassador to Sri Lanka, Julie Chung said in a post on ‘X’ (formerly Twitter).
-
-The delegation also included the USAID Deputy Assistant Administrator Anjali Kaur and Deputy Assistant Secretary of the US Department of the Treasury, Robert Kaproth.
-
-...
-
-[Data](articles/9c1bd7ff.json)
-
-[Extended Data](ext_articles/9c1bd7ff.ext.json)
 
 ---
 
@@ -2004,8 +1950,6 @@ Dr. Rohini Srivathsa, Chief Technology Officer for Microsoft India and South Asi
 
 [Data](articles/015d8233.json)
 
-[Extended Data](ext_articles/015d8233.ext.json)
-
 ---
 
 ### The government acts arbitrarily
@@ -2042,8 +1986,6 @@ HUTCH will unveil an exciting new podcast series titled “Meet the Tech Titans�
 
 [Data](articles/d2ad616c.json)
 
-[Extended Data](ext_articles/d2ad616c.ext.json)
-
 ---
 
 ### The George Keyt Foundation unveils a distinguished line-up of Sri Lankan artists for upcoming auction conducted by Sotheby’s
@@ -2059,8 +2001,6 @@ The landmark event aims to bring together an extraordinary constellation of Sri 
 ...
 
 [Data](articles/dc13063f.json)
-
-[Extended Data](ext_articles/dc13063f.ext.json)
 
 ---
 
@@ -2311,5 +2251,65 @@ Lawyers Collective on a Legislative Agenda for the New Government and Parliament
 [Data](articles/d9dd024f.json)
 
 [Extended Data](ext_articles/d9dd024f.ext.json)
+
+---
+
+### Riclton century, a half -century of South Africa
+
+*2024-12-05 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200536) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+South Africa lost 269 runs in the first innings on Day 1. Riclton scored a century, sharing partnerships with Temba Bavuma. The team faced challenges from Asitha Fernando and Lahiru Kumara's bowling.
+
+🟩
+
+South Africa lost 269 runs in its first innings at the end of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the first day of the match, Port Elizabeth and Port Elizabeth and St. George Park Geberha.
+
+Initially faced with a minor stumbling block, South Africa was aimed at Ryan Riclon's gum and a half -century of team captain Tempa Bauma.
+
+The two teams clash in the Test cricket match with the aim of qualifying to play in the World Test Championship final.
+
+South Africa's beginning, which decided to bat first after winning the currency cycle, was not good.
+
+South Africa lost 3 wickets for 44 runs at one point, faced by stumbling blocking in the skilled bowls of Asitha Fernando and Lahiru Kumara.
+
+Tony de Sorsi (0), Aiden Margram (20) and Triston Stubs (4) failed to shine in the field.
+
+...
+
+[Data](articles/fcbadb1d.json)
+
+[Extended Data](ext_articles/fcbadb1d.ext.json)
+
+---
+
+### Sealed for Mendis Company
+
+*2024-12-05 22:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெண்டிஸ்-நிறுவனத்திற்கு-சீல்-வைக்கப்பட்டது/175-348328) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Madhuvari Commissioner suspends Mendis Company's liquor license due to unpaid taxes (Rs 5.7 billion). Production and distribution halted. Government cancels licenses of manufacturers who failed to pay taxes from November 30."
+
+🟩
+
+W.. M.. Mendis was also sealed today (5).
+
+The Madhuvari Commissioner General has ordered the suspension of its liquor production license from today (5) as per the rules of the Liquor Ordinance, as Mendis failed to pay Rs 5.7 billion, including the liquor and 3 percent additional fees.
+
+First W.. M.. Ja-Ela and Gampaha Madhuvari Superintendents said that all production and distribution of Mendis Company cannot be carried out.
+
+It is noteworthy that the government has decided to cancel the license of liquor manufacturers who failed to pay taxes from November 30.. Remble
+
+◼️
+
+[Data](articles/b27a4c2c.json)
+
+[Extended Data](ext_articles/b27a4c2c.ext.json)
 
 ---

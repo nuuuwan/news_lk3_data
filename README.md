@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 09:19:47**
+As of **2024-12-06 09:31:15**
 
 ## Newspaper Stats
 
-*Scraped **58,767** Articles*
+*Scraped **58,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ colombotelegraphcom | 598
 bbccomsinhala | 614
 islandlk | 3,534
 economynextcom | 3,572
-dailyftlk | 4,060
+dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,571
-adaderanalk | 7,133
+adaderanalk | 7,134
 tamilmirrorlk | 8,373
 virakesarilk | 9,625
 adaderanasinhalalk | 10,146
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,739 (100.0%) of 58,767 articles have been extended.
+58,741 (100.0%) of 58,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### Digital economy to generate USD 15 billion revenue in five years – President
+
+*2024-12-06 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104033/digital-economy-to-generate-usd-15-billion-revenue-in-five-years-president) · `en`
+
+President Anura Kumara Dissanayake emphasized the need for the support of all professionals to digitize the country and actively participate in the process, at a time when the expectations of the political establishment and digital technologists are aligned.
+
+He further assured that he would firmly stand by this vision at any time, according to the President’s Media Division (PMD).
+
+The President shared these remarks while addressing officials of the Ministry of Digital Economic Affairs after assuming duties as the Minister of Digital Economic Affairs yesterday (05).
+
+Highlighting the benefits of digitalization, the President stated that it has the potential to enhance the efficiency of economic activities and elevate the country’s economy to greater heights.
+
+The President highlighted that the government’s primary objectives are poverty eradication, transforming social attitudes, and advancing digitalization, the statement said.
+
+...
+
+[Data](articles/7baf55b3.json)
+
+---
 
 ### CEB to submit revised electricity tariff proposal to PUCSL today
 
@@ -292,6 +312,22 @@ LAUGFS Rubber, a subsidiary of LAUGFS Holdings, recently won two prestigious Gol
 
 [Data](articles/34a5810e.json)
 
+[Extended Data](ext_articles/34a5810e.ext.json)
+
+---
+
+### LAUGFS Rubber Secures double Gold at ICQCC 2024
+
+*2024-12-06 06:14:08* · [`dailyftlk`](https://www.ft.lk/opinion/LAUGFS-Rubber-Secures-double-Gold-at-ICQCC-2024/14-770162) · `en`
+
+From left: Uditha Premarathne, Sithum Samindaka, Sameera Rathnayeka, Chatura Devenda, Muditha  Samindika, Rumesh Madushan, Sadeep Abeysinghe, Chaturanga Kumara, and Dilantha Lakshan
+
+LAUGFS Rubber, a subsidiary of LAUGFS Holdings, recently won two prestigious Gold Awards for Quality Control Circles at the International Convention on Quality Control Circles (ICQCC) 2024. Under the theme “Quest for Quality, Productivity, and Innovation,” the event brought together leading professionals from across Asia to exchange insights and celebrate excellence in quality and productivity. Triumphing over 1,086 teams from 12 countries, including 188 teams from Sri Lanka, LAUGFS Rubber claimed victory on the global stage. This remarkable achievement underscores the company’s exceptional commitment to quality management and innovation.
+
+...
+
+[Data](articles/6ec70f93.json)
+
 ---
 
 ### Lawyers’ Collective urges immediate action on legislative reforms
@@ -367,6 +403,8 @@ The Monetary Policy Board of the Central Bank of Sri Lanka announced that the ba
 ...
 
 [Data](articles/a4856132.json)
+
+[Extended Data](ext_articles/a4856132.ext.json)
 
 ---
 
@@ -2279,57 +2317,5 @@ The President told the officials that the people of the Excise Department had no
 [Data](articles/816c59b6.json)
 
 [Extended Data](ext_articles/816c59b6.ext.json)
-
----
-
-### Accident in Valaichenai - One death - 3 people injured
-
-*2024-12-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200501) · `ta`
-
-Valaichenai accident: 1 dead, 3 injured in lorry-three-wheeler collision. Driver arrested, investigation ongoing.
-
-🟩
-
-One person was killed and three others were injured when a lorry and a three -wheeler collided head -on in the Miyankulam area on the Polonnaruwa road in Valaichenai.
-
-The incident took place on Wednesday night (04) and the lorry driver has been arrested, Valaichenai police said.
-
-A three -wheeler traveling from Polonnaruwa to Batticaloa from Polonnaruwa area to Batticaloa and a three -wheeler traveling from Valaichenai to Punanai crashed into the Miyankulam area.
-
-The 65 -year -old man who was traveling in the three -wheeler died on the spot and three others were injured.
-
-Two persons from Omaniyamadu area in Punanai and three others from Ritheenni have been admitted to the Valaichenai Resource Hospital and later transferred to the Batticaloa Teaching Hospital for further treatment.
-
-In addition, steps have been taken to bring the arrested driver to court and further investigations are being carried out by the Valaichenai police station traffic police.
-
-◼️
-
-[Data](articles/71c8b77c.json)
-
-[Extended Data](ext_articles/71c8b77c.ext.json)
-
----
-
-### Lahiru is ridiculous
-
-*2024-12-05 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204074) · `si`
-
-Lahiru Kumara achieves milestone in Test cricket history by becoming the 9th Sri Lankan bowler to reach 100 wickets. He marked South Africa's opening batsman, showcasing his skills in the second Test match between Sri Lanka and South Africa.
-
-🟩
-
-Lahiru Kumara was able to pass the role in the second Test match between Sri Lanka and South Africa.
-
-He was able to mark the South African opening batsman, who was a South African opening batsman at the match today.
-
-Accordingly, he became the 9th bowler who crossed the 100 Test bowler for Sri Lanka.
-
-Lahiru, who started the Test cricket in 2016 as the 139th player of Sri Lanka, played 101 wickets in 33 wickets.
-
-◼️
-
-[Data](articles/63a95a40.json)
-
-[Extended Data](ext_articles/63a95a40.ext.json)
 
 ---

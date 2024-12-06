@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 21:42:44**
+As of **2024-12-06 22:16:42**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,172
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,872 (100.0%) of 58,886 articles have been extended.
+58,876 (100.0%) of 58,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### ඇමති ලාල්කාන්තගේ ප්‍රකාශයට එරෙහිව පාර්ශ්ව රැසකින් විරෝධය
+### Police protest against Minister Lal Kantha's statement
 
 *2024-12-06 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204114) · `si`
 
-ගොවිබිම්වලට හානි කරන සතුන් සම්බන්ධයෙන් ඕනෑම ක්‍රියාමාර්ගයක් ගැනීම සඳහා ගොවීන්ට කිසිදු බාධාවක් නොමැති බවට, කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා ඊයේ කළ ප්‍රකාශයට එරෙහිව පාර්ශ්ව රැසක් විරෝධය පළ කර තිබේ.
+Here's a summary in 200 characters:
 
-ගොවිබිම්වලට හානි කරන වන සතුන් සම්බන්ධයෙන් අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා මෙම ප්‍රකාශය ඊයේ (05) කළේ පාර්ලිමේන්තුවේදීය.
 
-ඊට එරෙහිව පරිසර හා සත්ත්ව ක්‍රියාකාරීන් පිරිසකගේ සහභාගීත්වයෙන් මෙම විරෝධතාව පැවැත්වුණේ පාර්ලිමේන්තු පරිශ්‍රයට පිවිසෙන පොල්දූව මංසන්ධියේදීය.
+
+Police protest against Minister Lal Kantha's claim that farmers face no obstacles when dealing with farm damage from wildlife. Environmental and animal rights activists participated in the demonstration.
+
+🟩
+
+Minister of Agriculture KD, farmers have no obstacle to take any action regarding animals damaged by farmland. Many parties have opposed the statement made by Mr. Lal Kanthe yesterday.
+
+Minister KD about wild animals harming farms. Mr. Lal Kanthe did this statement yesterday (05).
+
+The protest was held at the coconut parking in the junction with the participation of a group of environmental and animal activists.
 
 ◼️
 
 [Data](articles/4366cc22.json)
+
+[Extended Data](ext_articles/4366cc22.ext.json)
 
 ---
 
@@ -85,6 +95,8 @@ Discussions also addressed Sri Lanka’s IMF program and the role of internation
 ...
 
 [Data](articles/24745065.json)
+
+[Extended Data](ext_articles/24745065.ext.json)
 
 ---
 

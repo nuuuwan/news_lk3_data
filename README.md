@@ -1,36 +1,134 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 17:43:49**
+As of **2024-12-06 18:23:58**
 
 ## Newspaper Stats
 
-*Scraped **58,846** Articles*
+*Scraped **58,852** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 598
-bbccomsinhala | 615
+bbccomsinhala | 616
 islandlk | 3,534
 economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,577
 adaderanalk | 7,147
-tamilmirrorlk | 8,389
+tamilmirrorlk | 8,390
 virakesarilk | 9,637
-adaderanasinhalalk | 10,163
+adaderanasinhalalk | 10,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,835 (100.0%) of 58,846 articles have been extended.
+58,838 (100.0%) of 58,852 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### ආණ්ඩුවේ අතුරු සම්මත ගිණුම ඡන්ද විමසීමකින් තොරව සම්මතයි
+
+*2024-12-06 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204109) · `si`
+
+2025 වස‍රේ පළමු මාස 4 සඳහා වන ආණ්ඩුවේ අතුරු සම්මත ගිණුමට අදාළ යෝජනා සම්මතය අද (06) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+රජයේ කාර්යයන් සහ ණය සේවාකරණය අඛණ්ඩව කරගෙන යාම සඳහා වූ අතුරු සම්මත ගිණුම පසුගිය 3 වනදා පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+ඊයේ (05) සහ අද ඒ සඳහා වූ විවාදය පාර්ලිමේන්තුවේ දී පෙ.ව 9.30 සිට ප.ව 5.30 දක්වා පැවැත්විණි. ඒ අනුව අද පැවති විවාදයෙන් අනතුරුව,  අතුරු සම්මත ගිණුම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+◼️
+
+[Data](articles/f4eaacbb.json)
+
+---
+
+### ව්‍යවස්ථාදායක සභාවේ නියෝජිතයන් නම් කෙරේ
+
+*2024-12-06 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204108) · `si`
+
+ඒ අනුව ආණ්ඩු පක්ෂය නියෝජනය කිරීම සඳහා පාර්ලිමේන්තු මන්ත්‍රී අබු බකර් අතම්බාවා මහතා පත් කර තිබේ.
+
+විපක්ෂය නියෝජනය කරමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පත් කර ඇති අතර ඔහුගේ නියෝජිතයා ලෙස සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී පෙරේරා මහතා නම් කර තිබේ.
+
+එමෙන්ම සුළු පක්ෂ නියෝජනය කිරීම සඳහා ඉලංගෙයි තමිල් අරුසු කච්චි පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ශ්‍රීධරන් පත් කිරීමටද පියවර ගෙන තිබේ.
+
+ඒ අනුව ව්‍යවස්ථාධායක සභාවට තව පත් කිරීමට ඇත්තේ ජනාධිපතිවරයාගේ නියෝජිතයා පමණි.
+
+◼️
+
+[Data](articles/ee7114c4.json)
+
+---
+
+### Cabinet bond to remove the vet line of red Chinese
+
+*2024-12-06 17:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-சீனியின்-வெட்-வரியை-நீக்க-அமைச்சரவை-பத்திரம்/175-348357) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lankan Cabinet proposes removing VAT on red sugar, classifying it as essential. White sugar imports remain exempt. Brown sugar faces higher taxes. Price difference: red sugar (Rs. 300/kg) vs white sugar (market price).
+
+🟩
+
+Sunil Handunnetti, Minister of Industry and Entrepreneurship, said in Parliament today that the Cabinet paper will be submitted next week for the removal of the Vat Tax on the Red Srine.
+
+The Minister said that the VAT is not taxed for the white cinnated imported from outside Sri Lanka and that the brown sugar produced in Sri Lanka is 18% vot and 2.5% tax.
+
+The Minister said that when the factory was released, a kilo of red sugar was 300 rupees and a kilogram of white sugar in the market.
+
+Sunil Handunnetti said that the red sugar is classified as an essential substance and that the white sugar brought from outside Sri Lanka is an essential commodity.
+
+◼️
+
+[Data](articles/71d1e1f2.json)
+
+[Extended Data](ext_articles/71d1e1f2.ext.json)
+
+---
+
+### මාලිමාවේ ජනවරම ගැන මංගල කතාවේදීම වචන තුනෙන් දිලිත් කිව්ව කතාව
+
+*2024-12-06 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204107) · `si`
+
+ඉදිරි වසර 5 තුළ රජය නිවැරදි මාවතක ගමන් කරවීම සඳහා සර්වජන බලය කටයුතු කරන බව සර්වජන බලයේ නායක, ව්‍යවසායක, පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පවසයි.
+
+අද (06) පාර්ලිමේන්තුවේදී සිය මංගල කතාව ඉදිරිපත් කරමින් ඔහු පැවසුවේ, පසුගිය මහ මැතිවරණයේදී විපක්ෂය කටයුතු කළ ආකාරයට ජනතාවට විකල්පයක් නොමැතිව ගිය බවය.
+
+මැතිවරණයේදී ජනතාව ලබා දුන් මෙම තීන්දුව කලකිරීම, විකල්පයක් නැතිවීම, අසත්‍ය නම් කරුණු තුන තුළින් නිරූපණය වන බවත් දිලිත් ජයවීර මහතා පැවසීය.
+
+"තිබුණු දේශපාලන සංස්කෘතිය සහ ඒ වටා තිබුණු දූෂණ චෝදනා ඒ සංස්කෘතිය වටා ගොඩනැගුණු දහසක් චිත්ත රූප නිසා ලංකාවේ සුවහසක් දේශප්‍රේමී ශ්‍රී ලාංකිකයින්ට මේ වාමවාදී දේශපාලන කඳවුරට සැමදා ආදරය කරපු අයට කලකිරුණා. ඒ කලකිරීමේ ඡන්දය තමයි ලබාදුන්නේ. ඒ නිසා ඔබ මොහොතකට වත් හිතන්න එපා ඔබගේ ප්‍රතිපත්ති ප්‍රකාශය කියවලාවත්, ඔබගේ පන්ති පහට ගිහිල්ලාවත්, ඔබගේ මේ දේශපාලනය අවබෝධ කරගෙනවත් නෙමෙයි කියන එක.
+
+...
+
+[Data](articles/595bcf99.json)
+
+---
+
+### අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කරයි
+
+*2024-12-06 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204106) · `si`
+
+ජනවාරි 01 වැනිදා සිට අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කිරීමට පියවර ගන්නා බව සෞඛ්‍ය සහ ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හසංක විජේමුණි මහතා පවසයි.
+
+අද (01) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ ඒ සඳහා වූ ගැසට් නිවේදනය බලාත්මක කිරීමට සියලු කටයුතු මේ වන විට යොදා ඇති බවය.
+
+"විශේෂයෙන් අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරය සඳහා යොදා ගැනීම අපි ජනවාරි 01 වැනිදා සිට නවත්වනවා. ඒ සඳහා වූ ගැසට් පත්‍රය බලාත්මක කිරීමට සියලු කටයුතු අපි යොදලා ඉවරයි.
+
+මොකද පසුගිය රජයන් තුළින් අවුරුදු 7-8ක් තිස්සේ ඕක පස්සට දාදා හිටියා. අපි ගිය සතියේ තීරණයක් ගත්තා අපි ඒක පස්සට දාන්නේ නෑ අපි ජනවාරි 01 වැනිදා ඉඳලා මෙය බලාත්මක කරනවා කියන කාරණය."
+
+◼️
+
+[Data](articles/08b8b5bc.json)
+
+---
 
 ### Kerala cannabis worth over Rs. 18 mln found adrift off Delft
 
@@ -169,6 +267,8 @@ Large volumes were traded in HNB Finance (down at 4.20), Agarapatana Plantations
 ...
 
 [Data](articles/29b4ecda.json)
+
+[Extended Data](ext_articles/29b4ecda.ext.json)
 
 ---
 
@@ -353,6 +453,8 @@ Brown Sugar made at the SOE is also charged a 2.5 percent social security levy, 
 ...
 
 [Data](articles/31673067.json)
+
+[Extended Data](ext_articles/31673067.ext.json)
 
 ---
 
@@ -917,6 +1019,30 @@ Sri Lanka had made remarkable progress in restoring its economy by “implementi
 ...
 
 [Data](articles/0f4a5c60.json)
+
+---
+
+### IPL ළාබාලතම ක්‍රීඩකයා ශ්‍රී ලංකා 19න් පහළ ක්‍රිකට් ආසියානු කුසලාන සිහිනය බොඳ කරයි
+
+*2024-12-06 12:13:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c99xrze1g7lo) · `si`
+
+IPL ළාබාලතම ක්‍රීඩකයා ශ්‍රී ලංකා 19න් පහළ ක්‍රිකට් ආසියානු කුසලාන සිහිනය බොඳ කරයි
+
+අවුරුදු 19න් පහළ ආසියානු කුසලාන දෙවන අවසන් පූර්ව වටයේ තරගයෙන් ශ්‍රී ලංකාව පරාජය කරමින් ඉන්දියාව කඩුලු 07ක ජයග්‍රහණයක් වාර්තා කිරීමට සමත් විය.
+
+IPL ක්‍රීඩක වෙන්දේසි ඉතිහාසයේ අලෙවි වූ ළාබාලතම ක්‍රීඩකයා වන වෛභව් සුර්යවංශි අද (දෙසැම්බර් 06) තරගයේදී ශ්‍රී ලංකා පන්දු යවන්නන්ට එරෙහිව ප්‍රවේගකාරී පිතිහරඹයක නිරත විය.
+
+කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහරදීමට තීරණය කරන ලදී.
+
+අවුරුදු 19න් පහළ ආසියානු කුසලාන තරගාවලියේදී අපරාජිතව පැමිණි ශ්‍රී ලංකා කණ්ඩායම ඉන්දීය පන්දු යවන්නන් හමුවේ දැක්වූයේ දුර්වල ක්‍රීඩා විලාසයකි.
+
+ඉන්දීය පන්දු යවන්නන් හමුවේ ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුලු 03 දැවී ගියේ ඉතා අඩු ලකුණු මට්ටමකට ය. ශ්‍රී ලංකා ඉනිමේ ලකුණු පුවරුව පන්දු වාර 3යි පන්දු 04 කදී දිස්වූයේ ලකුණු 08 කට කඩුලු 03ක් ලෙස ය.
+
+කඩා වැටුණු ශ්‍රී ලංකා ඉනිමට ජීවයක් ගෙන දුන් ලක්වින් අබේසිංහ සහ ශාරුජන් ෂන්මුගනාදන් සිව් වන කඩුල්ල වෙනුවෙන් ලකුණු 93ක සබඳතාවක් ගොඩනැගීමට සමත් විය.
+
+...
+
+[Data](articles/eba08b97.json)
 
 ---
 
@@ -2261,147 +2387,5 @@ ITAK Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmug
 [Data](articles/0ba80f59.json)
 
 [Extended Data](ext_articles/0ba80f59.ext.json)
-
----
-
-### Will Anura Kumara  Dissanayake’s NPP Govt  Order an Official  Probe Into the  “Unofficial Execution”  of JVP  Founder – Leader  Rohana Wijeweera 35 Years ago?
-
-*2024-12-06 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85154) · `en`
-
-November 13 is a date of great significance as far as the  Janatha  Vimukthi Peramuna(JVP)  – known as the Makkal Viduthalai Munnani in Tamil and People’s Liberation Front in English-is concerned. It was on  13 November 1989 that the JVP’s charismatic founder-leader  Rohana Wijeweera.  Since 1994 the JVP has been annually conducting an  event to commemorate Wijeweera and the lives of thousands of JVP cadres killede in the two insurgencies of 1971 and 1987-89. The commemoration of heroes event called “Il Maha Viru Samaruwa” is a blend of speeches and songs and is usually held on the 13th of November..
-
-...
-
-[Data](articles/90becc03.json)
-
-[Extended Data](ext_articles/90becc03.ext.json)
-
----
-
-### Light way to pay taxes
-
-*2024-12-06 03:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்த-இலகு-வழி-வரும்/175-348336) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Taxpayers encouraged to pay easily. Government simplifies tax process. Protects citizens' money from misuse. Reduces unnecessary expenses like high rents. Addresses criticism about lawyer fees, explaining legal obligations.
-
-🟩
-
-People believe in us and pay tax money. Minister of Industry and Entrepreneurs, Minister of Entrepreneurs and Entrepreneurs, said that the taxpayers were in their homes to further ease the taxpayer.
-
-He said this while addressing the debate on the accounting record submitted in Parliament on Thursday (05).
-
-We had introduced a final date for non -taxpayers to pay before September 30. People are ready to pay tax on people in line to pay taxes during that period. But they were unaware of what the programs they were paying for the tax money they were paying. So the taxpayers avoided paying it.
-
-But now people are paying trusted with us and paying tax money. To further ease this taxpayer, the taxpayer will be carried out in their homes as they are in their homes.
-
-...
-
-[Data](articles/9a5fbc6d.json)
-
-[Extended Data](ext_articles/9a5fbc6d.ext.json)
-
----
-
-### Do not make monkeys criminal
-
-*2024-12-06 03:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளை-குற்றவாளிகளாக்க-வேண்டாம்/175-348335) · `ta`
-
-Monkeys accused of eating coconuts during shortage. Government claims 40k compensation insufficient for farmers. Minister cites past changes in policies. Uncontrolled mafia activities in food prices criticized.
-
-🟩
-
-The government says that the monkeys eat coconuts due to the shortage of coconuts. If so, did the monkeys live in the country last year?DV Sanaka, the MP of the Sri Lanka PA, said that the monkeys should not be guilty.
-
-He said this while addressing the debate on the polling polls held in Parliament on Thursday (05).
-
-A large number of agricultural lands have been completely and partially affected by the rainy weather in the country last week.The government's claim that 40 thousand rupees compensation to the affected farmers cannot be accepted.It is injustice to provide 40 thousand rupees as farmers have spent much.
-
-When asked the Minister in charge of the matter to the farmers, he replied, "This is the time of 2012,2014 and 2019."Mentioned that everything is changed through a signature. But they say that the resolutions already implemented today
-
-...
-
-[Data](articles/3864a7a8.json)
-
-[Extended Data](ext_articles/3864a7a8.ext.json)
-
----
-
-### Explosion of Maulana's testimony
-
-*2024-12-06 03:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மௌலானாவின்-சாட்சியங்களை-ஆராய்ந்தால்-உண்மைகள்-வெளிவரும்/175-348334) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan MP calls for strengthening laws after Azad Maulana's bombing testimony. Cites past injustices under Mahinda Rajapaksa, including journalist murders. Demands accountability for criminals and proper investigation of Maulana's claims.
-
-🟩
-
-Srinasan, the Sri Lankan Tamil National Alliance (TNA) MP, Srinasan, Mayilandana and Madhavan, said that if the testimony of Azad Maulana on the bombing of the lifeblood was examined if the testimony was examined, the court's decisions were not to be implemented in this case.He also stressed.
-
-He said this while addressing the debate on the polling polls held in Parliament on Thursday (05).
-
-The president said in his policy declaration that the law should be strengthened.
-
-So he realizes that the legislature is weak here.There are many crimes due to the weakness of the legislature.
-
-...
-
-[Data](articles/f623093d.json)
-
-[Extended Data](ext_articles/f623093d.ext.json)
-
----
-
-### Discuss the Kalmunai Divisional Secretariat
-
-*2024-12-06 02:44:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-பிரதேச-செயலகம்-குறித்து-கலந்துரையாடவும்/175-348333) · `ta`
-
-Kalmunai Divisional Secretariat: Muslim issues debated by Rauf Hakeem and TNA. President Anura Kumara promises intervention. Case filed, border disputes ongoing. Resolution sought through discussions.
-
-🟩
-
-Sri Lanka Muslim Congress leader and MP Rauf Hakeem said that there is a problem with the Muslim people living in the Kalmunai Divisional Secretariat and how to solve the issue.
-
-He was speaking at a debate on the polls on the account of the polls on Thursday (05) in Parliament.
-
-Sri Lankan Tamil National Alliance (TNA) meets President Anura Kumara. Even after this discussion. In particular, it was reported that the president had promised to intervene in resolving the issue of Kalmunai Divisional Secretariat.
-
-There is also a problem with Muslims living in the area regarding the Kalmunai Divisional Secretariat.. Through the discussion it can be decided on how to solve this issue. Chanakyan and Satyalingam discussed this issue with MPs. I have also discussed with them on the issue of the people.. So we will solve these issues through discussions on conflicts.
-
-...
-
-[Data](articles/1e28ad95.json)
-
-[Extended Data](ext_articles/1e28ad95.ext.json)
-
----
-
-### Do you investigate those who recommended?
-
-*2024-12-06 02:40:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிபார்சித்தவர்களை-விசாரிப்பீர்களா/175-348332) · `ta`
-
-Sri Lanka TNA MP questions liquor permit investigation. Government accused of ignoring 361 liquor stall approvals. Political influence suspected.
-
-🟩
-
-Batticaloa District MP Batticaloa District MP of the Sri Lanka Tamil National Alliance (TNA). Elephant. Chanakyan questioned the state.
-
-R. Sanakiyan MP on Thursday (05) in Parliament. In addition to the further,
-
-It is commendable that the permits for 361 liquor stalls in the last government have been submitted to the Government House. At the same time, the government will investigate the owners of these liquor schools and the recommendations for the permits, and will the government cancel the permits for these political bribery roads?
-
-The government should explain the permits for these 361 liquor schools and asked the Minister and Minister Bimal Ratnayaka.. However, the government has not responded.
-
-◼️
-
-[Data](articles/1da044b9.json)
-
-[Extended Data](ext_articles/1da044b9.ext.json)
 
 ---

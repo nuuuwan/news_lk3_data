@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 15:42:44**
+As of **2024-12-06 16:27:30**
 
 ## Newspaper Stats
 
-*Scraped **58,826** Articles*
+*Scraped **58,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,576
 adaderanalk | 7,144
-tamilmirrorlk | 8,388
+tamilmirrorlk | 8,389
 virakesarilk | 9,633
 adaderanasinhalalk | 10,160
 
@@ -26,29 +26,63 @@ adaderanasinhalalk | 10,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,812 (100.0%) of 58,826 articles have been extended.
+58,817 (100.0%) of 58,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### ද අප්‍රිකානු පළමු ඉනිම ලකුණු 358යි
+### Liquor Licensing issue;Ranil's report is coming
+
+*2024-12-06 16:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதிப்பத்திர-விவகாரம்-வருகின்றது-ரணிலின்-அறிக்கை/175-348356) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Ranil Wickremesinghe's Democratic Front to release report on liquor licensing under previous government. Responds to Parliament comments about 361 permits issued during last election. Bimal Ratnayake presented liquor list in Parliament.
+
+🟩
+
+The new Democratic Front, led by former President Ranil Wickremesinghe, is due to release a detailed report on the allegation that the liquor permit has been issued during the previous government.
+
+The new Democratic Front said the report would be detailed in detail regarding the issuance of appropriate permits.
+
+The new Democratic Front was responding to a comment in Parliament on the issue of 361 liquor permits during the last election.
+
+In addition, Bimal Ratnayake presented the Liquor List in Parliament by the last government.. Remble
+
+◼️
+
+[Data](articles/2aa08abe.json)
+
+[Extended Data](ext_articles/2aa08abe.ext.json)
+
+---
+
+### African first innings score 358
 
 *2024-12-06 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204101) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ පළමු ඉනිම ක්‍රීඩා කළ දකුණු අප්‍රිකාව සියලුදෙනා දැවී ලකුණු 358ක් රැස්කර ගත්තේය.
+Sri Lanka vs South Africa Test: South Africa scored 358 in first innings. Ricans top-scored with 101, including 11 fours off 250 balls. Thambba added 78. Lahiru Kumara took 4/79 and Fernando 3/65.
 
-දකුණු අප්‍රිකානු ඉනිම ඔසවා තැබූ රයන් රිකල්ටන් සිය ටෙස්ට් ක්‍රිකට් දිවියේ පළමු ශතකය රැස්කරමින් ලකුණු 101ක් ඉනිමට එක් කළේය.
+🟩
 
-පන්දු 250කට මුහුණදුන් රිකල්ටන්ගේ ඉනිම තුළ හතරේ පහර 11ක් ඇතුළත් විය.
+South Africa scored 358 runs in the first innings of the second Test match between the Sri Lankan team and South African group.
 
-ඔහුට අමතරව මෙම තරගයේදී ද සාර්ථක වූ නායක ටෙම්බා බවුමා ලකුණු 78ක් රැස්කිරීමට සමත් විය.
+Ryan Ricans raised in the South African innings scored 101 runs in their Test cricket.
 
-පන්දු යැවීමේ දී ළහිරු කුමාර ලකුණු 79කට කඩුලු 4ක් දවාගත් අතර, අසිත ප්‍රනාන්දු ලකුණු 102කට කඩුලු 3ක්ද, විශ්ව ප්‍රනාන්දු ලකුණු 65කට කඩුලු 2ක් දවාගත්හ.
+The innings of Ricton, who faced 250 balls, included 11 fours.
+
+In addition to him, the leader Thambba scored 78 runs.
+
+Lahiru Kumara took 4 wickets for 79 runs and 3 wickets and universal Fernando scored two runs for 65 runs.
 
 ◼️
 
 [Data](articles/2f59a954.json)
+
+[Extended Data](ext_articles/2f59a954.ext.json)
 
 ---
 
@@ -138,19 +172,29 @@ Director of the Department of Hindu Religious and Cultural Affairs. Anirudna was
 
 ---
 
-### පින්නවල වලස් ජෝඩුවට හා දිවියන්ට වර්ගයා බෝකරන්න  වයස හරස් වෙලා
+### Age crosses the bear couple in Pinnawala and the leopard
 
 *2024-12-06 14:35:49* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-වලස්-ජෝඩුවට-හා-දිවියන්ට-වර්ගයා-බෝකරන්න--වයස-හරස්-වෙලා/11-413493) · `si`
 
-වඳවීයාමේ තර්ජනයට ලක්ව ඇති මෙරටට අවේණික සත්ව විශේෂ සුරැකීමේ අරමුණින් පිහිටවූ පින්නවල සත්වෝද්‍යානයේ සිටින  මෙරටට  ආවේණික  ගැහැණු හා පිරිමි වලසුන් දෙදෙනා සහ දිවියන් පස්දෙනා අතර පවතින වයස් පරතරයන් ඇතුළු  නොගැලපීම් හේතුවෙන් ඔවුන්ගේ පැටවුන් බිහිවී නොමැති බව ජාතික විගණන කාර්යාලය ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව වෙනුවෙන් නිකුත්කළ විගණන වාර්තාවක් මගින්  අනාවරණය කරයි.
+Here's a summary of 200 characters:
 
-මේ පිළිබඳව අදහස් දක්වමින් ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව විගණනයට දැනුම් දී ඇත්තේ පිරිමි වලසාට සුදුසු ගැහැණු වලසුන් ලබා ගැනීමට වනජීවී දෙපාර්තමේන්තුවට ඉල්ලුම් කර ඇතත් අධිකරණමය තීන්දුවක් හේතුවෙන් එවැනි  ගැහැණු වලසුන් වනයෙන් ලබා ගැනීමට නොහැකිවී ඇති බවයි.
 
-අභිජනනයට සුදුසු දිවියන් සිටියද ඔවුන් ස්වභාවික අභිජනනය මගින් පැටවුන් බිහිවීම නොකිරීම නිසා කෘත්රිම සිංචනයෙන් දිවියන් බෝකර ගැනීමට වැඩ සටහනක් ආරම්භ කරන බවද එම දෙපාර්තමේන්තුව විගණනය වෙත  වැඩි දුරටත් දන්වා  ඇත.
+
+Pinnawala bears and leopards face challenges: incompatible species, lack of suitable females, no artificial breeding program. The National Zoological Department seeks solutions, but judicial decisions hinder progress.
+
+🟩
+
+The National Audit Office reveals that their calves have not been created due to the incompatible species of non-permanent species and the number of leopard species of the Pinnawala.
+
+The National Zoological Department has asked the audit that the male bear has applied to the Wildlife Department, but it is not possible to get such female decisions due to a judicial decision.
+
+Although there is a leopard for breeding, they have no program to board the leopards from artificial incharge due to natural breeding.
 
 ◼️
 
 [Data](articles/c313e70b.json)
+
+[Extended Data](ext_articles/c313e70b.ext.json)
 
 ---
 
@@ -2224,6 +2268,8 @@ Today, we commemorate the fifth anniversary of my eternally cherished wife Dr Ma
 
 [Data](articles/029bfefe.json)
 
+[Extended Data](ext_articles/029bfefe.ext.json)
+
 ---
 
 ### All quiet on home front – hence peek overseas
@@ -2237,6 +2283,8 @@ Of course there is still criticism, which is as it should be. The NPP is far fro
 ...
 
 [Data](articles/0bcdc550.json)
+
+[Extended Data](ext_articles/0bcdc550.ext.json)
 
 ---
 
@@ -2285,29 +2333,5 @@ For decades, Saudi Arabia has held many summits with the participation of presid
 [Data](articles/36a3b008.json)
 
 [Extended Data](ext_articles/36a3b008.ext.json)
-
----
-
-### 2024-12-05 (Thursday)
-
-### The President's advisory to pay special attention to renewable renewal sources
-
-*2024-12-05 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200542) · `ta`
-
-President emphasizes renewable energy focus: Meeting discusses solar power expansion and contract review.
-
-🟩
-
-A meeting between President Anura Kumara Dissanayake and officials of the Ministry of Power was held at the Presidential Office on Thursday afternoon.
-
-Special attention was paid to the reinforcement of the reinforcement and the solar power program was extensively investigated.. The President insisted that the contracting programs would be reviewed and the useful programs of the contracting programs were to be launched soon and advised to take appropriate measures if the contracting programs were ineffective.
-
-Minister of Electricity Engineer Kumara JayakodySeveral senior officials, including Rajakaruna, were present at the discussion.
-
-◼️
-
-[Data](articles/d54ca4a7.json)
-
-[Extended Data](ext_articles/d54ca4a7.ext.json)
 
 ---

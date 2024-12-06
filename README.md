@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 11:43:22**
+As of **2024-12-06 12:02:30**
 
 ## Newspaper Stats
 
-*Scraped **58,796** Articles*
+*Scraped **58,797** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 598
-bbccomsinhala | 614
+bbccomsinhala | 615
 islandlk | 3,534
 economynextcom | 3,575
 dailyftlk | 4,061
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,768 (100.0%) of 58,796 articles have been extended.
+58,772 (100.0%) of 58,797 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -238,23 +238,33 @@ The police summoned the woman to the Vattawala Police Station on Thursday (05).
 
 ---
 
-### பதவிய பகுதியில் துப்பாக்கிச் சூடு ; வயோதிபப் பெண் பலி
+### Shooting in the post;Elderly victim
 
 *2024-12-06 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200548) · `ta`
 
-அநுராதபுரம், பதவிய பொலிஸ் பிரிவுக்குட்பட்ட போகஹவெவ பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் வயோதிபப் பெண் ஒருவர் உயிரிழந்துள்ளதாக பதவிய பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-பதவிய,போகஹவெவ பிரதேசத்தி ற்கு மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் வீடொன்றில் இருந்த பெண் ஒருவர் மீது துப்பாக்கிச் சூட்டை நடத்தி அங்கிருந்து தப்பிச் சென்றிருந்தனர்.
 
-துப்பாக்கிச் சூட்டில் காயமடைந்த பெண், பதவிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
 
-இந்த துப்பாக்கிச் சூட்டுக்காக ரி - 56 துப்பாக்கி பயன்படுத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+"Elderly woman killed in shooting in Bogawewa, Anuradhapura. Two men on motorcycle fired at her home. Victim died at hospital. Possible R-56 rifle used. No motive or suspects yet."
 
-மேலும் , துப்பாக்கிச் சூட்டுக்கான காரணம் மற்றும் சந்தேக நபர்கள் தொடர்பில் இதுவரை எந்தத் தகவல்களும் கிடைக்கவில்லை.
+🟩
+
+An elderly woman has died in the shooting in Bogawewa area under the Public Police Division of Anuradhapura, police said.
+
+Two unidentified men who were riding a motorcycle to the Pokhawewa area, Bogawewa area, fired at a woman in a house.
+
+The woman, who was injured in the shooting, died after being admitted to the post of hospital for treatment.
+
+Police suspect that the R -56 rifle may have been used for the shooting.
+
+Also, no information has been received so far on the cause of the shooting and the suspects.
 
 ◼️
 
 [Data](articles/10af1dc1.json)
+
+[Extended Data](ext_articles/10af1dc1.ext.json)
 
 ---
 
@@ -984,6 +994,28 @@ The initiative, supported by USAID’s CATALYZE Private Sector Development (PSD)
 
 ---
 
+### වාහන ගෙන්වීම ගැන ආණ්ඩුවේ සැලසුම් මොනවා ද?: 'පාවිච්චි කළ වාහනයක මිලට අලුත් වාහනයක්'
+
+*2024-12-06 05:42:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c62z41ezermo) · `si`
+
+වාහන ගෙන්වීම ගැන ආණ්ඩුවේ සැලසුම් මොනවා ද?: 'පාවිච්චි කළ වාහනයක මිලට අලුත් වාහනයක්'
+
+වසර හතරකට අධික කාලයක් තිස්සේ වාහන ආනයනයට පනවා තිබූ තහනම නව රජය විසින් ඉවත් කරනු ලබනු ඇති බවට ඉඟි පළ වෙමින් තිබේ.
+
+ඒත් සමග ම අලුතින් ගෙන්වන මාදිලි, ඒවායේ මිල ගණන්, බදු ප්‍රතිශත වැනි දෑ සමාජ මාධ්‍ය ජාල තුළ හුවමාරු වන බව ද දැකගත හැකි ය.
+
+වාහන ආනයනය කරන ඇතැම් සමාගම් නව රථවාහන මිල ගණන් දක්වමින්, ගනුදෙනුකරුවන්ට ලියාපදිංචි වන ලෙස දැනුම් දී තිබේ.
+
+2020 මාර්තු මාසයේදී ගෝඨාභය රාජපක්ෂගේ ආණ්ඩුව වාහන ආනයනයට පැනවූ තහනම මේ වන තෙක් ම ක්‍රියාත්මක වේ.
+
+කෙසේ වෙතත්, රනිල් වික්‍රමසිංහ ජනාධිපති ධූරයට පත්වීමෙන් පසු කැබිනට් මණ්ඩලය විසින් මේ වසරේ ඔක්තෝබර් මාසයේ සිට ලබන වසරේ පෙබරවාරි දක්වා අදියර තුනක් යටතේ මෙරටට වාහන ආනයනය කිරීමට සැලසුම් කර ඇතැයි දන්වා තිබිණි.
+
+...
+
+[Data](articles/b7dae44f.json)
+
+---
+
 ### CTTA celebrates 130 years with “Honouring Legends” of industry
 
 *2024-12-06 05:42:06* · [`dailyftlk`](https://www.ft.lk/business/CTTA-celebrates-130-years-with-Honouring-Legends-of-industry/34-770148) · `en`
@@ -1114,19 +1146,27 @@ So he realizes that the legislature is weak here.There are many crimes due to th
 
 ---
 
-### ’கல்முனை பிரதேச செயலகம் குறித்து கலந்துரையாடவும்’
+### Discuss the Kalmunai Divisional Secretariat
 
 *2024-12-06 02:44:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-பிரதேச-செயலகம்-குறித்து-கலந்துரையாடவும்/175-348333) · `ta`
 
-கல்முனை பிரதேச செயலகம் தொடர்பில் அந்த பிரதேசத்தில் வாழும் முஸ்லிம் மக்களுக்கும் பிரச்சினை இருப்பதால்   கலந்துரையாடி  இந்த பிரச்சினையை எவ்வாறு தீர்த்துக்கொள்வது என்பது தொடர்பில் ஒரு முடிவுக்கு வர முடியும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் எம்.பி.யுமான  ரவூப் ஹக்கீம் தெரிவித்தார்.
+Kalmunai Divisional Secretariat: Muslim issues debated by Rauf Hakeem and TNA. President Anura Kumara promises intervention. Case filed, border disputes ongoing. Resolution sought through discussions.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (05) சமர்ப்பிக்கப்பட்ட கணக்கு வாக்குப்பதிவு  மீதான விவாதத்தில்  உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர்  தொடர்ந்து உரையாற்றுகையில்,
+🟩
 
-இலங்கைத் தமிழரசுக் கட்சியினர்   ஜனாதிபதி அநுரகுமாரவை  சந்தித்து கலந்துரையாடியுள்ளனர் . இக் கலந்துரையாடலுக்கு பின்னரும் பாராளுமன்றத்திலும் அது தொடர்பான விடயங்கள் பேசப்பட்டன . குறிப்பாக கல்முனை பிரதேச செயலக தொகுதி தொடர்பான பிரச்சினையை  தீர்ப்பதற்கு ஜனாதிபதி தலையிடுவதாக வாக்குறுதி வழங்கியதாகத்   தெரிவிக்கப்பட்டது.
+Sri Lanka Muslim Congress leader and MP Rauf Hakeem said that there is a problem with the Muslim people living in the Kalmunai Divisional Secretariat and how to solve the issue.
+
+He was speaking at a debate on the polls on the account of the polls on Thursday (05) in Parliament.
+
+Sri Lankan Tamil National Alliance (TNA) meets President Anura Kumara. Even after this discussion. In particular, it was reported that the president had promised to intervene in resolving the issue of Kalmunai Divisional Secretariat.
+
+There is also a problem with Muslims living in the area regarding the Kalmunai Divisional Secretariat.. Through the discussion it can be decided on how to solve this issue. Chanakyan and Satyalingam discussed this issue with MPs. I have also discussed with them on the issue of the people.. So we will solve these issues through discussions on conflicts.
 
 ...
 
 [Data](articles/1e28ad95.json)
+
+[Extended Data](ext_articles/1e28ad95.ext.json)
 
 ---
 
@@ -1182,19 +1222,31 @@ Could not expect any system change in the administration of national people's po
 
 ---
 
-### ’ஆடையுடன் பயணித்தார் ரணில்: ஆடையின்றி பயணிக்கிறார் அனுர’
+### Ranil travels with a garment: Anura travels without garment
 
 *2024-12-06 02:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையுடன்-பயணித்தார்-ரணில்-ஆடையின்றி-பயணிக்கிறார்-அனுர/175-348331) · `ta`
 
-அப்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆடையுடன் தொங்கு பாலத்தில் பயணித்தார் . தற்போதைய ஜனாதிபதி  ஆடையில்லாமல் தொங்கு பாலத்தில் பயணிக்கின்றார் இதுதான் இவர்களின் மாற்றம்  என தெரிவித்த  ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான  கபீர் ஹாசிம்,    வணிக கடன் தொடர்பான ஒப்பந்தத்தில் அரசாங்கம்  ஆடை அணிந்து  கொண்டா  கைச்சாத்திட போகிறது எனவும் கேள்வி எழுப்பினார்
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (05)  இடம்பெற்ற கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி மெழுப்பிய  அவர் மேலும் உரையாற்றுகையில்,
 
-தேசிய மக்கள் சக்தி சார்பில் இம்முறை பாராளுமன்றத்துக்கு பெருமளவிலான கலாநிதிகள், பேராசிரியர்கள், பட்டதாரிகள்  மற்றும் தொழிற்றுறை நிபுணர்கள் தெரிவு  செய்யப்பட்டுள்ளார்கள். இவர்கள் அனைவரும்  74 ஆண்டு கால அரசியல் கட்டமைப்பை விமர்சித்துக் கொண்டு    இலவச கல்வியின் ஊடாக பயனடைந்தவர்கள்
+
+Ranil Wickremesinghe travels with garment; Anura without. Kabir Hashim questions government's business loan deal. National People's Power elected professionals criticize 74-year political structure. No system change expected under new administration. Traditional agricultural and industrial systems criticized. President's policy speech lacks voting record changes. IMF project implementation questioned without content examination.
+
+🟩
+
+The then President Ranil Wickremesinghe traveled to the hanging bridge with the dress. United People's Power MP Kabir Hashim, who said that this is the change in the hung bridge without the present president, questioned that the government is going to sign a business loan contract.
+
+Speaking at a debate on the polling polls held in Parliament on Thursday (05), he further addressed the question.
+
+A large number of doctors, professors, graduates and professional experts have been elected to Parliament this time on behalf of the National People's Power. They all benefited from free education criticizing the 74 -year political structure
+
+Could not expect any system change in the administration of national people's power. If the traditional agricultural system is wrong to go to the joint agricultural system. Similarly, if the industrial sector is wrong, you have to go to the state -owned industry.
 
 ...
 
 [Data](articles/d84454c0.json)
+
+[Extended Data](ext_articles/d84454c0.ext.json)
 
 ---
 
@@ -1209,6 +1261,8 @@ In 2023, LankaPay’s digital transactions exceeded the nation’s GDP, emphasiz
 ...
 
 [Data](articles/487ee4cd.json)
+
+[Extended Data](ext_articles/487ee4cd.ext.json)
 
 ---
 
@@ -2225,29 +2279,5 @@ The suspect has been arrested following tips to the Jaffna Special Criminal Inve
 [Data](articles/13589cd6.json)
 
 [Extended Data](ext_articles/13589cd6.ext.json)
-
----
-
-### I speak to the president about the release of 10 political prisoners;Mark Andrew Franjam Tamil National People's Front leader Gajendrakumar
-
-*2024-12-05 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200532) · `ta`
-
-Gajendrakumar Ponnambalam meets UN Resident Mark Andrew Franjam to discuss political prisoners and government reforms in Sri Lanka.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian Gajendrakumar Ponnambalam has promised to speak to President Anura Kumara Dissanayake on the release of 10 political prisoners who have long been detention.
-
-The meeting between Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA) and Member of Parliament, and the United Nations Residents of Sri Lanka, Mark Andrew French, were held in Colombo on Thursday (05).
-
-At the invitation of UN Resident Mark Andrew Franjin, Resident Gajendrakumar asked Ponnambalam about the contemporary status of the country, the activities of the new government, and the government's ability to continue the country.
-
-Responding to this, Gajendrakumar said he was confident that corruption would be reduced during the new government's regime.
-
-...
-
-[Data](articles/0999d8d5.json)
-
-[Extended Data](ext_articles/0999d8d5.ext.json)
 
 ---

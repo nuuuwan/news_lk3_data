@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 13:12:46**
+As of **2024-12-06 12:42:28**
 
 ## Newspaper Stats
 
-*Scraped **58,810** Articles*
+*Scraped **58,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,122 +17,58 @@ economynextcom | 3,575
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,574
-adaderanalk | 7,142
+adaderanalk | 7,141
 tamilmirrorlk | 8,385
-virakesarilk | 9,632
+virakesarilk | 9,631
 adaderanasinhalalk | 10,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,786 (100.0%) of 58,810 articles have been extended.
+58,779 (100.0%) of 58,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### US Assistant Secretary to South and Central Asian Affairs Donald Lu - Foreign Minister Vijitha Herath meets
+### தென், மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ - வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் சந்திப்பு
 
-*2024-12-06 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200569) · `ta`
+*2024-12-06 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200569) · `ta`
 
-Donald Lu, US Assistant Secretary for South & Central Asian Affairs, met Sri Lankan Foreign Minister Vijitha Herath. They discussed cooperation on economic reforms, skills development, and technical assistance to benefit Sri Lanka's people.
+தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ, வெளிவிவகார அமைச்சர் விஜித்த ஹேரத்தை சந்தித்தார்.
 
-🟩
+இது குறித்து தனது எக்ஸ் பக்கதில் பதிவிட்டுள்ள இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜூலி சங்,
 
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu met Foreign Minister Vijitha Herath.
+இலங்கையின் மீட்புக்கு முக்கிய பங்காற்றிய யுஎஸ்எயிட் மற்றும் அமெரிக்க திறைசேரி திணைக்களத்தைப் பிரதிநிதித்துவப்படுத்தி தென் மற்றும் மத்திய ஆசிய விவகாரங்களுக்கான அமெரிக்காவின் உதவிச் செயலாளர் டொனால்ட் லூ, இலங்கையின் வெளிவிவகார அமைச்சருடன் சந்திப்பை மேற்கொண்டார்.
 
-US Ambassador to Sri Lanka, Julie Sung, posted on his X page
-
-Representing the USAID and the US Treasury Department, which played a key role in Sri Lanka's rescue, Donald Lu, the Assistant Secretary of the United States for South and Central Asian Affairs, met with the Sri Lankan Foreign Minister.
-
-We congratulated the new government of Sri Lanka and discussed the common issues. He also stated that we can work together through the projects, skills development and technical assistance that will support economic and administrative reforms for the welfare of the people of Sri Lanka.
+இதன்போது, இலங்கையின் புதிய அரசாங்கத்திற்கு வாழ்த்துக்களை தெரிவித்ததுடன் பொதுவான முக்கிய விடயங்கள் பற்றி கலந்துரையாடினோம். மேலும், இலங்கையின் மக்கள் நலனுக்காக பொருளாதார மற்றும் நிர்வாக சீர்திருத்தங்களை ஆதரிக்கத் தகுந்த திட்டங்கள், திறன் வளர்ச்சி மற்றும் தொழில்நுட்ப உதவிகள் மூலம் நாம் இணைந்து செயல்படக்கூடிய வழிகளை இதன்போது ஆராய்ந்தோம் என குறிப்பிட்டுள்ளார்.
 
 ◼️
 
 [Data](articles/b987adc2.json)
 
-[Extended Data](ext_articles/b987adc2.ext.json)
-
 ---
 
-### Four people arrested after accident
-
-*2024-12-06 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200566) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"4 arrested after motorcycle crash in Ratmalana. Driver (24) & 3 passengers (19, 20, 26) from Udugamuwa, Udugampola, Kitulkala. Police investigation reveals driver was drunk."
-
-🟩
-
-Four suspects have been arrested by the police after a motorcycle collided with a motorcycle in Ratmalana area.
-
-Police said the suspects had been arrested on a motorbike and arrested the suspects.
-
-The driver of a 24 -year -old car in Udugamuwa area and three men aged 19, 20 and 26 in Udugampola and Kitulkala areas have been arrested, police said.
-
-Investigations carried out by the driver of the arrested car revealed that he had been drinking during the accident.
-
-◼️
-
-[Data](articles/bbeac26d.json)
-
-[Extended Data](ext_articles/bbeac26d.ext.json)
-
----
-
-### 14-year-old girl found murdered and dumped in toilet pit
-
-*2024-12-06 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104041/14-year-old-girl-found-murdered-and-dumped-in-toilet-pit) · `en`
-
-The remains of a 14-year-old girl who had been murdered and her body dumped in a toilet pit under construction in the Akarawita area of Gampaha has been discovered.
-
-The investigation commenced following a complaint filed by the girl’s mother with the Gampaha Police on the night of December 5, reporting that her daughter had been missing since December 2, according to Police.
-
-The mother has expressed suspicion that her second husband may be responsible for the murder. Based on information uncovered in the investigation, the second husband was arrested on suspicion.
-
-Following the interrogation of the suspect, it was revealed that he had murdered the girl and disposed of her body in the toilet pit behind the house, which was under construction, by covering it with a concrete slab.
-
-Police have secured the crime scene, and a magisterial inquiry will be conducted by the Gampaha Magistrate.
-
-◼️
-
-[Data](articles/5ac67ae3.json)
-
----
-
-### Petition filed against the rugby conference
+### රග්බි සම්මේලනයට එරෙහිව ගොනුකර තිබූ පෙත්සමක් සමථයට
 
 *2024-12-06 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204094) · `si`
 
-Sri Lanka Rugby Federation constitution change petition settled. Court approves new committee selection process. Petitioner agrees to terms.
+ශ්‍රී ලංකා රග්බි සම්මේලනය සඳහා නව ව්‍යවස්ථාවක් සම්පාදනය කිරීමට එරෙහිව ගොනුකර තිබූ පෙත්සමක් ඊයේ (5) අභියාචනාධිකරණය හමුවේ සමථයට පත්කෙරුණි.
 
-🟩
+බස්නාහිර පළාත් රග්බි සංගමයේ ලේකම් රොෂාන් ඩීන් මහතා විසින් මෙම පෙත්සම ගොනු කර තිබුණි.
 
-A petition filed against the arrival of a new constitution to the Sri Lanka Rugby Football Federation was settled in court yesterday (5).
+එම පෙත්සම මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගේ සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ඊයේ කැඳවනු ලැබීය.
 
-The petition was filed by the Secretary of the Western Province Rugby Foot Association, Roshan Deen.
+පෙත්සම කැඳවූ අවස්ථාවේදී වගඋත්තරකරුවන් වෙනුවෙන් පෙනීසිටි අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා අධිකරණය හමුවේ කරුණු දක්වමින්, ශ්‍රී ලංකා රග්බි සම්මේලනය සඳහා නිලධාරීන් පත්කර ගැනීම සඳහා නිලවරණය පැවැත්වීමට ක්‍රීඩා අමාත්‍යංශයේ ලේකම්වරයා තීරණය කර ඇති බව සඳහන් කළේය.
 
-The petition is Mohammed Lafar Thahaire and P. Kodule was summoned before the Court of Appeal of Kumaran Ratnam.
+ඒ සඳහා රග්බි සංගමයේ සහ ඔලිම්පික් කමිටුවේ සාමාජිකයකු ඇතුළු තුන්දෙනෙකුගෙන් සමන්විත කමිටුවක් පත්කිරීමට නියමිත බවත් ඔහු පැවසීය.
 
-Additional Sumathi Dharma Dharmawardena appearing on behalf of the respondents, Sumathi Dharmawardena has decided to appoint officials for the Sri Lanka Rugby Football Federation.
+එම කමිටුව විසින් නිලවරණයේ ඡන්ද හිමියන්ගේ නාමලේඛනය අනුමත කිරීමට නියමිත අතර, ඉන් පසුව නිලධාරින් තෝරා ගැනීමට නියමිත බවත් ඔහු සඳහන් කළේය.
 
-He said that a committee consisting of three persons including a Rugby Association and a member of the Olympic Committee will be appointed.
-
-He added that the committee is to be approved by the election and the officers will be elected.
-
-After selecting the officers, they have the ability to amend the constitution of the Rugby Federation, Additional Solicitor General.
-
-After the departure of both sides, the petition was ordered after consenting the terms.
-
-◼️
+...
 
 [Data](articles/5b06cbb0.json)
-
-[Extended Data](ext_articles/5b06cbb0.ext.json)
 
 ---
 
@@ -190,49 +126,37 @@ Subsequently, all five youths have been transferred to the Batticaloa Teaching H
 
 ---
 
-### Britain has opened the door for new opportunities for Sri Lanka
+### இலங்கைக்கான புதிய வாய்ப்புக்களுக்கு கதவை திறந்துள்ள பிரித்தானியா
 
 *2024-12-06 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200562) · `ta`
 
-UK opens doors for Sri Lanka: Trade & Development focus. Reducing fees, easing export rules. Providing technical assistance & commercial cooperation to boost Sri Lankan competitiveness globally.
-
-🟩
-
-The UK government is focusing on both trade and development.. I will lead a firm trading aimed at improving the effects of trade for the worldwide developed countries worldwide. We will make arrangements to open its markets for exports of countries such as Sri Lanka, which are developing, by reducing fees and facilitating the rules.. We provide adequate technical assistance and commercial cooperation to the Sri Lankan government and Sri Lankan businesses to compete effectively in the global economy.
+இங்­கி­லாந்து அர­சாங்கம் வர்த்­தகம் மற்றும் அபி­வி­ருத்தி ஆகிய இரு விட­யங்­க­ளிலும் மிகவும் தீவி­ர­மாகக் கவனஞ் செலுத்தி வரு­கின்­றது. உல­க­ளவில் அபி­வி­ருத்தி அடைந்து வரும் நாடு­க­ளுக்கு வர்த்­த­கத்தின் சாத­க­மாக விளை­வு­களை மேம்­ப­டுத்­து­வதை நோக்­க­மாகக் கொண்டு உறு­தி­யான வர்த்­த­கத்தை நான் முன்­நின்று வழி­ந­டத்­து­கிறேன். கட்­ட­ணங்­களைக் குறைப்­பதன் மூலமும் விதி­மு­றை­களை எளி­தாக்­கு­வதன் மூலமும், அபி­வி­ருத்தி அடைந்­து­வரும் இலங்கை போன்ற நாடு­களின் ஏற்­று­ம­தி­க­ளுக்கு இங்­கி­லாந்து தனது சந்­தை­களைத் திறப்­ப­தற்­கான ஏற்­பா­டு­களை நாம் முன்­னெ­டுக்­க­வுள்ளோம். உலகப் பொரு­ளா­தா­ரத்தில் திறம்­பட போட்­டி­யி­டு­வ­தற்கு தேவை­யான போது­மான தொழில்­நுட்ப உத­விகள் மற்றும் வர்த்­தக ரீதி­யான ஒத்­து­ழைப்­பினை இலங்­கையின் அர­சாங்­கத்­துக்கும் இலங்கை வணி­கங்­க­ளுக்கும் நாம் வழங்­கு­கிறோம்.
 
 ◼️
 
 [Data](articles/ec655ba4.json)
 
-[Extended Data](ext_articles/ec655ba4.ext.json)
-
 ---
 
-### The body in the toilet by killing a girl
+### දැරියක් ඝාතනය කර සිරුර වැසිකිළි වලකට දමලා
 
 *2024-12-06 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204093) · `si`
 
-Body found in toilet; 14yo girl murdered; suspect identified as second husband; arrested; police investigation ongoing
+වයස අවුරුදු 14ක දැරියක් ඝාතනය කර සිරුර ඉදිකරමින් තිබෙන වැසිකිළි වලකට දමා තිබියදී සොයාගත් බව පොලීසිය පවසයි.
 
-🟩
+ගම්පහ, අකරවිට ප්‍රදේශයේ පදිංචි කාන්තාවක් ඊයේ (5) රාත්‍රියේ වයස අවුරුදු 14ක් වන තම දියණිය දෙසැම්බර් 2වනදා සිට අතුරුදන්ව ඇති බවට ගම්පහ පොලීසිය වෙත කරන ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයකින් අනතුරුව මෙම ඝාතනයේ සුලමුල සොයාගැනීමට පොලීසියට හැකිව ඇත.
 
-The police said that the bodies of a 14-year-old girl was killed and placed in a toilet, police said.
+දැරියගේ මව විසින් මෙම ඝාතනයට තම දෙවන සැමියා සැකකරන බවට ප්‍රකාශ කර තිබේ.
 
-A woman residing in the Akarawita area in Gampaha yesterday (5), the police could find the claim of the murder yesterday (5).
+ඒ අනුව අනාවරණය කරගත් තොරතුරු අනුව පැමිණිලිකාරියගේ දෙවන සැමියා සැකපිට අත්අඩංගුවට ගෙන ඇත.
 
-The girl's mother has stated that their second husband has been suspected of the murder.
+ඔහුගෙන් අනාවරණය කරගත් තොරතුරු අනුව දැරිය ඝාතනය කර සිරුර ඉදිකරමින් පවතින නිවසේ පිටුපස වැසිකිළිවලට දමා සැකකරු විසින් කොන්ක්‍රීට් ලෑල්ලකින් වසා ඇති බව හෙළි වී තිබේ.
 
-Accordingly, according to the revealed information, the complainant's second husband has been arrested.
-
-According to the information he disclosed, the girl was killed and toilets and closed the back of the house and closed the suspect with a concrete plan.
-
-Police have been deployed at the scene, and the Gampaha Magistrate will hold the magisterial inquiry.
+සිද්ධිය වූ ස්ථානයේ මේ වනවිට පොලිස් ආරක්ෂාව යොදවා ඇති අතර, ගම්පහ මහෙස්ත්‍රාත්වරයා විසින් මහෙස්ත්‍රාත් පරීක්ෂණය  පැවැත්වීමට නියමිතය.
 
 ◼️
 
 [Data](articles/3794fc86.json)
-
-[Extended Data](ext_articles/3794fc86.ext.json)
 
 ---
 
@@ -338,71 +262,49 @@ Further investigations are being carried out by the North Western Provincial Cri
 
 ---
 
-### SLTB depot is murdered and stolen money
+### ලංගම ඩිපෝවේ මුරකරුව ඝාතනය කර මුදල් සොරා ගෙන
 
 *2024-12-06 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204092) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+නුවරඑළිය ලංගම ඩිපෝවේ සේවය කළ මුරකරුවෙකු ඝාතනය කර ඩිපෝව තුළ බැංකුගත කිරීමට තිබු රු ලක්ෂ 9කට ආසන්න මුදල් කිසියම් පිරිසක් සොරකම් කර තිබේ.
 
+අදාළ සිදුවීම සම්බන්ධයෙන් මේ වනවිට නුවරඑළිය පොලීසිය විමර්ශනයක් ද ආරම්භ කර ඇත.
 
+මෙසේ ඝාතනයට ලක්වී ඇත්තේ, අදාළ ඩිපෝවේ මුරකරුවෙකු වශයෙන් සේවය කළ නුවරඑළිය ගල්පාය ප්‍රදේශයේ පදිංචිව සිටි කේ. ලෝගෙෂ්වරන් නැමති 85 හැවිරිදි අයෙකි.
 
-Murder at SLTB depot: 85-yr-old Laggerswaran killed, money stolen. Nuwara Eliya Police investigating. Attack occurred during sleep. Revenue kept in cupboard overnight.
+මුරකරු ඝාතනය කර ඩිපෝවේ අල්මාරියක් තුළ තිබු රු ලක්ෂ 9කට ආසන්න මුදලක් කිසියම් පිරිසක් රැගෙන ගොස් ඇති බවට මුලික විමර්ශනවලදී අනාවරණය වී තිබේ.
 
-🟩
+මුරකරු ඔහුගේ ආරක්ෂක කුටියේ රැඳී සිට ඇති බවත්, එම අවස්ථාවේ කිසියම් පිරිසක් හෝ පුද්ගලයෙකු තියුණු ආයුධයකින් ඔහුගේ හිසට පහර දී ඝාතනය කර මුදල් රැගෙන ගොස් ඇති බවටත් තොරතුරු හෙළි වී ඇත.
 
-Nearly Rs.
+ඝාතනය සිදු වු අවස්ථාවේ එම ඩිපෝවේ ස්ථානභාර නිලධාරිවරයා සහ මුදල් අයකැමි ඩිපෝව තුළ රැඳී සිට ඇතත්, ඔවුන් නින්දට ගොස් සිටියදී මෙම ඝාතනය සිදුකර ඇති බව නුවරඑළිය පොලීසිය සඳහන් කළේය.
 
-The Nuwara Eliya Police too has also launched an investigation into the incident.
-
-The victim has been identified as a resident of the Galuwa area in Nuwara Eliya, Nuwara Eliya. A 85-year-old named Laggerswaran.
-
-Initiative investigations have revealed that a group of more than Rs.
-
-It has been revealed that the watchman has stayed in his safety booth and a person or a person has attacked his head with a sharp instrument and killed the money.
-
-Nuwara Eliya Police said that the murder had been carried out while he was going to bed when the murder had taken place.
-
-Nuwara Eliya CTB Depot said that the revenue was placed in the depot in the evening yesterday (05) was placed on the cupboard to bance the income.
+ඊයේ (05) හවස එම ඩිපෝවේ ධාවනය කළ බස්වල ආදායම බැංකුගත කිරීම සඳහා අල්මාරියේ තබා තිබු බව නුවරඑළිය ලංගම ඩිපෝවේ නිලධාරියෙකු කියාසිටියේය.
 
 ◼️
 
 [Data](articles/898c3f75.json)
 
-[Extended Data](ext_articles/898c3f75.ext.json)
-
 ---
 
-### Opposition to be appointed as the Chairman of the Kopyra Committee
+### කෝපා කමිටුවේ සභාපති ධුරය විපක්ෂයට
 
 *2024-12-06 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204091) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+රජයේ ගිණුම් පිළිබඳ කාරක සභාව හෙවත් කෝපා කමිටුවේ සභාපති ධුරය විපක්ෂයට ලබාදීමට තීරණය කර තිබෙන බව සභානායක අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
 
+පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව නැතිනම් පක්ෂ නායක රැස්වීම සම්බන්ධයෙන් අද (6) පාර්ලිමේන්තුවේදී මතු වූ ප්‍රශ්නයකට පිළිතුරු ලබාදෙමින් ඔහු මේ බව පවසා සිටියේය.
 
+ඒ පිළිබඳ වැඩිදුරටත් අදහස් දැක් වූ සභානායක බිමල් රත්නායක මහතා,
 
-Opposition to Bimal Ratnayake's appointment as COPE Chairman: Minister claims it's not requested, violates standing orders, and doesn't want a government minister heading the committee. Decision expected today.
+"රාජ්‍ය ගිණුම්කාරක සභාවේ සභාපති ධුරය විපක්ෂයට ලබාදීමට අපි තීන්දු කර තිබෙනවා. ඒක ඔබතුමාලා ඉල්ලපු දෙයක් නෙමෙයි. ඒ වගේම රාජ්‍ය ගිණුම්කාරක සභාවේ සාමාජික සංඛ්‍යාව වැඩිකරලා තිබෙනවා ස්ථාවර නියෝගවලට වඩා වැඩියෙන්.
 
-🟩
+කෝප් කමිටුවේ (පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව) සභාපතිකම අපි කිව්වා ඒක ආණ්ඩු පක්ෂයට අවශ්‍යයි කියලා. පළමු කාලයේදී පරීක්ෂා කරන්න වෙන්නෙ පසුගිය ආණ්ඩුවේ දේවල්. අපි කැමති නැහැ ඒ ආණ්ඩුවේ ඇමති කෙනෙක් ඇවිල්ලා කෝප් එකේ සභාපති වෙනවට. ඒක සදාචාර සම්පන්න නෑ".
 
-Minister Bimal Ratnayake said that the Chairman of the Committee on Public Accounts or the Chairman of the Kopay Committee.
-
-He was responding to a question raised by Parliament today (6) regarding the party leaders' meeting or party leaders meeting.
-
-Leader of the House of Leader Bimal Ratnayake, Speaking further,
-
-"We have decided to give the post of Chairman of the Public Accounting Council to the Ordinance. It's not asking for you. Also, the number of members of the Public Accounts has increased higher than Standing Orders.
-
-Chairman of the COPE Committee (Committee of the Public Enterprises) We said that the ruling party needed it. In the first time, the things of the last government. We don't like a government minister coming from the chairman of the coop. It's not morally ".
-
-Meanwhile, the House for his parents said that the House was taken up from January 31 this morning.
-
-He also decided to take a decision on appointment this afternoon.
+මේ අතර අද උදෑසන පාර්ලිමේන්තු කටයුතු ආරම්භකළ අවස්ථාවේදී සභානායක වරයා පවසා සිටියේ ආංශික කාරක සභාව පත්කිරීමට ජනවාරි මස 31 දක්වා කාලය ලබාගෙන තිබෙන බවයි.
 
 ...
 
 [Data](articles/bfbca854.json)
-
-[Extended Data](ext_articles/bfbca854.ext.json)
 
 ---
 
@@ -2299,5 +2201,65 @@ Recently, Large Patti, Alva Ruwan Kumara has been released by the Belarus Author
 [Data](articles/0dfe358b.json)
 
 [Extended Data](ext_articles/0dfe358b.ext.json)
+
+---
+
+### Media freedom is not allowed
+
+*2024-12-05 19:55:06* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-නිදහස-අඩපණ-කරන්න-දෙන්නේ-නෑ/11-413491) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake addresses media heads, emphasizing media freedom and combating misinformation harmful to national unity. He calls for a better political culture and economic development.
+
+🟩
+
+President Anura Kumara Dissanayake said that he is not as part of the media, but also partners as partners in the service of all citizens to build a better state.
+
+The President was speaking at the Presidential Secretariat today (05) with the heads of electronic media institutions.
+
+The President is expected to expect a good political culture and the President is one of the new political, social and economic difference in the country.
+
+President Anura Kumara is also not able to report false information that is harmful to national unity
+
+Foreign Anura Kumara Dissanayake who remembers that we were faced by racism as a country as a country, we would never allow racism and to cut the media's freedom or pruning
+
+The President expressed the government's stand on several topics that have been discussed in the country.
+
+...
+
+[Data](articles/9c6d60d3.json)
+
+[Extended Data](ext_articles/9c6d60d3.ext.json)
+
+---
+
+### Racism is not going to be allowed to repeat;President
+
+*2024-12-05 19:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனவாதத்தை-மீண்டும்-அனுமதிக்கப்-போவதில்லை-ஜனாதிபதி/175-348308) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake vows against racism, ensures media freedom. Promises better political culture & economic change. Emphasizes anti-poverty & Clean Sri Lanka programs.
+
+🟩
+
+President Anura Kumara Dissanayake today (05) said that he would never allow communalism again and that he was not prepared to prevent or limit media freedom in any way.
+
+The President made this statement during a meeting held at the Presidential Office with the chiefs of electronic media institutions.
+
+The President said that the people are expecting a better political culture and that the people have elected the current government, and that all media institutions have invited all media institutions to make a new political, social and economic change.
+
+President Anura Kumara Dissanayake has asked the media company chiefs not to publish false information on national integrity, even if there is no restriction on the media to question or criticize the government at any time on political and economic matters.
+
+...
+
+[Data](articles/9778c9ed.json)
+
+[Extended Data](ext_articles/9778c9ed.ext.json)
 
 ---

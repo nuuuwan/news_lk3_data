@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 17:11:36**
+As of **2024-12-06 15:42:44**
 
 ## Newspaper Stats
 
-*Scraped **58,837** Articles*
+*Scraped **58,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,313 +16,39 @@ islandlk | 3,534
 economynextcom | 3,575
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,577
-adaderanalk | 7,146
-tamilmirrorlk | 8,389
-virakesarilk | 9,637
-adaderanasinhalalk | 10,163
+adalk | 5,576
+adaderanalk | 7,144
+tamilmirrorlk | 8,388
+virakesarilk | 9,633
+adaderanasinhalalk | 10,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,829 (100.0%) of 58,837 articles have been extended.
+58,812 (100.0%) of 58,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### Interim order issued against increasing liquor license fees
-
-*2024-12-06 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104045/interim-order-issued-against-increasing-liquor-license-fees) · `en`
-
-The Supreme Court has issued an interim injunction order preventing the implementation of a Gazette notification issued by the previous government to increase the  annual fee for liquor licenses.
-
-The three-judge bench, comprising Justices A.H.M.D. Nawaz, Kumuduni Wickramasinghe, and Priyantha Fernando, issued this order while granting leave to proceed with the fundamental rights petition filed by the Sri Lanka Liquor Licensees’ Association.
-
-The petition, which names the Secretary to the Ministry of Finance and several others as respondents, argues that increasing the annual fee to Rs. 20 million, stipulated in the 2024/1 gazette notification, causes severe injustice to license holders and constitutes a violation of their fundamental rights.
-
-The petitioners requested the court to issue a directive to relevant authorities to revert to the fee structure back to the one outlined in the 2017 Gazette notification.
-
-◼️
-
-[Data](articles/4af66725.json)
-
-[Extended Data](ext_articles/4af66725.ext.json)
-
----
-
-### Spanish woman attacked a tourist
-
-*2024-12-06 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200580) · `ta`
-
-Spanish tourist attacked on train, 2 arrested, remanded until 18th. Victim recovered stolen phone from police. Incident occurred between Hatton and Vattawala.
-
-🟩
-
-Two persons were arrested by the police for allegedly attacking a foreign woman who was traveling on a train from Colombo Fort to Badulla to Badulla.
-
-After the hearing, the Hatton Magistrate's Court has ordered the two suspects to be remanded until the 18th of this month when the two suspects were produced before the Hatton Magistrate's Court.
-
-Two of the 23 and 26 years of age from Rosella and Wickton, which belongs to the Vattawala Police Division, have been detained.
-
-A 36 -year -old Spanish tourist who was traveling from Colombo Fort to Ella on Wednesday (4)
-
-The woman has lodged a complaint with Ella Tourism Police that two youths standing on the road, near the railway line, have hit her hand with a stick and that her mobile phone worth Rs 5 lakh has fallen down.
-
-The incident between Hatton and Vattawala was reported to the Vattawala police about the incident.
-
-Subsequently, the police, who were investigating, arrested the two suspects on the night of the incident.
-
-...
-
-[Data](articles/7189d1b8.json)
-
-[Extended Data](ext_articles/7189d1b8.ext.json)
-
----
-
-### Heroin drug sales via WhatsApp - former army soldier arrested
-
-*2024-12-06 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200579) · `ta`
-
-Former soldier arrested for heroin sales in Bandarawela. Police seized 320 small packets worth Rs 30 lakh. Suspect linked to international drug dealer.
-
-🟩
-
-The Criminal Investigation Department of the Bandarawela Police said that a former soldier soldier who was involved in heroin sales in Bandarawela was arrested with 320 heroin narcotics with small sides worth about Rs 30 lakh.
-
-A 40 -year -old former army soldier from Ambakastova, Welimada, who is temporarily staying at Perera Mawatha in Bandarawela, has been arrested, police said.
-
-Officials of the Bandarawela Police Station Criminal Investigation Department (CID) raided the rented house in Bandarawela and the suspect was selling heroin in small packets and then arrested, police said.
-
-Police suspect that a major drug dealer abroad is carrying out the drug trade.
-
-◼️
-
-[Data](articles/f8c5aa81.json)
-
-[Extended Data](ext_articles/f8c5aa81.ext.json)
-
----
-
-### A company raided by producing quality water bottles
-
-*2024-12-06 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204104) · `si`
-
-Company raided for producing water bottles with expired health certificates. Authorities seized over 1000 liters of water and 500ml bottles. Consumer Affairs Authority plans legal action against the manufacturer for violating regulations.
-
-🟩
-
-The Consumer Affairs Authority raided an institution to manufactured drinking water bottles, including false information and including false information.
-
-According to a complaint, the Authority's Investigations Officers in Mawanegama area have been raided at Mawanegama.
-
-It has been revealed that the registration certificate obtained from the Ministry of Health with the expiration of the information, it has been used by the use of drinking water bottles.
-
-The officers of 500 millilitar bottles of 500 millilitaries, 584 liters of water, 576 liters and 19 liters of water, were taken into custody.
-
-The Consumer Affairs Authority said that according to the Act, the bill is a fault that it is necessary to sue against the relevant business agency as the bill is a fault.
-
-◼️
-
-[Data](articles/a5d24b4e.json)
-
-[Extended Data](ext_articles/a5d24b4e.ext.json)
-
----
-
-### Arrested in Gem Excavation
-
-*2024-12-06 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200582) · `ta`
-
-Gem excavation arrest: One person detained for digging 60-foot deep site at Tinsin Tea Estate in Bogawantalawa police division.
-
-🟩
-
-Bogawantalawa Police Station Officer Nuwan Madusanga said that one person was arrested on suspicion of excavation of a gem of a depth of about 60 feet at the Tinsin Tea Estate belonging to the Bogawantalawa police division.
-
-The man was washing the soil of the gems, which was dug up on the tea mountainside near the corridor of Bogawantalawa.
-
-◼️
-
-[Data](articles/f6c32bac.json)
-
-[Extended Data](ext_articles/f6c32bac.ext.json)
-
----
-
-### Liquor Licensing issue;Ranil's report is coming
-
-*2024-12-06 16:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதிப்பத்திர-விவகாரம்-வருகின்றது-ரணிலின்-அறிக்கை/175-348356) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil Wickremesinghe's Democratic Front to release report on liquor licensing under previous government. Responds to Parliament comments about 361 permits issued during last election. Bimal Ratnayake presented liquor list in Parliament.
-
-🟩
-
-The new Democratic Front, led by former President Ranil Wickremesinghe, is due to release a detailed report on the allegation that the liquor permit has been issued during the previous government.
-
-The new Democratic Front said the report would be detailed in detail regarding the issuance of appropriate permits.
-
-The new Democratic Front was responding to a comment in Parliament on the issue of 361 liquor permits during the last election.
-
-In addition, Bimal Ratnayake presented the Liquor List in Parliament by the last government.. Remble
-
-◼️
-
-[Data](articles/2aa08abe.json)
-
-[Extended Data](ext_articles/2aa08abe.ext.json)
-
----
-
-### Cabraal returns to Greek bond case
-
-*2024-12-06 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204103) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ajith Nivard Cabraal's Greek bond case heard in Colombo High Court. Lawyers argued against legal procedures, requesting court maintain status quo and release defendants. Bribery Commission lawyer set January 23 for initial objections submission.
-
-🟩
-
-The case including former Central Bank Governor Ajith Nivard Cabraal, who was filed against the Government of Sri Lanka, was reported before the Colombo High Court today by investing over Rs.
-
-When the case was taken up, the lawyers who appeared before the courts in the courts were completely contrary to the law.
-
-Accordingly, the lawyers asked the court to maintain it and to release the defendants.
-
-Attorney at the Bribery Commission, the lawyer appeared for the Bribery Commission to give a date to give these initial objections.
-
-The court ordered that the protests were submitted on January 23.
-
-◼️
-
-[Data](articles/44385e94.json)
-
-[Extended Data](ext_articles/44385e94.ext.json)
-
----
-
-### Jaime Ravi's 'Brother' welcomed in digital spectators
-
-*2024-12-06 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200591) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Jayam Ravi's 'Brother' released digitally on Nov 29. Mixed reviews but achieved 100+ million views quickly. Directed by Priyanka Arul Mohan, featuring Harris Jayaraj's music."
-
-🟩
-
-Jayam Ravi, the leading star actor of the Tamil film industry, is released on Diwali on October 31st last year.. The film, which has been a full -fledged entertainment portrait of family, brotherly affection, sentiment, love, has received mixed reviews and welcome.
-
-However, the film was released at the end of November on the G5 digital site.
-
-The film is set to achieve a hundred million view minutes within a short time of the digital site.
-
-Although the films starring leading star actors have been released in the filmmaker and have not been critically expected, the film has been released on digital and failing fans.
-
-Jaime Rathi's film 'Brother' was released on Diwali on November 29th on the 29th of November.
-
-Due to the fan of the fans, especially the family fans, the film has been a record of over a hundred million minutes within a short period of time.
-
-The film was directed by M.. Priyanka Arul Mohan, Rao Ramesh and V TV Ganesh with Rajesh Ravi have played a large number of leading stars.
-
-...
-
-[Data](articles/9d69b302.json)
-
-[Extended Data](ext_articles/9d69b302.ext.json)
-
----
-
-### Shammi Silva appointed as the Asian Cricket Council
-
-*2024-12-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204102) · `si`
-
-Shammi Silva named Chairman of Asian Cricket Council. Formerly Chairman of Finance and Marketing Committee. Previously led Sri Lanka Cricket. Appointed after previous Chairman became India President. Also serves as ICC Chairman.
-
-🟩
-
-Shammi Silva, Chairman of Sri Lanka Cricket, has been appointed as the Chairman of the Asia Cricket Council.
-
-He has served as the Chairman of the Finance and Marketing Committee of the Asia Cricket Council for several years.
-
-Prior to the previous Asia Cricket Council Chairman was appointed as the President of India.
-
-He was appointed as the Chairman of the International Cricket Council.
-
-◼️
-
-[Data](articles/05cff6fa.json)
-
-[Extended Data](ext_articles/05cff6fa.ext.json)
-
----
-
-### Shammi Silva assumes Presidency of Asian Cricket Council
-
-*2024-12-06 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104044/shammi-silva-assumes-presidency-of-asian-cricket-council) · `en`
-
-The Asian Cricket Council (ACC) today announced that Mr. Shammi Silva, President of Sri Lanka Cricket, has officially assumed the Presidency of the ACC.
-
-Mr. Silva brings extensive expertise to the role, having served as the Chairman of the ACC Finance & Marketing Committee for several years, the statement said.
-
-As he takes the helm, Mr Silva expressed his gratitude and shared that: “It is a great honour to lead the Asian Cricket Council. Cricket is the heartbeat of Asia, and I look forward to working closely with all member nations to elevate the game, provide opportunities for emerging talent, and strengthen the bonds that unite us through this beautiful sport.”
-
-On behalf of the ACC, Mr. Silva also extended heartfelt gratitude to the outgoing President, Mr. Jay Shah, for his exemplary leadership and significant contributions during his tenure.
-
-...
-
-[Data](articles/053096bf.json)
-
-[Extended Data](ext_articles/053096bf.ext.json)
-
----
-
-### වයස 73ක් වූ ඇයව වෙඩිතබා ඝාතනය කිරීමට තරම් වරද කුමක්ද?
-
-*2024-12-06 15:29:00* · [`adalk`](https://www.ada.lk/breaking_news/වයස-73ක්-වූ-ඇයව-වෙඩිතබා-ඝාතනය-කිරීමට-තරම්-වරද-කුමක්ද-/11-413494) · `si`
-
-පදවිය - බෝගහවැව ප්‍රදේශයේ නිවසක ජීවත්වූ කාන්තාවකට යතුරුපැදියකින් පැමිණි නාදුනන පුද්ගලයන් දෙදෙනෙකු විසින් ඊයේ (05) දා රාත්‍රයේ ඩිතබා පලාගොස් ඇත. තුවාලකාරිය ප්‍රථිකාර සඳහා පදවිය රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇත.  මෙම වෙඩිතැබීම සඳහා ටී 56 වර්ගයේ ගිනි අවියක් භාවිත කොට ඇති බව පොලිසිය සැක කරන අතර වෙඩිතැබීමට හේතුවක් හෝ  සැක කරුවන් පිලිබඳ මෙතෙක් තෙරතුරු අනාවරණය වී නෙමැති බව පවසයි.
-
-◼️
-
-[Data](articles/55ecb290.json)
-
----
-
-### African first innings score 358
+### ද අප්‍රිකානු පළමු ඉනිම ලකුණු 358යි
 
 *2024-12-06 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204101) · `si`
 
-Sri Lanka vs South Africa Test: South Africa scored 358 in first innings. Ricans top-scored with 101, including 11 fours off 250 balls. Thambba added 78. Lahiru Kumara took 4/79 and Fernando 3/65.
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ පළමු ඉනිම ක්‍රීඩා කළ දකුණු අප්‍රිකාව සියලුදෙනා දැවී ලකුණු 358ක් රැස්කර ගත්තේය.
 
-🟩
+දකුණු අප්‍රිකානු ඉනිම ඔසවා තැබූ රයන් රිකල්ටන් සිය ටෙස්ට් ක්‍රිකට් දිවියේ පළමු ශතකය රැස්කරමින් ලකුණු 101ක් ඉනිමට එක් කළේය.
 
-South Africa scored 358 runs in the first innings of the second Test match between the Sri Lankan team and South African group.
+පන්දු 250කට මුහුණදුන් රිකල්ටන්ගේ ඉනිම තුළ හතරේ පහර 11ක් ඇතුළත් විය.
 
-Ryan Ricans raised in the South African innings scored 101 runs in their Test cricket.
+ඔහුට අමතරව මෙම තරගයේදී ද සාර්ථක වූ නායක ටෙම්බා බවුමා ලකුණු 78ක් රැස්කිරීමට සමත් විය.
 
-The innings of Ricton, who faced 250 balls, included 11 fours.
-
-In addition to him, the leader Thambba scored 78 runs.
-
-Lahiru Kumara took 4 wickets for 79 runs and 3 wickets and universal Fernando scored two runs for 65 runs.
+පන්දු යැවීමේ දී ළහිරු කුමාර ලකුණු 79කට කඩුලු 4ක් දවාගත් අතර, අසිත ප්‍රනාන්දු ලකුණු 102කට කඩුලු 3ක්ද, විශ්ව ප්‍රනාන්දු ලකුණු 65කට කඩුලු 2ක් දවාගත්හ.
 
 ◼️
 
 [Data](articles/2f59a954.json)
-
-[Extended Data](ext_articles/2f59a954.ext.json)
 
 ---
 
@@ -412,29 +138,19 @@ Director of the Department of Hindu Religious and Cultural Affairs. Anirudna was
 
 ---
 
-### Age crosses the bear couple in Pinnawala and the leopard
+### පින්නවල වලස් ජෝඩුවට හා දිවියන්ට වර්ගයා බෝකරන්න  වයස හරස් වෙලා
 
 *2024-12-06 14:35:49* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-වලස්-ජෝඩුවට-හා-දිවියන්ට-වර්ගයා-බෝකරන්න--වයස-හරස්-වෙලා/11-413493) · `si`
 
-Here's a summary of 200 characters:
+වඳවීයාමේ තර්ජනයට ලක්ව ඇති මෙරටට අවේණික සත්ව විශේෂ සුරැකීමේ අරමුණින් පිහිටවූ පින්නවල සත්වෝද්‍යානයේ සිටින  මෙරටට  ආවේණික  ගැහැණු හා පිරිමි වලසුන් දෙදෙනා සහ දිවියන් පස්දෙනා අතර පවතින වයස් පරතරයන් ඇතුළු  නොගැලපීම් හේතුවෙන් ඔවුන්ගේ පැටවුන් බිහිවී නොමැති බව ජාතික විගණන කාර්යාලය ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව වෙනුවෙන් නිකුත්කළ විගණන වාර්තාවක් මගින්  අනාවරණය කරයි.
 
+මේ පිළිබඳව අදහස් දක්වමින් ජාතික සත්වෝද්‍යාන දෙපාර්තමේන්තුව විගණනයට දැනුම් දී ඇත්තේ පිරිමි වලසාට සුදුසු ගැහැණු වලසුන් ලබා ගැනීමට වනජීවී දෙපාර්තමේන්තුවට ඉල්ලුම් කර ඇතත් අධිකරණමය තීන්දුවක් හේතුවෙන් එවැනි  ගැහැණු වලසුන් වනයෙන් ලබා ගැනීමට නොහැකිවී ඇති බවයි.
 
-
-Pinnawala bears and leopards face challenges: incompatible species, lack of suitable females, no artificial breeding program. The National Zoological Department seeks solutions, but judicial decisions hinder progress.
-
-🟩
-
-The National Audit Office reveals that their calves have not been created due to the incompatible species of non-permanent species and the number of leopard species of the Pinnawala.
-
-The National Zoological Department has asked the audit that the male bear has applied to the Wildlife Department, but it is not possible to get such female decisions due to a judicial decision.
-
-Although there is a leopard for breeding, they have no program to board the leopards from artificial incharge due to natural breeding.
+අභිජනනයට සුදුසු දිවියන් සිටියද ඔවුන් ස්වභාවික අභිජනනය මගින් පැටවුන් බිහිවීම නොකිරීම නිසා කෘත්රිම සිංචනයෙන් දිවියන් බෝකර ගැනීමට වැඩ සටහනක් ආරම්භ කරන බවද එම දෙපාර්තමේන්තුව විගණනය වෙත  වැඩි දුරටත් දන්වා  ඇත.
 
 ◼️
 
 [Data](articles/c313e70b.json)
-
-[Extended Data](ext_articles/c313e70b.ext.json)
 
 ---
 
@@ -2391,5 +2107,207 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/9a6f28f9.json)
 
 [Extended Data](ext_articles/9a6f28f9.ext.json)
+
+---
+
+### Microsoft hosts ‘Scaling AI at Work’ to drive AI-first innovation for Sri Lankan businesses
+
+*2024-12-06 02:22:00* · [`islandlk`](http://island.lk/microsoft-hosts-scaling-ai-at-work-to-drive-ai-first-innovation-for-sri-lankan-businesses/) · `en`
+
+Microsoft ignited the ‘Scaling AI at Work’ event in Sri Lanka on 26 November 2024, providing a dynamic platform for key customers and partners to delve into the transformative potential of AI. The event showed how Microsoft AI is sparking success among its customers, effectively enriching employee experience and driving business processes with the use of an AI platform that is secure, safe, and private.
+
+Dr. Rohini Srivathsa, Chief Technology Officer for Microsoft India and South Asia, led a power track on ‘The Art of Possible with AI for Productivity’. In her session, Dr. Srivathsa discussed the extensive suite of AI models accessible through the Microsoft platform, emphasizing that unlocking its true potential hinges not only on the prompts customers use, but also the context of one’s work. She elaborated on how AI is reshaping business transformation and the critical importance of responsible AI practices, reaffirming Microsoft’s stance on protecting customer data.
+
+...
+
+[Data](articles/015d8233.json)
+
+[Extended Data](ext_articles/015d8233.ext.json)
+
+---
+
+### The government acts arbitrarily
+
+*2024-12-06 02:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-தன்னிச்சையாக-செயற்படுகிறது/175-348329) · `ta`
+
+Government acts arbitrarily: MP accuses lack of fulfillment of proposals. Parliament session rules ignored. State Financial Management Act not followed. Grievances need correction.
+
+🟩
+
+The polls can be put forward only when the proposal has been put forward and not fulfilled.. United People's Power MP Dayasiri Jayasekara accused the government of acting arbitrarily as he has a majority.
+
+Parliament met at 9.30 am on Thursday (05) under the leadership of Speaker Asoka Ranwala. Dayasiri Jayasekara MPHe sought permission from the Speaker to raise the issue of privilege violation.
+
+However, the issue of privilege you put forward on Thursday (05) was available at 9.25 am and the date was not mentioned on the date.. So I had to discuss this on this issue.
+
+Responding to this, Dayasiri Jayasekara MP said that before the inauguration of the parliamentary session, the issue could be presented at 9.30 am.
+
+...
+
+[Data](articles/20539388.json)
+
+[Extended Data](ext_articles/20539388.ext.json)
+
+---
+
+### HUTCH launches podcast series “Meet the Tech Titans” to empower Sri Lanka’s digital economy
+
+*2024-12-06 01:41:00* · [`islandlk`](http://island.lk/hutch-launches-podcast-series-meet-the-tech-titans-to-empower-sri-lankas-digital-economy/) · `en`
+
+HUTCH will unveil an exciting new podcast series titled “Meet the Tech Titans”. This initiative is designed to showcase the journeys and insights of some of the most prominent tech leaders, innovators, and entrepreneurs shaping the nation’s digital transformation. With a strong focus on fostering digital awareness, the podcast series aligns with the government’s vision of establishing a robust Digital Economy.
+
+...
+
+[Data](articles/d2ad616c.json)
+
+[Extended Data](ext_articles/d2ad616c.ext.json)
+
+---
+
+### The George Keyt Foundation unveils a distinguished line-up of Sri Lankan artists for upcoming auction conducted by Sotheby’s
+
+*2024-12-06 01:40:00* · [`islandlk`](http://island.lk/the-george-keyt-foundation-unveils-a-distinguished-line-up-of-sri-lankan-artists-for-upcoming-auction-conducted-by-sothebys/) · `en`
+
+Sotheby’s conducts its first ever Auction celebrating contemporary and modern Sri Lankan artists
+
+The eagerly anticipated first-ever art auction conducted by Sotheby’s in Sri Lanka, presented by the George Keyt Foundation, continues to generate excitement with the unveiling of the distinguished line-up of artists.
+
+The landmark event aims to bring together an extraordinary constellation of Sri Lanka’s most celebrated contemporary and modern artists whose works will be showcased and sold in an unprecedented charity auction.
+
+...
+
+[Data](articles/dc13063f.json)
+
+[Extended Data](ext_articles/dc13063f.ext.json)
+
+---
+
+### NDB Kotahena branch sets a new benchmark with record-breaking CEO’s Club achievement
+
+*2024-12-06 01:39:00* · [`islandlk`](http://island.lk/ndb-kotahena-branch-sets-a-new-benchmark-with-record-breaking-ceos-club-achievement/) · `en`
+
+NDB Bank proudly celebrates the exceptional performance of its Kotahena Branch, which has achieved a monumental milestone in the bank’s history. The branch has become the first in NDB’s history to produce an unprecedented all 12 branch staff members qualify for the elite CEO’s Club members in a single year 2024 with a remarkable YTD achievement of Rs.37 million, cementing its position as the highest performer across the entire network.
+
+This historic achievement is a testament to the Kotahena Branch team’s relentless dedication, exceptional teamwork, and commitment to delivering customer-centric solutions. By placing the needs of customers at the forefront, the team has demonstrated the true spirit of excellence that NDB strives for.
+
+...
+
+[Data](articles/1e317f5c.json)
+
+[Extended Data](ext_articles/1e317f5c.ext.json)
+
+---
+
+### யாழ்ப்பாண வெற்றி  தேசிய மக்கள் சக்தியின் தேர்தல் கிரீடத்தில் பெறுமதியான  அணிகலன்: யாழ்ப்பாணத்தில் தேசிய மககள் சக்தி ஏன், எவ்வாறு வெற்றி பெற்றது?
+
+*2024-12-06 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85173) · `en`
+
+தமிழ்த் தேசியவாதத்தின்  கோட்டையான யாழ்ப்பாணத்தைச் சூழ்ந்த அநுரா அலை பற்றியதாக எனது கடந்த வாரத்தைய கட்டுரை அமைந்திருந்தது. ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி.) தலைமையிலான தேசிய மக்கள் சக்தி 2024 நவம்பர் பாராளுமன்ற தேர்தலில் யாழ்ப்பாணத்தில்  அதிகூடிய வாக்குகளைப் பெற்ற தனிக்கட்சியாக வரலாறு படைத்தது. இலங்கை தமிழர்களின் பண்பாட்டுத் தலைநகரம் என்று வர்ணிக்கப்படும் யாழ்ப்பாணத்தின் ஆறு பாராளுமன்ற ஆசனங்களில் தேசிய கட்சிக்கு மூன்று ஆசனங்கள் கிடைத்தன.
+
+நவம்பர் 14  தேர்தல் தீர்ப்பு இலங்கையின் சுதந்திரத்துக்கு பின்னரான வரலாற்றில் இந்த தமிழ்த் தேசியவாதக் கோட்டை முதற்தடவையாக அதுவும்  சிங்களவர்களின் ஆதிக்கத்தில் உள்ள  ஒரு தேசியக்கட்சியினால் தகர்க்கப்பட்டதை குறித்து நிற்கிறது. இந்த கட்டுரை யாழ்ப்பாணத்தில் தேசிய மககள் சக்தி ஏன், எவ்வாறு வெற்றி பெற்றது என்பதை விபரிக்கிறது.
+
+...
+
+[Data](articles/16647881.json)
+
+[Extended Data](ext_articles/16647881.ext.json)
+
+---
+
+### A fifth-year accolade: In precious memory of Dr Sarojini Perera
+
+*2024-12-06 00:59:00* · [`islandlk`](http://island.lk/a-fifth-year-accolade-in-precious-memory-of-dr-sarojini-perera/) · `en`
+
+Today, we commemorate the fifth anniversary of my eternally cherished wife Dr Malwattage Josephine Sarojini Perera (nee Peeris) leaving this mortal world. It has been five years of intense desolation and loneliness for all of us in the family, as well as our friends since she left this planet Earth. However, the memories of her life remain vivid; her ever-present spirit is so much with us, and her heritage is eternally enduring. She was ever so beautiful in her physical profile as much as from deep within the interior of her human form. She was not merely a remarkable individual, but a dazzling beacon of compassion, an embodiment of love, and an eternal source of inspiration for those fortunate enough to cross paths with her.
+
+...
+
+[Data](articles/029bfefe.json)
+
+---
+
+### All quiet on home front – hence peek overseas
+
+*2024-12-06 00:54:00* · [`islandlk`](http://island.lk/all-quiet-on-home-front-hence-peek-overseas/) · `en`
+
+Things seem to be moving well in our beloved country and this is a great change from how things were before September and in the past years.  We could only wring our hands in consternation and cry out “When will our lives improve? When will Sri Lanka rise to be the country, we older ones knew?” We witnessed wanton extravagance in government spending; corruption all across the political and bureaucratic boards, and the poor getting poorer and more destitute.
+
+Of course there is still criticism, which is as it should be. The NPP is far from a magic wand. Time is needed to show improvement in the general well-being of the people. What we need to have now is patience and faith in the new set of leaders we have elected to power.
+
+...
+
+[Data](articles/0bcdc550.json)
+
+---
+
+### The National People's Power Government has allocated funds for debt before the government has been signed - Kabir Hashim
+
+*2024-12-06 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200540) · `ta`
+
+National People's Power Government allocates funds for loans before agreement. Criticizes international bail bonds. Kabir Hashim speaks against system changes in agriculture and industry. No clear economic plan or cost management. Privileges for former President Ranil Wickremesinghe unchanged despite claims.
+
+🟩
+
+The National People's Power Government has allocated funds for loans before the signing of the agreement, which criticized the loans from international bail bonds.United People's Power MP Kabir Hashim said that the government seems to be going to sign a business loan agreement.
+
+He was speaking at the debate on the government's interim report on Thursday (5) in Parliament.
+
+Can't expect any system change in the administration of national people's power. If the traditional agricultural system is wrong to go to the joint agricultural system. Similarly, if the industrial sector is wrong, you have to go to the state -owned industrial industry.
+
+There is no change in the president's policy speech and the interim reports that are currently put forward. Economic Deputy Minister presented the interim report. But the need for millions of funds and the cost management is not clarified to the council.
+
+...
+
+[Data](articles/6234dd4b.json)
+
+[Extended Data](ext_articles/6234dd4b.ext.json)
+
+---
+
+### Saudi Arabia, Archive of Summit Conferences and the world's compass
+
+*2024-12-06 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200538) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Saudi Arabia hosts numerous international summits and conferences, showcasing its leadership in politics, economics, defense, and environment. Recent events include Arab-Islamic summits, mining conferences, real estate forums, aviation gatherings, fintech meetings, logistics forums, and UNIDO industrial policy councils. These events attract global leaders, fostering cooperation and economic growth.
+
+🟩
+
+Saudi Arabia has established its leadership in the Arabian, Islamic and international halls, which has established its leadership in the holding of international summit and conferences, a nation that has become a lighthouse, a decision -making site, and a nation that has been followed in every forum.
+
+For decades, Saudi Arabia has held many summits with the participation of presidents and world leaders of the world, discussing international issues and presenting effective solutions to common challenges. Thus, Saudi Arabia is holding from Arabia, Islamic, Arab and International Conferences and Meetings. These summits and conferences are different types of. And Saudi Arabia is the main standard axis, and it is at the forefront of working countries aimed at creating peace and sustainable development. It also serves as a manner in which humanity will benefit the welfare of the people of the world.
+
+...
+
+[Data](articles/36a3b008.json)
+
+[Extended Data](ext_articles/36a3b008.ext.json)
+
+---
+
+### 2024-12-05 (Thursday)
+
+### The President's advisory to pay special attention to renewable renewal sources
+
+*2024-12-05 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200542) · `ta`
+
+President emphasizes renewable energy focus: Meeting discusses solar power expansion and contract review.
+
+🟩
+
+A meeting between President Anura Kumara Dissanayake and officials of the Ministry of Power was held at the Presidential Office on Thursday afternoon.
+
+Special attention was paid to the reinforcement of the reinforcement and the solar power program was extensively investigated.. The President insisted that the contracting programs would be reviewed and the useful programs of the contracting programs were to be launched soon and advised to take appropriate measures if the contracting programs were ineffective.
+
+Minister of Electricity Engineer Kumara JayakodySeveral senior officials, including Rajakaruna, were present at the discussion.
+
+◼️
+
+[Data](articles/d54ca4a7.json)
+
+[Extended Data](ext_articles/d54ca4a7.ext.json)
 
 ---

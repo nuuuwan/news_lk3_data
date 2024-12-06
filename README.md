@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 23:26:25**
+As of **2024-12-06 22:16:42**
 
 ## Newspaper Stats
 
-*Scraped **58,889** Articles*
+*Scraped **58,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,76 +17,20 @@ economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,581
-adaderanalk | 7,152
+adaderanalk | 7,151
 tamilmirrorlk | 8,398
 virakesarilk | 9,650
-adaderanasinhalalk | 10,174
+adaderanasinhalalk | 10,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,886 (100.0%) of 58,889 articles have been extended.
+58,876 (100.0%) of 58,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
-
-### මැතිව්ස් ටෙස්ට් ලකුණු 8000 ඉක්මවයි
-
-*2024-12-06 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204116) · `si`
-
-සිය ටෙස්ට් දිවියේ ටෙස්ට් ලකුණු 8000 සීමාව පසු කර යාමට ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ඇන්ජලෝ මැතිව්ස් සමත් විය.
-
-ඒ අද (6) පැවැති ශ්‍රී ලංකාව සහ දකුණු අප්‍රිකාව අතර තරගයේදී නොදැවී ලකුණු 40ක් ලබාගනිමිනි.
-
-ඒ අනුව ඔහු ශ්‍රී ලංකාව වෙනුවෙන් ටෙස්ට් ලකුණු 8000 සීමාව පසුකළ තුන්වැනි ක්‍රීඩකයා ද වේ.
-
-මෙහි පෙරමුණේ පසුවන්නේ හිටපු ක්‍රීඩක කුමාර සංගක්කාර වන අතර ඔහු ලකුණු 12,400ක් ලබා ගැනීමට සමත්විය.
-
-◼️
-
-[Data](articles/541b9c72.json)
-
----
-
-### වසර 15ක් සේවය කළ CT ස්කෑන් යන්ත්‍රයට මහනුවර රෝහලේදී ගෞරවාන්විත සමුදීමක්
-
-*2024-12-06 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204115) · `si`
-
-පුරා වසර 18ක් ලක්ෂ සංඛ්‍යාත රෝගීන් පිරිසකගේ රෝග නිධාන සොයා දෙමින් දහස් සංඛ්‍යාත වෛද්‍ය සිසුන්ට තම වෘත්ති දැනුම ලබා ගැනීමට මහෝපකාරී වූ CT ස්කෑන් යන්ත්‍රයක විරල සමුගැනීමක් මහනුවර ජාතික රෝහලෙන් අද (06) වාර්තා විය.
-
-මහනුවර ජාතික රෝහලේ විකිරණ විද්‍යා  අංශයේ විශේෂඥ වෛද්‍ය ගංගානාත් රුද්‍රිගු මහතා පැවසුවේ 2006දී මෙම යන්ත්‍රය මහනුවර රෝහලට ලැබුණු අතර එවකට එහි වටිනාකම රුපියල් මිලින 8කට ආසන්න වූ බවයි.
-
-මෙම යන්ත්‍රය මගින් මහනුවර මෙන්ම දිවයිනේ නොයෙක් ප්‍රදේශවල රෝගීන්ගේද රෝග නිශ්චය කිරීම සඳහා මෙම යන්ත්‍රය මහත් උපකාරී වූ බවත් වෛද්‍යවරයා පැවසීය.
-
-මෙම යන්ත්‍රය වසර ගණනාවක් සේවය සැපයීමෙන් පසුව ඉවත් කිරීමට කටයුතු කිරීමේදි කෘතගුණ දත් පිරිසක් ලෙස මෙම යන්ත්‍රයට ගෞරවාන්විත සමුදීමක් සිදු කිරීමට තීරණය කළ බවත් වෛද්‍යවරයා වැඩිදුරටත් අදහස් දක්වමින් පැවසුවේය.
-
-ඒ සඳහා මෙම යන්ත්‍රය ලැබුණු දා සිට එහි කටයුතු කළ දැනට විශ්‍රාම සුවයෙන් සිටින වෛද්‍යවරුන් හා කාර්ය මණ්ඩලය හා මෙම යන්ත්‍රයේ කටයුතු කළ අනෙකුත් නිලධාරීන්ද සම්බන්ධ කරගත් බවත් ඔහු පැවසුවේය.
-
-...
-
-[Data](articles/ce0440d9.json)
-
----
-
-### MP Dilith Jayaweera advocates for govt accountability
-
-*2024-12-06 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104052/mp-dilith-jayaweera-advocates-for-govt-accountability) · `en`
-
-‘Sarvajana Balaya’ Member of Parliament, Dilith Jayaweera emphasized the party’s commitment to guiding the government on the right path over the next five years.
-
-Delivering his first parliamentary speech today (06), Jayaweera attributed the election results to widespread public frustration, the absence of viable alternatives, and growing disillusionment with political deceit.
-
-“The political culture, coupled with the allegations of corruption surrounding it and the false images it perpetuates, has disheartened patriotic Sri Lankans who have historically supported the leftist political camp. The votes we received reflect that disappointment. Therefore, do not assume for a moment that we failed to engage with your manifesto, skipped your five lectures, or misunderstood your politics,” he said.
-
-...
-
-[Data](articles/2e4508aa.json)
-
-[Extended Data](ext_articles/2e4508aa.ext.json)
-
----
 
 ### Police protest against Minister Lal Kantha's statement
 
@@ -180,31 +124,19 @@ Police said he was arrested in connection with a drunken driver.. Remble
 
 ---
 
-### The purpose of the government is to make a new change in the country based on research, evidence and data - Prime Minister Harini Amarasuriya
+### ஆராய்ச்சி, சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் நாட்டில் புதியதோர் மாற்றத்தை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கம் - பிரதமர் கலாநிதி ஹரிணி அமரசூரிய
 
 *2024-12-06 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200621) · `ta`
 
-Here's a summary of 200 characters:
+கடந்த 75 வருடங்களில் நாடு பயணித்த திசையை மாற்றி ஆய்வுகள், சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் நாட்டில் புதியதோர் மாற்றத்தை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் என பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
 
+கொழும்பு மருத்துவ பீடத்தில் வெள்ளிக்கிழமை (06) தேசிய விஞ்ஞான மன்றத்தின் ஏற்பாட்டில் நடைபெற்ற டிஜிட்டல் நூலக மாநாடு 2024 இல் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இதனைத் தெரிவித்தார்.
 
-
-Prime Minister Harini Amarasuriya emphasizes changing national direction through research, evidence, and data. She calls for increased investment in R&D and innovation to drive progress.
-
-🟩
-
-Prime Minister Harini Amarasuriya said that the government's aim is to change the direction of the country in the last 75 years and make a new change in the country based on studies, evidence and data.
-
-The Prime Minister made this statement while addressing the Digital Library Conference held at the Faculty of Medicine in Colombo on Friday (06).
-
-We consider investing for research and development.We hope that investing in research and development is essential for the government's development agenda. The government's aim is to lead the country on a new path, not in the same direction in the last 75 years.It should be based on research, evidence and data.
-
-The massive issue we have faced over the past few years, especially in high levels, is not making decisions on the basis of scientific, evidence and data on data. This is something that needs to be replaced. Therefore, the decision -making process and the research community must work very closely.
+ஆராய்ச்சி மற்றும் அபிவிருத்திக்காக முதலீடு செய்வதை நாங்கள் மிகவும் முக்கியமானதாக கருதுகிறோம்.  ஆராய்ச்சி மற்றும் அபிவிருத்தியில் முதலீடு செய்வது அரசாங்கத்தின் அபிவிருத்தி நிகழ்ச்சி நிரலுக்கு இன்றியமையாதது என்று நாங்கள் நம்புகிறோம். கடந்த 75 வருடங்களில் நாடு பயணித்த அதே திசையில் அல்லாமல், நாட்டை புதிய பாதையில் இட்டுச் செல்வதே அரசாங்கத்தின் நோக்கமாகும்.  இது ஆராய்ச்சி, சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் இருக்க வேண்டும்.
 
 ...
 
 [Data](articles/90fe110c.json)
-
-[Extended Data](ext_articles/90fe110c.ext.json)
 
 ---
 
@@ -232,95 +164,57 @@ It also stated that the existing fees will continue for the next six months. Rem
 
 ---
 
-### Israeli soldiers entered into a man
+### காசாமருத்துவமனைக்குள் புகுந்து இஸ்ரேலிய படையினர் வெறியாட்டம் - நான்கு மருத்துவர்கள் உட்பட பலர் பலி- சிஎன்என்
 
 *2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200619) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+இஸ்ரேலிய படையினர் வடகாசாவில் உள்ள கமால் அத்வான் மருத்துவமனை மீது மேற்கொண்ட தாக்குதலில் நான்கு மருத்துவர்கள் கொல்லப்பட்டுள்ளனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
 
+இஸ்ரேலின் இந்த தாக்குதல் காரணமாக மருத்துவமனையை சுற்றியுள்ள பகுதிகளில் பலர் கொல்லப்பட்டுள்ளனர் காயமடைந்துள்ளனர்.
 
+இஸ்ரேலிய படையினர் மருத்துவபணியாளர்களையும் நோயாளிகளையும் மருத்துவமனையிலிருந்து வெளியேறுமாறு உத்தரவிட்ட பின்னர் முக்கியமான மருத்துவ விநியோக பொருட்களை அழித்தனர் என மருத்துவமனையின் இயக்குநர் ஹ_சாம் அபு சாபியா தெரிவித்துள்ளார்.
 
-Israeli soldiers attacked Kamal Advan Hospital in Vadakasa. Four doctors were killed. Many civilians injured. Hospital director claims soldiers arrested staff during 2-hour operation. Witnesses report seeing bodies and injured outside hospital.
-
-🟩
-
-Eyewitnesses have reported that four doctors have been killed in an attack on Kamal Advan Hospital in Vadakasa.
-
-Many people have been killed and injured in the surrounding areas of the hospital as a result of Israel's attack.
-
-Hospital Director H_Sam Abu Sabia said that Israeli soldiers and patients were ordered to leave the hospital after they were ordered to leave the hospital.
-
-The Israeli soldiers sent two uniforms in the early hours of Friday morning and asked the patients to leave, and during the two -hour operation, several medical workers were arrested in hospital, he said.
-
-Abusabia said that when the hospital was surrounded by military resources, Abusabia had then arrested many Israeli soldiers.
-
-Initially, the Israeli soldiers have asked me to leave all the patients to me and then arrest all of them in one place.
-
-Employees who came out of the hospital have seen many bodies on the streets and many injured.
+வெள்ளிக்கிழமை அதிகாலை சீருடையணியாத இருவரை மருத்துவமனைக்குள் அனுப்பிய இஸ்ரேலிய படையினர் அனுப்பினர் அவர்கள் நோயாளிகளை அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டனர், இரண்டுமணிநேர நடவடிக்கையின் போது பல மருத்துவபணியாளர்கள் மருத்துவமனையில் தஞ்சமடைந்திருந்தவர்கள் உட்பட் இளைஞர்களை கைதுசெய்தனர், என அவர் தெரிவித்துள்ளார்.
 
 ...
 
 [Data](articles/0b6dfe3a.json)
 
-[Extended Data](ext_articles/0b6dfe3a.ext.json)
-
 ---
 
-### Israeli soldiers entered into a man
+### காசாமருத்துவமனைக்குள் புகுந்து இஸ்ரேலிய படையினர் வெறியாட்டம் - நான்கு மருத்துவர்கள் உட்பட பலர் பலி- சிஎன்என்
 
 *2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200620) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+இஸ்ரேலிய படையினர் வடகாசாவில் உள்ள கமால் அத்வான் மருத்துவமனை மீது மேற்கொண்ட தாக்குதலில் நான்கு மருத்துவர்கள் கொல்லப்பட்டுள்ளனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
 
+இஸ்ரேலின் இந்த தாக்குதல் காரணமாக மருத்துவமனையை சுற்றியுள்ள பகுதிகளில் பலர் கொல்லப்பட்டுள்ளனர் காயமடைந்துள்ளனர்.
 
+இஸ்ரேலிய படையினர் மருத்துவபணியாளர்களையும் நோயாளிகளையும் மருத்துவமனையிலிருந்து வெளியேறுமாறு உத்தரவிட்ட பின்னர் முக்கியமான மருத்துவ விநியோக பொருட்களை அழித்தனர் என மருத்துவமனையின் இயக்குநர் ஹ_சாம் அபு சாபியா தெரிவித்துள்ளார்.
 
-Israeli soldiers attacked Kamal Advan Hospital in Vadakasa. Four doctors were killed. Many civilians injured. Hospital director H_Sam Abu Sabia reported Israeli soldiers ordered patients out, then arrested medical staff. Military surrounded hospital, leading to arrests and casualties.
-
-🟩
-
-Eyewitnesses have reported that four doctors have been killed in an attack on Kamal Advan Hospital in Vadakasa.
-
-Many people have been killed and injured in the surrounding areas of the hospital as a result of Israel's attack.
-
-Hospital Director H_Sam Abu Sabia said that Israeli soldiers and patients were ordered to leave the hospital after they were ordered to leave the hospital.
-
-The Israeli soldiers sent two uniforms in the early hours of Friday morning and asked the patients to leave, and during the two -hour operation, several medical workers were arrested in hospital, he said.
-
-Abusabia said that when the hospital was surrounded by military resources, Abusabia had then arrested many Israeli soldiers.
-
-Initially, the Israeli soldiers have asked me to leave all the patients to me and then arrest all of them in one place.
-
-Employees who came out of the hospital have seen many bodies on the streets and many injured.
+வெள்ளிக்கிழமை அதிகாலை சீருடையணியாத இருவரை மருத்துவமனைக்குள் அனுப்பிய இஸ்ரேலிய படையினர் அனுப்பினர் அவர்கள் நோயாளிகளை அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டனர், இரண்டுமணிநேர நடவடிக்கையின் போது பல மருத்துவபணியாளர்கள் மருத்துவமனையில் தஞ்சமடைந்திருந்தவர்கள் உட்பட் இளைஞர்களை கைதுசெய்தனர், என அவர் தெரிவித்துள்ளார்.
 
 ...
 
 [Data](articles/5ebfef88.json)
 
-[Extended Data](ext_articles/5ebfef88.ext.json)
-
 ---
 
-### Customs reserves a car imported by illegally imported
+### නීතිවිරෝධීව ගෙන්වන ලද මෝටර් රථයක් රේගු භාරයට
 
 *2024-12-06 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204113) · `si`
 
-Customs seizes Toyota Prius worth Rs. 24m smuggled from Japan. Additional 200 illegal parts discovered over two months.
+තීරු බදු නොගෙවා නීති විරෝධී ලෙස මෙරටට ගෙන්වන ලද මෝටර් රථයක් රේගු ආදායම් අධීක්ෂණ ඒකකය විසින් සිය භාරයට  ගෙන තිබේ.
 
-🟩
+එම ඒකකය පැවසුවේ රුපියල් මිලියන 24ක පමණ වටිනාකමින් යුත් ටොයෝටා ප්‍රියස් වර්ගයේ නවීන මෝටර් රථයක් මෙලෙස ගෙන්වා ඇති බවය.
 
-The Customs Revenue Monitoring Unit has taken into custody by the Customs Revenue Monitoring.
+ජපානයේ සිට ගෙන්වන ලද බහාලුමක් තුළ තිබියදි මෙම මෝටර් රථය සොයාගෙන තිබේ.
 
-The unit said that a modern car of Toyota Priyas is imported from about Rs. 24 million.
-
-The car was found in a container from Japan.
-
-The Customs also displayed 200 additional parts which were imported illegally imported in the past two months.
+එමෙන්ම පසුගිය මාස දෙක තුළ නීති විරෝධීව ගෙන්වන ලද වාහන අමතර කොටස් 200ක්ද රේගුව අද මාධ්‍ය වෙත ප්‍රදර්ශනය කරනු ලැබීය.
 
 ◼️
 
 [Data](articles/a6757ef2.json)
-
-[Extended Data](ext_articles/a6757ef2.ext.json)
 
 ---
 
@@ -344,53 +238,31 @@ The proposal submitted today was expected to revise electricity tariffs for the 
 
 ---
 
-### Strengthen the Peace and Reconciliation efforts to absorb the views of the minority - the Commonwealth Election Monitoring Committee recommends the government
+### சிறுபான்மையின மக்களின் கருத்துக்களை உள்வாங்கும் வகையில் சமாதான மற்றும் நல்லிணக்க முயற்சிகளை வலுப்படுத்துங்கள் - பொதுநலவாய தேர்தல் கண்காணிப்புக்குழு அரசுக்குப் பரிந்துரை
 
 *2024-12-06 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200618) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+எதிர்கால மோதல்களைத் தவிர்க்கும் வகையில் சிறுபான்மையின மக்களின் கருத்துக்கள் அர்த்தமுள்ள விதத்தில் உள்வாங்கப்படுவதை உறுதிசெய்வதற்கு ஏதுவாக சமாதான மற்றும் நல்லிணக்க முயற்சிகளை இலங்கை அரசாங்கம் மேலும் வலுப்படுத்தவேண்டும் என பொதுநலவாய தேர்தல் கண்காணிப்புக்குழு நடைபெற்றுமுடிந்த ஜனாதிபதித்தேர்தல் தொடர்பான அதன் இறுதி அறிக்கையில் வலியுறுத்தியுள்ளது.
 
-
-
-Commonwealth Election Monitoring Committee recommends strengthening peace & reconciliation efforts in Sri Lanka to incorporate minority views, ensuring fair elections and preventing future conflicts.
-
-🟩
-
-The Commonwealth Election Monitoring Committee has emphasized its final report on the Presidential Elections Committee that the Sri Lankan government should further strengthen the efforts of peace and reconciliation to ensure that the ideas of the minority people are meaningfully embedded to avoid future conflicts.
-
-The country's ninth presidential election was held on 21st September. In accordance with the Election Commission's call to monitor whether the election is being held independently and fairlyWidely monitored.
-
-Commenting on a media briefing organized on September 23 last year, the Monitoring Committee Chairman Deni Fore said, “Sri Lanka's ninth presidential election has been held in a very peaceful and credible manner.. Most voters do not have enough awareness about the preferential voting process and its necessity. It is necessary to take measures to make such a dismay in the future. ”
+நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் கடந்த செப்டெம்பர் மாதம் 21 ஆம் திகதி நடைபெற்றது. இத்தேர்தல் சுதந்திரமானதும், நியாயமானதுமான முறையில் நடைபெறுகின்றதா என்பதைக் கண்காணிப்பதற்காக தேர்தல் ஆணைக்குழுவினால் விடுக்கப்பட்ட அழைப்புக்கு இணங்க இஇலங்கைக்கு வருகைதந்த சிஷேல்ஸ் நாட்டின் முன்னாள் ஜனாதிபதி டெனி ஃபோர் தலைமையிலான 13 பேரடங்கிய பொதுநலவாய அமைப்பின் தேர்தல் கண்காணிப்புக்குழுவினர், நாட்டின் சகல தேர்தல் மாவட்டங்களுக்கும் விஜயம் மேற்கொண்டு தேர்தலுக்கு முன்னரான பிரசார காலப்பகுதி, தேர்தல் தினத்தன்று நடைபெறும் செயன்முறைகள், தேர்தல் முடிவடைந்ததன் பின்னரான நிலைவரம் என்பவற்றைப் பரந்துபட்ட ரீதியில் கண்காணித்தனர்.
 
 ...
 
 [Data](articles/d6b1ae98.json)
 
-[Extended Data](ext_articles/d6b1ae98.ext.json)
-
 ---
 
-### No revision is no revision - CEB
+### විදුලි ගාස්තු සංශෝධනයක් නෑ - ලංවිම කියයි
 
 *2024-12-06 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204112) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+ලංකා විදුලිබල මණ්ඩලය විදුලි ගාස්තු සංශෝධනයට අදාළ යෝජනා මහජන උපයෝගීතා කොමිෂන් සභාව වෙත යොමුකර තිබේ.
 
-
-
-"CEB sent to Public Utilities Commission. Next six months: No revision policy."
-
-🟩
-
-The Ceylon Electricity Board (CEB) has been sent to the Public Utilities Commission of the Ceylon Electricity Board.
-
-Accordingly, the Electricity Board (CEB) has been referred to that the next six months should be maintained without revision.
+ඒ අනුව විදුලිබල මණ්ඩලය එම යෝජනා ඉදිරිපත් කරමින් සඳහන් කර ඇත්තේ පවතින විදුලි ගාස්තු සංශෝධනයකින් තොරව ඉදිරි මාස 6 පවත්වාගෙන යා යුතු බවය.
 
 ◼️
 
 [Data](articles/2ac75512.json)
-
-[Extended Data](ext_articles/2ac75512.ext.json)
 
 ---
 
@@ -804,27 +676,19 @@ Representatives of many major trade unions in the health sector, including the S
 
 ---
 
-### It is absolutely wrong to refer to nationalism as racism - Dilith Jayaweera
+### தேசியத்தை இனவாதம் என்று குறிப்பிடுவது முற்றிலும் தவறானது - திலித்  ஜயவீர
 
 *2024-12-06 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200598) · `ta`
 
-Nationalism ≠ Racism: Dilith Jayaweera argues against equating patriotism with prejudice. He emphasizes national identity and progress through proper governance. Criticizes political promises and lies. Advocates for anti-racism efforts while opposing racist nationalism portrayal.
+தேசியத்தை இனவாதம்  என்று குறிப்பிடுவது முற்றிலும் தவறானது. தேசியத்தை சிறந்த முறையில் அடையாளப்படுத்திக் கொண்டு அதற்கமைய செயற்படாவிடின் நாடு என்ற ரீதியில் ஒருபோதும் முன்னேற்றமடைய முடியாது.  நாட்டு மக்களுக்கு வழங்கிய வாக்குறுதிகளை அரசாங்கம் நிறைவேற்ற வேண்டும் இல்லையேல் கோட்டாபய ராஜபக்ஷவின் நிலையே ஏற்படும் என  சர்வஜன சக்தியின் தேசிய பட்டியல் பாராளுமன்ற உறுப்பினர்  திலித்  ஜயவீர தெரிவித்தார்.
 
-🟩
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை  நடைபெற்ற இடைக்கால கணக்கறிக்கை மீதான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-It is absolutely wrong to refer to nationalism as racism. If the country is not well -identified and operated in accordance with it, the country can never be progressed.The National List of Sarva Power, Dilith Jayaweera, said that the government should fulfill the promises made to the people of the country or that the Gotabhaya Rajapaksa will be the case.
-
-He was speaking at a debate on the interim report on Friday in Parliament.
-
-We are involved in activated politics to highlight the nationality. Thank you all who has cooperated and will take up the nationality. Many of the best projects have been mentioned in the Declaration of President Anura Kumara Dissanayake.
-
-The national people's power criticized 75 years of politics as a curse.It must be explicitly mentioned that many promises have been made and many lies have been mentioned.The promises made by former President Gotabhaya Rajapakse will be a fate.
+தேசியத்தை முன்னிலைப்படுத்தி   செயற்பாட்டு ரீதியிலான அரசியலில் ஈடுபட்டோம். எமக்கு ஒத்துழைப்பு வழங்கிய அனைவருக்கும்  நன்றி தெரிவித்துக் கொள்வதுடன், தேசியத்தை முன்னிலைப்படுத்தி செயற்படுவோம். ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் கொள்கை பிரகடனத்தில் பல சிறந்த  திட்டங்கள் குறிப்பிடப்பட்டுள்ளன.
 
 ...
 
 [Data](articles/2abc4c1b.json)
-
-[Extended Data](ext_articles/2abc4c1b.ext.json)
 
 ---
 
@@ -2591,5 +2455,75 @@ Meanwhile, Minister of Commerce, Food Security and Co -operative Development Was
 [Data](articles/f6724f68.json)
 
 [Extended Data](ext_articles/f6724f68.ext.json)
+
+---
+
+### Parliamentary debate on Vote on Account continues for second day
+
+*2024-12-06 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104038/parliamentary-debate-on-vote-on-account-continues-for-second-day-) · `en`
+
+The parliamentary session commenced at 09:30 a.m. today (06), chaired by Speaker Ashoka Ranwala.
+
+The debate on the Vote on Account for the first four months of 2025 entered its second day in Parliament.
+
+The Vote on Account, covering government recurrent and capital expenditure, public debt servicing, and debt restructuring expenses, was presented to Parliament yesterday (05).
+
+◼️
+
+[Data](articles/37365a36.json)
+
+[Extended Data](ext_articles/37365a36.ext.json)
+
+---
+
+### The deadline for submitting income and spending report
+
+*2024-12-06 09:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருமானம்-செலவு-அறிக்கை-சமர்பிப்பதற்கான-காலக்கெடு-நிறைவு/175-348341) · `ta`
+
+Deadline for income & spending reports: Today. Nearly 20% submitted. Candidates must comply regardless of outcome. Failure leads to legal action under Election Expenditure Act.
+
+🟩
+
+The deadline for submitting an income and cost report to all candidates contesting the parliamentary elections ends today (6).
+
+Nearly 20% of these reports have already been submitted at the district level, said Rohana Hettiarachchi, Executive Director of the People's Action for Independent and Fair Elections.
+
+He also urged all candidates to ensure that their reports were submitted in a timely manner, whether they won the election or losing.
+
+“If you fail to submit the required documents, legal action will be taken under the Act of Regulating the Election Expenditure Act.
+
+◼️
+
+[Data](articles/15359b9d.json)
+
+[Extended Data](ext_articles/15359b9d.ext.json)
+
+---
+
+### Action to make a timely tax deposit
+
+*2024-12-06 09:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-நேரத்தில்-வரி-அறவிடுவதற்கு-நடவடிக்கை/175-348340) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+President Anurakumara Dissanayake directs authorities to issue liquor permits regularly. Emphasizes timely action, avoiding abuse of power. Discusses tax collection issues, including blacklisted companies and banned taxable entities.
+
+🟩
+
+President Anurakumara Dissanayake issued a directive to the authorities to follow a regular system in issuing liquor permits.
+
+The President gave these instructions during a discussion with senior officials of the Liquor Department yesterday (05) at the Presidential Office.
+
+The President stressed that the authorities should not take advantage of their powers and not to implement the law in all cases and to take action to take action in a timely manner.
+
+The focus on the difficulties of collecting liquor and the irregularities in it were discussed in detail, and the new methods of collecting taxes, blacklisted companies and ban on taxable companies.. Remble
+
+◼️
+
+[Data](articles/f7d59bb5.json)
+
+[Extended Data](ext_articles/f7d59bb5.ext.json)
 
 ---

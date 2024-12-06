@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 07:30:55**
+As of **2024-12-06 08:56:57**
 
 ## Newspaper Stats
 
-*Scraped **58,757** Articles*
+*Scraped **58,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,219 @@ islandlk | 3,534
 economynextcom | 3,572
 dailyftlk | 4,060
 dailymirrorlk | 4,733
-adalk | 5,569
-adaderanalk | 7,131
+adalk | 5,571
+adaderanalk | 7,133
 tamilmirrorlk | 8,373
 virakesarilk | 9,625
-adaderanasinhalalk | 10,140
+adaderanasinhalalk | 10,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,729 (100.0%) of 58,757 articles have been extended.
+58,736 (99.9%) of 58,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### CEB to submit revised electricity tariff proposal to PUCSL today
+
+*2024-12-06 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104032/ceb-to-submit-revised-electricity-tariff-proposal-to-pucsl-today) · `en`
+
+The Ceylon Electricity Board (CEB) has announced that it will submit its proposal for the revision of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL) today (06).
+
+Responding to an inquiry made by Ada Derana, CEB Chairman Dr. Thilak Siyambalapitiya confirmed that the proposal would be submitted as scheduled.
+
+Previously, it was proposed under the former government that electricity tariffs be revised four times annually. However, in 2023, tariff revisions were carried out three times, while two revisions were made this year. The current government has limited tariff revisions to twice a year.
+
+The proposal submitted today is expected to revise electricity tariffs for the first half of 2025, with implementation anticipated from the third week of January next year.
+
+...
+
+[Data](articles/f2597337.json)
+
+[Extended Data](ext_articles/f2597337.ext.json)
+
+---
+
+### Two shot to a woman
+
+*2024-12-06 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204087) · `si`
+
+Woman shoots two intruders at her home in Bogahawewa. Victim, 73, hospitalized. Police investigating use of T-56 firearm. No motive or suspects identified yet.
+
+🟩
+
+A woman at home had shot two unidentified people who came to a motorbike.
+
+The incident was reported from the Bogahawewa area in Padaviya Police last night (05).
+
+The injured woman was admitted to the Padaviya Hospital for treatment.
+
+The victim was a 73 year old resident of Bogahawewa.
+
+Police suspect that a T-56 firearm has been used for this shooting.
+
+No information has been revealed so far regarding the cause of shooting or suspects. Padaviya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/ea5a755a.json)
+
+[Extended Data](ext_articles/ea5a755a.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-12-06 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104031/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Northern and Eastern provinces.
+
+Showers or thundershowers may occur at several places in Western, Sabaragamuwa and Southern provinces and in Nuwara-Eliya and Kandy districts during the evening or night.
+
+Mainly fair weather will prevail elsewhere, the Met. Department added.
+
+Misty conditions can be expected in most places of the island during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/43a792c5.json)
+
+[Extended Data](ext_articles/43a792c5.ext.json)
+
+---
+
+### Sri Lanka compete against India
+
+*2024-12-06 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204086) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Asia Cup U19: Semi-finals today. Bangladesh vs Pakistan in Dubai. Sri Lanka vs India in Sharjah. Both games start at 10:30 AM Sri Lanka time.
+
+🟩
+
+The Asia Cup will be held today (6), the Asia Cup under 19 cricket tournament.
+
+Accordingly, the first semi-final will be held in Dubai between Bangladesh and Pakistan.
+
+The second seast of Sri Lanka will be held in Sarajah with the second semi-final.
+
+Both of this game is in Sri Lanka. Will begin at 10.30am.
+
+◼️
+
+[Data](articles/b140f41e.json)
+
+[Extended Data](ext_articles/b140f41e.ext.json)
+
+---
+
+### Customs draw close to target
+
+*2024-12-06 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204085) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Customs Department reaches tax revenue target: Rs. 1.53 trillion this year. Additional Director General Salviti Arukgoda states Rs. 1.38 trillion collected so far."
+
+🟩
+
+The Customs Department says that the target of Rs. 1.53 Tax Revenue Tariff This Year
+
+Additional Director General of the Director General, Customs Media Spokesperson Salviti Arukgoda said that Rs. 1.38 million has been added to Rs 1.38 trillion.
+
+◼️
+
+[Data](articles/e495f154.json)
+
+[Extended Data](ext_articles/e495f154.ext.json)
+
+---
+
+### President reveals how rice mafia breaks
+
+*2024-12-06 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204084) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake addresses the rice crisis. He mentions a 50,000 Metric Ton shipment expected soon. The President criticizes reporting discrepancies between the Department of Agriculture and Consumer Affairs Authority. He vows to end monopolies and import more rice, but warns it won't be immediate.
+
+🟩
+
+President Anura Kumara Dissanayake says that 50,000 Metallictorial Corporation is due to receive the rice crisis on the 20th of this month.
+
+He pointed out that there is a problem with reports on the reserves of the country.
+
+The President was speaking at a discussion held at the Presidential Secretariat with media institutions.
+
+The President said that the measures needed to break the current running rice.
+
+"The report we came from a short day and the report we received in the Department of Agriculture was sufficient in the country. But according to the surveys made by the Consumer Affairs Authority revealed that there was a shortage of rice. So we decided to import rice. "
+
+"It will not allow three men to belong to a monopoly of three. At present they have the same. Because we have no tool to control us. We are in a strenuous stand. We take the necessary actions. But will take some time. "
+
+◼️
+
+[Data](articles/1a98e86d.json)
+
+[Extended Data](ext_articles/1a98e86d.ext.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධන යෝජනාව අද මහජන උපයෝගීතා කොමිසමට
+
+*2024-12-06 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204083) · `si`
+
+විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් වන යෝජනාව අද (06) දිනයේ මහජන උපයෝගීතා කොමිෂන් සභාව වෙත ලබාදෙන බව විදුලිබල මණ්ඩලය පවසයි.
+
+අද දෙරණ කළ විමසීමකදී එහි සභාපති ආචාර්ය තිලක් සියඹලාපිටිය මහතා පැවසුවේ අදාළ යෝජනාවලිය අද දිනයේ ලබාදීමට කටයුතු කරන බවය.
+
+පසුගිය ආණ්ඩුව සමයේ වාර්ෂිකව සිව් වතාවක් විදුලි ගාස්තු සංශෝධනය සිදුකළ යුතු බවට යෝජනා වී තිබුණි.
+
+එහෙත් 2023 වසරේදී තෙවරක් සහ මෙම වර්ෂයේදී දෙවරක් විදුලි ගාස්තු සංශෝධනය සිදු කෙරුණි.
+
+කෙසේවෙතත් වත්මන් ආණ්ඩුව වසරකට දෙවරක් විදුලි ගාස්තු සංශෝධනය කිරීමට සැලසුම් කර තිබේ.
+
+ඒ අනුව අද දිනයේ ඉදිරිපත් වන යෝජනාවෙන් ලබන වසරේ පළමු මාස 06 සඳහා වන ගාස්තු සංශෝධනය සිදුකෙරෙණු ඇති බව සඳහන් ය.
+
+අද දිනයේ මහජන උපයෝගීතා කොමිසම වෙත ලබාදීමට නියමිත එම යෝජනාව ලබන වසරේ ජනවාරි මස තුන්වන සතියේ සිට ක්‍රියාත්මක කිරීමට බොහෝ දුරට හැකියාව පවතී.
+
+මේ අතර මෙම වසරේ දෙසැම්බර් මස සිට ක්‍රියාත්මක කිරීම සඳහා විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් වන යෝජනාව ඔක්තෝබර් මාසයේදී ලංකා විදුලිබල මණ්ඩලය විසින් මහජන උපයෝගීතා කොමිසම වෙත ලබාදී තිබුණි.
+
+...
+
+[Data](articles/8ccb6a3c.json)
+
+---
+
+### අද වැස්ස ගැන කාලගුණයෙන් දැනුම්දීමක්
+
+*2024-12-06 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204082) · `si`
+
+අද (6) දිනයේ උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එම දෙපාර්තමේන්තුව පැවසීය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/9e255655.json)
+
+---
 
 ### Developing and supporting entrepreneurs in Sri Lanka
 
@@ -43,6 +241,8 @@ Bottom (from left): David Pieris, Mahesh Amalean, late R. Rajamahendran, Ranjit 
 ...
 
 [Data](articles/8d42e990.json)
+
+[Extended Data](ext_articles/8d42e990.ext.json)
 
 ---
 
@@ -1002,6 +1202,24 @@ The baby drowned in the water reservoir to take it. Doctors said the baby had al
 
 ---
 
+### විදුලියේ ගිවිසුම්ගත ව්‍යාපෘති සම්බන්ධයෙන් නැවත සමාලෝචනය කිරීමට යයි
+
+*2024-12-05 20:13:32* · [`adalk`](https://www.ada.lk/breaking_news/විදුලියේ-ගිවිසුම්ගත-ව්‍යාපෘති-සම්බන්ධයෙන්-නැවත-සමාලෝචනය-කිරීමට-යයි/11-413492) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා හා බලශක්ති අමාත්‍යාංශයේ සහ ඊට අනුබද්ධිත ආයතනවල නිලධාරීන් සමඟ සාකච්ඡාවක් අද (05) පස්වරුවේ ජනාධිපති කාර්යාලයේදි පැවැත්විණි.
+
+මෙම සාකච්ඡාවේදී පුනර්ජනනීය බලශක්තිය පිළිබඳ විශේෂ අවධානය යොමු වූ අතර සූර්ය පැනල ව්‍යාපෘති පිළිබඳව දීර්ඝ ලෙස සාකච්ඡාවට ලක් විය. මේ වන විට ගිවිසුම්ගත ව්‍යාපෘති සම්බන්ධයෙන් නැවත සමාලෝචනය කරන ලෙසත් ඒ අනුව ඵලදායී
+
+ව්‍යාපෘති කඩිනමින් ආරම්භ කරන ලෙසත් ජනාධිපති අනුර කුමාර දිසානායක මහතා උපදෙස් ලබා දුන්නේය. එසේම ගිවිසුම්ගත වුවද අකාර්යක්ෂම ව්‍යාපෘති ඇත්නම් ඊට අදාළ නිසි පියවර ගන්නා ලෙසද ජනාධිපතිවරයා අවධාරණය කළේය.
+
+බලශක්ති අමාත්‍ය විදුලි ඉංජිනේරු කුමාර ජයකොඩි, ලංකා විදුලිබල මණ්ඩලයේ සභාපති ආචාර්ය තිලක් සියඹලාපිටිය, ශ්‍රී ලංකා සුනිත්‍ය බලශක්ති අධිකාරියේ සභාපති මහාචාර්ය ටි. එම්.ඩබ්ලිව්. ජේ. බණ්ඩාර, ලංකා විදුලි (පෞද්ගලික) සමාගමේ සභාපති ඉංජිනේරු ජනක අලුත්ගේ, ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ඩී. ජේ. රාජකරුණා යන මහත්වරු ඇතුළු ජ්‍යෙෂ්ඨ නිලධාරීන් පිරිසක්
+
+◼️
+
+[Data](articles/93a0c7aa.json)
+
+---
+
 ### Massive fire at the hotel in the fort area
 
 *2024-12-05 20:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-பகுதியில்-உள்ள-ஹோட்டலில்-பாரிய-தீ/175-348326) · `ta`
@@ -1109,6 +1327,22 @@ President Anura Kumara Dissanayake has asked the media company chiefs not to pub
 [Data](articles/9778c9ed.json)
 
 [Extended Data](ext_articles/9778c9ed.ext.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධන යෝජනාව අද උපයෝගීතා කොමිෂමට
+
+*2024-12-05 19:37:02* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධන-යෝජනාව-අද-උපයෝගීතා-කොමිෂමට/11-413490) · `si`
+
+විදුලි ගාස්තු සංශෝධනය කිරීම සඳහා වූ යෝජනාව අද (06දා) විදුලිබල ක්ෂේත්‍ර නියාමක වෙත යොමු කිරීමට නියමිතය. සියලු ගණන් බැලීම් සිදු කර, පාරිභෝගිකයාට සාධාරණ ගාස්තු සංශෝධනයක් ඉදිරිපත් කිරීමට නියමිත බවද විදුලිබල මණ්ඩලය සඳහන් කරයි.
+
+විදුලිබල මණ්ඩලය පවසන්නේ 2025 වසරේ මුල් මාස 6 පිළිබඳව සලකා 2025.01.01 දින සිට බලපැවැත්වෙන පරිදි ගාස්තු සංශෝධනය සඳහා යෝජනාව ඉදිරිපත් කරන බවයි.
+
+2025 වසර සඳහා නව යෝජනාව ඉදිරිපත් කිරීමට ලංවීමට ප්‍රමාණවත් කාලයක් අවශ්‍ය බවත්, වියදම් ඇස්තමේන්තු කිරීම හා ගාස්තු සංශෝධන ඉදිරිපත් කිරීම සිදුකර පාරිභෝගිකයන් වෙත වඩාත් සාධාරණ ගාස්තු සංශෝධනයක් ඉදිරිපත් කරන බවත් ලංකා විදුලිබල මණ්ඩලය පවසයි.
+
+◼️
+
+[Data](articles/0644e946.json)
 
 ---
 
@@ -2081,241 +2315,5 @@ Lahiru, who started the Test cricket in 2016 as the 139th player of Sri Lanka, p
 [Data](articles/63a95a40.json)
 
 [Extended Data](ext_articles/63a95a40.ext.json)
-
----
-
-### Lebanon - Israeli war is helpless
-
-*2024-12-05 17:14:37* · [`adalk`](https://www.ada.lk/breaking_news/ලෙබනන---ඊශ්‍රායෙල-යුද්ධය-නිසා-අසරණ-වූ-ලාංකිකයන්-පිරිසක්-දිවයිනට/11-413479) · `si`
-
-Here's a 200-character summary:
-
-
-
-Lebanon-Israel war displaces Sri Lankans. IOM, SL Embassy, and External Affairs Ministry collaborate to evacuate 53 Sri Lankans from Lebanon via Katunayake Airport on multiple dates. Additional 27 arrive from Dubai.
-
-🟩
-
-The Middle East Lebena had reached the Katunayake Airport on the night of 12/04 pm due to Israeli war.
-
-Five small children, three children and 19 men were present at the Katunayake airport.
-
-The International Organization for Migration (International Organization for Migration) to send the people to Sri Lanka, the officials of the Sri Lankan Embassy in Lebanon and the Sri Lanka External Affairs Ministry have taken steps together.
-
-In this way, a group of Sri Lankans had been brought to the country on the day 11/06, 11/06, 11/12, 11/28.
-
-Accordingly, 53 Sri Lankans have been taken in Lebanon.
-
-The 27 Sri Lankans from Dubai, Emirates, from Dubai, Emirates Airport, arrived at the Katunayake airport on the 648 airport.
-
-◼️
-
-[Data](articles/c3134d77.json)
-
-[Extended Data](ext_articles/c3134d77.ext.json)
-
----
-
-### Decision on government institutions where heavy rent
-
-*2024-12-05 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204073) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Government institutions' high rents criticized. Minister proposes state ownership. Allocation of funds discussed. Political tensions mentioned. Economic decisions debated.
-
-🟩
-
-Mr. Sunil Handunnetti said that government institutions in various buildings have been brought to the state ownership of various buildings.
-
-Industry and Entrepreneurship Development Minister Sunil Handunnetti said that 5 million is a monthly rental of the Authority of the Gem and Jewelery Authority.
-
-"Lothood institutions are renting. 5 million rent of Menk and Jewelery Authority. Masters Ministry rent is 65 lakhs. We have decided to take them to government agencies. "
-
-"I had set apart 25 minutes. Not 23 minutes. I ask for my 25 minutes. Because do not separate our important time for unwanted time. "
-
-"The innings account in this country was first submitted on 24.09.1931. 13.6 million. "
-
-...
-
-[Data](articles/0f3877b9.json)
-
-[Extended Data](ext_articles/0f3877b9.ext.json)
-
----
-
-### Lohan and wife released on bail
-
-*2024-12-05 17:01:41* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්ට-හා-බිරිඳට-ඇප/11-413478) · `si`
-
-S:0
-
-🟩
-
-Former State Minister Lohan Ratwatte and his wife Rashi Prabha Ratwatte were released on bail due to the possession of the number plates.
-
-The suspects were produced before the Nugegoda Magistrate's Court.
-
-Both of them have paid a cash of Rs.. In addition, Lohan Ratwatte also imposed a foreign travel ban.
-
-◼️
-
-[Data](articles/b7d23b83.json)
-
-[Extended Data](ext_articles/b7d23b83.ext.json)
-
----
-
-### 2024 International Muthami Murugan Conference: Travel Experience Series - 02
-
-*2024-12-05 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200517) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2024 Intl. Muthami Murugan Conf.: Tamil Nadu migration history. Organizer: Dindigul Gandhi Rural U. Seminar on hill country. Malaysian writers participated under Joseph's leadership."
-
-🟩
-
-The migration of Tamil Nadu and the migration will continue to be aimed at restoring the history of Indian and Sri Lankan politics.. I had come to Tamil Nadu for the first time in 2017. Dindigul Gandhi Rural University organized a seminar on the hill country organized by the Rural University. It is noteworthy that the Malaysian Writers participated in the clarity of the President of the Municipal Writers' Forum under the leadership of Joseph.
-
-◼️
-
-[Data](articles/64d2fd01.json)
-
-[Extended Data](ext_articles/64d2fd01.ext.json)
-
----
-
-### Sri Lankan Buddhist monk to study at Oxford after 105 years
-
-*2024-12-05 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104024/sri-lankan-buddhist-monk-to-study-at-oxford-after-105-years-) · `en`
-
-Venerable Wadigala Samitharathana Thero has become the first Sri Lankan Buddhist monk to study at Britain’s prestigious University of Oxford in 105 years.
-
-He is currently reading for an MPhil in Buddhist Studies as a Glorisun Scholar at St Cross College, University of Oxford.
-
-He studied oriental languages (Sinhala, Pāli, and Sanskrit) and other co-related literature (philology, etymology, grammar, semantics, metrics and prosody, logic and reasoning, ethics, epistemology, metaphysics, etc.) at Siri Sunanda Pirivena, Beliatta and Mahāvihāra Maha Pirivena, Kandy in Sri Lanka.
-
-The Venerable Thero was awarded the ‘National First Prize’ (with a Korean Government Scholarship) for the highest marks in the Buddhist Religious Final Examination in 2013 and the academic honour of ‘Royal Paṇḍita’ remarking the successful completion of oriental studies in Ceylon in 2016.
-
-...
-
-[Data](articles/3458e430.json)
-
-[Extended Data](ext_articles/3458e430.ext.json)
-
----
-
-### Sri Lanka leader assures autonomy to BOI, no political favoritism for new investments
-
-*2024-12-05 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-assures-autonomy-to-boi-no-political-favoritism-for-new-investments-192389/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has assured autonomy for the state-run Board of Investment (BOI) in attracting clean investments without any political favoritism, his office said.
-
-Sri Lanka has been lower ranked in ease of doing business due to several layers of red tapes, bribes, and political favoritism in attracting foreign direct investment (FDI) in the past.
-
-Government sources have told EconomyNext, the government is in the process of digitizing FDI applications to minimize corruptions and red tapes with some developed nations pledging significant FDI, if the island nation reduces the red tapes and corruption.
-
-President Dissanayake during a discussion held with senior officials of the BOI has said with the political stability after the new government, “an environment suitable for investment has been created”.
-
-...
-
-[Data](articles/002869b0.json)
-
-[Extended Data](ext_articles/002869b0.ext.json)
-
----
-
-### Dr Nilupul Perera appointed chairman of Lanka Hospitals
-
-*2024-12-05 16:48:00* · [`economynextcom`](https://economynext.com/dr-nilupul-perera-appointed-chairman-of-lanka-hospitals-192394/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Lanka Hospitals Corporation has appointed Dr M Nilupul Perera as Group Chairman of the company, effective Thursday.
-
-Dr Perera is a consultant neurologist with over 18 years of clinical experience
-
-He has been a key advocator in advancing patient care and institutional excellence in his professional career, the company said in a stock exchange filing.
-
-He holds MBBS and Doctor of Medicine qualifications from the University of Colombo and is a Board-certified consultant in Neurology. (Colombo/Dec5/2024)
-
-◼️
-
-[Data](articles/3b7829f4.json)
-
-[Extended Data](ext_articles/3b7829f4.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.30/40 to dollar, bonds steady
-
-*2024-12-05 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-30-40-to-dollar-bonds-steady-192385/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.30/40 to the US dollar on Thursday from 290.40/50 to the US dollar on Wednesday dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/50 percent, up from 9.35/45 percent.
-
-A bond maturing on 15.10.2027 closed at 10.10/25 percent, down from 10.15/25 percent.
-
-A bond maturing on 15.03.2028 closed stable at 10.45/55 percent.
-
-A bond maturing on 15.09.2029 closed at 10.82/90 percent, from 10.80/95 percent. (Colombo/Dec5/2024)
-
-◼️
-
-[Data](articles/85b4ae6e.json)
-
-[Extended Data](ext_articles/85b4ae6e.ext.json)
-
----
-
-### Political friends cannot be provided
-
-*2024-12-05 16:47:39* · [`adalk`](https://www.ada.lk/breaking_news/ආයෝජන-අවස්ථා-ලබාදීමේදී-දේශපාලන-හිතවත්කම්-බෑ/11-413476) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake vows no political interference in investments. He promises full autonomy to the Board of Investment and plans 5 new zones next year. Stability is key for economic growth.
-
-🟩
-
-President Anura Kumara Dissanayake says that no political influence will be carried out on political affiliations on providing new investment opportunities.
-
-The President also stated that the full independence of the Sri Lanka Investment to the Board of Investment will be released to the country.
-
-He was speaking at a discussion held today with the top officials of the Board of Investment of Sri Lanka (05).
-
-The President also said that it is in focus on building 5 new investment zones in the country next year.
-
-The President emphasized that political stability and financial stability should also be achieved in the country.
-
-Therefore, it is committed to the Board of Investment to fulfill the responsibility of the Board of Investment in the next budget.
-
-Secretary to the President Dr. Nandika Sanath Kanaratu, Chairman of the Board of Investment of Sri Lanka (BOI)
-
-◼️
-
-[Data](articles/0c5c75f7.json)
-
-[Extended Data](ext_articles/0c5c75f7.ext.json)
-
----
-
-### Should The Left Embrace Capitalism Today?
-
-*2024-12-05 16:34:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-left-embrace-capitalism-today/) · `en`
-
-As we know, the primary aspiration of leftists has always been the establishment of a socialist society. In contrast, right-wing ideologies aim to construct a capitalist economic system. Now that a group claiming to be socialists and Marxists, who have fought for their ideals over a long period, holds state power in Sri Lanka, a just question arises: Will the new government operate under socialism or capitalism?
-
-...
-
-[Data](articles/243e9fa4.json)
-
-[Extended Data](ext_articles/243e9fa4.ext.json)
 
 ---

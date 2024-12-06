@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 21:14:20**
+As of **2024-12-06 21:26:32**
 
 ## Newspaper Stats
 
-*Scraped **58,876** Articles*
+*Scraped **58,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,534
 economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,580
+adalk | 5,581
 adaderanalk | 7,150
 tamilmirrorlk | 8,398
 virakesarilk | 9,645
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,169
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,870 (100.0%) of 58,876 articles have been extended.
+58,870 (100.0%) of 58,877 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -265,6 +265,24 @@ He was ordered to be released on bail yesterday (05).
 [Data](articles/35a1362c.json)
 
 [Extended Data](ext_articles/35a1362c.ext.json)
+
+---
+
+### සහල් සඟවන්න කිසිම උවමනාවක් නෑ
+
+*2024-12-06 19:03:02* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-සඟවන්න-කිසිම-උවමනාවක්-නෑ/11-413498) · `si`
+
+තමාට සහල් සඟවා තබා ගැනිමට කිසිඳු උවමනාවක් නොමැති බවත් කිසිම බැංකුවකින් පොලී නොමැතිව ණය මුදල් ලබා නොදෙන බවත් රත්න සහල් අධිපති ලංකේෂ්වරගේ මිත්‍රපාල මහතා පැවැසිය.
+
+වෙළඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා කළ ප්‍රකාශයකට පිළිතුරු දීම වෙනුවෙන් පොලොන්නරුවේ පැවැති මාධ්‍ය හමුවකදි ඔහු මේ  බව පැවැසිය.
+
+"මම කියනවා වෙළඳ ඇමතිතුමාට මගේ ආයතනයට ඇවිල්ලා පරික්ෂා කරන්න. ඔබතුමාගේ නියෝජිතයෙක් එවන්න මම පටවන හාල් ගාන මම නිෂ්පාදනය කරන හාල් ගාන මගේ ළඟ තියෙන වී තොග පිළිබඳව මම ඔප්පු කරලා පෙන්නනවා. එතුමා කියලා තිබුණා මම බැංකුවෙන් සල්ලි ගන්නේ පොලී නැතුව කියලා.
+
+අපි වී අරගන්නවා අපි බැංකුවෙන් සල්ලි අරගන්නව බැංකුවේ සල්ලි ගෙවන්න ඕන ආපහු මොකද වී ස්ටොක් එකක් තියාගෙන බැංකුවේ සල්ලි ගෙවන්න බැහැ. වී ටික අරගෙන සහල් නිෂ්පාදනය කරලා සහල් වෙළඳපලට යවලා ඒ සල්ලි ගෙනල්ලා.අපි බැංකුව නිදහස් කරන්න ඕනේ.
+
+...
+
+[Data](articles/d2558e6e.json)
 
 ---
 
@@ -2525,25 +2543,5 @@ The President highlighted that the government’s primary objectives are poverty
 [Data](articles/7baf55b3.json)
 
 [Extended Data](ext_articles/7baf55b3.ext.json)
-
----
-
-### CEB to submit revised electricity tariff proposal to PUCSL today
-
-*2024-12-06 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104032/ceb-to-submit-revised-electricity-tariff-proposal-to-pucsl-today) · `en`
-
-The Ceylon Electricity Board (CEB) has announced that it will submit its proposal for the revision of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL) today (06).
-
-Responding to an inquiry made by Ada Derana, CEB Chairman Dr. Thilak Siyambalapitiya confirmed that the proposal would be submitted as scheduled.
-
-Previously, it was proposed under the former government that electricity tariffs be revised four times annually. However, in 2023, tariff revisions were carried out three times, while two revisions were made this year. The current government has limited tariff revisions to twice a year.
-
-The proposal submitted today is expected to revise electricity tariffs for the first half of 2025, with implementation anticipated from the third week of January next year.
-
-...
-
-[Data](articles/f2597337.json)
-
-[Extended Data](ext_articles/f2597337.ext.json)
 
 ---

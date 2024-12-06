@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 22:42:15**
+As of **2024-12-06 22:16:42**
 
 ## Newspaper Stats
 
-*Scraped **58,887** Articles*
+*Scraped **58,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,581
-adaderanalk | 7,152
+adaderanalk | 7,151
 tamilmirrorlk | 8,398
 virakesarilk | 9,650
 adaderanasinhalalk | 10,172
@@ -26,27 +26,11 @@ adaderanasinhalalk | 10,172
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,879 (100.0%) of 58,887 articles have been extended.
+58,876 (100.0%) of 58,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
-
-### MP Dilith Jayaweera advocates for govt accountability
-
-*2024-12-06 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104052/mp-dilith-jayaweera-advocates-for-govt-accountability) · `en`
-
-‘Sarvajana Balaya’ Member of Parliament, Dilith Jayaweera emphasized the party’s commitment to guiding the government on the right path over the next five years.
-
-Delivering his first parliamentary speech today (06), Jayaweera attributed the election results to widespread public frustration, the absence of viable alternatives, and growing disillusionment with political deceit.
-
-“The political culture, coupled with the allegations of corruption surrounding it and the false images it perpetuates, has disheartened patriotic Sri Lankans who have historically supported the leftist political camp. The votes we received reflect that disappointment. Therefore, do not assume for a moment that we failed to engage with your manifesto, skipped your five lectures, or misunderstood your politics,” he said.
-
-...
-
-[Data](articles/2e4508aa.json)
-
----
 
 ### Police protest against Minister Lal Kantha's statement
 
@@ -140,31 +124,19 @@ Police said he was arrested in connection with a drunken driver.. Remble
 
 ---
 
-### The purpose of the government is to make a new change in the country based on research, evidence and data - Prime Minister Harini Amarasuriya
+### ஆராய்ச்சி, சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் நாட்டில் புதியதோர் மாற்றத்தை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கம் - பிரதமர் கலாநிதி ஹரிணி அமரசூரிய
 
 *2024-12-06 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200621) · `ta`
 
-Here's a summary of 200 characters:
+கடந்த 75 வருடங்களில் நாடு பயணித்த திசையை மாற்றி ஆய்வுகள், சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் நாட்டில் புதியதோர் மாற்றத்தை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் என பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
 
+கொழும்பு மருத்துவ பீடத்தில் வெள்ளிக்கிழமை (06) தேசிய விஞ்ஞான மன்றத்தின் ஏற்பாட்டில் நடைபெற்ற டிஜிட்டல் நூலக மாநாடு 2024 இல் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இதனைத் தெரிவித்தார்.
 
-
-Prime Minister Harini Amarasuriya emphasizes changing national direction through research, evidence, and data. She calls for increased investment in R&D and innovation to drive progress.
-
-🟩
-
-Prime Minister Harini Amarasuriya said that the government's aim is to change the direction of the country in the last 75 years and make a new change in the country based on studies, evidence and data.
-
-The Prime Minister made this statement while addressing the Digital Library Conference held at the Faculty of Medicine in Colombo on Friday (06).
-
-We consider investing for research and development.We hope that investing in research and development is essential for the government's development agenda. The government's aim is to lead the country on a new path, not in the same direction in the last 75 years.It should be based on research, evidence and data.
-
-The massive issue we have faced over the past few years, especially in high levels, is not making decisions on the basis of scientific, evidence and data on data. This is something that needs to be replaced. Therefore, the decision -making process and the research community must work very closely.
+ஆராய்ச்சி மற்றும் அபிவிருத்திக்காக முதலீடு செய்வதை நாங்கள் மிகவும் முக்கியமானதாக கருதுகிறோம்.  ஆராய்ச்சி மற்றும் அபிவிருத்தியில் முதலீடு செய்வது அரசாங்கத்தின் அபிவிருத்தி நிகழ்ச்சி நிரலுக்கு இன்றியமையாதது என்று நாங்கள் நம்புகிறோம். கடந்த 75 வருடங்களில் நாடு பயணித்த அதே திசையில் அல்லாமல், நாட்டை புதிய பாதையில் இட்டுச் செல்வதே அரசாங்கத்தின் நோக்கமாகும்.  இது ஆராய்ச்சி, சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் இருக்க வேண்டும்.
 
 ...
 
 [Data](articles/90fe110c.json)
-
-[Extended Data](ext_articles/90fe110c.ext.json)
 
 ---
 
@@ -192,71 +164,39 @@ It also stated that the existing fees will continue for the next six months. Rem
 
 ---
 
-### Israeli soldiers entered into a man
+### காசாமருத்துவமனைக்குள் புகுந்து இஸ்ரேலிய படையினர் வெறியாட்டம் - நான்கு மருத்துவர்கள் உட்பட பலர் பலி- சிஎன்என்
 
 *2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200619) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+இஸ்ரேலிய படையினர் வடகாசாவில் உள்ள கமால் அத்வான் மருத்துவமனை மீது மேற்கொண்ட தாக்குதலில் நான்கு மருத்துவர்கள் கொல்லப்பட்டுள்ளனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
 
+இஸ்ரேலின் இந்த தாக்குதல் காரணமாக மருத்துவமனையை சுற்றியுள்ள பகுதிகளில் பலர் கொல்லப்பட்டுள்ளனர் காயமடைந்துள்ளனர்.
 
+இஸ்ரேலிய படையினர் மருத்துவபணியாளர்களையும் நோயாளிகளையும் மருத்துவமனையிலிருந்து வெளியேறுமாறு உத்தரவிட்ட பின்னர் முக்கியமான மருத்துவ விநியோக பொருட்களை அழித்தனர் என மருத்துவமனையின் இயக்குநர் ஹ_சாம் அபு சாபியா தெரிவித்துள்ளார்.
 
-Israeli soldiers attacked Kamal Advan Hospital in Vadakasa. Four doctors were killed. Many civilians injured. Hospital director claims soldiers arrested staff during 2-hour operation. Witnesses report seeing bodies and injured outside hospital.
-
-🟩
-
-Eyewitnesses have reported that four doctors have been killed in an attack on Kamal Advan Hospital in Vadakasa.
-
-Many people have been killed and injured in the surrounding areas of the hospital as a result of Israel's attack.
-
-Hospital Director H_Sam Abu Sabia said that Israeli soldiers and patients were ordered to leave the hospital after they were ordered to leave the hospital.
-
-The Israeli soldiers sent two uniforms in the early hours of Friday morning and asked the patients to leave, and during the two -hour operation, several medical workers were arrested in hospital, he said.
-
-Abusabia said that when the hospital was surrounded by military resources, Abusabia had then arrested many Israeli soldiers.
-
-Initially, the Israeli soldiers have asked me to leave all the patients to me and then arrest all of them in one place.
-
-Employees who came out of the hospital have seen many bodies on the streets and many injured.
+வெள்ளிக்கிழமை அதிகாலை சீருடையணியாத இருவரை மருத்துவமனைக்குள் அனுப்பிய இஸ்ரேலிய படையினர் அனுப்பினர் அவர்கள் நோயாளிகளை அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டனர், இரண்டுமணிநேர நடவடிக்கையின் போது பல மருத்துவபணியாளர்கள் மருத்துவமனையில் தஞ்சமடைந்திருந்தவர்கள் உட்பட் இளைஞர்களை கைதுசெய்தனர், என அவர் தெரிவித்துள்ளார்.
 
 ...
 
 [Data](articles/0b6dfe3a.json)
 
-[Extended Data](ext_articles/0b6dfe3a.ext.json)
-
 ---
 
-### Israeli soldiers entered into a man
+### காசாமருத்துவமனைக்குள் புகுந்து இஸ்ரேலிய படையினர் வெறியாட்டம் - நான்கு மருத்துவர்கள் உட்பட பலர் பலி- சிஎன்என்
 
 *2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200620) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+இஸ்ரேலிய படையினர் வடகாசாவில் உள்ள கமால் அத்வான் மருத்துவமனை மீது மேற்கொண்ட தாக்குதலில் நான்கு மருத்துவர்கள் கொல்லப்பட்டுள்ளனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
 
+இஸ்ரேலின் இந்த தாக்குதல் காரணமாக மருத்துவமனையை சுற்றியுள்ள பகுதிகளில் பலர் கொல்லப்பட்டுள்ளனர் காயமடைந்துள்ளனர்.
 
+இஸ்ரேலிய படையினர் மருத்துவபணியாளர்களையும் நோயாளிகளையும் மருத்துவமனையிலிருந்து வெளியேறுமாறு உத்தரவிட்ட பின்னர் முக்கியமான மருத்துவ விநியோக பொருட்களை அழித்தனர் என மருத்துவமனையின் இயக்குநர் ஹ_சாம் அபு சாபியா தெரிவித்துள்ளார்.
 
-Israeli soldiers attacked Kamal Advan Hospital in Vadakasa. Four doctors were killed. Many civilians injured. Hospital director H_Sam Abu Sabia reported Israeli soldiers ordered patients out, then arrested medical staff. Military surrounded hospital, leading to arrests and casualties.
-
-🟩
-
-Eyewitnesses have reported that four doctors have been killed in an attack on Kamal Advan Hospital in Vadakasa.
-
-Many people have been killed and injured in the surrounding areas of the hospital as a result of Israel's attack.
-
-Hospital Director H_Sam Abu Sabia said that Israeli soldiers and patients were ordered to leave the hospital after they were ordered to leave the hospital.
-
-The Israeli soldiers sent two uniforms in the early hours of Friday morning and asked the patients to leave, and during the two -hour operation, several medical workers were arrested in hospital, he said.
-
-Abusabia said that when the hospital was surrounded by military resources, Abusabia had then arrested many Israeli soldiers.
-
-Initially, the Israeli soldiers have asked me to leave all the patients to me and then arrest all of them in one place.
-
-Employees who came out of the hospital have seen many bodies on the streets and many injured.
+வெள்ளிக்கிழமை அதிகாலை சீருடையணியாத இருவரை மருத்துவமனைக்குள் அனுப்பிய இஸ்ரேலிய படையினர் அனுப்பினர் அவர்கள் நோயாளிகளை அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டனர், இரண்டுமணிநேர நடவடிக்கையின் போது பல மருத்துவபணியாளர்கள் மருத்துவமனையில் தஞ்சமடைந்திருந்தவர்கள் உட்பட் இளைஞர்களை கைதுசெய்தனர், என அவர் தெரிவித்துள்ளார்.
 
 ...
 
 [Data](articles/5ebfef88.json)
-
-[Extended Data](ext_articles/5ebfef88.ext.json)
 
 ---
 
@@ -2557,5 +2497,33 @@ He also urged all candidates to ensure that their reports were submitted in a ti
 [Data](articles/15359b9d.json)
 
 [Extended Data](ext_articles/15359b9d.ext.json)
+
+---
+
+### Action to make a timely tax deposit
+
+*2024-12-06 09:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-நேரத்தில்-வரி-அறவிடுவதற்கு-நடவடிக்கை/175-348340) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+President Anurakumara Dissanayake directs authorities to issue liquor permits regularly. Emphasizes timely action, avoiding abuse of power. Discusses tax collection issues, including blacklisted companies and banned taxable entities.
+
+🟩
+
+President Anurakumara Dissanayake issued a directive to the authorities to follow a regular system in issuing liquor permits.
+
+The President gave these instructions during a discussion with senior officials of the Liquor Department yesterday (05) at the Presidential Office.
+
+The President stressed that the authorities should not take advantage of their powers and not to implement the law in all cases and to take action to take action in a timely manner.
+
+The focus on the difficulties of collecting liquor and the irregularities in it were discussed in detail, and the new methods of collecting taxes, blacklisted companies and ban on taxable companies.. Remble
+
+◼️
+
+[Data](articles/f7d59bb5.json)
+
+[Extended Data](ext_articles/f7d59bb5.ext.json)
 
 ---

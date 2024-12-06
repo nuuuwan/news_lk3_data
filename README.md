@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 09:42:51**
+As of **2024-12-06 10:16:20**
 
 ## Newspaper Stats
 
-*Scraped **58,773** Articles*
+*Scraped **58,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,534
 economynextcom | 3,572
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,571
-adaderanalk | 7,137
-tamilmirrorlk | 8,374
+adalk | 5,572
+adaderanalk | 7,138
+tamilmirrorlk | 8,379
 virakesarilk | 9,625
 adaderanasinhalalk | 10,146
 
@@ -26,25 +26,151 @@ adaderanasinhalalk | 10,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,743 (99.9%) of 58,773 articles have been extended.
+58,751 (100.0%) of 58,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### மீண்டும் வங்காள விரிகுடாவில் காற்றுச் சுழற்சி
+### மின்சார கட்டண திருத்த யோசனைகள் இன்று கையளிப்பு
+
+*2024-12-06 10:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டண-திருத்த-யோசனைகள்-இன்று-கையளிப்பு/175-348344) · `ta`
+
+மின்சார கட்டணத்தை குறைப்பது தொடர்பான யோசனையை இலங்கை மின்சார சபை, இன்று (6), பொது பயன்பாட்டு ஆணைக்குழுவிடம் சமர்ப்பிக்கவுள்ளது.
+
+திருத்தப்பட்ட பிரேரணையை கையளித்த பின்னர், மின்சாரக் கட்டணக் குறைப்பு தொடர்பான மேலதிக நடவடிக்கைகளை பொதுப் பயன்பாடுகள் ஆணைக்குழு மேற்கொள்ள வேண்டும்.
+
+இலங்கை மின்சார சபை மின்சார கட்டணத்தை குறைப்பது தொடர்பான பிரேரணையை முன்னர் சமர்ப்பித்திருந்த போதிலும், அதனை திருத்தியமைத்து, மீண்டும் சமர்ப்பிக்க வேண்டுமென, பொது பயன்பாட்டு ஆணைக்குழு தெரிவித்திருந்தது.
+
+◼️
+
+[Data](articles/86842bfe.json)
+
+---
+
+### உப்பு தட்டுப்பாடு ஏற்படும் அபாயம்?
+
+*2024-12-06 10:02:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உப்பு-தட்டுப்பாடு-ஏற்படும்-அபாயம்/175-348343) · `ta`
+
+இதற்கு காரணம், கடந்த காலங்களில் மோசமான வானிலையால் உள்ளூர் உப்பு உற்பத்தி வெகுவாக குறைந்துள்ளது.
+
+இதன்படி, தற்போதுள்ள நிலைமை தொடர்பில் உரிய அதிகாரிகள் கவனம் செலுத்தி உடனடியாக நடவடிக்கை எடுக்காவிட்டால், எதிர்காலத்தில் நாட்டில் உப்பு தட்டுப்பாடு ஏற்படும் அபாயம் உள்ளதாக, சந்தைகள் வட்டாரத் தகவல்கள் தெரிவிக்கின்றன.AN
+
+◼️
+
+[Data](articles/89b67a03.json)
+
+---
+
+### அரிசி, தேங்காய் தட்டுப்பாட்டை குறைக்க நடவடிக்கை
+
+*2024-12-06 09:58:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-தேங்காய்-தட்டுப்பாட்டை-குறைக்க-நடவடிக்கை/175-348342) · `ta`
+
+இறக்குமதி செய்யப்பட்ட அரிசியை துறைமுகத்தில் இறக்கி 04 மணித்தியாலங்களுக்குள் விடுவிப்பதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக,  இலங்கை சுங்கத் திணைக்களம் தெரிவித்துள்ளது.
+
+இறக்குமதி செய்யப்பட்ட அரிசியை விரைவில் சந்தைக்கு வெளியிட வேண்டியதன் அவசியத்தின் காரணமாக, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக, சுங்க ஊடகப் பேச்சாளர் மேலதிக பணிப்பாளர் நாயகம் சிவலி அருக்கொட தெரிவித்தார்.
+
+இதேவேளை, சந்தையில் தேங்காய் விலை உயர்வைக் கட்டுப்படுத்த தேவையான நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாக, வர்த்தக, உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க தெரிவித்துள்ளார். AN
+
+◼️
+
+[Data](articles/f6724f68.json)
+
+---
+
+### The deadline for submitting income and spending report
+
+*2024-12-06 09:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருமானம்-செலவு-அறிக்கை-சமர்பிப்பதற்கான-காலக்கெடு-நிறைவு/175-348341) · `ta`
+
+Deadline for income & spending reports: Today. Nearly 20% submitted. Candidates must comply regardless of outcome. Failure leads to legal action under Election Expenditure Act.
+
+🟩
+
+The deadline for submitting an income and cost report to all candidates contesting the parliamentary elections ends today (6).
+
+Nearly 20% of these reports have already been submitted at the district level, said Rohana Hettiarachchi, Executive Director of the People's Action for Independent and Fair Elections.
+
+He also urged all candidates to ensure that their reports were submitted in a timely manner, whether they won the election or losing.
+
+“If you fail to submit the required documents, legal action will be taken under the Act of Regulating the Election Expenditure Act.
+
+◼️
+
+[Data](articles/15359b9d.json)
+
+[Extended Data](ext_articles/15359b9d.ext.json)
+
+---
+
+### Action to make a timely tax deposit
+
+*2024-12-06 09:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-நேரத்தில்-வரி-அறவிடுவதற்கு-நடவடிக்கை/175-348340) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+President Anurakumara Dissanayake directs authorities to issue liquor permits regularly. Emphasizes timely action, avoiding abuse of power. Discusses tax collection issues, including blacklisted companies and banned taxable entities.
+
+🟩
+
+President Anurakumara Dissanayake issued a directive to the authorities to follow a regular system in issuing liquor permits.
+
+The President gave these instructions during a discussion with senior officials of the Liquor Department yesterday (05) at the Presidential Office.
+
+The President stressed that the authorities should not take advantage of their powers and not to implement the law in all cases and to take action to take action in a timely manner.
+
+The focus on the difficulties of collecting liquor and the irregularities in it were discussed in detail, and the new methods of collecting taxes, blacklisted companies and ban on taxable companies.. Remble
+
+◼️
+
+[Data](articles/f7d59bb5.json)
+
+[Extended Data](ext_articles/f7d59bb5.ext.json)
+
+---
+
+### Youth arrested for defrauding money via social media scam
+
+*2024-12-06 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104037/youth-arrested-for-defrauding-money-via-social-media-scam) · `en`
+
+The Computer Crime Investigation Division’s North Western Province Unit has arrested a 22-year-old suspect from Digana in connection with an incident of defrauding money.
+
+The suspect is accused of defrauding over Rs. 500,000 by deceiving an individual who contacted them on social media, after falsely claiming he could help him earn money online.
+
+Following a complaint, the suspect was apprehended yesterday (05), and further investigations into the incident are ongoing.
+
+◼️
+
+[Data](articles/fe871c2c.json)
+
+[Extended Data](ext_articles/fe871c2c.ext.json)
+
+---
+
+### Back in the Bay of Bengal
 
 *2024-12-06 09:28:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வங்காள-விரிகுடாவில்-காற்றுச்-சுழற்சி/175-348339) · `ta`
 
-வங்காள விரிகுடாவில் நாளை (07) மீண்டும் ஒரு காற்றுச் சுழற்சி ஏற்படுவதற்கான வாய்ப்புகள் உள்ளதாக யாழ்ப்பாண பல்கலைக்கழகத்தின் புவியற்துறை தலைவரும், சான்றுபடுத்தப்பட்ட வானிலையாளருமான கலாநிதி நாகமுத்து பிரதீபராஜா தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-இந்த காற்றுச் சுழற்சியானது மேற்கு அல்லது வடக்கு திசை நோக்கி நகர்ந்து, அடுத்த 3 நாட்களில், இலங்கைக்கு அண்மித்த பகுதிகளில் வரும் என எதிர்பார்க்கப்படுகின்றது.
 
-எனினும் வடக்கு மற்றும் கிழக்கு மாகாணங்களின் சில பகுதிகள் உட்பட நாட்டின் பெரும்பாலான பிரதேசங்களுக்கு மழை பெய்வதற்கான வாய்ப்பு உள்ளதாக  நாகமுத்து பிரதீபராஜா தெரிவித்துள்ளார். R
+
+Air circulation possible in Bay of Bengal tomorrow. Moving west/north, affecting Sri Lanka in 3 days. Rainfall expected nationwide, especially Northern & Eastern Provinces.
+
+🟩
+
+Dr. Nakamuthu Pradeeparajah, the head of the Jaffna University of Jaffna, and the certified weatheror, said that there is a possibility of an air circulation again in the Bay of Bengal tomorrow (07).
+
+The air circulation is moving to the west or north, and in the next three days, Sri Lanka is expected to arrive in adjacent areas.
+
+However, Nakamuthu Pradeeparajah said that rainfall is likely to be experienced in most parts of the country, including parts of the Northern and Eastern Provinces.. Remble
 
 ◼️
 
 [Data](articles/178af815.json)
+
+[Extended Data](ext_articles/178af815.ext.json)
 
 ---
 
@@ -61,6 +187,8 @@ The total exceeds the previous $93 billion IDA replenishment announced in Decemb
 ...
 
 [Data](articles/f4d5d8fb.json)
+
+[Extended Data](ext_articles/f4d5d8fb.ext.json)
 
 ---
 
@@ -80,6 +208,8 @@ Additionally, the Chairman noted that preparations are underway to hold the loca
 
 [Data](articles/14a984bc.json)
 
+[Extended Data](ext_articles/14a984bc.ext.json)
+
 ---
 
 ### Sri Lanka Customs confident of achieving tax revenue target
@@ -93,6 +223,8 @@ According to Additional Director General of Customs, Seevali Arukgoda, a total o
 ◼️
 
 [Data](articles/d789489c.json)
+
+[Extended Data](ext_articles/d789489c.ext.json)
 
 ---
 
@@ -487,6 +619,8 @@ The program, part of the UK Government-funded SheTrades Commonwealth+ program, p
 ...
 
 [Data](articles/0bc48190.json)
+
+[Extended Data](ext_articles/0bc48190.ext.json)
 
 ---
 
@@ -1746,6 +1880,26 @@ In this statement, the citizens of each country have investigated the expression
 
 ---
 
+### අතුරු සම්මත ගිණුමෙන් වැඩිම මුදල බිමල්ට
+
+*2024-12-05 18:36:33* · [`adalk`](https://www.ada.lk/breaking_news/අතුරු-සම්මත-ගිණුමෙන්-වැඩිම-මුදල-බිමල්ට/11-413484) · `si`
+
+2025 ජනවාරි 01 වැනිදා සිට 2025 අප්‍රේල් 30 වැනිදා දක්වා මාස 04ක් සඳහා රජයේ වියදම් ඇතුළත් රුපියල් බිලියන 1,402ක (රු.1,402,886,263,000) අතුරු සම්මත ගිණුම සභානායක අමාත්‍ය බිමල් රත්නායක මහතා අද (05දා) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+මෙහි රුපියල් බිලියන 976ක්(රු.976,074,263,000) පුනරාවර්තන වියදම් ලෙස වෙන් කර ඇත.
+
+මෙම අතුරු සම්මත ගිණුම මගින් වැඩිම මුදලක් වෙන් කර ඇත්තේ ප්‍රවාහන, මහාමාර්ග,වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය (අමාත්‍යවරයා වන්නේ බිමල් රත්නායක) වන අතර එම මුදල රුපියල් බිලියන220ක් වේ.
+
+එමෙන්ම මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශයට රුපියල් බිලියන 186ක්, රාජ්‍ය පරිපාලන, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශයට රුපියල් බිලියන 170.4ක්, සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යාංශ - රුපියල් බිලියන 161.9ක් සහ ආරක්ෂක අමාත්‍යාංශය -රුපියල් බිලියන 142.9ක් ලෙස මෙමගින් වැඩි වශයෙන් මුදල් වෙන් කර ඇත.
+
+මීට අමතරව රුපියල් බිලියන 92.0ක මුදලක් මෙම අතරු සම්මත ගිණුම හරහා අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයට වෙන් කර තිබේ.
+
+...
+
+[Data](articles/c701c3cd.json)
+
+---
+
 ### It is true that documents sent to the West demanding a ban on human rights violations
 
 *2024-12-05 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200490) · `ta`
@@ -2093,185 +2247,5 @@ The minister said the issue was that businessmen did not hesitate to pay taxes, 
 [Data](articles/63ea9631.json)
 
 [Extended Data](ext_articles/63ea9631.ext.json)
-
----
-
-### Pradeeparaja says that the air circulation in the Bay of Bengal
-
-*2024-12-05 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200525) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Bay of Bengal air circulation forecast: Possible on 7th, may move west/north by 10-11th. Rainfall expected in Northern/Eastern provinces from 10-15th. Sumatra Islands may shift north/northwest by 19th. Potential storm formation on 19th. Fishermen advised to stay ashore from 9th onwards. Agricultural activities may resume but heavy rainfall possible in some areas from 20-25th.
-
-🟩
-
-Dr. Nakamuthu Pradeeparajah, Head of the University of Jaffna and the Certificate of Certificate, said that there is a possibility of an air circulation in the Bay of Bengal on the 7th of this month.
-
-He said this while commenting on the weather conditions. As he further stated,
-
-In terms of the air circulation, it is expected that in the next three days, ie 10 or 11 in the next three days, after the formation of the air circulation, it is expected to come to the west or north direction.
-
-As a result, most of the country, including many parts of the Northern and Eastern Provinces from the 10th to the 15th of this month, is likely to receive rainfall.
-
-Meanwhile, by the 19th of this month, the Sumatra Islands are likely to move to the north and northwestern direction.
-
-...
-
-[Data](articles/ea1c97f0.json)
-
-[Extended Data](ext_articles/ea1c97f0.ext.json)
-
----
-
-### Man jumps into the river near Kalutara Chaya
-
-*2024-12-05 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204076) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Man jumps into Kalu River near Kalutara Bridge. Search operation underway. Police and naval boats deployed to locate missing person.
-
-🟩
-
-A campaign has been launched to find a person who is saying that the Kalu River is ranked from the bridge near Kalutara.
-
-Kalutara South Police said that the police and naval life boats are looking for the missing person using boats.
-
-◼️
-
-[Data](articles/2af7c6db.json)
-
-[Extended Data](ext_articles/2af7c6db.ext.json)
-
----
-
-### Wild elephant threat in Anuradhapura
-
-*2024-12-05 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200523) · `ta`
-
-Wild elephants threaten crops in Anuradhapura villages. Damage reported in Siravastipura. Residents afraid to leave homes at night. Authorities notified but no solution yet. Villagers demand electric fences.
-
-🟩
-
-Wild elephants are in fear as wild elephants are logged in a crowd in the villages of Siravastipura, Moragoda, Bahe Ela, Kalvadavama, Kodikala and Vadakada, which belongs to the Anuradhapura and Nachanduwa Divisional Secretariat Division.
-
-The wild elephant crowd has damaged a large number of crops in the Siravastipura area on Wednesday morning.
-
-The crowds of wild elephants are crowded and crops cultivated in the gardens have been damaged and daily activities have been affected.
-
-People living in those villages are unable to leave the house for the essential needs at night.
-
-The villagers have pointed out that even though the concerned authorities have notified the matter, there is no solution yet.
-
-The villagers have demanded that electric fences be set up and set up soon.
-
-◼️
-
-[Data](articles/3efcf6a4.json)
-
-[Extended Data](ext_articles/3efcf6a4.ext.json)
-
----
-
-### Renuka Perera released on bail
-
-*2024-12-05 17:56:05* · [`adalk`](https://www.ada.lk/breaking_news/රේණුක-පෙරේරාට-ඇප/11-413481) · `si`
-
-Renuka Perera released on bail for Mahaviro commemoration case. Additional Magistrate Manjula Ratnayake ordered bail with two guarantors. Criminal Investigations Department (CID) arrested suspect over LTTE prohibited organization Facebook videos. Attorney-at-Law Manoj Gamage defended, citing Minister's statement on Northern Province celebrations.
-
-🟩
-
-The Colombo Additional Magistrate Manjula Ratnayake ordered that Mr. Renuka Perera was arrested on bail regarding the Mahaviro commemoration.
-
-The arrested Renuka Perera released the suspect Renu Perera on the bail of two of the guarantors who have been created and the people who have created the videos.
-
-The Criminal Information and Videos were arrested in his residence, saying that the LTTE, a prohibited organization had conducted a Mahaviru commemoration in Facebook.
-
-The suspect Renuka Perera was produced before the official compartment of the Magistrate around 2.30 pm.
-
-When the case was taken up, the officers of the Criminal Investigations Department (CID) the officers of the Criminal Investigations Department (CID) presented a report on the progress of the incident.
-
-The suspect was arrested in connection with the videos of the videos of Australia and that such Mahaviu commemorations had not been held in the Northern Province and had the ability to emerged in the North.
-
-...
-
-[Data](articles/9d9e0f1e.json)
-
-[Extended Data](ext_articles/9d9e0f1e.ext.json)
-
----
-
-### Child killed in well
-
-*2024-12-05 17:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றில்-தவறி-விழுந்த-குழந்தை-பலி/175-348293) · `ta`
-
-3-year-old boy dies after falling into well in Thirumalapuram. Child was playing with a balloon that entered the well. Rescue efforts led to hospital admission, where he succumbed to injuries. Incident occurred in Point Pedro Police Division area.
-
-🟩
-
-The death of a three -year -old boy who fell into the well took place on Thursday afternoon at the Thirumalapuram, Vallipuram area, which belongs to the Point Pedro Police Division.
-
-It was reported that the child died when the child was rescued and admitted to the Pedro Base Hospital.
-
-The baby was playing with the balloon in the house yard and the balloon was found in the well.
-
-Neighbors say they may have failed when the balloon fell into the well and tried to recover it.
-
-◼️
-
-[Data](articles/31582a1f.json)
-
-[Extended Data](ext_articles/31582a1f.ext.json)
-
----
-
-### “The name of the recommended people will be published”
-
-*2024-12-05 17:54:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரிந்துரைத்தவர்களின்-பெயர்-வெளியிடப்படும்/175-348292) · `ta`
-
-Government promises to publish names of politicians recommending liquor permits after investigation.
-
-🟩
-
-The government has today promised that the list of politicians who recommended the liquor permit will be released after investigations.
-
-The Chief Minister and Minister of the government, Dr. Nalinda Jayatissa, told Parliament that the Finance Ministry is carrying out investigations into the issue of liquor licensing and that the list of politicians who recommended the permit will be presented to all people.
-
-Responding to the question of Parliamentarian Rohitha Abeygunawardena, who urged the minister to release the names of the Members of Parliament, Ministers or People's Representatives, who recommended the issue of liquor licenses, like the names of the permit recipients.
-
-◼️
-
-[Data](articles/e62544a7.json)
-
-[Extended Data](ext_articles/e62544a7.ext.json)
-
----
-
-### The final report of the death of Bengali tiger is late
-
-*2024-12-05 17:46:48* · [`adalk`](https://www.ada.lk/breaking_news/රිදියගම-බෙංගාලි-ව්‍යාඝ්‍රයා-මියයාමේ-අවසන්-වාර්තාව-ප්‍රමාදයි/11-413480) · `si`
-
-Bengali tiger death report delayed: National Audit Office investigation reveals poisoning cause. Non-natural death recommended. Tissue sample analysis ongoing.
-
-🟩
-
-The National Audit Office reveals audit report that the investigation into the death of a Bengali tiger in the Ridiyagama Park of the National Zoological Department.
-
-According to the report of this tiger's death on the safari park, the report on June 2, 2023 audit, show that the animal had died of poisoning.
-
-The audit office has also been given a recommendation that this tiger under protection in the safari park is a non-natural death.
-
-The public garden department has informed the Audit Office that a reporter has been appointed in 2023 and has been appointed as a report on the report on the tissue samples of the tissue.
-
-◼️
-
-[Data](articles/00fc3ab9.json)
-
-[Extended Data](ext_articles/00fc3ab9.ext.json)
 
 ---

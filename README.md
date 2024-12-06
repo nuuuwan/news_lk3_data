@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 09:19:47**
+As of **2024-12-06 09:42:51**
 
 ## Newspaper Stats
 
-*Scraped **58,767** Articles*
+*Scraped **58,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 598
 bbccomsinhala | 614
 islandlk | 3,534
 economynextcom | 3,572
-dailyftlk | 4,060
+dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,571
-adaderanalk | 7,133
-tamilmirrorlk | 8,373
+adaderanalk | 7,137
+tamilmirrorlk | 8,374
 virakesarilk | 9,625
 adaderanasinhalalk | 10,146
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 10,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,739 (100.0%) of 58,767 articles have been extended.
+58,743 (99.9%) of 58,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### மீண்டும் வங்காள விரிகுடாவில் காற்றுச் சுழற்சி
+
+*2024-12-06 09:28:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வங்காள-விரிகுடாவில்-காற்றுச்-சுழற்சி/175-348339) · `ta`
+
+வங்காள விரிகுடாவில் நாளை (07) மீண்டும் ஒரு காற்றுச் சுழற்சி ஏற்படுவதற்கான வாய்ப்புகள் உள்ளதாக யாழ்ப்பாண பல்கலைக்கழகத்தின் புவியற்துறை தலைவரும், சான்றுபடுத்தப்பட்ட வானிலையாளருமான கலாநிதி நாகமுத்து பிரதீபராஜா தெரிவித்துள்ளார்.
+
+இந்த காற்றுச் சுழற்சியானது மேற்கு அல்லது வடக்கு திசை நோக்கி நகர்ந்து, அடுத்த 3 நாட்களில், இலங்கைக்கு அண்மித்த பகுதிகளில் வரும் என எதிர்பார்க்கப்படுகின்றது.
+
+எனினும் வடக்கு மற்றும் கிழக்கு மாகாணங்களின் சில பகுதிகள் உட்பட நாட்டின் பெரும்பாலான பிரதேசங்களுக்கு மழை பெய்வதற்கான வாய்ப்பு உள்ளதாக  நாகமுத்து பிரதீபராஜா தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/178af815.json)
+
+---
+
+### World Bank wins pledges for $100 billion replenishment of fund for poorest countries
+
+*2024-12-06 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104036/world-bank-wins-pledges-for-100-billion-replenishment-of-fund-for-poorest-countries) · `en`
+
+Donor countries have pledged a record $100 billion three-year replenishment of the World Bank’s fund for the poorest nations, providing a vital lifeline for their struggles against crushing debts, climate disasters, inflation and conflict.
+
+The World Bank made the announcement early on Friday in Seoul at a pledging conference for the International Development Association, which provides grants and very low interest loans to some 78 low-income countries.
+
+The total exceeds the previous $93 billion IDA replenishment announced in December 2021. Countries will contribute about $24 billion directly to IDA, but the fund will issue bonds and employ other financial leverage to stretch that to the targeted $100 billion in grants and loans through mid 2028.
+
+...
+
+[Data](articles/f4d5d8fb.json)
+
+---
+
+### 2024 General Election: Deadline to submit expense reports ends today
+
+*2024-12-06 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104035/2024-general-election-deadline-to-submit-expense-reports-ends-today) · `en`
+
+The Election Commission has announced that the deadline for submitting expense reports related to the 2024 Parliamentary Election will end at midnight today (06).
+
+The Chairman of the Election Commission, R.M.A.L. Rathnayake, stated that only 1,985 out of 8,361 candidates who contested the election have submitted their reports so far.
+
+He further emphasized that legal action will be initiated against the candidates who fail to submit the required reports within the stipulated timeframe.
+
+Additionally, the Chairman noted that preparations are underway to hold the local government elections at the earliest possible date.
+
+◼️
+
+[Data](articles/14a984bc.json)
+
+---
+
+### Sri Lanka Customs confident of achieving tax revenue target
+
+*2024-12-06 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104034/sri-lanka-customs-confident-of-achieving-tax-revenue-target) · `en`
+
+Sri Lanka Customs has expressed confidence in achieving the tax revenue target of Rs. 1.53 trillion for the year before December 31.
+
+According to Additional Director General of Customs, Seevali Arukgoda, a total of Rs. 1.38 trillion in tax revenue has already been collected towards this target.
+
+◼️
+
+[Data](articles/d789489c.json)
+
+---
+
+### Digital economy to generate USD 15 billion revenue in five years – President
+
+*2024-12-06 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104033/digital-economy-to-generate-usd-15-billion-revenue-in-five-years-president) · `en`
+
+President Anura Kumara Dissanayake emphasized the need for the support of all professionals to digitize the country and actively participate in the process, at a time when the expectations of the political establishment and digital technologists are aligned.
+
+He further assured that he would firmly stand by this vision at any time, according to the President’s Media Division (PMD).
+
+The President shared these remarks while addressing officials of the Ministry of Digital Economic Affairs after assuming duties as the Minister of Digital Economic Affairs yesterday (05).
+
+Highlighting the benefits of digitalization, the President stated that it has the potential to enhance the efficiency of economic activities and elevate the country’s economy to greater heights.
+
+The President highlighted that the government’s primary objectives are poverty eradication, transforming social attitudes, and advancing digitalization, the statement said.
+
+...
+
+[Data](articles/7baf55b3.json)
+
+[Extended Data](ext_articles/7baf55b3.ext.json)
+
+---
 
 ### CEB to submit revised electricity tariff proposal to PUCSL today
 
@@ -292,6 +378,24 @@ LAUGFS Rubber, a subsidiary of LAUGFS Holdings, recently won two prestigious Gol
 
 [Data](articles/34a5810e.json)
 
+[Extended Data](ext_articles/34a5810e.ext.json)
+
+---
+
+### LAUGFS Rubber Secures double Gold at ICQCC 2024
+
+*2024-12-06 06:14:08* · [`dailyftlk`](https://www.ft.lk/opinion/LAUGFS-Rubber-Secures-double-Gold-at-ICQCC-2024/14-770162) · `en`
+
+From left: Uditha Premarathne, Sithum Samindaka, Sameera Rathnayeka, Chatura Devenda, Muditha  Samindika, Rumesh Madushan, Sadeep Abeysinghe, Chaturanga Kumara, and Dilantha Lakshan
+
+LAUGFS Rubber, a subsidiary of LAUGFS Holdings, recently won two prestigious Gold Awards for Quality Control Circles at the International Convention on Quality Control Circles (ICQCC) 2024. Under the theme “Quest for Quality, Productivity, and Innovation,” the event brought together leading professionals from across Asia to exchange insights and celebrate excellence in quality and productivity. Triumphing over 1,086 teams from 12 countries, including 188 teams from Sri Lanka, LAUGFS Rubber claimed victory on the global stage. This remarkable achievement underscores the company’s exceptional commitment to quality management and innovation.
+
+...
+
+[Data](articles/6ec70f93.json)
+
+[Extended Data](ext_articles/6ec70f93.ext.json)
+
 ---
 
 ### Lawyers’ Collective urges immediate action on legislative reforms
@@ -367,6 +471,8 @@ The Monetary Policy Board of the Central Bank of Sri Lanka announced that the ba
 ...
 
 [Data](articles/a4856132.json)
+
+[Extended Data](ext_articles/a4856132.ext.json)
 
 ---
 
@@ -2167,169 +2273,5 @@ The public garden department has informed the Audit Office that a reporter has b
 [Data](articles/00fc3ab9.json)
 
 [Extended Data](ext_articles/00fc3ab9.ext.json)
-
----
-
-### Submission to the government's interim voting account council
-
-*2024-12-05 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200512) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Government allocates Rs 9,60,500 crore for Jan-April 2025. Defense & Public Security get Rs 20,801 crore 95,75,000. Debate begins tomorrow."
-
-🟩
-
-President Anura Kumara Dissanayake's first voting account council was presented to the House on Thursday (05) by Chief Minister Bimal Ratnayake.
-
-The funds needed to carry out programs and public services that are currently being carried out for the first four months of next year are allocated through this voting account.
-
-Accordingly, the President of the President Anura Kumara Dissanayake has allocated Rs 9,60,500 crore for the 4 -month period from January 1, 2025 to April 30, 2025.Permission was granted at a Cabinet meeting held on the 25th.
-
-Accordingly, 20801 crore 95,75,000 rupees has been allocated to the Ministry of Defense and the Ministry of Public Security in this voting account.
-
-The first day of the debate will take place tomorrow (06), the second day of debate.
-
-◼️
-
-[Data](articles/bbb57a26.json)
-
-[Extended Data](ext_articles/bbb57a26.ext.json)
-
----
-
-### Bail for Renuka Perera
-
-*2024-12-05 17:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரேணுகா-பெரேராவுக்குப்-பிணை/175-348291) · `ta`
-
-Renuka Perera, Sri Lanka PA executive, arrested for spreading false Heroes Day info, released on bail after court appearance.
-
-🟩
-
-Renuka Perera, Executive Secretary of the Sri Lanka PA, who was arrested on charges of spreading false information on the recent Heroes Day, has been released on bail.
-
-The Colombo Magistrate's Court has granted bail to Renuka Perera, who was produced in court today.
-
-Renuka Perera was arrested today (December 05) by the Criminal Investigation Department officials on charges of spreading false information through social media regarding the recent Heroes' Day in the North.
-
-◼️
-
-[Data](articles/b8e98cfa.json)
-
-[Extended Data](ext_articles/b8e98cfa.ext.json)
-
----
-
-### Onion prices also rise
-
-*2024-12-05 17:37:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-விலையும்-எகிறியது/175-348290) · `ta`
-
-Onion & coconut prices surge: Indian onions now ₹550/kg (up from ₹500), coconuts ₹230 (from ₹180). Pakistani onions range from ₹400-₹450/kg. Wholesale market sees ₹400/kg onions. Coconut prices tripled to ₹60/pile.
-
-🟩
-
-Consumers say the price of one kilogram of Indian onion has increased from Rs 500 to Rs 550 today and the price of coconut has increased from 180 to 230 rupees.
-
-Pakistan's large onions and other large onions are between 400 and 450 rupees per kg and the price of onion continues to rise.
-
-Merchants say that the total price of Indian onion is in the wholesale market in Pettah, and the total price of one kilogram of onion has risen to 400 rupees.
-
-A small pile of coconut, which sold for 40 rupees to Rs 60, a few months ago, has three times the price of coconuts, according to coconut vendors.
-
-◼️
-
-[Data](articles/3a90fea7.json)
-
-[Extended Data](ext_articles/3a90fea7.ext.json)
-
----
-
-### President to pay attention to Excise Defitive Laws
-
-*2024-12-05 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204075) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential instructions: Systematic excise permit process, tax recovery focus, addressing weaknesses in tax collection, maintaining economic stability. Officials discuss product packaging, artificial damage concerns.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the officials to follow a systematic procedure in an excise permit.
-
-The advice was given in a meeting held at the Presidential Secretariat today (05) with senior officers of the Excise Department.
-
-The President has told senior senior senior senior senior officials of Excise Officers using their power.
-
-It also focuses on taking steps to recover taxes on time and difficulty recovering and the disorders of excise.
-
-Accordingly, both parties have been widely discussed in new procedures, such as recovering the amount of taxes, fabulous agencies and non-tax institutions.
-
-The discussion has also been discussed in the absence of the rules of the taxes.
-
-Accordingly, the President has focused on the weaknesses in the recruitment of the issues and Excise Officers in the release of taxes.
-
-The President told the officials that the people of the Excise Department had no good attitude to officials that they should maintain the economy of the country.
-
-...
-
-[Data](articles/816c59b6.json)
-
-[Extended Data](ext_articles/816c59b6.ext.json)
-
----
-
-### Accident in Valaichenai - One death - 3 people injured
-
-*2024-12-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200501) · `ta`
-
-Valaichenai accident: 1 dead, 3 injured in lorry-three-wheeler collision. Driver arrested, investigation ongoing.
-
-🟩
-
-One person was killed and three others were injured when a lorry and a three -wheeler collided head -on in the Miyankulam area on the Polonnaruwa road in Valaichenai.
-
-The incident took place on Wednesday night (04) and the lorry driver has been arrested, Valaichenai police said.
-
-A three -wheeler traveling from Polonnaruwa to Batticaloa from Polonnaruwa area to Batticaloa and a three -wheeler traveling from Valaichenai to Punanai crashed into the Miyankulam area.
-
-The 65 -year -old man who was traveling in the three -wheeler died on the spot and three others were injured.
-
-Two persons from Omaniyamadu area in Punanai and three others from Ritheenni have been admitted to the Valaichenai Resource Hospital and later transferred to the Batticaloa Teaching Hospital for further treatment.
-
-In addition, steps have been taken to bring the arrested driver to court and further investigations are being carried out by the Valaichenai police station traffic police.
-
-◼️
-
-[Data](articles/71c8b77c.json)
-
-[Extended Data](ext_articles/71c8b77c.ext.json)
-
----
-
-### Lahiru is ridiculous
-
-*2024-12-05 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204074) · `si`
-
-Lahiru Kumara achieves milestone in Test cricket history by becoming the 9th Sri Lankan bowler to reach 100 wickets. He marked South Africa's opening batsman, showcasing his skills in the second Test match between Sri Lanka and South Africa.
-
-🟩
-
-Lahiru Kumara was able to pass the role in the second Test match between Sri Lanka and South Africa.
-
-He was able to mark the South African opening batsman, who was a South African opening batsman at the match today.
-
-Accordingly, he became the 9th bowler who crossed the 100 Test bowler for Sri Lanka.
-
-Lahiru, who started the Test cricket in 2016 as the 139th player of Sri Lanka, played 101 wickets in 33 wickets.
-
-◼️
-
-[Data](articles/63a95a40.json)
-
-[Extended Data](ext_articles/63a95a40.ext.json)
 
 ---

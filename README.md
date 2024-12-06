@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 00:02:25**
+As of **2024-12-07 01:11:46**
 
 ## Newspaper Stats
 
-*Scraped **58,891** Articles*
+*Scraped **58,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,211 @@ colombotelegraphcom | 598
 bbccomsinhala | 616
 islandlk | 3,534
 economynextcom | 3,585
-dailyftlk | 4,061
+dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,581
 adaderanalk | 7,152
 tamilmirrorlk | 8,398
-virakesarilk | 9,650
+virakesarilk | 9,653
 adaderanasinhalalk | 10,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,891 (100.0%) of 58,891 articles have been extended.
+58,897 (100.0%) of 58,903 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-07 (Saturday)
+
+### President calls for media collaboration to foster national progress
+
+*2024-12-07 00:31:17* · [`dailyftlk`](https://www.ft.lk/news/President-calls-for-media-collaboration-to-foster-national-progress/56-770218) · `en`
+
+Highlights media’s key role in shaping country’s future as an integral force
+
+Encourages media to hold Govt. accountable through constructive criticism while maintaining responsible reporting standards
+
+Reaffirms commitment to safeguarding media freedom, cautioning against dissemination of false information
+
+President Anura Kumara Dissanayake underscored the importance of the media as a key partner in building a better State, not an outsider —but as an integral force in driving positive change.
+
+Addressing a meeting with heads of electronic media organisations at the Presidential Secretariat on Thursday, the President reinforced the media’s vital role in improving the lives of citizens and shaping the country’s future.
+
+Highlighting the people’s mandate for a new political culture, President Dissanayake invited media organisations to collaborate in fostering the political, social, and economic transformations that the public desires.
+
+...
+
+[Data](articles/95e31e43.json)
+
+[Extended Data](ext_articles/95e31e43.ext.json)
+
+---
+
+### US Assistant Secretary of State calls on Prime Minister
+
+*2024-12-07 00:30:04* · [`dailyftlk`](https://www.ft.lk/news/US-Assistant-Secretary-of-State-calls-on-Prime-Minister/56-770217) · `en`
+
+The US delegation led by Assistant Secretary of State for the Bureau of South and Central Asian Affairs (SCA) Donald Lu met with Prime Minister Dr. Harini Amarasuriya.
+
+The delegation included representatives from key agencies such as the United States Agency for International Development (USAID) and the US Department of Treasury.
+
+Taking to ‘X’ US Ambassador to Sri Lanka Julie Chung stated that meeting with Prime Minister Dr. Harini Amarasuriya was productive and discussed on multiple areas.
+
+“We had a productive discussion on Sri Lanka’s priorities strengthening cooperation in education, agriculture, anti-corruption measures and equitable economic growth,” the Ambassador added.
+
+She also noted that US Treasury Deputy Assistant Secretary Robert Kaproth, reaffirmed US support for Sri Lanka’s reform agenda.
+
+◼️
+
+[Data](articles/281a2f88.json)
+
+[Extended Data](ext_articles/281a2f88.ext.json)
+
+---
+
+### Only 23% of candidates submit expenditure reports as deadline looms
+
+*2024-12-07 00:29:28* · [`dailyftlk`](https://www.ft.lk/news/Only-23-of-candidates-submit-expenditure-reports-as-deadline-looms/56-770216) · `en`
+
+ECSL chairperson says as of 3 December, only 1,985 out of 8,361 candidates and 106 out of 690 political parties or independent groups have complied
+
+Stresses ECSL cannot extend deadline due to provisions under the Election Expenditure Act 2023
+
+Says non-compliance will lead to legal action with files referred to AG and police
+
+Warns possible candidacy in upcoming LG polls may also be affected if legal action is initiated for non-submission of expenditure reports
+
+The Election Commission of Sri Lanka (ECSL) has revealed that only 23% of Parliamentary election candidates have submitted their expenditure reports, with the deadline set to expire at midnight today.
+
+...
+
+[Data](articles/04030f88.json)
+
+[Extended Data](ext_articles/04030f88.ext.json)
+
+---
+
+### A sip of history: The enduring legacy of Dambatenne Estate
+
+*2024-12-07 00:27:51* · [`dailyftlk`](https://www.ft.lk/business/A-sip-of-history-The-enduring-legacy-of-Dambatenne-Estate/34-770215) · `en`
+
+Nestled in the misty hills of Sri Lanka’s Uva Province is a living piece of Pure Ceylon Tea history in the form of Dambatenne Estate. Sprawling across the verdant slopes of Haputale, this iconic estate holds the legacy of one of the most famous names in tea — Sir Thomas Lipton. Dambatenne estate is a place where past and present converge, offering visitors a unique window into the origins of Sri Lanka’s tea industry and the enduring global reputation it continues to command.
+
+Together with the father of Ceylon Tea himself, James Taylor whom at the time of Lipton’s arrival in then Ceylon, had already established Sri Lanka’s very first commercial tea plantation and factory at Loolecondera Estate, the duo set about the development of Pure Ceylon Tea that continues to form the foundation of the brand today.
+
+...
+
+[Data](articles/9a18f567.json)
+
+---
+
+### Australia, UN Women, Chrysalis launch 5-year project to empower women and transform social norms
+
+*2024-12-07 00:26:57* · [`dailyftlk`](https://www.ft.lk/business/Australia-UN-Women-Chrysalis-launch-5-year-project-to-empower-women-and-transform-social-norms/34-770214) · `en`
+
+The Government of Australia will partner with UN Women and national civil society organisation Chrysalis on a new five-year program to advance gender equality in Sri Lanka.
+
+“THRIVE – Together for Her: Resilience-building, Inclusivity, and Voices for Equality in Sri Lanka” will economically and socially empower women, working with their families and communities to address persistent and harmful social norms that perpetuate issues such as gender-based violence.
+
+Australian High Commissioner to Sri Lanka Paul Stephens said: “Australia has an enduring partnership with Sri Lanka and a steadfast commitment to promoting gender equality in our region. No country can meet its development goals without ensuring everyone has the opportunity to reach their full potential. By challenging harmful social norms and investing in women’s leadership and livelihoods, we want to support a future where all Sri Lankans can thrive.”
+
+...
+
+[Data](articles/0cb4dd09.json)
+
+---
+
+### DIMO Academy and HomeServe Germany forge strategic partnership to enhance vocational education in Sri Lanka
+
+*2024-12-07 00:26:14* · [`dailyftlk`](https://www.ft.lk/business/DIMO-Academy-and-HomeServe-Germany-forge-strategic-partnership-to-enhance-vocational-education-in-Sri-Lanka/34-770213) · `en`
+
+From left: CHRO DIMO Executive Director Dilrukshi Kurukulasuriya, DIMO Group Managing Director and CEO Gahanath Pandithage, DIMO Chairman Ranjith Pandithage, Germany HomeServe CEO Thomas Rebel,  Germany HomeServe and DIMO Academy Consultant Jobst Ferber and DIMO Academy Head Vimukthi Randeny – Pix by Lasantha Kumara
+
+DIMO Academy, the vocational training arm of DIMO, entered a strategic partnership with HomeServe Germany, a global leader in home assistance, on 2 December at the Hiton Residences.
+
+By offering job placements in Germany’s thriving building service sector, aimed at empowering the local youth with globally recognised qualifications, this joint endeavour marks the beginning of strengthened workforce development. Vocational training is essential as it provides individuals with practical skills and knowledge for vital career paths often overlooked by many, fostering steady employment and economic growth in Sri Lanka.
+
+...
+
+[Data](articles/782482cc.json)
+
+---
+
+### All at sea?
+
+*2024-12-07 00:16:09* · [`dailyftlk`](https://www.ft.lk/columns/All-at-sea/4-770205) · `en`
+
+But if the Chabad House movement’s ideology – politics, if you will – is the core issue here, why so in one place, but apparently not in another?
+
+Mental gymnastics – something Gunasekara suggests I am guilty of indulging in – are hardly needed to appreciate the wider context here. A fair bit of media commentary on these events includes a final note to the effect that three-quarters of all Dutch Jews – many of my own relatives included – were murdered by the Nazis, mostly in concentration camps but all too many, like those Israeli and Jewish football supporters, hunted down on the streets of Amsterdam and a host of other Dutch towns and villages. It’s this history that underlies Dutch politicians’ responses to the recent violence
+
+“Thou shalt not be a victim, thou shalt not be a perpetrator. But above all, thou shalt not be a bystander” – Yehuda Bauer
+
+...
+
+[Data](articles/6daf8667.json)
+
+[Extended Data](ext_articles/6daf8667.ext.json)
+
+---
+
+### Sri Lanka’s energy independence through climate finance
+
+*2024-12-07 00:13:01* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-energy-independence-through-climate-finance/4-770204) · `en`
+
+Sri Lanka can significantly advance its climate change ambition and negotiate from a point of strength for increased flow of concessional climate finance to realise its ambitious strategy for energy transition to achieve energy sovereignty
+
+Now it is technically possible to operate power grids comprising of close to 100% renewable energy sources such as hydro power including pump storage hydro, solar and wind and battery energy storage. The Sri Lanka Electricity Act of 2024 provides the legal framework for this. For a country like Sri Lanka, which is entirely dependent on imported fossil fuel such as oil, coal and LNG (in the future), this provides an opportunity to achieve complete energy sovereignty by eliminating the need for fossil fuel imports. This would provide reliable, indigenous electricity which is not exposed to fluctuations in global fuel prices and exchange rate
+
+...
+
+[Data](articles/4c93e743.json)
+
+[Extended Data](ext_articles/4c93e743.ext.json)
+
+---
+
 ### 2024-12-06 (Friday)
+
+### Blueprint for new Constitution
+
+*2024-12-06 23:56:04* · [`dailyftlk`](https://www.ft.lk/columns/Blueprint-for-new-Constitution/4-770198) · `en`
+
+The Constitution, which is the supreme and fundamental law, must be sufficiently flexible to enable different shades of political opinion to be developed and implemented from time to time
+
+When the citizens agree to be governed, what they insist in return from the rulers is that their rights and freedoms be effectively guaranteed. The Constitution should provide, as it does in many other countries, that an international human rights treaty, when ratified, will have the force of law, superseding any inconsistent existing law. If the Government is unwilling to do so, why ratify a treaty at all? Alternatively, at least the provisions of the two international human rights covenants should be incorporated in the Constitution. That is not only a matter of sound commonsense and prudent governance; it is also a solemn treaty obligation
+
+...
+
+[Data](articles/e53a54da.json)
+
+[Extended Data](ext_articles/e53a54da.ext.json)
+
+---
+
+### பொறுப்புணர்வுடன் துடுப்பெடுத்தாடுகிறது இலங்கை; 2ஆம் நாள் ஆட்ட நேர முடிவில் முதல் இன்னிங்ஸில் 242 - 3 விக்.
+
+*2024-12-06 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200623) · `ta`
+
+தென் ஆபிரிக்காவுக்கு எதிராக போர்ட் எலிஸபெத், சென். ஜோர்ஜ் பார்க் கெபெர்ஹா விளையாட்டரங்கில் நடைபெற்றுவரும் 2ஆவதும் கடைசியுமான டெஸ்ட் கிரிக்கெட் போட்டியில் இலங்கை அதன் முதல் இன்னிங்ஸில் மிகுந்த பொறுப்புணர்வுடன் துடுபெடுத்தாடிக்கொண்டிருந்தது.
+
+பெத்தும் நிஸ்ஸன்க, தினேஷ் சந்திமால், ஏஞ்சலோ மெத்யூஸ், கமிந்து மெண்டிஸ் ஆகிய அனைவரும் நிதானத்துடனும் பொறுப்புணர்வுடனும் துடுப்பெடுத்தாடி இலங்கை அணியை சிறப்பான நிலையில் இட்டுள்ளனர்.
+
+தென் ஆபிரிக்கா முதல் இன்னிங்ஸில் பெற்ற 358 ஓட்டங்களுக்கு பதிலளித்து துடுப்பெடுத்தாடும் இலங்கை இரண்டாம் நாள் ஆட்ட நேர முடிவின்போது 3 விக்கெட்களை இழந்து 242 ஓட்டங்களைப் பெற்றிருந்தது.
+
+இதற்கு அமைய முதல் இன்னிங்ஸில் 7 விக்கெட்கள் மீதம் இருக்க தென் ஆபிரிக்காவைவிட 116 ஓட்டங்களால் இலங்கை பின்னிலையில் இருக்கிறது.
+
+மொத்த எண்ணிக்கை 41 ஓட்டங்களாக இருந்தபோது திமுத் கருணாரட்ன 20 ஓட்டங்களுடன் ஆட்டம் இழந்தார்.
+
+அடுத்து ஜோடி சேர்ந்த பெத்தும் நிஸ்ஸன்கவும் தினேஷ் சந்திமாலும் மிகவும் பொறுப்புணர்வுடன் துடுப்பெடுத்தாடி 2ஆவது விக்கெட்டில் 109 ஓட்டங்களைப் பகிர்ந்து  அணியை சிறப்பான நிலையில் இட்டனர்.
+
+...
+
+[Data](articles/2bc6c761.json)
+
+---
 
 ### Matthews exceeds 8000 Tests
 
@@ -99,6 +287,40 @@ Delivering his first parliamentary speech today (06), Jayaweera attributed the e
 [Data](articles/2e4508aa.json)
 
 [Extended Data](ext_articles/2e4508aa.ext.json)
+
+---
+
+### பிணையில் வெளிவந்த லொஹான் ரத்வத்தே மீண்டும் கைது!
+
+*2024-12-06 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200622) · `ta`
+
+பிணையில் விடுவிக்கப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தே மீண்டும் கைது செய்யப்பட்டுள்ளார்.
+
+குடிபோதையில் வாகனம் ஓட்டியதால் ஏற்பட்ட விபத்து ஒன்று தொடர்பில் இவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/89f40cfc.json)
+
+---
+
+### தரமற்ற மருந்துகள் விநியோகிக்கப்பட்டுள்ளதாக வெளியாகியுள்ள செய்தி பொய்யானது - சுகாதார அமைச்சர்
+
+*2024-12-06 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200613) · `ta`
+
+அரச வைத்தியசாலைகளுக்கு 500 தரமற்ற மருந்துகள் விநியோகிக்கப்பட்டுள்ளதாக வெளியாகியுள்ள செய்தி முற்றிலும் பொய்யானவை.
+
+தவறான செய்திகளை சமூகமயப்படுத்துவதை தவிர்த்துக் கொள்ளுமாறு உரிய தரப்பினரிடம் கேட்டுக் கொள்கிறோம் என சுகாதாரத்துறை மற்றும்  ஊடகத்துறை அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  வெள்ளிக்கிழமை (06)  நடைபெற்ற இடைக்கால கணக்கறிக்கை மீதான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டில் உள்ள அரச வைத்தியசாலைகளுக்கு  500 தரமற்ற மருந்துகள் விநியோகிக்கப்பட்டுள்ளதாக எதிரணியின் பிரதம கொறடா  இன்று (06) காலை முன்வைத்த  விடயம்  குறித்து சுகாதார அமைச்சுடனும், உரிய தரப்பினருடனும்  கலந்துரையாடி ,  தகவல்களை பெற்றுக் கொண்டேன்.
+
+எவ்விதமான தரமற்ற மருந்துகளும் அரச வைத்தியசாலைகளுக்கு விநியோகிக்கப்படவில்லை என்று மருந்து விநியோக பிரிவும், தேசிய மருந்து கட்டுப்பாட்டு அதிகார சபையும் குறிப்பிட்டுள்ளது. ஆகவே தவறான  விடயங்களை குறிப்பிடுவதை தவிர்த்துக் கொள்ளுமாறு உரிய தரப்பினரிடம் கேட்டுக் கொள்கிறோம்.
+
+...
+
+[Data](articles/b61c2a52.json)
 
 ---
 
@@ -2283,335 +2505,5 @@ The more liquid S&P SL20 was up 0.29 percent, or 11.91 points, at 4,064.
 [Data](articles/69366959.json)
 
 [Extended Data](ext_articles/69366959.ext.json)
-
----
-
-### COPA chairmanship to be given to opposition, COPE chair from ruling party
-
-*2024-12-06 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104040/copa-chairmanship-to-be-given-to-opposition-cope-chair-fromrulingparty) · `en`
-
-Leader of the House, Minister Bimal Rathnayake, announced today (6) that the position of Chairman of the Committee on Public Accounts (COPA) will be granted to the opposition.
-
-He made this statement in response to a query in Parliament regarding the Parliamentary Affairs Committee or the Party Leaders’ meeting.
-
-Minister Rathnayake said, “We have decided to give the position of Chairman of the Committee on Public Accounts (COPA) to the opposition. It is not something you requested. Also, the number of members of the Public Accounts Committee has been increased beyond the standing orders.”
-
-The Minister further clarified that the ruling party will take the chairmanship of the Committee on Public Enterprises (COPE), as it is necessary to examine the affairs of the previous government.
-
-“We do not want a minister from the former government to come and become the chairman of the COPE. That is not ethical,” he added.
-
-...
-
-[Data](articles/83402bcf.json)
-
-[Extended Data](ext_articles/83402bcf.ext.json)
-
----
-
-### Control in rice and coconut purchasing - Sathosa Notification
-
-*2024-12-06 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200550) · `ta`
-
-Sathosa offers rice (5kg for 220 LKR) and coconuts (3 for 130 LKR). Sales started in Colombo on Thursday, nationwide from Friday.
-
-🟩
-
-Sri Lanka's Chairman Dr. Samitha Perera said that the Sri Lankan Sathosa sales conditions in the outdoors have taken steps to sell the country's rice and coconuts for consumers from Friday (6).
-
-Accordingly, a consumer can get five kilos of rice at a rate of 220 rupees and three coconuts at a rate of 130 rupees, he said.
-
-The President of Lanka Sathosa added that the process of selling rice and coconuts to consumers through Sathosa was launched in Colombo on Thursday (5).
-
-◼️
-
-[Data](articles/84aca12c.json)
-
-[Extended Data](ext_articles/84aca12c.ext.json)
-
----
-
-### Cash fraud through the website;Suspect arrested
-
-*2024-12-06 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200554) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"22-year-old suspect from Digana arrested by North Western Province Computer Criminal Investigation Department for online cash fraud. Further investigations ongoing."
-
-
-
-This summary captures the main points of the original text in a concise manner within the 200-character limit.
-
-🟩
-
-The North Western Province Computer Criminal Investigation Department (North) has arrested a suspect for allegedly defrauding money through the Internet.
-
-The suspect was 22 years old from Digana.
-
-The suspect has defrauded more than Rs.
-
-Further investigations are being carried out by the North Western Provincial Criminal Investigation Division.
-
-◼️
-
-[Data](articles/fc67ab9b.json)
-
-[Extended Data](ext_articles/fc67ab9b.ext.json)
-
----
-
-### SLTB depot is murdered and stolen money
-
-*2024-12-06 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204092) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Murder at SLTB depot: 85-yr-old Laggerswaran killed, money stolen. Nuwara Eliya Police investigating. Attack occurred during sleep. Revenue kept in cupboard overnight.
-
-🟩
-
-Nearly Rs.
-
-The Nuwara Eliya Police too has also launched an investigation into the incident.
-
-The victim has been identified as a resident of the Galuwa area in Nuwara Eliya, Nuwara Eliya. A 85-year-old named Laggerswaran.
-
-Initiative investigations have revealed that a group of more than Rs.
-
-It has been revealed that the watchman has stayed in his safety booth and a person or a person has attacked his head with a sharp instrument and killed the money.
-
-Nuwara Eliya Police said that the murder had been carried out while he was going to bed when the murder had taken place.
-
-Nuwara Eliya CTB Depot said that the revenue was placed in the depot in the evening yesterday (05) was placed on the cupboard to bance the income.
-
-◼️
-
-[Data](articles/898c3f75.json)
-
-[Extended Data](ext_articles/898c3f75.ext.json)
-
----
-
-### Opposition to be appointed as the Chairman of the Kopyra Committee
-
-*2024-12-06 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204091) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Opposition to Bimal Ratnayake's appointment as COPE Chairman: Minister claims it's not requested, violates standing orders, and doesn't want a government minister heading the committee. Decision expected today.
-
-🟩
-
-Minister Bimal Ratnayake said that the Chairman of the Committee on Public Accounts or the Chairman of the Kopay Committee.
-
-He was responding to a question raised by Parliament today (6) regarding the party leaders' meeting or party leaders meeting.
-
-Leader of the House of Leader Bimal Ratnayake, Speaking further,
-
-"We have decided to give the post of Chairman of the Public Accounting Council to the Ordinance. It's not asking for you. Also, the number of members of the Public Accounts has increased higher than Standing Orders.
-
-Chairman of the COPE Committee (Committee of the Public Enterprises) We said that the ruling party needed it. In the first time, the things of the last government. We don't like a government minister coming from the chairman of the coop. It's not morally ".
-
-Meanwhile, the House for his parents said that the House was taken up from January 31 this morning.
-
-He also decided to take a decision on appointment this afternoon.
-
-...
-
-[Data](articles/bfbca854.json)
-
-[Extended Data](ext_articles/bfbca854.ext.json)
-
----
-
-### Nuwara Eliya Depot Security Officer murdered
-
-*2024-12-06 10:37:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-டிப்போ-பாதுகாப்பு-உத்தியோகத்தர்-கொலை/76-348347) · `ta`
-
-Murder at Nuwara Eliya Depot: Guard killed, Rs. 900k stolen. Police investigate theft and homicide.
-
-🟩
-
-Nuwara Eliya Police have launched an investigation into the incident of the murder of a guard who was on duty at the Nuwara Eliya Sri Lanka Depot and stole about nine lakhs of rupees.
-
-K. Lokeswaran, an 85 -year -old man from Kalpaya, Nuwara Eliya, who worked as a police officer at Depot, was murdered.
-
-Preliminary inquiries revealed that some people killed the guard and took about nine lakhs of rupees from the cupboard in the depot.
-
-The guard waited in his security room, and some gangs or a person attacked the head with a sharp weapon and took the money.
-
-Nuwara Eliya Police, who are investigating the murder, said that the officer in charge of the depot and the cashier was staying in the depot, but they were sleeping while they were sleeping.
-
-The depot official said that the income of buses that ran from the Nuwara Eliya Sri Lanka Depot on Thursday afternoon (05).
-
-◼️
-
-[Data](articles/d5be7c5d.json)
-
-[Extended Data](ext_articles/d5be7c5d.ext.json)
-
----
-
-### Sri Lankan Tamils ​​who have been trapped in Diocarcia about the arrival of Britain
-
-*2024-12-06 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200552) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Tamil refugees arrive in Britain after 3 years on Diego Garcia. 47 asylum seekers land, greeted by lawyers. They escaped harsh conditions, risking lives at sea. Legal battles over their detention resolved.
-
-🟩
-
-Sri Lankan Tamil asylum seekers who have been on the island of Diocarcia for three years have been relieved that the UK has reached the UK.
-
-Those who have come to Britain have come to the British, who have come to Britain in the worst of the distant Diego Garcia, the distant country of the Hindus.
-
-47 Sri Lankan Tamils ​​arrived in Britain on Monday night as lawyers and voices welcomed them as a great day for justice. Meanwhile, eight more people from Rwanda have arrived in Britain.
-
-They are currently staying at a hotel in the suburbs of London.
-
-They are relieved to be relieved of the cold cold.
-
-One cannot believe that we have come to Britain and feel like we have reached.
-
-The boat that they poured in Canada was in the middle of the sea and they were cook in Tycocarcia.
-
-Another Sri Lankan Tamils ​​said that if the life of our country was good, we would not have made a dangerous journey through the boat we would be on.
-
-...
-
-[Data](articles/3903e7a6.json)
-
-[Extended Data](ext_articles/3903e7a6.ext.json)
-
----
-
-### Sri Lanka to develop new nation branding tourism strategy
-
-*2024-12-06 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104039/sri-lanka-to-develop-new-nation-branding-tourism-strategy) · `en`
-
-Sri Lankan authorities are bringing together all stakeholders in tourism at a conference in January to finalise a nation branding strategy to propel the industry which is enjoying a period of growth, officials said.
-
-The campaign tagline ‘You will come back for more’ devised some time back, will be discontinued and instead a nation branding strategy developed, Sri Lanka Tourism chairman Buddhika Hewawasam told TTG Asia this week. Hewawasam took over as chairman of the NTO a few weeks after a new government was installed in power following parliamentary elections on November 14.
-
-“With input from the industry at this meeting in January, we want to develop one national brand (while) also piggybacking on the success and the popularity of Ceylon tea and Sri Lanka in the cricket field,” he said. In the future, tourism in Sri Lanka will focus on promoting cricket and its tea, two things which Sri Lanka is famous for.
-
-...
-
-[Data](articles/5bc41e69.json)
-
-[Extended Data](ext_articles/5bc41e69.ext.json)
-
----
-
-### Two persons arrested for allegedly snatching a foreign citizen's cell phone
-
-*2024-12-06 10:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெளிநாட்டு-பிரஜையின்-அலைபேசியை-பறித்த-இருவர்-கைது/76-348346) · `ta`
-
-Two arrests made for stealing foreigner's iPhone. Woman reported assault and theft at tourism police station. Suspects aged 23 & 26 from Rossella & Wickton estates. Case heard at Hatton Magistrate's Court.
-
-🟩
-
-Two youths have seized an iPhone worth Rs.
-
-The woman had lodged a complaint at the Ella Tourism Police Station that she had beaten with a small stick and snatched the mobile phone.
-
-The mobile phone was found when two youths were searched in Rosella area.
-
-Two suspects aged 23 and 26, aged 23 and 26, from Rossella and Wickton estates, who were arrested in connection with the incident, were produced before the Hatton Magistrate's Court until the 18th.
-
-The police summoned the woman to the Vattawala Police Station on Thursday (05).
-
-◼️
-
-[Data](articles/9aa65b1c.json)
-
-[Extended Data](ext_articles/9aa65b1c.ext.json)
-
----
-
-### Shooting in the post;Elderly victim
-
-*2024-12-06 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200548) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Elderly woman killed in shooting in Bogawewa, Anuradhapura. Two men on motorcycle fired at her home. Victim died at hospital. Possible R-56 rifle used. No motive or suspects yet."
-
-🟩
-
-An elderly woman has died in the shooting in Bogawewa area under the Public Police Division of Anuradhapura, police said.
-
-Two unidentified men who were riding a motorcycle to the Pokhawewa area, Bogawewa area, fired at a woman in a house.
-
-The woman, who was injured in the shooting, died after being admitted to the post of hospital for treatment.
-
-Police suspect that the R -56 rifle may have been used for the shooting.
-
-Also, no information has been received so far on the cause of the shooting and the suspects.
-
-◼️
-
-[Data](articles/10af1dc1.json)
-
-[Extended Data](ext_articles/10af1dc1.ext.json)
-
----
-
-### 2,000 officers field for special testing
-
-*2024-12-06 10:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சோதனைக்காக-2-000-உத்தியோகத்தர்கள்-களமிறக்கம்/175-348345) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-2,000 officers nationwide for special testing. Focus: Inspecting cooked foods in restaurants. Concerns: Food/drink cleanliness issues due to rain, increasing infectious disease cases.
-
-🟩
-
-The Public Health Inspectors Association said that 2000 officers have been deployed across the country for special testing during the festive season.
-
-During the tests, the process of inspecting cooked foods in restaurants will be mainly implemented, its secretary Samil Mududa said.
-
-He noted that there are many problems with the cleanliness of food and drinks with the prevailing rainfall at present and many infectious diseases have been diagnosed.. Those
-
-◼️
-
-[Data](articles/31fb5e4f.json)
-
-[Extended Data](ext_articles/31fb5e4f.ext.json)
-
----
-
-### Electricity tariff amendments today handed over
-
-*2024-12-06 10:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டண-திருத்த-யோசனைகள்-இன்று-கையளிப்பு/175-348344) · `ta`
-
-CEB submits revised electricity tariff proposal to PUC today. PUC to review and act on proposed reductions.
-
-🟩
-
-The Ceylon Electricity Board (CEB) will present the idea of ​​reducing electricity tariffs to the Public Utilities Commission today.
-
-After handing over the revised proposal, the Public Utilities Commission should take further steps on the reduction of the electricity tariff.
-
-The Public Utilities Commission said that the Ceylon Electricity Board had previously submitted the proposal to reduce electricity tariffs, but it should be revised and submitted.
-
-◼️
-
-[Data](articles/86842bfe.json)
-
-[Extended Data](ext_articles/86842bfe.ext.json)
 
 ---

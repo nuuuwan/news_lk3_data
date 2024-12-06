@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 14:16:17**
+As of **2024-12-06 14:02:09**
 
 ## Newspaper Stats
 
-*Scraped **58,816** Articles*
+*Scraped **58,814** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 446
+dbsjeyarajcom | 445
 colombotelegraphcom | 598
 bbccomsinhala | 615
 islandlk | 3,534
@@ -20,33 +20,17 @@ adalk | 5,574
 adaderanalk | 7,142
 tamilmirrorlk | 8,386
 virakesarilk | 9,633
-adaderanasinhalalk | 10,156
+adaderanasinhalalk | 10,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,794 (100.0%) of 58,816 articles have been extended.
+58,794 (100.0%) of 58,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
-
-### ආසියානු කිරුළ සොයන ශ්‍රී ලංකා යෞවනයෝ අර්බුදයක
-
-*2024-12-06 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204097) · `si`
-
-එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වෙන ආසියානු කුසලාන වයස 19න් පහළ එක්දින ක්‍රිකට් තරගාවලියේ අවසන් පූර්ව වටයේ තරග අද (6) ආරම්භ විය.
-
-ඉන් ඉන්දියාවට එරෙහිව සාජාහිදී අද පැවැත්වෙන දෙවැනි අවසන් පූර්ව තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 46.2කදී සියලු දෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 173ක් පමණි.
-
-ඒ අනුව ඉන්දීය කණ්ඩායමට ජයග්‍රහණය සඳහා ලකුණු 174ක ඉලක්කයක් හිමිවිය.
-
-◼️
-
-[Data](articles/0b966a62.json)
-
----
 
 ### A powerful earthquake to the state of California
 
@@ -1562,20 +1546,6 @@ ITAK Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmug
 
 ---
 
-### Will Anura Kumara  Dissanayake’s NPP Govt  Order an Official  Probe Into the  “Unofficial Execution”  of JVP  Founder – Leader  Rohana Wijeweera 35 Years ago?
-
-*2024-12-06 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85154) · `en`
-
-November 13 is a date of great significance as far as the  Janatha  Vimukthi Peramuna(JVP)  – known as the Makkal Viduthalai Munnani in Tamil and People’s Liberation Front in English-is concerned. It was on  13 November 1989 that the JVP’s charismatic founder-leader  Rohana Wijeweera.  Since 1994 the JVP has been annually conducting an  event to commemorate Wijeweera and the lives of thousands of JVP cadres killede in the two insurgencies of 1971 and 1987-89. The commemoration of heroes event called “Il Maha Viru Samaruwa” is a blend of speeches and songs and is usually held on the 13th of November..
-
-...
-
-[Data](articles/90becc03.json)
-
-[Extended Data](ext_articles/90becc03.ext.json)
-
----
-
 ### Light way to pay taxes
 
 *2024-12-06 03:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்த-இலகு-வழி-வரும்/175-348336) · `ta`
@@ -1960,20 +1930,6 @@ This historic achievement is a testament to the Kotahena Branch team’s relentl
 
 ---
 
-### யாழ்ப்பாண வெற்றி  தேசிய மக்கள் சக்தியின் தேர்தல் கிரீடத்தில் பெறுமதியான  அணிகலன்: யாழ்ப்பாணத்தில் தேசிய மககள் சக்தி ஏன், எவ்வாறு வெற்றி பெற்றது?
-
-*2024-12-06 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85173) · `en`
-
-தமிழ்த் தேசியவாதத்தின்  கோட்டையான யாழ்ப்பாணத்தைச் சூழ்ந்த அநுரா அலை பற்றியதாக எனது கடந்த வாரத்தைய கட்டுரை அமைந்திருந்தது. ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி.) தலைமையிலான தேசிய மக்கள் சக்தி 2024 நவம்பர் பாராளுமன்ற தேர்தலில் யாழ்ப்பாணத்தில்  அதிகூடிய வாக்குகளைப் பெற்ற தனிக்கட்சியாக வரலாறு படைத்தது. இலங்கை தமிழர்களின் பண்பாட்டுத் தலைநகரம் என்று வர்ணிக்கப்படும் யாழ்ப்பாணத்தின் ஆறு பாராளுமன்ற ஆசனங்களில் தேசிய கட்சிக்கு மூன்று ஆசனங்கள் கிடைத்தன.
-
-நவம்பர் 14  தேர்தல் தீர்ப்பு இலங்கையின் சுதந்திரத்துக்கு பின்னரான வரலாற்றில் இந்த தமிழ்த் தேசியவாதக் கோட்டை முதற்தடவையாக அதுவும்  சிங்களவர்களின் ஆதிக்கத்தில் உள்ள  ஒரு தேசியக்கட்சியினால் தகர்க்கப்பட்டதை குறித்து நிற்கிறது. இந்த கட்டுரை யாழ்ப்பாணத்தில் தேசிய மககள் சக்தி ஏன், எவ்வாறு வெற்றி பெற்றது என்பதை விபரிக்கிறது.
-
-...
-
-[Data](articles/16647881.json)
-
----
-
 ### A fifth-year accolade: In precious memory of Dr Sarojini Perera
 
 *2024-12-06 00:59:00* · [`islandlk`](http://island.lk/a-fifth-year-accolade-in-precious-memory-of-dr-sarojini-perera/) · `en`
@@ -2317,5 +2273,79 @@ In addition, Asapha Fernando took 2 wickets for 67 runs and universal Fernando a
 [Data](articles/08f9e076.json)
 
 [Extended Data](ext_articles/08f9e076.ext.json)
+
+---
+
+### France’s Macron seeks new prime minister as Barnier resigns
+
+*2024-12-05 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104029/frances-macron-seeks-new-prime-minister-as-barnier-resigns) · `en`
+
+(Reuters) - French President Emmanuel Macron met allies and parliament leaders on Thursday as he sought to swiftly appoint a new prime minister to replace Michel Barnier, who officially resigned a day after opposition lawmakers voted to topple his government.
+
+Barnier, a veteran conservative whom Macron appointed prime minister barely three months ago, became the shortest-serving prime minister in modern French history after he failed to find enough support for a budget aimed at taming a wide deficit.
+
+The Elysee Palace said Macron had asked Barnier and his government to stay on in a caretaker capacity until a new government is formed.
+
+Three sources told Reuters on Wednesday that Macron aimed to appoint a replacement swiftly, with one saying he wanted to do so before a ceremony on Saturday to reopen Notre-Dame Cathedral - renovated after a devastating fire. U.S. President-elect Donald Trump is among world leaders expected to attend.
+
+...
+
+[Data](articles/3573f91e.json)
+
+[Extended Data](ext_articles/3573f91e.ext.json)
+
+---
+
+### Investigate Customs Department on illegal vehicle import
+
+*2024-12-05 20:51:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-வாகன-இறக்குமதி-குறித்து-சுங்கத்-திணைக்களத்திடம்-விசாரணை/175-348327) · `ta`
+
+Sri Lanka Customs investigates 200 unreported vehicle imports. Director Sivali Arukoda states 100% containers unchecked, dangerous vehicles undetected. Annual revenue loss estimated at 350-400 billion rupees due to inadequate inspections. Bribery Commission conducting inquiry.
+
+🟩
+
+Additional Customs Director Sivali Arukoda said that the Bribery Commission is conducting an inquiry into the 200 vehicles imported to Sri Lanka without notifying the Customs Department.
+
+He said that 100 percent of the containers imported to Sri Lanka were not tested by the Customs Unit, and that the dangerous containers were tested here and could be brought into the country through an unbeaten container.
+
+He said that the vehicles may sometimes be brought into the country due to the inadequacy of the containers, and that the imported containers do not inspect the imported containers so that the vehicles can be brought into the country.
+
+Customs have the ability to earn 350 to 400 billion rupees per year by granting permission to import vehicles.. Remble
+
+◼️
+
+[Data](articles/fb002738.json)
+
+[Extended Data](ext_articles/fb002738.ext.json)
+
+---
+
+### The government has the right to submit an account of the vote - the answer to Dayasiri's question
+
+*2024-12-05 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200524) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Government submits vote account under law. Opposition criticizes media exhibition. Prime Minister defends right to submit accounting. Urgent need for public service salaries and project updates.
+
+🟩
+
+The government has the right to submit an account voting money. The ruling party's prime minister and minister Nalinda Jayatissa said that the opposition media should not hold a media exhibition.
+
+He was responding to a question posed by Dayasiri Jayasekara on Thursday (05) regarding the government's submission of accounting.
+
+The account is one of the law we have already passed in relation to voting money. We are the first hand on that bill. Is by the law we passed on August 8th. My question is whether this account can be submitted in contrast to the legal source, though there is an urgent need.
+
+It is necessary to advance public service for the first four months of next year, pay salaries to public servants and submit an account of the current projects that are currently being implemented.
+
+We suspended the Standing Ordinance in accordance with the compliance with the party leaders at the meeting and submitted it to the House.
+
+...
+
+[Data](articles/4ef26fc8.json)
+
+[Extended Data](ext_articles/4ef26fc8.ext.json)
 
 ---

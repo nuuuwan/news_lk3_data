@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 05:26:20**
+As of **2024-12-06 05:51:26**
 
 ## Newspaper Stats
 
-*Scraped **58,726** Articles*
+*Scraped **58,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 445
 colombotelegraphcom | 598
 bbccomsinhala | 614
-islandlk | 3,518
+islandlk | 3,531
 economynextcom | 3,572
-dailyftlk | 4,049
+dailyftlk | 4,050
 dailymirrorlk | 4,733
 adalk | 5,569
 adaderanalk | 7,131
-tamilmirrorlk | 8,369
+tamilmirrorlk | 8,371
 virakesarilk | 9,625
 adaderanasinhalalk | 10,140
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,725 (100.0%) of 58,726 articles have been extended.
+58,726 (100.0%) of 58,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### CTTA celebrates 130 years with “Honouring Legends” of industry
+
+*2024-12-06 05:42:06* · [`dailyftlk`](https://www.ft.lk/business/CTTA-celebrates-130-years-with-Honouring-Legends-of-industry/34-770148) · `en`
+
+The Colombo Tea Traders’ Association (CTTA) continued its 130th anniversary celebrations with a grand event titled ‘Honouring Legends.’
+
+The occasion, held at the Colombo Rowing Club on Saturday, 30 November, brought together a distinguished gathering of the industry’s most senior and esteemed members representing all stakeholders, namely, Producers, Manufacturers, Exporters, and Brokers of tea.
+
+This landmark event recognised extraordinary individuals who have dedicated decades of service to the tea industry, shaping the legacy of ‘Ceylon Tea.’ The celebration reflected not only the rich heritage of the CTTA but also its commitment to honouring those whose contributions have sculpted the Ceylon tea industry into a global benchmark of excellence.
+
+...
+
+[Data](articles/d17738be.json)
+
+---
 
 ### Marikkar questions Govt. on PAYE tax and promised relief measures
 
@@ -64,21 +80,61 @@ ITAK Parliamentarians Sivagnanam Shritharan, Pathmanathan Sathiyalingam, Shanmug
 
 ---
 
-### சிபார்சித்தவர்களை விசாரிப்பீர்களா?
+### ’மௌலானாவின் சாட்சியங்களை ஆராய்ந்தால்   உண்மைகள் வெளிவரும்’
+
+*2024-12-06 03:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மௌலானாவின்-சாட்சியங்களை-ஆராய்ந்தால்-உண்மைகள்-வெளிவரும்/175-348334) · `ta`
+
+உயிர்த்த ஞாயிறு குண்டுத் தாக்குதல்  தொடர்பில்  ஆசாத்  மௌலானா  என்பவர் தெரிவித்த சாட்சியங்கள்  ஆராயப்படுமானால்   உண்மைக் குற்றவாளிகளை,சூத்திரதாரிகளை  கண்டுகொள்ள  முடியும் எனத் தெரிவித்த  இலங்கைத் தமிழரசுக் கட்சியின்  மட்டக்களப்பு  மாவட்ட எம்.பி.யான ஸ்ரீநேசன்,  மயிலந்தனை, மாதவனையில்  அத்துமீறிய  குடியேற்றங்கள்  தொடர்பில்  நீதிமன்றம்  3 தடவைகள் அளித்த தீர்ப்புகள் அமுல்படுத்தப்படாத நிலையில் இந்த ஆட்சியில் அங்கு சட்டவாட்சி உறுதிப்படுத்தப்பட வேண்டும் எனவும் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில்   வியாழக்கிழமை (05)  இடம்பெற்ற கணக்கு வாக்குப்பதிவு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் உரையாற்றுகையில்,
+
+ஜனாதிபதி தனது கொள்கைப் பிரகடன  உரையில்  சட்டவாட்சியை  பலப்படுத்த வேண்டும் என கூறியுள்ளார்.
+
+ஆகவே சட்டவாட்சி இங்கு பலவீனமாக இருக்கிறது என்பதனை  அவர் உணர்ந்துள்ளார்.  சட்டவாட்சி  பலவீனமாக  இருந்த  காரணத்தினால்  பல குற்றச்செயல்கள்  நடந்துள்ளன உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் கூட சட்டவாட்சியின் பலவீனத்தினால்தான் நடந்தது.
+
+...
+
+[Data](articles/f623093d.json)
+
+---
+
+### ’கல்முனை பிரதேச செயலகம் குறித்து கலந்துரையாடவும்’
+
+*2024-12-06 02:44:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-பிரதேச-செயலகம்-குறித்து-கலந்துரையாடவும்/175-348333) · `ta`
+
+கல்முனை பிரதேச செயலகம் தொடர்பில் அந்த பிரதேசத்தில் வாழும் முஸ்லிம் மக்களுக்கும் பிரச்சினை இருப்பதால்   கலந்துரையாடி  இந்த பிரச்சினையை எவ்வாறு தீர்த்துக்கொள்வது என்பது தொடர்பில் ஒரு முடிவுக்கு வர முடியும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் எம்.பி.யுமான  ரவூப் ஹக்கீம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (05) சமர்ப்பிக்கப்பட்ட கணக்கு வாக்குப்பதிவு  மீதான விவாதத்தில்  உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர்  தொடர்ந்து உரையாற்றுகையில்,
+
+இலங்கைத் தமிழரசுக் கட்சியினர்   ஜனாதிபதி அநுரகுமாரவை  சந்தித்து கலந்துரையாடியுள்ளனர் . இக் கலந்துரையாடலுக்கு பின்னரும் பாராளுமன்றத்திலும் அது தொடர்பான விடயங்கள் பேசப்பட்டன . குறிப்பாக கல்முனை பிரதேச செயலக தொகுதி தொடர்பான பிரச்சினையை  தீர்ப்பதற்கு ஜனாதிபதி தலையிடுவதாக வாக்குறுதி வழங்கியதாகத்   தெரிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/1e28ad95.json)
+
+---
+
+### Do you investigate those who recommended?
 
 *2024-12-06 02:40:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிபார்சித்தவர்களை-விசாரிப்பீர்களா/175-348332) · `ta`
 
-கடந்த அரசாங்கத்தில் அரசியல் இலஞ்சமாக வழங்கப்பட்ட 361 மதுபானசாலை அனுமதிகளின் உரிமையாளர்கள்,சிபார்சு செய்தவர்கள் தொடர்பில் விசாரணைகள் நடத்தப்படுமா என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. யான இரா. சாணக்கியன் அரசிடம் கேள்வி எழுப்பினார்.
+Sri Lanka TNA MP questions liquor permit investigation. Government accused of ignoring 361 liquor stall approvals. Political influence suspected.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (05)  ஒழுங்கு பிரச்சினை எழுப்பிய இந்தக் கேள்வியை கேட்ட இரா.சாணக்கியன் எம்.பி. மேலும் உரையாற்றுகையில்,
+🟩
 
-கடந்த அரசாங்கத்தில் 361 மதுபானசாலைகளுக்கான  அனுமதிகளை இலஞ்சமாக பெற்றவர்களின் விவரங்களை அரசு சபையில் சமர்ப்பித்தது பாராட்டுக்குரியது. அதேவேளை இந்த மதுபானசாலைகளின் உரிமையாளர்கள், இவற்றுக்கான அனுமதிகளுக்கான  சிபார்சு செய்தவர்கள் தொடர்பில் அரசாங்கம் விசாரணை நடத்துமா?அத்துடன் அரசியல் இலஞ்சமாக வழங்கப்பட்ட இந்த மதுபான சாலைகளுக்கான அனுமதிகளை அரசு இரத்து செய்யுமா?
+Batticaloa District MP Batticaloa District MP of the Sri Lanka Tamil National Alliance (TNA). Elephant. Chanakyan questioned the state.
 
-இந்த 361 மதுபானசாலைகளுக்கான அனுமதிகள் தொடர்பில் அரசு விளக்கமளிக்க வேண்டும் என சபைமுதல்வரும் அமைச்சருமான பிமல் ரத்னாயக்கவிடம் கோரினார். எனினும் அரசு தரப்பில் பதில் வழங்கப்படவில்லை.
+R. Sanakiyan MP on Thursday (05) in Parliament. In addition to the further,
+
+It is commendable that the permits for 361 liquor stalls in the last government have been submitted to the Government House. At the same time, the government will investigate the owners of these liquor schools and the recommendations for the permits, and will the government cancel the permits for these political bribery roads?
+
+The government should explain the permits for these 361 liquor schools and asked the Minister and Minister Bimal Ratnayaka.. However, the government has not responded.
 
 ◼️
 
 [Data](articles/1da044b9.json)
+
+[Extended Data](ext_articles/1da044b9.ext.json)
 
 ---
 
@@ -110,6 +166,68 @@ Could not expect any system change in the administration of national people's po
 
 ---
 
+### Digital transactions via LankaPay outpace GDP of Sri Lanka
+
+*2024-12-06 02:32:00* · [`islandlk`](http://island.lk/digital-transactions-via-lankapay-outpace-gdp-of-sri-lanka/) · `en`
+
+Contrary to the popular belief that the country is way behind in its digital transformation, Sri Lanka’s economic heartbeat now pulses digitally with LankaPay as its lifeblood. Transcending its original role as a mere payment system, LankaPay has emerged as the country’s digital backbone, laying the foundation for rapid economic growth.
+
+In 2023, LankaPay’s digital transactions exceeded the nation’s GDP, emphasizing the transformative impact of digital payments on the economy. Nearly half of Sri Lanka’s economic output was transacted via real-time payment transactions through LankaPay’s interbank fund transfers. By operating 24X7X365 and prioritizing security, speed and accessibility, LankaPay empowers both businesses and individuals: businesses benefit from efficiency, faster operations and market reach, while individuals gain quicker access to funds stimulating economic activity nationwide.
+
+...
+
+[Data](articles/487ee4cd.json)
+
+---
+
+### BOC’s FCY ratings upgraded to “CCC-” by Fitch
+
+*2024-12-06 02:32:00* · [`islandlk`](http://island.lk/bocs-fcy-ratings-upgraded-to-ccc-by-fitch/) · `en`
+
+Bank of Ceylon’s (BOC) Long-Term Foreign Currency Issuer Default Rating (IDR) has been upgraded to ‘CCC-’ from ‘CC’ by Fitch Ratings (Fitch) in their latest rating review. Further, the Viability Rating (VR) was also upgraded to ‘ccc-’ from ‘cc’ by removing the Rating Watch Negative (RWN) on VR.
+
+This rating upgrade signifies the Bank’s stability amidst the challenging operating environment and the Bank’s ratings are further positioned above the country ratings showcasing the resilience of the Bank.
+
+According to the latest announcement made by Fitch by upgrading BOC’s international rating, Fitch has considered the following factors in order to support their rating action;
+
+...
+
+[Data](articles/62aec96b.json)
+
+---
+
+### Nestlé Lanka donates to communities impacted by recent floods
+
+*2024-12-06 02:29:00* · [`islandlk`](http://island.lk/nestle-lanka-donates-to-communities-impacted-by-recent-floods/) · `en`
+
+Nestlé Lanka recently donated food and beverage products to communities worst impacted by the recent floods through the Disaster Management Centre.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/f881c339.json)
+
+---
+
+### LOLC Finance Jaffna metro branch relocates to new premises
+
+*2024-12-06 02:28:00* · [`islandlk`](http://island.lk/lolc-finance-jaffna-metro-branch-relocates-to-new-premises/) · `en`
+
+LOLC Finance PLC, Sri Lanka’s premier Non-Banking Financial Institution (NBFI), proudly announces the relocation of its Jaffna metro branch to its very own premises at No. 584, Hospital Road, Jaffna. This strategic move reflects the company’s commitment to enhancing accessibility and delivering innovative, customer-focused financial solutions to the vibrant community of Jaffna and its surrounding areas.
+
+From its rich cultural heritage to its growing prominence as an economic hub in the northernmost region of Sri Lanka, Jaffna embodies a harmonious blend of tradition and progress. The relocation of LOLC Finance’s second Jaffna branch too, to its own modern facility reflects the company’s dedication to empowering businesses, uplifting the community, and driving sustainable development in the region.
+
+Plans to boost foreign reserves to US$ 10 billion in 2025 trigger bull-run at bourse
+
+...
+
+[Data](articles/cc732ff5.json)
+
+---
+
 ### Investment opportunities will not be provided by the phone.
 
 *2024-12-06 02:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பக்கச்சார்பாக-முதலீட்டு-வாய்ப்புகள்-வழங்கப்படாது/175-348330) · `ta`
@@ -136,6 +254,36 @@ The President promised to dedicate the responsibility of the Investment Council 
 
 ---
 
+### Empowering women by celebrating men with Eva Sri Lanka’s #TellHim initiative
+
+*2024-12-06 02:24:00* · [`islandlk`](http://island.lk/empowering-women-by-celebrating-men-with-eva-sri-lankas-tellhim-initiative/) · `en`
+
+This International Men’s Day, Eva, Sri Lanka’s leading feminine hygiene brand, made history by celebrating the men who empower women. Launching the bold and heartfelt campaign #TellHim, Eva became the first feminine hygiene brand to honour men on this day. The campaign paid tribute to the quiet champions—fathers, brothers, husbands, friends, and colleagues—who support women to lead with confidence and break barriers.
+
+Developed in partnership with the creative agency DEFY, the #TellHim campaign resonated deeply with audiences, amassing over half a million views across digital platforms in just days. Featuring real stories and heartfelt messaging, the initiative inspired thousands of comments, shares, and stories of gratitude, creating a nationwide conversation about shared empowerment.
+
+...
+
+[Data](articles/30e28a84.json)
+
+---
+
+### Plans to boost foreign reserves to US$ 10 billion in 2025 trigger bull-run at bourse
+
+*2024-12-06 02:24:00* · [`islandlk`](http://island.lk/plans-to-boost-foreign-reserves-to-us-10-billion-in-2025-trigger-bull-run-at-bourse/) · `en`
+
+The stock market was extremely bullish yesterday due to Central Bank Governor Dr Nandalal Weerasinghe’s comment to the media that the CBSL intends to increase the current foreign reserve to US $ 10 billion next year.
+
+‘All these years the government temporarily halted imports due to the foreign reserve crisis but at present the country’s foreign reserves have grown to US $ 7 billion. However, this amount will be increased to US $ 10 billion very soon. This gave an impetus to yesterday’s stock market, analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 64.6 points while the S and P SL20 rose by 40.1 points. Turnover stood at Rs 4.4 billion with 13 crossings.
+
+...
+
+[Data](articles/9a6f28f9.json)
+
+---
+
 ### The government acts arbitrarily
 
 *2024-12-06 02:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-தன்னிச்சையாக-செயற்படுகிறது/175-348329) · `ta`
@@ -157,6 +305,44 @@ Responding to this, Dayasiri Jayasekara MP said that before the inauguration of 
 [Data](articles/20539388.json)
 
 [Extended Data](ext_articles/20539388.ext.json)
+
+---
+
+### HUTCH launches podcast series “Meet the Tech Titans” to empower Sri Lanka’s digital economy
+
+*2024-12-06 01:41:00* · [`islandlk`](http://island.lk/hutch-launches-podcast-series-meet-the-tech-titans-to-empower-sri-lankas-digital-economy/) · `en`
+
+HUTCH will unveil an exciting new podcast series titled “Meet the Tech Titans”. This initiative is designed to showcase the journeys and insights of some of the most prominent tech leaders, innovators, and entrepreneurs shaping the nation’s digital transformation. With a strong focus on fostering digital awareness, the podcast series aligns with the government’s vision of establishing a robust Digital Economy.
+
+...
+
+[Data](articles/d2ad616c.json)
+
+---
+
+### A fifth-year accolade: In precious memory of Dr Sarojini Perera
+
+*2024-12-06 00:59:00* · [`islandlk`](http://island.lk/a-fifth-year-accolade-in-precious-memory-of-dr-sarojini-perera/) · `en`
+
+Today, we commemorate the fifth anniversary of my eternally cherished wife Dr Malwattage Josephine Sarojini Perera (nee Peeris) leaving this mortal world. It has been five years of intense desolation and loneliness for all of us in the family, as well as our friends since she left this planet Earth. However, the memories of her life remain vivid; her ever-present spirit is so much with us, and her heritage is eternally enduring. She was ever so beautiful in her physical profile as much as from deep within the interior of her human form. She was not merely a remarkable individual, but a dazzling beacon of compassion, an embodiment of love, and an eternal source of inspiration for those fortunate enough to cross paths with her.
+
+...
+
+[Data](articles/029bfefe.json)
+
+---
+
+### All quiet on home front – hence peek overseas
+
+*2024-12-06 00:54:00* · [`islandlk`](http://island.lk/all-quiet-on-home-front-hence-peek-overseas/) · `en`
+
+Things seem to be moving well in our beloved country and this is a great change from how things were before September and in the past years.  We could only wring our hands in consternation and cry out “When will our lives improve? When will Sri Lanka rise to be the country, we older ones knew?” We witnessed wanton extravagance in government spending; corruption all across the political and bureaucratic boards, and the poor getting poorer and more destitute.
+
+Of course there is still criticism, which is as it should be. The NPP is far from a magic wand. Time is needed to show improvement in the general well-being of the people. What we need to have now is patience and faith in the new set of leaders we have elected to power.
+
+...
+
+[Data](articles/0bcdc550.json)
 
 ---
 
@@ -2251,279 +2437,5 @@ The Director General of Health Services said that proper adherence to the use of
 [Data](articles/4c433620.json)
 
 [Extended Data](ext_articles/4c433620.ext.json)
-
----
-
-### 10 students stranded in Hanthana mountain range rescued
-
-*2024-12-05 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104020/10-students-stranded-in-hanthana-mountain-range-rescued) · `en`
-
-The Sri Lanka Army says that a group of 10 students from a leading school in Colombo, who were stranded while trekking in the Hanthana mountain range, have been rescued by army troops.
-
-The students, aged between 16 and 17, had been trekking in the Hanthana mountain range and had later ventured into an unsafe area.
-
-Sri Lanka Army stated that due to one student suffering a sprained leg and the heavy fog, the group became stranded and were unable to find their way back.
-
-After being notified, a joint rescue operation was launched by the 111 Brigade headquarters and the troops of the 2nd Sri Lanka Sinha Regiment (SLSR) to rescue the group safely.
-
-The rescue mission had commenced at around 8.00 p.m. and the troops had escorted the students to safety by dawn.
-
-◼️
-
-[Data](articles/b516c934.json)
-
-[Extended Data](ext_articles/b516c934.ext.json)
-
----
-
-### Govt. allocates nearly Rs. 1,402 billion through Vote on Account
-
-*2024-12-05 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104019/govt-allocates-nearly-rs-1402-billion-through-vote-on-account-) · `en`
-
-The government has presented an interim Vote on Account for the initial four months of 2025, allocating close to Rs. 1,402 billion for maintaining state affairs and continuing ongoing projects.
-
-The Ministry of Transport, Highways, Ports, and Civil Aviation has received the highest allocation, amounting to Rs. 220.06 billion.
-
-Rs. 186.02 billion for the Ministry of Finance, Planning, and Economic Development.
-
-Rs. 170.47 billion for the Ministry of Public Administration, Provincial Councils, and Local Government.
-
-Rs. 161.99 billion for the Ministry of Health and Mass Media.
-
-Rs. 92 billion for the Ministry of Education, Higher Education, and Vocational Education.
-
-Rs. 67.36 billion for the Ministry of Agriculture, Lands, Livestock, and Irrigation.
-
-Govt. allocates nearly Rs. 1,402 billion through Vote on Account by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/d8bfce14.json)
-
-[Extended Data](ext_articles/d8bfce14.ext.json)
-
----
-
-### Sri Lanka’s Bank of Ceylon upgraded to CCC- on reduced failure risk: Fitch
-
-*2024-12-05 14:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-upgraded-to-ccc-on-reduced-failure-risk-fitch-192314/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it upgraded the long term rating of Bank of Ceylon to CCC- from CC and also upgraded a viability rating (VR) and removed a rating watch negative (RWN).
-
-“The removal of the RWN and the upgrade of the VR reflects our view that risk of failure – as per Fitch’s Bank Rating Criteria – stemming from capital deficiencies has declined significantly,” Fitch said.
-
-“The action reflects the advanced stages of the government’s efforts to restructure the debt granted to a stateowned entity. We do not expect the estimated losses from this restructuring to be sufficiently large to require extraordinary support to restore viability.”
-
-Fitch Upgrades Bank of Ceylon’s Foreign-Currency IDR and VR to ‘CCC-‘/’ccc-‘; Removes RWN on VR
-
-Fitch Ratings – Singapore/Colombo – 05 Dec 2024: Fitch Ratings has upgraded Bank of Ceylon’s (BOC) Long-Term Foreign Currency Issuer Default Rating (IDR) to ‘CCC-‘ from ‘CC’.
-
-...
-
-[Data](articles/236dee3f.json)
-
-[Extended Data](ext_articles/236dee3f.ext.json)
-
----
-
-### Rain back from 9th?
-
-*2024-12-05 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204069) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Heavy rainfall warning issued for Jan 9-12. Meteorological Dept predicts possible cyclone formation in Bay of Bengal. Director General warns of southwestern monsoon impact on southern islands.
-
-🟩
-
-The Meteorological Department says that there may be a growth of rain condition on January 09, 11, 11, 12.
-
-The Director General of the Department Athula Karunanayake said this to the media today (05).
-
-He is also asked to be aware of the impact of the southwestern Bay of South and the South and the South and the South and the South East islands.
-
-...
-
-[Data](articles/edc00b34.json)
-
-[Extended Data](ext_articles/edc00b34.ext.json)
-
----
-
-### The corpse of the man from the tunnel
-
-*2024-12-05 14:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுரங்கத்தில்-இருந்து-ஆணின்-சடலம்-மீட்பு/76-348281) · `ta`
-
-Body found in 42nd tunnel near Temodara Railway Station. Identified as Ramakrishnan Krishnakumar, 27, missing since Wednesday night. Cause of death unknown; police investigating.
-
-🟩
-
-Ella police said that a body was recovered from the 42nd tunnel near the Temodara Railway Station on Thursday morning.
-
-The surveillance unit of the Temodara railway station informed the railway principal when he saw the body.
-
-The deceased was identified as Ramakrishnan Krishnakumar (age 27) of the Temodara Factory Division, police said.
-
-Residents told police that he was not at home on Wednesday night (04) night. The cause of the death has not yet been revealed and all the police are conducting further investigations.
-
-◼️
-
-[Data](articles/d11bf81e.json)
-
-[Extended Data](ext_articles/d11bf81e.ext.json)
-
----
-
-### Oxford, after 105 years, our monk
-
-*2024-12-05 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204068) · `si`
-
-Sri Lankan monk studies at Oxford after 105 years. First since Ven. Sooriyagoda Sumangala Thera in 1919. Receives scholarship for mild degree. Occasion marked at Vadigala Society Center.
-
-🟩
-
-A Sri Lankan monk is eligible to study at the University of Oxford in the UK 105 years later.
-
-The occasion was the monk Vadigala Society Center.
-
-He has received a scholarship to study the mild degree and the University of Oxford and Sri Lanka.
-
-Earlier in 1919, Oxford University educates a Sri Lankan bhikkus before. That was Ven. Sooriyagoda Sumangala Thera.
-
-◼️
-
-[Data](articles/101198a3.json)
-
-[Extended Data](ext_articles/101198a3.ext.json)
-
----
-
-### Heroin in Malampay with 4 lakhs of rupees
-
-*2024-12-05 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200481) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man arrested in Malabe with 436,770 rupees worth of heroin. Police seized 13 grams of drugs. Arrest made based on confidential tip.
-
-🟩
-
-A man was arrested by police on Wednesday (04) with heroin drugs in the Malambe Police Division.
-
-He was arrested on the basis of confidential information received by the Malabe police station.
-
-The police have seized 436,770 rupees earned by 13 grams of heroin and drug trafficking from the arrested person.
-
-◼️
-
-[Data](articles/07972988.json)
-
-[Extended Data](ext_articles/07972988.ext.json)
-
----
-
-### Political Transformation & The Path To Recovery & Socio-Economic Reconstruction In Sri Lanka
-
-*2024-12-05 14:08:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/political-transformation-the-path-to-recovery-socio-economic-reconstruction-in-sri-lanka/) · `en`
-
-...
-
-[Data](articles/e440e360.json)
-
-[Extended Data](ext_articles/e440e360.ext.json)
-
----
-
-### 10 students who missed the way in Handana
-
-*2024-12-05 13:47:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹந்தானையில்-வழி-தவறிய-10-மாணவர்கள்-மீட்பு/76-348279) · `ta`
-
-Here's a 200-character summary:
-
-
-
-10 students (16-17) missing while climbing Handana mountain due to snow & cold. Rescued by police & military on Thursday morning after search efforts.
-
-🟩
-
-A group of 10 school students who went missing from Handan on Handan on Handan have been rescued by police and military personnel on Thursday morning (05).
-
-A group of students between the ages of 16 to 17 in Colombo and Kiribathgodai have traveled from Sarasavigama area to Handanai on Wednesday morning (04).
-
-While climbing the mountain, they have gone missing due to heavy snow and cold.
-
-Police and soldiers rushed to the scene and the students have rescued the students as the police have informed the emergency telephone number.
-
-◼️
-
-[Data](articles/f61858ba.json)
-
-[Extended Data](ext_articles/f61858ba.ext.json)
-
----
-
-### Sathosen three coconuts and 5 kg of rice
-
-*2024-12-05 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204067) · `si`
-
-Sathosa offers 3 coconuts + 5kg rice for Rs. 130. Available at all Colombo branches starting tomorrow.
-
-🟩
-
-The SWEM Chairman Dr. Samath Perera says that the rice will be obtained from the CWE to Rs. 130.
-
-He added that one person can obtain 3 coconuts and 5 kg of rice at a time.
-
-Accordingly, Sathosa branches from the Sathosa branches around Colombo can be purchased from tomorrow (06) from Colombo tomorrow.
-
-"The Sathosura sends of coconuts around Colombo is sending coconuts. Showing the plants in Colombo after Hawess. Halhthem paths make nadu rice to these branches. "
-
-◼️
-
-[Data](articles/31a36e3e.json)
-
-[Extended Data](ext_articles/31a36e3e.ext.json)
-
----
-
-### South Africa toss in the second Test
-
-*2024-12-05 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204066) · `si`
-
-South Africa wins coin toss in second Test vs Sri Lanka. Chose to bat first after winning first Test by 233 runs.
-
-🟩
-
-The second Test match between the Tourism Sri Lanka and South Africa will be held today (05).
-
-South Africa won the advantage of its coin, and he decided to bat first.
-
-South Africa won the first Test match between the two countries by 233 runs.
-
-◼️
-
-[Data](articles/118ac361.json)
-
-[Extended Data](ext_articles/118ac361.ext.json)
-
----
-
-### Lawyers Collective On A Legislative Agenda For New Government & Parliament & Rule Of Law Issues
-
-*2024-12-05 13:29:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lawyers-collective-on-a-legislative-agenda-for-new-government-parliament-rule-of-law-issues/) · `en`
-
-“We remind the government and the representatives in the legislature that it is important to adopt a transparent and inclusive process of policy and law-making that is proportionate and responsive to the needs of the people. Dialogue and communication with the sovereign people of this country will deepen legitimacy and public trust in governance,” says the Lawyers’ Collective.
-
-The Lawyers’ Collective writes to the new Cabinet of Ministers and all members of the newly elected 10th Parliament of Sri Lanka on the importance of recognizing the legislative mandate signalled by the people at this election. We congratulate all elected representatives of the new parliament and emphasize that the mandate given is a clarion call to ensure that the legislative agenda reflects the sovereign will of the people.
-
-...
-
-[Data](articles/1f50f823.json)
-
-[Extended Data](ext_articles/1f50f823.ext.json)
 
 ---

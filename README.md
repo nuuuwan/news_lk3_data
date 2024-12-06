@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 00:02:25**
+As of **2024-12-07 00:28:55**
 
 ## Newspaper Stats
 
-*Scraped **58,891** Articles*
+*Scraped **58,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 598
 bbccomsinhala | 616
 islandlk | 3,534
 economynextcom | 3,585
-dailyftlk | 4,061
+dailyftlk | 4,064
 dailymirrorlk | 4,733
 adalk | 5,581
 adaderanalk | 7,152
@@ -26,11 +26,59 @@ adaderanasinhalalk | 10,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,891 (100.0%) of 58,891 articles have been extended.
+58,892 (100.0%) of 58,894 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-07 (Saturday)
+
+### All at sea?
+
+*2024-12-07 00:16:09* · [`dailyftlk`](https://www.ft.lk/columns/All-at-sea/4-770205) · `en`
+
+But if the Chabad House movement’s ideology – politics, if you will – is the core issue here, why so in one place, but apparently not in another?
+
+Mental gymnastics – something Gunasekara suggests I am guilty of indulging in – are hardly needed to appreciate the wider context here. A fair bit of media commentary on these events includes a final note to the effect that three-quarters of all Dutch Jews – many of my own relatives included – were murdered by the Nazis, mostly in concentration camps but all too many, like those Israeli and Jewish football supporters, hunted down on the streets of Amsterdam and a host of other Dutch towns and villages. It’s this history that underlies Dutch politicians’ responses to the recent violence
+
+“Thou shalt not be a victim, thou shalt not be a perpetrator. But above all, thou shalt not be a bystander” – Yehuda Bauer
+
+...
+
+[Data](articles/6daf8667.json)
+
+---
+
+### Sri Lanka’s energy independence through climate finance
+
+*2024-12-07 00:13:01* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-energy-independence-through-climate-finance/4-770204) · `en`
+
+Sri Lanka can significantly advance its climate change ambition and negotiate from a point of strength for increased flow of concessional climate finance to realise its ambitious strategy for energy transition to achieve energy sovereignty
+
+Now it is technically possible to operate power grids comprising of close to 100% renewable energy sources such as hydro power including pump storage hydro, solar and wind and battery energy storage. The Sri Lanka Electricity Act of 2024 provides the legal framework for this. For a country like Sri Lanka, which is entirely dependent on imported fossil fuel such as oil, coal and LNG (in the future), this provides an opportunity to achieve complete energy sovereignty by eliminating the need for fossil fuel imports. This would provide reliable, indigenous electricity which is not exposed to fluctuations in global fuel prices and exchange rate
+
+...
+
+[Data](articles/4c93e743.json)
+
+---
+
 ### 2024-12-06 (Friday)
+
+### Blueprint for new Constitution
+
+*2024-12-06 23:56:04* · [`dailyftlk`](https://www.ft.lk/columns/Blueprint-for-new-Constitution/4-770198) · `en`
+
+The Constitution, which is the supreme and fundamental law, must be sufficiently flexible to enable different shades of political opinion to be developed and implemented from time to time
+
+When the citizens agree to be governed, what they insist in return from the rulers is that their rights and freedoms be effectively guaranteed. The Constitution should provide, as it does in many other countries, that an international human rights treaty, when ratified, will have the force of law, superseding any inconsistent existing law. If the Government is unwilling to do so, why ratify a treaty at all? Alternatively, at least the provisions of the two international human rights covenants should be incorporated in the Constitution. That is not only a matter of sound commonsense and prudent governance; it is also a solemn treaty obligation
+
+...
+
+[Data](articles/e53a54da.json)
+
+[Extended Data](ext_articles/e53a54da.ext.json)
+
+---
 
 ### Matthews exceeds 8000 Tests
 
@@ -2535,83 +2583,5 @@ The police summoned the woman to the Vattawala Police Station on Thursday (05).
 [Data](articles/9aa65b1c.json)
 
 [Extended Data](ext_articles/9aa65b1c.ext.json)
-
----
-
-### Shooting in the post;Elderly victim
-
-*2024-12-06 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200548) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Elderly woman killed in shooting in Bogawewa, Anuradhapura. Two men on motorcycle fired at her home. Victim died at hospital. Possible R-56 rifle used. No motive or suspects yet."
-
-🟩
-
-An elderly woman has died in the shooting in Bogawewa area under the Public Police Division of Anuradhapura, police said.
-
-Two unidentified men who were riding a motorcycle to the Pokhawewa area, Bogawewa area, fired at a woman in a house.
-
-The woman, who was injured in the shooting, died after being admitted to the post of hospital for treatment.
-
-Police suspect that the R -56 rifle may have been used for the shooting.
-
-Also, no information has been received so far on the cause of the shooting and the suspects.
-
-◼️
-
-[Data](articles/10af1dc1.json)
-
-[Extended Data](ext_articles/10af1dc1.ext.json)
-
----
-
-### 2,000 officers field for special testing
-
-*2024-12-06 10:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சோதனைக்காக-2-000-உத்தியோகத்தர்கள்-களமிறக்கம்/175-348345) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-2,000 officers nationwide for special testing. Focus: Inspecting cooked foods in restaurants. Concerns: Food/drink cleanliness issues due to rain, increasing infectious disease cases.
-
-🟩
-
-The Public Health Inspectors Association said that 2000 officers have been deployed across the country for special testing during the festive season.
-
-During the tests, the process of inspecting cooked foods in restaurants will be mainly implemented, its secretary Samil Mududa said.
-
-He noted that there are many problems with the cleanliness of food and drinks with the prevailing rainfall at present and many infectious diseases have been diagnosed.. Those
-
-◼️
-
-[Data](articles/31fb5e4f.json)
-
-[Extended Data](ext_articles/31fb5e4f.ext.json)
-
----
-
-### Electricity tariff amendments today handed over
-
-*2024-12-06 10:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டண-திருத்த-யோசனைகள்-இன்று-கையளிப்பு/175-348344) · `ta`
-
-CEB submits revised electricity tariff proposal to PUC today. PUC to review and act on proposed reductions.
-
-🟩
-
-The Ceylon Electricity Board (CEB) will present the idea of ​​reducing electricity tariffs to the Public Utilities Commission today.
-
-After handing over the revised proposal, the Public Utilities Commission should take further steps on the reduction of the electricity tariff.
-
-The Public Utilities Commission said that the Ceylon Electricity Board had previously submitted the proposal to reduce electricity tariffs, but it should be revised and submitted.
-
-◼️
-
-[Data](articles/86842bfe.json)
-
-[Extended Data](ext_articles/86842bfe.ext.json)
 
 ---

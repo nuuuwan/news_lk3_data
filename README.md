@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 01:26:53**
+As of **2024-12-07 02:04:07**
 
 ## Newspaper Stats
 
-*Scraped **58,903** Articles*
+*Scraped **58,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,82 @@ dailymirrorlk | 4,733
 adalk | 5,581
 adaderanalk | 7,152
 tamilmirrorlk | 8,398
-virakesarilk | 9,653
+virakesarilk | 9,656
 adaderanasinhalalk | 10,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,898 (100.0%) of 58,903 articles have been extended.
+58,902 (100.0%) of 58,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### “Tamil Classical Aadal-20124” run by Colombo Tamil Association
+
+*2024-12-07 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200626) · `ta`
+
+"Tamil Classical Aadal-2014" summary: 3-day event by Colombo Tamil Association. Key highlights: opening ceremony at Centenary Professor Su Vithyanandan hall, performances by Sivadhatshana Hariharan Mangala Lighting and Shaktika Siri Kumaran, special flower release, first copy received by Literary Host Hashim Umar.
+
+🟩
+
+The three-day event of the "Tamil Classical Aadal-2014" run by the Colombo Tamil Association commenced on Friday evening at the Centenary Professor Professor Su Vithyanandan.
+
+Sivadhatshana Hariharan Mangala Lighting. Shaktika Siri Kumaran's Tamil greeting. Followed by Professor Sabah. Jayarasa. "Tamil Classical Audit: Interference and Growth" was featured.
+
+Followed by a special flower release. The first copy was received by Literary Host Hashim Umar.
+
+◼️
+
+[Data](articles/d555fa0b.json)
+
+[Extended Data](ext_articles/d555fa0b.ext.json)
+
+---
+
+### The E8 visa that sends to Korea is not legal - Minister Vijitha Herath
+
+*2024-12-07 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200625) · `ta`
+
+Sri Lanka's E8 visa to Korea deemed illegal by Minister Vijitha Herath due to lack of Cabinet approval. Steps being taken to legalize the program.
+
+🟩
+
+The E8 visa that temporarily sends to Korea is not legal. Minister Vijitha Herath said that the Cabinet has not obtained the approval of the agreement.
+
+He said this while addressing the second day debate on the interim voting account submitted by the government on Friday (7) in Parliament.
+
+E8 Visa is a contract to temporarily send Sri Lankans to South Korea for agriculture and fisheries. That contract is not in any way legal contract. If Sri Lanka is signed with a south or other country, a contract with foreign industries must be obtained in our cabinet in Sri Lanka.. However, former Labor Minister has personally signed a contract with a state of Korea. Its copy is not in the Bureau of Foreign Employment.
+
+But the deal is private agencies.. But as a responsible minister, the Memorandum of Understanding (MoU) has been submitted to the Cabinet, obtaining permission from the Foreign Ministry and signed a Memorandum of Understanding?. Nothing happened.
+
+...
+
+[Data](articles/139d32ca.json)
+
+[Extended Data](ext_articles/139d32ca.ext.json)
+
+---
+
+### 'லொக்கு பெட்டி' யை  இலங்கைக்கு அழைத்து வர நடவடிக்கை
+
+*2024-12-07 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200624) · `ta`
+
+பெலரூஸ் நாட்டு அதிகாரிகளால் கைது செய்யப்பட்ட திட்டமிட்ட குற்றச்செயல்களில் ஈடுபடும் குற்றவாளியான லொக்குபெட்டி விடுதலை செய்யப்படவில்லை என்றும் அந்த நாட்டு பொலிஸாரினால் தொடர்ந்தும் தடுத்து வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+குற்றவாளி பெலரூஸ் அதிகாரிகளால் அண்மையில் விடுவிக்கப்பட்டதாகவும் அதனை முன்னிட்டு பல்வேறு விருந்து உபசாரம் இடம்பெற்றதாகவும் சமூக வலைத்தளங்களில் வெளியாகிய தகவல்கள் உண்மைக்கு புறம்பானவை எனவும் குற்றவாளியை மீள இலங்கைக்கு அழைத்து வர நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் பொலிஸ் ஊடகப்பேச்சாளாரும் சிரேஷ்ட பொலிஸ் அத்தியட்சகருமான சட்டத்தரணி புத்திக மனதுங்க தெரிவித்தார்.
+
+கந்தளாயில் வெள்ளிக்கிழமை (6) இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பின் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+'லொக்கு பெட்டி' என அழைக்கப்படும் சுஜீவ ருவன் குமார என்பவர் பெலரூஸ் அதிகாரிகளால் அண்மையில் விடுவிக்கப்பட்டதாகவும் அதனை முன்னிட்டு பல்வேறு விருந்து உபசாரம் இடம்பெற்றதாகவும் சமூக வலைதளங்களில் பல தகவல்கள் வெளியிடப்பட்டிருந்தன.அவை உண்மைக்கு புறம்பானவையாகும்.
+
+...
+
+[Data](articles/4fbacd36.json)
+
+---
 
 ### President calls for media collaboration to foster national progress
 
@@ -130,6 +194,8 @@ Australian High Commissioner to Sri Lanka Paul Stephens said: “Australia has a
 
 [Data](articles/0cb4dd09.json)
 
+[Extended Data](ext_articles/0cb4dd09.ext.json)
+
 ---
 
 ### DIMO Academy and HomeServe Germany forge strategic partnership to enhance vocational education in Sri Lanka
@@ -145,6 +211,8 @@ By offering job placements in Germany’s thriving building service sector, aime
 ...
 
 [Data](articles/782482cc.json)
+
+[Extended Data](ext_articles/782482cc.ext.json)
 
 ---
 
@@ -2435,77 +2503,5 @@ Subsequently, all five youths have been transferred to the Batticaloa Teaching H
 [Data](articles/6aaa8c80.json)
 
 [Extended Data](ext_articles/6aaa8c80.ext.json)
-
----
-
-### Britain has opened the door for new opportunities for Sri Lanka
-
-*2024-12-06 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200562) · `ta`
-
-UK opens doors for Sri Lanka: Trade & Development focus. Reducing fees, easing export rules. Providing technical assistance & commercial cooperation to boost Sri Lankan competitiveness globally.
-
-🟩
-
-The UK government is focusing on both trade and development.. I will lead a firm trading aimed at improving the effects of trade for the worldwide developed countries worldwide. We will make arrangements to open its markets for exports of countries such as Sri Lanka, which are developing, by reducing fees and facilitating the rules.. We provide adequate technical assistance and commercial cooperation to the Sri Lankan government and Sri Lankan businesses to compete effectively in the global economy.
-
-◼️
-
-[Data](articles/ec655ba4.json)
-
-[Extended Data](ext_articles/ec655ba4.ext.json)
-
----
-
-### The body in the toilet by killing a girl
-
-*2024-12-06 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204093) · `si`
-
-Body found in toilet; 14yo girl murdered; suspect identified as second husband; arrested; police investigation ongoing
-
-🟩
-
-The police said that the bodies of a 14-year-old girl was killed and placed in a toilet, police said.
-
-A woman residing in the Akarawita area in Gampaha yesterday (5), the police could find the claim of the murder yesterday (5).
-
-The girl's mother has stated that their second husband has been suspected of the murder.
-
-Accordingly, according to the revealed information, the complainant's second husband has been arrested.
-
-According to the information he disclosed, the girl was killed and toilets and closed the back of the house and closed the suspect with a concrete plan.
-
-Police have been deployed at the scene, and the Gampaha Magistrate will hold the magisterial inquiry.
-
-◼️
-
-[Data](articles/3794fc86.json)
-
-[Extended Data](ext_articles/3794fc86.ext.json)
-
----
-
-### Sri Lanka rupee traders flat at 290.35/40 to dollar, bonds steady
-
-*2024-12-06 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-traders-flat-at-290-35-40-to-dollar-bonds-steady-121003/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading relatively flat at 290.30/35 to the US dollar on Friday from 290.30/40 to the US dollar on Thursday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted at 9.45/50 percent, up from 9.40/50 percent.
-
-A bond maturing on 15.12.2027 was quoted at 10.10/20 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.40/50 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.80/90 percent, from 10.82/90 percent.
-
-In equities, the All Share Price Index was up 0.27 percent or 36.21 points, at 13,595.
-
-The more liquid S&P SL20 was up 0.29 percent, or 11.91 points, at 4,064.
-
-◼️
-
-[Data](articles/69366959.json)
-
-[Extended Data](ext_articles/69366959.ext.json)
 
 ---

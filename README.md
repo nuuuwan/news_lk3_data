@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 02:04:07**
+As of **2024-12-07 02:42:45**
 
 ## Newspaper Stats
 
-*Scraped **58,906** Articles*
+*Scraped **58,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ dailymirrorlk | 4,733
 adalk | 5,581
 adaderanalk | 7,152
 tamilmirrorlk | 8,398
-virakesarilk | 9,656
+virakesarilk | 9,657
 adaderanasinhalalk | 10,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,902 (100.0%) of 58,906 articles have been extended.
+58,907 (100.0%) of 58,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Recovery of a person who is fishing in the river
+
+*2024-12-07 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200627) · `ta`
+
+A man fishing near an air reservoir fell into the water on Friday evening. Another person alerted authorities. After a lengthy search, his body was recovered hours later. He was a father of two from Taranikkulam.
+
+🟩
+
+On Friday evening (6), a person was fishing in the air in the air reservoir, falling into the water.
+
+Another person who observed this had informed the Urmas about the incident. Subsequently, the person in search of the person was carried out by the towns.
+
+After a long search, his body was recovered from the water after a few hours.
+
+The father of two children named Guru, a native of Taranikkulam, has died in the incident.
+
+◼️
+
+[Data](articles/d4ff3112.json)
+
+[Extended Data](ext_articles/d4ff3112.ext.json)
+
+---
 
 ### “Tamil Classical Aadal-20124” run by Colombo Tamil Association
 
@@ -78,21 +102,31 @@ But the deal is private agencies.. But as a responsible minister, the Memorandum
 
 ---
 
-### 'லொக்கு பெட்டி' யை  இலங்கைக்கு அழைத்து வர நடவடிக்கை
+### Action to bring 'Loku Betty' to Sri Lanka
 
 *2024-12-07 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200624) · `ta`
 
-பெலரூஸ் நாட்டு அதிகாரிகளால் கைது செய்யப்பட்ட திட்டமிட்ட குற்றச்செயல்களில் ஈடுபடும் குற்றவாளியான லொக்குபெட்டி விடுதலை செய்யப்படவில்லை என்றும் அந்த நாட்டு பொலிஸாரினால் தொடர்ந்தும் தடுத்து வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+"Loku Betty" case update: CID contacts Belarus officials to extradite suspect under Trafficking Act. Police confirm reports of release but no confirmation yet. Investigations ongoing.
 
-குற்றவாளி பெலரூஸ் அதிகாரிகளால் அண்மையில் விடுவிக்கப்பட்டதாகவும் அதனை முன்னிட்டு பல்வேறு விருந்து உபசாரம் இடம்பெற்றதாகவும் சமூக வலைத்தளங்களில் வெளியாகிய தகவல்கள் உண்மைக்கு புறம்பானவை எனவும் குற்றவாளியை மீள இலங்கைக்கு அழைத்து வர நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் பொலிஸ் ஊடகப்பேச்சாளாரும் சிரேஷ்ட பொலிஸ் அத்தியட்சகருமான சட்டத்தரணி புத்திக மனதுங்க தெரிவித்தார்.
+🟩
 
-கந்தளாயில் வெள்ளிக்கிழமை (6) இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பின் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+It has been reported that Lokupetti, who was accused of committing the arrest of Belarus officials, has not been released and has been detained by the country's police.
 
-'லொக்கு பெட்டி' என அழைக்கப்படும் சுஜீவ ருவன் குமார என்பவர் பெலரூஸ் அதிகாரிகளால் அண்மையில் விடுவிக்கப்பட்டதாகவும் அதனை முன்னிட்டு பல்வேறு விருந்து உபசாரம் இடம்பெற்றதாகவும் சமூக வலைதளங்களில் பல தகவல்கள் வெளியிடப்பட்டிருந்தன.அவை உண்மைக்கு புறம்பானவையாகும்.
+Police spokesman and Senior Superintendent of Police Attorney Buddhika said that the accused had recently been released by Belarus officials and that the report was taken to Sri Lanka to bring the accused to Sri Lanka.
 
-...
+He made this statement during a special media briefing held on Friday (6) in Kantalai.
+
+There have been many information on social networks that Sujeewa Ruwan Kumara, known as 'Loku Betty', has been released by Belarus authorities and various feast treatments have been held in front of it.
+
+The Criminal Investigation Department has contacted Belarus officials in this regard.
+
+The Criminal Investigation Department (CID) has taken steps to bring the culprit to Sri Lanka using the Trafficking Act.. According to the police media spokesman, we are ready to carry out this move to Sri Lanka in the future.
+
+◼️
 
 [Data](articles/4fbacd36.json)
+
+[Extended Data](ext_articles/4fbacd36.ext.json)
 
 ---
 
@@ -268,25 +302,41 @@ When the citizens agree to be governed, what they insist in return from the rule
 
 ---
 
-### பொறுப்புணர்வுடன் துடுப்பெடுத்தாடுகிறது இலங்கை; 2ஆம் நாள் ஆட்ட நேர முடிவில் முதல் இன்னிங்ஸில் 242 - 3 விக்.
+### Sri Lanka is responsible;242 - 3 wig in the first innings at the end of the 2nd day of the 2nd day.
 
 *2024-12-06 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200623) · `ta`
 
-தென் ஆபிரிக்காவுக்கு எதிராக போர்ட் எலிஸபெத், சென். ஜோர்ஜ் பார்க் கெபெர்ஹா விளையாட்டரங்கில் நடைபெற்றுவரும் 2ஆவதும் கடைசியுமான டெஸ்ட் கிரிக்கெட் போட்டியில் இலங்கை அதன் முதல் இன்னிங்ஸில் மிகுந்த பொறுப்புணர்வுடன் துடுபெடுத்தாடிக்கொண்டிருந்தது.
+Here's a summary of the text in approximately 200 characters:
 
-பெத்தும் நிஸ்ஸன்க, தினேஷ் சந்திமால், ஏஞ்சலோ மெத்யூஸ், கமிந்து மெண்டிஸ் ஆகிய அனைவரும் நிதானத்துடனும் பொறுப்புணர்வுடனும் துடுப்பெடுத்தாடி இலங்கை அணியை சிறப்பான நிலையில் இட்டுள்ளனர்.
 
-தென் ஆபிரிக்கா முதல் இன்னிங்ஸில் பெற்ற 358 ஓட்டங்களுக்கு பதிலளித்து துடுப்பெடுத்தாடும் இலங்கை இரண்டாம் நாள் ஆட்ட நேர முடிவின்போது 3 விக்கெட்களை இழந்து 242 ஓட்டங்களைப் பெற்றிருந்தது.
 
-இதற்கு அமைய முதல் இன்னிங்ஸில் 7 விக்கெட்கள் மீதம் இருக்க தென் ஆபிரிக்காவைவிட 116 ஓட்டங்களால் இலங்கை பின்னிலையில் இருக்கிறது.
+Sri Lanka vs South Africa, 2nd Test: Sri Lanka reached 242/3 at stumps on day 2. Bethul Nissanka and Dinesh Chandimal top-scored with 109-run partnership. South Africa replied with 358/1, trailing by 116 runs. Lahiru Kumara took 4/79 for Sri Lanka.
 
-மொத்த எண்ணிக்கை 41 ஓட்டங்களாக இருந்தபோது திமுத் கருணாரட்ன 20 ஓட்டங்களுடன் ஆட்டம் இழந்தார்.
+🟩
 
-அடுத்து ஜோடி சேர்ந்த பெத்தும் நிஸ்ஸன்கவும் தினேஷ் சந்திமாலும் மிகவும் பொறுப்புணர்வுடன் துடுப்பெடுத்தாடி 2ஆவது விக்கெட்டில் 109 ஓட்டங்களைப் பகிர்ந்து  அணியை சிறப்பான நிலையில் இட்டனர்.
+Port Elizabeth against South Africa, Sen. Sri Lanka was very responsible for its first innings in the 2nd and last Test cricket match at George Park Geberha Stadium.
+
+Betham Nissanka, Dinesh Chandimal, Angelo Mathews and Kamindu Mendis have all played the Sri Lankan team with relaxation and responsibility.
+
+South Africa responded to 358 runs in the first innings and Sri Lanka scored 242 runs for the loss of 3 wickets at the end of the second day's match.
+
+Sri Lanka is in the back of 116 runs than South Africa to remain 7 wickets in the first innings.
+
+When the total number was 41 runs, Timut Karunaratne lost 20 runs.
+
+The pair, Beth and Dinesh Chandimal, then took the most responsible and shared 109 runs in the 2nd wicket.
+
+Dinesh Chandimal faced 97 balls and scored 44 runs with 5 pounds.
+
+Beth and Nissank shared 49 more runs in the 3rd wicket with Angelo Mathews.
+
+Faced with 157 balls, he lost 89 runs with 11 pounds and one six.(199 - 3 wig.)
 
 ...
 
 [Data](articles/2bc6c761.json)
+
+[Extended Data](ext_articles/2bc6c761.ext.json)
 
 ---
 
@@ -360,37 +410,55 @@ Delivering his first parliamentary speech today (06), Jayaweera attributed the e
 
 ---
 
-### பிணையில் வெளிவந்த லொஹான் ரத்வத்தே மீண்டும் கைது!
+### Lohan Ratwatte arrested on bail
 
 *2024-12-06 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200622) · `ta`
 
-பிணையில் விடுவிக்கப்பட்ட முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தே மீண்டும் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-குடிபோதையில் வாகனம் ஓட்டியதால் ஏற்பட்ட விபத்து ஒன்று தொடர்பில் இவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+
+Former State Minister Lohan Ratwatte arrested on bail for drunk driving.
+
+🟩
+
+Former State Minister Lohan Ratwatte has been arrested again on bail.
+
+He was arrested in connection with a drunken driver, police said.
 
 ◼️
 
 [Data](articles/89f40cfc.json)
 
+[Extended Data](ext_articles/89f40cfc.ext.json)
+
 ---
 
-### தரமற்ற மருந்துகள் விநியோகிக்கப்பட்டுள்ளதாக வெளியாகியுள்ள செய்தி பொய்யானது - சுகாதார அமைச்சர்
+### The news that substandard drugs have been distributed is false - Minister of Health
 
 *2024-12-06 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200613) · `ta`
 
-அரச வைத்தியசாலைகளுக்கு 500 தரமற்ற மருந்துகள் விநியோகிக்கப்பட்டுள்ளதாக வெளியாகியுள்ள செய்தி முற்றிலும் பொய்யானவை.
+Minister denies substandard drug distribution claim: "False news" spread about 500 non-standard drugs reaching state hospitals. Health officials assure no such issue exists. Public advised against spreading misinformation.
 
-தவறான செய்திகளை சமூகமயப்படுத்துவதை தவிர்த்துக் கொள்ளுமாறு உரிய தரப்பினரிடம் கேட்டுக் கொள்கிறோம் என சுகாதாரத்துறை மற்றும்  ஊடகத்துறை அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில்  வெள்ளிக்கிழமை (06)  நடைபெற்ற இடைக்கால கணக்கறிக்கை மீதான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+The news that 500 non -standard drugs have been distributed to state hospitals are completely false.
 
-நாட்டில் உள்ள அரச வைத்தியசாலைகளுக்கு  500 தரமற்ற மருந்துகள் விநியோகிக்கப்பட்டுள்ளதாக எதிரணியின் பிரதம கொறடா  இன்று (06) காலை முன்வைத்த  விடயம்  குறித்து சுகாதார அமைச்சுடனும், உரிய தரப்பினருடனும்  கலந்துரையாடி ,  தகவல்களை பெற்றுக் கொண்டேன்.
+Health and Media Minister Nalinda Jayatissa said that we are asking the relevant parties to avoid socializing the wrong news.
 
-எவ்விதமான தரமற்ற மருந்துகளும் அரச வைத்தியசாலைகளுக்கு விநியோகிக்கப்படவில்லை என்று மருந்து விநியோக பிரிவும், தேசிய மருந்து கட்டுப்பாட்டு அதிகார சபையும் குறிப்பிட்டுள்ளது. ஆகவே தவறான  விடயங்களை குறிப்பிடுவதை தவிர்த்துக் கொள்ளுமாறு உரிய தரப்பினரிடம் கேட்டுக் கொள்கிறோம்.
+He was speaking at a debate on the interim report on Friday (06) in Parliament.
+
+I have discussed and received information with the Ministry of Health and the relevant parties on the issue of the opposition's chief korada this morning (06).
+
+The Drug Distribution Division and the National Drug Control Authority have stated that no substandard drugs have been distributed to state hospitals.. Therefore, we ask the appropriate parties to avoid referring to the wrong matters.
+
+We do not mention that there are no problems in the health sector. Steps have been taken to address the problems that are found. If there are drug shortages, you can buy medicines from the relevant distributors in terms of appropriate instructions.. Advice has been provided.
 
 ...
 
 [Data](articles/b61c2a52.json)
+
+[Extended Data](ext_articles/b61c2a52.ext.json)
 
 ---
 
@@ -2475,33 +2543,5 @@ The Excise Department is one of the key revenue departments of the government, a
 [Data](articles/c64e7c47.json)
 
 [Extended Data](ext_articles/c64e7c47.ext.json)
-
----
-
-### Young people who collide with buffaloes;Buffalo death: five hurt
-
-*2024-12-06 11:56:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எருமைகளில்-மோதிய-இளைஞர்கள்-எருமை-உயிரிழப்பு-ஐவர்-காயம்/175-348350) · `ta`
-
-Motorcycle collision with buffaloes: 5 youths injured, 1 buffalo killed on Pasikuda main road.
-
-🟩
-
-Police said the youth had been admitted to the hospital with injuries in a motorcycle accident.
-
-The accident took place on Thursday night (05) on the Pasikuda main road under the Calcutta Police Division.
-
-Five of the three motorcycles crashed with buffaloes standing on the street while traveling high speed.
-
-Of these, a buffalo died and four buffaloes were reportedly injured.
-
-Five youths traveling on motorcycles have been admitted to the Valaichenai Resource Hospital after being injured.
-
-Subsequently, all five youths have been transferred to the Batticaloa Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/6aaa8c80.json)
-
-[Extended Data](ext_articles/6aaa8c80.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 21:14:20**
+As of **2024-12-06 21:42:44**
 
 ## Newspaper Stats
 
-*Scraped **58,876** Articles*
+*Scraped **58,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 3,534
 economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
-adalk | 5,580
-adaderanalk | 7,150
+adalk | 5,581
+adaderanalk | 7,151
 tamilmirrorlk | 8,398
-virakesarilk | 9,645
-adaderanasinhalalk | 10,169
+virakesarilk | 9,650
+adaderanasinhalalk | 10,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,870 (100.0%) of 58,876 articles have been extended.
+58,872 (100.0%) of 58,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
+
+### ඇමති ලාල්කාන්තගේ ප්‍රකාශයට එරෙහිව පාර්ශ්ව රැසකින් විරෝධය
+
+*2024-12-06 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204114) · `si`
+
+ගොවිබිම්වලට හානි කරන සතුන් සම්බන්ධයෙන් ඕනෑම ක්‍රියාමාර්ගයක් ගැනීම සඳහා ගොවීන්ට කිසිදු බාධාවක් නොමැති බවට, කෘෂිකර්ම අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා ඊයේ කළ ප්‍රකාශයට එරෙහිව පාර්ශ්ව රැසක් විරෝධය පළ කර තිබේ.
+
+ගොවිබිම්වලට හානි කරන වන සතුන් සම්බන්ධයෙන් අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතා මෙම ප්‍රකාශය ඊයේ (05) කළේ පාර්ලිමේන්තුවේදීය.
+
+ඊට එරෙහිව පරිසර හා සත්ත්ව ක්‍රියාකාරීන් පිරිසකගේ සහභාගීත්වයෙන් මෙම විරෝධතාව පැවැත්වුණේ පාර්ලිමේන්තු පරිශ්‍රයට පිවිසෙන පොල්දූව මංසන්ධියේදීය.
+
+◼️
+
+[Data](articles/4366cc22.json)
+
+---
 
 ### Will the price of coconuts rise further?
 
@@ -51,6 +67,24 @@ Coconut prices have increased due to the decline in coconut harvesting and the u
 [Data](articles/8291cb66.json)
 
 [Extended Data](ext_articles/8291cb66.ext.json)
+
+---
+
+### US Assistant Secretary of State calls on PM Harini Amarasuriya
+
+*2024-12-06 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104051/us-assistant-secretary-of-state-calls-on-pm-harini-amarasuriya) · `en`
+
+U.S. Assistant Secretary of State for South and Central Asian Affairs, Mr. Donald Lu, paid a courtesy call on Prime Minister Dr. Harini Amarasuriya at the Parliament of Sri Lanka.
+
+The meeting focused on enhancing bilateral relations, addressing Sri Lanka’s economic challenges, and exploring opportunities for educational and governance collaboration, the Prime Minister’s Media Division stated.
+
+Prime Minister Amarasuriya emphasized the government’s commitment to transparency and accountability, highlighting the importance of aligning the education system with economic needs to foster a skilled workforce.
+
+Discussions also addressed Sri Lanka’s IMF program and the role of international partnerships in stabilizing the economy, it added.
+
+...
+
+[Data](articles/24745065.json)
 
 ---
 
@@ -78,6 +112,22 @@ Police said he was arrested in connection with a drunken driver.. Remble
 
 ---
 
+### ஆராய்ச்சி, சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் நாட்டில் புதியதோர் மாற்றத்தை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கம் - பிரதமர் கலாநிதி ஹரிணி அமரசூரிய
+
+*2024-12-06 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200621) · `ta`
+
+கடந்த 75 வருடங்களில் நாடு பயணித்த திசையை மாற்றி ஆய்வுகள், சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் நாட்டில் புதியதோர் மாற்றத்தை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் என பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+கொழும்பு மருத்துவ பீடத்தில் வெள்ளிக்கிழமை (06) தேசிய விஞ்ஞான மன்றத்தின் ஏற்பாட்டில் நடைபெற்ற டிஜிட்டல் நூலக மாநாடு 2024 இல் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இதனைத் தெரிவித்தார்.
+
+ஆராய்ச்சி மற்றும் அபிவிருத்திக்காக முதலீடு செய்வதை நாங்கள் மிகவும் முக்கியமானதாக கருதுகிறோம்.  ஆராய்ச்சி மற்றும் அபிவிருத்தியில் முதலீடு செய்வது அரசாங்கத்தின் அபிவிருத்தி நிகழ்ச்சி நிரலுக்கு இன்றியமையாதது என்று நாங்கள் நம்புகிறோம். கடந்த 75 வருடங்களில் நாடு பயணித்த அதே திசையில் அல்லாமல், நாட்டை புதிய பாதையில் இட்டுச் செல்வதே அரசாங்கத்தின் நோக்கமாகும்.  இது ஆராய்ச்சி, சான்றுகள் மற்றும் தரவுகளின் அடிப்படையில் இருக்க வேண்டும்.
+
+...
+
+[Data](articles/90fe110c.json)
+
+---
+
 ### Notice
 
 *2024-12-06 20:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டண-திருத்தம்-தொடர்பில்-வெளியான-அறிவிப்பு/175-348361) · `ta`
@@ -102,6 +152,60 @@ It also stated that the existing fees will continue for the next six months. Rem
 
 ---
 
+### காசாமருத்துவமனைக்குள் புகுந்து இஸ்ரேலிய படையினர் வெறியாட்டம் - நான்கு மருத்துவர்கள் உட்பட பலர் பலி- சிஎன்என்
+
+*2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200619) · `ta`
+
+இஸ்ரேலிய படையினர் வடகாசாவில் உள்ள கமால் அத்வான் மருத்துவமனை மீது மேற்கொண்ட தாக்குதலில் நான்கு மருத்துவர்கள் கொல்லப்பட்டுள்ளனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+
+இஸ்ரேலின் இந்த தாக்குதல் காரணமாக மருத்துவமனையை சுற்றியுள்ள பகுதிகளில் பலர் கொல்லப்பட்டுள்ளனர் காயமடைந்துள்ளனர்.
+
+இஸ்ரேலிய படையினர் மருத்துவபணியாளர்களையும் நோயாளிகளையும் மருத்துவமனையிலிருந்து வெளியேறுமாறு உத்தரவிட்ட பின்னர் முக்கியமான மருத்துவ விநியோக பொருட்களை அழித்தனர் என மருத்துவமனையின் இயக்குநர் ஹ_சாம் அபு சாபியா தெரிவித்துள்ளார்.
+
+வெள்ளிக்கிழமை அதிகாலை சீருடையணியாத இருவரை மருத்துவமனைக்குள் அனுப்பிய இஸ்ரேலிய படையினர் அனுப்பினர் அவர்கள் நோயாளிகளை அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டனர், இரண்டுமணிநேர நடவடிக்கையின் போது பல மருத்துவபணியாளர்கள் மருத்துவமனையில் தஞ்சமடைந்திருந்தவர்கள் உட்பட் இளைஞர்களை கைதுசெய்தனர், என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0b6dfe3a.json)
+
+---
+
+### காசாமருத்துவமனைக்குள் புகுந்து இஸ்ரேலிய படையினர் வெறியாட்டம் - நான்கு மருத்துவர்கள் உட்பட பலர் பலி- சிஎன்என்
+
+*2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200620) · `ta`
+
+இஸ்ரேலிய படையினர் வடகாசாவில் உள்ள கமால் அத்வான் மருத்துவமனை மீது மேற்கொண்ட தாக்குதலில் நான்கு மருத்துவர்கள் கொல்லப்பட்டுள்ளனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+
+இஸ்ரேலின் இந்த தாக்குதல் காரணமாக மருத்துவமனையை சுற்றியுள்ள பகுதிகளில் பலர் கொல்லப்பட்டுள்ளனர் காயமடைந்துள்ளனர்.
+
+இஸ்ரேலிய படையினர் மருத்துவபணியாளர்களையும் நோயாளிகளையும் மருத்துவமனையிலிருந்து வெளியேறுமாறு உத்தரவிட்ட பின்னர் முக்கியமான மருத்துவ விநியோக பொருட்களை அழித்தனர் என மருத்துவமனையின் இயக்குநர் ஹ_சாம் அபு சாபியா தெரிவித்துள்ளார்.
+
+வெள்ளிக்கிழமை அதிகாலை சீருடையணியாத இருவரை மருத்துவமனைக்குள் அனுப்பிய இஸ்ரேலிய படையினர் அனுப்பினர் அவர்கள் நோயாளிகளை அங்கிருந்து வெளியேறுமாறு கேட்டுக்கொண்டனர், இரண்டுமணிநேர நடவடிக்கையின் போது பல மருத்துவபணியாளர்கள் மருத்துவமனையில் தஞ்சமடைந்திருந்தவர்கள் உட்பட் இளைஞர்களை கைதுசெய்தனர், என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/5ebfef88.json)
+
+---
+
+### නීතිවිරෝධීව ගෙන්වන ලද මෝටර් රථයක් රේගු භාරයට
+
+*2024-12-06 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204113) · `si`
+
+තීරු බදු නොගෙවා නීති විරෝධී ලෙස මෙරටට ගෙන්වන ලද මෝටර් රථයක් රේගු ආදායම් අධීක්ෂණ ඒකකය විසින් සිය භාරයට  ගෙන තිබේ.
+
+එම ඒකකය පැවසුවේ රුපියල් මිලියන 24ක පමණ වටිනාකමින් යුත් ටොයෝටා ප්‍රියස් වර්ගයේ නවීන මෝටර් රථයක් මෙලෙස ගෙන්වා ඇති බවය.
+
+ජපානයේ සිට ගෙන්වන ලද බහාලුමක් තුළ තිබියදි මෙම මෝටර් රථය සොයාගෙන තිබේ.
+
+එමෙන්ම පසුගිය මාස දෙක තුළ නීති විරෝධීව ගෙන්වන ලද වාහන අමතර කොටස් 200ක්ද රේගුව අද මාධ්‍ය වෙත ප්‍රදර්ශනය කරනු ලැබීය.
+
+◼️
+
+[Data](articles/a6757ef2.json)
+
+---
+
 ### CEB submits proposal to PUCSL to continue with existing tariffs
 
 *2024-12-06 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104050/ceb-submits-proposal-to-pucsl-to-continue-with-existing-tariffs) · `en`
@@ -119,6 +223,34 @@ The proposal submitted today was expected to revise electricity tariffs for the 
 [Data](articles/6374d5de.json)
 
 [Extended Data](ext_articles/6374d5de.ext.json)
+
+---
+
+### சிறுபான்மையின மக்களின் கருத்துக்களை உள்வாங்கும் வகையில் சமாதான மற்றும் நல்லிணக்க முயற்சிகளை வலுப்படுத்துங்கள் - பொதுநலவாய தேர்தல் கண்காணிப்புக்குழு அரசுக்குப் பரிந்துரை
+
+*2024-12-06 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200618) · `ta`
+
+எதிர்கால மோதல்களைத் தவிர்க்கும் வகையில் சிறுபான்மையின மக்களின் கருத்துக்கள் அர்த்தமுள்ள விதத்தில் உள்வாங்கப்படுவதை உறுதிசெய்வதற்கு ஏதுவாக சமாதான மற்றும் நல்லிணக்க முயற்சிகளை இலங்கை அரசாங்கம் மேலும் வலுப்படுத்தவேண்டும் என பொதுநலவாய தேர்தல் கண்காணிப்புக்குழு நடைபெற்றுமுடிந்த ஜனாதிபதித்தேர்தல் தொடர்பான அதன் இறுதி அறிக்கையில் வலியுறுத்தியுள்ளது.
+
+நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் கடந்த செப்டெம்பர் மாதம் 21 ஆம் திகதி நடைபெற்றது. இத்தேர்தல் சுதந்திரமானதும், நியாயமானதுமான முறையில் நடைபெறுகின்றதா என்பதைக் கண்காணிப்பதற்காக தேர்தல் ஆணைக்குழுவினால் விடுக்கப்பட்ட அழைப்புக்கு இணங்க இஇலங்கைக்கு வருகைதந்த சிஷேல்ஸ் நாட்டின் முன்னாள் ஜனாதிபதி டெனி ஃபோர் தலைமையிலான 13 பேரடங்கிய பொதுநலவாய அமைப்பின் தேர்தல் கண்காணிப்புக்குழுவினர், நாட்டின் சகல தேர்தல் மாவட்டங்களுக்கும் விஜயம் மேற்கொண்டு தேர்தலுக்கு முன்னரான பிரசார காலப்பகுதி, தேர்தல் தினத்தன்று நடைபெறும் செயன்முறைகள், தேர்தல் முடிவடைந்ததன் பின்னரான நிலைவரம் என்பவற்றைப் பரந்துபட்ட ரீதியில் கண்காணித்தனர்.
+
+...
+
+[Data](articles/d6b1ae98.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනයක් නෑ - ලංවිම කියයි
+
+*2024-12-06 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204112) · `si`
+
+ලංකා විදුලිබල මණ්ඩලය විදුලි ගාස්තු සංශෝධනයට අදාළ යෝජනා මහජන උපයෝගීතා කොමිෂන් සභාව වෙත යොමුකර තිබේ.
+
+ඒ අනුව විදුලිබල මණ්ඩලය එම යෝජනා ඉදිරිපත් කරමින් සඳහන් කර ඇත්තේ පවතින විදුලි ගාස්තු සංශෝධනයකින් තොරව ඉදිරි මාස 6 පවත්වාගෙන යා යුතු බවය.
+
+◼️
+
+[Data](articles/2ac75512.json)
 
 ---
 
@@ -265,6 +397,36 @@ He was ordered to be released on bail yesterday (05).
 [Data](articles/35a1362c.json)
 
 [Extended Data](ext_articles/35a1362c.ext.json)
+
+---
+
+### There is no need for rice hiding
+
+*2024-12-06 19:03:02* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-සඟවන්න-කිසිම-උවමනාවක්-නෑ/11-413498) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's Minister rejects rice hoarding claims. No need to hide rice; banks won't lend without interest. Rice production should continue, not halted due to financial constraints.
+
+🟩
+
+It is not a need for herself to keep the rice and that no banks will not be given credit without interest.
+
+He was speaking at a press conference held in Polonnaruwa to answer a statement made by commercial minister Wasantha Samarasinghe.
+
+"I'm telling my institution to my company and check. Sending you a representative of you I prove the rice I have produced by the rice I can produce. He was said that I had no interest in the bank.
+
+We get our money from the bank to pay the money from the bank and don't pay a stock of paddy. The money has been taken and the rice produced and sent rice to the rice. We must be released.
+
+Or interest in the money. The Parliament has made this publication, so that all looks at all that looks at everyone. There is no point in keeping the rice hide in any organization. When the harvest should be gathered together we need to collect rice throughout the year, rice can be given. I have had two months.. What do I do to the next two months?
+
+◼️
+
+[Data](articles/d2558e6e.json)
+
+[Extended Data](ext_articles/d2558e6e.ext.json)
 
 ---
 
@@ -499,6 +661,22 @@ Representatives of many major trade unions in the health sector, including the S
 [Data](articles/12e0add0.json)
 
 [Extended Data](ext_articles/12e0add0.ext.json)
+
+---
+
+### தேசியத்தை இனவாதம் என்று குறிப்பிடுவது முற்றிலும் தவறானது - திலித்  ஜயவீர
+
+*2024-12-06 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200598) · `ta`
+
+தேசியத்தை இனவாதம்  என்று குறிப்பிடுவது முற்றிலும் தவறானது. தேசியத்தை சிறந்த முறையில் அடையாளப்படுத்திக் கொண்டு அதற்கமைய செயற்படாவிடின் நாடு என்ற ரீதியில் ஒருபோதும் முன்னேற்றமடைய முடியாது.  நாட்டு மக்களுக்கு வழங்கிய வாக்குறுதிகளை அரசாங்கம் நிறைவேற்ற வேண்டும் இல்லையேல் கோட்டாபய ராஜபக்ஷவின் நிலையே ஏற்படும் என  சர்வஜன சக்தியின் தேசிய பட்டியல் பாராளுமன்ற உறுப்பினர்  திலித்  ஜயவீர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை  நடைபெற்ற இடைக்கால கணக்கறிக்கை மீதான  விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+தேசியத்தை முன்னிலைப்படுத்தி   செயற்பாட்டு ரீதியிலான அரசியலில் ஈடுபட்டோம். எமக்கு ஒத்துழைப்பு வழங்கிய அனைவருக்கும்  நன்றி தெரிவித்துக் கொள்வதுடன், தேசியத்தை முன்னிலைப்படுத்தி செயற்படுவோம். ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் கொள்கை பிரகடனத்தில் பல சிறந்த  திட்டங்கள் குறிப்பிடப்பட்டுள்ளன.
+
+...
+
+[Data](articles/2abc4c1b.json)
 
 ---
 
@@ -1792,6 +1970,8 @@ The Excise Department is one of the key revenue departments of the government, a
 
 [Data](articles/c64e7c47.json)
 
+[Extended Data](ext_articles/c64e7c47.ext.json)
+
 ---
 
 ### Young people who collide with buffaloes;Buffalo death: five hurt
@@ -2333,217 +2513,5 @@ The focus on the difficulties of collecting liquor and the irregularities in it 
 [Data](articles/f7d59bb5.json)
 
 [Extended Data](ext_articles/f7d59bb5.ext.json)
-
----
-
-### Youth arrested for defrauding money via social media scam
-
-*2024-12-06 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104037/youth-arrested-for-defrauding-money-via-social-media-scam) · `en`
-
-The Computer Crime Investigation Division’s North Western Province Unit has arrested a 22-year-old suspect from Digana in connection with an incident of defrauding money.
-
-The suspect is accused of defrauding over Rs. 500,000 by deceiving an individual who contacted them on social media, after falsely claiming he could help him earn money online.
-
-Following a complaint, the suspect was apprehended yesterday (05), and further investigations into the incident are ongoing.
-
-◼️
-
-[Data](articles/fe871c2c.json)
-
-[Extended Data](ext_articles/fe871c2c.ext.json)
-
----
-
-### Parliamentary proceedings commences - LIFE
-
-*2024-12-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204090) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Parliamentary debate begins: Discussion on first four months of 2025 scheduled for today."
-
-🟩
-
-The Debate on the 1st 4 months of 2025 will be held in Parliament today in Parliament today.
-
-◼️
-
-[Data](articles/3c91489c.json)
-
-[Extended Data](ext_articles/3c91489c.ext.json)
-
----
-
-### Back in the Bay of Bengal
-
-*2024-12-06 09:28:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வங்காள-விரிகுடாவில்-காற்றுச்-சுழற்சி/175-348339) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Air circulation possible in Bay of Bengal tomorrow. Moving west/north, affecting Sri Lanka in 3 days. Rainfall expected nationwide, especially Northern & Eastern Provinces.
-
-🟩
-
-Dr. Nakamuthu Pradeeparajah, the head of the Jaffna University of Jaffna, and the certified weatheror, said that there is a possibility of an air circulation again in the Bay of Bengal tomorrow (07).
-
-The air circulation is moving to the west or north, and in the next three days, Sri Lanka is expected to arrive in adjacent areas.
-
-However, Nakamuthu Pradeeparajah said that rainfall is likely to be experienced in most parts of the country, including parts of the Northern and Eastern Provinces.. Remble
-
-◼️
-
-[Data](articles/178af815.json)
-
-[Extended Data](ext_articles/178af815.ext.json)
-
----
-
-### Suspect arrested for financial fraud
-
-*2024-12-06 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204089) · `si`
-
-Arrested: 22-year-old from Digana accused of financial fraud involving over Rs 5 lakhs. Investigation reveals online scam promising easy money.
-
-🟩
-
-A suspect associated with a cash fraud by the FDC investigation North Western Provincial Unit.
-
-The money deceived by a person who was involved in the social media said he could make money online.
-
-Over Rs 5 lakhs of rupees has been made by the suspect and committed fraud.
-
-A suspect associated with a fraud yesterday (05) has been arrested.
-
-The suspect is a 22 year old resident of Digana.
-
-◼️
-
-[Data](articles/5d2c7787.json)
-
-[Extended Data](ext_articles/5d2c7787.ext.json)
-
----
-
-### World Bank wins pledges for $100 billion replenishment of fund for poorest countries
-
-*2024-12-06 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104036/world-bank-wins-pledges-for-100-billion-replenishment-of-fund-for-poorest-countries) · `en`
-
-Donor countries have pledged a record $100 billion three-year replenishment of the World Bank’s fund for the poorest nations, providing a vital lifeline for their struggles against crushing debts, climate disasters, inflation and conflict.
-
-The World Bank made the announcement early on Friday in Seoul at a pledging conference for the International Development Association, which provides grants and very low interest loans to some 78 low-income countries.
-
-The total exceeds the previous $93 billion IDA replenishment announced in December 2021. Countries will contribute about $24 billion directly to IDA, but the fund will issue bonds and employ other financial leverage to stretch that to the targeted $100 billion in grants and loans through mid 2028.
-
-...
-
-[Data](articles/f4d5d8fb.json)
-
-[Extended Data](ext_articles/f4d5d8fb.ext.json)
-
----
-
-### 2024 General Election: Deadline to submit expense reports ends today
-
-*2024-12-06 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104035/2024-general-election-deadline-to-submit-expense-reports-ends-today) · `en`
-
-The Election Commission has announced that the deadline for submitting expense reports related to the 2024 Parliamentary Election will end at midnight today (06).
-
-The Chairman of the Election Commission, R.M.A.L. Rathnayake, stated that only 1,985 out of 8,361 candidates who contested the election have submitted their reports so far.
-
-He further emphasized that legal action will be initiated against the candidates who fail to submit the required reports within the stipulated timeframe.
-
-Additionally, the Chairman noted that preparations are underway to hold the local government elections at the earliest possible date.
-
-◼️
-
-[Data](articles/14a984bc.json)
-
-[Extended Data](ext_articles/14a984bc.ext.json)
-
----
-
-### Sri Lanka Customs confident of achieving tax revenue target
-
-*2024-12-06 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104034/sri-lanka-customs-confident-of-achieving-tax-revenue-target) · `en`
-
-Sri Lanka Customs has expressed confidence in achieving the tax revenue target of Rs. 1.53 trillion for the year before December 31.
-
-According to Additional Director General of Customs, Seevali Arukgoda, a total of Rs. 1.38 trillion in tax revenue has already been collected towards this target.
-
-◼️
-
-[Data](articles/d789489c.json)
-
-[Extended Data](ext_articles/d789489c.ext.json)
-
----
-
-### Income expenditure reports were given only 1985 candidates from 8361 candidates
-
-*2024-12-06 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204088) · `si`
-
-Income/expenditure reports submitted by 1985/8361 candidates. Election Commission warns legal action for late submissions. Preparing measures to expedite election campaign process.
-
-🟩
-
-The Elections Commission says that the period of income and expenditure reports of income and expenditure reports will be completed by midnight today (06).
-
-Its Chairmans. M. A. The reports were given only 1985 of the candidates who have come to elections for the election.
-
-He also said that legal action will be taken against people who do not receive reports during the due date.
-
-Meanwhile, it is preparing to take arrangements to expeditate the processionary election campaign. M. A. Mr. L Ratnayake added.
-
-◼️
-
-[Data](articles/f4270a5a.json)
-
-[Extended Data](ext_articles/f4270a5a.ext.json)
-
----
-
-### Digital economy to generate USD 15 billion revenue in five years – President
-
-*2024-12-06 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104033/digital-economy-to-generate-usd-15-billion-revenue-in-five-years-president) · `en`
-
-President Anura Kumara Dissanayake emphasized the need for the support of all professionals to digitize the country and actively participate in the process, at a time when the expectations of the political establishment and digital technologists are aligned.
-
-He further assured that he would firmly stand by this vision at any time, according to the President’s Media Division (PMD).
-
-The President shared these remarks while addressing officials of the Ministry of Digital Economic Affairs after assuming duties as the Minister of Digital Economic Affairs yesterday (05).
-
-Highlighting the benefits of digitalization, the President stated that it has the potential to enhance the efficiency of economic activities and elevate the country’s economy to greater heights.
-
-The President highlighted that the government’s primary objectives are poverty eradication, transforming social attitudes, and advancing digitalization, the statement said.
-
-...
-
-[Data](articles/7baf55b3.json)
-
-[Extended Data](ext_articles/7baf55b3.ext.json)
-
----
-
-### CEB to submit revised electricity tariff proposal to PUCSL today
-
-*2024-12-06 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104032/ceb-to-submit-revised-electricity-tariff-proposal-to-pucsl-today) · `en`
-
-The Ceylon Electricity Board (CEB) has announced that it will submit its proposal for the revision of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL) today (06).
-
-Responding to an inquiry made by Ada Derana, CEB Chairman Dr. Thilak Siyambalapitiya confirmed that the proposal would be submitted as scheduled.
-
-Previously, it was proposed under the former government that electricity tariffs be revised four times annually. However, in 2023, tariff revisions were carried out three times, while two revisions were made this year. The current government has limited tariff revisions to twice a year.
-
-The proposal submitted today is expected to revise electricity tariffs for the first half of 2025, with implementation anticipated from the third week of January next year.
-
-...
-
-[Data](articles/f2597337.json)
-
-[Extended Data](ext_articles/f2597337.ext.json)
 
 ---

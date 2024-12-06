@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 19:42:27**
+As of **2024-12-06 20:15:15**
 
 ## Newspaper Stats
 
-*Scraped **58,869** Articles*
+*Scraped **58,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,580
-adaderanalk | 7,148
-tamilmirrorlk | 8,393
+adaderanalk | 7,149
+tamilmirrorlk | 8,395
 virakesarilk | 9,645
 adaderanasinhalalk | 10,169
 
@@ -26,55 +26,129 @@ adaderanasinhalalk | 10,169
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,853 (100.0%) of 58,869 articles have been extended.
+58,858 (100.0%) of 58,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### ஐக்கிய தேசிய கட்சியின் தலைவரானார் ஜீவன் தொண்டமான்
+### The UNP for Parliament. Jeevan became the leader of Gavin
+
+*2024-12-06 19:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கான-ஐ-தே-கவின்-தலைவரானார்-ஜீவன்/175-348360) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Ceylon Workers Congress wins seat in Nuwara Eliya. Jeevan Thondaman gets 46,438 votes. He becomes UNP Parliament leader.
+
+🟩
+
+The Ceylon Workers Congress won a seat in the last parliamentary elections in the Nuwara Eliya district.
+
+Jeevan Thondaman, general secretary of the Ceylon Workers Congress, received 46,438 preferential votes.
+
+It is noteworthy that Jeevan Thondaman was elected as the leader of the United National Party's parliament today. Remble
+
+◼️
+
+[Data](articles/1138308e.json)
+
+[Extended Data](ext_articles/1138308e.ext.json)
+
+---
+
+### Jeevan Thondaman is the leader of the United National Party
 
 *2024-12-06 19:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசிய-கட்சியின்-தலைவரானார்-ஜீவன்-தொண்டமான்/175-348360) · `ta`
 
-கடந்த பாராளுமன்றத் தேர்தலில் நுவரெலியா மாவட்டத்தில் ஐக்கிய தேசியக் கட்சியின் யானை சின்னத்தில் போட்டியிட்டு இலங்கை தொழிலாளர் காங்கிரஸ் ஒரு ஆசனத்தைப் பெற்றுக்கொண்டது.
+Here's a summary in 200 characters:
 
-இதில் 46,438 அதிகூடிய விருப்பு வாக்குகளைப் பெற்ற, இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரான ஜீவன் தொண்டமான் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினராக தெரிவாகியிருந்தார்.
 
-இந்த நிலையில் ஐக்கிய தேசியக் கட்சியின் பாராளுமன்றத்திற்கான தலைவராக ஜீவன் தொண்டமான் இன்று தெரிவு செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+Jeevan Thondaman leads UNP & Ceylon Workers Congress. Won Nuwara Eliya seat with 46,438 votes. Elected UNP parliamentary leader today.
+
+🟩
+
+The Ceylon Workers Congress won a seat in the last parliamentary elections in the Nuwara Eliya district.
+
+Jeevan Thondaman, general secretary of the Ceylon Workers Congress, received 46,438 preferential votes.
+
+It is noteworthy that Jeevan Thondaman was elected as the leader of the United National Party's parliament today. Remble
 
 ◼️
 
 [Data](articles/f41cbc7d.json)
 
+[Extended Data](ext_articles/f41cbc7d.ext.json)
+
 ---
 
-### சிறுவர்களை பயன்படுத்துவதற்கு தடை
+### Prohibition of the use of boys
 
 *2024-12-06 19:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களை-பயன்படுத்துவதற்கு-தடை/175-348359) · `ta`
 
-12 வயதுக்குட்பட்ட சிறுவர்களை விளம்பர நோக்கங்களுக்காக அவர்களை பயன்படுத்துவதற்கு தடை விதிக்கப்பதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக பிரதி அமைச்சர் ஹன்சக விஜேமுனி குறிப்பிட்டுள்ளார்.
+Here's a summary in 200 characters:
 
-இதன்படி, 2025 ஆண்டு ஜனவரி முதலாம் திகதியிலிருந்து இந்த தடை அமுலுக்கு வருவதாகவும் அவர் தெரிவித்துள்ளார். R
+
+
+Government bans children under 12 from advertising starting Jan 1, 2025, says Deputy Health Minister Hansaka Wijemuni.
+
+🟩
+
+Deputy Minister of Health and Mass Media Hansaka Wijemuni said that the government has decided to ban children under the age of 12 for advertising purposes.
+
+Accordingly, the ban will come into effect from January 1, 2025.. Remble
 
 ◼️
 
 [Data](articles/3ff980d7.json)
 
+[Extended Data](ext_articles/3ff980d7.ext.json)
+
 ---
 
-### மதுபான அனுமதிப்பத்திர விவகாரம் ; வர்த்தமானி அறிவித்தலுக்கு இடைக்கால தடை
+### Liquor Licensing issue;Interim prohibition on gazette notification
 
 *2024-12-06 19:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதிப்பத்திர-விவகாரம்-வர்த்தமானி-அறிவித்தலுக்கு-இடைக்கால-தடை/175-348358) · `ta`
 
-கடந்த அரசாங்கத்தின் காலப்பகுதியில் மதுபானசாலை அனுமதி பத்திரத்துக்கான வருடாந்த கட்டணத்தை அதிகரித்து வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலை நடைமுறைப்படுத்துவதை தடுக்கும் வகையில் உயர்நீதிமன்றினால் இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+High Court issues interim injunction against liquor license fee increase. Liquor Owners Association challenges gazette notification in court.
 
-குறித்த வர்த்தமானி அறிவித்தலை சவாலுக்கு உட்படுத்தி மதுபானசாலை உரிமையாளர்கள் சங்கம் உயர்நீதிமன்றில் அடிப்படை உரிமைகள் மனுவொன்றை தாக்கல் செய்துள்ளது.
+🟩
 
-குறித்த மனு நீதியரசர்களான ஏ.எச்.எம்.டீ.நவாஸ், குமுதினி விக்ரமசிங்க மற்றும் பிரியந்த பெர்னாண்டோ ஆகியோர் அடங்கிய ஆயம் முன்னிலையில் இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது இந்த இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+During the period of the last government, the High Court has issued an interim injunction to prevent the implementation of the Gazette Notification issued by increasing the annual fee for the liquor school permit.
+
+The Liquor Owners Association has filed a fundamental rights petition in the High Court, challenging the gazette notification.
+
+The interim injunction was issued when the petition was taken up in the presence of Judges AHMT Nawaz, Kumudini Wickremesinghe and Priyantha Fernando today.. Remble
 
 ◼️
 
 [Data](articles/ad2e7cde.json)
+
+[Extended Data](ext_articles/ad2e7cde.ext.json)
+
+---
+
+### Lohan Ratwatte arrested over drunk driving accident
+
+*2024-12-06 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104049/lohan-ratwatte-arrested-over-drunk-driving-accident) · `en`
+
+Former State Minister Lohan Ratwatte, who was released on bail yesterday, has been arrested at Kollupitiya following a traffic accident.
+
+Police said the former state minister was arrested due to driving under the influence of alcohol.
+
+A Land Rover Defender driven by the former parliamentarian had collided with a car in the Kollupitiya area while he was driving under the influence of alcohol, police said.
+
+Lohan Ratwatte and his wife Shashi Prabha Ratwatte were granted bail yesterday (05) by the Nugegoda Magistrate’s Court, following their arrest over charges of using a luxury car illegally imported and assembled in Sri Lanka.
+
+Accordingly, the court had ordered them released on a cash bail of Rs. 25,000 each and two personal bonds of Rs. 1 million each. The court also issued an overseas travel ban on Ratwatte.
+
+...
+
+[Data](articles/eb9e336c.json)
+
+[Extended Data](ext_articles/eb9e336c.ext.json)
 
 ---
 
@@ -313,6 +387,24 @@ Accordingly, the President's representative has to be appointed to the SHP.
 ...
 
 [Data](articles/12e0add0.json)
+
+---
+
+### சிவப்பு சீனியின் வற் நீக்கம்
+
+*2024-12-06 17:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-சீனியின்-வற்-நீக்கம்/175-348357) · `ta`
+
+சிகப்பு சீனி மீதான வட் வரியை நீக்குவதற்கான அமைச்சரவைப் பத்திரம் அடுத்த வாரம் சமர்ப்பிக்கப்படும் என, கைத்தொழில் மற்றும் தொழில் முயற்சி அபிவிருத்தி அமைச்சர் சுனில் ஹந்துன்நெத்தி, பாராளுமன்றத்தில், இன்று தெரிவித்தார்.
+
+இலங்கைக்கு வெளியில் இருந்து இறக்குமதி செய்யப்படும் வெள்ளை சீனிக்கு வட் வரி அறவிடப்படுவதில்லை என்றும், இலங்கையில் உற்பத்தி செய்யப்படும் பழுப்பு சர்க்கரைக்கு 18% வட் மற்றும் 2.5% வரி விதிக்கப்படுவதாகவும் அமைச்சர் கூறினார்.
+
+தொழிற்சாலையில் இருந்து வெளிவரும் போது ஒரு கிலோ சிகப்பு சீனி 300 ரூபாவாகவும் சந்தையில் ஒரு கிலோ வெள்ளை சீனி 220 ரூபாவாகவும் காணப்படுவதாக அமைச்சர் குறிப்பிட்டார்.
+
+சிகப்பு சீனி அத்தியாவசியமற்ற பொருளாக வகைப்படுத்தப்பட்டுள்ளதாகவும், இலங்கைக்கு வெளியில் இருந்து கொண்டு வரப்படும் வெள்ளை சீனி அத்தியாவசியப் பொருளாக குறிப்பிடப்பட்டுள்ளதாகவும் சுனில் ஹந்துன்நெத்தி தெரிவித்தார்.AN
+
+◼️
+
+[Data](articles/26a7f249.json)
 
 ---
 
@@ -2383,93 +2475,5 @@ Additional Director General of the Director General, Customs Media Spokesperson 
 [Data](articles/e495f154.json)
 
 [Extended Data](ext_articles/e495f154.ext.json)
-
----
-
-### President reveals how rice mafia breaks
-
-*2024-12-06 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204084) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake addresses the rice crisis. He mentions a 50,000 Metric Ton shipment expected soon. The President criticizes reporting discrepancies between the Department of Agriculture and Consumer Affairs Authority. He vows to end monopolies and import more rice, but warns it won't be immediate.
-
-🟩
-
-President Anura Kumara Dissanayake says that 50,000 Metallictorial Corporation is due to receive the rice crisis on the 20th of this month.
-
-He pointed out that there is a problem with reports on the reserves of the country.
-
-The President was speaking at a discussion held at the Presidential Secretariat with media institutions.
-
-The President said that the measures needed to break the current running rice.
-
-"The report we came from a short day and the report we received in the Department of Agriculture was sufficient in the country. But according to the surveys made by the Consumer Affairs Authority revealed that there was a shortage of rice. So we decided to import rice. "
-
-"It will not allow three men to belong to a monopoly of three. At present they have the same. Because we have no tool to control us. We are in a strenuous stand. We take the necessary actions. But will take some time. "
-
-◼️
-
-[Data](articles/1a98e86d.json)
-
-[Extended Data](ext_articles/1a98e86d.ext.json)
-
----
-
-### Electricity tariff resolution to public utility commission today
-
-*2024-12-06 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204083) · `si`
-
-Ceylon Electricity Board submits electricity tariff proposal to Public Utility Commission today. Revision planned for first half of 2024, implementation from mid-January. Previous proposal in October faced rejection; CEB given additional time to resubmit.
-
-🟩
-
-The Ceylon Electricity Board (CEB) says that the proposal is given to the Public Utility Commission this day.
-
-When contacted, Dr. Thilak Siyambalapitiya said the proposal would be given today.
-
-The past government had to revise the electricity tariff ann to the end of the government.
-
-But in the year 2023 and a revision of the electricity tariffs during the year.
-
-However, the present government has planned to revise electricity tariffs twice a year.
-
-Accordingly, the proposal will be revised for the first six months of next year.
-
-The proposal to be given to the Public Utilities Commission today is largely capable of implementing from the third week of January next year.
-
-Meanwhile, in October, the Ceylon Electricity Board (CEB) had been given to the Public Utilities Commission in October to implement the electricity tariff revision from December this year.
-
-It was reported that 6% of the electricity tariff had been proposed to reduce electricity tariffs.
-
-...
-
-[Data](articles/8ccb6a3c.json)
-
-[Extended Data](ext_articles/8ccb6a3c.ext.json)
-
----
-
-### Sri Lanka’s Colombo Dockyard seeking strategic investment
-
-*2024-12-06 06:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-dockyard-seeking-strategic-investment-192413/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Dockyard Plc said it is ‘actively seeking’ potential investors who can ensure its long-term sustainability, after the firm lost money as if failed to deliver vessels during a currency crisis triggered by central bank rate cuts.
-
-“Considering the financial distress the Company is facing, the Board of Directors are actively seeking potential investors who can revitalize the company and ensure its long-term sustainability,’ the firm said in a letter to the Colombo Stock Exchange.
-
-“The Company’s goal is to secure and investment that will help the Company navigate this difficult period and assist its future growth and success.”
-
-“The Board of Directors are committed to transparency and will keep the market updated of any significant developments regarding this search for strategic investment.”
-
-Colombo Dockyard was keeping the market informed of its moves following a going concern caution raised by the firm’s auditors in the last accounts.
-
-...
-
-[Data](articles/d3e12cc2.json)
-
-[Extended Data](ext_articles/d3e12cc2.ext.json)
 
 ---

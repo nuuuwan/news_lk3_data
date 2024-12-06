@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-06 19:42:27**
+As of **2024-12-06 21:14:20**
 
 ## Newspaper Stats
 
-*Scraped **58,869** Articles*
+*Scraped **58,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,583
 dailyftlk | 4,061
 dailymirrorlk | 4,733
 adalk | 5,580
-adaderanalk | 7,148
-tamilmirrorlk | 8,393
+adaderanalk | 7,150
+tamilmirrorlk | 8,398
 virakesarilk | 9,645
 adaderanasinhalalk | 10,169
 
@@ -26,55 +26,219 @@ adaderanasinhalalk | 10,169
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,853 (100.0%) of 58,869 articles have been extended.
+58,870 (100.0%) of 58,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-06 (Friday)
 
-### ஐக்கிய தேசிய கட்சியின் தலைவரானார் ஜீவன் தொண்டமான்
+### Will the price of coconuts rise further?
+
+*2024-12-06 20:51:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-மேலும்-உயரும்/175-348363) · `ta`
+
+Coconut prices may rise due to decreased local supply and increased export demand. Current prices in Habaraduwa: 180 rupees. Prices vary in Colombo. Factors include coconut harvesting decline and increased export usage.
+
+🟩
+
+The price of coconuts in Habaraduwa and its relevant areas is 180 rupees.
+
+In some parts of Colombo, a coconut barry is sold at a price of Rs.
+
+Coconut prices have increased due to the decline in coconut harvesting and the use of coconuts for coconut -related exports has increased.
+
+◼️
+
+[Data](articles/8291cb66.json)
+
+[Extended Data](ext_articles/8291cb66.ext.json)
+
+---
+
+### Lohan Ratwatte arrested again
+
+*2024-12-06 20:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தே-மீண்டும்-கைது/175-348362) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Former State Minister Lohan Ratwatte arrested in Kaluppitti area for drunk driving.
+
+🟩
+
+Former State Minister Lohan Ratwatte has been arrested in Kaluppitti area.
+
+Police said he was arrested in connection with a drunken driver.. Remble
+
+◼️
+
+[Data](articles/4323b95c.json)
+
+[Extended Data](ext_articles/4323b95c.ext.json)
+
+---
+
+### Notice
+
+*2024-12-06 20:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டண-திருத்தம்-தொடர்பில்-வெளியான-அறிவிப்பு/175-348361) · `ta`
+
+Here's a summary of the notice in 200 characters:
+
+
+
+Ceylon Electricity Board submits proposal to Public Utilities Commission. Existing fees remain unchanged for next six months.
+
+🟩
+
+The Ceylon Electricity Board has handed over its proposal to the Public Utilities Commission.
+
+It also stated that the existing fees will continue for the next six months. Remble
+
+◼️
+
+[Data](articles/f2324753.json)
+
+[Extended Data](ext_articles/f2324753.ext.json)
+
+---
+
+### CEB submits proposal to PUCSL to continue with existing tariffs
+
+*2024-12-06 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104050/ceb-submits-proposal-to-pucsl-to-continue-with-existing-tariffs) · `en`
+
+The Ceylon Electricity Board (CEB) has submitted its electricity tariff revision proposal to the Public Utilities Commission of Sri Lanka (PUCSL).
+
+In its proposal, the CEB has stated that the existing tariffs will continue further for the next six months.
+
+Previously, it was proposed under the former government that electricity tariffs be revised four times annually. However, in 2023, tariff revisions were carried out three times, while two revisions were made this year. The current government has limited tariff revisions to twice a year.
+
+The proposal submitted today was expected to revise electricity tariffs for the first half of 2025, with implementation anticipated from the third week of January next year.
+
+...
+
+[Data](articles/6374d5de.json)
+
+[Extended Data](ext_articles/6374d5de.ext.json)
+
+---
+
+### The UNP for Parliament. Jeevan became the leader of Gavin
+
+*2024-12-06 19:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கான-ஐ-தே-கவின்-தலைவரானார்-ஜீவன்/175-348360) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Ceylon Workers Congress wins seat in Nuwara Eliya. Jeevan Thondaman gets 46,438 votes. He becomes UNP Parliament leader.
+
+🟩
+
+The Ceylon Workers Congress won a seat in the last parliamentary elections in the Nuwara Eliya district.
+
+Jeevan Thondaman, general secretary of the Ceylon Workers Congress, received 46,438 preferential votes.
+
+It is noteworthy that Jeevan Thondaman was elected as the leader of the United National Party's parliament today. Remble
+
+◼️
+
+[Data](articles/1138308e.json)
+
+[Extended Data](ext_articles/1138308e.ext.json)
+
+---
+
+### Jeevan Thondaman is the leader of the United National Party
 
 *2024-12-06 19:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசிய-கட்சியின்-தலைவரானார்-ஜீவன்-தொண்டமான்/175-348360) · `ta`
 
-கடந்த பாராளுமன்றத் தேர்தலில் நுவரெலியா மாவட்டத்தில் ஐக்கிய தேசியக் கட்சியின் யானை சின்னத்தில் போட்டியிட்டு இலங்கை தொழிலாளர் காங்கிரஸ் ஒரு ஆசனத்தைப் பெற்றுக்கொண்டது.
+Here's a summary in 200 characters:
 
-இதில் 46,438 அதிகூடிய விருப்பு வாக்குகளைப் பெற்ற, இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரான ஜீவன் தொண்டமான் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினராக தெரிவாகியிருந்தார்.
 
-இந்த நிலையில் ஐக்கிய தேசியக் கட்சியின் பாராளுமன்றத்திற்கான தலைவராக ஜீவன் தொண்டமான் இன்று தெரிவு செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+Jeevan Thondaman leads UNP & Ceylon Workers Congress. Won Nuwara Eliya seat with 46,438 votes. Elected UNP parliamentary leader today.
+
+🟩
+
+The Ceylon Workers Congress won a seat in the last parliamentary elections in the Nuwara Eliya district.
+
+Jeevan Thondaman, general secretary of the Ceylon Workers Congress, received 46,438 preferential votes.
+
+It is noteworthy that Jeevan Thondaman was elected as the leader of the United National Party's parliament today. Remble
 
 ◼️
 
 [Data](articles/f41cbc7d.json)
 
+[Extended Data](ext_articles/f41cbc7d.ext.json)
+
 ---
 
-### சிறுவர்களை பயன்படுத்துவதற்கு தடை
+### Prohibition of the use of boys
 
 *2024-12-06 19:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களை-பயன்படுத்துவதற்கு-தடை/175-348359) · `ta`
 
-12 வயதுக்குட்பட்ட சிறுவர்களை விளம்பர நோக்கங்களுக்காக அவர்களை பயன்படுத்துவதற்கு தடை விதிக்கப்பதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக பிரதி அமைச்சர் ஹன்சக விஜேமுனி குறிப்பிட்டுள்ளார்.
+Here's a summary in 200 characters:
 
-இதன்படி, 2025 ஆண்டு ஜனவரி முதலாம் திகதியிலிருந்து இந்த தடை அமுலுக்கு வருவதாகவும் அவர் தெரிவித்துள்ளார். R
+
+
+Government bans children under 12 from advertising starting Jan 1, 2025, says Deputy Health Minister Hansaka Wijemuni.
+
+🟩
+
+Deputy Minister of Health and Mass Media Hansaka Wijemuni said that the government has decided to ban children under the age of 12 for advertising purposes.
+
+Accordingly, the ban will come into effect from January 1, 2025.. Remble
 
 ◼️
 
 [Data](articles/3ff980d7.json)
 
+[Extended Data](ext_articles/3ff980d7.ext.json)
+
 ---
 
-### மதுபான அனுமதிப்பத்திர விவகாரம் ; வர்த்தமானி அறிவித்தலுக்கு இடைக்கால தடை
+### Liquor Licensing issue;Interim prohibition on gazette notification
 
 *2024-12-06 19:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதிப்பத்திர-விவகாரம்-வர்த்தமானி-அறிவித்தலுக்கு-இடைக்கால-தடை/175-348358) · `ta`
 
-கடந்த அரசாங்கத்தின் காலப்பகுதியில் மதுபானசாலை அனுமதி பத்திரத்துக்கான வருடாந்த கட்டணத்தை அதிகரித்து வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலை நடைமுறைப்படுத்துவதை தடுக்கும் வகையில் உயர்நீதிமன்றினால் இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+High Court issues interim injunction against liquor license fee increase. Liquor Owners Association challenges gazette notification in court.
 
-குறித்த வர்த்தமானி அறிவித்தலை சவாலுக்கு உட்படுத்தி மதுபானசாலை உரிமையாளர்கள் சங்கம் உயர்நீதிமன்றில் அடிப்படை உரிமைகள் மனுவொன்றை தாக்கல் செய்துள்ளது.
+🟩
 
-குறித்த மனு நீதியரசர்களான ஏ.எச்.எம்.டீ.நவாஸ், குமுதினி விக்ரமசிங்க மற்றும் பிரியந்த பெர்னாண்டோ ஆகியோர் அடங்கிய ஆயம் முன்னிலையில் இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது இந்த இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+During the period of the last government, the High Court has issued an interim injunction to prevent the implementation of the Gazette Notification issued by increasing the annual fee for the liquor school permit.
+
+The Liquor Owners Association has filed a fundamental rights petition in the High Court, challenging the gazette notification.
+
+The interim injunction was issued when the petition was taken up in the presence of Judges AHMT Nawaz, Kumudini Wickremesinghe and Priyantha Fernando today.. Remble
 
 ◼️
 
 [Data](articles/ad2e7cde.json)
+
+[Extended Data](ext_articles/ad2e7cde.ext.json)
+
+---
+
+### Lohan Ratwatte arrested over drunk driving accident
+
+*2024-12-06 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104049/lohan-ratwatte-arrested-over-drunk-driving-accident) · `en`
+
+Former State Minister Lohan Ratwatte, who was released on bail yesterday, has been arrested at Kollupitiya following a traffic accident.
+
+Police said the former state minister was arrested due to driving under the influence of alcohol.
+
+A Land Rover Defender driven by the former parliamentarian had collided with a car in the Kollupitiya area while he was driving under the influence of alcohol, police said.
+
+Lohan Ratwatte and his wife Shashi Prabha Ratwatte were granted bail yesterday (05) by the Nugegoda Magistrate’s Court, following their arrest over charges of using a luxury car illegally imported and assembled in Sri Lanka.
+
+Accordingly, the court had ordered them released on a cash bail of Rs. 25,000 each and two personal bonds of Rs. 1 million each. The court also issued an overseas travel ban on Ratwatte.
+
+...
+
+[Data](articles/eb9e336c.json)
+
+[Extended Data](ext_articles/eb9e336c.ext.json)
 
 ---
 
@@ -162,19 +326,29 @@ Accordingly, the Vacant Pradeshiya Sabha Sarah has issued another gazette notifi
 
 ---
 
-### අතුරු සම්මත ගිණුම ඡන්ද විමසීමකින් තොරව සම්මතයි
+### The Interim Standard Account passed without a poll
 
 *2024-12-06 18:40:17* · [`adalk`](https://www.ada.lk/breaking_news/අතුරු-සම්මත-ගිණුම-ඡන්ද-විමසීමකින්-තොරව-සම්මතයි/11-413497) · `si`
 
-2025 වස‍රේ පළමු මාස 4 සඳහා වන ආණ්ඩුවේ අතුරු සම්මත ගිණුමට අදාළ යෝජනා සම්මතය අද (06) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සම්මත විය.
+Here's a summary in 200 characters:
 
-2025 වර්ෂයේ පළමු මාස 04 සඳහා රජයේ කාර්යයන් සහ ණය සේවාකරණය අඛණ්ඩව කරගෙන යාම සඳහා වූ අතුරු සම්මත ගිණුම පසුගිය 3 වනදා පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
 
-ඊයේ සහ අද (06) ඒ සඳහා වූ විවාදය පාර්ලිමේන්තුවේ දී පෙ.ව 9.30 සිට  ප.ව 5.30 දක්වා පැවැත්විණි. ඒ අනුව අද පැවති විවාදයෙන් අනතුරුව,  අතුරු සම්මත ගිණුම  ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+Interim Standard Account passed parliament without vote. Debate concluded today after 8 hours. Proposal covers first 4 months of 2025 budget.
+
+🟩
+
+The proposal for the first four months of the year of 2025 was passed in parliament today (06) without polling.
+
+The Interim Standard Account was presented to Parliament on the 3rd last four months of the first four months of 2025.
+
+The debate on this was held yesterday and today from 9.30 am to 5.30 pm. Accordingly, following the debate today, the interim standard was passed without a poll.
 
 ◼️
 
 [Data](articles/fe64ee52.json)
+
+[Extended Data](ext_articles/fe64ee52.ext.json)
 
 ---
 
@@ -300,19 +474,55 @@ Accordingly, the President's representative has to be appointed to the SHP.
 
 ---
 
-### தொழில்சார்  உரிமைகளை முடக்குவது, தொழிற்சங்கங்களை நசுக்குவது புதிய அரசாங்கத்தின் கொள்கை அல்ல - நளிந்த ஜயதிஸ்ஸ
+### The disabling of professional rights and suppressing the trade unions is not the new government's policy
 
 *2024-12-06 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200608) · `ta`
 
-தொழில்சார்  உரிமைகளை முடக்குவது  அல்லது தொழிற்சங்கங்களை நசுக்குவது புதிய அரசாங்கத்தின் கொள்கை அல்ல. அனைத்து தொழில்களின் தொழில் கௌரவத்தை  பாதுகாத்து தொழிற்சங்கங்களின் நியாயமான கோரிக்கைகளை முடிந்தவரை நிறைவேற்றுவதற்கு தமது அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாக சுகாதாரம் மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-சுகாதார  அமைச்சர் தனது கடமைகளை பொறுப்பேற்ற பின்னர்  சுகாதார சேவையில் உள்ள  தொழிற்சங்கங்களுடன் இடம்பெற்ற விசேட கலந்துரையாடல் தொடர்பில்  சுகாதார அமைச்சு   வெள்ளிக்கிழமை (06)  வெளியிட்டிருந்த ஊடக அறிக்கையிலேயே இவ்வாறு குறிப்பிடப்பட்டிருந்தது.
 
-குறித்த  கலந்துரையாடலின் போது  சுகாதார துறையில் கடமையாற்றும் ஊழியர்கள் எதிர்நோக்கும் தொழில்சார் பிரச்சினைகள் ,  சுகாதார சேவையின் முன்னேற்றத்திற்கான தொழிற்சங்கங்களின் கருத்துக்கள், ஆலோசனைகள் மற்றும் பங்களிப்பு ஆகியவை தொடர்பிலும் கலந்துரையாடப்பட்டது.
+
+New government commits to protecting workers' rights and addressing union concerns. Health Minister Dr. Nalinda Jayatissa emphasizes collaboration with trade unions for improved healthcare services.
+
+🟩
+
+It is not the policy of the new government to disable the professional rights or crush the trade unions. Health and Mass Media Minister Dr. Nalinda Jayatissa said that his government is committed to protecting the dignity of all industries and fulfilling the legitimate demands of the trade unions as much as possible.
+
+This was stated in a media statement issued by the Ministry of Health on Friday (06) on a special discussion with the unions in the health service after taking over his duties.
+
+During the discussion, employees working in the health sector were also discussed with the opinion, suggestions and contributions of the trade unions for the improvement of the health service.
+
+Representatives of many major trade unions in the health sector, including the State Doctors Association, Nurses' Associations and the Union of Medicine, have participated in a special discussion.
 
 ...
 
 [Data](articles/12e0add0.json)
+
+[Extended Data](ext_articles/12e0add0.ext.json)
+
+---
+
+### Rashesis
+
+*2024-12-06 17:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-சீனியின்-வற்-நீக்கம்/175-348357) · `ta`
+
+Sri Lanka: Cabinet to remove VAT on red sugar, keep it on locally-produced brown sugar. Imported white sugar exempt. Red sugar price: 300 LKR/kg. White sugar market price: unknown. Red sugar classified as essential item, white sugar as essential import.
+
+🟩
+
+Sunil Handunnetti, Minister of Industry and Entrepreneurship, said in Parliament today that the Cabinet paper will be submitted next week for the removal of the Vat Tax on the Red Srine.
+
+The Minister said that the VAT is not taxed for the white cinnated imported from outside Sri Lanka and that the brown sugar produced in Sri Lanka is 18% vot and 2.5% tax.
+
+The Minister said that when the factory was released, a kilo of red sugar was 300 rupees and a kilogram of white sugar in the market.
+
+Sunil Handunnetti said that the red sugar was classified as an essential substance and that the white sugar brought from outside Sri Lanka is an essential commodity.
+
+◼️
+
+[Data](articles/26a7f249.json)
+
+[Extended Data](ext_articles/26a7f249.ext.json)
 
 ---
 
@@ -344,75 +554,115 @@ Sunil Handunnetti said that the red sugar is classified as an essential substanc
 
 ---
 
-### பொருளாதார பாதுகாப்பிற்கான மூலோபாய இருப்பிடத்தை பயன்படுத்தல் தொடர்பில் வட்டமேசை கலந்துரையாடல்
+### Discussion of the Strategic Location for Economic Security
 
 *2024-12-06 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200596) · `ta`
 
-இந்து சமுத்திரத்தில் அதன் மூலோபாய இருப்பிடத்தின் ஊடாக இலங்கையின் பொருளாதாரப் பாதுகாப்பை மேம்படுத்துதல் என்ற தலைப்பில் வட்டமேசை கலந்துரையாடல் ஒன்று தேசிய பாதுகாப்பு ஆய்வுகள் நிறுவனத்தினால் வியாழக்கிழமை (05) பாதுகாப்பு அமைச்சில் நடத்தப்பட்டது.
+Sri Lanka's strategic location discussed for economic security. Experts emphasize maritime infrastructure modernization, technology adoption, and regional connectivity. Balancing global relations and diversifying economy through fishing, tourism, and energy exploration. Investment in innovation and policy reforms urged.
 
-பாதுகாப்பு அமைச்சின் செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் தூயகொந்தா (ஓய்வு) இந்நிகழ்வில் பிரதம அதிதியாகக் கலந்து கொண்டார். பொருளாதார வளர்ச்சி மற்றும் மீள்திறனுக்காக அதன் தனித்துவமான புவியியல் அமைவிடத்தை பயன்படுத்துவதற்கான இலங்கையின் திறனை ஆராய்தல்  தொடர்பில் கலந்துரையாட பல நிபுணர்கள் இக்கலந்துரையாடலுக்கு கலந்துக் கொண்டனர்.
+🟩
 
-சர்வதேச பொருளாதார அபிவிருத்தி குழுமத்தின் சிரேஷ்ட வருகைதரும் விரிவுரையாளர் கலாநிதி கணேசன் விக்னராஜாவால் நெறிப்படுத்தப்பட்ட இந்த அமர்வில், இலங்கையின் மூலோபாய மற்றும் பொருளாதாரப் முன்னேற்றம் தொடர்பில் அறிவை பங்குபற்றிய  நிபுணர்கள் பகிர்ந்துக்கொண்டனர்.
+A discussion with the National Security Research Institute on Thursday (05) was held at the Ministry of Defense on Thursday (05).
+
+Defense Ministry Secretary Air Vice Marshal Sampath Purekonda (Retired) was the chief guest at the event.. Several experts participated in the meeting to discuss Sri Lanka's ability to use its unique geographical setting for economic growth and efficiency.
+
+The session of the Senior Visitors of the International Economic Development Group, Dr. Ganesan Vignaraja, shared knowledge of Sri Lanka's strategic and economic progress.
+
+He made it clear that Rear Admiral YN Jayaratne (Retired) portraits the need to modernize maritime infrastructure and use new technologies to improve maritime infrastructure, and strengthen Sri Lanka in global trade.
 
 ...
 
 [Data](articles/a03383e1.json)
 
+[Extended Data](ext_articles/a03383e1.ext.json)
+
 ---
 
-### கோப் குழுவின் தலைவர் பதவியை எதிர்க்கட்சிக்கு வழங்க அரசாங்கம் தீர்மானம் - சபைமுதல்வர் பாராளுமன்றத்துக்கு தெரிவிப்பு
+### Government decision to give the opposition to the post of chairman of the COP
 
 *2024-12-06 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200565) · `ta`
 
-அரச கணக்கு குழுவின் தலைமை பதவியை எதிர்க்கட்சிக்கு வழங்குவதற்கு தீர்மானித்துள்ளோம் என சபை முதல்வரும் அமைச்சருமான பிமல் ரத்நாயக்க தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை பாராளுமன்ற அலுவல்கள் தொடர்பான குழுவின் உறுப்பினர்களின் கூட்டு எண்ணிக்கை தொடர்பில் எழுந்த சர்ச்சைக்கு பதிலளிக்கும் போதே இதனை தெரிவித்தார்.
 
-பாராளுமன்ற அலுவல்கள் தொடர்பான குழு உறுப்பினர்களின் கூட்டு எண்ணிக்கை அதிகரிக்க வேண்டும் என எதிர்க்கட்சியை பிரதிநிதித்துவப்படுத்தும் கட்சிகள் கேட்டுவந்த நிலையில், தற்போதுள்ள எண்ணிக்கையில் ஒரு உறுப்பினரை அதிகரிப்பதற்கு இணங்குவதாக சபை முதல்வர் பிமல் ரத்நாயக்க தெரிவித்தார்.
 
-என்றாலும் எதிர்க்கட்சியை பிரதிநிதித்துவப்படுத்தி 12 கட்சிகள் இருப்பதால் பாராளுமன்ற அலுவல்கள் குழுவில் பிரதிநிதித்துவப்படுத்த எதிர்க்கட்சிக்கு 6 பேருக்கே இடமளிக்கப்பட்டிருக்கிறது. அதில் எதிர்க்கட்சித் தலைவர் மற்றும் எதிர்க்கட்சி பிரதமகொறடா உத்தியோகபூர்வமாக அதில் இடம்பெறுகிறது. எஞ்சிய 4 பேரையும் நியமிப்பதிலேயே பிரச்சினை இருப்பதாக எதிர்க்கட்சி பிரதமகொறடா கயந்த கருணாதிலக்க இதன்போது சுட்டிக்காட்டினார்.
+Opposition granted chairmanship of State Accounting Committee. Chief Minister Pimal Ratnayake announced decision due to controversy over Parliamentary Affairs Committee membership. Opposition leader Korada Gayantha Karunathilaka noted issue with appointing remaining members. Council aims for fair representation across parliamentary groups.
+
+🟩
+
+"We have decided to grant the post of leadership of the State Accounting Committee to the Opposition," said Pimal Ratnayake, Chief Minister and Minister of the House.
+
+He was responding to the controversy over the joint number of members of the Parliamentary Affairs Committee on Friday in Parliament.
+
+Council Chief Minister Bimal Ratnayake said that the parties representing the opposition party were asked to increase the number of members of the Committee on Parliamentary Affairs.
+
+However, there are 12 parties representing the opposition and the opposition has been allowed to represent the Parliamentary Affairs Committee.. It officially features the Leader of the Opposition and the Opposition Prime Minister. Opposition Prime Minister Korada Gayantha Karunathilaka pointed out that there was a problem with appointing the remaining four.
 
 ...
 
 [Data](articles/d01d24f0.json)
 
+[Extended Data](ext_articles/d01d24f0.ext.json)
+
 ---
 
-### 19 வயதின் கீழ் ஆசிய கிண்ண கிரிக்கெட் இறுதிப் போட்டியில் இந்தியா - பங்களாதேஷ்
+### India - Bangladesh in the Asian Bowl Cricket Final under the age of 19
 
 *2024-12-06 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200609) · `ta`
 
-ஐக்கிய அரபு இராச்சியத்தில் நடைபெற்றுவரும் 19 வயதுக்குட்பட்ட ஆண்களுக்கான ஆசிய கிண்ண கிரிக்கெட் இறுதிப் போட்டியில் விளையாடுவதற்கு இந்தியாவும் பங்களாதேஷும் தகுதிபெற்றன.
+India and Bangladesh qualify for Asian Cup U-19 cricket final. Sri Lanka and Pakistan face each other in semi-finals. India beats Sri Lanka, Bangladesh wins against Pakistan. The final match will be held on Sunday at Dubai Stadium.
 
-ஷார்ஜா கிரிக்கெட் விளையாட்டரங்கில் இன்று நடைபெற்ற ஓர் அரை இறுதிப் போட்டியில் இலங்கையை 7 விக்கெட்களால் இந்தியாவும், துபாய் சர்வதேச விளையாட்டரங்கில் நடைபெற்ற மற்றைய அரை இறுதிப் போட்டியில் பாகிஸ்தானை 7 விக்கெட்களால் பங்களாதேஷும் வெற்றிகொண்டு இறுதிப் போட்டியில் விளையாட தகுதிபெற்றன.
+🟩
 
-இந்தியாவுக்கு எதிரான அரை இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை 46.2 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 173 ஓட்டங்களைப் பெற்றது.
+India and Bangladesh have qualified to play in the Asian Cup final for men under the age of 19 in the United Arab Emirates.
 
-இலங்கை இளையோர் அணி 8 ஓட்டங்ளைப் பெற்றிருந்தபோது 3 விக்கெட்கள் அடுத்தடுத்து வீழ்த்தப்பட்டன.
+Sri Lanka was eligible to play in the final with 7 wickets in the Sharjah Cricket Stadium today and Pakistan by 7 wickets in the other semi -finals at Dubai International Stadium.
 
-இந் நிலையில் ஜோடி சேர்ந்த சண்முகநாதன் ஷாருஜன், லக்வின் அபேசிங்க ஆகிய இருவரும் 4ஆவது விக்கெட்டில் 93 ஓட்டங்களைப் பகிர்ந்து அணியின் வீழ்ச்சியை சீர்செய்தனர். ஆனால், அது போதுமானதாக அமையவில்லை. மத்திய மற்றும் பின்வரிசையில் எவரும் பிரகாசிக்கவில்லை.
+Sri Lanka decided to bat first in the semi -final against India and scored 173 runs for the loss of all wickets in 46.2 overs.
+
+When the Sri Lankan youth team got 8 runs, 3 wickets were subsequently bowled out.
+
+Shanmuganathan Sharujan and Lakwin Abeysinghe shared 93 runs in the fourth wicket.. But, it is not enough. Central and no one in the backward shining.
+
+In reply, India won by 3 wickets in 21.4 overs and scored 175 runs.
+
+13 -year -old Vaibhav Suryavanshi, who was bought for 1.1 crore Indian rupees at the IPL auction by Rajasthan Royals, scored 67 runs off 36 balls with 6 pounds and 5 sixes.
+
+Bangladesh won by 7 wickets easily in the semi -finals between Bangladesh and Pakistan.
 
 ...
 
 [Data](articles/d7c3c17a.json)
 
+[Extended Data](ext_articles/d7c3c17a.ext.json)
+
 ---
 
-### 'புஷ்பா 2 - தி ரூல்'- திரைப்பட விமர்சனம்
+### 'Pushpa 2 - The Rule'- Movie Review
 
 *2024-12-06 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200606) · `ta`
 
-நடிகர்கள் : அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, பகத் பாசில், ராவ் ரமேஷ், ஜெகபதி பாபு, ஸ்ரீ லீலா மற்றும் பலர்.
+Here's a summary of the movie review in 200 characters:
 
-பெரும் எதிர்பார்ப்பை ஏற்படுத்திய பான் இந்திய திரைப்படமான 'புஷ்பா 2 -தி ரூல்' எனும் திரைப்படம் உலகம் முழுவதும் 12,000 க்கும் மேற்பட்ட திரைகளில் தமிழ் உள்ளிட்ட இந்திய மொழிகளில் வெளியானது.
 
-வழக்கமாக திரைப்படங்களைப் பற்றி சமூக வலைதள பக்கத்தில் வெறுப்பையும், எதிர்மறை விமர்சனங்களையும் செய்து தொடக்க நாள் வசூலுக்கு வேட்டு வைக்கும் நபர்களின் கழுகு பார்வைக்கு அல்லு அர்ஜுன் - இயக்குநர் சுகுமார் கூட்டணியில் உருவான இந்த திரைப்படம் தப்பியதா? இல்லையா? என்பதையும், இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களின் எதிர்பார்ப்பை நிறைவு செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-'புஷ்பா' படத்தின் முதல் பாகத்தில் செம்மரம் கடத்தும் நாயகன் அல்லு அர்ஜுனுக்கும், அதனை தடுப்பதற்காக காவல்துறை அதிகாரியாக நியமிக்கப்பட்ட பகத் பாசிலுக்கும் இடையேயான பகையை முதல் பாகத்தின் இறுதியில் முத்தாய்ப்பாக வைத்திருப்பார்கள்.
+"Pushpa 2 - The Rule" review: Allu Arjun shines in action-packed sequel. Director Sukumar delivers thrilling plot twists and impressive fight choreography. Rashmika Mandanna's character underutilized. Cinematography and background score stand out. Overall, a satisfying continuation of the franchise.
+
+🟩
+
+Actors: Allu Arjun, Rashmika Mantana, Bhagat Basil, Rao Ramesh, Jegapati Babu, Sri Leela and many others.
+
+Ban Indian film 'Pushpa 2 -The Rule' has been released in Indian languages ​​including Tamil on over 12,000 screens worldwide.
+
+Allu Arjun - Director Sukumar's alliance escaped the Eagle's View of Persons who usually disgusted and negative criticism on the social network on the social networking page?Or not?Did the film meet the expectations of all fans?Or not?We will continue to see.
+
+In the first part of the film 'Pushpa', she will be the hero of the sheep hijacking man Allu Arjun and Bhagat Basil, who was appointed as a police officer to prevent it.
 
 ...
 
 [Data](articles/0814727f.json)
+
+[Extended Data](ext_articles/0814727f.ext.json)
 
 ---
 
@@ -444,21 +694,35 @@ Dilith Jayaweera said that the alternatives, loss of alternatives, the loss of a
 
 ---
 
-### ஃபேமிலி படம் - திரைப்பட விமர்சனம்
+### Family Movie - Movie Review
 
 *2024-12-06 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200604) · `ta`
 
-நடிகர்கள் : உதய் கார்த்திக், சுபிக்ஷா காயரோகனம்,  விவேக் பிரசன்னா,  பார்த்திபன் குமார்,  ஸ்ரீஜா ரவி, மோகன சுந்தரம், சந்தோஷ் மற்றும் பலர்.
+Here's a summary of the movie review in approximately 200 characters:
 
-தமிழ் திரையுலகில் திரைப்பட துறை சார்ந்த கதாபாத்திரங்கள் முதன்மையான வேடத்தில் நடித்திருக்கும் திரைப்படங்கள் வசூல் ரீதியாக பாரிய வெற்றியை பெறுவதில்லை என்ற சென்டிமென்ட் உள்ளது. இந்த நிலையில் ஃபேமிலி படம் எனும் திரைப்படம் திரைப்படத் துறையில் பணியாற்றும் நாயகனின் வாழ்வியலை பேசுகிறது. இதனால் இந்த திரைப்படம் ரசிகர்களின் எதிர்பார்ப்பை பூர்த்தி செய்கிறதா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-கதையின் நாயகனான தமிழ் ( உதய் கார்த்திக்) க்கு இரண்டு மூத்த சகோதரர்கள் ( விவேக் பிரசன்னா-  பார்த்திபன் குமார்) தாய் ( ஸ்ரீஜா ரவி) தந்தை ( அரவிந்த் ஜானகிராமன்) அம்மப்பா - தாத்தா( மோகனசுந்தரம்)  அண்ணி மற்றும் பிள்ளைகளுடன் சென்னையில் வாழ்கிறார்.
 
-இவர் குறும்படம் ஒன்றை இயக்கி, பாராட்டை பெற்றிருக்கிறார். அதனைத் தொடர்ந்து திரைப்படம் ஒன்றை இயக்குவதற்காக கதை எழுதி, இயக்குநராவதற்காக ஒவ்வொரு தயாரிப்பாளர்களை சந்தித்து  வாய்ப்பு கேட்டு வருகிறார்.
+"Family Movie" explores the life of a struggling filmmaker in the Tamil industry. Directed by a debutant, it follows the hero's journey from making a short film to pursuing his dreams. With impressive performances from Uday Karthik and Subiksha Gayarokanam, the film meets expectations despite average songs. Strong background music and cinematography support the director's vision.
+
+🟩
+
+Actors: Uday Karthik, Subiksha Gayarokanam, Vivek Prasanna, Parthiban Kumar, Srija Ravi, Mohana Sundaram, Santosh and many others.
+
+There is a sentiment that the films that play the role of film industry in the Tamil film industry are not a huge success.. In this case, the movie Family film speaks of the life of the hero working in the film industry. Does this film meet the expectations of the fans?Or not?We will continue to see.
+
+Two older brothers (Vivek Prasanna- Parthiban Kumar) mother (Srija Ravi) father (Arvind Janakiraman) lives in Chennai with Amma - Grandpa (Mohanasundaram).
+
+He has directed a short film and has been praised. Subsequently, he has written the story to be directed and asked for a chance to meet every producers to become a director.
+
+A young woman from Madurai to Madurai, who is facing a series of humiliations, said, 'I saw your short film. Well, 'he praised the social network.
+
+This is what he wants to meet Yamuna in Madurai - Madurai.
 
 ...
 
 [Data](articles/632aed12.json)
+
+[Extended Data](ext_articles/632aed12.ext.json)
 
 ---
 
@@ -2281,195 +2545,5 @@ The proposal submitted today is expected to revise electricity tariffs for the f
 [Data](articles/f2597337.json)
 
 [Extended Data](ext_articles/f2597337.ext.json)
-
----
-
-### Two shot to a woman
-
-*2024-12-06 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204087) · `si`
-
-Woman shoots two intruders at her home in Bogahawewa. Victim, 73, hospitalized. Police investigating use of T-56 firearm. No motive or suspects identified yet.
-
-🟩
-
-A woman at home had shot two unidentified people who came to a motorbike.
-
-The incident was reported from the Bogahawewa area in Padaviya Police last night (05).
-
-The injured woman was admitted to the Padaviya Hospital for treatment.
-
-The victim was a 73 year old resident of Bogahawewa.
-
-Police suspect that a T-56 firearm has been used for this shooting.
-
-No information has been revealed so far regarding the cause of shooting or suspects. Padaviya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/ea5a755a.json)
-
-[Extended Data](ext_articles/ea5a755a.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-12-06 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104031/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Northern and Eastern provinces.
-
-Showers or thundershowers may occur at several places in Western, Sabaragamuwa and Southern provinces and in Nuwara-Eliya and Kandy districts during the evening or night.
-
-Mainly fair weather will prevail elsewhere, the Met. Department added.
-
-Misty conditions can be expected in most places of the island during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/43a792c5.json)
-
-[Extended Data](ext_articles/43a792c5.ext.json)
-
----
-
-### Sri Lanka compete against India
-
-*2024-12-06 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204086) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Asia Cup U19: Semi-finals today. Bangladesh vs Pakistan in Dubai. Sri Lanka vs India in Sharjah. Both games start at 10:30 AM Sri Lanka time.
-
-🟩
-
-The Asia Cup will be held today (6), the Asia Cup under 19 cricket tournament.
-
-Accordingly, the first semi-final will be held in Dubai between Bangladesh and Pakistan.
-
-The second seast of Sri Lanka will be held in Sarajah with the second semi-final.
-
-Both of this game is in Sri Lanka. Will begin at 10.30am.
-
-◼️
-
-[Data](articles/b140f41e.json)
-
-[Extended Data](ext_articles/b140f41e.ext.json)
-
----
-
-### Customs draw close to target
-
-*2024-12-06 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204085) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Customs Department reaches tax revenue target: Rs. 1.53 trillion this year. Additional Director General Salviti Arukgoda states Rs. 1.38 trillion collected so far."
-
-🟩
-
-The Customs Department says that the target of Rs. 1.53 Tax Revenue Tariff This Year
-
-Additional Director General of the Director General, Customs Media Spokesperson Salviti Arukgoda said that Rs. 1.38 million has been added to Rs 1.38 trillion.
-
-◼️
-
-[Data](articles/e495f154.json)
-
-[Extended Data](ext_articles/e495f154.ext.json)
-
----
-
-### President reveals how rice mafia breaks
-
-*2024-12-06 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204084) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake addresses the rice crisis. He mentions a 50,000 Metric Ton shipment expected soon. The President criticizes reporting discrepancies between the Department of Agriculture and Consumer Affairs Authority. He vows to end monopolies and import more rice, but warns it won't be immediate.
-
-🟩
-
-President Anura Kumara Dissanayake says that 50,000 Metallictorial Corporation is due to receive the rice crisis on the 20th of this month.
-
-He pointed out that there is a problem with reports on the reserves of the country.
-
-The President was speaking at a discussion held at the Presidential Secretariat with media institutions.
-
-The President said that the measures needed to break the current running rice.
-
-"The report we came from a short day and the report we received in the Department of Agriculture was sufficient in the country. But according to the surveys made by the Consumer Affairs Authority revealed that there was a shortage of rice. So we decided to import rice. "
-
-"It will not allow three men to belong to a monopoly of three. At present they have the same. Because we have no tool to control us. We are in a strenuous stand. We take the necessary actions. But will take some time. "
-
-◼️
-
-[Data](articles/1a98e86d.json)
-
-[Extended Data](ext_articles/1a98e86d.ext.json)
-
----
-
-### Electricity tariff resolution to public utility commission today
-
-*2024-12-06 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204083) · `si`
-
-Ceylon Electricity Board submits electricity tariff proposal to Public Utility Commission today. Revision planned for first half of 2024, implementation from mid-January. Previous proposal in October faced rejection; CEB given additional time to resubmit.
-
-🟩
-
-The Ceylon Electricity Board (CEB) says that the proposal is given to the Public Utility Commission this day.
-
-When contacted, Dr. Thilak Siyambalapitiya said the proposal would be given today.
-
-The past government had to revise the electricity tariff ann to the end of the government.
-
-But in the year 2023 and a revision of the electricity tariffs during the year.
-
-However, the present government has planned to revise electricity tariffs twice a year.
-
-Accordingly, the proposal will be revised for the first six months of next year.
-
-The proposal to be given to the Public Utilities Commission today is largely capable of implementing from the third week of January next year.
-
-Meanwhile, in October, the Ceylon Electricity Board (CEB) had been given to the Public Utilities Commission in October to implement the electricity tariff revision from December this year.
-
-It was reported that 6% of the electricity tariff had been proposed to reduce electricity tariffs.
-
-...
-
-[Data](articles/8ccb6a3c.json)
-
-[Extended Data](ext_articles/8ccb6a3c.ext.json)
-
----
-
-### Sri Lanka’s Colombo Dockyard seeking strategic investment
-
-*2024-12-06 06:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-dockyard-seeking-strategic-investment-192413/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Dockyard Plc said it is ‘actively seeking’ potential investors who can ensure its long-term sustainability, after the firm lost money as if failed to deliver vessels during a currency crisis triggered by central bank rate cuts.
-
-“Considering the financial distress the Company is facing, the Board of Directors are actively seeking potential investors who can revitalize the company and ensure its long-term sustainability,’ the firm said in a letter to the Colombo Stock Exchange.
-
-“The Company’s goal is to secure and investment that will help the Company navigate this difficult period and assist its future growth and success.”
-
-“The Board of Directors are committed to transparency and will keep the market updated of any significant developments regarding this search for strategic investment.”
-
-Colombo Dockyard was keeping the market informed of its moves following a going concern caution raised by the firm’s auditors in the last accounts.
-
-...
-
-[Data](articles/d3e12cc2.json)
-
-[Extended Data](ext_articles/d3e12cc2.ext.json)
 
 ---

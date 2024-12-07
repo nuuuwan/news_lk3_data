@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 23:12:13**
+As of **2024-12-08 00:02:13**
 
 ## Newspaper Stats
 
-*Scraped **58,984** Articles*
+*Scraped **58,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,82 @@ dbsjeyarajcom | 446
 colombotelegraphcom | 600
 bbccomsinhala | 617
 islandlk | 3,542
-economynextcom | 3,589
+economynextcom | 3,590
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
 adaderanalk | 7,166
 tamilmirrorlk | 8,412
 virakesarilk | 9,659
-adaderanasinhalalk | 10,198
+adaderanasinhalalk | 10,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,984 (100.0%) of 58,984 articles have been extended.
+58,986 (100.0%) of 58,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### South Africa runs 221 runs
+
+*2024-12-07 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204145) · `si`
+
+South Africa leads Sri Lanka by 221 runs after scoring 191/3 on Day 2. Sri Lanka scored 242/3 in their first innings, while South Africa was restricted to 328/9. Dane Paterson took 5/71. South Africa now batting in second innings with 30-run lead over Sri Lanka's first innings total.
+
+🟩
+
+When the second day of the second and final Test match between Sri Lanka and South Africa, South Africa scored 191 runs for the loss of 3 wickets.
+
+They are currently in front of 221 runs above Sri Lanka.
+
+Sri Lanka were all runners-up in their first innings.
+
+Sri Lanka scored 242 runs for the loss of 3 wickets in their first innings.
+
+However, South African bowlers remained limited to 328 runs in their first innings.
+
+The wishes were 89 runs and Kamindu Mendis scored 48 runs and Chandimal and Mathews scored 44 runs.
+
+Dane Patterson took 5 wickets for 71 runs.
+
+South Africa is currently working on the second innings with 30 points more than Sri Lanka's first innings.
+
+◼️
+
+[Data](articles/e31a7866.json)
+
+[Extended Data](ext_articles/e31a7866.ext.json)
+
+---
+
+### Sri Lanka President declares price control for rice amid shortage; warns strict actions
+
+*2024-12-07 22:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-declares-price-control-for-rice-amid-shortage-warns-strict-actions-192834/) · `en`
+
+Wholesale price of a kilo of Nadu rice: Rs. 225, Retail price: Rs. 230
+
+Wholesale price of a kilo of white rice: Rs. 215, Retail price: Rs. 220
+
+Wholesale price of a kilo of Samba rice: Rs. 235, Retail price: Rs. 240
+
+Wholesale price of a kilo of Keeri Samba: Rs. 255, Retail price: Rs. 260
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has declared control prices for the island nation’s staple food rice, his office said, as criticism mounted over shortage amid possible hoarding.
+
+“President Anura Kumara Dissanayake has directed rice traders to sell Nadu rice to consumers at a wholesale price of Rs. 225 per kilo and a retail price of Rs. 230 per kilo,” the President’s Media Division (PMD) said in a statement.
+
+“The President also instructed the officials (of the) Consumer Affairs Authority (CAA) to closely monitor the situation over the next ten days and strictly enforce the law against rice mill owners who fail to comply with the fixed prices.”
+
+...
+
+[Data](articles/1e5f4cb0.json)
+
+[Extended Data](ext_articles/1e5f4cb0.ext.json)
+
+---
 
 ### Rameswaram fishermen protest seeking fishers’ release from Sri Lankan custody
 
@@ -2421,57 +2479,5 @@ Discussions also addressed Sri Lanka’s IMF program and the role of internation
 [Data](articles/24745065.json)
 
 [Extended Data](ext_articles/24745065.ext.json)
-
----
-
-### Lohan Ratwatte arrested again
-
-*2024-12-06 20:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தே-மீண்டும்-கைது/175-348362) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former State Minister Lohan Ratwatte arrested in Kaluppitti area for drunk driving.
-
-🟩
-
-Former State Minister Lohan Ratwatte has been arrested in Kaluppitti area.
-
-Police said he was arrested in connection with a drunken driver.. Remble
-
-◼️
-
-[Data](articles/4323b95c.json)
-
-[Extended Data](ext_articles/4323b95c.ext.json)
-
----
-
-### The purpose of the government is to make a new change in the country based on research, evidence and data - Prime Minister Harini Amarasuriya
-
-*2024-12-06 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200621) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prime Minister Harini Amarasuriya emphasizes changing national direction through research, evidence, and data. She calls for increased investment in R&D and innovation to drive progress.
-
-🟩
-
-Prime Minister Harini Amarasuriya said that the government's aim is to change the direction of the country in the last 75 years and make a new change in the country based on studies, evidence and data.
-
-The Prime Minister made this statement while addressing the Digital Library Conference held at the Faculty of Medicine in Colombo on Friday (06).
-
-We consider investing for research and development.We hope that investing in research and development is essential for the government's development agenda. The government's aim is to lead the country on a new path, not in the same direction in the last 75 years.It should be based on research, evidence and data.
-
-The massive issue we have faced over the past few years, especially in high levels, is not making decisions on the basis of scientific, evidence and data on data. This is something that needs to be replaced. Therefore, the decision -making process and the research community must work very closely.
-
-...
-
-[Data](articles/90fe110c.json)
-
-[Extended Data](ext_articles/90fe110c.ext.json)
 
 ---

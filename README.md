@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 16:26:29**
+As of **2024-12-07 16:15:32**
 
 ## Newspaper Stats
 
-*Scraped **58,959** Articles*
+*Scraped **58,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,588
 adaderanalk | 7,161
-tamilmirrorlk | 8,407
+tamilmirrorlk | 8,405
 virakesarilk | 9,659
 adaderanasinhalalk | 10,188
 
@@ -26,47 +26,11 @@ adaderanasinhalalk | 10,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,951 (100.0%) of 58,959 articles have been extended.
+58,951 (100.0%) of 58,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
-
-### எலிக்காய்ச்சல் பரவும் அபாயம்
-
-*2024-12-07 16:03:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-பரவும்-அபாயம்/175-348396) · `ta`
-
-நாட்டில் அண்மையில் ஏற்பட்ட சீரற்ற காலநிலையால் வெள்ளப்பெருக்கு ஏற்பட்ட பகுதிகளில் எலிக்காய்ச்சல் பரவும் அபாயம் ஏற்பட்டுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
-
-இரத்தினபுரி, காலி, களுத்துறை, அம்பாறை, குருநாகல், கேகாலை மற்றும் மாத்தறை ஆகிய மாவட்டங்கள் அதிக ஆபத்துள்ள பிரதேசங்களாக இனங்காணப்பட்டுள்ளதாக தொற்றுநோயியல் பிரிவு தெரிவித்துள்ளது.  R
-
-◼️
-
-[Data](articles/fa8544b9.json)
-
----
-
-### வங்காள விரிகுடாவில் குறைந்த காற்றழுத்த தாழ்வுப் பகுதி உருவானது
-
-*2024-12-07 16:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்காள-விரிகுடாவில்-குறைந்த-காற்றழுத்த-தாழ்வுப்-பகுதி-உருவானது/175-348395) · `ta`
-
-வங்காள விரிகுடாவில் குறைந்த காற்றழுத்த தாழ்வுப் பகுதி உருவாகியுள்ளதாக இந்திய வானிலை மையம் தெரிவித்துள்ளது.
-
-அடுத்த 24 மணி நேரத்தில் இந்த குறைந்த காற்றழுத்த தாழ்வுப் பகுதி, ஆழ்ந்த காற்றழுத்த தாழ்வுப் பகுதியாக வலுவடையும் என தெரிவிக்கப்பட்டுள்ளது.
-
-அத்துடன் மேற்கு, வடமேற்கு திசையில் நகர்ந்து, எதிர்வரும் 12ஆம் திகதி , தென்மேற்கு வங்காள விரிகுடாவில் இலங்கை - தமிழகம் கடற்கரையை நோக்கி நகரக்கூடும்.
-
-காற்றழுத்த தாழ்வுப் பகுதி காரணமாக, வங்காள விரிகுடாவில் மணிக்கு 55 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
-
-இதேவேளை இலங்கையின் கிழக்கு கடலில் ஏற்பட்டுள்ள கொந்தளிப்பு காரணமாக எதிர்வரும் நாட்களில் நாட்டின் வானிலையில் தாக்கம் ஏற்படுவதற்கான சாத்தியக்கூறுகள் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-இதன் காரணமாக டிசம்பர் 10ஆம் திகதி முதல் வடக்கு மற்றும் கிழக்கு மாகாணங்களில் மழைவீழ்ச்சி அதிகரிக்கும் என எதிர்பார்க்கப்படுகிறது. R
-
-◼️
-
-[Data](articles/22a735b1.json)
-
----
 
 ### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
 
@@ -2397,5 +2361,53 @@ Representatives of many major trade unions in the health sector, including the S
 [Data](articles/12e0add0.json)
 
 [Extended Data](ext_articles/12e0add0.ext.json)
+
+---
+
+### It is absolutely wrong to refer to nationalism as racism - Dilith Jayaweera
+
+*2024-12-06 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200598) · `ta`
+
+Nationalism ≠ Racism: Dilith Jayaweera argues against equating patriotism with prejudice. He emphasizes national identity and progress through proper governance. Criticizes political promises and lies. Advocates for anti-racism efforts while opposing racist nationalism portrayal.
+
+🟩
+
+It is absolutely wrong to refer to nationalism as racism. If the country is not well -identified and operated in accordance with it, the country can never be progressed.The National List of Sarva Power, Dilith Jayaweera, said that the government should fulfill the promises made to the people of the country or that the Gotabhaya Rajapaksa will be the case.
+
+He was speaking at a debate on the interim report on Friday in Parliament.
+
+We are involved in activated politics to highlight the nationality. Thank you all who has cooperated and will take up the nationality. Many of the best projects have been mentioned in the Declaration of President Anura Kumara Dissanayake.
+
+The national people's power criticized 75 years of politics as a curse.It must be explicitly mentioned that many promises have been made and many lies have been mentioned.The promises made by former President Gotabhaya Rajapakse will be a fate.
+
+...
+
+[Data](articles/2abc4c1b.json)
+
+[Extended Data](ext_articles/2abc4c1b.ext.json)
+
+---
+
+### Rashesis
+
+*2024-12-06 17:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-சீனியின்-வற்-நீக்கம்/175-348357) · `ta`
+
+Sri Lanka: Cabinet to remove VAT on red sugar, keep it on locally-produced brown sugar. Imported white sugar exempt. Red sugar price: 300 LKR/kg. White sugar market price: unknown. Red sugar classified as essential item, white sugar as essential import.
+
+🟩
+
+Sunil Handunnetti, Minister of Industry and Entrepreneurship, said in Parliament today that the Cabinet paper will be submitted next week for the removal of the Vat Tax on the Red Srine.
+
+The Minister said that the VAT is not taxed for the white cinnated imported from outside Sri Lanka and that the brown sugar produced in Sri Lanka is 18% vot and 2.5% tax.
+
+The Minister said that when the factory was released, a kilo of red sugar was 300 rupees and a kilogram of white sugar in the market.
+
+Sunil Handunnetti said that the red sugar was classified as an essential substance and that the white sugar brought from outside Sri Lanka is an essential commodity.
+
+◼️
+
+[Data](articles/26a7f249.json)
+
+[Extended Data](ext_articles/26a7f249.ext.json)
 
 ---

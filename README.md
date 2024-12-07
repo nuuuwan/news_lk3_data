@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 15:42:36**
+As of **2024-12-07 16:01:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,950 (100.0%) of 58,951 articles have been extended.
+58,951 (100.0%) of 58,951 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -148,15 +148,25 @@ The proposal that the Ceylon Electricity Board (PEFA) has again presented to the
 
 ---
 
-### ඩුමිනි ඉල්ලා අස්වෙයි
+### Dumini resigns
 
 *2024-12-07 13:13:39* · [`adalk`](https://www.ada.lk/sports/ඩුමිනි-ඉල්ලා-අස්වෙයි/9-413505) · `si`
 
-දකුණු අප්‍රිකා සීමිත පන්දුවාර කණ්ඩායමේ පිතිකරණ පුහුණුකරු ලෙස කටයුතු කළ ජේ.පී.ඩුමිනි එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+Here's a summary of 200 characters:
+
+
+
+JP Duminy, former SA cricketer, resigns from position.
+
+🟩
+
+JPdumin, who was the Battle of South African, has resigned from the post.
 
 ◼️
 
 [Data](articles/2ccf6c87.json)
+
+[Extended Data](ext_articles/2ccf6c87.ext.json)
 
 ---
 

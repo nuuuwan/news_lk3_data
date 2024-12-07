@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 17:43:24**
+As of **2024-12-07 18:37:46**
 
 ## Newspaper Stats
 
-*Scraped **58,965** Articles*
+*Scraped **58,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,540
 economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,588
+adalk | 5,589
 adaderanalk | 7,162
 tamilmirrorlk | 8,409
 virakesarilk | 9,659
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,957 (100.0%) of 58,965 articles have been extended.
+58,965 (100.0%) of 58,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### முட்டை - கோழி இறைச்சியின் விலையில் மாற்றம்?
+### Egg - Change in the price of chicken meat?
 
 *2024-12-07 17:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-348398) · `ta`
 
-எதிர்வரும் பண்டிகைக் காலத்தில் முட்டை மற்றும் இறைச்சியைத் தட்டுப்பாடின்றி மக்களுக்கு வழங்க முடியும் என இலங்கை கால்நடை உற்பத்தியாளர்கள் சங்கத்தின் தலைவர் அஜித் குணசேகர தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-ஜனவரி மாதம் வரை முட்டை மற்றும் கோழி இறைச்சியின் விலையில் மாற்றம் இருக்காது என அவர் மேலும் குறிப்பிட்டுள்ளார்.  R
+
+
+Egg prices stable, chicken meat unchanged till Jan: Ajith Gunasekera, SLVA president, assures no shortage during festive season.
+
+🟩
+
+Ajith Gunasekera, president of the Sri Lanka Veterinary Producers Association, said that during the festive season, eggs and meat can be provided to the people without shortage.
+
+He added that the price of eggs and chicken meat would not change until January, he added.R
 
 ◼️
 
 [Data](articles/5459c775.json)
+
+[Extended Data](ext_articles/5459c775.ext.json)
 
 ---
 
@@ -62,95 +72,135 @@ The discussion highlighted the US government’s appreciation for the new admini
 
 [Data](articles/001ca2e3.json)
 
+[Extended Data](ext_articles/001ca2e3.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා පළමු ඉනිම ලකුණු 328කට සීමා වෙයි
+### Sri Lanka limited to 328 runs
 
 *2024-12-07 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204137) · `si`
 
-ශ්‍රී ලංකාව සහ දකුණු අප්‍රිකාව අතර පැවැත්වෙන දෙවැනි සහ අවසන් ටෙස්ට් ක්‍රිකට් තරගයේ තුන්වැනි දිනය අදයි.
+Sri Lanka: 328/10 (1st innings) vs South Africa. Key highlights: SL's 2nd & 3rd days; Kumindu Mendis' 50; Dhananjaya de Silva's dismissal; Kusal Mendis' 16; Dane Paterson's 5/71. South Africa starts 2nd innings.
 
-තුන්වැනි දිනය සඳහා අද තරගය ආරම්භ කරනවිට සිය පළමු ඉනිම ක්‍රීඩාකරමින් සිටි ශ්‍රී ලංකා කණ්ඩායම කඩුලු 3ක් දැවී ලකුණු 242ක් රැස් කරගෙන සිටියේය.
+🟩
 
-ශ්‍රී ලංකා පළමු ඉනිමට තවත් ලකුණු 26ක් එක්දේදී ලකුණු 44ක් ලබාගෙන සිටි ඇන්ජලෝ මැතිව්ස් දිනයේ පළමු කඩුල්ල ලෙස දැවී ගියේය.
+Today is the second and third day of the second and final Test match between Sri Lanka and South Africa.
 
-සිය 5වැනි ටෙස්ට් අර්ධ ශතකය පෙනෙන මානයේ සිටි කමිඳු මෙන්ඩිස් ලකුණු 48කට දැවී ගියේය.
+Sri Lanka scored 242 runs for the loss of 3 wickets in their first innings.
 
-නායක ධනංජය ද සිල්වා 14කට දැවී යද්දී කුසල් මෙන්ඩිස්ට ලබා ගැනීමට හැකිවුණේ ලකුණු 16ක් පමණි.
+Sri Lanka were bowled out for 26 runs in their first innings and won 44 runs.
 
-දකුණු අප්‍රිකා වේගපන්දු යවන්නන්ගේ ග්‍රහණයට හසුවු ශ්‍රී ලංකා පිතිකරුවන්ට සිය පළමු ඉනිමට රැස්කර ගැනීමට හැකිවුණේ සියල්ලන් දැවී ලකුණු 328ක් පමණි.
+The 5th Test half century, Kumindu Mendis was bowled out for 48 runs.
 
-පන්දු යැවීමේදී ඩේන් පැටර්සන් ලකුණු 71කට කඩුලු 5ක් දවා ගත්තේය.
+When the leader Dhananjaya de Silva was bowled out, the Kusal Mendis was able to get only 16.
 
-ඒ අනුව ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු ලකුණු 33 වාසියකින් දකුණු අප්‍රිකා දෙවැනි ඉනිම ඇරඹුවේ ඒඩන් මාක්‍රම් සමඟින් ටෝනි ද සෝර්සියි.
+Only 328 runs for the loss of all bowled out for the first innings of South Africa films.
+
+Dane Patterson took 5 wickets for 71 runs.
+
+According to the first innings of Sri Lanka, South Africa began in the second innings with Tony.
 
 ◼️
 
 [Data](articles/82631d12.json)
 
+[Extended Data](ext_articles/82631d12.ext.json)
+
 ---
 
-### இன்று நிகழவுள்ள பிரபஞ்ச அதிசயம்; தவற விடாதீர்கள்...
+### The miracle of the universe today;Don't miss ...
 
 *2024-12-07 16:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்று-நிகழவுள்ள-பிரபஞ்ச-அதிசயம்-தவற-விடாதீர்கள்/50-348397) · `ta`
 
-சூரிய குடும்பத்தின் பெரிய அண்ணன் என்று அழைக்கப்படும் வியாழன் கிரகம் இன்று பூமிக்கு மிக நெருக்கமாக வருகிறது.
+Here's a summary of the text in approximately 200 characters:
 
-சுமார் 460 கோடி ஆண்டுகளுக்கு முன்னர் நாம் வாழ்ந்து கொண்டிருக்கும் சூரிய குடும்பம் தோன்றியது. குடும்பம் என்றாலே அதில் தலைவர் என்பவர் இருப்பார்தானே. அது நம்ம சூரியன்தான்.
 
-அப்புறம் சில உறுப்பினர்கள் புதன், வெள்ளி, பூமி, சனி, வியாழன், யுரேனஸ் மற்றும் நெப்டியூன். இதில் பெரிய அண்ணன்தான் வியாழன். சைஸில் பெரியவர். அதனால் பெரிய அண்ணன் பொறுப்பு அவருக்குதான் கரெக்டா இருக்கும்.
 
-பெயருக்கு ஏற்றார் போல, எல்லா கஷ்டங்களையும் தாங்கி கொண்டு அவர் தனது இளைய சகோதரர்களை வாழ வைத்துக் கொண்டிருக்கிறார். புரியும்படி சொல்வதெனில், பூமிக்கு விண்கற்களால்தான் ஆபத்து.  டைனோசர்கள் அழிந்ததும் இப்படித்தான். ஆக விண்கற்கள் தாக்குதலில் இருந்து நம்மை காப்பாற்ற வியாழன் உதவி செய்து கொண்டிருக்கிறது.
+Jupiter, Earth's largest celestial sibling, protects us from dangerous meteorites through its strong gravity. Every 13 months, Jupiter appears exceptionally bright and large in our sky, drawing scientific and public interest.
 
-வியாழன் கிரகத்தின் ஈர்ப்பு சக்தி அதிகம். எனவே அதை தாண்டி சூரிய குடும்பத்தில் நுழையும் அனைத்து விண்கற்களையும் அது ஈர்த்து தனக்குள் போட்டுக்கொள்ளும். கடந்த பல கோடி ஆண்டுகளாக வியாழன் அண்ணன் நமக்காக இதை செய்து கொண்டிருக்கிறார்.
+🟩
+
+The planet Jupiter, also known as the great brother of the solar system, is getting closer to Earth today.
+
+About 460 billion years ago the solar system we lived in. Family is the leader of it. It is our sun.
+
+Some members then Wednesday, Friday, Earth, Saturn, Thursday, Uranus and Neptune. Jupiter is the big brother. The big man in the size. So the big brother is responsible for him.
+
+Like the name, he is carrying his younger brothers with all the hardships. To understand, the risk of meteorites to the earth.This is how the dinosaurs are extinct. Jupiter is helping us to save us from attacking meteorites.
+
+Jupiter's gravitational power is high. So it will attract all the meteorites that enter the solar system beyond it. Jupiter's brother has been doing this for us for the past several billion years.
+
+This task will continue for a few billion years. In this case, not only scientists but also ordinary people are interested in learning about the planet Jupiter.
 
 ...
 
 [Data](articles/25782364.json)
 
+[Extended Data](ext_articles/25782364.ext.json)
+
 ---
 
-### හෙරොයින් මත්කුඩු සමග අයෙකු අත්අඩංගුවට
+### Suspect arrested with heroin
 
 *2024-12-07 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204136) · `si`
 
-ජාඇළ, ඒකළ කෘෘස් වත්ත ප්‍රදේශයේ නිවසක තිබී හෙරොයින් ග්‍රෑම් 500කට ආසන්න ප්‍රමාණයක් පොලීසිය විසින් සොයාගෙන තිබේ.
+Here's a summary of 200 characters:
 
-ඒ සමග එම නිවසේ අයිතිකරු වන අවුරුදු 38ක් වන පුද්ගලයෙකුද පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
 
-සැකකරු නිවසේ නිදන කාමරයක් තුළ මෙම මත්කුඩු සඟවා තිබූ බව පොලීසිය පැවසීය.
 
-පොලීසිය පැවසුවේ සැකකරු මීට පෙරද මත්ද්‍රව්‍ය ජාවාරම් සම්බන්ධව සිරගතව සිට ඇප මත නිදහස් ව පැමිණි අයෙකු බවය.
+Arrest made in Ja Ela: 38-year-old suspect caught hiding nearly 500g of heroin in their home. Previously convicted for drug trafficking, now facing investigation detention orders.
 
-පොලිස් භාරයට ගත් හෙරොයින් තොගයේ වටිනාකම රුපියල් කෝටියක් වන බවද පොලීසිය පැවසීය.
+🟩
 
-සැකකරු රැඳවුම් නියෝග මත රඳවා වැඩිදුර විමර්ශන සිදු කිරීමට නියමිතය.
+Nearly 500 grams of heroin found in a house in Ja Ela, Electorate.
+
+Police have arrested a 38 year old person who was the owner of the house.
+
+The suspect was hidden in a bedroom in the house room, police said.
+
+Police said the suspect had previously been imprisoned on drug trafficking and released on bail.
+
+The value of heroin heroin was taken into custody is Rs.
+
+The suspect is due to investigate detention orders.
 
 ◼️
 
 [Data](articles/3c04d00d.json)
 
+[Extended Data](ext_articles/3c04d00d.ext.json)
+
 ---
 
-### රජයේ දූෂණ විරෝධී වැඩපිළිවෙළට ඕනෑම අවස්ථාවකදී සහාය දෙනවා -  ඩොනල්ඩ් ලු
+### Anti-corruption program supports supports at any time - Donald Lu
 
 *2024-12-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204135) · `si`
 
-ශ්‍රී ලංකාවෙන් පිටතට රැගෙන ගොස් තිබෙන මුදල් නැවත ගෙනඒම සම්බන්ධයෙන් රජය ගෙනයන වැඩපිළිවෙලට තාක්ෂණික සහාය ලබාදීමට සූදානම් බව දකුණු සහ මධ්‍යම ආසියානු කටයුතු පිළිබඳ එක්සත් ජනපද සහකාර රාජ්‍ය ලේකම් ඩොනල්ඩ් ලු මහතා පවසයි.
+Here's a summary of 200 characters:
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ඩොනල්ඩ් ලු මහතා අතර අද (07) ජනාධිපති කාර්යාලයේදී සාකච්ඡාවක් පැවැත්වුණි.
 
-ඒ මහතා තවදුරටත් පවසා සිටියේ, වත්මන් රජය ගෙනයන දූෂණ විරෝධී වැඩපිළිවෙළට අවශ්‍ය ඕනෑම අවස්ථාවකදී සහයෝගය ලබාදෙන බවය.
 
-මේ අතර ශ්‍රී ලංකාවේ ආරක්ෂාව සහ ආර්ථිකය ගොඩනැගීම සඳහා මූල්‍ය හා තාක්ෂණික සහාය ලබාදීමට අමරිකානු රජය සූදානම් බවද සහකාර රාජ්‍ය ලේකම්වරයා සඳහන් කළේය.
+US Assistant Secretary Donald Lu offers support: technical & financial aid for Sri Lanka's development. Government focuses on anti-corruption, improving rural economy & public services through modern technology.
 
-දේශපාලන, ආර්ථික හා සමාජීය කාරණා සම්බන්ධ ප්‍රමුඛතා හඳුනාගනිමින් නව රජය ගෙනයන වැඩපිළිවෙළ මෙහිදී අමෙරිකානු රජයේ ඇගයීමට ලක්වී තිබේ.
+🟩
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපති අනුර කුමාර දිසානායක මහතා කියා සිටියේ, ශ්‍රී ලංකාවේ දූෂණ සහ නාස්ති කිරීම සම්බන්ධයෙන් දේශපාලන සංස්කෘතිය සෘජුව බලපා තිබෙන බවත් නව දේශපාලන සංස්කෘතියක් ඇති කිරීම තුළින් දූෂණය සහ නාස්ති අවම කිරීමට කටයුතු කරමින් සිටින බවත් ය.
+US Assistant Secretary of State for South and Central Asian Affairs Donald Lu says that the government is ready to provide technical assistance to the government to bring back the money taken out of Sri Lanka.
+
+A discussion was held between President Anura Kumara Dissanayake and Donald Lu today (07).
+
+He added that the present government is supported at any time needed.
+
+The US Secretary of State stated that the US government is ready to provide financial and technical assistance to build Sri Lanka's security and economy.
+
+The new government's program recognizes the priorities of political, economic and social issues.
+
+President Anura Kumara Dissanayake said that the political culture was directly affected by the political culture of corruption and wasting Sri Lankan corruption and wasting.
 
 ...
 
 [Data](articles/c5a84fb3.json)
+
+[Extended Data](ext_articles/c5a84fb3.ext.json)
 
 ---
 
@@ -318,6 +368,30 @@ However, a group of police officers including the OIC of the Panadura North Cent
 
 ---
 
+### Arhan reserves were remanded
+
+*2024-12-07 15:21:47* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-ලොහාන්-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-413506) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Arhan reserves: Former MP Lohan Ratwatte remanded until 9th. Arrested on 6th.
+
+🟩
+
+Former Parliamentarian Lohan Ratwatte remanded till the 9th.
+
+He was arrested yesterday (06).
+
+◼️
+
+[Data](articles/5d7e5edf.json)
+
+[Extended Data](ext_articles/5d7e5edf.ext.json)
+
+---
+
 ### Lohan was placed in interrogation
 
 *2024-12-07 15:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கமறியலில்-வைக்கப்பட்டார்-லொஹான்/175-348394) · `ta`
@@ -380,25 +454,35 @@ The CEB’s latest proposal suggests no reductions for the next six months, citi
 
 ---
 
-### ලොහාන් රත්වත්තේ රිමාන්ඩ්
+### Lhanna Ratwatte remanded
 
 *2024-12-07 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204130) · `si`
 
-බීමතින් රිය පදවා අනතුරක් සිදුකිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගනු ලැබූ හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා අද (07) අලුත්කඩේ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+Lohan Ratwatte remanded for drunk driving. Ordered to remain in custody till 9th. Previously arrested over luxury car found in home. Released on bail but faces foreign travel ban. Wife also arrested.
 
-එහිදී අධිකරණය නියෝග කර තිබුණේ ඔහුව එළඹෙන 09 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට ය.
+🟩
 
-ලොහාන් රත්වත්තේ මහතා සිය ඥාති නිවසකට ගොස් නැවත යමින් සිටියදී ඔහු පැදවූ ජීප් රථය කොල්ලුපිටිය මංසන්ධිය අසලදී තවත් මෝටර් රථයක ගැටී ඊයේ (6) අනතුරක් සිදුවිය.
+Former State Minister Lohan Ratwatte, who was arrested in connection with a drunken accident, was remanded after being produced before the Chief Magistrate's Court Magistrate today (07).
 
-අනතුර සම්බන්ධයෙන් කොල්ලුපිටිය පොලීසියට ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇත්තේ ලොහාන් රත්වත්තේ මහතා බීමතින් රිය පදවා ඇති බවය.
+The court was ordered to be remanded until the 9th.
 
-ඒ අනුව බීමතින් රිය ධාවනය කර අනතුරක් සිදු කිරීමේ චෝදනා මත පොලීසිය ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+Lhanha Ratwatte went to his cousin and returned to her cousin, he was on a car hit by another car yesterday.
 
-මේ අතර පසුගිය ඔක්තෝබර් 30 වනදා ලොහාන් රත්වත්තේ මහතාව කටුගස්තොටදී, මිරිහාන පොලීසිය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කර තිබුණි.
+Investigations into the Kollupitiya Police have revealed that Mr. Lohan Ratwatte had been driving drunk.
+
+Accordingly, the police had arrested him on charges of driving drunk and accidentally.
+
+Meanwhile, on October 30, Lohan Ratwatte was arrested and remanded after being arrested by Mirihana Police from Katugastota and produced before court.
+
+It is in connection with the discovery of a luxury car in a three-storey house in a three-storey house in Mirihana Emadeniya Sale belongs to Mr. Rashi Prabha Ratwatte, the wife of Lohan Ratwatte.
+
+Accordingly, investigations into the incident have revealed that it was an illegal car.
 
 ...
 
 [Data](articles/13483082.json)
+
+[Extended Data](ext_articles/13483082.ext.json)
 
 ---
 
@@ -2383,29 +2467,5 @@ In some parts of Colombo, coconut shells sold at Rs 100-120. Market Sources said
 [Data](articles/4f4211b0.json)
 
 [Extended Data](ext_articles/4f4211b0.ext.json)
-
----
-
-### Michelin sells two plants in Sri Lanka to India’s CEAT
-
-*2024-12-06 18:26:00* · [`economynextcom`](https://economynext.com/michelin-sells-two-plants-in-sri-lanka-to-indias-ceat-192730/) · `en`
-
-ECONOMYNEXT – France-based Michelin said it was selling two plants in Sri Lanka that made bias tyres and tracks for compact construction equipment to India’s CEAT group.
-
-In addition to the production facilities, the sale will also include the Camso brand, at the end of a three-year licensing period.
-
-“The Group also intends to continue its other manufacturing activities in Sri Lanka,” a statement said.
-
-“The country remains important for Michelin, where the company plans to continue modernizing its production facilities alongside improving performance – as everywhere in the Group.”
-
-Separately Michelin said it will also stop production of bias tyres at its factory in Poland as part of a plan to exit from its activities related to Compact Line bias tires and Construction tracks.
-
-It will continue to produce radial tires, solid tires and assemblies.
-
-...
-
-[Data](articles/e9825be9.json)
-
-[Extended Data](ext_articles/e9825be9.ext.json)
 
 ---

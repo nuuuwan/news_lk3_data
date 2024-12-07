@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 09:19:35**
+As of **2024-12-07 09:42:41**
 
 ## Newspaper Stats
 
-*Scraped **58,924** Articles*
+*Scraped **58,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 3,540
 economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,581
+adalk | 5,583
 adaderanalk | 7,155
 tamilmirrorlk | 8,402
 virakesarilk | 9,657
-adaderanasinhalalk | 10,177
+adaderanasinhalalk | 10,178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,922 (100.0%) of 58,924 articles have been extended.
+58,926 (100.0%) of 58,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### සිරියාවේ තවත් නගරයක් කැරලිකරුවන් අතට
+
+*2024-12-07 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204120) · `si`
+
+සිරියාවේ පාලනයට එරෙහිව සටන් වදින කැරලිකරුවන් විසින් එරට තවත් නගරයක් අල්ලා ගෙන ඇතැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+
+එසේ සිරියානු ජනාධිපති බෂාර් අල්-අසාඩ් ගේ පාලනයෙන් ගිලිහී ඇත්තේ ඩරා නම් නගරයකි.
+
+එරට ජනාධිපතිවරයාට එරෙහිව 2011 වසරේදී අරගලය ආරම්භ වූයේ මෙම නගරයේ බව සඳහන් ය.
+
+ඒ අනුව සතියක් තුළදී එරට හමුදාව ට අහිමිවූ සිව් වැනි නගරය එය වෙයි.
+
+නගරයේ සිටි හමුදා නිලධාරීන්ට පසුබැසීමට හැකිවන ලෙස අවස්ථාව ලබා දීමට කැරලිකරුවන් එකඟ වී තිබුණි.
+
+එම නගරයේ සිට සිරියාවේ අගනගරය වන ඩමස්කස් නගරයට ඇත්තේ කිලෝ මීටර් 100ක පමණ දුරකි.
+
+කැරලිකරුවන් විසින් සිය මෙහෙයුම් පසුගිය නොවැම්බර් 27 වනදා ආරම්භ කළ අතර ඔවුන් මේ දක්වා එරට ප්‍රධාන නගර වන ඇලෙප්පෝ සහ හාමා සිය ග්‍රහණයට ගෙන තිබේ.
+
+එසේම එරට තවත් ප්‍රධාන නගරයක් වන හොම්ස් ද බොහෝදුරට කැරලිකරුවන් යටතට පත්වෙතැයි අනුමාන කෙරේ.
+
+සිරියාව තුළ සිවිල් යුද තත්ත්වය හේතුවෙන් 2011 සිට 2021 දක්වා පුද්ගලයින් 305,000ක් පමණ මියගොස් ඇති බව සඳහන් ය.
+
+...
+
+[Data](articles/100e26e2.json)
+
+---
+
+### A country will not improve only by constructing buildings
+
+*2024-12-07 08:58:18* · [`adalk`](https://www.ada.lk/breaking_news/ගොඩනැගිලි-ඉදිකිරිමෙන්-පමණක්-රටක්-දියුණු-වෙන්නේ-නෑ/11-413500) · `si`
+
+Country development requires more than just building construction. President Anura Kumara Dissanayake emphasizes digitization for economic growth and poverty reduction. The government aims to increase the digital workforce and invest in education and labor sectors.
+
+🟩
+
+At present the expectations of the Political Authority and digital technical prospects, the prospect of digital technologists is expected to digitize the country and said President Anura Kumara Dissanayake said.
+
+The President added that he is present at any time.
+
+President Anura Kumara Dissanayake made these comments today (05) at the Ministry of Economic Affairs at the Ministry of Economic Affairs.
+
+The President said that digitization can increase the efficiency of economic activity and increase the economy of the country.
+
+The President pointed out that eliminating poverty, change of social attitudes and digitalization is the leading goal.
+
+The President said that a country was not developing only by constructing buildings and said that there was a construction Ministry two decades ago.
+
+The President also revealed that the negotiations of the education of the Ministry of Education and the Accidents of the Ministry of Education.
+
+...
+
+[Data](articles/4a39ec14.json)
+
+[Extended Data](ext_articles/4a39ec14.ext.json)
+
+---
 
 ### Minister proposes providing sewn school uniforms to students
 
@@ -43,6 +101,8 @@ Speaking at a ceremony held in Colombo, the Minister emphasized the benefits of 
 ◼️
 
 [Data](articles/c7aa3b9d.json)
+
+[Extended Data](ext_articles/c7aa3b9d.ext.json)
 
 ---
 
@@ -59,6 +119,8 @@ South Korean lawmakers are set to vote later Saturday on impeaching President Yo
 ...
 
 [Data](articles/eb8731f7.json)
+
+[Extended Data](ext_articles/eb8731f7.ext.json)
 
 ---
 
@@ -819,6 +881,26 @@ We do not mention that there are no problems in the health sector. Steps have be
 [Data](articles/b61c2a52.json)
 
 [Extended Data](ext_articles/b61c2a52.ext.json)
+
+---
+
+### Lohan restored
+
+*2024-12-06 21:09:18* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-යළිත්-අත්අඩංගුවට/11-413499) · `si`
+
+Former State Minister Lohan Ratwatte arrested for drunk driving and illegal vehicle assembly. Released on bail after accident near Colombo Fort.
+
+🟩
+
+Former State Minister Lohan Ratwatte has been arrested by the Kollupitiya Police regarding a drunken drive.
+
+The accident had occurred when the jeep driving in a jeep back to Colombo Fort again. Meanwhile, the Minister arrested for possessing a vehicle in possession of a vehicle illegally assembled and was released on bail.
+
+◼️
+
+[Data](articles/3345d32b.json)
+
+[Extended Data](ext_articles/3345d32b.ext.json)
 
 ---
 
@@ -2415,81 +2497,5 @@ Director of the Department of Hindu Religious and Cultural Affairs. Anirudna was
 [Data](articles/2221f21a.json)
 
 [Extended Data](ext_articles/2221f21a.ext.json)
-
----
-
-### Age crosses the bear couple in Pinnawala and the leopard
-
-*2024-12-06 14:35:49* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-වලස්-ජෝඩුවට-හා-දිවියන්ට-වර්ගයා-බෝකරන්න--වයස-හරස්-වෙලා/11-413493) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Pinnawala bears and leopards face challenges: incompatible species, lack of suitable females, no artificial breeding program. The National Zoological Department seeks solutions, but judicial decisions hinder progress.
-
-🟩
-
-The National Audit Office reveals that their calves have not been created due to the incompatible species of non-permanent species and the number of leopard species of the Pinnawala.
-
-The National Zoological Department has asked the audit that the male bear has applied to the Wildlife Department, but it is not possible to get such female decisions due to a judicial decision.
-
-Although there is a leopard for breeding, they have no program to board the leopards from artificial incharge due to natural breeding.
-
-◼️
-
-[Data](articles/c313e70b.json)
-
-[Extended Data](ext_articles/c313e70b.ext.json)
-
----
-
-### Pakistan’s jailed former PM Imran Khan threatens civil disobedience movement
-
-*2024-12-06 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104043/pakistans-jailed-former-pm-imran-khan-threatens-civil-disobedience-movement) · `en`
-
-Pakistan’s jailed former Prime Minister Imran Khan has called on his supporters to hold a rally next week and threatened to start a civil disobedience movement days after his party led a deadly protest march in Islamabad.
-
-In a post on X on Thursday, Khan asked supporters to converge on Dec. 13 in the northwestern city of Peshawar, the capital of Khyber Pakhtunkhwa province which is ruled by his Pakistan Tehreek-e-Insaf (PTI) party.
-
-He demanded a judicial probe into the crackdown on the Nov 25 protest march which he said killed at least 12 of his supporters and violence on May 9 last year which killed 8. All arrested political workers should also be released, he said.
-
-“If these two demands are not met, a civil disobedience movement will start from December 14, and the government will be held responsible for any consequences,” Khan said.
-
-The government denies any deaths during the Nov 25 protest march, and says that Khan’s supporters had attacked military installations on May 9 last year.
-
-...
-
-[Data](articles/02facaf0.json)
-
-[Extended Data](ext_articles/02facaf0.ext.json)
-
----
-
-### Interim order per gazette notification on liquor licenses
-
-*2024-12-06 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204098) · `si`
-
-Supreme Court halts gazette notification increasing liquor license fees. Three-judge bench allows fundamental rights petition filed by Liquor License Holders Association. Annual fee hike from Rs. 20 million challenged. Order prevents implementation until further notice.
-
-🟩
-
-The Supreme Court today (6) awarded the Supreme Court today (6), preventing the implementation of a gazette notification for the annual fee for the end of the year.
-
-Allowing a fundamental rights petition filed by the Liquarates License holders Association of Sri Lanka. H. M. D. The order was issued by a three-member judge with a three-member judge with Nawaz, Kumudhi Wickremasinghe and Priyantha Fernando.
-
-The Secretary to the Ministry of Finance, the Secretary to the Ministry of Finance, had been named as respondents on the Liqual Local Licensee (Liquarates Licensee) Association.
-
-The petitioners claim that the annual fee for liquor licenses increased from Rs. 20 million.
-
-The petition had been filed asking him to increase the annual license fee.
-
-In addition, the petition has been requested to issue an order to be charged by the gazette for sale in 2017.
-
-◼️
-
-[Data](articles/afc6ce12.json)
-
-[Extended Data](ext_articles/afc6ce12.ext.json)
 
 ---

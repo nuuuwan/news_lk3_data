@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 20:26:38**
+As of **2024-12-07 20:42:07**
 
 ## Newspaper Stats
 
-*Scraped **58,972** Articles*
+*Scraped **58,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,589
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
-adaderanalk | 7,163
+adaderanalk | 7,164
 tamilmirrorlk | 8,410
 virakesarilk | 9,659
 adaderanasinhalalk | 10,193
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,193
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,972 (100.0%) of 58,972 articles have been extended.
+58,972 (100.0%) of 58,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Teen drowns, 4 rescued as boat capsizes in Akkara Wissa Wewa
+
+*2024-12-07 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104066/teen-drowns-4-rescued-as-boat-capsizes-in-akkara-wissa-wewa) · `en`
+
+A small boat has reportedly capsized with five children on board in the Akkara Wissa Wewa at Sellakataragama.
+
+According to the police, a 19-year-old boy was confirmed dead, while four others were rescued by villagers.
+
+The accident, which took place at around 5:45 p.m., resulted in the death of a 19-year-old youth, Pramod, a resident of Sellakataragama.
+
+It has been reported that all five individuals aboard the boat had recently completed their G.C.E. Advanced Level examination.
+
+The body of the deceased has been placed in the Kataragama District Hospital.
+
+◼️
+
+[Data](articles/a72b9ace.json)
+
+---
 
 ### Warning to fishermen and maritime employees
 
@@ -2449,27 +2469,5 @@ The interim injunction was issued when the petition was taken up in the presence
 [Data](articles/ad2e7cde.json)
 
 [Extended Data](ext_articles/ad2e7cde.ext.json)
-
----
-
-### Lohan Ratwatte arrested over drunk driving accident
-
-*2024-12-06 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104049/lohan-ratwatte-arrested-over-drunk-driving-accident) · `en`
-
-Former State Minister Lohan Ratwatte, who was released on bail yesterday, has been arrested at Kollupitiya following a traffic accident.
-
-Police said the former state minister was arrested due to driving under the influence of alcohol.
-
-A Land Rover Defender driven by the former parliamentarian had collided with a car in the Kollupitiya area while he was driving under the influence of alcohol, police said.
-
-Lohan Ratwatte and his wife Shashi Prabha Ratwatte were granted bail yesterday (05) by the Nugegoda Magistrate’s Court, following their arrest over charges of using a luxury car illegally imported and assembled in Sri Lanka.
-
-Accordingly, the court had ordered them released on a cash bail of Rs. 25,000 each and two personal bonds of Rs. 1 million each. The court also issued an overseas travel ban on Ratwatte.
-
-...
-
-[Data](articles/eb9e336c.json)
-
-[Extended Data](ext_articles/eb9e336c.ext.json)
 
 ---

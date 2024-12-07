@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 00:42:01**
+As of **2024-12-08 01:11:56**
 
 ## Newspaper Stats
 
-*Scraped **58,986** Articles*
+*Scraped **58,987** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 446
-colombotelegraphcom | 600
+colombotelegraphcom | 601
 bbccomsinhala | 617
 islandlk | 3,542
 economynextcom | 3,590
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,986 (100.0%) of 58,986 articles have been extended.
+58,987 (100.0%) of 58,987 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -365,6 +365,20 @@ The body of the deceased youth has been placed at the District Hospital at the K
 [Data](articles/0b146994.json)
 
 [Extended Data](ext_articles/0b146994.ext.json)
+
+---
+
+### Tamil Demand For Justice – Stumbling Block For NPP
+
+*2024-12-07 19:05:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tamil-demand-for-justice-stumbling-block-for-npp/) · `en`
+
+NPP received massive mandate by the people across ethnic, religious and social divide to charter the course of the country for the coming five years. Attracted primarily by their slogan of eliminating corruption and reducing wastage and others like delivering social justice to all and applying meritocracy in selection, they have been ushered into position of authority. However they have made a fundamental mistake in deciding that problems faced by Sinhalese and Tamils are the same and if the economic situation in the country improves, everything will be fine, descending into wishful thinking that Tamil demand for justice would fizzle out. In this aspect they seem to be no different to previous governments.
+
+...
+
+[Data](articles/1871ab66.json)
+
+[Extended Data](ext_articles/1871ab66.ext.json)
 
 ---
 
@@ -2459,25 +2473,5 @@ Coconut prices have increased due to the decline in coconut harvesting and the u
 [Data](articles/8291cb66.json)
 
 [Extended Data](ext_articles/8291cb66.ext.json)
-
----
-
-### US Assistant Secretary of State calls on PM Harini Amarasuriya
-
-*2024-12-06 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104051/us-assistant-secretary-of-state-calls-on-pm-harini-amarasuriya) · `en`
-
-U.S. Assistant Secretary of State for South and Central Asian Affairs, Mr. Donald Lu, paid a courtesy call on Prime Minister Dr. Harini Amarasuriya at the Parliament of Sri Lanka.
-
-The meeting focused on enhancing bilateral relations, addressing Sri Lanka’s economic challenges, and exploring opportunities for educational and governance collaboration, the Prime Minister’s Media Division stated.
-
-Prime Minister Amarasuriya emphasized the government’s commitment to transparency and accountability, highlighting the importance of aligning the education system with economic needs to foster a skilled workforce.
-
-Discussions also addressed Sri Lanka’s IMF program and the role of international partnerships in stabilizing the economy, it added.
-
-...
-
-[Data](articles/24745065.json)
-
-[Extended Data](ext_articles/24745065.ext.json)
 
 ---

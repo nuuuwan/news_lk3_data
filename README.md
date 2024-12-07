@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 22:02:06**
+As of **2024-12-07 22:16:14**
 
 ## Newspaper Stats
 
-*Scraped **58,976** Articles*
+*Scraped **58,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,101 @@ adalk | 5,589
 adaderanalk | 7,165
 tamilmirrorlk | 8,410
 virakesarilk | 9,659
-adaderanasinhalalk | 10,193
+adaderanasinhalalk | 10,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,976 (100.0%) of 58,976 articles have been extended.
+58,976 (100.0%) of 58,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
+### සහල් මාෆියාව සිදුවෙන හැටි හෙළිවෙයි
+
+*2024-12-07 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204144) · `si`
+
+සහල් වර්ග 04කට ජනවාරි සිට දැඩි ලෙස පාලන මිල ක්‍රියාත්මකළ යුතු බව ජාතික සහල් කර්මාන්ත සම්මේලනයේ අනුශාසක අරුණකාන්ත බණ්ඩාර මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු සහල් මාෆියාව සිදුවන ආකාරය විස්තර කළේය.
+
+"අවුරුදු දෙක තුනකට සැරයක් ප්‍රධාන සහල් මෝල් හිමියන් කීරි සම්බා මිල ඉහළ දානවා. කීරි සම්බා මිල ඉහළ දාපු ගමන්  ඊළඟ කන්නයේදී ගොවියෝ එ්ක වගා කරන්න පෙළබෙනවා වගාකරන්න පෙළබුණාම කීරි සම්බා මිල අඩුවෙනවා. අඩු වුණාම මෝල් හිමියන් ගබඩාවල පුරවාගන්නවා. එහෙම පුරවාගෙන ඒක ඉතා ඉහළ මිලකට විකුණනවා. ඒක සිදුවෙන්නේ මේ ප්‍රධාන මෝල් හිමියන් නිලධාරීන්ගේ සහායෙන් තත්ත්වයේ සමබරතාවය බිඳිනවා. ඉතින් මේ තත්ත්වෙදි නාඩු හාල්වල හිඟයක් ඇති වෙනවා. ඒ නිසා ස්ථිර වශයෙන්ම ලබන ජනවාරි සිට සහල් වර්ග 04ටම දැඩි ලෙස පාලන මිල ක්‍රියාත්මකළ යුතුයි."
+
+◼️
+
+[Data](articles/6117d9a5.json)
+
+---
+
+### මේ වසරේදී පොල් අස්වැන්න අඩුවීමට හේතුව මෙන්න
+
+*2024-12-07 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204143) · `si`
+
+පොල්මිල මේ වන විට වෙළෙඳපොළ තුල ප්‍රධාන මාතෘකාවක් බවට පත්ව තිබේ.
+
+ඊට ආණ්ඩුවට පවා මැදිහත්වීමට සිදුව ඇත්තේ, පොල් හිඟය සහ අධික මිල හේතුවෙනි.
+
+ඉතිහාසයේ සිට අප ආහාර රටාව හා බැඳුණු පොල් මෙතරම් මිල ගියේ කෙසේ ද ?
+
+ඒ නිසාම සෑම නිවසකම ආහාර සැකසීම සඳහාම පොල් කිරි භාවිත කරනු ලබන අතර මෙරට වාර්ෂික පොල් පරිභෝජනය පොල් ගෙඩි මිලියන 1800කි.
+
+ඒ අනුව එක් පුද්ගලයෙකු වර්ෂයකට පොල් ගෙඩි 105ක් ආහාරය සඳහා ගනු ලබයි.
+
+දේශීය පරිභෝජනයට මෙන්ම අපනයනය සඳහාත් අපේක්ෂිත වාර්ෂික පොල් අස්වැන්න බිලියන 3කි.
+
+කෙසේවෙතත්, එම පොල් අස්වැන්න මේ වසරේ සියයට 30කින් පමණ අඩුවී තිබේ.
+
+පොල් ඵලදාව අඩුවීමට ප්‍රධාන හේතු බවට පත්ව ඇත්තේ වන සත්ව හානිය, දේශගුණික විපර්යාස, පළිබෝධ හානිය සහ පොහොර භාවිතය අඩුවීමය.
+
+මේ අතරින් පොල් වගාවට වැඩිම හානියක් සිදුකර ඇත්තේ වඳුරා, රිලවා සහ දඬුලේනා ආදී සතුන් විසිනි.
+
+දිවයිනේ සමස්ත පොල් වගා කර ඇති භූමි ප්‍රමාණය හෙක්ටෙයාර් 400,000කට අධික වන අතර ඉන් සියයට 20ක් භූමි ප්‍රමාණයක් වන සත්ත්ව හානියට ලක්ව තිබේ.
+
+...
+
+[Data](articles/406e4e01.json)
+
+---
+
 ### President sets maximum retail and wholesale prices for rice
 
 *2024-12-07 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104067/president-sets-maximum-retail-and-wholesale-prices-for-rice) · `en`
 
-Following a discussion with rice traders, President Anura Kumara Dissanayake has directed new maximum retail and wholesale price limits for various rice types, as announced by the President’s Media Division (PMD).
+Following a discussion with rice traders, President Anura Kumara Dissanayake has directed new maximum retail and wholesale price limits for various rice types, according to the President’s Media Division (PMD).
 
-Accordingly, the President has instructed rice millers to provide rice at following prices (per kg):
+President Dissanayake has directed rice traders to sell Nadu rice to consumers at a wholesale price of Rs. 225 per kilo and a retail price of Rs. 230 per kilo.
 
-◼️
+The President also instructed the officials Consumer Affairs Authority to closely monitor the situation over the next ten days and strictly enforce the law against rice mill owners who fail to comply with the fixed prices.
+
+President Dissanayake made these remarks during a meeting with officials from the Ministry of Trade, Commerce, Food Security and Cooperative Development, along with rice traders, at the Presidential Secretariat today (07), the PMD said.
+
+...
 
 [Data](articles/5ab806d2.json)
 
 [Extended Data](ext_articles/5ab806d2.ext.json)
+
+---
+
+### සහල් තොග සම්බන්ධයෙන් ජනපති තීරණයක් ගනියි
+
+*2024-12-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204142) · `si`
+
+නාඩු සහල් කිලෝවක් රුපියල් 225ක තොග මිලටත්, රුපියල් 230ක සිල්ලර මිලටත් පාරිභෝගික ජනතාවට ලබා දීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා සහල් ව්‍යාපාරිකයන්ට උපදෙස් දී තිබේ.
+
+මේ පිළිබඳ ඉදිරි දින දහය තුළ අවධානයෙන් කටයුතු කරමින්,  ඊට පටහැනිව කටයුතු කරන සහල් මෝල් හිමියන් සම්බන්ධව දැඩිව නීතිය ක්‍රියාත්මක කරන ලෙස ද ජනාධිපතිවරයා  පාරිභෝගික අධිකාරියට දැනුම් දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කර සිටියේ, වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යාංශයේ නිලධාරීන් හා සහල් ව්‍යාපාරිකයන්  සමඟ  ජනාධිපති ලේකම් කාර්යාලයේ අද (07) පැවැති සාකච්ඡාවේදීය.
+
+අපේ රටේ වැඩිම ආයෝජනයක් සිදු කරන්නේ මහාමාර්ග අමාත්‍යාංශයට බවත්, ඉන්පසුව වාරිමාර්ග හා කෘෂිකර්ම ක්ෂේත්‍රයන්ට බවත් පෙන්වා දුන් ජනාධිපතිවරයා වැඩිපුරම සහනාධාර ලබා දීම සිදු කරනු ලබන්නේ ද ගොවි ජනතාවට බව කියා සිටියේය.
+
+වී මිලදී ගැනීම සඳහා  ව්‍යාපාරිකයන්ට  අඩු පොලී  පහසුකම් යටතේ බැංකු ණය  ලබා දී ඇති බවද සිහිපත් කළ  ජනාධිපතිවරයා,  එබැවින් ජනතාවගේ සහල් අයිතියට අත නොතබන ලෙස සහල්  ව්‍යාපාරිකයන්ට පැවසීය.
+
+...
+
+[Data](articles/79679910.json)
 
 ---
 
@@ -98,6 +168,24 @@ Meanwhile, the Department of Meteorology has stated that rain is expected to inc
 
 ---
 
+### සිසුන් පිරිසක් රැගත් ඔරුවක් පෙරළෙයි - අයෙකු මරුට
+
+*2024-12-07 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204141) · `si`
+
+සෙල්ලකතරගම අක්කර විස්ස වැවේ විනෝදයට ඔරු පැදීමට ගිය ළමුන් 5 දෙනෙකුගෙන් යුත් ඔරුවක් පෙරළි ගොස් තිබේ.
+
+අනතුරින් එක් ළමයෙකු ජීවිතක්ෂයට පත්ව ඇති අතර මියගොස් ඇත්තේ සෙල්ලකතරගම පදිංචි ප්‍රමෝද් නම් 19 හැවිරිදි අයෙකි.
+
+මෙවර උසස් පෙළ හදාරා ඇති ළමුන් පස්දෙනෙකු මෙම ඔරුවේ ගමන් කර ඇති අතර ඔරුව පෙරළීමෙන් පසු ගම්වාසීන් විසින් වහා මැදිහත්ව ඔවුන් බේරා ගැනීමට කටයුතු කර තිබුණි.
+
+මියගිය තරුණයාගේ මළ සිරුර මේ වන විට කතරගම දිසා රෝහලේ තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/0b146994.json)
+
+---
+
 ### Sri Lanka doctor cautions against skincare products containing steroids
 
 *2024-12-07 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctor-cautions-against-skincare-products-containing-steroids-188945/) · `en`
@@ -119,6 +207,26 @@ Various products suspected to contain steroids were being sold across social med
 [Data](articles/f9ac7857.json)
 
 [Extended Data](ext_articles/f9ac7857.ext.json)
+
+---
+
+### ඉන්දීය ධීවරයින් වර්ජනයක
+
+*2024-12-07 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204140) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව විසින් තම ධීවරයින් අත්අඩංගුවට ගැනීමට විරෝධය පල කරමින් තමිල්නාඩු රාමේෂ්වරම් ප්‍රදේශයේ ධීවරයින් සංකේත වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+
+රාමේෂ්වරම් ධීවර සංගම් නියෝජිතයින් ප්‍රකාශ කර ඇත්තේ අද (07) සහ හෙට යන දෙදින තුළ ධීවර කටයුතුවලින් වැළකී මෙම වර්ජනයේ නිරත වන බවය.
+
+පසුගිය බදාදා දිනයේ මුහුදු සීමා උල්ලංඝනය කරමින් ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් 14 දෙනෙකු ශ්‍රී ලංකා නාවික හමුදාව විසින් අත්අඩංගුවට ගැනීම මෙම වර්ජනයට ආසන්නතම හේතුව වී තිබේ.
+
+රාමේෂ්වරම් ධීවර සංගම් නියෝජිතයින් පෙන්වා දී ඇත්තේ දිගින් දිගටම සිදුවන අත්අඩංගුවට ගැනීම් හේතුවෙන් ධීවර ප්‍රජාව තම ජීවිකාව සිදුකර ගැනීමට නොහැකිව දැඩි දුෂ්කරතාවට පත්ව සිටින බවය.
+
+මෙම දීර්ඝ කාලීන ගැටලුවට විසදුම් ලබාදෙන ලෙස පසුගිය සමයේ බලධාරීන්ගෙන් ඉල්ලීම් සිදුකළ අවස්ථාවල ශ්‍රී ලංකාවේ මැතිවරණ පැවැත්වෙන බැවින් ඒ පිළිබද පසුව සලකා බලන බව  දැනුම්දුන් අතර මේ වන විට මැතිවරණ අවසන්ව නව රජයක් පත්ව ඇති බැවින් සිය ගැටලු සදහා විසදුම් ලබාදෙන ලෙස රාමේෂ්වරම් ධීවර සංගම් ඉන්දීය රජයෙන් ඉල්ලා තිබේ.
+
+◼️
+
+[Data](articles/bb0b2325.json)
 
 ---
 
@@ -2327,125 +2435,5 @@ Employees who came out of the hospital have seen many bodies on the streets and 
 [Data](articles/5ebfef88.json)
 
 [Extended Data](ext_articles/5ebfef88.ext.json)
-
----
-
-### Customs reserves a car imported by illegally imported
-
-*2024-12-06 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204113) · `si`
-
-Customs seizes Toyota Prius worth Rs. 24m smuggled from Japan. Additional 200 illegal parts discovered over two months.
-
-🟩
-
-The Customs Revenue Monitoring Unit has taken into custody by the Customs Revenue Monitoring.
-
-The unit said that a modern car of Toyota Priyas is imported from about Rs. 24 million.
-
-The car was found in a container from Japan.
-
-The Customs also displayed 200 additional parts which were imported illegally imported in the past two months.
-
-◼️
-
-[Data](articles/a6757ef2.json)
-
-[Extended Data](ext_articles/a6757ef2.ext.json)
-
----
-
-### CEB submits proposal to PUCSL to continue with existing tariffs
-
-*2024-12-06 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104050/ceb-submits-proposal-to-pucsl-to-continue-with-existing-tariffs) · `en`
-
-The Ceylon Electricity Board (CEB) has submitted its electricity tariff revision proposal to the Public Utilities Commission of Sri Lanka (PUCSL).
-
-In its proposal, the CEB has stated that the existing tariffs will continue further for the next six months.
-
-Previously, it was proposed under the former government that electricity tariffs be revised four times annually. However, in 2023, tariff revisions were carried out three times, while two revisions were made this year. The current government has limited tariff revisions to twice a year.
-
-The proposal submitted today was expected to revise electricity tariffs for the first half of 2025, with implementation anticipated from the third week of January next year.
-
-...
-
-[Data](articles/6374d5de.json)
-
-[Extended Data](ext_articles/6374d5de.ext.json)
-
----
-
-### Strengthen the Peace and Reconciliation efforts to absorb the views of the minority - the Commonwealth Election Monitoring Committee recommends the government
-
-*2024-12-06 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200618) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Commonwealth Election Monitoring Committee recommends strengthening peace & reconciliation efforts in Sri Lanka to incorporate minority views, ensuring fair elections and preventing future conflicts.
-
-🟩
-
-The Commonwealth Election Monitoring Committee has emphasized its final report on the Presidential Elections Committee that the Sri Lankan government should further strengthen the efforts of peace and reconciliation to ensure that the ideas of the minority people are meaningfully embedded to avoid future conflicts.
-
-The country's ninth presidential election was held on 21st September. In accordance with the Election Commission's call to monitor whether the election is being held independently and fairlyWidely monitored.
-
-Commenting on a media briefing organized on September 23 last year, the Monitoring Committee Chairman Deni Fore said, “Sri Lanka's ninth presidential election has been held in a very peaceful and credible manner.. Most voters do not have enough awareness about the preferential voting process and its necessity. It is necessary to take measures to make such a dismay in the future. ”
-
-...
-
-[Data](articles/d6b1ae98.json)
-
-[Extended Data](ext_articles/d6b1ae98.ext.json)
-
----
-
-### No revision is no revision - CEB
-
-*2024-12-06 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204112) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"CEB sent to Public Utilities Commission. Next six months: No revision policy."
-
-🟩
-
-The Ceylon Electricity Board (CEB) has been sent to the Public Utilities Commission of the Ceylon Electricity Board.
-
-Accordingly, the Electricity Board (CEB) has been referred to that the next six months should be maintained without revision.
-
-◼️
-
-[Data](articles/2ac75512.json)
-
-[Extended Data](ext_articles/2ac75512.ext.json)
-
----
-
-### The UNP for Parliament. Jeevan became the leader of Gavin
-
-*2024-12-06 19:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கான-ஐ-தே-கவின்-தலைவரானார்-ஜீவன்/175-348360) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Ceylon Workers Congress wins seat in Nuwara Eliya. Jeevan Thondaman gets 46,438 votes. He becomes UNP Parliament leader.
-
-🟩
-
-The Ceylon Workers Congress won a seat in the last parliamentary elections in the Nuwara Eliya district.
-
-Jeevan Thondaman, general secretary of the Ceylon Workers Congress, received 46,438 preferential votes.
-
-It is noteworthy that Jeevan Thondaman was elected as the leader of the United National Party's parliament today. Remble
-
-◼️
-
-[Data](articles/1138308e.json)
-
-[Extended Data](ext_articles/1138308e.ext.json)
 
 ---

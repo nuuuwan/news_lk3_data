@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 16:15:32**
+As of **2024-12-07 16:59:26**
 
 ## Newspaper Stats
 
-*Scraped **58,957** Articles*
+*Scraped **58,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,588
 adaderanalk | 7,161
-tamilmirrorlk | 8,405
+tamilmirrorlk | 8,408
 virakesarilk | 9,659
 adaderanasinhalalk | 10,188
 
@@ -26,51 +26,139 @@ adaderanasinhalalk | 10,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,951 (100.0%) of 58,957 articles have been extended.
+58,957 (100.0%) of 58,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+### இன்று நிகழவுள்ள பிரபஞ்ச அதிசயம்; தவற விடாதீர்கள்...
+
+*2024-12-07 16:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்று-நிகழவுள்ள-பிரபஞ்ச-அதிசயம்-தவற-விடாதீர்கள்/50-348397) · `ta`
+
+சூரிய குடும்பத்தின் பெரிய அண்ணன் என்று அழைக்கப்படும் வியாழன் கிரகம் இன்று பூமிக்கு மிக நெருக்கமாக வருகிறது.
+
+சுமார் 460 கோடி ஆண்டுகளுக்கு முன்னர் நாம் வாழ்ந்து கொண்டிருக்கும் சூரிய குடும்பம் தோன்றியது. குடும்பம் என்றாலே அதில் தலைவர் என்பவர் இருப்பார்தானே. அது நம்ம சூரியன்தான்.
+
+அப்புறம் சில உறுப்பினர்கள் புதன், வெள்ளி, பூமி, சனி, வியாழன், யுரேனஸ் மற்றும் நெப்டியூன். இதில் பெரிய அண்ணன்தான் வியாழன். சைஸில் பெரியவர். அதனால் பெரிய அண்ணன் பொறுப்பு அவருக்குதான் கரெக்டா இருக்கும்.
+
+பெயருக்கு ஏற்றார் போல, எல்லா கஷ்டங்களையும் தாங்கி கொண்டு அவர் தனது இளைய சகோதரர்களை வாழ வைத்துக் கொண்டிருக்கிறார். புரியும்படி சொல்வதெனில், பூமிக்கு விண்கற்களால்தான் ஆபத்து.  டைனோசர்கள் அழிந்ததும் இப்படித்தான். ஆக விண்கற்கள் தாக்குதலில் இருந்து நம்மை காப்பாற்ற வியாழன் உதவி செய்து கொண்டிருக்கிறது.
+
+வியாழன் கிரகத்தின் ஈர்ப்பு சக்தி அதிகம். எனவே அதை தாண்டி சூரிய குடும்பத்தில் நுழையும் அனைத்து விண்கற்களையும் அது ஈர்த்து தனக்குள் போட்டுக்கொள்ளும். கடந்த பல கோடி ஆண்டுகளாக வியாழன் அண்ணன் நமக்காக இதை செய்து கொண்டிருக்கிறார்.
+
+...
+
+[Data](articles/25782364.json)
+
+---
+
+### Epidase
+
+*2024-12-07 16:03:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-பரவும்-அபாயம்/175-348396) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Recent heavy rain increases flu risk in flooded areas. High-risk districts: Ratnapura, Galle, Kalutara, Ampara, Kurunegala, Kegalle, Matara. Identified by Infectious Disease Division.
+
+🟩
+
+The Ministry of Health said that the recent inclement weather in the country has caused the risk of spreading the flu in the flooding areas.
+
+The districts of Ratnapura, Galle, Kalutara, Ampara, Kurunegala, Kegalle and Matara have been identified as high -end areas, according to the Infectious Division.R
+
+◼️
+
+[Data](articles/fa8544b9.json)
+
+[Extended Data](ext_articles/fa8544b9.ext.json)
+
+---
+
+### The low -lying low -lying area formed in the Bay of Bengal
+
+*2024-12-07 16:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்காள-விரிகுடாவில்-குறைந்த-காற்றழுத்த-தாழ்வுப்-பகுதி-உருவானது/175-348395) · `ta`
+
+Low-lying area forms in Bay of Bengal, strengthening over 24 hours. Expected to affect Sri Lanka and Tamil Nadu coasts on Dec 12. Strong winds (55km/h) forecasted. Potential impact on Sri Lanka's weather, increased rainfall predicted for Northern and Eastern Provinces from Dec 10.
+
+🟩
+
+The Indian Meteorological Department said that the low -lying low -lying area has been formed in the Bay of Bengal.
+
+Over the next 24 hours, the low -lying low -lying area will be strengthened.
+
+Sri Lanka and Tamil Nadu will move towards the coast of the Southwest Bengal Bay on the 12th of this month.
+
+Due to the low -lying area, strong winds are reported at 55 km / h in the Bay of Bengal.
+
+Meanwhile, the Department of Meteorology has said that the turmoil in the eastern Sea of ​​Sri Lanka is likely to have the impact of the country's weather in the coming days.
+
+Due to this, rainfall is expected to increase in the Northern and Eastern Provinces from December 10. Remble
+
+◼️
+
+[Data](articles/22a735b1.json)
+
+[Extended Data](ext_articles/22a735b1.ext.json)
+
+---
+
+### An announcement of the weather
 
 *2024-12-07 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204134) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් තද වැසි, තද සුළං සහ මුහුද රළුවීම පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත්කර තිබේ.
+Weather alert: Heavy rain, strong winds expected. Low-pressure system developing over Bay of Bengal, may intensify within 24 hours. Sea conditions rough, potential flooding in coastal areas. Stay informed and take necessary precautions.
 
-අද (07) පස්වරු 2ට නිකුත් කරන ලද එම නිවේදනය හෙට (08) පස්වරු 2ක දක්වා වලංගු වෙයි.
+🟩
 
-ගිනිකොනදිග බෙංගාල බොක්ක ගැඹුරු මුහුදු ප්‍රදේශයේ යාත්‍රා කරන බහුදින ධීවර යාත්‍රා සහ නාවික ප්‍රජාව මේ පිළිබඳව සැළකිලිමත් වන ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology has issued a warning for heavy rain, strong winds and sea of ​​riches.
 
-ගිනිකොනදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ අද (07) පෙරවරු 08.30ට පමණ අඩු පීඩන කලාපයක් නිර්මාණය වී ඇත.
+The announcement issued at 2 pm today (08) will be valid for 2 pm.
 
-එය ඉදිරි පැය 24දී බටහිර-වයඹ දෙසට ගමන් කරමින් තව දුරටත් වර්ධනය වීමට ඉඩ තිබේ.
+The Meteorology Department says that the Thandudal fishing vessel and naval community who sailed in the deep sea area of ​​Southeastern Bay of Bengal.
 
-එය දෙසැම්බර් 11 වනදා පමණ වනවිට ශ්‍රී ලංකාව සහ තමිල්නාඩු වෙරළට ඔබ්බෙන් නිරිතදිග බෙංගාල බොක්ක වෙත ළඟාවීමට බොහෝ දුරට ඉඩ ඇති බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+A lower pressure zone today (07) am today (07) am today (07).
 
-ඒ හේතුවෙන් එම මුහුදු ප්‍රදේශවල තාවකාලිකව ඉතා තද සුළං (පැ.කි.මී. 60) සමග තද වැසි පැවතිය හැකි අතර එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවද දැනුම්දෙයි.
+It is likely to grow further in the next 24 hours, heading west-northwest.
+
+The Met Department forecasts that it is likely beyond the Bay of Bengal Bay of Bengal by around December 11.
+
+Due to this, the temporary tights of the sea areas (a day.. 60) Heavy showers can bearly and that the sea areas can be very rough.
 
 ◼️
 
 [Data](articles/47c9692d.json)
 
+[Extended Data](ext_articles/47c9692d.ext.json)
+
 ---
 
-### පරිභෝජනයට නුසුදුසු මීයන් හානිකරන ලද පාන්පිටි ගබඩාවක් වටලයි
+### Inappropriate breadstores surrounded by mice inappropriate
 
 *2024-12-07 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204133) · `si`
 
-බදුල්ල මයිලගස්තැන්න ගබඩාවක තිබී පරිභෝජනයට නුසුදුසු පාන්පිටි මිටි 58ක් බදුල්ල මහ නගර සභාවේ සෞඛ්‍ය නිලධාරීන් විසින් අද (07) සොයාගෙන තිබේ.
+Here's a summary in 200 characters:
 
-රජයට අයත් මෙම ගබඩාව බණ්ඩාරවෙල ප්‍රදේශයේ ව්‍යාපාරිකයෙකු විසින් කුලී පදනම මත ලබාගෙන පවත්වාගෙන යනු ලබන ගබඩාවක් බවද අනාවරණය වී තිබේ.
 
-සෞඛ්‍ය අංශ විසින් මෙම පාන්පිටි තොගය සොයාගනු ලබන අවස්ථාව වන විටත් එම පාන් පිටි මීයන් විසින් හානි කර ඇති අයුරු සහ මීයන්ගේ මුත්‍රා සහ වසුරු ඒවායේ තිබූ බවත් වැටලීම සිදුකළ සෞඛ්‍ය බලධාරීන් පැවසූහ.
 
-වැටලීම් සිදුකළ මෙම ගබඩාව සම්බන්ධව බදුල්ල මහෙස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා නර නීතිමය කටයුතු සිදුකිරීමට නියමිතය.
+Health officers seize 58 bundles of bread in Badulla. Government-owned store rented by businessman raided. Breadbox rats discovered. Court case pending regarding raid repository.
+
+🟩
+
+The Health Officers of the Badulla Municipal Council have recovered 58 bundle of bundle of breaded bundles in Badulla.
+
+It has also been revealed that the government owned the government is a rented store by a businessman in Bandarawela.
+
+The health authorities of the raid of the breadboxed by the health sectors were also discovered by the breadbox rats and raid.
+
+The Badulla Magistrate's Court is due to report to the Badulla Magistrate's Court regarding the raid repository.
 
 ◼️
 
 [Data](articles/2f0ebd27.json)
+
+[Extended Data](ext_articles/2f0ebd27.ext.json)
 
 ---
 
@@ -90,29 +178,41 @@ He explained that his operations involve maintaining rice stocks to ensure consi
 
 [Data](articles/9800503a.json)
 
+[Extended Data](ext_articles/9800503a.ext.json)
+
 ---
 
-### සංගීත ප්‍රසංගයකදී ගායන ශිල්පී නදිමාල්ට පහරදුන් අයෙකු අත්අත්අඩංගුවට
+### A person arrested for attacking the singer Nadimel in a concert
 
 *2024-12-07 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204132) · `si`
 
-ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරාගේ පුත් වන ගායන ශිල්පී නදිමාල් පෙරේරාට පහර දුන් බව කියන පුද්ගලයෙකු පානදුර උතුර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Arrest made for attacking singer Nadimeal Perera at concert in Panadura North. Police investigating incident, suspects to appear in court today.
 
-පානදුර උතුර ගොරකාන ප්‍රදේශයේ උත්සව ශාලාවක ඊයේ (07) පැවැති සංගීත ප්‍රසංගයකට සහභාගී වූ නදිමාල් පෙරේරාට එම උත්සව ශාලාවේම වෙනත් උත්සව ශාලාවක පැවැති උත්සවයකට සහභාගී වූ පුද්ගලයෙකු මෙලෙස පහර දී තිබේ.
+🟩
 
-පහරදීමේන් තුවාල ලැබූ නදිමාල් පෙරේරා පානදුර මූලික රෝහලට ඇතුළත් කර ඇති බවත් පානදුර උතුර පොලීසිය පැවසීය.
+The Panadura North Police have arrested a person who was allegedly attacked the son of Amal Perera, the son of Amal Perera.
 
-මෙම ගැටුම සමථයකට පත් කිරීමට ගිය පොලිස් නිලධාරියෙකුට අයථා බලපෑම් කිරීම සම්බන්ධයෙන් තවත් පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Nadeimal Perera, who attended a festival in the House of Panadura, has been assaulted at a ceremony held at a nearby hall.
 
-මෙම උත්සව ශාලාවේ පැවැති සංගීත ප්‍රසංගය සඳහා නදිමාල් පෙරේරා නියෝජනය කළ සංගීත කණ්ඩායමට සංගීතය සැපයීම සඳහා ආරාධනා ලැබ තිබූණි.
+Nadeimal Perera has been admitted to the Panadura Base Hospital, which was injured.
 
-සංගීත ප්‍රසංගය අතරතුරදී ඔහු පහළ මහලට බැස ඇති අතර එහිදී මෙම පහරදීම සිදුව ඇති බව පොලීසිය පැවසීය.
+Police have arrested another person in connection with misappropriation of a police officer who went to a settlement.
 
-කෙසේ වෙතත් පහරදීමට හේතුව කුමක්ද යන්න මෙතෙක් තහවුරු වී නොමැති බවද පොලීසිය පවසයි.
+The band of Nadimeal Perera was invited to provide music for the music performany held at the ceremony.
+
+During the concert he was down the lower floor, where the attack had taken place, police said.
+
+However, the police said that the cause of the attack has not been confirmed.
+
+The police said that the school has not obtained any of the resort or the concert at the Panadura North police to conduct this concert.
+
+However, a group of police officers including the OIC of the Panadura North Central Police (Sanjeewa Police) have been suspended for the incident.
 
 ...
 
 [Data](articles/e1f92af5.json)
+
+[Extended Data](ext_articles/e1f92af5.ext.json)
 
 ---
 
@@ -2333,81 +2433,5 @@ Accordingly, the President's representative has to be appointed to the SHP.
 [Data](articles/ee7114c4.json)
 
 [Extended Data](ext_articles/ee7114c4.ext.json)
-
----
-
-### The disabling of professional rights and suppressing the trade unions is not the new government's policy
-
-*2024-12-06 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200608) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New government commits to protecting workers' rights and addressing union concerns. Health Minister Dr. Nalinda Jayatissa emphasizes collaboration with trade unions for improved healthcare services.
-
-🟩
-
-It is not the policy of the new government to disable the professional rights or crush the trade unions. Health and Mass Media Minister Dr. Nalinda Jayatissa said that his government is committed to protecting the dignity of all industries and fulfilling the legitimate demands of the trade unions as much as possible.
-
-This was stated in a media statement issued by the Ministry of Health on Friday (06) on a special discussion with the unions in the health service after taking over his duties.
-
-During the discussion, employees working in the health sector were also discussed with the opinion, suggestions and contributions of the trade unions for the improvement of the health service.
-
-Representatives of many major trade unions in the health sector, including the State Doctors Association, Nurses' Associations and the Union of Medicine, have participated in a special discussion.
-
-...
-
-[Data](articles/12e0add0.json)
-
-[Extended Data](ext_articles/12e0add0.ext.json)
-
----
-
-### It is absolutely wrong to refer to nationalism as racism - Dilith Jayaweera
-
-*2024-12-06 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200598) · `ta`
-
-Nationalism ≠ Racism: Dilith Jayaweera argues against equating patriotism with prejudice. He emphasizes national identity and progress through proper governance. Criticizes political promises and lies. Advocates for anti-racism efforts while opposing racist nationalism portrayal.
-
-🟩
-
-It is absolutely wrong to refer to nationalism as racism. If the country is not well -identified and operated in accordance with it, the country can never be progressed.The National List of Sarva Power, Dilith Jayaweera, said that the government should fulfill the promises made to the people of the country or that the Gotabhaya Rajapaksa will be the case.
-
-He was speaking at a debate on the interim report on Friday in Parliament.
-
-We are involved in activated politics to highlight the nationality. Thank you all who has cooperated and will take up the nationality. Many of the best projects have been mentioned in the Declaration of President Anura Kumara Dissanayake.
-
-The national people's power criticized 75 years of politics as a curse.It must be explicitly mentioned that many promises have been made and many lies have been mentioned.The promises made by former President Gotabhaya Rajapakse will be a fate.
-
-...
-
-[Data](articles/2abc4c1b.json)
-
-[Extended Data](ext_articles/2abc4c1b.ext.json)
-
----
-
-### Rashesis
-
-*2024-12-06 17:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-சீனியின்-வற்-நீக்கம்/175-348357) · `ta`
-
-Sri Lanka: Cabinet to remove VAT on red sugar, keep it on locally-produced brown sugar. Imported white sugar exempt. Red sugar price: 300 LKR/kg. White sugar market price: unknown. Red sugar classified as essential item, white sugar as essential import.
-
-🟩
-
-Sunil Handunnetti, Minister of Industry and Entrepreneurship, said in Parliament today that the Cabinet paper will be submitted next week for the removal of the Vat Tax on the Red Srine.
-
-The Minister said that the VAT is not taxed for the white cinnated imported from outside Sri Lanka and that the brown sugar produced in Sri Lanka is 18% vot and 2.5% tax.
-
-The Minister said that when the factory was released, a kilo of red sugar was 300 rupees and a kilogram of white sugar in the market.
-
-Sunil Handunnetti said that the red sugar was classified as an essential substance and that the white sugar brought from outside Sri Lanka is an essential commodity.
-
-◼️
-
-[Data](articles/26a7f249.json)
-
-[Extended Data](ext_articles/26a7f249.ext.json)
 
 ---

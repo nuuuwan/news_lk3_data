@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 11:43:04**
+As of **2024-12-07 12:02:24**
 
 ## Newspaper Stats
 
-*Scraped **58,937** Articles*
+*Scraped **58,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,585
-adaderanalk | 7,157
+adaderanalk | 7,158
 tamilmirrorlk | 8,403
 virakesarilk | 9,658
 adaderanasinhalalk | 10,180
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,934 (100.0%) of 58,937 articles have been extended.
+58,937 (100.0%) of 58,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Two killed in motorcycle accident in Dodangoda
+
+*2024-12-07 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104058/two-killed-in-motorcycle-accident-in-dodangoda) · `en`
+
+Two people were reportedly killed in an accident when their motorcycle crashed into a tree in the Nehinna area on the Dodangoda, Getagahahena-Nehinna road last night (6).
+
+The motorcycle, traveling from Getagahahena towards Nehinna, had veered off the road after the rider lost control and crashed into a tree, according to Dodangoda Police.
+
+The motorcyclist and the pillion rider succumbed to their injuries upon admission at the Nagoda and Wilpatha Hospitals.
+
+The deceased, aged 37 and 42, were residents of Nehinna and Neboda areas. Their bodies have been placed in the mortuaries of those hospitals.
+
+◼️
+
+[Data](articles/3cacc19d.json)
+
+---
 
 ### Two killed in motorcycle accident
 
@@ -97,6 +115,8 @@ Worker remittances are one of the top foreign exchange revenue earners for the i
 ...
 
 [Data](articles/c3653c5b.json)
+
+[Extended Data](ext_articles/c3653c5b.ext.json)
 
 ---
 
@@ -200,21 +220,31 @@ When the case was taken up for hearing today (06), the Magistrate ordered the ac
 
 ---
 
-### ශ්‍රී ලංකා - දකුණු අප්‍රිකා දෙවන ටෙස්ට් තරගයේ තෙවන දිනය අදයි
+### Today is the third day of the second Test match of Sri Lanka - South Africa
 
 *2024-12-07 09:29:49* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-දෙවන-ටෙස්ට්-තරගයේ-තෙවන-දිනය-අදයි/9-413502) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකා කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ තෙවන දිනය සඳහා වන තරගය අද (07දා) පැවැත්වේ.
+Here's a summary in 200 characters:
 
-ඊයේ (06දා) තරගය නතර කරන විට පන්දුවට පහර‍දෙමින් සිටි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 67ක් අවසානයේ කඩුලු 03ක් දැවී ලකුණු 242ක් රැස් කරගෙන සිටියේය.
 
-මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකා කණ්ඩායම සිය පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 358ක් රැස් කළේය.
 
-ඒ අනුව මේ වන විට ශ්‍රී ලංකාව දකුණු අප්‍රිකා පළමු ඉනිමට වඩා තවත් ලකුණු 116ක් පිටුපසින් පසුවන්නේය.
+Sri Lanka vs South Africa 2nd Test: Day 3. SL batsmen scored 242/3, surpassing SA's 358 in 1st innings by 116 runs.
+
+🟩
+
+The third day of the second Test match between the Tourism Sri Lanka and South Africa will be held today (07).
+
+Sri Lanka, who was batting to bat while stopping the match yesterday (67 overs), scored 242 runs for the loss of 03 wickets.
+
+South Africa scored 358 runs in their first innings.
+
+Accordingly, Sri Lanka is more than 116 runs than the first innings of South Africa.
 
 ◼️
 
 [Data](articles/8eb2f256.json)
+
+[Extended Data](ext_articles/8eb2f256.ext.json)
 
 ---
 
@@ -343,6 +373,8 @@ An analysis of the data showed that there were bad loans dating back over 5 year
 ...
 
 [Data](articles/595cdc7c.json)
+
+[Extended Data](ext_articles/595cdc7c.ext.json)
 
 ---
 
@@ -2447,35 +2479,5 @@ In addition, Bimal Ratnayake presented the Liquor List in Parliament by the last
 [Data](articles/2aa08abe.json)
 
 [Extended Data](ext_articles/2aa08abe.ext.json)
-
----
-
-### Cabraal returns to Greek bond case
-
-*2024-12-06 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204103) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ajith Nivard Cabraal's Greek bond case heard in Colombo High Court. Lawyers argued against legal procedures, requesting court maintain status quo and release defendants. Bribery Commission lawyer set January 23 for initial objections submission.
-
-🟩
-
-The case including former Central Bank Governor Ajith Nivard Cabraal, who was filed against the Government of Sri Lanka, was reported before the Colombo High Court today by investing over Rs.
-
-When the case was taken up, the lawyers who appeared before the courts in the courts were completely contrary to the law.
-
-Accordingly, the lawyers asked the court to maintain it and to release the defendants.
-
-Attorney at the Bribery Commission, the lawyer appeared for the Bribery Commission to give a date to give these initial objections.
-
-The court ordered that the protests were submitted on January 23.
-
-◼️
-
-[Data](articles/44385e94.json)
-
-[Extended Data](ext_articles/44385e94.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 19:14:01**
+As of **2024-12-07 19:03:05**
 
 ## Newspaper Stats
 
-*Scraped **58,971** Articles*
+*Scraped **58,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 446
 colombotelegraphcom | 600
 bbccomsinhala | 617
 islandlk | 3,540
-economynextcom | 3,589
+economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
@@ -26,33 +26,11 @@ adaderanasinhalalk | 10,193
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,966 (100.0%) of 58,971 articles have been extended.
+58,966 (100.0%) of 58,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
-
-### Sri Lanka doctor cautions against skincare products containing steroids
-
-*2024-12-07 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctor-cautions-against-skincare-products-containing-steroids-188945/) · `en`
-
-ECONOMYNEXT – A Sri Lankan dermatologist has cautioned against using chemically heavy cosmetic products which could potentially create health issues.
-
-“Methasone and Clobetasol added creams should not be applied on to the skin without a consultation with a doctor,” consultant dermatologist Dr Nayani Madurasinghe told reporters recently.
-
-These were prescribed for short term use for certain skin conditions she said.
-
-She pointed out that excessive usage of topical applications containing steroids of varying levels of strength could lower the skin’s immunity leading to various infections.
-
-“High potency steroids shouldn’t be applied to the face or sensitive areas like armpits. But people are applying them as they want. This can damage the skin and attract fungal and bacterial diseases.”
-
-Various products suspected to contain steroids were being sold across social media apps recommending them for reducing dark colour, or pigmentation, in three days, the doctor said.
-
-...
-
-[Data](articles/f9ac7857.json)
-
----
 
 ### දකුණු කොරියානු ජනපති පුටුව රැකගනී
 
@@ -189,24 +167,6 @@ According to the first innings of Sri Lanka, South Africa began in the second in
 [Data](articles/82631d12.json)
 
 [Extended Data](ext_articles/82631d12.ext.json)
-
----
-
-### Sri Lanka President meets US diplomat Donald Lu
-
-*2024-12-07 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-us-diplomat-donald-lu-192780/) · `en`
-
-ECONOMYNEXT – Visiting US Assistant Secretary Donald Lu has met Sri Lanka’s President Anura Dissanayake.
-
-“We discussed the US’s support for Sri Lanka’s anti-corruption efforts, recovery of stolen funds, and strengthening our economy and sovereignty,” Dissanayake said on social media platform X after the two met on Saturday at the Presidential Secretariat.
-
-“I emphasized fostering a transparent political culture, uplifting rural living standards, and modernizing public services.”
-
-Lu met with other government officials and the opposition leader on Friday. (Colombo/Dec7/2024)
-
-◼️
-
-[Data](articles/92735b3e.json)
 
 ---
 
@@ -2445,5 +2405,67 @@ He was ordered to be released on bail yesterday (05).
 [Data](articles/35a1362c.json)
 
 [Extended Data](ext_articles/35a1362c.ext.json)
+
+---
+
+### There is no need for rice hiding
+
+*2024-12-06 19:03:02* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-සඟවන්න-කිසිම-උවමනාවක්-නෑ/11-413498) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's Minister rejects rice hoarding claims. No need to hide rice; banks won't lend without interest. Rice production should continue, not halted due to financial constraints.
+
+🟩
+
+It is not a need for herself to keep the rice and that no banks will not be given credit without interest.
+
+He was speaking at a press conference held in Polonnaruwa to answer a statement made by commercial minister Wasantha Samarasinghe.
+
+"I'm telling my institution to my company and check. Sending you a representative of you I prove the rice I have produced by the rice I can produce. He was said that I had no interest in the bank.
+
+We get our money from the bank to pay the money from the bank and don't pay a stock of paddy. The money has been taken and the rice produced and sent rice to the rice. We must be released.
+
+Or interest in the money. The Parliament has made this publication, so that all looks at all that looks at everyone. There is no point in keeping the rice hide in any organization. When the harvest should be gathered together we need to collect rice throughout the year, rice can be given. I have had two months.. What do I do to the next two months?
+
+◼️
+
+[Data](articles/d2558e6e.json)
+
+[Extended Data](ext_articles/d2558e6e.ext.json)
+
+---
+
+### India curled up to 180 runs to take 6 wickets;Australia 86 - 1 wig.
+
+*2024-12-06 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200617) · `ta`
+
+India: 180/6, Australia: 86/1. Michelle Stack bowled well, taking 4 wickets for 48 runs. Nitish Kumar Reddy top-scored for India with 42. Nathan Maxwell and Manus Labuschagne scored 38 and 20 for Australia.
+
+🟩
+
+India collapsed in the wonderful bowling of Michelle Stack today at the Adelaide Oval Stadium between India and Australia.
+
+India decided to bat first in the Test match with a pink ball and lost all the wickets in the first innings and scored only 180 runs.
+
+Nitish Kumar Reddy (42), KL. Rahul (37), Shubman Gill (31), Ravichandran Ashwin (22) and Rishabh Bond (21) received over 20 runs.
+
+Senior players Virat Kohli (7) and Rohit Sharma (3) lost the game with single digits.
+
+Michelle Stock took 4 wickets for 48 runs, Pet Commins 2 wickets for 41 runs while Scott Poland took 2 wickets for 54 runs.
+
+In response, Australia lost 86 runs in its first innings at the end of the first day of the first day of the match.
+
+Nathan Maxweni did not lose 38 runs and Manus Lapushane 20 runs.
+
+In the bowling, Jasprit Bumrah took 13 runs and took a wicket.
+
+◼️
+
+[Data](articles/885150f5.json)
+
+[Extended Data](ext_articles/885150f5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 16:01:24**
+As of **2024-12-07 16:15:32**
 
 ## Newspaper Stats
 
-*Scraped **58,951** Articles*
+*Scraped **58,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,588
-adaderanalk | 7,160
+adaderanalk | 7,161
 tamilmirrorlk | 8,405
 virakesarilk | 9,659
-adaderanasinhalalk | 10,183
+adaderanasinhalalk | 10,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,951 (100.0%) of 58,951 articles have been extended.
+58,951 (100.0%) of 58,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2024-12-07 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204134) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් තද වැසි, තද සුළං සහ මුහුද රළුවීම පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත්කර තිබේ.
+
+අද (07) පස්වරු 2ට නිකුත් කරන ලද එම නිවේදනය හෙට (08) පස්වරු 2ක දක්වා වලංගු වෙයි.
+
+ගිනිකොනදිග බෙංගාල බොක්ක ගැඹුරු මුහුදු ප්‍රදේශයේ යාත්‍රා කරන බහුදින ධීවර යාත්‍රා සහ නාවික ප්‍රජාව මේ පිළිබඳව සැළකිලිමත් වන ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිනිකොනදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ අද (07) පෙරවරු 08.30ට පමණ අඩු පීඩන කලාපයක් නිර්මාණය වී ඇත.
+
+එය ඉදිරි පැය 24දී බටහිර-වයඹ දෙසට ගමන් කරමින් තව දුරටත් වර්ධනය වීමට ඉඩ තිබේ.
+
+එය දෙසැම්බර් 11 වනදා පමණ වනවිට ශ්‍රී ලංකාව සහ තමිල්නාඩු වෙරළට ඔබ්බෙන් නිරිතදිග බෙංගාල බොක්ක වෙත ළඟාවීමට බොහෝ දුරට ඉඩ ඇති බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ හේතුවෙන් එම මුහුදු ප්‍රදේශවල තාවකාලිකව ඉතා තද සුළං (පැ.කි.මී. 60) සමග තද වැසි පැවතිය හැකි අතර එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවද දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/47c9692d.json)
+
+---
+
+### පරිභෝජනයට නුසුදුසු මීයන් හානිකරන ලද පාන්පිටි ගබඩාවක් වටලයි
+
+*2024-12-07 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204133) · `si`
+
+බදුල්ල මයිලගස්තැන්න ගබඩාවක තිබී පරිභෝජනයට නුසුදුසු පාන්පිටි මිටි 58ක් බදුල්ල මහ නගර සභාවේ සෞඛ්‍ය නිලධාරීන් විසින් අද (07) සොයාගෙන තිබේ.
+
+රජයට අයත් මෙම ගබඩාව බණ්ඩාරවෙල ප්‍රදේශයේ ව්‍යාපාරිකයෙකු විසින් කුලී පදනම මත ලබාගෙන පවත්වාගෙන යනු ලබන ගබඩාවක් බවද අනාවරණය වී තිබේ.
+
+සෞඛ්‍ය අංශ විසින් මෙම පාන්පිටි තොගය සොයාගනු ලබන අවස්ථාව වන විටත් එම පාන් පිටි මීයන් විසින් හානි කර ඇති අයුරු සහ මීයන්ගේ මුත්‍රා සහ වසුරු ඒවායේ තිබූ බවත් වැටලීම සිදුකළ සෞඛ්‍ය බලධාරීන් පැවසූහ.
+
+වැටලීම් සිදුකළ මෙම ගබඩාව සම්බන්ධව බදුල්ල මහෙස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා නර නීතිමය කටයුතු සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/2f0ebd27.json)
+
+---
+
+### ‘New Rathna’ Rice Mill owner responds to Trade Minister’s claims
+
+*2024-12-07 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104062/new-rathna-rice-mill-owner-responds-to-trade-ministers-claims) · `en`
+
+The owner of ‘New Rathna’ Rice Mill, Lankeshwara Mithrapala, has invited Trade Minister Wasantha Samarasinghe to personally inspect the company’s rice production facilities in the wake of the minister’s statement in Parliament yesterday (6) accusing large-scale rice millers of stockpiling.
+
+Responding to the allegations, Mithrapala stated, “I urge the Trade Minister to inspect my company at any time. I can prove the quantity of rice I released, my production capacity, and the stocks I have.”
+
+He explained that his operations involve maintaining rice stocks to ensure consistent market supply until the next harvest season.
+
+“We don’t release all our rice stocks to the market at once. I have 1,000 employees working at the mill, and I manage these stocks to produce rice daily and supply it to the market until the next harvest begins. I must protect the rice stocks I have and continue production until February 1,” Mithrapala explained.
+
+◼️
+
+[Data](articles/9800503a.json)
+
+---
+
+### සංගීත ප්‍රසංගයකදී ගායන ශිල්පී නදිමාල්ට පහරදුන් අයෙකු අත්අත්අඩංගුවට
+
+*2024-12-07 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204132) · `si`
+
+ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරාගේ පුත් වන ගායන ශිල්පී නදිමාල් පෙරේරාට පහර දුන් බව කියන පුද්ගලයෙකු පානදුර උතුර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පානදුර උතුර ගොරකාන ප්‍රදේශයේ උත්සව ශාලාවක ඊයේ (07) පැවැති සංගීත ප්‍රසංගයකට සහභාගී වූ නදිමාල් පෙරේරාට එම උත්සව ශාලාවේම වෙනත් උත්සව ශාලාවක පැවැති උත්සවයකට සහභාගී වූ පුද්ගලයෙකු මෙලෙස පහර දී තිබේ.
+
+පහරදීමේන් තුවාල ලැබූ නදිමාල් පෙරේරා පානදුර මූලික රෝහලට ඇතුළත් කර ඇති බවත් පානදුර උතුර පොලීසිය පැවසීය.
+
+මෙම ගැටුම සමථයකට පත් කිරීමට ගිය පොලිස් නිලධාරියෙකුට අයථා බලපෑම් කිරීම සම්බන්ධයෙන් තවත් පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම උත්සව ශාලාවේ පැවැති සංගීත ප්‍රසංගය සඳහා නදිමාල් පෙරේරා නියෝජනය කළ සංගීත කණ්ඩායමට සංගීතය සැපයීම සඳහා ආරාධනා ලැබ තිබූණි.
+
+සංගීත ප්‍රසංගය අතරතුරදී ඔහු පහළ මහලට බැස ඇති අතර එහිදී මෙම පහරදීම සිදුව ඇති බව පොලීසිය පැවසීය.
+
+කෙසේ වෙතත් පහරදීමට හේතුව කුමක්ද යන්න මෙතෙක් තහවුරු වී නොමැති බවද පොලීසිය පවසයි.
+
+...
+
+[Data](articles/e1f92af5.json)
+
+---
 
 ### Lohan was placed in interrogation
 
@@ -91,6 +175,48 @@ The CEB’s latest proposal suggests no reductions for the next six months, citi
 [Data](articles/dfb2e48f.json)
 
 [Extended Data](ext_articles/dfb2e48f.ext.json)
+
+---
+
+### ලොහාන් රත්වත්තේ රිමාන්ඩ්
+
+*2024-12-07 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204130) · `si`
+
+බීමතින් රිය පදවා අනතුරක් සිදුකිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගනු ලැබූ හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා අද (07) අලුත්කඩේ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+එහිදී අධිකරණය නියෝග කර තිබුණේ ඔහුව එළඹෙන 09 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට ය.
+
+ලොහාන් රත්වත්තේ මහතා සිය ඥාති නිවසකට ගොස් නැවත යමින් සිටියදී ඔහු පැදවූ ජීප් රථය කොල්ලුපිටිය මංසන්ධිය අසලදී තවත් මෝටර් රථයක ගැටී ඊයේ (6) අනතුරක් සිදුවිය.
+
+අනතුර සම්බන්ධයෙන් කොල්ලුපිටිය පොලීසියට ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇත්තේ ලොහාන් රත්වත්තේ මහතා බීමතින් රිය පදවා ඇති බවය.
+
+ඒ අනුව බීමතින් රිය ධාවනය කර අනතුරක් සිදු කිරීමේ චෝදනා මත පොලීසිය ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+
+මේ අතර පසුගිය ඔක්තෝබර් 30 වනදා ලොහාන් රත්වත්තේ මහතාව කටුගස්තොටදී, මිරිහාන පොලීසිය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කර තිබුණි.
+
+...
+
+[Data](articles/13483082.json)
+
+---
+
+### වෙළෙඳ ඇමතිට නිව් රත්න සහල් අධිපතිගෙන් පිළිතුරු
+
+*2024-12-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204129) · `si`
+
+තමන්ගේ සහල් නිෂ්පාදනය සියැසින් දැක ගැනීමට පැමිණෙන්නැයි නිව් රත්න සහල් අධිපති ලංකේෂ්වර මිත්‍රපාල මහතා වෙළෙඳ ඇමතිවරයාට පවසයි.
+
+මහා පරිමාණ සහල් නිෂ්පාදකයින් වී තොග සඟවාගෙන සිටින බවට ඊයේ (06) වෙළෙඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පාර්ලිමේන්තුවේදී සිදුකළ ප්‍රකාශයය ප්‍රතිචාර දක්වමින් ලංකේෂ්වර මිත්‍රපාල මහතා මේ බව පැවසීය.
+
+"මම වෙළෙඳ ඇමතිතුමාට කියන්නේ.. ඕන වෙලාවක මගේ ආයතනය පරීක්ෂා කරන්න. මම පටවන හාල් ගණන මම ඔප්පු කරලා පෙන්වනවා. මගේ නිෂ්පාදනය මම ඔප්පු කරලා පෙන්වනවා. මං ගාව තිබෙන වී ප්‍රමාණයත් ඔබතුමාට බලාගන්න පුළුවන්."
+
+"අපිගාව වී තිබුණා කියලා අද සියල්ල කොටලා වෙළෙඳපොළට දාන්නේ නැහැ. මං ගාව සේවකයෝ 1000ක් වැඩ කරනවා හාල් මෝලේ."
+
+"එතකොට ඊළඟ කන්නයේ අස්වැන්න ලැබෙනකම් මම මේ වී ටික පරිස්සම් කරගෙන දිනපතා සහල් නිෂ්පාදනය කර කර වෙළෙඳපොළට යවනවා. පෙබරවාරි 01 වෙනකම් මගේ තියෙන වී ටික පරිස්සම් කරගෙන වෙළෙඳපොළට හාල් යවන්න ඕනේ."
+
+◼️
+
+[Data](articles/e108c98f.json)
 
 ---
 
@@ -2283,173 +2409,5 @@ Sunil Handunnetti said that the red sugar was classified as an essential substan
 [Data](articles/26a7f249.json)
 
 [Extended Data](ext_articles/26a7f249.ext.json)
-
----
-
-### Cabinet bond to remove the vet line of red Chinese
-
-*2024-12-06 17:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-சீனியின்-வெட்-வரியை-நீக்க-அமைச்சரவை-பத்திரம்/175-348357) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankan Cabinet proposes removing VAT on red sugar, classifying it as essential. White sugar imports remain exempt. Brown sugar faces higher taxes. Price difference: red sugar (Rs. 300/kg) vs white sugar (market price).
-
-🟩
-
-Sunil Handunnetti, Minister of Industry and Entrepreneurship, said in Parliament today that the Cabinet paper will be submitted next week for the removal of the Vat Tax on the Red Srine.
-
-The Minister said that the VAT is not taxed for the white cinnated imported from outside Sri Lanka and that the brown sugar produced in Sri Lanka is 18% vot and 2.5% tax.
-
-The Minister said that when the factory was released, a kilo of red sugar was 300 rupees and a kilogram of white sugar in the market.
-
-Sunil Handunnetti said that the red sugar is classified as an essential substance and that the white sugar brought from outside Sri Lanka is an essential commodity.
-
-◼️
-
-[Data](articles/71d1e1f2.json)
-
-[Extended Data](ext_articles/71d1e1f2.ext.json)
-
----
-
-### Discussion of the Strategic Location for Economic Security
-
-*2024-12-06 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200596) · `ta`
-
-Sri Lanka's strategic location discussed for economic security. Experts emphasize maritime infrastructure modernization, technology adoption, and regional connectivity. Balancing global relations and diversifying economy through fishing, tourism, and energy exploration. Investment in innovation and policy reforms urged.
-
-🟩
-
-A discussion with the National Security Research Institute on Thursday (05) was held at the Ministry of Defense on Thursday (05).
-
-Defense Ministry Secretary Air Vice Marshal Sampath Purekonda (Retired) was the chief guest at the event.. Several experts participated in the meeting to discuss Sri Lanka's ability to use its unique geographical setting for economic growth and efficiency.
-
-The session of the Senior Visitors of the International Economic Development Group, Dr. Ganesan Vignaraja, shared knowledge of Sri Lanka's strategic and economic progress.
-
-He made it clear that Rear Admiral YN Jayaratne (Retired) portraits the need to modernize maritime infrastructure and use new technologies to improve maritime infrastructure, and strengthen Sri Lanka in global trade.
-
-...
-
-[Data](articles/a03383e1.json)
-
-[Extended Data](ext_articles/a03383e1.ext.json)
-
----
-
-### Government decision to give the opposition to the post of chairman of the COP
-
-*2024-12-06 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200565) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Opposition granted chairmanship of State Accounting Committee. Chief Minister Pimal Ratnayake announced decision due to controversy over Parliamentary Affairs Committee membership. Opposition leader Korada Gayantha Karunathilaka noted issue with appointing remaining members. Council aims for fair representation across parliamentary groups.
-
-🟩
-
-"We have decided to grant the post of leadership of the State Accounting Committee to the Opposition," said Pimal Ratnayake, Chief Minister and Minister of the House.
-
-He was responding to the controversy over the joint number of members of the Parliamentary Affairs Committee on Friday in Parliament.
-
-Council Chief Minister Bimal Ratnayake said that the parties representing the opposition party were asked to increase the number of members of the Committee on Parliamentary Affairs.
-
-However, there are 12 parties representing the opposition and the opposition has been allowed to represent the Parliamentary Affairs Committee.. It officially features the Leader of the Opposition and the Opposition Prime Minister. Opposition Prime Minister Korada Gayantha Karunathilaka pointed out that there was a problem with appointing the remaining four.
-
-...
-
-[Data](articles/d01d24f0.json)
-
-[Extended Data](ext_articles/d01d24f0.ext.json)
-
----
-
-### India - Bangladesh in the Asian Bowl Cricket Final under the age of 19
-
-*2024-12-06 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200609) · `ta`
-
-India and Bangladesh qualify for Asian Cup U-19 cricket final. Sri Lanka and Pakistan face each other in semi-finals. India beats Sri Lanka, Bangladesh wins against Pakistan. The final match will be held on Sunday at Dubai Stadium.
-
-🟩
-
-India and Bangladesh have qualified to play in the Asian Cup final for men under the age of 19 in the United Arab Emirates.
-
-Sri Lanka was eligible to play in the final with 7 wickets in the Sharjah Cricket Stadium today and Pakistan by 7 wickets in the other semi -finals at Dubai International Stadium.
-
-Sri Lanka decided to bat first in the semi -final against India and scored 173 runs for the loss of all wickets in 46.2 overs.
-
-When the Sri Lankan youth team got 8 runs, 3 wickets were subsequently bowled out.
-
-Shanmuganathan Sharujan and Lakwin Abeysinghe shared 93 runs in the fourth wicket.. But, it is not enough. Central and no one in the backward shining.
-
-In reply, India won by 3 wickets in 21.4 overs and scored 175 runs.
-
-13 -year -old Vaibhav Suryavanshi, who was bought for 1.1 crore Indian rupees at the IPL auction by Rajasthan Royals, scored 67 runs off 36 balls with 6 pounds and 5 sixes.
-
-Bangladesh won by 7 wickets easily in the semi -finals between Bangladesh and Pakistan.
-
-...
-
-[Data](articles/d7c3c17a.json)
-
-[Extended Data](ext_articles/d7c3c17a.ext.json)
-
----
-
-### 'Pushpa 2 - The Rule'- Movie Review
-
-*2024-12-06 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200606) · `ta`
-
-Here's a summary of the movie review in 200 characters:
-
-
-
-"Pushpa 2 - The Rule" review: Allu Arjun shines in action-packed sequel. Director Sukumar delivers thrilling plot twists and impressive fight choreography. Rashmika Mandanna's character underutilized. Cinematography and background score stand out. Overall, a satisfying continuation of the franchise.
-
-🟩
-
-Actors: Allu Arjun, Rashmika Mantana, Bhagat Basil, Rao Ramesh, Jegapati Babu, Sri Leela and many others.
-
-Ban Indian film 'Pushpa 2 -The Rule' has been released in Indian languages ​​including Tamil on over 12,000 screens worldwide.
-
-Allu Arjun - Director Sukumar's alliance escaped the Eagle's View of Persons who usually disgusted and negative criticism on the social network on the social networking page?Or not?Did the film meet the expectations of all fans?Or not?We will continue to see.
-
-In the first part of the film 'Pushpa', she will be the hero of the sheep hijacking man Allu Arjun and Bhagat Basil, who was appointed as a police officer to prevent it.
-
-...
-
-[Data](articles/0814727f.json)
-
-[Extended Data](ext_articles/0814727f.ext.json)
-
----
-
-### The speech of three words in the wedding speech about the mandate of the compress
-
-*2024-12-06 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204107) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-MP Dilith Jayaweera speaks about the government's path forward. He criticizes political culture and corruption, saying the opposition lacks strong alternatives. He urges support for the current government, stating there's no alternative for the people.
-
-🟩
-
-The leader of the universal power, entrepreneur, MP Dilith Jayarawara says that the government will work on the right path to trave the right path towards the next five years.
-
-He said that he was speaking in parliament today (06), that the opposition went to the people as the opposition across the past general election.
-
-Dilith Jayaweera said that the alternatives, loss of alternatives, the loss of alternatives and false were depicting the people.
-
-"Political culture and the corruption surrounding that culture were frustrated to the famous patriotic Sri Lankans in Sri Lanka because of thousands of corruption around the culture.. The voting vote was given. So don't think a moment don't think about your policy statement, not even to understand your politics.
-
-...
-
-[Data](articles/595bcf99.json)
-
-[Extended Data](ext_articles/595bcf99.ext.json)
 
 ---

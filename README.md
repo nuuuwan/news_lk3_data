@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 12:02:24**
+As of **2024-12-07 12:42:17**
 
 ## Newspaper Stats
 
-*Scraped **58,938** Articles*
+*Scraped **58,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,585
 adaderanalk | 7,158
-tamilmirrorlk | 8,403
+tamilmirrorlk | 8,404
 virakesarilk | 9,658
 adaderanasinhalalk | 10,180
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,937 (100.0%) of 58,938 articles have been extended.
+58,939 (100.0%) of 58,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Two killed in motorcycle accident
+
+*2024-12-07 12:02:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்-விபத்தில்-இருவர்-பலி/175-348393) · `ta`
+
+Motorcycle crash kills two in Ketakahahena. Driver lost control, hitting tree. Victims ages 37 & 42. Bodies at hospital mortuary.
+
+🟩
+
+Two persons were killed when a motorcycle crashed into a tree last night in the Nehinna area of ​​Nehinna Road, Ketakahahena, Ketakahahena.
+
+The accident occurred when a motorcycle driver who was traveling from Kettakhahena to Nehinna lost control of the driver.
+
+The deceased were residents of Nehinna and Nada, aged 37 and 42, and their bodies were kept in the funeral room of the hospital, police said.
+
+◼️
+
+[Data](articles/79c2cb4f.json)
+
+[Extended Data](ext_articles/79c2cb4f.ext.json)
+
+---
 
 ### Two killed in motorcycle accident in Dodangoda
 
@@ -47,6 +69,8 @@ The deceased, aged 37 and 42, were residents of Nehinna and Neboda areas. Their 
 ◼️
 
 [Data](articles/3cacc19d.json)
+
+[Extended Data](ext_articles/3cacc19d.ext.json)
 
 ---
 
@@ -2451,33 +2475,5 @@ The man was washing the soil of the gems, which was dug up on the tea mountainsi
 [Data](articles/f6c32bac.json)
 
 [Extended Data](ext_articles/f6c32bac.ext.json)
-
----
-
-### Liquor Licensing issue;Ranil's report is coming
-
-*2024-12-06 16:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதிப்பத்திர-விவகாரம்-வருகின்றது-ரணிலின்-அறிக்கை/175-348356) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil Wickremesinghe's Democratic Front to release report on liquor licensing under previous government. Responds to Parliament comments about 361 permits issued during last election. Bimal Ratnayake presented liquor list in Parliament.
-
-🟩
-
-The new Democratic Front, led by former President Ranil Wickremesinghe, is due to release a detailed report on the allegation that the liquor permit has been issued during the previous government.
-
-The new Democratic Front said the report would be detailed in detail regarding the issuance of appropriate permits.
-
-The new Democratic Front was responding to a comment in Parliament on the issue of 361 liquor permits during the last election.
-
-In addition, Bimal Ratnayake presented the Liquor List in Parliament by the last government.. Remble
-
-◼️
-
-[Data](articles/2aa08abe.json)
-
-[Extended Data](ext_articles/2aa08abe.ext.json)
 
 ---

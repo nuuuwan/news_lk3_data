@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 13:01:07**
+As of **2024-12-07 13:12:33**
 
 ## Newspaper Stats
 
-*Scraped **58,939** Articles*
+*Scraped **58,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ dailymirrorlk | 4,733
 adalk | 5,585
 adaderanalk | 7,158
 tamilmirrorlk | 8,404
-virakesarilk | 9,658
-adaderanasinhalalk | 10,180
+virakesarilk | 9,659
+adaderanasinhalalk | 10,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,939 (100.0%) of 58,939 articles have been extended.
+58,939 (100.0%) of 58,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### රිදියගම හැඩකරන ඩෝරා සහ ලාරාගේ සිංහ පැටව්
+
+*2024-12-07 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204125) · `si`
+
+හම්බන්තොට රිදියගම සෆාරි උද්‍යානයට අලුතෙන් සිංහ පැටව් 6 දෙනෙකු මේ වනවිට එක්ව තිබේ.
+
+ඒ එම සෆාරී උද්‍යානයේ සිංහ ධේනුවන් දෙදෙනෙකු පැටව් තුන් දෙනා බැගින් බිහි කිරීමත් සමග.
+
+මෙලෙස පැවව් බිහිකර ඇත්තේ ලාරා සිංහ සහ ඇගේ දියණිය ඩෝරා වන අතර, පැටව්න්ගේ වයස මසකට වැඩි බව සෆාරි උදානයේ නිලධාරින් පවසයි.
+
+කෙසේ වෙතත් ලාරා සිංහ ධේනුව ඩෝරාට කිරිදීම ප්‍රතික්ෂේප කර ඇති අතර, ඒ හේතුවෙන් සත්ත්ව උද්‍යානයේ නිලධාරීට ඇයට කෘතිමව කිරි ලබා දී රැකබලා ගැනීමට සිදුවිය.
+
+එහෙත් ඩෝරා ධේනුව, ලාරා මෙන් සිය පැටව්ට කිරි ලබාදීම ප්‍රතික්ෂේප නොකර පැටව් රැකගැනීම විශේෂත්වයක්ය.
+
+මේ වනවිට මෙම සිංහ පැටවුන් 6 දෙනා සෆාරී උද්‍යානය තුළ ඉතා සෞඛ්‍ය සම්පන්නව කල් ගෙවන අතර, ඉදිරි සති කිහිපයේදී මහජන ප්‍රදර්ශනය සඳහා වෙනම කලාපයකට මුදාහරින බව ද සෆාරි උදානයේ නිලධාරියෙකු පැවසීය.
+
+◼️
+
+[Data](articles/6562f8f9.json)
+
+---
+
+### சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட சொகுசு கார் சுங்க அதிகாரிகளால் கண்டுபிடிப்பு!
+
+*2024-12-07 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200643) · `ta`
+
+சட்டவிரோதமாக இலங்கைக்கு இறக்குமதி செய்யப்பட்ட சொகுசு கார் ஒன்று சுங்க வருமான கண்காணிப்புப் பிரிவினரால் கைப்பற்றப்பட்டுள்ளது.
+
+சுமார் 24 மில்லியன் ரூபா பெறுமதியான Toyota Prius ரக சொகுசு கார் ஒன்றே கைப்பற்றப்பட்டுள்ளது.
+
+ஜப்பானில் இருந்து இலங்கைக்கு இறக்குமதி செய்யப்பட்ட கன்டெய்னரில் இருந்து இந்த கார் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+அத்துடன், கடந்த இரண்டு மாதங்களில் சட்டவிரோதமாக இலங்கைக்கு இறக்குமதி செய்யப்பட்ட 200 வாகன உதிரிப்பாகங்கள் சுங்க வருமான கண்காணிப்பு பிரிவினரால் இன்று சனிக்கிழமை (07) ஊடகங்களுக்கு காட்சிப்படுத்தப்பட்டன.
+
+◼️
+
+[Data](articles/81671609.json)
+
+---
 
 ### Two killed in motorcycle accident
 
@@ -2429,51 +2469,5 @@ Police suspect that a major drug dealer abroad is carrying out the drug trade.
 [Data](articles/f8c5aa81.json)
 
 [Extended Data](ext_articles/f8c5aa81.ext.json)
-
----
-
-### A company raided by producing quality water bottles
-
-*2024-12-06 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204104) · `si`
-
-Company raided for producing water bottles with expired health certificates. Authorities seized over 1000 liters of water and 500ml bottles. Consumer Affairs Authority plans legal action against the manufacturer for violating regulations.
-
-🟩
-
-The Consumer Affairs Authority raided an institution to manufactured drinking water bottles, including false information and including false information.
-
-According to a complaint, the Authority's Investigations Officers in Mawanegama area have been raided at Mawanegama.
-
-It has been revealed that the registration certificate obtained from the Ministry of Health with the expiration of the information, it has been used by the use of drinking water bottles.
-
-The officers of 500 millilitar bottles of 500 millilitaries, 584 liters of water, 576 liters and 19 liters of water, were taken into custody.
-
-The Consumer Affairs Authority said that according to the Act, the bill is a fault that it is necessary to sue against the relevant business agency as the bill is a fault.
-
-◼️
-
-[Data](articles/a5d24b4e.json)
-
-[Extended Data](ext_articles/a5d24b4e.ext.json)
-
----
-
-### Arrested in Gem Excavation
-
-*2024-12-06 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200582) · `ta`
-
-Gem excavation arrest: One person detained for digging 60-foot deep site at Tinsin Tea Estate in Bogawantalawa police division.
-
-🟩
-
-Bogawantalawa Police Station Officer Nuwan Madusanga said that one person was arrested on suspicion of excavation of a gem of a depth of about 60 feet at the Tinsin Tea Estate belonging to the Bogawantalawa police division.
-
-The man was washing the soil of the gems, which was dug up on the tea mountainside near the corridor of Bogawantalawa.
-
-◼️
-
-[Data](articles/f6c32bac.json)
-
-[Extended Data](ext_articles/f6c32bac.ext.json)
 
 ---

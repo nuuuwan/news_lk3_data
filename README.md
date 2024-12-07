@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 09:42:41**
+As of **2024-12-07 10:02:06**
 
 ## Newspaper Stats
 
-*Scraped **58,927** Articles*
+*Scraped **58,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,583
 adaderanalk | 7,155
-tamilmirrorlk | 8,402
+tamilmirrorlk | 8,403
 virakesarilk | 9,657
 adaderanasinhalalk | 10,178
 
@@ -26,37 +26,61 @@ adaderanasinhalalk | 10,178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,926 (100.0%) of 58,927 articles have been extended.
+58,927 (100.0%) of 58,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### සිරියාවේ තවත් නගරයක් කැරලිකරුවන් අතට
+### மாசி சம்பலில் கலக்கப்பட்ட அதிகளவான அமிலம்
 
-*2024-12-07 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204120) · `si`
+*2024-12-07 09:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாசி-சம்பலில்-கலக்கப்பட்ட-அதிகளவான-அமிலம்/73-348368) · `ta`
 
-සිරියාවේ පාලනයට එරෙහිව සටන් වදින කැරලිකරුවන් විසින් එරට තවත් නගරයක් අල්ලා ගෙන ඇතැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+மாசி சம்பலில் 230 மில்லிகிராம் பென்சோமிக் அமிலப் பதார்த்தத்தை கலந்து விற்பனை செய்த விற்பனையாளர் மற்றும் உற்பத்தியாளருக்கம் அக்கரைப்பற்று நீதவான் நீதிமன்ற நீதவான் ஏ.சி.றிஸ்வான்  தலா பத்தாயிரம் ரூபாய் தண்டப்பணம் செலுத்துமாறு இன்று வெள்ளிக்கிழமை (06) உத்தரவிட்டு அவர்களுக்கு கடுமையாக எச்சிரிக்கை விடுவித்தார்.
 
-එසේ සිරියානු ජනාධිපති බෂාර් අල්-අසාඩ් ගේ පාලනයෙන් ගිලිහී ඇත්තේ ඩරා නම් නගරයකි.
-
-එරට ජනාධිපතිවරයාට එරෙහිව 2011 වසරේදී අරගලය ආරම්භ වූයේ මෙම නගරයේ බව සඳහන් ය.
-
-ඒ අනුව සතියක් තුළදී එරට හමුදාව ට අහිමිවූ සිව් වැනි නගරය එය වෙයි.
-
-නගරයේ සිටි හමුදා නිලධාරීන්ට පසුබැසීමට හැකිවන ලෙස අවස්ථාව ලබා දීමට කැරලිකරුවන් එකඟ වී තිබුණි.
-
-එම නගරයේ සිට සිරියාවේ අගනගරය වන ඩමස්කස් නගරයට ඇත්තේ කිලෝ මීටර් 100ක පමණ දුරකි.
-
-කැරලිකරුවන් විසින් සිය මෙහෙයුම් පසුගිය නොවැම්බර් 27 වනදා ආරම්භ කළ අතර ඔවුන් මේ දක්වා එරට ප්‍රධාන නගර වන ඇලෙප්පෝ සහ හාමා සිය ග්‍රහණයට ගෙන තිබේ.
-
-එසේම එරට තවත් ප්‍රධාන නගරයක් වන හොම්ස් ද බොහෝදුරට කැරලිකරුවන් යටතට පත්වෙතැයි අනුමාන කෙරේ.
-
-සිරියාව තුළ සිවිල් යුද තත්ත්වය හේතුවෙන් 2011 සිට 2021 දක්වා පුද්ගලයින් 305,000ක් පමණ මියගොස් ඇති බව සඳහන් ය.
+அக்கரைப்பற்று கடற்கரை வீதியிலுள்ள கடை ஒன்றை முற்றுகையிட்ட பொதுச் சுகாதார பரிசோதகர்கள்  அங்கு பிளாஸ்ரிக் கப் ஒன்றில் விற்பனைக்காக அடைத்து வைத்திருந்த மாசி சம்பலை கைப்பற்றி அதனை அரச உணவு பகுப்பாய்வு திணைக்களக்திற்கு அனுப்பியதையடுத்து அதில் அளவுக்கு அதிகமாக மனித பாவனைக்கு கேடுவிளைவிக்க கூடியளவு 230 மில்லிக்கிராம் பென்சோமிக் அமிலப் பதார்தம் கலந்துள்ளதாக பகுப்பாய்வு திணைக்களம் அறிவித்தது.
 
 ...
 
+[Data](articles/835131c7.json)
+
+---
+
+### Another city in Syria to the rebels
+
+*2024-12-07 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204120) · `si`
+
+Rebels capture Syrian city; Assad loses control. Fourth city seized this month. Military retreat allowed. 100 km from Damascus. Key cities: Aleppo, Hama. Civil war death toll: 305,000 since 2011. Russian, Iranian, Hezbollah support wanes. Islamic militant group Hayat Tahrir al-Sham leads invasion.
+
+🟩
+
+International media reports that the rebels fighting in Syria have captured another city.
+
+Synean President Bashar al-Assad's control is a city city.
+
+The city was founded in 2011 against the President of the country.
+
+It is the fourth city who lost his troops in a week within a week.
+
+The rebels agreed to allow military officers in the city to be able to retreat.
+
+From that city, Damascus, the capital of Syria, has 100 kilometers.
+
+The rebels commenced their operations on November 27, and they have taken their main cities, Aleppo and Hama.
+
+The Hom is another major city, another major city, is also in the rebels.
+
+About 305,000 people have been killed from 2011 to 2021 due to civil war situation in Syria.
+
+Although President Azad's support is presented to the President of Russia, Iran and Lebanese, the support received by Russia, Iran and Hisbollah have weakened.
+
+These invasions are performed by a team of Islamic militant group, Hayet Tahrir al-Sham.
+
+◼️
+
 [Data](articles/100e26e2.json)
+
+[Extended Data](ext_articles/100e26e2.ext.json)
 
 ---
 
@@ -2471,31 +2495,5 @@ Lord Janaka Dissanayake, who is colal in the Kathu Kataragama River, said that d
 [Data](articles/71bdd6f8.json)
 
 [Extended Data](ext_articles/71bdd6f8.ext.json)
-
----
-
-### Religion
-
-*2024-12-06 14:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதங்களுக்கு-இடையில்-நல்லிணக்கத்துக்கான-ஆ-ரம்பம்/175-348354) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Religious event: Deputy Minister Sundaralingam Pradeepam attended pooja rituals. Chairman P.Sundharalingam honored him with a golden wrap. Director Anirudha from Hindu Religious and Cultural Affairs department was also present.
-
-🟩
-
-Deputy Minister of Plantation and Social Infrastructure, Sundaralingam Pradeepam and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure Plantation and Social Infrastructure
-
-The Chairman of the Board of Trustees, P.Sundharalingam, had organized a special pooja rituals and honored the ministers with a golden wrap.
-
-Director of the Department of Hindu Religious and Cultural Affairs. Anirudna was also present.
-
-◼️
-
-[Data](articles/2221f21a.json)
-
-[Extended Data](ext_articles/2221f21a.ext.json)
 
 ---

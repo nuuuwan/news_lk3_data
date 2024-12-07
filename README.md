@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 08:33:31**
+As of **2024-12-07 08:55:11**
 
 ## Newspaper Stats
 
-*Scraped **58,919** Articles*
+*Scraped **58,922** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 598
-bbccomsinhala | 616
+bbccomsinhala | 617
 islandlk | 3,540
 economynextcom | 3,585
 dailyftlk | 4,070
@@ -20,13 +20,13 @@ adalk | 5,581
 adaderanalk | 7,153
 tamilmirrorlk | 8,402
 virakesarilk | 9,657
-adaderanasinhalalk | 10,175
+adaderanasinhalalk | 10,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,918 (100.0%) of 58,919 articles have been extended.
+58,919 (100.0%) of 58,922 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,24 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/4601d382.json)
+
+[Extended Data](ext_articles/4601d382.ext.json)
+
+---
+
+### පාසල් නිල ඇඳුම් දෙන්න යන විදිහ
+
+*2024-12-07 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204119) · `si`
+
+පාසල් නිල ඇදුම් ඉදිරියේ දී මසා ලබාදීමට බලාපොරොත්තු වන බව කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා පවසයි.
+
+පාසල් නිල ඇදුම් රෙදි ලබාදීමේ දී ඇතිවන නාස්තිය මෙමගින් අඩුකර ගතහැකි බව ඔහු පැවසීය.
+
+කොළඹ ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් සුනිල් හඳුන්නෙත්ති අමාත්‍යවරයා මේ බව පවසා සිටියේය.
+
+◼️
+
+[Data](articles/4ccf4a91.json)
 
 ---
 
@@ -150,6 +168,30 @@ The father of two children, Guru, from Taranikkulam, has died in the incident. (
 
 ---
 
+### දියණිය ඝාතනය කිරීම ගැන තොරතුරු රැසක්
+
+*2024-12-07 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204118) · `si`
+
+ගම්පහ, මාකෙවිට ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 14ක දැරියක් ඝාතනය කර සිරුර ඉදිකරමින් තිබෙන වැසිකිළි වලකට දැමීමේ සිද්ධියට අදාළව කරුණු රැසක් පොලීසිය විසින් මේ වනවිට අනාවරණය කරගෙන තිබේ.
+
+තම වයස අවුරුදු 14ක් වූ දියණිය අතුරුදහන්ව ඇති බවට ගම්පහ පොලිස් ස්ථානයට මවක් විසින් පැමිණිල්ලක් කරනු ලැබුවේ දෙසැම්බර් මස 5 වනදාය.
+
+ඒ ඔස්සේ විමර්ශන ආරම්භ කළ පොලීසියට ඝාතනයේ සුලමුල අනාවරණය කරගැනීමට හැකිව ඇත.
+
+පැමිණිලිකාර මව තම දෙවන විවාහයේ ස්වාමිපුරුෂයා සහ දියණිය සමග මාකෙවිට ප්‍රදේශයේ ඉදිකරමින් පවතින වෙනත් අයෙකුට අයත් තෙමහල් නිවසක තාවකාලිකව පදිංචිව සිට ඇත.
+
+ඔහු පෙදරේරුවෙකු වශයෙන්ද, පැමිණිලිකාරිය ඒකල ප්‍රදේශයේ පුද්ගලික අංශයේද රැකියාවක් සිදු කරනු ලබයි.
+
+2024.12.02 වන දින තම සැමියා සහ දියණිය නිවසේ සිටියදී කාන්තාව උදෑසන රැකියාවකට ගොස් රාත්‍රීයේ නැවත නිවසට පැමිණ දියණිය නිවසේ නොසිටිම පිළිබඳ තම සැමියාගෙන් විමසීම් සිදු කර ඇත.
+
+එහිදී ඔහු විසින් තම දියණිය යහලුවෙකුගේ පවුලේ සාමාජිකයින් සමග විනෝද චාරිකාවක් ගොස් ඇති බවටත් එදින නොපැමිණෙන බව හා පසුදින පැමිණෙන බවට බිරිඳව දැනුවත් කර ඇත.
+
+...
+
+[Data](articles/1e3fea86.json)
+
+---
+
 ### Restoration for the weather in Sri Lanka
 
 *2024-12-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204117) · `si`
@@ -179,6 +221,32 @@ The Department of Meteorology calls people to take necessary steps to reduce tem
 [Data](articles/b8b2ee23.json)
 
 [Extended Data](ext_articles/b8b2ee23.ext.json)
+
+---
+
+### හසුන් පත්වල සිට ඩේටින් ඇප් දක්වා: ආදර හමු වෙනස් වුණේ කොහොම ද?
+
+*2024-12-07 03:12:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c14l2vn55x7o) · `si`
+
+හසුන් පත්වල සිට ඩේටින් ඇප් දක්වා: ආදර හමු වෙනස් වුණේ කොහොම ද?
+
+'ඔයාලා හිතන විදිහට මට ඩේට් එකකට යන්න කෙනෙක් හොයාගන්න පුළුවන් හොඳ ම විදිහ මොකක් ද?'
+
+මේ රෙඩිට් සමාජ මාධ්‍යයේ, ශ්‍රී ලංකා සබ් රෙඩිට් සමූහයේ තරුණයෙකු විමසා තිබූ පැනයකි. ඔහු එහි විමසා තිබුණේ සමාජ මාධ්‍ය හරහා තරුණියක් හඳුනාගෙන හමු වීම ප්‍රතිඵලදායක ද යන්නයි.
+
+එයට පිළිතුරු වශයෙන් එක් අයෙකු සටහන් කර තිබුණේ ටින්ඩර් වැනි ඩේටින් යෙදවුම් දැනටමත් ශ්‍රී ලංකාව තුළ භාවිත වන බවත්, එමගින් හෝ ෆේස්බුක් හරහා තරුණියක් හඳුනාගැනීමට උත්සහ කරන ලෙසත් ය.
+
+තවත් පිළිතුරක දැක්වුණේ "සමාජ මාධ්‍ය ගැන සම්පූර්ණයෙන් අමතක කරලා, එළියට ගිහින් යාලුවන් එක්ක කතා කරලා ගෑනු ළමයෙක්ව අඳුරගන්න," යනුවෙනි.
+
+ඔබේ ලිංගික සහකරුට නිරුවත් ෆොටෝ, වීඩියෝ යවන්න කලින් මේ ගැන සැලකිලිමත් වෙන්න
+
+ඩේටින්, එසේත් නැතිනම් දෙදෙනෙකු එකට කාලය ගත කිරීමට හමුවීම, ශ්‍රී ලංකාවේ මෙන් ම ලෝකය පුරා ම ආසන්න දශක කිහිපය තුළ බොහෝ වෙනස්කම්වලට භාජනය වී තිබේ.
+
+තාක්ෂණය දියුණු වීම, පරම්පරා අතර පරතරය සහ කාලයත් සමග අවශ්‍යතාවයන් වෙනස් වීමත් සමග මෙම ආදර හමු සංස්කෘතිය ද වෙනස් වී තිබේ.
+
+...
+
+[Data](articles/4667569e.json)
 
 ---
 
@@ -2405,75 +2473,5 @@ Accordingly, the Indian team won 174 runs.
 [Data](articles/0b966a62.json)
 
 [Extended Data](ext_articles/0b966a62.ext.json)
-
----
-
-### US diplomat Donald Lu discusses programs, technical assistance with Sri Lanka
-
-*2024-12-06 13:35:00* · [`economynextcom`](https://economynext.com/us-diplomat-donald-lu-discusses-programs-technical-assistance-with-sri-lanka-118579/) · `en`
-
-ECONOMYNEXT – US diplomat Donald Lu has met Sri Lanka’s Foreign Minister Vijitha Herath to discuss tailored programs, capacity-building, and technical assistance.
-
-The delegation led by Lu, who is the Assistant Secretary of the US Bureau Of South And Central Asian Affairs, discussed shared priorities with Sri Lanka’s new administration, US ambassador Julie Chung said.
-
-“And explored ways we can work together through tailored programs, capacity-building, and technical assistance to support Sri Lanka’s economic and governance reforms to benefit the Sri Lankan people.” (Colombo/Dec6/2024)
-
-◼️
-
-[Data](articles/357b82f3.json)
-
-[Extended Data](ext_articles/357b82f3.ext.json)
-
----
-
-### US Assistant Secretary Donald Lu calls on Sri Lanka’s foreign minister
-
-*2024-12-06 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104042/us-assistant-secretary-donald-lu-calls-on-sri-lankas-foreign-minister) · `en`
-
-A U.S. delegation led by Assistant Secretary of State for the Bureau of South and Central Asian Affairs (SCA), Donald Lu, met with Sri Lanka’s Foreign Minister, Vijitha Herath today (06).
-
-The delegation included representatives of key agencies such as the United States Agency for International Development (USAID) and the U.S. Department of Treasury, which have played integral roles in Sri Lanka’s economic recovery.
-
-“We congratulated Sri Lanka’s new administration and discussed shared priorities, and explored ways we can work together through tailored programs, capacity-building, and technical assistance to support Sri Lanka’s economic and governance reforms to benefit the Sri Lankan people,” U.S. Ambassador to Sri Lanka, Julie Chung said in a post on ‘X’ (formerly Twitter).
-
-The delegation also included the USAID Deputy Assistant Administrator Anjali Kaur and Deputy Assistant Secretary of the US Department of the Treasury, Robert Kaproth.
-
-...
-
-[Data](articles/9c1bd7ff.json)
-
-[Extended Data](ext_articles/9c1bd7ff.ext.json)
-
----
-
-### A powerful earthquake to the state of California
-
-*2024-12-06 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204096) · `si`
-
-Powerful 7.0 magnitude earthquake strikes off California coast. Tsunami warnings issued for 5 million people, prompting evacuations. No casualties reported, but 10,000 without power. Warnings later lifted after two hours. Minor property damage observed.
-
-🟩
-
-The state of California in the United States has a strong devotion of 7.0 units of the Richter's thumb.
-
-The imperative of this earthquake was in the sea of ​​Fergene, California.
-
-Tsunami warnings were issued to about 5 million people.
-
-The people were removed from the coastal towns, and an urgent situation announced in the state.
-
-However, after two hours of the bunch of tsunami, tsunami warnings have been removed.
-
-It is reported that no casualties have been reported from the earthquake, but it is only very small property damage.
-
-However, about 10,000 people have faced a power outage.
-
-This shows the most powerful earthques from California.
-
-◼️
-
-[Data](articles/b9924bc0.json)
-
-[Extended Data](ext_articles/b9924bc0.ext.json)
 
 ---

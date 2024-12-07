@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 06:14:52**
+As of **2024-12-07 05:51:11**
 
 ## Newspaper Stats
 
-*Scraped **58,913** Articles*
+*Scraped **58,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 598
 bbccomsinhala | 616
-islandlk | 3,540
+islandlk | 3,538
 economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,907 (100.0%) of 58,913 articles have been extended.
+58,907 (100.0%) of 58,911 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -415,22 +415,6 @@ The Front is former players Kumara Sangakkara and he scored 12,400 runs.
 [Data](articles/541b9c72.json)
 
 [Extended Data](ext_articles/541b9c72.ext.json)
-
----
-
-### Political Stability Paves the Way for a Favorable Investment Environment in the Country – President
-
-*2024-12-06 22:47:00* · [`islandlk`](http://island.lk/political-stability-paves-the-way-for-a-favorable-investment-environment-in-the-country-president/) · `en`
-
-President Anura Kumara Dissanayake stated that with the political stability that has prevailed in the country today, an environment suitable for investment has been created.
-
-He further emphasized that there will be no political influence in granting new investment opportunities, such as those based on political affiliations. The President assured that the Board of Investment of Sri Lanka would be granted full autonomy to attract clean investments that are beneficial to the country.
-
-The President made these remarks during a discussion held with senior officials of the BOI at the Presidential Secretariat on Thursday (05).
-
-...
-
-[Data](articles/55b8dca9.json)
 
 ---
 
@@ -2473,5 +2457,25 @@ Police have secured the crime scene, and a magisterial inquiry will be conducted
 [Data](articles/5ac67ae3.json)
 
 [Extended Data](ext_articles/5ac67ae3.ext.json)
+
+---
+
+### Sri Lanka must conclude bond exchange in December to sustain momentum: Former Minister
+
+*2024-12-06 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-must-conclude-bond-exchange-in-december-to-sustain-momentum-former-minister-119138/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government must conclude the bond exchange in December to sustain momentum and unlock further growth opportunities, a former state minister of finance has said.
+
+“It is crucial for the government to conclude the bond exchange in December to sustain this momentum and unlock further growth opportunities,” Shehan Semasinghe said on X.
+
+Sri Lanka had made remarkable progress in restoring its economy by “implementing critical decisions, including the successful conclusion of debt restructuring with bilateral and commercial creditors,” Semasinghe, who participated in discussions with the International Monetary Fund, said.
+
+“This achievement paves the way for international rating agencies to consider a rating upgrade, boosting confidence and fostering economic stability.”
+
+...
+
+[Data](articles/0f4a5c60.json)
+
+[Extended Data](ext_articles/0f4a5c60.ext.json)
 
 ---

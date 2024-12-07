@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 20:42:07**
+As of **2024-12-07 21:01:05**
 
 ## Newspaper Stats
 
-*Scraped **58,973** Articles*
+*Scraped **58,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 600
 bbccomsinhala | 617
-islandlk | 3,540
+islandlk | 3,542
 economynextcom | 3,589
 dailyftlk | 4,070
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,193
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,972 (100.0%) of 58,973 articles have been extended.
+58,973 (100.0%) of 58,975 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The body of the deceased has been placed in the Kataragama District Hospital.
 ◼️
 
 [Data](articles/a72b9ace.json)
+
+[Extended Data](ext_articles/a72b9ace.ext.json)
 
 ---
 
@@ -1616,6 +1618,18 @@ The Company’s cutting-edge print quality and exceptional craftsmanship were re
 
 ---
 
+### Siyapatha Finance expands nationwide reach
+
+*2024-12-07 01:27:00* · [`islandlk`](http://island.lk/siyapatha-finance-expands-nationwide-reach/) · `en`
+
+Siyapatha Finance PLC, a leading finance company in Sri Lanka and a fully owned subsidiary of Sampath Bank PLC, recently opened its 52nd branch at 310/2, Pallegama Road, Main Street, Deniyaya. With this latest branch, Siyapatha Finance continued its commitment to delivering best-in-class financial solutions to communities across the island. The official opening ceremony was graced by Siyapatha Finance PLC’s Managing Director, Ananda Seneviratne, Chief Operating Officer, Rajeev De Silva, and other senior officials, alongside key representatives from local government , private sector institutions, financial institutions and insurance companies in the area.
+
+...
+
+[Data](articles/332df8f4.json)
+
+---
+
 ### Notable performances by manufacturing and plantation sector share counters
 
 *2024-12-07 01:24:00* · [`islandlk`](http://island.lk/notable-performances-by-manufacturing-and-plantation-sector-share-counters/) · `en`
@@ -1643,6 +1657,22 @@ As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life�
 [Data](articles/c87e02a1.json)
 
 [Extended Data](ext_articles/c87e02a1.ext.json)
+
+---
+
+### HNB partners with St. Joseph’s College Col. 10 Old Boys’ Union for exclusive affinity card
+
+*2024-12-07 01:20:00* · [`islandlk`](http://island.lk/hnb-partners-with-st-josephs-college-col-10-old-boys-union-for-exclusive-affinity-card/) · `en`
+
+Reaffirming their commitment to supporting the nation’s prestigious educational institutions, Sri Lanka’s leading private sector bank HNB PLC recently announced their partnership with the Old Boys’ Union of St. Joseph’s College (SJC) Colombo -10 and its Ja-ela, Wattala branch to launch an exclusive affinity credit card for its members.
+
+Custom-made for members of Old Boys’ Union of SJC, the customized Affinity card offers a wide range of exclusive benefits and promotional deals across the Bank’s broad portfolio of merchant partners.
+
+Rector of St. Joseph’s College Rev. Fr. Ranjith Andradi, Priyanga Perera -Senior VP OBU SJC, Prithieraj de Silva – Immediate Past Senior VP, OBU SJC, HNB Managing Director / CEO Damith Pallewatte, HNB Chief Operating Officer- Sanjay Wijemanne , were present at the signing of the MoU at HNB head office
+
+...
+
+[Data](articles/3ce5f68b.json)
 
 ---
 
@@ -2423,51 +2453,5 @@ It is noteworthy that Jeevan Thondaman was elected as the leader of the United N
 [Data](articles/f41cbc7d.json)
 
 [Extended Data](ext_articles/f41cbc7d.ext.json)
-
----
-
-### Prohibition of the use of boys
-
-*2024-12-06 19:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களை-பயன்படுத்துவதற்கு-தடை/175-348359) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Government bans children under 12 from advertising starting Jan 1, 2025, says Deputy Health Minister Hansaka Wijemuni.
-
-🟩
-
-Deputy Minister of Health and Mass Media Hansaka Wijemuni said that the government has decided to ban children under the age of 12 for advertising purposes.
-
-Accordingly, the ban will come into effect from January 1, 2025.. Remble
-
-◼️
-
-[Data](articles/3ff980d7.json)
-
-[Extended Data](ext_articles/3ff980d7.ext.json)
-
----
-
-### Liquor Licensing issue;Interim prohibition on gazette notification
-
-*2024-12-06 19:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதிப்பத்திர-விவகாரம்-வர்த்தமானி-அறிவித்தலுக்கு-இடைக்கால-தடை/175-348358) · `ta`
-
-High Court issues interim injunction against liquor license fee increase. Liquor Owners Association challenges gazette notification in court.
-
-🟩
-
-During the period of the last government, the High Court has issued an interim injunction to prevent the implementation of the Gazette Notification issued by increasing the annual fee for the liquor school permit.
-
-The Liquor Owners Association has filed a fundamental rights petition in the High Court, challenging the gazette notification.
-
-The interim injunction was issued when the petition was taken up in the presence of Judges AHMT Nawaz, Kumudini Wickremesinghe and Priyantha Fernando today.. Remble
-
-◼️
-
-[Data](articles/ad2e7cde.json)
-
-[Extended Data](ext_articles/ad2e7cde.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 13:12:33**
+As of **2024-12-07 13:26:23**
 
 ## Newspaper Stats
 
-*Scraped **58,941** Articles*
+*Scraped **58,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,540
 economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,585
+adalk | 5,586
 adaderanalk | 7,158
 tamilmirrorlk | 8,404
 virakesarilk | 9,659
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,181
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,939 (100.0%) of 58,941 articles have been extended.
+58,939 (100.0%) of 58,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -111,6 +111,24 @@ The deceased, aged 37 and 42, were residents of Nehinna and Neboda areas. Their 
 [Data](articles/3cacc19d.json)
 
 [Extended Data](ext_articles/3cacc19d.ext.json)
+
+---
+
+### ලබන 10 වැනිදා සිට කාලගුණයේ සිදුවන වෙනස මෙන්න
+
+*2024-12-07 11:22:45* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-10-වැනිදා-සිට-කාලගුණයේ-සිදුවන-වෙනස-මෙන්න/11-413503) · `si`
+
+නැගෙනහිර තරංගාකාර කැළඹිලි ස්වභාවය ඉදිරි දිනවලදී දිවයිනේ කාලගුණ තත්ත්වය කෙරෙහි බලපෑම් ඇති කිරීමේ හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඒ හේතුවෙන් ලබන 10වැන්දා සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බවද එහි සඳහන් කර ඇත.
+
+එමෙන්ම මෙම තත්ත්වයත් සමග දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වනු ඇති බවට බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මේ අතර අද (07දා) බස්නාහිර, සබරගමුව සහ දකුණු පළාත් වලත් නුවරඑළිය සහ  මහනුවර දිස්ත්‍රික්ක වලත් සවස් කාලයේදී  හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේදනය කර සිටියේය.
+
+◼️
+
+[Data](articles/f8cd9374.json)
 
 ---
 
@@ -2445,29 +2463,5 @@ Large volumes were traded in HNB Finance (down at 4.20), Agarapatana Plantations
 [Data](articles/29b4ecda.json)
 
 [Extended Data](ext_articles/29b4ecda.ext.json)
-
----
-
-### Heroin drug sales via WhatsApp - former army soldier arrested
-
-*2024-12-06 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200579) · `ta`
-
-Former soldier arrested for heroin sales in Bandarawela. Police seized 320 small packets worth Rs 30 lakh. Suspect linked to international drug dealer.
-
-🟩
-
-The Criminal Investigation Department of the Bandarawela Police said that a former soldier soldier who was involved in heroin sales in Bandarawela was arrested with 320 heroin narcotics with small sides worth about Rs 30 lakh.
-
-A 40 -year -old former army soldier from Ambakastova, Welimada, who is temporarily staying at Perera Mawatha in Bandarawela, has been arrested, police said.
-
-Officials of the Bandarawela Police Station Criminal Investigation Department (CID) raided the rented house in Bandarawela and the suspect was selling heroin in small packets and then arrested, police said.
-
-Police suspect that a major drug dealer abroad is carrying out the drug trade.
-
-◼️
-
-[Data](articles/f8c5aa81.json)
-
-[Extended Data](ext_articles/f8c5aa81.ext.json)
 
 ---

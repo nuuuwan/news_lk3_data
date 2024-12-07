@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 15:00:58**
+As of **2024-12-07 15:42:36**
 
 ## Newspaper Stats
 
-*Scraped **58,949** Articles*
+*Scraped **58,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,540
 economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,587
+adalk | 5,588
 adaderanalk | 7,160
-tamilmirrorlk | 8,404
+tamilmirrorlk | 8,405
 virakesarilk | 9,659
 adaderanasinhalalk | 10,183
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,947 (100.0%) of 58,949 articles have been extended.
+58,950 (100.0%) of 58,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Lohan was placed in interrogation
+
+*2024-12-07 15:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கமறியலில்-வைக்கப்பட்டார்-லொஹான்/175-348394) · `ta`
+
+Former Secretary of State Lohan Ratwatta remanded until 9th for drunk driving charge.
+
+🟩
+
+The Pudukkadai Chief Magistrate's Court today (07) ordered that former Secretary of State Lohan Ratwatta to be remanded until the 9th of this month.
+
+Lohan Ratwatta was arrested on charges of drinking drunken driving. Remble
+
+◼️
+
+[Data](articles/36309100.json)
+
+[Extended Data](ext_articles/36309100.ext.json)
+
+---
 
 ### Former state minister Lohan Ratwatte remanded
 
@@ -47,6 +67,8 @@ Accordingly, the police arrested Ratwatte on charges of causing an accident whil
 ...
 
 [Data](articles/8c8264ed.json)
+
+[Extended Data](ext_articles/8c8264ed.ext.json)
 
 ---
 
@@ -67,6 +89,8 @@ The CEB’s latest proposal suggests no reductions for the next six months, citi
 ...
 
 [Data](articles/dfb2e48f.json)
+
+[Extended Data](ext_articles/dfb2e48f.ext.json)
 
 ---
 
@@ -121,6 +145,18 @@ The proposal that the Ceylon Electricity Board (PEFA) has again presented to the
 [Data](articles/02576d83.json)
 
 [Extended Data](ext_articles/02576d83.ext.json)
+
+---
+
+### ඩුමිනි ඉල්ලා අස්වෙයි
+
+*2024-12-07 13:13:39* · [`adalk`](https://www.ada.lk/sports/ඩුමිනි-ඉල්ලා-අස්වෙයි/9-413505) · `si`
+
+දකුණු අප්‍රිකා සීමිත පන්දුවාර කණ්ඩායමේ පිතිකරණ පුහුණුකරු ලෙස කටයුතු කළ ජේ.පී.ඩුමිනි එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/2ccf6c87.json)
 
 ---
 
@@ -2405,61 +2441,5 @@ Dilith Jayaweera said that the alternatives, loss of alternatives, the loss of a
 [Data](articles/595bcf99.json)
 
 [Extended Data](ext_articles/595bcf99.ext.json)
-
----
-
-### Family Movie - Movie Review
-
-*2024-12-06 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200604) · `ta`
-
-Here's a summary of the movie review in approximately 200 characters:
-
-
-
-"Family Movie" explores the life of a struggling filmmaker in the Tamil industry. Directed by a debutant, it follows the hero's journey from making a short film to pursuing his dreams. With impressive performances from Uday Karthik and Subiksha Gayarokanam, the film meets expectations despite average songs. Strong background music and cinematography support the director's vision.
-
-🟩
-
-Actors: Uday Karthik, Subiksha Gayarokanam, Vivek Prasanna, Parthiban Kumar, Srija Ravi, Mohana Sundaram, Santosh and many others.
-
-There is a sentiment that the films that play the role of film industry in the Tamil film industry are not a huge success.. In this case, the movie Family film speaks of the life of the hero working in the film industry. Does this film meet the expectations of the fans?Or not?We will continue to see.
-
-Two older brothers (Vivek Prasanna- Parthiban Kumar) mother (Srija Ravi) father (Arvind Janakiraman) lives in Chennai with Amma - Grandpa (Mohanasundaram).
-
-He has directed a short film and has been praised. Subsequently, he has written the story to be directed and asked for a chance to meet every producers to become a director.
-
-A young woman from Madurai to Madurai, who is facing a series of humiliations, said, 'I saw your short film. Well, 'he praised the social network.
-
-This is what he wants to meet Yamuna in Madurai - Madurai.
-
-...
-
-[Data](articles/632aed12.json)
-
-[Extended Data](ext_articles/632aed12.ext.json)
-
----
-
-### Children under 12 prohibit the advertising of advertising
-
-*2024-12-06 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204106) · `si`
-
-Sri Lanka bans child advertising under 12. Health Minister promises enforcement starting Jan 1.
-
-🟩
-
-Health and Mass Media Deputy Minister Dr. Hawkin Wijesanka Wijesank Wijesanki says that steps will be taken to promote the use of children under 12 years from January 1 to 12 years.
-
-Speaking in Parliament today (01), the Deputy Minister said that all arrangements have been made to enforce the gazette notification.
-
-"We stop using children under 12 in 12 years of advertising.. We have used all the work to enforce the gazette.
-
-Because the last governments have been on the same day. We made a decision last week and we don't turn it back on January 1 and it is being implemented. "
-
-◼️
-
-[Data](articles/08b8b5bc.json)
-
-[Extended Data](ext_articles/08b8b5bc.ext.json)
 
 ---

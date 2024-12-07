@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 05:51:11**
+As of **2024-12-07 06:48:53**
 
 ## Newspaper Stats
 
-*Scraped **58,911** Articles*
+*Scraped **58,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 598
 bbccomsinhala | 616
-islandlk | 3,538
+islandlk | 3,540
 economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
@@ -20,17 +20,43 @@ adalk | 5,581
 adaderanalk | 7,152
 tamilmirrorlk | 8,398
 virakesarilk | 9,657
-adaderanasinhalalk | 10,174
+adaderanasinhalalk | 10,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,907 (100.0%) of 58,911 articles have been extended.
+58,910 (100.0%) of 58,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### ලංකාවේ කාලගුණයට යළිත් බලපෑම්
+
+*2024-12-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204117) · `si`
+
+නැගෙනහිර තරංගාකාර කැලඹිලි ස්වභාවයක් හේතුවෙන් ඉදිරි දිනවලදී දිවයිනේ කාලගුණ තත්ත්වයට බලපෑමක් ඇතිකිරීමේ හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මෙම බලපෑම හේතුවෙන් දෙසැම්බර් 10වනදා දින සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩි වීමක් අපේක්ෂා කෙරේ.
+
+මේ සමග දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වන ඇති බව ද එම දෙපාර්තමේන්තුව බලාපොරොත්තු වේ.
+
+ඒ අනුව උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+එමෙන්ම බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවනු ඇත.
+
+කෙසේ නමුත් සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍ය දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/b8b2ee23.json)
+
+---
 
 ### Recovery of a person who is fishing in the river
 
@@ -90,6 +116,8 @@ The Guest of Honour at the Graduation was Prof. Daniel McCluskey, Dean of the Sc
 
 [Data](articles/210c5f03.json)
 
+[Extended Data](ext_articles/210c5f03.ext.json)
+
 ---
 
 ### Aitken Spence Printing celebrates consecutive wins
@@ -104,6 +132,8 @@ The Company’s cutting-edge print quality and exceptional craftsmanship were re
 
 [Data](articles/2785d2a2.json)
 
+[Extended Data](ext_articles/2785d2a2.ext.json)
+
 ---
 
 ### Notable performances by manufacturing and plantation sector share counters
@@ -117,6 +147,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/5749e0df.json)
+
+[Extended Data](ext_articles/5749e0df.ext.json)
 
 ---
 
@@ -415,6 +447,22 @@ The Front is former players Kumara Sangakkara and he scored 12,400 runs.
 [Data](articles/541b9c72.json)
 
 [Extended Data](ext_articles/541b9c72.ext.json)
+
+---
+
+### Political Stability Paves the Way for a Favorable Investment Environment in the Country – President
+
+*2024-12-06 22:47:00* · [`islandlk`](http://island.lk/political-stability-paves-the-way-for-a-favorable-investment-environment-in-the-country-president/) · `en`
+
+President Anura Kumara Dissanayake stated that with the political stability that has prevailed in the country today, an environment suitable for investment has been created.
+
+He further emphasized that there will be no political influence in granting new investment opportunities, such as those based on political affiliations. The President assured that the Board of Investment of Sri Lanka would be granted full autonomy to attract clean investments that are beneficial to the country.
+
+The President made these remarks during a discussion held with senior officials of the BOI at the Presidential Secretariat on Thursday (05).
+
+...
+
+[Data](articles/55b8dca9.json)
 
 ---
 
@@ -2435,47 +2483,5 @@ Investigations carried out by the driver of the arrested car revealed that he ha
 [Data](articles/bbeac26d.json)
 
 [Extended Data](ext_articles/bbeac26d.ext.json)
-
----
-
-### 14-year-old girl found murdered and dumped in toilet pit
-
-*2024-12-06 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104041/14-year-old-girl-found-murdered-and-dumped-in-toilet-pit) · `en`
-
-The remains of a 14-year-old girl who had been murdered and her body dumped in a toilet pit under construction in the Akarawita area of Gampaha has been discovered.
-
-The investigation commenced following a complaint filed by the girl’s mother with the Gampaha Police on the night of December 5, reporting that her daughter had been missing since December 2, according to Police.
-
-The mother has expressed suspicion that her second husband may be responsible for the murder. Based on information uncovered in the investigation, the second husband was arrested on suspicion.
-
-Following the interrogation of the suspect, it was revealed that he had murdered the girl and disposed of her body in the toilet pit behind the house, which was under construction, by covering it with a concrete slab.
-
-Police have secured the crime scene, and a magisterial inquiry will be conducted by the Gampaha Magistrate.
-
-◼️
-
-[Data](articles/5ac67ae3.json)
-
-[Extended Data](ext_articles/5ac67ae3.ext.json)
-
----
-
-### Sri Lanka must conclude bond exchange in December to sustain momentum: Former Minister
-
-*2024-12-06 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-must-conclude-bond-exchange-in-december-to-sustain-momentum-former-minister-119138/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government must conclude the bond exchange in December to sustain momentum and unlock further growth opportunities, a former state minister of finance has said.
-
-“It is crucial for the government to conclude the bond exchange in December to sustain this momentum and unlock further growth opportunities,” Shehan Semasinghe said on X.
-
-Sri Lanka had made remarkable progress in restoring its economy by “implementing critical decisions, including the successful conclusion of debt restructuring with bilateral and commercial creditors,” Semasinghe, who participated in discussions with the International Monetary Fund, said.
-
-“This achievement paves the way for international rating agencies to consider a rating upgrade, boosting confidence and fostering economic stability.”
-
-...
-
-[Data](articles/0f4a5c60.json)
-
-[Extended Data](ext_articles/0f4a5c60.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 18:37:46**
+As of **2024-12-07 18:50:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,965 (100.0%) of 58,966 articles have been extended.
+58,966 (100.0%) of 58,966 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -486,23 +486,33 @@ Accordingly, investigations into the incident have revealed that it was an illeg
 
 ---
 
-### වෙළෙඳ ඇමතිට නිව් රත්න සහල් අධිපතිගෙන් පිළිතුරු
+### Answers from New Ratna Rice Governor
 
 *2024-12-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204129) · `si`
 
-තමන්ගේ සහල් නිෂ්පාදනය සියැසින් දැක ගැනීමට පැමිණෙන්නැයි නිව් රත්න සහල් අධිපති ලංකේෂ්වර මිත්‍රපාල මහතා වෙළෙඳ ඇමතිවරයාට පවසයි.
+Here's a summary of 200 characters:
 
-මහා පරිමාණ සහල් නිෂ්පාදකයින් වී තොග සඟවාගෙන සිටින බවට ඊයේ (06) වෙළෙඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පාර්ලිමේන්තුවේදී සිදුකළ ප්‍රකාශයය ප්‍රතිචාර දක්වමින් ලංකේෂ්වර මිත්‍රපාල මහතා මේ බව පැවසීය.
 
-"මම වෙළෙඳ ඇමතිතුමාට කියන්නේ.. ඕන වෙලාවක මගේ ආයතනය පරීක්ෂා කරන්න. මම පටවන හාල් ගණන මම ඔප්පු කරලා පෙන්වනවා. මගේ නිෂ්පාදනය මම ඔප්පු කරලා පෙන්වනවා. මං ගාව තිබෙන වී ප්‍රමාණයත් ඔබතුමාට බලාගන්න පුළුවන්."
 
-"අපිගාව වී තිබුණා කියලා අද සියල්ල කොටලා වෙළෙඳපොළට දාන්නේ නැහැ. මං ගාව සේවකයෝ 1000ක් වැඩ කරනවා හාල් මෝලේ."
+Relle Governor Mithrapala challenges Trade Minister Wasantha Samarasinghe to inspect his rice production facility. He claims to produce 1000 employees daily and promises to supply rice to the market by February 1st.
 
-"එතකොට ඊළඟ කන්නයේ අස්වැන්න ලැබෙනකම් මම මේ වී ටික පරිස්සම් කරගෙන දිනපතා සහල් නිෂ්පාදනය කර කර වෙළෙඳපොළට යවනවා. පෙබරවාරි 01 වෙනකම් මගේ තියෙන වී ටික පරිස්සම් කරගෙන වෙළෙඳපොළට හාල් යවන්න ඕනේ."
+🟩
+
+New Relle Governor Mithrapala tells the trade minister to visit his production.
+
+Minister of Trade Minister Wasantha Samarasinghe was not hiding paddy stocks of paddy in response to the statement made by Minister Wasantha Samarasinghe yesterday responded.
+
+"I'm telling the Minister of Trade.. Check my company at any time. I prove the number of rice I load. I prove my product. You can take care of the amount of paddy. "
+
+"It is not difficult today and puts everything in the market today. I work 1000 employees working in rice mill. "
+
+"Then I carefully produce rice daily and produce rice daily, until the next season is born.. Until 1st February 1, you have to take care of my and send rice into the market. "
 
 ◼️
 
 [Data](articles/e108c98f.json)
+
+[Extended Data](ext_articles/e108c98f.ext.json)
 
 ---
 

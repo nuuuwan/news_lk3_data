@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 10:02:06**
+As of **2024-12-07 10:15:40**
 
 ## Newspaper Stats
 
-*Scraped **58,928** Articles*
+*Scraped **58,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,540
 economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,583
+adalk | 5,584
 adaderanalk | 7,155
 tamilmirrorlk | 8,403
 virakesarilk | 9,657
@@ -26,23 +26,37 @@ adaderanasinhalalk | 10,178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,927 (100.0%) of 58,928 articles have been extended.
+58,928 (100.0%) of 58,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### மாசி சம்பலில் கலக்கப்பட்ட அதிகளவான அமிலம்
+### Excess acid mixed
 
 *2024-12-07 09:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாசி-சம்பலில்-கலக்கப்பட்ட-அதிகளவான-அமிலம்/73-348368) · `ta`
 
-மாசி சம்பலில் 230 மில்லிகிராம் பென்சோமிக் அமிலப் பதார்த்தத்தை கலந்து விற்பனை செய்த விற்பனையாளர் மற்றும் உற்பத்தியாளருக்கம் அக்கரைப்பற்று நீதவான் நீதிமன்ற நீதவான் ஏ.சி.றிஸ்வான்  தலா பத்தாயிரம் ரூபாய் தண்டப்பணம் செலுத்துமாறு இன்று வெள்ளிக்கிழமை (06) உத்தரவிட்டு அவர்களுக்கு கடுமையாக எச்சிரிக்கை விடுவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-அக்கரைப்பற்று கடற்கரை வீதியிலுள்ள கடை ஒன்றை முற்றுகையிட்ட பொதுச் சுகாதார பரிசோதகர்கள்  அங்கு பிளாஸ்ரிக் கப் ஒன்றில் விற்பனைக்காக அடைத்து வைத்திருந்த மாசி சம்பலை கைப்பற்றி அதனை அரச உணவு பகுப்பாய்வு திணைக்களக்திற்கு அனுப்பியதையடுத்து அதில் அளவுக்கு அதிகமாக மனித பாவனைக்கு கேடுவிளைவிக்க கூடியளவு 230 மில்லிக்கிராம் பென்சோமிக் அமிலப் பதார்தம் கலந்துள்ளதாக பகுப்பாய்வு திணைக்களம் அறிவித்தது.
 
-...
+
+Seller fined for selling excess benzomic acid. Public health inspectors seized plastic cup containing 230mg of benzomic acid. Case filed under Food Ordinance Act. Magistrate orders payment of 10,000 rupees per week if case is recovered.
+
+🟩
+
+The seller and manufacturer who sold 230 milligrams of benzomic acid in Masi Sampal, Akkaraipattu Magistrate's Court Magistrate AC Riswan, ordered them to pay a penalty of ten thousand rupees every Friday (06).
+
+Public health inspectors who blocked a shop on the Akkaraipattu coastal road were seized at a plastic cup and sent it to the State Food Analysis Department after the Analysis Department reported that 230 milligrams of benchmic acid can be used.
+
+Subsequently, Public Health Inspectors filed a case at the Akkaraipattu Magistrate's Court under Article 13 (1) of the Food Ordinance Act No. 26 of 1980, against the owner of the shop and the owner of Kalmunai who produced it.
+
+When the case was taken up for hearing today (06), the Magistrate ordered the accused to pay a penalty of 10 thousand rupees each if the case was recovered in the future.Released.R
+
+◼️
 
 [Data](articles/835131c7.json)
+
+[Extended Data](ext_articles/835131c7.ext.json)
 
 ---
 
@@ -81,6 +95,20 @@ These invasions are performed by a team of Islamic militant group, Hayet Tahrir 
 [Data](articles/100e26e2.json)
 
 [Extended Data](ext_articles/100e26e2.ext.json)
+
+---
+
+### තම දියණිය ඝාතනය කර වැසිකිළිවලට දැමූ නරුම පියා අත්අඩංගුවට
+
+*2024-12-07 09:09:15* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-ඝාතනය-කර-වැසිකිළිවලට-දැමූ-නරුම-පියා-අත්අඩංගුවට/11-413501) · `si`
+
+තම දියණිය ඝාතනය කර වැසිකිළිවලට දැමූ පියෙකු අත්අඩංගුවට ගත් බව පොලිසිය පවසයි. ගම්පහ මාකෙවිට ප්‍ර දේශයේදී මෙම සිදුවිම සිදුව තිබේ. උකස් කරන ලද මාලයක් බේරා ගැනිම වෙනුවෙන් මව දියණියට ලබාදුන් මුදල් මත්ලෝලි පියා විසින් දියණියගෙන් ඉල්ලා තිබේ.
+
+කෙසේ වෙතත් දියණිය එම මුදල් ලබානොදිම හේතුවෙන් පියා විසින් දියණියට පහරදි අදාළ මුදල් ලබාගෙන තාවකාලිකව පදංචිව සිටින නිවසින් පිටව ගොස් තිබේ. යළිත් නිවස වෙත පැමිණීමේදී පහර දුන් ස්ථානයේදිම දියණිය වැටි මියගොස් තිබීම හේතුවෙන් දියණියව ඉටිකොළයක ඔතා නිවසේ වැසිකිළිවලට දමා තිබේ.
+
+◼️
+
+[Data](articles/f82328ca.json)
 
 ---
 
@@ -2463,37 +2491,5 @@ Investigations have revealed that the deceased foreign national had been damaged
 [Data](articles/59b1ebe0.json)
 
 [Extended Data](ext_articles/59b1ebe0.ext.json)
-
----
-
-### Coconut in the Kataragama Devalaya down 90%
-
-*2024-12-06 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204099) · `si`
-
-Kataragama Devalaya coconut cover drops 90%. High prices deter devotees from bringing coconuts. Coconut oil shortage affects temple lamps. Devotees consider alternatives like oranges.
-
-🟩
-
-The coconut cover in front of Kataragama Devalaya has reduced a 90 percent.
-
-Many devotees who serve to worship Kataragama sacred area do not forget to take a coconut with the sacred image.
-
-The coconut occupies at the Patistry also in the coconut. It is generally normalized to find someone who did not find a coconut in Kataragama.
-
-The coconut tree is before God, one of the best interests of the treasures. Others, the life of others, the coconut tree.
-
-However, our correspondent said that today's high coconut prices in the country refrain from coconut.
-
-A coconut boast of the Kataragama area is sold at Rs. 160.
-
-The coconut oil has also increased due to coconut shortages and the lamps of religious places have also been reduced.
-
-Lord Janaka Dissanayake, who is colal in the Kathu Kataragama River, said that devotees would be orange instead of coconut.
-
-◼️
-
-[Data](articles/71bdd6f8.json)
-
-[Extended Data](ext_articles/71bdd6f8.ext.json)
 
 ---

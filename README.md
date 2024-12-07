@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 15:00:58**
+As of **2024-12-07 15:26:21**
 
 ## Newspaper Stats
 
-*Scraped **58,949** Articles*
+*Scraped **58,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,587
 adaderanalk | 7,160
-tamilmirrorlk | 8,404
+tamilmirrorlk | 8,405
 virakesarilk | 9,659
 adaderanasinhalalk | 10,183
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,947 (100.0%) of 58,949 articles have been extended.
+58,949 (100.0%) of 58,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### விளக்கமறியலில் வைக்கப்பட்டார் லொஹான்
+
+*2024-12-07 15:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கமறியலில்-வைக்கப்பட்டார்-லொஹான்/175-348394) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தவை எதிர்வரும் 9ம் திகதி வரை விளக்கமறியலில் வைக்க புதுக்கடை பிரதான நீதவான் நீதிமன்றம் இன்று (07) உத்தரவிட்டுள்ளது.
+
+குடிபோதையில் வாகனம் செலுத்தி விபத்து ஏற்படுத்திய குற்றச்சாட்டில் லொஹான் ரத்வத்த கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/36309100.json)
+
+---
 
 ### Former state minister Lohan Ratwatte remanded
 
@@ -47,6 +61,8 @@ Accordingly, the police arrested Ratwatte on charges of causing an accident whil
 ...
 
 [Data](articles/8c8264ed.json)
+
+[Extended Data](ext_articles/8c8264ed.ext.json)
 
 ---
 
@@ -67,6 +83,8 @@ The CEB’s latest proposal suggests no reductions for the next six months, citi
 ...
 
 [Data](articles/dfb2e48f.json)
+
+[Extended Data](ext_articles/dfb2e48f.ext.json)
 
 ---
 
@@ -2437,29 +2455,5 @@ This is what he wants to meet Yamuna in Madurai - Madurai.
 [Data](articles/632aed12.json)
 
 [Extended Data](ext_articles/632aed12.ext.json)
-
----
-
-### Children under 12 prohibit the advertising of advertising
-
-*2024-12-06 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204106) · `si`
-
-Sri Lanka bans child advertising under 12. Health Minister promises enforcement starting Jan 1.
-
-🟩
-
-Health and Mass Media Deputy Minister Dr. Hawkin Wijesanka Wijesank Wijesanki says that steps will be taken to promote the use of children under 12 years from January 1 to 12 years.
-
-Speaking in Parliament today (01), the Deputy Minister said that all arrangements have been made to enforce the gazette notification.
-
-"We stop using children under 12 in 12 years of advertising.. We have used all the work to enforce the gazette.
-
-Because the last governments have been on the same day. We made a decision last week and we don't turn it back on January 1 and it is being implemented. "
-
-◼️
-
-[Data](articles/08b8b5bc.json)
-
-[Extended Data](ext_articles/08b8b5bc.ext.json)
 
 ---

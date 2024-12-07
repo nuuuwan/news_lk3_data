@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 17:26:18**
+As of **2024-12-07 17:43:24**
 
 ## Newspaper Stats
 
-*Scraped **58,963** Articles*
+*Scraped **58,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,588
-adaderanalk | 7,161
-tamilmirrorlk | 8,408
+adaderanalk | 7,162
+tamilmirrorlk | 8,409
 virakesarilk | 9,659
 adaderanasinhalalk | 10,191
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,957 (100.0%) of 58,963 articles have been extended.
+58,957 (100.0%) of 58,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### முட்டை - கோழி இறைச்சியின் விலையில் மாற்றம்?
+
+*2024-12-07 17:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-348398) · `ta`
+
+எதிர்வரும் பண்டிகைக் காலத்தில் முட்டை மற்றும் இறைச்சியைத் தட்டுப்பாடின்றி மக்களுக்கு வழங்க முடியும் என இலங்கை கால்நடை உற்பத்தியாளர்கள் சங்கத்தின் தலைவர் அஜித் குணசேகர தெரிவித்துள்ளார்.
+
+ஜனவரி மாதம் வரை முட்டை மற்றும் கோழி இறைச்சியின் விலையில் மாற்றம் இருக்காது என அவர் மேலும் குறிப்பிட்டுள்ளார்.  R
+
+◼️
+
+[Data](articles/5459c775.json)
+
+---
+
+### US pledges unwavering support for Sri Lanka’s anti-corruption drive
+
+*2024-12-07 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104063/us-pledges-unwavering-support-for-sri-lankas-anti-corruption-drive) · `en`
+
+The U.S. Assistant Secretary of State for South and Central Asian Affairs, Mr. Donald Lu has expressed the United States government’s commitment to supporting Sri Lanka’s on-going anti-corruption initiatives as needed during a meeting with President Anura Kumara Dissanayake at the Presidential Secretariat today (07).
+
+Mr. Lu stated that the US is prepared to provide financial and technical assistance to strengthen Sri Lanka’s security and economy, according to the President’s Media Division (PMD).
+
+He also emphasized the US government’s willingness to offer technical expertise to help recover funds that were illegally taken out of the country, as part of Sri Lanka’s anti-corruption program.
+
+The discussion highlighted the US government’s appreciation for the new administration’s prioritization of key political, economic, and social challenges. Mr. Lu reaffirmed US support for safeguarding Sri Lanka’s sovereignty and territorial integrity.
+
+...
+
+[Data](articles/001ca2e3.json)
+
+---
 
 ### ශ්‍රී ලංකා පළමු ඉනිම ලකුණු 328කට සීමා වෙයි
 
@@ -662,7 +694,7 @@ The bodies of the deceased have been kept at the Wilpatha Divisional Hospital an
 
 *2024-12-07 10:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-monthly-remittances-fall-first-time-in-27-months-in-november-2024-192765/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s remittances coming from its overseas expatriate workers fell for the first time in 28 months in November, the official data showed.
+ECONOMYNEXT – Sri Lanka’s remittances coming from its overseas expatriate workers fell for the first time in 27 months in November, the official data showed.
 
 The remittances edged down 1.3 percent to $530.1 million in November 2024 compared to the same month last year, the official data showed.
 
@@ -2375,53 +2407,5 @@ It will continue to produce radial tires, solid tires and assemblies.
 [Data](articles/e9825be9.json)
 
 [Extended Data](ext_articles/e9825be9.ext.json)
-
----
-
-### Unanimously fulfill
-
-*2024-12-06 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200616) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Parliament approves budget for first 4 months of 2025. Unanimous decision due to opposition's lack of referendum request during debate."
-
-🟩
-
-President Anura Kumaratisanayake's government's voting for the first 4 months of 2025 was unanimous.
-
-The debate on Thursday and Friday was held on Thursday and Friday as the first 4 months of accounting for the first 4 months of 2025 was submitted by the Chief Minister and Minister of the Council Bimal Ratnayake.
-
-In this backdrop, Speaker Ashoka Ranwala announced that it was unanimously passed because the opposition parties did not seek a referendum on the polls at the conclusion of the debate on Friday.
-
-Accordingly, the Parliament was approved by the President of the President of the President of the Government of Anura Kumara Dissanayake, January 1, 2025, from April 30, 2025, as an accounting for the 4 -month period.
-
-◼️
-
-[Data](articles/64aa0667.json)
-
-[Extended Data](ext_articles/64aa0667.ext.json)
-
----
-
-### Vote on Account passed in Parliament without a vote
-
-*2024-12-06 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104048/vote-on-account-passed-in-parliament-without-a-vote) · `en`
-
-The Resolution on the Vote on Account for the first four months of 2025 was passed in Parliament today (6) without a vote.
-
-The Resolution on the Vote on Account, which facilitates the uninterrupted continuation of government operations and debt servicing for the first quarter of 2025, were presented to Parliament on 03 December.
-
-The debate on the Resolution on the Vote on Account was held in Parliament on the 05 and 06 December from 9:30 a.m. to 5:30 p.m.
-
-Following the conclusion of today’s debate, the Vote on Account was passed without a vote.
-
-◼️
-
-[Data](articles/ed1e45ca.json)
-
-[Extended Data](ext_articles/ed1e45ca.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 09:30:39**
+As of **2024-12-07 09:19:35**
 
 ## Newspaper Stats
 
-*Scraped **58,926** Articles*
+*Scraped **58,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,540
 economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,583
+adalk | 5,581
 adaderanalk | 7,155
 tamilmirrorlk | 8,402
 virakesarilk | 9,657
@@ -26,33 +26,11 @@ adaderanasinhalalk | 10,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,924 (100.0%) of 58,926 articles have been extended.
+58,922 (100.0%) of 58,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
-
-### ගොඩනැගිලි ඉදිකිරිමෙන් පමණක් රටක් දියුණු වෙන්නේ නෑ
-
-*2024-12-07 08:58:18* · [`adalk`](https://www.ada.lk/breaking_news/ගොඩනැගිලි-ඉදිකිරිමෙන්-පමණක්-රටක්-දියුණු-වෙන්නේ-නෑ/11-413500) · `si`
-
-දේශපාලන අධිකාරියේ සහ ඩිජිටල් තාක්ෂණවේදීන්ගේ අපේක්ෂා සමපාත වී ඇති මේ අවස්ථාවේ රට ඩිජිටල්කරණය කිරීම සඳහා සියලුම වෘත්තීයවේදීන්ගේ සහයෝගය අපේක්ෂා කරන අතර ඒ සඳහා සහභාගි වන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
-
-ඕනෑම අවස්ථාවක ඒ වෙනුවෙන් තමන් පෙනී සිටින බවත් ජනාධිපතිවරයා එහිදී සඳහන් කළේය.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළකළේ , අද (05) පස්වරුවේ ඩිජිටල් ආර්ථික කටයුතු අමාත්‍යාංශයේදී එම අමාත්‍ය ධුරයේ වැඩ භාර ගැනීමෙන් අනතුරුව අමාත්‍යාංශ නිලධාරීන් අමතමනි.
-
-ඩිජිටල්කරණය තුළින් ආර්ථික කටයුතුවල කාර්යක්ෂමතාව වැඩි කර රටේ ආර්ථිකය ඉහළ මට්ටමකට ගෙන ඒමට හැකි බවද ජනාධිපතිවරයා සඳහන් කළේය.
-
-දිළිඳුබව තුරන් කිරීම, සමාජීය ආකල්ප වෙනස් කිරීම සහ ඩිජිටල්කරණය රජයේ ප්‍රමුඛ අරමුණු වන බව ජනාධිපතිවරයා පෙන්වා දුන්නේය.
-
-ගොඩනැගිලි ඉදිකිරීමෙන් පමණක් රටක් සංවර්ධනය නොවන බව පෙන්වා දුන් ජනාධිපතිවරයා මීට දශක දෙකකට පෙර ඉදිකිරීම් අමාත්‍යංශයක් පැවතුණු බව සිහිපත් කළ අතර මේ වන විට සෑම අමාත්‍යාංශයකින්ම සිදු කරන්නේද ඉදිකිරීම් පමණක් බවද කියා සිටියේය.
-
-...
-
-[Data](articles/4a39ec14.json)
-
----
 
 ### Minister proposes providing sewn school uniforms to students
 
@@ -65,8 +43,6 @@ Speaking at a ceremony held in Colombo, the Minister emphasized the benefits of 
 ◼️
 
 [Data](articles/c7aa3b9d.json)
-
-[Extended Data](ext_articles/c7aa3b9d.ext.json)
 
 ---
 
@@ -83,8 +59,6 @@ South Korean lawmakers are set to vote later Saturday on impeaching President Yo
 ...
 
 [Data](articles/eb8731f7.json)
-
-[Extended Data](ext_articles/eb8731f7.ext.json)
 
 ---
 
@@ -845,20 +819,6 @@ We do not mention that there are no problems in the health sector. Steps have be
 [Data](articles/b61c2a52.json)
 
 [Extended Data](ext_articles/b61c2a52.ext.json)
-
----
-
-### ලොහාන් යළිත් අත්අඩංගුවට
-
-*2024-12-06 21:09:18* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-යළිත්-අත්අඩංගුවට/11-413499) · `si`
-
-බීමත්ව රිය පදවා අනතුරක් කිරීම සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා කොල්ලුපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඥාති නිවසකට ගොස් යළිත් කොළඹ කොටුව දෙසට ජීප් රිය ධාවනය කිරීමේදි මෙම අනතුර සිදුව තිබේ. මේ අතර නීතිවිරෝධී ලෙස එකලස් කළ වාහනයක් සන්තකයේ තබා ගැනීමේ චෝදනා හේතුවෙන් අත්අඩංගුවට ගෙන සිටි අමාත්‍යවරයා ඇප මත නිදහස් වූයේ ඊයේ දිනයේදීය.
-
-◼️
-
-[Data](articles/3345d32b.json)
 
 ---
 
@@ -2481,5 +2441,55 @@ Although there is a leopard for breeding, they have no program to board the leop
 [Data](articles/c313e70b.json)
 
 [Extended Data](ext_articles/c313e70b.ext.json)
+
+---
+
+### Pakistan’s jailed former PM Imran Khan threatens civil disobedience movement
+
+*2024-12-06 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104043/pakistans-jailed-former-pm-imran-khan-threatens-civil-disobedience-movement) · `en`
+
+Pakistan’s jailed former Prime Minister Imran Khan has called on his supporters to hold a rally next week and threatened to start a civil disobedience movement days after his party led a deadly protest march in Islamabad.
+
+In a post on X on Thursday, Khan asked supporters to converge on Dec. 13 in the northwestern city of Peshawar, the capital of Khyber Pakhtunkhwa province which is ruled by his Pakistan Tehreek-e-Insaf (PTI) party.
+
+He demanded a judicial probe into the crackdown on the Nov 25 protest march which he said killed at least 12 of his supporters and violence on May 9 last year which killed 8. All arrested political workers should also be released, he said.
+
+“If these two demands are not met, a civil disobedience movement will start from December 14, and the government will be held responsible for any consequences,” Khan said.
+
+The government denies any deaths during the Nov 25 protest march, and says that Khan’s supporters had attacked military installations on May 9 last year.
+
+...
+
+[Data](articles/02facaf0.json)
+
+[Extended Data](ext_articles/02facaf0.ext.json)
+
+---
+
+### Interim order per gazette notification on liquor licenses
+
+*2024-12-06 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204098) · `si`
+
+Supreme Court halts gazette notification increasing liquor license fees. Three-judge bench allows fundamental rights petition filed by Liquor License Holders Association. Annual fee hike from Rs. 20 million challenged. Order prevents implementation until further notice.
+
+🟩
+
+The Supreme Court today (6) awarded the Supreme Court today (6), preventing the implementation of a gazette notification for the annual fee for the end of the year.
+
+Allowing a fundamental rights petition filed by the Liquarates License holders Association of Sri Lanka. H. M. D. The order was issued by a three-member judge with a three-member judge with Nawaz, Kumudhi Wickremasinghe and Priyantha Fernando.
+
+The Secretary to the Ministry of Finance, the Secretary to the Ministry of Finance, had been named as respondents on the Liqual Local Licensee (Liquarates Licensee) Association.
+
+The petitioners claim that the annual fee for liquor licenses increased from Rs. 20 million.
+
+The petition had been filed asking him to increase the annual license fee.
+
+In addition, the petition has been requested to issue an order to be charged by the gazette for sale in 2017.
+
+◼️
+
+[Data](articles/afc6ce12.json)
+
+[Extended Data](ext_articles/afc6ce12.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 11:01:01**
+As of **2024-12-07 11:43:04**
 
 ## Newspaper Stats
 
-*Scraped **58,931** Articles*
+*Scraped **58,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,120 @@ dbsjeyarajcom | 446
 colombotelegraphcom | 598
 bbccomsinhala | 617
 islandlk | 3,540
-economynextcom | 3,585
+economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,584
+adalk | 5,585
 adaderanalk | 7,157
 tamilmirrorlk | 8,403
-virakesarilk | 9,657
-adaderanasinhalalk | 10,178
+virakesarilk | 9,658
+adaderanasinhalalk | 10,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,930 (100.0%) of 58,931 articles have been extended.
+58,934 (100.0%) of 58,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Two killed in motorcycle accident
+
+*2024-12-07 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204122) · `si`
+
+Two motorcyclists killed in crash near Neehigahahena. Victims, ages 37 and 42, died at Nagoda and Wilgoda hospitals. Bodies in morgue.
+
+🟩
+
+Dodangoda police say that two motorcycle crashed into a tree last night (6) last night.
+
+The motorcycle motorcycle to the neighwaya to the Neehigahahena has emerged away from the road to the neighbour.
+
+The motorcyclist and the victim died in the admission of the Nagoda and Wilgoda hospitals.
+
+The victims are residents of Neewnna and Nobhdada areas, aged 37 and 42 years, and their bodies are placed in the morgue morbits.
+
+◼️
+
+[Data](articles/778f4e46.json)
+
+[Extended Data](ext_articles/778f4e46.ext.json)
+
+---
+
+### Two killed in motorcycle accident
+
+*2024-12-07 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200634) · `ta`
+
+Motorcycle crash kills two in Kalutara. Asanga Sujith Anuragumara and Subramaniam Padmaraja died after colliding with a tree. Bodies at Wilpatha Divisional Hospital and Kalutara Nagoda Teaching Hospital.
+
+🟩
+
+Two people have been killed when a motorcycle crashed into a tree in Nehinna area, Kalutara, Kalutara, Kalutara, police said.
+
+Asanga Sujith Anuragumara and Subramaniam Padmaraja from Kalutara and Nehinna area have died.
+
+The bodies of the deceased have been kept at the Wilpatha Divisional Hospital and the Kalutara Nagoda Teaching Hospital, police said.
+
+◼️
+
+[Data](articles/c9d36f2b.json)
+
+[Extended Data](ext_articles/c9d36f2b.ext.json)
+
+---
+
+### Sri Lanka’s monthly remittances fall first time in 27 months in November 2024
+
+*2024-12-07 10:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-monthly-remittances-fall-first-time-in-27-months-in-november-2024-192765/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming from its overseas expatriate workers fell for the first time in 28 months in November, the official data showed.
+
+The remittances edged down 1.3 percent to $530.1 million in November 2024 compared to the same month last year, the official data showed.
+
+The island nation has seen an increase in monthly remittances on a year-on-year basis since August 2022. The monthly remittances have been on the rise for the 27 months through October 2024, the Central Bank data showed.
+
+The total remittances crossed $5.96 billion in the first 11 months of 2024 through end November.
+
+The remittances in the first 11 months gained 10.4 percent to $5.96 billion compared to $5.4 billion in the same period last year.
+
+Worker remittances are one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis hit in 2022.
+
+...
+
+[Data](articles/c3653c5b.json)
+
+---
+
+### The shore that wrong to the underworld
+
+*2024-12-07 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204121) · `si`
+
+Two men killed in Bogahawewa shooting. Police arrest suspects linked to drug trade. Seized: T56 firearm, bullets, drugs. Investigation ongoing.
+
+🟩
+
+Two unidentified persons who came from a motorbike have been shot dead in Bogahawewa, police said.
+
+The suspects were revealed investigations carried out by the STF personnel who were arrested by the police STF personnel to the Pulmodi camp.
+
+The two suspects were two disciples of organized criminal criminal criminal operating in the country's drug network and the criminal crime network of the country.
+
+The T56 firearm, which was used for three murders, and eight bullets, 4 bullets, 61 grams of external manufacturers, 61 grams of ice and 105 grams of heroin have been taken into custody.
+
+It is said that the murder was carried out by the Sigglement of the above persons to the murder of a person who had a casual association with the wife of Welioya Priyantha, hide in Dubai.
+
+However, investigations have revealed that the two arrested suspects had come to the Bogahawewa to shoot the murder of a drug trafficking in the house.
+
+◼️
+
+[Data](articles/a886e662.json)
+
+[Extended Data](ext_articles/a886e662.ext.json)
+
+---
 
 ### Syrian rebels seize fourth city, close in on Homs in threat to Assad’s rule
 
@@ -72,6 +168,8 @@ The suspect was released on police bail and is scheduled to appear before the Ne
 
 [Data](articles/578366bd.json)
 
+[Extended Data](ext_articles/578366bd.ext.json)
+
 ---
 
 ### Excess acid mixed
@@ -99,6 +197,24 @@ When the case was taken up for hearing today (06), the Magistrate ordered the ac
 [Data](articles/835131c7.json)
 
 [Extended Data](ext_articles/835131c7.ext.json)
+
+---
+
+### ශ්‍රී ලංකා - දකුණු අප්‍රිකා දෙවන ටෙස්ට් තරගයේ තෙවන දිනය අදයි
+
+*2024-12-07 09:29:49* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-දෙවන-ටෙස්ට්-තරගයේ-තෙවන-දිනය-අදයි/9-413502) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකා කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ තෙවන දිනය සඳහා වන තරගය අද (07දා) පැවැත්වේ.
+
+ඊයේ (06දා) තරගය නතර කරන විට පන්දුවට පහර‍දෙමින් සිටි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 67ක් අවසානයේ කඩුලු 03ක් දැවී ලකුණු 242ක් රැස් කරගෙන සිටියේය.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකා කණ්ඩායම සිය පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 358ක් රැස් කළේය.
+
+ඒ අනුව මේ වන විට ශ්‍රී ලංකාව දකුණු අප්‍රිකා පළමු ඉනිමට වඩා තවත් ලකුණු 116ක් පිටුපසින් පසුවන්නේය.
+
+◼️
+
+[Data](articles/8eb2f256.json)
 
 ---
 
@@ -203,6 +319,30 @@ Speaking at a ceremony held in Colombo, the Minister emphasized the benefits of 
 [Data](articles/c7aa3b9d.json)
 
 [Extended Data](ext_articles/c7aa3b9d.ext.json)
+
+---
+
+### Sri Lanka plans new relief for smaller businesses as parate suspension ends on Dec 15
+
+*2024-12-07 08:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-new-relief-for-smaller-businesses-as-parate-suspension-ends-on-dec-15-192748/) · `en`
+
+ECONOMYNEXT – Sri Lanka is preparing a new relief scheme targeting small and medium enterprises as a suspension of parate execution (foreclosure) applicable to all borrowers end on December 15, Deputy Minister of Finance Harshana Suriyapperuma said.
+
+“We discussed this with the involvement of the central bank,” Suriyapperuma told parliament Friday.
+
+“We called for the data and analysed the debt stock to find out how much was there and what type of businesses got into difficulties.
+
+“After analyzing the levels, we are now preparing a mechanism to give the biggest benefits to the largest number of SMEs,” Suriyapperuma said.
+
+“We will submit this to the cabinet in a short period and we have prepared a system to implement it.”
+
+An analysis of the data showed that there were bad loans dating back over 5 years.
+
+“We saw that there was a large volume of loans taken before 2019 during the Easter Sunday bombs,” he said.
+
+...
+
+[Data](articles/595cdc7c.json)
 
 ---
 
@@ -2337,153 +2477,5 @@ The court ordered that the protests were submitted on January 23.
 [Data](articles/44385e94.json)
 
 [Extended Data](ext_articles/44385e94.ext.json)
-
----
-
-### Jaime Ravi's 'Brother' welcomed in digital spectators
-
-*2024-12-06 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200591) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Jayam Ravi's 'Brother' released digitally on Nov 29. Mixed reviews but achieved 100+ million views quickly. Directed by Priyanka Arul Mohan, featuring Harris Jayaraj's music."
-
-🟩
-
-Jayam Ravi, the leading star actor of the Tamil film industry, is released on Diwali on October 31st last year.. The film, which has been a full -fledged entertainment portrait of family, brotherly affection, sentiment, love, has received mixed reviews and welcome.
-
-However, the film was released at the end of November on the G5 digital site.
-
-The film is set to achieve a hundred million view minutes within a short time of the digital site.
-
-Although the films starring leading star actors have been released in the filmmaker and have not been critically expected, the film has been released on digital and failing fans.
-
-Jaime Rathi's film 'Brother' was released on Diwali on November 29th on the 29th of November.
-
-Due to the fan of the fans, especially the family fans, the film has been a record of over a hundred million minutes within a short period of time.
-
-The film was directed by M.. Priyanka Arul Mohan, Rao Ramesh and V TV Ganesh with Rajesh Ravi have played a large number of leading stars.
-
-...
-
-[Data](articles/9d69b302.json)
-
-[Extended Data](ext_articles/9d69b302.ext.json)
-
----
-
-### Sri Lanka minister plans to lift VAT on brown sugar made at expropriated SOE plants
-
-*2024-12-06 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-plans-to-lift-vat-on-brown-sugar-made-at-expropriated-soe-plants-192644/) · `en`
-
-ECONOMYNEXT – Industries Minister Sunil Handunetti said cabinet approval will be sought to lift value added tax from brown sugar made at Lanka Sugar, a state enterprise made from firms including once-listed Pelwatte Sugar, expropriated during a Rajapaksa regime in 2011.
-
-Unsold stocks of sugar are stuck at Pelwatte and Sevenagala plants of Lanka Sugar, Moneragala legislator, R M Jayawardhana told parliament.
-
-Sri Lanka is charging 18 percent value added tax from brown sugar made at Lanka Sugar, but imported white sugar is not subjected to VAT, Industries Minister Handunetti said.
-
-Brown Sugar made at the SOE is also charged a 2.5 percent social security levy, he said.
-
-“As a result, brown sugar costs about 300 rupees a kilo when it comes out of the factory, compared to 220 rupees for imported white sugar,” Minister Handunetti said.
-
-“If we are to get rid of the stocks we definitely require a tax concession.  I am planning to present a proposal to cabinet to lift VAT from brown sugar.”
-
-...
-
-[Data](articles/31673067.json)
-
-[Extended Data](ext_articles/31673067.ext.json)
-
----
-
-### Sri Lanka EC warns of legal action against candidates not compiling expense report
-
-*2024-12-06 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-warns-of-legal-action-against-candidates-not-compiling-expense-report-192645/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Election Commission (EC) has warned all candidates who have failed to submit their election campaign income and expenditure after contested in the November 14 parliament polls.
-
-The Election Commission has set a deadline to submit the income and expenditure reports for 12 midnight on Friday, December 06, 2024.
-
-R M A L Ratnayake, the Chairman of the EC said only few have submitted their reports so far.
-
-“It is not only for those who have elected to the parliament, but those all who contested the election. They all should file their expenditure reports, Ratnayake told in a video clip circulated by the EC.
-
-“I specially urge all candidates to fulfil this obligation without facing any legal actions.”
-
-“In the event of a legal action, those candidates who face legal action are sometimes likely to lose their opportunity of contesting in local government or provincial council polls.”
-
-...
-
-[Data](articles/d7a5ff60.json)
-
-[Extended Data](ext_articles/d7a5ff60.ext.json)
-
----
-
-### Shammi Silva appointed as the Asian Cricket Council
-
-*2024-12-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204102) · `si`
-
-Shammi Silva named Chairman of Asian Cricket Council. Formerly Chairman of Finance and Marketing Committee. Previously led Sri Lanka Cricket. Appointed after previous Chairman became India President. Also serves as ICC Chairman.
-
-🟩
-
-Shammi Silva, Chairman of Sri Lanka Cricket, has been appointed as the Chairman of the Asia Cricket Council.
-
-He has served as the Chairman of the Finance and Marketing Committee of the Asia Cricket Council for several years.
-
-Prior to the previous Asia Cricket Council Chairman was appointed as the President of India.
-
-He was appointed as the Chairman of the International Cricket Council.
-
-◼️
-
-[Data](articles/05cff6fa.json)
-
-[Extended Data](ext_articles/05cff6fa.ext.json)
-
----
-
-### Shammi Silva assumes Presidency of Asian Cricket Council
-
-*2024-12-06 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104044/shammi-silva-assumes-presidency-of-asian-cricket-council) · `en`
-
-The Asian Cricket Council (ACC) today announced that Mr. Shammi Silva, President of Sri Lanka Cricket, has officially assumed the Presidency of the ACC.
-
-Mr. Silva brings extensive expertise to the role, having served as the Chairman of the ACC Finance & Marketing Committee for several years, the statement said.
-
-As he takes the helm, Mr Silva expressed his gratitude and shared that: “It is a great honour to lead the Asian Cricket Council. Cricket is the heartbeat of Asia, and I look forward to working closely with all member nations to elevate the game, provide opportunities for emerging talent, and strengthen the bonds that unite us through this beautiful sport.”
-
-On behalf of the ACC, Mr. Silva also extended heartfelt gratitude to the outgoing President, Mr. Jay Shah, for his exemplary leadership and significant contributions during his tenure.
-
-...
-
-[Data](articles/053096bf.json)
-
-[Extended Data](ext_articles/053096bf.ext.json)
-
----
-
-### What is wrong with her 73-year-old shouting?
-
-*2024-12-06 15:29:00* · [`adalk`](https://www.ada.lk/breaking_news/වයස-73ක්-වූ-ඇයව-වෙඩිතබා-ඝාතනය-කිරීමට-තරම්-වරද-කුමක්ද-/11-413494) · `si`
-
-Here's a 200-character summary:
-
-
-
-73-year-old woman's loud shouting causes concern. Unidentified people on motorbike shoot at her in Padaviya. Police suspect T56 firearm used. No motive or suspects found yet.
-
-🟩
-
-Padaviya has fled the Dita, two unidentified people from a motorbike yesterday (05). The injured has died after being admitted to Padaviya Hospital for treatment.  මෙම වෙඩිතැබීම සඳහා ටී 56 වර්ගයේ ගිනි අවියක් භාවිත කොට ඇති බව පොලිසිය සැක කරන අතර වෙඩිතැබීමට හේතුවක් හෝ  සැක කරුවන් පිලිබඳ මෙතෙක් තෙරතුරු අනාවරණය වී නෙමැති බව පවසයි.
-
-◼️
-
-[Data](articles/55ecb290.json)
-
-[Extended Data](ext_articles/55ecb290.ext.json)
 
 ---

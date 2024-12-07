@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 19:03:05**
+As of **2024-12-07 19:41:57**
 
 ## Newspaper Stats
 
-*Scraped **58,969** Articles*
+*Scraped **58,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 446
 colombotelegraphcom | 600
 bbccomsinhala | 617
 islandlk | 3,540
-economynextcom | 3,587
+economynextcom | 3,589
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
@@ -26,31 +26,63 @@ adaderanasinhalalk | 10,193
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,966 (100.0%) of 58,969 articles have been extended.
+58,971 (100.0%) of 58,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### දකුණු කොරියානු ජනපති පුටුව රැකගනී
+### Sri Lanka doctor cautions against skincare products containing steroids
 
-*2024-12-07 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204139) · `si`
+*2024-12-07 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctor-cautions-against-skincare-products-containing-steroids-188945/) · `en`
 
-දකුණු කොරියානු ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව විපක්ෂය ගෙනආ දෝෂාභියෝගය අද (07) එරට පාර්ලිමේන්තුවේදී පරාජයට පත්වුණි.
+ECONOMYNEXT – A Sri Lankan dermatologist has cautioned against using chemically heavy cosmetic products which could potentially create health issues.
 
-දකුණු කොරියානු විපක්ෂය එරට ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව දෝෂාභියෝගයක් ගෙන ආවේ ජනාධිපතිවරයා පසුගිය අඟහරුවාදා රාත්‍රීයේ දී හදිසියේ හමුදා නීතිය පැනවීමේ සිදුවීම මුල් කරගනිමිනි.
+“Methasone and Clobetasol added creams should not be applied on to the skin without a consultation with a doctor,” consultant dermatologist Dr Nayani Madurasinghe told reporters recently.
 
-දෝෂාභියෝගය සම්මත කරගැනීමට නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතරයකින් සම්මත විය යුතු වන අතර ඒ අනුව මන්ත්‍රීවරු 200 දෙනෙකු යෝජනාව සඳහා අනුමැතිය ලබාදීම සිදුකළ යුතු බව සඳහන්ය.
+These were prescribed for short term use for certain skin conditions she said.
 
-විපක්ෂ මන්ත්‍රීවරුන් 192කුගෙන් සමන්විත වන අතර දෝෂාභියෝගය ජයග්‍රහණය කිරීමට නම් ඔවුන්ට ආණ්ඩු පක්ෂ මන්ත්‍රීවරුන් අට දෙනෙකුගේ සහාය හිමිවිය යුතු විය.
+She pointed out that excessive usage of topical applications containing steroids of varying levels of strength could lower the skin’s immunity leading to various infections.
 
-කෙසේවෙතත් ඡන්ද විමසීම ආරම්භ වීමට පෙර ජනාධිපතිවරයා නියෝජනය කරන පාලක පීපල් පවර් පක්ෂයේ මන්ත්‍රීවරුන් පාර්ලිමේන්තු සභාවෙන් ඉවත්වී ගියේ විපක්ෂයෙන් එල්ල වූ දැඩි විරෝධය මධ්‍යයේ ය.
+“High potency steroids shouldn’t be applied to the face or sensitive areas like armpits. But people are applying them as they want. This can damage the skin and attract fungal and bacterial diseases.”
 
-එම මන්ත්‍රීවරුන් අතරින් කිහිපදෙනෙක් නැවතත් පාර්ලිමේන්තුවට පැමිණි අතර ඡන්ද විමසීම සිදුවන අවස්ථාවේ දී එහි සිටියේ එම පක්ෂයේ මන්ත්‍රීවරුන් තිදෙනෙක් පමණි.
+Various products suspected to contain steroids were being sold across social media apps recommending them for reducing dark colour, or pigmentation, in three days, the doctor said.
 
 ...
 
+[Data](articles/f9ac7857.json)
+
+[Extended Data](ext_articles/f9ac7857.ext.json)
+
+---
+
+### South Korea protects the President's chair
+
+*2024-12-07 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204139) · `si`
+
+South Korea: Impeachment motion against President Yung Suk Yula defeated in parliament today. Opposition needed 200 votes but only had 192. Ruling party members absent during vote.
+
+🟩
+
+The impeachment motion brought against South Korean President Yung Suk Yula was defeated in parliament today (07).
+
+The South Korea opposition brought an impeachment motion against Sukou Yula, the President, the president last night.
+
+The impeachment should be passed in a two-thirds majority of Parliament, according to the approval of 200 MPs.
+
+Opposition members consist of 192 and the impeachment motion were to win the impeachment.
+
+However, before the election began, the ruling People Park Power Party members representing the President left the Parliament in the midst of strong opposition from the opposition.
+
+Several of the MPs returned to parliament again and were only three members of the party at the time of the election.
+
+The impeachment motion against President Yun Suk Yula was defeated in Parliament today.
+
+◼️
+
 [Data](articles/bd191d2f.json)
+
+[Extended Data](ext_articles/bd191d2f.ext.json)
 
 ---
 
@@ -70,27 +102,39 @@ Impeaching Yoon required support from two-thirds of the National Assembly, or 20
 
 [Data](articles/7f3369a8.json)
 
+[Extended Data](ext_articles/7f3369a8.ext.json)
+
 ---
 
-### උත්සව සමයේදී හිඟයකින් තොරව බිත්තර සහ කුකුළු මස් ලබා දීමට පියවර
+### Steps to deliver eggs and chicken without shortage of festive season
 
 *2024-12-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204138) · `si`
 
-හිඟයකින් තොරව බිත්තර වෙළෙඳ පොළට නිකුත් කිරීමට බිත්තර නිෂ්පාදකයින් කටයුතු කරන බව ශ්‍රී ලංකා සත්ත්ව නිෂ්පාදකයින්ගේ සංගමයේ සභාපති අජිත් ගුණසේකර මහතා පවසයි.
+Egg and chicken supply strategies for Sri Lanka's festive season: Manufacturers work to meet demand, prices may rise due to increased consumption and higher production costs. Poultry surplus released into market, but potential shortages possible if demand exceeds supply.
 
-අද (07) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පැවසුවේ මේ වන විට බිත්තරයක සිල්ලර මිල රුපියල් 35-36ත් අතර අතර පවතින බවය.
+🟩
 
-කෙසේ නමුත් රටේ ඉල්ලුම හා සැපයුම අනුව බිත්තරක මිල තීරණය වන බැවින් ඉදිරි උත්සව සමයේදී බිත්තර ඉල්ලුම වැඩි විය හැකි බවත් ඒ අනුව රුපියල් 45කට අඩුවෙන් බිත්තරයක සිල්ලර මිල පවත්වාගෙන යාමට අපෙක්ෂා කරන බවත් ඔහු පැවසීය.
+Sri Lanka Animals Association President Ajith Gunasekera says that egg manufacturers are working to the egg products without any deficit.
 
-එමෙන්ම වර්තමානය වනවිට සහල් නිවුඩු සහ බඩ ඉරිඟු මිල ඉහළ යාම හේතුවෙන් බිත්තරයක නිෂ්පාදන මිල ඉහළ ගොස් ඇති බවත් ඔහු පැවසීය.
+He was speaking at a media briefing held today (07) and the retail price of an egg is between 35-36 rupees.
 
-ඔහු පැවසුවේ කුකුළු මස් නිෂ්පාදනයේ අතිරික්තයක් පවතින බැවින් මේ වන විටත් හිඟයකින් තොරව කුකුළු මස් වෙළෙඳ පොළට නිකුත් කිරීමට පියවර ගෙන ඇති බවය.
+However, he said that the price of eggs could increase the demand for the country, as the prices of eggs were determined by the demand and supply of the country.
 
-පසුගිය කාලයේ පැවැති අයහපත් කාලගුණික තත්ත්වය හමුවේ එළවළු මිල සහ මාළු මිල ඉහළ ගොස් ඇති බැවින් මේ හේතුවෙන් කුකුළු මස් සඳහා ඉල්ලුම වැඩි වී ඇති බවත් මේ වන විට ශීත කල කුකුළු මස් රුපියල් 950-1000ත් අතර මිලකට අලෙවි වන බවත් ඔහු පැවසීය.
+He also said that the production prices of the egg had gone up due to rising prices of rice and rice.
 
-...
+He said that there is a surplus of poultry production, he has already been released to the poultry market.
+
+He said that the demand for chicken has increased due to the recent adverse weather conditions in the recent past, he said.
+
+He also said that although animal products are continuously maintained in the Sinhala Season, he is able to provide eggs and chicken without shortage.
+
+However, he said that if there is a vegan deficit, it is the responsibility of remedying to address it.
+
+◼️
 
 [Data](articles/12508091.json)
+
+[Extended Data](ext_articles/12508091.ext.json)
 
 ---
 
@@ -167,6 +211,26 @@ According to the first innings of Sri Lanka, South Africa began in the second in
 [Data](articles/82631d12.json)
 
 [Extended Data](ext_articles/82631d12.ext.json)
+
+---
+
+### Sri Lanka President meets US diplomat Donald Lu
+
+*2024-12-07 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-us-diplomat-donald-lu-192780/) · `en`
+
+ECONOMYNEXT – Visiting US Assistant Secretary Donald Lu has met Sri Lanka’s President Anura Dissanayake.
+
+“We discussed the US’s support for Sri Lanka’s anti-corruption efforts, recovery of stolen funds, and strengthening our economy and sovereignty,” Dissanayake said on social media platform X after the two met on Saturday at the Presidential Secretariat.
+
+“I emphasized fostering a transparent political culture, uplifting rural living standards, and modernizing public services.”
+
+Lu met with other government officials and the opposition leader on Friday. (Colombo/Dec7/2024)
+
+◼️
+
+[Data](articles/92735b3e.json)
+
+[Extended Data](ext_articles/92735b3e.ext.json)
 
 ---
 
@@ -2405,67 +2469,5 @@ He was ordered to be released on bail yesterday (05).
 [Data](articles/35a1362c.json)
 
 [Extended Data](ext_articles/35a1362c.ext.json)
-
----
-
-### There is no need for rice hiding
-
-*2024-12-06 19:03:02* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-සඟවන්න-කිසිම-උවමනාවක්-නෑ/11-413498) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's Minister rejects rice hoarding claims. No need to hide rice; banks won't lend without interest. Rice production should continue, not halted due to financial constraints.
-
-🟩
-
-It is not a need for herself to keep the rice and that no banks will not be given credit without interest.
-
-He was speaking at a press conference held in Polonnaruwa to answer a statement made by commercial minister Wasantha Samarasinghe.
-
-"I'm telling my institution to my company and check. Sending you a representative of you I prove the rice I have produced by the rice I can produce. He was said that I had no interest in the bank.
-
-We get our money from the bank to pay the money from the bank and don't pay a stock of paddy. The money has been taken and the rice produced and sent rice to the rice. We must be released.
-
-Or interest in the money. The Parliament has made this publication, so that all looks at all that looks at everyone. There is no point in keeping the rice hide in any organization. When the harvest should be gathered together we need to collect rice throughout the year, rice can be given. I have had two months.. What do I do to the next two months?
-
-◼️
-
-[Data](articles/d2558e6e.json)
-
-[Extended Data](ext_articles/d2558e6e.ext.json)
-
----
-
-### India curled up to 180 runs to take 6 wickets;Australia 86 - 1 wig.
-
-*2024-12-06 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200617) · `ta`
-
-India: 180/6, Australia: 86/1. Michelle Stack bowled well, taking 4 wickets for 48 runs. Nitish Kumar Reddy top-scored for India with 42. Nathan Maxwell and Manus Labuschagne scored 38 and 20 for Australia.
-
-🟩
-
-India collapsed in the wonderful bowling of Michelle Stack today at the Adelaide Oval Stadium between India and Australia.
-
-India decided to bat first in the Test match with a pink ball and lost all the wickets in the first innings and scored only 180 runs.
-
-Nitish Kumar Reddy (42), KL. Rahul (37), Shubman Gill (31), Ravichandran Ashwin (22) and Rishabh Bond (21) received over 20 runs.
-
-Senior players Virat Kohli (7) and Rohit Sharma (3) lost the game with single digits.
-
-Michelle Stock took 4 wickets for 48 runs, Pet Commins 2 wickets for 41 runs while Scott Poland took 2 wickets for 54 runs.
-
-In response, Australia lost 86 runs in its first innings at the end of the first day of the first day of the match.
-
-Nathan Maxweni did not lose 38 runs and Manus Lapushane 20 runs.
-
-In the bowling, Jasprit Bumrah took 13 runs and took a wicket.
-
-◼️
-
-[Data](articles/885150f5.json)
-
-[Extended Data](ext_articles/885150f5.ext.json)
 
 ---

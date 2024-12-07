@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 05:26:21**
+As of **2024-12-07 05:51:11**
 
 ## Newspaper Stats
 
-*Scraped **58,907** Articles*
+*Scraped **58,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 598
 bbccomsinhala | 616
-islandlk | 3,534
+islandlk | 3,538
 economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,907 (100.0%) of 58,907 articles have been extended.
+58,907 (100.0%) of 58,911 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,60 @@ Followed by a special flower release. The first copy was received by Literary Ho
 [Data](articles/d555fa0b.json)
 
 [Extended Data](ext_articles/d555fa0b.ext.json)
+
+---
+
+### Empowering future tech pioneers and digital leaders
+
+*2024-12-07 01:28:00* · [`islandlk`](http://island.lk/empowering-future-tech-pioneers-and-digital-leaders/) · `en`
+
+SLT-MOBITEL Nebula Institute of Technology, the educational arm of SLT-MOBITEL, hosted its annual graduation ceremony on November 8, 2024. The prestigious event took place in the main auditorium of the BMICH, Colombo. Celebrating the achievements of its latest cohort of graduates, the graduation ceremony paved pathways for their future success and aspirations. The convocation was the first graduation ceremony held since the brand’s relaunch setting a significant milestone for the Institute.
+
+The Guest of Honour at the Graduation was Prof. Daniel McCluskey, Dean of the School of Physics, Engineering and Computer Science, University of Hertfordshire, UK who delivered a thought-provoking keynote address.
+
+...
+
+[Data](articles/210c5f03.json)
+
+---
+
+### Aitken Spence Printing celebrates consecutive wins
+
+*2024-12-07 01:27:00* · [`islandlk`](http://island.lk/aitken-spence-printing-celebrates-consecutive-wins/) · `en`
+
+In an impressive display of excellence, Aitken Spence Printing received two ‘Bronze’ awards in the Digital Printing category at two prestigious industry events held in Vietnam and Indonesia. Notably, this recognition is an achievement among other competitors in the South-East Asian region.
+
+The Company’s cutting-edge print quality and exceptional craftsmanship were recognized at the Asian Packaging Excellence Awards (APEA) that was recently held in Ho Chi Minh, Vietnam; followed closely by their success on the Asian Print Awards (APA) in Jakarta, Indonesia that was also held in November 2024. These consecutive wins not only highlight the company’s unwavering commitment to industry standards but also underscore their leadership in the digital printing sector. The awards serve as a powerful testament to the company’s dedication to delivering superior print quality, innovation, and precision, setting them apart as a trailblazer in the highly competitive Asian printing landscape.
+
+...
+
+[Data](articles/2785d2a2.json)
+
+---
+
+### Notable performances by manufacturing and plantation sector share counters
+
+*2024-12-07 01:24:00* · [`islandlk`](http://island.lk/notable-performances-by-manufacturing-and-plantation-sector-share-counters/) · `en`
+
+The manufacturing and plantations sectors performed well in the stock market yesterday while the banking sector witnessed a consolidation after recording a rally for several months, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 53.96 points while the S and P SL20 rose by 16.56 points. Turnover stood at approximately Rs 5 billion with nine crossings.
+
+...
+
+[Data](articles/5749e0df.json)
+
+---
+
+### Nestlé promotes regenerative agricultural practices in the coconut value chain via Nestlé Coconut Development Plan
+
+*2024-12-07 01:21:00* · [`islandlk`](http://island.lk/nestle-promotes-regenerative-agricultural-practices-in-the-coconut-value-chain-via-nestle-coconut-development-plan/) · `en`
+
+As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life’ company partnered with the Coconut Cultivation Board of Sri Lanka (CCB) to conduct a two-day training programme for coconut farmers. Conducted at CCB’s Coconut Development Training Center in Lunuwila, the programme was focused on educating coconut farmers on the implementation of regenerative agriculture practices in their farms, benefiting the farmers in improving coconut yield whilst conserving natural resources such as soil and water.
+
+...
+
+[Data](articles/c87e02a1.json)
 
 ---
 
@@ -2423,125 +2477,5 @@ Sri Lanka had made remarkable progress in restoring its economy by “implementi
 [Data](articles/0f4a5c60.json)
 
 [Extended Data](ext_articles/0f4a5c60.ext.json)
-
----
-
-### IP Listest player blumned by Sri Lanka Under-19 cricket Asia's dream
-
-*2024-12-06 12:13:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c99xrze1g7lo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka U-19 cricket team defeated India in the 19th Asia Cup. Lakvin Abeysinghe scored 69* off 110 balls. Sri Lanka won by 7 wickets. In the IPL auction, a 13-year-old player was sold for ₹1.10 crore to the Ruyan Royals team.
-
-🟩
-
-IP Listest player blumned by Sri Lanka Under-19 cricket Asia's dream
-
-Sri Lanka won a seven wicket win by defeating Sri Lanka in the 19th Asia Cup.
-
-The most young player in IPL player auction was awarded to the Sri Lankan bowlers today (December 06).
-
-Sri Lanka won the toss and decided to bat first.
-
-The Sri Lankan team was in the face of the 19th Asian Cup to the Indian bowlers.
-
-Sri Lanka's first wickets were bowled out for Indian bowlers to a low score. Sri Lanka Innings Score appeared for 8 wickets for 8 runs.
-
-Lakvin Abeysinghe and Shahrajan Shanmugamganathan, who had a life of collapsed in Sri Lanka, had a 93 runs for the fourth wicket.
-
-While scored 42 runs in 78 balls, Zorjan Shanmugamathan was bowled out for 42 runs.
-
-IPL athletes auction 2025: 13-year-old player for the first time
-
-Lakvin Abeysinghe scored 69 runs off 110 off 110 balls. Accordingly, Sri Lanka were able to score 173 runs in 46 overs.
-
-...
-
-[Data](articles/eba08b97.json)
-
-[Extended Data](ext_articles/eba08b97.ext.json)
-
----
-
-### Petition filed against the rugby conference
-
-*2024-12-06 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204094) · `si`
-
-Sri Lanka Rugby Federation constitution change petition settled. Court approves new committee selection process. Petitioner agrees to terms.
-
-🟩
-
-A petition filed against the arrival of a new constitution to the Sri Lanka Rugby Football Federation was settled in court yesterday (5).
-
-The petition was filed by the Secretary of the Western Province Rugby Foot Association, Roshan Deen.
-
-The petition is Mohammed Lafar Thahaire and P. Kodule was summoned before the Court of Appeal of Kumaran Ratnam.
-
-Additional Sumathi Dharma Dharmawardena appearing on behalf of the respondents, Sumathi Dharmawardena has decided to appoint officials for the Sri Lanka Rugby Football Federation.
-
-He said that a committee consisting of three persons including a Rugby Association and a member of the Olympic Committee will be appointed.
-
-He added that the committee is to be approved by the election and the officers will be elected.
-
-After selecting the officers, they have the ability to amend the constitution of the Rugby Federation, Additional Solicitor General.
-
-After the departure of both sides, the petition was ordered after consenting the terms.
-
-◼️
-
-[Data](articles/5b06cbb0.json)
-
-[Extended Data](ext_articles/5b06cbb0.ext.json)
-
----
-
-### Arrested for killing a foster daughter
-
-*2024-12-06 12:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளர்ப்பு-மகளை-கொன்று-மலசல-குழியில்-வீசியவர்-கைது/175-348351) · `ta`
-
-Mother arrested for foster daughter's murder in Gampaha. Body found in sewage pit after disappearance. Second husband suspected.
-
-🟩
-
-Gampaha police said that the mother of the mother of a girl who was allegedly killed in a sewage cavity has been arrested.
-
-Her mother has lodged a complaint at the Gampaha Police Station on Thursday (05) that her daughter has disappeared since the 02nd.
-
-Following the investigation, the police found the body of the girl from the sewage cavity in a house.
-
-Police investigations revealed that the girl's mother's second husband was murdered and threw the body into a sewage cavity.
-
-Subsequently, the suspect's mother's mother's second husband has been arrested by the police.
-
-◼️
-
-[Data](articles/289a2cc3.json)
-
-[Extended Data](ext_articles/289a2cc3.ext.json)
-
----
-
-### Addressing irregularities key to restoring public trust in Sri Lanka’s Excise Dept: President
-
-*2024-12-06 12:05:00* · [`economynextcom`](https://economynext.com/addressing-irregularities-key-to-restoring-public-trust-in-sri-lankas-excise-dept-president-192489/) · `en`
-
-ECONOMYNEXT – Revamping processes, addressing irregularities, and tackling artificial toddy issues were key to restoring public trust in the Excise Department, Sri Lanka’s President Anura Dissanayake has said.
-
-“I instructed the Excise Department to ensure transparency and lawfulness in issuing licenses and tax collection,” Dissanayake said on X after meeting department officials on Thursday.
-
-“Revamping processes, addressing irregularities, and tackling artificial toddy issues are key to restoring public trust and boosting the economy.”
-
-Challenges in collecting excise taxes and the irregularities that arise in the process were discussed at the meeting, the president’s media division said.
-
-The Excise Department is one of the key revenue departments of the government, along with Customs and Inland Revenue.
-
-...
-
-[Data](articles/c64e7c47.json)
-
-[Extended Data](ext_articles/c64e7c47.ext.json)
 
 ---

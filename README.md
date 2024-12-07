@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 06:48:53**
+As of **2024-12-07 08:33:31**
 
 ## Newspaper Stats
 
-*Scraped **58,914** Articles*
+*Scraped **58,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,581
-adaderanalk | 7,152
-tamilmirrorlk | 8,398
+adaderanalk | 7,153
+tamilmirrorlk | 8,402
 virakesarilk | 9,657
 adaderanasinhalalk | 10,175
 
@@ -26,35 +26,159 @@ adaderanasinhalalk | 10,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,910 (100.0%) of 58,914 articles have been extended.
+58,918 (100.0%) of 58,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### ලංකාවේ කාලගුණයට යළිත් බලපෑම්
+### Showery conditions expected to enhance in next few days - Met Dept.
+
+*2024-12-07 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104053/showery-conditions-expected-to-enhance-in-next-few-days-met-dept) · `en`
+
+The Meteorology Department says an easterly wave type disturbance will be affecting the weather conditions in the island in next few days.
+
+Under its influence, showery conditions are expected to enhance in the Northern and Eastern provinces from December 10.
+
+The Northeast monsoon condition also expected to establishing gradually over the island along with above condition.
+
+Meanwhile , several spells of showers will occur in Northern and Eastern provinces, the Met. department said.
+
+Showers or thundershowers may occur at several places in Western, Sabaragamuwa and Southern provinces and in Nuwara-Eliya and Kandy districts during the evening or night.
+
+Misty conditions can be expected in most places of the island during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/4601d382.json)
+
+---
+
+### Rice is not scarce during festivals
+
+*2024-12-07 08:02:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகைக்-காலங்களில்-அரிசிக்கு-தட்டுப்பாடு-ஏற்படாது/175-348367) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka expects imported rice stockpile before 20th. Deputy Minister Namal Karunaratne confirms adequate supply for festivals.
+
+🟩
+
+Deputy Minister of Agriculture and Livestock Namal Karunaratne said that the imported rice stockpile is expected to arrive in Sri Lanka before the 20th of this month.
+
+◼️
+
+[Data](articles/59ed8642.json)
+
+[Extended Data](ext_articles/59ed8642.ext.json)
+
+---
+
+### Long row to buy coconut…
+
+*2024-12-07 07:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-வாங்க-நீண்ட-வரிசை/175-348366) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"A queue forms outside 'Kapthurupaya' coconut shop in Battaramulla. Customers wait patiently to purchase coconuts from the Coconut Council-owned store."
+
+🟩
+
+A group of customers were standing in a long line of buying coconuts at the "Kapthurupaya" shop owned by the Coconut Coconut Council of Battaramulla.
+
+◼️
+
+[Data](articles/be5dc351.json)
+
+[Extended Data](ext_articles/be5dc351.ext.json)
+
+---
+
+### Rain in some areas today
+
+*2024-12-07 07:54:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-இன்று-மழை/175-348365) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Rainfall forecast: Thundershowers expected in Western, Sabaragamuwa, Southern Provinces and Nuwara Eliya, Kandy districts tonight."
+
+🟩
+
+The Department of Meteorology has forecast rainfall in some parts of the country today.
+
+Thundershowers are expected in the Western, Sabaragamuwa and Southern Provinces and Nuwara Eliya and Kandy districts this evening or night.. (A)
+
+◼️
+
+[Data](articles/8bcfc82f.json)
+
+[Extended Data](ext_articles/8bcfc82f.ext.json)
+
+---
+
+### Family killed in river
+
+*2024-12-07 07:49:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆற்றில்-மூழ்கி-குடும்பஸ்தர்-பலி/175-348364) · `ta`
+
+Family tragedy: Father drowns while fishing in reservoir. Local residents conduct search, recover body. Leaves behind two children.
+
+🟩
+
+A family member who was fishing in the airspace of the Vavuniya Reservoir, Vavuniya, was drowned.
+
+Yesterday evening, a man was fishing in the air in the reservoir of the Araru reservoir.
+
+Another person who observed this had informed the people of the town about the incident. Subsequently, the task of searching for the person was carried out by the townspeople.
+
+After a long search, his body was recovered from the water after a few hours.
+
+The father of two children, Guru, from Taranikkulam, has died in the incident. (A)
+
+◼️
+
+[Data](articles/e9691707.json)
+
+[Extended Data](ext_articles/e9691707.ext.json)
+
+---
+
+### Restoration for the weather in Sri Lanka
 
 *2024-12-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204117) · `si`
 
-නැගෙනහිර තරංගාකාර කැලඹිලි ස්වභාවයක් හේතුවෙන් ඉදිරි දිනවලදී දිවයිනේ කාලගුණ තත්ත්වයට බලපෑමක් ඇතිකිරීමේ හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka weather forecast: East wind impact increases rain in North and East from Dec 10. Northeast monsoon expected. Thunderstorms in Western, Sabaragamuwa, Southern provinces and Nuwara Eliya, Kandy districts. Lightning accidents possible.
 
-මෙම බලපෑම හේතුවෙන් දෙසැම්බර් 10වනදා දින සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩි වීමක් අපේක්ෂා කෙරේ.
+🟩
 
-මේ සමග දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වන ඇති බව ද එම දෙපාර්තමේන්තුව බලාපොරොත්තු වේ.
+The Department of Meteorology says that due to the east waiting frustration, the weather in the island will be influenced by the island.
 
-ඒ අනුව උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+Due to this influence, there is an increase in the North and East from December 10.
 
-එමෙන්ම බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවනු ඇත.
+The Department also expects to establish the northeast monsoon system through the island.
 
-කෙසේ නමුත් සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+Accordingly, during the North and East will occur.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+Thundershowers will develop at several places in the Western, Sabaragamuwa and Southern provinces and in the Nuwara Eliya and Kandy districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍ය දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+However, in other areas, there is a rainy weather.
+
+In many parts of the island, there may be a foader situation in the morning.
+
+The Department of Meteorology calls people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/b8b2ee23.json)
+
+[Extended Data](ext_articles/b8b2ee23.ext.json)
 
 ---
 
@@ -161,6 +285,8 @@ As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life�
 ...
 
 [Data](articles/c87e02a1.json)
+
+[Extended Data](ext_articles/c87e02a1.ext.json)
 
 ---
 
@@ -463,6 +589,8 @@ The President made these remarks during a discussion held with senior officials 
 ...
 
 [Data](articles/55b8dca9.json)
+
+[Extended Data](ext_articles/55b8dca9.ext.json)
 
 ---
 
@@ -2347,141 +2475,5 @@ This shows the most powerful earthques from California.
 [Data](articles/b9924bc0.json)
 
 [Extended Data](ext_articles/b9924bc0.ext.json)
-
----
-
-### EBO in Nuwara Eliya. Depot Guard Murder: 9 lakhs of rupees robbery
-
-*2024-12-06 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/200575) · `ta`
-
-Nuwara Eliya depot guard murdered, 9 lakhs stolen. Police investigating attack on security officer.
-
-🟩
-
-Police said that some people had robbed 9 lakhs of rupees after murdering a guard who worked at the Nuwara Eliya, EBS depot.
-
-K. Lokeswaran, 85, from Kalpaya, Nuwara Eliya, who worked as a guard at Depot, died.
-
-Preliminary inquiries revealed that some people had killed the guard and robbed about 9 lakh rupees in the depot of the depot.
-
-It has been revealed that the guard was staying in his security room and that some people had attacked the head with a sharp weapon and robbed money.
-
-The Nuwara Eliya police said that the murder took place during the murder, despite the depot and the cashier was staying in the depot, despite their sleep.
-
-In addition, an official of the Nuwara Eliya Depot said the income from the buses from the Nuwara Eliya Depot yesterday (05) was kept in the cupboard for banking.
-
-◼️
-
-[Data](articles/3a6673b1.json)
-
-[Extended Data](ext_articles/3a6673b1.ext.json)
-
----
-
-### Gopa Chief Opposition will be given to: Bimal
-
-*2024-12-06 13:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-தலைமை-எதிர்க்கட்சிக்கு-வழங்கப்படும்-பிமல்/175-348352) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Opposition leader Bimal Ratnayake named head of State Accounting Committee. Government increases committee members, accommodates six opposition parties. Chief Minister offers opposition chairmanship as compromise.
-
-🟩
-
-The government needs the leadership of the government responsible efforts (COP) to investigate the last government's actions. At the same time, the Chief Minister and Minister of the Council, Bimal Ratnayake, said that the Leadership of the State Accounting Committee (Copa) will be given to the opposition.
-
-He said this during the controversy over the number of members of the Parliamentary Committee on Friday (06) in Parliament.
-
-The parties representing the opposition to increase the number of members of the Committee on Parliamentary Affairs, but we are agreed to increase the current number of members.
-
-Six of the opposition parties have been accommodated to represent the Parliamentary Affairs Committee.
-
-Opposition Leader and Opposition Prime Minister Korata officially appeared in it.
-
-In response to this, the CM responded that all parties cannot be represented in the Parliamentary Affairs Committee. Thus they can accommodate their representation in other important groups in Parliament.
-
-...
-
-[Data](articles/bfce9023.json)
-
-[Extended Data](ext_articles/bfce9023.ext.json)
-
----
-
-### Tipped tipper vehicle not resistant
-
-*2024-12-06 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204095) · `si`
-
-Tipper vehicle overturns on Puttalam-Anuradhapura road. Overloaded, lost control, driver & assistant injured. Rushed to Nochchiyagama hospital.
-
-🟩
-
-A tipper who was loaded with a stock of staff near the Puttalam-Anuradhapura-Anuradhapura main road.
-
-A tipper was being taken to Puttalam to Puttalam.
-
-It has been reported that the tipper loads of tipper beyond the limits and cannot control speed.
-
-The driver and the assistant have been injured and rushed to the Nochchiyagama hospital.
-
-◼️
-
-[Data](articles/6abcbea9.json)
-
-[Extended Data](ext_articles/6abcbea9.ext.json)
-
----
-
-### US Assistant Secretary to South and Central Asian Affairs Donald Lu - Foreign Minister Vijitha Herath meets
-
-*2024-12-06 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200569) · `ta`
-
-Donald Lu, US Assistant Secretary for South & Central Asian Affairs, met Sri Lankan Foreign Minister Vijitha Herath. They discussed cooperation on economic reforms, skills development, and technical assistance to benefit Sri Lanka's people.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu met Foreign Minister Vijitha Herath.
-
-US Ambassador to Sri Lanka, Julie Sung, posted on his X page
-
-Representing the USAID and the US Treasury Department, which played a key role in Sri Lanka's rescue, Donald Lu, the Assistant Secretary of the United States for South and Central Asian Affairs, met with the Sri Lankan Foreign Minister.
-
-We congratulated the new government of Sri Lanka and discussed the common issues. He also stated that we can work together through the projects, skills development and technical assistance that will support economic and administrative reforms for the welfare of the people of Sri Lanka.
-
-◼️
-
-[Data](articles/b987adc2.json)
-
-[Extended Data](ext_articles/b987adc2.ext.json)
-
----
-
-### Four people arrested after accident
-
-*2024-12-06 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200566) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"4 arrested after motorcycle crash in Ratmalana. Driver (24) & 3 passengers (19, 20, 26) from Udugamuwa, Udugampola, Kitulkala. Police investigation reveals driver was drunk."
-
-🟩
-
-Four suspects have been arrested by the police after a motorcycle collided with a motorcycle in Ratmalana area.
-
-Police said the suspects had been arrested on a motorbike and arrested the suspects.
-
-The driver of a 24 -year -old car in Udugamuwa area and three men aged 19, 20 and 26 in Udugampola and Kitulkala areas have been arrested, police said.
-
-Investigations carried out by the driver of the arrested car revealed that he had been drinking during the accident.
-
-◼️
-
-[Data](articles/bbeac26d.json)
-
-[Extended Data](ext_articles/bbeac26d.ext.json)
 
 ---

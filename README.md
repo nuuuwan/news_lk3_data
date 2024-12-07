@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 14:15:38**
+As of **2024-12-07 13:42:41**
 
 ## Newspaper Stats
 
-*Scraped **58,946** Articles*
+*Scraped **58,942** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 446
-colombotelegraphcom | 600
+colombotelegraphcom | 598
 bbccomsinhala | 617
 islandlk | 3,540
 economynextcom | 3,587
@@ -20,125 +20,55 @@ adalk | 5,586
 adaderanalk | 7,158
 tamilmirrorlk | 8,404
 virakesarilk | 9,659
-adaderanasinhalalk | 10,183
+adaderanasinhalalk | 10,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,944 (100.0%) of 58,946 articles have been extended.
+58,939 (100.0%) of 58,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### Lohan is taken to court
-
-*2024-12-07 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204128) · `si`
-
-Former State Minister Lohan Ratwatte arrested for drunk driving after car accident. Released on bail, faces charges related to the incident.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was arrested in connection with the injuries and was taken to the Chief Magistrate's Court today (7).
-
-Former State Minister Lohan Ratwatte, who was released on bail, was on a car hit the jeep at the Kollupitiya juncture yesterday (6).
-
-Investigations carried out on the accident have been revealed that Mr. Lohan Ratwatte has driven drunk at investigations into the accident.
-
-Accordingly, the police were taken to arrest him on charges of driving drunk and accidentally driven.
-
-◼️
-
-[Data](articles/4a3c0ed7.json)
-
-[Extended Data](ext_articles/4a3c0ed7.ext.json)
-
----
-
-### The final decision on electricity tariff revision
-
-*2024-12-07 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204126) · `si`
-
-Electricity tariff revision delayed due to protests. CEB proposes 6-11% reduction. Public Utilities Commission to announce decision by Jan 3rd.
-
-🟩
-
-A large number of parties protests to inform the Ceylon Electricity Board (CEB) to inform the Ceylon Electricity Board (CEB) to run the electricity tariff to the next six months.
-
-They point out that the authorities should explain why they are not given to the benefit of the rain in the backdrop of the rain.
-
-The electricity tariff is reduced to the policy of revision of the electricity tariffs every three months.
-
-The electricity tariffs were to be revised in October, but it was time to December.
-
-The Public Utilities Commission has rejected the Ceylon Electricity Board by 6% to 11%.
-
-According to the situation, the higher the electricity tariffs can be reduced in a percentage.
-
-The proposal that the Ceylon Electricity Board (PEFA) has again presented to the Public Ceylon Institute yesterday, it was not to be maintained without the next six months.
-
-...
-
-[Data](articles/02576d83.json)
-
-[Extended Data](ext_articles/02576d83.ext.json)
-
----
-
-### Drah and Lara's lion littings of Risera
+### රිදියගම හැඩකරන ඩෝරා සහ ලාරාගේ සිංහ පැටව්
 
 *2024-12-07 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204125) · `si`
 
-Here's a summary of 200 characters:
+හම්බන්තොට රිදියගම සෆාරි උද්‍යානයට අලුතෙන් සිංහ පැටව් 6 දෙනෙකු මේ වනවිට එක්ව තිබේ.
 
+ඒ එම සෆාරී උද්‍යානයේ සිංහ ධේනුවන් දෙදෙනෙකු පැටව් තුන් දෙනා බැගින් බිහි කිරීමත් සමග.
 
+මෙලෙස පැවව් බිහිකර ඇත්තේ ලාරා සිංහ සහ ඇගේ දියණිය ඩෝරා වන අතර, පැටව්න්ගේ වයස මසකට වැඩි බව සෆාරි උදානයේ නිලධාරින් පවසයි.
 
-New lion cubs born at Ridiyagama safari park. Six healthy cubs, including Dora and Lara, expected to be exhibited publicly soon.
+කෙසේ වෙතත් ලාරා සිංහ ධේනුව ඩෝරාට කිරිදීම ප්‍රතික්ෂේප කර ඇති අතර, ඒ හේතුවෙන් සත්ත්ව උද්‍යානයේ නිලධාරීට ඇයට කෘතිමව කිරි ලබා දී රැකබලා ගැනීමට සිදුවිය.
 
-🟩
+එහෙත් ඩෝරා ධේනුව, ලාරා මෙන් සිය පැටව්ට කිරි ලබාදීම ප්‍රතික්ෂේප නොකර පැටව් රැකගැනීම විශේෂත්වයක්ය.
 
-Six new lions have been participating at the Ridiyagama safari park in Hambantota.
-
-With each of the lion and two lion groups in that safari park.
-
-Safari Lariya Lion and her daughter are Dora, and the Safari Udayanayake officials say they are more than a month old.
-
-However, Lara has refused to drink the Dhora to dora, and the officer of the animal has to milk and sheltered her milk and care.
-
-But the Dora Kolley is a specialty of protecting the litter without refusing to milk milking as Lara.
-
-The six licenses are currently healthy in the Sapphati Park and will be released in a separate zone for public exhibition in the next few weeks.
+මේ වනවිට මෙම සිංහ පැටවුන් 6 දෙනා සෆාරී උද්‍යානය තුළ ඉතා සෞඛ්‍ය සම්පන්නව කල් ගෙවන අතර, ඉදිරි සති කිහිපයේදී මහජන ප්‍රදර්ශනය සඳහා වෙනම කලාපයකට මුදාහරින බව ද සෆාරි උදානයේ නිලධාරියෙකු පැවසීය.
 
 ◼️
 
 [Data](articles/6562f8f9.json)
 
-[Extended Data](ext_articles/6562f8f9.ext.json)
-
 ---
 
-### Customs officials discovered illegal imported luxury car
+### சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட சொகுசு கார் சுங்க அதிகாரிகளால் கண்டுபிடிப்பு!
 
 *2024-12-07 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200643) · `ta`
 
-Sri Lanka customs seizes 24m rupee Toyota Prius smuggled from Japan. Additionally, 200 vehicle parts imported over past two months displayed to media.
+சட்டவிரோதமாக இலங்கைக்கு இறக்குமதி செய்யப்பட்ட சொகுசு கார் ஒன்று சுங்க வருமான கண்காணிப்புப் பிரிவினரால் கைப்பற்றப்பட்டுள்ளது.
 
-🟩
+சுமார் 24 மில்லியன் ரூபா பெறுமதியான Toyota Prius ரக சொகுசு கார் ஒன்றே கைப்பற்றப்பட்டுள்ளது.
 
-A luxury car illegally imported to Sri Lanka has been seized by the Customs Monitoring Unit.
+ஜப்பானில் இருந்து இலங்கைக்கு இறக்குமதி செய்யப்பட்ட கன்டெய்னரில் இருந்து இந்த கார் கண்டுபிடிக்கப்பட்டுள்ளது.
 
-About 24 million rupees worth of Toyota Prius has been seized.
-
-The car has been discovered from Japan imported from Japan to Sri Lanka.
-
-In addition, 200 vehicle spare parts imported to Sri Lanka in the last two months were displayed to the media today (07) by the Customs Income Monitoring Unit.
+அத்துடன், கடந்த இரண்டு மாதங்களில் சட்டவிரோதமாக இலங்கைக்கு இறக்குமதி செய்யப்பட்ட 200 வாகன உதிரிப்பாகங்கள் சுங்க வருமான கண்காணிப்பு பிரிவினரால் இன்று சனிக்கிழமை (07) ஊடகங்களுக்கு காட்சிப்படுத்தப்பட்டன.
 
 ◼️
 
 [Data](articles/81671609.json)
-
-[Extended Data](ext_articles/81671609.ext.json)
 
 ---
 
@@ -184,27 +114,21 @@ The deceased, aged 37 and 42, were residents of Nehinna and Neboda areas. Their 
 
 ---
 
-### Here is the difference in the weather from the 10th
+### ලබන 10 වැනිදා සිට කාලගුණයේ සිදුවන වෙනස මෙන්න
 
 *2024-12-07 11:22:45* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-10-වැනිදා-සිට-කාලගුණයේ-සිදුවන-වෙනස-මෙන්න/11-413503) · `si`
 
-Weather forecast: Rain increase in North and East from 10th. Northeast monsoon expected. Dry conditions in West, Sabaragamuwa, South, Nuwara Eliya, Kandy at night.
+නැගෙනහිර තරංගාකාර කැළඹිලි ස්වභාවය ඉදිරි දිනවලදී දිවයිනේ කාලගුණ තත්ත්වය කෙරෙහි බලපෑම් ඇති කිරීමේ හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
 
-🟩
+ඒ හේතුවෙන් ලබන 10වැන්දා සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බවද එහි සඳහන් කර ඇත.
 
-The Department of Meteorology announces that the east waiting clutter nature of the island in the near future.
+එමෙන්ම මෙම තත්ත්වයත් සමග දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වනු ඇති බවට බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
 
-As a result, a rain will be an increase in the North and the East from the 10 wanks.
-
-The Department of Meteorology states that although this situation is expected to establish the northeast monsoon.
-
-Meanwhile, the Western, Sabaragamuwa and Southern provinces, in the Western, Sabaragamuwa and Southern provinces and in the Nuwara Eliya and Kandy districts can be held at night.
+මේ අතර අද (07දා) බස්නාහිර, සබරගමුව සහ දකුණු පළාත් වලත් නුවරඑළිය සහ  මහනුවර දිස්ත්‍රික්ක වලත් සවස් කාලයේදී  හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේදනය කර සිටියේය.
 
 ◼️
 
 [Data](articles/f8cd9374.json)
-
-[Extended Data](ext_articles/f8cd9374.ext.json)
 
 ---
 
@@ -536,18 +460,6 @@ An analysis of the data showed that there were bad loans dating back over 5 year
 
 ---
 
-### The Future Of The Corporate World Lies In Humanity
-
-*2024-12-07 08:28:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-future-of-the-corporate-world-lies-in-humanity/) · `en`
-
-The corporate world has long been shaped by principles like productivity, efficiency, profitability, and growth. Since World War II, these concepts, alongside the demand-supply equation, have defined business success. In recent decades, sustainability emerged as a buzzword, often more of a public relations effort than a genuine shift in priorities. However, as humanity faces pressing challenges—climate change, social inequality, and mental health crises—the corporate world’s future hinges on embracing a fundamentally different approach: a genuine commitment to humanity.
-
-...
-
-[Data](articles/21dc4839.json)
-
----
-
 ### South Korean president apologizes, saying he won’t shirk responsibility for attempt at martial law
 
 *2024-12-07 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104054/south-korean-president-apologizes-saying-he-wont-shirk-responsibility-for-attempt-at-martial-law) · `en`
@@ -611,20 +523,6 @@ Minister Sunil Handunnetti made this statement participating at a function in Co
 [Data](articles/4ccf4a91.json)
 
 [Extended Data](ext_articles/4ccf4a91.ext.json)
-
----
-
-### Be Very Careful Buying Air Conditioners From Abans In Sri Lanka
-
-*2024-12-07 08:11:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/be-very-careful-buying-air-conditioners-from-abans-in-sri-lanka/) · `en`
-
-About a week ago, myself and my visited an ABANS showroom near Battaramulla , shopping for a split air conditioner for our home. A very friendly sales associate /manager approached us and pushed us to buy a 12000 BTU for over Rs 250,000.00. We noticed his eagerness to sell the LG brand and wanted to enquire and other and cheaper brands. Perhaps the pricier LG’s were not selling.,.
-
-Reluctantly he showed us the Chinese brand Haier units that were over Rs 50,000 cheaper at Rs, 199,000.00 for a 120000 BTU split AC. He explained to us that the Haier unit had one year full warranty and a 5 year compressor warranty.  He did ask us the size of the room and based on my experience with AC’s in SL for several decades, I opted for a 12000 BTU unit meant for just one room.
-
-...
-
-[Data](articles/be9a2519.json)
 
 ---
 
@@ -2461,5 +2359,109 @@ A bond maturing on 15.05.2030 closed at 11.00/20 percent. (Colombo/Dec6/2024)
 [Data](articles/3a50e639.json)
 
 [Extended Data](ext_articles/3a50e639.ext.json)
+
+---
+
+### Interim order issued against increasing liquor license fees
+
+*2024-12-06 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104045/interim-order-issued-against-increasing-liquor-license-fees) · `en`
+
+The Supreme Court has issued an interim injunction order preventing the implementation of a Gazette notification issued by the previous government to increase the  annual fee for liquor licenses.
+
+The three-judge bench, comprising Justices A.H.M.D. Nawaz, Kumuduni Wickramasinghe, and Priyantha Fernando, issued this order while granting leave to proceed with the fundamental rights petition filed by the Sri Lanka Liquor Licensees’ Association.
+
+The petition, which names the Secretary to the Ministry of Finance and several others as respondents, argues that increasing the annual fee to Rs. 20 million, stipulated in the 2024/1 gazette notification, causes severe injustice to license holders and constitutes a violation of their fundamental rights.
+
+The petitioners requested the court to issue a directive to relevant authorities to revert to the fee structure back to the one outlined in the 2017 Gazette notification.
+
+◼️
+
+[Data](articles/4af66725.json)
+
+[Extended Data](ext_articles/4af66725.ext.json)
+
+---
+
+### The new government is not the pruning of occupational rights
+
+*2024-12-06 16:23:07* · [`adalk`](https://www.ada.lk/breaking_news/වෘත්තීය-අයිතිවාසිකම්-කප්පාදු-කිරීම-නව-රජයේ-ප්‍රතිපත්තිය-නොවෙයි/11-413495) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+New govt not against occupational rights: Health & Mass Media Minister Dr. Nalinda Jayatissa engages with trade unions, addresses healthcare issues, seeks quality care for Sri Lankans.
+
+🟩
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa said that the new government is not the policy of the trade unions and to suppress professional rights.
+
+The Minister of Health and the Minister of Media had commented on the commentary of the health service after his duties were commenced in his post, the trade unions have the comment, proposal and contribution to the health of the health care..
+
+Public Medical Officers Association (GMOA), GMOA,, and All Ceylon Nursing Officers Association (GDSA), Public Service Association (GDSA), Public Service United Nursing AssociationThe Minister was conducting a series of discussions with several major trade unions in the health sector, including the Government Nursing Officers Association (GNAA).
+
+The Minister held a series of negotiations with the trade union representatives representing the center of the All Ceylon Family Medical Professionals of the All Ceylon Family Medical Professionals of the All Ceylon Health Service Union.
+
+...
+
+[Data](articles/41e45bd6.json)
+
+[Extended Data](ext_articles/41e45bd6.ext.json)
+
+---
+
+### Spanish woman attacked a tourist
+
+*2024-12-06 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/200580) · `ta`
+
+Spanish tourist attacked on train, 2 arrested, remanded until 18th. Victim recovered stolen phone from police. Incident occurred between Hatton and Vattawala.
+
+🟩
+
+Two persons were arrested by the police for allegedly attacking a foreign woman who was traveling on a train from Colombo Fort to Badulla to Badulla.
+
+After the hearing, the Hatton Magistrate's Court has ordered the two suspects to be remanded until the 18th of this month when the two suspects were produced before the Hatton Magistrate's Court.
+
+Two of the 23 and 26 years of age from Rosella and Wickton, which belongs to the Vattawala Police Division, have been detained.
+
+A 36 -year -old Spanish tourist who was traveling from Colombo Fort to Ella on Wednesday (4)
+
+The woman has lodged a complaint with Ella Tourism Police that two youths standing on the road, near the railway line, have hit her hand with a stick and that her mobile phone worth Rs 5 lakh has fallen down.
+
+The incident between Hatton and Vattawala was reported to the Vattawala police about the incident.
+
+Subsequently, the police, who were investigating, arrested the two suspects on the night of the incident.
+
+...
+
+[Data](articles/7189d1b8.json)
+
+[Extended Data](ext_articles/7189d1b8.ext.json)
+
+---
+
+### Sri Lanka stocks close up, momentum continues
+
+*2024-12-06 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-momentum-continues-118572/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 0.40 percent, or 53.96 points, at 13,613; while the more liquid S&P SL20 Index closed up 0.41 percent, or 16.54 points, at 4,069.
+
+Turnover was 4.9 billion. Major contributing sectors were food beverage and tobacco (Rs1.36bn), capital goods (Rs1.13bn) and diversified financials sectors (Rs1.14bn).
+
+“Market is moving upward broadly due to expectations, with the momentum continuing,” market participants said.
+
+“After the vote on accounts was passed, the perception is that everything is progressing positively.”
+
+Large volumes were traded in HNB Finance (down at 4.20), Agarapatana Plantations (up at 10.6), Kotagala Plantations (up at 8.60), John Keells Hotels (down at 20.70), Access Engineering (up at 31.20).
+
+“Rubber prices and palm oil prices have appreciated, so investors are probably expecting better profits ahead.”
+
+...
+
+[Data](articles/29b4ecda.json)
+
+[Extended Data](ext_articles/29b4ecda.ext.json)
 
 ---

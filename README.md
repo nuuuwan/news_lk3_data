@@ -1,36 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 08:33:31**
+As of **2024-12-07 09:19:35**
 
 ## Newspaper Stats
 
-*Scraped **58,919** Articles*
+*Scraped **58,924** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 598
-bbccomsinhala | 616
+bbccomsinhala | 617
 islandlk | 3,540
 economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,581
-adaderanalk | 7,153
+adaderanalk | 7,155
 tamilmirrorlk | 8,402
 virakesarilk | 9,657
-adaderanasinhalalk | 10,175
+adaderanasinhalalk | 10,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,918 (100.0%) of 58,919 articles have been extended.
+58,922 (100.0%) of 58,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Minister proposes providing sewn school uniforms to students
+
+*2024-12-07 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104055/minister-proposes-providing-sewn-school-uniforms-to-students) · `en`
+
+Minister of Industries and Entrepreneurship Development, Sunil Hadunnetti, announced plans to provide sewn school uniforms to students in the future in order to minimize wastage in uniform distribution.
+
+Speaking at a ceremony held in Colombo, the Minister emphasized the benefits of this approach, stating it would address inefficiencies and reduce unnecessary waste often associated with the current system.
+
+◼️
+
+[Data](articles/c7aa3b9d.json)
+
+---
+
+### South Korean president apologizes, saying he won’t shirk responsibility for attempt at martial law
+
+*2024-12-07 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104054/south-korean-president-apologizes-saying-he-wont-shirk-responsibility-for-attempt-at-martial-law) · `en`
+
+South Korea’s president apologized Saturday for public anxiety caused by his short-lived attempt to impose martial law earlier this week hours ahead of a parliamentary vote on impeaching him.
+
+Yoon said in a brief televised address Saturday morning he won’t shirk legal or political responsibility for the declaration and promised not to make another attempt to impose it. He said he would leave it to his conservative political party to chart a course through the country’s political turmoil, “including matters related to my term in office.”
+
+South Korean lawmakers are set to vote later Saturday on impeaching President Yoon Suk Yeol over his short-lived attempt to impose martial law, as protests grew nationwide calling for his removal.
+
+...
+
+[Data](articles/eb8731f7.json)
+
+---
 
 ### Showery conditions expected to enhance in next few days - Met Dept.
 
@@ -53,6 +83,30 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/4601d382.json)
+
+[Extended Data](ext_articles/4601d382.ext.json)
+
+---
+
+### How to give school uniforms
+
+*2024-12-07 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204119) · `si`
+
+School uniforms distribution strategy: Minister Sunil Handunnetti proposes giving them in courtyards to reduce waste. This initiative was announced during an event in Colombo.
+
+🟩
+
+Industry and Entrepreneurship Development Minister Sunil Handunnetti says that school uniforms will be given in the courtyard.
+
+He said that this could reduce the waste of school uniforms.
+
+Minister Sunil Handunnetti made this statement participating at a function in Colombo.
+
+◼️
+
+[Data](articles/4ccf4a91.json)
+
+[Extended Data](ext_articles/4ccf4a91.ext.json)
 
 ---
 
@@ -150,6 +204,44 @@ The father of two children, Guru, from Taranikkulam, has died in the incident. (
 
 ---
 
+### There are many information about the murder of daughter
+
+*2024-12-07 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204118) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Murder case: 14-year-old girl found dead in toilet. Police investigation reveals husband as suspect. Body discovered at Gampaha hospital morgue. Husband remanded on 06.12.2012.
+
+🟩
+
+Police have already revealed a number of matters to the toilets of the body of a 14-year-old girl in Matale.
+
+A mother complained to the Gampaha Police Station, the 14-year-old daughter was missing.
+
+The murder of the police have been identified as the investigation was started.
+
+The complainant mother had been temporarily occupied by a three storied house in Markayura, along with his second marriage husband and daughter.
+
+He is also a mason and the plaintiff work a job in the Ekala area.
+
+When her husband and daughter was home to work in the morning and dawn to work in the morning and returned home while her husband and daughter was home on 02.
+
+There he will not come to a picnic with family members of his daughter and informed the next day.
+
+Due to the absence of the house from 05.12.2012, the two had been disrupted, and a complaint has been lodged with the police station.
+
+The husband has been suspected of disappearance of her husband.
+
+...
+
+[Data](articles/1e3fea86.json)
+
+[Extended Data](ext_articles/1e3fea86.ext.json)
+
+---
+
 ### Restoration for the weather in Sri Lanka
 
 *2024-12-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204117) · `si`
@@ -179,6 +271,44 @@ The Department of Meteorology calls people to take necessary steps to reduce tem
 [Data](articles/b8b2ee23.json)
 
 [Extended Data](ext_articles/b8b2ee23.ext.json)
+
+---
+
+### HOSLETS TAKES TO DATING AP: How did the romantic meet change?
+
+*2024-12-07 03:12:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c14l2vn55x7o) · `si`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Romantic meeting methods have evolved significantly in Sri Lanka. From letter-writing to social media dating apps, technology has transformed how people connect. Online dating platforms like Tinder and Bumble are now popular, offering more choices and convenient communication. The COVID-19 pandemic accelerated this trend, with many preferring virtual meetings over physical ones due to safety concerns and busy lifestyles.
+
+🟩
+
+HOSLETS TAKES TO DATING AP: How did the romantic meet change?
+
+'You think I can find someone to find someone to go to a goat?'
+
+This Reddit has asked the Sri Lanka Sab Redt Group. He was asked if he was revicted with the identification of a young girl through social media.
+
+In response, one had noted that Dietin inputs such as Tinder were already used in Sri Lanka and to try to identify a girl through Facebook.
+
+In another answer, said: "Just forget about social media, and call a girl,"
+
+Take care of your sexual partner naked photo, videos
+
+Datin, or two people have been subjected to many decades in Sri Lanka, like Sri Lanka, as well as in the world.
+
+With the development of technology, the romantic cell culture has changed with the gap between generations and time.
+
+Piyal in the novel, Piyal said he had the comments on Nanda writing by writing. He hid those letters to the letters to read the books, and the naitha read them and hid them in the cupboard.
+
+...
+
+[Data](articles/4667569e.json)
+
+[Extended Data](ext_articles/4667569e.ext.json)
 
 ---
 
@@ -2361,119 +2491,5 @@ In addition, the petition has been requested to issue an order to be charged by 
 [Data](articles/afc6ce12.json)
 
 [Extended Data](ext_articles/afc6ce12.ext.json)
-
----
-
-### Historical text in Parliament
-
-*2024-12-06 14:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-வரலாற்று-உரை/175-348353) · `ta`
-
-Sri Lanka's Parliament: Transgender member elected, first in 76 years. National List MP addresses hopes for change.
-
-🟩
-
-Sri Lanka's alternative to the first parliamentarian Sukat Wasantha de Silva addressed the Parliament on Friday (06). He was appointed as a National List Member of the National People's Power Government.
-
-In his first parliamentary speech, he said that after 76 years, a transgender person has been appointed to the Sri Lanka Parliament.
-
-He expressed his hope that he could prove a change with a state -owned parliamentarian.
-
-◼️
-
-[Data](articles/befa027f.json)
-
-[Extended Data](ext_articles/befa027f.ext.json)
-
----
-
-### Sri Lanka youths seeking Asian crude
-
-*2024-12-06 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204097) · `si`
-
-Sri Lanka youth cricket team lost to India in UAE Asian Cup semi-finals. Sri Lanka scored 173 runs, India scored 174 runs.
-
-🟩
-
-The Asian Cups of the United Arab Emirates began today (6).
-
-Sri Lanka scored 173 runs in the second semi-final match against India.
-
-Accordingly, the Indian team won 174 runs.
-
-◼️
-
-[Data](articles/0b966a62.json)
-
-[Extended Data](ext_articles/0b966a62.ext.json)
-
----
-
-### US diplomat Donald Lu discusses programs, technical assistance with Sri Lanka
-
-*2024-12-06 13:35:00* · [`economynextcom`](https://economynext.com/us-diplomat-donald-lu-discusses-programs-technical-assistance-with-sri-lanka-118579/) · `en`
-
-ECONOMYNEXT – US diplomat Donald Lu has met Sri Lanka’s Foreign Minister Vijitha Herath to discuss tailored programs, capacity-building, and technical assistance.
-
-The delegation led by Lu, who is the Assistant Secretary of the US Bureau Of South And Central Asian Affairs, discussed shared priorities with Sri Lanka’s new administration, US ambassador Julie Chung said.
-
-“And explored ways we can work together through tailored programs, capacity-building, and technical assistance to support Sri Lanka’s economic and governance reforms to benefit the Sri Lankan people.” (Colombo/Dec6/2024)
-
-◼️
-
-[Data](articles/357b82f3.json)
-
-[Extended Data](ext_articles/357b82f3.ext.json)
-
----
-
-### US Assistant Secretary Donald Lu calls on Sri Lanka’s foreign minister
-
-*2024-12-06 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104042/us-assistant-secretary-donald-lu-calls-on-sri-lankas-foreign-minister) · `en`
-
-A U.S. delegation led by Assistant Secretary of State for the Bureau of South and Central Asian Affairs (SCA), Donald Lu, met with Sri Lanka’s Foreign Minister, Vijitha Herath today (06).
-
-The delegation included representatives of key agencies such as the United States Agency for International Development (USAID) and the U.S. Department of Treasury, which have played integral roles in Sri Lanka’s economic recovery.
-
-“We congratulated Sri Lanka’s new administration and discussed shared priorities, and explored ways we can work together through tailored programs, capacity-building, and technical assistance to support Sri Lanka’s economic and governance reforms to benefit the Sri Lankan people,” U.S. Ambassador to Sri Lanka, Julie Chung said in a post on ‘X’ (formerly Twitter).
-
-The delegation also included the USAID Deputy Assistant Administrator Anjali Kaur and Deputy Assistant Secretary of the US Department of the Treasury, Robert Kaproth.
-
-...
-
-[Data](articles/9c1bd7ff.json)
-
-[Extended Data](ext_articles/9c1bd7ff.ext.json)
-
----
-
-### A powerful earthquake to the state of California
-
-*2024-12-06 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204096) · `si`
-
-Powerful 7.0 magnitude earthquake strikes off California coast. Tsunami warnings issued for 5 million people, prompting evacuations. No casualties reported, but 10,000 without power. Warnings later lifted after two hours. Minor property damage observed.
-
-🟩
-
-The state of California in the United States has a strong devotion of 7.0 units of the Richter's thumb.
-
-The imperative of this earthquake was in the sea of ​​Fergene, California.
-
-Tsunami warnings were issued to about 5 million people.
-
-The people were removed from the coastal towns, and an urgent situation announced in the state.
-
-However, after two hours of the bunch of tsunami, tsunami warnings have been removed.
-
-It is reported that no casualties have been reported from the earthquake, but it is only very small property damage.
-
-However, about 10,000 people have faced a power outage.
-
-This shows the most powerful earthques from California.
-
-◼️
-
-[Data](articles/b9924bc0.json)
-
-[Extended Data](ext_articles/b9924bc0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 14:42:15**
+As of **2024-12-07 15:00:58**
 
 ## Newspaper Stats
 
-*Scraped **58,947** Articles*
+*Scraped **58,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,587
-adaderanalk | 7,158
+adaderanalk | 7,160
 tamilmirrorlk | 8,404
 virakesarilk | 9,659
 adaderanasinhalalk | 10,183
@@ -26,11 +26,49 @@ adaderanasinhalalk | 10,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,947 (100.0%) of 58,947 articles have been extended.
+58,947 (100.0%) of 58,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Former state minister Lohan Ratwatte remanded
+
+*2024-12-07 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104061/former-state-minister-lohan-ratwatte-remanded) · `en`
+
+Former State Minister Lohan Ratwatte, who was arrested yesterday for causing a road accident while driving under the influence of alcohol, has been remanded until December 09 after being produced before the Colombo Chief Magistrate’s Court today (7).
+
+Ratwatte, who was released on bail on December 5 in a separate case, was returning from a relative’s house yesterday (06) when his Defender collided with another vehicle near the Kollupitiya Junction.
+
+Following a complaint made to the Kollupitiya Police regarding the accident, investigations confirmed that he was under the influence of alcohol at the time, leading to his arrest on charges of causing an accident while intoxicated.
+
+Accordingly, the police arrested Ratwatte on charges of causing an accident while driving under the influence of alcohol.
+
+...
+
+[Data](articles/8c8264ed.json)
+
+---
+
+### CEB slammed over proposal not to revise electricity tariffs
+
+*2024-12-07 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104060/ceb-slammed-over-proposal-not-to-revise-electricity-tariffs) · `en`
+
+Numerous parties have voiced strong opposition to the Ceylon Electricity Board’s (CEB) recent proposal to the Public Utilities Commission of Sri Lanka (PUCSL) to maintain the existing electricity tariffs without any revision for the next six months.
+
+Critics argue that authorities must justify why the public is not benefiting from the increased hydroelectric power generation, which has surged following heavy rainfall across the country.
+
+Earlier this year, electricity tariffs were reduced twice under the policy of revising rates quarterly—by 21.9% in March and 22.5% in July. Although another revision was due in October, it was postponed to December.
+
+The PUCSL recently rejected a CEB proposal to reduce rates by 6% to 11%, asserting that a more significant reduction was possible given current conditions.
+
+The CEB’s latest proposal suggests no reductions for the next six months, citing that any possible adjustment would be as minimal as 1.02%.
+
+...
+
+[Data](articles/dfb2e48f.json)
+
+---
 
 ### Lohan is taken to court
 
@@ -2423,49 +2461,5 @@ Because the last governments have been on the same day. We made a decision last 
 [Data](articles/08b8b5bc.json)
 
 [Extended Data](ext_articles/08b8b5bc.ext.json)
-
----
-
-### Kerala cannabis worth over Rs. 18 mln found adrift off Delft
-
-*2024-12-06 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104046/kerala-cannabis-worth-over-rs-18-mln-found-adrift-off-delft) · `en`
-
-The Sri Lanka Navy has seized approximately 45.5 kg of Kerala cannabis found adrift in the waters during a special operation conducted in the sea area near Delft Island, Jaffna.
-
-The operation was carried out by SLNS Wasabha of the Northern Naval Command, deploying an Inshore Patrol Craft, last night (05).
-
-During the operation, naval personnel discovered two suspicious polythene sacks drifting in the Delft sea area. Upon inspection, the sacks were found to contain approximately 45.5 kg of Kerala cannabis packed into 20 parcels, the Navy said.
-
-It is suspected that smugglers may have abandoned the consignment of Kerala cannabis due to the Navy’s persistent operations, which likely hindered their efforts to bring the contraband ashore, the Sri Lanka Navy said.
-
-The gross street value of the seized Kerala cannabis is estimated to be over Rs. 18 million.
-
-...
-
-[Data](articles/6e67b098.json)
-
-[Extended Data](ext_articles/6e67b098.ext.json)
-
----
-
-### Sri Lanka’s Asia Asset Finance to raise Rs2bn in debentures
-
-*2024-12-06 16:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-to-raise-rs2bn-in-debentures-118488/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Asia Asset Finance said it plans to raise up to 2 billion rupees through an issue of 20 million debentures at 100 rupees each.
-
-The finance company said it will initially issue 10 million listed, rated, unsecured, senior, redeemable, 3-year (2024/2027) and 5-year (2024/2029) debentures to raise 1 billion rupees.
-
-“With an option to issue up to a further 10 million of the said debentures in the event of an oversubscription of the initial tranche to raise up to a maximum of Sri Lankan rupees two billion,” the bank said in a stock exchange filing.
-
-The Colombo Stock Exchange has approved the listing of the debt securities in principle.
-
-Capital Alliance Partners Limited are managers to the issue. (Colombo/Dec6/2024)
-
-◼️
-
-[Data](articles/1ac62cfb.json)
-
-[Extended Data](ext_articles/1ac62cfb.ext.json)
 
 ---

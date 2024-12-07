@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 18:50:45**
+As of **2024-12-07 19:03:05**
 
 ## Newspaper Stats
 
-*Scraped **58,966** Articles*
+*Scraped **58,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,587
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
-adaderanalk | 7,162
+adaderanalk | 7,163
 tamilmirrorlk | 8,409
 virakesarilk | 9,659
-adaderanasinhalalk | 10,191
+adaderanasinhalalk | 10,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,966 (100.0%) of 58,966 articles have been extended.
+58,966 (100.0%) of 58,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### දකුණු කොරියානු ජනපති පුටුව රැකගනී
+
+*2024-12-07 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204139) · `si`
+
+දකුණු කොරියානු ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව විපක්ෂය ගෙනආ දෝෂාභියෝගය අද (07) එරට පාර්ලිමේන්තුවේදී පරාජයට පත්වුණි.
+
+දකුණු කොරියානු විපක්ෂය එරට ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව දෝෂාභියෝගයක් ගෙන ආවේ ජනාධිපතිවරයා පසුගිය අඟහරුවාදා රාත්‍රීයේ දී හදිසියේ හමුදා නීතිය පැනවීමේ සිදුවීම මුල් කරගනිමිනි.
+
+දෝෂාභියෝගය සම්මත කරගැනීමට නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතරයකින් සම්මත විය යුතු වන අතර ඒ අනුව මන්ත්‍රීවරු 200 දෙනෙකු යෝජනාව සඳහා අනුමැතිය ලබාදීම සිදුකළ යුතු බව සඳහන්ය.
+
+විපක්ෂ මන්ත්‍රීවරුන් 192කුගෙන් සමන්විත වන අතර දෝෂාභියෝගය ජයග්‍රහණය කිරීමට නම් ඔවුන්ට ආණ්ඩු පක්ෂ මන්ත්‍රීවරුන් අට දෙනෙකුගේ සහාය හිමිවිය යුතු විය.
+
+කෙසේවෙතත් ඡන්ද විමසීම ආරම්භ වීමට පෙර ජනාධිපතිවරයා නියෝජනය කරන පාලක පීපල් පවර් පක්ෂයේ මන්ත්‍රීවරුන් පාර්ලිමේන්තු සභාවෙන් ඉවත්වී ගියේ විපක්ෂයෙන් එල්ල වූ දැඩි විරෝධය මධ්‍යයේ ය.
+
+එම මන්ත්‍රීවරුන් අතරින් කිහිපදෙනෙක් නැවතත් පාර්ලිමේන්තුවට පැමිණි අතර ඡන්ද විමසීම සිදුවන අවස්ථාවේ දී එහි සිටියේ එම පක්ෂයේ මන්ත්‍රීවරුන් තිදෙනෙක් පමණි.
+
+...
+
+[Data](articles/bd191d2f.json)
+
+---
+
+### South Korea’s President survives impeachment vote after his party boycotts
+
+*2024-12-07 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104064/south-koreas-president-survives-impeachment-vote-after-his-party-boycotts) · `en`
+
+A South Korean legislative push to impeach President Yoon Suk Yeol over his short-lived imposition of martial law fell through on Saturday after most lawmakers from his conservative governing party boycotted the vote.
+
+The defeat of the motion is expected to intensify public protests calling for Yoon’s ouster and deepen political chaos in South Korea, with a survey suggesting a majority of South Koreans support the president’s impeachment.
+
+Yoon’s martial law declaration drew criticism from his own ruling conservative party, but it is also determined to oppose Yoon’s impeachment apparently because it fears losing the presidency to liberals.
+
+Impeaching Yoon required support from two-thirds of the National Assembly, or 200 of its 300 members. The opposition parties who brought the impeachment motion had 192 seats, but only three lawmakers from PPP participated in the vote. The motion was scrapped without ballot counting because the number of votes didn’t reach 200.
+
+...
+
+[Data](articles/7f3369a8.json)
+
+---
+
+### උත්සව සමයේදී හිඟයකින් තොරව බිත්තර සහ කුකුළු මස් ලබා දීමට පියවර
+
+*2024-12-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204138) · `si`
+
+හිඟයකින් තොරව බිත්තර වෙළෙඳ පොළට නිකුත් කිරීමට බිත්තර නිෂ්පාදකයින් කටයුතු කරන බව ශ්‍රී ලංකා සත්ත්ව නිෂ්පාදකයින්ගේ සංගමයේ සභාපති අජිත් ගුණසේකර මහතා පවසයි.
+
+අද (07) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පැවසුවේ මේ වන විට බිත්තරයක සිල්ලර මිල රුපියල් 35-36ත් අතර අතර පවතින බවය.
+
+කෙසේ නමුත් රටේ ඉල්ලුම හා සැපයුම අනුව බිත්තරක මිල තීරණය වන බැවින් ඉදිරි උත්සව සමයේදී බිත්තර ඉල්ලුම වැඩි විය හැකි බවත් ඒ අනුව රුපියල් 45කට අඩුවෙන් බිත්තරයක සිල්ලර මිල පවත්වාගෙන යාමට අපෙක්ෂා කරන බවත් ඔහු පැවසීය.
+
+එමෙන්ම වර්තමානය වනවිට සහල් නිවුඩු සහ බඩ ඉරිඟු මිල ඉහළ යාම හේතුවෙන් බිත්තරයක නිෂ්පාදන මිල ඉහළ ගොස් ඇති බවත් ඔහු පැවසීය.
+
+ඔහු පැවසුවේ කුකුළු මස් නිෂ්පාදනයේ අතිරික්තයක් පවතින බැවින් මේ වන විටත් හිඟයකින් තොරව කුකුළු මස් වෙළෙඳ පොළට නිකුත් කිරීමට පියවර ගෙන ඇති බවය.
+
+පසුගිය කාලයේ පැවැති අයහපත් කාලගුණික තත්ත්වය හමුවේ එළවළු මිල සහ මාළු මිල ඉහළ ගොස් ඇති බැවින් මේ හේතුවෙන් කුකුළු මස් සඳහා ඉල්ලුම වැඩි වී ඇති බවත් මේ වන විට ශීත කල කුකුළු මස් රුපියල් 950-1000ත් අතර මිලකට අලෙවි වන බවත් ඔහු පැවසීය.
+
+...
+
+[Data](articles/12508091.json)
+
+---
 
 ### Egg - Change in the price of chicken meat?
 
@@ -2405,77 +2467,5 @@ In the bowling, Jasprit Bumrah took 13 runs and took a wicket.
 [Data](articles/885150f5.json)
 
 [Extended Data](ext_articles/885150f5.ext.json)
-
----
-
-### Another gazette notification, is named after Elpitiya Pradeshiya Sabha
-
-*2024-12-06 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204110) · `si`
-
-Elpitiya Pradeshiya Sabha: Gazette notification issued for vacant chairperson and member positions. Sanath Priyantha Sumanasiri and Vijaya Wijaya Kumara responsible. Election impact due to parliamentary polls.
-
-🟩
-
-Sanath Priyantha Sumanasiri has issued a special gazette notification for the vacant chairman of the Elpitiya Pradeshiya Sabha.
-
-The Vijaya Wijaya Kumara has issued the gazette notification by the Selection Officer of the Elpitiya Pradeshiya Sabha.
-
-The National Folk Council was elected recently in the Elpitiya Palai election, and the party Nishantha Perera was appointed as the Chairman of the Pradeshiya Sabha.
-
-However, this year was held as the Chairman of the Elpitiya Pradeshiya Sabha due to the election of Parliament.
-
-Accordingly, the Vacant Pradeshiya Sabha Sarah has issued another gazette notification for the vacant Pradeshiya Sabha member.
-
-◼️
-
-[Data](articles/0dd7f9e0.json)
-
-[Extended Data](ext_articles/0dd7f9e0.ext.json)
-
----
-
-### The Interim Standard Account passed without a poll
-
-*2024-12-06 18:40:17* · [`adalk`](https://www.ada.lk/breaking_news/අතුරු-සම්මත-ගිණුම-ඡන්ද-විමසීමකින්-තොරව-සම්මතයි/11-413497) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Interim Standard Account passed parliament without vote. Debate concluded today after 8 hours. Proposal covers first 4 months of 2025 budget.
-
-🟩
-
-The proposal for the first four months of the year of 2025 was passed in parliament today (06) without polling.
-
-The Interim Standard Account was presented to Parliament on the 3rd last four months of the first four months of 2025.
-
-The debate on this was held yesterday and today from 9.30 am to 5.30 pm. Accordingly, following the debate today, the interim standard was passed without a poll.
-
-◼️
-
-[Data](articles/fe64ee52.json)
-
-[Extended Data](ext_articles/fe64ee52.ext.json)
-
----
-
-### Coconut Coconut Rs. Goes to 120 at 100
-
-*2024-12-06 18:31:02* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-බෑය-රු--100ට-120ට-යයි/11-413496) · `si`
-
-Coconut prices surge: Urban Rs 200, Rural Rs 160. Traders cite stock shortage. Shells fetch Rs 100-120 in Colombo. Export impact feared due to reduced harvesting.
-
-🟩
-
-Coconut in many urban areas has increased to Rs 200 rupees. In rural areas, a coconut is sold at Rs. 160.. The traders say that the price has gone up due to the lack of coconut stocks.
-
-In some parts of Colombo, coconut shells sold at Rs 100-120. Market Sources said the coconut prices will continue. The decrease in coconut harvesting has increased the coconut prices for coconut related exports.
-
-◼️
-
-[Data](articles/4f4211b0.json)
-
-[Extended Data](ext_articles/4f4211b0.ext.json)
 
 ---

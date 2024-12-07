@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 10:27:47**
+As of **2024-12-07 11:01:01**
 
 ## Newspaper Stats
 
-*Scraped **58,929** Articles*
+*Scraped **58,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,585
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,584
-adaderanalk | 7,155
+adaderanalk | 7,157
 tamilmirrorlk | 8,403
 virakesarilk | 9,657
 adaderanasinhalalk | 10,178
@@ -26,11 +26,53 @@ adaderanasinhalalk | 10,178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,928 (100.0%) of 58,929 articles have been extended.
+58,930 (100.0%) of 58,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
+
+### Syrian rebels seize fourth city, close in on Homs in threat to Assad’s rule
+
+*2024-12-07 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104057/syrian-rebels-seize-fourth-city-close-in-on-homs-in-threat-to-assads-rule) · `en`
+
+Syrian rebels said they seized control of the southern city of Daraa on Saturday, the birthplace of a 2011 uprising against President Bashar al-Assad and the fourth city his forces have lost in a week.
+
+Rebel sources said the military agreed to make an orderly withdrawal from Daraa under a deal giving army officials safe passage to the capital Damascus, about 100 km (60 miles) north.
+
+Social media videos showed rebels on motorcycles and others mingling with residents on the streets. People fired shots into the air at the city’s main square in celebration, according to the videos.
+
+There was no immediate comment from the military or Assad’s government, and Reuters could not independently verify the rebels’ claim.
+
+With the fall of Daraa, Assad’s forces have surrendered four important centres to the insurgents in a week.
+
+...
+
+[Data](articles/2870a1af.json)
+
+[Extended Data](ext_articles/2870a1af.ext.json)
+
+---
+
+### Former airman arrested at BIA with Rs. 3m in smuggled cigarettes
+
+*2024-12-07 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104056/former-airman-arrested-at-bia-with-rs-3m-in-smuggled-cigarettes) · `en`
+
+Officers of the Police Narcotics Bureau (PNB) at the Bandaranaike International Airport (BIA) have seized a large consignment of smuggled foreign cigarettes valued at around Rs. 3 million, and arrested a suspect at the BIA early this morning (07).
+
+The suspect, a 37-year-old former Air Force airman from Pothanegama, Anuradhapura, had returned to Sri Lanka from Dubai on a FitsAir flight at 12:35 a.m. today.
+
+He had reportedly traveled to Dubai on a tourist visa in search of employment but was unsuccessful.
+
+Upon his arrival, Police Narcotics Bureau (PNB) officers discovered a total of 100 cartons containing 20,000 sticks of foreign-manufactured cigarettes concealed in his two luggages.
+
+The suspect was released on police bail and is scheduled to appear before the Negombo Magistrate’s Court on December 18 to face charges of illegal importation, smuggling, and possession of contraband cigarettes.
+
+◼️
+
+[Data](articles/578366bd.json)
+
+---
 
 ### Excess acid mixed
 
@@ -98,17 +140,23 @@ These invasions are performed by a team of Islamic militant group, Hayet Tahrir 
 
 ---
 
-### තම දියණිය ඝාතනය කර වැසිකිළිවලට දැමූ නරුම පියා අත්අඩංගුවට
+### Father arrested for murder of her daughter and toilets
 
 *2024-12-07 09:09:15* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-ඝාතනය-කර-වැසිකිළිවලට-දැමූ-නරුම-පියා-අත්අඩංගුවට/11-413501) · `si`
 
-තම දියණිය ඝාතනය කර වැසිකිළිවලට දැමූ පියෙකු අත්අඩංගුවට ගත් බව පොලිසිය පවසයි. ගම්පහ මාකෙවිට ප්‍ර දේශයේදී මෙම සිදුවිම සිදුව තිබේ. උකස් කරන ලද මාලයක් බේරා ගැනිම වෙනුවෙන් මව දියණියට ලබාදුන් මුදල් මත්ලෝලි පියා විසින් දියණියගෙන් ඉල්ලා තිබේ.
+A father was arrested for murdering his daughter in Markurawita, Gampaha. The mother had asked him to give drugs to save a mortgaged necklace. After leaving the house, he returned to find his daughter dead.
 
-කෙසේ වෙතත් දියණිය එම මුදල් ලබානොදිම හේතුවෙන් පියා විසින් දියණියට පහරදි අදාළ මුදල් ලබාගෙන තාවකාලිකව පදංචිව සිටින නිවසින් පිටව ගොස් තිබේ. යළිත් නිවස වෙත පැමිණීමේදී පහර දුන් ස්ථානයේදිම දියණිය වැටි මියගොස් තිබීම හේතුවෙන් දියණියව ඉටිකොළයක ඔතා නිවසේ වැසිකිළිවලට දමා තිබේ.
+🟩
+
+Police say a father has been arrested for murdered his daughter and toilets. The incident occurred in Markurawita area, Gampaha. The mother has asked daughter by the father of drugs to the daughter to save a mortgaged necklace.
+
+However, due to the daughter, the father had left daughter and temporarily left the house. Daughter has wrapped the daughter in a house, as daughter is dead at the time of the death of the house.
 
 ◼️
 
 [Data](articles/f82328ca.json)
+
+[Extended Data](ext_articles/f82328ca.ext.json)
 
 ---
 
@@ -2437,59 +2485,5 @@ Padaviya has fled the Dita, two unidentified people from a motorbike yesterday (
 [Data](articles/55ecb290.json)
 
 [Extended Data](ext_articles/55ecb290.ext.json)
-
----
-
-### African first innings score 358
-
-*2024-12-06 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204101) · `si`
-
-Sri Lanka vs South Africa Test: South Africa scored 358 in first innings. Ricans top-scored with 101, including 11 fours off 250 balls. Thambba added 78. Lahiru Kumara took 4/79 and Fernando 3/65.
-
-🟩
-
-South Africa scored 358 runs in the first innings of the second Test match between the Sri Lankan team and South African group.
-
-Ryan Ricans raised in the South African innings scored 101 runs in their Test cricket.
-
-The innings of Ricton, who faced 250 balls, included 11 fours.
-
-In addition to him, the leader Thambba scored 78 runs.
-
-Lahiru Kumara took 4 wickets for 79 runs and 3 wickets and universal Fernando scored two runs for 65 runs.
-
-◼️
-
-[Data](articles/2f59a954.json)
-
-[Extended Data](ext_articles/2f59a954.ext.json)
-
----
-
-### A foreigner commits suicide by jumping in apartment complex in Kollupitiya
-
-*2024-12-06 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204100) · `si`
-
-Foreigner jumps to death in Kollupitiya apartment complex. 51-year-old Australian had mental health issues. Police investigation ongoing after assault claims.
-
-🟩
-
-A foreigner jailed at apartment complex in Kollupitiya
-
-The police said that a 51 year old Australian was a 51 year old Australian.
-
-He was also observed that he was a person with any mental disorder, police said.
-
-The police had been able to receive information that the person who had resided to be flying from its 7th flight.
-
-However, he had also been assaulted by the police officers and jumping suicide.
-
-Investigations have revealed that the deceased foreign national had been damaged in the market.
-
-◼️
-
-[Data](articles/59b1ebe0.json)
-
-[Extended Data](ext_articles/59b1ebe0.ext.json)
 
 ---

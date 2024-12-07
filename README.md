@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 23:00:35**
+As of **2024-12-07 23:12:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,981 (100.0%) of 58,984 articles have been extended.
+58,984 (100.0%) of 58,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The associations condemned the unfair activities of the Sri Lankan Navy and dema
 ◼️
 
 [Data](articles/04fbe3c6.json)
+
+[Extended Data](ext_articles/04fbe3c6.ext.json)
 
 ---
 
@@ -280,21 +282,31 @@ Meanwhile, the Department of Meteorology has stated that rain is expected to inc
 
 ---
 
-### සිසුන් පිරිසක් රැගත් ඔරුවක් පෙරළෙයි - අයෙකු මරුට
+### A group of students topple
 
 *2024-12-07 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204141) · `si`
 
-සෙල්ලකතරගම අක්කර විස්ස වැවේ විනෝදයට ඔරු පැදීමට ගිය ළමුන් 5 දෙනෙකුගෙන් යුත් ඔරුවක් පෙරළි ගොස් තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-අනතුරින් එක් ළමයෙකු ජීවිතක්ෂයට පත්ව ඇති අතර මියගොස් ඇත්තේ සෙල්ලකතරගම පදිංචි ප්‍රමෝද් නම් 19 හැවිරිදි අයෙකි.
 
-මෙවර උසස් පෙළ හදාරා ඇති ළමුන් පස්දෙනෙකු මෙම ඔරුවේ ගමන් කර ඇති අතර ඔරුව පෙරළීමෙන් පසු ගම්වාසීන් විසින් වහා මැදිහත්ව ඔවුන් බේරා ගැනීමට කටයුතු කර තිබුණි.
 
-මියගිය තරුණයාගේ මළ සිරුර මේ වන විට කතරගම දිසා රෝහලේ තැන්පත් කර ඇත.
+Boat accident kills 1 student near Sellakaragama. 5 students were on board. Victim, 19, from Seellakaragama. Students fled scene. Body at Kataragama District Hospital.
+
+🟩
+
+A boat of 5 children who have gone to boast have been a boat to boat on the acre Twenty Twenty, Sellakaragama.
+
+One child was killed and the death was a 19-year-old resident of Seellakaragama.
+
+Five students who have acted in this year have been traveled in the boat and have taken immediately interfere with the villagers after rolling the boat.
+
+The body of the deceased youth has been placed at the District Hospital at the Kataragama District.
 
 ◼️
 
 [Data](articles/0b146994.json)
+
+[Extended Data](ext_articles/0b146994.ext.json)
 
 ---
 
@@ -322,23 +334,29 @@ Various products suspected to contain steroids were being sold across social med
 
 ---
 
-### ඉන්දීය ධීවරයින් වර්ජනයක
+### Indian fishermen on strike
 
 *2024-12-07 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204140) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව විසින් තම ධීවරයින් අත්අඩංගුවට ගැනීමට විරෝධය පල කරමින් තමිල්නාඩු රාමේෂ්වරම් ප්‍රදේශයේ ධීවරයින් සංකේත වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+Tamil Nadu fishermen strike against Sri Lanka Navy arrests. 14 arrested, livelihood affected. ICFI requests Indian government intervention.
 
-රාමේෂ්වරම් ධීවර සංගම් නියෝජිතයින් ප්‍රකාශ කර ඇත්තේ අද (07) සහ හෙට යන දෙදින තුළ ධීවර කටයුතුවලින් වැළකී මෙම වර්ජනයේ නිරත වන බවය.
+🟩
 
-පසුගිය බදාදා දිනයේ මුහුදු සීමා උල්ලංඝනය කරමින් ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් 14 දෙනෙකු ශ්‍රී ලංකා නාවික හමුදාව විසින් අත්අඩංගුවට ගැනීම මෙම වර්ජනයට ආසන්නතම හේතුව වී තිබේ.
+The fishermen in Tamil Nadu Rameshwaram has launched a token strike in protest of the arrest of his fishermen by the Sri Lanka Navy.
 
-රාමේෂ්වරම් ධීවර සංගම් නියෝජිතයින් පෙන්වා දී ඇත්තේ දිගින් දිගටම සිදුවන අත්අඩංගුවට ගැනීම් හේතුවෙන් ධීවර ප්‍රජාව තම ජීවිකාව සිදුකර ගැනීමට නොහැකිව දැඩි දුෂ්කරතාවට පත්ව සිටින බවය.
+Representatives of Rameshwaram Fisheries Association have stated that the strike will be held today (07) and tomorrow.
 
-මෙම දීර්ඝ කාලීන ගැටලුවට විසදුම් ලබාදෙන ලෙස පසුගිය සමයේ බලධාරීන්ගෙන් ඉල්ලීම් සිදුකළ අවස්ථාවල ශ්‍රී ලංකාවේ මැතිවරණ පැවැත්වෙන බැවින් ඒ පිළිබද පසුව සලකා බලන බව  දැනුම්දුන් අතර මේ වන විට මැතිවරණ අවසන්ව නව රජයක් පත්ව ඇති බැවින් සිය ගැටලු සදහා විසදුම් ලබාදෙන ලෙස රාමේෂ්වරම් ධීවර සංගම් ඉන්දීය රජයෙන් ඉල්ලා තිබේ.
+The strike was the immediate reason for the arrest of 14 Indian fishermen in Sri Lanka.
+
+Rameswaram Fisheries Association representatives have shown that the fishing community is unable to carry out their livelihood due to the arrests.
+
+The ICFI has asked the Indian government to be taken to the Government of Sri Lanka as the appointment of the elections have been made in Sri Lanka since the demands of the officials have been submitted to their immediate issues.
 
 ◼️
 
 [Data](articles/bb0b2325.json)
+
+[Extended Data](ext_articles/bb0b2325.ext.json)
 
 ---
 

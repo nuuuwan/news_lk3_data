@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-07 22:16:14**
+As of **2024-12-07 23:00:35**
 
 ## Newspaper Stats
 
-*Scraped **58,981** Articles*
+*Scraped **58,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,589
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
-adaderanalk | 7,165
-tamilmirrorlk | 8,410
+adaderanalk | 7,166
+tamilmirrorlk | 8,412
 virakesarilk | 9,659
 adaderanasinhalalk | 10,198
 
@@ -26,55 +26,151 @@ adaderanasinhalalk | 10,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,976 (100.0%) of 58,981 articles have been extended.
+58,981 (100.0%) of 58,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-07 (Saturday)
 
-### සහල් මාෆියාව සිදුවෙන හැටි හෙළිවෙයි
+### Rameswaram fishermen protest seeking fishers’ release from Sri Lankan custody
+
+*2024-12-07 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104068/rameswaram-fishermen-protest-seeking-fishers-release-from-sri-lankan-custody) · `en`
+
+Hundreds of fishermen went on a strike in Rameshwaram on Saturday condemning the arrests of 14 Tamil Nadu fishermen by the Sri Lankan Navy and the seizure of their boats.
+
+More than 500 boats have been docked at the Rameshwaram harbour. According to a Maalaimalar report, Mechanised Boats Fishermen’s Association held a meeting on Friday where they decided to go on strike and decided not to engage in fishing activities on December 7.
+
+Recently, 14 Tamil Nadu fishermen were arrested by the Sri Lankan Navy and sent to Vavuniya Prison.
+
+The associations condemned the unfair activities of the Sri Lankan Navy and demanded the immediately release of the arrested fishermen.
+
+◼️
+
+[Data](articles/04fbe3c6.json)
+
+---
+
+### Student's death in the boat collapsed - many magic
+
+*2024-12-07 22:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-மாணவன்-மரணம்-பலர்-மாயம்/175-348401) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Boat crash kills student; 5 others rescued. 19-year-old Pramod dies in Chellakadirgamam. Students were traveling when boat collapsed.
+
+🟩
+
+One person was killed when a boat crashed into 5 students in Akkaravisa Vavi in ​​Chellakadirgamam area today (07).
+
+The deceased has been identified as a 19 -year -old Pramod from Selk Kadirgamam.
+
+Five students who were studying this time this time were traveling on the boat, and the villagers rushed and rescued them after the boat collapsed.
+
+◼️
+
+[Data](articles/12f6c618.json)
+
+[Extended Data](ext_articles/12f6c618.ext.json)
+
+---
+
+### President's Action Resolution on Rice Price
+
+*2024-12-07 22:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-விலை-தொடர்பில்-ஜனாதிபதியின்-அதிரடி-தீர்மானம்/175-348400) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Pres. Anura Kumara Dissanayake orders rice mills: sell 1kg @ 225/230LKR retail. Warns action within 10 days if not compliant. Prices: white rice (215/220), imported (220), samba (235/240), sales (255/260) LKR."
+
+🟩
+
+President Anura Kumara Dissanayake has issued a directive to the owners of the rice mill to provide consumers for 225 rupees and 230 rupees of retail.
+
+The President has informed the Consumer Authority that the law will be actively implemented against the owners of the rice mill, which is contrary to the next ten days.
+
+President Anura Kumara Dissanayake made this statement at a discussion with officials and rice traders of the Ministry of Commerce, Trade, Food Safety and Cooperative Development.
+
+The total price of a kilo of rice is 225 rupees. Retail price is 230 rupees.
+
+The total price of a kilo of white rice is 215 rupees. Retail price is 220 rupees.
+
+The retail price of one kilogram of rice imported is 220 rupees.
+
+The total price of a kilo of samba is 235 rupees. Retail Price 240 rupees.
+
+A kilogram of sales of sales per kg of 255 rupees. Retail price is 260 rupees.
+
+◼️
+
+[Data](articles/a0fc8fa1.json)
+
+[Extended Data](ext_articles/a0fc8fa1.ext.json)
+
+---
+
+### Rice mafia is revealed
 
 *2024-12-07 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204144) · `si`
 
-සහල් වර්ග 04කට ජනවාරි සිට දැඩි ලෙස පාලන මිල ක්‍රියාත්මකළ යුතු බව ජාතික සහල් කර්මාන්ත සම්මේලනයේ අනුශාසක අරුණකාන්ත බණ්ඩාර මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු සහල් මාෆියාව සිදුවන ආකාරය විස්තර කළේය.
 
-"අවුරුදු දෙක තුනකට සැරයක් ප්‍රධාන සහල් මෝල් හිමියන් කීරි සම්බා මිල ඉහළ දානවා. කීරි සම්බා මිල ඉහළ දාපු ගමන්  ඊළඟ කන්නයේදී ගොවියෝ එ්ක වගා කරන්න පෙළබෙනවා වගාකරන්න පෙළබුණාම කීරි සම්බා මිල අඩුවෙනවා. අඩු වුණාම මෝල් හිමියන් ගබඩාවල පුරවාගන්නවා. එහෙම පුරවාගෙන ඒක ඉතා ඉහළ මිලකට විකුණනවා. ඒක සිදුවෙන්නේ මේ ප්‍රධාන මෝල් හිමියන් නිලධාරීන්ගේ සහායෙන් තත්ත්වයේ සමබරතාවය බිඳිනවා. ඉතින් මේ තත්ත්වෙදි නාඩු හාල්වල හිඟයක් ඇති වෙනවා. ඒ නිසා ස්ථිර වශයෙන්ම ලබන ජනවාරි සිට සහල් වර්ග 04ටම දැඩි ලෙස පාලන මිල ක්‍රියාත්මකළ යුතුයි."
+
+"Rice mafia exposed: Main mill owners artificially inflate Keerai Samba prices, then buy from farmers at lower rates. This disrupts market balance, causing shortages. SLAF proposes implementing 4 categories of rice from Jan 1 to combat this issue."
+
+🟩
+
+According to the National Rice Federation, Foreign Rice Federation (SLAF) chariot Federation (SLAFT) says that four rice should be implemented from January to 4 January.
+
+Speaking to the media, he described the way he was going on the rice mafia.
+
+"The main rice mill owners raise the price of Keera Samba prices for two or three years. Moving to cultivate farmers in the next season when the price of Kerra Samba is in the next season, Keera Samba reduces the price of prices. When the lower mill owners fill in stores. Selling it and sells it at a very high price. It breaks the balance balance with the help of these main mill owners. So there is a shortage of nadu rice at this time. Therefore, it has to be operating hard to 4 categories of rice from January to 2 rice. "
 
 ◼️
 
 [Data](articles/6117d9a5.json)
 
+[Extended Data](ext_articles/6117d9a5.ext.json)
+
 ---
 
-### මේ වසරේදී පොල් අස්වැන්න අඩුවීමට හේතුව මෙන්න
+### Here is the reason why the coconut harvest this year
 
 *2024-12-07 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204143) · `si`
 
-පොල්මිල මේ වන විට වෙළෙඳපොළ තුල ප්‍රධාන මාතෘකාවක් බවට පත්ව තිබේ.
+Coconut harvest decline due to political factors, climate change, pests, and animal damage. Annual consumption: 1.8 billion nuts. Yield fell 30%. Key affected areas: Kurunegala, Puttalam, Ratnapura. Pest damage: 10-15%. Chairman estimates over 200 million nuts lost due to animal damage.
 
-ඊට ආණ්ඩුවට පවා මැදිහත්වීමට සිදුව ඇත්තේ, පොල් හිඟය සහ අධික මිල හේතුවෙනි.
+🟩
 
-ඉතිහාසයේ සිට අප ආහාර රටාව හා බැඳුණු පොල් මෙතරම් මිල ගියේ කෙසේ ද ?
+Politicals have now become a major topic in the market.
 
-ඒ නිසාම සෑම නිවසකම ආහාර සැකසීම සඳහාම පොල් කිරි භාවිත කරනු ලබන අතර මෙරට වාර්ෂික පොල් පරිභෝජනය පොල් ගෙඩි මිලියන 1800කි.
+The government has to intervene, the coconut shortage and high price.
 
-ඒ අනුව එක් පුද්ගලයෙකු වර්ෂයකට පොල් ගෙඩි 105ක් ආහාරය සඳහා ගනු ලබයි.
+How did the coconuts that we have bonded from history from history?
 
-දේශීය පරිභෝජනයට මෙන්ම අපනයනය සඳහාත් අපේක්ෂිත වාර්ෂික පොල් අස්වැන්න බිලියන 3කි.
+Therefore, coconut milk is used to prepare food in every home and the annual consumption of the country is 1800 million coconut nuts.
 
-කෙසේවෙතත්, එම පොල් අස්වැන්න මේ වසරේ සියයට 30කින් පමණ අඩුවී තිබේ.
+Accordingly, one person will take 105 coconuts per year per year.
 
-පොල් ඵලදාව අඩුවීමට ප්‍රධාන හේතු බවට පත්ව ඇත්තේ වන සත්ව හානිය, දේශගුණික විපර්යාස, පළිබෝධ හානිය සහ පොහොර භාවිතය අඩුවීමය.
+The annual coconut yield for local consumers and exports is 3 billion.
 
-මේ අතරින් පොල් වගාවට වැඩිම හානියක් සිදුකර ඇත්තේ වඳුරා, රිලවා සහ දඬුලේනා ආදී සතුන් විසිනි.
+However, the coconut yield has fallen by 30 percent this year.
 
-දිවයිනේ සමස්ත පොල් වගා කර ඇති භූමි ප්‍රමාණය හෙක්ටෙයාර් 400,000කට අධික වන අතර ඉන් සියයට 20ක් භූමි ප්‍රමාණයක් වන සත්ත්ව හානියට ලක්ව තිබේ.
+The main reasons for declining coconut yield is the reduction of animal damage, climate change, pest damage and fertilizer.
+
+Out of these coconut cultivation was caused by monkey, affordation and punishment.
+
+Over 400,000 hectares of coconut cultivated land in the country, 20% of them have been destroyed.
 
 ...
 
 [Data](articles/406e4e01.json)
+
+[Extended Data](ext_articles/406e4e01.ext.json)
 
 ---
 
@@ -98,23 +194,39 @@ President Dissanayake made these remarks during a meeting with officials from th
 
 ---
 
-### සහල් තොග සම්බන්ධයෙන් ජනපති තීරණයක් ගනියි
+### President decides regarding rice stocks
 
 *2024-12-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204142) · `si`
 
-නාඩු සහල් කිලෝවක් රුපියල් 225ක තොග මිලටත්, රුපියල් 230ක සිල්ලර මිලටත් පාරිභෝගික ජනතාවට ලබා දීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා සහල් ව්‍යාපාරිකයන්ට උපදෙස් දී තිබේ.
+Here's a summary of 200 characters:
 
-මේ පිළිබඳ ඉදිරි දින දහය තුළ අවධානයෙන් කටයුතු කරමින්,  ඊට පටහැනිව කටයුතු කරන සහල් මෝල් හිමියන් සම්බන්ධව දැඩිව නීතිය ක්‍රියාත්මක කරන ලෙස ද ජනාධිපතිවරයා  පාරිභෝගික අධිකාරියට දැනුම් දුන්නේය.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කර සිටියේ, වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යාංශයේ නිලධාරීන් හා සහල් ව්‍යාපාරිකයන්  සමඟ  ජනාධිපති ලේකම් කාර්යාලයේ අද (07) පැවැති සාකච්ඡාවේදීය.
 
-අපේ රටේ වැඩිම ආයෝජනයක් සිදු කරන්නේ මහාමාර්ග අමාත්‍යාංශයට බවත්, ඉන්පසුව වාරිමාර්ග හා කෘෂිකර්ම ක්ෂේත්‍රයන්ට බවත් පෙන්වා දුන් ජනාධිපතිවරයා වැඩිපුරම සහනාධාර ලබා දීම සිදු කරනු ලබන්නේ ද ගොවි ජනතාවට බව කියා සිටියේය.
+President Anura Kumara Dissanayake instructs rice prices: Nadu Rs. 230, White Rs. 220, Samba Rs. 240, Kiri Samba Rs. 260. Orders Consumer Affairs Authority to enforce laws and monitor daily rice stocks. Invites businessmen to collaborate on rice-related issues.
 
-වී මිලදී ගැනීම සඳහා  ව්‍යාපාරිකයන්ට  අඩු පොලී  පහසුකම් යටතේ බැංකු ණය  ලබා දී ඇති බවද සිහිපත් කළ  ජනාධිපතිවරයා,  එබැවින් ජනතාවගේ සහල් අයිතියට අත නොතබන ලෙස සහල්  ව්‍යාපාරිකයන්ට පැවසීය.
+🟩
+
+President Anura Kumara Dissanayake has instructed rice for the businessmen to provide a kilo of nadu rice at Rs. 230 and Rs. 230 rupees.
+
+The President informed the Consumer Affairs Authority to enforce the law to the Consumer Protection of Rice Mill Thero, along with the next ten days.
+
+President Anura Kumara Dissanayake made this statement at the Presidential Secretariat today (07) with the officers and rice businessmen of the Ministry of Trade, Commerce, Food Safety and Co-operative Development.
+
+The President has given the highest investment to the Highways Ministry and that the farmers have been given the most subsidies.
+
+The President recalled that the bank loans have been granted bank loans on low interest facilities to the businessmen, so he said.
+
+The bulk price of a kilo of nadu rice is Rs. 225. The retail price is Rs. 230.
+
+The bulk price of a kilo of white ruling is Rs. 215. The retail price is 220.
+
+The stock price of a kilogram of Samba is Rs.335.  සිල්ලර මිල රුපියල්  240යි.
 
 ...
 
 [Data](articles/79679910.json)
+
+[Extended Data](ext_articles/79679910.ext.json)
 
 ---
 
@@ -2343,97 +2455,5 @@ The massive issue we have faced over the past few years, especially in high leve
 [Data](articles/90fe110c.json)
 
 [Extended Data](ext_articles/90fe110c.ext.json)
-
----
-
-### Notice
-
-*2024-12-06 20:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டண-திருத்தம்-தொடர்பில்-வெளியான-அறிவிப்பு/175-348361) · `ta`
-
-Here's a summary of the notice in 200 characters:
-
-
-
-Ceylon Electricity Board submits proposal to Public Utilities Commission. Existing fees remain unchanged for next six months.
-
-🟩
-
-The Ceylon Electricity Board has handed over its proposal to the Public Utilities Commission.
-
-It also stated that the existing fees will continue for the next six months. Remble
-
-◼️
-
-[Data](articles/f2324753.json)
-
-[Extended Data](ext_articles/f2324753.ext.json)
-
----
-
-### Israeli soldiers entered into a man
-
-*2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200619) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Israeli soldiers attacked Kamal Advan Hospital in Vadakasa. Four doctors were killed. Many civilians injured. Hospital director claims soldiers arrested staff during 2-hour operation. Witnesses report seeing bodies and injured outside hospital.
-
-🟩
-
-Eyewitnesses have reported that four doctors have been killed in an attack on Kamal Advan Hospital in Vadakasa.
-
-Many people have been killed and injured in the surrounding areas of the hospital as a result of Israel's attack.
-
-Hospital Director H_Sam Abu Sabia said that Israeli soldiers and patients were ordered to leave the hospital after they were ordered to leave the hospital.
-
-The Israeli soldiers sent two uniforms in the early hours of Friday morning and asked the patients to leave, and during the two -hour operation, several medical workers were arrested in hospital, he said.
-
-Abusabia said that when the hospital was surrounded by military resources, Abusabia had then arrested many Israeli soldiers.
-
-Initially, the Israeli soldiers have asked me to leave all the patients to me and then arrest all of them in one place.
-
-Employees who came out of the hospital have seen many bodies on the streets and many injured.
-
-...
-
-[Data](articles/0b6dfe3a.json)
-
-[Extended Data](ext_articles/0b6dfe3a.ext.json)
-
----
-
-### Israeli soldiers entered into a man
-
-*2024-12-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200620) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Israeli soldiers attacked Kamal Advan Hospital in Vadakasa. Four doctors were killed. Many civilians injured. Hospital director H_Sam Abu Sabia reported Israeli soldiers ordered patients out, then arrested medical staff. Military surrounded hospital, leading to arrests and casualties.
-
-🟩
-
-Eyewitnesses have reported that four doctors have been killed in an attack on Kamal Advan Hospital in Vadakasa.
-
-Many people have been killed and injured in the surrounding areas of the hospital as a result of Israel's attack.
-
-Hospital Director H_Sam Abu Sabia said that Israeli soldiers and patients were ordered to leave the hospital after they were ordered to leave the hospital.
-
-The Israeli soldiers sent two uniforms in the early hours of Friday morning and asked the patients to leave, and during the two -hour operation, several medical workers were arrested in hospital, he said.
-
-Abusabia said that when the hospital was surrounded by military resources, Abusabia had then arrested many Israeli soldiers.
-
-Initially, the Israeli soldiers have asked me to leave all the patients to me and then arrest all of them in one place.
-
-Employees who came out of the hospital have seen many bodies on the streets and many injured.
-
-...
-
-[Data](articles/5ebfef88.json)
-
-[Extended Data](ext_articles/5ebfef88.ext.json)
 
 ---

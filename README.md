@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 03:00:29**
+As of **2024-12-08 03:42:24**
 
 ## Newspaper Stats
 
-*Scraped **58,987** Articles*
+*Scraped **58,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
 adaderanalk | 7,166
-tamilmirrorlk | 8,412
+tamilmirrorlk | 8,413
 virakesarilk | 9,659
 adaderanasinhalalk | 10,199
 
@@ -26,9 +26,35 @@ adaderanasinhalalk | 10,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,987 (100.0%) of 58,987 articles have been extended.
+58,988 (100.0%) of 58,988 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-08 (Sunday)
+
+### US support for anti -corruption programs
+
+*2024-12-08 02:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழல்-எதிர்ப்பு-திட்டங்களுக்கு-அமெரிக்கா-ஆதரவு/175-348402) · `ta`
+
+US supports anti-corruption efforts in Sri Lanka. Assistant Secretary Donald Lu offers aid for programs combating corruption and building national security and economy through defense and technical cooperation.
+
+🟩
+
+US Assistant Secretary of State for South and Central Asian Affairs, Donald Lu, said that the government is ready to support the programs that the country was brought back to the country.
+
+He added that he is ready to support any cases for corruption and eradication programs brought by the government.
+
+The US Assistant Secretary of State has said that the US is ready to cooperate with the defense and technical cooperation to build Sri Lanka's security and economy.
+
+The US has praised the new government's programs to know the priority of politics, economics and social factors. (A)
+
+◼️
+
+[Data](articles/4d60fb5d.json)
+
+[Extended Data](ext_articles/4d60fb5d.ext.json)
+
+---
 
 ### 2024-12-07 (Saturday)
 
@@ -2451,27 +2477,5 @@ The protest was held at the coconut parking in the junction with the participati
 [Data](articles/4366cc22.json)
 
 [Extended Data](ext_articles/4366cc22.ext.json)
-
----
-
-### Will the price of coconuts rise further?
-
-*2024-12-06 20:51:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-மேலும்-உயரும்/175-348363) · `ta`
-
-Coconut prices may rise due to decreased local supply and increased export demand. Current prices in Habaraduwa: 180 rupees. Prices vary in Colombo. Factors include coconut harvesting decline and increased export usage.
-
-🟩
-
-The price of coconuts in Habaraduwa and its relevant areas is 180 rupees.
-
-In some parts of Colombo, a coconut barry is sold at a price of Rs.
-
-Coconut prices have increased due to the decline in coconut harvesting and the use of coconuts for coconut -related exports has increased.
-
-◼️
-
-[Data](articles/8291cb66.json)
-
-[Extended Data](ext_articles/8291cb66.ext.json)
 
 ---

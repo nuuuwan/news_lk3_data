@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 12:17:20**
+As of **2024-12-08 13:01:02**
 
 ## Newspaper Stats
 
-*Scraped **59,060** Articles*
+*Scraped **59,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,594
-adaderanalk | 7,172
-tamilmirrorlk | 8,427
+adalk | 5,595
+adaderanalk | 7,173
+tamilmirrorlk | 8,429
 virakesarilk | 9,681
 adaderanasinhalalk | 10,209
 
@@ -26,59 +26,111 @@ adaderanasinhalalk | 10,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,030 (99.9%) of 59,060 articles have been extended.
+59,036 (100.0%) of 59,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### பண்டிகை காலத்தை முன்னிட்டு விசேட சோதனை முன்னெடுப்பு
+### Youth killed
+
+*2024-12-08 12:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோணி-கவிழ்ந்ததில்-இளைஞன்-பலி/175-348423) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"19-year-old Samod Dilshan drowns in 20-acre lake while driving with friends. Body sent to Hambantota General Hospital for autopsy."
+
+🟩
+
+A youth has drowned after a dummy collapsed with four youths who were driving a bizarre man in a twenty -acre lake.
+
+The deceased is the 19 -year -old youth, Samod Dilshan, a resident of Dissanayake, a 20 -acre area.
+
+The body was sent to the Hambantota General Hospital for the autopsy report after the body was brought to Kadirgamam Hospital.
+
+◼️
+
+[Data](articles/816945c9.json)
+
+[Extended Data](ext_articles/816945c9.ext.json)
+
+---
+
+### A special test initiative to mark the festive season
 
 *2024-12-08 11:59:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகை-காலத்தை-முன்னிட்டு-விசேட-சோதனை-முன்னெடுப்பு/175-348422) · `ta`
 
-பண்டிகை காலத்தை முன்னிட்டு பொதுமக்கள் அதிகம் கூடும் நகரங்களில் விற்கப்படும் உணவு மற்றும் பானங்களை ஆய்வு செய்வதற்காக சோதனைகளை நடாத்த ஆரம்பித்துள்ளதாக பொது சுகாதார பரிசோதகர்கள் சங்கம் (PHI) தெரிவித்துள்ளது.
+Public Health Inspectors Association conducts food safety tests nationwide during festive season. Over 150 tests completed since December 1, involving 1750 PHI officers checking raw materials and products.
 
-பரிசோதனைகளை மேற்கொள்வதற்காக சுமார் 1750 PHI அதிகாரிகள் ஈடுபடுத்தப்பட்டுள்ளதாக PHI தலைவர் உபுல் ரோஹன தெரிவித்தார்.
+🟩
 
-பண்டிகை காலத்தை இலக்காகக் கொண்டு உணவு உற்பத்திக்கு பயன்படுத்தப்படும் மூலப்பொருட்கள் ஆய்வுகளின் போது சோதிக்கப்படும் என்று அவர் மேலும் கூறினார்.
+The Public Health Inspectors Association (PHI) said that the public has begun testing the food and beverages sold in cities that are most likely to be sold in the country during the festive season.
 
-டிசம்பர் 01 முதல் இன்று வரை நாடு முழுவதும் 150க்கும் மேற்பட்ட சோதனைகள் நடத்தப்பட்டுள்ளதாக உபுல் ரோஹன மேலும் தெரிவித்தார்.
+PHI leader Upul Rohana said about 1750 Phi officers have been deployed to carry out tests.
+
+He added that the raw materials used for food production targeting the festive season will be tested during studies.
+
+Upul Rohana added that more than 150 tests have been conducted across the country from December 01 to date.
 
 ◼️
 
 [Data](articles/7afd11f3.json)
 
+[Extended Data](ext_articles/7afd11f3.ext.json)
+
 ---
 
-### லங்கம படுகொலை: மூவருக்கும் விளக்கமறியல்
+### Sri Lanka massacre:
 
 *2024-12-08 11:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லங்கம-படுகொலை-மூவருக்கும்-விளக்கமறியல்/76-348421) · `ta`
 
-நுவரெலியா, லங்கம டிப்போ பாதுகாப்பு உத்தியோகத்தரை கொலை செய்த சந்தேகநபர்கள் மூவரையும் கைது செய்த நுவரெலியா பொலிஸார், அவர்களை நீதிமன்றத்தில் ஆஜர்படுத்தினர். அப்போது, சந்தேகநபர்கள் மூவரையும் எதிர்வரும் 19 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-நுவரெலியா லங்கம டிப்போவில் காசாளராகப் பணிபுரிந்த ராஜபக்ச (55), அந்தடிப்போவில் சாரதியாகப் பணியாற்றிய பிரேகித் சஞ்சீவ விரசிறி (40) மற்றும் சந்தேகத்திற்குரிய சாரதியான   நண்பரான சம்பத் ஜானக பண்டார (36)  ஆகியோரே விளக்கமறியலில் வைக்கப்பட்டனர்.
 
-நுவரெலியா டிப்போவில் காவலாளியாக பணியாற்றிய ஏ.லோகநாதன் (85) என்பவரை வௌ்ளிக்கிழமை (06) அதிகாலை 02 மணியளவில் டிப்போவின் பாதுகாப்புச் சாவடி வைத்து கொலைச் செய்துவிட்டு, டிப்போவின் அலுமாரியில் வைக்கப்பட்டிருந்த  பணத்தை சந்தேகநபர்கள் மூவரும் கொள்ளையிட்டு சென்றுள்ளனர்.
+
+Sri Lanka: Three suspects arrested for murdering depot security officer in Nuwara Eliya. They robbed Rs. 10,050,060 and planned the murder to compensate for the theft. The suspects were remanded until the 19th.
+
+🟩
+
+Nuwara Eliya police arrested three suspects who murdered the Sri Lankan depot security officer in Nuwara Eliya and produced them in court.. At the time, the court ordered the three suspects to be remanded until the 19th.
+
+Rajapaksa (55), who worked as a cashier at the Nuwara Eliya Sri Lanka Depot, Sampath Janaka Bandara (36), a suspected driver, and a suspected driver, Sampath Janaka Bandara (36).
+
+The three suspects have robbed A. Lokanathan (85), who worked as a guard at the Nuwara Eliya Depot, at around 2 am on the occasion of a depot's security booth at the depot.
+
+According to a complaint lodged at the Nuwara Eliya Police Station, Depot's cashier killed his depot guard and stole ten million fifty thousand sixty rupees from the shelf in the depot.
+
+A detailed investigation into the murder was carried out with the help of the Nuwara Eliya Police Superintendent of Police, Anurutha Hakmana, Nuwara Eliya Police, Nuwara Eliya Police, Nuwara Eliya Police Division, Nuwara Eliya Police Division.
 
 ...
 
 [Data](articles/7ccee42f.json)
 
+[Extended Data](ext_articles/7ccee42f.ext.json)
+
 ---
 
-### பொலன்னறுவையில் மோட்டார் சைக்கிள் மோதி பாதசாரி பலி
+### A motorcycle collision in Polonnaruwa
 
 *2024-12-08 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200704) · `ta`
 
-பொலன்னறுவை பொலிஸ் பிரிவுக்குட்பட்ட சோமாவதி வீதியில் நேற்று சனிக்கிழமை (07) மோட்டார் சைக்கிள் மோதியதில் பாதசாரியொருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+Motorcycle crash kills pedestrian in Polonnaruwa. Victim rushed to hospital, motorcycle passengers also injured. Incident occurred on Somavathi Road under Polonnaruwa police division.
 
-விபத்தில் காயமடைந்த பாதசாரி பொலன்னறுவை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னரே உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-சடலமானது பொலன்னறுவை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாகவும், மோட்டார் சைக்கிளில் பயணித்தவரும் படுகாயமடைந்து பொலன்னறுவை வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+A pedestrian was killed when a motorcycle crashed on Saturday (07) on Somavathi Road, which belongs to the Polonnaruwa police division, police said.
+
+Police said the victim was admitted to the Polonnaruwa Hospital who was injured in the accident.
+
+The body was kept in the funeral room of the Polonnaruwa Hospital and the motorcycle passengers were injured and admitted to the Polonnaruwa hospital, police said.
 
 ◼️
 
 [Data](articles/6e59d622.json)
+
+[Extended Data](ext_articles/6e59d622.ext.json)
 
 ---
 
@@ -106,21 +158,57 @@ The father of the attacker, the father of the attacker, has been arrested by the
 
 ---
 
-### இளைஞனின் நிர்வாண காணொளி  ``வட்ஸ் அப்’’ எண்களுக்கு
+### Send the young man's naked video to 'WhatsApp
+
+*2024-12-08 11:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனின்-நிர்வாண-காணொளி-வாட்ஸ்-அப்-களுக்கு-அனுப்பிவைப்பு/175-348420) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Three men (22, 24, 28) arrested for attacking a youth over a nude video sent via WhatsApp. They kidnapped, stripped him, threatened death, recorded video, and shared it widely. Suspects' phones and bikes seized. Case filed by victim's father.
+
+🟩
+
+Three young men were arrested on charges of attacking a young man who allegedly sent a friend of a foreign girlfriend and sent a nude video through WhatsApp technology.
+
+They have been abducted, naked, threatened to death, and on several occasions, have taken attacks and get 38 thousand rupees and a mobile phone.
+
+Among those arrested include a girl's boyfriend abroad. The three men aged 22,24 and 28 from Kahatudu have been arrested.
+
+The abducted young man has been naked, threatened with death, sexual harassment, recorded them as a video, and sent to all the WhatsApp number on the young man's mobile phone.
+
+Three suspects were arrested in connection with the complaint lodged by the father of the victim's youth. Two motorcycles and two of the Apple's mobile phones were seized from them.
+
+◼️
+
+[Data](articles/c782cedb.json)
+
+[Extended Data](ext_articles/c782cedb.ext.json)
+
+---
+
+### For the young man's naked video
 
 *2024-12-08 11:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனின்-நிர்வாண-காணொளி-வட்ஸ்-அப்-எண்களுக்கு/175-348420) · `ta`
 
-வட்ஸ்அப்  மூலம்  தனது வெளிநாட்டு காதலிக்கு ஆபாச காணொளிகளை அனுப்பிய இளைஞனை கடத்திச் சென்று நிர்வாணப்படுத்தி , கொலை மிரட்டல் விடுத்து ,38000 பணத்தை மற்றும் கைத்தொலைபேசியை பெற்றுக்கொண்ட  மூவர்  கைது செய்யப்பட்டதாக கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+Three men arrested for abducting youth over explicit video sent to foreign girlfriend via WhatsApp. Police seize motorcycles and phones. Father also detained.
 
-கஹதுடுவ ஸ்ரீ சுமண வீதி மற்றும் பொல்கஸ் ஓவிட்டயை சேர்ந்த 22,24,மற்றும் 28 வயதுடைய மூவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கடத்தப்பட்ட இளைஞனை நிர்வாணமாக்கி  பாலியல் செயல்களுக்கு தூண்டிவிட்டு அதை வீடியோ எடுத்து அவரி்ன் தொலைபேசியில் இருந்த ``வாட்ஸ் அப்’’ எண்களுக்கு வீடியோ அனுப்பப்பட்டுள்ளது.
+Kahatuduwa police said that three persons have been arrested for allegedly abducting and kidnapping a young man who sent porn videos to his foreign girlfriend through WhatsApp.
 
-இதைப் பார்த்த தாக்கப்பட்ட இளைஞனின் தந்தை, இது தொடர்பில்  பொலிஸில் செய்த முறைப்பாட்டிற்கமைய  சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதுடன் மோட்டார் சைக்கிள் மற்றும்  கையடக்கத் தொலைபேசிகள் இரண்டு  கைப்பற்றப்பட்டுள்ளன..
+22,24 and 28, aged 22,24 and 28, from Kahatuduwa Sri Sumana Road and Polgus Ovitti, have been arrested.
+
+Video has been sent to the number of WhatsApp, who was on the phone, taking a video of the abducted young man naked and provoking it.
+
+The father of the attacker, the father of the attacker, has been arrested by the police in connection with the complaint and two motorcycle and mobile phones have been seized.
 
 ◼️
 
 [Data](articles/f5eb6a77.json)
+
+[Extended Data](ext_articles/f5eb6a77.ext.json)
 
 ---
 
@@ -155,6 +243,24 @@ The father of the attacker, the father of the attacker, has been arrested by the
 ...
 
 [Data](articles/90c3f13e.json)
+
+---
+
+### Sri Lanka failed to meet WHO food quality testing standards – Expert
+
+*2024-12-08 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104075/sri-lanka-failed-to-meet-who-food-quality-testing-standards-expert) · `en`
+
+Sri Lanka has yet to conduct the necessary tests prescribed by the World Health Organization (WHO) to ensure food quality, Bio-Medical Scientist Dr. Kamal Gammanpila says.
+
+Addressing a recent press conference, he further highlighted the growing health crisis posed by the alarming rise in Thalassemia and kidney disease cases across the country.
+
+Dr. Gammanpila revealed findings from a recent survey conducted among 100 school students aged 15 to 17 in the Anuradhapura district, which uncovered a Thalassemia prevalence rate of 23.9%.
+
+Similarly, the Kurunegala district recorded a prevalence rate of 20.6%, he noted, adding that these figures underscore the urgent need for comprehensive measures to combat these public health issues.
+
+◼️
+
+[Data](articles/19cea6eb.json)
 
 ---
 
@@ -482,7 +588,7 @@ In addition, he said that since December 01, PHIs have carried out more than 150
 
 ---
 
-### Sri Lanka port to seek private investors two logistics centres
+### Sri Lanka’s Colombo port to seek private investors for two logistics centres
 
 *2024-12-08 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-to-seek-private-investors-two-logistics-centres-192837/) · `en`
 
@@ -641,6 +747,26 @@ The President also announced that starting today, the CAA officers will be assig
 [Data](articles/f9234d99.json)
 
 [Extended Data](ext_articles/f9234d99.ext.json)
+
+---
+
+### වන අලි ගැටලුවට විසඳුම් නැත්නම් වගාවෙන් ඉවත්වෙන බව ගොවීහු කියති
+
+*2024-12-08 09:29:05* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-ගැටලුවට-විසඳුම්-නැත්නම්-වගාවෙන්-ඉවත්වෙන-බව-ගොවීහු-කියති/11-413512) · `si`
+
+වන අලි ගැටලුවට විසඳුම් ලබා නොදෙන්නේ නම් තමන් ඉදිරියේදී  වගා කටයුතු වලින් ඉවත්වන බව මහවිලච්චිය ප්‍රදේශයේදී ගොවීහු පවසති.
+
+අනුරාධපුර, මහවිලච්චිය, මන්නාරම් හන්දිය ප්‍රදේශයට නිරන්තරව සිදුවන වන අලි හානිය හේතුවෙන් එම ප්‍රදේශයේ ගොවි ජනතාව දැඩි දුෂ්කරතාවයකට පත්ව තිබේ.
+
+එම ප්‍රදේශය තුල සුදු කෙරෙන වී ගොවිතැන ඊට  අමතරව වට්ටක්කා , ගස් ලබු ඇතුළු හේන් ගොවිතැන් මේ දිනවල ගම් වදින  අලින්ගෙන්  දැඩි හානි සිදුවන බව එම ගොවීහු පැවසූහ.
+
+එම ප්‍රදේශයේ වගා කර තිබූ ගස්ලබු වගාවන් කිහිපයක් 5දා අළුයම  වන අලි ගම්වැදී සම්පූර්ණයෙන්ම විනාශ කර දමා ඇති බවත්  පසුගිය දින කීපය තුළදී වන අලීන් රංචු වශයෙන් ගම් වැදී වී ගොවිතැනට අමතරව ප්‍රදේශයේ ගොඩ බෝග වගාවන් රැසක්  සම්පූර්ණයෙන්ම විනාශ  කර ඇති ආකාරය ඔවුහු  පෙන්වා  දුන්හ.
+
+විල්පත්තුව රක්ෂිතයේ සිට මෙම වන අලි ගම් වදින බවත් එම රක්ෂිතය ආවරණය කරමින් ශක්තිමත් විදුලි වැටක් නොතිබීම වන අලින් ගම් වැදීමට ප්‍රධාන හේතුව බවත් පවසන එම ගොවීහු වැඩි දුරටත්  පැවසුවේ  වත්මන් රජයද  මෙම වන අලි ගැටලුවට විසඳුම් ලබා නොදෙන්නේ නම් තමන් සිය වගා කටයුතුවලින් ඉවත්වන බවය.
+
+◼️
+
+[Data](articles/42fda8d2.json)
 
 ---
 
@@ -2215,103 +2341,5 @@ He explained that his operations involve maintaining rice stocks to ensure consi
 [Data](articles/9800503a.json)
 
 [Extended Data](ext_articles/9800503a.ext.json)
-
----
-
-### A person arrested for attacking the singer Nadimel in a concert
-
-*2024-12-07 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204132) · `si`
-
-Arrest made for attacking singer Nadimeal Perera at concert in Panadura North. Police investigating incident, suspects to appear in court today.
-
-🟩
-
-The Panadura North Police have arrested a person who was allegedly attacked the son of Amal Perera, the son of Amal Perera.
-
-Nadeimal Perera, who attended a festival in the House of Panadura, has been assaulted at a ceremony held at a nearby hall.
-
-Nadeimal Perera has been admitted to the Panadura Base Hospital, which was injured.
-
-Police have arrested another person in connection with misappropriation of a police officer who went to a settlement.
-
-The band of Nadimeal Perera was invited to provide music for the music performany held at the ceremony.
-
-During the concert he was down the lower floor, where the attack had taken place, police said.
-
-However, the police said that the cause of the attack has not been confirmed.
-
-The police said that the school has not obtained any of the resort or the concert at the Panadura North police to conduct this concert.
-
-However, a group of police officers including the OIC of the Panadura North Central Police (Sanjeewa Police) have been suspended for the incident.
-
-...
-
-[Data](articles/e1f92af5.json)
-
-[Extended Data](ext_articles/e1f92af5.ext.json)
-
----
-
-### Arhan reserves were remanded
-
-*2024-12-07 15:21:47* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-ලොහාන්-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-413506) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Arhan reserves: Former MP Lohan Ratwatte remanded until 9th. Arrested on 6th.
-
-🟩
-
-Former Parliamentarian Lohan Ratwatte remanded till the 9th.
-
-He was arrested yesterday (06).
-
-◼️
-
-[Data](articles/5d7e5edf.json)
-
-[Extended Data](ext_articles/5d7e5edf.ext.json)
-
----
-
-### Lohan was placed in interrogation
-
-*2024-12-07 15:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கமறியலில்-வைக்கப்பட்டார்-லொஹான்/175-348394) · `ta`
-
-Former Secretary of State Lohan Ratwatta remanded until 9th for drunk driving charge.
-
-🟩
-
-The Pudukkadai Chief Magistrate's Court today (07) ordered that former Secretary of State Lohan Ratwatta to be remanded until the 9th of this month.
-
-Lohan Ratwatta was arrested on charges of drinking drunken driving. Remble
-
-◼️
-
-[Data](articles/36309100.json)
-
-[Extended Data](ext_articles/36309100.ext.json)
-
----
-
-### Former state minister Lohan Ratwatte remanded
-
-*2024-12-07 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104061/former-state-minister-lohan-ratwatte-remanded) · `en`
-
-Former State Minister Lohan Ratwatte, who was arrested yesterday for causing a road accident while driving under the influence of alcohol, has been remanded until December 09 after being produced before the Colombo Chief Magistrate’s Court today (7).
-
-Ratwatte, who was released on bail on December 5 in a separate case, was returning from a relative’s house yesterday (06) when his Defender collided with another vehicle near the Kollupitiya Junction.
-
-Following a complaint made to the Kollupitiya Police regarding the accident, investigations confirmed that he was under the influence of alcohol at the time, leading to his arrest on charges of causing an accident while intoxicated.
-
-Accordingly, the police arrested Ratwatte on charges of causing an accident while driving under the influence of alcohol.
-
-...
-
-[Data](articles/8c8264ed.json)
-
-[Extended Data](ext_articles/8c8264ed.ext.json)
 
 ---

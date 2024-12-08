@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 21:26:28**
+As of **2024-12-08 20:00:33**
 
 ## Newspaper Stats
 
-*Scraped **59,136** Articles*
+*Scraped **59,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,171 +18,35 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,605
 adaderanalk | 7,183
-tamilmirrorlk | 8,444
-virakesarilk | 9,706
-adaderanasinhalalk | 10,220
+tamilmirrorlk | 8,443
+virakesarilk | 9,705
+adaderanasinhalalk | 10,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,123 (100.0%) of 59,136 articles have been extended.
+59,104 (100.0%) of 59,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### සතොසේ සහල් සහ පොල් හොයන පාරිභෝගිකයෝ
-
-*2024-12-08 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204167) · `si`
-
-සහල් සහ පොල් ප්‍රමාණවත් තරම් නොමැතිවීමෙන් සතොස අලෙවිසැල්වෙත පැමිණි බොහෝ පාරිභෝගිකයන්ට අදත් (08) හැරීයාමට සිදුව තිබේ.
-
-පවතින හිඟය හේතුවෙන් වෙළෙඳපොළේ ශීඝ්‍රයෙන් මිල ඉහළ යමින් පැවති පොල් සහ සහල්, සතොස අලෙවිසැල්වලින් සහන මිලට අලෙවිකිරීමේ වැඩපිළිවෙළ ඉකුත් බ්‍රහස්පතින්දා ආරම්භ කළේය.
-
-ඒ අනුව අද දිනයේද සතොස අලෙවිසැල්වල සහල් සහ පොල් සඳහා දැඩි ඉල්ලුමක් පැවතුණි.
-
-කෙසේවෙතත් අද ඇතැම් සතොස අලෙවිසැල් වෙත සහල් සහ පොල් ලැබී නොතිබූ බව වාර්තා විය.
-
-මේ අතර ආනයනික සහල් තොග ලබන සතියේ දිවයිනට ලැබෙනු ඇති බව අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ආනයකරුවන්ගේ සංගමය පවසයි.
-
-එහි ප්‍රකාශකයෙකු අද දෙරණට සඳහන් කළේ සහල් ආනයනය කිරීමට රජය විසින් ලබාදී ඇති උපදෙස් අනුව ආනයනකරුවන් කිහිපදෙනෙකු ඉන්දියාවෙන් සහ පාකිස්තානයෙන් මේ වන විටත් සහල් තොග ඇනවුම් කර ඇති බවයි.
-
-◼️
-
-[Data](articles/0d8be15c.json)
-
----
-
-### Cause shortage of essential drugs
-
-*2024-12-08 20:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-மருந்துகளுக்கு-தட்டுப்பாடு-ஏற்படும்/175-348452) · `ta`
-
-Essential drug shortage looms due to flawed import process. Government urged to improve procurement procedures to prevent deficits. Insulin, cancer drugs, and biochemicals may face scarcity.
-
-🟩
-
-The Federation of Medical and Civil Rights Association said that the country's health structure is likely to cause shortage of essential drugs.
-
-The situation is expected to be due to the lack of proper purchase procedure for importing drugs.
-
-When a new year begins, the Ministry of Health should make a request for the purchase of medicine for the year.
-
-However, due to the weakness of the last government and the arrest of many health department officials in the past, there has been a major setback in the process of pharmaceutical regulation, purchase and distribution.
-
-As a result, according to the data of the medical distribution unit, there will be massive drug shortages next year.
-
-Accordingly, insulin, cancer drugs and some biochemical drugs are also scarce.
-
-Therefore, the government should take steps to avoid the proper procurement procedures and take steps to avoid massive deficits, said Dr. Samal Sanjeeva, Secretary of the Federation of Medical and Civil Rights.R
-
-◼️
-
-[Data](articles/d5262949.json)
-
-[Extended Data](ext_articles/d5262949.ext.json)
-
----
-
-### There is no confidence in the government - missing relatives informed the Deputy Secretary of State Switzerland
-
-*2024-12-08 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200741) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Lack of trust in government over missing relatives inquiry. Swiss diplomat meets families, but no progress on investigations or justice mechanisms. Government accused of deception and inaction on war-era disappearances.
-
-🟩
-
-When our relations surrendered in four places - Anandapuram, Vattuvagal, Devipuram and Omanthai, the government headed by the President Anurakumara, who was on duty, has first asked the Missing Relatives to interrogate and confidently confidently appealed to TM Enderlin, the Secretary of State for Switzerland.
-
-Tim Enderlin, Secretary of State for the Federal Department of Foreign Affairs of Switzerland, who visited Sri Lanka, made a two -day visit to the North.
-
-He had met with relatives of the missing persons in Kilinochchi yesterday evening.
-
-The meeting was attended by Switzerland's Assistant Secretary of State, Dr. Srivold, Switzerland's Ambassador to Sri Lanka, Justin Polliot, First Secretary of Human Defense and Senior Officer of the National Program, Susanthi Gopala Krishnan.
-
-...
-
-[Data](articles/1b6339b5.json)
-
-[Extended Data](ext_articles/1b6339b5.ext.json)
-
----
-
-### Representatives of Tamil National Party meet with Swiss embassy officials
-
-*2024-12-08 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200756) · `ta`
-
-Swiss officials meet Tamil party reps in Jaffna. Discuss Sri Lanka's ethnic issue & new govt under Pres. Anurakumara. Attendees: Swiss diplomats, TNA leaders. Meeting focuses on political solutions.
-
-🟩
-
-Swiss government officials discussed the political solution to the national ethnic problem of Sri Lanka and the current political situation with representatives of Tamil national parties.
-
-The meeting took place on Saturday evening at a private hostel in Jaffna.
-
-The Tamil party's position on solving the national ethnic problem of Sri Lanka and the talks with the new government headed by President Anurakumara were discussed in detail.
-
-The meeting was attended by Rim Enderlin, Assistant Secretary of the Swiss Foreign Affairs Department and Chairman of the Peace and Human Rights Unit, Siri Volre, Sri Lanka's Swiss Ambassador to Sri Lanka, Jesrin Poyla, the Chief Secretary of the Swiss Embassy in Sri Lanka, Susanthi Gopalakrishnan.
-
-MPs C. Sreedharan and P. Satyalingam on behalf of the Sri Lanka Tamil National Alliance (TNA), MP Selvam Adakkalanathan on behalf of the Democratic Tamil National Alliance and former MP Selvarasa Gajendran on behalf of the Tamil National People's Front.
-
-◼️
-
-[Data](articles/dd7022a5.json)
-
-[Extended Data](ext_articles/dd7022a5.ext.json)
-
----
-
-### යතුරුපැදිය සේදීමට ගිය තරුණයාට දිවි අහිමි වෙයි
-
-*2024-12-08 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204166) · `si`
-
-යහළුවන් සමග සිය යතුරුපැදිය සේදීමට ළිඳට පැමිණි තරුණයෙකු ළිඳට වැටී දියේ ගිලි මියගොස් තිබේ.
-
-යතුරුපැදිය සෝඳමින් සිටින විටදී බාල්දිය ළිඳ වැටී ඇති අතර එය නැවත ගැනීමට උත්සාහ කිරීමේ දී තරුණයා ළිඳට වැටී දියේ ගිලි ඇති බව අනාවරණය වී ඇත.
-
-පොලීසිය පැවසුවේ කළුතර, පනාපිටිය ප්‍රදේශයේ දී අද (08) සවස මෙම අනතුර සිදුව ඇති බවය.
-
-මෙලෙස මියගොස් ඇත්තේ මහියංගනය ප්‍රදේශයේ පදිංචිව සිටි 18 හැවිරිදි තරුණයෙකි.
-
-ඔහු ඊයේ (07) කළුතර, පනාපිටිය ප්‍රදේශයට පැමිණ ඇත්තේ සිය යහළුවන් දෙදෙනෙකු සමග සම්මුඛ පරීක්ෂණයකට සහභාගි වීම සඳහාය.
-
-◼️
-
-[Data](articles/4448988d.json)
-
----
-
-### Cannabis Garden discovery in Hambagamuwa area
+### ஹம்பேகமுவ பகுதியில் கஞ்சா தோட்டம் கண்டுபிடிப்பு - ஒருவர் கைது
 
 *2024-12-08 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200751) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+ஹம்பேகமுவ பொலிஸ் பிரிவில் உள்ள காட்டுப் பகுதியில் கஞ்சா தோட்டம் பராமரித்துவந்த சந்தேக நபர் ஒருவர் இன்று ஞாயிற்றுக்கிழமை (08) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
 
+கைது செய்யப்பட்ட சந்தேக நபர் தனமல்வில பிரதேசத்தைச் சேர்ந்த 52 வயதுடையவர் ஆவார்.
 
+ஒரு ஏக்கர் நிலப்பரப்பில் உள்ள இந்த கஞ்சா தோட்டத்தில் சுமார் 18,000 கஞ்சா செடிகள் 03 அடி உயரம் வரை வளர்ந்திருந்ததாக பொலிஸார் தெரிவித்தனர்.
 
-Arrest made in Hambagamuwa: 52-year-old man caught cultivating 18,000 cannabis plants. Police investigation ongoing.
-
-🟩
-
-A suspect who maintained a ganja garden in the Hambagamuwa police division has been arrested by the police today (08).
-
-The arrested suspect is 52 years old from Dhanamalwila.
-
-About 18,000 cannabis plants have grown up to 3 feet high in the cannabis garden on one acre of land, police said.
-
-Further investigations are being carried out by Hambagamuwa Police Station officials.
+இது தொடர்பான மேலதிக விசாரணைகளை ஹம்பேகமுவ பொலிஸ் நிலைய அதிகாரிகள் மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/fe63acb2.json)
-
-[Extended Data](ext_articles/fe63acb2.ext.json)
 
 ---
 
@@ -207,8 +71,6 @@ Mahama confirmed that Bawumia had called to congratulate him on his “emphatic 
 ...
 
 [Data](articles/d99044a9.json)
-
-[Extended Data](ext_articles/d99044a9.ext.json)
 
 ---
 
@@ -342,6 +204,34 @@ He was arrested after a roundup of information received by a team of police offi
 
 ---
 
+### There is no confidence in the government - missing relatives informed the Deputy Secretary of State Switzerland
+
+*2024-12-08 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200741) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Lack of trust in government over missing relatives inquiry. Swiss diplomat meets families, but no progress on investigations or justice mechanisms. Government accused of deception and inaction on war-era disappearances.
+
+🟩
+
+When our relations surrendered in four places - Anandapuram, Vattuvagal, Devipuram and Omanthai, the government headed by the President Anurakumara, who was on duty, has first asked the Missing Relatives to interrogate and confidently confidently appealed to TM Enderlin, the Secretary of State for Switzerland.
+
+Tim Enderlin, Secretary of State for the Federal Department of Foreign Affairs of Switzerland, who visited Sri Lanka, made a two -day visit to the North.
+
+He had met with relatives of the missing persons in Kilinochchi yesterday evening.
+
+The meeting was attended by Switzerland's Assistant Secretary of State, Dr. Srivold, Switzerland's Ambassador to Sri Lanka, Justin Polliot, First Secretary of Human Defense and Senior Officer of the National Program, Susanthi Gopala Krishnan.
+
+...
+
+[Data](articles/1b6339b5.json)
+
+[Extended Data](ext_articles/1b6339b5.ext.json)
+
+---
+
 ### One arrested with Koda in Katunayake
 
 *2024-12-08 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200738) · `ta`
@@ -420,31 +310,23 @@ Concurrently, a style of officers consisted of the ambassadors.
 
 ---
 
-### Sudden raid in Vavuniya:
+### வவுனியாவில் பொலிஸார் திடீர் சோதனை : பலர் மீது வழக்குப் பதிவு
 
 *2024-12-08 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200731) · `ta`
 
-Vavuniya police conducted a raid due to rising dengue cases. They targeted homes, businesses, and schools, finding stagnant water and mosquito breeding sites. Cases were filed against property owners for environmental contamination. The public was advised to maintain cleanliness to combat the spread of dengue.
+வவுனியா நகரம் மற்றும் நகரை அண்மித்த சில பகுதிகளில் பொலிஸார் திடீர் சோதனை நடவடிக்கையை முன்னெடுத்ததுடன், டெங்கு நுளம்பு பெருகும் வகையில் சூழலை அசுத்தமாக வைத்திருப்போருக்கு எதிராக வழக்குத் தாக்கலும் செய்யப்பட்டது.
 
-🟩
+கடந்த சில நாட்களாக பெய்த மழையின் காரணமாக டெங்கு நோய் தாக்கம் வவுனியாவில் அதிகரித்து வருகிறது.
 
-In some areas near the city of Vavuniya and some of the city, the police carried out a raid and sued those who were contaminated with dengue mosquitoes.
+இதனையடுத்து வவுனியா நகரம் மற்றும் நகரையண்டிய பகுதிகளில் உள்ள வீடுகள், வர்த்தக நிலையங்கள், கல்வி நிலையங்கள் என்பவற்றில் வவுனியா பொலிஸார் இன்று ஞாயிற்றுக்கிழமை (08) திடீர் சோதனை நடவடிக்கை மேற்கொண்டனர்.
 
-Due to heavy rains over the past few days, the prevalence of dengue has been increasing in Vavuniya.
+இதன்போது டயர்கள், சிரட்டைகள், வெற்றுப் போத்தல்கள் என்பவை பல இடங்களில் காணப்பட்டதுடன், அந்த பொருட்களுக்குள் நீர் தேங்கி நுளம்பு குடம்பிகளும் இனங்காணப்பட்டன.
 
-Subsequently, the Vavuniya police carried out a raid on Sunday (08) at homes, trade centers and educational centers in Vavuniya.
+நுளம்பு குடம்பிகள் உருவாகுமளவு சூழலை அசுத்தமாக வைத்திருந்த வீட்டு உரிமையாளர்கள், வர்த்தக நிலைய உரிமையாளர்கள் ஆகியோருக்கு எதிராக பொலிஸார் வழக்கு பதிவு செய்தனர்.
 
-Tires, syrups and empty bottles were found in many places, and the water stagnant and follicles were identified.
-
-Police have filed a case against homeowners and shoplifting owners who have contaminated the environment.
-
-Meanwhile, the police have advised the public to keep homes, trade centers and surrounding areas so that the impact of dengue is increasing.
-
-◼️
+...
 
 [Data](articles/155047de.json)
-
-[Extended Data](ext_articles/155047de.ext.json)
 
 ---
 
@@ -586,29 +468,19 @@ It is reported that the suspects have been handed over to the Karuwalagaswewa Wi
 
 ---
 
-### A man arrested with ice drugs in Puttalam
+### புத்தளத்தில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது
 
 *2024-12-08 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200746) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+புத்தளம் பொலிஸ் பிரிவுக்குட்பட்ட பலவியா பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் ஒருவர் நேற்று சனிக்கிழமை (07) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
 
+பொலிஸ் விசேட அதிரடிப்படையின் புத்தளம் முகாமின் அதிகாரிகள் குழுவொன்று மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
 
-
-Man arrested in Puttalam with ice drugs. Police raid led to seizure of 5g of 500mg ice. Incident occurred on Saturday (07).
-
-🟩
-
-A man was arrested by police on Saturday (07) with ice drugs in the Puttalam police division.
-
-He was arrested after a raid conducted by a team of officials of the Puttalam Camp of the Police Special Task Force.
-
-05 grams of 500 milligrams of ice from the suspect has been seized by the police.
+சந்தேக நபரிடமிருந்து 05 கிராம் 500 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/d7106d1f.json)
-
-[Extended Data](ext_articles/d7106d1f.ext.json)
 
 ---
 
@@ -638,23 +510,17 @@ The 38 -year -old man who lives in Kadawatha, Kanemulla area has been arrested, 
 
 ---
 
-### 44 Kerala Cannabis Packages Has Constituted in Jaffna
+### யாழில் கைப்பற்றப்பட்ட 44 கேரள கஞ்சாப் பொதிகள்!
 
 *2024-12-08 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200707) · `ta`
 
-Kerala cannabis seized in Jaffna: 126kg in 44 packages. Navy interdicts shipment.
+யாழ்ப்பாணம் கடற்பரப்பில் வைத்து 126 கிலோகிராமுக்கும் அதிக நிறையுடைய கேரள கஞ்சா கடற்படையினரால் கைப்பற்றப்பட்டுள்ளது.
 
-🟩
-
-More than 126 kilograms of Kerala cannabis have been seized by the Navy in the Jaffna Sea.
-
-The Kerala Cannabis drug has been kept in 44 packs, the Navy Media Unit said.
+இந்த கேரள கஞ்சா போதைப்பொருள் 44 பொதிகளில் வைக்கப்பட்டிருந்ததாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/9d4c9551.json)
-
-[Extended Data](ext_articles/9d4c9551.ext.json)
 
 ---
 
@@ -730,53 +596,41 @@ The assistance has been provided to reflect the policy of Indian Prime Minister 
 
 ---
 
-### In Korea's five-year ministry stolen $ 9800
+### කොරියාවේ වසර පහක් සේවය කර පැමිණි අයෙකුගේ ඩොලර් 9800ක් සොරකම් කරලා
 
 *2024-12-08 16:37:27* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-වසර-පහක්-සේවය-කර-පැමිණි-අයෙකුගේ-ඩොලර්-9800ක්-සොරකම්-කරලා/11-413521) · `si`
 
-Korean ministry theft: $9800 stolen, suspect arrested in Sri Lanka. 26-year-old from Godakawela accused of stealing money from Korean factory worker in Ratnapura.
+කොරියාවේ වසර පහක් සේවය කර මෙරටට පැමිණි පුද්ගලයෙකුගේ ඩොලර් 9800ක් රුපියල් (28,91000) ක්  සහ සිගරට් පැකට් 10 ක් සොරකම් කිරිමේ සිද්ධියක් සම්බන්ධව ලැබුණු පැමිණිල්ලලක් මත සිදු කරන විමර්ශණයකින් පසු අදාල මුදල් සමඟ සැකකරුවෙකු අත් අඩංගුවට ගත් බව රත්නපුර පොලිසිය පවසයි.
 
-🟩
+මෙම සැකකරු ගොඩකවෙල අරඹේවත්ත පදිංචි අවුරුදු 26 ක් වන (ජනිත්ජිනාල්) අවිවාහක පුද්ගලයෙකු බව පොලිසිය පවසයි
 
-A suspect has been arrested with the money after a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint.
+රත්නපුර හංගමුව ප්‍රදේශයේ පදිංචි සිද්ධියට අදාල පැමිණිලිකරු කොරියාවේ කර්මාන්ත ශාලාවක වසර පහක් පමණ සේවය කර පසුගිය 3 වන දින මෙරටට පැමිණ ඇත.
 
-Police say the suspect is a 26 year old resident of Godakawela (Janadhadal)
+පසුව රත්නපුර බටුහේන ප්‍රදේශයේ තම මිතුරෙකු විසින් පවත්වා ගෙන යනු ලබන වාහන අලංකරණ කටයුතු කරන ආයතනයට පැමිණ එම කාර්යාලයේ තම බෑගය තබා මිතුර සමඟ රත්නපුරයට පැමිණ ඇත.
 
-The complainant from the Hangamuwa, Hangamuwa, Ratnapura and served in Korea factory and arrived in Sri Lanka on the 3rd.
-
-Vehicles maintained by a friend conducted in Bathena, Ratnapura and returned to Ratnapura with a friend in Ratnapura.
-
-The Ratnapura Police has lodged a complaint with the 6th and 10 packets of cigarettes in the bag on the next day.
+පසුදින4 වන දින මිතුරාගේ ආයතනයට ගිය අවස්ථාවේ එහි කාර්යාලයේ දොර කඩා බෑගයේ තිබු ඩොලර් 9800ක් සහ සිගරට් පැකට් 10 ක් සොරාගෙන ගොස් ඇති බවට රත්නපුර පොලිසියට 6 වන දින පැමිණිලි කර ඇත.
 
 ...
 
 [Data](articles/520a6e1c.json)
 
-[Extended Data](ext_articles/520a6e1c.ext.json)
-
 ---
 
-### President's order is being implemented - Consumer Affairs Officials for rice mills of Polonnaruwa
+### ජනපතිගේ නියෝගය ක්‍රියාත්මකයි - පාරිභෝගික අධිකාරියේ නිලධාරීන් පොලොන්නරුවේ සහල් මෝල්වලට
 
 *2024-12-08 16:28:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-නියෝගය-ක්‍රියාත්මකයි---පාරිභෝගික-අධිකාරියේ-නිලධාරීන්-පොලොන්නරුවේ-සහල්-මෝල්වලට/11-413520) · `si`
 
-Consumer Affairs Authority investigates Polonnaruwa rice mills under President's order. Special team to inspect paddy stores and mills for 10 days.
+පොළොන්නරුව දිස්ත්‍රික්කයේ වී ගබඩා සහ සහල් මෝල් පරීක්ෂා කොට ඔවුන් සතුව පවතින වී තොග සම්බන්ධව සහ දිනපතා ඔවුන් විසින් වෙළඳපොළට නිකුත් කරනු ලබන සහල් ප්‍රමාණයන් පිළිබඳව තොරතුරු ලබාගැනීම සඳහා පාරිභෝගික අධිකාරියේ විශේෂ විමර්ශන නිලධාරීන් කණ්ඩායමක් අද පොළොන්නරුවේ ප්‍රධාන පෙළේ  සහල් මෝල් විශේෂ පරීක්ෂාවකට ලක් කළේය.
 
-🟩
+දිස්ත්‍රික්කයේ ප්‍රධාන සහල් සැපයුම්කරුවන්ගේ සහල් නිෂ්පාදන ආයතන වලට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ නිලධාරීන් යෙදවීමට කටයුතු කළ බව විමර්ශනය සඳහා එක්ව සිටි  පාරිභෝගික අධිකාරියේ ජ්‍යෙෂ්ඨ නිලධාරියෙකු ප්‍රකාශ කළේය.
 
-A special investigation officials of the Consumer Affairs Authority (CA) a special investigation into the mainstream mills of Polonnaruwa today to obtain information on paddy stores and rice mills in the Polonnaruwa district.
+මේ අනුව ප්‍රධාන පෙළේ සහල් මෝල් නිෂ්පාදන ආයතන අටක සඳහා නිලධාරීන් දෙදෙනා බැගින් යෙදවීමට කටයුතු කරන බවත් එම නිලධාරින් දෙදෙනා දින දහයක කාලයක් සහල් මෝල් වලින් නිෂ්පාදනය කරන සහල් ප්‍රමාණය සහ දිනකට වෙළඳපොළට යවන සහල් ප්‍රමාණය පිළිබඳව විශේෂ විමර්ශනයක් සිදු කරන බව එම නිලධාරියා සඳහන් කළේය.
 
-A senior consumer author of the Consumer Affairs Authority (CEB) participated in the investigation of the Consumer Affairs Authority to the rice supplier of the district.
-
-Accordingly, two officials will be deployed for eight rice mill manufacturing agencies, the official said that a special investigation will be conducted in rice mills for ten days.
-
-He further stated that this was implemented on the special order of President Anura Kumara Dissanayake.
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ විශේෂ නියෝගය මත මේ ක්‍රියාත්මක කළ බව හෙතෙම ඒ මහතා සඳහන් කළේය.
 
 ...
 
 [Data](articles/6449d2fc.json)
-
-[Extended Data](ext_articles/6449d2fc.ext.json)
 
 ---
 
@@ -830,27 +684,17 @@ Meanwhile, 92 Air Force helicopter laundering Air Force helicopter launches came
 
 ---
 
-### Public Day of the Ministry of Agriculture - First Monday every month
+### කෘෂිකර්ම අමාත්‍යාංශයේ මහජන දිනය සෑම මසකම පළමු සඳුදා
 
 *2024-12-08 16:18:18* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-අමාත්‍යාංශයේ-මහජන-දිනය-සෑම-මසකම-පළමු-සඳුදා/11-413519) · `si`
 
-Here's a summary in 200 characters:
+කෘෂිකර්ම, පශු සම්පත්‍, ඉඩම් හා වාරිමාර්ග අමාත්‍යාංශයේ මහජන දිනය සෑම මසකම පළමුවැනි සඳුදා දින පැවැත්වෙන බව එම අමාත්‍යාංශය සඳහන් කරයි.
 
-
-
-"Ministry of Agriculture public day: First Monday monthly, 9am-4pm. Participating: Minister KD, Deputy Ministers Namal Karunaratne & Dr. Susil Ranasinghe, Secretary & department heads."
-
-🟩
-
-The Ministry of Agriculture, Livestock, Land and Irrigation Ministry will be held on Mondays every month.
-
-These people will be held from 9.00 am to 4.00 pm. Minister KD for public date. Lal Kanthe, Deputy Ministers Namal Karunaratne and Dr. Susil Ranasinghe are participating in the Secretary to the Ministry and the chiefs of all the Ministry.
+මෙම මහජන උදෑසන 9.00 සිට පස්වරු 4.00 දක්වා පැවැත්වීමට නියමිතය. මහජන දිනය වෙනුවෙන් අමාත්‍ය කේ.ඩී. ලාල්කාන්ත, නියෝජ්‍ය අමාත්‍යවරුන් වන නාමල් කරුණාරත්න, වෛද්‍ය සුසිල් රණසිංහ අමාත්‍යාංශ ලේකම් හා අමාත්‍යාංශය සතු සියලුම ආයතනවල ප්‍රධානීන්ගේ සහභාගිත්වයෙන් පැවැත්වීමට නියමිතය.
 
 ◼️
 
 [Data](articles/2856e9ef.json)
-
-[Extended Data](ext_articles/2856e9ef.ext.json)
 
 ---
 
@@ -2412,27 +2256,17 @@ The Bloemandhal centre is planned as a 42,000 square multistorey warehouse compl
 
 ---
 
-### Ranil who checked for Anura
+### அநுரவுக்கு செக் வைத்த ரணில்
 
 *2024-12-08 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200683) · `ta`
 
-Here's a summary of 200 characters:
+இந்தியாவின் மேலாதிக்கத்தை விரும்பாத, அதனை எதிர்த்த, அதன் தலையீடுகளுக்கு எதிராக ஆயுதப் போராட்டம் நடத்திய ஒரு கட்சியின் தலைவர் என்ற வகையில் அநுரகுமார திசாநாயக்க இந்த பயணத்தை கையாள முற்பட்டால், அது இரு தரப்பு உறவுகளை சரியான நிலையில் வைத்துக் கொள்வதற்கு உதவாது.மாறாக மாற்றத்தை விரும்பும் மக்களினால் தெரிவு செய்யப்பட்ட ஒரு தலைவர் என்ற வகையில், அவர் புதிய கண்ணோட்டத்துடனும் அணுகுமுறையுடனும் இந்தியாவுடன் நட்புறவையும் நெருக்கத்தையும் கையாளுவதற்கு, அவர் முற்பட்டால் அது ஆக்கபூர்வமான ஒன்றாக இருக்கும்.
 
-
-
-Ranil checks on Anura. Anura Dissanayake's approach as party leader may strain ties with India, which dislikes Indian dominance. For better bilateral relations, he should foster friendship and intimacy with India. India expects him to handle the trip constructively.
-
-🟩
-
-If Anuragumara Dissanayake sought to handle this journey as a party leader who has been an armed party against its intervention, which does not like India's supremacy, it will not help keep the two -party relations in the right position.To deal with friendship and intimacy with India, it would be constructive if he sought to.
-
-India seems to be in the expectation that Anuragumara Dissanayake will carry out this trip with such a constructive attitude.
+அத்தகைய ஒரு ஆக்கபூர்வமான அணுகுமுறையுடன் அநுரகுமார திசாநாயக்க இந்தப் பயணத்தை முன்னெடுப்பார் என்ற எதிர்பார்ப்பிலேயே, இந்தியா இருப்பதாக தெரிகிறது.
 
 ◼️
 
 [Data](articles/05a89173.json)
-
-[Extended Data](ext_articles/05a89173.ext.json)
 
 ---
 
@@ -2462,25 +2296,15 @@ Police investigations have revealed that another person was involved in the murd
 
 ---
 
-### Background of Congress: The future of unique politics for Muslims?
+### காங்கிரஸ்களின் பின்னடைவு : முஸ்லிம்களுக்கான தனித்துவ அரசியலின் எதிர்காலம்?
 
 *2024-12-08 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200682) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-Muslim political representation faces challenges. Leaders must adapt to changing needs. Youth should take over, ensuring relevant policies for Muslim communities without compromising broader political goals.
-
-🟩
-
-There is no denying that Muslim leaders and former MPs are the result of Ashraf after Ashraf. However, in particular, the Muslim parties have been an arrangement to present their aspirations and positions in the North and East Muslims.. So, its leaders. If the commanders and MPs are wrong, they must correct themselves or exclude them and the next generation of youth must take this politics.. But it must be understood that the Muslim community cannot be buried or buried, or for the sake of not regular Muslim politicians.
+முஸ்லிம்களுக்கான தனித்துவ அடையாள அரசியலை அஷ்ரபிற்குப் பிறகு சீரழித்தது முஸ்லிம் தலைவர்களும் முன்னாள் எம்.பி.க்களும்தான் என்பதை மறுக்க முடியாது. ஆயினும், குறிப்பாக வடக்கு, கிழக்கு முஸ்லிம்களைப் பொறுத்தவரையில் தங்களது அபிலாஷைகள், நிலைப்பாடுகளை கொஞ்சமேனும் முன்வைப்பதற்கான ஒரு ஏற்பாடாக முஸ்லிம் கட்சிகள் இருந்திருக்கின்றன. எனவே, அதன் தலைவர்கள். தளபதிகள், எம்.பி.க்கள் தவறு என்றால் ஒன்று அவர்கள் சுயமாக தம்மை திருத்திக் கொள்ள வேண்டும் அல்லது அவர்களை ஒதுக்கித் தள்ளிவிட்டு அடுத்த தலைமுறை இளைஞர்கள் இந்த அரசியலை கையிலெடுக்க வேண்டும்.தேசிய நீரோட்டத்தோடு ஒரு பெருந்தேசியக் கட்சியுடன் முஸ்லிம்கள் இணைந்து பயணிப்பது மிக அவசியமானது. ஆனால், அதற்காகவோ அல்லது வழக்கமான முஸ்லிம் அரசியல்வாதிகள் கூடாதவர்கள் என்பதற்காகவோ, முஸ்லிம் சமூகம் நமக்கான சொந்த அரசியலை அப்படியே குழிதோண்டிப் புதைத்து விடவோ, தூர்ந்து போய்விடவோ இடமளிக்க முடியாது என்பதை புரிந்து கொள்ள வேண்டும்.
 
 ◼️
 
 [Data](articles/bb2ba654.json)
-
-[Extended Data](ext_articles/bb2ba654.ext.json)
 
 ---
 
@@ -2501,5 +2325,83 @@ Ex-Defence Minister Kim Yong-hyun, who stepped down on Wednesday after Yoon resc
 [Data](articles/8c2f35a4.json)
 
 [Extended Data](ext_articles/8c2f35a4.ext.json)
+
+---
+
+### Vindhan Kanakaratnam Pause
+
+*2024-12-08 09:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விந்தன்-கனகரத்தினம்-இடைநிறுத்தம்/175-348407) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+LTTE leadership suspends member Vindhan Kanakaratnam over internal allegations. Committee sends letters to supporters of Wickremesinghe and others regarding election candidates.
+
+🟩
+
+The leadership committee of the Liberation Tigers of Tamil Eelam (LTTE) has temporarily suspended from the party and the leadership committee has decided to send a letter from him.
+
+The leadership committee of the Liberation Tigers of Tamil Eelam (LTTE) was held on Saturday (07) at a private guest hostel located on the Second Cross Street, Vavuniya.
+
+Vindhan Kanagaratnam has been accused of allegations of the party's internal information.
+
+The leadership committee has subsequently decided to suspend him from the party and seek an explanation from him.. Meanwhile, some members have protested against him. Following the resolution, Vindan had left the meeting at the Kanagaratnam meeting.
+
+Meanwhile, the leadership committee has decided to send a letter to former parliamentarian Vinonogarathalingam to support former President Ranil Wickremesinghe in the last presidential election in violation of the party's decision.
+
+...
+
+[Data](articles/3be76603.json)
+
+[Extended Data](ext_articles/3be76603.ext.json)
+
+---
+
+### இஸ்ரேல், ஹமாஸ் தலைவர்கள் மீதான கைது உத்தரவு   அமெரிக்கத் தலைவர்களுக்கும் விரிவுபடுத்தப்பட வேண்டும்
+
+*2024-12-08 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200679) · `ta`
+
+பைடன் நிர்வாகத்தின் முக்கிய அதிகாரிகளுக்கு எதிராக தொழில்நுட்ப ரீதியாக குற்றச்சாட்டுகளைக் கொண்டுவரக்கூடிய சட்ட வழிமுறைகளை ஐ.சி.சி மற்றும் ரோம் சாசனம் கொண்டுள்ளன என்று சட்ட வல்லுநர்கள் கூறுகின்றனர்.
+
+◼️
+
+[Data](articles/38343da7.json)
+
+---
+
+### නදීමාල් පෙරේරාට පහරදීමක්
+
+*2024-12-08 09:38:40* · [`adalk`](https://www.ada.lk/breaking_news/නදීමාල්-පෙරේරාට-පහරදීමක්/11-413513) · `si`
+
+ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරා මහතාගේ පුත් වන  නදිමල් පෙරේරාට පානදුර හෝටලයකදී පහරදුන් පුද්ගලයෙකු සහ ගැටුම මැඩපැවැත්වීමට ගිය පොලිස් නිළධාරින්ට බාධාකල පුද්ගලයකු අත්අඩංගුවට ගත්බව පානදුර උතුර පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව ප්‍රදේශයේ පදිංචි පුද්ගලයන් දෙදෙනකු  බව පොලිසිය කීය.
+
+පානදුර, ගොරකාන ප්‍රදේශයේ ප්‍රසිද්ධ උත්සව ශාලාවකදී මොරටුව ප්‍රදේශයේ ප්‍රසිද්ධ පාසලකින් පවත්වනු  ලැබූ උත්සවයක සංගීත වැඩසටහනකට සහභාගි වූ ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරාගේ පුත් වන නදිමල් පෙරේරාට එම උත්සව ශාලාවේම වෙනත් උත්සවයකට සහභාගි වූ පුද්ගලයකු පහරදී නදිමල් පෙරේරා පානදුර මූලික රෝහලට ඇතුලත් කළ බව  පානදුර  උතුර පොලිසිය ප්‍රකාශ කරයි.
+
+පානදුර උතුර ගොරකාන  ප්‍රදේශයේ ප්‍රධාන උත්සව ශාලාවක මොරටුව ප්‍රදේශයේ පාසලකින් පවත්වනු ලැබූ සංගීත ප්‍රසංගයක් සඳහා නදිමල් පෙරේරා නියෝජනය කරන සංගීත කණ්ඩායමට සංගීතය සැපයීම සඳහා ආරාධනා ලැබ තිබී ඇති  අතර, මෙම සංගීත ප්‍රසංගය අතරතුර නදිමාල් පෙරේරා පහත මහලට බැස සිටියදී පුද්ගලයෙකු ඔහුට පහර දී ඇත.
+
+...
+
+[Data](articles/2c608b4d.json)
+
+---
+
+### නදීමාල් පෙරේරාට පහරදීමක්නදීමාල් පෙරේරාට පහරදීමක්
+
+*2024-12-08 09:38:40* · [`adalk`](https://www.ada.lk/breaking_news/නදීමාල්-පෙරේරාට-පහරදීමක්නදීමාල්-පෙරේරාට-පහරදීමක්/11-413513) · `si`
+
+ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරා මහතාගේ පුත් වන  නදිමල් පෙරේරාට පානදුර හෝටලයකදී පහරදුන් පුද්ගලයෙකු සහ ගැටුම මැඩපැවැත්වීමට ගිය පොලිස් නිළධාරින්ට බාධාකල පුද්ගලයකු අත්අඩංගුවට ගත්බව පානදුර උතුර පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව ප්‍රදේශයේ පදිංචි පුද්ගලයන් දෙදෙනකු  බව පොලිසිය කීය.
+
+පානදුර, ගොරකාන ප්‍රදේශයේ ප්‍රසිද්ධ උත්සව ශාලාවකදී මොරටුව ප්‍රදේශයේ ප්‍රසිද්ධ පාසලකින් පවත්වනු  ලැබූ උත්සවයක සංගීත වැඩසටහනකට සහභාගි වූ ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරාගේ පුත් වන නදිමල් පෙරේරාට එම උත්සව ශාලාවේම වෙනත් උත්සවයකට සහභාගි වූ පුද්ගලයකු පහරදී නදිමල් පෙරේරා පානදුර මූලික රෝහලට ඇතුලත් කළ බව  පානදුර  උතුර පොලිසිය ප්‍රකාශ කරයි.
+
+පානදුර උතුර ගොරකාන  ප්‍රදේශයේ ප්‍රධාන උත්සව ශාලාවක මොරටුව ප්‍රදේශයේ පාසලකින් පවත්වනු ලැබූ සංගීත ප්‍රසංගයක් සඳහා නදිමල් පෙරේරා නියෝජනය කරන සංගීත කණ්ඩායමට සංගීතය සැපයීම සඳහා ආරාධනා ලැබ තිබී ඇති  අතර, මෙම සංගීත ප්‍රසංගය අතරතුර නදිමාල් පෙරේරා පහත මහලට බැස සිටියදී පුද්ගලයෙකු ඔහුට පහර දී ඇත.
+
+...
+
+[Data](articles/c827a38f.json)
 
 ---

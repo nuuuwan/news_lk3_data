@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 22:02:40**
+As of **2024-12-08 22:42:43**
 
 ## Newspaper Stats
 
-*Scraped **59,136** Articles*
+*Scraped **59,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,156 @@ economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,605
-adaderanalk | 7,183
+adaderanalk | 7,185
 tamilmirrorlk | 8,444
-virakesarilk | 9,706
-adaderanasinhalalk | 10,220
+virakesarilk | 9,707
+adaderanasinhalalk | 10,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,127 (100.0%) of 59,136 articles have been extended.
+59,139 (100.0%) of 59,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### Person killed in shooting in Gampaha
+
+*2024-12-08 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104086/person-killed-in-shooting-in-gampaha) · `en`
+
+A 39-year-old man has been killed in a shooting incident reported at Kaudangaha Junction in Thammita, Gampaha.
+
+Police said that the unidentified gunmen have arrived on a motorcycle and opened fire at the victim.
+
+◼️
+
+[Data](articles/a9af561d.json)
+
+---
+
+### Gampaha shooting
+
+*2024-12-08 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204170) · `si`
+
+Gampaha shooting: Motorcycle rider killed, another injured. Police investigating cause. Remains at Gampaha hospital.
+
+🟩
+
+The police said that night was shooting at the Kaumitiya Road, Thammeda Road, Gampaha Police Division.
+
+A person who was traveling on a motorbike was shot dead by another motorcycle, and the man who was injured was rushed to the Gampaha Hospital.
+
+However, the cause of shooting is yet to be ascertained, police suspect that the shooting has been carried out with a pistol type.
+
+The remains are placed at the Gampaha hospital morgue and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/3e527bf6.json)
+
+[Extended Data](ext_articles/3e527bf6.ext.json)
+
+---
+
+### The beautiful Chinese woman came from earth
+
+*2024-12-08 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204169) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Chinese woman from Earth lectures on sin in Wellawatte/Bambalapitiya. Accident occurs while filming. Tree branch falls, girl unharmed after hitting bush. Police investigation ongoing.
+
+🟩
+
+A Chinese lecture was heading on the sinful sinner at the Wellawatte and Bambalapitiya last evening in Wellawatte and Bambalapitiya.
+
+The accident occurred while the friend was filming by the mobile phone.
+
+It is noted that a branch of a tree falls out of a tree when she is moving on the sin.
+
+The police said that the girl had not wounded due to falling on a bush.
+
+◼️
+
+[Data](articles/529de037.json)
+
+[Extended Data](ext_articles/529de037.ext.json)
+
+---
+
+### A young man who washed a motorcycle fell into a well
+
+*2024-12-08 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200758) · `ta`
+
+Young man washing motorcycle falls into well, drowns in Kalutara. 18-year-old from Mahiyanganaya area. Incident occurred Sunday evening. Police investigating.
+
+🟩
+
+A young man who came to the well to wash a motorcycle with friends has fallen into the well and drowned.
+
+The accident occurred on Sunday evening in Panapitiya, Kalutara, police said.
+
+The youth fell into the well and drowned in the well while the bucket fell into the well and tried to recover it.
+
+The deceased belongs to the 18 -year -old Mahiyanganaya area, police said.
+
+◼️
+
+[Data](articles/9cda7e89.json)
+
+[Extended Data](ext_articles/9cda7e89.ext.json)
+
+---
+
+### Minister reveals reasoning behind combining Foreign Affairs and Tourism ministries
+
+*2024-12-08 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104085/minister-reveals-reasoning-behind-combining-foreign-affairs-and-tourism-ministries) · `en`
+
+Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath says that for the first time, Sri Lanka has combined the subjects of foreign affairs and tourism under a single ministry, given the interconnected nature of these two fields.
+
+The Foreign Minister expressed this while joining the International Bazaar and Cultural Extravaganza 2024, organized by the Ministry of Foreign Affairs, Foreign Employment and Tourism in collaboration with the Sri Lanka Foreign Service Association and Good Market Sri Lanka which was held on Saturday (07) in Colombo.
+
+Speaking at the same event, Prime Minister Dr. Harini Amarasuriya emphasized the importance of the country’s Apparel and Textile sector becoming globally competitive in a manner never before accomplished.
+
+The event was graced by Prime Minister, Dr. Harini Amarasuriya and Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
+
+...
+
+[Data](articles/01c46e80.json)
+
+---
+
+### Sri Lanka beat 143 runs
+
+*2024-12-08 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204168) · `si`
+
+Sri Lanka won by 143 runs in the final Test against South Africa. Chasing 143, SL lost 5 wickets. Kusal Mendis and Dananjaya scored 39 runs for the 6th wicket. South Africa scored 358 in the first innings and 317 in the second. SL won the series, ending SA's tour without defeat.
+
+🟩
+
+Sri Lanka, who was in the final Test cricket match between Sri Lanka and South Africa, was gathered at 205 runs for the loss of 5 wickets.
+
+Sri Lanka is chasing 143 runs for the victory of 5 wickets.
+
+Kusal Mendis and Dananjaya Dananjaya de Silva remained 39 runs for the 6th wicket.
+
+South Africa first scored 358 runs for the loss of all wickets in their first innings, and Sri Lanka scored 328 runs.
+
+South Africa, who started the second innings with a 30-run advantage, only 317 runs.
+
+Accordingly, South African competition tour is essential to Sri Lanka to end the visit without Jayakarajayya.
+
+◼️
+
+[Data](articles/c0bef063.json)
+
+[Extended Data](ext_articles/c0bef063.ext.json)
+
+---
 
 ### Customers who are looking for rice and coconut
 
@@ -2373,145 +2509,5 @@ In addition, he said that since December 01, PHIs have carried out more than 150
 [Data](articles/0de8cc00.json)
 
 [Extended Data](ext_articles/0de8cc00.ext.json)
-
----
-
-### Syrian president fled the country
-
-*2024-12-08 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200689) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Syrian Pres. Bashar al-Assad reportedly fled the country. This news, if confirmed, would be significant as it could impact Syria's political landscape and regional stability. However, without official confirmation, details remain unclear.
-
-🟩
-
-Syrian President Basar al -Assad has left the country
-
-◼️
-
-[Data](articles/a909df4a.json)
-
-[Extended Data](ext_articles/a909df4a.ext.json)
-
----
-
-### Sri Lanka’s Colombo port to seek private investors for two logistics centres
-
-*2024-12-08 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-to-seek-private-investors-two-logistics-centres-192837/) · `en`
-
-ECONOMYNEXT- Sri Lanka Ports Authority is planning to seek investors to build a second logistics centre in Colombo Port next year, followed by a third later, Chairman Sirimevan Ranasinghe said.
-
-“We have made plans and likely to float invitations to interested investors early next year for the Bloemandhal Centre,” Ranasinghe told Voyage Sri Lanka 2024 forum organized by Sri Lanka Export Development Board on November 26.
-
-“Out of the logistic centres planned, this is already awarded and will commence its construction work early”.
-
-The 5.1 hectare Battenberg location in the South Harbour area was awarded to a consortium made up of China’s CM Ports group and Sri Lanka’s Access group
-
-RELATED China Merchants, Sri Lanka’s Access to build US$ 392mn logistics hub
-
-The first phase of the 392 million dollar logistics centre is expected to cost 175 million dollars.
-
-The Bloemandhal centre is planned as a 42,000 square multistorey warehouse complex on 5.5 acres of land.
-
-...
-
-[Data](articles/0089b2e7.json)
-
-[Extended Data](ext_articles/0089b2e7.ext.json)
-
----
-
-### Ranil who checked for Anura
-
-*2024-12-08 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200683) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil checks on Anura. Anura Dissanayake's approach as party leader may strain ties with India, which dislikes Indian dominance. For better bilateral relations, he should foster friendship and intimacy with India. India expects him to handle the trip constructively.
-
-🟩
-
-If Anuragumara Dissanayake sought to handle this journey as a party leader who has been an armed party against its intervention, which does not like India's supremacy, it will not help keep the two -party relations in the right position.To deal with friendship and intimacy with India, it would be constructive if he sought to.
-
-India seems to be in the expectation that Anuragumara Dissanayake will carry out this trip with such a constructive attitude.
-
-◼️
-
-[Data](articles/05a89173.json)
-
-[Extended Data](ext_articles/05a89173.ext.json)
-
----
-
-### Depot assassination: depot cashier arrested
-
-*2024-12-08 09:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டிப்போ-படுகொலை-டிப்போ-காசாளர்-கைது/76-348409) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Nuwara Eliya depot incident. Cashier accused of murdering security officer and theft. Investigation ongoing involving second suspect.
-
-🟩
-
-Nuwara Eliya police said that the cashier of the same depot was arrested for allegedly killing a security officer of Nuwara Eliya Depot and robbed Rs.
-
-A man of fifty -five -year -olds from the Badulla pond area has been arrested, police said.
-
-Police investigations have revealed that another person was involved in the murder and a detailed investigation into the arrest of the suspect has been launched.
-
-◼️
-
-[Data](articles/fc13a31c.json)
-
-[Extended Data](ext_articles/fc13a31c.ext.json)
-
----
-
-### Background of Congress: The future of unique politics for Muslims?
-
-*2024-12-08 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200682) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Muslim political representation faces challenges. Leaders must adapt to changing needs. Youth should take over, ensuring relevant policies for Muslim communities without compromising broader political goals.
-
-🟩
-
-There is no denying that Muslim leaders and former MPs are the result of Ashraf after Ashraf. However, in particular, the Muslim parties have been an arrangement to present their aspirations and positions in the North and East Muslims.. So, its leaders. If the commanders and MPs are wrong, they must correct themselves or exclude them and the next generation of youth must take this politics.. But it must be understood that the Muslim community cannot be buried or buried, or for the sake of not regular Muslim politicians.
-
-◼️
-
-[Data](articles/bb2ba654.json)
-
-[Extended Data](ext_articles/bb2ba654.ext.json)
-
----
-
-### South Korea ex-defence minister arrested over President Yoon’s martial law
-
-*2024-12-08 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104071/south-korea-ex-defence-minister-arrested-over-president-yoons-martial-law) · `en`
-
-South Korean President Yoon Suk Yeol’s former defence minister was arrested on Sunday over his alleged role in Yoon’s declaration of martial law last week, prosecutors said.
-
-Yoon survived an impeachment vote in the opposition-led parliament late on Saturday, prompted by Tuesday’s short-lived attempt to impose martial law, but the leader of his own party said the president would effectively be excluded from his duties before eventually stepping down.
-
-The leader of Yoon’s People Power Party, Han Dong-hoon, in a joint press conference with the prime minister, said on Sunday that Yoon will not be involved in foreign and other state affairs before his early resignation.
-
-Ex-Defence Minister Kim Yong-hyun, who stepped down on Wednesday after Yoon rescinded martial law, was seen as a central figure in the debacle. He had proposed martial law to the president, according to a senior military official and the impeachment filings.
-
-...
-
-[Data](articles/8c2f35a4.json)
-
-[Extended Data](ext_articles/8c2f35a4.ext.json)
 
 ---

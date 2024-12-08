@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 19:42:24**
+As of **2024-12-08 20:00:33**
 
 ## Newspaper Stats
 
-*Scraped **59,130** Articles*
+*Scraped **59,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,605
-adaderanalk | 7,182
+adaderanalk | 7,183
 tamilmirrorlk | 8,443
-virakesarilk | 9,704
+virakesarilk | 9,705
 adaderanasinhalalk | 10,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,102 (100.0%) of 59,130 articles have been extended.
+59,104 (100.0%) of 59,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### ஹம்பேகமுவ பகுதியில் கஞ்சா தோட்டம் கண்டுபிடிப்பு - ஒருவர் கைது
+
+*2024-12-08 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200751) · `ta`
+
+ஹம்பேகமுவ பொலிஸ் பிரிவில் உள்ள காட்டுப் பகுதியில் கஞ்சா தோட்டம் பராமரித்துவந்த சந்தேக நபர் ஒருவர் இன்று ஞாயிற்றுக்கிழமை (08) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தனமல்வில பிரதேசத்தைச் சேர்ந்த 52 வயதுடையவர் ஆவார்.
+
+ஒரு ஏக்கர் நிலப்பரப்பில் உள்ள இந்த கஞ்சா தோட்டத்தில் சுமார் 18,000 கஞ்சா செடிகள் 03 அடி உயரம் வரை வளர்ந்திருந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+இது தொடர்பான மேலதிக விசாரணைகளை ஹம்பேகமுவ பொலிஸ் நிலைய அதிகாரிகள் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/fe63acb2.json)
+
+---
+
+### Opposition wins Ghana presidential election, vice-president accepts
+
+*2024-12-08 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104084/opposition-wins-ghana-presidential-election-vice-president-accepts) · `en`
+
+Ghana’s Vice-President Mahamudu Bawumia has accepted defeat in Saturday’s election and congratulated the opposition candidate, former President John Mahama, on his victory.
+
+The elections come amid the country’s worst economic crisis in a generation, which saw the country default on its debt.
+
+The Electoral Commission (EC) said results had been delayed because supporters of the two main parties were impeding the process and it had asked the police to clear the collation centres.
+
+Mahama’s supporters have taken to the streets to celebrate in its northern stronghold of Tamale, the central city of Kumasi and the capital, Accra.
+
+Bawumia said he was basing his statement on internal tallies from the governing New Patriotic Party (NPP).
+
+He said these showed Mahama had won “decisively”, while the opposition National Democratic Congress (NDC) had also won the parliamentary election.
+
+Mahama confirmed that Bawumia had called to congratulate him on his “emphatic victory”.
+
+...
+
+[Data](articles/d99044a9.json)
+
+---
 
 ### Two arrested with heroin in Kandy
 
@@ -190,19 +232,25 @@ The meeting was attended by Switzerland's Assistant Secretary of State, Dr. Sriv
 
 ---
 
-### கட்டுநாயக்கவில் கோடாவுடன் ஒருவர் கைது !
+### One arrested with Koda in Katunayake
 
 *2024-12-08 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200738) · `ta`
 
-கட்டுநாயக்க பொலிஸ் பிரிவுக்குட்பட்ட மாது கங்கை ரம்ய தொடுபொல பிரதேசத்தில் சட்டவிரோதமாக மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் கோடாவை வைத்திருந்த சந்தேக நபர் ஒருவரை பொலிஸார் நேற்று சனிக்கிழமை (07) கைது செய்துள்ளனர்.
+Arrest made in Katunayake: Suspect caught brewing liquor. 3,591 liters seized in police raid.
 
-கட்டுநாயக்க பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இந்த கைது நடவடிக்கையின்போது மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் 3,591,000 மில்லி லீற்றர் அளவுடைய கோடாக்கள் (19 பீப்பாய்கள்) பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+Police have arrested a suspect who had been illegally used for illegally brewing liquor in the Madhu Ganga Ramya Thodupola area belonging to the Katunayake Police Division.
+
+He was arrested during a raid carried out on confidential information received by the Katunayake police station officials.
+
+During the arrest, 3,591,000 milliliters (19 barrels) were seized by the police.
 
 ◼️
 
 [Data](articles/131c4697.json)
+
+[Extended Data](ext_articles/131c4697.ext.json)
 
 ---
 
@@ -230,23 +278,35 @@ Palani, who took advantage of this, fell in love with a woman named Pannirselvam
 
 ---
 
-### සංචාරක සහ විදේශ කටයුතු එක්කිරීම ගැන ඇමති කියූ දේ
+### What was said about bringing tourism and foreign work
 
 *2024-12-08 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204165) · `si`
 
-සංචාරක සහ විදේශ කටයුතු යන විෂය පථයන් එකම අමාත්‍යංශයක් යටතට ප්‍රථම වතාවට ගෙන ආ බව විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+Here's a summary of 200 characters:
 
-කොළඹ 07 තුරග තරගපිටිය පරිශ්‍රයේ ඊයේ (08) ආරම්භ කෙරුණු '2024 ජාත්‍යන්තර කඩමණ්ඩිය සහ සංස්කෘතික උළෙල' අමතමින් අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
 
-මෙම අවස්ථාවට අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය ඇතුළු කිහිප දෙනෙකුද සහභාගි වූහ.
 
-මෙරට පිහිටි විදේශ තානාපති කාර්යාලවල ප්‍රදර්ශන කුටි රැසක්ද මෙම උළෙල සඳහා එක්කර තිබුණි.
+Tourism & foreign employment merged under one ministry. Minister Vijitha Herath spoke at Task & Cultural Festival. Prime Minister Harini Amarasuriya attended. Embassy stalls & ambassador officers present. Fashion show promotes Sri Lankan apparel industry.
 
-ඊට සමගාමීව තානාපතිවරු ඇතුළු නිලධාරීන්ගෙන් සමන්විත විලාසිතා දැක්මක්ද පවත්වනු ලැබීය.
+🟩
+
+Minister of Foreign Employment and Tourism Vijitha Herath says that the scope of tourism and foreign affairs have been brought to the same ministry.
+
+He was speaking at the 'Task and Cultural Festival' yesterday (08), commenced on the Thagura Vyalapitiya premise.
+
+Prime Minister Dr. Harini Amarasuriya were also present at the occasion.
+
+There were many stalls of the Foreign Embassies in the country.
+
+Concurrently, a style of officers consisted of the ambassadors.
+
+"The funding we receive from Ragama, North, North Colombo, North Colombo. H. Will be donated to the Omar liver care center. This is a great reason that contributes to the improvement of health care facilities specific to Sri Lanka. As you know, we brought the only ministry on the same ministry for the first time in the intervening nature of the two scopes.. This fashion view that satisfies the members of diplomatic and international organizations, the garment show is well known in Sri Lanka's apparel industry. "
 
 ...
 
 [Data](articles/11dacfe5.json)
+
+[Extended Data](ext_articles/11dacfe5.ext.json)
 
 ---
 
@@ -2343,47 +2403,5 @@ Meanwhile, the leadership committee has decided to send a letter to former parli
 ...
 
 [Data](articles/c827a38f.json)
-
----
-
-### CAA to inspect rice mills in Polonnaruwa
-
-*2024-12-08 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104070/caa-to-inspect-rice-mills-in-polonnaruwa-) · `en`
-
-The Consumer Affairs Authority (CAA) has announced that it will conduct special inspections at rice mills in the Polonnaruwa area today (08).
-
-Accordingly, a spokesperson said that a report will be obtained regarding the daily rice production, current stock levels, and the quantity of rice released to the market.
-
-The CAA also stated that, following the instructions of President Anura Kumara Dissanayake, it will take measures to collect information from all rice mills in the future.
-
-Meanwhile, following a discussion with rice traders yesterday (07), President Dissanayake has directed new maximum retail and wholesale price limits for various rice types.
-
-The President also announced that starting today, the CAA officers will be assigned to closely monitor all rice mills and strictly enforce the law against owners who fail to comply with the fixed prices.
-
-◼️
-
-[Data](articles/f9234d99.json)
-
-[Extended Data](ext_articles/f9234d99.ext.json)
-
----
-
-### වන අලි ගැටලුවට විසඳුම් නැත්නම් වගාවෙන් ඉවත්වෙන බව ගොවීහු කියති
-
-*2024-12-08 09:29:05* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-ගැටලුවට-විසඳුම්-නැත්නම්-වගාවෙන්-ඉවත්වෙන-බව-ගොවීහු-කියති/11-413512) · `si`
-
-වන අලි ගැටලුවට විසඳුම් ලබා නොදෙන්නේ නම් තමන් ඉදිරියේදී  වගා කටයුතු වලින් ඉවත්වන බව මහවිලච්චිය ප්‍රදේශයේදී ගොවීහු පවසති.
-
-අනුරාධපුර, මහවිලච්චිය, මන්නාරම් හන්දිය ප්‍රදේශයට නිරන්තරව සිදුවන වන අලි හානිය හේතුවෙන් එම ප්‍රදේශයේ ගොවි ජනතාව දැඩි දුෂ්කරතාවයකට පත්ව තිබේ.
-
-එම ප්‍රදේශය තුල සුදු කෙරෙන වී ගොවිතැන ඊට  අමතරව වට්ටක්කා , ගස් ලබු ඇතුළු හේන් ගොවිතැන් මේ දිනවල ගම් වදින  අලින්ගෙන්  දැඩි හානි සිදුවන බව එම ගොවීහු පැවසූහ.
-
-එම ප්‍රදේශයේ වගා කර තිබූ ගස්ලබු වගාවන් කිහිපයක් 5දා අළුයම  වන අලි ගම්වැදී සම්පූර්ණයෙන්ම විනාශ කර දමා ඇති බවත්  පසුගිය දින කීපය තුළදී වන අලීන් රංචු වශයෙන් ගම් වැදී වී ගොවිතැනට අමතරව ප්‍රදේශයේ ගොඩ බෝග වගාවන් රැසක්  සම්පූර්ණයෙන්ම විනාශ  කර ඇති ආකාරය ඔවුහු  පෙන්වා  දුන්හ.
-
-විල්පත්තුව රක්ෂිතයේ සිට මෙම වන අලි ගම් වදින බවත් එම රක්ෂිතය ආවරණය කරමින් ශක්තිමත් විදුලි වැටක් නොතිබීම වන අලින් ගම් වැදීමට ප්‍රධාන හේතුව බවත් පවසන එම ගොවීහු වැඩි දුරටත්  පැවසුවේ  වත්මන් රජයද  මෙම වන අලි ගැටලුවට විසඳුම් ලබා නොදෙන්නේ නම් තමන් සිය වගා කටයුතුවලින් ඉවත්වන බවය.
-
-◼️
-
-[Data](articles/42fda8d2.json)
 
 ---

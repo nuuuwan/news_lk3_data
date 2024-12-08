@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 00:42:03**
+As of **2024-12-09 01:42:51**
 
 ## Newspaper Stats
 
-*Scraped **59,149** Articles*
+*Scraped **59,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,121 @@ colombotelegraphcom | 602
 bbccomsinhala | 617
 islandlk | 3,555
 economynextcom | 3,593
-dailyftlk | 4,071
+dailyftlk | 4,075
 dailymirrorlk | 4,733
 adalk | 5,606
 adaderanalk | 7,185
 tamilmirrorlk | 8,444
-virakesarilk | 9,708
+virakesarilk | 9,709
 adaderanasinhalalk | 10,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,149 (100.0%) of 59,149 articles have been extended.
+59,154 (100.0%) of 59,154 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-09 (Monday)
+
+### Pathfinder Foundation hosts roundtable discussion with US-South Asia expert
+
+*2024-12-09 01:15:30* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-hosts-roundtable-discussion-with-US-South-Asia-expert/56-770253) · `en`
+
+Centre for New American Security Indo-Pacific Security Program Director Lisa Curtis at the Pathfinder roundtable discussion
+
+Centre for New American Security, Washington, DC, Indo-Pacific Security Program Director Lisa Curtis participated as the guest speaker at the Pathfinder roundtable discussion held recently.
+
+The event, held under Chatham House Rules, brought together a diverse group of stakeholders, including experts on security and academia, representatives from the Foreign Affairs Ministry, diplomats, and leaders from the trade and commerce industry.
+
+The discussion, which centred on the outlook for the US-Sri Lanka relations under the presidencies of Trump and Dissanayake, focused on anticipated foreign policy perspectives and priorities of both new administrations in this decisive period, considering the historical moment with the decisive mandates given for both leaders by their constituencies.
+
+...
+
+[Data](articles/f788027c.json)
+
+[Extended Data](ext_articles/f788027c.ext.json)
+
+---
+
+### India extends relief assistance to flood-affected regions  in Northern Province
+
+*2024-12-09 01:12:46* · [`dailyftlk`](https://www.ft.lk/news/India-extends-relief-assistance-to-flood-affected-regions-in-Northern-Province/56-770252) · `en`
+
+In a significant gesture of solidarity, the High Commission of India in Colombo extended relief assistance to the people of the Northern Province, responding to the recent floods that caused displacement and hardship.
+
+On behalf of the High Commission, the distribution was carried out by Consul General of India in Jaffna Shri Sai Murali, alongside MP Kader Masthan last Saturday (7).
+
+Approximately 2,100 families from flood-affected areas in the Pesalai and Vellankulam villages (Mannar District) and Thunukkai and Manthai East (Mullaitivu District) received essential aid. The relief package included mats and blankets, providing much-needed support to families during this difficult time.
+
+This assistance reflects the vision of Prime Minister Narendra Modi, emphasising India’s ‘Neighbourhood First’ policy. India remains committed to standing by its neighbours in times of need, ensuring timely and effective relief to affected communities.
+
+◼️
+
+[Data](articles/040b76fd.json)
+
+[Extended Data](ext_articles/040b76fd.ext.json)
+
+---
+
+### International Bazaar and Cultural Extravaganza 2024 celebrates culture, diversity, crafts, sustainability
+
+*2024-12-09 01:10:19* · [`dailyftlk`](https://www.ft.lk/news/International-Bazaar-and-Cultural-Extravaganza-2024-celebrates-culture-diversity-crafts-sustainability/56-770251) · `en`
+
+Proceeds from event to be donated to the M.H. Omar Liver Care Facility at the Colombo North Centre for Liver Diseases in Ragama
+
+The International Bazaar and Cultural Extravaganza 2024, held at the Good Market, Race Course, Colombo 7, offered a truly international experience on Saturday, 7 December, celebrating diverse cultures, cuisine, and crafts. The event, themed around sustainability, captivated attendees with its vibrant activities and country booth presentations.
+
+This second edition of the annual event was inaugurated by Foreign Affairs, Foreign Employment, and Tourism Minister Vijitha Herath in the presence of Deputy Minister of Industries Chathuranga Abeysinghe and Ministry Secretary Aruni Ranaraja.
+
+...
+
+[Data](articles/3e773cf3.json)
+
+[Extended Data](ext_articles/3e773cf3.ext.json)
+
+---
+
 ### 2024-12-08 (Sunday)
+
+### Bangladesh retained the Asian Bowl Cricket Champion title under the age of 19
+
+*2024-12-08 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200760) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Bangladesh U-19 cricket team wins Asian Bowl Championship, defeating India by 59 runs. Mohammad Shihab James and Rizan Hossain top-scored for Bangladesh. India's Mohammed Aman top-scored with 26. Azizul Haq and Iqbal Hossain took key wickets for Bangladesh.
+
+🟩
+
+Bangladesh won the Champion title by 59 runs in the Under -19 Asian Cup Cricket Final held on Sunday (08) at the Dubai International Stadium.
+
+Bangladesh won the UAE by 195 runs in the UAE's 195 -year -old Asian Cup final held last year.
+
+Sri Lanka's Naveed Nawaz is training the Bangladesh youth team in the Under -19 Asian Bowl Cricket Tournament.
+
+It is noteworthy that Naveed Nawaz was a coach of Bangladesh four years ago in the Under -19 World Cup competition.
+
+Under the age of 19, Bangladesh were bowled out for 198 in 49.1 overs.
+
+Mohammad Shihab James (40) and Rizan Hossain (47) played in a 4th wicket and scored 62 runs in Bangladesh.
+
+Parit Hasan scored 39 runs and Sawat Abar 20 runs.
+
+Judajit Guha took 2 wickets for 29 runs, Hardik Raj took 2 wickets for 41 runs while Chetan Sharma took 2 wickets for 48 runs.
+
+In response to 199 runs, India lost all the wickets in 35.2 overs and lost 139 runs.
+
+...
+
+[Data](articles/e9c535ae.json)
+
+[Extended Data](ext_articles/e9c535ae.ext.json)
+
+---
 
 ### Taxes: Two cheers  and a few suggestions
 
@@ -45,6 +143,22 @@ I too had spent many hours, standing in line to get my PIN, staring at the scree
 [Data](articles/f466ea1b.json)
 
 [Extended Data](ext_articles/f466ea1b.ext.json)
+
+---
+
+### Financial sector should shoulder heavy burden on promoting growth via new market products
+
+*2024-12-08 22:56:24* · [`dailyftlk`](https://www.ft.lk/columns/Financial-sector-should-shoulder-heavy-burden-on-promoting-growth-via-new-market-products/4-770230) · `en`
+
+It is those banks which can strike the right balance that will succeed in a recession-hit economy
+
+In a recession-hit economy, like the bankers, the borrowers are also stressed-out due to the struggle which now they must make first to survive and then to succeed in a secured livelihood. Hence, any loan being granted is a measure to take that stress out of him. That requires a banker to extend a supportive hand to the borrower. If he does not do so, the prospective borrowers will be driven to the informal money lenders who will supply the needed funds more conveniently but at rates and under conditions that will not help them to sustain their businesses
+
+...
+
+[Data](articles/f04ce0bc.json)
+
+[Extended Data](ext_articles/f04ce0bc.ext.json)
 
 ---
 
@@ -2401,121 +2515,5 @@ Accordingly, the salt production companies have requested the government approva
 [Data](articles/9c580b63.json)
 
 [Extended Data](ext_articles/9c580b63.ext.json)
-
----
-
-### The mystery that continues in the recommendations of the liquor school;Political
-
-*2024-12-08 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200692) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's election results show rejection of party politics. Ranil Wickremesinghe criticizes UNP leadership. He emphasizes need for responsible governance, citing 2020 as a turning point. Wickremesinghe suggests single-party parliament formation due to party system failures.
-
-🟩
-
-Ranil Wickremesinghe, who returned to the country after completing his visit to India, met with a group of United National Party (UNP) officials and younger leaders. 'The ongoing parliamentary and presidential election results reveal two matters. People have rejected party political system. There is nothing to surprise in this. No one has accepted the country's responsibilities since 2020. In particular, a single parliamentarian was formed by the government. This situation should not have occurred. This would not have occurred if the party system had acted properly
-
-◼️
-
-[Data](articles/04fd730e.json)
-
-[Extended Data](ext_articles/04fd730e.ext.json)
-
----
-
-### Socosians and superpowers
-
-*2024-12-08 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200687) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Upcoming pact: Britain joins US forces for 99 years on Sakos Islands. This long-term alliance will strengthen military cooperation between the two nations."
-
-🟩
-
-It is the upcoming contract that Britain will be in the US forces for the next 99 years, an island of Sakos Islands.
-
-◼️
-
-[Data](articles/d263c853.json)
-
-[Extended Data](ext_articles/d263c853.ext.json)
-
----
-
-### Announcement from the Department of Census and Statistics
-
-*2024-12-08 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204154) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Census officials visit homes without causing alarm. Director General Adubaru Seneviratne assures completion by Dec 23. Data collection begins Oct 7, 2023. Information used for national planning, not personal decisions. Contact 1901 if census team hasn't visited yet.
-
-🟩
-
-The counting officials to come to the houses for census should not be worried that there is no need to cause any lack of information.
-
-The Department said that the Director General of the Director Adubaru Seneviratne said that some of the houses have been reported from certain houses.
-
-However, the Director General stated that the census was expected to be completed by December 23.
-
-Speaking to the media regarding the census for this year, the Director General of the Department of Census and the Department of Census and the Director General of the Department of Census and the Department of Census.
-
-...
-
-[Data](articles/6cb6de8f.json)
-
-[Extended Data](ext_articles/6cb6de8f.ext.json)
-
----
-
-### The impact of the economy of Sri Lanka by a policy rate: The impacts on shareholders
-
-*2024-12-08 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200699) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's economic policy rate affects shareholders through clearer OPR, enabling banks to accurately forecast short-term loan costs and enhance anti-money laundering efforts.
-
-🟩
-
-With clear OPR, banks can properly predict short -term loan costs, helping to implement money laundering.
-
-◼️
-
-[Data](articles/5890e5a0.json)
-
-[Extended Data](ext_articles/5890e5a0.ext.json)
-
----
-
-### Two persons arrested for attempting to sell four Valamburi Sangam
-
-*2024-12-08 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200696) · `ta`
-
-Two men, aged 41 and 42, arrested for attempting to sell four Valamburi Sangam associations in Madampe and Wennappuwa police divisions.
-
-🟩
-
-Two suspects have been arrested by the police on Saturday (07) for attempting to sell 4 Valamburi associations in two other areas under the Madampe and Wennappuwa police division.
-
-They have been arrested during two rounds of operations carried out by a team of officials of the Puttalam Camp of the Police Special Task Force.
-
-The arrested suspects were 41 and 42 years old from Madampe and Wennappuwa.
-
-◼️
-
-[Data](articles/1e360809.json)
-
-[Extended Data](ext_articles/1e360809.ext.json)
 
 ---

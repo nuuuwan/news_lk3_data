@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 14:15:35**
+As of **2024-12-08 14:42:08**
 
 ## Newspaper Stats
 
-*Scraped **59,076** Articles*
+*Scraped **59,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,596
-adaderanalk | 7,175
-tamilmirrorlk | 8,431
+adalk | 5,597
+adaderanalk | 7,176
+tamilmirrorlk | 8,433
 virakesarilk | 9,687
 adaderanasinhalalk | 10,210
 
@@ -26,29 +26,89 @@ adaderanasinhalalk | 10,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,043 (99.9%) of 59,076 articles have been extended.
+59,045 (99.9%) of 59,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### உள்ளூராட்சி தேர்தல்: சட்டமா அதிபரிடம் ஆலோசனை
+### தண்டனை கைதி உருவாக்கிய சோலார் ஓட்டோ
+
+*2024-12-08 14:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனை-கைதி-உருவாக்கிய-சோலார்-ஓட்டோ/175-348428) · `ta`
+
+கோவை மத்திய சிறையில், சூரிய ஒளி மின்சக்தி மூலம் இயங்கும் ஆட்டோவை தண்டனைக் கைதி உருவாக்கி அசத்தியுள்ளார்.
+
+ஈரோடு மாவட்டம் கவுந்தப்பாடியைச் சேர்ந்தவர் யுக ஆதித்தன் (32). கொலை வழக்கு தொடர்பாக, சேலம் அழகாபுரம் போலீஸாரால் கைது செய்யப்பட்டு, ஆயுள் தண் டனை விதிக்கப்பட்டு,  கோவைமத்திய சிறையில் அடைக்கப்பட்டுள்ளார். கடந்த 7 ஆண்டுகளாக சிறையில் உள்ளார். ஏரோநாட்டிக்கல் இன்ஜினியரிங் பட்டதாரியான இவர், சிறையில் தொழிற்கூடத்தில் பணியாற்றி வருகிறார்.
+
+தவிர, கிடைக்கும் சாதனங்களைக் கொண்டு பயன்பாடுள்ள பொருட்களை உருவாக்குவதில் ஆர்வம் கொண்டவர். இவர், சில மாதங்களுக்கு முன்னர் சூரிய ஒளி மின்சக்தி மூலம் இயங்கும் சைக்கிளை வடிவமைத்திருந்தார். அதன் தொடர்ச்சியாக சில நாட்களுக்கு முன்பு சூரிய ஒளி மின்சக்தி மூலம் இயங்கும் ஆட்டோவை வடிவமைத்துள்ளார்.
+
+...
+
+[Data](articles/3ad4eb53.json)
+
+---
+
+### Wife and mother -in -law
+
+*2024-12-08 14:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-மாமியாரை-மண்டியிடவைத்து-கொள்ளை/175-348427) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Robbery at hijacker's house thwarted; ASP arrested with stolen goods including gold jewelry and cash. Police investigation ongoing.
+
+🟩
+
+As it was not fulfilled as he had gone to the hijacker's house to kill the drug trafficker, it was not fulfilled, and the jewelery and money were looted.
+
+The ASP has robbed the goods. Moratumulla police say that four people, including a nickname, were arrested in a few hours.
+
+The police have seized gold jewelery, cell phones, robbery weapons, iron rods, safety helmets, and disguise clothing.
+
+The suspects arrived at the front door at 2.30 am on the 6th of last month to kill a person involved in various crimes living in the Moratumallai area.. Open the door of the kitchen because they refused to open the door and entered
+
+At the time, the disguise of the abductors had escaped with gold jewelery and assets and robbery of 23,000 rupees.
+
+Within minutes of the robbery, the main suspect was arrested on the basis of confidential information received by the Moratumulla police officers.
+
+...
+
+[Data](articles/d881c69d.json)
+
+[Extended Data](ext_articles/d881c69d.ext.json)
+
+---
+
+### Local Government Election: Advisor Advocate
 
 *2024-12-08 14:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்ளூராட்சி-தேர்தல்-சட்டமா-அதிபரிடம்-ஆலோசனை/175-348426) · `ta`
 
-உள்ளூராட்சி சபைத் தேர்தலை நடத்துவது தொடர்பில் தேர்தல்கள் ஆணைக்குழு சட்டமா அதிபருக்கு கடிதம் எழுதி ஆலோசனை கோரியுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவது தொடர்பில் ஏதேனும் சட்டத் தடைகள் இருப்பின் அது தொடர்பான தகவல்களைப் பெற்றுக் கொள்வதே இதன் நோக்கம் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆனந்த ரத்நாயக்க தெரிவித்தார்.
 
-இதேவேளை, மாகாணசபை இடைத்தேர்தல் தொடர்பில் முன்னர் கோரப்பட்ட வேட்புமனுக்களை இரத்துச் செய்வதற்கு அரசாங்கம் தீர்மானம் எடுத்திருந்தால், உடனடியாக அதனை நிறைவேற்றுமாறு தேர்தல்கள் ஆணைக்குழு பொதுநிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சுக்கு கடிதம் மூலம் கோரிக்கை விடுத்துள்ளது.
 
-பழைய வேட்பு மனுப் பட்டியல் ரத்து செய்யப்பட்டால், பாராளுமன்றத்தில் சட்டமூலம் நிறைவேற்றப்பட வேண்டும் என தேர்தல் ஆணையம் தெரிவித்துள்ளது.
+Elections Commission seeks clarification on legal restrictions for local government polls. Cabinet cancels old nomination list. Commission requests Parliament pass new legislation. High Court orders immediate holding of elections. Over 80,000 candidates nominated for 24 municipal, 41 urban, and 275 local councils. Thousands of candidates abroad or deceased, over 2,000 switched parties.
 
-தேர்தல் தொடர்பாக கோரப்பட்டுள்ள  பழைய வேட்பு மனுப் பட்டியலை ரத்து செய்ய அமைச்சரவை அண்மையில் தீர்மானித்தது. அந்த முடிவை அரசாங்கம் தேர்தல் ஆணையத்துக்கு கடந்த வாரம் அதிகாரப்பூர்வமாக அறிவித்திருந்தது.
+🟩
+
+The Elections Commission has written to the Attorney General on the conduct of the local government elections.
+
+Ananda Ratnayake, Chairman of the Elections Commission, said that if there are any legal restrictions on conducting local government elections, the purpose is to get information on it.
+
+Meanwhile, if the government has decided to cancel the previously demanded by the by -election, the Elections Commission has requested the Elections Commission in a letter to the Provincial Councils and the Local Government Ministry to immediately pass it.
+
+If the old nomination list is canceled, the Election Commission has said that the legislation should be passed in Parliament.
+
+Cabinet recently decided to cancel the old nomination list requested regarding the election. The government officially announced the decision to the Election Commission last week.
+
+Meanwhile, the Elections Commission's Chairman said that the local government elections should be held soon as per the order of the High Court.
 
 ...
 
 [Data](articles/f0389a28.json)
+
+[Extended Data](ext_articles/f0389a28.ext.json)
 
 ---
 
@@ -75,6 +135,24 @@ The dark era ended: The Hayat Tahrir al-Shammadi force said in a statement, "We 
 [Data](articles/3ecc8530.json)
 
 [Extended Data](ext_articles/3ecc8530.ext.json)
+
+---
+
+### Imported rice stocks to arrive in Sri Lanka next week
+
+*2024-12-08 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104078/imported-rice-stocks-to-arrive-in-sri-lanka-next-week) · `en`
+
+The Essential Food Commodities Importers & Traders Association says that the first shipment of imported rice will arrive in the island next week.
+
+A spokesperson of the association stated that several importers have already placed orders for rice stocks in accordance with the government’s instructions to import rice.
+
+He highlighted that the relevant rice stocks have been ordered from India and Pakistan and that the stocks are expected to arrive within the next week.
+
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+...
+
+[Data](articles/a6955ab7.json)
 
 ---
 
@@ -197,6 +275,18 @@ The functions of the National People's Power in the North and East will be quest
 [Data](articles/96c0cac5.json)
 
 [Extended Data](ext_articles/96c0cac5.ext.json)
+
+---
+
+### අහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට ජපානයෙන් ආධාර
+
+*2024-12-08 12:39:35* · [`adalk`](https://www.ada.lk/breaking_news/අහපත්-කාලගුණයෙන්-පීඩාවට-පත්-ජනතාවට-ජපානයෙන්-ආධාර/11-413514) · `si`
+
+අයහපත් කාලගුණ තත්ත්වයෙන් පීඩාවට පත්වූ මෙරට ජනතාව සඳහා බෙදාහැරීම වෙනුවෙන් රුපියල් මිලියන 300ක පමණ වටිනාකමින් යුතු ආධාර තොගයක් ජපාන රජය විසින් මෙරටට ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/3b4f55cb.json)
 
 ---
 
@@ -2191,97 +2281,5 @@ The impeachment motion against President Yun Suk Yula was defeated in Parliament
 [Data](articles/bd191d2f.json)
 
 [Extended Data](ext_articles/bd191d2f.ext.json)
-
----
-
-### South Korea’s President survives impeachment vote after his party boycotts
-
-*2024-12-07 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104064/south-koreas-president-survives-impeachment-vote-after-his-party-boycotts) · `en`
-
-A South Korean legislative push to impeach President Yoon Suk Yeol over his short-lived imposition of martial law fell through on Saturday after most lawmakers from his conservative governing party boycotted the vote.
-
-The defeat of the motion is expected to intensify public protests calling for Yoon’s ouster and deepen political chaos in South Korea, with a survey suggesting a majority of South Koreans support the president’s impeachment.
-
-Yoon’s martial law declaration drew criticism from his own ruling conservative party, but it is also determined to oppose Yoon’s impeachment apparently because it fears losing the presidency to liberals.
-
-Impeaching Yoon required support from two-thirds of the National Assembly, or 200 of its 300 members. The opposition parties who brought the impeachment motion had 192 seats, but only three lawmakers from PPP participated in the vote. The motion was scrapped without ballot counting because the number of votes didn’t reach 200.
-
-...
-
-[Data](articles/7f3369a8.json)
-
-[Extended Data](ext_articles/7f3369a8.ext.json)
-
----
-
-### ශ්‍රී ලංකා පළමු ඉනිම ලකුණු 328කට සීමා වෙයි
-
-*2024-12-07 17:39:22* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා-පළමු-ඉනිම-ලකුණු-328කට-සීමා-වෙයි/9-413507) · `si`
-
-දකුණු අප්‍රිකා කණ්ඩායමට එරෙහිව පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ සංචාරක ශ්‍රී ලංකා කණ්ඩායමේ පළමු ඉනිම ලකුණු 328කට සීමා කිරීමට දකුණු අප්‍රිකා පන්දු යවන්නන් සමත් විය.
-
-ඒ අනුව මේ වන විට දෙවන ඉනිම ක්‍රීඩා කරන දකුණු අප්‍රිකා කණ්ඩාවම දෙවන ඉනිමට මීට සුළු මොහොතකට පෙර පන්දුවාර 10ක් අවසානයේ කිසිවෙකු නොදැවී ලකුණු 38ක් රැස් කරගෙන සිටියේ.
-
-දකුණු අප්‍රිකා කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 358ක් රැස් කළ අතර ඒ අනුව මේ වන විට ඔවුන් ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 72ක් ඉදිරියෙන් පසුවන්නේය.
-
-◼️
-
-[Data](articles/ed2cc483.json)
-
----
-
-### Steps to deliver eggs and chicken without shortage of festive season
-
-*2024-12-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204138) · `si`
-
-Egg and chicken supply strategies for Sri Lanka's festive season: Manufacturers work to meet demand, prices may rise due to increased consumption and higher production costs. Poultry surplus released into market, but potential shortages possible if demand exceeds supply.
-
-🟩
-
-Sri Lanka Animals Association President Ajith Gunasekera says that egg manufacturers are working to the egg products without any deficit.
-
-He was speaking at a media briefing held today (07) and the retail price of an egg is between 35-36 rupees.
-
-However, he said that the price of eggs could increase the demand for the country, as the prices of eggs were determined by the demand and supply of the country.
-
-He also said that the production prices of the egg had gone up due to rising prices of rice and rice.
-
-He said that there is a surplus of poultry production, he has already been released to the poultry market.
-
-He said that the demand for chicken has increased due to the recent adverse weather conditions in the recent past, he said.
-
-He also said that although animal products are continuously maintained in the Sinhala Season, he is able to provide eggs and chicken without shortage.
-
-However, he said that if there is a vegan deficit, it is the responsibility of remedying to address it.
-
-◼️
-
-[Data](articles/12508091.json)
-
-[Extended Data](ext_articles/12508091.ext.json)
-
----
-
-### Egg - Change in the price of chicken meat?
-
-*2024-12-07 17:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-348398) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Egg prices stable, chicken meat unchanged till Jan: Ajith Gunasekera, SLVA president, assures no shortage during festive season.
-
-🟩
-
-Ajith Gunasekera, president of the Sri Lanka Veterinary Producers Association, said that during the festive season, eggs and meat can be provided to the people without shortage.
-
-He added that the price of eggs and chicken meat would not change until January, he added.R
-
-◼️
-
-[Data](articles/5459c775.json)
-
-[Extended Data](ext_articles/5459c775.ext.json)
 
 ---

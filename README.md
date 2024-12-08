@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 12:17:20**
+As of **2024-12-08 12:28:11**
 
 ## Newspaper Stats
 
-*Scraped **59,060** Articles*
+*Scraped **59,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,594
-adaderanalk | 7,172
-tamilmirrorlk | 8,427
+adaderanalk | 7,173
+tamilmirrorlk | 8,428
 virakesarilk | 9,681
 adaderanasinhalalk | 10,209
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,030 (99.9%) of 59,060 articles have been extended.
+59,030 (99.9%) of 59,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,6 +106,24 @@ The father of the attacker, the father of the attacker, has been arrested by the
 
 ---
 
+### இளைஞனின் நிர்வாண காணொளி  ``வாட்ஸ் அப்’’ களுக்கு அனுப்பிவைப்பு
+
+*2024-12-08 11:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனின்-நிர்வாண-காணொளி-வாட்ஸ்-அப்-களுக்கு-அனுப்பிவைப்பு/175-348420) · `ta`
+
+வெளிநாட்டில் உள்ள ஒருவரின் காதலியை நண்பியாக்கி, வாட்ஸ்அப் தொழில்நுட்பத்தின் ஊடாக, நிர்வாண வீடியோவை அனுப்பி வைத்து தொடர்பினை வைத்திருந்தார் எனக் கூறப்படும் இளைஞனை தாக்கினர் என்ற குற்றச்சாட்டின் கீழ் இளைஞர்கள் மூவர் கைது செய்யப்பட்டனர்.
+
+அவ்விளைஞனை கடத்திச் சென்று, அவரை நிர்வாணமாக்கி, மரண அச்சுறுத்தல் விடுத்து, பல சந்தர்ப்பங்களில் தாக்குதல்களை மேற்கொண்டு, 38 ஆயிரம் ரூபாய் மற்றும் அலைபேசியை கப்பமாகவும் பெற்றுக் கொண்டு உள்ளனர்.
+
+கைது செய்யப்பட்டவர்களில் வெளிநாட்டில் உள்ள யுவதியின் காதலனும் அடங்குகிறார். கஹத்துடுவைச் சேர்ந்த 22,24 மற்றும் 28 வயதுகளையுடைய மூவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+கடத்திச் செல்லப்பட்ட இளைஞனை நிர்வாணமாக்கி, மரண அச்சுறுத்தல் கொடுத்து, பாலியல் வன்புணர்வுகளில் ஈடுபடச் செய்து, அவற்றை வீடியோவாக பதிவு செய்து, அந்த இளைஞனின் அலைபேசியில் உள்ள அனைத்து வாட்ஸ்அப் இலக்கங்களுக்கு அனுப்பிவைக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/c782cedb.json)
+
+---
+
 ### இளைஞனின் நிர்வாண காணொளி  ``வட்ஸ் அப்’’ எண்களுக்கு
 
 *2024-12-08 11:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனின்-நிர்வாண-காணொளி-வட்ஸ்-அப்-எண்களுக்கு/175-348420) · `ta`
@@ -155,6 +173,24 @@ The father of the attacker, the father of the attacker, has been arrested by the
 ...
 
 [Data](articles/90c3f13e.json)
+
+---
+
+### Sri Lanka failed to meet WHO food quality testing standards – Expert
+
+*2024-12-08 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104075/sri-lanka-failed-to-meet-who-food-quality-testing-standards-expert) · `en`
+
+Sri Lanka has yet to conduct the necessary tests prescribed by the World Health Organization (WHO) to ensure food quality, Bio-Medical Scientist Dr. Kamal Gammanpila says.
+
+Addressing a recent press conference, he further highlighted the growing health crisis posed by the alarming rise in Thalassemia and kidney disease cases across the country.
+
+Dr. Gammanpila revealed findings from a recent survey conducted among 100 school students aged 15 to 17 in the Anuradhapura district, which uncovered a Thalassemia prevalence rate of 23.9%.
+
+Similarly, the Kurunegala district recorded a prevalence rate of 20.6%, he noted, adding that these figures underscore the urgent need for comprehensive measures to combat these public health issues.
+
+◼️
+
+[Data](articles/19cea6eb.json)
 
 ---
 
@@ -2273,45 +2309,5 @@ He was arrested yesterday (06).
 [Data](articles/5d7e5edf.json)
 
 [Extended Data](ext_articles/5d7e5edf.ext.json)
-
----
-
-### Lohan was placed in interrogation
-
-*2024-12-07 15:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கமறியலில்-வைக்கப்பட்டார்-லொஹான்/175-348394) · `ta`
-
-Former Secretary of State Lohan Ratwatta remanded until 9th for drunk driving charge.
-
-🟩
-
-The Pudukkadai Chief Magistrate's Court today (07) ordered that former Secretary of State Lohan Ratwatta to be remanded until the 9th of this month.
-
-Lohan Ratwatta was arrested on charges of drinking drunken driving. Remble
-
-◼️
-
-[Data](articles/36309100.json)
-
-[Extended Data](ext_articles/36309100.ext.json)
-
----
-
-### Former state minister Lohan Ratwatte remanded
-
-*2024-12-07 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104061/former-state-minister-lohan-ratwatte-remanded) · `en`
-
-Former State Minister Lohan Ratwatte, who was arrested yesterday for causing a road accident while driving under the influence of alcohol, has been remanded until December 09 after being produced before the Colombo Chief Magistrate’s Court today (7).
-
-Ratwatte, who was released on bail on December 5 in a separate case, was returning from a relative’s house yesterday (06) when his Defender collided with another vehicle near the Kollupitiya Junction.
-
-Following a complaint made to the Kollupitiya Police regarding the accident, investigations confirmed that he was under the influence of alcohol at the time, leading to his arrest on charges of causing an accident while intoxicated.
-
-Accordingly, the police arrested Ratwatte on charges of causing an accident while driving under the influence of alcohol.
-
-...
-
-[Data](articles/8c8264ed.json)
-
-[Extended Data](ext_articles/8c8264ed.ext.json)
 
 ---

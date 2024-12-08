@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 05:11:41**
+As of **2024-12-08 05:52:26**
 
 ## Newspaper Stats
 
-*Scraped **58,988** Articles*
+*Scraped **59,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 601
 bbccomsinhala | 617
-islandlk | 3,542
+islandlk | 3,554
 economynextcom | 3,590
 dailyftlk | 4,070
 dailymirrorlk | 4,733
@@ -26,11 +26,149 @@ adaderanasinhalalk | 10,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,988 (100.0%) of 58,988 articles have been extended.
+58,989 (100.0%) of 59,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### Westbury Residencies: Setting gold Standard with ISO 9001 certification initiative
+
+*2024-12-08 04:33:00* · [`islandlk`](http://island.lk/westbury-residencies-setting-gold-standard-with-iso-9001-certification-initiative/) · `en`
+
+Westbury Residencies, a leading property developer in Sri Lanka, is raising the bar for quality in the real estate sector by pursuing ISO 9001 certification. This internationally recognized standard for quality management systems ensures products and services consistently meet customer expectations while driving continuous improvement.
+
+Amid industry challenges like construction quality and regulatory compliance, Westbury’s commitment to ISO 9001 highlights its dedication to excellence, customer satisfaction, and operational efficiency. This transformative initiative places the company among a select group of Lankan developers striving for such benchmarks.
+
+For homebuyers and investors, the certification signifies enhanced trust and assurance of top-notch quality. Westbury’s move is not just a milestone for the company but a catalyst for improving industry standards, setting a precedent for quality-driven development in Sri Lanka.
+
+...
+
+[Data](articles/c79c70bb.json)
+
+---
+
+### Dr. P. A. Kiriwandeniya reviews progress of ‘Sanasa Forward’ in Hambantota
+
+*2024-12-08 04:33:00* · [`islandlk`](http://island.lk/dr-p-a-kiriwandeniya-reviews-progress-of-sanasa-forward-in-hambantota/) · `en`
+
+Dr. P. A. Kiriwandeniya, Founder of Sanasa and Chancellor of Wayamba University of Sri Lanka, recently evaluated the progress of the “Sanasa Forward” initiative in Hambantota. This programme, launched 18 months ago, aims to empower 5,000 villages across the country through production-based economic activities over the next five years.
+
+In Hambantota, projects under Tangalle and Pahajjawa Sanasa societies, including water bottling, farming, vehicle repair, and bakery ventures, showcased promising results. Funded and guided by Sanasa’s loans and expertise, these initiatives highlight the programme’s success in fostering local economic growth.
+
+During his visit, Dr. Kiriwandeniya engaged with community members and Sanasa staff to discuss further improvements. Similar reviews are planned countrywide, with Sanasa General Society and Sanasa Life and General Insurance supporting the programme’s expansion.
+
+Westbury Residencies: Setting gold Standard with ISO 9001 certification initiative
+
+...
+
+[Data](articles/eaf97ee9.json)
+
+---
+
+### SAGT wins sustainability award from Ceylon Chamber of Commerce
+
+*2024-12-08 04:23:00* · [`islandlk`](http://island.lk/sagt-wins-sustainability-award-from-ceylon-chamber-of-commerce/) · `en`
+
+South Asia Gateway Terminals (Pvt) Ltd (SAGT), Sri Lanka’s first Public Private Partnership emerged winner in the “Other” category at the Best Corporate Citizen Sustainability Awards 2024 hosted by the Ceylon Chamber of Commerce, an SAGT news release said.
+
+“Since launching its sustainability strategy in 2018, SAGT has been at the forefront of driving sustainable operations both within its terminal and the Port of Colombo. SAGT was the first and to date remains the only single operator terminal in the South Asia Region to publish an independently accredited annual sustainability report which charts the Company’s progressive journey in sustainable terminal operations,” it said.
+
+...
+
+[Data](articles/fd5d62e0.json)
+
+---
+
+### The many faceted character of Sirimavo Bandaranaike
+
+*2024-12-08 04:12:00* · [`islandlk`](http://island.lk/the-many-faceted-character-of-sirimavo-bandaranaike/) · `en`
+
+Prime Minister and Minister of Defence and External Affairs (July 1960 — August 1965)
+
+(Excerpted from Rendering Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
+
+Working with S W R D Bandaranaike in the 1956-1959 period had given me the opportunity of appreciating the many-faceted character of Sirimavo Bandaranaike. She was a devoted mother to her three children, ran her very busy and sometimes even chaotic household with a firm hand and had developed an understanding with her husband which allowed him to engage in his political pursuits with minimum interference.
+
+...
+
+[Data](articles/ac7ecf91.json)
+
+[Extended Data](ext_articles/ac7ecf91.ext.json)
+
+---
+
+### President-elect Trump and First Lady Elonia celebrate Thanksgiving at Mar a Lago
+
+*2024-12-08 03:50:00* · [`islandlk`](http://island.lk/president-elect-trump-and-first-lady-elonia-celebrate-thanksgiving-at-mar-a-lago/) · `en`
+
+I would like to explain why I continue writing so shamelessly about a subject about which recent events have proved I know next to nothing.
+
+In my defense, the news I have reported over the years has been always been based on facts and the traditional “reliable sources”. Unfortunately, my opinions and predictions have been personal and out of touch with the current political and social climate prevailing in the United States, which has changed substantially since the turn of the century.
+
+...
+
+[Data](articles/6b0ca90a.json)
+
+---
+
+### Donald Trump and the politics of the new order
+
+*2024-12-08 03:49:00* · [`islandlk`](http://island.lk/donald-trump-and-the-politics-of-the-new-order/) · `en`
+
+Donald Trump will spend the next three months finalising his Cabinet. He will assume office on January 20, and, if we are to believe what he says, will start implementing his America First policy by imposing some of the most extensive tariffs ever enforced by the United States. He has promised to impose them not just on China, but also Mexico and Canada – unless the latter two do something about illegal immigration to America.
+
+...
+
+[Data](articles/0c87d0eb.json)
+
+---
+
+### Ranil’s ascent in the UNP to become PM after the Premadasa assassination
+
+*2024-12-08 03:35:00* · [`islandlk`](http://island.lk/ranils-ascent-in-the-unp-to-become-pm-after-the-premadasa-assassination/) · `en`
+
+On September 21, 2024, Sri Lanka will hold (Note: this was written before the election) its ninth presidential election. Unlike all previous such polls, which were in effect two-way battles between the governing party and the main opposition party, this is a three-way contest between Wickremesinghe, Premadasa of the SJB and Dissanayake of the JVP – the latter heading a coalition dubbed National People’s Power (NPP).
+
+But the election is taking place on a battleground largely of Wickremesinghe’s making. The 21st Amendment he pushed through gave birth to an independent Election Commission. He also enacted a campaign finance law that enables the commission to decide the amounts candidates can spend and to enforce these limits. The commission is conducting this election with unprecedented even-handedness and applying long-ignored election laws – including against Wickremesinghe’s own campaign.
+
+Wickremesinghe’s deal with the IMF earlier came under severe opposition criticism;
+
+...
+
+[Data](articles/4f8c0f55.json)
+
+---
+
+### A CONSTITUTIONAL BLUEPRINT
+
+*2024-12-08 03:28:00* · [`islandlk`](http://island.lk/a-constitutional-blueprint/) · `en`
+
+Shortly before the Presidential Election, Mr. Anura Kumara Dissanayake, the leader of the NPP, committed himself to the abolition of the office of Executive President. Following his election by the people to the office of President of the Republic, and the overwhelming majority which his party received in the general election, it may be confidently assumed that steps will shortly be taken to implement that commitment.
+
+The events that followed the enactment of the 19th Amendment to the Constitution in 2015 demonstrated the futility of the partial abolition of the Executive Presidency. That amendment, while requiring the President to act on the advice of the Prime Minister, enabled the incumbent President (through a transitional provision) to preside over meetings of the Cabinet and also hold three key portfolios. When a few months later Parliament was dissolved, the general election was conducted under laws which had been formulated to complement an executive presidency.
+
+...
+
+[Data](articles/137b1a58.json)
+
+---
+
+### An impusive visit to George Keyt nearly 40 years ago
+
+*2024-12-08 03:13:00* · [`islandlk`](http://island.lk/an-impusive-visit-to-george-keyt-nearly-40-years-ago/) · `en`
+
+A few Sundays ago (this article was written in July 1985) I travelled through the fertile lands of the Dumbara valley and passed through Kundasale, Arangala, Gammaduwa (with its Buddhist Temple of unique design) and Sirimalwatta, to Gunnepana.
+
+The purpose was to see, in person, George Keyt, whose great artistic achievements and invaluable contribution to art in Sri Lanka were so beautifully presented recently in a telefilm Directed by Tissa Liyanasuriya with the script by Tissa Devendra. Up to the time of this TV program it was a hope that a chance meeting would materialize, but it became an urgent need after that.
+
+The drive was tortuous, the roads being more like gullies than even cart tracks. But what bothered me more was a faint recollection of a conversation I cannot remember where, which left with me the impression that the artist does not welcome visitors. However, since the decision had been made I kept going stopping frequently for directions.
+
+...
+
+[Data](articles/06abcce3.json)
+
+---
 
 ### US support for anti -corruption programs
 
@@ -53,6 +191,18 @@ The US has praised the new government's programs to know the priority of politic
 [Data](articles/4d60fb5d.json)
 
 [Extended Data](ext_articles/4d60fb5d.ext.json)
+
+---
+
+### Settling in Guyana – My New Home
+
+*2024-12-08 01:02:00* · [`islandlk`](http://island.lk/settling-in-guyana-my-new-home/) · `en`
+
+After two days of air travel with stops in the Middle East, Europe, and the Caribbean, I was thrilled to land in South America for the first time on the evening of March 20, 1994. My first impressions of Guyana’s only international airport – Timehri International Airport (now Cheddi Jagan International Airport) – were a mixed bag. Half of the Guyanese I encountered at the airport bore a resemblance to me, as they were of East Indian origin or Indo-Guyanese. Most of the immigration, customs, and police personnel were Afro-Guyanese.
+
+...
+
+[Data](articles/b29d9ff1.json)
 
 ---
 
@@ -1938,6 +2088,22 @@ Followed by a special flower release. The first copy was received by Literary Ho
 
 ---
 
+### ‘Hotel sector investment in tourism industry exceeding USD 15 billion despite facing stiff challenges’
+
+*2024-12-07 01:29:00* · [`islandlk`](http://island.lk/hotel-sector-investment-in-tourism-industry-exceeding-usd-15-billion-despite-facing-stiff-challenges/) · `en`
+
+President of The Hotels Association of Sri Lanka (THASL) M. Shanthikumar addressing its members at the organization’s 59th anniversary celebrations recently at the ITC ‘Ratnadipa’ said that the hotel sector investment in Sri Lankan tourism today, amounting to over USD 15 billion, is the highest investment by any sector in the tourism industry, while accounting for 70% of the entire tourism-related workforce.
+
+The highest contribution to government coffers is made by our member hotels. It is by way of TDL payments, taxes, levies, license fees and other payments, he said.
+
+‘Our industry has faced many challenges. We have always shown resilience and come out better. The present time, has been the most challenging after four continuous difficult years since 2019, the THASL president said.
+
+...
+
+[Data](articles/1d83df1d.json)
+
+---
+
 ### Empowering future tech pioneers and digital leaders
 
 *2024-12-07 01:28:00* · [`islandlk`](http://island.lk/empowering-future-tech-pioneers-and-digital-leaders/) · `en`
@@ -2219,263 +2385,5 @@ Mental gymnastics – something Gunasekara suggests I am guilty of indulging in 
 [Data](articles/6daf8667.json)
 
 [Extended Data](ext_articles/6daf8667.ext.json)
-
----
-
-### Sri Lanka’s energy independence through climate finance
-
-*2024-12-07 00:13:01* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-energy-independence-through-climate-finance/4-770204) · `en`
-
-Sri Lanka can significantly advance its climate change ambition and negotiate from a point of strength for increased flow of concessional climate finance to realise its ambitious strategy for energy transition to achieve energy sovereignty
-
-Now it is technically possible to operate power grids comprising of close to 100% renewable energy sources such as hydro power including pump storage hydro, solar and wind and battery energy storage. The Sri Lanka Electricity Act of 2024 provides the legal framework for this. For a country like Sri Lanka, which is entirely dependent on imported fossil fuel such as oil, coal and LNG (in the future), this provides an opportunity to achieve complete energy sovereignty by eliminating the need for fossil fuel imports. This would provide reliable, indigenous electricity which is not exposed to fluctuations in global fuel prices and exchange rate
-
-...
-
-[Data](articles/4c93e743.json)
-
-[Extended Data](ext_articles/4c93e743.ext.json)
-
----
-
-### 2024-12-06 (Friday)
-
-### Blueprint for new Constitution
-
-*2024-12-06 23:56:04* · [`dailyftlk`](https://www.ft.lk/columns/Blueprint-for-new-Constitution/4-770198) · `en`
-
-The Constitution, which is the supreme and fundamental law, must be sufficiently flexible to enable different shades of political opinion to be developed and implemented from time to time
-
-When the citizens agree to be governed, what they insist in return from the rulers is that their rights and freedoms be effectively guaranteed. The Constitution should provide, as it does in many other countries, that an international human rights treaty, when ratified, will have the force of law, superseding any inconsistent existing law. If the Government is unwilling to do so, why ratify a treaty at all? Alternatively, at least the provisions of the two international human rights covenants should be incorporated in the Constitution. That is not only a matter of sound commonsense and prudent governance; it is also a solemn treaty obligation
-
-...
-
-[Data](articles/e53a54da.json)
-
-[Extended Data](ext_articles/e53a54da.ext.json)
-
----
-
-### Sri Lanka is responsible;242 - 3 wig in the first innings at the end of the 2nd day of the 2nd day.
-
-*2024-12-06 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200623) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka vs South Africa, 2nd Test: Sri Lanka reached 242/3 at stumps on day 2. Bethul Nissanka and Dinesh Chandimal top-scored with 109-run partnership. South Africa replied with 358/1, trailing by 116 runs. Lahiru Kumara took 4/79 for Sri Lanka.
-
-🟩
-
-Port Elizabeth against South Africa, Sen. Sri Lanka was very responsible for its first innings in the 2nd and last Test cricket match at George Park Geberha Stadium.
-
-Betham Nissanka, Dinesh Chandimal, Angelo Mathews and Kamindu Mendis have all played the Sri Lankan team with relaxation and responsibility.
-
-South Africa responded to 358 runs in the first innings and Sri Lanka scored 242 runs for the loss of 3 wickets at the end of the second day's match.
-
-Sri Lanka is in the back of 116 runs than South Africa to remain 7 wickets in the first innings.
-
-When the total number was 41 runs, Timut Karunaratne lost 20 runs.
-
-The pair, Beth and Dinesh Chandimal, then took the most responsible and shared 109 runs in the 2nd wicket.
-
-Dinesh Chandimal faced 97 balls and scored 44 runs with 5 pounds.
-
-Beth and Nissank shared 49 more runs in the 3rd wicket with Angelo Mathews.
-
-Faced with 157 balls, he lost 89 runs with 11 pounds and one six.(199 - 3 wig.)
-
-...
-
-[Data](articles/2bc6c761.json)
-
-[Extended Data](ext_articles/2bc6c761.ext.json)
-
----
-
-### Matthews exceeds 8000 Tests
-
-*2024-12-06 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204116) · `si`
-
-Angelo Mathews surpasses 8000 Test runs milestone. He leads Sri Lanka alongside South Africa in an unbeaten match. Mathews ranks third among Sri Lankan Test scorers, trailing Kumara Sangakkara's record 12,400 runs.
-
-🟩
-
-Sri Lankan cricketer Angelo Mathews passed over 8000 Test marks.
-
-Sri Lanka and South Africa were unbeaten on the match today (40).
-
-Accordingly, he is also the third player for Sri Lanka.
-
-The Front is former players Kumara Sangakkara and he scored 12,400 runs.
-
-◼️
-
-[Data](articles/541b9c72.json)
-
-[Extended Data](ext_articles/541b9c72.ext.json)
-
----
-
-### Political Stability Paves the Way for a Favorable Investment Environment in the Country – President
-
-*2024-12-06 22:47:00* · [`islandlk`](http://island.lk/political-stability-paves-the-way-for-a-favorable-investment-environment-in-the-country-president/) · `en`
-
-President Anura Kumara Dissanayake stated that with the political stability that has prevailed in the country today, an environment suitable for investment has been created.
-
-He further emphasized that there will be no political influence in granting new investment opportunities, such as those based on political affiliations. The President assured that the Board of Investment of Sri Lanka would be granted full autonomy to attract clean investments that are beneficial to the country.
-
-The President made these remarks during a discussion held with senior officials of the BOI at the Presidential Secretariat on Thursday (05).
-
-...
-
-[Data](articles/55b8dca9.json)
-
-[Extended Data](ext_articles/55b8dca9.ext.json)
-
----
-
-### Ct Scan served for 15 years is a respect for Kandy Hospital
-
-*2024-12-06 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204115) · `si`
-
-Kandy Hospital CT scan serves for 15 years, valued at 8 million rupees. Used to diagnose diseases across the island. Doctors express gratitude for its long service. Director appreciates staff efforts. Scanner to be transferred to another hospital.
-
-🟩
-
-The Kandy National Hospital (CT) was reported from the Kandy National Hospital to provide thousands of medical knowledge to thousands of medical knowledge for thousands of millions of patients.
-
-Specialist Science Science Division of the Kandy National Hospital said the machine was received by the Kandy hospital in 2006 and that the value was about 8 million rupees.
-
-The machine helped to determine the machine to determine the disease and diagnosis of patients in various parts of the island, as well as the island.
-
-The doctor added that the machine has decided to make a respectful man to this machine as a group of grateful teeth to remove the machine for many years.
-
-He said that the machine was received, the doctors and staff and other officers of the machine were involved in the retirement.
-
-Addressing the occasion, the Director of the Kandy Hospital Dr. Iresha Fernando said that the machine was a lot of iron, but it is more important to appreciate the services provided by the people.
-
-...
-
-[Data](articles/ce0440d9.json)
-
-[Extended Data](ext_articles/ce0440d9.ext.json)
-
----
-
-### MP Dilith Jayaweera advocates for govt accountability
-
-*2024-12-06 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104052/mp-dilith-jayaweera-advocates-for-govt-accountability) · `en`
-
-‘Sarvajana Balaya’ Member of Parliament, Dilith Jayaweera emphasized the party’s commitment to guiding the government on the right path over the next five years.
-
-Delivering his first parliamentary speech today (06), Jayaweera attributed the election results to widespread public frustration, the absence of viable alternatives, and growing disillusionment with political deceit.
-
-“The political culture, coupled with the allegations of corruption surrounding it and the false images it perpetuates, has disheartened patriotic Sri Lankans who have historically supported the leftist political camp. The votes we received reflect that disappointment. Therefore, do not assume for a moment that we failed to engage with your manifesto, skipped your five lectures, or misunderstood your politics,” he said.
-
-...
-
-[Data](articles/2e4508aa.json)
-
-[Extended Data](ext_articles/2e4508aa.ext.json)
-
----
-
-### Lohan Ratwatte arrested on bail
-
-*2024-12-06 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200622) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former State Minister Lohan Ratwatte arrested on bail for drunk driving.
-
-🟩
-
-Former State Minister Lohan Ratwatte has been arrested again on bail.
-
-He was arrested in connection with a drunken driver, police said.
-
-◼️
-
-[Data](articles/89f40cfc.json)
-
-[Extended Data](ext_articles/89f40cfc.ext.json)
-
----
-
-### The news that substandard drugs have been distributed is false - Minister of Health
-
-*2024-12-06 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200613) · `ta`
-
-Minister denies substandard drug distribution claim: "False news" spread about 500 non-standard drugs reaching state hospitals. Health officials assure no such issue exists. Public advised against spreading misinformation.
-
-🟩
-
-The news that 500 non -standard drugs have been distributed to state hospitals are completely false.
-
-Health and Media Minister Nalinda Jayatissa said that we are asking the relevant parties to avoid socializing the wrong news.
-
-He was speaking at a debate on the interim report on Friday (06) in Parliament.
-
-I have discussed and received information with the Ministry of Health and the relevant parties on the issue of the opposition's chief korada this morning (06).
-
-The Drug Distribution Division and the National Drug Control Authority have stated that no substandard drugs have been distributed to state hospitals.. Therefore, we ask the appropriate parties to avoid referring to the wrong matters.
-
-We do not mention that there are no problems in the health sector. Steps have been taken to address the problems that are found. If there are drug shortages, you can buy medicines from the relevant distributors in terms of appropriate instructions.. Advice has been provided.
-
-...
-
-[Data](articles/b61c2a52.json)
-
-[Extended Data](ext_articles/b61c2a52.ext.json)
-
----
-
-### Lohan restored
-
-*2024-12-06 21:09:18* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-යළිත්-අත්අඩංගුවට/11-413499) · `si`
-
-Former State Minister Lohan Ratwatte arrested for drunk driving and illegal vehicle assembly. Released on bail after accident near Colombo Fort.
-
-🟩
-
-Former State Minister Lohan Ratwatte has been arrested by the Kollupitiya Police regarding a drunken drive.
-
-The accident had occurred when the jeep driving in a jeep back to Colombo Fort again. Meanwhile, the Minister arrested for possessing a vehicle in possession of a vehicle illegally assembled and was released on bail.
-
-◼️
-
-[Data](articles/3345d32b.json)
-
-[Extended Data](ext_articles/3345d32b.ext.json)
-
----
-
-### Police protest against Minister Lal Kantha's statement
-
-*2024-12-06 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204114) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Police protest against Minister Lal Kantha's claim that farmers face no obstacles when dealing with farm damage from wildlife. Environmental and animal rights activists participated in the demonstration.
-
-🟩
-
-Minister of Agriculture KD, farmers have no obstacle to take any action regarding animals damaged by farmland. Many parties have opposed the statement made by Mr. Lal Kanthe yesterday.
-
-Minister KD about wild animals harming farms. Mr. Lal Kanthe did this statement yesterday (05).
-
-The protest was held at the coconut parking in the junction with the participation of a group of environmental and animal activists.
-
-◼️
-
-[Data](articles/4366cc22.json)
-
-[Extended Data](ext_articles/4366cc22.ext.json)
 
 ---

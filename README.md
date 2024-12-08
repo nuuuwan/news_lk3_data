@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 14:15:35**
+As of **2024-12-08 15:13:26**
 
 ## Newspaper Stats
 
-*Scraped **59,076** Articles*
+*Scraped **59,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,596
-adaderanalk | 7,175
-tamilmirrorlk | 8,431
+adalk | 5,599
+adaderanalk | 7,177
+tamilmirrorlk | 8,435
 virakesarilk | 9,687
 adaderanasinhalalk | 10,210
 
@@ -26,29 +26,169 @@ adaderanasinhalalk | 10,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,043 (99.9%) of 59,076 articles have been extended.
+59,050 (99.9%) of 59,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### உள்ளூராட்சி தேர்தல்: சட்டமா அதிபரிடம் ஆலோசனை
+### Relief worth 300 million from Japan
+
+*2024-12-08 14:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிலிருந்து-300-மில்லியன்-பெறுமதியான-நிவாரணம்/175-348430) · `ta`
+
+Japan provides $3 million relief aid to Sri Lanka. Emergency supplies arrive at Bandaranaike Airport. Ambassador hands over goods to local authorities for distribution by District Secretaries.
+
+🟩
+
+The Japanese government is approximately Rs.. 300 million worth of relief.
+
+Emergency items coordinated by the Japanese Embassy in Sri Lanka and the Japan International Cooperation Organization (JICA) arrived at the Bandaranaike International Airport (BIA) on Saturday.
+
+Japanese Ambassador to Sri Lanka Isomata Akio officially handed over the goods to local authorities. Relief items will be distributed by the District Secretaries of the District Secretaries.
+
+◼️
+
+[Data](articles/263bab66.json)
+
+[Extended Data](ext_articles/263bab66.ext.json)
+
+---
+
+### Compulsory holiday
+
+*2024-12-08 14:34:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒளடத-அதிகாரிக்கு-கட்டாய-விடுமுறை/175-348429) · `ta`
+
+Dushara Ranadeva, Drug Assessment Officer, sent on compulsory leave by National Drug Regulatory Authority due to alleged secret information leak to external companies. Criminal Investigation Department involved. Some employees claim Ranadeva exposed fraud and corruption within the authority.
+
+🟩
+
+National Drug Regulatory Authority's Drug Assessment Officer Dushara Ranadeva has been sent on a compulsory leave by the National Drug Regulatory Authority. He is also the president of the Pharmacists Association.
+
+He has been sent on a compulsory vacation by Dr. Ananda Wijewickrama, Chairman of the National Drug Regulatory Authority, according to a complaint received by the Authority that the Secret Information of the Pharmaceutical Control Authority is provided to outside companies.
+
+The letter stated that the drug assessment officer Tushara Ranadeva has handed over all the items used by Dushara Ranadeva and that he can come to the company premises with his permission for any issue.
+
+In addition, the Criminal Investigation Department has also seized Dushara Ranadeva's personal mobile phone.
+
+...
+
+[Data](articles/786afdcf.json)
+
+[Extended Data](ext_articles/786afdcf.ext.json)
+
+---
+
+### Solar Otto created by the sentence prisoner
+
+*2024-12-08 14:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனை-கைதி-உருவாக்கிய-சோலார்-ஓட்டோ/175-348428) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Solar-powered auto created by prisoner in Coimbatore jail. Designed by Yuga Adityan, a 32-year-old inmate. Can travel 200km on full charge. Features LED lights, horn, handbrake. Used for testing within prison. Cost: ₹1.25 lakh. Plans to make ambulance vehicles too.
+
+🟩
+
+In the Central Prison in Coimbatore, the prisoner has created an auto -powered auto -powered auto.
+
+Yuga Adityan (32) hails from Gaundapady in Erode district. In connection with the murder case, Salem Alagapuram police have been arrested by the police, imposed on life and taken to the Coimbatore jail. Has been in jail for the past 7 years. He is a graduate of Aeronautical Engineering and is working in a jail industry.
+
+Besides, who is interested in making app products with available devices. He designed a bicycle powered by solar power a few months ago. He continued to designed the auto -powered auto a few days ago.
+
+Commenting on this, DIG Shanmukha Padu Sundaram told the 'Hindu Tamil Direction'. The plate for the solar production on the auto is set up. Underneath the driver's seat in the auto. If the battery is fully filled with solar power, you can drive 200 km continuously.
+
+...
+
+[Data](articles/3ad4eb53.json)
+
+[Extended Data](ext_articles/3ad4eb53.ext.json)
+
+---
+
+### Sri Lanka’s ‘Ava’ gang leader arrested in Canada on murder charges
+
+*2024-12-08 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104079/sri-lankas-ava-gang-leader-arrested-in-canada-on-murder-charges) · `en`
+
+A Sri Lankan national believed to be the head of the criminal gang known as ‘Ava Group’, based in Northern Sri Lanka, has been arrested in Canada.
+
+Canadian media reported that Prasanna Nallalingam, 32, who also goes by the name Ajanthan Subramaniyam, is facing extradition to France to face murder charges after being arrested in Toronto this spring.
+
+The extradition of Nallalingam is being sought in connection with the alleged gang killing of Abiraman Balakirishnan and attempted murder of another man in September 2022 in France, Canada’s Department of Justice confirmed.
+
+Subramaniyam, is believed to be the leader of a group known as AAVA, an outlaw motorcycle gang active in the northern province of Sri Lanka. The filings state the attack targeted a group known to be rivals of AAVA, the LC Boys, foreign media reported.
+
+According to French media reports, the two groups were engaged in a multi-year conflict over control of La Courneuve, a commune located in the northern suburbs of Paris.
+
+...
+
+[Data](articles/8d067143.json)
+
+[Extended Data](ext_articles/8d067143.ext.json)
+
+---
+
+### Wife and mother -in -law
+
+*2024-12-08 14:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-மாமியாரை-மண்டியிடவைத்து-கொள்ளை/175-348427) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Robbery at hijacker's house thwarted; ASP arrested with stolen goods including gold jewelry and cash. Police investigation ongoing.
+
+🟩
+
+As it was not fulfilled as he had gone to the hijacker's house to kill the drug trafficker, it was not fulfilled, and the jewelery and money were looted.
+
+The ASP has robbed the goods. Moratumulla police say that four people, including a nickname, were arrested in a few hours.
+
+The police have seized gold jewelery, cell phones, robbery weapons, iron rods, safety helmets, and disguise clothing.
+
+The suspects arrived at the front door at 2.30 am on the 6th of last month to kill a person involved in various crimes living in the Moratumallai area.. Open the door of the kitchen because they refused to open the door and entered
+
+At the time, the disguise of the abductors had escaped with gold jewelery and assets and robbery of 23,000 rupees.
+
+Within minutes of the robbery, the main suspect was arrested on the basis of confidential information received by the Moratumulla police officers.
+
+...
+
+[Data](articles/d881c69d.json)
+
+[Extended Data](ext_articles/d881c69d.ext.json)
+
+---
+
+### Local Government Election: Advisor Advocate
 
 *2024-12-08 14:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்ளூராட்சி-தேர்தல்-சட்டமா-அதிபரிடம்-ஆலோசனை/175-348426) · `ta`
 
-உள்ளூராட்சி சபைத் தேர்தலை நடத்துவது தொடர்பில் தேர்தல்கள் ஆணைக்குழு சட்டமா அதிபருக்கு கடிதம் எழுதி ஆலோசனை கோரியுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவது தொடர்பில் ஏதேனும் சட்டத் தடைகள் இருப்பின் அது தொடர்பான தகவல்களைப் பெற்றுக் கொள்வதே இதன் நோக்கம் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆனந்த ரத்நாயக்க தெரிவித்தார்.
 
-இதேவேளை, மாகாணசபை இடைத்தேர்தல் தொடர்பில் முன்னர் கோரப்பட்ட வேட்புமனுக்களை இரத்துச் செய்வதற்கு அரசாங்கம் தீர்மானம் எடுத்திருந்தால், உடனடியாக அதனை நிறைவேற்றுமாறு தேர்தல்கள் ஆணைக்குழு பொதுநிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சுக்கு கடிதம் மூலம் கோரிக்கை விடுத்துள்ளது.
 
-பழைய வேட்பு மனுப் பட்டியல் ரத்து செய்யப்பட்டால், பாராளுமன்றத்தில் சட்டமூலம் நிறைவேற்றப்பட வேண்டும் என தேர்தல் ஆணையம் தெரிவித்துள்ளது.
+Elections Commission seeks clarification on legal restrictions for local government polls. Cabinet cancels old nomination list. Commission requests Parliament pass new legislation. High Court orders immediate holding of elections. Over 80,000 candidates nominated for 24 municipal, 41 urban, and 275 local councils. Thousands of candidates abroad or deceased, over 2,000 switched parties.
 
-தேர்தல் தொடர்பாக கோரப்பட்டுள்ள  பழைய வேட்பு மனுப் பட்டியலை ரத்து செய்ய அமைச்சரவை அண்மையில் தீர்மானித்தது. அந்த முடிவை அரசாங்கம் தேர்தல் ஆணையத்துக்கு கடந்த வாரம் அதிகாரப்பூர்வமாக அறிவித்திருந்தது.
+🟩
+
+The Elections Commission has written to the Attorney General on the conduct of the local government elections.
+
+Ananda Ratnayake, Chairman of the Elections Commission, said that if there are any legal restrictions on conducting local government elections, the purpose is to get information on it.
+
+Meanwhile, if the government has decided to cancel the previously demanded by the by -election, the Elections Commission has requested the Elections Commission in a letter to the Provincial Councils and the Local Government Ministry to immediately pass it.
+
+If the old nomination list is canceled, the Election Commission has said that the legislation should be passed in Parliament.
+
+Cabinet recently decided to cancel the old nomination list requested regarding the election. The government officially announced the decision to the Election Commission last week.
+
+Meanwhile, the Elections Commission's Chairman said that the local government elections should be held soon as per the order of the High Court.
 
 ...
 
 [Data](articles/f0389a28.json)
+
+[Extended Data](ext_articles/f0389a28.ext.json)
 
 ---
 
@@ -75,6 +215,26 @@ The dark era ended: The Hayat Tahrir al-Shammadi force said in a statement, "We 
 [Data](articles/3ecc8530.json)
 
 [Extended Data](ext_articles/3ecc8530.ext.json)
+
+---
+
+### Imported rice stocks to arrive in Sri Lanka next week
+
+*2024-12-08 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104078/imported-rice-stocks-to-arrive-in-sri-lanka-next-week) · `en`
+
+The Essential Food Commodities Importers & Traders Association says that the first shipment of imported rice will arrive in the island next week.
+
+A spokesperson of the association stated that several importers have already placed orders for rice stocks in accordance with the government’s instructions to import rice.
+
+He highlighted that the relevant rice stocks have been ordered from India and Pakistan and that the stocks are expected to arrive within the next week.
+
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+...
+
+[Data](articles/a6955ab7.json)
+
+[Extended Data](ext_articles/a6955ab7.ext.json)
 
 ---
 
@@ -121,6 +281,24 @@ Two people were arrested on charges of sharing old films as a Heroes Day event i
 [Data](articles/4d83020f.json)
 
 [Extended Data](ext_articles/4d83020f.ext.json)
+
+---
+
+### ඕස්ට්‍රේලියානුවන් හමුවේ ඉන්දියාවට කඩුලු 10ක පරාජයක්
+
+*2024-12-08 12:51:08* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියානුවන්-හමුවේ-ඉන්දියාවට-කඩුලු-10ක-පරාජයක්/9-413515) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව පැවති දෙවන ටෙස්ට් ක්‍රිකට් තරගයෙන් කඩුලු 10ක් විශිෂ්ඨ ජයක් අත් කර ගැනීමට ඕස්​ට්‍රේලියානු කණ්ඩායම අද (08දා) සමත් විය.
+
+ජයග්‍රාහී ලකුණු 19ක ඉලක්කයක් හඹාගිය ඕස්ට්‍රේලියානු කණ්ඩායම පන්දුවාර 3යි පන්දු 2ක් අවසානයේ කිසිවෙකු නොදැවී ලකුණු 19ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 180ක් රැස් කළා අතර, ඊට පිළිතුරු ඉනිම ඕස්ට්‍රේලියානු කණ්ඩායම පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 337ක් රැස් කළේය.
+
+අනතුරුව දෙවන ඉනිම ක්‍රීඩා කළ ඉන්දීය කණ්ඩායමට සියල්ලන් දැවී රැස් කර ගත හැකි වූයේ ලකුණු 175ක් පමණී. ඒ අනුව ඕස්ට්‍රේලියාවට ලකුණු 19ක පහසු ජයග්‍රාහී ඉලක්කයක් හිමි විය.
+
+◼️
+
+[Data](articles/7a4ac1a2.json)
 
 ---
 
@@ -197,6 +375,18 @@ The functions of the National People's Power in the North and East will be quest
 [Data](articles/96c0cac5.json)
 
 [Extended Data](ext_articles/96c0cac5.ext.json)
+
+---
+
+### අහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට ජපානයෙන් ආධාර
+
+*2024-12-08 12:39:35* · [`adalk`](https://www.ada.lk/breaking_news/අහපත්-කාලගුණයෙන්-පීඩාවට-පත්-ජනතාවට-ජපානයෙන්-ආධාර/11-413514) · `si`
+
+අයහපත් කාලගුණ තත්ත්වයෙන් පීඩාවට පත්වූ මෙරට ජනතාව සඳහා බෙදාහැරීම වෙනුවෙන් රුපියල් මිලියන 300ක පමණ වටිනාකමින් යුතු ආධාර තොගයක් ජපාන රජය විසින් මෙරටට ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/3b4f55cb.json)
 
 ---
 
@@ -947,6 +1137,24 @@ Meanwhile, the leadership committee has decided to send a letter to former parli
 ◼️
 
 [Data](articles/38343da7.json)
+
+---
+
+### නදීමාල් පෙරේරාට පහරදීමක්
+
+*2024-12-08 09:38:40* · [`adalk`](https://www.ada.lk/breaking_news/නදීමාල්-පෙරේරාට-පහරදීමක්/11-413513) · `si`
+
+ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරා මහතාගේ පුත් වන  නදිමල් පෙරේරාට පානදුර හෝටලයකදී පහරදුන් පුද්ගලයෙකු සහ ගැටුම මැඩපැවැත්වීමට ගිය පොලිස් නිළධාරින්ට බාධාකල පුද්ගලයකු අත්අඩංගුවට ගත්බව පානදුර උතුර පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව ප්‍රදේශයේ පදිංචි පුද්ගලයන් දෙදෙනකු  බව පොලිසිය කීය.
+
+පානදුර, ගොරකාන ප්‍රදේශයේ ප්‍රසිද්ධ උත්සව ශාලාවකදී මොරටුව ප්‍රදේශයේ ප්‍රසිද්ධ පාසලකින් පවත්වනු  ලැබූ උත්සවයක සංගීත වැඩසටහනකට සහභාගි වූ ජනප්‍රිය ගායන ශිල්පී අමල් පෙරේරාගේ පුත් වන නදිමල් පෙරේරාට එම උත්සව ශාලාවේම වෙනත් උත්සවයකට සහභාගි වූ පුද්ගලයකු පහරදී නදිමල් පෙරේරා පානදුර මූලික රෝහලට ඇතුලත් කළ බව  පානදුර  උතුර පොලිසිය ප්‍රකාශ කරයි.
+
+පානදුර උතුර ගොරකාන  ප්‍රදේශයේ ප්‍රධාන උත්සව ශාලාවක මොරටුව ප්‍රදේශයේ පාසලකින් පවත්වනු ලැබූ සංගීත ප්‍රසංගයක් සඳහා නදිමල් පෙරේරා නියෝජනය කරන සංගීත කණ්ඩායමට සංගීතය සැපයීම සඳහා ආරාධනා ලැබ තිබී ඇති  අතර, මෙම සංගීත ප්‍රසංගය අතරතුර නදිමාල් පෙරේරා පහත මහලට බැස සිටියදී පුද්ගලයෙකු ඔහුට පහර දී ඇත.
+
+...
+
+[Data](articles/2c608b4d.json)
 
 ---
 
@@ -2069,219 +2277,5 @@ Meanwhile, the Department of Meteorology has stated that rain is expected to inc
 [Data](articles/a5a86fc8.json)
 
 [Extended Data](ext_articles/a5a86fc8.ext.json)
-
----
-
-### A group of students topple
-
-*2024-12-07 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204141) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Boat accident kills 1 student near Sellakaragama. 5 students were on board. Victim, 19, from Seellakaragama. Students fled scene. Body at Kataragama District Hospital.
-
-🟩
-
-A boat of 5 children who have gone to boast have been a boat to boat on the acre Twenty Twenty, Sellakaragama.
-
-One child was killed and the death was a 19-year-old resident of Seellakaragama.
-
-Five students who have acted in this year have been traveled in the boat and have taken immediately interfere with the villagers after rolling the boat.
-
-The body of the deceased youth has been placed at the District Hospital at the Kataragama District.
-
-◼️
-
-[Data](articles/0b146994.json)
-
-[Extended Data](ext_articles/0b146994.ext.json)
-
----
-
-### Tamil Demand For Justice – Stumbling Block For NPP
-
-*2024-12-07 19:05:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tamil-demand-for-justice-stumbling-block-for-npp/) · `en`
-
-NPP received massive mandate by the people across ethnic, religious and social divide to charter the course of the country for the coming five years. Attracted primarily by their slogan of eliminating corruption and reducing wastage and others like delivering social justice to all and applying meritocracy in selection, they have been ushered into position of authority. However they have made a fundamental mistake in deciding that problems faced by Sinhalese and Tamils are the same and if the economic situation in the country improves, everything will be fine, descending into wishful thinking that Tamil demand for justice would fizzle out. In this aspect they seem to be no different to previous governments.
-
-...
-
-[Data](articles/1871ab66.json)
-
-[Extended Data](ext_articles/1871ab66.ext.json)
-
----
-
-### Sri Lanka doctor cautions against skincare products containing steroids
-
-*2024-12-07 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctor-cautions-against-skincare-products-containing-steroids-188945/) · `en`
-
-ECONOMYNEXT – A Sri Lankan dermatologist has cautioned against using chemically heavy cosmetic products which could potentially create health issues.
-
-“Methasone and Clobetasol added creams should not be applied on to the skin without a consultation with a doctor,” consultant dermatologist Dr Nayani Madurasinghe told reporters recently.
-
-These were prescribed for short term use for certain skin conditions she said.
-
-She pointed out that excessive usage of topical applications containing steroids of varying levels of strength could lower the skin’s immunity leading to various infections.
-
-“High potency steroids shouldn’t be applied to the face or sensitive areas like armpits. But people are applying them as they want. This can damage the skin and attract fungal and bacterial diseases.”
-
-Various products suspected to contain steroids were being sold across social media apps recommending them for reducing dark colour, or pigmentation, in three days, the doctor said.
-
-...
-
-[Data](articles/f9ac7857.json)
-
-[Extended Data](ext_articles/f9ac7857.ext.json)
-
----
-
-### Indian fishermen on strike
-
-*2024-12-07 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204140) · `si`
-
-Tamil Nadu fishermen strike against Sri Lanka Navy arrests. 14 arrested, livelihood affected. ICFI requests Indian government intervention.
-
-🟩
-
-The fishermen in Tamil Nadu Rameshwaram has launched a token strike in protest of the arrest of his fishermen by the Sri Lanka Navy.
-
-Representatives of Rameshwaram Fisheries Association have stated that the strike will be held today (07) and tomorrow.
-
-The strike was the immediate reason for the arrest of 14 Indian fishermen in Sri Lanka.
-
-Rameswaram Fisheries Association representatives have shown that the fishing community is unable to carry out their livelihood due to the arrests.
-
-The ICFI has asked the Indian government to be taken to the Government of Sri Lanka as the appointment of the elections have been made in Sri Lanka since the demands of the officials have been submitted to their immediate issues.
-
-◼️
-
-[Data](articles/bb0b2325.json)
-
-[Extended Data](ext_articles/bb0b2325.ext.json)
-
----
-
-### South Korea protects the President's chair
-
-*2024-12-07 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204139) · `si`
-
-South Korea: Impeachment motion against President Yung Suk Yula defeated in parliament today. Opposition needed 200 votes but only had 192. Ruling party members absent during vote.
-
-🟩
-
-The impeachment motion brought against South Korean President Yung Suk Yula was defeated in parliament today (07).
-
-The South Korea opposition brought an impeachment motion against Sukou Yula, the President, the president last night.
-
-The impeachment should be passed in a two-thirds majority of Parliament, according to the approval of 200 MPs.
-
-Opposition members consist of 192 and the impeachment motion were to win the impeachment.
-
-However, before the election began, the ruling People Park Power Party members representing the President left the Parliament in the midst of strong opposition from the opposition.
-
-Several of the MPs returned to parliament again and were only three members of the party at the time of the election.
-
-The impeachment motion against President Yun Suk Yula was defeated in Parliament today.
-
-◼️
-
-[Data](articles/bd191d2f.json)
-
-[Extended Data](ext_articles/bd191d2f.ext.json)
-
----
-
-### South Korea’s President survives impeachment vote after his party boycotts
-
-*2024-12-07 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104064/south-koreas-president-survives-impeachment-vote-after-his-party-boycotts) · `en`
-
-A South Korean legislative push to impeach President Yoon Suk Yeol over his short-lived imposition of martial law fell through on Saturday after most lawmakers from his conservative governing party boycotted the vote.
-
-The defeat of the motion is expected to intensify public protests calling for Yoon’s ouster and deepen political chaos in South Korea, with a survey suggesting a majority of South Koreans support the president’s impeachment.
-
-Yoon’s martial law declaration drew criticism from his own ruling conservative party, but it is also determined to oppose Yoon’s impeachment apparently because it fears losing the presidency to liberals.
-
-Impeaching Yoon required support from two-thirds of the National Assembly, or 200 of its 300 members. The opposition parties who brought the impeachment motion had 192 seats, but only three lawmakers from PPP participated in the vote. The motion was scrapped without ballot counting because the number of votes didn’t reach 200.
-
-...
-
-[Data](articles/7f3369a8.json)
-
-[Extended Data](ext_articles/7f3369a8.ext.json)
-
----
-
-### ශ්‍රී ලංකා පළමු ඉනිම ලකුණු 328කට සීමා වෙයි
-
-*2024-12-07 17:39:22* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා-පළමු-ඉනිම-ලකුණු-328කට-සීමා-වෙයි/9-413507) · `si`
-
-දකුණු අප්‍රිකා කණ්ඩායමට එරෙහිව පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ සංචාරක ශ්‍රී ලංකා කණ්ඩායමේ පළමු ඉනිම ලකුණු 328කට සීමා කිරීමට දකුණු අප්‍රිකා පන්දු යවන්නන් සමත් විය.
-
-ඒ අනුව මේ වන විට දෙවන ඉනිම ක්‍රීඩා කරන දකුණු අප්‍රිකා කණ්ඩාවම දෙවන ඉනිමට මීට සුළු මොහොතකට පෙර පන්දුවාර 10ක් අවසානයේ කිසිවෙකු නොදැවී ලකුණු 38ක් රැස් කරගෙන සිටියේ.
-
-දකුණු අප්‍රිකා කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 358ක් රැස් කළ අතර ඒ අනුව මේ වන විට ඔවුන් ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 72ක් ඉදිරියෙන් පසුවන්නේය.
-
-◼️
-
-[Data](articles/ed2cc483.json)
-
----
-
-### Steps to deliver eggs and chicken without shortage of festive season
-
-*2024-12-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204138) · `si`
-
-Egg and chicken supply strategies for Sri Lanka's festive season: Manufacturers work to meet demand, prices may rise due to increased consumption and higher production costs. Poultry surplus released into market, but potential shortages possible if demand exceeds supply.
-
-🟩
-
-Sri Lanka Animals Association President Ajith Gunasekera says that egg manufacturers are working to the egg products without any deficit.
-
-He was speaking at a media briefing held today (07) and the retail price of an egg is between 35-36 rupees.
-
-However, he said that the price of eggs could increase the demand for the country, as the prices of eggs were determined by the demand and supply of the country.
-
-He also said that the production prices of the egg had gone up due to rising prices of rice and rice.
-
-He said that there is a surplus of poultry production, he has already been released to the poultry market.
-
-He said that the demand for chicken has increased due to the recent adverse weather conditions in the recent past, he said.
-
-He also said that although animal products are continuously maintained in the Sinhala Season, he is able to provide eggs and chicken without shortage.
-
-However, he said that if there is a vegan deficit, it is the responsibility of remedying to address it.
-
-◼️
-
-[Data](articles/12508091.json)
-
-[Extended Data](ext_articles/12508091.ext.json)
-
----
-
-### Egg - Change in the price of chicken meat?
-
-*2024-12-07 17:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-348398) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Egg prices stable, chicken meat unchanged till Jan: Ajith Gunasekera, SLVA president, assures no shortage during festive season.
-
-🟩
-
-Ajith Gunasekera, president of the Sri Lanka Veterinary Producers Association, said that during the festive season, eggs and meat can be provided to the people without shortage.
-
-He added that the price of eggs and chicken meat would not change until January, he added.R
-
-◼️
-
-[Data](articles/5459c775.json)
-
-[Extended Data](ext_articles/5459c775.ext.json)
 
 ---

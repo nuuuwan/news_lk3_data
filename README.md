@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 00:58:41**
+As of **2024-12-09 00:42:03**
 
 ## Newspaper Stats
 
-*Scraped **59,150** Articles*
+*Scraped **59,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 602
 bbccomsinhala | 617
 islandlk | 3,555
 economynextcom | 3,593
-dailyftlk | 4,072
+dailyftlk | 4,071
 dailymirrorlk | 4,733
 adalk | 5,606
 adaderanalk | 7,185
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,149 (100.0%) of 59,150 articles have been extended.
+59,149 (100.0%) of 59,149 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,20 +45,6 @@ I too had spent many hours, standing in line to get my PIN, staring at the scree
 [Data](articles/f466ea1b.json)
 
 [Extended Data](ext_articles/f466ea1b.ext.json)
-
----
-
-### Financial sector should shoulder heavy burden on promoting growth via new market products
-
-*2024-12-08 22:56:24* · [`dailyftlk`](https://www.ft.lk/columns/Financial-sector-should-shoulder-heavy-burden-on-promoting-growth-via-new-market-products/4-770230) · `en`
-
-It is those banks which can strike the right balance that will succeed in a recession-hit economy
-
-In a recession-hit economy, like the bankers, the borrowers are also stressed-out due to the struggle which now they must make first to survive and then to succeed in a secured livelihood. Hence, any loan being granted is a measure to take that stress out of him. That requires a banker to extend a supportive hand to the borrower. If he does not do so, the prospective borrowers will be driven to the informal money lenders who will supply the needed funds more conveniently but at rates and under conditions that will not help them to sustain their businesses
-
-...
-
-[Data](articles/f04ce0bc.json)
 
 ---
 
@@ -2509,5 +2495,27 @@ With clear OPR, banks can properly predict short -term loan costs, helping to im
 [Data](articles/5890e5a0.json)
 
 [Extended Data](ext_articles/5890e5a0.ext.json)
+
+---
+
+### Two persons arrested for attempting to sell four Valamburi Sangam
+
+*2024-12-08 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200696) · `ta`
+
+Two men, aged 41 and 42, arrested for attempting to sell four Valamburi Sangam associations in Madampe and Wennappuwa police divisions.
+
+🟩
+
+Two suspects have been arrested by the police on Saturday (07) for attempting to sell 4 Valamburi associations in two other areas under the Madampe and Wennappuwa police division.
+
+They have been arrested during two rounds of operations carried out by a team of officials of the Puttalam Camp of the Police Special Task Force.
+
+The arrested suspects were 41 and 42 years old from Madampe and Wennappuwa.
+
+◼️
+
+[Data](articles/1e360809.json)
+
+[Extended Data](ext_articles/1e360809.ext.json)
 
 ---

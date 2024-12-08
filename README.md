@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 13:01:02**
+As of **2024-12-08 13:11:58**
 
 ## Newspaper Stats
 
-*Scraped **59,064** Articles*
+*Scraped **59,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,132 @@ economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,595
-adaderanalk | 7,173
+adaderanalk | 7,175
 tamilmirrorlk | 8,429
-virakesarilk | 9,681
-adaderanasinhalalk | 10,209
+virakesarilk | 9,687
+adaderanasinhalalk | 10,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,036 (100.0%) of 59,064 articles have been extended.
+59,036 (99.9%) of 59,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### கண்டியில் மின்சாரம் தாக்கி ஒருவர் பலி
+
+*2024-12-08 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200709) · `ta`
+
+கண்டி - ஹதரலியத்த பொலிஸ் பிரிவுக்குட்பட்ட தெதுனுபிட்டிய பிரதேசத்தில் நேற்று சனிக்கிழமை (07) மின்சாரம் தாக்கி ஒருவர் உயிரிழந்துள்ளதாக ஹதரலியத்த பொலிஸார் தெரிவித்தனர்.
+
+இந்த நபர் கால்நடை பண்ணையொன்றை நடத்தி வந்ததாகவும், பண்ணையை சுத்தம் செய்துகொண்டிருந்தபோதே மின்சாரம் தாக்கி உயிரிழந்ததாகவும் விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/017bff88.json)
+
+---
+
+### பயங்கரவாத தடைச்சட்டத்தின் ஆயுள் அதிகம்
+
+*2024-12-08 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200694) · `ta`
+
+வடக்கில் நடந்த மாவீரர் நாள் நிகழ்வு என பழைய படங்களை பகிர்ந்து தெற்கில் குழப்பத்தை ஏற்படுத்த முற்பட்டனர் என்ற  குற்றச்சாட்டில் இரண்டு பேர் கைது செய்யப்பட்டார்.இந்த கைதுகள் அனைத்துக்கும் பயங்கரவாத தடைச் சட்டம் பயன்படுத்தப்பட்டது.  இது ஒரு வகையில் அச்சுறுத்தும் நோக்கம் கொண்டது.  இனிமேல் யாரும் இவ்வாறான செயல்களில் ஈடுபட்டால் பயங்கரவாத தடைச் சட்டத்தை கையாளுவோம் என்ற செய்தியை அரசாங்கம் கூற விரும்பியது.அதனால் தைான், இந்த கைதுகளுக்கு பயங்கரவாத தடைச் சட்டம் பயன்படுத்தப்பட்டது.ஆனாலும் கைது செய்யப்பட்டவர்கள் நீண்ட நாட்கள் தடுத்து வைக்கப்படவில்லை, விசாரணைக்கு பின் நீதிமன்றத்தில் முன்னிறுத்தப்பட்டார்கள்.  பின்னர் பிணையில் செல்ல அனுமதிக்கப்பட்டிருக்கிறார்கள்.
+
+◼️
+
+[Data](articles/4d83020f.json)
+
+---
+
+### காத்தான்குடி வீதியில் திடீரென தீ பற்றி எரிந்த முச்சக்கரவண்டி!
+
+*2024-12-08 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200712) · `ta`
+
+கல்முனை - மட்டக்களப்பு பிரதான வீதியில் காத்தான்குடி வீதியால் சென்றுகொண்டிருந்த முச்சக்கரவண்டி திடீரென தீப்பற்றி எரிந்துள்ளது.
+
+◼️
+
+[Data](articles/a25f030d.json)
+
+---
+
+### ආනයනික සහල් ලබන සතියේ දිවයිනට?
+
+*2024-12-08 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204156) · `si`
+
+ආනයනික සහල් ලබන සතියේ දිවයිනට ලැබෙනු ඇති බව අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ආනයකරුවන්ගේ සංගමය පවසයි.
+
+එහි ප්‍රකාශකයෙකු පැවසුවේ සහල් ආනයනය කිරීමට රජය විසින් ලබාදී ඇති උපදෙස් අනුව ආනයනකරුවන් කිහිපදෙනෙකු මේ වන විටත් සහල් තොග ඇනවුම් කර ඇති බවය.
+
+ඉන්දියාව සහ පාකිස්තානය යන රටවලින් අදාළ සහල් තොග ඇනවුම් කර ඇති අතර ඉදිරි සතිය තුළ එම තොග දිවයිනට ලැබෙනු ඇති බව ඔහු සඳහන් කළේය.
+
+මෙරට පවතින සහල් හිඟයට පිළියමක් වශයෙන් ආනයනකරුවන්ට ඍජුවම සහල් ආනයනය කිරීම සඳහා අවස්ථාව ලබාදීමට පසුගිය දා කැබිනට් මණ්ඩලය තීරණය කර තිබුණි.
+
+ඒ අනුව සහල් සඳහා පනවා තිබූ ආනයනික බදු සංශෝධනය කරමින් දෙසැම්බර් මස 04 වන දින සිට 20 වන දින දක්වා කාලය තුළ සහල් ආනයනය සඳහා අවසර ලබාදෙමින් විශේෂ ගැසට් නිවේදනයක් ද රජය විසින් නිකුත් කරනු ලැබීය.
+
+මේ අතර ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ලබාදුන් නියෝගවලට අනුව පාලන මිල යටතේ වෙළෙඳසැල් වෙත සහල් තොග ලැබෙමින් පවතින බව වාර්තා වෙයි.
+
+අද උදෑසන සිටම සහල් මෝල් හිමියන් විසින් පාලන මිලට තමන් වෙත සහල් ලබාදීමට කටයුතු කරමින් සිටින බවයි වෙළඳුන් පවසන්නේ.
+
+...
+
+[Data](articles/a305f26a.json)
+
+---
+
+### அநுர அரசின் அணுகுமுறை தமிழ் கட்சிகளை பலவீனப்படுத்துமா?
+
+*2024-12-08 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200713) · `ta`
+
+தேசிய மக்கள் சக்தி வடக்கு, கிழக்குப் பகு­தி­களில் முன்­னெ­டுக்­கக்­கூ­டிய செயல்­பா­டுகள் தமிழ்த் தேசியக் கட்­சி­களின் இருப்பை கேள்­விக்­கு­றி­யாக்­கு­ப­வை­யா­கவே இருக்கும். பொதுத் தேர்தலுக்கு சில தினங்­க­ளுக்கு முன்னர் வலி­கா­மத்தில் வீதி ஒன்று விடுவிக்கப்பட்டது. மீனவர்களுடைய பிரச்சினைகள் தொடர்பாக தமது உறுதியான நிலைப்பாட்டை கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகர் வெளிப்படுத்தி வருகின்றார்.
+
+◼️
+
+[Data](articles/96c0cac5.json)
+
+---
+
+### Census 2024: Department urges public to cooperate with enumerators
+
+*2024-12-08 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104077/census-2024-department-urges-public-to-cooperate-with-enumerators) · `en`
+
+The Department of Census and Statistics has assured the public that there is no cause for concern in providing information to enumerators conducting the ongoing Population and Housing Census 2024.
+
+Director General of the department Anoja Seneviratne emphasized the importance of full public cooperation for the success of this national exercise.
+
+Speaking to the media, Mrs. Seneviratne acknowledged reports of some households refusing to share information. She reassured citizens that the data collected would remain confidential and would not be used for personal decision-making and that instead, it will serve as a foundation for shaping national policies and plans for the next decade.
+
+...
+
+[Data](articles/a766e6bf.json)
+
+---
+
+### Japan provides aid worth Rs. 300M to Sri Lanka flood victims
+
+*2024-12-08 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104076/japan-provides-aid-worth-rs-300m-to-sri-lanka-flood-victims) · `en`
+
+The Japanese government has extended aid worth around Rs. 300 million to Sri Lanka to support people affected by the recent adverse weather conditions.
+
+The emergency supplies, arranged through the Japanese Embassy in Sri Lanka and the Japan International Cooperation Agency (JICA), were delivered via a special cargo plane that arrived at Bandaranaike International Airport (BIA) last night (07).
+
+The supplies were handed over to local authorities for distribution by the Japanese Ambassador to Sri Lanka, Isomata Akio.
+
+The relief materials are scheduled to be handed over to the relevant District Secretaries for distribution to the people affected by the adverse weather conditions.
+
+Additionally, the Indian government has also provided relief assistance to those affected by adverse weather conditions in Sri Lanka’s Northern Province.
+
+Distribution of the relevant materials were carried out yesterday (07), benefiting 2,100 families in Pesalai, Vellankulam, Thunukkai, and Manthai areas.
+
+◼️
+
+[Data](articles/a3f8a39c.json)
+
+---
 
 ### Youth killed
 
@@ -55,6 +167,20 @@ The body was sent to the Hambantota General Hospital for the autopsy report afte
 [Data](articles/816945c9.json)
 
 [Extended Data](ext_articles/816945c9.ext.json)
+
+---
+
+### கதிர்காமம் வாவியில் நீரில் மூழ்கி இளைஞன் பலி!
+
+*2024-12-08 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200702) · `ta`
+
+கதிர்காமம் பொலிஸ் பிரிவுக்குட்பட்ட செல்லக் கதிர்காமம் பகுதியில் உள்ள அக்கரவிஸ்ஸ வாவியில் நேற்று சனிக்கிழமை (07) படகு கவிழ்ந்து இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக கதிர்காமம் பொலிஸார் தெரிவித்தனர்.
+
+இதில் படகில் பயணித்த மூன்று நண்பர்கள் நீந்தி கரை சேர்ந்துள்ளதாகவும் படகினை செலுத்தியவர் நீரில் மூழ்கி இறந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5d767653.json)
 
 ---
 
@@ -2115,231 +2241,5 @@ Lu met with other government officials and the opposition leader on Friday. (Col
 [Data](articles/92735b3e.json)
 
 [Extended Data](ext_articles/92735b3e.ext.json)
-
----
-
-### The miracle of the universe today;Don't miss ...
-
-*2024-12-07 16:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்று-நிகழவுள்ள-பிரபஞ்ச-அதிசயம்-தவற-விடாதீர்கள்/50-348397) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Jupiter, Earth's largest celestial sibling, protects us from dangerous meteorites through its strong gravity. Every 13 months, Jupiter appears exceptionally bright and large in our sky, drawing scientific and public interest.
-
-🟩
-
-The planet Jupiter, also known as the great brother of the solar system, is getting closer to Earth today.
-
-About 460 billion years ago the solar system we lived in. Family is the leader of it. It is our sun.
-
-Some members then Wednesday, Friday, Earth, Saturn, Thursday, Uranus and Neptune. Jupiter is the big brother. The big man in the size. So the big brother is responsible for him.
-
-Like the name, he is carrying his younger brothers with all the hardships. To understand, the risk of meteorites to the earth.This is how the dinosaurs are extinct. Jupiter is helping us to save us from attacking meteorites.
-
-Jupiter's gravitational power is high. So it will attract all the meteorites that enter the solar system beyond it. Jupiter's brother has been doing this for us for the past several billion years.
-
-This task will continue for a few billion years. In this case, not only scientists but also ordinary people are interested in learning about the planet Jupiter.
-
-...
-
-[Data](articles/25782364.json)
-
-[Extended Data](ext_articles/25782364.ext.json)
-
----
-
-### Suspect arrested with heroin
-
-*2024-12-07 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204136) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Ja Ela: 38-year-old suspect caught hiding nearly 500g of heroin in their home. Previously convicted for drug trafficking, now facing investigation detention orders.
-
-🟩
-
-Nearly 500 grams of heroin found in a house in Ja Ela, Electorate.
-
-Police have arrested a 38 year old person who was the owner of the house.
-
-The suspect was hidden in a bedroom in the house room, police said.
-
-Police said the suspect had previously been imprisoned on drug trafficking and released on bail.
-
-The value of heroin heroin was taken into custody is Rs.
-
-The suspect is due to investigate detention orders.
-
-◼️
-
-[Data](articles/3c04d00d.json)
-
-[Extended Data](ext_articles/3c04d00d.ext.json)
-
----
-
-### Anti-corruption program supports supports at any time - Donald Lu
-
-*2024-12-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204135) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-US Assistant Secretary Donald Lu offers support: technical & financial aid for Sri Lanka's development. Government focuses on anti-corruption, improving rural economy & public services through modern technology.
-
-🟩
-
-US Assistant Secretary of State for South and Central Asian Affairs Donald Lu says that the government is ready to provide technical assistance to the government to bring back the money taken out of Sri Lanka.
-
-A discussion was held between President Anura Kumara Dissanayake and Donald Lu today (07).
-
-He added that the present government is supported at any time needed.
-
-The US Secretary of State stated that the US government is ready to provide financial and technical assistance to build Sri Lanka's security and economy.
-
-The new government's program recognizes the priorities of political, economic and social issues.
-
-President Anura Kumara Dissanayake said that the political culture was directly affected by the political culture of corruption and wasting Sri Lankan corruption and wasting.
-
-...
-
-[Data](articles/c5a84fb3.json)
-
-[Extended Data](ext_articles/c5a84fb3.ext.json)
-
----
-
-### Epidase
-
-*2024-12-07 16:03:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-பரவும்-அபாயம்/175-348396) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Recent heavy rain increases flu risk in flooded areas. High-risk districts: Ratnapura, Galle, Kalutara, Ampara, Kurunegala, Kegalle, Matara. Identified by Infectious Disease Division.
-
-🟩
-
-The Ministry of Health said that the recent inclement weather in the country has caused the risk of spreading the flu in the flooding areas.
-
-The districts of Ratnapura, Galle, Kalutara, Ampara, Kurunegala, Kegalle and Matara have been identified as high -end areas, according to the Infectious Division.R
-
-◼️
-
-[Data](articles/fa8544b9.json)
-
-[Extended Data](ext_articles/fa8544b9.ext.json)
-
----
-
-### The low -lying low -lying area formed in the Bay of Bengal
-
-*2024-12-07 16:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்காள-விரிகுடாவில்-குறைந்த-காற்றழுத்த-தாழ்வுப்-பகுதி-உருவானது/175-348395) · `ta`
-
-Low-lying area forms in Bay of Bengal, strengthening over 24 hours. Expected to affect Sri Lanka and Tamil Nadu coasts on Dec 12. Strong winds (55km/h) forecasted. Potential impact on Sri Lanka's weather, increased rainfall predicted for Northern and Eastern Provinces from Dec 10.
-
-🟩
-
-The Indian Meteorological Department said that the low -lying low -lying area has been formed in the Bay of Bengal.
-
-Over the next 24 hours, the low -lying low -lying area will be strengthened.
-
-Sri Lanka and Tamil Nadu will move towards the coast of the Southwest Bengal Bay on the 12th of this month.
-
-Due to the low -lying area, strong winds are reported at 55 km / h in the Bay of Bengal.
-
-Meanwhile, the Department of Meteorology has said that the turmoil in the eastern Sea of ​​Sri Lanka is likely to have the impact of the country's weather in the coming days.
-
-Due to this, rainfall is expected to increase in the Northern and Eastern Provinces from December 10. Remble
-
-◼️
-
-[Data](articles/22a735b1.json)
-
-[Extended Data](ext_articles/22a735b1.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-12-07 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204134) · `si`
-
-Weather alert: Heavy rain, strong winds expected. Low-pressure system developing over Bay of Bengal, may intensify within 24 hours. Sea conditions rough, potential flooding in coastal areas. Stay informed and take necessary precautions.
-
-🟩
-
-The Department of Meteorology has issued a warning for heavy rain, strong winds and sea of ​​riches.
-
-The announcement issued at 2 pm today (08) will be valid for 2 pm.
-
-The Meteorology Department says that the Thandudal fishing vessel and naval community who sailed in the deep sea area of ​​Southeastern Bay of Bengal.
-
-A lower pressure zone today (07) am today (07) am today (07).
-
-It is likely to grow further in the next 24 hours, heading west-northwest.
-
-The Met Department forecasts that it is likely beyond the Bay of Bengal Bay of Bengal by around December 11.
-
-Due to this, the temporary tights of the sea areas (a day.. 60) Heavy showers can bearly and that the sea areas can be very rough.
-
-◼️
-
-[Data](articles/47c9692d.json)
-
-[Extended Data](ext_articles/47c9692d.ext.json)
-
----
-
-### Inappropriate breadstores surrounded by mice inappropriate
-
-*2024-12-07 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204133) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Health officers seize 58 bundles of bread in Badulla. Government-owned store rented by businessman raided. Breadbox rats discovered. Court case pending regarding raid repository.
-
-🟩
-
-The Health Officers of the Badulla Municipal Council have recovered 58 bundle of bundle of breaded bundles in Badulla.
-
-It has also been revealed that the government owned the government is a rented store by a businessman in Bandarawela.
-
-The health authorities of the raid of the breadboxed by the health sectors were also discovered by the breadbox rats and raid.
-
-The Badulla Magistrate's Court is due to report to the Badulla Magistrate's Court regarding the raid repository.
-
-◼️
-
-[Data](articles/2f0ebd27.json)
-
-[Extended Data](ext_articles/2f0ebd27.ext.json)
-
----
-
-### ‘New Rathna’ Rice Mill owner responds to Trade Minister’s claims
-
-*2024-12-07 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104062/new-rathna-rice-mill-owner-responds-to-trade-ministers-claims) · `en`
-
-The owner of ‘New Rathna’ Rice Mill, Lankeshwara Mithrapala, has invited Trade Minister Wasantha Samarasinghe to personally inspect the company’s rice production facilities in the wake of the minister’s statement in Parliament yesterday (6) accusing large-scale rice millers of stockpiling.
-
-Responding to the allegations, Mithrapala stated, “I urge the Trade Minister to inspect my company at any time. I can prove the quantity of rice I released, my production capacity, and the stocks I have.”
-
-He explained that his operations involve maintaining rice stocks to ensure consistent market supply until the next harvest season.
-
-“We don’t release all our rice stocks to the market at once. I have 1,000 employees working at the mill, and I manage these stocks to produce rice daily and supply it to the market until the next harvest begins. I must protect the rice stocks I have and continue production until February 1,” Mithrapala explained.
-
-◼️
-
-[Data](articles/9800503a.json)
-
-[Extended Data](ext_articles/9800503a.ext.json)
 
 ---

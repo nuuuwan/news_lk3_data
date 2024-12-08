@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 08:46:51**
+As of **2024-12-08 09:07:38**
 
 ## Newspaper Stats
 
-*Scraped **59,011** Articles*
+*Scraped **59,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 601
 bbccomsinhala | 617
-islandlk | 3,554
+islandlk | 3,555
 economynextcom | 3,590
 dailyftlk | 4,070
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,999 (100.0%) of 59,011 articles have been extended.
+58,999 (100.0%) of 59,012 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -323,6 +323,20 @@ Working with S W R D Bandaranaike in the 1956-1959 period had given me the oppor
 [Data](articles/ac7ecf91.json)
 
 [Extended Data](ext_articles/ac7ecf91.ext.json)
+
+---
+
+### Two Bhikkhunis – one ancient, the other of the recent past
+
+*2024-12-08 04:09:00* · [`islandlk`](http://island.lk/two-bhikkhunis-one-ancient-the-other-of-the-recent-past/) · `en`
+
+December to me is the month to celebrate women. I presume the reason is that I revere Sanghamitta Theri, daughter of Emperor Asoka, who on request of King Devanampiya Tissa (250 – 210 BC) on behalf of the women in his court, came to Lanka. She brought a sapling from the Gaya Bo Tree under which Siddhartha Gautama solved the riddle of samsaric existence and found a solution. She also started the Bhikkhuni Order in this country; the request being made by Queen Anula, sister-in-law of King Devanampiya Tissa.
+
+Theri Sanghamitta’s arrival in a then port in the Jaffna Peninsula now known as Jambakolapatuna and her being conducted in procession to Anuradhapura occurred in the month of December, hence our observance of Unduvap Poya this month along with Sanghamitta Day.
+
+...
+
+[Data](articles/80121c42.json)
 
 ---
 
@@ -2415,21 +2429,5 @@ Siyapatha Finance PLC, a leading finance company in Sri Lanka and a fully owned 
 [Data](articles/332df8f4.json)
 
 [Extended Data](ext_articles/332df8f4.ext.json)
-
----
-
-### Notable performances by manufacturing and plantation sector share counters
-
-*2024-12-07 01:24:00* · [`islandlk`](http://island.lk/notable-performances-by-manufacturing-and-plantation-sector-share-counters/) · `en`
-
-The manufacturing and plantations sectors performed well in the stock market yesterday while the banking sector witnessed a consolidation after recording a rally for several months, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 53.96 points while the S and P SL20 rose by 16.56 points. Turnover stood at approximately Rs 5 billion with nine crossings.
-
-...
-
-[Data](articles/5749e0df.json)
-
-[Extended Data](ext_articles/5749e0df.ext.json)
 
 ---

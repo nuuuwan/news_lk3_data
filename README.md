@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 17:26:25**
+As of **2024-12-08 17:43:52**
 
 ## Newspaper Stats
 
-*Scraped **59,108** Articles*
+*Scraped **59,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,601
+adalk | 5,602
 adaderanalk | 7,181
-tamilmirrorlk | 8,437
+tamilmirrorlk | 8,438
 virakesarilk | 9,695
 adaderanasinhalalk | 10,216
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,081 (100.0%) of 59,108 articles have been extended.
+59,086 (100.0%) of 59,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### Try to escape by biting the stomach of the police
+
+*2024-12-08 17:20:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-வயிற்றைக்-கடித்து-தப்ப-முயற்சி/175-348445) · `ta`
+
+Arrested suspect bites police officer in Jaffna, accused of theft and robbery.
+
+🟩
+
+In many areas including Jaffna, Kopay, Achuveli and Chunnakam, the suspect has been arrested in Wattala for threatening people, entering homes at night and robbing gold jewelery, money and assets worth several crores of rupees.
+
+When the Jaffna police tried to arrest him in Wattala, he was trying to attack him.
+
+During his arrest, the Jaffna Police Criminal Investigation Division was bitten by the stomach of the officer in charge of the stomach. He was admitted to the hospital, police said.
+
+The 38 -year -old man who lives in Kadawatha, Kanemulla area has been arrested, police said.
+
+50 kg of pounds robbed by him. In addition, the handicap made abroad has been seized.
+
+◼️
+
+[Data](articles/52a3c388.json)
+
+[Extended Data](ext_articles/52a3c388.ext.json)
+
+---
 
 ### Two arrested with Colombowala
 
@@ -202,27 +228,43 @@ Thus, fishing and naval communities are requested to be attentive to future fore
 
 ---
 
-### பங்களாதேஷில்  தொடரும் வன்முறை :  சிறுபான்மையினருக்கு எதிரான   தாக்குதல்கள் !
+### Violence in Bangladesh: Attacks against minorities!
 
 *2024-12-08 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200708) · `ta`
 
-பங்களாதேஷில்  இஸ்கான் அமைப்பின் மூத்த துறவி சின்மோய் கிருஷ்ண தாஸ் கைதாகி உள்ளார். இந்து வழிபாட்டுத் தலங்கள் மீது தொடர்ந்து தாக்குதல்கள் நடைபெறுகின்றன. அத்துடன் வன்முறை பரவுவதாக வதந்திகள் எழுவதால் ஒட்டுமொத்த சமூக ஊடகங்களுக்கு மீண்டும் தடை விதிக்க பங்களாதேஷ் அரசு அதிரடி உத்தரவு விடுத்துள்ளது.
+Bangladesh violence: Attacks on minorities continue. ISKCON leader Chinmoi Krishna Das reports Hindu temple attacks. Government orders social media restoration to combat spreading rumors.
+
+🟩
+
+Chinmoi Krishna Das, senior saint of ISKCon in Bangladesh. There are constant attacks on Hindu places of worship. The Bangladesh government has issued a directive to the restoration of the entire social media as rumors that violence are spreading.
 
 ◼️
 
 [Data](articles/d1eab42f.json)
 
+[Extended Data](ext_articles/d1eab42f.ext.json)
+
 ---
 
-### ரஷ்ய-உக்ரேன் போர் முனைக்கு  வலிந்து தள்ளப்பட்டுள்ள தமிழர்கள்
+### Tamils ​​who have been forced to the Russian-Ukraine War
 
 *2024-12-08 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200717) · `ta`
 
-உக்ரேன், ரஷ்ய படை­களில் இலங்­கை­யர்கள் விரும்­பியோ விரும்­பா­மலோ இணைத்­துக்­கொள்­ளப்­பட்­டுள்­ளனர் என்ற விடயம் உறு­திப்­ப­டுத்­தப்­பட்­டுள்ள நிலையில் மேற்­கொள்­ளப்­பட்ட தகவல் திரட்­டுப் பட்­டி­ய­லுக்கு அமை­வாக 463 பேர் ரஷ்ய மற்றும் உக்ரேன் படை­களில் உள்­ளமை உத்­தி­யோகபூர்­வ­மாக உறு­தி­யா­கின்­றது.
+Here's a summary in 200 characters:
+
+
+
+Sri Lankan Tamils involved in Russia-Ukraine conflict: 463 confirmed with Russian forces.
+
+🟩
+
+The official confirms that 463 people are in the Russian and Ukraine forces in the Russian and Russian forces, as Sri Lankans have been linked to the Russian forces.
 
 ◼️
 
 [Data](articles/11ec6fec.json)
+
+[Extended Data](ext_articles/11ec6fec.ext.json)
 
 ---
 
@@ -266,35 +308,51 @@ The statement emerged hours after the head of a Syrian opposition war monitor sa
 
 ---
 
-### ஐந்தாண்டுகளுக்கு  ஆளுகை தொடரும் -  பிரதியமைச்சர் அருண் ஹேமச்சந்திரா பிரத்தியேக செவ்வி
+### Governing for five years - Deputy Minister Arun Hemachandra Exclusive
 
 *2024-12-08 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200724) · `ta`
 
-அமைச்­ச­ரவை நிய­ம­னத்­தின்­ போது முஸ்­லிம்­களின் பிர­தி­நி­தித்­து­வங்கள் உள்­ளிட்ட பிர­தேச ரீதி­யான பிர­தி­நி­தித்­து­வங்கள் அவ­சியம் என்ற பொது­வான நிலைப்­பாடு அனை­வ­ரி­டத்­திலும் காணப்­ப­டு­கின்­றது. உண்­மையில் தங்­க­ளது சமூ­கங்­க­ளுக்கு அநீதி இழைக்­கப்­பட்டு விடும் என்ற அச்­சத்தின் கார­ண­மா­கவே அந்த நிலைப்­பாடு காணப்­ப­டு­கின்­றது. ஆனால்இ தேசிய மக்கள் சக்தி தலை­மை­யி­லான அர­சாங்­கத்தின் அமைச்­ச­ர­வை­யா­னது இனஇ மதஇ பிர­தேச ரீதியில் அமை­யப்­பெற்­றது அல்ல. அது துறை­சார்ந்தஇ அனு­ப­வங்­களின் அடிப்­ப­டையில் மேற்­கொள்­ளப்­பட்ட தெரி­வுகள் சார்ந்­த­தாகும்.
+Here's a summary of 200 characters:
+
+
+
+Deputy Minister Arun Hemachandra discusses Cabinet appointments, emphasizing representation for all communities without bias towards race or religion. Decisions based on skills and experience rather than demographics.
+
+🟩
+
+During the appointment of the Cabinet, the general position is that the representation of Muslims, including the representations of Muslims, is essential.. The position is due to fear that their communities will be unjust. But the Cabinet of the National People's Power -led government is not a racial and religious regional. It depends on the choices made on the basis of the industry and experiences.
 
 ◼️
 
 [Data](articles/ddea53c7.json)
 
+[Extended Data](ext_articles/ddea53c7.ext.json)
+
 ---
 
-### ධීවර හා නාවික ප්‍රජාවට අනතුරු ඇඟවීමේ නිවේදනයක්
+### A warning to the fisheries and naval community
 
 *2024-12-08 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204160) · `si`
 
-ගිනිකොනදිග බෙංගාල බොක්ක ගැඹුරු මුහුදු ප්‍රදේශයේ යාත්‍රා කරන බහුදින ධීවර සහ නාවික යාත්‍රා සඳහා සැලකිලිමත්වන ලෙසට දන්වා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත්කර තිබේ.
+Warning: Low-pressure system approaching Southeastern seas. Strong winds, heavy rains expected Dec 11. Fishermen and mariners advised to monitor Department of Meteorology updates.
 
-ගිනිකොන දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පවතින අඩු පීඩන කලාපය ඉදිරි පැය 24 තුළ බටහිර - වයඹ දෙසට ගමන් කිරීමට ඉඩ ඇති බව නිවේදනයේ සඳහන් වේ.
+🟩
 
-එය දෙසැම්බර් 11 වනදා පමණ ශ්‍රී ලංකා - තමිල්නාඩු වෙරළට ඔබ්බෙන් නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයට ළඟා වීමට ඉඩ ඇත.
+The Department of Meteorology has issued a warning announcement informed to pay attention to multi-day fisheries and marine vessels that sail in the deep sea area of ​​Southen East.
 
-එම මුහුදු ප්‍රදේශවල තාවකාලිකව ඉතා තද සුළං පැ.කි.මී. 60, සමගින් තද වැසි පැවතිය හැකි අතර එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැක.
+The announcement states that the low pressure zone of the southeast Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay Bay Sea.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් මේ සම්බන්ධව නිකුත් කරන ඉදිරි නිවේදන පිළිබඳ සිය අවධානය යොමු කරන ලෙසට කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+It will reach the Bay of Bay of Bay of Bay of Bay of Bengal beyond the Sri Lanka-Tamil Nadu coast around December 11.
+
+Very strong winds temporarily in those sea areas.. 60, heavy rain can be very rough and the sea areas can be very rough.
+
+The Department of Meteorology has informed the Fisheries and Marine community to focus on the future announcements issued by the Department of Meteorology.
 
 ◼️
 
 [Data](articles/47bb6013.json)
+
+[Extended Data](ext_articles/47bb6013.ext.json)
 
 ---
 
@@ -309,6 +367,24 @@ The statement emerged hours after the head of a Syrian opposition war monitor sa
 ◼️
 
 [Data](articles/4f2b9cf5.json)
+
+---
+
+### හිඟයකින් තොරව බිත්තර වෙළඳපොළට
+
+*2024-12-08 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/හිඟයකින්-තොරව-බිත්තර-වෙළඳපොළට/11-413518) · `si`
+
+හිඟයකින් තොරව බිත්තර වෙළෙඳ පොළට නිකුත් කිරීමට බිත්තර නිෂ්පාදකයින් කටයුතු කරන බව ශ්‍රී ලංකා සත්ත්ව නිෂ්පාදකයින්ගේ සංගමයේ සභාපති අජිත් ගුණසේකර මහතා පවසයි.
+
+මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පැවසුවේ මේ වන විට බිත්තරයක සිල්ලර මිල රුපියල් 35-36ත් අතර අතර පවතින බවය. කෙසේ නමුත් රටේ ඉල්ලුම හා සැපයුම අනුව බිත්තරක මිල තීරණය වන බැවින් ඉදිරි උත්සව සමයේදී බිත්තර ඉල්ලුම වැඩි විය හැකි බවත් ඒ අනුව රුපියල් 45කට අඩුවෙන් බිත්තරයක සිල්ලර මිළ පවත්වාගෙන යාමට අපෙක්ෂා කරන බවත් ඔහු පැවසීය.
+
+එමෙන්ම වර්තමානය වනවිට සහල් නිවුඩු සහ බඩ ඉරිඟු මිල ඉහළ යාම හේතුවෙන් බිත්තරයක නිෂ්පාදන මිල ඉහළ ගොස් ඇති බවත් ඔහු පැවසීය. ඔහු පැවසුවේ කුකුළු මස් නිෂ්පාදනයේ අතිරික්තයක් පවතින බැවින් මේ වන විටත් හිඟයකින් තොරව කුකුළු මස් වෙළෙඳ පොළට නිකුත් කිරීමට පියවර ගෙන ඇති බවය.
+
+පසුගිය කාලයේ පැවැති අයහපත් කාලගුණික තත්ත්වය හමුවේ එළවළු මිල සහ මාළු මිල ඉහළ ගොස් ඇති බැවින් මේ හේතුවෙන් කුකුළු මස් සඳහා ඉල්ලුම වැඩි වී ඇති බවත් මේ වන විට ශීත කල කුකුළු මස් රුපියල් 950-1000ත් අතර මිලකට අලෙවි වන බවත් ඔහු පැවසීය.
+
+...
+
+[Data](articles/0f091c23.json)
 
 ---
 
@@ -2331,41 +2407,5 @@ For homebuyers and investors, the certification signifies enhanced trust and ass
 [Data](articles/c79c70bb.json)
 
 [Extended Data](ext_articles/c79c70bb.ext.json)
-
----
-
-### Dr. P. A. Kiriwandeniya reviews progress of ‘Sanasa Forward’ in Hambantota
-
-*2024-12-08 04:33:00* · [`islandlk`](http://island.lk/dr-p-a-kiriwandeniya-reviews-progress-of-sanasa-forward-in-hambantota/) · `en`
-
-Dr. P. A. Kiriwandeniya, Founder of Sanasa and Chancellor of Wayamba University of Sri Lanka, recently evaluated the progress of the “Sanasa Forward” initiative in Hambantota. This programme, launched 18 months ago, aims to empower 5,000 villages across the country through production-based economic activities over the next five years.
-
-In Hambantota, projects under Tangalle and Pahajjawa Sanasa societies, including water bottling, farming, vehicle repair, and bakery ventures, showcased promising results. Funded and guided by Sanasa’s loans and expertise, these initiatives highlight the programme’s success in fostering local economic growth.
-
-During his visit, Dr. Kiriwandeniya engaged with community members and Sanasa staff to discuss further improvements. Similar reviews are planned countrywide, with Sanasa General Society and Sanasa Life and General Insurance supporting the programme’s expansion.
-
-Westbury Residencies: Setting gold Standard with ISO 9001 certification initiative
-
-...
-
-[Data](articles/eaf97ee9.json)
-
-[Extended Data](ext_articles/eaf97ee9.ext.json)
-
----
-
-### SAGT wins sustainability award from Ceylon Chamber of Commerce
-
-*2024-12-08 04:23:00* · [`islandlk`](http://island.lk/sagt-wins-sustainability-award-from-ceylon-chamber-of-commerce/) · `en`
-
-South Asia Gateway Terminals (Pvt) Ltd (SAGT), Sri Lanka’s first Public Private Partnership emerged winner in the “Other” category at the Best Corporate Citizen Sustainability Awards 2024 hosted by the Ceylon Chamber of Commerce, an SAGT news release said.
-
-“Since launching its sustainability strategy in 2018, SAGT has been at the forefront of driving sustainable operations both within its terminal and the Port of Colombo. SAGT was the first and to date remains the only single operator terminal in the South Asia Region to publish an independently accredited annual sustainability report which charts the Company’s progressive journey in sustainable terminal operations,” it said.
-
-...
-
-[Data](articles/fd5d62e0.json)
-
-[Extended Data](ext_articles/fd5d62e0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 06:19:30**
+As of **2024-12-08 06:48:19**
 
 ## Newspaper Stats
 
-*Scraped **59,000** Articles*
+*Scraped **59,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
 adaderanalk | 7,166
-tamilmirrorlk | 8,413
+tamilmirrorlk | 8,414
 virakesarilk | 9,659
 adaderanasinhalalk | 10,199
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,989 (100.0%) of 59,000 articles have been extended.
+58,989 (100.0%) of 59,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -167,6 +167,28 @@ The drive was tortuous, the roads being more like gullies than even cart tracks.
 ...
 
 [Data](articles/06abcce3.json)
+
+---
+
+### தென் கொரிய ஜனாதிபதியை பதவிநீக்கும் பிரேரணை தோல்வி
+
+*2024-12-08 03:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்-கொரிய-ஜனாதிபதியை-பதவிநீக்கும்-பிரேரணை-தோல்வி/50-348403) · `ta`
+
+தென் கொரிய ஜனாதிபதி யூன் சுக் யோலை பதவி நீக்கம் செய்யும் பிரேரணை மீதான வாக்கெடுப்புக்கு முன்னதாக ஆளும் கட்சியைச் சேர்ந்த மூன்று பாராளுமன்ற உறுப்பினர்களைத் தவிர ஏனைய அனைவரும் வெளிநடப்பு செய்திருந்தனர்.
+
+எவ்வாறாயினும், குறித்த பிரேரணையை மூன்றில் இரண்டு என்ற பெரும்பான்மையில் நிறைவேற்றுவதற்கு தென்கொரியாவின் எதிர்க்கட்சி தவறியுள்ளது.
+
+கடந்த செவ்வாய்க்கிழமை இரவு தென் கொரியா ஜனாதிபதி யூன் சுக் யோல் அவசரமாக இராணுவச் சட்டத்தை அறிவித்தார்.
+
+இதனையடுத்து, தென் கொரியாவின் சியோலில் உள்ள தேசிய பாராளுமன்றத்துக்கு வெளியே பல்லாயிரக்கணக்கான மக்கள் ஜனாதிபதியை நீக்கம் செய்யக்கோரி ஒன்று திரண்டனர்.
+
+இந்தநிலையில், குறித்த இராணுவச் சட்டத்தினை அமுல்படுத்தவதற்கு எதிராக பாராளுமன்றில் தீர்மானம் நிறைவேற்றப்பட்டதுடன், அவரை பதவி நீக்கம் செய்வதற்கான பிரேரணையொன்றை எதிர்க்கட்சிகள் கொண்டுவந்தன.
+
+எனினும், ஜனாதிபதி யூன் சுக் யோல், இராணுவச் சட்டத்தை அறிவித்ததற்காக நேற்று பொதுமக்களிடம் மன்னிப்புக் கோரியதுடன், மீண்டும் அதனை அமுல்படுத்தப் போவதில்லை எனவும் அறிவித்திருந்தார். (a)
+
+◼️
+
+[Data](articles/b03945d5.json)
 
 ---
 
@@ -2367,23 +2389,5 @@ By offering job placements in Germany’s thriving building service sector, aime
 [Data](articles/782482cc.json)
 
 [Extended Data](ext_articles/782482cc.ext.json)
-
----
-
-### All at sea?
-
-*2024-12-07 00:16:09* · [`dailyftlk`](https://www.ft.lk/columns/All-at-sea/4-770205) · `en`
-
-But if the Chabad House movement’s ideology – politics, if you will – is the core issue here, why so in one place, but apparently not in another?
-
-Mental gymnastics – something Gunasekara suggests I am guilty of indulging in – are hardly needed to appreciate the wider context here. A fair bit of media commentary on these events includes a final note to the effect that three-quarters of all Dutch Jews – many of my own relatives included – were murdered by the Nazis, mostly in concentration camps but all too many, like those Israeli and Jewish football supporters, hunted down on the streets of Amsterdam and a host of other Dutch towns and villages. It’s this history that underlies Dutch politicians’ responses to the recent violence
-
-“Thou shalt not be a victim, thou shalt not be a perpetrator. But above all, thou shalt not be a bystander” – Yehuda Bauer
-
-...
-
-[Data](articles/6daf8667.json)
-
-[Extended Data](ext_articles/6daf8667.ext.json)
 
 ---

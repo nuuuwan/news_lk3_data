@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 01:42:51**
+As of **2024-12-09 02:13:05**
 
 ## Newspaper Stats
 
-*Scraped **59,154** Articles*
+*Scraped **59,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,161 @@ colombotelegraphcom | 602
 bbccomsinhala | 617
 islandlk | 3,555
 economynextcom | 3,593
-dailyftlk | 4,075
+dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,606
 adaderanalk | 7,185
 tamilmirrorlk | 8,444
-virakesarilk | 9,709
+virakesarilk | 9,711
 adaderanasinhalalk | 10,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,154 (100.0%) of 59,154 articles have been extended.
+59,156 (100.0%) of 59,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
+
+### CMA holds Excellence in Integrated Reporting Awards 2024
+
+*2024-12-09 02:02:05* · [`dailyftlk`](https://www.ft.lk/business/CMA-holds-Excellence-in-Integrated-Reporting-Awards-2024/34-770263) · `en`
+
+Keynote Speaker CMA Excellence in Integrated Reporting Awards Panel of Judges Chairman Prof. Ho Yew Kee
+
+Supreme Court of South Africa former Judge and Global Reporting Initiative Chairman Prof. Mervyn King
+
+CMA Sri Lanka Founder and President Prof. Lakshman. R. Watawala
+
+CMA Sri Lanka, the national professional management accounting body, in collaboration with the Colombo Stock Exchange (CSE) on 3 December hosted the 10th anniversary awards celebrations of the ‘CMA Excellence in Integrated Reporting Awards 2024’ at the Taj Samudra Hotel.
+
+The Excellence in Integrated Reporting Awards was held to promote Sri Lankan companies both unlisted, and state-owned institutions/companies, to undertake integrated reporting which will be beneficial to investors and stakeholders.
+
+...
+
+[Data](articles/23460570.json)
+
+---
+
+### தேசிய பட்டியல் விவகாரத்தில் தீர்மானம் எடுப்பது கடினமாகவுள்ளது கட்சி முழுமையாக மறுசீரமைக்கப்பட வேண்டும் - திஸ்ஸ அத்தநாயக்க
+
+*2024-12-09 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/200762) · `ta`
+
+தேசிய பட்டியல் விவகாரத்தில் உறுதியான தீர்மானம் எடுப்பது கடினமாக உள்ளது. தேசிய பட்டியல் குறித்து  இதுவரை இறுதி தீர்மானம் ஏதும் எடுக்கப்படவில்லை. தொடர்ந்து பேச்சுவார்தையில் ஈடுபட்டுள்ளோம். கட்சி முழுமையாக மறுசீரமைக்கப்பட வேண்டும். இல்லையேல் அரசாங்கத்துடன் போட்டியிட முடியாது. மக்களின் மனங்களை வெல்லவும் முடியாது என ஐக்கிய மக்கள் சக்தியின் தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி பொதுத்தேர்தலில் பெற்றுக் கொண்ட மொத்த வாக்கு வீதத்துக்கு அமைய ஐந்து தேசிய பட்டியல் ஆசனங்கள் கிடைக்கப்பெற்றன. ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் ரஞ்சித் மத்தும பண்டாரவின் பெயர் மாத்திரம் குறிப்பிடப்பட்;டது. மிகுதி தேசிய பட்டியல் ஆசனங்களை யாருக்கு வழங்குவது  என்பது குறித்து தொடர்ச்சியாக பேச்சுவார்த்தை இடம்பெறுகிறது.
+
+கிடைக்கப் பெற்ற தேசிய பட்டியல் ஆசனங்களுக்கு இதுவரையில் பெயர் குறிப்பிடாமல் இருப்பது குறித்து பல்வேறு மாறுப்பட்ட கருத்துக்களும், விமர்சனங்களும் முன்வைக்கப்படுகின்றன. ஐக்கிய மக்கள் சக்தியின் பக்கம் பல பிரச்சினைகள் காணப்படுகின்றன.
+
+...
+
+[Data](articles/99546925.json)
+
+---
+
+### Häfele Sri Lanka hosts exclusive partner networking event
+
+*2024-12-09 01:53:32* · [`dailyftlk`](https://www.ft.lk/business/Häfele-Sri-Lanka-hosts-exclusive-partner-networking-event/34-770262) · `en`
+
+Sri Lanka recently hosted an exclusive partner networking event at the Courtyard by Marriott, bringing together distinguished guests including project partners, trade associates, OEM customers, architects, designers, and media personnel. This gathering was an opportunity for Häfele to honour the support and collaboration of its partners in the Sri Lankan market while reinforcing its steadfast commitment to the region.
+
+A leading German brand known for home interior solutions that combine innovative functionality with timeless design, Häfele offers a diverse range of products, including door hardware, furniture and kitchen fittings, home appliances, furniture lighting, sanitary fittings, and interior surfaces. With its solution-oriented approach and dedication to superior service, Häfele has solidified its reputation as the preferred interiors specialist, delivering a seamless, and peace-of-mind journey for customers throughout their purchase cycle.
+
+...
+
+[Data](articles/ae044560.json)
+
+---
+
+### எதுவும் நிகழலாம் என்ற நிலையில் இலங்கை - தென் ஆபிரிக்கா 2ஆவது டெஸ்ட்
+
+*2024-12-09 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200761) · `ta`
+
+போர்ட் எலிஸபெத், சென். ஜோர்ஜ் பார்க் கெபெர்ஹா விளையாட்டரங்கில் நடைபெற்றுவரும் இலங்கை - தென் ஆபிரிக்கா அணிகளுக்கு இடையிலான 2ஆவது டெஸ்டில் எதுவும் நிகழலாம் என்ற நிலை உருவாகியுள்ளது.
+
+அப் போட்டியில் 348 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு 2ஆவது இன்னிங்ஸில் துடுப்பெடுத்தாடும் இலங்கை, போட்டியின் 4ஆம் நாளான ஞாயிற்றுக்கிழமை ஆட்ட நேர முடிவில் 5 விக்கெட்களை இழந்து 205 ஓட்டங்களைப் பெற்றிருந்தது.
+
+இப் போட்டியில் வெற்றிபெறுவதற்கு இலங்கைக்கு மேலும் 143 ஓட்டங்கள் தேவைப்படுவதுடன் தென் ஆபிரிக்காவுக்கு மேலும் 5 விக்கெட்கள் தேவைப்படுகிறது.
+
+போட்டியில் ஒரு நாள் முழுவதும் மீதம் இருப்பதால் இலங்கை அணி மிகவும் நிதானத்துடன் துடுப்பெடுத்தாட வேண்டிய நிலையில் இருக்கிறது.
+
+நான்காம் நாள் ஆட்ட நேர முடிவில் தலா 39 ஓட்டங்களுடன் ஆட்டம் இழக்காமல் இருந்த அணித் தலைவர் தனஞ்சய டி சில்வா, முன்னாள் அணித் தலைவர் குசல் மெண்டிஸ் ஆகியோரின் கைகளிலேயே இலங்கையின் தலைவிதி தங்கியிருக்கிறது.
+
+...
+
+[Data](articles/dd63fc80.json)
+
+---
+
+### Strengthening sustainability: JAAF and Solidaridad chart path for EU market alignment
+
+*2024-12-09 01:48:57* · [`dailyftlk`](https://www.ft.lk/business/Strengthening-sustainability-JAAF-and-Solidaridad-chart-path-for-EU-market-alignment/34-770261) · `en`
+
+From left: Delegation for the EU to Sri Lanka and Maldives Deputy Head Lars Bredal, JAAF Secretary-General Yohan Lawrence, Solidaridad Network Country Manager Anitha Munasinghe, and Mission for the Kingdom of the Netherlands Deputy Head Iwan Rutjens
+
+The Joint Apparel Association Forum (JAAF) and Solidaridad, a civil society organisation, recently co-hosted a one-day workshop in Colombo to address the European Union’s Corporate Sustainability Due Diligence Directive (CSDDD).
+
+Introduced in 2023, the CSDDD requires companies in EU-bound supply chains to meet stringent environmental and human rights standards. While Sri Lankan suppliers are not directly mandated to comply, aligning with these standards is essential to remain competitive in the EU market, which accounts for 30% of Sri Lanka’s apparel exports. Italy, Germany, the Netherlands, and France collectively represent over 80% of these exports, further underscoring the importance of compliance.
+
+...
+
+[Data](articles/fd8a838e.json)
+
+[Extended Data](ext_articles/fd8a838e.ext.json)
+
+---
+
+### NCE holds Export Awards 2024
+
+*2024-12-09 01:45:45* · [`dailyftlk`](https://www.ft.lk/business/NCE-holds-Export-Awards-2024/34-770260) · `en`
+
+The most prestigious business event celebrating the exceptional performance of Sri Lankan exporters, the NCE Export Awards 2024, was held on 6 December at the Main Ballroom of Hotel Shangri-La Colombo.
+
+The glamorous event brought together over 750 attendees, including exporters and representatives from private and government sectors, underscoring its status as the pinnacle of recognition for excellence in Sri Lanka’s export industry.
+
+Organised by the National Chamber of Exporters (NCE) of Sri Lanka, the awards program has run uninterrupted for the past 31 years, marking a cornerstone in the nation’s efforts to promote and honour its top exporters. The event serves as a beacon of excellence, inspiring exporters to reach new heights and reinforcing their global credibility.
+
+...
+
+[Data](articles/76ad31f1.json)
+
+[Extended Data](ext_articles/76ad31f1.ext.json)
+
+---
+
+### Agriculture Ministry partners FAO to boost farming sector amid climate challenges
+
+*2024-12-09 01:44:00* · [`dailyftlk`](https://www.ft.lk/business/Agriculture-Ministry-partners-FAO-to-boost-farming-sector-amid-climate-challenges/34-770259) · `en`
+
+The Agriculture, Livestock, Lands and Irrigation Ministry has pledged to enhance collaboration with the Food and Agriculture Organisation (FAO) to implement more systematic and effective projects aimed at improving the living standards of the country’s farming communities.
+
+A high-powered meeting with Agriculture, Livestock, Lands and Irrigation Minister K.D. Lalkantha, along with FAO Representative Sri Lanka and the Maldives Vimlendra Sharan, Deputy Minister Karunaratne, Deputy Minister of Land and Irrigation Dr. Susil Ranasinghe was held at the Ministry this week. Minister Lalkantha acknowledged the urgent need to address challenges posed by climate extremes, including drought and the recent triple floods, which have severely impacted farmers across the country.
+
+He outlined plans to implement targeted solutions to mitigate drought impacts on agriculture, ensuring that farmers receive the necessary support to maintain livelihoods and food security.
+
+...
+
+[Data](articles/11af1100.json)
+
+---
+
+### PickMe plans expansion of delivery services for upcoming season
+
+*2024-12-09 01:42:28* · [`dailyftlk`](https://www.ft.lk/business/PickMe-plans-expansion-of-delivery-services-for-upcoming-season/34-770258) · `en`
+
+PickMe will expand its technology to facilitate the delivery of spirits and soft liquor, integrating yet another key component of the economy on its platform.
+
+The company, which is set to launch the service during the holiday season, has in place a robust technological solution that will ensure secure and efficient merchant-to-customer transactions. The solution is backed by established standard operating procedures that will ensure compliance and accountability throughout the delivery process.
+
+“As a technology provider, we will not be involved in the transactional aspect of buying and selling spirits. Our third party merchants will be responsible for adhering to all legal regulations concerning the sale of alcohol at physical points of sale, and this expansion will provide greater convenience to their customers,” says PickMe CFO Maduranga Kulathilaka.
+
+...
+
+[Data](articles/09199ad5.json)
+
+---
 
 ### Pathfinder Foundation hosts roundtable discussion with US-South Asia expert
 
@@ -2327,193 +2465,5 @@ The father of the attacker, the father of the attacker, has been arrested by the
 [Data](articles/f5eb6a77.json)
 
 [Extended Data](ext_articles/f5eb6a77.ext.json)
-
----
-
-### A wild elephant strikes in Naula area
-
-*2024-12-08 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200705) · `ta`
-
-Wild elephant attack kills man in Naula area. Incident occurred near Bogus Bobella. Victim returning home when struck by elephant.
-
-🟩
-
-Naula police said that a person was killed by a wild elephant in the Bogus Bobella area of ​​the Naula Police Division.
-
-The wild elephant was attacked while he was returning home from a relative's house in the area, police said.
-
-◼️
-
-[Data](articles/aa338428.json)
-
-[Extended Data](ext_articles/aa338428.ext.json)
-
----
-
-### Public firing - trio arrested!
-
-*2024-12-08 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200700) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Arrests made in Bogawewa shooting: 2 suspects (26, 30) from Mahiyangana, Ehudukaswewa; main suspect (42) from Kirippanwewa. T56 rifle and revolver seized. Motorcycle involved. Investigation ongoing.
-
-🟩
-
-Two more people have been arrested in connection with the shooting incident which took place last Thursday night in Bogawewa, which belongs to the Anuradhapura and Public Police Division.
-
-The arrested suspects are from Mahiyangana and Ehudukaswewa, aged 26 and 30.
-
-A 42 -year -old main suspect from Kirippanwewa area has been arrested in connection with the Hindu shooting incident by the Special Task Force in Pulmottai.
-
-The T56 rifle and a revolver have been seized from the man and the Welioya has been handed over to the police to obtain a court order and investigate the police detention.
-
-Police said both a motorcycle and motorcycle driver had been arrested on a motorcycle for shooting.
-
-In addition, it has been revealed that the T56 rifle from the suspect who is being investigated on the basis of arrests has been used for the crime.
-
-◼️
-
-[Data](articles/90c3f13e.json)
-
-[Extended Data](ext_articles/90c3f13e.ext.json)
-
----
-
-### Sri Lanka failed to meet WHO food quality testing standards – Expert
-
-*2024-12-08 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104075/sri-lanka-failed-to-meet-who-food-quality-testing-standards-expert) · `en`
-
-Sri Lanka has yet to conduct the necessary tests prescribed by the World Health Organization (WHO) to ensure food quality, Bio-Medical Scientist Dr. Kamal Gammanpila says.
-
-Addressing a recent press conference, he further highlighted the growing health crisis posed by the alarming rise in Thalassemia and kidney disease cases across the country.
-
-Dr. Gammanpila revealed findings from a recent survey conducted among 100 school students aged 15 to 17 in the Anuradhapura district, which uncovered a Thalassemia prevalence rate of 23.9%.
-
-Similarly, the Kurunegala district recorded a prevalence rate of 20.6%, he noted, adding that these figures underscore the urgent need for comprehensive measures to combat these public health issues.
-
-◼️
-
-[Data](articles/19cea6eb.json)
-
-[Extended Data](ext_articles/19cea6eb.ext.json)
-
----
-
-### Japan helped people affected by disaster
-
-*2024-12-08 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204155) · `si`
-
-Japan provides Rs. 300 million aid for disaster relief. Commodity transport arrives at Katunayake airport. Distribution to be handled by District Secretaries. India also offers assistance to Northern Province residents affected by inclement weather. Subsidies distributed to 2100 families in Vesalem, Thunukkai, and Manthai.
-
-🟩
-
-The Japanese government has given a large haul of Rs. 300 million to distribute the inclement weather.
-
-It is said that a special commodity transport from the country's Japanese embassy and the incident of Julyan country has arrived at the Katunayake airport yesterday (07).
-
-The suspects will be given to the District Secretaries to distribute the disaster affected people recently.
-
-Meanwhile, the Indian government has provided relief to the people of the Northern Province who affected the inclement weather.
-
-The distribution of subsidies were distributed yesterday for 2100 families affected by Vesalem, Thunukkai and Manthai.
-
-◼️
-
-[Data](articles/09aa01c2.json)
-
-[Extended Data](ext_articles/09aa01c2.ext.json)
-
----
-
-### “Explore alternative measures to solve the problem”
-
-*2024-12-08 11:34:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரச்சினையைத்-தீர்க்க-மாற்று-நடவடிக்கைகளை-ஆராயவும்/175-348418) · `ta`
-
-"Explore non-lethal methods to protect crops from wildlife damage."
-
-🟩
-
-Ravindranath Dabare, legal adviser to the Center for Environmental Justice (CEJ), said that it is not acceptable as a government to take the control of the crops in the hands of the people without taking appropriate action.
-
-He was responding to a comment made by Minister of Agriculture KD Lalkantha in Parliament on December 5.. The Minister stressed that there are no legal obstacles in determining how farmers deal with animals that damage their crops.
-
-“A responsible minister reveals such a statement, which will make people permission to kill any animals that can damage their crops,” he said.
-
-For example, the elephants have been given special protection to the elephants under the 12th string of the Protection Ordinance of Sri Lanka. Accordingly, the killing of elephants is strictly forbidden for crop damage. Peacocks are also listed as a protected species under the law. Therefore, there is no legal section that allows the killing of peacocks.
-
-...
-
-[Data](articles/6b8fb615.json)
-
-[Extended Data](ext_articles/6b8fb615.ext.json)
-
----
-
-### The removal of the image of Mujibur Rahman
-
-*2024-12-08 11:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முஜிபுர்-ரஹ்மானின்-படம்-நீக்கம்/50-348415) · `ta`
-
-Bangladesh removes Mujibur Rahman's image from banknotes to reduce his influence. New designs featuring religious structures, Bengali traditions, and graffiti from the liberation struggle will replace his portrait. Changes aim to shift focus away from the former leader.
-
-🟩
-
-Mujibur Rahman, the father of Sheikh Hasina, who was the Prime Minister of Bangladesh, called the country's patriot, has been the main reason for the emergence of Bangladesh.
-
-Accordingly, the Mujibur Rahman film has been printed on the bankruptcy of Bangladesh. The interim government, led by Mohammed Yunus, is currently planning to remove his image from the bank to reduce his popularity.
-
-The Central Bank has issued an interim order to print Dhaka 20, 100, 500 and 1000 banknotes. Mujibur Rahman should not be named in this bank. Instead, the media has reported that the Religious Structures, the Bengali tradition and the Graffiti, which were laid during the struggle, are likely to be in the bank.
-
-In addition, it has been ordered to change the form of a four -shaped bank and others are likely to be changed gradually.
-
-◼️
-
-[Data](articles/d17a7a6d.json)
-
-[Extended Data](ext_articles/d17a7a6d.ext.json)
-
----
-
-### The number of coconuts is increased by 2 lakhs
-
-*2024-12-08 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்களின்-எண்ணிக்கை-2-இலட்சமாக-அதிகரிப்பு/175-348414) · `ta`
-
-Sathosa to sell 2 lakh coconuts from Monday, increasing supply by 200,000 coconuts.
-
-🟩
-
-The number of coconuts sold through Sathosa will be increased to two lakhs from Monday (9), the Ministry of Commerce, Food Security and Cooperative Development said.
-
-The ministry said that coconuts in government -owned southern lands are being sold through Sathosa and people in urban areas including Colombo can buy coconuts from Sathosa.
-
-◼️
-
-[Data](articles/27d77496.json)
-
-[Extended Data](ext_articles/27d77496.ext.json)
-
----
-
-### 40% decline in salt production: Sri Lanka to import salt?
-
-*2024-12-08 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104074/40-decline-in-salt-production-sri-lanka-to-import-salt) · `en`
-
-The Ministry of Trade, Commerce, Food Security and Cooperative Development states that the ministry will look into a reported decline in salt production within the country.
-
-A spokesperson from  the ministry confirmed that salt production companies had submitted reports indicating a 40% drop in output over the past two years, citing adverse weather conditions as the primary cause.
-
-In response to the alarming figures, the ministry assured that immediate steps would be taken to investigate the issue and implement necessary measures to address the shortfall.
-
-It was reported that the decline has already impacted the availability of salt locally.
-
-Accordingly, the salt production companies have requested the government approval for importing salt to mitigate the shortage. The companies have formally communicated their appeal to the ministry.
-
-...
-
-[Data](articles/9c580b63.json)
-
-[Extended Data](ext_articles/9c580b63.ext.json)
 
 ---

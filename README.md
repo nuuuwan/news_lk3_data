@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 23:42:40**
+As of **2024-12-09 00:27:28**
 
 ## Newspaper Stats
 
-*Scraped **59,146** Articles*
+*Scraped **59,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 617
 islandlk | 3,555
-economynextcom | 3,591
-dailyftlk | 4,070
+economynextcom | 3,593
+dailyftlk | 4,071
 dailymirrorlk | 4,733
 adalk | 5,606
 adaderanalk | 7,185
@@ -26,71 +26,111 @@ adaderanasinhalalk | 10,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,141 (100.0%) of 59,146 articles have been extended.
+59,148 (100.0%) of 59,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### චන්දි ටෙස්ට් පිටියේ සුවිශේෂී කඩඉමක් පසුකරයි
+### Taxes: Two cheers  and a few suggestions
+
+*2024-12-08 23:10:31* · [`dailyftlk`](https://www.ft.lk/columns/Taxes-Two-cheers-and-a-few-suggestions/4-770232) · `en`
+
+I read a long rant about the online submission of taxes posted on X, formerly Twitter, on the last day for submitting income-tax returns. This was by Nisansa de Silva, a friend who teaches computer science. It was a long thread and included words such as “rage” and many other words in capitals. But the most important sentences were: “Now I understand that this is the first time they are doing this online and it is bound to be bumpy. Woe be it if they go back to paper.”
+
+I too had spent many hours, standing in line to get my PIN, staring at the screen waiting for the system to respond, etc. I had gone through the same torturous process but strangely I experienced no rage. Was it simply because I was double my friend’s age?
+
+...
+
+[Data](articles/f466ea1b.json)
+
+---
+
+### Chandi Test is passing out
 
 *2024-12-08 22:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204172) · `si`
 
-ශ්‍රී ලංකාව හා දකුණු අප්‍රිකාව අතර දෙවන ටෙස්ට් ක්‍රිකට් තරගයේදී ජාත්‍යන්තර ටෙස්ට් ක්‍රිකට් දිවියේ සුවිශේෂී කඩඉමක් පසුකිරීමට දිනේෂ් චන්දිමාල් සමත් විය.
+Here's a summary of 200 characters:
 
-තරගයේ සිව්වැනි දිනය වූ අද (8) ශ්‍රී ලංකා දෙවන ඉනිම වෙනුවෙන් චන්දිමාල් ලකුණු 29ක් රැස්කිරීමට සමත් වූ අතර, ඒ සමග සිය ටෙස්ට් ක්‍රිකට් දිවියේ ලකුණු 6000 සීමාව පසුකර යාමට ඔහුට අවස්ථාව උදාවිය.
 
-2011 වසරේදී දකුණු අප්‍රිකාවට එරෙහිව දකුණු අප්‍රිකාවේදීම ජාත්‍යන්තර ටෙස්ට් ක්‍රිකට් දිවිය ඇරඹූ චන්දිමාල් එතැන් සිට මේ දක්වා ටෙස්ට් තරග 86ක ඉනිම් 154කදී ලකුණු 6019ක් රැස්කිරීමට සමත්ව සිටියි.
 
-මංගල ටෙස්ට් තරගයේ ඉනිම් ද්විත්වයේම අර්ධ ශතක වාර්තාකල චන්දිමාල්, ටෙස්ට් අර්ධ ශතක 30කට හා ශතක 16කට හිමිකම් කියයි.
+Dinesh Chandimal reached a milestone in the second Test vs. South Africa. He scored 29 runs in the second innings, bringing his total to 6019 runs in 154 Tests. This achievement makes him the 7th Sri Lankan batsman to cross 6000 Test runs.
 
-ශ්‍රී ලංකාව වෙනුවෙන් ටෙස්ට් ලකුණු 6000 කඩඉම පසුකළ 7වන පිතිකරුවා චන්දිමාල් වන අතර, එම කඩඉම පසුකළ ලොව 74වැනි පිතිකරුවා ඔහු වෙයි.
+🟩
+
+Dinesh Chandimal passed a significant milestone in the second Test cricket in the second Test cricket between Sri Lanka and South Africa.
+
+Chandimal scored 29 runs for the second innings of the match today (8).
+
+South Africa in 2011 against South Africa in 2011, Chandimal, who started the International Test in 2011, has scored 6019 runs in 154 Tests.
+
+Chandimal, which recorded half centuries in the Wedding Test series, claims a half centurial record of 30 Tests and 16 centuries.
+
+Chandimall is the 7th batsman who has crossed the 6000 Test mark for Sri Lanka.
 
 ◼️
 
 [Data](articles/1a40c401.json)
 
+[Extended Data](ext_articles/1a40c401.ext.json)
+
 ---
 
-### புகையிரத்திலிருந்து தவறி விழுந்த சீன பெண்!
+### Chinese woman who slipped off the train!
 
 *2024-12-08 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200759) · `ta`
 
-வெள்ளவத்தை - பம்பலப்பிட்டிக்கும் இடையில் 07ஆம் திகதி சனிக்கிழமை பிற்பகல் புகையிரத வாயிலில் தொங்கிய சீன பெண் ஒருவர் தவறி விழுவதை அவரது நண்பரின் கையடக்கத் தொலைபேசியில் பதிவு செய்துள்ளார்.
+Here's a summary in 200 characters:
 
-ரயிலில் தொங்கிய நிலையில் மரக்கிளை ஒன்று தலையில் மோதியதில் ரயிலிலிருந்து தூக்கி வீசப்படுவதை அந்த வீடியோ பதிவில் காணக்கூடியதாகவுள்ளது.
 
-தூக்கி வீசி எறியப்பட்ட குறித்த பெண் புதரில் விழுந்ததால் காயம் ஏதும் ஏற்படவில்லை என பொலிசார் தெரிவித்தனர்.
+
+Chinese woman falls off train near Wellawatte-Bambalapitiya. Video shows her hanging from tree branch. She lands in bushes unharmed, according to police report.
+
+🟩
+
+A Chinese woman who hanged her at the railway gate on Saturday afternoon between Wellawatte - Bambalapitiya has recorded on her friend's mobile phone.
+
+In the video recording, the video recording can be seen as a tree hanging from a head on his head.
+
+The woman who was thrown into the bush fell into the bush, no injuries were injured, police said.
 
 ◼️
 
 [Data](articles/5cc7aceb.json)
 
+[Extended Data](ext_articles/5cc7aceb.ext.json)
+
 ---
 
-### ධරණී අභිමානවත් සිව්වන සංවත්සරය සමරයි
+### Celebrates the fourth anniversary of the herana
 
 *2024-12-08 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204171) · `si`
 
-ශ්‍රී ලංකාවේ කාන්තා පුවත්පත් අතර ඉතා කෙටි කාලයකින් ඉහළ ජනප්‍රසාදයක් දිනූ ධරණී පුවත්පතේ අභිමානවත් සිව්වන සංවත්සර සැමරුම ඊයේ (07) පැවැත්වුණි.
+Dhonane newspaper celebrates 4th anniversary with events at Vihara Maha Devi Park. Ceremony attended by Speaker of Parliament Dilith Jayaweera. Children's art exhibition and product sale programs organized. Aruna Niketha named most popular princess on social media. Ravi Royrster's Pattern Band performs at outdoor faculty.
 
-ඒ , ශ්‍රී ලංකා පාර්ලිමේන්තුවේ මහලේකම්වරියගේ ප්‍රධානත්වයෙන් කොළඹ විහාර මහා දේවි උද්‍යානයේදීය.
+🟩
 
-කාන්තා පුවත්පතකට උරුම වී තිබූ සාම්ප්‍රදායික රාමුවෙන් මිදී විවිධත්වය හා නව්‍යකරණයක් සමග ධරණී පුවත්පත ඇරඹුණේ 2020 වසරේදීය.
+The fourth anniversary celebration of the Dhonane newspaper won the fourth anniversary of the Dhonane, which won a short period of time in Sri Lanka.
 
-මෙරට ව්‍යවසායකයින්ගේ නිෂ්පාදන ප්‍රවර්ධනයට සහ අලෙවි කරගැනීම සඳහා වෙළෙඳ කුටි සහ දරුවන්ගේ කලා දක්ෂතා ඔප්නැංවීම සඳහා වැඩසටහන්ද එහි සංවිධාන කර තිබුණි.
+At the Vihara Maha Devi Park, Colombo was declared as the General Secretary of the Parliament of Sri Lanka.
 
-සංවත්සර සැමරුමේ ප්‍රධාන උත්සවය පැවැත්වුණේ ශ්‍රී ලංකා පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණධීර මහත්මිය සහ ලිබර්ටි පබ්ලිෂර්ස් ආයතනයේ නිර්මාතෘ , පාර්ලිමේන්තු මන්ත්‍රී ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙනි.
+The Draohen newspaper began with a variety and innovation of the traditional framework of a female newspaper in the inherited of the traditional framework.
 
-ඊයේ දිනට යෙදුණු පාර්ලිමේන්තු මහලේකම්වරියගේ උපන් දිනය ද මෙහිදී  සැමරීමට කටයුතු කර තිබුණි.
+Programs were also organized to enhance their stalls and children's artistic talents to promote and sell the products of the country.
 
-එහිදී විනිශ්චය මණ්ඩලය විසින් ධරණී කුමරිය ලෙස තෝරාගනු ලැබුවේ ඉසුරි නිම්සරාය.
+The main ceremony of the Anniversary Commemoration was held by the Secretary General of Sri Lanka, the Founder of the Parliament of Sri Lanka and the Founder of the Liberty Publishers Institute, Parliamentarian Dilith Jayaweera.
 
-එමෙන්ම සමාජ මාධ්‍යවලින් වැඩිම මනාප හිමිකරගනිමින් ධරණී ජනප්‍රියම කුමරිය ලෙස තේරී පත්වුණේ අරුණි නිකේෂලාය.
+The birthday of the Parliamentary Secretariat was also celebrated yesterday.
+
+The papers were chosen as the Dhiranahi Princess.
+
+Aruna Niketha was elected as the most popular princess of social media.
 
 ...
 
 [Data](articles/f8e312ab.json)
+
+[Extended Data](ext_articles/f8e312ab.ext.json)
 
 ---
 
@@ -944,19 +984,29 @@ The assistance has been provided to reflect the policy of Indian Prime Minister 
 
 ---
 
-### වතුකරයේ ජනතාවට පාලන මිලටත් අඩුවෙන් සහල්
+### The people in the plantation have little rice
 
 *2024-12-08 16:41:18* · [`adalk`](https://www.ada.lk/breaking_news/වතුකරයේ-ජනතාවට-පාලන-මිලටත්-අඩුවෙන්-සහල්/11-413522) · `si`
 
-වතුකරයේ ජනතාවට හැටන් සතොස ශාලාව වෙතින් නාඩු සහල් කිලෝවක් රු 220 ක සිල්ලර මිලකට (08) දින සිට අලෙවි කරනු ලබයි.
+Here's a summary in 200 characters:
 
-කීරි සම්බා කිලෝවක් රු 260, රතු කැකුළු රු 210 යන සිල්ලර මිලකට හැටන් සතොස ශාඛාව වෙත පැමිණෙන පාරිභෝගිකයන්ට ලබාදෙන අතර, සෑම පාරිභෝගිකයෙකුටම සහල් කිලෝ පහ බැගින් නිකුත් කරන බවයි හැටන් සතොස ශාඛාවේ නිලධාරින් කියා සිටියේ.
 
-සතොස ශාඛාවට (08) දින අවශ්‍ය තරම් සහල් තොග ලැබි තිබුණු නමුත්, පොල් තොග ලැබි නොමැති බවයි එම නිලධාරින් කියා සිටියේ.
+
+Plantation workers lack rice. Hatton Seya Branch sells rice at retail price. Officials claim insufficient coconut stock delivery.
+
+🟩
+
+The people of the plantation sector are sold from Hatton rice at a retail price of Rs.
+
+The Hatton Seya Branch officials said that the Hatton Branch was given to the Hatton Branch at Rs.
+
+The CWE Branch had received enough rice in the area (08), but the officials said that coconut stocks had not been received.
 
 ◼️
 
 [Data](articles/c470642c.json)
+
+[Extended Data](ext_articles/c470642c.ext.json)
 
 ---
 
@@ -1107,6 +1157,28 @@ Further investigations have revealed that the suspects were behind similar theft
 [Data](articles/a21dd3dd.json)
 
 [Extended Data](ext_articles/a21dd3dd.ext.json)
+
+---
+
+### Syria’s Russia-backed 53-year rule of Assad family ends
+
+*2024-12-08 16:01:00* · [`economynextcom`](https://economynext.com/syrias-russia-backed-53-year-rule-of-assad-family-ends-192867/) · `en`
+
+ECONOMYNEXT – Syria’s Al-Assad family rule that started in 1971 with a military coup by the last President, Bashar al-Assad’s father, Hafez had ended with rebel groups entering the capital Damascus, media reports said.
+
+Qatar-based Al Jazeera network reported celebratory gunfire in Damascus, statues brought to the ground, flags being torn down and burned and an empty presidential palace.
+
+The sudden collapse of he Assad regime came after an offensive launched on November 27, by a coalition of rebel forces, which first captured a Aleppo, a key city and rapidly overran the rest of the country as the government resistence collapsed.
+
+Israeli action in Lebanon which weakened Iran-backed Hizbollah, who had earlier supported the government as well as Russia’s pre-occupation in Ukraine has been pointed to by Middle East analysts reasons for the fall of the Assad family regime.
+
+Iran itself was supporting the Assad regime. Crowds stormed the Iranian embassy as the capital fell, Al Jazeera reported.
+
+...
+
+[Data](articles/2cc6fb4b.json)
+
+[Extended Data](ext_articles/2cc6fb4b.ext.json)
 
 ---
 
@@ -2443,53 +2515,5 @@ The arrested suspects were 41 and 42 years old from Madampe and Wennappuwa.
 [Data](articles/1e360809.json)
 
 [Extended Data](ext_articles/1e360809.ext.json)
-
----
-
-### “We will reject the internal mechanism”
-
-*2024-12-08 10:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/உள்ளகப்-பொறிமுறையை-நிராகரிப்போம்/71-348412) · `ta`
-
-"We reject internal mechanisms for missing persons. We demand international justice. 18,817 missing in our region. 146,679 killed in 2009 war. No confidence in current office. Government issues death certificates, not solving disappearances. We are Tamil, not minority. We seek justice through international mechanisms."
-
-🟩
-
-The association of the missing persons said that we are rejecting the internal mechanism on the issue of the missing persons and continues to emphasize the International Visa Rana.
-
-They said this at a media briefing held at the Jaffna Media Center on Saturday (07).
-
-A media report has been issued by the relatives of the relatives of the disappearance. In that case,
-
-“We are a national race. But it is systematically forced into the term 'minority'. Tamilnum. In the first line of the disappearance of their children and husbands today, we are living as a Tamil language in the North/East, in the first line of mind.
-
-The number of missing relationships in our eight districts today is 18,817. In addition, we have killed 1,46,679 people during the final war in Mullivaikaval in 2009.. We lose our relationships in the end.
-
-...
-
-[Data](articles/66304498.json)
-
-[Extended Data](ext_articles/66304498.ext.json)
-
----
-
-### Amendment and Prohibition that has caused crises
-
-*2024-12-08 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200685) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sinhala nationalism controversy: Dayasiri Jayasekara proposes National People's Power against Sinhala nationalism, sparking debate over terrorism law and racial accusations.
-
-🟩
-
-Member Dayasiri Jayasekara presented a concept that would portray the national people's power as an organization against Sinhala nationalism on the 04th, not to consider the use of the National People's Power as a serious issue of the terrorism law.. Jayasekara, who said that these were held under the PTA in the South, but in the North, were arrested in the North.. But the Minister of National Integration Harshana confirmed that such an incident did not occur. Bimal Ratnayaka, the chief minister of the council, denounced Dayasiri's communal opinion and described him as a racist.
-
-◼️
-
-[Data](articles/0e26d26d.json)
-
-[Extended Data](ext_articles/0e26d26d.ext.json)
 
 ---

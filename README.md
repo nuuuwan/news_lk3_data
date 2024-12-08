@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 08:11:19**
+As of **2024-12-08 08:46:51**
 
 ## Newspaper Stats
 
-*Scraped **59,009** Articles*
+*Scraped **59,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,554
 economynextcom | 3,590
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,589
+adalk | 5,590
 adaderanalk | 7,166
-tamilmirrorlk | 8,414
+tamilmirrorlk | 8,415
 virakesarilk | 9,662
 adaderanasinhalalk | 10,204
 
@@ -26,41 +26,81 @@ adaderanasinhalalk | 10,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,996 (100.0%) of 59,009 articles have been extended.
+58,999 (100.0%) of 59,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### උත්සව සමය හේතුවෙන් මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගෙන් විශේෂ වැඩපිළිවෙළක්
+### இன்று அதிகளவான மழை வீழ்ச்சி
+
+*2024-12-08 08:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகளவான-மழை-வீழ்ச்சி/175-348404) · `ta`
+
+தென்மேற்கு வங்காள விரிகுடா கடற் பிராந்தியத்தில் குறைந்த காற்றழுத்த தாழ்வு மண்டலம் உருவாகியுள்ளதால், அடுத்த 24 மணி நேரத்தில் மேற்கு - வட மேற்கு திசையில் நகர்ந்து மேலும் வலுவடையும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இந்த காற்றழுத்த தாழ்வு மண்டலம் டிசம்பர் 11ஆம் திகதியளவில் இலங்கை - தமிழ்நாடு கடற்கரையில் தென்மேற்கு வங்கக்கடலை அடைய வாய்ப்புள்ளது.
+
+இந்த அமைப்பின் தாக்கம் காரணமாக, டிசம்பர் 10 ஆம் திகதி முதல் வடக்கு மற்றும் கிழக்கு மாகாணங்களில் மழை நிலைமைகள் அதிகரிக்கும் என எதிர்பார்க்கப்படுவதுடன், நாடு முழுவதும் வடகிழக்கு பருவமழை படிப்படியாக நிலைபெறும் என எதிர்பார்க்கப்படுகிறது.
+
+இந்நிலையில், மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை, நுவரெலியா மற்றும் கண்டி மாவட்டங்களிலும் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+அதேவேளை, மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகளவான மழைவீழ்ச்சி பதிவாகக்கூடுமெனவும் வளிமண்டலவில் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/8c215241.json)
+
+---
+
+### Public Health Inspectors from the festive season
 
 *2024-12-08 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204150) · `si`
 
-උත්සව සමය නිමිත්තෙන් මහජනතාව වැඩි වශයෙන් ගැවසෙන නගර ආශ්‍රිතව අලෙවි කරනු ලබන ආහාර පාන පරීක්ෂා කිරීමේ වැඩපිළිවෙළක් ආරම්භ කර ඇති බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-එම සංගමයේ සභාපති උපුල් රෝහණ මහතා සඳහන් කළේ ක්ෂේත්‍ර මහජන සෞඛ්‍ය පරීක්ෂකවරුන් 1750ක පමණ පිරිසක් මේ සඳහා අනියුක්ත කර ඇති බවය.
 
-උත්සව සමය ඉලක්ක කර ගනිමින් නිෂ්පාදනය කරනු ලබන ආහාර සඳහා යොදාගන්නා අමුද්‍රව්‍ය පිළිබදව ද මෙහිදී පරීක්ෂාවට ලක්කරන බව උපුල් රෝහණ මහතා සදහන් කළේය.
 
-දෙසැම්බර් මස පළමු වන දින සිට මේ දක්වා කාලය තුළ දිවයින පුරා වැටලීම් 150කට වැඩි සංඛ්‍යාවක් සිදුකර ඇති බවද මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ සභාපති උපුල් රෝහණ මහතා සදහන් කළේය.
+Public Health Inspectors Association launches festive season inspection program. 1750 field inspectors deployed. Raw materials for food products to be inspected. Over 150 raids conducted island-wide since December 1st.
+
+🟩
+
+The Public Health Inspectors Association (CHOGM) says that a program has been launched to inspect the public to mark the festive season.
+
+President of the Association Upul Rohana stated that about 1750 field inspectors have been abused.
+
+Upul Rohana stated that the raw materials used for foods produced by the festive season and will also be inspected.
+
+President of the Public Health Inspectors' Association Mr. Upul Rohana stated that more than 150 raids have been carried out island wide since the first day of December.
 
 ◼️
 
 [Data](articles/1a56ef62.json)
 
+[Extended Data](ext_articles/1a56ef62.ext.json)
+
 ---
 
-### සුළු හා මධ්‍ය පාරිමාණ වී මෝල් හිමියන්ගෙන් චෝදනාවක්
+### Mill Owners accused of Small and Central Pipe
 
 *2024-12-08 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204149) · `si`
 
-සහල්වල පැවැති මිලට වඩා රුපියල් 10කින් මිල ඉහළ දමා විකිණීමට එකඟතාවයකට පැමිණ ඇති බව සමස්ත ලංකා සුළු හා මධ්‍ය පාරිමාණ වී මෝල් හිමියන්ගේ සංගමය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-එහි සභාපති යූ.කේ සේමසිංහ මහතා සහල් සඳහා රජය විසින් මිල ගණන් ප්‍රකාශයට පත්කිරීම සම්බන්ධයෙන් ප්‍රකාශයක් සිදුකරමින් ඒ බව සඳහන් කළේය.
+
+
+Sri Lankan mill owners claim rice prices increased without government approval. They accuse authorities of failing to regulate sales. Consumers may face injustice due to uncontrolled price hikes.
+
+🟩
+
+The All Ceylon Small and Central Prime Minister Mill Owners' Association says that the prices of the price has been agreed to sell prices by Rs.
+
+The Chairman of the United States Mr. Semasinghe said that the government made a statement on the publication of prices for rice.
 
 ...
 
 [Data](articles/b5a61a32.json)
+
+[Extended Data](ext_articles/b5a61a32.ext.json)
 
 ---
 
@@ -154,25 +194,33 @@ The President said that the rice mill owners and president in a meeting between 
 
 ---
 
-### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+### Showers over 75mm
 
 *2024-12-08 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204146) · `si`
 
-ගිනිකොණදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ නිර්මාණය වූ අඩු පීඩන කලාපය ඉදිරි පැය 24 දී බටහිර-වයඹ දෙසට ගමන් කරමින් තව දුරටත් වර්ධනය වීමේ හැකියාවක් ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall warning: Low-pressure system developing in Bay of Bengal, may affect northern and eastern regions. Showers exceeding 75mm expected in western and southern areas. Thunderstorms possible, public advised to take precautions.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, එය දෙසැම්බර් 11 වනදා පමණ ශ්‍රී ලංකා-තමිල්නාඩු වෙරළට ඔබ්බෙන් නිරිත දිග බෙංගාල බොක්ක වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇති බවය.
+🟩
 
-මෙම පද්ධතියේ බලපෑම හේතුවෙන් දෙසැම්බර් 10 දින සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩි වීමක් අපේක්ෂා කරන අතර දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වෙතැයි බලාපොරොත්තුවේ.
+The low pressure zone of the southeastern Bay of Bay of Bay of Bengal area is capable of further development in the next 24 hours, the Met Department said.
 
-ඒ හේතුවෙන් අද (08) උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇති හැකියි.
+The department states that it is very likely to reach the southwest Bay of Bay of Bay of Bengal at around December 11.
 
-බස්නාහිර, සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
+Due to the impact of this system, the North and East will be expected to increase the increase in the North and East.
 
-බස්නාහිර, සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75 පමණ තරමක් තද වැසි ඇතිවේ.
+As a result, the following showers in the Northern and Eastern Provinces today (08).
+
+The Department of Meteorology will show that showers in the Western, and Sabaragamuwa provinces in the Western, Matara, Matara, Matara and Kandy districts.
+
+MM to some places in the Western, and Sabaragamuwa provinces and in the Galle and Matara districts. About 75 have a bit heavy showers.
+
+In the morning, Sabaragamuwa, Southern, Uva, Uva, Uva, Western and Northwestern provinces can be found.
 
 ...
 
 [Data](articles/6d6df7e7.json)
+
+[Extended Data](ext_articles/6d6df7e7.ext.json)
 
 ---
 
@@ -859,6 +907,22 @@ Impeaching Yoon required support from two-thirds of the National Assembly, or 20
 [Data](articles/7f3369a8.json)
 
 [Extended Data](ext_articles/7f3369a8.ext.json)
+
+---
+
+### ශ්‍රී ලංකා පළමු ඉනිම ලකුණු 328කට සීමා වෙයි
+
+*2024-12-07 17:39:22* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා-පළමු-ඉනිම-ලකුණු-328කට-සීමා-වෙයි/9-413507) · `si`
+
+දකුණු අප්‍රිකා කණ්ඩායමට එරෙහිව පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ සංචාරක ශ්‍රී ලංකා කණ්ඩායමේ පළමු ඉනිම ලකුණු 328කට සීමා කිරීමට දකුණු අප්‍රිකා පන්දු යවන්නන් සමත් විය.
+
+ඒ අනුව මේ වන විට දෙවන ඉනිම ක්‍රීඩා කරන දකුණු අප්‍රිකා කණ්ඩාවම දෙවන ඉනිමට මීට සුළු මොහොතකට පෙර පන්දුවාර 10ක් අවසානයේ කිසිවෙකු නොදැවී ලකුණු 38ක් රැස් කරගෙන සිටියේ.
+
+දකුණු අප්‍රිකා කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 358ක් රැස් කළ අතර ඒ අනුව මේ වන විට ඔවුන් ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 72ක් ඉදිරියෙන් පසුවන්නේය.
+
+◼️
+
+[Data](articles/ed2cc483.json)
 
 ---
 
@@ -2367,37 +2431,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/5749e0df.json)
 
 [Extended Data](ext_articles/5749e0df.ext.json)
-
----
-
-### Nestlé promotes regenerative agricultural practices in the coconut value chain via Nestlé Coconut Development Plan
-
-*2024-12-07 01:21:00* · [`islandlk`](http://island.lk/nestle-promotes-regenerative-agricultural-practices-in-the-coconut-value-chain-via-nestle-coconut-development-plan/) · `en`
-
-As part of the Nestlé Coconut Development Plan – the ‘Good Food Good Life’ company partnered with the Coconut Cultivation Board of Sri Lanka (CCB) to conduct a two-day training programme for coconut farmers. Conducted at CCB’s Coconut Development Training Center in Lunuwila, the programme was focused on educating coconut farmers on the implementation of regenerative agriculture practices in their farms, benefiting the farmers in improving coconut yield whilst conserving natural resources such as soil and water.
-
-...
-
-[Data](articles/c87e02a1.json)
-
-[Extended Data](ext_articles/c87e02a1.ext.json)
-
----
-
-### HNB partners with St. Joseph’s College Col. 10 Old Boys’ Union for exclusive affinity card
-
-*2024-12-07 01:20:00* · [`islandlk`](http://island.lk/hnb-partners-with-st-josephs-college-col-10-old-boys-union-for-exclusive-affinity-card/) · `en`
-
-Reaffirming their commitment to supporting the nation’s prestigious educational institutions, Sri Lanka’s leading private sector bank HNB PLC recently announced their partnership with the Old Boys’ Union of St. Joseph’s College (SJC) Colombo -10 and its Ja-ela, Wattala branch to launch an exclusive affinity credit card for its members.
-
-Custom-made for members of Old Boys’ Union of SJC, the customized Affinity card offers a wide range of exclusive benefits and promotional deals across the Bank’s broad portfolio of merchant partners.
-
-Rector of St. Joseph’s College Rev. Fr. Ranjith Andradi, Priyanga Perera -Senior VP OBU SJC, Prithieraj de Silva – Immediate Past Senior VP, OBU SJC, HNB Managing Director / CEO Damith Pallewatte, HNB Chief Operating Officer- Sanjay Wijemanne , were present at the signing of the MoU at HNB head office
-
-...
-
-[Data](articles/3ce5f68b.json)
-
-[Extended Data](ext_articles/3ce5f68b.ext.json)
 
 ---

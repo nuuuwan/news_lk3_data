@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 16:15:03**
+As of **2024-12-08 16:42:08**
 
 ## Newspaper Stats
 
-*Scraped **59,092** Articles*
+*Scraped **59,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,600
-adaderanalk | 7,177
+adalk | 5,601
+adaderanalk | 7,178
 tamilmirrorlk | 8,437
 virakesarilk | 9,689
 adaderanasinhalalk | 10,212
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,066 (100.0%) of 59,092 articles have been extended.
+59,072 (100.0%) of 59,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### Syrian government falls to fast-moving rebels, ending 50 years of iron rule by the Assad family
+
+*2024-12-08 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104080/calls-for-an-orderly-transition-as-it-remains-unclear-what-comes-next) · `en`
+
+The Syrian government collapsed early Sunday, falling to a lightning rebel offensive that seized control of the capital of Damascus and sent crowds into the streets to celebrate the end of the Assad family’s 50 years of iron rule.
+
+Syrian state television aired a video statement by a group of men saying that President Bashar Assad had been overthrown and all prisoners had been set free.
+
+The man who read the statement said the opposition group, known as the Operations Room to Conquer Damascus, called on all rebel fighters and citizens to preserve the institutions of “the free Syrian state.”
+
+The statement emerged hours after the head of a Syrian opposition war monitor said Assad had left the country for an undisclosed location, fleeing ahead of insurgents who said they had entered Damascus following a remarkably swift advance across the country.
+
+...
+
+[Data](articles/da213e5c.json)
+
+---
+
+### මහනුවර රෝහලේ සී.ටී. ස්කෑන් යන්ත්‍රයට ගෞරවනීය සමුදීමක්
+
+*2024-12-08 15:17:36* · [`adalk`](https://www.ada.lk/picture_story/මහනුවර-රෝහලේ-සී-ටී--ස්කෑන්-යන්ත්‍රයට-ගෞරවනීය-සමුදීමක්/10-413517) · `si`
+
+මහනුවර ජාතික රෝහලේ දහ අට වසරක් පුරා රෝගීන් ලක්ෂ සංඛ්‍යාවකට සහ වෛද්‍ය සිසුන් විශාල පිරිසකට සේවාව සැපයූ සී.ටී. ස්කෑන් යන්ත්‍රය එම රෝහලේ වෛද්‍යවරුන්, විකිරණ ශිල්පීන්, හෙදියන් ඇතුළු කාර්ය මණ්ඩලයේ ගෞරවාදරය මැද සේවයෙන් විශ්‍රාම ගැන්වීම සිදු කෙරුණි.
+
+රෝහලක සිදුවන ඉතාමත් විරල ගණයේ සමුදීමක් වූ එම අවස්ථාව මහනුවර ජාතික රෝහලේ අධ්‍යක්ෂිකා ඉරේෂා ප්‍රනාන්දු මහත්මියගේත් විකිරණ විශේෂඥ වෛද්‍ය ගංගානාත් රොද්‍රිගෝ මහතා ඇතුළු කාර්ය මණ්ඩලය විසින් එම යන්ත්‍රයට මල් කලඹ තබා ගෞරව දක්වමින් එම සමුදීම සිදු කිරීම විශේෂත්වයක් විය.
+
+...
+
+[Data](articles/a8415135.json)
+
+---
 
 ### Foreigners happiness with coconut enemies'
 
@@ -1044,61 +1076,97 @@ Ranil Wickremesinghe, who returned to the country after completing his visit to 
 
 ---
 
-### சாகோசியன்களும் வல்லரசுகளும்
+### Socosians and superpowers
 
 *2024-12-08 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200687) · `ta`
 
-சாகோஸ் தீவுகளில் ஒரு தீவான டியகோ கார்சியா அடுத்த 99 வருடங்களுக்கு பிரித்தானியா அமெரிக்க படைகளிடமே இருக்கும் என்பது தற்போது  நடை முறைக்கு வரவிருக்கும் ஒப்பந்தமாகும்.
+Here's a summary in 200 characters:
+
+
+
+"Upcoming pact: Britain joins US forces for 99 years on Sakos Islands. This long-term alliance will strengthen military cooperation between the two nations."
+
+🟩
+
+It is the upcoming contract that Britain will be in the US forces for the next 99 years, an island of Sakos Islands.
 
 ◼️
 
 [Data](articles/d263c853.json)
 
+[Extended Data](ext_articles/d263c853.ext.json)
+
 ---
 
-### ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවෙන් නිවේදනයක්
+### Announcement from the Department of Census and Statistics
 
 *2024-12-08 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204154) · `si`
 
-සංගණන කටයුතු සඳහා නිවාස වෙත පැමිණෙන  ගණන් ගැනීමේ නිලධාරීන්ට අවශ්‍ය තොරතුරු ලබාදීමට කිසිදු බියක් ඇති කරගත යුතු නැතැයි බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+Here's a summary of 200 characters:
 
-එම දෙපාර්තමේන්තුව අධ්‍යක්ෂ ජනරාල් අනෝජා සෙනෙවිරත්න මහත්මිය පවසා සිටියේ, සංගණන කටයුතු සඳහා පැමිණෙන නිලධාරීන්ට ඇතැම් නිවාසවලින් තොරතුරු ලබානොදීමේ තත්ත්වයක් වාර්තා වී ඇති බවය.
 
-කෙසේවෙතත් එම සංගණන කටයුතු දෙසැම්බර් මස 23 වන දිනෙන් අවසන් කිරීමට බලාපොරොත්තු වන බව අධ්‍යක්ෂ ජනරාල්වරිය සඳහන් කළාය.
 
-මෙම වර්ෂය සඳහා වන සංගණන කටයුතු සම්බන්ධයෙන් මාධ්‍ය වෙත අදහස් දක්වමින් ජනලේඛන හා සංඛ්‍ය ලේඛන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් අනෝජා සෙනෙවිරත්න මහත්මිය මෙම අදහස් පළ කළාය.
+Census officials visit homes without causing alarm. Director General Adubaru Seneviratne assures completion by Dec 23. Data collection begins Oct 7, 2023. Information used for national planning, not personal decisions. Contact 1901 if census team hasn't visited yet.
+
+🟩
+
+The counting officials to come to the houses for census should not be worried that there is no need to cause any lack of information.
+
+The Department said that the Director General of the Director Adubaru Seneviratne said that some of the houses have been reported from certain houses.
+
+However, the Director General stated that the census was expected to be completed by December 23.
+
+Speaking to the media regarding the census for this year, the Director General of the Department of Census and the Department of Census and the Director General of the Department of Census and the Department of Census.
 
 ...
 
 [Data](articles/6cb6de8f.json)
 
+[Extended Data](ext_articles/6cb6de8f.ext.json)
+
 ---
 
-### ஓரிரவு கொள்கை வீதத்தால் இலங்கையின் பொருளாதாரத்தில் ஏற்படும் தாக்கம்: பங்குதாரர்களுக்கான பாதிப்புகள்
+### The impact of the economy of Sri Lanka by a policy rate: The impacts on shareholders
 
 *2024-12-08 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/200699) · `ta`
 
-தெளிவான OPR உடன் வங்கிகள் குறுகிய கால கடனளிப்பு செலவுகளைச் சரியாக கணிக்க முடியும், பணவழங்கலைச் செயல்படுத்த உதவுகின்றது.
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's economic policy rate affects shareholders through clearer OPR, enabling banks to accurately forecast short-term loan costs and enhance anti-money laundering efforts.
+
+🟩
+
+With clear OPR, banks can properly predict short -term loan costs, helping to implement money laundering.
 
 ◼️
 
 [Data](articles/5890e5a0.json)
 
+[Extended Data](ext_articles/5890e5a0.ext.json)
+
 ---
 
-### நான்கு வலம்புரி சங்குகளை விற்க முயன்ற இருவர் கைது
+### Two persons arrested for attempting to sell four Valamburi Sangam
 
 *2024-12-08 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200696) · `ta`
 
-மாதம்பே மற்றும் வென்னப்புவ பொலிஸ் பிரிவுக்குட்பட்ட இரு வேறு பிரதேசங்களில் 4 வலம்புரி சங்குகளை விற்க முயன்ற சந்தேக நபர்கள் இருவர் நேற்று சனிக்கிழமை (07) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two men, aged 41 and 42, arrested for attempting to sell four Valamburi Sangam associations in Madampe and Wennappuwa police divisions.
 
-பொலிஸ் விசேட அதிரடிப்படையின் புத்தளம் முகாமின் அதிகாரிகள் குழு மேற்கொண்ட  இரு சுற்றிவளைப்பு நடவடிக்கைகளின்போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் மாதம்பே மற்றும் வென்னப்புவ பிரதேசங்களை சேர்ந்த 41 மற்றும் 42 வயதுடையவர்கள் ஆவர்.
+Two suspects have been arrested by the police on Saturday (07) for attempting to sell 4 Valamburi associations in two other areas under the Madampe and Wennappuwa police division.
+
+They have been arrested during two rounds of operations carried out by a team of officials of the Puttalam Camp of the Police Special Task Force.
+
+The arrested suspects were 41 and 42 years old from Madampe and Wennappuwa.
 
 ◼️
 
 [Data](articles/1e360809.json)
+
+[Extended Data](ext_articles/1e360809.ext.json)
 
 ---
 
@@ -1128,15 +1196,25 @@ The number of missing relationships in our eight districts today is 18,817. In a
 
 ---
 
-### நெருக்கடிகளை  ஏற்படுத்தியுள்ள திருத்தச்சட்டமும் தடைச்சட்டமும்
+### Amendment and Prohibition that has caused crises
 
 *2024-12-08 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200685) · `ta`
 
-பயங்கரவாத தடைச்சட்டத்தை தேசிய மக்கள் சக்தி பயன்படுத்தியதை ஒரு பாரதூரமான  விடயமாகக் கருதாமல், மாவீரர் தின நிகழ்வுகளுக்கு அனுமதியளித்த தேசிய மக்கள் சக்தியை சிங்கள தேசியவாதத்துக்கு எதிரான ஒரு அமைப்பு என சித்தரிக்கக்கூடிய ஒரு கருத்தை கடந்த 04 ஆம் திகதி பாராளுமன்றில் முன்வைத்தார் உறுப்பினர் தயாசிறி ஜெயசேகர. அதாவது மாவீரர் தினம் தொடர்பாக இடம்பெற்ற கைதுகளில் தெற்கில் பயங்கரவாதத் தடைச்சட்டத்தின் கீழ் இவை இடம்பெற்றதாகவும் ஆனால், வடக்கில் சாதாரண குற்றவியல் சட்டத்தின் கீழ் கைதுகள் இடம்பெற்றதாகவும் கூறிய ஜெயசேகர, தெற்குக்கு ஒரு நீதி வடக்குக்கு ஒரு நீதியா என கேள்வியெழுப்பினார். ஆனால், அப்படியானதொரு சம்பவம் இடம்பெறவில்லையென உறுதிப்படுத்தினார் தேசிய ஒருமைப்பாட்டு அமைச்சர் ஹர்சன. சபை முதல்வரான பிமல் ரத்னாயக்கவோ தயாசிறியின் இனவாதமிக்க கருத்தை கண்டித்ததோடு அவரை இனவாதி என்றும் விளித்தார்.
+Here's a summary in 200 characters:
+
+
+
+Sinhala nationalism controversy: Dayasiri Jayasekara proposes National People's Power against Sinhala nationalism, sparking debate over terrorism law and racial accusations.
+
+🟩
+
+Member Dayasiri Jayasekara presented a concept that would portray the national people's power as an organization against Sinhala nationalism on the 04th, not to consider the use of the National People's Power as a serious issue of the terrorism law.. Jayasekara, who said that these were held under the PTA in the South, but in the North, were arrested in the North.. But the Minister of National Integration Harshana confirmed that such an incident did not occur. Bimal Ratnayaka, the chief minister of the council, denounced Dayasiri's communal opinion and described him as a racist.
 
 ◼️
 
 [Data](articles/0e26d26d.json)
+
+[Extended Data](ext_articles/0e26d26d.ext.json)
 
 ---
 
@@ -1190,27 +1268,33 @@ However, the Ministry of Commerce, Commerce, Food Security and Co -operative Dev
 
 ---
 
-### සිරියානු කැරලිකරුවන් අගනුවරට ඇතුළු වෙයි - ජනපති රටින් පළායයි
+### Syrian insurgents enter the capital - President's posts
 
 *2024-12-08 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204153) · `si`
 
-ඒ දශකයකට අධික කාලයක් පුරා සිරියාවේ පැවති යුදමය වාතාවරණය තීව්‍ර කරමින් එරට ඩැමැස්කස් අගනුවරට උතුරින් පිහිටි ඇලැප්පෝ සහ හමා නගර යටත් කරගැනීමත් සමගයි.
+Syrian rebels capture capital, overthrowing Assad regime after decade-long conflict. Insurgents seize key cities, including Hama and Alappa. President flees as rebels control suburbs and Damascus prison. Hezbollah retreats, marking end of 54-year Assad rule.
 
-කැරලිකරුවන් ඊයේ (07) ඩැමැස්කස් අගනුවර ආසන්නයේ හොම්ස් නගරයේ ද සිය පාලනයට නතු කර ගැනීමට සමත් විය.
+🟩
 
-අගනුවරට තදාසන්න පෙදෙස් රැසක් කැරලිකරුවන්ගේ පාලනයට යටත් වී ඇති අතර  සිරියානු ජනාධිපති බෂර් අල් අසාද් පෞද්ගලික ගුවන්යානයකින් රටින් පළාගොස් ඇත්තේ ඒ අනුවය.
+With over a decade, the conquest of Alappa and Hama cities in the country, intensifying the war in Syria.
 
-වසර 54ක් පුරා සිරියාවේ පැවති කෘෘර අසාද් පාලනය මේ වනවිට බිඳ වැටී ඇති බව විශේෂඥයින් මත පළ කරයි.
+Insurgents also control the city of Hom's capital yesterday (07).
 
-එමෙන්ම අසාද් පාර්ශ්වකරුවන් ද අගනුවරින් පළායාමට උත්සාහ කරමින් සිටින බව සඳහන්ය.
+According to the ruling of the capital, many suburbs have been subjected to the rebels control, and is accordingly the Syrian President Basher Al Assad has fled from a private plane.
 
-සිරියාවේ වඩාත් කුප්‍රකට රැඳිවියන් රඳවා ඇති ඩැමැස්කස් බන්ධනාගාරයට කඩාවැදුණු කැරලිකරුවන් එහි සිටි රැඳවූවන් නිදහස් කිරීමටත් පියවර ගෙන තිබුණි.
+Experts say that the Syrian Crimes Assad Control has been crashed for 54 years.
 
-සිරියාවට සහාය දැක්වූ හිස්බුල්ලා සංවිධානයත් පසුබැස ගොස් ඇතැයි වාර්තා වෙයි.
+It is also said that the Assad stakeholders are trying to flee from the capital.
+
+Steps were also redeemed by the rebels who were toppled to the Damascus Prison, who was the most notorious detainee in Syria.
+
+Hezbollah, who was supporting Syria, was reportedly retreat.
 
 ◼️
 
 [Data](articles/f167e8d0.json)
+
+[Extended Data](ext_articles/f167e8d0.ext.json)
 
 ---
 
@@ -2273,51 +2357,5 @@ ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has declared contro
 [Data](articles/1e5f4cb0.json)
 
 [Extended Data](ext_articles/1e5f4cb0.ext.json)
-
----
-
-### Rameswaram fishermen protest seeking fishers’ release from Sri Lankan custody
-
-*2024-12-07 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104068/rameswaram-fishermen-protest-seeking-fishers-release-from-sri-lankan-custody) · `en`
-
-Hundreds of fishermen went on a strike in Rameshwaram on Saturday condemning the arrests of 14 Tamil Nadu fishermen by the Sri Lankan Navy and the seizure of their boats.
-
-More than 500 boats have been docked at the Rameshwaram harbour. According to a Maalaimalar report, Mechanised Boats Fishermen’s Association held a meeting on Friday where they decided to go on strike and decided not to engage in fishing activities on December 7.
-
-Recently, 14 Tamil Nadu fishermen were arrested by the Sri Lankan Navy and sent to Vavuniya Prison.
-
-The associations condemned the unfair activities of the Sri Lankan Navy and demanded the immediately release of the arrested fishermen.
-
-◼️
-
-[Data](articles/04fbe3c6.json)
-
-[Extended Data](ext_articles/04fbe3c6.ext.json)
-
----
-
-### Student's death in the boat collapsed - many magic
-
-*2024-12-07 22:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-மாணவன்-மரணம்-பலர்-மாயம்/175-348401) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Boat crash kills student; 5 others rescued. 19-year-old Pramod dies in Chellakadirgamam. Students were traveling when boat collapsed.
-
-🟩
-
-One person was killed when a boat crashed into 5 students in Akkaravisa Vavi in ​​Chellakadirgamam area today (07).
-
-The deceased has been identified as a 19 -year -old Pramod from Selk Kadirgamam.
-
-Five students who were studying this time this time were traveling on the boat, and the villagers rushed and rescued them after the boat collapsed.
-
-◼️
-
-[Data](articles/12f6c618.json)
-
-[Extended Data](ext_articles/12f6c618.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 18:51:27**
+As of **2024-12-08 19:04:10**
 
 ## Newspaper Stats
 
-*Scraped **59,120** Articles*
+*Scraped **59,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,141 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,604
 adaderanalk | 7,182
-tamilmirrorlk | 8,441
-virakesarilk | 9,698
+tamilmirrorlk | 8,443
+virakesarilk | 9,704
 adaderanasinhalalk | 10,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,093 (100.0%) of 59,120 articles have been extended.
+59,096 (99.9%) of 59,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### கண்டியில் ஹெரோயினுடன் இருவர் கைது
+
+*2024-12-08 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200749) · `ta`
+
+கண்டி பிரதேசத்தில் மேற்கொள்ளப்பட்ட இரு வேறு சுற்றிவளைப்புக்களின்போது ஹெரோயின் போதைப்பொருளுடன் இருவர் நேற்று சனிக்கிழமை (07) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கண்டி பொலிஸ் பிரிவுக்குட்பட்ட பேராதனை பிரதேசத்தில் ஹெரோயினுடன் ஒருவர் கைது செய்யப்பட்டார். அவர் கிரிபத்கும்புர பகுதியைச் சேர்ந்த 44 வயதுடையவர் ஆவார்.
+
+இதேவேளை, கண்டி பொலிஸ் பிரிவுக்குட்பட்ட சுதுஹும்பால பகுதியில் ஹெரோயினுடன் சந்தேக நபர் ஒருவர் நேற்று (07) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் விசேட அதிரடிப்படையின் கண்டி முகாம் அதிகாரிகள் குழுவினர் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தங்கொல்ல பகுதியைச் சேர்ந்த 46 வயதுடையவர் ஆவார்.
+
+◼️
+
+[Data](articles/3e74ea18.json)
+
+---
+
+### பழைய தொழில் செய்த 3 பெண்கள் கைது
+
+*2024-12-08 18:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-தொழில்-செய்த-3-பெண்கள்-கைது/175-348450) · `ta`
+
+களுத்துறை வடக்கு பகுதியில் மசாஜ் நிலையம் என்ற போர்வையில் நடத்தப்பட்ட விபச்சார சேவை நிலையத்தை சுற்றிவளைத்த மூன்று பெண்களும் அவர்களது முகாமையாளரும் கைது செய்யப்பட்டதாக களுத்துறை பிரிவு குற்றப் புலனாய்வுப் பிரிவினர் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட பெண்கள் புத்தல, புளத்சிங்கள மற்றும் அக்குரஸ்ஸ ஆகிய பகுதிகளைச் சேர்ந்தவர்கள் எனவும், முகாமையாளர் மொரட்டுவையைச் சேர்ந்த 23 வயதுடையவர் எனவும் பொலிஸார் தெரிவித்தனர்.
+
+களுத்துறை நீதவான் நீதிமன்றில் பெறப்பட்ட தேடுதல் உத்தரவுக்கு அமைய முகவர் ஒருவரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் 4,000 ரூபாய் பெறுமதியான சேவைகளை வழங்கியுள்ளதாகவும், அப்பகுதியைச் சேர்ந்த வர்த்தகர்கள், இளைஞர்கள் மற்றும் முதியோர்கள் சேவைகளை பெற்றுக்கொள்ள வந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/9a744650.json)
+
+---
+
+### நாடு கடத்தப்படுகிறார் ’ஆவா’ குழுத் தலைவர்
+
+*2024-12-08 18:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-கடத்தப்படுகிறார்-ஆவா-குழுத்-தலைவர்/175-348449) · `ta`
+
+ஆவா என்ற சட்டவிரோத மோட்டார் சைக்கிள் கும்பலின் தலைவன் என நம்பப்படும் பிரசன்னா நல்லலிங்கம் என்ற இலங்கையர் ஒருவர் கொலை மற்றும் கொலை முயற்சி குற்றச்சாட்டின் கீழ் பிரான்சுக்கு நாடு கடத்தப்படவுள்ளதாக கனேடிய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+நல்லலிங்கம் இலங்கை மற்றும் பிரான்ஸ் அதிகாரிகளிடம் இருந்து தப்பி ஓடிய நிலையில் இந்த வருட தொடக்கத்தில் கனடாவின் டொரன்டோவில் கைது செய்யப்பட்டார்.
+
+அஜந்தன் சுப்ரமணியம் என்ற பெயரைப் பயன்படுத்தும் நல்லலிங்கம், 2022 செப்டம்பர் இல் பரிஸின் புறநகர்ப் பகுதியான லா கோர்னியூவில் வன்முறைத் தாக்குதலில் ஈடுபட்டார் என்று பிரெஞ்சு அதிகாரிகள் தெரிவித்தனர்.
+
+இக்குழுவின் எதிரிக் குழுவான எல்.சி. பாய்ஸ் (LC Boys) என்ற குழுவைச் சேர்ந்த கும்பலை குறிவைத்து நடத்தப்பட்ட தாக்குதலில், அபிராமன் பாலகிருஷ்ணன் என்ற ஒருவர் உயிரிழந்ததுடன், மற்றொருவர் படுகாயமடைந்தார்.
+
+கத்திகள் மற்றும் ஆயுதம் ஏந்தியவர்கள் தாக்குதலில் ஈடுபட்டதுடன் நல்லலிங்கம் தான் இந்தத் தாக்குதலைத் திட்டமிட்டு வழிநடத்தியதாக நீதிமன்ற ஆவணங்கள் காட்டுகின்றன.
+
+...
+
+[Data](articles/58b01949.json)
+
+---
+
+### பூகொடையில் சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது
+
+*2024-12-08 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200744) · `ta`
+
+பூகொடை பொலிஸ் பிரிவுக்குட்பட்ட மண்டாவல பகுதியில் சட்டவிரோத மதுபானத்துடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (07) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் விசேட அதிரடிப்படையின் பூகொட முகாமின் அதிகாரிகள் குழுவொன்று மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c340fb54.json)
+
+---
+
+### அத்துருகிரியவில் ஹெரோயினுடன் ஒருவர் கைது
+
+*2024-12-08 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200742) · `ta`
+
+அத்துருகிரிய பொலிஸ் பிரிவுக்குட்பட்ட ஹபரகட சந்திக்கு அருகில் ஹெரோயின் வைத்திருந்த நபர் ஒருவரை நேற்று சனிக்கிழமை (07) பொலிஸார் கைது செய்துள்ளனர்.
+
+அத்துருகிரிய பொலிஸ் நிலைய அதிகாரிகள் குழுவுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடமிருந்து 05 கிராம் 400 மில்லிகிராம்  ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7cebbe5e.json)
+
+---
+
+### அநுர அரசாங்கத்தின் மீதும் நம்பிக்கை இல்லை - காணாமலாக்கப்பட்ட உறவினர்கள் சுவிட்சர்லாந்து இராஜாங்க துணைச் செயலாளரிடம் தெரிவிப்பு
+
+*2024-12-08 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/200741) · `ta`
+
+ஆனந்தபுரம், வட்டுவாகல், தேவிபுரம், ஓமந்தை ஆகிய நான்கு இடங்களில் எமது உறவுகள் சரணடைந்தபோது கடமையில் இருந்த படை அதிகாரிகளை ஜனாதிபதி அநுரகுமார தலைமையிலான அரசாங்கம் முதற்கட்டமாக விசாரணைக்கு உட்படுத்தி நம்பிக்கைய ஏற்படுத்த வேண்டும் என்று வலிந்து காணாமலாக்கப்பட்ட உறவினர்கள் சுவிட்சர்லாந்தின் இராஜாங்க துணைச் செயலாளர் டிம் எண்டர்லினிடத்தில் கோரிக்கை விடுத்துள்ளனர்.
+
+இலங்கைக்கு விஜயம் செய்துள்ள சுவிஸ்சர்லாந்தின் வெளிவிவகாரங்களுக்கான பெடரல் திணைக்களத்தின் சமாதானம், மற்றும் மனித உரிமைகள் பிரிவுக்கான இராஜாங்க துணைச் செயலாளர் டிம் எண்டர்லின் இரண்டு நாட்கள் வடக்கிற்கான விஜயத்தினை மேற்கொண்டிருந்தார்.
+
+இதன்போது நேற்று முன்தினம் மாலையில் வலிந்து காணாமலாக்கப்பட்டவர்களின் உறவினர்களை கிளிநொச்சியில் சந்தித்து உரையாடியிருந்தார்.
+
+இந்தச் சந்திப்பில் சுவிட்சர்லாந்தின் உதவி இராஜாங்க துணைச் செயலாளருடன் இலங்கைக்கான சுவிட்சர்லாந்தின் தூதுவர் கலாநிதி சிறிவொல்ட், மனிதப் பாதுகாப்புக்கான முதல் செயலாளர் ஜஸ்டின் போலியட், தேசிய நிகழ்ச்சித் திட்டத்துக்கான சிரேஷ்ட அதிகாரி சுசந்தி கோபால கிருஷ்ணன் ஆகியோர் பங்கேற்றனர்.
+
+...
+
+[Data](articles/1b6339b5.json)
+
+---
+
+### கட்டுநாயக்கவில் கோடாவுடன் ஒருவர் கைது !
+
+*2024-12-08 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/200738) · `ta`
+
+கட்டுநாயக்க பொலிஸ் பிரிவுக்குட்பட்ட மாது கங்கை ரம்ய தொடுபொல பிரதேசத்தில் சட்டவிரோதமாக மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் கோடாவை வைத்திருந்த சந்தேக நபர் ஒருவரை பொலிஸார் நேற்று சனிக்கிழமை (07) கைது செய்துள்ளனர்.
+
+கட்டுநாயக்க பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+இந்த கைது நடவடிக்கையின்போது மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் 3,591,000 மில்லி லீற்றர் அளவுடைய கோடாக்கள் (19 பீப்பாய்கள்) பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/131c4697.json)
+
+---
 
 ### Thambi in the image of brother:
 
@@ -53,6 +175,26 @@ Palani, who took advantage of this, fell in love with a woman named Pannirselvam
 [Data](articles/9bd270c3.json)
 
 [Extended Data](ext_articles/9bd270c3.ext.json)
+
+---
+
+### வவுனியாவில் பொலிஸார் திடீர் சோதனை : பலர் மீது வழக்குப் பதிவு
+
+*2024-12-08 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200731) · `ta`
+
+வவுனியா நகரம் மற்றும் நகரை அண்மித்த சில பகுதிகளில் பொலிஸார் திடீர் சோதனை நடவடிக்கையை முன்னெடுத்ததுடன், டெங்கு நுளம்பு பெருகும் வகையில் சூழலை அசுத்தமாக வைத்திருப்போருக்கு எதிராக வழக்குத் தாக்கலும் செய்யப்பட்டது.
+
+கடந்த சில நாட்களாக பெய்த மழையின் காரணமாக டெங்கு நோய் தாக்கம் வவுனியாவில் அதிகரித்து வருகிறது.
+
+இதனையடுத்து வவுனியா நகரம் மற்றும் நகரையண்டிய பகுதிகளில் உள்ள வீடுகள், வர்த்தக நிலையங்கள், கல்வி நிலையங்கள் என்பவற்றில் வவுனியா பொலிஸார் இன்று ஞாயிற்றுக்கிழமை (08) திடீர் சோதனை நடவடிக்கை மேற்கொண்டனர்.
+
+இதன்போது டயர்கள், சிரட்டைகள், வெற்றுப் போத்தல்கள் என்பவை பல இடங்களில் காணப்பட்டதுடன், அந்த பொருட்களுக்குள் நீர் தேங்கி நுளம்பு குடம்பிகளும் இனங்காணப்பட்டன.
+
+நுளம்பு குடம்பிகள் உருவாகுமளவு சூழலை அசுத்தமாக வைத்திருந்த வீட்டு உரிமையாளர்கள், வர்த்தக நிலைய உரிமையாளர்கள் ஆகியோருக்கு எதிராக பொலிஸார் வழக்கு பதிவு செய்தனர்.
+
+...
+
+[Data](articles/155047de.json)
 
 ---
 
@@ -110,45 +252,67 @@ There are many speculations on social networks, including the plane's route may 
 
 ---
 
-### மீனவர்கள், கடற்படையினருக்கு எச்சரிக்கை
+### Fishermen, alert to Marines
 
 *2024-12-08 17:58:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்கள்-கடற்படையினருக்கு-எச்சரிக்கை/175-348446) · `ta`
 
-தென்கிழக்கு வங்காள விரிகுடாவின் ஆழ்கடல் பகுதியில் பல நாள் மீன்பிடி மற்றும் கடல் கப்பல்கள் செல்லும்போது அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+Here's a summary in 200 characters:
 
-தென்கிழக்கு வங்காள விரிகுடா கடல் பகுதியில் நிலைகொண்டுள்ள குறைந்த காற்றழுத்த தாழ்வு பகுதி அடுத்த 24 மணி நேரத்தில் மேற்கு-வடமேற்கு திசையில் நகர்ந்து இலங்கை- தமிழக கடற்கரை. அப்பால் தென்மேற்கு வங்காள விரிகுடா கடல் பகுதியை எதிர்வரும் 11ம் திகதி அடைய வாய்ப்பு உள்ளதாக அந்த அறிவிப்பில் கூறப்பட்டுள்ளது.
 
-அந்த கடற்பரப்புகளில் தற்காலிகமாக மணிக்கு 60 கிலோமீற்றருக்கும் அதிகமான வேகத்தில் காற்றுடன் கூடிய பலத்த மழை பெய்யக் கூடும் எனவும் அந்த கடற்பரப்புகள் மிகவும் கொந்தளிப்பாகக் காணப்படும் எனவும் வளிமண்டலவியல் திணைக்களம் எச்சரித்துள்ளது.
+
+"Fishermen alerted: Heavy rain & strong winds (60+ km/h) expected in southeastern Bengal Bay within 24 hours. Seas will be extremely turbulent."
+
+🟩
+
+The Department of Meteorology has warned that fishing and sea ships are being carried out in the deep sea of ​​the southeastern Bengal bay.
+
+The low-lying low-lying area in the southeastern Bengal bay west moves in the western-northwest direction in the next 24 hours. The announcement is said to reach the southwestern Bengal Bay Sea on the 11th of this month.
+
+The Department of Meteorology has warned that there will be heavy rainfall with more than 60 kilometers per hour in the seas and that the seas will be very turbulent.
 
 ◼️
 
 [Data](articles/1799cb32.json)
 
+[Extended Data](ext_articles/1799cb32.ext.json)
+
 ---
 
-### ආසියානු යොවුන් ක්‍රිකට් කිරුළ බංග්ලාදේශයට
+### Asian Youth cricket to Bangladesh
 
 *2024-12-08 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204164) · `si`
 
-ඉන්දීය කණ්ඩායම ලකුණු 59කින් පරාජය කර ආසියානු වයස 19න් පහළ ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට බංග්ලාදේශය සමත් විය.
+India defeats Bangladesh in U-19 cricket final. Bangladesh scores 198, India limits to 139. India wins Asian Youth Cricket title.
 
-එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත් වූ මෙම තරගාවලියේ අවසන් මහා තරගය අද (8) ඩුබායිහිදී පැවැත්විණි.
+🟩
 
-පළමුව පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායමට සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 198ක් පමණි.
+India defeated India by 59 runs and Bangladesh was able to win the Under-19 cricket tournament.
 
-කෙසේ නමුත් පිළිතුරු ඉනිම ක්‍රීඩාකළ ඉන්දියාව පන්දුවාර 32.2කදී ලකුණු 139කට සීමා කිරීමට බංග්ලාදේශ පන්දු යවන්නෝ සමත් වූහ.
+The final was held today (8) this month at Dubai.
 
-මෙම ජයත් සමග අඛණ්ඩව දෙවැනි වරටත් ආසියානු යොවුන් ශූරයන් ලෙසින් කිරුළු පැළඳීමට බංග්ලාදේශයට අවස්ථාව උදාවිය.
+Bangladesh scored only 198 runs for the banding Bangladesh to bat first.
 
-අවසන් වරට මෙම තරගාවලිය 2023 වසරේ දී පැවැත් වූ අතර, එවර ඔවුන් එක්සත් අරාබි එමීර් රාජ්‍ය පරාජය කර ශූරතාව දිනාගැනීමට සමත් විය.
+However, in reply, India were able to limit 139 runs in 32.2 overs.
 
-කෙසේ නමුත් ආසියානු යොවුන් කුසලාන ක්‍රිකට් තරගාවලි ඉතිහාසයේ ප්‍රබලම කණ්ඩායම ඉන්දියාව වන අතර, ඔවුන් මෙම තරගාවලිය ආරම්භ වූ 1989 වසරේ සිට අවස්ථා 7කදීම ශූරයන් වී තිබේ.
+Bangladesh had the opportunity to crowdly crowned the consecutive year with the consecutive year.
 
-බංග්ලාදේශයට අමතරව ඇෆ්ගනිස්තානය 2017 වසරේදී ආසියානු ශූරයන් ලෙස කිරුළු පැළඳීම හැරෙන්න වෙනත් කිසිදු රටකට මේ දක්වා එම අවස්ථාව උදා වී නොමැත.
+The last time was held in 2023, while they defeated the United Arab Emirates and won the championship.
 
-...
+However, India is the most powerful team in the history of Asian Youth Cricket Tournament.
+
+In addition to Bangladesh, Afghanistan has no other country to be crowned as Asian Champions in 2017.
+
+Sri Lanka played the final of the finals of 1989, 2003, 2018, 2018, 2018, 2018 and 2021.
+
+Bangladesh and Sri Lanka played Bangladesh and Sri Lanka in Bangladesh.
+
+However, Sri Lanka was defeated in India in the semi-finals, and Bangladesh defeated Pakistan and qualified for the finals.
+
+◼️
 
 [Data](articles/1f50019c.json)
+
+[Extended Data](ext_articles/1f50019c.ext.json)
 
 ---
 
@@ -167,6 +331,8 @@ It is reported that the suspects have been handed over to the Karuwalagaswewa Wi
 ◼️
 
 [Data](articles/b48bfcc5.json)
+
+[Extended Data](ext_articles/b48bfcc5.ext.json)
 
 ---
 
@@ -2167,231 +2333,5 @@ The professorra said that Thalassemi was 23.9% of the 100 students from the Anur
 ...
 
 [Data](articles/207692d7.json)
-
----
-
-### The mother of his wife and his wife rob the golden items kneel
-
-*2024-12-08 09:14:26* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-හා-බිරිඳගේ-මව-දණගස්සවා-රන්-භාණ්ඩ-කොල්ලකාලා/11-413510) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mother-in-law and wife robbed gold jewelry. Police investigation led to arrest of main suspect at Moratuwa bus stand. Other suspects questioned, linked to multiple crimes including murders. Case to be presented at Moratuwa Magistrate's Court under OIC Inspector Dinesh Chandrasiri's guidance.
-
-🟩
-
-The mother of his wife and his wife were robbed the mother of his wife and his wife where it was not done and did not work in the murder of a drug dealer.. S. P. Four people, including the criminal called the nickname called the nickname, police said,
-
-Police seized a stock of clothing used for robbed with suspects
-
-Police investigations revealed that at around 2.30 am knocked on the front door and knocked on the front door.Has
-
-The racketeer has not fled the kid of the criminals and his wife's mother, kneel and other property, as well as other property, and Rs. 23000 / =.
-
-According to the police, the main suspect was arrested in the Moratuwa bus stand while investigating the robbery.
-
-Police said that the other suspects were also arrested in questioning.
-
-The suspect, the main suspect, who was arrested, and other suspects were involved in many crimes, including human killings.
-
-...
-
-[Data](articles/1e0a2677.json)
-
-[Extended Data](ext_articles/1e0a2677.ext.json)
-
----
-
-### US support to bring money from country
-
-*2024-12-08 09:08:32* · [`adalk`](https://www.ada.lk/breaking_news/රටින්-පිටට-පැන්නූ-මුදල්--ගේන්න-ඇමෙරිකාවේ-සහාය/11-413509) · `si`
-
-US offers financial aid to boost Sri Lanka's economy and security. President Anura Kumara Dissanayake discusses anti-corruption efforts and improving public services.
-
-🟩
-
-US Assistant Secretary of State for the US Assistant Secretary of State Donald LU (Donald Lu)Says.
-
-The US government is ready to provide financial and technical assistance to build Sri Lanka's safety and economy.
-
-President Anura Kumara Dissanayake and US Assistant Secretary of State for South and Central Asian Affairs Donald Lu yesterday held revealed at the Presidential Secretariat yesterday (07).
-
-Identifying the priorities of political, economic and social issues, evaluated the new government program.
-
-President Anura Kumara Dissanayake said that the political culture was directly affected by the political culture of corruption and wasting Sri Lankan corruption and wasting.
-
-The President said programs have been launched to increase the quality of life of the rural economy and is planning to establish a quality public service by introducing the modern technology service public service.
-
-◼️
-
-[Data](articles/fb03e4d9.json)
-
-[Extended Data](ext_articles/fb03e4d9.ext.json)
-
----
-
-### Political Drama in South Korea
-
-*2024-12-08 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200678) · `ta`
-
-Here's a summary of the political drama in South Korea in 200 characters:
-
-
-
-South Korean president faces impeachment trial after issuing emergency decree during economic crisis. Critics claim motive was to maintain power, similar to Indira Gandhi's 1975 Indian Emergency.
-
-🟩
-
-Indira Gandhi did this in India when it was unable to cope with the legal challenges from 1975 to 1977.. He issued an emergency law as a threat to national security. The secret that everyone knows is that his purpose was to retain power.
-
-◼️
-
-[Data](articles/4f4d65dd.json)
-
-[Extended Data](ext_articles/4f4d65dd.ext.json)
-
----
-
-### Blotts in Syria again
-
-*2024-12-08 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200677) · `ta`
-
-Syria attacks after Israel-Lebanon ceasefire raise questions about Biden administration's motives, potentially expanding conflict similar to Ukraine war.
-
-🟩
-
-The launch of attacks in Syria in the wake of the ceasefire between Israel and Hezbollah in Lebanon, the question arises as to whether it is a planned initiative.. With the new president in the United States to take office, the question of whether the current President Joe Bidan is trying to take action in Syria as if he was trying to expand the Ukraine war.
-
-◼️
-
-[Data](articles/b302647f.json)
-
-[Extended Data](ext_articles/b302647f.ext.json)
-
----
-
-### Showery conditions expected to enhance over several provinces
-
-*2024-12-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104069/showery-conditions-expected-to-enhance-over-several-provinces) · `en`
-
-The Department of Meteorology says the low-pressure area, formed over southeast Bay of Bengal, is likely to intensify further and move west-northwestwards during the next 24 hours.
-
-It is likely to reach over southwest Bay of Bengal off Sri Lanka – Tamil Nadu coasts around December 11.
-
-Under its influence, showery conditions are expected to enhance in the Northern and Eastern provinces from December 10.
-
-The Northeast monsoon condition also expected to establish gradually over the island along with above condition.
-
-Meanwhile, several spells of showers will occur in Northern and Eastern provinces, the Met. Department said.
-
-Showers or thundershowers may occur at several places in Western, and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts during the evening or night.
-
-Fairly heavy showers about 75mm are likely at some places in Western, and Sabaragamuwa provinces and in Galle, and Matara districts, it added.
-
-...
-
-[Data](articles/9a672169.json)
-
-[Extended Data](ext_articles/9a672169.ext.json)
-
----
-
-### Salt production down 40 percent?
-
-*2024-12-08 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204151) · `si`
-
-Sri Lanka's salt production drops 40% due to weather. Ministry investigates, considers imports. No decision made yet on salt imports.
-
-🟩
-
-The Ministry of Trade, Commerce, Food Safety and Co-operative Development (Ministry of Trade) will investigate the reduction in salt production in Sri Lanka.
-
-A spokesman said that the production of salt production had led to reducing salt production in Sri Lanka last year and this year.
-
-The Trade Ministry said that steps will be taken immediately after considering it and remedy it.
-
-Due to the inclement weather, the salt production in Sri Lanka has fallen by about 40 percent this year.
-
-Accordingly, the reduction in the product of the country has already requested the Ministry of Salt.
-
-Steps have been taken to educate the Ministry of Trade, Commerce, Food Safety and Co-operative Development on the request.
-
-After studying the amount of salt reserves in the country, a final decision is due to be taken to make a final decision on importing.
-
-However, the Ministry of Trade, Commerce, Food Safety and Co-operative Development stated that no decision has been taken to import salt yet.
-
-◼️
-
-[Data](articles/0902f658.json)
-
-[Extended Data](ext_articles/0902f658.ext.json)
-
----
-
-### Do not hand over the rice rights of the people - President tells rice businesses
-
-*2024-12-08 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාවගේ-සහල්-අයිතියට-අත-තියන්න-එපා---ජනපති-සහල්-ව්‍යාපාරිකයන්ට-තදින්ම-කියයි/11-413508) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential directive: Rice prices capped; consumer protection enforced; subsidies for farmers; low-interest loans for businessmen.
-
-🟩
-
-- White Kalks for Rs. 215
-
-- Wholesale prices of a kilogram of Samba are Rs.335 and the retail price is Rs. 240
-
-- Rs. 255 per kilo of Kiri Samba and retail Rs. 260
-
-Consumer Authority instructs to calculate the amount of rice out of rice mills daily
-
-President Anura Kumara Dissanayake instructed the rice for the retail price of Rs.225 and Rs.
-
-The President informed the Consumer Affairs Authority to enforce the law to the Consumer Protection of Rice Mill Thero, along with the next ten days.
-
-President Anura Kumara Dissanayake made this statement at the Presidential Secretariat yesterday (07).
-
-The President has given the highest investment to the Highways Ministry and that the farmers have been given the most subsidies.
-
-The President recalled that the bank loans have been granted bank loans on low interest facilities to the businessmen, so he said.
-
-The bulk price of a kilo of nadu rice is Rs. 225. The retail price is Rs. 230.
-
-...
-
-[Data](articles/8873f6e1.json)
-
-[Extended Data](ext_articles/8873f6e1.ext.json)
-
----
-
-### Today is the highest rainfall falling
-
-*2024-12-08 08:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகளவான-மழை-வீழ்ச்சி/175-348404) · `ta`
-
-Heavy rainfall warning issued for southern Sri Lanka. Low-pressure system moving west-northwest, may reach southwest Bengal Sea by Dec 11. Increased rain expected in northern and eastern provinces from Dec 10. Thunderstorms forecast for Galle, Matara, Nuwara Eliya, Kandy. Up to 75mm rainfall possible in western and Sabaragamuwa provinces and Galle, Matara districts.
-
-🟩
-
-The Department of Meteorology has said that the low -lying low -lying zone in the southwestern Bengal bay region will be moved in the west -north -west over the next 24 hours.
-
-This windmill is likely to reach the southwest Bengal Sea on the Sri Lanka -Tamil Nadu coast by December 11.
-
-Due to the impact of the organization, rain conditions are expected to increase in the Northern and Eastern Provinces from December 10, and the northeast monsoon is expected to continue throughout the country.
-
-Rainfall or thunderstorms are expected in the evening or night in Galle, Matara, Nuwara Eliya and Kandy districts.
-
-Meanwhile, the Department of Atmospheric Department said that more than 75 millimeters of rainfall could be reported in some areas in the Western and Sabaragamuwa Provinces and Galle and Matara districts.. (A)
-
-◼️
-
-[Data](articles/8c215241.json)
-
-[Extended Data](ext_articles/8c215241.ext.json)
 
 ---

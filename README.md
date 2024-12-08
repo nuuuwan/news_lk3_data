@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 17:43:52**
+As of **2024-12-08 18:23:25**
 
 ## Newspaper Stats
 
-*Scraped **59,110** Articles*
+*Scraped **59,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,133 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,602
-adaderanalk | 7,181
-tamilmirrorlk | 8,438
-virakesarilk | 9,695
-adaderanasinhalalk | 10,216
+adalk | 5,603
+adaderanalk | 7,182
+tamilmirrorlk | 8,440
+virakesarilk | 9,698
+adaderanasinhalalk | 10,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,086 (100.0%) of 59,110 articles have been extended.
+59,090 (100.0%) of 59,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### சதொச விற்பனை நிலையங்கள் ஊடாக நாளாந்தம் 2 இலட்சம் தேங்காய்கள் விநியோகம் - வர்த்தகம், உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சு
+
+*2024-12-08 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200754) · `ta`
+
+லங்கா சதொச விற்பனை நிலையங்கள் ஊடாக விற்பனை செய்யப்படும் தேங்காய்களின் எண்ணிக்கை இன்று முதல் (திங்கட்கிழமை)  200,000 ஆக அதிகரிக்கப்படும் என வர்த்தக, வர்த்தக, உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சு தெரிவித்துள்ளது.
+
+அரசுக்கு சொந்தமான தோட்டங்களில் இருந்து பெறப்படும் தேங்காய்கள், சன நெரிசல் அதிகமாக உள்ள குறிப்பாக கொழும்பு உட்பட நகர்ப்புறங்களை இலக்கு வைத்து சதொச விற்பனை நிலையங்களில் தலா 130 ரூபாவுக்கு விற்பனை செய்யப்படும்.
+
+தேங்காய்  தட்டுப்பாட்டுக்கு தீர்வு காணும் வகையில்  லங்கா சதொச  விற்பனை  நிலையங்கள் ஊடாக நாளாந்தம் சுமார் 100000 தேங்காய்களை விற்பனை  செய்யப்பட்டது.
+
+சந்தையில் நிலவும் அரிசி மற்றும் தேங்காய் தட்டுப்பாட்டுக்கு வெகு விரைவில் தீர்வு காணப்படும் என வர்த்தகம், வாணிபம் , உணவு பாதுகாப்பு மற்றும் கூட்டுறவு  அபிவிருத்தி அமைச்சர்  வசந்த சமரசிங்க தெரிவித்தார்.
+
+அத்தியாவசிய உணவுப் பொருட்களை பதுக்கும் வர்த்தகர்களுக்கு எதிராக கடும் நடவடிக்கை எடுக்கப்படும் என அரசாங்கம் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/500b9f1f.json)
+
+---
+
+### சிரியா ஜனாதிபதி சென்ற விமானம் மாயமானதா?
+
+*2024-12-08 18:06:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிரியா-ஜனாதிபதி-சென்ற-விமானம்-மாயமானதா/50-348447) · `ta`
+
+சிரியா ஜனாதிபதி பஷார் அல் ஆசாத் சென்றதாக கூறப்படும் விமானம் டாமஸ்கஸ் விட்டுச் செல்லும் போது விபத்துக்குள்ளாகி இருக்கலாம் அல்லது சுட்டு வீழ்த்தப்பட்டிருக்கலாம் என்று பரவி வரும் செய்திகளுக்கு மத்தியில், ஜனாதிபதி காணாமல் போயிருப்பது குறித்து பல ஊகங்கள் பரவி வருகின்றன.
+
+டாமஸ்கஸில் இருந்து கடைசியாக புறப்பட்ட சிரிய விமான எண் 9218-ல் தான் சிரிய ஜனாதிபதி ஆசாத் சென்றதாக நம்பப்படுகிறது என ஒரு ஓபன் ஃபைளட் டிராக்கர்கள் தெரிவித்த நிலையில் ஆசாத் குறித்த ஊகங்கள் சமூக வலைதளங்களில் வேகமாக பரவ ஆரம்பித்தன. சிரிய தலைநகரின் விமானநிலையத்தை கிளர்ச்சி படைகள் கைப்பற்றுவதற்கு முன்பாக அந்த விமானம் தான் புறப்பட்டுச் சென்றுள்ளது.
+
+விமானங்களின் தரவுகளின்படி, வடக்கு நோக்கி திரும்புவதற்கு முன்பாக அந்த விமானம் தொடக்கத்தில் கிழக்கு நோக்கிப் பறந்தது. சிறிது நேரத்தில் ஹோம்ஸ்க்கு மேலே வட்டமிடும் போது அந்த விமானத்தின் சமிக்ஞைகள் காணாமல் போயின என்று தெரிவிக்கப்பட்டது. இதனைத் தொடர்ந்து ஆசாத்தின் விமானம் காணாமல் போனது குறித்த ஊகங்கள் சமூக வலைதளங்களில் வலம்வரத்தொடங்கியுள்ளன.
+
+...
+
+[Data](articles/434f476d.json)
+
+---
+
+### மீனவர்கள், கடற்படையினருக்கு எச்சரிக்கை
+
+*2024-12-08 17:58:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்கள்-கடற்படையினருக்கு-எச்சரிக்கை/175-348446) · `ta`
+
+தென்கிழக்கு வங்காள விரிகுடாவின் ஆழ்கடல் பகுதியில் பல நாள் மீன்பிடி மற்றும் கடல் கப்பல்கள் செல்லும்போது அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+தென்கிழக்கு வங்காள விரிகுடா கடல் பகுதியில் நிலைகொண்டுள்ள குறைந்த காற்றழுத்த தாழ்வு பகுதி அடுத்த 24 மணி நேரத்தில் மேற்கு-வடமேற்கு திசையில் நகர்ந்து இலங்கை- தமிழக கடற்கரை. அப்பால் தென்மேற்கு வங்காள விரிகுடா கடல் பகுதியை எதிர்வரும் 11ம் திகதி அடைய வாய்ப்பு உள்ளதாக அந்த அறிவிப்பில் கூறப்பட்டுள்ளது.
+
+அந்த கடற்பரப்புகளில் தற்காலிகமாக மணிக்கு 60 கிலோமீற்றருக்கும் அதிகமான வேகத்தில் காற்றுடன் கூடிய பலத்த மழை பெய்யக் கூடும் எனவும் அந்த கடற்பரப்புகள் மிகவும் கொந்தளிப்பாகக் காணப்படும் எனவும் வளிமண்டலவியல் திணைக்களம் எச்சரித்துள்ளது.
+
+◼️
+
+[Data](articles/1799cb32.json)
+
+---
+
+### ආසියානු යොවුන් ක්‍රිකට් කිරුළ බංග්ලාදේශයට
+
+*2024-12-08 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204164) · `si`
+
+ඉන්දීය කණ්ඩායම ලකුණු 59කින් පරාජය කර ආසියානු වයස 19න් පහළ ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට බංග්ලාදේශය සමත් විය.
+
+එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත් වූ මෙම තරගාවලියේ අවසන් මහා තරගය අද (8) ඩුබායිහිදී පැවැත්විණි.
+
+පළමුව පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායමට සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 198ක් පමණි.
+
+කෙසේ නමුත් පිළිතුරු ඉනිම ක්‍රීඩාකළ ඉන්දියාව පන්දුවාර 32.2කදී ලකුණු 139කට සීමා කිරීමට බංග්ලාදේශ පන්දු යවන්නෝ සමත් වූහ.
+
+මෙම ජයත් සමග අඛණ්ඩව දෙවැනි වරටත් ආසියානු යොවුන් ශූරයන් ලෙසින් කිරුළු පැළඳීමට බංග්ලාදේශයට අවස්ථාව උදාවිය.
+
+අවසන් වරට මෙම තරගාවලිය 2023 වසරේ දී පැවැත් වූ අතර, එවර ඔවුන් එක්සත් අරාබි එමීර් රාජ්‍ය පරාජය කර ශූරතාව දිනාගැනීමට සමත් විය.
+
+කෙසේ නමුත් ආසියානු යොවුන් කුසලාන ක්‍රිකට් තරගාවලි ඉතිහාසයේ ප්‍රබලම කණ්ඩායම ඉන්දියාව වන අතර, ඔවුන් මෙම තරගාවලිය ආරම්භ වූ 1989 වසරේ සිට අවස්ථා 7කදීම ශූරයන් වී තිබේ.
+
+බංග්ලාදේශයට අමතරව ඇෆ්ගනිස්තානය 2017 වසරේදී ආසියානු ශූරයන් ලෙස කිරුළු පැළඳීම හැරෙන්න වෙනත් කිසිදු රටකට මේ දක්වා එම අවස්ථාව උදා වී නොමැත.
+
+...
+
+[Data](articles/1f50019c.json)
+
+---
+
+### Four arrested over attempt to sell rare conch shells
+
+*2024-12-08 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104083/four-arrested-over-attempt-to-sell-rare-conch-shells) · `en`
+
+Two individuals who were in the possession of 04 rare conch shells (Valampuri) intended for sale have been arrested in the Madampe and Wennappuwa areas.
+
+The arrest has been made during a raid conducted by the officers of the Police Special Task Force (STF) Puttalam camp, the police said.
+
+The suspects, aged 41 and 42, are residents of the Madampe and Wennappuwa areas, according to police.
+
+It is reported that the suspects have been handed over to the Karuwalagaswewa Wildlife Office for further investigations.
+
+◼️
+
+[Data](articles/b48bfcc5.json)
+
+---
+
+### புத்தளத்தில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது
+
+*2024-12-08 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/200746) · `ta`
+
+புத்தளம் பொலிஸ் பிரிவுக்குட்பட்ட பலவியா பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் ஒருவர் நேற்று சனிக்கிழமை (07) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் விசேட அதிரடிப்படையின் புத்தளம் முகாமின் அதிகாரிகள் குழுவொன்று மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடமிருந்து 05 கிராம் 500 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d7106d1f.json)
+
+---
 
 ### Try to escape by biting the stomach of the police
 
@@ -55,6 +167,20 @@ The 38 -year -old man who lives in Kadawatha, Kanemulla area has been arrested, 
 [Data](articles/52a3c388.json)
 
 [Extended Data](ext_articles/52a3c388.ext.json)
+
+---
+
+### யாழில் கைப்பற்றப்பட்ட 44 கேரள கஞ்சாப் பொதிகள்!
+
+*2024-12-08 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200707) · `ta`
+
+யாழ்ப்பாணம் கடற்பரப்பில் வைத்து 126 கிலோகிராமுக்கும் அதிக நிறையுடைய கேரள கஞ்சா கடற்படையினரால் கைப்பற்றப்பட்டுள்ளது.
+
+இந்த கேரள கஞ்சா போதைப்பொருள் 44 பொதிகளில் வைக்கப்பட்டிருந்ததாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/9d4c9551.json)
 
 ---
 
@@ -177,6 +303,20 @@ Meanwhile, 92 Air Force helicopter laundering Air Force helicopter launches came
 [Data](articles/7dd4ad55.json)
 
 [Extended Data](ext_articles/7dd4ad55.ext.json)
+
+---
+
+### කෘෂිකර්ම අමාත්‍යාංශයේ මහජන දිනය සෑම මසකම පළමු සඳුදා
+
+*2024-12-08 16:18:18* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-අමාත්‍යාංශයේ-මහජන-දිනය-සෑම-මසකම-පළමු-සඳුදා/11-413519) · `si`
+
+කෘෂිකර්ම, පශු සම්පත්‍, ඉඩම් හා වාරිමාර්ග අමාත්‍යාංශයේ මහජන දිනය සෑම මසකම පළමුවැනි සඳුදා දින පැවැත්වෙන බව එම අමාත්‍යාංශය සඳහන් කරයි.
+
+මෙම මහජන උදෑසන 9.00 සිට පස්වරු 4.00 දක්වා පැවැත්වීමට නියමිතය. මහජන දිනය වෙනුවෙන් අමාත්‍ය කේ.ඩී. ලාල්කාන්ත, නියෝජ්‍ය අමාත්‍යවරුන් වන නාමල් කරුණාරත්න, වෛද්‍ය සුසිල් රණසිංහ අමාත්‍යාංශ ලේකම් හා අමාත්‍යාංශය සතු සියලුම ආයතනවල ප්‍රධානීන්ගේ සහභාගිත්වයෙන් පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/2856e9ef.json)
 
 ---
 
@@ -356,35 +496,57 @@ The Department of Meteorology has informed the Fisheries and Marine community to
 
 ---
 
-### ஜா - எல பகுதியில் ஹெரோயினுடன் ஒருவர் கைது
+### Ja - Arrested with heroin in Ella area
 
 *2024-12-08 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200734) · `ta`
 
-ஜா-எல பொலிஸ் பிரிவுக்குட்பட்ட குஷ்வத்த பகுதியில் ஹெரோயின் போதைப்பொருள் வைத்திருந்த சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (07) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-ஜா- எல பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் பேரில், மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+
+Arrest made in Kushwatta, Ja-Ela area. Suspect caught with heroin during police raid based on tip-off. Incident occurred on Saturday, 07.
+
+🟩
+
+A suspect in the Kushwatta area belonging to the Ja-Ela Police Division has been arrested by police on Saturday (07).
+
+He was arrested during a raid carried out on confidential information received by Ja-Ela police officers.
 
 ◼️
 
 [Data](articles/4f2b9cf5.json)
 
+[Extended Data](ext_articles/4f2b9cf5.ext.json)
+
 ---
 
-### හිඟයකින් තොරව බිත්තර වෙළඳපොළට
+### Egg in the egg market without deficit
 
 *2024-12-08 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/හිඟයකින්-තොරව-බිත්තර-වෙළඳපොළට/11-413518) · `si`
 
-හිඟයකින් තොරව බිත්තර වෙළෙඳ පොළට නිකුත් කිරීමට බිත්තර නිෂ්පාදකයින් කටයුතු කරන බව ශ්‍රී ලංකා සත්ත්ව නිෂ්පාදකයින්ගේ සංගමයේ සභාපති අජිත් ගුණසේකර මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පැවසුවේ මේ වන විට බිත්තරයක සිල්ලර මිල රුපියල් 35-36ත් අතර අතර පවතින බවය. කෙසේ නමුත් රටේ ඉල්ලුම හා සැපයුම අනුව බිත්තරක මිල තීරණය වන බැවින් ඉදිරි උත්සව සමයේදී බිත්තර ඉල්ලුම වැඩි විය හැකි බවත් ඒ අනුව රුපියල් 45කට අඩුවෙන් බිත්තරයක සිල්ලර මිළ පවත්වාගෙන යාමට අපෙක්ෂා කරන බවත් ඔහු පැවසීය.
 
-එමෙන්ම වර්තමානය වනවිට සහල් නිවුඩු සහ බඩ ඉරිඟු මිල ඉහළ යාම හේතුවෙන් බිත්තරයක නිෂ්පාදන මිල ඉහළ ගොස් ඇති බවත් ඔහු පැවසීය. ඔහු පැවසුවේ කුකුළු මස් නිෂ්පාදනයේ අතිරික්තයක් පවතින බැවින් මේ වන විටත් හිඟයකින් තොරව කුකුළු මස් වෙළෙඳ පොළට නිකුත් කිරීමට පියවර ගෙන ඇති බවය.
 
-පසුගිය කාලයේ පැවැති අයහපත් කාලගුණික තත්ත්වය හමුවේ එළවළු මිල සහ මාළු මිල ඉහළ ගොස් ඇති බැවින් මේ හේතුවෙන් කුකුළු මස් සඳහා ඉල්ලුම වැඩි වී ඇති බවත් මේ වන විට ශීත කල කුකුළු මස් රුපියල් 950-1000ත් අතර මිලකට අලෙවි වන බවත් ඔහු පැවසීය.
+"Egg producers in Sri Lanka maintain supply without deficit. Retail price: 35-36 Rupees. Production costs increased due to higher rice and corn prices. Surplus poultry in market. Chicken demand rose after bad weather. Animal products stable during Sinhala season. Vegan shortage needs addressing."
 
-...
+🟩
+
+Sri Lanka Animals Association President Ajith Gunasekera says that egg manufacturers are working to the egg products without any deficit.
+
+Addressing a media briefing, he said that the retail price of an egg is between Rs. 35-36. However, as the price of eggs can increase the demand for the demand and supply of the country, as the price of eggs can increase and operate the retail price of an egg.
+
+He said the production prices of the egg had gone up due to rising prices at present, the price of rice and corn.. He said that there is a surplus of poultry production, he has already been released to the poultry market.
+
+He said that the demand for chicken has increased due to the recent adverse weather conditions in the recent past, he said.
+
+He also says that the animal products are continuously maintained during the Sinhala Season, he says. However, he said that if there is a vegan deficit, it is the responsibility of remedying to address it.
+
+◼️
 
 [Data](articles/0f091c23.json)
+
+[Extended Data](ext_articles/0f091c23.ext.json)
 
 ---
 
@@ -412,17 +574,29 @@ The death investigation officer has informed the police that the death of the de
 
 ---
 
-### මහනුවර රෝහලේ සී.ටී. ස්කෑන් යන්ත්‍රයට ගෞරවනීය සමුදීමක්
+### CT at Kandy Hospital. An honor of the scanner
 
 *2024-12-08 15:17:36* · [`adalk`](https://www.ada.lk/picture_story/මහනුවර-රෝහලේ-සී-ටී--ස්කෑන්-යන්ත්‍රයට-ගෞරවනීය-සමුදීමක්/10-413517) · `si`
 
-මහනුවර ජාතික රෝහලේ දහ අට වසරක් පුරා රෝගීන් ලක්ෂ සංඛ්‍යාවකට සහ වෛද්‍ය සිසුන් විශාල පිරිසකට සේවාව සැපයූ සී.ටී. ස්කෑන් යන්ත්‍රය එම රෝහලේ වෛද්‍යවරුන්, විකිරණ ශිල්පීන්, හෙදියන් ඇතුළු කාර්ය මණ්ඩලයේ ගෞරවාදරය මැද සේවයෙන් විශ්‍රාම ගැන්වීම සිදු කෙරුණි.
+Here's a summary of 200 characters:
 
-රෝහලක සිදුවන ඉතාමත් විරල ගණයේ සමුදීමක් වූ එම අවස්ථාව මහනුවර ජාතික රෝහලේ අධ්‍යක්ෂිකා ඉරේෂා ප්‍රනාන්දු මහත්මියගේත් විකිරණ විශේෂඥ වෛද්‍ය ගංගානාත් රොද්‍රිගෝ මහතා ඇතුළු කාර්ය මණ්ඩලය විසින් එම යන්ත්‍රයට මල් කලඹ තබා ගෞරව දක්වමින් එම සමුදීම සිදු කිරීම විශේෂත්වයක් විය.
 
-...
+
+CT scanner honored at Kandy Hospital. Retired after serving 6+ million patients, diagnosing over 100,000 diseases. Rare celebration for the machine and its dedicated staff. Director emphasizes commitment to healthcare management.
+
+🟩
+
+Kandy National Hospital for Rs.. The scanner was retired from the hospital with the honor of the hospital, radiation, nurses and the staff of the hospital.
+
+The event was a rare celebration of a hospital and was a significant commitment to Rodrigo and honored the machine.
+
+Dr. Iresha Fernando said the CT. The scanner is not only in the country, not only 100,000 cases of disease for over 6,000 cases, but for more than 6 million patients, not only 100,000 cases of diseases.There is. The director emphasized that if we have a duty to be a duty to a management, even if we have a lot of iron.
+
+◼️
 
 [Data](articles/a8415135.json)
+
+[Extended Data](ext_articles/a8415135.ext.json)
 
 ---
 
@@ -1656,15 +1830,25 @@ In addition, he said that since December 01, PHIs have carried out more than 150
 
 ---
 
-### சிரிய ஜனாதிபதி நாட்டிலிருந்து தப்பி வெளியேறினார்
+### Syrian president fled the country
 
 *2024-12-08 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200689) · `ta`
 
-சிரிய ஜனாதிபதி பசார் அல் அசாத் நாட்டிலிருந்து வெளியேறியுள்ளார் தலைநகர் கிளர்ச்சியாளர்கள் வசம் வந்துள்ளது
+Here's a summary in 200 characters:
+
+
+
+Syrian Pres. Bashar al-Assad reportedly fled the country. This news, if confirmed, would be significant as it could impact Syria's political landscape and regional stability. However, without official confirmation, details remain unclear.
+
+🟩
+
+Syrian President Basar al -Assad has left the country
 
 ◼️
 
 [Data](articles/a909df4a.json)
+
+[Extended Data](ext_articles/a909df4a.ext.json)
 
 ---
 
@@ -2201,211 +2385,5 @@ The Chairman of the United States Mr. Semasinghe said that the government made a
 [Data](articles/b5a61a32.json)
 
 [Extended Data](ext_articles/b5a61a32.ext.json)
-
----
-
-### The third largest city of Syria's Holmes-rebels
-
-*2024-12-08 07:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200676) · `ta`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Syria: Rebels claim control of Holmes, a major victory. Leader calls it "historic." Commander urges mercy for surrendering forces. Assad's grip may weaken if city falls.
-
-🟩
-
-We are in the last moments of the liberation of Holmes, which is a historic moment that distinguishes the true lie, said Abu Mohamad al -Zoligram, president of Hayat Dahrir al -Sam organization.
-
-The insurgents commander Hasan Abdul Hani said the city was completely released.
-
-He said this was a historic moment and asked their organizations not to be harmed for those who surrendered and surrendered.
-
-President Basar al -Assad will face great danger if Holmes is falling, the BBC says.
-
-◼️
-
-[Data](articles/725e1f33.json)
-
-[Extended Data](ext_articles/725e1f33.ext.json)
-
----
-
-### Two murders were revealed
-
-*2024-12-08 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204148) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Bogahawewa: 2 murders, 3 arrests. 73yo woman killed. Suspects: 56yo, 26yo, 30yo. Weapons seized. Investigation ongoing. Nuwara Eliya: 3 robbers arrested. Ages: 34, 41, 55.
-
-🟩
-
-Three suspects have been arrested in Bogahawewa area in Bogahawewa area.
-
-A 73-year-old woman was shot dead at a house in Bogahawewa last night.
-
-Investigations were launched by the Padaviya Police Station regarding the incident.
-
-Accordingly, a suspect, a resident of the T-56-year-old Kiriibbanwewa area was arrested by Pulgamuda Police Station, a T-56-year-old firearm and a revolvers.
-
-After the arrest, the suspect had been produced before the Welioya Police Station and detention orders were obtained for further investigations.
-
-The shooter who had come to commit the crime was arrested with the motorcyclist who was involved in the murder of the crime at the investigation into the suspect regarding the suspect.
-
-The suspects were residents of Mahiyanganaya and Eethagaswewa areas, aged 26, 30, 30.
-
-It has been revealed that the suspects are being investigated on the suspects.
-
-Meanwhile, three suspects have been arrested for robbing money.
-
-...
-
-[Data](articles/3856365b.json)
-
-[Extended Data](ext_articles/3856365b.ext.json)
-
----
-
-### To the rice mill test of Polonnaruwa
-
-*2024-12-08 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204147) · `si`
-
-Consumer Affairs Authority conducts rice mill tests in Polonnaruwa today. Gathering data on daily production, stock levels, and market supply. Meeting with President Anura Kumara Dissanayake to discuss findings.
-
-🟩
-
-The Consumer Affairs Authority stated that the rice mills of the Polonnaruwa area will be conducted today.
-
-A spokesman said that the amount of rice produced daily, the amount of rice produced by the rice mills, a report on the amount of stock and rice released into the market.
-
-The Consumer Affairs Authority stated that he will take information on all rice mills as follows of President Anura Kumara Dissanayake.
-
-The President said that the rice mill owners and president in a meeting between the President and the president in this day.
-
-◼️
-
-[Data](articles/4f602ff5.json)
-
-[Extended Data](ext_articles/4f602ff5.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-12-08 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204146) · `si`
-
-Heavy rainfall warning: Low-pressure system developing in Bay of Bengal, may affect northern and eastern regions. Showers exceeding 75mm expected in western and southern areas. Thunderstorms possible, public advised to take precautions.
-
-🟩
-
-The low pressure zone of the southeastern Bay of Bay of Bay of Bengal area is capable of further development in the next 24 hours, the Met Department said.
-
-The department states that it is very likely to reach the southwest Bay of Bay of Bay of Bengal at around December 11.
-
-Due to the impact of this system, the North and East will be expected to increase the increase in the North and East.
-
-As a result, the following showers in the Northern and Eastern Provinces today (08).
-
-The Department of Meteorology will show that showers in the Western, and Sabaragamuwa provinces in the Western, Matara, Matara, Matara and Kandy districts.
-
-MM to some places in the Western, and Sabaragamuwa provinces and in the Galle and Matara districts. About 75 have a bit heavy showers.
-
-In the morning, Sabaragamuwa, Southern, Uva, Uva, Uva, Western and Northwestern provinces can be found.
-
-...
-
-[Data](articles/6d6df7e7.json)
-
-[Extended Data](ext_articles/6d6df7e7.ext.json)
-
----
-
-### We are working on the human rights issue of Sri Lanka - the British Government
-
-*2024-12-08 05:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200662) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-British government concerned about Sri Lanka's human rights issues. Indo-Pacific Affairs Minister Katrin West emphasizes ongoing efforts for reconciliation and accountability. The UK supports international involvement in addressing past violations and promoting human rights in Sri Lanka.
-
-🟩
-
-Indo -Pacific Affairs Minister Katin West, who has said that Britain is continuing to act with concern over the past violations of Sri Lanka and the construction of reconciliation, has pointed out that the publication of the impacts that can be banned in the future will be reduced.
-
-Following the Labor Party's victory in the British general election, the British Tamil Congress sent a letter on July 5 last year to congratulate Kair Starmar. In the letter, the UK urged the British to take steps to prevent the extension of Sri Lanka for further two years and move Sri Lanka towards the International Criminal Justice System.
-
-...
-
-[Data](articles/1bdf8d87.json)
-
-[Extended Data](ext_articles/1bdf8d87.ext.json)
-
----
-
-### Do not listen to Lal Kanta's speech;Instruction to the Farmers Ministry of Animal Protection
-
-*2024-12-08 05:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200659) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Lal Kanta advises farmers not to act against wildlife on agricultural land. Environmentalists protest, saying the government should address the issue legally.
-
-🟩
-
-Agriculture and Livestock Minister Lal Magneticism stated that there is no legal issue and there is no legal problem to control wildlife that come to agricultural lands.. We ask the farmers not to act in a crisis in his opinion. Secretary of the Wildlife Protection Organization Nayanaka Ranwalla said the government should recover the minister's misconception.
-
-He made this statement during a media briefing held at the Wildlife Conservation Organization office in Colombo on Saturday (07).
-
-The Minister of Agriculture, Livestock, Land and Irrigation, Cal Land, recently stated in Parliament that farmers can take any measures to control the wildlife coming to agricultural lands.
-
-If farmers can take any steps to control animals, the question arises as to whether to kill animals that come to the farm. Have been disgusted by the activities of wild animals. Against this backdrop, the minister's opinion for the farmers is aimed at making.
-
-...
-
-[Data](articles/8aeaa6d1.json)
-
-[Extended Data](ext_articles/8aeaa6d1.ext.json)
-
----
-
-### A Possible Transformation
-
-*2024-12-08 05:41:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-possible-transformation/) · `en`
-
-These are unprecedented times in Sri Lankan Political history. A hopeful, and idealistic left wing party has captured not only the presidency, but a solid two-thirds majority in parliament. For the first time, Sri Lanka will get to see what a left wing party does with the power to completely remake the political landscape.
-
-But one does not have to speculate as to what the policy direction of the country will be. The NPP presidential manifesto is publicly available. Over the course of over 130 pages, it lays out in detail what the legislative priorities of this administration are. I took the liberty of reading this document, and as an American-born leftist, I am deeply impressed.
-
-...
-
-[Data](articles/f89a7d79.json)
-
-[Extended Data](ext_articles/f89a7d79.ext.json)
-
----
-
-### Westbury Residencies: Setting gold Standard with ISO 9001 certification initiative
-
-*2024-12-08 04:33:00* · [`islandlk`](http://island.lk/westbury-residencies-setting-gold-standard-with-iso-9001-certification-initiative/) · `en`
-
-Westbury Residencies, a leading property developer in Sri Lanka, is raising the bar for quality in the real estate sector by pursuing ISO 9001 certification. This internationally recognized standard for quality management systems ensures products and services consistently meet customer expectations while driving continuous improvement.
-
-Amid industry challenges like construction quality and regulatory compliance, Westbury’s commitment to ISO 9001 highlights its dedication to excellence, customer satisfaction, and operational efficiency. This transformative initiative places the company among a select group of Lankan developers striving for such benchmarks.
-
-For homebuyers and investors, the certification signifies enhanced trust and assurance of top-notch quality. Westbury’s move is not just a milestone for the company but a catalyst for improving industry standards, setting a precedent for quality-driven development in Sri Lanka.
-
-...
-
-[Data](articles/c79c70bb.json)
-
-[Extended Data](ext_articles/c79c70bb.ext.json)
 
 ---

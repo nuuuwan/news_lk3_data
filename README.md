@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 03:11:42**
+As of **2024-12-09 03:42:09**
 
 ## Newspaper Stats
 
-*Scraped **59,163** Articles*
+*Scraped **59,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,606
 adaderanalk | 7,185
-tamilmirrorlk | 8,445
+tamilmirrorlk | 8,446
 virakesarilk | 9,711
 adaderanasinhalalk | 10,225
 
@@ -26,23 +26,59 @@ adaderanasinhalalk | 10,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,162 (100.0%) of 59,163 articles have been extended.
+59,164 (100.0%) of 59,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### அரிசி ஆலைகளில் சோதனை நடவடிக்கை
+### Shooting in Gampaha: One kills
+
+*2024-12-09 03:11:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹாவில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-348458) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Gunfight in Gampaha: One killed. Two men on a motorcycle shot near Kaudan Kaha. 39-year-old died at Gampaha Hospital. Police investigating.
+
+🟩
+
+One person was killed in a gunfight in the Kaudan Kaha area of ​​Gampaha Dhamida Road.
+
+Police said two men on a motorbike were shot dead on a motorcycle.
+
+39 -year -old died after being admitted to Gampaha Hospital. (A)
+
+◼️
+
+[Data](articles/2340be9f.json)
+
+[Extended Data](ext_articles/2340be9f.ext.json)
+
+---
+
+### Testing action in rice mills
 
 *2024-12-09 02:59:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-ஆலைகளில்-சோதனை-நடவடிக்கை/175-348455) · `ta`
 
-அரிசி ஆலைகளிலிருந்து நாளாந்தம் விநியோகிக்கப்படும் அரிசி தொகை தொடர்பில் அறிக்கையை பெற்றுக் கொள்ளுமாறு ஜனாதிபதியால் வழங்கப்பட்ட பணிப்புரைக்கு அமைய இந்த நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+Here's a summary in 200 characters:
 
-அதற்கமைய நேற்று முதல் 10 நாட்களுக்கு தொடர்ச்சியாக அரிசி ஆலைகளில் சோதனைகள் நடத்தப்படவுள்ளதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது. (a)
+
+
+CAA orders rice mill inspections for 10 days to verify daily rice distribution as per President's directive.
+
+🟩
+
+The action has been taken in accordance with the directive given by the President to obtain a report on the amount of rice distributed daily from the rice mills.
+
+The Consumer Affairs Authority (CAA) has said that the rice mills will be carried out for 10 consecutive days from yesterday.. (A)
 
 ◼️
 
 [Data](articles/0139cfd6.json)
+
+[Extended Data](ext_articles/0139cfd6.ext.json)
 
 ---
 
@@ -2457,35 +2493,5 @@ The father of the attacker, the father of the attacker, has been arrested by the
 [Data](articles/2db047c6.json)
 
 [Extended Data](ext_articles/2db047c6.ext.json)
-
----
-
-### Send the young man's naked video to 'WhatsApp
-
-*2024-12-08 11:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனின்-நிர்வாண-காணொளி-வாட்ஸ்-அப்-களுக்கு-அனுப்பிவைப்பு/175-348420) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Three men (22, 24, 28) arrested for attacking a youth over a nude video sent via WhatsApp. They kidnapped, stripped him, threatened death, recorded video, and shared it widely. Suspects' phones and bikes seized. Case filed by victim's father.
-
-🟩
-
-Three young men were arrested on charges of attacking a young man who allegedly sent a friend of a foreign girlfriend and sent a nude video through WhatsApp technology.
-
-They have been abducted, naked, threatened to death, and on several occasions, have taken attacks and get 38 thousand rupees and a mobile phone.
-
-Among those arrested include a girl's boyfriend abroad. The three men aged 22,24 and 28 from Kahatudu have been arrested.
-
-The abducted young man has been naked, threatened with death, sexual harassment, recorded them as a video, and sent to all the WhatsApp number on the young man's mobile phone.
-
-Three suspects were arrested in connection with the complaint lodged by the father of the victim's youth. Two motorcycles and two of the Apple's mobile phones were seized from them.
-
-◼️
-
-[Data](articles/c782cedb.json)
-
-[Extended Data](ext_articles/c782cedb.ext.json)
 
 ---

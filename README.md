@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 06:19:30**
+As of **2024-12-08 08:11:19**
 
 ## Newspaper Stats
 
-*Scraped **59,000** Articles*
+*Scraped **59,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,193 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,589
 adaderanalk | 7,166
-tamilmirrorlk | 8,413
-virakesarilk | 9,659
-adaderanasinhalalk | 10,199
+tamilmirrorlk | 8,414
+virakesarilk | 9,662
+adaderanasinhalalk | 10,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,989 (100.0%) of 59,000 articles have been extended.
+58,996 (100.0%) of 59,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### උත්සව සමය හේතුවෙන් මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගෙන් විශේෂ වැඩපිළිවෙළක්
+
+*2024-12-08 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204150) · `si`
+
+උත්සව සමය නිමිත්තෙන් මහජනතාව වැඩි වශයෙන් ගැවසෙන නගර ආශ්‍රිතව අලෙවි කරනු ලබන ආහාර පාන පරීක්ෂා කිරීමේ වැඩපිළිවෙළක් ආරම්භ කර ඇති බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ සභාපති උපුල් රෝහණ මහතා සඳහන් කළේ ක්ෂේත්‍ර මහජන සෞඛ්‍ය පරීක්ෂකවරුන් 1750ක පමණ පිරිසක් මේ සඳහා අනියුක්ත කර ඇති බවය.
+
+උත්සව සමය ඉලක්ක කර ගනිමින් නිෂ්පාදනය කරනු ලබන ආහාර සඳහා යොදාගන්නා අමුද්‍රව්‍ය පිළිබදව ද මෙහිදී පරීක්ෂාවට ලක්කරන බව උපුල් රෝහණ මහතා සදහන් කළේය.
+
+දෙසැම්බර් මස පළමු වන දින සිට මේ දක්වා කාලය තුළ දිවයින පුරා වැටලීම් 150කට වැඩි සංඛ්‍යාවක් සිදුකර ඇති බවද මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ සභාපති උපුල් රෝහණ මහතා සදහන් කළේය.
+
+◼️
+
+[Data](articles/1a56ef62.json)
+
+---
+
+### සුළු හා මධ්‍ය පාරිමාණ වී මෝල් හිමියන්ගෙන් චෝදනාවක්
+
+*2024-12-08 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204149) · `si`
+
+සහල්වල පැවැති මිලට වඩා රුපියල් 10කින් මිල ඉහළ දමා විකිණීමට එකඟතාවයකට පැමිණ ඇති බව සමස්ත ලංකා සුළු හා මධ්‍ය පාරිමාණ වී මෝල් හිමියන්ගේ සංගමය පවසයි.
+
+එහි සභාපති යූ.කේ සේමසිංහ මහතා සහල් සඳහා රජය විසින් මිල ගණන් ප්‍රකාශයට පත්කිරීම සම්බන්ධයෙන් ප්‍රකාශයක් සිදුකරමින් ඒ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/b5a61a32.json)
+
+---
+
+### The third largest city of Syria's Holmes-rebels
+
+*2024-12-08 07:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200676) · `ta`
+
+Here's a summary in approximately 200 characters:
+
+
+
+Syria: Rebels claim control of Holmes, a major victory. Leader calls it "historic." Commander urges mercy for surrendering forces. Assad's grip may weaken if city falls.
+
+🟩
+
+We are in the last moments of the liberation of Holmes, which is a historic moment that distinguishes the true lie, said Abu Mohamad al -Zoligram, president of Hayat Dahrir al -Sam organization.
+
+The insurgents commander Hasan Abdul Hani said the city was completely released.
+
+He said this was a historic moment and asked their organizations not to be harmed for those who surrendered and surrendered.
+
+President Basar al -Assad will face great danger if Holmes is falling, the BBC says.
+
+◼️
+
+[Data](articles/725e1f33.json)
+
+[Extended Data](ext_articles/725e1f33.ext.json)
+
+---
+
+### Two murders were revealed
+
+*2024-12-08 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204148) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Bogahawewa: 2 murders, 3 arrests. 73yo woman killed. Suspects: 56yo, 26yo, 30yo. Weapons seized. Investigation ongoing. Nuwara Eliya: 3 robbers arrested. Ages: 34, 41, 55.
+
+🟩
+
+Three suspects have been arrested in Bogahawewa area in Bogahawewa area.
+
+A 73-year-old woman was shot dead at a house in Bogahawewa last night.
+
+Investigations were launched by the Padaviya Police Station regarding the incident.
+
+Accordingly, a suspect, a resident of the T-56-year-old Kiriibbanwewa area was arrested by Pulgamuda Police Station, a T-56-year-old firearm and a revolvers.
+
+After the arrest, the suspect had been produced before the Welioya Police Station and detention orders were obtained for further investigations.
+
+The shooter who had come to commit the crime was arrested with the motorcyclist who was involved in the murder of the crime at the investigation into the suspect regarding the suspect.
+
+The suspects were residents of Mahiyanganaya and Eethagaswewa areas, aged 26, 30, 30.
+
+It has been revealed that the suspects are being investigated on the suspects.
+
+Meanwhile, three suspects have been arrested for robbing money.
+
+...
+
+[Data](articles/3856365b.json)
+
+[Extended Data](ext_articles/3856365b.ext.json)
+
+---
+
+### To the rice mill test of Polonnaruwa
+
+*2024-12-08 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204147) · `si`
+
+Consumer Affairs Authority conducts rice mill tests in Polonnaruwa today. Gathering data on daily production, stock levels, and market supply. Meeting with President Anura Kumara Dissanayake to discuss findings.
+
+🟩
+
+The Consumer Affairs Authority stated that the rice mills of the Polonnaruwa area will be conducted today.
+
+A spokesman said that the amount of rice produced daily, the amount of rice produced by the rice mills, a report on the amount of stock and rice released into the market.
+
+The Consumer Affairs Authority stated that he will take information on all rice mills as follows of President Anura Kumara Dissanayake.
+
+The President said that the rice mill owners and president in a meeting between the President and the president in this day.
+
+◼️
+
+[Data](articles/4f602ff5.json)
+
+[Extended Data](ext_articles/4f602ff5.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+
+*2024-12-08 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204146) · `si`
+
+ගිනිකොණදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ නිර්මාණය වූ අඩු පීඩන කලාපය ඉදිරි පැය 24 දී බටහිර-වයඹ දෙසට ගමන් කරමින් තව දුරටත් වර්ධනය වීමේ හැකියාවක් ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, එය දෙසැම්බර් 11 වනදා පමණ ශ්‍රී ලංකා-තමිල්නාඩු වෙරළට ඔබ්බෙන් නිරිත දිග බෙංගාල බොක්ක වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇති බවය.
+
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දෙසැම්බර් 10 දින සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩි වීමක් අපේක්ෂා කරන අතර දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වෙතැයි බලාපොරොත්තුවේ.
+
+ඒ හේතුවෙන් අද (08) උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇති හැකියි.
+
+බස්නාහිර, සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
+
+බස්නාහිර, සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75 පමණ තරමක් තද වැසි ඇතිවේ.
+
+...
+
+[Data](articles/6d6df7e7.json)
+
+---
+
+### இலங்கையின் மனித உரிமைகள் விவகாரத்தில் தொடர் கரிசனையுடன் செயலாற்றிவருகிறோம் - பிரிட்டன் அரசு
+
+*2024-12-08 05:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200662) · `ta`
+
+இலங்கையில் இடம்பெற்ற கடந்தகால மீறல்கள் தொடர்பில் பொறுப்புக்கூறலை உறுதிசெய்வதையும், நல்லிணக்கத்தைக் கட்டியெழுப்புவதையும் முன்னிறுத்தி பிரிட்டன் தொடர்ந்தும் கரிசனையுடன் செயலாற்றிவருவதாகத் தெரிவித்திருக்கும் அந்நாட்டு இந்தோ - பசுபிக் விவகார அமைச்சர் கத்ரின் வெஸ்ட், எதிர்வருங்காலத்தில் தடை விதிக்கப்படக்கூடிய பதவிகள் குறித்த யூகங்களை வெளியிடுவதானது, அத்தடைகளால் ஏற்படக்கூடிய தாக்கங்களைக் குறைத்துவிடும் என சுட்டிக்காட்டியிருக்கிறார்.
+
+பிரிட்டன் பொதுத்தேர்தலில் தொழிற்கட்சியின் வெற்றியை அடுத்து, புதிய பிரதமராகத் தெரிவான கெய்ர் ஸ்டார்மருக்கு வாழ்த்துத்தெரிவித்து பிரித்தானிய தமிழர் பேரவை கடந்த ஜுலை மாதம் 5 ஆம் திகதி கடிதமொன்றை அனுப்பிவைத்திருந்தது. அக்கடிதத்தில், 'எதிர்வரும் செப்டெம்பர்மாத (நடைபெற்றுமுடிந்த) ஜெனிவா கூட்டத்தொடரில் இலங்கை தொடர்பான முன்னைய தீர்மானம் மேலும் இருவருடங்களுக்கு நீடிக்கப்படுவதைத் தடுப்பதற்கும், இலங்கையை சர்வதேச குற்றவியல் நீதிப்பொறிமுறையை நோக்கி நகர்த்திச்செல்வதற்கும் அவசியமான நடவடிக்கைகளை பிரிட்டன் முன்னெடுக்கவேண்டும்' என வலியுறுத்தப்பட்டிருந்தது.
+
+...
+
+[Data](articles/1bdf8d87.json)
+
+---
+
+### லால் காந்தவின் பேச்சை கேட்டு நெருக்கடிக்குள்ளாக வேண்டாம் ; விலங்கின பாதுகாப்பு அமைச்சு விவசாயிகளுக்கு அறிவுறுத்தல்
+
+*2024-12-08 05:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200659) · `ta`
+
+விவசாய நிலங்களுக்கு வரும் வன விலங்குகளை கட்டுப்படுத்த விவசாயிகள் எந்த நடவடிக்கைகளையும் எடுக்கலாம், சட்ட சிக்கல் ஏதும் கிடையாது என  விவசாயம், கால்நடை வளர்ப்பு அமைச்சர் லால் காந்த குறிப்பிட்டுள்ளமை முற்றிலும் தவறானது. இவரின் கருத்துக்கு அமைய செயற்பட்டு நெருக்கடிக்குள்ளாக வேண்டாம் என்று விவசாயிகளிடம் கேட்டுக் கொள்கிறோம். அமைச்சரின் தவறான கருத்தை அரசாங்கம் மீளப் பெற வேண்டும் என வன விலங்குகள் பாதுகாப்பு அமைப்பின் செயலாளர் நயனக ரன்வல்ல தெரிவித்தார்.
+
+கொழும்பில்  உள்ள வனவிலங்கு பாதுகாப்பு அமைப்பின் காரியாலயத்தில் சனிக்கிழமை (07) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+விவசாய நிலங்களுக்கு வரும் வன விலங்குகளை கட்டுப்படுத்த விவசாயிகள் எந்த நடவடிக்கைகளையும் எடுக்கலாம்,  அதனால் எவ்வித சட்ட சிக்கலும் வராது என விவசாயம், கால்நடை வளர்ப்பு, காணி மற்றும் நீர்ப்பாசன அமைச்சர் கால் காந்த அண்மையில் பாராளுமன்றத்தில் குறிப்பிட்டுள்ளமை பாரதூரமானதொரு கருத்தாகும்.
+
+...
+
+[Data](articles/8aeaa6d1.json)
+
+---
 
 ### Westbury Residencies: Setting gold Standard with ISO 9001 certification initiative
 
@@ -45,6 +219,8 @@ For homebuyers and investors, the certification signifies enhanced trust and ass
 ...
 
 [Data](articles/c79c70bb.json)
+
+[Extended Data](ext_articles/c79c70bb.ext.json)
 
 ---
 
@@ -64,6 +240,8 @@ Westbury Residencies: Setting gold Standard with ISO 9001 certification initiati
 
 [Data](articles/eaf97ee9.json)
 
+[Extended Data](ext_articles/eaf97ee9.ext.json)
+
 ---
 
 ### SAGT wins sustainability award from Ceylon Chamber of Commerce
@@ -77,6 +255,8 @@ South Asia Gateway Terminals (Pvt) Ltd (SAGT), Sri Lanka’s first Public Privat
 ...
 
 [Data](articles/fd5d62e0.json)
+
+[Extended Data](ext_articles/fd5d62e0.ext.json)
 
 ---
 
@@ -109,6 +289,8 @@ In my defense, the news I have reported over the years has been always been base
 ...
 
 [Data](articles/6b0ca90a.json)
+
+[Extended Data](ext_articles/6b0ca90a.ext.json)
 
 ---
 
@@ -167,6 +349,28 @@ The drive was tortuous, the roads being more like gullies than even cart tracks.
 ...
 
 [Data](articles/06abcce3.json)
+
+---
+
+### தென் கொரிய ஜனாதிபதியை பதவிநீக்கும் பிரேரணை தோல்வி
+
+*2024-12-08 03:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்-கொரிய-ஜனாதிபதியை-பதவிநீக்கும்-பிரேரணை-தோல்வி/50-348403) · `ta`
+
+தென் கொரிய ஜனாதிபதி யூன் சுக் யோலை பதவி நீக்கம் செய்யும் பிரேரணை மீதான வாக்கெடுப்புக்கு முன்னதாக ஆளும் கட்சியைச் சேர்ந்த மூன்று பாராளுமன்ற உறுப்பினர்களைத் தவிர ஏனைய அனைவரும் வெளிநடப்பு செய்திருந்தனர்.
+
+எவ்வாறாயினும், குறித்த பிரேரணையை மூன்றில் இரண்டு என்ற பெரும்பான்மையில் நிறைவேற்றுவதற்கு தென்கொரியாவின் எதிர்க்கட்சி தவறியுள்ளது.
+
+கடந்த செவ்வாய்க்கிழமை இரவு தென் கொரியா ஜனாதிபதி யூன் சுக் யோல் அவசரமாக இராணுவச் சட்டத்தை அறிவித்தார்.
+
+இதனையடுத்து, தென் கொரியாவின் சியோலில் உள்ள தேசிய பாராளுமன்றத்துக்கு வெளியே பல்லாயிரக்கணக்கான மக்கள் ஜனாதிபதியை நீக்கம் செய்யக்கோரி ஒன்று திரண்டனர்.
+
+இந்தநிலையில், குறித்த இராணுவச் சட்டத்தினை அமுல்படுத்தவதற்கு எதிராக பாராளுமன்றில் தீர்மானம் நிறைவேற்றப்பட்டதுடன், அவரை பதவி நீக்கம் செய்வதற்கான பிரேரணையொன்றை எதிர்க்கட்சிகள் கொண்டுவந்தன.
+
+எனினும், ஜனாதிபதி யூன் சுக் யோல், இராணுவச் சட்டத்தை அறிவித்ததற்காக நேற்று பொதுமக்களிடம் மன்னிப்புக் கோரியதுடன், மீண்டும் அதனை அமுல்படுத்தப் போவதில்லை எனவும் அறிவித்திருந்தார். (a)
+
+◼️
+
+[Data](articles/b03945d5.json)
 
 ---
 
@@ -2195,195 +2399,5 @@ Rector of St. Joseph’s College Rev. Fr. Ranjith Andradi, Priyanga Perera -Seni
 [Data](articles/3ce5f68b.json)
 
 [Extended Data](ext_articles/3ce5f68b.ext.json)
-
----
-
-### The E8 visa that sends to Korea is not legal - Minister Vijitha Herath
-
-*2024-12-07 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200625) · `ta`
-
-Sri Lanka's E8 visa to Korea deemed illegal by Minister Vijitha Herath due to lack of Cabinet approval. Steps being taken to legalize the program.
-
-🟩
-
-The E8 visa that temporarily sends to Korea is not legal. Minister Vijitha Herath said that the Cabinet has not obtained the approval of the agreement.
-
-He said this while addressing the second day debate on the interim voting account submitted by the government on Friday (7) in Parliament.
-
-E8 Visa is a contract to temporarily send Sri Lankans to South Korea for agriculture and fisheries. That contract is not in any way legal contract. If Sri Lanka is signed with a south or other country, a contract with foreign industries must be obtained in our cabinet in Sri Lanka.. However, former Labor Minister has personally signed a contract with a state of Korea. Its copy is not in the Bureau of Foreign Employment.
-
-But the deal is private agencies.. But as a responsible minister, the Memorandum of Understanding (MoU) has been submitted to the Cabinet, obtaining permission from the Foreign Ministry and signed a Memorandum of Understanding?. Nothing happened.
-
-...
-
-[Data](articles/139d32ca.json)
-
-[Extended Data](ext_articles/139d32ca.ext.json)
-
----
-
-### Action to bring 'Loku Betty' to Sri Lanka
-
-*2024-12-07 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200624) · `ta`
-
-"Loku Betty" case update: CID contacts Belarus officials to extradite suspect under Trafficking Act. Police confirm reports of release but no confirmation yet. Investigations ongoing.
-
-🟩
-
-It has been reported that Lokupetti, who was accused of committing the arrest of Belarus officials, has not been released and has been detained by the country's police.
-
-Police spokesman and Senior Superintendent of Police Attorney Buddhika said that the accused had recently been released by Belarus officials and that the report was taken to Sri Lanka to bring the accused to Sri Lanka.
-
-He made this statement during a special media briefing held on Friday (6) in Kantalai.
-
-There have been many information on social networks that Sujeewa Ruwan Kumara, known as 'Loku Betty', has been released by Belarus authorities and various feast treatments have been held in front of it.
-
-The Criminal Investigation Department has contacted Belarus officials in this regard.
-
-The Criminal Investigation Department (CID) has taken steps to bring the culprit to Sri Lanka using the Trafficking Act.. According to the police media spokesman, we are ready to carry out this move to Sri Lanka in the future.
-
-◼️
-
-[Data](articles/4fbacd36.json)
-
-[Extended Data](ext_articles/4fbacd36.ext.json)
-
----
-
-### President calls for media collaboration to foster national progress
-
-*2024-12-07 00:31:17* · [`dailyftlk`](https://www.ft.lk/news/President-calls-for-media-collaboration-to-foster-national-progress/56-770218) · `en`
-
-Highlights media’s key role in shaping country’s future as an integral force
-
-Encourages media to hold Govt. accountable through constructive criticism while maintaining responsible reporting standards
-
-Reaffirms commitment to safeguarding media freedom, cautioning against dissemination of false information
-
-President Anura Kumara Dissanayake underscored the importance of the media as a key partner in building a better State, not an outsider —but as an integral force in driving positive change.
-
-Addressing a meeting with heads of electronic media organisations at the Presidential Secretariat on Thursday, the President reinforced the media’s vital role in improving the lives of citizens and shaping the country’s future.
-
-Highlighting the people’s mandate for a new political culture, President Dissanayake invited media organisations to collaborate in fostering the political, social, and economic transformations that the public desires.
-
-...
-
-[Data](articles/95e31e43.json)
-
-[Extended Data](ext_articles/95e31e43.ext.json)
-
----
-
-### US Assistant Secretary of State calls on Prime Minister
-
-*2024-12-07 00:30:04* · [`dailyftlk`](https://www.ft.lk/news/US-Assistant-Secretary-of-State-calls-on-Prime-Minister/56-770217) · `en`
-
-The US delegation led by Assistant Secretary of State for the Bureau of South and Central Asian Affairs (SCA) Donald Lu met with Prime Minister Dr. Harini Amarasuriya.
-
-The delegation included representatives from key agencies such as the United States Agency for International Development (USAID) and the US Department of Treasury.
-
-Taking to ‘X’ US Ambassador to Sri Lanka Julie Chung stated that meeting with Prime Minister Dr. Harini Amarasuriya was productive and discussed on multiple areas.
-
-“We had a productive discussion on Sri Lanka’s priorities strengthening cooperation in education, agriculture, anti-corruption measures and equitable economic growth,” the Ambassador added.
-
-She also noted that US Treasury Deputy Assistant Secretary Robert Kaproth, reaffirmed US support for Sri Lanka’s reform agenda.
-
-◼️
-
-[Data](articles/281a2f88.json)
-
-[Extended Data](ext_articles/281a2f88.ext.json)
-
----
-
-### Only 23% of candidates submit expenditure reports as deadline looms
-
-*2024-12-07 00:29:28* · [`dailyftlk`](https://www.ft.lk/news/Only-23-of-candidates-submit-expenditure-reports-as-deadline-looms/56-770216) · `en`
-
-ECSL chairperson says as of 3 December, only 1,985 out of 8,361 candidates and 106 out of 690 political parties or independent groups have complied
-
-Stresses ECSL cannot extend deadline due to provisions under the Election Expenditure Act 2023
-
-Says non-compliance will lead to legal action with files referred to AG and police
-
-Warns possible candidacy in upcoming LG polls may also be affected if legal action is initiated for non-submission of expenditure reports
-
-The Election Commission of Sri Lanka (ECSL) has revealed that only 23% of Parliamentary election candidates have submitted their expenditure reports, with the deadline set to expire at midnight today.
-
-...
-
-[Data](articles/04030f88.json)
-
-[Extended Data](ext_articles/04030f88.ext.json)
-
----
-
-### A sip of history: The enduring legacy of Dambatenne Estate
-
-*2024-12-07 00:27:51* · [`dailyftlk`](https://www.ft.lk/business/A-sip-of-history-The-enduring-legacy-of-Dambatenne-Estate/34-770215) · `en`
-
-Nestled in the misty hills of Sri Lanka’s Uva Province is a living piece of Pure Ceylon Tea history in the form of Dambatenne Estate. Sprawling across the verdant slopes of Haputale, this iconic estate holds the legacy of one of the most famous names in tea — Sir Thomas Lipton. Dambatenne estate is a place where past and present converge, offering visitors a unique window into the origins of Sri Lanka’s tea industry and the enduring global reputation it continues to command.
-
-Together with the father of Ceylon Tea himself, James Taylor whom at the time of Lipton’s arrival in then Ceylon, had already established Sri Lanka’s very first commercial tea plantation and factory at Loolecondera Estate, the duo set about the development of Pure Ceylon Tea that continues to form the foundation of the brand today.
-
-...
-
-[Data](articles/9a18f567.json)
-
-[Extended Data](ext_articles/9a18f567.ext.json)
-
----
-
-### Australia, UN Women, Chrysalis launch 5-year project to empower women and transform social norms
-
-*2024-12-07 00:26:57* · [`dailyftlk`](https://www.ft.lk/business/Australia-UN-Women-Chrysalis-launch-5-year-project-to-empower-women-and-transform-social-norms/34-770214) · `en`
-
-The Government of Australia will partner with UN Women and national civil society organisation Chrysalis on a new five-year program to advance gender equality in Sri Lanka.
-
-“THRIVE – Together for Her: Resilience-building, Inclusivity, and Voices for Equality in Sri Lanka” will economically and socially empower women, working with their families and communities to address persistent and harmful social norms that perpetuate issues such as gender-based violence.
-
-Australian High Commissioner to Sri Lanka Paul Stephens said: “Australia has an enduring partnership with Sri Lanka and a steadfast commitment to promoting gender equality in our region. No country can meet its development goals without ensuring everyone has the opportunity to reach their full potential. By challenging harmful social norms and investing in women’s leadership and livelihoods, we want to support a future where all Sri Lankans can thrive.”
-
-...
-
-[Data](articles/0cb4dd09.json)
-
-[Extended Data](ext_articles/0cb4dd09.ext.json)
-
----
-
-### DIMO Academy and HomeServe Germany forge strategic partnership to enhance vocational education in Sri Lanka
-
-*2024-12-07 00:26:14* · [`dailyftlk`](https://www.ft.lk/business/DIMO-Academy-and-HomeServe-Germany-forge-strategic-partnership-to-enhance-vocational-education-in-Sri-Lanka/34-770213) · `en`
-
-From left: CHRO DIMO Executive Director Dilrukshi Kurukulasuriya, DIMO Group Managing Director and CEO Gahanath Pandithage, DIMO Chairman Ranjith Pandithage, Germany HomeServe CEO Thomas Rebel,  Germany HomeServe and DIMO Academy Consultant Jobst Ferber and DIMO Academy Head Vimukthi Randeny – Pix by Lasantha Kumara
-
-DIMO Academy, the vocational training arm of DIMO, entered a strategic partnership with HomeServe Germany, a global leader in home assistance, on 2 December at the Hiton Residences.
-
-By offering job placements in Germany’s thriving building service sector, aimed at empowering the local youth with globally recognised qualifications, this joint endeavour marks the beginning of strengthened workforce development. Vocational training is essential as it provides individuals with practical skills and knowledge for vital career paths often overlooked by many, fostering steady employment and economic growth in Sri Lanka.
-
-...
-
-[Data](articles/782482cc.json)
-
-[Extended Data](ext_articles/782482cc.ext.json)
-
----
-
-### All at sea?
-
-*2024-12-07 00:16:09* · [`dailyftlk`](https://www.ft.lk/columns/All-at-sea/4-770205) · `en`
-
-But if the Chabad House movement’s ideology – politics, if you will – is the core issue here, why so in one place, but apparently not in another?
-
-Mental gymnastics – something Gunasekara suggests I am guilty of indulging in – are hardly needed to appreciate the wider context here. A fair bit of media commentary on these events includes a final note to the effect that three-quarters of all Dutch Jews – many of my own relatives included – were murdered by the Nazis, mostly in concentration camps but all too many, like those Israeli and Jewish football supporters, hunted down on the streets of Amsterdam and a host of other Dutch towns and villages. It’s this history that underlies Dutch politicians’ responses to the recent violence
-
-“Thou shalt not be a victim, thou shalt not be a perpetrator. But above all, thou shalt not be a bystander” – Yehuda Bauer
-
-...
-
-[Data](articles/6daf8667.json)
-
-[Extended Data](ext_articles/6daf8667.ext.json)
 
 ---

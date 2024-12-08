@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 23:00:08**
+As of **2024-12-08 23:12:27**
 
 ## Newspaper Stats
 
-*Scraped **59,142** Articles*
+*Scraped **59,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,605
+adalk | 5,606
 adaderanalk | 7,185
 tamilmirrorlk | 8,444
-virakesarilk | 9,707
-adaderanasinhalalk | 10,223
+virakesarilk | 9,708
+adaderanasinhalalk | 10,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,141 (100.0%) of 59,142 articles have been extended.
+59,141 (100.0%) of 59,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### චන්දි ටෙස්ට් පිටියේ සුවිශේෂී කඩඉමක් පසුකරයි
+
+*2024-12-08 22:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204172) · `si`
+
+ශ්‍රී ලංකාව හා දකුණු අප්‍රිකාව අතර දෙවන ටෙස්ට් ක්‍රිකට් තරගයේදී ජාත්‍යන්තර ටෙස්ට් ක්‍රිකට් දිවියේ සුවිශේෂී කඩඉමක් පසුකිරීමට දිනේෂ් චන්දිමාල් සමත් විය.
+
+තරගයේ සිව්වැනි දිනය වූ අද (8) ශ්‍රී ලංකා දෙවන ඉනිම වෙනුවෙන් චන්දිමාල් ලකුණු 29ක් රැස්කිරීමට සමත් වූ අතර, ඒ සමග සිය ටෙස්ට් ක්‍රිකට් දිවියේ ලකුණු 6000 සීමාව පසුකර යාමට ඔහුට අවස්ථාව උදාවිය.
+
+2011 වසරේදී දකුණු අප්‍රිකාවට එරෙහිව දකුණු අප්‍රිකාවේදීම ජාත්‍යන්තර ටෙස්ට් ක්‍රිකට් දිවිය ඇරඹූ චන්දිමාල් එතැන් සිට මේ දක්වා ටෙස්ට් තරග 86ක ඉනිම් 154කදී ලකුණු 6019ක් රැස්කිරීමට සමත්ව සිටියි.
+
+මංගල ටෙස්ට් තරගයේ ඉනිම් ද්විත්වයේම අර්ධ ශතක වාර්තාකල චන්දිමාල්, ටෙස්ට් අර්ධ ශතක 30කට හා ශතක 16කට හිමිකම් කියයි.
+
+ශ්‍රී ලංකාව වෙනුවෙන් ටෙස්ට් ලකුණු 6000 කඩඉම පසුකළ 7වන පිතිකරුවා චන්දිමාල් වන අතර, එම කඩඉම පසුකළ ලොව 74වැනි පිතිකරුවා ඔහු වෙයි.
+
+◼️
+
+[Data](articles/1a40c401.json)
+
+---
+
+### புகையிரத்திலிருந்து தவறி விழுந்த சீன பெண்!
+
+*2024-12-08 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200759) · `ta`
+
+வெள்ளவத்தை - பம்பலப்பிட்டிக்கும் இடையில் 07ஆம் திகதி சனிக்கிழமை பிற்பகல் புகையிரத வாயிலில் தொங்கிய சீன பெண் ஒருவர் தவறி விழுவதை அவரது நண்பரின் கையடக்கத் தொலைபேசியில் பதிவு செய்துள்ளார்.
+
+ரயிலில் தொங்கிய நிலையில் மரக்கிளை ஒன்று தலையில் மோதியதில் ரயிலிலிருந்து தூக்கி வீசப்படுவதை அந்த வீடியோ பதிவில் காணக்கூடியதாகவுள்ளது.
+
+தூக்கி வீசி எறியப்பட்ட குறித்த பெண் புதரில் விழுந்ததால் காயம் ஏதும் ஏற்படவில்லை என பொலிசார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5cc7aceb.json)
+
+---
+
+### ධරණී අභිමානවත් සිව්වන සංවත්සරය සමරයි
+
+*2024-12-08 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204171) · `si`
+
+ශ්‍රී ලංකාවේ කාන්තා පුවත්පත් අතර ඉතා කෙටි කාලයකින් ඉහළ ජනප්‍රසාදයක් දිනූ ධරණී පුවත්පතේ අභිමානවත් සිව්වන සංවත්සර සැමරුම ඊයේ (07) පැවැත්වුණි.
+
+ඒ , ශ්‍රී ලංකා පාර්ලිමේන්තුවේ මහලේකම්වරියගේ ප්‍රධානත්වයෙන් කොළඹ විහාර මහා දේවි උද්‍යානයේදීය.
+
+කාන්තා පුවත්පතකට උරුම වී තිබූ සාම්ප්‍රදායික රාමුවෙන් මිදී විවිධත්වය හා නව්‍යකරණයක් සමග ධරණී පුවත්පත ඇරඹුණේ 2020 වසරේදීය.
+
+මෙරට ව්‍යවසායකයින්ගේ නිෂ්පාදන ප්‍රවර්ධනයට සහ අලෙවි කරගැනීම සඳහා වෙළෙඳ කුටි සහ දරුවන්ගේ කලා දක්ෂතා ඔප්නැංවීම සඳහා වැඩසටහන්ද එහි සංවිධාන කර තිබුණි.
+
+සංවත්සර සැමරුමේ ප්‍රධාන උත්සවය පැවැත්වුණේ ශ්‍රී ලංකා පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණධීර මහත්මිය සහ ලිබර්ටි පබ්ලිෂර්ස් ආයතනයේ නිර්මාතෘ , පාර්ලිමේන්තු මන්ත්‍රී ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙනි.
+
+ඊයේ දිනට යෙදුණු පාර්ලිමේන්තු මහලේකම්වරියගේ උපන් දිනය ද මෙහිදී  සැමරීමට කටයුතු කර තිබුණි.
+
+එහිදී විනිශ්චය මණ්ඩලය විසින් ධරණී කුමරිය ලෙස තෝරාගනු ලැබුවේ ඉසුරි නිම්සරාය.
+
+එමෙන්ම සමාජ මාධ්‍යවලින් වැඩිම මනාප හිමිකරගනිමින් ධරණී ජනප්‍රියම කුමරිය ලෙස තේරී පත්වුණේ අරුණි නිකේෂලාය.
+
+...
+
+[Data](articles/f8e312ab.json)
+
+---
 
 ### Person killed in shooting in Gampaha
 
@@ -879,6 +941,22 @@ The assistance has been provided to reflect the policy of Indian Prime Minister 
 [Data](articles/0a212bcb.json)
 
 [Extended Data](ext_articles/0a212bcb.ext.json)
+
+---
+
+### වතුකරයේ ජනතාවට පාලන මිලටත් අඩුවෙන් සහල්
+
+*2024-12-08 16:41:18* · [`adalk`](https://www.ada.lk/breaking_news/වතුකරයේ-ජනතාවට-පාලන-මිලටත්-අඩුවෙන්-සහල්/11-413522) · `si`
+
+වතුකරයේ ජනතාවට හැටන් සතොස ශාලාව වෙතින් නාඩු සහල් කිලෝවක් රු 220 ක සිල්ලර මිලකට (08) දින සිට අලෙවි කරනු ලබයි.
+
+කීරි සම්බා කිලෝවක් රු 260, රතු කැකුළු රු 210 යන සිල්ලර මිලකට හැටන් සතොස ශාඛාව වෙත පැමිණෙන පාරිභෝගිකයන්ට ලබාදෙන අතර, සෑම පාරිභෝගිකයෙකුටම සහල් කිලෝ පහ බැගින් නිකුත් කරන බවයි හැටන් සතොස ශාඛාවේ නිලධාරින් කියා සිටියේ.
+
+සතොස ශාඛාවට (08) දින අවශ්‍ය තරම් සහල් තොග ලැබි තිබුණු නමුත්, පොල් තොග ලැබි නොමැති බවයි එම නිලධාරින් කියා සිටියේ.
+
+◼️
+
+[Data](articles/c470642c.json)
 
 ---
 
@@ -2413,105 +2491,5 @@ Member Dayasiri Jayasekara presented a concept that would portray the national p
 [Data](articles/0e26d26d.json)
 
 [Extended Data](ext_articles/0e26d26d.ext.json)
-
----
-
-### Rebels declare Damascus ‘free’ as President Bashar al-Assad reportedly flees Syria
-
-*2024-12-08 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104073/rebels-declare-damascus-free-as-president-bashar-al-assad-reportedly-flees-syria) · `en`
-
-Syrian President Bashar al-Assad boarded a plane and left Damascus for an unknown destination on Sunday, two senior army officers told Reuters, as rebels said they had entered the capital with no sign of army deployments.
-
-Thousands in cars and on foot congregated at a main square in Damascus waving and chanting “Freedom”, witnesses said.
-
-“The tyrant Bashar al-Assad has fled” and “we declare the city of Damascus free”, the rebel factions said on Telegram, adding that “after 50 years of oppression under Baath rule, and 13 years of crimes and tyranny and (forced) displacement... we announce today the end of this dark period and the start of a new era for Syria”.
-
-“We celebrate with the Syrian people the news of freeing our prisoners and releasing their chains and announcing the end of the era of injustice in Sednaya prison,” said the rebels.
-
-Sednaya is a large military prison on the outskirts of Damascus where the Syrian government detained thousands.
-
-...
-
-[Data](articles/72b4ec9e.json)
-
-[Extended Data](ext_articles/72b4ec9e.ext.json)
-
----
-
-### Salt production in Sri Lanka falls by 40 percent
-
-*2024-12-08 10:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-உப்பு-உற்பத்தி-40-வீதத்தால்-வீழ்ச்சி/175-348410) · `ta`
-
-Sri Lanka's salt production drops 40% due to weather. Companies request salt imports, but ministry hasn't made a decision yet.
-
-🟩
-
-A spokesman for the Ministry of Commerce, Commerce, Food Safety and Co -operative Development said that salt production has declined in Sri Lanka last year and this year.
-
-The Ministry of Commerce has said that it will take immediate action to investigate the issue.
-
-Due to the inclement weather, salt production in this country has been reduced by 40 percent this year and this year.
-
-Accordingly, the salt companies have asked the Ministry to take necessary steps to import salt as a solution.
-
-The final decision on imports will be taken after reviewing the amount of salt in the country and the required amount of consumption.
-
-However, the Ministry of Commerce, Commerce, Food Security and Co -operative Development said that no decision has been taken on the importation of salt.. Remble
-
-◼️
-
-[Data](articles/a4fdf06e.json)
-
-[Extended Data](ext_articles/a4fdf06e.ext.json)
-
----
-
-### Syrian insurgents enter the capital - President's posts
-
-*2024-12-08 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204153) · `si`
-
-Syrian rebels capture capital, overthrowing Assad regime after decade-long conflict. Insurgents seize key cities, including Hama and Alappa. President flees as rebels control suburbs and Damascus prison. Hezbollah retreats, marking end of 54-year Assad rule.
-
-🟩
-
-With over a decade, the conquest of Alappa and Hama cities in the country, intensifying the war in Syria.
-
-Insurgents also control the city of Hom's capital yesterday (07).
-
-According to the ruling of the capital, many suburbs have been subjected to the rebels control, and is accordingly the Syrian President Basher Al Assad has fled from a private plane.
-
-Experts say that the Syrian Crimes Assad Control has been crashed for 54 years.
-
-It is also said that the Assad stakeholders are trying to flee from the capital.
-
-Steps were also redeemed by the rebels who were toppled to the Damascus Prison, who was the most notorious detainee in Syria.
-
-Hezbollah, who was supporting Syria, was reportedly retreat.
-
-◼️
-
-[Data](articles/f167e8d0.json)
-
-[Extended Data](ext_articles/f167e8d0.ext.json)
-
----
-
-### PHIs launch island-wide inspections ahead of festive season
-
-*2024-12-08 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104072/phis-launch-island-wide-inspections-ahead-of-festive-season) · `en`
-
-The Public Health Inspectors’ Union (PHIU) says that a programme has been initiated to inspect food and beverages sold in areas with high public foot traffic, in preparation for the upcoming festive season.
-
-The president of the association, Upul Rohana, stated that around 1,750 Public Health Inspectors have been deployed for this task.
-
-The association also mentioned that the raw materials used in food production for the festive season will also be inspected.
-
-In addition, he said that since December 01, PHIs have carried out more than 150 raids across the country.
-
-◼️
-
-[Data](articles/0de8cc00.json)
-
-[Extended Data](ext_articles/0de8cc00.ext.json)
 
 ---

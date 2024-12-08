@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 09:33:39**
+As of **2024-12-08 08:46:51**
 
 ## Newspaper Stats
 
-*Scraped **59,014** Articles*
+*Scraped **59,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 601
 bbccomsinhala | 617
-islandlk | 3,555
+islandlk | 3,554
 economynextcom | 3,590
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,591
-adaderanalk | 7,167
+adalk | 5,590
+adaderanalk | 7,166
 tamilmirrorlk | 8,415
 virakesarilk | 9,662
 adaderanasinhalalk | 10,204
@@ -26,99 +26,29 @@ adaderanasinhalalk | 10,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,003 (100.0%) of 59,014 articles have been extended.
+58,999 (100.0%) of 59,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### Showery conditions expected to enhance over several provinces
-
-*2024-12-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104069/showery-conditions-expected-to-enhance-over-several-provinces) · `en`
-
-The Department of Meteorology says the low-pressure area, formed over southeast Bay of Bengal, is likely to intensify further and move west-northwestwards during the next 24 hours.
-
-It is likely to reach over southwest Bay of Bengal off Sri Lanka – Tamil Nadu coasts around December 11.
-
-Under its influence, showery conditions are expected to enhance in the Northern and Eastern provinces from December 10.
-
-The Northeast monsoon condition also expected to establish gradually over the island along with above condition.
-
-Meanwhile, several spells of showers will occur in Northern and Eastern provinces, the Met. Department said.
-
-Showers or thundershowers may occur at several places in Western, and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts during the evening or night.
-
-Fairly heavy showers about 75mm are likely at some places in Western, and Sabaragamuwa provinces and in Galle, and Matara districts, it added.
-
-...
-
-[Data](articles/9a672169.json)
-
----
-
-### Do not hand over the rice rights of the people - President tells rice businesses
-
-*2024-12-08 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාවගේ-සහල්-අයිතියට-අත-තියන්න-එපා---ජනපති-සහල්-ව්‍යාපාරිකයන්ට-තදින්ම-කියයි/11-413508) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential directive: Rice prices capped; consumer protection enforced; subsidies for farmers; low-interest loans for businessmen.
-
-🟩
-
-- White Kalks for Rs. 215
-
-- Wholesale prices of a kilogram of Samba are Rs.335 and the retail price is Rs. 240
-
-- Rs. 255 per kilo of Kiri Samba and retail Rs. 260
-
-Consumer Authority instructs to calculate the amount of rice out of rice mills daily
-
-President Anura Kumara Dissanayake instructed the rice for the retail price of Rs.225 and Rs.
-
-The President informed the Consumer Affairs Authority to enforce the law to the Consumer Protection of Rice Mill Thero, along with the next ten days.
-
-President Anura Kumara Dissanayake made this statement at the Presidential Secretariat yesterday (07).
-
-The President has given the highest investment to the Highways Ministry and that the farmers have been given the most subsidies.
-
-The President recalled that the bank loans have been granted bank loans on low interest facilities to the businessmen, so he said.
-
-The bulk price of a kilo of nadu rice is Rs. 225. The retail price is Rs. 230.
-
-...
-
-[Data](articles/8873f6e1.json)
-
-[Extended Data](ext_articles/8873f6e1.ext.json)
-
----
-
-### Today is the highest rainfall falling
+### இன்று அதிகளவான மழை வீழ்ச்சி
 
 *2024-12-08 08:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகளவான-மழை-வீழ்ச்சி/175-348404) · `ta`
 
-Heavy rainfall warning issued for southern Sri Lanka. Low-pressure system moving west-northwest, may reach southwest Bengal Sea by Dec 11. Increased rain expected in northern and eastern provinces from Dec 10. Thunderstorms forecast for Galle, Matara, Nuwara Eliya, Kandy. Up to 75mm rainfall possible in western and Sabaragamuwa provinces and Galle, Matara districts.
+தென்மேற்கு வங்காள விரிகுடா கடற் பிராந்தியத்தில் குறைந்த காற்றழுத்த தாழ்வு மண்டலம் உருவாகியுள்ளதால், அடுத்த 24 மணி நேரத்தில் மேற்கு - வட மேற்கு திசையில் நகர்ந்து மேலும் வலுவடையும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
 
-🟩
+இந்த காற்றழுத்த தாழ்வு மண்டலம் டிசம்பர் 11ஆம் திகதியளவில் இலங்கை - தமிழ்நாடு கடற்கரையில் தென்மேற்கு வங்கக்கடலை அடைய வாய்ப்புள்ளது.
 
-The Department of Meteorology has said that the low -lying low -lying zone in the southwestern Bengal bay region will be moved in the west -north -west over the next 24 hours.
+இந்த அமைப்பின் தாக்கம் காரணமாக, டிசம்பர் 10 ஆம் திகதி முதல் வடக்கு மற்றும் கிழக்கு மாகாணங்களில் மழை நிலைமைகள் அதிகரிக்கும் என எதிர்பார்க்கப்படுவதுடன், நாடு முழுவதும் வடகிழக்கு பருவமழை படிப்படியாக நிலைபெறும் என எதிர்பார்க்கப்படுகிறது.
 
-This windmill is likely to reach the southwest Bengal Sea on the Sri Lanka -Tamil Nadu coast by December 11.
+இந்நிலையில், மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை, நுவரெலியா மற்றும் கண்டி மாவட்டங்களிலும் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
 
-Due to the impact of the organization, rain conditions are expected to increase in the Northern and Eastern Provinces from December 10, and the northeast monsoon is expected to continue throughout the country.
-
-Rainfall or thunderstorms are expected in the evening or night in Galle, Matara, Nuwara Eliya and Kandy districts.
-
-Meanwhile, the Department of Atmospheric Department said that more than 75 millimeters of rainfall could be reported in some areas in the Western and Sabaragamuwa Provinces and Galle and Matara districts.. (A)
+அதேவேளை, மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகளவான மழைவீழ்ச்சி பதிவாகக்கூடுமெனவும் வளிமண்டலவில் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
 
 ◼️
 
 [Data](articles/8c215241.json)
-
-[Extended Data](ext_articles/8c215241.ext.json)
 
 ---
 
@@ -294,55 +224,33 @@ In the morning, Sabaragamuwa, Southern, Uva, Uva, Uva, Western and Northwestern 
 
 ---
 
-### We are working on the human rights issue of Sri Lanka - the British Government
+### இலங்கையின் மனித உரிமைகள் விவகாரத்தில் தொடர் கரிசனையுடன் செயலாற்றிவருகிறோம் - பிரிட்டன் அரசு
 
 *2024-12-08 05:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200662) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+இலங்கையில் இடம்பெற்ற கடந்தகால மீறல்கள் தொடர்பில் பொறுப்புக்கூறலை உறுதிசெய்வதையும், நல்லிணக்கத்தைக் கட்டியெழுப்புவதையும் முன்னிறுத்தி பிரிட்டன் தொடர்ந்தும் கரிசனையுடன் செயலாற்றிவருவதாகத் தெரிவித்திருக்கும் அந்நாட்டு இந்தோ - பசுபிக் விவகார அமைச்சர் கத்ரின் வெஸ்ட், எதிர்வருங்காலத்தில் தடை விதிக்கப்படக்கூடிய பதவிகள் குறித்த யூகங்களை வெளியிடுவதானது, அத்தடைகளால் ஏற்படக்கூடிய தாக்கங்களைக் குறைத்துவிடும் என சுட்டிக்காட்டியிருக்கிறார்.
 
-
-
-British government concerned about Sri Lanka's human rights issues. Indo-Pacific Affairs Minister Katrin West emphasizes ongoing efforts for reconciliation and accountability. The UK supports international involvement in addressing past violations and promoting human rights in Sri Lanka.
-
-🟩
-
-Indo -Pacific Affairs Minister Katin West, who has said that Britain is continuing to act with concern over the past violations of Sri Lanka and the construction of reconciliation, has pointed out that the publication of the impacts that can be banned in the future will be reduced.
-
-Following the Labor Party's victory in the British general election, the British Tamil Congress sent a letter on July 5 last year to congratulate Kair Starmar. In the letter, the UK urged the British to take steps to prevent the extension of Sri Lanka for further two years and move Sri Lanka towards the International Criminal Justice System.
+பிரிட்டன் பொதுத்தேர்தலில் தொழிற்கட்சியின் வெற்றியை அடுத்து, புதிய பிரதமராகத் தெரிவான கெய்ர் ஸ்டார்மருக்கு வாழ்த்துத்தெரிவித்து பிரித்தானிய தமிழர் பேரவை கடந்த ஜுலை மாதம் 5 ஆம் திகதி கடிதமொன்றை அனுப்பிவைத்திருந்தது. அக்கடிதத்தில், 'எதிர்வரும் செப்டெம்பர்மாத (நடைபெற்றுமுடிந்த) ஜெனிவா கூட்டத்தொடரில் இலங்கை தொடர்பான முன்னைய தீர்மானம் மேலும் இருவருடங்களுக்கு நீடிக்கப்படுவதைத் தடுப்பதற்கும், இலங்கையை சர்வதேச குற்றவியல் நீதிப்பொறிமுறையை நோக்கி நகர்த்திச்செல்வதற்கும் அவசியமான நடவடிக்கைகளை பிரிட்டன் முன்னெடுக்கவேண்டும்' என வலியுறுத்தப்பட்டிருந்தது.
 
 ...
 
 [Data](articles/1bdf8d87.json)
 
-[Extended Data](ext_articles/1bdf8d87.ext.json)
-
 ---
 
-### Do not listen to Lal Kanta's speech;Instruction to the Farmers Ministry of Animal Protection
+### லால் காந்தவின் பேச்சை கேட்டு நெருக்கடிக்குள்ளாக வேண்டாம் ; விலங்கின பாதுகாப்பு அமைச்சு விவசாயிகளுக்கு அறிவுறுத்தல்
 
 *2024-12-08 05:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200659) · `ta`
 
-Here's a summary of 200 characters:
+விவசாய நிலங்களுக்கு வரும் வன விலங்குகளை கட்டுப்படுத்த விவசாயிகள் எந்த நடவடிக்கைகளையும் எடுக்கலாம், சட்ட சிக்கல் ஏதும் கிடையாது என  விவசாயம், கால்நடை வளர்ப்பு அமைச்சர் லால் காந்த குறிப்பிட்டுள்ளமை முற்றிலும் தவறானது. இவரின் கருத்துக்கு அமைய செயற்பட்டு நெருக்கடிக்குள்ளாக வேண்டாம் என்று விவசாயிகளிடம் கேட்டுக் கொள்கிறோம். அமைச்சரின் தவறான கருத்தை அரசாங்கம் மீளப் பெற வேண்டும் என வன விலங்குகள் பாதுகாப்பு அமைப்பின் செயலாளர் நயனக ரன்வல்ல தெரிவித்தார்.
 
+கொழும்பில்  உள்ள வனவிலங்கு பாதுகாப்பு அமைப்பின் காரியாலயத்தில் சனிக்கிழமை (07) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
-
-Minister Lal Kanta advises farmers not to act against wildlife on agricultural land. Environmentalists protest, saying the government should address the issue legally.
-
-🟩
-
-Agriculture and Livestock Minister Lal Magneticism stated that there is no legal issue and there is no legal problem to control wildlife that come to agricultural lands.. We ask the farmers not to act in a crisis in his opinion. Secretary of the Wildlife Protection Organization Nayanaka Ranwalla said the government should recover the minister's misconception.
-
-He made this statement during a media briefing held at the Wildlife Conservation Organization office in Colombo on Saturday (07).
-
-The Minister of Agriculture, Livestock, Land and Irrigation, Cal Land, recently stated in Parliament that farmers can take any measures to control the wildlife coming to agricultural lands.
-
-If farmers can take any steps to control animals, the question arises as to whether to kill animals that come to the farm. Have been disgusted by the activities of wild animals. Against this backdrop, the minister's opinion for the farmers is aimed at making.
+விவசாய நிலங்களுக்கு வரும் வன விலங்குகளை கட்டுப்படுத்த விவசாயிகள் எந்த நடவடிக்கைகளையும் எடுக்கலாம்,  அதனால் எவ்வித சட்ட சிக்கலும் வராது என விவசாயம், கால்நடை வளர்ப்பு, காணி மற்றும் நீர்ப்பாசன அமைச்சர் கால் காந்த அண்மையில் பாராளுமன்றத்தில் குறிப்பிட்டுள்ளமை பாரதூரமானதொரு கருத்தாகும்.
 
 ...
 
 [Data](articles/8aeaa6d1.json)
-
-[Extended Data](ext_articles/8aeaa6d1.ext.json)
 
 ---
 
@@ -415,20 +323,6 @@ Working with S W R D Bandaranaike in the 1956-1959 period had given me the oppor
 [Data](articles/ac7ecf91.json)
 
 [Extended Data](ext_articles/ac7ecf91.ext.json)
-
----
-
-### Two Bhikkhunis – one ancient, the other of the recent past
-
-*2024-12-08 04:09:00* · [`islandlk`](http://island.lk/two-bhikkhunis-one-ancient-the-other-of-the-recent-past/) · `en`
-
-December to me is the month to celebrate women. I presume the reason is that I revere Sanghamitta Theri, daughter of Emperor Asoka, who on request of King Devanampiya Tissa (250 – 210 BC) on behalf of the women in his court, came to Lanka. She brought a sapling from the Gaya Bo Tree under which Siddhartha Gautama solved the riddle of samsaric existence and found a solution. She also started the Bhikkhuni Order in this country; the request being made by Queen Anula, sister-in-law of King Devanampiya Tissa.
-
-Theri Sanghamitta’s arrival in a then port in the Jaffna Peninsula now known as Jambakolapatuna and her being conducted in procession to Anuradhapura occurred in the month of December, hence our observance of Unduvap Poya this month along with Sanghamitta Day.
-
-...
-
-[Data](articles/80121c42.json)
 
 ---
 
@@ -2491,5 +2385,51 @@ The Guest of Honour at the Graduation was Prof. Daniel McCluskey, Dean of the Sc
 [Data](articles/210c5f03.json)
 
 [Extended Data](ext_articles/210c5f03.ext.json)
+
+---
+
+### Aitken Spence Printing celebrates consecutive wins
+
+*2024-12-07 01:27:00* · [`islandlk`](http://island.lk/aitken-spence-printing-celebrates-consecutive-wins/) · `en`
+
+In an impressive display of excellence, Aitken Spence Printing received two ‘Bronze’ awards in the Digital Printing category at two prestigious industry events held in Vietnam and Indonesia. Notably, this recognition is an achievement among other competitors in the South-East Asian region.
+
+The Company’s cutting-edge print quality and exceptional craftsmanship were recognized at the Asian Packaging Excellence Awards (APEA) that was recently held in Ho Chi Minh, Vietnam; followed closely by their success on the Asian Print Awards (APA) in Jakarta, Indonesia that was also held in November 2024. These consecutive wins not only highlight the company’s unwavering commitment to industry standards but also underscore their leadership in the digital printing sector. The awards serve as a powerful testament to the company’s dedication to delivering superior print quality, innovation, and precision, setting them apart as a trailblazer in the highly competitive Asian printing landscape.
+
+...
+
+[Data](articles/2785d2a2.json)
+
+[Extended Data](ext_articles/2785d2a2.ext.json)
+
+---
+
+### Siyapatha Finance expands nationwide reach
+
+*2024-12-07 01:27:00* · [`islandlk`](http://island.lk/siyapatha-finance-expands-nationwide-reach/) · `en`
+
+Siyapatha Finance PLC, a leading finance company in Sri Lanka and a fully owned subsidiary of Sampath Bank PLC, recently opened its 52nd branch at 310/2, Pallegama Road, Main Street, Deniyaya. With this latest branch, Siyapatha Finance continued its commitment to delivering best-in-class financial solutions to communities across the island. The official opening ceremony was graced by Siyapatha Finance PLC’s Managing Director, Ananda Seneviratne, Chief Operating Officer, Rajeev De Silva, and other senior officials, alongside key representatives from local government , private sector institutions, financial institutions and insurance companies in the area.
+
+...
+
+[Data](articles/332df8f4.json)
+
+[Extended Data](ext_articles/332df8f4.ext.json)
+
+---
+
+### Notable performances by manufacturing and plantation sector share counters
+
+*2024-12-07 01:24:00* · [`islandlk`](http://island.lk/notable-performances-by-manufacturing-and-plantation-sector-share-counters/) · `en`
+
+The manufacturing and plantations sectors performed well in the stock market yesterday while the banking sector witnessed a consolidation after recording a rally for several months, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 53.96 points while the S and P SL20 rose by 16.56 points. Turnover stood at approximately Rs 5 billion with nine crossings.
+
+...
+
+[Data](articles/5749e0df.json)
+
+[Extended Data](ext_articles/5749e0df.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 08:46:51**
+As of **2024-12-08 09:42:53**
 
 ## Newspaper Stats
 
-*Scraped **59,011** Articles*
+*Scraped **59,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,179 @@ newsfirstlk | 363
 dbsjeyarajcom | 446
 colombotelegraphcom | 601
 bbccomsinhala | 617
-islandlk | 3,554
+islandlk | 3,555
 economynextcom | 3,590
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,590
-adaderanalk | 7,166
+adalk | 5,591
+adaderanalk | 7,167
 tamilmirrorlk | 8,415
-virakesarilk | 9,662
-adaderanasinhalalk | 10,204
+virakesarilk | 9,666
+adaderanasinhalalk | 10,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-58,999 (100.0%) of 59,011 articles have been extended.
+59,005 (100.0%) of 59,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
 
-### இன்று அதிகளவான மழை வீழ்ச்சி
+### මෙරට ආහාරවල තත්ත්වය ගැන නවතම හෙළිදරව්වක්
+
+*2024-12-08 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204152) · `si`
+
+ආහාරවල තත්ත්වය පරීක්ෂාවට ලෝක සෞඛ්‍ය සංවිධානය විසින් නියම කරනු ලැබූ පරීක්ෂාවන් කිසිවක් සිදුකිරීමට ශ්‍රී ලංකාව මෙතෙක් සමත්ව නොමැති බව මහාචාර්ය කමල් ගම්මන්පිල මහතා පවසයි.
+
+පසුගියදා පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු පැවසුවේ මෙරට තැලසීමියා රෝගයේ සහ වකුගඩු රෝග ව්‍යාප්තියද ඉහළ ගොස් ඇති බවය.
+
+එමෙන්ම අනුරාධපුර ප්‍රදේශයේ අවුරුදු 15-17ත් අතර පාසල් සිසුන් 100ක් අතරින් සිදුකළ පරීක්ෂණයකින් තැලිසීමියා අගය 23.9%ක් වී ඇති බවත් කුරුණෑගල එම අගය 20.6ක් ලෙස සටහන් වී ඇති බවද මහාචාර්යවයරා එම මාධ්‍ය හමුවේදී වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/d7fcf737.json)
+
+---
+
+### தென்கொரியாவில் அரங்கேறிய அரசியல் நாடகம்  - அரச தலைவரின் அடாவடி செயற்பாடுகளுக்குள் மறைந்திருக்கும் தப்பித்தல் மூலோபாயம்
+
+*2024-12-08 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200678) · `ta`
+
+1975ஆம் ஆண்டு தொடக்கம் 1977ஆம் ஆண்டு வரையிலான காலப்பகுதியில் சட்ட ரீதியான சவால்களை எதிர்கொண்டு, ஆர்ப்பாட்டங்களை சமாளிக்க முடியாத சந்தர்ப்பத்தில் இந்திரா காந்தியும் இந்தியாவில் இதனையே செய்தார். தேசிய பாதுகாப்பிற்கு அச்சுறுத்தல் எனக்கூறி அவர் அவசர கால சட்டத்தை பிறப்பித்தார். அதிகாரத்தை தக்க வைப்பது தான் அவரது நோக்கமாக இருந்தது என்பது யாவரும் அறிந்த ரகசியம்.
+
+◼️
+
+[Data](articles/4f4d65dd.json)
+
+---
+
+### சிரியாவில் மீண்டும் வெடித்த மோதல்கள்
+
+*2024-12-08 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200677) · `ta`
+
+லெபனானில் இஸ்ரேலுக்கும் ஹிஸ்புல்லாவுக்கும் இடையே போர்நிறுத்தம் உருவான பின்னணியில் சிரியாவில் தாக்குதல்கள் ஆரம்பமாகியமை, இது உள்நோக்கத்துடன் கூடிய திட்டமிட்ட ஒரு முன்னெடுப்பா என்ற கேள்வி எழுகின்றது. அமெரிக்காவில் புதிய ஜனாதிபதி பதவியேற்க உள்ள நிலையில் தற்போதைய ஜனாதிபதி ஜோ பைடன் உக்ரேன் போரை விரிவடையச் செய்ய நடவடிக்கை எடுத்ததைப் போன்று சிரியாவிலும் நடந்து கொள்ள முயற்சிக்கிறாரா என்ற கேள்வியையும் புறமொதுக்க முடியவில்லை.
+
+◼️
+
+[Data](articles/b302647f.json)
+
+---
+
+### Showery conditions expected to enhance over several provinces
+
+*2024-12-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104069/showery-conditions-expected-to-enhance-over-several-provinces) · `en`
+
+The Department of Meteorology says the low-pressure area, formed over southeast Bay of Bengal, is likely to intensify further and move west-northwestwards during the next 24 hours.
+
+It is likely to reach over southwest Bay of Bengal off Sri Lanka – Tamil Nadu coasts around December 11.
+
+Under its influence, showery conditions are expected to enhance in the Northern and Eastern provinces from December 10.
+
+The Northeast monsoon condition also expected to establish gradually over the island along with above condition.
+
+Meanwhile, several spells of showers will occur in Northern and Eastern provinces, the Met. Department said.
+
+Showers or thundershowers may occur at several places in Western, and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts during the evening or night.
+
+Fairly heavy showers about 75mm are likely at some places in Western, and Sabaragamuwa provinces and in Galle, and Matara districts, it added.
+
+...
+
+[Data](articles/9a672169.json)
+
+[Extended Data](ext_articles/9a672169.ext.json)
+
+---
+
+### ලුණු නිෂ්පාදය සියයට 40කින් පහළට?
+
+*2024-12-08 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204151) · `si`
+
+මෙරට ලුණු නිෂ්පාදනය අඩු වීම සම්බන්ධයෙන් සොයාබැලීමට කටයුතු කරන බව වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යංශය පවසයි.
+
+එහි ප්‍රකාශකයෙකු සඳහන් කළේ පසුගිය වසරේ සහ මේ වසරේ මෙරට ලුණු නිෂ්පාදනය අඩු වී ඇති බවට ලුණු නිෂ්පාදන සමාගම් විසින් වාර්තාවක් ලබාදී ඇති බවය.
+
+ඒ සම්බන්ධයෙන් වහාම සොයාබලා ඊට පිළියම් යෙදීමට පියවර ගන්නා බව වෙළෙඳ අමාත්‍යංශය සඳහන් කළේය.
+
+පැවති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් මෙරට ලුණු නිෂ්පාදනය පසුගිය වසරේ සහ මේ වසරේ සියයට 40කින් පමණ පහළ ගොස් ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව මේ වනවිට රටතුළ නිෂ්පාදනයේ අඩු වීමක් පවතින අතර ඊට පිළියමක් ලෙස ලුණු ආනයනය කිරීමට අවශ්‍ය පියවර ගන්නා ලෙස ලුණු සමාගම් අමාත්‍යංශයෙන් ඉල්ලීමක් කර තිබේ.
+
+අදාළ ඉල්ලීම සම්බන්ධයෙන් වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යංශය දැනුවත් කිරීමට පියවර ගෙන ඇති බව වාර්තා වෙයි.
+
+මෙරට පවතින ලුණු සංචිත පිළිබඳව සහ පරිභෝජනයට අවශ්‍ය ප්‍රමාණය පිළිබඳව අධ්‍යයනය කිරීමෙන් අනතුරුව ආනයනය කිරීම සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/0902f658.json)
+
+---
+
+### Do not hand over the rice rights of the people - President tells rice businesses
+
+*2024-12-08 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාවගේ-සහල්-අයිතියට-අත-තියන්න-එපා---ජනපති-සහල්-ව්‍යාපාරිකයන්ට-තදින්ම-කියයි/11-413508) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Presidential directive: Rice prices capped; consumer protection enforced; subsidies for farmers; low-interest loans for businessmen.
+
+🟩
+
+- White Kalks for Rs. 215
+
+- Wholesale prices of a kilogram of Samba are Rs.335 and the retail price is Rs. 240
+
+- Rs. 255 per kilo of Kiri Samba and retail Rs. 260
+
+Consumer Authority instructs to calculate the amount of rice out of rice mills daily
+
+President Anura Kumara Dissanayake instructed the rice for the retail price of Rs.225 and Rs.
+
+The President informed the Consumer Affairs Authority to enforce the law to the Consumer Protection of Rice Mill Thero, along with the next ten days.
+
+President Anura Kumara Dissanayake made this statement at the Presidential Secretariat yesterday (07).
+
+The President has given the highest investment to the Highways Ministry and that the farmers have been given the most subsidies.
+
+The President recalled that the bank loans have been granted bank loans on low interest facilities to the businessmen, so he said.
+
+The bulk price of a kilo of nadu rice is Rs. 225. The retail price is Rs. 230.
+
+...
+
+[Data](articles/8873f6e1.json)
+
+[Extended Data](ext_articles/8873f6e1.ext.json)
+
+---
+
+### Today is the highest rainfall falling
 
 *2024-12-08 08:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகளவான-மழை-வீழ்ச்சி/175-348404) · `ta`
 
-தென்மேற்கு வங்காள விரிகுடா கடற் பிராந்தியத்தில் குறைந்த காற்றழுத்த தாழ்வு மண்டலம் உருவாகியுள்ளதால், அடுத்த 24 மணி நேரத்தில் மேற்கு - வட மேற்கு திசையில் நகர்ந்து மேலும் வலுவடையும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall warning issued for southern Sri Lanka. Low-pressure system moving west-northwest, may reach southwest Bengal Sea by Dec 11. Increased rain expected in northern and eastern provinces from Dec 10. Thunderstorms forecast for Galle, Matara, Nuwara Eliya, Kandy. Up to 75mm rainfall possible in western and Sabaragamuwa provinces and Galle, Matara districts.
 
-இந்த காற்றழுத்த தாழ்வு மண்டலம் டிசம்பர் 11ஆம் திகதியளவில் இலங்கை - தமிழ்நாடு கடற்கரையில் தென்மேற்கு வங்கக்கடலை அடைய வாய்ப்புள்ளது.
+🟩
 
-இந்த அமைப்பின் தாக்கம் காரணமாக, டிசம்பர் 10 ஆம் திகதி முதல் வடக்கு மற்றும் கிழக்கு மாகாணங்களில் மழை நிலைமைகள் அதிகரிக்கும் என எதிர்பார்க்கப்படுவதுடன், நாடு முழுவதும் வடகிழக்கு பருவமழை படிப்படியாக நிலைபெறும் என எதிர்பார்க்கப்படுகிறது.
+The Department of Meteorology has said that the low -lying low -lying zone in the southwestern Bengal bay region will be moved in the west -north -west over the next 24 hours.
 
-இந்நிலையில், மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை, நுவரெலியா மற்றும் கண்டி மாவட்டங்களிலும் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+This windmill is likely to reach the southwest Bengal Sea on the Sri Lanka -Tamil Nadu coast by December 11.
 
-அதேவேளை, மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகளவான மழைவீழ்ச்சி பதிவாகக்கூடுமெனவும் வளிமண்டலவில் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+Due to the impact of the organization, rain conditions are expected to increase in the Northern and Eastern Provinces from December 10, and the northeast monsoon is expected to continue throughout the country.
+
+Rainfall or thunderstorms are expected in the evening or night in Galle, Matara, Nuwara Eliya and Kandy districts.
+
+Meanwhile, the Department of Atmospheric Department said that more than 75 millimeters of rainfall could be reported in some areas in the Western and Sabaragamuwa Provinces and Galle and Matara districts.. (A)
 
 ◼️
 
 [Data](articles/8c215241.json)
+
+[Extended Data](ext_articles/8c215241.ext.json)
 
 ---
 
@@ -224,33 +360,55 @@ In the morning, Sabaragamuwa, Southern, Uva, Uva, Uva, Western and Northwestern 
 
 ---
 
-### இலங்கையின் மனித உரிமைகள் விவகாரத்தில் தொடர் கரிசனையுடன் செயலாற்றிவருகிறோம் - பிரிட்டன் அரசு
+### We are working on the human rights issue of Sri Lanka - the British Government
 
 *2024-12-08 05:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200662) · `ta`
 
-இலங்கையில் இடம்பெற்ற கடந்தகால மீறல்கள் தொடர்பில் பொறுப்புக்கூறலை உறுதிசெய்வதையும், நல்லிணக்கத்தைக் கட்டியெழுப்புவதையும் முன்னிறுத்தி பிரிட்டன் தொடர்ந்தும் கரிசனையுடன் செயலாற்றிவருவதாகத் தெரிவித்திருக்கும் அந்நாட்டு இந்தோ - பசுபிக் விவகார அமைச்சர் கத்ரின் வெஸ்ட், எதிர்வருங்காலத்தில் தடை விதிக்கப்படக்கூடிய பதவிகள் குறித்த யூகங்களை வெளியிடுவதானது, அத்தடைகளால் ஏற்படக்கூடிய தாக்கங்களைக் குறைத்துவிடும் என சுட்டிக்காட்டியிருக்கிறார்.
+Here's a summary of the text in approximately 200 characters:
 
-பிரிட்டன் பொதுத்தேர்தலில் தொழிற்கட்சியின் வெற்றியை அடுத்து, புதிய பிரதமராகத் தெரிவான கெய்ர் ஸ்டார்மருக்கு வாழ்த்துத்தெரிவித்து பிரித்தானிய தமிழர் பேரவை கடந்த ஜுலை மாதம் 5 ஆம் திகதி கடிதமொன்றை அனுப்பிவைத்திருந்தது. அக்கடிதத்தில், 'எதிர்வரும் செப்டெம்பர்மாத (நடைபெற்றுமுடிந்த) ஜெனிவா கூட்டத்தொடரில் இலங்கை தொடர்பான முன்னைய தீர்மானம் மேலும் இருவருடங்களுக்கு நீடிக்கப்படுவதைத் தடுப்பதற்கும், இலங்கையை சர்வதேச குற்றவியல் நீதிப்பொறிமுறையை நோக்கி நகர்த்திச்செல்வதற்கும் அவசியமான நடவடிக்கைகளை பிரிட்டன் முன்னெடுக்கவேண்டும்' என வலியுறுத்தப்பட்டிருந்தது.
+
+
+British government concerned about Sri Lanka's human rights issues. Indo-Pacific Affairs Minister Katrin West emphasizes ongoing efforts for reconciliation and accountability. The UK supports international involvement in addressing past violations and promoting human rights in Sri Lanka.
+
+🟩
+
+Indo -Pacific Affairs Minister Katin West, who has said that Britain is continuing to act with concern over the past violations of Sri Lanka and the construction of reconciliation, has pointed out that the publication of the impacts that can be banned in the future will be reduced.
+
+Following the Labor Party's victory in the British general election, the British Tamil Congress sent a letter on July 5 last year to congratulate Kair Starmar. In the letter, the UK urged the British to take steps to prevent the extension of Sri Lanka for further two years and move Sri Lanka towards the International Criminal Justice System.
 
 ...
 
 [Data](articles/1bdf8d87.json)
 
+[Extended Data](ext_articles/1bdf8d87.ext.json)
+
 ---
 
-### லால் காந்தவின் பேச்சை கேட்டு நெருக்கடிக்குள்ளாக வேண்டாம் ; விலங்கின பாதுகாப்பு அமைச்சு விவசாயிகளுக்கு அறிவுறுத்தல்
+### Do not listen to Lal Kanta's speech;Instruction to the Farmers Ministry of Animal Protection
 
 *2024-12-08 05:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/200659) · `ta`
 
-விவசாய நிலங்களுக்கு வரும் வன விலங்குகளை கட்டுப்படுத்த விவசாயிகள் எந்த நடவடிக்கைகளையும் எடுக்கலாம், சட்ட சிக்கல் ஏதும் கிடையாது என  விவசாயம், கால்நடை வளர்ப்பு அமைச்சர் லால் காந்த குறிப்பிட்டுள்ளமை முற்றிலும் தவறானது. இவரின் கருத்துக்கு அமைய செயற்பட்டு நெருக்கடிக்குள்ளாக வேண்டாம் என்று விவசாயிகளிடம் கேட்டுக் கொள்கிறோம். அமைச்சரின் தவறான கருத்தை அரசாங்கம் மீளப் பெற வேண்டும் என வன விலங்குகள் பாதுகாப்பு அமைப்பின் செயலாளர் நயனக ரன்வல்ல தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-கொழும்பில்  உள்ள வனவிலங்கு பாதுகாப்பு அமைப்பின் காரியாலயத்தில் சனிக்கிழமை (07) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
-விவசாய நிலங்களுக்கு வரும் வன விலங்குகளை கட்டுப்படுத்த விவசாயிகள் எந்த நடவடிக்கைகளையும் எடுக்கலாம்,  அதனால் எவ்வித சட்ட சிக்கலும் வராது என விவசாயம், கால்நடை வளர்ப்பு, காணி மற்றும் நீர்ப்பாசன அமைச்சர் கால் காந்த அண்மையில் பாராளுமன்றத்தில் குறிப்பிட்டுள்ளமை பாரதூரமானதொரு கருத்தாகும்.
+
+Minister Lal Kanta advises farmers not to act against wildlife on agricultural land. Environmentalists protest, saying the government should address the issue legally.
+
+🟩
+
+Agriculture and Livestock Minister Lal Magneticism stated that there is no legal issue and there is no legal problem to control wildlife that come to agricultural lands.. We ask the farmers not to act in a crisis in his opinion. Secretary of the Wildlife Protection Organization Nayanaka Ranwalla said the government should recover the minister's misconception.
+
+He made this statement during a media briefing held at the Wildlife Conservation Organization office in Colombo on Saturday (07).
+
+The Minister of Agriculture, Livestock, Land and Irrigation, Cal Land, recently stated in Parliament that farmers can take any measures to control the wildlife coming to agricultural lands.
+
+If farmers can take any steps to control animals, the question arises as to whether to kill animals that come to the farm. Have been disgusted by the activities of wild animals. Against this backdrop, the minister's opinion for the farmers is aimed at making.
 
 ...
 
 [Data](articles/8aeaa6d1.json)
+
+[Extended Data](ext_articles/8aeaa6d1.ext.json)
 
 ---
 
@@ -323,6 +481,22 @@ Working with S W R D Bandaranaike in the 1956-1959 period had given me the oppor
 [Data](articles/ac7ecf91.json)
 
 [Extended Data](ext_articles/ac7ecf91.ext.json)
+
+---
+
+### Two Bhikkhunis – one ancient, the other of the recent past
+
+*2024-12-08 04:09:00* · [`islandlk`](http://island.lk/two-bhikkhunis-one-ancient-the-other-of-the-recent-past/) · `en`
+
+December to me is the month to celebrate women. I presume the reason is that I revere Sanghamitta Theri, daughter of Emperor Asoka, who on request of King Devanampiya Tissa (250 – 210 BC) on behalf of the women in his court, came to Lanka. She brought a sapling from the Gaya Bo Tree under which Siddhartha Gautama solved the riddle of samsaric existence and found a solution. She also started the Bhikkhuni Order in this country; the request being made by Queen Anula, sister-in-law of King Devanampiya Tissa.
+
+Theri Sanghamitta’s arrival in a then port in the Jaffna Peninsula now known as Jambakolapatuna and her being conducted in procession to Anuradhapura occurred in the month of December, hence our observance of Unduvap Poya this month along with Sanghamitta Day.
+
+...
+
+[Data](articles/80121c42.json)
+
+[Extended Data](ext_articles/80121c42.ext.json)
 
 ---
 
@@ -1782,6 +1956,32 @@ However, investigations have revealed that the two arrested suspects had come to
 
 ---
 
+### வடக்கின் மீது கண் வைக்கும் சீனா
+
+*2024-12-07 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200633) · `ta`
+
+வடக்கில் சீனா காலூன்ற விரும்புகிறது என்பது நன்றாகத் தெரிகிறது. அதற்கான கதவுகளை அது இப்போதே திறக்கத் தொடங்கி விட்டது. அதனை சீனத் தூதுவர் பகிரங்கமாகவே வெளிப்படுத்தியிருக்கிறார். வடக்கில் குறிப்பாக தமிழர்களை அரவணைப்பதன் மூலம், தேசிய மக்கள் சக்தி அரசாங்கத்தை பாதுகாக்கலாம் என்றும், இந்தியாவுக்குச் சவால் விடலாம் என்றும், சீனா கருதுகிறது. வடக்கில் சீனா தனது செல்வாக்கை அதிகரிப்பதன் மூலம் பிரதானமாக இந்தியாவின் தளத்தை ஆட்டம் காணச் செய்ய முற்படுகிறது. ஆனால், இந்த விடயத்தில் இந்தியா உண்மையிலேயே மெத்தனமாக இருக்கிறதா அல்லது, உறங்கு நிலையில் இருப்பது போல பாசாங்கு செய்கிறதா என்பதை புரிந்து கொள்ள முடியாமல் இருக்கிறது.
+
+◼️
+
+[Data](articles/630617a1.json)
+
+---
+
+### அநுர அரசின் இரண்டு திட்டங்கள்
+
+*2024-12-07 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200631) · `ta`
+
+13ஆவது திருத்தச் சட்டம், தமிழர் பிரச்சினைக்கான தீர்வு இல்லை என்று கூறி, அதனை நிராகரிப்பது, அதனை இல்லாமல் செய்வது தான் தேசிய மக்கள் சக்தியின் இலக்கு. அப்படியானால், தமிழர் பிரச்சினைக்கு என்ன தீர்வு?  அதுபற்றிய எந்த தெளிவான நிலைப்பாடும் தேசிய மக்கள் சக்தியிடம் இல்லை. அப்படியொன்று இருந்தால், அதனை வெளிப்படுத்தியிருக்கும்.  மஹிந்த ராஜபக்ஷ அரசியல் தீர்வு எது என்று எப்படிக் கூறாமல் ஏமாற்றினாலோ அதே பாணியில் தான் தேசிய மக்கள் சக்தியும் செயற்படப் பார்க்கிறது.
+
+தமிழர்களின் இனப் பிரச்சினையை ஏற்றுக் கொள்ளாத தேசிய மக்கள் சக்தி,  இன அடிப்படையில் எதுவும் இல்லை என்று கூறுகின்ற கட்சி,  எப்படி இனப்பிரச்சினைக்கு இது தான் தீர்வு என்று கூற முடியும்?
+
+◼️
+
+[Data](articles/025aa398.json)
+
+---
+
 ### Syrian rebels seize fourth city, close in on Homs in threat to Assad’s rule
 
 *2024-12-07 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104057/syrian-rebels-seize-fourth-city-close-in-on-homs-in-threat-to-assads-rule) · `en`
@@ -2237,199 +2437,5 @@ The husband has been suspected of disappearance of her husband.
 [Data](articles/1e3fea86.json)
 
 [Extended Data](ext_articles/1e3fea86.ext.json)
-
----
-
-### Restoration for the weather in Sri Lanka
-
-*2024-12-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204117) · `si`
-
-Sri Lanka weather forecast: East wind impact increases rain in North and East from Dec 10. Northeast monsoon expected. Thunderstorms in Western, Sabaragamuwa, Southern provinces and Nuwara Eliya, Kandy districts. Lightning accidents possible.
-
-🟩
-
-The Department of Meteorology says that due to the east waiting frustration, the weather in the island will be influenced by the island.
-
-Due to this influence, there is an increase in the North and East from December 10.
-
-The Department also expects to establish the northeast monsoon system through the island.
-
-Accordingly, during the North and East will occur.
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa and Southern provinces and in the Nuwara Eliya and Kandy districts.
-
-However, in other areas, there is a rainy weather.
-
-In many parts of the island, there may be a foader situation in the morning.
-
-The Department of Meteorology calls people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/b8b2ee23.json)
-
-[Extended Data](ext_articles/b8b2ee23.ext.json)
-
----
-
-### HOSLETS TAKES TO DATING AP: How did the romantic meet change?
-
-*2024-12-07 03:12:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c14l2vn55x7o) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Romantic meeting methods have evolved significantly in Sri Lanka. From letter-writing to social media dating apps, technology has transformed how people connect. Online dating platforms like Tinder and Bumble are now popular, offering more choices and convenient communication. The COVID-19 pandemic accelerated this trend, with many preferring virtual meetings over physical ones due to safety concerns and busy lifestyles.
-
-🟩
-
-HOSLETS TAKES TO DATING AP: How did the romantic meet change?
-
-'You think I can find someone to find someone to go to a goat?'
-
-This Reddit has asked the Sri Lanka Sab Redt Group. He was asked if he was revicted with the identification of a young girl through social media.
-
-In response, one had noted that Dietin inputs such as Tinder were already used in Sri Lanka and to try to identify a girl through Facebook.
-
-In another answer, said: "Just forget about social media, and call a girl,"
-
-Take care of your sexual partner naked photo, videos
-
-Datin, or two people have been subjected to many decades in Sri Lanka, like Sri Lanka, as well as in the world.
-
-With the development of technology, the romantic cell culture has changed with the gap between generations and time.
-
-Piyal in the novel, Piyal said he had the comments on Nanda writing by writing. He hid those letters to the letters to read the books, and the naitha read them and hid them in the cupboard.
-
-...
-
-[Data](articles/4667569e.json)
-
-[Extended Data](ext_articles/4667569e.ext.json)
-
----
-
-### Recovery of a person who is fishing in the river
-
-*2024-12-07 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/200627) · `ta`
-
-A man fishing near an air reservoir fell into the water on Friday evening. Another person alerted authorities. After a lengthy search, his body was recovered hours later. He was a father of two from Taranikkulam.
-
-🟩
-
-On Friday evening (6), a person was fishing in the air in the air reservoir, falling into the water.
-
-Another person who observed this had informed the Urmas about the incident. Subsequently, the person in search of the person was carried out by the towns.
-
-After a long search, his body was recovered from the water after a few hours.
-
-The father of two children named Guru, a native of Taranikkulam, has died in the incident.
-
-◼️
-
-[Data](articles/d4ff3112.json)
-
-[Extended Data](ext_articles/d4ff3112.ext.json)
-
----
-
-### “Tamil Classical Aadal-20124” run by Colombo Tamil Association
-
-*2024-12-07 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200626) · `ta`
-
-"Tamil Classical Aadal-2014" summary: 3-day event by Colombo Tamil Association. Key highlights: opening ceremony at Centenary Professor Su Vithyanandan hall, performances by Sivadhatshana Hariharan Mangala Lighting and Shaktika Siri Kumaran, special flower release, first copy received by Literary Host Hashim Umar.
-
-🟩
-
-The three-day event of the "Tamil Classical Aadal-2014" run by the Colombo Tamil Association commenced on Friday evening at the Centenary Professor Professor Su Vithyanandan.
-
-Sivadhatshana Hariharan Mangala Lighting. Shaktika Siri Kumaran's Tamil greeting. Followed by Professor Sabah. Jayarasa. "Tamil Classical Audit: Interference and Growth" was featured.
-
-Followed by a special flower release. The first copy was received by Literary Host Hashim Umar.
-
-◼️
-
-[Data](articles/d555fa0b.json)
-
-[Extended Data](ext_articles/d555fa0b.ext.json)
-
----
-
-### ‘Hotel sector investment in tourism industry exceeding USD 15 billion despite facing stiff challenges’
-
-*2024-12-07 01:29:00* · [`islandlk`](http://island.lk/hotel-sector-investment-in-tourism-industry-exceeding-usd-15-billion-despite-facing-stiff-challenges/) · `en`
-
-President of The Hotels Association of Sri Lanka (THASL) M. Shanthikumar addressing its members at the organization’s 59th anniversary celebrations recently at the ITC ‘Ratnadipa’ said that the hotel sector investment in Sri Lankan tourism today, amounting to over USD 15 billion, is the highest investment by any sector in the tourism industry, while accounting for 70% of the entire tourism-related workforce.
-
-The highest contribution to government coffers is made by our member hotels. It is by way of TDL payments, taxes, levies, license fees and other payments, he said.
-
-‘Our industry has faced many challenges. We have always shown resilience and come out better. The present time, has been the most challenging after four continuous difficult years since 2019, the THASL president said.
-
-...
-
-[Data](articles/1d83df1d.json)
-
----
-
-### Empowering future tech pioneers and digital leaders
-
-*2024-12-07 01:28:00* · [`islandlk`](http://island.lk/empowering-future-tech-pioneers-and-digital-leaders/) · `en`
-
-SLT-MOBITEL Nebula Institute of Technology, the educational arm of SLT-MOBITEL, hosted its annual graduation ceremony on November 8, 2024. The prestigious event took place in the main auditorium of the BMICH, Colombo. Celebrating the achievements of its latest cohort of graduates, the graduation ceremony paved pathways for their future success and aspirations. The convocation was the first graduation ceremony held since the brand’s relaunch setting a significant milestone for the Institute.
-
-The Guest of Honour at the Graduation was Prof. Daniel McCluskey, Dean of the School of Physics, Engineering and Computer Science, University of Hertfordshire, UK who delivered a thought-provoking keynote address.
-
-...
-
-[Data](articles/210c5f03.json)
-
-[Extended Data](ext_articles/210c5f03.ext.json)
-
----
-
-### Aitken Spence Printing celebrates consecutive wins
-
-*2024-12-07 01:27:00* · [`islandlk`](http://island.lk/aitken-spence-printing-celebrates-consecutive-wins/) · `en`
-
-In an impressive display of excellence, Aitken Spence Printing received two ‘Bronze’ awards in the Digital Printing category at two prestigious industry events held in Vietnam and Indonesia. Notably, this recognition is an achievement among other competitors in the South-East Asian region.
-
-The Company’s cutting-edge print quality and exceptional craftsmanship were recognized at the Asian Packaging Excellence Awards (APEA) that was recently held in Ho Chi Minh, Vietnam; followed closely by their success on the Asian Print Awards (APA) in Jakarta, Indonesia that was also held in November 2024. These consecutive wins not only highlight the company’s unwavering commitment to industry standards but also underscore their leadership in the digital printing sector. The awards serve as a powerful testament to the company’s dedication to delivering superior print quality, innovation, and precision, setting them apart as a trailblazer in the highly competitive Asian printing landscape.
-
-...
-
-[Data](articles/2785d2a2.json)
-
-[Extended Data](ext_articles/2785d2a2.ext.json)
-
----
-
-### Siyapatha Finance expands nationwide reach
-
-*2024-12-07 01:27:00* · [`islandlk`](http://island.lk/siyapatha-finance-expands-nationwide-reach/) · `en`
-
-Siyapatha Finance PLC, a leading finance company in Sri Lanka and a fully owned subsidiary of Sampath Bank PLC, recently opened its 52nd branch at 310/2, Pallegama Road, Main Street, Deniyaya. With this latest branch, Siyapatha Finance continued its commitment to delivering best-in-class financial solutions to communities across the island. The official opening ceremony was graced by Siyapatha Finance PLC’s Managing Director, Ananda Seneviratne, Chief Operating Officer, Rajeev De Silva, and other senior officials, alongside key representatives from local government , private sector institutions, financial institutions and insurance companies in the area.
-
-...
-
-[Data](articles/332df8f4.json)
-
-[Extended Data](ext_articles/332df8f4.ext.json)
-
----
-
-### Notable performances by manufacturing and plantation sector share counters
-
-*2024-12-07 01:24:00* · [`islandlk`](http://island.lk/notable-performances-by-manufacturing-and-plantation-sector-share-counters/) · `en`
-
-The manufacturing and plantations sectors performed well in the stock market yesterday while the banking sector witnessed a consolidation after recording a rally for several months, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 53.96 points while the S and P SL20 rose by 16.56 points. Turnover stood at approximately Rs 5 billion with nine crossings.
-
-...
-
-[Data](articles/5749e0df.json)
-
-[Extended Data](ext_articles/5749e0df.ext.json)
 
 ---

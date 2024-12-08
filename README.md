@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 14:27:45**
+As of **2024-12-08 14:15:35**
 
 ## Newspaper Stats
 
-*Scraped **59,078** Articles*
+*Scraped **59,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,596
-adaderanalk | 7,176
-tamilmirrorlk | 8,432
+adaderanalk | 7,175
+tamilmirrorlk | 8,431
 virakesarilk | 9,687
 adaderanasinhalalk | 10,210
 
@@ -26,29 +26,11 @@ adaderanasinhalalk | 10,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,043 (99.9%) of 59,078 articles have been extended.
+59,043 (99.9%) of 59,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
-
-### மனைவி, மாமியாரை மண்டியிடவைத்து கொள்ளை
-
-*2024-12-08 14:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-மாமியாரை-மண்டியிடவைத்து-கொள்ளை/175-348427) · `ta`
-
-போதைப்பொருள் கடத்தல்காரரைக் கொல்வதற்காக மாறுவேடமிட்டு கடத்தல்காரரின் வீட்டுக்குச் சென்றிருந்த நிலையில் அது நிறைவேறாமையால், அவரது மனைவி மற்றும் மனைவியின் தாயாரைக் முழந்தாலிடச் செய்து, நகை, பணம் கொள்ளையடிக்கப்பட்டுள்ளது.
-
-அவ்வாறு பொருட்களை கொள்ளையடித்த, ஏ.எஸ்.பி. புனைப்பெயரால் அழைக்கப்படும் குற்றவாளி உட்பட நால்வர் சில மணித்தியாலங்களில் கைது செய்யப்பட்டதாக மொரட்டுமுல்ல பொலிஸார் தெரிவிக்கின்றனர்.
-
-சந்தேகநபர்களுடன் திருடப்பட்ட தங்க நகைகள், கைத்தொலைபேசிகள், கொள்ளைக்கு பயன்படுத்திய கூரிய ஆயுதங்கள், இரும்பு கம்பி, பாதுகாப்பு தலைக்கவசங்கள், மாறுவேடத்தில் பயன்படுத்திய ஆடைகள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-மொரட்டுமுல்ல வில்லோரவத்தை பிரதேசத்தில் வசிக்கும் பல்வேறு குற்றச்செயல்களுடன் தொடர்புடைய நபரை கொலை செய்வதற்காக கடந்த 6ஆம் திகதி அதிகாலை 2.30 மணியளவில் குறித்த சந்தேகநபர்கள் வீட்டிற்கு வந்து முன்பக்க கதவைத் தட்டியுள்ளனர். கதவைத் திறக்க மறுத்ததால் சமையலறைக் கதவைத் திறந்து உள்ளே நுழைந்துள்ளனர்
-
-...
-
-[Data](articles/d881c69d.json)
-
----
 
 ### உள்ளூராட்சி தேர்தல்: சட்டமா அதிபரிடம் ஆலோசனை
 
@@ -93,24 +75,6 @@ The dark era ended: The Hayat Tahrir al-Shammadi force said in a statement, "We 
 [Data](articles/3ecc8530.json)
 
 [Extended Data](ext_articles/3ecc8530.ext.json)
-
----
-
-### Imported rice stocks to arrive in Sri Lanka next week
-
-*2024-12-08 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104078/imported-rice-stocks-to-arrive-in-sri-lanka-next-week) · `en`
-
-The Essential Food Commodities Importers & Traders Association says that the first shipment of imported rice will arrive in the island next week.
-
-A spokesperson of the association stated that several importers have already placed orders for rice stocks in accordance with the government’s instructions to import rice.
-
-He highlighted that the relevant rice stocks have been ordered from India and Pakistan and that the stocks are expected to arrive within the next week.
-
-On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
-
-...
-
-[Data](articles/a6955ab7.json)
 
 ---
 
@@ -2263,5 +2227,61 @@ Impeaching Yoon required support from two-thirds of the National Assembly, or 20
 ◼️
 
 [Data](articles/ed2cc483.json)
+
+---
+
+### Steps to deliver eggs and chicken without shortage of festive season
+
+*2024-12-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204138) · `si`
+
+Egg and chicken supply strategies for Sri Lanka's festive season: Manufacturers work to meet demand, prices may rise due to increased consumption and higher production costs. Poultry surplus released into market, but potential shortages possible if demand exceeds supply.
+
+🟩
+
+Sri Lanka Animals Association President Ajith Gunasekera says that egg manufacturers are working to the egg products without any deficit.
+
+He was speaking at a media briefing held today (07) and the retail price of an egg is between 35-36 rupees.
+
+However, he said that the price of eggs could increase the demand for the country, as the prices of eggs were determined by the demand and supply of the country.
+
+He also said that the production prices of the egg had gone up due to rising prices of rice and rice.
+
+He said that there is a surplus of poultry production, he has already been released to the poultry market.
+
+He said that the demand for chicken has increased due to the recent adverse weather conditions in the recent past, he said.
+
+He also said that although animal products are continuously maintained in the Sinhala Season, he is able to provide eggs and chicken without shortage.
+
+However, he said that if there is a vegan deficit, it is the responsibility of remedying to address it.
+
+◼️
+
+[Data](articles/12508091.json)
+
+[Extended Data](ext_articles/12508091.ext.json)
+
+---
+
+### Egg - Change in the price of chicken meat?
+
+*2024-12-07 17:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-348398) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Egg prices stable, chicken meat unchanged till Jan: Ajith Gunasekera, SLVA president, assures no shortage during festive season.
+
+🟩
+
+Ajith Gunasekera, president of the Sri Lanka Veterinary Producers Association, said that during the festive season, eggs and meat can be provided to the people without shortage.
+
+He added that the price of eggs and chicken meat would not change until January, he added.R
+
+◼️
+
+[Data](articles/5459c775.json)
+
+[Extended Data](ext_articles/5459c775.ext.json)
 
 ---

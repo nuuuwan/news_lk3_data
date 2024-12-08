@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 13:26:28**
+As of **2024-12-08 13:42:56**
 
 ## Newspaper Stats
 
-*Scraped **59,073** Articles*
+*Scraped **59,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,070
 dailymirrorlk | 4,733
 adalk | 5,595
 adaderanalk | 7,175
-tamilmirrorlk | 8,429
+tamilmirrorlk | 8,430
 virakesarilk | 9,687
 adaderanasinhalalk | 10,210
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,036 (99.9%) of 59,073 articles have been extended.
+59,036 (99.9%) of 59,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### சிரிய தலைநகரை கைப்பற்றிய கிளர்ச்சி படை: ஜனாதிபதி   தப்பியோட்டம்
+
+*2024-12-08 13:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிரிய-தலைநகரை-கைப்பற்றிய-கிளர்ச்சி-படை-ஜனாதிபதி-தப்பியோட்டம்/50-348425) · `ta`
+
+சிரிய ஜனாதிபதி பஷார் அல் - ஆசாத்து தலைநகரை விட்டு விமானத்தில் தப்பியோடியிருக்கும் நிலையில், டாமஸ்கஸைக் கைப்பற்றி விட்டதாக கிளர்ச்சிப் படையினர் ஞாயிற்றுக்கிழமை (08)  அறிவித்துள்ளனர். தலைநகரை விட்டு அரசுப்படைகள் வெளியேறி விட்டதால், டமாஸ்கஸ் நீண்டகால ஆட்சியாளரான ஆசாத்தின் ஆட்சியிலிருந்து விடுவிக்கப்பட்டிருப்பதாக கிளர்ச்சி படையினர் தெரிவித்தனர்.
+
+பஷார் அல் ஆசாத் தப்பியோடிவிட்டார். ஆசாத்தின் கொடுங்கோல் ஆட்சியில் இருந்து டமாஸ்கஸ் விடுவிக்கப்பட்டது என்று நாங்கள் அறிவிக்கிறோம் என்று கிளர்ச்சியாளர்கள் தெரிவித்தனர். இதனிடையே, கடந்த 24 வருடங்களாக சிரியாவை ஆட்சி செய்த அதிபர் பஷார் அல் ஆசாத், விமானத்தில் ஏறி அடையாளம் தெரியாத இடத்துக்கு சென்று விட்டதாக சர்வதேச செய்தி நிறுவனத்திடம் மூத்த ராணுவ அதிகாரிகள் தெரிவித்தனர். ஆசாத்தின் ஆட்சி கவிழ்ந்து விட்டதாக ராணுவத் தளபதி அதிகாரிகளிடம் தெரிவித்ததாகவும் கூறப்படுகிறது.
+
+...
+
+[Data](articles/3ecc8530.json)
+
+---
 
 ### கண்டியில் மின்சாரம் தாக்கி ஒருவர் பலி
 
@@ -2221,25 +2235,5 @@ According to the first innings of Sri Lanka, South Africa began in the second in
 [Data](articles/82631d12.json)
 
 [Extended Data](ext_articles/82631d12.ext.json)
-
----
-
-### Sri Lanka President meets US diplomat Donald Lu
-
-*2024-12-07 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-us-diplomat-donald-lu-192780/) · `en`
-
-ECONOMYNEXT – Visiting US Assistant Secretary Donald Lu has met Sri Lanka’s President Anura Dissanayake.
-
-“We discussed the US’s support for Sri Lanka’s anti-corruption efforts, recovery of stolen funds, and strengthening our economy and sovereignty,” Dissanayake said on social media platform X after the two met on Saturday at the Presidential Secretariat.
-
-“I emphasized fostering a transparent political culture, uplifting rural living standards, and modernizing public services.”
-
-Lu met with other government officials and the opposition leader on Friday. (Colombo/Dec7/2024)
-
-◼️
-
-[Data](articles/92735b3e.json)
-
-[Extended Data](ext_articles/92735b3e.ext.json)
 
 ---

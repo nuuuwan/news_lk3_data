@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 22:42:43**
+As of **2024-12-08 23:00:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,223
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,139 (100.0%) of 59,142 articles have been extended.
+59,141 (100.0%) of 59,142 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Police said that the unidentified gunmen have arrived on a motorcycle and opened
 ◼️
 
 [Data](articles/a9af561d.json)
+
+[Extended Data](ext_articles/a9af561d.ext.json)
 
 ---
 
@@ -137,6 +139,8 @@ The event was graced by Prime Minister, Dr. Harini Amarasuriya and Minister of F
 ...
 
 [Data](articles/01c46e80.json)
+
+[Extended Data](ext_articles/01c46e80.ext.json)
 
 ---
 

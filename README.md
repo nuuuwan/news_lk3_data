@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-08 15:13:26**
+As of **2024-12-08 16:15:03**
 
 ## Newspaper Stats
 
-*Scraped **59,085** Articles*
+*Scraped **59,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 3,555
 economynextcom | 3,591
 dailyftlk | 4,070
 dailymirrorlk | 4,733
-adalk | 5,599
+adalk | 5,600
 adaderanalk | 7,177
-tamilmirrorlk | 8,435
-virakesarilk | 9,687
-adaderanasinhalalk | 10,210
+tamilmirrorlk | 8,437
+virakesarilk | 9,689
+adaderanasinhalalk | 10,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,050 (99.9%) of 59,085 articles have been extended.
+59,066 (100.0%) of 59,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-08 (Sunday)
+
+### Foreigners happiness with coconut enemies'
+
+*2024-12-08 15:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-எதிரிகளுடன்-வெளிநாட்டவர்-மகிழ்ச்சி/175-348432) · `ta`
+
+Coconut shortage blamed on monkeys. Prices soar. Government denies monkey involvement. Foreigners enjoy monkey encounters at Ravana Ella Falls.
+
+🟩
+
+There is a severe shortage of coconuts in the country. One of the coconut is sold for Rs 220 to Rs 300. Half -lid coconut in a few stores is currently being sold. It is rare to see coconut sambala.
+
+Many of the monkeys blame the main cause of coconut shortage. Speaking recently in Parliament, Agriculture and Livestock Minister Lal Kantha "Monkey Terrorism" said that the country has fallen into the country.
+
+However, the government says that the coconut shortage of the monkeys is caused by the eating of coconuts.. If so, did the monkeys live in the country last year?So?TV Sanaka, the MP of the Sri Lanka PA, was asking for the monkeys not to be guilty.
+
+In this case, foreign tourists are happy with monkeys near the Ravana Ella Falls near the Ravana Ella Wildlife Sanctuary.
+
+◼️
+
+[Data](articles/3def2926.json)
+
+[Extended Data](ext_articles/3def2926.ext.json)
+
+---
+
+### The gang leader arrested in Canada
+
+*2024-12-08 14:58:50* · [`adalk`](https://www.ada.lk/breaking_news/ආවා-කල්ලියේ-නායකයා-කැනඩාවේදී-අල්ලයි/11-413516) · `si`
+
+Sri Lankan suspect Prasanna Nellavellangamum arrested in Canada for France murder. International warrant issued. To be extradited for further investigation.
+
+🟩
+
+A Sri Lankan person named the gang leader was arrested by the gang leader.
+
+A 32-year-old suspect, a 32-year-old suspect known as Prasanna Nellavellangamum, has been arrested in connection with the murder of France.
+
+The suspect is a few murders in Sri Lanka and the international warrants have been issued to arrest him.
+
+The Canadian security forces states that the suspect is due to be handed over to France further investigations.
+
+◼️
+
+[Data](articles/7ac973d1.json)
+
+[Extended Data](ext_articles/7ac973d1.ext.json)
+
+---
 
 ### Relief worth 300 million from Japan
 
@@ -51,6 +99,28 @@ Japanese Ambassador to Sri Lanka Isomata Akio officially handed over the goods t
 [Data](articles/263bab66.json)
 
 [Extended Data](ext_articles/263bab66.ext.json)
+
+---
+
+### Rs. 300 million relief from Japan
+
+*2024-12-08 14:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிலிருந்து-ரூ-300-மில்லியன்-நிவாரணம்/175-348430) · `ta`
+
+Japan provides Rs. 300 million aid to Sri Lanka. Emergency supplies arrive at Bandaranaike Airport. Ambassador hands over goods to local authorities for distribution.
+
+🟩
+
+The Japanese government is approximately Rs.. 300 million worth of relief.
+
+Emergency items coordinated by the Japanese Embassy in Sri Lanka and the Japan International Cooperation Organization (JICA) arrived at the Bandaranaike International Airport (BIA) on Saturday.
+
+Japanese Ambassador to Sri Lanka Isomata Akio officially handed over the goods to local authorities. Relief items will be distributed by the District Secretaries of the District Secretaries.
+
+◼️
+
+[Data](articles/ba461259.json)
+
+[Extended Data](ext_articles/ba461259.ext.json)
 
 ---
 
@@ -103,6 +173,30 @@ Commenting on this, DIG Shanmukha Padu Sundaram told the 'Hindu Tamil Direction'
 [Data](articles/3ad4eb53.json)
 
 [Extended Data](ext_articles/3ad4eb53.ext.json)
+
+---
+
+### One person dies in suspicious
+
+*2024-12-08 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200710) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Body found in house, death under investigation. Police suspect foul play. Magistrate to probe circumstances.
+
+🟩
+
+Warakapola police said that the body of a person was found in a house in Dulhiyya area in the Warakapola police division yesterday (07).
+
+The death investigation officer has informed the police that the death of the death of the death of the dead body was suspected of the death and that the magistrate should investigate the death.
+
+◼️
+
+[Data](articles/05d4eec8.json)
+
+[Extended Data](ext_articles/05d4eec8.ext.json)
 
 ---
 
@@ -192,6 +286,70 @@ Meanwhile, the Elections Commission's Chairman said that the local government el
 
 ---
 
+### Drivers arrested for robbery of gold
+
+*2024-12-08 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204158) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+4 suspects arrested for robbing taxi drivers wearing gold. Police found stolen goods worth Rs. Suspects from Rakwana, Maradana, Badulla.
+
+🟩
+
+Four suspects have been arrested for microbially robbed the drivers weoring gold items in the taxi.
+
+The suspects were arrested by the South Criminal Division yesterday.
+
+The robbery has taken place to drink a drug driver and drink a drug driver into the three-wheeler.
+
+Police have also been able to find a stock of pimensions worth of approximately Rs.
+
+The suspects were revealed that the suspects were illegally liberated in 15 police divisions.
+
+The suspects were among the residents of Rakwana, Maradana, Badulla and 37-38 in their residence.
+
+◼️
+
+[Data](articles/2adef136.json)
+
+[Extended Data](ext_articles/2adef136.ext.json)
+
+---
+
+### Five arrested in Vavuniya
+
+*2024-12-08 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200720) · `ta`
+
+Here's a summary of the article in 200 characters:
+
+
+
+"5 arrested in Vavuniya sword incident investigation; suspects to face court"
+
+🟩
+
+Vavuniya police said that five people have been arrested in connection with the sword incident in the Vavuniya area.
+
+Kudalist (46 years old) died in the sword incident in Vavuniya, Chemamadu, Ilamarathangulam area last day.
+
+Omanthai police, who investigated the incident, arrested the driver of the vehicle that was traveling in the sword.
+
+The Vavuniya District Criminal Investigation Division and the Omanthai Criminal Investigation Police are investigating the incident and five persons have been arrested in connection with the incident.
+
+Five youths from Vavuniya, Ukkulangulam, Kumangulam and Velankulam areas were arrested.
+
+After further investigations, the police said the suspects would be brought to court.
+
+◼️
+
+[Data](articles/32787a8e.json)
+
+[Extended Data](ext_articles/32787a8e.ext.json)
+
+---
+
 ### Rebel for Syrian capital: President escapes
 
 *2024-12-08 13:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிரிய-தலைநகரை-கைப்பற்றிய-கிளர்ச்சி-படை-ஜனாதிபதி-தப்பியோட்டம்/50-348425) · `ta`
@@ -235,6 +393,34 @@ On December 03, the Cabinet of Ministers approved the proposal to allow the impo
 [Data](articles/a6955ab7.json)
 
 [Extended Data](ext_articles/a6955ab7.ext.json)
+
+---
+
+### One involved in several murders arrested in Canada
+
+*2024-12-08 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204157) · `si`
+
+Sri Lankan man arrested in Canada for murders in Sri Lanka and France. Wanted internationally since 2021. To be extradited to France.
+
+🟩
+
+A Sri Lankan has been arrested in Canada, which was said to be the leader of the gang leader in Jaffna.
+
+The Canadian media reported that 32-year-old is known as Prasanna Nallalengam or Ajanthan Subramanian.
+
+The suspect, who was wanted to a murder in France in 2022, is a person involved in several murders in Sri Lanka.
+
+Accordingly, the security forces of the country has issued international warrants to arrest the suspect.
+
+The Canadian security forces have been arrested by the Canadian security for the US, France, from Sri Lanka since the year 2021.
+
+The Canadian security forces have stated that the suspect is due to hand over to France.
+
+◼️
+
+[Data](articles/e4ea2e3d.json)
+
+[Extended Data](ext_articles/e4ea2e3d.ext.json)
 
 ---
 
@@ -284,21 +470,27 @@ Two people were arrested on charges of sharing old films as a Heroes Day event i
 
 ---
 
-### ඕස්ට්‍රේලියානුවන් හමුවේ ඉන්දියාවට කඩුලු 10ක පරාජයක්
+### India defeated India's 10 wickets in the face of Australians
 
 *2024-12-08 12:51:08* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියානුවන්-හමුවේ-ඉන්දියාවට-කඩුලු-10ක-පරාජයක්/9-413515) · `si`
 
-සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව පැවති දෙවන ටෙස්ට් ක්‍රිකට් තරගයෙන් කඩුලු 10ක් විශිෂ්ඨ ජයක් අත් කර ගැනීමට ඕස්​ට්‍රේලියානු කණ්ඩායම අද (08දා) සමත් විය.
+Australia won the 2nd Test vs India by 19 runs. Chasing 190, Aus reached 209/1 in 38.5 overs. India scored 180 & 175 in two innings.
 
-ජයග්‍රාහී ලකුණු 19ක ඉලක්කයක් හඹාගිය ඕස්ට්‍රේලියානු කණ්ඩායම පන්දුවාර 3යි පන්දු 2ක් අවසානයේ කිසිවෙකු නොදැවී ලකුණු 19ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+🟩
 
-මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 180ක් රැස් කළා අතර, ඊට පිළිතුරු ඉනිම ඕස්ට්‍රේලියානු කණ්ඩායම පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 337ක් රැස් කළේය.
+The Oz Traineron won 10 wickets in the second Test match against the tourist Indian team.
 
-අනතුරුව දෙවන ඉනිම ක්‍රීඩා කළ ඉන්දීය කණ්ඩායමට සියල්ලන් දැවී රැස් කර ගත හැකි වූයේ ලකුණු 175ක් පමණී. ඒ අනුව ඕස්ට්‍රේලියාවට ලකුණු 19ක පහසු ජයග්‍රාහී ඉලක්කයක් හිමි විය.
+Chasing a target of 19 winning marks, Australia won the match with 19 overs.
+
+Batting first India scored 180 runs for the first innings and innings was 337 runs for the first innings.
+
+The second innings were then won by 175 runs. Australia won a 19-run winning goal.
 
 ◼️
 
 [Data](articles/7a4ac1a2.json)
+
+[Extended Data](ext_articles/7a4ac1a2.ext.json)
 
 ---
 
@@ -378,15 +570,21 @@ The functions of the National People's Power in the North and East will be quest
 
 ---
 
-### අහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට ජපානයෙන් ආධාර
+### Japan aids people affected by the weather weather
 
 *2024-12-08 12:39:35* · [`adalk`](https://www.ada.lk/breaking_news/අහපත්-කාලගුණයෙන්-පීඩාවට-පත්-ජනතාවට-ජපානයෙන්-ආධාර/11-413514) · `si`
 
-අයහපත් කාලගුණ තත්ත්වයෙන් පීඩාවට පත්වූ මෙරට ජනතාව සඳහා බෙදාහැරීම වෙනුවෙන් රුපියල් මිලියන 300ක පමණ වටිනාකමින් යුතු ආධාර තොගයක් ජපාන රජය විසින් මෙරටට ලබාදී තිබේ.
+Japan provides Rs. 300 million aid for weather relief efforts.
+
+🟩
+
+The Japanese government has given a large haul of Rs. 300 million to distribute the distribution of the inclement weather.
 
 ◼️
 
 [Data](articles/3b4f55cb.json)
+
+[Extended Data](ext_articles/3b4f55cb.ext.json)
 
 ---
 
@@ -428,6 +626,8 @@ Distribution of the relevant materials were carried out yesterday (07), benefiti
 
 [Data](articles/a3f8a39c.json)
 
+[Extended Data](ext_articles/a3f8a39c.ext.json)
+
 ---
 
 ### Youth killed
@@ -456,17 +656,27 @@ The body was sent to the Hambantota General Hospital for the autopsy report afte
 
 ---
 
-### கதிர்காமம் வாவியில் நீரில் மூழ்கி இளைஞன் பலி!
+### Youth killed in water in Kadirgamam
 
 *2024-12-08 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200702) · `ta`
 
-கதிர்காமம் பொலிஸ் பிரிவுக்குட்பட்ட செல்லக் கதிர்காமம் பகுதியில் உள்ள அக்கரவிஸ்ஸ வாவியில் நேற்று சனிக்கிழமை (07) படகு கவிழ்ந்து இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக கதிர்காமம் பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-இதில் படகில் பயணித்த மூன்று நண்பர்கள் நீந்தி கரை சேர்ந்துள்ளதாகவும் படகினை செலுத்தியவர் நீரில் மூழ்கி இறந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+
+
+"Youth drowns in Kadirgamam after boat crash. Three friends swimming when driver loses control, causing accident."
+
+🟩
+
+Kadirgamam police said that a youth was drowned after a boat crashed into the Akkaravisa Wavi in ​​the Kadirgamam police division of the Kadirgamam police division.
+
+Three friends who were traveling in the boat were swimming and the driver of the boat was drowned, police said.
 
 ◼️
 
 [Data](articles/5d767653.json)
+
+[Extended Data](ext_articles/5d767653.ext.json)
 
 ---
 
@@ -624,37 +834,55 @@ The father of the attacker, the father of the attacker, has been arrested by the
 
 ---
 
-### நாவுல பகுதியில் காட்டு யானை தாக்கி ஒருவர் உயிரிழப்பு
+### A wild elephant strikes in Naula area
 
 *2024-12-08 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200705) · `ta`
 
-நாவுல பொலிஸ் பிரிவுக்குட்பட்ட போகஸ் பொபெல்ல பகுதியில் காட்டு யானை தாக்கி நபர் ஒருவர் உயிரிழந்துள்ளதாக நாவுல பொலிஸார் தெரிவித்தனர்.
+Wild elephant attack kills man in Naula area. Incident occurred near Bogus Bobella. Victim returning home when struck by elephant.
 
-இவர் அப்பகுதியில் உள்ள உறவினர் வீட்டிலிருந்து வீடு திரும்பிக்கொண்டிருந்தபோது காட்டு யானை தாக்குதலுக்கு இலக்காகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+Naula police said that a person was killed by a wild elephant in the Bogus Bobella area of ​​the Naula Police Division.
+
+The wild elephant was attacked while he was returning home from a relative's house in the area, police said.
 
 ◼️
 
 [Data](articles/aa338428.json)
 
+[Extended Data](ext_articles/aa338428.ext.json)
+
 ---
 
-### பதவிய துப்பாக்கிச் சூடு - மூவர் கைது!
+### Public firing - trio arrested!
 
 *2024-12-08 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200700) · `ta`
 
-அநுராதபுரம், பதவிய பொலிஸ் பிரிவுக்குட்பட்ட போகஹவெவ பிரதேசத்தில் கடந்த வியாழக்கிழமை (05) இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் மேலும் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a 200-character summary:
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் 26 மற்றும் 30 வயதுடைய மஹியங்கனை மற்றும் எஹடுகஸ்வெவ பிரதேசங்களை சேர்ந்தவர்கள் ஆவர்.
 
-இந்து துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் கிரியிப்பன்வெவ பிரதேசத்தைச் சேர்ந்த 42 வயதுடைய பிரதான சந்தேக நபர் ஒருவர் புல்மோட்டை விசேட அதிரடிப்படையினரால் வெலிஓய பகுதியில் வைத்து கைது செய்யப்பட்டிருந்தார்.
 
-அந்த நபரிடம் இருந்து T56 ரக துப்பாக்கி மற்றும் ரிவோல்வர் ஒன்றும் கைப்பற்றப்பட்டுள்ளதோடு, நீதிமன்ற உத்தரவைப் பெற்று பொலிஸ் தடுப்புக் காவலில் வைத்து விசாரணை செய்வதற்காக வெலிஓயா பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+Arrests made in Bogawewa shooting: 2 suspects (26, 30) from Mahiyangana, Ehudukaswewa; main suspect (42) from Kirippanwewa. T56 rifle and revolver seized. Motorcycle involved. Investigation ongoing.
 
-துப்பாக்கிச் சூடு நடத்துவதற்காக மோட்டார் சைக்கிளில் சென்ற துப்பாக்கிதாரி மற்றும் மோட்டார் சைக்கிள் ஓட்டுநர் ஆகிய இருவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-...
+Two more people have been arrested in connection with the shooting incident which took place last Thursday night in Bogawewa, which belongs to the Anuradhapura and Public Police Division.
+
+The arrested suspects are from Mahiyangana and Ehudukaswewa, aged 26 and 30.
+
+A 42 -year -old main suspect from Kirippanwewa area has been arrested in connection with the Hindu shooting incident by the Special Task Force in Pulmottai.
+
+The T56 rifle and a revolver have been seized from the man and the Welioya has been handed over to the police to obtain a court order and investigate the police detention.
+
+Police said both a motorcycle and motorcycle driver had been arrested on a motorcycle for shooting.
+
+In addition, it has been revealed that the T56 rifle from the suspect who is being investigated on the basis of arrests has been used for the crime.
+
+◼️
 
 [Data](articles/90c3f13e.json)
+
+[Extended Data](ext_articles/90c3f13e.ext.json)
 
 ---
 
@@ -674,25 +902,33 @@ Similarly, the Kurunegala district recorded a prevalence rate of 20.6%, he noted
 
 [Data](articles/19cea6eb.json)
 
+[Extended Data](ext_articles/19cea6eb.ext.json)
+
 ---
 
-### ආපදාවෙන් විපතට පත් මෙරට ජනතාවට ජපානයෙන් ආධාර
+### Japan helped people affected by disaster
 
 *2024-12-08 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204155) · `si`
 
-අයහපත් කාලගුණ තත්ත්වයෙන් පීඩාවට පත්වූ ජනතාව සඳහා බෙදාහැරීම වෙනුවෙන් රුපියල් මිලියන 300ක පමණ වටිනාකමින් යුතු ආධාර තොගයක් ජපාන රජය විසින් මෙරටට ලබාදී තිබේ.
+Japan provides Rs. 300 million aid for disaster relief. Commodity transport arrives at Katunayake airport. Distribution to be handled by District Secretaries. India also offers assistance to Northern Province residents affected by inclement weather. Subsidies distributed to 2100 families in Vesalem, Thunukkai, and Manthai.
 
-මෙරට ජපාන තානාපති කාර්යාලයේ හා ජයිකා ආයතනයේ මැදහත්වීමෙන් පරිත්‍යාග කළ එම ආධාර තොගය රැගත් විශේෂ භාණ්ඩ ප්‍රවාහන යානය ඊයේ (07) රාත්‍රී කටුනායක ගුවන් තොටුපලට පැමිණ ඇති අතර එහිදී මෙරට බලධාරීන් වෙත ඒවා භාරදීම සිදුව ඇති බවද සඳහන් වේ.
+🟩
 
-එම ආධාර තොගය පසුගියදා ඇතිවූ ආපදා තත්ත්වයෙන් පීඩාවට පත් ජනතාව සඳහා බෙදාහැරීම වෙනුවෙන් අදාළ දිස්ත්‍රික් ලේකම්වරුන් වෙත ලබාදීමට නියමිතයි.
+The Japanese government has given a large haul of Rs. 300 million to distribute the inclement weather.
 
-මේ අතර අයහපත් කාලගුණ තත්ත්වයෙන් පීඩාවට පත්වූ උතුරු පළාතේ ජනතාව සඳහා ඉන්දීය රජය විසින් ද සහනාධාර තොගයක් ලබාදී තිබේ.
+It is said that a special commodity transport from the country's Japanese embassy and the incident of Julyan country has arrived at the Katunayake airport yesterday (07).
 
-පේසාලේ, වෙල්ලන්කුලම්, තුනුක්කායි හා මාන්තෙයි යන ප්‍රදේශවල පීඩාවට පත් පවුල් 2100ක් සඳහා එම සහනාධාර බෙදාහැරීම ඊයේ දිනයේ සිදුකර තිබුණි.
+The suspects will be given to the District Secretaries to distribute the disaster affected people recently.
+
+Meanwhile, the Indian government has provided relief to the people of the Northern Province who affected the inclement weather.
+
+The distribution of subsidies were distributed yesterday for 2100 families affected by Vesalem, Thunukkai and Manthai.
 
 ◼️
 
 [Data](articles/09aa01c2.json)
+
+[Extended Data](ext_articles/09aa01c2.ext.json)
 
 ---
 
@@ -786,15 +1022,25 @@ Accordingly, the salt production companies have requested the government approva
 
 ---
 
-### மதுபானசாலை அனுமதிப்பத்திரம் சிபாரிசுகளில் தொடரும் மர்மம் ; அரசியல் காய்நகர்த்தும் அநுர
+### The mystery that continues in the recommendations of the liquor school;Political
 
 *2024-12-08 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200692) · `ta`
 
-இந்திய விஜயத்தை நிறைவு செய்து நாடு திரும்பிய ரணில் விக்கிரமசிங்க, ஐக்கிய தேசிய கட்சியின் அதிகாரிகள் குழு மற்றும் இளைய தலைவர்களை சந்தித்து கலந்துரையாடினர். 'நடைபெற்று முடிந்த பாராளுமன்ற மற்றும் ஜனாதிபதி தேர்தல் முடிவுகள் இரு விடயங்களை வெளிப்படுத்துகின்றன. கட்சி அரசியல் முறைமையை மக்கள் நிராகரித்துள்ளனர். இதில் ஆச்சரியப்படுவதற்கு ஒன்றும் இல்லை. 2020 ஆம் ஆண்டிலிருந்து நாட்டின் பொறுப்புக்களை யாரும் ஏற்கவில்லை. குறிப்பாக, ஒற்றை பாராளுமன்ற உறுப்பினர் அரசாங்கத்தை உருவாக்கும் நிலை ஏற்பட்டது. இந்த நிலைமை ஏற்பட்டிருக்க கூடாது. கட்சி முறைமையானது முறையாக செயல்பட்டிருந்தால் இவ்வாறு ஏற்பட்டிருக்காது
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's election results show rejection of party politics. Ranil Wickremesinghe criticizes UNP leadership. He emphasizes need for responsible governance, citing 2020 as a turning point. Wickremesinghe suggests single-party parliament formation due to party system failures.
+
+🟩
+
+Ranil Wickremesinghe, who returned to the country after completing his visit to India, met with a group of United National Party (UNP) officials and younger leaders. 'The ongoing parliamentary and presidential election results reveal two matters. People have rejected party political system. There is nothing to surprise in this. No one has accepted the country's responsibilities since 2020. In particular, a single parliamentarian was formed by the government. This situation should not have occurred. This would not have occurred if the party system had acted properly
 
 ◼️
 
 [Data](articles/04fd730e.json)
+
+[Extended Data](ext_articles/04fd730e.ext.json)
 
 ---
 
@@ -810,11 +1056,11 @@ Accordingly, the salt production companies have requested the government approva
 
 ---
 
-### ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුවෙන් නිවේදනයක්
+### ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවෙන් නිවේදනයක්
 
 *2024-12-08 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204154) · `si`
 
-සංගණන කටයුතු සඳහා නිවාස වෙත පැමිණෙන  ගණන් ගැනීමේ නිලධාරීන්ට අවශ්‍ය තොරතුරු ලබාදීමට කිසිදු බියක් ඇති කරගත යුතු නැතැයි බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+සංගණන කටයුතු සඳහා නිවාස වෙත පැමිණෙන  ගණන් ගැනීමේ නිලධාරීන්ට අවශ්‍ය තොරතුරු ලබාදීමට කිසිදු බියක් ඇති කරගත යුතු නැතැයි බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
 
 එම දෙපාර්තමේන්තුව අධ්‍යක්ෂ ජනරාල් අනෝජා සෙනෙවිරත්න මහත්මිය පවසා සිටියේ, සංගණන කටයුතු සඳහා පැමිණෙන නිලධාරීන්ට ඇතැම් නිවාසවලින් තොරතුරු ලබානොදීමේ තත්ත්වයක් වාර්තා වී ඇති බවය.
 
@@ -2073,209 +2319,5 @@ Five students who were studying this time this time were traveling on the boat, 
 [Data](articles/12f6c618.json)
 
 [Extended Data](ext_articles/12f6c618.ext.json)
-
----
-
-### President's Action Resolution on Rice Price
-
-*2024-12-07 22:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-விலை-தொடர்பில்-ஜனாதிபதியின்-அதிரடி-தீர்மானம்/175-348400) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Pres. Anura Kumara Dissanayake orders rice mills: sell 1kg @ 225/230LKR retail. Warns action within 10 days if not compliant. Prices: white rice (215/220), imported (220), samba (235/240), sales (255/260) LKR."
-
-🟩
-
-President Anura Kumara Dissanayake has issued a directive to the owners of the rice mill to provide consumers for 225 rupees and 230 rupees of retail.
-
-The President has informed the Consumer Authority that the law will be actively implemented against the owners of the rice mill, which is contrary to the next ten days.
-
-President Anura Kumara Dissanayake made this statement at a discussion with officials and rice traders of the Ministry of Commerce, Trade, Food Safety and Cooperative Development.
-
-The total price of a kilo of rice is 225 rupees. Retail price is 230 rupees.
-
-The total price of a kilo of white rice is 215 rupees. Retail price is 220 rupees.
-
-The retail price of one kilogram of rice imported is 220 rupees.
-
-The total price of a kilo of samba is 235 rupees. Retail Price 240 rupees.
-
-A kilogram of sales of sales per kg of 255 rupees. Retail price is 260 rupees.
-
-◼️
-
-[Data](articles/a0fc8fa1.json)
-
-[Extended Data](ext_articles/a0fc8fa1.ext.json)
-
----
-
-### Rice mafia is revealed
-
-*2024-12-07 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204144) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Rice mafia exposed: Main mill owners artificially inflate Keerai Samba prices, then buy from farmers at lower rates. This disrupts market balance, causing shortages. SLAF proposes implementing 4 categories of rice from Jan 1 to combat this issue."
-
-🟩
-
-According to the National Rice Federation, Foreign Rice Federation (SLAF) chariot Federation (SLAFT) says that four rice should be implemented from January to 4 January.
-
-Speaking to the media, he described the way he was going on the rice mafia.
-
-"The main rice mill owners raise the price of Keera Samba prices for two or three years. Moving to cultivate farmers in the next season when the price of Kerra Samba is in the next season, Keera Samba reduces the price of prices. When the lower mill owners fill in stores. Selling it and sells it at a very high price. It breaks the balance balance with the help of these main mill owners. So there is a shortage of nadu rice at this time. Therefore, it has to be operating hard to 4 categories of rice from January to 2 rice. "
-
-◼️
-
-[Data](articles/6117d9a5.json)
-
-[Extended Data](ext_articles/6117d9a5.ext.json)
-
----
-
-### Here is the reason why the coconut harvest this year
-
-*2024-12-07 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204143) · `si`
-
-Coconut harvest decline due to political factors, climate change, pests, and animal damage. Annual consumption: 1.8 billion nuts. Yield fell 30%. Key affected areas: Kurunegala, Puttalam, Ratnapura. Pest damage: 10-15%. Chairman estimates over 200 million nuts lost due to animal damage.
-
-🟩
-
-Politicals have now become a major topic in the market.
-
-The government has to intervene, the coconut shortage and high price.
-
-How did the coconuts that we have bonded from history from history?
-
-Therefore, coconut milk is used to prepare food in every home and the annual consumption of the country is 1800 million coconut nuts.
-
-Accordingly, one person will take 105 coconuts per year per year.
-
-The annual coconut yield for local consumers and exports is 3 billion.
-
-However, the coconut yield has fallen by 30 percent this year.
-
-The main reasons for declining coconut yield is the reduction of animal damage, climate change, pest damage and fertilizer.
-
-Out of these coconut cultivation was caused by monkey, affordation and punishment.
-
-Over 400,000 hectares of coconut cultivated land in the country, 20% of them have been destroyed.
-
-...
-
-[Data](articles/406e4e01.json)
-
-[Extended Data](ext_articles/406e4e01.ext.json)
-
----
-
-### President sets maximum retail and wholesale prices for rice
-
-*2024-12-07 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104067/president-sets-maximum-retail-and-wholesale-prices-for-rice) · `en`
-
-Following a discussion with rice traders, President Anura Kumara Dissanayake has directed new maximum retail and wholesale price limits for various rice types, according to the President’s Media Division (PMD).
-
-President Dissanayake has directed rice traders to sell Nadu rice to consumers at a wholesale price of Rs. 225 per kilo and a retail price of Rs. 230 per kilo.
-
-The President also instructed the officials Consumer Affairs Authority to closely monitor the situation over the next ten days and strictly enforce the law against rice mill owners who fail to comply with the fixed prices.
-
-President Dissanayake made these remarks during a meeting with officials from the Ministry of Trade, Commerce, Food Security and Cooperative Development, along with rice traders, at the Presidential Secretariat today (07), the PMD said.
-
-...
-
-[Data](articles/5ab806d2.json)
-
-[Extended Data](ext_articles/5ab806d2.ext.json)
-
----
-
-### President decides regarding rice stocks
-
-*2024-12-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204142) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake instructs rice prices: Nadu Rs. 230, White Rs. 220, Samba Rs. 240, Kiri Samba Rs. 260. Orders Consumer Affairs Authority to enforce laws and monitor daily rice stocks. Invites businessmen to collaborate on rice-related issues.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed rice for the businessmen to provide a kilo of nadu rice at Rs. 230 and Rs. 230 rupees.
-
-The President informed the Consumer Affairs Authority to enforce the law to the Consumer Protection of Rice Mill Thero, along with the next ten days.
-
-President Anura Kumara Dissanayake made this statement at the Presidential Secretariat today (07) with the officers and rice businessmen of the Ministry of Trade, Commerce, Food Safety and Co-operative Development.
-
-The President has given the highest investment to the Highways Ministry and that the farmers have been given the most subsidies.
-
-The President recalled that the bank loans have been granted bank loans on low interest facilities to the businessmen, so he said.
-
-The bulk price of a kilo of nadu rice is Rs. 225. The retail price is Rs. 230.
-
-The bulk price of a kilo of white ruling is Rs. 215. The retail price is 220.
-
-The stock price of a kilogram of Samba is Rs.335.  සිල්ලර මිල රුපියල්  240යි.
-
-...
-
-[Data](articles/79679910.json)
-
-[Extended Data](ext_articles/79679910.ext.json)
-
----
-
-### Teen drowns, 4 rescued as boat capsizes in Akkara Wissa Wewa
-
-*2024-12-07 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104066/teen-drowns-4-rescued-as-boat-capsizes-in-akkara-wissa-wewa) · `en`
-
-A small boat has reportedly capsized with five children on board in the Akkara Wissa Wewa at Sellakataragama.
-
-According to the police, a 19-year-old boy was confirmed dead, while four others were rescued by villagers.
-
-The accident, which took place at around 5:45 p.m., resulted in the death of a 19-year-old youth, Pramod, a resident of Sellakataragama.
-
-It has been reported that all five individuals aboard the boat had recently completed their G.C.E. Advanced Level examination.
-
-The body of the deceased has been placed in the Kataragama District Hospital.
-
-◼️
-
-[Data](articles/a72b9ace.json)
-
-[Extended Data](ext_articles/a72b9ace.ext.json)
-
----
-
-### Warning to fishermen and maritime employees
-
-*2024-12-07 19:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்கள்-மற்றும்-கடல்சார்-ஊழியர்களுக்கு-எச்சரிக்கை/175-348399) · `ta`
-
-Here's a summary of the warning in 200 characters:
-
-
-
-Fishermen & maritime workers: Low-pressure system forming SW Bengal Bay. Expect gusts up to 60 km/h, heavy rainfall. Zone moving W/NW in 24 hours. Rainfall to increase in Northern & Eastern Provinces from 10th onwards.
-
-🟩
-
-The Department of Meteorology has requested that the fishermen and maritime employees have issued a statement issued by the Department of Fishermen and Maritime employees as the low -lying low -lying region has been formed in the Southwest Bengal Bay Region.
-
-Due to the low winds, the paddy surfaces are likely to blow up to 60 kilometers per hour and heavy rainfall, the department said in a renewed report.
-
-This low -lying zone will move to the west and northwestern direction in the next 24 hours.
-
-Meanwhile, the Department of Meteorology has stated that rain is expected to increase in the Northern and Eastern Provinces from the 10th of this month.. Remble
-
-◼️
-
-[Data](articles/a5a86fc8.json)
-
-[Extended Data](ext_articles/a5a86fc8.ext.json)
 
 ---

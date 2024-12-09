@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 13:26:28**
+As of **2024-12-09 13:43:55**
 
 ## Newspaper Stats
 
-*Scraped **59,250** Articles*
+*Scraped **59,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,612
 adaderanalk | 7,204
-tamilmirrorlk | 8,459
+tamilmirrorlk | 8,460
 virakesarilk | 9,720
-adaderanasinhalalk | 10,241
+adaderanasinhalalk | 10,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,222 (100.0%) of 59,250 articles have been extended.
+59,230 (100.0%) of 59,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
+
+### විදුලිබල මණ්ඩල සේවකයින්ගේ ප්‍රසාද දීමනාව ගැන අවසන් තීරණය
+
+*2024-12-09 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204194) · `si`
+
+ජාතික ජන බලවේගයට සම්බන්ධ ලංකා විදුලි සේවක සංගමය විදුලිබල මණ්ඩලයේ සේවකයින්ට ප්‍රසාද දීමනාව ලබාදෙන ලෙස ඉල්ලා සිටියද, එවැනි ප්‍රසාද දීමනාවක් මේ අවස්ථාවේදී ලබා නොදීමට ලංකා විදුලිබල මණ්ඩලයේ අධ්‍යක්ෂ මණ්ඩලය තීරණය කර තිබේ.
+
+මෙම වසරේ ලංකා විදුලිබල මණ්ඩලය විශාල ලාභයක් ලැබුවද, එම මුදල් ණය ආපසු ගෙවීම් සහ විදුලිබිල අඩු කිරීම සඳහා යොදවා ඇති බව එහි අධ්‍යක්ෂ මණ්ඩලය අවධාරණය කරයි.
+
+ලංකා විදුලිබල මණ්ඩලය ලාභ ලබන තත්ත්වයකට පත්ව ඇති බැවින් දෙසැම්බර් 10 වැනිදාට පෙර සේවක ප්‍රසාද දීමනාව ලබාදීමට පියවර ගන්නා ලෙස ලංකා විදුලි සේවක සංගමය, විදුලිබල මණ්ඩලයේ සභාපතිවරයාගෙන් පසුගියදා ඉල්ලීමක් කළේය.
+
+ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් එම සංගමයේ ප්‍රධාන ලේකම් රංජන් ජයලාල් මහතා කියා සිටියේ පැවති ආණ්ඩු යටතේ වසර දෙකක් විදුලිබල මණ්ඩලයේ සේවකයින්ට ප්‍රසාද දීමනාව නොලැබුණද, වර්තමානයේ තම වෘත්තීය සමිතිය නියෝජනය කරන ආණ්ඩුවක් බලයට පත්ව ඇති බැවින් ප්‍රසාද දීමනාව අනිවාර්යයෙන්ම සේවකයන්ට ලබාදිය යුතු බවය.
+
+...
+
+[Data](articles/c19a3cbd.json)
+
+---
+
+### கிட்டத்தட்ட 1000 வேட்பாளர்கள் அறிக்கைகளை சமர்ப்பிக்கவில்லை
+
+*2024-12-09 13:34:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிட்டத்தட்ட-1000-வேட்பாளர்கள்-அறிக்கைகளை-சமர்ப்பிக்கவில்லை/175-348479) · `ta`
+
+2024ஆம் ஆண்டு டிசம்பர் 06ஆம் திகதியுடன் முடிவடைந்த காலக்கெடுவிற்குள் ஒப்படைக்கப்பட்ட 2024 பாராளுமன்றத் தேர்தல் தொடர்பான வருமானம் மற்றும் செலவு அறிக்கைகளின் தொகுப்பை தேசிய தேர்தல் ஆணைக்குழு வெளியிட்டுள்ளது.
+
+தேர்தல் ஆணைக்குழுவின் அறிக்கையின்படி, தேர்தலில் போட்டியிட்ட அனைத்து அரசியல் கட்சிகளைச் சேர்ந்த 8361 வேட்பாளர்களிடமிருந்து மொத்தம் 7412 வருமானம் மற்றும் செலவு அறிக்கைகள் ஒப்படைக்கப்பட்டுள்ளன.
+
+இதேவேளை, சுயேச்சை அரசியல் குழுக்களில் போட்டியிட்ட 690 வேட்பாளர்களிடமிருந்து 493 செலவு அறிக்கைகள் கையளிக்கப்பட்டுள்ளன.
+
+பெயரிடப்பட்ட 527 தேசியப் பட்டியல் உறுப்பினர்களில், 434 நபர்கள் மட்டுமே தங்கள் வருமானம் மற்றும் செலவு அறிக்கைகளை கையளித்துள்ளனர்.
+
+◼️
+
+[Data](articles/87a8bdd5.json)
+
+---
+
+### එජාප හිටපු නාගරික මන්ත්‍රීට එරෙහි අතුරු තහනම් නියෝගය දීර්ඝ කෙරේ
+
+*2024-12-09 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204193) · `si`
+
+මරදාන අලෙවි මවුලානා ප්‍රජා ශාලාව ආශ්‍රිතව අනවසර ඉදිකිරීම් සිදුකිරීම වළක්වාලමින් පනවා තිබෙන අතුරු තහනම් නියෝගය අප්‍රේල් මස 01 වනදා දක්වා දීර්ඝ කරන ලෙස අභියාචනාධිකරණය අද (0+) නියෝග කළේය.
+
+◼️
+
+[Data](articles/75b35d99.json)
+
+---
 
 ### Antibiotics that cascade in life
 
@@ -79,6 +127,8 @@ The letter further states that they are waiting with anticipation to see what ac
 ...
 
 [Data](articles/f38a7f44.json)
+
+[Extended Data](ext_articles/f38a7f44.ext.json)
 
 ---
 
@@ -338,6 +388,8 @@ Commenting on the recent return of Sri Lankan colonial-era artifacts looted by t
 
 [Data](articles/9d81c713.json)
 
+[Extended Data](ext_articles/9d81c713.ext.json)
+
 ---
 
 ### There is no coconut sambal on toast roads
@@ -380,17 +432,25 @@ No arrests have been made in relation to the discovery as of yet, while the pist
 
 [Data](articles/4a0c058e.json)
 
+[Extended Data](ext_articles/4a0c058e.ext.json)
+
 ---
 
-### வவுனியா கோவில் குளத்தில் முதியவரின் சடலம்!
+### Elderly body body in Vavuniya temple pond
 
 *2024-12-09 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200781) · `ta`
 
-வவுனியா கோவில்குளம் சந்தி அருகில் அமைந்துள்ள கடைத்தொகுக்கு முன்பாக முதியவர் ஒருவரின் சடலம் இன்று திங்கட்கிழமை (09) காலை கண்டுபிடிக்கப்பட்டதாக வவுனியா பொலிஸார் தெரிவித்தனர்.
+Body of elderly man found in Vavuniya temple pond. Police investigation ongoing near Kovilkulam junction.
+
+🟩
+
+Vavuniya police said that the body of an elderly man was found this morning (09) in front of the shop located near the Kovilkulam junction of Vavuniya.
 
 ◼️
 
 [Data](articles/7828f882.json)
+
+[Extended Data](ext_articles/7828f882.ext.json)
 
 ---
 
@@ -408,21 +468,29 @@ National Coordinator of CENS, Environmentalist Dr. Ravindra Kariyawasam, emphasi
 
 [Data](articles/7816a0cf.json)
 
+[Extended Data](ext_articles/7816a0cf.ext.json)
+
 ---
 
-### பிரேசில் நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி வெல்லம்பிட்டியில் மீட்பு!
+### Rescue in Brazil
 
 *2024-12-09 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200774) · `ta`
 
-கொழும்பு, வெல்லம்பிட்டி, மீதொட்டமுல்ல சுகாதார வைத்திய அதிகாரியின் அலுவலக கட்டிடத்திற்கு பின்புறம் உள்ள கொள்கலன் ஒன்றின் கீழ் மிகவும் சூட்சுமமான முறையில் மறைத்து வைக்கப்பட்டிருந்த பிரேசிலில் தயாரிக்கப்பட்ட துப்பாக்கி மற்றும் இரண்டு மகசீன்கள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸ் விசேட அதிரடிப்படையினர் தெரிவித்துள்ளது.
+Brazilian police seize firearm, magazines from office building. Suspect underworld involvement.
 
-பொலிஸ் விசேட அதிரடிப்படையின் புலனாய்வு பிரிவு அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே இந்த பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+🟩
 
-இந்த இடத்தில் பாதாள உலக கும்பலின் தலைமையில் இந்த பொருட்களை இவ்வாறு மறைத்து வைத்திருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+The Special Task Force (STF) said that the gun and two magazines made in Brazil, which was very subtle hidden under a container behind the office building of the office of the Health Officer of the Methotamullai, Colombo, Wellampitiya, Colombo, have been seized in Brazil.
+
+These items were seized during a roundup of confidential information received by the Investigation Unit of the Police Special Task Force.
+
+Police suspect that these items may be hidden by the underworld gang.
 
 ◼️
 
 [Data](articles/ac1aa3a3.json)
+
+[Extended Data](ext_articles/ac1aa3a3.ext.json)
 
 ---
 
@@ -450,19 +518,29 @@ The CSDDD, introduced last year, requires companies in EU-bound supply chains to
 
 ---
 
-### கஜேந்திரகுமார் பொன்னம்பலம் பயணித்த ஜீப் வாகனத்தில் மோதி யாசகப் பெண் உயிரிழப்பு!
+### Gajendrakumar Ponnambalam
 
 *2024-12-09 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200780) · `ta`
 
-யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் பயணித்த ஜீப் வாகனத்தில் மோதி யாசகப் பெண் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (8) உயிரிழந்ததாக வென்னப்புவ பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் நேற்றைய தினம் கொழும்பிலிருந்து யாழ்ப்பாணம் நோக்கி ஜீப் வாகனத்தில் பயணித்துக்கொண்டிருந்தபோது பாதசாரி கடவையில் பயணித்த யாசகப் பெண் ஒருவர் மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
 
-இந்த விபத்து தொடர்பில் ஹுன்னஸ்கிரிய பிரதேசத்தைச் சேர்ந்த 60 வயதான ஜீப் வாகனத்தின் சாரதி பொலிஸாரால் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர், பிணையில் விடுவிக்கப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+A woman died in a jeep accident in Ponnambalam. MP Gajendrakumar Ponnambalam was nearby. The 60-year-old driver was arrested, released on bail.
+
+🟩
+
+Yall. Wennappuwa police said that a woman was killed on Sunday (8) in a jeep that was traveling in a jeep traveling in Ponnambalam.
+
+Yall. District Parliamentarian Gajendrakumar Ponnambalam was traveling from Colombo to Jaffna to Jaffna yesterday.
+
+The driver of a 60 -year -old jeep from Hunnkiriya area was arrested by the police and released on bail after being produced in court.
 
 ◼️
 
 [Data](articles/c91888ad.json)
+
+[Extended Data](ext_articles/c91888ad.ext.json)
 
 ---
 
@@ -512,23 +590,29 @@ The passport can be obtained in a one -day service until 10 pm on weekdays under
 
 ---
 
-### ලොහාන් රත්වත්තේ පෙත්සම ඉල්ලා අස්කර ගනී
+### Lohan Ratwatte withdraws petition
 
 *2024-12-09 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204188) · `si`
 
-ඉකුත්දා මිරිහාන ප්‍රදේශයේ නිවසක තිබී නීතිවිරෝධී ලෙස එකලස් කරන ලද වාහනයක් සොයා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් තමන්ව අත්අඩංගුවට ගැනීම නීතිවිරෝධී බවට තීන්දු කරන ලෙස ඉල්ලා හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ  මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සම අද අභියාචනාදීකරණය වෙතින් ඉල්ලා අස්කර ගත්තේය.
+Lohan Ratwatte withdraws court appeal over illegal vehicle arrest in Mirihana area. President's Counsel Sanjay Rajaratnam represents him. Court of Appeal dismisses the petition.
 
-මෙම පෙත්සම අද (09) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එහිදී ලොහාන් රත්වත්තේ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සංජේ රාජරත්නම් මහතා අධිකරණයට දන්වා සිටියේ, තම සේවාදායකයාට මේ වන විට ඇප ලැබී ඇති බවය.
+Former State Minister LAAON Ratwatte, who was sent to declare the arrest of an illegal vehicle was to be illegal in the Mirihana area recently withdrew from the appeal.
 
-ඒ අනුව මෙම පෙත්සම තවදුරටත් පවත්වාගෙන යාමට අපේක්ෂා නොකරන බවත් එය ඉල්ලා අස්කර ගැනීමට අවසර දෙන ලෙසත් ජනාධිපති නීතිඥවරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
+The petition was called before the Court of Appeal today (09).
 
-එම ඉල්ලීම පිළිගත් අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා අදාළ පෙත්සම ඉල්ලා අස්කර ගැනීමට අවසර දෙමින් එය නිෂ්ප්‍රභ කිරීමට තීන්දු කළේය.
+President's Counsel Sanjay Rajaratnam informed the court on behalf of Mr. Lohan Ratwatte.
+
+Accordingly, the petition is not expected to continue to sustain the petition and to permit it to withdraw it.
+
+The president of the Court of Appeal Court, the president of the Court of Appeal, decided to dismiss the petition.
 
 ◼️
 
 [Data](articles/d65e4576.json)
+
+[Extended Data](ext_articles/d65e4576.ext.json)
 
 ---
 
@@ -2207,85 +2291,5 @@ Therefore, the government should take steps to avoid the proper procurement proc
 [Data](articles/d5262949.json)
 
 [Extended Data](ext_articles/d5262949.ext.json)
-
----
-
-### There is no confidence in the government - missing relatives informed the Deputy Secretary of State Switzerland
-
-*2024-12-08 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200741) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Lack of trust in government over missing relatives inquiry. Swiss diplomat meets families, but no progress on investigations or justice mechanisms. Government accused of deception and inaction on war-era disappearances.
-
-🟩
-
-When our relations surrendered in four places - Anandapuram, Vattuvagal, Devipuram and Omanthai, the government headed by the President Anurakumara, who was on duty, has first asked the Missing Relatives to interrogate and confidently confidently appealed to TM Enderlin, the Secretary of State for Switzerland.
-
-Tim Enderlin, Secretary of State for the Federal Department of Foreign Affairs of Switzerland, who visited Sri Lanka, made a two -day visit to the North.
-
-He had met with relatives of the missing persons in Kilinochchi yesterday evening.
-
-The meeting was attended by Switzerland's Assistant Secretary of State, Dr. Srivold, Switzerland's Ambassador to Sri Lanka, Justin Polliot, First Secretary of Human Defense and Senior Officer of the National Program, Susanthi Gopala Krishnan.
-
-...
-
-[Data](articles/1b6339b5.json)
-
-[Extended Data](ext_articles/1b6339b5.ext.json)
-
----
-
-### Representatives of Tamil National Party meet with Swiss embassy officials
-
-*2024-12-08 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200756) · `ta`
-
-Swiss officials meet Tamil party reps in Jaffna. Discuss Sri Lanka's ethnic issue & new govt under Pres. Anurakumara. Attendees: Swiss diplomats, TNA leaders. Meeting focuses on political solutions.
-
-🟩
-
-Swiss government officials discussed the political solution to the national ethnic problem of Sri Lanka and the current political situation with representatives of Tamil national parties.
-
-The meeting took place on Saturday evening at a private hostel in Jaffna.
-
-The Tamil party's position on solving the national ethnic problem of Sri Lanka and the talks with the new government headed by President Anurakumara were discussed in detail.
-
-The meeting was attended by Rim Enderlin, Assistant Secretary of the Swiss Foreign Affairs Department and Chairman of the Peace and Human Rights Unit, Siri Volre, Sri Lanka's Swiss Ambassador to Sri Lanka, Jesrin Poyla, the Chief Secretary of the Swiss Embassy in Sri Lanka, Susanthi Gopalakrishnan.
-
-MPs C. Sreedharan and P. Satyalingam on behalf of the Sri Lanka Tamil National Alliance (TNA), MP Selvam Adakkalanathan on behalf of the Democratic Tamil National Alliance and former MP Selvarasa Gajendran on behalf of the Tamil National People's Front.
-
-◼️
-
-[Data](articles/dd7022a5.json)
-
-[Extended Data](ext_articles/dd7022a5.ext.json)
-
----
-
-### The young man who went to wash the motorcycle losing lives
-
-*2024-12-08 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204166) · `si`
-
-Young man washing motorcycle falls into well, dies. Police report incident in Panapitiya, Kalutara. Victim, 18, from Mahiyanganaya.
-
-🟩
-
-A youth who came to the well to wash his motorcycle with friends, fell into the well and died.
-
-The bucket has fallen into the well, when the motorcycle is being saved and the young man fell into the well and fell to the girl.
-
-Police said that the accident had occurred this evening in the Panapitiya, Kalutara.
-
-The victim was an 18 year old resident of Mahiyanganaya.
-
-He had arrived in Panapitiya area in Kalutara yesterday (07) to attend an interview with two friends.
-
-◼️
-
-[Data](articles/4448988d.json)
-
-[Extended Data](ext_articles/4448988d.ext.json)
 
 ---

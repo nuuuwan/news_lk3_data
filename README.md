@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 17:11:46**
+As of **2024-12-09 17:26:33**
 
 ## Newspaper Stats
 
@@ -138,9 +138,11 @@ Turnover was 4.4 billion. Major contributing sectors were diversified financials
 
 Large volumes were traded in Asia Asset Finance (up at 21.00), Ambeon Capital (up at 22.90), and John Keells Hotels (up at 20.80).
 
-Top positive contributors to the ASPI were Hayleys (up at 116.00), LOLC Holdings (up at 476.75), Hatton National Bank (up at 242.00), Central Finance (up at 139.75), and Lanka IOC (up at 116.75). (Colombo/Dec9/2024)
+Top positive contributors to the ASPI were Hayleys (up at 116.00), LOLC Holdings (up at 476.75), Hatton National Bank (up at 242.00), Central Finance (up at 139.75), and Lanka IOC (up at 116.75).
 
-◼️
+Top turnover generators were Hayleys, Asia Asset Finance, Ambeon Capital, JKH, and Beruwala Resorts (up at 4.00).
+
+...
 
 [Data](articles/a89e37bb.json)
 

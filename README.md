@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 05:51:59**
+As of **2024-12-09 07:31:44**
 
 ## Newspaper Stats
 
-*Scraped **59,164** Articles*
+*Scraped **59,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 617
-islandlk | 3,555
+islandlk | 3,566
 economynextcom | 3,593
 dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,606
 adaderanalk | 7,185
-tamilmirrorlk | 8,446
+tamilmirrorlk | 8,448
 virakesarilk | 9,711
 adaderanasinhalalk | 10,225
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,164 (100.0%) of 59,164 articles have been extended.
+59,166 (100.0%) of 59,177 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,42 @@ Police said two men on a motorbike were shot dead on a motorcycle.
 [Data](articles/2340be9f.json)
 
 [Extended Data](ext_articles/2340be9f.ext.json)
+
+---
+
+### உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் கைது
+
+*2024-12-09 03:06:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டுத்-துப்பாக்கியுடன்-ஒருவர்-கைது/175-348457) · `ta`
+
+கிளிநொச்சி - ஜெயபுரம் பொலிஸ் பிரிவுக்குட்பட்ட வீரபாண்டிய முனை பகுதியில் உள்நாட்டுத் துப்பாக்கியைக் கைவசம் வைத்திருந்த சந்தேகநபர் ஒருவர்  கைது செய்யப்பட்டுள்ளார்.
+
+ஜெயபுரம் பொலிஸ் நிலைய அதிகாரிகள் குழுவுக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/99a5d9ad.json)
+
+---
+
+### Rescue of the woman's body from the well
+
+*2024-12-09 03:03:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றுக்குள்-இருந்து-பெண்ணின்-சடலம்-மீட்பு/175-348456) · `ta`
+
+Body of 42-year-old mother recovered from well in Point Pedro. Son found dead earlier. Family of three left grieving.
+
+🟩
+
+Yall. The body of a family woman has been recovered from the public sector covered with a wire net in the Kalovalam - Varathupalai area in the Point Pedro Police Division.
+
+When her family was searching for her mother yesterday afternoon, his son was found dead in a well -covered well -covered area.
+
+The body is the 42 -year -old mother of Vimalan Sindhu, the mother of three children.
+
+◼️
+
+[Data](articles/4cc4c7a1.json)
+
+[Extended Data](ext_articles/4cc4c7a1.ext.json)
 
 ---
 
@@ -832,6 +868,52 @@ The arrested suspect is 46 years old from Tangolla.
 
 ---
 
+### Nestlé Lanka honoured at Best Corporate Citizen Sustainability Awards 2024
+
+*2024-12-08 18:53:00* · [`islandlk`](http://island.lk/nestle-lanka-honoured-at-best-corporate-citizen-sustainability-awards-2024/) · `en`
+
+Nestlé Lanka was honoured with numerous accolades at the Best Corporate Citizen Sustainability Awards 2024, walking away with seven awards in several categories including, First Runners Up – Best Corporate Citizen Sustainability Award 2024, Top Ten Best Corporate Citizens, Triple Bottom Line Award – Environmental Sustainability (Planet), Sector Award – Manufacturing, Category Award – Supplier Relations, and two awards in Consistent Commitment and Continuous Improvement for Environmental Integration and Employee Relations. Widely considered Sri Lanka’s highest corporate honour, the Best Corporate Citizen Sustainability Awards, organized by the Ceylon Chamber of Commerce, recognizes sustainability champions who operate with a strong focus on people, planet, and profit.
+
+...
+
+[Data](articles/5df993be.json)
+
+---
+
+### AIA honoured as a Wellness Champion for 2024
+
+*2024-12-08 18:52:00* · [`islandlk`](http://island.lk/aia-honoured-as-a-wellness-champion-for-2024/) · `en`
+
+AIA Insurance has won the Sri Lanka Great Place to Work® (GPTW) first ever workplace wellness award. Honoured as a Wellness Champion for 2024 in the inaugural list that celebrates organisations that prioritise employee health and wellbeing, AIA was the only insurance company to win this award.
+
+This accolade reflects AIA’s dedication to fostering a workplace that supports the physical and mental wellness of every team member, aligning with the company’s overarching purpose of helping people live healthier, longer and better lives.
+
+At AIA Insurance, wellness is more than a concept, it is a fundamental pillar of our brand purpose. While AIA has long been committed to promoting wellness for its customers and communities, this award highlights our equally powerful focus on internal wellbeing.
+
+By providing an environment where employees feel supported, connected and empowered, AIA enables its team members to thrive not just professionally but personally.
+
+...
+
+[Data](articles/22e371c7.json)
+
+---
+
+### SLPA looking to reduce GHG emissions in port operations
+
+*2024-12-08 18:51:00* · [`islandlk`](http://island.lk/slpa-looking-to-reduce-ghg-emissions-in-port-operations/) · `en`
+
+A project and process are currently underway to utilize land owned by the Sri Lanka Ports Authority (SLPA) and the Port of Colombo (POC) for solar energy harvesting, aiming to produce green hydrogen under the port’s Green Energy Initiative Programme, said Eng. Ganaka Hemachandra, Managing Director of the Sri Lanka Ports Authority (SLPA).
+
+He made these remarks as a panelist during a discussion on ‘Future Fuels, the Planet, and Shipping – Clean Energy Efficient Integrations and Green Robotics in Ports,’ at the Colombo International Maritime & Logistics Conference, held from November 27 to 29, 2024, at the Cinnamon Grand, Colombo.
+
+Speaking further, he noted that the port currently consumes 25% of the total energy usage in the city of Colombo, equivalent to nearly 50 MW.
+
+...
+
+[Data](articles/ac543b46.json)
+
+---
+
 ### 3 women arrested for older career
 
 *2024-12-08 18:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-தொழில்-செய்த-3-பெண்கள்-கைது/175-348450) · `ta`
@@ -903,6 +985,20 @@ He was arrested after a raid carried out a group of officers of the Bookoda camp
 [Data](articles/c340fb54.json)
 
 [Extended Data](ext_articles/c340fb54.ext.json)
+
+---
+
+### Royal Nursing Home to unveil new facility in Hanwella with 100 rooms
+
+*2024-12-08 18:49:00* · [`islandlk`](http://island.lk/royal-nursing-home-to-unveil-new-facility-in-hanwella-with-100-rooms/) · `en`
+
+Royal Nursing Home Private Limited, known for its luxury nursing homes, is set to open its fifth facility in Hanwella on 1 January, 2025. This company, which already operates the first three luxury nursing homes in Sri Lanka and one at Bloomsbury Square, London, the United Kingdom, is introducing another state-of-the-art elderly care home to the country.
+
+The nursing home, which is to be opened in Hanwella will feature 100 bedrooms on two acres of scenic green land along the peaceful Kelani River. Originally a tourist hotel, the building will be renovated to meet ISO 9001-2015 International Standards and Elderly Residential Care Guidelines, ensuring a high level of care and comfort.
+
+...
+
+[Data](articles/73add434.json)
 
 ---
 
@@ -2343,155 +2439,5 @@ Distribution of the relevant materials were carried out yesterday (07), benefiti
 [Data](articles/a3f8a39c.json)
 
 [Extended Data](ext_articles/a3f8a39c.ext.json)
-
----
-
-### Youth killed
-
-*2024-12-08 12:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோணி-கவிழ்ந்ததில்-இளைஞன்-பலி/175-348423) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"19-year-old Samod Dilshan drowns in 20-acre lake while driving with friends. Body sent to Hambantota General Hospital for autopsy."
-
-🟩
-
-A youth has drowned after a dummy collapsed with four youths who were driving a bizarre man in a twenty -acre lake.
-
-The deceased is the 19 -year -old youth, Samod Dilshan, a resident of Dissanayake, a 20 -acre area.
-
-The body was sent to the Hambantota General Hospital for the autopsy report after the body was brought to Kadirgamam Hospital.
-
-◼️
-
-[Data](articles/816945c9.json)
-
-[Extended Data](ext_articles/816945c9.ext.json)
-
----
-
-### Youth killed in water in Kadirgamam
-
-*2024-12-08 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200702) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Youth drowns in Kadirgamam after boat crash. Three friends swimming when driver loses control, causing accident."
-
-🟩
-
-Kadirgamam police said that a youth was drowned after a boat crashed into the Akkaravisa Wavi in ​​the Kadirgamam police division of the Kadirgamam police division.
-
-Three friends who were traveling in the boat were swimming and the driver of the boat was drowned, police said.
-
-◼️
-
-[Data](articles/5d767653.json)
-
-[Extended Data](ext_articles/5d767653.ext.json)
-
----
-
-### A special test initiative to mark the festive season
-
-*2024-12-08 11:59:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகை-காலத்தை-முன்னிட்டு-விசேட-சோதனை-முன்னெடுப்பு/175-348422) · `ta`
-
-Public Health Inspectors Association conducts food safety tests nationwide during festive season. Over 150 tests completed since December 1, involving 1750 PHI officers checking raw materials and products.
-
-🟩
-
-The Public Health Inspectors Association (PHI) said that the public has begun testing the food and beverages sold in cities that are most likely to be sold in the country during the festive season.
-
-PHI leader Upul Rohana said about 1750 Phi officers have been deployed to carry out tests.
-
-He added that the raw materials used for food production targeting the festive season will be tested during studies.
-
-Upul Rohana added that more than 150 tests have been conducted across the country from December 01 to date.
-
-◼️
-
-[Data](articles/7afd11f3.json)
-
-[Extended Data](ext_articles/7afd11f3.ext.json)
-
----
-
-### Sri Lanka massacre:
-
-*2024-12-08 11:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லங்கம-படுகொலை-மூவருக்கும்-விளக்கமறியல்/76-348421) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: Three suspects arrested for murdering depot security officer in Nuwara Eliya. They robbed Rs. 10,050,060 and planned the murder to compensate for the theft. The suspects were remanded until the 19th.
-
-🟩
-
-Nuwara Eliya police arrested three suspects who murdered the Sri Lankan depot security officer in Nuwara Eliya and produced them in court.. At the time, the court ordered the three suspects to be remanded until the 19th.
-
-Rajapaksa (55), who worked as a cashier at the Nuwara Eliya Sri Lanka Depot, Sampath Janaka Bandara (36), a suspected driver, and a suspected driver, Sampath Janaka Bandara (36).
-
-The three suspects have robbed A. Lokanathan (85), who worked as a guard at the Nuwara Eliya Depot, at around 2 am on the occasion of a depot's security booth at the depot.
-
-According to a complaint lodged at the Nuwara Eliya Police Station, Depot's cashier killed his depot guard and stole ten million fifty thousand sixty rupees from the shelf in the depot.
-
-A detailed investigation into the murder was carried out with the help of the Nuwara Eliya Police Superintendent of Police, Anurutha Hakmana, Nuwara Eliya Police, Nuwara Eliya Police, Nuwara Eliya Police Division, Nuwara Eliya Police Division.
-
-...
-
-[Data](articles/7ccee42f.json)
-
-[Extended Data](ext_articles/7ccee42f.ext.json)
-
----
-
-### A motorcycle collision in Polonnaruwa
-
-*2024-12-08 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200704) · `ta`
-
-Motorcycle crash kills pedestrian in Polonnaruwa. Victim rushed to hospital, motorcycle passengers also injured. Incident occurred on Somavathi Road under Polonnaruwa police division.
-
-🟩
-
-A pedestrian was killed when a motorcycle crashed on Saturday (07) on Somavathi Road, which belongs to the Polonnaruwa police division, police said.
-
-Police said the victim was admitted to the Polonnaruwa Hospital who was injured in the accident.
-
-The body was kept in the funeral room of the Polonnaruwa Hospital and the motorcycle passengers were injured and admitted to the Polonnaruwa hospital, police said.
-
-◼️
-
-[Data](articles/6e59d622.json)
-
-[Extended Data](ext_articles/6e59d622.ext.json)
-
----
-
-### Young man's naked video `` Whats Up
-
-*2024-12-08 11:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனின்-நிர்வாண-காணொளி-வாட்ஸ்-அப்-எண்களுக்கு/175-348420) · `ta`
-
-Three arrested for abducting man sending nude videos to girlfriend via WhatsApp in Sri Lanka. Police seize motorcycles and phones.
-
-🟩
-
-Kahatuduwa police said that three persons have been arrested for allegedly abducting and kidnapping a young man who sent porn videos to his foreign girlfriend via WhatsApp.
-
-The 22,24,28 -year -old from the Kahatuduwa Sri Sumana Road and Polgus Ovitti has been arrested.
-
-Video has been sent to the number of WhatsApp, who was on the phone, taking a video of the abducted young man naked and provoking it.
-
-The father of the attacker, the father of the attacker, has been arrested by the police in connection with the complaint and two motorcycle and mobile phones have been seized.
-
-◼️
-
-[Data](articles/2db047c6.json)
-
-[Extended Data](ext_articles/2db047c6.ext.json)
 
 ---

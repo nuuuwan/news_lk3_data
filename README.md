@@ -1,216 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 11:15:18**
+As of **2024-12-09 10:16:35**
 
 ## Newspaper Stats
 
-*Scraped **59,218** Articles*
+*Scraped **59,209** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 447
 colombotelegraphcom | 602
-bbccomsinhala | 619
+bbccomsinhala | 618
 islandlk | 3,571
-economynextcom | 3,597
+economynextcom | 3,596
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,609
-adaderanalk | 7,196
-tamilmirrorlk | 8,453
-virakesarilk | 9,714
+adalk | 5,608
+adaderanalk | 7,192
+tamilmirrorlk | 8,452
+virakesarilk | 9,713
 adaderanasinhalalk | 10,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,199 (100.0%) of 59,218 articles have been extended.
+59,188 (100.0%) of 59,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### நீதிமன்றத்தில் லொஹான் ரதவத்தே
-
-*2024-12-09 11:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-லொஹான்-ரதவத்தே/175-348467) · `ta`
-
-கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த இன்று (09) காலை கொழும்பு கோட்டை நீதவான் நீதிமன்றத்திற்கு அழைத்து வரப்பட்டார். R
-
-◼️
-
-[Data](articles/06617811.json)
-
----
-
-### Lohan Ratwatte produced before Magistrate
-
-*2024-12-09 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104099/lohan-ratwatte-produced-before-magistrate) · `en`
-
-Former State Minister Lohan Ratwatte, who was arrested and remanded for causing a road accident while driving under the influence of alcohol, was produced before the Colombo Fort Magistrate’s Court today (9).
-
-He was arrested on December 6 for causing a road accident while driving under the influence of alcohol and was remanded until December 9 after being produced before the Colombo Chief Magistrate’s Court on December 7.
-
-Ratwatte, who was released on bail on December 5 in a separate case, was returning from a relative’s house on December 06 when his Defender collided with another vehicle near the Kollupitiya Junction.
-
-Following a complaint made to the Kollupitiya Police regarding the accident, investigations confirmed that he was under the influence of alcohol at the time, leading to his arrest on charges of causing an accident while intoxicated.
-
-Accordingly, the police arrested Ratwatte on charges of causing an accident while driving under the influence of alcohol.
-
-◼️
-
-[Data](articles/2ca37e47.json)
-
-[Extended Data](ext_articles/2ca37e47.ext.json)
-
----
-
-### Train delays reported on coastal line
-
-*2024-12-09 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104098/train-delays-reported-on-coastal-line) · `en`
-
-The Department of Railways has reported train delays on the coastal line, due to a damaged track between Mount Lavinia and Ratmalana railway stations.
-
-Accordingly, this has resulted in trains arriving at Colombo Fort being delayed.
-
-However, the department further stated that all office trains operating up to Colombo Fort operated on schedule without any delays.
-
-◼️
-
-[Data](articles/d51cca8e.json)
-
-[Extended Data](ext_articles/d51cca8e.ext.json)
-
----
-
-### Sri Lanka Steuart by Citrus hotel temporarily closed after fire
-
-*2024-12-09 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-steuart-by-citrus-hotel-temporarily-closed-after-fire-192830/) · `en`
-
-ECONOMYNEXT – Citrus Leisure said it was temporarily closing its city hotel Steuart by Citrus after a fire at the property last week.
-
-“The Steuart by Citrus will be temporarily closed until the extent of damage is assessed and the required refurbishment of the damaged areas are completed,” the company said in a stock exchange filing.
-
-A fire originated on an upper floor of the hotel situated in Fort, Colombo on the evening of December 5.
-
-The fire was brought under control by the Colombo Fire Service Department.
-
-“All guests and staff present at the hotel at the time were evacuated,” the leisure company said.
-
-The Steuart by Citrus is a member of the Citrus chain of hotels managed by Citrus Silver Ltd, a subsidiary of Citrus Leisure PLC.
-
-The Citrus Leisure stock was trading up at 4.50. (ColomboDec9/2024)
-
-◼️
-
-[Data](articles/856c0e78.json)
-
-[Extended Data](ext_articles/856c0e78.ext.json)
-
----
-
-### Ousted Syrian leader Assad flees to Moscow after fall of Damascus, Russian state media say
-
-*2024-12-09 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104097/ousted-syrian-leader-assad-flees-to-moscow-after-fall-of-damascus-russian-state-media-say) · `en`
-
-Ousted Syrian leader Bashar Assad fled to Moscow and received asylum from his longtime ally, Russian media said Sunday, hours after a stunning rebel advance seized control of Damascus and ended his family’s 50 years of iron rule.
-
-Thousands of Syrians poured into streets echoing with celebratory gunfire and waved the revolutionary flag in scenes that recalled the early days of the Arab Spring uprising, before a brutal crackdown and the rise of an insurgency plunged the country into a nearly 14-year civil war.
-
-The swiftly moving events raised questions about the future of the country and the wider region.
-
-...
-
-[Data](articles/fed908e8.json)
-
-[Extended Data](ext_articles/fed908e8.ext.json)
-
----
-
-### Sri Lanka targets about USD19 billion in exports in 2025
-
-*2024-12-09 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104096/sri-lanka-targets-about-usd19-billion-in-exports-in-2025) · `en`
-
-Sri Lanka’s Export Development Board (EDB) forecasts that the country’s total export earnings for 2025 would be USD18.7 billion, EDB Chairman Mangala Wijesinghe said yesterday (08).
-
-He added that this forecast comprises USD14.54 billion from merchandise exports and USD4.16 billion from services exports.
-
-Wijesinghe said in the first 10 months of 2024, Sri Lanka has earned USD13.5 billion from total exports (merchandise and services). This is a 7.19 per cent increase compared to the first 10 months of 2023.
-
-The annual target for 2024 is USD16.4 billion and Sri Lanka has achieved 82 per cent of that annual target in the first 10 months of 2024, he said.
-
-◼️
-
-[Data](articles/ef967b24.json)
-
-[Extended Data](ext_articles/ef967b24.ext.json)
-
----
-
-### The government boycottss Ranil's IMF, ignoring the people's mandate - Sajith
-
-*2024-12-09 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200767) · `ta`
-
-Sajith Premadasa criticizes government for ignoring IMF promises, increasing national debt and affecting healthcare, education, agriculture and fisheries.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the current government, which has received the Great People's Orders and the Great seats, has been initiated by the government, in the beginning, forgotten the promises made by the International Monetary Fund, and the policies of the International Monetary Fund, which has been carried out by the government of President Ranil Wickremesinghe.
-
-United People's Power Leader and Opposition Leader Sajith Premadasa said this while addressing a public meeting held in Negombo on Sunday (08), chaired by MP Kavinda Jayawardena.
-
-The current government, which has received the Great People's Orders and the Great seats and the parliamentary gift, has begun to advance the policies of the International Monetary Fund by President Ranil Wickremesinghe's government, in the beginning.
-
-...
-
-[Data](articles/5d865fbe.json)
-
-[Extended Data](ext_articles/5d865fbe.ext.json)
-
----
-
-### Railway delay on the coastal route
+### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක්
 
 *2024-12-09 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204182) · `si`
 
-Coastal route train delays: Colombo Fort trains affected due to issues between Lavinia and Ratmalana stations. No impact on Colombo Fort operations.
+කොළඹ කොටුව දක්වා පැමිණෙන දුම්රියන් මෙලෙස ප්‍රමාද වී ධාවනය වනු ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
 
-🟩
+ගල්කිස්ස සහ රත්මලාන දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ පීල්ලක් කැඩී යාමෙන් මෙම ප්‍රමාදය සිදුව ඇති බව වාර්තා වේ.
 
-Trains from Colombo Fort will be late in this way, the Railway Department said.
-
-It is reported that the delay was reported from the railway line between the Lavinia and Ratmalana railway stations.
-
-However, the Colombo Fort has been able to run without delay in the Colombo Fort.
+කෙසේවෙතත් කොළඹ කොටුව දක්වා ධාවනය වු සියලු කාර්යාල දුම්රියන් ප්‍රමාදයකින් තොරව ධාවනය කිරීමට හැකි වු බව දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසුවේය.
 
 ◼️
 
 [Data](articles/0823cdd9.json)
 
-[Extended Data](ext_articles/0823cdd9.ext.json)
-
 ---
 
-### Bail for two people who took off the boy's lingerie
+### சிறுவனின் உள்ளாடையை கழற்றிய இருவருக்கு பிணை
 
 *2024-12-09 09:59:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனின்-உள்ளாடையை-கழற்றிய-இருவருக்கு-பிணை/175-348465) · `ta`
 
-Two teens, 16 & 18, accused of attempting to rape an 11-year-old boy. Released on bail after court appearance. Case involves alleged removal of child's underwear and attempted assault. Police investigation ongoing.
+11 வயது சிறுவனின் உள்ளாடையை கழற்றி, அச்சிறுவனை பாலியல் வன்புணர்வுக்கு உட்படுத்த முயன்றனர் என்ற குற்றச்சாட்டின் கீழ், 16 மற்றும் 18 வயதான இருவர் கைது செய்யப்பட்டு பிணையில் விடுதலை செய்யப்பட்டுள்ளனர்.
 
-🟩
+கைது செய்யப்பட்ட இருவரும் வெல்லவாய நீதவான் முன்னிலையில் ஞாயிற்றுக்கிழமை (08) ஆஜர்படுத்தப்பட்ட போது, அவ்விருவரையும், தலா ஒரு இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீர பிணையில் விடுதலை செய்ய உத்தரவிடப்பட்டுள்ளது.
 
-Two men, 16 and 18, have been arrested and released on bail on charges of attempting to rape the 11 -year -old boy and rape the company.
-
-When the two arrested were produced before the Wellawaya Magistrate on Sunday (08), the two were ordered to be released on two physical bail worth Rs.
-
-The 11 -year -old boy was playing at the playground in the colony, two men aged 16 and 18, taking off the boy's lingerie and trying to rape the boy.. The company has told his parents what happened to him. Subsequently, the Ambagamuwa police arrested the two and produced them in the presence of the magistrate.
+11 வயதான அந்த சிறுவன், அந்த காலனியில் உள்ள விளையாட்டு மைதானத்தில் விளையாடிக்கொண்டிருந்த போது, 16 மற்றும் 18 வயதுகளையுடைய இருவர், அந்த சிறுவனின் உள்ளாடையை கழற்றி, பாலியல் வன்புணர்வுக்கு உட்படுத்த முயன்றுள்ளனர். தனக்கு நேர்ந்ததை அச்சிறுவன், தன்னுடைய பெற்றோரிடம் தெரிவித்துள்ளார். அதன்பின்னர்,  அவ்விருவரையும் கைது செய்த அம்பகமுவ பொலிஸார், அவர்களை நீதிவான் முன்னிலையில் ஆஜர்படுத்தினர்.
 
 ◼️
 
 [Data](articles/d4b2853b.json)
-
-[Extended Data](ext_articles/d4b2853b.ext.json)
 
 ---
 
@@ -236,35 +86,19 @@ The 60 -year -old man from Hunnkiriya, a driver of Gajendra Kumar, was arrested 
 
 ---
 
-### Where Asad - Rasya solved the mystery
+### அசாத் எங்கே – மர்மத்தை தீர்த்துவைத்தது ரஸ்யா
 
 *2024-12-09 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200765) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+சிரிய ஜனாதிபதி பசார் அல் அசாத்தின் நீண்ட கால ஆட்சியின் வீழ்ச்சியை  பலர் கொண்டாடிக்கொண்டிருந்தவேளை அவர் எங்கிருக்கின்றார் என்பது குறித்த பல வதந்திகள் வெளியாகியிருந்தன,மிகவும் மர்மம் நிறைந்த ஒரு நாளின் பின்னர் அவர் மொஸ்கோவிற்கு சென்றுள்ளார் என்ற அறிவிப்பு வெளியானதை தொடர்ந்து இந்த மர்மம் முடிவிற்கு வந்துள்ளது.
 
+‘;ஆசாத்தும் அவரது குடும்பத்தினரும் மொஸ்கோவில் தரையிறங்கியுள்ளனர் மனிதாபிமான காரணங்களிற்காக மொஸ்கோ அவர்களிற்கு புகலிடம் வழங்கியுள்ளது என கிரெம்ளின் வட்டாரங்கள் தெரிவித்ததாக டாஸ் செய்தி வெளியிட்டுள்ளது.
 
-
-Asad-Rasya mystery solved: Azad fled Damascus after rebels seized capital. Russia helped him escape to Moscow. Syrian military confirms departure. CNN reports flight details. Sources indicate destination Ladakia with Russian airbase. Putin provided aid. Azad's permanent residence now uncertain.
-
-🟩
-
-The mystery came to an end following the announcement that he had gone to Moscow a day after a very mystery.
-
-Azad and his family have landed in Moscow.
-
-Azad has not highlighted himself in the moment when the rebels' rise began again. He had said that he would end up with the Iranian Foreign Minister last week.
-
-After that he did not report anything. He did not mention anything about the rebels seized major cities. CNN told CNN that the rebels were not in Azad when they surrounded Damascus.
-
-Security officers could not be found in his presidential palace as usual. The sources said that if he had been there, the security officers would have been deployed to work.
-
-Initially denied that the president's office had fallen, and that some foreign media had accused them of spreading rumors. The rebels declared that Azad had escaped after the capture of the capital, and they were trying to search for him, and some of the rebels were involved in damaging the Azad's palace.
+கிளர்ச்சியாளர்களின் எழுச்சி மீண்டும் ஆரம்பித்தது முதல் அவர்கள் துரிதமாக முன்னேறி வந்த தருணங்களில் ஆசாத் அதிகளவு தன்னை முன்னிலைப்படுத்தவில்லை. கடந்த வாரம் ஈரான் வெளிவிவகார அமைச்சரை சந்தித்தவேளை கிளர்ச்சிக்காரர்களின் முன்னேற்றத்தை முடிவிற்கு கொண்டுவரவுள்ளதாக அவர் சூளுரைத்திருந்தார்
 
 ...
 
 [Data](articles/8f918cf7.json)
-
-[Extended Data](ext_articles/8f918cf7.ext.json)
 
 ---
 
@@ -354,27 +188,19 @@ While he suggested he would not seek a justice department investigation into Joe
 
 ---
 
-### A report on crop damaged animals
+### වගා හානි කරන සත්තු ගැන වාර්තාවක් එළියට
 
 *2024-12-09 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204181) · `si`
 
-Crop damage due to increased monkey population in Sri Lanka. Experts propose controlling methods including sterilization and relocation. Short-term solutions suggested to mitigate conflicts between humans and wildlife.
+වඳුරන් සහ රිළවුන් ඇතුළු මෙරට වගාවන්ට හානි කරන සතුන් සම්බන්ධයෙන් ගත යුතු යෝජනා ඇතුළත් වාර්තාවක් අද (09) දිනයේ දී පරිසර අමාත්‍යංශය සහ කෘෂිකර්ම අමාත්‍යංශය වෙත භාරදීමට කටයුතු කරන බව පරිසර හා සොබාදහම් අධ්‍යයන මධ්‍යස්ථානය පවසයි.
 
-🟩
+එහි ජාතික සම්බන්ධීකාරක, පරිසරවේදී ආචාර්ය රවීන්ද්‍ර කාරියවසම් මහතා පැවසුවේ මේ වන විට මෙරට වඳුරන්ගේ සහ රිළවුන්ගේ ගහනය කැපී පෙනෙන ලෙස ඉහළ ගොස් ඇති අතර එම තත්ත්වය පාලනය කිරීමට ගත හැකි කෙටි කාලීන මෙන්ම දිගු කාලීන යෝජනා ද මෙහි ඇතුළත් බවය.
 
-The Environment and Nature Studies Center (Environment and Nature Studies) (Environment and Natural Studies) (Environment and Natural Study) Center said.
-
-The national coordinator, environmentally Dr. Ravindra Kariyawasam, the population of the Sri Lankan monkeys and the population has increased significantly and is the short-term and long term proposals to control the situation.
-
-"Sri Lanka has increased the population. Really, the loss of fastestines that are naturally bothered. After the decrease in the other, the decrease of food and the food in the cultivation, they began to drag in areas where the people. We proposed the governance to the control of 15 institutions in Sri Lanka and to build a mechanism. Also, a proposal to the Minister of Environment has been handed over to the Minister of Environment.
-
-Educational Dr. Ravindra Kariyawasam expressed these views on measures to control the similar situations in India.
+"ලංකාවේ රිළා ගහනය වැඩිවෙලා තියෙනවා. ඇත්තටම ඒකට හේතුව මේ අයව ස්වභාවිකව වද කරන විලෝපිතයින් නැති වීම. අනෙක් එක කැලේ තිබුණ ආහාර ප්‍රමාණයන් අඩුවීම හා වගාබිම් ආශ්‍රිතව කෑම වැඩිවුණාට පස්සේ, මේ අය ජනතාව ඉන්න ප්‍රදේශවලට ඇදෙන්න පටන් ගත්තා. මේ අය පාලනයට අපි යෝජනා කළා ලංකාවේ ආයතන 15ක් ඒකාබද්ධ කරලා යම් යාන්ත්‍රණයක් හදන්න කියලා. ඒ වගේම අද පරිසර අමාත්‍යවරයාට යෝජනාවක් භාරදෙනවා මේ සත්ත්ව ප්‍රජාව පාලනයට ගත යුතු පියවරයන් ගණනාවක් සඳහන් කරලා."
 
 ...
 
 [Data](articles/0a4435d7.json)
-
-[Extended Data](ext_articles/0a4435d7.ext.json)
 
 ---
 
@@ -397,8 +223,6 @@ The Ipalogama Police are continuing investigations to apprehend the suspect invo
 ◼️
 
 [Data](articles/2389dd40.json)
-
-[Extended Data](ext_articles/2389dd40.ext.json)
 
 ---
 
@@ -638,20 +462,6 @@ The victims were a 40-year-old man and a couple of the ages of 38 years of age.
 
 ---
 
-### නාවික හමුදාවේ 2138 කට උසස්වීම්
-
-*2024-12-09 07:32:05* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-2138-කට-උසස්වීම්/11-413527) · `si`
-
-නාවික හමුදාවේ 74 වන සංවත්සරයට  ‍2සමගාමීව නාවික හමුදාධිපති, වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ගේ නිර්දේශය මත විවිධ තරාතිරම් වලට අයත් ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයින් 2138 ක් 2024 දෙසැම්බර් මස 09 වැනි දින සිට උසස් කිරීමට කටයුතු කෙරිණි.
-
-නාවික හමුදාධිපති, වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ගේ උපදේශකත්වය හා මඟපෙන්වීම යටතේ සෑම නාවික විධානයකම 74 වන සංවත්සරය වෙනුවෙන් නාවික සම්ප්‍රදායන් සහ ආගමික කටයුතු සඳහා මුල්තැනක් දෙමින් සැමරුම් වැඩසටහන් සිදුකරනු ලබන අතර, ඊට සමගාමීව නාවික හමුදාධිපතිගේ නිර්දේශය මත විවිධ තරාතිරම් වලට අයත් ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයින් මෙලෙස උසස් කිරීමට කටයුතු කෙරිණි.
-
-...
-
-[Data](articles/81cec1b5.json)
-
----
-
 ### A statement from vehicle importers association
 
 *2024-12-09 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204176) · `si`
@@ -785,30 +595,6 @@ The Department of Meteorology has informed the people to take steps to take nece
 [Data](articles/66dd4f4d.json)
 
 [Extended Data](ext_articles/66dd4f4d.ext.json)
-
----
-
-### ගම, ගොවිතැන වනසන රිලා ප්‍රශ්නයට විසඳුම කොතනද?
-
-*2024-12-09 05:15:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0lgp55n91wo) · `si`
-
-කාර්යයාලයේ සේවයේ යෙදී සිටින අතරතුර මගේ මවගෙන් පැමිණි එම ඇමතුමෙන් කලබල වූ මම ඇයගෙන් සිදු වී ඇත්තේ කුමක්දැයි විමසා සිටියෙමි.
-
-ඇය පැවසුවේ රිලවුන් රංචුවක් නිවස තුළට පැන සියළුම එළවළු හා පලතුරු කා දමා, රයිස් කුකරයේ පියන ඉවත් කර එහි තුබූ බත් ද කා දමා තිබූ බවයි.
-
-මා කුඩා කාලයේ පටන් ජීවත් වූ ප්‍රදේශයේ එතරම් රිලවුන් ගහණක් ඇති වූයේ කෙසේදැයි මා හට පුදුම සිතුණේ, ඉඳ හිට දුටු රිලවෙකු දෙන්නෙකු මිස අප දැක තිබූයේ කළු වඳුරන් පමණක් වූ බැවින් ය.
-
-මේ පිළිබඳව මා කාර්යයල සගයන් සමග අත්දැකීම් හුවමාරු කරගත් විට ඔවුන්ගෙන් සමහරෙකු ද පැවසුවේ ඔවුන්ගේ නිවෙස් පිහිටි ප්‍රදේශවල ජනතාව ද මෙම ගැටළුවට මුහුණ දී තිබෙන බවයි.
-
-ගෝලීය වනජීවී ජාවාරමේ කේන්ද්‍රස්ථානයක් බවට ශ්‍රී ලංකාව පත් වූයේ කෙසේ ද?
-
-මෑතක දී මා අනුරාධපුර පූජා නගරයේ චාරිකාවක යෙදී සිටිය දී දුටු දසුනක් ද මා හට සිහි විය.
-
-ශ්‍රී ලංකාවේ සංචාරය කිරීමේ අරමුණින් පැමිණ සිටි විදේශීය පවුලක කුඩා දරුවන් දෙදෙනෙකු නෙළුම් මල් පොකුරු දෙකක් ගෙන සිය දෙමව්පියන් සමග යමින් සිටියේ රුවන්වැලි සෑය දෙසටයි.
-
-...
-
-[Data](articles/a06f2ccb.json)
 
 ---
 
@@ -2351,5 +2137,217 @@ The CWE Branch had received enough rice in the area (08), but the officials said
 [Data](articles/c470642c.json)
 
 [Extended Data](ext_articles/c470642c.ext.json)
+
+---
+
+### In Korea's five-year ministry stolen $ 9800
+
+*2024-12-08 16:37:27* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-වසර-පහක්-සේවය-කර-පැමිණි-අයෙකුගේ-ඩොලර්-9800ක්-සොරකම්-කරලා/11-413521) · `si`
+
+Korean ministry theft: $9800 stolen, suspect arrested in Sri Lanka. 26-year-old from Godakawela accused of stealing money from Korean factory worker in Ratnapura.
+
+🟩
+
+A suspect has been arrested with the money after a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint with a complaint.
+
+Police say the suspect is a 26 year old resident of Godakawela (Janadhadal)
+
+The complainant from the Hangamuwa, Hangamuwa, Ratnapura and served in Korea factory and arrived in Sri Lanka on the 3rd.
+
+Vehicles maintained by a friend conducted in Bathena, Ratnapura and returned to Ratnapura with a friend in Ratnapura.
+
+The Ratnapura Police has lodged a complaint with the 6th and 10 packets of cigarettes in the bag on the next day.
+
+...
+
+[Data](articles/520a6e1c.json)
+
+[Extended Data](ext_articles/520a6e1c.ext.json)
+
+---
+
+### President's order is being implemented - Consumer Affairs Officials for rice mills of Polonnaruwa
+
+*2024-12-08 16:28:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-නියෝගය-ක්‍රියාත්මකයි---පාරිභෝගික-අධිකාරියේ-නිලධාරීන්-පොලොන්නරුවේ-සහල්-මෝල්වලට/11-413520) · `si`
+
+Consumer Affairs Authority investigates Polonnaruwa rice mills under President's order. Special team to inspect paddy stores and mills for 10 days.
+
+🟩
+
+A special investigation officials of the Consumer Affairs Authority (CA) a special investigation into the mainstream mills of Polonnaruwa today to obtain information on paddy stores and rice mills in the Polonnaruwa district.
+
+A senior consumer author of the Consumer Affairs Authority (CEB) participated in the investigation of the Consumer Affairs Authority to the rice supplier of the district.
+
+Accordingly, two officials will be deployed for eight rice mill manufacturing agencies, the official said that a special investigation will be conducted in rice mills for ten days.
+
+He further stated that this was implemented on the special order of President Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/6449d2fc.json)
+
+[Extended Data](ext_articles/6449d2fc.ext.json)
+
+---
+
+### Two women arrested in Katunayake with illegal cigarettes
+
+*2024-12-08 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/200719) · `ta`
+
+Two women arrested at Katunayake airport for smuggling 700,000+ rupees worth of cigarettes. Police seized 47,200 cigarettes. To be charged with illegal export, smuggling, and cigarette distribution.
+
+🟩
+
+Two women have been arrested at the Katunayake airport for illegally bringing cigarettes in abroad worth about 70 lakhs 80 thousand rupees.
+
+They were arrested by a group of police officers of the police drug Bureau yesterday (07) when they tried to leave the airport's arrival terminal.
+
+A 39 -year -old woman living in Pitigala area and a 55 -year -old woman in Kandy, Kandy, have been arrested.
+
+Officials of the Police Drug Prevention Unit have seized 236 cigarette cartoons containing 47,200 "Manchester" cigarettes on the suspects' travel packages.
+
+Subsequently, the two suspects are to be produced before the Negombo Magistrate's Court on the 11th of this month on charges of illegal export, smuggling and handing over cigarettes.
+
+◼️
+
+[Data](articles/51226ba0.json)
+
+[Extended Data](ext_articles/51226ba0.ext.json)
+
+---
+
+### 108 Air Force to Central Africa
+
+*2024-12-08 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204161) · `si`
+
+Sri Lanka Air Force sends 108 personnel to Central African Republic for UN peacekeeping. SLAF has been involved since 2014, conducting operations including construction, logistics, and medical support. 92 helicopters returned to Sri Lanka from Africa.
+
+🟩
+
+A group of 108 members of the Sri Lanka Air Force helicopter latter was delegated to the Central African Republic (SLAF) for UN peacekeeping military duties.
+
+The Sri Lanka Air Force has enabled peacekeeping military operations from 2014 to date.
+
+Troops of the helicopter lack of helicopter lack of the helicopter lack of the helicopter paddy fields are actively involved in the construction of the elite, food and goods, parachutes, medical teams and medical teams.
+
+Meanwhile, 92 Air Force helicopter laundering Air Force helicopter launches came to Sri Lanka from Central Africa.
+
+◼️
+
+[Data](articles/7dd4ad55.json)
+
+[Extended Data](ext_articles/7dd4ad55.ext.json)
+
+---
+
+### Public Day of the Ministry of Agriculture - First Monday every month
+
+*2024-12-08 16:18:18* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-අමාත්‍යාංශයේ-මහජන-දිනය-සෑම-මසකම-පළමු-සඳුදා/11-413519) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Ministry of Agriculture public day: First Monday monthly, 9am-4pm. Participating: Minister KD, Deputy Ministers Namal Karunaratne & Dr. Susil Ranasinghe, Secretary & department heads."
+
+🟩
+
+The Ministry of Agriculture, Livestock, Land and Irrigation Ministry will be held on Mondays every month.
+
+These people will be held from 9.00 am to 4.00 pm. Minister KD for public date. Lal Kanthe, Deputy Ministers Namal Karunaratne and Dr. Susil Ranasinghe are participating in the Secretary to the Ministry and the chiefs of all the Ministry.
+
+◼️
+
+[Data](articles/2856e9ef.json)
+
+[Extended Data](ext_articles/2856e9ef.ext.json)
+
+---
+
+### Four arrested over series of gold thefts from taxi drivers
+
+*2024-12-08 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104082/four-arrested-over-series-of-gold-thefts-from-taxi-drivers) · `en`
+
+Four individuals have been arrested for their involvement in a series of gold jewellery robberies targeting taxi drivers.
+
+The suspects, who pretended to be passengers, had offered the drivers hires before drugging and stealing their gold jewellery.
+
+The arrests took place yesterday (07) by the Western Province South Crime Division.
+
+Police report that the suspects lured taxi drivers by posing as passengers in need of a ride. Once inside the vehicle, they offered the drivers a drink laced with a sedative, rendering them unconscious, and proceeded to rob them of gold jewellery and cash.
+
+The total value of the stolen items is estimated at Rs. 5.5 million, including a significant amount of gold jewellery, the police said.
+
+However, police have managed to recover some of the stolen gold jewellery worth Rs. 4.1 million from a gold shop located at Sea Street, Colombo 11.
+
+Further investigations have revealed that the suspects were behind similar thefts spanning across approximately 15 police divisions.
+
+...
+
+[Data](articles/a21dd3dd.json)
+
+[Extended Data](ext_articles/a21dd3dd.ext.json)
+
+---
+
+### Syria’s Russia-backed 53-year rule of Assad family ends
+
+*2024-12-08 16:01:00* · [`economynextcom`](https://economynext.com/syrias-russia-backed-53-year-rule-of-assad-family-ends-192867/) · `en`
+
+ECONOMYNEXT – Syria’s Al-Assad family rule that started in 1971 with a military coup by the last President, Bashar al-Assad’s father, Hafez had ended with rebel groups entering the capital Damascus, media reports said.
+
+Qatar-based Al Jazeera network reported celebratory gunfire in Damascus, statues brought to the ground, flags being torn down and burned and an empty presidential palace.
+
+The sudden collapse of he Assad regime came after an offensive launched on November 27, by a coalition of rebel forces, which first captured a Aleppo, a key city and rapidly overran the rest of the country as the government resistence collapsed.
+
+Israeli action in Lebanon which weakened Iran-backed Hizbollah, who had earlier supported the government as well as Russia’s pre-occupation in Ukraine has been pointed to by Middle East analysts reasons for the fall of the Assad family regime.
+
+Iran itself was supporting the Assad regime. Crowds stormed the Iranian embassy as the capital fell, Al Jazeera reported.
+
+...
+
+[Data](articles/2cc6fb4b.json)
+
+[Extended Data](ext_articles/2cc6fb4b.ext.json)
+
+---
+
+### Naval and fishing communities warned of strong winds and rough seas
+
+*2024-12-08 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104081/naval-and-fishing-communities-warned-of-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an advisory for heavy rain, strong winds and rough seas for multi-day boats in the Southeast Bay of Bengal deep sea areas.
+
+The department said that the low-pressure area in the southeast Bay of Bengal is likely move west-northwestwards during next 24 hours.
+
+It is likely to reach over southwest Bay of Bengal off Sri Lanka – Tamil Nadu coasts around 11 December, it added.
+
+Meanwhile, temporarily very strong winds of 60kmph accompanied with heavy rainfalls and very rough seas are likely over above sea areas, according to the Met. Department.
+
+Thus, fishing and naval communities are requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/a1b931b2.json)
+
+[Extended Data](ext_articles/a1b931b2.ext.json)
+
+---
+
+### Violence in Bangladesh: Attacks against minorities!
+
+*2024-12-08 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200708) · `ta`
+
+Bangladesh violence: Attacks on minorities continue. ISKCON leader Chinmoi Krishna Das reports Hindu temple attacks. Government orders social media restoration to combat spreading rumors.
+
+🟩
+
+Chinmoi Krishna Das, senior saint of ISKCon in Bangladesh. There are constant attacks on Hindu places of worship. The Bangladesh government has issued a directive to the restoration of the entire social media as rumors that violence are spreading.
+
+◼️
+
+[Data](articles/d1eab42f.json)
+
+[Extended Data](ext_articles/d1eab42f.ext.json)
 
 ---

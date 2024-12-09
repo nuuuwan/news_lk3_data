@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 03:01:06**
+As of **2024-12-10 04:01:14**
 
 ## Newspaper Stats
 
-*Scraped **59,334** Articles*
+*Scraped **59,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 602
 bbccomsinhala | 619
 islandlk | 3,572
 economynextcom | 3,603
-dailyftlk | 4,085
+dailyftlk | 4,092
 dailymirrorlk | 4,733
 adalk | 5,626
 adaderanalk | 7,215
-tamilmirrorlk | 8,471
+tamilmirrorlk | 8,472
 virakesarilk | 9,744
 adaderanasinhalalk | 10,254
 
@@ -26,11 +26,153 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,323 (100.0%) of 59,334 articles have been extended.
+59,331 (100.0%) of 59,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Sivajilingam in the International Therapy Unit
+
+*2024-12-10 03:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிதீவிர-சிகிச்சைப்-பிரிவில்-சிவாஜிலிங்கம்/175-348509) · `ta`
+
+MK Sivajilingam, Tamil National Party Secretary-General, hospitalized in Colombo after falling unconscious during a medical check-up. Admitted to ICU, undergoing treatment with artificial respirator.
+
+🟩
+
+Secretary -General of the Tamil National Party, MK Sivajilingam, has been admitted to a private hospital in a private hospital in Kalupitiya, Colombo.
+
+Former Member of Parliament MK. Sivajilingam had visited Colombo as a personal visit. In this case, when he was going to the hospital for a regular physical examination, he was suddenly affected by the hospital and fell unconscious.
+
+He was immediately taken to the Kaluppitti private hospital and admitted to the Intensive Care Unit.
+
+He is being treated with the help of an artificial respiratory device in the intensive care unit.. (A)
+
+◼️
+
+[Data](articles/bfbc1810.json)
+
+[Extended Data](ext_articles/bfbc1810.ext.json)
+
+---
+
+### US and Sri Lanka advance emergency preparedness with regional partners
+
+*2024-12-10 03:34:26* · [`dailyftlk`](https://www.ft.lk/news/US-and-Sri-Lanka-advance-emergency-preparedness-with-regional-partners/56-770306) · `en`
+
+Regional participants engage in a practical exercise during the Sub-Regional CBRN Response Workshop in Colombo
+
+Expert participants from Sri Lanka, Bangladesh, India, Maldives and the United States gathered in Colombo 3-5 Dec. to exchange knowledge on emergency preparedness and response
+
+Assistant Legal Attache Damian Walke, an official from the US Embassy in Manila discusses strategies for emergency preparedness at the workshop
+
+The US Embassy in Colombo, in collaboration with Sri Lanka’s Disaster Management Centre, hosted a three-day regional workshop from 3 to 5 December to improve readiness for Chemical, Biological, Radiological, and Nuclear (CBRN) emergencies.
+
+The event brought together 40 participants from Sri Lanka, Maldives, Bangladesh, India, and the United States to focus on saving lives, protecting the environment, and reducing harm during emergency situations.
+
+...
+
+[Data](articles/5ed4c01b.json)
+
+[Extended Data](ext_articles/5ed4c01b.ext.json)
+
+---
+
+### Sri Lanka College of Journalism holds 2024 graduation
+
+*2024-12-10 03:30:05* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-College-of-Journalism-holds-2024-graduation/56-770305) · `en`
+
+The Sri Lanka College of Journalism, established in 2004, held its 2024 graduation ceremony recently at the Orchid Hall of the Bandaranaike Memorial International Conference Hall (BMICH), honouring its most recent cohort of diploma and certificate program graduates.
+
+Sri Lanka College of Journalism Deputy Chairperson Hana Ibrahim delivered the opening remarks, warmly welcoming the graduates and distinguished attendees. Sri Lanka Rupavahini Corporation Chairman Dr. Senesh Bandara Dissanayake, a prominent academic in journalism/media studies, served as the Guest of Honour, delivering an inspirational keynote address emphasising the importance of journalism in shaping public discourse and fostering accountability.
+
+...
+
+[Data](articles/f7d2d42f.json)
+
+---
+
+### USAID’s PRO-INFO celebrates thousand stories on CitizensConnect
+
+*2024-12-10 03:28:13* · [`dailyftlk`](https://www.ft.lk/news/USAID-s-PRO-INFO-celebrates-thousand-stories-on-CitizensConnect/56-770304) · `en`
+
+The United States Agency for International Development (USAID) and partner the International Research & Exchanges Board (IREX) celebrated the critical role citizen journalists play in amplifying voices often overlooked by mainstream media in a celebration of the thousandth story appearing on the publishing platform CitizensConnect.
+
+The celebration — “CC1000 – Celebration of a Thousand Stories” — on 6 December at ITC Ratnadipa spotlighted the transformative role of citizen journalism in shaping Sri Lanka’s media landscape by bolstering voices, stories and communities usually left out of mainstream media coverage. Such coverage enriches the media environment beyond the traditional definitions of news.
+
+...
+
+[Data](articles/a188fc1a.json)
+
+---
+
+### ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’
+
+*2024-12-10 03:27:39* · [`dailyftlk`](https://www.ft.lk/news/Beyond-checkpoints-Stories-of-human-resilience-in-troubled-Sri-Lanka/56-770303) · `en`
+
+Bishop Duleep de Chickera to launch his latest book on Thursday
+
+A conversation with Bishop Duleep de Chickera on his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’, will take place on 12 December from 5 p.m. to 6:30 p.m. at the Diocesan Chambers, Cathedral of Christ the Living Saviour, Bauddhaloka Mawatha Colombo 7.
+
+The discussion will be moderated by University of Jaffna Senior Lecturer Dr. Mahendran Thiruvarangan, while selected passages from the book will be read and commented on by educator and story-teller Suramya Hettiarachchi. Published in 2023, and now in its second print, ‘Beyond Checkpoints’ recently won a State Literary Award. Copies of the book will be on sale at the event.
+
+...
+
+[Data](articles/e0982d0c.json)
+
+---
+
+### Lankan handicrafts on show for first time at Saudi Handicrafts Expo – “Banan” 2024
+
+*2024-12-10 03:05:21* · [`dailyftlk`](https://www.ft.lk/business/Lankan-handicrafts-on-show-for-first-time-at-Saudi-Handicrafts-Expo-Banan-2024/34-770299) · `en`
+
+The Embassy of Sri Lanka in Riyadh successfully organised the first-ever participation of four Sri Lankan companies of handicrafts at the Saudi International Handicrafts Week Exhibition “Banan 2024” held in Riyadh from 23 to 29 November in collaboration with the Ministry of Buddhasasana, Religious and Cultural Affairs of Sri Lanka.
+
+Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Ameer Ajwad officially inaugurated the Sri Lankan pavilion at the Riyadh Front Exhibition and Conference Centre.
+
+...
+
+[Data](articles/1800d153.json)
+
+[Extended Data](ext_articles/1800d153.ext.json)
+
+---
+
+### Kapruka, first e-commerce platform in Sri Lanka to accept Apple Pay
+
+*2024-12-10 03:03:47* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-first-e-commerce-platform-in-Sri-Lanka-to-accept-Apple-Pay/34-770298) · `en`
+
+Kapruka.com, Sri Lanka’s largest locally owned e-commerce platform, announced that it has become the first online service in Sri Lanka to accept Apple Pay payments.
+
+This milestone highlights Kapruka’s continued commitment to staying at the forefront of innovation and providing unmatched convenience for its customers.
+
+As Sri Lanka’s leading e-commerce platform, Kapruka has consistently offered a wide range of payment options, including cryptocurrency and PayPal, ensuring unmatched convenience for its customers. Two years ago, the platform was the first in Sri Lanka to introduce cryptocurrency payment acceptance. Now, with the integration of Apple Pay, Kapruka reinforces its position as a trailblazer in the e-commerce space.
+
+...
+
+[Data](articles/ca6de82d.json)
+
+[Extended Data](ext_articles/ca6de82d.ext.json)
+
+---
+
+### SLIIT Business School inaugurates ICSDB 2024 conference
+
+*2024-12-10 03:01:30* · [`dailyftlk`](https://www.ft.lk/business/SLIIT-Business-School-inaugurates-ICSDB-2024-conference/34-770297) · `en`
+
+Setting new standards for research conferences, the SLIIT Business School is conducting the International Conference on Sustainable and Digital Business (ICSDB) 2024 for the third consecutive year.
+
+The inauguration of the conference and ICSDB Excellence Awards ceremony will be held at the Water’s Edge hotel on 10 December.
+
+Prof. Oliver Gassmann from University of St. Gallen, Switzerland and Prof. Marco Greco from University of Cassino and Southern Lazio, Italy will deliver the keynote speeches. The globally renowned inventor, USA Leo Med LLC CEO and President Dr. Bandula Wijay will also address the audience comprising over 75 CXOs from the industry and an equal number of academics from different universities.
+
+...
+
+[Data](articles/4f85ab6b.json)
+
+[Extended Data](ext_articles/4f85ab6b.ext.json)
+
+---
 
 ### Roar Global celebrates 10 years of digital transformation in APAC region
 
@@ -46,23 +188,33 @@ The evening commenced with a warm welcome from Roar Global Founder and CEO Musta
 
 [Data](articles/dccb7d97.json)
 
+[Extended Data](ext_articles/dccb7d97.ext.json)
+
 ---
 
-### உரிய முறைக்கு புறம்பாக எவருக்கும் மதுபான அனுமதிப்பத்திரம் வழங்கவில்லை - ரணில்
+### No one is granted liquor permits - Ranil
 
 *2024-12-10 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200849) · `ta`
 
-மதுபான அனுமதிப்பத்திரங்கள் உரிய முறைக்கு புறம்பாக எவருக்கும் வழங்கவில்லை எனவும், குறித்த அனுமதிப்பத்திரத்தால் அரசாங்கம் 3 பில்லியன் ரூபாவிற்கும் அதிகமான வருமானத்தை ஈட்டியுள்ளதாகவும் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அலுவலகம் அறிக்கை ஒன்றை வௌியிட்டுள்ளது.
+Ranil Wickremesinghe denies liquor permit grants, claims govt earned over Rs 3 billion. Statement counters bribery allegations. Government maintains legal authority over liquor licenses.
 
-ரணில் விக்கிரமசிங்க மதுபான அனுமதிப்பத்திரங்களை அரசியல் இலஞ்சமாக பெற்றுக் கொடுத்துள்ளதாக எழுந்த குற்றச்சாட்டுகளுக்கு பதிலளிக்கும் வகையில் இந்த அறிக்கை வெளியிடப்பட்டுள்ளது.
+🟩
 
-நிர்ணயிக்கப்பட்ட முறைக்கு புறம்பாக ஒரு கலால் அனுமதிப்பத்திரம் கூட வழங்கப்படவில்லை எனவும், புதிய அனுமதிப்பத்திரங்களை வழங்குவதன் மூலம் இந்த வருடத்தின் முதல் 9 மாதங்களில் அரசாங்கம் 3.1 பில்லியன் ரூபாவிற்கும் அதிகமான வருமானத்தை ஈட்டியுள்ளதாகவும் அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+Former President Ranil Wickremesinghe's office has issued a statement saying that liquor licenses have not been granted to anyone in the case of exemption and that the government has earned more than Rs 3 billion.
 
-அத்துடன், மதுபான அனுமதிப்பத்திரங்களை வழங்குவதில் பின்பற்றப்பட்ட முறையின் சட்டபூர்வமான தன்மையை தேர்தல்கள் ஆணைக்குழு 2024 ஓகஸ்ட் 19 ஆம் திகதி கலால் ஆணையாளர் நாயகத்திற்கு அனுப்பிய கடிதத்தின் ஊடாக உறுதிப்படுத்தியுள்ளதாக முன்னாள் ஜனாதிபதியின் அலுவலகம் சுட்டிக்காட்டியுள்ளது.
+The report has been issued in response to the allegations that Ranil Wickremesinghe has obtained alcohol licenses in political bribery.
 
-...
+The report states that the government has earned more than 3.1 billion rupees in the first nine months of this year by issuing new permits.
+
+The former President's Office has pointed out that the Elections Commission has confirmed the legal character of the method of adoption of liquor licenses through a letter sent to the Commissioner General of Excise on August 19, 2024.
+
+It is worth noting that the current Cabinet has the power to continue or cancel proper income licenses.
+
+◼️
 
 [Data](articles/50c36790.json)
+
+[Extended Data](ext_articles/50c36790.ext.json)
 
 ---
 
@@ -114,19 +266,29 @@ Similarly, they pointed out that there are many knowledge and ability to contrib
 
 ---
 
-### நீர் மின் உற்பத்தி அதிகரித்துள்ளதால் மின்சாரசபைக்கு செலவு குறைவு; மின் கட்டணத்தைக் கண்டு முதலீட்டாளர்கள் பதறி ஓடுகின்றனர் - நளின் பண்டார சாடல்
+### The cost of electricity is low as hydroelectricity is increased;Investors are running for electricity tariff - Nalin Bandara Chadel
 
 *2024-12-10 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200846) · `ta`
 
-நீர் மின் உற்பத்தியினுடாக 65 சதவீத மின்சாரம் உற்பத்தி செய்யப்படுவதால் இலங்கை மின்சாரசபைக்கு செலவு குறைவடைந்துள்ளது. இதனால் பாரிய இலாபம் ஈட்டப்பட்டுள்ளது. அவ்வாறிருக்கையில் ஏன் மின் கட்டணத்தை குறைக்க முடியாது. இலங்கையின் மின் கட்டணத்தைக் கண்டு முதலீட்டாளர்கள் பதறி ஓடுவதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-திங்கட்கிழமை (9) கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
-வருடத்துக்கு இரு திருத்தங்கள் எனக் காணப்பட்ட முறைமை ரணில் விக்கிரமசிங்க அரசாங்கத்தால் 4 ஆக அதிகரிக்கப்பட்டது. ஒக்டோபரில் விலை திருத்தம் மேற்கொள்ளப்பட்டிருக்க வேண்டும். எனினும் அதற்கான நடவடிக்கை முன்னெடுக்கப்படவில்லை. எனினும் ஏற்கனவே எடுக்கப்பட்ட தீர்மானங்களுக்கமைய ஜனவரியில் திருத்தங்களை மேற்கொள்ள வேண்டியது.
+
+Hydroelectricity increase reduces electricity costs. Investors concerned about tariffs. CEB generates 65% hydro, 17% renewable energy. Coal and fuel usage minimal. Hydro costs Rs 57.85 per unit vs fuel's Rs 105. Public Utilities Commission intervenes for reductions. JVP claims benefits from Victoria, Randenigala reservoirs. Government promises 30% tariff cut, but commission has authority.
+
+🟩
+
+The cost of the Ceylon Electricity Board has been reduced due to the generation of 65 per cent of the power generation.. This has made a massive profit. If so, why not reduce electricity bills. United People's Power Member Nalin Bandara said investors were worried about Sri Lanka's electricity tariffs.
+
+He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Monday (9).
+
+The system, which was seen as two amendments per year, was increased to 4 by Ranil Wickremesinghe government. The price revision must have been carried out in October. However, the action has not been carried out. However, according to the decisions already taken, the amendments were to be made in January.
 
 ...
 
 [Data](articles/866151d9.json)
+
+[Extended Data](ext_articles/866151d9.ext.json)
 
 ---
 
@@ -2121,193 +2283,5 @@ General Secretary of the union Ranjan Jayalal pointed out during a press briefin
 [Data](articles/a4dfb08f.json)
 
 [Extended Data](ext_articles/a4dfb08f.ext.json)
-
----
-
-### Appointment of the new Secretary of the Ministry of Fisheries
-
-*2024-12-09 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழில்-அமைச்சின்-புதிய-செயலாளர்-நியமனம்/175-348477) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-New Secretary of Ministry of Fisheries: Attorney General M.A.L. Mr.S.Mannayaka appointed. Handover ceremony conducted by President Dr.Nandika Sanath Kumanayake at Presidential Secretariat on Monday.
-
-🟩
-
-Attorney General M.. A.. L. Mr.. S.. Mannayaka has been appointed.
-
-President of the President, Dr. Nandika Sanath Kumanayake, Attorney -at -Law. A.. L. He handed over to S. Mantinayaka at the Presidential Secretariat on Monday morning.
-
-◼️
-
-[Data](articles/c12976e1.json)
-
-[Extended Data](ext_articles/c12976e1.ext.json)
-
----
-
-### Dullas writes to Ranil to Ranil
-
-*2024-12-09 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204191) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Ranil Wickremesinghe accused of financial corruption & economic mismanagement. Dullas Alahapperuma claims Wickremesinghe responsible for "political abortion" & "economic assassination". Letter calls for action against economic killers & criticizes Wickremesinghe's handling of local government elections.
-
-🟩
-
-The Free Peoples Council states that former President Ranil Wickremesinghe has been a political abortion and financially economic assassination that was financially corrupted without any reason.
-
-It is said to be a letter to all Members of the Opposition, including the President, Opposition Leader, the President, Opposition Leader, President and the Opposition Leader.
-
-Leader of the People's Leader of the People's Leader Dullas Alahapperuma said that it was ready to take over Rs.
-
-He says that measures come to the verdict from the verdict from the verdict.
-
-# The letter from the letter to Ranil, a criminal accusation of a criminal accusation, have been written in a number of events.
-
-The letter is the government that is leading the present President of the present President and the UPFA is looking forward to the action against these economic killers.
-
-The letter stressed that Ranil Wickremesinghe has enough time to add a sense of occasion to political history and add a chance to political history.
-
-...
-
-[Data](articles/ebbc5b30.json)
-
-[Extended Data](ext_articles/ebbc5b30.ext.json)
-
----
-
-### Bail for Powder Lessi
-
-*2024-12-09 12:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொடி-லெஸ்ஸிக்கு-பிணை/175-348475) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Janit Madusanga, linked to organized crime, granted bail. Case highlights ongoing concerns about criminal justice system leniency towards high-profile offenders."
-
-🟩
-
-Janit Madusanga, who is associated with organized crimes, has been released on bail.
-
-◼️
-
-[Data](articles/0768e9ad.json)
-
-[Extended Data](ext_articles/0768e9ad.ext.json)
-
----
-
-### New Secretary to the Ministry of Fisheries, Aquatic and Ocean
-
-*2024-12-09 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204190) · `si`
-
-A.L. Sahana appointed as new Secretary to Ministry of Fisheries, Aquatic and Ocean Resources. President Anura Kumara Dissanayake made announcement.
-
-🟩
-
-President Anura Kumara Dissanayake as the new Secretary of the Fisheries, Aquatic and Ocean Resource Ministry. A. L. Mr. Sahain has been appointed.
-
-Appointment of Appointment Letter of Secretary to the President. A. L. Sahana was given at the Presidential Secretariat this morning.
-
-◼️
-
-[Data](articles/0fdc0470.json)
-
-[Extended Data](ext_articles/0fdc0470.ext.json)
-
----
-
-### “Podi Lassie” granted bail
-
-*2024-12-09 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104104/podi-lassie-granted-bail) · `en`
-
-Notorious underworld figure Janith Madushanka, who is also known by the alias “Podi Lassie”, has been ordered to be released on bail.
-
-The order was delivered by the Balapitiya Magistrate when the suspect was produced before the court this morning (09).
-
-He had been named as the second suspect in the case filed over the alleged death threats made in public at the Boossa Prison against former President Maithripala Sirisena, the then Defence Secretary and certain high-ranking officers of the Prisons Department.
-
-‘Podi Lassie’ was under remand custody at the high-security prison in Boossa over several criminal offences for over two years and there are multiple pending cases before several courts against him over the charges including peddling drugs along with a group of officers of the Police Narcotics Bureau (PNB).
-
-◼️
-
-[Data](articles/74346214.json)
-
-[Extended Data](ext_articles/74346214.ext.json)
-
----
-
-### 74th Anniversary of the Sri Lanka Navy
-
-*2024-12-09 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200770) · `ta`
-
-Sri Lanka Navy celebrates 74th anniversary: 2,138 promotions, ceremonies at naval camps, honoring traditions. Founded in 1950 as Royal Ceylon Navy, renamed Sri Lanka Navy in 1972.
-
-🟩
-
-In this context, 2,138 Senior and Junior Marines have been promoted today, according to the recommendations of Navy Commander Vice Edmilal Priyantha Perera on the 74th anniversary.
-
-Under the advice and guidance of Navy Commander Vice Edmilal Priyantha Perera, special events were held in all naval camps and prioritizing the rituals and religious rituals.
-
-On December 9, 1950, the Navy Act was enacted and the Royal Ceylon Navy was formed.
-
-According to the first Republic of 1972, the name of the Royal Ceylon Navy was removed and identified as the Sri Lanka Navy.
-
-◼️
-
-[Data](articles/45487fed.json)
-
-[Extended Data](ext_articles/45487fed.ext.json)
-
----
-
-### CEB employees do not have bonuses this time
-
-*2024-12-09 11:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-ஊழியர்களுக்கு-இம்முறை-போனஸ்-இல்லை/175-348471) · `ta`
-
-CEB employees denied bonuses despite union request. Board rejects annual incentives. Union leader claims no street protests needed due to political affiliation.
-
-🟩
-
-Although the Ceylon Electricity Employees Union (CEB) with the ruling party has requested, the Board of Directors of the Ceylon Electricity Board (CEB) has not recognized its employees this year.
-
-The General Secretary of the Association Ranjan Jayalal has demanded this year's bonus. Earlier, he said that he was leading the union affiliated with the government and therefore there was no need for employees to take the streets to get bonuses this year.
-
-◼️
-
-[Data](articles/ce85748e.json)
-
-[Extended Data](ext_articles/ce85748e.ext.json)
-
----
-
-### Lacis released on bail
-
-*2024-12-09 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204189) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Janith Madushangkha, a prominent drug dealer, was granted bail. The decision was made by the Balapitiya Magistrate's Court and later confirmed by the Derana Magistrate. This development may have significant implications for the local drug trade and law enforcement efforts.
-
-🟩
-
-Janith Madushangkha, a powerful drug dealer, has been released on bail.
-
-"Today the Derana Magistrate was given the order by the Balapitiya Magistrate's Court.
-
-◼️
-
-[Data](articles/73fad28f.json)
-
-[Extended Data](ext_articles/73fad28f.ext.json)
 
 ---

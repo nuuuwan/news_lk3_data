@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 22:30:03**
+As of **2024-12-09 21:44:15**
 
 ## Newspaper Stats
 
-*Scraped **59,313** Articles*
+*Scraped **59,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,98 +17,20 @@ economynextcom | 3,601
 dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,625
-adaderanalk | 7,214
-tamilmirrorlk | 8,471
-virakesarilk | 9,732
-adaderanasinhalalk | 10,253
+adaderanalk | 7,213
+tamilmirrorlk | 8,470
+virakesarilk | 9,731
+adaderanasinhalalk | 10,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,300 (100.0%) of 59,313 articles have been extended.
+59,296 (100.0%) of 59,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
-
-### Complaint against doctor Archana
-
-*2024-12-09 21:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-எதிராக-முறைப்பாடு/175-348508) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jaffna MP Archana Ramanathan faces complaint from hospital director Dr. T. Sathiyamurthy alleging disruption at Jaffna Bodhana Hospital. Complaint filed with police, citing interference with medical staff work.
-
-🟩
-
-Jaffna MP Archana Ramanathan has lodged a complaint against Jaffna MP Archana Ramanathan for allegedly disrupting the Jaffna Bodhana Hospital.
-
-The complaint filed by the Director of the Hospital Dr. T. Sathiyamurthy said the MP's behavior interferes with the work of medical staff.
-
-The hospital administration has lodged a complaint with the Jaffna police regarding the incident, police said.
-
-◼️
-
-[Data](articles/f0e2be5a.json)
-
-[Extended Data](ext_articles/f0e2be5a.ext.json)
-
----
-
-### Ranil announced from Bar Licens
-
-*2024-12-09 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204206) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former Pres. Ranil Wickremesinghe denies issuing alcohol licenses worth over Rs. 3 billion. Claims licenses were used as political bribes during economic crisis. Government earned Rs. 3.1 billion in excise revenue in first 9 months of the year. Cabinet has authority to grant or revoke revenue permits.
-
-🟩
-
-The office said that former President Ranil Wickremesinghe has not given any alcohol license and has not given any alcohol license that the government has earned over Rs. 3 billion.
-
-The announcement was issued to respondents that Ranil Wickremesinghe has issued alcohol licenses as political bribes.
-
-The President has issued an excise license at a time when the country was economically collapsed by the excise licenses.
-
-The statement stated that the government has earned an income earning Rs. 3.1 billion in the first nine months of this year.
-
-The former presidential office also states that the procedure followed by the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter of the Excise.
-
-The announcement further shows that the Cabinet has the power to carry out or abolish the formal revenue permits.
-
-◼️
-
-[Data](articles/f7e8894e.json)
-
-[Extended Data](ext_articles/f7e8894e.ext.json)
-
----
-
-### No liquor licenses were issued as bribes: Ex-President Ranil responds to allegations
-
-*2024-12-09 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104118/no-liquor-licenses-were-issued-as-bribes-ex-president-ranil-responds-to-allegations) · `en`
-
-Former President Ranil Wickremesinghe’s office has issued a statement, claiming that the former President did not issue any liquor licenses in violation of the rules and regulations of the Excise Department.
-
-The statement further highlighted that the government has received a revenue of over Rs. 3.1 billion during the first nine months of this year through the new liquor licenses issued during Wickremesinghe’s tenure as the President.
-
-The statement pointed out that the legitimacy of the procedure followed in granting the liquor licenses was verified through the recommendations made in the letter forwarded by the Election Commission to the Commissioner General of Excise on the 19 August 2024.
-
-It further highlights that the incumbent Cabinet of Ministers has the power to renew or revoke these “formal revenue-generating” liquor licenses.
-
-...
-
-[Data](articles/70276fe0.json)
-
-[Extended Data](ext_articles/70276fe0.ext.json)
-
----
 
 ### Everyone should dedicate to Sri Lanka to become a limited country of bribery - President
 
@@ -153,30 +75,6 @@ During his visit to Colombo, he was admitted to a private hospital in Kaluppitti
 [Data](articles/3bcb87b5.json)
 
 [Extended Data](ext_articles/3bcb87b5.ext.json)
-
----
-
-### Coconut exported traders attempt: government should take drastic measures - Frontline Socialist Party
-
-*2024-12-09 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200831) · `ta`
-
-Sri Lanka faces coconut shortage; traders exploit gap. Government urged to act swiftly to stabilize prices and ensure supply.
-
-🟩
-
-With coconut shortages in the market, a few traders are trying to make the coconut and export them and make profits through it.. The government should take drastic measures to solve the issue, said the Socialist Party's educational campaign secretary, Pubudu Jayagoda.
-
-Coconut prices have risen as coconut shortages have intensified in the market. A coconut in the market is sold for 192 rupees. A few parts of Colombo are sold for 120 rupees.
-
-3100 million coconuts are produced annually in Sri Lanka according to past data. In this case, 2100 million coconuts are used for annual consumption, with plenty of coconuts and raised $ 400- 600 million.
-
-However, this year's coconut production has declined to 700 million. The short -term factors have not had the impact on this. Long -term factors have been influenced.
-
-...
-
-[Data](articles/c5287ca2.json)
-
-[Extended Data](ext_articles/c5287ca2.ext.json)
 
 ---
 
@@ -2341,5 +2239,95 @@ The Citrus Leisure stock was trading up at 4.50. (ColomboDec9/2024)
 [Data](articles/856c0e78.json)
 
 [Extended Data](ext_articles/856c0e78.ext.json)
+
+---
+
+### Ava group leader arrested in Canada - France appeals to deport
+
+*2024-12-09 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200771) · `ta`
+
+Sri Lankan Ava group leader Prasanna Nagalingam arrested in Canada. France seeks deportation due to murder charges. Leader of banned motorcycle group in Jaffna, involved in conflict with rival Elc Boyz. Attack occurred on September 22, 2022.
+
+🟩
+
+Prasanna Nagalingam, who is considered to be the leader of the banned motorcycle group in Sri Lanka, is facing the deportation of France on the basis of murder and attempted murder.
+
+France has appealed to Prasanna to be deported in September 2022, regarding the murder of Abiraman Balakrishnan and the injury to another.
+
+Prasanna Nagalingam, also known as Ajanthan Subramaniam, is considered to be the leader of the Awa Group of Sri Lanka, according to the documents.
+
+Ava is a banned motorcycle group in Jaffna, the northern part of Sri Lanka.
+
+The Awa group targeted its rival Elc Boyz, a group, said in the documents.
+
+French media reports that the two groups were involved in the conflict to bring under their control in the northern suburb of the Northern Territory of the French capital.
+
+Nagalingam and his five colleagues hide their faces and used sharp weapons, including knives, and attacked two people in the vehicle on September 22, 2022.
+
+◼️
+
+[Data](articles/241d6bc5.json)
+
+[Extended Data](ext_articles/241d6bc5.ext.json)
+
+---
+
+### Ousted Syrian leader Assad flees to Moscow after fall of Damascus, Russian state media say
+
+*2024-12-09 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104097/ousted-syrian-leader-assad-flees-to-moscow-after-fall-of-damascus-russian-state-media-say) · `en`
+
+Ousted Syrian leader Bashar Assad fled to Moscow and received asylum from his longtime ally, Russian media said Sunday, hours after a stunning rebel advance seized control of Damascus and ended his family’s 50 years of iron rule.
+
+Thousands of Syrians poured into streets echoing with celebratory gunfire and waved the revolutionary flag in scenes that recalled the early days of the Arab Spring uprising, before a brutal crackdown and the rise of an insurgency plunged the country into a nearly 14-year civil war.
+
+The swiftly moving events raised questions about the future of the country and the wider region.
+
+...
+
+[Data](articles/fed908e8.json)
+
+[Extended Data](ext_articles/fed908e8.ext.json)
+
+---
+
+### Sri Lanka targets about USD19 billion in exports in 2025
+
+*2024-12-09 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104096/sri-lanka-targets-about-usd19-billion-in-exports-in-2025) · `en`
+
+Sri Lanka’s Export Development Board (EDB) forecasts that the country’s total export earnings for 2025 would be USD18.7 billion, EDB Chairman Mangala Wijesinghe said yesterday (08).
+
+He added that this forecast comprises USD14.54 billion from merchandise exports and USD4.16 billion from services exports.
+
+Wijesinghe said in the first 10 months of 2024, Sri Lanka has earned USD13.5 billion from total exports (merchandise and services). This is a 7.19 per cent increase compared to the first 10 months of 2023.
+
+The annual target for 2024 is USD16.4 billion and Sri Lanka has achieved 82 per cent of that annual target in the first 10 months of 2024, he said.
+
+◼️
+
+[Data](articles/ef967b24.json)
+
+[Extended Data](ext_articles/ef967b24.ext.json)
+
+---
+
+### The government boycottss Ranil's IMF, ignoring the people's mandate - Sajith
+
+*2024-12-09 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200767) · `ta`
+
+Sajith Premadasa criticizes government for ignoring IMF promises, increasing national debt and affecting healthcare, education, agriculture and fisheries.
+
+🟩
+
+Opposition Leader Sajith Premadasa said that the current government, which has received the Great People's Orders and the Great seats, has been initiated by the government, in the beginning, forgotten the promises made by the International Monetary Fund, and the policies of the International Monetary Fund, which has been carried out by the government of President Ranil Wickremesinghe.
+
+United People's Power Leader and Opposition Leader Sajith Premadasa said this while addressing a public meeting held in Negombo on Sunday (08), chaired by MP Kavinda Jayawardena.
+
+The current government, which has received the Great People's Orders and the Great seats and the parliamentary gift, has begun to advance the policies of the International Monetary Fund by President Ranil Wickremesinghe's government, in the beginning.
+
+...
+
+[Data](articles/5d865fbe.json)
+
+[Extended Data](ext_articles/5d865fbe.ext.json)
 
 ---

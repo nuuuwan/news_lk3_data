@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 14:02:55**
+As of **2024-12-09 14:29:44**
 
 ## Newspaper Stats
 
-*Scraped **59,257** Articles*
+*Scraped **59,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,571
 economynextcom | 3,598
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,613
-adaderanalk | 7,204
-tamilmirrorlk | 8,463
+adalk | 5,614
+adaderanalk | 7,206
+tamilmirrorlk | 8,465
 virakesarilk | 9,720
 adaderanasinhalalk | 10,243
 
@@ -26,59 +26,153 @@ adaderanasinhalalk | 10,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,230 (100.0%) of 59,257 articles have been extended.
+59,234 (100.0%) of 59,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### மாவா வைத்திருந்தவர் கைது
+### “விளையாட்டிலிருந்து அரசியலை நீக்குவேன்”
+
+*2024-12-09 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/விளையாட்டிலிருந்து-அரசியலை-நீக்குவேன்/44-348483) · `ta`
+
+விளையாட்டிலிருந்து அரசியலை முற்றாக நீக்கி, சகல விளையாட்டுகளையும் ஒலிம்பிக் போட்டிகளின் இலக்கை நோக்கி கொண்டு செல்லும் திட்டங்கள் 2025 ஜனவரி முதல் வாரத்தில் ஆரம்பிக்கப்படும் எனவும், இதனால் 2028 ஆம் ஆண்டை ஒரு ஒலிம்பிக் வருடமாக எதிர்பார்க்கலாம் எனவும் விளையாட்டுத்துறை பிரதி அமைச்சர் சுகத் திலகரத்ன, திங்கட்கிழமை (09) தெரிவித்தார்.
+
+தேசிய வில்வித்தை சம்பியன்ஷிப் போட்டியில் பிரதம அதிதியாக கலந்து கொண்டு உரையாற்றும் போதே விளையாட்டுத்துறை பிரதி அமைச்சர் சுகத் திலகரத்ன இவ்வாறு தெரிவித்தார்.
+
+நாட்டின் விளையாட்டுக்கள் தேக்கமடையாமல் விளையாட்டுக் கழகங்களில் நிலவும் பிரச்சனைகள் விரைவில் தீர்க்கப்படும் என்றும், விளையாட்டின் மூலம் முன்னேறக்கூடிய அழகான நாட்டிற்குள் வளமான நாட்டை உருவாக்கும் தேசிய நோக்கம் ஆரம்பிக்கப்பட்டுள்ளதாகவும் திலகரத்ன தெரிவித்தார்.
+
+...
+
+[Data](articles/b0dcb4e8.json)
+
+---
+
+### Bar Pamid: Ranil Description
+
+*2024-12-09 14:09:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-பேமிட்-ரணில்-விளக்கம்/175-348482) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Excise licenses granted under rules. Gov't earns 3.1Bn in 9 months. Fees increased & new amendments implemented Feb 2024. Annual permit fee: 1Mn. Liquor licenses auctioned, 25% fund for relaxation measures. Court case on license issuance due to public complaints."
+
+🟩
+
+In a statement issued by former President Ranil Wickremesinghe's office, all the licenses are granted in accordance with the rules and regulations of the Department of Excise.
+
+The announcement also stated that the total income earned by the government in the nine months through the prosecuting Uri Mangal will be over 3.1 billion rupees.
+
+After independence, the government did not charge money to grant the excise license until 2022. By then, the tendency to lose direct taxes in the country was shown. At the time, the Parliamentary Committee on Ways and Ways told the government to take appropriate action to get rid of the country's rigorous economic bankruptcy. Accordingly, as an alternative to the immediate direct tax loss, it was decided to increase the government's revenue, collect money and grant the excise license.
+
+...
+
+[Data](articles/2dbaa554.json)
+
+[Extended Data](ext_articles/2dbaa554.ext.json)
+
+---
+
+### Arrest
 
 *2024-12-09 13:52:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாவா-வைத்திருந்தவர்-கைது/76-348481) · `ta`
 
-நுவரெலியா விக்டோரியா பூங்கா பிரதான நுழைவாயிலுக்கு முன்பாக உள்ள கடையொன்றில்  மாவா விற்பனை செய்து வந்த ஒருவர் ஞாயிற்றுக்கிழமை(08) இரவு கைது செய்யப்பட்டுள்ளதாக நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-கைது செய்யப்பட்ட சந்தேகநபரிடம் இருந்து கடையில் மறைத்து வைத்திருந்த 4 கிலோ 200 கிராம் மாவாவை பொலிஸார்  கைப்பற்றியுள்ளனர்.
 
-குறித்த சந்தேகநபர் நானுஓயா பகுதியை சேர்ந்த  28 வயதுடையவர் எனவும் அவரை திங்கட்கிழமை(09)  நுவரெலியா மாவட்ட  நீதவான் நீதிமன்றில்  முற்படுத்தப்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+Nuwara Eliya police arrested a 28-year-old man selling Maa near Victoria Park. They seized 4 kg of Mawa hidden in his shop. The suspect will be brought to court on Monday.
+
+🟩
+
+Nuwara Eliya police said that a man who sold Maa was selling a Maa at a shop in front of the Nuwara Eliya Victoria Park on Sunday night.
+
+Police have seized 4 kg of 200 grams of Mawa, which was hidden in the shop from the arrested suspect.
+
+The suspect is a 28 -year -old from Nanuoya area and has taken steps to bring him to the Nuwara Eliya District Magistrate's Court on Monday (09).
 
 ◼️
 
 [Data](articles/02673bf2.json)
 
+[Extended Data](ext_articles/02673bf2.ext.json)
+
 ---
 
-### சளிப்பிடித்திருந்த குழந்தை உயிரிழப்பு
+### Cloudy die
 
 *2024-12-09 13:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சளிப்பிடித்திருந்த-குழந்தை-உயிரிழப்பு/175-348480) · `ta`
 
-சளிப்பிடித்து வீட்டில் சிகிச்சை பெற்று தெமடபிட்டிய தம்மிக்ககம பகுதியைச் சேர்ந்த எச்.ஜி. நாதினி. தில்ஹானி என்ற 3 மாத பெண் குழந்தை உயிரிழந்துள்ளதாக மாரவில பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-உயிரிழந்த குழந்தையின் பெற்றோர் தென்னை நார் ஆலை ஒன்றில் பணிபுரியும் தம்பதிகள் எனவும், இந்த குழந்தை  இருவருக்கும் இரண்டாவது திருமணமானத்தின் ஊடாக பிறந்த  குழந்தை எனவும் பொலிஸார் தெரிவித்தனர்.
 
-குழந்தை சளித்தொல்லையால் பாதிக்கப்பட்டு வீட்டில் சிகிச்சை பெற்று வந்ததும், சிறுமி பெற்றோருடன் வீட்டில் உறங்கிக் கொண்டிருந்ததும் சிறுமியின் மூக்கில் இருந்து ரத்தம், பால் போன்ற திரவம் வடிந்திருப்பதும் பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+A 3-month-old girl named Dilhani died in Demadapitiya. Police investigation reveals she had a cold and was being treated at home. The baby was found with blood and milk coming out of her nose while sleeping with her parents.
+
+🟩
+
+HG from Damadapitiya Dhammikagama area of ​​Demadapitiya. Natin. Dilhani, a 3 -month -old girl, died, Marawila police said.
+
+Police said that the parents of the deceased child were a couple working in a coconut fiber plant and that the child was born through the second marriage.
+
+Police investigations have revealed that the baby was suffering from colds and was being treated at home, and the girl was sleeping with her parents and had a fluid of blood and milk from the girl's nose.
 
 ◼️
 
 [Data](articles/a7a9862f.json)
 
+[Extended Data](ext_articles/a7a9862f.ext.json)
+
 ---
 
-### විදුලිබල මණ්ඩල සේවකයින්ගේ ප්‍රසාද දීමනාව ගැන අවසන් තීරණය
+### Lohan Ratwatte granted bail over drunk driving incident
+
+*2024-12-09 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104109/lohan-ratwatte-granted-bail-over-drunk-driving-incident) · `en`
+
+Former State Minister Lohan Ratwatte, who was arrested and remanded for causing a road accident while driving under the influence of alcohol, has been granted bail.
+
+He was ordered to be released on bail after being produced before the Colombo Fort Magistrate’s Court today (9), Ada Derana reporter said.
+
+Ratwatte was arrested on December 06 for causing a road accident while driving under the influence of alcohol and threatening the aggrieved party.
+
+Subsequently, he was remanded until December 09 after being produced before the Colombo Chief Magistrate’s Court on December 07.
+
+Ratwatte, who was released on bail on December 05 in a separate case, was returning from a relative’s house on December 06 when his Defender collided with another vehicle near the Kollupitiya Junction.
+
+...
+
+[Data](articles/bf2943f3.json)
+
+---
+
+### Final decision on bonus of the Electricity Board
 
 *2024-12-09 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204194) · `si`
 
-ජාතික ජන බලවේගයට සම්බන්ධ ලංකා විදුලි සේවක සංගමය විදුලිබල මණ්ඩලයේ සේවකයින්ට ප්‍රසාද දීමනාව ලබාදෙන ලෙස ඉල්ලා සිටියද, එවැනි ප්‍රසාද දීමනාවක් මේ අවස්ථාවේදී ලබා නොදීමට ලංකා විදුලිබල මණ්ඩලයේ අධ්‍යක්ෂ මණ්ඩලය තීරණය කර තිබේ.
+Here's a summary of the article in 200 characters:
 
-මෙම වසරේ ලංකා විදුලිබල මණ්ඩලය විශාල ලාභයක් ලැබුවද, එම මුදල් ණය ආපසු ගෙවීම් සහ විදුලිබිල අඩු කිරීම සඳහා යොදවා ඇති බව එහි අධ්‍යක්ෂ මණ්ඩලය අවධාරණය කරයි.
 
-ලංකා විදුලිබල මණ්ඩලය ලාභ ලබන තත්ත්වයකට පත්ව ඇති බැවින් දෙසැම්බර් 10 වැනිදාට පෙර සේවක ප්‍රසාද දීමනාව ලබාදීමට පියවර ගන්නා ලෙස ලංකා විදුලි සේවක සංගමය, විදුලිබල මණ්ඩලයේ සභාපතිවරයාගෙන් පසුගියදා ඉල්ලීමක් කළේය.
 
-ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් එම සංගමයේ ප්‍රධාන ලේකම් රංජන් ජයලාල් මහතා කියා සිටියේ පැවති ආණ්ඩු යටතේ වසර දෙකක් විදුලිබල මණ්ඩලයේ සේවකයින්ට ප්‍රසාද දීමනාව නොලැබුණද, වර්තමානයේ තම වෘත්තීය සමිතිය නියෝජනය කරන ආණ්ඩුවක් බලයට පත්ව ඇති බැවින් ප්‍රසාද දීමනාව අනිවාර්යයෙන්ම සේවකයන්ට ලබාදිය යුතු බවය.
+CEB denies staff bonus despite profit. Funds used for debt repayment and tariff reduction. Employees protest, union demands payment.
+
+🟩
+
+The Ceylon Electricity Board (CEB) Board Board has decided not to give a bonus to the Ceylon Electricity staff employees.
+
+The Ceylon Electricity Board (Ceylon Electricity Board has achieved a major profit, the Board of Directors emphasized that the money has been deployed to reduce debt repayment and electricity tariffs.
+
+The Ceylon Electricity staff recently requested the Chairman of the CEB, the CEB Chairman to be paid before the Ceylon Electricity Board (CEB).
+
+Addressing a press conference, the General Secretary of the Association Ranjan Jayalal said that the CEB employees were not given the bonus of the CEB, but the bonus should be given to the employees.
+
+However, the Ceylon Electricity Association of Ceylon Electricity Board (CEB) has asked for a bonus to the National Institute of Ceylon Electricity.
 
 ...
 
 [Data](articles/c19a3cbd.json)
+
+[Extended Data](ext_articles/c19a3cbd.ext.json)
 
 ---
 
@@ -109,6 +203,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/75b35d99.json)
+
+---
+
+### Tonga’s prime minister quits moments ahead of no-confidence motion in parliament
+
+*2024-12-09 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104108/tongas-prime-minister-quits-moments-ahead-of-no-confidence-motion-in-parliament) · `en`
+
+Tonga’s Prime Minister Siaosi Sovaleni abruptly resigned in parliament on Monday ahead of a planned no-confidence vote in his leadership, capping a period of fraught relations between his government and Tonga’s king.
+
+Sovaleni, who took office in 2021, did not specify a reason for his departure but his resignation halted the no-confidence motion expected on Monday. It was not immediately clear who would succeed him.
+
+His resignation comes less than a year before a national election in Tonga, a South Pacific island nation of 105,000 people, and it highlighted the occasional tensions between Tonga’s monarchy and elected lawmakers in a still-young democracy after reforms that transferred powers from the royal family and nobles to regular citizens in 2010.
+
+...
+
+[Data](articles/79c544e4.json)
 
 ---
 
@@ -573,6 +683,24 @@ The driver of a 60 -year -old jeep from Hunnkiriya area was arrested by the poli
 [Data](articles/c91888ad.json)
 
 [Extended Data](ext_articles/c91888ad.ext.json)
+
+---
+
+### රු. මි. 206,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් දෙසැම්බර් 11 දා
+
+*2024-12-09 11:20:31* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--206-000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-දෙසැම්බර්-11-දා/11-413531) · `si`
+
+රුපියල් මිලියන දෙලක්ෂ හයදහසක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් දෙසැම්බර් 11දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 76,000  ක භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 90, 000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 40, 000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව සඳහන් කරයි.
+
+වෙන්දේසිය සඳහා ලංසු භාර ගැනීම දෙසැම්බර් 11  දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි.
+
+මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම දෙසැම්බර් 13   දා සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/5ee2d66c.json)
 
 ---
 
@@ -2123,129 +2251,5 @@ The woman who was thrown into the bush fell into the bush, no injuries were inju
 [Data](articles/5cc7aceb.json)
 
 [Extended Data](ext_articles/5cc7aceb.ext.json)
-
----
-
-### Celebrates the fourth anniversary of the herana
-
-*2024-12-08 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204171) · `si`
-
-Dhonane newspaper celebrates 4th anniversary with events at Vihara Maha Devi Park. Ceremony attended by Speaker of Parliament Dilith Jayaweera. Children's art exhibition and product sale programs organized. Aruna Niketha named most popular princess on social media. Ravi Royrster's Pattern Band performs at outdoor faculty.
-
-🟩
-
-The fourth anniversary celebration of the Dhonane newspaper won the fourth anniversary of the Dhonane, which won a short period of time in Sri Lanka.
-
-At the Vihara Maha Devi Park, Colombo was declared as the General Secretary of the Parliament of Sri Lanka.
-
-The Draohen newspaper began with a variety and innovation of the traditional framework of a female newspaper in the inherited of the traditional framework.
-
-Programs were also organized to enhance their stalls and children's artistic talents to promote and sell the products of the country.
-
-The main ceremony of the Anniversary Commemoration was held by the Secretary General of Sri Lanka, the Founder of the Parliament of Sri Lanka and the Founder of the Liberty Publishers Institute, Parliamentarian Dilith Jayaweera.
-
-The birthday of the Parliamentary Secretariat was also celebrated yesterday.
-
-The papers were chosen as the Dhiranahi Princess.
-
-Aruna Niketha was elected as the most popular princess of social media.
-
-...
-
-[Data](articles/f8e312ab.json)
-
-[Extended Data](ext_articles/f8e312ab.ext.json)
-
----
-
-### Person killed in shooting in Gampaha
-
-*2024-12-08 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104086/person-killed-in-shooting-in-gampaha) · `en`
-
-A 39-year-old man has been killed in a shooting incident reported at Kaudangaha Junction in Thammita, Gampaha.
-
-Police said that the unidentified gunmen have arrived on a motorcycle and opened fire at the victim.
-
-◼️
-
-[Data](articles/a9af561d.json)
-
-[Extended Data](ext_articles/a9af561d.ext.json)
-
----
-
-### Gampaha shooting
-
-*2024-12-08 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204170) · `si`
-
-Gampaha shooting: Motorcycle rider killed, another injured. Police investigating cause. Remains at Gampaha hospital.
-
-🟩
-
-The police said that night was shooting at the Kaumitiya Road, Thammeda Road, Gampaha Police Division.
-
-A person who was traveling on a motorbike was shot dead by another motorcycle, and the man who was injured was rushed to the Gampaha Hospital.
-
-However, the cause of shooting is yet to be ascertained, police suspect that the shooting has been carried out with a pistol type.
-
-The remains are placed at the Gampaha hospital morgue and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/3e527bf6.json)
-
-[Extended Data](ext_articles/3e527bf6.ext.json)
-
----
-
-### The beautiful Chinese woman came from earth
-
-*2024-12-08 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204169) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Chinese woman from Earth lectures on sin in Wellawatte/Bambalapitiya. Accident occurs while filming. Tree branch falls, girl unharmed after hitting bush. Police investigation ongoing.
-
-🟩
-
-A Chinese lecture was heading on the sinful sinner at the Wellawatte and Bambalapitiya last evening in Wellawatte and Bambalapitiya.
-
-The accident occurred while the friend was filming by the mobile phone.
-
-It is noted that a branch of a tree falls out of a tree when she is moving on the sin.
-
-The police said that the girl had not wounded due to falling on a bush.
-
-◼️
-
-[Data](articles/529de037.json)
-
-[Extended Data](ext_articles/529de037.ext.json)
-
----
-
-### A young man who washed a motorcycle fell into a well
-
-*2024-12-08 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200758) · `ta`
-
-Young man washing motorcycle falls into well, drowns in Kalutara. 18-year-old from Mahiyanganaya area. Incident occurred Sunday evening. Police investigating.
-
-🟩
-
-A young man who came to the well to wash a motorcycle with friends has fallen into the well and drowned.
-
-The accident occurred on Sunday evening in Panapitiya, Kalutara, police said.
-
-The youth fell into the well and drowned in the well while the bucket fell into the well and tried to recover it.
-
-The deceased belongs to the 18 -year -old Mahiyanganaya area, police said.
-
-◼️
-
-[Data](articles/9cda7e89.json)
-
-[Extended Data](ext_articles/9cda7e89.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 14:43:08**
+As of **2024-12-09 15:14:46**
 
 ## Newspaper Stats
 
-*Scraped **59,263** Articles*
+*Scraped **59,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,66 @@ economynextcom | 3,598
 dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,615
-adaderanalk | 7,206
+adaderanalk | 7,207
 tamilmirrorlk | 8,465
 virakesarilk | 9,720
-adaderanasinhalalk | 10,243
+adaderanasinhalalk | 10,245
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,234 (100.0%) of 59,263 articles have been extended.
+59,241 (100.0%) of 59,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### “விளையாட்டிலிருந்து அரசியலை நீக்குவேன்”
+### ශ්‍රී ලංකාවට ලකුණු 109ක පරාජයක්
 
-*2024-12-09 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/விளையாட்டிலிருந்து-அரசியலை-நீக்குவேன்/44-348483) · `ta`
+*2024-12-09 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204197) · `si`
 
-விளையாட்டிலிருந்து அரசியலை முற்றாக நீக்கி, சகல விளையாட்டுகளையும் ஒலிம்பிக் போட்டிகளின் இலக்கை நோக்கி கொண்டு செல்லும் திட்டங்கள் 2025 ஜனவரி முதல் வாரத்தில் ஆரம்பிக்கப்படும் எனவும், இதனால் 2028 ஆம் ஆண்டை ஒரு ஒலிம்பிக் வருடமாக எதிர்பார்க்கலாம் எனவும் விளையாட்டுத்துறை பிரதி அமைச்சர் சுகத் திலகரத்ன, திங்கட்கிழமை (09) தெரிவித்தார்.
+දකුණු අප්‍රිකාවට එරෙහි දෙවැනි හා අවසන් ටෙස්ට් ක්‍රිකට් තරගයෙන්ද ලකුණු 109ක පරාජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායමට අද (9) සිදුවිය.
 
-தேசிய வில்வித்தை சம்பியன்ஷிப் போட்டியில் பிரதம அதிதியாக கலந்து கொண்டு உரையாற்றும் போதே விளையாட்டுத்துறை பிரதி அமைச்சர் சுகத் திலகரத்ன இவ்வாறு தெரிவித்தார்.
+මෙහිදී දකුණු අප්‍රිකාව ලබාදුන් ලකුණු 348ක ඉලක්කයට පිළිතුරු ලෙස ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 69.1කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 238ක් පමණි.
 
-நாட்டின் விளையாட்டுக்கள் தேக்கமடையாமல் விளையாட்டுக் கழகங்களில் நிலவும் பிரச்சனைகள் விரைவில் தீர்க்கப்படும் என்றும், விளையாட்டின் மூலம் முன்னேறக்கூடிய அழகான நாட்டிற்குள் வளமான நாட்டை உருவாக்கும் தேசிய நோக்கம் ஆரம்பிக்கப்பட்டுள்ளதாகவும் திலகரத்ன தெரிவித்தார்.
+ඒ අනුව තරග දෙකකින් සමන්විත වූ මෙම තරගාවලිය තරග 2-0ක් ලෙස පූර්ණ තරගාවලි පරාජයක් ලැබීමට ශ්‍රී ලංකාවට සිදුවිය.
+
+සිව්වන දිනයට ඊයේ තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 5ක් දැවී ලකුණු 205ක් රැස්කරගෙන ජයග්‍රහණයට ලකුණු 143ක් පසුපසින් සිටියේය.
+
+ඒ වනවිට කඩුල්ලේ රැඳි සිටි නායක ධනංජය ද සිල්වා හා කුසල් මෙන්ඩිස් ලකුණු 39ක බැගින් ඉනිමට එක්කර තිබුණි.
+
+කෙසේ නමුත් අද දිනයේ ශ්‍රී ලංකා ඉනිමට ලකුණු 14ක් එක්වද්දී කුසල් මෙන්ඩිස් (46) දැවී ගිය අතර, ඉන් අනතුරුව ධනංජය ද සිල්වා (50) දැවී ගියේය.
+
+කුසල් හා ධනංජය 6 වැනි කඩුල්ලට ලකුණු 97ක සබඳතාවක් පැවැත් වූ අතර, එය ශ්‍රී ලංකා දෙවන ඉනිමේ වාර්තා වූ ඉහළම ලකුණු සබඳතාව ද විය.
 
 ...
 
+[Data](articles/f1c5bade.json)
+
+---
+
+### “I will remove politics from the game”
+
+*2024-12-09 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/விளையாட்டிலிருந்து-அரசியலை-நீக்குவேன்/44-348483) · `ta`
+
+Sri Lanka's Deputy Minister of Sports Sukhat Tilakaratne announced plans to remove politics from sports, aiming to bring all games to the Olympics by 2028. Projects will start in early 2025, focusing on resolving the country's sporting issues and advancing through international competitions.
+
+🟩
+
+Deputy Minister of Sports Sukhath Tilakaratne on Monday (09) said that the projects to remove politics from the game and bring all the games to the target of the Olympic Games will begin in the first week of January 2025 and that 2028 can be expected as an Olympic year.
+
+Deputy Minister of Sports Sukat Tilakaratne said this while addressing the National Archery Championship Competition.
+
+Tilakaratne said that the problems of the country's games will be resolved soon and the national aim of creating a prosperous country within a beautiful country that can advance through the game has begun.
+
+Deputy Minister Sukat Tilakaratne added that the Ministry of Sports has the responsibility of bringing all the games of our country to the international success and that 2028 should be converted into a year of Olympic hopes.
+
+◼️
+
 [Data](articles/b0dcb4e8.json)
+
+[Extended Data](ext_articles/b0dcb4e8.ext.json)
 
 ---
 
@@ -74,19 +106,49 @@ After independence, the government did not charge money to grant the excise lice
 
 ---
 
-### ශ්‍රී ලංකා - දකුණු අප්‍රිකා තීරණතාමක පස්වන දිනය සඳහා තරගය ආරම්භ වෙයි
+### Sri Lanka’s tourism earnings surge by 56% compared to 2023
+
+*2024-12-09 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104110/sri-lankas-tourism-earnings-surge-by-56-compared-to-2023) · `en`
+
+The latest statistics of Sri Lanka Tourism Development Authority (SLTDA) revealed a total of 1,804,873 tourist arrivals so far this year, bringing the count much closer to the target of 2.3 million tourist arrivals set for 2024.
+
+The recent report revealed 184,158 tourist arrivals in the country between November 01 and 30. During the third week of last month, 42,376 tourist arrivals were recorded as the highest number of arrivals.
+
+The highest number of tourists arrived from India, with a total of 41,120 Indian tourists touching down in Sri Lanka while the Russian Federation had the second highest number of tourist arrivals, with a total of 29,053 arrivals.
+
+Meanwhile, the Central Bank of Sri Lanka’s (CBSL) economic indicator report revealed that the tourism earnings have increased up to USD 272.9 million this November, compared to last year’s November earnings of USD 205.3 million.
+
+...
+
+[Data](articles/e4e88543.json)
+
+[Extended Data](ext_articles/e4e88543.ext.json)
+
+---
+
+### Competition begins for Sri Lanka - South Africa's fifth day
 
 *2024-12-09 14:02:04* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-තීරණතාමක-පස්වන-දිනය-සඳහා-තරගය-ආරම්භ-වෙයි/9-413532) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකා කණ්ඩායම අතර දෙවැනි ටෙස්ට් ක්‍රිකට් තරගයේ පස්වන දිනය සඳහා වන තරගය මේ වන විට ආරම්භ වී තිබේ.
+Here's a summary of 200 characters:
 
-ඒ අනුව ජයග්‍රාහී ලකුණු 348ක ඉලක්කයක් හඹා යන ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර පන්දුවාර 59ක් අවසානයේ කඩුලු 05ක් දැවී ලකුණු 219ක් රැස් කරගෙන සිටියේය.
 
-ඒ අනුුව තරගය ජයග්‍රහණය කිරීමට නම් ශ්‍රී ලංකා කණ්ඩායම තවත් ලකුණු 129ක් රැස් කර ගත යුතුව තිබේ.
+
+Sri Lanka vs South Africa: Day 2 of 2nd Test. SL chasing 348, scored 219/5 in 59 overs. Need 129 more for victory.
+
+🟩
+
+The second day of the second Test match between the Sri Lankan team and South Africa has commenced.
+
+Chasing a target of 348 runs, the Sri Lankan team scored 219 runs for the loss of 5 wickets at the end of 59 overs.
+
+Sri Lanka should score 129 runs for the win.
 
 ◼️
 
 [Data](articles/d7503711.json)
+
+[Extended Data](ext_articles/d7503711.ext.json)
 
 ---
 
@@ -160,6 +222,26 @@ Ratwatte, who was released on bail on December 05 in a separate case, was return
 
 [Data](articles/bf2943f3.json)
 
+[Extended Data](ext_articles/bf2943f3.ext.json)
+
+---
+
+### ලොහාන් රත්වත්තේට ඇප
+
+*2024-12-09 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204196) · `si`
+
+අත්අඩංගුවට ගෙන පසුව රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාව අද (09) කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඇප මත මුදාහැර තිබේ.
+
+ඒ රිය අනතුරක් සිදුකර අගතියට පත් පාර්ශවයට තර්ජනය කිරීමේ චෝදනාව සම්බන්ධයෙනි.
+
+බීමතින් රිය ධාවනය, අනතුරක් සිදුකිරීම සහ අගතියට පත් පාර්ශ්වයට තර්ජනය කිරීම යන චෝදනා සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා කොල්ලුපිටිය පොලීසිය විසින් පසුගිය 6 වැනිදා අත්අඩංගුවට ගනු ලැබීය.
+
+ලොහාන් රත්වත්තේ මහතා සිය ඥාති නිවසකට ගොස් නැවත යමින් සිටියදී ඔහු පැදවූ ජීප් රථය කොල්ලුපිටිය මංසන්ධිය අසලදී තවත් මෝටර් රථයක ගැටී එම අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/d1a136fb.json)
+
 ---
 
 ### Final decision on bonus of the Electricity Board
@@ -192,33 +274,49 @@ However, the Ceylon Electricity Association of Ceylon Electricity Board (CEB) ha
 
 ---
 
-### கிட்டத்தட்ட 1000 வேட்பாளர்கள் அறிக்கைகளை சமர்ப்பிக்கவில்லை
+### Nearly 1000 candidates have not submitted reports
 
 *2024-12-09 13:34:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிட்டத்தட்ட-1000-வேட்பாளர்கள்-அறிக்கைகளை-சமர்ப்பிக்கவில்லை/175-348479) · `ta`
 
-2024ஆம் ஆண்டு டிசம்பர் 06ஆம் திகதியுடன் முடிவடைந்த காலக்கெடுவிற்குள் ஒப்படைக்கப்பட்ட 2024 பாராளுமன்றத் தேர்தல் தொடர்பான வருமானம் மற்றும் செலவு அறிக்கைகளின் தொகுப்பை தேசிய தேர்தல் ஆணைக்குழு வெளியிட்டுள்ளது.
+Summary: 7412/8361 candidates (89%) submitted income/expenditure reports for 2024 parliamentary election. 493/690 independent candidates and 434/527 national list members also reported. 998 candidates missed deadline.
 
-தேர்தல் ஆணைக்குழுவின் அறிக்கையின்படி, தேர்தலில் போட்டியிட்ட அனைத்து அரசியல் கட்சிகளைச் சேர்ந்த 8361 வேட்பாளர்களிடமிருந்து மொத்தம் 7412 வருமானம் மற்றும் செலவு அறிக்கைகள் ஒப்படைக்கப்பட்டுள்ளன.
+🟩
 
-இதேவேளை, சுயேச்சை அரசியல் குழுக்களில் போட்டியிட்ட 690 வேட்பாளர்களிடமிருந்து 493 செலவு அறிக்கைகள் கையளிக்கப்பட்டுள்ளன.
+The National Election Commission has issued a set of income and expenditure reports related to the 2024 parliamentary election, which was handed over to the deadline for the end of December 6, 2024.
 
-பெயரிடப்பட்ட 527 தேசியப் பட்டியல் உறுப்பினர்களில், 434 நபர்கள் மட்டுமே தங்கள் வருமானம் மற்றும் செலவு அறிக்கைகளை கையளித்துள்ளனர்.
+According to the Election Commission's report, a total of 7412 income and expenditure reports have been handed over from 8361 candidates from all political parties contesting the election.
+
+Meanwhile, 493 cost statements have been handed over from 690 candidates contested in independent political groups.
+
+Of the 527 national list members, only 434 have handed over their income and expenditure reports.
 
 ◼️
 
 [Data](articles/87a8bdd5.json)
 
+[Extended Data](ext_articles/87a8bdd5.ext.json)
+
 ---
 
-### එජාප හිටපු නාගරික මන්ත්‍රීට එරෙහි අතුරු තහනම් නියෝගය දීර්ඝ කෙරේ
+### Interim injunction against UNP MPs is extended
 
 *2024-12-09 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204193) · `si`
 
-මරදාන අලෙවි මවුලානා ප්‍රජා ශාලාව ආශ්‍රිතව අනවසර ඉදිකිරීම් සිදුකිරීම වළක්වාලමින් පනවා තිබෙන අතුරු තහනම් නියෝගය අප්‍රේල් මස 01 වනදා දක්වා දීර්ඝ කරන ලෙස අභියාචනාධිකරණය අද (0+) නියෝග කළේය.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Court of Appeal extends interim injunction against UNP MPs, ordering prevention of unauthorized structures as of April 1.
+
+🟩
+
+The Court of Appeal today (0+) ordered the interim injunction order to prevent unauthorized structures around April 1.
 
 ◼️
 
 [Data](articles/75b35d99.json)
+
+[Extended Data](ext_articles/75b35d99.ext.json)
 
 ---
 
@@ -235,6 +333,8 @@ His resignation comes less than a year before a national election in Tonga, a So
 ...
 
 [Data](articles/79c544e4.json)
+
+[Extended Data](ext_articles/79c544e4.ext.json)
 
 ---
 
@@ -2179,67 +2279,5 @@ In response to 199 runs, India lost all the wickets in 35.2 overs and lost 139 r
 [Data](articles/e9c535ae.json)
 
 [Extended Data](ext_articles/e9c535ae.ext.json)
-
----
-
-### Taxes: Two cheers  and a few suggestions
-
-*2024-12-08 23:10:31* · [`dailyftlk`](https://www.ft.lk/columns/Taxes-Two-cheers-and-a-few-suggestions/4-770232) · `en`
-
-I read a long rant about the online submission of taxes posted on X, formerly Twitter, on the last day for submitting income-tax returns. This was by Nisansa de Silva, a friend who teaches computer science. It was a long thread and included words such as “rage” and many other words in capitals. But the most important sentences were: “Now I understand that this is the first time they are doing this online and it is bound to be bumpy. Woe be it if they go back to paper.”
-
-I too had spent many hours, standing in line to get my PIN, staring at the screen waiting for the system to respond, etc. I had gone through the same torturous process but strangely I experienced no rage. Was it simply because I was double my friend’s age?
-
-...
-
-[Data](articles/f466ea1b.json)
-
-[Extended Data](ext_articles/f466ea1b.ext.json)
-
----
-
-### Financial sector should shoulder heavy burden on promoting growth via new market products
-
-*2024-12-08 22:56:24* · [`dailyftlk`](https://www.ft.lk/columns/Financial-sector-should-shoulder-heavy-burden-on-promoting-growth-via-new-market-products/4-770230) · `en`
-
-It is those banks which can strike the right balance that will succeed in a recession-hit economy
-
-In a recession-hit economy, like the bankers, the borrowers are also stressed-out due to the struggle which now they must make first to survive and then to succeed in a secured livelihood. Hence, any loan being granted is a measure to take that stress out of him. That requires a banker to extend a supportive hand to the borrower. If he does not do so, the prospective borrowers will be driven to the informal money lenders who will supply the needed funds more conveniently but at rates and under conditions that will not help them to sustain their businesses
-
-...
-
-[Data](articles/f04ce0bc.json)
-
-[Extended Data](ext_articles/f04ce0bc.ext.json)
-
----
-
-### Chandi Test is passing out
-
-*2024-12-08 22:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204172) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dinesh Chandimal reached a milestone in the second Test vs. South Africa. He scored 29 runs in the second innings, bringing his total to 6019 runs in 154 Tests. This achievement makes him the 7th Sri Lankan batsman to cross 6000 Test runs.
-
-🟩
-
-Dinesh Chandimal passed a significant milestone in the second Test cricket in the second Test cricket between Sri Lanka and South Africa.
-
-Chandimal scored 29 runs for the second innings of the match today (8).
-
-South Africa in 2011 against South Africa in 2011, Chandimal, who started the International Test in 2011, has scored 6019 runs in 154 Tests.
-
-Chandimal, which recorded half centuries in the Wedding Test series, claims a half centurial record of 30 Tests and 16 centuries.
-
-Chandimall is the 7th batsman who has crossed the 6000 Test mark for Sri Lanka.
-
-◼️
-
-[Data](articles/1a40c401.json)
-
-[Extended Data](ext_articles/1a40c401.ext.json)
 
 ---

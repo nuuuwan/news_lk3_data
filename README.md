@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 04:01:14**
+As of **2024-12-10 04:27:47**
 
 ## Newspaper Stats
 
-*Scraped **59,342** Articles*
+*Scraped **59,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 602
 bbccomsinhala | 619
 islandlk | 3,572
 economynextcom | 3,603
-dailyftlk | 4,092
+dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,626
 adaderanalk | 7,215
@@ -26,11 +26,119 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,331 (100.0%) of 59,342 articles have been extended.
+59,333 (100.0%) of 59,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Govt., Opposition clash over President’s expenditure
+
+*2024-12-10 03:51:50* · [`dailyftlk`](https://www.ft.lk/news/Govt-Opposition-clash-over-President-s-expenditure/56-770312) · `en`
+
+$ 1.3 b funding by FAO included in President’s Office expenditure
+
+Clarifies inclusion has inflated overall expenditure figures mirroring that of his predecessor
+
+Claims President has reduced expenses for private staff by 64% demonstrating a commitment to fiscal prudence
+
+National People’s Power (NPP) National List MP Lakmali Hemachandra has defended President Anura Kumara Dissanayake against allegations by the Opposition that his expenditure allocation mirrors that of his predecessor, Ranil Wickremesinghe.
+
+Speaking during the Parliamentary debate on the Government’s Vote on Account last week, Hemachandra clarified that a significant portion of the allocation under the President’s Office – $ 1.3 billion provided by the Food and Agriculture Organisation (FAO) – was earmarked for the Presidential Secretariat. She clarified that this inclusion had inflated the overall expenditure figures.
+
+...
+
+[Data](articles/8aaad9b0.json)
+
+[Extended Data](ext_articles/8aaad9b0.ext.json)
+
+---
+
+### Ex-CCD Chief arrested by CID
+
+*2024-12-10 03:48:12* · [`dailyftlk`](https://www.ft.lk/news/Ex-CCD-Chief-arrested-by-CID/56-770311) · `en`
+
+The Criminal Investigation Department (CID) yesterday arrested former Colombo Crimes Division (CCD) Director and Assistant Superintendent of Police (ASP) Neville de Silva over allegations of abduction and unlawful imprisonment.
+
+The arrest follows an investigation initiated after a Fundamental Rights petition was filed in the Supreme Court by a resident of Kuruwita, Ratnapura. The petitioner accused CCD officers of coercing him into handing over his property and money to a gold businessman from Nugegoda as part of a settlement for a financial dispute arising from a failed joint venture.
+
+...
+
+[Data](articles/9d02b1f6.json)
+
+[Extended Data](ext_articles/9d02b1f6.ext.json)
+
+---
+
+### Parliament turns orange against gender-based violence
+
+*2024-12-10 03:47:28* · [`dailyftlk`](https://www.ft.lk/news/Parliament-turns-orange-against-gender-based-violence/56-770310) · `en`
+
+Premier Dr. Harini Amarasuriya says media reporting should move beyond sensationalised narratives, focus on lived realities of women subjected to violence
+
+Women Parliamentarians’ Caucus and Women and Child Affairs Minister Saroja Paulraj underscores Govt.’s stringent approach to addressing cybercrimes against women
+
+Presents wristband with the message “End Gender Based Violence” to all MPs
+
+The Parliament last Friday held a number of activities under the leadership of the Women Parliamentarians’ Caucus in support of the 16 Days of Activism against Gender Based Violence (GBV).
+
+Women Parliamentarians and the staff of the Secretary General were dressed in orange to support the program.
+
+Accordingly, a wristband with the message “End Gender Based Violence” was presented to Speaker Dr. Asoka Ranwala by the Deputy Chairpersons of Committees MP Hemali Weerasekara along with the other members of the Caucus.
+
+...
+
+[Data](articles/76a50ddd.json)
+
+---
+
+### New Secretary at Fisheries Ministry
+
+*2024-12-10 03:44:27* · [`dailyftlk`](https://www.ft.lk/news/New-Secretary-at-Fisheries-Ministry/56-770309) · `en`
+
+President Anura Kumara Dissanayake has appointed Attorney-at-Law M.L.A.S. Manthrinayake as the new Secretary to the Ministry of Fisheries, Aquatic, and Ocean Resources.
+
+The official appointment letter was presented to Manthrinayake by Secretary to the President Dr. Nandika Sanath Kumanayake yesterday according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/0ffff246.json)
+
+---
+
+### LAUGFS Rubber crowned Sri Lanka’s Most Outstanding Exporter
+
+*2024-12-10 03:41:14* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-crowned-Sri-Lanka-s-Most-Outstanding-Exporter/34-770308) · `en`
+
+LAUGFS Rubber, a subsidiary of the diversified conglomerate LAUGFS Holdings, has once again proven its commitment to excellence by clinching the prestigious award for Most Outstanding Exporter – Overall at the 32nd Annual National Chamber of Exporters (NCE) Export Awards 2024.
+
+This is not the first time LAUGFS Rubber has received this recognition, having previously won the same accolade in 2022. It also maintains a stellar track record in the rubber tyre and accessories sector, earning gold awards for four consecutive years.
+
+LAUGFS Holdings operates over 20 companies across diverse industries, including LPG, maritime, petroleum, lubricants, renewable energy, hospitality with Anantaya Resorts, retail through LAUGFS Supermarkets, and environmental services such as vehicle emission testing through LAUGFS Eco Sri. Together, these sectors reflect the group’s contribution to the nation’s economy and its steadfast commitment to growth and sustainability.
+
+...
+
+[Data](articles/39d179e9.json)
+
+---
+
+### Sri Lanka Barometer showcases  “Sri Lanka Speaks”
+
+*2024-12-10 03:37:06* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Barometer-showcases-Sri-Lanka-Speaks/56-770307) · `en`
+
+Personal reflections from around the country support evidence-based insights into public opinion on reconciliation and social cohesion
+
+The Sri Lanka Barometer (SLB) last week held a unique three-day exhibition themed “Sri Lanka Speaks” to the public at the Independence Square Arcade in Colombo.
+
+The exhibition showcased key findings from the SLB Public Opinion Survey on Reconciliation, accompanied by photo stories that capture Sri Lankan’s experiences of reconciliation, bringing the SLB Survey’s data to life.
+
+The SLB is supported by the Strengthening Social Cohesion and Peace in Sri Lanka (SCOPE) program, co-funded by the European Union and the German Federal Foreign Office, and implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH in partnership with the Government of Sri Lanka.
+
+...
+
+[Data](articles/39d561c8.json)
+
+---
 
 ### Sivajilingam in the International Therapy Unit
 
@@ -2161,127 +2269,5 @@ T Nakabe, K Kobatake and J Furukawa who were nominee directors of the company ha
 [Data](articles/20bd4419.json)
 
 [Extended Data](ext_articles/20bd4419.ext.json)
-
----
-
-### A CONSTITUTIONAL BLUEPRINT
-
-*2024-12-09 13:18:00* · [`islandlk`](http://island.lk/a-constitutional-blueprint/) · `en`
-
-Shortly before the Presidential Election, Mr. Anura Kumara Dissanayake, the leader of the NPP, committed himself to the abolition of the office of Executive President. Following his election by the people to the office of President of the Republic, and the overwhelming majority which his party received in the general election, it may be confidently assumed that steps will shortly be taken to implement that commitment.
-
-The events that followed the enactment of the 19th Amendment to the Constitution in 2015 demonstrated the futility of the partial abolition of the Executive Presidency. That amendment, while requiring the President to act on the advice of the Prime Minister, enabled the incumbent President (through a transitional provision) to preside over meetings of the Cabinet and also hold three key portfolios. When a few months later Parliament was dissolved, the general election was conducted under laws which had been formulated to complement an executive presidency.
-
-...
-
-[Data](articles/137b1a58.json)
-
-[Extended Data](ext_articles/137b1a58.ext.json)
-
----
-
-### Antibiotics that cascade in life
-
-*2024-12-09 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204192) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Antibiotic overuse fuels resistance. Experts warn unnecessary use builds drug-resistant microbes. Only 10 new antibiotics developed since 1944. Doctors stress proper use and alternative treatments.
-
-🟩
-
-Medical experts say that the building of resistance in the human body against these drugs due to unnecessary and incorrect use of pharmaceuticals is unhealthy.
-
-Deputy Director General (Laboratory Services), Deputy Director General (Laboratory Services), Dr. Priyantha Atapattu explained this:
-
-Antibiotics Resistance ... "Of course, we are talking about resistance to the drugs we use against microorganisms. The microorganisms have 4 square main. Bacteria, viruses, fungi and parasites. Here is the drugs produced against this microbilian. Here, unnecessary use and misuse of pharmaceutical drugs will build resistance against these drugs. That means those drugs lose the power of. Then the damage is too damn. "
-
-The world's first uncovered antibiotics is Pennsillain. That was in 1928. The drug has been used since 1944.
-
-But since then, antibiotic production has been reduced to medical experts.
-
-In 2017 to 2023, only 10 antibiotic drugs are manufactured.
-
-...
-
-[Data](articles/7d2d0875.json)
-
-[Extended Data](ext_articles/7d2d0875.ext.json)
-
----
-
-### A criminal charge against ex-President Ranil? - Dullas writes to President
-
-*2024-12-09 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104107/a-criminal-charge-against-ex-president-ranil-dullas-writes-to-president) · `en`
-
-The Freedom People’s Congress (Nidahasa Janatha Sabhawa) alleges that former President Ranil Wickremesinghe’s action to postpone the election without any justifiable reason is a “political abortion committed after a mass corruption as well as an economic murder committed financially”.
-
-Leader of the party Dullas Alahapperuma has expressed this in a letter addressed to the President, Opposition Leader, all Members of Parliament and the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The letter titled “Pay the price for aborting democracy; a criminal charge against President Ranil”, details a number of incidents.
-
-The letter further states that they are waiting with anticipation to see what actions will the new government led by the current President take against these “economic hitmen”.
-
-...
-
-[Data](articles/f38a7f44.json)
-
-[Extended Data](ext_articles/f38a7f44.ext.json)
-
----
-
-### Lohan withdrew the Rid petition
-
-*2024-12-09 12:24:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிட்-மனுவை-வாபஸ்-பெற்றார்-லொஹான்/175-348478) · `ta`
-
-Lohan withdraws Rid petition: Former Minister Lohan Ratwatta's legal challenge regarding an unregistered luxury vehicle case has been dropped. His lawyer stated the petitioner no longer wishes to proceed, citing the client's release on bail in a related unregistered vehicle case.
-
-🟩
-
-The writ petition filed by former Minister of State Lohan Ratwatta in connection with the case of unregistered luxury vehicle has been withdrawn today.
-
-The lawyer appearing on behalf of Lohan Ratwatta told the court that the petitioner did not want to pursue the petition as his client has already been released on bail in an unregistered vehicle case.
-
-◼️
-
-[Data](articles/a2aeb377.json)
-
-[Extended Data](ext_articles/a2aeb377.ext.json)
-
----
-
-### New Secretary appointed to Ministry of Fisheries
-
-*2024-12-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104106/new-secretary-appointed-to-ministry-of-fisheries) · `en`
-
-President Anura Kumara Dissanayake has appointed Attorney-at-Law M.L.A.S. Manthrinayake as the new Secretary to the Ministry of Fisheries, Aquatic, and Ocean Resources.
-
-The official appointment letter was presented to Attorney-at-Law M.L.A.S. Manthrinayake by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat this morning (09), according to the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/e95c6289.json)
-
-[Extended Data](ext_articles/e95c6289.ext.json)
-
----
-
-### No bonuses for CEB employees this year
-
-*2024-12-09 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104105/no-bonuses-for-ceb-employees-this-year-) · `en`
-
-The Ceylon Electricity Board’s (CEB) Board of Directors has decided not to grant bonuses to its employees this year, despite the CEB Employees’ Union affiliated with the National People’s Power (NPP) demanding bonuses by December, citing the CEB’s profitability.
-
-The union had earlier requested the CEB management to provide bonuses before December 10, citing improved financial performance and the change in government administration as reasons.
-
-General Secretary of the union Ranjan Jayalal pointed out during a press briefing that CEB employees had not received bonuses for the past two years under the previous government. With the NPP now in power, he argued, it was reasonable to expect better benefits for the workforce.
-
-...
-
-[Data](articles/a4dfb08f.json)
-
-[Extended Data](ext_articles/a4dfb08f.ext.json)
 
 ---

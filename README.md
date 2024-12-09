@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 09:44:08**
+As of **2024-12-09 10:16:35**
 
 ## Newspaper Stats
 
-*Scraped **59,195** Articles*
+*Scraped **59,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,30 +13,186 @@ dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 618
 islandlk | 3,571
-economynextcom | 3,593
+economynextcom | 3,596
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,607
-adaderanalk | 7,188
-tamilmirrorlk | 8,448
-virakesarilk | 9,712
-adaderanasinhalalk | 10,232
+adalk | 5,608
+adaderanalk | 7,192
+tamilmirrorlk | 8,452
+virakesarilk | 9,713
+adaderanasinhalalk | 10,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,185 (100.0%) of 59,195 articles have been extended.
+59,188 (100.0%) of 59,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
+### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+
+*2024-12-09 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204182) · `si`
+
+කොළඹ කොටුව දක්වා පැමිණෙන දුම්රියන් මෙලෙස ප්‍රමාද වී ධාවනය වනු ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ගල්කිස්ස සහ රත්මලාන දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ පීල්ලක් කැඩී යාමෙන් මෙම ප්‍රමාදය සිදුව ඇති බව වාර්තා වේ.
+
+කෙසේවෙතත් කොළඹ කොටුව දක්වා ධාවනය වු සියලු කාර්යාල දුම්රියන් ප්‍රමාදයකින් තොරව ධාවනය කිරීමට හැකි වු බව දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසුවේය.
+
+◼️
+
+[Data](articles/0823cdd9.json)
+
+---
+
+### சிறுவனின் உள்ளாடையை கழற்றிய இருவருக்கு பிணை
+
+*2024-12-09 09:59:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனின்-உள்ளாடையை-கழற்றிய-இருவருக்கு-பிணை/175-348465) · `ta`
+
+11 வயது சிறுவனின் உள்ளாடையை கழற்றி, அச்சிறுவனை பாலியல் வன்புணர்வுக்கு உட்படுத்த முயன்றனர் என்ற குற்றச்சாட்டின் கீழ், 16 மற்றும் 18 வயதான இருவர் கைது செய்யப்பட்டு பிணையில் விடுதலை செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட இருவரும் வெல்லவாய நீதவான் முன்னிலையில் ஞாயிற்றுக்கிழமை (08) ஆஜர்படுத்தப்பட்ட போது, அவ்விருவரையும், தலா ஒரு இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீர பிணையில் விடுதலை செய்ய உத்தரவிடப்பட்டுள்ளது.
+
+11 வயதான அந்த சிறுவன், அந்த காலனியில் உள்ள விளையாட்டு மைதானத்தில் விளையாடிக்கொண்டிருந்த போது, 16 மற்றும் 18 வயதுகளையுடைய இருவர், அந்த சிறுவனின் உள்ளாடையை கழற்றி, பாலியல் வன்புணர்வுக்கு உட்படுத்த முயன்றுள்ளனர். தனக்கு நேர்ந்ததை அச்சிறுவன், தன்னுடைய பெற்றோரிடம் தெரிவித்துள்ளார். அதன்பின்னர்,  அவ்விருவரையும் கைது செய்த அம்பகமுவ பொலிஸார், அவர்களை நீதிவான் முன்னிலையில் ஆஜர்படுத்தினர்.
+
+◼️
+
+[Data](articles/d4b2853b.json)
+
+---
+
+### MP's death in a vehicle
+
+*2024-12-09 09:54:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-வாகனத்தில்-மோதி-பெண்-மரணம்/175-348464) · `ta`
+
+Ceylon Tamil Congress MP Gajendra Kumar Ponnambalam killed in car accident near Puttalam. Driver arrested, released on bail. Incident occurred during Colombo-Jaffna journey on Monday.
+
+🟩
+
+All Ceylon Tamil Congress Jaffna MP Gajendra Kumar Ponnambalam was killed after a woman who was injured when a woman who was walking in a pedestrian crossing at the Polavatte junction in Puttalam, Polawatte junction, was killed after a jeep traveled in a traveler.
+
+The accident occurred while traveling from Colombo to Jaffna to Jaffna on Monday (8).
+
+The 60 -year -old man from Hunnkiriya, a driver of Gajendra Kumar, was arrested and released on bail after being produced in court.
+
+◼️
+
+[Data](articles/6d3ff094.json)
+
+[Extended Data](ext_articles/6d3ff094.ext.json)
+
+---
+
+### அசாத் எங்கே – மர்மத்தை தீர்த்துவைத்தது ரஸ்யா
+
+*2024-12-09 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200765) · `ta`
+
+சிரிய ஜனாதிபதி பசார் அல் அசாத்தின் நீண்ட கால ஆட்சியின் வீழ்ச்சியை  பலர் கொண்டாடிக்கொண்டிருந்தவேளை அவர் எங்கிருக்கின்றார் என்பது குறித்த பல வதந்திகள் வெளியாகியிருந்தன,மிகவும் மர்மம் நிறைந்த ஒரு நாளின் பின்னர் அவர் மொஸ்கோவிற்கு சென்றுள்ளார் என்ற அறிவிப்பு வெளியானதை தொடர்ந்து இந்த மர்மம் முடிவிற்கு வந்துள்ளது.
+
+‘;ஆசாத்தும் அவரது குடும்பத்தினரும் மொஸ்கோவில் தரையிறங்கியுள்ளனர் மனிதாபிமான காரணங்களிற்காக மொஸ்கோ அவர்களிற்கு புகலிடம் வழங்கியுள்ளது என கிரெம்ளின் வட்டாரங்கள் தெரிவித்ததாக டாஸ் செய்தி வெளியிட்டுள்ளது.
+
+கிளர்ச்சியாளர்களின் எழுச்சி மீண்டும் ஆரம்பித்தது முதல் அவர்கள் துரிதமாக முன்னேறி வந்த தருணங்களில் ஆசாத் அதிகளவு தன்னை முன்னிலைப்படுத்தவில்லை. கடந்த வாரம் ஈரான் வெளிவிவகார அமைச்சரை சந்தித்தவேளை கிளர்ச்சிக்காரர்களின் முன்னேற்றத்தை முடிவிற்கு கொண்டுவரவுள்ளதாக அவர் சூளுரைத்திருந்தார்
+
+...
+
+[Data](articles/8f918cf7.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.35/45 to dollar, bonds steady
+
+*2024-12-09 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-35-45-to-dollar-bonds-steady-193029/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 290.35/45 to the US dollar on Monday from 290.40/48 to the US dollar on Friday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2027 was quoted at 10.05/15 percent, down from 10.10/20 percent.
+
+A bond maturing on 15.03.2028 was quoted stable at 10.40/50 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.80/90 percent.
+
+In equities, the All Share Price Index was up 0.31 percent or 42.80 points, at 13,656.
+
+The more liquid S&P SL20 was up 0.30 percent, or 12.12 points, at 4,074.
+
+◼️
+
+[Data](articles/8a0db48f.json)
+
+[Extended Data](ext_articles/8a0db48f.ext.json)
+
+---
+
+### Syrian president refuge in Russia
+
+*2024-12-09 09:43:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிரியா-ஜனாதிபதி-ரஷ்யாவில்-தஞ்சம்/50-348461) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Syrian Pres. Bashar al-Assad seeks refuge in Russia after rebels capture Middle East. Russia supports him. US Pres. Biden calls it "justice" for Syrians. Long conflict involving Iran, Turkey, US, ISIS. Russia & Iran aid Assad regains control. Wife, kids flee to Russia.
+
+🟩
+
+President Bashar al -Azad sought refuge in Russia after HDS rebellion captured the Middle East. The Russian side said he and his family had supported him.
+
+Russia's Interface, Toss and Ria Novosti newspapers confirmed this information, pointing out the information of Russian President Putin's residence, Gremlin's House.
+
+Meanwhile, US President Joe Bidan has commented on the Syrian affair. “The fall of President Azad's fall is justice. This is a historical opportunity for the Syrian people who have been in a state of disrepair for many years. This opportunity will help them build their nation for a prosperous future. They will help them make their country a proud symbol. ”
+
+...
+
+[Data](articles/2a4b6d6c.json)
+
+[Extended Data](ext_articles/2a4b6d6c.ext.json)
+
+---
+
+### Sri Lanka’s candidate elected to UNESCO’s Intangible Cultural Heritage Evaluation Body
+
+*2024-12-09 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104093/sri-lankas-candidate-elected-to-unescos-intangible-cultural-heritage-evaluation-body) · `en`
+
+Sri Lanka’s candidate, Dr. B. D. Nandadeva was elected as an expert to the prestigious Evaluation Body of UNESCO’s 2003 Convention for the Safeguarding of the Intangible Cultural Heritage (ICH) at the 19th Session of the ICH Committee Meeting held in Asunción, Paraguay.
+
+Issuing a statement, the Embassy of Sri Lanka in France said that Dr. Nandadeva, a distinguished scholar with over forty years of experience in cultural heritage, will serve a term of up to four years on the ICH Evaluation Body.  He has extensive knowledge and experience in the work of the ICH Intergovernmental Committee and in the inscription process.
+
+The ICH Evaluation Body comprises twelve (12) members, including six (06) state-nominated experts and six (06) representatives of accredited non-governmental organizations, ensuring diverse geographic representation and expertise across various sectors.
+
+...
+
+[Data](articles/4310c283.json)
+
+---
+
+### Trump vows to end birthright citizenship and pardon US Capitol rioters
+
+*2024-12-09 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104092/trump-vows-to-end-birthright-citizenship-and-pardon-us-capitol-rioters) · `en`
+
+President-elect Donald Trump has said he will look at pardons for those involved in the 2021 US Capitol riot on his first day back in office next month.
+
+“These people are living in hell,” he told NBC’s Meet the Press in his first broadcast network interview since winning November’s election.
+
+The Republican also vowed to end automatic citizenship for anyone born in the country, but offered to work with Democrats to help some undocumented immigrants who were brought to the US as children.
+
+In the wide-ranging sit-down, which was recorded on Friday, Trump promised to issue “a lot” of executive orders, including on immigration, energy and the economy, after he is inaugurated on 20 January.
+
+While he suggested he would not seek a justice department investigation into Joe Biden, he said that some of his political adversaries, including lawmakers who investigated the Capitol riot, should be jailed.
+
+...
+
+[Data](articles/0339502a.json)
+
+---
+
 ### වගා හානි කරන සත්තු ගැන වාර්තාවක් එළියට
 
 *2024-12-09 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204181) · `si`
 
-වඳුරන් සහ රිළවුන් ඇතුළු මෙරට වගාවන්ට හානි කරන සතුන් සම්බන්ධයෙන් ගත යුතු යෝජනා ඇතුළත් වාර්තාවක් අද (09) දිනයේ දී පරිසර අමාත්‍යංශය සහ කෘෂිකර්ම අමාත්‍යංශය වෙත භාරදීමට කටයුතු කරන බව පරිසර හා ස්වභාදහම් අධ්‍යයන මධ්‍යස්ථානය පවසයි.
+වඳුරන් සහ රිළවුන් ඇතුළු මෙරට වගාවන්ට හානි කරන සතුන් සම්බන්ධයෙන් ගත යුතු යෝජනා ඇතුළත් වාර්තාවක් අද (09) දිනයේ දී පරිසර අමාත්‍යංශය සහ කෘෂිකර්ම අමාත්‍යංශය වෙත භාරදීමට කටයුතු කරන බව පරිසර හා සොබාදහම් අධ්‍යයන මධ්‍යස්ථානය පවසයි.
 
 එහි ජාතික සම්බන්ධීකාරක, පරිසරවේදී ආචාර්ය රවීන්ද්‍ර කාරියවසම් මහතා පැවසුවේ මේ වන විට මෙරට වඳුරන්ගේ සහ රිළවුන්ගේ ගහනය කැපී පෙනෙන ලෙස ඉහළ ගොස් ඇති අතර එම තත්ත්වය පාලනය කිරීමට ගත හැකි කෙටි කාලීන මෙන්ම දිගු කාලීන යෝජනා ද මෙහි ඇතුළත් බවය.
 
@@ -45,6 +201,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0a4435d7.json)
+
+---
+
+### Police investigate suspicious death in Ipalogama
+
+*2024-12-09 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104091/police-investigate-suspicious-death-in-ipalogama) · `en`
+
+Police have launched an investigation following information received about a man found dead under suspicious circumstances at a residence near Walawegama School in the Ipalogama Police Division.
+
+The incident occurred last evening (8), and the deceased has been identified as a 37-year-old resident of the Walawegama area.
+
+Preliminary investigations revealed that the deceased had bled profusely at the location where he was found and confirmed that the death is being treated as a homicide.
+
+According to initial findings, the deceased had consumed alcohol with another individual at his residence on the night of December 7. Investigators suspect the murder occurred during an altercation that followed.
+
+The body remains at the scene under police protection pending a Magistrate’s inquest.
+
+The Ipalogama Police are continuing investigations to apprehend the suspect involved in the crime.
+
+◼️
+
+[Data](articles/2389dd40.json)
 
 ---
 
@@ -73,6 +251,44 @@ In addition, Gampaha police are conducting further investigations to arrest the 
 [Data](articles/2031eec3.json)
 
 [Extended Data](ext_articles/2031eec3.ext.json)
+
+---
+
+### Bilinda Devage Nandadeva elected from Sri Lanka to UNESCO intangible heritage body
+
+*2024-12-09 09:08:00* · [`economynextcom`](https://economynext.com/bilinda-devage-nandadeva-elected-from-sri-lanka-to-unesco-intangible-heritage-body-193026/) · `en`
+
+ECONOMYNEXT – Bilinda Devage Nandadeva was elected to the Evaluation Body of UNESCO’s 2003 Convention for the Safeguarding of the Intangible Cultural Heritage as a expert, Sri Lanka’s embassy in Paris said.
+
+Nandadeva, a scholar with over forty years of experience in cultural heritage, will serve a term of up to four years on the ICH Evaluation Body.
+
+“He has extensive knowledge and experience in the work of the ICH Intergovernmental Committee and in the inscription process,” the statement said.
+
+“Sri Lanka’s election to this prestigious Body reflects the international community’s appreciation of the country’s active contribution to UNESCO’s initiatives, and its unwavering commitment to the preservation and promotion of global intangible cultural heritage.
+
+“This recognition further positions Sri Lanka as a key player within UNESCO’s ICH Evaluation Body, providing the country with a platform to shape international cultural policy and safeguarding measures.”
+
+...
+
+[Data](articles/6956cae3.json)
+
+---
+
+### South Korean police considering overseas travel ban on President Yoon over martial law
+
+*2024-12-09 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104090/south-korean-police-considering-overseas-travel-ban-on-president-yoon-over-martial-law) · `en`
+
+Police are considering placing an overseas travel ban on South Korean President Yoon Suk Yeol as they investigate possible rebellion charges over his brief imposition of martial law last week, reports said Monday.
+
+Yoon’s martial law decree last Tuesday, which brought armed special forces troops into Seoul streets, is plunging South Korea into huge political turmoil. On Sunday, he avoided an opposition-led bid to impeach him, with most ruling party lawmakers boycotting a floor vote. But the opposition parties vowed to submit a new impeachment motion against him this week.
+
+On Monday, Yonhap news agency cited police as saying that they are considering banning Yoon from leaving the country as they investigate charges of rebellion. Other South Korean media carried similar reports.
+
+Repeated calls to the National Police Agency weren’t immediately answered.
+
+...
+
+[Data](articles/f0ccd951.json)
 
 ---
 
@@ -332,6 +548,26 @@ At the same time, 2,138 senior sailors of the Navy and Admiral Priyantha Perera 
 
 ---
 
+### Sri Lanka excess rupee reserves rise close to last crisis levels
+
+*2024-12-09 06:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-excess-rupee-reserves-rise-close-to-last-crisis-levels-192967/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s excess reserves deposited in the central bank above required reserves under a statutory ratio has reached 230 billion rupees, close levels that existed before a currency crises gathered pace in 2021, official data show.
+
+On Thursday excess reserves topped 246 billon rupees, about 20 billion rupees shy of the peak reached under President Gotabaya Rajapaksa in 2021, when private credit started to recover as the country emerged from a Coronavirus crisis.
+
+At the time money was printed by so-called direct market operations where Treasury bill auctions were scuttled with price controls (floor auction rates) imposed by the central bank.
+
+Initially the excess liquidity piled up un-used, due to weak private credit and did not hit the balance of payments.
+
+In 2024 excess liquidity is coming mostly from a surplus balance of payments (dollars purchased to maintain a pegged exchange rate), amid weak credit.
+
+...
+
+[Data](articles/bb7dfc7d.json)
+
+---
+
 ### A change in the weather
 
 *2024-12-09 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204174) · `si`
@@ -455,6 +691,20 @@ The Consumer Affairs Authority (CAA) has said that the rice mills will be carrie
 [Data](articles/0139cfd6.json)
 
 [Extended Data](ext_articles/0139cfd6.ext.json)
+
+---
+
+### அரிசி ஆலைகளில் அதிரடி சோதனை
+
+*2024-12-09 02:59:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-ஆலைகளில்-அதிரடி-சோதனை/175-348455) · `ta`
+
+அரிசி ஆலைகளிலிருந்து நாளாந்தம் விநியோகிக்கப்படும் அரிசி தொகை தொடர்பில் அறிக்கையை பெற்றுக் கொள்ளுமாறு ஜனாதிபதியால் வழங்கப்பட்ட பணிப்புரைக்கு அமைய இந்த நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+
+அதற்கமைய நேற்று முதல் 10 நாட்களுக்கு தொடர்ச்சியாக அரிசி ஆலைகளில் சோதனைகள் நடத்தப்படவுள்ளதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/04494361.json)
 
 ---
 
@@ -1802,6 +2052,20 @@ The suspects have been resorted to the Karuwalagaswewa Wildlife Office for furth
 
 ---
 
+### බදු ආදායම සියයට 39කින් ඉහළට
+
+*2024-12-08 16:59:01* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ආදායම-සියයට-39කින්-ඉහළට/11-413523) · `si`
+
+2024 වර්ෂය සඳහා රජය විසින් අපේක්ෂිත ආදායම රුපියල් බිලියන 4107 ලෙසත් බදු ආදායම රුපියල් බිලියන 3,820 ලෙසත් අපේක්ෂා කරනු ලැබූ බව 2024 වර්ෂය සඳහා වූ අය වැය ලේඛනයෙහි දක්වා ඇතැයි පේරාදෙණිය විශ්ව විද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යායන පිළිබඳ මහාචාර්ය වසන්ත අතුකෝරාල මහතා සමඟ පෙරේදා (07දා) සඳහන් කළේය.
+
+2024 වර්ෂයේ ජනවාරි 01 වැනි දා සිට සැප්තැම්බර් 30 දක්වා  මාස 09 ක කාල සීමාවක දී රජයට ලැබී ඇති මුළු ආදායම රුපියල් බිලියන 2,918 ක් වන අතර  බදු ආදායම ලෙස රුපියල් බිලියන 2,688 ක් ලැබී ඇති බවත් එය 2023 වර්ෂයේ අදාළ කාල පරිච්ඡේදය සමඟ  සසඳා බලන විට මුලු ආදායමින් 38% ක පමණ වර්ධනයක් බවත් බදු ආදායම 39% ක් පමණ  වර්ධනයක් පෙන්නුම් කරනු ලබන බවත්  මහාචාර්යවරයා  සඳහන් කළේය.
+
+...
+
+[Data](articles/2f29019e.json)
+
+---
+
 ### Sri Lanka target 348 runs
 
 *2024-12-08 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204162) · `si`
@@ -2085,335 +2349,5 @@ Chinmoi Krishna Das, senior saint of ISKCon in Bangladesh. There are constant at
 [Data](articles/d1eab42f.json)
 
 [Extended Data](ext_articles/d1eab42f.ext.json)
-
----
-
-### Tamils ​​who have been forced to the Russian-Ukraine War
-
-*2024-12-08 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200717) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankan Tamils involved in Russia-Ukraine conflict: 463 confirmed with Russian forces.
-
-🟩
-
-The official confirms that 463 people are in the Russian and Ukraine forces in the Russian and Russian forces, as Sri Lankans have been linked to the Russian forces.
-
-◼️
-
-[Data](articles/11ec6fec.json)
-
-[Extended Data](ext_articles/11ec6fec.ext.json)
-
----
-
-### Syrian government falls to fast-moving rebels, ending 50 years of iron rule by the Assad family
-
-*2024-12-08 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104080/syrian-government-falls-to-fast-moving-rebels-ending-50-years-of-iron-rule-by-the-assad-family) · `en`
-
-The Syrian government collapsed early Sunday, falling to a lightning rebel offensive that seized control of the capital of Damascus and sent crowds into the streets to celebrate the end of the Assad family’s 50 years of iron rule.
-
-Syrian state television aired a video statement by a group of men saying that President Bashar Assad had been overthrown and all prisoners had been set free.
-
-The man who read the statement said the opposition group, known as the Operations Room to Conquer Damascus, called on all rebel fighters and citizens to preserve the institutions of “the free Syrian state.”
-
-The statement emerged hours after the head of a Syrian opposition war monitor said Assad had left the country for an undisclosed location, fleeing ahead of insurgents who said they had entered Damascus following a remarkably swift advance across the country.
-
-...
-
-[Data](articles/c7e12fd1.json)
-
-[Extended Data](ext_articles/c7e12fd1.ext.json)
-
----
-
-### Syrian government falls to fast-moving rebels, ending 50 years of iron rule by the Assad family
-
-*2024-12-08 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104080/calls-for-an-orderly-transition-as-it-remains-unclear-what-comes-next) · `en`
-
-The Syrian government collapsed early Sunday, falling to a lightning rebel offensive that seized control of the capital of Damascus and sent crowds into the streets to celebrate the end of the Assad family’s 50 years of iron rule.
-
-Syrian state television aired a video statement by a group of men saying that President Bashar Assad had been overthrown and all prisoners had been set free.
-
-The man who read the statement said the opposition group, known as the Operations Room to Conquer Damascus, called on all rebel fighters and citizens to preserve the institutions of “the free Syrian state.”
-
-The statement emerged hours after the head of a Syrian opposition war monitor said Assad had left the country for an undisclosed location, fleeing ahead of insurgents who said they had entered Damascus following a remarkably swift advance across the country.
-
-...
-
-[Data](articles/da213e5c.json)
-
-[Extended Data](ext_articles/da213e5c.ext.json)
-
----
-
-### Governing for five years - Deputy Minister Arun Hemachandra Exclusive
-
-*2024-12-08 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200724) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Deputy Minister Arun Hemachandra discusses Cabinet appointments, emphasizing representation for all communities without bias towards race or religion. Decisions based on skills and experience rather than demographics.
-
-🟩
-
-During the appointment of the Cabinet, the general position is that the representation of Muslims, including the representations of Muslims, is essential.. The position is due to fear that their communities will be unjust. But the Cabinet of the National People's Power -led government is not a racial and religious regional. It depends on the choices made on the basis of the industry and experiences.
-
-◼️
-
-[Data](articles/ddea53c7.json)
-
-[Extended Data](ext_articles/ddea53c7.ext.json)
-
----
-
-### A warning to the fisheries and naval community
-
-*2024-12-08 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204160) · `si`
-
-Warning: Low-pressure system approaching Southeastern seas. Strong winds, heavy rains expected Dec 11. Fishermen and mariners advised to monitor Department of Meteorology updates.
-
-🟩
-
-The Department of Meteorology has issued a warning announcement informed to pay attention to multi-day fisheries and marine vessels that sail in the deep sea area of ​​Southen East.
-
-The announcement states that the low pressure zone of the southeast Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay Bay Sea.
-
-It will reach the Bay of Bay of Bay of Bay of Bay of Bengal beyond the Sri Lanka-Tamil Nadu coast around December 11.
-
-Very strong winds temporarily in those sea areas.. 60, heavy rain can be very rough and the sea areas can be very rough.
-
-The Department of Meteorology has informed the Fisheries and Marine community to focus on the future announcements issued by the Department of Meteorology.
-
-◼️
-
-[Data](articles/47bb6013.json)
-
-[Extended Data](ext_articles/47bb6013.ext.json)
-
----
-
-### Ja - Arrested with heroin in Ella area
-
-*2024-12-08 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200734) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Kushwatta, Ja-Ela area. Suspect caught with heroin during police raid based on tip-off. Incident occurred on Saturday, 07.
-
-🟩
-
-A suspect in the Kushwatta area belonging to the Ja-Ela Police Division has been arrested by police on Saturday (07).
-
-He was arrested during a raid carried out on confidential information received by Ja-Ela police officers.
-
-◼️
-
-[Data](articles/4f2b9cf5.json)
-
-[Extended Data](ext_articles/4f2b9cf5.ext.json)
-
----
-
-### Egg in the egg market without deficit
-
-*2024-12-08 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/හිඟයකින්-තොරව-බිත්තර-වෙළඳපොළට/11-413518) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Egg producers in Sri Lanka maintain supply without deficit. Retail price: 35-36 Rupees. Production costs increased due to higher rice and corn prices. Surplus poultry in market. Chicken demand rose after bad weather. Animal products stable during Sinhala season. Vegan shortage needs addressing."
-
-🟩
-
-Sri Lanka Animals Association President Ajith Gunasekera says that egg manufacturers are working to the egg products without any deficit.
-
-Addressing a media briefing, he said that the retail price of an egg is between Rs. 35-36. However, as the price of eggs can increase the demand for the demand and supply of the country, as the price of eggs can increase and operate the retail price of an egg.
-
-He said the production prices of the egg had gone up due to rising prices at present, the price of rice and corn.. He said that there is a surplus of poultry production, he has already been released to the poultry market.
-
-He said that the demand for chicken has increased due to the recent adverse weather conditions in the recent past, he said.
-
-He also says that the animal products are continuously maintained during the Sinhala Season, he says. However, he said that if there is a vegan deficit, it is the responsibility of remedying to address it.
-
-◼️
-
-[Data](articles/0f091c23.json)
-
-[Extended Data](ext_articles/0f091c23.ext.json)
-
----
-
-### One person dies in suspicious
-
-*2024-12-08 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200710) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Body found in house, death under investigation. Police suspect foul play. Magistrate to probe circumstances.
-
-🟩
-
-Warakapola police said that the body of a person was found in a house in Dulhiyya area in the Warakapola police division yesterday (07).
-
-The death investigation officer has informed the police that the death of the death of the death of the dead body was suspected of the death and that the magistrate should investigate the death.
-
-◼️
-
-[Data](articles/05d4eec8.json)
-
-[Extended Data](ext_articles/05d4eec8.ext.json)
-
----
-
-### CT at Kandy Hospital. An honor of the scanner
-
-*2024-12-08 15:17:36* · [`adalk`](https://www.ada.lk/picture_story/මහනුවර-රෝහලේ-සී-ටී--ස්කෑන්-යන්ත්‍රයට-ගෞරවනීය-සමුදීමක්/10-413517) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-CT scanner honored at Kandy Hospital. Retired after serving 6+ million patients, diagnosing over 100,000 diseases. Rare celebration for the machine and its dedicated staff. Director emphasizes commitment to healthcare management.
-
-🟩
-
-Kandy National Hospital for Rs.. The scanner was retired from the hospital with the honor of the hospital, radiation, nurses and the staff of the hospital.
-
-The event was a rare celebration of a hospital and was a significant commitment to Rodrigo and honored the machine.
-
-Dr. Iresha Fernando said the CT. The scanner is not only in the country, not only 100,000 cases of disease for over 6,000 cases, but for more than 6 million patients, not only 100,000 cases of diseases.There is. The director emphasized that if we have a duty to be a duty to a management, even if we have a lot of iron.
-
-◼️
-
-[Data](articles/a8415135.json)
-
-[Extended Data](ext_articles/a8415135.ext.json)
-
----
-
-### Foreigners happiness with coconut enemies'
-
-*2024-12-08 15:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-எதிரிகளுடன்-வெளிநாட்டவர்-மகிழ்ச்சி/175-348432) · `ta`
-
-Coconut shortage blamed on monkeys. Prices soar. Government denies monkey involvement. Foreigners enjoy monkey encounters at Ravana Ella Falls.
-
-🟩
-
-There is a severe shortage of coconuts in the country. One of the coconut is sold for Rs 220 to Rs 300. Half -lid coconut in a few stores is currently being sold. It is rare to see coconut sambala.
-
-Many of the monkeys blame the main cause of coconut shortage. Speaking recently in Parliament, Agriculture and Livestock Minister Lal Kantha "Monkey Terrorism" said that the country has fallen into the country.
-
-However, the government says that the coconut shortage of the monkeys is caused by the eating of coconuts.. If so, did the monkeys live in the country last year?So?TV Sanaka, the MP of the Sri Lanka PA, was asking for the monkeys not to be guilty.
-
-In this case, foreign tourists are happy with monkeys near the Ravana Ella Falls near the Ravana Ella Wildlife Sanctuary.
-
-◼️
-
-[Data](articles/3def2926.json)
-
-[Extended Data](ext_articles/3def2926.ext.json)
-
----
-
-### The gang leader arrested in Canada
-
-*2024-12-08 14:58:50* · [`adalk`](https://www.ada.lk/breaking_news/ආවා-කල්ලියේ-නායකයා-කැනඩාවේදී-අල්ලයි/11-413516) · `si`
-
-Sri Lankan suspect Prasanna Nellavellangamum arrested in Canada for France murder. International warrant issued. To be extradited for further investigation.
-
-🟩
-
-A Sri Lankan person named the gang leader was arrested by the gang leader.
-
-A 32-year-old suspect, a 32-year-old suspect known as Prasanna Nellavellangamum, has been arrested in connection with the murder of France.
-
-The suspect is a few murders in Sri Lanka and the international warrants have been issued to arrest him.
-
-The Canadian security forces states that the suspect is due to be handed over to France further investigations.
-
-◼️
-
-[Data](articles/7ac973d1.json)
-
-[Extended Data](ext_articles/7ac973d1.ext.json)
-
----
-
-### Relief worth 300 million from Japan
-
-*2024-12-08 14:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிலிருந்து-300-மில்லியன்-பெறுமதியான-நிவாரணம்/175-348430) · `ta`
-
-Japan provides $3 million relief aid to Sri Lanka. Emergency supplies arrive at Bandaranaike Airport. Ambassador hands over goods to local authorities for distribution by District Secretaries.
-
-🟩
-
-The Japanese government is approximately Rs.. 300 million worth of relief.
-
-Emergency items coordinated by the Japanese Embassy in Sri Lanka and the Japan International Cooperation Organization (JICA) arrived at the Bandaranaike International Airport (BIA) on Saturday.
-
-Japanese Ambassador to Sri Lanka Isomata Akio officially handed over the goods to local authorities. Relief items will be distributed by the District Secretaries of the District Secretaries.
-
-◼️
-
-[Data](articles/263bab66.json)
-
-[Extended Data](ext_articles/263bab66.ext.json)
-
----
-
-### Rs. 300 million relief from Japan
-
-*2024-12-08 14:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிலிருந்து-ரூ-300-மில்லியன்-நிவாரணம்/175-348430) · `ta`
-
-Japan provides Rs. 300 million aid to Sri Lanka. Emergency supplies arrive at Bandaranaike Airport. Ambassador hands over goods to local authorities for distribution.
-
-🟩
-
-The Japanese government is approximately Rs.. 300 million worth of relief.
-
-Emergency items coordinated by the Japanese Embassy in Sri Lanka and the Japan International Cooperation Organization (JICA) arrived at the Bandaranaike International Airport (BIA) on Saturday.
-
-Japanese Ambassador to Sri Lanka Isomata Akio officially handed over the goods to local authorities. Relief items will be distributed by the District Secretaries of the District Secretaries.
-
-◼️
-
-[Data](articles/ba461259.json)
-
-[Extended Data](ext_articles/ba461259.ext.json)
-
----
-
-### Compulsory holiday
-
-*2024-12-08 14:34:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒளடத-அதிகாரிக்கு-கட்டாய-விடுமுறை/175-348429) · `ta`
-
-Dushara Ranadeva, Drug Assessment Officer, sent on compulsory leave by National Drug Regulatory Authority due to alleged secret information leak to external companies. Criminal Investigation Department involved. Some employees claim Ranadeva exposed fraud and corruption within the authority.
-
-🟩
-
-National Drug Regulatory Authority's Drug Assessment Officer Dushara Ranadeva has been sent on a compulsory leave by the National Drug Regulatory Authority. He is also the president of the Pharmacists Association.
-
-He has been sent on a compulsory vacation by Dr. Ananda Wijewickrama, Chairman of the National Drug Regulatory Authority, according to a complaint received by the Authority that the Secret Information of the Pharmaceutical Control Authority is provided to outside companies.
-
-The letter stated that the drug assessment officer Tushara Ranadeva has handed over all the items used by Dushara Ranadeva and that he can come to the company premises with his permission for any issue.
-
-In addition, the Criminal Investigation Department has also seized Dushara Ranadeva's personal mobile phone.
-
-...
-
-[Data](articles/786afdcf.json)
-
-[Extended Data](ext_articles/786afdcf.ext.json)
 
 ---

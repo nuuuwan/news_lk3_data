@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 09:23:46**
+As of **2024-12-09 09:34:14**
 
 ## Newspaper Stats
 
-*Scraped **59,193** Articles*
+*Scraped **59,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailymirrorlk | 4,733
 adalk | 5,607
 adaderanalk | 7,188
 tamilmirrorlk | 8,448
-virakesarilk | 9,711
+virakesarilk | 9,712
 adaderanasinhalalk | 10,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,174 (100.0%) of 59,193 articles have been extended.
+59,181 (100.0%) of 59,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
+
+### கம்பஹாவில் துப்பாக்கிச் சூடு ; ஒருவர் உயிரிழப்பு
+
+*2024-12-09 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200766) · `ta`
+
+கம்பஹா பொலிஸ் பிரிவுக்குட்பட்ட தம்மிட்ட வீதியில் உள்ள கௌடங்கஹா பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (8) இரவு துப்பாக்கிச் சூட்டு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மோட்டார் சைக்கிளில் பயணித்த நபர் மீது மற்றுமொரு மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத நபர் ஒருவர் துப்பாக்கிப் பிரயோகம் மேற்கொண்டு விட்டு தப்பி ஓடியுள்ளதாக பொலிஸார் மேற்கொண்ட விசாரணையில் தெரியவந்துள்ளது.
+
+துப்பாக்கிச் சூடு நடத்தப்பட்டதற்கான காரணம் இதுவரை வெளியாகவில்லை எனவும் உயிரிழந்தவரின் சடலம் கம்பஹா வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+மேலும், சம்பவத்துடன் தொடர்புடைய சந்தேக நபர்களை கைது செய்வதற்கான மேலதிக விசாரணைகளை கம்பஹா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/2031eec3.json)
+
+---
 
 ### No official announcement on vehicle imports - Vehicle Importers’ Association
 
@@ -48,47 +66,69 @@ He urged vehicle owners not to sell their vehicles at reduced prices due to spec
 
 [Data](articles/0d8bcdf4.json)
 
+[Extended Data](ext_articles/0d8bcdf4.ext.json)
+
 ---
 
-### තවත් ඝාතනයක සුලමුල හෙළිවෙයි
+### Another murder was revealed
 
 *2024-12-09 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204180) · `si`
 
-ඉපලෝගම පොලිස් වසමේ වලවේගම පාසල ආසන්නයේ නිවසක් තුළ පුද්ගලයෙකු වැටී සිටි පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් සිටින බවට පොලීසියට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-පසුගිය 8 වනදා සවස මෙය සිදුව ඇති අතර, මිය ගොස් ඇත්තේ, අවුරුදු 37ක් වූ වලවිවේගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
 
-පොලීසිය සිදුකළ විමර්ශනයේදී මරණකරු වැටී සිටි ස්ථානයේ අධික ලෙස රුධිරය වහනය වූ ආකාරය නිරීක්ෂණය වී ඇති අතර මෙම මරණය මනුෂ්‍ය ඝාතනයක් බවට අනාවරණය වී ඇත.
 
-මරණකරු විසින් ඔහුගේ නිවස තුළ පෙර දින රාත්‍රී කාලයේ තවත් පුද්ගලයෙකු සමඟ මත්පැන් පානය කර ඇති අතර එහිදී ඇතිවූ සිද්ධියකදී මෙම ඝාතනය සිදුකර ඇති බවට දැනට පොලීසිය සැක කරනු ලබයි.
+Murder investigation underway: 37-year-old man found dead in house near Ipalogama police division. Victim had consumed alcohol with another person before death. Police protecting victim's body and conducting further investigations to identify suspect.
 
-මෘත ශරීරය මහෙස්ත්‍රාත් පරික්ෂණය සඳහා පොලිස් ආරක්ෂාව යටතේ සිද්ධිය වූ ස්ථානයේ ඇත.
+🟩
 
-අපරාධයට සම්බන්ධ සැකකරු අත්අඩංගුවට ගැනීම සඳහා ඉපලෝගම පොලිසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+Investigations have commenced investigations into a message from the police that a person was dead in a house near the Ipalogama police Division in the Ipalogama police Division.
+
+The deceased has been identified as 37 years, a resident of Walaweiwela.
+
+Investigations carried out at the police investigation, the death has been observed and has revealed that the death was a human murder.
+
+The deceased has drank alcohol with another person in his home and was currently suspicious of the murder.
+
+The body of the deceased is the incident under police protection for the meeting.
+
+Ipalogama police are conducting further investigations to arrest the crime suspect.
 
 ◼️
 
 [Data](articles/7d0fef0e.json)
 
+[Extended Data](ext_articles/7d0fef0e.ext.json)
+
 ---
 
-### පැනගිය සිරියානු හිටපු ජනපති රුසියාවේ
+### Former President Mahinda Rajapaksa in Russia
 
 *2024-12-09 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204179) · `si`
 
-සිරියාවෙන් පළාගිය හිටපු ජනාධිපති බෂාර් අල්-අසාඩ් මේ වනවිට රුසියාවේ මොස්කව් නගරයට ගොස් ඇති බව රුසියානු මාධ්‍ය සඳහන් කරයි.
+Here's a summary in 200 characters:
 
-රුසියානු බලධාරීන් පවසන්නේ අසාඩ් ට සහ ඔහුගේ පවුලේ සාමාජිකයින් ට රුසියාවේ සරණාගතභාවය ලබාදෙන බවයි.
 
-Hayat Tahrir al-Sham නම් සංවිධානයට අයත් කැරලිකරුවන් නොවැම්බර් 27 වනදා අසාඩ් පාලනයට එරෙහිව ප්‍රහාර දියත් කළේය.
 
-ඉන්පසු දින කිහිපයක් තුළදී එරට ප්‍රධාන නගර සිය ග්‍රහණයට ගැනීමට කැරලිකරුවන් සමත්විය.
+Former Pres. Mahinda Rajapaksa in Russia. Former Pres. Bashar al-Assad flees Syria after rebels capture major cities. Russian authorities offer refuge to Assad and family.
 
-ඔවුන් ඊයේ (08) ඩැමස්කස් නගරය ට ඇතුළු වුණු අතර පසුව වාර්තා වූයේ ජනාධිපති අසාඩ් ගුවන්යානයකින් එරටින් පළාගිය බවයි.
+🟩
+
+Former President Bashar al-Assand has gone to Moscow, Russia, has gone to Moscow, Russia.
+
+Russian authorities say that Azad and his family members provide refuge in Russia.
+
+The rebels of the organization of Hayat Tahrir Al-sham launched an attack on Azad's rulership on November 27.
+
+In a few days, the rebels were able to grip the major cities of the country.
+
+They entered Damascus yesterday and later reported that President A Sadnene fled the country.
 
 ◼️
 
 [Data](articles/758fd15c.json)
+
+[Extended Data](ext_articles/758fd15c.ext.json)
 
 ---
 
@@ -107,6 +147,8 @@ The advancements include 158 to Ordinary Seaman, 279 to Able Seaman, 406 to Lead
 ...
 
 [Data](articles/8037bdd7.json)
+
+[Extended Data](ext_articles/8037bdd7.ext.json)
 
 ---
 
@@ -130,6 +172,8 @@ Fairly heavy showers about 75mm are likely at some places in Western and Sabarag
 
 [Data](articles/8e133704.json)
 
+[Extended Data](ext_articles/8e133704.ext.json)
+
 ---
 
 ### Remittance inflows face twin declines: month-on-month and year-on-year
@@ -152,37 +196,49 @@ Another metric that adds to this optimism is during the year up to 06th December
 
 ---
 
-### රුසියානු ජාතික යුවළකට අකරතැබ්බයක්
+### A Russian national couple
 
 *2024-12-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204178) · `si`
 
-කොටවිල පොලිස් වසමේ මිරිස්ස වෙරළ තීරයේ දියනෑමට ගිය රුසියානු ජාතික යුවළක් දිය වැලකට හසුවී මුහුදට ගසාගෙන ගොස් තිබේ.
+Russian couple stranded Mirissa coast Kotawila police rescue operation led by PC Manjula Bandara Chamara
 
-පසුව රාජකාරියේ යෙදී සිටි මාතර කොට්ඨා පොලිස් ජීවිතාරක්ෂක ඒකකයට අනුයුක්ත පොලිස් නිලධාරීන් කිහිපදෙනෙකු විසින් ඔවුන්ව බේරාගැනීමට සමත්වූ බව පොලීසිය පවසයි.
+🟩
 
-විදෙස් ජාතික යුවළ එලෙස බේරාගැනීමට කටයුතු කර ඇත්තේ, සැරයන් - 72167 මංජුල, පොලිස් කොස්තාපල් 36992 බණ්ඩාර හා පොලිස් කොස්තාපල් 28244 චාමර යන නිලධාරින් විසිනි.
+A Russian national couple who went to a break in Mirissa coast in the Kotawila police division of Mirissa coast had been diagnosed with a diagnosis.
 
-මෙලෙස අනතුරට පත්ව ඇත්තේ වයස අවුරුදු 40ක පිරිමි පුද්ගලයෙකු හා වයස අවුරුදු 38ක් වන රුසියානු ජාතික අඹුසැමි යුවළකි.
+The police said that several police officers attached to the Matara Police Self-Reservant Unit were later rescued.
+
+The Foreign National couple has taken measures to save the overseas - 72167 Manjula, Police Constable 36992 Bandara and Police Constable 28244 Chamara.
+
+The victims were a 40-year-old man and a couple of the ages of 38 years of age.
 
 ◼️
 
 [Data](articles/0912abc1.json)
 
+[Extended Data](ext_articles/0912abc1.ext.json)
+
 ---
 
-### වාහන ආනයනකරුවන්ගේ සංගමයෙන් ප්‍රකාශයක්
+### A statement from vehicle importers association
 
 *2024-12-09 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204176) · `si`
 
-වාහන ආනයනය කිරීම සම්බන්ධයෙන් රජයේ කිසිදු පාර්ශවයක් මේ වන තෙක් නිල වශයෙන් දැනුම් දී නොමැති බව වාහන ආනයනකරුවන්ගේ සංගමය පවසයි.
+Vehicle importers claim no official announcement made. Union president requests government statement, citing public concern over delayed imports.
 
-ඒ හේතුවෙන් වාහන මිල දී ගැනීම හෝ ඒවා විකිණීම සම්බන්ධයෙන් කලබල විය නොමැති බව එම සංගමයේ සභාපති ප්‍රසාද් මානගේ මහතා සඳහන් කළේය.
+🟩
 
-"මේක දැන් ගෙන්වීම අත්‍යාවශ්‍ය වෙලා තියෙන්නේ. මොකද අපි දැන් වාහනයක් නැතුව අවුරුදු 4ක් - 5ක් අපේ කේෂ්ත්‍රය කඩා වැටීමට ලක්වෙලා තියෙනවා. අපෙත් පැතුම මොනවා හරි වාහනයක් ගේන්න. අපිත් ප්‍රාර්ථනා කරනවා මේ අවුරුද්දේ බස්, ලොරි ගෙන්නලා ඊට පස්සේ දෙවන තුන්වන අදියර යටතේ ඉතුරු වාහනත් ගෙන්න ගන්න ඉක්මට හැකියාව ලැබෙන්න කියලා. දැනට කිසිම වාහනයක් ගේන්න රජයේ කිසිම තීරණයක් නෑ. නව රජයෙන් තීරණය වෙනස් වෙයිද කියලා අපිට කියන්න බෑ. කිසිම කෙනෙක් කලබල වෙන්න එපා තමන් ළඟ තියෙන වාහනය විකුණන්න. තාම රජයේ කිසිම කෙනෙක් ප්‍රකාශයට පත්කරලා නෑ කවද්ද වාහන ගෙන්වන්නේ කියලා. අපි රජයෙන් ඉල්ලීමක් කරනවා මේ ගැන ප්‍රකාශයක් නිකුත් කරන්න කියලා. මොකද මිනිස්සු කලබල වෙලා ඉන්නේ. රජය ප්‍රකාශයට පත්කරන කල් තමන් ළඟ තියෙන වාහනය අඩුවට කාටවත් විකුණන්න ඕනේ නෑ."
+The vehicle outers' union says that no official party has officially informed the importation of vehicles.
+
+The President of the Association Prasad Manage said that he had not worked up or selling vehicles or selling vehicles.
+
+"This is essential to importing. Because we have now been to collapse for 4 years without a car. Bring something caring for us. We wish this year buses this year and then to get the rest of the vehicles under the second Third Phase II. There is no government decision on bringing any vehicle. We cannot tell whether the decision will be changed. Don't worry don't worry the vehicle you have. But no one government has expressed. We request the government to issue a statement about this. Because people are worried. We don't want to sell the vehicle that is published in late time. "
 
 ◼️
 
 [Data](articles/43548d81.json)
+
+[Extended Data](ext_articles/43548d81.ext.json)
 
 ---
 
@@ -2341,27 +2397,5 @@ Commenting on this, DIG Shanmukha Padu Sundaram told the 'Hindu Tamil Direction'
 [Data](articles/3ad4eb53.json)
 
 [Extended Data](ext_articles/3ad4eb53.ext.json)
-
----
-
-### Sri Lanka’s ‘Ava’ gang leader arrested in Canada on murder charges
-
-*2024-12-08 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104079/sri-lankas-ava-gang-leader-arrested-in-canada-on-murder-charges) · `en`
-
-A Sri Lankan national believed to be the head of the criminal gang known as ‘Ava Group’, based in Northern Sri Lanka, has been arrested in Canada.
-
-Canadian media reported that Prasanna Nallalingam, 32, who also goes by the name Ajanthan Subramaniyam, is facing extradition to France to face murder charges after being arrested in Toronto this spring.
-
-The extradition of Nallalingam is being sought in connection with the alleged gang killing of Abiraman Balakirishnan and attempted murder of another man in September 2022 in France, Canada’s Department of Justice confirmed.
-
-Subramaniyam, is believed to be the leader of a group known as AAVA, an outlaw motorcycle gang active in the northern province of Sri Lanka. The filings state the attack targeted a group known to be rivals of AAVA, the LC Boys, foreign media reported.
-
-According to French media reports, the two groups were engaged in a multi-year conflict over control of La Courneuve, a commune located in the northern suburbs of Paris.
-
-...
-
-[Data](articles/8d067143.json)
-
-[Extended Data](ext_articles/8d067143.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 21:44:15**
+As of **2024-12-09 23:01:05**
 
 ## Newspaper Stats
 
-*Scraped **59,309** Articles*
+*Scraped **59,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,115 @@ islandlk | 3,572
 economynextcom | 3,601
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,625
-adaderanalk | 7,213
-tamilmirrorlk | 8,470
-virakesarilk | 9,731
-adaderanasinhalalk | 10,252
+adalk | 5,626
+adaderanalk | 7,215
+tamilmirrorlk | 8,471
+virakesarilk | 9,732
+adaderanasinhalalk | 10,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,296 (100.0%) of 59,309 articles have been extended.
+59,305 (100.0%) of 59,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
+
+### US emphasizes commitment to assist Sri Lanka’s energy future
+
+*2024-12-09 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104119/us-emphasizes-commitment-to-assist-sri-lankas-energy-future) · `en`
+
+The United States Ambassador to Sri Lanka, Julie Chung has emphasized commitment to assist Sri Lanka’ s energy future as well as the collaboration for climate adaptation, energy transition, and agricultural sustainability in the country.
+
+During a meeting with Sri Lanka’ s Minister of Energy Kumara Jayakody, the US Ambassador has discussed Sri Lanka’ s energy future and the US-Sri Lanka shared commitment to affordability, sustainability, and security.
+
+Posting on ‘ X’  (formerly Twitter), Ambassador Chung said: “Through USAID Sri Lanka, we’ re proud to support Sri Lankan partners driving climate adaptation in agriculture, fisheries, and tourism, advancing waste management, and fostering innovation with circular economy initiatives and green finance—building a greener, stronger future together.”
+
+...
+
+[Data](articles/b3e92236.json)
+
+---
+
+### Complaint against doctor Archana
+
+*2024-12-09 21:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-எதிராக-முறைப்பாடு/175-348508) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Jaffna MP Archana Ramanathan faces complaint from hospital director Dr. T. Sathiyamurthy alleging disruption at Jaffna Bodhana Hospital. Complaint filed with police, citing interference with medical staff work.
+
+🟩
+
+Jaffna MP Archana Ramanathan has lodged a complaint against Jaffna MP Archana Ramanathan for allegedly disrupting the Jaffna Bodhana Hospital.
+
+The complaint filed by the Director of the Hospital Dr. T. Sathiyamurthy said the MP's behavior interferes with the work of medical staff.
+
+The hospital administration has lodged a complaint with the Jaffna police regarding the incident, police said.
+
+◼️
+
+[Data](articles/f0e2be5a.json)
+
+[Extended Data](ext_articles/f0e2be5a.ext.json)
+
+---
+
+### Ranil announced from Bar Licens
+
+*2024-12-09 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204206) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Pres. Ranil Wickremesinghe denies issuing alcohol licenses worth over Rs. 3 billion. Claims licenses were used as political bribes during economic crisis. Government earned Rs. 3.1 billion in excise revenue in first 9 months of the year. Cabinet has authority to grant or revoke revenue permits.
+
+🟩
+
+The office said that former President Ranil Wickremesinghe has not given any alcohol license and has not given any alcohol license that the government has earned over Rs. 3 billion.
+
+The announcement was issued to respondents that Ranil Wickremesinghe has issued alcohol licenses as political bribes.
+
+The President has issued an excise license at a time when the country was economically collapsed by the excise licenses.
+
+The statement stated that the government has earned an income earning Rs. 3.1 billion in the first nine months of this year.
+
+The former presidential office also states that the procedure followed by the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter of the Excise.
+
+The announcement further shows that the Cabinet has the power to carry out or abolish the formal revenue permits.
+
+◼️
+
+[Data](articles/f7e8894e.json)
+
+[Extended Data](ext_articles/f7e8894e.ext.json)
+
+---
+
+### No liquor licenses were issued as bribes: Ex-President Ranil responds to allegations
+
+*2024-12-09 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104118/no-liquor-licenses-were-issued-as-bribes-ex-president-ranil-responds-to-allegations) · `en`
+
+Former President Ranil Wickremesinghe’s office has issued a statement, claiming that the former President did not issue any liquor licenses in violation of the rules and regulations of the Excise Department.
+
+The statement further highlighted that the government has received a revenue of over Rs. 3.1 billion during the first nine months of this year through the new liquor licenses issued during Wickremesinghe’s tenure as the President.
+
+The statement pointed out that the legitimacy of the procedure followed in granting the liquor licenses was verified through the recommendations made in the letter forwarded by the Election Commission to the Commissioner General of Excise on the 19 August 2024.
+
+It further highlights that the incumbent Cabinet of Ministers has the power to renew or revoke these “formal revenue-generating” liquor licenses.
+
+...
+
+[Data](articles/70276fe0.json)
+
+[Extended Data](ext_articles/70276fe0.ext.json)
+
+---
 
 ### Everyone should dedicate to Sri Lanka to become a limited country of bribery - President
 
@@ -75,6 +169,30 @@ During his visit to Colombo, he was admitted to a private hospital in Kaluppitti
 [Data](articles/3bcb87b5.json)
 
 [Extended Data](ext_articles/3bcb87b5.ext.json)
+
+---
+
+### Coconut exported traders attempt: government should take drastic measures - Frontline Socialist Party
+
+*2024-12-09 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200831) · `ta`
+
+Sri Lanka faces coconut shortage; traders exploit gap. Government urged to act swiftly to stabilize prices and ensure supply.
+
+🟩
+
+With coconut shortages in the market, a few traders are trying to make the coconut and export them and make profits through it.. The government should take drastic measures to solve the issue, said the Socialist Party's educational campaign secretary, Pubudu Jayagoda.
+
+Coconut prices have risen as coconut shortages have intensified in the market. A coconut in the market is sold for 192 rupees. A few parts of Colombo are sold for 120 rupees.
+
+3100 million coconuts are produced annually in Sri Lanka according to past data. In this case, 2100 million coconuts are used for annual consumption, with plenty of coconuts and raised $ 400- 600 million.
+
+However, this year's coconut production has declined to 700 million. The short -term factors have not had the impact on this. Long -term factors have been influenced.
+
+...
+
+[Data](articles/c5287ca2.json)
+
+[Extended Data](ext_articles/c5287ca2.ext.json)
 
 ---
 
@@ -280,6 +398,34 @@ The Investigation Officers have revealed that the suspect has taken this fraudul
 
 ---
 
+### China hospital shirt to Colombo on the 21st
+
+*2024-12-09 18:56:17* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-රෝහල්-නෞකාව-21දා-කොළඹට/11-413547) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Chinese Ambassador pledges continued support for Sri Lanka's health sector. Discusses development projects and evaluates humanitarian programs.
+
+🟩
+
+Chinese Ambassador to Sri Lanka, Chinese Ambassador to the health sector but also in the health sector, will continue to support the health sector but also in the health sector.
+
+This was stated by the Colombo Health and Mass Media Dr. Nalinda Jayatissa and Sri Lanka's Chinese Ambassador to Sri Lanka at the Ministry of Health today (09).
+
+Health and Mass Media Media Dr. Nalinda Jayatissa began the duties of his post, and the Chinese Ambassador began with the Chinese Ambassador and discussed the development projects in Sri Lanka with cooperation.
+
+The Ambassador has evaluated the humanitarian program of the Ministry of Health in Sri Lanka to provide a quality health care at low cost.
+
+...
+
+[Data](articles/97e9d431.json)
+
+[Extended Data](ext_articles/97e9d431.ext.json)
+
+---
+
 ### The Indian ship comes with 10 thousand metricthone rice
 
 *2024-12-09 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200832) · `ta`
@@ -338,21 +484,33 @@ Under the theme “Let us be exemplary pioneers of a proud nation,” the event 
 
 ---
 
-### උත්සව සමයට පි.එච්.අයිලා බරටම වැඩ
+### Festive season PH
 
 *2024-12-09 18:27:38* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයට-පි-එච්-අයිලා-බරටම-වැඩ/11-413545) · `si`
 
-නත්තල ඇතුළු එළඹෙන උත්සව සමය වෙනුවෙන් දිවයින පුරා ඇති ආහාර පරිහරණ ආයතන සියල්ල පරීක්ෂා කිරීමේ වැඩසටහනක් ක්‍රියාත්මක කර ඇති බව ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂක සංගමයේ සභාපති උපුල් රෝහණ මහතා සඳහන් කරයි.
+Here's a summary of 200 characters:
 
-වැඩිදුරටත් කරුණු දැක්වූ මහජන සෞඛ්‍ය පරීක්ෂක සංගමයේ සභාපති උපුල් රෝහණ මහතා,
 
-“වත්මන් සෞඛ්‍ය ඇමතිවරයා සහ සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයා ලිඛිතව සහ වාචිකව අපට උපදෙස් ලබා දී තිබෙනවා දිවයින පුරා තිබෙන සියලුම ආහාර පරිහරණ ආයතන පරීක්ෂා කරන ලෙස. ඒ අනුව දෙසැම්බර් මස 01වැනිදා සිට සියලුම මහජන සෞඛ්‍ය පරීක්ෂකවරුන් තමුන්ගේ රාජකාරි කොට්ඨාසය තුළ මෙම පරීක්ෂා කිරීම සිදුකරනවා.
 
-උත්සව සමය වෙනුවෙන් නිෂ්පාදනය කරන ආහාරද, එම ආහාර නිෂ්පාදනය කිරීම සඳහා යොදා ගන්නා රසකාරක සහ වර්ණක පිළිබඳවද වැඩි අවධානයක් යොමු කරන්න කටයුතු කර තිබෙනවා. එමෙන්ම පොල්තෙල් පිළිබඳව වැඩි අවධානයක් යොමු කරන ලෙසට සියලුම මහජන සෞඛ්‍ය පරීක්ෂකවරුන් දැනුවත් කර තිබෙනවා.
+Public Health Inspectors in Sri Lanka are conducting nationwide inspections of food establishments during the festive season. They focus on food safety, quality control, and adherence to regulations. Coconut oil usage and hotel/restaurant standards are under special scrutiny. The goal is to ensure healthy, safe food for consumers while prosecuting violations when necessary.
+
+🟩
+
+Sri Lanka Public Health Inspectum Association President Upul Rohana stated that a program to inspect all the food use institutions throughout the country.
+
+Speaking further the President of the Public Health Inspector Susku Rohana said,
+
+"The current Health Minister and the Director General of Health Services in writing and orally have advised us to examine all food use institutions throughout the country.. Accordingly, all public health inspectors will be inspected in their duties in their office.
+
+Foods produced for the festive season and the flavors used to produce foods have been paid more attention to the production of food. All public health inspectors have been informed to pay close attention to the coconut oil.
+
+It also focuses on the quality of hotels, bakery and restaurants in mostly populated cities.. All of this is done to ensure the right to obtain health secure foods to the public.
 
 ...
 
 [Data](articles/4922bd8b.json)
+
+[Extended Data](ext_articles/4922bd8b.ext.json)
 
 ---
 
@@ -626,37 +784,57 @@ The Attorneyers who sat for a small number of cashier were bail to be bailed to 
 
 ---
 
-### ரணிலை காட்டிலும் அநுர அடிபணிந்துள்ளார் - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+### Ranil is more than Ranil - Sri Lanka PA
 
 *2024-12-09 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200799) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் நீட்டிக்கப்பட்ட  செயற்திட்ட விவகாரத்தில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை காட்டிலும் ஜனாதிபதி  அநுரகுமார திசாநாயக்க அடிபணிந்துள்ளார்.ஆட்சிக்கு வந்தவுடன் நாணய நிதிய செயற்திட்டத்தில் இருந்து விலகுவதாக வழங்கிய வாக்குறுதி தொடர்பில் மக்கள் கேள்வியெழுப்ப வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் டி.வி.சானக தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க தேர்தல் மேடைகளில் வழங்கிய வாக்குறுதிகளுக்கும், நடைமுறை நிர்வாகத்துக்கும் இடையில் பாரிய வேறுபாடுகள் காணப்படுகின்றன. கடந்த கால அரசாங்கங்களின் நிர்வாகத்தை விமர்சித்தே தேசிய மக்கள் சக்தி அரசாங்கம் ஆட்சிக்கு வந்துள்ளது.
 
-ஆட்சிக்கு வந்தவுடன் சர்வதேச நாணய நிதியத்துடனான செயற்திட்டத்தில் இருந்து விலகுவதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க நாட்டு மக்களுக்கு வாக்குறுதி வழங்கினார். ஆனால் ஆட்சிக்கு வந்ததன் பின்னர் நாணய நிதியத்தின் செயற்திட்டத்தில் இருந்து விலகினால் பொருளாதார நெருக்கடி தீவிரமடையும் என்று குறிப்பிடுகிறார். அவ்வாறாயின் அவர் நாட்டு மக்களை தவறாக வழி நடத்தியுள்ளார்.
+
+Sri Lanka's President Anura Kumara Dissanayake faces criticism over IMF deal. Promised to exit but now says quitting would worsen economic crisis. His government accepted all IMF conditions, differing from predecessor Ranil Wickremesinghe's approach. Public questions his election campaign promises on economic recovery.
+
+🟩
+
+President Anura Kumara Dissanayake has been submitted than former President Ranil Wickremesinghe in the IMF's extended project.
+
+There are huge differences between the promises and the practical administration of President Anura Kumara Dissanayake on the election platforms. The National People's Power Government has come to power criticizing the administration of the past governments.
+
+President Anura Kumara Dissanayake promised the people of the country to quit the project with the International Monetary Fund. But after coming to power, he notes that the economic crisis will be intensified if he quit the work of the Monetary Fund. If so, he has misled the people of the country.
+
+President Anura Kumara Dissanayake has suffered more than former President Ranil Wickremesinghe on the issue of extended project with the Monetary Fund. The government fully accepts the conditions without any refusal to all the conditions proposed by the Monetary Fund.
 
 ...
 
 [Data](articles/6d8890e8.json)
 
+[Extended Data](ext_articles/6d8890e8.ext.json)
+
 ---
 
-### மத்திய ஆபிரிக்க குடியரசில் அமைதி காக்கும் பணிகளுக்காக களமிறங்கும் இலங்கை விமானப்படை
+### Sri Lanka Air Force in the Central African Republic
 
 *2024-12-09 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200787) · `ta`
 
-மத்திய ஆபிரிக்க குடியரசில் ஐ.நா. அமைதி காக்கும் பணிகளுக்காக இலங்கை விமானப்படையின் ஹெலிகொப்டர் படையணியைச் சேர்ந்த 108 பேர் கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் இருந்து மத்திய ஆபிரிக்க குடியரசை நோக்கி புறப்பட்டனர்.
+Sri Lanka Air Force contributes to UN peacekeeping in Central African Republic. 108 personnel deployed for various tasks including transport, medical support, and parachute operations. 92-member delegation returns after completing mission.
 
-இலங்கை விமானப்படை 2014 ஆம் ஆண்டு முதல் அமைதி காக்கும் நடவடிக்கைகளில் தீவிரமாக பங்களித்துள்ளதுடன், இலங்கை விமானப்படை ஹெலிகொப்டர் படைப்பிரிவின் குழுவினர்  அமைதி காக்கும் பணிகளுக்கு நியமிக்கப்பட்டுள்ளனர்.
+🟩
 
-படைவீரர்களுக்கான  போக்குவரத்து, விஐபி போக்குவரத்து, உணவு/பொருட்கள் போக்குவரத்து, உள்நாட்டு விமான பயனம்கள் , பாராசூட் மூலம் சரக்குகளை இறக்குதல், மருத்துவக் குழு போக்குவரத்து உள்ளிட்ட பல சிறப்புப் பணிகளுக்கு தங்களது பங்களிப்பை இக்குழுவினர் வழங்கிவருகின்றனர்.
+UN in Central African Republic. 108 members of the Sri Lanka Air Force Helicopter Regiment departed from the Katunayake Bandaranaike International Airport to the Central African Republic for peacekeeping.
 
-மேலும் இதற்கு  முன்னர் மத்திய ஆபிரிக்க குடியரசில் ஐ.நா அமைதி காக்கும் பணிகளுக்காக    பயணம் செய்த   92 பேர் அடங்கிய விமானப்படை   குழுவினர் அவர்களின் சேவை காலம்  நிறைவடைந்ததன் பின்பு  மீண்டும் நாட்டை வந்தடைந்தமையும்   குறிப்பிடத்தக்கது.
+The Sri Lanka Air Force has been actively contributed to peacekeeping activities since 2014 and a team of the Sri Lanka Air Force Helicopter Brigade has been appointed for peacekeeping.
 
-...
+The group is contributing to many special tasks including transport, VIP transport, food/goods transport, domestic airlines, unloading cargo through parachute and medical team transport.
+
+It is also worth noting that 92 Air Force delegation, who had traveled to the UN peacekeeping work in the Central African Republic, arrived again after the end of their service.
+
+Air Force officers and family members were present at the International Airport.
+
+◼️
 
 [Data](articles/b1fc87f6.json)
+
+[Extended Data](ext_articles/b1fc87f6.ext.json)
 
 ---
 
@@ -760,25 +938,31 @@ Working with S W R D Bandaranaike in the 1956-1959 period had given me the oppor
 
 ---
 
-### රිලව් පන්නන අලුත් ම ගැජට් එක
+### Remain new gadget
 
 *2024-12-09 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204198) · `si`
 
-සත්ත්ව හානි හේතුවෙන් දිවයිනේ බොහෝ ප්‍රදේශවල බෝග වගාවන් ට විශාල විනාශයක් සිදුවෙයි.
+New gadget helps protect crops from wildlife in Kegalle district. Device emits sound to scare away animals like monkeys and elephants. Temporary solution to crop damage issues.
 
-රිලවා, වඳුරා, දඬු ලේනා මෙන්ම වනඅලියා ද වගා හානි සිදුකරන සතුන් අතර ප්‍රධානය.
+🟩
 
-විශේෂයෙන් කෑගල්ල දිස්ත්‍රික්කයේ රිලා ගහනය වැඩිවීම හේතුවෙන් එම දිස්ත්‍රික්කයේ ජනතාව සිය වගාවන් බේරා ගැනීමට නොහැකිව අසරණවී සිටියි.
+Crop cultivations suffers from many parts of the island due to animal damage.
 
-ඊට තාවකාලික විසඳුමක් හඳුන්වාදීමට පිරිපුන් සංවිධානයේ සභාපති, ඉංජිනේරු ආනන්ද දේවසිංහ සහ තරුණ ඉංජිනේරු කණ්ඩායමක් සමත්වී ඇති බව වාර්තා වෙයි.
+The raids, monkey, stalks, and wild elephants are also presented among the cultivated animals.
 
-එම උපකරණය රිලව් බහුලව ගැවසෙන බුලත්කොහුපිටිය, වාගොල්ල ප්‍රදේශයේදී පසුගියදා අත්හදාබැලීය.
+The people in the district is helpless as the people in the Kegalle district cannot save their crops.
 
-"රිලව් එනකොට මීටර් 7ක් විතර දුරට මේකෙන් ඩිටෙක්ට් කර ගන්නවා. පසුව ශබ්දයක් එක්ක මේකෙන් පොඩි කිරණයක් යවනවා. ඒක රිලවාට දැනෙනවා. එතකොට ළඟට එන්නේ නෑ. මින් පිටවන ශබ්දය විටින් විට මාරු කරන්න වෙනවා. නැත්නම් රිලවා ඒකට පුරුදු වෙනවා. මේකෙන් වෙන්නේ රිලව් ටිකක් ඈතට පන්නන එක."
+A team of Ananda Deeasagas and a young engine has been able to introduce a temporary solution.
+
+The device expelled recently in the Wagolulla area.
+
+"When it comes to Rillive. Later, this is sending a little mine with a sound. It feels. And not coming to reach near. The alleviation of this will be transferred from time to time. Or furnace and get used to it. This is the one to get rid of them. "
 
 ◼️
 
 [Data](articles/892c70b0.json)
+
+[Extended Data](ext_articles/892c70b0.ext.json)
 
 ---
 
@@ -2183,151 +2367,5 @@ However, the department further stated that all office trains operating up to Co
 [Data](articles/d51cca8e.json)
 
 [Extended Data](ext_articles/d51cca8e.ext.json)
-
----
-
-### Lhans bring to court
-
-*2024-12-09 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204184) · `si`
-
-Former State Minister Lohan Ratwatte arrested twice: once for drunk driving, another time for luxury car found in his wife's home. Remanded both times but released on bail.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was arrested and remanded, was brought to the Fort Magistrate's Court today (09).
-
-The jeep he was driving at the Kollupitiya juncture at the Kollupitiya juncture was located near the Kollupitiya Junction while Mr. Lohan Ratwatte.
-
-Accordingly, after investigations made by the Kollupitiya Police on the accident, the meeting was arrested on December 7 on charges of a drunken accident.
-
-Later, Lohan Ratwatte was remanded until this day after being produced before the Aluthkade Chief Magistrate's Court.
-
-However, on October 30, Lohan Ratwatte was arrested and remanded after being taken into custody by the Mirihana Police from Katugastota and produced before court.
-
-It is in connection with the discovery of a luxury car in a three-storey house in a three-storey house in Mirihana Emadeniya Sale belongs to Mr. Rashi Prabha Ratwatte, the wife of Lohan Ratwatte.
-
-Former State Minister Lohan Ratwatte, who was remanded, was released on bail.
-
-◼️
-
-[Data](articles/d81b27e8.json)
-
-[Extended Data](ext_articles/d81b27e8.ext.json)
-
----
-
-### Sri Lanka Steuart by Citrus hotel temporarily closed after fire
-
-*2024-12-09 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-steuart-by-citrus-hotel-temporarily-closed-after-fire-192830/) · `en`
-
-ECONOMYNEXT – Citrus Leisure said it was temporarily closing its city hotel Steuart by Citrus after a fire at the property last week.
-
-“The Steuart by Citrus will be temporarily closed until the extent of damage is assessed and the required refurbishment of the damaged areas are completed,” the company said in a stock exchange filing.
-
-A fire originated on an upper floor of the hotel situated in Fort, Colombo on the evening of December 5.
-
-The fire was brought under control by the Colombo Fire Service Department.
-
-“All guests and staff present at the hotel at the time were evacuated,” the leisure company said.
-
-The Steuart by Citrus is a member of the Citrus chain of hotels managed by Citrus Silver Ltd, a subsidiary of Citrus Leisure PLC.
-
-The Citrus Leisure stock was trading up at 4.50. (ColomboDec9/2024)
-
-◼️
-
-[Data](articles/856c0e78.json)
-
-[Extended Data](ext_articles/856c0e78.ext.json)
-
----
-
-### Ava group leader arrested in Canada - France appeals to deport
-
-*2024-12-09 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200771) · `ta`
-
-Sri Lankan Ava group leader Prasanna Nagalingam arrested in Canada. France seeks deportation due to murder charges. Leader of banned motorcycle group in Jaffna, involved in conflict with rival Elc Boyz. Attack occurred on September 22, 2022.
-
-🟩
-
-Prasanna Nagalingam, who is considered to be the leader of the banned motorcycle group in Sri Lanka, is facing the deportation of France on the basis of murder and attempted murder.
-
-France has appealed to Prasanna to be deported in September 2022, regarding the murder of Abiraman Balakrishnan and the injury to another.
-
-Prasanna Nagalingam, also known as Ajanthan Subramaniam, is considered to be the leader of the Awa Group of Sri Lanka, according to the documents.
-
-Ava is a banned motorcycle group in Jaffna, the northern part of Sri Lanka.
-
-The Awa group targeted its rival Elc Boyz, a group, said in the documents.
-
-French media reports that the two groups were involved in the conflict to bring under their control in the northern suburb of the Northern Territory of the French capital.
-
-Nagalingam and his five colleagues hide their faces and used sharp weapons, including knives, and attacked two people in the vehicle on September 22, 2022.
-
-◼️
-
-[Data](articles/241d6bc5.json)
-
-[Extended Data](ext_articles/241d6bc5.ext.json)
-
----
-
-### Ousted Syrian leader Assad flees to Moscow after fall of Damascus, Russian state media say
-
-*2024-12-09 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104097/ousted-syrian-leader-assad-flees-to-moscow-after-fall-of-damascus-russian-state-media-say) · `en`
-
-Ousted Syrian leader Bashar Assad fled to Moscow and received asylum from his longtime ally, Russian media said Sunday, hours after a stunning rebel advance seized control of Damascus and ended his family’s 50 years of iron rule.
-
-Thousands of Syrians poured into streets echoing with celebratory gunfire and waved the revolutionary flag in scenes that recalled the early days of the Arab Spring uprising, before a brutal crackdown and the rise of an insurgency plunged the country into a nearly 14-year civil war.
-
-The swiftly moving events raised questions about the future of the country and the wider region.
-
-...
-
-[Data](articles/fed908e8.json)
-
-[Extended Data](ext_articles/fed908e8.ext.json)
-
----
-
-### Sri Lanka targets about USD19 billion in exports in 2025
-
-*2024-12-09 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104096/sri-lanka-targets-about-usd19-billion-in-exports-in-2025) · `en`
-
-Sri Lanka’s Export Development Board (EDB) forecasts that the country’s total export earnings for 2025 would be USD18.7 billion, EDB Chairman Mangala Wijesinghe said yesterday (08).
-
-He added that this forecast comprises USD14.54 billion from merchandise exports and USD4.16 billion from services exports.
-
-Wijesinghe said in the first 10 months of 2024, Sri Lanka has earned USD13.5 billion from total exports (merchandise and services). This is a 7.19 per cent increase compared to the first 10 months of 2023.
-
-The annual target for 2024 is USD16.4 billion and Sri Lanka has achieved 82 per cent of that annual target in the first 10 months of 2024, he said.
-
-◼️
-
-[Data](articles/ef967b24.json)
-
-[Extended Data](ext_articles/ef967b24.ext.json)
-
----
-
-### The government boycottss Ranil's IMF, ignoring the people's mandate - Sajith
-
-*2024-12-09 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200767) · `ta`
-
-Sajith Premadasa criticizes government for ignoring IMF promises, increasing national debt and affecting healthcare, education, agriculture and fisheries.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the current government, which has received the Great People's Orders and the Great seats, has been initiated by the government, in the beginning, forgotten the promises made by the International Monetary Fund, and the policies of the International Monetary Fund, which has been carried out by the government of President Ranil Wickremesinghe.
-
-United People's Power Leader and Opposition Leader Sajith Premadasa said this while addressing a public meeting held in Negombo on Sunday (08), chaired by MP Kavinda Jayawardena.
-
-The current government, which has received the Great People's Orders and the Great seats and the parliamentary gift, has begun to advance the policies of the International Monetary Fund by President Ranil Wickremesinghe's government, in the beginning.
-
-...
-
-[Data](articles/5d865fbe.json)
-
-[Extended Data](ext_articles/5d865fbe.ext.json)
 
 ---

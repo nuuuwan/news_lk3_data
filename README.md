@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 16:17:15**
+As of **2024-12-09 15:14:46**
 
 ## Newspaper Stats
 
-*Scraped **59,271** Articles*
+*Scraped **59,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 619
-islandlk | 3,572
+islandlk | 3,571
 economynextcom | 3,598
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,618
-adaderanalk | 7,208
+adalk | 5,615
+adaderanalk | 7,207
 tamilmirrorlk | 8,465
 virakesarilk | 9,720
 adaderanasinhalalk | 10,245
@@ -26,135 +26,33 @@ adaderanasinhalalk | 10,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,249 (100.0%) of 59,271 articles have been extended.
+59,241 (100.0%) of 59,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### America has two presidents as the world braces for another Trump term
-
-*2024-12-09 16:04:00* · [`islandlk`](http://island.lk/america-has-two-presidents-as-the-world-braces-for-another-trump-term/) · `en`
-
-The election of Donald Trump as US President for yet another term has sent many world leaders scurrying for cover. Especially in the West. But even China is concerned. In the US itself, the longstanding maxim that there can only be one president at a time is being put to the test every day. Joe Biden, the outgoing president, is scrambling to salvage his legacy after a disastrous last year that has diminished all his achievements over the first three years on the domestic front.
-
-Externally, Biden’s presidency has been a monumental failure, from the impulsive withdrawal from Afghanistan that kickstarted it, to the hopelessly painful stalemate in Ukraine and the relentless mass devastation in Gaza that are dragging out its end. With the pardoning of his son Hunter Biden, the outgoing president has ceded even the little moral hump that he had over Trump.
-
-...
-
-[Data](articles/6259c0e8.json)
-
-[Extended Data](ext_articles/6259c0e8.ext.json)
-
----
-
-### ලංවිම සේවකයන්ට මේ වසරේදී බෝනස් නෑ
-
-*2024-12-09 15:42:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-සේවකයන්ට-මේ-වසරේදී-බෝනස්-නෑ/11-413535) · `si`
-
-විදුලිබල මණ්ඩලයේ සේවකයින්ට ප්‍රසාද දීමනාවක් ලබාදෙන ලෙස ආණ්ඩුවට සම්බන්ධ වෘත්තීය සමිතියක් වන ලංකා විදුලි සේවක සමංගමය කළ ඉල්ලීම ප්‍රතික්ෂේප කිරීමට ලංකා විදුලිබල මණ්ඩලයේ අධ්‍යක්ෂ මණ්ඩලය තීරණය කර තිබේ.
-
-ලංකා විදුලි බල මණ්ඩලය මේ වසරේදී ලබා ඇති ලාභය අනුව සේවකයන්ට ප්‍රසාද දීමනාවක් ලබාදෙන ලෙස ලංකා විදුලි සේවක සංගමය ඉල්ලීමක් කර තිබුණද විදුලි බල මණ්ඩලය ලබා තිබූ ලාභයෙන් විශාල කොටසක් ණය ආපසු ගෙවීමට හා විදුලි බිල අඩු කිරීමට යොදවා තිබීම හේතුවෙන් මෙවර ප්‍රසාද දීමනාවක් ලබා නොදීමට අධ්‍යක්ෂ මණ්ඩලය තීරණය කර තිබේ.‍ෙ
-
-අප කළ විමසීමකදී ලංකා විදුලිබල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ධනුෂ්ක පරාක්‍රමසිංහ මහතා තහවුරු කළේ විදුලිබල මණ්ඩලයේ සේවකයන්ට ප්‍රසාද දීමනාවක් ලබා නොදීමට මේවන විටත් එහි අධ්‍යක්ෂ මණ්ඩලය අවසන් තීරණයක් ගෙන ඇති බවයි.
-
-ලංකා විදුලිබල මණ්ඩලය මේ වසරේදී  ලැබූ ලාභයෙන් රුපියල් බිලියන 112ක්ම ඛනිජ තෙල් නීතිගත සංස්ථාව ඇතුළු ආයතන වෙත ණය ආපසු ගෙවීම් ලෙසත් රුපියල් බිලියන 41ක් මේ වසරේ විදුලි ගාස්තු අඩු කිරීමට යොදවා ඇති බවත් වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/bd92e82a.json)
-
----
-
-### දෙවැනි ටෙස්ට් තරගයේ ජයත් දකුණු අප්‍රිකාවට
-
-*2024-12-09 15:30:43* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-ටෙස්ට්-තරගයේ-ජයත්-දකුණු-අප්‍රිකාවට/9-413534) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමගින් පැවැති දෙවැනි ටෙස්ට් තරගයද ලකුණු 109කින් ජය ගැනීමට සත්කාරක දකුණු අප්‍රිකා කණ්ඩායම සමහත්විය. ජයග්‍රහණය වෙනුවෙන් ලකුණු 348ක ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කණ්ඩායමට සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 238ක් පමණි.
-
-මෙම පරාජයත් සමගින් ලෝක ටෙස්ට් ශූරතාවලියේ අවසන් මහ තරගය වෙනුවෙන් ශ්‍රී ලංකාවේ බලාපොරොත්තු බිඳ වැටුණි. ජයග්‍රහණයත් සමගින් දකුණු අප්‍රිකාවට එහි අවසන් මහ තරගයට පිවිසීමට වැඩි අවස්ථාවක් පවතී.
-
-දකුණු අප්‍රිකාව පළමු ඉනිමේදී ලකුණු 358ක් රැස් කළ අතර ශ්‍රී ලංකාව පළමු ඉනිමට ලකුණු 328ක් රැස් කළේය. දකුණු අප්‍රිකාව දෙවැනි ඉනිමට ලකුණු 317ක් රැස් කළ අතර ශ්‍රී ලංකාව දෙවැනි ඉනිමට ලකුණු 238ක් රැස් කළේය. තරගාවලියේ වීරයා සම්මාන ටෙම්බා බවුමා විසින් දිනා ගත්තේය.
-
-◼️
-
-[Data](articles/42aa5fea.json)
-
----
-
-### Interim injunction against former CMC member extended
-
-*2024-12-09 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104111/interim-injunction-against-former-cmc-member-extended) · `en`
-
-The Court of Appeal today (09) extended the interim injunction issued preventing unauthorized constructions near the ‘Alawi Mawlana’ reception hall in Colombo 10, until April 01, 2025.
-
-The order was issued during the hearing of a petition filed by area residents opposing unauthorized constructions allegedly carried out by the United National Party’s (UNP) former Colombo Municipal Councillor Kithsiri Rajapaksa and others.
-
-The case was heard before the President of the Court of Appeal, Justice Nissanka Bandula Karunaratne.
-
-During the trial, President’s Counsel Faisz Musthapha, who appeared for the petitioners, informed the court that he had also filed a contempt of court case pertaining to the matter.
-
-Meanwhile, the legal counsel who appeared for the Colombo Municipal Council member stated that necessary actions had been taken by his client concerning the unauthorized constructions.
-
-The presiding judge advised the counsels of both parties to consider resolving the matter amicably.
-
-...
-
-[Data](articles/31a0fc6a.json)
-
-[Extended Data](ext_articles/31a0fc6a.ext.json)
-
----
-
-### Sri Lanka defeated 109 runs
+### ශ්‍රී ලංකාවට ලකුණු 109ක පරාජයක්
 
 *2024-12-09 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204197) · `si`
 
-Sri Lanka won 2nd Test vs South Africa by 109 runs. Scored 348/7 in 69.1 overs, defeating 348-run target. Dhananjaya & Kusal Mendis shared highest 6th wicket stand of 97. Mahjani took 5/76 for SA.
+දකුණු අප්‍රිකාවට එරෙහි දෙවැනි හා අවසන් ටෙස්ට් ක්‍රිකට් තරගයෙන්ද ලකුණු 109ක පරාජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායමට අද (9) සිදුවිය.
 
-🟩
+මෙහිදී දකුණු අප්‍රිකාව ලබාදුන් ලකුණු 348ක ඉලක්කයට පිළිතුරු ලෙස ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 69.1කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 238ක් පමණි.
 
-Sri Lanka took place today (9) in the second and final Test match against South Africa.
+ඒ අනුව තරග දෙකකින් සමන්විත වූ මෙම තරගාවලිය තරග 2-0ක් ලෙස පූර්ණ තරගාවලි පරාජයක් ලැබීමට ශ්‍රී ලංකාවට සිදුවිය.
 
-The Sri Lankan team was able to respond to 348 runs in the target of 348 runs in 69.1 overs.
+සිව්වන දිනයට ඊයේ තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 5ක් දැවී ලකුණු 205ක් රැස්කරගෙන ජයග්‍රහණයට ලකුණු 143ක් පසුපසින් සිටියේය.
 
-Accordingly, Sri Lanka had a 2-0 match defeat for two matches.
+ඒ වනවිට කඩුල්ලේ රැඳි සිටි නායක ධනංජය ද සිල්වා හා කුසල් මෙන්ඩිස් ලකුණු 39ක බැගින් ඉනිමට එක්කර තිබුණි.
 
-Sri Lanka scored 205 runs for the loss of 5 wickets in the fourth day.
+කෙසේ නමුත් අද දිනයේ ශ්‍රී ලංකා ඉනිමට ලකුණු 14ක් එක්වද්දී කුසල් මෙන්ඩිස් (46) දැවී ගිය අතර, ඉන් අනතුරුව ධනංජය ද සිල්වා (50) දැවී ගියේය.
 
-At the time, Leader Dhananjaya and Kusal Mendis had scored 39 runs.
-
-However, when Sri Lanka's 14 points were bowled out, however, and Dhananjaya de Silva was later burned.
-
-Kusal and Dhananjaya had a 97 runs for the 6th wicket, which was the highest score for the second innings.
-
-South Africa were easily visible to the remaining wickets in Sri Lanka with the remaining 225 runs.
-
-An outstanding bowler on behalf of South Africa, Koswat Mahaj has took 5 wickets for 76 runs.
-
-◼️
-
-[Data](articles/f1c5bade.json)
-
-[Extended Data](ext_articles/f1c5bade.ext.json)
-
----
-
-### The many faceted character of Sirimavo Bandaranaike
-
-*2024-12-09 14:21:00* · [`islandlk`](http://island.lk/the-many-faceted-character-of-sirimavo-bandaranaike/) · `en`
-
-Prime Minister and Minister of Defence and External Affairs (July 1960 — August 1965)
-
-(Excerpted from Rendering Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
-
-Working with S W R D Bandaranaike in the 1956-1959 period had given me the opportunity of appreciating the many-faceted character of Sirimavo Bandaranaike. She was a devoted mother to her three children, ran her very busy and sometimes even chaotic household with a firm hand and had developed an understanding with her husband which allowed him to engage in his political pursuits with minimum interference.
+කුසල් හා ධනංජය 6 වැනි කඩුල්ලට ලකුණු 97ක සබඳතාවක් පැවැත් වූ අතර, එය ශ්‍රී ලංකා දෙවන ඉනිමේ වාර්තා වූ ඉහළම ලකුණු සබඳතාව ද විය.
 
 ...
 
-[Data](articles/ac7ecf91.json)
-
-[Extended Data](ext_articles/ac7ecf91.ext.json)
+[Data](articles/f1c5bade.json)
 
 ---
 
@@ -182,36 +80,6 @@ Deputy Minister Sukat Tilakaratne added that the Ministry of Sports has the resp
 
 ---
 
-### The Nehru Letters: Correspondence between Pandit Nehru and JRJ between 1940-1947
-
-*2024-12-09 14:17:00* · [`islandlk`](http://island.lk/the-nehru-letters-correspondence-between-pandit-nehru-and-jrj-between-1940-1947/) · `en`
-
-One of my treasured possessions has been my correspondence with Pandit Jawaharlal Nehru, the first Prime Minister and maker of modern India. These were a collection of letters exchanged between us between 1940 and 1947. In July 1971, in response to an appeal published in the newspapers by Mrs Indira Gandhi, I forwarded photostat copies of the correspondence to her. I also sent her a letter explaining the spirit and framework of the correspondence. The collection of letters is reproduced here, as a token of my treasured recollections of one of the most remarkable leaders I was privileged to know.
-
-To persons having letters, photographs, movie films, voice recordings of Jawaharlal Nehru
-
-...
-
-[Data](articles/ebf823b2.json)
-
-[Extended Data](ext_articles/ebf823b2.ext.json)
-
----
-
-### Donald Trump and the politics of the new order
-
-*2024-12-09 14:15:00* · [`islandlk`](http://island.lk/donald-trump-and-the-politics-of-the-new-order/) · `en`
-
-Donald Trump will spend the next three months finalising his Cabinet. He will assume office on January 20, and, if we are to believe what he says, will start implementing his America First policy by imposing some of the most extensive tariffs ever enforced by the United States. He has promised to impose them not just on China, but also Mexico and Canada – unless the latter two do something about illegal immigration to America.
-
-...
-
-[Data](articles/0c87d0eb.json)
-
-[Extended Data](ext_articles/0c87d0eb.ext.json)
-
----
-
 ### Bar Pamid: Ranil Description
 
 *2024-12-09 14:09:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-பேமிட்-ரணில்-விளக்கம்/175-348482) · `ta`
@@ -235,20 +103,6 @@ After independence, the government did not charge money to grant the excise lice
 [Data](articles/2dbaa554.json)
 
 [Extended Data](ext_articles/2dbaa554.ext.json)
-
----
-
-### ලෝහාන්ට අද අධිකරණය දුන්න තීන්දුව මෙන්න
-
-*2024-12-09 14:07:21* · [`adalk`](https://www.ada.lk/breaking_news/ලෝහාන්ට-අද-අධිකරණය-දුන්න-තීන්දුව-මෙන්න/11-413533) · `si`
-
-අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළ හිටපු පාර්ලිමේන්තු මන්ත්‍රී ලොහාන් රත්වත්තේ මහතා ඇප මත මුදා හැර තිබේ.
-
-රිය අනතුරක් සිදු කිරීමේ චෝදනාවක් මත ඔහුව පසුගියදා පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබිණි.
-
-◼️
-
-[Data](articles/59f29419.json)
 
 ---
 
@@ -372,43 +226,21 @@ Ratwatte, who was released on bail on December 05 in a separate case, was return
 
 ---
 
-### Lohan released on bail
+### ලොහාන් රත්වත්තේට ඇප
 
 *2024-12-09 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204196) · `si`
 
-S:0
+අත්අඩංගුවට ගෙන පසුව රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාව අද (09) කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඇප මත මුදාහැර තිබේ.
 
-🟩
+ඒ රිය අනතුරක් සිදුකර අගතියට පත් පාර්ශවයට තර්ජනය කිරීමේ චෝදනාව සම්බන්ධයෙනි.
 
-Former State Minister Lohan Ratwatte, who was arrested and remanded, was released on bail today (09).
+බීමතින් රිය ධාවනය, අනතුරක් සිදුකිරීම සහ අගතියට පත් පාර්ශ්වයට තර්ජනය කිරීම යන චෝදනා සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා කොල්ලුපිටිය පොලීසිය විසින් පසුගිය 6 වැනිදා අත්අඩංගුවට ගනු ලැබීය.
 
-It is in charge of the accident and threatening the aggrieved party.
-
-Former State Minister Lohan Ratwatte was arrested by the Kollupitiya Police about the allegations of drunkenly driving, accident and threatening the aggrieved party.
-
-The accident had occurred at the Kollupitiya Junction at the Kollupitiya Junction while Mr. Lohan Ratwatte went to his cousin.
+ලොහාන් රත්වත්තේ මහතා සිය ඥාති නිවසකට ගොස් නැවත යමින් සිටියදී ඔහු පැදවූ ජීප් රථය කොල්ලුපිටිය මංසන්ධිය අසලදී තවත් මෝටර් රථයක ගැටී එම අනතුර සිදුව තිබුණි.
 
 ◼️
 
 [Data](articles/d1a136fb.json)
-
-[Extended Data](ext_articles/d1a136fb.ext.json)
-
----
-
-### President-elect Trump and First Lady Elonia celebrate Thanksgiving at Mar a Lago
-
-*2024-12-09 13:43:00* · [`islandlk`](http://island.lk/president-elect-trump-and-first-lady-elonia-celebrate-thanksgiving-at-mar-a-lago/) · `en`
-
-I would like to explain why I continue writing so shamelessly about a subject about which recent events have proved I know next to nothing.
-
-In my defense, the news I have reported over the years has been always been based on facts and the traditional “reliable sources”. Unfortunately, my opinions and predictions have been personal and out of touch with the current political and social climate prevailing in the United States, which has changed substantially since the turn of the century.
-
-...
-
-[Data](articles/6b0ca90a.json)
-
-[Extended Data](ext_articles/6b0ca90a.ext.json)
 
 ---
 
@@ -503,22 +335,6 @@ His resignation comes less than a year before a national election in Tonga, a So
 [Data](articles/79c544e4.json)
 
 [Extended Data](ext_articles/79c544e4.ext.json)
-
----
-
-### A CONSTITUTIONAL BLUEPRINT
-
-*2024-12-09 13:18:00* · [`islandlk`](http://island.lk/a-constitutional-blueprint/) · `en`
-
-Shortly before the Presidential Election, Mr. Anura Kumara Dissanayake, the leader of the NPP, committed himself to the abolition of the office of Executive President. Following his election by the people to the office of President of the Republic, and the overwhelming majority which his party received in the general election, it may be confidently assumed that steps will shortly be taken to implement that commitment.
-
-The events that followed the enactment of the 19th Amendment to the Constitution in 2015 demonstrated the futility of the partial abolition of the Executive Presidency. That amendment, while requiring the President to act on the advice of the Prime Minister, enabled the incumbent President (through a transitional provision) to preside over meetings of the Cabinet and also hold three key portfolios. When a few months later Parliament was dissolved, the general election was conducted under laws which had been formulated to complement an executive presidency.
-
-...
-
-[Data](articles/137b1a58.json)
-
-[Extended Data](ext_articles/137b1a58.ext.json)
 
 ---
 
@@ -986,53 +802,37 @@ The driver of a 60 -year -old jeep from Hunnkiriya area was arrested by the poli
 
 ---
 
-### Rs. Rs. 206,000 Treasury bill auction on December 11
+### රු. මි. 206,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් දෙසැම්බර් 11 දා
 
 *2024-12-09 11:20:31* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--206-000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-දෙසැම්බර්-11-දා/11-413531) · `si`
 
-Central Bank Sri Lanka announces Treasury bill auction Dec 11. Bids accepted Dec 11, minimum Rs. Treasury bill issue payment Dec 13.
+රුපියල් මිලියන දෙලක්ෂ හයදහසක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් දෙසැම්බර් 11දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
 
-🟩
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 76,000  ක භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 90, 000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 40, 000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව සඳහන් කරයි.
 
-The Central Bank of Sri Lanka announced that a Treasury bill auction will be held on December 11.
+වෙන්දේසිය සඳහා ලංසු භාර ගැනීම දෙසැම්බර් 11  දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි.
 
-The Treasury bills of Rs. 96,000 Rs.
-
-The Bids Accepting for Auction will be held on December 11, and the minimum amount of Rs.
-
-The Treasury bill issue of these Treasury and payment will be made on December 13.
+මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම දෙසැම්බර් 13   දා සිදු කිරීමට නියමිතය.
 
 ◼️
 
 [Data](articles/5ee2d66c.json)
 
-[Extended Data](ext_articles/5ee2d66c.ext.json)
-
 ---
 
-### Small Lazi Prison and Mobile Phone Accessories
+### පොඩි ලැසීගේ සිර මැදිරියෙන් හා නාන ස්ථානයේ ජංගම දුරකතන උපාංග
 
 *2024-12-09 11:14:58* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ලැසීගේ-සිර-මැදිරියෙන්-හා-නාන-ස්ථානයේ-ජංගම-දුරකතන-උපාංග/11-413530) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ විශේෂ සිර මැදිරියක රඳවා සිටින පොඩි ලැසි  නමැති දරුණු ඝනයේ රැඳවියා නාන ස්ථානයේ හා සිර මැදිරිය පිටුපස තිබී ජංගම දුරකථනයක් ඇතුලු උපාංග රැසක් ඊයේ (8) අත් අඩංගුවට ගත් බව  පොලිස් විශේෂ කාර්ය බලකාය කියයි.
 
+පොඩි ලැසී නමැත්තා විසින් ඔහු නාන ස්ථානයේ කොන්කීට් ලෑල්ලක  ඉතා සූක්ෂම ලෙස සගවා තිබියදී ජංගම දුරකතනය සොයා ගත් බවද පොලිස් විශේෂ කාර්ය බලකාය කියයි.
 
-
-Police arrest devices & small lodge at Boossa High Security Prison. Mobile phones found hidden in concrete. Items handed over for further investigation.
-
-🟩
-
-The Police Special Task Force says that a large number of devices, including a small lodge in the Boossa High Security Prison, was arrested yesterday.
-
-The Police Special Task Force says that the mobile phone has been found in a microbially concept of a concrete plan in the bath.
-
-The mobile phone and devices have been handed over to the Boossa High Security Authority for Further investigation.
+අත්අඩංගුවට ගත් ජංගම දුරකතනය සහ උපාංග වැඩිදුර විමර්ෂණය සදහා බූස්ස අධි ආරක්ෂිත බන්ධනාගාර පාලන අධිකාරියට බාරදී තිබේ.
 
 ◼️
 
 [Data](articles/1640a181.json)
-
-[Extended Data](ext_articles/1640a181.ext.json)
 
 ---
 
@@ -1108,27 +908,21 @@ The president of the Court of Appeal Court, the president of the Court of Appeal
 
 ---
 
-### The pistol emerged from a container
+### කන්ටේනරයකින් මතු වූ පිස්තෝලය
 
 *2024-12-09 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204185) · `si`
 
-Pistol found in container at Meethotamulla. STF suspects criminal intent. No arrests yet. Weapons handed to Wellampitiya Police for investigation.
+මීතොටමුල්ල ප්‍රදේශයේ කන්ටේනරයක සඟවා තිබූ විදේශීය නිෂ්පාදිත පිස්තෝල අවියක් සහ එම පිස්තෝල අවියට යොදා ගන්නා මැගසින් දෙකක් පොලිස් විශේෂ කාර්ය බලකා නිලධාරීන් සොයාගෙන තිබේ.
 
-🟩
+මීතොටමුල්ල සෞඛ්‍යය වෛද්‍ය නිලධාරි කාර්යාලය පිටුපස රඳවා තබා ඇති කන්ටේනර් බහාලුමක් යට තිබී මෙම පිස්තෝල අවිය සොයාගෙන ඇති බව පොලිස් විශේෂ කාර්ය බලකාය පවසයි.
 
-Special Task Force personnel found in a container in the Meethotamulla area and the police STF personnel have been recovered.
+කිසියම් අපරාධයක් සිදුකිරීමේ අදහසින් මෙම පිස්තෝල අවිය සඟවා තිබී ඇති බවට විශේෂ කාර්ය බලකාය සැක පළ කරයි.
 
-The pistol weapon has found this pistol weapon, under a container container, under the Methotamulla Health Medical Officer's Office.
-
-The STF suspicles that the pistol weapon was hidden in the view of committing a crime.
-
-No suspects have been arrested so far and the two pistols and magazines have been handed over to the Wellampitiya Police Station for further investigations.
+සිද්ධිය සම්බන්ධයෙන් කිසිදු සැකකරුවෙකු මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර සොයාගත් පිස්තෝල අවිය සහ මැගසින් දෙක වැඩිදුර විමර්ශන කටයුතු සඳහා වැල්ලම්පිටිය පොලිස් ස්ථානය වෙත භාර දී ඇත.
 
 ◼️
 
 [Data](articles/966afe40.json)
-
-[Extended Data](ext_articles/966afe40.ext.json)
 
 ---
 
@@ -2241,5 +2035,249 @@ A leading German brand known for home interior solutions that combine innovative
 [Data](articles/ae044560.json)
 
 [Extended Data](ext_articles/ae044560.ext.json)
+
+---
+
+### Sri Lanka - South Africa 2nd Test
+
+*2024-12-09 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200761) · `ta`
+
+Sri Lanka vs South Africa 2nd Test summary: Sri Lanka needs 143 runs on final day, South Africa requires 5 wickets. Captain Tanjaya de Silva and Kusal Mendis crucial for Sri Lanka's chances. South Africa leads series 1-0 after winning first test.
+
+🟩
+
+Port Elizabeth, Sen. The 2nd Test between Sri Lanka and South Africa at the George Park Geberha Stadium is likely to occur.
+
+Sri Lanka scored 205 runs for the loss of 5 wickets at the end of the match, the 4th day of the match, targeting 348 runs.
+
+Sri Lanka needs a further 143 runs and South Africa needs 5 more wickets.
+
+The Sri Lankan team is in a state of relaxation due to the rest of the match.
+
+Sri Lanka's fate remains in the hands of team captain Tanjaya de Silva and former team captain Kusal Mendis, who did not lose 39 runs at the end of the fourth day.
+
+The remaining batsmen in the Sri Lankan squad are likely to win the series if they strike the last two hours from Monday, the last day.
+
+Even if one of them loses the game, it will be a major crisis for the team.
+
+South Africa scored 358 runs and Sri Lanka 328 in the first innings of the match, which began last Thursday.
+
+South Africa 1: Everyone lost the game 358 (Kyl Vin 105, Rain Riclton 101, Tempa Bauma 78, Lahiru Kumara 79 - 4 Vig.
+
+...
+
+[Data](articles/dd63fc80.json)
+
+[Extended Data](ext_articles/dd63fc80.ext.json)
+
+---
+
+### Strengthening sustainability: JAAF and Solidaridad chart path for EU market alignment
+
+*2024-12-09 01:48:57* · [`dailyftlk`](https://www.ft.lk/business/Strengthening-sustainability-JAAF-and-Solidaridad-chart-path-for-EU-market-alignment/34-770261) · `en`
+
+From left: Delegation for the EU to Sri Lanka and Maldives Deputy Head Lars Bredal, JAAF Secretary-General Yohan Lawrence, Solidaridad Network Country Manager Anitha Munasinghe, and Mission for the Kingdom of the Netherlands Deputy Head Iwan Rutjens
+
+The Joint Apparel Association Forum (JAAF) and Solidaridad, a civil society organisation, recently co-hosted a one-day workshop in Colombo to address the European Union’s Corporate Sustainability Due Diligence Directive (CSDDD).
+
+Introduced in 2023, the CSDDD requires companies in EU-bound supply chains to meet stringent environmental and human rights standards. While Sri Lankan suppliers are not directly mandated to comply, aligning with these standards is essential to remain competitive in the EU market, which accounts for 30% of Sri Lanka’s apparel exports. Italy, Germany, the Netherlands, and France collectively represent over 80% of these exports, further underscoring the importance of compliance.
+
+...
+
+[Data](articles/fd8a838e.json)
+
+[Extended Data](ext_articles/fd8a838e.ext.json)
+
+---
+
+### NCE holds Export Awards 2024
+
+*2024-12-09 01:45:45* · [`dailyftlk`](https://www.ft.lk/business/NCE-holds-Export-Awards-2024/34-770260) · `en`
+
+The most prestigious business event celebrating the exceptional performance of Sri Lankan exporters, the NCE Export Awards 2024, was held on 6 December at the Main Ballroom of Hotel Shangri-La Colombo.
+
+The glamorous event brought together over 750 attendees, including exporters and representatives from private and government sectors, underscoring its status as the pinnacle of recognition for excellence in Sri Lanka’s export industry.
+
+Organised by the National Chamber of Exporters (NCE) of Sri Lanka, the awards program has run uninterrupted for the past 31 years, marking a cornerstone in the nation’s efforts to promote and honour its top exporters. The event serves as a beacon of excellence, inspiring exporters to reach new heights and reinforcing their global credibility.
+
+...
+
+[Data](articles/76ad31f1.json)
+
+[Extended Data](ext_articles/76ad31f1.ext.json)
+
+---
+
+### Agriculture Ministry partners FAO to boost farming sector amid climate challenges
+
+*2024-12-09 01:44:00* · [`dailyftlk`](https://www.ft.lk/business/Agriculture-Ministry-partners-FAO-to-boost-farming-sector-amid-climate-challenges/34-770259) · `en`
+
+The Agriculture, Livestock, Lands and Irrigation Ministry has pledged to enhance collaboration with the Food and Agriculture Organisation (FAO) to implement more systematic and effective projects aimed at improving the living standards of the country’s farming communities.
+
+A high-powered meeting with Agriculture, Livestock, Lands and Irrigation Minister K.D. Lalkantha, along with FAO Representative Sri Lanka and the Maldives Vimlendra Sharan, Deputy Minister Karunaratne, Deputy Minister of Land and Irrigation Dr. Susil Ranasinghe was held at the Ministry this week. Minister Lalkantha acknowledged the urgent need to address challenges posed by climate extremes, including drought and the recent triple floods, which have severely impacted farmers across the country.
+
+He outlined plans to implement targeted solutions to mitigate drought impacts on agriculture, ensuring that farmers receive the necessary support to maintain livelihoods and food security.
+
+...
+
+[Data](articles/11af1100.json)
+
+[Extended Data](ext_articles/11af1100.ext.json)
+
+---
+
+### PickMe plans expansion of delivery services for upcoming season
+
+*2024-12-09 01:42:28* · [`dailyftlk`](https://www.ft.lk/business/PickMe-plans-expansion-of-delivery-services-for-upcoming-season/34-770258) · `en`
+
+PickMe will expand its technology to facilitate the delivery of spirits and soft liquor, integrating yet another key component of the economy on its platform.
+
+The company, which is set to launch the service during the holiday season, has in place a robust technological solution that will ensure secure and efficient merchant-to-customer transactions. The solution is backed by established standard operating procedures that will ensure compliance and accountability throughout the delivery process.
+
+“As a technology provider, we will not be involved in the transactional aspect of buying and selling spirits. Our third party merchants will be responsible for adhering to all legal regulations concerning the sale of alcohol at physical points of sale, and this expansion will provide greater convenience to their customers,” says PickMe CFO Maduranga Kulathilaka.
+
+...
+
+[Data](articles/09199ad5.json)
+
+[Extended Data](ext_articles/09199ad5.ext.json)
+
+---
+
+### What are the steps you need to take in a sudden fire?
+
+*2024-12-09 01:33:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c93g7zer1lko) · `si`
+
+Here's a summary of the key points about responding to a sudden fire in 200 characters:
+
+
+
+1. Evacuate immediately using nearest emergency exit
+
+2. Don't use elevators - they may stop working 
+
+3. Stay low to avoid smoke inhalation
+
+4. Meet at assembly point outside building
+
+5. Wait for firefighters before re-entering
+
+6. Practice evacuation drills regularly
+
+🟩
+
+Due to any momentarian fire, you or your places may have been a devastating influence.
+
+According to the Colombo Fire Funder, the Colombo Fire Service (Colombo-Lankapuvath) In response to such firefighters and related accidents, 273 incidents have been reported in the Colombo City and surrounding areas during the period 2024.
+
+What should we do when a sudden fire broke out?It is vital that a person in particular in a large quantity, what measures should be taken in this case.
+
+The British Fire Engineer's Sri Lankan branch secretary Nalaka Jayaratne has told the Sinhala service that any person should understand the situation that has been caused by the building.
+
+"We have seen plenty of whatever people are upset in a fire. There is a frustration and scared and often staying in the bathroom, that there is water. But there are times when those who are dead die. "
+
+...
+
+[Data](articles/a6a1260d.json)
+
+[Extended Data](ext_articles/a6a1260d.ext.json)
+
+---
+
+### Pathfinder Foundation hosts roundtable discussion with US-South Asia expert
+
+*2024-12-09 01:15:30* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-hosts-roundtable-discussion-with-US-South-Asia-expert/56-770253) · `en`
+
+Centre for New American Security Indo-Pacific Security Program Director Lisa Curtis at the Pathfinder roundtable discussion
+
+Centre for New American Security, Washington, DC, Indo-Pacific Security Program Director Lisa Curtis participated as the guest speaker at the Pathfinder roundtable discussion held recently.
+
+The event, held under Chatham House Rules, brought together a diverse group of stakeholders, including experts on security and academia, representatives from the Foreign Affairs Ministry, diplomats, and leaders from the trade and commerce industry.
+
+The discussion, which centred on the outlook for the US-Sri Lanka relations under the presidencies of Trump and Dissanayake, focused on anticipated foreign policy perspectives and priorities of both new administrations in this decisive period, considering the historical moment with the decisive mandates given for both leaders by their constituencies.
+
+...
+
+[Data](articles/f788027c.json)
+
+[Extended Data](ext_articles/f788027c.ext.json)
+
+---
+
+### India extends relief assistance to flood-affected regions  in Northern Province
+
+*2024-12-09 01:12:46* · [`dailyftlk`](https://www.ft.lk/news/India-extends-relief-assistance-to-flood-affected-regions-in-Northern-Province/56-770252) · `en`
+
+In a significant gesture of solidarity, the High Commission of India in Colombo extended relief assistance to the people of the Northern Province, responding to the recent floods that caused displacement and hardship.
+
+On behalf of the High Commission, the distribution was carried out by Consul General of India in Jaffna Shri Sai Murali, alongside MP Kader Masthan last Saturday (7).
+
+Approximately 2,100 families from flood-affected areas in the Pesalai and Vellankulam villages (Mannar District) and Thunukkai and Manthai East (Mullaitivu District) received essential aid. The relief package included mats and blankets, providing much-needed support to families during this difficult time.
+
+This assistance reflects the vision of Prime Minister Narendra Modi, emphasising India’s ‘Neighbourhood First’ policy. India remains committed to standing by its neighbours in times of need, ensuring timely and effective relief to affected communities.
+
+◼️
+
+[Data](articles/040b76fd.json)
+
+[Extended Data](ext_articles/040b76fd.ext.json)
+
+---
+
+### International Bazaar and Cultural Extravaganza 2024 celebrates culture, diversity, crafts, sustainability
+
+*2024-12-09 01:10:19* · [`dailyftlk`](https://www.ft.lk/news/International-Bazaar-and-Cultural-Extravaganza-2024-celebrates-culture-diversity-crafts-sustainability/56-770251) · `en`
+
+Proceeds from event to be donated to the M.H. Omar Liver Care Facility at the Colombo North Centre for Liver Diseases in Ragama
+
+The International Bazaar and Cultural Extravaganza 2024, held at the Good Market, Race Course, Colombo 7, offered a truly international experience on Saturday, 7 December, celebrating diverse cultures, cuisine, and crafts. The event, themed around sustainability, captivated attendees with its vibrant activities and country booth presentations.
+
+This second edition of the annual event was inaugurated by Foreign Affairs, Foreign Employment, and Tourism Minister Vijitha Herath in the presence of Deputy Minister of Industries Chathuranga Abeysinghe and Ministry Secretary Aruni Ranaraja.
+
+...
+
+[Data](articles/3e773cf3.json)
+
+[Extended Data](ext_articles/3e773cf3.ext.json)
+
+---
+
+### 2024-12-08 (Sunday)
+
+### Bangladesh retained the Asian Bowl Cricket Champion title under the age of 19
+
+*2024-12-08 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/200760) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Bangladesh U-19 cricket team wins Asian Bowl Championship, defeating India by 59 runs. Mohammad Shihab James and Rizan Hossain top-scored for Bangladesh. India's Mohammed Aman top-scored with 26. Azizul Haq and Iqbal Hossain took key wickets for Bangladesh.
+
+🟩
+
+Bangladesh won the Champion title by 59 runs in the Under -19 Asian Cup Cricket Final held on Sunday (08) at the Dubai International Stadium.
+
+Bangladesh won the UAE by 195 runs in the UAE's 195 -year -old Asian Cup final held last year.
+
+Sri Lanka's Naveed Nawaz is training the Bangladesh youth team in the Under -19 Asian Bowl Cricket Tournament.
+
+It is noteworthy that Naveed Nawaz was a coach of Bangladesh four years ago in the Under -19 World Cup competition.
+
+Under the age of 19, Bangladesh were bowled out for 198 in 49.1 overs.
+
+Mohammad Shihab James (40) and Rizan Hossain (47) played in a 4th wicket and scored 62 runs in Bangladesh.
+
+Parit Hasan scored 39 runs and Sawat Abar 20 runs.
+
+Judajit Guha took 2 wickets for 29 runs, Hardik Raj took 2 wickets for 41 runs while Chetan Sharma took 2 wickets for 48 runs.
+
+In response to 199 runs, India lost all the wickets in 35.2 overs and lost 139 runs.
+
+...
+
+[Data](articles/e9c535ae.json)
+
+[Extended Data](ext_articles/e9c535ae.ext.json)
 
 ---

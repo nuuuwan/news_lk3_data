@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 09:34:14**
+As of **2024-12-09 09:44:08**
 
 ## Newspaper Stats
 
-*Scraped **59,194** Articles*
+*Scraped **59,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,59 @@ adalk | 5,607
 adaderanalk | 7,188
 tamilmirrorlk | 8,448
 virakesarilk | 9,712
-adaderanasinhalalk | 10,231
+adaderanasinhalalk | 10,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,181 (100.0%) of 59,194 articles have been extended.
+59,185 (100.0%) of 59,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### கம்பஹாவில் துப்பாக்கிச் சூடு ; ஒருவர் உயிரிழப்பு
+### වගා හානි කරන සත්තු ගැන වාර්තාවක් එළියට
+
+*2024-12-09 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204181) · `si`
+
+වඳුරන් සහ රිළවුන් ඇතුළු මෙරට වගාවන්ට හානි කරන සතුන් සම්බන්ධයෙන් ගත යුතු යෝජනා ඇතුළත් වාර්තාවක් අද (09) දිනයේ දී පරිසර අමාත්‍යංශය සහ කෘෂිකර්ම අමාත්‍යංශය වෙත භාරදීමට කටයුතු කරන බව පරිසර හා ස්වභාදහම් අධ්‍යයන මධ්‍යස්ථානය පවසයි.
+
+එහි ජාතික සම්බන්ධීකාරක, පරිසරවේදී ආචාර්ය රවීන්ද්‍ර කාරියවසම් මහතා පැවසුවේ මේ වන විට මෙරට වඳුරන්ගේ සහ රිළවුන්ගේ ගහනය කැපී පෙනෙන ලෙස ඉහළ ගොස් ඇති අතර එම තත්ත්වය පාලනය කිරීමට ගත හැකි කෙටි කාලීන මෙන්ම දිගු කාලීන යෝජනා ද මෙහි ඇතුළත් බවය.
+
+"ලංකාවේ රිළා ගහනය වැඩිවෙලා තියෙනවා. ඇත්තටම ඒකට හේතුව මේ අයව ස්වභාවිකව වද කරන විලෝපිතයින් නැති වීම. අනෙක් එක කැලේ තිබුණ ආහාර ප්‍රමාණයන් අඩුවීම හා වගාබිම් ආශ්‍රිතව කෑම වැඩිවුණාට පස්සේ, මේ අය ජනතාව ඉන්න ප්‍රදේශවලට ඇදෙන්න පටන් ගත්තා. මේ අය පාලනයට අපි යෝජනා කළා ලංකාවේ ආයතන 15ක් ඒකාබද්ධ කරලා යම් යාන්ත්‍රණයක් හදන්න කියලා. ඒ වගේම අද පරිසර අමාත්‍යවරයාට යෝජනාවක් භාරදෙනවා මේ සත්ත්ව ප්‍රජාව පාලනයට ගත යුතු පියවරයන් ගණනාවක් සඳහන් කරලා."
+
+...
+
+[Data](articles/0a4435d7.json)
+
+---
+
+### Shooting in Gampaha;Death
 
 *2024-12-09 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200766) · `ta`
 
-கம்பஹா பொலிஸ் பிரிவுக்குட்பட்ட தம்மிட்ட வீதியில் உள்ள கௌடங்கஹா பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (8) இரவு துப்பாக்கிச் சூட்டு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-மோட்டார் சைக்கிளில் பயணித்த நபர் மீது மற்றுமொரு மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத நபர் ஒருவர் துப்பாக்கிப் பிரயோகம் மேற்கொண்டு விட்டு தப்பி ஓடியுள்ளதாக பொலிஸார் மேற்கொண்ட விசாரணையில் தெரியவந்துள்ளது.
 
-துப்பாக்கிச் சூடு நடத்தப்பட்டதற்கான காரணம் இதுவரை வெளியாகவில்லை எனவும் உயிரிழந்தவரின் சடலம் கம்பஹா வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
 
-மேலும், சம்பவத்துடன் தொடர்புடைய சந்தேக நபர்களை கைது செய்வதற்கான மேலதிக விசாரணைகளை கம்பஹா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Gampaha shooting: Unidentified gunman targets motorcyclist on Tamita Rd. Victim dies, body at Gampaha Hospital. Police investigating, seeking suspects.
+
+🟩
+
+The shooting took place last night (8) at the Gautangaha area on Tamita Road, which belongs to the Gampaha Police Division, police said.
+
+An investigation by police revealed that an unidentified person on a motorbike was fired at another motorcycle.
+
+The cause of the shooting has not yet been revealed and the body of the deceased has been placed in the corpse of the Gampaha Hospital, police said.
+
+In addition, Gampaha police are conducting further investigations to arrest the suspects involved in the incident.
 
 ◼️
 
 [Data](articles/2031eec3.json)
+
+[Extended Data](ext_articles/2031eec3.ext.json)
 
 ---
 
@@ -280,41 +306,59 @@ This was an ideal opportunity to showcase Sri Lanka as a destination which has e
 
 ---
 
-### නාවික හමුදාවේ 2,138කට උසස්වීම්
+### 2,138 of Navy promotions
 
 *2024-12-09 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204175) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාවේ 74 වන සංවත්සරය ‍අද (09) වනදා අභිමානවත්ව සමරනු ලබයි.
+Here's a summary of 200 characters:
 
-ඊට සමගාමීව නාවික හමුදාධිපති, වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතාගේ නිර්දේශය මත විවිධ තරාතිරම්වලට අයත් ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයින් 2,138 ක් අද දින සිට උසස් කිරීමට කටයුතු කර තිබේ.
 
-ඒ අනුව, සාමාන්‍ය නැවි තරාතිරම දක්වා නාවිකයන් 158 ක්ද, බල නැවි තරාතිරම දක්වා නාවිකයින් 279 ක්ද, නායක නැවි තරාතිරම දක්වා නාවිකයින් 406 ක්ද, සුළු නිලධාරී තරාතිරම දක්වා නාවිකයින් 391 ක්ද, ප්‍රධාන සුළු නිලධාරි තරාතිරම දක්වා නාවිකයින් 539 ක්ද, සමූහ ප්‍රධාන සුළු නිලධාරි තරාතිරම දක්වා නාවිකයින් 354 ක් සහ පාලක ප්‍රධාන සුළු නිලධාරි තරාතිරම දක්වා නාවිකයින් 11 ක්ද වශයෙන් ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයින් 2,138 ක් ඊළඟ තරාතිරම දක්වා උසස් කිරීම සිදුකර ඇත.
+
+Sri Lanka Navy celebrates 74th anniversary. 2,138 senior sailors promoted, including 158 to general naval ranks and 391 to major minority rates. Admiral Priyantha Perera also promoted.
+
+🟩
+
+The 74th Anniversary of the Sri Lanka Navy is celebrated today (09).
+
+At the same time, 2,138 senior sailors of the Navy and Admiral Priyantha Perera has been promoted to today.
+
+158 sailors from the General Navi wrestlike ranks and 391 maritors and 391 maritors, 391 maritors, 391 maritors, a group of major minority rates to the major minor officer raiseA total of 11,138 senior sailors have been promoted to the next walk.
 
 ◼️
 
 [Data](articles/7d64e598.json)
 
+[Extended Data](ext_articles/7d64e598.ext.json)
+
 ---
 
-### කාලගුණයේ වෙනසක්
+### A change in the weather
 
 *2024-12-09 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204174) · `si`
 
-ගිනිකොණදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පවතින අඩු පීඩන කලාපය බටහිර-වයඹ දෙසට ගමන් කරමින් දෙසැම්බර් 11 වනදා පමණ ශ්‍රී ලංකා-තමිල්නාඩු වෙරළට ඔබ්බෙන් නිරිත දිග බෙංගාල බොක්ක වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather alert: Low pressure system to hit southern regions, heavy rain and thunderstorms expected in western and central areas. Strong winds and landslides possible.
 
-මෙම පද්ධතියේ බලපෑම හේතුවෙන් දෙසැම්බර් 10 දින සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩි වීමක් අපේක්ෂා කරන අතර දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වෙතැයි බලාපොරොත්තුවේ.
+🟩
 
-උතුරු සහ නැගෙනහිර පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති වේ.
+The Department of Meteorology says that the low pressure zone of the southeastern Bay of Bay of Bay of Bayingland is very likely to reach the South Bay Bay Bay in Welcome to the West West.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+Due to the impact of this system, the North and East will be expected to increase the increase in the North and East.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75 පමණ තරමක් තද වැසි ඇතිවිය හැක.
+Several showers in the Northern and Eastern Provinces and several showers in the Matale district.
 
-මධ්‍යම, සබරගමුව, දකුණ, ඌව, බස්නාහිර සහ වයඹ පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+Thundershowers will develop at several places in the Western and Sabaragamuwa provinces and in the Galle, Matara, Nuwara Eliya and Kandy districts.
 
-...
+Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. About 75 can also occur.
+
+There may be a murdded situation in the Central, Sabaragamuwa, Southern, Uva, Uva, Uva, Uva and North Western Provinces.
+
+The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
+
+◼️
 
 [Data](articles/66dd4f4d.json)
+
+[Extended Data](ext_articles/66dd4f4d.ext.json)
 
 ---
 
@@ -1321,6 +1365,8 @@ The CTC annual Distributor Awards ceremony recognized the extraordinary commitme
 ...
 
 [Data](articles/4ae8c02e.json)
+
+[Extended Data](ext_articles/4ae8c02e.ext.json)
 
 ---
 
@@ -2369,33 +2415,5 @@ In addition, the Criminal Investigation Department has also seized Dushara Ranad
 [Data](articles/786afdcf.json)
 
 [Extended Data](ext_articles/786afdcf.ext.json)
-
----
-
-### Solar Otto created by the sentence prisoner
-
-*2024-12-08 14:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனை-கைதி-உருவாக்கிய-சோலார்-ஓட்டோ/175-348428) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Solar-powered auto created by prisoner in Coimbatore jail. Designed by Yuga Adityan, a 32-year-old inmate. Can travel 200km on full charge. Features LED lights, horn, handbrake. Used for testing within prison. Cost: ₹1.25 lakh. Plans to make ambulance vehicles too.
-
-🟩
-
-In the Central Prison in Coimbatore, the prisoner has created an auto -powered auto -powered auto.
-
-Yuga Adityan (32) hails from Gaundapady in Erode district. In connection with the murder case, Salem Alagapuram police have been arrested by the police, imposed on life and taken to the Coimbatore jail. Has been in jail for the past 7 years. He is a graduate of Aeronautical Engineering and is working in a jail industry.
-
-Besides, who is interested in making app products with available devices. He designed a bicycle powered by solar power a few months ago. He continued to designed the auto -powered auto a few days ago.
-
-Commenting on this, DIG Shanmukha Padu Sundaram told the 'Hindu Tamil Direction'. The plate for the solar production on the auto is set up. Underneath the driver's seat in the auto. If the battery is fully filled with solar power, you can drive 200 km continuously.
-
-...
-
-[Data](articles/3ad4eb53.json)
-
-[Extended Data](ext_articles/3ad4eb53.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 03:01:06**
+As of **2024-12-10 03:26:27**
 
 ## Newspaper Stats
 
-*Scraped **59,334** Articles*
+*Scraped **59,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 602
 bbccomsinhala | 619
 islandlk | 3,572
 economynextcom | 3,603
-dailyftlk | 4,085
+dailyftlk | 4,088
 dailymirrorlk | 4,733
 adalk | 5,626
 adaderanalk | 7,215
@@ -26,11 +26,61 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,323 (100.0%) of 59,334 articles have been extended.
+59,325 (100.0%) of 59,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Lankan handicrafts on show for first time at Saudi Handicrafts Expo – “Banan” 2024
+
+*2024-12-10 03:05:21* · [`dailyftlk`](https://www.ft.lk/business/Lankan-handicrafts-on-show-for-first-time-at-Saudi-Handicrafts-Expo-Banan-2024/34-770299) · `en`
+
+The Embassy of Sri Lanka in Riyadh successfully organised the first-ever participation of four Sri Lankan companies of handicrafts at the Saudi International Handicrafts Week Exhibition “Banan 2024” held in Riyadh from 23 to 29 November in collaboration with the Ministry of Buddhasasana, Religious and Cultural Affairs of Sri Lanka.
+
+Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Ameer Ajwad officially inaugurated the Sri Lankan pavilion at the Riyadh Front Exhibition and Conference Centre.
+
+...
+
+[Data](articles/1800d153.json)
+
+---
+
+### Kapruka, first e-commerce platform in Sri Lanka to accept Apple Pay
+
+*2024-12-10 03:03:47* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-first-e-commerce-platform-in-Sri-Lanka-to-accept-Apple-Pay/34-770298) · `en`
+
+Kapruka.com, Sri Lanka’s largest locally owned e-commerce platform, announced that it has become the first online service in Sri Lanka to accept Apple Pay payments.
+
+This milestone highlights Kapruka’s continued commitment to staying at the forefront of innovation and providing unmatched convenience for its customers.
+
+As Sri Lanka’s leading e-commerce platform, Kapruka has consistently offered a wide range of payment options, including cryptocurrency and PayPal, ensuring unmatched convenience for its customers. Two years ago, the platform was the first in Sri Lanka to introduce cryptocurrency payment acceptance. Now, with the integration of Apple Pay, Kapruka reinforces its position as a trailblazer in the e-commerce space.
+
+...
+
+[Data](articles/ca6de82d.json)
+
+[Extended Data](ext_articles/ca6de82d.ext.json)
+
+---
+
+### SLIIT Business School inaugurates ICSDB 2024 conference
+
+*2024-12-10 03:01:30* · [`dailyftlk`](https://www.ft.lk/business/SLIIT-Business-School-inaugurates-ICSDB-2024-conference/34-770297) · `en`
+
+Setting new standards for research conferences, the SLIIT Business School is conducting the International Conference on Sustainable and Digital Business (ICSDB) 2024 for the third consecutive year.
+
+The inauguration of the conference and ICSDB Excellence Awards ceremony will be held at the Water’s Edge hotel on 10 December.
+
+Prof. Oliver Gassmann from University of St. Gallen, Switzerland and Prof. Marco Greco from University of Cassino and Southern Lazio, Italy will deliver the keynote speeches. The globally renowned inventor, USA Leo Med LLC CEO and President Dr. Bandula Wijay will also address the audience comprising over 75 CXOs from the industry and an equal number of academics from different universities.
+
+...
+
+[Data](articles/4f85ab6b.json)
+
+[Extended Data](ext_articles/4f85ab6b.ext.json)
+
+---
 
 ### Roar Global celebrates 10 years of digital transformation in APAC region
 
@@ -2241,73 +2291,5 @@ He had been named as the second suspect in the case filed over the alleged death
 [Data](articles/74346214.json)
 
 [Extended Data](ext_articles/74346214.ext.json)
-
----
-
-### 74th Anniversary of the Sri Lanka Navy
-
-*2024-12-09 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/200770) · `ta`
-
-Sri Lanka Navy celebrates 74th anniversary: 2,138 promotions, ceremonies at naval camps, honoring traditions. Founded in 1950 as Royal Ceylon Navy, renamed Sri Lanka Navy in 1972.
-
-🟩
-
-In this context, 2,138 Senior and Junior Marines have been promoted today, according to the recommendations of Navy Commander Vice Edmilal Priyantha Perera on the 74th anniversary.
-
-Under the advice and guidance of Navy Commander Vice Edmilal Priyantha Perera, special events were held in all naval camps and prioritizing the rituals and religious rituals.
-
-On December 9, 1950, the Navy Act was enacted and the Royal Ceylon Navy was formed.
-
-According to the first Republic of 1972, the name of the Royal Ceylon Navy was removed and identified as the Sri Lanka Navy.
-
-◼️
-
-[Data](articles/45487fed.json)
-
-[Extended Data](ext_articles/45487fed.ext.json)
-
----
-
-### CEB employees do not have bonuses this time
-
-*2024-12-09 11:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-ஊழியர்களுக்கு-இம்முறை-போனஸ்-இல்லை/175-348471) · `ta`
-
-CEB employees denied bonuses despite union request. Board rejects annual incentives. Union leader claims no street protests needed due to political affiliation.
-
-🟩
-
-Although the Ceylon Electricity Employees Union (CEB) with the ruling party has requested, the Board of Directors of the Ceylon Electricity Board (CEB) has not recognized its employees this year.
-
-The General Secretary of the Association Ranjan Jayalal has demanded this year's bonus. Earlier, he said that he was leading the union affiliated with the government and therefore there was no need for employees to take the streets to get bonuses this year.
-
-◼️
-
-[Data](articles/ce85748e.json)
-
-[Extended Data](ext_articles/ce85748e.ext.json)
-
----
-
-### Lacis released on bail
-
-*2024-12-09 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204189) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Janith Madushangkha, a prominent drug dealer, was granted bail. The decision was made by the Balapitiya Magistrate's Court and later confirmed by the Derana Magistrate. This development may have significant implications for the local drug trade and law enforcement efforts.
-
-🟩
-
-Janith Madushangkha, a powerful drug dealer, has been released on bail.
-
-"Today the Derana Magistrate was given the order by the Balapitiya Magistrate's Court.
-
-◼️
-
-[Data](articles/73fad28f.json)
-
-[Extended Data](ext_articles/73fad28f.ext.json)
 
 ---

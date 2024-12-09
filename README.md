@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 04:27:47**
+As of **2024-12-10 04:42:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,333 (100.0%) of 59,348 articles have been extended.
+59,335 (100.0%) of 59,348 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,6 +90,8 @@ Accordingly, a wristband with the message “End Gender Based Violence” was pr
 
 [Data](articles/76a50ddd.json)
 
+[Extended Data](ext_articles/76a50ddd.ext.json)
+
 ---
 
 ### New Secretary at Fisheries Ministry
@@ -103,6 +105,8 @@ The official appointment letter was presented to Manthrinayake by Secretary to t
 ◼️
 
 [Data](articles/0ffff246.json)
+
+[Extended Data](ext_articles/0ffff246.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 18:24:20**
+As of **2024-12-09 19:03:32**
 
 ## Newspaper Stats
 
-*Scraped **59,280** Articles*
+*Scraped **59,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,163 @@ islandlk | 3,572
 economynextcom | 3,601
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,621
-adaderanalk | 7,209
-tamilmirrorlk | 8,467
+adalk | 5,622
+adaderanalk | 7,212
+tamilmirrorlk | 8,468
 virakesarilk | 9,720
-adaderanasinhalalk | 10,245
+adaderanasinhalalk | 10,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,265 (100.0%) of 59,280 articles have been extended.
+59,275 (100.0%) of 59,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### ”விவசாயிகள் துப்பாக்கிகளைப் பயன்படுத்த அனுமதிக்க வேண்டும்”
+### CCD முன்னாள் பணிப்பாளர் CID யினரால் கைது
 
-*2024-12-09 17:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகள்-துப்பாக்கிகளைப்-பயன்படுத்த-அனுமதிக்க-வேண்டும்/175-348502) · `ta`
+*2024-12-09 18:43:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CCD-முன்னாள்-பணிப்பாளர்-CID-யினரால்-கைது/175-348504) · `ta`
 
-பயிர்களை அழிக்கும் விலங்குகளுக்கு எதிராக நில உரிமையாளர்கள் மற்றும் விவசாயிகள் நடவடிக்கை எடுக்க விவசாய அமைச்சர் கே.டி.லால்காந்த புதிய சட்டங்களை அறிமுகப்படுத்த வேண்டும் என்று ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் நளின் பண்டார ஜயமஹா தெரிவித்துள்ளார்.
+கொழும்பு குற்றத்தடுப்புப் பிரிவின் (CCD) முன்னாள் பணிப்பாளர் ASP நெவில் சில்வா குற்றப் புலனாய்வுப் பிரிவினரால் (CID) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
 
-"பயிர்களை அழிக்கும் பல்வேறு விலங்குகளின் உயிருக்கு சேதமின்றி அவற்றை விரட்டுவதற்கு சுட அனுமதிக்கும் வகையிலான சட்ட ஏற்பாடுகள் வழங்கப்பட வேண்டும்" என்று பாராளுமன்ற உறுப்பினர் ஜயமஹா இன்று ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+◼️
 
-"விலங்குகளை விரட்ட விவசாயிகள் மற்றும் நில உரிமையாளர்களுக்கு துப்பாக்கிகள் வழங்கப்பட வேண்டும் என்று நான் முன்மொழிந்தபோது நான் கேலி செய்யப்பட்டேன். தேர்தல் பிரசாரத்தின் போது நான் பிரேரணையை கொண்டு வந்த போது பிரதி அமைச்சர் நாமல் கருணாரத்னவே என்னை கேலி செய்தார்.
+[Data](articles/5ecffce6.json)
 
-எவ்வாறாயினும், பயிர்களை அழிக்கும் விலங்குகளுக்கு எதிராக மக்கள் நடவடிக்கை எடுக்க அனுமதிக்க வேண்டும் என்று அமைச்சர் லால்காந்த அவர்களே முன்மொழிந்தார்.
+---
+
+### President vows to fully utilize his powers to tackle corruption in Sri Lanka
+
+*2024-12-09 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104116/president-vows-to-fully-utilize-his-powers-to-tackle-corruption-in-sri-lanka-) · `en`
+
+President Anura Kumara Dissanayake reaffirmed his commitment to fully exercising his authority to combat fraud and corruption, stressing that laws are meaningless if those in power fail to fulfill their responsibilities effectively.
+
+Speaking at the National Commemoration of the International Anti-Corruption Day held at the Bandaranaike Memorial International Conference Hall (BMICH) today (12), the President outlined his vision for a transparent and accountable governance framework.
+
+Under the theme “Let us be exemplary pioneers of a proud nation,” the event brought together stakeholders to address the pressing issue of corruption. Addressing the event, the Head of the State highlighted the inefficiency of existing mechanisms.
 
 ...
 
+[Data](articles/50a58998.json)
+
+---
+
+### සහකාර පොලිස් අධිකාරී නෙවිල් සිල්වා අත්අඩංගුවට
+
+*2024-12-09 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204203) · `si`
+
+කොළඹ අපරාධ කොට්ඨාසයේ (CCD) හිටපු අධ්‍යක්ෂ, සහකාර පොලිස් අධිකාරී නෙවිල් සිල්වා මහතාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+පොලීසිය පැවසුවේ ඔහුව පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේදී අත්අඩංගුවට ගත් බවයි.
+
+පැහැරගෙන යෑමේ සහ අයුතු සිරකර ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් ඔහුව අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/dce97d4b.json)
+
+---
+
+### Former CCD Director arrested by CID
+
+*2024-12-09 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104115/former-ccd-director-arrested-by-cid) · `en`
+
+The former Director of the Colombo Crimes Division (CCD), ASP Nevil Silva has been arrested by the Criminal Investigations Department (CID), the police said.
+
+◼️
+
+[Data](articles/fd9427c4.json)
+
+[Extended Data](ext_articles/fd9427c4.ext.json)
+
+---
+
+### “Allow farmers to use guns”
+
+*2024-12-09 17:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகள்-துப்பாக்கிகளைப்-பயன்படுத்த-அனுமதிக்க-வேண்டும்/175-348502) · `ta`
+
+N
+
+🟩
+
+United People's Power (SJB) Parliamentarian Nalin Bandara Jayamaha has said that the Minister of Agriculture KD Lalkanta should introduce new laws to take action against landlords and farmers to take action against animals that destroy crops.
+
+"Legal arrangements should be made to allow them to be shot without damage to various animals that destroy crops," said parliamentarian Jayamaha today.
+
+"I was ridiculed when I proposed that guns should be given to farmers and landlords to drive animals. Deputy Minister Namal Karunaratne made fun of me when I brought the motion during the election campaign.
+
+However, Minister Lalgantha proposed that people should take action against the animals that destroy crops.
+
+The Minister should implement this by introducing the legal provisions for people to use guns to chase animals, ”he added.
+
+◼️
+
 [Data](articles/f2edab36.json)
+
+[Extended Data](ext_articles/f2edab36.ext.json)
+
+---
+
+### ජාත්‍යන්තර දූෂණ විරෝධී ජාතික සැමරුමට ආ ජනපති කළ හෙළිදරව්ව
+
+*2024-12-09 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204202) · `si`
+
+තමා වෙත පැවරී ඇති බලතල අනුව වංචාව, දූෂණය මැඩපැවැත්වීම වෙනුවෙන් කැපවෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපතිවරයා ඒ බව සඳහන් කළේ ජාත්‍යන්තර දූෂණ විරෝධී ජාතික සැමරුම් වැඩසටහනට එක්වෙමිනි.
+
+එහිදී ජනාධිපතිවරයා වැඩිදුරටත් පවසා සිටියේ, බලය හොබවන පුද්ගලයින් සිය වගකීම හා යුතුකම නිසි ලෙස ඉටුනොකරන්නේ නම් නීති තීබීමෙන් ප්‍රතිඵලයක් නොමැති බවය.
+
+ජාත්‍යන්තර දූෂණ විරෝධී ජාතික සැමරුම වැඩසටහන අද (12) බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් පැවැත්වුණි.
+
+එම වැඩසටනෙහි තේමාව වූයේ "අභිමානවත් ජාතියක ආදර්ශමත් පෙරගමන්කරුවන් වෙමු" යන්නයි.
+
+...
+
+[Data](articles/8b682230.json)
+
+---
+
+### මත්ද්‍රව්‍ය සමග අරාබි මුහුදේදී කොටුකරගත් සැකකරුවන් රිමාන්ඩ්
+
+*2024-12-09 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204200) · `si`
+
+පසුගියදා අරාබි මුහුදු ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය කිලෝ 355කට අධික ප්‍රමාණයක් සමඟ අත්අඩංගුවට ගන්නා ලද සැකකරුවන් 11දෙනා ලබන 17 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+පොලිස් මත්ද්‍රව්‍යනායක කාර්යාංශය විසින් මෙම සැකකරුවන් අද (09) කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා හමුවට ඉදිරිපත් කළේය.
+
+මෙම සිද්ධියට අදාළ පරීක්ෂණ තවදුරටත් සිදු කරන බවත් සැකකරුවන් රක්ෂිත බන්ධනාගාරගත කරන ලෙසත් එම කාර්යාංශයේ නිලධාරීන් අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+එම ඉල්ලීම පිළිගත් මහෙස්ත්‍රාත්වරයා අදාළ සැකකරුවන් ලබන 17 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළේය.
+
+පොහොර උර 30ක එම මත්ද්‍රව්‍ය තොගය බහා මෙම සැකකරුවන් විසින් ප්‍රවාහනය කර තිබූ බවත් විමර්ශනවලදී අනාවරණය වී තිබුණි.
+
+◼️
+
+[Data](articles/6bd2aee1.json)
+
+---
+
+### CTU calls on govt. to address payment discrepancies for A/L examination duties
+
+*2024-12-09 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104114/ctu-calls-on-govt-to-address-payment-discrepancies-for-al-examination-duties) · `en`
+
+The Ceylon Teachers’ Union (CTU) has called on the government to ensure proper payment of allowances for principals and teachers assigned to the 2024 G.C.E. Advanced Level (A/L) examination duties.
+
+Speaking at a press conference, CTU General Secretary Joseph Stalin highlighted confusion caused by recent circulars issued by the Commissioner General of Examinations regarding transportation allowances for examination staff.
+
+“The Advanced Level Examination is being conducted these days. A new issue has arisen regarding the examination staff due two letters issued by the Examination Commissioner,” he added.
+
+According to Stalin, the first letter, dated November 11, indicated that staff traveling more than 10 kilometers to an exam center would receive a transportation allowance of Rs. 1,000. However, a subsequent letter issued on December 12 announced significant reductions in these allowances.
+
+...
+
+[Data](articles/2c2ebf30.json)
+
+[Extended Data](ext_articles/2c2ebf30.ext.json)
 
 ---
 
@@ -85,6 +211,20 @@ A bond maturing on 15.05.2030 closed at 11.25/40 percent, up from 11.00/20 perce
 [Data](articles/a53b8acc.json)
 
 [Extended Data](ext_articles/a53b8acc.ext.json)
+
+---
+
+### විභාග රාජකාරි දීමනා අඩුකර ඇති බවට ලංකා ගුරු සංගමයෙන් චෝදනාවක්
+
+*2024-12-09 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204199) · `si`
+
+විභාග රාජකාරිවල නිරත විදුහල්පතිවරුන් සහ ගුරුවරුන් සඳහා ගෙවිය යුතු දීමනා විධිමත්ව ගෙවන ලෙස ලංකා ගුරු සංගමය රජයෙන් ඉල්ලා සිටියි.
+
+එහි ප්‍රධාන ලේකම් ජෝසෆ් ස්ටාලින් මහතා මාධ්‍ය හමුවකදී පැවසුවේ විභාග කොමසාරිස් වරයා ඊයේ (08) නිකුත්කර ඇති චක්‍රලේඛයක් මගින් ප්‍රවාහන දීමනා සම්බන්ධයෙන් ව්‍යාකූල තත්ත්වයක් නිර්මාණය වී ඇති ඇති බවයි.
+
+...
+
+[Data](articles/90c9efad.json)
 
 ---
 
@@ -130,43 +270,81 @@ Working with S W R D Bandaranaike in the 1956-1959 period had given me the oppor
 
 ---
 
-### මන්ත්‍රි ගජේන්ද්‍ර කුමාර්ගේ රියෙ ගැටුණ යාචක කාන්තාව මරුට
+### රිලව් පන්නන අලුත් ම ගැජට් එක
+
+*2024-12-09 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204198) · `si`
+
+සත්ත්ව හානි හේතුවෙන් දිවයිනේ බොහෝ ප්‍රදේශවල බෝග වගාවන් ට විශාල විනාශයක් සිදුවෙයි.
+
+රිලවා, වඳුරා, දඬු ලේනා මෙන්ම වනඅලියා ද වගා හානි සිදුකරන සතුන් අතර ප්‍රධානය.
+
+විශේෂයෙන් කෑගල්ල දිස්ත්‍රික්කයේ රිලා ගහනය වැඩිවීම හේතුවෙන් එම දිස්ත්‍රික්කයේ ජනතාව සිය වගාවන් බේරා ගැනීමට නොහැකිව අසරණවී සිටියි.
+
+ඊට තාවකාලික විසඳුමක් හඳුන්වාදීමට පිරිපුන් සංවිධානයේ සභාපති, ඉංජිනේරු ආනන්ද දේවසිංහ සහ තරුණ ඉංජිනේරු කණ්ඩායමක් සමත්වී ඇති බව වාර්තා වෙයි.
+
+එම උපකරණය රිලව් බහුලව ගැවසෙන බුලත්කොහුපිටිය, වාගොල්ල ප්‍රදේශයේදී පසුගියදා අත්හදාබැලීය.
+
+"රිලව් එනකොට මීටර් 7ක් විතර දුරට මේකෙන් ඩිටෙක්ට් කර ගන්නවා. පසුව ශබ්දයක් එක්ක මේකෙන් පොඩි කිරණයක් යවනවා. ඒක රිලවාට දැනෙනවා. එතකොට ළඟට එන්නේ නෑ. මින් පිටවන ශබ්දය විටින් විට මාරු කරන්න වෙනවා. නැත්නම් රිලවා ඒකට පුරුදු වෙනවා. මේකෙන් වෙන්නේ රිලව් ටිකක් ඈතට පන්නන එක."
+
+◼️
+
+[Data](articles/892c70b0.json)
+
+---
+
+### Member Gajendra Kumar's accident killed
 
 *2024-12-09 16:20:24* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-ගජේන්ද්‍ර-කුමාර්ගේ-රියෙ-ගැටුණ-යාචක-කාන්තාව-මරුට/11-413539) · `si`
 
-යාපනය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි ගජේන්ද්‍ර කුමාර්  පොන්නම්බලම් මහතා ගමන් ගනිමින් සිටි සුඛෝපභෝගි ජීප් රථයක ගැටුන කාන්තාවක් මරණයට පත්ව ඇති බව වෙන්නප්පුව පොලිසිය කියයි.
+Here's a summary of the text in approximately 200 characters:
 
-මෙලෙස මරණයට පත්ව ඇත්තේ අවුරුදු 60 ත් 70 ත් අතර වයසක පසුවු යාචක කාන්තාවක් බව පොලිසිය කියයි.
 
-දෙමළ ජාතික සන්ධානයෙ යාපනය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි ගජේන්ද්‍ර කුමාර් පොන්නම්බලම් මහතා සිය රියදුරු සමග කොළඹ සිට යාපනය දක්වා ගමන් කරමින් සිටියදි  මෙම අනතුර සිදුව ඇති බව පොලිසිය කියයි.
 
-අදාල අනතුර වෙන්නප්පුව බෝලවත්ත ප්‍රදේශයෙදී මෙම යාචක කාන්තාව ගැටි ඇති බවත් බරපතල තුවාල ලබා සිටි කාන්තාව කඩිනමින් මාරවිල රෝහලට ඇතුලත් කර ඇතත් එහිදි මරණයට පත්ව ඇති බව කියයි.
+Accident involving Jaffna MP Gajendra Kumar Ponnambalam: Woman (60s) dies in luxury jeep crash near Wennappuwa. Driver & vehicle detained. Investigations ongoing.
 
-අනතුර සිදුවන අවස්ථාවේ මන්ත්‍රිවරයා අදාල සුඛෝපභෝගී ජීප් රථයෙ ගමන් කර ඇති බව කියයි.
+🟩
 
-අනතුර සම්බන්ධව අදාල අනතුරට සම්බන්ධව ජීප් රථය හා රියදුරු වෙන්නප්පුව පොලිසිය මගින් අත් අඩංගුවට ගෙන මාරවිල අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුනී.
+Wennappuwa Police say that a woman has died in a luxury jeep that was heading by Jaffna District MP Gajendra Kumar Ponnambalam.
 
-වෙන්නප්පුව පොලිස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක තිළිණ හෙට්ටිආරච්චි මහතා ඇතුළු නිළධාරීන් පිරිසක් පරික්ෂණ පවත්වයි.
+The deceased has been identified as between 60 and 70 years old, police said.
+
+The accident had occurred when the TNA, UNP MP Gajendra Kumar Ponnambalam was traveling from Colombo to Jaffna.
+
+The accident had the beggars in the Bolawatta area in Wennappuwa, and the woman who was seriously injured had been rushed to the Marawila Hospital, but it is said.
+
+At the time of the accident, the MP has traveled in the luxury jeep.
+
+The jeep and the driver was arrested by the Wennappuwa Police and produced before the Marawila Magistrate's Court regarding the accident.
+
+Tilina Hettiarachchi and other officials are conducting investigations.
 
 ◼️
 
 [Data](articles/e5ebff83.json)
 
+[Extended Data](ext_articles/e5ebff83.ext.json)
+
 ---
 
-### බලශක්ති ක්ෂේත්‍රයේ වර්ධනයට ඇමෙරිකාවේ සහාය
+### US support for the growth of the energy sector
 
 *2024-12-09 16:08:41* · [`adalk`](https://www.ada.lk/breaking_news/බලශක්ති-ක්ෂේත්‍රයේ-වර්ධනයට-ඇමෙරිකාවේ-සහාය/11-413538) · `si`
 
-ශ්‍රී ලංකාවේ ඇමරිකානු තානාපතිනි ජූලි ජේ. චංග් (Julie J. Chung) මැතිණිය අද (09) පෙරවරුවේ බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා හමුවූවාය. නව රජයේ බලශක්ති අමාත්‍යවරයාට සුබ පැතුම් එක් කිරීමත් දෙරට අතර බලශක්ති ක්ෂේත්‍රයේ සහයෝගිතාව වර්ධනය කිරීමේ ක්‍රමවේද සාකච්ඡා කිරිමත් මෙම හමුවේ අරමුණ විය.
+US supports Sri Lanka's energy sector growth: US Ambassador offers technical assistance; Energy Minister Kumara Jayakody discusses new government energy policy cooperation.
 
-මෙහිදී විශේෂයෙන්ම ශ්‍රී ලංකාවේ බලශක්ති ක්ෂේත්‍රයේ වර්ධනයට අවශ්‍යය තාක්ෂණික හා අනෙකුත් සහයන් ලබාදීමට ඇමරිකානු රජය කැමැත්තෙන් පසුවන බවත් ඉහළම ජනප්‍රසාදයකින් බලවත් ජනවරමක් ලබා ඇති නව රජය ලාංකීය ජනතා අභිලාශයන් ඉටුකරනු ඇතැයි දැඩි ලෙස අපේක්ෂා කරන බවත් ඒ සදහා ඇමරිකානු රජයේ සහය ලැබෙනු ඇති බවත් ඇමරිකානු තානාපතිතුමිය ප්‍රකාශ කළාය.
+🟩
 
-බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා නව රජයේ බලශක්ති ප්‍රතිපත්තිය හා බලශක්තිය පිළිබද දැක්ම විස්තර කළ අතර විශේෂයෙන්ම පුනර්ජනනීය විදුලිබල ක්ෂේත්‍රය සදහා ඇමරිකානු රජයේ සහය අපේක්ෂා කරන බවද සුවිශේෂි මිතුරු රටක් ලෙස ඇමරිකානු මිත්‍රත්වය සහ සහය ඉහළින්ම අගය කරන බවද ප්‍රකාශ කර සිටියේය.
+US ambassadors in Sri Lanka Julie. Chang (julie j. Cungs, Minister of Energy Minister Kumara Jayakody met Minister of Energy Minister yesterday (09).. The objective of the meeting was to join the Minister of Energy to the new government energy and the program of developing the cooperation of the energy sector between the two countries.
+
+The US Ambassador stated that the US government is willing to provide technical and other assistance to the development of the energy sector in Sri Lanka.
+
+Energy Minister Kumara Jayakody explained that the new government energy policy and energy appears to be supported by the US government with the support of the new government.
 
 ...
 
 [Data](articles/944122a9.json)
+
+[Extended Data](ext_articles/944122a9.ext.json)
 
 ---
 
@@ -183,6 +361,28 @@ Externally, Biden’s presidency has been a monumental failure, from the impulsi
 [Data](articles/6259c0e8.json)
 
 [Extended Data](ext_articles/6259c0e8.ext.json)
+
+---
+
+### පොල් මිල ඉහළ යාමෙන් පොල් ගැසිමත් නැවතිලා
+
+*2024-12-09 16:02:30* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-මිල-ඉහළ-යාමෙන්-පොල්-ගැසිමත්-නැවතිලා/11-413537) · `si`
+
+නොසිතු ලෙස පොල් මිළ ඉහල යාමත් සමග දිවයිනේ ප්‍රදේශ රැසක දේවාල හා කෝවිල් වල දෙවියන් උදෙසා පොල් ගැසිම සිග්‍ර ලෙස අඩුවි යාමක් දැක ගත හැකි බව එම ස්ථාන වල භාරකරුවන් පවසයි.
+
+විශේෂ දිනවල දී පොල් ගැසිම ඉහල මට්ටමක බවත්  සාමාන්‍ය දින වලදි ද එය හොද මට්ටමක පවතින් බව එම ස්ථාන වල භාරකරුවන් හා කපු මහත්වරුන් පවසති.
+
+පොල් මිල ඉහල යාමත් සමග පූජා වට්ටියක මිළද මේ වන විට ඉහල යාම සිදුව ඇති අතර වෙනත් දිනවලදි රුපියල් 500 අඩු වු සාමාන්‍ය පූජා වට්ටියක් මේ වන විට රුපියල් 1000 ඉක්මවා ඇති අතර විශාල පොල් ගෙඩියක් සහිත හොද තත්වයෙ පූජා වට්ටියක මිල අධික මුදලක් වී ඇති බව කියයි.
+
+මේ හේතුවෙන් භාර හාර සදහා පැමිණේන බැතිමතුන් පළතුරු පමනක් ඇති පූජා වට්ටි මිළදි ගැනිම දැක ගත හැකි බවත් පොල් ගෙඩි සහිත පූජා වට්ටි මිළදි ගැනිම අඩුවි ඇති බවද කියයි.
+
+මෙම තත්වය මුන්නේෂ්වරම් දේවාලයෙද බරපතල අඩුවක් පවතින බව බැතිමතුන්ට ආවතේව කටයුතු වල නිරත කපු මහත්වරුන් පවසති.
+
+ඡායාරූපයෙ ඇත්තේ වෙනදා බැතිමතුන්ගේ පොල් ගැනිමෙන් පිරි යන සිනිගම චෛතිහාසික දේවාලයෙ ද පොල් ගැසිම තරමකින් අඩුව ඇති අයුරු..
+
+◼️
+
+[Data](articles/8176b043.json)
 
 ---
 
@@ -2079,233 +2279,5 @@ The advancements include 158 to Ordinary Seaman, 279 to Able Seaman, 406 to Lead
 [Data](articles/8037bdd7.json)
 
 [Extended Data](ext_articles/8037bdd7.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-09 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104087/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the Low-Pressure Area in the southeast Bay of Bengalis likely to move west-northwestwards and reach over southwest Bay of Bengal off Sri Lanka – Tamil Nadu coasts around  December 11.
-
-Under its influence, showery conditions are expected to enhance in the Northern and Eastern provinces from December 10.
-
-The Northeast monsoon condition also expected to establishing gradually over the island along with above condition, the Met. Department said.
-
-Several spells of showers will occur in Northern and Eastern provinces and in Matale district.
-
-Showers or thundershowers may occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts during the evening or night, it said.
-
-Fairly heavy showers about 75mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-...
-
-[Data](articles/8e133704.json)
-
-[Extended Data](ext_articles/8e133704.ext.json)
-
----
-
-### Remittance inflows face twin declines: month-on-month and year-on-year
-
-*2024-12-09 08:08:00* · [`islandlk`](http://island.lk/remittance-inflows-face-twin-declines-month-on-month-and-year-on-year/) · `en`
-
-Workers’ remittances amounted to US dollars 530.1 mn in November 2024, compared to US dollars 587.7 mn in October 2024, and US dollars 537.3 mn in November 2023, according to the Weekly Economic Indicators of the Central Bank.
-
-This means that remittance inflows have declined by US$ 57 million month-on-month, and by US$ 7 million year-on-year in spite of the fact that more migrant workers are supposedly remitting their money to Sri Lanka.
-
-However, there is an encouraging ray of hope for the domestic economy as earnings from tourism have amounted to US dollars 272.9 mn in November 2024, compared to US dollars 185.6 mn in October 2024 and US dollars 205.3 mn in November 2023.
-
-Another metric that adds to this optimism is during the year up to 06th December 2024, the Sri Lanka rupee has appreciated against the US dollar by 11.5 per cent.
-
-...
-
-[Data](articles/728edd33.json)
-
-[Extended Data](ext_articles/728edd33.ext.json)
-
----
-
-### A Russian national couple
-
-*2024-12-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204178) · `si`
-
-Russian couple stranded Mirissa coast Kotawila police rescue operation led by PC Manjula Bandara Chamara
-
-🟩
-
-A Russian national couple who went to a break in Mirissa coast in the Kotawila police division of Mirissa coast had been diagnosed with a diagnosis.
-
-The police said that several police officers attached to the Matara Police Self-Reservant Unit were later rescued.
-
-The Foreign National couple has taken measures to save the overseas - 72167 Manjula, Police Constable 36992 Bandara and Police Constable 28244 Chamara.
-
-The victims were a 40-year-old man and a couple of the ages of 38 years of age.
-
-◼️
-
-[Data](articles/0912abc1.json)
-
-[Extended Data](ext_articles/0912abc1.ext.json)
-
----
-
-### 2138 of Navy promotions
-
-*2024-12-09 07:32:05* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-2138-කට-උසස්වීම්/11-413527) · `si`
-
-N
-
-🟩
-
-Troops of the Navy, Vice Admiral Priyantha Perianantha Periantha Perianantha, 2138 senior sailors of the Navy and Admiral Priyantha Periani.
-
-Commander of the Navy, Vice Admiral Priyantha Perianha Perera, the commemoration ceremony will be held priority to the 74th anniversary of the 74th anniversary of the Navy.The work was done.
-
-158 sailors from the General Navi wrestlike ranks and 391 maritors and 391 maritors, 391 maritors, 391 maritors, a group of major minority rates to the major minor officer raise354 sailors and 2138 senior sailors were promoted to the next level of nation.
-
-◼️
-
-[Data](articles/81cec1b5.json)
-
-[Extended Data](ext_articles/81cec1b5.ext.json)
-
----
-
-### A statement from vehicle importers association
-
-*2024-12-09 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204176) · `si`
-
-Vehicle importers claim no official announcement made. Union president requests government statement, citing public concern over delayed imports.
-
-🟩
-
-The vehicle outers' union says that no official party has officially informed the importation of vehicles.
-
-The President of the Association Prasad Manage said that he had not worked up or selling vehicles or selling vehicles.
-
-"This is essential to importing. Because we have now been to collapse for 4 years without a car. Bring something caring for us. We wish this year buses this year and then to get the rest of the vehicles under the second Third Phase II. There is no government decision on bringing any vehicle. We cannot tell whether the decision will be changed. Don't worry don't worry the vehicle you have. But no one government has expressed. We request the government to issue a statement about this. Because people are worried. We don't want to sell the vehicle that is published in late time. "
-
-◼️
-
-[Data](articles/43548d81.json)
-
-[Extended Data](ext_articles/43548d81.ext.json)
-
----
-
-### Young mother drops kids off at classes and hunts all over the place for rice
-
-*2024-12-09 07:14:00* · [`islandlk`](http://island.lk/young-mother-drops-kids-off-at-classes-and-hunts-all-over-the-place-for-rice/) · `en`
-
-A young mother told electronic media yesterday that she was searching for rice to buy – all over the town she lived in – after dropping off her children at classes.
-
-“I have hunted all over the place to buy some rice for my family, but I couldn’t find any,” she said.
-
-A middle-aged father said that no rice was available at Sathosa outlets although the government had said rice stocks would be made available at Sathosa at the new maximum retail price.
-
-Meanwhile, the dearth of rice in the market is fueling concerns not only among the consumers but also of other stakeholders including farmer associations, small rice millers, wholesalers and retailers.
-
-Anurudda Tennakoon, Chairman, National Farmers Cluster said that the president has taken a decision in line with the price per kilo asked by the medium and large scale millers.
-
-...
-
-[Data](articles/3dbfd024.json)
-
-[Extended Data](ext_articles/3dbfd024.ext.json)
-
----
-
-### Sri Lanka to harness growing potential of Vietnamese tourists
-
-*2024-12-09 07:13:00* · [`islandlk`](http://island.lk/sri-lanka-to-harness-growing-potential-of-vietnamese-tourists/) · `en`
-
-As a result of its ongoing global process of promoting Sri Lanka across the seven seas and also to showcase the island destination’s potential as a world renowned tourist destination, Sri Lanka Tourism Promotion Bureau (SLTPB ) arranged a special media familiarization tour for a delegation of 4 bloggers from Vietnam .
-
-This was an ideal opportunity to showcase Sri Lanka as a destination which has everything for the modern day traveler who loves to travel and explore , plus with a bit of adventure. The FAM Tour continued from 24th to 29th November 2024. Upon their arrival, they were given a warm welcome by the SLTPB officials at the Bandaranaike International Airport, (BIA) displaying the warm hospitality which is simply unique to Sri Lankan citizens. This was an ideal opportunity for them to have a unique experience all around Sri Lanka and also had a special travel itinerary prepared especially for them including all the main tourist attractions identical to Sri Lanka.
-
-...
-
-[Data](articles/a532b99c.json)
-
-[Extended Data](ext_articles/a532b99c.ext.json)
-
----
-
-### 2,138 of Navy promotions
-
-*2024-12-09 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204175) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka Navy celebrates 74th anniversary. 2,138 senior sailors promoted, including 158 to general naval ranks and 391 to major minority rates. Admiral Priyantha Perera also promoted.
-
-🟩
-
-The 74th Anniversary of the Sri Lanka Navy is celebrated today (09).
-
-At the same time, 2,138 senior sailors of the Navy and Admiral Priyantha Perera has been promoted to today.
-
-158 sailors from the General Navi wrestlike ranks and 391 maritors and 391 maritors, 391 maritors, 391 maritors, a group of major minority rates to the major minor officer raiseA total of 11,138 senior sailors have been promoted to the next walk.
-
-◼️
-
-[Data](articles/7d64e598.json)
-
-[Extended Data](ext_articles/7d64e598.ext.json)
-
----
-
-### Sri Lanka excess rupee reserves rise close to last crisis levels
-
-*2024-12-09 06:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-excess-rupee-reserves-rise-close-to-last-crisis-levels-192967/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s excess reserves deposited in the central bank above required reserves under a statutory ratio has reached 230 billion rupees, close levels that existed before a currency crises gathered pace in 2021, official data show.
-
-On Thursday excess reserves topped 246 billon rupees, about 20 billion rupees shy of the peak reached under President Gotabaya Rajapaksa in 2021, when private credit started to recover as the country emerged from a Coronavirus crisis.
-
-At the time money was printed by so-called direct market operations where Treasury bill auctions were scuttled with price controls (floor auction rates) imposed by the central bank.
-
-Initially the excess liquidity piled up un-used, due to weak private credit and did not hit the balance of payments.
-
-In 2024 excess liquidity is coming mostly from a surplus balance of payments (dollars purchased to maintain a pegged exchange rate), amid weak credit.
-
-...
-
-[Data](articles/bb7dfc7d.json)
-
-[Extended Data](ext_articles/bb7dfc7d.ext.json)
-
----
-
-### A change in the weather
-
-*2024-12-09 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204174) · `si`
-
-Weather alert: Low pressure system to hit southern regions, heavy rain and thunderstorms expected in western and central areas. Strong winds and landslides possible.
-
-🟩
-
-The Department of Meteorology says that the low pressure zone of the southeastern Bay of Bay of Bay of Bayingland is very likely to reach the South Bay Bay Bay in Welcome to the West West.
-
-Due to the impact of this system, the North and East will be expected to increase the increase in the North and East.
-
-Several showers in the Northern and Eastern Provinces and several showers in the Matale district.
-
-Thundershowers will develop at several places in the Western and Sabaragamuwa provinces and in the Galle, Matara, Nuwara Eliya and Kandy districts.
-
-Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. About 75 can also occur.
-
-There may be a murdded situation in the Central, Sabaragamuwa, Southern, Uva, Uva, Uva, Uva and North Western Provinces.
-
-The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
-
-◼️
-
-[Data](articles/66dd4f4d.json)
-
-[Extended Data](ext_articles/66dd4f4d.ext.json)
 
 ---

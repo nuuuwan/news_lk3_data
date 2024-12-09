@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 01:43:17**
+As of **2024-12-10 01:26:39**
 
 ## Newspaper Stats
 
-*Scraped **59,319** Articles*
+*Scraped **59,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 602
 bbccomsinhala | 619
 islandlk | 3,572
 economynextcom | 3,603
-dailyftlk | 4,082
+dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,626
 adaderanalk | 7,215
@@ -26,27 +26,9 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,318 (100.0%) of 59,319 articles have been extended.
+59,318 (100.0%) of 59,318 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-12-10 (Tuesday)
-
-### Sri Lanka electricity sector growth: Challenges ahead
-
-*2024-12-10 01:30:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-electricity-sector-growth-Challenges-ahead/4-770279) · `en`
-
-Harnessing RE resources offers energy security and creates avenues for investment with skilled job opportunities opening for management, financial and technical specialists
-
-Some of the factors that discourage investment flow and impede rapid development are the current sovereign credit risk ratings, state of the economy, risks associated with the principal sector player – the CEB, uncertainties associated with ongoing power sector reforms, cumbersome regulatory framework and seeming ineffectiveness of the regulator – PUCSL, expressions of environmental concern and geopolitics that influences project financing and development
-
-I was an attendee at the International Conference on “Reimagining of the Electricity Industry for the Future” held on 28 November 2024 organised by the Sri Lanka branch of The Institution of Engineering and Technology. The event was well attended and enlightening. My sincere thanks to the organisers for staging this impressive event.
-
-...
-
-[Data](articles/a03c0497.json)
-
----
 
 ### 2024-12-09 (Monday)
 
@@ -2399,5 +2381,27 @@ In September and several schools in India were threatened with the bomb threaten
 [Data](articles/f867f8c2.json)
 
 [Extended Data](ext_articles/f867f8c2.ext.json)
+
+---
+
+### Lohan Radhavatte in court
+
+*2024-12-09 11:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-லொஹான்-ரதவத்தே/175-348467) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Lohan Ratwatte appeared in court today after arrest and interrogation. He was brought to the Colombo Fort Magistrate's Court this morning.
+
+🟩
+
+Former Minister of State Lohan Ratwatte, who was arrested and interrogated, was brought to the Colombo Fort Magistrate's Court this morning.. Remble
+
+◼️
+
+[Data](articles/06617811.json)
+
+[Extended Data](ext_articles/06617811.ext.json)
 
 ---

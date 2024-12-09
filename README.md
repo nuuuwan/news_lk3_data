@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 13:43:55**
+As of **2024-12-09 14:02:55**
 
 ## Newspaper Stats
 
-*Scraped **59,253** Articles*
+*Scraped **59,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,571
 economynextcom | 3,598
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,612
+adalk | 5,613
 adaderanalk | 7,204
-tamilmirrorlk | 8,460
+tamilmirrorlk | 8,463
 virakesarilk | 9,720
 adaderanasinhalalk | 10,243
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,230 (100.0%) of 59,253 articles have been extended.
+59,230 (100.0%) of 59,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
+
+### மாவா வைத்திருந்தவர் கைது
+
+*2024-12-09 13:52:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாவா-வைத்திருந்தவர்-கைது/76-348481) · `ta`
+
+நுவரெலியா விக்டோரியா பூங்கா பிரதான நுழைவாயிலுக்கு முன்பாக உள்ள கடையொன்றில்  மாவா விற்பனை செய்து வந்த ஒருவர் ஞாயிற்றுக்கிழமை(08) இரவு கைது செய்யப்பட்டுள்ளதாக நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபரிடம் இருந்து கடையில் மறைத்து வைத்திருந்த 4 கிலோ 200 கிராம் மாவாவை பொலிஸார்  கைப்பற்றியுள்ளனர்.
+
+குறித்த சந்தேகநபர் நானுஓயா பகுதியை சேர்ந்த  28 வயதுடையவர் எனவும் அவரை திங்கட்கிழமை(09)  நுவரெலியா மாவட்ட  நீதவான் நீதிமன்றில்  முற்படுத்தப்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/02673bf2.json)
+
+---
+
+### சளிப்பிடித்திருந்த குழந்தை உயிரிழப்பு
+
+*2024-12-09 13:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சளிப்பிடித்திருந்த-குழந்தை-உயிரிழப்பு/175-348480) · `ta`
+
+சளிப்பிடித்து வீட்டில் சிகிச்சை பெற்று தெமடபிட்டிய தம்மிக்ககம பகுதியைச் சேர்ந்த எச்.ஜி. நாதினி. தில்ஹானி என்ற 3 மாத பெண் குழந்தை உயிரிழந்துள்ளதாக மாரவில பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த குழந்தையின் பெற்றோர் தென்னை நார் ஆலை ஒன்றில் பணிபுரியும் தம்பதிகள் எனவும், இந்த குழந்தை  இருவருக்கும் இரண்டாவது திருமணமானத்தின் ஊடாக பிறந்த  குழந்தை எனவும் பொலிஸார் தெரிவித்தனர்.
+
+குழந்தை சளித்தொல்லையால் பாதிக்கப்பட்டு வீட்டில் சிகிச்சை பெற்று வந்ததும், சிறுமி பெற்றோருடன் வீட்டில் உறங்கிக் கொண்டிருந்ததும் சிறுமியின் மூக்கில் இருந்து ரத்தம், பால் போன்ற திரவம் வடிந்திருப்பதும் பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/a7a9862f.json)
+
+---
 
 ### විදුලිබල මණ්ඩල සේවකයින්ගේ ප්‍රසාද දීමනාව ගැන අවසන් තීරණය
 
@@ -541,6 +573,22 @@ The driver of a 60 -year -old jeep from Hunnkiriya area was arrested by the poli
 [Data](articles/c91888ad.json)
 
 [Extended Data](ext_articles/c91888ad.ext.json)
+
+---
+
+### පොඩි ලැසීගේ සිර මැදිරියෙන් හා නාන ස්ථානයේ ජංගම දුරකතන උපාංග
+
+*2024-12-09 11:14:58* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ලැසීගේ-සිර-මැදිරියෙන්-හා-නාන-ස්ථානයේ-ජංගම-දුරකතන-උපාංග/11-413530) · `si`
+
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ විශේෂ සිර මැදිරියක රඳවා සිටින පොඩි ලැසි  නමැති දරුණු ඝනයේ රැඳවියා නාන ස්ථානයේ හා සිර මැදිරිය පිටුපස තිබී ජංගම දුරකථනයක් ඇතුලු උපාංග රැසක් ඊයේ (8) අත් අඩංගුවට ගත් බව  පොලිස් විශේෂ කාර්ය බලකාය කියයි.
+
+පොඩි ලැසී නමැත්තා විසින් ඔහු නාන ස්ථානයේ කොන්කීට් ලෑල්ලක  ඉතා සූක්ෂම ලෙස සගවා තිබියදී ජංගම දුරකතනය සොයා ගත් බවද පොලිස් විශේෂ කාර්ය බලකාය කියයි.
+
+අත්අඩංගුවට ගත් ජංගම දුරකතනය සහ උපාංග වැඩිදුර විමර්ෂණය සදහා බූස්ස අධි ආරක්ෂිත බන්ධනාගාර පාලන අධිකාරියට බාරදී තිබේ.
+
+◼️
+
+[Data](articles/1640a181.json)
 
 ---
 
@@ -1668,6 +1716,20 @@ The Consumer Affairs Authority (CAA) has said that the rice mills will be carrie
 
 ---
 
+### அரிசி ஆலைகளில் அதிரடி சோதனை
+
+*2024-12-09 02:59:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசி-ஆலைகளில்-அதிரடி-சோதனை/150-348455) · `ta`
+
+அரிசி ஆலைகளிலிருந்து நாளாந்தம் விநியோகிக்கப்படும் அரிசி தொகை தொடர்பில் அறிக்கையை பெற்றுக் கொள்ளுமாறு ஜனாதிபதியால் வழங்கப்பட்ட பணிப்புரைக்கு அமைய இந்த நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+
+அதற்கமைய நேற்று முதல் 10 நாட்களுக்கு தொடர்ச்சியாக அரிசி ஆலைகளில் சோதனைகள் நடத்தப்படவுள்ளதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/27003071.json)
+
+---
+
 ### CMA holds Excellence in Integrated Reporting Awards 2024
 
 *2024-12-09 02:02:05* · [`dailyftlk`](https://www.ft.lk/business/CMA-holds-Excellence-in-Integrated-Reporting-Awards-2024/34-770263) · `en`
@@ -2185,111 +2247,5 @@ The deceased belongs to the 18 -year -old Mahiyanganaya area, police said.
 [Data](articles/9cda7e89.json)
 
 [Extended Data](ext_articles/9cda7e89.ext.json)
-
----
-
-### Minister reveals reasoning behind combining Foreign Affairs and Tourism ministries
-
-*2024-12-08 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104085/minister-reveals-reasoning-behind-combining-foreign-affairs-and-tourism-ministries) · `en`
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath says that for the first time, Sri Lanka has combined the subjects of foreign affairs and tourism under a single ministry, given the interconnected nature of these two fields.
-
-The Foreign Minister expressed this while joining the International Bazaar and Cultural Extravaganza 2024, organized by the Ministry of Foreign Affairs, Foreign Employment and Tourism in collaboration with the Sri Lanka Foreign Service Association and Good Market Sri Lanka which was held on Saturday (07) in Colombo.
-
-Speaking at the same event, Prime Minister Dr. Harini Amarasuriya emphasized the importance of the country’s Apparel and Textile sector becoming globally competitive in a manner never before accomplished.
-
-The event was graced by Prime Minister, Dr. Harini Amarasuriya and Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
-
-...
-
-[Data](articles/01c46e80.json)
-
-[Extended Data](ext_articles/01c46e80.ext.json)
-
----
-
-### Sri Lanka beat 143 runs
-
-*2024-12-08 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204168) · `si`
-
-Sri Lanka won by 143 runs in the final Test against South Africa. Chasing 143, SL lost 5 wickets. Kusal Mendis and Dananjaya scored 39 runs for the 6th wicket. South Africa scored 358 in the first innings and 317 in the second. SL won the series, ending SA's tour without defeat.
-
-🟩
-
-Sri Lanka, who was in the final Test cricket match between Sri Lanka and South Africa, was gathered at 205 runs for the loss of 5 wickets.
-
-Sri Lanka is chasing 143 runs for the victory of 5 wickets.
-
-Kusal Mendis and Dananjaya Dananjaya de Silva remained 39 runs for the 6th wicket.
-
-South Africa first scored 358 runs for the loss of all wickets in their first innings, and Sri Lanka scored 328 runs.
-
-South Africa, who started the second innings with a 30-run advantage, only 317 runs.
-
-Accordingly, South African competition tour is essential to Sri Lanka to end the visit without Jayakarajayya.
-
-◼️
-
-[Data](articles/c0bef063.json)
-
-[Extended Data](ext_articles/c0bef063.ext.json)
-
----
-
-### Customers who are looking for rice and coconut
-
-*2024-12-08 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204167) · `si`
-
-Sathosa outlets face shortage of rice and coconut, leading to price hikes. Marketing relief program initiated. Some outlets unaffected due to supply issues. Imported rice stock expected next week, ordered from India and Pakistan as per government directive.
-
-🟩
-
-Many customers who came to the Sathosa outlets have been held today by the absence of enough of rice and coconut.
-
-Due to the deficit, the rapid price of coconut and rice, the rapid price of coconut and rice, commenced the marketing program of relief.
-
-Accordingly, Sathosa outlets have lasted rice and coconut in the Sathosa outlets.
-
-However, some Sathosa outlets were not receiving rice and coconuts to some Sathosa outlets today.
-
-Meanwhile, the imported rice stocks will be returned to the island next week.
-
-A spokesman for Ada Derana stated that several importers have already ordered the rice in India and Pakistan according to the instructions of the government to import rice.
-
-◼️
-
-[Data](articles/0d8be15c.json)
-
-[Extended Data](ext_articles/0d8be15c.ext.json)
-
----
-
-### Cause shortage of essential drugs
-
-*2024-12-08 20:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-மருந்துகளுக்கு-தட்டுப்பாடு-ஏற்படும்/175-348452) · `ta`
-
-Essential drug shortage looms due to flawed import process. Government urged to improve procurement procedures to prevent deficits. Insulin, cancer drugs, and biochemicals may face scarcity.
-
-🟩
-
-The Federation of Medical and Civil Rights Association said that the country's health structure is likely to cause shortage of essential drugs.
-
-The situation is expected to be due to the lack of proper purchase procedure for importing drugs.
-
-When a new year begins, the Ministry of Health should make a request for the purchase of medicine for the year.
-
-However, due to the weakness of the last government and the arrest of many health department officials in the past, there has been a major setback in the process of pharmaceutical regulation, purchase and distribution.
-
-As a result, according to the data of the medical distribution unit, there will be massive drug shortages next year.
-
-Accordingly, insulin, cancer drugs and some biochemical drugs are also scarce.
-
-Therefore, the government should take steps to avoid the proper procurement procedures and take steps to avoid massive deficits, said Dr. Samal Sanjeeva, Secretary of the Federation of Medical and Civil Rights.R
-
-◼️
-
-[Data](articles/d5262949.json)
-
-[Extended Data](ext_articles/d5262949.ext.json)
 
 ---

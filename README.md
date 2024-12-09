@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 23:43:29**
+As of **2024-12-10 00:18:29**
 
 ## Newspaper Stats
 
-*Scraped **59,316** Articles*
+*Scraped **59,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 619
 islandlk | 3,572
-economynextcom | 3,601
+economynextcom | 3,603
 dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,626
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,308 (100.0%) of 59,316 articles have been extended.
+59,314 (100.0%) of 59,318 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,27 @@ Posting on ‘ X’  (formerly Twitter), Ambassador Chung said: “Through USAI
 
 ---
 
-### ආදායම් වියදම් වාර්තා නොදුන් අපේක්ෂකයින්
+### Candidates who did not report income expenditure
 
 *2024-12-09 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204207) · `si`
 
-මෙවර පාර්ලිමේන්තු මැතිවරණය සඳහා ඉදිරිපත්වූ අපේක්ෂකයින් 1,042දෙනෙකු ආදායම් වියදම් වාර්තා ලබාදී නොමැති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Summary: 1,042 candidates received income expenditure reports out of 7,412 required. No reports from 690 parties/individuals contesting the parliamentary election.
 
-ඒ අනුව මැතිවරණයට ඉදිරිපත්වූ 8,888 දෙනෙකු වන සමස්ත අපේක්ෂකයින් අතරින් නියමිත දිනට ආදායම් වියදම් වාර්තා ලබාදී ඇත්තේ අපේක්ෂකයින් 7,412දෙනෙකු පමණක් බව මැතිවරණ කොමිෂන් සභාව පැවසීය.
+🟩
 
-පාර්ලිමේන්තු මැතිවරණයට තරගකළ පක්ෂ සහ ස්වාධීන කණ්ඩායම් 690ක් අතරින් 197ක් ද ආදායම් වියදම් ලබා දී නොමැති බව සඳහන්ය.
+The Elections Commission says that 1,042 candidates have come forward to receive income expenditure reports.
 
-පසුගිය පාර්ලිමේන්තු මැතිවරණයට ඉදිරිපත්වූ අපේක්ෂකයින්ට, දේශපාලන පක්ෂවලට මෙන්ම ස්වාධීන කණ්ඩායම්වලට ආදායම් වියදම් වාර්තා ඉදිරිපත් කිරීමට ලබා දී තිබූ කාලය පසුගිය 06වනදා මධ්‍යම රාත්‍රියෙන් අවසන් වුණි.
+Accordingly, the Elections Commission (EPL) said that only 7,412 candidates have been given to the due date.
+
+In the 690 parties and independent groups contesting for the parliamentary election, there were no income expenditure.
+
+The number of people who came forward to the last parliamentary elections were given to the presentation of income tax reports to the political parties and independent groups.
 
 ◼️
 
 [Data](articles/6c01c186.json)
+
+[Extended Data](ext_articles/6c01c186.ext.json)
 
 ---
 
@@ -570,6 +576,28 @@ The former Director of the Colombo Crimes Division (CCD), ASP Nevil Silva has be
 
 ---
 
+### Over 80-pct of Sri Lanka’s PE candidates compile expense report after EC warning
+
+*2024-12-09 18:12:00* · [`economynextcom`](https://economynext.com/over-80-pct-of-sri-lankas-pe-candidates-compile-expense-report-after-ec-warning-193151/) · `en`
+
+ECONOMYNEXT – More than 80 percent of the candidates who contested in Sri Lanka’s parliamentary polls have submitted their mandatory campaign income and expenditure reports before the deadline, the island nation’s Election Commission (EC) data showed.
+
+The EC last week warned the candidates and political parties to file their expense report to explain their campaign financing before the end of November 06.
+
+Out of the total 8,361 candidates, 88.6 percent or 7,412 have submitted their reports to the Election Commission before the deadline, the Commission said in a statement on Monday (09).
+
+Out of a total 690 political parties and independent groups, only 71.4 percent (493) and out of 527 named national list members, 82.4 percent (434) submitted their reports, the EC said.
+
+The EC warned of legal action for the candidates who fail to fulfil the obligation and possibly of losing their opportunity in contesting at local government or provincial council polls.
+
+...
+
+[Data](articles/868df593.json)
+
+[Extended Data](ext_articles/868df593.ext.json)
+
+---
+
 ### “Allow farmers to use guns”
 
 *2024-12-09 17:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகள்-துப்பாக்கிகளைப்-பயன்படுத்த-அனுமதிக்க-வேண்டும்/175-348502) · `ta`
@@ -743,6 +771,28 @@ The Speaker thanked the United States' International Development Agency and cont
 [Data](articles/69ab7efd.json)
 
 [Extended Data](ext_articles/69ab7efd.ext.json)
+
+---
+
+### Sri Lanka seeks US assistance in renewable energy sector amid review of India’s Adani deal
+
+*2024-12-09 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-us-assistance-in-renewable-energy-sector-amid-review-of-indias-adani-deal-193129/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new Energy Minister Kumara Jayakody has sought assistance from the United States to develop the renewable energy sector in the island nation, his Ministry said in a statement.
+
+The move comes after President Anura Kumara Dissanayake’s government has promised to review India’s Adani renewable energy deal following some top officials of the Indian company indicted on multiple counts of fraud
+
+Minister Jayakody sought assistance on Monday (09) when he met the U.S. Ambassador Julie Chung to discuss the “ways to enhance cooperation in the power sector between the two countries”.
+
+“The Ambassador said that the U.S. government is also ready to provide technical and other assistance to Sri Lanka’s power sector,” the Energy Ministry said in the statement.
+
+“Minister of Energy Eng. Kumara Jayakodi explained the new government’s energy policy and vision for energy and expressed his expectation of the US government’s support for the renewable energy sector in the country.”
+
+...
+
+[Data](articles/71744033.json)
+
+[Extended Data](ext_articles/71744033.ext.json)
 
 ---
 
@@ -2353,45 +2403,5 @@ Former Minister of State Lohan Ratwatte, who was arrested and interrogated, was 
 [Data](articles/06617811.json)
 
 [Extended Data](ext_articles/06617811.ext.json)
-
----
-
-### Lohan Ratwatte produced before Magistrate
-
-*2024-12-09 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104099/lohan-ratwatte-produced-before-magistrate) · `en`
-
-Former State Minister Lohan Ratwatte, who was arrested and remanded for causing a road accident while driving under the influence of alcohol, was produced before the Colombo Fort Magistrate’s Court today (9).
-
-He was arrested on December 6 for causing a road accident while driving under the influence of alcohol and was remanded until December 9 after being produced before the Colombo Chief Magistrate’s Court on December 7.
-
-Ratwatte, who was released on bail on December 5 in a separate case, was returning from a relative’s house on December 06 when his Defender collided with another vehicle near the Kollupitiya Junction.
-
-Following a complaint made to the Kollupitiya Police regarding the accident, investigations confirmed that he was under the influence of alcohol at the time, leading to his arrest on charges of causing an accident while intoxicated.
-
-Accordingly, the police arrested Ratwatte on charges of causing an accident while driving under the influence of alcohol.
-
-◼️
-
-[Data](articles/2ca37e47.json)
-
-[Extended Data](ext_articles/2ca37e47.ext.json)
-
----
-
-### The Tamil National Party won the Batticaloa and the defeat in Jaffna
-
-*2024-12-09 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200772) · `ta`
-
-Tamil National Party wins Batticaloa, loses Jaffna. President Anura Kumara Dissanayake welcomes Batticaloa MP in Parliament on November 21.
-
-🟩
-
-President Anura Kumara Dissanayake, who welcomed the Batticaloa District Member of Parliament on November 21 in Parliament ...
-
-◼️
-
-[Data](articles/581cfa2c.json)
-
-[Extended Data](ext_articles/581cfa2c.ext.json)
 
 ---

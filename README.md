@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 13:13:24**
+As of **2024-12-09 12:30:06**
 
 ## Newspaper Stats
 
-*Scraped **59,249** Articles*
+*Scraped **59,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,166 +17,32 @@ economynextcom | 3,598
 dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,611
-adaderanalk | 7,204
-tamilmirrorlk | 8,459
+adaderanalk | 7,200
+tamilmirrorlk | 8,458
 virakesarilk | 9,720
-adaderanasinhalalk | 10,241
+adaderanasinhalalk | 10,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,221 (100.0%) of 59,249 articles have been extended.
+59,215 (100.0%) of 59,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### අනවශ්‍ය භාවිතයෙන් ජීවිත අනතුරේ හෙළන ප්‍රතිජීවක
-
-*2024-12-09 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204192) · `si`
-
-ප්‍රතිජීවක ඖෂධ අනවශ්‍ය ලෙස සහ වැරදි ලෙස භාවිතය හේතුවෙන් එම ඖෂධවලට එරෙහිව මිනිස් සිරුර තුළ ප්‍රතිරෝධතාවයක් ගොඩ නැගීම මිනිසාට අහිතකර බව වෛද්‍ය විශේෂඥයින් පවසයි.
-
-අද දෙරණ "Big Focus" වැඩසටහන සමග එක්වූ සෞඛ්‍ය අමාත්‍යංශයේ, ප්‍රතිජීවක ප්‍රතිරෝධය වැලැක්වීමේ ජාතික කේන්ද්‍රස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (රසායනාගාර සේවා), වෛද්‍ය ප්‍රියන්ත අතපත්තු මහතා ඒ සම්බන්ධයෙන් විස්තර කළේ මෙසේය.
-
-ප්‍රතිජීවක ප්‍රතිරෝධය යනු..."ඇත්තටම අපි කතා කරන්නේ ක්ෂුද්‍ර ජීවීන්ට එරෙහිව අපි භාවිත කරන ඖෂධ වලට එන ප්‍රතිරෝධය ගැන. ක්ෂුද්‍ර ජීවීන් කිව්වහම වර්ග ප්‍රධාන 4ක් තිබෙනවා. බැක්ටීරියා, වෛරස, දිලීර සහ පරපෝෂිත. මෙන්න මේ ක්ෂුද්‍රජීවින්ට එරෙහිව නිෂ්පාදනය කරලා තියෙන ඖෂධ වලට කියන්නේ ප්‍රතිජීවක කියලා. මෙන්න මේ ප්‍රතිජීවක කියන ඖෂධ අනවශ්‍ය ලෙස භාවිතය සහ වැරදි ලෙස භාවිතය නිසා මේ ඖෂධවලට එරෙහිව ප්‍රතිරෝධතාවයක් ගොඩ නැගෙනවා. ඒ කියන්නේ ඒ ඖෂධවල බලය නැති වෙනවා. එවිට හානිය වැඩියි."
-
-ලොව පළමුවෙන්ම සොයාගත් ප්‍රතිජීවක ඖෂධය වන්නේ පෙනිසිලින් ය. ඒ 1928 දීය. එම ඖෂධය භාවිතයට ගෙන ඇත්තේ 1944 වසරේ සිට ය.
-
-...
-
-[Data](articles/7d2d0875.json)
-
----
-
-### A criminal charge against ex-President Ranil? - Dullas writes to President
-
-*2024-12-09 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104107/a-criminal-charge-against-ex-president-ranil-dullas-writes-to-president) · `en`
-
-The Freedom People’s Congress (Nidahasa Janatha Sabhawa) alleges that former President Ranil Wickremesinghe’s action to postpone the election without any justifiable reason is a “political abortion committed after a mass corruption as well as an economic murder committed financially”.
-
-Leader of the party Dullas Alahapperuma has expressed this in a letter addressed to the President, Opposition Leader, all Members of Parliament and the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The letter titled “Pay the price for aborting democracy; a criminal charge against President Ranil”, details a number of incidents.
-
-The letter further states that they are waiting with anticipation to see what actions will the new government led by the current President take against these “economic hitmen”.
-
-...
-
-[Data](articles/f38a7f44.json)
-
----
-
-### Lohan withdrew the Rid petition
-
-*2024-12-09 12:24:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிட்-மனுவை-வாபஸ்-பெற்றார்-லொஹான்/175-348478) · `ta`
-
-Lohan withdraws Rid petition: Former Minister Lohan Ratwatta's legal challenge regarding an unregistered luxury vehicle case has been dropped. His lawyer stated the petitioner no longer wishes to proceed, citing the client's release on bail in a related unregistered vehicle case.
-
-🟩
-
-The writ petition filed by former Minister of State Lohan Ratwatta in connection with the case of unregistered luxury vehicle has been withdrawn today.
-
-The lawyer appearing on behalf of Lohan Ratwatta told the court that the petitioner did not want to pursue the petition as his client has already been released on bail in an unregistered vehicle case.
-
-◼️
-
-[Data](articles/a2aeb377.json)
-
-[Extended Data](ext_articles/a2aeb377.ext.json)
-
----
-
-### New Secretary appointed to Ministry of Fisheries
-
-*2024-12-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104106/new-secretary-appointed-to-ministry-of-fisheries) · `en`
-
-President Anura Kumara Dissanayake has appointed Attorney-at-Law M.L.A.S. Manthrinayake as the new Secretary to the Ministry of Fisheries, Aquatic, and Ocean Resources.
-
-The official appointment letter was presented to Attorney-at-Law M.L.A.S. Manthrinayake by Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat this morning (09), according to the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/e95c6289.json)
-
-[Extended Data](ext_articles/e95c6289.ext.json)
-
----
-
-### No bonuses for CEB employees this year
-
-*2024-12-09 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104105/no-bonuses-for-ceb-employees-this-year-) · `en`
-
-The Ceylon Electricity Board’s (CEB) Board of Directors has decided not to grant bonuses to its employees this year, despite the CEB Employees’ Union affiliated with the National People’s Power (NPP) demanding bonuses by December, citing the CEB’s profitability.
-
-The union had earlier requested the CEB management to provide bonuses before December 10, citing improved financial performance and the change in government administration as reasons.
-
-General Secretary of the union Ranjan Jayalal pointed out during a press briefing that CEB employees had not received bonuses for the past two years under the previous government. With the NPP now in power, he argued, it was reasonable to expect better benefits for the workforce.
-
-...
-
-[Data](articles/a4dfb08f.json)
-
-[Extended Data](ext_articles/a4dfb08f.ext.json)
-
----
-
-### Appointment of the new Secretary of the Ministry of Fisheries
+### கடற்றொழில் அமைச்சின் புதிய செயலாளர் நியமனம்
 
 *2024-12-09 12:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழில்-அமைச்சின்-புதிய-செயலாளர்-நியமனம்/175-348477) · `ta`
 
-Here's a summary in 200 characters:
+ஜனாதிபதி அனுரகுமார திஸாநாயக்கவினால் கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சின் செயலாளராக சட்டத்தரணி எம். ஏ. எல். திரு. எஸ். மந்திரிநாயக்க நியமிக்கப்பட்டுள்ளார்.
 
-
-
-New Secretary of Ministry of Fisheries: Attorney General M.A.L. Mr.S.Mannayaka appointed. Handover ceremony conducted by President Dr.Nandika Sanath Kumanayake at Presidential Secretariat on Monday.
-
-🟩
-
-Attorney General M.. A.. L. Mr.. S.. Mannayaka has been appointed.
-
-President of the President, Dr. Nandika Sanath Kumanayake, Attorney -at -Law. A.. L. He handed over to S. Mantinayaka at the Presidential Secretariat on Monday morning.
+அது தொடர்பான நியமனக் கடிதத்தை ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, சட்டத்தரணி எம். ஏ. எல். எஸ்.மந்திரிநாயக்கவிடம் திங்கட்கிழமை (09) காலை ஜனாதிபதி செயலகத்தில் வைத்து கையளித்தார்.
 
 ◼️
 
 [Data](articles/c12976e1.json)
-
-[Extended Data](ext_articles/c12976e1.ext.json)
-
----
-
-### Dullas writes to Ranil to Ranil
-
-*2024-12-09 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204191) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Ranil Wickremesinghe accused of financial corruption & economic mismanagement. Dullas Alahapperuma claims Wickremesinghe responsible for "political abortion" & "economic assassination". Letter calls for action against economic killers & criticizes Wickremesinghe's handling of local government elections.
-
-🟩
-
-The Free Peoples Council states that former President Ranil Wickremesinghe has been a political abortion and financially economic assassination that was financially corrupted without any reason.
-
-It is said to be a letter to all Members of the Opposition, including the President, Opposition Leader, the President, Opposition Leader, President and the Opposition Leader.
-
-Leader of the People's Leader of the People's Leader Dullas Alahapperuma said that it was ready to take over Rs.
-
-He says that measures come to the verdict from the verdict from the verdict.
-
-# The letter from the letter to Ranil, a criminal accusation of a criminal accusation, have been written in a number of events.
-
-The letter is the government that is leading the present President of the present President and the UPFA is looking forward to the action against these economic killers.
-
-The letter stressed that Ranil Wickremesinghe has enough time to add a sense of occasion to political history and add a chance to political history.
-
-...
-
-[Data](articles/ebbc5b30.json)
-
-[Extended Data](ext_articles/ebbc5b30.ext.json)
 
 ---
 
@@ -219,26 +85,6 @@ Appointment of Appointment Letter of Secretary to the President. A. L. Sahana wa
 [Data](articles/0fdc0470.json)
 
 [Extended Data](ext_articles/0fdc0470.ext.json)
-
----
-
-### “Podi Lassie” granted bail
-
-*2024-12-09 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104104/podi-lassie-granted-bail) · `en`
-
-Notorious underworld figure Janith Madushanka, who is also known by the alias “Podi Lassie”, has been ordered to be released on bail.
-
-The order was delivered by the Balapitiya Magistrate when the suspect was produced before the court this morning (09).
-
-He had been named as the second suspect in the case filed over the alleged death threats made in public at the Boossa Prison against former President Maithripala Sirisena, the then Defence Secretary and certain high-ranking officers of the Prisons Department.
-
-‘Podi Lassie’ was under remand custody at the high-security prison in Boossa over several criminal offences for over two years and there are multiple pending cases before several courts against him over the charges including peddling drugs along with a group of officers of the Police Narcotics Bureau (PNB).
-
-◼️
-
-[Data](articles/74346214.json)
-
-[Extended Data](ext_articles/74346214.ext.json)
 
 ---
 
@@ -2273,5 +2119,165 @@ He had arrived in Panapitiya area in Kalutara yesterday (07) to attend an interv
 [Data](articles/4448988d.json)
 
 [Extended Data](ext_articles/4448988d.ext.json)
+
+---
+
+### Cannabis Garden discovery in Hambagamuwa area
+
+*2024-12-08 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200751) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Arrest made in Hambagamuwa: 52-year-old man caught cultivating 18,000 cannabis plants. Police investigation ongoing.
+
+🟩
+
+A suspect who maintained a ganja garden in the Hambagamuwa police division has been arrested by the police today (08).
+
+The arrested suspect is 52 years old from Dhanamalwila.
+
+About 18,000 cannabis plants have grown up to 3 feet high in the cannabis garden on one acre of land, police said.
+
+Further investigations are being carried out by Hambagamuwa Police Station officials.
+
+◼️
+
+[Data](articles/fe63acb2.json)
+
+[Extended Data](ext_articles/fe63acb2.ext.json)
+
+---
+
+### Opposition wins Ghana presidential election, vice-president accepts
+
+*2024-12-08 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104084/opposition-wins-ghana-presidential-election-vice-president-accepts) · `en`
+
+Ghana’s Vice-President Mahamudu Bawumia has accepted defeat in Saturday’s election and congratulated the opposition candidate, former President John Mahama, on his victory.
+
+The elections come amid the country’s worst economic crisis in a generation, which saw the country default on its debt.
+
+The Electoral Commission (EC) said results had been delayed because supporters of the two main parties were impeding the process and it had asked the police to clear the collation centres.
+
+Mahama’s supporters have taken to the streets to celebrate in its northern stronghold of Tamale, the central city of Kumasi and the capital, Accra.
+
+Bawumia said he was basing his statement on internal tallies from the governing New Patriotic Party (NPP).
+
+He said these showed Mahama had won “decisively”, while the opposition National Democratic Congress (NDC) had also won the parliamentary election.
+
+Mahama confirmed that Bawumia had called to congratulate him on his “emphatic victory”.
+
+...
+
+[Data](articles/d99044a9.json)
+
+[Extended Data](ext_articles/d99044a9.ext.json)
+
+---
+
+### Two arrested with heroin in Kandy
+
+*2024-12-08 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200749) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Kandy: Two arrests made. Heroin found in Peradeniya & Sudhumbala. Ages: 44 & 46. Raids conducted by police."
+
+🟩
+
+Two persons have been arrested by police on Saturday (07) with heroin drugs during two other rounds of raids in Kandy.
+
+One person was arrested with heroin in Peradeniya area belonging to the Kandy Police Division. He is a 44 -year -old from Kiribathkumbura.
+
+Meanwhile, a suspect with heroin in Sudhumbala area belonging to the Kandy Police Division has been arrested by the police yesterday (07).
+
+He was arrested after a raid conducted by a team of police officers of the Police Special Task Force.
+
+The arrested suspect is 46 years old from Tangolla.
+
+◼️
+
+[Data](articles/3e74ea18.json)
+
+[Extended Data](ext_articles/3e74ea18.ext.json)
+
+---
+
+### Nestlé Lanka honoured at Best Corporate Citizen Sustainability Awards 2024
+
+*2024-12-08 18:53:00* · [`islandlk`](http://island.lk/nestle-lanka-honoured-at-best-corporate-citizen-sustainability-awards-2024/) · `en`
+
+Nestlé Lanka was honoured with numerous accolades at the Best Corporate Citizen Sustainability Awards 2024, walking away with seven awards in several categories including, First Runners Up – Best Corporate Citizen Sustainability Award 2024, Top Ten Best Corporate Citizens, Triple Bottom Line Award – Environmental Sustainability (Planet), Sector Award – Manufacturing, Category Award – Supplier Relations, and two awards in Consistent Commitment and Continuous Improvement for Environmental Integration and Employee Relations. Widely considered Sri Lanka’s highest corporate honour, the Best Corporate Citizen Sustainability Awards, organized by the Ceylon Chamber of Commerce, recognizes sustainability champions who operate with a strong focus on people, planet, and profit.
+
+...
+
+[Data](articles/5df993be.json)
+
+[Extended Data](ext_articles/5df993be.ext.json)
+
+---
+
+### AIA honoured as a Wellness Champion for 2024
+
+*2024-12-08 18:52:00* · [`islandlk`](http://island.lk/aia-honoured-as-a-wellness-champion-for-2024/) · `en`
+
+AIA Insurance has won the Sri Lanka Great Place to Work® (GPTW) first ever workplace wellness award. Honoured as a Wellness Champion for 2024 in the inaugural list that celebrates organisations that prioritise employee health and wellbeing, AIA was the only insurance company to win this award.
+
+This accolade reflects AIA’s dedication to fostering a workplace that supports the physical and mental wellness of every team member, aligning with the company’s overarching purpose of helping people live healthier, longer and better lives.
+
+At AIA Insurance, wellness is more than a concept, it is a fundamental pillar of our brand purpose. While AIA has long been committed to promoting wellness for its customers and communities, this award highlights our equally powerful focus on internal wellbeing.
+
+By providing an environment where employees feel supported, connected and empowered, AIA enables its team members to thrive not just professionally but personally.
+
+...
+
+[Data](articles/22e371c7.json)
+
+[Extended Data](ext_articles/22e371c7.ext.json)
+
+---
+
+### SLPA looking to reduce GHG emissions in port operations
+
+*2024-12-08 18:51:00* · [`islandlk`](http://island.lk/slpa-looking-to-reduce-ghg-emissions-in-port-operations/) · `en`
+
+A project and process are currently underway to utilize land owned by the Sri Lanka Ports Authority (SLPA) and the Port of Colombo (POC) for solar energy harvesting, aiming to produce green hydrogen under the port’s Green Energy Initiative Programme, said Eng. Ganaka Hemachandra, Managing Director of the Sri Lanka Ports Authority (SLPA).
+
+He made these remarks as a panelist during a discussion on ‘Future Fuels, the Planet, and Shipping – Clean Energy Efficient Integrations and Green Robotics in Ports,’ at the Colombo International Maritime & Logistics Conference, held from November 27 to 29, 2024, at the Cinnamon Grand, Colombo.
+
+Speaking further, he noted that the port currently consumes 25% of the total energy usage in the city of Colombo, equivalent to nearly 50 MW.
+
+...
+
+[Data](articles/ac543b46.json)
+
+[Extended Data](ext_articles/ac543b46.ext.json)
+
+---
+
+### 3 women arrested for older career
+
+*2024-12-08 18:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-தொழில்-செய்த-3-பெண்கள்-கைது/175-348450) · `ta`
+
+Three women & manager arrested for prostitution ring posing as massage parlor in Kalutara. Police raid nets suspects offering services worth Rs 4000.
+
+🟩
+
+The Criminal Investigation Department said that three women and their manager surrounded the prostitution service center under the guise of a massage station in the northern part of Kalutara.
+
+The arrested women are from Budhala, Pulathsingha and Akuressa and the manager is 23 years old from Moratuwa, police said.
+
+The suspects have been arrested in a raid carried out by a agent on a search order received at the Kalutara Magistrate's Court.
+
+The suspects have provided services worth Rs 4,000 and the traders, youth and the elderly from the area have come to obtain services, police said.
+
+◼️
+
+[Data](articles/9a744650.json)
+
+[Extended Data](ext_articles/9a744650.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 08:10:27**
+As of **2024-12-09 07:31:44**
 
 ## Newspaper Stats
 
-*Scraped **59,182** Articles*
+*Scraped **59,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 617
-islandlk | 3,571
+islandlk | 3,566
 economynextcom | 3,593
 dailyftlk | 4,081
 dailymirrorlk | 4,733
@@ -26,63 +26,11 @@ adaderanasinhalalk | 10,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,169 (100.0%) of 59,182 articles have been extended.
+59,166 (100.0%) of 59,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
-
-### Remittance inflows face twin declines: month-on-month and year-on-year
-
-*2024-12-09 07:17:00* · [`islandlk`](http://island.lk/remittance-inflows-face-twin-declines-month-on-month-and-year-on-year/) · `en`
-
-Workers’ remittances amounted to US dollars 530.1 mn in November 2024, compared to US dollars 587.7 mn in October 2024, and US dollars 537.3 mn in November 2023, according to the Weekly Economic Indicators of the Central Bank.
-
-This means that remittance inflows have declined by US$ 57 million month-on-month, and by US$ 7 million year-on-year in spite of the fact that more migrant workers are supposedly remitting their money to Sri Lanka.
-
-However, there is an encouraging ray of hope for the domestic economy as earnings from tourism have amounted to US dollars 272.9 mn in November 2024, compared to US dollars 185.6 mn in October 2024 and US dollars 205.3 mn in November 2023.
-
-Another metric that adds to this optimism is during the year up to 06th December 2024, the Sri Lanka rupee has appreciated against the US dollar by 11.5 per cent.
-
-...
-
-[Data](articles/728edd33.json)
-
----
-
-### Young mother drops kids off at classes and hunts all over the place for rice
-
-*2024-12-09 07:14:00* · [`islandlk`](http://island.lk/young-mother-drops-kids-off-at-classes-and-hunts-all-over-the-place-for-rice/) · `en`
-
-A young mother told electronic media yesterday that she was searching for rice to buy – all over the town she lived in – after dropping off her children at classes.
-
-“I have hunted all over the place to buy some rice for my family, but I couldn’t find any,” she said.
-
-A middle-aged father said that no rice was available at Sathosa outlets although the government had said rice stocks would be made available at Sathosa at the new maximum retail price.
-
-Meanwhile, the dearth of rice in the market is fueling concerns not only among the consumers but also of other stakeholders including farmer associations, small rice millers, wholesalers and retailers.
-
-Anurudda Tennakoon, Chairman, National Farmers Cluster said that the president has taken a decision in line with the price per kilo asked by the medium and large scale millers.
-
-...
-
-[Data](articles/3dbfd024.json)
-
----
-
-### Sri Lanka to harness growing potential of Vietnamese tourists
-
-*2024-12-09 07:13:00* · [`islandlk`](http://island.lk/sri-lanka-to-harness-growing-potential-of-vietnamese-tourists/) · `en`
-
-As a result of its ongoing global process of promoting Sri Lanka across the seven seas and also to showcase the island destination’s potential as a world renowned tourist destination, Sri Lanka Tourism Promotion Bureau (SLTPB ) arranged a special media familiarization tour for a delegation of 4 bloggers from Vietnam .
-
-This was an ideal opportunity to showcase Sri Lanka as a destination which has everything for the modern day traveler who loves to travel and explore , plus with a bit of adventure. The FAM Tour continued from 24th to 29th November 2024. Upon their arrival, they were given a warm welcome by the SLTPB officials at the Bandaranaike International Airport, (BIA) displaying the warm hospitality which is simply unique to Sri Lankan citizens. This was an ideal opportunity for them to have a unique experience all around Sri Lanka and also had a special travel itinerary prepared especially for them including all the main tourist attractions identical to Sri Lanka.
-
-...
-
-[Data](articles/a532b99c.json)
-
----
 
 ### Shooting in Gampaha: One kills
 
@@ -110,27 +58,17 @@ Police said two men on a motorbike were shot dead on a motorcycle.
 
 ---
 
-### Arrested by someone with domestic rifle
+### உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் கைது
 
 *2024-12-09 03:06:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டுத்-துப்பாக்கியுடன்-ஒருவர்-கைது/175-348457) · `ta`
 
-Here's a summary of 200 characters:
+கிளிநொச்சி - ஜெயபுரம் பொலிஸ் பிரிவுக்குட்பட்ட வீரபாண்டிய முனை பகுதியில் உள்நாட்டுத் துப்பாக்கியைக் கைவசம் வைத்திருந்த சந்தேகநபர் ஒருவர்  கைது செய்யப்பட்டுள்ளார்.
 
-
-
-Suspect arrested in Veerapandiya for possessing domestic rifle. Raid conducted by Jayapuram police based on tip-off. Incident occurred in Kilinochchi-Jayapuram police division.
-
-🟩
-
-A suspect has been arrested for possessing a domestic gun in Veerapandiya, which belongs to the Kilinochchi -Jayapuram police division.
-
-He was arrested during a raid carried out on the basis of information received by a team of Jayapuram police station officials.
+ஜெயபுரம் பொலிஸ் நிலைய அதிகாரிகள் குழுவுக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
 
 ◼️
 
 [Data](articles/99a5d9ad.json)
-
-[Extended Data](ext_articles/99a5d9ad.ext.json)
 
 ---
 
@@ -940,8 +878,6 @@ Nestlé Lanka was honoured with numerous accolades at the Best Corporate Citizen
 
 [Data](articles/5df993be.json)
 
-[Extended Data](ext_articles/5df993be.ext.json)
-
 ---
 
 ### AIA honoured as a Wellness Champion for 2024
@@ -959,8 +895,6 @@ By providing an environment where employees feel supported, connected and empowe
 ...
 
 [Data](articles/22e371c7.json)
-
-[Extended Data](ext_articles/22e371c7.ext.json)
 
 ---
 
@@ -1034,20 +968,6 @@ As he fled the country, Interpol made a way to give up an international holder.
 
 ---
 
-### CTC honours excellence at annual Distributor Awards ceremony
-
-*2024-12-08 18:50:00* · [`islandlk`](http://island.lk/ctc-honours-excellence-at-annual-distributor-awards-ceremony/) · `en`
-
-Ceylon Tobacco Company PLC (CTC), recently held its annual Distributor Awards ceremony on November 23rd, 2024, at the Sri Lanka Exhibition Convention Centre (SLECC), celebrating the outstanding commitment and performance of their distributor network.
-
-The CTC annual Distributor Awards ceremony recognized the extraordinary commitment and accomplishments of CTC’s distributors, celebrating their unwavering commitment and dedication. The awards ceremony was attended by over 2100 distributors and invitees from various regions of Sri Lanka. 135 distributors were recognized and celebrated, across five categories, in line with CTC’s ethos of acknowledging excellence.
-
-...
-
-[Data](articles/4ae8c02e.json)
-
----
-
 ### A man arrested with illegal liquor
 
 *2024-12-08 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/200744) · `ta`
@@ -1105,22 +1025,6 @@ He was arrested after a roundup of information received by a team of police offi
 [Data](articles/7cebbe5e.json)
 
 [Extended Data](ext_articles/7cebbe5e.ext.json)
-
----
-
-### NAITA and Megakem Engineering launch trade certification programme for waterproofing technicians in Sri Lanka
-
-*2024-12-08 18:47:00* · [`islandlk`](http://island.lk/naita-and-megakem-engineering-launch-trade-certification-programme-for-waterproofing-technicians-in-sri-lanka/) · `en`
-
-Megakem Engineering has signed an agreement with the National Apprentice and Industrial Training Authority (NAITA) to launch a Certification Program for the National Trade Test in Waterproofing Technicians.
-
-This initiative marks the first time in Sri Lanka that such a certification has been introduced for technicians in the waterproofing industry. The agreement was formalized with the participation of Ruchika Amarasekara, Chairman of NAITA, and Ashoka Siriwardena, Group Chairman of Wardena Venture Holdings, underlining the strategic collaboration between two industry leaders.
-
-This certification program aims to uplift the skills and standards of waterproofing technicians in the country, providing them with professional recognition and enhancing their technical expertise. Megakem Engineering has plans to extend this certification to the international level, contributing to the global recognition of Sri Lankan waterproofing community.
-
-...
-
-[Data](articles/5f78df42.json)
 
 ---
 
@@ -2421,5 +2325,119 @@ A three -wheeler on the Kattankudi road on the Kalmunai - Batticaloa main road h
 [Data](articles/a25f030d.json)
 
 [Extended Data](ext_articles/a25f030d.ext.json)
+
+---
+
+### Imported Rice to the island next week?
+
+*2024-12-08 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204156) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Imported rice arrives next week. Government lifts import tax. Control prices set. President orders immediate distribution. Traders receive stocks at controlled rates."
+
+🟩
+
+Essential Food Materials Association says that imported rice will be available next week.
+
+A spokesman said that several importers have already ordered rice stocks according to the instructions provided by the government to import rice.
+
+The rice bulk is ordered by India and Pakistan and the stock of bulk will be available in the coming week.
+
+The Cabinet recently decided to give the importers to the importation of rice directly to importers directly to the lack of rice.
+
+Accordingly, the imported tax imposed on rice was awarded by the government, granted permission to import and import rice from 04 to the 20th.
+
+Meanwhile, it is reported that President Anura Kumara Dissanayake has been receiving rice stocks to shops under control prices.
+
+The rice mill owners are working to provide rice to the control price this morning.
+
+The government has taken steps to impose a new control price for rice in a discussion held in the country yesterday afternoon.
+
+...
+
+[Data](articles/a305f26a.json)
+
+[Extended Data](ext_articles/a305f26a.ext.json)
+
+---
+
+### Does the Government of India weaken the Tamil parties?
+
+*2024-12-08 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200713) · `ta`
+
+India government influence on Tamil parties debated. National People's Power criticized by Tamil party presence. Fisherminister Ramalingam Chandrasekhar addresses fisherman issues. Election impact uncertain.
+
+🟩
+
+The functions of the National People's Power in the North and East will be questioned by the presence of the Tamil national parties.. A few days before the general election, a street was released in Valikamam. Fisheries Minister Ramalingam Chandrasekhar is expressing his firm position on the problems of the fishermen.
+
+◼️
+
+[Data](articles/96c0cac5.json)
+
+[Extended Data](ext_articles/96c0cac5.ext.json)
+
+---
+
+### Japan aids people affected by the weather weather
+
+*2024-12-08 12:39:35* · [`adalk`](https://www.ada.lk/breaking_news/අහපත්-කාලගුණයෙන්-පීඩාවට-පත්-ජනතාවට-ජපානයෙන්-ආධාර/11-413514) · `si`
+
+Japan provides Rs. 300 million aid for weather relief efforts.
+
+🟩
+
+The Japanese government has given a large haul of Rs. 300 million to distribute the distribution of the inclement weather.
+
+◼️
+
+[Data](articles/3b4f55cb.json)
+
+[Extended Data](ext_articles/3b4f55cb.ext.json)
+
+---
+
+### Census 2024: Department urges public to cooperate with enumerators
+
+*2024-12-08 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104077/census-2024-department-urges-public-to-cooperate-with-enumerators) · `en`
+
+The Department of Census and Statistics has assured the public that there is no cause for concern in providing information to enumerators conducting the ongoing Population and Housing Census 2024.
+
+Director General of the department Anoja Seneviratne emphasized the importance of full public cooperation for the success of this national exercise.
+
+Speaking to the media, Mrs. Seneviratne acknowledged reports of some households refusing to share information. She reassured citizens that the data collected would remain confidential and would not be used for personal decision-making and that instead, it will serve as a foundation for shaping national policies and plans for the next decade.
+
+...
+
+[Data](articles/a766e6bf.json)
+
+[Extended Data](ext_articles/a766e6bf.ext.json)
+
+---
+
+### Japan provides aid worth Rs. 300M to Sri Lanka flood victims
+
+*2024-12-08 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104076/japan-provides-aid-worth-rs-300m-to-sri-lanka-flood-victims) · `en`
+
+The Japanese government has extended aid worth around Rs. 300 million to Sri Lanka to support people affected by the recent adverse weather conditions.
+
+The emergency supplies, arranged through the Japanese Embassy in Sri Lanka and the Japan International Cooperation Agency (JICA), were delivered via a special cargo plane that arrived at Bandaranaike International Airport (BIA) last night (07).
+
+The supplies were handed over to local authorities for distribution by the Japanese Ambassador to Sri Lanka, Isomata Akio.
+
+The relief materials are scheduled to be handed over to the relevant District Secretaries for distribution to the people affected by the adverse weather conditions.
+
+Additionally, the Indian government has also provided relief assistance to those affected by adverse weather conditions in Sri Lanka’s Northern Province.
+
+Distribution of the relevant materials were carried out yesterday (07), benefiting 2,100 families in Pesalai, Vellankulam, Thunukkai, and Manthai areas.
+
+◼️
+
+[Data](articles/a3f8a39c.json)
+
+[Extended Data](ext_articles/a3f8a39c.ext.json)
 
 ---

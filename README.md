@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 02:42:14**
+As of **2024-12-10 03:01:06**
 
 ## Newspaper Stats
 
-*Scraped **59,333** Articles*
+*Scraped **59,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 602
 bbccomsinhala | 619
 islandlk | 3,572
 economynextcom | 3,603
-dailyftlk | 4,084
+dailyftlk | 4,085
 dailymirrorlk | 4,733
 adalk | 5,626
 adaderanalk | 7,215
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,323 (100.0%) of 59,333 articles have been extended.
+59,323 (100.0%) of 59,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Roar Global celebrates 10 years of digital transformation in APAC region
+
+*2024-12-10 02:53:50* · [`dailyftlk`](https://www.ft.lk/business/Roar-Global-celebrates-10-years-of-digital-transformation-in-APAC-region/34-770296) · `en`
+
+Roar Global, Sri Lanka’s leading provider of platform-specific digital marketing solutions, celebrated 10 years of pioneering digital transformation in the APAC region with its clients and partners.
+
+The event, held at the newly inaugurated Cinnamon Life at City of Dreams, brought together industry leaders, experts, clients, and Roar’s valued partners to reflect on the company’s remarkable journey and unveil its ambitious vision for the future.
+
+The evening commenced with a warm welcome from Roar Global Founder and CEO Mustafa Kassim, who shared the origins of Roar and reflected on its milestones and key achievements over the past 10 years. Founded in 2014 with a mission to redefine digital media and marketing in Sri Lanka, Roar has evolved into a global brand with a diverse portfolio of business units, each driving digital transformation in their respective fields.
+
+...
+
+[Data](articles/dccb7d97.json)
+
+---
 
 ### உரிய முறைக்கு புறம்பாக எவருக்கும் மதுபான அனுமதிப்பத்திரம் வழங்கவில்லை - ரணில்
 
@@ -2293,23 +2309,5 @@ Janith Madushangkha, a powerful drug dealer, has been released on bail.
 [Data](articles/73fad28f.json)
 
 [Extended Data](ext_articles/73fad28f.ext.json)
-
----
-
-### Sri Lanka can boost trade with Europe through improved social standards - Dutch Ambassador
-
-*2024-12-09 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104103/sri-lanka-can-boost-trade-with-europe-through-improved-social-standards-dutch-ambassador) · `en`
-
-The Ambassador of the Kingdom of the Netherlands to Sri Lanka, Bonnie Horbach, stated that if Sri Lanka improves its social standards, the island nation could gain a competitive advantage over other countries in the region when expanding trade in value-added products with European markets.
-
-Speaking on Ada Derana’s current affairs program ‘@HydePark’, the Dutch Ambassador elaborated that European countries are willing to pay higher prices for goods that meet their ethical practices standards.
-
-Commenting on the recent return of Sri Lankan colonial-era artifacts looted by the Dutch, the Ambassador noted that Netherlands would continue to collaborate with Sri Lanka to conduct further research and foster a deeper understanding of the historical relationship between the two nations.
-
-...
-
-[Data](articles/9d81c713.json)
-
-[Extended Data](ext_articles/9d81c713.ext.json)
 
 ---

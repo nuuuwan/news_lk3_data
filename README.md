@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 19:18:00**
+As of **2024-12-09 20:01:21**
 
 ## Newspaper Stats
 
-*Scraped **59,290** Articles*
+*Scraped **59,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,87 @@ islandlk | 3,572
 economynextcom | 3,601
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,622
+adalk | 5,623
 adaderanalk | 7,212
-tamilmirrorlk | 8,468
+tamilmirrorlk | 8,469
 virakesarilk | 9,720
-adaderanasinhalalk | 10,250
+adaderanasinhalalk | 10,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,275 (100.0%) of 59,290 articles have been extended.
+59,280 (100.0%) of 59,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### CCD முன்னாள் பணிப்பாளர் CID யினரால் கைது
+### அரிசி வர்த்தகர்களுக்கு எதிராக கடும் நடவடிக்கை - ஜனாதிபதி
+
+*2024-12-09 19:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-வர்த்தகர்களுக்கு-எதிராக-கடும்-நடவடிக்கை-ஜனாதிபதி/175-348505) · `ta`
+
+நாட்டில் நிலவும் அரிசி தட்டுப்பாட்டை உடனடியாக நிவர்த்திக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதி அனுரகுமார திசாநாயக்க அரிசி வர்த்தகர்களுக்கு ஆலோசனை வழங்கியுள்ளார்.
+
+சந்தையில் அதிகரித்துள்ள அரிசி தட்டுப்பாட்டுக்கான தீர்வு தொடர்பில் ஜனாதிபதி செயலகத்தில் இடம்பெற்ற விஷேட சந்திப்பில் அவர் இந்த ஆலோசனையை வழங்கியுள்ளார்.
+
+அரசாங்கத்தின் தீர்மானத்திற்கு இணங்க முடியாவிடின், அதற்கு எதிராக கடும் நடவடிக்கை எடுக்க நேரிடும் என்றும் ஜனாதிபதி எச்சரித்துள்ளார்.
+
+சந்தையில் நிலவும் அரிசி தட்டுப்பாட்டிற்குத் தீர்வு காண்பதற்காக ஜனாதிபதி அனுரகுமார திசாநாயக்க 2 தடவைகள் அரிசி ஆலை உரிமையாளர்களைச் சந்தித்துக் கலந்துரையாடியிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/e393571b.json)
+
+---
+
+### Man remanded for defrauding banking account and cheated Rs
+
+*2024-12-09 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204204) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo Chief Magistrate orders suspect remanded for defrauding banking account. Suspect claimed unauthorized account, sold land online. CID investigation reveals fraud involving multiple individuals. Remand extended until 19th.
+
+🟩
+
+Colombo Chief Magistrate Thilina Gamage ordered that a suspect who was saying that the bank account was unauthorized in Nugegoda today (9 million) was remanded until the 19th.
+
+A resident of Kolonnawa area was ordered to be remanded.
+
+A resident of Thilakratne Mawatha in Nugegoda was a complaint lodged by the Criminal Investigation Department's Computer Criminal Investigation Division and was produced before the court.
+
+The investigatory officers were produced before the court to sell the land to the court and that the complaint had been internet access to the sale of land.
+
+The suspect had taken the account number of the arrival of the arrival of the arrival in a computer database and entered the plaintiff.
+
+The Investigation Officers have revealed that the suspect has taken this fraudulent act together with another people who have been involved in him or others.
+
+...
+
+[Data](articles/3a4ce364.json)
+
+[Extended Data](ext_articles/3a4ce364.ext.json)
+
+---
+
+### Arrested by former Director of CCD CID
 
 *2024-12-09 18:43:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CCD-முன்னாள்-பணிப்பாளர்-CID-யினரால்-கைது/175-348504) · `ta`
 
-கொழும்பு குற்றத்தடுப்புப் பிரிவின் (CCD) முன்னாள் பணிப்பாளர் ASP நெவில் சில்வா குற்றப் புலனாய்வுப் பிரிவினரால் (CID) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+N
+
+🟩
+
+Former Director of the Colombo Criminal Investigation Division (CCD) ASP Neville Silva Silva has been arrested by the Criminal Investigation Division (CID). Remble
 
 ◼️
 
 [Data](articles/5ecffce6.json)
+
+[Extended Data](ext_articles/5ecffce6.ext.json)
 
 ---
 
@@ -58,21 +114,29 @@ Under the theme “Let us be exemplary pioneers of a proud nation,” the event 
 
 [Data](articles/50a58998.json)
 
+[Extended Data](ext_articles/50a58998.ext.json)
+
 ---
 
-### සහකාර පොලිස් අධිකාරී නෙවිල් සිල්වා අත්අඩංගුවට
+### Assistant Superintendent of Police Neville Silva arrested
 
 *2024-12-09 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204203) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසයේ (CCD) හිටපු අධ්‍යක්ෂ, සහකාර පොලිස් අධිකාරී නෙවිල් සිල්වා මහතාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+Neville Silva, former CCD Director, arrested by CID for abduction and misconduct.
 
-පොලීසිය පැවසුවේ ඔහුව පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේදී අත්අඩංගුවට ගත් බවයි.
+🟩
 
-පැහැරගෙන යෑමේ සහ අයුතු සිරකර ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් ඔහුව අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+Former Director of the Colombo Crimes Division (CCD), Assistant Superintendent of Police Neville Silva has been arrested by the CID.
+
+The police said that he was arrested at the Police Field Force Headquarters.
+
+He has been arrested in connection with abduction and misbehavior.
 
 ◼️
 
 [Data](articles/dce97d4b.json)
+
+[Extended Data](ext_articles/dce97d4b.ext.json)
 
 ---
 
@@ -116,23 +180,33 @@ The Minister should implement this by introducing the legal provisions for peopl
 
 ---
 
-### ජාත්‍යන්තර දූෂණ විරෝධී ජාතික සැමරුමට ආ ජනපති කළ හෙළිදරව්ව
+### President's revelation
 
 *2024-12-09 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204202) · `si`
 
-තමා වෙත පැවරී ඇති බලතල අනුව වංචාව, දූෂණය මැඩපැවැත්වීම වෙනුවෙන් කැපවෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a summary of 200 characters:
 
-ජනාධිපතිවරයා ඒ බව සඳහන් කළේ ජාත්‍යන්තර දූෂණ විරෝධී ජාතික සැමරුම් වැඩසටහනට එක්වෙමිනි.
 
-එහිදී ජනාධිපතිවරයා වැඩිදුරටත් පවසා සිටියේ, බලය හොබවන පුද්ගලයින් සිය වගකීම හා යුතුකම නිසි ලෙස ඉටුනොකරන්නේ නම් නීති තීබීමෙන් ප්‍රතිඵලයක් නොමැති බවය.
 
-ජාත්‍යන්තර දූෂණ විරෝධී ජාතික සැමරුම වැඩසටහන අද (12) බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් පැවැත්වුණි.
+Pres. Anura Kumara Dissanayake speaks out against corruption, stating it's used to maintain power. He emphasizes rebuilding the entire system rather than just restructuring agencies. The Pres. highlights recent punishments but notes public trust in justice remains low.
 
-එම වැඩසටනෙහි තේමාව වූයේ "අභිමානවත් ජාතියක ආදර්ශමත් පෙරගමන්කරුවන් වෙමු" යන්නයි.
+🟩
+
+President Anura Kumara Dissanayake says that the fraud and corruption is committed to suppressing corruption depending on the powers.
+
+The President made this statement participating at the anti-corruption National Commemoration Program.
+
+The President added that the legal offenses do not have the result if the responsibility and the duty of the power is done properly.
+
+The International Corruption National Celebration was held under the patronage of the President at the Bandaranaike Memorial International Conference Hall today (12).
+
+The theme of that program was "Example of a Proud Nation,".
 
 ...
 
 [Data](articles/8b682230.json)
+
+[Extended Data](ext_articles/8b682230.ext.json)
 
 ---
 
@@ -173,6 +247,26 @@ According to Stalin, the first letter, dated November 11, indicated that staff t
 [Data](articles/2c2ebf30.json)
 
 [Extended Data](ext_articles/2c2ebf30.ext.json)
+
+---
+
+### පොඩි ලැසීට ඇප
+
+*2024-12-09 17:10:32* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ලැසීට-ඇප/11-413540) · `si`
+
+සංවිධානාත්මක  අපරාධකරුවෙක් යයි සැලකෙන  අරුමාහන්දි ජනිත් මධුසංක නොහොත් පොඩී ලැසී නමැත්තා අද (9) බලපිටිය මහේස්ත්‍රාත් ආර්.ඩී.ජානක මහතා ඇපමත මුදාහරින ලෙස නියෝග කළේය.
+
+බලපිටිය මහාධිකරණයෙන් නියෝග කරන ලද රුපියල් ලක්ෂ දහයක වත්කම් ඇපයක් අද (9) සම්පූර්ණ කිරීම සැලකිල්ලට ගත් මහේස්තාත්වරයා අරුමාහන්දි ජනිත් මධුසංක නමැත්තාට ඇප ලබාදෙන ලෙස  අද (9) නියෝග කළේය.
+
+2017 වසරේ මත් කුඩු ග්‍රෑම් දෙකක් සන්තකයේ තබා ගැනීම ඇතුලු චෝදනා රැසක් සම්බන්ධයෙන් අම්බලන්ගොඩ පොලීසිය විසින්  බලපිටිය මහාධිකරණයේ ගොනු කරන ලද නඩුවකට අරුමාහන්දි ජනිත් මධුසංක ද සිල්වා නමැත්තා රක්ෂිත බන්ධනාගාර ගතව සිටියේය.
+
+පොලීසිය ඉදිරිපත් කළ මත් කුඩු ග්රෑම් දෙක රස පරීක්ෂකවරයාට යැවීමෙන් පසු එම මත්කුඩු පමාණය මිලි ග්රෑම් තිස්දෙකක් බවට වාර්තාව ලැබීමෙන් පසුව පොඩි ලැසී නමැත්තාගේ නඩුව බලපිටිය මහේස්තාත් අධිකරණයට මහාධිකරණය විසින් යොමුකරන ලදි.
+
+තවද මේ නඩුව සම්බන්ධයෙන් පොඩි ලැසී නමැත්තාට ඇප ලබාදීමට නම් ලක්ෂ දහයක වත්කම් ඇපයක් ලබාදිය යුතු බව මහාධිකරණයෙන් නියෝග කරන ලදි.
+
+...
+
+[Data](articles/5359165f.json)
 
 ---
 
@@ -2207,77 +2301,5 @@ Ipalogama police are conducting further investigations to arrest the crime suspe
 [Data](articles/7d0fef0e.json)
 
 [Extended Data](ext_articles/7d0fef0e.ext.json)
-
----
-
-### North and East to rain
-
-*2024-12-09 08:23:14* · [`adalk`](https://www.ada.lk/breaking_news/උතුරට-හා-නැගෙනහිරට-හෙට-සිට-වැස්ස-වැඩිවෙයි/11-413528) · `si`
-
-Rain forecast: Low pressure system affects North, East, and Central regions. Expect heavy showers in Western and Sabaragamuwa provinces.
-
-🟩
-
-Low pressure zone in the area of ​​the Southony Bay Bay Sea. According to the department, the increase in the North and East will be expected to increase in the North and East due to the impact of the system.
-
-The department states that there will occur in the North and East and the Matale district today.
-
-Showers and nights in the Western and Sabaragamuwa provinces have occurred at several places in the Matara, Matara, Nuwara Eliya and the Kandy district.. Heavy showers can occur around 75, the Department said.
-
-◼️
-
-[Data](articles/6ab67f2f.json)
-
-[Extended Data](ext_articles/6ab67f2f.ext.json)
-
----
-
-### Former President Mahinda Rajapaksa in Russia
-
-*2024-12-09 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204179) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Former Pres. Mahinda Rajapaksa in Russia. Former Pres. Bashar al-Assad flees Syria after rebels capture major cities. Russian authorities offer refuge to Assad and family.
-
-🟩
-
-Former President Bashar al-Assand has gone to Moscow, Russia, has gone to Moscow, Russia.
-
-Russian authorities say that Azad and his family members provide refuge in Russia.
-
-The rebels of the organization of Hayat Tahrir Al-sham launched an attack on Azad's rulership on November 27.
-
-In a few days, the rebels were able to grip the major cities of the country.
-
-They entered Damascus yesterday and later reported that President A Sadnene fled the country.
-
-◼️
-
-[Data](articles/758fd15c.json)
-
-[Extended Data](ext_articles/758fd15c.ext.json)
-
----
-
-### Sri Lanka Navy marks 74 years of excellence with 2,138 promotions
-
-*2024-12-09 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104088/sri-lanka-navy-marks-74-years-of-excellence-with-2138-promotions) · `en`
-
-The Sri Lanka Navy, renowned for its storied history as the nation’s maritime defence force, is celebrating its 74th Anniversary today (9).
-
-Under the able leadership of Commander of the Navy, Vice Admiral Priyantha Perera, a series of programmes are being conducted across all Naval Commands, highlighting the Navy’s enduring traditions and religious practices as part of the anniversary festivities.
-
-Issuing a statement, the Sri Lanka Navy said that in celebration of the Navy’s Anniversary, a total of 2138 senior and junior sailors have been advanced to higher rates as of today (9), following the recommendation of the Commander of the Navy, Vice Admiral Priyantha Perera.
-
-The advancements include 158 to Ordinary Seaman, 279 to Able Seaman, 406 to Leading Seaman, 391 to Petty Officer, 539 to Chief Petty Officer, 354 to Fleet Chief Petty Officer, and 11 to Master Chief Petty Officer.
-
-...
-
-[Data](articles/8037bdd7.json)
-
-[Extended Data](ext_articles/8037bdd7.ext.json)
 
 ---

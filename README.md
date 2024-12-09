@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 02:14:41**
+As of **2024-12-10 01:26:39**
 
 ## Newspaper Stats
 
-*Scraped **59,321** Articles*
+*Scraped **59,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 602
 bbccomsinhala | 619
 islandlk | 3,572
 economynextcom | 3,603
-dailyftlk | 4,084
+dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,626
 adaderanalk | 7,215
@@ -26,59 +26,9 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,320 (100.0%) of 59,321 articles have been extended.
+59,318 (100.0%) of 59,318 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-12-10 (Tuesday)
-
-### NPP’s pragmatism and the political economy
-
-*2024-12-10 01:44:37* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-pragmatism-and-the-political-economy/4-770281) · `en`
-
-By implementing reforms to strengthen governance, improve public institutions, and foster economic self-reliance, the Government can mitigate some of the risks posed by the agreements
-
-Sri Lanka finds itself at a pivotal moment as President Anura Kumara Dissanayake announced that the country aims to complete its debt restructuring agreements by December 2024, with plans to resume loan repayments in 2028. The National People’s Power (NPP) Government has inherited an agreement with the International Monetary Fund (IMF) that Ranil Wickremesinghe and his Government burdened the country with which is potentially deleterious. Within that context the timeline is ambitious to navigate the complex web of economic recovery, social protection, and political consolidation. Despite the serious shortcomings of these agreements, the Government needs to take calculated measures to stabilise the nation in pragmatic ways.
-
-...
-
-[Data](articles/ca0f1078.json)
-
-[Extended Data](ext_articles/ca0f1078.ext.json)
-
----
-
-### To not sweat the small stuff in education: Decentralise and delegate responsibilities
-
-*2024-12-10 01:37:36* · [`dailyftlk`](https://www.ft.lk/columns/To-not-sweat-the-small-stuff-in-education-Decentralise-and-delegate-responsibilities/4-770280) · `en`
-
-The larger problem is that there are no certification requirements for teachers in Sri Lanka
-
-Rice shortages and the Maaveerar celebrations in the north and reporting of the same in the south are issues that took centre stage last week. These are issues that shape a practical ideology for the new Government as it transitions from election promises to the reality of governing. As for rice shortages, it is time for the Cabinet to put its heads together and learn about the limits of State intervention in the marketplace and adopt appropriate responses. In the second case, the Government can use the situation as an opportunity to form a new narrative on our race relations.
-
-...
-
-[Data](articles/69a39179.json)
-
----
-
-### Sri Lanka electricity sector growth: Challenges ahead
-
-*2024-12-10 01:30:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-electricity-sector-growth-Challenges-ahead/4-770279) · `en`
-
-Harnessing RE resources offers energy security and creates avenues for investment with skilled job opportunities opening for management, financial and technical specialists
-
-Some of the factors that discourage investment flow and impede rapid development are the current sovereign credit risk ratings, state of the economy, risks associated with the principal sector player – the CEB, uncertainties associated with ongoing power sector reforms, cumbersome regulatory framework and seeming ineffectiveness of the regulator – PUCSL, expressions of environmental concern and geopolitics that influences project financing and development
-
-I was an attendee at the International Conference on “Reimagining of the Electricity Industry for the Future” held on 28 November 2024 organised by the Sri Lanka branch of The Institution of Engineering and Technology. The event was well attended and enlightening. My sincere thanks to the organisers for staging this impressive event.
-
-...
-
-[Data](articles/a03c0497.json)
-
-[Extended Data](ext_articles/a03c0497.ext.json)
-
----
 
 ### 2024-12-09 (Monday)
 
@@ -2379,5 +2329,79 @@ The president of the Court of Appeal Court, the president of the Court of Appeal
 [Data](articles/d65e4576.json)
 
 [Extended Data](ext_articles/d65e4576.ext.json)
+
+---
+
+### The pistol emerged from a container
+
+*2024-12-09 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204185) · `si`
+
+Pistol found in container at Meethotamulla. STF suspects criminal intent. No arrests yet. Weapons handed to Wellampitiya Police for investigation.
+
+🟩
+
+Special Task Force personnel found in a container in the Meethotamulla area and the police STF personnel have been recovered.
+
+The pistol weapon has found this pistol weapon, under a container container, under the Methotamulla Health Medical Officer's Office.
+
+The STF suspicles that the pistol weapon was hidden in the view of committing a crime.
+
+No suspects have been arrested so far and the two pistols and magazines have been handed over to the Wellampitiya Police Station for further investigations.
+
+◼️
+
+[Data](articles/966afe40.json)
+
+[Extended Data](ext_articles/966afe40.ext.json)
+
+---
+
+### 40 schools in India closed due to a bomb threatening
+
+*2024-12-09 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204186) · `si`
+
+Bomb threats close 40+ schools in India; 44 in Delhi receive letters; police investigate; children evacuated; firefighters and dogs deployed. Similar incidents occurred in September.
+
+🟩
+
+The information regarding the bomb threats has been temporarily closed due to information on bombs.
+
+The bombs were threatened by the e-mail and this morning and today (09).
+
+44 schools in Delhi have received letters to the bomb threats.
+
+Accordingly, the Indian police have commenced investigations into the matter and they have also taken steps to commence the children to the homes this morning.
+
+In addition to the police officers, firefighters, bomb idle areas and official dogs have been used by official dogs.
+
+In September and several schools in India were threatened with the bomb threatening and later became false warrants.
+
+◼️
+
+[Data](articles/f867f8c2.json)
+
+[Extended Data](ext_articles/f867f8c2.ext.json)
+
+---
+
+### Lohan Radhavatte in court
+
+*2024-12-09 11:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-லொஹான்-ரதவத்தே/175-348467) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Lohan Ratwatte appeared in court today after arrest and interrogation. He was brought to the Colombo Fort Magistrate's Court this morning.
+
+🟩
+
+Former Minister of State Lohan Ratwatte, who was arrested and interrogated, was brought to the Colombo Fort Magistrate's Court this morning.. Remble
+
+◼️
+
+[Data](articles/06617811.json)
+
+[Extended Data](ext_articles/06617811.ext.json)
 
 ---

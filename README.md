@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 06:48:19**
+As of **2024-12-09 05:51:59**
 
 ## Newspaper Stats
 
-*Scraped **59,166** Articles*
+*Scraped **59,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 617
-islandlk | 3,556
+islandlk | 3,555
 economynextcom | 3,593
 dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,606
 adaderanalk | 7,185
-tamilmirrorlk | 8,447
+tamilmirrorlk | 8,446
 virakesarilk | 9,711
 adaderanasinhalalk | 10,225
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,164 (100.0%) of 59,166 articles have been extended.
+59,164 (100.0%) of 59,164 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,22 +55,6 @@ Police said two men on a motorbike were shot dead on a motorcycle.
 [Data](articles/2340be9f.json)
 
 [Extended Data](ext_articles/2340be9f.ext.json)
-
----
-
-### கிணற்றுக்குள் இருந்து பெண்ணின் சடலம் மீட்பு
-
-*2024-12-09 03:03:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றுக்குள்-இருந்து-பெண்ணின்-சடலம்-மீட்பு/175-348456) · `ta`
-
-யாழ். பருத்தித்துறை பொலிஸ் பிரிவில் கற்கோவளம் - வராத்துப்பளை பகுதியில் குடும்பப் பெண் ஒருவரின் சடலம் கம்பி வலையால் மூடப்பட்ட பொதுக்கிணற்றுக்குள் இருந்து மீட்கப்பட்டுள்ளது.
-
-தனது தாயாரை நேற்றுமுன்தினம் பிற்பகலில் இருந்து காணவில்லை என அவரது குடும்பத்தினர் தேடிச் சென்ற வேளை  கம்பி வலையால் மூடிய கிணற்றடிப் பகுதியில் தொலைபேசி சத்தம் ஒலித்த நிலையில் அந்தக் கிணற்றை அவரது மகன் எட்டிப் பார்த்த வேளை சடலம் காணப்பட்டுள்ளது.
-
-இவ்வாறு சடலமாகக் காணப்பட்டவர் மூன்று பிள்ளைகளின் தாயான விமலன் சிந்து என்கின்ற 42 வயதுடைய தாயார் ஆவார்.
-
-◼️
-
-[Data](articles/4cc4c7a1.json)
 
 ---
 
@@ -2485,5 +2469,29 @@ The body was kept in the funeral room of the Polonnaruwa Hospital and the motorc
 [Data](articles/6e59d622.json)
 
 [Extended Data](ext_articles/6e59d622.ext.json)
+
+---
+
+### Young man's naked video `` Whats Up
+
+*2024-12-08 11:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனின்-நிர்வாண-காணொளி-வாட்ஸ்-அப்-எண்களுக்கு/175-348420) · `ta`
+
+Three arrested for abducting man sending nude videos to girlfriend via WhatsApp in Sri Lanka. Police seize motorcycles and phones.
+
+🟩
+
+Kahatuduwa police said that three persons have been arrested for allegedly abducting and kidnapping a young man who sent porn videos to his foreign girlfriend via WhatsApp.
+
+The 22,24,28 -year -old from the Kahatuduwa Sri Sumana Road and Polgus Ovitti has been arrested.
+
+Video has been sent to the number of WhatsApp, who was on the phone, taking a video of the abducted young man naked and provoking it.
+
+The father of the attacker, the father of the attacker, has been arrested by the police in connection with the complaint and two motorcycle and mobile phones have been seized.
+
+◼️
+
+[Data](articles/2db047c6.json)
+
+[Extended Data](ext_articles/2db047c6.ext.json)
 
 ---

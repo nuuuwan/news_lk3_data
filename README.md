@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 20:01:21**
+As of **2024-12-09 20:27:15**
 
 ## Newspaper Stats
 
-*Scraped **59,293** Articles*
+*Scraped **59,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,623
 adaderanalk | 7,212
-tamilmirrorlk | 8,469
+tamilmirrorlk | 8,470
 virakesarilk | 9,720
 adaderanasinhalalk | 10,251
 
@@ -26,27 +26,65 @@ adaderanasinhalalk | 10,251
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,280 (100.0%) of 59,293 articles have been extended.
+59,283 (100.0%) of 59,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
 
-### அரிசி வர்த்தகர்களுக்கு எதிராக கடும் நடவடிக்கை - ஜனாதிபதி
+### A new idea to control animal proliferation
+
+*2024-12-09 20:01:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலங்குப்-பெருக்கத்தைக்-கட்டுப்படுத்த-புதிய-யோசனை/175-348506) · `ta`
+
+New idea: Control animal population through "small family" concept. Former politician introduced "Punji Paula Ratan" to Sinhala community in 1980s. Now applied to animals, leading to overpopulation. Government proposes culling damaged crops. Religious leader criticizes plan, accuses of ethnic cleansing.
+
+🟩
+
+The President of Janaseeta Peramuna, Battaramulla Seelaratana Thera, said that the concept of "small family" (Punji Paula Rataran) introduced to the Sinhala community by a former politician should be used to control their population.
+
+In response to a comment made by Agriculture Minister KD Lalkantha in Parliament, Thera made this statement.
+
+Commenting on the media, Seelaratana Thera said the idea of ​​'Punji Paula Ratan' was introduced in the 1980s to destroy the Sinhalese.
+
+"Once this concept is used for animals, they will also gradually experience destruction. However, this concept has increased the number of animals, and now the government recommends that the government attack the number of animals, ”Thera said.
+
+Minister Lalgantha recently proposed in Parliament to allow people to take action against the animals that destroy crops.
+
+Thera argued that the government has approved the killing of animals that damage crops.
+
+...
+
+[Data](articles/b8f97e5a.json)
+
+[Extended Data](ext_articles/b8f97e5a.ext.json)
+
+---
+
+### Strong action against rice traders - President
 
 *2024-12-09 19:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-வர்த்தகர்களுக்கு-எதிராக-கடும்-நடவடிக்கை-ஜனாதிபதி/175-348505) · `ta`
 
-நாட்டில் நிலவும் அரிசி தட்டுப்பாட்டை உடனடியாக நிவர்த்திக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதி அனுரகுமார திசாநாயக்க அரிசி வர்த்தகர்களுக்கு ஆலோசனை வழங்கியுள்ளார்.
+Here's a summary of 200 characters:
 
-சந்தையில் அதிகரித்துள்ள அரிசி தட்டுப்பாட்டுக்கான தீர்வு தொடர்பில் ஜனாதிபதி செயலகத்தில் இடம்பெற்ற விஷேட சந்திப்பில் அவர் இந்த ஆலோசனையை வழங்கியுள்ளார்.
 
-அரசாங்கத்தின் தீர்மானத்திற்கு இணங்க முடியாவிடின், அதற்கு எதிராக கடும் நடவடிக்கை எடுக்க நேரிடும் என்றும் ஜனாதிபதி எச்சரித்துள்ளார்.
 
-சந்தையில் நிலவும் அரிசி தட்டுப்பாட்டிற்குத் தீர்வு காண்பதற்காக ஜனாதிபதி அனுரகுமார திசாநாயக்க 2 தடவைகள் அரிசி ஆலை உரிமையாளர்களைச் சந்தித்துக் கலந்துரையாடியிருந்தமை குறிப்பிடத்தக்கது. R
+President Anura Kumara Dissanayake warns rice traders about immediate action to address shortages. He met twice with mill owners. Government must comply; otherwise, stern action will be taken.
+
+🟩
+
+President Anura Kumara Dissanayake has advised rice traders to take immediate steps to address the rice shortage in the country.
+
+He made this suggestion at a special meeting held at the Presidential Secretariat regarding the increase in rice shortages in the market.
+
+The president has warned that if the government does not comply with the decision, it will take stern action against it.
+
+President Anuragumara Dissanayake has met with the owners of the rice mill 2 times to address the rice shortage in the market.. Remble
 
 ◼️
 
 [Data](articles/e393571b.json)
+
+[Extended Data](ext_articles/e393571b.ext.json)
 
 ---
 
@@ -210,23 +248,29 @@ The theme of that program was "Example of a Proud Nation,".
 
 ---
 
-### මත්ද්‍රව්‍ය සමග අරාබි මුහුදේදී කොටුකරගත් සැකකරුවන් රිමාන්ඩ්
+### Suspects remanded at Arabic Sea with drug
 
 *2024-12-09 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204200) · `si`
 
-පසුගියදා අරාබි මුහුදු ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය කිලෝ 355කට අධික ප්‍රමාණයක් සමඟ අත්අඩංගුවට ගන්නා ලද සැකකරුවන් 11දෙනා ලබන 17 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+Colombo Magistrate's Court remands 11 suspects for transporting over 355kg of ice from Arabian Sea. Further investigation requested. Remand extended until 17th. Suspects allegedly used 30 fertilizer bags for transport.
 
-පොලිස් මත්ද්‍රව්‍යනායක කාර්යාංශය විසින් මෙම සැකකරුවන් අද (09) කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා හමුවට ඉදිරිපත් කළේය.
+🟩
 
-මෙම සිද්ධියට අදාළ පරීක්ෂණ තවදුරටත් සිදු කරන බවත් සැකකරුවන් රක්ෂිත බන්ධනාගාරගත කරන ලෙසත් එම කාර්යාංශයේ නිලධාරීන් අධිකරණයෙන් ඉල්ලා සිටියේය.
+The Colombo Magistrate's Court ordered the 11 milestones with more than 355 kg of ice cast in the Arabian sea.
 
-එම ඉල්ලීම පිළිගත් මහෙස්ත්‍රාත්වරයා අදාළ සැකකරුවන් ලබන 17 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළේය.
+The suspects were produced before the Colombo Additional Magistrate Harshana Kekuna today (09).
 
-පොහොර උර 30ක එම මත්ද්‍රව්‍ය තොගය බහා මෙම සැකකරුවන් විසින් ප්‍රවාහනය කර තිබූ බවත් විමර්ශනවලදී අනාවරණය වී තිබුණි.
+The officials of the Bureau were also asked to remand further investigations into the incident and the suspects were to be remanded.
+
+Magistrate accepted the request to be remanded until the 17th of this month.
+
+Investigations revealed that the suspects were transported by the suspects in 30 fertilizer shoulder.
 
 ◼️
 
 [Data](articles/6bd2aee1.json)
+
+[Extended Data](ext_articles/6bd2aee1.ext.json)
 
 ---
 
@@ -2269,37 +2313,5 @@ He urged vehicle owners not to sell their vehicles at reduced prices due to spec
 [Data](articles/0d8bcdf4.json)
 
 [Extended Data](ext_articles/0d8bcdf4.ext.json)
-
----
-
-### Another murder was revealed
-
-*2024-12-09 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204180) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Murder investigation underway: 37-year-old man found dead in house near Ipalogama police division. Victim had consumed alcohol with another person before death. Police protecting victim's body and conducting further investigations to identify suspect.
-
-🟩
-
-Investigations have commenced investigations into a message from the police that a person was dead in a house near the Ipalogama police Division in the Ipalogama police Division.
-
-The deceased has been identified as 37 years, a resident of Walaweiwela.
-
-Investigations carried out at the police investigation, the death has been observed and has revealed that the death was a human murder.
-
-The deceased has drank alcohol with another person in his home and was currently suspicious of the murder.
-
-The body of the deceased is the incident under police protection for the meeting.
-
-Ipalogama police are conducting further investigations to arrest the crime suspect.
-
-◼️
-
-[Data](articles/7d0fef0e.json)
-
-[Extended Data](ext_articles/7d0fef0e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 10:16:35**
+As of **2024-12-09 10:28:03**
 
 ## Newspaper Stats
 
-*Scraped **59,209** Articles*
+*Scraped **59,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ dailymirrorlk | 4,733
 adalk | 5,608
 adaderanalk | 7,192
 tamilmirrorlk | 8,452
-virakesarilk | 9,713
+virakesarilk | 9,714
 adaderanasinhalalk | 10,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,188 (100.0%) of 59,209 articles have been extended.
+59,190 (100.0%) of 59,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
+
+### அரசாங்கம் மக்கள் ஆணையை புறக்கணித்து ரணிலின் சர்வதேச நாணய நிதிய இணக்கப்பாட்டையே முன்னெடுக்கிறது - சஜித்
+
+*2024-12-09 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/200767) · `ta`
+
+பெரும் மக்கள் ஆணையையும், கூடிய ஆசனங்களையும் பெற்று, பாராளுமன்ற வரத்தைப் பெற்றுக் கொண்ட தற்போதைய அரசாங்கம், தொடக்கத்தில் சர்வதேச நாணய நிதியத்தின் இணக்கப்பாடு குறித்து மக்களுக்கு அளித்த வாக்குறுதிகளை மறந்து விட்டு, ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அரசாங்கத்தினால் முன்னெடுத்து வரப்பட்ட சர்வதேச நாணய நிதியத்தின் கொள்கைகளையே தொடர்ந்தும் முன்னெடுத்து வருகின்றது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன தலைமையில் நீர்கொழும்பு பிரதேசத்தில் நேற்று ஞாயிற்றுக்கிழமை (08) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றும் போதே ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/5d865fbe.json)
+
+---
 
 ### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක්
 
@@ -188,19 +202,27 @@ While he suggested he would not seek a justice department investigation into Joe
 
 ---
 
-### වගා හානි කරන සත්තු ගැන වාර්තාවක් එළියට
+### A report on crop damaged animals
 
 *2024-12-09 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204181) · `si`
 
-වඳුරන් සහ රිළවුන් ඇතුළු මෙරට වගාවන්ට හානි කරන සතුන් සම්බන්ධයෙන් ගත යුතු යෝජනා ඇතුළත් වාර්තාවක් අද (09) දිනයේ දී පරිසර අමාත්‍යංශය සහ කෘෂිකර්ම අමාත්‍යංශය වෙත භාරදීමට කටයුතු කරන බව පරිසර හා සොබාදහම් අධ්‍යයන මධ්‍යස්ථානය පවසයි.
+Crop damage due to increased monkey population in Sri Lanka. Experts propose controlling methods including sterilization and relocation. Short-term solutions suggested to mitigate conflicts between humans and wildlife.
 
-එහි ජාතික සම්බන්ධීකාරක, පරිසරවේදී ආචාර්ය රවීන්ද්‍ර කාරියවසම් මහතා පැවසුවේ මේ වන විට මෙරට වඳුරන්ගේ සහ රිළවුන්ගේ ගහනය කැපී පෙනෙන ලෙස ඉහළ ගොස් ඇති අතර එම තත්ත්වය පාලනය කිරීමට ගත හැකි කෙටි කාලීන මෙන්ම දිගු කාලීන යෝජනා ද මෙහි ඇතුළත් බවය.
+🟩
 
-"ලංකාවේ රිළා ගහනය වැඩිවෙලා තියෙනවා. ඇත්තටම ඒකට හේතුව මේ අයව ස්වභාවිකව වද කරන විලෝපිතයින් නැති වීම. අනෙක් එක කැලේ තිබුණ ආහාර ප්‍රමාණයන් අඩුවීම හා වගාබිම් ආශ්‍රිතව කෑම වැඩිවුණාට පස්සේ, මේ අය ජනතාව ඉන්න ප්‍රදේශවලට ඇදෙන්න පටන් ගත්තා. මේ අය පාලනයට අපි යෝජනා කළා ලංකාවේ ආයතන 15ක් ඒකාබද්ධ කරලා යම් යාන්ත්‍රණයක් හදන්න කියලා. ඒ වගේම අද පරිසර අමාත්‍යවරයාට යෝජනාවක් භාරදෙනවා මේ සත්ත්ව ප්‍රජාව පාලනයට ගත යුතු පියවරයන් ගණනාවක් සඳහන් කරලා."
+The Environment and Nature Studies Center (Environment and Nature Studies) (Environment and Natural Studies) (Environment and Natural Study) Center said.
+
+The national coordinator, environmentally Dr. Ravindra Kariyawasam, the population of the Sri Lankan monkeys and the population has increased significantly and is the short-term and long term proposals to control the situation.
+
+"Sri Lanka has increased the population. Really, the loss of fastestines that are naturally bothered. After the decrease in the other, the decrease of food and the food in the cultivation, they began to drag in areas where the people. We proposed the governance to the control of 15 institutions in Sri Lanka and to build a mechanism. Also, a proposal to the Minister of Environment has been handed over to the Minister of Environment.
+
+Educational Dr. Ravindra Kariyawasam expressed these views on measures to control the similar situations in India.
 
 ...
 
 [Data](articles/0a4435d7.json)
+
+[Extended Data](ext_articles/0a4435d7.ext.json)
 
 ---
 
@@ -223,6 +245,8 @@ The Ipalogama Police are continuing investigations to apprehend the suspect invo
 ◼️
 
 [Data](articles/2389dd40.json)
+
+[Extended Data](ext_articles/2389dd40.ext.json)
 
 ---
 
@@ -2331,23 +2355,5 @@ Thus, fishing and naval communities are requested to be attentive to future fore
 [Data](articles/a1b931b2.json)
 
 [Extended Data](ext_articles/a1b931b2.ext.json)
-
----
-
-### Violence in Bangladesh: Attacks against minorities!
-
-*2024-12-08 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200708) · `ta`
-
-Bangladesh violence: Attacks on minorities continue. ISKCON leader Chinmoi Krishna Das reports Hindu temple attacks. Government orders social media restoration to combat spreading rumors.
-
-🟩
-
-Chinmoi Krishna Das, senior saint of ISKCon in Bangladesh. There are constant attacks on Hindu places of worship. The Bangladesh government has issued a directive to the restoration of the entire social media as rumors that violence are spreading.
-
-◼️
-
-[Data](articles/d1eab42f.json)
-
-[Extended Data](ext_articles/d1eab42f.ext.json)
 
 ---

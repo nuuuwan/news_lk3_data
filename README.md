@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 10:02:07**
+As of **2024-12-09 09:44:08**
 
 ## Newspaper Stats
 
-*Scraped **59,204** Articles*
+*Scraped **59,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 618
 islandlk | 3,571
-economynextcom | 3,596
+economynextcom | 3,593
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,608
-adaderanalk | 7,190
-tamilmirrorlk | 8,451
+adalk | 5,607
+adaderanalk | 7,188
+tamilmirrorlk | 8,448
 virakesarilk | 9,712
 adaderanasinhalalk | 10,232
 
@@ -26,65 +26,11 @@ adaderanasinhalalk | 10,232
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,185 (100.0%) of 59,204 articles have been extended.
+59,185 (100.0%) of 59,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
-
-### எம்.பி வாகனத்தில் மோதி பெண் மரணம்
-
-*2024-12-09 09:54:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-வாகனத்தில்-மோதி-பெண்-மரணம்/175-348464) · `ta`
-
-புத்தளம், பொலவத்தை சந்தியில் உள்ள  பாதசாரி கடவையில் நடந்து சென்ற யாசக  பெண் ஒருவர் மீது அகில இலங்கை தமிழ் காங்கிரஸின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் கஜேந்திர குமார் பொன்னம்பலம் பயணித்த ஜீப் மோதியதில் படுகாயமடைந்த பெண் வைத்தியசாலையில் அனுமதித்த பின்னர் உயிரிழந்துள்ளதாக வென்னப்புவ பொலிஸார் தெரிவித்தனர்.
-
-பாராளுமன்ற உறுப்பினர் திங்கட்கிழமை (8) அன்று  கொழும்பில் இருந்து யாழ்ப்பாணம் நோக்கி ஜீப்பில் பயணித்துக் கொண்டிருந்த போதே இவ் விபத்து இடம்பெற்றுள்ளது.
-
-விபத்து தொடர்பில் கஜேந்திர குமாரின்  சாரதியான ஹுன்னஸ்கிரிய பிரதேசத்தைச் சேர்ந்த 60 வயதுடைய நபர்  கைது செய்யப்பட்டு நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் பிணையில் விடுவிக்கப்பட்டதாக வென்னப்புவ பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/6d3ff094.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.35/45 to dollar, bonds steady
-
-*2024-12-09 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-35-45-to-dollar-bonds-steady-193029/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 290.35/45 to the US dollar on Monday from 290.40/48 to the US dollar on Friday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2027 was quoted at 10.05/15 percent, down from 10.10/20 percent.
-
-A bond maturing on 15.03.2028 was quoted stable at 10.40/50 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 10.80/90 percent.
-
-In equities, the All Share Price Index was up 0.31 percent or 42.80 points, at 13,656.
-
-The more liquid S&P SL20 was up 0.30 percent, or 12.12 points, at 4,074.
-
-◼️
-
-[Data](articles/8a0db48f.json)
-
----
-
-### சிரியா ஜனாதிபதி ரஷ்யாவில் தஞ்சம்
-
-*2024-12-09 09:43:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிரியா-ஜனாதிபதி-ரஷ்யாவில்-தஞ்சம்/50-348461) · `ta`
-
-மத்திய கிழக்கு நாடான சிரியாவை எச்டிஎஸ் கிளர்ச்சி படை கைப்பற்றியதைத் தொடர்ந்து ஜனாதிபதி பஷார் அல் ஆசாத் ரஷ்யாவில் தஞ்சம் புகுந்துள்ளார். அவருக்கும், அவரது குடும்பத்தினருக்கும் மனிதாபிமான அடிப்படையில் ஆதரவு அளித்துள்ளதாக ரஷ்ய தரப்பு தெரிவித்துள்ளது.
-
-ரஷ்ய ஜனாதிபதி புட்டினின் வசிப்பிடமான க்ரெம்ளின் மாளிகை வட்டாரத் தகவலை சுட்டிக்காட்டி இத்தகவலை ரஷ்யாவின் இன்டர்ஃபேக்ஸ், டாஸ், ரியா நோவோஸ்டி பத்திரிகைகள் உறுதிப்படுத்தி செய்தி வெளியிட்டுள்ளன.
-
-இதற்கிடையில் சிரியா விவகாரம் குறித்து அமெரிக்க ஜனாதிபதி ஜோ பைடன் கருத்து தெரிவித்துள்ளார். “ஜனாதிபதி ஆசாத்தின் வீழ்ச்சி நீதியின் வெற்றி. இது பல ஆண்டுகளாக துண்பப்பட்டுவரும் சிரிய மக்களுக்குக் கிடைத்துள்ள ஒரு வரலாற்று வாய்ப்பு. இந்த வாய்ப்பு அவர்கள் தங்கள் தேசத்தை வளமான எதிர்காலத்துக்காக கட்டமைக்க உதவும். அவர்கள் தங்கள் நாட்டை பெருமைமிகு அடையாளமாக மாற்ற உதவும்” என்று ஜனாதிபதி பைடன் வரவேற்றுள்ளார்.
-
-...
-
-[Data](articles/2a4b6d6c.json)
-
----
 
 ### වගා හානි කරන සත්තු ගැන වාර්තාවක් එළියට
 
@@ -99,28 +45,6 @@ The more liquid S&P SL20 was up 0.30 percent, or 12.12 points, at 4,074.
 ...
 
 [Data](articles/0a4435d7.json)
-
----
-
-### Police investigate suspicious death in Ipalogama
-
-*2024-12-09 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104091/police-investigate-suspicious-death-in-ipalogama) · `en`
-
-Police have launched an investigation following information received about a man found dead under suspicious circumstances at a residence near Walawegama School in the Ipalogama Police Division.
-
-The incident occurred last evening (8), and the deceased has been identified as a 37-year-old resident of the Walawegama area.
-
-Preliminary investigations revealed that the deceased had bled profusely at the location where he was found and confirmed that the death is being treated as a homicide.
-
-According to initial findings, the deceased had consumed alcohol with another individual at his residence on the night of December 7. Investigators suspect the murder occurred during an altercation that followed.
-
-The body remains at the scene under police protection pending a Magistrate’s inquest.
-
-The Ipalogama Police are continuing investigations to apprehend the suspect involved in the crime.
-
-◼️
-
-[Data](articles/2389dd40.json)
 
 ---
 
@@ -149,44 +73,6 @@ In addition, Gampaha police are conducting further investigations to arrest the 
 [Data](articles/2031eec3.json)
 
 [Extended Data](ext_articles/2031eec3.ext.json)
-
----
-
-### Bilinda Devage Nandadeva elected from Sri Lanka to UNESCO intangible heritage body
-
-*2024-12-09 09:08:00* · [`economynextcom`](https://economynext.com/bilinda-devage-nandadeva-elected-from-sri-lanka-to-unesco-intangible-heritage-body-193026/) · `en`
-
-ECONOMYNEXT – Bilinda Devage Nandadeva was elected to the Evaluation Body of UNESCO’s 2003 Convention for the Safeguarding of the Intangible Cultural Heritage as a expert, Sri Lanka’s embassy in Paris said.
-
-Nandadeva, a scholar with over forty years of experience in cultural heritage, will serve a term of up to four years on the ICH Evaluation Body.
-
-“He has extensive knowledge and experience in the work of the ICH Intergovernmental Committee and in the inscription process,” the statement said.
-
-“Sri Lanka’s election to this prestigious Body reflects the international community’s appreciation of the country’s active contribution to UNESCO’s initiatives, and its unwavering commitment to the preservation and promotion of global intangible cultural heritage.
-
-“This recognition further positions Sri Lanka as a key player within UNESCO’s ICH Evaluation Body, providing the country with a platform to shape international cultural policy and safeguarding measures.”
-
-...
-
-[Data](articles/6956cae3.json)
-
----
-
-### South Korean police considering overseas travel ban on President Yoon over martial law
-
-*2024-12-09 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104090/south-korean-police-considering-overseas-travel-ban-on-president-yoon-over-martial-law) · `en`
-
-Police are considering placing an overseas travel ban on South Korean President Yoon Suk Yeol as they investigate possible rebellion charges over his brief imposition of martial law last week, reports said Monday.
-
-Yoon’s martial law decree last Tuesday, which brought armed special forces troops into Seoul streets, is plunging South Korea into huge political turmoil. On Sunday, he avoided an opposition-led bid to impeach him, with most ruling party lawmakers boycotting a floor vote. But the opposition parties vowed to submit a new impeachment motion against him this week.
-
-On Monday, Yonhap news agency cited police as saying that they are considering banning Yoon from leaving the country as they investigate charges of rebellion. Other South Korean media carried similar reports.
-
-Repeated calls to the National Police Agency weren’t immediately answered.
-
-...
-
-[Data](articles/f0ccd951.json)
 
 ---
 
@@ -446,26 +332,6 @@ At the same time, 2,138 senior sailors of the Navy and Admiral Priyantha Perera 
 
 ---
 
-### Sri Lanka excess rupee reserves rise close to last crisis levels
-
-*2024-12-09 06:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-excess-rupee-reserves-rise-close-to-last-crisis-levels-192967/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s excess reserves deposited in the central bank above required reserves under a statutory ratio has reached 230 billion rupees, close levels that existed before a currency crises gathered pace in 2021, official data show.
-
-On Thursday excess reserves topped 246 billon rupees, about 20 billion rupees shy of the peak reached under President Gotabaya Rajapaksa in 2021, when private credit started to recover as the country emerged from a Coronavirus crisis.
-
-At the time money was printed by so-called direct market operations where Treasury bill auctions were scuttled with price controls (floor auction rates) imposed by the central bank.
-
-Initially the excess liquidity piled up un-used, due to weak private credit and did not hit the balance of payments.
-
-In 2024 excess liquidity is coming mostly from a surplus balance of payments (dollars purchased to maintain a pegged exchange rate), amid weak credit.
-
-...
-
-[Data](articles/bb7dfc7d.json)
-
----
-
 ### A change in the weather
 
 *2024-12-09 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204174) · `si`
@@ -589,20 +455,6 @@ The Consumer Affairs Authority (CAA) has said that the rice mills will be carrie
 [Data](articles/0139cfd6.json)
 
 [Extended Data](ext_articles/0139cfd6.ext.json)
-
----
-
-### அரிசி ஆலைகளில் அதிரடி சோதனை
-
-*2024-12-09 02:59:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-ஆலைகளில்-அதிரடி-சோதனை/175-348455) · `ta`
-
-அரிசி ஆலைகளிலிருந்து நாளாந்தம் விநியோகிக்கப்படும் அரிசி தொகை தொடர்பில் அறிக்கையை பெற்றுக் கொள்ளுமாறு ஜனாதிபதியால் வழங்கப்பட்ட பணிப்புரைக்கு அமைய இந்த நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
-
-அதற்கமைய நேற்று முதல் 10 நாட்களுக்கு தொடர்ச்சியாக அரிசி ஆலைகளில் சோதனைகள் நடத்தப்படவுள்ளதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/04494361.json)
 
 ---
 
@@ -1950,20 +1802,6 @@ The suspects have been resorted to the Karuwalagaswewa Wildlife Office for furth
 
 ---
 
-### බදු ආදායම සියයට 39කින් ඉහළට
-
-*2024-12-08 16:59:01* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ආදායම-සියයට-39කින්-ඉහළට/11-413523) · `si`
-
-2024 වර්ෂය සඳහා රජය විසින් අපේක්ෂිත ආදායම රුපියල් බිලියන 4107 ලෙසත් බදු ආදායම රුපියල් බිලියන 3,820 ලෙසත් අපේක්ෂා කරනු ලැබූ බව 2024 වර්ෂය සඳහා වූ අය වැය ලේඛනයෙහි දක්වා ඇතැයි පේරාදෙණිය විශ්ව විද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යායන පිළිබඳ මහාචාර්ය වසන්ත අතුකෝරාල මහතා සමඟ පෙරේදා (07දා) සඳහන් කළේය.
-
-2024 වර්ෂයේ ජනවාරි 01 වැනි දා සිට සැප්තැම්බර් 30 දක්වා  මාස 09 ක කාල සීමාවක දී රජයට ලැබී ඇති මුළු ආදායම රුපියල් බිලියන 2,918 ක් වන අතර  බදු ආදායම ලෙස රුපියල් බිලියන 2,688 ක් ලැබී ඇති බවත් එය 2023 වර්ෂයේ අදාළ කාල පරිච්ඡේදය සමඟ  සසඳා බලන විට මුලු ආදායමින් 38% ක පමණ වර්ධනයක් බවත් බදු ආදායම 39% ක් පමණ  වර්ධනයක් පෙන්නුම් කරනු ලබන බවත්  මහාචාර්යවරයා  සඳහන් කළේය.
-
-...
-
-[Data](articles/2f29019e.json)
-
----
-
 ### Sri Lanka target 348 runs
 
 *2024-12-08 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204162) · `si`
@@ -2357,5 +2195,225 @@ The Department of Meteorology has informed the Fisheries and Marine community to
 [Data](articles/47bb6013.json)
 
 [Extended Data](ext_articles/47bb6013.ext.json)
+
+---
+
+### Ja - Arrested with heroin in Ella area
+
+*2024-12-08 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200734) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Arrest made in Kushwatta, Ja-Ela area. Suspect caught with heroin during police raid based on tip-off. Incident occurred on Saturday, 07.
+
+🟩
+
+A suspect in the Kushwatta area belonging to the Ja-Ela Police Division has been arrested by police on Saturday (07).
+
+He was arrested during a raid carried out on confidential information received by Ja-Ela police officers.
+
+◼️
+
+[Data](articles/4f2b9cf5.json)
+
+[Extended Data](ext_articles/4f2b9cf5.ext.json)
+
+---
+
+### Egg in the egg market without deficit
+
+*2024-12-08 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/හිඟයකින්-තොරව-බිත්තර-වෙළඳපොළට/11-413518) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Egg producers in Sri Lanka maintain supply without deficit. Retail price: 35-36 Rupees. Production costs increased due to higher rice and corn prices. Surplus poultry in market. Chicken demand rose after bad weather. Animal products stable during Sinhala season. Vegan shortage needs addressing."
+
+🟩
+
+Sri Lanka Animals Association President Ajith Gunasekera says that egg manufacturers are working to the egg products without any deficit.
+
+Addressing a media briefing, he said that the retail price of an egg is between Rs. 35-36. However, as the price of eggs can increase the demand for the demand and supply of the country, as the price of eggs can increase and operate the retail price of an egg.
+
+He said the production prices of the egg had gone up due to rising prices at present, the price of rice and corn.. He said that there is a surplus of poultry production, he has already been released to the poultry market.
+
+He said that the demand for chicken has increased due to the recent adverse weather conditions in the recent past, he said.
+
+He also says that the animal products are continuously maintained during the Sinhala Season, he says. However, he said that if there is a vegan deficit, it is the responsibility of remedying to address it.
+
+◼️
+
+[Data](articles/0f091c23.json)
+
+[Extended Data](ext_articles/0f091c23.ext.json)
+
+---
+
+### One person dies in suspicious
+
+*2024-12-08 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200710) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Body found in house, death under investigation. Police suspect foul play. Magistrate to probe circumstances.
+
+🟩
+
+Warakapola police said that the body of a person was found in a house in Dulhiyya area in the Warakapola police division yesterday (07).
+
+The death investigation officer has informed the police that the death of the death of the death of the dead body was suspected of the death and that the magistrate should investigate the death.
+
+◼️
+
+[Data](articles/05d4eec8.json)
+
+[Extended Data](ext_articles/05d4eec8.ext.json)
+
+---
+
+### CT at Kandy Hospital. An honor of the scanner
+
+*2024-12-08 15:17:36* · [`adalk`](https://www.ada.lk/picture_story/මහනුවර-රෝහලේ-සී-ටී--ස්කෑන්-යන්ත්‍රයට-ගෞරවනීය-සමුදීමක්/10-413517) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+CT scanner honored at Kandy Hospital. Retired after serving 6+ million patients, diagnosing over 100,000 diseases. Rare celebration for the machine and its dedicated staff. Director emphasizes commitment to healthcare management.
+
+🟩
+
+Kandy National Hospital for Rs.. The scanner was retired from the hospital with the honor of the hospital, radiation, nurses and the staff of the hospital.
+
+The event was a rare celebration of a hospital and was a significant commitment to Rodrigo and honored the machine.
+
+Dr. Iresha Fernando said the CT. The scanner is not only in the country, not only 100,000 cases of disease for over 6,000 cases, but for more than 6 million patients, not only 100,000 cases of diseases.There is. The director emphasized that if we have a duty to be a duty to a management, even if we have a lot of iron.
+
+◼️
+
+[Data](articles/a8415135.json)
+
+[Extended Data](ext_articles/a8415135.ext.json)
+
+---
+
+### Foreigners happiness with coconut enemies'
+
+*2024-12-08 15:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-எதிரிகளுடன்-வெளிநாட்டவர்-மகிழ்ச்சி/175-348432) · `ta`
+
+Coconut shortage blamed on monkeys. Prices soar. Government denies monkey involvement. Foreigners enjoy monkey encounters at Ravana Ella Falls.
+
+🟩
+
+There is a severe shortage of coconuts in the country. One of the coconut is sold for Rs 220 to Rs 300. Half -lid coconut in a few stores is currently being sold. It is rare to see coconut sambala.
+
+Many of the monkeys blame the main cause of coconut shortage. Speaking recently in Parliament, Agriculture and Livestock Minister Lal Kantha "Monkey Terrorism" said that the country has fallen into the country.
+
+However, the government says that the coconut shortage of the monkeys is caused by the eating of coconuts.. If so, did the monkeys live in the country last year?So?TV Sanaka, the MP of the Sri Lanka PA, was asking for the monkeys not to be guilty.
+
+In this case, foreign tourists are happy with monkeys near the Ravana Ella Falls near the Ravana Ella Wildlife Sanctuary.
+
+◼️
+
+[Data](articles/3def2926.json)
+
+[Extended Data](ext_articles/3def2926.ext.json)
+
+---
+
+### The gang leader arrested in Canada
+
+*2024-12-08 14:58:50* · [`adalk`](https://www.ada.lk/breaking_news/ආවා-කල්ලියේ-නායකයා-කැනඩාවේදී-අල්ලයි/11-413516) · `si`
+
+Sri Lankan suspect Prasanna Nellavellangamum arrested in Canada for France murder. International warrant issued. To be extradited for further investigation.
+
+🟩
+
+A Sri Lankan person named the gang leader was arrested by the gang leader.
+
+A 32-year-old suspect, a 32-year-old suspect known as Prasanna Nellavellangamum, has been arrested in connection with the murder of France.
+
+The suspect is a few murders in Sri Lanka and the international warrants have been issued to arrest him.
+
+The Canadian security forces states that the suspect is due to be handed over to France further investigations.
+
+◼️
+
+[Data](articles/7ac973d1.json)
+
+[Extended Data](ext_articles/7ac973d1.ext.json)
+
+---
+
+### Relief worth 300 million from Japan
+
+*2024-12-08 14:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிலிருந்து-300-மில்லியன்-பெறுமதியான-நிவாரணம்/175-348430) · `ta`
+
+Japan provides $3 million relief aid to Sri Lanka. Emergency supplies arrive at Bandaranaike Airport. Ambassador hands over goods to local authorities for distribution by District Secretaries.
+
+🟩
+
+The Japanese government is approximately Rs.. 300 million worth of relief.
+
+Emergency items coordinated by the Japanese Embassy in Sri Lanka and the Japan International Cooperation Organization (JICA) arrived at the Bandaranaike International Airport (BIA) on Saturday.
+
+Japanese Ambassador to Sri Lanka Isomata Akio officially handed over the goods to local authorities. Relief items will be distributed by the District Secretaries of the District Secretaries.
+
+◼️
+
+[Data](articles/263bab66.json)
+
+[Extended Data](ext_articles/263bab66.ext.json)
+
+---
+
+### Rs. 300 million relief from Japan
+
+*2024-12-08 14:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிலிருந்து-ரூ-300-மில்லியன்-நிவாரணம்/175-348430) · `ta`
+
+Japan provides Rs. 300 million aid to Sri Lanka. Emergency supplies arrive at Bandaranaike Airport. Ambassador hands over goods to local authorities for distribution.
+
+🟩
+
+The Japanese government is approximately Rs.. 300 million worth of relief.
+
+Emergency items coordinated by the Japanese Embassy in Sri Lanka and the Japan International Cooperation Organization (JICA) arrived at the Bandaranaike International Airport (BIA) on Saturday.
+
+Japanese Ambassador to Sri Lanka Isomata Akio officially handed over the goods to local authorities. Relief items will be distributed by the District Secretaries of the District Secretaries.
+
+◼️
+
+[Data](articles/ba461259.json)
+
+[Extended Data](ext_articles/ba461259.ext.json)
+
+---
+
+### Compulsory holiday
+
+*2024-12-08 14:34:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒளடத-அதிகாரிக்கு-கட்டாய-விடுமுறை/175-348429) · `ta`
+
+Dushara Ranadeva, Drug Assessment Officer, sent on compulsory leave by National Drug Regulatory Authority due to alleged secret information leak to external companies. Criminal Investigation Department involved. Some employees claim Ranadeva exposed fraud and corruption within the authority.
+
+🟩
+
+National Drug Regulatory Authority's Drug Assessment Officer Dushara Ranadeva has been sent on a compulsory leave by the National Drug Regulatory Authority. He is also the president of the Pharmacists Association.
+
+He has been sent on a compulsory vacation by Dr. Ananda Wijewickrama, Chairman of the National Drug Regulatory Authority, according to a complaint received by the Authority that the Secret Information of the Pharmaceutical Control Authority is provided to outside companies.
+
+The letter stated that the drug assessment officer Tushara Ranadeva has handed over all the items used by Dushara Ranadeva and that he can come to the company premises with his permission for any issue.
+
+In addition, the Criminal Investigation Department has also seized Dushara Ranadeva's personal mobile phone.
+
+...
+
+[Data](articles/786afdcf.json)
+
+[Extended Data](ext_articles/786afdcf.ext.json)
 
 ---

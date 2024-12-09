@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 14:29:44**
+As of **2024-12-09 14:43:08**
 
 ## Newspaper Stats
 
-*Scraped **59,262** Articles*
+*Scraped **59,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,571
 economynextcom | 3,598
 dailyftlk | 4,081
 dailymirrorlk | 4,733
-adalk | 5,614
+adalk | 5,615
 adaderanalk | 7,206
 tamilmirrorlk | 8,465
 virakesarilk | 9,720
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,234 (100.0%) of 59,262 articles have been extended.
+59,234 (100.0%) of 59,263 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,22 @@ After independence, the government did not charge money to grant the excise lice
 [Data](articles/2dbaa554.json)
 
 [Extended Data](ext_articles/2dbaa554.ext.json)
+
+---
+
+### ශ්‍රී ලංකා - දකුණු අප්‍රිකා තීරණතාමක පස්වන දිනය සඳහා තරගය ආරම්භ වෙයි
+
+*2024-12-09 14:02:04* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---දකුණු-අප්‍රිකා-තීරණතාමක-පස්වන-දිනය-සඳහා-තරගය-ආරම්භ-වෙයි/9-413532) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ දකුණු අප්‍රිකා කණ්ඩායම අතර දෙවැනි ටෙස්ට් ක්‍රිකට් තරගයේ පස්වන දිනය සඳහා වන තරගය මේ වන විට ආරම්භ වී තිබේ.
+
+ඒ අනුව ජයග්‍රාහී ලකුණු 348ක ඉලක්කයක් හඹා යන ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර පන්දුවාර 59ක් අවසානයේ කඩුලු 05ක් දැවී ලකුණු 219ක් රැස් කරගෙන සිටියේය.
+
+ඒ අනුුව තරගය ජයග්‍රහණය කිරීමට නම් ශ්‍රී ලංකා කණ්ඩායම තවත් ලකුණු 129ක් රැස් කර ගත යුතුව තිබේ.
+
+◼️
+
+[Data](articles/d7503711.json)
 
 ---
 
@@ -2225,31 +2241,5 @@ Chandimall is the 7th batsman who has crossed the 6000 Test mark for Sri Lanka.
 [Data](articles/1a40c401.json)
 
 [Extended Data](ext_articles/1a40c401.ext.json)
-
----
-
-### Chinese woman who slipped off the train!
-
-*2024-12-08 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/200759) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Chinese woman falls off train near Wellawatte-Bambalapitiya. Video shows her hanging from tree branch. She lands in bushes unharmed, according to police report.
-
-🟩
-
-A Chinese woman who hanged her at the railway gate on Saturday afternoon between Wellawatte - Bambalapitiya has recorded on her friend's mobile phone.
-
-In the video recording, the video recording can be seen as a tree hanging from a head on his head.
-
-The woman who was thrown into the bush fell into the bush, no injuries were injured, police said.
-
-◼️
-
-[Data](articles/5cc7aceb.json)
-
-[Extended Data](ext_articles/5cc7aceb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-09 08:46:24**
+As of **2024-12-09 09:08:11**
 
 ## Newspaper Stats
 
-*Scraped **59,184** Articles*
+*Scraped **59,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,120 @@ economynextcom | 3,593
 dailyftlk | 4,081
 dailymirrorlk | 4,733
 adalk | 5,607
-adaderanalk | 7,185
+adaderanalk | 7,188
 tamilmirrorlk | 8,448
 virakesarilk | 9,711
-adaderanasinhalalk | 10,225
+adaderanasinhalalk | 10,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,173 (100.0%) of 59,184 articles have been extended.
+59,174 (100.0%) of 59,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-09 (Monday)
+
+### No official announcement on vehicle imports - Vehicle Importers’ Association
+
+*2024-12-09 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104089/no-official-announcement-on-vehicle-imports-vehicle-importers-association) · `en`
+
+The Vehicle Importers’ Association of Sri Lanka (VIASL) has confirmed that, to date, no official announcement regarding the resumption of vehicle importation has been received from any government authority.
+
+President of VIASL, Prasad Manage, stated that the uncertainty is affecting the vehicle market, creating concerns about buying and selling vehicles.
+
+“It is essential to resume imports now as the industry has been stagnant for 4-5 years, causing a collapse in our sector. We aim to initially focus on Buses and Lorries, followed by other vehicles in subsequent phases. However, there has been no decision from the government on importing vehicles,” Manage explained.
+
+He urged vehicle owners not to sell their vehicles at reduced prices due to speculation, emphasizing that no timeline for resuming imports has been announced.
+
+...
+
+[Data](articles/0d8bcdf4.json)
+
+---
+
+### තවත් ඝාතනයක සුලමුල හෙළිවෙයි
+
+*2024-12-09 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204180) · `si`
+
+ඉපලෝගම පොලිස් වසමේ වලවේගම පාසල ආසන්නයේ නිවසක් තුළ පුද්ගලයෙකු වැටී සිටි පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් සිටින බවට පොලීසියට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කර තිබේ.
+
+පසුගිය 8 වනදා සවස මෙය සිදුව ඇති අතර, මිය ගොස් ඇත්තේ, අවුරුදු 37ක් වූ වලවිවේගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+පොලීසිය සිදුකළ විමර්ශනයේදී මරණකරු වැටී සිටි ස්ථානයේ අධික ලෙස රුධිරය වහනය වූ ආකාරය නිරීක්ෂණය වී ඇති අතර මෙම මරණය මනුෂ්‍ය ඝාතනයක් බවට අනාවරණය වී ඇත.
+
+මරණකරු විසින් ඔහුගේ නිවස තුළ පෙර දින රාත්‍රී කාලයේ තවත් පුද්ගලයෙකු සමඟ මත්පැන් පානය කර ඇති අතර එහිදී ඇතිවූ සිද්ධියකදී මෙම ඝාතනය සිදුකර ඇති බවට දැනට පොලීසිය සැක කරනු ලබයි.
+
+මෘත ශරීරය මහෙස්ත්‍රාත් පරික්ෂණය සඳහා පොලිස් ආරක්ෂාව යටතේ සිද්ධිය වූ ස්ථානයේ ඇත.
+
+අපරාධයට සම්බන්ධ සැකකරු අත්අඩංගුවට ගැනීම සඳහා ඉපලෝගම පොලිසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/7d0fef0e.json)
+
+---
+
+### පැනගිය සිරියානු හිටපු ජනපති රුසියාවේ
+
+*2024-12-09 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204179) · `si`
+
+සිරියාවෙන් පළාගිය හිටපු ජනාධිපති බෂාර් අල්-අසාඩ් මේ වනවිට රුසියාවේ මොස්කව් නගරයට ගොස් ඇති බව රුසියානු මාධ්‍ය සඳහන් කරයි.
+
+රුසියානු බලධාරීන් පවසන්නේ අසාඩ් ට සහ ඔහුගේ පවුලේ සාමාජිකයින් ට රුසියාවේ සරණාගතභාවය ලබාදෙන බවයි.
+
+Hayat Tahrir al-Sham නම් සංවිධානයට අයත් කැරලිකරුවන් නොවැම්බර් 27 වනදා අසාඩ් පාලනයට එරෙහිව ප්‍රහාර දියත් කළේය.
+
+ඉන්පසු දින කිහිපයක් තුළදී එරට ප්‍රධාන නගර සිය ග්‍රහණයට ගැනීමට කැරලිකරුවන් සමත්විය.
+
+ඔවුන් ඊයේ (08) ඩැමස්කස් නගරය ට ඇතුළු වුණු අතර පසුව වාර්තා වූයේ ජනාධිපති අසාඩ් ගුවන්යානයකින් එරටින් පළාගිය බවයි.
+
+◼️
+
+[Data](articles/758fd15c.json)
+
+---
+
+### Sri Lanka Navy marks 74 years of excellence with 2,138 promotions
+
+*2024-12-09 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104088/sri-lanka-navy-marks-74-years-of-excellence-with-2138-promotions) · `en`
+
+The Sri Lanka Navy, renowned for its storied history as the nation’s maritime defence force, is celebrating its 74th Anniversary today (9).
+
+Under the able leadership of Commander of the Navy, Vice Admiral Priyantha Perera, a series of programmes are being conducted across all Naval Commands, highlighting the Navy’s enduring traditions and religious practices as part of the anniversary festivities.
+
+Issuing a statement, the Sri Lanka Navy said that in celebration of the Navy’s Anniversary, a total of 2138 senior and junior sailors have been advanced to higher rates as of today (9), following the recommendation of the Commander of the Navy, Vice Admiral Priyantha Perera.
+
+The advancements include 158 to Ordinary Seaman, 279 to Able Seaman, 406 to Leading Seaman, 391 to Petty Officer, 539 to Chief Petty Officer, 354 to Fleet Chief Petty Officer, and 11 to Master Chief Petty Officer.
+
+...
+
+[Data](articles/8037bdd7.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-12-09 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104087/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the Low-Pressure Area in the southeast Bay of Bengalis likely to move west-northwestwards and reach over southwest Bay of Bengal off Sri Lanka – Tamil Nadu coasts around  December 11.
+
+Under its influence, showery conditions are expected to enhance in the Northern and Eastern provinces from December 10.
+
+The Northeast monsoon condition also expected to establishing gradually over the island along with above condition, the Met. Department said.
+
+Several spells of showers will occur in Northern and Eastern provinces and in Matale district.
+
+Showers or thundershowers may occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts during the evening or night, it said.
+
+Fairly heavy showers about 75mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+...
+
+[Data](articles/8e133704.json)
+
+---
 
 ### Remittance inflows face twin declines: month-on-month and year-on-year
 
@@ -49,6 +149,40 @@ Another metric that adds to this optimism is during the year up to 06th December
 [Data](articles/728edd33.json)
 
 [Extended Data](ext_articles/728edd33.ext.json)
+
+---
+
+### රුසියානු ජාතික යුවළකට අකරතැබ්බයක්
+
+*2024-12-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204178) · `si`
+
+කොටවිල පොලිස් වසමේ මිරිස්ස වෙරළ තීරයේ දියනෑමට ගිය රුසියානු ජාතික යුවළක් දිය වැලකට හසුවී මුහුදට ගසාගෙන ගොස් තිබේ.
+
+පසුව රාජකාරියේ යෙදී සිටි මාතර කොට්ඨා පොලිස් ජීවිතාරක්ෂක ඒකකයට අනුයුක්ත පොලිස් නිලධාරීන් කිහිපදෙනෙකු විසින් ඔවුන්ව බේරාගැනීමට සමත්වූ බව පොලීසිය පවසයි.
+
+විදෙස් ජාතික යුවළ එලෙස බේරාගැනීමට කටයුතු කර ඇත්තේ, සැරයන් - 72167 මංජුල, පොලිස් කොස්තාපල් 36992 බණ්ඩාර හා පොලිස් කොස්තාපල් 28244 චාමර යන නිලධාරින් විසිනි.
+
+මෙලෙස අනතුරට පත්ව ඇත්තේ වයස අවුරුදු 40ක පිරිමි පුද්ගලයෙකු හා වයස අවුරුදු 38ක් වන රුසියානු ජාතික අඹුසැමි යුවළකි.
+
+◼️
+
+[Data](articles/0912abc1.json)
+
+---
+
+### වාහන ආනයනකරුවන්ගේ සංගමයෙන් ප්‍රකාශයක්
+
+*2024-12-09 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204176) · `si`
+
+වාහන ආනයනය කිරීම සම්බන්ධයෙන් රජයේ කිසිදු පාර්ශවයක් මේ වන තෙක් නිල වශයෙන් දැනුම් දී නොමැති බව වාහන ආනයනකරුවන්ගේ සංගමය පවසයි.
+
+ඒ හේතුවෙන් වාහන මිල දී ගැනීම හෝ ඒවා විකිණීම සම්බන්ධයෙන් කලබල විය නොමැති බව එම සංගමයේ සභාපති ප්‍රසාද් මානගේ මහතා සඳහන් කළේය.
+
+"මේක දැන් ගෙන්වීම අත්‍යාවශ්‍ය වෙලා තියෙන්නේ. මොකද අපි දැන් වාහනයක් නැතුව අවුරුදු 4ක් - 5ක් අපේ කේෂ්ත්‍රය කඩා වැටීමට ලක්වෙලා තියෙනවා. අපෙත් පැතුම මොනවා හරි වාහනයක් ගේන්න. අපිත් ප්‍රාර්ථනා කරනවා මේ අවුරුද්දේ බස්, ලොරි ගෙන්නලා ඊට පස්සේ දෙවන තුන්වන අදියර යටතේ ඉතුරු වාහනත් ගෙන්න ගන්න ඉක්මට හැකියාව ලැබෙන්න කියලා. දැනට කිසිම වාහනයක් ගේන්න රජයේ කිසිම තීරණයක් නෑ. නව රජයෙන් තීරණය වෙනස් වෙයිද කියලා අපිට කියන්න බෑ. කිසිම කෙනෙක් කලබල වෙන්න එපා තමන් ළඟ තියෙන වාහනය විකුණන්න. තාම රජයේ කිසිම කෙනෙක් ප්‍රකාශයට පත්කරලා නෑ කවද්ද වාහන ගෙන්වන්නේ කියලා. අපි රජයෙන් ඉල්ලීමක් කරනවා මේ ගැන ප්‍රකාශයක් නිකුත් කරන්න කියලා. මොකද මිනිස්සු කලබල වෙලා ඉන්නේ. රජය ප්‍රකාශයට පත්කරන කල් තමන් ළඟ තියෙන වාහනය අඩුවට කාටවත් විකුණන්න ඕනේ නෑ."
+
+◼️
+
+[Data](articles/43548d81.json)
 
 ---
 
@@ -87,6 +221,44 @@ This was an ideal opportunity to showcase Sri Lanka as a destination which has e
 [Data](articles/a532b99c.json)
 
 [Extended Data](ext_articles/a532b99c.ext.json)
+
+---
+
+### නාවික හමුදාවේ 2,138කට උසස්වීම්
+
+*2024-12-09 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204175) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ 74 වන සංවත්සරය ‍අද (09) වනදා අභිමානවත්ව සමරනු ලබයි.
+
+ඊට සමගාමීව නාවික හමුදාධිපති, වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතාගේ නිර්දේශය මත විවිධ තරාතිරම්වලට අයත් ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයින් 2,138 ක් අද දින සිට උසස් කිරීමට කටයුතු කර තිබේ.
+
+ඒ අනුව, සාමාන්‍ය නැවි තරාතිරම දක්වා නාවිකයන් 158 ක්ද, බල නැවි තරාතිරම දක්වා නාවිකයින් 279 ක්ද, නායක නැවි තරාතිරම දක්වා නාවිකයින් 406 ක්ද, සුළු නිලධාරී තරාතිරම දක්වා නාවිකයින් 391 ක්ද, ප්‍රධාන සුළු නිලධාරි තරාතිරම දක්වා නාවිකයින් 539 ක්ද, සමූහ ප්‍රධාන සුළු නිලධාරි තරාතිරම දක්වා නාවිකයින් 354 ක් සහ පාලක ප්‍රධාන සුළු නිලධාරි තරාතිරම දක්වා නාවිකයින් 11 ක්ද වශයෙන් ජ්‍යේෂ්ඨ හා කණිෂ්ඨ නාවිකයින් 2,138 ක් ඊළඟ තරාතිරම දක්වා උසස් කිරීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/7d64e598.json)
+
+---
+
+### කාලගුණයේ වෙනසක්
+
+*2024-12-09 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204174) · `si`
+
+ගිනිකොණදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පවතින අඩු පීඩන කලාපය බටහිර-වයඹ දෙසට ගමන් කරමින් දෙසැම්බර් 11 වනදා පමණ ශ්‍රී ලංකා-තමිල්නාඩු වෙරළට ඔබ්බෙන් නිරිත දිග බෙංගාල බොක්ක වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මෙම පද්ධතියේ බලපෑම හේතුවෙන් දෙසැම්බර් 10 දින සිට උතුරු සහ නැගෙනහිර පළාත්වල වැසි තත්ත්වයේ වැඩි වීමක් අපේක්ෂා කරන අතර දිවයින හරහා ඊසානදිග මෝසම් තත්ත්වයද ක්‍රමයෙන් ස්ථාපිත වෙතැයි බලාපොරොත්තුවේ.
+
+උතුරු සහ නැගෙනහිර පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති වේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75 පමණ තරමක් තද වැසි ඇතිවිය හැක.
+
+මධ්‍යම, සබරගමුව, දකුණ, ඌව, බස්නාහිර සහ වයඹ පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+...
+
+[Data](articles/66dd4f4d.json)
 
 ---
 
@@ -356,21 +528,43 @@ The company, which is set to launch the service during the holiday season, has i
 
 ---
 
-### හදිසි ගින්නකදී ඔබ ගත යුතු ක්‍රියාමාර්ග මොනවා ද?
+### What are the steps you need to take in a sudden fire?
 
 *2024-12-09 01:33:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c93g7zer1lko) · `si`
 
-ඕනෑම මොහොතක ඇතිවිය හැකි ගිනි ගැනීම් හේතුවෙන් ඔබට හෝ ඔබ සිටින ස්ථානවලට ඉතා විනාශකාරී බලපෑම් එල්ල විය හැකියි.
+Here's a summary of the key points about responding to a sudden fire in 200 characters:
 
-එවැනි ගිනි ගැනීම් සහ ඒ ආශ්‍රිත අනතුරු සම්බන්ධයෙන් බීබීසී සිංහල සේවය කළ විමසීමකදී කොළඹ ගිනි නිවීමේ ඒකකය පැවසුවේ 2024 වසරේ මේ දක්වා කාල සීමාව තුලදී කොළඹ නගරය සහ අවට ප්‍රදේශවල පමණක් ගිනි ගැනීමේ සිදුවීම් 273ක් වාර්තාවී ඇති බවයි.
 
-හදිසි ගින්නක් හට ගත් අවස්ථාවකදී අප සිදුකළ යුත්තේ කුමක්ද ? විශේෂයෙන් මහල් ගොඩනැගිල්ලක සිටින පුද්ගලයෙකු මෙවැනි අවස්ථාවකදී ගත යුතු ක්‍රියාමාර්ග මොනවාද යන්න කල් තියා දැනුවත්වීම ඉතා වැදගත් ය.
 
-හදිසි ගින්නක් ඇතිවූ විට ඕනෑම පුද්ගලයෙකු සිදුකළ යුත්තේ ඇතිවී තිබෙන තත්ත්වය තේරුම්ගෙන අනවශ්‍ය ලෙස කලබල විමෙන් වැළකී තමන්ට ලබාදී ඇති උපදෙස් අනුව ගොඩනැගිල්ලෙන් ආරක්ෂා සහිතව ඉවත්වීමේ මාර්ගයට ඇතුල්වීම බව බ්‍රිතාන්‍ය ගිනි ඉංජිනේරු සංගමයේ ශ්‍රී ලංකා ශාඛාවේ ලේකම් නාලක ජයරත්න බීබීසී සිංහල සේවය වෙත අදහස් දක්වමින් පැවසුවේය.
+1. Evacuate immediately using nearest emergency exit
+
+2. Don't use elevators - they may stop working 
+
+3. Stay low to avoid smoke inhalation
+
+4. Meet at assembly point outside building
+
+5. Wait for firefighters before re-entering
+
+6. Practice evacuation drills regularly
+
+🟩
+
+Due to any momentarian fire, you or your places may have been a devastating influence.
+
+According to the Colombo Fire Funder, the Colombo Fire Service (Colombo-Lankapuvath) In response to such firefighters and related accidents, 273 incidents have been reported in the Colombo City and surrounding areas during the period 2024.
+
+What should we do when a sudden fire broke out?It is vital that a person in particular in a large quantity, what measures should be taken in this case.
+
+The British Fire Engineer's Sri Lankan branch secretary Nalaka Jayaratne has told the Sinhala service that any person should understand the situation that has been caused by the building.
+
+"We have seen plenty of whatever people are upset in a fire. There is a frustration and scared and often staying in the bathroom, that there is water. But there are times when those who are dead die. "
 
 ...
 
 [Data](articles/a6a1260d.json)
+
+[Extended Data](ext_articles/a6a1260d.ext.json)
 
 ---
 
@@ -2169,253 +2363,5 @@ According to French media reports, the two groups were engaged in a multi-year c
 [Data](articles/8d067143.json)
 
 [Extended Data](ext_articles/8d067143.ext.json)
-
----
-
-### Wife and mother -in -law
-
-*2024-12-08 14:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-மாமியாரை-மண்டியிடவைத்து-கொள்ளை/175-348427) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Robbery at hijacker's house thwarted; ASP arrested with stolen goods including gold jewelry and cash. Police investigation ongoing.
-
-🟩
-
-As it was not fulfilled as he had gone to the hijacker's house to kill the drug trafficker, it was not fulfilled, and the jewelery and money were looted.
-
-The ASP has robbed the goods. Moratumulla police say that four people, including a nickname, were arrested in a few hours.
-
-The police have seized gold jewelery, cell phones, robbery weapons, iron rods, safety helmets, and disguise clothing.
-
-The suspects arrived at the front door at 2.30 am on the 6th of last month to kill a person involved in various crimes living in the Moratumallai area.. Open the door of the kitchen because they refused to open the door and entered
-
-At the time, the disguise of the abductors had escaped with gold jewelery and assets and robbery of 23,000 rupees.
-
-Within minutes of the robbery, the main suspect was arrested on the basis of confidential information received by the Moratumulla police officers.
-
-...
-
-[Data](articles/d881c69d.json)
-
-[Extended Data](ext_articles/d881c69d.ext.json)
-
----
-
-### Local Government Election: Advisor Advocate
-
-*2024-12-08 14:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்ளூராட்சி-தேர்தல்-சட்டமா-அதிபரிடம்-ஆலோசனை/175-348426) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Elections Commission seeks clarification on legal restrictions for local government polls. Cabinet cancels old nomination list. Commission requests Parliament pass new legislation. High Court orders immediate holding of elections. Over 80,000 candidates nominated for 24 municipal, 41 urban, and 275 local councils. Thousands of candidates abroad or deceased, over 2,000 switched parties.
-
-🟩
-
-The Elections Commission has written to the Attorney General on the conduct of the local government elections.
-
-Ananda Ratnayake, Chairman of the Elections Commission, said that if there are any legal restrictions on conducting local government elections, the purpose is to get information on it.
-
-Meanwhile, if the government has decided to cancel the previously demanded by the by -election, the Elections Commission has requested the Elections Commission in a letter to the Provincial Councils and the Local Government Ministry to immediately pass it.
-
-If the old nomination list is canceled, the Election Commission has said that the legislation should be passed in Parliament.
-
-Cabinet recently decided to cancel the old nomination list requested regarding the election. The government officially announced the decision to the Election Commission last week.
-
-Meanwhile, the Elections Commission's Chairman said that the local government elections should be held soon as per the order of the High Court.
-
-...
-
-[Data](articles/f0389a28.json)
-
-[Extended Data](ext_articles/f0389a28.ext.json)
-
----
-
-### Drivers arrested for robbery of gold
-
-*2024-12-08 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204158) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-4 suspects arrested for robbing taxi drivers wearing gold. Police found stolen goods worth Rs. Suspects from Rakwana, Maradana, Badulla.
-
-🟩
-
-Four suspects have been arrested for microbially robbed the drivers weoring gold items in the taxi.
-
-The suspects were arrested by the South Criminal Division yesterday.
-
-The robbery has taken place to drink a drug driver and drink a drug driver into the three-wheeler.
-
-Police have also been able to find a stock of pimensions worth of approximately Rs.
-
-The suspects were revealed that the suspects were illegally liberated in 15 police divisions.
-
-The suspects were among the residents of Rakwana, Maradana, Badulla and 37-38 in their residence.
-
-◼️
-
-[Data](articles/2adef136.json)
-
-[Extended Data](ext_articles/2adef136.ext.json)
-
----
-
-### Five arrested in Vavuniya
-
-*2024-12-08 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200720) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-"5 arrested in Vavuniya sword incident investigation; suspects to face court"
-
-🟩
-
-Vavuniya police said that five people have been arrested in connection with the sword incident in the Vavuniya area.
-
-Kudalist (46 years old) died in the sword incident in Vavuniya, Chemamadu, Ilamarathangulam area last day.
-
-Omanthai police, who investigated the incident, arrested the driver of the vehicle that was traveling in the sword.
-
-The Vavuniya District Criminal Investigation Division and the Omanthai Criminal Investigation Police are investigating the incident and five persons have been arrested in connection with the incident.
-
-Five youths from Vavuniya, Ukkulangulam, Kumangulam and Velankulam areas were arrested.
-
-After further investigations, the police said the suspects would be brought to court.
-
-◼️
-
-[Data](articles/32787a8e.json)
-
-[Extended Data](ext_articles/32787a8e.ext.json)
-
----
-
-### Rebel for Syrian capital: President escapes
-
-*2024-12-08 13:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிரிய-தலைநகரை-கைப்பற்றிய-கிளர்ச்சி-படை-ஜனாதிபதி-தப்பியோட்டம்/50-348425) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Syrian President Bashar al-Azad flees capital as rebels seize Damascus. State forces retreat, rebels claim victory. End of Azad's 24-year rule.
-
-🟩
-
-Syrian President Bashar al -Azad has fled the capital, and rebel soldiers announced on Sunday (08) that they have seized Damascus.. Rebellion soldiers said that Damascus had been liberated from the reign of Azad, a longtime ruler, as the state forces left the capital.
-
-Bashar al -Azad fled. The rebels said that we declare that Damascus was released from Azad's tyranny regime. Meanwhile, senior military officials told the International News Agency that President Bashar al -Azad, who ruled Syria for the past 24 years, had boarded an unidentified place.. It is also reported that the Army Commander officials had told officials that Azad's regime had collapsed.
-
-The dark era ended: The Hayat Tahrir al-Shammadi force said in a statement, "We announce on December 8, 2024 that this era of darkness will end and a new era will begin."
-
-...
-
-[Data](articles/3ecc8530.json)
-
-[Extended Data](ext_articles/3ecc8530.ext.json)
-
----
-
-### Imported rice stocks to arrive in Sri Lanka next week
-
-*2024-12-08 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104078/imported-rice-stocks-to-arrive-in-sri-lanka-next-week) · `en`
-
-The Essential Food Commodities Importers & Traders Association says that the first shipment of imported rice will arrive in the island next week.
-
-A spokesperson of the association stated that several importers have already placed orders for rice stocks in accordance with the government’s instructions to import rice.
-
-He highlighted that the relevant rice stocks have been ordered from India and Pakistan and that the stocks are expected to arrive within the next week.
-
-On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
-
-...
-
-[Data](articles/a6955ab7.json)
-
-[Extended Data](ext_articles/a6955ab7.ext.json)
-
----
-
-### One involved in several murders arrested in Canada
-
-*2024-12-08 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204157) · `si`
-
-Sri Lankan man arrested in Canada for murders in Sri Lanka and France. Wanted internationally since 2021. To be extradited to France.
-
-🟩
-
-A Sri Lankan has been arrested in Canada, which was said to be the leader of the gang leader in Jaffna.
-
-The Canadian media reported that 32-year-old is known as Prasanna Nallalengam or Ajanthan Subramanian.
-
-The suspect, who was wanted to a murder in France in 2022, is a person involved in several murders in Sri Lanka.
-
-Accordingly, the security forces of the country has issued international warrants to arrest the suspect.
-
-The Canadian security forces have been arrested by the Canadian security for the US, France, from Sri Lanka since the year 2021.
-
-The Canadian security forces have stated that the suspect is due to hand over to France.
-
-◼️
-
-[Data](articles/e4ea2e3d.json)
-
-[Extended Data](ext_articles/e4ea2e3d.ext.json)
-
----
-
-### Electricity attack in Kandy
-
-*2024-12-08 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/200709) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Power outage kills man in Kandy's Hadathunapitiya area. Incident occurred during farm work. Investigations ongoing.
-
-🟩
-
-Hadathunapitiya area, which belongs to the Kandy -Hatharialist Police Division, was killed by a man who was hit by a power outage on Saturday (07).
-
-Investigations have revealed that the man was running a cattle farm and that the electricity was hit while cleaning the farm.
-
-◼️
-
-[Data](articles/017bff88.json)
-
-[Extended Data](ext_articles/017bff88.ext.json)
-
----
-
-### Life of the Terrorism Act
-
-*2024-12-08 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200694) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Terrorism Act used against film sharers. Two arrested for "Heroes Day" event. Government denies involvement. Suspects released on bail.
-
-🟩
-
-Two people were arrested on charges of sharing old films as a Heroes Day event in the North.. It is intended to threaten in a way. The government wanted to make the news that no one was involved in such activities. Ta'an, the terrorist law was used for these arrests.. They are then allowed to go on bail.
-
-◼️
-
-[Data](articles/4d83020f.json)
-
-[Extended Data](ext_articles/4d83020f.ext.json)
 
 ---

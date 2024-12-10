@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 00:18:34**
+As of **2024-12-11 01:11:38**
 
 ## Newspaper Stats
 
-*Scraped **59,527** Articles*
+*Scraped **59,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,649
 adaderanalk | 7,246
 tamilmirrorlk | 8,495
-virakesarilk | 9,776
+virakesarilk | 9,777
 adaderanasinhalalk | 10,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,481 (99.9%) of 59,527 articles have been extended.
+59,494 (99.9%) of 59,528 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -955,6 +955,32 @@ It is our duty and responsibility to preserve this sensitive environmental regio
 [Data](articles/55cf849c.json)
 
 [Extended Data](ext_articles/55cf849c.ext.json)
+
+---
+
+### The government must build their confidence in its: the UN. Residency Fund Mark Andrew French
+
+*2024-12-10 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200934) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+UN Resident Coordinator Mark Andrew French emphasizes strengthening rule of law & protecting human rights in Sri Lanka. He commends govt efforts but urges continued action to fulfill obligations & promote economic growth.
+
+🟩
+
+The United Nations Resident Mark Andrew French French, the United Nations, said that strengthening the rule of law in the country and ensuring that it was not worth it is not easy.
+
+A special event was organized by the Sri Lanka Human Rights Commission at the Bandaranaike Memorial International Conference Hall in Colombo to commemorate the introduction of the International Human Rights Day on Tuesday (10).. He said this while attending the event.
+
+The United Nations Residents, who expressed its appreciation for the re -acquisition of 'A' and the United Nations Colombo Branch Office in collaboration with the United Nations Colombo Branch Office, urged the United Nations to commemorate the creation of the International Human Rights Declaration.
+
+...
+
+[Data](articles/5334b6db.json)
+
+[Extended Data](ext_articles/5334b6db.ext.json)
 
 ---
 
@@ -1934,33 +1960,47 @@ Commenting on the film, the director said, “Our purpose is to create the histo
 
 ---
 
-### சுகாதார மற்றும் ஊடக அமைச்சுக்களின் புதிய செயலாளராக விசேட வைத்திய நிபுணர் அனில் ஜாசிங்க நியமனம்
+### Special Medical Specialist Anil Jasinghe appointed as the new Secretary of Health and Media Ministries
 
 *2024-12-10 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200895) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க சுகாதார மற்றும் ஊடக அமைச்சுக்களின் புதிய செயலாளராக விஷேட வைத்திய நிபுணர் அனில் ஜாசிங்கவை நியமித்துள்ளார்.
+Anil Jasinghe, medical specialist, named Secretary of Health and Media Ministries by President Anura Kumara Dissanayake. Appointment letter handed over on Tuesday.
 
-அதற்கமைவான நியமனக் கடிதம் ஜனாதிபதியின் செயலாளர் கலாநிதி சனத் நந்திக குமாநாயக்கவினால் விசேட வைத்திய நிபுணர் அனில் ஜாசிங்கவிற்கு இன்று செவ்வாய்க்கிழமை (10) ஜனாதிபதி அலுவலகத்தில் வைத்து கையளிக்கப்பட்டது.
+🟩
+
+President Anura Kumara Dissanayake has appointed specialist Anil Jasinghe as the new Secretary of Health and Media Ministries.
+
+The appointment letter was handed over to the President's Office by Dr. Sanath Nandika Kumanayake, the President of the President on Tuesday (10).
 
 ◼️
 
 [Data](articles/3fd2d44c.json)
 
+[Extended Data](ext_articles/3fd2d44c.ext.json)
+
 ---
 
-### வசூலில் அதிரடி காட்டும் அல்லு அர்ஜுனின் 'புஷ்பா 2'
+### Allu Arjun's 'Pushpa 2'
 
 *2024-12-10 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200894) · `ta`
 
-தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகராக இருந்து தற்போது பான் இந்திய நட்சத்திர நடிகராக உயர்ந்திருக்கும் அல்லு அர்ஜுன் நடிப்பில் வெளியான 'புஷ்பா 2' திரைப்படம் வெளியான முதல் நான்கு நாட்களில் இந்திய மதிப்பில் 829 கோடி ரூபாய் வசூலித்து புதிய சாதனையை படைத்திருக்கிறது.
+"Pushpa 2" sets new records: ₹829 crore in 4 days, likely to cross ₹1000 crore mark. Mixed reviews but increasing collections. First Indian film to reach ₹800 crore faster than many Hindi films.
 
-இயக்குநர் சுகுமார் இயக்கத்தில் உருவான 'புஷ்பா 2' திரைப்படத்தில் அல்லு அர்ஜுன் -ராஷ்மிகா மந்தானா, பகத் பாசில் -ஆகியோர் முதன்மையான வேடத்தில் நடித்திருந்தனர். இந்த திரைப்படம் கடந்த டிசம்பர் மாதம் 5ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் வெளியானது. படத்தைப் பற்றிய கலவையான விமர்சனங்கள் வெளியானாலும் வசூல் குறையாமல் தொடர்ந்து அதிகரித்துக் கொண்டிருக்கிறது.
+🟩
 
-இந்த திரைப்படம் வெளியான முதல் நாள் 294 கோடி ரூபாயும், இரண்டாவது நாள் 449 கோடி ரூபாயும், மூன்றாவது நாள் 621 கோடி ரூபாயும், நான்காவது நாள் 829 கோடி ரூபாயும் வசூலித்து புதிய சாதனையை படைத்திருக்கிறது.
+'Pushpa 2' starring Allu Arjun, who is the leading star actor of the Telugu film industry, has set a new record of Rs 829 crore in the first four days of release.
+
+Allu Arjun -Rashmika Mantana, Bhagat Basil -Akiyor played the role of director Sukumar directed 'Pushpa 2'. The film was released on the 5th of December at the film mansions worldwide. Although mixed reviews of the film have been released, the collections are continuing to increase.
+
+The film has set a new record of Rs 294 crore on the first day of the film, the second day is Rs 449 crore, the third day is Rs 621 crore and the fourth day 829 crores.
+
+The film has set a new record in the Indian film industry so far. This means that the Indian film, which grosses Rs 500 crore, has grossed 800 crores as fast as the film, which has grossed over Rs 86 crore in the Hindi film industry.
 
 ...
 
 [Data](articles/bf4a25e1.json)
+
+[Extended Data](ext_articles/bf4a25e1.ext.json)
 
 ---
 
@@ -1980,6 +2020,8 @@ However, a committee appointed to study this proposal by the previous government
 
 [Data](articles/d66d74c6.json)
 
+[Extended Data](ext_articles/d66d74c6.ext.json)
+
 ---
 
 ### Dr. Anil Jasinghe appointed Secretary to Ministry of Health and Media
@@ -1997,6 +2039,8 @@ He also previously served as the Director of the Colombo South Teaching Hospital
 ◼️
 
 [Data](articles/90f7d90a.json)
+
+[Extended Data](ext_articles/90f7d90a.ext.json)
 
 ---
 
@@ -2052,17 +2096,27 @@ Sri Lanka Cricket first organizes T10s to begin tomorrow (11).
 
 ---
 
-### විශේෂඥ වෛද්‍ය අනිල් ජාසිංහට අමාත්‍යාංශ ලේකම් තනතුරක්
+### Specialist Dr. Anil Jasinghe holds a post of Secretary
 
 *2024-12-10 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204229) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා පත් කර තිබේ.
+Here's a summary of 200 characters:
 
-මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා වෙත ජනාධිපති ලේකම් කාර්යාලයේදී අද (10) පස්වරුවේ පිරිනැමිණි.
+
+
+Dr. Anil Jasinghe appointed Secretary to Ministry of Health & Mass Media by President Anura Kumara Dissanayake. Appointment letter presented to Presidential Secretariat.
+
+🟩
+
+Dr. Anil Jasinghe has been appointed as the new Secretary to the Ministry of Health and Mass Media by President Anura Kumara Dissanayake.
+
+The relevant appointment letter was presented to the Presidential Secretary to the Presidential Secretary to the Presidential Secretariat this afternoon.
 
 ◼️
 
 [Data](articles/bfb45513.json)
+
+[Extended Data](ext_articles/bfb45513.ext.json)
 
 ---
 
@@ -2105,6 +2159,8 @@ The legal draftsman will now amend the draft bill to include these provisions. (
 ◼️
 
 [Data](articles/c8be13f6.json)
+
+[Extended Data](ext_articles/c8be13f6.ext.json)
 
 ---
 
@@ -2388,21 +2444,31 @@ In addition to the presidential residences, the official residences of several h
 
 ---
 
-### රු. ලක්ෂ 30ක දුම්වැටි සමග කාන්තාවන් දෙදෙනෙක් අල්ලයි
+### Rs. Two women arrested with cigarettes
 
 *2024-12-10 11:57:02* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ-30ක-දුම්වැටි-සමග-කාන්තාවන්-දෙදෙනෙක්-අල්ලයි/11-413553) · `si`
 
-රුපියල් ලක්ෂ තිහක් පමණ වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් , නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි ගුවන් මගී කාන්තාවන් දෙදෙනෙකු 12/10 දින අලුයම ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+Two women arrested at Katunayake airport for smuggling cigarettes. They were returning from Dubai after losing their jobs. One is 35 from Moratuwa, another 52 from Mirigama. To be released on bail and produced in court.
 
-මොවුන් දෙදෙනා ඩුබායි හි ගෘහ සේවය සදහා ගොස් ඇති අතර එහිදී ඔවුන්ට එම රැකියා අවස්ථා නොලැබී තවදුරටත් එරට රැදී සිටියදී එරට ශ්‍රී ලංකා තානාපති කාර්යාලය සහ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් විසින් තාවකාලික ගමන් බලපත්‍ර යටතේ මොවුන් දෙදෙනා ආපසු ශ්‍රී ලංකාව වෙත එවා තිබේ .
+🟩
 
-ඔවුන් එසේ පැමිණෙන අතරතුර මෙම විදේශීය නිෂ්පාදිත " මැන්චෙස්ටර් " වර්ගයේ දුම්වැටි 20,000 ක් අඩංගු දුම්වැටි කාටූන් 100 ක් , තම ගමන් මලු තුළ සගවා ගෙන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබේ .
+A large number of air passenger women who were illegally brought to Sri Lanka by the Katunayaka Bureau of 12/10 pm, two airport women have been arrested by the Airport Arrivals periphetic.
 
-මොවුන් දෙදෙනා අතරින් එක් කාන්තාවක් 33 හැවිරිදි වියේ පසුවන මොරටුව ප්‍රදේශයේ පදිංචිකාරිනියක වන අතර අනෙක් කාන්තාව 52 හැවිරිදි වියේ පසුවන මීරිගම ප්‍රදේශයේ පදිංචිකාරිනියකි.
+The two had gone to the house of Dubai, where they had not received their jobs and the Sri Lankan Embassy of Immigration and Immigration and Immigration Department (Immigration Department officials) have returned to Sri Lanka.
 
-...
+While they come, they have come to the Katunayake airport with a 100,000 smoking croots of 20,000 cigarettes of 'Manchester "types.
+
+One of them is a 35-year-old resident of Moratuwa, another woman is a 52-year-old resident of Mirigama.
+
+They were 12.45 days from Dubai to 12.45 days to 12.45 am from Dubai to the Katunayake Airport.
+
+The two suspects were arrested at the Katunayake airport and were to be released on police bail and will be produced before the Negombo Magistrate's Court.
+
+◼️
 
 [Data](articles/dd6c0970.json)
+
+[Extended Data](ext_articles/dd6c0970.ext.json)
 
 ---
 
@@ -2421,6 +2487,8 @@ Furthermore, the preparation and implementation of an effective program with the
 ...
 
 [Data](articles/e7cb7202.json)
+
+[Extended Data](ext_articles/e7cb7202.ext.json)
 
 ---
 
@@ -2448,42 +2516,28 @@ He said that the rice prices published by a new rice price is legal against anyo
 
 ---
 
-### ஜனாதிபதி தலைமையில் கல்வி அமைச்சின் செலவுத் தலைப்பு தொடர்பான கலந்துரையாடல்
+### Discussion on the expenditure title of the Ministry of Education headed by the President
 
 *2024-12-10 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200873) · `ta`
 
-கல்வி அமைச்சின் செலவுத் தொடர்பான ஆரம்ப கலந்துரையாடல்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் ஆரம்பிக்கப்பட்டுள்ளன.
+Here's a summary of 200 characters:
 
-அதன் ஒரு அங்கமாக கல்வி அமைச்சின் செலவுத் தலைப்பு தொடர்பிலான வரவு செலவு திட்ட யோசனைகள் குறித்த கலந்துரையாடல் இன்று செவ்வாய்க்கிழமை (10) முற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
 
-கல்வி, உயர்கல்வி, தொழில் கல்வி அமைச்சர் மற்றும் பிரதமர் ஹரினி அமரசூரிய,கல்வி,  உயர்கல்வி, தொழில் கல்வி பிரதி அமைச்சர் வைத்தியர் மதுர செனவிரத்ன, ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, நிதி அமைச்சின் செயலாளர் மஹிந்த சிறிவர்தன, கல்வி அமைச்சின் செயலாளர் நாலக்க கலுவெவ உட்பட அமைச்சுக்களின் அதிகாரிகள் பலர் இதன்போது கலந்துகொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+"President Anura Kumara Dissanayake leads preliminary discussions on Ministry of Education expenditure. Meeting includes Education Minister Harini Amarasuriya, Deputy Minister Madura Seneviratne, and officials from Finance and Education ministries."
+
+🟩
+
+Preliminary discussions on the expenditure of the Ministry of Education have been launched under the leadership of President Anura Kumara Dissanayake.
+
+As part of this, a discussion on budget ideas on the expenditure headline of the Ministry of Education was held today (10) at the Presidential Office.
+
+Minister of Education, Higher Education, Vocational Education and Prime Minister Harini Amarasuriya, Deputy Minister of Education, Higher Education and Vocational Education, Dr. Madura Seneviratne, Secretary to the President, Dr. Nandika Sanath Kumanayake, Secretary to the Ministry of Finance Mahinda Siriwardena and Secretary to the Ministry of Education, Nalaka Kaluwewa.
 
 ◼️
 
 [Data](articles/d01064b4.json)
 
----
-
-### President Dissanayake’s India visit on Dec. 15
-
-*2024-12-10 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104131/president-dissanayakes-india-visit-on-dec-15) · `en`
-
-Sri Lanka’s President Anura Kumara Dissanayake will undertake an official visit to India on December 15 following an invitation from the Indian government.
-
-This was confirmed by the Cabinet spokesman, Minister Dr. Nalinda Jayatissa during the Cabinet press conference held on November 26.
-
-This will be Dissanayake’s inaugural foreign trip since assuming the presidency.
-
-Dr. Jayatissa further stated that the President will be in India until December 17, and will call on India’s President, Prime Minister and several other dignitaries.
-
-The Head of the State will be accompanied by the Foreign Minister and the Deputy Minister of Finance for the visit, the Cabinet Spokesman added.
-
-Minister of Foreign Affairs Vijitha Herath had previously stated that Dissanayake will call on India’s Prime Minister Narendra Modi and External Affairs Minister S Jaishankar, who became the first foreign dignitary to call on Dissanayake when he was elected President in September and had extended the invitation.
-
-...
-
-[Data](articles/678e1f56.json)
-
-[Extended Data](ext_articles/678e1f56.ext.json)
+[Extended Data](ext_articles/d01064b4.ext.json)
 
 ---

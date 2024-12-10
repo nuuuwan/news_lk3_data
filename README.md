@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 05:51:44**
+As of **2024-12-10 06:16:14**
 
 ## Newspaper Stats
 
-*Scraped **59,359** Articles*
+*Scraped **59,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 619
-islandlk | 3,583
+islandlk | 3,584
 economynextcom | 3,603
 dailyftlk | 4,098
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,344 (100.0%) of 59,359 articles have been extended.
+59,344 (100.0%) of 59,360 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -621,6 +621,26 @@ I was an attendee at the International Conference on “Reimagining of the Elect
 ---
 
 ### 2024-12-09 (Monday)
+
+### Holiday experience with ‘Christmas Forever’
+
+*2024-12-09 23:37:00* · [`islandlk`](http://island.lk/holiday-experience-with-christmas-forever/) · `en`
+
+Yes, the holiday season is here, so get ready to groove into the festive activities, especially with the JJ Twins’ innovative Christmas album, ‘Christmas Forever.’
+
+The album contains six original R&B-infused tracks that blend Soulful harmonies, Funky beats, Heartfelt lyrics, and a Fresh Holiday Sound.
+
+According to the JJ Twins, ‘Christmas Forever’ is not your typical holiday album. It’s a vibrant, contemporary take on the season, infused with the Twins’ signature style, they say.
+
+The tracks are ‘Christmas Forever’, ‘All I Want Is You This Christmas’, ‘Fell In Love On Christmas Eve’, ‘Home For Christmas’, ‘Joy To The World’ and ‘You & I’.
+
+The twins also mentioned that by purchasing a CD it would help them invest in their future music projects.
+
+...
+
+[Data](articles/4e33a9f1.json)
+
+---
 
 ### NDB Investment Bank wins Euromoney Award for the 13th consecutive year.
 
@@ -2259,35 +2279,5 @@ Shane Niham, who has danced in this song, has attracted young fans. The composer
 [Data](articles/94a3da65.json)
 
 [Extended Data](ext_articles/94a3da65.ext.json)
-
----
-
-### Final decision on bonus of the Electricity Board
-
-*2024-12-09 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204194) · `si`
-
-Here's a summary of the article in 200 characters:
-
-
-
-CEB denies staff bonus despite profit. Funds used for debt repayment and tariff reduction. Employees protest, union demands payment.
-
-🟩
-
-The Ceylon Electricity Board (CEB) Board Board has decided not to give a bonus to the Ceylon Electricity staff employees.
-
-The Ceylon Electricity Board (Ceylon Electricity Board has achieved a major profit, the Board of Directors emphasized that the money has been deployed to reduce debt repayment and electricity tariffs.
-
-The Ceylon Electricity staff recently requested the Chairman of the CEB, the CEB Chairman to be paid before the Ceylon Electricity Board (CEB).
-
-Addressing a press conference, the General Secretary of the Association Ranjan Jayalal said that the CEB employees were not given the bonus of the CEB, but the bonus should be given to the employees.
-
-However, the Ceylon Electricity Association of Ceylon Electricity Board (CEB) has asked for a bonus to the National Institute of Ceylon Electricity.
-
-...
-
-[Data](articles/c19a3cbd.json)
-
-[Extended Data](ext_articles/c19a3cbd.ext.json)
 
 ---

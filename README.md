@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 08:46:22**
+As of **2024-12-10 09:07:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,355 (100.0%) of 59,368 articles have been extended.
+59,358 (100.0%) of 59,368 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Accordingly, the maximum retail price for one kilogram of imported raw rice is R
 
 [Data](articles/b3c70699.json)
 
+[Extended Data](ext_articles/b3c70699.ext.json)
+
 ---
 
 ### Fairly heavy showers expected in parts of the island
@@ -73,6 +75,8 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 ◼️
 
 [Data](articles/b66a343e.json)
+
+[Extended Data](ext_articles/b66a343e.ext.json)
 
 ---
 
@@ -865,6 +869,8 @@ Amid those developments, banking and financial, manufacturing, hotel and plantat
 ...
 
 [Data](articles/decba914.json)
+
+[Extended Data](ext_articles/decba914.ext.json)
 
 ---
 

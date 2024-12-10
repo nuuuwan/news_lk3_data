@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 02:26:56**
+As of **2024-12-11 04:01:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,500 (100.0%) of 59,529 articles have been extended.
+59,516 (100.0%) of 59,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1042,21 +1042,33 @@ If the garment factory is closed, the protests added to the protest.
 
 ---
 
-### අපරාධයකින් ඉපයූ දේපළ ගැන පනත සංශෝධනය කරයි
+### Amendments to the Crime Crime
 
 *2024-12-10 16:59:04* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධයකින්-ඉපයූ-දේපළ-ගැන-පනත-සංශෝධනය-කරයි/11-413562) · `si`
 
-අපරාධයකින් උපයාගත් දේ පිළිබඳ පනත් කෙටුම්පත (Proceeds of Crime Bill) සංශෝධනය සඳහා කැබිනට අනුමැතිය ලැබී ඇත.
+Here's a summary of the text in approximately 200 characters:
 
-නීති කෙටුම්පත් සම්පාදක විසින් කෙටුම්පත් කරන ලද අපරාධයකින් උත්පාදිත දේ පිළිබඳ පනත් කෙටුම්පත රජයේ ගැසට්‌ පත්‍රයේ පළ කර පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා 2024-08-12 දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇත.
 
-එහෙත්, එකී පනත් කෙටුම්පත ගැසට්‌ පත්‍රයේ පළ කිරීමෙන් අනතුරුව ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් නිරීක්ෂණ ගණනාවක් ඉදිරිපත් කරනු ලැබ ඇත.
 
-ඒ අනුව, මෙම පනත් කෙටුම්පතට අදාළව මූලික කෙටුම්පත සකස් කිරීම සඳහා එවකට අධිකරණ, බන්ධනාගාර කටයුතු සහ ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ ඇමති විසින් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකුගේ ප්‍රධානත්වයෙන් පත් කරන ලද කමිටුව වෙත ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ඉදිරිපත් කරන ලද නිරීක්ෂණ යොමු කර ඇති අතර, එම කමිටුව විසින් අපරාධයකින් උත්පාදිත දේ පිළිබඳ පනත් කෙටුම්පත සඳහා තවදුරටත් විධිවිධාන කිහිපයක් ඇතුළත් කරමින් දැනට පිළියෙල කරනු ලැබ ඇති පනත් කෙටුම්පත සංශෝධනය කිරීම නිර්දේශ කරනු ලැබ ඇත.
+Cabinet approves amendment to Crime Bill. IMF observes issues after publication. Justice Minister forms committee to revise draft based on IMF recommendations. Cabinet advises legal drafts on crime bill revisions.
 
-...
+🟩
+
+Cabine has approved the amendment to the amendment of the Bill of Crime.
+
+Cabinet approval was issued on 22, 2024-2011 to publish the Bill of Law Draftsman to publish the Bill of the Government Gazette.
+
+However, after the Bill published a gazette, the International Monetary Fund has presented many observations.
+
+Accordingly, the International Monetary Fund has been sent by the International Monetary Fund to the committee appointed by the Minister of Justice and Constitutional Reforms by Minister of Justice and Constitutional Reforms to prepare the basic draft in this Bill.Recommended the Bill, which has been prepared, has been prepared, has been prepared, which has already been prepared in the Bill.
+
+The proposal submitted by the Cabinet of Justice and National Integration was approved to advise legal drafts and National Integration Form to further advise on the recommendations of the crime.
+
+◼️
 
 [Data](articles/ac083068.json)
+
+[Extended Data](ext_articles/ac083068.ext.json)
 
 ---
 

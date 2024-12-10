@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 16:17:00**
+As of **2024-12-10 15:43:03**
 
 ## Newspaper Stats
 
-*Scraped **59,463** Articles*
+*Scraped **59,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,193 +16,55 @@ islandlk | 3,584
 economynextcom | 3,610
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,638
-adaderanalk | 7,239
-tamilmirrorlk | 8,488
-virakesarilk | 9,761
+adalk | 5,637
+adaderanalk | 7,237
+tamilmirrorlk | 8,485
+virakesarilk | 9,760
 adaderanasinhalalk | 10,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,414 (99.9%) of 59,463 articles have been extended.
+59,410 (99.9%) of 59,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
 
-### தேசிய பட்டியல் உறுப்பினரானார் பைசர் முஸ்தபா
-
-*2024-12-10 16:02:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பட்டியல்-உறுப்பினரானார்-பைசர்-முஸ்தபா/175-348533) · `ta`
-
-புதிய ஜனநாயக முன்னணி (NDF) தனது தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினராக பைசர் முஸ்தபாவின் பெயரை சமர்ப்பித்துள்ளதாக தேசிய ஜனநாயக முன்னணியின் பொதுச் செயலாளர் ஷர்மிளா பெரேரா தெரிவித்துள்ளார்.
-
-பொதுத் தேர்தலில் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிட்ட பெரும்பான்மையான கூட்டணி உறுப்பினர்களின் குரலுக்கு செவிசாய்க்க வேண்டியிருப்பதால் முஸ்தபாவின் பெயரை தேர்தல் ஆணைக்குழுவிடம் சமர்ப்பித்ததாக டெய்லி மிரருக்கு அவர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/98b04c2c.json)
-
----
-
-### 6 மணித்தியால நீர் வெட்டு
-
-*2024-12-10 15:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மணித்தியால-நீர்-வெட்டு/175-348532) · `ta`
-
-கொழும்பின் சில பகுதிகளில் 6 மணித்தியால நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபை தெரிவித்துள்ளது.
-
-அதற்கமைய கொழும்பு 12, 13,14 மற்றும் 15 ஆகிய பகுதிகளில் இன்று (10) இரவு ஒன்பது மணிமுதல் நாளை (11) அதிகாலை மூன்று மணி வரை இந்த நீர்வெட்டு அமல்படுத்தப்படவுள்ளது.
-
-◼️
-
-[Data](articles/965be125.json)
-
----
-
-### Allow the Presidential Palace to use
-
-*2024-12-10 15:48:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாளிகைகளைப்-பயன்படுத்த-அனுமதி/175-348531) · `ta`
-
-Presidential Palace asset usage: Cabinet approves strategy panel for economic utilization of unused state properties.
-
-🟩
-
-The government has given permission to introduce the appropriate system for the use of Presidential Palaces and Banks in various parts of the country under the control of the Ministry of Public Administration, Provincial Councils and Local Government.
-
-Cabinet spokesman and minister Nalinda Jayatissa said that under the authority of the Provincial Councils and Local Government Ministry, 50 state bungalies in Colombo 7 and Colombo 5 areas.
-
-These assets are allocated to former presidents, ministers, deputy ministers and various public institutions.
-
-In addition, the Presidential Palace is located in Colombo, Kandy, Nuwara Eliya, Mahiyanganaya, Anuradhapura, Kadirgamam, Jaffna, Embilipitiya and Pentota under the administrative authority of the Presidential Office.
-
-However, except for the mansions in Colombo and Kandy, these assets have not been used regularly.
-
-...
-
-[Data](articles/4d48e365.json)
-
-[Extended Data](ext_articles/4d48e365.ext.json)
-
----
-
-### சகலருக்கும் குறைந்தபட்ச உணவுத்தேவை : உணவுக் கொள்கை, பாதுகாப்புக் குழுவை நியமிக்க அமைச்சரவை அனுமதி
-
-*2024-12-10 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200905) · `ta`
-
-தேசிய உணவு மற்றும் போஷாக்கு பாதுகாப்பை உறுதிப்படுத்தல் மற்றும் பாதுகாப்பான  முறையில் உணவு பெற்றுக்கொடுப்பதே அரசாங்கத்தின் முதன்மை பணியாகும் என்ற வகையில், சகல பிரஜைகளுக்கும் குறைந்தபட்ச உணவுத் தேவையை போதியளவிலும் தரமாகவும் தாங்கிக்கொள்ள கூடிய விலையிலும் பெற்றுக்கொடுக்கும் நோக்கில் உணவு கொள்கை மற்றும் பாதுகாப்பு குழுவை, ஜனாதிபதி அலுவலகத்தின் கீழ் நியமிப்பதற்காக ஜனாதிபதி அநுரகுமார திசாநாயக்கவினால் சமர்பிக்கப்பட்ட யோசனைக்கு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
-
-நாட்டுக்குள் உற்பத்தி செய்யக்கூடிய அனைத்து உணவு வகைகளையும் உள்நாட்டில் உற்பத்தி செய்தல். குறைந்தபட்சம் 03 மாதங்களுக்கு போதிய உணவு தொகை இருப்பை உறுதிப்படுத்தல். நாட்டிலுள்ள உணவுத் தொகை தொடர்பில் தகவல் கட்டமைப்பொன்றை நடத்திச் செல்லல்.
-
-உணவு பாதுகாப்புக்கு தேவையான உற்பத்திகள், களஞ்சியம், விநியோகம், தொகை மற்றும் சில்லறை வியாபாரம் ஆகிய விடயங்களுக்காக தனியார் துறையின் பங்களிப்பையும் பெற்றுக்கொண்டு பயனுள்ள வேலைத்திட்டத்தை முன்னெடுத்தல், என்பனவே இந்த குழுவின் முதன்மை பணிகளாகும்.
-
-...
-
-[Data](articles/e3f5abf6.json)
-
----
-
-### Faiszer Musthapha to be appointed NDF National List MP
-
-*2024-12-10 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104142/faiszer-musthapha-to-be-appointed-ndf-national-list-mp) · `en`
-
-The New Democratic Front (NDF) has informed the Election Commission that Faiszer Musthapha has been nominated to be appointed as a Member of Parliament through its National List, party sources said.
-
-President’s Counsel Faiszer Musthapha, a senior lawyer and politician, had previously served as the Minister of Sports and Provincial Councils and Local Government.
-
-According to the results of the 2024 General Election, the New Democratic Front, which contested under the symbol of the ‘Gas Cylinder’, won three parliamentary seats and two National List seats.
-
-The New Democratic Front was formed by the United National Party (UNP), the Sri Lanka Freedom Party (SLFP) and the ‘Podujana Eksath Nidahas Peramuna’ to contest the election.
-
-The other National List MP seat had been filled by former minister Ravi Karunanayake of the UNP, under somewhat controversial circumstances.
-
-...
-
-[Data](articles/c3814e8b.json)
-
-[Extended Data](ext_articles/c3814e8b.ext.json)
-
----
-
-### Sean Vikram's 'Heroic Tira Suran- Part 2'
+### பார்வையாளர்களின் கவனம் ஈர்க்கும் சீயான் விக்ரமின் ' வீர தீர சூரன்- பார்ட் 2' பட  கிளர்வோட்டம்
 
 *2024-12-10 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200899) · `ta`
 
-Here's a 200-character summary of Sean Vikram's 'Heroic Tira Suran- Part 2':
+சீயான் விக்ரம் கதையின் நாயகனாக காளி எனும் கதாபாத்திரத்தில் எக்சன் அவதாரத்தில் நடித்திருக்கும் 'வீர தீர சூரன், பார்ட் 2 ' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது. இந்த கிளர்வோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் ஐந்து மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனையும் படைத்து வருகிறது.
 
+இயக்குநர் எஸ். யு. அருண்குமார் இயக்கத்தில் உருவாகி வரும் 'வீர தீர சூரன் - பார்ட் 2 'எனும் திரைப்படத்தில் சீயான் விக்ரம், எஸ். ஜே. சூர்யா, சுராஜ் வெஞ்சரமூடு , துஷாரா விஜயன், சித்திக் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
+தேனி ஈஸ்வர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார். எக்சன் திரில்லர் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை ஹெச். ஆர். பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ரியா ஷிபு தயாரிக்கிறார்.
 
-"Veera Deera Suran, Part 2" releases with Kali as hero. Directed by S.U. Arun Kumar, stars J.Surya, Suraj Venjaramudu. Music by V.Prakash Kumar. Expected January release. Fans await after 'Thangalan' underperformance.
-
-🟩
-
-The film 'Veera Deera Suran, Part 2', which plays the role of Kali as Kali as the hero of the story, has been released.. Within a short period of time, the revolution has been visited by over five million viewers.
-
-Director S.. U. Arun Kumar's upcoming film 'Veera Thea Suran - Part 2'. J.. Surya, Suraj Venjaramudu, Dushara Vijayan, Siddique and many others have acted.
-
-The film has been recorded by Theni Eswar. V.. Prakash Kumar has composed the music. H.. R. Producer Riya Shibu is produced on behalf of Pictures.
-
-The shooting of the film 'Veera Thira Suran Bhart 2' is nearing completion and the post -shooting technical work is underway.. The film will be released in January next year. With all the commercial features in the scenes, the expectation of the film has increased.
-
-Meanwhile, the expectation of the film has increased among fans as the film 'Thangalan' starring Seyan Vikram has not been a major commercial success.
-
-◼️
+...
 
 [Data](articles/5ebd3f7b.json)
 
-[Extended Data](ext_articles/5ebd3f7b.ext.json)
-
 ---
 
-### Former CCD Director remanded
-
-*2024-12-10 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104141/former-ccd-director-remanded) · `en`
-
-The former Director of the Colombo Crimes Division (CCD), ASP Neville Silva has been ordered to be remanded in custody until December 13 after he was produced before the Ratnapura Magistrate’s Court today (10).
-
-The former CCD Director was arrested by the Criminal Investigations Department (CID) on Monday (09).
-
-The CID had launched an investigation based on a complaint received claiming that ASP Silva had allegedly acted in a manner that was partial towards a complainant when investigating a case filed with the CCD in August 2023.
-
-It has been confirmed that during this investigation, ASP Silva had aided and abetted in an incident of abduction and wrongful confinement.
-
-◼️
-
-[Data](articles/bc078702.json)
-
----
-
-### Club Wasantha murder suspects arrested
+### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන්ට ඇප
 
 *2024-12-10 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204232) · `si`
 
-Here's a summary of 200 characters:
+ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන් 8 දෙනෙකු දැඩි ඇප කොන්දේසි මත මුදා හැරීමට හෝමාගම මහාධිකරණ විනිසුරු මොහොමඩ් ඉර්ෂඩීන් මහතා අද (10) නියෝග කළේය.
 
+එහිදී සැකකරුවන් 08 දෙනාට එක් අයෙකුට රුපියල් ලක්ෂය බැගින් වූ මුදල් ඇපයක් සහ ශරීර ඇප දෙක බැගින් නියම කර තිබුණි.
 
+මෙම සැකකරුවන් 08 දෙනාට විදේශ ගමන් තහනම් කරමින් එම සැකකරුවන්ගේ විදේශ ගමන් බලපත්‍ර අධිකරණය වෙත ඉදිරිපත් කරන ලෙසත් සෑම ඉරිදා දිනයකදීම අතුරුගිරිය පොලීසියේ පෙනී සිට අත්සන් කළ යුතු බවත් දැඩි ඇප කොන්දේසි පනවමින් විනිසුරුවරයා නියෝග කළේය.
 
-Eight suspects in Club Wasantha murder case granted Rs. 100,000 bail each. Judge orders passports surrendered. Businessman killed at tattoo center opening. Additional suspect named witness. Attorneys represent five suspects.
+පසුගිය ජුලි මස 8 වනදා අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමේ අවස්ථාවටක එක්වෙමින් සිටියදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තට වෙඩිතබා ඝාතනය කෙරුණි.
 
-🟩
+එහිදී වෙඩිවැදීමෙන් නයන වාසුල විජේරත්න යන අයද මියගිය අතර අදාළ ඝාතනය සිදුකිරීමට ආධාර අනුබල ලබාදීම සම්බන්ධයෙන් මෙම සැකකරුවන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර තිබුණි.
 
-Homagama High Court Judge Mohamed Irden today (10) ordered eight suspects in Club Wasantha murder.
-
-The eight suspects were paid a cash bail of Rs. 100,000 each.
-
-The judge also ordered the passport to the passport to the courts and signed the passports of the suspects to the passports of the suspects to the passport to the courts.
-
-The business was shot dead at the opening of a Tattoe Center in Athurugiriya on July 8.
-
-Nayana Vasul Wijeratne was also killed and the suspects were arrested and remanded in connection with the assistance of the murder.
-
-State Counsel Shakthi Jagodarachchi informed the Attorney General's Department informed the court that these suspects are expected to be named in this case as witnesses.
-
-Attorney at Law Nuwan Jayawardena appeared for the suspects for the suspects of 03,04,05,06,07.
-
-◼️
+...
 
 [Data](articles/003d381e.json)
-
-[Extended Data](ext_articles/003d381e.ext.json)
 
 ---
 
@@ -261,20 +123,6 @@ The shocking shooting incident had occurred during the opening ceremony of a tat
 ...
 
 [Data](articles/283ae681.json)
-
----
-
-### විශේෂඥ වෛද්‍ය අනිල් ජාසිංහට ලේකම් ධුරයක්
-
-*2024-12-10 14:31:42* · [`adalk`](https://www.ada.lk/breaking_news/විශේෂඥ-වෛද්‍ය-අනිල්-ජාසිංහට-ලේකම්-ධුරයක්/11-413556) · `si`
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා ලෙස විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා පත් කර තිබේ.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් මෙම පත් කිරීම සිදු කර ඇති අතර, අද(10දා) පෙරවරුවේ ඊට අදාළ පත්වීමේ ලිපිය ජනාධිපති ලේකම්වරයා විසින් ජනාධිපති ලේකම් කර්යාලයේදී ඒ මහතාට ප්‍රධානය කර ඇත.
-
-◼️
-
-[Data](articles/487079b1.json)
 
 ---
 
@@ -395,10 +243,6 @@ The official appointment letter Mr.. Jasinghe was handed over to the Presidentia
 Dr. Anil Jasinghe has been appointed as the new Secretary to the Ministry of Health and Media by President Anura Kumara Dissanayake.
 
 The appointment letter was handed over to Dr. Jasinghe today (10) at the Presidential Secretariat, the President’s Media Division (PMD) said.
-
-Dr. Anil Jasinghe had previously served as the Director-General of Health Services from December 2017 to August 2020 and played an immense part in the country’s battle against the COVID-19 pandemic. He was later appointed as the Secretary to the Ministry of Environment.
-
-He also previously served as the Director of the Colombo South Teaching Hospital (2009-2012) and Director of the National Hospital of Sri Lanka (2012-2017).
 
 ◼️
 
@@ -2207,5 +2051,137 @@ Accordingly, a wristband with the message “End Gender Based Violence” was pr
 [Data](articles/76a50ddd.json)
 
 [Extended Data](ext_articles/76a50ddd.ext.json)
+
+---
+
+### New Secretary at Fisheries Ministry
+
+*2024-12-10 03:44:27* · [`dailyftlk`](https://www.ft.lk/news/New-Secretary-at-Fisheries-Ministry/56-770309) · `en`
+
+President Anura Kumara Dissanayake has appointed Attorney-at-Law M.L.A.S. Manthrinayake as the new Secretary to the Ministry of Fisheries, Aquatic, and Ocean Resources.
+
+The official appointment letter was presented to Manthrinayake by Secretary to the President Dr. Nandika Sanath Kumanayake yesterday according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/0ffff246.json)
+
+[Extended Data](ext_articles/0ffff246.ext.json)
+
+---
+
+### LAUGFS Rubber crowned Sri Lanka’s Most Outstanding Exporter
+
+*2024-12-10 03:41:14* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-crowned-Sri-Lanka-s-Most-Outstanding-Exporter/34-770308) · `en`
+
+LAUGFS Rubber, a subsidiary of the diversified conglomerate LAUGFS Holdings, has once again proven its commitment to excellence by clinching the prestigious award for Most Outstanding Exporter – Overall at the 32nd Annual National Chamber of Exporters (NCE) Export Awards 2024.
+
+This is not the first time LAUGFS Rubber has received this recognition, having previously won the same accolade in 2022. It also maintains a stellar track record in the rubber tyre and accessories sector, earning gold awards for four consecutive years.
+
+LAUGFS Holdings operates over 20 companies across diverse industries, including LPG, maritime, petroleum, lubricants, renewable energy, hospitality with Anantaya Resorts, retail through LAUGFS Supermarkets, and environmental services such as vehicle emission testing through LAUGFS Eco Sri. Together, these sectors reflect the group’s contribution to the nation’s economy and its steadfast commitment to growth and sustainability.
+
+...
+
+[Data](articles/39d179e9.json)
+
+[Extended Data](ext_articles/39d179e9.ext.json)
+
+---
+
+### Sri Lanka Barometer showcases  “Sri Lanka Speaks”
+
+*2024-12-10 03:37:06* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Barometer-showcases-Sri-Lanka-Speaks/56-770307) · `en`
+
+Personal reflections from around the country support evidence-based insights into public opinion on reconciliation and social cohesion
+
+The Sri Lanka Barometer (SLB) last week held a unique three-day exhibition themed “Sri Lanka Speaks” to the public at the Independence Square Arcade in Colombo.
+
+The exhibition showcased key findings from the SLB Public Opinion Survey on Reconciliation, accompanied by photo stories that capture Sri Lankan’s experiences of reconciliation, bringing the SLB Survey’s data to life.
+
+The SLB is supported by the Strengthening Social Cohesion and Peace in Sri Lanka (SCOPE) program, co-funded by the European Union and the German Federal Foreign Office, and implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH in partnership with the Government of Sri Lanka.
+
+...
+
+[Data](articles/39d561c8.json)
+
+[Extended Data](ext_articles/39d561c8.ext.json)
+
+---
+
+### Sivajilingam in the International Therapy Unit
+
+*2024-12-10 03:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிதீவிர-சிகிச்சைப்-பிரிவில்-சிவாஜிலிங்கம்/175-348509) · `ta`
+
+MK Sivajilingam, Tamil National Party Secretary-General, hospitalized in Colombo after falling unconscious during a medical check-up. Admitted to ICU, undergoing treatment with artificial respirator.
+
+🟩
+
+Secretary -General of the Tamil National Party, MK Sivajilingam, has been admitted to a private hospital in a private hospital in Kalupitiya, Colombo.
+
+Former Member of Parliament MK. Sivajilingam had visited Colombo as a personal visit. In this case, when he was going to the hospital for a regular physical examination, he was suddenly affected by the hospital and fell unconscious.
+
+He was immediately taken to the Kaluppitti private hospital and admitted to the Intensive Care Unit.
+
+He is being treated with the help of an artificial respiratory device in the intensive care unit.. (A)
+
+◼️
+
+[Data](articles/bfbc1810.json)
+
+[Extended Data](ext_articles/bfbc1810.ext.json)
+
+---
+
+### US and Sri Lanka advance emergency preparedness with regional partners
+
+*2024-12-10 03:34:26* · [`dailyftlk`](https://www.ft.lk/news/US-and-Sri-Lanka-advance-emergency-preparedness-with-regional-partners/56-770306) · `en`
+
+Regional participants engage in a practical exercise during the Sub-Regional CBRN Response Workshop in Colombo
+
+Expert participants from Sri Lanka, Bangladesh, India, Maldives and the United States gathered in Colombo 3-5 Dec. to exchange knowledge on emergency preparedness and response
+
+Assistant Legal Attache Damian Walke, an official from the US Embassy in Manila discusses strategies for emergency preparedness at the workshop
+
+The US Embassy in Colombo, in collaboration with Sri Lanka’s Disaster Management Centre, hosted a three-day regional workshop from 3 to 5 December to improve readiness for Chemical, Biological, Radiological, and Nuclear (CBRN) emergencies.
+
+The event brought together 40 participants from Sri Lanka, Maldives, Bangladesh, India, and the United States to focus on saving lives, protecting the environment, and reducing harm during emergency situations.
+
+...
+
+[Data](articles/5ed4c01b.json)
+
+[Extended Data](ext_articles/5ed4c01b.ext.json)
+
+---
+
+### Sri Lanka College of Journalism holds 2024 graduation
+
+*2024-12-10 03:30:05* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-College-of-Journalism-holds-2024-graduation/56-770305) · `en`
+
+The Sri Lanka College of Journalism, established in 2004, held its 2024 graduation ceremony recently at the Orchid Hall of the Bandaranaike Memorial International Conference Hall (BMICH), honouring its most recent cohort of diploma and certificate program graduates.
+
+Sri Lanka College of Journalism Deputy Chairperson Hana Ibrahim delivered the opening remarks, warmly welcoming the graduates and distinguished attendees. Sri Lanka Rupavahini Corporation Chairman Dr. Senesh Bandara Dissanayake, a prominent academic in journalism/media studies, served as the Guest of Honour, delivering an inspirational keynote address emphasising the importance of journalism in shaping public discourse and fostering accountability.
+
+...
+
+[Data](articles/f7d2d42f.json)
+
+[Extended Data](ext_articles/f7d2d42f.ext.json)
+
+---
+
+### USAID’s PRO-INFO celebrates thousand stories on CitizensConnect
+
+*2024-12-10 03:28:13* · [`dailyftlk`](https://www.ft.lk/news/USAID-s-PRO-INFO-celebrates-thousand-stories-on-CitizensConnect/56-770304) · `en`
+
+The United States Agency for International Development (USAID) and partner the International Research & Exchanges Board (IREX) celebrated the critical role citizen journalists play in amplifying voices often overlooked by mainstream media in a celebration of the thousandth story appearing on the publishing platform CitizensConnect.
+
+The celebration — “CC1000 – Celebration of a Thousand Stories” — on 6 December at ITC Ratnadipa spotlighted the transformative role of citizen journalism in shaping Sri Lanka’s media landscape by bolstering voices, stories and communities usually left out of mainstream media coverage. Such coverage enriches the media environment beyond the traditional definitions of news.
+
+...
+
+[Data](articles/a188fc1a.json)
+
+[Extended Data](ext_articles/a188fc1a.ext.json)
 
 ---

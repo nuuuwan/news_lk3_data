@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 07:31:09**
+As of **2024-12-10 05:51:44**
 
 ## Newspaper Stats
 
-*Scraped **59,364** Articles*
+*Scraped **59,359** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 448
+dbsjeyarajcom | 447
 colombotelegraphcom | 602
-bbccomsinhala | 620
-islandlk | 3,584
+bbccomsinhala | 619
+islandlk | 3,583
 economynextcom | 3,603
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,626
 adaderanalk | 7,215
-tamilmirrorlk | 8,474
+tamilmirrorlk | 8,472
 virakesarilk | 9,744
 adaderanasinhalalk | 10,254
 
@@ -26,57 +26,11 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,349 (100.0%) of 59,364 articles have been extended.
+59,344 (100.0%) of 59,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
-
-### இன்று முதல் மழை அதிகரிக்கும்
-
-*2024-12-10 04:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மழை-அதிகரிக்கும்/175-348511) · `ta`
-
-வடக்கு மற்றும் கிழக்கு மாகாணங்களில் இன்று முதல் மழை அதிகரிக்கக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-எதிர்வரும் 36 மணித்தியாலங்களுக்கு வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என அறிவிக்கப்பட்டுள்ளது.
-
-அத்துடன், தென்கிழக்கு வங்காள விரிகுடா கடற்பரப்பில் உருவாகிய குறைந்த காற்றழுத்த மண்டலம் மேலும் வலுவடைந்து எதிர்வரும் 11 ஆம் திகதியளவில் இலங்கை – தமிழக கடற்பரப்பை அடையும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-தென்மேற்கு வங்காள விரிகுடாவின் கடற்பகுதிகளில் நிலைகொண்டுள்ள காற்றழுத்த தாழ்வு மண்டலமானது தொடர்ந்தும் நீடிப்பதனால் மீனவர்கள் மற்றும் கடல்சார் பணியாளர்கள் குறித்த பகுதிகளுக்குச் செல்ல வேண்டாம் என எச்சரிக்கப்பட்டுள்ளனர்.
-
-இதன்படி, குறித்த கடற்பகுதிகளில் காற்றானது 60 கிலோமீற்றர் வரையான வேகத்தில் அதிகரித்து வீசக்கூடுமென எச்சரிக்கை விடுக்கப்பட்டுள்ளது என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/c6506fbc.json)
-
----
-
-### Rescue of a woman in burnt
-
-*2024-12-10 04:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிந்த-நிலையில்-பெண்-சடலமாக-மீட்பு/175-348510) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Woman rescued from burnt house in Jaffna. Incident occurred last night in Karanawai area. Victim identified as 48-year-old Sivakuru Sivapunga. Found dead along with two others in house fire.
-
-🟩
-
-The incident took place yesterday evening (9) in the Karanawai area of ​​the Nelliyadi Police Division in Jaffna.
-
-Sivakuru Sivapunga (age 48), a woman from Karanawai south of Sankaran Gardens, has been recovered in the incident.
-
-He was found dead at a house with two sisters, where he was found dead in a fire in a fire near the house.. (A)
-
-◼️
-
-[Data](articles/446a0749.json)
-
-[Extended Data](ext_articles/446a0749.ext.json)
-
----
 
 ### Govt., Opposition clash over President’s expenditure
 
@@ -590,51 +544,17 @@ Rice shortages and the Maaveerar celebrations in the north and reporting of the 
 
 ---
 
-### සහල් අර්බුදය: ජනපති ඇතුළු රජය මැදිහත්ව මෙතෙක් ගත් පියවර මොනවාද?
-
-*2024-12-10 01:36:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8xjq9749k4o) · `si`
-
-සහල් අර්බුදය: ජනපති ඇතුළු රජය මැදිහත්ව මෙතෙක් ගත් පියවර මොනවාද?
-
-වත්මන් රජය පත්වු පසුව මුහුණ දීමට සිදු වූ ප්‍රධානතම අභියෝගයක් වුයේ රටේ ඇති වූ සහල් හිඟයයි.
-
-එළැඹෙන නත්තල් සහ අලුත් අවුරුදු උත්සව සමයට පෙර මෙම අර්බුදය සමනය කිරිමට රජයට සිදුව ඇති අතර, ඒ සඳහා රජය නොවැම්බර් මාසයේ සිට ම විවිධ ක්‍රියාමාර්ග ගනිමින් සිටියි.
-
-රටේ ඇතිව තිබෙන සහල් හිඟය මෙන් ම මිල ඉහළ යාම පාලනයට රජය මෙතෙක් ගෙන ඇති මෙම පියවරයන් ගැන ඔබ දැනුවත් ද?
-
-රටේ පවතින සහල් අර්බුදය විසඳීමට මැදිහත් වීමක් ලෙස ජනාධිපති අනුර කුමාර දිසානායක සහ සහල් ව්‍යාපාරිකයන් අතර සාකච්ඡාවක් ඔක්තෝබර් 22 වන දා පැවැත්විණි.
-
-සහල් මිල පාලනය පවත්වාගෙන යාමේ අවශ්‍යතාව සහ ගොවීන්ගෙන් සාධාරණ මිලට වී මිල දී ගැනීමට මෙන්ම සහ සාධාරණ මිලකට පාරිභෝගිකයන් හට සහල් ලබා දීමට විධිමත් යාන්ත්‍රණයක් අවශ්‍ය බව ජනාධිපතිවරයා එහිදී පෙන්වා දුන් බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කර තිබිණි.
-
-සහල් ව්‍යාපාරිකයින් හමුවූ දිනට පසු දා ත්‍රිකුණාමලයේ පැවති ජනහමුවකදී ජනාධිපතිවරයා සඳහන් කළේ, රටේ කෘත්‍රිම සහල් හිඟයක් නිර්මාණය කර ඇති බවයි.
-
-...
-
-[Data](articles/169e9b48.json)
-
----
-
-### Whether the new government is playing dual role- Gajendrakumar Ponnambalam
+### புதிய அரசாங்கமும் மனித உரிமைகள் விடயங்கள் இரட்டை வேடம் போடுகிறதா - கஜேந்திரகுமார் பொன்னம்பலம்
 
 *2024-12-10 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200841) · `ta`
 
-Here's a summary of 200 characters:
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ மனித உரிமைகள்சார் விவகாரங்களைப் பொறுத்தமட்டில் மிகமோசமாகவே செயற்படுவார் என்பது அனைவருக்கும் நன்கு தெரிந்திருந்தது. இருப்பினும் தற்போதைய அரசாங்கம் இவ்விடயத்தில் சர்வதேசத்துக்கு 'நல்லவர்கள்' போல ஒரு முகத்தைக் காண்பித்துக்கொண்டு, மறுபுறம் மக்களுக்குப் பாதிப்பை ஏற்படுத்தும் வகையிலான நடவடிக்கைகளை முன்னெடுத்துவருவதையே இக்குறுகிய காலத்துக்குள் அவதானிக்கமுடிவதாக தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் விசனம் வெளியிட்டுள்ளார்.
 
-
-
-New Sri Lankan government plays dual role: presents good image internationally while impacting locals. Promised to repeal terror laws but backtracked after elections. Detainees remain imprisoned despite promises of release. Human rights concerns persist for Tamil minority.
-
-🟩
-
-It was well known that former President Gotabhaya Rajapakse would be the worst of human rights affairs.. However, the leader and parliamentarian of the Tamil National Alliance (TNA), Gajendrakumar Ponnambalam, has said that the current government is looking for a face like 'good' for the international community and on the other hand to take action to impact the people.
-
-He said this when he questioned whether the new government's approach to dealing with human rights issues compared to the promises made during the election period and the government's immediate human rights issues.
+தேர்தல் காலத்தில் வழங்கப்பட்ட வாக்குறுதிகளுடன் ஒப்பிடுகையில் மனித உரிமைகள்சார் விவகாரங்களைக் கையாள்வதில் புதிய அரசாங்கத்தின் அணுகுமுறை திருப்தியளிக்கிறதா எனவும், அரசாங்கம் உடனடியாகக் கவனம் செலுத்தவேண்டிய கரிசனைக்குரிய மனித உரிமை பிரச்சினைகள் எவையென்றும் வினவியபோதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
 
 ...
 
 [Data](articles/6360251c.json)
-
-[Extended Data](ext_articles/6360251c.ext.json)
 
 ---
 
@@ -656,95 +576,51 @@ I was an attendee at the International Conference on “Reimagining of the Elect
 
 ---
 
-### 1 crore 10 lakh fraud for sending overseas: One arrested in Vavuniya
+### வெளிநாட்டுக்கு அனுப்புவதாக 1 கோடி 10 இலட்சம் மோசடி: வவுனியாவில் ஒருவர் கைது
 
 *2024-12-10 01:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200840) · `ta`
 
-Arrest made in Vavuniya for 1 crore 10 lakh fraud. Suspect allegedly defrauded money promising Canadian work. Police investigation ongoing.
-
-🟩
-
-Vavuniya police said that a youth has been arrested for allegedly defrauding 16 crore 10 lakhs of rupees for allegedly sending Rs 1 crore 10 lakhs.He has received money from many people saying that the first phase is to pay a sum of money and to work in Canada.. The man has been arrested in connection with a complaint lodged by the Vavuniya police.. Police said that the man was given the court after further inquiries.
+கனடாவிற்கு அனுப்புவதாக கூறி 1 கோடி 10 இலட்சம் ரூபாய் பணத்தை 16 பேரிடம் பெற்று மோசடி செய்ததாக இளைஞர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக வவுனியா பொலிசார் தெரிவித்தனர்.இச் சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது,வடக்கு மாகாணத்தின் வவுனியா, மன்னார், மாங்குளம், கிளிநொச்சி உள்ளிட்ட பல்வேறு பகுதிகளிலும் வசித்து வந்தவர்களிடம் நபர் ஒருவர் கனடாவில் உள்ள வர்த்தக நிலையம் ஒன்றிற்கு வேலைக்கு அனுப்புவதாகவும், முதல் கட்டமாக ஒரு தொகைப் பணத்தை தருமாறும், மிகுதிப் பணத்தை கனடா சென்று வேலை செய்து கொடுக்கலாம் எனவும் கூறி பலரிடம் பணம் பெற்றுள்ளார்.குறிப்பாக ஒவ்வொருவரிடமும் 5 இலட்சம் தொடக்கம் 10 இலட்சம் ரூபாய் வரை பணம் பெறப்பட்டுள்ளது. இது தொடர்பில் பாதிக்கப்பட்ட 16 பேர் வவுனியா பொலிசில் செய்த முறைப்பாட்டுக்கு அமைய குறித்த நபர் கைது செய்யப்பட்டுள்ளார்.அவர் 16 பேரிடமும் சிறு தொகையாக பெற்று 1 கோடி 10 இலட்சம் ரூபாய் மோசடி செய்துள்ளார். மேலதிக விசாரணையின் பின் குறித்த நபரை நீதிமன்றில் முற்படுத்தியதையடுத்து விளக்கமறியலில் வைக்கப்பட்டுள்ளார் எனவும் பொலிசார் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/d1770953.json)
 
-[Extended Data](ext_articles/d1770953.ext.json)
-
 ---
 
-### New Government - Justice Minister Harshana Nanayakkara
+### உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகத்தின் செயற்பாடுகளை முடிவுறுத்தியது புதிய அரசாங்கம் - நீதியமைச்சர் ஹர்ஷன நாணயக்கார
 
 *2024-12-10 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200839) · `ta`
 
-Here's a summary in approximately 200 characters:
+ஜனாதிபதித்தேர்தலின் ஊடாக இடம்பெற்ற ஆட்சிமாற்றத்தை அடுத்து, கடந்தகாலத்தில் இயங்கிவந்த உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகத்தின் செயற்பாடுகள் புதிய அரசாங்கத்தினால் முடிவுக்குக்கொண்டுவரப்பட்டுள்ளன.
 
-
-
-New Govt: Justice Min Harshana Nanayakkara. Truth & Reconciliation Commission established. Criticisms over affected party involvement. Bill published. Director resigned post-election. Interim Secretariat's work concluded by new gov't directive. Future plans unclear.
-
-🟩
-
-Following the regime change through the presidential election, the activities of the Interim Secretariat for Truth and Reconciliation in the past have been concluded by the new government.
-
-While the proceedings to establish the Truth and Reconciliation Commission in the country have been actively carried out by the last government, an interim secretariat for the real and reconciliation mechanism under the leadership of Dr. Asanga Gunawansa has been headed by Dr. Asanga Gunawansa to coordinate its preliminary measures and form the Truth and Reconciliation Commission.
-
-The function, which is essential to carry out the above tasks, has been able to obtain more than 6 months of opinion of all parties, including those affected by the fact that the creation of the Truth and Reconciliation Commission, including the human rights and civil society activists, regional level officials, representatives of the diaspora, the clergy and MPs.The discussions were carried out.
+நாட்டில் உண்மை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிப்பதற்கான நடவடிக்கைகள் கடந்த அரசாங்கத்தினால் தீவிரமாக முன்னெடுக்கப்பட்டுவந்த நிலையில், அதற்குரிய பூர்வாங்க நடவடிக்கைகளை ஒருங்கிணைப்பதற்கும், உண்மை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூல வரைபைத் தயாரிப்பதற்குமென கலாநிதி அசங்க குணவன்ச தலைமையில் உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகமொன்று நிறுவப்பட்டு இயங்கிவந்தது.
 
 ...
 
 [Data](articles/40a0db4f.json)
 
-[Extended Data](ext_articles/40a0db4f.ext.json)
-
 ---
 
-### Massive political maneuver in the context of rice shortages;Minister Wasantha Samarasinghe
+### அரிசி தட்டுப்பாட்டின் பின்னணியில் பாரிய அரசியல் சூழ்ச்சி; அமைச்சர் வசந்த சமரசிங்க
 
 *2024-12-10 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200838) · `ta`
 
-Samarasinghe: Rice shortage causes political maneuvering. Government buys paddy directly from farmers to address shortage, ensuring no crisis for rice manufacturers.
+தேர்தலில் படுதோல்வியடைந்த தரப்பினர் அனைவரும் ஒன்றிணைந்து அரசாங்கத்தை நெருக்கடிக்குள்ளாக்க சூழ்ச்சி செய்கின்றனரென வர்த்தகம், வாணிபம், உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க தெரிவித்தார்.
 
-🟩
+அரிசி தட்டுப்பாட்டின் பின்னணியில் பாரிய அரசியல் சூழ்ச்சி உள்ளது. அனைத்து சூழ்ச்சிகளையும் சட்டத்தின் ஊடாக தோற்கடிப்போம் என்றும் குறிப்பிட்டார். அரிசி, தேங்காய் உட்பட அத்தியாவசிய உணவு பொருட்களுக்கான தட்டுப்பாடு குறித்து வினவிய போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
-Minister of Business, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe said that all parties who defeated the elections together to make the government a crisis.
+அவர், அரிசி தட்டுப்பாட்டுக்கு தீர்வு காண்பதற்கு உரிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன. அரிசி உற்பத்தியாளர்களை நெருக்கடிக்குள்ளாக்குவதோ அல்லது அவர்களின்  தொழிற்றுறையை கேள்விக்குள்ளாக்குவதோ எமது நோக்கமல்ல என்றும் அவர் குறிப்பிட்டார்.
 
-There is a massive political maneuver in the context of rice shortage. He also said that all maneuvers will be defeated through the law. He mentioned the above when asked about the shortage of essential food products, including rice and coconut.
-
-He said that steps have been taken to address the shortage of rice. He added that it is not our intention to make rice manufacturers crisis or question their industry.
-
-The state structure has been paid to the government structure to buy paddy directly from the farmers and make them rice.
+விவசாயிகளிடமிருந்து நேரடியாக நெல்லை கொள்வனவு செய்து அவற்றை அரிசியாக்குவதற்கான புதிய திட்டங்களை அரச கட்டமைப்பில் முன்னெடுப்பதற்கு அவதானம் செலுத்தப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/6c6d8a43.json)
 
-[Extended Data](ext_articles/6c6d8a43.ext.json)
-
 ---
 
 ### 2024-12-09 (Monday)
-
-### Holiday experience with ‘Christmas Forever’
-
-*2024-12-09 23:37:00* · [`islandlk`](http://island.lk/holiday-experience-with-christmas-forever/) · `en`
-
-Yes, the holiday season is here, so get ready to groove into the festive activities, especially with the JJ Twins’ innovative Christmas album, ‘Christmas Forever.’
-
-The album contains six original R&B-infused tracks that blend Soulful harmonies, Funky beats, Heartfelt lyrics, and a Fresh Holiday Sound.
-
-According to the JJ Twins, ‘Christmas Forever’ is not your typical holiday album. It’s a vibrant, contemporary take on the season, infused with the Twins’ signature style, they say.
-
-The tracks are ‘Christmas Forever’, ‘All I Want Is You This Christmas’, ‘Fell In Love On Christmas Eve’, ‘Home For Christmas’, ‘Joy To The World’ and ‘You & I’.
-
-The twins also mentioned that by purchasing a CD it would help them invest in their future music projects.
-
-...
-
-[Data](articles/4e33a9f1.json)
-
----
 
 ### NDB Investment Bank wins Euromoney Award for the 13th consecutive year.
 
@@ -843,20 +719,6 @@ The number of people who came forward to the last parliamentary elections were g
 [Data](articles/6c01c186.json)
 
 [Extended Data](ext_articles/6c01c186.ext.json)
-
----
-
-### 
-
-*2024-12-09 21:49:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85186) · `en`
-
-ஜே.வி.பி.யின் தாபகத் தலைவர் றோஹண விஜேவீர கொலையை அநுராவின் அரசாங்கம் விசாரணை செய்யுமா?
-
-ஜனதா விமுக்தி பெரமுனவை  ( ஜே.வி.பி.)  பொறுத்தவரை, நவம்பர் 13 பெரும் முக்கியத்துவம் வாய்ந்த ஒரு தினமாகும். ஜே.வி.பி.யின் வசீகரமிக்க தாபகத் தலைவர் றோஹண விஜேவீர 1989 நவம்பர் 13 ஆம் திகதி தான் கொலை  செய்யப்பட்டார். 1994 ஆம் ஆண்டில் இருந்து ஜே.வி.பி. விஜேவீரவையும் 1971 கிளர்ச்சியிலும்   1987 — 89 கிளர்ச்சியிலும் உயிரிழந்த ஆயிரக்கணக்கான அதன் உறுப்பினர்களையும் நினைவுகூருவதற்கு வருடாந்தம் ஒரு நிகழ்வை ஏற்பாடு செய்துவருகிறது. தியாகிகளை நினைவு கூருவதற்கு  வழமையாக நவம்பர் 13 ஆம் திகதி உரைகளினதும் கீதங்களினதும் ஒரு கலவையாக  நடைபெறும்  நிகழ்வு ” இல் மகா விரு சமாறுவ ” என்று அழைக்கப்படுகிறது.
-
-...
-
-[Data](articles/09b1f721.json)
 
 ---
 
@@ -2303,5 +2165,129 @@ Police investigations have revealed that the baby was suffering from colds and w
 [Data](articles/a7a9862f.json)
 
 [Extended Data](ext_articles/a7a9862f.ext.json)
+
+---
+
+### Lohan Ratwatte granted bail over drunk driving incident
+
+*2024-12-09 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104109/lohan-ratwatte-granted-bail-over-drunk-driving-incident) · `en`
+
+Former State Minister Lohan Ratwatte, who was arrested and remanded for causing a road accident while driving under the influence of alcohol, has been granted bail.
+
+He was ordered to be released on bail after being produced before the Colombo Fort Magistrate’s Court today (9), Ada Derana reporter said.
+
+Ratwatte was arrested on December 06 for causing a road accident while driving under the influence of alcohol and threatening the aggrieved party.
+
+Subsequently, he was remanded until December 09 after being produced before the Colombo Chief Magistrate’s Court on December 07.
+
+Ratwatte, who was released on bail on December 05 in a separate case, was returning from a relative’s house on December 06 when his Defender collided with another vehicle near the Kollupitiya Junction.
+
+...
+
+[Data](articles/bf2943f3.json)
+
+[Extended Data](ext_articles/bf2943f3.ext.json)
+
+---
+
+### Lohan released on bail
+
+*2024-12-09 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204196) · `si`
+
+S:0
+
+🟩
+
+Former State Minister Lohan Ratwatte, who was arrested and remanded, was released on bail today (09).
+
+It is in charge of the accident and threatening the aggrieved party.
+
+Former State Minister Lohan Ratwatte was arrested by the Kollupitiya Police about the allegations of drunkenly driving, accident and threatening the aggrieved party.
+
+The accident had occurred at the Kollupitiya Junction at the Kollupitiya Junction while Mr. Lohan Ratwatte went to his cousin.
+
+◼️
+
+[Data](articles/d1a136fb.json)
+
+[Extended Data](ext_articles/d1a136fb.ext.json)
+
+---
+
+### President-elect Trump and First Lady Elonia celebrate Thanksgiving at Mar a Lago
+
+*2024-12-09 13:43:00* · [`islandlk`](http://island.lk/president-elect-trump-and-first-lady-elonia-celebrate-thanksgiving-at-mar-a-lago/) · `en`
+
+I would like to explain why I continue writing so shamelessly about a subject about which recent events have proved I know next to nothing.
+
+In my defense, the news I have reported over the years has been always been based on facts and the traditional “reliable sources”. Unfortunately, my opinions and predictions have been personal and out of touch with the current political and social climate prevailing in the United States, which has changed substantially since the turn of the century.
+
+...
+
+[Data](articles/6b0ca90a.json)
+
+[Extended Data](ext_articles/6b0ca90a.ext.json)
+
+---
+
+### The second song release of 'Madraskaran' starring Shane Niham
+
+*2024-12-09 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200801) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Second song "Kadi Sadukudu" from Madraskaran starring Shane Niham released. Directed by Wali Mohan Das, featuring Shane Niham, Niharika, Kalaiyarasan. Music by Sam C. S., produced by Jagadish. Remix of original song by AR Rahman. Shane Niham's dance attracts young fans.
+
+🟩
+
+The second song and a video for the song, 'Kadi Sadukudu', which is titled 'Madraskaran', which is playing the lead role in Malayalam's leading star actor Shane Niham, is the leading role of the story.
+
+Directed by director Wali Mohan Das, directed by director Wali Mohan Das, Shane Niham, Niharika, Kalaiyarasan, Aishwarya Dutta, Karunas, Pandiyarajan and many others.
+
+Prasanna S. Sam C for this film, which has been recorded by Kumar. S.. Has composed the music. This movie is S.. R. Producer B. Produced by Jagadish.
+
+All the tasks of the film are completed and waiting for the release. In this case, the second song and a video for the song, which starts with 'Kadi Sadukudu', was released.
+
+A.. R. Background singer Arke Aditya has sung this song, which is released as the remix of the song 'Kadi Sadukudu' which was released in Rahman, Vairamuthu and Mani Ratnam Alliance.
+
+Shane Niham, who has danced in this song, has attracted young fans. The composer Sam c. S.. He has created the song.
+
+◼️
+
+[Data](articles/94a3da65.json)
+
+[Extended Data](ext_articles/94a3da65.ext.json)
+
+---
+
+### Final decision on bonus of the Electricity Board
+
+*2024-12-09 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204194) · `si`
+
+Here's a summary of the article in 200 characters:
+
+
+
+CEB denies staff bonus despite profit. Funds used for debt repayment and tariff reduction. Employees protest, union demands payment.
+
+🟩
+
+The Ceylon Electricity Board (CEB) Board Board has decided not to give a bonus to the Ceylon Electricity staff employees.
+
+The Ceylon Electricity Board (Ceylon Electricity Board has achieved a major profit, the Board of Directors emphasized that the money has been deployed to reduce debt repayment and electricity tariffs.
+
+The Ceylon Electricity staff recently requested the Chairman of the CEB, the CEB Chairman to be paid before the Ceylon Electricity Board (CEB).
+
+Addressing a press conference, the General Secretary of the Association Ranjan Jayalal said that the CEB employees were not given the bonus of the CEB, but the bonus should be given to the employees.
+
+However, the Ceylon Electricity Association of Ceylon Electricity Board (CEB) has asked for a bonus to the National Institute of Ceylon Electricity.
+
+...
+
+[Data](articles/c19a3cbd.json)
+
+[Extended Data](ext_articles/c19a3cbd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 04:15:43**
+As of **2024-12-11 04:42:42**
 
 ## Newspaper Stats
 
-*Scraped **59,529** Articles*
+*Scraped **59,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 603
 bbccomsinhala | 621
 islandlk | 3,588
 economynextcom | 3,618
-dailyftlk | 4,098
+dailyftlk | 4,103
 dailymirrorlk | 4,733
 adalk | 5,650
 adaderanalk | 7,246
@@ -26,9 +26,103 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,518 (100.0%) of 59,529 articles have been extended.
+59,523 (100.0%) of 59,534 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-11 (Wednesday)
+
+### Food Policy and Safety Committee to boost national food security
+
+*2024-12-11 04:26:48* · [`dailyftlk`](https://www.ft.lk/news/Food-Policy-and-Safety-Committee-to-boost-national-food-security/56-770336) · `en`
+
+In a bid to ensure national food and nutrition security, the Government has approved the establishment of a Food Policy and Safety Committee under the Presidential Office.
+
+The Cabinet of Ministers on Monday approved the proposal submitted by President Anura Kumara Dissanayake aimed at providing every citizen with access to quality food in sufficient quantities at affordable prices, fulfilling nutritional requirements, and promoting food safety across the country.
+
+The move aligns with the Government’s policy, which emphasises self-sufficiency by boosting domestic food production and maintaining a three-month buffer stock of essential food items.
+
+“The policy prioritises the creation of a robust data system to monitor food stocks, production, storage and distribution — which is lacking at the moment,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/0d5501ae.json)
+
+---
+
+### Cabinet green lights to sign agreement with Indian Railways’ grant of 22 locomotives
+
+*2024-12-11 04:25:36* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-to-sign-agreement-with-Indian-Railways-grant-of-22-locomotives/56-770335) · `en`
+
+The Cabinet of Ministers on Monday approved signing agreement with the Indian Railways for the grant of 22 engines and the grant by its Government.
+
+The Indian Railways have agreed to provide 22 improved engines, including slightly used M10 locomotive models to the Sri Lanka Railway Department as part of a bilateral support initiative. The package also includes two additional engines and spare parts required for their maintenance, offered as a grant to enhance the country’s railway operations.
+
+In addition to the grant, RITES, an Indian engineering consultancy and infrastructure development firm has submitted an unsolicited proposal to provide locomotive maintenance service for a period of five years.
+
+The proposal to this effect was reviewed following Cabinet approval on 11 June 2024, which appointed a negotiation consensus committee and a project committee to evaluate the offer.
+
+...
+
+[Data](articles/f64f8434.json)
+
+---
+
+### New allowance scheme to support fisheries industry
+
+*2024-12-11 04:25:19* · [`dailyftlk`](https://www.ft.lk/news/New-allowance-scheme-to-support-fisheries-industry/56-770334) · `en`
+
+The Cabinet of Ministers on Monday approved providing financial assistance to fishing vessel owners as part of ongoing efforts to revive the fisheries industry, which was adversely impacted by the economic crisis.
+
+“Under the new scheme, owners of small fishing vessels using kerosene as fuel and registered with the Department of Fisheries and Aquatic Resources will receive an allowance of Rs. 9,375 per month,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said.
+
+Addressing the weekly post-Cabinet meeting media briefing, he said the program effective from 1 November will run for a period of five months.
+
+The decision builds on a previous initiative approved on 21 August 2024, to provide subsidies for six months starting 1 October 2024. Under that program, diesel-powered vessel owners were granted Rs. 25 per litre of diesel, while kerosene-powered vessel owners were allocated Rs. 25 per litre of kerosene for up to 15 litres per day for a maximum of 25 days.
+
+...
+
+[Data](articles/c28dab98.json)
+
+---
+
+### Faiszer’s national list appointment sparks controversy
+
+*2024-12-11 04:25:03* · [`dailyftlk`](https://www.ft.lk/news/Faiszer-s-national-list-appointment-sparks-controversy/56-770333) · `en`
+
+UNP General Secretary Wajira Abeywardene says NDF General Secretary Sharmila Perera had no authority to make such appointments unilaterally
+
+Calls Mustapha’s nomination a form of political theft and says decision should have been made by NDF leadership
+
+Coalition partner Azath Salley says while one National List seat was filled improperly other should have been handled with greater transparency
+
+NDF General Secretary Sharmila Perera officially notifies ECSL on nomination of Faiszer Musthapha, PC as MP through NDF’s National List
+
+Faiszer Musthapha, a senior lawyer and seasoned politician, previously held the position of Minister of Sports and Provincial Councils and Local Government. The NDF, which contested the 2024 General Election under the symbol of the Gas Cylinder, secured three parliamentary seats and two National List appointments.
+
+...
+
+[Data](articles/4b44d0e5.json)
+
+---
+
+### Cabinet nod to introduce digital driving licence
+
+*2024-12-11 04:23:44* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-introduce-digital-driving-licence/56-770332) · `en`
+
+The Cabinet of Ministers on Monday approved the introduction of a new digital driving licence to replace the existing driving licence.
+
+Speaking at the weekly post-Cabinet meeting media briefing yesterday Cabinet Spokesman and Minister Dr. Nalinda Jayatissa noted that this initiative will replace the current smart card-based licence system, which has been in use for nearly 15 years.
+
+He also highlighted that the Government has identified the suitability of issuing a digital driving licence, which is currently used in many countries of the world, in accordance with new technology, facilitating data exchange between multiple relevant institutions.
+
+While the steps to promptly introduce a new digital driving licence in place of the currently used driving license, he said the Government will continue to implement the current methodology for issuing driving licences until then.
+
+◼️
+
+[Data](articles/1bafbaf1.json)
+
+---
 
 ### 2024-12-10 (Tuesday)
 
@@ -2431,117 +2525,5 @@ Japan, which used to co-finance IMF programs after previous currency crises, cou
 [Data](articles/0f20a76f.json)
 
 [Extended Data](ext_articles/0f20a76f.ext.json)
-
----
-
-### Sri Lanka to issue digital driving license
-
-*2024-12-10 12:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-issue-digital-driving-license-117625/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers have approved a proposal to issue digital driving licenses, Health and Media Ministers Nalinda Jayatissa said.
-
-“The government has recognized the requirement of issuing a digital driver’s license, which is currently used in many countries of the world, with new technology, which will facilitate the exchange of data between related institutions,” Jayatissa told reporters.
-
-Jayatissa said there have been problems cropping up in the issuance of driving licenses with many irregularities reported.
-
-Until a new digital driving license is introduces in place of the currently used driving license, the current procedures for issuing driving licenses will be followed, he said. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/725ae74a.json)
-
-[Extended Data](ext_articles/725ae74a.ext.json)
-
----
-
-### Govt plans economic utilization of presidential residences and VIP homes
-
-*2024-12-10 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104133/govt-plans-economic-utilization-of-presidential-residences-and-vip-homes) · `en`
-
-The Cabinet of Ministers has greenlighted a proposal to introduce a suitable mechanism for the utilization of bungalows, ‘Visumpaya’ and presidential residences in various areas across the island, which are maintained under the administration of the Ministry of Public Administration, in an economically beneficial manner.
-
-Currently, there are 50 government bungalows established around Colombo 05 and 07, in addition to the presidential residences located in Colombo, Kandy, Nuwara Eliya, Mahiyanganaya, Anuradhapura, Kataragama, Jaffna, Embilipitiya and Bentota which are maintained under the administration of the Presidential Secretariat.
-
-However, except for the presidential residences in Colombo and Kandy, the other houses are not used regularly.
-
-In addition to the presidential residences, the official residences of several heads of state are also administered by the Urban Development Authority (UDA).
-
-...
-
-[Data](articles/ad6041ee.json)
-
-[Extended Data](ext_articles/ad6041ee.ext.json)
-
----
-
-### Rs. Two women arrested with cigarettes
-
-*2024-12-10 11:57:02* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ-30ක-දුම්වැටි-සමග-කාන්තාවන්-දෙදෙනෙක්-අල්ලයි/11-413553) · `si`
-
-Two women arrested at Katunayake airport for smuggling cigarettes. They were returning from Dubai after losing their jobs. One is 35 from Moratuwa, another 52 from Mirigama. To be released on bail and produced in court.
-
-🟩
-
-A large number of air passenger women who were illegally brought to Sri Lanka by the Katunayaka Bureau of 12/10 pm, two airport women have been arrested by the Airport Arrivals periphetic.
-
-The two had gone to the house of Dubai, where they had not received their jobs and the Sri Lankan Embassy of Immigration and Immigration and Immigration Department (Immigration Department officials) have returned to Sri Lanka.
-
-While they come, they have come to the Katunayake airport with a 100,000 smoking croots of 20,000 cigarettes of 'Manchester "types.
-
-One of them is a 35-year-old resident of Moratuwa, another woman is a 52-year-old resident of Mirigama.
-
-They were 12.45 days from Dubai to 12.45 days to 12.45 am from Dubai to the Katunayake Airport.
-
-The two suspects were arrested at the Katunayake airport and were to be released on police bail and will be produced before the Negombo Magistrate's Court.
-
-◼️
-
-[Data](articles/dd6c0970.json)
-
-[Extended Data](ext_articles/dd6c0970.ext.json)
-
----
-
-### Sri Lanka eyes self-sufficiency in food production
-
-*2024-12-10 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104132/sri-lanka-eyes-self-sufficiency-in-food-production) · `en`
-
-Several proposals related to the production of all food items that can be produced in the country, have received the approval of the Cabinet of Ministers.
-
-Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that these measures are expected to be taken under the ‘Food Policy and Security Committee’.
-
-Accordingly, it has been decided to maintain a buffer stock of essential food items sufficient for at least 03 months and to maintain a database of food stocks available in the country.
-
-Furthermore, the preparation and implementation of an effective program with the participation of the private sector for the activities that contribute to food security, such as production, storage, distribution, wholesale and retail trade, have been identified as priority tasks, Dr. Jayatissa added.
-
-...
-
-[Data](articles/e7cb7202.json)
-
-[Extended Data](ext_articles/e7cb7202.ext.json)
-
----
-
-### Raids from today to find traders selling rice at higher prices
-
-*2024-12-10 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204226) · `si`
-
-Consumer Affairs Authority conducts raids on rice traders selling above maximum price. Chairman requests merchants to adhere to legal rice prices. Complaints can be filed via hotline 1977 or district offices.
-
-🟩
-
-The Consumer Affairs Authority (CAA) says that the raids are being carried out from today's maximum price.
-
-The Chairman of the Authority, Hemantha Samarakoon said that the decision was taken in terms of the maximum price for rice yesterday (09).
-
-He said that the rice prices published by a new rice price is legal against anyone who sells the rice at the price.
-
-"So I am kindly asking, as well as the merchant community, manufacturers, and wholesale businesses, and buy your rice. If a sales of rice is happening at a particular or amount of rice, a complaint can be lodged with the 1977 of the Consumer Affairs Authority. Also, the Consumer Affairs Authority's District Offices can be lodged to the Head Office. "
-
-◼️
-
-[Data](articles/aaaca881.json)
-
-[Extended Data](ext_articles/aaaca881.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 22:18:09**
+As of **2024-12-10 21:43:07**
 
 ## Newspaper Stats
 
-*Scraped **59,518** Articles*
+*Scraped **59,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,585
 economynextcom | 3,618
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,648
-adaderanalk | 7,245
+adalk | 5,647
+adaderanalk | 7,244
 tamilmirrorlk | 8,493
 virakesarilk | 9,775
 adaderanasinhalalk | 10,288
@@ -26,35 +26,11 @@ adaderanasinhalalk | 10,288
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,460 (99.9%) of 59,518 articles have been extended.
+59,456 (99.9%) of 59,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
-
-### Sri Lanka’s new govt should deliver on promise to protect rights – UN
-
-*2024-12-10 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104150/sri-lankas-new-govt-should-deliver-on-promise-to-protect-rights-un-) · `en`
-
-The United Nations Resident Coordinator in Sri Lanka, Marc-André Franche, has expressed hope that the commitment expressed by the new government to protect human rights will be substantial and not merely a spectacle.
-
-Speaking during the national commemoration of International Human Rights Day, Franche also expressed satisfaction with the government’s pledges regarding the protection of human rights.
-
-The Human Rights Commission of Sri Lanka (HRCSL) marked International Human Rights Day with a ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) today, under the theme, “Our Rights, Our Future, Right Now.”
-
-Accordingly, the Chairman of the Human Rights Commission of Sri Lanka, L.T.B. Dehideniya, shared the following details during the ceremony.
-
-“Today, the Human Rights Commission of Sri Lanka will officially launch these publications:
-
-The Status of Manpower Workers: A Study of the Katunayake and Biyagama Free Trade Zones.
-
-...
-
-[Data](articles/c6c54a31.json)
-
-[Extended Data](ext_articles/c6c54a31.ext.json)
-
----
 
 ### Derana is a special award
 
@@ -338,61 +314,21 @@ In addition, the concentration was also focused on the importance of creating an
 
 ---
 
-### 46,000 dengue patients this year
-
-*2024-12-10 18:36:32* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-ඩෙංගු-රෝගීන්-46000ක්/11-413569) · `si`
-
-Dengue cases surge: 46k reported, 23 deaths. Western Province accounts for most cases. Colombo district reports 11,737 cases, 25.2% of total. Health sector warns of ongoing threat.
-
-🟩
-
-46,546 dengue patients have been reported from January 1 this year (10th).. Of these patients, 20,009 were reported from the Western Province, as a percentage of the entire patients.
-
-The total number of dengue patients reported this year 11,737 dengue patients have been reported from the Colombo district, 25.2% of the total patients.
-
-The health sector points out that 5,759 patients have been reported from the Kalutara district during the past year.
-
-5,099 patients have been reported from the Northern Province, and 4,674 patients have been reported from the Central Province.. 4,645 patients have been reported from the Sabaragamuwa Province, with 10% as a percentage.
-
-2,971 patients have been reported from the North Western Province, with 3,618 patients in the Southern Province.
-
-3,178 dengue patients in November, 3,769 patients were 3,769 in July, 3,769 cases in July.During the month, 2,647 patients were reported during the month of April and Rs.
-
-...
-
-[Data](articles/7518a3ee.json)
-
-[Extended Data](ext_articles/7518a3ee.ext.json)
-
----
-
-### The government has a responsibility to solve the shortage of rice - United Rice Manufacturers Association
+### அரிசி தட்டுப்பாட்டுக்கு உடன் தீர்வுகாண வேண்டிய பொறுப்பு அரசாங்கத்துக்குண்டு - ஐக்கிய அரிசி உற்பத்தியாளர் சங்கம்
 
 *2024-12-10 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200920) · `ta`
 
-Here's a summary of 200 characters:
+அரிசிக்கான கட்டுப்பாட்டு விலை தொடர்பில் வெளியிடப்பட்டுள்ள வர்த்தமானி அறிவித்தலை இரத்துச் செய்து,  அரிசி உற்பத்தியாளர்களுக்கு மாத்திரம் மொத்த விலையை நிர்ணயித்து மீண்டும் வர்த்தமானி அறிவித்தலை வெளியிட வேண்டும். இல்லையேல் சந்தையில் மீண்டும் நெருக்கடி ஏற்படும் ஐக்கிய அரிசி உற்பத்தியாளர் சங்கத்தின் தலைவர் முதித பெரேரா தெரிவித்தார்.
 
+கொழும்பில் உள்ள  ஐக்கிய அரிசி உற்பத்தியாளர் சங்கத்தின் காரியாலயத்தில் செவ்வாய்க்கிழமை (10)  நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
+சந்தையில் நிலவும் அரிசி தட்டுப்பாட்டுக்கு உடன் தீர்வு காண வேண்டிய பொறுப்பு அரசாங்கத்துக்கு உண்டு. அரிசியின் மொத்த மற்றும் சில்லறை விலை நிர்ணயிக்கப்பட்டு வர்த்தமானி அறிவித்தல் பிரசுரிக்கப்பட்டுள்ளது. மொத்த மற்றும் சில்லறை விலை நிர்ணயம் பிரச்சினைக்குரியதாக உள்ளது.
 
-United Rice Manufacturers Association calls for cancellation of rice price control. They demand the government solve the shortage by allowing manufacturers to set prices. Current controls are seen as ineffective and potentially harmful to businesses.
-
-🟩
-
-The Gazette Notification issued on the Control Price for Rice should be canceled and the rice manufacturers must set the total price and re -publish the Gazette Notification again.. Otherwise, the President of the United Rice Manufacturers Association, Muditha Perera, said.
-
-He made this statement during a media briefing held at the United Rice Manufacturers Association's office in Colombo on Tuesday (10).
-
-The government has a responsibility to solve the rice shortage in the market. The total and retail price of the rice is fixed and the gazette notification is published. Total and retail pricing is problematic.
-
-It is noteworthy that a few state officials are acting in a way that the President has paid attention to the problems.. Therefore, the President should be concerned about this.
-
-The current published gazette is found to be cigarette. 225 rupees to buy rice for a total price and sell them for 225 rupees. Total traders will be able to quit business activities by this resolution.
+பிரச்சினைகளுக்கு தீர்வு காண்பதற்கு ஜனாதிபதி அவதானம் செலுத்தியுள்ள நிலையில் எடுக்கப்படும் தீர்மானங்களை நெருக்கடிக்குள்ளாக்கும் வகையில் ஒருசில அரச அதிகாரிகள் செயற்படுவது அவதானத்துக்குரியது. ஆகவே இவ்விடயம் தொடர்பில் ஜனாதிபதி அவதானத்துடன் செயற்பட வேண்டும்.
 
 ...
 
 [Data](articles/bb33518d.json)
-
-[Extended Data](ext_articles/bb33518d.ext.json)
 
 ---
 
@@ -522,33 +458,23 @@ It is noteworthy that the first and second seats have already arrived in Sri Lan
 
 ---
 
-### No unidentified fever in Jaffna, 3 days have died for two days
+### යාපනයේ හඳුනා නොගත් උණ රෝගයක්,  දින දෙකට 03 ක් මිය ගිහින්
 
 *2024-12-10 17:38:22* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-හඳුනා-නොගත්-උණ-රෝගයක්---දින-දෙකට-03-ක්-මිය-ගිහින්/11-413566) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+හදීසි උණරෝගයක් වැළඳීම හේතුවෙන් යාපනය ශීක්ෂණ රෝහලේ ප්‍රතිකාර ලැබූ  රෝගීන්ගෙන් තුන් දෙනෙකු දින දෙකක් තුල මියයාම සම්බන්ධයෙන් අද (10) සිට පරීක්ෂණයක් ආරම්භ කොට ඇති බවට යාපනය රෝහල් අධ්‍යක්ෂක ටී. සත්‍යමූර්ති මහතා පවසා සිටියේය.
 
+යාපනය ශීක්ෂණ රෝහලේ අධ්‍යක්ෂ ටී.සත්‍යමූර්ති මහතා ප්‍රකාශ කලේ එලෙස මියගිය පුද්ගලයින්ගේ  ශරීර කොටස් කීපයක් වැඩිදුර පරීක්ෂණ සදහා කොළඹට යවා ඇති බවයි.
 
+උණ රෝගය වැළදීම නිසා මෙලෙස පුද්ගලයින් රෝහල් ගතව සිටියදී මියගොස් ඇතත් එම උණ රෝගය නිශ්චය වශයෙන් මෙතෙක් හදුණා ගැනීමට පෙර ඔවුන් මියගොස් තිබීම නිසා රෝහලේ වෛද්‍යවරු බරපතල ප්‍රශ්නයකට මුහුණ් පා ඇත.
 
-Fever outbreak in Jaffna: 3 deaths reported. Patients died after recovery from fever. Bodies sent to Colombo for investigation. Hospital facing challenges due to unexpected deaths. Director urges flu and cough patients to get tested immediately.
+යාපනයේ පේදුරුතුඩුව ප්‍රදේශයේ වයස අවුරුදු  42 ක පුද්ගලයෙකු හා නාවට්කුලි ප්‍රදේශයේ වයස අවුරුදු  32 ක පුද්ගලයෙකු මෙන්ම කිළිනොච්චිය රෝහලෙන් යාපනය ශීක්ෂණ රෝහල වෙත මාරු කල වයස අවුරුදු 28 ක පුද්ගලයෙකු මෙලෙස මිය ගොස් තිබේ.
 
-🟩
-
-Three of patients who were receiving treatment at the Jaffna Survey Hospital today (10) has been launched today (10) in connection with the death of two days in two days.. Mr. Aharthmanulhi said.
-
-Director of the Jaffna Hospital T.thumurti said that several bodies of the deceased have been sent to Colombo for further investigations.
-
-Although the fever has been killed, the victims have died when the fever was deceased, but the doctors of the hospital had faced a serious problem due to the death of the fever.
-
-A 42-year-old man, 32, a 32-year-old man, a 32-year-old man, and the Kilinochchi hospital was transferred to the Jaffna Teaching Hospital.
-
-The Director of the Jaffna Hospital, Flu and coughing patients immediately went to the Public Hospital to take a blood sample test immediately.
+යාපනය ශීක්ෂණ රෝහලේ අධ්‍යක්ෂවරයා වැඩිදුරටත් සදහන් කලේ උණ හා කැස්ස වැළදී ඇති රෝගීන් වහාම ළගම පිහිටි රජයේ රෝහල වෙත ගොස් රුධිර සාම්පල පරීක්ෂාවක් සිදු කර ගැනීම ඉතා වැදගත් බවටයි.
 
 ◼️
 
 [Data](articles/af6279ce.json)
-
-[Extended Data](ext_articles/af6279ce.ext.json)
 
 ---
 
@@ -2335,5 +2261,53 @@ The Department of Meteorology has advised the public to take necessary steps to 
 [Data](articles/2dc58d44.json)
 
 [Extended Data](ext_articles/2dc58d44.ext.json)
+
+---
+
+### Cabinet spokesman's answer in Speaker's Teaching
+
+*2024-12-10 11:11:14* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගේ-ආචාර්ය-උපාධිය-ගැන-කැබිනට්-ප්‍රකාශකගේ-පිළිතුර/11-413552) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Speaker Asoka Ranwala's PhD status unclear. Cabinet Spokesperson Nalinda Jayatissa promises explanation soon. Doctorate details missing from official records.
+
+🟩
+
+Cabinet Spokesperson Minister Nalinda Jayatissa said that he will give an answer in the next few days to the problem with Speaker Asoka Ranwala.
+
+He was responding to a question referred to a question referred to at a media briefing held today (10).
+
+Q. There was talk of the last days regarding the Speaker's PhD. Nothing has been submitted to the doctorate for any parties. Dr. The Do Dr. has been removed at the Parliamentary Web site at present. What is the real situation of this doctorate?
+
+A. The Speaker makes a clear statement in this regard.
+
+◼️
+
+[Data](articles/fe88549e.json)
+
+[Extended Data](ext_articles/fe88549e.ext.json)
+
+---
+
+### New appointments for key positions in departments under Finance Ministry
+
+*2024-12-10 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104130/new-appointments-for-key-positions-in-departments-under-finance-ministry) · `en`
+
+The Cabinet of Ministers has approved several appointments for Senior Management in the departments affiliated with the Ministry of Finance, Planning and Economic Development.
+
+Accordingly, the following appointments and attachments have been approved as per the proposals submitted by the President Anura Kumara Dissanayake as the Minister of Finance, Planning and Economic Development:
+
+1. The appointment of M.K. Pradeep Kumara, a Special Grade Officer of the Sri Lanka Administrative Service, serving as the Additional Director General of the Comptroller General’s Office, to the vacant post of Director General of the Department of Trade and Investment Policy.
+
+2. The appointment of P.M.K. Hettiarachchi, a Grade 1 Officer of the Sri Lanka Planning Service, serving as a Director of the Department of Development Finance, as the Acting Director General of the Department of Development Finance on a full-time basis.
+
+...
+
+[Data](articles/bc6b907e.json)
+
+[Extended Data](ext_articles/bc6b907e.ext.json)
 
 ---

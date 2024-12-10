@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 04:42:42**
+As of **2024-12-11 05:12:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,523 (100.0%) of 59,534 articles have been extended.
+59,528 (100.0%) of 59,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The move aligns with the Government’s policy, which emphasises self-sufficienc
 
 [Data](articles/0d5501ae.json)
 
+[Extended Data](ext_articles/0d5501ae.ext.json)
+
 ---
 
 ### Cabinet green lights to sign agreement with Indian Railways’ grant of 22 locomotives
@@ -66,6 +68,8 @@ The proposal to this effect was reviewed following Cabinet approval on 11 June 2
 
 [Data](articles/f64f8434.json)
 
+[Extended Data](ext_articles/f64f8434.ext.json)
+
 ---
 
 ### New allowance scheme to support fisheries industry
@@ -83,6 +87,8 @@ The decision builds on a previous initiative approved on 21 August 2024, to prov
 ...
 
 [Data](articles/c28dab98.json)
+
+[Extended Data](ext_articles/c28dab98.ext.json)
 
 ---
 
@@ -104,6 +110,8 @@ Faiszer Musthapha, a senior lawyer and seasoned politician, previously held the 
 
 [Data](articles/4b44d0e5.json)
 
+[Extended Data](ext_articles/4b44d0e5.ext.json)
+
 ---
 
 ### Cabinet nod to introduce digital driving licence
@@ -121,6 +129,8 @@ While the steps to promptly introduce a new digital driving licence in place of 
 ◼️
 
 [Data](articles/1bafbaf1.json)
+
+[Extended Data](ext_articles/1bafbaf1.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 18:24:27**
+As of **2024-12-10 18:40:40**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 10,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,426 (99.9%) of 59,488 articles have been extended.
+59,428 (99.9%) of 59,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
 
-### சீருடைகளை வழங்கிய சீன அரசாங்கத்திற்கு பிரதமர் நன்றி தெரிவிப்பு
+### PM thanks to the Chinese government for providing uniforms
 
 *2024-12-10 17:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடைகளை-வழங்கிய-சீன-அரசாங்கத்திற்கு-பிரதமர்-நன்றி-தெரிவிப்பு/175-348553) · `ta`
 
-2025 ஆம் ஆண்டிற்கான எமது நாட்டில் உள்ள அனைத்து பாடசாலைகள் மற்றும் பிரிவெனாக்களின் பிள்ளைகளுக்கு சீருடைகளை வழங்கியமைக்காக சீன அரசாங்கத்திற்கு இலங்கை அரசாங்கத்தின் சார்பில் நன்றி தெரிவிப்பதாக பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+Sri Lankan PM thanks China for 2025 school uniforms donation. Chinese Ambassador handed over 11,817m fabric for 4,640,086 students. Full requirement met. First two shipments arrived, third due Dec 25. Education priority for development. China's generosity crucial for funding.
 
-2025ஆம் ஆண்டுக்கான பாடசாலை சீருடைகள் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-சீன அரசாங்கத்தின் உதவித்திட்டமாக கிடைக்கப்பெற்ற இந்த பாடசாலை சீருடைகளை சீனத் தூதுவர் Key Zheng Hong இன்று (10) பிற்பகல் கொழும்பு துறைமுகத்தின் சர்வதேச கொள்கலன் முனையத்தில் கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சர், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவிடம் கையளித்தார்.
+Prime Minister Harini Amarasuriya said he would like to thank the Chinese government on behalf of the Sri Lankan government for providing uniforms to the children of all schools and sects in our country for 2025.
 
-2025 ஆம் ஆண்டுக்கான பாடசாலை சீருடைகளுக்காக 11,817 மில்லியன் மீற்றர் துணி தேவையாகவுள்ளதுடன், பாடசாலை சீருடைகள் வழங்கப்படவுள்ள மாணவர்களின் எண்ணிக்கை 4,640,086 ஆகும். அதன்படி, 2025 ஆம் ஆண்டிற்கான பாடசாலை சீருடைகளின் முழுத் தேவையும் (100%) சீன மக்கள் குடியரசால் அன்பளிப்பாக வழங்கப்பட்டுள்ளது.
+The Prime Minister said this while addressing the school uniforms for 2025.
+
+Chinese Ambassador Key Zheng Hong handed over the school uniforms to the Chinese government's assistance program this afternoon at the International Container terminal of the Port of Colombo.
+
+11,817 million meters of fabric for school uniforms for 2025 and the number of students to be provided with school uniforms is 4,640,086.. Accordingly, the full requirement of the school uniforms for 2025 (100%) has been gifted by the Republic of China.
+
+It is noteworthy that the first and second seats have already arrived in Sri Lanka in three constituencies.. The third constituency will arrive in Sri Lanka on December 25.
 
 ...
 
 [Data](articles/652b6939.json)
+
+[Extended Data](ext_articles/652b6939.ext.json)
 
 ---
 
@@ -65,6 +73,8 @@ The Development Officers engaged in the demonstration demanding that they be mad
 ◼️
 
 [Data](articles/acadb430.json)
+
+[Extended Data](ext_articles/acadb430.ext.json)
 
 ---
 

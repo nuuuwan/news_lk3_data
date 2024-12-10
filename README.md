@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 13:43:38**
+As of **2024-12-10 14:17:13**
 
 ## Newspaper Stats
 
-*Scraped **59,438** Articles*
+*Scraped **59,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,610
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,635
-adaderanalk | 7,232
+adaderanalk | 7,234
 tamilmirrorlk | 8,484
 virakesarilk | 9,755
 adaderanasinhalalk | 10,273
@@ -26,31 +26,77 @@ adaderanasinhalalk | 10,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,401 (99.9%) of 59,438 articles have been extended.
+59,404 (99.9%) of 59,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
 
-### தீச்சட்டி ஏந்தி நீதி கேட்டு போராட்டம்
+### Struggle to ask for justice
 
 *2024-12-10 13:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/தீச்சட்டி-ஏந்தி-நீதி-கேட்டு-போராட்டம்/46-348527) · `ta`
 
-சர்வதேச மனித உரிமைகள் தினமான டிசம்பர் 10ஆம் திகதியன்று வடக்கு,கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கத்தினர் வவுனியாவில் ஆர்ப்பாட்ட  பேரணியில் ஈடுபட்டனர்.
+Here's a summary of the text in approximately 200 characters:
 
-வவுனியா கந்தசுவாமி ஆலயத்திற்கு முன்பாக ஆரம்பமாகிய குறித்த பேரணி பழைய பேருந்து நிலையப் பகுதியில் முடிவடைந்தது.
 
-சர்வதேச மனித உரிமைகள் நாளாக உலகம் தோறும் இன்று (10) அனுஷ்டிக்கப்படுகிறது. சர்வதேசமும் அனைத்துலகமும் ஈழத்தமிழரை கைவிட்ட நிலையில் மனிதர்களாக எம்மை பார்ப்பதில்லை
 
-எந்த உரிமையும் வழங்கப்படவில்லை. நமக்கு சர்வதேச நீதி வருமா? என்ற கேள்வியோடு இந்த தினத்தில் நாம் போராடி வருகிறோம்
+"Protesters demand justice on Intl Human Rights Day. Rally in Vavuniya highlights disappearances & lack of rights for Eelam Tamils. Seeking UN intervention due to loss of faith in domestic mechanisms."
 
-உள்நாட்டுப் பொறிமுறையில் நம்பிக்கை இல்லாத நிலையில் ஐ.நா அனைத்துலக சாசனத்துக்கு அமைய ஐக்கிய நாடுகளின் அவையின் கீழ், சர்வதேச நீதிப் பொறிமுறையை நாடி நிற்கின்றோம்.
+🟩
 
-எங்கள் உறவுகள் வலிந்து காணாமல் ஆக்கப்பட்டவர்களே! அவர்கள் காணாமல் ஆக்கப்பட்டவர்கள் அல்ல. இன்று குழந்தைகளை வலிந்து காணாமல் ஆக்கப்பட்ட வரிசையில் இலங்கை சர்வதேச ரீதியில் முதலாம் இடத்தில் இருக்கிறது.
+On the 10th of December, the International Human Rights Day, a protest march in Vavuniya staged a rally in Vavuniya.
+
+The rally, which began in front of the Kandaswamy Temple in Vavuniya, ended at the old bus station.
+
+The world is celebrated today (10) as the International Human Rights Day. The international and the international are not seen as human beings as they abandoned Eelam Tamils
+
+No rights were granted. Will we get international justice?We are struggling on this day with the question
+
+In the absence of confidence in the domestic mechanism, we are seeking an international justice mechanism under the United Nations under the United Nations International Charter.
+
+Our relationships are the ones who have disappeared!They are not missing. Today, Sri Lanka ranks first in the international rank in the missing session.
 
 ...
 
 [Data](articles/29bc47e4.json)
+
+[Extended Data](ext_articles/29bc47e4.ext.json)
+
+---
+
+### Illegally stored foreign liquor worth over Rs. 50 mln seized in Borella
+
+*2024-12-10 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104137/illegally-stored-foreign-liquor-worth-over-rs-50-mln-seized-in-borella-) · `en`
+
+A stock of illegally stored foreign liquor bottles worth over Rs. 50 million has been discovered during a raid conducted by the officers of the Excise Office in Gampaha.
+
+The raid was carried out at a private institution in Borella following a complaint received by the Commissioner General of Excise.
+
+During the raid, the Gampaha Excise officers discovered 173 bottles of foreign liquor stored in an illegal manner at the location in question.
+
+Excise officials stated that a 35-year-old man from Colombo was arrested during the raid.
+
+The suspect is scheduled to be produced before the Maligakanda Magistrate’s Court today (10).
+
+◼️
+
+[Data](articles/2b1bc345.json)
+
+[Extended Data](ext_articles/2b1bc345.ext.json)
+
+---
+
+### ADB approves USD 30 million financing facility for Sri Lanka’s CEB
+
+*2024-12-10 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104136/adb-approves-usd-30-million-financing-facility-for-sri-lankas-ceb) · `en`
+
+The Asian Development Bank (ADB) has approved a $30 million Small Expenditure Financing Facility (SEFF) for the Ceylon Electricity Board (CEB), guaranteed by the Democratic Socialist Republic of Sri Lanka, to bolster the sustainability of ongoing and future energy sector projects.
+
+...
+
+[Data](articles/75544701.json)
+
+[Extended Data](ext_articles/75544701.ext.json)
 
 ---
 
@@ -2195,47 +2241,5 @@ At a meeting held in Trincomalee, the President said that a meeting held in Trin
 [Data](articles/169e9b48.json)
 
 [Extended Data](ext_articles/169e9b48.ext.json)
-
----
-
-### Whether the new government is playing dual role- Gajendrakumar Ponnambalam
-
-*2024-12-10 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200841) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New Sri Lankan government plays dual role: presents good image internationally while impacting locals. Promised to repeal terror laws but backtracked after elections. Detainees remain imprisoned despite promises of release. Human rights concerns persist for Tamil minority.
-
-🟩
-
-It was well known that former President Gotabhaya Rajapakse would be the worst of human rights affairs.. However, the leader and parliamentarian of the Tamil National Alliance (TNA), Gajendrakumar Ponnambalam, has said that the current government is looking for a face like 'good' for the international community and on the other hand to take action to impact the people.
-
-He said this when he questioned whether the new government's approach to dealing with human rights issues compared to the promises made during the election period and the government's immediate human rights issues.
-
-...
-
-[Data](articles/6360251c.json)
-
-[Extended Data](ext_articles/6360251c.ext.json)
-
----
-
-### Sri Lanka electricity sector growth: Challenges ahead
-
-*2024-12-10 01:30:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-electricity-sector-growth-Challenges-ahead/4-770279) · `en`
-
-Harnessing RE resources offers energy security and creates avenues for investment with skilled job opportunities opening for management, financial and technical specialists
-
-Some of the factors that discourage investment flow and impede rapid development are the current sovereign credit risk ratings, state of the economy, risks associated with the principal sector player – the CEB, uncertainties associated with ongoing power sector reforms, cumbersome regulatory framework and seeming ineffectiveness of the regulator – PUCSL, expressions of environmental concern and geopolitics that influences project financing and development
-
-I was an attendee at the International Conference on “Reimagining of the Electricity Industry for the Future” held on 28 November 2024 organised by the Sri Lanka branch of The Institution of Engineering and Technology. The event was well attended and enlightening. My sincere thanks to the organisers for staging this impressive event.
-
-...
-
-[Data](articles/a03c0497.json)
-
-[Extended Data](ext_articles/a03c0497.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 13:02:46**
+As of **2024-12-10 13:13:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,394 (99.9%) of 59,436 articles have been extended.
+59,396 (99.9%) of 59,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,37 @@ Various reports were circulated on social media over the doctorate of Speaker As
 
 [Data](articles/5e1eef8c.json)
 
+[Extended Data](ext_articles/5e1eef8c.ext.json)
+
 ---
 
-### හිටපු ජනපතිගේ ලිපියට අමාත්‍ය නලින්දගෙන් පිළිතුරු
+### Minister Nalinda answers to the former President's letter
 
 *2024-12-10 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204227) · `si`
 
-මත්පැන් සමාගම්වලින් එකතුවිය යුතු බදු බිලියන 7කට ආසන්න ප්‍රමාණයක් තිබෙන බවත්, එම බදු අයකර ගැනීමට රජය කටයුතු කරමින් සිටින බව කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+Here's a summary in 200 characters:
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කිසිදු මත්පැන් බලපත්‍රයක් නියමිත ක්‍රමවේදයෙන් බැහැරව කිසිවකුට පිනට ලබා දී නොමැති බව සඳහන් කරමින් ඒ මහතාගේ කාර්යාලය ඊයේ (9) නිකුත්කළ නිවේදනයට ප්‍රතිචාර දක්වමින් ඔහු මේ බව පැවසීය.
 
-රනිල් වික්‍රමසිංහ මහතාගේ කාර්යාලය නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වූයේ මත්පැන් බලපත්‍ර ලබාදීම මගින් රජය රුපියල් බිලියන 3කට වැඩි ආදායමක් උපයාගත් බවයි.
 
-"රනිල් වික්‍රමසිංහ හිටපු ජනාධිපතිවරයා කිව්වා අවුරුද්දකට බාර් ලයිසන් 250ක් 300ක් දීලා ඒකෙන් ලැබෙන බදුවලින් අමද්‍යප ව්‍යාපාරය ශක්තිමත් කරන්න බලාපොරොත්තුව තිබ්බේ කියලා. මේ රටේ ජනතාවගේ බදු මුදල්වලින් තමන්ගේ විශ්‍රාම ජීවිතය ගතකරන පුද්ගලයෙක් මේ ආකාරයට ඉතාම උපහාසයෙන් යුතුව අදහස් ප්‍රකාශ කිරීම ගැලපෙන්නේ නෑ.
+Former President Ranil Wickremesinghe claims no alcohol licenses were granted. Cabinet Spokesman Nalinda Jayatissa says liquor firms owe 7 billion rupees in taxes. Government aims to recover tax revenue.
+
+🟩
+
+Cabinet spokesman, Minister Dr. Nalinda Jayatissa said that alcohol firms had about 7 billion rupees and the government is working to recover the tax.
+
+He was responding to the announcement yesterday (9), claiming that former President Ranil Wickremesinghe had not given any alcohol license.
+
+The announcement issued by Ranil Wickremesinghe's office was further stated that the government earned over Rs. 3 billion by providing liquor licenses.
+
+"Ranil Wickremesinghe said that the former President said that the taxes were given to strengthen the durability of 900 barricots a year. A person who lives his retirement with the taxes of the country does not match this way.
+
+It's not giving bars. Ranil Wickremesinghe had not worked to bring about those barricots to sell the taxes for sale.. For example, the VECIES's three companies have their distress and surcharge from 2022. When the bars were taken, the decision was to collect unpaid taxed.
 
 ...
 
 [Data](articles/d0d9ef6f.json)
+
+[Extended Data](ext_articles/d0d9ef6f.ext.json)
 
 ---
 

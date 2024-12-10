@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 19:03:39**
+As of **2024-12-10 19:42:34**
 
 ## Newspaper Stats
 
-*Scraped **59,491** Articles*
+*Scraped **59,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,585
 economynextcom | 3,615
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,643
+adalk | 5,645
 adaderanalk | 7,244
 tamilmirrorlk | 8,491
 virakesarilk | 9,764
@@ -26,29 +26,71 @@ adaderanasinhalalk | 10,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,435 (99.9%) of 59,491 articles have been extended.
+59,442 (99.9%) of 59,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
 
-### பெண்ணை மோதவந்த கார் மீது துப்பாக்கிச் சூடு
+### US sanctions in Kapila and Ageon
+
+*2024-12-10 19:12:45* · [`adalk`](https://www.ada.lk/breaking_news/කපිලට-සහ-උදයංගට--ඇමෙරිකාවෙන්-සම්බාධක/11-413572) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+US sanctions target SriLankan Airlines CEO & Russian ambassador. Aimed at preventing fraud & human rights violations. Also affects individuals from North Macedonia, Indonesia, Russia, Syria, Yemen, West Bank. US entry prohibited for sanctioned individuals and their families.
+
+🟩
+
+The US State Department announced the sanctions on the former Chief Executive Officer of SriLankan Airlines and Sri Lankan Ambassador to Russia's Ambassador to Russia.
+
+It is reported that the US has imposed the sanctions on the anti-international corruption day and human rights day. The suspects were taken as a responsibility of accountability to prevent global frauds and human rights violations.
+
+Among them were the CEO of Kapila Chandrasena as the Chief Executive Officer of SriLankan Airlines.
+
+Sri Lanka Ambassador to Russia, Udayanga Weeratunga, said that sanctions have come to the Sri Lanka Air Force.
+
+In addition to the two, the US State Department imposes sanctions by the US State Department.The group includes northern Macedonia, Indonesia, Russia, Syria, Yemen and the West Bank and their families.
+
+The US State Department says that these sanctions and members of their nearest families will be prohibited from entering the United States.
+
+◼️
+
+[Data](articles/bc26c5a2.json)
+
+[Extended Data](ext_articles/bc26c5a2.ext.json)
+
+---
+
+### Shooting on car that collided with a woman
 
 *2024-12-10 18:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-மோதவந்த-கார்-மீது-துப்பாக்கிச்-சூடு/175-348555) · `ta`
 
-கடுவலை பொலிஸ் நிலையத்திற்கு அருகில் இன்று (10) அதிகாலை பெண்ணொருவரை மோதவந்த கார் மீது பொலிஸார், துப்பாக்கி பிரயோகம் நடத்தியுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-பெண் ஒருவர் கடுவலை பொலிஸ் நிலையத்திற்கு தொலைபேசி அழைப்பெடுத்து தான் மோட்டார் சைக்கிளில் வருவதாகவும், தன்னை காரொன்று விபத்தை ஏற்படுத்தி கொல்லுவதற்காக பின்தொடர்வதாகவும் தெரிவித்துள்ளார்.
 
-பொலிஸ் நிலைய பொறுப்பதிகாரியின் ஆலோசனைக்கு அமைய உடனடியாக செயற்பட்ட பொலிஸ் நிலையத்தின் இரவுக் கடமைக்குப் பொறுப்பான அதிகாரியும் பிரதான வாயிலில் இருந்த பொலிஸ் உத்தியோகத்தரும் வீதிக்கு வந்து தயாராக இருந்த நிலையில், மோட்டார் சைக்கிளுக்கு பின்னால் அதிவேகமாகப் பின்தொடர்ந்து வந்த காரை நிறுத்த முற்பட்டனர்.
 
-அந்த நேரத்தில் பொலிஸ் நிலையத்தில் கடமையாற்றிய அதிகாரி ஒருவர் காரை நோக்கி துப்பாக்கியால் சுட்ட போதும், கார் தப்பிச் சென்றுள்ளது.
+"Car shooting incident: Police opened fire on a vehicle near Kaduwela police station after a woman reported being pursued on a motorcycle. The car escaped despite shots fired. Investigations ongoing."
 
-கார் மற்றும் சாரதியை கைது செய்ய பல விசாரணை குழுக்கள் ஈடுபட்டுள்ளன. R
+🟩
+
+Police have fired a car near the Kaduwela police station this morning (10).
+
+A woman has telephoned the Kaduwela police station and said that she was on a motorcycle and followed her to kill her.
+
+On the advice of the police station officer, the police officer in charge of the night duty and the police officer at the main gate were ready to stop the car, which was ready to stop the car on the back of the motorcycle.
+
+At the time, an officer at the police station fired at the car, but the car escaped.
+
+Several investigations are involved in the arrest of car and driver. Remble
 
 ◼️
 
 [Data](articles/fe89c2c4.json)
+
+[Extended Data](ext_articles/fe89c2c4.ext.json)
 
 ---
 
@@ -67,6 +109,8 @@ The provision of uniform fabric to students free of charge has been carried out 
 ...
 
 [Data](articles/d73ee7bc.json)
+
+[Extended Data](ext_articles/d73ee7bc.ext.json)
 
 ---
 
@@ -116,6 +160,22 @@ The Development Officers engaged in the demonstration demanding that they be mad
 
 ---
 
+### වැටුප් වැඩිකිරීමක් ඉල්ලා කොත්මලේ ඇඟළුම් කම්හලක සේවක සේවිකාවන් වැඩ වර්ජනයක
+
+*2024-12-10 17:06:29* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකිරීමක්-ඉල්ලා-කොත්මලේ-ඇඟළුම්-කම්හලක-සේවක-සේවිකාවන්-වැඩ-වර්ජනයක/11-413563) · `si`
+
+කොත්මලේ ප්‍රදේශයේ පිහිටි පෞද්ගලික ඇගළුම් කර්මාන්ත ශාලාවක සේවක සේවිකාවන් රු පන්දහසක වැටුප් වැඩිවිමක් ඉල්ලා දින පහක් තිස්සේ එම කර්මාන්ත ශාලාව ඉදිරිපිට වැඩ වර්ජනය කරමින් උද්ඝෝෂණයක නිරත වෙමින් සිටියි.
+
+සේවක සේවිකාවන් 1080 දෙනෙකු පමණ සේවය කරන එම ඇගළුම් කර්මාන්ත ශාලාව වසර 25 ක් තිස්සේ පවත්වාගෙන යන බවත්, රටේ පවතින ජිවන වියදම අනුව රු පන්දහසක වැටුප් වැඩිවිමක් ලබාදෙන ලෙස සේවක සේවිකාවන් පාලන අධිකාරියෙන් ඉල්ලා සිටියද, පාලන අධිකාරියෙන් රු දෙදහසක් පමණක් වැඩි කරන බවට පොරොන්දු වු බවයි උද්ඝෝෂණයේ නිරතව සිටින සේවක සේවිකාවන් කියා සිටියේ.
+
+රු දෙදහසකට වඩා වැඩි වැටුපක් ලබාදෙන්නේ නම් දැනට සේවක සේවිකාවන්ට ලබාදෙන සුභ සාධන කප්පාදු කිරිමට සිදු වන බව පාලන අධිකාරිය විසින් තමන් වෙත දැනුම් දි තිබෙන බවත්, පවත්නා තත්ත්වය මත මේ වන තෙක් එම ඇගළුම් කර්මාන්ත ශාලාවේ කිසිවෙක් තමන් සමග සාකච්ඡා නොකර ඇගළුම් කර්මාන්ත ශාලාවේ නේවාසිකව රැදි සිටින සේවිකාවන් ඉවත් කර ඇගළුම් කර්මාන්ත ශාලාව වැටුප් රහිතව මේ මස (17) දින දක්වා වසා දමන බවට තමන් වෙත දැනුම් දි ඇති බවයි උද්ඝෝෂණයේ නිරත වන සේවික සේවිකාවන් කියා සිටින්නේ.
+
+...
+
+[Data](articles/e11f0035.json)
+
+---
+
 ### Police officers released on bail
 
 *2024-12-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204238) · `si`
@@ -144,17 +204,25 @@ The development officials attached to schools were assigned to schools asking fo
 
 ---
 
-### ඉන්දියාවෙන් ප්‍රදානයක් ලෙස දෙන කෝචිචි එංජින් 22 ගන්න කැබිනට් අනුමැතිය
+### Cabinet approval of Kachchi engine
 
 *2024-12-10 16:50:37* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවෙන්-ප්‍රදානයක්-ලෙස-දෙන-කෝචිචි-එංජින්-22-ගන්න-කැබිනට්-අනුමැතිය/11-413561) · `si`
 
-ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තව සඳහා ALCO ඩීසල් එන්ජින් 22ක් ඉන්දියානු රජයේ ප්‍රධානයක් ලෙස ලබාගැනීමට කැබිනට් අනුමැතිය ලැබී තිබේ. ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව සඳහා සුළු වශයෙන් භාවිතා කරන ලද M10 දුම්රිය එන්ජින් මාදිලයේ වැඩි දියුණු කළ එන්ජින් 20ක් හා එම එන්ජින් නඩත්තුවට අවශ්‍ය අමතර කොටස් ලබා ගැනීම පිණිස අතිරේක දුම්රිය එන්ජින් 2ක් ප්‍රදානයක් ලෙස ලබාදීමට ඉන්දීය දුම්රිය සේවය කැමැත්ත පළ කර තිබේ.
+Sri Lanka Cabinet approves 22 Alco diesel engines from India. Indian Railways grants 2 extra engines. Maintenance contract for 5 years. Project committee evaluates feasibility. Proposal approved, grant agreement to be signed.
 
-එකී දුම්රිය එන්ජින් නඩත්තු කිරීමේ සේවාව වසර 05ක කාලයක් ලබා දීම සඳහා වන නොකැඳවූ යෝජනාවක් ඉන්දියාවේ ඉංජිනේ උපදේශක හා යටිතල පහසුකම් සංවර්ධන සමාගමක් වන RTIES සමාගම විසින් ඉදිරිපත් කර තිබේ. එම යෝජනාව ඇගයීමට ලක්කර නිර්දේශ ඉදිරිපත් කිරීම සඳහා අමාත්‍ය මණ්ඩලය විසින් පත්කරන ලද සාකච්ඡා සම්මුති කමිටුවක් හා ව්‍යාපෘති කමිටුවක් පත් කිරීමට 2024/06/11 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබේ්‍
+🟩
 
-...
+Cabinet approval has been granted to receive 22 Alco diesel engines to the Sri Lanka Railways as awarded to the Indian government. The Indian Railways has agreed to provide two additional station engines as a grant for 20 enhanced engines and additional stocks for the Sri Lanka Railways.
+
+The Engineer's Consultancy and Infrastructure Development Company has been submitted to provide maintenance service to the maintenance service for five years. At the Cabinet meeting held at the Cabinet Meeting held at the Cabinet meeting held to appoint a project committee, appointed by the Cabinet and a project committee appointed by the Cabinet of Ministers to evaluate the proposal.
+
+The project committee has pointed out that the Railway Department has the ability to maintain these locomotives as a grant.. The proposal made by the Government of Sri Lanka has been approved by the Government of Sri Lanka to be signed by the Government of Sri Lanka and award the grant of 22 locomotives.
+
+◼️
 
 [Data](articles/cddf96a1.json)
+
+[Extended Data](ext_articles/cddf96a1.ext.json)
 
 ---
 
@@ -486,6 +554,8 @@ Cey-Nor Foundation Ltd manufactures fiberglass boats at Karainagar boatyard. (Co
 
 [Data](articles/669a4ead.json)
 
+[Extended Data](ext_articles/669a4ead.ext.json)
+
 ---
 
 ### 6 hours of water cut
@@ -522,25 +592,33 @@ In their proposal, the four associations pointed out that with all inputs for th
 
 [Data](articles/b191e718.json)
 
+[Extended Data](ext_articles/b191e718.ext.json)
+
 ---
 
-### කාන්තාවක් හප්පා පලා යාමට තැත්කළ කාර් රථයකට වෙඩිතබයි
+### A woman shoots a car attempted cars
 
 *2024-12-10 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204236) · `si`
 
-කාන්තාවක් 2024.12.10 වන දින අළුයම කඩුවෙල පොලිස් ස්ථානය වෙත දුරකථන ඇමතුමක් ලබාදෙමින් තමන් යතුරුපැදියකින් කඩුවෙල පොලිස් ස්ථානය වෙත පැමිණෙමින් සිටින බවත් තමන්ව රිය අනතුරකට ලක්කර ඝාතනය කිරීම සඳහා පසුපසින් කාර් රථයක් පැමිණෙන බවත් ප්‍රකාශකර ඇත.
+A woman called Kaduwela Police, claiming her life was threatened by a car. She was hospitalized under police protection. Investigations are ongoing to arrest the car and its driver.
 
-වහා ක්‍රියාත්මක වූ පොලිස් ස්ථානයේ රාත්‍රී උපසේවයේ කාර්යය භාරය නිලධාරියා සහ ප්‍රධාන දොරටුවේ පොලිස් නිලධාරියා මාර්ගයට පිවිස ස්ථානාධිපතිවරයාගෙන් උපදෙස් ලබා සූදානමින් රැඳී සිට ඇති අතර අධික වේගයෙන් යතුරුපැදිය පසුපස පැමිණි කාර් රථය නැවැත්වීමට උත්සාහ ගැනීමේදී කාර් රථයේ රියදුරු පොලිස් නිලධාරීන්ද හප්පා පලා යාමට තැත්කර තිබේ.
+🟩
 
-පොලිස් ස්ථානයේ උපසේවයේ කාර්යයභාර නිලධාරියා එම අවස්ථාවේදී කාර් රථයට වෙඩි තබා ඇතත් කාර් රථය පලාගොස් ඇත.
+A woman has telephoned the Kaduwela Police Station on 10.12.2012 and said that he is on a motorbike and a car is coming to the Kaduwela Police Station and kill him.
 
-‍මේ වනවිට 38 හැවිරිදි අදාළ කාන්තාව පොලිස් ආරක්ෂාව යටතේ රෝහල්ගත කර තිබේ.
+The function of the police minister and the main entrance of the police minister had been admitted to the police officer and tried to stop the OIC of the OIC.
 
-කාර් රථය සහ රියදුරු අත්අඩංගුවට ගැනීම සඳහා විමර්ශන කණ්ඩායම් කිහිපයක් ක්‍රියාත්මකය.
+The prestigious officer of the police minister has shot the car, but the car has fled.
+
+The 38-year-old woman has been hospitalized under police protection.
+
+Several investigations teams are operating in the arrest of the car and driver.
 
 ◼️
 
 [Data](articles/c7d33d6c.json)
+
+[Extended Data](ext_articles/c7d33d6c.ext.json)
 
 ---
 
@@ -2191,51 +2269,5 @@ Accordingly, the arrested CCD Director is scheduled to be produced before the Ra
 ◼️
 
 [Data](articles/12639c67.json)
-
----
-
-### US sanctions in Udayanga and Kapila Chandrasana
-
-*2024-12-10 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204218) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-US sanctions hit two Sri Lankans: Former airline CEO Kapila Chandrasena and ex-Ambassador Udayanga Weeratunga. Accused of financial fraud and bribery. Banned from entering the US under Section 7031(c) of the American Department of State.
-
-🟩
-
-Former SriLankan Airlines CEO Kapila Chandrasena and former Sri Lankan Ambassador to Russia's Ambassador to Russia's Ambassador to Russia's Ambassador to Sri Lanka's Ambassador to Sri Lanka's Ambassador to Sri Lanka's Ambassador has been restricted by US State Department.
-
-It is with regard to financial fraud incidents that have been considered.
-
-Former SriLankan Airlines Airlines Airbus, SriLankan Airlines has been accused of bribing the market value for the purchase of Airabus.
-
-The Sri Lanka Air Force has imposed sanctions against former Russian Ambassador Udayanga Weeratunga.
-
-The two parties who are in Section 7031 (c) of the American Department of America have been published in section 7031 (c), and they have banned enterriction to enter.
-
-◼️
-
-[Data](articles/32952b76.json)
-
-[Extended Data](ext_articles/32952b76.ext.json)
-
----
-
-### US sanctions Kapila Chandrasena and Udayanga Weeratunga over corruption
-
-*2024-12-10 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104124/us-sanctions-kapila-chandrasena-and-udayanga-weeratunga-over-corruption) · `en`
-
-The United States has imposed sanctions on the former CEO of SriLankan Airlines Kapila Chandrasena and former Sri Lankan Ambassador to Russia Udayanga Weeratunga, along with their immediate family members, for their involvement in “significant corruption”.
-
-The U.S. State Department announced a slew of sanctions on Monday to mark International Anti-Corruption Day and the eve of Human Rights Day, targeting individuals from multiple countries.
-
-Accordingly, the US Department of State has designated 14 individuals, including immediate family members, from countries around the world for significant corruption and one individual for gross violations of human rights, pursuant to Section 7031(c) of the Department’s annual appropriations act, rendering them ineligible for entry into the United States.
-
-...
-
-[Data](articles/33f4f8f5.json)
 
 ---

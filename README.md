@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 19:42:34**
+As of **2024-12-10 20:16:05**
 
 ## Newspaper Stats
 
-*Scraped **59,493** Articles*
+*Scraped **59,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 448
 colombotelegraphcom | 603
 bbccomsinhala | 621
 islandlk | 3,585
-economynextcom | 3,615
+economynextcom | 3,618
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,645
+adalk | 5,646
 adaderanalk | 7,244
-tamilmirrorlk | 8,491
+tamilmirrorlk | 8,492
 virakesarilk | 9,764
 adaderanasinhalalk | 10,283
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,442 (99.9%) of 59,493 articles have been extended.
+59,446 (99.9%) of 59,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### General election votes must be re -counted
+
+*2024-12-10 19:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தல்-வாக்குகள்-மீள-எண்ணப்பட-வேண்டும்/175-348556) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+National Congress leader Ataullah petitions Election Commission about vote recount in Digamadulla electoral district. Claims voter rights denied, results manipulated. Threatens legal action if votes not recounted.
+
+🟩
+
+The National Congress leader and former minister of the Digamadulla electoral district in the last general election. Ataullah, today, officially handed over a petition containing complaints of the Human Rights Commission of Sri Lanka to visit the Kalmunai Regional Office today.
+
+The petition included a number of issues that include many moves and disturbances that were targeted as the National Congress leader during the last election during the last election.
+
+In the ongoing parliamentary elections, the voters' rights in the Digamadulla electoral district were systematically denied and votes were counted, he said.
+
+...
+
+[Data](articles/52ba37c2.json)
+
+[Extended Data](ext_articles/52ba37c2.ext.json)
+
+---
 
 ### US sanctions in Kapila and Ageon
 
@@ -64,6 +90,24 @@ The US State Department says that these sanctions and members of their nearest f
 
 ---
 
+### Sri Lanka praises US State Dept for sanction against Rajapaksa allies
+
+*2024-12-10 18:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-praises-us-state-dept-for-sanction-against-rajapaksa-allies-193382/) · `en`
+
+ECONOMYNEXT – Sri Lanka government has given a thump up for the U.S. State Department for imposing sanctions on two of Sri Lanka’s for president Mahinda Rajapaksa’s allies – ex-envoy to Russia Udayanga Weeratunga and former Sri Lankan Airline’s chief executive Kapila Chandrasena.
+
+Both officials served under former leader President Rajapaksa’s two terms from 20o5-2015.  The MiG aircraft deal goes back to Rajapaksa’s first term when the country was fighting the final phase of a 26-year war, while the airbus deal took place in Rajapaksa’s second term.
+
+The US State Department said Chandrasena accepted a bribe while serving in his capacity as Sri Lankan Airlines CEO in exchange for ensuring Sri Lanka purchased Airbus aircraft above the market value while Weeratunga was named over the MiG aircraft deal for the Sri Lanka Air Force.
+
+The sanction covers both two individuals and their immediate family members.
+
+...
+
+[Data](articles/d21af5a2.json)
+
+---
+
 ### Shooting on car that collided with a woman
 
 *2024-12-10 18:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-மோதவந்த-கார்-மீது-துப்பாக்கிச்-சூடு/175-348555) · `ta`
@@ -91,6 +135,28 @@ Several investigations are involved in the arrest of car and driver. Remble
 [Data](articles/fe89c2c4.json)
 
 [Extended Data](ext_articles/fe89c2c4.ext.json)
+
+---
+
+### Sri Lanka to find better uses for five extra Presidential palaces
+
+*2024-12-10 18:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-find-better-uses-for-five-extra-presidential-palaces-193374/) · `en`
+
+ECONOMYNEXT – Sri Lanka has appointed a committee to fund better uses for extra five  presidential palances and 50 bungalows in Colombo 07 and 05 areas, a statement from the President’s media office said.
+
+Out of seven Presidential Palaces only the ones in Colombo and Kandy are regularly used, the statement said.
+
+The other five were in Nuwara Eliya, Mahiyangana, Anuradhaputra, Kataragama, Jaffna, Embilipitya and Bentota.
+
+Visumapaya, a building in Colombo coming under the Urban Development Authority, which is used by visiting foreign dignitaries has also been including in the list for unfertilized buildings that can be better made use of.
+
+There were 50 bungalows in Colombo coming under the public administration ministry. They were used by ex-Presidents and Ministers.
+
+The cabinet has approved the appointment of a committee of officials to come up with plans to make better economic use of the buildings.
+
+...
+
+[Data](articles/c17748dd.json)
 
 ---
 
@@ -140,6 +206,26 @@ It is noteworthy that the first and second seats have already arrived in Sri Lan
 
 ---
 
+### යාපනයේ හඳුනා නොගත් උණ රෝගයක්,  දින දෙකට 03 ක් මිය ගිහින්
+
+*2024-12-10 17:38:22* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-හඳුනා-නොගත්-උණ-රෝගයක්---දින-දෙකට-03-ක්-මිය-ගිහින්/11-413566) · `si`
+
+හදීසි උණරෝගයක් වැළඳීම හේතුවෙන් යාපනය ශීක්ෂණ රෝහලේ ප්‍රතිකාර ලැබූ  රෝගීන්ගෙන් තුන් දෙනෙකු දින දෙකක් තුල මියයාම සම්බන්ධයෙන් අද (10) සිට පරීක්ෂණයක් ආරම්භ කොට ඇති බවට යාපනය රෝහල් අධ්‍යක්ෂක ටී. සත්‍යමූර්ති මහතා පවසා සිටියේය.
+
+යාපනය ශීක්ෂණ රෝහලේ අධ්‍යක්ෂ ටී.සත්‍යමූර්ති මහතා ප්‍රකාශ කලේ එලෙස මියගිය පුද්ගලයින්ගේ  ශරීර කොටස් කීපයක් වැඩිදුර පරීක්ෂණ සදහා කොළඹට යවා ඇති බවයි.
+
+උණ රෝගය වැළදීම නිසා මෙලෙස පුද්ගලයින් රෝහල් ගතව සිටියදී මියගොස් ඇතත් එම උණ රෝගය නිශ්චය වශයෙන් මෙතෙක් හදුණා ගැනීමට පෙර ඔවුන් මියගොස් තිබීම නිසා රෝහලේ වෛද්‍යවරු බරපතල ප්‍රශ්නයකට මුහුණ් පා ඇත.
+
+යාපනයේ පේදුරුතුඩුව ප්‍රදේශයේ වයස අවුරුදු  42 ක පුද්ගලයෙකු හා නාවට්කුලි ප්‍රදේශයේ වයස අවුරුදු  32 ක පුද්ගලයෙකු මෙන්ම කිළිනොච්චිය රෝහලෙන් යාපනය ශීක්ෂණ රෝහල වෙත මාරු කල වයස අවුරුදු 28 ක පුද්ගලයෙකු මෙලෙස මිය ගොස් තිබේ.
+
+යාපනය ශීක්ෂණ රෝහලේ අධ්‍යක්ෂවරයා වැඩිදුරටත් සදහන් කලේ උණ හා කැස්ස වැළදී ඇති රෝගීන් වහාම ළගම පිහිටි රජයේ රෝහල වෙත ගොස් රුධිර සාම්පල පරීක්ෂාවක් සිදු කර ගැනීම ඉතා වැදගත් බවටයි.
+
+◼️
+
+[Data](articles/af6279ce.json)
+
+---
+
 ### Four arrested during development officers’ protest granted bail
 
 *2024-12-10 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104148/four-arrested-during-development-officers-protest-granted-bail) · `en`
@@ -160,19 +246,47 @@ The Development Officers engaged in the demonstration demanding that they be mad
 
 ---
 
-### වැටුප් වැඩිකිරීමක් ඉල්ලා කොත්මලේ ඇඟළුම් කම්හලක සේවක සේවිකාවන් වැඩ වර්ජනයක
+### At strike at Kotmale garment factory demands for salaries
 
 *2024-12-10 17:06:29* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකිරීමක්-ඉල්ලා-කොත්මලේ-ඇඟළුම්-කම්හලක-සේවක-සේවිකාවන්-වැඩ-වර්ජනයක/11-413563) · `si`
 
-කොත්මලේ ප්‍රදේශයේ පිහිටි පෞද්ගලික ඇගළුම් කර්මාන්ත ශාලාවක සේවක සේවිකාවන් රු පන්දහසක වැටුප් වැඩිවිමක් ඉල්ලා දින පහක් තිස්සේ එම කර්මාන්ත ශාලාව ඉදිරිපිට වැඩ වර්ජනය කරමින් උද්ඝෝෂණයක නිරත වෙමින් සිටියි.
+Kotmale garment factory workers stage 5-day protest demanding salary increases. Employees employed for 25 years claim government promised wage boost. Factory threatens closure if strike continues. Police deployed to maintain order during demonstrations.
 
-සේවක සේවිකාවන් 1080 දෙනෙකු පමණ සේවය කරන එම ඇගළුම් කර්මාන්ත ශාලාව වසර 25 ක් තිස්සේ පවත්වාගෙන යන බවත්, රටේ පවතින ජිවන වියදම අනුව රු පන්දහසක වැටුප් වැඩිවිමක් ලබාදෙන ලෙස සේවක සේවිකාවන් පාලන අධිකාරියෙන් ඉල්ලා සිටියද, පාලන අධිකාරියෙන් රු දෙදහසක් පමණක් වැඩි කරන බවට පොරොන්දු වු බවයි උද්ඝෝෂණයේ නිරතව සිටින සේවක සේවිකාවන් කියා සිටියේ.
+🟩
 
-රු දෙදහසකට වඩා වැඩි වැටුපක් ලබාදෙන්නේ නම් දැනට සේවක සේවිකාවන්ට ලබාදෙන සුභ සාධන කප්පාදු කිරිමට සිදු වන බව පාලන අධිකාරිය විසින් තමන් වෙත දැනුම් දි තිබෙන බවත්, පවත්නා තත්ත්වය මත මේ වන තෙක් එම ඇගළුම් කර්මාන්ත ශාලාවේ කිසිවෙක් තමන් සමග සාකච්ඡා නොකර ඇගළුම් කර්මාන්ත ශාලාවේ නේවාසිකව රැදි සිටින සේවිකාවන් ඉවත් කර ඇගළුම් කර්මාන්ත ශාලාව වැටුප් රහිතව මේ මස (17) දින දක්වා වසා දමන බවට තමන් වෙත දැනුම් දි ඇති බවයි උද්ඝෝෂණයේ නිරත වන සේවික සේවිකාවන් කියා සිටින්නේ.
+In a private garment factory in Kotmale, Kotmale, staged a protest in front of the factory for five days.
+
+Employees who are employed by the governance authority for 25 years, the employees who are employed for 25 years, but the government's governing has been ranked for 25 years, but the administration of the country has promised to increase a sum of Rs.Employees who are in the ministry said.
+
+If there is more than two thousand Rs.Employment Factory has informed the employees that they have informed him that he is informed to be closed from the month (17).
+
+The officials said that the officials were experiencing the governing authority, even though they discussed the issue with the authority of the Labor Office.
+
+The governing authority is not sufficient to receive a minimum of Rs.The demonstration stated that the protest said.
+
+If the garment factory is closed, the protests added to the protest.
 
 ...
 
 [Data](articles/e11f0035.json)
+
+[Extended Data](ext_articles/e11f0035.ext.json)
+
+---
+
+### Sri Lanka President to visit India from December 15
+
+*2024-12-10 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-india-from-december-15-193368/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake visit India from December 15, in his first overseas visit, Media Minister Nalinda Jayatissa said.
+
+President Dissanayake will be accompanied by the Minister of Foreign Affairs and a Deputy Finance Minister, he said.
+
+Ahead of the visit cabinet approved amending a double taxation treaty, and signing two grant agreements for railway locomotives and equipment for boatyard.
+
+◼️
+
+[Data](articles/4e7347dd.json)
 
 ---
 
@@ -648,37 +762,53 @@ However, except for the mansions in Colombo and Kandy, these assets have not bee
 
 ---
 
-### සිලින්ඩරයට හිමි ජාතික ලැයිස්තු මන්ත්‍රී ධුරයට ෆයිසර් මුස්තාපා නම් කෙරේ
+### Faizer Mustapha is named as the national list of cylinder
 
 *2024-12-10 15:42:47* · [`adalk`](https://www.ada.lk/breaking_news/සිලින්ඩරයට-හිමි-ජාතික-ලැයිස්තු-මන්ත්‍රී-ධුරයට-ෆයිසර්-මුස්තාපා-නම්-කෙරේ/11-413557) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට හිමි ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා ෆයිසර් මුස්තාපා මහතා නම් කරමින් මැතිවරණ කොමිෂන් සභාවට ලිපියක් මගින් දැනුම් දී තිබේ.
+Here's a summary of 200 characters:
 
-එම පක්ෂයට මෙවර මහ මැතිවරණයෙන් ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකක් හිමි වූ අතර, ඉන් එක් මන්ත්‍රී ධුරයක් සඳහා මීට පෙර රවී කරුණානායක මහතාව පත් කරනු ලැබිණි.
+
+
+Faizer Mustapha named on national list. Elected as National List MP for Democratic Front. Party received two national lists in general election. Ravi Karunanayake previously held seat.
+
+🟩
+
+The National List MP for the new Democratic Front has nominated by the Elections Commission.
+
+The party received two national lists in this year's general election and was elected Ravi Karunanayake for the previous seat.
 
 ◼️
 
 [Data](articles/54afd86d.json)
 
+[Extended Data](ext_articles/54afd86d.ext.json)
+
 ---
 
-### ආසියානු සංවර්ධන බැංකුවෙන් විදුලිබල මණ්ඩලයට ඩොලර් මිලියන 30ක්
+### ADB receives US $ 30 million from the Electricity Board
 
 *2024-12-10 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204235) · `si`
 
-ලංකා විදුලිබල මණ්ඩලය සඳහා ඩොලර් මිලියන 30ක මූල්‍ය පහසුකමක් සඳහා අනුමැතිය ලබාදීමට ආසියානු සංවර්ධන බැංකුව පියවර ගෙන තිබේ.
+ADB provides $30m to Ceylon Electricity Board. Funds aim to boost renewable energy, targeting 70% of Sri Lanka's electricity generation from sustainable sources by 2030.
 
-දැනට ක්‍රියාත්මක සහ අනාගත බලශක්ති අංශයේ ව්‍යාපෘතිවල තිරසාර බව තහවුරු කිරීම එම මූල්‍ය පහසුකම යෙදවෙන බව නිවේදනයක් නිකුත්කරමින් ආසියානු සංවර්ධන බැංකුව පැවසීය.
+🟩
 
-මෙය ශ්‍රී ලංකාවට සපයා ඇති මෙවැනි ආකාරයේ පළමු මූල්‍ය පහසුකම වෙයි.
+The Asian Development Bank has taken approval for the Ceylon Electricity Board.
 
-ආසියානු සංවර්ධන බැංකුව පවසන්නේ පුනර්ජනනීය බලශක්තිය ප්‍රවර්ධනයටත්, එම ක්ෂේත්‍රය සඳහා පුද්ගලික අංශයේ දායකත්වය වැඩිකරගැනීමත් මෙම වැඩසටහනේ අරමුණු වෙයි.
+The Asian Development Bank (ASS) has issued a statement that the financial support will be deprived of the sustainability of the present and future power sector projects.
 
-2030 වනවිට ශ්‍රී ලංකාවේ විදුලිබල උත්පාදනයෙන් 70%ක් පුනර්ජනනීය ප්‍රභවයන් ඔස්සේ ලබාගැනීමට ඇති සැලැස්ම සාර්ථක කර ගැනීමටත් මෙම වැඩසටහන වැදගත් වන බව ආසියානු සංවර්ධන බැංකුව පැවසීය.
+This is the first financial facility that has been provided to Sri Lanka.
+
+The Asian Development Bank says the objectives of the program to promote renewable energy to promote the renewable energy.
+
+The program is important to make 70% of electricity generation in electricity generation in Sri Lanka by 70% of electricity generated by 70% of the renewable sources.
 
 ◼️
 
 [Data](articles/fd35a148.json)
+
+[Extended Data](ext_articles/fd35a148.ext.json)
 
 ---
 
@@ -2141,133 +2271,5 @@ Further investigations are being carried out by the Ja -Ela police.
 [Data](articles/62cfc516.json)
 
 [Extended Data](ext_articles/62cfc516.ext.json)
-
----
-
-### Do not celebrate next year if corruption and fraud
-
-*2024-12-10 10:05:49* · [`adalk`](https://www.ada.lk/breaking_news/දූෂණය-සහ-වංචාව-අඩු-නොවුණොත්-ලබන-වසරේදී-සැමරුම්-උත්සව-එපා/11-413549) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka faces rising corruption & fraud. In 2021, 69 bribery cases were filed, 40 resolved. President calls for restoring kingdom system to combat corruption. UNDP trains officials to combat bribery.
-
-🟩
-
-Everyone dedicates Sri Lanka to make a bribery corruption
-
-2024 Mandication is a mandate given to the abolition of corruption
-
-About 40 cases of the Bribery Commission 209 cases in 2021 in the year 89 persons should be revealed to the people to withdraw 45
-
-The law of Sri Lanka has so far acted as a spider and small animals. The big animals broke the stroll
-
-The Kingdom system should be restored to rebuild Sri Lanka
-
-President Anura Kumara Dissanayake said that the citizen would not serve the citizen if the individuals were built, but how many agencies would not work properly.
-
-The President also pointed out that if the people do not bring justice to the people using the power generated by the people, the power is not worth it.
-
-President Anura Kumara Dissanayake made these comments at a function held at the Bandaranaike Memorial International Conference Hall for the "2024 International Corruption Day".
-
-...
-
-[Data](articles/9e9e6fcb.json)
-
-[Extended Data](ext_articles/9e9e6fcb.ext.json)
-
----
-
-### Yall. District Parliamentarian Ramanathan Archana against Jaffna. Complaint to the police
-
-*2024-12-10 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200854) · `ta`
-
-Ramanathan Archana enters Jaffna Hospital unauthorized. Police lodge complaint. Earlier, Mannar Hospital director filed similar complaint during her time as doctor. Investigation ongoing after pregnant woman's death at Mannar Hospital.
-
-🟩
-
-Yall. District Parliamentarian Ramanathan Archana against Jaffna. Police said that a complaint has been lodged with the police.
-
-Parliamentarian Ramanathan Archana has entered into the Jaffna Hospital without permission and the hospital administration has been involved in disrupting the activities of the hospital.. The complaint has been lodged at the police station, police said.
-
-Earlier, when Ramanathan was working as a doctor, the Mannar Hospital Director had lodged a complaint with the Mannar Hospital that the hospital was disrupted.
-
-Investigations into the death of a pregnant woman at the Mannar Hospital a few months ago, Ramanathan Archana has reportedly entered the Mannar Hospital without permission.
-
-◼️
-
-[Data](articles/f2275d02.json)
-
-[Extended Data](ext_articles/f2275d02.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.30/40 to dollar, bonds down
-
-*2024-12-10 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-30-40-to-dollar-bonds-down-193176/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 290.30/40 to the US dollar on Tuesday from 290.30/45 to the US dollar on Monday, dealers said, while bond yields were down.
-
-A bond maturing on 15.10.2027 was quoted at 10.00/10 percent, down from 10.15/25 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.38/43 percent.
-
-A bond maturing on 01.05.2028 was quoted at 10.45/55 percent, down from 10.55/70 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.85/90 percent, down from 10.90/11.00 percent.
-
-In equities, the All Share Price Index was up 0.38 percent or 52.20 points, at 13,770.
-
-The more liquid S&P SL20 was up 0.41 percent, or 16.92 points, at 4,107.
-
-The central bank has announced auctions of Rs. 206,000 million Treasury bills on Wednesday, and 132,500 million Treasury Bonds on Thursday. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/60bc4405.json)
-
-[Extended Data](ext_articles/60bc4405.ext.json)
-
----
-
-### ලක්ෂ 50කට අධික විදේශීය මත්පැන් බෝතල් තොගයක් රේගු භාරයට
-
-*2024-12-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204219) · `si`
-
-ගම්පහ සුරාබදු කාර්යාලයේ නිලධාරීන් සිදුකළ වැටලීමකදී නීතිවිරෝධීව ගබඩා කර තිබූ විදේශීය මත්පැන් බෝතල් තොගයක් සොයාගෙන තිබේ.
-
-සුරාබදු නිලධාරීන් පැවසුවේ, එහි වටිනාකම රුපියල් ලක්ෂ 50කට අධික බවය.
-
-සුරාබදු කොමසාරිස් ජෙනරාල්වරයාට ලැබුණු පැමිණිල්ලක් මත එම වැටලීම සිදුකළේ බොරැල්ලේ පිහිටි පෞද්ගලික ආයතනයකයි.
-
-එහිදී ගම්පහ සුරාබදු කාර්යාලයේ නිලධාරීන් එම ආයතනයේ ගබඩා කර තිබූ විදේශීය මත්පැන් බෝතල් 173ක් සොයාගෙන තිබේ.
-
-ඒ සමඟ කොළඹ පදිංචි වයස අවුරුදු 35ක පුද්ගලයකු අත්අඩංගුවට ගත් බව සුරාබදු නිලධාරීන් ප්‍රකාශ කළේය.
-
-◼️
-
-[Data](articles/a940fb00.json)
-
----
-
-### Former CCD Director to be produced before court today
-
-*2024-12-10 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104125/former-ccd-director-to-be-produced-before-court-today) · `en`
-
-The former Director of the Colombo Crimes Division (CCD), ASP Nevil Silva, who was arrested by the Criminal Investigations Department (CID) yesterday, is scheduled to be produced before court today (10).
-
-He was arrested at the Police Field Force Headquarters, the police said.
-
-The CID had launched an investigation based on a complaint received claiming that ASP Silva had allegedly acted in a manner that was partial towards a complainant when investigating a case filed with the CCD in August 2023.
-
-It has been confirmed that during this investigation, ASP Silva had aided and abetted in an incident of abduction and wrongful confinement.
-
-Accordingly, the arrested CCD Director is scheduled to be produced before the Ratnapura Magistrate’s Court today (10).
-
-◼️
-
-[Data](articles/12639c67.json)
 
 ---

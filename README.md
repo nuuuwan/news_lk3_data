@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 14:17:13**
+As of **2024-12-10 14:29:35**
 
 ## Newspaper Stats
 
-*Scraped **59,440** Articles*
+*Scraped **59,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,584
 economynextcom | 3,610
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,635
+adalk | 5,636
 adaderanalk | 7,234
-tamilmirrorlk | 8,484
+tamilmirrorlk | 8,485
 virakesarilk | 9,755
 adaderanasinhalalk | 10,273
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,404 (99.9%) of 59,440 articles have been extended.
+59,404 (99.9%) of 59,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### புதிய செயலாளர் நியமனம்
+
+*2024-12-10 14:18:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்-நியமனம்/175-348529) · `ta`
+
+சுகாதார மற்றும் ஊடக அமைச்சின் புதிய செயலாளராக டொக்டர் அனில் ஜசிங்க நியமிக்கப்பட்டுள்ளார்.
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்கவினால் இந்த நியமனம் வழங்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+உத்தியோகபூர்வ நியமனக் கடிதம் திரு. ஜசிங்கவிடம் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவினால் இன்று ஜனாதிபதி செயலகத்தில் வைத்து கையளிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/b59fd03b.json)
+
+---
 
 ### Struggle to ask for justice
 
@@ -61,6 +77,20 @@ Our relationships are the ones who have disappeared!They are not missing. Today,
 [Data](articles/29bc47e4.json)
 
 [Extended Data](ext_articles/29bc47e4.ext.json)
+
+---
+
+### ජනපති ලබන සතියේ ඉන්දියාවට
+
+*2024-12-10 13:12:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලබන-සතියේ-ඉන්දියාවට/11-413554) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ලබන 15 වැනිදා සිට 17 වැනිදා දක්වා ඉන්දියාවේ නිළ සංචාරයක නිරත වන බව කැබිනට් ප්‍රකාශන අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+මෙය අනුර කුමාර දිසානායක මහතා ජනාධිපති ධුරයට පත්වීමෙන් පසුව සිදු කරනු ලබන පළමු නිළ සංචාරයවේ.
+
+◼️
+
+[Data](articles/0e1c74dd.json)
 
 ---
 
@@ -2195,51 +2225,5 @@ Meanwhile, Sivagnanam Sridharan, the leader of the Sri Lanka Tamil National Alli
 [Data](articles/78ca1ab2.json)
 
 [Extended Data](ext_articles/78ca1ab2.ext.json)
-
----
-
-### To not sweat the small stuff in education: Decentralise and delegate responsibilities
-
-*2024-12-10 01:37:36* · [`dailyftlk`](https://www.ft.lk/columns/To-not-sweat-the-small-stuff-in-education-Decentralise-and-delegate-responsibilities/4-770280) · `en`
-
-The larger problem is that there are no certification requirements for teachers in Sri Lanka
-
-Rice shortages and the Maaveerar celebrations in the north and reporting of the same in the south are issues that took centre stage last week. These are issues that shape a practical ideology for the new Government as it transitions from election promises to the reality of governing. As for rice shortages, it is time for the Cabinet to put its heads together and learn about the limits of State intervention in the marketplace and adopt appropriate responses. In the second case, the Government can use the situation as an opportunity to form a new narrative on our race relations.
-
-...
-
-[Data](articles/69a39179.json)
-
-[Extended Data](ext_articles/69a39179.ext.json)
-
----
-
-### Rice crisis: What is the government intervened, including the President?
-
-*2024-12-10 01:36:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8xjq9749k4o) · `si`
-
-Sri Lanka rice crisis: Govt interventions include Pres. Anura Kumara Dissanayake's actions, price controls, imports, and consumer protection measures.
-
-🟩
-
-Rice crisis: What is the government intervened, including the President?
-
-The main challenge for the current government was a major challenge in the country.
-
-The government has taken place to relieve the crisis before the coming year, and the government is taking various measures to do not.
-
-Are you aware of these steps that have been taken to control the rice shortage of the country and the increase in price hike?
-
-A discussion between President Anura Kumara Dissanayake and rice was held on October 22 as an intervention in the country's rice crisis.
-
-The Presidential Media Unit stated that the need to maintain the price control of rice and buying the prices and the farmers and to buy a fair prices and to provide a proper mechanism to the customers to provide rice.
-
-At a meeting held in Trincomalee, the President said that a meeting held in Trincomalee on the day of the rice.
-
-...
-
-[Data](articles/169e9b48.json)
-
-[Extended Data](ext_articles/169e9b48.ext.json)
 
 ---

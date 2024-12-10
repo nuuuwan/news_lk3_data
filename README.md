@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 17:44:08**
+As of **2024-12-10 18:03:35**
 
 ## Newspaper Stats
 
-*Scraped **59,485** Articles*
+*Scraped **59,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,585
 economynextcom | 3,615
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,641
-adaderanalk | 7,242
-tamilmirrorlk | 8,489
+adalk | 5,642
+adaderanalk | 7,243
+tamilmirrorlk | 8,490
 virakesarilk | 9,764
 adaderanasinhalalk | 10,283
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 10,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,424 (99.9%) of 59,485 articles have been extended.
+59,426 (99.9%) of 59,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### சீருடைகளை வழங்கிய சீன அரசாங்கத்திற்கு பிரதமர் நன்றி தெரிவிப்பு
+
+*2024-12-10 17:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடைகளை-வழங்கிய-சீன-அரசாங்கத்திற்கு-பிரதமர்-நன்றி-தெரிவிப்பு/175-348553) · `ta`
+
+2025 ஆம் ஆண்டிற்கான எமது நாட்டில் உள்ள அனைத்து பாடசாலைகள் மற்றும் பிரிவெனாக்களின் பிள்ளைகளுக்கு சீருடைகளை வழங்கியமைக்காக சீன அரசாங்கத்திற்கு இலங்கை அரசாங்கத்தின் சார்பில் நன்றி தெரிவிப்பதாக பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+2025ஆம் ஆண்டுக்கான பாடசாலை சீருடைகள் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இவ்வாறு தெரிவித்தார்.
+
+சீன அரசாங்கத்தின் உதவித்திட்டமாக கிடைக்கப்பெற்ற இந்த பாடசாலை சீருடைகளை சீனத் தூதுவர் Key Zheng Hong இன்று (10) பிற்பகல் கொழும்பு துறைமுகத்தின் சர்வதேச கொள்கலன் முனையத்தில் கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சர், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவிடம் கையளித்தார்.
+
+2025 ஆம் ஆண்டுக்கான பாடசாலை சீருடைகளுக்காக 11,817 மில்லியன் மீற்றர் துணி தேவையாகவுள்ளதுடன், பாடசாலை சீருடைகள் வழங்கப்படவுள்ள மாணவர்களின் எண்ணிக்கை 4,640,086 ஆகும். அதன்படி, 2025 ஆம் ஆண்டிற்கான பாடசாலை சீருடைகளின் முழுத் தேவையும் (100%) சீன மக்கள் குடியரசால் அன்பளிப்பாக வழங்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/652b6939.json)
+
+---
+
+### Four arrested during development officers’ protest granted bail
+
+*2024-12-10 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104148/four-arrested-during-development-officers-protest-granted-bail) · `en`
+
+The four protestors arrested during a tense situation in front of the Ministry of Education on December 02 have been granted bail by the Kaduwela Magistrate’s Court.
+
+The four individuals were arrested after three police officers sustained injuries during a tense situation which had prevailed when the police attempted to disperse a protest march staged by the Development Officers in a manner that blocked the road for traffic in front of the Ministry of Education.
+
+Later, the arrested protesters were ordered to be remanded until today (10) after they were produced before the Kaduwela Magistrate’s Court.
+
+The Development Officers engaged in the demonstration demanding that they be made permanent in the teaching service.
+
+◼️
+
+[Data](articles/acadb430.json)
+
+---
 
 ### Police officers released on bail
 
@@ -126,6 +162,8 @@ The meeting was attended by Prime Minister Dr. Harini Amarasuriya who is also th
 
 [Data](articles/871fac26.json)
 
+[Extended Data](ext_articles/871fac26.ext.json)
+
 ---
 
 ### Minister issues scathing response to Ranil’s statement on liquor licenses
@@ -141,6 +179,26 @@ Addressing the matter today, Minister Jayatissa stated: “Former President Rani
 ...
 
 [Data](articles/af747e3f.json)
+
+[Extended Data](ext_articles/af747e3f.ext.json)
+
+---
+
+### නව ඩිජිටල් රියදුරු බලපත්‍රයක්
+
+*2024-12-10 16:25:08* · [`adalk`](https://www.ada.lk/breaking_news/නව-ඩිජිටල්-රියදුරු-බලපත්‍රයක්/11-413559) · `si`
+
+දැනට භාවිත කරනු ලබන රියදුරු බලපත්‍රය වෙනුවට නව ඩිජිටල් රියදුරු බලපත්‍රයක් කඩිනමින් හඳුන්වා දීමට අවශ්‍ය පියවර ගැනීමට අමාත්‍ය මණ්ඩලය තීරණය කර තිබේ.
+
+ඩිජිටල් රියදුරු බලපත්‍රය නිකුත් කරන තෙක් රියදුරු බලපත්‍ර නිකුත් කිරීම සඳහා දැනට අනුගමනය කරන ක්‍රමවේදය තවදුරටත් ක්‍රියාත්මක කිරීමට ද අමාත්‍ය මණ්ඩලය තීරණය කර තිබේ.
+
+මේ වන විට සුහුරු කාඩ්පතක් ලෙස රියදුරු බලපත්‍රයක් නිකුත් කිරීම ආරම්භ කර වසර 15කට ආසන්න කාලයක් ගත වී ඇති අතර, අදාළ ආයතන අතර දත්ත හුවමාරුවකට පහසුකම් සලසමින් නව තාක්ෂණය අනුව ලෝකයේ රටවල් ගණනාවක දැනට භාවිත කරනු ලබන ඩිජිටල් රියදුරු බලපත්‍රයක් නිකුත් කිරීමේ යෝග්‍යතාව රජය විසින් හඳුනාගෙන තිබේ.
+
+ඒ අනුව, ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යවරයා ඉදිරිපත් කරන ලද යෝජනා සැලකිල්ලට ගෙන මෙම ඩිජිටල් රියදුරු බලපත්‍රය කඩිනමින් හඳුන්වා දීමට නියමිතය.
+
+◼️
+
+[Data](articles/6150a8ff.json)
 
 ---
 
@@ -2131,63 +2189,5 @@ Local government elections and provincial council elections simultaneously reduc
 [Data](articles/8d0202ee.json)
 
 [Extended Data](ext_articles/8d0202ee.ext.json)
-
----
-
-### A Role Model President AKD Could Emulate In Anti-Corruption Crusade
-
-*2024-12-10 08:56:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-role-model-president-akd-could-emulate-in-anti-corruption-crusade/) · `en`
-
-Corruption could be defined as the abuse of power for private gains. Quite often political leaders and public officers are implicated in acts of corruption.
-
-Corruption takes place at different levels and scales. It ranges from taking bribes to financial-administrative corruption which involves abuse of public offices to derive private gains. The highest scale of corruption or grand corruption usually takes place at top level of public sector hierarchy with possible involvement of business giants and political heavyweights. The infamous central Bank Bond Scam is an example of a grand corruption.
-
-HK was a Nobel Peace Prize Laureate globally renowned for peace building diplomacy. He served as the Secretary of State and Security Advisor in the Government of the USA during the administrations of Pr. Richard Nixon and Pr. Gerald Ford.  HK was an American diplomat, political scientist and respected scholar.
-
-...
-
-[Data](articles/a0dcbda1.json)
-
----
-
-### Madurankuliya suspect
-
-*2024-12-10 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204217) · `si`
-
-Body found at Madurankuliya bus station. Police investigating death near Vajirawatta road. Case filed at local police station.
-
-🟩
-
-The body of a person who was killed in a bus station located near the Vajirawatta road in Madurankuliya has been found.
-
-A investigation was lodged on a complaint lodged with the Madurankuliya police station revealed that the death was held today (10).
-
-The police say that information has been revealed to the death of death, police said.
-
-◼️
-
-[Data](articles/8078fad3.json)
-
-[Extended Data](ext_articles/8078fad3.ext.json)
-
----
-
-### Sri Lanka leader asks anti-graft body to explain withdrawal of corruption cases
-
-*2024-12-10 08:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-asks-anti-graft-body-to-explain-withdrawal-of-corruption-cases-193173/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has stressed the need to explain the reasons behind why the island nation’s anti-graft body withdrew 85 corruption cases in two years during the previous regime.
-
-Dissanayake made these comments during International Anti-Corruption Day National Celebration which was held in Colombo on Monday (09) under the theme, “Uniting with Youth against Corruption: Shaping tomorrow’s Integrity.”
-
-His Marxists-leaning Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) won both Presidential and Parliamentary elections with pledges of eliminating corruption while punishing those responsible for past misappropriations of public funds.
-
-The President noted the performance of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and said that 69 corruption cases were filed in 2021, but 40 were later withdrawn.
-
-...
-
-[Data](articles/bfedb582.json)
-
-[Extended Data](ext_articles/bfedb582.ext.json)
 
 ---

@@ -1,0 +1,21 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0d85\u0daf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba",
+      "body_lines": [
+        "The US dollar purchasing price was 286.0210 rupees and the sales price were 294.638 rupees based on the currency exchange rate released by the Central Bank on Tuesday (10)."
+      ]
+    },
+    "en": {
+      "title": "Today's currency exchange rate",
+      "body_lines": [
+        "The US dollar purchasing price was 286.0210 rupees and the sales price were 294.638 rupees based on the currency exchange rate released by the Central Bank on Tuesday (10)."
+      ]
+    }
+  },
+  "summary_lines": [
+    "Here's a summary of the currency exchange rate in 200 characters:",
+    "",
+    "US Dollar: 286.0210 INR (buying), 294.638 INR (selling). Released by Central Bank on Tuesday (10)."
+  ]
+}

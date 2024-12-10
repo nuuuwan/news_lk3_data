@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 16:42:17**
+As of **2024-12-10 17:00:44**
 
 ## Newspaper Stats
 
-*Scraped **59,470** Articles*
+*Scraped **59,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 448
 colombotelegraphcom | 603
 bbccomsinhala | 621
 islandlk | 3,585
-economynextcom | 3,610
+economynextcom | 3,615
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,640
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,277
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,421 (99.9%) of 59,470 articles have been extended.
+59,421 (99.9%) of 59,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Sri Lanka rupee closes stronger at 290.30/35 to dollar, bonds down
+
+*2024-12-10 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-30-35-to-dollar-bonds-down-193346/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.30/35 to the US dollar on Tuesday from 290.30/45 to the US dollar on Monday, dealers said, while bond yields continued to decline.
+
+A bond maturing on 15.12.2026 closed at 9.40/50 percent, down from 9.50/65 percent.
+
+A bond maturing on 15.10.2027 closed at 9.90/10.05 percent, down from 10.15/25 percent.
+
+A bond maturing on 15.09.2029 closed at 10.80/95 percent, down from 10.90/11.00 percent. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/4ab5f7e1.json)
+
+---
 
 ### President chairs discussion on Education Ministry’s expenditure
 
@@ -84,6 +102,30 @@ Addressing the matter today, Minister Jayatissa stated: “Former President Rani
 
 ---
 
+### Sri Lanka stocks close up, driven by diversified financials
+
+*2024-12-10 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-diversified-financials-193335/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader ASPI kept rising to close up 0.41 percent, or 56.21 points, at 13,774; while the more liquid S&P SL20 Index closed up 0.55 percent, or 22.50 points, at 4,113.
+
+Turnover was 4.3 billion. Major contributing sectors were diversified financials sectors (Rs955mn), and capital goods (Rs890mn).
+
+Market was moving upward due to expectations, market participants have said, with positive momentum continuing ahead of the expected lift of the vehicle import ban.
+
+Companies with exposure to the automotive market saw local investor interest.
+
+Top positive contributors to the ASPI were LOLC Holdings (up at 513.75), Browns Investments (up at 6.40), John Keells Holdings (up at 21.00), LOLC Finance (up at 6.70), and Ceylon Tobacco (up at 1,316.75).
+
+Abans Plc said its issue of 3 million debentures at hundred rupees each to raise 300 million was oversubscribed. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/fe28e680.json)
+
+---
+
 ### Digital Driver's License: Notification of Ministry
 
 *2024-12-10 16:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-சாரதி-அனுமதிப்-பத்திரம்-அமைச்சின்-அறிவிப்பு/175-348534) · `ta`
@@ -125,6 +167,22 @@ He told the Daily Mirror that Mustafa's name had been submitted to the Election 
 [Data](articles/98b04c2c.json)
 
 [Extended Data](ext_articles/98b04c2c.ext.json)
+
+---
+
+### Indian support for Sri Lanka’s Karaingar boatyard
+
+*2024-12-10 15:59:00* · [`economynextcom`](https://economynext.com/indian-support-for-sri-lankas-karaingar-boatyard-193310/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers have approved the signing of an agreement which will see India providing financial aid to renovate the Karainagar boatyard, Health and Media Minister Nalinda Jayatissa said.
+
+“The grant will be used to renovate the Karainagar boatyard,” Jayatissa told reporters. The grant will finance renovations of the boatyard and provide office equipment.
+
+Cey-Nor Foundation Ltd manufactures fiberglass boats at Karainagar boatyard. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/669a4ead.json)
 
 ---
 
@@ -536,6 +594,24 @@ The official appointment letter Mr.. Jasinghe was handed over to the Presidentia
 
 ---
 
+### Sri Lanka to get 22 hardly used locomotives from India
+
+*2024-12-10 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-22-hardly-used-locomotives-from-india-193230/) · `en`
+
+ECONOMYNEXT – Sri Lanka Railways will receive 22 ALCO diesel engines from India as a grant, Health and Media Minister Nalinda Jayatissa said.
+
+“India will gift 20 slightly used M10 locomotive engines and 2 additional engines for obtaining spare parts for them,” Cabinet spokesman Jayatissa said.
+
+RITES, formerly known as Rail India Technical and Economic Service Engineering Service Limited, had made an unsolicited proposal to provide maintenance services for the locomotives over a five-year period, a cabinet statement said.
+
+However, a committee appointed to study this proposal by the previous government has said that Sri Lanka Railways has the capacity to maintain the locomotives. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/d66d74c6.json)
+
+---
+
 ### Dr. Anil Jasinghe appointed Secretary to Ministry of Health and Media
 
 *2024-12-10 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104138/dr-anil-jasinghe-appointed-secretary-to-ministry-of-health-and-media) · `en`
@@ -637,6 +713,28 @@ This is the first to do this after Anura Kumara Dissanayake is appointed preside
 [Data](articles/0e1c74dd.json)
 
 [Extended Data](ext_articles/0e1c74dd.ext.json)
+
+---
+
+### Sri Lanka to revise draft bill on stolen asset recovery
+
+*2024-12-10 13:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-draft-bill-on-stolen-asset-recovery-116510/) · `en`
+
+ECONOMYNEXT – Sri Lanka will revise its draft Proceeds of Crime bill, Health and Media Minister Nalinda Jayatissa said.
+
+The International Monetary Fund had made several observations on the draft bill, which was gazetted in August by the previous government, a cabinet statement said.
+
+The then Justice Minister had appointed a committee headed by a supreme court judge to study these observations.
+
+The committee recommended several provisions be incorporated into the draft bill.
+
+“The bill will include provisions for prohibiting keeping assets earned through crime, profiting from illegal activities, and the seizure of assets earned through crime,” Jayatissa told reporters.
+
+The legal draftsman will now amend the draft bill to include these provisions. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/c8be13f6.json)
 
 ---
 
@@ -2105,119 +2203,5 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 ◼️
 
 [Data](articles/57a4cf77.json)
-
----
-
-### US sanctions Udayana Weeratunga, Kapila Chandrasena over Sri Lanka MiG, Airbus deals
-
-*2024-12-10 06:52:00* · [`economynextcom`](https://economynext.com/us-sanctions-udayana-weeratunga-kapila-chandrasena-over-sri-lanka-mig-airbus-deals-193153/) · `en`
-
-ECONOMYNEXT – The US State Department has targeted 14 individual along with Sri Lanka’s ex-envoy to Russia, Udayanga Weeratunga and former Sri Lankan Airlines chief executive Kapila Chandrasena.
-
-“Chandrasena accepted a bribe while serving in his capacity as Sri Lankan Airlines CEO in exchange for ensuring Sri Lanka purchased Airbus aircraft for over market value,” a statement said.
-
-Weeratunga was named over a MiG aircraft deal for the Sri Lanka Air Force.
-
-“As part of this action, his immediate family members are also designated,” the statement said.
-
-Sri Lanka had also ordered the arrest of Chandrasena after a British inquiry in to bribery over Airbus deals.
-
-RelatedSriLankan Airline exec’s wife offered US$16mn bribe for Airbus deal: Court filing
-
-...
-
-[Data](articles/c6f8e747.json)
-
----
-
-### SriLankan ගුවන් සමාගම ගැන ජනපති ගත් තීරණය පිළිබඳව විද්වතුන් කියන්නේ කුමක් ද?
-
-*2024-12-10 06:23:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj30nmxlx1zo) · `si`
-
-SriLankan ගුවන් සමාගම ගැන ජනපති ගත් තීරණය පිළිබඳව විද්වතුන් කියන්නේ කුමක් ද?
-
-ශ්‍රීලංකන් ගුවන් සේවය යනු ශ්‍රී ලංකාවේ පාඩු ලබන රාජ්‍ය ව්‍යාපාර අතර ඉහළින් ම ඇති ආයතනයකි.
-
-ශ්‍රීලංකන් ගුවන් සේවය පෞද්ගලීකරණය කිරීමට පසුගිය ආණ්ඩුව ගන්නා ලද තීන්දුව වෙනස් කරමින් වත්මන් රජය එය තවදුරටත් ජාතික ගුවන් සේවය ලෙස පවත්වාගෙන යාමට තීරණය කර තිබේ.
-
-එ් අනුව, ශ්‍රීලංකන් ගුවන් සේවය පෞද්ගලීකරණය නොකරන බවට ප්‍රකාශයක් කළ නව ජනාධිපති අනුර කුමාර දිසානායක ශ්‍රීලංකන් ගුවන් සේවය සඳහා නව අධ්‍යක්ෂ මණ්ඩලයක් ද පත් කළේ ය.
-
-ඇතැම් ආර්ථික විද්‍යාඥයින් පෙන්වා දෙන්නේ, ශ්‍රීලංකන් ගුවන් සේවය පවත්වාගෙන යාම සඳහා "ගුවන් යානයක් ඇසට නොදැකපු රට වැසියන් පවා බදු ගෙවමින් සිටින," බව ය.
-
-දිගින් දිගට ම පාඩු ලබමින්, අර්බුද රැසක් මැද ශ්‍රීලංකන් ගුවන් සේවය තවදුරටත් රජය සන්තකයේ තබා ගැනීම රටට, රටේ ආර්ථිකයට කෙලෙස බලපානු ඇති ද? බීබීසි සිංහල සේවය ඒ පිළිබඳව කළ සොයා බැලීමකි, මේ.
-
-ශ්‍රී ලංකාවේ ජාතික ගුවන් සේවය ලෙසින් ක්‍රියාත්මක වන ශ්‍රී ලංකන් ගුවන් සේවය 1979 වසරේදී ආරම්භ කරන ලදී.
-
-එම ගුවන් සේවය 2021 වසරේදී ලබා තිබූ අලාභය රුපියල් බිලියන 166.37කි.
-
-...
-
-[Data](articles/237a1421.json)
-
----
-
-### உதயங்க வீரதுங்க - கபிலசந்திரசேனவிற்கு அமெரிக்கா பயணத்தடை – ஊழலில் ஈடுபட்டதாக குற்றச்சாட்டு
-
-*2024-12-10 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200850) · `ta`
-
-ரஸ்யாவிற்கான முன்னாள் இலங்கை தூதுவர் உதயங்க வீரதுங்கவும் ஸ்ரீலங்கன் எயர்லைன்சின் முன்னாள் பிரதம நிறைவேற்று அதிகாரி கபிலசந்திரசேனவும்  குறிப்பிடத்தக்க ஊழலில் ஈடுபட்டனர் என தெரிவித்துள்ள அமெரிக்க இராஜாங்க திணைக்களம் இவர்கள் அமெரிக்காவிற்குள் நுழைவதற்கு பயணத்தடை விதித்துள்ளது.
-
-ஊழலிற்கு எதிரான சர்வதேச தினம் மற்றும் சர்வதேச மனித உரிமை தினத்தை முன்னிட்டு உலகில் ஊழல் .மனித உரிமை மீறல்களில் ஈடுபட்டவர்களை பொறுப்புக்கூறலிற்கு உட்படுத்துவதற்கான நடவடிக்கைகளை அமெரிக்கா எடுக்கின்றது.
-
-குறிப்பிடத்தக்க ஊழல் ,பாரிய மனித உரிமை மீறல்களில் ஈடுபட்டார்கள் என 14 பேர் மற்றும் அவர்களது குடும்ப உறுப்பினர்களை அமெரிக்கா இது தொடர்பிலான பட்டியலில் இணைத்துக்கொண்டுள்ளது.
-
-அமெரிக்க இராஜாங்க திணைக்களத்தின் வெளிநாட்டு செயல்பாடுகள் மற்றும் தொடர்புடைய சட்டங்கள் ஒதுக்கீட்டு சட்டத்தின் பிரிவு 7031 சியின் படி இவர்கள் அமெரிக்காவிற்குள் நுழைவதற்கு தகுதியற்றவர்கள்.
-
-மேலும் குடிவரவு குடியகல்வு சட்டத்தின் கீழ் பல கொள்கைகளிற்கு இணங்க மேலும் பலரிற்கு விசா கட்டுப்பாடுகளை விதிப்பதற்கான நடவடிக்கைகள் குறித்தும் அமெரிக்கா ஆராய்கின்றது.
-
-...
-
-[Data](articles/f4c288ee.json)
-
----
-
-### දේශීය සහ ආනයනික සහල් සඳහා උපරිම මිලක් - ගැසට්ටුව එළියට
-
-*2024-12-10 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204210) · `si`
-
-දේශීය සහල් සඳහා උපරිම මිලක් නියම කරමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
-
-පාරිභෝගික අධිකාරිය විසින් නිකුත් කළ එම ගැසට් නිවේදනයට අනුව දේශීය සුදු සහ රතු කැකුළු කිලෝ ග්‍රෑම් එකක උපරිම තොග මිල රුපියල් 215ක් ලෙසත් එහි උපරිම සිල්ලර මිල රුපියල් 220ක් ලෙසත් සඳහන්ය.
-
-දේශීය නාඩු සහල් කිලෝ ග්‍රෑම් එකක තොග මිල රුපියල් 225ක් වන අතර එහි උපරිම සිල්ලර මිල රුපියල් 230ක් ලෙස අදාළ ගැසට් නිවේදනයේ සඳහන් වෙයි.
-
-එම ගැසට් නිවේදනයට අනුව දේශීය කීරිසම්බා කිලෝග්‍රෑම් එකක තොග මිල රුපියල් 255ක් වන අතර උපරිම සිල්ලර මිල රුපියල් 260ක් වෙයි.
-
-මේ අතර ආනයනික සහල් සඳහා ද උපරිම සිල්ලර මිලක් නියම කරමින් පාරිභෝගික අධිකාරිය විසින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
-
-ඊට අනුව ආනයනික කැකුළු සහල් කිලෝ ග්‍රෑම් එකක් සදහා උපරිම සිල්ලර මිල රුපියල් 210ක් වන අතර ආනයනික නාඩු සහල් කිලෝග්‍රෑම් එකක උපරිම සිල්ලර මිල රුපියල් 220ක් වෙයි.
-
-ආනයනික සම්බා සහල් කිලෝග්‍රෑම් එකක් සඳහා උපරිම සිල්ලර මිල රුපියල් 230ක් ලෙසයි අදාළ ගැසට් නිවේදනයේ සඳහන් වෙයි.
-
-◼️
-
-[Data](articles/83ec0806.json)
-
----
-
-### Sri Lanka forex reserves marginally down in November, CB buys US$374mn
-
-*2024-12-10 06:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-forex-reserves-marginally-down-in-november-cb-buys-us374mn-193166/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross official reserves fell marginally to 6,462 million dollars by the end of November 2024, from 6,472 dollars a month earlier, central bank data shows.
-
-Gross official reserves include balances of the Treasury. Reserves may go down due to debt repayment by the central bank or Treasury.
-
-The central bank borrowed reserves including through swaps to target the policy rate with printed money in the past and has been settling them over the past year after buying dollars using deflationary policy with market rates.
-
-In November the central bank bought 374 million US dollars from banks, data showed.
-
-Concerns have been raised over recent cash injected through domestic operations (open market operations) at a time when money is already created over international operations, to closely target a policy rate with excess liquidity.
-
-In order to maintain external stability, build reserves or repay debt compatible interest rates are needed to balance domestic credit.
-
-...
-
-[Data](articles/e6d8acc8.json)
 
 ---

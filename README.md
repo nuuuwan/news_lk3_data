@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 09:33:25**
+As of **2024-12-10 09:43:05**
 
 ## Newspaper Stats
 
-*Scraped **59,380** Articles*
+*Scraped **59,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,584
 economynextcom | 3,603
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,628
+adalk | 5,629
 adaderanalk | 7,219
 tamilmirrorlk | 8,474
 virakesarilk | 9,744
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,264
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,362 (100.0%) of 59,380 articles have been extended.
+59,362 (100.0%) of 59,381 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1700,6 +1700,20 @@ The former Director of the Colombo Crimes Division (CCD), ASP Nevil Silva has be
 
 ---
 
+### ලංකාවේ පාසල් සිසු සිසුවියන්ට චීනයෙන් දෙන ලොකුම තෑග්ග
+
+*2024-12-09 18:13:18* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පාසල්-සිසු-සිසුවියන්ට-චීනයෙන්-දෙන-ලොකුම-තෑග්ග/11-413543) · `si`
+
+2025 වර්ෂය සඳහා චීන රජයෙන් ප්‍රදානය කරනු ලබන පාසල් නිලඇඳුම් රෙදි අද (10දා) මෙරටට ලැබීමට නියමිතය. එම නිලඇඳුම් රෙදි භාරදීම අද පෙරවරු 11.00ට කොළඹ වරායේ ජාත්‍යන්තර බහාලුම් පර්යන්තයේදී සිදුකෙරේ.
+
+චීන රජය විසින් ලබන වසර සඳහා මෙරටට පාසල් සිසුන් සඳහා අවශ්‍ය නිලඇඳුම් රෙදි පරිත්‍යාග කරන බව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/cb31c90c.json)
+
+---
+
 ### Over 80-pct of Sri Lanka’s PE candidates compile expense report after EC warning
 
 *2024-12-09 18:12:00* · [`economynextcom`](https://economynext.com/over-80-pct-of-sri-lankas-pe-candidates-compile-expense-report-after-ec-warning-193151/) · `en`
@@ -2261,21 +2275,5 @@ Energy Minister Kumara Jayakody explained that the new government energy policy 
 [Data](articles/944122a9.json)
 
 [Extended Data](ext_articles/944122a9.ext.json)
-
----
-
-### America has two presidents as the world braces for another Trump term
-
-*2024-12-09 16:04:00* · [`islandlk`](http://island.lk/america-has-two-presidents-as-the-world-braces-for-another-trump-term/) · `en`
-
-The election of Donald Trump as US President for yet another term has sent many world leaders scurrying for cover. Especially in the West. But even China is concerned. In the US itself, the longstanding maxim that there can only be one president at a time is being put to the test every day. Joe Biden, the outgoing president, is scrambling to salvage his legacy after a disastrous last year that has diminished all his achievements over the first three years on the domestic front.
-
-Externally, Biden’s presidency has been a monumental failure, from the impulsive withdrawal from Afghanistan that kickstarted it, to the hopelessly painful stalemate in Ukraine and the relentless mass devastation in Gaza that are dragging out its end. With the pardoning of his son Hunter Biden, the outgoing president has ceded even the little moral hump that he had over Trump.
-
-...
-
-[Data](articles/6259c0e8.json)
-
-[Extended Data](ext_articles/6259c0e8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 21:15:07**
+As of **2024-12-10 20:42:51**
 
 ## Newspaper Stats
 
-*Scraped **59,514** Articles*
+*Scraped **59,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,21 @@ islandlk | 3,585
 economynextcom | 3,618
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,647
+adalk | 5,646
 adaderanalk | 7,244
 tamilmirrorlk | 8,493
 virakesarilk | 9,773
-adaderanasinhalalk | 10,288
+adaderanasinhalalk | 10,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,451 (99.9%) of 59,514 articles have been extended.
+59,447 (99.9%) of 59,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
-
-### Derana is a special award
-
-*2024-12-10 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204244) · `si`
-
-Derana wins special award at SLIM Brand Excellence ceremony. Media network recognized for outstanding contributions to Sri Lankan brand category.
-
-🟩
-
-The TV Derana was awarded again a great award that serves a wide range of efforts and enjoying their knowledge and enjoyment.
-
-The awards ceremony, organizing the SLIM Brand Excellence, organized by SLIM, is held recently.
-
-The foremost awards ceremony of the Sri Lankan brand is held this year.
-
-More than 200 Sri Lankan brands joined the local brand at several categories.
-
-Ada Derana, the YEAR, the special assessment award was awarded the Special Assessment Award in the Year Branch Category.
-
-It is also a special award for a media network at the awards ceremony.
-
-Like today, we are ready to preserve our belongings and to take the new and close to you.
-
-◼️
-
-[Data](articles/28a2f39f.json)
-
-[Extended Data](ext_articles/28a2f39f.ext.json)
-
----
 
 ### Vadivel Suresh
 
@@ -116,35 +86,25 @@ In the ongoing parliamentary elections, the voters' rights in the Digamadulla el
 
 ---
 
-### Speaker responds to a doctorate
+### ආචාර්ය උපාධිය ගැන කථානායකවරයා ප්‍රතිචාර දක්වයි
 
 *2024-12-10 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204242) · `si`
 
-Here's a summary of 200 characters:
+කථානායක අසෝක රංවල මහතාට ඇති බව කියන ආචාර්ය උපාධිය සම්බන්ධයෙන් සමාජය තුළ මතභේදාත්මක කතාබහක් නිර්මාණය වී තිබේ.
 
+විපක්ෂයේ පාර්ශ්ව පෙන්වා දෙන්නේ කථානායකවරයා තමාට සැබෑ ලෙසම ආචාර්ය උපාධියක් ඇත්දැයි තහවුරු කර පෙන්විය යුතු අතර රජය මෙම සමාජ සැකය දුරු කළ යුතු බවය.
 
+කථානායක අසෝක රංවල මහතා මහ මැතිවරණයට තරගකිරීමටත් පෙර ඔහු පිළිබඳ කෙරෙන හැඳින්වීම්වලදී ආචාර්ය යන පදවිය භාවිත කෙරුණු අතර ඔහු කථානායක ධුරයට පත්වීමෙන් පසුවත් ශ්‍රී ලංකා පාර්ලිමේන්තු වෙබ් අඩවියේ ඔහුගේ නම ආචාර්ය අසෝක රංවල ලෙස සටහන් කර තිබුණි.
 
-Controversy surrounds Speaker's doctoral degree claim. Opposition questions legitimacy, citing lack of recognition. Government urged to address public doubts. Speaker denies allegations, stating he will respond appropriately.
+කෙසේවෙතත් ඒ මහතාට නීත්‍යනුකූලව ලැබුණු පිළිගත් ආචාර්ය පදවියක් නොමැති බවට විශ්වාවිද්‍යාල මාහාචාර්යවරුන් ඇතුළු පාර්ශ්ව කිහිපයක් සමාජ මාධ්‍ය ඔස්සේ මත පළ කිරීමත් සමග සමාජයේ විවාදයක් නිර්මාණය විය.
 
-🟩
+ඒ සමග මේ වනවිට පාර්ලිමේන්තු වෙබ් අඩවියෙන්ද ඔහුගේ නමට ඉදිරියෙන් තිබූ ආචාර්ය කොටස ඉවත් කර තිබීම නිසා ඒ පිළිබඳ විවිධ පාර්ශ්ව සැක පළ කරයි.
 
-There is a controversial conversation in society regarding the doctorate in the society.
-
-Opposition parties point out that the Speaker should verify that he has a doctoral degree and the government should cast this social doubt.
-
-Prior to his contesting to the general election, Speaker's Communications were used as a chariot in his introduction, as he was appointed as the Speaker.
-
-However, the debate in the society was created by the fact that there was no recognized doctorized doctorate that he was not legally repassial.
-
-Along with the removal of the lecturer in the parliament website and his name, various parties suspect.
-
-When Ada Derana asked for Ada Assok Rankedoka today, he said that he responded to these allegations at the right time.
+මේ පිළිබඳව කථානායක අසෝක රංවල මහතාගෙන් අද දෙරණ විමසූ විට ඔහු පැවසුවේ තමා නිසි අවස්ථාවේ මෙම චෝදනාවලට ප්‍රතිචාර දක්වන බවය.
 
 ◼️
 
 [Data](articles/9b679992.json)
-
-[Extended Data](ext_articles/9b679992.ext.json)
 
 ---
 
@@ -180,34 +140,6 @@ The US State Department says that these sanctions and members of their nearest f
 
 ---
 
-### A database of food stocks
-
-*2024-12-10 19:02:21* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-තොග-පිළිබඳ-දත්ත-පද්ධතියක්/11-413571) · `si`
-
-Food stock database: President establishes committee for affordable, quality food. Maintains 3-month buffer stocks. Private sector involvement in production, storage, and distribution. Ministry provides policy guidelines for food security and nutrition.
-
-🟩
-
-The President's proposal was approved by the President to establish the Food Policy and Safety Committee to provide the minimum food and quality affordable price of each citizen.
-
-President Anura Kumara Dissanayake presented national food and nutrition security and providing the food policy and safety affairs of every citizen.The proposal was approved by the Cabinet.
-
-Maintaining adequate essential food buffer stocks for at least 3 months
-
-Production, storage, distribution, wholesale and retail trade that contributes to food security
-
-Develop and implement effective programs with the participation of the private sector in the activities
-
-According to the Minister of Agriculture, Livestock, Land and Irrigation to provide policy, commerce, commercial, food safety and Co-operative Development to provide policy guidelines on the participation of food security and nourishment.The committee is established with the members of the Secretaries including the Secretary to the Department.
-
-◼️
-
-[Data](articles/c50c2eef.json)
-
-[Extended Data](ext_articles/c50c2eef.ext.json)
-
----
-
 ### Sri Lanka praises US State Dept for sanction against Rajapaksa allies
 
 *2024-12-10 18:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-praises-us-state-dept-for-sanction-against-rajapaksa-allies-193382/) · `en`
@@ -223,8 +155,6 @@ The sanction covers both two individuals and their immediate family members.
 ...
 
 [Data](articles/d21af5a2.json)
-
-[Extended Data](ext_articles/d21af5a2.ext.json)
 
 ---
 
@@ -2271,5 +2201,39 @@ Accordingly, the following appointments and attachments have been approved as pe
 ...
 
 [Data](articles/9813980c.json)
+
+---
+
+### Cabinet approves monthly allowance for small fishing boat owners
+
+*2024-12-10 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104129/cabinet-approves-monthly-allowance-for-small-fishing-boat-owners) · `en`
+
+The Cabinet of Ministers has approved a monthly allowance of Rs. 9,375 for small fishing boat owners, effective from November 1, for a period of five months in order to minimize the impact of the economic crisis on the fisheries industry.
+
+Accordingly, this allowance will initially be granted for active small fishing boats registered with the Department of Fisheries and Aquatic Resources which utilize kerosene oil as fuel for a period of 05 months while the relief currently provided to diesel boat owners will be continued.
+
+Previously, the Cabinet of Ministers had approved a subsidy of Rs. 25 per litre of diesel for fisherfolk, while a subsidy of Rs. 15 per litre of kerosene was also approved for fishermen using kerosene as fuel for a period of 06 months.
+
+...
+
+[Data](articles/2af9625e.json)
+
+---
+
+### ජනපති ඉරිදා ඉන්දියාවට
+
+*2024-12-10 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204223) · `si`
+
+ජනාධිපති ලබන 15 වනදා සිය ඉන්දීය සංචාරය ආරම්භ කරන බව කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+ඔහු සමග විදේශ අමාත්‍යවරයා සහ නියෝජ්‍ය මුදල් අමාත්‍යවරයා එක්වන බව අමාත්‍යවරයා පැවසීය.
+
+ජනපතිවරයා දෙසැම්බර් 15 වනදා සිට 17 වනදා තෙක් ඉන්දියාවේ සංචාරය කරන බවත් එහිදී ඉන්දීය ජනාධිපතිවරිය සහ අගමැති නරේන්ද්‍ර මෝදී සමග නිල සාකච්ඡා පැවැත්වීමට නියමිත බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+අනුර කුමාර දිසානායක මහතා ජනාධිපතිවරයා ලෙස පත්වීමෙන් අනතුරුව සිදුකරන ඔහුගේ පළමු විදෙස් සංචාරය මෙය වෙයි.
+
+◼️
+
+[Data](articles/2d618718.json)
 
 ---

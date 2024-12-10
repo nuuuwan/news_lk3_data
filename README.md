@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 11:43:55**
+As of **2024-12-10 12:02:44**
 
 ## Newspaper Stats
 
-*Scraped **59,410** Articles*
+*Scraped **59,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,607
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,633
-adaderanalk | 7,225
-tamilmirrorlk | 8,479
+adaderanalk | 7,228
+tamilmirrorlk | 8,481
 virakesarilk | 9,750
 adaderanasinhalalk | 10,268
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 10,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,387 (100.0%) of 59,410 articles have been extended.
+59,387 (100.0%) of 59,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### President Dissanayake’s India visit on Dec. 15
+
+*2024-12-10 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104131/president-dissanayakes-india-visit-on-dec-15) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake will undertake an official visit to India on December 15 following an invitation from the Indian government.
+
+This was confirmed by the Cabinet spokesman, Minister Dr. Nalinda Jayatissa during the Cabinet press conference held on November 26.
+
+This will be Dissanayake’s inaugural foreign trip since assuming the presidency.
+
+Dr. Jayatissa further stated that the President will be in India until December 17, and will call on India’s President, Prime Minister and several other dignitaries.
+
+The Head of the State will be accompanied by the Foreign Minister and the Deputy Minister of Finance for the visit, the Cabinet Spokesman added.
+
+Minister of Foreign Affairs Vijitha Herath had previously stated that Dissanayake will call on India’s Prime Minister Narendra Modi and External Affairs Minister S Jaishankar, who became the first foreign dignitary to call on Dissanayake when he was elected President in September and had extended the invitation.
+
+...
+
+[Data](articles/678e1f56.json)
+
+---
+
+### இந்தியா செல்கின்றார் ஜனாதிபதி
+
+*2024-12-10 11:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-செல்கின்றார்-ஜனாதிபதி/175-348523) · `ta`
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்க எதிர்வரும் 15ஆம் திகதி முதல் 17ஆம் திகதி வரை இந்தியாவிற்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொள்ளவுள்ளதாக அமைச்சரவை ஊடகப் பேச்சாளர், அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+
+அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் கலந்து கொண்ட போதே இதை குறிப்பிட்டார்.
+
+இதேவேளை, இந்த விஜயத்தில் ஜனாதிபதியுடன் வெளிவிவகார அமைச்சர் மற்றும் பிரதி நிதியமைச்சர் ஆகியோரும் பங்குபற்றவுள்ளதாக அமைச்சரவை பேச்சாளர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/0d9b3ee1.json)
+
+---
+
+### சபாநாயகருக்கு எதிராக எடுக்கும் நடவடிக்கை என்ன?
+
+*2024-12-10 11:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-எடுக்கும்-நடவடிக்கை-என்ன/175-348522) · `ta`
+
+சபாநாயகர் கலாநிதி அசோக ரன்வல தனது கலாநிதி பட்டம் தொடர்பாக வெளிவரும் பல்வேறு கருத்துகள் தொடர்பில் இன்னும் சில நாட்களில் அறிக்கை வெளியிடுவார் என அமைச்சரவைப் பேச்சாளர் டொக்டர் நலிந்த ஜயதிஸ்ஸ இன்று தெரிவித்தார்.
+
+சபாநாயகரின் கலாநிதி பட்டம் தொடர்பான செய்திகள் உண்மையாக இருந்தால் அவருக்கு எதிராக என்ன நடவடிக்கை எடுக்கப்படும் என்ற கேள்விக்கு பதிலளித்த அமைச்சர், சபாநாயகரின் அறிக்கைக்குப் பின்னர் அது குறித்து அறிவிக்கப்படும் என்றார்.
+
+“சபாநாயகர் தகுதிகள் குறித்து அறிக்கை வெளியிட்ட பிறகு பரிசீலிப்போம்.அறிக்கைகள் உண்மையாக இருந்தால் எடுக்க வேண்டிய முடிவையும், பொய்யாக இருந்தால் எடுக்க வேண்டிய முடிவையும் சொல்கிறேன் " என்றார்.
+
+சபாநாயகர் அசோக ரன்வலவின் கலாநிதி பட்டம் தொடர்பாக சமூக ஊடகங்களில் பல்வேறு தகவல்கள் பரவி வருவதுடன், தேர்தல்கள் ஆணைக்குழுவின் முன்னாள் தலைவர் மஹிந்த தேசப்பிரியவும் தற்போதைய சபாநாயகரிடம் கலாநிதி பட்டம் இருப்பது உண்மையென்றால் அதனை நிரூபித்து காட்டுமாறு அண்மையில் சபாநாயகருக்கு சவால் விடுத்திருந்தமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/444b8f14.json)
+
+---
 
 ### Speaker of the Speaker
 
@@ -117,6 +173,40 @@ A. The Speaker makes a clear statement in this regard.
 [Data](articles/fe88549e.json)
 
 [Extended Data](ext_articles/fe88549e.ext.json)
+
+---
+
+### New appointments for key positions in departments under Finance Ministry
+
+*2024-12-10 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104130/new-appointments-for-key-positions-in-departments-under-finance-ministry) · `en`
+
+The Cabinet of Ministers has approved several appointments for Senior Management in the departments affiliated with the Ministry of Finance, Planning and Economic Development.
+
+Accordingly, the following appointments and attachments have been approved as per the proposals submitted by the President Anura Kumara Dissanayake as the Minister of Finance, Planning and Economic Development:
+
+1. The appointment of M.K. Pradeep Kumara, a Special Grade Officer of the Sri Lanka Administrative Service, serving as the Additional Director General of the Comptroller General’s Office, to the vacant post of Director General of the Department of Trade and Investment Policy.
+
+2. The appointment of P.M.K. Hettiarachchi, a Grade 1 Officer of the Sri Lanka Planning Service, serving as a Director of the Department of Development Finance, as the Acting Director General of the Department of Development Finance on a full-time basis.
+
+...
+
+[Data](articles/bc6b907e.json)
+
+---
+
+### Cabinet approves monthly allowance for small fishing boat owners
+
+*2024-12-10 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104129/cabinet-approves-monthly-allowance-for-small-fishing-boat-owners) · `en`
+
+The Cabinet of Ministers has approved a monthly allowance of Rs. 9,375 for small fishing boat owners, effective from November 1, for a period of five months in order to minimize the impact of the economic crisis on the fisheries industry.
+
+Accordingly, this allowance will initially be granted for active small fishing boats registered with the Department of Fisheries and Aquatic Resources which utilize kerosene oil as fuel for a period of 05 months while the relief currently provided to diesel boat owners will be continued.
+
+Previously, the Cabinet of Ministers had approved a subsidy of Rs. 25 per litre of diesel for fisherfolk, while a subsidy of Rs. 15 per litre of kerosene was also approved for fishermen using kerosene as fuel for a period of 06 months.
+
+...
+
+[Data](articles/2af9625e.json)
 
 ---
 
@@ -2169,131 +2259,5 @@ Felix, who heads the Wharf Jeremie gang, was in 2022 banned from entering neighb
 [Data](articles/f17cc3b8.json)
 
 [Extended Data](ext_articles/f17cc3b8.ext.json)
-
----
-
-### Archichan to arrive at the Jaffna hospital
-
-*2024-12-09 19:12:33* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-අර්චුනා-යාපනය-රෝහලට-ඇවිත්-යකා-නටලා/11-413548) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-MP Archunan arrives at Jaffna Hospital. Director complains about interference with medical staff. Police investigation ongoing.
-
-🟩
-
-Jaffna Police say that the hospital director has lodged a complaint with the director of Jaffna today (09) against Jaffna police director.
-
-The MP was to the hospital and conduct a manner in the hospital to interfere with the duties of the medical staff. The complaint was presented to the police.
-
-Police said that he was with Medical staff MP Ramanathan Archuna. The MP has not yet been revealed to the hospital, Jaffna Police said.
-
-◼️
-
-[Data](articles/acc4decc.json)
-
-[Extended Data](ext_articles/acc4decc.ext.json)
-
----
-
-### Man remanded for defrauding banking account and cheated Rs
-
-*2024-12-09 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204204) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo Chief Magistrate orders suspect remanded for defrauding banking account. Suspect claimed unauthorized account, sold land online. CID investigation reveals fraud involving multiple individuals. Remand extended until 19th.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage ordered that a suspect who was saying that the bank account was unauthorized in Nugegoda today (9 million) was remanded until the 19th.
-
-A resident of Kolonnawa area was ordered to be remanded.
-
-A resident of Thilakratne Mawatha in Nugegoda was a complaint lodged by the Criminal Investigation Department's Computer Criminal Investigation Division and was produced before the court.
-
-The investigatory officers were produced before the court to sell the land to the court and that the complaint had been internet access to the sale of land.
-
-The suspect had taken the account number of the arrival of the arrival of the arrival in a computer database and entered the plaintiff.
-
-The Investigation Officers have revealed that the suspect has taken this fraudulent act together with another people who have been involved in him or others.
-
-...
-
-[Data](articles/3a4ce364.json)
-
-[Extended Data](ext_articles/3a4ce364.ext.json)
-
----
-
-### China hospital shirt to Colombo on the 21st
-
-*2024-12-09 18:56:17* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-රෝහල්-නෞකාව-21දා-කොළඹට/11-413547) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Chinese Ambassador pledges continued support for Sri Lanka's health sector. Discusses development projects and evaluates humanitarian programs.
-
-🟩
-
-Chinese Ambassador to Sri Lanka, Chinese Ambassador to the health sector but also in the health sector, will continue to support the health sector but also in the health sector.
-
-This was stated by the Colombo Health and Mass Media Dr. Nalinda Jayatissa and Sri Lanka's Chinese Ambassador to Sri Lanka at the Ministry of Health today (09).
-
-Health and Mass Media Media Dr. Nalinda Jayatissa began the duties of his post, and the Chinese Ambassador began with the Chinese Ambassador and discussed the development projects in Sri Lanka with cooperation.
-
-The Ambassador has evaluated the humanitarian program of the Ministry of Health in Sri Lanka to provide a quality health care at low cost.
-
-...
-
-[Data](articles/97e9d431.json)
-
-[Extended Data](ext_articles/97e9d431.ext.json)
-
----
-
-### The Indian ship comes with 10 thousand metricthone rice
-
-*2024-12-09 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/200832) · `ta`
-
-India ships 10k metric tons rice to Sri Lanka to address shortage. Importers bought additional 20k metric tons from smaller ports, totaling 30k metric tons expected to arrive soon.
-
-🟩
-
-Essential food importers have said that a 10,000 metric ton of rice shipped from the port of Tuticorin, India, near the port of Colombo.
-
-As the government has decided to temporarily import 70 thousand metric tonnes of rice from India as a solution to the rice shortage in the market, it has also temporarily eliminated the definitions of rice imports.
-
-Accordingly, 20,000 metric tonnes of rice purchased by several importers from small ports is expected to arrive in Sri Lanka earlier on Thursday (13).
-
-◼️
-
-[Data](articles/14f94974.json)
-
-[Extended Data](ext_articles/14f94974.ext.json)
-
----
-
-### Arrested by former Director of CCD CID
-
-*2024-12-09 18:43:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CCD-முன்னாள்-பணிப்பாளர்-CID-யினரால்-கைது/175-348504) · `ta`
-
-N
-
-🟩
-
-Former Director of the Colombo Criminal Investigation Division (CCD) ASP Neville Silva Silva has been arrested by the Criminal Investigation Division (CID). Remble
-
-◼️
-
-[Data](articles/5ecffce6.json)
-
-[Extended Data](ext_articles/5ecffce6.ext.json)
 
 ---

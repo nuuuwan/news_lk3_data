@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 00:02:51**
+As of **2024-12-11 00:18:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,478 (99.9%) of 59,527 articles have been extended.
+59,481 (99.9%) of 59,527 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1818,17 +1818,23 @@ Speaking at the meeting, Mr. Samantha Samarasinghe said he had requested that th
 
 ---
 
-### විශේෂඥ වෛද්‍ය අනිල් ජාසිංහට ලේකම් ධුරයක්
+### Specialist Dr. Anil Jasinghe appointed secretary
 
 *2024-12-10 14:31:42* · [`adalk`](https://www.ada.lk/breaking_news/විශේෂඥ-වෛද්‍ය-අනිල්-ජාසිංහට-ලේකම්-ධුරයක්/11-413556) · `si`
 
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා ලෙස විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා පත් කර තිබේ.
+Dr. Anil Jasinghe appointed Secretary to Ministry of Health and Mass Media by President Anura Kumara Dissanayake.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් මෙම පත් කිරීම සිදු කර ඇති අතර, අද(10දා) පෙරවරුවේ ඊට අදාළ පත්වීමේ ලිපිය ජනාධිපති ලේකම්වරයා විසින් ජනාධිපති ලේකම් කර්යාලයේදී ඒ මහතාට ප්‍රධානය කර ඇත.
+🟩
+
+Specialist Dr. Anil Jasinghe has been appointed as the Secretary to the Ministry of Health and Mass Media.
+
+The appointment has been made by President Anura Kumara Dissanayake and the relevant appointment has been made by the Presidential Secretariat at the Presidential Secretariat this morning.
 
 ◼️
 
 [Data](articles/487079b1.json)
+
+[Extended Data](ext_articles/487079b1.ext.json)
 
 ---
 
@@ -1880,35 +1886,51 @@ The official appointment letter Mr.. Jasinghe was handed over to the Presidentia
 
 ---
 
-### ஜார்ஜியாவில் லெஜண்ட் சரவணன்
+### Legend Saravanan in Georgia
 
 *2024-12-10 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200896) · `ta`
 
-தமிழகத்தின் முன்னணி தொழிலதிபரும், நடிகருமான தி லெஜண்ட் சரவணன் கதையின் நாயகனாக நடிக்கும் பெயரிடப்படாத திரைப்படத்தின் படப்பிடிப்பு ஜார்ஜியா நாட்டில் விறுவிறுப்பாக நடைபெற்று வருகிறது என படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு மகிழ்ச்சியுடன் தெரிவித்துள்ளனர்.
+"The Legend" Saravanan stars in upcoming film "Senthil Kumar" in Georgia. Directed by Senthil Kumar, featuring Boyal Rajput, Andrea, and Sham. Music by Jibran Vaiboda. Shooting ongoing, release planned for next year. His previous film "The Legend" was commercially successful.
 
-இயக்குநர் துரை. செந்தில்குமார் இயக்கத்தில் உருவாகி வரும் பெயரிடப்படாத திரைப்படத்தில் 'தி லெஜண்ட்' சரவணன், பாயல் ராஜ்புத், ஆண்ட்ரியா, ஷாம் உள்ளிட்ட பலர் நடிக்கிறார்கள். வெங்கடேஷ் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைக்கிறார்.  எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை தி லெஜண்ட் சரவணன் தயாரித்து வருகிறார்.
+🟩
 
-இப்படத்தின் படப்பிடிப்பு தற்போது ஜார்ஜியா நாட்டில் நடைபெற்று வருகிறது என்றும், அடுத்த ஆண்டு கோடை விடுமுறையில் பட மாளிகையில் வெளியிட திட்டமிடப்பட்டு வருவதாகவும் படக்குழுவினர் தெரிவித்துள்ளனர்.
+The film crew has released a special photo of Georgia, the leading businessman and actor of Tamil Nadu, The Legend Saravanan.
 
-...
+Director tranquility. 'The Legend' Saravanan, Boyal Rajput, Andrea, Sham and many others star in the upcoming film Senthil Kumar directed by Senthil Kumar. The film, which is being recorded by Venkatesh, is composed by Jibran Vaiboda.The film is being produced by The Legend Saravanan.
+
+The film crew said that the shooting of the film is currently underway in Georgia and is scheduled to be released at the film mansion next year.
+
+Meanwhile, the film 'The Legend', which was released in the actor The Legend Saravanan, was somewhat welcomed by the fans and the film was a commercial success.
+
+◼️
 
 [Data](articles/626fd22b.json)
 
+[Extended Data](ext_articles/626fd22b.ext.json)
+
 ---
 
-### இறுதி கட்டத்தில் கௌதமன் நடிக்கும் ' படையாண்ட மாவீரா '
+### Gautaman starring in the final stage
 
 *2024-12-10 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200893) · `ta`
 
-இயக்குநரும், நடிகருமான வ. கௌதமன் கதையின் நாயகனாக நடித்திருக்கும் ' படையாண்ட மாவீரா ' எனும் திரைப்படத்தின் படப்பிடிப்பு இறுதிக்கட்டத்தை எட்டியிருப்பதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்துள்ளனர்.
+"Summarized: Gautaman stars in 'Padayanda Mahaera'. Director and actor. Final shoot stage. Cast includes Poojita, Samudrakani, Saranya Ponvannan. Music by V Prakash Kumar. Produced by Vikay Productions. Teaser soon."
 
-இயக்குநரும், நடிகருமான வ.கௌதமன் இயக்கத்தில் உருவாகி வரும் ' படையாண்ட மாவீரா ' எனும் திரைப்படத்தில் கௌதமன், பூஜிதா, சமுத்திரக்கனி, சரண்யா பொன்வண்ணன், ரெடின் கிங்ஸ்லி , நிழல்கள் ரவி, இளவரசு, தமிழ் , தலைவாசல் விஜய், ஏ எல் அழகப்பன், மன்சூர் அலிகான், ஆடுகளம் நரேன், பாகுபலி பிரபாகர், வேதாளம் கபீர், மதுசூதன் ராவ், சாய் தீனா உள்ளிட்ட பலர் நடித்து வருகிறார்கள்.
+🟩
 
-வெற்றிவேல் மகேந்திரன் மற்றும் கோபி ஜெகதீஸ்வரன் இணைந்து ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு ஜீ. வி பிரகாஷ் குமார் இசையமைத்திருக்கிறார். மண்ணின் மைந்தர்களை பற்றி வீரம் செறிந்த வரலாறை பதிவு செய்யும் நோக்கத்தில் வீரியமிக்க படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை விகே புரொடக்ஷன்ஸ் குழுமம் தயாரித்திருக்கிறது.
+Director and actor. The film crew has reached the final stage of the shooting of the film 'Padayanda Mahaera' which plays the hero of the story.
 
-...
+Gautaman, Poojita, Samudrakani, Saranya Ponvannan, Redin Kingsley, Shadows Ravi, Tamil, Talawasal Vijay, Ala Alagappan, Mansoor AlikanVedalam Kabir, Madhusudhan Rao, Sai Deena and many others are acting.
+
+The film is being recorded by Vijayvel Mahendran and Gopi Jagadeeswaran. V Prakash Kumar has composed the music. The film has been produced by the Vikay Productions Group, which is a vigorous work to record the heroic history of the soil.
+
+Commenting on the film, the director said, “Our purpose is to create the history of the heroes who lived in the forests of sandalwood, cashew forest and Vanni forest.. The final phase of the film is currently underway. The teaser of the film will be released once it is complete. ”
+
+◼️
 
 [Data](articles/212e62fc.json)
+
+[Extended Data](ext_articles/212e62fc.ext.json)
 
 ---
 

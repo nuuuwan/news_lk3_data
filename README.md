@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 23:43:40**
+As of **2024-12-11 00:02:51**
 
 ## Newspaper Stats
 
-*Scraped **59,525** Articles*
+*Scraped **59,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 448
 colombotelegraphcom | 603
 bbccomsinhala | 621
-islandlk | 3,586
+islandlk | 3,588
 economynextcom | 3,618
 dailyftlk | 4,098
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,474 (99.9%) of 59,525 articles have been extended.
+59,478 (99.9%) of 59,527 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -958,25 +958,33 @@ It is our duty and responsibility to preserve this sensitive environmental regio
 
 ---
 
-### පොරොන්දු වූ පාසල් නිල ඇඳුම් රෙදි චීනයෙන් ලැබෙයි
+### The promised school uniforms recover from China
 
 *2024-12-10 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204239) · `si`
 
-චීනය විසින් ලංකාවට නොමිලයේ ලබාදීමට පොරොන්දු වූ පාසල් නිල ඇඳුම් රෙදි අද (10) නිල වශයෙන් මෙරටට ලබා දුන්නේය.
+Sri Lanka receives school uniforms from China. PM Harandi Amarasuriya and Chinese Ambassador attend ceremony. 5.2 billion rupees worth of uniforms for 10,096 schools and 822 Pirivenas. Local fabric used since 2021 due to COVID-19 economic impact. China purchases 70% locally for 2023 uniforms.
 
-එම අවස්ථාව ට අගමැතිනී හරිනි අමරසූරිය, අධ්‍යාපන අමාත්‍යංශයේ නිලධාරීන් මෙන්ම චීන තානාපති චී ජන් හොන්ග් ඇතුළු පිරිසක් එක්ව සිටියහ.
+🟩
 
-මෙහිදී අදහස් දැක්වූ චීන තානාපතිවරයා රුපියල් බිලියන 5.2ක් පමණ වටිනා රෙදි මීටර් මිලියන 11.28ක් ශ්‍රී ලංකාවේ පාසල් ළමුන්ට ප්‍රදානය කරන බවයි.
+School uniforms were officially given to Sri Lanka today (10).
 
-රජයේ හා රජයේ ආධාර ලබාදෙන පාසල් 10,096 හා අනුමත පිරිවෙන් 822ක් සඳහා මෙම නිල ඇඳුම් රෙදි ලබාදෙනු ඇත.
+Prime Minister Harandi Amarasuriya, as well as Chinese Ambassador to the Ministry of Education, were also present.
 
-මෙම නිල ඇඳුම් රෙදි ලබාදීම 1992 වර්ෂයේ සිට අධ්‍යාපන අමාත්‍යාංශය මගින් අඛණ්ඩව සිදුකරන ලද අතර 2015 වර්ෂයේ සිට 2020 වර්ෂය දක්වා පාසල් නිල ඇඳුම් රෙදි ලබාගැනීම සඳහා වවුචර්පත් ලබාදීම සිදු කෙරුණි.
+The Chinese Ambassador is awarded to Sri Lanka's school children for about Rs. 5.2 billion worth of cloths worth Rs. 5.2 billion.
 
-නැවතත් 2021 වර්ෂයේ සිට පාසල් සිසුන් සඳහා නිල ඇඳුම් රෙදි දේශීය රෙදි පිළි නිෂ්පාදකයන් වෙතින් නිපදවා මිලදී ගැනීම සිදුකර තිබුණි.
+These uniforms will be provided with 10,096 schools and 822 approved Pirivenas.
 
-...
+The uniformed cloth was continued by the Ministry of Education since 1992 and vouchers were provided to obtain school uniforms from 2015 to 2020.
+
+Uniforms for school children have been produced from local fabric manufacturers again since 2021.
+
+However, the economic situation faced by the COVID-19 epidemic, the People's Republic of China for 2023, the People's Republic purchased 70% of the uniform purposes from local.
+
+◼️
 
 [Data](articles/51c3eb05.json)
+
+[Extended Data](ext_articles/51c3eb05.ext.json)
 
 ---
 
@@ -1021,6 +1029,8 @@ Ahead of the visit cabinet approved amending a double taxation treaty, and signi
 ◼️
 
 [Data](articles/4e7347dd.json)
+
+[Extended Data](ext_articles/4e7347dd.ext.json)
 
 ---
 
@@ -1572,41 +1582,57 @@ The primary tasks of the committee are to take part in the private sector's cont
 
 ---
 
-### සිලින්ඩරයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය ෆයිසර් මුස්තාපා ට
+### Faizer Mustapha is as national listing of cylinder
 
 *2024-12-10 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204234) · `si`
 
-තම ජාතික ලැයිස්තුවේ මන්ත්‍රී ධුරය සඳහා ෆයිසර් මුස්තාපා මහතාව නම් කළ බව නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ මැතිවරණ කොමිසමට දැනුම්දී තිබේ.
+Here's a 200-character summary:
 
-2024 මහමැතිවරණයේ ප්‍රතිඵල අනුව ගෑස් සිලින්ඩරය ලකුණින් තරග කළ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ ජාතික ලැයිස්තු ආසන 2ක් හිමිකර ගත්තේය.
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ යටතේ එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා නිදහස් පක්ෂය සහ පොදුජන එක්සත් නිදහස් පෙරමුණ මහ මැතිවරණය සඳහා තරඟ කළේය.
 
-මේ අතර හිටපු විදුලිබල අමාත්‍ය කංචන විජේසේකර මහතාව පාර්ලිමේන්තුවට පත්කරන ලෙසද නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ බලධාරීන්ගෙන් විවිධ පාර්ශ්ව ඉල්ලීම් කළහ.
+Faizer Mustapha named in New Democratic Front's national list for MP. Party contested under Gas Cylinder symbol. United National Party, SLFP, and United Freedom Front also participated. Kanchan Wijesekera demanded appointment as Parliament member.
+
+🟩
+
+The New Democratic Front has informed the Elections Commission that the appointment of Faizer Mustapha has been named for the MP in his national list.
+
+According to the results of the General Election, the New Democratic Front contested by the Gas Cylinder.
+
+Under the New Democratic Front, the United National Party (SLFP), the Sri Lanka Freedom Party and the United Freedom Freedom Front contested for general election.
+
+Meanwhile, former Minister of Power and Energy Minister Kanchan Wijesekera to be appointed to Parliament also demanded various parties.
 
 ◼️
 
 [Data](articles/3bdb8347.json)
 
+[Extended Data](ext_articles/3bdb8347.ext.json)
+
 ---
 
-### නෙවිල් සිල්වා රිමාන්ඩ්
+### Neville Silva remanded
 
 *2024-12-10 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204233) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසයේ හිටපු අධ්‍යක්ෂ, සහකාර පොලිස් අධිකාරී නෙවිල් සිල්වා මහතා රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය අද (10) නියෝග කර තිබේ.
+Neville Silva, Assistant Superintendent of Police, remanded until 13th after arrest by CID. Investigation ongoing since August 2023 regarding alleged abuse and illegal detention.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේදී ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-ඒ අනුව නෙවිල් සිල්වා මහතාව අද රත්නපුර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු එළඹෙන 13 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+The Court of Police (CCC), Assistant Superintendent of Police Neville Silva has been remanded today (10).
 
-2023 අගෝස්තු මාසයේ දී එම කොට්ඨාසය හමුවට පැමිණි පැමිණිල්ලක දී පැමිණිලි පාර්ශ්වයට වාසි වන අයුරින් කටයුතු කළ බවට ලද පැමිණිල්ලක් මත නෙවිල් සිල්වා මහතා සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශන ආරම්භ කර තිබුණි.
+He was arrested at the Police Field Force Headquarters by the Criminal Investigations Department.
 
-එම විමර්ශනවලදී සහකාර පොලිස් අධිකාරී නෙවිල් සිල්වා මහතා විසින් පැහැරගෙන යෑමේ සහ අයුතු සිර කරගැනීමේ සිද්ධියක් සම්බන්ධයෙන් ආධාර අනුබල දුන් බවට තහවුරු වී තිබේ.
+Accordingly, Neville Silva was produced before the Ratnapura Magistrate's Court today and remanded till the 13th.
+
+In August, 2023, the CID has commenced investigations into a complaint that the complaint was taken to the complainant.
+
+Investigations have proved to support a dilapidated and abuse of the abduction and abuse.
 
 ◼️
 
 [Data](articles/1aab831a.json)
+
+[Extended Data](ext_articles/1aab831a.ext.json)
 
 ---
 

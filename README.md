@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 20:42:51**
+As of **2024-12-10 21:27:21**
 
 ## Newspaper Stats
 
-*Scraped **59,512** Articles*
+*Scraped **59,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 3,585
 economynextcom | 3,618
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,646
+adalk | 5,647
 adaderanalk | 7,244
 tamilmirrorlk | 8,493
 virakesarilk | 9,773
-adaderanasinhalalk | 10,287
+adaderanasinhalalk | 10,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,447 (99.9%) of 59,512 articles have been extended.
+59,453 (99.9%) of 59,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Derana is a special award
+
+*2024-12-10 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204244) · `si`
+
+Derana wins special award at SLIM Brand Excellence ceremony. Media network recognized for outstanding contributions to Sri Lankan brand category.
+
+🟩
+
+The TV Derana was awarded again a great award that serves a wide range of efforts and enjoying their knowledge and enjoyment.
+
+The awards ceremony, organizing the SLIM Brand Excellence, organized by SLIM, is held recently.
+
+The foremost awards ceremony of the Sri Lankan brand is held this year.
+
+More than 200 Sri Lankan brands joined the local brand at several categories.
+
+Ada Derana, the YEAR, the special assessment award was awarded the Special Assessment Award in the Year Branch Category.
+
+It is also a special award for a media network at the awards ceremony.
+
+Like today, we are ready to preserve our belongings and to take the new and close to you.
+
+◼️
+
+[Data](articles/28a2f39f.json)
+
+[Extended Data](ext_articles/28a2f39f.ext.json)
+
+---
 
 ### Vadivel Suresh
 
@@ -86,25 +116,35 @@ In the ongoing parliamentary elections, the voters' rights in the Digamadulla el
 
 ---
 
-### ආචාර්ය උපාධිය ගැන කථානායකවරයා ප්‍රතිචාර දක්වයි
+### Speaker responds to a doctorate
 
 *2024-12-10 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204242) · `si`
 
-කථානායක අසෝක රංවල මහතාට ඇති බව කියන ආචාර්ය උපාධිය සම්බන්ධයෙන් සමාජය තුළ මතභේදාත්මක කතාබහක් නිර්මාණය වී තිබේ.
+Here's a summary of 200 characters:
 
-විපක්ෂයේ පාර්ශ්ව පෙන්වා දෙන්නේ කථානායකවරයා තමාට සැබෑ ලෙසම ආචාර්ය උපාධියක් ඇත්දැයි තහවුරු කර පෙන්විය යුතු අතර රජය මෙම සමාජ සැකය දුරු කළ යුතු බවය.
 
-කථානායක අසෝක රංවල මහතා මහ මැතිවරණයට තරගකිරීමටත් පෙර ඔහු පිළිබඳ කෙරෙන හැඳින්වීම්වලදී ආචාර්ය යන පදවිය භාවිත කෙරුණු අතර ඔහු කථානායක ධුරයට පත්වීමෙන් පසුවත් ශ්‍රී ලංකා පාර්ලිමේන්තු වෙබ් අඩවියේ ඔහුගේ නම ආචාර්ය අසෝක රංවල ලෙස සටහන් කර තිබුණි.
 
-කෙසේවෙතත් ඒ මහතාට නීත්‍යනුකූලව ලැබුණු පිළිගත් ආචාර්ය පදවියක් නොමැති බවට විශ්වාවිද්‍යාල මාහාචාර්යවරුන් ඇතුළු පාර්ශ්ව කිහිපයක් සමාජ මාධ්‍ය ඔස්සේ මත පළ කිරීමත් සමග සමාජයේ විවාදයක් නිර්මාණය විය.
+Controversy surrounds Speaker's doctoral degree claim. Opposition questions legitimacy, citing lack of recognition. Government urged to address public doubts. Speaker denies allegations, stating he will respond appropriately.
 
-ඒ සමග මේ වනවිට පාර්ලිමේන්තු වෙබ් අඩවියෙන්ද ඔහුගේ නමට ඉදිරියෙන් තිබූ ආචාර්ය කොටස ඉවත් කර තිබීම නිසා ඒ පිළිබඳ විවිධ පාර්ශ්ව සැක පළ කරයි.
+🟩
 
-මේ පිළිබඳව කථානායක අසෝක රංවල මහතාගෙන් අද දෙරණ විමසූ විට ඔහු පැවසුවේ තමා නිසි අවස්ථාවේ මෙම චෝදනාවලට ප්‍රතිචාර දක්වන බවය.
+There is a controversial conversation in society regarding the doctorate in the society.
+
+Opposition parties point out that the Speaker should verify that he has a doctoral degree and the government should cast this social doubt.
+
+Prior to his contesting to the general election, Speaker's Communications were used as a chariot in his introduction, as he was appointed as the Speaker.
+
+However, the debate in the society was created by the fact that there was no recognized doctorized doctorate that he was not legally repassial.
+
+Along with the removal of the lecturer in the parliament website and his name, various parties suspect.
+
+When Ada Derana asked for Ada Assok Rankedoka today, he said that he responded to these allegations at the right time.
 
 ◼️
 
 [Data](articles/9b679992.json)
+
+[Extended Data](ext_articles/9b679992.ext.json)
 
 ---
 
@@ -140,6 +180,34 @@ The US State Department says that these sanctions and members of their nearest f
 
 ---
 
+### A database of food stocks
+
+*2024-12-10 19:02:21* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-තොග-පිළිබඳ-දත්ත-පද්ධතියක්/11-413571) · `si`
+
+Food stock database: President establishes committee for affordable, quality food. Maintains 3-month buffer stocks. Private sector involvement in production, storage, and distribution. Ministry provides policy guidelines for food security and nutrition.
+
+🟩
+
+The President's proposal was approved by the President to establish the Food Policy and Safety Committee to provide the minimum food and quality affordable price of each citizen.
+
+President Anura Kumara Dissanayake presented national food and nutrition security and providing the food policy and safety affairs of every citizen.The proposal was approved by the Cabinet.
+
+Maintaining adequate essential food buffer stocks for at least 3 months
+
+Production, storage, distribution, wholesale and retail trade that contributes to food security
+
+Develop and implement effective programs with the participation of the private sector in the activities
+
+According to the Minister of Agriculture, Livestock, Land and Irrigation to provide policy, commerce, commercial, food safety and Co-operative Development to provide policy guidelines on the participation of food security and nourishment.The committee is established with the members of the Secretaries including the Secretary to the Department.
+
+◼️
+
+[Data](articles/c50c2eef.json)
+
+[Extended Data](ext_articles/c50c2eef.ext.json)
+
+---
+
 ### Sri Lanka praises US State Dept for sanction against Rajapaksa allies
 
 *2024-12-10 18:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-praises-us-state-dept-for-sanction-against-rajapaksa-allies-193382/) · `en`
@@ -155,6 +223,8 @@ The sanction covers both two individuals and their immediate family members.
 ...
 
 [Data](articles/d21af5a2.json)
+
+[Extended Data](ext_articles/d21af5a2.ext.json)
 
 ---
 
@@ -188,39 +258,59 @@ Several investigations are involved in the arrest of car and driver. Remble
 
 ---
 
-### நடிகர் துல்கர் சல்மான் வெளியிட்ட சமுத்திரக்கனியின் 'திரு. மாணிக்கம்' பட முன்னோட்டம்
+### Actor Dulquer Salman's Samudrakani's' Mr.. Gem 'image preview
 
 *2024-12-10 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200904) · `ta`
 
-தமிழ்த் திரையுலகின் சிறந்த குணச்சித்திர நடிகர்களில் ஒருவரான சமுத்திரக்கனி கதையின் நாயகனாக நடித்திருக்கும் 'திரு. மாணிக்கம்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை 'லக்கி பாஸ்கர்'  படத்தின் மூலம் ஹாட்ரிக் வெற்றியை பதிவு செய்த பான் இந்திய நட்சத்திர நடிகர் துல்கர் சல்மான் அவருடைய இணைய பக்கத்தில் வெளியிட்டு,  சமுத்திரக்கனிக்கும், படக் குழுவினருக்கும் வாழ்த்து தெரிவித்திருக்கிறார்.
+Dulquer Salman congratulates Samudrakani on his new film "Gem". Directed by Nanda Periyasamy, it features a talented cast including Bharathiraja and Ananya. Music by Vishal Chandrasekhar, produced by GP Rekha Ravikumar and others. Released this month, it focuses on human emotions and nature.
 
-இயக்குநர் நந்தா பெரியசாமி இயக்கத்தில் உருவாகி இருக்கும் 'திரு. மாணிக்கம் 'எனும் திரைப்படத்தில் சமுத்திரக்கனி, பாரதிராஜா, அனன்யா, தம்பி ராமையா, இளவரசு, நாசர் ,சின்னி ஜெயந்த் ,வடிவுக்கரசி ,கருணாகரன், சுலீல் குமார், கிரேஸி, சந்துரு , சாம்ஸ், ஸ்ரீமன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். எம். சுகுமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு விஷால் சந்திரசேகர் இசையமைத்திருக்கிறார்.
+🟩
 
-இந்த திரைப்படத்தை ஜிபி ஆர் கே சினிமாஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ஜி பி ரேகா ரவிக்குமார் , சிந்தா கோபாலகிருஷ்ண ரெட்டி , ராஜா செந்தில் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Samudrakani, one of the best character actors of the Tamil film industry, is the hero of the story 'Mr.. The preview of the movie 'Gemikam' has been released. Ban Indian star Dulquer Salman posted a hat -trick success through the film 'Lucky Bhaskar' and congratulated Samudrakani and the film crew.
 
-...
+Directed by Director Nanda Periyasamy. Samudrakani, Bharathiraja, Ananya, Thambi Ramaiah, Nasser, Chinni Jayant, Vadivakarasi, Karunakaran, Sulil Kumar, Crazy, Chandru, Sams, Sriman. M.. Vishal Chandrasekhar has composed the film, which has been recorded by Sukumar.
+
+The film has been produced by GP Rekha Ravikumar, Sinda Gopalakrishna Reddy and Raja Senthil on behalf of GBR Cinemas.
+
+The film has been released this month. The mountain is a biological work of the gem living in the mountainous region, and the scenes are emotionally and focusing on humanity.
+
+◼️
 
 [Data](articles/5a4d6f00.json)
 
+[Extended Data](ext_articles/5a4d6f00.ext.json)
+
 ---
 
-### உலக அரசாங்கங்களின் மாநாட்டில் உரையாற்ற ஜனாதிபதி அநுரவுக்கு ஐக்கிய அரபு இராச்சியம் அழைப்பு
+### UAE calls for President Anura to address the World Government Conference
 
 *2024-12-10 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200918) · `ta`
 
-ஐக்கிய அரபு இராச்சியத்தின் இலங்கைக்கான தூதுவர் காலத் நசீர் அல்மேரி (Khaled Nasser AlAmeri) இலங்கை பாராளுமன்றத்தின் சபாநாயகர் அசோக ரன்வலவை  நேற்று திங்கட்கிழமை (09)  மரியாதையின் நிமித்தம் சந்தித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-2025ஆம் ஆண்டு பெப்ரவரி மாதம் நடைபெறவுள்ள உலக அரசாங்கங்களின் மாநாட்டில் உரையாற்றுமாறு இலங்கை ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு ஐக்கிய அரபு இராச்சியத்தின் ஜனாதிபதி அழைப்பு விடுக்கவிருப்பதாகவும் இலங்கைக்கான தூதுவர், கௌரவ சபாநாயகரிடம் சுட்டிக்காட்டினார்.
 
-2024ஆம் ஆண்டு நடைபெற்ற உலக அரசாங்கங்களின் மாநாட்டில் இந்தியப் பிரதமர் நரேந்திர மோடி உரையாற்றியிருந்ததாகவும், அடுத்த வருடம் நடைபெறவிருக்கும் குறித்த மாநாட்டில் இலங்கை ஜனாதிபதி உரையாற்றுவதை தாம் விரும்புவதாகவும் அவர் மேலும் தெரிவித்தார்.
 
-அரசாங்க சேவையை ஒன்லைன் முறைக்கு மாற்றுவதே ஊழலுக்கு எதிராகப் போராடுவதற்கு சிறந்த முறைமையென்றும் இந்தச் சந்திப்பில் கலந்துரையாடப்பட்டது.
+UAE invites SL President Anura to address World Government Conference in Feb 2025. Meeting discusses online governance, corruption, investment, tech, renewable energy, and strengthening bilateral ties.
 
-இது விடயத்தில் இலங்கையுடன் தமது நிபுணத்துவத்தைப் பகிர்ந்துகொள்ள ஐக்கிய அரபு இராச்சியம் தயாராக இருப்பதாகவும் அந்நாட்டுத் தூதுவர் சுட்டிக்காட்டினார்.
+🟩
+
+The Ambassador to Sri Lanka of the United Arab Emirates, Nasir Alameri, met Speaker of the Parliament of Sri Lanka Ashoka Ranwala on Monday (09) for honor.
+
+The President of Sri Lanka pointed out to the Hon'ble Speaker that the President of the United Arab Emirates would invite Sri Lankan President Anura Kumara Dissanayake to address the World Government Conference to be held in February 2025.
+
+He added that Indian Prime Minister Narendra Modi had addressed the World Government Conference in 2024 and that he would like to address the Sri Lankan president at a conference on next year.
+
+The meeting also discussed that the transfer of government service to the online system was the best way to fight corruption.
+
+The Ambassador pointed out that the United Arab Emirates is ready to share their expertise with Sri Lanka.
+
+In addition, the concentration was also focused on the importance of creating an transparent and impressive investment practice.
 
 ...
 
 [Data](articles/924ba183.json)
+
+[Extended Data](ext_articles/924ba183.ext.json)
 
 ---
 
@@ -2201,39 +2291,5 @@ Accordingly, the following appointments and attachments have been approved as pe
 ...
 
 [Data](articles/9813980c.json)
-
----
-
-### Cabinet approves monthly allowance for small fishing boat owners
-
-*2024-12-10 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104129/cabinet-approves-monthly-allowance-for-small-fishing-boat-owners) · `en`
-
-The Cabinet of Ministers has approved a monthly allowance of Rs. 9,375 for small fishing boat owners, effective from November 1, for a period of five months in order to minimize the impact of the economic crisis on the fisheries industry.
-
-Accordingly, this allowance will initially be granted for active small fishing boats registered with the Department of Fisheries and Aquatic Resources which utilize kerosene oil as fuel for a period of 05 months while the relief currently provided to diesel boat owners will be continued.
-
-Previously, the Cabinet of Ministers had approved a subsidy of Rs. 25 per litre of diesel for fisherfolk, while a subsidy of Rs. 15 per litre of kerosene was also approved for fishermen using kerosene as fuel for a period of 06 months.
-
-...
-
-[Data](articles/2af9625e.json)
-
----
-
-### ජනපති ඉරිදා ඉන්දියාවට
-
-*2024-12-10 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204223) · `si`
-
-ජනාධිපති ලබන 15 වනදා සිය ඉන්දීය සංචාරය ආරම්භ කරන බව කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-ඔහු සමග විදේශ අමාත්‍යවරයා සහ නියෝජ්‍ය මුදල් අමාත්‍යවරයා එක්වන බව අමාත්‍යවරයා පැවසීය.
-
-ජනපතිවරයා දෙසැම්බර් 15 වනදා සිට 17 වනදා තෙක් ඉන්දියාවේ සංචාරය කරන බවත් එහිදී ඉන්දීය ජනාධිපතිවරිය සහ අගමැති නරේන්ද්‍ර මෝදී සමග නිල සාකච්ඡා පැවැත්වීමට නියමිත බවත් අමාත්‍යවරයා සඳහන් කළේය.
-
-අනුර කුමාර දිසානායක මහතා ජනාධිපතිවරයා ලෙස පත්වීමෙන් අනතුරුව සිදුකරන ඔහුගේ පළමු විදෙස් සංචාරය මෙය වෙයි.
-
-◼️
-
-[Data](articles/2d618718.json)
 
 ---

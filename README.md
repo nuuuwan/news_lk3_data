@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 02:14:29**
+As of **2024-12-11 02:26:56**
 
 ## Newspaper Stats
 
-*Scraped **59,528** Articles*
+*Scraped **59,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,588
 economynextcom | 3,618
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,649
+adalk | 5,650
 adaderanalk | 7,246
 tamilmirrorlk | 8,495
 virakesarilk | 9,777
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,500 (100.0%) of 59,528 articles have been extended.
+59,500 (100.0%) of 59,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1039,6 +1039,24 @@ If the garment factory is closed, the protests added to the protest.
 [Data](articles/e11f0035.json)
 
 [Extended Data](ext_articles/e11f0035.ext.json)
+
+---
+
+### අපරාධයකින් ඉපයූ දේපළ ගැන පනත සංශෝධනය කරයි
+
+*2024-12-10 16:59:04* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධයකින්-ඉපයූ-දේපළ-ගැන-පනත-සංශෝධනය-කරයි/11-413562) · `si`
+
+අපරාධයකින් උපයාගත් දේ පිළිබඳ පනත් කෙටුම්පත (Proceeds of Crime Bill) සංශෝධනය සඳහා කැබිනට අනුමැතිය ලැබී ඇත.
+
+නීති කෙටුම්පත් සම්පාදක විසින් කෙටුම්පත් කරන ලද අපරාධයකින් උත්පාදිත දේ පිළිබඳ පනත් කෙටුම්පත රජයේ ගැසට්‌ පත්‍රයේ පළ කර පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා 2024-08-12 දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇත.
+
+එහෙත්, එකී පනත් කෙටුම්පත ගැසට්‌ පත්‍රයේ පළ කිරීමෙන් අනතුරුව ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් නිරීක්ෂණ ගණනාවක් ඉදිරිපත් කරනු ලැබ ඇත.
+
+ඒ අනුව, මෙම පනත් කෙටුම්පතට අදාළව මූලික කෙටුම්පත සකස් කිරීම සඳහා එවකට අධිකරණ, බන්ධනාගාර කටයුතු සහ ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ ඇමති විසින් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකුගේ ප්‍රධානත්වයෙන් පත් කරන ලද කමිටුව වෙත ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ඉදිරිපත් කරන ලද නිරීක්ෂණ යොමු කර ඇති අතර, එම කමිටුව විසින් අපරාධයකින් උත්පාදිත දේ පිළිබඳ පනත් කෙටුම්පත සඳහා තවදුරටත් විධිවිධාන කිහිපයක් ඇතුළත් කරමින් දැනට පිළියෙල කරනු ලැබ ඇති පනත් කෙටුම්පත සංශෝධනය කිරීම නිර්දේශ කරනු ලැබ ඇත.
+
+...
+
+[Data](articles/ac083068.json)
 
 ---
 
@@ -2513,31 +2531,5 @@ He said that the rice prices published by a new rice price is legal against anyo
 [Data](articles/aaaca881.json)
 
 [Extended Data](ext_articles/aaaca881.ext.json)
-
----
-
-### Discussion on the expenditure title of the Ministry of Education headed by the President
-
-*2024-12-10 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200873) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"President Anura Kumara Dissanayake leads preliminary discussions on Ministry of Education expenditure. Meeting includes Education Minister Harini Amarasuriya, Deputy Minister Madura Seneviratne, and officials from Finance and Education ministries."
-
-🟩
-
-Preliminary discussions on the expenditure of the Ministry of Education have been launched under the leadership of President Anura Kumara Dissanayake.
-
-As part of this, a discussion on budget ideas on the expenditure headline of the Ministry of Education was held today (10) at the Presidential Office.
-
-Minister of Education, Higher Education, Vocational Education and Prime Minister Harini Amarasuriya, Deputy Minister of Education, Higher Education and Vocational Education, Dr. Madura Seneviratne, Secretary to the President, Dr. Nandika Sanath Kumanayake, Secretary to the Ministry of Finance Mahinda Siriwardena and Secretary to the Ministry of Education, Nalaka Kaluwewa.
-
-◼️
-
-[Data](articles/d01064b4.json)
-
-[Extended Data](ext_articles/d01064b4.ext.json)
 
 ---

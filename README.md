@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 04:42:46**
+As of **2024-12-10 05:51:44**
 
 ## Newspaper Stats
 
-*Scraped **59,348** Articles*
+*Scraped **59,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 447
 colombotelegraphcom | 602
 bbccomsinhala | 619
-islandlk | 3,572
+islandlk | 3,583
 economynextcom | 3,603
 dailyftlk | 4,098
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,335 (100.0%) of 59,348 articles have been extended.
+59,344 (100.0%) of 59,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,6 +124,8 @@ LAUGFS Holdings operates over 20 companies across diverse industries, including 
 
 [Data](articles/39d179e9.json)
 
+[Extended Data](ext_articles/39d179e9.ext.json)
+
 ---
 
 ### Sri Lanka Barometer showcases  “Sri Lanka Speaks”
@@ -141,6 +143,8 @@ The SLB is supported by the Strengthening Social Cohesion and Peace in Sri Lanka
 ...
 
 [Data](articles/39d561c8.json)
+
+[Extended Data](ext_articles/39d561c8.ext.json)
 
 ---
 
@@ -202,6 +206,8 @@ Sri Lanka College of Journalism Deputy Chairperson Hana Ibrahim delivered the op
 
 [Data](articles/f7d2d42f.json)
 
+[Extended Data](ext_articles/f7d2d42f.ext.json)
+
 ---
 
 ### USAID’s PRO-INFO celebrates thousand stories on CitizensConnect
@@ -215,6 +221,8 @@ The celebration — “CC1000 – Celebration of a Thousand Stories” — on 6 
 ...
 
 [Data](articles/a188fc1a.json)
+
+[Extended Data](ext_articles/a188fc1a.ext.json)
 
 ---
 
@@ -231,6 +239,8 @@ The discussion will be moderated by University of Jaffna Senior Lecturer Dr. Mah
 ...
 
 [Data](articles/e0982d0c.json)
+
+[Extended Data](ext_articles/e0982d0c.ext.json)
 
 ---
 
@@ -404,51 +414,77 @@ The system, which was seen as two amendments per year, was increased to 4 by Ran
 
 ---
 
-### மனித உரிமைகள் தினம்: வலிந்து காணாமலாக்கப்பட்டோரின் உறவுகள் இன்று விசேட கவனயீர்ப்புப்போராட்டம்; புதிய அரசாங்கத்திடமும் முன்னேற்றகரமான நகர்வுகள் இல்லை என்றும் விசனம்
+### Human Rights Day: Relationships of Missing MissingThe new government has no progressive moves
 
 *2024-12-10 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200845) · `ta`
 
-மனித உரிமைகள் தினத்தை முன்னிட்டு இன்றைய தினம் (10) வட, கிழக்கு மாகாணங்களைச்சேர்ந்த வலிந்து காணாமலாக்கப்பட்டோரின் உறவினர்கள் தமக்குரிய நீதியைக்கோரி கிளிநொச்சியில் விசேட கவனயீர்ப்புப்போராட்டமொன்றை முன்னெடுக்கவுள்ளனர்.
+Summarized in 200 characters: "Relatives protest Human Rights Day Kilinochchi missing persons no progress new government"
 
-மூன்று தசாப்தகால யுத்தத்தின்போதும், இறுதி யுத்தம் இடம்பெற்ற காலப்பகுதியிலும் வலிந்து காணாமலாக்கப்பட்ட தமது அன்புக்குரியவர்களுக்கு என்ன நேர்ந்தது என்ற உண்மையை வெளிப்படுத்துமாறுகோரி 2017 ஆம் ஆண்டு முதல் 2500 நாட்களுக்கும் மேலாக தொடர் போராட்டத்தில் ஈடுபட்டுவரும் வட, கிழக்கு மாகாணங்களைச்சேர்ந்த வலிந்து காணாமலாக்கப்பட்டோரின் உறவினர்கள், வருடாந்தம் டிசம்பர் மாதம் 10 ஆம் திகதி மனித உரிமைகள் தினத்தன்று விசேட கவனயீர்ப்புப்போராட்டத்தை முன்னெடுத்துவருகின்றனர்.
+🟩
+
+Relatives of the missing persons in the North and Eastern Provinces will launch a special protest in Kilinochchi today (10) to mark the Human Rights Day.
+
+Relatives of the North and Eastern Provinces who have been engaged in a series of struggle for more than 2500 days from 2017 to reveal what happened to their loved ones who have disappeared during the three decades of war and the last war.
+
+As a result of this, the Secretary of the Human Rights Day, the Human Rights Day, will be carried out in front of the Association of Relations of the Missing Relations in Kilinochchi today, while the Secretary of the North and the 8 districts of the North and East has staged protests.
+
+He then said that the United Nations would put pressure on the government to carry out moves to make moves that could bring about the confidence that they would find a solution to the affairs of the missing persons.
 
 ...
 
 [Data](articles/84c753a2.json)
 
+[Extended Data](ext_articles/84c753a2.ext.json)
+
 ---
 
-### பிடி ஆணை பிறப்பிக்கபட்ட நபரை கைது செய்த பொலிசார்; குழப்பம் விளைவித்தமையால் மேலும் இருவர் கைது!
+### Police arrested a man who was issued a BT order;Two more arrested for confusion
 
 *2024-12-10 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200844) · `ta`
 
-வவுனியாவில் பிடிஆணை பிறப்பிக்கப்பட்டிருந்த நபர் ஒருவரை பொலிசார் கைதுசெய்த நிலையில் அந்தபகுதியில் குழப்பநிலை ஒன்று ஏற்ப்பட்டிருந்தது.
+Here's a summary of 200 characters:
 
-வவுனியாநீதிமன்றிற்கு முன்பாக உள்ள பிரதானவீதியில் குறித்த சம்பவம் இடம்பெற்றது. சம்பவம் தொடர்பாக மேலும் தெரியவருகையில்;
 
-நீதிமன்றால் பிடி ஆணை பிறப்பிக்கப்பட்ட நபர் ஒருவர் அந்தவீதியில் நிற்பதை அவதானித்த வவுனியா பொலிசார் அவரை மடக்கிப்பிடித்தனர். இதன்போது அந்த பகுதியில் குழப்பநிலை ஏற்ப்பட்டது.
 
-இதனையடுத்து கைதுசெய்யப்பட்ட நபர் பொலிஸ்நிலையத்திற்கு அழைத்துச்செல்லப்பட்டார். இதேவேளை குறித்த நடவடிக்கையில் பொலிசார் ஈடுபட்டபோது அந்தபகுதியில் தொலைபேசியில் ஒளிப்படம் எடுத்து குழப்பம் விளைவித்தார்கள் என தெரிவித்து மேலும் இரண்டு பேரை வவுனியா பொலிசார் கைதுசெய்துள்ளனர்.
+Police arrest man with BT order near Vavuniya Court. Two others detained for confusion. Incident causes local disturbance.
+
+🟩
+
+There was a confusion in the area as police arrested a man who had been issued a PD in Vavuniya.
+
+The incident took place in front of the Vavuniya Court. As soon as the incident is revealed;
+
+The Vavuniya police, who observed a person who had been issued by the court, stood up to him.. There was confusion in the area.
+
+The arrested person was then taken to the police station. Meanwhile, two more people have been arrested by the Vavuniya police, saying they were confused by the telephone in the area.
 
 ◼️
 
 [Data](articles/57eecd78.json)
 
+[Extended Data](ext_articles/57eecd78.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் மணல் கடத்தலில் ஈடுபட்ட டிப்பர் மடக்கிப் பிடிப்பு!
+### Tipper folding caught in sand smuggling in Jaffna
 
 *2024-12-10 01:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200843) · `ta`
 
-பருத்தித்துறையில் இருந்து மணல் கடத்தப்படுவதாக பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் மணல் கடத்தலில் ஈடுபட்ட டிப்பரை விசேட அதிரடிப்படையினர் துரத்திச் சென்றனர்.
+Tipper caught smuggling sand in Jaffna. STF pursued based on intel. Driver arrested, handed to Chavakachcheri police. Case to be presented in court after investigation.
 
-இதன்போது குறித்த டிப்பர் கொடிகாமம் ஊடாக மந்துவில் பகுதியால் டிப்பர் தப்பிச் சென்று கொண்டிருந்ததவேளை மண்ணை வீதியில் கொட்டி விட்டு, சாவகச்சேரி - கைதடி வீதியால் செல்லும்போது அவ்விடத்தில் வைத்து டிப்பருடன் சாரதி மடக்கிப் பிடிக்கப்பட்டார்.
+🟩
 
-அவர் சாவகச்சேரி பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார். மேலதிக விசாரணைகளின் பின்னர் அவரை சாவகச்சேரி நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை சாவகச்சேரி பொலிசார் மேற்கொண்டு வருகின்றனர்.
+The Special Task Force chased the tipper involved in sand smuggling on the basis of confidential information received by the Special Task Force (STF) that sand was being smuggled from the Point Pedro.
+
+When the tipper was escaped by the tipper Kodikamam, the driver was folded with the tipper on the road when the tipper was fleeing.
+
+He has been handed over to the Chavakachcheri police station. The Chavakachcheri police are taking steps to bring him to the Chavakachcheri court after further inquiries.
 
 ◼️
 
 [Data](articles/44cdadd1.json)
+
+[Extended Data](ext_articles/44cdadd1.ext.json)
 
 ---
 
@@ -468,19 +504,27 @@ Sri Lanka finds itself at a pivotal moment as President Anura Kumara Dissanayake
 
 ---
 
-### இன்று செல்வத்தை சந்திக்கிறார் கஜேந்திரகுமார்
+### Gajendrakumar meets wealth today
 
 *2024-12-10 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200842) · `ta`
 
-தமிழ் மக்கள் பேரவையினால் தயாரிக்கப்பட்ட தீர்வுத்திட்ட வரைவு மற்றும் தமிழ்த்தேசிய கட்சிகளின் அடுத்தகட்ட நகர்வுகள் குறித்துக் கலந்துரையாடும் நோக்கில் தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் இன்றைய தினம் (10) ஜனநாயக தமிழ்த்தேசிய கூட்டமைப்பின் பாராளுமன்றக்குழுத் தலைவர் செல்வம் அடைக்கலநாதனை சந்திக்கவிருக்கிறார்.
+Gajendrakumar Ponnambalam meets TNA leaders today to discuss Tamil welfare and federal solutions for the new constitution. Meeting scheduled at Tamil National People's Front office in Kilinochchi at 6:00 PM.
 
-அண்மையில் நடைபெற்றுமுடிந்த பொதுத்தேர்தல் முடிவுகளை அடுத்து, இனிவருங்காலங்களிலேனும் தமிழ்த்தேசிய அரசியல் கட்சிகள் தமிழ் மக்களின் நலனை முன்னிறுத்தி ஒன்றுபட்டுப் பயணிக்கவேண்டும் என்ற விடயம் பல்வேறு தரப்பினராலும் வலியுறுத்தப்பட்டுவருகின்றது.
+🟩
 
-அதன்படி தமிழ் மக்கள் பேரவையினால் தயாரிக்கப்பட்ட தீர்வுத்திட்ட முன்மொழிவை அடிப்படையாகக்கொண்டு ஏனைய தமிழ்த்தேசிய கட்சிகளுடன் பேச்சுவார்த்தைகளை நடத்துவதற்குத் தாம் தயாராக இருப்பதாக அண்மையில் தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்திருந்தார்.
+The leader of the Tamil National Alliance (TNA) and Member of Parliament, Gajendrakumar Ponnambalam, will meet today (10), the leader of the Parliamentary Committee of the Democratic Tamil National Alliance (TNA).
+
+In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
+
+According to Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
+
+Meanwhile, Sivagnanam Sridharan, the leader of the Sri Lanka Tamil National Alliance (TNA) parliamentary committee, and Selvam Adakkalanathan, the leader of the Democratic Tamil National Alliance (TNA), said they were ready to negotiate beyond the proposal.
 
 ...
 
 [Data](articles/78ca1ab2.json)
+
+[Extended Data](ext_articles/78ca1ab2.ext.json)
 
 ---
 
@@ -577,6 +621,64 @@ I was an attendee at the International Conference on “Reimagining of the Elect
 ---
 
 ### 2024-12-09 (Monday)
+
+### NDB Investment Bank wins Euromoney Award for the 13th consecutive year.
+
+*2024-12-09 23:29:00* · [`islandlk`](http://island.lk/ndb-investment-bank-wins-euromoney-award-for-the-13th-consecutive-year/) · `en`
+
+NDBIB Team from left to right: Darshan Perera – CEO |NDB Investment Bank, Kaushini Laksumanage – COO | NDB Investment Bank and Senaka Kakiriwaragodage – CEO | NDB Capital Holdings Ltd
+
+NDB Investment Bank (NDBIB) has once again been recognized as the “Best Investment Bank in Sri Lanka” by Euromoney Magazine at the Euromoney Awards for Excellence 2024. This milestone marks the 13th consecutive year NDBIB has been honoured with this prestigious award, reaffirming the company’s sustained excellence and undisputed leadership in Sri Lanka’s investment banking landscape. NDBIB remains the only investment bank in Sri Lanka to have secured this award despite an increasingly competitive environment.
+
+...
+
+[Data](articles/0c83803f.json)
+
+---
+
+### Data, AI, and Sri Lanka’s future: What challenges must be overcome for a smarter tomorrow?
+
+*2024-12-09 23:29:00* · [`islandlk`](http://island.lk/data-ai-and-sri-lankas-future-what-challenges-must-be-overcome-for-a-smarter-tomorrow/) · `en`
+
+Unlocking Data for Artificial Intelligence in Sri Lanka: LIRNEasia hosts exclusive forum in Colombo
+
+LIRNEasia hosted a forum on December 7, 2024, titled “Unlocking Data for Artificial Intelligence in Sri Lanka” at the ITC Ratnadipa Hotel, Colombo. The event brought together AI experts, data scientists, policymakers, and industry leaders to explore practical ways to leverage data and artificial intelligence for informed decision-making and meaningful societal and organizational impact.
+
+The session featured several examples of successful and unsuccessful data projects from around the world, offering insights into practical challenges, best practices for initiating data projects, and the importance of addressing ethical concerns and trade-offs in data and AI initiatives.
+
+...
+
+[Data](articles/a98a1dad.json)
+
+---
+
+### Sri Lankan appointed Vice President, Global Rural Tourism Council
+
+*2024-12-09 23:27:00* · [`islandlk`](http://island.lk/sri-lankan-appointed-vice-president-global-rural-tourism-council/) · `en`
+
+The World Council of Rural Organization driving the global agenda where a typical visitor experiences nature based activities in a village, agriculture, rural lifestyle/ culture and sightseeing has appointed marketing professional and Former Tourism Chairman Dr Rohantha Athukorala as the Vice President of the World Rural Tourism Council( WRTC). Dr Gan Yongfu the Secretary General World Rural Tourism said ‘ We need a person who has value chain development experience linked to brand development which includes export marketing and we are delighted to have Dr Athukorala do this task for the South Asian Region’.
+
+When a majority of households in a country is challenged by the rising cost of living, Rural Tourism has been adopted in many parts of the world as a strategy to drip down the benefits of Tourism at a village level said Dr Athukorala. South Asian countries must adopt this best practice, especially in Sri Lanka he voiced.
+
+...
+
+[Data](articles/4c864704.json)
+
+---
+
+### Lower interest rate regime sustains stock market’s positive trend
+
+*2024-12-09 23:25:00* · [`islandlk`](http://island.lk/lower-interest-rate-regime-sustains-stock-markets-positive-trend/) · `en`
+
+Stock market activities were extremely positive yesterday due to the growing lower interest rate regime in the country. This has given some impetus to local and foreign interests in the stock market, market analysts said.
+
+Amid those developments, banking and financial, manufacturing, hotel and plantation sectors were performing well. All Share Price Index was up by 125.3 points while S and P SL20 rose by 32.1 points. Turnover stood at Rs 4.4 billion with eight crossings.
+
+...
+
+[Data](articles/decba914.json)
+
+---
 
 ### US emphasizes commitment to assist Sri Lanka’s energy future
 
@@ -2187,91 +2289,5 @@ However, the Ceylon Electricity Association of Ceylon Electricity Board (CEB) ha
 [Data](articles/c19a3cbd.json)
 
 [Extended Data](ext_articles/c19a3cbd.ext.json)
-
----
-
-### Nearly 1000 candidates have not submitted reports
-
-*2024-12-09 13:34:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிட்டத்தட்ட-1000-வேட்பாளர்கள்-அறிக்கைகளை-சமர்ப்பிக்கவில்லை/175-348479) · `ta`
-
-Summary: 7412/8361 candidates (89%) submitted income/expenditure reports for 2024 parliamentary election. 493/690 independent candidates and 434/527 national list members also reported. 998 candidates missed deadline.
-
-🟩
-
-The National Election Commission has issued a set of income and expenditure reports related to the 2024 parliamentary election, which was handed over to the deadline for the end of December 6, 2024.
-
-According to the Election Commission's report, a total of 7412 income and expenditure reports have been handed over from 8361 candidates from all political parties contesting the election.
-
-Meanwhile, 493 cost statements have been handed over from 690 candidates contested in independent political groups.
-
-Of the 527 national list members, only 434 have handed over their income and expenditure reports.
-
-◼️
-
-[Data](articles/87a8bdd5.json)
-
-[Extended Data](ext_articles/87a8bdd5.ext.json)
-
----
-
-### Interim injunction against UNP MPs is extended
-
-*2024-12-09 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204193) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court of Appeal extends interim injunction against UNP MPs, ordering prevention of unauthorized structures as of April 1.
-
-🟩
-
-The Court of Appeal today (0+) ordered the interim injunction order to prevent unauthorized structures around April 1.
-
-◼️
-
-[Data](articles/75b35d99.json)
-
-[Extended Data](ext_articles/75b35d99.ext.json)
-
----
-
-### Tonga’s prime minister quits moments ahead of no-confidence motion in parliament
-
-*2024-12-09 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104108/tongas-prime-minister-quits-moments-ahead-of-no-confidence-motion-in-parliament) · `en`
-
-Tonga’s Prime Minister Siaosi Sovaleni abruptly resigned in parliament on Monday ahead of a planned no-confidence vote in his leadership, capping a period of fraught relations between his government and Tonga’s king.
-
-Sovaleni, who took office in 2021, did not specify a reason for his departure but his resignation halted the no-confidence motion expected on Monday. It was not immediately clear who would succeed him.
-
-His resignation comes less than a year before a national election in Tonga, a South Pacific island nation of 105,000 people, and it highlighted the occasional tensions between Tonga’s monarchy and elected lawmakers in a still-young democracy after reforms that transferred powers from the royal family and nobles to regular citizens in 2010.
-
-...
-
-[Data](articles/79c544e4.json)
-
-[Extended Data](ext_articles/79c544e4.ext.json)
-
----
-
-### Japan’s Onomichi to exit Sri Lanka’s Colombo Dockyard amid crisis
-
-*2024-12-09 13:19:00* · [`economynextcom`](https://economynext.com/japans-onomichi-to-exit-sri-lankas-colombo-dockyard-amid-crisis-193065/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s Colombo Dockyard Plc said its Japanese majority shareholder Onomichi Dockyard Company Limited is exiting the firm and is stepping down from management amid a financial crisis, making way for a new investor.
-
-T Nakabe, K Kobatake and J Furukawa who were nominee directors of the company had resigned with effect from December 06 and L Gamlath, a director of the company since 1993 has been appointed non executive Chairman, the firm said in a stock exchange filing.
-
-“The Board of Directors is cognizant of the critical need to find a strategic investor to replace Onomichi,” the filing said.
-
-“Preliminary discussions are ongoing with several parties for this purpose.
-
-“The board of directors has been assured by Onomichi that it is prepared to exit from their investment in the Company by the disposal of its share to any strategic investor who would be willing to make a commitment towards the company.”
-
-...
-
-[Data](articles/20bd4419.json)
-
-[Extended Data](ext_articles/20bd4419.ext.json)
 
 ---

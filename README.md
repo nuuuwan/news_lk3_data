@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 19:03:39**
+As of **2024-12-10 19:27:27**
 
 ## Newspaper Stats
 
-*Scraped **59,491** Articles*
+*Scraped **59,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,585
 economynextcom | 3,615
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,643
+adalk | 5,644
 adaderanalk | 7,244
 tamilmirrorlk | 8,491
 virakesarilk | 9,764
@@ -26,29 +26,71 @@ adaderanasinhalalk | 10,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,435 (99.9%) of 59,491 articles have been extended.
+59,440 (99.9%) of 59,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
 
-### பெண்ணை மோதவந்த கார் மீது துப்பாக்கிச் சூடு
+### US sanctions in Kapila and Ageon
+
+*2024-12-10 19:12:45* · [`adalk`](https://www.ada.lk/breaking_news/කපිලට-සහ-උදයංගට--ඇමෙරිකාවෙන්-සම්බාධක/11-413572) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+US sanctions target SriLankan Airlines CEO & Russian ambassador. Aimed at preventing fraud & human rights violations. Also affects individuals from North Macedonia, Indonesia, Russia, Syria, Yemen, West Bank. US entry prohibited for sanctioned individuals and their families.
+
+🟩
+
+The US State Department announced the sanctions on the former Chief Executive Officer of SriLankan Airlines and Sri Lankan Ambassador to Russia's Ambassador to Russia.
+
+It is reported that the US has imposed the sanctions on the anti-international corruption day and human rights day. The suspects were taken as a responsibility of accountability to prevent global frauds and human rights violations.
+
+Among them were the CEO of Kapila Chandrasena as the Chief Executive Officer of SriLankan Airlines.
+
+Sri Lanka Ambassador to Russia, Udayanga Weeratunga, said that sanctions have come to the Sri Lanka Air Force.
+
+In addition to the two, the US State Department imposes sanctions by the US State Department.The group includes northern Macedonia, Indonesia, Russia, Syria, Yemen and the West Bank and their families.
+
+The US State Department says that these sanctions and members of their nearest families will be prohibited from entering the United States.
+
+◼️
+
+[Data](articles/bc26c5a2.json)
+
+[Extended Data](ext_articles/bc26c5a2.ext.json)
+
+---
+
+### Shooting on car that collided with a woman
 
 *2024-12-10 18:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-மோதவந்த-கார்-மீது-துப்பாக்கிச்-சூடு/175-348555) · `ta`
 
-கடுவலை பொலிஸ் நிலையத்திற்கு அருகில் இன்று (10) அதிகாலை பெண்ணொருவரை மோதவந்த கார் மீது பொலிஸார், துப்பாக்கி பிரயோகம் நடத்தியுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-பெண் ஒருவர் கடுவலை பொலிஸ் நிலையத்திற்கு தொலைபேசி அழைப்பெடுத்து தான் மோட்டார் சைக்கிளில் வருவதாகவும், தன்னை காரொன்று விபத்தை ஏற்படுத்தி கொல்லுவதற்காக பின்தொடர்வதாகவும் தெரிவித்துள்ளார்.
 
-பொலிஸ் நிலைய பொறுப்பதிகாரியின் ஆலோசனைக்கு அமைய உடனடியாக செயற்பட்ட பொலிஸ் நிலையத்தின் இரவுக் கடமைக்குப் பொறுப்பான அதிகாரியும் பிரதான வாயிலில் இருந்த பொலிஸ் உத்தியோகத்தரும் வீதிக்கு வந்து தயாராக இருந்த நிலையில், மோட்டார் சைக்கிளுக்கு பின்னால் அதிவேகமாகப் பின்தொடர்ந்து வந்த காரை நிறுத்த முற்பட்டனர்.
 
-அந்த நேரத்தில் பொலிஸ் நிலையத்தில் கடமையாற்றிய அதிகாரி ஒருவர் காரை நோக்கி துப்பாக்கியால் சுட்ட போதும், கார் தப்பிச் சென்றுள்ளது.
+"Car shooting incident: Police opened fire on a vehicle near Kaduwela police station after a woman reported being pursued on a motorcycle. The car escaped despite shots fired. Investigations ongoing."
 
-கார் மற்றும் சாரதியை கைது செய்ய பல விசாரணை குழுக்கள் ஈடுபட்டுள்ளன. R
+🟩
+
+Police have fired a car near the Kaduwela police station this morning (10).
+
+A woman has telephoned the Kaduwela police station and said that she was on a motorcycle and followed her to kill her.
+
+On the advice of the police station officer, the police officer in charge of the night duty and the police officer at the main gate were ready to stop the car, which was ready to stop the car on the back of the motorcycle.
+
+At the time, an officer at the police station fired at the car, but the car escaped.
+
+Several investigations are involved in the arrest of car and driver. Remble
 
 ◼️
 
 [Data](articles/fe89c2c4.json)
+
+[Extended Data](ext_articles/fe89c2c4.ext.json)
 
 ---
 
@@ -67,6 +109,8 @@ The provision of uniform fabric to students free of charge has been carried out 
 ...
 
 [Data](articles/d73ee7bc.json)
+
+[Extended Data](ext_articles/d73ee7bc.ext.json)
 
 ---
 
@@ -144,17 +188,25 @@ The development officials attached to schools were assigned to schools asking fo
 
 ---
 
-### ඉන්දියාවෙන් ප්‍රදානයක් ලෙස දෙන කෝචිචි එංජින් 22 ගන්න කැබිනට් අනුමැතිය
+### Cabinet approval of Kachchi engine
 
 *2024-12-10 16:50:37* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවෙන්-ප්‍රදානයක්-ලෙස-දෙන-කෝචිචි-එංජින්-22-ගන්න-කැබිනට්-අනුමැතිය/11-413561) · `si`
 
-ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තව සඳහා ALCO ඩීසල් එන්ජින් 22ක් ඉන්දියානු රජයේ ප්‍රධානයක් ලෙස ලබාගැනීමට කැබිනට් අනුමැතිය ලැබී තිබේ. ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව සඳහා සුළු වශයෙන් භාවිතා කරන ලද M10 දුම්රිය එන්ජින් මාදිලයේ වැඩි දියුණු කළ එන්ජින් 20ක් හා එම එන්ජින් නඩත්තුවට අවශ්‍ය අමතර කොටස් ලබා ගැනීම පිණිස අතිරේක දුම්රිය එන්ජින් 2ක් ප්‍රදානයක් ලෙස ලබාදීමට ඉන්දීය දුම්රිය සේවය කැමැත්ත පළ කර තිබේ.
+Sri Lanka Cabinet approves 22 Alco diesel engines from India. Indian Railways grants 2 extra engines. Maintenance contract for 5 years. Project committee evaluates feasibility. Proposal approved, grant agreement to be signed.
 
-එකී දුම්රිය එන්ජින් නඩත්තු කිරීමේ සේවාව වසර 05ක කාලයක් ලබා දීම සඳහා වන නොකැඳවූ යෝජනාවක් ඉන්දියාවේ ඉංජිනේ උපදේශක හා යටිතල පහසුකම් සංවර්ධන සමාගමක් වන RTIES සමාගම විසින් ඉදිරිපත් කර තිබේ. එම යෝජනාව ඇගයීමට ලක්කර නිර්දේශ ඉදිරිපත් කිරීම සඳහා අමාත්‍ය මණ්ඩලය විසින් පත්කරන ලද සාකච්ඡා සම්මුති කමිටුවක් හා ව්‍යාපෘති කමිටුවක් පත් කිරීමට 2024/06/11 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබේ්‍
+🟩
 
-...
+Cabinet approval has been granted to receive 22 Alco diesel engines to the Sri Lanka Railways as awarded to the Indian government. The Indian Railways has agreed to provide two additional station engines as a grant for 20 enhanced engines and additional stocks for the Sri Lanka Railways.
+
+The Engineer's Consultancy and Infrastructure Development Company has been submitted to provide maintenance service to the maintenance service for five years. At the Cabinet meeting held at the Cabinet Meeting held at the Cabinet meeting held to appoint a project committee, appointed by the Cabinet and a project committee appointed by the Cabinet of Ministers to evaluate the proposal.
+
+The project committee has pointed out that the Railway Department has the ability to maintain these locomotives as a grant.. The proposal made by the Government of Sri Lanka has been approved by the Government of Sri Lanka to be signed by the Government of Sri Lanka and award the grant of 22 locomotives.
+
+◼️
 
 [Data](articles/cddf96a1.json)
+
+[Extended Data](ext_articles/cddf96a1.ext.json)
 
 ---
 
@@ -485,6 +537,8 @@ Cey-Nor Foundation Ltd manufactures fiberglass boats at Karainagar boatyard. (Co
 ◼️
 
 [Data](articles/669a4ead.json)
+
+[Extended Data](ext_articles/669a4ead.ext.json)
 
 ---
 
@@ -2221,21 +2275,5 @@ The two parties who are in Section 7031 (c) of the American Department of Americ
 [Data](articles/32952b76.json)
 
 [Extended Data](ext_articles/32952b76.ext.json)
-
----
-
-### US sanctions Kapila Chandrasena and Udayanga Weeratunga over corruption
-
-*2024-12-10 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104124/us-sanctions-kapila-chandrasena-and-udayanga-weeratunga-over-corruption) · `en`
-
-The United States has imposed sanctions on the former CEO of SriLankan Airlines Kapila Chandrasena and former Sri Lankan Ambassador to Russia Udayanga Weeratunga, along with their immediate family members, for their involvement in “significant corruption”.
-
-The U.S. State Department announced a slew of sanctions on Monday to mark International Anti-Corruption Day and the eve of Human Rights Day, targeting individuals from multiple countries.
-
-Accordingly, the US Department of State has designated 14 individuals, including immediate family members, from countries around the world for significant corruption and one individual for gross violations of human rights, pursuant to Section 7031(c) of the Department’s annual appropriations act, rendering them ineligible for entry into the United States.
-
-...
-
-[Data](articles/33f4f8f5.json)
 
 ---

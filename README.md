@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 15:14:33**
+As of **2024-12-10 15:26:45**
 
 ## Newspaper Stats
 
-*Scraped **59,447** Articles*
+*Scraped **59,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ dailymirrorlk | 4,733
 adalk | 5,637
 adaderanalk | 7,237
 tamilmirrorlk | 8,485
-virakesarilk | 9,755
-adaderanasinhalalk | 10,273
+virakesarilk | 9,760
+adaderanasinhalalk | 10,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,410 (99.9%) of 59,447 articles have been extended.
+59,410 (99.9%) of 59,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### பார்வையாளர்களின் கவனம் ஈர்க்கும் சீயான் விக்ரமின் ' வீர தீர சூரன்- பார்ட் 2' பட  கிளர்வோட்டம்
+
+*2024-12-10 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200899) · `ta`
+
+சீயான் விக்ரம் கதையின் நாயகனாக காளி எனும் கதாபாத்திரத்தில் எக்சன் அவதாரத்தில் நடித்திருக்கும் 'வீர தீர சூரன், பார்ட் 2 ' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது. இந்த கிளர்வோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் ஐந்து மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனையும் படைத்து வருகிறது.
+
+இயக்குநர் எஸ். யு. அருண்குமார் இயக்கத்தில் உருவாகி வரும் 'வீர தீர சூரன் - பார்ட் 2 'எனும் திரைப்படத்தில் சீயான் விக்ரம், எஸ். ஜே. சூர்யா, சுராஜ் வெஞ்சரமூடு , துஷாரா விஜயன், சித்திக் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+தேனி ஈஸ்வர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார். எக்சன் திரில்லர் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை ஹெச். ஆர். பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ரியா ஷிபு தயாரிக்கிறார்.
+
+...
+
+[Data](articles/5ebd3f7b.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන්ට ඇප
+
+*2024-12-10 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204232) · `si`
+
+ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන් 8 දෙනෙකු දැඩි ඇප කොන්දේසි මත මුදා හැරීමට හෝමාගම මහාධිකරණ විනිසුරු මොහොමඩ් ඉර්ෂඩීන් මහතා අද (10) නියෝග කළේය.
+
+එහිදී සැකකරුවන් 08 දෙනාට එක් අයෙකුට රුපියල් ලක්ෂය බැගින් වූ මුදල් ඇපයක් සහ ශරීර ඇප දෙක බැගින් නියම කර තිබුණි.
+
+මෙම සැකකරුවන් 08 දෙනාට විදේශ ගමන් තහනම් කරමින් එම සැකකරුවන්ගේ විදේශ ගමන් බලපත්‍ර අධිකරණය වෙත ඉදිරිපත් කරන ලෙසත් සෑම ඉරිදා දිනයකදීම අතුරුගිරිය පොලීසියේ පෙනී සිට අත්සන් කළ යුතු බවත් දැඩි ඇප කොන්දේසි පනවමින් විනිසුරුවරයා නියෝග කළේය.
+
+පසුගිය ජුලි මස 8 වනදා අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමේ අවස්ථාවටක එක්වෙමින් සිටියදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තට වෙඩිතබා ඝාතනය කෙරුණි.
+
+එහිදී වෙඩිවැදීමෙන් නයන වාසුල විජේරත්න යන අයද මියගිය අතර අදාළ ඝාතනය සිදුකිරීමට ආධාර අනුබල ලබාදීම සම්බන්ධයෙන් මෙම සැකකරුවන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර තිබුණි.
+
+...
+
+[Data](articles/003d381e.json)
+
+---
+
+### නව සුරාබදු කොමසාරිස් ජනරාල්වරයෙක්
+
+*2024-12-10 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204231) · `si`
+
+යු. එල්. උදය කුමාර පෙරේරා මහතා සුරාබදු කොමසාරිස් ජනරාල් තනතුරට පත්කිරීමට මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යවරයා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ගෙන ආ යෝජනාවකට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+උදය කුමාර මහතා දේශීය ආදායම් දෙපාර්තමේන්තුවේ ඡ්‍යේෂ්ඨ කොමසාරිස්වරයෙක් වශයෙන් සේවය කරයි.
+
+ඒ අනුව සුරාබදු කොමසාරිස් ජනරාල් තනතුරේ වැඩබැලූ යූ. ඩී. එන්. ජයවීර මහතා නැවත දේශීය ආදායම් දෙපාර්තමේන්තුවට අනුයුක්ත කර තිබේ.
+
+◼️
+
+[Data](articles/030dc429.json)
+
+---
 
 ### Eight suspects of ‘Club Wasantha’ murder granted bail
 
@@ -51,6 +103,26 @@ The shocking shooting incident had occurred during the opening ceremony of a tat
 [Data](articles/30036256.json)
 
 [Extended Data](ext_articles/30036256.ext.json)
+
+---
+
+### මුද්‍රිත පොත් වැට් බද්දෙන් නිදහස් කරන්න යැයි ඉල්ලීමක්
+
+*2024-12-10 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204230) · `si`
+
+මුද්‍රිත පොත් වෙනුවෙන් පනවා තිබෙන වැට් බද්ද හේතුවෙන් ප්‍රකාශන ක්ෂේත්‍රය විශාල අර්බුධයකට සහ ව්‍යාකූල තත්ත්වයකට පත්ව තිබෙන බව ශ්‍රී ලංකා පොත් ප්‍රකාශකයන්ගේ සංගමය පවසයි.
+
+'2024 ජනවාරි මාසයට පෙර පැවති ලෙස පොත් වැට් බද්දෙන් නිදහස් කරගනිමු' යනුවෙන් එම සංගමය අද (10) පැවැත් වූ මාධ්‍ය සාකච්ඡාවකදී මේ බව අනාවරණය කර සිටියේය.
+
+මෙම බදු පැනවීම හේතුවෙන් සමස්ත සමාජයට, ප්‍රකාශකයන්ට, ලේඛකයින්ට, පොත් ආනයනකරුවන්ට සහ විකුණුම්කරුවන්ට අහිතකර බලපෑම් සිදුව ඇති බව පෙන්වා දුන්නේය.
+
+එනිසා ආර්ථික වශයෙන් මෙන්ම අධ්‍යාපනය, සංස්කෘතිය හා පුද්ගල සංවර්ධනය සඳහා පොත්, වැට් බද්දෙන් නිදහස් කරගැනීම තීරණාත්මක සාධකය් බව පෙන්වා දුන්නේය.
+
+මේ සම්බන්ධයෙන් පෙර රජයේ මුදල් අමාත්‍යංශය, ජාත්‍යන්තර මූල්‍ය අරමුදල සහ අනෙකුත් අදාළ බලධාරීන්ට දිගින් දිගටම ඉල්ලීම් කළත්, ලිපි ලැබුණු බව සඳහන් කළ පිළිතුරු ලිපි පමණක් ඔවුන්ගෙන් ලැබුණු බව පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/283ae681.json)
 
 ---
 
@@ -99,6 +171,68 @@ The official appointment letter Mr.. Jasinghe was handed over to the Presidentia
 [Data](articles/b59fd03b.json)
 
 [Extended Data](ext_articles/b59fd03b.ext.json)
+
+---
+
+### ஜார்ஜியாவில் லெஜண்ட் சரவணன்
+
+*2024-12-10 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200896) · `ta`
+
+தமிழகத்தின் முன்னணி தொழிலதிபரும், நடிகருமான தி லெஜண்ட் சரவணன் கதையின் நாயகனாக நடிக்கும் பெயரிடப்படாத திரைப்படத்தின் படப்பிடிப்பு ஜார்ஜியா நாட்டில் விறுவிறுப்பாக நடைபெற்று வருகிறது என படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு மகிழ்ச்சியுடன் தெரிவித்துள்ளனர்.
+
+இயக்குநர் துரை. செந்தில்குமார் இயக்கத்தில் உருவாகி வரும் பெயரிடப்படாத திரைப்படத்தில் 'தி லெஜண்ட்' சரவணன், பாயல் ராஜ்புத், ஆண்ட்ரியா, ஷாம் உள்ளிட்ட பலர் நடிக்கிறார்கள். வெங்கடேஷ் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைக்கிறார்.  எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை தி லெஜண்ட் சரவணன் தயாரித்து வருகிறார்.
+
+இப்படத்தின் படப்பிடிப்பு தற்போது ஜார்ஜியா நாட்டில் நடைபெற்று வருகிறது என்றும், அடுத்த ஆண்டு கோடை விடுமுறையில் பட மாளிகையில் வெளியிட திட்டமிடப்பட்டு வருவதாகவும் படக்குழுவினர் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/626fd22b.json)
+
+---
+
+### இறுதி கட்டத்தில் கௌதமன் நடிக்கும் ' படையாண்ட மாவீரா '
+
+*2024-12-10 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200893) · `ta`
+
+இயக்குநரும், நடிகருமான வ. கௌதமன் கதையின் நாயகனாக நடித்திருக்கும் ' படையாண்ட மாவீரா ' எனும் திரைப்படத்தின் படப்பிடிப்பு இறுதிக்கட்டத்தை எட்டியிருப்பதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்துள்ளனர்.
+
+இயக்குநரும், நடிகருமான வ.கௌதமன் இயக்கத்தில் உருவாகி வரும் ' படையாண்ட மாவீரா ' எனும் திரைப்படத்தில் கௌதமன், பூஜிதா, சமுத்திரக்கனி, சரண்யா பொன்வண்ணன், ரெடின் கிங்ஸ்லி , நிழல்கள் ரவி, இளவரசு, தமிழ் , தலைவாசல் விஜய், ஏ எல் அழகப்பன், மன்சூர் அலிகான், ஆடுகளம் நரேன், பாகுபலி பிரபாகர், வேதாளம் கபீர், மதுசூதன் ராவ், சாய் தீனா உள்ளிட்ட பலர் நடித்து வருகிறார்கள்.
+
+வெற்றிவேல் மகேந்திரன் மற்றும் கோபி ஜெகதீஸ்வரன் இணைந்து ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு ஜீ. வி பிரகாஷ் குமார் இசையமைத்திருக்கிறார். மண்ணின் மைந்தர்களை பற்றி வீரம் செறிந்த வரலாறை பதிவு செய்யும் நோக்கத்தில் வீரியமிக்க படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை விகே புரொடக்ஷன்ஸ் குழுமம் தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/212e62fc.json)
+
+---
+
+### சுகாதார மற்றும் ஊடக அமைச்சுக்களின் புதிய செயலாளராக விசேட வைத்திய நிபுணர் அனில் ஜாசிங்க நியமனம்
+
+*2024-12-10 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200895) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க சுகாதார மற்றும் ஊடக அமைச்சுக்களின் புதிய செயலாளராக விஷேட வைத்திய நிபுணர் அனில் ஜாசிங்கவை நியமித்துள்ளார்.
+
+அதற்கமைவான நியமனக் கடிதம் ஜனாதிபதியின் செயலாளர் கலாநிதி சனத் நந்திக குமாநாயக்கவினால் விசேட வைத்திய நிபுணர் அனில் ஜாசிங்கவிற்கு இன்று செவ்வாய்க்கிழமை (10) ஜனாதிபதி அலுவலகத்தில் வைத்து கையளிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/3fd2d44c.json)
+
+---
+
+### வசூலில் அதிரடி காட்டும் அல்லு அர்ஜுனின் 'புஷ்பா 2'
+
+*2024-12-10 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200894) · `ta`
+
+தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகராக இருந்து தற்போது பான் இந்திய நட்சத்திர நடிகராக உயர்ந்திருக்கும் அல்லு அர்ஜுன் நடிப்பில் வெளியான 'புஷ்பா 2' திரைப்படம் வெளியான முதல் நான்கு நாட்களில் இந்திய மதிப்பில் 829 கோடி ரூபாய் வசூலித்து புதிய சாதனையை படைத்திருக்கிறது.
+
+இயக்குநர் சுகுமார் இயக்கத்தில் உருவான 'புஷ்பா 2' திரைப்படத்தில் அல்லு அர்ஜுன் -ராஷ்மிகா மந்தானா, பகத் பாசில் -ஆகியோர் முதன்மையான வேடத்தில் நடித்திருந்தனர். இந்த திரைப்படம் கடந்த டிசம்பர் மாதம் 5ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் வெளியானது. படத்தைப் பற்றிய கலவையான விமர்சனங்கள் வெளியானாலும் வசூல் குறையாமல் தொடர்ந்து அதிகரித்துக் கொண்டிருக்கிறது.
+
+இந்த திரைப்படம் வெளியான முதல் நாள் 294 கோடி ரூபாயும், இரண்டாவது நாள் 449 கோடி ரூபாயும், மூன்றாவது நாள் 621 கோடி ரூபாயும், நான்காவது நாள் 829 கோடி ரூபாயும் வசூலித்து புதிய சாதனையை படைத்திருக்கிறது.
+
+...
+
+[Data](articles/bf4a25e1.json)
 
 ---
 
@@ -165,6 +299,20 @@ Sri Lanka Cricket first organizes T10s to begin tomorrow (11).
 [Data](articles/d7f6c833.json)
 
 [Extended Data](ext_articles/d7f6c833.ext.json)
+
+---
+
+### විශේෂඥ වෛද්‍ය අනිල් ජාසිංහට අමාත්‍යාංශ ලේකම් තනතුරක්
+
+*2024-12-10 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204229) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා පත් කර තිබේ.
+
+මීට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා වෙත ජනාධිපති ලේකම් කාර්යාලයේදී අද (10) පස්වරුවේ පිරිනැමිණි.
+
+◼️
+
+[Data](articles/bfb45513.json)
 
 ---
 
@@ -2035,193 +2183,5 @@ The celebration — “CC1000 – Celebration of a Thousand Stories” — on 6 
 [Data](articles/a188fc1a.json)
 
 [Extended Data](ext_articles/a188fc1a.ext.json)
-
----
-
-### ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’
-
-*2024-12-10 03:27:39* · [`dailyftlk`](https://www.ft.lk/news/Beyond-checkpoints-Stories-of-human-resilience-in-troubled-Sri-Lanka/56-770303) · `en`
-
-Bishop Duleep de Chickera to launch his latest book on Thursday
-
-A conversation with Bishop Duleep de Chickera on his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’, will take place on 12 December from 5 p.m. to 6:30 p.m. at the Diocesan Chambers, Cathedral of Christ the Living Saviour, Bauddhaloka Mawatha Colombo 7.
-
-The discussion will be moderated by University of Jaffna Senior Lecturer Dr. Mahendran Thiruvarangan, while selected passages from the book will be read and commented on by educator and story-teller Suramya Hettiarachchi. Published in 2023, and now in its second print, ‘Beyond Checkpoints’ recently won a State Literary Award. Copies of the book will be on sale at the event.
-
-...
-
-[Data](articles/e0982d0c.json)
-
-[Extended Data](ext_articles/e0982d0c.ext.json)
-
----
-
-### Lankan handicrafts on show for first time at Saudi Handicrafts Expo – “Banan” 2024
-
-*2024-12-10 03:05:21* · [`dailyftlk`](https://www.ft.lk/business/Lankan-handicrafts-on-show-for-first-time-at-Saudi-Handicrafts-Expo-Banan-2024/34-770299) · `en`
-
-The Embassy of Sri Lanka in Riyadh successfully organised the first-ever participation of four Sri Lankan companies of handicrafts at the Saudi International Handicrafts Week Exhibition “Banan 2024” held in Riyadh from 23 to 29 November in collaboration with the Ministry of Buddhasasana, Religious and Cultural Affairs of Sri Lanka.
-
-Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Ameer Ajwad officially inaugurated the Sri Lankan pavilion at the Riyadh Front Exhibition and Conference Centre.
-
-...
-
-[Data](articles/1800d153.json)
-
-[Extended Data](ext_articles/1800d153.ext.json)
-
----
-
-### Kapruka, first e-commerce platform in Sri Lanka to accept Apple Pay
-
-*2024-12-10 03:03:47* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-first-e-commerce-platform-in-Sri-Lanka-to-accept-Apple-Pay/34-770298) · `en`
-
-Kapruka.com, Sri Lanka’s largest locally owned e-commerce platform, announced that it has become the first online service in Sri Lanka to accept Apple Pay payments.
-
-This milestone highlights Kapruka’s continued commitment to staying at the forefront of innovation and providing unmatched convenience for its customers.
-
-As Sri Lanka’s leading e-commerce platform, Kapruka has consistently offered a wide range of payment options, including cryptocurrency and PayPal, ensuring unmatched convenience for its customers. Two years ago, the platform was the first in Sri Lanka to introduce cryptocurrency payment acceptance. Now, with the integration of Apple Pay, Kapruka reinforces its position as a trailblazer in the e-commerce space.
-
-...
-
-[Data](articles/ca6de82d.json)
-
-[Extended Data](ext_articles/ca6de82d.ext.json)
-
----
-
-### SLIIT Business School inaugurates ICSDB 2024 conference
-
-*2024-12-10 03:01:30* · [`dailyftlk`](https://www.ft.lk/business/SLIIT-Business-School-inaugurates-ICSDB-2024-conference/34-770297) · `en`
-
-Setting new standards for research conferences, the SLIIT Business School is conducting the International Conference on Sustainable and Digital Business (ICSDB) 2024 for the third consecutive year.
-
-The inauguration of the conference and ICSDB Excellence Awards ceremony will be held at the Water’s Edge hotel on 10 December.
-
-Prof. Oliver Gassmann from University of St. Gallen, Switzerland and Prof. Marco Greco from University of Cassino and Southern Lazio, Italy will deliver the keynote speeches. The globally renowned inventor, USA Leo Med LLC CEO and President Dr. Bandula Wijay will also address the audience comprising over 75 CXOs from the industry and an equal number of academics from different universities.
-
-...
-
-[Data](articles/4f85ab6b.json)
-
-[Extended Data](ext_articles/4f85ab6b.ext.json)
-
----
-
-### Roar Global celebrates 10 years of digital transformation in APAC region
-
-*2024-12-10 02:53:50* · [`dailyftlk`](https://www.ft.lk/business/Roar-Global-celebrates-10-years-of-digital-transformation-in-APAC-region/34-770296) · `en`
-
-Roar Global, Sri Lanka’s leading provider of platform-specific digital marketing solutions, celebrated 10 years of pioneering digital transformation in the APAC region with its clients and partners.
-
-The event, held at the newly inaugurated Cinnamon Life at City of Dreams, brought together industry leaders, experts, clients, and Roar’s valued partners to reflect on the company’s remarkable journey and unveil its ambitious vision for the future.
-
-The evening commenced with a warm welcome from Roar Global Founder and CEO Mustafa Kassim, who shared the origins of Roar and reflected on its milestones and key achievements over the past 10 years. Founded in 2014 with a mission to redefine digital media and marketing in Sri Lanka, Roar has evolved into a global brand with a diverse portfolio of business units, each driving digital transformation in their respective fields.
-
-...
-
-[Data](articles/dccb7d97.json)
-
-[Extended Data](ext_articles/dccb7d97.ext.json)
-
----
-
-### No one is granted liquor permits - Ranil
-
-*2024-12-10 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200849) · `ta`
-
-Ranil Wickremesinghe denies liquor permit grants, claims govt earned over Rs 3 billion. Statement counters bribery allegations. Government maintains legal authority over liquor licenses.
-
-🟩
-
-Former President Ranil Wickremesinghe's office has issued a statement saying that liquor licenses have not been granted to anyone in the case of exemption and that the government has earned more than Rs 3 billion.
-
-The report has been issued in response to the allegations that Ranil Wickremesinghe has obtained alcohol licenses in political bribery.
-
-The report states that the government has earned more than 3.1 billion rupees in the first nine months of this year by issuing new permits.
-
-The former President's Office has pointed out that the Elections Commission has confirmed the legal character of the method of adoption of liquor licenses through a letter sent to the Commissioner General of Excise on August 19, 2024.
-
-It is worth noting that the current Cabinet has the power to continue or cancel proper income licenses.
-
-◼️
-
-[Data](articles/50c36790.json)
-
-[Extended Data](ext_articles/50c36790.ext.json)
-
----
-
-### Do not allow big businesses to commerce rice production
-
-*2024-12-10 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200848) · `ta`
-
-National Coordinator opposes allowing big businesses to control rice production in Sri Lanka, citing high profits and potential market shortages.
-
-🟩
-
-The National Coordinator of the People's Freedom Alliance (UPFA) has urged the government not to allow the government to make rice producers' production of rice production in Sri Lanka, which is at a very high level of recession among children.
-
-He said this while participating in a media briefing organized by the Lions Club in Colombo on Monday. There he added:
-
-We have seen President Anura Kumara Dissanayake on the issue of rice. But there is no rice in the market. The amount of rice is not sufficient for the present one of the reasons for the shortage of rice. But based on statistics, we have produced more rice than need in the past years. In the meantime, there is a shortage of rice.
-
-Big rice manufacturers have planned rice. Through it they tend to make more profit. According to the Consumer Authority of Sri Lanka, it is a punishable offense. But now the law is not properly implemented. Manufacturers, therefore, are engaged in such improper activities.
-
-...
-
-[Data](articles/e5a91a43.json)
-
-[Extended Data](ext_articles/e5a91a43.ext.json)
-
----
-
-### Shura Sabha has expressed concern to Dilvin about the absence of Muslim representation in the cabinet
-
-*2024-12-10 02:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200847) · `ta`
-
-Shura Sabha expresses concern about Muslim representation in Sri Lanka's cabinet. National Shura Council representatives met with Dilvin Silva, discussing national issues and urging attention to Muslim representation. They highlighted the contribution of Sri Lankans working in Arab countries and their economic impact.
-
-🟩
-
-Representatives of the National Shura Council, who have expressed serious concern to the Secretary of the Janatha Vimukthi Peramuna (JVP), have urged the National Shura Council representatives to pay special attention to this.
-
-Representatives of the National Shura Council, who met with the Secretary of the People's Liberation Front, Dilvin Silva last Friday (6), discussed a wide range of issues on national and social levels.
-
-Dilvin Silva handed over the document already given to the presidential candidates that included 27 issues to be resolved by prioritizing the priority.
-
-Similarly, they pointed out that there are many knowledge and ability to contribute to all sectors of the country, including education, economics and politics.. They also said that they are ready to organize social level discussions to investigate the measures to be taken aimed at the country's progress.
-
-...
-
-[Data](articles/ce38915d.json)
-
-[Extended Data](ext_articles/ce38915d.ext.json)
-
----
-
-### The cost of electricity is low as hydroelectricity is increased;Investors are running for electricity tariff - Nalin Bandara Chadel
-
-*2024-12-10 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200846) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Hydroelectricity increase reduces electricity costs. Investors concerned about tariffs. CEB generates 65% hydro, 17% renewable energy. Coal and fuel usage minimal. Hydro costs Rs 57.85 per unit vs fuel's Rs 105. Public Utilities Commission intervenes for reductions. JVP claims benefits from Victoria, Randenigala reservoirs. Government promises 30% tariff cut, but commission has authority.
-
-🟩
-
-The cost of the Ceylon Electricity Board has been reduced due to the generation of 65 per cent of the power generation.. This has made a massive profit. If so, why not reduce electricity bills. United People's Power Member Nalin Bandara said investors were worried about Sri Lanka's electricity tariffs.
-
-He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Monday (9).
-
-The system, which was seen as two amendments per year, was increased to 4 by Ranil Wickremesinghe government. The price revision must have been carried out in October. However, the action has not been carried out. However, according to the decisions already taken, the amendments were to be made in January.
-
-...
-
-[Data](articles/866151d9.json)
-
-[Extended Data](ext_articles/866151d9.ext.json)
 
 ---

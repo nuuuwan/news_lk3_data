@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 12:18:35**
+As of **2024-12-10 12:29:59**
 
 ## Newspaper Stats
 
-*Scraped **59,415** Articles*
+*Scraped **59,424** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
 colombotelegraphcom | 602
-bbccomsinhala | 620
+bbccomsinhala | 621
 islandlk | 3,584
-economynextcom | 3,607
+economynextcom | 3,610
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,633
+adalk | 5,634
 adaderanalk | 7,228
 tamilmirrorlk | 8,481
 virakesarilk | 9,750
-adaderanasinhalalk | 10,268
+adaderanasinhalalk | 10,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,387 (100.0%) of 59,415 articles have been extended.
+59,387 (99.9%) of 59,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Sri Lanka to get $50M IMF deal-linked policy loan from OPEC Fund
+
+*2024-12-10 12:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-50m-imf-deal-linked-policy-loan-from-opec-fund-193192/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved signing an agreement for a $50 million policy based loan from the OPEC Fund for International Corporation, according to a statement by the Department of Government Information
+
+The loan is linked to financing coming in parallel with the Extended Fund Facility of the International Monetary Fund, the statement said
+
+Sri Lanka has so far got policy-based loans linked to the IMF program from the World Bank and Asian Development Bank.
+
+Japan, which used to co-finance IMF programs after previous currency crises, could not give new loans until the a bilateral debt restructuring was complete. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/0f20a76f.json)
+
+---
+
+### Sri Lanka to issue digital driving license
+
+*2024-12-10 12:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-issue-digital-driving-license-117625/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers have approved a proposal to issue digital driving licenses, Health and Media Ministers Nalinda Jayatissa said.
+
+“The government has recognized the requirement of issuing a digital driver’s license, which is currently used in many countries of the world, with new technology, which will facilitate the exchange of data between related institutions,” Jayatissa told reporters.
+
+Jayatissa said there have been problems cropping up in the issuance of driving licenses with many irregularities reported.
+
+Until a new digital driving license is introduces in place of the currently used driving license, the current procedures for issuing driving licenses will be followed, he said. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/725ae74a.json)
+
+---
+
+### වැඩි මිලට සහල් විකුණන වෙළෙඳුන් සොයා අද සිට වැටලීම්
+
+*2024-12-10 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204226) · `si`
+
+රජය විසින් නිකුත් කළ උපරිම මිල ඉක්මවා සහල් විකුණන වෙළෙඳුන් සොයා අද (10) සිට වැටලීම් සිදුකරන බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+
+එම අධිකාරියේ සභාපති, හේමන්ත සමරකෝන් මහතා සඳහන් කළේ, ඊයේ (09) දිනයේ දී සහල් සඳහා නියම කෙරුණු උපරිම මිල ඇතුළත් ගැසට් නිවේදනය අනුව එම තීරණය ගත් බවය.
+
+නව සහල් මිල ප්‍රකාශයට පත් කර ඇති පසුබිමක එම සහල් මිල ඉක්මවා සහල් අලෙවි කරන ඕනෑම අයෙකුට එරෙහි නීතියානුකූලව කටයුතු කරන බව ද ඒ මහතා කියා සිටියේය.
+
+"ඒ නිසා මම කාරුණිකව ඉල්ලා සිටිනවා, වෙළෙඳ ප්‍රජාවගෙන්, නිෂ්පාදකයින්ගෙන් හා තොග වෙළෙඳන්ගෙන් වගේම පාරිභෝගිකයින්ගෙන් අප විසින් ප්‍රසිද්ධියට පත්කළ තියෙන මිල අනුව තමන්ගේ සහල් ප්‍රමාණය මිලදී ගන්න. කිසියම් හෝ අකටයුත්තක් හෝ අධික මිලකට සහල් විකිණීමක් සිදුවන්නේ නම් ඒ ගැන පාරිභෝගික අධිකාරියේ 1977 අංකයට පැමිණිලි කළ හැකියි. ඒ වගේම පාරිභෝගික අධිකාරියේ දිස්ත්‍රික් කාර්යාලවලට හා ප්‍රධාන කාර්යාලයට පැමිණිලි කළ හැකියි."
+
+◼️
+
+[Data](articles/aaaca881.json)
+
+---
 
 ### President Dissanayake’s India visit on Dec. 15
 
@@ -194,6 +248,48 @@ Accordingly, the following appointments and attachments have been approved as pe
 
 ---
 
+### පරාටේ නීතිය ගැන රජයෙන් තීරණයක්
+
+*2024-12-10 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204225) · `si`
+
+පරාටේ නීතිය ක්‍රියාත්මක වීම අත්හිටුවීම තවදුරටත් දීර්ඝ කිරීමට රජය තීරණය කර තිබේ.
+
+අද (10) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් කැබිනට් ප්‍රකාශක, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසා සිටියේ, ඒ අනුව 2025 වසරේ මාර්තු මස 31 වනදා දක්වා එම කාල සීමාව දීර්ඝ කළ බවය.
+
+කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරිකයින් ණය ගෙවීම පැහැර හැරීම‌ හේතුවෙන් ඔවුන්ගේ දේපොළ බැංකුවලට පවරාගෙන වෙන්දේසි කිරීම මේ වසරේ දෙසැම්බර් 15 වන දින දක්වා තාවකාලිකව අත්හිටුවා තිබුණි.
+
+පසුගිය වසර 04ක කාලය තුළ ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදය, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය අංශයට දැඩි ලෙස බලපා ඇති අතර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් විසින් බැංකුවලින් ලබා ගත් ණය පියවීමේදී දුෂ්කරතාවන්ට මුහුණ පෑමට සිදුව ඇති බව වාර්තා වූ බව ද අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+පරාටේ නීතිය අත්හිටුවීම තවදුරටත් දීර්ඝ කරන ලෙස කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය අංශයට සම්බන්ධ සංගම මඟින් ඉල්ලීම් ඉදිරිපත් කර තිබූ බවත් ඒ් අනුව මෙලෙස පරාටේ නීතිය ක්‍රියාත්මක වීම අත්හිටුවීම තවදුරටත් දීර්ඝ කිරීමට රජය තීරණය කළ බවත් අමාත්‍යවරයා කියා සිටියේය.
+
+...
+
+[Data](articles/ed06fc25.json)
+
+---
+
+### රජයේ බංගලා හා ජනපති මන්දිරවලට කරන දේ
+
+*2024-12-10 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204224) · `si`
+
+රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යංශය යටතේ පාලනය වන බංගලා නිවාස, විසුම්පාය සහ විවිධ ප්‍රදේශයන්හි පවතින ජනාධිපති මන්දිර උපයෝජනය කිරීම පිණිස යෝග්‍ය ක්‍රමවේදයක් හඳුන්වා දීමට රජය තීරණය කර ඇත.
+
+ජනාධිපතිවරයා සහ රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යවරයා ඒකාබද්ධව මෙම යෝජනාව අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කර තිබේ.
+
+ඒ අනුව එම පරිශ්‍රයන් හා නිවාස ආර්ථිකමය වශයෙන් ඵලදායීව උපයෝජනය කිරීමට හැකි වන පරිදි යෝග්‍ය ක්‍රමවේදයක් යෝජනාකිරීම සඳහා නිලධාරී කමිටුවක් පත් කිරීම පිණිස සඳහා කැබිනට් අනුමැතිය ලබා දී ඇත.
+
+රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශයේ පරිපාලන බලධාරීත්වය යටතේ රජයේ බංගලා නිවාස 50 ක් කොළඹ 07 සහ 05 යන ප්‍රදේශවල පිහිටා ඇත.
+
+හිටපු ජනාධිපතිවරුන්, අමාත්‍යවරුන්, නියෝජ්‍ය අමාත්‍යවරුන් සහ විවිධ රාජ්‍ය ආයතන සඳහා මෙම බංගලා නිවාස වෙන් කිරීම සිදු කර තිබේ.
+
+එසේම ජනාධිපති කාර්යාලයේ පරිපාලන බලධාරිත්වය යටතේ කොළඹ, මහනුවර, නුවරඑළිය, මහියංගනය, අනුරාධපුරය, කතරගම, යාපනය, ඇඹිලිපිටිය සහ බෙන්තොට යන ප්‍රදේශවල ජනාධිපති මන්දිර පිහිටා ඇත.
+
+...
+
+[Data](articles/9813980c.json)
+
+---
+
 ### Cabinet approves monthly allowance for small fishing boat owners
 
 *2024-12-10 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104129/cabinet-approves-monthly-allowance-for-small-fishing-boat-owners) · `en`
@@ -207,6 +303,24 @@ Previously, the Cabinet of Ministers had approved a subsidy of Rs. 25 per litre 
 ...
 
 [Data](articles/2af9625e.json)
+
+---
+
+### ජනපති ඉරිදා ඉන්දියාවට
+
+*2024-12-10 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204223) · `si`
+
+ජනාධිපති ලබන 15 වනදා සිය ඉන්දීය සංචාරය ආරම්භ කරන බව කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+ඔහු සමග විදේශ අමාත්‍යවරයා සහ නියෝජ්‍ය මුදල් අමාත්‍යවරයා එක්වන බව අමාත්‍යවරයා පැවසීය.
+
+ජනපතිවරයා දෙසැම්බර් 15 වනදා සිට 17 වනදා තෙක් ඉන්දියාවේ සංචාරය කරන බවත් එහිදී ඉන්දීය ජනාධිපතිවරිය සහ අගමැති නරේන්ද්‍ර මෝදී සමග නිල සාකච්ඡා පැවැත්වීමට නියමිත බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+අනුර කුමාර දිසානායක මහතා ජනාධිපතිවරයා ලෙස පත්වීමෙන් අනතුරුව සිදුකරන ඔහුගේ පළමු විදෙස් සංචාරය මෙය වෙයි.
+
+◼️
+
+[Data](articles/2d618718.json)
 
 ---
 
@@ -407,6 +521,40 @@ Russian Ambassador Udayanga Weeratunga has imposed sanctions on charges of imple
 [Data](articles/007590ed.json)
 
 [Extended Data](ext_articles/007590ed.ext.json)
+
+---
+
+### Sri Lanka to extend bank parate execution suspension till March 31
+
+*2024-12-10 10:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-extend-bank-parate-execution-suspension-till-march-31-193188/) · `en`
+
+ECONOMYNEXT – Sri Lanka is extending a suspension of parate execution (foreclosure of mortgaged assets in a bad loan) till March 31, cabinet spokesman media minister Nalinda Jayatissa said.
+
+The extension was made to help small and medium enterprises who are in trouble after the last economic crisis, he said.
+
+Parate execution by banks was suspended till December 15 by the last administration.
+
+In the next three months a mechanism to find a solution to the problem will be made he said.
+
+◼️
+
+[Data](articles/0d970530.json)
+
+---
+
+### සහල් උපරිම වෙළඳපොළ මිල නියම කරමින් ගැසට් නිවේදන දෙකක්
+
+*2024-12-10 10:21:56* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-උපරිම-වෙළඳපොළ-මිල-නියම-කරමින්-ගැසට්-නිවේදන-දෙකක්/11-413550) · `si`
+
+වෙළඳපොළේ  දේශීය සහල් විකිණිය හැකි උපරිම සිල්ලර හා තොග මිල සහ ආනයනික සහල් විකිණිය හැකි උපරිම සිල්ලර  මිල නියම කරමින් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය මගින් වෙන වෙනම අති විශේෂ ගැසට් නිවේදන දෙකක් නිකුත් කර තිබේ.
+
+දේශීය සහල් මිල නියම කිරීමේ ගැසට් නිවේදනය අනුව සුදු/රතු කැකුළු සහල් කිලෝ ග්‍රෑම් එකක උපරිම තොග මිල රුපියල් 215 ක් හා සිල්ලර මිල රුපියල් 220 ක්,  මොට්ටෙයි කරුප්පන් සහ අට්ටකාරි හැර  වාෂ්පයෙන් තම්බන ලද /තැම්බූ, සුදු/රතු නාඩු කිලෝ ග්‍රෑමයක උපරිම තොග මිල රුපියල් 225 ක් හා තොග මිල රුපියල් 230 ක් ,වාෂ්පයෙන් තැම්බූ/තම්බන ලද කැකුළු සුදු/රතු සම්බා කිලෝ ග්‍රෑමයක උපරිම තොග මිල රුපියල් 235 ක් හා සිල්ලර මිල රුපියල් 240 ක් ,වාෂ්පයෙන් තම්බන ලද/තැම්බූ/ කැකුළු කීරි සම්බා කිලෝ ග්‍රෑමයක උපරිම  තොග මිල රුපියල් 255  ක් හා සිල්ලර මිල රුපියල් 260 ක් ලෙස නියම කර තිබේ.
+
+එමෙන්ම මෙම මිල ගණන් නියම කරමින් මීට පෙර නිකුත් කර තිබූ 2022 මැයි 02  දින අති විශේෂ  ගැසට් නිවේදනයේ 82 නියෝගය හා 2022 ජුනි 10 නිකුත් කළ අති විශේෂ ගැසට් නිවේදනයේ 83 නියෝගයද මෙම ගැසට් නිවේදනය මගින් පරිච්ඡින්න කර තිබේ.
+
+...
+
+[Data](articles/8a37b172.json)
 
 ---
 
@@ -1003,6 +1151,32 @@ RelatedSriLankan Airline exec’s wife offered US$16mn bribe for Airbus deal: Co
 ...
 
 [Data](articles/c6f8e747.json)
+
+---
+
+### SriLankan ගුවන් සමාගම ගැන ජනපති ගත් තීරණය පිළිබඳව විද්වතුන් කියන්නේ කුමක් ද?
+
+*2024-12-10 06:23:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj30nmxlx1zo) · `si`
+
+SriLankan ගුවන් සමාගම ගැන ජනපති ගත් තීරණය පිළිබඳව විද්වතුන් කියන්නේ කුමක් ද?
+
+ශ්‍රීලංකන් ගුවන් සේවය යනු ශ්‍රී ලංකාවේ පාඩු ලබන රාජ්‍ය ව්‍යාපාර අතර ඉහළින් ම ඇති ආයතනයකි.
+
+ශ්‍රීලංකන් ගුවන් සේවය පෞද්ගලීකරණය කිරීමට පසුගිය ආණ්ඩුව ගන්නා ලද තීන්දුව වෙනස් කරමින් වත්මන් රජය එය තවදුරටත් ජාතික ගුවන් සේවය ලෙස පවත්වාගෙන යාමට තීරණය කර තිබේ.
+
+එ් අනුව, ශ්‍රීලංකන් ගුවන් සේවය පෞද්ගලීකරණය නොකරන බවට ප්‍රකාශයක් කළ නව ජනාධිපති අනුර කුමාර දිසානායක ශ්‍රීලංකන් ගුවන් සේවය සඳහා නව අධ්‍යක්ෂ මණ්ඩලයක් ද පත් කළේ ය.
+
+ඇතැම් ආර්ථික විද්‍යාඥයින් පෙන්වා දෙන්නේ, ශ්‍රීලංකන් ගුවන් සේවය පවත්වාගෙන යාම සඳහා "ගුවන් යානයක් ඇසට නොදැකපු රට වැසියන් පවා බදු ගෙවමින් සිටින," බව ය.
+
+දිගින් දිගට ම පාඩු ලබමින්, අර්බුද රැසක් මැද ශ්‍රීලංකන් ගුවන් සේවය තවදුරටත් රජය සන්තකයේ තබා ගැනීම රටට, රටේ ආර්ථිකයට කෙලෙස බලපානු ඇති ද? බීබීසි සිංහල සේවය ඒ පිළිබඳව කළ සොයා බැලීමකි, මේ.
+
+ශ්‍රී ලංකාවේ ජාතික ගුවන් සේවය ලෙසින් ක්‍රියාත්මක වන ශ්‍රී ලංකන් ගුවන් සේවය 1979 වසරේදී ආරම්භ කරන ලදී.
+
+එම ගුවන් සේවය 2021 වසරේදී ලබා තිබූ අලාභය රුපියල් බිලියන 166.37කි.
+
+...
+
+[Data](articles/237a1421.json)
 
 ---
 
@@ -2019,245 +2193,5 @@ It further highlights that the incumbent Cabinet of Ministers has the power to r
 [Data](articles/32712fb1.json)
 
 [Extended Data](ext_articles/32712fb1.ext.json)
-
----
-
-### Everyone should dedicate to Sri Lanka to become a limited country of bribery - President
-
-*2024-12-09 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/200837) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake calls for dedication to combat bribery, citing ineffective laws and rising corruption scandals. He emphasizes the need for justice reform and transparency in investigations. The event marks International Anti-Corruption Day with the theme "Uniting youth for a clean future."
-
-🟩
-
-President Anuragumara Dissanayake said that no matter how many laws are enacted and how many companies are created, the citizens will not be upholded if they do not act properly.
-
-The President pointed out that if the people are not given justice to the people, the power will be ineffective if the people are not given justice.
-
-President Anuragumara Dissanayake made this statement at the Bandaranaike Memorial International Conference Hall today (09) at the "2024 International Anti -Corruption Day National Ceremony".
-
-The International Anti -Corruption Day for this year is celebrated on the theme "We will unite the youth for a clean future".
-
-The President also said that despite adequate laws and corporations to prevent bribery and corruption in Sri Lanka, the President also asked his conscience to ask if the law was used to prevent bribery and corruption.
-
-...
-
-[Data](articles/90d2ef7b.json)
-
-[Extended Data](ext_articles/90d2ef7b.ext.json)
-
----
-
-### Sivajilingam is admitted to the hospital
-
-*2024-12-09 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200836) · `ta`
-
-Q Sivajilingam, former NPC member, hospitalized in critical condition in Colombo. Admitted to private hospital for treatment.
-
-🟩
-
-Former member of the Northern Provincial Council. Q Sivajilingam has been admitted to the hospital in critical condition.
-
-During his visit to Colombo, he was admitted to a private hospital in Kaluppitti and was admitted to treatment.
-
-◼️
-
-[Data](articles/3bcb87b5.json)
-
-[Extended Data](ext_articles/3bcb87b5.ext.json)
-
----
-
-### Coconut exported traders attempt: government should take drastic measures - Frontline Socialist Party
-
-*2024-12-09 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/200831) · `ta`
-
-Sri Lanka faces coconut shortage; traders exploit gap. Government urged to act swiftly to stabilize prices and ensure supply.
-
-🟩
-
-With coconut shortages in the market, a few traders are trying to make the coconut and export them and make profits through it.. The government should take drastic measures to solve the issue, said the Socialist Party's educational campaign secretary, Pubudu Jayagoda.
-
-Coconut prices have risen as coconut shortages have intensified in the market. A coconut in the market is sold for 192 rupees. A few parts of Colombo are sold for 120 rupees.
-
-3100 million coconuts are produced annually in Sri Lanka according to past data. In this case, 2100 million coconuts are used for annual consumption, with plenty of coconuts and raised $ 400- 600 million.
-
-However, this year's coconut production has declined to 700 million. The short -term factors have not had the impact on this. Long -term factors have been influenced.
-
-...
-
-[Data](articles/c5287ca2.json)
-
-[Extended Data](ext_articles/c5287ca2.ext.json)
-
----
-
-### Ratwatta's appeal petition was recovered
-
-*2024-12-09 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200835) · `ta`
-
-L1:0
-
-🟩
-
-The writ petition filed in the Court of Appeal was withdrawn by former Secretary of State Lohan Ratwatta to judge the arrest of him on charges of using an unregistered luxury luxury that had no evidence of importing into the country.
-
-The writ petition was taken up yesterday in the presence of Chief Justice Nisanga Bandula Karunaratne.
-
-President's Attorney Sanjay Rajaratnam, who appeared on behalf of former Minister of State Lohan Ratwatta, said that his service recipient has now been released on bail by the court.
-
-He said he did not want to continue the petition and wanted to withdraw it.
-
-The Court of Appeal, who accepted the request, issued permission to recover the petition and dismissed the petition.
-
-◼️
-
-[Data](articles/a74b08f1.json)
-
-[Extended Data](ext_articles/a74b08f1.ext.json)
-
----
-
-### Progress Report of Bribery Commission
-
-*2024-12-09 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204205) · `si`
-
-Here's a summary of 200 characters based on the provided text:
-
-
-
-Bribery Commission progress: 57 arrests, 19 public officials, 3,431 complaints in 2023. Only 60 prosecutions. Judge Yasantha Kodagoda criticizes slow pace, inadequate resources.
-
-🟩
-
-The Supreme Court Judge Yasantha Kodagoda says that the investigations carried out by the Commission to Investigation Officers and Employees in the lower middle and lower grades and employees are in the area.
-
-It is his view that it is a powerful blow to the crushing battle of bribery and corruption.
-
-He was speaking at the 'International Corruption' program today (9) at the Bandaranaike Memorial Conference Hall today.
-
-In the progress report of the Bribery Commission of Bribery or Corruption in the year, he pointed out that 57 suspects were arrested by various bribes made by the Commission.
-
-He said that there were 19 suspects of Public Management and Leadership.
-
-In the year 2023, the Bribery or Corruption Commission, Bribery and Corruption complaints and 3,431 have been received.
-
-In 2023, only 3,219 investigations were completed in 2023, including investigations from 1,152 complaints and investigations.
-
-However, only 60 have been prosecuted in relation to the investigations.
-
-...
-
-[Data](articles/f307cb90.json)
-
-[Extended Data](ext_articles/f307cb90.ext.json)
-
----
-
-### A new idea to control animal proliferation
-
-*2024-12-09 20:01:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலங்குப்-பெருக்கத்தைக்-கட்டுப்படுத்த-புதிய-யோசனை/175-348506) · `ta`
-
-New idea: Control animal population through "small family" concept. Former politician introduced "Punji Paula Ratan" to Sinhala community in 1980s. Now applied to animals, leading to overpopulation. Government proposes culling damaged crops. Religious leader criticizes plan, accuses of ethnic cleansing.
-
-🟩
-
-The President of Janaseeta Peramuna, Battaramulla Seelaratana Thera, said that the concept of "small family" (Punji Paula Rataran) introduced to the Sinhala community by a former politician should be used to control their population.
-
-In response to a comment made by Agriculture Minister KD Lalkantha in Parliament, Thera made this statement.
-
-Commenting on the media, Seelaratana Thera said the idea of ​​'Punji Paula Ratan' was introduced in the 1980s to destroy the Sinhalese.
-
-"Once this concept is used for animals, they will also gradually experience destruction. However, this concept has increased the number of animals, and now the government recommends that the government attack the number of animals, ”Thera said.
-
-Minister Lalgantha recently proposed in Parliament to allow people to take action against the animals that destroy crops.
-
-Thera argued that the government has approved the killing of animals that damage crops.
-
-...
-
-[Data](articles/b8f97e5a.json)
-
-[Extended Data](ext_articles/b8f97e5a.ext.json)
-
----
-
-### Strong action against rice traders - President
-
-*2024-12-09 19:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-வர்த்தகர்களுக்கு-எதிராக-கடும்-நடவடிக்கை-ஜனாதிபதி/175-348505) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake warns rice traders about immediate action to address shortages. He met twice with mill owners. Government must comply; otherwise, stern action will be taken.
-
-🟩
-
-President Anura Kumara Dissanayake has advised rice traders to take immediate steps to address the rice shortage in the country.
-
-He made this suggestion at a special meeting held at the Presidential Secretariat regarding the increase in rice shortages in the market.
-
-The president has warned that if the government does not comply with the decision, it will take stern action against it.
-
-President Anuragumara Dissanayake has met with the owners of the rice mill 2 times to address the rice shortage in the market.. Remble
-
-◼️
-
-[Data](articles/e393571b.json)
-
-[Extended Data](ext_articles/e393571b.ext.json)
-
----
-
-### Those who lost the election have begun to join the government;Deputy Minister Mahinda
-
-*2024-12-09 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/200834) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Deputy Minister Mahinda Jayasinghe responds to election promises and rice mill issues. He assures fulfilling campaign vows, implementing poverty eradication plans, and stabilizing food prices.
-
-🟩
-
-Those who lost the election have now begun mudslinging against the National People's Power Government. Deputy Minister of Labor Mahinda Jayasinghe said that we are sympathetic to them.
-
-He was responding to questions raised by journalists regarding the contemporary political situation to the Deputy Minister who attended an event in Colombo on Monday (09).
-
-Question - Are the allegations that the promises made during the election period have not been fulfilled?
-
-Answer - We have not even been a month to take responsibility for the government. These days we are making plans for our future journey. We have clear policies and plans. We have put forward clear plans to the people of the country. So we will fulfill the promises we made.
-
-...
-
-[Data](articles/8af2b307.json)
-
-[Extended Data](ext_articles/8af2b307.ext.json)
-
----
-
-### Haiti gang massacres at least 110 people in Cite Soleil, rights group says
-
-*2024-12-09 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104117/haiti-gang-massacres-at-least-110-people-in-cite-soleil-rights-group-says) · `en`
-
-At least 110 people were killed over the weekend in Haiti’s Cite Soleil slum when a gang leader targeted elderly people he suspected of causing his child’s illness through witchcraft, the National Human Rights Defense Network (RNDDH) said on Sunday.
-
-Wharf Jeremie gang leader Monel “Mikano” Felix ordered the massacre after his child became sick, RNDDH said, saying that he sought advice from a Voodoo priest who accused elderly people in the area of harming the child through witchcraft.
-
-Gang members killed at least 60 people on Friday and 50 on Saturday using machetes and knives, it said.
-
-Cite Soleil, a densely populated slum by the port of the capital Port-au-Prince, is among the poorest and most violent areas of Haiti.
-
-Tight gang control, including the restriction of mobile phone use, has limited residents’ ability to share information about the massacre.
-
-Felix, who heads the Wharf Jeremie gang, was in 2022 banned from entering neighboring Dominican Republic.
-
-...
-
-[Data](articles/f17cc3b8.json)
-
-[Extended Data](ext_articles/f17cc3b8.ext.json)
 
 ---

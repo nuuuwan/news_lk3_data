@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 15:02:16**
+As of **2024-12-10 15:14:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,408 (99.9%) of 59,447 articles have been extended.
+59,410 (99.9%) of 59,447 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,9 +38,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Eight suspects, who were arrested and remanded in custody in connection with the murder of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’, have been granted bail by Homagama High Court today (10).
 
-Accordingly, the 08 individuals were ordered to be released on two surety bails and Rs. 100,000 each, and under strict conditions, Ada Derana reporter said.
+Accordingly, the 08 accused were ordered to be released under strict conditions, each on a cash bail of Rs. 100,000 and two surety bails, Ada Derana reporter said.
 
-Furthermore, the Homagama High Court judge, who imposed overseas travel bans on all eight suspects, also ordered them to hand over their passports to the court and to appear before Athurugiriya Police Station every Sunday.
+Furthermore, the Homagama High Court Judge, who imposed overseas travel bans on all eight suspects, also ordered them to hand over their passports to the court and to appear before the Athurugiriya Police Station on every Sunday.
 
 Police had arrested 18 individuals including a woman and a former Western Provincial Councillor, in connection with the shooting incident.
 
@@ -49,6 +49,8 @@ The shocking shooting incident had occurred during the opening ceremony of a tat
 ...
 
 [Data](articles/30036256.json)
+
+[Extended Data](ext_articles/30036256.ext.json)
 
 ---
 
@@ -69,6 +71,8 @@ He also urged traders, producers, wholesalers, and consumers to adhere to the an
 ◼️
 
 [Data](articles/ee4d4e7e.json)
+
+[Extended Data](ext_articles/ee4d4e7e.ext.json)
 
 ---
 

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 14:29:35**
+As of **2024-12-10 14:43:08**
 
 ## Newspaper Stats
 
-*Scraped **59,442** Articles*
+*Scraped **59,444** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
-colombotelegraphcom | 602
+colombotelegraphcom | 603
 bbccomsinhala | 621
 islandlk | 3,584
 economynextcom | 3,610
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,636
+adalk | 5,637
 adaderanalk | 7,234
 tamilmirrorlk | 8,485
 virakesarilk | 9,755
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,404 (99.9%) of 59,442 articles have been extended.
+59,404 (99.9%) of 59,444 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,20 @@ Our relationships are the ones who have disappeared!They are not missing. Today,
 [Data](articles/29bc47e4.json)
 
 [Extended Data](ext_articles/29bc47e4.ext.json)
+
+---
+
+### LANKA T10 තරගාවලිය හෙටින් ඇරඹේ
+
+*2024-12-10 13:34:13* · [`adalk`](https://www.ada.lk/breaking_news/LANKA-T10-තරගාවලිය-හෙටින්-ඇරඹේ/11-413555) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පළමු වරට සංවිධානය කරනු ලබන T10 තරගාවලිය හෙට(11දා) සිට ආරම්භ වේ.
+
+මූලික වටයේ තරග 21ක් පැවැත්වීමට නියමිත අතර, සෑම දිනයකම තරග 3 බැගින් පැවැත්වීමට කටයුතු යොදා තිබේ.
+
+◼️
+
+[Data](articles/d7f6c833.json)
 
 ---
 
@@ -1274,6 +1288,22 @@ Local government elections and provincial council elections simultaneously reduc
 
 ---
 
+### A Role Model President AKD Could Emulate In Anti-Corruption Crusade
+
+*2024-12-10 08:56:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-role-model-president-akd-could-emulate-in-anti-corruption-crusade/) · `en`
+
+Corruption could be defined as the abuse of power for private gains. Quite often political leaders and public officers are implicated in acts of corruption.
+
+Corruption takes place at different levels and scales. It ranges from taking bribes to financial-administrative corruption which involves abuse of public offices to derive private gains. The highest scale of corruption or grand corruption usually takes place at top level of public sector hierarchy with possible involvement of business giants and political heavyweights. The infamous central Bank Bond Scam is an example of a grand corruption.
+
+HK was a Nobel Peace Prize Laureate globally renowned for peace building diplomacy. He served as the Secretary of State and Security Advisor in the Government of the USA during the administrations of Pr. Richard Nixon and Pr. Gerald Ford.  HK was an American diplomat, political scientist and respected scholar.
+
+...
+
+[Data](articles/a0dcbda1.json)
+
+---
+
 ### Madurankuliya suspect
 
 *2024-12-10 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204217) · `si`
@@ -2185,45 +2215,5 @@ He has been handed over to the Chavakachcheri police station. The Chavakachcheri
 [Data](articles/44cdadd1.json)
 
 [Extended Data](ext_articles/44cdadd1.ext.json)
-
----
-
-### NPP’s pragmatism and the political economy
-
-*2024-12-10 01:44:37* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-pragmatism-and-the-political-economy/4-770281) · `en`
-
-By implementing reforms to strengthen governance, improve public institutions, and foster economic self-reliance, the Government can mitigate some of the risks posed by the agreements
-
-Sri Lanka finds itself at a pivotal moment as President Anura Kumara Dissanayake announced that the country aims to complete its debt restructuring agreements by December 2024, with plans to resume loan repayments in 2028. The National People’s Power (NPP) Government has inherited an agreement with the International Monetary Fund (IMF) that Ranil Wickremesinghe and his Government burdened the country with which is potentially deleterious. Within that context the timeline is ambitious to navigate the complex web of economic recovery, social protection, and political consolidation. Despite the serious shortcomings of these agreements, the Government needs to take calculated measures to stabilise the nation in pragmatic ways.
-
-...
-
-[Data](articles/ca0f1078.json)
-
-[Extended Data](ext_articles/ca0f1078.ext.json)
-
----
-
-### Gajendrakumar meets wealth today
-
-*2024-12-10 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/200842) · `ta`
-
-Gajendrakumar Ponnambalam meets TNA leaders today to discuss Tamil welfare and federal solutions for the new constitution. Meeting scheduled at Tamil National People's Front office in Kilinochchi at 6:00 PM.
-
-🟩
-
-The leader of the Tamil National Alliance (TNA) and Member of Parliament, Gajendrakumar Ponnambalam, will meet today (10), the leader of the Parliamentary Committee of the Democratic Tamil National Alliance (TNA).
-
-In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
-
-According to Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA) and Member of Parliament, recently said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum.
-
-Meanwhile, Sivagnanam Sridharan, the leader of the Sri Lanka Tamil National Alliance (TNA) parliamentary committee, and Selvam Adakkalanathan, the leader of the Democratic Tamil National Alliance (TNA), said they were ready to negotiate beyond the proposal.
-
-...
-
-[Data](articles/78ca1ab2.json)
-
-[Extended Data](ext_articles/78ca1ab2.ext.json)
 
 ---
